@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-11 15:46:19",
-  "count": 18347,
+  "updated": "2026-06-11 15:50:36",
+  "count": 18349,
   "items": [
+    {
+      "id": "4929887",
+      "time": "2026-06-11 15:49:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "4929886",
+      "time": "2026-06-11 15:48:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國股市強制平倉數量攀升】據Global Markets Investor稱，在近期韓國股市調整的過程當中，因追繳保證金而被強制拋售的股票約為3000億韓元，按提供的匯率換算，約合1.97億美元。Global Markets Investor稱，這是有史以來最高的拋售量。 韓國金融投資協會11日釋出的資料顯示，6月9日，受託股票交易中實際追繳保證金金額與未結算應收賬款之差總額達1698億韓元，創歷史新高。僅6月1日至9日，追繳保證金金額就已超過5500億韓元。（券商中國）"
+    },
+    {
+      "id": "4929885",
+      "time": "2026-06-11 15:48:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天順風能：中標華能陽江海上風電專案約6億元海工訂單】天順風能公告，公司海工板塊全資子公司近期新中標華能陽江三山島二海上風電專案海工導管架產品訂單約6億元人民幣。該專案規劃裝機容量500MW，擬安裝31臺單機容量16.2MW固定式風力發電機組，公司中標其中19套導管架和16套小管樁產品。公告提示，本次中標訂單受合同簽署、落地執行等因素制約，對業績影響存在不確定性，訂單具體金額以實際簽署合同為準。"
+    },
+    {
+      "id": "mkt:019eb5a7-2dd8-7dd8-afb7-c2bf0cc00d84",
+      "time": "2026-06-11 15:48:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italian prime minister said the EU's reform of golden-power rules will leave final decision-making to member states."
+    },
+    {
+      "id": "4929884",
+      "time": "2026-06-11 15:48:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【三暉電氣：控股子公司簽訂1.92億元日常經營合同】三暉電氣公告，控股子公司深圳三暉能源科技有限公司與江蘇洞志居建設工程有限公司簽訂儲能電池裝置採購合同，專案名稱為元氏主力100MW/400MWh共享儲能電站專案，合同金額為人民幣1.92億元。根據合同履行條件，合同履行將對本年度經營業績產生積極影響。"
+    },
+    {
+      "id": "mkt:019eb5a6-a289-7dd8-afb7-bcf6d40490e7",
+      "time": "2026-06-11 15:47:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports SK Hynix plans to triple wafer capacity by 2034 to meet rising memory chip demand."
+    },
+    {
+      "id": "4929883",
+      "time": "2026-06-11 15:47:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "義大利總理：歐盟對黃金權力規則的改革將最終決定權留給成員國。"
+    },
+    {
+      "id": "4929882",
+      "time": "2026-06-11 15:47:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲Meoo CLI釋出，本地AI程式設計專案可直接部署上線】阿里雲Meoo（秒悟）推出開源命令列工具Meoo CLI。安裝後，Claude Code、Codex、Cursor等本地AI程式設計助手可透過該工具呼叫雲端能力，完成資料庫接入、使用者登入、檔案儲存及專案釋出，將本地專案推進到線上可用狀態。"
+    },
+    {
+      "id": "mkt:019eb5a5-4e5c-7dd8-afb7-b282a8fbdc6b",
+      "time": "2026-06-11 15:46:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【MOFCOM to press ahead with policy rollout to accelerate service-trade growth】MOFCOM held a regular press briefing; spokesman He Yadong said the ministry, with other agencies, has this year rolled out measures to boost travel services exports, standardize service trade, and accelerate construction of national service-trade innovation demonstration zones and national digital trade demonstration zones. MOFCOM is also continuing its Thousand Sails cultural trade export initiative to help cultural firms expand overseas and said it will press on with policy implementation to accelerate new growth drivers in service trade."
+    },
+    {
+      "id": "4929881",
+      "time": "2026-06-11 15:45:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【商務部：將繼續抓好相關政策落實落地，加快培育服務貿易新動能】6月11日，商務部召開例行新聞釋出會。商務部新聞發言人何亞東表示，今年以來，商務部認真貫徹落實黨中央、國務院決策部署，會同有關部門出臺了一系列政策，包含促進旅行服務出口、服務貿易標準化、加快建設國家服務貿易創新發展示範區和國家數字貿易示範區等。同時，我們持續實施對外文化貿易“千帆出海”行動計劃，助力文化企業開拓國際市場。下一步，我們將繼續抓好相關政策落實落地，加快培育服務貿易新動能。"
+    },
     {
       "id": "4929880",
       "time": "2026-06-11 15:45:26",
@@ -17,6 +113,15 @@
         "公司"
       ],
       "text": "【和勝股份：控股股東部分股份解除質押，累計質押佔總股本5.18%】和勝股份公告稱，公司控股股東、實際控制人李建湘部分股份解除質押，本次解除質押股份數量為1085萬股，佔其所持股份比例12.34%，佔公司總股本3.49%。截至公告披露日，李建湘及其一致行動人累計質押公司股份1612萬股，佔其所持公司股份的14.52%，佔公司總股本的5.18%。其具備資金償還能力，質押風險可控，不存在平倉風險，也不會對公司生產經營等產生影響。"
+    },
+    {
+      "id": "4929878",
+      "time": "2026-06-11 15:45:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【油價小幅走低，但美伊新一輪敵對行動令達成和平協議的希望變得渺茫】儘管美伊之間新一輪的襲擊削弱了近期解決衝突的希望，但歐洲早盤時段油價依然下跌。布倫特原油下跌0.8%，至每桶92.40美元；而西得州中質油期貨在上一交易日結算價走高後，小幅下跌0.7%，至每桶89.43美元。睿諮得能源的Jorge Leon表示：“更清楚的是，近期達成協議的可能性已經從我們幾周前評估的40%左右縮小了。”“未來的走向現在更加不確定，接下來的幾天對於決定外交手段能否重新發揮作用，或者衝突是否會進入更持久的升溫週期至關重要。“與此同時，美國能源情報署的最新庫存資料顯示，美國原油庫存繼續收緊，上週減少了720萬桶。"
     },
     {
       "id": "4929877",
@@ -168827,95 +168932,6 @@
         "國際"
       ],
       "text": "【商務部：願與巴西共同推動雙邊農產品貿易高質量發展】商務部召開例行新聞釋出會，發言人何詠前表示，6月1日，商務部部長王文濤會見了來華訪問的巴西外交部長維埃拉，雙方就中巴經貿關係和多邊框架下合作等議題進行交流。巴西是中國大豆和牛肉第一大進口來源國。今年以來中國自巴西進口大豆和牛肉均呈現較快增長。中方願就有關問題與巴方保持溝通，共同推動雙邊農產品貿易高質量發展。"
-    },
-    {
-      "id": "mkt:019e919c-5e29-7668-960c-272e6c3c2262",
-      "time": "2026-06-04 15:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "ECB President Lagarde is due to speak in 10 minutes."
-    },
-    {
-      "id": "te:economy:556460",
-      "time": "2026-06-04 15:49:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Construction PMI",
-        "Importance 1"
-      ],
-      "text": "French Construction Sector Downturn Eases Slightly — The S&P Global France Construction PMI rose to 39.6 in May 2026 from 38.1 in April, signaling a slight improvement in operating conditions. The pace of decline in construction activity and new orders moderated, while contractions in commercial and residential building eased. Despite the improvement, the index remained well below the 50 threshold. Construction activity stayed among the weakest since the pandemic, led by the sharpest contraction in civil engineering work in nearly five-and-a-half years. Weak demand prompted firms to cut both permanent and temporary jobs, while construction companies continued to reduce purchasing activity. Input cost inflation remained at its second-highest level in three-and-a-half years, driven by higher energy prices linked to the Middle East conflict. Looking ahead, firms remained pessimistic about the next 12 months, citing weak tender activity, intense competition, and subdued demand."
-    },
-    {
-      "id": "4916844",
-      "time": "2026-06-04 15:49:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國財長：美國對強迫勞動的調查不合理。"
-    },
-    {
-      "id": "mkt:019e919b-3431-7668-960c-1f4559808f34",
-      "time": "2026-06-04 15:48:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【MOFCOM: China willing to continue talks with Brazil to promote high-quality bilateral agricultural trade】MOFCOM said June 1 its minister Raimondo met visiting Brazilian foreign minister Vieira to discuss China‑Brazil trade and multilateral cooperation. Brazil is China’s largest source of soybeans and beef and YTD imports of both from Brazil have risen sharply. China said it is willing to maintain communication with Brazil on related issues, including soybean inspection and safety standards and duty‑free beef quota, to jointly promote higher‑quality bilateral agricultural trade."
-    },
-    {
-      "id": "4916843",
-      "time": "2026-06-04 15:48:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐亞經濟聯盟對華鋁製餐廚具啟動反傾銷日落複審調查】近日，歐亞經濟委員會內部市場保護司釋出第2026/485/AD32R1號公告稱，應歐亞經濟聯盟生產商申請，依據委員會2026年第5號令，對原產於中國的可加熱鋁製餐廚具（俄語：алюминиевая посуда）啟動反傾銷第一次日落複審調查。涉案產品的歐亞經濟聯盟稅號為7615 10 100 0、7615 10 800 9、7616 99 100 8及7616 99 900 8。"
-    },
-    {
-      "id": "4916842",
-      "time": "2026-06-04 15:48:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鼎通科技：今年共規劃5條液冷產線 目前有序擴產中】鼎通科技(688668)在互動平臺表示，目前公司液冷產線已有2條正在執行中，另外根據市場需求及客戶預測等資訊，對於液冷產品今年共規劃5條產線，目前正在有序地進行擴產中。"
-    },
-    {
-      "id": "mkt:019e9199-ec02-7668-960c-1103e0797366",
-      "time": "2026-06-04 15:47:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Hudian shares hit intraday limit after AI-server order reports; company says orders sufficient through 2027, overseas capacity ramping】Hudian shares jumped to the daily limit intraday after market reports it won a large share of server orders from an overseas AI vendor; the company declined to confirm customer identities. Hudian said operations are stable and projects are proceeding normally, and it expects order volumes to be relatively sufficient through 2027. The company reports 1.6T switch motherboards are in mass production, 3.2T products are advancing steadily, and its Thailand plant is now running above 90% capacity as overseas capacity rollout continues. On full-year revenue guidance, Hudian advised investors to use first-quarter operating data as a reference."
-    },
-    {
-      "id": "mkt:019e9199-9578-7668-960c-0a708c9aa544",
-      "time": "2026-06-04 15:47:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【IDC: Huawei, Honor top China's foldable smartphone market in Q1 2026】Research firm IDC reports Q1 2026 China foldable smartphone market: Huawei ranked first; Honor's foldable market share rose sharply to 21%, placing it second. OPPO, vivo and Xiaomi ranked third through fifth."
-    },
-    {
-      "id": "4916841",
-      "time": "2026-06-04 15:46:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【商務部：對進口牛肉實施保障措施旨在階段性幫助國內產業渡過難關，而非限制正常牛肉貿易】商務部召開例行新聞釋出會，商務部已於6月1日釋出資訊，澳大利亞牛肉進口量已於6月1日到達國別年度配額數量的90%。如果進口達到門檻，商務部今年是否將自動適用保障關稅？還是商務部在做出決定之前還考慮了其他因素？商務部新聞發言人何詠前表示，商務部於2025年12月31日釋出公告對進口牛肉實施保障措施，措施形式為“國別配額及配額外加徵關稅”。為提高措施執行透明度，在一國進口數量達到各國年度配額數量的一定比例以及達到這一配額數量時，商務部和海關總署均將釋出相關提示資訊。我想強調的是，對進口牛肉實施保障措施旨在階段性幫助國內產業渡過難關，而非限制正常牛肉貿易。中國市場始終是開放的，中方願和各方一道共同維護好穩定健康的國際貿易環境。（商務部）"
     }
   ]
 }
