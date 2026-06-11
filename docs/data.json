@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-11 10:30:37",
-  "count": 18411,
+  "updated": "2026-06-11 10:34:32",
+  "count": 18402,
   "items": [
+    {
+      "id": "4929430",
+      "time": "2026-06-11 10:33:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.00%，現報3816.205點；上證指數跌0.55%，現報3971.179點；深證成指跌0.88%，現報14822.571點。"
+    },
+    {
+      "id": "te:economy:558233",
+      "time": "2026-06-11 10:33:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Holds Steady — The yield on the US 10-year Treasury note steadied around 4.55% on Thursday as investors continued to track developments in the Middle East while awaiting fresh US economic data for further clues on the Federal Reserve’s policy outlook. The US military said it had completed its latest strikes on Iran, boosting hopes that peace negotiations could resume and easing some concerns about inflationary pressures. Meanwhile, US consumer inflation accelerated in May to its fastest pace in more than three years due to soaring energy costs, though the reading came in line with expectations. Traders modestly scaled back expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced. Investors are now turning their attention to the latest producer inflation and weekly jobless claims data for additional signals on the future path of Fed policy."
+    },
+    {
+      "id": "4929429",
+      "time": "2026-06-11 10:33:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【富達國際：當前環境下，多元化配置的重要性更加突出】6月11日，富達國際在最新發布的《2026年年中投資展望》中表示，儘管全球市場面臨高度波動的環境，但整體基本面仍為風險資產提供支援。富達國際表示，近期中東局勢再次表明，全球地緣政治格局日益碎片化。隨著市場逐步淡化短期不確定性，投資者正重新聚焦於支撐資產表現的穩健基本面，而AI資本開支週期仍是推動全球市場增長的重要動力。與此同時，傳統避險資產所發揮的作用正在發生變化。在當前環境下，多元化配置的重要性較以往任何時候都更加突出。"
+    },
+    {
+      "id": "4929428",
+      "time": "2026-06-11 10:31:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤下跌1.5%，至63239.52點。東證指數早盤收盤下跌1.5%，至3788.46點。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606113767948561",
+      "time": "2026-06-11 10:31:21",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中國人民銀行首席研究員鄒平座：破除“數字公地”亂象 應確立個人數字產權法定地位】“資料要素確權難、定價難、交易難的問題，已經成為中國數字經濟發展的重大阻滯。”6月8日，中國政法大學舉辦法治化營商環境建設（公益）大講堂，中國人民銀行首席研究員、中國製造業金融研究院院長鄒平座表示，數字經濟的蓬勃發展，亟需與之匹配的法律制度供給。"
+    },
     {
       "id": "4929427",
       "time": "2026-06-11 10:30:02",
@@ -169587,131 +169633,6 @@
         "市場"
       ],
       "text": "【大消費板塊持續下挫 歡樂家跌超10%】大消費板塊盤中持續下挫，食品飲料、零售方向領跌，歡樂家跌超10%，中百集團觸及跌停，安奈兒、中央商場、寧波中百、步步高、國芳集團跌幅靠前。"
-    },
-    {
-      "id": "4916431",
-      "time": "2026-06-04 10:34:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼礦業部公佈，1-4月印尼鎳冰鎳產量為23730公噸。"
-    },
-    {
-      "id": "te:economy:556317",
-      "time": "2026-06-04 10:34:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Reverse Repo Rate",
-        "Importance 1"
-      ],
-      "text": "PBoC Continues Zero Reverse Repo Operations — The People's Bank of China (PBoC) left its daily liquidity injections unchanged at zero for a second consecutive session on Thursday, following the first suspension of seven-day reverse repo operations in nearly two years a day earlier. The central bank said the zero-volume operation reflected the needs of primary dealers in open market operations. The move has drawn market attention as it comes despite ample liquidity in the banking system. The consecutive zero operations suggest policymakers are comfortable with current funding conditions and see no immediate need to inject additional cash into the financial system."
-    },
-    {
-      "id": "mkt:019e907b-372e-7cc0-ba22-c53007245752",
-      "time": "2026-06-04 10:34:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Indonesia's mining ministry said nickel pig iron output totaled 198,970 tonnes from January to April."
-    },
-    {
-      "id": "4916430",
-      "time": "2026-06-04 10:33:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼礦產部公佈，該國1-4月鎳鐵產量為19.897萬噸。"
-    },
-    {
-      "id": "mkt:019e907a-9f4f-7cc0-ba22-bc5a1af62dfa",
-      "time": "2026-06-04 10:33:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TSMC (TSM.N) CEO said the company is not seeking memory-like price spikes and is focused on long-term sustainable growth."
-    },
-    {
-      "id": "4916429",
-      "time": "2026-06-04 10:33:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電執行長：不尋求效仿儲存晶片行業漲價，專注於長期可持續增長。"
-    },
-    {
-      "id": "4916428",
-      "time": "2026-06-04 10:33:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【張平宗任中國移動雲能力中心黨委書記、董事長】近日，記者獲悉，張平宗任中國移動雲能力中心黨委書記、董事長。張平宗，男，漢族，1977年8月生，研究生學歷，通訊與資訊工程碩士，中共黨員。曾任寧夏移動副總經理，掛職甘肅省慶陽市副市長。2026年1月任中國移動算力辦公室主任，2026年5月任中國移動雲能力中心黨委書記、董事長。（人民郵電報）"
-    },
-    {
-      "id": "mkt:019e907a-54b2-7cc0-ba22-b158c05ac2b4",
-      "time": "2026-06-04 10:33:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Indonesia's Ministry of Mining said nickel ore production from January to April totaled 93.11 mln tonnes."
-    },
-    {
-      "id": "mkt:019e907a-4ece-7cc0-ba22-a88ced414e6f",
-      "time": "2026-06-04 10:33:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese researchers identify peptide-based 'on-demand' cold-resistance mechanism in crop flowering】Researchers at the Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, said an intelligent-breeding team, after eight years of work, identified the first small-peptide signal that senses low temperature during crop reproductive development and decoded the pollen cold-sensing and signal-transduction mechanism. The pathway explains how plants mount precise, on‑demand defenses to protect pollen during short, unpredictable cold snaps, supporting crop resilience and stable production. The study was published online in Nature on June 3 (Beijing time)."
-    },
-    {
-      "id": "4916427",
-      "time": "2026-06-04 10:33:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼礦業部資料顯示，該國1-4月鎳礦石產量為9311萬公噸。"
-    },
-    {
-      "id": "mkt:019e907a-15e7-7cc0-ba22-a419857cb323",
-      "time": "2026-06-04 10:33:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N"
-      ],
-      "text": "TSMC CEO said he views customers as partners but the company must still remain profitable."
-    },
-    {
-      "id": "4916426",
-      "time": "2026-06-04 10:32:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國聯通在杭州投資成立智算科技公司】企查查APP顯示，近日，聯通智算科技（杭州）有限公司成立，法定代表人為戴苓，註冊資本為10億元，經營範圍包含：以自有資金從事投資活動；人工智慧應用軟體開發；雲端計算裝備技術服務；資訊系統整合服務等。企查查股權穿透顯示，該公司由中國聯合網路通訊有限公司全資持股。"
-    },
-    {
-      "id": "4916425",
-      "time": "2026-06-04 10:31:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日經225指數早盤收盤下跌 1.9%，報67101.83 點；日本東證指數早盤收盤下跌 1.4%，報 3940.22 點"
-    },
-    {
-      "id": "mkt:019e9078-b71e-7cc0-ba22-9d8133906b8e",
-      "time": "2026-06-04 10:31:30",
-      "tags": [
-        "MKT News",
-        "2330.TW"
-      ],
-      "text": "TSMC co-chief operating officer said Intel's packaging technology is an alternative; each technology has its own challenges, and the company does not fear challenges or competition."
     }
   ]
 }
