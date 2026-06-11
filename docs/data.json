@@ -1,7 +1,136 @@
 {
-  "updated": "2026-06-12 01:44:15",
-  "count": 18484,
+  "updated": "2026-06-12 01:48:11",
+  "count": 18483,
   "items": [
+    {
+      "id": "4931102",
+      "time": "2026-06-12 01:46:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "新興市場股指收復日內跌幅，因特朗普取消軍事打擊行動。"
+    },
+    {
+      "id": "mkt:019eb7cb-0255-7dd8-afc8-3b348914775a",
+      "time": "2026-06-12 01:46:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,170/oz, gaining 2.44% on the day."
+    },
+    {
+      "id": "4931101",
+      "time": "2026-06-12 01:46:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲幅達2%，道指漲1.6%，標普500指數漲1.3%。"
+    },
+    {
+      "id": "mkt:019eb7ca-95ab-7dd8-afc8-30b92bc97d5d",
+      "time": "2026-06-12 01:46:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "Nasdaq Composite rose 2.0%, the Dow gained 1.6% and the S&P 500 rose 1.3%."
+    },
+    {
+      "id": "mkt:019eb7c9-fa7a-7dd8-afc8-2fc1c6d912d9",
+      "time": "2026-06-12 01:45:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Markets no longer fully price in a Fed interest-rate hike this year."
+    },
+    {
+      "id": "4931100",
+      "time": "2026-06-12 01:44:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員將美聯儲加息時間的預期從12月推後至2027年1月。"
+    },
+    {
+      "id": "4931099",
+      "time": "2026-06-12 01:44:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲2.00%，現報25673.009點；道指漲1.75%，現報50794.109點；標普500指數漲1.48%，現報7374.280點。"
+    },
+    {
+      "id": "te:markets:558447",
+      "time": "2026-06-12 01:44:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Silver is up by 5.01% — Silver increased 5.01% to 66.571 USD/t.oz"
+    },
+    {
+      "id": "4931098",
+      "time": "2026-06-12 01:44:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報556.30元。"
+    },
+    {
+      "id": "mkt:019eb7c9-1518-7dd8-afc8-21cdd085783d",
+      "time": "2026-06-12 01:44:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's Civil Aviation Authority said it has sent a third protest note to the International Civil Aviation Organization over an attack on radar facilities at Kuwait airport."
+    },
+    {
+      "id": "mkt:019eb7c8-d170-7dd8-afc8-1aca86c26330",
+      "time": "2026-06-12 01:44:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kuwait Civil Aviation Authority said radar facilities at Kuwait International Airport were attacked on Thursday morning, injuring personnel and causing severe damage to radar and air-traffic management equipment."
+    },
+    {
+      "id": "4931097",
+      "time": "2026-06-12 01:44:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指上漲2%。"
+    },
+    {
+      "id": "4931096",
+      "time": "2026-06-12 01:43:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭證實昨晚襲擊了俄羅斯阿菲普斯基煉油廠。"
+    },
     {
       "id": "4931095",
       "time": "2026-06-12 01:43:42",
@@ -170225,140 +170354,6 @@
         "Importance 1"
       ],
       "text": "Coca-Cola Stock Price Hits 4-week Low — Coca-Cola shares decreased to 77.83 USD, the lowest since May 2026. Over the past 4 weeks, Coca-Cola lost 0.78%, and in the last 12 months, it increased 9.82%."
-    },
-    {
-      "id": "4917982",
-      "time": "2026-06-05 01:48:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【舊金山聯儲行長稱貨幣政策處於良好狀態 但利率前景不明】舊金山聯儲行長瑪麗·戴利表示，當前貨幣政策處於良好狀態，但經濟面臨太多不確定性，因此難以判斷利率未來走向。“無論經濟如何發展，我們都做好了應對準備，”戴利週四在舊金山舉行的彭博科技大會上表示。“我認為對未來可能發生的情況給出更多前瞻性指引，最終可能會產生誤導，因為我們必須等待經濟形勢的發展。”外界普遍預計美聯儲官員將在6月16日至17日的下次議息會議上維持利率不變，這將是新任主席凱文·沃什主持下的首次會議。戴利還表示，儘管經濟資料尚未顯示人工智慧帶來明顯的生產力提升，但她依然看好這項技術的發展前景。“我們尚未看到廣泛的生產力提升，”戴利說。企業使用人工智慧所獲得的投資回報“仍有待顯現”，但企業對這項技術的熱情“極其高漲”。她說：“我相當看好。我看到了可能性，而且我聽到越來越多的人表示看到了初步回報，並真正意識到明年將是關鍵的一年。”"
-    },
-    {
-      "id": "4917981",
-      "time": "2026-06-05 01:47:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部表示，已將招生調查範圍擴大至另外15所醫學院。"
-    },
-    {
-      "id": "mkt:019e93bf-4470-799e-8472-2dc2f61c5d37",
-      "time": "2026-06-05 01:47:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Putin said he believes Kyiv is not yet prepared to make concessions."
-    },
-    {
-      "id": "4917980",
-      "time": "2026-06-05 01:47:02",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：高盛預估 SpaceX 八成資本開支將投向人工智慧領域。"
-    },
-    {
-      "id": "4917979",
-      "time": "2026-06-05 01:46:56",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：高盛預計 SpaceX 截至 2028 年資本開支達 3600 億美元。"
-    },
-    {
-      "id": "4917978",
-      "time": "2026-06-05 01:46:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京談烏克蘭問題：我認為基輔並未準備好作出妥協。"
-    },
-    {
-      "id": "4917977",
-      "time": "2026-06-05 01:45:55",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲在6月4日的常備回購操作中全額接受了申報的300萬美元額度。"
-    },
-    {
-      "id": "4917976",
-      "time": "2026-06-05 01:45:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京談烏克蘭問題：歐盟無法擔任調停者，但可提供協助。"
-    },
-    {
-      "id": "mkt:019e93bd-eacc-799e-8472-26154a613dd6",
-      "time": "2026-06-05 01:45:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Schmid: 2% inf target is easy to communicate; the Fed should not let that message become muddled."
-    },
-    {
-      "id": "4917975",
-      "time": "2026-06-05 01:45:47",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：高盛預測至 2030 年 SpaceX 累計現金消耗將達 3500 億美元。"
-    },
-    {
-      "id": "mkt:019e93bd-a925-7114-9155-6edf81f3bccd",
-      "time": "2026-06-05 01:45:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin says the EU cannot act as a mediator in Ukraine negotiations because mediation requires neutrality."
-    },
-    {
-      "id": "mkt:019e93bd-54c4-7114-9155-66c45f7bd0b9",
-      "time": "2026-06-05 01:45:18",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Putin says Russia willing to hold talks with Ukraine at US base in Anchorage】On the 4th, Putin said Russia is fully prepared to hold peace talks with Ukraine at the US military base in Anchorage, Alaska. He said Russia is prepared to accept the compromise reached by Russian and US leaders at their Anchorage meeting last August, but Kyiv must agree; if Kyiv accepts the Anchorage compromise, the Russia-Ukraine conflict would end quickly."
-    },
-    {
-      "id": "4917974",
-      "time": "2026-06-05 01:44:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：2%的通脹目標易於傳達，美聯儲不應模糊這一核心表述。"
-    },
-    {
-      "id": "mkt:019e93bc-9872-7114-9155-5ed979eb5d82",
-      "time": "2026-06-05 01:44:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's Schmid: The crux is whether the Fed needs to raise rates to 'suppress inf' and meet its inf target."
     }
   ]
 }
