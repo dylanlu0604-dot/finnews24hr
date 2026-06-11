@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-12 02:57:15",
-  "count": 18421,
+  "updated": "2026-06-12 03:01:28",
+  "count": 18423,
   "items": [
+    {
+      "id": "mkt:019eb80e-9757-7dd8-afc9-34daa486dbed",
+      "time": "2026-06-12 03:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Al Arabiya cited sources saying a Qatari delegation returning from Tehran has delivered to US officials Iran's approval of the final draft of the agreement."
+    },
+    {
+      "id": "4931154",
+      "time": "2026-06-12 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.91%，報24382.48點，高水133.19點。"
+    },
+    {
+      "id": "4931153",
+      "time": "2026-06-12 02:59:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國與星鏈公司簽署了關於應對重大災害的諒解備忘錄。"
+    },
+    {
+      "id": "mkt:019eb80d-14b0-7dd8-afc9-29a652ab2ce4",
+      "time": "2026-06-12 02:58:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "India issued a notice restricting retail fuel stations to sell no more than 200 liters of high-speed diesel (HSD) per single customer or vehicle per day; purchased HSD may not be resold."
+    },
+    {
+      "id": "4931152",
+      "time": "2026-06-12 02:58:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【野村：歐洲央行本週期將再加息三次 歐元將受到支撐】野村經濟學家表示，歐洲央行在本週期內還將加息三次。他們認為歐洲央行的鷹派立場將在未來幾個月提振歐元兌英鎊的匯率。野村的Andrzej Szczepaniak、George Buckley、Josie Anderson和David Seif在歐洲央行週四如期加息25個基點後寫道：行長拉加德領導的歐洲央行官員釋出的新基線預測“比我們預期的更加鷹派”。“我們認為歐洲央行的鷹派預測是合理的，並將導致貨幣政策比我們之前預期的更加緊縮”。野村經濟學家現在預計，歐洲央行將在9月、12月以及明年3月再次加息，將存款利率提高到3%。"
+    },
+    {
+      "id": "mkt:019eb80c-266b-7dd8-afc9-274c3a865a81",
+      "time": "2026-06-12 02:57:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "India issued a notice requiring institutional, direct-supply and industrial/commercial customers to source petrol and high-speed diesel (HSD) only via their own retail fueling facilities."
+    },
     {
       "id": "mkt:019eb80a-0331-7dd8-afc9-1c6b7345a02b",
       "time": "2026-06-12 02:55:24",
@@ -169781,40 +169842,6 @@
         "國際"
       ],
       "text": "美國國防部長赫格塞斯：美國反對推翻玻利維亞政府的企圖。"
-    },
-    {
-      "id": "4918073",
-      "time": "2026-06-05 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.32%，報25171.10點，低水82.30點。"
-    },
-    {
-      "id": "mkt:019e9401-2a5c-755d-92d4-f2481c3c5d51",
-      "time": "2026-06-05 02:59:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy publishes open letter to Putin proposing meeting, seeks Europe and US participation】Ukrainian President Zelenskiy on the 4th published an open letter to Russian President Putin proposing a meeting, asking that a date be set and urging participation by Europe and the United States."
-    },
-    {
-      "id": "4918072",
-      "time": "2026-06-05 02:58:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【澤連斯基公開致信普京 提議舉行會晤】烏克蘭總統澤連斯基4日釋出致俄羅斯總統普京的公開信，提議與普京舉行會晤併為之確定日期。澤連斯基主張歐洲和美國參與這一程序。（新華社）"
-    },
-    {
-      "id": "mkt:019e93ff-a1db-755d-92d4-ef973d4e38cb",
-      "time": "2026-06-05 02:57:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "An adviser to Iran's supreme leader said Trump seeks to pressure Iran into accepting his terms while leaving Iran's demands ambiguous; the current draft contains ambiguities that must be clarified."
     }
   ]
 }
