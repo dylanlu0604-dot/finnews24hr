@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-12 03:39:21",
-  "count": 18464,
+  "updated": "2026-06-12 03:43:10",
+  "count": 18463,
   "items": [
+    {
+      "id": "te:markets:558455",
+      "time": "2026-06-12 03:42:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "General Electric Aerospace Stock Price Hits 14-week High — General Electric Aerospace shares increased to 332.52 USD, the highest since March 2026. Over the past 4 weeks, General Electric Aerospace gained 11.74%, and in the last 12 months, it increased 38.49%."
+    },
+    {
+      "id": "4931211",
+      "time": "2026-06-12 03:42:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院延長禁令，暫緩執行針對特朗普全球 10% 關稅政策的不利裁決。"
+    },
     {
       "id": "4931210",
       "time": "2026-06-12 03:38:12",
@@ -170199,36 +170219,6 @@
         "Impact bullish"
       ],
       "text": "Market sources say Boeing (BA.N) is considering boosting 737 production to levels close to the aggressive production targets set by Airbus."
-    },
-    {
-      "id": "4918103",
-      "time": "2026-06-05 03:41:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "據航空資訊 Air Current 訊息，波音正考慮上調 737 機型產能，目標逼近競爭對手空客定下的超高量產指標。"
-    },
-    {
-      "id": "4918102",
-      "time": "2026-06-05 03:41:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國兩年期國債收益率跌3.5個基點】週四（6月4日）紐約尾盤，美國10年期國債收益率跌2.17個基點，報4.4729%，全天處於下跌狀態，北京時間20:30重新整理日低至4.4453%。兩年期美債收益率跌3.51個基點，報4.0472%；30年期美債收益率跌1.71個基點，報4.9746%。2/10年期美債收益率利差漲1.340個基點，報+42.358個基點。10年期通脹保值國債（TIPS）收益率跌1.36個基點，至2.0876%；兩年期TIPS收益率漲1.30個基點，至1.3906%；30年期TIPS收益率跌1.85個基點，至2.7156%。"
-    },
-    {
-      "id": "mkt:019e9426-2717-755d-92d5-a2584d6ac6ef",
-      "time": "2026-06-05 03:39:48",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Zelenskiy offers direct talks, proposes ceasefire and \"all-for-all\" prisoner swap in public letter to Putin】On the 4th (local time) Ukrainian President Zelenskiy sent a public letter to Russian President Putin proposing a direct meeting to seek an end to the conflict and to establish concrete security guarantees. Zelenskiy said Ukraine does not intend the war to continue and put forward a ceasefire negotiation plan: direct Ukraine‑Russia talks first, with the US, Europe and other parties joining later to support a security framework. He said Ukraine is prepared to implement a comprehensive ceasefire during negotiations and to pursue prisoner exchanges on an \"all-for-all\" basis. Kremlin press secretary Peskov said Putin has not yet read the letter."
     }
   ]
 }
