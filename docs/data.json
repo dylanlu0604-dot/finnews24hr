@@ -1,7 +1,136 @@
 {
-  "updated": "2026-06-12 04:01:58",
-  "count": 18453,
+  "updated": "2026-06-12 04:05:49",
+  "count": 18459,
   "items": [
+    {
+      "id": "mkt:019eb84a-1e07-7dd8-afca-a960c8c19656",
+      "time": "2026-06-12 04:05:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the memorandum of understanding is very strong and detailed."
+    },
+    {
+      "id": "4931225",
+      "time": "2026-06-12 04:05:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊核相關協議是一份約束力極強的諒解備忘錄。"
+    },
+    {
+      "id": "mkt:019eb849-c879-7dd8-afca-a035336b173e",
+      "time": "2026-06-12 04:05:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said Iran is more eager than he is to reach an agreement and that Tehran has been severely hit."
+    },
+    {
+      "id": "mkt:019eb849-434d-7dd8-afca-9d5671bd6cd7",
+      "time": "2026-06-12 04:04:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said on the Iran deal that all Iranians have approved the agreement."
+    },
+    {
+      "id": "4931224",
+      "time": "2026-06-12 04:04:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊核協議：伊朗各方均已批准該協議。"
+    },
+    {
+      "id": "4931223",
+      "time": "2026-06-12 04:03:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及協議談判反覆：伊朗如今已遭受重創，他們遠比我更渴望達成協議。"
+    },
+    {
+      "id": "mkt:019eb848-b963-7dd8-afca-96bbf247bb81",
+      "time": "2026-06-12 04:03:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said once the agreement is signed the US will lift the blockade."
+    },
+    {
+      "id": "mkt:019eb848-9128-7dd8-afca-8df557d4907e",
+      "time": "2026-06-12 04:03:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Iran will not acquire or develop nuclear weapons."
+    },
+    {
+      "id": "4931222",
+      "time": "2026-06-12 04:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：解除霍爾木茲海峽封鎖是伊朗核協議的一部分。"
+    },
+    {
+      "id": "mkt:019eb847-f63d-7dd8-afca-85113d09684d",
+      "time": "2026-06-12 04:03:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said Iran will not have nuclear weapons."
+    },
+    {
+      "id": "4931221",
+      "time": "2026-06-12 04:02:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：協議一經簽署，美國將解除封鎖。"
+    },
+    {
+      "id": "mkt:019eb847-8dbd-7dd8-afca-7bacebd50955",
+      "time": "2026-06-12 04:02:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he understands Iran's Supreme Leader has agreed to an Iran deal."
+    },
+    {
+      "id": "4931220",
+      "time": "2026-06-12 04:02:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗核協議：我得知伊朗最高領袖已同意達成協議。"
+    },
+    {
+      "id": "4931219",
+      "time": "2026-06-12 04:02:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱伊核協議將於本週末簽署：很快就會落地。"
+    },
     {
       "id": "mkt:019eb846-60d0-7dd8-afca-7378cc16a81b",
       "time": "2026-06-12 04:01:20",
@@ -170061,79 +170190,6 @@
         "其他"
       ],
       "text": "DocuSign預計二季度營收8.65億-8.69億美元，分析師預期8.66億美元。"
-    },
-    {
-      "id": "mkt:019e943d-bbd2-755d-92d6-02edacaba4b9",
-      "time": "2026-06-05 04:05:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "U.S. equity close, June 4 (Thursday): Dow Jones Industrial Average +875.05 points (1.73 pct) to 51,562.12; S&P 500 +30.65 points (0.41 pct) to 7,584.33; Nasdaq Composite -23.02 points (0.09 pct) to 26,830.96."
-    },
-    {
-      "id": "4918121",
-      "time": "2026-06-05 04:05:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "Lululemon給出本財年淨營收指引區間 110 億至 111.5 億美元，此前指引為 113.5 億至 115 億美元。"
-    },
-    {
-      "id": "mkt:019e943c-2571-755d-92d5-fc3a8769f067",
-      "time": "2026-06-05 04:03:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said on the Ukraine conflict that they need to make some compromises."
-    },
-    {
-      "id": "4918120",
-      "time": "2026-06-05 04:03:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "KBW銀行指數收盤上漲3.7%，創2月份以來最高。"
-    },
-    {
-      "id": "4918119",
-      "time": "2026-06-05 04:02:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：普京與澤連斯基雙方都將做出妥協。"
-    },
-    {
-      "id": "mkt:019e943b-1cdf-755d-92d5-f3e99bd0bcf4",
-      "time": "2026-06-05 04:02:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said PULTE's appointment as acting director of national intelligence is a short-term arrangement and that he could be highly effective in the near term."
-    },
-    {
-      "id": "4918118",
-      "time": "2026-06-05 04:02:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石集團收漲7.5%，創2025年4月份以來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:019e943a-c9e8-755d-92d5-efc6a2adc6f4",
-      "time": "2026-06-05 04:02:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Investors' demand for clarity on Venezuela's measures to revive its oil-rich economy and restructure debt has prompted JP Morgan and Jefferies to arrange fact‑finding visits to Caracas. Jefferies executives visited this week and are considering a return in the coming weeks; JP Morgan is working to schedule a trip and may bring clients."
     }
   ]
 }
