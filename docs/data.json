@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-12 01:21:08",
-  "count": 18464,
+  "updated": "2026-06-12 01:25:00",
+  "count": 18461,
   "items": [
+    {
+      "id": "mkt:019eb7b5-65db-7dd8-afc7-92825600e6de",
+      "time": "2026-06-12 01:22:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iran defense ministry responds to Trump island-seizure remarks】On June 11 Iran's defense ministry said defense-industry personnel will continue full support for the armed forces to bolster deterrence, and that readiness, combat and defensive capabilities are stronger than ever. It warned any miscalculation or attack on Iran's security or territorial integrity would be met with resolute retaliation, with consequences far beyond attackers' expectations."
+    },
+    {
+      "id": "mkt:019eb7b4-ccdf-7dd8-afc7-8bacaa2c625f",
+      "time": "2026-06-12 01:22:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500"
+      ],
+      "text": "S&P 500 briefly turned negative."
+    },
+    {
+      "id": "4931038",
+      "time": "2026-06-12 01:22:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗國防部回應特朗普奪島言論】當地時間6月11日晚，伊朗國防部發布宣告稱，伊朗國防工業人員將繼續全力支援伊朗武裝部隊，增強威懾力。如今伊朗武裝部隊的戰備水平、作戰能力和防禦力量都比以往任何時候更加強大。任何針對伊朗國家安全和領土完整的誤判或攻擊都將遭到堅決反擊，其後果將遠遠超出敵人的想象。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019eb7b4-7ac0-7dd8-afc7-8022bc9629d6",
+      "time": "2026-06-12 01:21:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $460 mln from three counterparties in fixed-rate reverse repo operations."
+    },
+    {
+      "id": "4931037",
+      "time": "2026-06-12 01:21:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數轉跌。"
+    },
+    {
+      "id": "mkt:019eb7b3-daa6-7dd8-afc7-7ab1f72ab5f1",
+      "time": "2026-06-12 01:21:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CNN, citing sources, reported U.S. energy industry executives have warned the White House that oil inventories are steadily declining."
+    },
     {
       "id": "mkt:019eb7b3-22da-7dd8-afc7-76fd9460cb83",
       "time": "2026-06-12 01:20:30",
@@ -21,6 +83,15 @@
         "國際"
       ],
       "text": "市場訊息：美國能源行業高管已就石油儲量不斷減少的問題向白宮發出警示。"
+    },
+    {
+      "id": "4931035",
+      "time": "2026-06-12 01:19:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美媒：伊朗向卡達調停方提交與美協議最新草案】據美國媒體當地時間週四報道，熟悉調解情況的美國和地區訊息人士週四表示，伊朗敲定了其與美國擬議協議的最新草案，並將其提交給卡達中間人，由其轉交華盛頓。一名熟悉伊朗領導層情況的地區訊息人士表示：“協議文字已於週三晚間完成並敲定。卡達方面一直在與伊朗和美國雙方保持聯絡，以推動協議達成。如果獲得最終批准，諒解備忘錄的落實程式將隨即啟動。”一名熟悉卡達調解情況的美國訊息人士也證實，一份協議草案已經提交，但協議的具體細節目前尚未公佈。"
     },
     {
       "id": "mkt:019eb7b2-711f-7dd8-afc7-6935cc06a157",
@@ -170111,87 +170182,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京：施羅德值得信任。"
-    },
-    {
-      "id": "4917944",
-      "time": "2026-06-05 01:24:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯普京：（施羅德）他有自己的立場，並做好了堅持該立場的準備。"
-    },
-    {
-      "id": "4917943",
-      "time": "2026-06-05 01:24:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國數字財富管理服務管理公司Hargreaves Lansdow：客戶可於今日起至6月10日（週三）晚上11點59分申請認購SpaceX股票。"
-    },
-    {
-      "id": "4917942",
-      "time": "2026-06-05 01:24:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：（ 施羅德  ）他不是我的朋友，他是德國官員。"
-    },
-    {
-      "id": "4917941",
-      "time": "2026-06-05 01:23:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄歐會談若不由前德國總理施羅德擔任調停人，還能有誰？"
-    },
-    {
-      "id": "mkt:019e93a9-302e-711f-ac53-75ba00429c13",
-      "time": "2026-06-05 01:23:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Russia had used \"Hazel\" missiles to test their effects."
-    },
-    {
-      "id": "4917940",
-      "time": "2026-06-05 01:23:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，澳航正就潛在採購約20架波音787或空客A350飛機與飛機製造商進行談判。"
-    },
-    {
-      "id": "4917939",
-      "time": "2026-06-05 01:22:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：在美國得州Gray County和Roberts County進行新的資料中心和能源投資。"
-    },
-    {
-      "id": "mkt:019e93a8-6ae6-711f-ac53-689a68ef33ab",
-      "time": "2026-06-05 01:22:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Russia has all resources needed to achieve its military objectives and that those resources are increasing."
-    },
-    {
-      "id": "4917938",
-      "time": "2026-06-05 01:22:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【分析認為比特幣可能再次測試5.5萬美元】Bitget的Lacie Zhang表示，比特幣還有進一步下跌的空間。Zhang在一份報告中將比特幣的新支撐位定在55,000美元的低位。這將使比特幣回到上一次在2024年出現的水平。“加密貨幣可能在更快地消化宏觀壓力預期，而不僅僅是反映這種壓力，”Zhang說。她還補充道，儘管近期AI股票表現強勁，但目前令比特幣承壓的因素應該很快就會波及股市。“加密貨幣全天候的交易機制、更高的槓桿率以及更具被動反應特徵的散戶群體，意味著它往往會搶跑宏觀走勢，無論是在下跌還是復甦過程中都是如此，”Zhang說。“如果資金持續流出，再次測試5.5萬至5.7萬美元仍有可能，但加密貨幣市場可能比股票市場更接近於結束這一階段的調整。”"
-    },
-    {
-      "id": "mkt:019e93a7-7346-711f-ac53-619734a84848",
-      "time": "2026-06-05 01:21:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Ukraine would also need to make compromises for the conflict to end soon."
     }
   ]
 }
