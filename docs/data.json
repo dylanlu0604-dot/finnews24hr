@@ -1,7 +1,163 @@
 {
-  "updated": "2026-06-11 19:08:04",
-  "count": 18328,
+  "updated": "2026-06-11 19:11:51",
+  "count": 18339,
   "items": [
+    {
+      "id": "mkt:019eb661-46e9-7dd8-afbc-46784c94d67d",
+      "time": "2026-06-11 19:11:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council executive meeting hears report on implementation of National Science and Technology Conference directives】The State Council executive meeting heard a report on implementation of the National Science and Technology Conference directives. The meeting urged prioritizing the construction of China as a science and technology power, efficiently organizing and implementing major national S&T projects and improving utilization of major research facilities. It called for system-level coordinated R&D among national strategic S&T bodies, clearer main directions and priority areas for basic research, an ecosystem conducive to original innovation, and acceleration of high-level S&T self-reliance to support Chinese-style modernization."
+    },
+    {
+      "id": "4930415",
+      "time": "2026-06-11 19:11:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防大臣希利辭職。"
+    },
+    {
+      "id": "mkt:019eb660-7c8e-7dd8-afbc-3f2940610e08",
+      "time": "2026-06-11 19:10:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China's State Council reviews rectification of audit findings in 2025 central budget execution and other fiscal revenue and expenditure】Li Qiang chaired a State Council executive meeting ordering strict, categorized rectification of audit findings in the 2025 central budget execution and other fiscal revenue and expenditure. Authorities must compile issue-and-remediation lists, assign responsible entities and deadlines, and ensure implementation. Audited units are to acknowledge findings; supervisory departments will strengthen guidance and oversight. Cross-department and cross-regional issues require tighter coordination. The meeting directed using audit rectification to reinforce budget management, tighten fiscal discipline, deepen fiscal‑tax system reform and improve fiscal management effectiveness."
+    },
+    {
+      "id": "4930413",
+      "time": "2026-06-11 19:10:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方電網公司部署移動算力方艙】日前，南方電網公司在貴州貴陽完成綠色低碳移動算力方艙測試。據介紹，移動算力方艙的核心創新在於構建“電碳算”一體化執行新機制。憑藉機動靈活、模組化、可排程等特性，方艙可快速對接變電站、零碳園區等設施，盤活存量土地與電力資源，將算力專案建設週期從以年為單位縮短至數月。方艙就地接入可有效減少跨區域電力傳輸損耗，同時作為柔性可調節負荷，能夠實時參與電網峰谷調節，實現算力負荷與電網執行狀態的精準適配。"
+    },
+    {
+      "id": "4930412",
+      "time": "2026-06-11 19:09:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利爾化學：持股8.55%股東擬減持不超3%股份】利爾化學公告稱，持股8.55%的股東中通投資有限公司，計劃自2026年7月6日-2026年10月5日，以集中競價和/或大宗交易方式減持不超24,013,116股，即不超過公司總股本3%。其中，集中競價減持不超8,004,372股（不超總股本1%），大宗交易減持不超16,008,744股（不超總股本2%）。減持原因為資金需求，股份來源為首次公開發行前已發行股份及配股取得股份。本次減持計劃實施存在不確定性。"
+    },
+    {
+      "id": "4930411",
+      "time": "2026-06-11 19:09:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國銀行援引內部銀行卡資料釋出研報稱，5 月美國家庭信用卡及簽帳金融卡總消費額同比增長 5.1%，創下近四年單月最大增幅。 剔除汽油消費後，5 月消費額同比上漲 3.9%。"
+    },
+    {
+      "id": "4930410",
+      "time": "2026-06-11 19:09:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，會議討論《中華人民共和國道路交通安全法（修訂草案）》。（央視）"
+    },
+    {
+      "id": "mkt:019eb65f-54d0-7dd8-afbc-34739a7942d7",
+      "time": "2026-06-11 19:09:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CCTV reported Premier Li Qiang chaired a State Council executive meeting that discussed the revised draft of the Road Traffic Safety Law."
+    },
+    {
+      "id": "4930409",
+      "time": "2026-06-11 19:09:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯通控股：回購股份價格上限由不超過40元/股調整為不超過26.64元/股】匯通控股(603409.SH)公告稱，公司實施2025年年度權益分派後，調整回購股份價格上限，由不超過40元/股(含)調整為不超過26.64元/股(含)，自2026年6月18日起生效。"
+    },
+    {
+      "id": "mkt:019eb65e-d2be-7dd8-afbc-2d113b262272",
+      "time": "2026-06-11 19:08:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CCTV: Premier Li Qiang chaired a State Council executive meeting that reviewed and approved the Beautiful China Construction 15th Five-Year Plan."
+    },
+    {
+      "id": "4930408",
+      "time": "2026-06-11 19:08:45",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，會議審議透過《美麗中國建設“十五五”規劃》。（央視）"
+    },
+    {
+      "id": "mkt:019eb65e-a5a1-7dd8-afbc-21997392beff",
+      "time": "2026-06-11 19:08:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state TV reported explosions heard near the Sirik coast in southern Iran; cause unknown."
+    },
+    {
+      "id": "4930407",
+      "time": "2026-06-11 19:08:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【機構：加密貨幣風光不再 資金流向AI熱潮】金融研究機構Fundstrat與加密衍生品資料公司Block Scholes的聯合分析指出，當前加密貨幣市場缺乏核心內生動力，導致大量投機資金外流。相比之下，國際地緣政治衝突引發的能源供給壓力與技術革新推動的AI熱潮，為市場資金提供了更為明確的增長預期。相關跨市場統計表明，自今年2月下旬中東局勢惡化以來，比特幣與以太幣的表現分別落後標準普爾500指數13個和21個百分點，而剔除傳統權重股後的科技板塊、韓國綜合股價指數（KOSPI）以及全球資訊科技指數均呈現顯著的超額收益。"
+    },
+    {
+      "id": "4930406",
+      "time": "2026-06-11 19:08:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：伊朗錫裡克沿岸附近傳出爆炸聲，起因尚不清楚。"
+    },
+    {
+      "id": "4930405",
+      "time": "2026-06-11 19:08:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，會議審議透過《教育發展“十五五”規劃》。（央視）"
+    },
+    {
+      "id": "mkt:019eb65e-4370-7dd8-afbc-1899f38522fe",
+      "time": "2026-06-11 19:08:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CCTV reported Li Qiang chaired a State Council executive meeting that reviewed and approved the 15th Five-Year Plan for Education Development."
+    },
+    {
+      "id": "4930404",
+      "time": "2026-06-11 19:08:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【振芯科技：股東起訴公司董事會決議無效 該案件已立案受理】振芯科技(300101.SZ)公告稱，公司於近日收到成都高新技術產業開發區人民法院（簡稱“法院”）送達的傳票、《民事起訴狀》等法律檔案，法院受理了公司股東徐民訴公司公司決議效力確認糾紛案件。截至本公告披露日，該案件已立案受理，尚未開庭審理。對上市公司損益產生的影響：本次訴訟主要為股東起訴公司董事會決議無效，不直接影響公司本期或期後利潤。敬請廣大投資者注意投資風險。"
+    },
+    {
+      "id": "mkt:019eb65d-a737-7dd8-afbc-1731dde4beb3",
+      "time": "2026-06-11 19:07:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK PM STARMER'S SPOKESPERSON: Iran's return to violent conflict would serve no one's interests."
+    },
     {
       "id": "mkt:019eb65d-84db-7dd8-afbc-0c8388046990",
       "time": "2026-06-11 19:07:22",
@@ -10,6 +166,15 @@
         "Important"
       ],
       "text": "CCTV reported Li Qiang chaired a State Council executive meeting to hear a report on implementation of directives from the National Science and Technology Conference."
+    },
+    {
+      "id": "4930403",
+      "time": "2026-06-11 19:07:19",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "李強主持召開國務院常務會議，聽取關於貫徹落實全國科技大會精神情況彙報。（央視）"
     },
     {
       "id": "4930402",
@@ -168567,89 +168732,6 @@
         "公司"
       ],
       "text": "【上峰水泥：公司全稱及證券簡稱變更，6月5日啟用上峰材料】上峰水泥公告，公司已完成工商變更登記及章程備案手續，取得甘肅省市場監督管理局換髮的《營業執照》。公司全稱由“甘肅上峰水泥股份有限公司”變更為“甘肅上峰材料股份有限公司”，證券簡稱由“上峰水泥”變更為“上峰材料”，證券簡稱啟用時間為2026年6月5日，證券程式碼000672不變。變更原因為公司業務已從單一水泥企業延伸至骨料、環保、智慧物流及半導體封裝基板等多領域，原名稱無法全面反映業務格局。"
-    },
-    {
-      "id": "4917354",
-      "time": "2026-06-04 19:11:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大北農：擬5000萬至8000萬元回購股份用於股權激勵】大北農公告稱，公司於2026年5月26日審議透過以集中競價交易方式回購股份方案，回購資金為5000萬元-8000萬元，回購價格不超5.70元/股。按上限測算，預計回購1403.51萬股，佔總股本0.33%；按下限測算，預計回購877.19萬股，佔0.20%。回購期限12個月，股份用於股權激勵或員工持股計劃，若未使用將登出。截至公告披露日，相關主體暫無減持計劃。回購存在價格超上限、方案調整等風險。"
-    },
-    {
-      "id": "te:markets:556513",
-      "time": "2026-06-04 19:10:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Ciena earnings above expectations at 1.64 USD — Ciena (CIEN) released earnings per share at 1.64 USD, compared to market expectations of 1.45 USD."
-    },
-    {
-      "id": "4917353",
-      "time": "2026-06-04 19:10:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家開發銀行原資深專家魏維接受審查調查】據中央紀委國家監委駐國家開發銀行紀檢監察組、河北省紀委監委訊息：國家開發銀行原資深專家魏維涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家開發銀行紀檢監察組紀律審查和河北省監察委員會監察調查。"
-    },
-    {
-      "id": "4917352",
-      "time": "2026-06-04 19:09:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST中迪：擬0元收購關聯方北京天微49%股權】*ST中迪公告，公司擬以0元收購關聯方深圳天微電子持有的北京天微電子有限公司49%股權，對應認繳出資額為490萬元，實繳出資額為0元。若本次收購完成，公司將持有北京天微100%股權，北京天微成為公司全資子公司。該交易已經公司第十一屆董事會第十次臨時會議審議透過，並需提交公司股東會審議。交易尚需提交公司股東會審議，不構成重大資產重組。"
-    },
-    {
-      "id": "4917351",
-      "time": "2026-06-04 19:08:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華源控股：2026年一季度半導體業務並表營收約1000萬佔比低，間接持有宇樹科技比例約0.003%】華源控股公告，公司股票於2026年6月3日、6月4日連續兩個交易日收盤價格漲幅偏離值累計超過20%。公司主營業務目前仍為金屬及塑膠包裝產品的生產與銷售。公司2025年12月收購的無錫暖芯半導體科技有限公司及2026年2月收購的寰鼎積體電路（上海）有限公司，主營產品為半導體裝置的輔助裝置，市場規模較小。2026年一季度半導體業務並表營業收入約1000萬元，佔公司整體營業收入比例較低。此外，公司透過子公司間接持有宇樹科技股份有限公司的比例約0.003%，投資金額較小，對公司業績不產生重要影響。"
-    },
-    {
-      "id": "mkt:019e9251-e6ba-7668-9611-28f80a44c9c8",
-      "time": "2026-06-04 19:08:19",
-      "tags": [
-        "MKT News",
-        "GS.O",
-        "Impact bullish",
-        "JPM.O",
-        "BAC.O"
-      ],
-      "text": "SpaceX named Goldman Sachs, Morgan Stanley, BofA Securities, Citigroup, JP Morgan, Barclays and other institutions as bookrunners for the offering."
-    },
-    {
-      "id": "mkt:019e9251-c474-7668-9611-23056a3b696a",
-      "time": "2026-06-04 19:08:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Copper",
-        "CNH"
-      ],
-      "text": "Shenzhen directs expanded project-led investment in new-type infrastructure and calls for accelerated construction of compute networks and next-generation communications networks."
-    },
-    {
-      "id": "mkt:019e9251-a489-7668-9611-1e81ca85d412",
-      "time": "2026-06-04 19:08:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "SPCX.O"
-      ],
-      "text": "SpaceX has applied to list its Class A common shares on the Nasdaq Global Select Market and Nasdaq Texas under the ticker SPCX."
     }
   ]
 }
