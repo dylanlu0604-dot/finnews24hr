@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-12 03:16:32",
-  "count": 18440,
+  "updated": "2026-06-12 03:20:22",
+  "count": 18446,
   "items": [
+    {
+      "id": "mkt:019eb81f-f099-7dd8-afc9-af8a68f86d54",
+      "time": "2026-06-12 03:19:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "S&P Global Ratings upgraded NVIDIA (NVDA.O) to AA and assigned a stable outlook."
+    },
+    {
+      "id": "4931178",
+      "time": "2026-06-12 03:19:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列《今日報》訊息：特朗普計劃與內塔尼亞胡通話，這是其與地區多國領導人系列會談的一環。"
+    },
+    {
+      "id": "mkt:019eb81f-de7d-7dd8-afc9-a41305ea5521",
+      "time": "2026-06-12 03:19:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump is expected to call Israeli Prime Minister Netanyahu as part of a series of calls with regional leaders."
+    },
+    {
+      "id": "4931177",
+      "time": "2026-06-12 03:17:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲3%，現報4196.45美元/盎司。"
+    },
+    {
+      "id": "4931176",
+      "time": "2026-06-12 03:17:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲2%，現報4216.50美元/盎司。"
+    },
+    {
+      "id": "4931175",
+      "time": "2026-06-12 03:17:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破67美元/盎司，日內漲3.49%。"
+    },
+    {
+      "id": "mkt:019eb81d-e6eb-7dd8-afc9-9f17a473d5b9",
+      "time": "2026-06-12 03:17:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rallied 3.00% intraday to $4,192.89/oz."
+    },
+    {
+      "id": "4931174",
+      "time": "2026-06-12 03:16:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4190美元/盎司，日內漲2.96%。"
+    },
     {
       "id": "4931173",
       "time": "2026-06-12 03:14:59",
@@ -170000,22 +170078,6 @@
         "Impact bearish"
       ],
       "text": "Financial Times reports the US National Security Agency is using Anthropic's \"Mythos\" model to conduct cyberattacks."
-    },
-    {
-      "id": "mkt:019e9413-f16b-755d-92d5-1930038460ad",
-      "time": "2026-06-05 03:19:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "i24News reported Israel Defense Forces (IDF) Captain Eitan Shmuel Lemberg was killed in southern Lebanon."
-    },
-    {
-      "id": "4918083",
-      "time": "2026-06-05 03:18:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世界糧食計劃署：中東危機外溢衝擊全球糧食安全】當地時間4日，世界糧食計劃署代理執行主任卡爾·斯考在紐約聯合國總部記者會上表示，中東危機正在透過推高能源和食品價格，對全球糧食安全造成外溢衝擊。他重申糧食署此前警告稱，如果危機持續、油價到7月仍維持在每桶100美元以上，約4500萬人將被推向飢餓。（央視新聞）"
     }
   ]
 }
