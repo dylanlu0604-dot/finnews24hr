@@ -1,7 +1,295 @@
 {
-  "updated": "2026-06-11 20:51:06",
-  "count": 18436,
+  "updated": "2026-06-11 20:55:08",
+  "count": 18460,
   "items": [
+    {
+      "id": "mkt:019eb6bf-d392-7dd8-afc0-fb40d4172ea8",
+      "time": "2026-06-11 20:54:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Republican Senator Lindsey Graham said that, if no agreement is reached, Trump would be right to consider seizing Kharg Island."
+    },
+    {
+      "id": "4930680",
+      "time": "2026-06-11 20:54:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：我希望現在就達成協議。"
+    },
+    {
+      "id": "mkt:019eb6bf-77f9-7dd8-afc0-f44adb91628e",
+      "time": "2026-06-11 20:54:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【U.S. May PPI rises most since Nov 2022; Strait of Hormuz energy shock lifts 2026 Fed-hike bets】U.S. producer prices accelerated in May as energy-driven inflation intensified. The Labor Department said May PPI rose 6.5% YoY — the largest gain since Nov 2022 — and 1.1% MoM; core PPI ex-food and energy rose 4.9% YoY. The report highlights that the closure of the Strait of Hormuz has amplified energy-price shocks; with the conflict unlikely to be resolved in the near term, firms are passing higher energy and transport costs through to other goods and services. Combined with earlier May CPI showing the fastest increase in three years and signs of renewed labor-market momentum, the PPI release may reinforce market expectations of Fed rate hikes in 2026."
+    },
+    {
+      "id": "mkt:019eb6bf-757a-7dd8-afc0-edd9102941bc",
+      "time": "2026-06-11 20:54:21",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said investment is being supported by governments."
+    },
+    {
+      "id": "4930679",
+      "time": "2026-06-11 20:54:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：消費是增長的動力。"
+    },
+    {
+      "id": "mkt:019eb6bf-50af-7dd8-afc0-e6be0c959b9a",
+      "time": "2026-06-11 20:54:11",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Sources: SpaceX IPO draws >$70bn in retail orders; IPO could be ~$75bn】Sources say SpaceX's IPO has drawn more than $70 billion in retail orders as the offering enters its final stages. Retail investors are expected to receive at least a 20% allocation. With the deal possibly reaching about $75 billion — which would be the largest-ever IPO — most retail demand would likely go unmet, a dynamic that could lift aftermarket buying if many Musk-aligned retail investors receive little or no allocation. BNP Paribas analyst James Picariello estimates Musk-aligned retail investors hold roughly 40% of Tesla."
+    },
+    {
+      "id": "mkt:019eb6bf-4c94-7dd8-afc0-dedbaf5c0b6a",
+      "time": "2026-06-11 20:54:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said labor demand is cooling further."
+    },
+    {
+      "id": "mkt:019eb6bf-4c4b-7dd8-afc0-d543883ec965",
+      "time": "2026-06-11 20:54:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB President Lagarde said euro-area domestic demand will be weaker than expected in March."
+    },
+    {
+      "id": "4930678",
+      "time": "2026-06-11 20:54:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：投資由各國政府支撐。"
+    },
+    {
+      "id": "mkt:019eb6bf-30af-7dd8-afc0-ce0a4002770c",
+      "time": "2026-06-11 20:54:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde: household finances are in good shape."
+    },
+    {
+      "id": "mkt:019eb6bf-06ea-7dd8-afc0-c5ba49859d7c",
+      "time": "2026-06-11 20:53:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said consumption should continue to be the primary driver of growth."
+    },
+    {
+      "id": "4930677",
+      "time": "2026-06-11 20:53:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：家庭財務狀況穩健。"
+    },
+    {
+      "id": "4930676",
+      "time": "2026-06-11 20:53:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：國內需求將弱於 3 月預期。"
+    },
+    {
+      "id": "te:markets:558392",
+      "time": "2026-06-11 20:53:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Trim Rebound — US equity futures trimmed their gains amid fresh evidence of high inflation and escalatory remarks against Iran by President Trump. Contracts for the S&P 500, Nasdaq 100, and Dow rose between 0.4% and 0.7%. The US President stated that the US will resume strikes against Iran tonight and capture the Iranian energy hub of Kharg Island \"at some point\", reversing de-escalatory remarks yesterday. Simultaneously, a new PPI print pointed to accelerating prices in May, consolidating the impact of the war in price growth and aligning with recent bets that the Fed will raise rates this year. Financial stocks were lower as yields rose, with Goldman Sachs and Visa down premarket. On the other hand, AI infrastructure companies carried their strong momentum as the SpaceX IPO tomorrow underscores how hyperscalers are spending in compute capacity. Nvidia gained 1%. Still, Oracle slumped 9% as it will take in more debt to finance data centers despite flat sales."
+    },
+    {
+      "id": "4930675",
+      "time": "2026-06-11 20:53:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：勞動力需求進一步降溫。"
+    },
+    {
+      "id": "mkt:019eb6be-3ec1-7dd8-afc0-b9da788dcc14",
+      "time": "2026-06-11 20:53:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde said manufacturing remains stable."
+    },
+    {
+      "id": "4930674",
+      "time": "2026-06-11 20:52:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：衝突正在拖累經濟活動；製造業活動目前保持穩健。"
+    },
+    {
+      "id": "te:markets:558391",
+      "time": "2026-06-11 20:52:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Slips as US PPI Jumps — Gold gave up most of its gains to trade at $4,080 per ounce on Thursday, their lowest level since November 2025, as investors processed fresh US PPI data, the European Central Bank’s rate hike, and intensifying Middle East tensions. US producer prices surged 6.5% year-over-year in May, the highest since November 2022 and above forecasts of 6.4%, underscoring the mounting impact of the energy-price shock from the Strait of Hormuz closure on the US economy. Combined with earlier data showing consumer prices rising at the fastest pace in three years, Thursday’s figures are likely to strengthen calls for the Federal Reserve to raise interest rates in 2026. Meanwhile, the ECB raised interest rates for the first time since 2023 and upwardly revised its inflation forecasts for 2026 and 2027. Adding to geopolitical concerns, US President Trump vowed further strikes on Iran and threatened to take control of its key energy infrastructure, including Kharg Island."
+    },
+    {
+      "id": "mkt:019eb6be-1592-7dd8-afc0-b68fa57e9cb4",
+      "time": "2026-06-11 20:52:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "ECB President LAGARDE said the Iran conflict is affecting economic activity."
+    },
+    {
+      "id": "mkt:019eb6bd-f120-7dd8-afc0-a85254c5f631",
+      "time": "2026-06-11 20:52:41",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "ECB President Lagarde said surveys show the economy is slowing, particularly in the services sector."
+    },
+    {
+      "id": "4930673",
+      "time": "2026-06-11 20:52:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德： 調查資料顯示經濟增速放緩，服務業尤為明顯。"
+    },
+    {
+      "id": "mkt:019eb6bd-dca6-7dd8-afc0-a4fabd979015",
+      "time": "2026-06-11 20:52:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump reiterated that Iran must not purchase or develop nuclear weapons."
+    },
+    {
+      "id": "te:markets:558390",
+      "time": "2026-06-11 20:52:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Trades in the Red — The DAX 40 pared some initial gains to trade slightly down around 24,120 on Thursday afternoon, as traders reacted to the latest escalation in the Middle East tensions and the ECB's policy decision outcome. The US president has warned that his military will attack Iran this Thursday evening and will soon take control of the country's oil infrastructure as well as its oil and gas markets. Meanwhile, the ECB unsurprisingly raised its key interest rates, while signaling a more challenging outlook by raising inflation forecasts and lowering growth projections."
+    },
+    {
+      "id": "4930672",
+      "time": "2026-06-11 20:52:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我一直傾向於奪取哈爾克島。"
+    },
+    {
+      "id": "4930671",
+      "time": "2026-06-11 20:52:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申伊朗無法購買或研發核武器。"
+    },
+    {
+      "id": "4930670",
+      "time": "2026-06-11 20:51:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "肯亞因伊朗局勢，將2026年經濟增長預期下調至5%。"
+    },
+    {
+      "id": "mkt:019eb6bc-af6f-7dd8-afc0-9e75facb6a38",
+      "time": "2026-06-11 20:51:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said Iran is negotiating with the U.S. to reach a deal but is proud."
+    },
+    {
+      "id": "4930669",
+      "time": "2026-06-11 20:51:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗局勢：他們正與我方談判以達成協議，但他們自尊心很強。"
+    },
+    {
+      "id": "4930668",
+      "time": "2026-06-11 20:50:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗只會搞宣傳，不會打仗。"
+    },
     {
       "id": "mkt:019eb6bb-e975-7dd8-afc0-96cb8ed5fab0",
       "time": "2026-06-11 20:50:28",
@@ -169759,47 +170047,6 @@
         "其他"
       ],
       "text": "土耳其航空：西班牙政府已批准對收購歐羅巴航空交易的外國直接投資許可。交易預計將於2026年完成最終敲定。"
-    },
-    {
-      "id": "4917571",
-      "time": "2026-06-04 20:55:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昭衍新藥：2026年第一次H股類別股東會議兩議案未獲透過】昭衍新藥公告稱，2026年6月4日，公司召開2025年年度股東會、2026年第一次A股類別股東會議及2026年第一次H股類別股東會議。2025年年度股東會第1 - 7項普通議案、第8 - 12項議案，2026年第一次A股類別股東會議第1 - 2項議案獲透過。2026年第一次H股類別股東會議第1 - 2項特別決議議案未獲出席會議的有效表決權股份總數2/3以上，未透過，不過這不會對公司日常運營產生影響。"
-    },
-    {
-      "id": "mkt:019e92b2-830a-7eec-b8a9-f69950a569de",
-      "time": "2026-06-04 20:53:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huidian says no disclosure‑required overseas order at present; will disclose if large order meets reporting threshold】June 4 — Rumors said Huidian won a high‑share server order from an overseas AI giant, lifting the stock to an intraday limit‑up. Shares closed at 140.82 yuan, up 8.49%, market cap about 271 bln yuan. Huidian said it cannot comment on specific customers and that any single order meeting disclosure standards will be announced even if the buyer is not named; currently there is no information requiring disclosure."
-    },
-    {
-      "id": "4917570",
-      "time": "2026-06-04 20:52:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【滬電股份回應海外訂單傳聞：若有大額訂單會及時披露，目前沒有需披露資訊】6月4日，有訊息稱，滬電股份斬獲海外某AI巨頭旗下伺服器高份額訂單。由於傳聞催化，滬電股份盤中觸及漲停，截至6月4日收盤，公司股價報140.82元/股，收盤漲幅為8.49%，總市值達2710億元。對此，滬電股份方面回應記者，公司對具體客戶的情況無法評論，但如果有大額訂單，單一訂單達到資訊披露標準，即便不提具體廠商也會披露。(中證金牛座)"
-    },
-    {
-      "id": "4917569",
-      "time": "2026-06-04 20:52:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【世界黃金協會：5月份科技ETF表現超越黃金ETF】世界黃金協會表示，全球科技ETF月度資金流入創下2024年初以來最高水平。儘管對股市泡沫的擔憂持續存在，但投資者可能會保持耐心，直到風險偏好勢頭減弱，或者更廣泛的風險規避平倉促使避險需求再度升溫。"
-    },
-    {
-      "id": "4917568",
-      "time": "2026-06-04 20:51:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國商業銀行執行長就裕信銀行收購表態：敵意收購將是最糟糕的選項，會摧毀大量價值。"
     }
   ]
 }
