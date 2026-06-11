@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-11 23:26:41",
-  "count": 18475,
+  "updated": "2026-06-11 23:30:24",
+  "count": 18474,
   "items": [
+    {
+      "id": "4930924",
+      "time": "2026-06-11 23:27:22",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【訊息人士：在首次加息後歐洲央行預計將在7月暫停行動】據兩名訊息人士透露，如果能源價格保持在當前水平附近，歐洲央行政策制定者預計將在下一次7月的會議上維持利率不變。歐洲央行週四首次在近三年來上調利率，旨在遏制因伊朗戰爭引發的燃料成本上漲而蔓延至歐元區經濟的通脹。會議上的兩位人士表示，只要能源價格沒有出現突然大幅波動，歐洲央行在7月22日下次會議上暫停加息的可能性目前高於加息。其中一位訊息人士稱，鑑於目前尚未出現對其他商品和服務價格的二輪影響，只有當油價再次大幅上漲——布倫特原油價格升至每桶100美元以上——才會觸發7月份的加息。另一訊息來源則表示，核心通脹率的進一步意外上漲也可能引發市場走勢變化。不過，兩位訊息人士均指出，歐洲央行的預測中已包含兩次加息，因此即使決策者在7月暫停加息，他們仍可能在稍後（可能在9月）採取行動，而通脹形勢未必會有實質性改善。"
+    },
+    {
+      "id": "mkt:019eb74b-49b6-7dd8-afc5-6556d4e34169",
+      "time": "2026-06-11 23:27:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Sources: ECB likely to pause at July meeting after first hike】Two sources said ECB policymakers expect to hold rates at the July 22 meeting if energy prices remain near current levels. The bank on Thursday delivered its first rate rise in nearly three years to curb inflation from fuel-cost increases linked to the Iran-related conflict. The sources said a July pause is currently more likely than another hike, unless energy prices jump sharply — one source said only a large oil rebound, with Brent above $100/bbl, would trigger a July hike. The other added an unexpected further rise in core inflation could change market expectations. Both noted ECB staff projections already assume two further rate hikes, so a July pause would not preclude additional tightening later, possibly in September."
+    },
+    {
+      "id": "4930923",
+      "time": "2026-06-11 23:26:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防部發生危險品事件】據消防部門證實，當地時間今天（6月11日）上午，美國國防部大樓發生“危險品事件”。據美國有線電視新聞網（CNN）援引匿名訊息人士報道，五角大樓已實施封鎖，部分樓層人員被疏散。報道稱，急救人員佩戴了全套防毒面具並身著防化服。CNN還報道稱，大樓二至五層及部分走廊已被封鎖。五角大樓發言人肖恩·帕內爾在一封電子郵件中宣告：“五角大樓擁有完善的安保系統以確保建築及人員安全。該系統檢測到空氣質量異常，有必要採取預防性措施，直至查明原因。”他補充道：“國防部正在執行標準防護預案，包括對受影響區域下達‘就地避難’指令。應急響應小組已就位，隨時準備為樓內人員提供支援。”（CCTV國際時訊）"
+    },
     {
       "id": "4930922",
       "time": "2026-06-11 23:20:49",
@@ -170251,45 +170283,6 @@
         "其他"
       ],
       "text": "德國DAX 30指數初步收漲0.48%，報24908.69點。法國股指初步收漲0.86%，義大利股指初步收漲0.06%、銀行指數漲0.65%，英國股指初步收漲0.06%。"
-    },
-    {
-      "id": "4917814",
-      "time": "2026-06-04 23:30:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "愛爾蘭5月企業稅收入同比增長9.7%，至27億歐元；剔除蘋果公司相關稅款後，今年迄今企業稅收入累計增長9.1%。"
-    },
-    {
-      "id": "mkt:019e9341-97a4-7885-9cdb-8f283ad79aab",
-      "time": "2026-06-04 23:30:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "Bank of England governor Bailey to speak at Investment Association conference in 10 minutes."
-    },
-    {
-      "id": "4917813",
-      "time": "2026-06-04 23:29:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：斯洛維尼亞議員批准斯洛維尼亞總理揚沙組建新內閣。"
-    },
-    {
-      "id": "te:markets:556559",
-      "time": "2026-06-04 23:27:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "JPMorgan Stock Price Hits 4-week High — JPMorgan shares increased to 310.01 USD, the highest since May 2026. Over the past 4 weeks, J.P. Morgan Chase gained 0.14%, and in the last 12 months, it increased 18.28%."
     }
   ]
 }
