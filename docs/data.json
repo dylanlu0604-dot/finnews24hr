@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-12 10:30:11",
-  "count": 18461,
+  "updated": "2026-06-12 10:34:04",
+  "count": 18456,
   "items": [
+    {
+      "id": "4931662",
+      "time": "2026-06-12 10:33:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃金概念持續走強，潮宏基漲停】黃金概念持續走強，潮宏基漲停，寶鼎科技、洛陽鉬業、豫光金鉛、江西銅業、招金黃金、盛屯礦業等跟漲。"
+    },
+    {
+      "id": "4931661",
+      "time": "2026-06-12 10:33:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量2987億元。"
+    },
+    {
+      "id": "4931660",
+      "time": "2026-06-12 10:32:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "佰維儲存成交額達100億元，現漲6.02%。"
+    },
+    {
+      "id": "mkt:019eb9ac-5e2f-7dd8-afcf-d531a7464525",
+      "time": "2026-06-12 10:32:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【DJI sues Insta360 alleging wholesale copying; Insta360 files U.S. counterclaims】DJI and its Osmo unit filed patent-infringement suits on June 10–11 in the U.S. District Court for the Eastern District of Texas against Insta360 and affiliates, alleging the Luna handheld gimbal camera infringes DJI patents. On June 12 Insta360 filed patent counterclaims in the U.S. against DJI covering five invention patents related to gimbal and panoramic cameras."
+    },
+    {
+      "id": "4931659",
+      "time": "2026-06-12 10:31:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤上漲3.5%，至66442.95點。東證指數早盤收盤上漲1.6%，至3893.47點。"
+    },
+    {
+      "id": "te:economy:558546",
+      "time": "2026-06-12 10:30:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Yield Falls Ahead of BOJ Meeting — Japan's 10-year government bond yield slipped to around 2.65% on Friday, hitting a one-week low as investors looked ahead to the Bank of Japan's policy meeting next week, where it is are widely expected to raise interest rates amid persistent inflation and a weak yen. The central bank is expected to lift its policy rate by 25 basis points to 1%, marking the first increase since December last year and the highest level since 1995. Meanwhile, BOJ Governor Kazuo Ueda has been hospitalized with a hepatic cyst infection and will miss the meeting. Japanese bond yields also followed US Treasury yields lower after President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe. His comments sent oil prices sharply lower, easing market concerns about stubborn inflation and the need for furtherinterest rate hikes."
+    },
+    {
+      "id": "4931658",
+      "time": "2026-06-12 10:30:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛心人壽1.5億股股份被公開轉讓】據北京產權交易所網站的資訊顯示，愛心人壽保險股份有限公司1.5億股股份（佔總股本的6.47%）被公開轉讓，轉讓方為五方天雅集團有限公司（以下簡稱“五方天雅”），該筆股權轉讓底價約為2.5億元。據瞭解，五方天雅集團此次屬於“清倉式”轉讓，如果股權轉讓順利，將不再持有愛心人壽股權。"
+    },
     {
       "id": "mkt:019eb9a9-089c-7dd8-afcf-cd512f41bdd2",
       "time": "2026-06-12 10:28:43",
@@ -170111,121 +170176,6 @@
         "公司"
       ],
       "text": "【百曜科技完成數千萬元新一輪融資】6月5日訊息，AI虛擬細胞（AIVC）平臺公司百曜科技近日宣佈完成數千萬元新一輪融資。本輪融資由國家級國有資本運營平臺中國國新旗下國新創投基金領投，道彤資本和雲啟資本跟投，老股東峰瑞資本與BV百度風投追加投資。本輪募集資金將主要用於全新一代虛擬細胞演算法模型、獨家資料收集以及加速產業化落地。百曜科技自2023年起開始構建AI虛擬細胞基礎大模型，目標在於實現細胞行為和狀態變化的精準分析與預測。"
-    },
-    {
-      "id": "4918535",
-      "time": "2026-06-05 10:33:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【楚江新材增資至約16.2億】天眼查App顯示，近日，楚江新材（002171）發生工商變更，註冊資本由約15.1億人民幣增至約16.2億人民幣，增幅約8%。 該公司成立於2005年12月，法定代表人為姜純，經營範圍包括有色金屬材料研發、加工、銷售，熱工裝置的研製、生產和銷售等，由安徽楚江投資集團有限公司、繆雲良、香港中央結算有限公司等共同持股。"
-    },
-    {
-      "id": "4918534",
-      "time": "2026-06-05 10:33:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "山田控股：若與愛電王（EDION）的業務整合得以實現，將誕生一家淨銷售額約達2.5萬億日元的零售企業。"
-    },
-    {
-      "id": "mkt:019e95a0-db44-766c-9544-18f02ab434e5",
-      "time": "2026-06-05 10:33:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Suspected drone strike halts operations at Oman oil terminal after explosion】Two sources said the Mina Al Fahal terminal has suspended crude-loading operations after an explosion between single-point mooring berths 1 and 2, reportedly caused by a drone attack."
-    },
-    {
-      "id": "4918533",
-      "time": "2026-06-05 10:33:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本家電零售商山田控股和愛電王將於2027年10月1日完成合並。"
-    },
-    {
-      "id": "mkt:019e95a0-23c2-766c-9544-178971ce387d",
-      "time": "2026-06-05 10:32:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's first 'no-destination' maritime exit-entry permit issued in Shanghai】Shanghai authorities issued China's first 'no-destination' maritime exit-entry permit on Monday morning. Travelers without valid passports may apply with national ID at the Minsheng Road exit-entry reception hall; an expedited channel will be available for urgent pre-trip cases. The Shanghai Municipal Transport Commission said the move aims to open a new marine-tourism track to fill a gap in high-end short-haul water tourism and broaden weekend leisure options."
-    },
-    {
-      "id": "te:markets:556676",
-      "time": "2026-06-05 10:31:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Heads for Heavy Weekly Loss — The Australian dollar slipped to around $0.711, touching a two-week low and on track for a weekly decline of roughly 1%, as an ongoing stalemate in Middle East tensions weighed on risk appetite, while the Reserve Bank signaled a wait-and-see approach. The central bank has already delivered three hikes this year to 4.35%, and Governor Michele Bullock said the rate increases are starting to filter through the economy. However, inflation remains elevated and policymakers remain alert to persistent price pressures. Markets expect the RBA to stand pat in June, with about a 50% chance of another hike in August and full pricing for a move by December. Investors now watch any shift in tone as Deputy Governor Andrew Hauser is due to speak later on Friday, although expectations are he will reinforce a steady policy stance. Broader sentiment was further hit by a fragile US-Iran ceasefire, reports of stalled negotiations, and a pullback in AI-linked trades, weighing on the risk-sensitive Aussie."
-    },
-    {
-      "id": "4918532",
-      "time": "2026-06-05 10:31:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數早盤收盤跌1.2%，報66661.47點； 東證指數早盤收漲 0.1%，報 3954.44 點。"
-    },
-    {
-      "id": "te:markets:556675",
-      "time": "2026-06-05 10:31:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Heads for Weekly Drop — The New Zealand dollar fell back to around $0.585 and is on track for a weekly loss of more than 2%, as investors remained on edge amid a lack of clear progress in US–Iran negotiations. The renewed flare-up in tensions this week, as well as conflicting statements from both sides, highlights persistent uncertainty around a diplomatic breakthrough. The rejection of a US-brokered ceasefire proposal by Iran-backed Hezbollah has further complicated efforts to de-escalate regional conflicts. However, downside pressure on the NZD was partially cushioned by prospects of higher interest rates from the Reserve Bank of New Zealand. Markets continue to price in a July rate hike, with the OCR seen peaking around 3.50% late next year."
-    },
-    {
-      "id": "mkt:019e959e-eb56-766c-9544-0f94f67972f4",
-      "time": "2026-06-05 10:31:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper"
-      ],
-      "text": "【China issues national green product evaluation standards covering 47 product categories】To date China has issued the Green Product Evaluation General Rule and national evaluation standards for 47 product categories, covering household appliances, electronic information, building materials and steel. Authorities say the standards are a key instrument in China’s green transition."
-    },
-    {
-      "id": "mkt:019e959e-7c71-766c-9544-03282fd6bc1d",
-      "time": "2026-06-05 10:30:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Securities Association launches 2026 assessment of securities firms' M&A and restructuring capabilities】The China Securities Association has issued a notice to securities firms launching a 2026 special assessment of their capacity to support listed companies' M&A and restructurings. The assessment, designed to implement the CSRC's \"1+N\" policy package, aims to spur M&A activity to help listed companies raise quality and efficiency; results will be used in classified regulatory supervision."
-    },
-    {
-      "id": "4918531",
-      "time": "2026-06-05 10:30:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國首張“無目的地海上游”出入境通行證在滬簽發】記者5日從上海市公安局出入境管理總隊獲悉，全國首張“無目的地海上游”出入境通行證於當天上午在滬簽發。據悉，鑑於無目的地海上游“不靠岸、公海往返”的特殊屬性，經國家移民管理局批准同意，上海公安出入境管理部門在全國率先推出助力郵輪遊出入境辦證便民新政：遊客除使用普通護照外，可憑身份證申辦專用的出入境通行證。這極大降低了遊客郵輪游出境門檻，免去了繁瑣的簽證準備。“作為一次出入境有效的單紙出入境證件，出入境通行證會特別加註‘無目的地海上游’。”上海市公安局出入境管理總隊證件管理一支隊支隊長葉駿介紹說。葉駿表示，未持有效護照的“無目的地海上游”遊客，憑身份證即可至民生路出入境接待大廳申辦出入境通行證，對於行前時間緊急的，將開闢綠色通道加急辦理。（新華社）"
-    },
-    {
-      "id": "4918530",
-      "time": "2026-06-05 10:30:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【涵蓋家電、建材等 我國綠色產品評價國家標準已覆蓋47項產品】今天是第55個世界環境日，我國活動主題為“全面綠色轉型，共建美麗中國”。制定實施綠色產品評價標準，是推進全面綠色轉型的重要抓手。截至目前，我國綠色產品評價標準體系建設取得顯著成效，釋出了《綠色產品評價通則》以及47項具體產品類別的綠色產品評價國家標準，涵蓋家電、電子資訊、建材、鋼鐵等社會關注度高、消費升級急需的產品領域。"
     }
   ]
 }
