@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-12 14:02:36",
-  "count": 18425,
+  "updated": "2026-06-12 14:06:35",
+  "count": 18426,
   "items": [
+    {
+      "id": "mkt:019eba6f-e882-7dd8-afd4-8d7bd1ab7872",
+      "time": "2026-06-12 14:05:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO will optimize deployment of the international force in Kosovo and gradually adjust its current troop levels over the next year."
+    },
+    {
+      "id": "4931920",
+      "time": "2026-06-12 14:05:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率7.5%下跌至3.7%。"
+    },
+    {
+      "id": "mkt:019eba6e-c9d2-7dd8-afd4-85741d00d5c7",
+      "time": "2026-06-12 14:04:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【China Jan–May trade improves; AI-related goods trade +52.4% YoY to 4.12 tln yuan, Customs】China Customs data show combined imports and exports of AI-related products — led by industrial robots and including electronic components, computer parts and fiber-optic cable — reached 4.12 tln yuan in Jan–May, up 52.4% YoY."
+    },
+    {
+      "id": "4931918",
+      "time": "2026-06-12 14:04:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50指數期貨<STXEc1>上漲1.48%，德國DAX指數期貨<FDXc1>上漲1.39%，富時指數期貨<FFIc1>上漲0.66%。"
+    },
+    {
+      "id": "4931917",
+      "time": "2026-06-12 14:03:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【杭州小龍蝦降價超50%】進入6月，湖北潛江小龍蝦供貨量逐漸減少，央視財經記者在走訪時發現，目前杭州市場上的小龍蝦已經完成了產地輪換，江蘇、安徽和浙江本地產的小龍蝦增多，貨源充足，小龍蝦價格也大幅回落，不少市民直呼實現了“小龍蝦自由”。記者瞭解到，目前中青規格小龍蝦的批發價每斤12元，大青規格小龍蝦每斤16元，跟今年二三月份剛上市時的價格相比，降幅均超過50%。此外，廣闊的海外市場，為小龍蝦開啟了利潤增長空間。今年，多地小龍蝦出口量與貨值雙雙攀升，遠銷歐美及東南亞。（央視財經）"
+    },
+    {
+      "id": "4931916",
+      "time": "2026-06-12 14:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "FLUTTER計劃於8月3日起從倫敦證券交易所退市。"
+    },
+    {
+      "id": "4931915",
+      "time": "2026-06-12 14:02:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車將提高價格。"
+    },
     {
       "id": "mkt:019eba6b-96f3-7dd8-afd4-79ce5f02a7fb",
       "time": "2026-06-12 14:01:13",
@@ -21,6 +86,15 @@
         "其他"
       ],
       "text": "【江蘇常州發生一起小型直升機降落事故 致2人受傷】從江蘇省常州市武進區南夏墅街道辦事處獲悉，6月11日14時許，武進區海湖路附近一架小型直升機降落時發生事故，造成2名駕乘人員受傷，其中1人已醫治出院，另外1人傷勢較重仍在救治中。目前，事故原因正在調查中。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202606123769823497",
+      "time": "2026-06-12 14:01:06",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "德國5月CPI環比下降0.2%，預期下降0.2%；5月CPI同比增長2.6%，預期增長2.6%。"
     },
     {
       "id": "mkt:019eba6b-73f2-7dd8-afd4-72fc5bcae8ac",
@@ -460,6 +534,15 @@
         "公司"
       ],
       "text": "【晶科科技成立航天新智慧科技公司，含AI業務】企查查APP顯示，近日，江西晶科航天新智慧科技有限公司成立，經營範圍包含：衛星通訊服務，衛星導航服務，衛星技術綜合應用系統整合，衛星遙感資料處理等。企查查股權穿透顯示，該公司由晶科科技全資持股。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606123769820696",
+      "time": "2026-06-12 13:58:44",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行管委多倫茨表示，即使霍爾木茲海峽開放，戰爭影響也會持續更長時間；顯而易見，通脹將更高，經濟增長將更低；目前的加息只是足以跟上基線。"
     },
     {
       "id": "4931906",
@@ -169850,84 +169933,6 @@
         "國際"
       ],
       "text": "【飛豬：近兩週入境遊預訂量同比增長237%】暑期臨近，入境遊市場正在升溫。6月5日，線上旅遊服務平臺飛豬披露的資料顯示，近兩週入境遊預訂量同比增長237%，馬來西亞、韓國、加拿大等客源地增長更快，均錄得3倍以上增長。上海、廣州、成都、北京、西安等是暑期入境遊熱門目的地。"
-    },
-    {
-      "id": "4918840",
-      "time": "2026-06-05 14:06:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【分析：新加坡REITs估值很大程度上已反映利率風險預期】星展集團研究部的分析師在一份報告中表示，新加坡房地產投資信託基金(REIT)的估值似乎已在很大程度上反映了與基準利率上升相關的風險預期。星展集團研究部的分析師表示，長期債券收益率持續高企以及貨幣政策預期的轉變，繼續拖累新加坡REITs的近期市場情緒。不過，星展集團研究部的分析師補充說，這些REITs目前的交易價格對應的2026年收益率仍為6.2%，這意味著與10年期新加坡政府債券相比，其收益率差約為4.0%，具有吸引力。他們建議關注盈利可見度更高、入駐率具有韌性，且對能夠維持租金上漲的供應受限子市場有敞口的板塊。與工業、零售和酒店業相比，星展集團更青睞甲級辦公樓子行業。CapitaLand Integrated Commercial和CapitaLand Ascendas躋身星展集團的大盤股首選之列。"
-    },
-    {
-      "id": "te:markets:556742",
-      "time": "2026-06-05 14:05:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Snaps 2-Day Losing Streak, Ends 0.5% Higher — The NZX 50 rose 60 points, or 0.5%, to close at 13,162 on Friday, erasing losses from the previous two sessions and rebounding from its lowest level since May 26, touched a day earlier, mainly boosted by financial, healthcare, and industrial stocks. Hopes that US-Iran peace talks could help end the war lifted sentiment following the Iran-Lebanon ceasefire. However, declines in the materials, technology, and consumer staples sectors capped the gains. Traders also awaited the release of US jobs data later in the day, as well as US inflation data and China's inflation and trade balance figures due next week. Domestically, investors anticipated the release of New Zealand economic data next week. Among the notable gainers were Ebos Group (3.1%), Infratil (1.5%), Mainfreight (1.1%), Fisher & Paykel Healthcare (0.9%), and Auckland International Airport (0.9%). For the week, however, the index fell 0.6%, marking its first decline in three weeks."
-    },
-    {
-      "id": "4918839",
-      "time": "2026-06-05 14:05:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "錫連續主力合約日內跌5%，現報419360.00元。"
-    },
-    {
-      "id": "4918838",
-      "time": "2026-06-05 14:05:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬馬科技液冷中試基地入選臨安區中試平臺聯盟】6月4日，臨安區建設環青山湖創新生態圈大會在青山湖科技城召開。大會發布全區“十大創新成果清單”“十大能力清單”和“十大機會清單”，並正式成立臨安區中試平臺聯盟。萬馬科技股份有限公司（簡稱“萬馬科技”）依託“資料中心液冷系統與產品中試基地”成功入列。"
-    },
-    {
-      "id": "4918837",
-      "time": "2026-06-05 14:04:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "ADM能源：透過30萬美元投資將其在維加上游合資企業的經濟權益提升至25%。"
-    },
-    {
-      "id": "mkt:019e9662-42db-7ff7-b578-5aaaa809810b",
-      "time": "2026-06-05 14:04:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "MU.O",
-        "005930.KS"
-      ],
-      "text": "【NVIDIA confirms Samsung, SK Hynix and Micron certified for HBM4】NVIDIA CEO Jensen Huang confirmed the company has certified Samsung, SK Hynix and Micron to supply HBM4 memory for its US AI accelerator business. He said the next‑generation Vera Rubin platform is now in full production and scheduled for initial deliveries in Q3; systems are built around a Vera CPU and Rubin GPU clusters and will include TB‑level HBM4 per server."
-    },
-    {
-      "id": "4918836",
-      "time": "2026-06-05 14:04:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "日立與英特爾達成合作，佈局實體人工智慧及高階計算領域。"
-    },
-    {
-      "id": "4918835",
-      "time": "2026-06-05 14:03:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊震盪回落 廣西能源、華電能源逼近跌停】午後電力板塊震盪回落，廣西能源、華電能源逼近跌停，大唐發電、粵電力A、江蘇國信、華銀電力等多股跌超6%。"
     }
   ]
 }
