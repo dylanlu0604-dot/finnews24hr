@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-13 02:30:21",
+  "updated": "2026-06-13 02:34:21",
   "count": 18422,
   "items": [
+    {
+      "id": "4933306",
+      "time": "2026-06-13 02:32:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國得克薩斯州發生大規模槍擊事件致2死10傷】美國得克薩斯州米德蘭市12日上午發生大規模槍擊事件，已造成包括槍手在內的兩人死亡、10人受傷。米德蘭市市長洛麗·布隆在新聞釋出會上說，該事件已有11名受害者，其中1人當場死亡。隨後，當地政府在社交媒體上釋出訊息說，槍手已確認死亡，現場仍受管控，相關調查正在進行。警方尚未說明槍手死亡原因。"
+    },
+    {
+      "id": "mkt:019ebd1b-576a-7dd8-afe5-92e632a171a6",
+      "time": "2026-06-13 02:32:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mass shooting in Midland, Texas kills 2, injures 10】A mass shooting in Midland, Texas, on the morning of the 12th left two dead, including the shooter, and 10 wounded, Mayor Lori Blong said. Local authorities later confirmed the shooter was dead; the scene remains secured and under investigation. Police have not disclosed the cause of the shooter's death. US media reported the attack occurred at multiple locations and that the shooter was contained inside a building after a standoff with police."
+    },
+    {
+      "id": "4933305",
+      "time": "2026-06-13 02:32:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX在將巨像一號算力叢集與其他站點聯網時，出現了延遲故障。"
+    },
+    {
+      "id": "4933304",
+      "time": "2026-06-13 02:32:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環境保護署釋出宣告稱，已向國會提交四項加州豁免法規，這些法規准許該州自行制定汽車、卡車等車輛的尾氣排放標準。"
+    },
+    {
+      "id": "mkt:019ebd1a-f050-7dd8-afe5-8ad9ae407cca",
+      "time": "2026-06-13 02:31:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Environmental Protection Agency has submitted four California waiver rules to Congress. The waivers had previously granted California authority to set its own emissions standards for passenger cars and heavy-duty trucks."
+    },
+    {
+      "id": "mkt:019ebd1a-43ba-7dd8-afe5-84266a6ab094",
+      "time": "2026-06-13 02:31:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】At 02:30 close, SHFE gold main contract rose 2.30% to 922 yuan/gram; SHFE silver main contract rose 5.22% to 16,488 yuan/kg; SC crude oil main contract fell 3.99% to 544 yuan/barrel."
+    },
+    {
+      "id": "4933302",
+      "time": "2026-06-13 02:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 7月原油期貨收報84.88美元/桶。NYMEX 7月天然氣期貨收報3.12美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0498美元/加侖，NYMEX 7月取暖油期貨收報3.4044美元/加侖。"
+    },
+    {
+      "id": "mkt:019ebd1a-156c-7dd8-afe5-78d95cc2978b",
+      "time": "2026-06-13 02:31:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said U.S. forces continue a strict blockade of Iran. Since April 13, CENTCOM has directed 139 compliant commercial vessels to alter course and rendered nine noncompliant vessels unable to navigate."
+    },
+    {
+      "id": "4933301",
+      "time": "2026-06-13 02:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部： 美軍持續對伊朗實施嚴密封鎖。自 4 月 13 日以來，美國中央司令部已引導 139 艘合規商船改道，並扣押 9 艘違規船隻。"
+    },
+    {
+      "id": "mkt:019ebd19-8e92-7dd8-afe5-76be99c54808",
+      "time": "2026-06-13 02:30:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 1.22% at 919.5 yuan/gram in the June 12 evening session; Shanghai Gold Exchange Silver T+D closed up 3.57% at 16,420 yuan/kg."
+    },
+    {
+      "id": "4933300",
+      "time": "2026-06-13 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌3.48%，報549.10元人民幣/桶。滬金夜盤收漲2.30%，滬銀收漲5.22%。"
+    },
     {
       "id": "4933299",
       "time": "2026-06-13 02:29:25",
@@ -169498,120 +169600,6 @@
         "國際"
       ],
       "text": "美國白宮：美國國家安全體系研發及應用人工智慧技術時，不得利用其管控言論自由、植入意識形態偏見，或是開展未經授權及非法監視活動。"
-    },
-    {
-      "id": "mkt:019e9910-1024-7665-830c-1f100c4d692c",
-      "time": "2026-06-06 02:33:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "White House says within 120 days the heads of the Department of Defense, the Office of the Director of National Intelligence and all agencies with intelligence community (IC) components will review and update procurement processes to ensure AI models are sourced from multiple vendors."
-    },
-    {
-      "id": "4920288",
-      "time": "2026-06-06 02:33:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4320美元/盎司，日內跌3.47%。"
-    },
-    {
-      "id": "mkt:019e990e-b41f-7665-830c-134da7c95f25",
-      "time": "2026-06-06 02:32:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Night session: front-month contracts close】At the 02:30 close, SHFE gold front-month contract fell 2.93% to 949 yuan/gram; SHFE silver front-month contract fell 7.43% to 16,454 yuan/kg; INE SC crude front-month contract fell 1.86% to 584 yuan/barrel."
-    },
-    {
-      "id": "te:markets:557003",
-      "time": "2026-06-06 02:32:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Texas Instruments Stock Price Hits 4-week Low — Texas Instruments shares decreased to 287.60 USD, the lowest since May 2026. Over the past 4 weeks, Texas Instruments lost 0.49%, and in the last 12 months, it increased 49.68%."
-    },
-    {
-      "id": "mkt:019e990e-94e5-7665-830c-0bf34192c72b",
-      "time": "2026-06-06 02:32:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House: U.S. to issue updated directive on autonomous weapon systems within 90 days."
-    },
-    {
-      "id": "4920287",
-      "time": "2026-06-06 02:31:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 7月原油期貨收跌2.50美元，跌幅2.69%，報90.54美元/桶。NYMEX 7月天然氣期貨收報3.2290美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0459美元/加侖，NYMEX 7月取暖油期貨收報3.5874美元/加侖。"
-    },
-    {
-      "id": "4920286",
-      "time": "2026-06-06 02:31:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：SpaceX 路演初期，該股 IPO 認購需求約達 750 億美元發行規模的兩倍。"
-    },
-    {
-      "id": "4920285",
-      "time": "2026-06-06 02:30:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：國防部、國家情報總監辦公室以及下設情報機構的各部門負責人須在 120 天內審議並修訂採購流程，確保可接入多家供應商提供的人工智慧模型。"
-    },
-    {
-      "id": "mkt:019e990d-41d3-7665-830c-01c1f1780780",
-      "time": "2026-06-06 02:30:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 2.49% at 947.77 yuan/gram in the evening session on June 5 (Friday). Shanghai Gold Exchange silver T+D closed down 6.49% at 16,420 yuan/kg."
-    },
-    {
-      "id": "mkt:019e990d-05fa-7665-830b-fc650f7f62f5",
-      "time": "2026-06-06 02:30:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "US stocks extended losses: Nasdaq down 3.6%, S&P 500 down 2.16%, Dow Jones Industrial Average down 1.0%."
-    },
-    {
-      "id": "mkt:019e990c-ee27-7665-830b-f366e062cdde",
-      "time": "2026-06-06 02:30:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "The Trump Trade"
-      ],
-      "text": "White House: President Trump signed a directive on developing AI capabilities for national security."
     }
   ]
 }
