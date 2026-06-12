@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-13 03:01:17",
-  "count": 18402,
+  "updated": "2026-06-13 03:05:34",
+  "count": 18395,
   "items": [
+    {
+      "id": "4933312",
+      "time": "2026-06-13 03:03:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7641元，較週四夜盤收盤漲79點。成交量382.94億美元。"
+    },
+    {
+      "id": "mkt:019ebd35-6b13-7dd8-afe5-c75edbdca3db",
+      "time": "2026-06-13 03:00:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.02% at 24,706, trading 12 points below the spot index."
+    },
     {
       "id": "4933311",
       "time": "2026-06-13 03:00:01",
@@ -169314,89 +169333,6 @@
         "AI Revolution"
       ],
       "text": "Forbes reports AI programming startup Lovable is in fundraising talks, seeking a valuation of about USD 12 bln."
-    },
-    {
-      "id": "mkt:019e992c-bd42-7665-830c-93c3e3f82c03",
-      "time": "2026-06-06 03:05:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures fell 1.38% in the night session to 24,544, trading 418 points below the cash index."
-    },
-    {
-      "id": "4920313",
-      "time": "2026-06-06 03:04:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：隨著市場對沖突結束抱有希望，油價下跌】在市場對美伊衝突解決的預期蓋過對沖突再次爆發的擔憂之際，原油期貨結算價走低。Again Capital的John Kilduff表示：“石油市場顯然已經感覺到總統特朗普希望結束這件事。“他補充說，人們越來越擔心美國將“同意任何條件以暫時結束此事，從而使這些價格能夠真正回落“。Kilduff說，少量油輪透過霍爾木茲海峽並不能解決問題，該市場一直依賴儲備，但隨著該海峽實際上仍處於關閉狀態，庫存正在減少。“在我看來，懸崖在7月初。7月初是真正的困境降臨之時。“西得州中質油收盤下跌2.7%，報每桶90.54美元；布倫特原油下跌2%，至93.09美元。"
-    },
-    {
-      "id": "4920312",
-      "time": "2026-06-06 03:04:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數在美股午後盤中下跌近9%。"
-    },
-    {
-      "id": "4920311",
-      "time": "2026-06-06 03:04:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：兩名美國官員透露，美方已組建一支約百人的專家團隊，一旦伊核談判達成初步協議，該團隊將為後續談判提供配套支撐。維特科夫與庫什納前往田納西州會晤團隊成員，研討潛在落地實施細則。"
-    },
-    {
-      "id": "4920310",
-      "time": "2026-06-06 03:03:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：人工智慧編碼初創公司Lovable正洽談以120億美元估值融資。"
-    },
-    {
-      "id": "mkt:019e992a-7604-7665-830c-89b31b6aac7a",
-      "time": "2026-06-06 03:02:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Israeli airstrikes in southern Lebanon kill at least 13】Israeli air raids on multiple towns in southern Lebanon on the 5th killed at least 13 people and wounded 15, Lebanese sources said. Israeli jets and drones struck Nebetiyeh, Bint Jbeil and Tyre from predawn hours, hitting homes, vehicles and a building housing a bank branch in Tyre’s Abbasiyah; that building was destroyed and 12 civilians were wounded. Israeli forces issued evacuation warnings for towns in the Sidon and Zahrani areas and residents were reported evacuating. Hezbollah said its fighters attacked Israeli targets in southern Lebanon and clashed with Israeli forces."
-    },
-    {
-      "id": "4920309",
-      "time": "2026-06-06 03:02:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【國際空間站宇航員緊急避險兩小時】北京時間6月5日晚9點04分，美國國家航空航天局（NASA）下令國際空間站上的多名宇航員躲進與空間站對接的“龍”飛船避險。5名宇航員隨即進入飛船避險並做好撤離準備。與此同時。俄羅斯宇航員試圖修復這座空間站俄方艙段的漏氣點。大約兩小時後，NASA撤銷了避險指令，並告知宇航員可以返回空間站。 目前國際空間站內有兩個乘組，共7名宇航員，包括3名美國宇航員、3名俄羅斯宇航員和1名法國宇航員。 據NASA發言人宣告，“俄方‘星辰’號服務艙的PrK過渡模組‌（該模組是連線‘星辰’號服務艙與貨運飛船對介面的關鍵通道）一段時間以來一直存在裂縫和洩漏問題，迄今為止，俄羅斯國家航天集團已盡其所能採取了緩解措施。而鑑於出現新的洩漏情況，俄羅斯國家航天集團決定6月5日進行更為廣泛的修復作業。出於極度謹慎，NASA指示由美國太空探索技術公司（SpaceX）執行的國際空間站第12次載人輪換任務乘組4名成員以及另外乘組的美國宇航員克里斯·威廉姆斯，在俄羅斯宇航員修復作業進行期間，進入‘龍’飛船避難待命。” 俄羅斯國家航天集團則證實，在空間站俄羅斯艙段發現了兩處潛在漏氣點，俄羅斯宇航員進行了修理，國際空間站人員和系統的安全沒有受到任何威脅。（CCTV國際時訊）"
-    },
-    {
-      "id": "4920308",
-      "time": "2026-06-06 03:01:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【在岸人民幣兌美元夜盤收盤報6.7878，較上一交易日下跌136點】在岸人民幣兌美元夜盤收盤報6.7878，較上一交易日下跌136點。"
-    },
-    {
-      "id": "4920307",
-      "time": "2026-06-06 03:01:21",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：脫歐導致市場規模出現萎縮。"
     }
   ]
 }
