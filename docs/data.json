@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-12 12:45:43",
-  "count": 18433,
+  "updated": "2026-06-12 12:49:53",
+  "count": 18420,
   "items": [
+    {
+      "id": "4931815",
+      "time": "2026-06-12 12:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港超級豪宅以7200萬美元易手 創下今年最大二手房交易】香港一處歷史悠久的洋房以5.63億港元(7,200萬美元)的價格售出，成為今年香港最大的房地產交易之一。土地註冊處登記檔案顯示，石澳道14號的豪宅已售予Jennifer Tzelee Teo。根據房地產資料庫EPRC Ltd.，這是今年最大的一筆二手房交易。"
+    },
     {
       "id": "mkt:019eba24-8edb-7dd8-afd1-b23ee87c68d5",
       "time": "2026-06-12 12:43:38",
@@ -169858,143 +169866,6 @@
         "Macro & Rates"
       ],
       "text": "RESERVE BANK OF INDIA governor raises this year’s CPI inflation projection to 5.1%."
-    },
-    {
-      "id": "4918735",
-      "time": "2026-06-05 12:49:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：能源價格飆升、貿易政策不確定性給印度2027財年經常賬戶赤字帶來上行風險。"
-    },
-    {
-      "id": "mkt:019e961d-8a5c-7224-a867-02845a9e4cf0",
-      "time": "2026-06-05 12:49:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Reserve Bank of India governor expects real GDP growth of 6.8% in Q4 of fiscal 2027."
-    },
-    {
-      "id": "4918734",
-      "time": "2026-06-05 12:49:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳：三家記憶體製造商都已獲得供應HBM4的資格。"
-    },
-    {
-      "id": "4918733",
-      "time": "2026-06-05 12:48:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：銀行業體系層面指標執行穩健。"
-    },
-    {
-      "id": "mkt:019e961c-955b-7224-a866-f96db45318f2",
-      "time": "2026-06-05 12:48:35",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said robotics will become South Korea's next major industry."
-    },
-    {
-      "id": "4918732",
-      "time": "2026-06-05 12:47:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英偉達執行長：機器人產業將是韓國下一個核心領域。"
-    },
-    {
-      "id": "4918731",
-      "time": "2026-06-05 12:46:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：預計政府現金餘額提取、季風季貨幣回籠將在短期內改善流動性狀況。"
-    },
-    {
-      "id": "mkt:019e961a-dfed-7224-a866-f7d4e14592d2",
-      "time": "2026-06-05 12:46:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said robotics technology can be applied to South Korea's industrial sector."
-    },
-    {
-      "id": "4918730",
-      "time": "2026-06-05 12:46:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英偉達執行長：可將機器人技術應用於韓國工業。"
-    },
-    {
-      "id": "4918729",
-      "time": "2026-06-05 12:46:29",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：印度儲備銀行已主動出臺長期性及臨時性流動性措施。"
-    },
-    {
-      "id": "4918728",
-      "time": "2026-06-05 12:46:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行將2027財年印度通脹預期上調至5.1%，同時將GDP預期下調至6.6%。"
-    },
-    {
-      "id": "mkt:019e961a-40bd-7224-a866-ed78228af1b4",
-      "time": "2026-06-05 12:46:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said chip manufacturing will become more automated."
-    },
-    {
-      "id": "4918727",
-      "time": "2026-06-05 12:45:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長：晶片製造業自動化程度將進一步提升。"
-    },
-    {
-      "id": "mkt:019e961a-23b2-7224-a866-e72be2c4efaf",
-      "time": "2026-06-05 12:45:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said the company will begin hiring staff for an R&D center in South Korea."
     }
   ]
 }
