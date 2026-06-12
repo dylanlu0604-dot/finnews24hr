@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-12 10:11:01",
-  "count": 18458,
+  "updated": "2026-06-12 10:15:01",
+  "count": 18462,
   "items": [
+    {
+      "id": "4931636",
+      "time": "2026-06-12 10:13:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航空發動機板塊持續拉昇，成飛整合漲停】航空發動機板塊持續拉昇，成飛整合漲停，此前航發科技、安泰科技、晨曦航空等多股漲停。"
+    },
+    {
+      "id": "te:markets:558534",
+      "time": "2026-06-12 10:13:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Bounce Back — The Hang Seng Index rose about 1.6% or 392 points in early trading on Friday, recovering from losses that pushed the benchmark to an 11-month low in the previous session, as improving global risk sentiment lifted equities across the region. Investor confidence strengthened after US President Donald Trump said negotiations with Iran had made significant progress, raising hopes that a peace agreement could be reached as soon as this weekend. The prospect of easing geopolitical tensions boosted appetite for risk assets globally. Meanwhile, oil prices fell to two-month lows as concerns over potential supply disruptions eased, supporting sectors sensitive to fuel costs. Heavyweight financial, technology, and retail trade stocks led the gains, while the communication sector was the only segment to post a modest decline. Among individual stocks, AIA (+1.4%), Semiconductor (+3.3%), Kingboard (+4.4%), Lenovo (+2.2%), Knowledge Atlas (+7.3%), and Dongyue (+10.0%) were among the top performers."
+    },
+    {
+      "id": "4931635",
+      "time": "2026-06-12 10:13:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本據悉將派遣艦艇前往霍爾木茲海峽】據報道，日本政府正準備挑選艦艇部署到霍爾木茲海峽，以響應美國和伊朗達成的停火協議。 日本政府正在權衡多種方案，包括參與多邊行動和提供掃雷作業裝置。部署的前提是該區域的安全得到全面保障。"
+    },
+    {
+      "id": "te:markets:558532",
+      "time": "2026-06-12 10:12:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Remains Volatile Ahead of BOJ Meeting — The Japanese yen weakened to around 160.2 per dollar on Friday, surrendering some of the previous session's gains as investors awaited the Bank of Japan's policy meeting next week, where it is widely expected to raise interest rates amid persistent inflation and sustained weakness in the currency. The BOJ is expected to lift its policy rate by 25 basis points to 1%, marking the first increase since December last year and the highest level since 1995. Meanwhile, BOJ Governor Kazuo Ueda has been hospitalized with a hepatic cyst infection and is set to miss the meeting. On Thursday, the yen climbed as much as 0.6% after the dollar retreated sharply following President Donald Trump's remarks that a peace deal with Iran could be signed as soon as this weekend in Europe. Japan's economy remains particularly exposed to geopolitical tensions in the Middle East due to its heavy dependence on oil imports from the region."
+    },
+    {
+      "id": "te:markets:558530",
+      "time": "2026-06-12 10:11:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Track Asian Peers Higher — The Shanghai Composite Index advanced 0.8% to above 4000 on Friday, while the Shenzhen Component climbed over 1.3% to 15,000, tracking gains across Asian markets as renewed hopes for a Middle East peace deal lifted global sentiment. Both benchmarks, however, remained on course for weekly declines after earlier volatility driven by US–Iran tensions, but was capped with sentiment later supported by improving risk appetite following reports that a deal could be reached as soon as this weekend, potentially reopening the Strait of Hormuz. Locally, market participants will shift their attention to China's May credit lending data due later today to gauge the health of the economy, following an unexpected contraction in new yuan loans in April. Sector gains were led by semiconductors, minor metals, and precious metals, such as SMIC (4.1%), Zhongji Innolight (3.4%), Zijin Mining (3.2%), and China Tungsten (5.4%)."
+    },
+    {
+      "id": "te:markets:558529",
+      "time": "2026-06-12 10:11:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Construction Bank Stock Price Hits 4-week High — China Construction Bank shares increased to 8.88 HKD, the highest since May 2026. Over the past 4 weeks, China Construction Bank gained 0%, and in the last 12 months, it increased 16.25%."
+    },
+    {
+      "id": "mkt:019eb999-56f0-7dd8-afcf-9f9aef3a4b40",
+      "time": "2026-06-12 10:11:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium's intraday gain widened to 2.00%, trading at $1,293.78/oz."
+    },
+    {
+      "id": "mkt:019eb998-dd5b-7dd8-afcf-94721e222cc1",
+      "time": "2026-06-12 10:11:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Precious Metals"
+      ],
+      "text": "Polysilicon most-active contract jumped intraday, gain widened to 6.00%, trading at 38,850 yuan/ton. Palladium most-active contract rose more than 6.00% intraday, trading at 314.80 yuan/gram."
+    },
+    {
+      "id": "4931634",
+      "time": "2026-06-12 10:10:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲2%，至8,806.90點。"
+    },
+    {
+      "id": "4931633",
+      "time": "2026-06-12 10:10:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.00%，成分股中，富士達漲7.15%，天力複合漲6.02%，同惠電子漲6.01%，基康技術漲5.96%。"
+    },
+    {
+      "id": "4931632",
+      "time": "2026-06-12 10:10:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊短線拉昇，博納影業觸及漲停】影視院線板塊短線拉昇，博納影業觸及漲停，華智數媒、上海電影、光線傳媒、北京文化跟漲。"
+    },
+    {
+      "id": "4931631",
+      "time": "2026-06-12 10:10:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲6%，現報38850.00元。"
+    },
+    {
+      "id": "4931630",
+      "time": "2026-06-12 10:10:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國負責武裝部隊事務的國務大臣卡恩斯辭職】因不滿政府國防投資計劃資金方案，英國負責武裝部隊事務的國務大臣卡恩斯11日宣佈辭職。卡恩斯當天致信英國首相斯塔默表示，當前政府擬定的國防投資計劃“既缺乏變革性，也缺乏足夠資金支援”，難以應對日益嚴峻的安全威脅以及現代戰爭形態快速變化帶來的挑戰。卡恩斯在辭職信中表示，烏克蘭危機表明現代戰爭正在迅速演變，而英國仍在採購適用於過去戰爭模式的裝備。“價值數十億英鎊的平臺，可能被價值數千英鎊的系統擊敗。”他說，當前國防投資計劃未能為英軍提供與現實威脅相匹配的資源，因此決定辭職。他同時批評英國政府整體決策效率低下，稱政府部門之間“彼此對抗，而不是共同解決問題”。"
+    },
     {
       "id": "4931629",
       "time": "2026-06-12 10:10:02",
@@ -170093,91 +170221,6 @@
         "Importance 1"
       ],
       "text": "Asia FX Updates: South Korean Won Drops by 0.96% — Top currency loser is South Korean Won (-0.96%). Meanwhile, Japanese Yen and Chinese Yuan were little changed."
-    },
-    {
-      "id": "4918513",
-      "time": "2026-06-05 10:13:50",
-      "tags": [
-        "市場",
-        "其他"
-      ],
-      "text": "三大股指悉數翻紅，6G概念、光纖概念等板塊漲幅居前。"
-    },
-    {
-      "id": "mkt:019e958e-e0a8-766c-9543-a98cd86e9315",
-      "time": "2026-06-05 10:13:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "China's three major A-share indices turned positive; 6G-related and optical-fiber sectors led gains."
-    },
-    {
-      "id": "4918512",
-      "time": "2026-06-05 10:13:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中化石油安徽有限公司原副總經理施忠被開除黨籍】6月5日，據“中化清風線上”微信公眾號訊息，日前，中央紀委國家監委駐中國中化控股有限責任公司紀檢監察組、安徽省蕪湖市灣沚區監委對中國中化控股有限責任公司所屬中化石油安徽有限公司原副總經理施忠嚴重違紀違法問題進行了立案審查調查。經查，施忠身為國有企業黨員領導幹部，背棄初心使命，與他人串供，向組織提供虛假情況、掩蓋事實，對抗組織審查；無視中央八項規定精神，收受可能影響公正執行公務的禮品，接受可能影響公正執行公務的宴請；廉潔底線失守，將應當由本人支付的費用由他人支付，違規兼職取酬；違反生活紀律，婚姻存續期間與他人存在不正當性關係。利用職務便利，為管理和服務物件提供幫助並非法收受鉅額財物，涉嫌受賄犯罪。施忠嚴重違反黨的政治紀律、廉潔紀律、生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後仍不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中國中化控股有限責任公司黨組研究，決定給予施忠開除黨籍處分；收繳其違紀違法所得。經安徽省蕪湖市灣沚區監委研究，決定將施忠涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "mkt:019e958e-345c-766c-9543-a786ba9e9a43",
-      "time": "2026-06-05 10:13:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share-listed Xinyisheng hit an intraday high of 818.38 yuan, up more than 4% on the day, with turnover exceeding 11.0 bln yuan."
-    },
-    {
-      "id": "4918511",
-      "time": "2026-06-05 10:12:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧本溪一臨街商鋪發生爆炸，致2死13傷】遼寧本溪市消防救援局通報：2026年6月5日6時42分，本溪市消防救援局指揮中心接到報警，位於本溪市平山區平山路一臨街商鋪（面積約35平方米），發生疑似液化氣罐洩露引發爆炸。指揮中心立即調派42名消防救援人員、8輛消防車趕赴現場處置。目前，小面積明火已撲滅，現場搜救出2名被困人員，經確認已無生命體徵。13人輕微傷，已送至醫院救治。事故原因正在調查中。"
-    },
-    {
-      "id": "4918510",
-      "time": "2026-06-05 10:12:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新易盛股價創歷史新高】新易盛盤中股價創歷史新高，現漲4.5%，報811.00元，總市值為8064.08億元。"
-    },
-    {
-      "id": "4918509",
-      "time": "2026-06-05 10:11:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【克里姆林宮：普京不會赴美觀看世界盃】俄羅斯總統新聞秘書佩斯科夫告訴俄羅斯新聞社，俄總統普京不會赴美觀看2026年美加墨世界盃比賽。據俄新社5日報道，美國總統特朗普此前表示，他可能邀請普京前往美國觀看本屆世界盃比賽。對此，佩斯科夫回應說：“普京不會去。”（新華社）"
-    },
-    {
-      "id": "4918508",
-      "time": "2026-06-05 10:11:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【挪威石油公司與工會達成薪資協議 避免了罷工】挪威石油公司已與三個工會達成薪資協議，從而避免了可能擾亂生產的罷工行動，雙方談判代表 週五表示 。工會此前曾表示，挪威近8%的海上油氣工人計劃在工資調解失敗的情況下進行罷工，而該行業估計，這將導致初期日產量減少45,500桶油當量。工會官員曾警告稱，罷工行動隨時可能擴大，對生產造成重大影響。挪威每天生產超過400萬桶油當量，其中原油和天然氣幾乎各佔一半，在伊朗戰爭導致中東產量受限之際，任何減產都可能影響市場。官員表示，雙方已就每年42,000挪威克朗（$4,493）的普遍加薪達成一致，其中包括海上作業補貼和節假日津貼。“此外，輪班津貼和夜班津貼將分別增加5挪威克朗和8挪威克朗。浮動津貼也進行了調整，協議中還包含一些技術性修改，”挪威海上石油協會（Offshore Norway）在一份宣告中表示。"
-    },
-    {
-      "id": "4918507",
-      "time": "2026-06-05 10:11:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【普京就多個熱點問題答世界主要通訊社提問】俄羅斯總統普京4日在聖彼得堡會見出席第29屆聖彼得堡國際經濟論壇的13位世界主要通訊社負責人，並就俄烏局勢、中東局勢、俄歐關係和俄羅斯經濟等國際及涉俄熱點回答提問。 談及俄烏局勢，普京說，俄方準備並願意與烏方以和平方式達成協議，美國總統特朗普關於烏克蘭的提議或成為和平協議的基礎。他說，特朗普致力於解決烏克蘭問題，但這一問題位元朗普預想的要困難得多。 回答中東局勢相關問題時，普京說，伊朗局勢具有全球性效應，霍爾木茲海峽的關閉對全球經濟產生重大影響。伊朗是俄羅斯的友好國家，俄方的目標是在共同利益的堅實基礎上與所有夥伴建立長期關係。 普京在談及俄羅斯與歐洲關係時說，俄羅斯不拒絕與歐洲進行對話，並表示歐洲與俄方談判的人選須是“值得俄方信任的人”。 在談到與其他國家關係時，普京說，古巴是俄羅斯的友好國家，俄方曾就古巴問題與美國有過接觸。他還表示，俄羅斯與哈薩克關係發展順利，正“呈上升趨勢”，且與亞塞拜然關係良好。 談及俄國內經濟，普京表示，俄羅斯經濟正在復甦，並穩步迴歸目標指標。他說，俄羅斯宏觀經濟面臨的主要問題是通貨膨脹，俄央行正在採取一系列必要措施，已提前實現了降低貧困人口比例的目標，2025年貧困人口比例降至6.7%。 普京在答問中還提到，他符合俄憲法關於參加2030年的總統競選的規定，但現在談論此事“為時尚早”，他當前只想集中精力解決國家面臨的問題。"
     }
   ]
 }
