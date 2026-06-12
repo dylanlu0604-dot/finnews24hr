@@ -1,7 +1,119 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-13 05:15:24_
-_本檔包含 3766 則快訊，約 671004 字_
+_更新時間：2026-06-13 06:13:59_
+_本檔包含 3768 則快訊，約 669149 字_
+
+---
+
+### 2026-06-13 06:01:53  #市場 #央行 #國際
+
+【美債交易員下調美聯儲2026年加息押注 因市場寄望和平協議】隨著市場對伊朗戰爭結束的樂觀情緒升溫，美債市場本週收官之際，交易員押注美聯儲將在明年初加息。週五下午，利率互換交易顯示，交易員目前預計，到2027年1月，加息25個基點的可能性為100%；而此前他們押注會在今年加息。這一轉變發生之前，資料顯示美國核心通脹上月以相對溫和的速度加快，美國原油價格跌破每桶85美元，美國總統唐納德·特朗普宣稱與伊朗達成和平協議取得進展。“霍爾木茲海峽可能重新開放的跡象以及油價下跌，一直是推動市場的關鍵敘事，”HSBC Securities美國利率策略師Dhiraj Narula表示，“這些因素在一定程度上推遲了對加息時間的預期。”
+
+---
+
+### 2026-06-13 06:00:04  #其他
+
+委內瑞拉代總統與美方人員會面，商討能源相關事宜。
+
+---
+
+### 2026-06-13 05:58:00  #其他 #焦點
+
+SpaceX與投行達成罕見交易，IPO綠鞋機制費用為零。
+
+---
+
+### 2026-06-13 05:55:43  #焦點 #國際
+
+【伊朗外長披露伊美諒解備忘錄草案部分內容】 伊朗外交部長阿拉格齊在12日晚播出的伊朗伊斯蘭共和國廣播電視臺一檔節目中，披露伊美諒解備忘錄草案部分內容，涉及停火安排、霍爾木茲海峽航運和經濟議題等。阿拉格齊說，當前討論的談判框架分為“兩階段”。第一階段聚焦結束衝突和恢復地區穩定，第二階段就核問題及相關事項展開正式談判。他強調，伊方高度警惕美方的履約能力和意願，透過“分階段安排和嚴格執行機制”防止對方違約。關於停火安排，阿拉格齊表示，諒解檔案涉及結束所有戰線軍事衝突，涵蓋黎巴嫩。伊方明確告知對方，達成協議需要以色列從黎巴嫩南部撤軍。據目前討論情況，美國將承諾不主動發動戰爭、不以武力相威脅；伊美雙方將彼此尊重主權，互不干涉內政。就霍爾木茲海峽航運，阿拉格齊說，美國解除對伊朗的海上封鎖是諒解檔案首先涉及並被重點強調的內容之一。他進一步表示，該海峽主權屬於伊朗和阿曼，兩國長期承擔其航行安全的保障和相關服務。未來海峽管理機制將進行調整，不會簡單回到戰前模式，航運服務將進行收費。伊朗正與阿曼就此協調，聯合方案有望於近期公佈。在經濟議題方面，阿拉格齊說，如果諒解檔案最終簽署，伊朗被凍結海外資產將逐步解凍。圍繞戰爭賠償問題，雙方正在討論一項重建與經濟發展方案。關於核問題，阿拉格齊表示，伊方目前尚未作出任何實質性決定，相關議題留待後續談判處理。伊方堅持認為，如需處理現有高丰度濃縮鈾庫存，唯一可接受方式是在伊朗境內實施“稀釋處理”，而非轉移至境外。他強調，諒解檔案尚未最終簽署，相關內容仍可能進行調整，伊方將在最終敲定後公佈具體細節。如其內容得不到落實，最終協議的談判將無法進行。（新華社）
+
+---
+
+### 2026-06-13 05:47:30  #國際
+
+美國司法部批准派拉蒙-華納兄弟探索合併案。
+
+---
+
+### 2026-06-13 05:44:49  #國際
+
+美國司法部：派拉蒙收購華納兄弟不大可能損害市場競爭。
+
+---
+
+### 2026-06-13 05:42:08  #國際
+
+阿聯酋官方宣告：沒有任何被凍結的伊朗資金透過該國解凍、轉移或調動。
+
+---
+
+### 2026-06-13 05:40:09  #國際
+
+阿聯酋官方宣告：否認有關向伊朗轉移資金的媒體報道。
+
+---
+
+### 2026-06-13 05:39:52  #公司 #市場 #國際
+
+【SpaceX美國IPO要點總結：馬斯克的財富相當於七個巴菲特】1、創史上最大IPO紀錄： SpaceX於6月12日按每股150美元開盤，較135美元的首次公開募股（IPO）發行價高出11%。此次IPO是歷史上規模最大的，SpaceX共籌集約750億美元資金。
+2、市值飆升至2.2萬億美元： 在收盤時，公司股價上漲19%，使其完全攤薄後的市值達到了驚人的2.2萬億美元。
+3、馬斯克成為史上首位“萬億富翁”： 此次IPO使SpaceX執行長馬斯克的淨資產略超1萬億美元，成為全球首位財富突破這一水平的人。Ben Steverman詳細分析了馬斯克用這筆錢可以做的事情——從收購美國、歐洲和日本的所有汽車製造商，到為美國國家航空航天局（NASA）提供41次以上的預算資金。此外，馬斯克的財富相當於七個沃倫·巴菲特。
+4、散戶投資者湧入市場引發宕機： 散戶投資者在公開市場上瘋狂搶購SpaceX股票，由於交易量激增，Robinhood等交易服務甚至出現了系統崩潰。
+5、馬斯克感嘆“難以置信”： 馬斯克週五在星基地（Starbase）發表講話時，提到了這次IPO的超現實感。他最初認為SpaceX成功的機率不到10%。“一家從埃爾塞貢多倉庫裡起步的小公司，現在要進行史上最大規模的IPO，這確實讓人難以置信。”馬斯克說道。
+
+---
+
+### 2026-06-13 05:38:59  #國際
+
+【伊朗南部爆炸聲因警告性射擊】據伊朗國家廣播電視臺（IRIB）當地時間今天（6月13日）凌晨援引當地官員的話報道稱，伊朗南部錫裡克港稍早前傳出的爆炸聲“與在霍爾木茲海峽的警告性射擊有關”。 (CCTV國際時訊)
+
+---
+
+### 2026-06-13 05:34:36  #市場
+
+【紐約期金本週跌約3%，紐約銅累漲超3.5%】週五（6月12日）紐約尾盤，現貨黃金漲0.03%，報4213.70美元/盎司，本週累計下跌2.66%，6月9日北京時間21:30微幅上揚至4363.41美元，隨後持續走低，6月11日07:00跌至4024.01美元。COMEX黃金期貨漲2.93%，報4234.70美元/盎司，本週累跌2.99%。現貨白銀漲1.01%，報67.9854美元/盎司，本週累跌0.26%，6月9-11日呈現出V形走勢，6月11日07:00曾跌至61.5180美元。COMEX白銀期貨漲6.43%，報68.115美元/盎司，本週累漲0.15%。COMEX銅期貨漲3.20%，報6.4755美元/磅，本週累漲3.56%。現貨鉑金大致持平，報1720.58美元/盎司，本週累跌3.33%。現貨鈀金漲1%，報1285.60美元/盎司，本週累漲4.86%，6月12日曾漲至1319.45美元。
+
+---
+
+### 2026-06-13 05:30:21  #國際
+
+【埃及蘇伊士省一汽車與火車相撞 8人死亡】埃及蘇伊士省政府12日發表宣告說，該省當天發生一起火車與一輛私家車相撞事故，造成8人死亡。宣告說，事故發生在蘇伊士省迦納延區的沙盧法區域。事發時，這輛汽車試圖橫穿一個非正規的鐵路道口，與行駛中的火車相撞。（新華社）
+
+---
+
+### 2026-06-13 05:27:52  #國際
+
+【巴總理稱美伊協議最終文字達成】巴基斯坦總理夏巴茲當地時間6月12日晚在社交媒體平臺上發文說，“在巴基斯坦持續進行緊張斡旋之際，我們完全清楚，一些企圖破壞和平協議的人正在不斷散佈虛假資訊。撇開這些雜音不談，我們可以確認，各方已就和平協議最終文字達成一致。目前，巴基斯坦正與（美伊）雙方密切合作，敲定後續步驟。和平從未像此刻這般觸手可及。” 據巴基斯坦媒體報道，伊朗外長阿拉格齊將於今天（6月13日）訪問巴基斯坦。 另據伊朗官方通訊社伊通社援引知情人士訊息報道，巴基斯坦副總理兼外長達爾即將啟程前往瑞士日內瓦，繼續推進在伊朗與美國之間的斡旋工作。（CCTV國際時訊）
+
+---
+
+### 2026-06-13 05:22:11  #國際
+
+市場訊息：貝萊德將清算19只在美國註冊的共同基金和交易所交易基金(ETF)。
+
+---
+
+### 2026-06-13 05:20:52  #市場 #國際
+
+週五（6月12日）紐約尾盤，美國10年期基準國債收益率上漲1.78個基點，報4.4789%，本週累計下跌5.14個基點，6月8-11日主要持穩於4.54%附近——8日北京時間14:30達到4.5801%，11日紐約中午在美國總統特朗普聲稱取消繼續襲擊伊朗的計劃之後跳水，12日16:00跌至4.4335%。兩年期美債收益率漲1.90個基點，報4.0809%，本週累跌6.61個基點，整體交投於4.1970%-4.0348%區間。
+
+---
+
+### 2026-06-13 05:17:32  #國際
+
+美國能源部：戰略石油儲備（SPR）石油置換提案的接收截止時間為中部時間6月15日上午11點。
+
+---
+
+### 2026-06-13 05:16:43  #國際
+
+美國能源部：擬從戰略石油儲備中出借最多4000萬桶原油。
+
+---
+
+### 2026-06-13 05:15:28  #市場
+
+富時A50期指連續夜盤收跌0.06%，報15568點。
 
 ---
 
@@ -22598,101 +22710,5 @@ United States | 4-Week Bill Auction Bid/Cover Ratio (Jun.11) | actual 3.13 | pre
 ### 2026-06-11 23:32:04  #MKT News #Economic Calendar
 
 United States | 4-Week Bill Auction High Yield Rate (Jun.11) | actual 70.32% | previous 27.64%
-
----
-
-### 2026-06-11 23:32:03  #MKT News #Economic Calendar
-
-United States | 4-Week Bill Auction Accepted at High (Jun.11) | actual 3.595% | previous 3.615%
-
----
-
-### 2026-06-11 23:31:41  #MKT News
-
-Novo Nordisk (NVO.N) has taken certain internal IT systems offline for security reasons.
-
----
-
-### 2026-06-11 23:31:38  #市場 #國際
-
-【美國國債上漲 受油價下跌和喜憂參半的通脹資料推動】隨著油價下跌改善通脹前景，美國國債價格上漲。週四，各期限國債收益率下降2至3個基點，並在美國早盤時段觸及日內低點。與此同時，歐洲債券走高。美伊停火前景波折不斷導致油價波動劇烈。有關阿聯酋與伊朗官員本週舉行關鍵會晤的報道，沖淡了特朗普威脅奪取伊朗關鍵石油樞紐的影響，油價重拾跌勢。油價變動對債市的影響因美國通脹資料的釋出而變得更為複雜。資料顯示，5月生產者價格漲幅超過經濟學家預期。不過，剔除能源和食品價格後的核心價格指標漲幅低於預期。
-
----
-
-### 2026-06-11 23:30:45  #其他
-
-德國DAX 30指數初步收漲0.21%，報24245.97點。法國股指初步收漲0.59%，義大利股指初步收漲1.17%、銀行指數漲0.15%，英國股指初步收漲0.68%。
-
----
-
-### 2026-06-11 23:30:39  #央行 #國際
-
-【歐元區股市在歐洲央行加息日收漲】歐洲STOXX 600指數初步收漲0.71%，報622.53點。歐元區STOXX 50指數初步收漲1.02%，報6070.96點。富時泛歐績優300指數初步收漲0.90%，報2490.51點。
-
----
-
-### 2026-06-11 23:30:12  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: Brazil 10Y Bond Yield Falls by 13 bps — Majority of government bonds yields are lower on Thursday. Top losers are Brazil 10Y (-12.50bps), Germany 10Y (-4.40bps) and US 10Y (-3.90bps). Gains are led by Japan 10Y (0.26bps).
-
----
-
-### 2026-06-11 23:27:22  #市場 #央行 #國際
-
-【訊息人士：在首次加息後歐洲央行預計將在7月暫停行動】據兩名訊息人士透露，如果能源價格保持在當前水平附近，歐洲央行政策制定者預計將在下一次7月的會議上維持利率不變。歐洲央行週四首次在近三年來上調利率，旨在遏制因伊朗戰爭引發的燃料成本上漲而蔓延至歐元區經濟的通脹。會議上的兩位人士表示，只要能源價格沒有出現突然大幅波動，歐洲央行在7月22日下次會議上暫停加息的可能性目前高於加息。其中一位訊息人士稱，鑑於目前尚未出現對其他商品和服務價格的二輪影響，只有當油價再次大幅上漲——布倫特原油價格升至每桶100美元以上——才會觸發7月份的加息。另一訊息來源則表示，核心通脹率的進一步意外上漲也可能引發市場走勢變化。不過，兩位訊息人士均指出，歐洲央行的預測中已包含兩次加息，因此即使決策者在7月暫停加息，他們仍可能在稍後（可能在9月）採取行動，而通脹形勢未必會有實質性改善。
-
----
-
-### 2026-06-11 23:27:04  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-【Sources: ECB likely to pause at July meeting after first hike】Two sources said ECB policymakers expect to hold rates at the July 22 meeting if energy prices remain near current levels. The bank on Thursday delivered its first rate rise in nearly three years to curb inflation from fuel-cost increases linked to the Iran-related conflict. The sources said a July pause is currently more likely than another hike, unless energy prices jump sharply — one source said only a large oil rebound, with Brent above $100/bbl, would trigger a July hike. The other added an unexpected further rise in core inflation could change market expectations. Both noted ECB staff projections already assume two further rate hikes, so a July pause would not preclude additional tightening later, possibly in September.
-
----
-
-### 2026-06-11 23:26:38  #國際
-
-【美國防部發生危險品事件】據消防部門證實，當地時間今天（6月11日）上午，美國國防部大樓發生“危險品事件”。據美國有線電視新聞網（CNN）援引匿名訊息人士報道，五角大樓已實施封鎖，部分樓層人員被疏散。報道稱，急救人員佩戴了全套防毒面具並身著防化服。CNN還報道稱，大樓二至五層及部分走廊已被封鎖。五角大樓發言人肖恩·帕內爾在一封電子郵件中宣告：“五角大樓擁有完善的安保系統以確保建築及人員安全。該系統檢測到空氣質量異常，有必要採取預防性措施，直至查明原因。”他補充道：“國防部正在執行標準防護預案，包括對受影響區域下達‘就地避難’指令。應急響應小組已就位，隨時準備為樓內人員提供支援。”（CCTV國際時訊）
-
----
-
-### 2026-06-11 23:20:49  #國際
-
-市場訊息：特朗普政府就 H-1B 簽證 10 萬美元收費相關裁決提起上訴。
-
----
-
-### 2026-06-11 23:20:32  #公司
-
-【千里科技：控股子公司千里智駕擬2590.8萬元收購融感科技100%股權】千里科技(601777)6月11日公告，控股子公司千里智駕擬收購寧波市融感科技有限公司（簡稱“融感科技”）100%股權，交易價格為2590.8萬元。融感科技成立於2023年6月，總部位於浙江省寧波市，是一家視覺與毫米波融合雷達技術研發和製造企業。
-
----
-
-### 2026-06-11 23:17:58  #MKT News #Important #EURUSD #Impact bullish #DXY #Impact bearish
-
-Markets trimmed bets on further ECB rate hikes and now price about 40bp of additional tightening this year.
-
----
-
-### 2026-06-11 23:17:44  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds Below $93 — Brent oil prices moved between gains and losses below $93 per barrel on Thursday as traders balanced geopolitical risks with still-functioning global supply flows. President Donald Trump warned of possible further US attacks on Iranian energy infrastructure, including the Kharg Island export terminal, while also signaling reduced appetite for a major escalation. At the same time, the UAE and Iran held rare direct talks, raising hopes for diplomatic de-escalation in the region. So far, oil facilities have largely been spared, which has helped prevent the kind of supply shock many traders had feared and kept prices well below earlier conflict peaks. On the demand side, Chinese imports from Saudi Arabia are expected to fall in July, while tanker traffic through the Strait of Hormuz has increased. However, inventories are tightening in key regions, with US crude stocks including strategic reserves down sharply over recent weeks and Singapore fuel inventories at their lowest since 2013.
-
----
-
-### 2026-06-11 23:17:26  #國際
-
-巴基斯坦、卡達、沙烏地阿拉伯、埃及和土耳其齊聚一堂，評估關於美伊局勢的調解努力。
-
----
-
-### 2026-06-11 23:17:19  #MKT News #Market Regions #Emerging Markets
-
-Pakistan, Qatar, Saudi Arabia, Egypt and Turkey met to assess mediation efforts concerning the U.S.-Iran situation.
-
----
-
-### 2026-06-11 23:17:15  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Fluctuates on Thursday — Crude oil prices moved between gains and losses around $90 per barrel on Thursday as traders balanced geopolitical risks with still-functioning global supply flows. President Donald Trump warned of possible further US attacks on Iranian energy infrastructure, including the Kharg Island export terminal, while also signaling reduced appetite for a major escalation. At the same time, the UAE and Iran held rare direct talks, raising hopes for diplomatic de-escalation in the region. So far, oil facilities have largely been spared, which has helped prevent the kind of supply shock many traders had feared and kept prices well below earlier conflict peaks. On the demand side, Chinese imports from Saudi Arabia are expected to fall in July, while tanker traffic through the Strait of Hormuz has increased. However, inventories are tightening in key regions, with US crude stocks including strategic reserves down sharply over recent weeks and Singapore fuel inventories at their lowest since 2013.
 
 ---

@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-13 05:15:24_
-_本檔包含 3762 則快訊，約 669225 字_
+_更新時間：2026-06-13 06:13:59_
+_本檔包含 3757 則快訊，約 669147 字_
+
+---
+
+### 2026-06-11 23:32:03  #MKT News #Economic Calendar
+
+United States | 4-Week Bill Auction Accepted at High (Jun.11) | actual 3.595% | previous 3.615%
+
+---
+
+### 2026-06-11 23:31:41  #MKT News
+
+Novo Nordisk (NVO.N) has taken certain internal IT systems offline for security reasons.
+
+---
+
+### 2026-06-11 23:31:38  #市場 #國際
+
+【美國國債上漲 受油價下跌和喜憂參半的通脹資料推動】隨著油價下跌改善通脹前景，美國國債價格上漲。週四，各期限國債收益率下降2至3個基點，並在美國早盤時段觸及日內低點。與此同時，歐洲債券走高。美伊停火前景波折不斷導致油價波動劇烈。有關阿聯酋與伊朗官員本週舉行關鍵會晤的報道，沖淡了特朗普威脅奪取伊朗關鍵石油樞紐的影響，油價重拾跌勢。油價變動對債市的影響因美國通脹資料的釋出而變得更為複雜。資料顯示，5月生產者價格漲幅超過經濟學家預期。不過，剔除能源和食品價格後的核心價格指標漲幅低於預期。
+
+---
+
+### 2026-06-11 23:30:45  #其他
+
+德國DAX 30指數初步收漲0.21%，報24245.97點。法國股指初步收漲0.59%，義大利股指初步收漲1.17%、銀行指數漲0.15%，英國股指初步收漲0.68%。
+
+---
+
+### 2026-06-11 23:30:39  #央行 #國際
+
+【歐元區股市在歐洲央行加息日收漲】歐洲STOXX 600指數初步收漲0.71%，報622.53點。歐元區STOXX 50指數初步收漲1.02%，報6070.96點。富時泛歐績優300指數初步收漲0.90%，報2490.51點。
+
+---
+
+### 2026-06-11 23:30:12  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: Brazil 10Y Bond Yield Falls by 13 bps — Majority of government bonds yields are lower on Thursday. Top losers are Brazil 10Y (-12.50bps), Germany 10Y (-4.40bps) and US 10Y (-3.90bps). Gains are led by Japan 10Y (0.26bps).
+
+---
+
+### 2026-06-11 23:27:22  #市場 #央行 #國際
+
+【訊息人士：在首次加息後歐洲央行預計將在7月暫停行動】據兩名訊息人士透露，如果能源價格保持在當前水平附近，歐洲央行政策制定者預計將在下一次7月的會議上維持利率不變。歐洲央行週四首次在近三年來上調利率，旨在遏制因伊朗戰爭引發的燃料成本上漲而蔓延至歐元區經濟的通脹。會議上的兩位人士表示，只要能源價格沒有出現突然大幅波動，歐洲央行在7月22日下次會議上暫停加息的可能性目前高於加息。其中一位訊息人士稱，鑑於目前尚未出現對其他商品和服務價格的二輪影響，只有當油價再次大幅上漲——布倫特原油價格升至每桶100美元以上——才會觸發7月份的加息。另一訊息來源則表示，核心通脹率的進一步意外上漲也可能引發市場走勢變化。不過，兩位訊息人士均指出，歐洲央行的預測中已包含兩次加息，因此即使決策者在7月暫停加息，他們仍可能在稍後（可能在9月）採取行動，而通脹形勢未必會有實質性改善。
+
+---
+
+### 2026-06-11 23:27:04  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+【Sources: ECB likely to pause at July meeting after first hike】Two sources said ECB policymakers expect to hold rates at the July 22 meeting if energy prices remain near current levels. The bank on Thursday delivered its first rate rise in nearly three years to curb inflation from fuel-cost increases linked to the Iran-related conflict. The sources said a July pause is currently more likely than another hike, unless energy prices jump sharply — one source said only a large oil rebound, with Brent above $100/bbl, would trigger a July hike. The other added an unexpected further rise in core inflation could change market expectations. Both noted ECB staff projections already assume two further rate hikes, so a July pause would not preclude additional tightening later, possibly in September.
+
+---
+
+### 2026-06-11 23:26:38  #國際
+
+【美國防部發生危險品事件】據消防部門證實，當地時間今天（6月11日）上午，美國國防部大樓發生“危險品事件”。據美國有線電視新聞網（CNN）援引匿名訊息人士報道，五角大樓已實施封鎖，部分樓層人員被疏散。報道稱，急救人員佩戴了全套防毒面具並身著防化服。CNN還報道稱，大樓二至五層及部分走廊已被封鎖。五角大樓發言人肖恩·帕內爾在一封電子郵件中宣告：“五角大樓擁有完善的安保系統以確保建築及人員安全。該系統檢測到空氣質量異常，有必要採取預防性措施，直至查明原因。”他補充道：“國防部正在執行標準防護預案，包括對受影響區域下達‘就地避難’指令。應急響應小組已就位，隨時準備為樓內人員提供支援。”（CCTV國際時訊）
+
+---
+
+### 2026-06-11 23:20:49  #國際
+
+市場訊息：特朗普政府就 H-1B 簽證 10 萬美元收費相關裁決提起上訴。
+
+---
+
+### 2026-06-11 23:20:32  #公司
+
+【千里科技：控股子公司千里智駕擬2590.8萬元收購融感科技100%股權】千里科技(601777)6月11日公告，控股子公司千里智駕擬收購寧波市融感科技有限公司（簡稱“融感科技”）100%股權，交易價格為2590.8萬元。融感科技成立於2023年6月，總部位於浙江省寧波市，是一家視覺與毫米波融合雷達技術研發和製造企業。
+
+---
+
+### 2026-06-11 23:17:58  #MKT News #Important #EURUSD #Impact bullish #DXY #Impact bearish
+
+Markets trimmed bets on further ECB rate hikes and now price about 40bp of additional tightening this year.
+
+---
+
+### 2026-06-11 23:17:44  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Below $93 — Brent oil prices moved between gains and losses below $93 per barrel on Thursday as traders balanced geopolitical risks with still-functioning global supply flows. President Donald Trump warned of possible further US attacks on Iranian energy infrastructure, including the Kharg Island export terminal, while also signaling reduced appetite for a major escalation. At the same time, the UAE and Iran held rare direct talks, raising hopes for diplomatic de-escalation in the region. So far, oil facilities have largely been spared, which has helped prevent the kind of supply shock many traders had feared and kept prices well below earlier conflict peaks. On the demand side, Chinese imports from Saudi Arabia are expected to fall in July, while tanker traffic through the Strait of Hormuz has increased. However, inventories are tightening in key regions, with US crude stocks including strategic reserves down sharply over recent weeks and Singapore fuel inventories at their lowest since 2013.
+
+---
+
+### 2026-06-11 23:17:26  #國際
+
+巴基斯坦、卡達、沙烏地阿拉伯、埃及和土耳其齊聚一堂，評估關於美伊局勢的調解努力。
+
+---
+
+### 2026-06-11 23:17:19  #MKT News #Market Regions #Emerging Markets
+
+Pakistan, Qatar, Saudi Arabia, Egypt and Turkey met to assess mediation efforts concerning the U.S.-Iran situation.
+
+---
+
+### 2026-06-11 23:17:15  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Fluctuates on Thursday — Crude oil prices moved between gains and losses around $90 per barrel on Thursday as traders balanced geopolitical risks with still-functioning global supply flows. President Donald Trump warned of possible further US attacks on Iranian energy infrastructure, including the Kharg Island export terminal, while also signaling reduced appetite for a major escalation. At the same time, the UAE and Iran held rare direct talks, raising hopes for diplomatic de-escalation in the region. So far, oil facilities have largely been spared, which has helped prevent the kind of supply shock many traders had feared and kept prices well below earlier conflict peaks. On the demand side, Chinese imports from Saudi Arabia are expected to fall in July, while tanker traffic through the Strait of Hormuz has increased. However, inventories are tightening in key regions, with US crude stocks including strategic reserves down sharply over recent weeks and Singapore fuel inventories at their lowest since 2013.
 
 ---
 
@@ -22548,131 +22644,5 @@ China night session open: main futures contracts mostly higher. Coke jumped over
 ### 2026-06-10 21:01:06  #其他
 
 BEREN THERAPEUTICS獲得 3 億美元融資。
-
----
-
-### 2026-06-10 21:00:22  #央行 #國際
-
-道明證券美國利率策略師Molly Brooks指出，市場將能源衝擊視為一個“何時而非是否”傳導的故事，在美聯儲定價相對保持不變的情況下，市場對石油向未來通脹資料傳導的預期已被推後。
-
----
-
-### 2026-06-10 21:00:15  #公司
-
-【南京1宗宅地3.77億元底價成交】南京出讓1宗龍王山風景區東側宅地，土地出讓面積27152.53㎡，規劃建築面積48874.00㎡，容積率1.8，起始價3.77億元，起始樓面價7708元/㎡。最終南京新高市政工程有限公司以底價價3.77億元競得該地塊。
-
----
-
-### 2026-06-10 21:00:06  #央行 #公司 #國際
-
-【中東緊張局勢加劇之際，投資者上調對英國基準利率上調的押注】在美國和伊朗敵對行動再次浮現後，投資者上調了對英國央行在2026年加息的預期。兩國之間的談判未能達成協議，導致美國總統特朗普警告稱，伊朗將“付出代價”。市場擔心，長期的衝突可能會使能源價格保持高位，並推高全球通貨膨脹。倫敦證券交易所集團資料顯示，投資者反映了2026年英國基準利率總計上調47個基點的預期，較一週前反映的39個基點的預期有所上升。
-
----
-
-### 2026-06-10 21:00:02  #市場 #焦點
-
-焦煤連續主力合約日內漲1%，現報1376.00元。
-
----
-
-### 2026-06-10 21:00:02  #市場
-
-【國內期貨夜盤開盤】多晶矽連續漲4.96%，鉑連續跌4.24%，工業矽連續漲3.17%，集運指數歐線期貨連續漲2.66%，黃金連續跌2.51%。
-
----
-
-### 2026-06-10 20:59:29  #公司
-
-【吉林省：要將吉林祥雲公司納入國有企業監管範疇】據吉林省政府官網訊息，6月9日，吉林省委副書記、省長鬍玉亭就推動數字政府建設、發展數字經濟等工作，到省政數局、吉林祥雲公司調研。其中，在吉林祥雲資訊科技有限公司，胡玉亭實地察看政務服務體系建設、人工智慧技術賦能等有關情況。他強調，要用好人工智慧、大模型等先進技術，匯聚資料資源、強化資料運營，加快數字產業化，推動資料資源在數字政府、智慧城市等領域擴大應用、釋放價值。加強網路安全體系和能力建設，打造安全可靠的資料生態環境。胡玉亭主持召開座談會，研究討論祥雲公司治理結構、核心功能、經營管理等情況，部署下步重點工作。
-
----
-
-### 2026-06-10 20:59:25  #MKT News #Commodities #Energy #Macro & Rates #The Fed (FOMC) #WTI #Impact mixed #US10Y
-
-【TD Securities: energy shock transmission is 'when not if'; market delays expected oil pass-through to inflation】After US CPI, Fed rate expectations were little changed; traders still price roughly 40bps of tightening over the next 12 months. TD Securities US rates strategist Molly Brooks said markets view the energy shock as a 'when-not-if' transmission; with Fed pricing broadly stable, markets have pushed out the expected timing for oil to feed through into future inflation data.
-
----
-
-### 2026-06-10 20:59:01  #公司 #國際
-
-【美國通脹升溫 消費者實際收入持續遭侵蝕】紐約消費金融公司Bankrate高階經濟分析師 Mark Hamrick 預計，由於中東供應鏈中斷，短期內通脹將保持高位，這意味著通脹超過工資增長的趨勢可能會持續下去。Zip Recruiter的經濟學家妮可·巴肖德表示，工資增長低於通脹水平，給中等收入家庭帶來了經濟壓力。
-
----
-
-### 2026-06-10 20:58:31  #其他
-
-【貴州茅臺年度股東會會前晚宴不供酒 有股東自帶四川濃香白酒】貴州茅臺(600519)2025年度股東會將於6月11日召開，來自全國千餘名茅臺股東、機構投資者與分析師齊聚茅臺鎮。6月10日晚間，貴州茅臺為參會投資者準備了自助餐晚宴，沿襲去年模式，整場餐會不提供酒品，去年“大放異彩”的茅臺生態農業旗下藍莓複合果汁也不再，轉而是僅供應可樂、雪碧、橙汁等常見飲料。現場，有部分股東吐槽酒企不提供品鑑酒，另有股東自帶茅臺酒就餐，甚至有股東帶來了四川濃香型白酒。
-
----
-
-### 2026-06-10 20:57:30  #公司
-
-【分析師：亞馬遜貨運擴張料將推動長期競爭】Raymond James的分析師表示，亞馬遜週三推出的擴大後的零擔貨運業務可能會為貨執行業帶來更嚴峻的競爭環境。這些分析師表示，亞馬遜擁有令人印象深刻的拖車和集裝箱規模，並且已經改變了包裹運輸領域的格局。他們表示，其持續的擴張努力表明該公司對這項業務有多麼重視。不過，這些分析師指出，老牌承運商在場站密度和提貨/送貨執行等領域仍佔據上風。這些分析師表示：“我們認為，這不會立即造成根本性的干擾，但隨著時間的推移，來自亞馬遜的更重大競爭威脅的風險正在上升。”
-
----
-
-### 2026-06-10 20:57:28  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Fall on Iran War Escalation — Futures tracking the S&P/TSX Composite Index fell on Wednesday, weighed down by escalating tensions in the Middle East. The US struck targets in Iran in retaliation for an attack on a helicopter near the Strait of Hormuz, while Iran launched attacks on US bases in Kuwait and Bahrain. The renewed exchange of strikes threatened prospects for a deal to end the conflict and reopen the Strait. Oil prices rose in response, fueling concerns about inflation and a more hawkish Bank of Canada, weighing on banks and the broader index. Meanwhile, gold prices fell on expectations of tighter US monetary policy, pressuring mining shares. Technology stocks also remained under pressure amid fading enthusiasm for AI. Investors are awaiting the Bank of Canada's policy decision, with the central bank expected to keep rates unchanged.
-
----
-
-### 2026-06-10 20:57:05  #公司 #市場 #國際
-
-【機構分析：通脹料將繼續挑戰債券市場】百達資產管理表示，通脹仍然是債券市場面臨的挑戰，該公司對目前許多主權債券提供的具吸引力的收益率持懷疑態度。該機構在一份報告中表示：“例如，美國和德國的收益率水平是合理的，因為通脹風險增加，進而導致貨幣緊縮和流動性下降的可能性增加。”總體而言，百達對美國國債和其他主要主權債券保持中立。然而，該機構認為新興市場本幣債務的前景要樂觀得多，這類債務提供更高的收益率，並在百達資產管理的模型中被列為估值最具吸引力的固定收益資產類別。
-
----
-
-### 2026-06-10 20:56:54  #公司
-
-【新易盛：實際控制人調整一致行動協議 若審議事項存在不一致情形以黃曉雷表決意向為準】新易盛(300502.SZ)公告稱，公司實際控制人高光榮與黃曉雷調整一致行動協議，並於2026年6月9日簽署《一致行動協議之補充協議》。調整後，雙方在股東會審議事項中若存在不一致情形，以黃曉雷表決意向為準。本次調整不會導致公司實際控制人發生變化，不涉及控制權變更。
-
----
-
-### 2026-06-10 20:56:54  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #WTI
-
-【US inflation accelerates; real consumer incomes continue to be eroded】May US CPI rose 4.2% YoY, the fastest since April 2023, marking the second consecutive month inflation has outpaced wage growth. May average hourly earnings rose 3.4% YoY; real wages fell 0.7% YoY and 0.1% MoM. Energy prices jumped 23.5% YoY, the largest increase since Aug 2022, with natural gas up 40.5% YoY and 7.0% MoM. Food prices rose 0.2% MoM, below the prior 0.5%. Bankrate senior economic analyst Mark Hamrick expects Middle East supply‑chain disruptions will keep inflation elevated in the near term; a ZipRecruiter economist said wages lagging inflation are squeezing middle‑income households.
-
----
-
-### 2026-06-10 20:56:29  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-【Institution: higher energy prices pushing up US monthly inflation】An institution says energy-price gains since the Iran war began three months ago continue to boost US monthly inflation. Energy rose 3.9% last month; gasoline jumped 7.0%; airfares increased 2.7%.
-
----
-
-### 2026-06-10 20:56:24  #國際
-
-美國議長約翰遜今日將與特朗普討論《外國情報監視法》（FISA）相關事宜。
-
----
-
-### 2026-06-10 20:55:50  #國際
-
-【美媒：特朗普“接近”下令打擊伊朗發電廠和橋樑】美國福克斯新聞頻道10日報道稱，美國總統特朗普說他“接近”下令對伊朗的發電廠和橋樑發動新的打擊。報道說，特朗普表示，這是作為對伊朗在談判過程中一直“拖著美國”的回應。北京時間10日上午，伊朗多地再次傳出爆炸聲。美軍稱對伊朗實施“自衛性打擊”，以回應美軍機被擊落事件。伊朗隨後對美軍行動作出回應，“猛烈打擊”中東地區美軍基地。伊朗外交部發言人巴加埃10日在談及伊美會談相關問題時表示，9日衝突後，伊方需要重新評估局勢。巴加埃說，美國持續違反停火，破壞了外交程序。（新華社）
-
----
-
-### 2026-06-10 20:55:23  #國際
-
-普京正在與俄羅斯政府官員舉行會議。
-
----
-
-### 2026-06-10 20:55:20  #其他
-
-德國金屬工業工會（IG Metall）：奧斯納布呂克工廠工人要求管理層迅速採取行動，保障工廠未來存續。
-
----
-
-### 2026-06-10 20:54:49  #市場 #國際
-
-【世界黃金協會：5月全球黃金ETF轉為淨流出】世界黃金協會訊息，5月，由於金價區間震盪，市場對風險資產的偏好重燃，全球投資者大多持觀望態度，黃金ETF需求受到抑制。繼4月黃金ETF需求顯著反彈之後，全球實物黃金ETF出現溫和流出，約20億美元，歐洲是唯一實現淨流入的地區。不過年初至今，全球黃金ETF仍保持淨流入態勢，累計近170億美元。
-
----
-
-### 2026-06-10 20:54:33  #資料 #市場 #央行 #國際
-
-【美國5月通脹資料解讀：核心商品走弱 整體CPI同比升至三年高點】“美聯儲傳聲筒”Nick Timiraos發文稱：5 月消費者價格指數（CPI）資料顯示，核心商品價格環比下跌 0.11%；住房類價格環比上漲 0.32%，剔除住房後的非能源服務價格環比上漲 0.27%。從同比來看，核心商品通脹水平較去年夏末有所回落，當前同比漲幅為 1.1%，去年 9 月曾創下 1.5% 的近期峰值。整體 CPI 環比上漲 0.47%，摺合年化漲幅為 5.8%，同比漲幅隨之攀升至 4.2%，創下三年新高。CPI 三個月摺合年化漲幅達 8.2%。
 
 ---

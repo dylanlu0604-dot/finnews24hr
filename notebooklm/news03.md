@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 05:15:24_
-_本檔包含 3625 則快訊，約 669926 字_
+_更新時間：2026-06-13 06:13:59_
+_本檔包含 3617 則快訊，約 669841 字_
+
+---
+
+### 2026-06-10 21:00:22  #央行 #國際
+
+道明證券美國利率策略師Molly Brooks指出，市場將能源衝擊視為一個“何時而非是否”傳導的故事，在美聯儲定價相對保持不變的情況下，市場對石油向未來通脹資料傳導的預期已被推後。
+
+---
+
+### 2026-06-10 21:00:15  #公司
+
+【南京1宗宅地3.77億元底價成交】南京出讓1宗龍王山風景區東側宅地，土地出讓面積27152.53㎡，規劃建築面積48874.00㎡，容積率1.8，起始價3.77億元，起始樓面價7708元/㎡。最終南京新高市政工程有限公司以底價價3.77億元競得該地塊。
+
+---
+
+### 2026-06-10 21:00:06  #央行 #公司 #國際
+
+【中東緊張局勢加劇之際，投資者上調對英國基準利率上調的押注】在美國和伊朗敵對行動再次浮現後，投資者上調了對英國央行在2026年加息的預期。兩國之間的談判未能達成協議，導致美國總統特朗普警告稱，伊朗將“付出代價”。市場擔心，長期的衝突可能會使能源價格保持高位，並推高全球通貨膨脹。倫敦證券交易所集團資料顯示，投資者反映了2026年英國基準利率總計上調47個基點的預期，較一週前反映的39個基點的預期有所上升。
+
+---
+
+### 2026-06-10 21:00:02  #市場 #焦點
+
+焦煤連續主力合約日內漲1%，現報1376.00元。
+
+---
+
+### 2026-06-10 21:00:02  #市場
+
+【國內期貨夜盤開盤】多晶矽連續漲4.96%，鉑連續跌4.24%，工業矽連續漲3.17%，集運指數歐線期貨連續漲2.66%，黃金連續跌2.51%。
+
+---
+
+### 2026-06-10 20:59:29  #公司
+
+【吉林省：要將吉林祥雲公司納入國有企業監管範疇】據吉林省政府官網訊息，6月9日，吉林省委副書記、省長鬍玉亭就推動數字政府建設、發展數字經濟等工作，到省政數局、吉林祥雲公司調研。其中，在吉林祥雲資訊科技有限公司，胡玉亭實地察看政務服務體系建設、人工智慧技術賦能等有關情況。他強調，要用好人工智慧、大模型等先進技術，匯聚資料資源、強化資料運營，加快數字產業化，推動資料資源在數字政府、智慧城市等領域擴大應用、釋放價值。加強網路安全體系和能力建設，打造安全可靠的資料生態環境。胡玉亭主持召開座談會，研究討論祥雲公司治理結構、核心功能、經營管理等情況，部署下步重點工作。
+
+---
+
+### 2026-06-10 20:59:25  #MKT News #Commodities #Energy #Macro & Rates #The Fed (FOMC) #WTI #Impact mixed #US10Y
+
+【TD Securities: energy shock transmission is 'when not if'; market delays expected oil pass-through to inflation】After US CPI, Fed rate expectations were little changed; traders still price roughly 40bps of tightening over the next 12 months. TD Securities US rates strategist Molly Brooks said markets view the energy shock as a 'when-not-if' transmission; with Fed pricing broadly stable, markets have pushed out the expected timing for oil to feed through into future inflation data.
+
+---
+
+### 2026-06-10 20:59:01  #公司 #國際
+
+【美國通脹升溫 消費者實際收入持續遭侵蝕】紐約消費金融公司Bankrate高階經濟分析師 Mark Hamrick 預計，由於中東供應鏈中斷，短期內通脹將保持高位，這意味著通脹超過工資增長的趨勢可能會持續下去。Zip Recruiter的經濟學家妮可·巴肖德表示，工資增長低於通脹水平，給中等收入家庭帶來了經濟壓力。
+
+---
+
+### 2026-06-10 20:58:31  #其他
+
+【貴州茅臺年度股東會會前晚宴不供酒 有股東自帶四川濃香白酒】貴州茅臺(600519)2025年度股東會將於6月11日召開，來自全國千餘名茅臺股東、機構投資者與分析師齊聚茅臺鎮。6月10日晚間，貴州茅臺為參會投資者準備了自助餐晚宴，沿襲去年模式，整場餐會不提供酒品，去年“大放異彩”的茅臺生態農業旗下藍莓複合果汁也不再，轉而是僅供應可樂、雪碧、橙汁等常見飲料。現場，有部分股東吐槽酒企不提供品鑑酒，另有股東自帶茅臺酒就餐，甚至有股東帶來了四川濃香型白酒。
+
+---
+
+### 2026-06-10 20:57:30  #公司
+
+【分析師：亞馬遜貨運擴張料將推動長期競爭】Raymond James的分析師表示，亞馬遜週三推出的擴大後的零擔貨運業務可能會為貨執行業帶來更嚴峻的競爭環境。這些分析師表示，亞馬遜擁有令人印象深刻的拖車和集裝箱規模，並且已經改變了包裹運輸領域的格局。他們表示，其持續的擴張努力表明該公司對這項業務有多麼重視。不過，這些分析師指出，老牌承運商在場站密度和提貨/送貨執行等領域仍佔據上風。這些分析師表示：“我們認為，這不會立即造成根本性的干擾，但隨著時間的推移，來自亞馬遜的更重大競爭威脅的風險正在上升。”
+
+---
+
+### 2026-06-10 20:57:28  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Fall on Iran War Escalation — Futures tracking the S&P/TSX Composite Index fell on Wednesday, weighed down by escalating tensions in the Middle East. The US struck targets in Iran in retaliation for an attack on a helicopter near the Strait of Hormuz, while Iran launched attacks on US bases in Kuwait and Bahrain. The renewed exchange of strikes threatened prospects for a deal to end the conflict and reopen the Strait. Oil prices rose in response, fueling concerns about inflation and a more hawkish Bank of Canada, weighing on banks and the broader index. Meanwhile, gold prices fell on expectations of tighter US monetary policy, pressuring mining shares. Technology stocks also remained under pressure amid fading enthusiasm for AI. Investors are awaiting the Bank of Canada's policy decision, with the central bank expected to keep rates unchanged.
+
+---
+
+### 2026-06-10 20:57:05  #公司 #市場 #國際
+
+【機構分析：通脹料將繼續挑戰債券市場】百達資產管理表示，通脹仍然是債券市場面臨的挑戰，該公司對目前許多主權債券提供的具吸引力的收益率持懷疑態度。該機構在一份報告中表示：“例如，美國和德國的收益率水平是合理的，因為通脹風險增加，進而導致貨幣緊縮和流動性下降的可能性增加。”總體而言，百達對美國國債和其他主要主權債券保持中立。然而，該機構認為新興市場本幣債務的前景要樂觀得多，這類債務提供更高的收益率，並在百達資產管理的模型中被列為估值最具吸引力的固定收益資產類別。
+
+---
+
+### 2026-06-10 20:56:54  #公司
+
+【新易盛：實際控制人調整一致行動協議 若審議事項存在不一致情形以黃曉雷表決意向為準】新易盛(300502.SZ)公告稱，公司實際控制人高光榮與黃曉雷調整一致行動協議，並於2026年6月9日簽署《一致行動協議之補充協議》。調整後，雙方在股東會審議事項中若存在不一致情形，以黃曉雷表決意向為準。本次調整不會導致公司實際控制人發生變化，不涉及控制權變更。
+
+---
+
+### 2026-06-10 20:56:54  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #WTI
+
+【US inflation accelerates; real consumer incomes continue to be eroded】May US CPI rose 4.2% YoY, the fastest since April 2023, marking the second consecutive month inflation has outpaced wage growth. May average hourly earnings rose 3.4% YoY; real wages fell 0.7% YoY and 0.1% MoM. Energy prices jumped 23.5% YoY, the largest increase since Aug 2022, with natural gas up 40.5% YoY and 7.0% MoM. Food prices rose 0.2% MoM, below the prior 0.5%. Bankrate senior economic analyst Mark Hamrick expects Middle East supply‑chain disruptions will keep inflation elevated in the near term; a ZipRecruiter economist said wages lagging inflation are squeezing middle‑income households.
+
+---
+
+### 2026-06-10 20:56:29  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+【Institution: higher energy prices pushing up US monthly inflation】An institution says energy-price gains since the Iran war began three months ago continue to boost US monthly inflation. Energy rose 3.9% last month; gasoline jumped 7.0%; airfares increased 2.7%.
+
+---
+
+### 2026-06-10 20:56:24  #國際
+
+美國議長約翰遜今日將與特朗普討論《外國情報監視法》（FISA）相關事宜。
+
+---
+
+### 2026-06-10 20:55:50  #國際
+
+【美媒：特朗普“接近”下令打擊伊朗發電廠和橋樑】美國福克斯新聞頻道10日報道稱，美國總統特朗普說他“接近”下令對伊朗的發電廠和橋樑發動新的打擊。報道說，特朗普表示，這是作為對伊朗在談判過程中一直“拖著美國”的回應。北京時間10日上午，伊朗多地再次傳出爆炸聲。美軍稱對伊朗實施“自衛性打擊”，以回應美軍機被擊落事件。伊朗隨後對美軍行動作出回應，“猛烈打擊”中東地區美軍基地。伊朗外交部發言人巴加埃10日在談及伊美會談相關問題時表示，9日衝突後，伊方需要重新評估局勢。巴加埃說，美國持續違反停火，破壞了外交程序。（新華社）
+
+---
+
+### 2026-06-10 20:55:23  #國際
+
+普京正在與俄羅斯政府官員舉行會議。
+
+---
+
+### 2026-06-10 20:55:20  #其他
+
+德國金屬工業工會（IG Metall）：奧斯納布呂克工廠工人要求管理層迅速採取行動，保障工廠未來存續。
+
+---
+
+### 2026-06-10 20:54:49  #市場 #國際
+
+【世界黃金協會：5月全球黃金ETF轉為淨流出】世界黃金協會訊息，5月，由於金價區間震盪，市場對風險資產的偏好重燃，全球投資者大多持觀望態度，黃金ETF需求受到抑制。繼4月黃金ETF需求顯著反彈之後，全球實物黃金ETF出現溫和流出，約20億美元，歐洲是唯一實現淨流入的地區。不過年初至今，全球黃金ETF仍保持淨流入態勢，累計近170億美元。
+
+---
+
+### 2026-06-10 20:54:33  #資料 #市場 #央行 #國際
+
+【美國5月通脹資料解讀：核心商品走弱 整體CPI同比升至三年高點】“美聯儲傳聲筒”Nick Timiraos發文稱：5 月消費者價格指數（CPI）資料顯示，核心商品價格環比下跌 0.11%；住房類價格環比上漲 0.32%，剔除住房後的非能源服務價格環比上漲 0.27%。從同比來看，核心商品通脹水平較去年夏末有所回落，當前同比漲幅為 1.1%，去年 9 月曾創下 1.5% 的近期峰值。整體 CPI 環比上漲 0.47%，摺合年化漲幅為 5.8%，同比漲幅隨之攀升至 4.2%，創下三年新高。CPI 三個月摺合年化漲幅達 8.2%。
 
 ---
 
@@ -21675,179 +21801,5 @@ EU diplomatic sources said if the proposal is approved the EU would add more tha
 ### 2026-06-09 18:48:16  #MKT News
 
 【Zhuque-2 improved Yao-6 rocket launches successfully; could enable denser annual cadence】At 16:23 China time on June 9, 2026, the improved Yao-6 variant of the Zhuque-2 carrier rocket lifted off from the Dongfeng Commercial Aerospace Innovation Test Area, placing Qianfan DTC01 and China Mobile-02 into their planned orbit. It was the Zhuque-2 series' eighth flight. The vehicle replaced pyrotechnic stage-separation with pneumatic pushrods to boost safety and autonomous control. Engine upgrades include 3D-printed integrated components and a thrust-modulation device to improve stability and durability. The launch marks technical maturity; the rocket has entered mass production and could support a denser annual launch cadence.
-
----
-
-### 2026-06-09 18:48:03  #其他
-
-【朱雀二號改進型遙六運載火箭發射成功 未來每年將有望迎來密集發射】2026年6月9日16時23分，朱雀二號改進型遙六運載火箭在東風商業航天創新試驗區發射升空，成功將千帆DTC01星和中國移動02星送入預定軌道。此次任務是朱雀二號系列運載火箭的第8次飛行。本次任務中，朱雀二號完成了一項重要的技術改進，火箭的一、二級分離採用全新的方式，使用氣動推杆代替火工品，提高了安全性和自主可控性。此外，發動機也迎來兩項升級，採用3D列印一體成型和推力調節裝置，提高穩定性和耐用性。此次發射成功標誌著朱雀二號改進型火箭技術全面成熟，進入批次生產階段，未來每年將有望迎來密集發射。（央視新聞）
-
----
-
-### 2026-06-09 18:47:35  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
-
-EU diplomatic sources said the bloc will propose listing 170 individuals and entities in a 21st round of sanctions on Russia, including 90 Russian banks.
-
----
-
-### 2026-06-09 18:47:33  #國際
-
-訊息人士稱，該方案一旦透過，歐盟將累計對俄羅斯超100家銀行實施制裁，這一數量佔到俄羅斯213家與國際接軌銀行的一半以上。
-
----
-
-### 2026-06-09 18:47:24  #國際
-
-歐盟外交訊息人士稱，歐盟計劃在第二十一輪對俄製裁方案中，將 170 名個人及實體列入制裁名單，其中包含 90 家俄羅斯銀行。
-
----
-
-### 2026-06-09 18:46:53  #市場 #國際
-
-【美國小企業的樂觀情緒降至約一年半以來的新低】美國小企業樂觀指數在5月份降至2024年10月以來的最低水平，幾乎抹去了自特朗普上任以來所取得的所有增長。據週二釋出的資料，全美獨立企業聯盟（NFIB）樂觀指數下降0.6點至95.3。該指標在2024年12月總統選舉後曾升至六年來的最高水平。受伊朗戰爭影響，物價上漲和經濟不確定性仍籠罩著各家企業。70%的小型企業主表示，供應鏈中斷在一定程度上影響了他們的業務。將通脹視為最主要經營問題的企業主比例已連續第三個月上升。NFIB首席經濟學家Bill Dunkelberg在一份宣告中表示：“越來越多的小企業主正面臨燃料價格大幅且難以預測的上漲，而與大型企業競爭對手相比，小企業更難將這一成本轉嫁給顧客。”
-
----
-
-### 2026-06-09 18:46:52  #MKT News #WTI #Impact bullish #XAUUSD
-
-【NFIB small‑business optimism falls to lowest since Oct 2024】NFIB’s small‑business optimism index fell 0.6 pts to 95.3 in May, the weakest reading since October 2024 and nearly erasing gains since Trump’s inauguration. The index had reached a six‑year high after the December 2024 presidential election. Respondents cited the Iran war, rising inf and economic uncertainty. Seventy pct of owners reported supply‑chain disruptions affected their business to some degree, and the share naming inf as their top business problem rose for a third consecutive month. NFIB chief economist Bill Dunkelberg said more small firms are facing large, hard‑to‑predict fuel price spikes and are less able than larger competitors to pass those costs on to customers.
-
----
-
-### 2026-06-09 18:46:47  #公司
-
-【長虹華意：2025年度每10股派3.3元 6月18日分紅】長虹華意公告稱，2025年度利潤分配方案已獲股東會透過。以2026年6月17日登記的總股本扣除回購股份後675,603,019股為基數，向全體股東每10股派發現金紅利3.30元（含稅），現金分紅總額22294.90萬元。6月18日除權除息，當日委託中國結算深圳分公司代派的A股股東現金紅利將劃入其資金賬戶。
-
----
-
-### 2026-06-09 18:46:47  #MKT News
-
-An Israel Defense Forces airstrike on a residential area in the southern Lebanese city of Tyre on the morning of the 9th killed nine and injured 28.
-
----
-
-### 2026-06-09 18:46:43  #公司
-
-【仙琚製藥：擬8000萬-1.5億元回購股份用於激勵或持股計劃】仙琚製藥公告稱，公司擬以集中競價交易方式回購股份，資金總額不低於8000萬元且不超過1.5億元，回購價格不超過13.25元/股，預計回購股份數量不低於605萬股且不超過1132萬股，約佔公司總股本的0.61%-1.14%，用於股權激勵或員工持股計劃，若36個月內未實施，未使用部分將登出。資金來源為自有資金及不超1.35億元的專項貸款。本次回購存在股價超上限、激勵計劃未透過等風險。
-
----
-
-### 2026-06-09 18:46:31  #國際
-
-斯洛伐克政府：印度總理將於 6 月 15 日訪問斯洛伐克。
-
----
-
-### 2026-06-09 18:46:10  #公司
-
-【永輝超市：制定董事及高階管理人員薪酬管理制度】永輝超市公告稱，為規範公司董事、高階管理人員的薪酬管理，制定本制度。適用人員包括董事和高階管理人員。公司股東會審議董事薪酬考核制度和方案，董事會審議高階管理人員的相關制度和方案。董事薪酬依是否兼任職務等情況確定，高階管理人員薪酬由基本薪酬、績效薪酬和中長期激勵收入組成。績效薪酬和中長期激勵收入以績效考核結果為依據支付，若財務報告追溯重述或董高違規，將重新考核並追回超額髮放部分。制度經董事會審議、股東會批准後生效。
-
----
-
-### 2026-06-09 18:45:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Data show Russia's seaborne diesel exports fell 3% MoM in May.
-
----
-
-### 2026-06-09 18:45:26  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Diesel loadings at Russia's Baltic port Primorsk fell 5% MoM in May, data show.
-
----
-
-### 2026-06-09 18:45:25  #國際
-
-【以軍對黎南部城市提爾空襲已致9死28傷】總檯記者獲悉，以色列國防軍9日上午針對黎南部城市提爾住宅區的空襲已造成9人死亡，28人受傷。救護車和救援隊仍在搜尋和清除廢墟，以尋找失蹤人員。（央視新聞）
-
----
-
-### 2026-06-09 18:45:02  #公司
-
-【南礦集團：董事減持計劃期限屆滿 未減持公司股份】南礦集團公告稱，公司董事兼常務副總裁龔友良原計劃2026年3月9日-6月8日以集中競價方式減持不超201.72萬股（佔總股本1.00%）。截至公告披露日，減持計劃期限已屆滿，龔友良未減持公司股份，減持前後持股2322.07萬股，佔剔除已回購股份後總股本比例均為11.51%。本次減持符合相關規定，未違規，且不會影響公司治理結構及持續經營，不會導致控制權變更。
-
----
-
-### 2026-06-09 18:44:55  #公司 #市場
-
-【*ST美麗：股票交易異常波動 提示多項風險】*ST美麗公告稱，公司股票於2026年6月5日、6月8日、6月9日連續三個交易日收盤價格漲幅偏離值累計超過12%，屬異常波動。經自查，公司未發現應披露而未披露的重大資訊，目前經營正常，董事及高管在此期間無買賣公司股票情形。此外，公司庭外重組工作正推進，2025年營收6.34億元，淨虧損0.35億元；2026年一季度營收1.06億元，淨利潤0.27億元。公司股票自4月30日起被實施退市風險警示和其他風險警示。
-
----
-
-### 2026-06-09 18:44:48  #國際
-
-資料顯示，5月俄羅斯波羅的海港口普里莫爾斯克的柴油裝船量較4月下降5%。
-
----
-
-### 2026-06-09 18:44:39  #國際
-
-資料顯示，俄羅斯 5 月海運柴油出口量環比下降 3%。
-
----
-
-### 2026-06-09 18:44:31  #公司
-
-【京東方A：控股子公司擬終止向不特定合格投資者公開發行股票並在北交所上市申請】京東方A公告，控股子公司京東方能源科技股份有限公司（簡稱“能源科技”）擬終止向不特定合格投資者公開發行股票並在北京證券交易所上市的申請，同時撤回申請檔案。能源科技已於2026年6月9日召開第一屆董事會第十五次會議審議透過該事項，並將提交股東會審議。此前，能源科技的公開發行股票申請已於2025年12月31日獲得北交所受理。
-
----
-
-### 2026-06-09 18:44:17  #其他
-
-【與愛為舞創始人王琳：打造下一代學習Agent，將分三階段技術演進路線】2026騰訊雲AI產業應用大會在北京舉辦。在同期舉行的智慧教育專場，騰訊雲深度合作伙伴與愛為舞聯合創始人、技術負責人王琳指出，當前通用大模型落地教育場景存在三大核心短板：僅具備知識儲備但不懂專業教學邏輯，名師教學經驗難以資料化複用，且無法支撐學生長期能力提升。王琳介紹，愛學AI學習智慧體規劃三階段技術演進路線：第一階段從對話機器人升級為工具型模型，具備全模態輸入與自主行動能力；第二階段搭建短期課堂、中期學情、長期知識圖譜三層記憶架構，實現精準學情感知與個性化引導；第三階段依託學生模擬模型，跳出對錯率、開口率等短期指標，圍繞長期能力成長定製學習路徑。（新浪科技）
-
----
-
-### 2026-06-09 18:43:45  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-An Indian government official said gold imports have continued to decline since import duties were raised and there are no plans to impose further import restrictions.
-
----
-
-### 2026-06-09 18:43:28  #市場 #焦點 #國際
-
-印度政府官員：自進口關稅上調以來，黃金進口量已出現下降，目前暫無進一步遏制黃金進口的計劃。
-
----
-
-### 2026-06-09 18:43:21  #公司
-
-【大亞聖象：董事、高管陳鋼擬減持不超50,600股股份】大亞聖象公告稱，公司董事、副總裁、財務總監陳鋼持有公司股份202,500股，佔總股本比例0.037%。因個人資金需求，其計劃自公告披露之日起15個交易日後的3個月內，以集中競價方式減持不超50,600股，佔總股本比例0.009%，股份來源為股權激勵授予股份。本次減持計劃實施具有不確定性，且不會導致公司控制權變化。
-
----
-
-### 2026-06-09 18:43:17  #公司
-
-【惠博普：持股5%以上股東減持計劃實施完成】惠博普公告稱，股東黃松先生於2026年3月16日至3月18日，以集中競價交易方式減持11,371,956股，佔公司總股本的0.85%。本次權益變動後，黃松持有公司股份66,685,942股，佔總股本的4.99999%，不再是持股5%以上股東。截至公告日，其減持計劃已實施完成，減持不涉及控股股東及實控人，不會對公司治理結構及經營產生重大影響。
-
----
-
-### 2026-06-09 18:43:15  #MKT News
-
-An Indian government official said no additional fiscal spending is expected during the monsoon season.
-
----
-
-### 2026-06-09 18:43:10  #國際
-
-印度政府官員：預計雨季補充撥款需求不會產生額外支出。
-
----
-
-### 2026-06-09 18:42:59  #公司
-
-【達嘉維康：控股股東一致行動人減持計劃到期未減持股份】達嘉維康公告稱，公司控股股東、實際控制人的一致行動人同嘉投資原計劃2026年3月10日至6月9日，以集中競價或大宗交易方式減持不超616.21萬股（佔總股本3%）。截至6月9日減持計劃到期，同嘉投資未減持公司股份，減持前後均持股980萬股，佔比4.77%。本次減持符合規定，未違反減持計劃和承諾，也不會影響公司控制權、治理及經營。
-
----
-
-### 2026-06-09 18:42:48  #公司
-
-【順豐控股：完成向極兔速遞發行新H股及認購其新股份】順豐控股公告稱，公司於2026年6月9日完成極兔股份發行及本公司H股發行交割。當日，公司按每股H股36.74港元向極兔速遞發行225,877,669股新H股，佔經配發及發行新H股後經擴大已發行H股總數約48.48%，所得款項淨額約82.89億港元（約人民幣72.08億元）。發行完成後，公司已發行股份總數由5,039,430,409股增至5,265,308,078股。
-
----
-
-### 2026-06-09 18:42:43  #公司
-
-【紫光股份：完成受讓新華三19%股權過戶 持股增至87.98%】紫光股份公告稱，2025年11月，公司全資子公司紫光國際與六家投資者兩次與HPE開曼簽署協議，受讓新華三合計19%股權。兩次交易項下全部股份已完成對價支付及股份交割。截至公告披露日，新華三已完成全部股份過戶的股東名冊變更手續，HPE開曼不再持股，公司透過紫光國際對新華三的持股比例由81%增至87.98%。
 
 ---
