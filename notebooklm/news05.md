@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-13 04:13:09_
-_本檔包含 3740 則快訊，約 669223 字_
+_更新時間：2026-06-13 05:15:24_
+_本檔包含 3721 則快訊，約 669559 字_
+
+---
+
+### 2026-06-08 16:43:55  #MKT News #XAUUSD #Impact bullish #WTI
+
+Iranian state television reported explosions were heard again in western and southern Tehran.
+
+---
+
+### 2026-06-08 16:43:50  #公司 #市場
+
+【大有能源：股價異常波動 一季度淨虧損3.69億元】大有能源公告稱，公司股票於2026年6月5日、6月8日連續兩個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。2026年5月29日至6月8日，公司股價累計上漲78.29%，嚴重偏離同期上證指數和行業指數，且市淨率顯著高於行業水平。2026年一季度，公司營收9.89億元，同比減少0.87億元；淨虧損3.69億元，同比增加0.60億元。提醒投資者注意交易和業績風險。
+
+---
+
+### 2026-06-08 16:43:46  #公司
+
+【*ST寶馨：涉9930.94萬元股權回購糾紛案件已立案】*ST寶馨公告稱，公司及實控人馬偉被鄂托克旗誠園綠能投資有限責任公司起訴，涉案金額9930.943萬元及相關費用。原告請求被告一支付股權回購款及利息，被告二承擔連帶賠償責任，各被告承擔保全費、訴訟費。案件已由內蒙古鄂托克旗人民法院立案受理，尚未判決，對公司利潤的影響尚不確定，公司將積極應訴並披露進展。
+
+---
+
+### 2026-06-08 16:43:42  #公司
+
+【和遠氣體：股票交易異常波動 六氟化鎢未籤實質訂單】和遠氣體公告稱，公司股票連續3個交易日（2026年6月4日、6月5日、6月8日）累計偏離21.42%，屬於異常波動。近期有媒體報道及網路傳聞稱公司或受益境外廠商停產、六氟化鎢下半年量產等，經核查，該產品尚處試生產階段，未籤實質性訂單，未產生業績。目前公司經營正常，內外部環境無重大變化，控股股東等不存在應披露未披露重大事項，也未在異常波動期間買賣公司股票。
+
+---
+
+### 2026-06-08 16:43:24  #公司 #市場 #國際
+
+【大跌引發南方兩倍做多海力士規模縮水超185億】韓國股市今日跳水，港股上市的掛鉤三星、SK海力士的槓桿產品也下跌。南方兩倍做多三星電子今日跌幅達17%，近三個交易日的累計跌幅超35%。南方兩倍做多海力士今日一度跌超19%，但收盤時股價反彈，跌幅收窄至7.76%。該產品近三個交易日的累計跌幅超32%，規模已縮水至664.5億港元，與850億港元的規模高點相比縮水超185億港元。
+
+---
+
+### 2026-06-08 16:43:21  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX #Impact mixed
+
+【Euro area investor confidence rebounds more than expected in June】Sentix euro area investor confidence rose more than expected in June: composite index +3.0 points to -13.4 and the economic expectations subindex +4.8 points. Sentix said market angst from the Iran conflict and the oil-price spike has eased and global conditions led by the US and Asia are improving; the global composite climbed 4.4 points to 8.0. It warned the euro area recovery remains relatively mild versus other regions and said persistently high energy prices continue to lift inflation expectations, keeping pressure on central banks.
+
+---
+
+### 2026-06-08 16:43:02  #MKT News
+
+TASNIM NEWS reports flights at Shiraz airport in Iran cancelled until 2300 local time.
+
+---
+
+### 2026-06-08 16:42:40  #公司
+
+【德林海：起訴異龍湖管理局等追討8367.93萬元欠款】德林海公告稱，為維護合法權益，公司就《異龍湖專案總承包合同》餘款6347.93萬元、《異龍湖執行維護合同》餘款820萬元，向石屏縣人民法院起訴異龍湖管理局、石屏縣人民政府、紅河異龍湖保護治理投資建設有限責任公司。2026年6月5日，法院已立案受理，尚未開庭審理。案件對公司利潤的具體影響，將以審計機構審計確認情況為準。
+
+---
+
+### 2026-06-08 16:42:29  #公司
+
+【香飄飄：擬出資1055萬元參與設立6331萬元投資基金】香飄飄公告稱，公司於2026年6月8日與蘇州維特力新創業投資管理有限公司、馮棟、戚雅琴共同簽署合夥協議，投資設立蘇州星創聚達創業投資合夥企業（有限合夥），目標認繳出資總額6331萬元，公司作為有限合夥人以自有資金認繳1055萬元，佔比16.66%。該事項無需提交公司董事會、股東會審議，後續合夥企業尚需履行基金備案程式。基金暫未完成工商註冊，實施過程存在不確定性，投資可能面臨效益不達預期等風險。
+
+---
+
+### 2026-06-08 16:42:27  #公司
+
+【杭氧股份：產業基金擬變更普通合夥人、名稱並調整合夥協議】杭氧股份公告稱，公司於2026年6月8日召開董事會會議，同意公司參與投資的杭州國嶺源起創業投資合夥企業（有限合夥）變更普通合夥人及名稱，並調整合夥協議部分條款。合夥企業名稱將變更為杭州國嶺綠色低碳創業投資合夥企業（有限合夥），原普通合夥人國佑慧通將0.10%合夥份額及權益以100萬元轉讓給國舜投資，國舜投資將擔任新普通合夥人。基金整體規模1億元不變。該投資屬關聯交易，關聯董事迴避表決。
+
+---
+
+### 2026-06-08 16:42:06  #公司
+
+【金浦鈦業：董事長兼總經理郭彥君因個人原因辭職】金浦鈦業公告，公司董事長兼總經理郭彥君因個人原因將辭去公司董事長兼總經理以及董事會專門委員會等職務。郭彥君原定任職期間為2025年8月4日至2028年8月3日，離任後不再擔任公司任何職務，也不再任公司法定代表人。截至公告披露日，郭彥君未持有公司股份。公司董事會將盡快完成董事補選、董事長選舉、總經理聘任等相關工作。
+
+---
+
+### 2026-06-08 16:41:57  #MKT News #Brent #Impact bullish #WTI
+
+Ukrainian military says it has struck a pipeline pumping station in Russia's Volgograd region.
+
+---
+
+### 2026-06-08 16:41:37  #MKT News #WTI #Impact bullish #Brent
+
+Ukraine's military says it struck the Grushova oil depot near the Sheskharis oil terminal at Russia's Black Sea port Novorossiysk.
+
+---
+
+### 2026-06-08 16:41:15  #國際
+
+【一架無人機在伊朗首都德黑蘭上空被擊落】當地時間8日上午，伊朗方面訊息稱，一架敵方無人機在德黑蘭上空被擊落。此外，自8日清晨以色列襲擊伊斯法罕後，當地時間11時45分左右，伊斯法罕再次傳出爆炸聲。（央視新聞）
+
+---
+
+### 2026-06-08 16:41:06  #國際
+
+烏克蘭軍方稱，已襲擊俄羅斯伏爾加格勒地區的一處輸油泵站。
+
+---
+
+### 2026-06-08 16:41:02  #國際
+
+據報道，伊朗設拉子機場航班取消至當地時間晚上11點。
+
+---
+
+### 2026-06-08 16:40:48  #MKT News
+
+【Chery: no direct investment or technology-transfer arrangements in Indian market】Chery said reports of a broader partnership with India’s Tata Group are inaccurate. Negotiations are limited to model-related parts supply — Chery will provide automotive knock-down kits — and the company has no plans for direct investment or technology-transfer arrangements in India; media claims of platform transfer, platform licensing, technology licensing or technology export are false.
+
+---
+
+### 2026-06-08 16:40:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+India's oil minister said he expects oil and gas inventories to be ample over the coming months and for prices to decline.
+
+---
+
+### 2026-06-08 16:40:40  #公司 #觀點
+
+【中信建投證券：2025年度末期股息每10股派1.75元】中信建投證券公告稱，公司2025年度末期股息為每10股派1.75元（含稅），股東批准日期為2026年6月26日，除淨日為7月2日，遞件最後時限為7月3日16:30，7月4日至7月9日暫停辦理過戶登記，記錄日期為7月9日，股息派發日為8月20日。不同型別股東適用不同的代扣所得稅稅率。
+
+---
+
+### 2026-06-08 16:40:15  #國際
+
+【媒體：德黑蘭發生爆炸 震動伊朗外交部大樓】據報道，最初在德黑蘭發生的爆炸震動了位於德黑蘭市中心的伊朗外交部大樓。包括伊朗法爾斯通訊社在內的當地媒體報道稱，“這次爆炸的確切地點和來源尚不清楚”。報道還補充道，“與此同時，德黑蘭部分地區的防空系統也已啟動”。
+
+---
+
+### 2026-06-08 16:40:15  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+India's oil minister said suppliers in the Western Hemisphere will fill energy shortages.
+
+---
+
+### 2026-06-08 16:40:03  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+【Media: explosion in Tehran shakes Iran's foreign ministry building】Al Jazeera reported an initial explosion in Tehran that shook the Iranian foreign ministry building in central Tehran. Local outlets including the Fars news agency said the exact location and source remain unclear and that parts of Tehran's air-defence system have been activated.
+
+---
+
+### 2026-06-08 16:39:30  #國際
+
+印度石油部長：西半球供應方將填補能源缺口。
+
+---
+
+### 2026-06-08 16:39:21  #市場 #國際
+
+儘管與伊朗的敵對行動恢復，以色列謝克爾仍大幅下跌。
+
+---
+
+### 2026-06-08 16:39:12  #公司
+
+【尖峰集團：子公司獲枸櫞酸託法替布緩釋片註冊證書，研發投入1137.69萬元】尖峰集團公告，全資子公司尖峰藥業近日收到國家藥品監督管理局核准簽發的枸櫞酸託法替布緩釋片《藥品註冊證書》，規格為11mg，註冊分類為化學藥品4類。該藥品用於治療類風溼關節炎、銀屑病關節炎、強直性脊柱炎。截至公告日，國內已有11家公司獲批該藥品註冊上市，2025年度國內銷售額約2516萬元。尖峰藥業該專案研發投入約1137.69萬元。
+
+---
+
+### 2026-06-08 16:39:08  #國際
+
+【伊朗警告擴大報復行動 中東所有能源目標或面臨風險】據報道，在以色列襲擊伊朗南部石化設施後，伊朗伊斯蘭革命衛隊威脅要擴大報復行動，並稱已向位於沿海城市海法的以色列類似工業設施開火。以色列當局尚未對此予以證實。伊朗國家電視臺播出的一份宣告中，革命衛隊表示，以色列的襲擊“開啟了一場危險的遊戲，其範圍將涵蓋該地區所有與能源相關的目標”。
+
+---
+
+### 2026-06-08 16:39:02  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran warns retaliation may expand, says all Middle East energy targets at risk】The New York Times reports that after an Israeli strike on a petrochemical facility in southern Iran, the Islamic Revolutionary Guard Corps threatened to widen retaliation and said it fired on similar industrial facilities in Haifa. The IRGC said Israel’s strike “opened a dangerous game” whose scope will include all energy-related targets in the region. Israeli authorities have not confirmed the report.
+
+---
+
+### 2026-06-08 16:39:00  #其他
+
+英國金融行為監管局（FCA）：金融機構必須將被誤導消費者恢復至原有狀態，措施可包括免費撤銷合同。
+
+---
+
+### 2026-06-08 16:38:48  #市場 #國際
+
+歐洲晶片股盤初下跌後跌幅收窄；意法半導體、英飛凌上漲約1.3%；阿斯麥大致持平，ASMI、BESI下跌0.4%-1.6%。
+
+---
+
+### 2026-06-08 16:38:37  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+India's petroleum minister said oil prices are unlikely to remain at current high levels for long.
+
+---
+
+### 2026-06-08 16:38:26  #市場
+
+【國機精工4天2板 國泰海通證券武漢紫陽東路證券營業部買入1.45億元】超硬材料概念股國機精工漲停，走出4天2板，成交金額25.31億元。盤後資料顯示，國泰海通證券武漢紫陽東路證券營業部買入1.45億元，另外，深股通專用席位買入1.76億元。
+
+---
+
+### 2026-06-08 16:38:06  #國際
+
+烏克蘭稱襲擊了與謝斯哈里斯有關的俄羅斯石油倉庫。
+
+---
+
+### 2026-06-08 16:37:59  #公司 #國際
+
+【奇瑞回應“與印度塔塔集團相關合作”：沒有在印度市場直接投資和技術轉讓等安排】奇瑞汽車6月8日釋出關於奇瑞合作事宜失實報道的澄清宣告：公司關注到，近日許多媒體援引外媒資訊，解讀奇瑞與印度塔塔集團的相關合作，其中不乏善意的關心，但也衍生出大量不實猜測。現就實際情況說明如下：奇瑞與印度塔塔集團正在商談的合作協議，限定為車型相關的零部件供應，為其提供汽車散件。奇瑞沒有在印度市場直接投資和技術轉讓等安排，部分媒體和賬號所稱的“平臺轉讓”“平臺授權”“技術授權”“技術出口”“技術輸出”等表述，均與事實不符。由衷感謝社會各界對奇瑞的關心和關注。
+
+---
+
+### 2026-06-08 16:37:55  #MKT News #Commodities #Energy
+
+India's oil minister said he is not concerned about oil and gas prices.
+
+---
+
+### 2026-06-08 16:37:26  #國際
+
+印度石油部長：並不擔心天然氣價格問題。
+
+---
+
+### 2026-06-08 16:37:21  #其他
+
+【中國工程機械工業協會：5月挖掘機主要製造企業銷售各類挖掘機24794臺 同比增長36.2%】5月挖掘機國內外銷量同比均增逾三成。據中國工程機械工業協會統計，2026年5月，挖掘機主要製造企業銷售各類挖掘機24794臺，同比增長36.2%。其中國內銷量11628臺，同比增長38.6%；出口13166臺，同比增長34.2%。
 
 ---
 
@@ -22228,335 +22444,5 @@ Ibovespa Falls as Higher Yields Weigh — The Ibovespa fell 0.8% to close at 169
 ### 2026-06-06 05:15:34  #市場
 
 富時A50期指連續夜盤收跌0.68%，報15308點。
-
----
-
-### 2026-06-06 05:14:30  #國際
-
-美國能源部長賴特：要保障霍爾木茲海峽有足夠輸油量以壓低汽油和柴油價格，最終仍需要透過與伊朗達成決議來實現。
-
----
-
-### 2026-06-06 05:13:29  #國際
-
-特朗普談及能源與化肥領域：正在籌劃相關舉措。
-
----
-
-### 2026-06-06 05:13:08  #國際
-
-特朗普稱讚過去兩個月就業資料向上修正。
-
----
-
-### 2026-06-06 05:11:48  #國際
-
-特朗普：加拿大對待我們農民太苛刻了。
-
----
-
-### 2026-06-06 05:11:06  #國際
-
-特朗普談及伊朗戰事：這算不上一場大規模戰爭，只是軍事衝突，屬於演練性質。
-
----
-
-### 2026-06-06 05:09:19  #宏觀 #國際
-
-市場訊息：美國國務院在國務卿魯比奧主導下向伊朗世界盃代表隊核發簽證，附帶嚴苛監管措施。
-
----
-
-### 2026-06-06 05:08:20  #市場 #觀點
-
-【美股遭遇拋售，但高盛稱未見倉位極端擁擠現象】3月下旬以來美股持續上漲讓投資者有了許多擔憂後市的理由。不過，在高盛交易員看來，倉位極端擁擠並非主要憂慮。高盛衡量整體市場情緒的一項指標目前正徘徊在0.2附近，釋放出風險敞口處於中性水平的訊號。該指標追蹤機構、散戶和海外投資者在美股的風險敞口，覆蓋了美股市值的大約80%。包括Tom Shea在內的高盛交易員在致客戶的報告中寫道，指標“表明本輪上漲尚未得到市場參與者的全面追捧。”
-
----
-
-### 2026-06-06 05:07:31  #國際
-
-特朗普表態：我們將撤換鮑威爾。
-
----
-
-### 2026-06-06 05:07:25  #國際
-
-特朗普：增長實際上會遏制通脹。
-
----
-
-### 2026-06-06 05:06:55  #國際
-
-特朗普：經濟增長實際上可以抑制通貨膨脹。
-
----
-
-### 2026-06-06 05:06:48  #國際
-
-特朗普：沃什會做得非常出色。
-
----
-
-### 2026-06-06 05:06:45  #MKT News
-
-Market sources: Iraq's national security adviser said claims that Iraq will pay transit fees for the Strait of Hormuz are false and baseless.
-
----
-
-### 2026-06-06 05:06:40  #國際
-
-美國總統特朗普：農民們將在未來90天看到好事發生。
-
----
-
-### 2026-06-06 05:05:53  #公司 #市場
-
-週五美股成交額第8名博通收跌7.92%，成交199.12億美元。博通已連續三個交易日下跌，該公司釋出的AI晶片銷售指引不及市場預期，引發半導體板塊集體拋售。博通預計第三財季AI半導體營收約為160億美元，雖然同比增長超過200%，但仍低於分析師平均預期的172億美元。更令市場失望的是，博通維持2027財年AI晶片營收“超過1000億美元”的指引不變，未能如市場所願大幅上調。受此影響，博通股價連續重挫。博通的疲弱指引引發了市場對AI投資熱度是否降溫的疑慮。但分析人士普遍認為，本輪拋售的主要原因並非基本面惡化，而是市場預期已過於飽滿。
-
----
-
-### 2026-06-06 05:04:26  #國際
-
-特朗普誇讚就業資料。
-
----
-
-### 2026-06-06 05:04:12  #其他
-
-惠譽確認匈牙利評級為“BBB”，展望為負面。
-
----
-
-### 2026-06-06 05:03:58  #其他
-
-惠譽維持亞塞拜然“BBB-”評級，展望穩定。
-
----
-
-### 2026-06-06 05:03:52  #其他
-
-惠譽確認愛沙尼亞評級為“A+”，展望穩定。
-
----
-
-### 2026-06-06 05:02:25  #國際
-
-特朗普：美國撤軍後，化肥價格將會下降。
-
----
-
-### 2026-06-06 05:02:17  #國際
-
-特朗普：美國撤出伊朗後，石油和汽油價格將會下降。
-
----
-
-### 2026-06-06 05:02:08  #國際
-
-特朗普：將很快離開伊朗。
-
----
-
-### 2026-06-06 05:01:55  #國際
-
-特朗普：對伊朗採取強硬手段比用“”紙筆”更容易。
-
----
-
-### 2026-06-06 05:01:26  #國際
-
-特朗普宣揚美方在霍爾木茲海峽實施封鎖舉措。
-
----
-
-### 2026-06-06 05:00:58  #國際
-
-特朗普重申，將透過外交手段或其他方式解決伊朗問題。
-
----
-
-### 2026-06-06 05:00:34  #國際
-
-特朗普談伊朗問題：我們基本上已經解決了這個問題，你們很快就會看到。
-
----
-
-### 2026-06-06 04:59:16  #國際
-
-特朗普：在NBC採訪錄製過程中有點生氣。
-
----
-
-### 2026-06-06 04:57:04  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Sinks as Strong Jobs Data Lifts Rate Concerns — The S&P/TSX Composite Index fell 2.3% to close at 34,413 on Friday as stronger-than-expected employment data from Canada and the US pushed bond yields higher and reinforced expectations that the Bank of Canada and the Federal Reserve may keep interest rates elevated for longer. Employment in Canada rose by 88,000 in May, far exceeding forecasts, while US payroll growth also surprised to the upside. Meanwhile, fading hopes for a near-term resolution to the Middle East conflict and the reopening of the Strait of Hormuz added to inflation concerns. Gold prices fell to their lowest level of 2026, triggering a sharp selloff in mining stocks. Agnico Eagle lost 7.2%, Barrick shed 7.6%, and WPM dropped 9.3%. Technology shares also came under pressure, tracking a plunge in US chipmakers after Broadcom reported AI-chip demand that fell short of lofty market expectations. Shopify fell 5.4%, while Celestica plunged 12.3%.
-
----
-
-### 2026-06-06 04:54:15  #其他
-
-巴西穀物調研機構 Safras 資料：截至 6 月 2 日，巴西 2026/27 產季咖啡收割進度達 23%。
-
----
-
-### 2026-06-06 04:54:04  #國際
-
-黎巴嫩衛生部通報：以色列空襲黎巴嫩納巴蒂耶省茲卜丁鎮，造成五人遇難。
-
----
-
-### 2026-06-06 04:46:12  #公司
-
-CoreWeave股東Jane Street新加坡註冊股份擬出售。
-
----
-
-### 2026-06-06 04:45:29  #國際
-
-在美國糖尿病協會2026年科學會議上公佈的ZUPREME-1二期試驗最新資料，進一步印證了培瑞林肽（petrelintide）有望重塑超重與肥胖人群體重管理方案的潛力。
-
----
-
-### 2026-06-06 04:43:37  #公司
-
-CoreWeave股東Jane Street Singapore登記減持高達920萬股。
-
----
-
-### 2026-06-06 04:43:22  #市場
-
-CoreWeave股票在盤後交易中迅速下跌3.6%。
-
----
-
-### 2026-06-06 04:42:08  #其他
-
-市場訊息：CoreWeave 提交混合證券儲架發行註冊申請。
-
----
-
-### 2026-06-06 04:41:19  #公司 #國際
-
-根據Alphabet提交給美國證券交易委員會（SEC）的檔案披露：公司已任命Marsida Saraci為首席會計官，自2026年6月5日起生效。
-
----
-
-### 2026-06-06 04:40:15  #公司 #觀點 #央行 #國際
-
-【花旗維持對美聯儲降息的預測 在華爾街日顯孤立】美國就業資料表現強勁後，花旗集團經濟學家不為所動，維持其對美聯儲今年將降息三次的預測，而這一預測已日顯孤立。花旗首席美國經濟學家Andrew Hollenhorst週五寫道，雖然勞工部5月就業報告會使美聯儲官員在6月16日至17日會議上“以鷹派立場聚焦通脹上行風險，而不是就業下行風險”，但他認為勞動力市場將在未來三個月走軟。這將促使市場“重新定價降息的可能性，而不是加息的可能性”。5月新增非農就業17.2萬人，高於彭博調查中所有預估值，推動三個月新增就業創逾兩年來最大增幅。花旗的預測仍為：美聯儲將在今年最後三次會議，即9月、10月和12月，分別降息25個基點。該行自12月以來一直預測今年將降息三次、每次25個基點，不過該行經濟學家已逐步將首次降息時間的預測從1月推遲至9月。
-
----
-
-### 2026-06-06 04:39:40  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）：6月2日當週，投機者所持日元淨空頭頭寸創2024年7月份以來新高。槓桿交易員所持日元空頭頭寸達到105,136手合約，持倉價值大約82億美元。
-
----
-
-### 2026-06-06 04:35:43  #國際
-
-【普京呼籲追求和諧發展之路以應對挑戰】俄羅斯總統普京5日在第29屆聖彼得堡國際經濟論壇全體會議上表示，相互傾聽、理解各方利益、尋求共同解決方案是通向發展的和諧之路，併為當今世界應對嚴峻挑戰提供契機。 普京表示，俄始終對平等互利合作者保持開放。本屆論壇已接待來自約130個國家、期待建立和發展商業關係的知名企業高管和其他商務人士、專業人員。他強調，當經濟增長惠及更多國家，當數十億此前處於全球經濟邊緣的人們獲得機遇時，世界才會變得更加公平。 普京說，至關重要的是經濟新增長中心自主決定發展途徑，獲取更多的產品附加值，並創造品牌、訂立標準、擁有專長。他歷數過去5年金磚國家為全球經濟增長作出的巨大貢獻，並認為這種貢獻將繼續增多。 普京還表示，企業更關注發展活力更強、生產和銷售增長前景廣闊的地區。因此，全球貿易和金融體系的焦點正在轉移，這種趨勢將持續下去。 聖彼得堡國際經濟論壇於1997年開始舉辦，已成為俄羅斯重要的國際大型經濟論壇之一。為期4天的本屆論壇3日在俄第二大城市聖彼得堡南郊的會展中心開幕，其主題為“務實對話——通往穩定未來之路”。(新華社)
-
----
-
-### 2026-06-06 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 1.20% Lower — The Dow Jones Index dropped 621 points or 1.20 percent on Friday to close at 50941 points. Losses were led by Cisco Systems (-6.35%), Nvidia (-5.93%) and IBM (-5.54%).
-
----
-
-### 2026-06-06 04:34:21  #市場 #央行 #國際
-
-【美國債市：短端領跌國債 強勁就業報告推升加息預期】美債週五全線下挫，收益率曲線呈強烈的熊市趨平走勢。在強勁的5月非農就業報告發布後，未來幾個月的加息溢價定價大幅攀升。美聯儲會期對應的OIS完全消化將在今年年底前加息25個基點的預期。短端和中端國債領跌，並將五年期國債和三十年期國債利差推至2025年4月以來的最窄水平。紐約時間下午3點剛過，美債收益率在接近日內高點附近交投，其中2年期美債收益率日內攀升約12個基點，長端收益率上漲約3個基點至4個基點。在劇烈的曲線平坦化行情中，兩年期國債和十年期國債利差和五年期國債和三十年期國債利差日內分別收窄4.5個基點和6.5個基點大部分跌幅發生在早盤時段，主要受到強勁的5月就業報告影響。此後與美聯儲會期掛鉤的OIS合約轉向更為鷹派，完全計入到12月加息25個基點的預期，並預計政策利率峰值到明年年中回升至4%以上。就業報告公佈後引發的短端美債下挫，受到12月聯邦基金期貨一系列大宗交易的推波助瀾，隨著加息定價不斷飆升，相關期貨合約持續承壓。
-
----
-
-### 2026-06-06 04:33:16  #公司 #國際
-
-市場訊息：根據美國證券交易委員會（SEC）檔案顯示，霸王茶姬控股有限公司已提交儲架上市申請，未披露發行規模。
-
----
-
-### 2026-06-06 04:29:52  #公司
-
-霍尼韋爾：實施反向股票拆分，將已發行股份縮減至3.17億股，將法定股本縮減至10億股。
-
----
-
-### 2026-06-06 04:29:41  #其他
-
-霍尼韋爾：霍尼韋爾航空航天部門將於2026年6月29日以股票程式碼HONA在納斯達克掛牌交易。
-
----
-
-### 2026-06-06 04:29:32  #其他
-
-霍尼韋爾將在分拆完成後推進1股合併為2股的反向股票拆分。
-
----
-
-### 2026-06-06 04:29:23  #其他
-
-霍尼韋爾：將霍尼韋爾航空航天業務分拆的股權登記日定為2026年6月15日。
-
----
-
-### 2026-06-06 04:28:47  #其他
-
-霍尼韋爾董事會確定除息基準日，並公佈霍尼韋爾航空航天分拆以及霍尼韋爾反向股票拆分的預期時間安排。
-
----
-
-### 2026-06-06 04:24:41  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #GOOGL.O
-
-【Google signs deal to buy compute from SpaceX at $920 mln/month】Google has agreed to pay SpaceX $920 million per month for cloud compute capacity under a contract running from October through June 2029, SpaceX said in a filing on Friday. The agreement covers roughly 110,000 NVIDIA GPUs plus CPUs, memory and related components; capacity will be ramped up before September with fees adjusted downward during the ramp. If SpaceX fails to deliver the agreed GPU quantities by Sept. 30, 2026, Google may terminate the contract, subject to a one-month cure period. Either party may also terminate the agreement with 90 days' notice.
-
----
-
-### 2026-06-06 04:22:17  #公司
-
-數字基礎設施建設公司ITG Communications LLC.計劃IPO，其支持者包括橡樹資本。
-
----
-
-### 2026-06-06 04:19:34  #其他
-
-Spartan Delta，Southern Cross Gold被納入納入標普多倫多綜合指數。
-
----
-
-### 2026-06-06 04:18:43  #MKT News #Macro & Rates #US Economy
-
-U.S. bank deposits rose to $19.333 trillion from $19.285 trillion a week earlier.
-
----
-
-### 2026-06-06 04:18:24  #其他
-
-Altius，Extendicare，Hammond Power三隻個股被納入標普多倫多綜合指數。
-
----
-
-### 2026-06-06 04:18:07  #MKT News
-
-Lebanese broadcaster Al-Mayadeen reported explosions on the outskirts of Sulaimaniyah in Iraqi Kurdistan.
-
----
-
-### 2026-06-06 04:16:19  #國際
-
-美國銀行存款從前一週的 19.285 萬億美元增至 19.333 萬億美元。
-
----
-
-### 2026-06-06 04:15:32  #市場
-
-週五（6月5日），美股行業ETF漲跌各異，半導體ETF收盤重挫9.22%，全球科技股指數ETF跌7.32%，科技行業ETF跌6.66%，網路股指數ETF跌3.24%，公用事業ETF漲0.93%，日常消費品ETF漲1.71%。
-
----
-
-### 2026-06-06 04:14:16  #MKT News #Market Regions #Europe & UK
-
-S&P Global Ratings affirms Sweden's sovereign ratings at AAA/A-1+ with a stable outlook.
 
 ---

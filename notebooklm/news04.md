@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-13 04:13:09_
-_本檔包含 3555 則快訊，約 669298 字_
+_更新時間：2026-06-13 05:15:24_
+_本檔包含 3567 則快訊，約 670351 字_
+
+---
+
+### 2026-06-09 18:42:30  #公司
+
+【歌爾股份：擬5億元增資歌爾光學 尚需股東會審議】歌爾股份公告稱，公司及歌爾光學股東寧波舜宇奧來技術有限公司擬分別以現金方式向歌爾光學增資5億元，認購其新增註冊資本10,975.7032萬元，合計新增21,951.4064萬元。增資後，歌爾光學註冊資本將增至192,952.8622萬元，公司持股比例增至39.6676%。因公司部分董監高及股東與歌爾光學有關聯，本次增資構成關聯交易，不構成重大資產重組。該事項已透過董事會審議，尚需股東會審議。公司擬於6月25日召開2026年第一次臨時股東會審議該議案。
+
+---
+
+### 2026-06-09 18:42:24  #公司
+
+【新大陸：控股子公司擬以199萬新元增資認購Debia新發行普通股55.03萬股】新大陸公告，控股子公司香港貝比環球有限公司與新加坡DEBIAPTE.LTD.簽署《投資暨股份認購協議》，擬以現金199萬新加坡元增資認購Debia新發行普通股55.03萬股，交易完成後香港貝比將持有Debia19.9%股權；同時，協議約定香港貝比在相應條件達成的前提下擁有後續持續增資認購股份的權利，第二期及第三期增資認購股份份額佔Debia發行股本的25.1%及35%，認購對價分別為251萬新元和350萬新元。若上述股份增資認購均實現，香港貝比將合計持有Debia總股本的80%，Debia納入公司合併報表範圍。
+
+---
+
+### 2026-06-09 18:41:28  #其他
+
+【螞蟻數科透過中國信通院“可信AI-Token服務質量評估”】中國資訊通訊研究院長期關注高質量Token服務的發展，依據《人工智慧詞元（Token）服務質量能力要求》開展“可信AI-Token服務質量評估”工作。2026年6月，螞蟻數科依託大模型服務平臺DTMaaS，順利透過可信AI-Token服務質量評估。本次評估圍繞模型服務能力、Token服務效能、服務可信、運維保障、使用者體驗及計量計費六大維度展開。經評估，平臺在六大評估維度表現優異，各項指標均滿足指標要求。
+
+---
+
+### 2026-06-09 18:41:19  #MKT News
+
+An Indian government official said global fertilizer prices are unlikely to fall and the number of suppliers has declined.
+
+---
+
+### 2026-06-09 18:41:13  #市場 #國際
+
+印度政府官員：預計全球化肥價格不會下跌，供應商池已縮減。
+
+---
+
+### 2026-06-09 18:41:07  #國際
+
+印度政府官員：本年度資本支出預估維持不變。
+
+---
+
+### 2026-06-09 18:40:58  #MKT News
+
+An Indian government official said this year's capital expenditure estimate is unchanged.
+
+---
+
+### 2026-06-09 18:40:15  #公司
+
+【浙江力諾：高管擬減持不超過0.0071%】浙江力諾公告，持股39500股（佔總股本0.0286%）的公司高階管理人員盧正原擬透過集中競價方式減持不超過9800股，佔總股本不超過0.0071%。減持期間為自本減持計劃公告之日起15個交易日後的3個月內，即2026年07月02日至2026年10月01日。擬減持股份來源為公司2022年限制性股票激勵計劃已解除限售股份。
+
+---
+
+### 2026-06-09 18:40:14  #MKT News
+
+Indian government officials said the government is unlikely to provide additional funding to oil marketing companies to cover further "unrecovered costs".
+
+---
+
+### 2026-06-09 18:40:11  #國際
+
+印度政府官員：現階段暫無管控資本外流的計劃。
+
+---
+
+### 2026-06-09 18:39:51  #MKT News
+
+An Indian government official said there are currently no plans to restrict capital outflows.
+
+---
+
+### 2026-06-09 18:39:41  #公司 #國際
+
+印度政府官員：政府不太可能為石油營銷公司更多的資產追收提供額外資金。
+
+---
+
+### 2026-06-09 18:39:32  #MKT News #WTI #Impact bullish #Brent
+
+An Indian government official said the government provided about 1.2 trillion rupees in subsidies to oil marketing companies in the first 78 days after the outbreak of war in Iran because the companies did not raise retail fuel prices.
+
+---
+
+### 2026-06-09 18:39:15  #國際
+
+印度政府官員：將穩步採取措施引入更多外國直接投資。
+
+---
+
+### 2026-06-09 18:39:03  #宏觀
+
+【聚焦金融、可持續農業等合作 中巴財金分委會會議在京舉行】今天（9日），我國財政部與巴西財政部在北京舉行中國-巴西高層協調與合作委員會財金分委會第十二次會議。中巴雙方聚焦金融、可持續農業等眾多領域，不斷深化財金合作。會議圍繞全球及中巴宏觀經濟形勢，銀行業、保險業、資本市場及貿易融資合作，中巴農業融資合作，可持續投融資，多邊財金合作等議題展開深入交流。（央視新聞）
+
+---
+
+### 2026-06-09 18:39:03  #MKT News #USDJPY #Impact bullish
+
+【Mitsubishi UFJ: BOJ hike nearly priced in; lack of follow-through could amplify yen selling】Mitsubishi UFJ said the yen remained weak early this week, with USD/JPY back above 160. Markets have almost fully priced in a BOJ rate hike at the June 16 meeting; even if a hike occurs, it is unlikely on its own to reverse yen weakness. The bank warned that failure to follow with further hikes would likely prompt a larger negative market reaction and reinforce investor concerns the BOJ is lagging on inflation risk, and reiterated its view that the yen may stay weak near term until the worst of the energy-price shock abates.
+
+---
+
+### 2026-06-09 18:38:54  #市場 #國際
+
+印度政府官員：伊朗衝突爆發後的前 78 天裡，政府向石油銷售企業撥付約 1.2 萬億盧比，以維持成品油零售價不上漲。
+
+---
+
+### 2026-06-09 18:38:36  #公司
+
+【英力股份：全資子公司終止對外投資設立荷蘭飛米新能源科技有限公司事項】6月9日，英力股份釋出公告，公司全資子公司安徽飛米新能源科技有限公司原擬與萊茵控股有限公司共同投資設立“荷蘭飛米新能源科技有限公司”。目標公司註冊資本為1,300萬歐元。雙方約定在目標公司中的出資比例為安徽飛米新能源出資1,235萬歐元，佔註冊資本95%；萊茵控股出資65萬歐元，佔註冊資本5%。截至目前，目標公司尚未成立，公司尚未實際出資。在專案推進過程中，專案實施條件發生客觀變化，專案至今仍未取得實質性進展。經公司審慎研究、綜合考量各項客觀因素，公司決定終止上述投資專案。截至本公告披露日，本次對外投資設立目標公司事項尚未實際出資，不會影響公司的正常生產經營活動，對公司當期財務狀況和經營成果不會產生重大影響。
+
+---
+
+### 2026-06-09 18:38:31  #公司
+
+【泰格醫藥：擬5-10億元回購A股股份用於激勵及減資】泰格醫藥公告稱，公司計劃以5-10億元自有或自籌資金回購A股股份，回購價不超60元/股。按上限10億元測算，預計回購1666.67萬股，佔總股本1.94%；按下限5億元測算，預計回購833.33萬股，佔0.97%。回購股份用於A股股權激勵或員工持股計劃及減少註冊資本，實施期限為股東會審議透過之日起12個月。本次回購存在無法實施、變更或終止等風險。
+
+---
+
+### 2026-06-09 18:38:26  #公司
+
+【國投智慧：釋出互動易平臺資訊釋出及回覆內部稽核制度】國投智慧公告稱，為規範在深交所互動易平臺的資訊釋出與投資者回復行為，提升公司治理與資訊披露質量，公司制定《互動易平臺資訊釋出及回覆內部稽核制度》。該制度規定資訊釋出及回覆應合法合規，不得涉及未公開重大等不宜公開資訊、不得選擇性發布或回覆等。董事會秘書負責組織稽核，綜合部（董事會辦公室）負責管理，各子公司及職能部門配合，明確了問題收集整理、回覆內容起草、稽核、釋出等內部稽核流程，制度自董事會審議透過之日起生效。
+
+---
+
+### 2026-06-09 18:38:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【Institution: Inflation concerns dominate market sentiment】LSEG data shows investors have fully priced a 25bp Fed hike by end-2026. Daniela Hathorn, analyst at Capital.com, says investors are watching upcoming inflation prints to reassess central-bank rate paths; market-implied odds of a Fed move before year-end rose sharply over the past week, so the data could reinforce or challenge that repricing.
+
+---
+
+### 2026-06-09 18:38:12  #MKT News
+
+An Indian government official said Middle East tensions have not had an adverse impact on remittances.
+
+---
+
+### 2026-06-09 18:38:11  #國際
+
+印度政府官員：中東緊張局勢未對匯款造成不利影響。
+
+---
+
+### 2026-06-09 18:37:52  #MKT News
+
+Indian government will reassess spending priorities in October-November, an official said.
+
+---
+
+### 2026-06-09 18:37:40  #MKT News #Market Regions #Emerging Markets
+
+An Indian government official said the government will take measures to promote net inflows of foreign capital.
+
+---
+
+### 2026-06-09 18:37:28  #MKT News
+
+An Indian government official said Q1 GDP growth is expected to remain stable despite external headwinds.
+
+---
+
+### 2026-06-09 18:37:01  #國際
+
+印度官員：將於 10 至 11 月重新評估支出優先順序。
+
+---
+
+### 2026-06-09 18:36:50  #MKT News
+
+An Indian government official said the government plans to abolish long-term capital gains tax on bond holdings by foreign portfolio investors to seek inclusion in a Bloomberg index.
+
+---
+
+### 2026-06-09 18:36:39  #國際
+
+【菲律賓棉蘭老島附近海域發生5.4級地震】據菲律賓火山地震研究所訊息，6月9日18時07分左右，菲律賓棉蘭老島南部海域發生5.4級地震，震源深度10公里，附近多地有震感。（央視新聞）
+
+---
+
+### 2026-06-09 18:36:34  #MKT News
+
+【5.4-magnitude quake offshore southern Mindanao, Philippines】Philippine Institute of Volcanology and Seismology said a 5.4-magnitude earthquake struck offshore southern Mindanao at about 18:07 on June 9 (local time), hypocentre depth 10 km; tremors were reported across multiple nearby areas.
+
+---
+
+### 2026-06-09 18:36:15  #國際
+
+印度政府官員：取消FPI債券持有者的長期資本利得稅旨在納入彭博指數。
+
+---
+
+### 2026-06-09 18:35:55  #宏觀 #國際
+
+印度官員：政府正考慮出臺更多舉措以提振資金流入。
+
+---
+
+### 2026-06-09 18:35:10  #國際
+
+印度政府官員：經濟增長未承壓，國內消費提供支撐。
+
+---
+
+### 2026-06-09 18:35:05  #國際
+
+印度官員：加速推進國有資產剝離，預計目標將超額完成。
+
+---
+
+### 2026-06-09 18:35:03  #MKT News
+
+An Indian government official said economic growth is not under pressure and domestic consumption is supporting activity.
+
+---
+
+### 2026-06-09 18:34:53  #MKT News
+
+An Indian government official said the Fertiliser Ministry is seeking to double budgeted subsidies as global fertilizer prices rise.
+
+---
+
+### 2026-06-09 18:34:33  #市場 #國際
+
+印度政府官員：受全球價格上漲影響，印度化肥部申請的補貼額度為預算規模的兩倍。
+
+---
+
+### 2026-06-09 18:34:27  #公司
+
+【沃特股份：股東銀橋投資減持85.59萬股 減持計劃實施完成】沃特股份公告稱，2026年6月9日，於虹、張尊昌、鄧健巖透過銀橋投資以集中競價交易方式分別減持256,953股、256,953股、341,994股，合計減持855,900股，佔公司總股本比例0.33%。本次權益變動後，銀橋投資持股比例由13.92%降至13.59%；銀橋投資及其一致行動人合計持股比例由41.04%降至40.71%。截至6月9日，減持計劃已實施完成，不會導致公司控制權變更，也不影響公司治理結構及持續經營。
+
+---
+
+### 2026-06-09 18:34:21  #公司
+
+【皮阿諾：持股5%以上股東及其一致行動人減持股份達1%】皮阿諾公告稱，截至2026年6月8日，持股5%以上股東珠海鴻祿及其一致行動人共青城齊利透過集中競價交易合計減持公司股份171.92萬股，佔總股本0.94%。本次權益變動後，二者合計持股比例由6.92%降至5.98%，變動比例觸及1%整數倍。本次減持與此前披露計劃一致，尚未履行完畢，且不會導致公司控制權變更。
+
+---
+
+### 2026-06-09 18:34:14  #公司
+
+【正虹科技：2026年5月銷售生豬收入755.82萬元，環比減少44.97%】正虹科技公告，公司2026年5月銷售生豬0.88萬頭，銷售收入755.82萬元，環比變動分別減少41.36%、44.97%。銷量同比增加5.74%、銷售收入同比減少30.02%。2026年1-5月份，公司累計銷售生豬4.3萬頭，累計銷售收入4255.79萬元，同比變動分別增加17.75%、1.07%。
+
+---
+
+### 2026-06-09 18:34:11  #其他
+
+阿聯酋：準備開通飛往柏林、斯圖加特的每日航班並投入相關運力。
+
+---
+
+### 2026-06-09 18:33:28  #公司
+
+【南網科技：擬放棄參股公司3.29億元增資優先認購權】南網科技公告稱，參股公司國研院擬增資3.29億元，其中8958.10萬元計入註冊資本，2.40億元計入資本公積。公司出於整體發展戰略考慮，擬放棄優先認購權，對應增資額度為5261.91萬元。本次增資完成後，國研院註冊資本將增至2.90億元，公司持股比例將由16.00%降至11.05%。因公司董事長姜海龍擔任國研院董事長，本次交易構成關聯交易，尚需提交公司股東會審議。
+
+---
+
+### 2026-06-09 18:33:21  #MKT News
+
+Market sources: Indonesia will subsidize imports of 250,000 tonnes of soybeans.
+
+---
+
+### 2026-06-09 18:33:03  #國際
+
+市場訊息：印尼將為25萬噸進口大豆提供補貼。
+
+---
+
+### 2026-06-09 18:32:28  #國際
+
+歐盟委員會發言人：（就與庫什納關聯的阿爾巴尼亞豪華度假村地產專案）已向阿爾巴尼亞當局表達關切。
+
+---
+
+### 2026-06-09 18:32:23  #國際
+
+【佩斯科夫：俄總統普京與美總統特朗普的電話交談尚未列入議程】當地時間6月9日，俄羅斯總統新聞秘書佩斯科夫在當日簡報會上表示，俄總統普京與美總統特朗普之間的電話交談目前未列入議程。他還指出，美國在烏克蘭問題上的調解程序目前處於暫停狀態，但美國仍與俄羅斯和烏克蘭方面保持接觸。佩斯科夫表示，美國方面迄今未向俄羅斯通報美國總統特使威特科夫和特朗普女婿庫什納與烏克蘭總統澤連斯基會談的具體內容。如果會談中出現需要轉達給俄方的新進展，美方談判代表將及時向俄方通報。（央視新聞）
+
+---
+
+### 2026-06-09 18:31:44  #公司
+
+【和遠氣體：股東交投資本已減持0.7793%】和遠氣體公告，持股5%以上股東湖北交投資本投資有限公司於2026年6月4日至6月8日透過集中競價方式減持公司股份165.01萬股，減持均價37.39-39.66元，佔公司總股本0.7793%，此前披露的減持計劃已實施完成。
+
+---
+
+### 2026-06-09 18:31:44  #市場 #央行 #國際
+
+【美國國債收益率漲跌互見，美元走弱】Exness的Wael Makarem在一份報告中表示，在缺乏方向的交易中，美國國債收益率幾乎沒有變化，而隨著中東緊張局勢緩解減少了對避險資產的需求，美元出現下跌。這位首席金融市場策略師表示，此外，美國總統特朗普暗示，可能在幾天內與伊朗達成一項潛在協議，這提振了緊張局勢可能繼續緩解的希望。“與此同時，美元繼續從貨幣政策預期中獲得支撐，“他說。Makarem表示，在週五公佈強於預期的非農就業人數報告後，人們越來越預計美聯儲將在今年晚些時候加息。根據Tradeweb的資料，10年期美國國債收益率上升0.6個基點，至4.555%。DXY美元指數下跌0.25%，至99.798。
 
 ---
 
@@ -21188,221 +21476,5 @@ Israeli Channel 12 reports attacks at multiple locations across Iran, including 
 ### 2026-06-08 16:44:02  #MKT News
 
 【Israeli official says mission in Iran 'not yet complete'】Alex Gendler, spokesman for Israel’s embassy in London, said Israel seeks a ceasefire with Lebanon and would welcome a 'good' US‑Iran agreement if one is reached. He said Hezbollah 'struck first' during the Lebanon‑Israel ceasefire and stressed the ceasefire terms were agreed between Israel and Lebanon, not with Iran or Hezbollah. Gendler added Israel’s mission in Iran is 'not yet complete' and accused Iran of sponsoring terrorism and attacking Israel while using Lebanese civilians as cover.
-
----
-
-### 2026-06-08 16:43:55  #MKT News #XAUUSD #Impact bullish #WTI
-
-Iranian state television reported explosions were heard again in western and southern Tehran.
-
----
-
-### 2026-06-08 16:43:50  #公司 #市場
-
-【大有能源：股價異常波動 一季度淨虧損3.69億元】大有能源公告稱，公司股票於2026年6月5日、6月8日連續兩個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。2026年5月29日至6月8日，公司股價累計上漲78.29%，嚴重偏離同期上證指數和行業指數，且市淨率顯著高於行業水平。2026年一季度，公司營收9.89億元，同比減少0.87億元；淨虧損3.69億元，同比增加0.60億元。提醒投資者注意交易和業績風險。
-
----
-
-### 2026-06-08 16:43:46  #公司
-
-【*ST寶馨：涉9930.94萬元股權回購糾紛案件已立案】*ST寶馨公告稱，公司及實控人馬偉被鄂托克旗誠園綠能投資有限責任公司起訴，涉案金額9930.943萬元及相關費用。原告請求被告一支付股權回購款及利息，被告二承擔連帶賠償責任，各被告承擔保全費、訴訟費。案件已由內蒙古鄂托克旗人民法院立案受理，尚未判決，對公司利潤的影響尚不確定，公司將積極應訴並披露進展。
-
----
-
-### 2026-06-08 16:43:42  #公司
-
-【和遠氣體：股票交易異常波動 六氟化鎢未籤實質訂單】和遠氣體公告稱，公司股票連續3個交易日（2026年6月4日、6月5日、6月8日）累計偏離21.42%，屬於異常波動。近期有媒體報道及網路傳聞稱公司或受益境外廠商停產、六氟化鎢下半年量產等，經核查，該產品尚處試生產階段，未籤實質性訂單，未產生業績。目前公司經營正常，內外部環境無重大變化，控股股東等不存在應披露未披露重大事項，也未在異常波動期間買賣公司股票。
-
----
-
-### 2026-06-08 16:43:24  #公司 #市場 #國際
-
-【大跌引發南方兩倍做多海力士規模縮水超185億】韓國股市今日跳水，港股上市的掛鉤三星、SK海力士的槓桿產品也下跌。南方兩倍做多三星電子今日跌幅達17%，近三個交易日的累計跌幅超35%。南方兩倍做多海力士今日一度跌超19%，但收盤時股價反彈，跌幅收窄至7.76%。該產品近三個交易日的累計跌幅超32%，規模已縮水至664.5億港元，與850億港元的規模高點相比縮水超185億港元。
-
----
-
-### 2026-06-08 16:43:21  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX #Impact mixed
-
-【Euro area investor confidence rebounds more than expected in June】Sentix euro area investor confidence rose more than expected in June: composite index +3.0 points to -13.4 and the economic expectations subindex +4.8 points. Sentix said market angst from the Iran conflict and the oil-price spike has eased and global conditions led by the US and Asia are improving; the global composite climbed 4.4 points to 8.0. It warned the euro area recovery remains relatively mild versus other regions and said persistently high energy prices continue to lift inflation expectations, keeping pressure on central banks.
-
----
-
-### 2026-06-08 16:43:02  #MKT News
-
-TASNIM NEWS reports flights at Shiraz airport in Iran cancelled until 2300 local time.
-
----
-
-### 2026-06-08 16:42:40  #公司
-
-【德林海：起訴異龍湖管理局等追討8367.93萬元欠款】德林海公告稱，為維護合法權益，公司就《異龍湖專案總承包合同》餘款6347.93萬元、《異龍湖執行維護合同》餘款820萬元，向石屏縣人民法院起訴異龍湖管理局、石屏縣人民政府、紅河異龍湖保護治理投資建設有限責任公司。2026年6月5日，法院已立案受理，尚未開庭審理。案件對公司利潤的具體影響，將以審計機構審計確認情況為準。
-
----
-
-### 2026-06-08 16:42:29  #公司
-
-【香飄飄：擬出資1055萬元參與設立6331萬元投資基金】香飄飄公告稱，公司於2026年6月8日與蘇州維特力新創業投資管理有限公司、馮棟、戚雅琴共同簽署合夥協議，投資設立蘇州星創聚達創業投資合夥企業（有限合夥），目標認繳出資總額6331萬元，公司作為有限合夥人以自有資金認繳1055萬元，佔比16.66%。該事項無需提交公司董事會、股東會審議，後續合夥企業尚需履行基金備案程式。基金暫未完成工商註冊，實施過程存在不確定性，投資可能面臨效益不達預期等風險。
-
----
-
-### 2026-06-08 16:42:27  #公司
-
-【杭氧股份：產業基金擬變更普通合夥人、名稱並調整合夥協議】杭氧股份公告稱，公司於2026年6月8日召開董事會會議，同意公司參與投資的杭州國嶺源起創業投資合夥企業（有限合夥）變更普通合夥人及名稱，並調整合夥協議部分條款。合夥企業名稱將變更為杭州國嶺綠色低碳創業投資合夥企業（有限合夥），原普通合夥人國佑慧通將0.10%合夥份額及權益以100萬元轉讓給國舜投資，國舜投資將擔任新普通合夥人。基金整體規模1億元不變。該投資屬關聯交易，關聯董事迴避表決。
-
----
-
-### 2026-06-08 16:42:06  #公司
-
-【金浦鈦業：董事長兼總經理郭彥君因個人原因辭職】金浦鈦業公告，公司董事長兼總經理郭彥君因個人原因將辭去公司董事長兼總經理以及董事會專門委員會等職務。郭彥君原定任職期間為2025年8月4日至2028年8月3日，離任後不再擔任公司任何職務，也不再任公司法定代表人。截至公告披露日，郭彥君未持有公司股份。公司董事會將盡快完成董事補選、董事長選舉、總經理聘任等相關工作。
-
----
-
-### 2026-06-08 16:41:57  #MKT News #Brent #Impact bullish #WTI
-
-Ukrainian military says it has struck a pipeline pumping station in Russia's Volgograd region.
-
----
-
-### 2026-06-08 16:41:37  #MKT News #WTI #Impact bullish #Brent
-
-Ukraine's military says it struck the Grushova oil depot near the Sheskharis oil terminal at Russia's Black Sea port Novorossiysk.
-
----
-
-### 2026-06-08 16:41:15  #國際
-
-【一架無人機在伊朗首都德黑蘭上空被擊落】當地時間8日上午，伊朗方面訊息稱，一架敵方無人機在德黑蘭上空被擊落。此外，自8日清晨以色列襲擊伊斯法罕後，當地時間11時45分左右，伊斯法罕再次傳出爆炸聲。（央視新聞）
-
----
-
-### 2026-06-08 16:41:06  #國際
-
-烏克蘭軍方稱，已襲擊俄羅斯伏爾加格勒地區的一處輸油泵站。
-
----
-
-### 2026-06-08 16:41:02  #國際
-
-據報道，伊朗設拉子機場航班取消至當地時間晚上11點。
-
----
-
-### 2026-06-08 16:40:48  #MKT News
-
-【Chery: no direct investment or technology-transfer arrangements in Indian market】Chery said reports of a broader partnership with India’s Tata Group are inaccurate. Negotiations are limited to model-related parts supply — Chery will provide automotive knock-down kits — and the company has no plans for direct investment or technology-transfer arrangements in India; media claims of platform transfer, platform licensing, technology licensing or technology export are false.
-
----
-
-### 2026-06-08 16:40:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-India's oil minister said he expects oil and gas inventories to be ample over the coming months and for prices to decline.
-
----
-
-### 2026-06-08 16:40:40  #公司 #觀點
-
-【中信建投證券：2025年度末期股息每10股派1.75元】中信建投證券公告稱，公司2025年度末期股息為每10股派1.75元（含稅），股東批准日期為2026年6月26日，除淨日為7月2日，遞件最後時限為7月3日16:30，7月4日至7月9日暫停辦理過戶登記，記錄日期為7月9日，股息派發日為8月20日。不同型別股東適用不同的代扣所得稅稅率。
-
----
-
-### 2026-06-08 16:40:15  #國際
-
-【媒體：德黑蘭發生爆炸 震動伊朗外交部大樓】據報道，最初在德黑蘭發生的爆炸震動了位於德黑蘭市中心的伊朗外交部大樓。包括伊朗法爾斯通訊社在內的當地媒體報道稱，“這次爆炸的確切地點和來源尚不清楚”。報道還補充道，“與此同時，德黑蘭部分地區的防空系統也已啟動”。
-
----
-
-### 2026-06-08 16:40:15  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-India's oil minister said suppliers in the Western Hemisphere will fill energy shortages.
-
----
-
-### 2026-06-08 16:40:03  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-【Media: explosion in Tehran shakes Iran's foreign ministry building】Al Jazeera reported an initial explosion in Tehran that shook the Iranian foreign ministry building in central Tehran. Local outlets including the Fars news agency said the exact location and source remain unclear and that parts of Tehran's air-defence system have been activated.
-
----
-
-### 2026-06-08 16:39:30  #國際
-
-印度石油部長：西半球供應方將填補能源缺口。
-
----
-
-### 2026-06-08 16:39:21  #市場 #國際
-
-儘管與伊朗的敵對行動恢復，以色列謝克爾仍大幅下跌。
-
----
-
-### 2026-06-08 16:39:12  #公司
-
-【尖峰集團：子公司獲枸櫞酸託法替布緩釋片註冊證書，研發投入1137.69萬元】尖峰集團公告，全資子公司尖峰藥業近日收到國家藥品監督管理局核准簽發的枸櫞酸託法替布緩釋片《藥品註冊證書》，規格為11mg，註冊分類為化學藥品4類。該藥品用於治療類風溼關節炎、銀屑病關節炎、強直性脊柱炎。截至公告日，國內已有11家公司獲批該藥品註冊上市，2025年度國內銷售額約2516萬元。尖峰藥業該專案研發投入約1137.69萬元。
-
----
-
-### 2026-06-08 16:39:08  #國際
-
-【伊朗警告擴大報復行動 中東所有能源目標或面臨風險】據報道，在以色列襲擊伊朗南部石化設施後，伊朗伊斯蘭革命衛隊威脅要擴大報復行動，並稱已向位於沿海城市海法的以色列類似工業設施開火。以色列當局尚未對此予以證實。伊朗國家電視臺播出的一份宣告中，革命衛隊表示，以色列的襲擊“開啟了一場危險的遊戲，其範圍將涵蓋該地區所有與能源相關的目標”。
-
----
-
-### 2026-06-08 16:39:02  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran warns retaliation may expand, says all Middle East energy targets at risk】The New York Times reports that after an Israeli strike on a petrochemical facility in southern Iran, the Islamic Revolutionary Guard Corps threatened to widen retaliation and said it fired on similar industrial facilities in Haifa. The IRGC said Israel’s strike “opened a dangerous game” whose scope will include all energy-related targets in the region. Israeli authorities have not confirmed the report.
-
----
-
-### 2026-06-08 16:39:00  #其他
-
-英國金融行為監管局（FCA）：金融機構必須將被誤導消費者恢復至原有狀態，措施可包括免費撤銷合同。
-
----
-
-### 2026-06-08 16:38:48  #市場 #國際
-
-歐洲晶片股盤初下跌後跌幅收窄；意法半導體、英飛凌上漲約1.3%；阿斯麥大致持平，ASMI、BESI下跌0.4%-1.6%。
-
----
-
-### 2026-06-08 16:38:37  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-India's petroleum minister said oil prices are unlikely to remain at current high levels for long.
-
----
-
-### 2026-06-08 16:38:26  #市場
-
-【國機精工4天2板 國泰海通證券武漢紫陽東路證券營業部買入1.45億元】超硬材料概念股國機精工漲停，走出4天2板，成交金額25.31億元。盤後資料顯示，國泰海通證券武漢紫陽東路證券營業部買入1.45億元，另外，深股通專用席位買入1.76億元。
-
----
-
-### 2026-06-08 16:38:06  #國際
-
-烏克蘭稱襲擊了與謝斯哈里斯有關的俄羅斯石油倉庫。
-
----
-
-### 2026-06-08 16:37:59  #公司 #國際
-
-【奇瑞回應“與印度塔塔集團相關合作”：沒有在印度市場直接投資和技術轉讓等安排】奇瑞汽車6月8日釋出關於奇瑞合作事宜失實報道的澄清宣告：公司關注到，近日許多媒體援引外媒資訊，解讀奇瑞與印度塔塔集團的相關合作，其中不乏善意的關心，但也衍生出大量不實猜測。現就實際情況說明如下：奇瑞與印度塔塔集團正在商談的合作協議，限定為車型相關的零部件供應，為其提供汽車散件。奇瑞沒有在印度市場直接投資和技術轉讓等安排，部分媒體和賬號所稱的“平臺轉讓”“平臺授權”“技術授權”“技術出口”“技術輸出”等表述，均與事實不符。由衷感謝社會各界對奇瑞的關心和關注。
-
----
-
-### 2026-06-08 16:37:55  #MKT News #Commodities #Energy
-
-India's oil minister said he is not concerned about oil and gas prices.
-
----
-
-### 2026-06-08 16:37:26  #國際
-
-印度石油部長：並不擔心天然氣價格問題。
-
----
-
-### 2026-06-08 16:37:21  #其他
-
-【中國工程機械工業協會：5月挖掘機主要製造企業銷售各類挖掘機24794臺 同比增長36.2%】5月挖掘機國內外銷量同比均增逾三成。據中國工程機械工業協會統計，2026年5月，挖掘機主要製造企業銷售各類挖掘機24794臺，同比增長36.2%。其中國內銷量11628臺，同比增長38.6%；出口13166臺，同比增長34.2%。
 
 ---

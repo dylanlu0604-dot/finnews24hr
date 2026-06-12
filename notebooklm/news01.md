@@ -1,7 +1,301 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-13 04:13:09_
-_本檔包含 3763 則快訊，約 669396 字_
+_更新時間：2026-06-13 05:15:24_
+_本檔包含 3766 則快訊，約 671004 字_
+
+---
+
+### 2026-06-13 05:11:41  #公司
+
+Meta執行長：公司將為重新調配去訓練人工智慧模型的員工安排新崗位。
+
+---
+
+### 2026-06-13 05:11:30  #公司
+
+Meta執行長：公司計劃限制團隊規模擴張，最小幅度調整組織架構，並增加團隊建設預算。
+
+---
+
+### 2026-06-13 05:11:09  #公司
+
+Meta執行長在內部備忘錄中承認，公司在人工智慧轉型過程中出現了失誤。
+
+---
+
+### 2026-06-13 05:08:36  #國際
+
+惠譽確認歐洲金融穩定基金債務評級為“A+”。
+
+---
+
+### 2026-06-13 05:06:23  #公司 #國際
+
+伊朗國家廣播公司IRIB援引當地官員的話稱，霍爾木茲海峽錫裡克港附近聽到的爆炸聲與警告射擊有關。
+
+---
+
+### 2026-06-13 05:05:31  #其他
+
+惠譽：聖馬利諾評級上調反映公共財政狀況改善，包括政府債務下降與再融資風險降低。
+
+---
+
+### 2026-06-13 05:04:51  #其他
+
+惠譽將聖馬利諾評級上調至“BBB”；展望穩定。
+
+---
+
+### 2026-06-13 05:04:11  #其他
+
+惠譽維持象牙海岸“BB”評級，展望穩定。
+
+---
+
+### 2026-06-13 05:03:29  #其他
+
+惠譽確認挪威“AAA”評級，展望穩定。
+
+---
+
+### 2026-06-13 05:02:23  #市場
+
+週五（6月12日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7636元，較週四紐約尾盤跌1點，日內整體交投於6.7592-6.7692元區間。本週，離岸人民幣累計上漲大約270點，漲幅0.40%。
+
+---
+
+### 2026-06-13 05:02:19  #宏觀 #國際
+
+美國財政部就防範欺詐向金融機構釋出指導意見。
+
+---
+
+### 2026-06-13 05:01:30  #公司 #市場 #觀點
+
+【6月13日美股成交額前20：SpaceX登陸納斯達克，市值突破2萬億美元】週五美股成交額第1名SpaceX收高19.34%，成交837.3億美元。SpaceX納斯達克首秀當日收盤股價上漲25.95美元，漲幅為19.22%，收於160.95美元，公司市值達到21045.6億美元，成為有史以來最大規模的首次公開募股。SpaceX於週五以每股150美元的價格開始交易，股票程式碼為SPCX。當日盤中最高價為176.52美元。馬斯克因其在SpaceX和特斯拉的合計持股而成為全球首位萬億富豪。
+
+---
+
+### 2026-06-13 04:58:32  #國際
+
+伊朗邁赫爾通訊社報道，錫裡克和格什姆島傳出爆炸聲，但陸地上未發現爆炸，可能是由附近霍爾木茲海峽的衝突所致。
+
+---
+
+### 2026-06-13 04:56:18  #國際
+
+【美國法官同意暫緩撤銷10萬美元H-1B簽證費的裁決】在美國總統特朗普的政府尋求緊急上訴法院暫緩執行期間，波士頓的一名聯邦法官將暫時擱置其此前關於“撤銷對新增H-1B簽證申請人徵收10萬美元費用”的裁決。6月8日，法官Leo Sorokin裁定，該項費用侵犯了國會專屬的徵稅權，並違反了三權分立原則。特朗普政府已對該裁決提起上訴，並於6月12日提交動議，要求索羅金在美國第一巡迴上訴法院作出裁決前暫停執行其命令。
+
+---
+
+### 2026-06-13 04:55:53  #國際
+
+伊朗邁赫爾通訊社報道，格什姆島和錫裡克附近聽到爆炸聲；官方尚未確認。
+
+---
+
+### 2026-06-13 04:50:44  #公司
+
+巴西國家石油公司(Petrobras)執行長表示，墨西哥國家石油公司(Pemex)執行長將於本月訪問巴西。
+
+---
+
+### 2026-06-13 04:49:30  #公司
+
+富時羅素公司表示，SpaceX將快速被納入富時全球股票指數系列。
+
+---
+
+### 2026-06-13 04:37:00  #其他
+
+穆迪：穩定展望反映出預期阿聯酋聯邦政府信用狀況仍將對持續的區域衝突保持韌性。
+
+---
+
+### 2026-06-13 04:36:22  #其他
+
+穆迪：評級展望反映預期，阿布扎比的信用狀況在2026年仍將保持韌性，不受霍爾木茲海峽貿易流動中斷的影響。
+
+---
+
+### 2026-06-13 04:36:16  #其他
+
+穆迪：評級確認反映阿聯酋擁有強勁的制度體系與有效的政策制定能力。
+
+---
+
+### 2026-06-13 04:36:02  #其他
+
+穆迪：此次評級確認反映出阿聯酋經濟擁有高人均收入，且多元化經濟具備抵禦衝擊的緩衝能力。
+
+---
+
+### 2026-06-13 04:35:47  #其他
+
+穆迪將千里達及托巴哥的信用展望調整為穩定。
+
+---
+
+### 2026-06-13 04:35:14  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.70% Higher — The Dow Jones Index gained 354 points or 0.70 percent on Friday to close at 51202 points. Gains were led by Goldman Sachs (2.57%), Verizon (2.49%) and JPMorgan (2.25%). Biggest losers were Nike (-2.24%), Apple (-1.52%) and Merck (-1.42%).
+
+---
+
+### 2026-06-13 04:34:57  #其他
+
+穆迪評級確認阿聯酋AA2評級，維持穩定展望。
+
+---
+
+### 2026-06-13 04:34:14  #市場
+
+【國際油價12日顯著下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.83美元，收於每桶84.88美元，跌幅為3.23%；8月交貨的倫敦布倫特原油期貨價格下跌3.05美元，收於每桶87.33美元，跌幅為3.37%。
+
+---
+
+### 2026-06-13 04:33:56  #其他
+
+穆迪評級確認阿布扎比AA2評級，維持穩定展望。
+
+---
+
+### 2026-06-13 04:33:49  #其他
+
+穆迪評級確認沙迦的Ba1評級，維持穩定展望。
+
+---
+
+### 2026-06-13 04:32:51  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Falls as US-Iran Deal Could Reopen Hormuz — Brent oil fell 3.4% to $87.3 per barrel as expectations increased that the US and Iran could reach an agreement to reopen the Strait of Hormuz, although officials warned a deal was not guaranteed. Prices declined about 6% this week but remain more than 20% higher since the US and Israel launched attacks on Iran on February 28. A Trump administration official said there is an 80% chance of a deal being signed soon, with the agreement potentially involving the reopening of Hormuz, removal of the naval blockade, dismantling of Iran’s nuclear program and economic incentives if Tehran complies. However, conflicting reports emerged after Iranian media published a draft proposal suggesting different terms, including US force withdrawals and reconstruction funding. President Trump said it did not reflect the agreed terms. Pakistan’s Prime Minister said a final text had been reached, while Iran’s foreign minister said an understanding was closer than ever but urged caution until finalized.
+
+---
+
+### 2026-06-13 04:31:41  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Drops as US-Iran Deal Nears on Hormuz — Crude oil fell 3.2% to $84.88 per barrel as expectations increased that the US and Iran could reach an agreement to reopen the Strait of Hormuz, although officials warned a deal was not guaranteed. Prices declined about 6% this week but remain more than 20% higher since the US and Israel launched attacks on Iran on February 28. A Trump administration official said there is an 80% chance of a deal being signed soon, with the agreement potentially involving the reopening of Hormuz, removal of the naval blockade, dismantling of Iran’s nuclear program and economic incentives if Tehran complies. However, conflicting reports emerged after Iranian media published a draft proposal suggesting different terms, including US force withdrawals and reconstruction funding. President Trump said it did not reflect the agreed terms. Pakistan’s Prime Minister said a final text had been reached, while Iran’s foreign minister said an understanding was closer than ever but urged caution until finalized.
+
+---
+
+### 2026-06-13 04:30:50  #其他
+
+官員稱：哥倫比亞需推行稅制改革，方能達成 2027 年財政目標。
+
+---
+
+### 2026-06-13 04:27:52  #其他
+
+英國政府：ANGELA EAGLE被任命為國務大臣。
+
+---
+
+### 2026-06-13 04:27:22  #其他
+
+據傳MATT HOLT相關方即將達成一筆價值 120 億美元的交易，收購 Ensemble Health。
+
+---
+
+### 2026-06-13 04:25:49  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rise on SpaceX Debut and Iran Hopes — US stocks rose on Friday as SpaceX’s strong market debut boosted sentiment and investors remained optimistic about a possible peace agreement between the US and Iran. The S&P 500 gained 0.5%, the Nasdaq rose 0.3%, and the Dow Jones advanced 0.7%. SpaceX opened on the Nasdaq at $150 per share, above its $135 IPO price, and surged more than 20% shortly after trading began before closing 19% higher at $161.11. The rally lifted confidence across markets, with some investors viewing other shares as undervalued. Nvidia was slightly higher, while AMD and Alphabet gained 4.7% and 0.5%. Broadcom, Palantir, Amazon and Meta closed lower. Markets briefly weakened after President Trump warned Iran to “get their act together,” but sentiment improved after reports suggested progress toward a US-Iran agreement. Iranian media said the draft deal includes lifting oil sanctions and reopening the Strait of Hormuz, and reports indicated a potential signing could take place in Switzerland as soon as Sunday.
+
+---
+
+### 2026-06-13 04:25:12  #市場
+
+【美元指數12日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.11%，在匯市尾市收於99.747。截至紐約匯市尾市，1歐元兌換1.1575美元，高於前一交易日的1.1558美元；1英鎊兌換1.3416美元，高於前一交易日的1.3398美元。1美元兌換160.24日元，高於前一交易日的160.08日元；1美元兌換0.7968瑞士法郎，低於前一交易日的0.7970瑞士法郎；1美元兌換1.3980加元，低於前一交易日的1.3981加元；1美元兌換9.4215瑞典克朗，低於前一交易日的9.4759瑞典克朗。
+
+---
+
+### 2026-06-13 04:24:48  #國際
+
+【伊朗外長：伊朗僅接受在境內“稀釋處理”濃縮鈾庫存】據伊朗媒體12日報道，伊朗外長阿拉格齊表示，伊方目前尚未就核議題作出任何實質性決定，但伊方堅持認為，如需處理現有的高丰度濃縮鈾庫存，唯一可接受方式是在伊朗境內實施“稀釋處理”，而非轉移至境外。（新華社）
+
+---
+
+### 2026-06-13 04:22:13  #其他
+
+哥倫比亞 2026 年淨債務佔國內生產總值比重預計為 58.9%。
+
+---
+
+### 2026-06-13 04:20:53  #公司 #國際
+
+【美官員稱有信心未來幾天內與伊朗簽署諒解備忘錄】據多家美國媒體12日報道，一名美國政府高階官員當天表示，美方對在未來幾天內與伊朗簽署諒解備忘錄抱有“80%至85%”的信心。同時，美方“有信心”以色列會支援美伊這項諒解備忘錄。據美國有線電視新聞網、哥倫比亞廣播公司等報道，這名官員在電話吹風會上表示，“我們雖然還沒完全抵達終點線，但已非常接近”。該官員說，目前尚未確定美伊簽署諒解備忘錄的具體地點和日期，但美國總統特朗普此前建議在歐洲國家簽署，這或是一個選項。這名官員說，初步協議內容包括重新開放霍爾木茲海峽並解除美國對伊朗的海上封鎖，這將促成伊朗放棄其核計劃，並使美國能夠獲取伊朗的濃縮鈾。初步協議還包含一套核查機制，以確保伊朗的承諾能得到長期執行。該官員稱，伊朗“承諾無限期地不再獲取或研發核武器”，但關於如何移除伊朗高丰度濃縮鈾庫存的技術細節尚待敲定，相關討論將在下一輪談判中進行。一旦雙方簽署諒解備忘錄，將啟動為期60天的“技術性”談判。該官員稱，若伊朗切實履行協議義務，美方將放鬆多年來對伊朗施加的大部分經濟限制措施，使其能夠重新融入世界經濟。（新華社）
+
+---
+
+### 2026-06-13 04:20:03  #公司 #市場 #國際
+
+週五（6月12日），彭博電動汽車價格回報指數漲3.59%，報3785.58點，北京時間08:00高開高走，12:00之前開始持穩於3760點附近，美股開盤後略微擴大漲幅。本週累計上漲0.07%，整體呈現出W形走勢。成分股中，淡水河谷印尼公司收漲10.30%，ITM能源漲8.98%，“特斯拉勁敵”Rivian漲7.85%，理想汽車H股漲7.24%，美國雅寶漲7.14%表現第五，在下跌的六隻成分股中，普拉格動力跌2.47%，MobilEye跌2.51%。
+
+---
+
+### 2026-06-13 04:19:50  #宏觀 #國際
+
+美國醫療保險和醫療補助服務中心擬出臺新規，搭建藥品價格談判框架.
+
+---
+
+### 2026-06-13 04:19:22  #其他
+
+MSCI表示，SpaceX被納入MSCI標準及大盤股指數。
+
+---
+
+### 2026-06-13 04:19:10  #MKT News #Macro & Rates #US Economy
+
+U.S. bank deposits fell to $19.296 tln from $19.338 tln a week earlier.
+
+---
+
+### 2026-06-13 04:18:45  #公司 #市場 #國際
+
+【SpaceX上市首日上漲19% 市值破2萬億美元成美國第六大公司】SpaceX(SPCX.O)週五在納斯達克上市首日大漲，市值突破2萬億美元。此次上市交易比許多觀察人士預期的更為平穩。該股週五上午晚些時候開始交易，盤中大部分時間較週四定價上漲15%至30%，波動幅度並不大。收盤時股價報約161美元，上漲19%，使公司躋身美國第六大公司。最終結算價尚待確定。本次交易成交量超過5億股，成交額約800億美元。隨著Anthropic和OpenAI的大型上市計劃蓄勢待發，市場觀察人士曾擔心，在IPO長期相對匱乏之後，新股大量湧入可能拖累市場表現。但從大型機構到馬斯克的散戶粉絲，各類投資者當天收盤時情緒高漲。“SpaceX不僅在上市募資規模上打破紀錄，也把其他大公司遠遠甩在身後。當起始估值已經接近2萬億美元時，轉瞬之間再增加如此多市值令人印象深刻，”AJ Bell市場主管Dan Coatsworth表示。
+
+---
+
+### 2026-06-13 04:18:20  #MKT News #SPCX.O #Impact bullish #Nasdaq100 #S&P500
+
+【SpaceX shares jump 19% on Nasdaq debut; market value tops $2tn, becomes sixth-largest U.S. company】SpaceX (SPCX.O) rose about 19% on its Nasdaq debut Friday, closing near $161 and lifting its market value above $2.0 trillion to become the sixth-largest U.S. company. Intraday moves ran roughly +15% to +30% versus Thursday’s pricing; trading volume exceeded 500 million shares with turnover around $80 billion. Final settlement price remains to be determined. The listing was smoother than many expected, easing near-term concerns that a wave of large IPOs, including planned listings by Anthropic and OpenAI, could weigh on markets after a long lull in new offerings.
+
+---
+
+### 2026-06-13 04:17:25  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls as Inflation Tops Forecasts — The Ibovespa fell 0.2% to close at 171,133 on Friday as hotter-than-expected inflation data weighed on sentiment. Brazil’s annual inflation rate accelerated to 4.72% in May from 4.39%, exceeding forecasts and the BCB’s upper target, reinforcing expectations of a more hawkish stance from the central bank. Abroad, investors remained focused on US-Iran negotiations aimed at ending the conflict. While US President Donald Trump said on Thursday that an agreement could be reached as early as this weekend, Iran stated that it had yet to make a final decision. Oil prices eased amid hopes for a deal, dragging Petrobras down 1.4%. Utilities also posted losses, with Auren falling 0.4% and Sabesp shedding 0.9%. On the upside, Embraer gained 2.2% following reports of aircraft purchases by the Greek government.
+
+---
+
+### 2026-06-13 04:15:51  #央行 #國際
+
+美聯儲：美國上週銀行存款19.296萬億美元，之前一週19.338萬億美元。
+
+---
+
+### 2026-06-13 04:15:48  #國際
+
+伊朗伊斯蘭共和國廣播電視臺（IRIB）：伊朗外長阿拉格齊表示，初步諒解備忘錄共兩頁內容。根據該備忘錄，伊朗所有被凍結資產均不得繼續處於凍結狀態。 若動用伊朗資產向其他國家支付款項，即視為違反協議。
+
+---
+
+### 2026-06-13 04:15:35  #MKT News #PARA.O #Impact bullish #WBD.O #Impact bearish
+
+Politico reports the U.S. Department of Justice has approved Paramount's acquisition of Warner Bros.
+
+---
+
+### 2026-06-13 04:14:18  #國際
+
+據politico： 美國司法部批准派拉蒙收購華納兄弟。
+
+---
+
+### 2026-06-13 04:12:42  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Gains on Hopes for US-Iran Agreement — The S&P/TSX Composite Index gained 0.8% to close at 34,938 on Friday amid renewed optimism over US-Iran diplomacy. Reports indicated that a US-Iran memorandum could be signed as early as Sunday. Oil prices eased, reducing inflation concerns and diminishing expectations of further monetary tightening, supporting financial stocks and the broader market. TD Bank added 1.1%, while BMO rose 1.2%. Mining stocks also advanced despite lower gold prices, with Agnico Eagle gaining 3.4%, Barrick rising 3.3%, and WPM adding 3.5%. Meanwhile, technology shares traded mixed following SpaceX's market debut. Shopify fell 1.8%, while Celestica posted gains as investor optimism around AI-related stocks persisted.
 
 ---
 
@@ -22400,281 +22694,5 @@ Pakistan, Qatar, Saudi Arabia, Egypt and Turkey met to assess mediation efforts 
 ### 2026-06-11 23:17:15  #Trading Economics #Markets #Commodity #Importance 2
 
 Crude Fluctuates on Thursday — Crude oil prices moved between gains and losses around $90 per barrel on Thursday as traders balanced geopolitical risks with still-functioning global supply flows. President Donald Trump warned of possible further US attacks on Iranian energy infrastructure, including the Kharg Island export terminal, while also signaling reduced appetite for a major escalation. At the same time, the UAE and Iran held rare direct talks, raising hopes for diplomatic de-escalation in the region. So far, oil facilities have largely been spared, which has helped prevent the kind of supply shock many traders had feared and kept prices well below earlier conflict peaks. On the demand side, Chinese imports from Saudi Arabia are expected to fall in July, while tanker traffic through the Strait of Hormuz has increased. However, inventories are tightening in key regions, with US crude stocks including strategic reserves down sharply over recent weeks and Singapore fuel inventories at their lowest since 2013.
-
----
-
-### 2026-06-11 23:17:04  #MKT News #Market Regions #Emerging Markets #XAUUSD #Impact bullish #WTI #DXY
-
-Iran’s Red Crescent Society says it has mobilized staff nationwide after warnings that an enemy will continue to carry out airstrikes against Iran.
-
----
-
-### 2026-06-11 23:16:57  #Trading Economics #Economy #Denmark #Interest Rate #Importance 1
-
-Denmark Raises Rates in Tandem with ECB — Denmark’s central bank increased its key interest rate by 25 basis points to 1.85% on June 11, as expected, mirroring the European Central Bank’s earlier move to combat rising inflation amid the Middle East conflict. The ECB raised rates for the first time in three years, aiming to preempt a broader inflation surge as energy costs escalate due to the Iran war. Denmark’s Nationalbank, whose primary mandate is to maintain the krone’s stability within a narrow trading band against the euro, achieves this through currency interventions and interest rate adjustments.
-
----
-
-### 2026-06-11 23:16:31  #國際
-
-伊朗紅新月會表示，在“敵方威脅”將繼續對伊朗發動空襲後，其成員已在全國範圍內動員待命。
-
----
-
-### 2026-06-11 23:16:25  #Trading Economics #Economy #Senegal #Inflation Rate #Importance 0
-
-Senegal Inflation Rate Eases to 1.3% in May — The annual inflation rate in Senegal edged down to 1.3% in May 2026 from 1.4% in each of the prior two months. Price-growth moderated primarily for alcoholic beverages, tobacco & narcotics (10.9% vs 11.5% in April); food & non-alcoholic beverages (1% vs 1.7%); health (1.3% vs 1.6%) and recreation & culture (1.1% vs 1.4%). Meanwhile, prices rose faster for some CPI items, including clothing and footwear(1.4% vs 0.8%), transport (0.9% vs 0.6%), while rebounding for housing & utilities (1.9% vs -0.4%). On a monthly basis, the CPI rose by 0.2%, after a 0.5% decrease in the previous month.
-
----
-
-### 2026-06-11 23:16:05  #MKT News
-
-【CNN: Hazardous-materials incident at Pentagon forces multi-floor lockdown, evacuations】CNN, citing three sources and the local fire department, reported a hazardous-materials incident inside the Pentagon that prompted lockdowns of multiple floors and corridors and evacuations. A Pentagon spokesman on Thursday confirmed building systems detected an air-quality issue and said precautionary measures were taken pending assessment of severity; affected areas were placed under shelter-in-place orders and emergency response teams were deployed to assist personnel.
-
----
-
-### 2026-06-11 23:16:02  #央行 #國際
-
-交易員減少對歐洲央行加息的押注；市場預期今年還將加息40個基點。
-
----
-
-### 2026-06-11 23:15:14  #MKT News
-
-Pentagon spokesman said the Department of Defense is implementing standard protective procedures, including issuing shelter-in-place orders for affected areas.
-
----
-
-### 2026-06-11 23:14:41  #公司 #市場
-
-【加密市場押注SpaceX上市首日較IPO價格溢價20% 估值達2.2萬億美元】加密市場交易員正在無視SpaceX的預期IPO價格，在這家埃隆·馬斯克旗下火箭、衛星和人工智慧公司上市交易前，給出更高估值。紐約時間週四上午，與SpaceX掛鉤的永續期貨在Hyperliquid和Binance等加密交易平臺上的交易價格約為165美元，暗示估值約為2.2萬億美元。該公司在創紀錄的首次公開募股中以135美元的固定價格發行股票。SpaceX的IPO定於週四完成定價程式。彭博週三報道稱，此次發行認購需求據悉超過發行規模四倍。知情人士稱，發行條款不太可能改變，這意味著SpaceX將以約1.8萬億美元估值融資約750億美元。在馬斯克支持者幾乎不計估值追捧SpaceX股票，以及Jim Chanos等資深投資者稱其為“希望與夢想的IPO”兩者之間，加密永續合約交易員似乎站在前者一邊，儘管價格已從5月的200美元上方回落。
-
----
-
-### 2026-06-11 23:14:15  #其他
-
-五角大樓發言人：國防部正在執行標準防護規程，其中包括對受影響區域下達就地避難令。
-
----
-
-### 2026-06-11 23:13:21  #其他
-
-【國家防總辦公室專題研究部署京津冀主汛期防汛救災工作】會議強調，要壓緊壓實各級責任，督促市縣責任人下沉駐點包保，鎮村責任人履職盡責，將工作部署穿透到基層鄉鎮村社。要加強風險隱患排查整治，盯緊守牢山洪溝口、狹窄行洪河道、涉水路段、漫水橋等高風險區和養老機構、施工工地、公路橋隧、旅遊景區等重點部位。要督促加強人員轉移避險，突出抓好“五個關鍵環節”，嚴格落實“四個一律”工作要求，切實做到應轉盡轉、應轉早轉，堅決避免群死群傷。要預置前置力量物資裝備，特別要發揮應急通訊裝備保底作用，科學高效搶險救援救災。要加強防汛避險宣傳，主動回應社會關切，提高基層幹部群眾防災避險意識和自救互救能力。
-
----
-
-### 2026-06-11 23:13:03  #國際
-
-【特朗普告訴眾議院議長 他接近確定情報總監正式人選】美國眾議院議長邁克·約翰遜表示，總統特朗普在過去一小時內告訴他，他接近確定國家情報總監辦公室負責人的正式人選。約翰遜向記者作出上述表態，此前眾議院否決了特朗普延長監控許可權的要求。
-
----
-
-### 2026-06-11 23:13:00  #MKT News #Important #EURUSD #Impact bullish #Brent
-
-ECB sources said they would need to see a sharp surge in crude oil prices to support a July rate hike. Policymakers said forecasts already assume two further hikes, implying a September increase remains possible.
-
----
-
-### 2026-06-11 23:12:03  #MKT News #Important #EURUSD #Impact bearish #DXY #Impact bullish
-
-ECB sources said policymakers expect to pause rate hikes in July if energy prices remain unchanged.
-
----
-
-### 2026-06-11 23:10:38  #國際
-
-【美伊或將陷入邊打邊談拉鋸戰】針對美伊近日頻繁互襲，中國國際問題研究院助理研究員李子昕分析表示， 美伊當前的對抗有滑向低烈度、常態化的風險。美方的以打促談邏輯本身就要求持續施壓，但美國的軍事行動又勢必遭到伊朗的對等反擊。這種螺旋式的軍事報復將使得雙方的衝突很容易陷入到一種長期化狀態。美國政府已經威脅要打擊伊朗的電廠和橋樑，一旦跨越了軍事目標紅線，伊朗必然升級報復。美國不想陷入到地面戰爭，伊朗的經濟也難以承受長期封鎖，所以雙方仍然在透過間接渠道保持接觸。因此，雙方大機率會陷入打打談談的拉鋸狀態，但每一次的摩擦也都存在著誤判升級的風險。（CCTV國際時訊）
-
----
-
-### 2026-06-11 23:09:40  #公司
-
-【上交會上日喀則企業簽下1.09億元訂單分銷協議 實現當地邊境外貿大額訂單新突破】第十二屆中國（上海）國際技術進出口交易會（簡稱“上交會”）6月11日開幕。本屆上交會期間，首屆日喀則市投資促進暨口岸、外貿產業發展推介會舉行，多項合作達成。仲巴縣裡孜富貴富嘉進出口貿易有限公司與尼泊爾企業簽訂3000萬元跨境貿易合作協議，吉隆瑞尼機械製造有限公司與尼泊爾薩哈斯汽車私人有限公司簽訂1.09億元訂單分銷協議，實現當地邊境外貿大額訂單新突破，有效啟用邊境貿易活力。
-
----
-
-### 2026-06-11 23:08:39  #MKT News #Important
-
-CNN, citing sources, says the Pentagon has been placed on lockdown.
-
----
-
-### 2026-06-11 23:07:55  #國際
-
-美國有線電視新聞網11日援引訊息人士的話報道說，五角大樓已被封鎖，危險品處理小組正在趕往現場。五角大樓內人員已被疏散。（新華社）
-
----
-
-### 2026-06-11 23:07:38  #央行 #國際
-
-訊息人士稱，歐洲央行政策制定者指出，經濟預測已隱含還將加息兩次，這意味著9月仍有可能加息。
-
----
-
-### 2026-06-11 23:07:35  #市場 #央行 #國際
-
-訊息人士稱，歐洲央行需要看到原油價格大幅上漲，才會支援7月加息。
-
----
-
-### 2026-06-11 23:07:31  #央行 #國際
-
-訊息人士稱，如果能源價格維持當前水平，歐洲央行政策制定者考慮7月暫停加息。
-
----
-
-### 2026-06-11 23:07:27  #其他
-
-【國產大模型挺進全球第一梯隊】今年以來，國內人工智慧、算力及機器人等領域熱點頻現：詞元日均呼叫量突破140萬億、全國最大算力排程樞紐正式成型，華為韜定律釋出，人形機器人步入“萬元時代”……這一項項突破的背後，是我國在相應領域科技硬實力的集中體現。中國資訊通訊研究院報告顯示，截至2025年底，我國人工智慧企業數量超6000家，形成覆蓋基礎底座、模型框架、行業應用的完整產業體系。據測試，全球多個頭部語言大模型的綜合能力較2024年底提升30%。其中，多個國產大模型就位列其中。我國頭部雲廠商的大模型整體呼叫量，已處於全球第一梯隊水平。智慧體產業鏈逐步健全，加速形成智慧體經濟。2025年，我國工業機器人產量達773074套，同比增長28%。國際機器人聯合會在今年5月發表的相關文章中提到，“十五五”時期，中國正在將發展重點從傳統的工業自動化領域，轉向與人工智慧相結合的高階智慧機器人技術。（央視財經）
-
----
-
-### 2026-06-11 23:06:51  #其他
-
-OpenAI：交易完成後，ONA 將併入 OpenAI 的 Codex 團隊。
-
----
-
-### 2026-06-11 23:06:47  #MKT News #Market Themes #AI Revolution
-
-OpenAI announced an agreement to acquire news organization ONA.
-
----
-
-### 2026-06-11 23:06:12  #國際
-
-市場訊息：美國國防部發言人帕內爾證實，國防部內部系統監測到空氣質量異常，在查明具體影響前，相關區域已採取防範措施。
-
----
-
-### 2026-06-11 23:06:06  #MKT News
-
-CNN: Pentagon spokesman Parnell said the department's internal systems detected an air quality issue and that precautionary measures are being taken until its severity is determined.
-
----
-
-### 2026-06-11 23:04:47  #MKT News #Important
-
-CNN reports a hazardous-materials incident at the Pentagon; firefighters are on scene and multiple floors have been evacuated.
-
----
-
-### 2026-06-11 23:04:29  #其他
-
-市場訊息：五角大樓多個樓層人員已疏散。
-
----
-
-### 2026-06-11 23:04:20  #央行 #國際
-
-義大利外交部長表示，歐洲央行加息於事無補。
-
----
-
-### 2026-06-11 23:04:07  #MKT News
-
-Italy's foreign minister said ECB rate hikes are ineffective.
-
----
-
-### 2026-06-11 23:03:26  #其他
-
-消防官員：五角大樓發生危險物料事故，消防員已抵達現場處置。
-
----
-
-### 2026-06-11 23:03:11  #其他
-
-OpenAI：已達成協議收購ONA。
-
----
-
-### 2026-06-11 23:02:16  #其他
-
-市場訊息：五角大樓進入封鎖狀態，有害物質處理小組正出動處置。
-
----
-
-### 2026-06-11 23:02:05  #國際
-
-墨西哥總統表示，在特朗普稱不尋求續簽《美墨加協定》後，該協定將得到維持。
-
----
-
-### 2026-06-11 23:01:58  #國際
-
-【阿聯酋和伊朗官員舉行面對面會談】美國彭博社11日援引訊息人士的話報道說，阿聯酋和伊朗的高階國家安全官員已於本週舉行了自美以伊軍事衝突以來的首次面對面會談，以緩解當前緊張局勢。據知情人士透露，本週的會晤標誌著雙方關係的顯著轉變，也體現了雙方日益認識到保持雙邊關係穩定的重要性。彭博社的報道並未提及此次會談的具體時間和地點。 (新華社)
-
----
-
-### 2026-06-11 23:01:15  #MKT News #Important #Market Regions #Greater China
-
-As of the 23:00 close, China's most-active futures contracts were mostly higher. Ethylene glycol (EG) and methanol rose over 1%; offset paper, PET bottle flakes and plastics gained about 1%. On the downside, caustic soda fell 1%, while white sugar, coking coal, soda ash and glass slipped modestly.
-
----
-
-### 2026-06-11 23:00:44  #央行 #國際
-
-丹麥央行表示，此次加息是效仿歐洲央行的做法。
-
----
-
-### 2026-06-11 23:00:41  #MKT News
-
-Danish central bank raised its policy rate by 25 bps to 1.85% from 1.60%.
-
----
-
-### 2026-06-11 23:00:30  #央行 #其他
-
-丹麥央行將基準利率從1.6%上調至1.85%。
-
----
-
-### 2026-06-11 23:00:10  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Increases by 1.03% — Top currency gainers are Brazilian Real (1.03%) and Dollar Index (0.28%). Biggest losers are Norwegian Krone (-0.59%), South Korean Won (-0.59%), Canadian Dollar (-0.53%), British Pound (-0.31%) and Euro (-0.14%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-06-11 23:00:03  #市場
-
-【夜盤期貨收盤】乙二醇連續漲1.73%，甲醇連續漲1.22%，PTA連續漲0.72%，菜粕連續漲0.67%，短纖連續漲0.67%。
-
----
-
-### 2026-06-11 22:59:51  #MKT News #Important #S&P500 #Impact bearish #Nasdaq100 #Dow #Impact bullish
-
-S&P 500 and Nasdaq turned negative; Dow's gain narrowed to 0.4%.
-
----
-
-### 2026-06-11 22:59:09  #市場
-
-標普500指數轉跌。
-
----
-
-### 2026-06-11 22:58:22  #其他
-
-惠譽確認非洲開發銀行評級為“AAA”，展望穩定。
-
----
-
-### 2026-06-11 22:58:09  #Trading Economics #Markets #Commodity #Importance 1
-
-US Natgas Prices Fall to Over 2-Week Low — US natural gas prices fell more than 3% to below $3.10/MMBtu on Thursday, hitting the lowest level in over two weeks after a larger-than-expected storage build. The EIA reported that US energy firms added 108 billion cubic feet of gas to storage last week, above forecasts of 101 bcf. Total inventories rose to 2.686 trillion cubic feet, around 6% above the five-year average, signaling ample supply. Warmer-than-normal weather is expected through June 26, which could boost gas demand from power generators. Meanwhile, average US LNG export flows fell to 16.5 bcfd in June from 17.1 bcfd in May due to maintenance at plants including Golden Pass LNG and Freeport LNG in Texas. US Lower 48 gas production also declined to 109.0 bcfd in June from 109.7 bcfd in May.
-
----
-
-### 2026-06-11 22:57:54  #其他
-
-【龔正調研體育產業和文商旅體展融合重點專案，並出席上海男籃賽季總結大會】上海市委副書記、市長龔正今天（6月11日）調研上海市體育產業和文商旅體展融合重點專案，並出席上海久事籃球俱樂部2025—2026賽季CBA聯賽總結大會。龔正指出，要按照市委部署，大力推動新時代體育事業高質量發展，打造更具競爭力的競技體育、更具吸引力的群眾體育、更具影響力的體育產業，使體育成為上海城市核心競爭力和軟實力的一張“金名片”。（澎湃）
-
----
-
-### 2026-06-11 22:57:04  #公司 #焦點 #國際
-
-【藥明康德：美國防部依據第1260H條款將藥明康德列為CMC之決定是錯誤的】藥明康德公告，本公司已在美國哥倫比亞特區聯邦地區法院對國防部提起訴訟。我們堅信，國防部依據第1260H條款將藥明康德列為CMC之決定是錯誤的，而且缺乏事實依據或適用法規和判例法下的法律標準支援。為保護本公司客戶、合作伙伴、員工及股東之利益，我們已向法院請求，包括但不限於：(i)宣告國防部將藥明康德認定為CMC之決定無效、作廢且不具任何法律效力；(ii)撤銷並廢除將藥明康德認定為CMC之決定；及(iii)將藥明康德從1260H名單中移除。
 
 ---

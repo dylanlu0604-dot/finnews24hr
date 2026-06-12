@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-13 04:13:09_
-_本檔包含 3743 則快訊，約 669258 字_
+_更新時間：2026-06-13 05:15:24_
+_本檔包含 3762 則快訊，約 669225 字_
+
+---
+
+### 2026-06-11 23:17:04  #MKT News #Market Regions #Emerging Markets #XAUUSD #Impact bullish #WTI #DXY
+
+Iran’s Red Crescent Society says it has mobilized staff nationwide after warnings that an enemy will continue to carry out airstrikes against Iran.
+
+---
+
+### 2026-06-11 23:16:57  #Trading Economics #Economy #Denmark #Interest Rate #Importance 1
+
+Denmark Raises Rates in Tandem with ECB — Denmark’s central bank increased its key interest rate by 25 basis points to 1.85% on June 11, as expected, mirroring the European Central Bank’s earlier move to combat rising inflation amid the Middle East conflict. The ECB raised rates for the first time in three years, aiming to preempt a broader inflation surge as energy costs escalate due to the Iran war. Denmark’s Nationalbank, whose primary mandate is to maintain the krone’s stability within a narrow trading band against the euro, achieves this through currency interventions and interest rate adjustments.
+
+---
+
+### 2026-06-11 23:16:31  #國際
+
+伊朗紅新月會表示，在“敵方威脅”將繼續對伊朗發動空襲後，其成員已在全國範圍內動員待命。
+
+---
+
+### 2026-06-11 23:16:25  #Trading Economics #Economy #Senegal #Inflation Rate #Importance 0
+
+Senegal Inflation Rate Eases to 1.3% in May — The annual inflation rate in Senegal edged down to 1.3% in May 2026 from 1.4% in each of the prior two months. Price-growth moderated primarily for alcoholic beverages, tobacco & narcotics (10.9% vs 11.5% in April); food & non-alcoholic beverages (1% vs 1.7%); health (1.3% vs 1.6%) and recreation & culture (1.1% vs 1.4%). Meanwhile, prices rose faster for some CPI items, including clothing and footwear(1.4% vs 0.8%), transport (0.9% vs 0.6%), while rebounding for housing & utilities (1.9% vs -0.4%). On a monthly basis, the CPI rose by 0.2%, after a 0.5% decrease in the previous month.
+
+---
+
+### 2026-06-11 23:16:05  #MKT News
+
+【CNN: Hazardous-materials incident at Pentagon forces multi-floor lockdown, evacuations】CNN, citing three sources and the local fire department, reported a hazardous-materials incident inside the Pentagon that prompted lockdowns of multiple floors and corridors and evacuations. A Pentagon spokesman on Thursday confirmed building systems detected an air-quality issue and said precautionary measures were taken pending assessment of severity; affected areas were placed under shelter-in-place orders and emergency response teams were deployed to assist personnel.
+
+---
+
+### 2026-06-11 23:16:02  #央行 #國際
+
+交易員減少對歐洲央行加息的押注；市場預期今年還將加息40個基點。
+
+---
+
+### 2026-06-11 23:15:14  #MKT News
+
+Pentagon spokesman said the Department of Defense is implementing standard protective procedures, including issuing shelter-in-place orders for affected areas.
+
+---
+
+### 2026-06-11 23:14:41  #公司 #市場
+
+【加密市場押注SpaceX上市首日較IPO價格溢價20% 估值達2.2萬億美元】加密市場交易員正在無視SpaceX的預期IPO價格，在這家埃隆·馬斯克旗下火箭、衛星和人工智慧公司上市交易前，給出更高估值。紐約時間週四上午，與SpaceX掛鉤的永續期貨在Hyperliquid和Binance等加密交易平臺上的交易價格約為165美元，暗示估值約為2.2萬億美元。該公司在創紀錄的首次公開募股中以135美元的固定價格發行股票。SpaceX的IPO定於週四完成定價程式。彭博週三報道稱，此次發行認購需求據悉超過發行規模四倍。知情人士稱，發行條款不太可能改變，這意味著SpaceX將以約1.8萬億美元估值融資約750億美元。在馬斯克支持者幾乎不計估值追捧SpaceX股票，以及Jim Chanos等資深投資者稱其為“希望與夢想的IPO”兩者之間，加密永續合約交易員似乎站在前者一邊，儘管價格已從5月的200美元上方回落。
+
+---
+
+### 2026-06-11 23:14:15  #其他
+
+五角大樓發言人：國防部正在執行標準防護規程，其中包括對受影響區域下達就地避難令。
+
+---
+
+### 2026-06-11 23:13:21  #其他
+
+【國家防總辦公室專題研究部署京津冀主汛期防汛救災工作】會議強調，要壓緊壓實各級責任，督促市縣責任人下沉駐點包保，鎮村責任人履職盡責，將工作部署穿透到基層鄉鎮村社。要加強風險隱患排查整治，盯緊守牢山洪溝口、狹窄行洪河道、涉水路段、漫水橋等高風險區和養老機構、施工工地、公路橋隧、旅遊景區等重點部位。要督促加強人員轉移避險，突出抓好“五個關鍵環節”，嚴格落實“四個一律”工作要求，切實做到應轉盡轉、應轉早轉，堅決避免群死群傷。要預置前置力量物資裝備，特別要發揮應急通訊裝備保底作用，科學高效搶險救援救災。要加強防汛避險宣傳，主動回應社會關切，提高基層幹部群眾防災避險意識和自救互救能力。
+
+---
+
+### 2026-06-11 23:13:03  #國際
+
+【特朗普告訴眾議院議長 他接近確定情報總監正式人選】美國眾議院議長邁克·約翰遜表示，總統特朗普在過去一小時內告訴他，他接近確定國家情報總監辦公室負責人的正式人選。約翰遜向記者作出上述表態，此前眾議院否決了特朗普延長監控許可權的要求。
+
+---
+
+### 2026-06-11 23:13:00  #MKT News #Important #EURUSD #Impact bullish #Brent
+
+ECB sources said they would need to see a sharp surge in crude oil prices to support a July rate hike. Policymakers said forecasts already assume two further hikes, implying a September increase remains possible.
+
+---
+
+### 2026-06-11 23:12:03  #MKT News #Important #EURUSD #Impact bearish #DXY #Impact bullish
+
+ECB sources said policymakers expect to pause rate hikes in July if energy prices remain unchanged.
+
+---
+
+### 2026-06-11 23:10:38  #國際
+
+【美伊或將陷入邊打邊談拉鋸戰】針對美伊近日頻繁互襲，中國國際問題研究院助理研究員李子昕分析表示， 美伊當前的對抗有滑向低烈度、常態化的風險。美方的以打促談邏輯本身就要求持續施壓，但美國的軍事行動又勢必遭到伊朗的對等反擊。這種螺旋式的軍事報復將使得雙方的衝突很容易陷入到一種長期化狀態。美國政府已經威脅要打擊伊朗的電廠和橋樑，一旦跨越了軍事目標紅線，伊朗必然升級報復。美國不想陷入到地面戰爭，伊朗的經濟也難以承受長期封鎖，所以雙方仍然在透過間接渠道保持接觸。因此，雙方大機率會陷入打打談談的拉鋸狀態，但每一次的摩擦也都存在著誤判升級的風險。（CCTV國際時訊）
+
+---
+
+### 2026-06-11 23:09:40  #公司
+
+【上交會上日喀則企業簽下1.09億元訂單分銷協議 實現當地邊境外貿大額訂單新突破】第十二屆中國（上海）國際技術進出口交易會（簡稱“上交會”）6月11日開幕。本屆上交會期間，首屆日喀則市投資促進暨口岸、外貿產業發展推介會舉行，多項合作達成。仲巴縣裡孜富貴富嘉進出口貿易有限公司與尼泊爾企業簽訂3000萬元跨境貿易合作協議，吉隆瑞尼機械製造有限公司與尼泊爾薩哈斯汽車私人有限公司簽訂1.09億元訂單分銷協議，實現當地邊境外貿大額訂單新突破，有效啟用邊境貿易活力。
+
+---
+
+### 2026-06-11 23:08:39  #MKT News #Important
+
+CNN, citing sources, says the Pentagon has been placed on lockdown.
+
+---
+
+### 2026-06-11 23:07:55  #國際
+
+美國有線電視新聞網11日援引訊息人士的話報道說，五角大樓已被封鎖，危險品處理小組正在趕往現場。五角大樓內人員已被疏散。（新華社）
+
+---
+
+### 2026-06-11 23:07:38  #央行 #國際
+
+訊息人士稱，歐洲央行政策制定者指出，經濟預測已隱含還將加息兩次，這意味著9月仍有可能加息。
+
+---
+
+### 2026-06-11 23:07:35  #市場 #央行 #國際
+
+訊息人士稱，歐洲央行需要看到原油價格大幅上漲，才會支援7月加息。
+
+---
+
+### 2026-06-11 23:07:31  #央行 #國際
+
+訊息人士稱，如果能源價格維持當前水平，歐洲央行政策制定者考慮7月暫停加息。
+
+---
+
+### 2026-06-11 23:07:27  #其他
+
+【國產大模型挺進全球第一梯隊】今年以來，國內人工智慧、算力及機器人等領域熱點頻現：詞元日均呼叫量突破140萬億、全國最大算力排程樞紐正式成型，華為韜定律釋出，人形機器人步入“萬元時代”……這一項項突破的背後，是我國在相應領域科技硬實力的集中體現。中國資訊通訊研究院報告顯示，截至2025年底，我國人工智慧企業數量超6000家，形成覆蓋基礎底座、模型框架、行業應用的完整產業體系。據測試，全球多個頭部語言大模型的綜合能力較2024年底提升30%。其中，多個國產大模型就位列其中。我國頭部雲廠商的大模型整體呼叫量，已處於全球第一梯隊水平。智慧體產業鏈逐步健全，加速形成智慧體經濟。2025年，我國工業機器人產量達773074套，同比增長28%。國際機器人聯合會在今年5月發表的相關文章中提到，“十五五”時期，中國正在將發展重點從傳統的工業自動化領域，轉向與人工智慧相結合的高階智慧機器人技術。（央視財經）
+
+---
+
+### 2026-06-11 23:06:51  #其他
+
+OpenAI：交易完成後，ONA 將併入 OpenAI 的 Codex 團隊。
+
+---
+
+### 2026-06-11 23:06:47  #MKT News #Market Themes #AI Revolution
+
+OpenAI announced an agreement to acquire news organization ONA.
+
+---
+
+### 2026-06-11 23:06:12  #國際
+
+市場訊息：美國國防部發言人帕內爾證實，國防部內部系統監測到空氣質量異常，在查明具體影響前，相關區域已採取防範措施。
+
+---
+
+### 2026-06-11 23:06:06  #MKT News
+
+CNN: Pentagon spokesman Parnell said the department's internal systems detected an air quality issue and that precautionary measures are being taken until its severity is determined.
+
+---
+
+### 2026-06-11 23:04:47  #MKT News #Important
+
+CNN reports a hazardous-materials incident at the Pentagon; firefighters are on scene and multiple floors have been evacuated.
+
+---
+
+### 2026-06-11 23:04:29  #其他
+
+市場訊息：五角大樓多個樓層人員已疏散。
+
+---
+
+### 2026-06-11 23:04:20  #央行 #國際
+
+義大利外交部長表示，歐洲央行加息於事無補。
+
+---
+
+### 2026-06-11 23:04:07  #MKT News
+
+Italy's foreign minister said ECB rate hikes are ineffective.
+
+---
+
+### 2026-06-11 23:03:26  #其他
+
+消防官員：五角大樓發生危險物料事故，消防員已抵達現場處置。
+
+---
+
+### 2026-06-11 23:03:11  #其他
+
+OpenAI：已達成協議收購ONA。
+
+---
+
+### 2026-06-11 23:02:16  #其他
+
+市場訊息：五角大樓進入封鎖狀態，有害物質處理小組正出動處置。
+
+---
+
+### 2026-06-11 23:02:05  #國際
+
+墨西哥總統表示，在特朗普稱不尋求續簽《美墨加協定》後，該協定將得到維持。
+
+---
+
+### 2026-06-11 23:01:58  #國際
+
+【阿聯酋和伊朗官員舉行面對面會談】美國彭博社11日援引訊息人士的話報道說，阿聯酋和伊朗的高階國家安全官員已於本週舉行了自美以伊軍事衝突以來的首次面對面會談，以緩解當前緊張局勢。據知情人士透露，本週的會晤標誌著雙方關係的顯著轉變，也體現了雙方日益認識到保持雙邊關係穩定的重要性。彭博社的報道並未提及此次會談的具體時間和地點。 (新華社)
+
+---
+
+### 2026-06-11 23:01:15  #MKT News #Important #Market Regions #Greater China
+
+As of the 23:00 close, China's most-active futures contracts were mostly higher. Ethylene glycol (EG) and methanol rose over 1%; offset paper, PET bottle flakes and plastics gained about 1%. On the downside, caustic soda fell 1%, while white sugar, coking coal, soda ash and glass slipped modestly.
+
+---
+
+### 2026-06-11 23:00:44  #央行 #國際
+
+丹麥央行表示，此次加息是效仿歐洲央行的做法。
+
+---
+
+### 2026-06-11 23:00:41  #MKT News
+
+Danish central bank raised its policy rate by 25 bps to 1.85% from 1.60%.
+
+---
+
+### 2026-06-11 23:00:30  #央行 #其他
+
+丹麥央行將基準利率從1.6%上調至1.85%。
+
+---
+
+### 2026-06-11 23:00:10  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Increases by 1.03% — Top currency gainers are Brazilian Real (1.03%) and Dollar Index (0.28%). Biggest losers are Norwegian Krone (-0.59%), South Korean Won (-0.59%), Canadian Dollar (-0.53%), British Pound (-0.31%) and Euro (-0.14%). Meanwhile Japanese Yen was little changed.
+
+---
+
+### 2026-06-11 23:00:03  #市場
+
+【夜盤期貨收盤】乙二醇連續漲1.73%，甲醇連續漲1.22%，PTA連續漲0.72%，菜粕連續漲0.67%，短纖連續漲0.67%。
+
+---
+
+### 2026-06-11 22:59:51  #MKT News #Important #S&P500 #Impact bearish #Nasdaq100 #Dow #Impact bullish
+
+S&P 500 and Nasdaq turned negative; Dow's gain narrowed to 0.4%.
+
+---
+
+### 2026-06-11 22:59:09  #市場
+
+標普500指數轉跌。
+
+---
+
+### 2026-06-11 22:58:22  #其他
+
+惠譽確認非洲開發銀行評級為“AAA”，展望穩定。
+
+---
+
+### 2026-06-11 22:58:09  #Trading Economics #Markets #Commodity #Importance 1
+
+US Natgas Prices Fall to Over 2-Week Low — US natural gas prices fell more than 3% to below $3.10/MMBtu on Thursday, hitting the lowest level in over two weeks after a larger-than-expected storage build. The EIA reported that US energy firms added 108 billion cubic feet of gas to storage last week, above forecasts of 101 bcf. Total inventories rose to 2.686 trillion cubic feet, around 6% above the five-year average, signaling ample supply. Warmer-than-normal weather is expected through June 26, which could boost gas demand from power generators. Meanwhile, average US LNG export flows fell to 16.5 bcfd in June from 17.1 bcfd in May due to maintenance at plants including Golden Pass LNG and Freeport LNG in Texas. US Lower 48 gas production also declined to 109.0 bcfd in June from 109.7 bcfd in May.
+
+---
+
+### 2026-06-11 22:57:54  #其他
+
+【龔正調研體育產業和文商旅體展融合重點專案，並出席上海男籃賽季總結大會】上海市委副書記、市長龔正今天（6月11日）調研上海市體育產業和文商旅體展融合重點專案，並出席上海久事籃球俱樂部2025—2026賽季CBA聯賽總結大會。龔正指出，要按照市委部署，大力推動新時代體育事業高質量發展，打造更具競爭力的競技體育、更具吸引力的群眾體育、更具影響力的體育產業，使體育成為上海城市核心競爭力和軟實力的一張“金名片”。（澎湃）
+
+---
+
+### 2026-06-11 22:57:04  #公司 #焦點 #國際
+
+【藥明康德：美國防部依據第1260H條款將藥明康德列為CMC之決定是錯誤的】藥明康德公告，本公司已在美國哥倫比亞特區聯邦地區法院對國防部提起訴訟。我們堅信，國防部依據第1260H條款將藥明康德列為CMC之決定是錯誤的，而且缺乏事實依據或適用法規和判例法下的法律標準支援。為保護本公司客戶、合作伙伴、員工及股東之利益，我們已向法院請求，包括但不限於：(i)宣告國防部將藥明康德認定為CMC之決定無效、作廢且不具任何法律效力；(ii)撤銷並廢除將藥明康德認定為CMC之決定；及(iii)將藥明康德從1260H名單中移除。
 
 ---
 
@@ -22398,167 +22674,5 @@ TSX Futures Fall on Iran War Escalation — Futures tracking the S&P/TSX Composi
 ### 2026-06-10 20:54:33  #資料 #市場 #央行 #國際
 
 【美國5月通脹資料解讀：核心商品走弱 整體CPI同比升至三年高點】“美聯儲傳聲筒”Nick Timiraos發文稱：5 月消費者價格指數（CPI）資料顯示，核心商品價格環比下跌 0.11%；住房類價格環比上漲 0.32%，剔除住房後的非能源服務價格環比上漲 0.27%。從同比來看，核心商品通脹水平較去年夏末有所回落，當前同比漲幅為 1.1%，去年 9 月曾創下 1.5% 的近期峰值。整體 CPI 環比上漲 0.47%，摺合年化漲幅為 5.8%，同比漲幅隨之攀升至 4.2%，創下三年新高。CPI 三個月摺合年化漲幅達 8.2%。
-
----
-
-### 2026-06-10 20:54:24  #MKT News #Important #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Nick Timiraos said three-month annualized US CPI rose 8.2%.
-
----
-
-### 2026-06-10 20:54:09  #其他
-
-【農行上海市分行釋出科技企業“建檔立卡”評價模型，已為走訪企業新增授信超260億元】中國農業銀行上海市分行釋出科技企業“建檔立卡”評價模型，以數智化手段破解科技企業識別難、評價難、賦能難等問題。據瞭解，去年5月起，該行啟動“123+”專項服務行動，聚合政府部門、VC、PE、國有投資平臺、主流媒體等多方主體，打造“5+N”科技金融生態圈，聯合走訪3600多家科技企業。在此基礎上，該行聯合上海財經大學，走訪調研多類主體，研發推出上述模型。
-
----
-
-### 2026-06-10 20:53:59  #國際
-
-【保加利亞總理：將不再向烏克蘭提供武器】保加利亞總理拉德夫10日在部長會議上說，保加利亞軍方將不再向烏克蘭提供武器。 拉德夫認為烏克蘭危機的外溢影響給保加利亞造成了嚴重的社會經濟損失。他表示，保加利亞將致力於提升軍隊的防禦能力，而不是將更多資金投入衝突之中，這才是對保加利亞未來的真正投資。 拉德夫認為，各方應以全面務實的態度看待俄烏之間的衝突，並尋求外交解決途徑。 據保加利亞國家電臺報道，自烏克蘭危機升級以來，保加利亞國防部已向烏克蘭提供了13批“援助包”，但援助的型別及其價值暫未公佈。(新華社)
-
----
-
-### 2026-06-10 20:53:55  #MKT News #Important #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-TIMIRAOS: Headline CPI rose 0.47% MoM (annualized 5.8%), lifting not-seasonally-adjusted CPI YoY to 4.2%, a three-year high.
-
----
-
-### 2026-06-10 20:53:41  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【US inflation in line with expectations reinforces Fed view that rates will stay higher for longer】Wednesday’s US CPI matched forecasts: May headline CPI YoY +4.2%, core CPI YoY +2.9%. The print bolsters the view the Fed will hold policy rates at 3.50%–3.75% at the June meeting and sustain a higher-for-longer stance. Ahead of the release, CME FedWatch showed a 98% probability of a June hold; markets still price roughly one 25bp hike by year-end.
-
----
-
-### 2026-06-10 20:53:24  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Pare Some Losses But Remain in the Red — US stock futures pared some losses but remained in negative territory on Wednesday, with S&P 500 futures down 0.5%, Nasdaq 100 falling 0.8%, and Dow Jones losing around 250 points. Investors digested the latest CPI report, which showed annual inflation accelerating to 4.2% in May, in line with expectations, while core monthly inflation slowed more than anticipated to 0.2%. The data provided some relief that the energy shock has not yet significantly spilled over into broader price pressures. Following the release, traders slightly reduced expectations for Fed rate hikes this year, although a 25bps increase in December remains fully priced in. Meanwhile, sentiment continued to be weighed down by renewed weakness in tech stocks as concerns over elevated valuations resurfaced. Geopolitical tensions also remained in focus, with Iran and the US continuing to exchange strikes. In premarket trading, Nvidia fell 1.4%, Broadcom lost 1.3%, and Micron Technology dropped 2%.
-
----
-
-### 2026-06-10 20:53:16  #公司
-
-【機構：第一季度全球智慧手機SoC出貨量同比下降8%】市場研究機構Counterpoint報告顯示，2026年第一季度全球智慧手機SoC出貨量同比下降8%，分析師指出，持續的記憶體供應短缺是導致整體出貨量下滑的主要因素。聯發科今年第一季度以 32% 的份額位居榜首，高通以 23% 位列第二，蘋果以 19% 排在第三，紫光展銳以 14% 佔據第四，三星以 7% 排在第五，海思以 4% 位列第六。
-
----
-
-### 2026-06-10 20:53:06  #MKT News #Macro & Rates #US Economy #WTI #Impact bullish #DXY #US10Y #Impact bearish
-
-【Economist: Headline inflation points to supply-side pressure; core inflation makes overall picture less clear】PIMCO economist Tiffany Wilding said on the US CPI report the key question is whether current inflation is driven by negative supply shocks or by strong demand. She views headline inflation as more indicative of supply-side pressure, citing Middle East developments and rising gasoline prices. Core inflation, she said, raises additional questions and makes the overall outlook less clear.
-
----
-
-### 2026-06-10 20:52:55  #其他
-
-德國金屬工業工會（IG Metall）：大眾汽車奧斯納布呂克工廠的未來規劃仍未確定。
-
----
-
-### 2026-06-10 20:52:08  #MKT News
-
-Bill Gates said he was pleased to appear before a U.S. House subcommittee and hoped his testimony on the Epstein case would be helpful.
-
----
-
-### 2026-06-10 20:52:08  #MKT News #CNH #Impact mixed #CSI300
-
-【China Index Academy: Jan–May national judicial‑auction transactions 84,000 units, +26.6% YoY】China Index Academy said in a June 10 report that national judicial‑auction activity recovered in January–May. In 355 monitored cities, cumulative listings reached 395,000 units, up 19.6% YoY, and transactions totaled 84,000 units, up 26.6% YoY. Residential properties remain the main driver; commercial and industrial/factory sales are more mixed. Liquidity and market performance vary materially across cities, with core cities showing stronger turnover.
-
----
-
-### 2026-06-10 20:51:51  #公司 #市場 #央行 #國際
-
-【分析：分析認為歐洲央行的挑戰更多在於未來利率路徑，而非週四的決定】Royal London Asset Management的Wolfgang Bauer在一份報告中表示，歐洲央行面臨的更大挑戰可能不在於眼下的決定本身，而更多在於未來的利率路徑。該基金經理表示，期貨市場目前預期年底前歐洲央行將加息近三次，鑑於當前的經濟形勢，“這似乎有些過高”。Bauer表示，如果這種顯著的緊縮政策成為現實，就有可能對歐洲本已脆弱的增長動力造成明顯拖累。根據倫敦證券交易所集團的資料，市場已充分預期歐洲央行在週四的會議上加息25個基點。
-
----
-
-### 2026-06-10 20:51:23  #其他
-
-比爾·蓋茨：希望我關於愛潑斯坦的證詞能有所幫助。
-
----
-
-### 2026-06-10 20:51:21  #Trading Economics #Economy #Belarus #Inflation Rate #Importance 1
-
-Belarus Inflation Hits 19-Month Low — Belarus's annual inflation rate eased to 4.8% in May 2026 from 5.4% in the previous month, marking the lowest reading since October 2023. Price growth slowed for food products (4.9% vs. 6.3%), while inflation for non-food goods remained unchanged at 2%. Meanwhile, services inflation edged up to 8.5% from 8.4% in April. On a monthly basis, consumer prices rose 0.1%, following a 0.8% increase in the previous month.
-
----
-
-### 2026-06-10 20:51:13  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #S&P500 #DXY #Impact bearish
-
-TIMIRAOS: On a 12-month YoY basis, core goods inflation is slightly below late-summer last year, at +1.1% versus a recent peak of +1.5% in September last year.
-
----
-
-### 2026-06-10 20:51:12  #國際
-
-沙烏地阿拉伯外交部：表示譴責和強烈抗議，並指出（伊朗）相關舉動對上述友好國家的領土與領空安全構成威脅。
-
----
-
-### 2026-06-10 20:51:03  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Dips as US Inflation Meets Expectations — The dollar index fell slightly to 99.8 on Wednesday after US inflation data largely aligned with expectations, with only a minor downside surprise in core month-on-month figures. The headline inflation rate rose to 4.2% in May, its highest since April 2023, driven by surging energy costs amid the Iran conflict. The core rate also climbed to 2.9% year-over-year, the highest since September 2025. Month-over-month, CPI increased 0.5% as expected, while core inflation eased more than anticipated to 0.2%. Traders modestly reduced bets on Federal Reserve rate hikes this year, though a quarter-point increase in December remains fully priced in. Meanwhile, Middle East tensions stayed elevated, with the US and Iran exchanging fresh strikes. President Donald Trump warned that Iran is taking "too long" to negotiate a peace deal and will now "pay the price," raising doubts about the durability of a fragile ceasefire and the prospects for a long-term agreement.
-
----
-
-### 2026-06-10 20:50:45  #MKT News
-
-TIMIRAOS: In May US CPI, core goods fell 0.11% MoM; shelter rose 0.32% MoM; non-shelter, non-energy services rose 0.27% MoM.
-
----
-
-### 2026-06-10 20:50:41  #Trading Economics #Economy #United States #Energy Inflation #Importance 0
-
-US Energy Inflation Quickens in May — US energy inflation accelerated further to 23.5% year-over-year in May 2026, up from 17.9% in April and marking the sharpest annual increase since August 2022. The rise was driven by a 40.6% jump in energy commodities amid the Middle East conflict and ongoing disruptions in the Strait of Hormuz, with gasoline prices increasing 40.5% and fuel oil prices surging 58.9%. On a monthly basis, energy prices advanced by 3.9%, after a 3.8% surge in the preceding month.
-
----
-
-### 2026-06-10 20:50:38  #其他
-
-比爾・蓋茨出席愛潑斯坦相關閉門聽證會並作證。
-
----
-
-### 2026-06-10 20:50:18  #其他
-
-比爾·蓋茨表示，他很高興能參加眾議院小組會議。
-
----
-
-### 2026-06-10 20:49:47  #公司 #國際
-
-萊昂納多公司(LEONARDO SPA) - 該計劃是一項開創性的任務概念，旨在幫助歐洲"在太空領域採取行動"，從而促成新的在軌服務。
-
----
-
-### 2026-06-10 20:49:36  #公司 #市場
-
-【傑瑞股份：外部經營環境未出現重大變化 北美燃氣輪機發電機組已多次漲價】傑瑞股份(002353.SZ)釋出投資者關係活動記錄表公告，目前，公司整體生產經營狀況正常，外部經營環境未出現重大變化，包括燃氣輪機在內的各產品線執行穩定。在電力業務領域，公司堅定看好燃氣輪機發電行業未來發展趨勢，並將持續深耕該領域的相關業務。公司燃氣輪機發電機組銷售價格今年以來已多次上漲，受益於行業供不應求態勢。在產能方面，北美地區已具備本地化裝配生產能力，並透過擴建原有廠房及租賃廠房進一步提升產能；阿聯酋迪拜生產及辦公基地建設正在推進，國內工廠亦具備生產能力，海內外產能可相互調節。
-
----
-
-### 2026-06-10 20:49:30  #MKT News
-
-German Chancellor Merz said he hopes to harness Germany's potential in drone technology.
-
----
-
-### 2026-06-10 20:49:26  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish #XAUUSD #DXY #Impact mixed
-
-【Economist: Inflation meeting expectations is not a positive signal; Trump needs to resolve Strait of Hormuz issue to reassure Fed ahead of meeting】Brian Jacobsen, chief economist at Annex Wealth Management, said inflation printing in line with expectations is not necessarily a good report. He added overall inflation shows little evidence that energy and commodity price gains are feeding through into core inflation. Whether by force or ceasefire, the clock to reopen the Strait of Hormuz is ticking; the Fed will not speculate on timing, so President Trump needs to provide certainty ahead of the Fed meeting.
-
----
-
-### 2026-06-10 20:49:25  #國際
-
-【報告：2025年全球核武支出創新高，全球核風險加劇】全球核武國家2025年核武支出達1190億美元，創歷史新高，美國以692億美元居首，超其餘八國總和。新加坡《聯合早報》6月9日報道稱，主張消除核武的非政府組織聯盟“國際廢除核武運動”（International Campaign to Abolish Nuclear Weapons，簡稱ICAN）6月9日發表最新年度報告。報告警告，在地緣政治緊張局勢加劇之際，新一輪核軍備競賽已出現跡象，各國也計劃在未來數十年繼續增加相關投入。（澎湃）
-
----
-
-### 2026-06-10 20:48:16  #公司 #國際
-
-博世執行長：市場環境充滿挑戰，中東衝突進一步加劇風險。在當前環境下，我們集團基本面具備良好優勢，能夠實現2026年的財務目標。
 
 ---
