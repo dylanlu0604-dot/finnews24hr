@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-12 13:01:43",
+  "updated": "2026-06-12 13:05:44",
   "count": 18390,
   "items": [
+    {
+      "id": "mkt:019eba37-fb0b-7dd8-afd1-f6ec6d989892",
+      "time": "2026-06-12 13:04:51",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【ECB's Nagel says all options open for July meeting, ready to act again if necessary】ECB Governing Council member Nagel said the ECB will hold its next monetary policy meeting in July and is keeping all options open, ready to act again if warranted. He said June's rate hike was necessary because inflation has broadened beyond energy into other goods and services, and that the Middle East conflict has produced a strong, persistent supply shock that cannot be ignored; the council has shown resolve to prevent inflation expectations from becoming unanchored. Sources earlier said a July hike was not the policymakers' base case, but the ECB could tighten further if energy prices rise or inflation surprises to the upside. Nagel is viewed as a potential successor to Lagarde."
+    },
+    {
+      "id": "4931837",
+      "time": "2026-06-12 13:04:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝倫貝格銀行將勞斯萊斯評級從持有上調至買入，目標股價從1270便士上調至1430便士。"
+    },
+    {
+      "id": "mkt:019eba36-d1fb-7dd8-afd1-ef4cd406a0cf",
+      "time": "2026-06-12 13:03:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "CATL A- and H-shares rose; A-shares up more than 4.5 pct, H-shares up more than 3 pct."
+    },
+    {
+      "id": "4931836",
+      "time": "2026-06-12 13:03:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：通脹前景惡化。"
+    },
+    {
+      "id": "4931835",
+      "time": "2026-06-12 13:02:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "法蘭克福機場5月旅客吞吐量同比增長2.7%至570萬人次。"
+    },
+    {
+      "id": "4931834",
+      "time": "2026-06-12 13:02:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【財達證券盤中漲停】財達證券盤中漲停，漲幅10.08%，成交額超5億元。"
+    },
+    {
+      "id": "4931831",
+      "time": "2026-06-12 13:01:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：即使戰爭很快結束，本週的加息也是必要的。"
+    },
+    {
+      "id": "4931830",
+      "time": "2026-06-12 13:01:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：下次會議將保留所有選項。"
+    },
     {
       "id": "4931829",
       "time": "2026-06-12 13:00:56",
@@ -169483,91 +169560,6 @@
         "國際"
       ],
       "text": "【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。"
-    },
-    {
-      "id": "te:economy:556725",
-      "time": "2026-06-05 13:04:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Japan Leading Index Highest Since 2021 — Japan’s leading economic index, which gauges the outlook for the months ahead using indicators such as job offers and consumer sentiment, rose to 115.9 in April 2026 from an upwardly revised 115.4 in the previous month, exceeding market forecasts of 114.3, preliminary estimates showed. It was the highest reading since December 2021, underscoring a gradual improvement in the economic outlook."
-    },
-    {
-      "id": "4918757",
-      "time": "2026-06-05 13:04:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。DSI將對其獲取的商業資訊和合同條款保密。只要未發現低價報關行為，現有的戰略性自然資源大宗商品出口合同將繼續有效。該基金表示，遵守良好商業規範的出口商將不會面臨運營中斷，這有助於確保法律的確定性和有利的商業環境。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。該基金稱，戰略性大宗商品的定價將基於公平、透明和負責任的方法，並考慮質量、規格、物流成本和合同結構的差異，這將消除市場操縱的漏洞。Danantara和DSI將繼續與利益相關者溝通，以確保改革的實施保持一致且不干擾出口活動。"
-    },
-    {
-      "id": "te:economy:556724",
-      "time": "2026-06-05 13:04:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Coincident Index",
-        "Importance 1"
-      ],
-      "text": "Japan Coincident Index Rises to 3-Month High — Japan’s coincident economic index, which tracks activity in areas such as factory output, employment, and retail sales, increased to 117.9 in April 2026 from an upwardly revised 116.8 in the previous month, flash data showed. It was the highest reading since January."
-    },
-    {
-      "id": "te:markets:556722",
-      "time": "2026-06-05 13:03:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Weakens to 2009 Low — The South Korean won fell past 1,540 per dollar, marking its weakest level since March 2009, as heightened Middle East tensions weighed on broader risk sentiment. Developments in Lebanon, including Hezbollah’s rejection of a ceasefire proposal, alongside continued Israeli military activity, kept concerns over potential disruptions to regional energy supply routes in focus. Safe-haven demand for the US dollar also strengthened amid the broader risk-off environment. Additional pressure came from a sharp equity selloff in Korea, with the KOSPI heading for its steepest weekly drop in over two months amid a global semiconductor downturn, prompting continued foreign fund outflows. Meanwhile, authorities said they were taking \"extra vigilance\" over volatility in financial and foreign exchange markets. At the same time, South Korea posted its second-largest current account surplus on record in April at $28.29 billion, supported by robust semiconductor exports."
-    },
-    {
-      "id": "mkt:019e962a-138c-7224-a867-cfde89b074fa",
-      "time": "2026-06-05 13:02:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "South Korea's presidential office said President Lee will attend the G7 summit in France from June 9-18 and visit Italy, Belgium and the Vatican."
-    },
-    {
-      "id": "4918756",
-      "time": "2026-06-05 13:02:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "青瓦臺表示，韓國總統李在明將於6月9日至18日前往法國出席七國集團峰會，隨後訪問義大利、比利時以及梵蒂岡。"
-    },
-    {
-      "id": "4918755",
-      "time": "2026-06-05 13:02:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機器人板塊走高，綠的諧波漲超17%】機器人板塊走高，綠的諧波漲超17%，億嘉和、埃夫特、三豐智慧、派斯林、凱爾達等跟漲。"
-    },
-    {
-      "id": "mkt:019e9629-9782-7224-a867-c1332be429a3",
-      "time": "2026-06-05 13:02:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share robotics sector rallied in the afternoon; Lvde Xiebo surged more than 17%, with Yijiahe, Efort, Sanfeng Intelligent, Paisenlin and Kaierda also advancing."
     }
   ]
 }
