@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-12 23:42:33",
-  "count": 18420,
+  "updated": "2026-06-12 23:46:56",
+  "count": 18423,
   "items": [
+    {
+      "id": "te:markets:558766",
+      "time": "2026-06-12 23:45:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "US Stocks Swing Higher Ahead of SpaceX IPO — US stocks swung higher on a choppy Friday, extending the rebound from yesterday on lingering hopes of a deal between the US and Iran, while markets awaited the SpaceX IPO. The S&P 500 and the Nasdaq 100 gained over 0.5% and the Dow jumped nearly 1%. The Iranian foreign ministry signaled a deal with the US has never been closer, driving energy prices to pull back following a series of mixed statements by President Trump. Financial companies gained as yields eased off session peaks, with Goldman Sachs and Blackstone adding over 3.5%. AI infrastructure companies wavered ahead of the SpaceX IPO, raising $75 billion for fresh expenditure on data centers and compute capacity. Reports indicated the stock was over four-fold oversubscribed, set to open around 20% over the IPO listing of $135 per share. Chips producers gained with AMD, Qualcomm, and Sandisk up 5%. Hyperscalers were lower, with Microsoft, Amazon, Apple, and Oracle down."
+    },
+    {
+      "id": "4933199",
+      "time": "2026-06-12 23:45:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，以色列北部多個區域拉響敵方戰機入侵警報。"
+    },
+    {
+      "id": "mkt:019ebc82-a31c-7dd8-afe2-5358730ec292",
+      "time": "2026-06-12 23:45:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli military: air-raid alerts sounded across multiple areas in northern Israel over reports of suspected hostile aircraft incursions."
+    },
+    {
+      "id": "mkt:019ebc81-c4a4-7dd8-afe2-4b7f9cc7a94f",
+      "time": "2026-06-12 23:44:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analyst: SpaceX actual open may still be hours away; delayed starts common for large IPOs】Analyst Turner said pre-open indications have run for more than 90 minutes but the actual market open for SpaceX may still take several hours. Delayed starts are common for high-demand IPOs — last month Nasdaq-listed AI chipmaker and data-center operator Cerebras began trading around 1:00 p.m. NY time, nearly three hours after its first trade indications. SpaceX’s indicative opening price has drifted down to about $150, but remains more than 10% above the $135 IPO issue price."
+    },
+    {
+      "id": "4933198",
+      "time": "2026-06-12 23:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta高管Stone：（Facebook）服務開始恢復，完全恢復可能還需一點時間。"
+    },
+    {
+      "id": "mkt:019ebc80-e0cc-7dd8-afe2-466ef38b3f1f",
+      "time": "2026-06-12 23:43:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O): Facebook may take time to fully recover."
+    },
+    {
+      "id": "4933197",
+      "time": "2026-06-12 23:43:07",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "據CNBC：SpaceX(SPCX.O)的交易將在五分鐘後開始。"
+    },
+    {
+      "id": "mkt:019ebc80-3d7e-7dd8-afe2-3a8bc57374e8",
+      "time": "2026-06-12 23:43:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "CNBC reports SpaceX (SPCX.O) will begin trading in five minutes."
+    },
     {
       "id": "mkt:019ebc7f-75ae-7dd8-afe2-31a938d08065",
       "time": "2026-06-12 23:42:10",
@@ -169565,52 +169648,6 @@
         "Impact bearish"
       ],
       "text": "【Putin rejects Zelenskiy’s proposal for face-to-face talks, calls meeting 'meaningless'】At the St. Petersburg International Economic Forum plenary on Friday, Russian President Putin rejected Ukrainian President Zelenskiy’s proposal for a face-to-face meeting to end the war, saying such a meeting would be \"meaningless.\" Putin said he had quickly read Zelenskiy’s letters and described their tone as \"rude,\" asking whether the letters sought to create conditions for talks or to make talks impossible and saying they did the latter. He added Russia is closely monitoring its armed forces’ operations and drew applause after urging \"keep going, brothers.\""
-    },
-    {
-      "id": "te:markets:556981",
-      "time": "2026-06-05 23:46:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Ends Week Lower — The FTSE MIB lost 0.6% to close at 49,893 on Friday as higher bond yields and escalating hostilities in the Middle East weighed on sentiment. Iran-backed Hezbollah rejected a new Lebanon ceasefire proposal, while Israel said it would not withdraw its troops, undermining US diplomatic efforts with Iran. Oil prices remained elevated, fueling inflation concerns, while stronger-than-expected US payrolls data pushed Treasury yields higher and reinforced expectations that the Federal Reserve may keep interest rates elevated for longer. Heavyweight financials weighed on the index, with UniCredit down 1.4%. STMicroelectronics slumped 5.9% as investor enthusiasm for artificial intelligence cooled following weaker-than-expected results from Broadcom. Elsewhere, Stellantis extended losses by 3.2% after announcing earlier this week over €1 billion of investments in electric and hybrid vehicle production in France. On the data front, Italy's GDP will grow 0.7% this year, according to estimates."
-    },
-    {
-      "id": "mkt:019e9875-42f7-7665-8308-effc2a4a7ff2",
-      "time": "2026-06-05 23:44:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ireland imposes travel bans on two Israeli ministers】Irish media reported on May 5 Prime Minister Micheál Martin confirmed Justice Minister Jim O'Callaghan has imposed travel bans on Israeli national security minister Itamar Ben‑Gvir and finance minister Bezalel Smotrich. The government said both have played significant roles in the worsening humanitarian crisis in Gaza and that their statements and actions reflect an intent to remove Palestinians from Palestinian territories; immigration officers will be instructed to refuse them entry. The decision was agreed earlier this week without cabinet approval, and Martin called on the EU to consider additional sanctions. Martin and the foreign minister had earlier condemned Ben‑Gvir for posting a video viewed as insulting humanitarian workers."
-    },
-    {
-      "id": "mkt:019e9874-7a72-7665-8308-e487ad492a0e",
-      "time": "2026-06-05 23:43:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Two air leaks found in ISS Russian segment Zvezda service module】RIA on the 5th, citing Roscosmos, reported two air leaks in the Zvezda service module of the International Space Station's Russian segment. Crew used sealant to plug one leak and are preparing to seal the second. Cabin pressure remains stable and the crew's safety is not threatened."
-    },
-    {
-      "id": "4920178",
-      "time": "2026-06-05 23:42:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【國際空間站俄艙段“星辰”號服務艙內發現漏氣點】俄新社5日援引俄羅斯國家航天集團訊息報道，國際空間站俄羅斯艙段“星辰”號服務艙內發現兩處空氣洩漏點位，空間站的宇航員已使用密封膠封堵一處漏氣點，正準備對第二處漏氣點實施密封作業。 訊息稱，國際空間站內氣壓平穩，宇航員安全未受到威脅。(新華社)"
-    },
-    {
-      "id": "mkt:019e9873-b8dc-7665-8308-d86c8b390483",
-      "time": "2026-06-05 23:42:58",
-      "tags": [
-        "MKT News",
-        "BA.N"
-      ],
-      "text": "Boeing (BA.N) CEO said there are no new developments yet regarding the collapse of the nose landing gear on a Lufthansa aircraft."
     }
   ]
 }
