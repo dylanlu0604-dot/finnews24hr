@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-13 04:01:24",
-  "count": 18444,
+  "updated": "2026-06-13 04:05:16",
+  "count": 18448,
   "items": [
+    {
+      "id": "mkt:019ebd6f-bc73-7dd8-afe7-175b466697af",
+      "time": "2026-06-13 04:04:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities closed higher on Friday, June 12: the Dow Jones Industrial Average rose 353.51 points, or 0.70%, to 51,202.26; the S&P 500 gained 37.16 points, or 0.50%, to 7,431.46; the Nasdaq Composite added 79.18 points, or 0.31%, to 25,888.84."
+    },
+    {
+      "id": "4933404",
+      "time": "2026-06-13 04:03:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外長：伊美諒解備忘錄可能在幾天內簽署】據伊朗媒體12日報道，伊朗外長阿拉格齊表示，一旦伊美完成最後階段的談判，諒解備忘錄將立即簽署並公佈。第一階段將以遠端電子方式簽署，“這可能在未來幾天內發生”。 (新華社)"
+    },
+    {
+      "id": "mkt:019ebd6e-efc4-7dd8-afe7-08e87a0f451b",
+      "time": "2026-06-13 04:03:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says U.S.-Iran memorandum could be signed within days】Iranian media reported on the 12th that Foreign Minister Araghchi said a memorandum of understanding between Iran and the U.S. will be signed and published immediately once final-stage talks conclude. He said the first phase will be signed remotely by electronic means and could occur within days."
+    },
+    {
+      "id": "4933403",
+      "time": "2026-06-13 04:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐交所美國市場：TechCreate A類普通股交易將立即暫停。"
+    },
+    {
+      "id": "mkt:019ebd6d-3d6e-7dd8-afe7-02d1346a4415",
+      "time": "2026-06-13 04:01:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish",
+        "SPCE.N",
+        "Impact bearish",
+        "RKLB.O"
+      ],
+      "text": "【US close: SpaceX jumps 19% in trading debut】U.S. equities closed higher Friday: Dow Jones preliminary close +0.7%, S&P 500 +0.5%, Nasdaq Composite +0.3%. SpaceX (SPCX.O) rose 19% in its first day of trading to $160.90, valuing the company at $2.1 trillion and making it the sixth-largest U.S.-listed company. Other space-related stocks fell: Virgin Galactic (SPCE.N) down >30%, Rocket Lab (RKLB.O) down >10%. Arm (ARM.O) +11%, Intel (INTC.O) +6.5%. Nasdaq China Golden Dragon Index +0.4%."
+    },
+    {
+      "id": "4933402",
+      "time": "2026-06-13 04:01:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "ROKU股價收盤上漲20%，創2023年11月以來最大漲幅。"
+    },
+    {
+      "id": "4933401",
+      "time": "2026-06-13 04:01:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "ADOBE股價下跌6.7%，創3月13日以來最大跌幅，原因是首席財務官即將離職。"
+    },
     {
       "id": "4933400",
       "time": "2026-06-13 04:00:54",
@@ -169724,30 +169798,6 @@
         "國際"
       ],
       "text": "【美國消費者借貸再度強勁增加 創2022年以來最大連續兩月增幅】美國消費者借款4月再次強勁增加，創下2022年底以來最大的連續兩月增幅。美聯儲週五公佈的資料顯示，4月未償信貸總額增加207億美元，3月修正後為增加222億美元。接受媒體調查的經濟學家預估中值為增加177億美元。汽車貸款和學費貸款等非迴圈信貸4月增加91億美元。信用卡和其他迴圈信貸未償餘額增加116億美元。該報告不包括抵押貸款。隨著汽油價格上漲對收入造成更大擠壓，許多美國人正面臨額外財務壓力。儘管勞動力市場動能似乎正在增強，但工資增長正在放緩，這可能促使一些消費者舉債或依靠儲蓄來維持支出。對於揹負信用卡未清償餘額的美國人來說，這些賬戶的高利率可能構成相當大的財務負擔。最新可獲得資料顯示，截至2月，被收取利息得信用卡賬戶平均利率為21.5%。借款人短期內也不太可能獲得任何緩解。目前預計美聯儲將在年底前加息，以應對戰爭推動的通脹回升。"
-    },
-    {
-      "id": "4920363",
-      "time": "2026-06-06 04:04:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普維持瑞典主權信用評級 AAA/A-1+，評級展望穩定。"
-    },
-    {
-      "id": "4920362",
-      "time": "2026-06-06 04:03:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：伊拉克蘇萊曼尼亞傳出爆炸聲。"
-    },
-    {
-      "id": "4920361",
-      "time": "2026-06-06 04:01:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "半導體指數收盤下跌10%，創2020年3月以來最大跌幅。"
     }
   ]
 }
