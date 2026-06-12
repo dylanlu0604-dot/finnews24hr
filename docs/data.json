@@ -1,7 +1,168 @@
 {
-  "updated": "2026-06-12 10:03:20",
-  "count": 18450,
+  "updated": "2026-06-12 10:07:04",
+  "count": 18455,
   "items": [
+    {
+      "id": "4931621",
+      "time": "2026-06-12 10:06:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員表示，海峽航道通行仍在正常進行。"
+    },
+    {
+      "id": "4931620",
+      "time": "2026-06-12 10:06:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報8289.00點。"
+    },
+    {
+      "id": "mkt:019eb994-85ea-7dd8-afcf-7fc24a9e598c",
+      "time": "2026-06-12 10:06:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Tech Index up more than 2%; semiconductors, memory/storage, optical communications, brain-computer interfaces and commercial space sectors led gains."
+    },
+    {
+      "id": "4931619",
+      "time": "2026-06-12 10:06:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲4%，現報1300.00美元/盎司。"
+    },
+    {
+      "id": "4931618",
+      "time": "2026-06-12 10:06:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀金期貨突破1300美元/盎司，日內漲4.03%。"
+    },
+    {
+      "id": "mkt:019eb994-11cd-7dd8-afcf-77e6f8bf1321",
+      "time": "2026-06-12 10:05:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share robot actuator stocks rallied intraday; Keli Sensing jumped over 7%, with Guoji Jinggong, Buke Co., Shenkeda, Lvde Xiebo and Huawu Co. also gaining."
+    },
+    {
+      "id": "4931617",
+      "time": "2026-06-12 10:05:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國官員稱，伊朗似乎對途經霍爾木茲海峽的船舶發動了襲擊。"
+    },
+    {
+      "id": "4931616",
+      "time": "2026-06-12 10:05:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念震盪拉昇 東方精工漲停】人形機器人概念震盪拉昇，東方精工漲停，綠的諧波、天奇股份、德馬科技、中大力德、信質集團跟漲。"
+    },
+    {
+      "id": "4931615",
+      "time": "2026-06-12 10:05:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "東京海上控股社長表示，與伯克希爾哈撒韋的合作將推動公司實現淨利潤翻倍的目標。"
+    },
+    {
+      "id": "4931614",
+      "time": "2026-06-12 10:05:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "4931613",
+      "time": "2026-06-12 10:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞洲開發銀行警告：亞洲能源危機已處於“最壞”情景。"
+    },
+    {
+      "id": "mkt:019eb993-019f-7dd8-afcf-6b6a47970abb",
+      "time": "2026-06-12 10:04:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-shares digital media sector jumped; Fantuo Shuchuang rose nearly 17%, with Visual China, Zhidemai, Kunlun Wanwei, Chuanwang Media and Zhongwen Online also trading higher."
+    },
+    {
+      "id": "mkt:019eb992-f2e6-7dd8-afcf-64879f418889",
+      "time": "2026-06-12 10:04:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. officials said the U.S. military shot down two Iranian one-way attack drones."
+    },
+    {
+      "id": "4931612",
+      "time": "2026-06-12 10:04:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4749.080點；恒生指數現漲1.684%。"
+    },
+    {
+      "id": "4931611",
+      "time": "2026-06-12 10:04:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報8151.40點。"
+    },
+    {
+      "id": "4931610",
+      "time": "2026-06-12 10:03:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【物理AI概念震盪反彈 索辰科技觸及20cm漲停】物理AI概念盤中震盪反彈，索辰科技觸及20cm漲停，凡拓數創漲超15%，中望軟體、奧比中光、漢朔科技、雲從科技、能科科技跟漲。"
+    },
+    {
+      "id": "4931609",
+      "time": "2026-06-12 10:03:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度GIFT NIFTY指數報23,520.5點，較NIFTY 50指數上日收盤價23,161.6點上漲約1.5%。"
+    },
     {
       "id": "4931607",
       "time": "2026-06-12 10:02:17",
@@ -169992,119 +170153,6 @@
         "SSE Composite"
       ],
       "text": "China A-share photoresist sector rallied. Jianghua Micro hit an intraday record high. Laibotec and Baihehua reached daily limit-up; Nanda Optoelectronics, Shengke Nano, Anda Intelligent, Gaomeng New Materials and Aladdin also advanced."
-    },
-    {
-      "id": "4918501",
-      "time": "2026-06-05 10:06:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB概念震盪回升 金安國紀漲停續創歷史新高】PCB概念日內震盪回升，金安國紀漲停，續創歷史新高，宏和科技、銅冠銅箔、駿亞科技、國際復材、山東玻纖跟漲。"
-    },
-    {
-      "id": "4918500",
-      "time": "2026-06-05 10:06:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通銀行黑龍江省分行原副行長陳會一接受審查調查】中央紀委國家監委網站6月5日通報，據中央紀委國家監委駐交通銀行紀檢監察組、黑龍江省紀委監委訊息：交通銀行黑龍江省分行原黨委委員、副行長陳會一涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐交通銀行紀檢監察組紀律審查和黑龍江省牡丹江市監察委員會監察調查。"
-    },
-    {
-      "id": "4918499",
-      "time": "2026-06-05 10:05:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光刻膠板塊拉昇，百合花漲停】光刻膠板塊拉昇，江化微盤中創新高，萊伯泰科、百合花漲停，南大光電、勝科奈米、安達智慧、高盟新材、阿拉丁跟漲。"
-    },
-    {
-      "id": "4918498",
-      "time": "2026-06-05 10:05:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《國家人權行動計劃（2021－2025年）》181項任務指標全部完成】中國人權研究會、國家人權教育與培訓基地5日聯合釋出《〈國家人權行動計劃（2021－2025年）〉實施評估報告》。報告顯示，《國家人權行動計劃（2021－2025年）》得到全面實施，181項任務指標全部完成，總計44項約束性指標中有20項系提前或超額完成，中國人權保障水平全方位提升。"
-    },
-    {
-      "id": "4918497",
-      "time": "2026-06-05 10:05:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "4918496",
-      "time": "2026-06-05 10:04:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廈門海關原副關長、一級巡視員鄧光文接受審查調查】中央紀委國家監委網站6月5日通報，據中央紀委國家監委駐海關總署紀檢監察組、山西省紀委監委訊息：廈門海關原副關長、一級巡視員鄧光文涉嫌嚴重違紀違法，目前正在接受中央紀委國家監委駐海關總署紀檢監察組紀律審查和山西省運城市監察委員會監察調查。"
-    },
-    {
-      "id": "4918495",
-      "time": "2026-06-05 10:04:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "創業板指持續走強翻紅，早盤一度跌逾1%。"
-    },
-    {
-      "id": "mkt:019e9586-80a7-766c-9543-90ecf012f3b9",
-      "time": "2026-06-05 10:04:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "ChiNext index turned positive after earlier sliding more than 1% in early trade."
-    },
-    {
-      "id": "4918494",
-      "time": "2026-06-05 10:04:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股票指數下跌0.8%，至5,795.634點。"
-    },
-    {
-      "id": "mkt:019e9585-a77a-766c-9543-89c605ecdaff",
-      "time": "2026-06-05 10:03:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Wall Street Journal reports real-time satellite intelligence has made Ukrainian drone strikes more lethal."
-    },
-    {
-      "id": "mkt:019e9585-8339-766c-9543-80a71fb6107b",
-      "time": "2026-06-05 10:03:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)"
-      ],
-      "text": "The Wall Street Journal, citing sources, reported a Ukrainian team used satellite intelligence to destroy Russian assets worth billions of dollars."
-    },
-    {
-      "id": "mkt:019e9585-4a03-766c-9543-7adf0bdc4287",
-      "time": "2026-06-05 10:03:20",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "The Wall Street Journal reports commercial satellite operator Vantor and its customers say satellite imagery technology can cut the time to locate and strike targets by up to 90%."
     }
   ]
 }
