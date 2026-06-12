@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-12 13:38:34",
-  "count": 18392,
+  "updated": "2026-06-12 13:42:32",
+  "count": 18395,
   "items": [
+    {
+      "id": "mkt:019eba59-e78b-7dd8-afd3-11aee368dfc2",
+      "time": "2026-06-12 13:41:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China crude oil futures main contract (SC) plunged 6.11% to 550.2 yuan/barrel; low-sulfur fuel oil (LU) fell 4.59% to 4,508 yuan/ton; fuel oil dropped 4.30% to 3,609 yuan/ton; asphalt fell 1.40% to 4,442 yuan/ton."
+    },
+    {
+      "id": "4931882",
+      "time": "2026-06-12 13:41:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【膳魔師中國公佈召回方式】6月12日，膳魔師透過其官方微博發文稱，關於膳魔師中國對部分批次食物罐SK3000、SK3020無洩壓閥密封塞的主動召回事項，可按圖中指引聯絡客服登記申請免費換新。"
+    },
+    {
+      "id": "4931881",
+      "time": "2026-06-12 13:40:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中外科學家破解兩類主流系外行星演化之謎】近日，中外科學家基於國家重大科技基礎設施郭守敬望遠鏡（LAMOST）觀測的大樣本資料，並結合國外其他衛星和望遠鏡觀測資料，發現“超級地球”與“迷你海王星”在軌道偏心率與週期關係上遵循不同的規律，並從動力學上揭示了這兩類相近的行星族群經歷了不同的演化路徑。這項成果加深了科學界對行星系統多樣性的認識，也為人類完整認知系外行星的形成與演化拼出了更清晰的全景。相關成果6月12日在國際學術期刊《科學》發表。"
+    },
+    {
+      "id": "mkt:019eba58-7435-7dd8-afd3-0ad054358e66",
+      "time": "2026-06-12 13:40:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "Market sources: Following rallies in SK Hynix and Samsung Electronics shares, banks are restricting hedge funds from taking related positions."
+    },
+    {
+      "id": "4931880",
+      "time": "2026-06-12 13:40:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌6%，現報550.80元。"
+    },
+    {
+      "id": "4931879",
+      "time": "2026-06-12 13:39:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【創新藥概念震盪反彈 榮昌生物漲超10%】午後創新藥概念震盪反彈，榮昌生物漲超10%，益方生物、諾誠健華、百利天恆、翰宇藥業、迪哲醫藥等漲超5%。"
+    },
+    {
+      "id": "4931878",
+      "time": "2026-06-12 13:39:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股理想汽車-W午後拉昇，漲超8%。"
+    },
+    {
+      "id": "4931877",
+      "time": "2026-06-12 13:39:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯韃靼斯坦共和國扎卡姆斯克州州長稱，週五上午，該地區遭到大規模無人機襲擊。"
+    },
+    {
+      "id": "mkt:019eba57-01e2-7dd8-afd3-052089146114",
+      "time": "2026-06-12 13:38:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Czech National Bank governor Michl said the case for a June rate hike to curb inflationary pressure is stronger."
+    },
+    {
+      "id": "mkt:019eba56-d7f9-7dd8-afd2-fca9a3f4957e",
+      "time": "2026-06-12 13:38:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "KAZTRANSOIL said Kazakhstan exported oil to Germany in May."
+    },
+    {
+      "id": "mkt:019eba56-ce3c-7dd8-afd2-f52d30df795f",
+      "time": "2026-06-12 13:38:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "WTI"
+      ],
+      "text": "KAZTRANSOIL reported May oil exports of 395,000 tonnes via the CPC pipeline, 125,000 tonnes via the Baku‑Tbilisi‑Ceyhan pipeline, 301,000 tonnes via Russia’s Ust‑Luga port and 353,000 tonnes via Novorossiysk."
+    },
     {
       "id": "4931876",
       "time": "2026-06-12 13:36:44",
@@ -169496,82 +169597,6 @@
         "MKT News"
       ],
       "text": "Bank Indonesia spokesman said the central bank supports new legislation that affects its mandate."
-    },
-    {
-      "id": "4918806",
-      "time": "2026-06-05 13:42:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行發言人表示，央行在該法案的整個審議過程中都提供了意見。"
-    },
-    {
-      "id": "4918805",
-      "time": "2026-06-05 13:42:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行發言人表示，央行支援影響其職責許可權的新立法。"
-    },
-    {
-      "id": "4918804",
-      "time": "2026-06-05 13:41:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【並行科技等新設匯光智算投資合夥企業】企查查APP顯示，近日，深圳市匯光智算投資合夥企業（有限合夥）成立，經營範圍包含：以自有資金從事投資活動；資訊諮詢服務（不含許可類資訊諮詢服務）；企業管理諮詢等。企查查股權穿透顯示，該企業由並行科技全資子公司深圳市並行科技有限公司等共同出資。"
-    },
-    {
-      "id": "te:economy:556739",
-      "time": "2026-06-05 13:40:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Estonia Inflation Rate at 4-Month High — The annual inflation rate in Estonia rose to 3.7% in May 2026 from 3.4% in the previous month. This marked the highest reading since January, as prices increased faster for housing (5.4% vs 3.7% in April), transport (10.4% vs 9.2%), recreation and culture (4.2% vs 1.5%), information and communication (1.7% vs 1.0%), and restaurants and accommodation services (3.2% vs 3.1%). At the same time, deflation eased in clothing and footwear (-3.9% vs -4.3%) and insurance and financial services (-11.1% vs -11.8%). In contrast, inflation moderated in food and non-alcoholic beverages (0.9% vs 2.6%), alcohol and tobacco (8.1% vs 8.3%), household goods (1.5% vs 1.9%), miscellaneous goods and services (4.1% vs 4.7%), health (2.7% vs 2.8%), and education (5.3% vs 5.4%). On a monthly basis, consumer prices eased to 0.4% in May, following a 0.8% gain in April."
-    },
-    {
-      "id": "mkt:019e964b-b8a0-7aa9-a389-89cca94e05d8",
-      "time": "2026-06-05 13:40:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India's NIFTY Financial Services index rose 1.2%."
-    },
-    {
-      "id": "4918803",
-      "time": "2026-06-05 13:39:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度Nifty 50指數漲0.3%。"
-    },
-    {
-      "id": "mkt:019e964b-21d9-7aa9-a389-80d3fe30be5c",
-      "time": "2026-06-05 13:39:25",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share memory chip sector slid sharply; Shenghe Jingwei fell over 8%, while Jiangbolong, Baiwei Storage, Demingli, Shannon Xinchuang and Xiechuang Data also declined."
-    },
-    {
-      "id": "4918802",
-      "time": "2026-06-05 13:38:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【儲存晶片板塊震盪下挫，盛合晶微跌超8%】儲存晶片板塊震盪下挫，盛合晶微跌超8%，江波龍、佰維儲存、德明利、夏農芯創、協創資料紛紛下挫。"
     }
   ]
 }
