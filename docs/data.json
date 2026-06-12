@@ -1,7 +1,149 @@
 {
-  "updated": "2026-06-12 09:55:36",
-  "count": 18446,
+  "updated": "2026-06-12 09:59:22",
+  "count": 18452,
   "items": [
+    {
+      "id": "4931600",
+      "time": "2026-06-12 09:58:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量1951億元。"
+    },
+    {
+      "id": "4931599",
+      "time": "2026-06-12 09:58:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦炭連續主力合約日內漲4%，現報2087.00元。"
+    },
+    {
+      "id": "mkt:019eb98d-7e7a-7dd8-afcf-3ec805310f04",
+      "time": "2026-06-12 09:58:38",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share maritime equipment sector rose on volatile trade; Zhongke Haixun gained over 7%, while Songfa, Jianglong Shipbuilding, Tianhai Defense and Hailanxin also advanced."
+    },
+    {
+      "id": "mkt:019eb98c-bfda-7dd8-afcf-353207634da4",
+      "time": "2026-06-12 09:57:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "【China Merchants Bank raises Zhaocaijin precious‑metals maintenance margin to 120% from June 16】China Merchants Bank said it will raise the margin maintenance ratio for margin calls on its Zhaocaijin precious‑metals business to 120%, effective at settlement on the close of Tuesday, June 16, 2026, citing heightened domestic and international precious‑metals price volatility. Affected contracts: Ag(T+D), Au(T+D), mAu(T+D), Au(T+N1), Au(T+N2), NYAuTN06 and NYAuTN12."
+    },
+    {
+      "id": "4931598",
+      "time": "2026-06-12 09:57:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "周大福港股漲幅超15%。"
+    },
+    {
+      "id": "mkt:019eb98c-459f-7dd8-afcf-2805c2af339e",
+      "time": "2026-06-12 09:57:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Guangzhou draft commerce plan prioritises intelligent connected vehicles, NEVs, AI, semiconductors and low‑altitude economy for major project deployment】Guangzhou’s public consultation draft of the Commerce Development 15th Five‑Year Plan calls for accelerated landing of major projects in intelligent connected vehicles and new‑energy vehicles (NEVs), ultrahigh‑definition video and new displays, green petrochemicals and new materials, smart equipment and robotics, artificial intelligence, semiconductors and integrated circuits, and the low‑altitude economy, and for cultivation of high‑tech, manufacturing 'single champion' and specialized‑and‑innovative leading intermediate‑goods firms. The draft directs faster development of intermediate‑goods trade bases and cultivation of well‑known brands and chain‑leading enterprises, and supports firms’ digital transformation using industrial internet, big data and AI to raise production efficiency and product quality and to upgrade intermediate‑goods trade toward higher‑end, digital and intelligent segments."
+    },
+    {
+      "id": "4931597",
+      "time": "2026-06-12 09:57:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州：全力推進智慧網聯與新能源汽車、人工智慧、半導體及積體電路、低空經濟等重大專案的落地】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，全力推進智慧網聯與新能源汽車、超高畫質影片與新型顯示、綠色石化與新材料、智慧裝備與機器人、人工智慧、半導體及積體電路、低空經濟等重大專案的落地，培育一批高新技術、製造業單項冠軍、專精特新等龍頭中間品企業。推動外貿轉型升級基地加快發展中間品貿易，培育一批知名品牌、“鏈主”企業。支援企業利用工業網際網路、大資料、人工智慧等技術進行數字化改造，提升生產效率和產品質量，推動中間品貿易向高階化、數智化方向躍升。"
+    },
+    {
+      "id": "4931596",
+      "time": "2026-06-12 09:57:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：受強降雨影響 烏江、贛江等將有明顯漲水過程】從水利部瞭解到，據預報，今天（6月12日）至14日，西南東部南部、江南大部、華南大部等地將有一次移動性強降雨過程。長江上游支流烏江，洞庭湖水系沅江中游、湘江上中游，鄱陽湖水系贛江、撫河、信江、饒河；珠江流域西江及支流鬱江、柳江、桂江、賀江，北江，東江，韓江；福建閩江、甌江；松花江流域松花江吉林段、牡丹江等河流將出現明顯漲水過程；暴雨區內福建閩江支流富屯溪、建溪及貴州烏江支流野紀河、江西信江支流瀘溪水等中小河流可能發生超警以上洪水。水利部要求相關省份水利部門和流域管理機構密切關注天氣變化，科學精準排程骨幹水庫等防洪工程，全力保障人民群眾生命財產安全。"
+    },
+    {
+      "id": "4931595",
+      "time": "2026-06-12 09:56:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【招商銀行調整“招財金”業務合約追保保證金比例】6月12日，招商銀行釋出關於調整“招財金”業務合約追保保證金比例的通告。鑑於近期國內外貴金屬價格波動加劇，為防範市場風險、保護投資者權益，該行對招財金業務進行相關調整，具體通告如下：2026年6月16日（星期二）收盤清算時起，Ag(T+D)、Au(T+D)、mAu(T+D)、Au(T+N1)、Au(T+N2)、NYAuTN06、NYAuTN12等合約的追保保證金比例調整為120%。請投資者做好風險防範工作，合理控制倉位，理性投資。"
+    },
+    {
+      "id": "mkt:019eb98b-2426-7dd8-afcf-23e3d4990753",
+      "time": "2026-06-12 09:56:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share low-altitude economy sector rose; Zongshen Power and CITIC Offshore Helicopter hit the daily limit; Wanfeng Aowei, Chuangyuan Xinke and Suochen Technology also advanced."
+    },
+    {
+      "id": "4931594",
+      "time": "2026-06-12 09:55:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【通用航空概念持續走強，宗申動力、晨曦航空等多股漲停】通用航空概念持續走強，宗申動力、晨曦航空、中信海直漲停，中航高科、應流股份、萬豐奧威、安達維爾、洪都航空、天成自控等跟漲。"
+    },
+    {
+      "id": "mkt:019eb98a-90a3-7dd8-afcf-1c30e18fe425",
+      "time": "2026-06-12 09:55:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Localized moves in Guangdong: Zhujiang Piano jumped >7% intraday; Zhujiang Co. rose >3%. Guangzhou’s draft 15th Five-Year commerce development plan, published for public comment, proposes to support the Hong Kong Jockey Club’s Conghua racecourse and the Guangzhou International Horse Racing Development Center and to back regular racing schedules."
+    },
+    {
+      "id": "4931593",
+      "time": "2026-06-12 09:55:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "廣東板塊區域性異動，珠江鋼琴短線拉昇漲超7%，珠江股份漲超3%。"
+    },
+    {
+      "id": "mkt:019eb98a-5180-7dd8-afcf-17ae87085b97",
+      "time": "2026-06-12 09:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou: total retail sales of consumer goods to grow 5% annually during 15th Five-Year Plan】Guangzhou has released a draft commerce development plan for public consultation, aligning with national and provincial plans and setting four areas with 18 specific business-development targets through 2030. Key numeric targets: total retail sales of consumer goods to rise 5% a year during the 15th Five-Year Plan period; goods trade import‑export scale to grow 6% a year; service outsourcing contract execution to reach $24bn by 2030. The draft also defines 15 focused indicators tied to consumption, foreign trade, exhibitions, two‑way investment and ports — including online retail sales of above‑scale wholesale and retail firms, number of world‑class commercial districts, service trade import‑export, exhibition area of key venues and added foreign‑funded functional institutions — and sets qualitative mid‑to‑long‑term goals toward 2035."
+    },
+    {
+      "id": "4931592",
+      "time": "2026-06-12 09:55:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州：“十五五”期間社會消費品零售總額年均增長5%】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，本規劃充分銜接國家以及省市規劃建議、綱要，立足廣州增強國際商貿中心功能的現實路徑和需要，制定了到2030年的4方面18項具體商務發展指標。其中，社會消費品零售總額（“十五五”期間年均增長5%）、貨物貿易進出口規模（年均增長6%）、服務外包合同執行額（2030年達240億美元）等3個指標，納入市規劃綱要。此外，本規劃根據消費、外貿、會展、雙向投資、口岸等發展趨勢，制定了包括限上批零業網上零售額、世界級商圈數量、服務貿易進出口、重點展館展覽面積、新增外資功能性機構數量等15個重點、特色指標。同時，參照上位規劃做法，對2035年中遠期提出定性目標。"
+    },
     {
       "id": "te:markets:558523",
       "time": "2026-06-12 09:53:47",
@@ -169993,89 +170135,6 @@
         "09868.HK"
       ],
       "text": "Hong Kong-listed auto stocks weakened; Xpeng (09868.HK) fell over 3%, Nio-SW (09866.HK) fell over 22%, BAIC (01958.HK) and Geely (00175.HK) also declined."
-    },
-    {
-      "id": "mkt:019e9581-72e8-766c-9543-5d395c675654",
-      "time": "2026-06-05 09:59:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share small metals sector rallied briefly; Yian Technology jumped over 18%. Huayang New Material, Guocheng Mining, Jintian Titanium, China Rare Earth and Shenghe Resources also gained."
-    },
-    {
-      "id": "mkt:019e9581-5134-766c-9543-55315876a41b",
-      "time": "2026-06-05 09:59:00",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "A-share liquid-cooled server theme saw pockets of buying; Chunzhong Technology recorded a second consecutive daily limit-up, while Tenglong, Qiangrui Technology, Ningbo Jingda and Guanlong Energy-saving rose."
-    },
-    {
-      "id": "4918484",
-      "time": "2026-06-05 09:58:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【小金屬板塊短線拉昇】小金屬板塊短線拉昇，宜安科技漲超18%，華陽新材、國城礦業、金天鈦業、中國稀土、盛和資源等跟漲。"
-    },
-    {
-      "id": "4918483",
-      "time": "2026-06-05 09:58:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【液冷伺服器概念區域性活躍 淳中科技2連板】液冷伺服器概念區域性活躍，淳中科技2連板，騰龍股份、強瑞技術、寧波精達、冠龍節能跟漲。"
-    },
-    {
-      "id": "4918482",
-      "time": "2026-06-05 09:57:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞林吉特兌美元下跌0.5%，報4.028，創4月7日以來新低。"
-    },
-    {
-      "id": "4918481",
-      "time": "2026-06-05 09:56:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "幾內亞執政黨在議會 147 個席位中贏得 93 席。"
-    },
-    {
-      "id": "mkt:019e957f-0727-766c-9543-4bb639d357c7",
-      "time": "2026-06-05 09:56:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share fiber-optic sector rallied after volatile trading: FiberHome, Sanfu and Tefa Information hit daily limit-up; Wutong Holdings rose over 10%; Far East, Yongding and Yangtze Optical Fibre and Cable were among the top gainers."
-    },
-    {
-      "id": "4918480",
-      "time": "2026-06-05 09:56:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "光纖概念震盪拉昇，烽火通訊、三孚股份、特發資訊漲停，吳通控股漲超10%，遠東股份、永鼎股份、長飛光纖漲幅居前。"
-    },
-    {
-      "id": "4918479",
-      "time": "2026-06-05 09:55:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光學光電子板塊短線拉昇】光學光電子板塊短線拉昇，維信諾、沃格光電漲停，戈碧迦漲超10%，聯創電子、冠捷科技、緯達光電、聯得裝備、隆利科技等跟漲。"
     }
   ]
 }
