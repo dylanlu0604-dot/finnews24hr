@@ -1,7 +1,184 @@
 {
-  "updated": "2026-06-12 09:35:52",
-  "count": 18435,
+  "updated": "2026-06-12 09:39:34",
+  "count": 18441,
   "items": [
+    {
+      "id": "mkt:019eb97b-9730-7dd8-afce-986120e682ca",
+      "time": "2026-06-12 09:39:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share commercial aerospace sector rose sharply; Chuangyuan Xinke jumped over 19%, Longhua Technology and Lens Technology gained more than 10%, while Zhonghang Xifei and Taiyong Changzheng hit the daily trading limit, with Aerospace Development, Suochen Technology and Tianao Electronics also advancing. Reports say SpaceX has largely finalized its IPO allocations, with just over 20% of shares earmarked for retail investors."
+    },
+    {
+      "id": "4931558",
+      "time": "2026-06-12 09:38:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股儲存概念股走強 瀾起科技漲超7%】截至發稿，瀾起科技(06809.HK)漲7.07%，兆易創新(03986.HK)漲5.97%，偉仕佳傑(00856.HK)漲1.88%。"
+    },
+    {
+      "id": "4931557",
+      "time": "2026-06-12 09:38:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量1037億元。"
+    },
+    {
+      "id": "4931555",
+      "time": "2026-06-12 09:38:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金價格下跌逾1%，至每盎司4170.97美元。"
+    },
+    {
+      "id": "4931554",
+      "time": "2026-06-12 09:37:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光伏概念表現活躍 TCL中環直線漲停】光伏概念表現活躍，TCL中環直線漲停，邁為股份、鈞達股份、晶盛機電、東方日升跟漲。"
+    },
+    {
+      "id": "4931553",
+      "time": "2026-06-12 09:37:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色·鉬概念盤初活躍 金鉬股份、盛龍股份2連板】早盤有色·鉬概念活躍，金鉬股份、盛龍股份2連板，安泰科技漲停，洛陽鉬業、永杉鋰業漲幅靠前。"
+    },
+    {
+      "id": "4931552",
+      "time": "2026-06-12 09:37:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "4931551",
+      "time": "2026-06-12 09:37:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軍工裝備板塊短線走高，中航西飛漲停】軍工裝備板塊短線走高，中航西飛漲停，超卓航科、中航高科、航發科技、超卓航科、海特高新紛紛上揚。"
+    },
+    {
+      "id": "4931550",
+      "time": "2026-06-12 09:37:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進封裝概念持續走強，藍箭電子漲停】先進封裝概念持續走強，藍箭電子漲停，聯瑞新材、光力科技、正業科技、太極實業、華正新材、大港股份等跟漲。"
+    },
+    {
+      "id": "mkt:019eb979-d061-7dd8-afce-95716c2a77d5",
+      "time": "2026-06-12 09:37:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures topped $4,200/oz, up 2.10% on the day."
+    },
+    {
+      "id": "4931549",
+      "time": "2026-06-12 09:37:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【億緯鋰能首筆歐洲銀團貸款落地，將用於匈牙利動力電池生產設施建設和採購】6月12日，據滙豐訊息，滙豐於近期協助億緯鋰能組建了其在歐洲的首筆銀團貸款，為其匈牙利全資孫公司1.85億歐元長期貸款提供支援，用於匈牙利動力電池生產設施的建設和採購。該筆銀團貸款將用於在匈牙利新建一座大圓柱鋰離子電芯製造工廠，年產能預計30吉瓦時。該工廠將成為億緯鋰能在歐洲首個生產基地。"
+    },
+    {
+      "id": "mkt:019eb979-b36f-7dd8-afce-8d0fc069b5fa",
+      "time": "2026-06-12 09:37:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank Indonesia said it will continue consistent, moderate non-deliverable forward (NDF) intervention across offshore, onshore and spot markets to optimize measures stabilizing the rupiah."
+    },
+    {
+      "id": "mkt:019eb979-7c8b-7dd8-afce-86d30244724d",
+      "time": "2026-06-12 09:36:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share PCB-related stocks strengthened: Lianrui New Materials jumped over 14% and Meilian New Materials rose over 13%. Zhengye Technology, Tianzun Technology, Huazheng New Materials, Tongguan Copper Foil and Defu Technology also gained."
+    },
+    {
+      "id": "4931548",
+      "time": "2026-06-12 09:36:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "PCB概念股繼續走強，金安國紀5天4板，股價續創歷史新高，聯瑞新材、美聯新材、正業科技天準科技漲超10%。"
+    },
+    {
+      "id": "4931547",
+      "time": "2026-06-12 09:36:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉確診病例升至676例】剛果（金）衛生部11日釋出的疫情報告顯示，截至10日，該國本輪埃博拉疫情累計確診病例升至676例，其中136例死亡。 報告顯示，目前共有262名患者處於隔離或住院治療狀態，累計治癒32人。報告指出，疫情仍在社群內持續傳播，若不迅速採取公共衛生措施，疫情可能會突然出現“地理範圍上的擴大”。 非洲疾病預防控制中心主任卡塞亞當天線上上記者會上說，本輪埃博拉疫情波及範圍持續擴大，已成為非洲有記錄以來較大規模的埃博拉疫情之一。他表示，希望能夠阻止疫情進一步擴散，避免其發展為史上最嚴重的埃博拉疫情。 卡塞亞說，剛果（金）東部持續的武裝衝突給疫情監控、接觸者追蹤等工作帶來困難；烏干達的埃博拉疫情已經得到有效控制，目前沒有出現社群傳播的證據。 卡塞亞還表示，除埃博拉外，非洲還面臨霍亂、麻疹、猴痘等疫情挑戰，希望非洲各國能夠繼續加強各自衛生系統的韌性建設，減少公共衛生事件的發生。(新華社)"
+    },
+    {
+      "id": "4931546",
+      "time": "2026-06-12 09:36:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率下跌6個基點至3.81%。。"
+    },
+    {
+      "id": "4931545",
+      "time": "2026-06-12 09:36:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：將繼續透過在離岸、在岸及現貨市場進行持續且審慎的無本金交割遠期干預，最佳化印尼盧比穩定措施。"
+    },
+    {
+      "id": "4931544",
+      "time": "2026-06-12 09:35:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "智譜(02513.HK)漲超10%。"
+    },
+    {
+      "id": "mkt:019eb978-9729-7dd8-afce-7924d36bc01d",
+      "time": "2026-06-12 09:35:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "HK-listed Zhipu (02513.HK) shares rose over 10%."
+    },
     {
       "id": "mkt:019eb978-0fa6-7dd8-afce-756519bff1fc",
       "time": "2026-06-12 09:35:13",
@@ -169860,135 +170037,6 @@
         "CSI300"
       ],
       "text": "China A-share gaming sector climbed; Zhongqingbao hit the 20% daily up-limit, with Caesar Culture, Glacier Network, Yaoji Technology and 37 Interactive Entertainment also rising."
-    },
-    {
-      "id": "mkt:019e956e-e09d-7cc8-bdf1-dda542225d91",
-      "time": "2026-06-05 09:38:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF says it killed multiple senior Hamas security officials】The Israel Defense Forces and the Shin Bet said on the 4th that an evening airstrike in northern Gaza killed multiple senior members of Hamas’s security apparatus, including deputy security chief Hassan Labad and senior figures Asim Shubel, Abdullah Abu Kalub and Muhammad Abu Mak. Units from the IDF’s Southern Command remain deployed in the area and will continue operations to eliminate what the military called “direct threats.” Hamas has not yet commented."
-    },
-    {
-      "id": "4918449",
-      "time": "2026-06-05 09:38:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【遊戲板塊走高，中青寶20cm漲停】遊戲板塊走高，中青寶20cm漲停，凱撒文化、冰川網路、姚記科技、三七互娛跟漲。"
-    },
-    {
-      "id": "4918448",
-      "time": "2026-06-05 09:38:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "大金重工香港上市首日股價跌至至每股59.05港元。"
-    },
-    {
-      "id": "4918447",
-      "time": "2026-06-05 09:38:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "te:markets:556652",
-      "time": "2026-06-05 09:37:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Slide on Chip Selloff — The benchmark KOSPI declined nearly 5% to around 8,210 on Friday, extending losses for a second straight session and heading for its steepest weekly drop since late March amid a global semiconductor selloff. Chip stocks came under heavy pressure after disappointing results from Broadcom triggered a broad pullback in semiconductor shares worldwide. Sentiment was further pressured by escalating Middle East tensions after Hezbollah rejected a new ceasefire proposal in Lebanon and Israel signaled it would maintain its military presence, undermining efforts to advance a broader peace agreement involving Iran. This fueled risk aversion and concerns over potential disruptions to energy markets. Investors also continued to lock in profits following the market's recent record-setting rally, while foreign funds remained heavy net sellers. Samsung Electronics (-6.8%) and SK Hynix (-9.0%) led losses, alongside SK Square (-9.2%), Hyundai Motor (-6.6%), and LG Energy Solution (-3.2%)."
-    },
-    {
-      "id": "4918446",
-      "time": "2026-06-05 09:37:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打死哈馬斯安全機構多名高階成員】以色列國防軍與以色列國家安全總局（辛貝特）4日發表聯合宣告稱，以軍4日晚對加沙地帶北部實施空襲，打死巴勒斯坦伊斯蘭抵抗運動（哈馬斯）安全機構多名高階成員。 宣告稱，死者包括哈馬斯安全機構副負責人哈桑·拉巴德，以及另外三名哈馬斯高階成員阿西姆·舒貝爾、阿卜杜拉·阿布·卡盧卜和穆罕默德·阿布·馬克。 以軍表示，哈馬斯安全機構是負責保護哈馬斯高階領導人、維持內部通訊聯絡、協調高層會晤以及提供情報評估的核心秘密機構。被打死的人員是該機構的關鍵人物，在決策體系中發揮重要作用。他們近期參與重建哈馬斯組織架構，並協助其領導層策劃針對以色列及以軍的襲擊活動，因此被列為打擊目標。 以軍表示，隸屬其南方司令部的部隊目前仍部署在相關地區，並將繼續採取行動消除其所稱的“直接威脅”。 哈馬斯方面暫未就此作出回應。(新華社)"
-    },
-    {
-      "id": "mkt:019e956d-5f8a-7cc8-bdf1-d09d6d020e25",
-      "time": "2026-06-05 09:37:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Trump says US, India will reach trade deal; interim agreement details still being finalized】President Trump said he expects the US and India to reach a long-awaited trade deal after negotiators wrapped a new round of talks this week, telling reporters in the Oval Office he has a close relationship with Prime Minister Modi. India’s commerce ministry said both sides remain committed to a bilateral pact. In February the two sides agreed a first-phase framework, originally expected to be finalised in March; the proposed arrangement would subject Indian exports to an 18% tariff versus the 50% rate announced last year. The process stalled after the US Supreme Court struck down reciprocal tariffs, and New Delhi has urged Washington to drop its Section 301 probe and resolve the matter bilaterally."
-    },
-    {
-      "id": "mkt:019e956d-2928-7cc8-bdf1-c802d51143ef",
-      "time": "2026-06-05 09:36:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share consumer sector rallied, led by retail and food & beverage. Zhongbai Group and Bubugao hit daily limit-up; Jiugui Liquor, Bairun, Huiquan Beer, Yizhi Konjac and Huazi Industrial also advanced."
-    },
-    {
-      "id": "4918445",
-      "time": "2026-06-05 09:36:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念反覆活躍 特發資訊漲停】光纖概念反覆活躍，特發資訊漲停，永鼎股份、新能泰山、長飛光纖、通鼎互聯跟漲。"
-    },
-    {
-      "id": "4918444",
-      "time": "2026-06-05 09:36:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4918443",
-      "time": "2026-06-05 09:36:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【零售板塊短線衝高，中百集團、步步高觸及漲停】零售板塊短線衝高，中百集團、步步高觸及漲停，茂業商業、百大集團、東百集團、國芳集團、中國中免漲幅居前。"
-    },
-    {
-      "id": "4918442",
-      "time": "2026-06-05 09:36:18",
-      "tags": [
-        "行業",
-        "公司",
-        "國際"
-      ],
-      "text": "【中國成澳大利亞最大乘用車來源國 比亞迪電動汽車熱賣】中國已超越日本，成為澳大利亞最大的汽車供應國，比亞迪等公司的進口量加速增長至歷史新高，這主要得益於對電動汽車的需求。根據週四公佈的政府資料，4月份近3.6萬輛來自中國的乘用車抵達澳大利亞，遠超來自日本的2.9萬輛。這使得今年前四個月抵達澳大利亞的中國汽車數量超過10萬輛，比去年同期增長了51%。根據此前澳大利亞聯邦汽車工業商會的資料，5月份澳大利亞電動汽車和混合動力汽車的銷量幾乎佔汽車總銷量的一半，而比亞迪銷量居第二位，其市場份額在一年內增長了一倍以上。豐田仍然是最大的單一品牌。"
-    },
-    {
-      "id": "mkt:019e956c-5e0b-7cc8-bdf1-c116bb832617",
-      "time": "2026-06-05 09:36:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "A-share BC battery sector opened lower; Youyan New Materials fell more than 4%, Hengdian East Magnetics dropped over 3%, with Polymer Materials and Junda Co. also sliding."
     }
   ]
 }
