@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-13 02:26:18",
-  "count": 18424,
+  "updated": "2026-06-13 02:30:21",
+  "count": 18422,
   "items": [
+    {
+      "id": "4933299",
+      "time": "2026-06-13 02:29:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "秘魯主要股指上漲2%。"
+    },
+    {
+      "id": "mkt:019ebd18-2133-7dd8-afe5-68d8becc5ef6",
+      "time": "2026-06-13 02:28:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Peru's benchmark stock index rose 2%."
+    },
+    {
+      "id": "mkt:019ebd15-a033-7dd8-afe5-66ccf0af1eed",
+      "time": "2026-06-13 02:26:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【U.S. official: Iran commits to permanently forgoing nuclear weapons, U.S. insists on verification】A senior U.S. official told CNN that Iran has committed to permanently not seek or develop nuclear weapons, a concession Washington described as significant. The official said the deal is designed to establish verification and inspection mechanisms and to withhold benefits until the U.S. can verify Tehran has taken concrete steps to dismantle its nuclear program. Negotiators had discussed 10- or 20-year non‑weapons pledges; the official noted prior U.S. objections, including from Trump, that time‑limited bans were insufficient. The U.S. said it would permit Iran civilian nuclear energy but opposes infrastructure that could enable a weapons breakout."
+    },
     {
       "id": "te:markets:558791",
       "time": "2026-06-13 02:25:06",
@@ -169581,49 +169612,6 @@
         "The Trump Trade"
       ],
       "text": "White House: President Trump signed a directive on developing AI capabilities for national security."
-    },
-    {
-      "id": "te:markets:557002",
-      "time": "2026-06-06 02:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Sinks by 11.55% — Top crypto losers are Ether (-11.55%), Binance (-5.79%) and Bitcoin (-5.70%)."
-    },
-    {
-      "id": "4920284",
-      "time": "2026-06-06 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌1.86%，報584.10元人民幣/桶。滬金夜盤收跌2.93%，滬銀收跌7.43%。"
-    },
-    {
-      "id": "4920283",
-      "time": "2026-06-06 02:28:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios： 美國要求核領域專家待命，以備伊核相關談判啟動。 美國官員表示，田納西州的會面並不代表相關協議即將落地。"
-    },
-    {
-      "id": "4920282",
-      "time": "2026-06-06 02:28:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：美國將在 90 日內釋出武器系統自主化相關指令的修訂檔案。"
-    },
-    {
-      "id": "4920281",
-      "time": "2026-06-06 02:26:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 特朗普簽署一份面向國家安全領域人工智慧建設的行政指令。"
     }
   ]
 }
