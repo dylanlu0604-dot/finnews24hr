@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-13 03:53:39",
-  "count": 18450,
+  "updated": "2026-06-13 03:57:31",
+  "count": 18448,
   "items": [
+    {
+      "id": "mkt:019ebd68-6d0a-7dd8-afe6-f9bea3bfae11",
+      "time": "2026-06-13 03:56:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran deputy foreign minister Araghchi said if the final stage of negotiations is completed, the agreement would be signed remotely by both parties and then made public."
+    },
+    {
+      "id": "4933394",
+      "time": "2026-06-13 03:56:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：若最終階段談判完成，協議將由雙方遠端簽署並隨後公佈。"
+    },
+    {
+      "id": "mkt:019ebd65-b001-7dd8-afe6-f13d027628f2",
+      "time": "2026-06-13 03:53:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya, citing sources, reported a U.S. negotiating proposal would allow the Lebanese army to gradually return to areas south of the Litani River."
+    },
+    {
+      "id": "4933393",
+      "time": "2026-06-13 03:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉伯電視臺援引訊息人士訊息稱，美方談判將促成黎巴嫩軍隊逐步重返利塔尼河以南地區。"
+    },
     {
       "id": "4933392",
       "time": "2026-06-13 03:51:36",
@@ -169758,64 +169794,6 @@
         "Impact bearish"
       ],
       "text": "CFTC: In the week to June 2, US speculative traders increased net short positions in S&P 500 futures on CME by 38,113 contracts to 485,582, while asset managers trimmed net long positions by 23,807 contracts to 985,207."
-    },
-    {
-      "id": "mkt:019e995b-c837-7665-830d-5bcc786db110",
-      "time": "2026-06-06 03:56:29",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "CFTC: In the week to June 2, speculative traders increased net short positions in CBOT U.S. 2-year Treasury futures by 94,942 contracts to 1,350,188; U.S. 5-year net shorts rose 46,091 to 1,369,218; U.S. 10-year net shorts rose 41,621 to 829,575; ultra-long Treasury futures net shorts rose 27,868 to 287,710."
-    },
-    {
-      "id": "4920353",
-      "time": "2026-06-06 03:56:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會(CFTC)：截至6月2日當週，投機者將CBOT美國2年期國債期貨淨空頭持倉增加94,942手至1,350,188手，美國5年期國債期貨淨空頭持倉增加46,091手至1,369,218手，美國10年期國債期貨淨空頭持倉增加41,621手至829,575手，超長期國債期貨淨空頭持倉增加27,868手至287,710手。"
-    },
-    {
-      "id": "4920352",
-      "time": "2026-06-06 03:56:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數5日上漲】美元指數5日上漲。 衡量美元對六種主要貨幣的美元指數當天上漲0.65%，在匯市尾市收於100.07。 截至紐約匯市尾市，1歐元兌換1.15美元，低於前一交易日的1.16美元；1英鎊兌換1.33美元，低於前一交易日的1.34美元。 1美元兌換160.17日元，高於前一交易日的160.02日元；1美元兌換0.7962瑞士法郎，高於前一交易日的0.7892瑞士法郎；1美元兌換1.39加元，高於前一交易日的1.39加元；1美元兌換9.47瑞典克朗，高於前一交易日的9.37瑞典克朗。(新華社)"
-    },
-    {
-      "id": "4920351",
-      "time": "2026-06-06 03:55:02",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【原油：油價下跌 市場評估美伊和談進展與需求減弱跡象】原油價格下跌，交易員評估需求減弱跡象以及在重開霍爾木茲海峽方面鮮有進展的美伊和平談判。WTI下跌2.7%，收於每桶90美元上方；全球基準布倫特原油收於每桶93美元附近。由於地緣政治不確定性抑制風險偏好，兩大基準原油期貨的未平倉合約數量呈下降趨勢，從而放大了價格波動。儘管伊朗支援的黎巴嫩真主黨拒絕了美國斡旋的以黎停火協議，但美國總統唐納德·特朗普表示與伊朗的談判進展順利。黎巴嫩總統約瑟夫·奧恩在接受媒體採訪時表示，伊朗在與美國談判中把黎巴嫩當作“談判籌碼”，這是不可接受的。交易員還在關注全球範圍內需求遭到破壞的跡象，由於全球主要買家削減煉油廠開工率並限制出口，以應對伊朗戰爭的影響，未來數月的進口量可能持續低迷多家主要能源預測機構已經預計，今年全球石油需求增速可能罕見下滑。“全球需求破壞持續擴大，”BOK Financial Securities高階副總裁Dennis Kissler表示。“原油價格正試圖在供應趨緊、需求減弱以及最終達成和平協議機率仍然較高之間尋找平衡點。”"
-    },
-    {
-      "id": "4920350",
-      "time": "2026-06-06 03:54:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價5日下跌】國際油價5日下跌。 截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.5美元，收於每桶90.54美元，跌幅為2.69%；8月交貨的倫敦布倫特原油期貨價格下跌1.94美元，收於每桶93.09美元，跌幅為2.04%。(新華社)"
-    },
-    {
-      "id": "mkt:019e9959-49bc-7665-830d-53eb86e2284b",
-      "time": "2026-06-06 03:53:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CFTC: For the week to June 2, combined NYMEX and ICE natural gas futures net short positions fell 25,529 contracts to 15,892 contracts."
     }
   ]
 }
