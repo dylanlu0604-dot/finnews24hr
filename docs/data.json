@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-12 08:05:52",
-  "count": 18422,
+  "updated": "2026-06-12 08:09:43",
+  "count": 18415,
   "items": [
+    {
+      "id": "mkt:019eb928-1f00-7dd8-afcc-e3d690340769",
+      "time": "2026-06-12 08:07:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 hit 66,000 intraday, up 3.05%."
+    },
+    {
+      "id": "mkt:019eb927-febc-7dd8-afcc-d94098c972d9",
+      "time": "2026-06-12 08:07:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: ECB likely to pause hikes; limited upside for euro】CITIC Securities says the European Central Bank raised rates 25bps in June as expected, lowered growth forecasts for this year and next and raised inflation forecasts for both years. President Lagarde said the decision was unanimous and necessary, that the neutral rate was not discussed, and she expects inflation to return to target in H2 2027 while providing little forward guidance on the policy path. Derivatives markets price at least one more ECB hike this year, but CITIC expects the ECB will pause further tightening, sees limited room for further euro appreciation and says the dollar index should find support."
+    },
+    {
+      "id": "4931394",
+      "time": "2026-06-12 08:07:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本日經指數漲幅擴大至3%。"
+    },
+    {
+      "id": "4931393",
+      "time": "2026-06-12 08:07:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國交易所因KOSPI 200期貨漲幅達5%，啟動KOSPI指數側車制度，程式交易暫停5分鐘。"
+    },
+    {
+      "id": "4931392",
+      "time": "2026-06-12 08:06:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "日股日經指數高開高走，上漲超2%，全市場個股普漲。"
+    },
+    {
+      "id": "mkt:019eb927-2d64-7dd8-afcc-d74d61d7111a",
+      "time": "2026-06-12 08:06:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated an intraday suspension mechanism. Program trading in KOSPI 200 index futures was paused for 5 minutes after the contract rose 5%."
+    },
+    {
+      "id": "4931391",
+      "time": "2026-06-12 08:06:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲1.5%，報8,761.10點。"
+    },
     {
       "id": "4931390",
       "time": "2026-06-12 08:04:27",
@@ -21,6 +88,15 @@
         "Impact bullish"
       ],
       "text": "Japan's Nikkei index extends gains to 2.25%."
+    },
+    {
+      "id": "em:qqyh_mlc:202606123768944557",
+      "time": "2026-06-12 08:03:36",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲將在本輪操作週期內繼續購買約100億美元美國短期國庫券】美聯儲宣佈將在本輪操作週期內繼續購買約100億美元美國短期國庫券，與上個月規模保持一致。儘管當前貨幣市場執行平穩，決策層仍希望提前補充銀行體系流動性，以應對未來數月美國財政部融資需求增加可能帶來的資金壓力。"
     },
     {
       "id": "te:markets:558496",
@@ -169759,152 +169835,6 @@
         "國際"
       ],
       "text": "據日本放送協會（NHK）報道，日本計劃對老化核電站進行改造翻新，以提升電力供應能力。"
-    },
-    {
-      "id": "4918320",
-      "time": "2026-06-05 08:09:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元最新成交價為160。"
-    },
-    {
-      "id": "4918319",
-      "time": "2026-06-05 08:08:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國交易所因KOSPI 200期貨下跌5%而啟動KOSPI的熔斷機制，程式化交易暫停5分鐘。"
-    },
-    {
-      "id": "mkt:019e951c-5a14-7cc8-bdef-fd1141be9fec",
-      "time": "2026-06-05 08:08:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "TAKAICHI, Japan's prime minister, said yen depreciation has both advantages and disadvantages."
-    },
-    {
-      "id": "mkt:019e951c-0760-7cc8-bdef-f1b5b822fe87",
-      "time": "2026-06-05 08:08:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan's finance minister Katayama said yen volatility has been very high since the Iran war began in February, with speculative trading accounting for much of the movement."
-    },
-    {
-      "id": "4918318",
-      "time": "2026-06-05 08:08:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：自2月伊朗局勢升級以來，外匯波動率一直處於極高水平，投機性交易在日元的波動中佔了很大比重。"
-    },
-    {
-      "id": "mkt:019e951b-b6b7-7cc8-bdef-e9ad5a4e40f7",
-      "time": "2026-06-05 08:08:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said the joint statement with the US enables Japan to take decisive foreign-exchange action when necessary."
-    },
-    {
-      "id": "4918317",
-      "time": "2026-06-05 08:07:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本將向Rapidus追加投資1500億日元。"
-    },
-    {
-      "id": "4918316",
-      "time": "2026-06-05 08:07:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌1%至275.85點。"
-    },
-    {
-      "id": "mkt:019e951b-6c28-7cc8-bdef-e6639ba7e709",
-      "time": "2026-06-05 08:07:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Japan's finance minister Katayama Satsuki said market volatility has been very elevated since the Strait of Hormuz was effectively closed."
-    },
-    {
-      "id": "4918315",
-      "time": "2026-06-05 08:07:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "早盤交易中，澳大利亞標普/澳證200指數下跌0.2%，報8670.10點。"
-    },
-    {
-      "id": "mkt:019e951b-3fb1-7cc8-bdef-dc6db96a600e",
-      "time": "2026-06-05 08:07:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Commodities",
-        "Energy",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "Japan's finance minister Katayama said the Middle East conflict and oil-price volatility were also factors behind the yen's weakness."
-    },
-    {
-      "id": "4918314",
-      "time": "2026-06-05 08:07:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財政大臣片山皐月：自霍爾木茲海峽實際關閉以來，市場波動一直非常劇烈。"
-    },
-    {
-      "id": "4918313",
-      "time": "2026-06-05 08:06:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：美日外匯宣告允許採取大膽行動。"
-    },
-    {
-      "id": "4918312",
-      "time": "2026-06-05 08:06:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "片山皋月：原油價格波動對外匯市場的影響很大。"
-    },
-    {
-      "id": "mkt:019e9519-c9d2-7cc8-bdef-d34c61304c12",
-      "time": "2026-06-05 08:05:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Japan real wages rise for fourth consecutive month, bolstering Bank of Japan case for rate hike】Japan's inflation-adjusted real wages rose 1.9% YoY in the latest report, marking a fourth consecutive monthly increase and the longest streak in four years, the Ministry of Health, Labour and Welfare said on Friday. The print exceeded economists' 1.7% forecast and accelerated from a revised 1.4% the prior month. Nominal wages climbed 3.5% YoY (consensus 3.1%); base wages rose 3.4%. A Bank of Japan–watched, lower-sampling-bias gauge for full-time workers increased 2.6%. The readings point to continued underlying wage momentum and strengthen the Bank of Japan's case for a rate hike."
     }
   ]
 }
