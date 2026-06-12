@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-13 02:18:24",
-  "count": 18429,
+  "updated": "2026-06-13 02:22:26",
+  "count": 18427,
   "items": [
+    {
+      "id": "mkt:019ebd11-b0c8-7dd8-afe5-5e7e748bcf0b",
+      "time": "2026-06-13 02:21:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Refinitiv: UAE agrees to unfreeze tens of billions of dollars for Iran】Refinitiv sources say the UAE has agreed to unfreeze between $10 bln and $20 bln of Iranian funds after weeks of Iranian strikes on the UAE and amid wider US–Israel clashes with Iran. One source said the UAE will release $10 bln in total, with more than $3 bln already delivered; another put the total at $20 bln. The arrangement is reported to be contingent on Iran halting missile and drone attacks on the UAE; Tehran’s last direct strike on the UAE was May 4. Sources say the deal includes restoring bilateral relations, including intelligence-sharing and economic cooperation, and that Iran has approached at least two other Gulf Arab states about similar arrangements. Officials framed the move as a way for Iran to claim wartime compensation while allowing Washington to assert it made no payments and for the UAE to secure its safety and protect Dubai’s hub status."
+    },
+    {
+      "id": "te:markets:558790",
+      "time": "2026-06-13 02:20:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Gains by 2.96% — Top commodity gainers are Copper (2.96%), Platinum (2.77%), Lithium Carbonate (2.40%) and Gold (0.38%)."
+    },
+    {
+      "id": "mkt:019ebd0e-55b0-7dd8-afe5-577d86cbc610",
+      "time": "2026-06-13 02:18:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TASNIM NEWS: Iran's foreign minister Araghchi will appear on tonight's Special News Dialogue program; exact airtime unknown."
+    },
     {
       "id": "4933298",
       "time": "2026-06-13 02:17:12",
@@ -169627,54 +169656,6 @@
         "其他"
       ],
       "text": "據Axios：威特科夫與庫什納週四前往田納西州國家實驗室，同核能專家舉行會晤。"
-    },
-    {
-      "id": "te:markets:557000",
-      "time": "2026-06-06 02:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Tumbles by 7.39% — Top commodity losers are Silver (-7.39%), Platinum (-6.31%), Copper (-4.13%) and Gold (-3.32%)."
-    },
-    {
-      "id": "mkt:019e9902-afef-7665-830b-df7f69ed28a4",
-      "time": "2026-06-06 02:19:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Meta Platforms (META.O) shares fell more than 6%."
-    },
-    {
-      "id": "4920279",
-      "time": "2026-06-06 02:18:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌7%，現報16529.00元。"
-    },
-    {
-      "id": "mkt:019e9902-72f6-7665-830b-d5da70ce84c9",
-      "time": "2026-06-06 02:18:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Air Canada and WestJet have indefinitely suspended flights to Cuba, Global Mail reports."
-    },
-    {
-      "id": "mkt:019e9902-5d30-7665-830b-ce2a73f0fe19",
-      "time": "2026-06-06 02:18:47",
-      "tags": [
-        "MKT News",
-        "WBD.O",
-        "Impact bearish",
-        "PSKY.O"
-      ],
-      "text": "Warner Bros. Discovery (WBD.O) shares extended losses, down 3%; Paramount (PSKY.O) losses widened to 7.6%."
     }
   ]
 }
