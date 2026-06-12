@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-12 07:58:15",
+  "updated": "2026-06-12 08:02:00",
   "count": 18421,
   "items": [
+    {
+      "id": "4931387",
+      "time": "2026-06-12 08:01:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲超過8%。"
+    },
+    {
+      "id": "4931386",
+      "time": "2026-06-12 08:01:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲逾9%。"
+    },
+    {
+      "id": "4931385",
+      "time": "2026-06-12 08:01:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受晶片股飆升提振，韓國綜合股價指數上漲6.5%。"
+    },
+    {
+      "id": "4931384",
+      "time": "2026-06-12 08:00:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.6%至268.73點。"
+    },
+    {
+      "id": "4931383",
+      "time": "2026-06-12 08:00:39",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲6.4%，至8263.85點。"
+    },
+    {
+      "id": "4931382",
+      "time": "2026-06-12 08:00:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報65176.23點，漲幅1.49%。"
+    },
+    {
+      "id": "te:economy:558495",
+      "time": "2026-06-12 08:00:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Bond Yield Hits 14-week Low — Australia 10 Year Government Bond Yield decreased to 4.83%, the lowest since March 2026. Over the past 4 weeks, Australia 10Y Bond Yield lost 20.50 basis points, and in the last 12 months, it increased 58.70 basis points."
+    },
+    {
+      "id": "4931381",
+      "time": "2026-06-12 08:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報88.88美元/桶。"
+    },
+    {
+      "id": "mkt:019eb91f-84ff-7dd8-afcc-ae8cb3d05d50",
+      "time": "2026-06-12 07:58:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Trump says war with Iran 'over'; Iran has not confirmed】On the 11th (US ET), Trump said the US had \"ended\" the war with Iran, claiming both sides agreed a \"very strong memorandum of understanding\" to stop fighting and that Iran agreed never to possess nuclear weapons, adding the deal was \"95%\" complete. He cancelled planned further strikes earlier and posted on Truth Social suggesting an agreement had been reached but gave no terms. Iran has not confirmed any agreement."
+    },
     {
       "id": "4931380",
       "time": "2026-06-12 07:57:00",
@@ -169803,86 +169888,6 @@
         "Nikkei 225"
       ],
       "text": "【South Korea stocks open sharply lower】South Korea's KOSPI opened down 372.6 points (-4.31%) at 8,266.81. Samsung Electronics -5%, SK Hynix -7%. Japan's Nikkei 225 opened down 486.82 points (-0.72%) at 66,983.87."
-    },
-    {
-      "id": "4918305",
-      "time": "2026-06-05 08:01:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌5%。"
-    },
-    {
-      "id": "4918304",
-      "time": "2026-06-05 08:01:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌4%，至8291.15點。"
-    },
-    {
-      "id": "4918303",
-      "time": "2026-06-05 08:01:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "首爾股市綜合股價指數（KOSPI）下跌4%。"
-    },
-    {
-      "id": "4918302",
-      "time": "2026-06-05 08:01:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【查獲數千份假證、近6000枚假章 公安部公佈5起典型案例】黨政機關、企事業單位官方網站是資訊公開、便民服務的重要視窗，也是群眾信任的權威資訊來源和辦事渠道。一些不法人員為謀取非法利益，透過“以假亂真”手段仿冒假冒官方網站，從事虛假認證、製售假證、網路詐騙、竊取個人資訊等各類違法犯罪活動，嚴重擾亂社會公共秩序，損害人民群眾合法權益。 公安機關網安部門針對仿冒假冒網站違法犯罪，始終保持高壓嚴打態勢，依法偵辦查處一批非法利用資訊網路搭建仿冒假冒網站違法犯罪案件。今日，公安部網安局公佈5起仿冒假冒網站違法犯罪典型案例。"
-    },
-    {
-      "id": "4918301",
-      "time": "2026-06-05 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌3.7%，至8323.20點。"
-    },
-    {
-      "id": "4918300",
-      "time": "2026-06-05 08:00:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報67115.00點，跌幅0.53％。韓國綜合股價指數（KOSPI）開盤下跌3.7％，至8323.20點。"
-    },
-    {
-      "id": "4918299",
-      "time": "2026-06-05 07:59:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局公佈傳統工藝市場“打假清源”典型案例 】記者6月4日獲悉，2026年以來，市場監管部門以珠寶玉石、貴金屬飾品、紅木製品等傳統工藝品為重點，開展“打假清源”專項行動，依法查辦了一批違法違規案件。國家市場監督管理總局當日對外公佈了一批典型案例。"
-    },
-    {
-      "id": "te:economy:556613",
-      "time": "2026-06-05 07:59:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Foreign Exchange Reserves",
-        "Importance 2"
-      ],
-      "text": "Japan Forex Reserves Hit 10-Month Low — Japan’s foreign reserves fell by USD 77.11 billion to USD 1.31 trillion at the end of May 2026 from USD 1.38 trillion in the previous month, reaching their lowest level since July last year. Foreign currency reserves declined to USD 1.09 trillion, consisting of USD 931.68 billion in securities and USD 162.24 billion in deposits. Of the deposits, USD 161.80 billion were held with foreign central banks and the BIS, while deposits with banks headquartered in Japan totaled USD 410 million. The IMF reserve position stood at USD 11.51 billion, SDR holdings were valued at USD 60.89 billion, and gold reserves amounted to USD 123.65 billion. Other reserve assets totaled USD 15.91 billion, while other foreign currency assets stood at USD 34.50 billion. The sharp decline likely reflected Japan's large-scale yen-buying intervention during the month. The Ministry of Finance recently confirmed that authorities spent a record of JPY 11.7 trillion supporting the currency between late April to May 28."
-    },
-    {
-      "id": "4918298",
-      "time": "2026-06-05 07:58:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【巴克萊稱AI還不會取代信貸對沖基金交易員 僅7%投資人預期大裁員】巴克萊銀行一項調查顯示，避險基金與資產管理公司在投資全球信貸市場時愈來愈多使用AI，但至少目前而言，這項技術尚未取代人類交易員。調查發現，AI已經超越實驗性、零散應用的階段，在各類投資人之間逐步普及。不過，其主要用途仍集中於研究、證券篩選及分析，扮演的是輔助角色，而非取代人類判斷。策略師Zornitsa Todorova和Andrea Diaz Lafuente在週四的一份報告中寫道，整體而言，AI料將重塑角色與工作流程，而非在短期內大幅削減人力。他們指出，主流觀點認為，在員工人數基本上保持穩定的前提下，生產力會更高。巴克萊銀行上個月調查北美、歐洲、中東和非洲以及亞洲410位買方機構投資人，僅7%的受訪者預計會出現大規模裁員。"
     }
   ]
 }
