@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-13 03:25:32",
-  "count": 18396,
+  "updated": "2026-06-13 03:29:33",
+  "count": 18402,
   "items": [
+    {
+      "id": "4933345",
+      "time": "2026-06-13 03:28:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月9日當週，芝加哥期貨交易所（CBOT）玉米投機頭寸轉為淨空頭，淨空頭持倉為93,986手，較此前減少97,313手。"
+    },
+    {
+      "id": "4933344",
+      "time": "2026-06-13 03:28:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月9日當週，洲際交易所（ICE）棉花投機者將淨多頭頭寸削減12460手，至52338手。"
+    },
+    {
+      "id": "4933343",
+      "time": "2026-06-13 03:28:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月9日當週，洲際交易所（ICE）可可期貨投機客將淨空頭頭寸增加4120手，至31142手。"
+    },
+    {
+      "id": "4933342",
+      "time": "2026-06-13 03:28:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至6月9日當週，芝加哥期貨交易所（CBOT）小麥投機者將淨空頭頭寸增加9083手，至84935手。"
+    },
+    {
+      "id": "4933341",
+      "time": "2026-06-13 03:28:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：協議包括兩個階段，我們已將核問題移至第二階段。"
+    },
+    {
+      "id": "4933340",
+      "time": "2026-06-13 03:27:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：菲律賓薩蘭甘尼以南 63 公里處發生 5.2 級地震。"
+    },
+    {
+      "id": "4933339",
+      "time": "2026-06-13 03:27:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會起訴新墨西哥州，尋求阻止該州對CFTC註冊合約市場適用州博彩法規。"
+    },
+    {
+      "id": "4933338",
+      "time": "2026-06-13 03:27:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【本週芝加哥玉米期貨跌約1.2%，豆粕累跌超2.1%，羅布斯塔咖啡累漲超8.9%】週五（6月12日）紐約尾盤，彭博穀物分類指數跌0.10%，報29.3019點，本週累計下跌0.29%，6月10日美股盤前曾漲至29.8885點。本週，CBOT玉米期貨累跌1.18%，報4.4075美元/蒲式耳。CBOT小麥期貨累漲0.97%，報5.9650美元/蒲式耳。CBOT大豆期貨累跌0.42%，報11.3275美元/蒲式耳，豆粕期貨累跌2.12%整體持續走低，豆油期貨累跌1.98%。CBOT瘦肉豬期貨累跌1.03%，活牛期貨累跌0.29%，飼牛期貨累漲0.89%。ICE原糖期貨累跌3.11%，ICE白糖期貨累跌0.49%。ICE阿拉比卡咖啡期貨累漲4.48%、6月9日重新整理日內低點之後持續上揚，咖啡“C”期貨累漲4.83%。羅布斯塔咖啡期貨累漲8.94%。紐約可可期貨累漲1.20%，報3886美元/噸。倫敦可可期貨累漲0.17%。芝加哥WCE雙低油菜籽期貨累漲0.20%。ICE棉花期貨累跌1.26%。"
+    },
+    {
+      "id": "4933337",
+      "time": "2026-06-13 03:26:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長： 如果我們打算屈服於攻擊我們基礎設施的威脅，我們早就這麼做了。 我們向對方發出資訊，威脅會產生相反的效果，如果他們想走向戰爭，我們已經準備好了。"
+    },
+    {
+      "id": "mkt:019ebd4c-ca76-7dd8-afe6-4cbea3327236",
+      "time": "2026-06-13 03:26:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi said the end of the war in Lebanon would mean Israel withdraws from occupied territories."
+    },
+    {
+      "id": "4933336",
+      "time": "2026-06-13 03:26:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "KOOTENAY報告COLUMBA銀礦專案發生事故。"
+    },
+    {
+      "id": "4933335",
+      "time": "2026-06-13 03:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：黎巴嫩戰爭的終結意味著以色列必須撤出所有被佔領土。"
+    },
+    {
+      "id": "mkt:019ebd4c-4f46-7dd8-afe6-434d98ac98be",
+      "time": "2026-06-13 03:25:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The White House issued a presidential national security memorandum setting cybersecurity governance principles and directing the establishment of a related governance framework across the national security system."
+    },
+    {
+      "id": "4933334",
+      "time": "2026-06-13 03:25:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長： 在這份協議中，美國將以書面形式宣告其尊重伊朗的主權。 諒解備忘錄包括核問題、制裁解除、重建以及被凍結/封鎖的資金。"
+    },
     {
       "id": "mkt:019ebd4b-608a-7dd8-afe6-3e5bf463b00f",
       "time": "2026-06-13 03:24:54",
@@ -169254,81 +169371,6 @@
         "國際"
       ],
       "text": "美國商品期貨交易委員會（CFTC）：6月2日當週，投機者所持COMEX黃金淨多頭頭寸增加14,410手合約，至111,341手合約，創18周新高。投機者所持NYMEX WTI原油淨多頭頭寸增加8,497手合約，至124,259手合約。"
-    },
-    {
-      "id": "te:economy:557005",
-      "time": "2026-06-06 03:29:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Consumer Credit",
-        "Importance 1"
-      ],
-      "text": "US Consumer Credit Growth Beats Forecasts — Total US consumer credit increased by $20.7 billion in May 2026, following a downwardly revised $22.3 billion gain in April and exceeding market expectations for an $18 billion increase. Revolving credit, which includes credit card debt, rose to $1.31 trillion from $1.30 trillion in the previous month, indicating continued growth in short-term consumer borrowing. Meanwhile, nonrevolving credit, which includes auto and student loans, increased to $3.76 trillion from $3.74 trillion. The data pointed to sustained consumer demand for credit despite elevated borrowing costs and a high interest-rate environment."
-    },
-    {
-      "id": "4920338",
-      "time": "2026-06-06 03:29:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【本週芝加哥玉米期貨跌超6.4%，大豆累跌超5.4%，咖啡累跌超7%】週五（6月5日）紐約尾盤，彭博穀物分類指數跌0.84%，報29.3870點，本週累計下跌5.61%，整體平滑地持續下挫。CBOT玉米期貨跌1.53%，報4.18美元/蒲式耳，本週累跌6.44%。CBOT小麥期貨跌0.22%，報5.8025美元/蒲式耳，本週累跌4.95%。CBOT大豆期貨跌0.63%，報11.2225美元/蒲式耳，本週累跌5.44%，豆粕期貨累跌6.40%，豆油期貨累跌4.61%。CBOT瘦肉豬期貨累跌0.80%，活牛期貨累漲1.01%，飼牛期貨累漲1.52%。ICE原糖期貨累漲0.43%，ICE白糖期貨累漲1.85%。ICE阿拉比卡咖啡期貨累跌7.13%，咖啡“C”期貨累跌7.24%。羅布斯塔咖啡期貨累跌3.32%。紐約可可期貨累跌4.56%，報3744美元/噸。倫敦可可期貨累跌1.60%。芝加哥WCE雙低油菜籽期貨累跌0.92%，整體衝高回落。ICE棉花期貨累跌2.90%。"
-    },
-    {
-      "id": "mkt:019e9941-89c1-7665-830d-030c9a855108",
-      "time": "2026-06-06 03:27:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Bailey, governor of the Bank of England, said on AI that past experience shows innovation takes time to affect growth."
-    },
-    {
-      "id": "4920337",
-      "time": "2026-06-06 03:27:40",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：現有資源大機率不足以在全行業普及人工智慧應用。"
-    },
-    {
-      "id": "4920336",
-      "time": "2026-06-06 03:27:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利談及人工智慧：過往經驗表明，創新需要一段時間才能拉動經濟增長。"
-    },
-    {
-      "id": "4920335",
-      "time": "2026-06-06 03:27:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國發布鋁、鋼、銅三類商品關稅徵管細則指引。"
-    },
-    {
-      "id": "4920334",
-      "time": "2026-06-06 03:26:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "市場訊息：西班牙首相桑切斯表示將支援央行行長貝拉德的任職。"
-    },
-    {
-      "id": "4920333",
-      "time": "2026-06-06 03:26:01",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【現貨黃金抹去今年漲幅 非農就業資料提振美聯儲加息預期】現貨黃金抹去今年漲幅，因為強勁的美國就業資料提振市場對美聯儲今年可能加息的押注，而加息不利於這種貴金屬。在最新美國資料顯示5月就業增長超過所有預期後，債券收益率和美元走高，現貨金價週五一度下跌3.6%，至每盎司4,315.35美元，回吐今年以來漲幅。中東緊張局勢推高能源價格之際，勞動力市場的強勁表現強化了市場對美聯儲官員加息的預期。加息通常不利於無息資產黃金。“實際收益率上升和美元走強，給黃金帶來雙重阻力，”Brown Brothers Harriman & Co.全球市場策略主管Elias Haddad表示。Haddad稱，若跌破廣受關注的長期動能指標 —— 200日移動均線，金價將面臨進一步下跌風險。"
     }
   ]
 }
