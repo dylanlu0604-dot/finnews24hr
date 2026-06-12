@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-13 06:02:17",
-  "count": 18406,
+  "updated": "2026-06-13 06:06:07",
+  "count": 18401,
   "items": [
+    {
+      "id": "4933468",
+      "time": "2026-06-13 06:01:53",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美債交易員下調美聯儲2026年加息押注 因市場寄望和平協議】隨著市場對伊朗戰爭結束的樂觀情緒升溫，美債市場本週收官之際，交易員押注美聯儲將在明年初加息。週五下午，利率互換交易顯示，交易員目前預計，到2027年1月，加息25個基點的可能性為100%；而此前他們押注會在今年加息。這一轉變發生之前，資料顯示美國核心通脹上月以相對溫和的速度加快，美國原油價格跌破每桶85美元，美國總統唐納德·特朗普宣稱與伊朗達成和平協議取得進展。“霍爾木茲海峽可能重新開放的跡象以及油價下跌，一直是推動市場的關鍵敘事，”HSBC Securities美國利率策略師Dhiraj Narula表示，“這些因素在一定程度上推遲了對加息時間的預期。”"
+    },
     {
       "id": "4933467",
       "time": "2026-06-13 06:00:04",
@@ -169351,60 +169361,6 @@
         "國際"
       ],
       "text": "市場訊息：美方官員在 X 平臺發文稱有伊朗無人機駛向霍爾木茲海峽。"
-    },
-    {
-      "id": "4920454",
-      "time": "2026-06-06 06:04:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美方擊落至少 3 架駛向霍爾木茲海峽的伊朗無人機。"
-    },
-    {
-      "id": "mkt:019e99d0-eccf-7665-830e-431ffddd8b3b",
-      "time": "2026-06-06 06:04:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "Trump said most of Iran's drone factories, launch sites and missile-manufacturing facilities have been destroyed."
-    },
-    {
-      "id": "mkt:019e99d0-63c9-7665-830e-3c3244820682",
-      "time": "2026-06-06 06:03:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump said U.S. forces have thoroughly destroyed their military in the conflicts to date, but Iran still retains some missiles and drones."
-    },
-    {
-      "id": "4920453",
-      "time": "2026-06-06 06:03:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗半官方媒體否認哈爾克島傳來爆炸聲的相關報道，稱該訊息不實。"
-    },
-    {
-      "id": "mkt:019e99cf-b002-7665-830e-36834f316bf2",
-      "time": "2026-06-06 06:03:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Iran has no choice, but it will take some time."
-    },
-    {
-      "id": "mkt:019e99ce-f975-7665-830e-281c863c8f70",
-      "time": "2026-06-06 06:02:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Iran's leaders have not agreed to end the current war with the United States because they are \"tough\" and \"arrogant\", but that ultimately \"they have no choice\" and must reach an agreement."
     }
   ]
 }
