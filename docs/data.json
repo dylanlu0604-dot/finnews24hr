@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-12 10:22:35",
-  "count": 18467,
+  "updated": "2026-06-12 10:26:29",
+  "count": 18466,
   "items": [
+    {
+      "id": "te:economy:558544",
+      "time": "2026-06-12 10:25:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Decline — The yield on the US 10-year Treasury note hovered around 4.47% on Friday after dropping about 10 basis points in the previous session, as President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe. His comments sparked a sharp fall in oil prices, easing concerns over persistent inflation and the prospect of central bank interest rate hikes. Meanwhile, data released on Thursday showed US producer prices rose 6.5% year-on-year in May, the highest level since November 2022 and slightly above expectations of 6.4%, highlighting the growing impact of the Middle East energy shock. Coupled with earlier figures showing consumer inflation accelerated to a three-year high, the latest PPI data is likely to reinforce expectations that the Federal Reserve could raise interest rates this year."
+    },
+    {
+      "id": "4931654",
+      "time": "2026-06-12 10:25:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "眾擎機器人據悉將向港交所提交IPO申請。"
+    },
+    {
+      "id": "mkt:019eb9a5-ba4f-7dd8-afcf-c554142c2959",
+      "time": "2026-06-12 10:25:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "China A-share copper-clad laminate sector firmed; Yihao New Material rose over 19%, Tongguan Copper Foil gained more than 12%, Jin'an Guoji hit the daily trading limit. Fangbang Co., Baoding Technology, Nanya New Material, Huazheng New Material and Shengyi Technology also advanced."
+    },
+    {
+      "id": "4931653",
+      "time": "2026-06-12 10:23:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪反彈 華明裝備漲停】電網裝置板塊盤中震盪反彈，華明裝備漲停，此前泰永長征漲停，科林電氣、中熔電氣、三星電氣、安靠智電等跟漲。"
+    },
+    {
+      "id": "4931652",
+      "time": "2026-06-12 10:23:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國新證券4000萬股股權因無人出價流拍】6月12日，阿里司法拍賣平臺顯示，深圳市科銘實業有限公司名下持有的華融證券（現名“國新證券”）4000萬股股份拍賣於上午十時結束，因無人出價流拍。該筆股權起拍價為8652萬元，相對評估價，打了約七折。"
+    },
+    {
+      "id": "4931651",
+      "time": "2026-06-12 10:23:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安部：警惕“高考特招”類詐騙】從公安部今天（12日）召開的新聞釋出會上獲悉，近年來，未成年人及學生群體已然成為電信網路詐騙分子重點瞄準的詐騙物件。以上海為例，25歲以下青少年群體遭遇詐騙的情況已佔到全部電詐案件的15%，其中最小受害者僅7歲。當前針對中小學生群體的常見詐騙型別主要有虛假遊戲交易、追星以及直播間誘導打賞類詐騙等3種；針對大學生群體的主要有虛假遊戲交易、購買演唱會門票、刷單返利類以及網戀交友類詐騙等；涉及留學生的常見詐騙手法有冒充公檢法類、虛擬綁架以及換匯詐騙等。釋出會上介紹，高考特招升學詐騙，一般是以虛構“特招通道”“內部名額”“加分保送”等名義實施詐騙，犯罪分子謊稱考生和家長交錢就能進入理想大學，實則交錢以後便杳無音信。今年全國高考剛剛結束，廣大考生很快就要面臨志願填報和升學，公安機關提醒，考生和家長一定要提高警惕、擦亮雙眼，從教育部門官方網站查詢成績，從正規渠道瞭解招生資訊，切勿輕信“熟人朋友”、社交媒體或自稱招辦領導介紹的神秘通道，嚴防上當受騙。"
+    },
+    {
+      "id": "4931650",
+      "time": "2026-06-12 10:22:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體材料板塊短線走低，凱華材料跌超6%】半導體材料板塊短線走低，凱華材料跌超6%，歐萊新材、滬矽產業、凱德石英、有研矽等跟跌。"
+    },
     {
       "id": "4931649",
       "time": "2026-06-12 10:22:07",
@@ -170199,77 +170264,6 @@
         "MKT News"
       ],
       "text": "South Korea's labor minister expressed concern that unprecedented AI-driven profits could exacerbate inequality in South Korea."
-    },
-    {
-      "id": "mkt:019e959a-599d-766c-9543-de78ebac72bb",
-      "time": "2026-06-05 10:26:21",
-      "tags": [
-        "MKT News",
-        "005930.KS"
-      ],
-      "text": "South Korea's labor minister said Samsung and other companies should consider sharing 'excess profits' from the AI boom."
-    },
-    {
-      "id": "4918526",
-      "time": "2026-06-05 10:26:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國勞動部長稱，擔憂人工智慧所獲空前利潤會加劇韓國國內不平等問題。"
-    },
-    {
-      "id": "mkt:019e959a-365b-766c-9543-d302958118d3",
-      "time": "2026-06-05 10:26:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's labor minister called for social dialogue and for excess profits to be shared with suppliers, subcontractors and workers."
-    },
-    {
-      "id": "4918525",
-      "time": "2026-06-05 10:25:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國勞動部長稱，三星在解決內部分歧上面臨挑戰，薪資協議達成後存在潛在員工流失風險。"
-    },
-    {
-      "id": "4918524",
-      "time": "2026-06-05 10:25:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國勞工部長稱，三星及其他企業應考慮分享從人工智慧熱潮中獲得的“超額利潤”。"
-    },
-    {
-      "id": "mkt:019e9598-a542-766c-9543-cfa1f66e1310",
-      "time": "2026-06-05 10:24:29",
-      "tags": [
-        "MKT News",
-        "00992.HK",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "Hang Seng Tech Index weakened, falling >1% in choppy trade; Lenovo Group (00992.HK) slid over 4% to lead constituents. Hang Seng Index down 0.61%."
-    },
-    {
-      "id": "4918523",
-      "time": "2026-06-05 10:23:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4925.210點；恒生指數現跌0.594%。"
-    },
-    {
-      "id": "4918522",
-      "time": "2026-06-05 10:23:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東省委書記林武會見王傳福】6月4日下午，山東省委書記林武在山東大廈會見了集團董事長兼總裁王傳福一行。林武、王傳福分別介紹了山東省、比亞迪集團發展情況，圍繞新能源汽車生產、新一代刀片電池等技術研發與產業佈局、新能源電池材料產業合作、閃充充電服務等交換了意見，表示將在良好合作的基礎上，進一步加強交流對接，共享發展機遇，推動合作專案建設提速增效，促進雙方合作向更廣空間、更深層次邁進，更好助力綠色低碳高質量發展。"
     }
   ]
 }
