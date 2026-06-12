@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-12 23:59:50",
-  "count": 18406,
+  "updated": "2026-06-13 00:04:24",
+  "count": 18402,
   "items": [
+    {
+      "id": "4933208",
+      "time": "2026-06-13 00:02:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "SpaceX 上市後，美國航天類個股跌幅進一步擴大。Intuitive Machines下跌16%，Planet Labs下跌11.9%，Rocket Lab下跌12.5%，Satellogic下跌15.7%，Virgin Galactic下跌34.3%，Redwire下跌12.5%。"
+    },
+    {
+      "id": "te:markets:558770",
+      "time": "2026-06-13 00:01:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Rises Sharply — The DAX 40 finished about 1.8% firmer at 24,613 on Friday, the biggest daily gain since May 25, in line with European and US peers. Market sentiment was buoyed by expectations that a peace agreement between the US and Iran may finally be reached and by anticipation of the SpaceX IPO and its first trading. President Trump had canceled his planned attacks on Iran, scheduled for Thursday evening, and touted that a peace deal could be reached as soon as this weekend, pushing oil prices lower. Meanwhile, Iranian Foreign Minister Seyed Abbas Araghchi said on X that a US memorandum of understanding “has never been closer,” but said it is still too early for details as talks continue. Most sectors recorded gains, led by banks, techs, travel stocks and energy-sensitive industrials. Deutsche Bank led the way, surging 6.3%, with Commerzbank adding 2.9%. Heidelberg Materials (5.1%), Siemens Energy (4.1%) and Infineon Technologies (3.7%) followed closely."
+    },
+    {
+      "id": "mkt:019ebc90-ec56-7dd8-afe2-9601d30f11af",
+      "time": "2026-06-13 00:01:14",
+      "tags": [
+        "MKT News",
+        "SPCE.O",
+        "Impact bearish",
+        "RKLB.O",
+        "RDW.O"
+      ],
+      "text": "US space stocks fell further after SpaceX's IPO: Intuitive Machines down 16%, Planet Labs down 11.9%, Rocket Lab down 12.5%, Satellogic down 15.7%, Virgin Galactic down 34.3% and Redwire down 12.5%."
+    },
+    {
+      "id": "mkt:019ebc90-5100-7dd8-afe2-88dfd4f65e1c",
+      "time": "2026-06-13 00:00:34",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq 100 turned lower, erasing earlier gains of up to 0.9%."
+    },
+    {
+      "id": "4933207",
+      "time": "2026-06-13 00:00:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌。"
+    },
+    {
+      "id": "mkt:019ebc8f-b011-7dd8-afe2-83d58b163a29",
+      "time": "2026-06-12 23:59:53",
+      "tags": [
+        "MKT News",
+        "HOOD.O",
+        "Impact bearish"
+      ],
+      "text": "DownDetector reports user complaints indicating Robinhood (HOOD.O) is experiencing problems."
+    },
     {
       "id": "mkt:019ebc8e-e684-7dd8-afe2-7cad72a23518",
       "time": "2026-06-12 23:59:02",
@@ -169390,105 +169451,6 @@
         "Impact mixed"
       ],
       "text": "CNN reports a potential US‑Iran deal hinges on whether the US agrees to release $24 bln in frozen Iranian assets."
-    },
-    {
-      "id": "4920201",
-      "time": "2026-06-06 00:03:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：感謝沙烏地阿拉伯在全球石油市場方面開展合作。"
-    },
-    {
-      "id": "4920200",
-      "time": "2026-06-06 00:03:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年世界環境日主場活動聚焦氣候行動】2026年世界環境日主場活動5日在亞塞拜然首都巴庫的蓋達爾·阿利耶夫中心舉行。本次活動以“取法自然，聚焦氣候，共創未來”為主題，由亞塞拜然政府與聯合國環境規劃署共同舉辦，旨在呼籲國際社會加強氣候行動，保護自然生態系統，應對氣候變化帶來的多重挑戰。聯合國秘書長古特雷斯在影片致辭中說，警示訊號無處不在，過去11年是有記錄以來最熱的11年。氣候變化造成的破壞遠不止氣溫上升，還包括空氣汙染、土地退化、生態系統崩潰和生物多樣性喪失等。他呼籲大幅削減溫室氣體排放，加快從化石燃料向可再生能源的公正轉型，減少甲烷排放，保護森林、土地和海洋，並幫助各地社群適應氣候變化造成的影響。（新華社）"
-    },
-    {
-      "id": "4920199",
-      "time": "2026-06-06 00:03:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際航空運輸協會（IATA）在巴西、墨西哥及巴拉圭拓展貨運業務。"
-    },
-    {
-      "id": "4920198",
-      "time": "2026-06-06 00:03:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據CNN：美國與伊朗潛在的協議取決於美國是否同意釋放240億美元被凍結的伊朗資產。"
-    },
-    {
-      "id": "4920197",
-      "time": "2026-06-06 00:02:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京：與澤連斯基會晤的前提是必須找到解決衝突方案】當地時間5日，俄羅斯總統普京表示，其與澤連斯基會晤的前提是必須先找到解決衝突的方案。普京說，俄羅斯需要的是著眼長遠的協議，而不是衝突的短期停歇。（央視新聞）"
-    },
-    {
-      "id": "te:markets:556988",
-      "time": "2026-06-06 00:02:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Retreats on Tech Weakness and Geopolitical Risks — The CAC 40 fell 0.3% to close at 8,218 on Friday, pressured by a global technology selloff after Broadcom issued weaker-than-expected guidance, weighing on AI-related stocks. Schneider Electric, which recently announced plans to raise €800 million through a convertible bond offering following strong share-price gains driven by its data-center business, dropped 4.5%. Semiconductor maker STMicroelectronics shed 5.8%. Elsewhere, Stellantis extended losses by 3% after announcing earlier this week more than €1 billion of investments in electric and hybrid vehicle production in France. Meanwhile, Iran-backed Hezbollah rejected a new Lebanon ceasefire proposal, while Israel said it would not withdraw its troops, undermining US diplomatic efforts to halt the conflict and advance negotiations with Iran. Oil prices remained above $90 per barrel, while stronger-than-expected US payrolls data pushed bond yields higher, fueling concerns about inflation and borrowing costs."
-    },
-    {
-      "id": "te:markets:556985",
-      "time": "2026-06-06 00:01:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Hong Kong Hit 9-week Low — HK50 decreased to 24658.00 Index Points, the lowest since March 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) lost 4.78%, and in the last 12 months, it increased 4.92%."
-    },
-    {
-      "id": "4920196",
-      "time": "2026-06-06 00:00:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息： 大宗商品貿易商嘉吉正洽談將旗下金屬業務出售給麥格理集團。"
-    },
-    {
-      "id": "mkt:019e9883-f938-7665-8309-77367b5b3520",
-      "time": "2026-06-06 00:00:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "US dollar index (DXY) climbed above 100, up 0.56% intraday."
-    },
-    {
-      "id": "te:markets:556983",
-      "time": "2026-06-06 00:00:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Closes in the Red, Posts Weekly Loss — The DAX 40 finished about 0.8% down at 24,774 on Friday, reversing the previous session's gains, as the tech rally cooled and US–Iran talks remained stalled. At the same time, investors positioned ahead of the upcoming ECB decision, with a 25 basis-point rate hike largely anticipated. The tech sector remained under strain, with Infineon Technologies plunging over 9% and SAP down 2.1%, triggered by the disappointing outlook for Broadcom. Further pressure stemmed from Anthropic’s call for a global pause in AI development, citing risks related to self-optimization. Other key laggards included Mercedes-Benz Group, Qiagen NV, Merck and Vonovia, with losses between 1.8%-2.2%. On the upside, Zalando and Beiersdorf emerged as the top performers, rising 3.7% and 3.6%, respectively. For the week, the index declined about 1.3%."
     }
   ]
 }
