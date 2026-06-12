@@ -1,7 +1,183 @@
 {
-  "updated": "2026-06-12 14:42:01",
-  "count": 18396,
+  "updated": "2026-06-12 14:45:58",
+  "count": 18398,
   "items": [
+    {
+      "id": "mkt:019eba94-1a46-7dd8-afd5-4f59cf78e790",
+      "time": "2026-06-12 14:45:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York silver futures jumped 4.00% intraday to $66.57/oz."
+    },
+    {
+      "id": "mkt:019eba94-0978-7dd8-afd5-411075931922",
+      "time": "2026-06-12 14:45:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【2026 Lujiazui Forum to host major project signings and policy releases】The 2026 Lujiazui Forum will be held June 17-18 and will feature a series of major project signings and policy releases. Eight plenary sessions will cover the main theme and seven focused topics: global financial governance reform and cooperation; strengthening functional, well-developed capital markets; Shanghai–Hong Kong financial coordination to advance higher-level opening; building a tech-finance full-life-cycle service system to support high-quality real economy growth; technology-driven financial sector development; improving the effectiveness and precision of inclusive finance; and sustainable financial innovation and cooperation under global governance frameworks."
+    },
+    {
+      "id": "4931971",
+      "time": "2026-06-12 14:45:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國5月調和CPI月率終值 0.1%，預期0.1%，前值0.10%。法國5月調和CPI年率終值 2.8%，預期2.8%，前值2.80%。"
+    },
+    {
+      "id": "mkt:019eba93-ebfb-7dd8-afd5-3b19018fbad1",
+      "time": "2026-06-12 14:45:16",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "France May harmonized CPI (HICP) final YoY 2.8%, matching 2.8% expected and prior 2.8%."
+    },
+    {
+      "id": "4931970",
+      "time": "2026-06-12 14:45:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯泰環保成立數字科技公司，含多項AI業務】企查查APP顯示，近日，廣東聯泰數字科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由聯泰環保全資持股。"
+    },
+    {
+      "id": "mkt:019eba93-d326-7dd8-afd5-314ee41fa287",
+      "time": "2026-06-12 14:45:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France harmonized CPI (HICP) May final m/m +0.1% vs +0.1% expected; April +0.10%."
+    },
+    {
+      "id": "4931969",
+      "time": "2026-06-12 14:45:05",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【2026陸家嘴論壇將舉辦一系列重大專案簽約和政策釋出活動】證券時報記者從6月12日舉行的上海市新聞釋出會上獲悉，2026陸家嘴論壇6月17日至18日召開，將舉辦一系列重大專案簽約和政策釋出活動。論壇設有八場全體大會，除大會主題外，還設定了“全球金融治理改革與合作”“建立健全功能完善的資本市場”“滬港金融協同發展賦能高水平金融開放”“健全科技金融全生命週期服務體系，服務實體經濟高質量發展”“科技創新賦能金融高質量發展”“提高普惠金融的有效性與精準度”和“全球治理框架下的可持續金融創新與合作”等七個議題，涵蓋了當前經濟、金融領域的熱點。"
+    },
+    {
+      "id": "mkt:019eba93-ab9f-7dd8-afd5-242a77d325d7",
+      "time": "2026-06-12 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | HICP (YoY) (May) | actual 2.8% | consensus 2.8% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019eba93-aba1-7dd8-afd5-2a6a2e6b907b",
+      "time": "2026-06-12 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | HICP (MoM) (May) | actual 0.1% | consensus 0.1% | previous 0.10%"
+    },
+    {
+      "id": "te:economy:558629",
+      "time": "2026-06-12 14:44:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Hungary Industrial Output Growth Slows in April — Industrial production in Hungary grew by 0.9% year-on-year in April 2026, confirming initial estimates and slowing from a 6.7% increase in the previous month. This marked the second consecutive month of growth in industrial activity albeit at a softer pace, driven largely by softer output increase in the manufacturing sector (0.9% vs 7% in March), which represents a dominant 96% weight in the industry. Most manufacturing sub-sectors recorded a decline, mainly food, beverages and tobacco products (-1.6% vs 9.2%), electrical equipment (-1.5% vs 11.4%), and rubber, plastics and non-metallic mineral products (-4.0% vs 2.8%). In addition, output growth in electricity, gas, steam, and air conditioning supply softened (0.2% vs 2.3%). Meanwhile, mining production surged by 72.1%, accelerating from a 7.5% gain in March. On a seasonally and working-day-adjusted basis, industrial output declined by 1.1% in April, slipping from a 3.1% rise in the preceding period."
+    },
+    {
+      "id": "mkt:019eba93-18cb-7dd8-afd5-1b9fcf858e9b",
+      "time": "2026-06-12 14:44:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【2026 Lujiazui Forum scheduled for June 17-18】The 2026 Lujiazui Forum, themed Financial development and cooperation under global governance initiatives: new visions, challenges and opportunities, will be held in Shanghai on June 17-18. More than 70 domestic and international speakers are expected, including Chinese central financial authorities; the Monetary Authority of Singapore (MAS); Hungary's central bank; Hong Kong's Financial Secretary; City of London representatives; the World Bank (WBG); the Shanghai Stock Exchange (SSE); Hong Kong Exchanges and Clearing (HKEX); several Chinese central financial institutions; and major foreign financial firms."
+    },
+    {
+      "id": "te:markets:558627",
+      "time": "2026-06-12 14:44:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Surges, Marks 2% Weekly Jump — The ASX 200 soared 171 points, or 2%, to end at 8,604 on Friday, marking its largest single-day rise since April 8 and hitting a one-week high. The rebound erased earlier weakness, leaving the index 2.1% higher for the week after Wall Street’s rally the day before. Sentiment was boosted by easing U.S.–Iran tensions, with President Trump hinting a peace deal could be signed this weekend, though Tehran stressed no final decision was reached. Locally, softer jobs and inflation data bolstered hopes the central bank will pause next week after delivering three rate hikes earlier this year. Gold miners surged 5.6%, led by Evolution Mining (6.7%) and Northern Star (5.2%), while BHP and Rio Tinto advanced 3.1% and 2.7%. The big four banks added between 1% and 1.7%. Energy lagged, with Santos off 0.6%. Woodside eased 1.3% after invoking its pre-emptive right to acquire PetroChina’s 10.67% stake in the Browse gas fields off Western Australia, effectively blocking a deal with Japan’s Inpex."
+    },
+    {
+      "id": "4931968",
+      "time": "2026-06-12 14:43:24",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "【2026陸家嘴論壇將於6月17日至18日召開】證券時報記者從6月12日舉行的上海市新聞釋出會上獲悉，2026陸家嘴論壇的主題為“全球治理倡議下的金融發展與合作：新願景、新挑戰和新機遇”，論壇將於2026年6月17日至18日召開。本屆陸家嘴論壇有三大特點：一是嘉賓雲集。70餘名中外嘉賓將在論壇上發表精彩演講，分享獨到見解。這些嘉賓來自中央金融管理部門，新加坡金融管理局、匈牙利央行、香港財政司、倫敦金融城等境外金融管理部門，世界銀行等國際金融組織，上海證券交易所、香港交易所集團等境內外金融市場，以及部分中央金融機構和知名外資金融機構。"
+    },
+    {
+      "id": "mkt:019eba91-e5d1-7dd8-afd5-13043266342c",
+      "time": "2026-06-12 14:43:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【UNCTAD: Lithium demand to rise 353% from 2024–2040】UNCTAD's June Global Trade Update projects global lithium demand will increase 353% between 2024 and 2040 and graphite demand 131%. Clean-technology demand share is expected to rise; lithium's share of demand is forecast to climb from 62% in 2024 to 87% by 2040. UNCTAD says rising demand for energy-transition minerals — lithium, cobalt, nickel, copper and rare earths — is reshaping global trade. Supply is concentrated across reserves, mining, processing and refining, with processing and refining particularly concentrated and higher value-added. For 2025 UNCTAD projects the Democratic Republic of Congo will account for 74% of global cobalt output, Indonesia 67% of nickel output and China 69% of rare-earth output."
+    },
+    {
+      "id": "te:economy:558626",
+      "time": "2026-06-12 14:42:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Hungary Construction Output Growth Slows — Hungary’s construction output rose by 2.6% year-on-year in April 2026, easing from a 3.9% increase in the previous month. Production in building constructions plunged 6.2% from a 4.4% gain, weighed down by a decline in building activity. Among the divisions of construction, output in the construction of buildings was 11.6% lower than a year earlier, while output in civil engineering rose by 19.2%, and output in specialised construction activities, which have the largest weight within the construction sector, increased by 4.4%. Meanwhile, output grew for civil engineering works, driven mainly by a 47.6% increase in the volume of road and railway construction, contributing almost 30 percentage points to the division’s performance. For the January–April period, the total volume of construction output fell by 2.2% compared to the same period a year earlier."
+    },
+    {
+      "id": "mkt:019eba91-cc8a-7dd8-afd5-09c26e40f037",
+      "time": "2026-06-12 14:42:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Guangzhou Bank capital increase, share expansion plan approved】The Guangdong Financial Regulatory Bureau approved Guangzhou Bank’s capital increase and share expansion plan, permitting a private placement of up to 2.4 bln shares to designated investors. The bank’s total issued shares are about 11.78 bln; Guangzhou Financial Holding holds 42.3% and remains the controlling shareholder."
+    },
+    {
+      "id": "4931967",
+      "time": "2026-06-12 14:42:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高原鐵路進藏城際班列首次實現一站直達】今天（12日）上午，一列滿載冷鏈生鮮、日用百貨、鋼材、化肥等物資的進藏班列從位於青海省西寧市的青藏鐵路雙寨站駛出，前往1900餘公里外的拉薩西站。這是國鐵青藏集團公司今年開行的首趟“天路快車”進藏城際班列，列車總運量超過1400噸，貨物從始發站一次完成裝車，生鮮冷鏈等物資可在46小時內一站直達拉薩西站，實現了青藏鐵路進藏貨運的新突破。（央視新聞）"
+    },
+    {
+      "id": "4931965",
+      "time": "2026-06-12 14:41:42",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：儘管地緣政治局勢緊張，新加坡住宅開發商似乎仍持樂觀態度】花旗分析師Brandon Lee表示，儘管地緣政治局勢持續緊張，但新加坡房地產開發商似乎對本地住宅板塊持樂觀態度，他提到了城市發展一家合資企業新中標的一幅高階住宅地塊緊俏的地價。他指出，考慮到該地塊靠近公共交通設施和便利設施，其地理位置似乎很有吸引力。他在一份報告中補充說，根據花旗對城市發展的預估，該地塊可能意味著其重估資產淨值將增加0.2%-0.3%。鑑於CDL擁有大量未售出的住宅土地儲備，花旗維持其買入評級。其戰略評估的結果也可能成為股價的催化劑。該行維持對該股11.53新元的目標價，該股最新上漲0.7%，至8.29新元。"
+    },
     {
       "id": "4931964",
       "time": "2026-06-12 14:40:58",
@@ -169502,163 +169678,6 @@
         "Important"
       ],
       "text": "France | Exports (Apr) | actual 54585000000B | previous 52459000000B"
-    },
-    {
-      "id": "mkt:019e9688-1b90-7ff7-b579-68eb8eef265e",
-      "time": "2026-06-05 14:45:57",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "France April imports €60.225bn, prior €59.323bn."
-    },
-    {
-      "id": "mkt:019e9687-e8c8-7ff7-b579-678f77607cb8",
-      "time": "2026-06-05 14:45:48",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Imports (Apr) | actual 60225000000B | previous 59323000000B"
-    },
-    {
-      "id": "mkt:019e9687-c55a-7ff7-b579-5e3325a2346f",
-      "time": "2026-06-05 14:45:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "France April trade deficit narrowed to EUR 5.64 bln from a EUR 6.864 bln deficit previously."
-    },
-    {
-      "id": "4918912",
-      "time": "2026-06-05 14:45:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【李斌名下易車通文化傳媒公司擬登出】天眼查經營風險資訊顯示，近日，北京易車通文化傳媒有限公司新增一則簡易登出公告，公告期為5月29日至6月18日。該公司成立於2008年3月，法定代表人為李斌，註冊資本1000萬人民幣，經營範圍包括設計、製作、代理、釋出廣告等，由李斌、林芝利創資訊科技有限公司共同持股。"
-    },
-    {
-      "id": "mkt:019e9687-94f4-7ff7-b579-572f202c2e80",
-      "time": "2026-06-05 14:45:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Trade Balance (Apr) | actual -5640000000B | previous -6864000000B"
-    },
-    {
-      "id": "4918911",
-      "time": "2026-06-05 14:45:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國4月經常帳 -2億歐元，前值 -12億歐元。"
-    },
-    {
-      "id": "4918910",
-      "time": "2026-06-05 14:45:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國4月貿易帳 -56.4億歐元，前值 -68.64億歐元。"
-    },
-    {
-      "id": "4918909",
-      "time": "2026-06-05 14:44:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同緬甸外長丁貌瑞會談】6月5日，中共中央政治局委員、外交部長王毅在北京同緬甸外長丁貌瑞舉行會談。王毅表示，中緬建交76年來，兩國堅定奉行共同倡導的和平共處五項原則，同甘共苦，守望相助，樹立了國與國之間友好交往的典範。2020年習近平主席歷史性訪緬，推動中緬關係進入構建命運共同體的新時期。今年是緬新政府施政第一年。中方願同緬方加強高層交往，增進政治互信，深化戰略合作，推動中緬命運共同體建設取得更多務實成果，助力緬甸加快發展振興。(新華社)"
-    },
-    {
-      "id": "4918908",
-      "time": "2026-06-05 14:44:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美孚宣告：天貓百億補貼等渠道機油未授權，無法保證質量】近日，在社交媒體上，有消費者發帖吐槽，“在某電商平臺上購買的美孚機油竟是三無產品”、“之前買了一瓶金美孚040，今天才加進去，倒出來第一感覺怎麼那麼稀，像水一樣。”近日，埃克森美孚（中國）投資有限公司在京東美孚官方旗艦店、天貓美孚官方旗艦店釋出宣告稱，天貓百億補貼頻道、蘇寧易購官方旗艦店等渠道銷售的美孚1號經典表現、美孚1號勁擎表現、銀美、速霸等產品，均非埃克森美孚官方授權的銷售渠道供應。宣告強調，該公司未授權任何二級經銷商，凡透過非授權渠道銷售的產品，埃克森美孚無法就其正品來源及質量作出任何保證。（新浪科技）"
-    },
-    {
-      "id": "mkt:019e9686-48ca-7ff7-b579-49c9ff626925",
-      "time": "2026-06-05 14:44:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of India governor said the central bank is not currently considering proposals to monetize gold."
-    },
-    {
-      "id": "te:economy:556764",
-      "time": "2026-06-05 14:43:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Hungary Industrial Output Growth Eases in April — Industrial production in Hungary rose by 0.9% year-on-year in April 2026, slowing from a 6.7% increase in the previous month, according to preliminary estimates. he reading marked the second consecutive annual increase, although production declined across most manufacturing subsectors compared with a year earlier. Among the most important sub-sectors, output expanded in transport equipment and in computer, electronic, and optical products manufacturing. In contrast, production fell in electrical equipment as well as food, beverages, and tobacco products. On a seasonally and working-day-adjusted basis, industrial output increased by 1.1% in April, easing from a 3.1% rise in March. In the first four months of 2026, industrial production was 1.0% higher than in the corresponding period of the previous year."
-    },
-    {
-      "id": "4918907",
-      "time": "2026-06-05 14:43:41",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長馬爾霍特拉：目前並未審議任何黃金貨幣化提案。"
-    },
-    {
-      "id": "4918906",
-      "time": "2026-06-05 14:43:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長馬爾霍特拉：暫無對外國貨幣非居民（FCNR）存款流入設定具體目標。"
-    },
-    {
-      "id": "mkt:019e9685-9b54-7ff7-b579-464c1467e4c5",
-      "time": "2026-06-05 14:43:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "Shanghai Composite Index fell more than 1% at the close; Shenzhen Composite Index fell 2.5%; ChiNext Index fell more than 3.6%."
-    },
-    {
-      "id": "4918905",
-      "time": "2026-06-05 14:43:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星巴克即飲首款能量飲料上線：康師傅代工助陣，開售即斷貨】星巴克即飲業務於6月在山姆會員店首發全新能量飲料，正式切入功能性提神賽道。新品命名為“星巴克能量飲料冰爽百香果味”，主打健康化概念，採用低糖0脂配方，零售價為69.9元/箱（18瓶×228ml），約合3.8元/瓶。目前該產品在山姆App已顯示斷貨。據瞭解，該款產品的委託方是上海康領食品有限公司，受委託加工方為蘇州頂津食品有限公司。天眼查顯示，這兩家公司的控股股為均為康師傅飲品投資（中國）有限公司（以下簡稱：康師傅）。"
-    },
-    {
-      "id": "4918904",
-      "time": "2026-06-05 14:42:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上證指數跌1.00%，現報4017.062點；深證成指跌2.56%，現報15259.900點；創業板指跌3.62%，現報3940.747點。"
     }
   ]
 }
