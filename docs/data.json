@@ -1,7 +1,474 @@
 {
-  "updated": "2026-06-12 13:58:37",
-  "count": 18392,
+  "updated": "2026-06-12 14:02:36",
+  "count": 18425,
   "items": [
+    {
+      "id": "mkt:019eba6b-96f3-7dd8-afd4-79ce5f02a7fb",
+      "time": "2026-06-12 14:01:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK seasonally adjusted trade balance with the EU in April: -£12.998bn, prior -£12.023bn."
+    },
+    {
+      "id": "4931914",
+      "time": "2026-06-12 14:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇常州發生一起小型直升機降落事故 致2人受傷】從江蘇省常州市武進區南夏墅街道辦事處獲悉，6月11日14時許，武進區海湖路附近一架小型直升機降落時發生事故，造成2名駕乘人員受傷，其中1人已醫治出院，另外1人傷勢較重仍在救治中。目前，事故原因正在調查中。"
+    },
+    {
+      "id": "mkt:019eba6b-73f2-7dd8-afd4-72fc5bcae8ac",
+      "time": "2026-06-12 14:01:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Trade Balance with EU (Apr) | actual -12997999999.999998B | previous -12023000000B"
+    },
+    {
+      "id": "mkt:019eba6b-4f3b-7dd8-afd4-6e962f43fea9",
+      "time": "2026-06-12 14:00:55",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "UK April seasonally adjusted trade deficit £8.435 bln, versus forecast £5.744 bln; prior £9.658 bln deficit."
+    },
+    {
+      "id": "4931913",
+      "time": "2026-06-12 14:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【凱迪拉克官宣推出全系燃油車3年8折回購政策】6月12日，凱迪拉克宣佈限時推出全系燃油車三年八折保值回購政策，涵蓋CT5、CT6、XT4、XT5車型，並承諾3年內單次事故損失達到原車購車發票價的30%可免費換新車。該活動時間截至2026年6月30日。"
+    },
+    {
+      "id": "mkt:019eba6b-2a12-7dd8-afd4-64d82741f2a7",
+      "time": "2026-06-12 14:00:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Trade Balance (Apr) | actual -8434999999.999999B | consensus -5744000000B | previous -9658000000B"
+    },
+    {
+      "id": "mkt:019eba6b-17c5-7dd8-afd4-58fbd4b336cc",
+      "time": "2026-06-12 14:00:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "Germany harmonized CPI (HICP) final, May MoM -0.1% (exp -0.1%; prior -0.1%)"
+    },
+    {
+      "id": "mkt:019eba6b-1694-7dd8-afd4-55a459d96d6b",
+      "time": "2026-06-12 14:00:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK three-month rolling MoM GDP in April rose 0.7%, the largest increase since May 2024."
+    },
+    {
+      "id": "mkt:019eba6b-14fa-7dd8-afd4-4a3272fc1720",
+      "time": "2026-06-12 14:00:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK April seasonally adjusted non-EU trade balance -£13.048 bln; prior revised to -£15.195 bln."
+    },
+    {
+      "id": "mkt:019eba6b-13cf-7dd8-afd4-40080463ef63",
+      "time": "2026-06-12 14:00:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK April services index YoY 1.7% vs expected 1.7%, prior 1.5%."
+    },
+    {
+      "id": "mkt:019eba6b-1258-7dd8-afd4-3e1b4b2428ef",
+      "time": "2026-06-12 14:00:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Germany May CPI final MoM -0.2% (exp -0.2%; prev -0.2%)"
+    },
+    {
+      "id": "mkt:019eba6b-1125-7dd8-afd4-30401068a8b2",
+      "time": "2026-06-12 14:00:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK April seasonally adjusted goods trade deficit £26.046bln, vs. expected -£22.5bln; prior -£27.218bln (unchanged on revision)."
+    },
+    {
+      "id": "mkt:019eba6b-0fec-7dd8-afd4-2f0b6c56a019",
+      "time": "2026-06-12 14:00:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany May HICP final YoY 2.7% (expected 2.7%; prior 2.70%)."
+    },
+    {
+      "id": "mkt:019eba6b-0c2c-7dd8-afd4-0dda1bb41a89",
+      "time": "2026-06-12 14:00:37",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK construction output YoY -1.0% in April, vs -1.7% expected and -0.3% previously."
+    },
+    {
+      "id": "mkt:019eba6b-0ebc-7dd8-afd4-23fd032c58b2",
+      "time": "2026-06-12 14:00:36",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "UK April GDP -0.1% month-on-month, in line with expectations; prior 0.3%."
+    },
+    {
+      "id": "mkt:019eba6b-0d74-7dd8-afd4-1b546b6a6551",
+      "time": "2026-06-12 14:00:36",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK services index m/m (Apr) -0.2%, expected -0.1%, prior 0.3%."
+    },
+    {
+      "id": "mkt:019eba6b-0c45-7dd8-afd4-10ddaf0a4e60",
+      "time": "2026-06-12 14:00:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK industrial production MoM 0.0% in April vs 0.1% expected; prior -0.2%."
+    },
+    {
+      "id": "mkt:019eba6b-04d4-7dd8-afd3-ffc9e4ff3b39",
+      "time": "2026-06-12 14:00:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK manufacturing output MoM Apr +0.4% (exp -0.2%); prior +1.2%."
+    },
+    {
+      "id": "mkt:019eba6b-04d2-7dd8-afd3-f5f4ec20ca21",
+      "time": "2026-06-12 14:00:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD"
+      ],
+      "text": "UK three-month GDP MoM for April +0.7% vs 0.7% expected; prior +0.6%."
+    },
+    {
+      "id": "4931912",
+      "time": "2026-06-12 14:00:30",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國5月CPI月率終值 -0.2%，預期-0.2%，前值-0.20%。"
+    },
+    {
+      "id": "mkt:019eba6b-05ed-7dd8-afd4-052f50549909",
+      "time": "2026-06-12 14:00:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK April manufacturing output YoY 1.0% vs consensus 0.4%, prior 1.2%."
+    },
+    {
+      "id": "4931911",
+      "time": "2026-06-12 14:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國4月季調後商品貿易帳 -260.46億英鎊，預期-225億英鎊，前值由-272.18億英鎊修正為-272.18億英鎊。"
+    },
+    {
+      "id": "mkt:019eba6a-f940-7dd8-afd3-ee9c7680ac0d",
+      "time": "2026-06-12 14:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK April construction output MoM +0.1% (expected -0.4%); March +1.5%."
+    },
+    {
+      "id": "mkt:019eba6a-dbee-7dd8-afd3-e47d176fe4cb",
+      "time": "2026-06-12 14:00:25",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Germany May final CPI YoY 2.6% (consensus 2.6%, prior 2.6%)."
+    },
+    {
+      "id": "4931910",
+      "time": "2026-06-12 14:00:20",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國4月製造業產出月率 0.4%，預期-0.2%，前值1.20%。"
+    },
+    {
+      "id": "4931908",
+      "time": "2026-06-12 14:00:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國4月三個月GDP月率 0.7%，預期0.7%，前值0.6%。"
+    },
+    {
+      "id": "mkt:019eba6a-9cd1-7dd8-afd3-da8e427fc0a6",
+      "time": "2026-06-12 14:00:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK April GDP YoY 1.2% vs 1.3% expected; prior 1.2%."
+    },
+    {
+      "id": "mkt:019eba6a-9b28-7dd8-afd3-d69555856bb4",
+      "time": "2026-06-12 14:00:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK industrial production YoY -0.2% in April vs -0.1% expected; March 0.0%."
+    },
+    {
+      "id": "mkt:019eba6a-9148-7dd8-afd3-cb75e8b48ad5",
+      "time": "2026-06-12 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Non-EU Trade Balance (Apr) | actual -13047999999.999998B | previous -15194999999.999998B"
+    },
+    {
+      "id": "mkt:019eba6a-912f-7dd8-afd3-c2701f16886f",
+      "time": "2026-06-12 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Final (MoM) (May) | actual -0.1% | consensus -0.1% | previous -0.10%"
+    },
+    {
+      "id": "mkt:019eba6a-8f78-7dd8-afd3-bc8a608bbc27",
+      "time": "2026-06-12 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Final (YoY) (May) | actual 2.7% | consensus 2.7% | previous 2.70%"
+    },
+    {
+      "id": "mkt:019eba6a-8f40-7dd8-afd3-b756481c0513",
+      "time": "2026-06-12 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Final (MoM) (May) | actual -0.2% | consensus -0.2% | previous -0.20%"
+    },
+    {
+      "id": "mkt:019eba6a-8f38-7dd8-afd3-ae8bcee8c91c",
+      "time": "2026-06-12 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Final (YoY) (May) | actual 2.6% | consensus 2.6% | previous 2.60%"
+    },
+    {
+      "id": "mkt:019eba6a-8f34-7dd8-afd3-a24dbb716f88",
+      "time": "2026-06-12 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Goods Trade Balance SA (Apr) | actual -26045999999.999996B | consensus -22500000000B | previous -27218000000B"
+    },
+    {
+      "id": "mkt:019eba6a-80c1-7dd8-afd3-9b37e904e693",
+      "time": "2026-06-12 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP (MoM) (Apr) | actual -0.1% | consensus -0.1% | previous 0.30%"
+    },
+    {
+      "id": "mkt:019eba6a-7d47-7dd8-afd3-94b0f92485d7",
+      "time": "2026-06-12 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Industrial Output (MoM) (Apr) | actual 0% | consensus 0.1% | previous -0.20%"
+    },
+    {
+      "id": "mkt:019eba6a-7d44-7dd8-afd3-8d34e07eee0a",
+      "time": "2026-06-12 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Construction Output (YoY) (Apr) | actual -1% | consensus -1.7% | previous -0.30%"
+    },
+    {
+      "id": "mkt:019eba6a-7c27-7dd8-afd3-8509f67a81d5",
+      "time": "2026-06-12 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP 3M/3M (MoM) (Apr) | actual 0.7% | consensus 0.7% | previous 0.6%"
+    },
+    {
+      "id": "mkt:019eba6a-7c05-7dd8-afd3-7f7c42484768",
+      "time": "2026-06-12 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Manufacturing Output (MoM) (Apr) | actual 0.4% | consensus -0.2% | previous 1.20%"
+    },
+    {
+      "id": "mkt:019eba6a-7bac-7dd8-afd3-6d6ee75434d8",
+      "time": "2026-06-12 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Construction Output (MoM) (Apr) | actual 0.1% | consensus -0.4% | previous 1.50%"
+    },
+    {
+      "id": "mkt:019eba6a-7bad-7dd8-afd3-758980f5fc9d",
+      "time": "2026-06-12 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Manufacturing Output (YoY) (Apr) | actual 1% | consensus 0.4% | previous 1.20%"
+    },
+    {
+      "id": "mkt:019eba6a-7af3-7dd8-afd3-62138896cccb",
+      "time": "2026-06-12 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Industrial Output (YoY) (Apr) | actual -0.2% | consensus -0.1% | previous 0.00%"
+    },
+    {
+      "id": "mkt:019eba6a-7aef-7dd8-afd3-5dcb38aac0bd",
+      "time": "2026-06-12 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP (YoY) (Apr) | actual 1.2% | consensus 1.3% | previous 1.2%"
+    },
+    {
+      "id": "4931907",
+      "time": "2026-06-12 13:59:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶科科技成立航天新智慧科技公司，含AI業務】企查查APP顯示，近日，江西晶科航天新智慧科技有限公司成立，經營範圍包含：衛星通訊服務，衛星導航服務，衛星技術綜合應用系統整合，衛星遙感資料處理等。企查查股權穿透顯示，該公司由晶科科技全資持股。"
+    },
+    {
+      "id": "4931906",
+      "time": "2026-06-12 13:57:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朱江濤任招商證券董事長】天眼查 App 顯示，近日，招商證券發生工商變更，霍達卸任法定代表人、董事長，由朱江濤接任。該公司成立於1993年8月，註冊資本約87億人民幣，經營範圍包括證券經紀，證券投資諮詢，與證券交易、證券投資活動有關的財務顧問等，由招商局金融控股有限公司、深圳市集盛投資發展有限公司、香港中央結算（代理人）有限公司等共同持股。"
+    },
     {
       "id": "mkt:019eba67-abc0-7dd8-afd3-520038c332b6",
       "time": "2026-06-12 13:56:56",
@@ -169461,126 +169928,6 @@
         "市場"
       ],
       "text": "【電力板塊震盪回落 廣西能源、華電能源逼近跌停】午後電力板塊震盪回落，廣西能源、華電能源逼近跌停，大唐發電、粵電力A、江蘇國信、華銀電力等多股跌超6%。"
-    },
-    {
-      "id": "4918834",
-      "time": "2026-06-05 14:02:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿波羅集團表示無意出價收購博迪科特（Bodycote）。"
-    },
-    {
-      "id": "4918833",
-      "time": "2026-06-05 14:01:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙大網新子公司中標紹芯實驗室兩湖新建場地（南片）智慧化專案】記者獲悉，近日，浙大網新旗下子公司網新系統中標紹芯實驗室兩湖新建場地（南片）智慧化專案。該專案作為一個高階積體電路科研場景，對建築智慧化的系統性、穩定性與整合度要求極高。浙大網新系統承接了該專案智慧化工程，涵蓋綜合佈線、影片監控、電子巡更、能耗計量、樓宇自控、抗震支架及IBMS智慧化整合管理平臺等二十項核心子系統。"
-    },
-    {
-      "id": "4918832",
-      "time": "2026-06-05 14:00:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東方Ａ成交額達300億元】6月5日下午，京東方Ａ成交額達300億元，現漲6.18%。"
-    },
-    {
-      "id": "em:jjsj_ygsj:202606053761861068",
-      "time": "2026-06-05 14:00:34",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "英國5月Halifax季調後房價指數同比增長0.5%，預期1%，前值0.4%。"
-    },
-    {
-      "id": "mkt:019e965e-26fc-7ff7-b578-5660a9c02ec8",
-      "time": "2026-06-05 14:00:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "UK May Halifax seasonally adjusted house price index MoM -0.1% (consensus +0.1%); April -0.1%."
-    },
-    {
-      "id": "mkt:019e965e-26f3-7ff7-b578-4d65f3ead3d4",
-      "time": "2026-06-05 14:00:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "UK May Halifax seasonally adjusted house price index YoY 0.5% vs forecast 1.0% and April 0.4%."
-    },
-    {
-      "id": "mkt:019e965d-fdb5-7ff7-b578-42c5a63b4747",
-      "time": "2026-06-05 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Halifax House Price Index (YoY) (May) | actual 0.5% | consensus 1% | previous 0.4%"
-    },
-    {
-      "id": "mkt:019e965d-fc02-7ff7-b578-39ca0754d143",
-      "time": "2026-06-05 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Halifax House Price Index (MoM) (May) | actual -0.1% | consensus 0.1% | previous -0.1%"
-    },
-    {
-      "id": "4918831",
-      "time": "2026-06-05 13:59:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創成交額達400億元，現跌5.64%。"
-    },
-    {
-      "id": "4918830",
-      "time": "2026-06-05 13:59:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨午後跌超1%。"
-    },
-    {
-      "id": "mkt:019e965d-292d-7ff7-b578-359d85d2e0b3",
-      "time": "2026-06-05 13:59:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 index futures fell over 1% in afternoon trade."
-    },
-    {
-      "id": "4918829",
-      "time": "2026-06-05 13:58:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【有地方摸排轄區企業與追覓合作情況？地方人士回應：系市裡統一部署，其所在區域初排沒有相關的情況】今日有訊息稱，長三角某市轄區正在要求統計轄區內企業與追覓科技已開展合作的情況，包括但不限於：合作專案、總體規模、資金投入、財政及國資投入情況、目前經營情況等。該地方人士回應記者稱，系市裡統一部署，其所在區域初排下來沒有相關的情況。（財聯社）"
     }
   ]
 }
