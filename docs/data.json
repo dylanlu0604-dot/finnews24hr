@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-12 21:32:11",
-  "count": 18508,
+  "updated": "2026-06-12 21:36:23",
+  "count": 18514,
   "items": [
+    {
+      "id": "mkt:019ebc0b-ad54-7dd8-afdf-79c2c1d78c2c",
+      "time": "2026-06-12 21:35:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nasdaq-100 decline widened to 0.5%."
+    },
+    {
+      "id": "4932975",
+      "time": "2026-06-12 21:35:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "4932974",
+      "time": "2026-06-12 21:35:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一名白宮官員稱，伊朗已同意達成一項基於履約情況的協議，伊朗需作出重大讓步，方可獲得制裁豁免。該官員表示，伊朗必須銷燬並運出核材料、拆除核設施，在履行全部承諾前，其被凍結資金不會予以解凍。這位官員還稱，霍爾木茲海峽將保持通航暢通，且伊朗承諾停止向恐怖組織提供資金支援。"
+    },
+    {
+      "id": "mkt:019ebc0a-f724-7dd8-afdf-74813b78541c",
+      "time": "2026-06-12 21:34:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "U.S. equities opened mixed on Friday, June 12: the Dow Jones Industrial Average rose 279.34 points (0.55%) to 51,128.09 at the open; the S&P 500 gained 10.54 points (0.14%) to 7,404.84; the Nasdaq Composite fell 6.93 points (0.03%) to 25,802.73."
+    },
+    {
+      "id": "4932973",
+      "time": "2026-06-12 21:34:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "REDWIRE股價暴跌10%；火箭實驗室股價下跌5.4%。"
+    },
+    {
+      "id": "4932972",
+      "time": "2026-06-12 21:33:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦提議對售價超 2000 萬盧比的電動汽車徵稅。"
+    },
+    {
+      "id": "te:markets:558743",
+      "time": "2026-06-12 21:33:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Salesforce Stock Price Hits 3-year Low — Salesforce shares decreased to 163.32 USD, the lowest since March 2023. Over the past 4 weeks, Salesforce Inc lost 4.59%, and in the last 12 months, it decreased 38.77%."
+    },
+    {
+      "id": "4932971",
+      "time": "2026-06-12 21:33:06",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【才讓太已任西藏自治區黨委常委、統戰部部長】據西藏日報，6月12日，自治區黨委書記王君正前往自治區黨委統戰部調研。自治區黨委常委、組織部部長賴蛟，自治區黨委常委、統戰部部長才讓太，自治區政協副主席斯朗尼瑪參加。上述訊息顯示，才讓太已任西藏自治區黨委常委、統戰部部長。"
+    },
+    {
+      "id": "4932970",
+      "time": "2026-06-12 21:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦提議在 2027 財年對石油基溶劑徵稅。"
+    },
+    {
+      "id": "4932969",
+      "time": "2026-06-12 21:32:33",
+      "tags": [
+        "公司",
+        "市場",
+        "其他"
+      ],
+      "text": "馬斯克母親抵達納斯達克交易所。"
+    },
+    {
+      "id": "4932968",
+      "time": "2026-06-12 21:32:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "Astera Labs跳漲6%，CoreWeave升3.6%，Nebius Group漲3.9%，此前這些公司將被納入納斯達克100指數。"
+    },
+    {
+      "id": "te:markets:558742",
+      "time": "2026-06-12 21:32:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lowe's Companies Stock Price Hits 4-week High — Lowe's Companies shares increased to 223.20 USD, the highest since May 2026. Over the past 4 weeks, Lowe's Companies lost 0.85%, and in the last 12 months, it decreased 0.4%."
+    },
+    {
+      "id": "4932967",
+      "time": "2026-06-12 21:32:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX進行納斯達克開盤鍾儀式現場直播。"
+    },
+    {
+      "id": "4932966",
+      "time": "2026-06-12 21:31:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "維珍銀河股價下跌17.9%，報4.8美元，此前上個交易日該股大漲超21%。"
+    },
+    {
+      "id": "te:markets:558741",
+      "time": "2026-06-12 21:31:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Blackstone Stock Price Hits 4-week High — Blackstone shares increased to 123.14 USD, the highest since May 2026. Over the past 4 weeks, Blackstone gained 0.19%, and in the last 12 months, it decreased 12.64%."
+    },
+    {
+      "id": "mkt:019ebc08-0435-7dd8-afdf-6a2c42c904b6",
+      "time": "2026-06-12 21:31:42",
+      "tags": [
+        "MKT News",
+        "ADBE.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Adobe (ADBE.O) shares fell 8.1%, hitting an intraday low not seen since February 2018."
+    },
     {
       "id": "4932965",
       "time": "2026-06-12 21:31:25",
@@ -170421,91 +170573,6 @@
         "Importance 2"
       ],
       "text": "Nasdaq 100 Retreats for 2nd Session — US stocks were mostly lower on Friday after a strong jobs report consolidated the outlook of restrictive interest rates, while chip producers extended their selloff. The S&P 500 and the Nasdaq 100 fell 1% and 2.3%, respectively, while the Dow was flat near its record high. The US added a net 172K jobs in May, well above estimates. Markets increased bets of a rate hike by the Fed this year as a strong labor market adds leeway for the Fed to fight inflationary risks as the standstill between Iran and the US maintain the surge in energy prices. Banks and defensive stocks were mostly higher to support the Dow, with Visa, P&G, and UnitedHealth adding more than 1%. In turn, Broadcom dropped 4% to extend the 13% slump from last session after missing guidance estimates, driving broader AI infrastructure stocks to drop. Micron slumped 4% and Nvidia lost 2%. S&P Dow Jones denied the fast entry for SpaceX into its indices ahead of its IPO next week, expected to be the largest in history."
-    },
-    {
-      "id": "4919941",
-      "time": "2026-06-05 21:36:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "錫連續主力合約日內跌4%，現報409660.00元。"
-    },
-    {
-      "id": "4919940",
-      "time": "2026-06-05 21:36:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：我方襲擊了什基夫古堡周邊一處以色列軍人集結點。"
-    },
-    {
-      "id": "4919939",
-      "time": "2026-06-05 21:35:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將康寧目標股價從223美元上調至228美元。"
-    },
-    {
-      "id": "4919938",
-      "time": "2026-06-05 21:35:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫銅日內跌超2.00%，現報13653.000美元/噸。"
-    },
-    {
-      "id": "4919937",
-      "time": "2026-06-05 21:34:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "房利美股價上漲10%，房地美股價上漲9.7%。"
-    },
-    {
-      "id": "4919936",
-      "time": "2026-06-05 21:33:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍否認伊朗向美軍艦進行警告射擊】美軍中央司令部5日發表宣告說，伊朗有關在阿曼灣向美國軍艦進行警告射擊並迫使其“撤退”至印度洋的說法不實。宣告說，伊朗軍隊“並未攻擊美國軍艦或向其開火”。 據伊朗伊斯蘭共和國廣播電視臺稍早前報道，伊朗海軍向兩艘美軍驅逐艦警告射擊，將其驅離阿曼灣。（新華社）"
-    },
-    {
-      "id": "4919935",
-      "time": "2026-06-05 21:33:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "The Cooper Companies股價上漲7.3%，此前該公司公佈的第二季度業績超出市場預期。"
-    },
-    {
-      "id": "4919934",
-      "time": "2026-06-05 21:33:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌1%，現報4735.00元。"
-    },
-    {
-      "id": "4919933",
-      "time": "2026-06-05 21:33:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "Guidewire Software股價在公佈第三季度業績後下跌5.5%。"
-    },
-    {
-      "id": "4919932",
-      "time": "2026-06-05 21:33:02",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【李強會見寮國人民革命黨中央總書記、國家主席通倫】6月5日上午，國務院總理李強在北京人民大會堂會見來華進行國事訪問的寮國人民革命黨中央總書記、國家主席通倫。李強表示，今年是中老建交65週年。65年來，兩國始終相互依賴、守望相助，雙邊關係歷久彌堅。特別是近些年，在兩黨兩國最高領導人戰略引領下，中老關係進入歷史最好時期。今天下午，習近平總書記、國家主席將同通倫總書記、國家主席舉行會談，就深化發展兩國關係作出進一步規劃。面對變亂交織的世界，中方願同老方加強戰略溝通，緊密協作，推動中老命運共同體建設向更高水平邁進，不斷增進兩國人民福祉，共促地區乃至世界的穩定繁榮。李強指出，中方願同老方加強發展戰略對接，充分釋放中方零關稅政策積極效應，持續擴大雙邊貿易規模，深入推進中老鐵路合作，加快推動中老經濟走廊建設，拓展能源礦產、人工智慧、數字經濟等領域合作，取得更多務實成果。中方願進口寮國更多優質產品，鼓勵中資企業赴老投資，希望老方為企業提供更好營商環境。今年是“中老友好年”，中方願同老方一道辦好系列慶祝活動，用好紅色資源，深化文化、旅遊、教育、醫療等領域合作，賡續兩國傳統友誼。當前國際經貿秩序遭受嚴重衝擊，中老應當密切協調配合，推動各方共同捍衛以規則為基礎的多邊貿易體制，維護自由貿易和經濟全球化。（新華社）"
     }
   ]
 }
