@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-12 23:30:15",
-  "count": 18436,
+  "updated": "2026-06-12 23:34:28",
+  "count": 18435,
   "items": [
+    {
+      "id": "mkt:019ebc77-5f60-7dd8-afe2-109a9206ed6d",
+      "time": "2026-06-12 23:33:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index down 8.5% on week】The Baltic Dry Index (BDI) closed unchanged at 2,729 on Friday, but fell 8.5% on the week as vessel-segment performance diverged. The Capesize index slipped 33 pts (0.8%) to 4,107, down 16.1% week-on-week. Panamax rose 32 pts (1.4%) to 2,283, up 2.1% for the week. Supramax gained 9 pts (0.6%) to 1,642, a weekly increase of 3.4%."
+    },
+    {
+      "id": "4933191",
+      "time": "2026-06-12 23:33:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "SpaceX美國IPO開盤預示價已經下滑至150美元，比IPO價格高出11%。"
+    },
+    {
+      "id": "4933190",
+      "time": "2026-06-12 23:30:50",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲1.66%，報24610.46點。法國股指初步收漲1.80%，義大利股指初步收漲1.81%、銀行指數漲3.66%，英國股指初步收漲1.53%。"
+    },
+    {
+      "id": "4933189",
+      "time": "2026-06-12 23:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲1.76%，報632.48點。歐元區STOXX 50指數初步收漲2%，報6177.93點。富時泛歐績優300指數初步收漲1.78%，報2528.85點。"
+    },
+    {
+      "id": "mkt:019ebc74-a098-7dd8-afe2-0bd4715f83e0",
+      "time": "2026-06-12 23:30:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chevron (CVX.N) CEO said the company may increase its exposure to the Middle East over time."
+    },
+    {
+      "id": "te:economy:558764",
+      "time": "2026-06-12 23:30:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 39 bps — Majority of government bonds yields are lower on Friday. Top losers are Brazil 10Y (-39bps), Japan 10Y (-4.77bps) and Germany 10Y (-2.70bps). Gains are led by US 10Y (0.90bps)."
+    },
+    {
+      "id": "mkt:019ebc74-69b7-7dd8-afe2-042ee9850f65",
+      "time": "2026-06-12 23:30:06",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish",
+        "UAL.O",
+        "DAL.O"
+      ],
+      "text": "The U.S. Federal Aviation Administration (FAA) issued a ground stop at Newark Airport due to a frequency issue, in effect until 12:45 p.m. local time."
+    },
+    {
+      "id": "4933188",
+      "time": "2026-06-12 23:29:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軟體股邁向二十年來最長連跌，AI擾動之憂再度來襲】軟體公司股價下跌，延續了近期的低迷走勢，該板塊正邁向約二十年來最長的連跌紀錄。安碩擴充套件科技-軟體部門ETF在紐約下跌約1%。如果今天繼續收跌，則將是該股連續第九個交易日下跌——這會是自上一次於2006年6月結束的九天連跌以來最長的連跌紀錄。這一作為軟體行業常用指標的ETF在過去九天的重挫中跌幅超過16%。這再度表明，由於對AI相關擾動的擔憂，市場對該板塊的信心持續下降。"
+    },
     {
       "id": "4933187",
       "time": "2026-06-12 23:29:22",
@@ -169695,87 +169769,6 @@
         "Importance 1"
       ],
       "text": "Baltic Dry Index Eases for 6th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, fell for the sixth consecutive session on Friday, down 1.8% to the lowest since May 21 at 2,981 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, declined by 2.9% to 4,893 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, shed 18 points at 2,236 points. On the other hand, the supramax index rose 4 points to 1,588 points. The benchmark index dropped 7.5% for the week."
-    },
-    {
-      "id": "4920166",
-      "time": "2026-06-05 23:34:07",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根大通更換分析師後對特斯拉悲觀態度銳減】在更換了汽車行業首席分析師後，摩根大通對特斯拉的看空態度明顯減弱。此前，摩根大通安排Rajat Gupta接替Ryan Brinkman負責跟蹤汽車板塊。Brinkman長期以來一直是華爾街最不看好特斯拉股票的分析師之一。Gupta接手後，將摩根大通對特斯拉的目標價上調至475美元，並將該股評級上調至相當於持有的水平。Brinkman自2015年以來一直建議賣出特斯拉股票，並曾預測其股價將在年底前暴跌至145美元。曾在Brinkman手下工作的Gupta在週五釋出的一份報告中，盛讚特斯拉垂直整合模式的“獨特優勢”，稱這一優勢“在某種程度上仍未得到充分重視和理解”。"
-    },
-    {
-      "id": "mkt:019e986b-411e-7665-8308-73ac9cc90235",
-      "time": "2026-06-05 23:33:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US sanctioned Iranian foreign-exchange operator Mehrdad Geramian Nik."
-    },
-    {
-      "id": "4920165",
-      "time": "2026-06-05 23:33:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普為大倒影池翻修工程辯護 稱使用壽命可達百年】美國總統特朗普在社交媒體平臺上表示：位於林肯紀念堂與華盛頓紀念碑之間的大倒影池剛剛重新開放，並獲得了“熱烈好評”。但有些人——無論是出於惡意還是其他原因——聲稱，正如《華盛頓郵報》所稱，這不過是一次“粉刷工程”。這不是粉刷工程。這是一種高度先進、工業級強度的材料，由非常有才華的專業人員施工，其使用壽命可能長達100年。其中許多人來自偉大的俄克拉何馬州，我曾三次在該州全部77個縣獲勝，也是唯一做到這一點的總統。這種材料厚實、堅固、柔韌，並且擁有自然且美麗的顏色——美國國旗的深藍色！"
-    },
-    {
-      "id": "mkt:019e986a-e72b-7665-8308-6b92797be082",
-      "time": "2026-06-05 23:33:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump defends Lincoln Memorial reflecting pool restoration, says material could last 100 years】President Trump said on social media the reflecting pool between the Lincoln Memorial and the Washington Monument has reopened and received \"rave reviews.\" He dismissed The Washington Post's description of the work as a \"paint job,\" saying the project used an advanced, industrial‑strength material applied by skilled professionals that could last up to 100 years, is thick, strong and flexible, and is a deep US‑flag blue."
-    },
-    {
-      "id": "4920164",
-      "time": "2026-06-05 23:31:52",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【愛爾蘭對兩名以色列高官實施旅行禁令】據愛爾蘭媒體5日報道，愛爾蘭總理米歇爾·馬丁當日證實，該國司法部長吉姆·奧卡拉漢已對以色列國家安全部長伊塔馬爾·本-格維爾和財政部長比撒列·斯莫特里赫實施旅行禁令。 馬丁在黑山蒂瓦特出席歐盟-西巴爾幹峰會時表示，上述兩名以色列部長的言行體現出“將巴勒斯坦人從巴勒斯坦清除的意圖”，歐盟應對其追加制裁。 奧卡拉漢的發言人在一份宣告中表示，政府於本週早些時候對這一禁令達成共識，無需內閣批准，移民官員將根據指示拒絕兩名以色列部長入境。宣告還說，兩人在加沙地帶持續惡化的人道主義危機中扮演重要角色。 馬丁和愛爾蘭外長5月曾譴責本-格維爾釋出涉嫌侮辱人道主義活動人士的影片。(新華社)"
-    },
-    {
-      "id": "4920162",
-      "time": "2026-06-05 23:31:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收跌0.64%，報24791.71點。法國股指初步收跌0.19%，義大利股指初步收跌0.38%、銀行指數跌0.22%，英國股指初步收漲0.28%。"
-    },
-    {
-      "id": "4920161",
-      "time": "2026-06-05 23:31:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收跌0.16%，報623.43點。歐元區STOXX 50指數初步收跌0.56%，報6070.68點。富時泛歐績優300指數初步收跌0.14%，報2489.83點。"
-    },
-    {
-      "id": "mkt:019e9868-2c07-7665-8308-657b6272f4b1",
-      "time": "2026-06-05 23:30:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Putin calls Zelenskiy’s open letter 'rude', says meeting 'has no meaning'】At the St. Petersburg Economic Forum plenary on June 5, Putin called Ukrainian President Zelenskiy’s recent open letter \"rude\" and said a meeting now \"has no meaning.\" He warned that because Ukraine publicised bilateral issues, Russia would disclose previously undisclosed information. Putin said a Russian businessman visited Kyiv about three weeks ago; upon returning to Moscow on May 21 the businessman relayed Zelenskiy’s request for talks, and Putin said Ukrainian drones struck a dormitory in Luhansk region in the early hours of May 22."
-    },
-    {
-      "id": "te:markets:556975",
-      "time": "2026-06-05 23:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Merck Stock Price Hits 8-week High — Merck shares increased to 123.15 USD, the highest since April 2026. Over the past 4 weeks, Merck & Co gained 8.39%, and in the last 12 months, it increased 55.87%."
     }
   ]
 }
