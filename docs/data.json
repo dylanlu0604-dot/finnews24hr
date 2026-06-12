@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-12 23:46:56",
-  "count": 18423,
+  "updated": "2026-06-12 23:51:19",
+  "count": 18416,
   "items": [
+    {
+      "id": "4933202",
+      "time": "2026-06-12 23:48:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX 開盤大漲，馬斯克成為全球首位萬億富豪。"
+    },
+    {
+      "id": "4933201",
+      "time": "2026-06-12 23:47:17",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX美國IPO首日開盤報150美元，此前給出的IPO發行價為每股135美元。據報道，此次IPO吸引逾3500億美元認購需求，近三分之一機構未獲配。"
+    },
+    {
+      "id": "4933200",
+      "time": "2026-06-12 23:47:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行納格爾： 歐洲央行必須採取行動，且舉措保持穩健。"
+    },
+    {
+      "id": "mkt:019ebc83-ffb8-7dd8-afe2-5ff87cf9a1a4",
+      "time": "2026-06-12 23:47:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) opened at $150 in U.S. trade on its IPO debut; IPO was priced at $135 per share."
+    },
+    {
+      "id": "te:economy:558767",
+      "time": "2026-06-12 23:46:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Brazil Vehicle Sales Jump in May — New vehicle sales in Brazil jumped 10.6% month-on-month to 274,700 units in May 2026. The month posted the highest average daily sales since December 2014, with 13,700 vehicles sold per day. Electrified models accounted for a record 19.5% of total sales. Fully electric vehicles reached a new high of 21,000 units, while hybrid models totaled 30,700 units. Imported vehicle sales amounted to 55,000 units in May and 223,000 units in the first five months of the year, up 17.4% and outpacing the growth of domestically produced vehicles. By origin, imports from China surged 86.6%, while those from Argentina fell 16.8%. Exports remained a concern, with shipments totaling 37,400 vehicles in May, marking a second consecutive monthly decline. Cumulative sales surpassed the 1 million-unit mark."
+    },
     {
       "id": "te:markets:558766",
       "time": "2026-06-12 23:45:58",
@@ -169536,118 +169586,6 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Outperforms Europe — The FTSE 100 edged higher on Friday, outperforming major European markets. Defensive stocks led gains, with AstraZeneca and GSK rising around 2% each, while Unilever and British American Tobacco advanced roughly 2.5%. Defence group BAE Systems also gained close to 1%. In contrast, mining shares came under heavy pressure, with Rio Tinto falling about 2.8%, Glencore down 3.5%, Anglo American losing 5%, Antofagasta dropping 5.3% and Fresnillo retreating 5.7%. On the data front, Halifax reported that UK house prices slipped 0.1% in May following a similar decline in April, taking the average property price to £298,806. Annual growth for first-time buyers eased to 0.3%, though Halifax said lending conditions are becoming more flexible and housing market activity remains broadly stable. Despite Friday’s gains, the FTSE 100 was down 0.3% for the week."
-    },
-    {
-      "id": "4920184",
-      "time": "2026-06-05 23:50:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【機構：GLP-1減重與糖尿病藥物市場規模將在2030年達到1500億美元】券商道明考文（TD Cowen）對日漸繁榮的GLP-1市場持更加樂觀的態度，將2030年全球糖尿病和肥胖症藥物的銷售額預測值從先前的1390億美元上調至1500億美元。這一全球銷售額預估意味著自2025年起將實現14%的複合年增長率；同時，預計到2030年接受治療的患者人數將從4600萬人增加到5900萬人。推動此次預測上調的核心因素有三個：美國市場價格的下降、口服減重藥物的上市以及新研發管線產品的湧現。"
-    },
-    {
-      "id": "mkt:019e987a-6486-7665-8309-1da1ee7da745",
-      "time": "2026-06-05 23:50:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "LME three-month copper fell 3% to $13,514.50/tonne."
-    },
-    {
-      "id": "4920183",
-      "time": "2026-06-05 23:50:07",
-      "tags": [
-        "市場",
-        "其他"
-      ],
-      "text": "倫敦金屬交易所三個月期銅（CMCU3）大跌 3%，報每噸 13514.5 美元。"
-    },
-    {
-      "id": "mkt:019e987a-3966-7665-8309-15e9a730f50d",
-      "time": "2026-06-05 23:50:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said U.S. adoption of Russian liquefied natural gas technology in Alaska would be efficient."
-    },
-    {
-      "id": "4920182",
-      "time": "2026-06-05 23:49:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫銅日內跌超3.00%，現報13513.500美元/噸。"
-    },
-    {
-      "id": "4920181",
-      "time": "2026-06-05 23:49:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "泛歐交易所：5月現金市場交易總額同比增長22%。股票衍生品成交量環比下降7.7%，同比下降7.4%。"
-    },
-    {
-      "id": "mkt:019e9879-cdb2-7665-8309-0ff17ac03758",
-      "time": "2026-06-05 23:49:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Euronext reported May cash market turnover rose 22% YoY; equity derivatives volume fell 7.7% MoM and 7.4% YoY."
-    },
-    {
-      "id": "4920180",
-      "time": "2026-06-05 23:49:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 美國若在阿拉斯加專案採用俄羅斯液化天然氣技術將具備經濟效益。"
-    },
-    {
-      "id": "mkt:019e9879-2cc0-7665-8309-041807161c51",
-      "time": "2026-06-05 23:48:58",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Boeing (BA.N) CEO said the company will begin producing new 737 MAX aircraft on July 6 at a newly commissioned final assembly line north of Seattle."
-    },
-    {
-      "id": "4920179",
-      "time": "2026-06-05 23:48:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音CEO： 波音將於 7 月 6 日在西雅圖北部新落成的總裝生產線啟動全新 737 MAX 機型的生產。"
-    },
-    {
-      "id": "mkt:019e9878-5659-7665-8308-f932e5dcbcc4",
-      "time": "2026-06-05 23:48:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell below $92/bbl, down 2.64% intraday."
-    },
-    {
-      "id": "mkt:019e9878-0a4b-7665-8308-f5f6fadb6a21",
-      "time": "2026-06-05 23:47:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Putin rejects Zelenskiy’s proposal for face-to-face talks, calls meeting 'meaningless'】At the St. Petersburg International Economic Forum plenary on Friday, Russian President Putin rejected Ukrainian President Zelenskiy’s proposal for a face-to-face meeting to end the war, saying such a meeting would be \"meaningless.\" Putin said he had quickly read Zelenskiy’s letters and described their tone as \"rude,\" asking whether the letters sought to create conditions for talks or to make talks impossible and saying they did the latter. He added Russia is closely monitoring its armed forces’ operations and drew applause after urging \"keep going, brothers.\""
     }
   ]
 }
