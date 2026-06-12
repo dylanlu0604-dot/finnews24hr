@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-12 08:17:24",
-  "count": 18409,
+  "updated": "2026-06-12 08:21:15",
+  "count": 18413,
   "items": [
+    {
+      "id": "mkt:019eb933-4341-7dd8-afcd-1d5dec2bb1eb",
+      "time": "2026-06-12 08:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 jumped 4.00% intraday to 66,793.33 points."
+    },
+    {
+      "id": "4931412",
+      "time": "2026-06-12 08:19:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲2%，至3907.05點。"
+    },
+    {
+      "id": "4931411",
+      "time": "2026-06-12 08:19:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲4%，至66794.32點。"
+    },
+    {
+      "id": "4931410",
+      "time": "2026-06-12 08:19:24",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：非農資料令市場對美聯儲政策路徑重新定價 美聯儲年內或將維持利率不變】中信證券指出，2026年5月美國失業率4.3%，符合預期；新增非農就業人數大超預期，其中休閒酒店業是主要貢獻項。前值上修、出生-死亡模型貢獻低於往年同期，本次非農資料並無太多一次性因素擾動。5月強勁的就業需求可從ADP、JOLTS等其他就業資料中找到呼應，標普500公司提到裁員的次數在5月也明顯減少。供給端整體穩定，總體勞動力參與率與前值持平，壯年參與率小幅上升。強勁的非農資料令市場對美聯儲政策路徑重新定價，中信證券認為美聯儲年內將維持利率不變。關注6月議息會議是否取消點陣圖公佈，若取消，市場可能短期陷入“混亂”，對年內美聯儲利率路徑定價失去基準錨，後續需要密切關注今年票委發言。"
+    },
+    {
+      "id": "mkt:019eb932-a216-7dd8-afcd-17bbe8d2a847",
+      "time": "2026-06-12 08:19:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Court filings show the Trump administration has appealed a court order requiring removal of Trump's name from the Kennedy Center in Washington."
+    },
+    {
+      "id": "4931409",
+      "time": "2026-06-12 08:19:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "據法庭檔案顯示，特朗普政府對要求將特朗普姓名從華盛頓肯尼迪中心移除的法院裁定提起上訴。"
+    },
+    {
+      "id": "4931408",
+      "time": "2026-06-12 08:18:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國首相任命丹·賈維斯為國防大臣】英國首相辦公室11日晚在社交媒體上發表宣告說，丹·賈維斯被任命為英國國防大臣。此前，約翰·希利宣佈辭去國防大臣職務。（新華社）"
+    },
+    {
+      "id": "4931407",
+      "time": "2026-06-12 08:17:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓元漲1% 美伊協議預期提振風險偏好】韓元上漲，美國總統特朗普有關美伊接近達成協議的表態提振市場風險偏好。 美元/韓元一度跌1%至1516.45，前一交易日漲0.6%。"
+    },
+    {
+      "id": "4931406",
+      "time": "2026-06-12 08:17:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）資料顯示，荷蘭近月天然氣合約價格下跌超5%，至47.09歐元/兆瓦時。"
+    },
+    {
+      "id": "mkt:019eb930-cfcb-7dd8-afcd-0c727a9fe3c4",
+      "time": "2026-06-12 08:17:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Euro STOXX 50 futures rose 1.8%, DAX futures gained 1.7% and FTSE 100 futures were up 0.9%."
+    },
     {
       "id": "4931405",
       "time": "2026-06-12 08:16:44",
@@ -169724,59 +169822,6 @@
         "國際"
       ],
       "text": "韓國綜合股價指數（KOSPI）跌幅擴大至6%，晶片製造商股價暴跌。"
-    },
-    {
-      "id": "mkt:019e9527-b9f8-7cc8-bdf0-31374d94834b",
-      "time": "2026-06-05 08:21:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Department of Health and Human Services confirmed Americans at high risk of Ebola exposure will receive experimental treatment."
-    },
-    {
-      "id": "4918339",
-      "time": "2026-06-05 08:19:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國產業通商部長稱美國重申對韓關稅不會高於去年協議水平】韓國產業通商部長金正官週四在與美國商務部長霍華德·盧特尼克會談後表示，美國再次向韓國保證，對韓國徵收的關稅不會超過去年雙邊關稅協議中商定的水平。金正官在社交媒體文稱，盧特尼克在視訊會議中確認了這一點。"
-    },
-    {
-      "id": "te:economy:556625",
-      "time": "2026-06-05 08:19:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Tourist Arrivals Recover in May — The number of foreign tourist arrivals in Sri Lanka grew by 9.65% year-on-year to 145,745 in May 2026, after a 22.3% slump in the previous month. This marked the highest number of arrivals in three months, with India remaining the top source market, contributing 60,342 visitors and accounting for 42% of total arrivals, continuing its strong position as the leading inbound tourism driver for the island. This was followed by the UK (6%), China (6%), Germany (5%), and Australia (4%). Sri Lanka has set an ambitious target of 3 million arrivals for 2026, after missing the goal last year. Despite a decline of tourist arrivals in the prior months due to the Middle East war conflict, a recovery has been observed with a total of 134,530 tourists visiting the country in the first five months of the year, noting a resurgence in tourist arrivals."
-    },
-    {
-      "id": "4918338",
-      "time": "2026-06-05 08:19:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：金剛石散熱持續迭代，金剛石熱沉片、金剛石銅複合材料商業化落地最快】中信建投研報認為，算力產業持續擴容帶動晶片整合度與功率密度大幅提升，高熱流密度下傳統銅基散熱材料已達瓶頸。金剛石熱導率遠超銅、銀、矽、碳化矽等材料，是突破高階晶片散熱瓶頸的關鍵方向。目前金剛石散熱材料包括金剛石基複合材料、單晶金剛石、多晶金剛石三大路線，技術路線尚未完全定型，其中金剛石銅複合材料兼顧效能與成本，產業化節奏領先。應用上包含金剛石襯底、金剛石熱沉片、金剛石微通道散熱形態，金剛石熱沉片、金剛石銅複合材料商業化落地最快，國內外廠商已有相關產品。金剛石正從傳統磨料、培育鑽石延展至半導體、大功率器件導熱等功能性材料，AI算力增長正持續開啟超高導熱金剛石材料的增長空間，重點關注產業量產、客戶認證進度。"
-    },
-    {
-      "id": "4918337",
-      "time": "2026-06-05 08:18:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "海力士股價跌幅進一步擴大；最新報209.8萬韓元，跌幅8.7%。"
-    },
-    {
-      "id": "4918336",
-      "time": "2026-06-05 08:17:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【創紀錄干預匯市後 日本5月份持有外國證券的金額大減近760億美元】在過去一個月創紀錄規模的匯市干預以支撐日元后，日本5月份持有的外國證券金額大幅下降。根據財務省週五公佈的資料，日本持有美國國債等外國證券的金額較4月減少了756億美元。截至5月底，外匯儲備總額降至1.09萬億美元。外幣存款基本持平，為1620億美元。日本先前公佈的資料顯示，在截至5月28日的一個月內，動用了創紀錄的11.73萬億日元(734億美元)來干預外匯市場。一位知情人士證實，在日元兌美元匯率跌至160.72後，當局在4月30日買入了日元，市場也普遍猜測隨後幾天又進行了多輪買入日元的操作。"
     }
   ]
 }
