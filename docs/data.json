@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-13 01:54:32",
-  "count": 18442,
+  "updated": "2026-06-13 01:58:34",
+  "count": 18439,
   "items": [
+    {
+      "id": "mkt:019ebcfa-c790-7dd8-afe5-0abd78adb1b3",
+      "time": "2026-06-13 01:56:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge has scheduled a hearing in the criminal case against Turkey's Halkbank for Wednesday, June 17."
+    },
+    {
+      "id": "mkt:019ebcf9-f759-7dd8-afe5-02a6b2ab5519",
+      "time": "2026-06-13 01:55:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US State Department said it will work with Congress to provide $50 million to the Coalition for Epidemic Preparedness Innovations (CEPI) to fund R&D of medical countermeasures against the Bundibugyo strain of Ebola."
+    },
+    {
+      "id": "4933287",
+      "time": "2026-06-13 01:55:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：此次對流行病防範創新聯盟的資金支援，將助力研發針對埃博拉病毒本迪布焦毒株的醫療應對手段。"
+    },
+    {
+      "id": "mkt:019ebcf9-74c2-7dd8-afe4-f80e57e77065",
+      "time": "2026-06-13 01:55:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【US energy secretary Wright: US refiners can absorb more Venezuelan crude】US Energy Secretary Wright said on Friday US refiners can absorb more Venezuelan crude. He said Venezuela currently sends about half of its roughly 1.2 mln bpd of exports to the US and that share could rise in coming months. Wright added Iran is currently exporting no oil or refined products, and the US has actively filled the export shortfall during the Middle East conflict."
+    },
+    {
+      "id": "4933286",
+      "time": "2026-06-13 01:55:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：正與國會協作，擬向流行病防範創新聯盟（CEPI）提供 5000 萬美元資金。"
+    },
     {
       "id": "mkt:019ebcf6-e7ab-7dd8-afe4-f31f026d69cc",
       "time": "2026-06-13 01:52:38",
@@ -169728,85 +169775,6 @@
         "國際"
       ],
       "text": "特朗普：房利美、房地美的首次公開募股方案並未被排除，但暫不急於推進。"
-    },
-    {
-      "id": "4920264",
-      "time": "2026-06-06 01:57:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：得益於美方協助，大量原油經由霍爾木茲海峽外運。"
-    },
-    {
-      "id": "mkt:019e98ee-021f-7665-830b-5c415c3a8fb6",
-      "time": "2026-06-06 01:56:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US President Trump said large volumes of oil are entering the United States."
-    },
-    {
-      "id": "mkt:019e98ed-9a7a-7665-830b-53f2b4f343ae",
-      "time": "2026-06-06 01:56:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "President Trump said he will meet with artificial intelligence firms soon; they may visit the White House next week."
-    },
-    {
-      "id": "mkt:019e98ed-86d5-7665-830b-4818b6de1de0",
-      "time": "2026-06-06 01:56:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "ICE: For the week ended June 2, speculative net long diesel positions fell by 1,808 contracts to 52,000 contracts."
-    },
-    {
-      "id": "4920263",
-      "time": "2026-06-06 01:55:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：大量原油正源源不斷流入美國。"
-    },
-    {
-      "id": "4920262",
-      "time": "2026-06-06 01:55:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：正研究美國民眾如何從人工智慧發展中獲益。"
-    },
-    {
-      "id": "mkt:019e98ec-bfe3-7665-830b-44c51f504c4f",
-      "time": "2026-06-06 01:55:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "ICE: Speculative net long positions in Brent crude fell by 26,220 contracts to 252,500 in the week to June 2."
-    },
-    {
-      "id": "4920261",
-      "time": "2026-06-06 01:55:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）：6月2日當週，投機者所持ICE布倫特原油淨多頭頭寸減少26,220手合約，至252,500手合約，創最近18周新低。"
     }
   ]
 }
