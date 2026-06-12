@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-12 23:38:29",
-  "count": 18432,
+  "updated": "2026-06-12 23:42:33",
+  "count": 18420,
   "items": [
+    {
+      "id": "mkt:019ebc7f-75ae-7dd8-afe2-31a938d08065",
+      "time": "2026-06-12 23:42:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Traders, ship-trackers: Gulf oil flows rising; supply shortfall far below initial estimates】Traders and ship‑tracking firms report several million barrels per day are moving through the Strait of Hormuz undetected, increasing Gulf oil flows. They estimate the reduction in Gulf supply at 5–6 mln b/d, well below earlier 12–15 mln b/d estimates."
+    },
+    {
+      "id": "4933196",
+      "time": "2026-06-12 23:41:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商及船舶追蹤機構稱，每日數百萬桶原油繞過霍爾木茲海峽監管流出，海灣原油供應量隨之增加。"
+    },
+    {
+      "id": "4933195",
+      "time": "2026-06-12 23:41:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易及航運業內訊息稱，海灣原油日減產規模維持在 500 萬至 600 萬桶，遠低於此前預估的 1200 萬至 1500 萬桶。"
+    },
     {
       "id": "4933194",
       "time": "2026-06-12 23:37:07",
@@ -169586,155 +169611,6 @@
         "BA.N"
       ],
       "text": "Boeing (BA.N) CEO said there are no new developments yet regarding the collapse of the nose landing gear on a Lufthansa aircraft."
-    },
-    {
-      "id": "mkt:019e9873-3134-7665-8308-d66bdd131969",
-      "time": "2026-06-05 23:42:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EU is pressing to impose sanctions on Israeli national security minister Ben-Gvir, market sources say."
-    },
-    {
-      "id": "4920177",
-      "time": "2026-06-05 23:42:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音CEO： 針對漢莎航空客機機頭破損事故暫無最新進展。"
-    },
-    {
-      "id": "mkt:019e9872-6d72-7665-8308-cb171a0046b3",
-      "time": "2026-06-05 23:41:36",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Boeing (BA.N) CEO said the company has had no discussions about delaying deliveries."
-    },
-    {
-      "id": "4920176",
-      "time": "2026-06-05 23:41:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟正醞釀對以色列國家安全部長實施制裁。"
-    },
-    {
-      "id": "te:markets:556979",
-      "time": "2026-06-05 23:41:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Nuclear Energy Index Hits 9-week Low — Nuclear Energy Index decreased to 46.55 USD, the lowest since March 2026. Over the past 4 weeks, Nuclear Energy Index lost 20.16%, and in the last 12 months, it increased 38.65%."
-    },
-    {
-      "id": "4920175",
-      "time": "2026-06-05 23:40:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音CEO： 公司未曾商議延期交付相關事宜。"
-    },
-    {
-      "id": "4920174",
-      "time": "2026-06-05 23:40:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "彭博美元現貨指數上漲0.5%，創兩個月來最大漲幅。"
-    },
-    {
-      "id": "mkt:019e9870-f02e-7665-8308-c64d1506c050",
-      "time": "2026-06-05 23:39:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "NVIDIA (NVDA.O) shares fell as much as 5% intraday."
-    },
-    {
-      "id": "mkt:019e9870-c5fa-7665-8308-bf009044d58b",
-      "time": "2026-06-05 23:39:44",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Boeing (BA.N) chief executive said the company is optimistic about raising 787 production to 10 aircraft per month by year-end."
-    },
-    {
-      "id": "4920173",
-      "time": "2026-06-05 23:39:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音樂觀預計，年底前 787 機型月產能提升至 10 架。"
-    },
-    {
-      "id": "mkt:019e9870-996f-7665-8308-b048451c8bad",
-      "time": "2026-06-05 23:39:36",
-      "tags": [
-        "MKT News",
-        "BA.N"
-      ],
-      "text": "Boeing (BA.N) CEO said plans to raise 737 production to above 63 aircraft per month remain in the \"research and evaluation\" stage."
-    },
-    {
-      "id": "mkt:019e9870-7800-7665-8308-ab8d6d3baffc",
-      "time": "2026-06-05 23:39:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell 3% intraday to $4,341.31/oz."
-    },
-    {
-      "id": "4920172",
-      "time": "2026-06-05 23:39:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音CEO： 737 機型月產量突破 63 架的相關規劃目前僅處在研究論證階段。"
-    },
-    {
-      "id": "mkt:019e9870-17dc-7665-8308-a292b6bc0dda",
-      "time": "2026-06-05 23:39:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants",
-        "China EV Leaders",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "The Nasdaq Golden Dragon China Index fell about 3%; constituents: Baidu (BIDU.O) down more than 9%, GDS (GDS.O) down over 6%, Kingsoft Cloud (KC.O) down 5.7%, NIO (NIO.N) and XPeng (XPEV.N) down more than 4%, Li Auto (LI.O) down over 3%."
-    },
-    {
-      "id": "4920171",
-      "time": "2026-06-05 23:38:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4340美元/盎司，日內跌3.05%。"
     }
   ]
 }
