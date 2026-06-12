@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-12 23:12:56",
-  "count": 18468,
+  "updated": "2026-06-12 23:17:20",
+  "count": 18453,
   "items": [
+    {
+      "id": "te:markets:558758",
+      "time": "2026-06-12 23:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Hovers Around 2-Month Lows — Cotton futures traded around 76 cents per pound, holding close to the lowest since early April, mainly pressured by falling oil prices. Renewed hopes of a US–Iran deal weighed on crude prices, boosting polyester appeal and potentially reducing cotton demand. Meanwhile, data from the June US agricultural supply and demand report pointed to a tighter global cotton balance in 2026/27, with lower beginning and ending stocks and slightly higher consumption. World production is forecast to remain stable at 116.04 million bales, while demand rises, led by China. The US cotton balance sheet showed lower beginning and ending stocks, reflecting a 200,000-bale reduction carried over from the previous year. For 2025/26, higher global exports are expected to reduce ending stocks, while world production and consumption remain largely unchanged. Global exports were raised by more than 1%, led by Brazil, the United States, Kazakhstan and Turkey."
+    },
+    {
+      "id": "4933175",
+      "time": "2026-06-12 23:14:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報16141.00元。"
+    },
+    {
+      "id": "4933174",
+      "time": "2026-06-12 23:14:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【王文濤部長會見巴西外交部長維埃拉】6月1日，商務部部長王文濤在京會見巴西外交部長維埃拉。雙方就中巴經貿關係和多邊框架下合作等議題進行交流。\n王文濤表示，中巴兩國是東西半球最大的發展中國家和重要新興市場，在元首外交戰略引領下，兩國經貿合作長期保持健康穩定發展。當前國際局勢發生深刻複雜變化，中巴作為全球南方重要代表，應攜手共同應對挑戰。中方願與巴方一道，不斷加強戰略對接和溝通協作，深化務實合作，共同反對單邊主義、保護主義，維護多邊貿易體制和公平開放的國際經貿秩序，為推動全球經濟復甦與發展繼續作出積極貢獻。\n維埃拉表示，過去三年兩國元首實現三次互訪，充分體現雙方政治互信和友好關係。在巴中高委會機制引領下，雙邊經貿合作取得務實豐碩成果。巴方高度重視發展對華關係，願同中方一道，落實好兩國元首重要共識，推動貿易投資合作高質量發展，深化在多邊框架下溝通協調，積極維護以世貿組織為核心的多邊貿易體制。（商務部網站）"
+    },
+    {
+      "id": "4933173",
+      "time": "2026-06-12 23:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【凌激副部長兼國際貿易談判副代表會見英中貿協主席吳思田 】6月1日，商務部副部長兼國際貿易談判副代表凌激會見英中貿易協會主席吳思田，並與部分在華英資企業代表交流。凌激表示，今年是中國“十五五”開局之年，中國發展新質生產力、擴大制度型開放，中英經貿合作正面臨重要機遇期，希望英資企業發揮服務業創新優勢，為中英合作增添新動能。吳思田表示，英中貿協願一如既往支援雙方企業增進交流與合作，深化雙方在現代服務業、綠色低碳、生物製藥等領域合作。會見後，商務部投資促進事務局與英中貿協簽署《雙向投資促進合作諒解備忘錄》。（商務部網站）"
+    },
     {
       "id": "4933172",
       "time": "2026-06-12 23:09:56",
@@ -169904,178 +169940,6 @@
         "其他"
       ],
       "text": "惠譽：預計未來兩年南非債務率將企穩在 GDP 的 80% 左右。將南非評級上調至“BB”；展望穩定。此次評級上調主要反映南非在審慎財政管理和財政整合方面的良好記錄。"
-    },
-    {
-      "id": "mkt:019e985c-3615-7665-8307-d9f01ec0f73d",
-      "time": "2026-06-05 23:17:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Fitch: This rating upgrade mainly reflects South Africa's strong record of prudent fiscal management and fiscal consolidation."
-    },
-    {
-      "id": "mkt:019e985b-f8a7-7665-8307-d78603176a54",
-      "time": "2026-06-05 23:17:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Putin said there is no point in meeting Zelensky at present."
-    },
-    {
-      "id": "mkt:019e985b-db49-7665-8307-ca51523b8f5c",
-      "time": "2026-06-05 23:16:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Zelenskiy requested a meeting but he saw no reason to meet and said a durable peace agreement is needed."
-    },
-    {
-      "id": "4920143",
-      "time": "2026-06-05 23:16:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 澤連斯基提出了會面請求，但我認為暫無會晤必要，我們需要能實現持久和平的相關協議。"
-    },
-    {
-      "id": "mkt:019e985b-8ed5-7665-8307-c0410cfdecb5",
-      "time": "2026-06-05 23:16:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver plunged 7% intraday to $68.70/oz; New York silver futures fell 7% to $68.79/oz."
-    },
-    {
-      "id": "4920142",
-      "time": "2026-06-05 23:16:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：澤連斯基經由一名商人提出會晤請求。"
-    },
-    {
-      "id": "mkt:019e985b-34ee-7665-8307-bf1bb43439e5",
-      "time": "2026-06-05 23:16:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH upgraded South Africa's sovereign rating to BB; outlook stable."
-    },
-    {
-      "id": "4920141",
-      "time": "2026-06-05 23:15:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌7%，現報68.77美元/盎司。"
-    },
-    {
-      "id": "4920140",
-      "time": "2026-06-05 23:15:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌7%，現報68.68美元/盎司。"
-    },
-    {
-      "id": "mkt:019e985a-921d-7665-8307-b57365d683ef",
-      "time": "2026-06-05 23:15:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said a Russian businessman met with Zelenskiy in Kyiv."
-    },
-    {
-      "id": "te:economy:556963",
-      "time": "2026-06-05 23:15:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - Jun 8th — Any potential break from the prolonged impasse between Iran and the US will dictate global markets next week, as elevated energy prices continue to make central banks heed inflationary risks. The US is due to release its consumer and producer inflation figures, the final price gauge before this month's Federal Reserve decision, in addition to existing home sales and the trade balance. Likewise, trade data and inflation prints are also awaited in China. Meanwhile, the European Central Bank and the Bank of Canada will set their monetary policy. The UK will release April's GDP and join Germany in posting trade balances and industrial production. Elsewhere, Australia will release industry leading indicators and Brazil, Mexico, and Russia should unveil their CPIs. On the corporate front, SpaceX will undergo what is likely to be the largest IPO on record. Additionally, OPEC+ will vote on the cartel's output quota in their first meeting without the UAE."
-    },
-    {
-      "id": "4920139",
-      "time": "2026-06-05 23:15:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 一名俄羅斯商人在基輔會見了烏克蘭總統澤連斯基。"
-    },
-    {
-      "id": "te:markets:556961",
-      "time": "2026-06-05 23:14:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Arabica Coffee Prices at 2024-Lows — Arabica coffee futures continued to ease to trade slightly below $2.50 per pound, a fresh low since November 2024, pressured by prospects of robust supply. The Brazilian harvest remains in focus, with fieldwork reportedly progressing well under dry and hot conditions, supporting the flow of new beans. This reinforced expectations of a bumper crop this season. In its latest report, the USDA projected Brazil’s 2026/27 crop at a record 71.9 million bags, up 14% from 2025/26 and above the 2020/21 level. This figure is notably higher than Conab’s official estimate of 66.7 million bags. The arabica crop is forecast at 47.5 million bags, up 25% year-on-year and near record levels seen in 2018 and 2020, marking the end of a five-year period of weaker production due to adverse weather conditions. Separately, Rabobank raised its 2026/27 global coffee surplus estimate to 9.5 million bags from 7.0 million, including 5.9 million bags of arabica."
-    },
-    {
-      "id": "te:markets:556960",
-      "time": "2026-06-05 23:14:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Berkshire Hathaway Stock Price Hits 11-week High — Berkshire Hathaway shares increased to 489.47 USD, the highest since March 2026. Over the past 4 weeks, Berkshire Hathaway gained 4.16%, and in the last 12 months, it decreased 0.84%."
-    },
-    {
-      "id": "mkt:019e9859-37d4-7665-8307-af77882855e5",
-      "time": "2026-06-05 23:14:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Ukraine was wrong to disclose the content of their negotiations."
-    },
-    {
-      "id": "4920138",
-      "time": "2026-06-05 23:13:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 烏克蘭將我們之間的會談公之於眾的做法不妥。"
-    },
-    {
-      "id": "mkt:019e9858-9c1f-7665-8307-a399bbb1765e",
-      "time": "2026-06-05 23:13:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin said he is grateful to Trump but that some work remains to be done."
-    },
-    {
-      "id": "4920137",
-      "time": "2026-06-05 23:13:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我感謝特朗普，但仍有諸多事宜有待推進。"
-    },
-    {
-      "id": "mkt:019e9858-455a-7665-8307-9812512c0a73",
-      "time": "2026-06-05 23:12:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said he did not understand why Ukraine would not want the Trump administration to serve as guarantor for peace talks."
     }
   ]
 }
