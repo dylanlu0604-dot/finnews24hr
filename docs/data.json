@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-12 12:41:48",
-  "count": 18449,
+  "updated": "2026-06-12 12:45:43",
+  "count": 18433,
   "items": [
+    {
+      "id": "mkt:019eba24-8edb-7dd8-afd1-b23ee87c68d5",
+      "time": "2026-06-12 12:43:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BARCLAYS upgraded its rating on the European gaming sector to Neutral."
+    },
+    {
+      "id": "4931814",
+      "time": "2026-06-12 12:43:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴克萊上調歐洲博彩板塊評級至與大盤持平。"
+    },
+    {
+      "id": "4931813",
+      "time": "2026-06-12 12:43:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【同程旅行釋出《2026暑期非遺目的地指南》，非遺體驗搜尋熱度環比增長71%】6月13日是“文化和自然遺產日”。6月12日，同程旅行釋出《2026暑期非遺目的地指南》，上榜目的地依次為：景德鎮、泉州、蘇州、西安、大理、潮州、黔東南、成都、黃山、平遙。同程旅行資料顯示，截至6月12日，平臺上“非遺體驗”相關關鍵詞搜尋熱度環比上月增長71%，非遺主題產品預訂熱度環比上月增長23%，其中“非遺扎染”“非遺戲劇”等深度體驗類產品增幅顯著，非遺正從“被動觀看”加速轉向“主動體驗”。"
+    },
+    {
+      "id": "4931812",
+      "time": "2026-06-12 12:41:37",
+      "tags": [
+        "央行"
+      ],
+      "text": "【美伊停戰預期緩解通脹擔憂，創業板50ETF華安（159949）半日成交超10億領跑同類！機構：6月下旬高景氣方向有望重獲資金佈局】6月12日，市場早盤高開後強勢震盪，創業板指高開後震盪回落，三大股指均漲超1％。受此帶動，創業板50ETF華安（159949）漲1.14％，報1.869元，換手率4.43％，成交額10.16億元，居同類標的ETF首位。訊息面上，市場預期美伊有望達成停戰協議，國際原油走低，全球通脹擔憂顯著緩解，海外央行激進加息週期接近尾聲，實際利率上行壓力減弱。與此同時，新能源汽車、風電、人形機器人等新興產業持續擴張，全球氧化鐠釹需求預計由2025年的11.8萬噸增至2027年的13.6萬噸，新能源汽車釹鐵硼需求由6.9萬噸升至8.5萬噸，上游資源需求彈性持續提升。華西證券研究所副所長、策略首席分析師李立峰認為，6月下旬，隨著壓制風險偏好的外部變數逐步落地，A股中報業績預告陸續披露，具備業績支撐、產業趨勢明確的高景氣方向有望重獲資金佈局。平安基金表示，下半年A股整體或延續強勢格局，但正從估值驅動向盈利換估值階段切換，權益資產配置價值依然突出，結構重於總量。宏觀層面，全球經濟正向AI投資與裝備製造的正規化切換，國內中游製造迎來戰略躍升期，有望成為未來一到三年的核心景氣主線；微觀層面，AI產業從獎勵資本開支轉向驗證真實回報，產能逐漸成為選股的首要標準，光通訊、半導體裝置材料等方向確定性強。投資者可直接透過股票賬戶交易創業板50ETF華安（159949），也可透過聯接基金（A類：160422；C類：160424；I類：022654；Y類：022976）參與。"
+    },
+    {
+      "id": "4931811",
+      "time": "2026-06-12 12:41:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【惠譽：泰國今年遊客入境人數可能下降】惠譽解決方案旗下BMI的分析師表示，在泰國經濟中發揮關鍵作用的國際旅遊業可能依然低迷。他們在一份報告中表示，該行業面臨中東衝突帶來的風險升溫，這影響了歐洲和中東長途旅客的航班路線。該行業還面臨來自其他區域市場日益激烈的競爭。他們補充說，遊客入境人數減少將影響包括酒店和餐廳在內的其他相關服務的支出。BMI預計，2026年泰國遊客入境人數將下降2.7%。"
+    },
     {
       "id": "te:economy:558581",
       "time": "2026-06-12 12:40:51",
@@ -169955,202 +169995,6 @@
         "Magnificent 7"
       ],
       "text": "NVIDIA (NVDA.O) CEO Jensen Huang said the company will begin hiring staff for an R&D center in South Korea."
-    },
-    {
-      "id": "4918726",
-      "time": "2026-06-05 12:45:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英偉達執行長：將在韓國研發中心啟動招聘工作。"
-    },
-    {
-      "id": "4918725",
-      "time": "2026-06-05 12:45:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勝利精密：複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段】勝利精密6月5日在互動平臺表示，現階段公司擁有三臺磁控裝置、三條水鍍線，新的一條水鍍線正在安裝除錯中，目前複合銅箔專案仍處於工藝最佳化、樣品測試和量產準備階段，前期已實現小批次供貨，尚未取得大批次訂單，公司會結合自身專案進度、市場實際需求及行業整體進度來推進投資。"
-    },
-    {
-      "id": "4918724",
-      "time": "2026-06-05 12:44:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長：2027財年消費者物價指數通脹預期為5.1%（此前預期為4.6%）。"
-    },
-    {
-      "id": "mkt:167b45dc-b032-433c-95b1-f421dff8ce98",
-      "time": "2026-06-05 12:44:51",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said the company will use memory supply as intelligently as possible."
-    },
-    {
-      "id": "mkt:019e9618-f5ac-7221-a7b0-cd59c80a1111",
-      "time": "2026-06-05 12:44:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Reserve Bank of India governor says average oil prices will be significantly higher than assumed in the previous policy."
-    },
-    {
-      "id": "4918723",
-      "time": "2026-06-05 12:44:21",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【卓創資訊：5月白銀衝高回落，後市關注美聯儲利率決議與美伊談判】5月以來白銀衝高回落，重心窄幅下探。截至6月4日，國內現貨1#白銀報價17711元/千克，相較5月初累計下跌4.41%。5月初美伊釋放和談訊號，疊加主要資源國秘魯開啟能源緊急法令使市場擔憂礦端產出，白銀價格震盪上漲，但隨著主要消費國印度提升白銀進口關稅、美聯儲鴿派票委米蘭辭職以及美伊在關鍵問題上僵持，市場交易加息預期，白銀承壓為主。後市來看，宏觀邏輯仍在於美聯儲利率決議和美伊談判，國內庫存目前水位較高，消費略偏疲軟未能提供基本面支撐，短期關注美國5月非農就業報告和CPI資料，預計白銀價格短期難有明顯方向性。（卓創資訊）"
-    },
-    {
-      "id": "4918722",
-      "time": "2026-06-05 12:44:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長：我們將儘可能高效靈活地調配記憶體供應。"
-    },
-    {
-      "id": "mkt:019e9618-5209-766c-9546-9dbf2bb0ed19",
-      "time": "2026-06-05 12:43:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Reserve Bank of India governor said India's crude oil price averaged $110 a barrel over the past two months."
-    },
-    {
-      "id": "4918721",
-      "time": "2026-06-05 12:43:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：平均油價將大幅高於上一次貨幣政策制定時的預期水平。"
-    },
-    {
-      "id": "mkt:019e9618-3655-766c-9546-91b0938f37e9",
-      "time": "2026-06-05 12:43:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "The Reserve Bank of India governor said CPI inflation in March and April was below target. Core inflation remained stable; core inflation excluding precious metals declined sharply over the period."
-    },
-    {
-      "id": "4918720",
-      "time": "2026-06-05 12:43:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：過去兩個月，印度原油籃子的平均油價為每桶110美元。"
-    },
-    {
-      "id": "4918719",
-      "time": "2026-06-05 12:43:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "英偉達黃仁勳：我為韓國帶來了大量業務。將與韓國合作伙伴討論如何協調供應鏈。"
-    },
-    {
-      "id": "mkt:019e9617-7817-7221-a7b0-c633a459ec5d",
-      "time": "2026-06-05 12:42:54",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said he plans to meet with Hyundai, Samsung and SK Group."
-    },
-    {
-      "id": "4918718",
-      "time": "2026-06-05 12:42:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：3月和4月整體消費者物價指數通脹低於目標水平。"
-    },
-    {
-      "id": "4918717",
-      "time": "2026-06-05 12:42:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長：計劃與現代、三星、SK集團會面。"
-    },
-    {
-      "id": "mkt:019e9616-e224-766c-9546-816d9be6edff",
-      "time": "2026-06-05 12:42:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said he has brought a lot of business to South Korea."
-    },
-    {
-      "id": "4918716",
-      "time": "2026-06-05 12:42:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：預計27財年第二季度實際國內生產總值增速為6.3%（此前預測為6.7%）。"
-    },
-    {
-      "id": "mkt:019e9616-c32d-766c-9546-7ffd823af450",
-      "time": "2026-06-05 12:42:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hebei launches Level-3 emergency response for major meteorological disaster (heavy rain)】Hebei province activated a Level-3 emergency response for a major meteorological disaster (heavy rain) at 10:00 today, the provincial emergency management department said. Authorities ordered departments to closely monitor heavy rain from this evening through the 6th, step up risk assessment and safety-hazard inspections, and timely activate higher-level heavy-rain emergency responses as needed."
-    },
-    {
-      "id": "mkt:019e9616-bb5a-766c-9546-74faaaa84a5a",
-      "time": "2026-06-05 12:42:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor says rate decisions will remain data-dependent."
-    },
-    {
-      "id": "4918715",
-      "time": "2026-06-05 12:42:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：預計27財年第一季度實際國內生產總值增長率為6.6%，此前預期為6.8%。"
-    },
-    {
-      "id": "4918714",
-      "time": "2026-06-05 12:41:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：2027財年實際GDP增速預期為6.6%，此前預期為6.9%。"
     }
   ]
 }
