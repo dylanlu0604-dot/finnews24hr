@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-12 08:29:02",
-  "count": 18412,
+  "updated": "2026-06-12 08:32:55",
+  "count": 18415,
   "items": [
+    {
+      "id": "te:markets:558499",
+      "time": "2026-06-12 08:32:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tokyo Electron Stock Price Hits All-time High — Tokyo Electron shares increased to an all-time high of 69330.00 JPY. Over the past 4 weeks, Tokyo Electron gained 34.38%, and in the last 12 months, it increased 189.87%."
+    },
+    {
+      "id": "4931425",
+      "time": "2026-06-12 08:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨上漲0.5%，標普500指數期貨上漲0.3%。"
+    },
+    {
+      "id": "mkt:019eb93c-638a-7dd8-afcd-2f8f7b3a3425",
+      "time": "2026-06-12 08:30:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI index extended gains to 8%, with Samsung Electronics up 11% and SK Hynix up 8%."
+    },
+    {
+      "id": "4931423",
+      "time": "2026-06-12 08:29:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至8%】受晶片股強勁上漲提振，韓國綜指漲幅擴大至8%，現報8384.95點。 三星電子上漲11.5%，SK海力士上漲9%，韓美半導體上漲4.8%。"
+    },
+    {
+      "id": "4931422",
+      "time": "2026-06-12 08:29:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "據當地電視臺：泰國國王長女久病不治離世。"
+    },
+    {
+      "id": "4931421",
+      "time": "2026-06-12 08:28:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數上漲4.0%，晶片相關股票領漲】受對美伊和平協議重燃樂觀情緒的提振，日本股市早盤走高。晶片相關股票領漲。東京電子上漲11%，愛德萬測試上漲8.2%。在美國總統特朗普表示美國接近與伊朗達成和平協議後，投資者正密切關注有關伊朗衝突的事態發展。日經指數上漲4.0%，報66784.49點。"
+    },
     {
       "id": "4931420",
       "time": "2026-06-12 08:27:47",
@@ -169770,37 +169828,6 @@
         "MKT News"
       ],
       "text": "【Putin says Russia and Ukraine should say \"Thank God it's over\" when conflict ends】On the 4th in St. Petersburg, President Putin told heads of major news agencies that when the Russia-Ukraine conflict ends, both sides should at least say \"Thank God it's over\"."
-    },
-    {
-      "id": "te:markets:556626",
-      "time": "2026-06-05 08:32:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Slip Ahead of Key Jobs Data — US stock futures declined on Friday as investors awaited the release of the May employment report for fresh insight into labor market conditions and the likely path of Federal Reserve policy. Uncertainty also lingered on Wall Street as the fragile ceasefire between the US and Iran held amid reports of stalled negotiations, despite President Donald Trump’s insistence that talks are nearing completion. On the corporate front, shares of Lululemon Athletica tumbled more than 11% in extended trading after the athleisure retailer cut its full-year earnings and revenue forecasts. During Thursday’s regular session, the Dow Jones surged 1.73% to a fresh record high, led by gains in healthcare and financial stocks. The S&P 500 advanced 0.41%, while the tech-heavy Nasdaq Composite slipped 0.09% as a weak outlook from Broadcom weighed on AI-related shares."
-    },
-    {
-      "id": "4918350",
-      "time": "2026-06-05 08:31:27",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：科創板“1+6”改革成效顯著 生態形成良性閉環】中信證券研報認為，回顧“1+6”改革一週年，投融資生態已形成良性閉環，在融資、併購、企業生態等多維度助力相關企業的高效發展。當前節點來看，改革已跨過制度宣示階段，進入生態驗證階段，後續值得關注的是盈利轉化能力及業績兌現能力等中長期趨勢，進行線路的驗證及反哺。分賽道來看，細分賽道的政策傳導已經呈現出清晰梯度，生物醫藥率先完成驗證，人工智慧正在加速接棒，良好的發展態勢正在推動科創板從“試驗田”真正走向“示範田”。"
-    },
-    {
-      "id": "4918349",
-      "time": "2026-06-05 08:30:53",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國股市此前領跑全球大漲行情現裂痕，股指大跌】規模達4.9萬億美元的韓國股市在一輪領跑全球的上漲行情後開始顯露承壓跡象。韓國綜合股價指數（Kospi）週五早盤最大跌幅達6.4%，三星電子、SK海力士跌幅均超7%，極端跌幅凸顯股指波動加劇。受期貨大跌拖累，韓國交易所一度暫停韓綜指程式化賣單。截至本週四，韓綜指年內漲幅超100%，但行情高度集中於兩大晶片龍頭股，一旦人工智慧題材行情降溫，大盤極易快速走弱。散戶入場熱度同步回落，融資融券規模高企還面臨韓國央行加息帶來的平倉風險。分析師表示，主打放大單日漲跌幅的槓桿型ETF普及，或將進一步放大行情回撥幅度。首爾 Eugene資產管理首席投資官Ha SeokKeun稱：“相較於基本面走弱，當前我更擔憂市場持倉過熱。未來一至兩個月，市場大機率進入高波動的盤整休整階段。”市場結構分化是核心隱憂。韓國交易所資料顯示，受人工智慧晶片需求提振的三星電子與SK海力士合計佔到韓國綜合指數（Kospi）權重的54%，在5月日均成交額中佔比近五成；韓綜指今年近七成漲幅均由這兩家企業貢獻。"
     }
   ]
 }
