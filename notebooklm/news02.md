@@ -1,7 +1,101 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-13 06:13:59_
-_本檔包含 3757 則快訊，約 669147 字_
+_更新時間：2026-06-13 06:48:36_
+_本檔包含 3766 則快訊，約 669425 字_
+
+---
+
+### 2026-06-11 23:34:34  #其他
+
+諾和諾德報告安全事件後，其ADR漲幅收窄。
+
+---
+
+### 2026-06-11 23:34:01  #市場 #國際
+
+美國至6月11日8周國債競拍-得標利率 3.61%，前值3.61%。
+美國至6月11日8周國債競拍-得標利率配置百分比 65.5%，前值68.26%。
+美國至6月11日8周國債競拍-投標倍數 2.94，前值3.2。
+
+---
+
+### 2026-06-11 23:33:32  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+U.S. 8-week Treasury bill auction on June 11: bid-cover ratio 2.94, prior 3.2.
+
+---
+
+### 2026-06-11 23:33:21  #國際
+
+【訊息人士：伊朗談判團隊未在主要問題上對美讓步】據伊朗法爾斯通訊社11日報道，一名接近伊朗談判代表團的訊息人士否認了美國有線電視新聞閘道器於伊朗與美國近期舉行新一輪談判的報道，並表示伊方在談判中仍堅持既定立場和核心訴求，未在主要問題上作出讓步。 這名訊息人士表示，此前由伊方提出的談判文字仍是當前其立場的基礎。該文字重點體現伊方的利益和訴求，未獲美方完全認可，這也是當前達成最終諒解所面臨的主要障礙之一。伊朗談判團隊認為，“美方最終將不得不接受該文字的主要框架”。這名訊息人士還說，美國近期加大政治施壓和軍事威脅力度，與伊朗拒絕接受美方超出既有談判範圍的要求有關。（新華社）
+
+---
+
+### 2026-06-11 23:32:58  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 8-week Treasury bill auction on June 11 — share allocated at the stop-out yield 65.5%, prior 68.26%.
+
+---
+
+### 2026-06-11 23:32:57  #MKT News #Economic Calendar
+
+United States | 8-Week Bill Auction Bid/Cover Ratio (Jun.11) | actual 2.94 | previous 3.2
+
+---
+
+### 2026-06-11 23:32:44  #MKT News #Macro & Rates #Treasury Yields
+
+US 8-week Treasury auction to June 11 — stop-out yield 3.61%, previous 3.61%.
+
+---
+
+### 2026-06-11 23:32:38  #其他
+
+諾和諾德：出於安全考慮，某些內部IT系統已下線。
+
+---
+
+### 2026-06-11 23:32:34  #MKT News #Economic Calendar
+
+United States | 8-Week Bill Auction High Yield Rate (Jun.11) | actual 3.61% | previous 3.61%
+
+---
+
+### 2026-06-11 23:32:26  #市場 #國際
+
+美國至6月11日4周國債競拍-得標利率 3.595%，前值3.615%。
+美國至6月11日4周國債競拍-得標利率配置百分比 70.32%，前值27.64%。
+美國至6月11日4周國債競拍-投標倍數 3.13，前值3.07。
+
+---
+
+### 2026-06-11 23:32:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+U.S. 4-week Treasury auction (June 11) bid-cover ratio 3.13, prior 3.07.
+
+---
+
+### 2026-06-11 23:32:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #EURUSD
+
+US 4-week Treasury bill auction (settlement June 11) stop-out yield 3.595%, prior 3.615%.
+
+---
+
+### 2026-06-11 23:32:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+US 4-week Treasury auction through June 11: percentage allocated at the stop-out rate 70.32%, prior 27.64%.
+
+---
+
+### 2026-06-11 23:32:04  #MKT News #Economic Calendar
+
+United States | 4-Week Bill Auction Bid/Cover Ratio (Jun.11) | actual 3.13 | previous 3.07
+
+---
+
+### 2026-06-11 23:32:04  #MKT News #Economic Calendar
+
+United States | 4-Week Bill Auction High Yield Rate (Jun.11) | actual 70.32% | previous 27.64%
 
 ---
 
@@ -22608,41 +22702,5 @@ Ford Motor shares rose 0.8% pre-market after the Wall Street Journal reported th
 ### 2026-06-10 21:02:09  #MKT News #DXY #US10Y
 
 【US inflation in line; Treasuries and dollar flat as Iran tensions simmer】US Treasury yields and the dollar were largely unchanged on Tuesday after May CPI broadly matched expectations and amid renewed Iran tensions. Headline CPI rose to 4.2% YoY in May from 3.8% in April; core CPI excluding food and energy ticked up to 2.9% from 2.8%. Markets expect the Fed to hold rates next week but assign high odds to further hikes thereafter. The US launched strikes on Iran; Trump said Tehran’s negotiations took too long. DXY ~99.90; 10-year yield 4.526%; 2-year yield 4.127%, little changed from Monday.
-
----
-
-### 2026-06-10 21:02:05  #公司
-
-亞馬遜簽署 175 億美元定期貸款協議。
-
----
-
-### 2026-06-10 21:01:35  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bearish #Copper
-
-China night session open: main futures contracts mostly higher. Coke jumped over 2%; caustic soda, alumina, ethylene glycol (EG), methanol and coking coal rose more than 1%; propylene and SC crude were up about 1%. On the downside, Shanghai gold fell over 2%; Shanghai silver, zinc, nickel and synthetic rubber dropped more than 1%; international copper, styrene (EB) and Shanghai copper were down around 1%.
-
----
-
-### 2026-06-10 21:01:35  #MKT News #Important #Macro & Rates #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-【US inflation jumps to 4.2% YoY in May from 2.4% in February in three months】US not-seasonally-adjusted CPI rose to 4.2% YoY in May from 2.4% in February, a 1.8 percentage-point increase over three months.
-
----
-
-### 2026-06-10 21:01:34  #其他
-
-張雪稱“用房卡刷開地鐵閘機”，北京地鐵客服：正常來說不可能，將反饋至裝置單位。（澎湃）
-
----
-
-### 2026-06-10 21:01:21  #MKT News #Macro & Rates #US Economy #Nasdaq100 #Impact bullish #S&P500 #US10Y #Impact mixed
-
-【Goldman Sachs Asset Management: Inflation surge a headwind but three forces support growth】Goldman Sachs Asset Management strategist Tim Urbanowicz said the recent surge in headline and core inflation is a significant headwind for the economy and cyclical sectors, but three factors continue to provide strong support: an AI-driven investment cycle, potential upside from a large U.S. fiscal bill, and the lagged supportive effect of eventual Fed rate cuts.
-
----
-
-### 2026-06-10 21:01:06  #其他
-
-BEREN THERAPEUTICS獲得 3 億美元融資。
 
 ---

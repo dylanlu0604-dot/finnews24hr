@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 06:13:59_
-_本檔包含 3617 則快訊，約 669841 字_
+_更新時間：2026-06-13 06:48:36_
+_本檔包含 3612 則快訊，約 668635 字_
+
+---
+
+### 2026-06-10 21:02:05  #公司
+
+亞馬遜簽署 175 億美元定期貸款協議。
+
+---
+
+### 2026-06-10 21:01:35  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bearish #Copper
+
+China night session open: main futures contracts mostly higher. Coke jumped over 2%; caustic soda, alumina, ethylene glycol (EG), methanol and coking coal rose more than 1%; propylene and SC crude were up about 1%. On the downside, Shanghai gold fell over 2%; Shanghai silver, zinc, nickel and synthetic rubber dropped more than 1%; international copper, styrene (EB) and Shanghai copper were down around 1%.
+
+---
+
+### 2026-06-10 21:01:35  #MKT News #Important #Macro & Rates #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【US inflation jumps to 4.2% YoY in May from 2.4% in February in three months】US not-seasonally-adjusted CPI rose to 4.2% YoY in May from 2.4% in February, a 1.8 percentage-point increase over three months.
+
+---
+
+### 2026-06-10 21:01:34  #其他
+
+張雪稱“用房卡刷開地鐵閘機”，北京地鐵客服：正常來說不可能，將反饋至裝置單位。（澎湃）
+
+---
+
+### 2026-06-10 21:01:21  #MKT News #Macro & Rates #US Economy #Nasdaq100 #Impact bullish #S&P500 #US10Y #Impact mixed
+
+【Goldman Sachs Asset Management: Inflation surge a headwind but three forces support growth】Goldman Sachs Asset Management strategist Tim Urbanowicz said the recent surge in headline and core inflation is a significant headwind for the economy and cyclical sectors, but three factors continue to provide strong support: an AI-driven investment cycle, potential upside from a large U.S. fiscal bill, and the lagged supportive effect of eventual Fed rate cuts.
+
+---
+
+### 2026-06-10 21:01:06  #其他
+
+BEREN THERAPEUTICS獲得 3 億美元融資。
 
 ---
 
@@ -21735,71 +21771,5 @@ EU will propose keeping the Russia oil price cap at $44.10/bbl for six months an
 ### 2026-06-09 18:51:22  #公司 #市場
 
 【韓建河山：股票交易異常波動 重大資產重組存不確定性】韓建河山公告稱，公司股票6月5日、6月8日、6月9日連續三個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。公司目前生產經營正常，正在推進重大資產重組，擬購買遼寧興福新材料99.9978%股份，交易價10.70億元。2025年度營收8.84億元，淨虧損1010.59萬元；2026年一季度營收3116.71萬元，淨虧損980.94萬元。控股股東股份存在質押、凍結情況，本次交易尚需履行相關程式，最終能否實施存在不確定性。
-
----
-
-### 2026-06-09 18:50:30  #市場 #國際
-
-印度10年期國債收益率延續下滑，至自4月21日以來的最低水平，報6.8958%。
-
----
-
-### 2026-06-09 18:50:24  #MKT News #Macro & Rates
-
-India 10-year government bond yield extended decline to 6.8958%, the lowest since April 21.
-
----
-
-### 2026-06-09 18:50:20  #公司
-
-【南新制藥：因信披違規或被處罰 股票將實施其他風險警示】南新制藥公告稱，2026年6月9日收到中國證監會湖南監管局《行政處罰事先告知書》。2023年公司控股子公司退貨和協議現金折扣後未衝減當期收入和利潤，導致2023年度年報虛增營收6468.28萬元、利潤總額1195.22萬元。公司及張世喜、李亮、胡新保擬分別被處以500萬元、250萬元、200萬元、200萬元罰款。上海證券交易所將對公司股票實施其他風險警示，不觸及重大違法強制退市情形。
-
----
-
-### 2026-06-09 18:50:12  #MKT News #XAUUSD #Impact bullish #DXY #DAX #Impact bearish
-
-EU diplomatic sources said the 21st round of sanctions on Russia aims to pressure Russia's beleaguered banking sector and economy.
-
----
-
-### 2026-06-09 18:49:53  #國際
-
-訊息人士稱，俄羅斯制裁的第21輪方案旨在打壓俄羅斯疲弱的銀行業與經濟。
-
----
-
-### 2026-06-09 18:49:47  #公司 #國際
-
-【蘋果宣佈新版Siri AI因DMA監管分歧無緣歐盟iOS 27，上線時間表未定】蘋果公司當地時間6月8日宣佈，全新Siri AI將隨iOS 27及iPadOS 27釋出，但受《數字市場法》（DMA）影響，歐盟使用者屆時無法在iPhone及iPad上使用該功能，watchOS 27亦受連帶影響。歐盟使用者可在macOS 27及visionOS 27上訪問Siri AI。蘋果軟體工程高階副總裁克雷格·費德里吉表示，過去數月間蘋果向歐盟監管機構提交了多項解決方案，但均遭歐盟委員會拒絕，目前尚無Siri AI在歐盟iOS及iPadOS上線的時間表。蘋果方面指出，歐盟監管機構要求蘋果賦予任何第三方AI系統對使用者裝置的近乎無限訪問許可權，包括讀寫簡訊、執行購買、訪問檔案及跨應用操作，蘋果認為此舉將對使用者隱私和安全構成重大風險。
-
----
-
-### 2026-06-09 18:48:49  #公司 #市場
-
-【亞翔整合：股價短期漲幅大 提示交易與經營風險】亞翔整合公告稱，公司股票於2026年6月4日、6月5日、6月8日連續三個交易日內日收盤價格漲幅偏離值累計超20%，6月9日漲停。6月4日至6月9日累計漲幅偏離值達38.43%，自2025年11月以來累計上漲404.31%。截至6月9日收盤，公司股價205.81元，市淨率17.38倍，顯著高於行業平均的5.98倍。此外，公司2025年度營收49.06億元，同比下降8.81%。公司提示投資者注意交易和經營風險。
-
----
-
-### 2026-06-09 18:48:42  #公司
-
-【*ST雅博：子公司擬中標1.94億元EPC總承包專案，金額佔公司2025年營收66.19%】*ST雅博(002323)6月9日公告，公司下屬全資子公司山東中復凱新能源科技有限公司擬中標滕州市西崗鎮200MW/400MWh儲能電站專案（一期100MW/200MWh）EPC總承包，擬中標暫定價為1.94億元，佔公司2025年度經審計營業收入的66.19%。專案順利實施後，預計對公司未來經營業績產生積極影響。
-
----
-
-### 2026-06-09 18:48:31  #公司
-
-【瑞士監管“鬆口”：瑞銀資本要求或從100%降至70% 數百億美元負擔減輕】瑞士立法者正考慮一項新的提議，以放寬對瑞銀的資本要求。若該提議得以實施，瑞銀面臨的資本負擔將較政府提交的草案減少數十億美元。根據新提議，瑞銀只需以約70%至80%的CET1資本支援其海外子公司，而非政府要求的100%。
-
----
-
-### 2026-06-09 18:48:23  #MKT News
-
-EU diplomatic sources said if the proposal is approved the EU would add more than 100 banks to its list, representing over 50% of Russia's 213 internationally connected banks.
-
----
-
-### 2026-06-09 18:48:16  #MKT News
-
-【Zhuque-2 improved Yao-6 rocket launches successfully; could enable denser annual cadence】At 16:23 China time on June 9, 2026, the improved Yao-6 variant of the Zhuque-2 carrier rocket lifted off from the Dongfeng Commercial Aerospace Innovation Test Area, placing Qianfan DTC01 and China Mobile-02 into their planned orbit. It was the Zhuque-2 series' eighth flight. The vehicle replaced pyrotechnic stage-separation with pneumatic pushrods to boost safety and autonomous control. Engine upgrades include 3D-printed integrated components and a thrust-modulation device to improve stability and durability. The launch marks technical maturity; the rocket has entered mass production and could support a denser annual launch cadence.
 
 ---

@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-13 06:13:59_
-_本檔包含 3688 則快訊，約 668655 字_
+_更新時間：2026-06-13 06:48:36_
+_本檔包含 3687 則快訊，約 668971 字_
+
+---
+
+### 2026-06-08 16:58:43  #其他
+
+Bybit今日宣佈正式推出“Bybit IPO Express”服務，成為全球首批以發行價提供代幣化首次公開募股（IPO）認購的中心化加密資產交易平臺之一。
+
+---
+
+### 2026-06-08 16:58:27  #公司
+
+【中國中免：將於6月16日舉行2025年度及2026年Q1業績說明會】中國中免公告稱，公司計劃於2026年6月16日10:00-11:00舉行2025年度暨2026年第一季度業績說明會，地點為上海證券交易所上證路演中心，以網路互動方式召開。參加人員包括董事、總經理常築軍，獨立董事王強，總會計師、董事會秘書楊洪義。投資者可於6月9日至15日16:00前提問，公司將在會上解答。
+
+---
+
+### 2026-06-08 16:58:16  #MKT News
+
+Singapore's foreign-exchange reserves were $430.1 bln in May, up from $427.26 bln previously.
+
+---
+
+### 2026-06-08 16:58:03  #MKT News #Economic Calendar #Important
+
+Singapore | Foreign Exchange Reserves (May) | actual 430100000000B | previous 427260000000.00006B
+
+---
+
+### 2026-06-08 16:57:57  #其他
+
+新加坡總理：經濟前景仍不確定。
+
+---
+
+### 2026-06-08 16:57:45  #公司
+
+【天壇生物：成都蓉生“皮下注射人免疫球蛋白”獲批】天壇生物公告，下屬成都蓉生藥業有限責任公司研製的“皮下注射人免疫球蛋白”獲得國家藥品監督管理局簽發的《藥品註冊證書》，適應症為≥2歲原發性免疫缺陷病（PID）患者的治療。該產品已於2024年獲得受理，規格為2g/瓶（20%，10ml），註冊分類為治療用生物製品，研發投入1.04億元。國內市場尚無同類產品上市，國際市場上CSL Behring、Takeda和Grifols USA均有相關產品銷售。
+
+---
+
+### 2026-06-08 16:57:32  #MKT News
+
+Fox News chief congressional correspondent reports the U.S. House Rules Committee will draft a bill today to prevent Iran from obtaining U.S. and European technology that could be used to produce drones.
+
+---
+
+### 2026-06-08 16:57:07  #國際
+
+以色列機場管理局正在進行持續的局勢評估。
+
+---
+
+### 2026-06-08 16:56:59  #市場
+
+美元兌日元USD/JPY跌破160，日內跌0.15%。
+
+---
+
+### 2026-06-08 16:56:54  #MKT News #USDJPY #Impact bearish
+
+USD/JPY slipped below 160, down 0.15% intraday.
+
+---
+
+### 2026-06-08 16:56:51  #公司
+
+【天力鋰能：獲得“一種摻雜共包覆的高鎳三元鎳鈷錳酸鋰材料的製備方法”發明專利】天力鋰能公告稱，公司近日獲得國家智慧財產權局頒發的“一種摻雜共包覆的高鎳三元鎳鈷錳酸鋰材料的製備方法”發明專利證書，專利號為ZL 2025 1 1358754.9，申請日為2025年9月23日，授權公告日為2026年6月5日。該專利屬鋰離子電池正極材料技術領域，預計對公司近期生產經營不構成重大影響，但利於完善智慧財產權保護體系，提升核心競爭力，產業化應用尚需時間，實際效益存在不確定性。
+
+---
+
+### 2026-06-08 16:56:31  #國際
+
+美國國家颶風中心：“鮑里斯”在墨西哥格雷羅州海岸附近形成，洪水仍是主要威脅。
+
+---
+
+### 2026-06-08 16:56:31  #MKT News #Market Regions #Emerging Markets
+
+【Institutions: regional peer pressure, inflation risk open door for Reserve Bank of India rate hike】Economists say the Reserve Bank of India is increasingly likely to tighten policy in coming months to mirror regional peers that have tightened amid Middle East-driven inflation pressures. Governor signalled last Friday that policymakers could raise rates if inflationary pressures become more broad-based and persistent. Last week the RBI left the policy rate at 5.25% but raised its inflation forecast for the year ending March 2027 from 4.6% to 5.1%. HSBC India chief economist Pranjul Bhandari said the comments open the door to a rate hike in August — the first since February 2023 — and has moved his call forward to hikes in August and October versus prior expectations in late-2026 and Q1 2027. Deutsche Bank and Goldman Sachs still model a 50 bp move in late-2026 taking the policy rate to 5.75%. Analysts say a rate hike is largely a matter of timing.
 
 ---
 
@@ -22162,89 +22240,5 @@ Coal Hits 19-month High — Coal increased to 148.75 USD/T, the highest since Oc
 ### 2026-06-06 06:50:34  #國際
 
 市場訊息：美國軍方稱伊朗無人機對航運構成威脅，並襲擊了伊朗雷達站。
-
----
-
-### 2026-06-06 06:45:29  #公司 #觀點 #國際
-
-【谷歌關聯的預付能源債券引發市政債券交易員搶購潮】谷歌母公司Alphabet Inc.首次亮相市政債券市場，參與了美國加利福尼亞州一項規模約10億美元的預付能源交易。投資者對此次發售表現出強勁的需求，債券在二級市場的交易利差進一步收窄，其中2035年到期的債券尤其受到熱捧，交易額高達4.92億美元。該交易涉及電力供應商先鋒社群能源公司（Pioneer Community Energy），並由Alphabet擔任金融中介；債券由加州社群選擇融資管理局（California Community Choice Financing Authority）發行，高盛集團承銷。
-
----
-
-### 2026-06-06 06:45:05  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Slumps by 9.59% — Top crypto losers are Ether (-9.59%), Binance (-4.55%) and Bitcoin (-3.15%).
-
----
-
-### 2026-06-06 06:40:10  #國際
-
-歐洲電力聯盟報告指出，一體化工業電氣化是維繫歐洲競爭力的關鍵。
-
----
-
-### 2026-06-06 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Tumbles by 5.60% — Top commodity losers are Cocoa (-5.60%) and Canola (-3.24%).
-
----
-
-### 2026-06-06 06:35:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Slumps by 8.13% — Top commodity losers are Silver (-8.13%), Platinum (-6.45%), Copper (-3.97%) and Gold (-3.22%).
-
----
-
-### 2026-06-06 06:33:25  #公司 #國際
-
-【美X-59靜音超音速試驗機完成首次超音速飛行】美國國家航空航天局5日釋出訊息說，該機構與洛克希德-馬丁公司聯合研發的X-59靜音超音速試驗機當天完成首次超音速飛行，為今年晚些時候驗證其靜音超音速飛行能力邁出關鍵一步。（新華社）
-
----
-
-### 2026-06-06 06:31:37  #宏觀 #國際
-
-市場訊息：美國國務院批准以8.42億美元向丹麥出售導彈的潛在交易。
-
----
-
-### 2026-06-06 06:31:30  #宏觀 #國際
-
-市場訊息：美國國務院批准向英國出售大型飛機紅外對抗系統，潛在交易金額為1.6億美元。
-
----
-
-### 2026-06-06 06:30:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Methanol Drops by 4.21% — Top commodity losers are Methanol (-4.21%), Natural gas (-3.48%), Crude Oil WTI (-3%) and Brent Crude Oil (-2.27%). Gains are led by Coking Coal (1.01%) and Ethanol (0.52%).
-
----
-
-### 2026-06-06 06:22:30  #公司
-
-【一艘土耳其漁船在黑海遇襲致1死4傷】據土耳其海岸警衛隊5日訊息，一艘懸掛土耳其國旗的漁船當天在黑海遭襲後沉沒，一名漁民死亡，另有4人受傷。土耳其海岸警衛隊在一份公告中說，這艘漁船在克里米亞地區以西海域捕魚時遇襲，船體在襲擊中嚴重受損，隨後沉沒。附近一艘漁船出手援助，從沉船上救出5名受傷漁民，其中一名重傷漁民稍後不幸身亡。土耳其海岸警衛隊暫未公佈漁船遭襲原因等具體情況，尚無任何一方“認領”這起襲擊。（新華社）
-
----
-
-### 2026-06-06 06:20:28  #國際
-
-伊朗媒體表示，警告性射擊已在霍爾木茲海峽附近發生，該事件或與美國船隻的移動有關。
-
----
-
-### 2026-06-06 06:16:32  #國際
-
-【俄方排雷人員遇襲受傷 IAEA呼籲遵守區域性停火】國際原子能機構（IAEA）5日說，俄羅斯與烏克蘭在扎波羅熱核電站附近戰線區域性停火協議當天生效後，有俄方軍事人員執行排雷作業時受傷。該機構總幹事格羅西呼籲各方保持最大限度軍事剋制。國際原子能機構在社交媒體發文說，俄方人員受傷事件正在調查中，而烏克蘭方面表示會遵守停火協議。該機構說，這一嚴重事件發生在區域性停火協議的排雷作業階段。格羅西呼籲各方全面遵守停火協議，以確保扎波羅熱核電站輸電線路在今後幾天得以修復，這對於避免核事故至關重要。（新華社）
-
----
-
-### 2026-06-06 06:15:04  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Depreciates by 2.01% — Top currency losers are Brazilian Real (-2.01%), South Korean Won (-1.77%), Australian Dollar (-1.30%), Euro (-0.77%), British Pound (-0.62%) and Japanese Yen (-0.18%). Gains are led by Dollar Index (0.66%) and Indian Rupee (0.52%).
-
----
-
-### 2026-06-06 06:14:31  #其他
-
-白宮辦公廳主任向布蘭奇表示祝賀。
 
 ---

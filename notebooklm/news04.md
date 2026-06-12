@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-13 06:13:59_
-_本檔包含 3564 則快訊，約 668919 字_
+_更新時間：2026-06-13 06:48:36_
+_本檔包含 3562 則快訊，約 669064 字_
+
+---
+
+### 2026-06-09 18:50:30  #市場 #國際
+
+印度10年期國債收益率延續下滑，至自4月21日以來的最低水平，報6.8958%。
+
+---
+
+### 2026-06-09 18:50:24  #MKT News #Macro & Rates
+
+India 10-year government bond yield extended decline to 6.8958%, the lowest since April 21.
+
+---
+
+### 2026-06-09 18:50:20  #公司
+
+【南新制藥：因信披違規或被處罰 股票將實施其他風險警示】南新制藥公告稱，2026年6月9日收到中國證監會湖南監管局《行政處罰事先告知書》。2023年公司控股子公司退貨和協議現金折扣後未衝減當期收入和利潤，導致2023年度年報虛增營收6468.28萬元、利潤總額1195.22萬元。公司及張世喜、李亮、胡新保擬分別被處以500萬元、250萬元、200萬元、200萬元罰款。上海證券交易所將對公司股票實施其他風險警示，不觸及重大違法強制退市情形。
+
+---
+
+### 2026-06-09 18:50:12  #MKT News #XAUUSD #Impact bullish #DXY #DAX #Impact bearish
+
+EU diplomatic sources said the 21st round of sanctions on Russia aims to pressure Russia's beleaguered banking sector and economy.
+
+---
+
+### 2026-06-09 18:49:53  #國際
+
+訊息人士稱，俄羅斯制裁的第21輪方案旨在打壓俄羅斯疲弱的銀行業與經濟。
+
+---
+
+### 2026-06-09 18:49:47  #公司 #國際
+
+【蘋果宣佈新版Siri AI因DMA監管分歧無緣歐盟iOS 27，上線時間表未定】蘋果公司當地時間6月8日宣佈，全新Siri AI將隨iOS 27及iPadOS 27釋出，但受《數字市場法》（DMA）影響，歐盟使用者屆時無法在iPhone及iPad上使用該功能，watchOS 27亦受連帶影響。歐盟使用者可在macOS 27及visionOS 27上訪問Siri AI。蘋果軟體工程高階副總裁克雷格·費德里吉表示，過去數月間蘋果向歐盟監管機構提交了多項解決方案，但均遭歐盟委員會拒絕，目前尚無Siri AI在歐盟iOS及iPadOS上線的時間表。蘋果方面指出，歐盟監管機構要求蘋果賦予任何第三方AI系統對使用者裝置的近乎無限訪問許可權，包括讀寫簡訊、執行購買、訪問檔案及跨應用操作，蘋果認為此舉將對使用者隱私和安全構成重大風險。
+
+---
+
+### 2026-06-09 18:48:49  #公司 #市場
+
+【亞翔整合：股價短期漲幅大 提示交易與經營風險】亞翔整合公告稱，公司股票於2026年6月4日、6月5日、6月8日連續三個交易日內日收盤價格漲幅偏離值累計超20%，6月9日漲停。6月4日至6月9日累計漲幅偏離值達38.43%，自2025年11月以來累計上漲404.31%。截至6月9日收盤，公司股價205.81元，市淨率17.38倍，顯著高於行業平均的5.98倍。此外，公司2025年度營收49.06億元，同比下降8.81%。公司提示投資者注意交易和經營風險。
+
+---
+
+### 2026-06-09 18:48:42  #公司
+
+【*ST雅博：子公司擬中標1.94億元EPC總承包專案，金額佔公司2025年營收66.19%】*ST雅博(002323)6月9日公告，公司下屬全資子公司山東中復凱新能源科技有限公司擬中標滕州市西崗鎮200MW/400MWh儲能電站專案（一期100MW/200MWh）EPC總承包，擬中標暫定價為1.94億元，佔公司2025年度經審計營業收入的66.19%。專案順利實施後，預計對公司未來經營業績產生積極影響。
+
+---
+
+### 2026-06-09 18:48:31  #公司
+
+【瑞士監管“鬆口”：瑞銀資本要求或從100%降至70% 數百億美元負擔減輕】瑞士立法者正考慮一項新的提議，以放寬對瑞銀的資本要求。若該提議得以實施，瑞銀面臨的資本負擔將較政府提交的草案減少數十億美元。根據新提議，瑞銀只需以約70%至80%的CET1資本支援其海外子公司，而非政府要求的100%。
+
+---
+
+### 2026-06-09 18:48:23  #MKT News
+
+EU diplomatic sources said if the proposal is approved the EU would add more than 100 banks to its list, representing over 50% of Russia's 213 internationally connected banks.
+
+---
+
+### 2026-06-09 18:48:16  #MKT News
+
+【Zhuque-2 improved Yao-6 rocket launches successfully; could enable denser annual cadence】At 16:23 China time on June 9, 2026, the improved Yao-6 variant of the Zhuque-2 carrier rocket lifted off from the Dongfeng Commercial Aerospace Innovation Test Area, placing Qianfan DTC01 and China Mobile-02 into their planned orbit. It was the Zhuque-2 series' eighth flight. The vehicle replaced pyrotechnic stage-separation with pneumatic pushrods to boost safety and autonomous control. Engine upgrades include 3D-printed integrated components and a thrust-modulation device to improve stability and durability. The launch marks technical maturity; the rocket has entered mass production and could support a denser annual launch cadence.
 
 ---
 
@@ -21380,83 +21446,5 @@ FX Updates: South Korean Won Increases by 1.70% — Top currency gainers are Sou
 ### 2026-06-08 16:58:44  #國際
 
 【以軍評估與伊朗戰事或持續數日】據以色列方面8日訊息，根據以色列國防軍評估，與伊朗的戰事預計可能將持續數日，以軍正準備大規模預備役動員。以軍官方尚未證實以上訊息。另有訊息稱，以色列特拉維夫附近的本-古裡安機場今天清晨一度暫停航班起降。訊息稱，至少3架原定於當地時間6時左右降落的航班，在葉門方向導彈來襲後被要求改道，隨後獲准返回機場並安全降落。本-古裡安機場、以色列機場管理局以及以色列空軍今天將就該機場的航班能否繼續起降進行形勢評估，目前尚不清楚多少航班可按計劃執行。（央視新聞）
-
----
-
-### 2026-06-08 16:58:43  #其他
-
-Bybit今日宣佈正式推出“Bybit IPO Express”服務，成為全球首批以發行價提供代幣化首次公開募股（IPO）認購的中心化加密資產交易平臺之一。
-
----
-
-### 2026-06-08 16:58:27  #公司
-
-【中國中免：將於6月16日舉行2025年度及2026年Q1業績說明會】中國中免公告稱，公司計劃於2026年6月16日10:00-11:00舉行2025年度暨2026年第一季度業績說明會，地點為上海證券交易所上證路演中心，以網路互動方式召開。參加人員包括董事、總經理常築軍，獨立董事王強，總會計師、董事會秘書楊洪義。投資者可於6月9日至15日16:00前提問，公司將在會上解答。
-
----
-
-### 2026-06-08 16:58:16  #MKT News
-
-Singapore's foreign-exchange reserves were $430.1 bln in May, up from $427.26 bln previously.
-
----
-
-### 2026-06-08 16:58:03  #MKT News #Economic Calendar #Important
-
-Singapore | Foreign Exchange Reserves (May) | actual 430100000000B | previous 427260000000.00006B
-
----
-
-### 2026-06-08 16:57:57  #其他
-
-新加坡總理：經濟前景仍不確定。
-
----
-
-### 2026-06-08 16:57:45  #公司
-
-【天壇生物：成都蓉生“皮下注射人免疫球蛋白”獲批】天壇生物公告，下屬成都蓉生藥業有限責任公司研製的“皮下注射人免疫球蛋白”獲得國家藥品監督管理局簽發的《藥品註冊證書》，適應症為≥2歲原發性免疫缺陷病（PID）患者的治療。該產品已於2024年獲得受理，規格為2g/瓶（20%，10ml），註冊分類為治療用生物製品，研發投入1.04億元。國內市場尚無同類產品上市，國際市場上CSL Behring、Takeda和Grifols USA均有相關產品銷售。
-
----
-
-### 2026-06-08 16:57:32  #MKT News
-
-Fox News chief congressional correspondent reports the U.S. House Rules Committee will draft a bill today to prevent Iran from obtaining U.S. and European technology that could be used to produce drones.
-
----
-
-### 2026-06-08 16:57:07  #國際
-
-以色列機場管理局正在進行持續的局勢評估。
-
----
-
-### 2026-06-08 16:56:59  #市場
-
-美元兌日元USD/JPY跌破160，日內跌0.15%。
-
----
-
-### 2026-06-08 16:56:54  #MKT News #USDJPY #Impact bearish
-
-USD/JPY slipped below 160, down 0.15% intraday.
-
----
-
-### 2026-06-08 16:56:51  #公司
-
-【天力鋰能：獲得“一種摻雜共包覆的高鎳三元鎳鈷錳酸鋰材料的製備方法”發明專利】天力鋰能公告稱，公司近日獲得國家智慧財產權局頒發的“一種摻雜共包覆的高鎳三元鎳鈷錳酸鋰材料的製備方法”發明專利證書，專利號為ZL 2025 1 1358754.9，申請日為2025年9月23日，授權公告日為2026年6月5日。該專利屬鋰離子電池正極材料技術領域，預計對公司近期生產經營不構成重大影響，但利於完善智慧財產權保護體系，提升核心競爭力，產業化應用尚需時間，實際效益存在不確定性。
-
----
-
-### 2026-06-08 16:56:31  #國際
-
-美國國家颶風中心：“鮑里斯”在墨西哥格雷羅州海岸附近形成，洪水仍是主要威脅。
-
----
-
-### 2026-06-08 16:56:31  #MKT News #Market Regions #Emerging Markets
-
-【Institutions: regional peer pressure, inflation risk open door for Reserve Bank of India rate hike】Economists say the Reserve Bank of India is increasingly likely to tighten policy in coming months to mirror regional peers that have tightened amid Middle East-driven inflation pressures. Governor signalled last Friday that policymakers could raise rates if inflationary pressures become more broad-based and persistent. Last week the RBI left the policy rate at 5.25% but raised its inflation forecast for the year ending March 2027 from 4.6% to 5.1%. HSBC India chief economist Pranjul Bhandari said the comments open the door to a rate hike in August — the first since February 2023 — and has moved his call forward to hikes in August and October versus prior expectations in late-2026 and Q1 2027. Deutsche Bank and Goldman Sachs still model a 50 bp move in late-2026 taking the policy rate to 5.75%. Analysts say a rate hike is largely a matter of timing.
 
 ---
