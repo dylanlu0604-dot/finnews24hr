@@ -1,7 +1,114 @@
 {
-  "updated": "2026-06-13 01:30:40",
-  "count": 18438,
+  "updated": "2026-06-13 01:34:35",
+  "count": 18446,
   "items": [
+    {
+      "id": "te:economy:558788",
+      "time": "2026-06-13 01:33:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ecuador",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Ecuador Inflation Eases in May — Ecuador’s annual inflation rate eased to 0.9% in May 2026 from 2.6% in April. Price growth slowed for alcoholic beverages and tobacco (0.7% vs 1.6%), healthcare (4.1% vs 4.5%), communication (0.6% vs 0.7%), education (1.6% vs 1.7%), and restaurants and hotels (1.2% vs 1.4%). Meanwhile, deflation was recorded in food and non-alcoholic beverages (-0.1% vs 0.3%), clothing and footwear (-5.0% vs 5.2%), housing and utilities (-7.2% vs 17.3%), and recreation and culture (-0.2% vs 0.4%). On a monthly basis, consumer prices fell 0.6%, reversing a 0.5% increase in April."
+    },
+    {
+      "id": "mkt:019ebce4-c09d-7dd8-afe4-a1f1e6468526",
+      "time": "2026-06-13 01:32:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian state TV cited the foreign ministry spokesman as saying the ministry cannot confirm any details of a memorandum of understanding reported by media."
+    },
+    {
+      "id": "mkt:019ebce4-602e-7dd8-afe4-9a45be91f8f1",
+      "time": "2026-06-13 01:32:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said Europe has been discussed as the agreement's signing venue but no decision has been made."
+    },
+    {
+      "id": "4933275",
+      "time": "2026-06-13 01:32:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人向國家電視臺表示，無法證實媒體披露的這份諒解備忘錄的任何細節。"
+    },
+    {
+      "id": "4933274",
+      "time": "2026-06-13 01:32:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員： 曾考慮在歐洲簽署協議，但目前尚未作出最終決定。"
+    },
+    {
+      "id": "4933273",
+      "time": "2026-06-13 01:31:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員： 巴基斯坦與卡達方面一直髮揮著有益的斡旋作用。"
+    },
+    {
+      "id": "4933272",
+      "time": "2026-06-13 01:30:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：美國煉油廠仍可進一步接納委內瑞拉原油。"
+    },
+    {
+      "id": "mkt:019ebce2-fd30-7dd8-afe4-96bab137c3f7",
+      "time": "2026-06-13 01:30:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said U.S. refiners can still absorb more Venezuelan crude."
+    },
+    {
+      "id": "4933271",
+      "time": "2026-06-13 01:30:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：據訊息稱，伊朗最高領袖對當前談判進展表示認可。"
+    },
+    {
+      "id": "mkt:019ebce2-9250-7dd8-afe4-8ad86ec9e77e",
+      "time": "2026-06-13 01:30:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior US government official said Iran's Supreme Leader is satisfied with progress in talks."
+    },
+    {
+      "id": "mkt:019ebce2-781e-7dd8-afe4-85ec407ac2c4",
+      "time": "2026-06-13 01:30:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said the U.S. will need to study how to ensure implementation of the agreement and envisions a 60-day technical negotiation."
+    },
+    {
+      "id": "4933270",
+      "time": "2026-06-13 01:30:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：認為會進行60天的技術層面會談。"
+    },
     {
       "id": "mkt:019ebce1-d00e-7dd8-afe4-7ab301f6dba0",
       "time": "2026-06-13 01:29:35",
@@ -169730,50 +169837,6 @@
         "國際"
       ],
       "text": "洲際交易所歐洲分部持倉報告（COT）：截至 6 月 2 日，白糖投機客淨多頭頭寸增持 3394 手，淨多持倉升至 27079 手。"
-    },
-    {
-      "id": "mkt:019e98d9-833f-7665-830a-f5bf43abaa9f",
-      "time": "2026-06-06 01:34:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "U.S. Senator Warren urged NVIDIA (NVDA.O) president to attend a hearing on June 11, market sources said."
-    },
-    {
-      "id": "mkt:019e98d7-4daf-7665-830a-ec44db5a35ba",
-      "time": "2026-06-06 01:31:47",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Ukrainian President Zelenskiy, responding to Russian President Putin's open letter and proposal for a meeting, said Russia has again chosen war and that Putin does not want to end it."
-    },
-    {
-      "id": "mkt:019e98d7-33f3-7665-830a-e1d414d5b276",
-      "time": "2026-06-06 01:31:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine's President Zelenskiy said many will be disappointed by Russian President Putin's response and that greater pressure should be applied to Russia."
-    },
-    {
-      "id": "mkt:019e98d7-2aed-7665-830a-ddb466b9a8ab",
-      "time": "2026-06-06 01:31:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Han Zheng addresses plenary at 29th St. Petersburg International Economic Forum】On June 5, 2026 China's Vice President Han Zheng addressed the plenary of the 29th St. Petersburg International Economic Forum and set out four global-governance proposals: uphold genuine multilateralism with equal participation and decision-making and strengthen developing countries’ representation; defend international fairness by protecting the UN’s authority and opposing double standards and selective application of international law; promote shared development through full implementation of the UN 2030 Sustainable Development Agenda, citing China’s upcoming informal APEC leaders’ meeting as a vehicle to build an Asia‑Pacific community to spur regional and global growth; and enhance policy coordination among states, international organizations and multilateral institutions to deliver tangible results on global challenges."
     }
   ]
 }
