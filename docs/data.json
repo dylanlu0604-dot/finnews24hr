@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-13 03:09:36",
-  "count": 18395,
+  "updated": "2026-06-13 03:13:41",
+  "count": 18398,
   "items": [
+    {
+      "id": "4933319",
+      "time": "2026-06-13 03:13:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：諒解備忘錄尚未簽署，仍有可能作出調整。"
+    },
+    {
+      "id": "mkt:019ebd40-0a66-7dd8-afe5-e41930e52c16",
+      "time": "2026-06-13 03:12:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's foreign minister said after a Friday morning call with Iranian foreign minister Araghchi he remains cautious but positive signs are accumulating."
+    },
+    {
+      "id": "4933318",
+      "time": "2026-06-13 03:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部長週五與伊朗外長會談後表示：我仍持審慎態度，但積極訊號正在不斷累積。"
+    },
+    {
+      "id": "mkt:019ebd3f-555d-7dd8-afe5-dbbdc49365df",
+      "time": "2026-06-13 03:11:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian foreign minister Araghchi said Iran is the winner of a war with the United States and has become stronger afterward."
+    },
+    {
+      "id": "4933317",
+      "time": "2026-06-13 03:11:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：伊朗在與美國的對抗後變得更加強大。"
+    },
+    {
+      "id": "4933316",
+      "time": "2026-06-13 03:11:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：伊朗是與美國對抗中的獲勝方。"
+    },
+    {
+      "id": "4933315",
+      "time": "2026-06-13 03:09:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部長：我們呼籲美國與伊朗抓住此次機遇，結束這一不可持續的局面。"
+    },
+    {
+      "id": "mkt:019ebd3d-1638-7dd8-afe5-d01264790421",
+      "time": "2026-06-13 03:09:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French foreign minister urged the US and Iran to seize the opportunity to end this unsustainable situation."
+    },
     {
       "id": "4933314",
       "time": "2026-06-13 03:09:02",
@@ -169290,46 +169358,6 @@
         "WTI"
       ],
       "text": "【U.S. jobs data lifts rate-hike bets; gold retreats, erases YTD gains】Strong U.S. employment data boosted Fed rate-hike expectations and pressured gold, which erased its year-to-date gains. In the U.S. session, spot gold fell about 3.5% and broke below $4320/oz. U.S. Treasury yields and the dollar both rose. A tight labor market leaves Fed officials room to tighten further, while Middle East tensions lifted energy prices. Rising rates typically weigh on non-yielding precious metals."
-    },
-    {
-      "id": "mkt:019e9934-6d4b-7665-830c-adaf0c9f4165",
-      "time": "2026-06-06 03:13:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A CDC official said CDC models show that, without strong public-health interventions, an Ebola outbreak on the scale of 2014-2016 remains possible. The official said urgent permission to enter is needed to contain the Ebola outbreak in the Democratic Republic of Congo and prevent it reaching or exceeding the scale of the 2014 West Africa epidemic."
-    },
-    {
-      "id": "4920318",
-      "time": "2026-06-06 03:12:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數跌幅擴大至4.5%。"
-    },
-    {
-      "id": "4920317",
-      "time": "2026-06-06 03:12:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX與谷歌達成每月9.2億美元的雲服務協議】SpaceX和谷歌達成雲服務協議。根據該協議，谷歌同意從2026年10月到2029年6月每月向SpaceX支付9.2億美元。提供的計算能力包括約11萬個英偉達GPU、CPU、記憶體和其他相關元件。相關算力在9月之前將逐步提升，費用會相應降低。如果SpaceX未能在2026年9月30日前交付約定數量的GPU，在一個月寬限期之後，谷歌可以選擇立即終止協議，或接受已交付的GPU數量，並相應按比例減少月費。在2026年12月31日之後，任一方均可提前90天通知終止協議。谷歌將保留其內容、人工智慧模型及相關資料的所有權與智慧財產權。"
-    },
-    {
-      "id": "4920316",
-      "time": "2026-06-06 03:11:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：急需通行便利，以減緩剛果（金）埃博拉疫情的蔓延，防止疫情規模達到甚至超過2014年西非埃博拉暴發的水平。"
-    },
-    {
-      "id": "4920315",
-      "time": "2026-06-06 03:10:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：若不採取強有力的公共衛生干預措施，疾控中心的模型分析顯示，西非重現2014至2016年規模的埃博拉疫情是有可能的。"
     }
   ]
 }
