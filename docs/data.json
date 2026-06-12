@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-13 01:42:46",
-  "count": 18456,
+  "updated": "2026-06-13 01:46:49",
+  "count": 18453,
   "items": [
+    {
+      "id": "mkt:019ebcee-5f01-7dd8-afe4-eb7b8d4ae321",
+      "time": "2026-06-13 01:43:18",
+      "tags": [
+        "MKT News",
+        "ADBE.O",
+        "Impact bearish"
+      ],
+      "text": "Adobe (ADBE.O) shares fell 10%, hitting their lowest level since 2018."
+    },
+    {
+      "id": "4933282",
+      "time": "2026-06-13 01:42:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "Adobe下跌10%，重新整理2018年以來最低位。"
+    },
     {
       "id": "mkt:019ebced-0bbb-7dd8-afe4-e3a1dab4adec",
       "time": "2026-06-13 01:41:52",
@@ -169887,55 +169905,6 @@
         "The Fed (FOMC)"
       ],
       "text": "U.S. President Trump said he will leave the decision on interest-rate cuts to Federal Reserve Chair Kevin Warsh at the October meeting."
-    },
-    {
-      "id": "4920251",
-      "time": "2026-06-06 01:45:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：是否降息交由沃什在 10 月議息會議定奪。"
-    },
-    {
-      "id": "4920250",
-      "time": "2026-06-06 01:45:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲黎巴嫩南部致至少13人死亡】據黎巴嫩國家通訊社5日報道，以色列軍隊當天對黎巴嫩南部多地發動空襲，造成至少13人死亡、15人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:019e98e3-2a0a-7665-830b-091524ae6f3f",
-      "time": "2026-06-06 01:44:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Trump says he hopes to see lower interest rates."
-    },
-    {
-      "id": "4920249",
-      "time": "2026-06-06 01:44:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望看到利率下調。"
-    },
-    {
-      "id": "4920248",
-      "time": "2026-06-06 01:42:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌6%，現報1254.56美元/盎司。"
     }
   ]
 }
