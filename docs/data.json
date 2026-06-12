@@ -1,7 +1,252 @@
 {
-  "updated": "2026-06-12 09:31:56",
-  "count": 18425,
+  "updated": "2026-06-12 09:35:52",
+  "count": 18435,
   "items": [
+    {
+      "id": "mkt:019eb978-0fa6-7dd8-afce-756519bff1fc",
+      "time": "2026-06-12 09:35:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01347.HK",
+        "Impact bullish",
+        "06809.HK",
+        "00981.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor shares surged: 01347.HK and 06809.HK rose over 7%; 02658.HK, 03986.HK, 02577.HK, 06082.HK and 00981.HK (SMIC) also advanced."
+    },
+    {
+      "id": "4931543",
+      "time": "2026-06-12 09:35:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "A股工業氣體概念盤初調整，中船特氣跌超15%，廣鋼氣體、金宏氣體、華特氣體、三孚股份、蜀道裝備跌幅居前。"
+    },
+    {
+      "id": "4931542",
+      "time": "2026-06-12 09:35:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：將繼續對外匯市場進行持續、有控制的干預。"
+    },
+    {
+      "id": "4931541",
+      "time": "2026-06-12 09:34:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4200美元/盎司，日內漲2.08%。"
+    },
+    {
+      "id": "mkt:019eb977-6170-7dd8-afce-6d39a4e918fc",
+      "time": "2026-06-12 09:34:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【Shenzhen securities regulator warns of illegal activity under guise of RWA investment】Tokenization of real-world assets (RWA) has grown recently. Some illicit actors are using \"financial innovation\" and \"tech dividend\" as cover, exploiting hype and buzzwords to carry out illegal fundraising, fraud, pyramid schemes, money laundering and unauthorized business operations, disrupting economic and financial order and endangering public property."
+    },
+    {
+      "id": "4931540",
+      "time": "2026-06-12 09:34:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳證監局：警惕以投資RWA名義從事非法活動】近年來，現實世界資產（RWA）代幣化概念逐漸興起。一些不法分子趁機以“金融創新”“科技紅利”為幌子，透過蹭熱度、套概念等方式從事非法集資、詐騙、傳銷、洗錢、非法經營等違法犯罪活動，擾亂經濟金融秩序，危害人民群眾財產安全。（深圳證監局）"
+    },
+    {
+      "id": "mkt:019eb977-069f-7dd8-afce-62c2f162d12b",
+      "time": "2026-06-12 09:34:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "China's STAR 50 index rose over 4% as semiconductor stocks rallied; constituents Zhongke Feice jumped over 13%, Shengmei Shanghai climbed about 11% and Shanghai Silicon Industry gained about 7%."
+    },
+    {
+      "id": "4931539",
+      "time": "2026-06-12 09:33:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：將繼續密切監控全球及國內金融市場動態，維持國內金融工具的吸引力，以支援外資流入。"
+    },
+    {
+      "id": "4931538",
+      "time": "2026-06-12 09:33:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華為海思概念持續走強，泰晶科技漲停】華為海思概念持續走強，泰晶科技漲停，盛劍科技、芯源微、北方華創、吳通控股、力源資訊、德龍鐳射等跟漲。"
+    },
+    {
+      "id": "4931537",
+      "time": "2026-06-12 09:33:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4180美元/盎司，日內跌0.74%。"
+    },
+    {
+      "id": "4931536",
+      "time": "2026-06-12 09:33:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：資金流入也已開始重返政府債券市場，尤其是在短期和中期債券領域。"
+    },
+    {
+      "id": "4931535",
+      "time": "2026-06-12 09:33:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達4％，成分股中，中科飛測漲14.21％，芯聯整合漲12.85％，盛美上海漲12.66％，滬矽產業漲9.85％。"
+    },
+    {
+      "id": "4931534",
+      "time": "2026-06-12 09:32:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊走高，泰晶科技漲停】元件板塊走高，泰晶科技漲停，金安國紀、中京電子、博敏電子、明陽電路跟漲。"
+    },
+    {
+      "id": "4931533",
+      "time": "2026-06-12 09:32:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【稀土永磁板塊走高，安泰科技漲停】稀土永磁板塊走高，安泰科技漲停，杭華股份漲超10%，中鋼天源、金田股份、中航泰達、大地熊、爭光股份等跟漲。"
+    },
+    {
+      "id": "mkt:019eb975-d3dc-7dd8-afce-5df6d9c18616",
+      "time": "2026-06-12 09:32:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share rare-earth permanent magnet sector rose. Antai Technology hit the daily limit; Hanghua Co surged over 10%. Zhonggang Tianyuan, Jintian, AVIC Taida, Dadi Xiong and Zhengguang also gained."
+    },
+    {
+      "id": "4931532",
+      "time": "2026-06-12 09:32:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行：在6月10日印尼央行逆回購工具（SRBI）拍賣結束後，外資流入印尼央行發行的印尼盧比計價證券的規模有所提升，這一現象反映出市場作出了積極回應。"
+    },
+    {
+      "id": "mkt:019eb975-94ae-7dd8-afce-54924be886a8",
+      "time": "2026-06-12 09:32:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil-focused LOFs open sharply lower; Trump says he will sign Iran peace deal in coming days】Oil-themed LOFs opened broadly lower: Southern Crude LOF, E Fund Crude LOF and Harvest Crude LOF fell over 4%; Petroleum LOF and HuaBao Oil & Gas LOF dropped ~3%; Petroleum Fund LOF down just over 1%. US President Trump said he has reached an agreement with Iran to end the war but that final details remain to be completed and expects to sign a peace agreement in the coming days."
+    },
+    {
+      "id": "4931531",
+      "time": "2026-06-12 09:32:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "石油主題LOF全線低開，南方原油LOF、原油LOF易方達、嘉實原油LOF均跌超4%，石油LOF、華寶油氣LOF跌近3%，石油基金LOF跌超1%。"
+    },
+    {
+      "id": "4931530",
+      "time": "2026-06-12 09:32:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4931529",
+      "time": "2026-06-12 09:32:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報556.70元。"
+    },
+    {
+      "id": "4931528",
+      "time": "2026-06-12 09:32:00",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "印尼央行：外國投資者對印尼央行加息以及印尼央行逆回購工具（SRBI）、國債（SBN）收益率上行已作出積極回應。"
+    },
+    {
+      "id": "4931527",
+      "time": "2026-06-12 09:31:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊走強 耐科裝備漲超15%】早盤半導體裝置板塊大幅走強，耐科裝備漲超15%，富創精密、中科飛測、盛美上海、拓荊科技等漲幅靠前。"
+    },
+    {
+      "id": "mkt:019eb974-a7bb-7dd8-afce-4a2f533ff01e",
+      "time": "2026-06-12 09:31:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【China stock index futures open morning session】China stock index futures opened higher in the morning session: CSI 300 futures (IF) main contract +1.42%, SSE 50 futures (IH) main contract +0.67%, CSI 500 futures (IC) main contract +2.00%, CSI 1000 futures (IM) main contract +1.79%."
+    },
+    {
+      "id": "mkt:019eb974-9a36-7dd8-afce-437705eb54f4",
+      "time": "2026-06-12 09:31:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【China government bond futures open marginally higher】At the morning open, China government bond futures main contracts: 2-year (TS) +0.01%, 5-year (TF) +0.03%, 10-year (T) +0.05%, 30-year (TL) +0.19%."
+    },
+    {
+      "id": "4931526",
+      "time": "2026-06-12 09:31:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行稱加息後資本流入增加。"
+    },
     {
       "id": "mkt:019eb973-8f56-7dd8-afce-3f41d279df44",
       "time": "2026-06-12 09:30:18",
@@ -169744,142 +169989,6 @@
         "Impact bearish"
       ],
       "text": "A-share BC battery sector opened lower; Youyan New Materials fell more than 4%, Hengdian East Magnetics dropped over 3%, with Polymer Materials and Junda Co. also sliding."
-    },
-    {
-      "id": "4918441",
-      "time": "2026-06-05 09:35:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股儲存概念股全線走弱】港股儲存概念股全線走弱，南方兩倍做多海力士跌超15%，南方兩倍做多三星電子跌超12%，瀾起科技、兆易創新跌近6%。"
-    },
-    {
-      "id": "mkt:019e956b-8754-7cc8-bdf1-bdaf455f2aaf",
-      "time": "2026-06-05 09:35:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China raises WTO concerns over EU draft cybersecurity law and Industrial Accelerator Act】At the WTO Council for Trade in Services' second meeting of the year in Geneva on the 4th, China placed on the agenda and raised serious concerns about the EU's draft cybersecurity law and Industrial Accelerator Act. Beijing said relevant provisions would violate WTO rules and, if adopted, would undermine the authority and effectiveness of multilateral trade rules, and urged the EU to amend them promptly. China specifically called on the EU to delete or substantially modify draft cybersecurity law clauses on “states of cybersecurity concern,” “non-technical risks,” “high-risk suppliers” and related prohibitions and restrictions, and to revise the Industrial Accelerator Act to remove measures that discriminate against specific countries. China said it is willing to keep constructive dialogue with the EU and will closely monitor the EU legislative process."
-    },
-    {
-      "id": "mkt:019e956a-df7d-7cc8-bdf1-b6b174d00b19",
-      "time": "2026-06-05 09:34:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share power sector surged; Changyuan Power hit the daily limit-up, with Henan Yuneng Holdings, Jinfang Energy and Jingneng Power among the top gainers."
-    },
-    {
-      "id": "4918440",
-      "time": "2026-06-05 09:34:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方在世貿組織就歐盟《網路安全法》修訂草案和《工業加速器法案》提出嚴重關切】世界貿易組織4日在瑞士日內瓦召開服務貿易理事會年度第二次會議。中方主動設定議題，就歐盟《網路安全法》修訂草案和《工業加速器法案》提出嚴重關切，指出相關規定違反世貿組織規則，一旦實施將嚴重損害多邊貿易規則的權威性和有效性，敦促歐方儘快予以修改調整。中方表示，歐盟《網路安全法》修訂草案以維護所謂“網路安全”為名，要求基於“非技術風險”這種極度不合理和充滿隨意性的因素，判定“網路安全關切國家”。歐方監管部門可以據此將相關企業一律界定為“高風險供應商”，以強制性“一刀切”方式，任意、系統排除特定國家企業進入歐盟市場。草案規定的措施波及範圍廣、歧視性強、貿易禁止限制負面影響大，是變相的產業保護措施，違反《服務貿易總協定》等規則及歐盟在世貿組織的承諾。中方指出，歐盟《工業加速器法案》對外國投資歐盟境內的電池、電動汽車、光伏及關鍵原材料等四大新興戰略行業設定了不合理的限制性要求，對特定外國投資強行設定技術轉讓、股比限制、本地含量、本地員工佔比等諸多限制性條款。該法案影響與製造業相關的服務，有違商業自願和公平競爭等市場經濟基本原則，構成投資壁壘和制度性歧視，與包括《服務貿易總協定》在內的世貿組織規則嚴重不符。中方敦促歐盟遵守世貿組織規則，刪除或實質性修改《網路安全法》修訂草案中關於“網路安全關切國家”“非技術風險”“高風險供應商”認定及相關禁止性和限制性措施，修改《工業加速器法案》，取消對特定國家的歧視措施。中方願與歐方保持建設性對話，並將密切關注歐方立法程序。 (新華社)"
-    },
-    {
-      "id": "4918439",
-      "time": "2026-06-05 09:34:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟對俄原油海運服務禁令面臨擱淺】近日，歐盟方面表示，針對俄羅斯原油運輸的全面海事服務禁令短期內落地的可能性正在顯著降低，相關措施很可能被無限期擱置。多名歐盟官員和外交人士均表示，歐盟內部對實施俄羅斯原油運輸全面海事服務禁令尚未形成統一立場。儘管歐盟委員會、波羅的海國家及北歐國家仍公開支援啟動該海事服務禁令，但是作為歐洲重要的航運中心，希臘和馬耳他兩國均對該禁令持謹慎態度。與此同時，越來越多歐盟官員承認，當前國際能源市場的現實環境已成為影響該禁令實施的重要因素。在中東局勢持續推高國際油價的背景下，美國已連續三次批准涉及俄羅斯石油的制裁豁免，以緩解霍爾木茲海峽局勢帶來的能源供應壓力。儘管歐盟公開表示不會放鬆對俄製裁，但原計劃推出的逐步停止進口俄羅斯石油方案也已被推遲。"
-    },
-    {
-      "id": "4918438",
-      "time": "2026-06-05 09:33:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊快速拉昇，長源電力直線漲停】電力板塊快速拉昇，長源電力直線漲停，豫能控股、金房能源、京能電力漲幅居前。"
-    },
-    {
-      "id": "4918437",
-      "time": "2026-06-05 09:33:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【房地產板塊反覆活躍 大悅城直線漲停】房地產板塊反覆活躍，大悅城直線漲停，陽光股份、特發服務、金融街、萬科A、招商蛇口跟漲。"
-    },
-    {
-      "id": "te:economy:556647",
-      "time": "2026-06-05 09:33:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Philippines Inflation Rate Slows to 6.8% — The annual inflation rate in the Philippines eased to 6.8% in May 2026 from a three-year high of 7.2% in April, defying expectations of an increase to 7.5%. Transport inflation slowed to 16.2%, from April’s 21.4% surge, as fuel prices spiked earlier in the month. Still, it remained the largest contributor among all categories. Price growth also eased in food and non-alcoholic beverages (5.7% vs 6.0%) and housing, water, electricity, gas and other fuels (7.8% vs 8.2%). In contrast, inflation accelerated in clothing and footwear (3.0% vs 2.8%), furnishings and household maintenance (3.9% vs 3.5%), health (4.1% vs 3.8%), recreation and culture (5.2% vs 4.9%), and restaurants and accommodation services (6.7% vs 6.0%). On a monthly basis, the CPI fell 0.5%, the first decline in a year and against forecasts of a 0.2% gain. Meanwhile, annual core inflation jumped to 4.1%, slightly below forecasts of 4.2%, but marking the highest reading since December 2023."
-    },
-    {
-      "id": "4918436",
-      "time": "2026-06-05 09:33:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【塞爾維亞與俄天然氣供應協議延至9月底】4日，塞爾維亞礦業和能源部長漢達諾維奇在俄羅斯聖彼得堡與俄羅斯天然氣工業股份公司管理委員會主席米勒會談後表示，兩國間的天然氣供應協議將在6月30日到期後再延長3個月至9月30日。漢達諾維奇表示，這一決定將使塞爾維亞繼續獲得穩定和價格優惠的天然氣供應，對塞爾維亞經濟和民生至關重要。此次會談還涉及塞爾維亞北部天然氣地下儲氣庫擴建工程，該儲氣庫的容量將從目前的4.5億立方米提升至7.5億立方米。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606053761277624",
-      "time": "2026-06-05 09:32:50",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【5月份中國大宗商品價格指數繼續上揚】中國物流與採購聯合會今天公佈5月份中國大宗商品價格指數。隨著國內需求穩定釋放，企業生產活動保持擴張，大宗商品價格指數繼續上揚，大宗商品市場整體執行平穩。5月份中國大宗商品價格指數為132.5點，環比上漲0.3%，同比上漲20.2%。在中國物流與採購聯合會重點監測的50種大宗商品中，5月份價格環比上漲的大宗商品有21種。其中，碳酸鋰、精煉錫和天然橡膠漲幅居前，環比分別上漲12.2%、9.9%和6.2%。"
-    },
-    {
-      "id": "mkt:019e9569-307d-7cc8-bdf1-ad4144375d8d",
-      "time": "2026-06-05 09:32:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "STAR 50 Index fell sharply, down more than 3% at the open."
-    },
-    {
-      "id": "mkt:019e9568-f2e6-7cc8-bdf1-a705c05bec82",
-      "time": "2026-06-05 09:32:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share baijiu sector firmed in early trade; Jiugui Liquor rose more than 6%, Shuijingfang gained over 4%, Huangtai Liquor and Shede Spirits also advanced."
-    },
-    {
-      "id": "mkt:019e9568-ea4d-7cc8-bdf1-9deb0ed7b456",
-      "time": "2026-06-05 09:32:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CSI Convertible Bond Index opened down 0.10%. Jingda CB, Lianrui CB and Hongwei CB fell 2.78%, 2.70% and 2.10% respectively; Xianghe CB jumped 13.72% and Titan CB rose 3.14%."
-    },
-    {
-      "id": "4918435",
-      "time": "2026-06-05 09:32:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽光股份成立數字技術公司 含多項AI業務】企查查APP顯示，近日，深圳陽光數字技術有限公司成立，註冊資本2億元，經營範圍包含：人工智慧通用應用系統；人工智慧應用軟體開發；人工智慧基礎軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由陽光股份全資持股。"
-    },
-    {
-      "id": "4918434",
-      "time": "2026-06-05 09:32:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤下跌0.02%。精達轉債、聯瑞轉債、甬矽轉債、宏微轉債、平煤轉債跌幅居前，分別跌2.78%、2.70%、2.10%、2.10%、1.98%。祥和轉債、泰坦轉債、博22轉債、綠茵轉債、錫振轉債漲幅居前，分別漲13.72%、3.14%、2.48%、2.22%、2.14%。"
     }
   ]
 }
