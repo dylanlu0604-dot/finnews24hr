@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-12 23:17:20",
-  "count": 18453,
+  "updated": "2026-06-12 23:21:46",
+  "count": 18442,
   "items": [
+    {
+      "id": "mkt:019ebc69-e38b-7dd8-afe1-d0c693a021bc",
+      "time": "2026-06-12 23:18:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Politico reports the UK and Canada are still negotiating to join the fighter-jet project."
+    },
+    {
+      "id": "mkt:019ebc69-9177-7dd8-afe1-c95b8bdb76fb",
+      "time": "2026-06-12 23:18:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports the UK is in talks with Canada about joining a defence bank."
+    },
+    {
+      "id": "4933178",
+      "time": "2026-06-12 23:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "據POLITICO：英國正與加拿大洽談加入防務銀行相關事宜，英國與加拿大亦就在戰鬥機專案開展合作進行磋商。"
+    },
+    {
+      "id": "4933177",
+      "time": "2026-06-12 23:17:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：殼牌計劃出售10億美元海上風電資產，繼續退出可再生能源領域】殼牌公司正籌備出售其海上風電場，以便將重心重新聚焦於回報率更高的化石燃料業務。據知情人士透露，公司已聘請羅斯柴爾德（Rothschild & Co.）和PJT Partners Inc.擔任顧問主導此次出售，交易金額可能超過10億美元。出售程式最早可能在今年年底啟動，交易大機率將於2027年完成。計劃出售這些海上風電場標誌著殼牌進一步偏離了過去的戰略——即向綠色電力（尤其是風能）多元化轉型的戰略。"
+    },
+    {
+      "id": "4933176",
+      "time": "2026-06-12 23:17:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部宣佈，自 6 月 15 日起，歐盟外交人員入境俄羅斯需執行報備流程。"
+    },
+    {
+      "id": "mkt:019ebc68-690d-7dd8-afe1-c1929c5d27eb",
+      "time": "2026-06-12 23:16:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Foreign Ministry said that from June 15 EU diplomatic personnel crossing borders will be required to follow a notification procedure."
+    },
     {
       "id": "te:markets:558758",
       "time": "2026-06-12 23:15:04",
@@ -169782,164 +169832,6 @@
         "MKT News"
       ],
       "text": "On the eve of Peru's presidential election, the Peruvian sol fell more than 1% against the dollar and the country's main stock index dropped over 4%."
-    },
-    {
-      "id": "te:markets:556966",
-      "time": "2026-06-05 23:21:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Ease from Over 16-Week High — US natural gas futures fell about 2% to $3.255/MMBtu, pulling back from a more than 16-week high reached in the previous session. LNG export demand softened as average gas flows to the nine major US export terminals declined to 16.4 billion cubic feet per day so far in June from 17.1 bcfd in May, largely due to seasonal maintenance at facilities including Golden Pass and Freeport LNG in Texas. Despite the drop in exports, weather forecasts point to above-normal temperatures through June 20, likely increasing gas consumption for power generation as cooling demand rises. On the supply side, output in the Lower 48 states averaged 108.8 bcfd so far this month, down from 109.7 bcfd in May. Analysts noted that mild spring weather allowed inventories to build at a faster pace than usual, although recent production declines likely narrowed the storage surplus to around 5% above normal from roughly 6% a week earlier. For the week, natural gas prices are down more than 1%."
-    },
-    {
-      "id": "mkt:019e985f-e2a4-7665-8308-15dc6a25f9d6",
-      "time": "2026-06-05 23:21:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The United States, Mexico and Canada are expected to be unable to complete renewal of the US-Mexico-Canada Agreement (USMCA) before July 1. The USMCA will remain in force during the ongoing review process even if the July 1 date is missed."
-    },
-    {
-      "id": "te:markets:556965",
-      "time": "2026-06-05 23:21:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium is down by 5.21% — Palladium decreased 5.21% to 1265.5 USD/t.oz"
-    },
-    {
-      "id": "4920151",
-      "time": "2026-06-05 23:20:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌5%，現報1266.50美元/盎司。"
-    },
-    {
-      "id": "4920150",
-      "time": "2026-06-05 23:20:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國、墨西哥、加拿大或將無法在 7 月 1 日完成《美墨加協定》的續約工作。 《美墨加協定》在持續複審期間，7 月 1 日後協議仍繼續生效。"
-    },
-    {
-      "id": "4920149",
-      "time": "2026-06-05 23:20:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯主要股指跌幅超4%。"
-    },
-    {
-      "id": "mkt:019e985e-a380-7665-8308-0f9e39c4d143",
-      "time": "2026-06-05 23:19:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Fed's Hammack: Near-term rate hike may be appropriate】Fed governor Hammack said the labor market appears broadly balanced and a near-term rate hike may be appropriate. She said she does not overemphasize any single data point but that today’s jobs report, with unemployment at 4.3%, is broadly consistent with her definition of full employment. Given uncertainty in the outlook, holding rates steady is reasonable for now, but if recent trends persist policy may need to act soon. Remarks largely repeat comments she made on June 2."
-    },
-    {
-      "id": "mkt:019e985e-a1f4-7665-8308-027f7f22a4e1",
-      "time": "2026-06-05 23:19:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "FITCH on South Africa: expects the Middle East war to raise inflation, but says the fiscal impact is currently manageable."
-    },
-    {
-      "id": "4920148",
-      "time": "2026-06-05 23:19:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：我沒有同澤連斯基會面的理由。"
-    },
-    {
-      "id": "mkt:019e985e-83e0-7665-8307-ff79366e1806",
-      "time": "2026-06-05 23:19:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin urged Russian forces: \"Brothers, continue fighting.\""
-    },
-    {
-      "id": "4920147",
-      "time": "2026-06-05 23:19:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京向俄軍將士喊話：兄弟們，恪盡職守。"
-    },
-    {
-      "id": "mkt:019e985e-0c62-7665-8307-f21cfacadf4e",
-      "time": "2026-06-05 23:19:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH expects South Africa's debt-to-GDP ratio to rise again at a moderate pace in FY2028."
-    },
-    {
-      "id": "4920146",
-      "time": "2026-06-05 23:19:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽點評南非：中東戰事或將推升通脹，但目前對財政層面的影響可控。"
-    },
-    {
-      "id": "mkt:019e985d-e52b-7665-8307-e939ff4f9c11",
-      "time": "2026-06-05 23:19:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch expects President Ramaphosa to remain in office despite South Africa establishing an impeachment committee in May 2026."
-    },
-    {
-      "id": "4920145",
-      "time": "2026-06-05 23:18:54",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【賽力斯位元組聯手造車】由賽力斯集團參股的重慶賽豆科技有限公司將於6月9日晚釋出全新汽車品牌。記者瞭解到，這是賽豆科技和位元組跳動旗下火山引擎深度合作的汽車品牌，將探索AI定義汽車的無限可能。此前媒體報道稱，賽豆科技與位元組跳動旗下的火山引擎深度合作，首款車型預計今年內推出，或為介於SUV和轎車之間的跨界車，推純電和增程雙動力。相關車型主要與火山引擎合作車機互動大模型，智駕方案或與元戎啟行合作。（新京報）"
-    },
-    {
-      "id": "mkt:019e985c-9c4c-7665-8307-e54c60e9ea6e",
-      "time": "2026-06-05 23:17:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "AI Revolution",
-        "688017.SS",
-        "Impact bullish"
-      ],
-      "text": "【SERES, ByteDance partner to build cars】Chongqing Saidou Technology, part-owned by SERES Group, will unveil a new car brand on June 9 in a deep collaboration with ByteDance’s Volcano Engine to develop AI-defined vehicles. The first model is expected within the year and is positioned as a crossover between an SUV and a sedan, offering battery-electric and range-extended powertrains. The vehicle will integrate Volcano Engine’s in-car interactive large model; autonomous-driving hardware/software may be supplied in partnership with Yuanrong Qixing."
-    },
-    {
-      "id": "4920144",
-      "time": "2026-06-05 23:17:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：預計未來兩年南非債務率將企穩在 GDP 的 80% 左右。將南非評級上調至“BB”；展望穩定。此次評級上調主要反映南非在審慎財政管理和財政整合方面的良好記錄。"
     }
   ]
 }
