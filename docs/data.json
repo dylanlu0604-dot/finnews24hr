@@ -1,7 +1,164 @@
 {
-  "updated": "2026-06-12 23:00:03",
-  "count": 18484,
+  "updated": "2026-06-12 23:04:25",
+  "count": 18487,
   "items": [
+    {
+      "id": "mkt:019ebc5c-0726-7dd8-afe1-b639c3629336",
+      "time": "2026-06-12 23:03:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Vice President Vance said Iranians have not received any cash, and their funds will not be unfrozen merely by signing an agreement or attending meetings."
+    },
+    {
+      "id": "mkt:019ebc5b-6c04-7dd8-afe1-a82b53606ff2",
+      "time": "2026-06-12 23:02:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Vice President Vance said widespread misinformation has circulated about a possible agreement to reopen the strait and to end Iran's nuclear weapons program."
+    },
+    {
+      "id": "4933168",
+      "time": "2026-06-12 23:02:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "萬斯：目前出現大量有關重啟海峽通航、終止伊朗核計劃潛在協議的虛假訊息。"
+    },
+    {
+      "id": "4933167",
+      "time": "2026-06-12 23:02:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：伊朗方面不會獲得任何現金，僅憑簽署協議或出席會議，相關資金也不會被解凍。"
+    },
+    {
+      "id": "mkt:019ebc5a-cae5-7dd8-afe1-a75febb90f2a",
+      "time": "2026-06-12 23:02:07",
+      "tags": [
+        "MKT News",
+        "XOM.N",
+        "WDS.AX",
+        "Impact bullish"
+      ],
+      "text": "Exxon Mobil (XOM.N) is exploring acquisition targets including Woodside Energy. The review is at an early stage and may not result in a deal."
+    },
+    {
+      "id": "mkt:019ebc5a-9955-7dd8-afe1-991f3fa62ee7",
+      "time": "2026-06-12 23:01:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "As of the 23:00 close, China domestic futures main contracts were mostly higher. Coke rose nearly 3%, glass almost 2%; soda ash, caustic soda, rubber, 20# rubber, ethylene glycol (EG) and PVC gained more than 1%. On the downside, fuel oil and low-sulfur fuel oil (LU) fell nearly 3%, while LPG and PTA dropped over 1%."
+    },
+    {
+      "id": "4933166",
+      "time": "2026-06-12 23:01:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破64000美元，日內漲0.87%。"
+    },
+    {
+      "id": "4933165",
+      "time": "2026-06-12 23:01:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市漲幅擴大，道瓊斯指數上漲1.01%。"
+    },
+    {
+      "id": "4933164",
+      "time": "2026-06-12 23:00:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.01%，現報51361.109點；納指漲0.42%，現報25919.048點；標普500指數漲0.62%，現報7440.000點。"
+    },
+    {
+      "id": "4933163",
+      "time": "2026-06-12 23:00:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃克森美孚表示將研究包括伍德賽德能源公司在內的收購目標。"
+    },
+    {
+      "id": "4933162",
+      "time": "2026-06-12 23:00:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭將燃油減稅政策延長至 6 月底。"
+    },
+    {
+      "id": "4933161",
+      "time": "2026-06-12 23:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄擊落多架烏無人機 烏打擊俄能源設施】俄羅斯莫斯科市長索比亞寧12日在社交媒體發文稱，當天有多架烏克蘭無人機被擊落。據塔斯社報道，自當天早間至14時許，共有16架無人機在接近莫斯科時被擊落。烏克蘭武裝部隊總參謀部12日在社交媒體發文稱，當天凌晨，烏國防軍對俄羅斯達吉斯坦共和國和薩馬拉州的能源設施，以及俄軍位於頓涅茨克、扎波羅熱和盧甘斯克等地區的軍事和後勤設施發動了襲擊。烏武裝部隊總參謀部稱，位於達吉斯坦共和國下卡姆斯克的達吉斯坦煉油綜合體和塔伊夫-下卡姆斯克煉油廠，以及薩馬拉州的託利亞季考丘克石化工廠遭襲後起火。（新華社）"
+    },
+    {
+      "id": "mkt:019ebc59-21eb-7dd8-afe1-930ebbdbff55",
+      "time": "2026-06-12 23:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ARM.O",
+        "Impact bullish",
+        "AMD.O",
+        "INTC.O"
+      ],
+      "text": "Some technology shares rose: Arm (ARM.O) gained 10%, AMD (AMD.O) and Intel (INTC.O) each rose 5%, and Qualcomm (QCOM.O) gained 4.8%."
+    },
+    {
+      "id": "te:markets:558756",
+      "time": "2026-06-12 23:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.78% — Top currency gainers are Brazilian Real (0.78%) and Mexican Peso (0.37%). Biggest losers are Japanese Yen (-0.20%) and Dollar Index (-0.12%). Meanwhile, Euro and British Pound were little changed."
+    },
+    {
+      "id": "4933160",
+      "time": "2026-06-12 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續跌2.91%，焦炭連續漲2.73%，低硫燃料油連續跌2.64%，玻璃連續漲1.92%，純鹼連續漲1.65%。"
+    },
+    {
+      "id": "4933159",
+      "time": "2026-06-12 22:59:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "油價再度下跌，美國國債跌幅收窄。"
+    },
+    {
+      "id": "4933158",
+      "time": "2026-06-12 22:59:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西汽車工業協會：巴西 5 月汽車出口量 37448 輛。"
+    },
     {
       "id": "4933157",
       "time": "2026-06-12 22:58:54",
@@ -170106,143 +170263,6 @@
         "公司"
       ],
       "text": "【上交所：將鳴鳴很忙(01768)、智譜(02513)等6只調入港股通標的】上交所公告，根據《上海證券交易所滬港通業務實施辦法》的有關規定，滬港通下港股通（以下簡稱港股通）標的名單發生調整，調入鳴鳴很忙(01768)、智譜(02513)、精鋒醫療-B(02675)、海致科技集團(02706)、壁仞科技(06082)、天數智芯(09903)，並自下一港股通交易日起生效。"
-    },
-    {
-      "id": "mkt:019e9850-1c0a-7665-8307-5633dd4c9378",
-      "time": "2026-06-05 23:04:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Fitch Ratings said the current oil-price surge reflects a temporary logistics-related supply shock rather than a permanent loss of production capacity."
-    },
-    {
-      "id": "mkt:019e984f-e718-7665-8307-4e5ce6983805",
-      "time": "2026-06-05 23:03:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Fitch Ratings: timing of the Strait of Hormuz reopening remains highly uncertain, leaving oil prices exposed to pronounced two-sided risks."
-    },
-    {
-      "id": "4920120",
-      "time": "2026-06-05 23:03:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【分析師：英偉達70%以上的利潤率在2030年前高枕無憂】達維森公司（DA Davidson）技術研究主管Gil Luria表示，英偉達的利潤率在2030年之前都相對安全，因為超大規模雲服務商超大規模雲服務商（Hyperscalers）在採購用於支援人工智慧（AI）資料中心的晶片時，幾乎沒有其他替代方案。“他們基本上、幾乎完全還在依賴英偉達的晶片。這使得英偉達保持在75%左右的毛利率顯得相對穩固。”"
-    },
-    {
-      "id": "4920119",
-      "time": "2026-06-05 23:03:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：預估 2026 年全年全球原油供應均值將高於需求。"
-    },
-    {
-      "id": "mkt:019e984e-d298-7665-8307-470b90276631",
-      "time": "2026-06-05 23:02:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "FITCH expects the oil market to return to surplus in September 2026."
-    },
-    {
-      "id": "4920118",
-      "time": "2026-06-05 23:02:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：預計 2026 年 9 月起原油市場重回供應過剩格局。"
-    },
-    {
-      "id": "mkt:019e984d-ba89-7665-8307-3c3c64dc0272",
-      "time": "2026-06-05 23:01:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A NASA spokesperson said the agency has instructed the crew aboard the Dragon spacecraft to resume planned operations on the International Space Station."
-    },
-    {
-      "id": "mkt:019e984d-9e84-7665-8307-324dfe1c8659",
-      "time": "2026-06-05 23:01:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NASA said it will work with Russia's state space corporation Roscosmos to develop a joint plan to resolve a leak and has instructed crew who had sheltered inside the Dragon spacecraft to end their shelter-in-place procedure."
-    },
-    {
-      "id": "mkt:019e984d-7ad4-7665-8307-293b913a217b",
-      "time": "2026-06-05 23:01:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Hang Seng Index",
-        "Impact bearish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "At the 23:00 close, China’s main futures contracts were mostly lower. Synthetic rubber led losses, down over 2%; 20# rubber fell nearly 2%. Styrene (EB) and ethylene glycol (EG) dropped more than 1%; palm oil, soda ash and PVC declined about 1%. On the upside, japonica rice rose nearly 2%; coking coal and asphalt gained over 1%, and PTA was up around 1%."
-    },
-    {
-      "id": "mkt:019e984c-f6ca-7665-8307-2602b6922221",
-      "time": "2026-06-05 23:00:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Fitch says oil markets will return to surplus once the Strait of Hormuz reopens."
-    },
-    {
-      "id": "mkt:019e984c-ddca-7665-8307-1a4abff34b2b",
-      "time": "2026-06-05 23:00:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY: 28 of 34 economists expect the BOC to keep the overnight rate at 2.25% through end-2026; in the April 26 survey, 33 of 41 economists held that view."
-    },
-    {
-      "id": "4920117",
-      "time": "2026-06-05 23:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：霍爾木茲港重新開放後，石油市場將再次出現供應過剩。"
-    },
-    {
-      "id": "4920116",
-      "time": "2026-06-05 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】20號膠連續跌2.02%，粳米連續漲1.98%，焦煤連續漲1.73%，天然橡膠連續跌1.59%，瀝青連續漲1.13%。"
-    },
-    {
-      "id": "te:markets:556959",
-      "time": "2026-06-05 23:00:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Depreciates by 1.37% — Top currency losers are South Korean Won (-1.37%), Brazilian Real (-1.13%), Norwegian Krone (-0.83%), Euro (-0.44%), British Pound (-0.29%) and Japanese Yen (-0.15%). Gains are led by Indian Rupee (0.61%) and Dollar Index (0.39%)."
     }
   ]
 }
