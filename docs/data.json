@@ -1,7 +1,211 @@
 {
-  "updated": "2026-06-12 21:40:40",
-  "count": 18509,
+  "updated": "2026-06-12 21:44:41",
+  "count": 18517,
   "items": [
+    {
+      "id": "4933001",
+      "time": "2026-06-12 21:43:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【煜榮集團：擬以4340萬港元收購安徽潤升電力技術有限公司65%股權】煜榮集團公告，擬以4340萬港元收購安徽潤升電力技術有限公司65%股權。根據買賣協議，買方有條件同意收購，而賣方有條件同意出售待售股本（相當於目標公司的65%股權），總代價為人民幣3750萬元（相當於約43.4百萬港元）。"
+    },
+    {
+      "id": "mkt:019ebc12-fb50-7dd8-afdf-99f6d339d5c2",
+      "time": "2026-06-12 21:43:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump on Iran said last night's drone attack on an Indian vessel departing the Strait of Hormuz was completely unacceptable."
+    },
+    {
+      "id": "4933000",
+      "time": "2026-06-12 21:43:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌至盤中低點0.6%。"
+    },
+    {
+      "id": "4932999",
+      "time": "2026-06-12 21:43:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指早盤上漲1.5%。"
+    },
+    {
+      "id": "mkt:019ebc12-85ad-7dd8-afdf-911be8d93051",
+      "time": "2026-06-12 21:43:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SpaceX IPO reportedly drew more than $350 billion in total demand."
+    },
+    {
+      "id": "4932998",
+      "time": "2026-06-12 21:43:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：已確認 29 顆星鏈衛星部署成功。"
+    },
+    {
+      "id": "4932997",
+      "time": "2026-06-12 21:42:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "原油價格收窄跌幅，布倫特原油價格高於每桶89美元。"
+    },
+    {
+      "id": "4932996",
+      "time": "2026-06-12 21:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：他們最好好自為之。"
+    },
+    {
+      "id": "mkt:019ebc12-0343-7dd8-afdf-8aff69a08347",
+      "time": "2026-06-12 21:42:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose over $1 intraday to $86.59/bbl and $88.74/bbl, respectively."
+    },
+    {
+      "id": "4932995",
+      "time": "2026-06-12 21:42:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX IPO 預計將吸引超過 3500 億美元的總需求。"
+    },
+    {
+      "id": "4932994",
+      "time": "2026-06-12 21:42:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京表示，俄羅斯正在研發用於控制作戰無人機的衛星系統。"
+    },
+    {
+      "id": "4932993",
+      "time": "2026-06-12 21:42:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：伊朗昨晚襲擊離開霍爾木茲海峽的印度船隻的無人機攻擊是完全不可接受的。"
+    },
+    {
+      "id": "4932992",
+      "time": "2026-06-12 21:42:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱：與伊朗不存在誠意交易可言。"
+    },
+    {
+      "id": "mkt:019ebc11-66b2-7dd8-afdf-85a0be2517b1",
+      "time": "2026-06-12 21:41:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump said leaks from Iran to fake-news outlets are unrelated to terms agreed in writing and that there is no integrity in dealing with Iran; he urged Tehran to act quickly."
+    },
+    {
+      "id": "4932991",
+      "time": "2026-06-12 21:41:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌至盤中低點，跌幅一度達0.2%。"
+    },
+    {
+      "id": "4932990",
+      "time": "2026-06-12 21:41:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗最好趕緊行動起來。"
+    },
+    {
+      "id": "4932989",
+      "time": "2026-06-12 21:41:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：（伊朗方面）是非常不誠信的談判對手，和他們之間根本不存在所謂的善意談判。"
+    },
+    {
+      "id": "4932988",
+      "time": "2026-06-12 21:41:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗洩露給假新聞的條款，與我們以書面形式達成的條款毫無關係。"
+    },
+    {
+      "id": "4932987",
+      "time": "2026-06-12 21:41:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "特斯拉股價上漲1.1%，此前執行長埃隆·馬斯克旗下SpaceX即將在納斯達克掛牌上市。"
+    },
+    {
+      "id": "4932986",
+      "time": "2026-06-12 21:40:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破89美元/桶，日內跌1.11%。"
+    },
+    {
+      "id": "4932985",
+      "time": "2026-06-12 21:40:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉漲，扭轉了此前高達0.5%的跌幅。"
+    },
+    {
+      "id": "te:markets:558745",
+      "time": "2026-06-12 21:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.40% Higher — The Dow Jones Index is gaining 203 points or 0.40 percent on Friday. Leading the gains are Sherwin-Williams (1.86%), Goldman Sachs (1.81%) and Caterpillar (1.31%). Top losers are Salesforce (-2.35%), Travelers Companies (-1.98%) and IBM (-1.96%)."
+    },
+    {
+      "id": "4932983",
+      "time": "2026-06-12 21:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "美交所將對Perfect Moment Ltd啟動退市程式。"
+    },
     {
       "id": "4932982",
       "time": "2026-06-12 21:39:28",
@@ -170379,155 +170583,6 @@
         "市場"
       ],
       "text": "現貨黃金日內跌2%，現報4385.40美元/盎司。"
-    },
-    {
-      "id": "mkt:019e9807-1c3a-7fff-a932-9912d8f052ce",
-      "time": "2026-06-05 21:44:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Putin said currently the ruble accounts for about 65% of Russia's export settlement transactions."
-    },
-    {
-      "id": "4919959",
-      "time": "2026-06-05 21:43:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：目前俄羅斯出口業務中盧布結算佔比約為65%。"
-    },
-    {
-      "id": "mkt:019e9806-9f2f-7fff-a932-95e7db398117",
-      "time": "2026-06-05 21:43:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Philadelphia Semiconductor Index (SOX) extends decline to 5.3%."
-    },
-    {
-      "id": "4919958",
-      "time": "2026-06-05 21:43:48",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "費城半導體指數跌幅擴大至5.3%。"
-    },
-    {
-      "id": "mkt:019e9806-8d19-7fff-a932-8c815874da19",
-      "time": "2026-06-05 21:43:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin says Russia's budget deficit may widen this year."
-    },
-    {
-      "id": "4919957",
-      "time": "2026-06-05 21:43:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國將向POWEREX投資3000萬美元，用於國內功率模組製造。"
-    },
-    {
-      "id": "mkt:019e9806-59cc-7fff-a932-819d06302c98",
-      "time": "2026-06-05 21:43:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Market sources: US Commerce Department and Powerex have reached an agreement on semiconductor incentive measures."
-    },
-    {
-      "id": "4919956",
-      "time": "2026-06-05 21:42:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：俄羅斯全年預算赤字或會上升。"
-    },
-    {
-      "id": "te:markets:556925",
-      "time": "2026-06-05 21:42:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intuit Stock Price Hits 5-year Low — Intuit shares decreased to 300.50 USD, the lowest since September 2020. Over the past 4 weeks, Intuit lost 24.48%, and in the last 12 months, it decreased 60.76%."
-    },
-    {
-      "id": "mkt:019e9805-6f75-7fff-a932-7f84e7df3128",
-      "time": "2026-06-05 21:42:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "【CITIGROUP on nonfarm payrolls: dollar rally finds a favorable backdrop】US May jobs beat expectations and the unemployment rate held steady, lifting the dollar as US‑Iran peace talks stalled and Middle East-driven energy prices remain elevated. The dollar index looked set for its biggest daily gain since April 8 and was up 0.6% on the week, the largest weekly rise in three months. The stronger jobs data reinforced market expectations for Fed rate hikes. CITIGROUP Capital Markets strategist Noah Buffam said this creates a favorable environment for dollar appreciation and that the data suggest US exceptionalism has held up, with the economy rebounding despite inflation above target."
-    },
-    {
-      "id": "mkt:019e9804-cbd2-7fff-a932-77b8dce8bcb2",
-      "time": "2026-06-05 21:41:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hassett, director of the White House National Economic Council, said he does not expect the disruption to affect core inf."
-    },
-    {
-      "id": "4919955",
-      "time": "2026-06-05 21:41:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：俄羅斯資產遭“竊占”已對美元和歐元造成影響。"
-    },
-    {
-      "id": "4919954",
-      "time": "2026-06-05 21:41:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮國家經濟委員會主任哈塞特：不要指望此次干擾會對核心通脹產生影響。"
-    },
-    {
-      "id": "te:markets:556924",
-      "time": "2026-06-05 21:41:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Retreats on Higher Yields and Geopolitical Risks — The Ibovespa fell more than 0.5% to below 169,500 on Friday amid higher bond yields and escalating hostilities in the Middle East. Iran-backed Hezbollah rejected a new Lebanon ceasefire proposal, while Israel said it would not withdraw its troops, undermining US diplomatic efforts with Iran. Oil prices remained elevated, fueling concerns about inflation, while a strong jobs report in the US added to bets of a Fed hike and magnified the increase in Brazilian rate futures. Likewise UBS turned less constructive on Brazilian assets as prospects for aggressive Selic cuts faded, citing stronger economic activity, higher oil prices linked to the Iran conflict, and persistent inflation pressures. B3 edged lower after a 5% drop in the previous session, while Itaú and Bradesco traded little changed. Utilities underperformed, with Auren down nearly 1% and Sabesp losing more than 1%. Vale also weighed on the index, shedding nearly 2% amid lower iron ore prices."
-    },
-    {
-      "id": "4919952",
-      "time": "2026-06-05 21:40:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金銀市場協會（LBMA）：截至2026年5月末，倫敦地區存銀量為27611噸，較上月增長0.6%。"
     }
   ]
 }
