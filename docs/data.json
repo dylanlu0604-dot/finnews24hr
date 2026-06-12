@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-13 03:17:41",
-  "count": 18406,
+  "updated": "2026-06-13 03:21:41",
+  "count": 18400,
   "items": [
+    {
+      "id": "4933330",
+      "time": "2026-06-13 03:20:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外長：結束美國封鎖、重新開放霍爾木茲海峽是臨時協議的一部分內容。"
+    },
+    {
+      "id": "4933329",
+      "time": "2026-06-13 03:20:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮釋出國家安全總統備忘錄。"
+    },
+    {
+      "id": "mkt:019ebd46-a63a-7dd8-afe6-197247b18d53",
+      "time": "2026-06-13 03:19:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said hostile forces, including Israel, oppose Iran reaching an agreement with the US."
+    },
+    {
+      "id": "4933328",
+      "time": "2026-06-13 03:19:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：以色列等敵對勢力反對伊朗與美國達成協議。"
+    },
+    {
+      "id": "mkt:019ebd46-01ad-7dd8-afe6-11f174a310c9",
+      "time": "2026-06-13 03:19:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "ROKU.O",
+        "Impact mixed"
+      ],
+      "text": "Streaming-video platform Roku (ROKU.O) is in talks to sell itself and has been discussing a potential merger with at least one US media company, sources said."
+    },
+    {
+      "id": "mkt:019ebd44-f160-7dd8-afe6-0bd328d65aec",
+      "time": "2026-06-13 03:17:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian foreign minister Araghchi said the US lifting the blockade and reopening the Strait of Hormuz are part of the interim agreement."
+    },
     {
       "id": "4933327",
       "time": "2026-06-13 03:16:28",
@@ -169303,120 +169360,6 @@
         "FTSE100"
       ],
       "text": "Bank of England Governor BAILEY said the UK's key problem is economic growth."
-    },
-    {
-      "id": "4920328",
-      "time": "2026-06-06 03:21:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：在患者隔離比例較低的模型場景中，此次疫情可能成為有史以來記錄規模最大的疫情之一。"
-    },
-    {
-      "id": "mkt:019e993b-8713-7665-830c-d3a3ee18d3ba",
-      "time": "2026-06-06 03:21:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Nasdaq100",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Nasdaq Golden Dragon China Index fell more than 4% intraday."
-    },
-    {
-      "id": "4920327",
-      "time": "2026-06-06 03:21:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：西班牙首相桑切斯承諾恢復與墨西哥外交關係。"
-    },
-    {
-      "id": "4920326",
-      "time": "2026-06-06 03:20:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：英國經濟的核心議題是經濟增長。"
-    },
-    {
-      "id": "4920325",
-      "time": "2026-06-06 03:19:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普最快將於下週會晤多家人工智慧企業，磋商政府參與 AI 收益分成方案。"
-    },
-    {
-      "id": "mkt:019e9939-dfab-7665-830c-c9b5b2a03411",
-      "time": "2026-06-06 03:19:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "AI Revolution"
-      ],
-      "text": "Politico reports Trump will meet with AI companies as early as next week to discuss a government profit-sharing plan."
-    },
-    {
-      "id": "4920324",
-      "time": "2026-06-06 03:19:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列謝莫納鎮及北部多地響起紅色防空警報。"
-    },
-    {
-      "id": "mkt:019e9939-8115-7665-830c-c68761e9d13e",
-      "time": "2026-06-06 03:19:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium tumbled 6.00% intraday to $1,229.41/oz."
-    },
-    {
-      "id": "mkt:019e9939-5951-7665-830c-b99f92345e39",
-      "time": "2026-06-06 03:18:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "【Spot silver plunges 8% intraday】Spot silver fell 8.00% intraday to $67.97/oz."
-    },
-    {
-      "id": "4920323",
-      "time": "2026-06-06 03:18:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌8%，現報67.93美元/盎司。"
-    },
-    {
-      "id": "4920322",
-      "time": "2026-06-06 03:18:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌7%，現報1241.50美元/盎司。"
-    },
-    {
-      "id": "4920321",
-      "time": "2026-06-06 03:17:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：主流政界中堅力量普遍支援央行保持獨立性。"
     }
   ]
 }
