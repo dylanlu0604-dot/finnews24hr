@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-13 02:34:21",
-  "count": 18422,
+  "updated": "2026-06-13 02:56:42",
+  "count": 18406,
   "items": [
+    {
+      "id": "4933308",
+      "time": "2026-06-13 02:47:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨：根據伊朗官員向我們傳達的資訊，以色列將依據該協議從黎巴嫩領土撤軍。黎巴嫩也被納入伊朗與美國停火協議之中。"
+    },
+    {
+      "id": "mkt:019ebd29-0869-7dd8-afe5-b72b1dc4eb3c",
+      "time": "2026-06-13 02:47:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Hezbollah said, citing information from Iranian officials, that under the agreement Israel will withdraw its forces from Lebanese territory and that Lebanon is included in the Iran-US ceasefire agreement."
+    },
+    {
+      "id": "mkt:019ebd25-45a3-7dd8-afe5-a9d3a6c20950",
+      "time": "2026-06-13 02:43:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "【SpaceX leases Colossus 1 compute capacity to Anthropic after technical issues】Sources said SpaceX has decided to lease the full capacity of its Memphis Colossus 1 data center to Anthropic after encountering technical challenges developing and running the Grok AI model there. SpaceX had planned a three-site cluster to train frontier models but ran into latency when linking Colossus 1 with two other sites over 10 miles away; aging network infrastructure and hardware heterogeneity—Colossus 1 hosts multiple generations of NVIDIA chips including Hopper and Blackwell plus older accelerators, while Colossus 2 and 3 are built more uniformly around NVIDIA Blackwell—impeded integration."
+    },
+    {
+      "id": "mkt:019ebd22-1dea-7dd8-afe5-a1800f42f735",
+      "time": "2026-06-13 02:39:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SPCX.O",
+        "Impact mixed"
+      ],
+      "text": "People familiar with the matter said SpaceX (SPCX.O) encountered technical problems developing and running its Grok AI models at the Colossus 1 data center in Memphis and will lease the facility’s entire capacity to ANTHROPIC."
+    },
+    {
+      "id": "mkt:019ebd20-36cc-7dd8-afe5-9b4d2761cab8",
+      "time": "2026-06-13 02:37:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cuban president condemns US tightening of oil blockade】Cuban President Miguel Díaz-Canel on June 12 condemned US measures tightening an oil blockade on Cuba, saying Washington has barred third countries from supplying fuel and has expanded sanctions to Cuba’s state oil company, issuing new warnings to firms that trade with it."
+    },
+    {
+      "id": "4933307",
+      "time": "2026-06-13 02:36:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【古巴國家主席譴責美國收緊對古石油封鎖】古巴國家主席迪亞斯-卡內爾12日譴責美國進一步收緊對古石油封鎖，指責美方的行徑“毫無底線”可言。迪亞斯-卡內爾在社交媒體上發文指出，美國禁止其他國家向古巴提供燃料後，又將制裁矛頭指向古巴國家石油公司，對與該公司開展貿易的各方發出新的威脅。他表示，美國企圖用“荒謬藉口”為其罪行辯護，其真實目的是讓古巴人民窒息，迫使他們在飢餓、匱乏和疾病面前屈服。（新華社）"
+    },
     {
       "id": "4933306",
       "time": "2026-06-13 02:32:58",
@@ -41,6 +106,14 @@
         "MKT News"
       ],
       "text": "The US Environmental Protection Agency has submitted four California waiver rules to Congress. The waivers had previously granted California authority to set its own emissions standards for passenger cars and heavy-duty trucks."
+    },
+    {
+      "id": "4933303",
+      "time": "2026-06-13 02:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX在內部團隊使用算力遇到問題後，對外出租了相關計算資源。"
     },
     {
       "id": "mkt:019ebd1a-43ba-7dd8-afe5-84266a6ab094",
@@ -169366,240 +169439,6 @@
         "觀點"
       ],
       "text": "市場訊息：SpaceX 承銷投行提議管控散戶交易者，此舉引發市場強烈反對。訊息稱摩根士丹利要求相關機構向第三方共享資料，部分券商據悉拒絕配合摩根士丹利的相關資料調取要求。"
-    },
-    {
-      "id": "mkt:019e9924-1141-7665-830c-66724b0a5b02",
-      "time": "2026-06-06 02:55:38",
-      "tags": [
-        "MKT News",
-        "GOOGL.O"
-      ],
-      "text": "SpaceX said Google will retain ownership of its AI models and related data."
-    },
-    {
-      "id": "4920302",
-      "time": "2026-06-06 02:55:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：2026年12月31日之後，任何一方均可提前90天通知對方終止協議。谷歌將保留對其內容、人工智慧模型及相關資料的所有權和智慧財產權。"
-    },
-    {
-      "id": "4920300",
-      "time": "2026-06-06 02:53:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛與非疾控啟動超5億美元埃博拉疫情防控計劃】世界衛生組織與非洲疾病預防控制中心5日共同宣佈，啟動5.18億美元埃博拉疫情防控計劃，以應對發生在剛果（金）和烏干達的本迪布焦型埃博拉疫情。非洲疾控中心主任讓·卡塞亞在會上強調，這項計劃“為非洲大陸提供了一條清晰的道路，使其能夠迅速團結地採取統一行動，拯救生命，支援受疫情影響國家，並保護相鄰地區”。（新華社）"
-    },
-    {
-      "id": "mkt:019e9921-6600-7665-830c-5fdad6754f6d",
-      "time": "2026-06-06 02:52:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "GOOGL.O",
-        "Impact bearish"
-      ],
-      "text": "SpaceX said Google may terminate the GPU-related agreement after a one-month cure period if compute capacity is not delivered by local time on Sept. 30, 2026."
-    },
-    {
-      "id": "mkt:019e991f-e818-7665-830c-556f797f7ac9",
-      "time": "2026-06-06 02:51:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "US stocks extended declines; the Nasdaq Composite briefly fell more than 4%."
-    },
-    {
-      "id": "4920299",
-      "time": "2026-06-06 02:50:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：若未能在 2026 年 9 月 30 日前交付算力資源，谷歌可在一個月寬限期屆滿後終止這份 GPU 合作協議。"
-    },
-    {
-      "id": "4920298",
-      "time": "2026-06-06 02:50:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【國際空間站暫停漏氣維修，宇航員結束避險】美國國家航空航天局新聞秘書貝薩妮·史蒂文斯5日表示，國際空間站俄羅斯艙段一處長期存在裂縫和漏氣問題的通道原定當天進行維修，但俄羅斯國家航天集團已暫停相關作業，以便進一步評估測量結果和相關資料。5名宇航員在維修期間進入停靠空間站的“龍”飛船避險，地面人員已通知他們結束避險狀態並返回空間站恢復正常工作。（新華社）"
-    },
-    {
-      "id": "4920297",
-      "time": "2026-06-06 02:48:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌4.00%，現報25757.377點；道指跌1.15%，現報50969.012點；標普500指數跌2.43%，現報7399.930點。"
-    },
-    {
-      "id": "mkt:019e991c-f2f5-7665-830c-4aed2f81176c",
-      "time": "2026-06-06 02:47:51",
-      "tags": [
-        "MKT News",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "SEC filing shows SpaceX signed a cloud services agreement with Google on June 5, 2026 to secure cloud compute capacity."
-    },
-    {
-      "id": "mkt:019e991c-9784-7665-830c-417d623870fb",
-      "time": "2026-06-06 02:47:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "GOOG.O"
-      ],
-      "text": "Market sources said SpaceX has struck a cloud-services agreement with Google (GOOG.O) covering 110,000 NVIDIA GPUs plus CPUs and memory."
-    },
-    {
-      "id": "4920296",
-      "time": "2026-06-06 02:46:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "可口可樂股價漲幅擴大至5.1%，有望創下2020年以來最佳單日表現。"
-    },
-    {
-      "id": "mkt:019e991b-4098-7665-830c-3964f1b7a7e5",
-      "time": "2026-06-06 02:46:00",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact bearish",
-        "WBD.O"
-      ],
-      "text": "【Sources: Several U.S. states weighing lawsuits to block Paramount Global’s proposed Warner Bros. Discovery deal】Several U.S. state attorneys general are drafting a complaint to challenge Paramount Global’s proposed $110 bln acquisition of Warner Bros. Discovery (WBD.O), people familiar with the matter said. Roughly 10 states, led by California, are preparing potential antitrust litigation and discussing procedures to file this month, though no final decision has been made on filing or which states will join. Most participating AGs are Democrats, but at least two Republican attorneys general are involved. Officials have met with Paramount and deal opponents and requested sworn statements or testimony that could be used in litigation."
-    },
-    {
-      "id": "4920295",
-      "time": "2026-06-06 02:45:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指跌1.00%，現報51045.730點；納指跌3.82%，現報25805.325點；標普500指數跌2.25%，現報7413.540點。"
-    },
-    {
-      "id": "4920294",
-      "time": "2026-06-06 02:44:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX： 合作方同意自 10 月起至 2029 年 6 月，每月支付 9.2 億美元。"
-    },
-    {
-      "id": "4920293",
-      "time": "2026-06-06 02:44:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4340美元/盎司，日內跌3.66%。"
-    },
-    {
-      "id": "te:markets:557004",
-      "time": "2026-06-06 02:43:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "other",
-        "currency",
-        "Importance 0"
-      ],
-      "text": "Bitcoin Hits 19-month Low — The Bitcoin touched 59850.00 against the BTC, the highest since October 2024. Over the past 4 weeks, Bitcoin US Dollar lost 26.41%, and in the last 12 months, it decreased 42.6%."
-    },
-    {
-      "id": "4920292",
-      "time": "2026-06-06 02:43:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX ：與谷歌達成雲服務合作協議，合作協議包含 11 萬片英偉達 GPU、配套 CPU 及記憶體。"
-    },
-    {
-      "id": "mkt:019e9918-3dfa-7665-830c-31303770e2c4",
-      "time": "2026-06-06 02:42:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell to $68/oz, down 7.96% intraday."
-    },
-    {
-      "id": "4920291",
-      "time": "2026-06-06 02:42:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守68美元/盎司，日內跌7.93%。"
-    },
-    {
-      "id": "mkt:019e9915-2eee-7665-830c-2d60db89da25",
-      "time": "2026-06-06 02:39:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Spot gold erased all of its year-to-date gains after U.S. employment data strengthened market expectations for Fed rate hikes."
-    },
-    {
-      "id": "mkt:019e9912-eb0e-7665-830c-25e7384e0628",
-      "time": "2026-06-06 02:36:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say demand for SpaceX IPO subscriptions is about twice the initial $75 billion roadshow target."
-    },
-    {
-      "id": "4920290",
-      "time": "2026-06-06 02:36:09",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "受就業資料提振市場押注美聯儲加息影響，現貨黃金回吐年內全部漲幅。"
-    },
-    {
-      "id": "4920289",
-      "time": "2026-06-06 02:35:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：美國國家安全體系研發及應用人工智慧技術時，不得利用其管控言論自由、植入意識形態偏見，或是開展未經授權及非法監視活動。"
     }
   ]
 }
