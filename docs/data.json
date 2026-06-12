@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-12 12:22:05",
+  "updated": "2026-06-12 12:26:03",
   "count": 18467,
   "items": [
+    {
+      "id": "te:markets:558578",
+      "time": "2026-06-12 12:23:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rebounds as Oil Prices Fall — India’s BSE Sensex rose about 1.2% to 74,697 at the open on Friday, rebounding from losses in the previous session and reaching its highest level in two weeks as easing geopolitical tensions in the Middle East pushed oil prices lower, boosting investor sentiment. The rally came after oil prices retreated sharply following comments from US President Donald Trump, who said Washington and Tehran could reach a peace agreement as soon as this weekend and could reopen the Strait of Hormuz. Meanwhile, foreign portfolio investors offloaded USD 207.52 million worth of domestic equities on Thursday, bringing year-to-date outflows to a record USD 30.6 billion. Early gainers included MTAR (+10.7%), Netweb (+6.3%), HDFC (+1.9%), and Aegis (+2.0%). On the data front, investors await India’s May inflation report due later in the day, with the annual rate expected to accelerate to 4.0% from 3.48% in April."
+    },
+    {
+      "id": "4931796",
+      "time": "2026-06-12 12:23:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甬舟鐵路又有新進展  預計2028年具備開通運營條件】日前，甬舟鐵路金塘海底隧道寧波側成功掘進突破1729環，標誌著寧波側盾構機掘進任務已完成七成。作為甬舟鐵路核心控制性工程，該隧道西起寧波北侖、東至舟山金塘，是當前全球長度最長、地質條件最複雜、施工難度最大的海底高鐵盾構隧道。甬舟鐵路預計2028年具備開通運營條件。（浙江釋出）"
+    },
+    {
+      "id": "4931795",
+      "time": "2026-06-12 12:21:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波能源等成立節能科技公司】企查查APP顯示，近日，寧波甬能博旭節能科技有限公司成立，法定代表人為潘志超，經營範圍包含：以自有資金從事投資活動；節能管理服務；餘熱發電關鍵技術研發；儲能技術服務；發電技術服務等。企查查股權穿透顯示，該公司由寧波能源全資子公司寧波甬能綜合能源服務有限公司、浙江博旭新能源科技有限公司共同持股。"
+    },
+    {
+      "id": "4931794",
+      "time": "2026-06-12 12:21:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴外長：古巴電力問題源於美國封鎖制裁】古巴外長羅德里格斯11日表示，一些美國官員將古巴電力問題歸咎於古巴政府的說法是在撒謊，旨在掩蓋美國對古巴人民犯下的罪行。羅德里格斯當天在社交媒體上說，古巴電力系統的問題並非是古巴政府疏於管理，而是源於一場“殘酷戰爭”。蓄意發動這場戰爭的人非常清楚給古巴民眾造成的傷害。"
+    },
     {
       "id": "4931793",
       "time": "2026-06-12 12:21:18",
@@ -170249,42 +170285,6 @@
         "其他"
       ],
       "text": "【夸克推出2026高考志願填報產品】2026年全國高考臨近，6月5日，夸克推出新升級的高考頻道，為考生免費提供“高考搜尋”、“智慧選志願”、“志願表”、“志願報告”等功能。夸克高考志願工具也將接入千問APP。"
-    },
-    {
-      "id": "4918669",
-      "time": "2026-06-05 12:25:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【喜力股東施壓 敦促集團外聘高管出任 CEO】英國《金融時報》訊息，喜力部分主要股東呼籲這家荷蘭啤酒集團選聘外部人士擔任執行長。位列前十五的兩大投資方表示，希望喜力摒棄長期內部提拔高管的慣例，透過外部聘任新任 CEO，助力公司扭轉經營局面。"
-    },
-    {
-      "id": "4918668",
-      "time": "2026-06-05 12:24:19",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【領益智造計劃下週啟動香港上市推介 籌資規模約10億美元】IFR援引知情人士報道稱，深圳上市的領益智造計劃下週啟動香港上市推介，籌資規模約10億美元。領益智造上月申請香港上市，國泰君安國際是獨家保薦人。"
-    },
-    {
-      "id": "te:markets:556712",
-      "time": "2026-06-05 12:23:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Opens Slightly Higher — India’s BSE Sensex rose about 0.3% to 74,545 at the open on Friday, recovering from losses in the previous session as investors positioned ahead of the Reserve Bank of India's monetary policy decision later today. Market sentiment improved after GIFT Nifty futures signaled a stronger start, with traders expecting the RBI to maintain its benchmark policy rate while closely monitoring comments from Governor Sanjay Malhotra for clues on the outlook for inflation, growth, liquidity conditions and potential measures to support capital inflows. Broad-based gains were seen across most sectors, while technology, energy minerals, non-energy minerals, consumer non-durables, and miscellaneous stocks remained under pressure. Among individual stocks, Adani (+2.2%), ZEE (+5.8%), BSE (+1.9%), and Billionbrains (+2.1%) led the early gains, while HFCL (-4.8%), JSLL (-5.0%), and Wockhardt (-6.2%) were among the biggest laggards. Nonetheless, the benchmark remains 0.3% in the red for the week to date."
-    },
-    {
-      "id": "4918667",
-      "time": "2026-06-05 12:22:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【監管收緊！購藥新規落地，減肥神藥無處方禁止網售】司美格魯肽、替爾泊肽等GLP-1類藥物一度成為電商平臺的現象級品類，被眾多消費者視作“減肥神藥”。而在新修訂的《藥品管理法實施條例》於今年5月15日正式施行後，天貓、京東等平臺紛紛收緊GLP-1類藥物的線上銷售。 21世紀經濟報道記者調查天貓、京東等主流電商發現，目前不同平臺、不同產品的購藥流程存在差異，合規尺度有所參差。在天貓平臺，針對是否需要處方的問題，客服表示，“下單後將身高體重資訊發給門診藥師，看藥師能否幫您開具，微信溝通就行。”而在京東健康平臺，對於諾和盈、埃諾格魯肽（先維盈）等藥物，店鋪客服明確表示，目前該類藥品需憑處方線下取藥，線上渠道已基本收緊。（21財經）"
     }
   ]
 }
