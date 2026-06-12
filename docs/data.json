@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-12 13:50:25",
-  "count": 18391,
+  "updated": "2026-06-12 13:54:32",
+  "count": 18393,
   "items": [
+    {
+      "id": "mkt:019eba64-9ddd-7dd8-afd3-42d9fc1f3d1a",
+      "time": "2026-06-12 13:53:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index gains narrowed to below 5% after briefly rising above 8%."
+    },
+    {
+      "id": "4931903",
+      "time": "2026-06-12 13:53:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數漲幅收窄至不足5%，此前一度漲超8%。"
+    },
+    {
+      "id": "4931902",
+      "time": "2026-06-12 13:53:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨轉跌，跌幅達0.3%。"
+    },
+    {
+      "id": "4931901",
+      "time": "2026-06-12 13:52:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普將歷峰集團展望調整為正面，鑑於穩健的資產負債表和良好的運營業績，確認其“A+”評級。"
+    },
+    {
+      "id": "mkt:019eba63-ac7c-7dd8-afd3-3dea5446db43",
+      "time": "2026-06-12 13:52:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China deputy foreign minister attends U.S. Embassy Independence Day reception】Deputy Foreign Minister Ma Zhaoxu attended a U.S. Embassy Independence Day reception in Beijing on June 10, met the U.S. ambassador to China and discussed implementing leaders' consensus and advancing constructive strategic stability in China‑U.S. relations."
+    },
+    {
+      "id": "4931900",
+      "time": "2026-06-12 13:52:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議員說美再襲伊朗實為施壓】美國總統特朗普6月11日宣稱，美軍當晚將“非常猛烈”地打擊伊朗，隨後又稱取消行動。在此前連續兩天，美軍對伊朗多地發動襲擊。針對美方行為，伊朗伊斯蘭議會國家安全委員會主席易卜拉欣·阿齊茲6月11日對媒體表示，不應將本輪美伊互襲視為“戰爭”，而應將其視為“美國為實現其目標而採取的高壓手段”。阿齊茲指出，事實上，美國現在所追求的是利用軍事壓力來支援談判，以此獲取他們在戰場上未能實現的訴求。 阿齊茲強調，美國必須接受今天的伊朗已不同往日，經歷了戰火的淬鍊，伊朗在軍事、國防、政治乃至經濟等各個層面都已達到新的高度。"
+    },
+    {
+      "id": "4931899",
+      "time": "2026-06-12 13:50:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部副部長馬朝旭應邀出席美國駐華使館獨立日招待會】2026年6月10日，外交部副部長馬朝旭應邀出席美國駐華使館舉辦的美國獨立日招待會。馬朝旭祝賀美國獨立250週年，並同美駐華大使龐德偉就落實兩國元首重要共識、共同推進中美建設性戰略穩定關係進行交流。"
+    },
+    {
+      "id": "mkt:019eba61-b0a9-7dd8-afd3-37bc1742d18f",
+      "time": "2026-06-12 13:50:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "【Banks curb hedge-fund leverage on SK Hynix and Samsung after volatile chip rally】Global banks are tightening financing and limiting new swap exposure for hedge funds long SK Hynix and Samsung Electronics after a year-to-date chip rally and rising volatility raised pullback risk. Citi, JP Morgan and Goldman Sachs have raised financing costs on equity swaps used to go long the two Korean names; banks have also cut deal sizes and narrowed eligible counterparties. Morgan Stanley is declining new swap trades in both stocks, and several smaller banks stopped taking new orders in the past two weeks. Banks still executing new business are vetting trades case-by-case; BofA, BNP Paribas and UBS have also increased swap financing costs and imposed size limits."
+    },
+    {
+      "id": "mkt:019eba61-6e59-7dd8-afd3-284a862ce7cd",
+      "time": "2026-06-12 13:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "GBPUSD",
+        "FTSE100"
+      ],
+      "text": "Final German May CPI MoM and UK April industrial production MoM, manufacturing production MoM, three-month GDP MoM and seasonally adjusted goods trade balance are due in 10 minutes."
+    },
     {
       "id": "te:markets:558595",
       "time": "2026-06-12 13:49:50",
@@ -169500,76 +169585,6 @@
         "市場"
       ],
       "text": "【“一年四倍基”財通福鑫定開混合連續四天大漲 溢價率突破45%】今日場內基金財通福鑫定開混合延續上漲行情，漲幅達8.96%，已連續四個交易日大漲。截至中午收市時，該產品的二級市場溢價率已高達45.08%。財通基金午間向上交所提交臨時停牌申請，該基金自當日13:00起停牌至收盤。財通福鑫定開混合是一隻“一年四倍基”，截止6月4日的過去一年淨值漲幅高達449.35%。基金管理人提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。"
-    },
-    {
-      "id": "4918823",
-      "time": "2026-06-05 13:54:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度10年期政府債券收益率進一步下跌5個基點至6.94%。"
-    },
-    {
-      "id": "4918822",
-      "time": "2026-06-05 13:53:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "塞爾維亞能源部長表示，塞爾維亞已與俄羅斯天然氣工業股份公司達成協議，將天然氣供應期限延長三個月。"
-    },
-    {
-      "id": "mkt:019e9657-0452-7ff7-b578-2e6463153427",
-      "time": "2026-06-05 13:52:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS",
-        "MU.O"
-      ],
-      "text": "【NVIDIA's Huang says SK Hynix, Samsung, Micron certified to mass‑produce HBM4】NVIDIA CEO Jensen Huang said SK Hynix, Samsung Electronics and Micron Technology have been certified to supply NVIDIA’s latest high‑bandwidth memory, HBM4, and can begin mass production for the company’s AI accelerators. Huang said all three vendors are in production and competing to support NVIDIA’s Vera Rubin accelerator. The firms dominate the global compute‑memory semiconductor market."
-    },
-    {
-      "id": "4918821",
-      "time": "2026-06-05 13:52:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黃仁勳：SK海力士、三星、美光已透過認證，將量產最新AI記憶體】英偉達CEO黃仁勳表示，三大記憶體晶片製造商已獲准為英偉達AI加速器供應最先進的高頻寬產品。這一決定意味著SK海力士、三星電子和美光科技可開始量產並供應HBM4，即用於英偉達AI加速器的最新一代晶片。這三家企業主導著全球計算用儲存半導體市場，此前一直在激烈爭奪該業務份額。黃仁勳在抵達首爾進行為期數日的訪問時告訴記者：“三家供應商均已透過認證。”他補充道：“三家企業都已投產，都在競相支援Vera Rubin。”Vera Rubin是英偉達最新AI晶片。"
-    },
-    {
-      "id": "4918820",
-      "time": "2026-06-05 13:51:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米機器人團隊拿下雙料冠軍 雷軍官宣小米機器人努力方向】雷軍微博稱：小米機器人團隊，在最近兩大國際賽事中拿下雙料冠軍，而且，大幅領先第二名。 1. CVPR 2026 Workshops中，小米匿名參賽模型「my16」，以40.89%成功率位列總榜第一，是本屆唯一突破40%的模型。 2. ICRA 2026 WBC中，小米機器人綜合得分99.2分（接近滿分），整體成功率94%，領先第二名10個百分點。 小米機器人的努力方向，就是讓機器人真正走進物理世界，幹實際的活。"
-    },
-    {
-      "id": "4918819",
-      "time": "2026-06-05 13:51:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丁二烯橡膠連續主力合約日內跌5%，現報13730.00元。"
-    },
-    {
-      "id": "mkt:019e9655-ce39-7ff7-b578-20a4f4657d98",
-      "time": "2026-06-05 13:51:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【Huawei Cloud CEO Zhou Yuefeng: Prioritizes productivity gains over tokens revenue and consumption】Against an industry focus on MaaS revenue and token-usage metrics, Huawei Cloud CEO Zhou Yuefeng said the cloud unit prioritizes productivity improvements from Tokens over total token revenue or consumption. He noted Huawei Cloud is built on domestically sourced compute and, given constrained domestic compute supply, will not compete with peers on raw compute scale. Consequently, Huawei Cloud de-emphasizes topline and token-consumption KPIs and is focusing on developing a second compute plane rather than pursuing sentiment-driven value."
     }
   ]
 }
