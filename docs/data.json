@@ -1,7 +1,157 @@
 {
-  "updated": "2026-06-12 12:29:54",
-  "count": 18470,
+  "updated": "2026-06-12 12:33:51",
+  "count": 18478,
   "items": [
+    {
+      "id": "4931805",
+      "time": "2026-06-12 12:33:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢1宗宅地溢價超20%成交】6月12日，武漢出讓1宗東湖高新區小體量宅地，規劃建築面積25830㎡，容積率2.65，起始價2.385億元，起始樓面價9233元/㎡。該地塊經過23輪競價，最終由武漢鼎源房地產開發有限公司以總價2.885億元競得，成交樓面價11169元/㎡，溢價率20.96%。"
+    },
+    {
+      "id": "4931804",
+      "time": "2026-06-12 12:32:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部訊息稱，俄方昨夜擊落231架無人機。"
+    },
+    {
+      "id": "mkt:019eba1a-4346-7dd8-afd1-96d272b86af0",
+      "time": "2026-06-12 12:32:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan April equipment utilization index 102.9, down from prior 103.7."
+    },
+    {
+      "id": "mkt:019eba1a-1f15-7dd8-afd1-88dd0a85e69d",
+      "time": "2026-06-12 12:32:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Operating Ratio Index (Apr) | actual 102.9 | previous 103.7"
+    },
+    {
+      "id": "mkt:019eba19-fd13-7dd8-afd1-811228ee35ee",
+      "time": "2026-06-12 12:32:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan April final inventories MoM -0.3% (prior -0.2%)."
+    },
+    {
+      "id": "mkt:019eba19-e3e1-7dd8-afd1-7ef6777929fa",
+      "time": "2026-06-12 12:31:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Inventories Final (MoM) (Apr) | actual -0.3% | previous -0.2%"
+    },
+    {
+      "id": "4931803",
+      "time": "2026-06-12 12:31:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濟南長清產業發展投資控股集團有限公司董事長於磊被查】6月12日，據長清區紀委監委訊息：濟南長清產業發展投資控股集團有限公司黨支部書記、董事長於磊涉嫌嚴重違紀違法，目前正接受濟南市長清區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019eba18-ff4f-7dd8-afd1-770f424841f6",
+      "time": "2026-06-12 12:31:00",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan April machinery utilization index MoM -0.8%, prior -1.2%."
+    },
+    {
+      "id": "mkt:019eba18-e33a-7dd8-afd1-68f436cfe7cd",
+      "time": "2026-06-12 12:30:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Operating Ratio Index (MoM) (Apr) | actual -0.8% | previous -1.20%"
+    },
+    {
+      "id": "mkt:019eba18-d9d2-7dd8-afd1-601aba85f1dc",
+      "time": "2026-06-12 12:30:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan April industrial production (final) YoY 2.0% vs prior 2.3%."
+    },
+    {
+      "id": "mkt:019eba18-bb2a-7dd8-afd1-5966bd186edb",
+      "time": "2026-06-12 12:30:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Final (YoY) (Apr) | actual 2% | previous 2.30%"
+    },
+    {
+      "id": "mkt:019eba18-b8d6-7dd8-afd1-51d85e97cd32",
+      "time": "2026-06-12 12:30:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Japan April industrial production (final) MoM +0.5%, prior +0.8%."
+    },
+    {
+      "id": "mkt:019eba18-9a82-7dd8-afd1-4df183c443d9",
+      "time": "2026-06-12 12:30:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Final (MoM) (Apr) | actual 0.5% | previous 0.80%"
+    },
+    {
+      "id": "mkt:019eba18-63d6-7dd8-afd1-45c6cb74c153",
+      "time": "2026-06-12 12:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【U.S. 2x long ProShares product on Zhongji Xuchuang in fundraising; expected to list in two months】On the morning of June 12 Zhongji Xuchuang opened as much as 5% higher. Separately, ProShares has developed a 2x leveraged long product on Zhongji Xuchuang for the U.S. market; the product is currently fundraising and is expected to list in about two months."
+    },
     {
       "id": "4931802",
       "time": "2026-06-12 12:29:05",
@@ -170260,58 +170410,6 @@
         "國際"
       ],
       "text": "印度儲備銀行行長：貨幣政策委員會維持“中性”政策立場。"
-    },
-    {
-      "id": "4918679",
-      "time": "2026-06-05 12:33:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：貨幣政策委員會對回購利率決定的投票結果為全票透過。"
-    },
-    {
-      "id": "4918678",
-      "time": "2026-06-05 12:33:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：關鍵回購利率維持5.25%不變。"
-    },
-    {
-      "id": "4918677",
-      "time": "2026-06-05 12:33:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度儲備銀行行長： 發達經濟體央行或將轉向政策收緊。情緒風險、避險需求正在加劇外匯市場波動。情緒風險、避險需求正在加劇外匯市場波動。"
-    },
-    {
-      "id": "4918676",
-      "time": "2026-06-05 12:32:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長： 印度經濟本輪進入全球動盪期時的基本面狀況優於以往歷次週期。我們有信心以最小代價抵禦衝擊。直面並解決這些挑戰至關重要。貨幣政策已轉向更為謹慎的姿態。"
-    },
-    {
-      "id": "4918675",
-      "time": "2026-06-05 12:31:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度儲備銀行（印度央行）行長  ：過去幾個月，全球經濟一直受不確定性左右。"
-    },
-    {
-      "id": "4918674",
-      "time": "2026-06-05 12:30:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長開始發表貨幣政策講話。"
     }
   ]
 }
