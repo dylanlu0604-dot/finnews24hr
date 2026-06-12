@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-13 00:08:20",
-  "count": 18402,
+  "updated": "2026-06-13 00:12:33",
+  "count": 18399,
   "items": [
+    {
+      "id": "mkt:019ebc9a-241d-7dd8-afe2-a89054f01d2c",
+      "time": "2026-06-13 00:11:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said two suspected airborne targets collided in its area of operations in southern Lebanon after recent alerts across northern Israel triggered by hostile aerial incursions. The incident caused no property damage or casualties."
+    },
+    {
+      "id": "te:markets:558782",
+      "time": "2026-06-13 00:11:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Close Sharply Higher — The Euro STOXX 50 gained 2% and the STOXX Europe 600 closed 1.8% higher on Friday amid lower oil prices after the Iranian foreign ministry claimed it was close to a deal with the US. The statement improved confidence over the gradual return of energy exports from the Persian Gulf after conflicting rhetoric from US President Trump added volatility to the session. Sovereign yields fell and banks benefited from the improved outlook for credit, with Deutsche Bank surging 6.6% while Santander and BNP Paribas advanced over 5%. Meanwhile, ASML added 3.4%, tracking the AI infrastructure sector after SpaceX gained 15% in its IPO, adding to cash for AI companies to spend on chips and data centers. Yesterday, the European Central Bank raised interest rates for the first time in nearly three years and indicated that a restrictive monetary stance could remain through 2027."
+    },
+    {
+      "id": "mkt:019ebc99-eab5-7dd8-afe2-a14a6c07e169",
+      "time": "2026-06-13 00:11:04",
+      "tags": [
+        "MKT News",
+        "IFX.DE",
+        "Impact bearish"
+      ],
+      "text": "【Infineon ruled to infringe Innoscience; related GaN products barred from sale in China】June 12, 2026 — The Supreme People's Court upheld the Suzhou Intermediate People's Court's temporary injunction, maintaining a ban that prohibits Infineon's related gallium nitride (GaN) products from being sold, offered for sale or imported into China effective immediately. On May 27 the Suzhou court found Infineon infringed two of Innoscience's core GaN invention patents, ordered an immediate cessation of sales, offers to sell and imports, and awarded Innoscience 10 million yuan in damages; the Supreme People's Court ruling finalizes the patent case."
+    },
+    {
+      "id": "te:markets:558781",
+      "time": "2026-06-13 00:11:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.76% Higher — The DAX Index went up by 426 points or 1.76 percent on Friday to close at 24635 points. The rise was led by Deutsche Bank (6.60%), HeidelbergCement (4.73%) and Siemens Energy (4.48%)."
+    },
+    {
+      "id": "te:markets:558780",
+      "time": "2026-06-13 00:10:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 1.83% Higher — The CAC 40 Index rose 150 points or 1.83 percent on Friday to close at 8351 points. Leading the gains are ArcelorMittal (5.87%), Societe Generale (5.86%) and Accor (5.62%)."
+    },
     {
       "id": "te:markets:558777",
       "time": "2026-06-13 00:07:47",
@@ -169368,84 +169422,6 @@
         "國際"
       ],
       "text": "據CNN：哈梅內伊助手稱伊朗和阿曼對霍爾木茲海峽擁有主權。"
-    },
-    {
-      "id": "4920207",
-      "time": "2026-06-06 00:12:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼馬魯古省附近海域發生6.0級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間5日22時57分，印尼馬魯古省東南60公里海域發生6.0級地震，震源深度120公里。預計不會有海嘯風險。（央視新聞）"
-    },
-    {
-      "id": "te:markets:556994",
-      "time": "2026-06-06 00:12:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.56% Lower — The FTSE MIB Index dropped 281 points or 0.56 percent on Friday to close at 49893 points. Losses were led by STMicroelectronics (-5.38%), Prysmian (-3.52%) and Stellantis N.V. (-2.85%). Offsetting the fall, top gainers were Infrastrutture Wire (3.27%), Italgas (3.09%) and Hera (2.08%)."
-    },
-    {
-      "id": "4920206",
-      "time": "2026-06-06 00:11:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣自 2024 年 10 月以來首次跌破 6 萬美元關口。"
-    },
-    {
-      "id": "mkt:019e988d-ea86-7665-8309-a36fe260d232",
-      "time": "2026-06-06 00:11:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Wall Street Journal, President Trump said he asked the intelligence chief to fire the agency's employees and that the Office of the Director of National Intelligence should be substantially scaled back or possibly abolished."
-    },
-    {
-      "id": "4920205",
-      "time": "2026-06-06 00:11:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破60000美元，日內跌6.15%。"
-    },
-    {
-      "id": "te:markets:556993",
-      "time": "2026-06-06 00:11:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.75% Lower — The DAX Index decreased 186 points or 0.75 percent on Friday to close at 24759 points. The decline was led by Infineon (-8.62%), Mercedes-Benz AG (-2.38%) and Qiagen NV (-2.18%). On the upside, the strongest performers were Scout24 (4.16%), Zalando (3.87%) and Beiersdorf (3.61%)."
-    },
-    {
-      "id": "te:markets:556992",
-      "time": "2026-06-06 00:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.32% Lower — The CAC 40 Index fell 26 points or 0.32 percent on Friday to close at 8218 points. Leading the losses are STMicroelectronics (-4.79%), ArcelorMittal (-4.70%) and Schneider Electric (-4.36%). Top gainers were Sanofi (2.34%), Carrefour (2.00%) and Pernod Ricard (1.96%)."
-    },
-    {
-      "id": "4920204",
-      "time": "2026-06-06 00:08:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：我要求情報主管Bill Pulte解僱該部門的員工。美國最大的情報辦公室“太龐大了”。"
     }
   ]
 }
