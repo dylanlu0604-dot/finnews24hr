@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-12 09:43:38",
-  "count": 18444,
+  "updated": "2026-06-12 09:47:34",
+  "count": 18446,
   "items": [
+    {
+      "id": "4931577",
+      "time": "2026-06-12 09:46:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華能國際在安徽嶽西成立清潔能源公司】企查查APP顯示，近日，華能（嶽西）清潔能源有限責任公司成立，經營範圍包含：電子產品銷售；環境保護專用裝置銷售；電力設施器材銷售；儲能技術服務等。企查查股權穿透顯示，該公司由華能國際間接全資持股。"
+    },
+    {
+      "id": "mkt:019eb982-8b25-7dd8-afce-c7109fb18fed",
+      "time": "2026-06-12 09:46:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "Shanghai Composite rises more than 1%; commercial aerospace, semiconductors, components and minor metals led gains. About 3,200 stocks advanced while 2,100 declined."
+    },
+    {
+      "id": "mkt:019eb981-fcba-7dd8-afce-bf450f3e0e85",
+      "time": "2026-06-12 09:46:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share aviation equipment sector extended gains; Chenxi Aviation hit the daily limit-up, Tongyi Aerospace rose over 15%, and Chaozhuo Hangke, Shengnan Technology and Hangfa Technology also rallied."
+    },
+    {
+      "id": "4931576",
+      "time": "2026-06-12 09:45:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【佰維儲存股價創歷史新高】佰維儲存盤中股價創歷史新高，現漲8.25%，報351.03元，總市值為1635.39億元。"
+    },
+    {
+      "id": "4931575",
+      "time": "2026-06-12 09:45:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "據烏克蘭當局稱，俄羅斯無人機襲擊了烏克蘭蘇梅地區。"
+    },
+    {
+      "id": "4931574",
+      "time": "2026-06-12 09:45:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均漲超1%】上證指數漲1.01%，現報4027.271點；深證成指漲1.44%，現報15065.186點；創業板指漲1.91%，現報3884.121點。"
+    },
+    {
+      "id": "4931572",
+      "time": "2026-06-12 09:44:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天裝備板塊走高，中天火箭漲停】航天裝備板塊走高，中天火箭漲停，新餘國科、電科藍天、中國衛星、中國衛通、星網宇達等紛紛走高。"
+    },
+    {
+      "id": "4931571",
+      "time": "2026-06-12 09:43:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【稀土永磁概念持續走強，中鋼天源、安泰科技雙雙漲停】稀土永磁概念持續走強，中鋼天源、安泰科技雙雙漲停，新萊福、華新科技、鉑科新材、盛和資源、春光集團、XD奔朗新等跟漲。"
+    },
+    {
+      "id": "4931570",
+      "time": "2026-06-12 09:43:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊早盤拉昇，華電能源盤中觸及漲停】電力板塊早盤拉昇，華電能源盤中觸及漲停，恆盛能源、華電遼能、郴電國際、立新能源、京能熱力跟漲。"
+    },
     {
       "id": "te:markets:558521",
       "time": "2026-06-12 09:42:51",
@@ -169994,70 +170079,6 @@
         "觀點"
       ],
       "text": "【中科信半導體啟動IPO輔導】證監會網站披露，北京中科信半導體股份有限公司於2026年6月4日在北京證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信建投證券。輔導備案報告顯示，該公司控股股東為中電科爍科電子裝備（北京）有限公司，直接持有公司33.11%的股權。"
-    },
-    {
-      "id": "4918463",
-      "time": "2026-06-05 09:45:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：希望構建能夠抵禦匯率波動的經濟結構。"
-    },
-    {
-      "id": "4918462",
-      "time": "2026-06-05 09:45:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：提升競爭力有助於維繫日元市場信心。"
-    },
-    {
-      "id": "te:markets:556657",
-      "time": "2026-06-05 09:45:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "China Mobile Stock Price Hits 6-week Low — China Mobile shares decreased to 82.30 HKD, the lowest since April 2026. Over the past 4 weeks, China Mobile lost 1.85%, and in the last 12 months, it decreased 7.74%."
-    },
-    {
-      "id": "4918461",
-      "time": "2026-06-05 09:44:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業大臣赤澤亮正週五表示，日本政府已向晶片製造商Rapidus追加投資1500億日元。"
-    },
-    {
-      "id": "mkt:019e9573-aaaf-766c-9542-fe61b4de98c6",
-      "time": "2026-06-05 09:44:05",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share fiber-optic sector jumped intraday; Dingtong Technology up >13%, Qiuguan Cable up >12%. Changguang Huaxin, Ligong Guangke, Yangtze Optical Fibre & Cable, Jiuzhiyang and Hengtong Optic‑Electric also advanced."
-    },
-    {
-      "id": "mkt:019e9573-8eb2-766c-9542-f430dc71e9c8",
-      "time": "2026-06-05 09:43:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share coal sector showed localized strength: Dayou Energy posted a fifth consecutive daily limit-up; Antai Group a second. Guanghui Energy, Baotailong and Pingmei Coal also climbed."
-    },
-    {
-      "id": "4918460",
-      "time": "2026-06-05 09:43:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光纖概念板塊短線拉昇，鼎通科技漲超13%】光纖概念板塊短線拉昇，鼎通科技漲超13%，球冠電纜漲超12%，長光華芯、理工光科、長飛光纖、久之洋、亨通光電等跟漲。"
     }
   ]
 }
