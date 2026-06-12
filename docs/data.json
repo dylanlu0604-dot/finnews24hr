@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-12 21:36:23",
-  "count": 18514,
+  "updated": "2026-06-12 21:40:40",
+  "count": 18509,
   "items": [
+    {
+      "id": "4932982",
+      "time": "2026-06-12 21:39:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：德國國防部尋求在KNDS治理中獲得否決權，訊息人士稱，此舉將阻止執行長罷免德國部門負責人的能力。"
+    },
+    {
+      "id": "4932981",
+      "time": "2026-06-12 21:39:17",
+      "tags": [],
+      "text": "【美股太空概念股全線下挫維珍銀河暴跌超25％】美股太空概念股全線下挫，維珍銀河跌超25％，火箭實驗室跌超6％，銥星通訊跌超5％."
+    },
+    {
+      "id": "4932980",
+      "time": "2026-06-12 21:37:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "肯亞主權歐元債券因中東即將達成協議抑制油價的預期上漲，2048年到期品種漲幅超2美分。"
+    },
+    {
+      "id": "te:markets:558744",
+      "time": "2026-06-12 21:37:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "US Stocks Waver Ahead of SpaceX IPO — US equity indices were mixed on Friday following the sharp rebound in the previous session as support from an imminent agreement between the US and Iran clashed against volatility in tech stocks ahead of the SpaceX IPO. The S&P 500 was flat, balancing the 0.5% gain of the defensive Dow and the 0.5% loss of the tech-heavy Nasdaq 100. President Trump stated the US was close to a deal that would gradually restore energy trade through the Strait of Hormuz, and Iran confirmed a deal was nearly finalized. Energy prices and bond yields pulled back, offering some relief to credit conditions after recent data pointed to accelerated consumer and producer prices. JPMorgan and Goldman Sachs were higher to support the financial sector. AI infrastructure companies wavered ahead of the SpaceX IPO, raising $75 billion for fresh expenditure on data centers and compute capacity. Reports indicated the stock was over four-fold oversubscribed. Nvidia was lower by 0.5%, while Microsoft and Amazon fell 1.5%."
+    },
+    {
+      "id": "4932978",
+      "time": "2026-06-12 21:36:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦計劃在 2027 財年將薪資及養老金上調 7%。"
+    },
+    {
+      "id": "4932977",
+      "time": "2026-06-12 21:35:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安得智聯供應鏈科技股份有限公司向港交所提交上市申請書】據港交所檔案：安得智聯供應鏈科技股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "4932976",
+      "time": "2026-06-12 21:35:51",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "在SpaceX上市前，美國太空板塊股票下跌。直覺機器公司股價下跌8.3%，行星實驗室股價下跌5.5%，火箭實驗室股價下跌5%，衛星邏輯公司股價下跌2.8%。ROUNDHILL太空科技ETF下跌2.9%，PROCURE太空ETF下跌2.5%"
+    },
     {
       "id": "mkt:019ebc0b-ad54-7dd8-afdf-79c2c1d78c2c",
       "time": "2026-06-12 21:35:42",
@@ -170467,112 +170528,6 @@
         "其他"
       ],
       "text": "倫敦金銀市場協會（LBMA）：截至2026年5月末，倫敦地區存銀量為27611噸，較上月增長0.6%。"
-    },
-    {
-      "id": "te:markets:556923",
-      "time": "2026-06-05 21:40:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.10% Lower — The Dow Jones Index is losing 54 points. Losses were led by Cisco Systems (-3.95%), Caterpillar (-2.92%) and IBM (-2.24%). Offsetting the fall, top gainers were Coca-Cola (2.06%), Sherwin-Williams (2.05%) and McDonalds (1.95%)."
-    },
-    {
-      "id": "4919951",
-      "time": "2026-06-05 21:39:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮國家經濟委員會主任哈塞特被問及汽油價格時表示：這只是短期波動。"
-    },
-    {
-      "id": "4919950",
-      "time": "2026-06-05 21:39:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 印度尼西亞正研討礦業領域收益分成制度。"
-    },
-    {
-      "id": "4919949",
-      "time": "2026-06-05 21:39:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金銀市場協會（LBMA）：截至2026年5月末，倫敦金庫黃金持有量為9392噸，較上月增長0.21%。"
-    },
-    {
-      "id": "4919948",
-      "time": "2026-06-05 21:38:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國國航：公司及鯤航投資同意向深圳航空進行第二期增資】中國國航在港交所公告，於2026年6月5日，董事會批准公司與深國際物流、鯤航投資及深圳航空簽署第二期增資協議，據此，公司及鯤航投資同意向深圳航空進行第二期增資。第二期增資完成後，公司將繼續持有深圳航空51.0000%的股權，深圳航空仍為公司之附屬公司。"
-    },
-    {
-      "id": "4919947",
-      "time": "2026-06-05 21:37:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌2%，現報4414.78美元/盎司。"
-    },
-    {
-      "id": "4919946",
-      "time": "2026-06-05 21:37:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4390美元/盎司，日內跌1.91%。"
-    },
-    {
-      "id": "4919945",
-      "time": "2026-06-05 21:37:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元GBP/USD失守1.34，日內跌幅0.19%。"
-    },
-    {
-      "id": "4919944",
-      "time": "2026-06-05 21:37:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4420美元/盎司，日內跌1.89%。"
-    },
-    {
-      "id": "4919943",
-      "time": "2026-06-05 21:37:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股儲存板塊迎來下挫，美光科技跌4.67%，閃迪跌5.38%，希捷科技跌4.90%，西部資料跌6.91%。"
-    },
-    {
-      "id": "4919942",
-      "time": "2026-06-05 21:36:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦政府：批准內閣部門提交的總額70.3億盧比的贈款撥款摘要。"
-    },
-    {
-      "id": "te:markets:556922",
-      "time": "2026-06-05 21:36:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Nasdaq 100 Retreats for 2nd Session — US stocks were mostly lower on Friday after a strong jobs report consolidated the outlook of restrictive interest rates, while chip producers extended their selloff. The S&P 500 and the Nasdaq 100 fell 1% and 2.3%, respectively, while the Dow was flat near its record high. The US added a net 172K jobs in May, well above estimates. Markets increased bets of a rate hike by the Fed this year as a strong labor market adds leeway for the Fed to fight inflationary risks as the standstill between Iran and the US maintain the surge in energy prices. Banks and defensive stocks were mostly higher to support the Dow, with Visa, P&G, and UnitedHealth adding more than 1%. In turn, Broadcom dropped 4% to extend the 13% slump from last session after missing guidance estimates, driving broader AI infrastructure stocks to drop. Micron slumped 4% and Nvidia lost 2%. S&P Dow Jones denied the fast entry for SpaceX into its indices ahead of its IPO next week, expected to be the largest in history."
     }
   ]
 }
