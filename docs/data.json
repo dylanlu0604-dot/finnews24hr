@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-13 00:04:24",
+  "updated": "2026-06-13 00:08:20",
   "count": 18402,
   "items": [
+    {
+      "id": "te:markets:558777",
+      "time": "2026-06-13 00:07:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises for 3rd Session — The FTSE 100 rose 1.5% on Friday, extending gains for the third session, supported by optimism that the US and Iran could be nearing an end to their conflict, alongside falling oil prices. Most constituents moved higher, with banks and miners leading gains. HSBC Holdings gained 4%, Lloyds Banking Group added 4.1% and Barclays advanced nearly 5%. NatWest and Standard Chartered were up by 3.6% and 4%, respectively. Mining stocks performed strongly, with Rio Tinto up nearly 3%, and Anglo American, Antofagasta and Fresnillo all gaining over 5%. Energy majors weighed slightly on the index as crude prices declined, with Shell falling 2% and BP down 2.2%. Meanwhile, fresh economic data showed the UK economy contracted for the first time in eight months, highlighting the impact of the Iran conflict on activity. GDP fell 0.1% in April after growth in the previous two months, matching economists’ expectations."
+    },
+    {
+      "id": "te:markets:558775",
+      "time": "2026-06-13 00:07:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.53% Higher — The FTSE 100 Index gained 158 points or 1.53 percent on Friday to close at 10462 points. Gains were led by International Airlines Group (6.65%), Vistry Group (6.23%) and Anglo American (5.21%)."
+    },
+    {
+      "id": "4933212",
+      "time": "2026-06-13 00:06:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英飛凌侵權英諾賽科 相關氮化鎵產品被禁止在中國境內銷售】2026年6月12日，最高人民法院正式發出臨時禁令複議裁定書，維持蘇州中院針對英飛凌的銷售禁令，意味著從此刻起英飛凌相關氮化鎵產品被禁止在中國境內銷售，英諾賽科取得了專利侵權案的最終勝利。\n2026年5月27日，蘇州中院針對英諾賽科起訴英飛凌發明專利侵權案做出英諾賽科勝訴的判決：英飛凌被判侵犯英諾賽科的兩項氮化鎵核心發明專利，並判英飛凌立即停止包括銷售、許諾銷售、進口等行為，並賠償英諾賽科損失合計1000萬元，立即生效。今天，最高人民法院就蘇州中院上述判決做出最終複議裁定，明確維持蘇州中院的禁令判決，為這場專利對決最後蓋棺定論。"
+    },
+    {
+      "id": "te:markets:558774",
+      "time": "2026-06-13 00:05:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Hits Record High on Banking Rally — The FTSE MIB rose 2% to close at a record 51,497 on Friday, as banks and insurers extended their rally amid speculation over a potential bidding war for Banca Monte dei Paschi di Siena. Hopes that a deal for Monte Paschi could reignite broader mergers and acquisitions activity and accelerate sector consolidation boosted sentiment across Italy’s financial sector. Among the top performers, Mediobanca gained 4.6% and Monte Paschi added 3.9%, while peers UniCredit (+4.1%) and Intesa Sanpaolo (+4.3%) also advanced. STMicroelectronics climbed 4.5%, extending gains after BofA upgraded the stock from “neutral” to “buy” on Wednesday. Sentiment was further supported by reports that US President Donald Trump said a US-Iran deal is nearing completion and that planned strikes against Iran had been canceled. Oil prices declined on expectations of renewed supply flows, weighing on Eni, which fell 2.2%."
+    },
+    {
+      "id": "4933211",
+      "time": "2026-06-13 00:05:31",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：SpaceX於週五美國IPO之後，其期權將從下週二開始交易。"
+    },
+    {
+      "id": "4933210",
+      "time": "2026-06-13 00:05:15",
+      "tags": [
+        "觀點",
+        "其他",
+        "國際"
+      ],
+      "text": "研究機構CFRA：首次覆蓋SpaceX(SPCX.O)，給予“賣出”評級；目標價115美元。"
+    },
+    {
+      "id": "mkt:019ebc94-52f1-7dd8-afe2-9920f2aa1a87",
+      "time": "2026-06-13 00:04:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "Research firm CFRA initiates coverage of SpaceX (SPCX.O) with a Sell rating and $115 price target."
+    },
+    {
+      "id": "4933209",
+      "time": "2026-06-13 00:04:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我謹代表美國，就俄羅斯日向俄羅斯人民致以祝賀。 美國仍致力於推動俄烏衝突和平解決。我們期待持久和平能為俄羅斯人民迎來更加繁榮的未來，並推動兩國建立更具建設性的關係。"
+    },
     {
       "id": "4933208",
       "time": "2026-06-13 00:02:10",
@@ -169363,94 +169446,6 @@
         "國際"
       ],
       "text": "美國總統特朗普：我要求情報主管Bill Pulte解僱該部門的員工。美國最大的情報辦公室“太龐大了”。"
-    },
-    {
-      "id": "4920203",
-      "time": "2026-06-06 00:07:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖顧問：240 億美元資產問題致使談判陷入僵局】伊朗一名高階官員週五向CNN透露，美伊能否達成潛在和平協議，關鍵取決於特朗普政府同意解凍伊朗 240 億美元被凍結資產；該官員同時警告，倘若美國重啟戰事，美方將 “踏入一條黑暗歧途”。 伊朗最高領袖穆傑塔巴・哈梅內伊的軍事顧問穆赫辛・禮薩伊在德黑蘭接受 CNN 獨家專訪時表示：“談判現已陷入僵局，打破困局的主動權掌握在特朗普手中，皮球現在擺在特朗普這邊。”據訊息，伊朗要求：美伊一經簽署臨時協議，美方立即解凍 120 億美元凍結資金，剩餘 120 億美元延後分批解凍。美方官員擔憂，現階段解凍資金，將使美國失去牽制伊朗政權的關鍵籌碼。"
-    },
-    {
-      "id": "te:markets:556991",
-      "time": "2026-06-06 00:07:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.14% Higher — The FTSE 100 Index gained 15 points or 0.14 percent on Friday to close at 10375 points. Gains were led by Unilever (2.50%), Auto Trader (2.49%) and British American Tobacco (2.43%). Biggest losers were Endeavour (-5.82%), Antofagasta (-5.70%) and Fresnillo (-5.68%)."
-    },
-    {
-      "id": "mkt:019e9889-a4ee-7665-8309-9cb91eae7c1b",
-      "time": "2026-06-06 00:06:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Spot gold extended losses, fell below $4,330/oz, down 3.26% intraday."
-    },
-    {
-      "id": "mkt:019e9889-7137-7665-8309-91c5290a02d6",
-      "time": "2026-06-06 00:06:44",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Putin says meeting with Zelenskiy contingent on finding a solution first】On the 5th, Putin said a meeting with Zelenskiy is conditional on first finding a solution to the conflict and that Russia seeks a long-term agreement rather than a short-term ceasefire. Zelenskiy on the 4th publicly wrote to Putin proposing a face-to-face meeting in a third country to end the war. Putin earlier reiterated Russia's willingness to pursue a peaceful agreement based on outcomes of the Russia‑US Anchorage talks."
-    },
-    {
-      "id": "4920202",
-      "time": "2026-06-06 00:06:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4330美元/盎司，日內跌3.26%。"
-    },
-    {
-      "id": "mkt:019e9888-061a-7665-8309-89ad8172e39a",
-      "time": "2026-06-06 00:05:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Indian government has reappointed Swaminathan Janakiraman as deputy governor of the Reserve Bank of India for a two-year term effective June 26."
-    },
-    {
-      "id": "mkt:019e9887-9084-7665-8309-86e739681ced",
-      "time": "2026-06-06 00:04:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Putin thanked Saudi Arabia for its cooperation in the global oil market."
-    },
-    {
-      "id": "mkt:019e9887-4caf-7665-8309-7b61556070c8",
-      "time": "2026-06-06 00:04:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "CNN reports a potential US‑Iran deal hinges on whether the US agrees to release $24 bln in frozen Iranian assets."
     }
   ]
 }
