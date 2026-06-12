@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12 17:13:23",
+  "updated": "2026-06-12 18:16:54",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -8132,298 +8132,8 @@
         },
         {
           "date": "2026-06-11",
-          "count": 39,
+          "count": 34,
           "events": [
-            {
-              "id": "capital:1174909",
-              "fid": "1174909",
-              "interval": "this_week",
-              "date": "2026-06-11",
-              "time": "00:00",
-              "datetime": "2026-06-11 00:00:00",
-              "display_time": "06/11 00:00",
-              "country": "中國",
-              "title": "中國5月M0貨幣供應年率",
-              "importance": 1,
-              "previous": "12.2 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174909",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "05/14",
-                  "actual": "12.2",
-                  "forecast": "-",
-                  "previous": "12.5"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "12.5",
-                  "forecast": "-",
-                  "previous": "14.1"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "14.1",
-                  "forecast": "-",
-                  "previous": "2.7"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "2.7",
-                  "forecast": "-",
-                  "previous": "10.2"
-                },
-                {
-                  "date": "01/15",
-                  "actual": "10.2",
-                  "forecast": "-",
-                  "previous": "10.6"
-                },
-                {
-                  "date": "12/12",
-                  "actual": "10.6",
-                  "forecast": "-",
-                  "previous": "10.6"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-06-12 17:05:23"
-            },
-            {
-              "id": "capital:1174908",
-              "fid": "1174908",
-              "interval": "this_week",
-              "date": "2026-06-11",
-              "time": "00:00",
-              "datetime": "2026-06-11 00:00:00",
-              "display_time": "06/11 00:00",
-              "country": "中國",
-              "title": "中國5月M1貨幣供應年率",
-              "importance": 1,
-              "previous": "5 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174908",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "05/14",
-                  "actual": "5",
-                  "forecast": "5.2",
-                  "previous": "5.1"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "5.1",
-                  "forecast": "4.2",
-                  "previous": "5.9"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "5.9",
-                  "forecast": "5.1",
-                  "previous": "4.9"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "4.9",
-                  "forecast": "3.6",
-                  "previous": "3.8"
-                },
-                {
-                  "date": "01/15",
-                  "actual": "3.8",
-                  "forecast": "3.9",
-                  "previous": "4.9"
-                },
-                {
-                  "date": "12/12",
-                  "actual": "4.9",
-                  "forecast": "5.7",
-                  "previous": "6.2"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-06-12 17:05:23"
-            },
-            {
-              "id": "capital:1174907",
-              "fid": "1174907",
-              "interval": "this_week",
-              "date": "2026-06-11",
-              "time": "00:00",
-              "datetime": "2026-06-11 00:00:00",
-              "display_time": "06/11 00:00",
-              "country": "中國",
-              "title": "中國5月M2貨幣供應年率",
-              "importance": 2,
-              "previous": "8.6 %",
-              "forecast": "8.5 %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174907",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "05/14",
-                  "actual": "8.6",
-                  "forecast": "8.5",
-                  "previous": "8.5"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "8.5",
-                  "forecast": "8.9",
-                  "previous": "9"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "9",
-                  "forecast": "8.9",
-                  "previous": "9"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "9",
-                  "forecast": "8.3",
-                  "previous": "8.5"
-                },
-                {
-                  "date": "01/15",
-                  "actual": "8.5",
-                  "forecast": "8",
-                  "previous": "8"
-                },
-                {
-                  "date": "12/12",
-                  "actual": "8",
-                  "forecast": "8.2",
-                  "previous": "8.2"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-06-12 17:05:23"
-            },
-            {
-              "id": "capital:1174913",
-              "fid": "1174913",
-              "interval": "this_week",
-              "date": "2026-06-11",
-              "time": "00:00",
-              "datetime": "2026-06-11 00:00:00",
-              "display_time": "06/11 00:00",
-              "country": "中國",
-              "title": "中國5月今年迄今新增人民幣貸款(億元)",
-              "importance": 1,
-              "previous": "85900",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174913",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "05/14",
-                  "actual": "85900",
-                  "forecast": "89500",
-                  "previous": "86000"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "86000",
-                  "forecast": "90600",
-                  "previous": "56100"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "56100",
-                  "forecast": "55760",
-                  "previous": "47100"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "47100",
-                  "forecast": "50000",
-                  "previous": "162700"
-                },
-                {
-                  "date": "01/15",
-                  "actual": "162700",
-                  "forecast": "161617",
-                  "previous": "153600"
-                },
-                {
-                  "date": "12/12",
-                  "actual": "153600",
-                  "forecast": "154176",
-                  "previous": "149700"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-06-12 17:05:23"
-            },
-            {
-              "id": "capital:1174912",
-              "fid": "1174912",
-              "interval": "this_week",
-              "date": "2026-06-11",
-              "time": "00:00",
-              "datetime": "2026-06-11 00:00:00",
-              "display_time": "06/11 00:00",
-              "country": "中國",
-              "title": "中國5月今年迄今社會融資規模增量(億元)",
-              "importance": 1,
-              "previous": "154500",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174912",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "05/14",
-                  "actual": "154500",
-                  "forecast": "161420",
-                  "previous": "148300"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "148300",
-                  "forecast": "151745",
-                  "previous": "96000"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "96000",
-                  "forecast": "92454",
-                  "previous": "72200"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "72200",
-                  "forecast": "70850",
-                  "previous": "356000"
-                },
-                {
-                  "date": "01/15",
-                  "actual": "356000",
-                  "forecast": "352950",
-                  "previous": "333900"
-                },
-                {
-                  "date": "12/12",
-                  "actual": "333900",
-                  "forecast": "330998",
-                  "previous": "309000"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-06-12 17:05:23"
-            },
             {
               "id": "capital:1168072",
               "fid": "1168072",
@@ -10400,8 +10110,298 @@
         },
         {
           "date": "2026-06-12",
-          "count": 43,
+          "count": 48,
           "events": [
+            {
+              "id": "capital:1174909",
+              "fid": "1174909",
+              "interval": "this_week",
+              "date": "2026-06-12",
+              "time": "00:00",
+              "datetime": "2026-06-12 00:00:00",
+              "display_time": "06/12 00:00",
+              "country": "中國",
+              "title": "中國5月M0貨幣供應年率",
+              "importance": 1,
+              "previous": "12.2 %",
+              "forecast": "-- %",
+              "actual": "11.9 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174909",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/14",
+                  "actual": "12.2",
+                  "forecast": "-",
+                  "previous": "12.5"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "12.5",
+                  "forecast": "-",
+                  "previous": "14.1"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "14.1",
+                  "forecast": "-",
+                  "previous": "2.7"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "2.7",
+                  "forecast": "-",
+                  "previous": "10.2"
+                },
+                {
+                  "date": "01/15",
+                  "actual": "10.2",
+                  "forecast": "-",
+                  "previous": "10.6"
+                },
+                {
+                  "date": "12/12",
+                  "actual": "10.6",
+                  "forecast": "-",
+                  "previous": "10.6"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-06-12 17:05:23"
+            },
+            {
+              "id": "capital:1174908",
+              "fid": "1174908",
+              "interval": "this_week",
+              "date": "2026-06-12",
+              "time": "00:00",
+              "datetime": "2026-06-12 00:00:00",
+              "display_time": "06/12 00:00",
+              "country": "中國",
+              "title": "中國5月M1貨幣供應年率",
+              "importance": 1,
+              "previous": "5 %",
+              "forecast": "5 %",
+              "actual": "5.5 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174908",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/14",
+                  "actual": "5",
+                  "forecast": "5.2",
+                  "previous": "5.1"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "5.1",
+                  "forecast": "4.2",
+                  "previous": "5.9"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "5.9",
+                  "forecast": "5.1",
+                  "previous": "4.9"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "4.9",
+                  "forecast": "3.6",
+                  "previous": "3.8"
+                },
+                {
+                  "date": "01/15",
+                  "actual": "3.8",
+                  "forecast": "3.9",
+                  "previous": "4.9"
+                },
+                {
+                  "date": "12/12",
+                  "actual": "4.9",
+                  "forecast": "5.7",
+                  "previous": "6.2"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-06-12 17:05:23"
+            },
+            {
+              "id": "capital:1174907",
+              "fid": "1174907",
+              "interval": "this_week",
+              "date": "2026-06-12",
+              "time": "00:00",
+              "datetime": "2026-06-12 00:00:00",
+              "display_time": "06/12 00:00",
+              "country": "中國",
+              "title": "中國5月M2貨幣供應年率",
+              "importance": 2,
+              "previous": "8.6 %",
+              "forecast": "8.6 %",
+              "actual": "8.6 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174907",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/14",
+                  "actual": "8.6",
+                  "forecast": "8.5",
+                  "previous": "8.5"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "8.5",
+                  "forecast": "8.9",
+                  "previous": "9"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "9",
+                  "forecast": "8.9",
+                  "previous": "9"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "9",
+                  "forecast": "8.3",
+                  "previous": "8.5"
+                },
+                {
+                  "date": "01/15",
+                  "actual": "8.5",
+                  "forecast": "8",
+                  "previous": "8"
+                },
+                {
+                  "date": "12/12",
+                  "actual": "8",
+                  "forecast": "8.2",
+                  "previous": "8.2"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-06-12 17:05:23"
+            },
+            {
+              "id": "capital:1174913",
+              "fid": "1174913",
+              "interval": "this_week",
+              "date": "2026-06-12",
+              "time": "00:00",
+              "datetime": "2026-06-12 00:00:00",
+              "display_time": "06/12 00:00",
+              "country": "中國",
+              "title": "中國5月今年迄今新增人民幣貸款(億元)",
+              "importance": 1,
+              "previous": "85900",
+              "forecast": "90400",
+              "actual": "91100",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174913",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/14",
+                  "actual": "85900",
+                  "forecast": "89500",
+                  "previous": "86000"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "86000",
+                  "forecast": "90600",
+                  "previous": "56100"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "56100",
+                  "forecast": "55760",
+                  "previous": "47100"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "47100",
+                  "forecast": "50000",
+                  "previous": "162700"
+                },
+                {
+                  "date": "01/15",
+                  "actual": "162700",
+                  "forecast": "161617",
+                  "previous": "153600"
+                },
+                {
+                  "date": "12/12",
+                  "actual": "153600",
+                  "forecast": "154176",
+                  "previous": "149700"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-06-12 17:05:23"
+            },
+            {
+              "id": "capital:1174912",
+              "fid": "1174912",
+              "interval": "this_week",
+              "date": "2026-06-12",
+              "time": "00:00",
+              "datetime": "2026-06-12 00:00:00",
+              "display_time": "06/12 00:00",
+              "country": "中國",
+              "title": "中國5月今年迄今社會融資規模增量(億元)",
+              "importance": 1,
+              "previous": "154500",
+              "forecast": "171500",
+              "actual": "174800",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174912",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/14",
+                  "actual": "154500",
+                  "forecast": "161420",
+                  "previous": "148300"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "148300",
+                  "forecast": "151745",
+                  "previous": "96000"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "96000",
+                  "forecast": "92454",
+                  "previous": "72200"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "72200",
+                  "forecast": "70850",
+                  "previous": "356000"
+                },
+                {
+                  "date": "01/15",
+                  "actual": "356000",
+                  "forecast": "352950",
+                  "previous": "333900"
+                },
+                {
+                  "date": "12/12",
+                  "actual": "333900",
+                  "forecast": "330998",
+                  "previous": "309000"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-06-12 17:05:23"
+            },
             {
               "id": "capital:1170788",
               "fid": "1170788",
@@ -34193,296 +34193,6 @@
       "history_checked_at": "2026-06-12 17:05:23"
     },
     {
-      "id": "capital:1174909",
-      "fid": "1174909",
-      "interval": "this_week",
-      "date": "2026-06-11",
-      "time": "00:00",
-      "datetime": "2026-06-11 00:00:00",
-      "display_time": "06/11 00:00",
-      "country": "中國",
-      "title": "中國5月M0貨幣供應年率",
-      "importance": 1,
-      "previous": "12.2 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174909",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "05/14",
-          "actual": "12.2",
-          "forecast": "-",
-          "previous": "12.5"
-        },
-        {
-          "date": "04/13",
-          "actual": "12.5",
-          "forecast": "-",
-          "previous": "14.1"
-        },
-        {
-          "date": "03/13",
-          "actual": "14.1",
-          "forecast": "-",
-          "previous": "2.7"
-        },
-        {
-          "date": "02/13",
-          "actual": "2.7",
-          "forecast": "-",
-          "previous": "10.2"
-        },
-        {
-          "date": "01/15",
-          "actual": "10.2",
-          "forecast": "-",
-          "previous": "10.6"
-        },
-        {
-          "date": "12/12",
-          "actual": "10.6",
-          "forecast": "-",
-          "previous": "10.6"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-06-12 17:05:23"
-    },
-    {
-      "id": "capital:1174908",
-      "fid": "1174908",
-      "interval": "this_week",
-      "date": "2026-06-11",
-      "time": "00:00",
-      "datetime": "2026-06-11 00:00:00",
-      "display_time": "06/11 00:00",
-      "country": "中國",
-      "title": "中國5月M1貨幣供應年率",
-      "importance": 1,
-      "previous": "5 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174908",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "05/14",
-          "actual": "5",
-          "forecast": "5.2",
-          "previous": "5.1"
-        },
-        {
-          "date": "04/13",
-          "actual": "5.1",
-          "forecast": "4.2",
-          "previous": "5.9"
-        },
-        {
-          "date": "03/13",
-          "actual": "5.9",
-          "forecast": "5.1",
-          "previous": "4.9"
-        },
-        {
-          "date": "02/13",
-          "actual": "4.9",
-          "forecast": "3.6",
-          "previous": "3.8"
-        },
-        {
-          "date": "01/15",
-          "actual": "3.8",
-          "forecast": "3.9",
-          "previous": "4.9"
-        },
-        {
-          "date": "12/12",
-          "actual": "4.9",
-          "forecast": "5.7",
-          "previous": "6.2"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-06-12 17:05:23"
-    },
-    {
-      "id": "capital:1174907",
-      "fid": "1174907",
-      "interval": "this_week",
-      "date": "2026-06-11",
-      "time": "00:00",
-      "datetime": "2026-06-11 00:00:00",
-      "display_time": "06/11 00:00",
-      "country": "中國",
-      "title": "中國5月M2貨幣供應年率",
-      "importance": 2,
-      "previous": "8.6 %",
-      "forecast": "8.5 %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174907",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "05/14",
-          "actual": "8.6",
-          "forecast": "8.5",
-          "previous": "8.5"
-        },
-        {
-          "date": "04/13",
-          "actual": "8.5",
-          "forecast": "8.9",
-          "previous": "9"
-        },
-        {
-          "date": "03/13",
-          "actual": "9",
-          "forecast": "8.9",
-          "previous": "9"
-        },
-        {
-          "date": "02/13",
-          "actual": "9",
-          "forecast": "8.3",
-          "previous": "8.5"
-        },
-        {
-          "date": "01/15",
-          "actual": "8.5",
-          "forecast": "8",
-          "previous": "8"
-        },
-        {
-          "date": "12/12",
-          "actual": "8",
-          "forecast": "8.2",
-          "previous": "8.2"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-06-12 17:05:23"
-    },
-    {
-      "id": "capital:1174913",
-      "fid": "1174913",
-      "interval": "this_week",
-      "date": "2026-06-11",
-      "time": "00:00",
-      "datetime": "2026-06-11 00:00:00",
-      "display_time": "06/11 00:00",
-      "country": "中國",
-      "title": "中國5月今年迄今新增人民幣貸款(億元)",
-      "importance": 1,
-      "previous": "85900",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174913",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "05/14",
-          "actual": "85900",
-          "forecast": "89500",
-          "previous": "86000"
-        },
-        {
-          "date": "04/13",
-          "actual": "86000",
-          "forecast": "90600",
-          "previous": "56100"
-        },
-        {
-          "date": "03/13",
-          "actual": "56100",
-          "forecast": "55760",
-          "previous": "47100"
-        },
-        {
-          "date": "02/13",
-          "actual": "47100",
-          "forecast": "50000",
-          "previous": "162700"
-        },
-        {
-          "date": "01/15",
-          "actual": "162700",
-          "forecast": "161617",
-          "previous": "153600"
-        },
-        {
-          "date": "12/12",
-          "actual": "153600",
-          "forecast": "154176",
-          "previous": "149700"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-06-12 17:05:23"
-    },
-    {
-      "id": "capital:1174912",
-      "fid": "1174912",
-      "interval": "this_week",
-      "date": "2026-06-11",
-      "time": "00:00",
-      "datetime": "2026-06-11 00:00:00",
-      "display_time": "06/11 00:00",
-      "country": "中國",
-      "title": "中國5月今年迄今社會融資規模增量(億元)",
-      "importance": 1,
-      "previous": "154500",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174912",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "05/14",
-          "actual": "154500",
-          "forecast": "161420",
-          "previous": "148300"
-        },
-        {
-          "date": "04/13",
-          "actual": "148300",
-          "forecast": "151745",
-          "previous": "96000"
-        },
-        {
-          "date": "03/13",
-          "actual": "96000",
-          "forecast": "92454",
-          "previous": "72200"
-        },
-        {
-          "date": "02/13",
-          "actual": "72200",
-          "forecast": "70850",
-          "previous": "356000"
-        },
-        {
-          "date": "01/15",
-          "actual": "356000",
-          "forecast": "352950",
-          "previous": "333900"
-        },
-        {
-          "date": "12/12",
-          "actual": "333900",
-          "forecast": "330998",
-          "previous": "309000"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-06-12 17:05:23"
-    },
-    {
       "id": "capital:1168072",
       "fid": "1168072",
       "interval": "this_week",
@@ -36449,6 +36159,296 @@
           "actual": "2.79",
           "forecast": "-",
           "previous": "2.91"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-06-12 17:05:23"
+    },
+    {
+      "id": "capital:1174909",
+      "fid": "1174909",
+      "interval": "this_week",
+      "date": "2026-06-12",
+      "time": "00:00",
+      "datetime": "2026-06-12 00:00:00",
+      "display_time": "06/12 00:00",
+      "country": "中國",
+      "title": "中國5月M0貨幣供應年率",
+      "importance": 1,
+      "previous": "12.2 %",
+      "forecast": "-- %",
+      "actual": "11.9 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174909",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/14",
+          "actual": "12.2",
+          "forecast": "-",
+          "previous": "12.5"
+        },
+        {
+          "date": "04/13",
+          "actual": "12.5",
+          "forecast": "-",
+          "previous": "14.1"
+        },
+        {
+          "date": "03/13",
+          "actual": "14.1",
+          "forecast": "-",
+          "previous": "2.7"
+        },
+        {
+          "date": "02/13",
+          "actual": "2.7",
+          "forecast": "-",
+          "previous": "10.2"
+        },
+        {
+          "date": "01/15",
+          "actual": "10.2",
+          "forecast": "-",
+          "previous": "10.6"
+        },
+        {
+          "date": "12/12",
+          "actual": "10.6",
+          "forecast": "-",
+          "previous": "10.6"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-06-12 17:05:23"
+    },
+    {
+      "id": "capital:1174908",
+      "fid": "1174908",
+      "interval": "this_week",
+      "date": "2026-06-12",
+      "time": "00:00",
+      "datetime": "2026-06-12 00:00:00",
+      "display_time": "06/12 00:00",
+      "country": "中國",
+      "title": "中國5月M1貨幣供應年率",
+      "importance": 1,
+      "previous": "5 %",
+      "forecast": "5 %",
+      "actual": "5.5 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174908",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/14",
+          "actual": "5",
+          "forecast": "5.2",
+          "previous": "5.1"
+        },
+        {
+          "date": "04/13",
+          "actual": "5.1",
+          "forecast": "4.2",
+          "previous": "5.9"
+        },
+        {
+          "date": "03/13",
+          "actual": "5.9",
+          "forecast": "5.1",
+          "previous": "4.9"
+        },
+        {
+          "date": "02/13",
+          "actual": "4.9",
+          "forecast": "3.6",
+          "previous": "3.8"
+        },
+        {
+          "date": "01/15",
+          "actual": "3.8",
+          "forecast": "3.9",
+          "previous": "4.9"
+        },
+        {
+          "date": "12/12",
+          "actual": "4.9",
+          "forecast": "5.7",
+          "previous": "6.2"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-06-12 17:05:23"
+    },
+    {
+      "id": "capital:1174907",
+      "fid": "1174907",
+      "interval": "this_week",
+      "date": "2026-06-12",
+      "time": "00:00",
+      "datetime": "2026-06-12 00:00:00",
+      "display_time": "06/12 00:00",
+      "country": "中國",
+      "title": "中國5月M2貨幣供應年率",
+      "importance": 2,
+      "previous": "8.6 %",
+      "forecast": "8.6 %",
+      "actual": "8.6 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174907",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/14",
+          "actual": "8.6",
+          "forecast": "8.5",
+          "previous": "8.5"
+        },
+        {
+          "date": "04/13",
+          "actual": "8.5",
+          "forecast": "8.9",
+          "previous": "9"
+        },
+        {
+          "date": "03/13",
+          "actual": "9",
+          "forecast": "8.9",
+          "previous": "9"
+        },
+        {
+          "date": "02/13",
+          "actual": "9",
+          "forecast": "8.3",
+          "previous": "8.5"
+        },
+        {
+          "date": "01/15",
+          "actual": "8.5",
+          "forecast": "8",
+          "previous": "8"
+        },
+        {
+          "date": "12/12",
+          "actual": "8",
+          "forecast": "8.2",
+          "previous": "8.2"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-06-12 17:05:23"
+    },
+    {
+      "id": "capital:1174913",
+      "fid": "1174913",
+      "interval": "this_week",
+      "date": "2026-06-12",
+      "time": "00:00",
+      "datetime": "2026-06-12 00:00:00",
+      "display_time": "06/12 00:00",
+      "country": "中國",
+      "title": "中國5月今年迄今新增人民幣貸款(億元)",
+      "importance": 1,
+      "previous": "85900",
+      "forecast": "90400",
+      "actual": "91100",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174913",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/14",
+          "actual": "85900",
+          "forecast": "89500",
+          "previous": "86000"
+        },
+        {
+          "date": "04/13",
+          "actual": "86000",
+          "forecast": "90600",
+          "previous": "56100"
+        },
+        {
+          "date": "03/13",
+          "actual": "56100",
+          "forecast": "55760",
+          "previous": "47100"
+        },
+        {
+          "date": "02/13",
+          "actual": "47100",
+          "forecast": "50000",
+          "previous": "162700"
+        },
+        {
+          "date": "01/15",
+          "actual": "162700",
+          "forecast": "161617",
+          "previous": "153600"
+        },
+        {
+          "date": "12/12",
+          "actual": "153600",
+          "forecast": "154176",
+          "previous": "149700"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-06-12 17:05:23"
+    },
+    {
+      "id": "capital:1174912",
+      "fid": "1174912",
+      "interval": "this_week",
+      "date": "2026-06-12",
+      "time": "00:00",
+      "datetime": "2026-06-12 00:00:00",
+      "display_time": "06/12 00:00",
+      "country": "中國",
+      "title": "中國5月今年迄今社會融資規模增量(億元)",
+      "importance": 1,
+      "previous": "154500",
+      "forecast": "171500",
+      "actual": "174800",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174912",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/14",
+          "actual": "154500",
+          "forecast": "161420",
+          "previous": "148300"
+        },
+        {
+          "date": "04/13",
+          "actual": "148300",
+          "forecast": "151745",
+          "previous": "96000"
+        },
+        {
+          "date": "03/13",
+          "actual": "96000",
+          "forecast": "92454",
+          "previous": "72200"
+        },
+        {
+          "date": "02/13",
+          "actual": "72200",
+          "forecast": "70850",
+          "previous": "356000"
+        },
+        {
+          "date": "01/15",
+          "actual": "356000",
+          "forecast": "352950",
+          "previous": "333900"
+        },
+        {
+          "date": "12/12",
+          "actual": "333900",
+          "forecast": "330998",
+          "previous": "309000"
         }
       ],
       "history_status": "cached",
