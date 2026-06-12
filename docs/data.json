@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-12 10:26:29",
-  "count": 18466,
+  "updated": "2026-06-12 10:30:11",
+  "count": 18461,
   "items": [
+    {
+      "id": "mkt:019eb9a9-089c-7dd8-afcf-cd512f41bdd2",
+      "time": "2026-06-12 10:28:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Australia's S&P/ASX 200 index rose 2% to 8,803.9."
+    },
+    {
+      "id": "4931657",
+      "time": "2026-06-12 10:27:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.98%，成分股中，晶合整合漲14.14%，盛美上海漲11.61%，中控技術漲10.53%，生益電子漲9.42%。"
+    },
+    {
+      "id": "te:markets:558545",
+      "time": "2026-06-12 10:27:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Stocks Poised for First Weekly Gain in Eight — Indonesian shares climbed 91 points, or 1.6%, to 5,977 in Friday morning trade, marking gains for a fourth session after Wall Street rallied overnight on optimism that a U.S.–Iran deal could be reached as early as this weekend. Locally, officials signaled the 2027 fiscal strategy will prioritize growth through coordination across fiscal and monetary policy, the financial sector, and Danantara-backed investment. All major sectors advanced, led by basic materials, industrials, energy, and transport. Gains were tempered, however, by April retail sales data showing a 3.7% yoy decline, the first drop in a year, underscoring the drag from higher non-subsidized fuel prices on household spending. Standout movers included Darma Henwa (5.4%), Indofood Sukses Makmur (4.4%), Telkom Indonesia (3.1%), and Aneka Tambang (2.2%). For the week, the IDX Composite is on track for its first weekly rise in eight weeks, up around 6.6% so far, buoyed by bargain hunting after recently hitting a six-year low."
+    },
+    {
+      "id": "4931655",
+      "time": "2026-06-12 10:26:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "訊息人士稱， 眾擎機器人正與中金公司、中信合作安排香港IPO事宜。"
+    },
     {
       "id": "te:economy:558544",
       "time": "2026-06-12 10:25:07",
@@ -170181,89 +170226,6 @@
         "其他"
       ],
       "text": "【涵蓋家電、建材等 我國綠色產品評價國家標準已覆蓋47項產品】今天是第55個世界環境日，我國活動主題為“全面綠色轉型，共建美麗中國”。制定實施綠色產品評價標準，是推進全面綠色轉型的重要抓手。截至目前，我國綠色產品評價標準體系建設取得顯著成效，釋出了《綠色產品評價通則》以及47項具體產品類別的綠色產品評價國家標準，涵蓋家電、電子資訊、建材、鋼鐵等社會關注度高、消費升級急需的產品領域。"
-    },
-    {
-      "id": "mkt:019e959d-5d71-766c-9543-fabc103f9468",
-      "time": "2026-06-05 10:29:38",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "【PC makers re-bet on DDR4 as DDR5 prices surge】DDR5 memory prices have continued to rise and are now roughly 4–5x those of DDR4, leaving DDR4 platforms substantially cheaper than DDR5 platforms such as AM5, LGA 1851 and LGA 1700 DDR5. Tom's Hardware reports that since the memory-market collapse many vendors have seen a spike in demand for DDR4-compatible motherboards and are preparing to restart DDR4 board production. At Computex Taipei 2026 multiple motherboard and memory module makers said memory shortages and higher DDR5 prices have prompted the PC industry to pivot back to DDR4."
-    },
-    {
-      "id": "4918529",
-      "time": "2026-06-05 10:29:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【姚順雨回應加入騰訊】今日舉辦的2026年騰訊雲AI產業應用大會上，騰訊集團高階執行副總裁、雲與智慧產業事業群CEO湯道生，將對談騰訊首席 AI 科學家姚順雨，對話主題為騰訊AI下半場。 談及為什麼選擇來到騰訊，姚順雨表示，“最重要的原因是文化，我記得第一次和你（湯道生）聊天的時候，包括和很多其他總辦的老闆們聊天的時候，我的第一印象就是大家都非常的誠實，就是哪裡做得好，哪裡做得不好，都非常直白，不會去掩蓋，我覺得這種坦誠是我的第一個重要原因。” 姚順雨還談到，“第二個原因在於騰訊總體是一個基於trust，而不是基於metric去運轉的公司，我覺得這一點對於做AI是非常重要的，包括我們對長期主義的這種堅持。” （新浪科技）"
-    },
-    {
-      "id": "4918528",
-      "time": "2026-06-05 10:28:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【由於DDR5價格持續上漲 多家PC廠商正重新押注 DDR4】DDR5記憶體的售價持續上漲，目前其價格是DDR4記憶體的4-5倍，不僅是DDR4記憶體，DDR4平臺本身也比DDR5平臺（例如AM5和LGA 1851，也包括LGA 1700 DDR5）便宜得多。根據Tom's Hardware的最新報道，自記憶體市場崩盤以來，許多廠商都看到了DDR4相容主機板需求的激增，因此他們正準備重啟DDR4相容主機板的生產。在2026臺北國際電腦展期間，多家主機板品牌和記憶體模組廠商透露，受記憶體短缺與價格上漲影響，PC行業正重新押注DDR4。(藍鯨新聞)"
-    },
-    {
-      "id": "4918527",
-      "time": "2026-06-05 10:28:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中證協啟動2026年券商併購重組能力專項評價】日前，記者獲悉，中證協已向各證券公司下發《關於開展2026年證券公司支援上市公司併購重組能力專項評價的通知》，正式啟動2026年證券公司支援上市公司併購重組能力專項評價工作。據瞭解，本次評價旨在落實證監會“1+N”系列政策檔案精神，透過活躍併購重組業務助力上市公司提質增效，評價結果將供分類監管工作使用。(中證金牛座)"
-    },
-    {
-      "id": "te:markets:556673",
-      "time": "2026-06-05 10:27:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palladium Falls to 8-Month Low — Palladium futures hovered near $1,300 per ounce, retreating after recent gains to trade near an eight-month low as investors reassessed the outlook for US monetary policy and global economic conditions. Sentiment across the platinum-group metals complex weakened as higher energy prices fueled inflation concerns, reinforcing expectations of elevated interest rates. Additional pressure came from a stronger US dollar, which advanced for a third consecutive session after Federal Reserve officials signaled that borrowing costs may need to stay elevated if inflation proves persistent. Market participants also turned their attention to upcoming US labor market data for further clues on the Fed's policy path. Beyond macroeconomic pressures, palladium remained weighed down by weaker catalytic converter demand amid the shift toward electric vehicles. Still, losses were limited by tight supply conditions, including disruptions in South Africa and uncertainty surrounding Russian exports."
-    },
-    {
-      "id": "mkt:019e959b-25dc-766c-9543-f319bb634ab0",
-      "time": "2026-06-05 10:27:10",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "South Korea's labor minister said Samsung faces internal divisions and risks of staff departures following its wage agreement."
-    },
-    {
-      "id": "te:markets:556672",
-      "time": "2026-06-05 10:26:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Set for Weekly Gain — The dollar index steadied around 99.4 on Friday and remained on track for a weekly advance as ongoing uncertainty in the Middle East continued to support safe-haven demand the currency. President Donald Trump said peace negotiations were approaching their final stage and is reportedly reluctant to return to full-scale conflict with Iran despite recent hostilities. However, Iranian Foreign Minister Abbas Araghchi said no meaningful progress had been achieved in the talks, while Iran-backed Hezbollah rejected a US-mediated ceasefire proposal between Israel and Lebanon. In the US, investors turned their attention to the May employment report for further clues on labor market strength and the direction of Federal Reserve policy. Recent labor market data pointed to continued resilience in the economy, reinforcing expectations that the Fed could raise interest rates before year-end as officials contend with an energy-driven inflation shock tied to the Middle East conflict."
-    },
-    {
-      "id": "mkt:019e959a-9f1d-766c-9543-ecb4daeb9a64",
-      "time": "2026-06-05 10:26:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's labor minister said surplus AI profits should be reinvested in suppliers to strengthen industry competitiveness and help address weak economic growth."
-    },
-    {
-      "id": "mkt:019e959a-92e7-766c-9543-e219eda359d0",
-      "time": "2026-06-05 10:26:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's labor minister expressed concern that unprecedented AI-driven profits could exacerbate inequality in South Korea."
     }
   ]
 }
