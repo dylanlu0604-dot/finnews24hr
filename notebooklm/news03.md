@@ -1,7 +1,457 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 02:22:26_
-_本檔包含 3631 則快訊，約 670926 字_
+_更新時間：2026-06-13 03:25:32_
+_本檔包含 3643 則快訊，約 669394 字_
+
+---
+
+### 2026-06-10 20:30:50  #公司 #國際
+
+特朗普媒體與科技集團與TAE科技公司提供合併進展更新。
+
+---
+
+### 2026-06-10 20:30:50  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #S&P500 #DXY #Impact bearish
+
+U.S. May not seasonally adjusted used cars and trucks inflation YoY -2%, prior -2.7%.
+
+---
+
+### 2026-06-10 20:30:48  #MKT News #Economic Calendar
+
+United States | Shelter Inflation Rate (YoY) (May) | actual 3.4% | previous 3.3%
+
+---
+
+### 2026-06-10 20:30:47  #MKT News #Macro & Rates #US Economy
+
+US unadjusted new-vehicle inf, May YoY 0.2% (prev. 0.2%).
+
+---
+
+### 2026-06-10 20:30:43  #MKT News #Economic Calendar
+
+United States | Used Car and Truck Inflation Rate (YoY) (May) | actual -2% | previous -2.7%
+
+---
+
+### 2026-06-10 20:30:42  #市場
+
+鈀金期貨日內漲1%，現報1242.59美元/盎司。
+
+---
+
+### 2026-06-10 20:30:39  #資料 #市場
+
+CPI資料公佈後，標普500指數期貨和納斯達克100指數期貨跌幅收窄。
+
+---
+
+### 2026-06-10 20:30:38  #MKT News #Economic Calendar
+
+United States | New Vehicle Inflation Rate (YoY) (May) | actual 0.2% | previous 0.2%
+
+---
+
+### 2026-06-10 20:30:37  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY
+
+U.S. seasonally unadjusted energy inf YoY (May) 23.5% vs 17.9% prior.
+
+---
+
+### 2026-06-10 20:30:37  #經濟數據 #美國
+
+美國5月消費者價格指數（CPI）同比增長4.2%，預估為4.2%，前值為3.8%。
+
+---
+
+### 2026-06-10 20:30:29  #MKT News #Important #Macro & Rates #US Economy
+
+【US May CPI YoY returns to 4% range at 4.2%】US not-seasonally-adjusted May CPI YoY 4.2%, in line with expectations and the highest reading since April 2023.
+
+---
+
+### 2026-06-10 20:30:29  #MKT News
+
+U.S. unadjusted food inflation, May YoY 3.1% (prev. 3.2%).
+
+---
+
+### 2026-06-10 20:30:27  #MKT News #Economic Calendar
+
+United States | Energy Inflation Rate (YoY) (May) | actual 23.5% | previous 17.9%
+
+---
+
+### 2026-06-10 20:30:24  #MKT News #Important #Macro & Rates #US Economy
+
+U.S. May core CPI (not seasonally adjusted) +2.9% YoY vs. consensus 2.9%, prior 2.8%.
+
+---
+
+### 2026-06-10 20:30:24  #MKT News #Important
+
+US May CPI, not seasonally adjusted, rose 4.2% YoY, matching expectations of 4.2% and up from April's 3.8%.
+
+---
+
+### 2026-06-10 20:30:21  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+US May seasonally adjusted core CPI rose 0.2% MoM, versus 0.3% expected and 0.4% prior.
+
+---
+
+### 2026-06-10 20:30:21  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+US unadjusted CPI index for May 335.123, consensus 335.114, prior 333.02.
+
+---
+
+### 2026-06-10 20:30:19  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+US real personal income, May m/m -0.2%; prior -0.2%.
+
+---
+
+### 2026-06-10 20:30:19  #MKT News #Important #Macro & Rates #US Economy
+
+US seasonally adjusted CPI rose 0.5% MoM in May, matching the 0.50% consensus; April was 0.60%.
+
+---
+
+### 2026-06-10 20:30:19  #MKT News #Economic Calendar
+
+United States | Food Inflation Rate (YoY) (May) | actual 3.1% | previous 3.2%
+
+---
+
+### 2026-06-10 20:30:18  #資料 #焦點 #國際
+
+【美國CPI年率繼續走高 重回“4字頭”】美國5月未季調CPI年率錄得4.2%，符合市場預期，創2023年4月以來新高。
+美國5月季調後核心CPI月率 0.2%，預期0.30%，前值0.40%。
+美國5月季調後CPI月率 0.5%，預期0.50%，前值0.60%。
+美國5月未季調CPI年率 4.2%，預期4.20%，前值3.80%。
+
+---
+
+### 2026-06-10 20:30:18  #經濟數據 #美國
+
+【美國4月核心CPI同比增長2.9% 創2025年9月以來新高】美國4月核心CPI同比增長2.9%，創2025年9月以來新高；預估為2.9%，前值為2.8%。環比增長0.2%，預期0.30%，前值0.40%。
+
+---
+
+### 2026-06-10 20:30:03  #MKT News #Economic Calendar #Important
+
+United States | CPI (May) | actual 335.123 | consensus 335.114 | previous 333.02
+
+---
+
+### 2026-06-10 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | CPI excluding Food and Energy (YoY) (May) | actual 2.9% | consensus 2.90% | previous 2.80%
+
+---
+
+### 2026-06-10 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | CPI (YoY) (May) | actual 4.2% | consensus 4.20% | previous 3.80%
+
+---
+
+### 2026-06-10 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | CPI excluding Food and Energy (MoM) (May) | actual 0.2% | consensus 0.30% | previous 0.40%
+
+---
+
+### 2026-06-10 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | CPI (MoM) (May) | actual 0.5% | consensus 0.50% | previous 0.60%
+
+---
+
+### 2026-06-10 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | Real Earnings All Private Workers (MoM) (May) | actual -0.2% | previous -0.2%
+
+---
+
+### 2026-06-10 20:29:42  #公司
+
+【*ST金剛：公司股票撤銷“雙警示” 6月12日起復牌】*ST金剛公告稱，公司股票於2026年6月11日停牌一天，6月12日開市起復牌。自6月12日開市起，撤銷“退市風險警示”“其他風險警示”，股票簡稱由“*ST金剛”變更為“金剛光伏”，證券程式碼仍為“300093”，日漲跌幅限制仍為20%。2025年度，公司經審計的淨資產為20.06億元，扣除後營業收入為2.89億元，利潤總額為2.16億元，淨利潤2.03億元，扣非淨利潤為-5.71億元。
+
+---
+
+### 2026-06-10 20:28:32  #行業 #公司 #焦點 #國際
+
+【知情人士：SpaceX IPO獲中東基金數十億美元認購】多位知情人士透露，海灣主權財富基金已大手筆認購SpaceX IPO股份，總額達數十億美元，這也再度印證中東希望持續主導全球人工智慧產業資金供給的宏大布局。 訊息人士稱，沙特公共投資基金（PIF）、科威特投資局（KIA）分別遞交了10億—50億美元的認購單；管理5800億美元資產的卡達投資局（QIA）大機率也會大手筆參投。 知情人士表示，中東本土機構本就是馬斯克這家火箭、衛星、AI企業的重要股東；按照公司1.8萬億美元的目標估值，這些持倉賬面浮盈豐厚。目前暫不清楚各大基金此番新增認購中，有多少資金是用來對沖上市後的股權稀釋。 不止中東，全球各大機構都在爭搶份額，整體認購需求已經超額。彭博此前報道，部分機構申報認購金額超100億美元，不過最終實際配售額度大機率會縮水。 沙特公共投資基金、卡達投資局發言人拒絕置評，科威特投資局尚未回應採訪問詢。（環球市場播報）
+
+---
+
+### 2026-06-10 20:28:31  #其他
+
+【2026上海國際碳中和博覽會開幕，龔正包鋼劉振民出席並致辭】以“零碳變革，要素賦能”為主題的2026上海國際碳中和技術、產品與成果博覽會今天（6月10日）在上海新國際博覽中心開幕。上海市委副書記、市長龔正，內蒙古自治區黨委副書記、主席包鋼，中國氣候變化事務特使劉振民出席開幕式並致辭。龔正在致辭中指出，綠色低碳轉型是時代潮流、大勢所趨，是厚植高質量發展綠色底色的內在要求。上海將全面貫徹落實習近平生態文明思想，以碳達峰碳中和為牽引，協同推進降碳、減汙、擴綠、增長，加快形成綠色生產方式和生活方式，推動經濟社會發展全面綠色低碳轉型。上海國際碳博會自2023年舉辦以來，已成為展示綠色低碳轉型成果、促進綠色低碳交流的重要平臺。我們願與各方一道，共赴綠色之約、共創美好未來，攜手共建清潔、美麗、可持續的世界。（上海釋出）
+
+---
+
+### 2026-06-10 20:27:50  #MKT News #Important
+
+Spot gold is down about 3% intraday ahead of CPI release, trading at $4,132.54/oz.
+
+---
+
+### 2026-06-10 20:27:45  #其他
+
+【豆包專業版開放灰度測試：最高檔年費超5000元】近日，位元組跳動旗下AI產品豆包正式啟動專業版付費訂閱的灰度測試，不少使用者在使用專家模式時收到了相關開通提醒。
+
+---
+
+### 2026-06-10 20:27:20  #資料 #央行 #國際
+
+【CPI資料公佈前 美聯儲6月維持利率不變的機率為98.2%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.2%，累計降息25個基點的機率為1.8%。美聯儲到7月維持利率不變的機率為85.8%，累計加息25個基點的機率12.6%，累計降息25個基點的機率為1.6%。
+
+---
+
+### 2026-06-10 20:27:07  #MKT News #Important
+
+Qatar Investment Authority is reportedly also considering a large investment commitment to SpaceX.
+
+---
+
+### 2026-06-10 20:26:21  #MKT News #Important
+
+Saudi and Kuwaiti sovereign wealth funds each placed $1–5bn orders in SpaceX's IPO, sources said.
+
+---
+
+### 2026-06-10 20:26:02  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
+
+【US CPI preview: if CPI meets expectations, consumer confidence could take another hit】Analyst Marte said a CPI print matching expectations would mark a second consecutive month of price gains outpacing wages, further denting already‑weak consumer sentiment. Average hourly earnings rose 3.4% YoY in May, the slowest pace since 2021. Consumers face higher gasoline, grocery and other goods prices. A New York Fed survey shows jobseekers’ outlook deteriorated: a growing share fear they will be unemployed within a year and subjective odds of finding another job fell in May.
+
+---
+
+### 2026-06-10 20:25:33  #其他
+
+優步就紐約市針對司機 “不當封號” 的相關法規提起訴訟。
+
+---
+
+### 2026-06-10 20:25:24  #公司
+
+據悉，卡達投資局擬對SpaceX進行大額投資；沙特、科威特相關基金分別向該公司下達10億至50億美元的認購訂單。
+
+---
+
+### 2026-06-10 20:25:09  #公司 #焦點 #國際
+
+SpaceX首次公開募股獲中東多家主權財富基金數十億美元認購。
+
+---
+
+### 2026-06-10 20:24:29  #國際
+
+特朗普稱，伊朗曾在停火期間著手修復雷達與防空系統，但僅恢復了 “一小部分” 防禦能力。 他表示，美軍隨後發動打擊，摧毀了其大部分修復設施，並補充道：“伊朗好不容易修復的裝備，約有 55% 都被損毀。”
+
+---
+
+### 2026-06-10 20:23:44  #公司 #市場
+
+【交易員預計，SpaceX在IPO前期貨市場的預期估值縮水3,000億美元】根據去中心化加密貨幣交易所Hyperliquid上的IPO前永續期貨資料，科技股近期的下跌已導致SpaceX的預期市值縮水3,000億美元。該交易所的全天候交易市場最近引起了華爾街的關注。該平臺的資料顯示，Hyperliquid的交易員預計，埃隆.馬斯克(Elon Musk)的這家火箭公司在公開上市時的市值約為2萬億美元，較5月底逾2.3萬億美元的水平有所下降。
+
+---
+
+### 2026-06-10 20:23:26  #公司 #資料 #市場 #國際
+
+【美股盤前要聞速遞】
+①美股三大指數期貨齊跌，道指期貨跌0.76%，標普500指數期貨跌0.87%，納指期貨跌1.44%。
+②德國DAX指數跌0.81%，英國富時100指數跌0.34%，法國CAC40指數跌0.43%，歐洲斯托克50指數跌0.65%。
+③WTI原油漲1.90%，報89.91美元/桶。布倫特原油漲1.61%，報92.93美元/桶。
+④美國總統特朗普在福克斯新聞上表示，他已接近下令對伊朗的基礎設施實施新的打擊，包括發電廠和橋樑，並指責德黑蘭方面拖延談判，拒絕接受華盛頓認為本應達成的協議。
+⑤美國勞工部即將於當地時間週三公佈5月份消費者價格指數（CPI）。市場主流經濟學家普遍預測，受國際地緣衝突及能源價格飆升等因素影響，美國5月CPI同比漲幅或將突破4%大關。
+⑥德國商業銀行日前釋出的一份分析報告顯示，美國SpaceX即將進行的首次公開募股（IPO）預計將吸引鉅額國際資本流入美國，在單一交易日內可為美國季度經常賬戶赤字的8%提供再融資，從而對美元、尤其是美元兌歐元匯率形成有力支撐。
+⑦AMD美股盤前跌超2%。
+⑧甲骨文盤前跌超2%，公司盤後將釋出業績報告。
+⑨超微電腦股份在盤前交易中下跌7.8%，此前該公司計劃透過股票發行募資70億美元。
+
+---
+
+### 2026-06-10 20:22:27  #公司
+
+【賽微電子：全資子公司擬6.24億元收購控股子公司19%股權】賽微電子公告稱，國家積體電路基金將其持有的賽萊克斯北京19%股權掛牌轉讓，掛牌底價62,362.74萬元。公司全資子公司賽萊克斯國際擬以該底價進場摘牌。本次交易完成後，公司將合計間接持有賽萊克斯北京100%股權。該事項已獲董事會審議透過，尚需股東會審議。賽萊克斯北京2025年營收17,296.83萬元，淨虧損30,988.75萬元；2026年1-3月營收3,906.76萬元，淨虧損5,850.14萬元。
+
+---
+
+### 2026-06-10 20:21:55  #MKT News #WTI #Impact bullish #DXY #XAUUSD
+
+【US-Iran clashes escalate; Iran says US strike on water facilities cut supply to about 20,000】Financial Times reported Iran said a US airstrike destroyed two water storage facilities in Hormozgan province, cutting water to about 20,000 residents. The strikes followed Iran’s downing of a US helicopter in the Strait of Hormuz and a subsequent US night airstrike. CENTCOM said US aircraft used precision-guided munitions to strike Iranian air-defence systems, ground command-and-control sites and surveillance radars near the Strait, describing the action as a proportionate response to recent attacks on US forces and commercial ships. Hormozgan officials said the strikes destroyed two tanks with a combined capacity of 2,500 cubic meters that supplied Kuhestak city and 10 surrounding villages, causing the reported outage.
+
+---
+
+### 2026-06-10 20:21:38  #其他
+
+【科大訊飛釋出SpaceMind，推動Agent加速邁入物理空間】6月10日，科大訊飛在香港舉辦2026 SpaceMind全球釋出會，正式釋出智慧空間Agentic架構——SpaceMind，該架構讓物理空間具備自主思考、真實記憶與自學習能力，推動Agent真正走進物理世界。據悉，SpaceMind採用60GHz毫米波雷達，實現5釐米級定位，並透過雙模型協同架構將裝置指令響應速度提升至700毫秒以內，實時感知使用者需求和環境變化，主動聯動裝置提供個性化服務。
+
+---
+
+### 2026-06-10 20:21:12  #國際
+
+埃及5月核心通脹率同比持平於4月的13.8%。
+
+---
+
+### 2026-06-10 20:21:02  #公司
+
+【芯導科技：修訂問詢函回覆披露交易細節】芯導科技披露，公司對上交所稽核問詢函的回覆進行了修訂、補充及完善。此次修訂內容詳見於同日披露的《關於上海芯導電子科技股份有限公司發行可轉換公司債券及支付現金購買資產申請的稽核問詢函的回覆（修訂稿）》等相關公告。公司計劃透過發行可轉換公司債券及支付現金方式購買吉瞬科技100%股權和瞬雷科技17.15%股權，並進一步持有瞬雷科技100%股權。本次交易尚需上交所稽核透過並經中國證監會同意註冊。
+
+---
+
+### 2026-06-10 20:20:55  #公司 #市場 #國際
+
+亞馬遜推出面向所有企業的小批次貨運服務後，美國卡車運輸公司股價盤前下跌。J B Hunt Transport下跌2.7%，United Parcel Service下跌1.9%，FedEx下跌1.7%。
+
+---
+
+### 2026-06-10 20:20:51  #MKT News #Important #WTI #Impact mixed #XAUUSD #Impact bullish #DXY
+
+【Fox: US-Iran talks ongoing; Trump to keep up maximum pressure】Fox News reported a senior White House official said negotiations with Iran remain ongoing after President Trump's social-media comments. The White House said the US responded to an Apache helicopter attack, and Trump will continue to apply maximum pressure to secure an agreement.
+
+---
+
+### 2026-06-10 20:20:41  #其他
+
+【全島封關以來 海南海關備案外貿企業總數突破10萬家】6月10日上午，海南省宣傳部召開《中華人民共和國海南自由貿易港法》頒佈實施五週年新聞釋出會。在會上，海南省委深改辦相關負責人介紹，海南自由貿易港法頒佈實施五年來，為海南自由貿易港建設行穩致遠、全島封關運作正式啟動、封關運作後平穩有序執行提供了堅實法律依據和制度保障，確保了海南自由貿易港改革創新於法有據、方向正確。新增外資企業1016戶，同比增長35.5%。海關備案外貿企業總數歷史性突破10萬家。離島免稅銷售金額184.3億元，同比增長23.2%；島內居民日消品“零關稅”政策落地，居民和旅客享惠可感可及。西門子能源、博鰲富隆國際醫院等一批外資企業專案落地，越來越多企業搶抓機遇、紮根海南。（央視新聞）
+
+---
+
+### 2026-06-10 20:20:07  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #US10Y #XAUUSD
+
+US May seasonally adjusted CPI and core CPI (MoM), and unadjusted CPI and core CPI (YoY), are due in 10 minutes.
+
+---
+
+### 2026-06-10 20:19:48  #國際
+
+【特朗普：我或許會繼續採取行動】被問及如何回應伊朗向科威特、巴林、約旦境內美軍發動導彈襲擊一事時，特朗普向福克斯新聞表示，不排除對伊朗採取進一步軍事行動的可能，並稱：“我或許會繼續採取行動。” 他還說道：“他們本有機會簽署協議、求得自保。”
+
+---
+
+### 2026-06-10 20:19:09  #公司
+
+【北京地區保險公司已開通汛期理賠綠色通道，推出汛期泡水車“三免服務”】6月10日，北京金融監管局釋出《關於用好保險保障實現平穩度汛的消費者風險提示》表示，近日，北京市已進入汛期，北京金融監管區域性署保險機構切實做好汛期相關災害應對和保險理賠服務工作，現提示廣大市民朋友科學避風險、安心用保險、平穩度汛期。及時申請理賠，北京地區保險公司已開通汛期理賠綠色通道，推出汛期泡水車“三免服務”（免現場查勘、免氣象證明、免費事故救援）。市民遭遇汛期災害導致車輛、財產受損或人身意外傷害的，可及時核對投保資訊，主動向承保保險公司報案，依規辦理定損理賠手續。
+
+---
+
+### 2026-06-10 20:18:35  #其他
+
+加拿大皇家銀行將回購至多4500萬股普通股。
+
+---
+
+### 2026-06-10 20:18:21  #其他
+
+CYERA：本輪融資由Evolution Equity Partners領投，Cyberstarts和淡馬錫參投。
+
+---
+
+### 2026-06-10 20:18:10  #公司
+
+資料安全公司Cyera以120億美元估值融資6億美元，本輪融資的投資者還包括Accel、AT&T Ventures、黑石、Coatue、Spark Capital等。
+
+---
+
+### 2026-06-10 20:17:42  #公司
+
+【*ST天龍：收到深交所終止上市決定，6月18日進入退市整理期】*ST天龍公告，公司於2026年6月10日收到深圳證券交易所《關於江蘇華盛天龍光電裝置股份有限公司股票終止上市的決定》（深證上〔2026〕786號），深交所決定終止公司股票上市交易。公司股票於2026年6月18日復牌並進入退市整理期，退市整理期為十五個交易日，預計最後交易日期為2026年7月9日。退市整理期間股票在風險警示板交易，首個交易日無價格漲跌幅限制，此後每日漲跌幅限制為20%。
+
+---
+
+### 2026-06-10 20:16:54  #其他
+
+【金山辦公將釋出組織級AI新品】金山辦公近日劇透一款定位於“組織級AI基礎設施”的新品。與當下主打“讓個人成為超級個體”的辦公Agent不同，它要回答的並非“怎麼幫一個人做得更快”，而是“怎麼幫一個組織判斷得更準”。
+
+---
+
+### 2026-06-10 20:16:44  #MKT News #Important
+
+Fox News reports U.S. President Trump will continue to apply maximum pressure to secure an agreement.
+
+---
+
+### 2026-06-10 20:16:20  #焦點 #國際
+
+福克斯新聞：特朗普將繼續施加最大壓力以達成協議。
+
+---
+
+### 2026-06-10 20:16:11  #MKT News #Important
+
+Fox News reports US-Iran talks are continuing.
+
+---
+
+### 2026-06-10 20:16:10  #其他
+
+【影石手持雲臺相機Luna Ultra釋出，售價3999元起】6月10日，影石首款手持雲臺相機Luna Ultra上市釋出，該機與徠卡聯合研發，搭載雙攝方案，採用一英寸主攝和F1.8大光圈，可錄製4K 10bit i-Log 格式影片，同時配備自帶遙控和圖傳的分離屏、可選配頭追模組。售價方面，標準套餐原價4705元，首發價格3999元起；創作者套餐較標準版增加續航手柄、增廣鏡、麥克風發射器等配件，原價5705元，首發價格4849元。
+
+---
+
+### 2026-06-10 20:15:56  #其他
+
+巴基斯坦軍方表示，此次直升機墜毀事故無人員生還。
+
+---
+
+### 2026-06-10 20:15:38  #公司
+
+【巨星科技：仇建平及其一致行動人合計持股比例超30%免於發出要約收購】巨星科技公告，公司控股股東巨星控股集團有限公司擬將其持有的部分公司股份350萬股股份（無限售條件流通股，佔公司總股本的0.29%）以大宗交易方式轉讓給公司實際控制人仇建平先生。本次轉讓完成後，仇建平先生及其一致行動人擁有權益的股份超過上市公司已發行股份的30%，觸發收購人的要約收購義務。但因轉讓方與受讓方為一致行動人，本次轉讓系公司控股股東及其一致行動人之間股份的內部轉讓，不會導致公司控制權發生變更，收購人可以免於以要約方式增持股份。
+
+---
+
+### 2026-06-10 20:15:36  #焦點 #國際
+
+據報道，美伊會談仍在繼續。
+
+---
+
+### 2026-06-10 20:14:37  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
+
+【US CPI preview: core inflation seen mild, could ease market rate‑hike fears】Economists Durie and Wong say May headline US CPI is likely to be strong, but core inflation—more relevant for the Fed rate outlook—should remain mild, with the month-on-month increase consistent with a 2% target. Supply shocks have pushed up airfares, appliances and electronics, while disinflation in non-essential services suggests consumers are cutting discretionary spending. A muted core print would ease market concern about further Fed hikes after May's stronger-than-expected nonfarm payrolls. The economists still expect a 25bps Fed cut in Q4.
+
+---
+
+### 2026-06-10 20:13:37  #其他
+
+巴基斯坦方面稱，巴基斯坦陸軍一架米 - 17 直升機在巴控克什米爾穆扎法拉巴德地區墜毀。
+
+---
+
+### 2026-06-10 20:13:07  #公司
+
+【ST景峰：公司股票將於6月12日起撤銷其他風險警示】ST景峰公告，公司股票交易將於2026年6月11日停牌一天，並於6月12日開市起復牌。自6月12日起，公司股票將撤銷其他風險警示，股票簡稱由“ST景峰”變更為“景峰醫藥”，證券程式碼“000908”保持不變，日漲跌幅限制由5%調整為10%。此前，因2023年度內部控制審計報告存在否定意見及持續經營能力不確定性，公司股票自2024年5月6日起被實施其他風險警示。大信會計師事務所於2025年4月27日出具標準無保留意見的審計報告，確認公司已消除風險警示條件。公司申請撤銷風險警示已獲深圳證券交易所稽核同意。
+
+---
+
+### 2026-06-10 20:12:50  #市場
+
+紐約期金日內跌3%，現報4157.37美元/盎司。
+
+---
+
+### 2026-06-10 20:12:49  #市場 #焦點
+
+現貨黃金失守4140美元/盎司，日內跌2.85%。
+
+---
+
+### 2026-06-10 20:12:48  #市場 #焦點
+
+紐約期金失守4160美元/盎司，日內跌2.95%。
+
+---
+
+### 2026-06-10 20:09:43  #公司
+
+SENSEONICS：EVERSENSE 365應用程式將整合至蘋果健康與谷歌健康連線。
 
 ---
 
@@ -21507,371 +21957,5 @@ European Commission spokesperson said the decision not to launch Siri AI in the 
 ### 2026-06-09 18:16:18  #公司 #國際
 
 歐盟委員會發言人表示：歐盟法規中不存在禁止蘋果公司在歐盟推出新產品的條款。
-
----
-
-### 2026-06-09 18:16:04  #公司
-
-【中集集團：6月9日回購320萬股H股】中集集團公告稱，6月9日公司回購320萬股H股，每股回購價8.9423港元，佔有關事件前的現有已發行股份（不包括庫存股份）數目的0.1059%。截至6月9日，公司已發行股份（不包括庫存股份）為30.18億股，庫存股份為7193.83萬股，已發行股份總數為30.90億股。公司於2025年5月15日獲回購授權，可回購股份總數為3.09億股，截至目前累計回購7193.83萬股，佔授權透過當日已發行股份（不包括庫存股份）的2.33%。本次回購後暫止期至2026年7月9日。
-
----
-
-### 2026-06-09 18:15:56  #國際
-
-【伊朗方面訊息：若敵方採取挑釁行動，曼德海峽將由伊朗掌控】伊朗伊斯蘭議會議長副議長表示：霍爾木茲海峽處於伊朗伊斯蘭共和國的管控之下。倘若敵方繼續滋事挑釁，曼德海峽也將同霍爾木茲海峽一樣，納入伊朗的戰略管轄與監管範圍。敵對勢力企圖藉助經濟施壓挑起民眾不滿，但伊朗民眾很快就能看到打破封鎖的成果。伊朗伊斯蘭共和國針對猶太復國主義政權的侵略行為作出強硬回擊，這表明我方會對任何觸碰紅線的行為予以堅決、果斷的反擊。
-
----
-
-### 2026-06-09 18:15:52  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-A European Commission spokesperson said the Commission has engaged with Apple (AAPL.O) on Siri AI.
-
----
-
-### 2026-06-09 18:15:26  #國際
-
-歐盟委員會發言人：不在歐盟推出Siri人工智慧是蘋果自己的決定，完全由蘋果單方面決定。
-
----
-
-### 2026-06-09 18:15:01  #公司 #市場
-
-【勝宏科技“桃色事件”女主開播互動，豪收“萬元”火箭打賞】日前，與勝宏科技董事長陳濤傳出“桃色新聞”的女主“珍珍Janice”在抖音開啟直播。據直播截圖顯示，其主要是跟觀眾聊天並進行互動，還在鏡頭前吃飯，直播間線上人數一度逼近1萬人，也有多人送出鮮花、火箭等禮物，價值超萬元。此前，“珍珍Janice”在社交媒體平臺上釋出多條涉及勝宏科技董事長陳濤的私生活內容。該使用者聲稱與陳濤存在感情糾紛，並曬出疑似聊天記錄、影片聊天畫面等材料。6月8日，勝宏科技收盤股價大跌7.11%，股價為314.8元。晚間，勝宏科技公告稱，擬推出新一期員工持股計劃，投入資金總額不超過7億元，股票來源為透過二級市場購買等法律法規許可方式獲得的公司A股普通股。公開資訊顯示，勝宏科技成立於2006年7月，主要從事高密度印製線路板的研發、生產和銷售。該公司於2015年在深交所創業板上市；今年4月21日，正式登陸港交所主機板，募資總額超230億港元，是2026年以來港股規模最大的IPO專案。至此，該公司完成“A+H”雙資本平臺佈局。（新浪科技）
-
----
-
-### 2026-06-09 18:14:20  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Ukraine President Zelenskiy said Russia has, to date, shown no willingness to make peace.
-
----
-
-### 2026-06-09 18:13:43  #Trading Economics #Economy #Latvia #Inflation Rate #Importance 1
-
-Latvia Inflation Rate Picks up to 4-Month High — The annual inflation rate in Latvia accelerated to 3.5% in May 2026, the highest in four months, from 2.9% in April. Prices rose faster for housing & utilities (5.8% vs 5.1%), transport (11.1% vs 8.5%), recreation & culture (3.2% vs 1.8%), health (4.9% vs 4.6%), personal care, social protection, various goods and services (4.7% vs 2.9%), restaurants & hotels (9.5% vs 5.6%) and insurance and financial services (3% vs 1.8%). Meanwhile, inflation was steady for communications (at 2.1%), and cost slowed for alcoholic beverages & tobacco (0.4% vs 0.6%), furnishings & household equipment (0.1% vs 1.2%) and education (3.4% vs 4%). At the same time, prices fell for food and non-alcoholic beverages (-0.8% vs -0.3%), and clothing & footwear (-0.1% vs 0.6%). On a monthly basis, consumer prices increased 0.5% in May, after a 0.6% rise in April.
-
----
-
-### 2026-06-09 18:13:30  #MKT News
-
-Ukrainian President Zelenskiy called for a leaders' meeting of Ukraine, Russia, the United States and European leaders.
-
----
-
-### 2026-06-09 18:13:27  #公司
-
-【上海港灣：公司簽署5653.53萬新加坡元合同】上海港灣公告，下屬新加坡分公司就新加坡樟宜機場Megaspine DCM Project地基處理專案，與業主簽署增補合同。專案金額：原合作內容與本次增補合同合計總金額為5653.53萬新加坡元（含稅），約摺合人民幣2.98億元（含稅）。
-
----
-
-### 2026-06-09 18:13:12  #其他
-
-國際安全戰略署表示，英國醫療保健協議到期後將不會續簽。
-
----
-
-### 2026-06-09 18:13:03  #國際
-
-烏克蘭總統澤連斯基：烏克蘭準備向歐洲派遣軍事專家。
-
----
-
-### 2026-06-09 18:13:00  #MKT News #Market Regions #Europe & UK
-
-Ukrainian President Zelenskiy said Ukraine is prepared to send military experts to Europe.
-
----
-
-### 2026-06-09 18:12:50  #MKT News
-
-The Kremlin said the exact arrival dates of Vitkov and Kushner in Russia are not yet set, but Moscow is ready to receive them at any time.
-
----
-
-### 2026-06-09 18:12:42  #公司
-
-【凱倫股份：董事張勇擬減持0.35%】凱倫股份公告，董事、常務副總經理張勇持有580.01萬股，佔剔除回購專戶股份後總股本1.54%，計劃自2026年7月3日至2026年10月2日，透過集中競價或大宗交易減持不超過130萬股，佔0.35%。減持原因為歸還承諾款及自身資金需求，股份來源為首次公開發行前股份、配股認購及資本公積轉增股本。減持價格將依據屆時二級市場價格及交易方式確定。
-
----
-
-### 2026-06-09 18:12:40  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Kremlin says US mediation process on Ukraine is suspended; Washington continues contacts with Moscow and Kyiv.
-
----
-
-### 2026-06-09 18:12:38  #其他
-
-【自然資源部與中國氣象局聯合釋出橙色地質災害氣象風險預警】自然資源部與中國氣象局6月9日18時聯合釋出橙色地質災害氣象風險預警：預計，6月9日20時至10日20時，雲南南部和西部、西藏東南部等地部分地區發生地質災害的氣象風險較高（黃色預警），其中，雲南南部局地發生地質災害的氣象風險高（橙色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。橙色預警區內高風險隱患點和風險區受威脅人員請根據當地防災部門組織立即撤離前往附近避險安置點，臨坡臨崖臨溝臨水人員根據撤離訊號及時撤離前往附近避險安置點；黃色預警區內人員，請隨時關注預警資訊變化，注意附近警示標誌，避免在溝谷、斜坡、陡崖（坎）等高風險地帶逗留。
-
----
-
-### 2026-06-09 18:12:35  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China
-
-【iFlytek to host 2026 SpaceMind global launch in Hong Kong, unveil Agentic SpaceMind architecture】iFlytek will host its 2026 SpaceMind global launch in Hong Kong to unveil SpaceMind, an Agentic architecture designed to give intelligent spaces autonomous reasoning, persistent memory and self-learning capabilities. The architecture targets deployment of AI agents in homes, hotels and offices. Dozens of global partners have entered strategic cooperation with iFlytek.
-
----
-
-### 2026-06-09 18:12:33  #國際
-
-市場訊息：愛沙尼亞尋求烏克蘭專家協助抵禦失控無人機。
-
----
-
-### 2026-06-09 18:12:13  #公司
-
-【神州資訊：全資子公司神州數字擬以361.61萬元轉讓所持普益雲公司2.6479%股權】神州資訊公告，為進一步最佳化公司的業務和投資結構，結合普益雲公司的經營情況，全資子公司神州數字與董事長郭為先生擬分別贖回其所持普益雲公司全部股權。神州數字擬與普益雲公司及其控股股東盛世科技簽署《股權回購協議書》，以361.61萬元轉讓所持普益雲公司2.6479%股權。交易完成後，神州數字將不再持有普益雲公司股權。
-
----
-
-### 2026-06-09 18:12:05  #公司
-
-【三鑫醫療：控股股東及一致行動人合計增持0.0663%】三鑫醫療公告，控股股東、實際控制人彭義興、雷鳳蓮於2026年6月8日至9日集中競價合計增持34.62萬股，佔0.0663%。其中彭義興6月9日增持14000股，均價8.8元/股，金額12.23萬元，佔0.0027%；雷鳳蓮6月8日至9日增持33.22萬股，均價8.82元/股，金額293.1萬元，佔0.0636%。增持後一致行動人合計持股1.89億股，佔36.1613%。
-
----
-
-### 2026-06-09 18:11:50  #MKT News
-
-Kremlin said the US did not inform Russia of the contents of Zelenskiy's call with Witkowski and Kushner.
-
----
-
-### 2026-06-09 18:11:47  #其他
-
-【科大訊飛將在香港舉辦2026 SpaceMind全球釋出會，計劃釋出智慧空間Agentic架構SpaceMind】科大訊飛將在香港舉辦2026 SpaceMind全球釋出會，計劃釋出智慧空間Agentic架構SpaceMind。該架構讓智慧空間具備自主思考、真實記憶和自學習能力，可將AI Agent帶入家庭、酒店和辦公等空間。目前，全球已有數十家合作伙伴達成戰略合作。（介面）
-
----
-
-### 2026-06-09 18:11:39  #其他
-
-市場訊息：塞爾維亞政府稱，收購NIS煉油廠的談判取得進展。
-
----
-
-### 2026-06-09 18:11:23  #國際
-
-澤連斯基：需要烏克蘭、俄羅斯、美國、歐洲領導人會議。
-
----
-
-### 2026-06-09 18:11:23  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #DXY #EURUSD #Impact bearish
-
-Kremlin says the EU's mediation role on Ukraine has not materialized and that it is more focused on the war.
-
----
-
-### 2026-06-09 18:11:12  #其他
-
-【哈囉回應“全面失控”報道：目前經營、納稅、用工和城市運營均保持正常，已就不實資訊向有關主管部門舉報】6月9日下午訊息，針對有媒體釋出的《困獸哈囉，全面失控》的報道，哈囉方面回應稱，文章通篇大量使用匿名信源、傳聞表述、主觀推斷和片面材料，對哈囉進行系統性汙名化，已明顯超出正常輿論監督範疇。哈囉方面表示，文章中涉及所謂“多套資料”、惡性競爭、行業灰產等內容，很多沒有可核驗的證據、監管結論或司法認定，卻被當作事實呈現。特別是所謂財務和經營資料不一致的說法，已經觸及企業信用底線，會實質影響企業融資、合作信心和員工穩定。“哈囉目前經營、納稅、用工和城市運營均保持正常，並持續配合各地主管部門推進共享兩輪行業規範治理。針對該文涉嫌傳播涉企不實資訊、惡意集納負面內容、損害企業商譽等問題，我們已向有關主管部門提交舉報，並將依法維護企業合法權益。”（新浪科技）
-
----
-
-### 2026-06-09 18:11:09  #國際
-
-澤連斯基：俄羅斯迄今為止沒有表現出任何和平意願。
-
----
-
-### 2026-06-09 18:10:57  #MKT News
-
-Kremlin says there is currently no arrangement for a call between US President Trump and Russian President Putin.
-
----
-
-### 2026-06-09 18:10:53  #國際
-
-克里姆林宮談澤連斯基與威特科夫、庫什納通話：美方未向我方告知此次通話內容。
-
----
-
-### 2026-06-09 18:10:41  #其他
-
-克里姆林宮談亞美尼亞選舉：有報道稱選舉存在違規行為。
-
----
-
-### 2026-06-09 18:10:37  #國際
-
-克里姆林宮：普京將在官方選舉結果公佈後，決定是否祝賀亞美尼亞總理帕希尼揚贏得選舉。
-
----
-
-### 2026-06-09 18:10:32  #國際
-
-克里姆林宮：目前日程中尚未安排特朗普與普京的通話。
-
----
-
-### 2026-06-09 18:10:24  #國際
-
-克里姆林宮就歐盟在烏克蘭問題上的調停表態：歐盟完全不配扮演調停者的角色，他們更關注的是戰爭。
-
----
-
-### 2026-06-09 18:09:28  #市場
-
-臺積電美股盤前跌近1%。
-
----
-
-### 2026-06-09 18:09:28  #MKT News
-
-【Midea launches 'Intelligent Factory Overseas Solution'】June 9 — Midea Group launched an "Intelligent Factory Overseas Solution" offering Chinese firms expanding abroad hands-on, full-cycle support for factory setup, covering planning from scratch, production-line deployment and long-term localized operations.
-
----
-
-### 2026-06-09 18:09:15  #MKT News
-
-EU and Australia have concluded negotiations on Australian access to the Horizon Europe research programme.
-
----
-
-### 2026-06-09 18:09:08  #國際
-
-市場訊息：日本三菱日聯銀行、三井住友銀行和瑞穗銀行計劃在2027年3月前聯合發行穩定幣。
-
----
-
-### 2026-06-09 18:09:02  #Trading Economics #Economy #United States #NFIB Business Optimism Index #Importance 1
-
-US Small Business Optimism Lowest Since 2024 — The NFIB Small Business Optimism Index in the US decreased to 95.3 in May 2026, the lowest since October 2024, compared to 95.9 in April and below forecasts of 96. “AI investment spending has contributed to some excitement in the economy. Despite the enthusiasm around AI, the overall picture is divided. More small business owners are struggling with significant and unpredictable hikes in fuel prices, which are more challenging for small businesses to pass on to their customers compared to their larger corporate competitors”, NFIB Chief Economist Bill Dunkelberg, said. The net % of owners raising average selling prices rose 6 points to 36%, marking the highest reading since March 2023. A net 34% plan to increase prices, marking the highest reading since July 2022. 19% of small business owners reported taxes as their single most important problem, up 2 points from April. It was followed by inflation, with 18% of business owners citing it as their single most important business problem
-
----
-
-### 2026-06-09 18:08:58  #國際
-
-市場訊息：歐盟與澳大利亞已完成歐洲地平線計劃准入相關談判。
-
----
-
-### 2026-06-09 18:08:28  #公司
-
-【美的釋出“智慧體工廠出海解決方案”】6月9日，美的集團正式釋出“智慧體工廠出海解決方案”，為出海中企提供從0到1建廠規劃、產線落地到本地化長效運營的全週期全鏈路陪跑式服務。
-
----
-
-### 2026-06-09 18:08:13  #公司
-
-【菲利華：與長盈通等共設合資公司投資1億元】菲利華公告，公司擬與武漢長盈通光電技術股份有限公司、湖北長翼共盈創業投資基金合夥企業共同出資設立湖北聚通石英新材料有限公司，註冊資本為1億元，其中公司出資5100萬元，佔比51%；長盈通出資2000萬元，佔比20%；長翼共盈出資2900萬元，佔比29%。合資公司將建設“光纖配套用高純精密石英材料專案”，預計產能70噸/年。
-
----
-
-### 2026-06-09 18:07:35  #其他
-
-【非洲疾控中心：剛果（金）與烏干達埃博拉確診病例升至608例】非洲疾控中心釋出統計資料：截至6月8日，本輪埃博拉疫情累計確診病例數升至608例，死亡病例102例。24小時內，剛果（金）新增45例確診病例，累計達589例；烏干達暫無新增確診病例。此前烏干達衛生部5日釋出訊息說，該國埃博拉確診病例累計達19例。（央視新聞）
-
----
-
-### 2026-06-09 18:07:26  #國際
-
-烏克蘭總統澤連斯基：烏克蘭將繼續對俄羅斯進行報復性打擊。
-
----
-
-### 2026-06-09 18:07:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Ukrainian President ZELENSKIY said Ukraine will continue to carry out retaliatory strikes against Russia.
-
----
-
-### 2026-06-09 18:07:01  #國際
-
-【哈馬斯官員稱開羅談判取得進展 尋求以軍全面撤出加沙】當地時間9日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）高階成員塔希爾·努努發表宣告稱，近期在埃及開羅舉行的談判已取得進展。哈馬斯代表團與巴勒斯坦各派別已就斡旋方提出的路線圖共同起草了一份“負責任的”聯合回應，以推進落實美國總統特朗普提出的相關計劃。宣告稱，目前各方的討論仍在繼續，重點在於落實停火協議，包括解決第一階段的所有遺留問題，並保障巴勒斯坦人民的政治權利。此外，談判還聚焦於由一個技術官僚委員會全面接管加沙各項民事和行政事務，增加人道主義援助，啟動救援和重建工作，以及實現以色列軍隊從加沙地帶的全面撤軍。（央視新聞）
-
----
-
-### 2026-06-09 18:06:40  #公司 #市場
-
-【蓮花控股：股票交易異常波動 不存在應披露未披露重大事項】蓮花控股公告稱，公司股票於2026年6月5日、6月8日、6月9日連續三個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。經自查，公司目前經營正常，內外部環境未變，不存在應披露而未披露的重大事項，董事、高管等在異常波動期間無買賣公司股票情況。此外，公司投資標的上海階躍星辰智慧科技處於大額虧損，2025年伺服器租賃業務收入12,187.63萬元，佔比3.53%，淨利潤-2,857.86萬元，業務開展不及預期，提醒投資者注意風險。
-
----
-
-### 2026-06-09 18:06:27  #公司
-
-【復星醫藥：控股子公司藥品新增適應症獲註冊批准】復星醫藥公告，控股子公司上海復宏漢霖生物技術股份有限公司及其控股子公司自主研發的斯魯利單抗注射液（商品名：漢斯狀®）新增適應症的藥品註冊申請獲國家藥品監督管理局批准。本次獲批的新適應症為聯合奧沙利鉑和替吉奧用於腫瘤PD-L1表達CPS≥5的可手術切除的胃癌新輔助及手術後單藥輔助治療。
-
----
-
-### 2026-06-09 18:05:36  #國際
-
-據伊朗塔斯尼姆通訊社今天（6月9日）報道，2名伊朗防空部隊人員在以軍6月8日的襲擊中喪生。（CCTV國際時訊）
-
----
-
-### 2026-06-09 18:05:16  #公司
-
-【沃格光電：玻璃基半導體業務尚處早期研發驗證階段，營收佔比極低】居然智家公告，公司原實際控制人汪林朋逝世，其配偶楊芳透過夫妻共同財產分割及遺產繼承獲得公司股份。本次進展：汪林朋持有的中天基業100%股權已完成工商變更，楊芳現持有中天基業100%股權，公司實際控制人已變更為楊芳女士；楊芳合計控制公司27.36億股股份，佔公司總股本的43.93%。汪林朋直接持有的公司股份、居然控股股權、致達建材股權的過戶手續尚在辦理中。
-
----
-
-### 2026-06-09 18:05:08  #公司
-
-【英國競爭監管機構正式啟動派拉蒙收購華納兄弟探索合並審查】英國競爭與市場管理局（CMA）6月9日宣佈，正式對派拉蒙天空之舞公司收購華納兄弟探索公司一事啟動合併調查，第一階段審查截止日期為2026年8月7日。CMA於今年4月13日啟動預通知程式，並於4月13日至27日公開徵求意見。此次正式立案標誌著調查進入第一階段，監管機構將評估該交易對英國傳媒市場競爭格局的潛在影響。
-
----
-
-### 2026-06-09 18:05:04  #公司 #市場
-
-【金時科技：目前經營情況正常，內外部經營環境未發生重大變化】金時科技(002951)6月9日釋出股票交易異常波動公告稱，公司股票交易價格連續三個交易日收盤價格跌幅偏離值累計超過20%，公司對有關事項進行了核查，公司前期披露的資訊不存在需要更正、補充之處，未發現近期公共傳媒報道了可能或已經對公司股票交易價格產生較大影響的未公開重大資訊。公司目前經營情況正常，內外部經營環境未發生重大變化。
-
----
-
-### 2026-06-09 18:04:58  #資料 #市場 #國際
-
-【美國銀行：美國5月整體CPI料創三年高位 核心CPI相對溫和】美國銀行全球研究部報告稱：“我們預計，受能源價格再次大幅上漲推動，美國5月整體CPI環比將上漲0.46%，同比漲幅則將由4月的3.8%升至4.2%，創2023年4月以來最高水平。與此同時，核心CPI環比漲幅預計為0.20%，同比漲幅為2.8%，整體表現相對溫和。”美國銀行表示：“這一預測反映了我們對核心商品價格溫和上漲（環比增長0.05%）、租金漲幅趨於正常化以及剔除租金後的核心服務價格走軟的預期。”該行進一步指出，就貨幣政策前景而言，市場關注的焦點將是此次CPI資料對核心PCE的影響。美國銀行稱：“尤其值得關注的是，自去年11月以來，核心PCE通脹率一直高於核心CPI，因此此次CPI資料對核心PCE走勢的指引意義尤為重要。”
-
----
-
-### 2026-06-09 18:04:50  #MKT News #Commodities #Energy #DXY #Impact bullish #US10Y #WTI
-
-【BofA: US May headline CPI likely highest since Apr 2023; core CPI relatively mild】BofA global research forecasts US May headline CPI +0.46% MoM, lifting YoY to 4.2% from April’s 3.8% — the highest since April 2023 — driven by a renewed large rise in energy. Core CPI is seen at +0.20% MoM, 2.8% YoY. The bank attributes the call to modest core goods gains (+0.05% MoM), rents trending toward normalization and softer ex-rent core services. Markets will focus on how the CPI print informs core PCE; BofA notes core PCE has run above core CPI since last November, making this CPI release particularly relevant for policy outlook.
-
----
-
-### 2026-06-09 18:04:34  #公司
-
-【東方鉭業：擬投資設立全資子公司註冊資本1億元】東方鉭業公告，為進一步拓寬業務佈局、結合公司發展戰略，公司擬投資設立全資子公司寧夏中色關鍵金屬材料有限公司。註冊資本為人民幣1億元，出資方式為公司以自有或自籌資金出資，股權結構為公司持股100%。經營範圍包括稀有稀土金屬冶煉、化工產品生產與銷售、金屬礦石銷售、電子專用材料研發與製造、新材料技術研發、貨物進出口等。新設子公司相關工作尚在籌備階段，後續需經當地市場監督管理部門審批後正式成立。
-
----
-
-### 2026-06-09 18:04:31  #公司
-
-【張家界：擬3.55億元購買武陵源索道公司51%股權】張家界公告，公司擬以現金方式購買湖南武陵源索道有限公司51%股權，交易對價金額為3.55億元。本次交易對方為張家界武陵源區全域旅遊文化有限公司。交易完成後，武陵源索道公司將成為公司控股子公司並納入合併報表範圍。本次交易構成關聯交易，交易金額達到3000萬元以上，且佔公司最近一期經審計淨資產絕對值5%以上，尚需提交公司股東會審議。本次交易不構成《上市公司重大資產重組管理辦法》規定的重大資產重組。
-
----
-
-### 2026-06-09 18:04:25  #資料 #國際
-
-【美國5月小企業信心下滑，因伊朗戰爭令通脹擔憂加劇】美國小企業的信心在5月份下降，計劃在未來三個月提價的企業主比例升至近四年來最高，表明通脹可能會在一段時間內維持高位。全美獨立企業聯盟（NFIB）週二的資料顯示，5月小企業信心指數下滑0.6點至95.3，進一步遠離52年的均值98.0。該調查的不確定性指數上升3點至91，遠高於歷史均值68。NFIB支出：“不確定性是增長和投資的敵人，目前處於高位，這在很大程度上與伊朗戰爭及其對全球石油供應和其他大宗商品的影響有關，越早得到解決，恢復某種‘正常’狀態的速度就越快。”調查還顯示，計劃在未來三個月提價的小企業比例躍升7個百分點至34%，為2022年7月以來最高。約36%的企業主表示將提價，為2023年3月以來最高水平，較4月上升6個百分點。
-
----
-
-### 2026-06-09 18:03:59  #MKT News #WTI #Impact bullish #XAUUSD #US10Y
-
-【US May small-business confidence slips; planned price hikes near four-year high as Iran war raises inflation concerns】NFIB data: May small‑business confidence fell 0.6 points to 95.3, below the 52‑year mean of 98.0. The NFIB uncertainty index rose 3 points to 91, well above its historical mean of 68; NFIB attributed the jump largely to the Iran war’s impact on global oil and commodity supplies and said earlier resolution would speed a return to normal. Firms planning price increases in the next three months rose 7 percentage points to 34%—the highest since July 2022—while 36% of owners said they will raise prices, up 6 points from April and the highest since March 2023, signalling inflation may remain elevated.
-
----
-
-### 2026-06-09 18:03:43  #公司
-
-據港交所披露檔案，騰訊於6月9日回購110萬股股份，總耗資5.004億港元。
-
----
-
-### 2026-06-09 18:03:28  #公司 #國際
-
-【昌紅科技：正論證MPO相關產品技術落地可行性】6月8日，昌紅科技在互動平臺回覆投資者提問稱，公司目前正結合自身精密模具與注塑製造相關能力，論證MPO相關產品的技術落地可行性。MT插芯是MPO聯結器的關鍵零部件之一，其生產對模具精密度要求極高，在微孔型腔精度、熱膨脹匹配度、內應力控制與翹曲度管控等注塑工藝環節技術壁壘較高。公開資訊顯示，5月26日，韓國科斯達克上市企業一諾儀器團隊曾到訪昌紅科技，雙方圍繞MPO等產品市場供需等內容開展交流。
-
----
-
-### 2026-06-09 18:03:21  #資料 #國際
-
-美國5月NFIB小型企業信心指數錄得95.3，為2024年10月以來新低。
-
----
-
-### 2026-06-09 18:03:10  #宏觀 #公司 #市場
-
-【財政部：發行2026年第三期和第四期儲蓄國債（電子式）】為籌集財政資金，支援國民經濟和社會事業發展，財政部決定發行2026年第三期儲蓄國債（電子式）和2026年第四期儲蓄國債（電子式）。兩期國債均為固定利率、固定期限品種。第三期期限3年，票面年利率為1.63%，最大發行額315億元；第四期期限5年，票面年利率為1.7%，最大發行額385億元。兩期國債發行期為2026年6月10日至6月19日，2026年6月10日起息，按年付息，每年6月10日支付利息。第三期、第四期分別於2029年6月10日、2031年6月10日償還本金並支付最後一次利息。兩期國債發行公告日至發行開始前一日，如遇中國人民銀行調整3年期金融機構存款基準利率，兩期國債取消發行。發行期內，如遇中國人民銀行調整3年期金融機構存款基準利率，兩期國債從調息之日起停止發行，未售出發行額度由財政部收回登出。（財政部）
 
 ---

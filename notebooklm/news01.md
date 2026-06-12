@@ -1,7 +1,373 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-13 02:22:26_
-_本檔包含 3700 則快訊，約 670653 字_
+_更新時間：2026-06-13 03:25:32_
+_本檔包含 3711 則快訊，約 669500 字_
+
+---
+
+### 2026-06-13 03:24:54  #MKT News #ROKU.O #Impact bullish
+
+Roku (ROKU.O) shares jumped 19% after reports the company is considering a sale.
+
+---
+
+### 2026-06-13 03:24:43  #MKT News
+
+Iranian foreign minister Araghchi said both sides will mutually respect each other’s sovereignty and that, for the first time in 47 years, the United States respects Iran’s sovereignty and has pledged not to interfere in Iran’s internal affairs.
+
+---
+
+### 2026-06-13 03:22:32  #公司 #市場
+
+【SpaceX上市抽走氧氣 其他太空股集體重挫】SpaceX備受期待的首次公開募股引發了其他火箭、衛星和太空相關公司股票週五的拋售潮。自去年年底SpaceX上市的訊息開始流傳以來，小型航天相關股票一度借勢上漲。但隨著埃隆·馬斯克的公司搶佔風頭並揭露出發展該行業所需的鉅額投資，這種上漲勢頭戛然而止。儘管SpaceX股價飆升，使其成為全球市值最高的公司之一，其他公司股價卻漲勢受阻。太空運輸公司Rocket Lab股價一度下跌13%。Redwire股價暴跌14%。衛星寬頻公司AST SpaceMobile下滑16%，火箭和航天器製造商Firefly Aerospace下跌多達20%。Intuitive Machines跌17%，太空旅行公司Virgin Galactic Holdings則一度暴跌38%。
+
+---
+
+### 2026-06-13 03:22:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian foreign minister Araghchi said U.S. threats against Iran should stop and Tehran will not yield to pressure.
+
+---
+
+### 2026-06-13 03:21:32  #MKT News
+
+The Wall Street Journal, citing sources, reports New York’s Times Square crystal ball will rise at the U.S. stock market close to honor SpaceX.
+
+---
+
+### 2026-06-13 03:20:20  #焦點 #國際
+
+伊朗外長：結束美國封鎖、重新開放霍爾木茲海峽是臨時協議的一部分內容。
+
+---
+
+### 2026-06-13 03:20:05  #其他
+
+白宮釋出國家安全總統備忘錄。
+
+---
+
+### 2026-06-13 03:19:44  #MKT News
+
+Iranian foreign minister Araghchi said hostile forces, including Israel, oppose Iran reaching an agreement with the US.
+
+---
+
+### 2026-06-13 03:19:18  #國際
+
+伊朗外長：以色列等敵對勢力反對伊朗與美國達成協議。
+
+---
+
+### 2026-06-13 03:19:02  #MKT News #Market Regions #Wall Street (US) #ROKU.O #Impact mixed
+
+Streaming-video platform Roku (ROKU.O) is in talks to sell itself and has been discussing a potential merger with at least one US media company, sources said.
+
+---
+
+### 2026-06-13 03:17:52  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iranian foreign minister Araghchi said the US lifting the blockade and reopening the Strait of Hormuz are part of the interim agreement.
+
+---
+
+### 2026-06-13 03:16:28  #國際
+
+伊朗外交部長：核問題以及解除對伊制裁事宜已延後至第二階段磋商，預計相關議題的談判時長為 60 天。
+
+---
+
+### 2026-06-13 03:16:09  #MKT News #Important #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+Iranian foreign minister Araghchi said under a temporary agreement all fronts, including Lebanon, will declare a ceasefire.
+
+---
+
+### 2026-06-13 03:15:50  #市場
+
+SpaceX股價漲幅收窄，報163.91美元，盤中最高觸及176.52美元。
+
+---
+
+### 2026-06-13 03:15:23  #國際
+
+伊朗外長：包括黎巴嫩在內的所有戰線的戰爭，都將在臨時協議框架下宣佈結束。
+
+---
+
+### 2026-06-13 03:14:34  #國際
+
+伊朗外交部長：這一諒解的結果是一份包含14條的備忘錄。
+
+---
+
+### 2026-06-13 03:14:19  #MKT News
+
+Iran's foreign minister Araghchi said the nuclear issue will be discussed at a later stage.
+
+---
+
+### 2026-06-13 03:14:13  #國際
+
+伊朗外長：核問題將在後續階段討論。
+
+---
+
+### 2026-06-13 03:13:55  #國際
+
+伊朗外長：協議尚未簽署；如果協議最終簽署，我將對每一項條款進行詳細說明。
+
+---
+
+### 2026-06-13 03:13:38  #MKT News
+
+Iranian foreign minister Araghchi said he has not yet signed the memorandum of understanding and that it may change.
+
+---
+
+### 2026-06-13 03:13:22  #其他
+
+據稱ROKU正在進行出售談判，其中可能包括媒體合作。
+
+---
+
+### 2026-06-13 03:13:22  #MKT News #Important
+
+Iranian foreign minister Araghchi said the agreement has not been signed; if it is ultimately signed he will detail each clause.
+
+---
+
+### 2026-06-13 03:13:07  #國際
+
+伊朗外交部發言人：諒解備忘錄尚未簽署，仍有可能作出調整。
+
+---
+
+### 2026-06-13 03:12:31  #MKT News
+
+France's foreign minister said after a Friday morning call with Iranian foreign minister Araghchi he remains cautious but positive signs are accumulating.
+
+---
+
+### 2026-06-13 03:12:00  #國際
+
+法國外交部長週五與伊朗外長會談後表示：我仍持審慎態度，但積極訊號正在不斷累積。
+
+---
+
+### 2026-06-13 03:11:44  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Iranian foreign minister Araghchi said Iran is the winner of a war with the United States and has become stronger afterward.
+
+---
+
+### 2026-06-13 03:11:43  #國際
+
+伊朗外長：伊朗在與美國的對抗後變得更加強大。
+
+---
+
+### 2026-06-13 03:11:11  #國際
+
+伊朗外長：伊朗是與美國對抗中的獲勝方。
+
+---
+
+### 2026-06-13 03:09:40  #國際
+
+法國外交部長：我們呼籲美國與伊朗抓住此次機遇，結束這一不可持續的局面。
+
+---
+
+### 2026-06-13 03:09:17  #MKT News
+
+French foreign minister urged the US and Iran to seize the opportunity to end this unsustainable situation.
+
+---
+
+### 2026-06-13 03:09:02  #國際
+
+伊朗議會議長卡利巴夫：作出的承諾就必須兌現。沒有“如果”、沒有“但是”、也沒有藉口。對於即將達成的協議，別無他法。
+
+---
+
+### 2026-06-13 03:08:56  #MKT News #WTI #Impact bearish #Brent
+
+Iranian parliament speaker Ghalibaf said commitments must be honored, with no 'ifs', no 'buts' and no excuses, and there is no alternative to the imminent agreement.
+
+---
+
+### 2026-06-13 03:06:09  #國際
+
+【美國應急儲備原油出口飆升至歷史新高 戰爭擾亂供應】由於伊朗戰爭引發有記錄以來最嚴重的供應中斷，美國應急儲備原油出口飆升至歷史新高。Kpler Ltd.彙編的海關資料顯示，今年迄今已有近2,200萬桶來自美國戰略石油儲備(SPR)的原油銷往海外市場。這一規模已超過四年前創下的前高。儘管美國應急儲備原油出口並不罕見，但今年出貨規模之大顯示，隨著霍爾木茲海峽近乎關閉引發供應中斷，全球市場正愈發依賴美國供應來渡過難關。從應急儲備庫流出的原油中，每三桶就有大約一桶出口。流向海外的數量可能還會更高，因為特朗普政府仍在釋放所承諾的全部1.72億桶原油。這是國際能源署(IEA)更大規模行動的一部分，旨在幫助緩衝伊朗戰爭對全球能源市場的影響。
+
+---
+
+### 2026-06-13 03:03:46  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7641元，較週四夜盤收盤漲79點。成交量382.94億美元。
+
+---
+
+### 2026-06-13 03:00:55  #MKT News #Market Regions #Greater China #Hang Seng Index
+
+Hang Seng Index futures night session closed up 0.02% at 24,706, trading 12 points below the spot index.
+
+---
+
+### 2026-06-13 03:00:01  #市場
+
+恒指期貨夜盤收漲0.04%，報24711.12點，低水6.98點。
+
+---
+
+### 2026-06-13 02:59:46  #公司
+
+據《The Information》報道，Meta在內部備忘錄中表示，受人工智慧成本飆升影響，公司計劃嚴控員工Token的使用。Meta 2026 年內部人工智慧使用成本預計將達數十億美元。
+
+---
+
+### 2026-06-13 02:59:37  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+The Information reports Meta Platforms (META.O) will tighten controls on employee token usage as AI costs surge; the company expects internal AI usage costs to reach tens of billions of dollars by 2026.
+
+---
+
+### 2026-06-13 02:56:09  #市場
+
+HSBC將中遠海控A股評級上調至買進，目標價18.50元人民幣；將中遠海能A股評級上調至持有，目標價17.20元人民幣。
+
+---
+
+### 2026-06-13 02:47:32  #國際
+
+真主黨：根據伊朗官員向我們傳達的資訊，以色列將依據該協議從黎巴嫩領土撤軍。黎巴嫩也被納入伊朗與美國停火協議之中。
+
+---
+
+### 2026-06-13 02:47:23  #MKT News #Important #Brent #Impact bearish #WTI #S&P500 #Impact bullish
+
+Hezbollah said, citing information from Iranian officials, that under the agreement Israel will withdraw its forces from Lebanese territory and that Lebanon is included in the Iran-US ceasefire agreement.
+
+---
+
+### 2026-06-13 02:43:16  #MKT News #Star Stocks #NVIDIA #Market Themes #Chip Wars #AI Revolution #Magnificent 7
+
+【SpaceX leases Colossus 1 compute capacity to Anthropic after technical issues】Sources said SpaceX has decided to lease the full capacity of its Memphis Colossus 1 data center to Anthropic after encountering technical challenges developing and running the Grok AI model there. SpaceX had planned a three-site cluster to train frontier models but ran into latency when linking Colossus 1 with two other sites over 10 miles away; aging network infrastructure and hardware heterogeneity—Colossus 1 hosts multiple generations of NVIDIA chips including Hopper and Blackwell plus older accelerators, while Colossus 2 and 3 are built more uniformly around NVIDIA Blackwell—impeded integration.
+
+---
+
+### 2026-06-13 02:39:50  #MKT News #Market Themes #AI Revolution #SPCX.O #Impact mixed
+
+People familiar with the matter said SpaceX (SPCX.O) encountered technical problems developing and running its Grok AI models at the Colossus 1 data center in Memphis and will lease the facility’s entire capacity to ANTHROPIC.
+
+---
+
+### 2026-06-13 02:37:45  #MKT News
+
+【Cuban president condemns US tightening of oil blockade】Cuban President Miguel Díaz-Canel on June 12 condemned US measures tightening an oil blockade on Cuba, saying Washington has barred third countries from supplying fuel and has expanded sanctions to Cuba’s state oil company, issuing new warnings to firms that trade with it.
+
+---
+
+### 2026-06-13 02:36:46  #公司 #國際
+
+【古巴國家主席譴責美國收緊對古石油封鎖】古巴國家主席迪亞斯-卡內爾12日譴責美國進一步收緊對古石油封鎖，指責美方的行徑“毫無底線”可言。迪亞斯-卡內爾在社交媒體上發文指出，美國禁止其他國家向古巴提供燃料後，又將制裁矛頭指向古巴國家石油公司，對與該公司開展貿易的各方發出新的威脅。他表示，美國企圖用“荒謬藉口”為其罪行辯護，其真實目的是讓古巴人民窒息，迫使他們在飢餓、匱乏和疾病面前屈服。（新華社）
+
+---
+
+### 2026-06-13 02:32:58  #國際
+
+【美國得克薩斯州發生大規模槍擊事件致2死10傷】美國得克薩斯州米德蘭市12日上午發生大規模槍擊事件，已造成包括槍手在內的兩人死亡、10人受傷。米德蘭市市長洛麗·布隆在新聞釋出會上說，該事件已有11名受害者，其中1人當場死亡。隨後，當地政府在社交媒體上釋出訊息說，槍手已確認死亡，現場仍受管控，相關調查正在進行。警方尚未說明槍手死亡原因。
+
+---
+
+### 2026-06-13 02:32:26  #MKT News
+
+【Mass shooting in Midland, Texas kills 2, injures 10】A mass shooting in Midland, Texas, on the morning of the 12th left two dead, including the shooter, and 10 wounded, Mayor Lori Blong said. Local authorities later confirmed the shooter was dead; the scene remains secured and under investigation. Police have not disclosed the cause of the shooter's death. US media reported the attack occurred at multiple locations and that the shooter was contained inside a building after a standoff with police.
+
+---
+
+### 2026-06-13 02:32:25  #其他
+
+SpaceX在將巨像一號算力叢集與其他站點聯網時，出現了延遲故障。
+
+---
+
+### 2026-06-13 02:32:00  #國際
+
+美國環境保護署釋出宣告稱，已向國會提交四項加州豁免法規，這些法規准許該州自行制定汽車、卡車等車輛的尾氣排放標準。
+
+---
+
+### 2026-06-13 02:31:59  #MKT News
+
+The US Environmental Protection Agency has submitted four California waiver rules to Congress. The waivers had previously granted California authority to set its own emissions standards for passenger cars and heavy-duty trucks.
+
+---
+
+### 2026-06-13 02:31:42  #其他
+
+SpaceX在內部團隊使用算力遇到問題後，對外出租了相關計算資源。
+
+---
+
+### 2026-06-13 02:31:15  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
+
+【Night session main contracts close】At 02:30 close, SHFE gold main contract rose 2.30% to 922 yuan/gram; SHFE silver main contract rose 5.22% to 16,488 yuan/kg; SC crude oil main contract fell 3.99% to 544 yuan/barrel.
+
+---
+
+### 2026-06-13 02:31:08  #市場
+
+WTI 7月原油期貨收報84.88美元/桶。NYMEX 7月天然氣期貨收報3.12美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0498美元/加侖，NYMEX 7月取暖油期貨收報3.4044美元/加侖。
+
+---
+
+### 2026-06-13 02:31:03  #MKT News #WTI #Impact bullish #Brent
+
+CENTCOM said U.S. forces continue a strict blockade of Iran. Since April 13, CENTCOM has directed 139 compliant commercial vessels to alter course and rendered nine noncompliant vessels unable to navigate.
+
+---
+
+### 2026-06-13 02:30:42  #國際
+
+美國中央司令部： 美軍持續對伊朗實施嚴密封鎖。自 4 月 13 日以來，美國中央司令部已引導 139 艘合規商船改道，並扣押 9 艘違規船隻。
+
+---
+
+### 2026-06-13 02:30:29  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange Gold T+D closed up 1.22% at 919.5 yuan/gram in the June 12 evening session; Shanghai Gold Exchange Silver T+D closed up 3.57% at 16,420 yuan/kg.
+
+---
+
+### 2026-06-13 02:30:02  #市場
+
+上期所原油期貨夜盤收跌3.48%，報549.10元人民幣/桶。滬金夜盤收漲2.30%，滬銀收漲5.22%。
+
+---
+
+### 2026-06-13 02:29:25  #市場
+
+秘魯主要股指上漲2%。
+
+---
+
+### 2026-06-13 02:28:55  #MKT News #Market Regions #Emerging Markets
+
+Peru's benchmark stock index rose 2%.
+
+---
+
+### 2026-06-13 02:26:11  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+【U.S. official: Iran commits to permanently forgoing nuclear weapons, U.S. insists on verification】A senior U.S. official told CNN that Iran has committed to permanently not seek or develop nuclear weapons, a concession Washington described as significant. The official said the deal is designed to establish verification and inspection mechanisms and to withhold benefits until the U.S. can verify Tehran has taken concrete steps to dismantle its nuclear program. Negotiators had discussed 10- or 20-year non‑weapons pledges; the official noted prior U.S. objections, including from Trump, that time‑limited bans were insufficient. The U.S. said it would permit Iran civilian nuclear energy but opposes infrastructure that could enable a weapons breakout.
+
+---
+
+### 2026-06-13 02:25:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Falls by 2.68% — Top commodity losers are Oat (-2.68%), Palm Oil (-1.67%) and Rice (-1.33%). Gains are led by Cocoa (2.32%), Coffee (1.42%) and Rubber (0.81%).
 
 ---
 
@@ -21998,318 +22364,5 @@ UN Secretary-General Guterres said the process in Lebanon must begin with a comp
 ### 2026-06-11 22:29:44  #其他
 
 聯合國秘書長古特雷斯：黎巴嫩程序必須以全面停火為起點。
-
----
-
-### 2026-06-11 22:29:36  #其他
-
-貝索斯：希望（人工智慧）在應用層面實施監管。
-
----
-
-### 2026-06-11 22:29:19  #MKT News
-
-UN Secretary-General Guterres said he fully supports the Lebanese government's monopoly on weapons.
-
----
-
-### 2026-06-11 22:29:09  #MKT News
-
-UN Secretary-General Guterres said all parties must pursue a diplomatic solution and fully respect Lebanon's territorial integrity, sovereignty and political independence.
-
----
-
-### 2026-06-11 22:28:36  #其他
-
-聯合國秘書長古特雷斯：我完全支援黎巴嫩政府對武器實行壟斷。
-
----
-
-### 2026-06-11 22:28:36  #資料 #央行 #國際
-
-【特朗普新任美聯儲主席或很快被迫加息】唐納德・特朗普總統任命的新任美聯儲主席凱文・沃什，此前曾主張美聯儲存在降息空間——這一立場令他深得總統青睞，而特朗普長期將降息視為首要政策目標。 上任僅數週，沃什便面臨通脹再度抬頭的局面，這最終可能迫使他在利率政策上背道而馳，違抗特朗普的意願，動用美聯儲最核心的工具來對抗通脹。 本週公佈的消費者價格指數（CPI）顯示，通脹率同比首次突破4%，創三年新高。這份火熱的通脹報告發布約一週後，沃什將主持其首次例行政策會議，此次會議或將奠定其任期初期的政策基調。與此同時，此前公佈的就業資料超預期，彰顯勞動力市場韌性——這是美聯儲關注的另一大經濟指標。 “沃什任期初期的關鍵考驗在於，他是否會落實特朗普極力要求的降息。”彭博經濟與彼得森國際經濟研究所經濟學家戴維・威爾科克斯表示，“經濟形勢的演變，或將令沃什及其同僚陷入兩難：拒絕降息，甚至可能加息，從而違抗特朗普。” 加息的邏輯顯而易見：經濟過熱、就業市場異常強勁，提高利率將增加各類貸款的借貸成本，進而抑制需求、防止經濟過熱。正如一位前美聯儲主席所言，美聯儲的經典角色，就是“在派對正酣時撤走酒杯”。問題在於，沃什是否會按下這一按鈕，以及何時行動。 美聯儲下週會議幾乎肯定會維持利率不變，但投資者愈發預測，央行將在年底前轉向加息。
-
----
-
-### 2026-06-11 22:27:53  #國際 #兩會
-
-【彭清華出席俄羅斯駐華使館國慶招待會】全國人大常委會副委員長彭清華11日出席俄羅斯駐華使館國慶招待會並致辭，表示中方願與俄方以元首重要共識為引領，加強發展戰略對接，夯實人民傳統友誼，密切協調配合，賦能彼此發展振興，推動構建新型國際關係。（新華社）
-
----
-
-### 2026-06-11 22:27:03  #國際
-
-美國眾議院未能獲得足夠票數透過H.R. 9238決議，該決議旨在修改2008年《外國情報監視法修正案》，以延長1978年《外國情報監視法》第七章授權，投票仍在進行中。
-
----
-
-### 2026-06-11 22:27:02  #MKT News
-
-A short-term extension of the Foreign Intelligence Surveillance Act (FISA) failed to secure the two-thirds majority required in the US House; voting is ongoing.
-
----
-
-### 2026-06-11 22:25:53  #其他
-
-貝索斯：持續尋找有意佈局製造業的投資方。
-
----
-
-### 2026-06-11 22:25:12  #MKT News #AMZN.O
-
-Amazon (AMZN.O) founder Bezos said it is still too early to consider taking Prometheus public. He said the team will continue to expand and will bring the product to market earlier; timing to be announced.
-
----
-
-### 2026-06-11 22:24:44  #其他
-
-貝索斯：普羅米修斯專案團隊規模將持續擴充。
-
----
-
-### 2026-06-11 22:24:18  #其他
-
-貝索斯：目前考慮普羅米修斯專案上市還為時過早。
-
----
-
-### 2026-06-11 22:24:05  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Adobe Systems Stock Price Hits 7-1/2-year Low — Adobe Systems shares decreased to 224.02 USD, the lowest since January 2019. Over the past 4 weeks, Adobe Systems lost 6.88%, and in the last 12 months, it decreased 45.79%.
-
----
-
-### 2026-06-11 22:24:04  #其他
-
-貝索斯：首批產品即將推出，具體時間敬請關注。
-
----
-
-### 2026-06-11 22:23:53  #國際
-
-美國國土安全部部長穆林：（在被問及世界盃和簽證問題時表示）我們向國際足聯說明了被拒籤者的情況，並解釋了拒籤的原因。
-
----
-
-### 2026-06-11 22:22:44  #Trading Economics #Markets #Argentina #Stock Market #Importance 0
-
-Stocks in Argentina Hit All-time High — Merval increased to an all-time high of 3306352.00 Index Points. Over the past 4 weeks, Merval Buenos Aires gained 18.24%, and in the last 12 months, it increased 50.96%.
-
----
-
-### 2026-06-11 22:21:24  #公司 #市場
-
-義大利AVIO公司股價在上漲5.86%後被自動暫停交易。
-
----
-
-### 2026-06-11 22:20:05  #MKT News #Important #Commodities #Energy
-
-U.S. EIA weekly natural gas storage for the week to June 5 due in 10 minutes.
-
----
-
-### 2026-06-11 22:19:31  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Amazon
-
-Amazon founder Jeff Bezos said he expects AI will cause labor shortages.
-
----
-
-### 2026-06-11 22:19:21  #其他
-
-貝索斯：認為人工智慧將引發勞動力短缺問題。
-
----
-
-### 2026-06-11 22:19:17  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
-
-Amazon (AMZN.O) founder Bezos said engineers are the customers for Prometheus and that the product remains in an early stage with a long way to go.
-
----
-
-### 2026-06-11 22:19:02  #國際
-
-【中國日本商會：絕大多數日資企業仍堅定看好並深耕中國市場】中國日本商會會長本間哲朗11日在北京表示，絕大多數日資企業仍然堅定看好並且深耕中國市場。
-
----
-
-### 2026-06-11 22:18:58  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Amazon #Nasdaq100 #Impact bullish
-
-Amazon founder Jeff Bezos has committed $41 billion to set up a new AI lab, Prometheus, which will use artificial intelligence to drive transformation in the manufacturing and engineering sectors.
-
----
-
-### 2026-06-11 22:17:55  #其他
-
-貝索斯在普羅米修斯融資一事上表示自己參與了B輪融資。
-
----
-
-### 2026-06-11 22:17:40  #公司 #市場
-
-【6月11日增減持彙總】據不完全統計，6月11日盤後，包括利爾化學、英搏爾、矽電股份、科翔股份、隆華新材、賽微微電、盛泰集團、太陽電纜、魅視科技、航天環宇在內的10家A股上市公司披露擬減持情況，當日暫無A股公司披露增持情況。
-
----
-
-### 2026-06-11 22:17:06  #其他
-
-【施小琳會見西甲聯盟主席特巴斯】6月11日，四川省委副書記、省長施小琳在成都會見西班牙職業足球聯盟（西甲聯盟）主席特巴斯一行。施小琳歡迎特巴斯再次來川訪問。她說，今年4月，四川代表團訪問西班牙並考察西甲聯盟總部，就足球文化及產業發展進行了深入交流。當前，四川正全力推動“十五五”開好局起好步，並把促進體育事業產業高質量發展作為一件大事來抓，以更好滿足人民群眾對美好生活嚮往、促進人的全面發展。四川足球文化底蘊深厚，職業足球蓬勃發展，球市持續火爆，群眾基礎紮實。西甲在賽事組織管理、商業開發運營、產業人才培育、足球文化推廣等方面擁有專業成熟經驗。希望強化常態長效對接合作，積極推動友誼賽交流，籌辦更多高品質賽事，深化青訓體系共建，聯動培養體育產業國際化人才，促進俱樂部深度合作，進一步提升四川足球專業能級和管理水平，系統化完善足球發展生態，以體育領域務實合作成果助力四川與西班牙友好關係再上新臺階。（四川釋出）
-
----
-
-### 2026-06-11 22:16:16  #其他
-
-巴基斯坦中央銀行外匯儲備增加2500萬美元，達到172億美元。
-
----
-
-### 2026-06-11 22:15:29  #其他
-
-貝索斯：我目前大部分精力都投入到普羅米修斯專案中。
-
----
-
-### 2026-06-11 22:14:30  #公司
-
-貝索斯：我們擁有多方算力資源，其中包括亞馬遜雲科技（AWS）。
-
----
-
-### 2026-06-11 22:14:08  #MKT News #Market Themes #The Trump Trade
-
-Canada's minister for US-Canada trade, Leblanc, said he was not surprised President Trump would not renew the US-Mexico-Canada Agreement (USMCA) on July 1.
-
----
-
-### 2026-06-11 22:14:04  #國際
-
-加拿大美加貿易事務部長勒布朗：感覺美國貿易代表格里爾看到了他一直在尋找的進展。
-
----
-
-### 2026-06-11 22:13:37  #MKT News #Important
-
-【Efort to raise prices across spray‑painting robot range by 5%–8%】Efort said it will increase prices on its entire spray‑painting robot product line and related options, software and workstation solutions by 5%–8%, effective July 1, 2026 (inclusive). The company cited sustained global supply‑chain tightness, sharp rises in core components, raw materials, energy and international logistics costs, and transport/delivery uncertainty from geopolitical factors, saying manufacturing cost pressure has exceeded what internal optimisation can absorb. Specific models and updated prices will be according to Efort’s official quotes.
-
----
-
-### 2026-06-11 22:13:32  #MKT News
-
-Canada's minister for U.S.-Canada trade affairs, Leblanc, said Canada will maintain bilateral arrangements with both the United States and Mexico outside the USMCA trilateral framework.
-
----
-
-### 2026-06-11 22:13:18  #其他
-
-貝索斯：目前暫未考慮（普羅米修斯）C輪融資。
-
----
-
-### 2026-06-11 22:13:11  #公司 #焦點
-
-【埃夫特：決定對旗下噴塗機器人全系列產品等實施價格調整 整體價格上調5%—8%】埃夫特機器人釋出產品調價通知函，當前全球供應鏈持續緊張，核心元器件、原材料、能源及國際物流成本顯著上升，疊加地緣政治帶來的運輸與交付不確定性，導致公司噴塗機器人產品的製造成本持續增加，成本壓力已超出內部最佳化所能消化的範圍。為持續保障產品質量、交付穩定性及技術研發投入，埃夫特決定對旗下噴塗機器人全系列產品及相關選件、軟體與工作站方案實施價格調整。整體價格上調5%—8%。具體型號及最新價格以埃夫特正式報價單為準。本次價格調整自2026年7月1日（含）起生效。
-
----
-
-### 2026-06-11 22:12:59  #其他
-
-貝索斯：我們擁有足夠的計算（能力），將需要更多。
-
----
-
-### 2026-06-11 22:12:44  #公司
-
-【12大AI巔峰對決 貝克漢姆亮相2026FIFA世界盃聯想嘉年華】2026FIFA世界盃聯想AI嘉年華啟幕盛典在北京舉行，聯想集團全球代言人、國際足球傳奇巨星大衛·貝克漢姆現身現場。活動上，貝克漢姆參與“巔峰對談”，與聯想集團高階副總裁、首席戰略官和首席市場官喬健以及經濟學家江小涓共同探討AI如何重塑體育行業。（新浪科技）
-
----
-
-### 2026-06-11 22:12:42  #國際
-
-加拿大美加貿易事務部長勒布朗：除三邊框架外，加拿大與美國、美國與墨西哥還將達成雙邊安排。
-
----
-
-### 2026-06-11 22:12:13  #公司 #國際
-
-【美國最高法院裁定駁回依據關鍵證券法提起的私人訴訟】美國最高法院週四支援了一批與貝萊德及其他資產管理公司關聯的投資基金，駁回了私人原告依據一項關鍵聯邦證券法提起的某些訴訟。 大法官們以6比3的投票結果推翻了下級法院的裁決。此前下級法院曾允許對沖基金薩巴資本主基金（Saba Capital Master Fund）依據《1940年投資公司法》提起訴訟，要求廢除限制激進股東投票權的基金章程。 特朗普政府支援了貝萊德、FS Credit Opportunities以及本案涉及的其他基金，包括亞當斯多元化股票基金、亞當斯自然資源基金和羅伊斯全球信託。
-
----
-
-### 2026-06-11 22:12:04  #國際
-
-加拿大美加貿易事務部長勒布朗：對於特朗普不會在 7 月 1 日續簽美墨加協定一事並不意外。
-
----
-
-### 2026-06-11 22:11:56  #Trading Economics #Economy #Serbia #Interest Rate #Importance 0
-
-Serbian Central Bank Holds Rates — The National Bank of Serbia kept its key policy rate unchanged at 5.75% during its June 2026 meeting, adopting a cautious stance while assessing the economic fallout from the Middle East war and the Strait of Hormuz closure. Policymakers expressed concerns that the energy crisis could fuel inflation and weigh on growth. The NBS now explicitly forecasts a temporary breach of the upper limit of its inflation tolerance band around the fourth quarter of 2026. The central bank targets inflation at 3%, with a tolerance range of ±1.5 percentage points. It also confirmed that if global oil price increases trigger stronger second-round effects, such as higher inflation expectations, the NBS will respond decisively using all available policy tools.
-
----
-
-### 2026-06-11 22:10:27  #MKT News
-
-U.S. Homeland Security Secretary Mulin said, when asked about World Cup visa issues, the department briefed FIFA on individuals denied visas and explained the reasons for those denials.
-
----
-
-### 2026-06-11 22:09:54  #MKT News #Important #XAUUSD #Impact bullish #WTI
-
-Head of Iran's parliamentary national security committee warned US President Trump would face a stronger and more painful retaliation for his threats.
-
----
-
-### 2026-06-11 22:09:22  #焦點 #國際
-
-伊朗議會國家安全委員會主席針對特朗普對伊朗的威脅回應稱：（特朗普）將遭到更猛烈、更慘痛的回擊。
-
----
-
-### 2026-06-11 22:09:09  #MKT News #Important #Macro & Rates #EURUSD #Impact bullish #DXY #Impact bearish
-
-【ECB raises policy rates 25bps in ‘insurance’ move; first major central-bank hike to curb inflation】ECB raised its three key policy rates by 25bps, the first increase in nearly three years. The bank sees inflation at 3.0% in 2026, 2.3% in 2027 and 2.0% in 2028 (March: 2.6%, 2.0%, 2.1%); core inflation is projected at 2.5% in 2026–27 and 2.2% in 2028 (March: 2.3%, 2.2%, 2.1%). Growth forecasts were downgraded to 0.8% in 2026, 1.2% in 2027 and 1.5% in 2028 (March: 0.9%, 1.3%, 1.4%). Policy will be decided meeting-by-meeting and remain data-dependent; no preset rate path or commitment on the neutral rate or neutral range. The ECB flagged the Middle East conflict as an upside inflation risk and said the hike is robust across scenarios; it warned the main risk is not hiking, which would make re-anchoring inflation harder. Market reaction: EUR/USD slightly firmer; eurozone yields marginally lower. At the press conference Lagarde said the decision was unanimous, not pre-emptive or aggressive but necessary; alternative options were not discussed. She noted an economic slowdown—especially in services—domestic demand weaker than in March, and an energy shock spreading through the economy. Inflation is broadening; energy-driven rises should push inflation above 2% in 1H 2027 before easing toward target in H2 2027. Short-term inflation expectations have risen while long-term expectations remain near target. No wage second-round effects observed; labour demand is cooling and wage growth is expected to moderate within a year, with labour-cost indicators pointing to easing in 2026. The Iran conflict is weighing on activity and is a downside growth risk; larger or more persistent energy-price shocks would push inflation higher and indirect costs are already emerging.
-
----
-
-### 2026-06-11 22:09:02  #市場 #央行 #國際
-
-【歐洲央行利率決議及釋出會要點一覽——“保險式”加息落地 成為主要央行中加息以抗擊通脹“第一人”】利率決議
-1. 利率決定：如期將三大利率上調25個基點，為近三年來首次，符合市場預期。
-2. 通脹前景：通脹存在上行風險。預計2026年通脹率為3%，2027年為2.3%，2028年為2.0%（3月預期分別為2.6%、2%、2.1%）；2026年核心通脹為2.5%，2027年為2.5%，2028年為2.2%（3月預期分別為2.3%、2.2%、2.1%）。
-3. 經濟前景：經濟增長面臨下行風險。預計2026年GDP增長率為0.8%，2027年為1.2%，2028年為1.5%。（3月預期分別為0.9%、1.3%、1.4%）。
-4. 指引前瞻：將密切關注形勢，並採取依賴資料和逐次會議的方式來確定適當的貨幣政策立場，未對特定利率路徑作出預先承諾。
-5. 中東影響：前景仍然不確定，中東戰爭正在產生通脹壓力。在多種情景下，提升利率的決定在應對沖擊演變及其對歐元區中期前景的影響方面是穩健的。
-6. 市場反應：歐元兌美元小幅走高，歐元區債券收益率小幅回落。
-拉加德釋出會
-1. 利率決定：決定是一致透過的。未討論任何其他提議（即既沒有討論維持利率不變，也沒有討論加息50個基點）。討論內容完全不涉及預防性加息。
-2. 前瞻指引：不會有預設的利率路徑。今天的決定並非激進的舉措。25個基點的加息是一個訊號，且是必要的。尚未討論中性利率和中性區間。主要風險在於不加息。如果讓通脹失控，重新控制將更加困難。
-3. 經濟情況：調查顯示經濟放緩，尤其是在服務業。消費應繼續成為增長的主要驅動力。國內需求將弱於3月份的預期。開始看到能源衝擊在整個經濟中擴散。
-4. 通脹前景：開始看到通脹的廣泛上升。能源價格上漲將進一步推高通脹，預計2027年上半年將在2%以上，而下半年將回歸目標水平。短期通脹預期上升，長期通脹預期總體穩定在目標水平。尚未看到與工資相關的二次效應。
-5. 就業市場：勞動力需求進一步降溫。工資增長預計將在一年內放緩。薪資追蹤指標繼續顯示2026年勞動力成本將有所緩和。
-6. 中東衝突：伊朗衝突正在影響經濟活動。一些潛在通脹指標因能源衝擊而上升。中東戰爭是增長的下行風險之一。如果能源價格上漲幅度更大或持續時間更長，通脹將進一步上升。伊朗戰爭帶來的間接成本也在顯現。
-
----
-
-### 2026-06-11 22:08:42  #MKT News #Market Themes #AI Revolution
-
-Canada's privacy commissioner found XAI violated Canadian privacy law. X Corp and XAI launched Grok, an AI-powered image-generation tool, but failed to implement appropriate privacy safeguards.
-
----
-
-### 2026-06-11 22:07:18  #公司
-
-加拿大隱私專員表示，X公司與xAI在推出由Grok人工智慧驅動的影象生成工具時，並未落實恰當的安全防護措施。
-
----
-
-### 2026-06-11 22:07:09  #其他
-
-墨西哥內政部長羅德里格斯：墨西哥保證世界盃賽事的安全。
-
----
-
-### 2026-06-11 22:06:59  #MKT News
-
-Venezuela's interim president Rodriguez said Mexico has guaranteed security for World Cup events.
 
 ---
