@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-12 21:11:03",
-  "count": 18514,
+  "updated": "2026-06-12 21:15:16",
+  "count": 18507,
   "items": [
+    {
+      "id": "4932938",
+      "time": "2026-06-12 21:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國廣播電視臺：伊朗表示正內部審議與美國簽署的諒解備忘錄。"
+    },
+    {
+      "id": "4932937",
+      "time": "2026-06-12 21:13:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦提議下調四檔稅率。"
+    },
+    {
+      "id": "4932936",
+      "time": "2026-06-12 21:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦提議在 2027 財年下調工薪階層個人所得稅。"
+    },
+    {
+      "id": "te:markets:558740",
+      "time": "2026-06-12 21:13:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise on US-Iran Deal Hopes — Futures tracking the S&P/TSX Composite Index edged higher on Friday amid renewed optimism over US-Iran diplomacy. According to senior officials, the US and Iran may sign an agreement to reopen the Strait of Hormuz on the sidelines of next week’s G7 summit. Oil prices fell below $90 per barrel, easing inflation concerns and reducing expectations of monetary tightening, supporting financial stocks and the broader market. Meanwhile, lower gold prices pressured mining shares. Also, Prime Minister Mark Carney said on Thursday that Canada will invest more than C$1 billion to promote competition among grocers and food processors in an effort to curb elevated food inflation."
+    },
+    {
+      "id": "4932935",
+      "time": "2026-06-12 21:13:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京多區釋出雷電黃色預警】6月12日晚，北京通州區、平谷區、朝陽區、密雲區、大興區、豐臺區、延慶區、懷柔區等多區釋出雷電黃色預警。"
+    },
+    {
+      "id": "4932934",
+      "time": "2026-06-12 21:13:07",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴基斯坦財政部長在預算演講中宣佈多項減稅舉措。"
+    },
+    {
+      "id": "mkt:019ebbf6-f94a-7dd8-afdf-2a78fb5e0d94",
+      "time": "2026-06-12 21:13:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING: Fed meeting likely to have greater impact on euro than ECB decision】ING analyst Chris Turner said the upcoming Fed policy meeting is likely to be more important for EUR/USD than the ECB's Thursday rate decision. The ECB has signaled further hikes and markets price a July move, but Turner said markets have already priced an aggressive ECB tightening cycle and are reluctant to push that view further, keeping EUR/USD below 1.16. Markets also expect the Fed to hike later this year; unless the Fed rebuts that outlook at Wednesday's meeting, the dollar should remain firm."
+    },
+    {
+      "id": "4932932",
+      "time": "2026-06-12 21:10:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社12日援引一名接近伊朗談判團隊的訊息人士的話報道，美國總統特朗普和一些外國媒體聲稱“（美伊）協議已經最終敲定，並計劃於本週日在日內瓦簽署”的說法“完全是無稽之談”。（新華社）"
+    },
+    {
+      "id": "4932931",
+      "time": "2026-06-12 21:10:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【報告：油價擴大跌幅，受美伊可能達成協議影響】原油期貨擴大跌幅，市場更看重美伊達成協議的預期，而不是談判遇到更多障礙的可能性，儘管伊朗國家媒體援引官員的話稱，德黑蘭尚未做出最終決定。Spartan Capital的Peter Cardillo在一份報告中表示，原油價格在近期區間的低端交易，並可能保持在該水平，因為據報道，該提議要求在30天內全面重新開放霍爾木茲海峽。“請記住，全球庫存仍然相對較低，需要時間來重建，這應該會為價格提供基礎支撐。“西得州中質油下跌2.7%，報每桶85.39美元，Brent下跌2.3%，報88.30美元。"
+    },
     {
       "id": "4932930",
       "time": "2026-06-12 21:09:48",
@@ -170433,165 +170516,6 @@
         "S&P500"
       ],
       "text": "White House National Economic Council director Hassett said the Federal Reserve should not raise rates and there is room to cut; the Fed has fallen behind the curve and substantial scope for rate reductions remains."
-    },
-    {
-      "id": "4919905",
-      "time": "2026-06-05 21:15:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "羅馬尼亞國防部長表示，烏克蘭已通報無人機自毀時間安排。"
-    },
-    {
-      "id": "4919904",
-      "time": "2026-06-05 21:14:51",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【“美聯儲傳聲筒”：非農報告說明短期內降息的理由已基本不復存在】“美聯儲傳聲筒”Nick Timiraos：今年春季招聘活動重新加速，將為那些擔憂通脹、並認為當前利率水平過低、無法抑制新一輪價格壓力的美聯儲官員提供更多依據。這份就業報告不會徹底解決美聯儲今年晚些時候應在多大程度上考慮加息的爭論，但它確實進一步說明，短期內降息的理由已經基本不復存在。"
-    },
-    {
-      "id": "mkt:019e97ec-11cc-7fff-a931-887a2a05cdd8",
-      "time": "2026-06-05 21:14:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【TIMIRAOS: Nonfarm payrolls report indicates near-term case for rate cuts has largely disappeared】TIMIRAOS said a reacceleration in spring hiring strengthens the case for Fed officials worried about inf and who view current rates as too low to curb a new round of price pressures. He said the jobs report will not settle the debate over the extent of further tightening later this year, but it further reduces the near-term case for rate cuts."
-    },
-    {
-      "id": "4919903",
-      "time": "2026-06-05 21:14:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國和寮國將發表關於構建新時代全天候中老命運共同體的聯合宣告。（新華社）"
-    },
-    {
-      "id": "4919902",
-      "time": "2026-06-05 21:14:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞國防部長表示，康斯坦察港附近的現有雷達能夠探測到高空飛行的金屬物體。"
-    },
-    {
-      "id": "4919901",
-      "time": "2026-06-05 21:14:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國白宮國家經濟委員會主任哈塞特：美聯儲不應加息，後續仍存在降息空間。"
-    },
-    {
-      "id": "4919900",
-      "time": "2026-06-05 21:13:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞松科技：擬定增募資不超7.84億元 用於高精高速六軸機器人產業化專案等】瑞松科技(688090.SH)公告稱，公司董事會審議透過向特定物件發行A股股票預案，擬募集資金不超過7.84億元，用於高精高速六軸機器人產業化專案、總部及研發中心升級專案、補充流動資金及償還銀行貸款。"
-    },
-    {
-      "id": "4919899",
-      "time": "2026-06-05 21:13:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，希臘計劃對加密貨幣徵收資本利得稅。"
-    },
-    {
-      "id": "4919898",
-      "time": "2026-06-05 21:12:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本補充預算案將致財政收支轉為赤字】日本國會5日透過2026財年（2026年4月至2027年3月）補充預算案。受此影響，日本政府原本預計實現盈餘的基礎財政收支轉為赤字。根據預算案，補充預算總額約為3.11萬億日元（1美元約合160日元），其中約2.5萬億日元為“應對中東局勢預備費”。相關預算財源全部透過發行赤字國債籌措。（新華社）"
-    },
-    {
-      "id": "mkt:019e97ea-36d5-7fff-a931-8387898eb83a",
-      "time": "2026-06-05 21:12:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HASSETT, director of the White House National Economic Council, said the Federal Reserve can monitor inflation developments and remain on the sidelines before taking any action."
-    },
-    {
-      "id": "4919897",
-      "time": "2026-06-05 21:12:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "羅馬尼亞國防部長表示，烏克蘭通報無人機漂流向羅馬尼亞，使得官方得以在無人機自爆前疏散該區域人員。"
-    },
-    {
-      "id": "4919896",
-      "time": "2026-06-05 21:12:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "哈西特：美聯儲可靜觀通脹走勢，暫緩落地政策動作。"
-    },
-    {
-      "id": "4919895",
-      "time": "2026-06-05 21:11:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國白宮：就業資料非常出色！"
-    },
-    {
-      "id": "mkt:019e97e8-f8b1-7fff-a931-7e62fc5b81ca",
-      "time": "2026-06-05 21:11:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "White House says U.S. jobs data were very strong."
-    },
-    {
-      "id": "4919894",
-      "time": "2026-06-05 21:11:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "Nick Timiraos：美聯儲在4月FOMC議息宣告中維持寬鬆傾向。市場爭論重心已然越過是否轉向中性立場，轉而聚焦兩點：最早或7月轉向緊縮立場；何時撤銷2025年預防性降息。"
-    },
-    {
-      "id": "mkt:019e97e8-cfbf-7fff-a931-713def7c26f5",
-      "time": "2026-06-05 21:11:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Wall Street Journal reports U.S. leisure and hospitality payrolls rose by 70,000 in May; hiring tied to World Cup events may have been a contributing factor."
     }
   ]
 }
