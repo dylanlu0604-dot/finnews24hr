@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-13 02:02:35",
-  "count": 18436,
+  "updated": "2026-06-13 02:06:37",
+  "count": 18433,
   "items": [
+    {
+      "id": "mkt:019ebd02-fe28-7dd8-afe5-1ee3b76bcd37",
+      "time": "2026-06-13 02:05:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Katz signals possible renewed use of force to prevent Iran acquiring nuclear weapons】Israel Defense Minister Katz said Israel must retain the independent capability to prevent Iran from obtaining nuclear weapons and has, along with Prime Minister Netanyahu, ordered the IDF to prepare accordingly. Katz said US President Trump is pursuing a deal with Iran from US interests that should include the shared US-Israel objective of blocking Iranian nuclear capability and urged firmness on Iran’s missile program and proxy networks. The statement added Israel will not withdraw from its security zones in Lebanon, Syria or Gaza and said Israel’s security posture aims to counter threats “near and far,” not compromise."
+    },
+    {
+      "id": "4933292",
+      "time": "2026-06-13 02:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以防長暗示未來以色列或再動武阻止伊朗擁核】以色列國防部長卡茨12日發表宣告說，以色列必須確保未來“有能力展開獨立行動，以阻止伊朗獲得核武器”，為此他與以總理內塔尼亞胡已指示以軍做好相應準備。《以色列時報》認為，卡茨上述言論暗示，未來以色列或再次動用武力阻止伊朗擁核。卡茨在宣告中說，美國總統特朗普正從美國利益出發，推動與伊朗達成協議，這其中也包括美以共同利益——即阻止伊朗獲得核武器。卡茨說，“我們期望他（特朗普）堅持這一原則，並在伊朗導彈計劃和‘恐怖主義代理人’問題上也堅持原則”。宣告還稱，以色列不會從其在黎巴嫩、敘利亞和加沙地帶佔領的所謂“安全區”撤軍。宣告稱，以色列的安全原則是同時應對“來自近處和遠處的威脅”，“而不是妥協和讓步”。（新華社）"
+    },
+    {
+      "id": "mkt:019ebd02-1272-7dd8-afe5-1356c2a28f81",
+      "time": "2026-06-13 02:04:49",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "Boeing (BA.N) said after evaluation its T-7A trainer does not meet the US Navy’s undergraduate jet training system requirements and has notified the Navy it will not bid in the current solicitation."
+    },
+    {
+      "id": "4933291",
+      "time": "2026-06-13 02:02:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic ：塔塔諮詢服務（TCS）與 Anthropic 達成合作，面向受監管行業推出Claude大模型。"
+    },
+    {
+      "id": "4933290",
+      "time": "2026-06-13 02:02:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波音公司：經評估，T-7A 教練機無法滿足美國海軍初級噴氣式教練機系統的使用要求。"
+    },
     {
       "id": "4933289",
       "time": "2026-06-13 02:00:47",
@@ -169672,78 +169719,6 @@
         "MKT News"
       ],
       "text": "Democratic Republic of the Congo (DRC) says confirmed Ebola cases have risen to 452, including 82 deaths."
-    },
-    {
-      "id": "4920270",
-      "time": "2026-06-06 02:06:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗石油部就南帕爾斯煉油廠相關事宜表態：兩座受損煉油廠的殘骸清理工作已完成六成。"
-    },
-    {
-      "id": "mkt:019e98f6-8907-7665-830b-9217e80f3836",
-      "time": "2026-06-06 02:05:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) is reportedly considering launching a consumer AI agent priced at $200 per month, The Information reports."
-    },
-    {
-      "id": "4920269",
-      "time": "2026-06-06 02:05:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta據悉考慮對消費者AI Agent收取每月200美元的費用。"
-    },
-    {
-      "id": "mkt:019e98f4-c1b0-7665-830b-8a74e707de17",
-      "time": "2026-06-06 02:03:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump is vetting five candidates for the Director of National Intelligence post."
-    },
-    {
-      "id": "mkt:019e98f4-b967-7665-830b-8397095fd137",
-      "time": "2026-06-06 02:03:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump concluded a speech aboard Air Force One."
-    },
-    {
-      "id": "mkt:019e98f4-ab52-7665-830b-7d36384ecbf9",
-      "time": "2026-06-06 02:03:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said planned IPOs for Fannie Mae and Freddie Mac are not ruled out, but there is no need to rush to proceed."
-    },
-    {
-      "id": "mkt:019e98f4-aa0f-7665-830b-75864a3b2b21",
-      "time": "2026-06-06 02:03:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosatom said Ukrainian drones struck engineers carrying out demining and power-line repairs around the Zaporizhzhia nuclear plant, wounding three people, two seriously."
-    },
-    {
-      "id": "mkt:019e98f4-a9b3-7665-830b-6846d2df47d2",
-      "time": "2026-06-06 02:03:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say California and New York are among the states preparing to sue to block the Paramount deal."
     }
   ]
 }
