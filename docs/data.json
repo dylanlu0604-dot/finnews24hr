@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-13 02:56:42",
-  "count": 18406,
+  "updated": "2026-06-13 03:01:17",
+  "count": 18402,
   "items": [
+    {
+      "id": "4933311",
+      "time": "2026-06-13 03:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.04%，報24711.12點，低水6.98點。"
+    },
+    {
+      "id": "4933310",
+      "time": "2026-06-13 02:59:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "據《The Information》報道，Meta在內部備忘錄中表示，受人工智慧成本飆升影響，公司計劃嚴控員工Token的使用。Meta 2026 年內部人工智慧使用成本預計將達數十億美元。"
+    },
+    {
+      "id": "mkt:019ebd34-3af1-7dd8-afe5-be96ec7e37da",
+      "time": "2026-06-13 02:59:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "The Information reports Meta Platforms (META.O) will tighten controls on employee token usage as AI costs surge; the company expects internal AI usage costs to reach tens of billions of dollars by 2026."
+    },
+    {
+      "id": "4933309",
+      "time": "2026-06-13 02:56:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "HSBC將中遠海控A股評級上調至買進，目標價18.50元人民幣；將中遠海能A股評級上調至持有，目標價17.20元人民幣。"
+    },
     {
       "id": "4933308",
       "time": "2026-06-13 02:47:32",
@@ -169359,86 +169397,6 @@
         "其他"
       ],
       "text": "英國央行行長貝利：脫歐導致市場規模出現萎縮。"
-    },
-    {
-      "id": "mkt:019e9929-4677-7665-830c-8136bae36398",
-      "time": "2026-06-06 03:01:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Philadelphia Semiconductor Index dropped nearly 9% intraday in U.S. afternoon trading."
-    },
-    {
-      "id": "4920306",
-      "time": "2026-06-06 03:00:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：特朗普特使前往田納西州密會核專家 以待在伊朗核談判中發揮作用】據AXIOS報道，美國中東問題特使威特科夫及庫什納週四前往田納西州橡樹嶺的國家實驗室，與一支技術專家團隊進行磋商，該團隊可能在與伊朗的核談判中發揮作用。當前，白宮正試圖與伊朗達成一份諒解備忘錄（MOU），以結束衝突並啟動深入的核談判，並希望在談判啟動時能有專家隨時待命。據參與調解的美國官員和地區訊息人士稱，美國與伊朗在諒解備忘錄的若干細節上仍存在分歧。訊息人士將此次談判描述為已進入最後階段，但最終能否達成協議尚不明朗。一位美國官員表示：“在橡樹嶺舉行的會議並不意味著協議即將達成，但它表明談判已進入非常嚴肅的階段，達成協議的可能性很大，我們希望做好準備。” 此外，有兩名美國官員證實，他們與庫什納正在訪問橡樹嶺能源部的設施。這兩位美國官員表示，最近組建了一支約100人的專家團隊，以便在達成初步協議後參與核談判。特使此行正是為了會見該團隊成員，並商討為可能實施的核協議做準備。"
-    },
-    {
-      "id": "mkt:019e9928-9263-7665-830c-794c5d617f20",
-      "time": "2026-06-06 03:00:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "US consumer credit rose $20.73 bln in April, vs $18.0 bln expected; prior March reading revised from $24.855 bln to $22.23 bln."
-    },
-    {
-      "id": "4920305",
-      "time": "2026-06-06 03:00:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國4月消費信貸 207.3億美元，預期180億美元，前值由248.55億美元修正為222.3億美元。"
-    },
-    {
-      "id": "mkt:019e9928-5c19-7665-830c-77912f81d128",
-      "time": "2026-06-06 03:00:19",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Consumer Credit (Apr) | actual 20730000000B | consensus 18000000000B | previous 24855000000B"
-    },
-    {
-      "id": "mkt:019e9928-517b-7665-830c-68d1983b28ba",
-      "time": "2026-06-06 03:00:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Axios: Trump envoys meet nuclear experts at Oak Ridge ahead of possible Iran talks role】Axios reports Trump Middle East envoy Witkoff and Jared Kushner visited Oak Ridge National Laboratory in Tennessee on Thursday to consult a technical team that could support talks with Iran. The White House is seeking a memorandum of understanding to halt hostilities and launch deeper nuclear negotiations and wants experts on standby at the start of talks. U.S. officials say disagreements remain on several MOU details; sources describe negotiations as in a late stage but say an agreement is not certain. A U.S. official said the Oak Ridge meeting does not mean a deal is imminent but signals talks have reached a serious phase and increases the chance of agreement, so planners are preparing. Two U.S. officials confirmed Kushner’s visit to the Department of Energy facility. Officials have recently assembled roughly a 100-person expert team to join negotiations if a preliminary agreement is reached; the envoys met team members to discuss implementation readiness."
-    },
-    {
-      "id": "4920304",
-      "time": "2026-06-06 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌1.39%，報24543.01點，低水418.94點。"
-    },
-    {
-      "id": "4920303",
-      "time": "2026-06-06 02:58:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：SpaceX 承銷投行提議管控散戶交易者，此舉引發市場強烈反對。訊息稱摩根士丹利要求相關機構向第三方共享資料，部分券商據悉拒絕配合摩根士丹利的相關資料調取要求。"
     }
   ]
 }
