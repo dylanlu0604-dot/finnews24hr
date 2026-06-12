@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-13 05:27:16",
-  "count": 18437,
+  "updated": "2026-06-13 05:31:07",
+  "count": 18433,
   "items": [
+    {
+      "id": "4933456",
+      "time": "2026-06-13 05:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及蘇伊士省一汽車與火車相撞 8人死亡】埃及蘇伊士省政府12日發表宣告說，該省當天發生一起火車與一輛私家車相撞事故，造成8人死亡。宣告說，事故發生在蘇伊士省迦納延區的沙盧法區域。事發時，這輛汽車試圖橫穿一個非正規的鐵路道口，與行駛中的火車相撞。（新華社）"
+    },
+    {
+      "id": "4933455",
+      "time": "2026-06-13 05:27:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴總理稱美伊協議最終文字達成】巴基斯坦總理夏巴茲當地時間6月12日晚在社交媒體平臺上發文說，“在巴基斯坦持續進行緊張斡旋之際，我們完全清楚，一些企圖破壞和平協議的人正在不斷散佈虛假資訊。撇開這些雜音不談，我們可以確認，各方已就和平協議最終文字達成一致。目前，巴基斯坦正與（美伊）雙方密切合作，敲定後續步驟。和平從未像此刻這般觸手可及。” 據巴基斯坦媒體報道，伊朗外長阿拉格齊將於今天（6月13日）訪問巴基斯坦。 另據伊朗官方通訊社伊通社援引知情人士訊息報道，巴基斯坦副總理兼外長達爾即將啟程前往瑞士日內瓦，繼續推進在伊朗與美國之間的斡旋工作。（CCTV國際時訊）"
+    },
     {
       "id": "4933454",
       "time": "2026-06-13 05:22:11",
@@ -169625,69 +169641,6 @@
         "MKT News"
       ],
       "text": "【5.4-magnitude earthquake off southwestern Mexico】The European-Mediterranean Seismological Centre (EMSC) said a 5.4-magnitude quake struck offshore Guerrero state at 14:55 local time on the 5th, at a depth of 32 km. No casualties or damage have been reported."
-    },
-    {
-      "id": "4920425",
-      "time": "2026-06-06 05:29:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：馬斯克之前有過一段不愉快的經歷，但現在他是我朋友。"
-    },
-    {
-      "id": "mkt:019e99b1-4cb0-7665-830d-d185e746491d",
-      "time": "2026-06-06 05:29:53",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index up 0.65% to 100.068 on the 5th】Dollar index (DXY) rose 0.65% to 100.068 at the New York close on the 5th. EUR/USD 1.1523, down from 1.1614 in the previous session; GBP/USD 1.3337, down from 1.3425. USD/JPY 160.17, up from 160.02; USD/CHF 0.7962, up from 0.7892; USD/CAD 1.3949, up from 1.3899; USD/SEK 9.4735, up from 9.3737."
-    },
-    {
-      "id": "4920424",
-      "time": "2026-06-06 05:29:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：埃隆·馬斯克80%的時候很聰明，20%的時候很糟糕。"
-    },
-    {
-      "id": "4920423",
-      "time": "2026-06-06 05:29:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【墨西哥西南部近海地區發生5.4級地震】根據歐洲-地中海地震中心報告，當地時間5日14時55分，墨西哥西南部格雷羅州近海地區發生5.4級地震，震源深度32公里。目前暫無人員傷亡及財產損失報告。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e99b0-cfee-7665-830d-cfcab1fefbfd",
-      "time": "2026-06-06 05:29:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices fall on the 5th】NYMEX July WTI fell $2.50 to $90.54/bbl (-2.69%); ICE Brent August fell $1.94 to $93.09/bbl (-2.04%) at the close on the 5th."
-    },
-    {
-      "id": "mkt:019e99b0-35d8-7665-830d-c4f442e124f7",
-      "time": "2026-06-06 05:28:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US Energy Secretary Wright said ensuring uninterrupted oil flows through the Strait of Hormuz, to help lower gasoline and diesel prices, requires reaching a solution with Iran."
     }
   ]
 }
