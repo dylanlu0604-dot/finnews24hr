@@ -18,6 +18,8 @@ from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv # 新增這一行
 
+import fetch_capital_calendar
+
 
 load_dotenv()                 # 新增這一行，它會自動抓取 .env 檔的內容
 
@@ -2163,6 +2165,12 @@ def main():
     em_total = sum(em_new_counts.values())
     em_summary = f"東方財富 {len(em_new_counts)} 欄目新增 {em_total} 筆 (target={EASTMONEY_TARGET})"
     print(f"[OK] 快訊：新浪新增 {sina_new_count} 筆｜{te_summary}｜MKT News {mktnews_pages} 頁新增 {mktnews_new_count} 筆｜{em_summary}｜累計 {total} 筆")
+
+    try:
+        calendar_count = fetch_capital_calendar.update_calendar_json()
+        print(f"[OK] 財經日曆更新 {calendar_count} 筆")
+    except Exception as e:
+        print(f"[WARN] 財經日曆更新失敗：{e}")
 
     # 2. 市場報價
     if HAS_YF:

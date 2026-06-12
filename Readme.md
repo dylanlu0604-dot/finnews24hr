@@ -88,6 +88,16 @@ OPENAI_SUMMARY_MODEL=gpt-4.1-mini
 python scraper/daily_report_update.py --date 2026-05-26 --run-hour 8
 ```
 
+### 10. 群益期貨財經日曆
+
+`scraper/fetch_capital_calendar.py` 會抓取群益期貨財經日曆的本週與下週頁面，解析每筆事件的日期、時間、國家、重要度、前值、預測值與實際值，輸出 `docs/economic_calendar.json`。此步驟已接入 `scraper/fetch_sina.py`，因此會跟著每 5 分鐘排程持續更新；前端「財經日曆」頁籤會每分鐘重新載入 JSON，以便實際值與預估值更新後盡快反映。
+
+手動測試：
+
+```bash
+python scraper/fetch_capital_calendar.py
+```
+
 ---
 
 ## 本機測試
@@ -113,3 +123,4 @@ python scraper/fetch_sina.py
 | 標籤篩選 | 點選任一標籤過濾，再次點選取消 |
 | 關鍵字搜尋 | 即時過濾，符合文字以橘色標亮 |
 | 最後更新時間 | 頂欄即時顯示（+08:00 台灣時間） |
+| 財經日曆 | 群益期貨本週/下週事件、前值/預測/結果，每 5 分鐘後端更新 |

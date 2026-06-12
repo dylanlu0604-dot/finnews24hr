@@ -487,6 +487,46 @@ function initLanguageSelect() {
   .daily-article h3 { color: var(--gold); font-size: .96rem; line-height: 1.45; margin: 1rem 0 .38rem; font-weight: 650; }
   .daily-article h3:first-child { margin-top: 0; }
   .daily-article p { margin: .45rem 0; }
+  .cal-day { margin-bottom: 1.15rem; }
+  .cal-day-title {
+    position: sticky; top: 0; z-index: 1;
+    display: flex; align-items: center; gap: .55rem;
+    font-family: 'DM Mono', monospace;
+    font-size: .66rem; letter-spacing: .08em;
+    color: var(--gold);
+    background: rgba(11,11,20,.96);
+    border-bottom: 1px solid var(--border);
+    padding: .46rem 0 .55rem;
+  }
+  .cal-day-count { color: var(--muted); margin-left: auto; font-size: .55rem; }
+  .cal-card {
+    display: grid; grid-template-columns: 66px 1fr;
+    gap: .78rem; padding: .82rem 0;
+    border-bottom: 1px solid rgba(28,28,46,.75);
+  }
+  .cal-time {
+    font-family: 'DM Mono', monospace;
+    font-size: .72rem; color: var(--gold);
+    line-height: 1.45; padding-top: .08rem;
+  }
+  .cal-country { display: block; color: var(--muted); font-size: .56rem; margin-top: .18rem; }
+  .cal-title {
+    color: var(--text); font-size: .84rem;
+    line-height: 1.55; text-decoration: none; font-weight: 600;
+  }
+  .cal-title:hover { color: var(--gold); }
+  .cal-meta {
+    display: flex; gap: .45rem; flex-wrap: wrap; align-items: center;
+    margin: .34rem 0 .42rem;
+    font-family: 'DM Mono', monospace; font-size: .55rem;
+    color: var(--muted);
+  }
+  .cal-stars { color: var(--gold); letter-spacing: .04em; }
+  .cal-values { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); }
+  .cal-value { background: rgba(15,15,26,.78); padding: .42rem .5rem; min-width: 0; }
+  .cal-value span { display: block; font-family: 'DM Mono', monospace; font-size: .5rem; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
+  .cal-value strong { display: block; margin-top: .12rem; color: #c8c5bd; font-size: .68rem; line-height: 1.35; word-break: break-word; }
+  .cal-value.actual.released strong { color: var(--green); }
   .log-card { padding: .85rem 0; border-bottom: 1px solid var(--border); }
   .log-card-head { display: flex; gap: .75rem; align-items: baseline; margin-bottom: .6rem; }
   .log-title { color: var(--gold); font-family: 'DM Mono', monospace; font-size: .72rem; letter-spacing: .08em; }
@@ -629,6 +669,7 @@ function initLanguageSelect() {
     <div class="center-tabs">
       <button class="c-tab active" data-view="ai">AI 摘要分析</button>
       <button class="c-tab" data-view="daily-news">每日新聞</button>
+      <button class="c-tab" data-view="calendar">財經日曆</button>
       <button class="c-tab" data-view="news">即時快訊</button>
       <button class="c-tab" data-view="central-bank">央行摘要</button>
       <div class="center-tab-updated" id="aiUpdated">載入中</div>
@@ -661,6 +702,20 @@ function initLanguageSelect() {
       <div id="dailyRunTabs" class="daily-run-tabs"></div>
       <div class="daily-scroll">
         <div id="dailyNewsDetail"><div class="ai-empty">載入每日新聞摘要中…</div></div>
+      </div>
+    </div>
+
+    <!-- 財經日曆面板 -->
+    <div class="center-view" id="view-calendar">
+      <div class="daily-head">
+        <span class="ai-pills-label">群益期貨財經日曆</span>
+        <span id="calendarCount" class="ai-period-count"></span>
+        <span id="calendarUpdated" class="daily-meta">每 5 分鐘更新</span>
+      </div>
+      <div id="calendarIntervalTabs" class="daily-run-tabs"></div>
+      <div id="calendarDateTabs" class="daily-run-tabs"></div>
+      <div class="daily-scroll">
+        <div id="calendarList"><div class="ai-empty">載入財經日曆中…</div></div>
       </div>
     </div>
 
@@ -773,6 +828,7 @@ const MARKET_URL = './market.json';
 const AI_SUMMARY_URL = './ai_summaries.json';
 const CENTRAL_BANK_SUMMARY_URL = './central_bank_summaries.json';
 const DAILY_NEWS_URL = './daily_news.json';
+const ECONOMIC_CALENDAR_URL = './economic_calendar.json';
 const MAX_RENDER_ITEMS = 500;
 const TAG_ORDER = [
   '全部',
@@ -1186,6 +1242,7 @@ document.querySelectorAll('.m-tab').forEach(tab => {
 let aiSummaries = [], activeAiId = '', activeAiMonth = '', activeAiDate = '';
 let centralBankSummaries = [], activeCbDate = '';
 let dailyNewsItems = [], activeDailyDate = '', activeDailyId = '';
+let economicCalendar = { weeks: [], items: [] }, activeCalendarInterval = 'this_week', activeCalendarDate = '';
 
 function aiDateKey(item) {
   return (item.slot_start || item.slot_end || '').slice(0, 10);
@@ -1286,6 +1343,134 @@ async function loadDailyNews() {
     document.getElementById('dailyUpdated').textContent = '載入失敗';
     document.getElementById('dailyNewsDetail').innerHTML =
       `<div class="ai-empty">無法載入每日新聞摘要<br>${attrEscape(e.message)}</div>`;
+  }
+}
+
+function calendarTodayKey() {
+  try {
+    return new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'Asia/Taipei',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit',
+    }).format(new Date());
+  } catch (e) {
+    return new Date().toISOString().slice(0, 10);
+  }
+}
+
+function calendarDateLabel(dateKey) {
+  if (!dateKey) return '全部';
+  const parts = dateKey.split('-');
+  if (parts.length !== 3) return dateKey;
+  const date = new Date(`${dateKey}T00:00:00+08:00`);
+  const weekdays = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
+  return `${parts[1]}.${parts[2]} ${weekdays[date.getDay()]}`;
+}
+
+function calendarStars(importance) {
+  const score = Math.max(0, Math.min(3, Number(importance) || 0));
+  return '★'.repeat(score) + '☆'.repeat(3 - score);
+}
+
+function calendarValueHtml(label, value, className = '') {
+  return `
+    <div class="cal-value ${className}">
+      <span>${attrEscape(label)}</span>
+      <strong>${attrEscape(value || '—')}</strong>
+    </div>
+  `;
+}
+
+function renderCalendarEvent(event) {
+  const actualClass = event.actual_released ? 'actual released' : 'actual';
+  return `
+    <article class="cal-card">
+      <div class="cal-time">
+        ${attrEscape(event.time || '—')}
+        <span class="cal-country">${attrEscape(event.country || '—')}</span>
+      </div>
+      <div>
+        <a class="cal-title" href="${attrEscape(event.url || '#')}" target="_blank" rel="noopener">${attrEscape(event.title || '未命名事件')}</a>
+        <div class="cal-meta">
+          <span class="cal-stars">${calendarStars(event.importance)}</span>
+          <span>${attrEscape(event.datetime || '')}</span>
+        </div>
+        <div class="cal-values">
+          ${calendarValueHtml('Previous', event.previous)}
+          ${calendarValueHtml('Forecast', event.forecast)}
+          ${calendarValueHtml('Actual', event.actual, actualClass)}
+        </div>
+      </div>
+    </article>
+  `;
+}
+
+function renderEconomicCalendar() {
+  const intervalTabs = document.getElementById('calendarIntervalTabs');
+  const dateTabs = document.getElementById('calendarDateTabs');
+  const list = document.getElementById('calendarList');
+  const count = document.getElementById('calendarCount');
+  const updated = document.getElementById('calendarUpdated');
+  if (!intervalTabs || !dateTabs || !list || !count || !updated) return;
+
+  const weeks = economicCalendar.weeks || [];
+  updated.textContent = economicCalendar.updated ? `更新 ${economicCalendar.updated}` : '每 5 分鐘更新';
+  if (!weeks.length) {
+    intervalTabs.innerHTML = '';
+    dateTabs.innerHTML = '';
+    count.textContent = '';
+    list.innerHTML = '<div class="ai-empty">尚無財經日曆資料。</div>';
+    return;
+  }
+
+  if (!weeks.some(week => week.interval === activeCalendarInterval)) {
+    activeCalendarInterval = weeks[0].interval || 'this_week';
+  }
+  const week = weeks.find(item => item.interval === activeCalendarInterval) || weeks[0];
+  const dates = week.dates || [];
+  const dateKeys = dates.map(item => item.date).filter(Boolean);
+  const todayKey = calendarTodayKey();
+  if (activeCalendarDate && !dateKeys.includes(activeCalendarDate)) {
+    activeCalendarDate = '';
+  }
+
+  intervalTabs.innerHTML = weeks.map(item => `
+    <button class="daily-run-btn ${item.interval === activeCalendarInterval ? 'active' : ''}" data-calendar-interval="${attrEscape(item.interval)}">
+      ${attrEscape(item.label || item.interval)} · ${item.count || 0}
+    </button>
+  `).join('');
+
+  dateTabs.innerHTML = [
+    `<button class="daily-run-btn ${!activeCalendarDate ? 'active' : ''}" data-calendar-date="">全部</button>`,
+    ...dates.map(item => {
+      const isToday = item.date === todayKey ? ' TODAY' : '';
+      return `<button class="daily-run-btn ${item.date === activeCalendarDate ? 'active' : ''}" data-calendar-date="${attrEscape(item.date)}">${attrEscape(calendarDateLabel(item.date))}${isToday} · ${item.count || 0}</button>`;
+    }),
+  ].join('');
+
+  const visibleDates = activeCalendarDate ? dates.filter(item => item.date === activeCalendarDate) : dates;
+  const visibleCount = visibleDates.reduce((sum, item) => sum + (item.events || []).length, 0);
+  count.textContent = `${visibleCount}/${week.count || 0} events`;
+  list.innerHTML = visibleDates.map(day => `
+    <section class="cal-day">
+      <div class="cal-day-title">
+        ${attrEscape(calendarDateLabel(day.date))}
+        <span class="cal-day-count">${day.count || 0} events</span>
+      </div>
+      ${(day.events || []).map(renderCalendarEvent).join('') || '<div class="ai-empty">此日無事件。</div>'}
+    </section>
+  `).join('') || '<div class="ai-empty">此期間無事件。</div>';
+}
+
+async function loadEconomicCalendar() {
+  try {
+    economicCalendar = await (await fetch(ECONOMIC_CALENDAR_URL + '?t=' + Date.now())).json();
+    renderEconomicCalendar();
+  } catch (e) {
+    document.getElementById('calendarUpdated').textContent = '載入失敗';
+    document.getElementById('calendarList').innerHTML =
+      `<div class="ai-empty">無法載入財經日曆<br>${attrEscape(e.message)}</div>`;
   }
 }
 
@@ -1674,6 +1859,21 @@ document.getElementById('dailyRunTabs').addEventListener('click', e => {
   renderDailyNews();
 });
 
+document.getElementById('calendarIntervalTabs').addEventListener('click', e => {
+  const item = e.target.closest('.daily-run-btn');
+  if (!item) return;
+  activeCalendarInterval = item.dataset.calendarInterval || activeCalendarInterval;
+  activeCalendarDate = '';
+  renderEconomicCalendar();
+});
+
+document.getElementById('calendarDateTabs').addEventListener('click', e => {
+  const item = e.target.closest('.daily-run-btn');
+  if (!item) return;
+  activeCalendarDate = item.dataset.calendarDate || '';
+  renderEconomicCalendar();
+});
+
 loadMarket();
 setInterval(loadMarket, 5 * 60 * 1000);
 loadAiSummaries();
@@ -1682,6 +1882,8 @@ loadCentralBankSummaries();
 setInterval(loadCentralBankSummaries, 10 * 60 * 1000);
 loadDailyNews();
 setInterval(loadDailyNews, 10 * 60 * 1000);
+loadEconomicCalendar();
+setInterval(loadEconomicCalendar, 60 * 1000);
 </script>
 </body>
 </html>
