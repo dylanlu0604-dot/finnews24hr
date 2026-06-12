@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-13 03:45:40",
-  "count": 18444,
+  "updated": "2026-06-13 03:49:40",
+  "count": 18449,
   "items": [
+    {
+      "id": "4933388",
+      "time": "2026-06-13 03:48:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "哥倫比亞財政部預計2026年通脹率為6.0%，此前預估為3.2%。"
+    },
+    {
+      "id": "4933387",
+      "time": "2026-06-13 03:48:27",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "哥倫比亞財政部預計2027年經濟增長2.2%。"
+    },
+    {
+      "id": "4933386",
+      "time": "2026-06-13 03:48:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "哥倫比亞財政部維持2026年經濟增長2.6%的預測。"
+    },
+    {
+      "id": "4933385",
+      "time": "2026-06-13 03:48:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數本週跌超0.3%】週五（6月12日）紐約尾盤，ICE美元指數跌0.12%，報99.739點，本週累計下跌0.33%，6月12日北京時間01:00達到100.314點，隨後迅速跳水至99.586點。彭博美元指數漲0.02%，報1206.98點，本週累跌0.40%，整體交投區間為1213.41-1205.55點。美元兌日元漲0.18%，報160.23日元，本週累跌0.04%，整體投區間為160.59-159.58日元。"
+    },
+    {
+      "id": "4933384",
+      "time": "2026-06-13 03:48:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "UNIFOR：UNIFOR與加拿大航空達成的協議規定，首年薪資上調12%，隨後三年每年遞增3%。"
+    },
+    {
+      "id": "4933383",
+      "time": "2026-06-13 03:47:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：霍爾木茲海峽不存在國際水域；我們的利劍將永遠懸在霍爾木茲海峽之上。"
+    },
+    {
+      "id": "4933382",
+      "time": "2026-06-13 03:47:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "UNIFOR：UNIFOR與加拿大航空客服代表正式批准四年期集體協議，含21%複合薪資漲幅及其他福利。"
+    },
+    {
+      "id": "4933381",
+      "time": "2026-06-13 03:46:32",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【交易員對美元看漲程度升至逾一年來最高水平】交易員對美元的看漲程度升至逾一年來最高水平，中東戰爭鞏固了美元的避險地位。根據美國商品期貨交易委員會（CFTC）週五公佈並由彭博彙編的資料，截至6月9日，對沖基金、資產管理公司及其他投機交易員累計持有價值278億美元的美元看漲頭寸。這是2025年2月以來最高水平。這一持倉變化顯示，市場對全球主要儲備貨幣的看漲情緒正在升溫。自2月底伊朗戰爭爆發以來，美元持續走強，並表現出對油價上漲的高度敏感性。"
+    },
     {
       "id": "mkt:019ebd5d-ba3e-7dd8-afe6-df06f9d2a059",
       "time": "2026-06-13 03:44:56",
@@ -169746,34 +169812,6 @@
         "Importance 2"
       ],
       "text": "WTI Falls as Iran Talks Stall and Demand Weakens — WTI crude oil futures slid 3% to around $90.3 per barrel on Friday as markets focused on signs of weaker global demand and the lack of a breakthrough in negotiations between Washington and Tehran. Although President Trump maintained that discussions with Iran are progressing, tensions remain elevated, with disagreements over Lebanon continuing to complicate efforts to secure a broader agreement. Concerns about consumption also weighed on prices after Chinese crude imports fell to their lowest level in ten years, reflecting reduced refinery activity and softer demand. Several analysts now expect global oil demand growth to slow significantly this year. Earlier gains driven by fears of prolonged disruptions in the Strait of Hormuz have faded somewhat, though uncertainty over the region remains high. In Oman, operations at the Mina Al Fahal export terminal were briefly disrupted by an explosion before resuming."
-    },
-    {
-      "id": "mkt:019e9953-faca-7665-830d-3b697c5fe863",
-      "time": "2026-06-06 03:47:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Hamas delegation arrives in Cairo to discuss implementing Gaza ceasefire】Hamas said its leadership delegation arrived in Cairo on the 5th and will begin talks with mediators from the 6th on practical implementation of a ceasefire in the Gaza Strip. The delegation, led by senior official Khalil al‑Hayya, is expected to meet Egyptian officials and mediators over several days to seek implementation of the phase‑one ceasefire agreement, halt Israeli attacks on Gaza and establish mechanisms to move to a phase‑two truce. The delegation will also meet Palestinian factions to present a unified national position and seek consensus on responding to challenges facing the Palestinian people."
-    },
-    {
-      "id": "4920347",
-      "time": "2026-06-06 03:47:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國司法部派員前往洛杉磯監督計票工作。"
-    },
-    {
-      "id": "4920346",
-      "time": "2026-06-06 03:46:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哈馬斯代表團抵達埃及 與斡旋方討論落實加沙停火】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）5日發表宣告說，其領導層代表團當天抵達埃及首都開羅，將於6日起與斡旋方討論切實在加沙地帶實現停火。宣告說，代表團由哈馬斯高階官員哈利勒·哈亞率領。會談預計持續數日，其間代表團將與埃方官員和相關斡旋人員會面，以期切實落實加沙停火第一階段協議，停止以色列對加沙地帶的持續襲擊，並建立進入停火第二階段的適當機制。宣告說，代表團還將與一些巴勒斯坦派別和政治力量會面，以就多個議題闡述統一的民族立場，並就如何應對巴勒斯坦人民面臨的挑戰達成共識。自2025年10月加沙停火第一階段協議生效以來，以色列不斷以哈馬斯違反停火協議為由發動襲擊。加沙地帶衛生部門6月4日釋出的資料顯示，自協議生效以來，以軍在加沙地帶的行動已造成947人死亡、2935人受傷。據《以色列時報》1日報道，加沙停火斡旋方計劃本週在埃及重啟與哈馬斯關於解除武裝的談判。這一談判目前基本陷入僵局，哈馬斯拒絕接受“和平委員會”有關解除武裝的提議，並要求以色列先切實履行加沙停火第一階段的協議條款。（新華社）"
     }
   ]
 }
