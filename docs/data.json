@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-12 23:04:25",
-  "count": 18487,
+  "updated": "2026-06-12 23:08:31",
+  "count": 18481,
   "items": [
+    {
+      "id": "4933171",
+      "time": "2026-06-12 23:06:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外長稱伊美“從未如此接近達成”諒解備忘錄】伊朗外交部長阿拉格齊12日在社交媒體發文說，伊美“從未如此接近達成”諒解備忘錄。在最終敲定之前，媒體應避免對其內容進行猜測。伊方將適時公佈所有細節。（新華社）"
+    },
+    {
+      "id": "4933170",
+      "time": "2026-06-12 23:05:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞伍德賽德能源集團（Woodside Energy Group）ADR漲幅擴大至14%。"
+    },
+    {
+      "id": "mkt:019ebc5c-5614-7dd8-afe1-bc7e7b6dc94a",
+      "time": "2026-06-12 23:03:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said Iran would receive economic benefits if it complies with the rules."
+    },
+    {
+      "id": "4933169",
+      "time": "2026-06-12 23:03:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：如果伊朗遵守規定，它將獲得經濟利益。"
+    },
     {
       "id": "mkt:019ebc5c-0726-7dd8-afe1-b639c3629336",
       "time": "2026-06-12 23:03:28",
@@ -170157,112 +170190,6 @@
         "國際"
       ],
       "text": "美國財政部發布涉伊朗相關制裁名單。"
-    },
-    {
-      "id": "mkt:019e9853-d50a-7665-8307-77fdde3063ff",
-      "time": "2026-06-05 23:08:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Fitch: Strait of Hormuz reopening would return oil market to surplus】Fitch says the Strait of Hormuz closure caused a logistics-driven supply shock but has not altered the market’s underlying trajectory. Assuming the strait reopens around end‑July (implying a five‑month closure), Fitch’s baseline expects rapid regional production recovery, strong non‑OPEC supply growth and potentially more aggressive OPEC policy to push the market back into surplus in Q4 2026 and weigh on prices; the house forecasts 2026 Brent at $87/bbl. Timing is highly uncertain, creating binary price risk; current gains reflect a temporary logistics shock rather than permanent loss of production capacity, and Brent should drop sharply from March–July highs after reopening."
-    },
-    {
-      "id": "4920126",
-      "time": "2026-06-05 23:07:14",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【金價下挫 非農就業資料提振對美聯儲加息的押注】金價大跌，強勁的美國就業資料提振了市場對美聯儲今年可能加息的押注，對黃金構成不利影響。金價一度下跌高達2.5%，最新公佈的美國5月非農就業人數增幅超過所有預期，推動債券收益率和美元走強。在中東緊張局勢推高能源價格之際，勞動力市場的強勁表現為美聯儲官員加息提供了空間。利率上升通常不利於不生息的黃金。布朗兄弟哈里曼公司的Elias Haddad稱，“黃金面臨實際收益率上升和美元走強的雙重不利因素。”Haddad表示，跌破200日移動均線這一衡量長期動能的指標預示著進一步下跌的風險。交易員目前已充分消化了美聯儲到12月加息25個基點的預期，並認為10月加息的可能性約為60%。在資料公佈之前，他們原本預計政策制定者的下一步行動將是在3月加息。美聯儲官員將於6月16日至17日在新主席凱文·沃什的主持下召開會議。"
-    },
-    {
-      "id": "mkt:019e9852-e1c7-7665-8307-689af458793a",
-      "time": "2026-06-05 23:07:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "Nasdaq Composite fell as much as 2% intraday."
-    },
-    {
-      "id": "4920125",
-      "time": "2026-06-05 23:06:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "法國巴黎銀行預計：美聯儲將在 2026 年 12 月、2027 年 1 月及 3 月各加息 25 個基點，此前該行預判政策利率將長期維持不變。"
-    },
-    {
-      "id": "4920124",
-      "time": "2026-06-05 23:06:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌2.00%，現報26294.290點；道指跌0.26%，現報51426.520點；標普500指數跌1.05%，現報7504.320點。"
-    },
-    {
-      "id": "4920123",
-      "time": "2026-06-05 23:06:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豐田5月在華新車銷量同比減少三成】6月5日，豐田汽車公司公佈，在中國市場的5月新車銷量為10.23萬輛，較上年同期減少31.7%。"
-    },
-    {
-      "id": "4920122",
-      "time": "2026-06-05 23:05:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京：俄始終對有意開展平等合作的國家持開放態度】當地時間5日，俄羅斯總統普京在聖彼得堡國際經濟論壇全體會議上發表講話時表示，俄羅斯始終對所有有意開展平等合作的國家持開放態度。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e9851-2e82-7665-8307-642abf8f410e",
-      "time": "2026-06-05 23:05:14",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact mixed",
-        "SSE Composite",
-        "CNH"
-      ],
-      "text": "【China issues private fund guidance covering 23 tln yuan market】China issued guidance on private funds on June 5 covering roughly 23 tln yuan of assets. The document said private venture funds have played a key role in supporting tech innovation and SMEs but some have deviated from mandates and shown weak internal controls. The guidance aims to steer private VC funds back to core tech/innovation activities, channel more capital to support the real economy, and purge low-quality private fund products. Private securities funds account for about 10-20% of A-share secondary market turnover."
-    },
-    {
-      "id": "mkt:019e9850-a7bb-7665-8307-5a5fcbb212b2",
-      "time": "2026-06-05 23:04:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Fitch Ratings expects global oil supply to exceed demand on a full-year average basis in 2026."
-    },
-    {
-      "id": "4920121",
-      "time": "2026-06-05 23:04:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上交所：將鳴鳴很忙(01768)、智譜(02513)等6只調入港股通標的】上交所公告，根據《上海證券交易所滬港通業務實施辦法》的有關規定，滬港通下港股通（以下簡稱港股通）標的名單發生調整，調入鳴鳴很忙(01768)、智譜(02513)、精鋒醫療-B(02675)、海致科技集團(02706)、壁仞科技(06082)、天數智芯(09903)，並自下一港股通交易日起生效。"
     }
   ]
 }
