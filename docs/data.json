@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-12 10:15:01",
-  "count": 18462,
+  "updated": "2026-06-12 10:18:53",
+  "count": 18461,
   "items": [
+    {
+      "id": "mkt:019eb99e-63df-7dd8-afcf-a15ee305e4f0",
+      "time": "2026-06-12 10:17:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US says it shot down two Iranian drones】U.S. forces shot down two Iranian attack drones, a U.S. official told media on June 11 ET, saying Iran \"intended to attack vessels transiting the Strait of Hormuz\" but the strait \"remains open to transit\"."
+    },
+    {
+      "id": "te:markets:558538",
+      "time": "2026-06-12 10:16:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "TTF Prices Down Over 4% — European natural gas prices declined more than 4% to around €47 per MWh, nearing a two-week low, after President Donald Trump said a US–Iran framework agreement was close. He had also cancelled planned US military strikes against Iran, saying negotiations with Tehran had been elevated to the highest levels of Iranian leadership and received approval. Still, uncertainty remained as Tehran has yet to confirm. The remarks also followed Trump’s earlier threats to seize Kharg Island and take control of Iran’s oil and gas markets, alongside an escalation in US–Iran hostilities earlier in the week. The absence of concrete agreements kept concerns over prolonged supply disruptions to flows through the Strait of Hormuz, which accounts for around one-fifth of global LNG supplies. In Europe, attention remains focused on replenishing gas storage ahead of the winter season, as the conflict tightens global supply and heightens competition for LNG cargoes."
+    },
+    {
+      "id": "4931638",
+      "time": "2026-06-12 10:16:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美稱擊落兩架伊朗無人機】據美國官員於美國東部時間時間6月11日晚對媒體表示，美軍擊落兩架伊朗攻擊型無人機。該官員稱，伊朗“意在襲擊經由霍爾木茲海峽過境的船隻”，但目前“霍爾木茲海峽仍持續通行”。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:558537",
+      "time": "2026-06-12 10:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indian Rupee Appreciates by 0.64% — Top currency gainer is Indian Rupee (0.64%). Biggest losers are New Zealand Dollar (-0.31%), South Korean Won (-0.28%) and Japanese Yen (-0.21%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "4931637",
+      "time": "2026-06-12 10:14:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【低空經濟概念持續走強，麥迪科技等漲停】低空經濟概念持續走強，麥迪科技、宗申動力、安泰科技、*ST嶺南、中航西飛、美湖股份、中航高科、應流股份、航天發展、通易航天、萬豐奧威、中信海直漲停，安達維爾、東土科技、萊斯資訊、西測測試、星宸科技、*ST航圖等跟漲。"
+    },
     {
       "id": "4931636",
       "time": "2026-06-12 10:13:55",
@@ -170166,61 +170217,6 @@
         "公司"
       ],
       "text": "【光刻機概念延續強勢 新萊應材、南大光電雙雙漲超10%】光刻機概念延續昨日強勢，新萊應材、南大光電漲超10%，江化微、蘇大維格、晶瑞電材、亞威股份、上海新陽跟漲。"
-    },
-    {
-      "id": "mkt:019e9593-4327-766c-9543-b78212a09d24",
-      "time": "2026-06-05 10:18:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Oman's Mina Al Fahal oil terminal has suspended crude loadings after an explosion, sources said."
-    },
-    {
-      "id": "4918517",
-      "time": "2026-06-05 10:17:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指下跌1%，報5781.85點。"
-    },
-    {
-      "id": "4918516",
-      "time": "2026-06-05 10:16:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貴州省農業發展集團黨委書記蘆忠於接受審查調查】中央紀委國家監委網站6月5日通報，據貴州省紀委監委訊息：貴州省農業發展集團有限責任公司黨委書記、董事長蘆忠於涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4918515",
-      "time": "2026-06-05 10:16:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，阿曼在爆炸發生後暫停法赫勒港碼頭的原油裝船作業。"
-    },
-    {
-      "id": "4918514",
-      "time": "2026-06-05 10:15:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎總統稱停火獲批後24小時內可實施】根據美國、以色列和黎巴嫩6月3日的聯合宣告，以色列和黎巴嫩同意實施停火，但前提是黎巴嫩真主黨停止開火，並從利塔尼河以南的黎巴嫩南部地區撤出武裝人員。對此，黎巴嫩總統奧恩4日表示，一旦獲得最終批准，黎以停火協議可在24小時內開始實施。奧恩表示，該協議是“最後一次機會”，並警告“如果錯失這一機會，各方都將承擔相應責任”。黎巴嫩真主黨領導人納伊姆·卡西姆4日表示，停火必須全面，不能將黎巴嫩南部與黎巴嫩其他地區區別對待。把解除真主黨武裝作為任何協議的基本目標，都意味著削弱黎巴嫩的力量，並對堅持抵抗的黎巴嫩人構成生存性威脅。"
-    },
-    {
-      "id": "te:markets:556670",
-      "time": "2026-06-05 10:15:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Drops by 0.96% — Top currency loser is South Korean Won (-0.96%). Meanwhile, Japanese Yen and Chinese Yuan were little changed."
     }
   ]
 }
