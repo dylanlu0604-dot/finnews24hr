@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-12 23:21:46",
-  "count": 18442,
+  "updated": "2026-06-12 23:26:01",
+  "count": 18439,
   "items": [
+    {
+      "id": "4933182",
+      "time": "2026-06-12 23:24:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報16298.00元。"
+    },
+    {
+      "id": "mkt:019ebc6e-d5d4-7dd8-afe1-e94899e1dabd",
+      "time": "2026-06-12 23:24:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Chevron (CVX.N) CEO said oil inventories could reach concerning levels by around July."
+    },
+    {
+      "id": "te:economy:558760",
+      "time": "2026-06-12 23:23:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Car Production",
+        "Importance 1"
+      ],
+      "text": "Brazil Car Production Hits Post-Pandemic High in May — Brazil's vehicle production rose 6.3% month-on-month to 253,600 units in May 2026, marking the strongest result for the month since 2019, before the pandemic. The increase was driven by a 21.5% jump in passenger car sales, supported in part by the strong performance of entry-level models under the Sustainable Car program. Light commercial vehicles, including pickups, vans, and cargo vans, also posted solid growth of 7.7%. In contrast, truck production fell 15.1%, while bus output declined 16.3%. Both segments are expected to recover as easier financing conditions under the Move Brasil 2 program become available."
+    },
+    {
+      "id": "4933181",
+      "time": "2026-06-12 23:23:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：伊朗人民將繼續捍衛國家的獨立、尊嚴和領土完整。"
+    },
+    {
+      "id": "4933180",
+      "time": "2026-06-12 23:22:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛龍CEO： 石油庫存或將在 7 月左右升至危險區間。"
+    },
+    {
+      "id": "mkt:019ebc6d-4cb0-7dd8-afe1-e63058f2ccda",
+      "time": "2026-06-12 23:22:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Wall Street Journal reports Goldman Sachs president said the SpaceX IPO demonstrates investor enthusiasm for artificial intelligence."
+    },
+    {
+      "id": "4933179",
+      "time": "2026-06-12 23:21:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雪佛龍CEO Mike Wirth：公司對（波斯灣）石油外流規模的看法並沒有美國總統特朗普的能源部長Wright那樣樂觀。"
+    },
+    {
+      "id": "mkt:019ebc6c-50f3-7dd8-afe1-d83ee205be14",
+      "time": "2026-06-12 23:21:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said the Iranian people will continue to defend the country’s independence, dignity and territorial integrity."
+    },
     {
       "id": "mkt:019ebc69-e38b-7dd8-afe1-d0c693a021bc",
       "time": "2026-06-12 23:18:36",
@@ -169730,108 +169808,6 @@
         "Brent"
       ],
       "text": "Putin said Russia is deliberately slowing the economy to preserve its healthy development."
-    },
-    {
-      "id": "mkt:019e9863-431c-7665-8308-4ae737c06bf0",
-      "time": "2026-06-05 23:24:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said he believes Russia will be attractive to investors."
-    },
-    {
-      "id": "mkt:019e9862-d28b-7665-8308-4176448ecccf",
-      "time": "2026-06-05 23:24:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin said he does not see any short-term threat to the Russian economy."
-    },
-    {
-      "id": "mkt:019e9862-c54a-7665-8308-3afe9617028e",
-      "time": "2026-06-05 23:24:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Fox News reported U.S. Energy Secretary wright said the U.S. will refill the Strategic Petroleum Reserve with 40 mln barrels of crude once the conflict with Iran ends."
-    },
-    {
-      "id": "4920154",
-      "time": "2026-06-05 23:24:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 我們沒有看到經濟面臨威脅，我們相信俄羅斯對投資仍具備吸引力。"
-    },
-    {
-      "id": "4920153",
-      "time": "2026-06-05 23:23:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源部長賴特： 伊朗衝突結束後，美國將向戰略石油儲備（SPR）增補 4000 萬桶原油。"
-    },
-    {
-      "id": "mkt:019e9861-bf8d-7665-8308-300a0d4e13f4",
-      "time": "2026-06-05 23:23:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Nasdaq 100 decline widened to 2.5%."
-    },
-    {
-      "id": "4920152",
-      "time": "2026-06-05 23:23:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 烏克蘭的襲擊對俄羅斯造成了一定損失。"
-    },
-    {
-      "id": "mkt:019e9861-90b0-7665-8308-2f2db9d41dcb",
-      "time": "2026-06-05 23:23:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Ukraine's attacks have inflicted some damage on Russia."
-    },
-    {
-      "id": "mkt:019e9861-5cb0-7665-8308-267d833b1414",
-      "time": "2026-06-05 23:22:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said the core issues between Russia and Ukraine should be resolved by the two parties themselves; other parties may create conditions and act as guarantors."
-    },
-    {
-      "id": "te:markets:556967",
-      "time": "2026-06-05 23:22:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Nvidia Stock Price Hits 4-week Low — Nvidia shares decreased to 208.59 USD, the lowest since May 2026. Over the past 4 weeks, Nvidia Corporation gained 0.41%, and in the last 12 months, it increased 47.25%."
-    },
-    {
-      "id": "mkt:019e9860-53f4-7665-8308-1c89962d0e8f",
-      "time": "2026-06-05 23:21:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "On the eve of Peru's presidential election, the Peruvian sol fell more than 1% against the dollar and the country's main stock index dropped over 4%."
     }
   ]
 }
