@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-13 01:18:33",
-  "count": 18419,
+  "updated": "2026-06-13 01:22:29",
+  "count": 18427,
   "items": [
+    {
+      "id": "mkt:019ebcda-31c2-7dd8-afe4-337a4545435d",
+      "time": "2026-06-13 01:21:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said there is serious mutual distrust between the two sides."
+    },
+    {
+      "id": "mkt:019ebcd9-fcc0-7dd8-afe4-2d67ac71bcb3",
+      "time": "2026-06-13 01:21:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A senior US government official said some elements in Iran oppose the agreement, but the US assesses that the opposition is limited."
+    },
+    {
+      "id": "4933260",
+      "time": "2026-06-13 01:20:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：雙方之間仍存在很深的猜忌。"
+    },
+    {
+      "id": "4933259",
+      "time": "2026-06-13 01:20:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員： 我們認為反對聲音微乎其微。"
+    },
+    {
+      "id": "mkt:019ebcd9-49c7-7dd8-afe4-25448b9b62e7",
+      "time": "2026-06-13 01:20:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said the U.S. is confident allies will support the agreement."
+    },
+    {
+      "id": "4933258",
+      "time": "2026-06-13 01:20:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：部分伊朗人士並不看好這份協議。"
+    },
+    {
+      "id": "mkt:019ebcd8-fd55-7dd8-afe4-1872aa5e8355",
+      "time": "2026-06-13 01:19:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senior US government official confident Israel will support the arrangement."
+    },
+    {
+      "id": "mkt:019ebcd8-aa0f-7dd8-afe4-11b146cf159f",
+      "time": "2026-06-13 01:19:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senior U.S. government official says regional peace agreement will be broad in scope."
+    },
+    {
+      "id": "4933257",
+      "time": "2026-06-13 01:19:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員： 相信以色列方面會予以配合。"
+    },
+    {
+      "id": "mkt:019ebcd8-3920-7dd8-afe4-0f957af01d3b",
+      "time": "2026-06-13 01:19:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. senior official: Iran has indicated it can accept the agreement’s wording; signing date and venue are not finalized but are close to being set."
+    },
+    {
+      "id": "4933256",
+      "time": "2026-06-13 01:18:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：這份地區和平協議內容覆蓋面廣泛。"
+    },
     {
       "id": "4933255",
       "time": "2026-06-13 01:17:31",
@@ -169567,39 +169665,6 @@
         "Brent"
       ],
       "text": "【Adviser to Iran's supreme leader reiterates Iran, Oman sovereignty over Strait of Hormuz】An adviser to Iran's supreme leader told CNN that Iran and Oman have sovereignty over the Strait of Hormuz and will jointly manage the waterway, which previously handled about one-fifth of global oil and LNG shipments. He resisted calling proposed charges 'transit fees', saying Iran would impose maintenance fees to cover management costs rather than bear them alone."
-    },
-    {
-      "id": "mkt:019e98ce-0f57-7665-830a-b7868e0154a4",
-      "time": "2026-06-06 01:21:41",
-      "tags": [
-        "MKT News",
-        "EQIX.O",
-        "Impact bearish",
-        "DLR.O",
-        "CONE.O"
-      ],
-      "text": "Per NBC, Illinois Governor J.B. Pritzker will suspend tax incentives for data centers."
-    },
-    {
-      "id": "4920241",
-      "time": "2026-06-06 01:20:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "本週，ICE英國天然氣期貨累計上漲6.18%，週五（6月5日）歐市尾盤報117.640便士/千卡。TTF基準荷蘭天然氣期貨累漲8.87%，報48.759歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）累跌4.84%，報75.74歐元/噸。"
-    },
-    {
-      "id": "te:economy:556996",
-      "time": "2026-06-06 01:20:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Costa Rica",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Costa Rica Deflation Eases in May — Costa Rica's consumer prices fell 0.97% year-on-year in May 2026, following a 1.64% decline in April, extending the country's deflationary trend. The decrease was mainly driven by lower prices for food (-3.89%), clothing and footwear (-2.69%), housing and utilities (-1.20%), furniture and household services (-2.04%), information and communication (-0.96%), and insurance and financial services (-0.55%). Meanwhile, the largest price increases were recorded in education (2.75%), alcoholic beverages and tobacco (2.21%), and healthcare (1.72%). On a monthly basis, consumer prices rose 0.27% in May, reversing a 0.04% decline in April."
     }
   ]
 }
