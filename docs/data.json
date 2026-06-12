@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-13 05:15:24",
-  "count": 18441,
+  "updated": "2026-06-13 05:19:15",
+  "count": 18437,
   "items": [
+    {
+      "id": "4933452",
+      "time": "2026-06-13 05:17:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：戰略石油儲備（SPR）石油置換提案的接收截止時間為中部時間6月15日上午11點。"
+    },
+    {
+      "id": "4933451",
+      "time": "2026-06-13 05:16:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：擬從戰略石油儲備中出借最多4000萬桶原油。"
+    },
+    {
+      "id": "4933450",
+      "time": "2026-06-13 05:15:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.06%，報15568點。"
+    },
     {
       "id": "4933449",
       "time": "2026-06-13 05:11:41",
@@ -169664,68 +169688,6 @@
         "公司"
       ],
       "text": "市場訊息：阿波羅全球管理公司與黑石集團已為Anthropic敲定一筆350億美元的融資計劃，用於擴建該公司的人工智慧基礎設施。"
-    },
-    {
-      "id": "4920420",
-      "time": "2026-06-06 05:19:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大食品檢驗局：將對從美國受影響地區輸入加拿大的牲畜（包括馬）實施臨時進口限制。"
-    },
-    {
-      "id": "4920419",
-      "time": "2026-06-06 05:18:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "POOL CORP, CAMPBELL'S 將被剔除出標普 500 指數。"
-    },
-    {
-      "id": "4920418",
-      "time": "2026-06-06 05:17:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "偉創力因納入標普 500 指數，股價上漲 3.3%。"
-    },
-    {
-      "id": "4920417",
-      "time": "2026-06-06 05:17:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "美滿電子美股盤後漲5%，該公司將被納入標普500指數。"
-    },
-    {
-      "id": "4920416",
-      "time": "2026-06-06 05:16:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "標普道瓊斯指數宣佈調整美國相關指數編制規則，美滿電子與偉創力即將納入標普 500 指數成分股。"
-    },
-    {
-      "id": "te:markets:557012",
-      "time": "2026-06-06 05:16:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls as Higher Yields Weigh — The Ibovespa fell 0.8% to close at 169,019 on Friday as higher bond yields, fading expectations of monetary easing, and escalating hostilities in the Middle East weighed on sentiment. Iran-backed Hezbollah rejected a new Lebanon ceasefire proposal, while Israel said it would not withdraw its troops, undermining US diplomatic efforts with Iran. Meanwhile, stronger-than-expected US payrolls data pushed Treasury yields higher and reinforced expectations that the Federal Reserve may keep interest rates elevated for longer, magnifying gains in Brazilian rate futures. UBS also turned less constructive on Brazilian assets as prospects for aggressive Selic cuts faded, citing stronger domestic activity, higher oil prices linked to the Iran conflict, and persistent inflation pressures. Banco do Brasil fell 1.8%, while B3 lost 0.7%. Vale dropped 3.8% amid lower iron ore prices, and Petrobras declined 0.9%, tracking a pullback in international oil prices."
-    },
-    {
-      "id": "4920415",
-      "time": "2026-06-06 05:15:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.68%，報15308點。"
     }
   ]
 }
