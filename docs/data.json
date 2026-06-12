@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-12 13:34:34",
-  "count": 18393,
+  "updated": "2026-06-12 13:38:34",
+  "count": 18392,
   "items": [
+    {
+      "id": "4931876",
+      "time": "2026-06-12 13:36:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【共封裝光學(CPO)板塊短線走低】共封裝光學(CPO)板塊短線走低，風華高科跌停，利和興、國瓷材料、聯特科技、三安光電、華盛昌等跟跌。"
+    },
+    {
+      "id": "4931875",
+      "time": "2026-06-12 13:36:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "市場訊息：在SK海力士和三星電子股價上漲後，各銀行限制對沖基金對二者的押注。"
+    },
+    {
+      "id": "mkt:019eba54-c533-7dd8-afd2-ed5bb410457f",
+      "time": "2026-06-12 13:36:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China Tourism Group Duty Free's A- and H-shares both rose more than 3%."
+    },
+    {
+      "id": "mkt:019eba53-fc79-7dd8-afd2-e5da00641341",
+      "time": "2026-06-12 13:35:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) closed on Friday, June 12, up 1,019.58 points (+2.36%) at 44,169.04."
+    },
+    {
+      "id": "4931874",
+      "time": "2026-06-12 13:35:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高2.4%報44,169.04。"
+    },
+    {
+      "id": "4931873",
+      "time": "2026-06-12 13:34:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "天孚通訊成交額達100億元，現跌近2%。"
+    },
+    {
+      "id": "4931872",
+      "time": "2026-06-12 13:34:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐將英美資源公司（Anglo American）的目標價從3,050便士上調至3,400便士。"
+    },
     {
       "id": "4931871",
       "time": "2026-06-12 13:33:39",
@@ -169511,79 +169572,6 @@
         "其他"
       ],
       "text": "【儲存晶片板塊震盪下挫，盛合晶微跌超8%】儲存晶片板塊震盪下挫，盛合晶微跌超8%，江波龍、佰維儲存、德明利、夏農芯創、協創資料紛紛下挫。"
-    },
-    {
-      "id": "4918801",
-      "time": "2026-06-05 13:38:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "菜油連續主力合約日內跌3%，現報10013.00元。"
-    },
-    {
-      "id": "4918800",
-      "time": "2026-06-05 13:37:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丁二烯橡膠連續主力合約日內跌4%，現報13880.00元。"
-    },
-    {
-      "id": "te:markets:556738",
-      "time": "2026-06-05 13:36:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in China Hit 8-week Low — SHANGHAI 50 decreased to 2881.00 Index Points, the lowest since April 2026. Over the past 4 weeks, Shanghai 50 lost 4.75%, and in the last 12 months, it increased 7.21%."
-    },
-    {
-      "id": "4918799",
-      "time": "2026-06-05 13:35:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【VIVO申請註冊VIVOClaw商標】天眼查智慧財產權資訊顯示，近日，VIVO關聯公司維沃行動通訊有限公司申請註冊“vivoClaw”商標，國際分類為網站服務，當前商標狀態均為等待實質審查。該公司成立於2010年6月，法定代表人為施玉堅，註冊資本6500萬人民幣，經營範圍包括移動終端裝置製造、通訊裝置製造、音響裝置製造等，由維沃控股有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019e9647-85f5-7aa9-a389-7bad56473935",
-      "time": "2026-06-05 13:35:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index (TAIEX) closed down 606.52 points, or 1.33%, at 45,070.94 on Friday, June 5."
-    },
-    {
-      "id": "4918798",
-      "time": "2026-06-05 13:35:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：我認為我們需要在與市場的溝通中更加謹慎。"
-    },
-    {
-      "id": "mkt:019e9647-4ef4-7aa9-a389-71a321c42ef3",
-      "time": "2026-06-05 13:35:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Spot silver slid more than $0.40 intraday, down over 2% on the day to $72.21/oz."
-    },
-    {
-      "id": "4918797",
-      "time": "2026-06-05 13:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收低1.3%報45,070.94。"
     }
   ]
 }
