@@ -1,7 +1,194 @@
 {
-  "updated": "2026-06-12 16:48:34",
-  "count": 18447,
+  "updated": "2026-06-12 16:54:24",
+  "count": 18448,
   "items": [
+    {
+      "id": "4932319",
+      "time": "2026-06-12 16:53:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【滬光股份：擬開展不超7.3億元期貨和衍生品交易】滬光股份公告稱，6月12日公司召開董事會，審議透過開展期貨和衍生品交易的議案。公司擬以自有資金開展套期保值業務，商品期貨預計動用保證金和權利金上限不超2億元、最高合約價值不超6.3億元；外匯業務相關上限分別不超1000萬元、1億元。交易期限為自董事會審議透過之日起12個月內。業務開展存在基差、市場、流動性等風險，公司制定了相應風控措施。"
+    },
+    {
+      "id": "4932318",
+      "time": "2026-06-12 16:53:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行雷恩：不會預先承諾任何特定的利率路徑。"
+    },
+    {
+      "id": "mkt:019ebb09-25f0-7dd8-afd9-cfa1e8d1a753",
+      "time": "2026-06-12 16:53:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO experts say bed capacity for isolating patients is insufficient in the Ebola outbreak."
+    },
+    {
+      "id": "mkt:019ebb08-fc35-7dd8-afd9-c028920ebadf",
+      "time": "2026-06-12 16:53:08",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Rehn said the ECB will not pre-commit to any specific interest-rate path going forward."
+    },
+    {
+      "id": "4932317",
+      "time": "2026-06-12 16:52:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國今年中期選舉廣告支出或重新整理紀錄】美國廣告影響力公司11日釋出的預估報告顯示，定於11月舉行的美國中期選舉廣告耗資預計達116億美元，“燒錢”水平將重新整理包括總統選舉在內的聯邦選舉週期同類支出紀錄，其部分原因在於一些州的聯邦參議員競選支出激增。報告預估，今年中期選舉廣告耗資金額將超過2024年總統選舉的112億美元和2022年中期選舉的89億美元，高於廣告影響力公司2025年9月預估的108億美元。報告還指出，從美國共和、民主兩黨創紀錄的激烈競爭，到持續飆升的黨派競選資金，再到不斷擴大的競爭格局，所有指標都表明，“2026年將成為迄今最‘燒錢’的政治廣告週期”。今年的中期選舉預計將在有線電視、數字媒體、網際網路電視和廣播等媒介分別投放十幾億美元至數十億美元不等的廣告費用。（新華社）"
+    },
+    {
+      "id": "4932316",
+      "time": "2026-06-12 16:52:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽建工澄清：未參與長鑫科技合肥、北京相關專案建設】有投資者在互動平臺對安徽建工提問，“公司具體參與了長鑫科技合肥一期、二期、北京一期等哪些晶圓廠專案的建設？除主體廠房外，是否還承接了動力站、廢水處理、特氣管道等配套工程？目前是否有在建的長鑫相關專案？預計完工時間是什麼時候？”安徽建工6月12日在平臺回應表示，公司未參與上述相關專案建設。"
+    },
+    {
+      "id": "4932315",
+      "time": "2026-06-12 16:52:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美氣象機構宣佈厄爾尼諾現象形成】美國國家海洋和大氣管理局11日宣佈，熱帶太平洋已形成厄爾尼諾現象，併發布厄爾尼諾預警。"
+    },
+    {
+      "id": "4932314",
+      "time": "2026-06-12 16:51:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光線傳媒在北京成立影視製作公司】天眼查 App 顯示，近日，北京億石影視製作有限公司成立，法定代表人為趙磊，註冊資本100萬人民幣，經營範圍包括電影攝製服務、電影製片、攝影擴印服務、諮詢策劃服務、文藝創作等。股東資訊顯示，該公司由光線傳媒（300251）旗下北京英事達形象包裝顧問有限公司、北京傳媒之光廣告有限公司共同持股。"
+    },
+    {
+      "id": "4932313",
+      "time": "2026-06-12 16:51:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星醫藥：為控股子公司提供合計約4.64億元擔保】復星醫藥公告稱，截至2026年6月12日，公司為全資子公司復星實業提供人民幣3.65億元及4400萬美元的擔保，為復星醫藥（深圳）提供1億元擔保；控股子公司復宏漢霖為漢霖成都提供4億元擔保，為漢霖深圳提供9240萬元擔保。包括本次擔保在內，集團實際對外擔保金額摺合人民幣約216.43億元，佔2025年末經審計淨資產的44.40%，無逾期擔保事項。本次擔保在已獲批額度內，無需董事會、股東會另行批准。"
+    },
+    {
+      "id": "4932312",
+      "time": "2026-06-12 16:51:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織專家：埃博拉疫情中用於隔離患者的床位容量“不足”。"
+    },
+    {
+      "id": "te:economy:558695",
+      "time": "2026-06-12 16:51:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Manufacturing Growth Slows in Q1 — Manufacturing production in Hong Kong increased 3.1% year-on-year in the first quarter of 2026, slowing from a revised 5.8% expansion in the previous three-month period. This marked the weakest growth since the second quarter of 2025, as output growth eased in food, beverages and tobacco (2.1% vs 3.1% in Q4), metal, computer, electronic and optical products, machinery and equipment (6.6% vs 6.9%), and miscellaneous manufacturing industries (5% vs 9.7%). Meanwhile, declines in paper products, printing and reproduction of recorded media deepened (-2.6% vs -0.2%), while output in textiles and wearing apparel remained unchanged at -4.7%. On a seasonally adjusted quarterly basis, manufacturing production fell 2.6%, reversing from a 1.3% rise in the fourth quarter of 2025."
+    },
+    {
+      "id": "mkt:019ebb07-512b-7dd8-afd9-bc7a53d28448",
+      "time": "2026-06-12 16:51:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "A German government official said aircraft development for the future air combat system replacement project will follow a European, not Germany-only, approach."
+    },
+    {
+      "id": "4932310",
+      "time": "2026-06-12 16:50:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府官員就未來作戰航空系統(FCAS)替代方案表示：不會尋求單純的德國解決方案，而是在戰機研發上採取歐洲整體方案。"
+    },
+    {
+      "id": "4932309",
+      "time": "2026-06-12 16:50:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佛燃能源：新增2026年度日常關聯交易預計額度4.48億元】佛燃能源公告稱，公司於2026年6月12日召開董事會，同意新增與四川港華合縱等11家關聯方的日常關聯交易預計額度合計不超4.48億元，期限自股東會審議透過至2026年12月31日。關聯交易包括採購原材料、銷售產品、提供及接受勞務等，定價參考市場價格。該交易屬正常商業行為，對公司業務獨立性、財務及經營成果無重大影響，不會使公司業務依賴關聯方。新增事項需提交股東會審議。"
+    },
+    {
+      "id": "4932308",
+      "time": "2026-06-12 16:50:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "世衛組織專家：剛果（金）埃博拉疫情在某些地區仍存在許多“盲點”。埃博拉疫情監測確實需要加強。接觸追蹤工作已有顯著改善。"
+    },
+    {
+      "id": "4932306",
+      "time": "2026-06-12 16:49:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中材國際：全資子公司終止4.8億美元重大合同】中材國際公告，公司全資子公司中材建設與中非水泥有限公司簽訂的《總承包合同》因專案長期停滯、先決條件未滿足，決定終止該合同。合同金額為4.8億美元，終止不會對公司當期及未來經營業績造成重大不利影響。"
+    },
+    {
+      "id": "4932305",
+      "time": "2026-06-12 16:49:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五糧液：未來將考慮持續加大分紅力度】五糧液6月12日在互動平臺回應投資者提問表示，未來公司在生產經營穩步發展的基礎上，會考慮持續加大分紅力度，回饋廣大投資者。"
+    },
+    {
+      "id": "4932304",
+      "time": "2026-06-12 16:48:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年暑期檔票房破5億】據網路平臺資料，截至6月12日，2026年暑期檔總票房（含預售）突破5億元。"
+    },
+    {
+      "id": "mkt:019ebb05-1397-7dd8-afd9-b3f92a6623a7",
+      "time": "2026-06-12 16:48:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China's 2026 summer box office tops 500 mln yuan】Online platform data show total box office for China's 2026 summer film season, including presales, exceeded 500 mln yuan as of June 12."
+    },
+    {
+      "id": "4932303",
+      "time": "2026-06-12 16:48:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗公佈“14點諒解備忘錄草案”的細節】伊朗媒體邁赫爾援引一名接近伊朗談判團隊的訊息人士的話，釋出了美伊之間14點草案諒解備忘錄的新細節： 1. 立即且永久停止所有戰線上的戰鬥，包括黎巴嫩。 2. 美國承諾不干涉伊朗內政。 3. 在30天內解除海上封鎖。 4. 美國承諾從伊朗周邊地區撤軍。 5. 在伊朗安排下，於30天內重新開放霍爾木茲海峽。 6. 暫停對伊朗石油、石油化工產品及相關收入的制裁，並使伊朗金融資源完全可及。 7. 美國及其盟友將提出價值至少3000億美元的伊朗重建計劃。 8. 就最終協議進行60天的談判，涵蓋核問題、全面解除制裁、伊朗經濟重建以及濃縮材料和濃縮活動的命運。 9. 伊朗承諾不生產核武器。 10. 在談判期間，美國不得增加該地區兵力或實施新制裁。 11. 在60天談判期間釋放240億美元凍結的伊朗資金，其中一半在談判開始前可用。 12. 建立監督機制以執行該協議。 13. 最終協議將由聯合國安理會決議批准。 14. 最終談判將在釋放伊朗凍結資金的一半、暫停伊朗石油制裁以及解除海軍封鎖之前不會開始。 最終協議將僅針對濃縮材料和濃縮活動的命運、解除制裁以及伊朗經濟重建計劃。 據邁赫爾報道，該草案將伊朗導彈計劃和對“抵抗組織”的支援排除在議程之外。"
+    },
+    {
+      "id": "mkt:019ebb04-eacc-7dd8-afd9-acf2618f44b5",
+      "time": "2026-06-12 16:48:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO experts said contact tracing has significantly improved."
+    },
+    {
+      "id": "4932302",
+      "time": "2026-06-12 16:48:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度一鏡上線范志毅實時數字人，7×24小時陪看世界盃】世界盃開幕當天，百度一鏡聯合可口可樂上線體育賽事實時互動數字人陪看官—— 范志毅實時互動數字人，這是繼羅永浩數字人後，百度數字人IP商業化領域的又一重要落地。該款數字人依託百度一鏡實時互動技術，響應時延控制在2秒以內，可高度還原范志毅的聲線、口音、神態與動作，保留其專業足球解讀能力與個人風格。使用者可透過語音、文字兩種形式自由互動，產品支援情緒識別、即興對話等真人化體驗，同時搭配實時換背景、品牌互動演示等趣味玩法，實現24小時線上陪看觀賽。目前，該數字人已上線可口可樂中國小程式，面向公眾開放體驗。此外，本次合作同步落地AIGC影片創作能力。據瞭解，百度一鏡平臺已具備“導演級”TVC生成能力，可大幅降低高品質內容製作成本。（新浪科技）"
+    },
     {
       "id": "te:markets:558691",
       "time": "2026-06-12 16:47:55",
@@ -169969,192 +170156,6 @@
         "公司"
       ],
       "text": "【SK海力士DRAM中長期擴產計劃曝光】據報道，SK海力士已向主要合作企業分享了其在2030年至2031年間將DRAM晶圓產能擴大至目前兩倍水平的中長期擴產計劃。值得注意的是，這一計劃的籌備時間早於英偉達CEO黃仁勳在COMPUTEX展會現場寫下“請多生產（Please make more）”的舉動。報道稱，約兩個月前，SK海力士的採購部門及龍仁半導體叢集負責人已開始向核心供應商通報這項基於晶圓投入量的產能擴張規劃。該計劃的核心目標是：將目前每月約55萬張的DRAM月產能，提升至2030年的100萬張左右。"
-    },
-    {
-      "id": "4919220",
-      "time": "2026-06-05 16:54:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安泰科：5月銻市場冷淡，價格偏弱執行】據安泰科銻品報價顯示，國內銻錠（99.65%）價格在5月初為158000-161000元/噸，5月末下降至145000-149000元/噸。海外銻價同樣下調，國際銻錠（99.65%）價格在5月初為26500-27300美元/噸，5月末下降到26000-26500美元/噸。5月國內銻價整體呈現加速下行態勢，主因是國內需求持續偏弱。據市場人士反饋，本月國內成交冷淡情況超出預期，詢單量稀少，下游阻燃劑及光伏玻璃兩大核心領域採購意願低迷，導致上游庫存逐漸積累，市場壓力不斷加大。供應端方面，上游冶煉廠挺價情緒明顯減弱。"
-    },
-    {
-      "id": "mkt:019e96fd-8f1c-711f-98aa-aa30f13d594c",
-      "time": "2026-06-05 16:54:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romanian outlet Digi24, citing sources, reported that three maritime drones were found off the Romanian coast following an explosion at the Port of Constanta."
-    },
-    {
-      "id": "4919219",
-      "time": "2026-06-05 16:54:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科興牽頭共建“前沿技術與新型疫苗藥物北京市重點實驗室”】近日，北京市科學技術委員會、中關村科技園區管理委員會公佈2026年北京市重點實驗室認定名單。由科興牽頭，中國科學院生物物理研究所、中國科學院過程工程研究所共建的“前沿技術與新型疫苗藥物北京市重點實驗室”透過認定。該實驗室聚焦新發突發傳染病防控關鍵核心技術，重點圍繞新型抗原的AI輔助設計與研發、新型疫苗佐劑與遞送系統開發、新發突發傳染病疫苗研製與產業化三個方向，構建“AI驅動技術攻關+快速響應+產業轉化”的全鏈條創新體系。"
-    },
-    {
-      "id": "4919218",
-      "time": "2026-06-05 16:53:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯泰蘭蒂斯集團：擴大地熱能的應用，將其作為工業供暖與製冷的低碳解決方案。"
-    },
-    {
-      "id": "mkt:019e96fc-acf7-711f-98aa-a2575415fb1b",
-      "time": "2026-06-05 16:53:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US Senate passed a bill to fund immigrant deportation operations through 2029 and sent it to the House for consideration."
-    },
-    {
-      "id": "4919217",
-      "time": "2026-06-05 16:53:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "斯泰蘭蒂斯(STLA.N)：正在歐洲擴大脫碳能源佈局，太陽能裝置已覆蓋三分之二的製造工廠。計劃在20個廠區部署電池儲能系統，其中7座工廠預計將於2026年前投入運營。"
-    },
-    {
-      "id": "4919216",
-      "time": "2026-06-05 16:52:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院透過了將移民驅逐出境撥款延續至2029年的法案，已提交眾議院審議。"
-    },
-    {
-      "id": "mkt:019e96fb-c67b-711f-98aa-982df97f5f69",
-      "time": "2026-06-05 16:52:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China domestic air fuel surcharge cut effective today】Airlines said tickets sold from today for China domestic routes will carry lower fuel surcharges. New rates: routes 800 km or less: RMB80 per segment (down RMB10); routes over 800 km: RMB150 per segment (down RMB20)."
-    },
-    {
-      "id": "mkt:019e96fb-9541-711f-98aa-9662632622df",
-      "time": "2026-06-05 16:52:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "NIO.N",
-        "Impact bullish"
-      ],
-      "text": "【GigaDevice and NIO sign strategic cooperation agreement】June 5 — Chinese chipmaker GigaDevice and EV maker NIO signed a strategic cooperation agreement to jointly leverage their chip-design and vehicle-manufacturing expertise to advance co-development of automotive-grade chips and next-generation E/E architecture."
-    },
-    {
-      "id": "4919215",
-      "time": "2026-06-05 16:52:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兆易創新與蔚來達成戰略合作】6月5日，兆易創新與蔚來簽署戰略合作協議。根據合作協議，雙方將充分發揮各自在晶片設計與整車製造領域的專長，共同推進車規級晶片及下一代電子電氣架構的協同研發。"
-    },
-    {
-      "id": "4919214",
-      "time": "2026-06-05 16:52:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST返利：公司股票將於6月9日撤銷退市風險警示】*ST返利公告，公司股票將於2026年6月9日撤銷退市風險警示。公司股票自2026年6月8日起停牌一天，復牌後證券簡稱為“返利科技”，日漲跌幅限制由5%變為10%。因公司2024年度經審計的淨利潤為負，且扣除與主營業務無關的業務收入和不具備商業實質的收入後的營業收入低於3億元，公司股票自2025年4月28日起被實施退市風險警示。公司2025年度經審計的利潤總額、歸屬於上市公司股東的淨利潤、歸屬於上市公司股東的扣除非經常性損益後的淨利潤分別為-6720.41萬元、-6332.78萬元、-4976.14萬元；扣除與主營業務無關的業務收入和不具備商業實質的收入後的營業收入為4.86億元，報告期末經審計的歸屬於上市公司股東的淨資產為3.96億元，公司股票觸及的退市風險警示情形已消除。"
-    },
-    {
-      "id": "4919213",
-      "time": "2026-06-05 16:51:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油公司：安達曼區塊第三口勘探井發現天然氣。"
-    },
-    {
-      "id": "4919212",
-      "time": "2026-06-05 16:51:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【工商銀行在海口成立租賃公司】天眼查App顯示，近日，海闊十三號（海口）租賃有限公司成立，法定代表人為劉鑫，註冊資本10萬人民幣，經營範圍為金融租賃公司在境內保稅地區設立專案公司開展融資租賃業務。股東資訊顯示，該公司由工商銀行（601398）旗下工銀租賃（海南）有限公司全資持股。"
-    },
-    {
-      "id": "4919211",
-      "time": "2026-06-05 16:50:34",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點"
-      ],
-      "text": "【今日起國內航線燃油附加費下調】記者從多家航空公司瞭解到，今天起銷售的國內航線客票燃油附加費下調。調整後的標準為：800公里（含）以下航線燃油附加費每航段為人民幣80元，800公里以上航線燃油附加費每航段為人民幣150元，分別下調10元、20元。 （央視財經）"
-    },
-    {
-      "id": "mkt:019e96f9-c7ec-711f-98aa-8e334bbc0ad7",
-      "time": "2026-06-05 16:50:12",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【CSRC approves seven firms for qualified foreign investor status】June 5 — The China Securities Regulatory Commission published the roster of qualified foreign investors, saying it approved seven firms in May 2026 for qualified foreign investor status: Jia Yu Holdings Co., Ltd., Hafite Capital Ltd., Shitong Financial Private Ltd., Kaixi Investment Co., Ltd., Yichuang Global Asset Management Private Ltd., Fudi Wealth Management (Hong Kong) Ltd., and Bozhi Group Ltd."
-    },
-    {
-      "id": "4919210",
-      "time": "2026-06-05 16:50:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國參議院大多數支援為移民和海關執法局及邊境巡邏提供700億美元的額外資金，投票仍在進行中。"
-    },
-    {
-      "id": "mkt:019e96f9-b741-711f-98aa-8492fc8428c8",
-      "time": "2026-06-05 16:50:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Euro area final Q1 seasonally adjusted employment change (QoQ) and revised Q1 GDP growth (YoY) to be released in 10 minutes."
-    },
-    {
-      "id": "mkt:019e96f9-b4ef-711f-98aa-7810623158b3",
-      "time": "2026-06-05 16:50:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A majority in the U.S. Senate supports providing an additional $70 billion to U.S. Immigration and Customs Enforcement and Border Patrol; the vote is still underway."
-    },
-    {
-      "id": "4919209",
-      "time": "2026-06-05 16:49:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "Aperam股價下跌 3.7% 。"
-    },
-    {
-      "id": "mkt:019e96f9-1e4c-711f-98aa-756d64e1e9ff",
-      "time": "2026-06-05 16:49:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Dreame insider: local government conducting routine checks】June 5 — An insider at Dreame Technology said a municipal authority in the Yangtze River Delta asked firms to report whether they have cooperated with Dreame. Dreame contacted the Changzhou Development and Reform Commission, which described the request as a routine check; the company said it has not received any formal notice and has not issued an official comment."
-    },
-    {
-      "id": "4919208",
-      "time": "2026-06-05 16:49:01",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【追覓內部人士回應：地方政府只是常規檢查】針對目前長三角某市轄區要求統計轄區內企業與追覓科技已展開合作情況訊息，追覓內部人士回應表示，問過常州市發改委，只是常規檢查，他們也未收到任何通知。截止發稿，追覓官方對此訊息暫無回應。（介面）"
     }
   ]
 }
