@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-13 03:57:31",
-  "count": 18448,
+  "updated": "2026-06-13 04:01:24",
+  "count": 18444,
   "items": [
+    {
+      "id": "4933400",
+      "time": "2026-06-13 04:00:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "SpaceX美國IPO首日收漲19.30%，報161.06美元。"
+    },
+    {
+      "id": "4933399",
+      "time": "2026-06-13 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.70%，標普500指數漲0.50%，納指漲0.29%。Arm Holdings漲11.27%，美國美盛漲7.56%，雅保化工漲7.39%，希捷漲7.25%，英特爾漲6.48%。“七姐妹”方面：特斯拉漲1.82%，谷歌漲0.42%，英偉達漲0.13%，微軟漲0.13%，Meta Platforms跌0.26%，亞馬遜跌1.23%，蘋果跌1.54%。"
+    },
+    {
+      "id": "4933398",
+      "time": "2026-06-13 04:00:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷央行當前外匯儲備規模為474.2億美元。"
+    },
+    {
+      "id": "4933397",
+      "time": "2026-06-13 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.52%】1藥網漲16.82%，金生遊樂漲7.61%，阿特斯漲6.41%，晶科能源漲6.20%，中汽系統漲5.64%。"
+    },
+    {
+      "id": "4933396",
+      "time": "2026-06-13 03:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：安理會成員對該草案文字態度不一，既有支持者也有反對者，但最終會形成集體決議。決議一經作出，將正式對外公佈。"
+    },
+    {
+      "id": "4933395",
+      "time": "2026-06-13 03:57:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞預計 2026 年布倫特原油均價為每桶 85.5 美元。"
+    },
     {
       "id": "mkt:019ebd68-6d0a-7dd8-afe6-f9bea3bfae11",
       "time": "2026-06-13 03:56:37",
@@ -169697,103 +169748,6 @@
         "市場"
       ],
       "text": "半導體指數收盤下跌10%，創2020年3月以來最大跌幅。"
-    },
-    {
-      "id": "4920360",
-      "time": "2026-06-06 04:01:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "寶潔股價收盤上漲4.1%，創下自2024年1月以來最佳單日表現。"
-    },
-    {
-      "id": "te:markets:557008",
-      "time": "2026-06-06 04:00:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Tech Rout Drags US Stocks Sharply Lower — US stocks fell sharply on Friday as a steep selloff in semiconductor shares rattled markets. The Nasdaq dropped more than 4%, marking its worst session since April 2025, while the S&P 500 lost 2.6%. The Dow Jones declined 1.4% after reaching a record high the previous day. Chipmakers led the retreat, with Broadcom falling more than 7% following a double-digit decline on Thursday. Marvell Technology and Micron Technology plunged about 12% and 11%, respectively, while Intel and AMD lost more than 9% and 10%. The weakness came after stronger-than-expected jobs data showed the US economy added 172,000 positions in May, far exceeding forecasts. The report pushed Treasury yields higher, with the 10-year yield rising above 4.5% and the 30-year yield topping 5%, fueling concerns that elevated borrowing costs could weigh on economic growth and investment. For the week, the S&P 500 fell more than 2%, while the Nasdaq lost around 4%."
-    },
-    {
-      "id": "4920359",
-      "time": "2026-06-06 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌1.35%，標普500指數跌2.64%，納指跌4.10%。邁威爾科技跌15.89%，Arm Holdings跌12.75%，美光跌12.46%，泰瑞達跌12.16%，英特爾跌11.51%。“七姐妹”方面：谷歌跌0.86%，蘋果跌1.09%，微軟跌2.57%，亞馬遜跌2.98%，Meta Platforms跌5.53%，英偉達跌5.93%，特斯拉跌6.59%。"
-    },
-    {
-      "id": "4920358",
-      "time": "2026-06-06 04:00:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "本週，標普500指數累跌約2.4%，道指累跌約0.1%，納指累跌約4.3%，半導體指數累跌約3.2%，銀行指數漲2.8%，科技股七巨頭指數跌4.5%，儲存晶片指數跌5.4%，軟體先驅指數跌5%、AI贏家指數跌5.2%，超大規模雲服務商指數跌5.9%，加密貨幣指數跌13.5%。非農就業報告發布當天，標普500指數初步收跌2.5%，科技板塊跌5.3%，可選消費、原材料板塊跌超2%，日用消費品板塊漲1.7%。納斯達克100指數初步收跌4.6%，成分股中，美滿科技跌14.6%，Arm控股跌12.7%，美光、英特爾、閃迪、AMD、西部資料、高通跌超10%，特許通訊等漲超2%。思科跌6.2%，英偉達跌5.7%，領跌道指成分股，可口可樂漲3.7%，寶潔漲4%。費城半導體指數收跌10%。"
-    },
-    {
-      "id": "4920357",
-      "time": "2026-06-06 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌3.47%】海天網路跌20.06%，億航跌14.41%，中進醫療跌13.64%，逸仙電商跌13.19%，億咖通科技跌12.50%。"
-    },
-    {
-      "id": "4920356",
-      "time": "2026-06-06 03:59:25",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "費城半導體指數跌幅擴大至10%。"
-    },
-    {
-      "id": "mkt:019e995e-6e58-7665-830d-6849a7335f60",
-      "time": "2026-06-06 03:59:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Philadelphia Semiconductor Index (SOX) extended losses to 10%."
-    },
-    {
-      "id": "4920355",
-      "time": "2026-06-06 03:59:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：至6月2日當週，美國投機者將標普500指數CME淨空頭持倉增加38,113手至485,582手，股票基金經理將標普500指數CME淨多頭持倉減少23,807手至985,207手。"
-    },
-    {
-      "id": "4920354",
-      "time": "2026-06-06 03:58:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍通報：過去兩個月近千艘商船駛過霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019e995d-d251-7665-830d-67f81310c4bb",
-      "time": "2026-06-06 03:58:43",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "CFTC: In the week to June 2, US speculative traders increased net short positions in S&P 500 futures on CME by 38,113 contracts to 485,582, while asset managers trimmed net long positions by 23,807 contracts to 985,207."
     }
   ]
 }
