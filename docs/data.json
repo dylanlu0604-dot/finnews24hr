@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-12 12:33:51",
-  "count": 18478,
+  "updated": "2026-06-12 12:37:52",
+  "count": 18464,
   "items": [
+    {
+      "id": "mkt:019eba1e-926f-7dd8-afd1-aa1aaab2a9c8",
+      "time": "2026-06-12 12:37:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jinan residential-included plot sells at 24.52% premium】June 12 — A small residential-included parcel in Lixia District, Jinan, with planned gross floor area 26,242.10 sq m and floor area ratio 2.9, was listed with a starting price of 310 mln yuan (starting floor price 11,812 yuan/sq m). After 39 bidding rounds Greentown acquired the site for 386 mln yuan, implying a final floor price of 14,708 yuan/sq m and a 24.52% premium."
+    },
+    {
+      "id": "4931807",
+      "time": "2026-06-12 12:36:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【濟南1宗涉宅用地溢價24.52%成交】6月12日，濟南出讓1宗歷下區小體量涉宅用，規劃建築面積26242.10㎡，容積率2.9，起始價3.10億元，起始樓面價11812元/㎡。最終經過39輪競價，綠城以總價3.86億元競得該地塊，成交樓面價14708元/㎡，溢價率24.52%。"
+    },
+    {
+      "id": "4931806",
+      "time": "2026-06-12 12:36:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國將為帕查拉吉迪雅帕公主逝世哀悼15天。"
+    },
+    {
+      "id": "mkt:019eba1c-789f-7dd8-afd1-a42a2850b0b7",
+      "time": "2026-06-12 12:34:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Russian Defence Ministry said it shot down 231 drones overnight."
+    },
+    {
+      "id": "mkt:019eba1b-d7fe-7dd8-afd1-9a21b7c1a3b7",
+      "time": "2026-06-12 12:34:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wuhan Donghu High‑tech Zone residential plot sells at 20.96% premium】On June 12 Wuhan sold a small residential parcel in Donghu High‑tech Zone. Planned GFA 25,830 sqm, floor area ratio 2.65. Starting price 238.5 mln yuan (starting floor price 9,233 yuan/sqm). After 23 bidding rounds the lot was won by Wuhan Dingyuan Real Estate Development Co. for 288.5 mln yuan, implying a floor price of 11,169 yuan/sqm and a premium of 20.96%."
+    },
     {
       "id": "4931805",
       "time": "2026-06-12 12:33:06",
@@ -170248,168 +170288,6 @@
         "國際"
       ],
       "text": "印度Nifty金融服務指數上漲1%，此前印度儲備銀行維持關鍵利率不變。"
-    },
-    {
-      "id": "te:economy:556714",
-      "time": "2026-06-05 12:37:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Interest Rate",
-        "Importance 3"
-      ],
-      "text": "India Holds Rates, Revises Down FY26/27 GDP Forecasts — The Reserve Bank of India (RBI) kept its key repo rate unchanged at 5.25% for the third consecutive meeting in June and maintained a neutral stance amid a weakening rupee. The decision was in line with market expectations, as the conflict in the Middle East threatened GDP growth and fueled inflationary pressures. On the economic outlook, the RBI lowered its GDP growth forecast for FY2026/27 to 6.6%, down from its earlier estimate of 6.9%. For the first quarter of the fiscal year, GDP is projected to grow by 6.6%, while growth is forecast at 6.3% in the second quarter and 6.5% and 6.8% in Q3 and Q4, respectively. Meanwhile, inflation is projected to average 5.1%, up from the earlier estimate of 4.6%, mainly driven by higher LPG, base metal, plastic, and rubber prices. Inflation is forecast at 4.2% in Q1, 5.1% in Q2, 5.9% in Q3, and 5.9% in Q4."
-    },
-    {
-      "id": "4918696",
-      "time": "2026-06-05 12:37:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：（貨幣政策）將繼續基於資料做出判斷。"
-    },
-    {
-      "id": "4918695",
-      "time": "2026-06-05 12:37:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度修訂所得稅法，自2026年4月1日起生效。"
-    },
-    {
-      "id": "4918694",
-      "time": "2026-06-05 12:36:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：等待更為明確的形勢出現再行動是審慎之舉。"
-    },
-    {
-      "id": "te:economy:556713",
-      "time": "2026-06-05 12:36:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Yield Holds Gains on BOJ Hike Bets — Japan’s 10-year government bond yield hovered around 2.66% on Friday, maintaining its recent advance as investors continued to bet that the Bank of Japan will raise interest rates later this month. On Wednesday, Bank of Japan Governor Kazuo Ueda said the central bank should carefully assess the costs and benefits of higher rates if inflation risks begin to outweigh downside risks to economic growth. Policymakers are also contending with mounting inflationary pressures stemming from higher energy prices linked to the Middle East conflict. Markets are currently pricing in roughly an 80% probability of a rate hike at the BOJ’s June 16 policy meeting. Supporting the hawkish outlook, data released on Friday showed Japan’s real wages rose 1.9% in April, marking a fourth straight month of growth and reinforcing expectations for further policy tightening."
-    },
-    {
-      "id": "4918693",
-      "time": "2026-06-05 12:36:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：通脹進一步走高的風險有所加劇。"
-    },
-    {
-      "id": "4918692",
-      "time": "2026-06-05 12:36:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：食品價格前景仍存在不確定性。"
-    },
-    {
-      "id": "4918691",
-      "time": "2026-06-05 12:36:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：通脹與增長均面臨重大風險。"
-    },
-    {
-      "id": "4918690",
-      "time": "2026-06-05 12:36:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：部分行業已出現放緩跡象。"
-    },
-    {
-      "id": "4918689",
-      "time": "2026-06-05 12:35:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：能源價格高企、供應限制正對經濟活動產生負面溢位影響。"
-    },
-    {
-      "id": "4918688",
-      "time": "2026-06-05 12:35:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：國內需求仍具韌性。"
-    },
-    {
-      "id": "4918687",
-      "time": "2026-06-05 12:35:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：受季風降雨量低於正常水平的預測及厄爾尼諾風險影響，經濟前景仍不明朗。"
-    },
-    {
-      "id": "4918686",
-      "time": "2026-06-05 12:35:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：第二輪效應導致通脹範圍擴大是非常有可能發生的情況。"
-    },
-    {
-      "id": "4918685",
-      "time": "2026-06-05 12:35:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：供應衝擊的影響將從第四季度開始顯現。"
-    },
-    {
-      "id": "4918684",
-      "time": "2026-06-05 12:34:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：基準預測顯示，到2027財年第三季度，通脹將穩步升至容忍區間上限。"
-    },
-    {
-      "id": "4918683",
-      "time": "2026-06-05 12:34:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度10年期基準政府債券收益率較印度央行貨幣政策決議公佈前的6.98%上升2個基點，至7.0014%。"
-    },
-    {
-      "id": "4918682",
-      "time": "2026-06-05 12:34:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度盧比在印度儲備銀行維持利率不變後兌美元走弱。"
-    },
-    {
-      "id": "4918681",
-      "time": "2026-06-05 12:34:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：自上次貨幣政策會議召開以來，全球環境已出現惡化。"
-    },
-    {
-      "id": "4918680",
-      "time": "2026-06-05 12:33:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：貨幣政策委員會維持“中性”政策立場。"
     }
   ]
 }
