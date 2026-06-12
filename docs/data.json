@@ -1,7 +1,777 @@
 {
-  "updated": "2026-06-13 00:21:02",
-  "count": 18396,
+  "updated": "2026-06-13 01:18:33",
+  "count": 18419,
   "items": [
+    {
+      "id": "4933255",
+      "time": "2026-06-13 01:17:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（6月12日），美聯儲隔夜逆回購協議（RRP）使用規模為4.54億美元（交易對手6家），上個交易日報4.60億美元。"
+    },
+    {
+      "id": "mkt:019ebcd6-c2f0-7dd8-afe4-0502e935c127",
+      "time": "2026-06-13 01:17:31",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) shares rose more than 8%."
+    },
+    {
+      "id": "4933254",
+      "time": "2026-06-13 01:17:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：雙方已就濃縮核材料的銷燬與轉運細則達成一致。"
+    },
+    {
+      "id": "mkt:019ebcd6-9618-7dd8-afe3-fea227b7354b",
+      "time": "2026-06-13 01:17:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A senior U.S. government official said parties have agreed on specific arrangements for the destruction and transfer of enriched nuclear material."
+    },
+    {
+      "id": "mkt:019ebcd6-111b-7dd8-afe3-f4e95fed1af0",
+      "time": "2026-06-13 01:16:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Cyprus, holding the EU Council rotating presidency, said it will hold the first accession meeting with Ukraine and Moldova next Monday."
+    },
+    {
+      "id": "4933253",
+      "time": "2026-06-13 01:16:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐盟理事會輪值主席國塞普勒斯：將於週一召開與烏克蘭、摩爾多瓦的首次入盟會議。"
+    },
+    {
+      "id": "4933252",
+      "time": "2026-06-13 01:16:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：雙方對諒解備忘錄的文字都感到滿意。"
+    },
+    {
+      "id": "mkt:019ebcd5-74bd-7dd8-afe3-e9af6b9475ad",
+      "time": "2026-06-13 01:16:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A senior US government official said the United States has seen substantive progress in negotiations on the agreement text."
+    },
+    {
+      "id": "mkt:019ebcd4-f00c-7dd8-afe3-e739e3f92498",
+      "time": "2026-06-13 01:15:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A senior U.S. government official said significant sanctions relief will be offered depending on Iran's compliance."
+    },
+    {
+      "id": "4933251",
+      "time": "2026-06-13 01:15:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員： 伊朗方面已表示認可，同意協議文字內容。"
+    },
+    {
+      "id": "4933250",
+      "time": "2026-06-13 01:14:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：伊朗可能獲得的好處包括解凍資產。"
+    },
+    {
+      "id": "4933249",
+      "time": "2026-06-13 01:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：伊朗可能獲得的好處包括制裁的緩解， 伊朗的履約情況將決定其獲得大規模製裁豁免的程度。"
+    },
+    {
+      "id": "mkt:019ebcd3-4e21-7dd8-afe3-dfb5ca5219e9",
+      "time": "2026-06-13 01:13:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senior US government official says the better Iran behaves, the more it can obtain."
+    },
+    {
+      "id": "mkt:019ebcd3-44e8-7dd8-afe3-d14f6f039951",
+      "time": "2026-06-13 01:13:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A senior U.S. government official said the Iran agreement explicitly requires opening the Strait of Hormuz, lifting blockades and transferring enriched material."
+    },
+    {
+      "id": "4933248",
+      "time": "2026-06-13 01:13:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國政府高階官員： 伊美協議就海峽通航、解除封鎖以及濃縮核材料轉運事宜作出了明確規定。 這份諒解備忘錄擬定了伊朗獲取相關回報的總體框架。"
+    },
+    {
+      "id": "mkt:019ebcd2-d0f7-7dd8-afe3-cf0e2b924c86",
+      "time": "2026-06-13 01:13:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President Costa said EU member states have agreed on the first negotiating package to open accession talks with Ukraine and Moldova."
+    },
+    {
+      "id": "4933247",
+      "time": "2026-06-13 01:12:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲理事會主席科斯塔：所有成員國一致同意，啟動與烏克蘭、摩爾多瓦的首批入盟談判章節磋商。"
+    },
+    {
+      "id": "mkt:019ebcd1-fc9b-7dd8-afe3-c6d137bad1ec",
+      "time": "2026-06-13 01:12:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A U.S. senior government official said Iran is resolving internal divisions over the agreement."
+    },
+    {
+      "id": "mkt:019ebcd1-9834-7dd8-afe3-bcbe58bab458",
+      "time": "2026-06-13 01:11:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A senior US government official said there is an 80-85% probability a US-Iran agreement could be signed."
+    },
+    {
+      "id": "4933246",
+      "time": "2026-06-13 01:11:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：伊美協議簽署機率達 80% 至 85%，尚未最終敲定，但已接近尾聲。"
+    },
+    {
+      "id": "mkt:019ebcd1-267f-7dd8-afe3-b0c8a5d4313c",
+      "time": "2026-06-13 01:11:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior US government official said the US has not yet truly reached the end, but is very close."
+    },
+    {
+      "id": "mkt:019ebcd0-5332-7dd8-afe3-afc16f93c95f",
+      "time": "2026-06-13 01:10:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) shares rose 30% to $176.40, valuing the company at $2.3 trillion."
+    },
+    {
+      "id": "4933245",
+      "time": "2026-06-13 01:10:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：一些伊朗強硬派人士想扼殺這項協議，伊朗簽署協議後不會立刻獲得任何好處，履行全部義務後方可獲得相關權益。"
+    },
+    {
+      "id": "mkt:019ebcd0-0714-7dd8-afe3-a64094cb2ad1",
+      "time": "2026-06-13 01:10:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Senior US official says the draft US‑Iran agreement would include lifting US‑imposed blockade measures and provisions to push dismantling of Iran's nuclear program; Iran would not receive immediate benefits on signing."
+    },
+    {
+      "id": "4933244",
+      "time": "2026-06-13 01:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：伊朗正就協議相關事宜協調內部分歧，無法確定伊美協議的具體簽署日期。"
+    },
+    {
+      "id": "mkt:019ebccf-055b-7dd8-afe3-997f29235ef7",
+      "time": "2026-06-13 01:09:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said the U.S. expects the agreement to be signed within the next few days."
+    },
+    {
+      "id": "mkt:019ebcce-c274-7dd8-afe3-9431f9b5b375",
+      "time": "2026-06-13 01:08:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reporter: Trump told me he has asked Iran to publicly clarify state-media reports on agreement details, saying he believes the reports are inaccurate."
+    },
+    {
+      "id": "4933243",
+      "time": "2026-06-13 01:08:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：我們預計將在未來幾天內簽署協議，目前無法百分百確定協議能夠簽署。"
+    },
+    {
+      "id": "4933242",
+      "time": "2026-06-13 01:08:26",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX 上市首日股價漲幅擴大至 30%  。"
+    },
+    {
+      "id": "mkt:019ebcce-7303-7dd8-afe3-8b3507212005",
+      "time": "2026-06-13 01:08:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior US government official said Iran would receive benefits if it truly fulfilled its commitments."
+    },
+    {
+      "id": "mkt:019ebcce-437b-7dd8-afe3-8066e7368e56",
+      "time": "2026-06-13 01:08:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "A senior US administration official said the Iran agreement includes inspection mechanisms and that Iran would receive economic incentives if it complies."
+    },
+    {
+      "id": "4933241",
+      "time": "2026-06-13 01:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：伊美協議將保障該地區實現長期和平，包含核查機制。 若伊朗遵守協議，將獲得經濟方面的回報。"
+    },
+    {
+      "id": "4933240",
+      "time": "2026-06-13 01:07:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：根據伊美協議，美方將取得伊朗濃縮核材料。"
+    },
+    {
+      "id": "4933239",
+      "time": "2026-06-13 01:07:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國政府高階官員：美伊協議將重開海峽，解除封鎖。美伊協議實現了特朗普的目標。"
+    },
+    {
+      "id": "mkt:019ebccd-50c6-7dd8-afe3-7d4ac1615875",
+      "time": "2026-06-13 01:07:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "A senior U.S. official said the agreement with Iran achieved core U.S. objectives, would reopen the Strait of Hormuz and would ensure long-term regional peace."
+    },
+    {
+      "id": "4933238",
+      "time": "2026-06-13 01:06:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：伊美協議達成了美方核心目標。"
+    },
+    {
+      "id": "mkt:019ebcc9-31ac-7dd8-afe3-70e0895e10b4",
+      "time": "2026-06-13 01:02:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Baker Hughes (BKR.O): U.S. energy companies cut active drilling rigs, the first decline in eight weeks."
+    },
+    {
+      "id": "mkt:019ebcc8-cc93-7dd8-afe3-6b37407c4911",
+      "time": "2026-06-13 01:02:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. total rigs for the week to June 12: 562, down from 563 the prior week."
+    },
+    {
+      "id": "mkt:019ebcc8-ae42-7dd8-afe3-60b27290fed8",
+      "time": "2026-06-13 01:02:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Jun.12) | actual 562 | previous 563"
+    },
+    {
+      "id": "4933237",
+      "time": "2026-06-13 01:01:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國6月12日當週總鑽井數 562，前值 563。\n美國6月12日當週石油鑽井數 433，前值 431。\n美國6月12日當週天然氣鑽井數 121，前值 124。"
+    },
+    {
+      "id": "mkt:019ebcc7-cc81-7dd8-afe3-5ea35fa1c375",
+      "time": "2026-06-13 01:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US natural gas rig count fell to 121 in the week to June 12 from 124 a week earlier."
+    },
+    {
+      "id": "mkt:019ebcc7-b627-7dd8-afe3-509ee8985a03",
+      "time": "2026-06-13 01:01:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Jun.12) | actual 121 | previous 124"
+    },
+    {
+      "id": "mkt:019ebcc7-a1dc-7dd8-afe3-487ad0ba4bf1",
+      "time": "2026-06-13 01:01:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. oil rig count for the week to June 12: 433 rigs, up from 431 the prior week."
+    },
+    {
+      "id": "mkt:019ebcc7-85bb-7dd8-afe3-4439ec71be4a",
+      "time": "2026-06-13 01:00:52",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Jun.12) | actual 433 | previous 431"
+    },
+    {
+      "id": "mkt:019ebcc7-3b77-7dd8-afe3-3dbd64d47bb4",
+      "time": "2026-06-13 01:00:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "A U.S. judge will not block Trump's planned UFC mixed martial arts event at the White House on June 14."
+    },
+    {
+      "id": "4933236",
+      "time": "2026-06-13 01:00:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios記者： 特朗普稱，他已要求伊朗方面就其官方媒體披露的協議細節作出公開澄清，並表示相關報道內容不實。"
+    },
+    {
+      "id": "4933235",
+      "time": "2026-06-13 00:58:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據Axios：特朗普稱，他仍然認為與伊朗達成的協議有可能在本週末或下週一簽署。"
+    },
+    {
+      "id": "mkt:019ebcc5-3d7d-7dd8-afe3-37fc67cc8035",
+      "time": "2026-06-13 00:58:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge denied the Trump administration's request to stay enforcement of a permanent injunction in the Kennedy Center case."
+    },
+    {
+      "id": "4933234",
+      "time": "2026-06-13 00:58:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官駁回特朗普政府就肯尼迪中心案永久禁令提出的暫緩執行申請。"
+    },
+    {
+      "id": "4933233",
+      "time": "2026-06-13 00:57:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美軍曾緊急籌備地面行動以奪取伊朗鈾濃縮材料，但特朗普最終叫停】兩位知情人士向CNN透露，上月末，美軍最高將領秘密緊急前往位於佛羅里達州的美國中央司令部總部，當面聽取一項軍事計劃簡報：美軍擬派遣地面部隊進入伊朗，強行奪取其高濃縮鈾。訊息稱，此次簡報極為緊急且敏感，參謀長聯席會議主席丹・凱恩上將因此於 5 月 19 日從布魯塞爾北約高官會議中途離席，火速跨越大西洋返回佛羅里達州坦帕市。簡報的高規格與緊迫性表明，美國政府當時距離批准這項高風險地面行動僅一步之遙。其中一位訊息人士稱，凱恩隨後向美國總統特朗普彙報了該行動的相關方案。訊息人士補充道，但在收到 “行動或引發伊朗激烈報復、擴大戰事並加劇全球經濟動盪” 的警告後，特朗普叫停了計劃。此外，他還擔憂美軍可能面臨重大傷亡，而美國民眾恐難以接受。一位瞭解潛在軍事行動計劃的訊息人士表示：“風險極高。” 他還稱，特朗普上月最終拒絕批准行動，並不出人意料。"
+    },
+    {
+      "id": "mkt:019ebcc3-a5e7-7dd8-afe3-297e333b549e",
+      "time": "2026-06-13 00:56:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios: Trump said he still believes an agreement with Iran could be signed this weekend or next Monday."
+    },
+    {
+      "id": "mkt:019ebcc3-3bb4-7dd8-afe3-210dddcde2ca",
+      "time": "2026-06-13 00:56:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O): Next Kuiper LEO Europe 3 (LE-03) mission scheduled to launch at 7:53 a.m. ET on Wednesday, June 17."
+    },
+    {
+      "id": "4933232",
+      "time": "2026-06-13 00:55:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜：亞馬遜下一代柯伊伯計劃衛星發射任務 LEO EUROPE 3（LE-03），計劃於美國東部時間 6 月 17 日週三早 7 時 53 分、世界協調時間 11 時 53 分升空。"
+    },
+    {
+      "id": "4933231",
+      "time": "2026-06-13 00:54:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：美國總統特朗普在一通簡短通話中表示，他認為伊朗外交部長阿拉格齊的表態態度十分積極。"
+    },
+    {
+      "id": "mkt:019ebcc1-b8e8-7dd8-afe3-1c47c970cf88",
+      "time": "2026-06-13 00:54:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Axios reporter said Trump told him in a brief call he considered a post by Iranian foreign minister Araghchi \"very positive\"."
+    },
+    {
+      "id": "mkt:019ebcc0-894c-7dd8-afe3-15508ef5011a",
+      "time": "2026-06-13 00:53:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) shares climbed to an intraday high of $170, more than 25% above the IPO price."
+    },
+    {
+      "id": "4933230",
+      "time": "2026-06-13 00:53:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲216美元，報13698美元/噸。LME期鋁收漲33美元，報3535美元/噸。LME期鋅收漲88美元，報3584美元/噸。"
+    },
+    {
+      "id": "mkt:019ebcbe-d380-7dd8-afe3-0e1c8bea1f95",
+      "time": "2026-06-13 00:51:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CNN, citing sources, said Joint Chiefs chairman Kane secretly visited CENTCOM headquarters in Florida late last month to receive an in-person briefing on plans for US ground forces to enter Iran to forcibly seize highly enriched uranium. Kane subsequently briefed Trump on the proposed operation."
+    },
+    {
+      "id": "mkt:019ebcbd-a71f-7dd8-afe3-02c9919a3965",
+      "time": "2026-06-13 00:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "US oil rig count for the week to June 12 due in 10 minutes."
+    },
+    {
+      "id": "4933229",
+      "time": "2026-06-13 00:49:18",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX 股價攀升至盤中高點 169 美元，較發行價上漲 25%。"
+    },
+    {
+      "id": "4933228",
+      "time": "2026-06-13 00:48:42",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【SpaceX IPO 投行費用超 5 億美元】SpaceX 此次首次公開募股產生的投行總費用約 5 億美元，佔 750 億美元募資總額的 0.7%。高盛與摩根士丹利預計各斬獲約 1 億美元，分成佔比最高。美國銀行、花旗集團和摩根大通將分別獲得約 7500 萬美元，其餘中小型投行收費則不超過 1000 萬美元。"
+    },
+    {
+      "id": "mkt:019ebcbb-e3d5-7dd8-afe2-fc3e10229f49",
+      "time": "2026-06-13 00:48:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hezbollah said it carried out a suicide drone strike at 05:30 on Friday, June 12, 2026, against a newly established Israeli forces artillery position on Mount Hamamis south of Shiyam."
+    },
+    {
+      "id": "mkt:019ebcbb-3f9f-7dd8-afe2-f354e91b10f9",
+      "time": "2026-06-13 00:47:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "The Wall Street Journal reports Goldman Sachs and Morgan Stanley are each expected to receive about $100 million in underwriting fees from SpaceX's IPO."
+    },
+    {
+      "id": "4933227",
+      "time": "2026-06-13 00:46:59",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【德國兩年期國債收益率週五跌超6個基點，本週10年期法債收益率漲超5個基點】週五（6月12日，歐洲央行宣佈加息的次日）歐市尾盤，德國10年期國債收益率跌3.6個基點，報2.995%，本週累計下跌4.3個基點，6月8-11日主要持穩於3.040%上方——歐洲央行宣佈加息前數小時高開至3.091%，隨後持續走低，6月12日歐市早盤曾跌至2.964%。兩年期德債收益率跌6.2個基點，報2.617%，本週累跌7.6個基點，整體交投於2.729%-2.584%區間；30年期德債收益率跌1.5個基點，報3.549%，本週累跌2.1個基點。2/10年期德債收益率利差漲2.420個基點，報+37.559個基點，本週累漲3.126個基點。"
+    },
+    {
+      "id": "4933226",
+      "time": "2026-06-13 00:46:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "據華爾街日報：高盛、摩根士丹利各自將從SpaceX首次公開募股中收取 1 億美元服務費。"
+    },
+    {
+      "id": "mkt:019ebcb8-f4aa-7dd8-afe2-ef2509f5069e",
+      "time": "2026-06-13 00:44:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA Director General Grossi said the agency’s primary task is to comprehensively verify Iran’s nuclear capabilities."
+    },
+    {
+      "id": "4933224",
+      "time": "2026-06-13 00:44:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "Citadel（城堡）用5億美元支援對沖基金Toms。"
+    },
+    {
+      "id": "mkt:019ebcb6-dbfd-7dd8-afe2-e7e7c9847777",
+      "time": "2026-06-13 00:42:40",
+      "tags": [
+        "MKT News",
+        "HOOD.O",
+        "Impact bullish"
+      ],
+      "text": "Robinhood (HOOD.O) platform traffic hit a record high today."
+    },
+    {
+      "id": "4933222",
+      "time": "2026-06-13 00:42:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "網紅券商Robinhood：今天成交量創（單日/盤中）歷史新高。"
+    },
+    {
+      "id": "mkt:019ebcb6-403d-7dd8-afe2-dd8177d23250",
+      "time": "2026-06-13 00:42:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hainan advances commercial space push, aims to complete full-chain launch capability by year-end】Hainan’s provincial space leadership group met in Haikou on June 12, chaired by Governor Liu Xiaoming, and ordered an accelerated build-out of commercial launch sites and an aerospace-city zone to speed major projects. The province targets basic completion by year-end of core full-chain capabilities — launch, TT&C (telemetry, tracking & control), recovery and reuse — and called for scientific, rational, integrity-based and sustainable management, clearer role allocation and faster project delivery. Authorities directed measures to secure inputs, prioritise filling, extending and strengthening supply chains, sharpen targeted investment attraction, fast-track operator incubation and public service platforms to boost local supplier capacity and grow the rocket, satellite and data industry chains. The meeting stressed bottom-line and systems thinking, enhanced risk identification and mitigation, and safe implementation of H2 launch tasks."
+    },
+    {
+      "id": "mkt:019ebcb2-c46e-7dd8-afe2-d40078c45e2d",
+      "time": "2026-06-13 00:38:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Pakistan PM: Iran and US agree on text of peace agreement】Pakistan Prime Minister Shahbaz said on social media on the 12th that Iran and the US have agreed on the text of a peace agreement."
+    },
+    {
+      "id": "mkt:019ebcb2-2f4a-7dd8-afe2-cd7f4f76d6bc",
+      "time": "2026-06-13 00:37:34",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq turns positive, up 0.2%."
+    },
+    {
+      "id": "4933221",
+      "time": "2026-06-13 00:30:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦總理：伊朗和美國已就協議文字達成一致】巴基斯坦總理夏巴茲12日在社交媒體上說，伊朗和美國已就和平協議文字達成一致。（新華社）"
+    },
+    {
+      "id": "te:economy:558785",
+      "time": "2026-06-13 00:30:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Jun 15th — Signals that the US and Iran were converging toward a deal to end their conflict will maintain the global spotlight on the outlook of energy supply from the Middle East. Additionally, the Fed will decide on its policy rate on Chairman Warsh's first meeting. Also in the policy front, the BoE, BoJ, RBA, Riksbank, SNB, Norges Bank, and BCB will also set rates. Germany will post sentiment indicators, while Japan will release its inflation rate and machinery orders- US retail sales, trade terms, and industrial production will shape their economic calendar. Meanwhile, the UK will post its inflation rate, retail sales, and labor market data. China's monthly data-dump week will include industrial production, retail sales, the unemployment rate, housing prices, and fixed asset investment. Lastly, local elections in the UK could shape the futures of incumbent PM Starmer."
+    },
+    {
+      "id": "4933220",
+      "time": "2026-06-13 00:29:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國兩年期國債收益率週五、本週均跌超10個基點】週五（6月12日）歐市尾盤，英國10年期國債收益率跌6.9個基點，報4.836%，本週累計下跌6.7個基點，6月8-11日主要窄幅震盪於4.9%上方，6月12日歐市盤初跳水。兩年期英債收益率跌10.6個基點，報4.235%，本週累跌10.3個基點。30年期英債收益率跌5.3個基點，報5.536%，本週累跌5.1個基點；50年期英債收益率跌4.0個基點，報5.112%，本週累跌3.9個基點。2/10年期英債收益率利差漲3.674個基點，報+59.968個基點，本週累漲3.536個基點。"
+    },
+    {
+      "id": "4933219",
+      "time": "2026-06-13 00:27:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國得克薩斯州發生槍擊事件 至少一人死亡】當地時間12日，美國得克薩斯州米德蘭市市長洛裡·布隆稱，該市當日上午發生槍擊事件，造成至少一人死亡，另有多人受傷。她表示，嫌疑人已被“控制”，但未透露具體細節。"
+    },
+    {
+      "id": "4933218",
+      "time": "2026-06-13 00:25:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行官員Kazimir稱需進一步加息以遏制通脹】歐洲央行管理委員會成員Peter Kazimir表示，通脹在整個經濟領域的蔓延將迫使歐洲央行進一步提高利率。這位斯洛伐克央行行長認為，價格壓力在沒有干預的情況下不會緩解。他表示，即便美國與伊朗達成和平協議，也無法讓通脹一夜之間回落至2%的目標水平。他說，儘管經濟降溫，但仍具韌性，為決策者採取行動留出了空間。“我們的使命尚未完成，”Kazimir週五在倫敦接受採訪時表示。“現在討論政策是否需要變得具有限制性為時過早。但考慮到價格壓力正向整個經濟擴散，我絕不會排除這種可能性。”歐洲央行週四將存款利率上調25個基點至2.25%，成為首家對戰爭經濟影響作出反應的主要央行。知情人士表示，歐洲央行官員認為下一次加息最早可能在7月進行。"
+    },
+    {
+      "id": "mkt:019ebca7-0bd7-7dd8-afe2-c6cf8fd39179",
+      "time": "2026-06-13 00:25:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Texas police said on Friday morning local time they are in a standoff with a suspect after an active shooter incident. Authorities report 11 victims, with at least one killed at the scene."
+    },
+    {
+      "id": "te:markets:558784",
+      "time": "2026-06-13 00:21:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Falls on Hopes of US-Iran Deal — Crude oil fell more than 3% to below $85 per barrel on Friday, reaching an eight-week low as hopes increased that the US and Iran could be close to an interim peace agreement, despite remaining uncertainties. Officials said both sides are moving toward a deal to reopen the Strait of Hormuz, potentially in time for the upcoming G7 meeting. Iran’s Foreign Minister Abbas Araghchi said a Memorandum of Understanding between the two countries had never been closer, supporting expectations that the prolonged conflict could be nearing an end. However, traders remain cautious after previous reports of breakthroughs failed to materialize. Risks remain, with reports of US forces intercepting Iranian drones near commercial vessels. Prices briefly recovered after President Trump cast doubt on the reported draft agreement, saying the published terms did not reflect the agreement discussed."
+    },
+    {
+      "id": "4933217",
+      "time": "2026-06-13 00:20:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【埃克森美孚據悉考慮潛在收購目標 包括澳洲最大LNG出口商伍德賽德能源】根據知情人士透露，埃克森美孚正在研究澳大利亞的伍德賽德能源集團等潛在收購目標。這家美國巨頭正在考慮深化其在液化天然氣和亞洲市場的業務佈局。知情人士透露，埃克森美孚內部一直在展開初步討論。他們還表示，伍德賽德能源是埃克森美孚正在評估的幾個收購目標之一。伍德賽德能源ADR週五在紐約一度上漲14%。截至悉尼收盤，該公司市值約為590億澳元（420億美元）。知情人士表示，目前討論尚處於初步階段，不能保證最終會達成協議。"
+    },
+    {
+      "id": "mkt:019ebca2-9508-7dd8-afe2-b8618a2b403b",
+      "time": "2026-06-13 00:20:31",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "【SpaceX options to begin trading next Tuesday】SpaceX (SPCX.O) options will start trading next Tuesday after the stock began trading today. The IPO raised $75 billion at a $1.765 trillion valuation; shares opened at $150, above the $135 IPO price. A spokesperson confirmed options listings on CBOE and Nasdaq. The new options may draw strong demand for directional bets and downside hedges, and a surge in options volume could further lift underlying stock trading demand."
+    },
     {
       "id": "4933216",
       "time": "2026-06-13 00:15:58",
@@ -168830,576 +169600,6 @@
         "Importance 1"
       ],
       "text": "Costa Rica Deflation Eases in May — Costa Rica's consumer prices fell 0.97% year-on-year in May 2026, following a 1.64% decline in April, extending the country's deflationary trend. The decrease was mainly driven by lower prices for food (-3.89%), clothing and footwear (-2.69%), housing and utilities (-1.20%), furniture and household services (-2.04%), information and communication (-0.96%), and insurance and financial services (-0.55%). Meanwhile, the largest price increases were recorded in education (2.75%), alcoholic beverages and tobacco (2.21%), and healthcare (1.72%). On a monthly basis, consumer prices rose 0.27% in May, reversing a 0.04% decline in April."
-    },
-    {
-      "id": "mkt:019e98cb-1dde-7665-830a-a97dc618c45a",
-      "time": "2026-06-06 01:18:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Fed accepted $761 million from five counterparties in fixed-rate reverse repo operations."
-    },
-    {
-      "id": "4920240",
-      "time": "2026-06-06 01:16:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週五（6月5日），美聯儲隔夜逆回購協議（RRP）使用規模為7.61億美元（交易對手5家），上個交易日報11.22億美元。"
-    },
-    {
-      "id": "mkt:019e98c8-e11a-7665-830a-a14856ee885e",
-      "time": "2026-06-06 01:16:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House official says Iranian World Cup players have been issued visas to enter the U.S."
-    },
-    {
-      "id": "4920239",
-      "time": "2026-06-06 01:15:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮官員：伊朗世界盃足球隊球員已獲批赴美簽證。"
-    },
-    {
-      "id": "mkt:019e98c6-17ce-7665-830a-994cf656e574",
-      "time": "2026-06-06 01:12:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reported Russian President Putin met with former German Chancellor Gerhard Schroder."
-    },
-    {
-      "id": "mkt:019e98c4-776a-7665-830a-926e7837f221",
-      "time": "2026-06-06 01:11:12",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "VIX jumps to highest in over two weeks, up 3.32 points at 18.72."
-    },
-    {
-      "id": "4920238",
-      "time": "2026-06-06 01:06:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝加哥期權交易所波動率指數（VIX）飆升至兩週以來高位，最新上漲 3.32 點，報 18.72。"
-    },
-    {
-      "id": "4920237",
-      "time": "2026-06-06 01:04:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯總統普京同德國前總理格哈德・施羅德舉行會晤。"
-    },
-    {
-      "id": "4920236",
-      "time": "2026-06-06 01:02:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝克休斯資料：美國油氣鑽井平臺數量連續第七週環比增加。"
-    },
-    {
-      "id": "mkt:019e98bb-fbf2-7665-830a-88dc5f858c94",
-      "time": "2026-06-06 01:01:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US natural gas rig count stood at 124 in the week to June 5, down from 125 the prior week."
-    },
-    {
-      "id": "mkt:019e98bb-f737-7665-830a-864fb6eafeda",
-      "time": "2026-06-06 01:01:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US total rig count for the week to June 5: 563 rigs, compared with 562 the prior week."
-    },
-    {
-      "id": "mkt:019e98bb-e935-7665-830a-7ec2098007b8",
-      "time": "2026-06-06 01:01:44",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (Jun.5) | actual 124 | previous 125"
-    },
-    {
-      "id": "mkt:019e98bb-b1aa-7665-830a-77bbf1053d17",
-      "time": "2026-06-06 01:01:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (Jun.5) | actual 563 | previous 562"
-    },
-    {
-      "id": "mkt:019e98bb-8cf1-7665-830a-6fe8c03db594",
-      "time": "2026-06-06 01:01:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US oil rig count rose to 431 in the week to June 5 from 429 the prior week."
-    },
-    {
-      "id": "mkt:019e98bb-707f-7665-830a-62dbe9acc38e",
-      "time": "2026-06-06 01:01:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (Jun.5) | actual 431 | previous 429"
-    },
-    {
-      "id": "4920235",
-      "time": "2026-06-06 01:01:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國6月5日當週總鑽井數 563，前值 562。\n美國6月5日當週石油鑽井數 431，前值 429。\n美國6月5日當週天然氣鑽井數 124，前值 125。"
-    },
-    {
-      "id": "4920234",
-      "time": "2026-06-06 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌2.07%，滬銅收跌1.84%，滬鋁收跌0.76%，滬鋅收跌0.60%，滬鉛收跌0.03%，滬鎳收跌0.31%，滬錫收跌5.27%。氧化鋁夜盤收漲0.65%，鋁合金收跌0.61%。不鏽鋼夜盤收跌0.14%。"
-    },
-    {
-      "id": "mkt:019e98b5-7bf6-7665-830a-5fa6867d0056",
-      "time": "2026-06-06 00:54:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department approved a possible foreign military sale to Italy of amphibious assault vehicles and related equipment worth about $30.6 million."
-    },
-    {
-      "id": "4920233",
-      "time": "2026-06-06 00:54:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收跌412美元，報13520美元/噸。LME期鋁收跌74美元，報3592美元/噸。LME期鋅收跌58美元，報3530美元/噸。LME期鉛收跌12美元，報2005美元/噸。LME期鎳收跌108美元，報18581美元/噸。LME期錫收跌2809美元，報52935美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:019e98b4-2227-7665-830a-558813bfadf5",
-      "time": "2026-06-06 00:53:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. State Department said it has approved a possible arms sale to South Korea of Joint Direct Attack Munitions (JDAMs) valued at about $106 million."
-    },
-    {
-      "id": "4920232",
-      "time": "2026-06-06 00:52:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收跌412美元，報13520美元/噸。LME期鋁收跌74美元，報3592美元/噸。LME期鋅收跌58美元，報3530美元/噸。"
-    },
-    {
-      "id": "4920231",
-      "time": "2026-06-06 00:52:35",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：批准擬向義大利出售兩棲突擊車及相關配套裝備，交易金額 3060 萬美元。"
-    },
-    {
-      "id": "mkt:019e98b2-fcd6-7665-830a-4cbdc48c0282",
-      "time": "2026-06-06 00:52:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "The IAEA said on the incident at the ZAPORIZHZHIA NUCLEAR PLANT that Director General GROSSI urged all parties to exercise maximum military restraint and fully comply with the ceasefire agreement."
-    },
-    {
-      "id": "mkt:019e98b1-7b39-7665-830a-4390f942d0e7",
-      "time": "2026-06-06 00:50:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Russian President Putin said drones attacked a shelter in St. Petersburg, striking some targets."
-    },
-    {
-      "id": "mkt:019e98b1-4f8a-7665-830a-3af996fcba26",
-      "time": "2026-06-06 00:50:17",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "IAEA: Ukraine has notified the agency it remains committed to observing the ceasefire agreement brokered by the IAEA following a serious incident at the Zaporizhzhia nuclear plant."
-    },
-    {
-      "id": "mkt:019e98b1-2116-7665-830a-34c65addf269",
-      "time": "2026-06-06 00:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "U.S. oil rig count for week through June 5 due in 10 minutes."
-    },
-    {
-      "id": "mkt:019e98af-c3b7-7665-830a-2f5ab37c75a6",
-      "time": "2026-06-06 00:48:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "IAEA said it had been informed that a serious incident occurred today at the Zaporizhzhia nuclear plant during a local ceasefire and demining phase agreed between the parties, injuring several Russian military personnel."
-    },
-    {
-      "id": "4920230",
-      "time": "2026-06-06 00:48:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 無人機襲擊了聖彼得堡一處避難場所，襲擊方達成部分目標。"
-    },
-    {
-      "id": "4920229",
-      "time": "2026-06-06 00:47:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際原子能機構：多名俄方軍事人員受傷。事故目前正在調查中。烏克蘭方面告知國際原子能機構，烏方仍恪守經由原子能機構斡旋、俄烏歷經數週繁複談判達成的停火協議。 國際原子能機構總幹事格羅西呼籲各方最大限度保持軍事剋制、嚴格遵守停火協定，保障後續數日內輸電線路修繕工作按計劃開展；他指出，線路搶修是防範扎波羅熱核電站發生核事故的關鍵舉措。"
-    },
-    {
-      "id": "4920228",
-      "time": "2026-06-06 00:45:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構：獲悉扎波羅熱核電站附近商定區域性停火區域今日排雷作業期間發生嚴重事故。"
-    },
-    {
-      "id": "mkt:019e98ac-fe21-7665-830a-244cf8abd44d",
-      "time": "2026-06-06 00:45:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said Iran did not request weapons and Russia did not provide any."
-    },
-    {
-      "id": "mkt:019e98ac-a3cf-7665-830a-19a980a84f89",
-      "time": "2026-06-06 00:45:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish",
-        "TSLA.O"
-      ],
-      "text": "U.S. equities extended losses; the Nasdaq fell 3.00% and Tesla (TSLA.O) slipped more than 5% intraday."
-    },
-    {
-      "id": "4920227",
-      "time": "2026-06-06 00:44:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 伊朗未曾提出武器採購請求，俄方也未向其提供任何武器。"
-    },
-    {
-      "id": "4920226",
-      "time": "2026-06-06 00:43:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌3.00%，現報26025.983點；道指跌0.82%，現報51139.031點；標普500指數跌1.83%，現報7445.830點。"
-    },
-    {
-      "id": "mkt:019e98a6-ee75-7665-830a-129d965a89d8",
-      "time": "2026-06-06 00:38:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Toronto stock index fell as much as 2%."
-    },
-    {
-      "id": "mkt:019e98a6-a94a-7665-830a-09ddad04ca95",
-      "time": "2026-06-06 00:38:39",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. State Department approved sale of MH-60R multi-mission helicopters and related equipment to New Zealand, estimated at $1.5 billion."
-    },
-    {
-      "id": "4920225",
-      "time": "2026-06-06 00:36:32",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：批准擬向紐西蘭出售 MH-60R 多用途直升機及相關配套裝備，預估合同金額 15 億美元。"
-    },
-    {
-      "id": "mkt:019e98a3-cbf6-7665-830a-049d3dd84e12",
-      "time": "2026-06-06 00:35:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department approved sale of MK 54 torpedoes to New Zealand; estimated deal value $69 mln."
-    },
-    {
-      "id": "4920224",
-      "time": "2026-06-06 00:35:30",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "國國務院：批准擬向紐西蘭出售 MK 54 魚雷，預估交易額 6900 萬美元。"
-    },
-    {
-      "id": "mkt:019e98a3-0d2e-7665-8309-ff7d667899db",
-      "time": "2026-06-06 00:34:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "New York copper futures slid 4.00% intraday to $6.2735 per lb."
-    },
-    {
-      "id": "te:markets:556995",
-      "time": "2026-06-06 00:32:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intel Stock Price Hits 4-week Low — Intel shares decreased to 102.36 USD, the lowest since May 2026. Over the past 4 weeks, Intel lost 9.08%, and in the last 12 months, it increased 412.21%."
-    },
-    {
-      "id": "mkt:019e98a0-d1b2-7665-8309-f08a96cefb16",
-      "time": "2026-06-06 00:32:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "New York gold futures fell below $4,350/oz, down 3.44% intraday."
-    },
-    {
-      "id": "mkt:019e98a0-b778-7665-8309-edb9b8a07020",
-      "time": "2026-06-06 00:32:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. 2-year Treasury yield extended gains, up 13 bps to 4.17%."
-    },
-    {
-      "id": "4920223",
-      "time": "2026-06-06 00:31:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4350美元/盎司，日內跌3.44%。"
-    },
-    {
-      "id": "mkt:019e98a0-13d8-7665-8309-e3165c3197e6",
-      "time": "2026-06-06 00:31:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Two potential air leaks detected in ISS Russian Zvezda service module】Roscosmos confirmed on the 5th (local time) that two potential air leaks were detected in the International Space Station’s Russian Zvezda service module. The agency said the crew and station systems are not threatened. Russian cosmonauts have sealed the first leak and are preparing to seal the second."
-    },
-    {
-      "id": "mkt:019e989f-63a0-7665-8309-ddee3e4b6692",
-      "time": "2026-06-06 00:30:42",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude fell below $92/bbl, down 2.52% on the day."
-    },
-    {
-      "id": "4920222",
-      "time": "2026-06-06 00:30:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據Business Insider：埃隆·馬斯克計劃向歐洲最大科技公司的員工介紹SpaceX的Terafab晶片計劃，該專案被視為SpaceX在AI算力領域的一項重大技術押注。"
-    },
-    {
-      "id": "4920221",
-      "time": "2026-06-06 00:30:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數跌幅擴大至7%】費城半導體指數跌幅擴大至7%。英偉達股價下跌4.71%，臺積電股價下跌5.15%，博通股價下跌6.24%，美光科技股價下跌8.26%，超威半導體股價下跌8.62%，阿斯麥股價下跌4.62%。"
-    },
-    {
-      "id": "mkt:019e989e-a4fc-7665-8309-d74fbe5ac704",
-      "time": "2026-06-06 00:29:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O",
-        "Impact bearish",
-        "ASML.O",
-        "TSM.N"
-      ],
-      "text": "Philadelphia Semiconductor Index fell as much as 7%. NVIDIA (NVDA.O) declined 4.5%, ASML (ASML.O) fell 4.65%, TSMC (TSM.N) fell 5.22%."
-    },
-    {
-      "id": "4920220",
-      "time": "2026-06-06 00:28:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【德國兩年期國債收益率於美國非農日漲超3個基點，本週累漲超16個基點】週五（6月5日）歐市尾盤，德國10年期國債收益率上漲1.6個基點，報3.038%，美國非農就業報告發布時從3.028%拉昇至3.046%，本週累計上漲10.1個基點，交投於2.946%-3.051%區間，過半時間交投於3.030%附近。兩年期德債收益率漲3.1個基點，報2.692%，本週累漲16.3個基點，交投於2.571%-2.697%區間；30年期德債收益率漲0.7個基點，報3.571%，本週累漲7.1個基點。2/10年期德債收益率利差跌1.383個基點，報+34.432個基點，本週累跌6.264個基點。"
-    },
-    {
-      "id": "mkt:019e989d-1ded-7665-8309-ca32213bf8f5",
-      "time": "2026-06-06 00:28:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution"
-      ],
-      "text": "Business Insider reports Elon Musk plans to present SpaceX's Terafab chip program to employees of Europe's largest tech company; the program is viewed as a major SpaceX technology bet on AI compute."
-    },
-    {
-      "id": "4920219",
-      "time": "2026-06-06 00:27:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守90美元/桶，日內跌3.29%。"
-    },
-    {
-      "id": "mkt:019e989b-c244-7665-8309-c055ac3afac9",
-      "time": "2026-06-06 00:26:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell 3.00% intraday to $91.62/bbl."
-    },
-    {
-      "id": "4920218",
-      "time": "2026-06-06 00:25:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守93美元/桶，日內跌2.16%。"
-    },
-    {
-      "id": "4920217",
-      "time": "2026-06-06 00:25:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國 2 年期國債收益率延續上行走勢，上漲 13 個基點至 4.17%。"
-    },
-    {
-      "id": "4920216",
-      "time": "2026-06-06 00:23:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報93.11美元/桶。"
-    },
-    {
-      "id": "4920215",
-      "time": "2026-06-06 00:23:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌3%，現報90.25美元/桶。"
-    },
-    {
-      "id": "mkt:019e9898-6a92-7665-8309-bda29fab5328",
-      "time": "2026-06-06 00:23:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Iran adviser says talks stalled over $24bn asset freeze; demands $12bn immediate unfreeze; warns of wider attacks if U.S. restarts military action, denies meeting with Trump】Iran’s Supreme Leader adviser said negotiations with the U.S. are stalled over frozen assets and that any interim deal hinges on Washington unfreezing $24bn, with $12bn released immediately and the remaining $12bn in a later phase. He said U.S. officials worry an early unfreeze would weaken their leverage. The adviser warned that if the U.S. restarts military action Iran would expand attacks beyond the Persian Gulf — from the Strait of Hormuz to the Indian Ocean, Bab al‑Mandeb, the Red Sea and the Mediterranean — and could strike other U.S. bases previously hit, while adding the risk of full-scale war remains low. He denied any meeting between the Supreme Leader and Trump; Trump this week said he would be willing to meet."
     }
   ]
 }
