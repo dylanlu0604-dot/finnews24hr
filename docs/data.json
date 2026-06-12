@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-12 13:42:32",
-  "count": 18395,
+  "updated": "2026-06-12 13:46:32",
+  "count": 18387,
   "items": [
+    {
+      "id": "4931890",
+      "time": "2026-06-12 13:45:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀：到2030年 伺服器CPU市場規模料激增4倍至超1700億美元】美國銀行全球研究部分析師維韋克·阿利亞（Vivek Arya）最新預測，伺服器CPU的總潛在市場規模（TAM）將從2025年的350億美元激增4倍至2030年的1700億美元以上。這遠超該行此前對2030年伺服器CPU市場規模1250億美元的預測。Arya在報告中寫道：“我們認為，代理式AI的崛起是一個強大的需求加速器，它不僅擴大了CPU的市場機遇，也為英特爾、AMD以及基於Arm架構的挑戰者們帶來了利好。”"
+    },
+    {
+      "id": "4931889",
+      "time": "2026-06-12 13:45:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量5357億元。"
+    },
+    {
+      "id": "4931888",
+      "time": "2026-06-12 13:44:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胖東來發布關於“網傳員工工資問題”相關情況說明 】6月12日，胖東來發布，關於“網傳員工工資問題”相關情況說明。胖東來表示，從未有任何降薪的決定，薪酬政策是在公平公正的基礎上保障薪酬收入與創造價值相匹配，目的也是為了培養人和成就人，“請大家不要誤讀”。"
+    },
+    {
+      "id": "4931887",
+      "time": "2026-06-12 13:43:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊銀行將雷諾目標股價從42.5歐元下調至31.5歐元。"
+    },
+    {
+      "id": "4931886",
+      "time": "2026-06-12 13:43:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌2%，現報4413.00元。"
+    },
+    {
+      "id": "4931885",
+      "time": "2026-06-12 13:43:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌5%，現報4348.00元。"
+    },
+    {
+      "id": "mkt:019eba5a-bc1b-7dd8-afd3-1d1a8f4f3b50",
+      "time": "2026-06-12 13:42:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS",
+        "2330.TW"
+      ],
+      "text": "【Wall Street banks curb hedge fund leveraged longs on SK Hynix, Samsung】Global banks are restricting hedge fund leverage on leading Asian chipmakers after strong year-to-date rallies raised pullback risk. Brokers including Citigroup, JP Morgan and Goldman Sachs have raised financing costs on swap-based longs in SK Hynix and Samsung Electronics, tightened new-trade sizes and which names they will trade, and in some cases are refusing new swap requests or assessing them case-by-case. Banks have applied similar limits to TSMC."
+    },
+    {
+      "id": "4931884",
+      "time": "2026-06-12 13:42:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額達300億元，現漲2.35%。"
+    },
     {
       "id": "mkt:019eba59-e78b-7dd8-afd3-11aee368dfc2",
       "time": "2026-06-12 13:41:54",
@@ -10,6 +83,16 @@
         "Important"
       ],
       "text": "China crude oil futures main contract (SC) plunged 6.11% to 550.2 yuan/barrel; low-sulfur fuel oil (LU) fell 4.59% to 4,508 yuan/ton; fuel oil dropped 4.30% to 3,609 yuan/ton; asphalt fell 1.40% to 4,442 yuan/ton."
+    },
+    {
+      "id": "4931883",
+      "time": "2026-06-12 13:41:50",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【華爾街大行限制對沖基金對SK海力士和三星等亞洲晶片股的做多槓桿】據知情人士透露，全球銀行正在限制對沖基金對亞洲頂級晶片製造商（包括SK海力士和三星電子）的槓桿押注，此前今年以來的猛烈上漲引發了可能回撥的擔憂。知情人士表示，包括花旗集團、摩根大通和高盛在內的經紀商已經提高了對沖基金透過掉期方式押注SK海力士和三星電子股票的融資成本。銀行收緊了新交易的規模以及向哪些公司提供交易，有些銀行甚至拒絕客戶提出的新掉期交易請求，或根據具體情況進行評估。針對臺積電，銀行也採取了類似措施。"
     },
     {
       "id": "4931882",
@@ -169450,153 +169533,6 @@
         "市場"
       ],
       "text": "以太坊跌破1700美元。"
-    },
-    {
-      "id": "4918815",
-      "time": "2026-06-05 13:46:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南裕能增資至8.4億 增幅約11%】天眼查App顯示，近日，湖南裕能（301358）發生工商變更，註冊資本由約7.6億人民幣增至約8.4億人民幣，增幅約11%。 該公司成立於2016年6月，法定代表人為譚新喬，經營範圍包括電子專用材料研發、電子專用材料製造、電子專用材料銷售等，由湘潭電化集團有限公司、上海津晟新材料科技有限公司、寧德時代（300750）等共同持股。"
-    },
-    {
-      "id": "mkt:019e9650-a022-7ff7-b578-01ac7e0f30f5",
-      "time": "2026-06-05 13:45:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "NIO.O",
-        "Impact bullish"
-      ],
-      "text": "【NIO's Li Bin: Automakers must become AI companies; smart cockpits must become AI cockpits】On June 5 at Qualcomm's 2026 Automotive Technology and Cooperation Summit, NIO founder, chairman and CEO Li Bin said automakers must become AI companies and smart cockpits must become AI cockpits. He said AI is reshaping next‑generation cockpit experience and ushering in a cognitive‑cockpit era, and that future core cockpit experiences must be fully agentized. NIO is advancing toward that goal in its in‑vehicle cockpit experience, with some functions already deployed in production vehicles."
-    },
-    {
-      "id": "mkt:019e9650-3bb4-7ff7-b577-fc585fd6333d",
-      "time": "2026-06-05 13:45:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japanese Prime Minister Takaichi said ensuring fiscal capacity is an important issue."
-    },
-    {
-      "id": "mkt:019e9650-2cd6-7ff7-b577-f72371124bd7",
-      "time": "2026-06-05 13:44:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japanese Prime Minister Takaichi said she will set a clear target to lower Japan's debt-to-GDP ratio."
-    },
-    {
-      "id": "mkt:019e964f-e3c3-7ff7-b577-eb71af4288d2",
-      "time": "2026-06-05 13:44:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt's investment minister said the seventh review of the country's IMF program is progressing smoothly and current conditions indicate Egypt will not need a new IMF program after this one ends."
-    },
-    {
-      "id": "4918814",
-      "time": "2026-06-05 13:44:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚來李斌：現在的汽車公司必須成為AI公司，現在的智慧座艙必須成為AI座艙】6月5日，在2026高通汽車技術與合作峰會上，蔚來創始人、董事長、CEO李斌表示，現在的汽車公司，必須成為AI公司，現在的智慧座艙，必須成為AI座艙。在李斌看來，AI正在重構下一代座艙體驗，把智慧座艙帶入認知座艙時代。李斌強調，以後智慧座艙的核心體驗，必須全面Agent化。截至目前，蔚來智慧座艙的綜合體驗，正朝著該目標不斷努力，部分功能已順利上車。"
-    },
-    {
-      "id": "4918813",
-      "time": "2026-06-05 13:43:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及財長表示，國際貨幣基金組織對埃及專案的第七次審查進展順利。"
-    },
-    {
-      "id": "4918812",
-      "time": "2026-06-05 13:43:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及投資部長法裡德·薩利赫預計，未來一年私營企業將推出4至5宗首次公開募股（IPO）。"
-    },
-    {
-      "id": "mkt:93836bd4-f1a8-435b-96d6-36fc95060eb2",
-      "time": "2026-06-05 13:43:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia spokesman says the bank will continue to strengthen its policy mix and coordinate with the government and parliament to support economic stability."
-    },
-    {
-      "id": "4918811",
-      "time": "2026-06-05 13:43:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及投資部長表示，埃及預計未來12個月將有最多4家國有企業完成首次公開募股。"
-    },
-    {
-      "id": "mkt:019e964e-bdb5-7aa9-a389-a6b22256b79c",
-      "time": "2026-06-05 13:43:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia spokesman said the central bank will draft technical regulations based on its new scope of authority."
-    },
-    {
-      "id": "4918810",
-      "time": "2026-06-05 13:43:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及部長表示：當前形勢表明，埃及無需在現有IMF專案於2026年末到期後推出新專案。"
-    },
-    {
-      "id": "4918809",
-      "time": "2026-06-05 13:43:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行發言人：央行將根據新授權制定技術性法規。"
-    },
-    {
-      "id": "4918808",
-      "time": "2026-06-05 13:42:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "棕櫚油連續主力合約日內跌3%，現報9409.00元。"
-    },
-    {
-      "id": "4918807",
-      "time": "2026-06-05 13:42:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行發言人表示，央行將繼續最佳化政策組合，並與政府、議會協作以維護經濟穩定。"
-    },
-    {
-      "id": "mkt:019e964e-52ac-7aa9-a389-9dc426e89bc9",
-      "time": "2026-06-05 13:42:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia said it provided input during the bill's review."
-    },
-    {
-      "id": "mkt:019e964e-4038-7aa9-a389-91fdd80cbbef",
-      "time": "2026-06-05 13:42:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia spokesman said the central bank supports new legislation that affects its mandate."
     }
   ]
 }
