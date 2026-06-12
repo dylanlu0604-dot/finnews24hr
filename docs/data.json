@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-12 13:05:44",
-  "count": 18390,
+  "updated": "2026-06-12 13:09:56",
+  "count": 18394,
   "items": [
+    {
+      "id": "mkt:019eba3b-e1d2-7dd8-afd2-1f01fade32b7",
+      "time": "2026-06-12 13:09:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Nagel said that even if the war ends quickly, a rate hike this week remains necessary."
+    },
+    {
+      "id": "mkt:019eba3b-b403-7dd8-afd2-11b72131fd0a",
+      "time": "2026-06-12 13:08:55",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel: inflation outlook has deteriorated."
+    },
+    {
+      "id": "4931843",
+      "time": "2026-06-12 13:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車工會將於6月25日投票決定是否罷工。"
+    },
+    {
+      "id": "mkt:019eba3b-5bd9-7dd8-afd2-0e342a8e3600",
+      "time": "2026-06-12 13:08:32",
+      "tags": [
+        "MKT News",
+        "BMW.DE",
+        "Impact bearish"
+      ],
+      "text": "CITIGROUP cuts BMW PT to €73 from €86."
+    },
+    {
+      "id": "4931842",
+      "time": "2026-06-12 13:08:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗將寶馬目標價從86歐元下調至73歐元。"
+    },
+    {
+      "id": "mkt:019eba3a-c262-7dd8-afd2-061508327f42",
+      "time": "2026-06-12 13:07:53",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "YONHAP reports Hyundai Motor union said wage talks failed to reach an agreement."
+    },
+    {
+      "id": "mkt:019eba39-80b0-7dd8-afd1-f86e9ca8ca3f",
+      "time": "2026-06-12 13:06:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "300059.SZ",
+        "Impact bullish"
+      ],
+      "text": "A-share brokerage stocks extended afternoon gains; Caitong Securities hit the daily price limit, Bank of China Securities earlier hit the limit, Guojin Securities rose over 7%, while Northeast Securities, GF Securities, East Money and Xiangcai Co. also advanced."
+    },
+    {
+      "id": "4931841",
+      "time": "2026-06-12 13:06:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車工會稱薪資談判沒有達成協議。"
+    },
+    {
+      "id": "4931840",
+      "time": "2026-06-12 13:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海技能人才總量已達400萬人，取得證書的高技能人才年均增幅10%】“近年來，上海的技能人才總量已經達到了400萬人，這其中取得職業技能等級證書的高技能人才，年均增幅10%，佔到總量的35%以上。”2026年6月12日上午，在國新辦舉辦的新聞釋出會上，第48屆世界技能大賽組委會副主任、上海市委常委、副市長陳杰提到。（澎湃）"
+    },
+    {
+      "id": "4931839",
+      "time": "2026-06-12 13:05:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "鋰電池板塊持續反彈，電解液方向領漲，孚日股份漲停，華盛鋰電、芳源股份漲超10%，鵬輝能源、德方奈米、深圳新星、豐元股份等漲幅靠前"
+    },
+    {
+      "id": "4931838",
+      "time": "2026-06-12 13:05:06",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【券商股午後持續活躍】財達證券午後漲停，中銀證券此前封板，國金證券、東北證券、湘財股份、長城證券等紛紛走高。"
+    },
     {
       "id": "mkt:019eba37-fb0b-7dd8-afd1-f6ec6d989892",
       "time": "2026-06-12 13:04:51",
@@ -88,6 +191,15 @@
         "國際"
       ],
       "text": "歐洲央行管委內格爾表示，如有必要，歐洲央行準備在7月份再次加息。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606123769751423",
+      "time": "2026-06-12 13:00:47",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行管委內格爾表示，歐洲央行已做好準備，如有必要，將於7月再次上調利率。"
     },
     {
       "id": "mkt:019eba34-2482-7dd8-afd1-e1addd928842",
@@ -169491,75 +169603,6 @@
         "觀點"
       ],
       "text": "摩根大通將特斯拉評級從減持上調至中性，目標股價從145美元上調至475美元。"
-    },
-    {
-      "id": "4918763",
-      "time": "2026-06-05 13:09:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府表示，委內瑞拉臨時總統已邀請印度能源代表團訪委，勘探能源領域合作機遇。"
-    },
-    {
-      "id": "mkt:019e962f-8f32-7bb6-b211-354ee1c280ac",
-      "time": "2026-06-05 13:09:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "India's oil minister said Indian firms are willing to deepen their presence in Venezuela."
-    },
-    {
-      "id": "4918762",
-      "time": "2026-06-05 13:09:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴拿馬副外長：希望巴中繼續開展多層次對話】巴拿馬外交部副部長卡洛斯·格瓦拉·曼3日晚說，巴拿馬同中國的關係不僅體現在外交和經貿領域，也體現在兩國人民長期以來建立的深厚友誼和文化交流中。希望雙方繼續開展多層次對話，推動兩國關係不斷發展。中國駐巴拿馬大使館3日晚在巴拿馬城舉行招待會，慶祝中巴建交9週年。巴拿馬政府官員及社會各界代表出席。曼在致辭中說，中國長期以來為巴拿馬人才培養提供了重要支援。他希望中國和巴拿馬繼續開展多層次對話，以尊重、共情和建設性合作為基礎，推動兩國關係不斷發展。（新華社）"
-    },
-    {
-      "id": "mkt:019e962f-3cdc-7bb6-b211-2bfe3fa9651e",
-      "time": "2026-06-05 13:08:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Huawei Cloud launches Agentic AI product suite】At its INSPIRE conference in Shanghai, Huawei Cloud proposed the Agentic Infra paradigm and launched an Agentic AI product suite, including Agentic Infra integrated intelligence‑and‑infrastructure, a next‑generation model training and inference platform, and an enterprise‑grade intelligent agent platform."
-    },
-    {
-      "id": "4918761",
-      "time": "2026-06-05 13:08:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯利支助團：聯合國機構未在利比亞境內安置移民】聯合國利比亞支助團（聯利支助團）4日晚發表宣告，否認有關聯合國機構正在利比亞境內安置移民的指控，稱此類說法“完全不實”。"
-    },
-    {
-      "id": "4918760",
-      "time": "2026-06-05 13:07:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度石油部長表示，印度企業有意深化在委內瑞拉的業務佈局。"
-    },
-    {
-      "id": "4918759",
-      "time": "2026-06-05 13:06:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數抹去盤中漲幅，最新下跌0.02%。"
-    },
-    {
-      "id": "4918758",
-      "time": "2026-06-05 13:05:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼財富基金尋求緩解外界對大宗商品出口改革的擔憂】印尼主權財富基金試圖消除市場對一項旨在集中管理大宗商品出口的政府計劃的擔憂，並表示該舉措將以負責任的方式實施。Danantara Indonesia表示，其下屬公司PT Danantara Sumberdaya Indonesia將以“穩妥、專業和負責任的方式“履行其使命，加強對戰略性自然資源大宗商品出口的監管。印尼計劃成立一個有政府背景的實體，對包括棕櫚油、煤炭和鐵合金在內的產品出口進行集中管理，從而加強對戰略性大宗商品出口的監管。該基金週五表示，在6月1日開始的過渡期內，DSI將專注於透過數字化加強報告和監控系統。該部門正在開發一個數字平臺，用於分析出口交易資料並識別潛在的低價報關情況。過渡期結束後，DSI將作為中介機構，促進和監督出口活動，同時確保生產商和貿易伙伴之間的商業關係。"
     }
   ]
 }
