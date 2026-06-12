@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-13 03:37:38",
-  "count": 18439,
+  "updated": "2026-06-13 03:41:38",
+  "count": 18441,
   "items": [
+    {
+      "id": "mkt:019ebd58-e973-7dd8-afe6-c366eb720a72",
+      "time": "2026-06-13 03:39:41",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Iran FM says draft Iran-US MoU stipulates ceasefires on all fronts including Lebanon】Iran foreign minister Araghchi told Iranian media on the 12th that a draft Iran–US memorandum of understanding under negotiation stipulates a ceasefire on all fronts, including the front inside Lebanon. He said Iran will not leave Lebanon unsupported."
+    },
+    {
+      "id": "4933377",
+      "time": "2026-06-13 03:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯格姆：能源價格將繼續下降。"
+    },
+    {
+      "id": "mkt:019ebd57-b285-7dd8-afe6-bc3072375ae5",
+      "time": "2026-06-13 03:38:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Interior Secretary Doug Burgum said on Iran negotiations that Trump has already brought regional actors into alignment with him."
+    },
+    {
+      "id": "4933376",
+      "time": "2026-06-13 03:38:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外長：諒解備忘錄草案內容涵蓋黎巴嫩戰線止戰】伊朗外長阿拉格齊當天表示，磋商中的伊美諒解備忘錄規定在所有戰線止戰，包括黎巴嫩境內戰線。他表示，“我們絕不會讓黎巴嫩孤立無援”。（新華社）"
+    },
+    {
+      "id": "mkt:019ebd57-5dab-7dd8-afe6-b4ede45bb0d5",
+      "time": "2026-06-13 03:37:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian foreign minister Araghchi says Iran's frozen funds will be released."
+    },
+    {
+      "id": "4933375",
+      "time": "2026-06-13 03:37:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗阿拉格齊：伊朗被凍結的資金將獲解凍。"
+    },
+    {
+      "id": "4933374",
+      "time": "2026-06-13 03:37:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易員對美元的看法轉為2025年2月以來最樂觀。"
+    },
     {
       "id": "mkt:019ebd56-87c2-7dd8-afe6-a87bf8cb6c28",
       "time": "2026-06-13 03:37:05",
@@ -57,6 +125,14 @@
         "XAUUSD"
       ],
       "text": "【Iran foreign minister says US pledged not to wage war in MoU talks】Iranian media on the 12th reported Foreign Minister Araghchi said in a TV interview that ongoing U.S.-Iran memorandum of understanding talks include a U.S. pledge not to wage war or use threats; both sides would respect each other’s sovereignty and refrain from interference in internal affairs."
+    },
+    {
+      "id": "4933370",
+      "time": "2026-06-13 03:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部長：今日晚間與美國國務卿進行了會談。"
     },
     {
       "id": "4933369",
@@ -529,6 +605,14 @@
       "text": "Iranian foreign minister Araghchi said U.S. threats against Iran should stop and Tehran will not yield to pressure."
     },
     {
+      "id": "4933331",
+      "time": "2026-06-13 03:21:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "據《華爾街日報》援引訊息人士報道稱，為向SpaceX致敬，紐約時代廣場的水晶球將在美股收盤時升起。"
+    },
+    {
       "id": "mkt:019ebd48-4bfc-7dd8-afe6-22251840dcf0",
       "time": "2026-06-13 03:21:32",
       "tags": [
@@ -600,6 +684,14 @@
         "國際"
       ],
       "text": "伊朗外交部長：核問題以及解除對伊制裁事宜已延後至第二階段磋商，預計相關議題的談判時長為 60 天。"
+    },
+    {
+      "id": "4933326",
+      "time": "2026-06-13 03:16:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【戴德梁行促成愛立信創紀錄百萬平方英尺總部交易】近日，全球知名房地產服務商戴德梁行（Cushman & Wakefield）成功協助瑞典通訊巨頭愛立信完成其新總部選址。此次交易涉及面積達100萬平方英尺，創下瑞典歷史上最大規模的寫字樓交易紀錄，同時也是歐洲近年來最大的企業總部搬遷專案之一。愛立信作為戴德梁行的長期客戶，將把其總部從斯德哥爾摩基斯塔（Kista）區遷至該市重點發展的現代化城區哈加斯塔登（Hagastaden）。這一區域正迅速發展成為集創新與生命科學於一體的新興科技中心。"
     },
     {
       "id": "mkt:019ebd43-5ee0-7dd8-afe6-07cf50ada01a",
@@ -169646,83 +169738,6 @@
         "MKT News"
       ],
       "text": "CFTC: speculative net-long positions in WTI crude futures rose 12,530 contracts to 103,693 in the week ended June 2."
-    },
-    {
-      "id": "4920345",
-      "time": "2026-06-06 03:41:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守68美元/盎司，日內跌8.08%。"
-    },
-    {
-      "id": "4920344",
-      "time": "2026-06-06 03:41:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌8%，現報68.02美元/盎司。"
-    },
-    {
-      "id": "mkt:019e994b-deae-7665-830d-1fbebd73848d",
-      "time": "2026-06-06 03:39:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said AI will deliver growth faster than past innovations."
-    },
-    {
-      "id": "mkt:019e994b-cf19-7665-830d-13892f0a7e1e",
-      "time": "2026-06-06 03:39:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CFTC: For the week ended June 2, speculative net long positions in COMEX silver futures rose by 188 contracts to 10,433 contracts."
-    },
-    {
-      "id": "4920343",
-      "time": "2026-06-06 03:38:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海關與邊境保護局：鋁、鋼、銅全新關稅制度將於 6 月 8 日正式生效。"
-    },
-    {
-      "id": "4920342",
-      "time": "2026-06-06 03:38:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體表示，美國尚未向伊朗足球隊參加世界盃的部分技術及行政工作人員發放簽證。"
-    },
-    {
-      "id": "4920341",
-      "time": "2026-06-06 03:37:43",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：人工智慧對經濟增長的傳導速度將快於以往各類創新成果。"
-    },
-    {
-      "id": "mkt:019e994a-94a0-7665-830d-096e57889772",
-      "time": "2026-06-06 03:37:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "The CFTC said speculative net long positions in COMEX gold futures rose by 14,409 contracts to 111,341 in the week to June 2."
     }
   ]
 }
