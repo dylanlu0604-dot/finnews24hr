@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-13 02:06:37",
-  "count": 18433,
+  "updated": "2026-06-13 02:10:31",
+  "count": 18435,
   "items": [
+    {
+      "id": "mkt:019ebd07-048a-7dd8-afe5-352efe73a648",
+      "time": "2026-06-13 02:10:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Refinitiv sources say the UAE has agreed to unfreeze tens of billions of dollars in funds for Iran."
+    },
+    {
+      "id": "4933294",
+      "time": "2026-06-13 02:08:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "多位訊息人士透露，阿聯酋將向伊朗解凍數十億美元資金。"
+    },
+    {
+      "id": "mkt:019ebd05-9cee-7dd8-afe5-2ef36c94fd40",
+      "time": "2026-06-13 02:08:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran reviewing draft memorandum of understanding, foreign ministry says】On the 12th (local time), Iranian foreign ministry spokesman BAGHAEI said Iran and the U.S. have reached understandings on most issues and Iran is in the final-stage consolidation of a draft memorandum of understanding. He said Foreign Minister Araghchi’s earlier comment that the sides are very close to an understanding is accurate. Decision-making bodies are meeting and must reach internal consensus for a final, definitive outcome. BAGHAEI added that speculation about the agreement text is unconfirmed and detailed diplomatic discussions are not currently public."
+    },
+    {
+      "id": "4933293",
+      "time": "2026-06-13 02:08:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外交部：伊方正在審議諒解備忘錄草案】當地時間12日，伊朗外交部發言人巴加埃表示，目前伊美雙方已經在大多數問題上達成諒解，伊朗內部正在對諒解備忘錄文字進行最後階段的彙總。因此，伊朗外長阿拉格齊此前關於“雙方已非常接近達成諒解”的表態是準確且值得關注的。相關決策機構的會議正在舉行，這是一個持續推進的過程。為達成一個最終且具有決定性的結果，決策機構和相關部門之間必須形成共識。巴加埃還表示，目前有關協議文字內容的各種猜測均未獲得證實。雖然外交程序中的具體細節暫不便公開討論，但這並不意味著公眾沒有知情權。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ebd04-7829-7dd8-afe5-24e5c1758c7a",
+      "time": "2026-06-13 02:07:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Colombian peso closed up 1.10% against the dollar at 3,455 per USD, its strongest level since January 2021."
+    },
     {
       "id": "mkt:019ebd02-fe28-7dd8-afe5-1ee3b76bcd37",
       "time": "2026-06-13 02:05:50",
@@ -169692,33 +169737,6 @@
         "Importance 1"
       ],
       "text": "Tesla Stock Price Hits 4-week Low — Tesla shares decreased to 393.53 USD, the lowest since May 2026. Over the past 4 weeks, Tesla lost 1.28%, and in the last 12 months, it increased 33.37%."
-    },
-    {
-      "id": "4920271",
-      "time": "2026-06-06 02:10:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "俄羅斯財政部資料：俄 1 至 5 月財政赤字達 6 萬億盧布（上月統計值為 5.9 萬億盧布）。"
-    },
-    {
-      "id": "mkt:019e98f8-44d6-7665-830b-a1c37117b6b3",
-      "time": "2026-06-06 02:07:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Iran's oil ministry said cleanup work at two damaged refining facilities at South Pars is about 60% complete."
-    },
-    {
-      "id": "mkt:019e98f8-1b9b-7665-830b-9f0c657beefd",
-      "time": "2026-06-06 02:07:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Democratic Republic of the Congo (DRC) says confirmed Ebola cases have risen to 452, including 82 deaths."
     }
   ]
 }
