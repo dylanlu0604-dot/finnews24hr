@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-12 18:56:42",
-  "count": 18648,
+  "updated": "2026-06-12 19:00:51",
+  "count": 18642,
   "items": [
+    {
+      "id": "mkt:019ebb7d-51d8-7dd8-afdc-d34587ac4510",
+      "time": "2026-06-12 19:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "The Shanghai Stock Exchange (SSE) said this week it will intensively monitor stocks with severe abnormal volatility, delisting-arrangement stocks and high-premium funds including Global Chip LOF and Caitong Fuxin LOF; it will carry out special checks on 22 listed-company major events and has reported one suspected violation to the CSRC."
+    },
+    {
+      "id": "4932640",
+      "time": "2026-06-12 18:59:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津水務部門全力以赴迎接汛期】記者12日從天津市水務局獲悉，天津即將於6月15日8時進入汛期，當地水務部門加快防洪排澇工程建設、提升水文監測預報能力、強化城區排水保障措施、壓實防汛工作體系、做實山洪防禦措施，全面做好防汛準備工作，努力確保全市安全度汛。（新華社）"
+    },
+    {
+      "id": "mkt:019ebb7b-f3e2-7dd8-afdc-cecb7d904842",
+      "time": "2026-06-12 18:58:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UBS remains bullish on gold over the next 12 months, citing expected interest-rate cuts, a softer dollar and continued central-bank buying."
+    },
+    {
+      "id": "4932639",
+      "time": "2026-06-12 18:58:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將思科系統目標股價從120.00美元上調至130.00美元。"
+    },
+    {
+      "id": "mkt:019ebb7b-9d7d-7dd8-afdc-c1e15fee612f",
+      "time": "2026-06-12 18:58:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "UBS says gold could fall to $3,850-$4,000/oz in the near term amid pressure from rising yields and a stronger dollar."
+    },
+    {
+      "id": "4932636",
+      "time": "2026-06-12 18:57:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富信科技：MicroTEC產品的產能利用率為95%以上 已與Coherent、華工科技、索爾思等客戶建立了良好合作關係】富信科技(688662.SH)釋出異動公告，公司目前營業收入主要來自消費電子領域，通訊領域的業務收入佔比較低，且近期未獲取新增大額訂單。2025年度，公司通訊領域銷售收入佔比為9.36%，應用於400G、800G高速率光模組的MicroTEC銷售收入佔比為2.44%；2026年第一季度，通訊領域銷售收入佔比為21.36%，應用於400G、800G高速率光模組的MicroTEC銷售收入佔比為14.29%。MicroTEC相關業務拓展進度、後續訂單規模及盈利貢獻均存在不確定性。目前公司MicroTEC產品的產能利用率為95%以上，已與Coherent、華工科技、索爾思等客戶均建立了良好的合作關係，暫未新增通訊領域重大客戶。公司目前所處的市場環境、行業政策未發生重大調整，MicroTEC產品的市場佔有率較低。"
+    },
+    {
+      "id": "4932635",
+      "time": "2026-06-12 18:57:27",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【SpaceX上市前夕 對沖基金大舉清倉美國頭部科技股】週四晚摩根大通釋出研報資料顯示，對沖基金大舉清倉美國頭部科技股，部分機構還順勢加碼空頭頭寸。此事發生在SpaceX定於週五上市前夕。華爾街七大科技巨頭包括英偉達、蘋果、亞馬遜、谷歌、Meta、特斯拉與微軟，自上週五以來股價全線下跌。緊密追蹤上述個股的倫希爾七大科技巨頭 ETF 自 6 月 5 日以來跌幅超 2.4%。部分分析師認為，投資者正在減持倉位，為埃隆・馬斯克旗下 SpaceX 週五上市做準備。摩根大通研報內容如下：投資者主動降低風險敞口，科技七雄個股遭遇市場拋售。也有部分投機者逢低入場抄底。"
+    },
+    {
+      "id": "4932634",
+      "time": "2026-06-12 18:56:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【交通運輸部：提高航運智慧綠色發展水平 推進新能源清潔能源船舶規模化應用】6月12日，交通運輸部召開黨組會，聽取5月份交通運輸安全生產事故情況彙報，審議《智慧交通發展“十五五”規劃》《長航珠航發展“十五五”規劃》等。會議強調，要加快推進長江、珠江現代化航運體系建設，強化主幹線大通道建設，最佳化完善長三角、珠三角高等級航道網，推動江河海鐵聯運一體化融合，增強安全監管和應急救助能力，提高航運智慧綠色發展水平，推進新能源清潔能源船舶規模化應用，打造全流域黃金水道，為服務國家重大戰略提供有力支撐。"
+    },
     {
       "id": "4932633",
       "time": "2026-06-12 18:55:50",
@@ -171838,128 +171922,6 @@
         "宏觀"
       ],
       "text": "【市場監管總區域性署開展“騎心協力 共護食安”網路餐飲食品安全共治活動】近日，市場監管總局印發通知，在全國範圍內部署開展“騎心協力 共護食安”網路餐飲食品安全共治活動（以下簡稱共治活動）。 通知強調，各地要堅決貫徹落實食品安全“四個最嚴”要求，聚焦當前網路餐飲食品安全治理工作中存在的突出問題和薄弱環節，把共治活動作為結合業務監管抓黨建、提升餐飲食品安全治理效能的重要抓手，積極構建先鋒示範、政企聯動、群體參與、科技賦能、多元共治的有效機制，強化網路餐飲線上線下一體化監管和無堂食外賣監管，紮實推進網路餐飲食品安全高水平治理，更好守護人民群眾“舌尖上的安全”。 此外，通知還明確6個方面重點任務。一是凝聚騎手群體力量，強化先鋒示範，組建外賣騎手“食品安全監督隊”，輻射帶動廣大騎手積極參與網路餐飲食品安全監督工作；二是嚴把騎手監督入口，建立聘任和履職管理工作機制，明確選聘標準、工作職責、禁止事項、退出機制等管理規範，擇優選聘外賣騎手加入監督員隊伍；三是提升監督能力水平，聚焦法律法規、風險識別、資訊上報等重點環節，協同各方開展精準化培訓，切實增強外賣騎手食品安全監督能力；四是健全閉環處置機制，推動數字化監督應用開發，搭建線索資訊化共享平臺，規範投訴舉報線索流轉處置程式，構建有效處置閉環；五是激發共治內生動力，積極構建“物質獎勵+精神激勵+權益保障”的多元化激勵體系，加強對外賣騎手監督履職過程中合法權益的保護；六是增強多元共治合力，常態化開展專業培訓、權益保障、關愛服務等活動，為外賣騎手履行食品安全監督員職責提供堅實支撐，形成上下聯動、政企協同的工作格局。 通知要求，各地要強化組織領導，加強協作配合，完善執行機制，做好協同處置，推動共治活動高效啟動、全面鋪開、有序開展；加大政策宣傳力度，提高共治活動參與度知曉度；及時總結提煉工作亮點，形成一批可複製、可推廣的經驗做法。"
-    },
-    {
-      "id": "4919565",
-      "time": "2026-06-05 19:00:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電聲股份：擬使用不超8億元閒置資金進行現金管理】電聲股份公告稱，公司於2026年6月5日召開董事會會議，審議透過使用部分閒置自有資金進行現金管理的議案，尚需股東會審議。公司及子公司擬使用不超8億元閒置自有資金，投資安全性高、流動性好的中風險及以下評級理財產品，額度自股東會透過日起至2027年度自有資金現金管理額度審議透過日止可滾動使用。董事會提請股東會授權董事長落實投資事項並簽署檔案，由財務部門實施。"
-    },
-    {
-      "id": "4919564",
-      "time": "2026-06-05 19:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "ABM 工業：二季度營收 22.9 億美元，市場預期 22.1 億美元。"
-    },
-    {
-      "id": "4919563",
-      "time": "2026-06-05 18:59:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "Toobit推出SpaceX專屬活動專區，提供20萬USDT獎勵與50%手續費減免。"
-    },
-    {
-      "id": "4919562",
-      "time": "2026-06-05 18:59:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "PLANET LABS股價盤前跌幅擴大至9%以上。"
-    },
-    {
-      "id": "te:markets:556876",
-      "time": "2026-06-05 18:59:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Closes Slightly Down — India’s BSE Sensex gave up some early gains to close about 0.2% down at 74,243 on Friday, as investors weighed the RBI's cautious outlook, foreign investor outflows and geopolitical uncertainties. The RBI unanimously kept the repo rate unchanged at 5.25% and maintained a “neutral” stance, while raising its inflation forecast and cutting its GDP growth projection for the current financial year. Meanwhile, the central bank also announced measures aimed at improving foreign investor participation and easing tax-related frictions in the bond market. Sector-wise, weakness in technology and metal stocks was offset by gains in financial stocks and selected heavyweights. Technology stocks remained under pressure throughout the session, led by TCS (-1.9%) and Tech Mahindra (-1.2%). Other top losers included Trent (-2.2%), Tata Steel (-1.8%) and NTPC (-1.3%). Conversely, Bajaj Finance (1.8%), Axis Bank (1.7%) and ICICI Bank (0.8%) were among the top gainers. For the week, the index shed 0.7%."
-    },
-    {
-      "id": "4919561",
-      "time": "2026-06-05 18:59:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "ABM工業公司：展望下半年，預計自動測試系統（ATS）與機器和柴油發動機業務（M&D）的出貨量將大幅提升，服務組合佔比也將得到改善，其中自動測試系統業務的改善尤為明顯。"
-    },
-    {
-      "id": "4919560",
-      "time": "2026-06-05 18:59:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【十部門：2028年底前高速公路服務區（含停車區）新建改建60千瓦以上功率電動汽車充電設施（充電槍）3萬個】交通運輸部等十部門印發《促進小微型客車租賃高質量發展三年行動方案（2026—2028）》，方案提出，完善停車充電等配套服務設施。鼓勵租賃企業投放新能源汽車。加快推動高速公路服務區充電設施建設，2028年底前高速公路服務區（含停車區）新建改建60千瓦以上功率電動汽車充電設施（充電槍）3萬個，圍繞旅遊公路、國省幹線、“四好農村路”等規劃佈局充換電設施。引導民航機場、高鐵車站、汽車客運站等與租賃企業加強合作，為租賃車輛停放和充電提供便利。（人民財訊）"
-    },
-    {
-      "id": "4919559",
-      "time": "2026-06-05 18:58:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其銀行業監管機構：截至4月底，土耳其銀行業資產規模達50.41萬億里拉。"
-    },
-    {
-      "id": "4919558",
-      "time": "2026-06-05 18:58:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "德意志銀行將Robinhood目標股價從88美元上調至98美元。"
-    },
-    {
-      "id": "te:economy:556874",
-      "time": "2026-06-05 18:58:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Pakistan",
-        "Balance of Trade",
-        "Importance 0"
-      ],
-      "text": "Pakistan Trade Gap Narrows in May — Pakistan recorded a trade deficit of PKR 721.59 billion in May 2026, narrowing from PKR 842.49 billion a year earlier and easing significantly from a record shortfall of PKR 1,191.9 billion in the previous month. The May gap is equivalent to USD 2.58 billion. On a year-on-year basis, exports edged up 0.2% to PKR 753.7 billion, while imports fell 7.5% to PKR 1,475.3 billion. In contrast, April saw imports surge to a record PKR 1,880 billion, driven in part by higher global oil prices linked to tensions with Iran, underscoring Pakistan’s continued reliance on imported energy. Over the July 2025–May 2026 period, exports declined 5%, while imports increased 6.7%, widening the cumulative trade deficit by 18.3% to PKR 9,775.3 billion."
-    },
-    {
-      "id": "4919557",
-      "time": "2026-06-05 18:58:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報告：英國上調油價預測 預計2028 年前將在100美元附近】英國政府上調內部原油價格預測，研判即便美伊達成和平協議，受波斯灣原油運力修復週期拉長影響，2028 年前國際原油或持續站穩每桶 100 美元附近。這份尚未對外公開的最新分析報告警示，能源價格上行壓力將比此前預判更持久，全球經濟前景進一步惡化。英國政府原先預估衝突結束後能源市場僅受約六個月擾動，波斯灣原油輸送可快速回暖；如今修正判斷，該區域原油供應修復週期或將拉長至 14 個月。若預測落地，將再度重擊基爾・斯塔默內閣的施政節奏，英方正竭力向選民兌現壓低生活成本的競選承諾。除此之外，全球各國還要直面能源、糧食漲價與燃油短缺問題，全球經濟將遭受大範圍衝擊。報告指出，就英國國內而言，今年新任首相需在較長一段時間內應對經濟走弱困境。外界普遍認為斯塔默政府瀕臨垮臺；大曼徹斯特市市長安迪・伯納姆若能在 6 月 18 日的議會補選中勝出，預計將於今夏發起黨首挑戰。英國政府發言人釋出宣告稱，英國能源供給結構多元、抗風險能力充足，英方正聯合國際合作夥伴尋求伊朗危機長效解決方案，最大限度降低民生承壓。"
-    },
-    {
-      "id": "4919556",
-      "time": "2026-06-05 18:57:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其對Meta展開反壟斷調查併發布臨時措施，劍指WhatsApp AI封閉生態】土耳其競爭委員會6月5日宣佈，決定對Meta正式立案調查，並同步釋出臨時措施。調查核心指控為：Meta將旗下AI服務Meta AI整合進WhatsApp的同時，阻止第三方人工智慧服務商透過WhatsApp向使用者提供服務，涉嫌違反土耳其《保護競爭法》關於市場支配地位濫用的相關規定。競爭委員會認定上述行為構成嚴重競爭違規，為防止終裁前出現不可挽回的損害，裁定釋出臨時措施，要求Meta為第三方通用生成式AI聊天機器人/助手透過WhatsApp提供服務創造條件，且不得在事實上或經濟上設定障礙。Meta須在收到正式裁定通知後一個月內履行相關義務，否則將依法被處以行政罰款。"
-    },
-    {
-      "id": "4919555",
-      "time": "2026-06-05 18:57:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST易錄：公開招募重整投資人，報名保證金1000萬元】*ST易錄公告，公司因涉嫌資訊披露違法違規，中國證監會已對公司立案。目前，公司尚未收到中國證監會的結論性意見或決定，無法確定本次立案事項是否會對公司後續進入重整程式及重整實施產生影響。此外，公司因2025年度淨資產為負，已觸發退市風險警示。為推進預重整和重整程式，臨時管理人已公開招募重整投資人，招募時間為2026年6月26日18時前。意向投資人需提交報名材料，並繳納人民幣1000萬元報名保證金。"
-    },
-    {
-      "id": "4919554",
-      "time": "2026-06-05 18:56:56",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【外資加碼投資中國硬科技】近期，多家國際金融機構紛紛釋出中國經濟積極展望，調高對中國科技企業投資比重，加快在華投資佈局，硬科技成新焦點。 [話筒]國際投行：看好人工智慧等領域投資機會。截至一季度末，摩根士丹利持股市值超過1億元的A股公司達到16家，重點佈局AI算力與光通訊產業鏈企業。高盛一季度共進入A股894家上市公司的十大流通股東，持股市值在1億元以上個股有20只，新進商業航天、算電協同等企業。國際金融機構：中國經濟企穩回升態勢更加明確。包括摩根士丹利和德意志銀行在內的多家國際金融機構，同步上調了2026年中國GDP增速預期，認為中國經濟企穩回升的態勢更加明確。 富時A50指數調整，多隻科技股獲納入。6月3日盤後，英國指數編制機構富時羅素宣佈旗下多個指數季度調整結果。其中，富時中國A50指數新納入兆易創新、瀾起科技、東山精密、勝宏科技、濰柴動力5只股票。MSCI明晟公司公佈2026年5月季度調整結果。MSCI中國A股指數新增19只成分股，主要集中在AI算力基礎設施、光通訊及高階製造等領域，包括光庫科技、長飛光纖、盛科通訊等。全球資金對中國資產關注度持續升溫。截至5月底，各類境外投資者持有A股流通市值已超過4萬億元，較2025年底的近3萬億元實現1萬億元增量。 （央視財經）"
     }
   ]
 }
