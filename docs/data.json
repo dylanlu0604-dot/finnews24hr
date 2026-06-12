@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-12 23:51:19",
+  "updated": "2026-06-12 23:55:41",
   "count": 18416,
   "items": [
+    {
+      "id": "te:markets:558768",
+      "time": "2026-06-12 23:54:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rise as Geopolitical Risks Ease — The CAC 40 jumped 1.8% to close at 8,351 on Friday, marking its biggest gain in a month and reaching a seven-week high, as renewed hopes for a Middle East peace deal lifted global sentiment. US President Donald Trump said an agreement with Iran could be reached as early as this weekend after postponing planned strikes, raising the prospect of reopening the Strait of Hormuz and pushing oil prices lower. Domestically, France’s annual inflation rate was confirmed at 2.4% in May, the highest since February 2024, driven mainly by higher energy prices. Meanwhile, the ECB raised interest rates for the first time in nearly three years and signaled that restrictive policy could remain in place through 2027. Financial stocks led gains, with BNP Paribas rising 5% and Société Générale adding 5.9%. Luxury shares also advanced, with LVMH up 3.6% and Hermès gaining 3%. In the industrial sector, Airbus rose 2.3% and Safran added 3.6%. In contrast, TotalEnergies fell 2.1% on lower oil prices."
+    },
+    {
+      "id": "4933205",
+      "time": "2026-06-12 23:53:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟高階外交官：歐盟航班延誤賠償標準維持不變，航空公司不得向乘客收取鄰座看護子女的額外費用。"
+    },
+    {
+      "id": "mkt:019ebc89-6a48-7dd8-afe2-6c9eda7533d0",
+      "time": "2026-06-12 23:53:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish",
+        "SPCX.O"
+      ],
+      "text": "As SpaceX (SPCX.O) began trading, Tesla (TSLA.O) extended losses to 2.2%."
+    },
+    {
+      "id": "4933204",
+      "time": "2026-06-12 23:51:53",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX開盤市值即超過2萬億美元，超過了此前1.77萬億美元的估值，目前位列美股市場第七名。"
+    },
+    {
+      "id": "mkt:019ebc87-fa1e-7dd8-afe2-67cfaa388704",
+      "time": "2026-06-12 23:51:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) stock rose to $160, up about 18% intraday."
+    },
+    {
+      "id": "4933203",
+      "time": "2026-06-12 23:50:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SPACEX股價攀升至162美元，較IPO發行價上漲20%。"
+    },
     {
       "id": "4933202",
       "time": "2026-06-12 23:48:54",
@@ -169519,73 +169585,6 @@
         "Impact bearish"
       ],
       "text": "AUD/USD fell 1% to an intraday low of 0.7061."
-    },
-    {
-      "id": "4920188",
-      "time": "2026-06-05 23:55:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國檢方宣佈調查“全球堅韌船隊”法國人遭暴力對待事件】法國國家反恐檢察院5日宣佈，就“全球堅韌船隊”的法國活動人士遭暴力對待事件展開調查，稱該事件涉嫌“酷刑”和“戰爭罪”。5月29日，法國外交部長巴羅在接受法國公共電臺採訪時說，根據一份來自法國駐土耳其外交官的報告，參加“全球堅韌船隊”的法國公民遭受性暴力、暴露於寒冷環境中並遭到毆打和反覆羞辱。這些行為可能構成刑事犯罪，法國外交部已向法國司法部門提起訴訟。（新華社）"
-    },
-    {
-      "id": "4920187",
-      "time": "2026-06-05 23:54:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉修訂石油合同條款，以吸引持觀望態度的投資方。"
-    },
-    {
-      "id": "mkt:019e987d-26c9-7665-8309-2d712764ee4a",
-      "time": "2026-06-05 23:53:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "Commodities",
-        "Precious Metals",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【US May nonfarm payrolls strong; spot gold falls over 3% on rate-hike fears】US May nonfarm payrolls posted robust gains, reviving concern about possible Fed rate hikes later this year and sending spot gold down more than 3% intraday. Capital Economics economist Stephen Brown said: 'Unless the labour market experiences a large-scale summer job-loss panic, the likelihood of the Fed implementing several rate hikes later in the year grows.' Stalled US‑Iran talks and renewed fighting in the Middle East have pushed oil higher and elevated inflation worries, reinforcing market expectations that rates may remain higher for longer."
-    },
-    {
-      "id": "mkt:019e987c-4bb8-7665-8309-2113af2b329d",
-      "time": "2026-06-05 23:52:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Mexican peso extended declines, down 1.2% vs USD."
-    },
-    {
-      "id": "4920185",
-      "time": "2026-06-05 23:51:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯蘇爾古特石油天然氣公司（Surgutneftegaz）：2025 年原油產量 5470 萬噸。"
-    },
-    {
-      "id": "te:markets:556982",
-      "time": "2026-06-05 23:51:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Outperforms Europe — The FTSE 100 edged higher on Friday, outperforming major European markets. Defensive stocks led gains, with AstraZeneca and GSK rising around 2% each, while Unilever and British American Tobacco advanced roughly 2.5%. Defence group BAE Systems also gained close to 1%. In contrast, mining shares came under heavy pressure, with Rio Tinto falling about 2.8%, Glencore down 3.5%, Anglo American losing 5%, Antofagasta dropping 5.3% and Fresnillo retreating 5.7%. On the data front, Halifax reported that UK house prices slipped 0.1% in May following a similar decline in April, taking the average property price to £298,806. Annual growth for first-time buyers eased to 0.3%, though Halifax said lending conditions are becoming more flexible and housing market activity remains broadly stable. Despite Friday’s gains, the FTSE 100 was down 0.3% for the week."
     }
   ]
 }
