@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-12 10:37:59",
-  "count": 18449,
+  "updated": "2026-06-12 10:41:58",
+  "count": 18441,
   "items": [
+    {
+      "id": "mkt:019eb9b4-019e-7dd8-afcf-f8505ea0253b",
+      "time": "2026-06-12 10:40:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "00100.HK",
+        "Impact bearish",
+        "02513.HK"
+      ],
+      "text": "Hong Kong large-model AI stocks weakened: MINIMAX-W (00100.HK) fell over 7%; Zhipu (02513.HK) turned negative after an early intraday gain of more than 12%."
+    },
+    {
+      "id": "4931669",
+      "time": "2026-06-12 10:40:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "亨通光電成交額達100億元，現跌0.58%。"
+    },
+    {
+      "id": "4931668",
+      "time": "2026-06-12 10:40:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本多地今日將舉行反對修憲等集會活動】近期，不斷有日本民眾舉行不同規模的集會，抗議高市早苗政府一系列擴軍備武危險動向。當地時間今日（12日）下午至傍晚，日本東京、大阪、宮城等地民眾將組織集會活動，表達“反對修憲”“守護和平憲法”的呼聲。（央視）"
+    },
     {
       "id": "4931667",
       "time": "2026-06-12 10:36:59",
@@ -170025,110 +170055,6 @@
         "焦點"
       ],
       "text": "現貨黃金失守4440美元/盎司，日內跌0.81%。"
-    },
-    {
-      "id": "mkt:019e95a8-928c-766c-9544-59cba276c1aa",
-      "time": "2026-06-05 10:41:53",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Shenzhen issues 10-point plan to boost high-quality development of new-energy vehicle insurance."
-    },
-    {
-      "id": "mkt:019e95a7-ca3a-766c-9544-543d4666d182",
-      "time": "2026-06-05 10:41:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "Beijing Stock Exchange 50 Index rose more than 5% intraday; component stocks Gebijia and Tianli Fuhe jumped over 16%, leading gains."
-    },
-    {
-      "id": "4918553",
-      "time": "2026-06-05 10:41:00",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【深圳出臺新能源車險高質量發展“深十條”】為進一步深化新能源車險改革，提升保險服務新能源汽車產業發展水平，近期，深圳金融監管局聯合深圳市工信局、深圳市交通運輸局、深圳市商務局印發《關於促進深圳新能源車險高質量發展若干措施的通知》，推出十項政策舉措。其中，圍繞《措施》提出的“探索智慧駕駛綜合保險”“創新‘基本+變動’組合產品”等方向，深圳金融監管局已指導行業成立新能源車險專項工作組，系統性推進專業能力建設，加深與新能源汽車產業鏈合作，積極爭取各項創新試點在深落地。截至2026年一季度末，深圳新能源車商業險簽單件數同比增長18.63%，佔深圳商業車險總體簽單件數30.91%，佔比位居全國第一。"
-    },
-    {
-      "id": "4918552",
-      "time": "2026-06-05 10:40:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寮國人民革命黨中央總書記、國家主席通倫向人民英雄紀念碑敬獻花圈】6月5日上午，寮國人民革命黨中央總書記、國家主席通倫前往天安門廣場，向人民英雄紀念碑敬獻花圈。（新華社）"
-    },
-    {
-      "id": "mkt:019e95a7-4796-766c-9544-4d7a31a06b7a",
-      "time": "2026-06-05 10:40:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Liaoning draft 15th Five-Year regional plan backs Shenyang as Northeast Asia international hub】Liaoning has published a draft 15th Five-Year regional coordinated development plan for public comment that backs Shenyang to become a Northeast Asia international central city and an internationalized modern comprehensive hub. The plan aims to establish a Northeast Asia 3-hour aviation traffic circle and accelerate airport and highway infrastructure. It calls for building a national new‑generation AI public‑computing open innovation platform and designating Liaoning a national advanced manufacturing center, expanding and upgrading autos and parts, and equipment manufacturing. The draft seeks to cultivate aerospace, new‑generation information technology and future industries such as embodied intelligence, and to position the province as a Northeast modern services center by developing smart logistics, digital finance, a regional financial center and an international new‑product launch/showcase landmark."
-    },
-    {
-      "id": "4918551",
-      "time": "2026-06-05 10:40:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達5.08%，成分股中，戈碧迦漲17.57%，天力複合漲15.55%，星圖測控漲14.31%，同惠電子漲12.85%。"
-    },
-    {
-      "id": "4918550",
-      "time": "2026-06-05 10:39:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指下跌2%，報5722.24點。"
-    },
-    {
-      "id": "4918549",
-      "time": "2026-06-05 10:38:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【再添一條外貿新通道，“南京港—美國休斯敦港”新航線今天啟航】今天（6月5日）上午，一艘滿載國產裝置及工程車輛的貨輪將從南京港碼頭啟航，直駛美國休斯敦港、不倫瑞克港。此舉標誌著南京港再添一條國際外貿新航線，為南京加快區域性航運中心建設再添動力。據海事部門工作人員介紹，此次執航的“維多利亞”輪船長225米、寬32.26米，主要裝載國產工程裝置及車輛，總方量1.8萬方。該航線是南京港新增的首條直航美國航線，也是今年新增的第三條國際航線，分別為“南京—秘魯錢凱港”“南京—巴基斯坦”“南京—美國休斯敦港”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e95a5-d775-766c-9544-4292cdb76c66",
-      "time": "2026-06-05 10:38:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SpaceX ups Japan IPO tranche 25% to $2.5 billion as retail demand lifts offering】SpaceX has raised the size of its Japan component of the stock offering by 25%, now seeking up to $2.5 billion from Japanese investors versus $2.0 billion previously, according to a regulatory filing on Friday. Japanese investors are being allocated 14.8–18.5 million Class A shares at a preliminary price of $135 per share. The Japan bookbuild opened Friday and runs until later next week."
-    },
-    {
-      "id": "te:markets:556677",
-      "time": "2026-06-05 10:38:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Tests 160 Level Amid Intervention Talks — The Japanese yen traded near 160 per dollar on Friday, hovering around the closely watched level for a third straight session and prompting renewed verbal intervention from Japanese authorities. PM Takaichi said the government aims to strengthen confidence in the yen by improving economic fundamentals, emphasizing policies that encourage domestic investment, reinforce supply chains, and enhance growth potential. Meanwhile, Finance Minister Satsuki Katayama reiterated that authorities stand ready to step into the foreign exchange market if necessary and remain in close contact with US officials. Data released on Friday showed Japan’s foreign reserves fell at a record pace in May as Tokyo sold foreign assets to fund its largest-ever currency intervention a month ago. On the policy front, BOJ Governor Ueda said the central bank should carefully assess the costs and benefits of raising interest rates if inflation risks begin to outweigh downside risks to economic growth."
-    },
-    {
-      "id": "4918548",
-      "time": "2026-06-05 10:38:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞投行與渣打銀行簽署1億美元協議，助力基礎設施相關貿易。"
     }
   ]
 }
