@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-12 08:52:09",
-  "count": 18433,
+  "updated": "2026-06-12 08:55:52",
+  "count": 18432,
   "items": [
+    {
+      "id": "te:markets:558504",
+      "time": "2026-06-12 08:54:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Heads for Flat Weekly Finish — The Australian dollar held around $0.70 and was on track to finish the week little changed, as markets await the Reserve Bank’s upcoming policy decision next week. Markets are increasingly pricing in the possibility that the central bank has already concluded its tightening cycle after three rate hikes this year. A run of softer economic releases, from GDP to housing prices, reinforced expectations that policymakers will keep the cash rate unchanged at 4.35% on Tuesday. Investors also scaled back bets on further tightening, with the odds of an August rate hike falling sharply from 80% a month ago to around 35%. The May CPI report, due on June 24, will be pivotal for an August move following an unexpectedly soft April inflation reading, as policymakers look for clearer evidence that price pressures remain strong. Meanwhile, global risk appetite improved after US President Trump said a deal with Iran could be reached as early as this weekend after postponing planned attacks against Iran."
+    },
+    {
+      "id": "mkt:019eb952-cb36-7dd8-afcd-74cb3d6612ce",
+      "time": "2026-06-12 08:54:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hanmi Semiconductor to spend 50 billion won buying SpaceX shares】Hanmi Semiconductor said on June 12 it will invest 50 billion won (about $32.9m) to purchase shares in SpaceX. The company described the move as a strategic early-positioning investment driven by SpaceX's growth prospects and its Terafab project."
+    },
+    {
+      "id": "4931458",
+      "time": "2026-06-12 08:53:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：歐洲央行從價格穩定的角度出發上調了利率。"
+    },
+    {
+      "id": "4931457",
+      "time": "2026-06-12 08:51:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：對歐洲央行加息不予詳細評論。"
+    },
     {
       "id": "4931456",
       "time": "2026-06-12 08:50:02",
@@ -169940,57 +169978,6 @@
         "DXY"
       ],
       "text": "【U.S. House passes Ukraine aid and Russia sanctions bill contrary to Trump policy】The U.S. House on Thursday passed a bipartisan bill providing new aid to Ukraine and imposing sanctions on Russia, contrary to Trump administration policy. The measure passed 226-195; 18 Republicans voted in favor and all but one Democrat supported it. The bill moves to the Senate, where Republican opposition makes passage more difficult. Even if approved by the Senate, it would require Trump’s signature to become law."
-    },
-    {
-      "id": "mkt:019e9547-5a43-7cc8-bdf0-7002c6b704ad",
-      "time": "2026-06-05 08:55:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "South Korean won fell to its weakest since March 2009, trading at 1,541.4 per U.S. dollar."
-    },
-    {
-      "id": "4918371",
-      "time": "2026-06-05 08:55:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "韓元兌美元跌至2009年3月來新低，報1541.4。"
-    },
-    {
-      "id": "te:markets:556628",
-      "time": "2026-06-05 08:55:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Steadies on Middle East Peace Hopes — Silver steadied above $73 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, silver remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates."
-    },
-    {
-      "id": "4918370",
-      "time": "2026-06-05 08:53:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深圳華強：目前電子元器件產業景氣度高企 大部分元器件價格在上漲】深圳華強(000062)6月4日在機構調研時表示，目前電子元器件產業景氣度高企，是處於通脹期的產業之一，產業各環節（包括原材料、設計、晶圓代工和封測等）的價格都在上漲，大部分元器件的價格也在上漲。公司作為本土電子元器件分銷龍頭企業，位於產業不可或缺的中間環節，將從產業整體通脹中受益。公司將充分把握產業景氣度高企的機遇，推動業務持續高質量發展。"
-    },
-    {
-      "id": "4918369",
-      "time": "2026-06-05 08:52:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本政府債券收益率下跌1.5個基點，至2.655%。"
     }
   ]
 }
