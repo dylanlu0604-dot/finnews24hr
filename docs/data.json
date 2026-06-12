@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-12 23:34:28",
-  "count": 18435,
+  "updated": "2026-06-12 23:38:29",
+  "count": 18432,
   "items": [
+    {
+      "id": "4933194",
+      "time": "2026-06-12 23:37:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國法官下令長期叫停“反武器化”基金，要求政府提供“徹底廢除”的書面保證】美國弗吉尼亞州一名聯邦法官下達了更長期的禁令，阻止美國司法部設立“反武器化基金”。法官Leonie Brinkema表示，她需要司法部和財政部出具書面保證，確認該基金已被徹底擱置。代理司法部長Todd Blanche此前在國會作證時聲稱，司法部無意重啟該基金計劃。"
+    },
+    {
+      "id": "mkt:019ebc7a-d0c7-7dd8-afe2-2abe29894fa5",
+      "time": "2026-06-12 23:37:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "CAC40"
+      ],
+      "text": "European equities closed higher on Friday, June 12. Germany's DAX rose 1.71% to 24,624.36; the UK's FTSE 100 gained 1.64% to 10,472.43; France's CAC 40 climbed 1.83% to 8,350.87; the Euro Stoxx 50 advanced 2.07% to 6,182.36; Spain's IBEX 35 jumped 2.66% to 18,777.42; Italy's FTSE MIB added 1.99% to 51,510.50."
+    },
+    {
+      "id": "4933193",
+      "time": "2026-06-12 23:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局表示，飛往紐瓦克機場的航班將出現抵達延誤，並實施空中盤旋等待措施。"
+    },
+    {
+      "id": "te:markets:558765",
+      "time": "2026-06-12 23:36:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Holds Steady at Over 1-Month Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, remained steady at 2,729 points on Friday, the lowest level since May 1st, after ten consecutive sessions of decreases. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, fell by 0.8% to 4,107 points. Meanwhile, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose by 1.4% to 2,283 points; and the supramax index went up 0.6% to 1,642 points. The benchmark index slipped about 8.5% for the week."
+    },
+    {
+      "id": "4933192",
+      "time": "2026-06-12 23:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普在社交平臺上釋出了伊朗外長阿拉格齊關於美伊協議的推文截圖。"
+    },
+    {
+      "id": "mkt:019ebc79-00b4-7dd8-afe2-27f45c1d28c2",
+      "time": "2026-06-12 23:35:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump posted on social media a screenshot of a tweet by Iranian foreign minister Araghchi about a U.S.-Iran agreement."
+    },
+    {
+      "id": "mkt:019ebc77-f31d-7dd8-afe2-1bd5d76a7818",
+      "time": "2026-06-12 23:33:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB executive board member Kazimir says further rate hikes needed to tackle inflation】ECB executive board member Kazimir said inflation’s spread across the economy will force the ECB to raise rates further and warned price pressures will not ease without policy action. He added that even a US‑Iran peace deal would not bring inflation back to 2% overnight. While the economy has cooled, its resilience gives officials room to act. Kazimir said the job is not done, it is too early to conclude policy need not become more restrictive, and he would not rule out further tightening. June inflation data—especially core inflation—could be decisive; July is uncertain and fresh forecasts arrive in September, so decisions should be taken meeting by meeting."
+    },
     {
       "id": "mkt:019ebc77-5f60-7dd8-afe2-109a9206ed6d",
       "time": "2026-06-12 23:33:20",
@@ -169663,112 +169735,6 @@
         "焦點"
       ],
       "text": "現貨黃金失守4340美元/盎司，日內跌3.05%。"
-    },
-    {
-      "id": "4920170",
-      "time": "2026-06-05 23:38:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌3%，現報4340.50美元/盎司。"
-    },
-    {
-      "id": "mkt:019e986f-41cc-7665-8308-9adaeaa2edf4",
-      "time": "2026-06-05 23:38:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【US, Mexico and Canada likely to miss USMCA renewal deadline】Sources say the United States, Mexico and Canada are set to miss the July 1, 2026 deadline to formally renew the United States-Mexico-Canada Agreement (USMCA), likely triggering months-to-years of negotiations over auto rules-of-origin, tariffs and other sector rules. The pact, signed under Trump, requires a joint review in July 2026; after the review the parties can renew for 16 years, withdraw, or neither (which would activate an annual rolling-review mechanism). If no agreement to renew is reached, the agreement remains in force under current terms until at least 2036 unless a party withdraws and will enter yearly rolling review. Officials close to the process say the neither-renew-nor-withdraw outcome is the most likely scenario and that a US refusal to formally renew would push the three parties into protracted negotiations and leave the pact’s future indefinitely uncertain."
-    },
-    {
-      "id": "mkt:019e986f-37c9-7665-8308-9409cf54c92e",
-      "time": "2026-06-05 23:38:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "European equities closed mixed on June 5 (Friday): Germany's DAX fell 157.52 pts (-0.63%) to 24,758.67; the UK's FTSE 100 rose 6.41 pts (+0.06%) to 10,366.73; France's CAC 40 fell 26.05 pts (-0.32%) to 8,218.24; the EURO STOXX 50 fell 43.48 pts (-0.71%) to 6,059.85; Spain's IBEX 35 rose 73.39 pts (+0.40%) to 18,347.49; Italy's FTSE MIB fell 266.86 pts (-0.53%) to 49,907.50."
-    },
-    {
-      "id": "4920169",
-      "time": "2026-06-05 23:37:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超3%，海天網路跌18.73%，億航跌13.81%，億咖通科技跌11.07%，阿特斯跌10.43%，中進醫療跌9.79%。"
-    },
-    {
-      "id": "mkt:019e986e-ee7c-7665-8308-8e016d60866f",
-      "time": "2026-06-05 23:37:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A US judge lifted a freeze on benefits for applicants from \"travel-ban countries\"."
-    },
-    {
-      "id": "mkt:019e986e-9cd8-7665-8308-864491f1f073",
-      "time": "2026-06-05 23:37:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Iran's economy is struggling and its military has been destroyed; the Treasury will continue to use \"economic anger\" to sever Iran's shadow shipping fleet, shadow banking network and access to global trade."
-    },
-    {
-      "id": "mkt:019e986d-d616-7665-8308-7b89b5b3ba35",
-      "time": "2026-06-05 23:36:35",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "【JP Morgan softens bearish stance on Tesla after analyst change】JP Morgan has reduced its bearish view on Tesla (TSLA.O) after appointing Rajat Gupta to replace long-time skeptic Ryan Brinkman as head of auto coverage. In a Friday note, Gupta raised JP Morgan’s price target on Tesla to $475 and upgraded the stock to neutral/hold. Brinkman, who had recommended sell on Tesla since 2015 and once predicted the share price could fall to $145 by year-end, had been one of Wall Street’s most pessimistic analysts. Gupta called Tesla’s vertical-integration model a \"unique advantage\" that he said remains, to some extent, underappreciated and misunderstood."
-    },
-    {
-      "id": "4920168",
-      "time": "2026-06-05 23:35:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特： 還將持續限制伊朗參與全球貿易。"
-    },
-    {
-      "id": "4920167",
-      "time": "2026-06-05 23:34:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：將斬斷伊朗影子油輪船隊及其相關銀行網路。"
-    },
-    {
-      "id": "te:markets:556977",
-      "time": "2026-06-05 23:34:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Eases for 6th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, fell for the sixth consecutive session on Friday, down 1.8% to the lowest since May 21 at 2,981 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, declined by 2.9% to 4,893 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, shed 18 points at 2,236 points. On the other hand, the supramax index rose 4 points to 1,588 points. The benchmark index dropped 7.5% for the week."
     }
   ]
 }
