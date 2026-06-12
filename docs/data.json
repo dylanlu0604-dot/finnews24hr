@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-12 19:09:02",
-  "count": 18645,
+  "updated": "2026-06-12 19:13:16",
+  "count": 18637,
   "items": [
+    {
+      "id": "4932676",
+      "time": "2026-06-12 19:12:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞華技術：擬以800萬-1600萬元回購公司股份】瑞華技術公告，擬以800萬-1600萬元回購公司股份，回購價格不超過40元/股。"
+    },
+    {
+      "id": "4932675",
+      "time": "2026-06-12 19:12:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【粵港澳大灣區資料特區“來數加工”啟用】第五屆粵港澳大灣區（廣東）算力產業大會在廣東省韶關市舉辦，粵港澳大灣區資料特區“來數加工”、深廣韶資料大通道等專案建設正式啟動。韶關是全國十大算力叢集中，承擔國家來數加工、算力監測排程、算力設施安全等國家級試點任務的叢集，創新構建“港數韶算、澳數韶算”發展模式。"
+    },
+    {
+      "id": "4932674",
+      "time": "2026-06-12 19:12:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京投發展：籌劃重大資產重組，尚處協商階段存不確定性】京投發展公告稱，公司擬將房地產開發業務相關資產及負債轉讓給控股股東京投公司，採用現金支付，不涉及發行股份，不影響股權結構和控股股東變更，構成重大資產重組及關聯交易。截至公告披露日，公司正推進整體工作，組織中介開展盡職調查、審計、評估等，相關要素尚需協商確定，交易雙方未籤協議。本事項仍處籌劃階段，存在重大不確定性。"
+    },
+    {
+      "id": "4932673",
+      "time": "2026-06-12 19:11:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：向黎巴嫩薩拉凡德、塔法希塔、西奈農場各鎮及村落居民釋出緊急警告。"
+    },
+    {
+      "id": "te:markets:558723",
+      "time": "2026-06-12 19:11:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Heads for Second Weekly Drop — Gold traded around $4,200 per ounce on Friday, as oil prices fell on growing optimism for a US-Iran peace deal. However, bullion remained on track for a second consecutive weekly decline due to expectations of higher interest rates. US President Donald Trump suggested a deal could be reached as early as this weekend, though Tehran stated no final decision had been made. Since the Iran conflict began, gold has faced pressure amid concerns that surging energy costs could drive inflation higher, reinforcing expectations that central banks will maintain elevated interest rates. Supporting this view, the European Central Bank raised interest rates on Thursday for the first time since 2023 and upwardly revised its inflation forecasts for 2026 and 2027. Additionally, US producer prices climbed 6.5% year-over-year in May, underscoring the inflationary impact of the Middle East energy shock and strengthening expectations of a Federal Reserve rate hike this year."
+    },
+    {
+      "id": "4932671",
+      "time": "2026-06-12 19:11:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "安佑生物科技集團股份有限公司深市主機板IPO獲受理，預計融資金額8.0995億元。"
+    },
+    {
+      "id": "4932669",
+      "time": "2026-06-12 19:10:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【三安光電：董事長林志強增持100萬股公司股份】三安光電公告，公司股票於2026年6月10日、6月11日、6月12日連續三個交易日內收盤價格跌幅偏離值累計超過20%，根據《上海證券交易所交易規則》的有關規定，屬於股票交易異常波動情形。根據股份增持計劃，公司董事長林志強先生於2026年6月12日透過上海證券交易所集中競價交易系統增持公司股份100萬股，約佔公司總股本的0.02%，增持金額人民幣1498.26萬元。公司其他董事、高階管理人員、控股股東在本次股票交易異常波動期間不存在買賣公司股票的情況。"
+    },
+    {
+      "id": "te:markets:558722",
+      "time": "2026-06-12 19:10:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Closes Sharply Higher — India’s BSE Sensex gained ground to close about 2.3% firmer at 75,528 on Friday, the biggest daily gain since early April, tracking a global rally fueled by optimism around a looming US-Iran deal. Oil prices declined sharply following comments from US President Trump, who said Washington and Tehran could reach a peace agreement as soon as this weekend and could reopen the Strait of Hormuz. The emerging peace deal reduces geopolitical risks and could support renewed foreign inflows into Indian equities. Gains were broad-based, with banking, financial, realty, auto and consumer-oriented stocks leading the advance."
+    },
+    {
+      "id": "mkt:019ebb86-814e-7dd8-afdc-f86c9419bed0",
+      "time": "2026-06-12 19:10:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China lab develops 3D multilayer on‑chip capacitor for AI/GPU chips; capacitance density >1,000 nF/mm2】Hubei Jiangcheng Laboratory said it has developed a 3D multilayer on‑chip capacitor with capacitance density exceeding 1,000 nF/mm2, targeting direct use in AI/GPU chips and high‑performance processors. The lab said the technology supports high‑compute, low‑power chip design and is undergoing process tape‑out and small‑batch trial production, with plans for scale-up in advanced packaging. The release described the capacitor as an ultra‑miniature energy buffer that smooths voltage during rapid current swings and complements HBM as an energy cache across nanosecond‑to‑second timescales to sustain GPU peak power."
+    },
+    {
+      "id": "4932668",
+      "time": "2026-06-12 19:10:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東利機械：合計持股5%以上股東減持136.75萬股】東利機械公告稱，公司合計持股5%以上股東孟書明、孟淑亮減持時間屆滿。2026年3月13日至6月12日，兩人以集中競價方式合計減持136.75萬股，佔公司總股本的0.93154%，未超計劃減持數量。減持後，兩人合併持有股份降至733.99萬股，佔總股本4.99996%。此次減持不會導致公司控制權變更，也未違規。"
+    },
+    {
+      "id": "4932667",
+      "time": "2026-06-12 19:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度首席經濟顧問：當前水平下，無需將更多全球油價漲幅傳導至零售價格。"
+    },
+    {
+      "id": "4932666",
+      "time": "2026-06-12 19:09:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超達裝備：股東濟南泉興減持股份，持股比例降至5%以下】超達裝備公告稱，2025年2月26日至2026年6月11日，因公司實施股權激勵計劃、可轉債轉股，股東濟南泉興持股比例被動稀釋；2026年5月11日至6月11日，該股東透過集中競價、大宗交易方式減持股份。截至6月11日，其持股數量由5425845股減至4097945股，持股比例由6.82797%降至4.99995%，不再是持股5%以上股東。濟南泉興此前披露的減持計劃尚未實施完畢，不排除未來12個月內繼續增持或減持。"
+    },
+    {
+      "id": "4932664",
+      "time": "2026-06-12 19:08:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國漢堡機場候機區因安全事件被疏散】德國警方12日說，因發生一起安全事件，德國漢堡機場候機區當天上午被緊急疏散，所有已透過安檢的旅客被要求離開該區域，部分已登機乘客也被要求下機。"
+    },
+    {
+      "id": "4932663",
+      "time": "2026-06-12 19:08:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理：將宣佈減稅措施及多項經濟增長刺激舉措。"
+    },
     {
       "id": "4932662",
       "time": "2026-06-12 19:07:51",
@@ -171763,198 +171885,6 @@
         "宏觀"
       ],
       "text": "李強主持召開國務院常務會議，研究推進新型工業化有關工作。（央視）"
-    },
-    {
-      "id": "4919605",
-      "time": "2026-06-05 19:12:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山鋼集團5月利潤總額過億元】6月5日，山鋼集團釋出訊息稱，2026年5月份，全集團利潤總額今年首次實現單月過億元，業績再創新高。"
-    },
-    {
-      "id": "4919604",
-      "time": "2026-06-05 19:12:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "李強主持召開國務院常務會議，研究未來產業發展有關工作。（央視）"
-    },
-    {
-      "id": "mkt:019e977c-221f-7bb5-8c77-4a942a81ec5c",
-      "time": "2026-06-05 19:12:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CCTV said Premier Li Qiang chaired a State Council executive meeting to discuss work on developing future industries."
-    },
-    {
-      "id": "4919603",
-      "time": "2026-06-05 19:12:31",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【接近人士：鎮江某區曾接到緊急通知，摸排與追覓合作情況】從接近鎮江市某區人士處瞭解到，該區相關工作人員昨天半夜被通知要求摸排與追覓合作情況。（第一財經）"
-    },
-    {
-      "id": "4919602",
-      "time": "2026-06-05 19:12:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方證券：擬發行股份及支付現金購買上海證券100%股權】東方證券公告稱，公司擬透過發行A股股份及支付現金的方式購買上海證券100%股權，構成關聯交易，預計不構成重大資產重組及重組上市。2026年5月6日，公司董事會已審議透過相關預案。截至公告披露日，審計、評估等工作尚未完成。本次交易方案尚需董事會再次審議、股東會批准，並經有關主管部門批准、核准、註冊，能否獲批及時間均不確定。"
-    },
-    {
-      "id": "4919601",
-      "time": "2026-06-05 19:12:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛洋科技：擬定增募資不超過10.76億元用於衛星網際網路通訊終端智慧製造專案】盛洋科技公告，公司擬向特定物件發行A股股票募集資金不超過10.76億元，扣除發行費用後的募集資金淨額將用於衛星網際網路通訊終端智慧製造專案、新型智慧顯示器件智慧製造專案及補充流動資金。本次發行股票數量不超過1.24億股，發行價格不低於定價基準日前二十個交易日公司股票交易均價的百分之八十。"
-    },
-    {
-      "id": "4919600",
-      "time": "2026-06-05 19:12:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Point72據悉考慮從其他對沖基金付費獲取交易情報】據知情人士透露，Point72 Asset Management正在探索如何從外部對沖基金獲取交易情報。此前，城堡投資等競爭對手也在競相從外部蒐集此類訊號。知情人士表示，該公司已聘請“阿爾法捕捉”(alpha capture)領域的老將Ricky Nardis，後者預計將於明年年中加入Point72，並可能著手研究建立一個從其他對沖基金收集交易洞見的專案。由於所涉資訊未公開，知情人士要求匿名。其中一位知情人士表示，相關計劃仍存在變數，可能會有調整。知情人士還說，Nardis此前曾在Marshall Wace為其以阿爾法捕捉為核心的TOPS基金工作，該基金由Anthony Clake領導。在此之前，他還曾供職於Millennium Management。"
-    },
-    {
-      "id": "mkt:019e977b-cf87-7bb5-8c77-452f691822f8",
-      "time": "2026-06-05 19:12:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CCTV: Premier Li Qiang chaired a State Council executive meeting on advancing China's new-type industrialization."
-    },
-    {
-      "id": "4919599",
-      "time": "2026-06-05 19:11:49",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "李強主持召開國務院常務會議，聽取關於做好就業工作彙報，審議透過《實施就業優先戰略“十五五”規劃》。（央視）"
-    },
-    {
-      "id": "mkt:019e977b-6fbe-7bb5-8c77-3a8340a5b3a8",
-      "time": "2026-06-05 19:11:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "CCTV: Premier Li Qiang chaired a State Council executive meeting that reviewed a report on employment work and approved the Implementation Plan for the Employment‑First Strategy under the 15th Five‑Year Plan."
-    },
-    {
-      "id": "4919598",
-      "time": "2026-06-05 19:11:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘇州英特模科技股份有限公司創業板IPO獲受理。"
-    },
-    {
-      "id": "4919597",
-      "time": "2026-06-05 19:11:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "安聯正就收購保險公司 Caravela 開展深度洽談。"
-    },
-    {
-      "id": "mkt:019e977a-ccdb-7bb5-8c77-3726a0796cb0",
-      "time": "2026-06-05 19:11:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【India Q1 GDP beats forecasts despite rising energy costs, rupee weakness】India’s Q1 GDP grew 7.8%, above a median forecast of 7.3%, the Ministry of Statistics and Programme Implementation said on Friday. Growth outperformed despite higher energy costs linked to the Iran war, a weaker rupee and other external shocks including US tariffs, and the outlook remains uncertain. The Reserve Bank of India kept policy rates unchanged and announced measures to attract foreign inflows, including wider access to government bonds to ease rupee pressure. The government also scrapped capital gains tax on foreign investors’ bond investments to shield the economy from energy-related shocks associated with the Iran conflict."
-    },
-    {
-      "id": "4919596",
-      "time": "2026-06-05 19:11:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普利特：高管李宏提前終止減持計劃 未減持公司股份】普利特公告，公司高管李宏原計劃自2026年2月5日披露減持公告後15個交易日後的3個月內，以集中競價、大宗交易方式減持不超21.16萬股，佔總股本0.02%；現已提前終止減持計劃，截至公告日未減持，仍持84.64萬股，佔0.08%，其中無限售條件股份21.16萬股，佔0.02%，有限售條件股份63.48萬股，佔0.06%。"
-    },
-    {
-      "id": "4919595",
-      "time": "2026-06-05 19:11:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：2026年5月15日-6月4日，比亞迪新建440座閃充站，累計建成6419座閃充站。已覆蓋全國319座城市。"
-    },
-    {
-      "id": "4919594",
-      "time": "2026-06-05 19:10:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【七匹狼：公司擬出資1億元參與投資雲鋒元創私募基金】七匹狼公告，公司作為有限合夥人，與普通合夥人上海麒鵬投資管理有限公司簽署了《上海雲鋒元創私募基金中心（有限合夥）有限合夥協議》。上海雲鋒元創私募基金中心（有限合夥）的基金管理人為上海雲鋒新創投資管理有限公司。合夥企業目標認繳出資總額不低於30億元，公司擬出資1億元，佔目標認繳出資總額的比例為3.33%，出資方式為貨幣出資，資金來源為自有資金。該合夥企業將主要投資於人工智慧、半導體、智慧終端、機器人、先進製造、新能源、新材料、生物醫藥、醫療科技等重點領域以及相關領域內的投資專案。"
-    },
-    {
-      "id": "te:economy:556879",
-      "time": "2026-06-05 19:10:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Indian GDP Grows More than Expected in Q4FY26 — The Indian real gross domestic product expanded by 7.8% from the previous year in the March quarter of 2026, slowing slightly from the upwardly revised 8% growth from the earlier period, but still well ahead of market expectations of 7.2%. The data reflected India's momentary resilience to higher energy prices and a week rupee following efforts to source oil outside Russia and the outbreak war in the Middle East. Output was higher for manufacturing (7.3%), trade, hotels, transportation, and communication (12.5%), financial and real estate services (10.4%), and construction (8.4%), offsetting slower growth in mining and quarrying (5.4%) and agriculture and feedstock (3.6%). For the whole 2026 financial year, the Indian GDP expanded by 7.7%, the most since the rebound from the Covid pandemic recession in FY2022."
-    },
-    {
-      "id": "4919593",
-      "time": "2026-06-05 19:10:42",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家國際發展合作署與寮國財政部簽署發展合作檔案】6月5日，在中共中央總書記、國家主席習近平和寮國人民革命黨總書記、國家主席通倫共同見證下，國家國際發展合作署署長陳曉東與老政府副總理、財政部部長山迪帕·豐威漢在北京簽署了教育領域發展合作檔案。通倫訪華期間，國合署還與老方簽署了減貧、醫療、人力資源開發等領域發展合作檔案。"
-    },
-    {
-      "id": "mkt:019e977a-629c-7bb5-8c77-28ec4fac953e",
-      "time": "2026-06-05 19:10:40",
-      "tags": [
-        "MKT News",
-        "ALV.DE",
-        "Impact mixed"
-      ],
-      "text": "Allianz is in advanced talks to acquire insurer Caravela."
-    },
-    {
-      "id": "4919592",
-      "time": "2026-06-05 19:10:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【受賄840萬餘元，國家管網集團北京管道有限公司原副總經理魏東吼一審被判十年半】6月5日，山東省淄博市中級人民法院一審公開宣判國家管網集團北京管道有限公司原黨委委員、副總經理、工會主席魏東吼受賄一案，對被告人魏東吼以受賄罪判處有期徒刑十年六個月，並處罰金人民幣八十萬元，查封、扣押在案的被告人魏東吼犯罪所得及孳息予以沒收，上繳國庫。法院審理查明：2000年10月至2024年9月，被告人魏東吼利用擔任中石油北京天然氣管道有限公司黨委委員、副總經理兼中石油天然氣華北天然氣管道分公司副總經理，國家管網集團北京管道有限公司黨委委員、副總經理等職務上的便利以及職權或者地位形成的便利條件，透過其他國家工作人員職務上的行為，為相關單位和個人在工程承攬、資金撥付等方面提供幫助，直接或透過他人非法收受財物，共計人民幣840萬餘元。"
-    },
-    {
-      "id": "4919591",
-      "time": "2026-06-05 19:09:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鈞崴電子：持股5%以上股東減持619.98萬股 減持計劃完成】鈞崴電子公告稱，股東晟瀾(珠海)產業投資合夥企業(有限合夥)完成減持計劃。2026年4月9日至4月29日，其透過集中競價交易減持266.66萬股，減持均價36.10元/股；5月19日至5月28日，透過大宗交易減持353.32萬股，減持均價39.52元/股，合計減持619.98萬股，佔總股本2.32%。減持後，該股東持股931.64萬股，佔比3.49%。此次減持合規，與此前披露計劃一致，未違反相關承諾。"
-    },
-    {
-      "id": "4919590",
-      "time": "2026-06-05 19:09:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華大海天北交所IPO過會】6月5日，北交所上市稽核委員會召開2026年第55次上市稽核委員會審議會議，審議結果顯示，杭州華大海天科技股份有限公司首發符合發行條件、上市條件和資訊披露要求。"
     }
   ]
 }
