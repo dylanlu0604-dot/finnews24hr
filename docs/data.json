@@ -1,7 +1,94 @@
 {
-  "updated": "2026-06-12 08:02:00",
-  "count": 18421,
+  "updated": "2026-06-12 08:05:52",
+  "count": 18422,
   "items": [
+    {
+      "id": "4931390",
+      "time": "2026-06-12 08:04:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元上漲1%，表現優於亞洲新興市場貨幣。"
+    },
+    {
+      "id": "mkt:019eb924-8c56-7dd8-afcc-cb1660d5eec5",
+      "time": "2026-06-12 08:04:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei index extends gains to 2.25%."
+    },
+    {
+      "id": "te:markets:558496",
+      "time": "2026-06-12 08:02:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise Ahead of SpaceX IPO — US stock futures moved higher on Friday as investors looked ahead to SpaceX's highly anticipated market debut and cheered signs of easing tensions between the US and Iran. SpaceX is set to start trading on Friday and is expected to become the largest IPO in history. The company priced its shares at $135 each, raising roughly $75 billion and implying a market valuation of about $1.78 trillion. On the geopolitical front, President Donald Trump said a peace deal with Iran could be reached as early as this weekend after delaying planned attacks and warning that the US could target the country's oil infrastructure. Iran's semi-official Fars news agency also reported that Tehran was likely to accept the agreement, although no final text has been approved. In Thursday's regular session, the Dow surged 1.86%, the S&P 500 advanced 1.75%, and the Nasdaq Composite rallied 2.54%."
+    },
+    {
+      "id": "mkt:019eb923-1627-7dd8-afcc-c43a7bb8157d",
+      "time": "2026-06-12 08:02:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nikkei 225",
+        "Hang Seng Index"
+      ],
+      "text": "South Korea's KOSPI index extended gains to 7%."
+    },
+    {
+      "id": "mkt:019eb922-de4c-7dd8-afcc-bea6f9633faf",
+      "time": "2026-06-12 08:02:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "Samsung Electronics up 10%, SK Hynix up 9%."
+    },
+    {
+      "id": "4931389",
+      "time": "2026-06-12 08:01:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國首爾綜指日內漲幅擴大至7%。"
+    },
+    {
+      "id": "mkt:019eb922-8aeb-7dd8-afcc-b7f90cefa021",
+      "time": "2026-06-12 08:01:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【KOSPI opens more than 6% higher】Japan's Nikkei 225 opened June 12 up 880.53 pts (+1.37%) at 65,097.80. South Korea's KOSPI opened June 12 up 519.25 pts (+6.69%) at 8,283.2."
+    },
+    {
+      "id": "4931388",
+      "time": "2026-06-12 08:01:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布倫特原油開盤下跌1.8%，此前特朗普稱美伊接近達成協議。"
+    },
     {
       "id": "4931387",
       "time": "2026-06-12 08:01:33",
@@ -169818,76 +169905,6 @@
         "Impact bearish"
       ],
       "text": "【Japan real wages rise for fourth consecutive month, bolstering Bank of Japan case for rate hike】Japan's inflation-adjusted real wages rose 1.9% YoY in the latest report, marking a fourth consecutive monthly increase and the longest streak in four years, the Ministry of Health, Labour and Welfare said on Friday. The print exceeded economists' 1.7% forecast and accelerated from a revised 1.4% the prior month. Nominal wages climbed 3.5% YoY (consensus 3.1%); base wages rose 3.4%. A Bank of Japan–watched, lower-sampling-bias gauge for full-time workers increased 2.6%. The readings point to continued underlying wage momentum and strengthen the Bank of Japan's case for a rate hike."
-    },
-    {
-      "id": "4918311",
-      "time": "2026-06-05 08:05:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：匯率由市場決定。日本和美國在外匯事務上保持著密切溝通。"
-    },
-    {
-      "id": "te:markets:556618",
-      "time": "2026-06-05 08:04:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Steadies on Middle East Peace Hopes — Gold steadied above $4,450 an ounce on Friday, holding onto gains from the previous session as hopes persisted that the US and Iran could still reach a diplomatic solution to end the conflict and reopen the Strait of Hormuz. President Donald Trump said peace negotiations were nearing their final phase and is reportedly reluctant to return to full-scale war with Iran despite recent tensions. However, Iranian Foreign Minister Abbas Araghchi said there has been no meaningful progress in the talks. Iran-backed Hezbollah also rejected a US-mediated ceasefire proposal between Israel and Lebanon, raising doubts about Trump’s efforts to bring an end to regional hostilities. Despite the recent support, gold remains on track for a weekly decline as the prolonged conflict and continued disruptions to energy flows through the Strait of Hormuz kept oil prices elevated, fueling concerns about inflation and the prospect of higher interest rates."
-    },
-    {
-      "id": "4918310",
-      "time": "2026-06-05 08:04:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價下跌7%。"
-    },
-    {
-      "id": "4918308",
-      "time": "2026-06-05 08:04:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均股價下跌1.06%，報66755.06點。"
-    },
-    {
-      "id": "4918307",
-      "time": "2026-06-05 08:03:28",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：保險業盈利反彈臨近，重視二季報投資機會】華泰證券研報表示，如果6月市場表現穩定，二季度或成為保險行業今年盈利表現最亮眼的一個季度。估計上市各保險公司2Q26的稅前利潤（中位數）有望同比增長23%-171%，相較於1Q26 30%-50%的下滑明顯反彈。今年以來，保險板塊受一季度市場波動和盈利下滑，以及二季度以來較為極致的結構性市場行情影響，股價普遍下行10%-30%。PB（MRQ）估值已經較年初高點有大約兩成左右的下降，估值安全邊際顯現，對二季度可能的盈利反彈反應不多，盈利與估值反差的張力不斷累積。負債端仍然保持良好增長勢頭，行業基本面依然堅實。隨著二季度臨近結束，業績反彈有望成為市場重新審視保險行業價值的重要催化劑，建議重視二季報投資機會。"
-    },
-    {
-      "id": "4918306",
-      "time": "2026-06-05 08:03:03",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "受三星、SK海力士股價下跌影響，韓國綜合股價指數（KOSPI）暴跌4.3%。"
-    },
-    {
-      "id": "mkt:019e9516-7991-7cc8-bdef-c9590964927f",
-      "time": "2026-06-05 08:02:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS",
-        "Nikkei 225"
-      ],
-      "text": "【South Korea stocks open sharply lower】South Korea's KOSPI opened down 372.6 points (-4.31%) at 8,266.81. Samsung Electronics -5%, SK Hynix -7%. Japan's Nikkei 225 opened down 486.82 points (-0.72%) at 66,983.87."
     }
   ]
 }
