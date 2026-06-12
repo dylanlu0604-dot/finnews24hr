@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-13 04:05:16",
-  "count": 18448,
+  "updated": "2026-06-13 04:09:15",
+  "count": 18445,
   "items": [
+    {
+      "id": "4933407",
+      "time": "2026-06-13 04:08:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：伊拉克經濟仍高度依賴石油行業，且霍爾木茲海峽持續出現的出口受阻問題對其造成影響。"
+    },
+    {
+      "id": "4933406",
+      "time": "2026-06-13 04:07:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：未來 6 至 12 個月，受中東持續衝突影響，伊拉克前景面臨多重風險。預計 2026 年伊拉克財政及國際收支狀況將持續承壓。"
+    },
+    {
+      "id": "mkt:019ebd72-28f8-7dd8-afe7-1e6e0c9ce73c",
+      "time": "2026-06-13 04:07:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P expects Iraq's fiscal and external balances to remain under pressure in 2026."
+    },
+    {
+      "id": "4933405",
+      "time": "2026-06-13 04:05:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾股價收盤上漲6.5%，兩日累計漲幅達16%。"
+    },
     {
       "id": "mkt:019ebd6f-bc73-7dd8-afe7-175b466697af",
       "time": "2026-06-13 04:04:36",
@@ -169718,86 +169750,6 @@
         "Impact mixed"
       ],
       "text": "【FT: Meta weighing equity sale to raise hundreds of billions to fund AI push】Meta Platforms (META.O) is considering an equity offering that could raise hundreds of billions of dollars to fund CEO Mark Zuckerberg’s AI expansion, the Financial Times reports. Executives are exploring “innovative” financing as Meta plans to boost AI-related capital expenditure to as much as $145 billion this year and increase it further through 2027. The discussions accelerated after Alphabet’s record $85 billion stock sale this week, which was upsized by $5 billion amid strong demand. Meta has not hired banks and may not proceed; no final decision has been made."
-    },
-    {
-      "id": "mkt:019e9967-137f-7665-830d-8a66a027789f",
-      "time": "2026-06-06 04:08:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. military said nearly 1,000 commercial vessels transited the Strait of Hormuz over the past two months."
-    },
-    {
-      "id": "mkt:019e9966-882e-7665-830d-854a24a1e3c3",
-      "time": "2026-06-06 04:08:13",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "S&P 500 snapped a nine-week winning streak."
-    },
-    {
-      "id": "4920366",
-      "time": "2026-06-06 04:06:05",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "市場訊息：受愛潑斯坦相關風波影響後，高盛執行長挽留 公司首席法律顧問留任。"
-    },
-    {
-      "id": "mkt:019e9964-7250-7665-830d-7e88ac6d82d8",
-      "time": "2026-06-06 04:05:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities on June 5: Dow Jones Industrial Average fell 695.15 points (-1.35%) to 50,866.78 at the close; S&P 500 dropped 200.63 points (-2.65%) to 7,383.68; Nasdaq Composite slid 1,121.53 points (-4.18%) to 25,709.43."
-    },
-    {
-      "id": "mkt:019e9964-683c-7665-830d-7519e7800d71",
-      "time": "2026-06-06 04:05:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O",
-        "Impact bearish",
-        "INTC.O",
-        "AVGO.O"
-      ],
-      "text": "【US close: Nasdaq down >4%; most semiconductor stocks fall】US stocks closed Friday with the Dow down 1.35%, the S&P 500 down 2.65% and the Nasdaq down 4.18%. Semiconductors led losses: the Philadelphia Semiconductor Index widened to about a 10% decline at the close. NVIDIA (NVDA) fell >6%, TSMC (TSM) dropped 6.68%, Broadcom (AVGO) fell nearly 8% and Intel (INTC) slid >11%. The Nasdaq Golden Dragon China Index fell 3.56%."
-    },
-    {
-      "id": "4920365",
-      "time": "2026-06-06 04:05:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500終結九連漲走勢。"
-    },
-    {
-      "id": "4920364",
-      "time": "2026-06-06 04:05:15",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國消費者借貸再度強勁增加 創2022年以來最大連續兩月增幅】美國消費者借款4月再次強勁增加，創下2022年底以來最大的連續兩月增幅。美聯儲週五公佈的資料顯示，4月未償信貸總額增加207億美元，3月修正後為增加222億美元。接受媒體調查的經濟學家預估中值為增加177億美元。汽車貸款和學費貸款等非迴圈信貸4月增加91億美元。信用卡和其他迴圈信貸未償餘額增加116億美元。該報告不包括抵押貸款。隨著汽油價格上漲對收入造成更大擠壓，許多美國人正面臨額外財務壓力。儘管勞動力市場動能似乎正在增強，但工資增長正在放緩，這可能促使一些消費者舉債或依靠儲蓄來維持支出。對於揹負信用卡未清償餘額的美國人來說，這些賬戶的高利率可能構成相當大的財務負擔。最新可獲得資料顯示，截至2月，被收取利息得信用卡賬戶平均利率為21.5%。借款人短期內也不太可能獲得任何緩解。目前預計美聯儲將在年底前加息，以應對戰爭推動的通脹回升。"
     }
   ]
 }
