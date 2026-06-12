@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-12 13:54:32",
-  "count": 18393,
+  "updated": "2026-06-12 13:58:37",
+  "count": 18392,
   "items": [
+    {
+      "id": "mkt:019eba67-abc0-7dd8-afd3-520038c332b6",
+      "time": "2026-06-12 13:56:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Huawei Developer Conference 2026 to run 12–14 June in Dongguan; HarmonyOS 7 may debut】Huawei Developer Conference 2026 (HDC) runs 12–14 June in Dongguan. The opening keynote is scheduled today at 14:30 local time at Dongguan Basketball Center. Senior Huawei executives Yu Chengdong, He Gang and Gong Ti will deliver core announcements. HarmonyOS 7 — a full native major OS release — is expected to be showcased."
+    },
+    {
+      "id": "4931905",
+      "time": "2026-06-12 13:56:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為開發者大會2026即將拉開帷幕 HarmonyOS 7有望亮相】華為開發者大會2026（HDC 2026）於6月12日-14日在東莞松舉辦，今日14:30在東莞籃球中心，將開啟首場主題演講。餘承東、何剛、龔體等華為高管將出席併發布核心內容。 HarmonyOS 7（純血鴻蒙正式大版本）有望在本次大會亮相。"
+    },
+    {
+      "id": "4931904",
+      "time": "2026-06-12 13:55:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【IDC：螞蟻數科位列中國智慧體平臺私有化市場非雲廠商第一】IDC釋出《中國智慧體開發平臺市場份額，2025》，2025年中國智慧體開發平臺私有化市場總規模達17.5億元人民幣。市場前五名依次為火山引擎、騰訊雲、阿里雲、螞蟻數科及電信AI公司，螞蟻數科也是排名最高的非雲廠商。"
+    },
+    {
+      "id": "mkt:019eba65-ec7e-7dd8-afd3-4e603c76f453",
+      "time": "2026-06-12 13:55:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Iran lawmaker says US strikes are pressure tactics】On June 11, US President Trump said US forces would hit Iran \"very hard\" that night, then said he called off the operation. US forces had struck multiple locations in Iran over the previous two days. Ebrahim Azizi, chairman of the Islamic parliament’s National Security Committee, told media on June 11 the exchanges should not be viewed as war but as US high-pressure measures aimed at securing objectives. Azizi said the US is using military pressure to bolster negotiations for demands it failed to win on the battlefield and that Washington must accept today’s Iran, hardened by conflict and advanced in military, defense, political and economic capacities, is not the same as before."
+    },
     {
       "id": "mkt:019eba64-9ddd-7dd8-afd3-42d9fc1f3d1a",
       "time": "2026-06-12 13:53:36",
@@ -169542,49 +169581,6 @@
         "其他"
       ],
       "text": "【有地方摸排轄區企業與追覓合作情況？地方人士回應：系市裡統一部署，其所在區域初排沒有相關的情況】今日有訊息稱，長三角某市轄區正在要求統計轄區內企業與追覓科技已開展合作的情況，包括但不限於：合作專案、總體規模、資金投入、財政及國資投入情況、目前經營情況等。該地方人士回應記者稱，系市裡統一部署，其所在區域初排下來沒有相關的情況。（財聯社）"
-    },
-    {
-      "id": "4918828",
-      "time": "2026-06-05 13:58:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國債期貨走弱 30年期主力合約跌超0.3%】國債期貨走弱，30年期主力合約盤中跌0.30%，現報113.920元。10年期跌0.11%，現報109.16元。5年期跌0.08%，現報106.37元。2年期跌0.03%，現報102.608元。"
-    },
-    {
-      "id": "4918827",
-      "time": "2026-06-05 13:57:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【2025年寶鋼股份實現年度減碳超200萬噸】6月5日，寶鋼股份在“智綠融合 ‘碳’索未來”六五環境日主題活動上，釋出2025年度可持續發展報告。報告顯示，2025年寶鋼股份碳排放強度降至1.96噸二氧化碳/噸粗鋼，較2020年基準年下降8%，完成了“十四五”減碳規劃階段性目標；全年節能低碳投資達32億元，透過技術改造、流程最佳化、綠電替代等綜合舉措，實現年度減碳超200萬噸。"
-    },
-    {
-      "id": "4918826",
-      "time": "2026-06-05 13:57:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數轉跌，現跌0.03%。"
-    },
-    {
-      "id": "4918825",
-      "time": "2026-06-05 13:55:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美元兌印度盧比下跌0.5%，報95.3425。"
-    },
-    {
-      "id": "4918824",
-      "time": "2026-06-05 13:54:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【“一年四倍基”財通福鑫定開混合連續四天大漲 溢價率突破45%】今日場內基金財通福鑫定開混合延續上漲行情，漲幅達8.96%，已連續四個交易日大漲。截至中午收市時，該產品的二級市場溢價率已高達45.08%。財通基金午間向上交所提交臨時停牌申請，該基金自當日13:00起停牌至收盤。財通福鑫定開混合是一隻“一年四倍基”，截止6月4日的過去一年淨值漲幅高達449.35%。基金管理人提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。"
     }
   ]
 }
