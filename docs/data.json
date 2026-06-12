@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-13 02:14:35",
-  "count": 18434,
+  "updated": "2026-06-13 02:18:24",
+  "count": 18429,
   "items": [
+    {
+      "id": "4933298",
+      "time": "2026-06-13 02:17:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：伊朗外交部長阿拉格齊將出席今晚的特別新聞對話活動，具體時間暫未明確。"
+    },
+    {
+      "id": "te:markets:558789",
+      "time": "2026-06-13 02:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Plunges by 6.97% — Top commodity losers are Natural Gas UK (-6.97%), Natural Gas EU (-6.63%), Germany Natural Gas THE (-5.54%), Brent Crude Oil (-3.34%) and Crude Oil WTI (-3.23%). Gains are led by Methanol (1.40%) and Natural gas (0.91%)."
+    },
     {
       "id": "mkt:019ebd09-d894-7dd8-afe5-4d1383985f17",
       "time": "2026-06-13 02:13:19",
@@ -169656,83 +169675,6 @@
         "PSKY.O"
       ],
       "text": "Warner Bros. Discovery (WBD.O) shares extended losses, down 3%; Paramount (PSKY.O) losses widened to 7.6%."
-    },
-    {
-      "id": "mkt:019e9901-471c-7665-830b-c4d5c3f18b89",
-      "time": "2026-06-06 02:17:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "S&P 500 losses widen to 2.00%."
-    },
-    {
-      "id": "mkt:019e9900-d994-7665-830b-bddad27ddc15",
-      "time": "2026-06-06 02:17:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "Financial Times reports Meta Platforms is considering a large equity raise after reaching a major deal with Google (GOOG.O). Meta may sell several tens of billions of dollars of new shares to fund its AI infrastructure."
-    },
-    {
-      "id": "4920278",
-      "time": "2026-06-06 02:16:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普的阿拉斯加石油租賃許可拍賣僅僅招攬到兩個競標人。"
-    },
-    {
-      "id": "4920277",
-      "time": "2026-06-06 02:15:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數跌2.00%，現報7432.430點；道指跌0.92%，現報51088.570點；納指跌3.45%，現報25906.378點。"
-    },
-    {
-      "id": "te:markets:556999",
-      "time": "2026-06-06 02:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Drops by 3.58% — Top commodity losers are Natural gas (-3.58%), Crude Oil WTI (-3.04%), Methanol (-2.71%) and Brent Crude Oil (-2.06%). Gains are led by Coking Coal (1.01%)."
-    },
-    {
-      "id": "mkt:019e98ff-0a88-7665-830b-b420d63e0762",
-      "time": "2026-06-06 02:15:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department says the U.S. will provide about $38 million in additional funding for Ebola response efforts."
-    },
-    {
-      "id": "te:markets:556998",
-      "time": "2026-06-06 02:14:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Meta Stock Price Hits 8-week Low — Meta shares decreased to 592.23 USD, the lowest since April 2026. Over the past 4 weeks, Meta Platforms, Inc. lost 1.81%, and in the last 12 months, it decreased 13.75%."
     }
   ]
 }
