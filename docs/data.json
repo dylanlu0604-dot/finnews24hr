@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-12 21:52:58",
-  "count": 18508,
+  "updated": "2026-06-12 21:57:10",
+  "count": 18498,
   "items": [
+    {
+      "id": "4933026",
+      "time": "2026-06-12 21:56:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：在SpaceX首次公開募股中，出售給機構的股份約有70%分配給了只做多投資者，此外還有部分股份分配給了主權財富基金。"
+    },
+    {
+      "id": "mkt:019ebc1d-cae8-7dd8-afdf-eac403446e01",
+      "time": "2026-06-12 21:55:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCE.O",
+        "Impact bearish",
+        "RKLB.O",
+        "PL.O"
+      ],
+      "text": "U.S. space-sector stocks extended losses: Intuitive Machines down 10.3%, Planet Labs down 7.8%, Rocket Lab down 8.8%, Satellogic down 9.8%, Virgin Galactic down 25.1%, Redwire down 10%."
+    },
+    {
+      "id": "4933025",
+      "time": "2026-06-12 21:55:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "在SpaceX上市，美國航天板塊股票進一步下跌。朗德希爾太空科技ETF下跌4.6%，Procure太空ETF下跌5.5%。直觀機器公司股價下跌10.3%，行星實驗室股價下跌7.8%，火箭實驗室股價下跌8.8%，衛星邏輯公司股價下跌9.8%，維珍銀河股價下跌25.1%，雷德維爾公司股價下跌10%。"
+    },
+    {
+      "id": "te:markets:558746",
+      "time": "2026-06-12 21:55:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on US-Iran Deal Hopes — The Ibovespa gained more than 0.5% to trade above 172,000 on Friday amid growing optimism over a US-Iran peace deal. Oil prices fell on reports that the two countries may sign an agreement to reopen the Strait of Hormuz on the sidelines of next week’s G7 summit, easing concerns over energy costs. Banks traded higher, with Bradesco and Banco do Brasil both gaining nearly 1%. Utilities also advanced, with Axia adding almost 1%. Rede D'Or climbed more than 1.5%, extending gains after completing its third share buyback program on Thursday, while Embraer rose over 1% following reports of aircraft purchases by the Greek government. Petrobras, meanwhile, lost more than 2% on lower oil prices. Earlier in the session, hotter-than-expected inflation data weighed on sentiment. Brazil’s annual inflation rate rose to 4.72% in May from 4.39%, exceeding forecasts and reinforcing expectations of a more hawkish stance from the BCB."
+    },
+    {
+      "id": "4933024",
+      "time": "2026-06-12 21:54:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：根據協議，霍爾木茲海峽將開放。"
+    },
+    {
+      "id": "4933023",
+      "time": "2026-06-12 21:54:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京表示，俄羅斯正積極研發配備人工智慧的無人機。"
+    },
+    {
+      "id": "4933022",
+      "time": "2026-06-12 21:54:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：霍爾木茲海峽將在協議下開放。伊朗在履行相關義務之前不會獲得任何資金。根據協議，伊朗核計劃將被拆毀。伊朗只有履行承諾才能拿到錢。"
+    },
+    {
+      "id": "mkt:019ebc1c-56e4-7dd8-afdf-e4f46e664196",
+      "time": "2026-06-12 21:53:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. official: Under the agreement, Iran's nuclear program will be dismantled."
+    },
+    {
+      "id": "4933021",
+      "time": "2026-06-12 21:53:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗歪曲協議條款】美國總統特朗普今天（6月12日）在社交媒體平臺發帖稱，“伊朗洩露給‘假新聞媒體’的那些條款，跟雙方書面敲定的協議條款沒有任何關係。他們的說法——包括那份軟弱又可悲的所謂‘達成協議’宣告——根本就不是事實。跟這幫人打交道太不光彩了，對他們來說，根本不存在誠信交易這回事。簡直離譜！” 特朗普還稱，“昨晚他們（伊朗）對駛離霍爾木茲海峽的印度船隻發動無人機襲擊，結果被徹底擊退。這完全不可接受。他們最好老實點，而且要快！”（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019ebc1c-3831-7dd8-afdf-d89778890ac6",
+      "time": "2026-06-12 21:53:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. officials said the Strait of Hormuz will be opened under an agreement. Iran will not receive any funds until it fulfills the relevant obligations."
+    },
+    {
+      "id": "4933020",
+      "time": "2026-06-12 21:52:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭方面訊息：臉書、照片牆及即時通訊應用出現大規模服務中斷。"
+    },
+    {
+      "id": "4933019",
+      "time": "2026-06-12 21:52:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SpaceX 登陸納斯達克，開盤價報 174 美元，其發行價為每股 135 美元。"
+    },
     {
       "id": "mkt:019ebc1a-6158-7dd8-afdf-d4725db57098",
       "time": "2026-06-12 21:51:45",
@@ -170281,214 +170395,6 @@
         "國際"
       ],
       "text": "印度方面訊息：國營燃油零售商每升汽油銷售收入虧損9盧比，每升柴油虧損36.5盧比。"
-    },
-    {
-      "id": "4919994",
-      "time": "2026-06-05 21:57:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破61000美元，日內跌4.63%。"
-    },
-    {
-      "id": "4919993",
-      "time": "2026-06-05 21:56:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【禮來股價逆勢上漲2% 續刷記錄新高】禮來股價上漲2.05%，報1148.32美元/股，續刷記錄新高，總市值報1.08萬億美元。"
-    },
-    {
-      "id": "4919992",
-      "time": "2026-06-05 21:56:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4380美元/盎司，日內跌2.16%。"
-    },
-    {
-      "id": "4919991",
-      "time": "2026-06-05 21:56:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守70美元/盎司，日內跌5.24%。"
-    },
-    {
-      "id": "4919990",
-      "time": "2026-06-05 21:56:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌5%，現報70.09美元/盎司。"
-    },
-    {
-      "id": "te:markets:556930",
-      "time": "2026-06-05 21:56:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Drops on Hawkish BoC Expectations — The S&P/TSX Composite Index fell 1% to trade below 35,000 on Friday as investors assessed stronger-than-expected employment data from Canada and the US. Employment in Canada rose by 88,000 in May, far exceeding forecasts, while US payroll growth also surprised to the upside. The data pushed bond yields higher and reinforced expectations that the Bank of Canada and the Federal Reserve may keep interest rates elevated for longer, pressuring financial stocks and the broader index. Major banks traded lower, with BMO and Scotiabank both down nearly 1%. Gold prices fell, weighing on mining stocks, as Agnico Eagle and WPM shed nearly 3%, while Barrick lost more than 3.5%. Shopify also declined about 1% amid an AI-driven tech selloff following disappointing results from Broadcom. Meanwhile, uncertainty surrounding Middle East peace efforts continued to weigh on risk sentiment and duel inflationary pressures."
-    },
-    {
-      "id": "4919989",
-      "time": "2026-06-05 21:56:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌5%，現報70.27美元/盎司。"
-    },
-    {
-      "id": "te:markets:556929",
-      "time": "2026-06-05 21:56:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Silver is down by 5.03% — Silver decreased 5.03% to 70.121 USD/t.oz"
-    },
-    {
-      "id": "4919988",
-      "time": "2026-06-05 21:56:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊拉克政府向美方否認曾為油輪經霍爾木茲海峽通行向伊朗支付任何費用。"
-    },
-    {
-      "id": "te:economy:556928",
-      "time": "2026-06-05 21:56:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Bund Yields Rise on Fed, ECB Rate Hike Expectations — German 10-year Bund yields climbed to 3.04%, tracking US Treasury yields higher after stronger-than-expected US jobs data reinforced expectations of tighter Federal Reserve monetary policy. Nonfarm payrolls surged by 172,000 in May, nearly double the forecasted 85,000, leading markets to fully price in a Fed rate hike by year-end. Investors also prepared for a likely European Central Bank rate hike next week, while monitoring potential progress in Middle East resolution efforts. Markets now anticipate a near-certain 25-basis-point ECB rate increase at the June 11 meeting, with two or possibly three hikes expected this year. This comes as euro-area inflation rose to 3.2% in May, its highest in over two and a half years. Uncertainty remains, however, after Eurozone GDP figures were revised to show a contraction in Q1 2026—the first since late 2022 and the steepest since mid-2020."
-    },
-    {
-      "id": "mkt:019e9811-e2ea-7fff-a933-1fe9034d7e87",
-      "time": "2026-06-05 21:56:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants",
-        "Star Stocks",
-        "Alibaba",
-        "BIDU.O",
-        "Impact bearish",
-        "NIO.N",
-        "XPEV.N"
-      ],
-      "text": "Nasdaq Golden Dragon China Index slipped about 2%; Baidu (BIDU.O) fell nearly 7%, NIO (NIO.N) and XPeng (XPEV.N) dropped over 3%, and Alibaba (BABA.N) declined 1.3%."
-    },
-    {
-      "id": "4919987",
-      "time": "2026-06-05 21:55:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行將於6月8日開展為期四天、規模7500億盧比的可變利率回購操作拍賣。"
-    },
-    {
-      "id": "4919986",
-      "time": "2026-06-05 21:54:59",
-      "tags": [
-        "宏觀",
-        "國際",
-        "兩會"
-      ],
-      "text": "【趙樂際會見寮國人民革命黨中央總書記、國家主席通倫】中共中央政治局常委、全國人大常委會委員長趙樂際5日上午在北京會見寮國人民革命黨中央總書記、國家主席通倫。趙樂際表示，在習近平總書記、國家主席和通倫總書記、國家主席戰略引領下，中老關係處於歷史最好時期。中方願同老方一道，落實好兩黨兩國最高領導人戰略共識，攜手構建高標準、高質量、高水平的中老命運共同體。中國全國人大願同寮國國會深化多層次多領域合作，就法治建設、立法等開展交流，為各自國家現代化建設提供法治保障。（新華社）"
-    },
-    {
-      "id": "4919985",
-      "time": "2026-06-05 21:54:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超2%，中進醫療跌13.98%，阿特斯跌8.12%，百度跌6.93%，能鏈智電跌6.27%，嘉楠科技跌6.04%。"
-    },
-    {
-      "id": "4919984",
-      "time": "2026-06-05 21:53:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "北美科技軟體股指數ETF下跌2.3%。個股中，Crowdstrike一度跌約5%，Cloudflare跌超3.7%，RingCentral跌3.2%，ServiceNow跌3.1%，Datadog一度跌超2.3%，Palantir跌2.2%，Palo Alto Networks跌約2%，HubSpot跌1.6%，Zscaler跌超1.1%。"
-    },
-    {
-      "id": "te:markets:556927",
-      "time": "2026-06-05 21:53:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Slides Toward 0.7% Weekly Loss — The euro erased early gains to trade below $1.16, hitting its lowest level since April 6 and heading for a 0.7% weekly loss, as investors flocked to the US dollar after stronger-than-expected US jobs data. Nonfarm payrolls surged by 172,000 in May, nearly double the forecasted 85,000, prompting markets to fully price in a Federal Reserve interest rate hike by year-end. At the same time, investors braced for a likely European Central Bank rate hike next week, while cautiously eyeing potential progress in Middle East resolution efforts. Markets now see a near-certain 25-basis-point ECB rate increase at the June 11 meeting, with two or possibly three hikes expected this year. This follows data showing euro-area inflation rose to 3.2% in May, its highest in over two and a half years. However, uncertainty lingers after Eurozone GDP figures were revised to show a contraction in Q1 2026, the first since late 2022 and the steepest since mid-2020."
-    },
-    {
-      "id": "mkt:019e980f-e276-7fff-a933-17fa3cd46c9e",
-      "time": "2026-06-05 21:53:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Planet Labs shares' decline widened to 19%."
-    },
-    {
-      "id": "4919983",
-      "time": "2026-06-05 21:53:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "PLANET LABS股價跌幅擴大至19%。"
-    },
-    {
-      "id": "4919982",
-      "time": "2026-06-05 21:53:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "墨西哥國家石油公司執行長：墨西哥預計到2030年將在石化行業投資930億墨西哥比索。"
-    },
-    {
-      "id": "mkt:019e980f-78b7-7fff-a933-0da8f22548a7",
-      "time": "2026-06-05 21:53:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin: Russia's inflation has slowed significantly."
-    },
-    {
-      "id": "4919981",
-      "time": "2026-06-05 21:53:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全球AI競賽進入萬億引數時代】全球AI競賽進入“萬億引數”時代。2026年3月，國家資料局把Token的中文名稱定為詞元。同樣是在3月份，中國詞元的日均呼叫量突破了140萬億次，每一個詞元的生成都離不開算力的支撐。在《對話》節目中，當被問到“為何已有成熟國際算力生態，還要堅持自建本土算力生態”時，沐曦股份聯合創始人、CTO兼首席硬體架構師彭莉分享其佈局：將推進MXMACA開源建設開發者社群，2026年將實現軟體棧八九成開源，衝刺百萬開發者。彭莉強調，開源是要打造一個平行計算的生態，當越來越多開發者講起“沐曦的語言”，這將成為國產算力最深的技術護城河，也將為整個產業的發展注入源源不斷的動力。（央視財經）"
-    },
-    {
-      "id": "mkt:019e980f-0c6f-7fff-a933-039491b6e0df",
-      "time": "2026-06-05 21:53:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin says Russia's inf this year will be close to 5.2%."
     }
   ]
 }
