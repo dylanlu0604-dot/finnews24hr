@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-12 08:55:52",
+  "updated": "2026-06-12 08:59:43",
   "count": 18432,
   "items": [
+    {
+      "id": "4931462",
+      "time": "2026-06-12 08:58:36",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：股票ETF建議重點建議關注計算機、人形機器人、電力及公用事業、煤炭、基礎化工等板塊】中信證券指出，股票ETF資金淨流出速度趨緩，資金持續向債券ETF資產遷徙。從市場參與者預期長週期視角看，產業與投資共識指向順週期低估值修復板塊。綜合市場參與者預期的長期視角與短期SDISS多維度綜合監測結果，建議重點建議關注計算機、人形機器人、電力及公用事業、煤炭、基礎化工等板塊。"
+    },
+    {
+      "id": "4931461",
+      "time": "2026-06-12 08:57:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月11日461股獲融資買入超億元 中際旭創穫買入47.73億元居首】6月11日共有3468只個股獲融資資金買入，有461股買入金額超億元。其中，中際旭創、新易盛、京東方Ａ融資買入金額排名前三，分別獲買入47.73億元、47.18億元、30.01億元。"
+    },
+    {
+      "id": "4931460",
+      "time": "2026-06-12 08:56:36",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：特朗普稱取消打擊伊朗計劃 黃金大幅反彈】特朗普稱取消打擊伊朗計劃，最快本週末即可在歐洲完成簽署。這一言論迅速提振全球風險偏好，同時壓低了油價和國債收益率，黃金大幅反彈。但是需要注意的是，特朗普的“猛烈打擊”和“協議即將完成”幾乎是同時說出，其混亂可見一斑。黃金仍處在複雜的環境中，建議以觀望為主。"
+    },
+    {
+      "id": "4931459",
+      "time": "2026-06-12 08:55:55",
+      "tags": [
+        "觀點",
+        "央行"
+      ],
+      "text": "【中信證券：預計歐央行將暫停加息】中信證券指出，歐元、歐債和歐股在歐央行宣佈加息決定後的短線價格變動都不大，表明市場已在很大程度上消化了本次加息及前瞻指引的預期。衍生品市場目前定價了歐央行今年至少再加息一次的預期，但我們仍舊認為歐央行在本次加息落地後已可按兵不動。預計歐央行將暫停加息，歐元進一步升值的空間或較有限，美元指數有支撐。"
+    },
     {
       "id": "te:markets:558504",
       "time": "2026-06-12 08:54:58",
@@ -169938,46 +169973,6 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨開盤下跌0.06%。"
-    },
-    {
-      "id": "4918373",
-      "time": "2026-06-05 08:59:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月4日545股獲融資買入超億元 兆易創新獲買入52.57億元居首】6月4日共有3469只個股獲融資資金買入，有545股買入金額超億元。其中，兆易創新、中際旭創、勝宏科技融資買入金額排名前三，分別獲買入52.57億元、42.66億元、34.60億元。"
-    },
-    {
-      "id": "4918372",
-      "time": "2026-06-05 08:59:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部服貿司負責人介紹2026年1-4月服務貿易發展情況 】2026年1-4月，我國服務進出口總額24853.2億元（人民幣，下同），同比增長4.9%。其中，出口9850億元，增長15%；進口15003.2億元，下降0.8%。服務貿易逆差5153.2億元，比上年同期縮小1397.4億元。主要呈現以下特點：知識密集型服務出口保持較快增長。1-4月，知識密集型服務進出口11041.8億元，增長5.1%，佔總體服務進出口的比重為44.4%。知識密集型服務出口5440.9億元，增長11.7%，其中，個人文化和娛樂服務、智慧財產權使用費增長最快，增速分別為39.5%和20.8%；知識密集型服務進口5600.9億元，下降0.7%。旅行服務出口和運輸服務進口快速增長。1-4月，旅行服務出口1471.5億元，增長30.4%，在前五大服務出口領域中增速最快；運輸服務進口3164.5億元，增長24.9%，在前五大服務進口領域中增速最快。"
-    },
-    {
-      "id": "te:markets:556629",
-      "time": "2026-06-05 08:57:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Set to Post First Weekly Drop in 3 Weeks — Australian shares fell 38 points or 0.4% to 8,648 in early Friday trade, extending weakness from the prior session as U.S. equity futures softened after a sharp sell-off in Wall Street tech stocks overnight. Little progress in U.S.-Iran peace talks also weighed on investor sentiment. The local market is on track for its first weekly decline in three weeks, down about 1% so far, with caution building ahead of the Reserve Bank’s policy decision later this month. Meanwhile, recent data showed inflation remained elevated at 4.2% in April, above the 2–3% target, while Q1 GDP growth slowed markedly. Still, losses were offset by April trade data indicating a return to a surplus in Australia, lifted by an export recovery and weaker imports. Non-energy minerals, energy minerals, and consumer non-durables led sectoral weakness. Notable laggards included BHP Group (-2.3%), PLS Group (-3.0%), South32 Ltd. (-2.7%), and Evolution Mining (-2.0%). The four big banks also slipped between 0.5% and 0.9%."
-    },
-    {
-      "id": "mkt:019e9548-76f5-7cc8-bdf0-78546d8dcf35",
-      "time": "2026-06-05 08:56:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【U.S. House passes Ukraine aid and Russia sanctions bill contrary to Trump policy】The U.S. House on Thursday passed a bipartisan bill providing new aid to Ukraine and imposing sanctions on Russia, contrary to Trump administration policy. The measure passed 226-195; 18 Republicans voted in favor and all but one Democrat supported it. The bill moves to the Senate, where Republican opposition makes passage more difficult. Even if approved by the Senate, it would require Trump’s signature to become law."
     }
   ]
 }
