@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-13 03:13:41",
-  "count": 18398,
+  "updated": "2026-06-13 03:17:41",
+  "count": 18406,
   "items": [
+    {
+      "id": "4933327",
+      "time": "2026-06-13 03:16:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：核問題以及解除對伊制裁事宜已延後至第二階段磋商，預計相關議題的談判時長為 60 天。"
+    },
+    {
+      "id": "mkt:019ebd43-5ee0-7dd8-afe6-07cf50ada01a",
+      "time": "2026-06-13 03:16:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iranian foreign minister Araghchi said under a temporary agreement all fronts, including Lebanon, will declare a ceasefire."
+    },
+    {
+      "id": "4933325",
+      "time": "2026-06-13 03:15:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價漲幅收窄，報163.91美元，盤中最高觸及176.52美元。"
+    },
+    {
+      "id": "4933324",
+      "time": "2026-06-13 03:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：包括黎巴嫩在內的所有戰線的戰爭，都將在臨時協議框架下宣佈結束。"
+    },
+    {
+      "id": "4933323",
+      "time": "2026-06-13 03:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：這一諒解的結果是一份包含14條的備忘錄。"
+    },
+    {
+      "id": "mkt:019ebd41-b275-7dd8-afe5-f9d27bb06ef2",
+      "time": "2026-06-13 03:14:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi said the nuclear issue will be discussed at a later stage."
+    },
+    {
+      "id": "4933322",
+      "time": "2026-06-13 03:14:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：核問題將在後續階段討論。"
+    },
+    {
+      "id": "4933321",
+      "time": "2026-06-13 03:13:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：協議尚未簽署；如果協議最終簽署，我將對每一項條款進行詳細說明。"
+    },
+    {
+      "id": "mkt:019ebd41-10e4-7dd8-afe5-f0e5289b7441",
+      "time": "2026-06-13 03:13:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said he has not yet signed the memorandum of understanding and that it may change."
+    },
+    {
+      "id": "4933320",
+      "time": "2026-06-13 03:13:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "據稱ROKU正在進行出售談判，其中可能包括媒體合作。"
+    },
+    {
+      "id": "mkt:019ebd40-d3f6-7dd8-afe5-eb0d297548d3",
+      "time": "2026-06-13 03:13:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian foreign minister Araghchi said the agreement has not been signed; if it is ultimately signed he will detail each clause."
+    },
     {
       "id": "4933319",
       "time": "2026-06-13 03:13:07",
@@ -169322,42 +169417,6 @@
         "其他"
       ],
       "text": "英國央行行長貝利：主流政界中堅力量普遍支援央行保持獨立性。"
-    },
-    {
-      "id": "4920320",
-      "time": "2026-06-06 03:16:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：此次埃博拉疫情的應對工作可能需要動用與2014-2016年西非埃博拉疫情規模相當的資源。"
-    },
-    {
-      "id": "4920319",
-      "time": "2026-06-06 03:15:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列偵測到從黎巴嫩方向向以色列北部發起導彈發射。對峙沿線區域或將很快拉響警報，警報覆蓋全域城市。"
-    },
-    {
-      "id": "mkt:019e9935-e34c-7665-830c-b56bcc46c4a9",
-      "time": "2026-06-06 03:15:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US Economy",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【U.S. jobs data lifts rate-hike bets; gold retreats, erases YTD gains】Strong U.S. employment data boosted Fed rate-hike expectations and pressured gold, which erased its year-to-date gains. In the U.S. session, spot gold fell about 3.5% and broke below $4320/oz. U.S. Treasury yields and the dollar both rose. A tight labor market leaves Fed officials room to tighten further, while Middle East tensions lifted energy prices. Rising rates typically weigh on non-yielding precious metals."
     }
   ]
 }
