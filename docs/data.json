@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13 05:31:07",
-  "count": 18433,
+  "updated": "2026-06-13 05:35:07",
+  "count": 18430,
   "items": [
     {
       "id": "4933456",
@@ -169615,32 +169615,6 @@
         "MKT News"
       ],
       "text": "Trump praised U.S. jobs data."
-    },
-    {
-      "id": "4920426",
-      "time": "2026-06-06 05:35:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：已嘗試就該州煉油產能緊張問題與加州州長紐森展開合作。"
-    },
-    {
-      "id": "mkt:019e99b5-a59a-7665-830d-e5fb2d0dcfe2",
-      "time": "2026-06-06 05:34:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "DOE Secretary Wright said he has sought to work with California Governor Newsom to resolve the state's refining crisis."
-    },
-    {
-      "id": "mkt:019e99b4-0cca-7665-830d-da825e919452",
-      "time": "2026-06-06 05:32:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.4-magnitude earthquake off southwestern Mexico】The European-Mediterranean Seismological Centre (EMSC) said a 5.4-magnitude quake struck offshore Guerrero state at 14:55 local time on the 5th, at a depth of 32 km. No casualties or damage have been reported."
     }
   ]
 }
