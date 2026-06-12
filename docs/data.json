@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-13 01:34:35",
-  "count": 18446,
+  "updated": "2026-06-13 01:38:41",
+  "count": 18450,
   "items": [
+    {
+      "id": "4933278",
+      "time": "2026-06-13 01:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：伊朗民用核設施可以被接受。"
+    },
+    {
+      "id": "mkt:019ebce8-7e6c-7dd8-afe4-b337a1051057",
+      "time": "2026-06-13 01:36:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran Foreign Ministry spokesperson said they cannot comment on the timing or location of signing a memorandum of understanding until Iran reaches a final decision."
+    },
+    {
+      "id": "4933277",
+      "time": "2026-06-13 01:36:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：在伊朗內部作出決定前，我無法就這份諒解備忘錄的簽署時間與地點置評。"
+    },
+    {
+      "id": "4933276",
+      "time": "2026-06-13 01:35:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲洲際交易所期貨：交易所持倉報告（COT）資料顯示，截至 6 月 9 日，白糖投機者淨多頭頭寸增加 4755 手，總量達 31834 手。羅布斯塔咖啡投機客淨多頭頭寸減少 4659 手，降至 13407 手。"
+    },
+    {
+      "id": "mkt:019ebce6-95cc-7dd8-afe4-acf4912386b1",
+      "time": "2026-06-13 01:34:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said the U.S. and Iran have established a confidence-building mechanism intended to facilitate reaching an agreement."
+    },
     {
       "id": "te:economy:558788",
       "time": "2026-06-13 01:33:50",
@@ -169829,14 +169871,6 @@
         "MKT News"
       ],
       "text": "【Wall Street Journal: Trump says he urged acting DNI Bill Pulte to cut ODNI staff】According to the Wall Street Journal, President Trump said he has privately urged acting director of national intelligence Bill Pulte to begin large-scale layoffs to drive a reorganization of the U.S. intelligence community. Trump said he told Pulte he believes the Office of the Director of National Intelligence, which oversees 18 federal intelligence agencies and departments, is 'not necessary, or too large.' He added 'I want it smaller; I think there are a lot of people in there who shouldn't be there.' When asked whether he was calling for Pulte to fire employees, Trump said he wanted Pulte to 'start the process' and that a permanent nominee should continue the effort."
-    },
-    {
-      "id": "4920246",
-      "time": "2026-06-06 01:35:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "洲際交易所歐洲分部持倉報告（COT）：截至 6 月 2 日，白糖投機客淨多頭頭寸增持 3394 手，淨多持倉升至 27079 手。"
     }
   ]
 }
