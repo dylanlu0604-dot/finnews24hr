@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-13 03:49:40",
-  "count": 18449,
+  "updated": "2026-06-13 03:53:39",
+  "count": 18450,
   "items": [
+    {
+      "id": "4933392",
+      "time": "2026-06-13 03:51:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：關於伊朗被凍結的資金，我們靜觀事態發展。"
+    },
+    {
+      "id": "mkt:019ebd63-49f0-7dd8-afe6-ec05d5bcf439",
+      "time": "2026-06-13 03:51:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran foreign minister says services in Strait of Hormuz will be charged】Iranian media reported on 12 that Foreign Minister Araghchi said, while discussing a draft Iran-US memorandum of understanding, that services related to the Strait of Hormuz will be charged."
+    },
+    {
+      "id": "4933391",
+      "time": "2026-06-13 03:50:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外長：霍爾木茲海峽相關服務將收費】據伊朗媒體12日報道，伊朗外長阿拉格齊當天在談及伊美諒解備忘錄草案時表示，霍爾木茲海峽相關服務將收取費用。 (新華社)"
+    },
+    {
+      "id": "4933390",
+      "time": "2026-06-13 03:50:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "哥倫比亞財政部預計2027年通脹率為4.4%。"
+    },
+    {
+      "id": "4933389",
+      "time": "2026-06-13 03:50:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會宣佈有條件批准部分無人機系統和路由器。"
+    },
+    {
+      "id": "mkt:019ebd61-ccf5-7dd8-afe6-e357a8d7c4ce",
+      "time": "2026-06-13 03:49:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Traders' dollar bullishness highest since Feb 2025】Hedge funds, asset managers and other speculators held $27.8 bln of net USD bullish positions as of June 9, the largest since Feb 2025, CFTC data show. The build in longs reflects a move into the dollar's safe‑haven amid the Middle East war; the currency has strengthened since the conflict began in late Feb and has been highly sensitive to the oil-price spike."
+    },
     {
       "id": "4933388",
       "time": "2026-06-13 03:48:34",
@@ -169758,60 +169816,6 @@
         "Energy"
       ],
       "text": "CFTC: For the week to June 2, combined NYMEX and ICE natural gas futures net short positions fell 25,529 contracts to 15,892 contracts."
-    },
-    {
-      "id": "4920349",
-      "time": "2026-06-06 03:53:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加密稅法草案擬允許延後申報質押收益，並支援合併多筆交易申報】根據美國眾議院籌款委員會（House Ways and Means Committee）提出的一項最新立法草案，納稅人將可以合併申報數字資產的總收益和虧損，並可將新生成的代幣計入收入的時間延後至其被售出時。廣泛交易的數字資產持有人可以在報稅時，將一年中產生的總虧損或總收益進行累計合併，而無需對每一筆單獨的交易進行繁瑣的計算和繳稅。加密貨幣經紀商和專業交易員將能夠使用適用於證券交易員的“逐日盯市”（Mark-to-market）稅制，該稅制會對年度未實現損益進行徵稅。"
-    },
-    {
-      "id": "mkt:019e9958-547b-7665-830d-485cbcb06e7c",
-      "time": "2026-06-06 03:52:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "CFTC: For the week to June 2, speculative net long positions in COMEX copper futures rose by 5,156 contracts to 77,131 contracts."
-    },
-    {
-      "id": "mkt:019e9957-548a-7665-830d-43d40f9787d7",
-      "time": "2026-06-06 03:51:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "U.S. Customs and Border Protection said a new tariff regime on aluminum, steel and copper will take effect on June 8."
-    },
-    {
-      "id": "te:markets:557007",
-      "time": "2026-06-06 03:51:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Slips to $93 — Brent crude oil futures slid 2% to around $93 per barrel on Friday as markets focused on signs of weaker global demand and the lack of a breakthrough in negotiations between Washington and Tehran. Although President Trump maintained that discussions with Iran are progressing, tensions remain elevated, with disagreements over Lebanon continuing to complicate efforts to secure a broader agreement. Concerns about consumption also weighed on prices after Chinese crude imports fell to their lowest level in ten years, reflecting reduced refinery activity and softer demand. Several analysts now expect global oil demand growth to slow significantly this year. Earlier gains driven by fears of prolonged disruptions in the Strait of Hormuz have faded somewhat, though uncertainty over the region remains high. In Oman, operations at the Mina Al Fahal export terminal were briefly disrupted by an explosion before resuming."
-    },
-    {
-      "id": "te:markets:557006",
-      "time": "2026-06-06 03:49:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "WTI Falls as Iran Talks Stall and Demand Weakens — WTI crude oil futures slid 3% to around $90.3 per barrel on Friday as markets focused on signs of weaker global demand and the lack of a breakthrough in negotiations between Washington and Tehran. Although President Trump maintained that discussions with Iran are progressing, tensions remain elevated, with disagreements over Lebanon continuing to complicate efforts to secure a broader agreement. Concerns about consumption also weighed on prices after Chinese crude imports fell to their lowest level in ten years, reflecting reduced refinery activity and softer demand. Several analysts now expect global oil demand growth to slow significantly this year. Earlier gains driven by fears of prolonged disruptions in the Strait of Hormuz have faded somewhat, though uncertainty over the region remains high. In Oman, operations at the Mina Al Fahal export terminal were briefly disrupted by an explosion before resuming."
     }
   ]
 }
