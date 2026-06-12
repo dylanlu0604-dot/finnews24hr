@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-13 03:21:41",
-  "count": 18400,
+  "updated": "2026-06-13 03:25:32",
+  "count": 18396,
   "items": [
+    {
+      "id": "mkt:019ebd4b-608a-7dd8-afe6-3e5bf463b00f",
+      "time": "2026-06-13 03:24:54",
+      "tags": [
+        "MKT News",
+        "ROKU.O",
+        "Impact bullish"
+      ],
+      "text": "Roku (ROKU.O) shares jumped 19% after reports the company is considering a sale."
+    },
+    {
+      "id": "mkt:019ebd4b-36a0-7dd8-afe6-3310e3f98592",
+      "time": "2026-06-13 03:24:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said both sides will mutually respect each other’s sovereignty and that, for the first time in 47 years, the United States respects Iran’s sovereignty and has pledged not to interfere in Iran’s internal affairs."
+    },
+    {
+      "id": "4933332",
+      "time": "2026-06-13 03:22:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX上市抽走氧氣 其他太空股集體重挫】SpaceX備受期待的首次公開募股引發了其他火箭、衛星和太空相關公司股票週五的拋售潮。自去年年底SpaceX上市的訊息開始流傳以來，小型航天相關股票一度借勢上漲。但隨著埃隆·馬斯克的公司搶佔風頭並揭露出發展該行業所需的鉅額投資，這種上漲勢頭戛然而止。儘管SpaceX股價飆升，使其成為全球市值最高的公司之一，其他公司股價卻漲勢受阻。太空運輸公司Rocket Lab股價一度下跌13%。Redwire股價暴跌14%。衛星寬頻公司AST SpaceMobile下滑16%，火箭和航天器製造商Firefly Aerospace下跌多達20%。Intuitive Machines跌17%，太空旅行公司Virgin Galactic Holdings則一度暴跌38%。"
+    },
+    {
+      "id": "mkt:019ebd49-25cb-7dd8-afe6-2d83a4424dfb",
+      "time": "2026-06-13 03:22:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian foreign minister Araghchi said U.S. threats against Iran should stop and Tehran will not yield to pressure."
+    },
+    {
+      "id": "mkt:019ebd48-4bfc-7dd8-afe6-22251840dcf0",
+      "time": "2026-06-13 03:21:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal, citing sources, reports New York’s Times Square crystal ball will rise at the U.S. stock market close to honor SpaceX."
+    },
     {
       "id": "4933330",
       "time": "2026-06-13 03:20:20",
@@ -169282,84 +169329,6 @@
         "國際"
       ],
       "text": "【現貨黃金抹去今年漲幅 非農就業資料提振美聯儲加息預期】現貨黃金抹去今年漲幅，因為強勁的美國就業資料提振市場對美聯儲今年可能加息的押注，而加息不利於這種貴金屬。在最新美國資料顯示5月就業增長超過所有預期後，債券收益率和美元走高，現貨金價週五一度下跌3.6%，至每盎司4,315.35美元，回吐今年以來漲幅。中東緊張局勢推高能源價格之際，勞動力市場的強勁表現強化了市場對美聯儲官員加息的預期。加息通常不利於無息資產黃金。“實際收益率上升和美元走強，給黃金帶來雙重阻力，”Brown Brothers Harriman & Co.全球市場策略主管Elias Haddad表示。Haddad稱，若跌破廣受關注的長期動能指標 —— 200日移動均線，金價將面臨進一步下跌風險。"
-    },
-    {
-      "id": "mkt:019e993f-259c-7665-830c-f86246e3e797",
-      "time": "2026-06-06 03:25:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Centers for Disease Control and Prevention (CDC) said in three weekly incidence-and-mortality reports it seeks to mobilize the international community to allocate resources to respond to the outbreak; in model scenarios with low patient isolation rates the outbreak could become one of the largest on record."
-    },
-    {
-      "id": "mkt:019e993f-2433-7665-830c-f1aac82fa1e6",
-      "time": "2026-06-06 03:25:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the Iran situation is \"progressing well\" but gave no further details."
-    },
-    {
-      "id": "mkt:019e993f-1416-7665-830c-eefffc468aab",
-      "time": "2026-06-06 03:25:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the situation in Iran appears to be proceeding smoothly."
-    },
-    {
-      "id": "mkt:019e993f-0d44-7665-830c-e40cfe97f0aa",
-      "time": "2026-06-06 03:25:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said today's employment data was excellent."
-    },
-    {
-      "id": "4920332",
-      "time": "2026-06-06 03:24:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【強勁非農報告鞏固加息預期 美聯儲主席沃什的政策首秀面臨考驗】美國勞動力市場重新站穩腳跟，週五公佈的強勁就業資料加劇了市場對通脹再次升溫的擔憂，也增強了一些美聯儲官員關於今年晚些時候可能需要加息的論據。不斷變化的前景使新上任的美聯儲主席凱文·沃什面臨考驗，他需要讓市場相信央行有能力控制通脹，同時抵禦白宮要求降低借貸成本的壓力。美聯儲觀察人士表示，當沃什於6月16日至17日主持首次貨幣政策會議時，容易的部分是從會後宣告中刪除任何暗示短期內降息的措辭。難點在於如何說明他打算如何抑制通脹。“凱文·沃什必須在通脹問題上表現得非常強硬，”Navy Federal Credit Union首席經濟學家Heather Long表示。“否則他將失去債券市場的信任。”"
-    },
-    {
-      "id": "4920331",
-      "time": "2026-06-06 03:23:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普最快將於下週會晤多家人工智慧企業，磋商政府參與 AI 收益分成方案】特朗普在前往威斯康星州出席一項無關活動途中向記者表示：“目前有一項構想，AI 產業體量龐大、資金規模驚人，按照相關方案，可以將部分收益分給美國民眾，讓美國民眾實質上成為相關企業的合夥人。我已經和各大 AI 企業負責人逐一溝透過。”他補充道：“我們正就此商討細則，讓美國民眾能夠分享人工智慧行業發展紅利，如此一來民眾也會更接納 AI 發展。”特朗普透露，計劃下週在白宮會見 “所有頭部 AI 巨頭企業”，但並未透露具體參會企業名稱。OpenAI 此前釋出政策檔案，支援設立全民財富基金，率先提出該設想；Anthropic執掌 xAI 的億萬富翁埃隆・馬斯克也就此展開大範圍探討。美國聯邦參議員伯尼・桑德斯近期提交法案，提議由政府持有 AI 企業 50% 股權。各方提案細則雖存在差異，但核心目標一致：賦予美國民眾 AI 企業股權，以此對沖人工智慧技術革新可能給就業市場與宏觀經濟帶來的歷史性衝擊。不過質疑人士指出，政府既出資參股行業、又承擔行業監管職能，這套模式落地存在諸多現實難題。被問及桑德斯支援 AI 收益分成方案一事時，特朗普表示：“從經濟層面來看，我們不少觀點分歧並不大，外界對此感到意外。”"
-    },
-    {
-      "id": "4920330",
-      "time": "2026-06-06 03:23:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗局勢似乎進展得相當順利。"
-    },
-    {
-      "id": "4920329",
-      "time": "2026-06-06 03:22:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申，今天公佈的非農就業資料非常出色。"
-    },
-    {
-      "id": "mkt:019e993c-4bed-7665-830c-dc3c37c26bcb",
-      "time": "2026-06-06 03:22:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Bank of England Governor BAILEY said the UK's key problem is economic growth."
     }
   ]
 }
