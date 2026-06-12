@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-12 21:27:56",
-  "count": 18507,
+  "updated": "2026-06-12 21:32:11",
+  "count": 18508,
   "items": [
+    {
+      "id": "4932965",
+      "time": "2026-06-12 21:31:25",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "超威半導體股價上漲1.7%，此前花旗集團將其股票評級從中性上調至買入。"
+    },
+    {
+      "id": "4932964",
+      "time": "2026-06-12 21:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "ADOBE股價下跌8.1%，創下2018年2月以來的盤中最低點。"
+    },
+    {
+      "id": "4932963",
+      "time": "2026-06-12 21:30:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行行長：降息的可能性高於加息。"
+    },
+    {
+      "id": "4932962",
+      "time": "2026-06-12 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.59%，標普500指數漲0.14%，納指漲0.01%。Arm Holdings漲3.67%，Tapestry  Inc.漲2.92%，繽客漲2.71%，麥克莫蘭銅金漲2.64%，PPG工業漲2.63%，Coherent Corp漲2.52%。“七姐妹”方面：谷歌漲1.50%，Meta Platforms漲1.01%，蘋果漲0.28%，特斯拉跌0.04%，英偉達跌0.25%，微軟跌0.44%，亞馬遜跌0.67%。"
+    },
+    {
+      "id": "mkt:019ebc07-2da8-7dd8-afdf-601208edd1cf",
+      "time": "2026-06-12 21:30:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "RKLB.O",
+        "Impact bullish",
+        "SPCE.N",
+        "Impact bearish",
+        "SPCX.O"
+      ],
+      "text": "U.S. equities opened with the Dow up 0.59%, the S&P 500 up 0.20% and the Nasdaq near flat. SpaceX (SPCX.O) listed today; Rocket Lab (RKLB.O) rose 1.5% while Virgin Galactic (SPCE.N) fell 14% on the open. Large-cap tech names were broadly steady. Sharon AI (SHAZ.O) dropped 3.9% after signing a six-year compute-capacity agreement with NVIDIA (NVDA.O)."
+    },
+    {
+      "id": "4932961",
+      "time": "2026-06-12 21:30:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，360數科漲0.67%。"
+    },
+    {
+      "id": "4932960",
+      "time": "2026-06-12 21:30:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票交易所S&P/TSX綜合指數開盤上漲74.00點，漲幅0.21%，報34745.46點。"
+    },
+    {
+      "id": "mkt:019ebc06-b336-7dd8-afdf-5b5a5391839e",
+      "time": "2026-06-12 21:30:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Redfin: SpaceX IPO wealth could buy 40% of San Antonio homes】Redfin estimates wealth produced by a SpaceX IPO, if pooled by current and former employees, could buy about 40% of homes in San Antonio — the nearest major metro to SpaceX’s Starbase HQ in Texas. The report’s alternate scenarios show employees could purchase roughly 15% of Houston’s housing stock or all homes in McAllen (about 80 miles from Starbase) and still have about $74bn remaining."
+    },
+    {
+      "id": "mkt:019ebc06-8539-7dd8-afdf-5567a8547a08",
+      "time": "2026-06-12 21:30:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said he is committed to advancing the development of the space industry."
+    },
+    {
+      "id": "4932959",
+      "time": "2026-06-12 21:29:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃隆・馬斯克在 X 平臺直播中談及SpaceX上市事宜。"
+    },
+    {
+      "id": "4932957",
+      "time": "2026-06-12 21:28:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新萊應材：目前公司半導體業務在手訂單保持較好水平 下游客戶需求旺盛】新萊應材近日接受機構調研時表示，2026年，全球尤其是中國大陸半導體行業正處於新一輪擴產高峰期，國內晶圓廠資本開支保持高位，疊加供應鏈國產化趨勢進一步加速，為公司泛半導體業務帶來顯著的訂單增量。目前在手訂單保持較好水平，下游客戶需求旺盛。公司將繼續抓住半導體擴產高峰和國產替代的雙重機遇，加快產能匹配和市場拓展，預計半導體業務後續季度仍將保持快速增長。"
+    },
+    {
+      "id": "4932956",
+      "time": "2026-06-12 21:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角三省一市推動智慧航運一體化發展】長三角智慧航運網路提升與融合應用座談會上介紹，長三角三省一市正推動數字經濟與海洋經濟融合發展，計劃在未來5年分階段推動區域智慧航運高質量發展，建成全國智慧航運創新發展先行區、示範區和策源地。長三角三省一市通訊、海事主管部門介紹，上海已建成涉海5G基站2300餘個，沿海5G覆蓋率顯著提高，洋山港自動駕駛、國產大型郵輪5G+衛星網際網路協同部署等一批標杆專案落地。"
+    },
+    {
+      "id": "mkt:019ebc04-c40f-7dd8-afdf-4a58d194677a",
+      "time": "2026-06-12 21:28:09",
+      "tags": [
+        "MKT News",
+        "HSBA.L",
+        "Impact bearish"
+      ],
+      "text": "Sources said HSBC has about US$400m exposure to distressed UAE company IFFCO."
+    },
     {
       "id": "4932955",
       "time": "2026-06-12 21:27:05",
@@ -170389,114 +170506,6 @@
         "國際"
       ],
       "text": "【李強會見寮國人民革命黨中央總書記、國家主席通倫】6月5日上午，國務院總理李強在北京人民大會堂會見來華進行國事訪問的寮國人民革命黨中央總書記、國家主席通倫。李強表示，今年是中老建交65週年。65年來，兩國始終相互依賴、守望相助，雙邊關係歷久彌堅。特別是近些年，在兩黨兩國最高領導人戰略引領下，中老關係進入歷史最好時期。今天下午，習近平總書記、國家主席將同通倫總書記、國家主席舉行會談，就深化發展兩國關係作出進一步規劃。面對變亂交織的世界，中方願同老方加強戰略溝通，緊密協作，推動中老命運共同體建設向更高水平邁進，不斷增進兩國人民福祉，共促地區乃至世界的穩定繁榮。李強指出，中方願同老方加強發展戰略對接，充分釋放中方零關稅政策積極效應，持續擴大雙邊貿易規模，深入推進中老鐵路合作，加快推動中老經濟走廊建設，拓展能源礦產、人工智慧、數字經濟等領域合作，取得更多務實成果。中方願進口寮國更多優質產品，鼓勵中資企業赴老投資，希望老方為企業提供更好營商環境。今年是“中老友好年”，中方願同老方一道辦好系列慶祝活動，用好紅色資源，深化文化、旅遊、教育、醫療等領域合作，賡續兩國傳統友誼。當前國際經貿秩序遭受嚴重衝擊，中老應當密切協調配合，推動各方共同捍衛以規則為基礎的多邊貿易體制，維護自由貿易和經濟全球化。（新華社）"
-    },
-    {
-      "id": "te:economy:556921",
-      "time": "2026-06-05 21:32:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Used Car Prices MoM",
-        "Importance 1"
-      ],
-      "text": "Used Car Prices in the US Rise in May — The Manheim Used Vehicle Value Index, a widely followed measure of wholesale used-vehicle prices in the US market, increased 0.3% month-over-month to 212.6 in May 2026, following a 1.6% drop in April which was the first fall in six months. \"Wholesale value trends continue to normalize from a strong start to the year, as we start to move into summer months and consumers continue to contend with higher gas prices. The Manheim Index overall remains higher against last year, yet it wasn’t as strong as we normally see within the month. As values were much higher in February and March, they just started to normalize. But the big picture shows good balance in supply and demand\", according to Jeremy Robb, Chief Economist, Cox Automotive. EV prices increased 3.5% while prices for Non-EVs were flat. Year-on-year, prices for used vehicles went up 3.6%, led by continued EV strength and recent growth in compact cars."
-    },
-    {
-      "id": "4919931",
-      "time": "2026-06-05 21:31:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "LULULEMON股價一度下跌12%，創下2018年以來的盤中最低點。"
-    },
-    {
-      "id": "4919930",
-      "time": "2026-06-05 21:31:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數下跌4.6%。"
-    },
-    {
-      "id": "4919929",
-      "time": "2026-06-05 21:31:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4400美元/盎司，日內跌1.70%。"
-    },
-    {
-      "id": "4919928",
-      "time": "2026-06-05 21:30:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "Planet Labs股票跌12%，此前該公司申報最高規模為15億美元的股票發行計劃。"
-    },
-    {
-      "id": "4919927",
-      "time": "2026-06-05 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指漲0.10%，標普500指數跌0.64%，納指跌1.27%。lululemon athletica inc.跌11.46%，Arm Holdings跌6.80%，邁威爾科技跌6.37%，Coherent Corp跌6.24%，庫珀醫療漲7.63%，APP AppLovin漲4.66%。“七姐妹”方面：特斯拉漲0.82%，亞馬遜漲0.56%，蘋果漲0.52%，微軟漲0.20%，Meta Platforms跌0.56%，谷歌跌1.77%，英偉達跌2.57%。"
-    },
-    {
-      "id": "4919926",
-      "time": "2026-06-05 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，能鏈智電跌6.27%，百度跌4.93%，阿特斯跌5.44%，世紀互聯跌3.60%，聲網跌2.59%。"
-    },
-    {
-      "id": "4919925",
-      "time": "2026-06-05 21:30:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多證券交易所S&P/TSX綜合指數開盤下跌145.24點，跌幅0.41%，報35071.82點。"
-    },
-    {
-      "id": "te:markets:556920",
-      "time": "2026-06-05 21:30:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Wind Energy Index Hits 6-week Low — Wind Energy Index decreased to 25.47 USD, the lowest since April 2026. Over the past 4 weeks, Wind Energy Index lost 6.56%, and in the last 12 months, it increased 44.61%."
-    },
-    {
-      "id": "4919924",
-      "time": "2026-06-05 21:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）紐約可可期貨下跌超5%，報每噸3745美元。"
-    },
-    {
-      "id": "4919923",
-      "time": "2026-06-05 21:29:15",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國勞工資料推高收益率和美元，儘管油價走軟】強於預期的美國勞工報告打破了近期收益率-美元與油價之間的相關性。在中東敵對行動有望緩解的情況下，原油期貨小幅走低，而收益率和美元則上漲。這三者最近一直步調一致。5月份出人意料強勁的17.2萬就業人數資料，使得美聯儲更有可能將重點放在冷卻通脹上，而不是提振勞動力市場；根據芝商所的資料，美聯儲今年加息的機率從昨天的51%升至68%。被認為對美聯儲政策更敏感的兩年期美國國債收益率從資料公佈前的4.043%升至4.135%。華爾街日報美元指數較昨日上漲0.2%。"
-    },
-    {
-      "id": "4919922",
-      "time": "2026-06-05 21:28:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發展改革委與寮國有關部門簽署合作檔案】2026年6月5日，在中國和寮國兩黨兩國最高領導人見證下，國家發展改革委主任鄭柵潔與寮國副總理、財政部部長兼老中合作委員會主席山迪帕·豐威漢簽署《中華人民共和國國家發展和改革委員會與寮國人民民主共和國老中合作委員會關於推動綠色產業發展合作的諒解備忘錄》。下一步，雙方將加強節能降碳產業、環境保護產業、資源迴圈利用產業、能源綠色低碳轉型、基礎設施綠色升級、生態保護修復和利用、綠色服務等領域交流合作。（國家發改委）"
     }
   ]
 }
