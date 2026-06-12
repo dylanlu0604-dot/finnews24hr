@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-12 23:55:41",
-  "count": 18416,
+  "updated": "2026-06-12 23:59:50",
+  "count": 18406,
   "items": [
+    {
+      "id": "mkt:019ebc8e-e684-7dd8-afe2-7cad72a23518",
+      "time": "2026-06-12 23:59:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) shares fell 2.1% after SpaceX's listing."
+    },
+    {
+      "id": "mkt:019ebc8d-e6fa-7dd8-afe2-76621302d4a1",
+      "time": "2026-06-12 23:57:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SpaceX opens at $150; market value $2.0 trillion; Musk becomes world's first trillionaire】SpaceX opened trading at $150, valuing the company at about $2.0 trillion. The open was below the previously expected $170–$175 range but above the $135 IPO price. The opening surge lifted Elon Musk's net worth to over $1.1 trillion, making him the world's first trillionaire."
+    },
+    {
+      "id": "4933206",
+      "time": "2026-06-12 23:57:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬斯克旗下 SpaceX 上市後，特斯拉股價下跌 2.1%。"
+    },
+    {
+      "id": "te:markets:558769",
+      "time": "2026-06-12 23:57:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "US Stocks Hold Higher After SpaceX IPO — US stocks were mostly higher on a volatile Friday session on hopes of a deal between the US and Iran, as SpaceX IPO-ed at the largest offering on record. The S&P 500, Dow, and Nasdaq 100 were all higher following heavy swings during the session. AI infrastructure companies wavered following the SpaceX IPO, raising $75 billion for fresh expenditure on data centers and compute capacity. The AI-to-space company was over 15% higher than its listing of $135 per share moments after trading began. Chips producers gained with AMD, Qualcomm, and Sandisk up 5%. Hyperscalers were lower, with Microsoft, Amazon, Apple, and Oracle edging down. Meanwhile, the Iranian foreign ministry signaled a deal with the US has never been closer, driving energy prices to pull back following a series of mixed statements by President Trump. Financial companies gained as yields eased off session peaks, with Goldman Sachs and Blackstone adding over 3.5%."
+    },
     {
       "id": "te:markets:558768",
       "time": "2026-06-12 23:54:40",
@@ -169445,146 +169489,6 @@
         "Importance 1"
       ],
       "text": "DAX Closes in the Red, Posts Weekly Loss — The DAX 40 finished about 0.8% down at 24,774 on Friday, reversing the previous session's gains, as the tech rally cooled and US–Iran talks remained stalled. At the same time, investors positioned ahead of the upcoming ECB decision, with a 25 basis-point rate hike largely anticipated. The tech sector remained under strain, with Infineon Technologies plunging over 9% and SAP down 2.1%, triggered by the disappointing outlook for Broadcom. Further pressure stemmed from Anthropic’s call for a global pause in AI development, citing risks related to self-optimization. Other key laggards included Mercedes-Benz Group, Qiagen NV, Merck and Vonovia, with losses between 1.8%-2.2%. On the upside, Zalando and Beiersdorf emerged as the top performers, rising 3.7% and 3.6%, respectively. For the week, the index declined about 1.3%."
-    },
-    {
-      "id": "4920194",
-      "time": "2026-06-05 23:59:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯致力於降低石油市場的波動幅度。"
-    },
-    {
-      "id": "mkt:019e9881-d353-7665-8309-6e4464035634",
-      "time": "2026-06-05 23:58:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Putin said falling oil supply is disrupting markets and that Russia will act within OPEC+ to balance the market."
-    },
-    {
-      "id": "4920193",
-      "time": "2026-06-05 23:58:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4360美元/盎司，日內跌3.22%。"
-    },
-    {
-      "id": "4920192",
-      "time": "2026-06-05 23:58:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 石油供應下滑擾亂市場，俄羅斯將在歐佩克 + 框架內發揮作用以平衡市場供需。 石油市場穩定比短期收益更為重要。"
-    },
-    {
-      "id": "mkt:019e9881-85e5-7665-8309-62385fc8adf2",
-      "time": "2026-06-05 23:58:03",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "GBP/USD down more than 0.50% intraday at 1.3357."
-    },
-    {
-      "id": "mkt:019e9881-6ed0-7665-8309-5a301a03c41b",
-      "time": "2026-06-05 23:57:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Putin says oil-market stability is more important than short-term gains."
-    },
-    {
-      "id": "mkt:019e9881-5e33-7665-8309-55fa0c7b6edd",
-      "time": "2026-06-05 23:57:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Putin, on whether a war in Iran would benefit Russia, said Moscow wants oil prices to remain balanced and stable."
-    },
-    {
-      "id": "4920191",
-      "time": "2026-06-05 23:57:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：（關於伊朗戰爭對俄羅斯的好處）我們希望油價保持平衡且穩定。"
-    },
-    {
-      "id": "4920190",
-      "time": "2026-06-05 23:57:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：（關於伊朗戰爭對俄羅斯的好處）市場穩定至關重要。"
-    },
-    {
-      "id": "mkt:019e9880-aab9-7665-8309-4afb575d7163",
-      "time": "2026-06-05 23:57:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Putin (on whether a war in Iran would benefit Russia): Market stability is vital."
-    },
-    {
-      "id": "mkt:019e987f-e70c-7665-8309-4536fbe454c3",
-      "time": "2026-06-05 23:56:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Market sources: Venezuela revises oil contract terms to attract cautious investors."
-    },
-    {
-      "id": "4920189",
-      "time": "2026-06-05 23:56:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鉑金下跌超過5%，報每盎司1,800.01美元。"
-    },
-    {
-      "id": "mkt:019e987f-af0c-7665-8309-3e20192b6b27",
-      "time": "2026-06-05 23:56:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot platinum fell more than 5% to $1,800.01 an ounce."
-    },
-    {
-      "id": "mkt:019e987f-75ee-7665-8309-35a2a0aaa932",
-      "time": "2026-06-05 23:55:50",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "AUD/USD fell 1% to an intraday low of 0.7061."
     }
   ]
 }
