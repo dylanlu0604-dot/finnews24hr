@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-13 04:09:15",
-  "count": 18445,
+  "updated": "2026-06-13 04:13:09",
+  "count": 18447,
   "items": [
+    {
+      "id": "mkt:019ebd75-dc42-7dd8-afe7-237041896748",
+      "time": "2026-06-13 04:11:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Colombia's finance ministry revised its 2026 fiscal deficit target up to 5.3% of GDP from 5.1% and expects the 2027 deficit to be 4.5% of GDP."
+    },
+    {
+      "id": "4933409",
+      "time": "2026-06-13 04:11:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "哥倫比亞財政部：該國將 2026 年財政赤字目標上調至國內生產總值的 5.3%，此前目標為 5.1%。"
+    },
+    {
+      "id": "4933408",
+      "time": "2026-06-13 04:09:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所（ICE）：6月9日當週， 飼料小麥投機者淨多頭持倉增加 250 手，至 196 手。"
+    },
     {
       "id": "4933407",
       "time": "2026-06-13 04:08:37",
@@ -169735,21 +169761,6 @@
         "Europe & UK"
       ],
       "text": "S&P Global Ratings affirms Sweden's sovereign ratings at AAA/A-1+ with a stable outlook."
-    },
-    {
-      "id": "mkt:019e9969-c58d-7665-830d-906ca51184e8",
-      "time": "2026-06-06 04:11:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "【FT: Meta weighing equity sale to raise hundreds of billions to fund AI push】Meta Platforms (META.O) is considering an equity offering that could raise hundreds of billions of dollars to fund CEO Mark Zuckerberg’s AI expansion, the Financial Times reports. Executives are exploring “innovative” financing as Meta plans to boost AI-related capital expenditure to as much as $145 billion this year and increase it further through 2027. The discussions accelerated after Alphabet’s record $85 billion stock sale this week, which was upsized by $5 billion amid strong demand. Meta has not hired banks and may not proceed; no final decision has been made."
     }
   ]
 }
