@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-13 01:38:41",
-  "count": 18450,
+  "updated": "2026-06-13 01:42:46",
+  "count": 18456,
   "items": [
+    {
+      "id": "mkt:019ebced-0bbb-7dd8-afe4-e3a1dab4adec",
+      "time": "2026-06-13 01:41:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA reported that an Iranian foreign ministry spokesperson said both sides have reached consensus on most issues under negotiation and are now in the final stage of internal decision-making."
+    },
+    {
+      "id": "4933281",
+      "time": "2026-06-13 01:41:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）： 伊朗外交部發言人稱，雙方已就大部分議題達成共識，目前我方正處於內部最終議定階段。"
+    },
+    {
+      "id": "mkt:019ebcec-710b-7dd8-afe4-dfa460c66672",
+      "time": "2026-06-13 01:41:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "IMF projects Ukraine's GDP growth will slow to 1.0–1.6% in 2026 due to the Russia-Ukraine conflict and spillovers from the Middle East war."
+    },
+    {
+      "id": "4933280",
+      "time": "2026-06-13 01:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "據CNN記者：一名美國高階官員向我證實，一份諒解備忘錄即將敲定。該官員強調，這份檔案以實際履約為核心，在處理各類相關問題上比《聯合全面行動計劃》（JCPOA）覆蓋面更廣；為促成協議落地，白宮全程未進行公開談判。"
+    },
+    {
+      "id": "mkt:019ebcec-3bbb-7dd8-afe4-d5e728f9a62a",
+      "time": "2026-06-13 01:40:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF said Ukraine had met all quantitative performance criteria and targets as of end-March but failed to complete one structural benchmark. IMF staff and Ukrainian authorities agreed to adjust the reform timetable and adopt corrective measures to address deviations and keep the programme on track."
+    },
+    {
+      "id": "mkt:019ebceb-f637-7dd8-afe4-ca8b6846fecd",
+      "time": "2026-06-13 01:40:40",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "IMF said it reached a staff-level agreement with Ukraine on an $8.1bln loan program; subject to IMF Executive Board approval, the accord would clear the way for about $690mln in disbursement."
+    },
+    {
+      "id": "4933279",
+      "time": "2026-06-13 01:39:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：受俄烏衝突及中東局勢外溢影響，烏克蘭 2026 年國內生產總值增速預計放緩至 1% 至 1.6%。"
+    },
+    {
+      "id": "mkt:019ebcea-edf4-7dd8-afe4-c5067d11e1c1",
+      "time": "2026-06-13 01:39:33",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "A senior U.S. government official said Iran's civilian nuclear facilities could be acceptable."
+    },
+    {
+      "id": "mkt:019ebcea-40af-7dd8-afe4-ba34ef3d63d1",
+      "time": "2026-06-13 01:38:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【U.S. official: Washington and Tehran close to deal, signature expected in days】Refinitiv reported a senior U.S. official said on Friday the U.S. and Iran are very close to an agreement though not yet at the finish line, and Washington expects to sign within days. The official said agreed terms in a memorandum of understanding meet Trump’s core objectives and include reopening the Strait of Hormuz, lifting the U.S. blockade on Iranian ports, and on-site destruction followed by removal of Iran’s highly enriched uranium. The official added Iran would not receive benefits merely for signing; economic rewards would be provided only upon fulfillment of agreed obligations—for example, surrendering nuclear material or dismantling nuclear programmes or facilities."
+    },
     {
       "id": "4933278",
       "time": "2026-06-13 01:37:11",
@@ -169841,36 +169936,6 @@
         "市場"
       ],
       "text": "鈀金期貨日內跌6%，現報1254.56美元/盎司。"
-    },
-    {
-      "id": "mkt:019e98e0-27b2-7665-830b-00530860b456",
-      "time": "2026-06-06 01:41:27",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "Copper",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Financial Times reports the US is pressing Mexico for stricter market-access rules for auto parts in ongoing trade talks."
-    },
-    {
-      "id": "4920247",
-      "time": "2026-06-06 01:39:28",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息：美國在墨西哥貿易談判中要求出臺更嚴苛的汽車零部件准入規則。"
-    },
-    {
-      "id": "mkt:019e98dd-b9b5-7665-830a-fd8735d7342e",
-      "time": "2026-06-06 01:38:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wall Street Journal: Trump says he urged acting DNI Bill Pulte to cut ODNI staff】According to the Wall Street Journal, President Trump said he has privately urged acting director of national intelligence Bill Pulte to begin large-scale layoffs to drive a reorganization of the U.S. intelligence community. Trump said he told Pulte he believes the Office of the Director of National Intelligence, which oversees 18 federal intelligence agencies and departments, is 'not necessary, or too large.' He added 'I want it smaller; I think there are a lot of people in there who shouldn't be there.' When asked whether he was calling for Pulte to fire employees, Trump said he wanted Pulte to 'start the process' and that a permanent nominee should continue the effort."
     }
   ]
 }
