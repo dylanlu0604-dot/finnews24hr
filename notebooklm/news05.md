@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-13 01:34:35_
-_本檔包含 3773 則快訊，約 669918 字_
+_更新時間：2026-06-13 02:22:26_
+_本檔包含 3740 則快訊，約 670571 字_
+
+---
+
+### 2026-06-08 16:01:17  #市場
+
+【邁威爾科技美股盤前漲超5%】邁威爾科技美股盤前漲超5%，現報278.87美元。
+
+---
+
+### 2026-06-08 16:01:16  #MKT News #Important #Market Regions #Greater China
+
+【SAMR summons Meiyijia headquarters over expired-food sales】The State Administration for Market Regulation (SAMR) formally summoned Meiyijia Holdings' management after regulators and media exposed multiple stores selling expired food. Acting under law, SAMR ordered the company to comply with the Food Safety Law and the Provisions on Supervision and Management of Food Sales Chain Enterprises Implementing Food Safety Main Responsibility; establish comprehensive risk controls and a full-chain food-safety traceability system across headquarters, branches and stores; and fully assume food-safety responsibilities to protect public dietary safety and consumer rights.
+
+---
+
+### 2026-06-08 16:01:10  #MKT News #DXY #Impact bullish #XAUUSD #WTI
+
+Iran's foreign ministry spokesperson questioned the US claim of being "unaware" of Israeli military action, saying either Israel misled Washington or the two allies coordinated the operation.
+
+---
+
+### 2026-06-08 16:01:07  #市場
+
+【美光科技美股盤前漲超3%】美光科技美股盤前漲超3%，現報896.13美元。
+
+---
+
+### 2026-06-08 16:00:54  #其他
+
+倫敦金屬交易所(LME)：鉛庫存減少1100噸，銅庫存減少2450噸，鋅庫存減少300噸，鋁庫存減少2250噸，錫庫存持平，鎳庫存減少18噸。
+
+---
+
+### 2026-06-08 16:00:51  #焦點
+
+國務院國資委原副部長級幹部潘良嚴重違紀違法被開除黨籍。（央視新聞）
+
+---
+
+### 2026-06-08 16:00:48  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+London Metal Exchange (LME) inventories: lead down 1,100 tonnes, copper down 2,450 tonnes, zinc down 300 tonnes, aluminium down 2,250 tonnes, tin unchanged, nickel down 18 tonnes.
+
+---
+
+### 2026-06-08 16:00:42  #其他
+
+【新疆維吾爾自治區黨委原常委、自治區政府原副主席陳偉俊嚴重違紀違法被開除黨籍和公職】新疆維吾爾自治區黨委原常委、自治區政府原副主席陳偉俊嚴重違紀違法被開除黨籍和公職。（央視新聞）
+
+---
+
+### 2026-06-08 16:00:40  #MKT News
+
+Ukrainian military chief said Ukraine reclaimed a net 100 sq km of territory in May.
+
+---
+
+### 2026-06-08 16:00:33  #公司 #焦點
+
+【市場監管總局約談美宜佳總部】記者今天瞭解到，針對一段時期以來監管發現和媒體曝光的美宜佳多個門店銷售過期食品等食品安全問題，市場監管總局近日依法對美宜佳控股有限公司（即美宜佳總部）負責人進行了責任約談，要求其嚴格遵守《中華人民共和國食品安全法》以及《食品銷售連鎖企業落實食品安全主體責任監督管理規定》等法律法規，建立健全覆蓋總部、分支機構、門店等經營管理各層級、經營活動全鏈條的風險管控制度機制和食品安全追溯體系，全面落實食品安全主體責任，切實保障公眾飲食安全，保護消費者合法權益。（央視新聞）
+
+---
+
+### 2026-06-08 16:00:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Heating Oil Spikes by 5.17% — Top commodity gainers are Heating Oil (5.17%), Natural Gas UK (4.80%), Brent Crude Oil (4.76%) and Crude Oil WTI (4.43%). Biggest loser is Natural gas (-3%).
+
+---
+
+### 2026-06-08 15:59:58  #其他
+
+【泉金“小三通”客運航線通航20年 運送旅客超160萬人次】8日，泉金“小三通”客運航線迎來開通20年。據廈門邊檢總站泉州邊檢站統計，截至當日，該航線已累計安全保障超3.2萬航次，運送旅客總量超160萬人次，成為兩岸同胞往來不可或缺的“海上公交”。（新華社）
+
+---
+
+### 2026-06-08 15:59:24  #市場
+
+英國國債收益率曲線全線走弱，2年期國債收益率上漲5個基點至4.39%。
+
+---
+
+### 2026-06-08 15:59:00  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Brent
+
+Head of Ukraine's military says Ukrainian forces have retaken over 600 sq km of territory since early 2026.
+
+---
+
+### 2026-06-08 15:58:37  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+【IDF says it launched large-scale strike on Iranian strategic air-defense systems】Local time on the 8th, the Israel Defense Forces said dozens of Israeli Air Force fighters under Military Intelligence command carried out a large-scale strike on strategic air-defense systems inside Iran. The IDF said Iran had recently deployed those systems to restore detection and defense capabilities damaged in earlier clashes and that the strike destroyed them. Earlier the same day the Islamic Revolutionary Guard Corps said Israel used air-launched ballistic missiles to hit targets inside Iran.
+
+---
+
+### 2026-06-08 15:58:36  #國際
+
+烏克蘭陸軍總司令表示，自2026年初以來，烏克蘭軍隊已收復了超過600平方公里的領土。
+
+---
+
+### 2026-06-08 15:58:20  #公司
+
+【雲煤能源：聘任陳瓊為證券事務代表，丁舒辭去該職務】雲煤能源公告稱，因個人原因，丁舒辭去證券事務代表職務。2026年6月8日，公司第十屆董事會第十三次臨時會議同意聘任陳瓊為證券事務代表，任期至本屆董事會屆滿。陳瓊已取得上交所董事會秘書任職資格證書，截至目前未持有公司股份，與相關方無關聯關係，未受過相關處罰或懲戒。
+
+---
+
+### 2026-06-08 15:58:16  #公司
+
+【ST能特：持股5%以上股東陳烈權質押5000萬股股份】ST能特公告稱，公司持股5%以上股東陳烈權將其持有的5000萬股公司股份辦理質押，佔其所持股份比例21.54%，佔公司總股本比例2.02%，質押起始日為2026年6月5日，質權人為湖北荊江實業投資集團有限公司，質押用途為個人資金需求。截至公告披露日，陳烈權累計質押股份232,163,822股，佔其所持股份比例61.42%，佔公司總股本比例9.38%，其資信狀況良好，不存在平倉或被強制過戶風險，未對公司產生影響。
+
+---
+
+### 2026-06-08 15:58:14  #公司
+
+【巨星農牧：5月商品肥豬銷售量33.92萬頭，同比增長6.57%】巨星農牧公告，2026年5月商品肥豬銷售量為33.92萬頭，同比增長6.57%；2026年累計銷售量為190.49萬頭，當月銷售收入為4.33億元，累計銷售收入為26.29億元。
+
+---
+
+### 2026-06-08 15:58:11  #MKT News #Important #Brent #Impact bearish #XAUUSD #DXY
+
+Iran's foreign ministry spokesman confirmed Iran's armed forces did not carry out any attack on Saudi Arabia.
+
+---
+
+### 2026-06-08 15:57:44  #公司 #市場
+
+【黃永強卸任廣汽能源科技公司董事長】天眼查App顯示，近日，廣汽能源科技有限公司發生工商變更，黃永強卸任法定代表人、董事長，由高銳接任。該公司成立於2022年7月，註冊資本10億人民幣，經營範圍包括配電開關控制裝置製造、節能管理服務、新興能源技術研發等，由廣汽集團（601238）旗下優湃能源科技（廣州）有限公司、廣汽埃安新能源汽車股份有限公司共同持股。
+
+---
+
+### 2026-06-08 15:57:19  #公司
+
+【領益智造：刊發H股發行聆訊後資料集 上市仍存不確定性】領益智造公告稱，公司正在推進H股發行並在香港聯交所主機板上市工作。2026年5月28日，香港聯交所上市委員會已審議該申請。現公司按規定在香港聯交所網站刊登本次發行並上市聆訊後資料集，該資料集為草擬版本，所載資料可能更新變動。本次發行上市尚需取得香港證監會和香港聯交所等相關方批准或核准，存在不確定性，公司將及時披露進展。
+
+---
+
+### 2026-06-08 15:57:04  #市場 #焦點
+
+南向資金淨買入額達110億港元。
+
+---
+
+### 2026-06-08 15:56:55  #Trading Economics #Markets #Euro Area #Currency #Importance 1
+
+Euro at Two-Month Low on Middle East Tensions — The euro steadied just above $1.15, close to its weakest level since April 3, as renewed Middle East tensions stoked fears of a prolonged Iran conflict, exacerbating inflation concerns and dampening growth prospects. Brent crude surged over 4% after Iran and Israel exchanged missile strikes, despite calls from President Trump for both sides to cease hostilities and pursue peace talks. Investors also braced for a likely European Central Bank rate hike this week, with traders now pricing in three increases for the ECB and fully expecting the first hike as soon as June 11. This follows data showing euro-area inflation rose to 3.2% in May, its highest in over two and a half years. However, uncertainty lingers after Eurozone GDP figures were revised to show a contraction in Q1 2026, the first since late 2022 and the steepest since mid-2020.
+
+---
+
+### 2026-06-08 15:55:53  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Falls to Near 3-Week Low — The DAX 40 fell 0.9% to around 24,500 on Monday, the lowest since May 19, as traders weighed the renewed escalation of the conflict between Iran and Israel and a fresh spike in oil prices. Both countries recently reported mutual missile strikes, even though, according to media reports, US President Donald Trump urged Israeli Prime Minister Benjamin Netanyahu to refrain from retaliating against the new Iranian attacks. Most sectors recorded losses, except utilities. Travel stocks such as TUI and Lufthansa dropped 2.4% and 1.2%, respectively.
+
+---
+
+### 2026-06-08 15:55:52  #其他
+
+【由於需求強勁，新歐元債券發行成本保持在低位】荷蘭銀行的Joost Beaumont和Shanawaz Bhimji在一份報告中表示，6月份對新歐元信用債的需求強勁，有助於將新發行折讓維持在最低水平。這些策略師表示，上週銀行發行了100億歐元（合115億美元）的新歐元債務，其中擔保債券供應主導了新發行市場。擔保債券是由金融機構發行的債務證券，並由房貸或公共部門貸款等資產池提供支援。
+
+---
+
+### 2026-06-08 15:55:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【IRGC says Israel has begun "dangerous action"】June 8 — Iran’s Islamic Revolutionary Guard Corps (IRGC) said its PR department announced earlier missile strikes on a petrochemical facility in Haifa, describing the action as retaliation for enemy aggression against Iranian petrochemical firms. The IRGC warned Israel’s attacks on civilian and oil-industry targets constitute a "dangerous action" and said Iranian strikes would cover all regional energy targets, adding the United States should bear responsibility for any global economic fallout.
+
+---
+
+### 2026-06-08 15:55:18  #焦點 #國際
+
+【伊朗革命衛隊說以色列開啟危險行動】今天（6月8日），伊朗伊斯蘭革命衛隊公共關係部宣佈，針對敵人對伊朗石化企業的侵略，革命衛隊稍早前對以色列海法的類似企業發動了導彈襲擊。衛隊警告稱，以色列透過襲擊民用目標和石油工業目標，開啟了一場“危險的行動”，伊朗打擊範圍將涵蓋該地區所有能源目標，而其對全球經濟造成的後果，應由美國承擔。（CCTV國際時訊）
+
+---
+
+### 2026-06-08 15:54:52  #國際
+
+青瓦臺：韓國總統尹錫悅與國會議長、最高法院院長、憲法法院院長會面，討論選舉管理相關事宜。
+
+---
+
+### 2026-06-08 15:54:46  #焦點 #國際
+
+市場訊息：伊朗否認參與沙特空軍基地襲擊。
+
+---
+
+### 2026-06-08 15:54:29  #MKT News #Important #WTI #Impact bearish #Brent
+
+Market sources: Iran denies involvement in attack on Saudi air base.
+
+---
+
+### 2026-06-08 15:54:21  #其他
+
+摩爾多瓦衛生部稱，在摩境內發現帶有爆炸痕跡的無人機碎片。
+
+---
+
+### 2026-06-08 15:53:57  #MKT News
+
+South Korea's Blue House said it will undertake major reforms to election administration.
+
+---
+
+### 2026-06-08 15:53:40  #公司 #國際
+
+【菲律賓解除海嘯預警】菲律賓火山地震研究所今天（6月8日）下午解除了稍早前對南部各省釋出的海嘯預警，表示今天早晨地震帶來的風險已經減弱。菲律賓火山地震研究所在公告中稱，經過兩個小時的延長觀測，只記錄到輕微的海面波動，同時觀測到的海嘯波高度過低，不會造成破壞。（CCTV國際時訊）
 
 ---
 
@@ -22354,407 +22558,5 @@ Axios reported U.S. presidential envoy Witkoff and Trump's son-in-law Kushner vi
 ### 2026-06-06 02:22:55  #其他
 
 據Axios：威特科夫與庫什納週四前往田納西州國家實驗室，同核能專家舉行會晤。
-
----
-
-### 2026-06-06 02:20:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Tumbles by 7.39% — Top commodity losers are Silver (-7.39%), Platinum (-6.31%), Copper (-4.13%) and Gold (-3.32%).
-
----
-
-### 2026-06-06 02:19:10  #MKT News #Important
-
-Meta Platforms (META.O) shares fell more than 6%.
-
----
-
-### 2026-06-06 02:18:54  #市場 #焦點
-
-白銀連續主力合約日內跌7%，現報16529.00元。
-
----
-
-### 2026-06-06 02:18:54  #MKT News
-
-Air Canada and WestJet have indefinitely suspended flights to Cuba, Global Mail reports.
-
----
-
-### 2026-06-06 02:18:47  #MKT News #WBD.O #Impact bearish #PSKY.O
-
-Warner Bros. Discovery (WBD.O) shares extended losses, down 3%; Paramount (PSKY.O) losses widened to 7.6%.
-
----
-
-### 2026-06-06 02:17:38  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish
-
-S&P 500 losses widen to 2.00%.
-
----
-
-### 2026-06-06 02:17:10  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish #Nasdaq100 #S&P500
-
-Financial Times reports Meta Platforms is considering a large equity raise after reaching a major deal with Google (GOOG.O). Meta may sell several tens of billions of dollars of new shares to fund its AI infrastructure.
-
----
-
-### 2026-06-06 02:16:14  #國際
-
-美國總統特朗普的阿拉斯加石油租賃許可拍賣僅僅招攬到兩個競標人。
-
----
-
-### 2026-06-06 02:15:41  #市場 #焦點
-
-標普500指數跌2.00%，現報7432.430點；道指跌0.92%，現報51088.570點；納指跌3.45%，現報25906.378點。
-
----
-
-### 2026-06-06 02:15:12  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural gas Drops by 3.58% — Top commodity losers are Natural gas (-3.58%), Crude Oil WTI (-3.04%), Methanol (-2.71%) and Brent Crude Oil (-2.06%). Gains are led by Coking Coal (1.01%).
-
----
-
-### 2026-06-06 02:15:11  #MKT News
-
-U.S. State Department says the U.S. will provide about $38 million in additional funding for Ebola response efforts.
-
----
-
-### 2026-06-06 02:14:46  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Meta Stock Price Hits 8-week Low — Meta shares decreased to 592.23 USD, the lowest since April 2026. Over the past 4 weeks, Meta Platforms, Inc. lost 1.81%, and in the last 12 months, it decreased 13.75%.
-
----
-
-### 2026-06-06 02:14:34  #其他
-
-市場訊息：Meta考慮股權融資數十億美元。
-
----
-
-### 2026-06-06 02:14:21  #其他
-
-【Meta短線跳水 最新跌超5%】Meta短線跳水，最新跌超5%。訊息面上，公司為籌集人工智慧基礎設施資金，可能發售數百億美元的新股。
-
----
-
-### 2026-06-06 02:13:58  #其他
-
-市場訊息：土耳其一艘漁船在黑海遭到襲擊，一人喪生。
-
----
-
-### 2026-06-06 02:13:14  #宏觀 #公司 #國際
-
-美國國務院公告：美方宣佈追加近 3800 萬美元資金，用於該部門持續推進的埃博拉疫情應對工作。
-
----
-
-### 2026-06-06 02:12:53  #其他
-
-Revolut 正考慮以 1150 億美元估值開展股權二次出售。
-
----
-
-### 2026-06-06 02:12:47  #MKT News
-
-Russia's finance ministry said the Jan–May budget deficit was 2.6% of GDP, up from 2.5% a month earlier; the deficit amounted to 6 trillion roubles versus 5.9 trillion roubles previously.
-
----
-
-### 2026-06-06 02:11:54  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Tesla Stock Price Hits 4-week Low — Tesla shares decreased to 393.53 USD, the lowest since May 2026. Over the past 4 weeks, Tesla lost 1.28%, and in the last 12 months, it increased 33.37%.
-
----
-
-### 2026-06-06 02:10:21  #宏觀 #國際
-
-俄羅斯財政部資料：俄 1 至 5 月財政赤字達 6 萬億盧布（上月統計值為 5.9 萬億盧布）。
-
----
-
-### 2026-06-06 02:07:47  #MKT News #Commodities #Energy
-
-Iran's oil ministry said cleanup work at two damaged refining facilities at South Pars is about 60% complete.
-
----
-
-### 2026-06-06 02:07:37  #MKT News
-
-Democratic Republic of the Congo (DRC) says confirmed Ebola cases have risen to 452, including 82 deaths.
-
----
-
-### 2026-06-06 02:06:00  #國際
-
-伊朗石油部就南帕爾斯煉油廠相關事宜表態：兩座受損煉油廠的殘骸清理工作已完成六成。
-
----
-
-### 2026-06-06 02:05:54  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O
-
-Meta Platforms (META.O) is reportedly considering launching a consumer AI agent priced at $200 per month, The Information reports.
-
----
-
-### 2026-06-06 02:05:02  #其他
-
-Meta據悉考慮對消費者AI Agent收取每月200美元的費用。
-
----
-
-### 2026-06-06 02:03:57  #MKT News
-
-US President Trump is vetting five candidates for the Director of National Intelligence post.
-
----
-
-### 2026-06-06 02:03:55  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump concluded a speech aboard Air Force One.
-
----
-
-### 2026-06-06 02:03:51  #MKT News
-
-Trump said planned IPOs for Fannie Mae and Freddie Mac are not ruled out, but there is no need to rush to proceed.
-
----
-
-### 2026-06-06 02:03:51  #MKT News
-
-Rosatom said Ukrainian drones struck engineers carrying out demining and power-line repairs around the Zaporizhzhia nuclear plant, wounding three people, two seriously.
-
----
-
-### 2026-06-06 02:03:51  #MKT News
-
-Sources say California and New York are among the states preparing to sue to block the Paramount deal.
-
----
-
-### 2026-06-06 02:01:30  #資料 #觀點
-
-花旗調研：預計墨西哥 2026 年消費者物價指數（CPI）為 4.35%，此前預期值 4.30%。
-
----
-
-### 2026-06-06 01:59:55  #國際
-
-特朗普：正篩選五名人選角逐國家情報總監一職。
-
----
-
-### 2026-06-06 01:59:34  #公司 #國際
-
-俄羅斯國家原子能公司：烏克蘭無人機襲擊了正在扎波羅熱核電站周邊開展排雷與搶修受損輸電線路作業的工程人員，造成三名軍人受傷，其中兩人傷勢危重。
-
----
-
-### 2026-06-06 01:58:54  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Trump: With U.S. help, large volumes of oil are being shipped through the Strait of Hormuz.
-
----
-
-### 2026-06-06 01:58:52  #國際
-
-特朗普：房利美、房地美的首次公開募股方案並未被排除，但暫不急於推進。
-
----
-
-### 2026-06-06 01:57:16  #國際
-
-特朗普：得益於美方協助，大量原油經由霍爾木茲海峽外運。
-
----
-
-### 2026-06-06 01:56:35  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US President Trump said large volumes of oil are entering the United States.
-
----
-
-### 2026-06-06 01:56:08  #MKT News #Market Themes #AI Revolution
-
-President Trump said he will meet with artificial intelligence firms soon; they may visit the White House next week.
-
----
-
-### 2026-06-06 01:56:03  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-ICE: For the week ended June 2, speculative net long diesel positions fell by 1,808 contracts to 52,000 contracts.
-
----
-
-### 2026-06-06 01:55:49  #國際
-
-特朗普：大量原油正源源不斷流入美國。
-
----
-
-### 2026-06-06 01:55:14  #國際
-
-特朗普：正研究美國民眾如何從人工智慧發展中獲益。
-
----
-
-### 2026-06-06 01:55:12  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-ICE: Speculative net long positions in Brent crude fell by 26,220 contracts to 252,500 in the week to June 2.
-
----
-
-### 2026-06-06 01:55:08  #市場
-
-洲際交易所（ICE）：6月2日當週，投機者所持ICE布倫特原油淨多頭頭寸減少26,220手合約，至252,500手合約，創最近18周新低。
-
----
-
-### 2026-06-06 01:54:20  #國際
-
-特朗普：美國政企人工智慧合作這一構想頗具參考價值。
-
----
-
-### 2026-06-06 01:54:06  #MKT News #Market Themes #The Trump Trade #WTI
-
-President Trump said people had expected oil prices to be higher.
-
----
-
-### 2026-06-06 01:54:00  #國際
-
-特朗普：各大頭部人工智慧企業代表將到訪白宮，時間大機率定在下週。
-
----
-
-### 2026-06-06 01:53:48  #國際
-
-特朗普：近期將安排與人工智慧企業舉行會談。
-
----
-
-### 2026-06-06 01:53:44  #國際
-
-特朗普：此前市場普遍認為原油桶價將會走高。
-
----
-
-### 2026-06-06 01:53:20  #MKT News
-
-U.S. President Trump reiterated that Iran will not have nuclear weapons.
-
----
-
-### 2026-06-06 01:52:42  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump said on gasoline prices that we have many options.
-
----
-
-### 2026-06-06 01:52:28  #MKT News #Market Themes #The Trump Trade #Macro & Rates #The Fed (FOMC)
-
-U.S. President Trump said he would not mind whether Federal Reserve chair Kevin Warsh cuts interest rates.
-
----
-
-### 2026-06-06 01:51:55  #國際
-
-特朗普重申伊朗不會擁有核武器。
-
----
-
-### 2026-06-06 01:51:49  #國際
-
-特朗普談及汽油價格：我們擁有大量替代能源方案。
-
----
-
-### 2026-06-06 01:50:08  #MKT News #Important #GBPUSD #Impact mixed
-
-Bank of England Governor Bailey will speak in 10 minutes.
-
----
-
-### 2026-06-06 01:49:37  #公司
-
-【報道：嘉吉正談判將金屬業務出售給麥格理】據五位知情訊息人士透露，全球大宗商品貿易巨頭嘉吉公司（Cargill）正在進行談判，計劃將其金屬業務部門出售給麥格理集團（Macquarie Group）。此舉旨在讓這家全球貿易巨頭更專注於其核心的食品和農業主業。 一份2024年內部備忘錄顯示，嘉吉公司執行長Brian Sikes曾明確表示：“從核心來看，我們一直以來都是一家食品和農業公司。”如果這筆潛在的出售交易最終達成分拆，這也將不是嘉吉與麥格理之間的首次資產重組。2017年，嘉吉就曾將其包含原油及石油產品在內的石油業務全部出售給了這家澳大利亞投資銀行。
-
----
-
-### 2026-06-06 01:48:59  #其他
-
-【烏干達累計確診19例埃博拉病例 多為輸入病例 】烏干達衛生部5日在社交媒體平臺釋出訊息說，該國新增3例埃博拉確診病例，累計確診病例增至19例。（新華社）
-
----
-
-### 2026-06-06 01:47:24  #國際
-
-特朗普：如果PULTE裁員，我不會介意。
-
----
-
-### 2026-06-06 01:47:16  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-U.S. President Trump said he will leave the decision on interest-rate cuts to Federal Reserve Chair Kevin Warsh at the October meeting.
-
----
-
-### 2026-06-06 01:45:51  #焦點 #國際
-
-特朗普：是否降息交由沃什在 10 月議息會議定奪。
-
----
-
-### 2026-06-06 01:45:24  #國際
-
-【以軍空襲黎巴嫩南部致至少13人死亡】據黎巴嫩國家通訊社5日報道，以色列軍隊當天對黎巴嫩南部多地發動空襲，造成至少13人死亡、15人受傷。（新華社）
-
----
-
-### 2026-06-06 01:44:44  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Nasdaq100 #DXY #Impact bearish
-
-Trump says he hopes to see lower interest rates.
-
----
-
-### 2026-06-06 01:44:39  #國際
-
-特朗普：希望看到利率下調。
-
----
-
-### 2026-06-06 01:42:49  #市場
-
-鈀金期貨日內跌6%，現報1254.56美元/盎司。
-
----
-
-### 2026-06-06 01:41:27  #MKT News #DXY #Impact bullish #Copper #Impact bearish #S&P500
-
-Financial Times reports the US is pressing Mexico for stricter market-access rules for auto parts in ongoing trade talks.
-
----
-
-### 2026-06-06 01:39:28  #宏觀 #國際
-
-市場訊息：美國在墨西哥貿易談判中要求出臺更嚴苛的汽車零部件准入規則。
-
----
-
-### 2026-06-06 01:38:48  #MKT News
-
-【Wall Street Journal: Trump says he urged acting DNI Bill Pulte to cut ODNI staff】According to the Wall Street Journal, President Trump said he has privately urged acting director of national intelligence Bill Pulte to begin large-scale layoffs to drive a reorganization of the U.S. intelligence community. Trump said he told Pulte he believes the Office of the Director of National Intelligence, which oversees 18 federal intelligence agencies and departments, is 'not necessary, or too large.' He added 'I want it smaller; I think there are a lot of people in there who shouldn't be there.' When asked whether he was calling for Pulte to fire employees, Trump said he wanted Pulte to 'start the process' and that a permanent nominee should continue the effort.
-
----
-
-### 2026-06-06 01:35:09  #國際
-
-洲際交易所歐洲分部持倉報告（COT）：截至 6 月 2 日，白糖投機客淨多頭頭寸增持 3394 手，淨多持倉升至 27079 手。
 
 ---
