@@ -479,6 +479,9 @@ function initLanguageSelect() {
   .daily-run-btn { flex-shrink: 0; font-family: 'DM Mono', monospace; font-size: .62rem; padding: .32rem .55rem; border: 1px solid var(--border-bright); border-radius: 6px; background: transparent; color: var(--muted); cursor: pointer; }
   .daily-run-btn:hover { color: var(--text); border-color: var(--gold-dim); }
   .daily-run-btn.active { background: var(--gold); color: #080810; border-color: var(--gold); font-weight: 600; }
+  .calendar-tabs { gap: .32rem; padding: .38rem .75rem; }
+  .calendar-tabs .daily-run-btn { font-size: .58rem; line-height: 1.22; padding: .22rem .48rem; border-radius: 5px; }
+  .calendar-scroll { padding: .55rem .85rem 1rem; }
   .daily-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); margin-bottom: .85rem; }
   .daily-stat { background: var(--surface); padding: .62rem .72rem; }
   .daily-stat span { display: block; font-family: 'DM Mono', monospace; font-size: .52rem; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
@@ -487,45 +490,46 @@ function initLanguageSelect() {
   .daily-article h3 { color: var(--gold); font-size: .96rem; line-height: 1.45; margin: 1rem 0 .38rem; font-weight: 650; }
   .daily-article h3:first-child { margin-top: 0; }
   .daily-article p { margin: .45rem 0; }
-  .cal-day { margin-bottom: 1.15rem; }
+  .cal-day { margin-bottom: .72rem; }
   .cal-day-title {
     position: sticky; top: 0; z-index: 1;
-    display: flex; align-items: center; gap: .55rem;
+    display: flex; align-items: center; gap: .42rem;
     font-family: 'DM Mono', monospace;
-    font-size: .66rem; letter-spacing: .08em;
+    font-size: .62rem; letter-spacing: .07em;
     color: var(--gold);
     background: rgba(11,11,20,.96);
     border-bottom: 1px solid var(--border);
-    padding: .46rem 0 .55rem;
+    padding: .3rem 0 .38rem;
   }
   .cal-day-count { color: var(--muted); margin-left: auto; font-size: .55rem; }
   .cal-card {
-    display: grid; grid-template-columns: 66px 1fr;
-    gap: .78rem; padding: .82rem 0;
+    display: grid; grid-template-columns: 72px 1fr;
+    gap: .62rem; padding: .58rem 0;
     border-bottom: 1px solid rgba(28,28,46,.75);
   }
   .cal-time {
     font-family: 'DM Mono', monospace;
     font-size: .72rem; color: var(--gold);
-    line-height: 1.45; padding-top: .08rem;
+    line-height: 1.24; padding-top: .04rem;
   }
-  .cal-country { display: block; color: var(--muted); font-size: .56rem; margin-top: .18rem; }
+  .cal-country { display: flex; align-items: center; gap: .2rem; color: var(--muted); font-size: .56rem; margin-top: .12rem; white-space: nowrap; }
+  .cal-flag { font-size: .78rem; line-height: 1; filter: saturate(1.08); }
   .cal-title {
-    color: var(--text); font-size: .84rem;
-    line-height: 1.55; text-decoration: none; font-weight: 600;
+    color: var(--text); font-size: .81rem;
+    line-height: 1.36; text-decoration: none; font-weight: 600;
   }
   .cal-title:hover { color: var(--gold); }
   .cal-meta {
-    display: flex; gap: .45rem; flex-wrap: wrap; align-items: center;
-    margin: .34rem 0 .42rem;
-    font-family: 'DM Mono', monospace; font-size: .55rem;
+    display: flex; gap: .36rem; flex-wrap: wrap; align-items: center;
+    margin: .22rem 0 .28rem;
+    font-family: 'DM Mono', monospace; font-size: .52rem;
     color: var(--muted);
   }
   .cal-stars { color: var(--gold); letter-spacing: .04em; }
   .cal-values { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); }
-  .cal-value { background: rgba(15,15,26,.78); padding: .42rem .5rem; min-width: 0; }
+  .cal-value { background: rgba(15,15,26,.78); padding: .3rem .42rem; min-width: 0; }
   .cal-value span { display: block; font-family: 'DM Mono', monospace; font-size: .5rem; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
-  .cal-value strong { display: block; margin-top: .12rem; color: #c8c5bd; font-size: .68rem; line-height: 1.35; word-break: break-word; }
+  .cal-value strong { display: block; margin-top: .08rem; color: #c8c5bd; font-size: .66rem; line-height: 1.18; word-break: break-word; }
   .cal-value.actual.released strong { color: var(--green); }
   .log-card { padding: .85rem 0; border-bottom: 1px solid var(--border); }
   .log-card-head { display: flex; gap: .75rem; align-items: baseline; margin-bottom: .6rem; }
@@ -712,9 +716,9 @@ function initLanguageSelect() {
         <span id="calendarCount" class="ai-period-count"></span>
         <span id="calendarUpdated" class="daily-meta">每 5 分鐘更新</span>
       </div>
-      <div id="calendarIntervalTabs" class="daily-run-tabs"></div>
-      <div id="calendarDateTabs" class="daily-run-tabs"></div>
-      <div class="daily-scroll">
+      <div id="calendarIntervalTabs" class="daily-run-tabs calendar-tabs"></div>
+      <div id="calendarDateTabs" class="daily-run-tabs calendar-tabs"></div>
+      <div class="daily-scroll calendar-scroll">
         <div id="calendarList"><div class="ai-empty">載入財經日曆中…</div></div>
       </div>
     </div>
@@ -1243,6 +1247,34 @@ let aiSummaries = [], activeAiId = '', activeAiMonth = '', activeAiDate = '';
 let centralBankSummaries = [], activeCbDate = '';
 let dailyNewsItems = [], activeDailyDate = '', activeDailyId = '';
 let economicCalendar = { weeks: [], items: [] }, activeCalendarInterval = 'this_week', activeCalendarDate = '';
+let calendarDidSetDefaultDate = false;
+const CALENDAR_COUNTRY_FLAGS = {
+  '中國': '🇨🇳',
+  '中國香港': '🇭🇰',
+  '俄羅斯': '🇷🇺',
+  '加拿大': '🇨🇦',
+  '印尼': '🇮🇩',
+  '土耳其': '🇹🇷',
+  '巴西': '🇧🇷',
+  '德國': '🇩🇪',
+  '意大利': '🇮🇹',
+  '挪威': '🇳🇴',
+  '新加坡': '🇸🇬',
+  '新西蘭': '🇳🇿',
+  '日本': '🇯🇵',
+  '歐元區': '🇪🇺',
+  '法國': '🇫🇷',
+  '澳大利亞': '🇦🇺',
+  '烏克蘭': '🇺🇦',
+  '瑞典': '🇸🇪',
+  '瑞士': '🇨🇭',
+  '美國': '🇺🇸',
+  '臺灣': '🇹🇼',
+  '英國': '🇬🇧',
+  '菲律賓': '🇵🇭',
+  '西班牙': '🇪🇸',
+  '韓國': '🇰🇷',
+};
 
 function aiDateKey(item) {
   return (item.slot_start || item.slot_end || '').slice(0, 10);
@@ -1373,6 +1405,15 @@ function calendarStars(importance) {
   return '★'.repeat(score) + '☆'.repeat(3 - score);
 }
 
+function calendarFlag(country) {
+  return CALENDAR_COUNTRY_FLAGS[country] || '🌐';
+}
+
+function defaultCalendarDateForWeek(week, todayKey = calendarTodayKey()) {
+  const dateKeys = (week?.dates || []).map(item => item.date).filter(Boolean);
+  return dateKeys.includes(todayKey) ? todayKey : '';
+}
+
 function calendarValueHtml(label, value, className = '') {
   return `
     <div class="cal-value ${className}">
@@ -1384,11 +1425,12 @@ function calendarValueHtml(label, value, className = '') {
 
 function renderCalendarEvent(event) {
   const actualClass = event.actual_released ? 'actual released' : 'actual';
+  const country = event.country || '—';
   return `
     <article class="cal-card">
       <div class="cal-time">
         ${attrEscape(event.time || '—')}
-        <span class="cal-country">${attrEscape(event.country || '—')}</span>
+        <span class="cal-country"><span class="cal-flag">${calendarFlag(country)}</span>${attrEscape(country)}</span>
       </div>
       <div>
         <a class="cal-title" href="${attrEscape(event.url || '#')}" target="_blank" rel="noopener">${attrEscape(event.title || '未命名事件')}</a>
@@ -1424,13 +1466,21 @@ function renderEconomicCalendar() {
     return;
   }
 
+  const todayKey = calendarTodayKey();
+  if (!calendarDidSetDefaultDate) {
+    const todayWeek = weeks.find(item => defaultCalendarDateForWeek(item, todayKey));
+    if (todayWeek) activeCalendarInterval = todayWeek.interval || activeCalendarInterval;
+  }
   if (!weeks.some(week => week.interval === activeCalendarInterval)) {
     activeCalendarInterval = weeks[0].interval || 'this_week';
   }
   const week = weeks.find(item => item.interval === activeCalendarInterval) || weeks[0];
   const dates = week.dates || [];
   const dateKeys = dates.map(item => item.date).filter(Boolean);
-  const todayKey = calendarTodayKey();
+  if (!calendarDidSetDefaultDate) {
+    activeCalendarDate = defaultCalendarDateForWeek(week, todayKey);
+    calendarDidSetDefaultDate = true;
+  }
   if (activeCalendarDate && !dateKeys.includes(activeCalendarDate)) {
     activeCalendarDate = '';
   }
@@ -1863,7 +1913,9 @@ document.getElementById('calendarIntervalTabs').addEventListener('click', e => {
   const item = e.target.closest('.daily-run-btn');
   if (!item) return;
   activeCalendarInterval = item.dataset.calendarInterval || activeCalendarInterval;
-  activeCalendarDate = '';
+  const week = (economicCalendar.weeks || []).find(entry => entry.interval === activeCalendarInterval);
+  activeCalendarDate = defaultCalendarDateForWeek(week);
+  calendarDidSetDefaultDate = true;
   renderEconomicCalendar();
 });
 
@@ -1871,6 +1923,7 @@ document.getElementById('calendarDateTabs').addEventListener('click', e => {
   const item = e.target.closest('.daily-run-btn');
   if (!item) return;
   activeCalendarDate = item.dataset.calendarDate || '';
+  calendarDidSetDefaultDate = true;
   renderEconomicCalendar();
 });
 
