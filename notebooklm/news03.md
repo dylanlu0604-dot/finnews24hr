@@ -1,7 +1,379 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 03:25:32_
-_本檔包含 3643 則快訊，約 669394 字_
+_更新時間：2026-06-13 04:13:09_
+_本檔包含 3646 則快訊，約 669315 字_
+
+---
+
+### 2026-06-10 20:48:16  #MKT News
+
+Bosch CEO: under current conditions the company has a solid basis to meet its 2026 financial targets.
+
+---
+
+### 2026-06-10 20:48:07  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+Bosch CEO: market environment challenging; Middle East conflict raises risk.
+
+---
+
+### 2026-06-10 20:46:43  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
+
+【US core inflation eases, easing near-term Fed rate concerns】May US CPI showed headline inflation at a three-year high but core prices rose more modestly, reducing near-term Fed rate-hike pressure. Today’s CPI and tomorrow’s PPI will influence the Fed’s stance ahead of next week’s policy meeting. Before the CPI print, CME FedWatch priced a 70% chance of a hike by end-2026; markets now see a rate move next week as highly unlikely and put the probability of a July hike at 13%. Near-term focus is whether the Fed will explicitly shift from an easing bias toward neutral or tightening; this week’s inflation prints and developments in US–Iran talks could tip that balance.
+
+---
+
+### 2026-06-10 20:46:36  #公司
+
+【*ST雲網：撤銷部分風險警示 股票簡稱變更為“ST雲網”】*ST雲網公告稱，公司股票自2026年6月11日開市起停牌一天，6月12日開市起復牌。屆時將撤銷因財務指標、審計意見型別而被實施的退市風險警示及其他風險警示，但因主要銀行賬號被凍結，繼續被實施其他風險警示，股票簡稱由“*ST雲網”變更為“ST雲網”，程式碼仍為“002306”，漲跌幅限制為5%。2025年度公司營收3.33億元，淨利潤虧損1.02億元。
+
+---
+
+### 2026-06-10 20:46:14  #公司 #焦點 #國際
+
+【特朗普媒體科技：暫不推進Truth Social等資產分拆計劃】特朗普媒體科技集團與TAE科技公司（簡稱“TAE”）今日公告稱，雙方仍全力推進此前公佈的合併交易，力爭在2026年第四季度或更早完成交割。 另外，雙方曾於2026年2月27日披露，TMTG、TAE與德州風投收購三期公司一直在商討分拆方案：計劃將TMTG旗下部分媒體資產（含真相社交平臺Truth Social）剝離，組建一家全新上市公司，並在TAE合併交割完成後，由這家新公司與德州風投三期合併。經深度評估後，各方決定現階段不再推進該分拆計劃。 TAE合併交易交割完畢後，合併主體的董事會將評估集團原有各業務板塊（包含但不限於TMTG媒體資產）的各類戰略最佳化方案，以提升股東價值。
+
+---
+
+### 2026-06-10 20:44:00  #資料 #市場 #央行 #國際
+
+“美聯儲傳聲筒”Nick Timiraos：核心CPI在5月份上漲了0.21%，非常接近預測值，這使得12個月的衡量指標上升至2.9%。 這是自2022年12月以來，12個月核心CPI讀數首次高於前一年同期的讀數。
+
+---
+
+### 2026-06-10 20:43:48  #MKT News #Important #US10Y #Impact bearish #DXY #XAUUSD
+
+TIMIRAOS: May core CPI rose 0.21% MoM, roughly in line with expectations, lifting 12-month core CPI to 2.9%.
+
+---
+
+### 2026-06-10 20:43:43  #MKT News #Macro & Rates #The Fed (FOMC) #Commodities #Energy #WTI #Impact bullish #DXY #US10Y #Impact bearish
+
+【Energy-driven US inflation hits three-year high; core CPI unexpectedly cools】BLS data show US headline CPI rose 4.2% YoY in May, the largest increase since early 2023, driven by higher energy prices linked to the Iran-related conflict. Core CPI (ex food and energy) rose 0.2% MoM (market est. 0.3%) and 2.9% YoY. The report shows offsets in items including transportation services, health insurance and new-vehicle prices. Economists warn headline pressures could persist and further upside in consumer prices would keep rate-hike options on the Fed’s table. Even if the conflict eases quickly, oil supply normalization may lag, sustaining cost pressures; fertilizer market disruptions risk lifting grocery prices over time and higher transport costs would push up consumer goods inflation.
+
+---
+
+### 2026-06-10 20:43:28  #Trading Economics #Economy #United States #Inflation Rate MoM #Importance 0
+
+US CPI Rises 0.5% MoM in May — The CPI in the US rose 0.5% month-over-month in May 2026, slowing from a 0.6% rise in April and matching forecasts. Energy prices increased 3.9%, after rising 3.8% in April and 10.9% in March. The energy index accounted for over 60% of the monthly increase, amid the energy shock caused by the conflict with Iran. Gasoline soared 7% and fuel oil went up 3.8%. Meanwhile, prices also increased for shelter (0.3%) and food (0.2%). Other gains were seen in prices for communication, airline fares, medical care, personal care, and recreation. Conversely, the indexes for motor vehicle insurance, household furnishings and operations, and new vehicles decreased.
+
+---
+
+### 2026-06-10 20:43:27  #公司 #國際
+
+【英媒：歐盟欲勸七國集團給俄羅斯石油壓價】英國《金融時報》9日報道，歐盟希望勸說七國集團推遲上調俄羅斯石油價格上限，以阻止俄羅斯“吃到”國際原油價格高企的“紅利”。《金融時報》援引知情人士的話報道，歐盟意圖爭取七國集團內非歐盟國家的支援，在對俄羅斯石油限價方面協調立場。報道說，歐盟希望加拿大、英國等國推遲調整俄羅斯石油價格上限。（新華社）
+
+---
+
+### 2026-06-10 20:42:04  #國際
+
+德國總理默茨：未來空戰系統專案（FCAS）仍將作為歐洲的一個系統推進。將在七月討論該專案。將加強歐洲防務和防務工業。
+
+---
+
+### 2026-06-10 20:41:49  #其他
+
+德國總理談核威懾：希望充分發揮我們在德國無人機技術領域的潛力。
+
+---
+
+### 2026-06-10 20:41:39  #Trading Economics #Economy #United States #Core Inflation Rate #Importance 0
+
+US Core Inflation Hits Seven-Month High — The US core inflation rate, excluding volatile food and fuel costs, climbed to 2.9% year-over-year in May 2026, matching market forecasts and reaching its highest level since September 2025. Key drivers included shelter (+3.4%), transportation services (+4.1%), medical care services (+3.6%), and apparel (+4.8%), while used cars and trucks (-2.0%) and medical care commodities (-1.8%) declined. Month-over-month, core consumer prices rose 0.2% in May, following a 0.4% increase in April, slightly below expectations of 0.3%.
+
+---
+
+### 2026-06-10 20:41:38  #MKT News
+
+MERZ, on nuclear deterrence, said Germany will strengthen European defense and its defense industry.
+
+---
+
+### 2026-06-10 20:41:24  #MKT News
+
+German Chancellor Merz said the Future Combat Air System (FCAS) project will continue to be advanced as a European system and will be discussed in July.
+
+---
+
+### 2026-06-10 20:41:10  #其他
+
+德國總理默茨就核威懾問題表示：希望與法國推進相關合作。
+
+---
+
+### 2026-06-10 20:41:02  #公司
+
+【享界G9新車申報圖公佈】6月10日，根據工信部第408批《道路機動車輛生產企業及產品公告》新產品公示，鴻蒙智行新車享界G9提供插電式增程混合動力和純電動力選擇，定位運動型乘用車；車輛尺寸為5206/5377×2050×1897mm、軸距3160mm，提供5座、6座兩種佈局。
+
+---
+
+### 2026-06-10 20:40:30  #MKT News #AIR.PA #Impact bearish
+
+German Chancellor Merz said he and French President Macron agree not to proceed with the joint fighter jet program.
+
+---
+
+### 2026-06-10 20:40:24  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #WTI
+
+【US May inflation returns to 4% range, in line with expectations】US consumer prices accelerated in May, with CPI up 4.2% YoY in the 12 months to May — the biggest gain since April 2023 — and 0.5% MoM versus 0.6% in April. Higher gasoline and energy prices linked to the Middle East conflict were a key driver. CPI’s third consecutive monthly jump and the second month in which inflation exceeded wage growth add to downside risks for activity and bolster the case for the Fed to keep policy rates on hold into 2027. There are signs consumers are drawing on savings to cover spending, and the sharp rise in living costs is a political headwind ahead of November’s midterms.
+
+---
+
+### 2026-06-10 20:39:44  #焦點 #國際
+
+德國總理默茨談未來空中作戰系統（FCAS）專案：我與馬克龍總統已達成一致，不再推進聯合戰鬥機的建造工作。
+
+---
+
+### 2026-06-10 20:39:36  #公司
+
+【南通市與阿里雲智慧集團簽署合作框架協議】據南通釋出，6月10日，南通市政府與阿里雲智慧集團簽署合作框架協議。市委書記吳新明說，南通與阿里雲合作基礎紮實、前景廣闊，希望雙方以本次簽約為契機，在智算供給、產業賦能、專案招引、人才培育等方面深化務實合作，積極推動人工智慧賦能千行百業，攜手實現互利共贏。南通將不斷提升專業化服務水平，為企業在通發展營造一流營商環境。
+
+---
+
+### 2026-06-10 20:39:18  #公司
+
+【安路科技：股東安芯合夥減持計劃實施完成，累計減持0.91%股份】安路科技公告，公司此前披露股東安芯合夥、安路芯合夥、芯添合夥及深圳思齊的減持計劃。截至2026年6月9日，安芯合夥透過集中競價交易方式累計減持公司股份365.27萬股，佔公司總股本0.91%；安路芯合夥累計減持14.81萬股，佔0.0369%；芯添合夥累計減持20.77萬股，佔0.05%；深圳思齊累計減持200.42萬股，佔0.50%。上述股東減持計劃均已實施完畢。減持後，安芯合夥持股7232.21萬股（佔18.04%），深圳思齊持股2299.67萬股（佔5.74%）。
+
+---
+
+### 2026-06-10 20:38:50  #公司 #市場
+
+【新易盛：擬發行H股股票並在香港聯交所主機板掛牌上市】新易盛公告，公司於2026年6月10日召開第五屆董事會第十四次會議，審議透過了《關於公司發行H股股票並在香港聯合交易所有限公司上市的議案》及《關於公司發行H股股票並在香港聯合交易所有限公司上市方案的議案》。公司正在籌劃發行境外上市外資股（H股）股票並在香港聯交所主機板掛牌上市，旨在提高資本實力和國際影響力。本次H股發行上市事項尚需提交公司股東會審議，並經中國證監會備案、取得香港聯交所和香港證券及期貨事務監察委員會核准。
+
+---
+
+### 2026-06-10 20:38:39  #公司
+
+【*ST生物：公司股票將於6月12日起撤銷退市風險警示】*ST生物公告，公司股票將於2026年6月11日開市起停牌1天，並於2026年6月12日開市起復牌。公司股票交易自2026年6月12日開市起撤銷退市風險警示，股票簡稱由“*ST生物”變更為“南華生物”，股票程式碼仍為“000504”，股票交易日漲跌幅限制由“5%”變更為“10%”。
+
+---
+
+### 2026-06-10 20:38:33  #資料 #國際
+
+【法國外貿銀行：5月核心通脹溫和，戰爭相關通脹峰值或已成過去】美國5月核心CPI月率錄得0.2%，低於市場預期的0.3%。法國外貿銀行北美區美國利率策略主管John Briggs表示，核心通脹月率相較預期略偏溫和，可能有助於鞏固這樣一種論點，即戰爭相關通脹的峰值可能已成為過去，通脹前景未來有望改善。當然，這有賴於油價未來保持平穩。
+
+---
+
+### 2026-06-10 20:38:28  #公司
+
+【金盾股份：公司股票將於6月11日開市起停牌】金盾股份公告，公司大股東王淼根先生、5%以上股東陳根榮先生正在籌劃重大事項，該事項可能導致公司控制權發生變動。經公司向深圳證券交易所申請，公司股票自2026年6月11日（星期四）開市起停牌，預計停牌時間不超過2個交易日。
+
+---
+
+### 2026-06-10 20:37:47  #公司
+
+【安路科技：股東減持計劃實施完成 累計減持約601萬股】安路科技公告稱，截至2026年6月9日，股東安芯合夥、安路芯合夥、芯添合夥和深圳思齊的減持計劃已實施完畢。上述股東均透過集中競價交易累計減持約601.16萬股，佔公司總股本的1.50%，減持總金額約2.28億元。減持後，安芯合夥、安路芯合夥、芯添合夥和深圳思齊分別持股18.04%、0.73%、1.03%、5.74%。
+
+---
+
+### 2026-06-10 20:36:37  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+【U.S. May inflation broadly in line with expectations; energy costs remain a drag】The U.S. Labor Department said Wednesday May CPI rose 4.2% YoY, up from April’s 3.8% and the strongest annual increase since April 2023. Energy costs—boosted since late-February strikes by the U.S. and Israel against Iran—are sustaining upward price pressure and have damped consumer confidence. There is little sign that tankers will gain sustained transit through the Strait of Hormuz, implying continued supply-side strain in global energy markets.
+
+---
+
+### 2026-06-10 20:36:37  #MKT News #Macro & Rates #US Economy #XAUUSD #Impact bullish #DXY #Impact bearish #US10Y
+
+【Natixis: May core inflation moderate; war-related inflation peak may be behind us】US May core CPI m/m was 0.2% vs 0.3% expected. John Briggs, Natixis North America head of US rates strategy, said the slightly softer-than-expected monthly core inflation could reinforce the view that the peak in war-related inflation may be behind us and that the inflation outlook could improve, provided oil prices remain stable.
+
+---
+
+### 2026-06-10 20:36:33  #其他
+
+【李佳琦直播間售賣賓士：40臺上架後秒售罄】6月10日晚間，淘寶“李佳琦直播間”首次售賣梅賽德斯-賓士汽車。這是李佳琦獲得駕照後首次在直播間銷售整車，也是賓士該系列新車釋出以來首次進入達人直播間。直播資訊顯示，當晚共上架了全新賓士純電GLC SUV與長軸距C級轎車多款車型共40臺。兩個購車訂金鍊接開售後秒售罄。據瞭解，此次直播交易方式是“線上鎖定+線下交付”：消費者支付3000元購車定金即可鎖定相關權益，在9月30日前，可前往全國任意授權經銷商門店試駕並辦理提車手續。線下購車流程辦結後，使用者將購車發票上傳至天貓平臺，經稽核透過，可領取價值5000元的天貓實物紅包補貼。
+
+---
+
+### 2026-06-10 20:35:31  #MKT News #Market Regions #Emerging Markets #CNH #Impact bullish
+
+Emerging-market currencies pared losses after the CPI report.
+
+---
+
+### 2026-06-10 20:35:24  #MKT News
+
+Hungary's foreign minister said officials are arranging a meeting between the Hungarian prime minister and the Ukrainian president.
+
+---
+
+### 2026-06-10 20:35:15  #國際
+
+美國通脹報告公佈後，新興市場貨幣跌幅收窄。
+
+---
+
+### 2026-06-10 20:35:08  #MKT News #S&P500 #Impact bullish #Nasdaq100
+
+After the CPI release, S&P 500 futures and Nasdaq-100 futures pared losses.
+
+---
+
+### 2026-06-10 20:35:00  #資料 #市場 #央行 #國際
+
+【美國5月CPI同比上漲4.2% 美聯儲年內加息25個基點預期機率上升】美國勞工部10日釋出的資料顯示，受能源價格上漲推動，美國5月消費者價格指數（CPI）同比上漲4.2%，創2023年5月以來新高。剔除食品和能源價格後，美國5月核心CPI同比上漲2.9%。分析人士認為，上週五遠高出預期的非農資料已令市場降息預期消退，芝商所“美聯儲觀察工具”顯示，美聯儲年內加息25個基點的預期機率已升至約43%，並且不排除年內累計加息50個基點的可能。
+
+---
+
+### 2026-06-10 20:34:57  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
+
+Germany's foreign minister said he is optimistic that accession talks for Ukraine can begin soon.
+
+---
+
+### 2026-06-10 20:34:44  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+U.S. 2-year Treasury yield rose 0.9 bps to 4.133%; 10-year yield rose 0.8 bps to 4.536%.
+
+---
+
+### 2026-06-10 20:34:42  #央行 #美聯儲
+
+【美國5月CPI同比上漲4.2% 美聯儲年內加息25個基點預期機率上升】美國勞工部10日釋出的資料顯示，受能源價格上漲推動，美國5月消費者價格指數（CPI）同比上漲4.2%，創2023年5月以來新高。剔除食品和能源價格後，美國5月核心CPI同比上漲2.9%。分析人士認為，上週五遠高出預期的非農資料已令市場降息預期消退，芝商所“美聯儲觀察工具”顯示，美聯儲年內加息25個基點的預期機率已升至約43%，並且不排除年內累計加息50個基點的可能。
+
+---
+
+### 2026-06-10 20:34:30  #國際
+
+德國外交部長：對烏克蘭入盟談判能很快啟動持樂觀態度。
+
+---
+
+### 2026-06-10 20:34:20  #MKT News #Important #Market Themes #The Trump Trade #DJT.O
+
+Trump Media & Technology Group (DJT.O) said relevant parties have agreed not to proceed at this time with a potential spin-off of certain media assets, including Truth Social.
+
+---
+
+### 2026-06-10 20:34:09  #Trading Economics #Economy #United States #Core Inflation Rate MoM #Importance 1
+
+US Core CPI Rises Less Than Expected — Core consumer prices in the United States, which exclude food and energy, rose by 0.2% from the previous month in May 2026, following a 0.4% advance in April and slightly below market expectations of a 0.3% increase. Prices increased in communication, airline fares, medical care, personal care, and recreation, but decreased in motor vehicle insurance, household furnishings, and new vehicles.
+
+---
+
+### 2026-06-10 20:33:59  #央行 #美聯儲
+
+在通脹報告公佈後，交易員減少了對美聯儲加息的押注。
+
+---
+
+### 2026-06-10 20:33:52  #經濟數據 #美國
+
+美國5月份實際平均時薪同比下降0.7%。
+
+---
+
+### 2026-06-10 20:33:39  #資料 #市場 #國際
+
+美國10年期國債收益率在CPI資料公佈後微幅上行，最新上漲0.8個基點，報4.536%。
+
+---
+
+### 2026-06-10 20:33:36  #市場 #國際
+
+美國兩年期國債收益率最新上漲0.9個基點，報4.133%。
+
+---
+
+### 2026-06-10 20:33:33  #市場 #國際
+
+兩年期和10年期美國國債收益率曲線最新錄得正利差39.9個基點。
+
+---
+
+### 2026-06-10 20:33:09  #焦點 #國際
+
+【美國5月能源通脹繼續加速，同比增速保持兩位數】美國勞工統計局資料顯示，美國5月季調後能源通脹環比增長3.9%，4月為增長3.8%；其中，能源大宗商品通脹環比增長6.7%，4月為5.6%，汽油通脹環比增長7%，4月為5.4%，燃料油通脹環比增長3.8%，4月為5.8%。5月未季調能源通脹同比增長23.5%，4月為增長17.9%；其中，能源大宗商品通脹同比增長40.6%，汽油通脹同比增長40.5%，燃料油通脹同比增長58.9%。
+
+---
+
+### 2026-06-10 20:33:06  #MKT News #DXY #Impact mixed
+
+After the CPI release, the dollar index (DXY) briefly swung about 10 points to 99.93.
+
+---
+
+### 2026-06-10 20:33:04  #公司 #國際
+
+特朗普媒體與科技集團：各方目前決定暫不推進分拆包括Truth Social在內的部分集團媒體資產的潛在計劃。
+
+---
+
+### 2026-06-10 20:32:49  #公司 #國際
+
+特朗普媒體集團、TAE 及 TVA 不再推進真相社交平臺分拆計劃。
+
+---
+
+### 2026-06-10 20:32:44  #Trading Economics #Economy #United States #Inflation Rate #Importance 3
+
+US Inflation Rate Accelerates to 2023-Highs — The annual inflation rate in the US rose to 4.2% in May 2026, marking its highest level since April 2023, from 3.8% in April and in line with market expectations. This represents the third consecutive monthly acceleration in headline inflation, with energy costs jumping 23.5% (vs 17.9% in April), due to the energy shock triggered by the conflict with Iran. Gasoline prices soared 40.5%, after a 28.4% gain.
+
+---
+
+### 2026-06-10 20:32:31  #MKT News #Commodities #Energy #WTI #Brent
+
+WTI and Brent crude were little changed after the CPI release, trading at $89.76/bbl and $91.85/bbl respectively.
+
+---
+
+### 2026-06-10 20:32:22  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
+
+Short-term interest-rate futures show the market has scaled back expectations for further Fed rate hikes.
+
+---
+
+### 2026-06-10 20:32:08  #資料 #市場 #國際
+
+美國核心CPI漲幅低於預期，美國國債跌幅收窄。
+
+---
+
+### 2026-06-10 20:31:51  #市場 #央行 #國際
+
+美國短期利率期貨在通脹資料釋出後上漲，因交易員縮減對美聯儲加息的押注。
+
+---
+
+### 2026-06-10 20:31:48  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot silver rallied more than $1.50 intraday to $64.90/oz.
+
+---
+
+### 2026-06-10 20:31:47  #公司
+
+【山西省應急管理廳副廳長張和平接受審查調查】據山西省紀委監委訊息：山西省應急管理廳副廳長張和平涉嫌嚴重違紀違法，涉通洲集團留神峪煤業有限公司“5·22”特別重大瓦斯爆炸事故，目前正接受山西省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-10 20:31:38  #MKT News #Important #Macro & Rates #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+US May seasonally adjusted core CPI rose 0.2% MoM, below the median market forecast of 0.3% and down from April's 0.4%.
+
+---
+
+### 2026-06-10 20:31:20  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
+
+【US monthly CPI edges down, meets expectations】US seasonally adjusted May CPI rose 0.5% MoM, in line with expectations; April was +0.6%.
+
+---
+
+### 2026-06-10 20:31:06  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold rallied about $20 shortly after the CPI release, trading at $4,166.85/oz.
+
+---
+
+### 2026-06-10 20:30:54  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+US May unadjusted shelter inflation YoY 3.4%, prior 3.3%.
+
+---
+
+### 2026-06-10 20:30:54  #MKT News #Important #Macro & Rates #US Economy #DXY #US10Y
+
+【US May core CPI YoY edges up, in line with expectations】US May unadjusted core CPI YoY 2.9%, matching market expectations and the highest since Sep 2025.
 
 ---
 
@@ -21603,359 +21975,5 @@ Market sources: Indonesia will subsidize imports of 250,000 tonnes of soybeans.
 ### 2026-06-09 18:31:44  #市場 #央行 #國際
 
 【美國國債收益率漲跌互見，美元走弱】Exness的Wael Makarem在一份報告中表示，在缺乏方向的交易中，美國國債收益率幾乎沒有變化，而隨著中東緊張局勢緩解減少了對避險資產的需求，美元出現下跌。這位首席金融市場策略師表示，此外，美國總統特朗普暗示，可能在幾天內與伊朗達成一項潛在協議，這提振了緊張局勢可能繼續緩解的希望。“與此同時，美元繼續從貨幣政策預期中獲得支撐，“他說。Makarem表示，在週五公佈強於預期的非農就業人數報告後，人們越來越預計美聯儲將在今年晚些時候加息。根據Tradeweb的資料，10年期美國國債收益率上升0.6個基點，至4.555%。DXY美元指數下跌0.25%，至99.798。
-
----
-
-### 2026-06-09 18:31:35  #MKT News
-
-European Commission spokesman said the Commission has raised concerns with Albanian authorities over a Kushner-linked luxury resort real-estate project.
-
----
-
-### 2026-06-09 18:31:13  #國際
-
-市場訊息：烏克蘭議會支援國際貨幣基金組織要求的數字平臺法案。
-
----
-
-### 2026-06-09 18:30:58  #MKT News #Market Regions #Greater China #01478.HK #Impact bullish
-
-Q Technology (01478.HK): May smartphone camera module shipments rose 39.4%.
-
----
-
-### 2026-06-09 18:30:55  #其他
-
-丘鈦科技(01478.HK)：5月手機攝像頭模組銷售數量增長39.4%。
-
----
-
-### 2026-06-09 18:30:52  #公司
-
-【佳禾智慧：簽訂募集資金三方監管協議 涉7.34億元資金】佳禾智慧公告稱，公司於2024年1月4日發行可轉換公司債券，實際募集資金淨額9.94億元。2025年8月，公司變更募集資金用途，將原募投專案變更為“收購BD KG全部有限合夥權益、BD GmbH全部股份及BD KG的股東借款”，原募投專案尚未投入的7.04億元及利息等用於新募投專案。公司與COSONIC INTERNATIONAL PTE. LTD.、招商證券、招商銀行廣州分行簽署《募集資金三方監管協議》，截至公告披露日，募集資金專用賬戶合計金額7.34億元。
-
----
-
-### 2026-06-09 18:30:14  #市場
-
-巴基斯坦KSE-100指數暫定上漲0.8%至170,461.20點。
-
----
-
-### 2026-06-09 18:30:06  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-The SENSEX Index Closes 0.54% Higher — The SENSEX Index went up by 395 points or 0.54 percent on Tuesday to close at 73919 points. The rise was led by Indusind Bank (3.35%), Axis Bank (2.07%) and ICICI Bank (1.89%). On the downside, the weakerst performers were Titan Company (-2.20%), NTPC (-1.82%) and Power Grid (-1.65%).
-
----
-
-### 2026-06-09 18:29:50  #公司 #市場
-
-【英偉達和Meta盤前上漲 微軟和蘋果下跌】美股科技七巨頭在盤前交易中漲跌不一，Meta和英偉達上漲，而蘋果和微軟則小幅走低。英偉達漲0.8%；在費城半導體指數上週五暴跌10%後，晶片股正延續週一的反彈勢頭其他上漲股包括：Alphabet漲0.4%，Meta漲0.9%，亞馬遜漲0.5%，特斯拉漲0.5%
-
----
-
-### 2026-06-09 18:28:27  #MKT News #CNH #Impact bullish #Hang Seng Index #CSI300
-
-【2026 Bank of China Forum on International Use of the RMB Held in Shanghai】At a June 9 forum in Shanghai, Bank of China chairman Ge Haijiao outlined measures to expand RMB international use. The bank will push deeper scenario integration to support cross-border e-commerce, promote full‑chain RMB pricing and settlement for bulk commodities and shipping, and broaden payment services for foreign residents in China. It will back financing and market access connectivity by supporting expansion of Bond Connect, Swap Connect and Cross‑border Wealth Management Connect to help overseas institutions access China opportunities. The bank also pledged to integrate advanced technology into cross‑border payments, accelerate cross‑border RMB infrastructure interconnection, fully support the Shanghai digital RMB international operation center, deepen cooperation with foreign central banks, financial institutions and international organisations, and continue to provide stable RMB liquidity to promote RMB use abroad.
-
----
-
-### 2026-06-09 18:28:11  #公司
-
-【朗坤科技：董事周存全減持期滿未減持】朗坤科技公告，截至2026年6月8日，董事周存全原定於2026年3月9日至2026年6月8日期間以集中競價或/和大宗交易方式減持不超過10000股（佔預披露時公司總股本0.0041%）的計劃期限屆滿，期間未減持任何股份。受股權激勵第二類限制性股票歸屬影響，其持股由40000股增至70000股，佔目前總股本0.0289%，其中無限售條件股份17500股，有限售條件股份52500股。
-
----
-
-### 2026-06-09 18:27:58  #央行 #其他
-
-【2026中國銀行人民幣國際使用論壇在上海舉辦】6月9日，2026中國銀行人民幣國際使用論壇在上海舉辦。中國銀行董事長葛海蛟表示，中國銀行將以更深層次的場景融合促進國際經貿合作，加大對跨境電商等新業態支援力度，助力大宗商品貿易、海運領域全鏈條人民幣計價結算，大力拓展外籍來華人士支付等消費場景；以更緊密的互聯互通服務投融資便利化，大力支援債券通、互換通、跨境理財通等機制擴容，助力境外機構分享中國市場發展機遇；以更前沿的科技融入跨境支付體系建設，持續推廣跨境人民幣基礎設施互聯互通專案，全面支援上海數字人民幣國際運營中心建設；以更密切的國際合作共建人民幣業務生態圈，深化與境外央行、金融機構、企業及國際組織合作，持續為市場提供穩定的人民幣流動性，促進人民幣在境外國別間使用。
-
----
-
-### 2026-06-09 18:27:52  #宏觀
-
-【英國擬出臺16歲以下人群社媒禁令 或採用“澳大利亞+”模式】英國首相斯塔默將宣佈禁止16歲以下青少年使用“有害”的線上平臺。據英國媒體報道，斯塔默在與失去孩子的父母交談並考慮了澳大利亞的證據後決定實施限制措施。去年12月，澳大利亞成為全球首個針對社交平臺出臺最低年齡限制的國家，未滿16歲的人群不得在X、臉書等10個平臺上開設賬號。
-
----
-
-### 2026-06-09 18:27:48  #MKT News #Commodities #Precious Metals
-
-Spot palladium up more than 2.00% intraday at $1,239.62/oz.
-
----
-
-### 2026-06-09 18:27:41  #公司 #市場
-
-【愛普股份：股票交易異常波動 不存在應披露未披露事項】愛普股份公告稱，公司股票於2026年6月5日、6月8日、6月9日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查及核實，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大事項，未發現媒體報道、市場傳聞、熱點概念等對股價產生影響的資訊。公司最新靜態市盈率高於同行業平均水平，提醒投資者注意交易風險。
-
----
-
-### 2026-06-09 18:26:42  #公司
-
-【中國國航：中航集團及其一致行動人持股比例增至60.58%】中國國航公告，公司於2026年6月4日向特定物件發行A股股票，控股股東中航集團及其全資子公司中航控股以現金方式全額認購，發行數量為30.44億股，發行價格為6.57元/股。本次發行完成後，中航集團及其一致行動人合計持有公司股份比例自發行前的53.71%增加至60.58%。本次權益變動不觸發要約收購，不會導致公司控股股東、實際控制人發生變化。
-
----
-
-### 2026-06-09 18:26:36  #公司
-
-【嘉益股份：董事長提議以4000萬元-8000萬元回購股份】嘉益股份公告，公司董事長戚興華提議公司以集中競價方式回購部分股份，回購資金總額不低於4000萬元且不超過8000萬元，回購價格上限不高於董事會審議透過回購方案決議前30個交易日股票交易均價的150%，回購股份將用於未來實施股權激勵計劃或員工持股計劃，若未能在36個月內使用完畢，未使用部分將予以登出。
-
----
-
-### 2026-06-09 18:26:33  #國際
-
-【日本煽宣炒作我航母編隊正常訓練】近期，在西太平洋訓練，日本防衛省連續公佈編隊艦艇數量、所在海域、艦載機起降架次等情況。日本防衛大臣稱將密切關注中方航母編隊動向，繼續進行警戒監視。對此，中國國防部新聞發言人今天（6月9日）表示，日方對中方正當行動煽宣炒作，妄圖製造緊張、誤導輿論，明眼人看得一清二楚，這是不可能得逞的。（CCTV國際時訊）
-
----
-
-### 2026-06-09 18:26:06  #MKT News
-
-USGS reported a M5.4 earthquake 21 km SSW of Lumatil in the Philippines' Sarangani province.
-
----
-
-### 2026-06-09 18:26:00  #公司
-
-【特銳德：預中標國網專案預計中標總金額約2.78億元】特銳德公告，近日，國家電網有限公司釋出了華北區域和華東區域的聯合採購中標候選人公示，公司為部分專案的預中標人。預計中標總金額約2.78億元。專案一為變壓器臺成套和變壓器的預中標人，金額約1.3億元；專案二為10kV變壓器的預中標人，金額約1.2億元；專案三為10kV柱上臺成套裝置的預中標人，金額約2772.56萬元。中標候選人的公示期均為3日。
-
----
-
-### 2026-06-09 18:25:14  #國際
-
-以色列媒體：評估認為，最近的局勢升級並非與伊朗的最終對抗。
-
----
-
-### 2026-06-09 18:24:57  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
-
-Israel's Channel 12 cites security sources saying Israel has entered a phase of 'repeated clashes' with Iran and assesses the recent escalation is not the last confrontation.
-
----
-
-### 2026-06-09 18:24:53  #國際
-
-【美被曝擬“收購”查戈斯群島，模里西斯：主權問題不可談判】針對有英國媒體稱美國想繞過英國“收購”查戈斯群島一事，模里西斯政府6月8日說，沒有收到美國政府關於“收購”查戈斯群島的任何提議，主權問題不容談判。模里西斯政府8日發表宣告說，已注意到英國媒體的相關報道，但模里西斯方面沒有收到美國政府就查戈斯群島或者該群島主島迪戈加西亞提出的任何官方提議，美方也沒有直接或間接地與模里西斯接觸。宣告強調，模里西斯立場保持不變，那就是查戈斯群島的主權不可談判。（央視新聞）
-
----
-
-### 2026-06-09 18:24:32  #國際
-
-美國地質調查局：菲律賓盧馬蒂爾西南偏南21公里處發生5.4級地震。
-
----
-
-### 2026-06-09 18:23:57  #公司
-
-【雪榕生物：股東楊勇萍14.79%股份被司法凍結】雪榕生物公告，公司持股5%以上股東楊勇萍所持9475.61萬股被有關監察機關司法凍結，佔其持股100.00%、佔公司總股本14.79%，股份來源為首次公開發行前股份及資本公積轉增股份，凍結期限2026-6-5至2026-12-4。楊勇萍已將表決權委託上海萬紫千鴻智慧科技有限公司行使，本次凍結不影響萬紫千鴻行使表決權，不會導致公司實際控制權變更。
-
----
-
-### 2026-06-09 18:23:52  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-Goldman Sachs expects the World Cup to raise U.S. GDP growth by 0.10 percentage point in Q2 and 0.05 percentage point in Q3, with a modest rollback in Q4.
-
----
-
-### 2026-06-09 18:23:36  #MKT News #Macro & Rates #US Economy #DXY #Impact mixed #S&P500 #US10Y
-
-Goldman Sachs expects the World Cup will add about 40,000 jobs to US payrolls in June; after the tournament ends it forecasts US nonfarm payrolls will fall roughly 15,000 in August.
-
----
-
-### 2026-06-09 18:21:56  #公司 #央行 #國際
-
-【通脹擔憂主導市場情緒】Capital.com的Daniela Hathorn在一份報告中表示，在評估未來央行利率決定的潛在路徑之際，投資者的焦點集中在即將公佈的通脹資料上。美國5月份通脹資料定於週三公佈。“在過去一週對美聯儲年底前加息的預期急劇升溫的背景下，現在的通脹資料有可能強化或挑戰這種重新定價，“她說。倫敦證券交易所集團的資料顯示，投資者已完全反映了美聯儲在2026年底前加息25個基點的預期。
-
----
-
-### 2026-06-09 18:21:51  #MKT News
-
-【Palestinian factions, mediators meet in Cairo to discuss Gaza ceasefire implementation】On the 9th in Cairo, Palestinian faction representatives met with mediators Egypt, Qatar and Turkey to discuss implementing the first phase of the Gaza ceasefire agreement and advancing into second-phase negotiations. Attendees included Egypt’s General Intelligence chief Hassan Rashad, Qatari PM and foreign minister Mohammed, Turkey’s National Intelligence Organization chief Karlin, and Palestinian faction delegates.
-
----
-
-### 2026-06-09 18:21:14  #公司
-
-【高盛：世界盃將給美國6月新增4萬就業 零售額外增長0.3個百分點】高盛預計，2026年世界盃將為美國在6月新增約4萬個就業崗位，但賽事結束後，8月非農就業人數將減少1.5萬；世界盃將讓美國第二季度GDP增幅上升0.1個百分點，第三季度上升0.05個百分點，第四季度小幅回落。
-
----
-
-### 2026-06-09 18:21:05  #國際
-
-【巴勒斯坦各派別同埃及等斡旋方在開羅舉行會議討論落實加沙停火協議】當地時間9日，巴勒斯坦各派別代表同埃及、卡達和土耳其等加沙停火斡旋方在埃及首都開羅舉行會議，討論落實加沙停火協議第一階段及推進進入第二階段談判等相關事宜。埃及情報總局局長哈桑·拉沙德、卡達首相兼外交大臣穆罕默德、土耳其國家情報總局局長卡林及巴勒斯坦各派別代表出席會議。（央視新聞）
-
----
-
-### 2026-06-09 18:20:26  #國際
-
-歐盟委員會發言人：蘋果關於豁免的請求並不可行。
-
----
-
-### 2026-06-09 18:20:08  #MKT News
-
-CENTCOM said soldiers were rescued safely after about two hours and are currently stable; the cause of the incident is under investigation.
-
----
-
-### 2026-06-09 18:19:57  #公司
-
-【中復神鷹：股東中聯投資已減持1.5524%】中復神鷹公告，中聯投資減持期限屆滿，2026年3月26日至2026年6月3日透過集中競價減持900萬股、大宗交易減持497.2萬股，合計1397.2萬股，佔總股本1.5524%，成交價46.1～61.18元/股，套現7.82億元；當前持股2.84億股，佔31.6030%，原為2.98億股、33.16%，本次減持計劃已完成。
-
----
-
-### 2026-06-09 18:19:54  #其他
-
-VERASTEM被瑞穗證券評為首選股。
-
----
-
-### 2026-06-09 18:19:51  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
-
-European Commission spokesman said Apple (AAPL.O)'s request for an exemption is not feasible.
-
----
-
-### 2026-06-09 18:19:28  #MKT News #AAPL.O #Impact bullish
-
-Morgan Stanley raised its PT on Apple (AAPL.O) to $360 from $330.
-
----
-
-### 2026-06-09 18:19:20  #公司
-
-【三超新材：擬以4.26億元認購公司發行股票】三超新材公告，公司於2026年6月9日與無錫博達合一科技有限公司簽署《附條件生效的股份認購協議》，博達合一將以現金4.26億元認購公司本次發行的股票。本次發行尚需深圳證券交易所稽核透過，並取得中國證券監督管理委員會同意註冊的批覆後方可實施。
-
----
-
-### 2026-06-09 18:19:18  #MKT News
-
-CENTCOM said an Army AH-64 Apache helicopter crashed off the coast of Oman at 7:33 p.m. EDT on June 8 (07:33 Beijing time on June 9) while conducting a regional waters patrol; two crew members were rescued by U.S. forces.
-
----
-
-### 2026-06-09 18:19:10  #國際
-
-美國方面稱，直升機墜毀原因正在調查中。
-
----
-
-### 2026-06-09 18:18:58  #Trading Economics #Markets #Commodity #Importance 1
-
-Tin Retreats from Record High — Tin futures in the UK fell to $52,300 per tonne from the record high of $59,000 on June 2nd, tracking other base metals as a stronger dollar and higher interest rates momentarily offset the impact of tight supply and soaring AI demand. The greenback strengthened after a strong US jobs report, driving yields to rise globally and pressure the outlook for manufacturers in the short term. Still, futures remained 26% higher year-to-date. Major producer Indonesia doubled down on threats against the illegal mining of tin and seized 500 tonnes of metal from mines without licences. The move consolidated the pledge from Jakarta that it would crack down on mining activity that lack licensing after President Subianto ordered the closure of 1,000 illegal mines in Sumatra, tightening the outlook on supply from the key exporter. Meanwhile, tin's usage in datacenters drove industry players to signal that the metal's demand for AI servers will triple by 2030, aligned with soaring demand in Asia.
-
----
-
-### 2026-06-09 18:18:49  #公司 #觀點
-
-摩根士丹利將蘋果公司目標股價從330.00美元上調至360.00美元。
-
----
-
-### 2026-06-09 18:18:26  #國際
-
-美國中央司令部稱，兩名士兵目前情況穩定。
-
----
-
-### 2026-06-09 18:18:17  #國際
-
-美國軍方稱，美國直升機機組人員在阿曼海岸附近獲救。
-
----
-
-### 2026-06-09 18:18:13  #公司
-
-【山鷹國際：董事長吳明武提議以3億元-6億元回購公司股份】山鷹國際公告，董事長吳明武提議以3億元-6億元回購公司股份，回購價格上限不高於公司董事會審議透過回購股份方案決議前30個交易日公司股票交易均價的 150%。
-
----
-
-### 2026-06-09 18:17:57  #其他
-
-義大利富時MIB指數日內漲幅達2.00%。
-
----
-
-### 2026-06-09 18:17:56  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-A European Commission spokesperson said Apple (AAPL.O) has requested an exemption from interoperability obligations.
-
----
-
-### 2026-06-09 18:17:54  #公司 #國際
-
-歐盟委員會發言人：委員會曾就Siri人工智慧與蘋果公司進行過接觸，蘋果公司曾要求豁免互操作性義務。
-
----
-
-### 2026-06-09 18:17:41  #公司
-
-【聯合光電：擬使用不超過5000萬元回購公司股份】聯合光電公告，擬使用自有資金以集中競價交易的方式回購公司部分社會公眾股份，回購資金總額不低於人民幣2500萬元（含），不超過人民幣5000萬元（含），回購股份價格不超過人民幣26.13元/股（含）。
-
----
-
-### 2026-06-09 18:17:41  #Trading Economics #Economy #Portugal #Balance of Trade #Importance 1
-
-Portugal’s Trade Deficit Narrows in April — Portugal’s trade deficit shrank to €2.88 billion in April 2026 from €3.03 billion a year earlier, as exports rose 15.5% to €7.40 billion, with gains across all categories. Fuels and lubricants exports surged 32%, driven by a 30.2% rise in energy costs linked to the Iran conflict. Industrial supplies exports grew 15.8%, mainly due to metals, while machinery and capital goods exports climbed 23.1%. Exports to Spain, France, and Germany rose by 11.1%, 12.5%, and 12.0%, respectively. Imports grew 8.9% to €10.28 billion, just below March’s record €10.44 billion, led by transport equipment (22.5%, mostly vehicles from Spain), fuels and lubricants (37%, due to higher energy costs), and machinery (17.8%, mainly from the Netherlands). However, industrial supplies imports fell 9%, primarily due to a drop in chemicals from Ireland for contract processing without ownership transfer. From January to April, the trade deficit widened to €11.43 billion from €9.33 billion in the same period of 2025.
-
----
-
-### 2026-06-09 18:17:37  #MKT News
-
-Italy's FTSE MIB index was up 2.00% intraday.
-
----
-
-### 2026-06-09 18:17:35  #公司
-
-【*ST金泰：公司股票將於6月11日起撤銷退市風險警示及其他風險警示】*ST金泰公告，公司股票將於2026年6月10日停牌一天，並於2026年6月11日開市起復牌。自2026年6月11日開市起撤銷“退市風險警示”“其他風險警示”，股票簡稱由“*ST金泰”變更為“金力泰”，證券程式碼仍為“300225”，股票交易的日漲跌幅限制仍為20%。
-
----
-
-### 2026-06-09 18:17:27  #國際
-
-【阿斯利康口服減肥藥取得2項II期臨床陽性結果】從阿斯利康獲悉，其口服小分子GLP-1受體激動劑Elecoglipron在VISTA IIb期和SOLSTICE IIb期研究中均取得陽性結果。其結果在剛舉行的2026年美國糖尿病協會（ADA）年會上公佈。
-
----
-
-### 2026-06-09 18:17:16  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
-
-European Commission spokesperson says Apple (AAPL.O) has failed to achieve interoperability for Siri.
-
----
-
-### 2026-06-09 18:17:08  #Trading Economics #Economy #Latvia #Balance of Trade #Importance 1
-
-Latvia Trade Deficit Narrows in April — Latvia’s trade deficit narrowed slightly to EUR 249.2 million in April 2026 from EUR 262.2 million in the same month a year earlier. Exports increased 13.9% year-on-year to EUR 1,939 million, driven by stronger sales of mineral fuels, oil and refined products (89.1%), wood and wood products, including charcoal (6.5%), electrical machinery and equipment (17.6%), and vehicles and related parts (12%). Among major trading partners, exports grew to EU countries (9.4%), CIS countries (1.9%), and other markets (31%). Meanwhile, imports rose 11.4% to EUR 2,188.2 million, supported by higher purchases of mineral fuels, oil and refined products (75.1%), electrical machinery and equipment (10.5%), vehicles and related parts (2.9%), and machinery and mechanical appliances (15.2%). Imports also increased from EU countries (10.2%) and other countries (21.4%), while declining from CIS countries (-12.9%).
-
----
-
-### 2026-06-09 18:16:51  #MKT News #Star Stocks #Apple #Market Regions #Europe & UK #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-European Commission spokesman says EU law does not prohibit Apple (AAPL.O) from launching new products in the EU.
-
----
-
-### 2026-06-09 18:16:39  #公司
-
-【雅戈爾：控股股東及其一致行動人持股比例增至43.03%】雅戈爾公告，公司控股股東寧波雅戈爾控股有限公司及其一致行動人雅戈爾集團有限公司、李如成、李寒窮合計持有公司股份比例從42.67%增加至43.03%，權益變動觸及1%刻度。
-
----
-
-### 2026-06-09 18:16:39  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #Market Regions #Europe & UK #AAPL.O
-
-European Commission spokesperson said the decision not to launch Siri AI in the EU is entirely Apple’s own; Apple (AAPL.O).
-
----
-
-### 2026-06-09 18:16:32  #其他
-
-【中基協釋出《私募投資基金資訊披露實施細則》】為規範私募投資基金資訊披露行為，保護投資者合法權益，促進私募投資基金行業規範健康發展，根據《中華人民共和國證券投資基金法》《私募投資基金監督管理條例》《私募投資基金資訊披露監督管理辦法》等法律法規，中國證券投資基金業協會起草了《私募投資基金資訊披露實施細則》及《私募投資基金資訊披露重要內容模板》。經協會理事會審議透過，現予以釋出，自2026年9月1日起施行。
-
----
-
-### 2026-06-09 18:16:18  #公司 #國際
-
-歐盟委員會發言人表示：歐盟法規中不存在禁止蘋果公司在歐盟推出新產品的條款。
 
 ---
