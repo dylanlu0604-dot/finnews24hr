@@ -10,6 +10,7 @@ import json
 import os
 import re
 import sys
+import time
 from pathlib import Path
 from urllib.parse import parse_qs, urljoin, urlparse
 
@@ -38,6 +39,7 @@ REQUEST_HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
 }
+_TLS_VERIFY_DISABLED = False
 
 
 def now_tw() -> dt.datetime:
@@ -47,6 +49,35 @@ def now_tw() -> dt.datetime:
 def verify_tls() -> bool:
     raw = os.getenv("CAPITAL_CALENDAR_VERIFY_TLS", "1").strip().lower()
     return raw not in {"0", "false", "no", "off"}
+
+
+def history_fetch_limit() -> int:
+    try:
+        return max(0, int(os.getenv("CAPITAL_CALENDAR_HISTORY_FETCH_LIMIT", "120")))
+    except ValueError:
+        return 120
+
+
+def history_fetch_delay() -> float:
+    try:
+        return max(0.0, float(os.getenv("CAPITAL_CALENDAR_HISTORY_FETCH_DELAY", "0.05")))
+    except ValueError:
+        return 0.05
+
+
+def request_html(url: str, session: requests.Session | None = None) -> str:
+    global _TLS_VERIFY_DISABLED
+    client = session or requests
+    verify = verify_tls() and not _TLS_VERIFY_DISABLED
+    try:
+        response = client.get(url, headers=REQUEST_HEADERS, timeout=(10, 45), verify=verify)
+    except requests.exceptions.SSLError as exc:
+        print(f"[CAL] TLS verification failed for {url}; retrying without verification: {exc}", file=sys.stderr)
+        _TLS_VERIFY_DISABLED = True
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        response = client.get(url, headers=REQUEST_HEADERS, timeout=(10, 45), verify=False)
+    response.raise_for_status()
+    return response.text
 
 
 def clean_text(value: str) -> str:
@@ -170,20 +201,121 @@ def parse_calendar_html(html: str, interval: str, source_url: str) -> list[dict]
     return events
 
 
+def parse_history_table(html: str) -> list[dict]:
+    soup = BeautifulSoup(html, "html.parser")
+    table = None
+    for heading in soup.select("h2.title6"):
+        if "歷史數據" not in heading.get_text(" ", strip=True):
+            continue
+        container = heading.find_parent("article")
+        table = container.select_one("table.main-table") if container else None
+        if table:
+            break
+    if table is None:
+        table = soup.select_one("table.main-table")
+    if table is None:
+        return []
+
+    rows = []
+    for tr in table.select("tbody tr"):
+        cells = [clean_text(td.get_text(" ", strip=True)) for td in tr.select("td")]
+        if len(cells) < 4:
+            continue
+        rows.append(
+            {
+                "date": cells[0],
+                "actual": cells[1],
+                "forecast": cells[2],
+                "previous": cells[3],
+            }
+        )
+    return rows
+
+
+def load_history_cache(output_path: Path) -> dict[str, dict]:
+    if not output_path.exists():
+        return {}
+    try:
+        data = json.loads(output_path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"[CAL] history cache unavailable: {exc}", file=sys.stderr)
+        return {}
+    cache: dict[str, dict] = {}
+    for event in data.get("items", []):
+        event_id = event.get("id")
+        history_status = event.get("history_status", "")
+        if not event_id or "history" not in event or history_status in {"pending", "failed"}:
+            continue
+        cache[event_id] = {
+            "history": event.get("history") or [],
+            "history_status": history_status or "cached",
+            "history_checked_at": event.get("history_checked_at", ""),
+        }
+    return cache
+
+
+def apply_history_cache(event: dict, cached: dict | None) -> bool:
+    if not cached:
+        return False
+    event["history"] = cached.get("history") or []
+    event["history_status"] = "cached"
+    event["history_checked_at"] = cached.get("history_checked_at", "")
+    return True
+
+
+def enrich_events_with_history(events: list[dict], output_path: Path) -> dict:
+    cache = load_history_cache(output_path)
+    limit = history_fetch_limit()
+    delay = history_fetch_delay()
+    fetched = 0
+    cached_count = 0
+    pending = 0
+    failed = 0
+    checked_at = now_tw().strftime("%Y-%m-%d %H:%M:%S")
+
+    with requests.Session() as session:
+        for event in events:
+            if apply_history_cache(event, cache.get(event.get("id", ""))):
+                cached_count += 1
+                continue
+            if fetched >= limit:
+                event["history"] = []
+                event["history_status"] = "pending"
+                event["history_checked_at"] = ""
+                pending += 1
+                continue
+            try:
+                event["history"] = parse_history_table(request_html(event["url"], session=session))
+                event["history_status"] = "fetched" if event["history"] else "empty"
+                event["history_checked_at"] = checked_at
+                fetched += 1
+                if delay:
+                    time.sleep(delay)
+            except Exception as exc:
+                event["history"] = []
+                event["history_status"] = "failed"
+                event["history_error"] = str(exc)
+                event["history_checked_at"] = checked_at
+                fetched += 1
+                failed += 1
+                print(f"[CAL] history failed {event.get('id')}: {exc}", file=sys.stderr)
+
+    return {
+        "cached": cached_count,
+        "fetched": fetched,
+        "pending": pending,
+        "failed": failed,
+        "limit": limit,
+    }
+
+
 def calendar_url(interval: str, important: int) -> str:
     return f"{BASE_URL}{CALENDAR_PATH}?interval={interval}&important={important}"
 
 
 def fetch_interval(interval: str, important: int = 0) -> tuple[str, list[dict]]:
     url = calendar_url(interval, important)
-    try:
-        response = requests.get(url, headers=REQUEST_HEADERS, timeout=(10, 45), verify=verify_tls())
-    except requests.exceptions.SSLError as exc:
-        print(f"[CAL] TLS verification failed for {url}; retrying without verification: {exc}", file=sys.stderr)
-        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-        response = requests.get(url, headers=REQUEST_HEADERS, timeout=(10, 45), verify=False)
-    response.raise_for_status()
-    return url, parse_calendar_html(response.text, interval, url)
+    return url, parse_calendar_html(request_html(url), interval, url)
 
 
 def group_events(interval: str, events: list[dict], source_url: str) -> dict:
@@ -202,7 +334,7 @@ def group_events(interval: str, events: list[dict], source_url: str) -> dict:
     }
 
 
-def build_payload(intervals: list[str], important: int = 0) -> dict:
+def build_payload(intervals: list[str], important: int = 0, output_path: Path = OUTPUT_PATH) -> dict:
     weeks = []
     all_events = []
     errors = []
@@ -218,6 +350,11 @@ def build_payload(intervals: list[str], important: int = 0) -> dict:
             print(f"[CAL] {interval} failed: {exc}", file=sys.stderr)
 
     all_events = sorted(all_events, key=lambda item: (item.get("datetime", ""), item.get("title", "")))
+    history_summary = enrich_events_with_history(all_events, output_path)
+    events_by_id = {event["id"]: event for event in all_events}
+    for week in weeks:
+        for day in week.get("dates", []):
+            day["events"] = [events_by_id.get(event.get("id"), event) for event in day.get("events", [])]
     return {
         "updated": now_tw().strftime("%Y-%m-%d %H:%M:%S"),
         "timezone": "Asia/Taipei",
@@ -225,6 +362,7 @@ def build_payload(intervals: list[str], important: int = 0) -> dict:
         "source_home": f"{BASE_URL}{CALENDAR_PATH}",
         "important": important,
         "count": len(all_events),
+        "history_summary": history_summary,
         "errors": errors,
         "weeks": weeks,
         "items": all_events,
@@ -241,7 +379,7 @@ def update_calendar_json(
     important: int = 0,
     output_path: Path = OUTPUT_PATH,
 ) -> int:
-    payload = build_payload(list(intervals), important=important)
+    payload = build_payload(list(intervals), important=important, output_path=output_path)
     if not payload["items"]:
         raise RuntimeError("No economic calendar events were fetched; keeping existing output unchanged.")
     save_payload(payload, output_path)

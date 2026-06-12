@@ -515,10 +515,46 @@ function initLanguageSelect() {
   .cal-country { display: flex; align-items: center; gap: .2rem; color: var(--muted); font-size: .56rem; margin-top: .12rem; white-space: nowrap; }
   .cal-flag { font-size: .78rem; line-height: 1; filter: saturate(1.08); }
   .cal-title {
+    width: 100%;
+    display: flex; align-items: flex-start; justify-content: space-between; gap: .6rem;
+    background: transparent; border: 0; padding: 0; text-align: left;
     color: var(--text); font-size: .81rem;
+    font-family: 'Noto Serif TC', serif;
     line-height: 1.36; text-decoration: none; font-weight: 600;
+    cursor: pointer;
   }
   .cal-title:hover { color: var(--gold); }
+  .cal-title-label { min-width: 0; }
+  .cal-chevron {
+    flex-shrink: 0;
+    font-family: 'DM Mono', monospace;
+    font-size: .5rem; letter-spacing: .08em;
+    color: var(--gold-dim);
+    border: 1px solid rgba(201,168,76,.22);
+    padding: .1rem .28rem;
+    margin-top: .06rem;
+  }
+  .cal-history {
+    margin-top: .46rem;
+    border: 1px solid var(--border);
+    background: rgba(8,8,16,.5);
+  }
+  .cal-history-head {
+    display: flex; justify-content: space-between; gap: .55rem; align-items: center;
+    font-family: 'DM Mono', monospace;
+    font-size: .53rem; letter-spacing: .08em;
+    color: var(--gold);
+    padding: .34rem .44rem;
+    border-bottom: 1px solid var(--border);
+    background: rgba(201,168,76,.045);
+  }
+  .cal-history-status { color: var(--muted); font-size: .5rem; letter-spacing: .04em; }
+  .cal-history-table { width: 100%; border-collapse: collapse; font-family: 'DM Mono', monospace; font-size: .56rem; }
+  .cal-history-table th,
+  .cal-history-table td { padding: .28rem .44rem; border-bottom: 1px solid rgba(28,28,46,.72); text-align: left; }
+  .cal-history-table th { color: var(--muted); font-weight: 500; background: rgba(6,6,12,.36); }
+  .cal-history-table td { color: #c8c5bd; }
+  .cal-history-table tr:last-child td { border-bottom: 0; }
   .cal-meta {
     display: flex; gap: .36rem; flex-wrap: wrap; align-items: center;
     margin: .22rem 0 .28rem;
@@ -1248,6 +1284,7 @@ let centralBankSummaries = [], activeCbDate = '';
 let dailyNewsItems = [], activeDailyDate = '', activeDailyId = '';
 let economicCalendar = { weeks: [], items: [] }, activeCalendarInterval = 'this_week', activeCalendarDate = '';
 let calendarDidSetDefaultDate = false;
+let expandedCalendarIds = new Set();
 const CALENDAR_COUNTRY_FLAGS = {
   '中國': '🇨🇳',
   '中國香港': '🇭🇰',
@@ -1423,9 +1460,63 @@ function calendarValueHtml(label, value, className = '') {
   `;
 }
 
+function calendarHistoryMessage(event) {
+  const status = event.history_status || '';
+  if (status === 'pending') return '歷史資料排程補抓中，下一輪更新會補上。';
+  if (status === 'failed') return '歷史資料暫時載入失敗，下一輪更新會重試。';
+  if (status === 'empty') return '來源頁未提供歷史表格。';
+  return '尚未取得歷史資料。';
+}
+
+function renderCalendarHistory(event) {
+  const rows = event.history || [];
+  const statusText = rows.length ? `${rows.length} rows` : (event.history_status || 'no data');
+  if (!rows.length) {
+    return `
+      <div class="cal-history">
+        <div class="cal-history-head">
+          <span>歷史數據</span>
+          <span class="cal-history-status">${attrEscape(statusText)}</span>
+        </div>
+        <div class="ai-empty" style="padding:.65rem .55rem">${attrEscape(calendarHistoryMessage(event))}</div>
+      </div>
+    `;
+  }
+  return `
+    <div class="cal-history">
+      <div class="cal-history-head">
+        <span>歷史數據</span>
+        <span class="cal-history-status">${attrEscape(statusText)}</span>
+      </div>
+      <table class="cal-history-table">
+        <thead>
+          <tr>
+            <th>日期</th>
+            <th>結果</th>
+            <th>預測</th>
+            <th>前值</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${rows.map(row => `
+            <tr>
+              <td>${attrEscape(row.date || '—')}</td>
+              <td>${attrEscape(row.actual || '—')}</td>
+              <td>${attrEscape(row.forecast || '—')}</td>
+              <td>${attrEscape(row.previous || '—')}</td>
+            </tr>
+          `).join('')}
+        </tbody>
+      </table>
+    </div>
+  `;
+}
+
 function renderCalendarEvent(event) {
   const actualClass = event.actual_released ? 'actual released' : 'actual';
   const country = event.country || '—';
+  const eventId = event.id || '';
+  const isExpanded = expandedCalendarIds.has(eventId);
   return `
     <article class="cal-card">
       <div class="cal-time">
@@ -1433,7 +1524,10 @@ function renderCalendarEvent(event) {
         <span class="cal-country"><span class="cal-flag">${calendarFlag(country)}</span>${attrEscape(country)}</span>
       </div>
       <div>
-        <a class="cal-title" href="${attrEscape(event.url || '#')}" target="_blank" rel="noopener">${attrEscape(event.title || '未命名事件')}</a>
+        <button class="cal-title" type="button" data-calendar-event-id="${attrEscape(eventId)}" aria-expanded="${isExpanded ? 'true' : 'false'}">
+          <span class="cal-title-label">${attrEscape(event.title || '未命名事件')}</span>
+          <span class="cal-chevron">${isExpanded ? '收合' : '歷史'}</span>
+        </button>
         <div class="cal-meta">
           <span class="cal-stars">${calendarStars(event.importance)}</span>
           <span>${attrEscape(event.datetime || '')}</span>
@@ -1443,6 +1537,7 @@ function renderCalendarEvent(event) {
           ${calendarValueHtml('Forecast', event.forecast)}
           ${calendarValueHtml('Actual', event.actual, actualClass)}
         </div>
+        ${isExpanded ? renderCalendarHistory(event) : ''}
       </div>
     </article>
   `;
@@ -1924,6 +2019,19 @@ document.getElementById('calendarDateTabs').addEventListener('click', e => {
   if (!item) return;
   activeCalendarDate = item.dataset.calendarDate || '';
   calendarDidSetDefaultDate = true;
+  renderEconomicCalendar();
+});
+
+document.getElementById('calendarList').addEventListener('click', e => {
+  const item = e.target.closest('[data-calendar-event-id]');
+  if (!item) return;
+  const eventId = item.dataset.calendarEventId || '';
+  if (!eventId) return;
+  if (expandedCalendarIds.has(eventId)) {
+    expandedCalendarIds.delete(eventId);
+  } else {
+    expandedCalendarIds.add(eventId);
+  }
   renderEconomicCalendar();
 });
 
