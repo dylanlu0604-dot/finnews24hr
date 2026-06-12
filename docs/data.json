@@ -1,7 +1,94 @@
 {
-  "updated": "2026-06-12 13:46:32",
-  "count": 18387,
+  "updated": "2026-06-12 13:50:25",
+  "count": 18391,
   "items": [
+    {
+      "id": "te:markets:558595",
+      "time": "2026-06-12 13:49:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends Week Up 1.8% — The NZX 50 rose 192 points, or 1.5%, to close at 13,394 on Friday, erasing losses from the previous session and rebounding from its lowest level in over two weeks, reached a day earlier, with most sectors trading in the green, led by consumer staples stocks. The consumer staples sector surged 6.7%, mainly supported by a jump in A2 Milk shares, which rose 10.5%. The broader index hit its highest level since March 6, tracking a rally on Wall Street on Thursday amid easing tensions in the Middle East. However, the latest data capped gains as New Zealand's manufacturing sector contracted for the first time in 11 months in May, amid rising oil prices. Traders also anticipated next week's release of New Zealand's Q1 GDP data and the Fed's monetary policy decision. Other notable gainers included Ebos Group (3.6%), Turners Automotive Group (2.3%), Fisher & Paykel Healthcare (1.7%), and Mainfreight (1.6%). For the week, the index gained 1.8%, after falling in the prior week."
+    },
+    {
+      "id": "mkt:019eba60-9248-7dd8-afd3-27a0b6a1fb7a",
+      "time": "2026-06-12 13:49:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai government to brief on 2026 Lujiazui Forum at June 12 press conference】On June 12 the Shanghai municipal government will hold a press conference to present details on the 2026 Lujiazui Forum. Attending agencies include the Shanghai Party Committee Financial Office, the PBOC’s Shanghai headquarters, the Office of the National Financial Supervision and Administration and the CSRC’s Shanghai bureau. Officials will outline the forum’s arrangements and answer reporters’ questions."
+    },
+    {
+      "id": "4931898",
+      "time": "2026-06-12 13:49:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【預告：上海市人民政府舉行新聞釋出會 介紹2026陸家嘴論壇有關情況】6月12日，上海市人民政府舉行新聞釋出會，邀請上海市委金融辦、中國人民銀行上海總部、國家金融監督管理總局辦公廳、中國證監會上海證監局等相關負責同志出席，介紹2026陸家嘴論壇有關情況，並回答記者提問。"
+    },
+    {
+      "id": "4931897",
+      "time": "2026-06-12 13:48:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "味之素執行長：到2030年以後，現有ABF產能或將無法滿足人工智慧需求。"
+    },
+    {
+      "id": "4931896",
+      "time": "2026-06-12 13:46:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "味之素執行長：關鍵原材料定價過高或迫使晶片製造商轉向替代產品。注：味之素增層薄膜 （ABF）是高階晶片製造封裝領域的關鍵材料。"
+    },
+    {
+      "id": "4931895",
+      "time": "2026-06-12 13:46:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "味之素執行長：為滿足激增需求，下一代工廠建設日程或將提速推進。"
+    },
+    {
+      "id": "4931894",
+      "time": "2026-06-12 13:46:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "味之素執行長拒絕投資者要求對所有味之素增層薄膜產品全面提價的施壓。"
+    },
+    {
+      "id": "4931893",
+      "time": "2026-06-12 13:46:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先導基電成立曜芯光電科技公司】企查查APP顯示，近日，廣東先導曜芯光電科技有限公司成立，經營範圍包含：電子專用材料研發；電子專用材料銷售；特種陶瓷製品銷售；電子產品銷售等。企查查股權穿透顯示，該公司由先導基電全資持股。"
+    },
+    {
+      "id": "4931892",
+      "time": "2026-06-12 13:46:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "育碧或將裁員多達380人，包括美國和塞爾維亞的員工。"
+    },
+    {
+      "id": "4931891",
+      "time": "2026-06-12 13:45:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌6%，現報5326.00元。"
+    },
     {
       "id": "4931890",
       "time": "2026-06-12 13:45:36",
@@ -169483,56 +169570,6 @@
         "China Tech Giants"
       ],
       "text": "【Huawei Cloud CEO Zhou Yuefeng: Prioritizes productivity gains over tokens revenue and consumption】Against an industry focus on MaaS revenue and token-usage metrics, Huawei Cloud CEO Zhou Yuefeng said the cloud unit prioritizes productivity improvements from Tokens over total token revenue or consumption. He noted Huawei Cloud is built on domestically sourced compute and, given constrained domestic compute supply, will not compete with peers on raw compute scale. Consequently, Huawei Cloud de-emphasizes topline and token-consumption KPIs and is focusing on developing a second compute plane rather than pursuing sentiment-driven value."
-    },
-    {
-      "id": "4918818",
-      "time": "2026-06-05 13:50:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為雲CEO周躍峰：相比Tokens收入和消耗總量，更看重生產力提升】6月5日，華為公司董事、華為雲CEO周躍峰在接受媒體採訪時表示，在當下雲廠商都極其重視MaaS（模型即服務）收入、考核Tokens用量的背景下，華為雲更看重的是Tokens帶來的生產力提升。他提到，華為雲背後是國產化算力，在國產化算力的能力和供應相對有限的情況下，華為雲不會拿算力規模來和其他廠商做比較。因此，華為雲不太在乎收入總量和Tokens的消耗指標，核心目標是發展第二個算力平面，而非情緒價值。"
-    },
-    {
-      "id": "mkt:019e9654-e94c-7ff7-b578-195badd5036e",
-      "time": "2026-06-05 13:50:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WFP: Middle East crisis could put 45 million at risk of hunger】WFP acting executive director warned the Middle East crisis is spilling into global food security by pushing up energy and food prices; if it persists about 45 million people could face hunger. He cited rising food and fuel costs and chronic underfunding of humanitarian and development aid; with East Africa entering planting and rainy seasons, fertilizer shortages and higher operating costs could cut output and tighten supplies over the next 6-9 months, and the crisis’ long-term impact on food security may be more severe."
-    },
-    {
-      "id": "mkt:019e9654-dde1-7ff7-b578-12fb89504052",
-      "time": "2026-06-05 13:50:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share commercial space sector rose amid afternoon volatility; Zhongtian Rocket hit the daily limit, while Xinwei Telecom, Aerospace Electronics, CETC Lantian and Tongyu Communications also advanced."
-    },
-    {
-      "id": "mkt:019e9654-dc79-7ff7-b578-08736fd8987e",
-      "time": "2026-06-05 13:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD"
-      ],
-      "text": "UK May Halifax seasonally adjusted house price index MoM due in 10 minutes."
-    },
-    {
-      "id": "4918817",
-      "time": "2026-06-05 13:49:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商業航天板塊震盪上揚，中天火箭觸及漲停】商業航天板塊震盪上揚，中天火箭觸及漲停，信維通訊、航天電子、電科藍天、通宇通訊跟漲。"
-    },
-    {
-      "id": "4918816",
-      "time": "2026-06-05 13:47:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "以太坊跌破1700美元。"
     }
   ]
 }
