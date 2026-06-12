@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-13 03:41:38",
-  "count": 18441,
+  "updated": "2026-06-13 03:45:40",
+  "count": 18444,
   "items": [
+    {
+      "id": "mkt:019ebd5d-ba3e-7dd8-afe6-df06f9d2a059",
+      "time": "2026-06-13 03:44:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's foreign minister Araghchi said Iran's sword will always hang over the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019ebd5d-577f-7dd8-afe6-d7a08536aec2",
+      "time": "2026-06-13 03:44:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian foreign minister Araghchi said the Strait of Hormuz is not international waters."
+    },
+    {
+      "id": "4933380",
+      "time": "2026-06-13 03:44:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國FDA批准首款面向兒童的非處方連續血糖監測儀。"
+    },
+    {
+      "id": "mkt:019ebd5b-236d-7dd8-afe6-cefee3a8e520",
+      "time": "2026-06-13 03:42:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Iranian foreign minister Araghchi said Tehran's sole preferred option for handling stocks of highly enriched uranium is to downblend the material to lower enrichment."
+    },
+    {
+      "id": "4933379",
+      "time": "2026-06-13 03:41:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：對德黑蘭而言，處置高濃縮鈾庫存的唯一優選方案是將相關材料降純稀釋。"
+    },
+    {
+      "id": "4933378",
+      "time": "2026-06-13 03:41:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：我們的任何資產將不再被允許繼續凍結。 已設想了一項重建計劃，以補償伊朗所遭受的損害。"
+    },
     {
       "id": "mkt:019ebd58-e973-7dd8-afe6-c366eb720a72",
       "time": "2026-06-13 03:39:41",
@@ -169712,32 +169774,6 @@
         "國際"
       ],
       "text": "【哈馬斯代表團抵達埃及 與斡旋方討論落實加沙停火】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）5日發表宣告說，其領導層代表團當天抵達埃及首都開羅，將於6日起與斡旋方討論切實在加沙地帶實現停火。宣告說，代表團由哈馬斯高階官員哈利勒·哈亞率領。會談預計持續數日，其間代表團將與埃方官員和相關斡旋人員會面，以期切實落實加沙停火第一階段協議，停止以色列對加沙地帶的持續襲擊，並建立進入停火第二階段的適當機制。宣告說，代表團還將與一些巴勒斯坦派別和政治力量會面，以就多個議題闡述統一的民族立場，並就如何應對巴勒斯坦人民面臨的挑戰達成共識。自2025年10月加沙停火第一階段協議生效以來，以色列不斷以哈馬斯違反停火協議為由發動襲擊。加沙地帶衛生部門6月4日釋出的資料顯示，自協議生效以來，以軍在加沙地帶的行動已造成947人死亡、2935人受傷。據《以色列時報》1日報道，加沙停火斡旋方計劃本週在埃及重啟與哈馬斯關於解除武裝的談判。這一談判目前基本陷入僵局，哈馬斯拒絕接受“和平委員會”有關解除武裝的提議，並要求以色列先切實履行加沙停火第一階段的協議條款。（新華社）"
-    },
-    {
-      "id": "mkt:019e994e-d0ab-7665-830d-321745704c09",
-      "time": "2026-06-06 03:42:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "New York silver futures fell below $68/oz, down 8.08% intraday."
-    },
-    {
-      "id": "mkt:019e994e-725d-7665-830d-2e17d4e7f627",
-      "time": "2026-06-06 03:41:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars News reports the US has not yet issued World Cup visas to some technical and administrative staff of Iran's national football team."
-    },
-    {
-      "id": "mkt:019e994e-6012-7665-830d-2021fe172f6a",
-      "time": "2026-06-06 03:41:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CFTC: speculative net-long positions in WTI crude futures rose 12,530 contracts to 103,693 in the week ended June 2."
     }
   ]
 }
