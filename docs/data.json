@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-12 14:06:35",
-  "count": 18426,
+  "updated": "2026-06-12 14:10:39",
+  "count": 18424,
   "items": [
+    {
+      "id": "te:economy:558599",
+      "time": "2026-06-12 14:09:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "UK Construction Output Falls Less than Expected — UK construction output dropped 1.0% year-on-year in April 2026, worsening from a 0.3% decline in the previous month and marking the sixth consecutive month of contraction. However, the drop was less severe than market expectations of a 1.7% decrease. New work continued to weigh on activity, falling at a faster pace (-4.8% vs. -4.4% in March), while growth in repair and maintenance eased to a four-month low of 4.4% from 5.7%. On a monthly basis, construction output edged up 0.1%, slowing sharply from a 1.5% increase in March and representing the weakest expansion since December. The softer performance reflected a 0.3% decline in new work and slower growth in repair and maintenance activity (0.6%). Despite the weak April reading, construction output rose 1.6% over the three months to April, pointing the second consecutive increase in the rolling three-month measure. Growth was supported by gains in both repair and maintenance activity (3.4%) and new work (0.3%)."
+    },
+    {
+      "id": "4931921",
+      "time": "2026-06-12 14:08:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三隻羊大資料公司變更負責人】天眼查App顯示，近日，合肥三隻羊大資料運營有限公司發生工商變更，汪芬慶卸任法定代表人、經理、董事，由杜剛接任法定代表人、董事。該公司成立於2023年6月，註冊資本500萬人民幣，經營範圍包括大資料服務、資料處理和儲存支援服務、資料處理服務等，由三隻羊（合肥）控股集團有限公司全資持股。"
+    },
     {
       "id": "mkt:019eba6f-e882-7dd8-afd4-8d7bd1ab7872",
       "time": "2026-06-12 14:05:56",
@@ -50,6 +70,15 @@
         "其他"
       ],
       "text": "【杭州小龍蝦降價超50%】進入6月，湖北潛江小龍蝦供貨量逐漸減少，央視財經記者在走訪時發現，目前杭州市場上的小龍蝦已經完成了產地輪換，江蘇、安徽和浙江本地產的小龍蝦增多，貨源充足，小龍蝦價格也大幅回落，不少市民直呼實現了“小龍蝦自由”。記者瞭解到，目前中青規格小龍蝦的批發價每斤12元，大青規格小龍蝦每斤16元，跟今年二三月份剛上市時的價格相比，降幅均超過50%。此外，廣闊的海外市場，為小龍蝦開啟了利潤增長空間。今年，多地小龍蝦出口量與貨值雙雙攀升，遠銷歐美及東南亞。（央視財經）"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606123769825516",
+      "time": "2026-06-12 14:03:05",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委內格爾：已為7月保留所有選擇 隨時準備再次作出回應】歐洲央行管委內格爾表示，即使戰爭迅速結束，本週的加息也是必要的；衝擊是強烈且持久的，不能簡單地忽視這個衝擊。已為7月保留了所有選擇，一旦需要，央行將隨時準備再次作出回應；由於高能源價格對其他價格的間接影響日益加劇，加息是必要的。"
     },
     {
       "id": "4931916",
@@ -169884,55 +169913,6 @@
         "美聯儲"
       ],
       "text": "【美聯儲內部分歧加劇：抗通脹為首要任務 年內加息重回政策選項】近日，多位美聯儲官員相繼發表講話。儘管官員們普遍認同將通脹恢復至2%目標是首要任務，但在利率路徑判斷、風險側重及政策溝通策略上呈現出顯著差異，反映出央行在應對能源衝擊、人工智慧投資熱潮及財政可持續性等多重變數時的審慎與博弈。"
-    },
-    {
-      "id": "4918843",
-      "time": "2026-06-05 14:08:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【融創房地產集團等被恢復執行39.5億】天眼查App顯示，6月4日，融創房地產集團有限公司等新增兩則恢復執行資訊，執行標的合計39.5億餘元，執行法院為哈爾濱市道外區人民法院、北京市第二中級人民法院。該公司成立於2003年1月，法定代表人為汪孟德，註冊資本150.15億人民幣，經營範圍包括房地產開發及商品房銷售、物業管理、室內外裝飾等，由北京融創控股集團有限公司、天津融創嘉晟企業管理諮詢有限公司共同持股。風險資訊顯示，該公司現存多條被執行人、限制消費令、失信被執行人（老賴）及終本案件資訊。"
-    },
-    {
-      "id": "te:markets:556743",
-      "time": "2026-06-05 14:08:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Retreats Further Yet Poised for Third Weekly Rise — Malaysian palm oil futures slipped for a second session, hovering below MYR 4,600 per tonne as weaker rival oils on China’s Dalian Exchange weighed on sentiment. Expectations of rising inventories added pressure, with Reuters projecting May stockpiles climbed for a second month. Cargo surveyors estimated exports fell 8.8%–15.5% from April, underscoring subdued demand. Purchases by India, the world's largest palm oil importer, recovered slightly from April's four-month low but remained below normal levels. Still, Still, futures were on track for a third weekly gain, up 0.7% so far, supported by a weaker ringgit that boosts export competitiveness. Crude oil also headed for solid weekly gains as Washington–Tehran talks stalled, enhancing palm oil’s appeal as biodiesel feedstock. Longer-term support stems from dry weather across Asia and forecasts of a severe El Niño, raising concerns over crop output and edible oil supplies."
-    },
-    {
-      "id": "4918842",
-      "time": "2026-06-05 14:07:12",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：阿曼主要原油出口終端米納·阿爾·法哈爾（Mina Al Fahal）港口已恢復運營。"
-    },
-    {
-      "id": "mkt:019e9664-6fe3-7ff7-b578-67cb7fe76161",
-      "time": "2026-06-05 14:07:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Oman’s main crude export terminal, Mina Al Fahal port, has resumed operations."
-    },
-    {
-      "id": "4918841",
-      "time": "2026-06-05 14:07:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【飛豬：近兩週入境遊預訂量同比增長237%】暑期臨近，入境遊市場正在升溫。6月5日，線上旅遊服務平臺飛豬披露的資料顯示，近兩週入境遊預訂量同比增長237%，馬來西亞、韓國、加拿大等客源地增長更快，均錄得3倍以上增長。上海、廣州、成都、北京、西安等是暑期入境遊熱門目的地。"
     }
   ]
 }
