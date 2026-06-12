@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-13 02:22:26",
-  "count": 18427,
+  "updated": "2026-06-13 02:26:18",
+  "count": 18424,
   "items": [
+    {
+      "id": "te:markets:558791",
+      "time": "2026-06-13 02:25:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Falls by 2.68% — Top commodity losers are Oat (-2.68%), Palm Oil (-1.67%) and Rice (-1.33%). Gains are led by Cocoa (2.32%), Coffee (1.42%) and Rubber (0.81%)."
+    },
     {
       "id": "mkt:019ebd11-b0c8-7dd8-afe5-5e7e748bcf0b",
       "time": "2026-06-13 02:21:53",
@@ -169613,49 +169624,6 @@
         "國際"
       ],
       "text": "市場訊息： 特朗普簽署一份面向國家安全領域人工智慧建設的行政指令。"
-    },
-    {
-      "id": "te:markets:557001",
-      "time": "2026-06-06 02:25:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Slumps by 5.57% — Top commodity losers are Cocoa (-5.57%) and Canola (-3.26%)."
-    },
-    {
-      "id": "mkt:019e9907-1c4c-7665-830b-ef99d6901f13",
-      "time": "2026-06-06 02:24:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reported U.S. presidential envoy Witkoff and Trump's son-in-law Kushner visited a Tennessee national laboratory on Thursday to meet with nuclear experts."
-    },
-    {
-      "id": "mkt:019e9906-6b90-7665-830b-e6af22504965",
-      "time": "2026-06-06 02:23:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Trump says he wants rate cuts but will leave decision to Fed chair Kevin Warsh】Trump said he hopes to see rate cuts but will leave policy decisions to Fed chair Kevin Warsh, including any move at the October meeting. He described the economy as strong and said markets should rise. On Iran he said the US has had major success and that Iran currently lacks conditions for a nuclear weapon. On oil he said the government has multiple options."
-    },
-    {
-      "id": "4920280",
-      "time": "2026-06-06 02:22:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "據Axios：威特科夫與庫什納週四前往田納西州國家實驗室，同核能專家舉行會晤。"
     }
   ]
 }
