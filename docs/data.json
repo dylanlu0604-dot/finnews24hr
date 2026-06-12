@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-13 00:12:33",
-  "count": 18399,
+  "updated": "2026-06-13 00:16:34",
+  "count": 18401,
   "items": [
+    {
+      "id": "4933216",
+      "time": "2026-06-13 00:15:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理：在巴基斯坦持續積極斡旋之際，我們清楚，一些勢力正不斷散佈虛假資訊，企圖破壞這份和平協議。"
+    },
+    {
+      "id": "mkt:019ebc9d-d421-7dd8-afe2-b0d861778ad2",
+      "time": "2026-06-13 00:15:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister said an agreed final text of a peace accord has been reached by all parties and Pakistan is working closely with both sides to finalize next-phase arrangements, adding that peace is now closer than ever."
+    },
+    {
+      "id": "4933215",
+      "time": "2026-06-13 00:15:03",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "巴基斯坦總理：確認已經達成一份最終、經過同意的和平協議文字。巴基斯坦正與伊朗、美國就後續行動密切合作。"
+    },
+    {
+      "id": "4933214",
+      "time": "2026-06-13 00:12:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克成為萬億富豪後，美國參議員沃倫呼籲徵收財富稅。"
+    },
+    {
+      "id": "te:markets:558783",
+      "time": "2026-06-13 00:12:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.97% Higher — The FTSE MIB Index gained 992 points or 1.97 percent on Friday to close at 51497 points. Gains were led by Buzzi Unicem (5.67%), Mediobanca (4.38%) and Unipol Gruppo (4.33%)."
+    },
+    {
+      "id": "4933213",
+      "time": "2026-06-13 00:11:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱，黎巴嫩南部以軍行動區域內有兩個可疑空中目標被擊落，目前暫無人員傷亡及財產損失報告。"
+    },
     {
       "id": "mkt:019ebc9a-241d-7dd8-afe2-a89054f01d2c",
       "time": "2026-06-13 00:11:18",
@@ -169386,42 +169440,6 @@
         "國際"
       ],
       "text": "【伊朗最高領袖顧問：特朗普同伊朗最高領袖會晤“絕無可能”】伊朗最高領袖的軍事顧問穆赫辛・雷扎伊在德黑蘭接受 CNN 獨家專訪，被問及哈梅內伊的身體健康狀況以及在國家決策中的權責，雷扎伊未予以答覆，但明確否認二人會面的可能：“此事絕無可能。現階段談判才剛進入首輪，正是特朗普致使談判停滯，雙方不會舉行會晤。”"
-    },
-    {
-      "id": "4920209",
-      "time": "2026-06-06 00:14:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：特斯拉將 Roadster 跑車實車演示推遲至 8 月。 特斯拉 Roadster 跑車演示旨在展示特斯拉與 SpaceX 合作研發的冷氣推進系統成果。"
-    },
-    {
-      "id": "mkt:019e988f-d3aa-7665-8309-b25808fb86af",
-      "time": "2026-06-06 00:13:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【6.0-magnitude earthquake off Indonesia's Maluku province】Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a magnitude-6.0 earthquake at 22:57 local time on the 5th, centered about 60 km southeast of Maluku province with a depth of 120 km. No tsunami risk expected."
-    },
-    {
-      "id": "mkt:019e988f-838b-7665-8309-ae8f153327f1",
-      "time": "2026-06-06 00:13:22",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Russell 2000 fell to a two-week low, down 2.4%."
-    },
-    {
-      "id": "4920208",
-      "time": "2026-06-06 00:12:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "據CNN：哈梅內伊助手稱伊朗和阿曼對霍爾木茲海峽擁有主權。"
     }
   ]
 }
