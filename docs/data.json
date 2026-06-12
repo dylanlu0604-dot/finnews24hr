@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-12 12:06:23",
-  "count": 18457,
+  "updated": "2026-06-12 12:10:21",
+  "count": 18460,
   "items": [
+    {
+      "id": "mkt:019eba04-ae77-7dd8-afd1-2353a0b24d6e",
+      "time": "2026-06-12 12:08:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "New York Times reports the U.S. plans to withdraw one-third of the fighter jets it supplied to NATO for European defense."
+    },
+    {
+      "id": "te:economy:558572",
+      "time": "2026-06-12 12:08:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Malaysia Industrial Output Growth at Near 4-Year High — Industrial production in Malaysia rose by 8.2% year-on-year in April 2026, picking up from a 3.1% growth in the previous month and easily topping market forecasts of 4%. It was the fastest yearly increase since September 2022. On a seasonally adjusted monthly basis, industrial activity fell by 3.4%, reversing a 9.3% gain in March"
+    },
+    {
+      "id": "4931779",
+      "time": "2026-06-12 12:08:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【風暴來襲，芝加哥機場數百架航班取消】當地時間週四晚間，芝加哥及周邊地區龍捲風預警解除，最嚴峻的險情已過去，但當地航空及供電仍受影響。美國國家氣象局釋出宣告稱：“此次觸發預警的風暴強度已降至強風暴標準以下，不再具備形成龍捲風的條件。”該局表示，印第安納州、密歇根州、伊利諾伊州部分割槽域仍維持龍捲風觀察預警，艾奧瓦州則釋出洪水觀察預警。美國風暴預測中心稱，截至週四，包括芝加哥民眾在內，超910萬人所處區域面臨中度強雷暴風險，此類天氣易引發冰雹和龍捲風。風暴預測中心資料顯示，過去兩天，美國中西部已記錄428起冰雹、破壞性大風及龍捲風相關災害報告。截至美國東部時間22時59分，全美共計取消1474架次航班，其中芝加哥奧黑爾國際機場進出港航班取消882架次。美國聯邦航空管理局此前已預警，雷暴天氣將導致該機場航班延誤。受風暴連鎖影響，紐約拉瓜迪亞機場另有166架經停航班取消。停電資訊網站資料顯示，美東東部時間23時，伊利諾伊州、印第安納州、威斯康星州、密歇根州、弗吉尼亞州及賓夕法尼亞州共有近60萬戶住宅與商鋪斷電。"
+    },
+    {
+      "id": "4931778",
+      "time": "2026-06-12 12:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【文明對話國際日活動在聯合國機構舉行 】2024年6月，聯合國大會一致透過中國提出的決議，把每年6月10日設立為“文明對話國際日”。今年6月10日是第二個“文明對話國際日”。位於美國紐約、法國巴黎、奧地利維也納等地的聯合國機構當天舉辦主題活動，共話文明交流互鑑。聯合國秘書長古特雷斯在書面致辭中表示，應透過文明對話增進團結，推動構建更加公正、和平的世界。各方讚賞中國提出全球文明倡議及為促進文明對話所作貢獻，一致認為應以交流凝聚共識、合力開創美好未來。"
+    },
+    {
+      "id": "te:economy:558571",
+      "time": "2026-06-12 12:07:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Thailand Consumer Sentiment Falls to 3½-Year Low — The University of the Thai Chamber of Commerce’s Consumer Confidence Index dropped to 49.5 in May 2026 from 50.6 in April, marking the lowest level since November 2022. The decline was mainly attributed to concerns over conflicts in the Middle East and persistently high oil prices, which are expected to raise the cost of living and weigh on economic growth."
+    },
+    {
+      "id": "4931777",
+      "time": "2026-06-12 12:06:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "據《紐約時報》訊息，美國計劃撤走其部署在歐洲供北約使用的三分之一戰鬥機。"
+    },
+    {
+      "id": "mkt:019eba02-ccc8-7dd8-afd1-1c03acd029ea",
+      "time": "2026-06-12 12:06:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "03330.HK",
+        "06693.HK"
+      ],
+      "text": "【Hong Kong midday: HSI up 2.02% at half-day; gold miners lead gains】Hong Kong shares rose through the morning session; HSI +2.02% and Hang Seng Tech Index +1.72% at midday. Gold miners led gains: Lingbao Gold (03330.HK) +9%+, Chifeng Gold (06693.HK) +8%+. Mainland broker stocks advanced: Hongye Futures (03678.HK) +11%+, CITIC Securities (06030.HK) and China International Capital Co (03908.HK) both +6%+. Innovative drug/biotech names rallied: 06990.HK +7%+, 09926.HK +5%+, Hengrui Medicine (01276.HK) +4%+. Wind power, commercial space, power equipment, robotics, lithium battery and China domestic bank sectors outperformed. Large-model AI names were mixed: Zhipu +3%+, MINIMAX-W (00100.HK) -5%+. PCB complex rolled over after an early pop: Kingboard Laminates (01888.HK) -5%+, Kingboard (00148.HK) -4%+."
+    },
     {
       "id": "4931776",
       "time": "2026-06-12 12:05:40",
@@ -170151,42 +170223,6 @@
         "觀點"
       ],
       "text": "【知情人士：Switch正就以500億美元以上的估值進行融資談判】據媒體援引知情人士的話報道，資料中心開發商Switch正就以至少500億美元的估值籌集數十億美元資金一事進行談判。報道稱，布魯克菲爾德資產管理公司、KKR以及其他私募股權和機構投資者已就參與本輪融資展開磋商。此輪融資可能為Switch的首次公開募股（IPO）鋪平道路，最早可能於明年進行。高盛和摩根大通 的投行團隊正與Switch合作，協助其完成此次融資。"
-    },
-    {
-      "id": "4918655",
-      "time": "2026-06-05 12:09:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊雲TokenHub：連續多月翻倍 日Token消耗量躍升至5萬億】在今天舉行的騰訊雲AI產業應用大會上，騰訊雲總經理、TokenHub負責人高航透露，騰訊雲大模型服務平臺TokenHub上線3個月，保持每月翻倍的增長態勢，目前日Token消耗量已突破5萬億。"
-    },
-    {
-      "id": "4918654",
-      "time": "2026-06-05 12:08:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【市場分析 ：美國5月非農就業崗位增長料放緩，但仍保持穩健】美國就業在連續兩個月強勁增長後，5月增速可能有所放緩，但仍與勞動力市場穩定狀況一致。經濟學家預計，勞工部週五釋出的備受關注的就業報告將證實，中東衝突雖推高油價並助長通脹，但尚未對就業市場產生實質性影響。他們表示，以退稅和關稅退款形式體現的財政刺激措施提振了企業利潤，使企業得以避免大規模裁員。路透調查顯示，經濟學家預計，非農就業崗位繼4月增加11.5萬個後，5月料增加8.5萬個，預估值區間在5萬-12.5萬。5月的預期增幅仍高於今年以來的月均水平7.6萬。經濟學家還認為，在美國勞工統計局更新用於估算企業開業或倒閉所帶來就業變化的“出生-死亡”模型後，歷史就業資料被大幅修正的空間有限。"
-    },
-    {
-      "id": "te:markets:556702",
-      "time": "2026-06-05 12:08:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupee Edges Higher as RBI Policy Looms — The Indian rupee edged higher to around 95.6 per dollar, recovering part of its recent losses as investors positioned ahead of the Reserve Bank of India's policy decision. Trading remained cautious, with market participants closely watching for signals on interest rates and any measures aimed at boosting foreign currency inflows. While the RBI is widely expected to keep its benchmark rate unchanged at 5.25%, currency markets remain divided on the possibility of a surprise hike amid rising inflation risks linked to elevated oil prices and a weaker rupee. Attention remained on possible steps to boost dollar inflows amid concerns that elevated crude prices could widen India's current account deficit. Markets increasingly expect the RBI to adopt a more hawkish stance, with traders pricing in a 25-basis-point rate hike at the next meeting. However, broader weakness in Asian currencies and Middle East tensions limited gains in the rupee."
-    },
-    {
-      "id": "4918653",
-      "time": "2026-06-05 12:07:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍被曝隱瞞福特號航母火災嚴重性】當地時間4日，美國有線電視新聞網（CNN）公佈的一段新影片顯示，今年3月美軍最大航母“福特”號在對伊朗作戰期間發生的火災，比美軍當時公開宣稱的要嚴重得多。影片顯示，水兵們的床鋪被燒燬，剩下的床架已是焦黑的扭曲金屬。天花板顯然也被烈火燒穿，電線從天花板上垂下來。床鋪周圍的地面積滿了灰燼……“福特”號上的一名水兵說，“我當時真的以為我們要失去這艘船了”。"
     }
   ]
 }
