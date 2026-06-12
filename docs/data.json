@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-12 20:45:25",
-  "count": 18560,
+  "updated": "2026-06-12 20:49:26",
+  "count": 18557,
   "items": [
+    {
+      "id": "mkt:019ebbe0-5f6c-7dd8-afdf-00d45e7a99c7",
+      "time": "2026-06-12 20:48:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU member states agreed a common position to expand the bloc's carbon border adjustment mechanism (CBAM)."
+    },
+    {
+      "id": "4932902",
+      "time": "2026-06-12 20:48:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【畫面曝光！日本H3火箭發射升空時不明物體脫落，日方將展開調查】據“Cnet Japan”新聞網6月12日報道，日本宇宙航空研究開發機構（JAXA）12日上午在鹿兒島縣種子島宇宙中心發射一枚H3火箭。現場影片顯示，在火箭點火升空約43秒後，一個不明物體從火箭發動機附近脫落。JAXA相關負責人表示，目前尚無法確定脫落的物體是什麼，將展開調查。（環球網）"
+    },
+    {
+      "id": "4932901",
+      "time": "2026-06-12 20:48:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟各國就擴大碳邊境稅適用範圍達成統一立場。"
+    },
+    {
+      "id": "4932900",
+      "time": "2026-06-12 20:47:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【卓創資訊：焦炭正醞釀第七輪漲價】短期調整後，近日焦煤、焦炭價格再度上攻。截至6月12日下午收盤，焦炭主力合約2609收報2078元/噸，盤中最高達到2126元/噸的近年高點。近兩個交易日來，該主力合約價格累計漲幅突破5%。“現貨市場上，本週焦炭現貨市場價格維持偏強上漲，第六輪提漲落地，第七輪上漲正在醞釀。”卓創資訊分析師劉璐璐稱。據瞭解，目前山西煤礦安監形勢依然嚴峻，坑口焦煤供應恢復緩慢，周內焦煤期貨價格高位回落，市場投機需求減弱，但現貨市場剛需偏強，坑口焦煤價格維持上漲，6月10日焦炭價格第六輪提漲全面落地，且頂裝焦漲幅擴大至75元/噸，第七輪提漲也已經提上日程。"
+    },
+    {
+      "id": "4932899",
+      "time": "2026-06-12 20:47:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：伊朗稱目前相關傳言基本都屬於媒體猜測】伊朗方面訊息：伊美之間潛在共識目前處於內部最終敲定階段，尚未作出最終決定。伊朗相關主管部門必須就協議文字各項細節及可能達成的共識逐一研判並形成定論。針對部分媒體猜測伊美初步共識簽署會議的時間與地點，伊朗外交部發言人作出回應：一、任何協議的官方訊息，都將在最終結果落地後第一時間釋出。二、伊朗伊斯蘭共和國的決策流程十分明確，相關主管部門務必敲定協議文字及潛在共識的全部細節。三、共識的簽署方式將在後續階段商討，目前相關傳言基本都屬於媒體猜測。"
+    },
+    {
+      "id": "4932898",
+      "time": "2026-06-12 20:46:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨轉跌。"
+    },
+    {
+      "id": "4932897",
+      "time": "2026-06-12 20:46:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉信理財（Charles Schwab）截至2026年5月的客戶總資產為13.14萬億美元，較2025年5月增長27%。"
+    },
+    {
+      "id": "mkt:019ebbdd-93c8-7dd8-afde-fc7eff5c79cb",
+      "time": "2026-06-12 20:45:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF and the Kyiv government reached a staff-level agreement, paving the way for nearly $700 mln in aid to Ukraine."
+    },
+    {
+      "id": "4932896",
+      "time": "2026-06-12 20:45:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗方面訊息：有訊息源稱，所謂週日將在日內瓦簽署協議的說法純屬虛假傳言。"
+    },
+    {
+      "id": "mkt:019ebbdd-2650-7dd8-afde-f358f5ba7b8a",
+      "time": "2026-06-12 20:44:53",
+      "tags": [
+        "MKT News",
+        "SHEL.L",
+        "Impact bearish"
+      ],
+      "text": "Shell will suspend share buybacks until July 14."
+    },
+    {
+      "id": "4932895",
+      "time": "2026-06-12 20:44:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌宣佈暫停股票回購計劃。"
+    },
     {
       "id": "4932894",
       "time": "2026-06-12 20:44:00",
@@ -170963,134 +171057,6 @@
         "國際"
       ],
       "text": "美國失業率變動落入《華爾街日報》10年期歷史預測區間內。"
-    },
-    {
-      "id": "4919850",
-      "time": "2026-06-05 20:49:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會：WAMCO 負責管理公平賠償基金。"
-    },
-    {
-      "id": "te:markets:556910",
-      "time": "2026-06-05 20:48:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Edge Lower after NFP — Futures tracking US equities inched down on Friday after a strong jobs report consolidated the outlook of restrictive interest rates, while chip producers extended their selloff. Contracts for the S&P 500 and the Nasdaq 100 fell 0.5% and 1.3%, respectively, while the Dow hovered near the flatline at a record high. The US added a net 172K jobs in May, well above estimates. Markets increased bets of a rate hike by the Fed this year as a strong labor market adds leeway for the Fed to fight inflationary risks as the standstill between Iran and the US maintain the surge in energy prices. Banks and defensive stocks pared premarket gains but remained in the green to support the Dow, with Visa and J&J gaining less than 1%. In turn, Broadcom was 2% down to extend the 13% slump from last session after missing guidance estimates. Micron slumped 4% and Nvidia lost 2%. S&P Dow Jones denied the fast entry for SpaceX into its indices ahead of its IPO next week, expected to be the largest in history."
-    },
-    {
-      "id": "4919849",
-      "time": "2026-06-05 20:48:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【多地出臺購房補貼新政 業內：相關政策研究和制定要精細化】近段時間以來，加大購房補貼力度成為多地樓市政策的新著力點。中指研究院的資料顯示，今年前5個月全國各省市（縣）出臺政策超430條。從政策方向上看，涉及最佳化限制性政策、調整公積金貸款、發放購房補貼、完善城市更新相關配套政策等內容。多位購房者表示，期待更多降低購房壓力的新政策，包括房貸利率和交易稅費能夠進一步下調、發放購房補貼等。廣東省住房政策研究中心首席研究員李宇嘉提出，購房補貼政策可能存在一些問題。例如補貼可能導致後續的需求提前釋放，而不是產生增量需求，導致補貼一停，銷售態勢就恢復到常態。如果補貼一直延續下去，暫不論地方財力支援。即便有財政實力，但對於市場來說，就認為是新常態，自然也不會因為有補貼而加速購房。此外，補貼還要選擇時機，也要精細化研究，哪些人群對補貼政策比較敏感，有針對性設計補貼發放範圍。“總之，政策研究和制定要精細化，將寶貴的財政資金用在刀刃上。”（證券時報）"
-    },
-    {
-      "id": "mkt:019e97d4-112b-7fff-a930-8dc3291a4660",
-      "time": "2026-06-05 20:48:38",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【Multiple regions expand home-purchase subsidies; industry urges finer policy design】Several Chinese regions have stepped up home-purchase subsidies. China Index Academy says provinces, cities and counties issued more than 430 housing-related measures in the first five months of the year. Measures broadly include easing restrictive policies, adjusting housing provident fund loans, issuing purchase subsidies and strengthening urban renewal support. Homebuyers are seeking further relief such as lower mortgage rates, reduced transaction taxes and direct subsidies. Li Yujia, chief researcher at the Guangdong Provincial Housing Policy Research Center, warns subsidies can front-load demand rather than create net new demand, and sales may revert once subsidies end; if subsidies become permanent markets may treat them as the new normal and they will no longer accelerate buying. She says timing and targeted design are critical to direct scarce fiscal resources to subsidy-sensitive groups."
-    },
-    {
-      "id": "mkt:019e97d3-cb40-7fff-a930-80f998d42731",
-      "time": "2026-06-05 20:48:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNN reports Lebanese President Aoun said Iran is using Lebanon as a bargaining chip in negotiations with the US."
-    },
-    {
-      "id": "4919848",
-      "time": "2026-06-05 20:48:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統約瑟夫·奧恩：伊朗正將黎巴嫩用作其與美國談判的籌碼。"
-    },
-    {
-      "id": "4919847",
-      "time": "2026-06-05 20:47:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鹽田港：公司經營業務不包括冷鏈物流】鹽田港(000088)6月5日在業績說明會上表示，公司經營業務不包括冷鏈物流。"
-    },
-    {
-      "id": "4919846",
-      "time": "2026-06-05 20:47:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會：富蘭克林旗下WAMCO將支付1億美元民事罰款。"
-    },
-    {
-      "id": "4919845",
-      "time": "2026-06-05 20:47:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【嘉美包裝回應俞浩被禁言】6月5日，嘉美包裝在控股權變更完成後的首個交易日，上演“過山車”行情——開盤一度大漲逾7%，隨後股價急速跳水，最終封死跌停板，收報16.79元/股。股價異動的背後，是市場對公司新任實控人——追覓科技創始人俞浩的多重疑慮：一邊是賬號突然因“違反法律法規”被禁言，另一邊則流傳著某地摸排轄區企業與追覓科技合作情況的訊息。 記者以投資者身份致電嘉美包裝證券部，公司相關人士表示，“實控人沒有出問題”，目前生產經營一切正常。（中國證券報）"
-    },
-    {
-      "id": "mkt:019e97d3-0857-7fff-a930-7d6e37733c9d",
-      "time": "2026-06-05 20:47:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【MIIT holds workshop on basic research at Northwestern Polytechnical University】June 5 — The Ministry of Industry and Information Technology (MIIT) held a workshop at Northwestern Polytechnical University on basic research for the industrial and information technology sectors. MIIT said basic research is the source of the scientific system and instructed that industrial strategy, planning, policy and standards should explicitly factor basic-research needs and align resources with major national strategies. It called for a problem-oriented approach to identify “real problems” — including industry development shortfalls, international-competition gaps and areas that could spawn disruptive technologies — and to pre-emptively allocate resources to technologies that could materially affect industry. The ministry urged stronger innovation platforms to channel industry demand into research and accelerate industry uptake of platform outcomes, and said enterprises should have greater voice and leadership roles in national major science projects and in key tasks under the National Key R&D Program."
-    },
-    {
-      "id": "mkt:019e97d2-d5e1-7fff-a930-716a78268cd8",
-      "time": "2026-06-05 20:47:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Lebanese parliament speaker rejects US-backed Israel-Lebanon ceasefire accord】Lebanese parliament speaker Nabih Berri rejected a US-brokered, US-backed Israel-Lebanon ceasefire agreement, Al Jazeera citing the Lebanese National News Agency reported. Berri said the text contained a trap by imposing a unilateral demand for Hezbollah’s full ceasefire and withdrawal of all its fighters south of the Litani River. He said he would only accept a mutual, unconditional ceasefire across land, sea and air that does not call for destruction of existing facilities, coupled with Hezbollah’s pullback from south of the Litani and Israeli withdrawal from occupied areas."
-    },
-    {
-      "id": "mkt:019e97d2-43aa-7fff-a930-6e1ebed02057",
-      "time": "2026-06-05 20:46:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ChinaBond Valuation Center seeks comment on adding PV01 and spread-PV01 for floating‑rate bonds】ChinaBond Valuation Center said the floating‑rate bond market has expanded and market demand for reference precision has risen. It proposes two new valuation metrics for floating‑rate bonds: valuation PV01 (rate‑basis‑point value) and valuation spread PV01 (spread‑basis‑point value). The existing PV01 metric would be limited to zero‑coupon, discount, interest‑at‑maturity (bullet) and coupon‑bearing fixed‑rate bonds. The proposal is open for public consultation under the ChinaBond yield curve and valuation principles."
-    },
-    {
-      "id": "4919844",
-      "time": "2026-06-05 20:46:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中債估值中心就新增浮動利率債券估價利率基點價值等指標公開徵求意見】近年來，浮動利率債券市場持續發展，市場對於浮動利率債券參考指標精度要求進一步提高。為滿足使用者使用需要，經研究評估，我們擬新增浮動利率債券“估價利率基點價值”、“估價利差基點價值”兩個指標。原“估價基點價值”指標將僅適用於零息、貼現債券和利隨本清、附息式固定利率債券。根據《中債債券收益率曲線和估值基本原則》，現就新增指標向市場公開徵求意見，中債估值使用者可以透過以下途徑和方式提出反饋意見。（中國債券資訊網）"
-    },
-    {
-      "id": "mkt:019e97d1-e733-7fff-a930-67afef40622e",
-      "time": "2026-06-05 20:46:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Canada May employment +87,800; unemployment 6.6%】Statistics Canada: May employment unexpectedly rose 87,800, led by full-time jobs across industries; unemployment fell to 6.6% (economists had forecast +10,000, 6.9%). May's gain only partially offsets a 112,000-job decline in Jan–Apr. Labour survey volatile, but May payrolls and a preliminary April GDP estimate suggest a possible Q2 economic rebound."
     }
   ]
 }
