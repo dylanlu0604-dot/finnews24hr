@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-13 04:55:52",
-  "count": 18452,
+  "updated": "2026-06-13 04:59:32",
+  "count": 18454,
   "items": [
+    {
+      "id": "4933437",
+      "time": "2026-06-13 04:58:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社報道，錫裡克和格什姆島傳出爆炸聲，但陸地上未發現爆炸，可能是由附近霍爾木茲海峽的衝突所致。"
+    },
+    {
+      "id": "4933436",
+      "time": "2026-06-13 04:56:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國法官同意暫緩撤銷10萬美元H-1B簽證費的裁決】在美國總統特朗普的政府尋求緊急上訴法院暫緩執行期間，波士頓的一名聯邦法官將暫時擱置其此前關於“撤銷對新增H-1B簽證申請人徵收10萬美元費用”的裁決。6月8日，法官Leo Sorokin裁定，該項費用侵犯了國會專屬的徵稅權，並違反了三權分立原則。特朗普政府已對該裁決提起上訴，並於6月12日提交動議，要求索羅金在美國第一巡迴上訴法院作出裁決前暫停執行其命令。"
+    },
+    {
+      "id": "4933435",
+      "time": "2026-06-13 04:55:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社報道，格什姆島和錫裡克附近聽到爆炸聲；官方尚未確認。"
+    },
     {
       "id": "4933434",
       "time": "2026-06-13 04:50:44",
@@ -131,6 +155,14 @@
         "其他"
       ],
       "text": "官員稱：哥倫比亞需推行稅制改革，方能達成 2027 年財政目標。"
+    },
+    {
+      "id": "4933422",
+      "time": "2026-06-13 04:27:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：ANGELA EAGLE被任命為國務大臣。"
     },
     {
       "id": "4933421",
@@ -169797,26 +169829,6 @@
         "國際"
       ],
       "text": "特朗普談伊朗問題：我們基本上已經解決了這個問題，你們很快就會看到。"
-    },
-    {
-      "id": "4920390",
-      "time": "2026-06-06 04:59:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：在NBC採訪錄製過程中有點生氣。"
-    },
-    {
-      "id": "te:markets:557011",
-      "time": "2026-06-06 04:57:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Sinks as Strong Jobs Data Lifts Rate Concerns — The S&P/TSX Composite Index fell 2.3% to close at 34,413 on Friday as stronger-than-expected employment data from Canada and the US pushed bond yields higher and reinforced expectations that the Bank of Canada and the Federal Reserve may keep interest rates elevated for longer. Employment in Canada rose by 88,000 in May, far exceeding forecasts, while US payroll growth also surprised to the upside. Meanwhile, fading hopes for a near-term resolution to the Middle East conflict and the reopening of the Strait of Hormuz added to inflation concerns. Gold prices fell to their lowest level of 2026, triggering a sharp selloff in mining stocks. Agnico Eagle lost 7.2%, Barrick shed 7.6%, and WPM dropped 9.3%. Technology shares also came under pressure, tracking a plunge in US chipmakers after Broadcom reported AI-chip demand that fell short of lofty market expectations. Shopify fell 5.4%, while Celestica plunged 12.3%."
     }
   ]
 }
