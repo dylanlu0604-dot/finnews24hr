@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-12 23:26:01",
-  "count": 18439,
+  "updated": "2026-06-12 23:30:15",
+  "count": 18436,
   "items": [
+    {
+      "id": "4933187",
+      "time": "2026-06-12 23:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局對飛往紐瓦克的航班釋出停飛指令，禁令持續至中午 12 點 45 分。停飛原因為無線電頻率故障。"
+    },
+    {
+      "id": "4933186",
+      "time": "2026-06-12 23:28:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雪佛龍CEO： 雪佛龍未來或進一步加大中東業務佈局，並將持續挖掘新機遇。"
+    },
+    {
+      "id": "mkt:019ebc71-be0f-7dd8-afe1-fe6cb422772c",
+      "time": "2026-06-12 23:27:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver extended intraday gains to about 1.0%, trading at $68.02/oz. Spot gold was up roughly 0.5%."
+    },
+    {
+      "id": "4933185",
+      "time": "2026-06-12 23:27:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛龍CEO：實施石油出口禁令，會向市場釋放負面供應訊號。"
+    },
+    {
+      "id": "4933184",
+      "time": "2026-06-12 23:27:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破68美元/盎司，日內漲1.04%。"
+    },
+    {
+      "id": "mkt:019ebc71-83c8-7dd8-afe1-f0d666132a95",
+      "time": "2026-06-12 23:26:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX executive downplays employee exit risk after IPO】SpaceX president Gwynne Shotwell downplayed the risk of mass employee departures after the company’s IPO, saying many employees are already wealthy and remain at the firm. The IPO was priced at $135 a share; employees who bought stock at much lower valuations could realize substantial gains in their brokerage accounts. In a CNBC interview on Friday Shotwell said those who don’t want to work shouldn’t be at the company."
+    },
+    {
+      "id": "4933183",
+      "time": "2026-06-12 23:26:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報67.98美元/盎司。"
+    },
     {
       "id": "4933182",
       "time": "2026-06-12 23:24:35",
@@ -169714,100 +169776,6 @@
         "Importance 1"
       ],
       "text": "Merck Stock Price Hits 8-week High — Merck shares increased to 123.15 USD, the highest since April 2026. Over the past 4 weeks, Merck & Co gained 8.39%, and in the last 12 months, it increased 55.87%."
-    },
-    {
-      "id": "te:economy:556974",
-      "time": "2026-06-05 23:30:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Rises by 17 bps — Majority of government bonds yields are higher on Friday. Top gainers are Brazil 10Y (17.50bps), US 10Y (6.30bps) and Germany 10Y (1.57bps). Biggest losers are Japan 10Y (-0.17bps)."
-    },
-    {
-      "id": "te:economy:556973",
-      "time": "2026-06-05 23:29:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Tunisia",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Tunisia Inflation Rate Steady at 1-Year High of 5.5% — Tunisia's inflation rate stood at 5.5% in May 2026, the highest in a year, matching the same level of April. Upward pressure continue to come mainly from prices of food & non-alcoholic beverages (8.2% vs 8.2% in April); clothing & footwear (9.1% vs 9.3%) and restaurants & hotels (6.3% vs 6.2%). On a monthly basis, the CPI rose by 0.3%, following a 1.1% advance in the prior month."
-    },
-    {
-      "id": "4920160",
-      "time": "2026-06-05 23:29:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京稱澤連斯基公開信粗魯無禮】今天（6月5日），俄羅斯總統普京在出席聖彼得堡經濟論壇全會時，對烏克蘭總統澤連斯基此前一天釋出的公開信做出回應稱，這一公開信是“粗魯無禮”的。普京還表示，現在與澤連斯基會面“沒有任何意義”。普京在評論澤連斯基的公開信時表示，既然烏克蘭方面將雙方的問題公開化，那麼俄方也要透露一些此前不公開的內容。普京說：“三週前有俄羅斯商業人士前往烏克蘭首都基輔會見了澤連斯基。該俄方人士在返回莫斯科後轉達了澤連斯基‘希望舉行會談’的願望，當天是5月21日。然而，當地時間5月22日凌晨，烏軍無人機便襲擊了盧甘斯克地區學院的宿舍樓。”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e9867-1a2e-7665-8308-5bf3b48e435b",
-      "time": "2026-06-05 23:29:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Shenzhen power load posts third record peak in nine days, reflecting robust economic activity】China Southern Power Grid’s Shenzhen Power Supply Bureau said at 12:24 on June 5 Shenzhen’s grid load reached 25.25 GW, the third record high in nine days (last Thursday to this Friday). The bureau cited an early onset of high temperatures, steady industrial production, rapid digital-economy expansion and sustained consumer demand as drivers pushing electricity demand above prior peaks."
-    },
-    {
-      "id": "4920159",
-      "time": "2026-06-05 23:28:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：黎巴嫩真主黨稱以色列軍方多次在博福爾城堡周邊發動襲擊。"
-    },
-    {
-      "id": "4920158",
-      "time": "2026-06-05 23:28:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 俄羅斯在減貧方面取得的成果早於預期，且成效超出原定目標。"
-    },
-    {
-      "id": "4920157",
-      "time": "2026-06-05 23:27:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 俄羅斯達成既定目標之時，烏克蘭境內的軍事行動便會結束。"
-    },
-    {
-      "id": "4920156",
-      "time": "2026-06-05 23:27:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳用電負荷九天三創歷史新高 折射經濟蓬勃發展】南方電網深圳供電局資料顯示，6月5日12點24分，深圳電網用電負荷達2525.03萬千瓦，這已是九天（上週四到本週五）第三次創下歷史新高。據瞭解，今年深圳高溫天氣前置，疊加工業生產穩中向好、數字經濟蓬勃發展、民生消費持續旺盛，多重因素共同推動電力負荷提前突破極值，由此帶動用電量穩步增長。（新華社）"
-    },
-    {
-      "id": "4920155",
-      "time": "2026-06-05 23:27:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯為保障經濟穩健發展，正主動引導經濟適度放緩。"
-    },
-    {
-      "id": "mkt:019e9864-ec66-7665-8308-51a96d1e2093",
-      "time": "2026-06-05 23:26:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Putin said Russia is deliberately slowing the economy to preserve its healthy development."
     }
   ]
 }
