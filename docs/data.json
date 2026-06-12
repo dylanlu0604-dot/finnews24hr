@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-13 01:50:42",
-  "count": 18449,
+  "updated": "2026-06-13 01:54:32",
+  "count": 18442,
   "items": [
+    {
+      "id": "mkt:019ebcf6-e7ab-7dd8-afe4-f31f026d69cc",
+      "time": "2026-06-13 01:52:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE: week to June 9, Brent crude speculative net longs fell by 43,609 contracts to 208,891. Gasoil (diesel) speculative net longs rose by 1,804 contracts to 53,804."
+    },
+    {
+      "id": "4933285",
+      "time": "2026-06-13 01:51:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "閃迪漲7.5%，創盤中歷史新高。"
+    },
+    {
+      "id": "4933284",
+      "time": "2026-06-13 01:50:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）：6月9日當週，投機者所持ICE 布倫特原油淨多頭頭寸減少43,609手合約，至208,891手合約，創21周新低。"
+    },
     {
       "id": "4933283",
       "time": "2026-06-13 01:48:14",
@@ -169779,95 +169807,6 @@
         "市場"
       ],
       "text": "洲際交易所（ICE）：6月2日當週，投機者所持ICE布倫特原油淨多頭頭寸減少26,220手合約，至252,500手合約，創最近18周新低。"
-    },
-    {
-      "id": "4920260",
-      "time": "2026-06-06 01:54:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國政企人工智慧合作這一構想頗具參考價值。"
-    },
-    {
-      "id": "mkt:019e98eb-bce2-7665-830b-3863c025acb5",
-      "time": "2026-06-06 01:54:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI"
-      ],
-      "text": "President Trump said people had expected oil prices to be higher."
-    },
-    {
-      "id": "4920259",
-      "time": "2026-06-06 01:54:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：各大頭部人工智慧企業代表將到訪白宮，時間大機率定在下週。"
-    },
-    {
-      "id": "4920258",
-      "time": "2026-06-06 01:53:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：近期將安排與人工智慧企業舉行會談。"
-    },
-    {
-      "id": "4920257",
-      "time": "2026-06-06 01:53:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：此前市場普遍認為原油桶價將會走高。"
-    },
-    {
-      "id": "mkt:019e98eb-0a86-7665-830b-31d44f25c610",
-      "time": "2026-06-06 01:53:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump reiterated that Iran will not have nuclear weapons."
-    },
-    {
-      "id": "mkt:019e98ea-753b-7665-830b-2b37d61888f5",
-      "time": "2026-06-06 01:52:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said on gasoline prices that we have many options."
-    },
-    {
-      "id": "mkt:019e98ea-3d84-7665-830b-2213e96872a9",
-      "time": "2026-06-06 01:52:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "U.S. President Trump said he would not mind whether Federal Reserve chair Kevin Warsh cuts interest rates."
-    },
-    {
-      "id": "4920256",
-      "time": "2026-06-06 01:51:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申伊朗不會擁有核武器。"
-    },
-    {
-      "id": "4920255",
-      "time": "2026-06-06 01:51:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及汽油價格：我們擁有大量替代能源方案。"
     }
   ]
 }
