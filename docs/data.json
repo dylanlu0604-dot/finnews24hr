@@ -1,7 +1,155 @@
 {
-  "updated": "2026-06-12 09:39:34",
-  "count": 18441,
+  "updated": "2026-06-12 09:43:38",
+  "count": 18444,
   "items": [
+    {
+      "id": "te:markets:558521",
+      "time": "2026-06-12 09:42:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Surge on Iran Deal Hopes — The benchmark KOSPI climbed more than 7% to around 8,310 on Friday, extending gains from the previous session as hopes for a US-Iran peace agreement sparked a broad risk-on rally across global markets. President Trump said the US was nearing a deal with Iran and had called off planned military strikes, fueling expectations of easing tensions in the Middle East. Falling oil prices further boosted sentiment as easing supply concerns helped curb inflation risks. Additional support came from strong gains in semiconductor stocks, with Samsung Electronics surging 12.0% and SK Hynix advancing 8.5% as investors returned to AI-linked chipmakers following a rebound in US technology shares. Other notable gainers included SK Square (7.8%), Hyundai Motor (5.9%), LG Energy Solution (5.7%), Kia Corporation (4.9%), Doosan Enerbility (5.6%), and Hanwha Aerospace (5.7%)."
+    },
+    {
+      "id": "4931569",
+      "time": "2026-06-12 09:42:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：伊朗比以往任何時候都更加強大，隨時準備對任何敵對侵略行為做出果斷且令人後悔的回應。"
+    },
+    {
+      "id": "4931568",
+      "time": "2026-06-12 09:41:48",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【有色·鋅概念持續走強，馳宏鋅鍺漲停】有色·鋅概念持續走強，馳宏鋅鍺漲停，株冶集團、鋅業股份、中色股份、中金嶺南、西部礦業、盛屯礦業等跟漲。"
+    },
+    {
+      "id": "mkt:019eb97e-144f-7dd8-afce-b712b1869235",
+      "time": "2026-06-12 09:41:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share glass and fiberglass sector active; International Composite rose more than 13%, with China Jushi, Honghe Technology, Sinoma Technology, Changhai and Kaisheng New Energy also advancing."
+    },
+    {
+      "id": "4931567",
+      "time": "2026-06-12 09:41:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.97%，成分股中，芯聯整合漲12.57%，盛美上海漲12.29%，中科飛測漲9.03%，晶合整合漲8.99%。"
+    },
+    {
+      "id": "4931566",
+      "time": "2026-06-12 09:41:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌5%，現報5383.00元。"
+    },
+    {
+      "id": "4931565",
+      "time": "2026-06-12 09:41:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4931564",
+      "time": "2026-06-12 09:40:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石板塊走強，黃河旋風觸及漲停】培育鑽石板塊走強，黃河旋風觸及漲停，惠豐鑽石漲超13%，國機精工、恆盛能源、四方達跟漲。"
+    },
+    {
+      "id": "mkt:019eb97d-341b-7dd8-afce-afd435fb84bc",
+      "time": "2026-06-12 09:40:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wuhan Optics Valley New Materials Industrial Park inaugurated】June 11 — Wuhan Optics Valley New Materials Industrial Park was inaugurated at Qingshan Chemical Park. The park will focus on Optics Valley’s strengths in optoelectronics information and life sciences, and will develop pilot-scale production platforms and upstream core chemical materials R&D and manufacturing bases. A construction service center (preparatory) is staffed, Wuhan Optics Valley New Materials Technology Development Co., Ltd. has been registered, and a \"management committee + company\" governance model is in place."
+    },
+    {
+      "id": "4931563",
+      "time": "2026-06-12 09:40:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天系概念持續走強，航天發展漲停】航天系概念持續走強，航天發展漲停，航天動力、航天機電、航天科技、航天長峰、航天電子、航天軟體等跟漲。"
+    },
+    {
+      "id": "4931562",
+      "time": "2026-06-12 09:40:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工業氣體概念盤初調整，中船特氣跌超10%】工業氣體概念盤初調整，中船特氣跌超10%，廣鋼氣體、金宏氣體、華特氣體、三孚股份、蜀道裝備跌幅居前。"
+    },
+    {
+      "id": "mkt:019eb97c-f2da-7dd8-afce-a356bbe7e34b",
+      "time": "2026-06-12 09:40:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-shares lab-grown diamond sector jumped at the open; Huifeng Diamond rose over 13% and Huanghe Xuanfeng gained over 9%, with Guoji Jinggong, Sifangda, Yingnuo Laser and Hengsheng Energy also higher. Media reported Huifeng Diamond's Baotou CVD production line is expected to begin production in early July."
+    },
+    {
+      "id": "4931561",
+      "time": "2026-06-12 09:40:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "長江和記<0001.HK>股價上漲2.5%。"
+    },
+    {
+      "id": "4931560",
+      "time": "2026-06-12 09:40:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢光谷新材料產業園揭牌成立】6月11日，武漢光谷新材料產業園在青山區化工園揭牌成立。產業園將聚焦光谷光電子資訊和生命健康兩大優勢產業，佈局建設產業中試平臺和上游核心化工材料研發製造基地。目前，光谷新材料產業園建設服務中心（籌）人員到位，武漢光谷新材料科技發展有限公司已註冊成立，基本建立了“管委會+公司”模式。"
+    },
+    {
+      "id": "4931559",
+      "time": "2026-06-12 09:39:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《置身釘內》作者回應長文引熱議】《置身釘內》作者、釘釘ONE專案產品經理在社交媒體上再次發文。 她表示，自己離職之際發帖，只是反覆反思下，覺得大組織興建AI的過程中，有很多共性的、系統性的問題，不限於釘釘，不限於阿里，不限於國內。在內部留言，最樸素的願望只是希望讀到的同事們，可以提前規避AI產品開發中可能遇到的問題，不要浪費寶貴時間，以及更關注具體的人。 對於《置身釘內》引發討論，她認為，首先是指出了AI開發的共同困境。這是一個不限於釘釘的共同困境，AI混沌震盪期，還在探索新產品形式，正是新老交替、青黃不接的時候。拋開情緒因素，很多ONE的探索不是沒有道理的，這方面或許可以幫一些朋友節約了一部分探索成本。"
+    },
+    {
+      "id": "te:economy:558520",
+      "time": "2026-06-12 09:39:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Foreign Direct Investment",
+        "Importance 0"
+      ],
+      "text": "FDI into the Philippines Rises in March — Net foreign direct investment (FDI) in the Philippines rose by 26.1% year-on-year to USD 611 million in March. The increase was driven by a 62.1% jump in net equity capital investments other than reinvestment of earnings, alongside a 26% rise in reinvested earnings and a 14.6% gain in net investments in debt instruments. Equity capital placements were largely sourced from Japan, the United States, and Singapore and were mainly directed toward the manufacturing, financial and insurance, and real estate sectors. Despite the annual gain, inflows were 4.2% lower than February’s USD 638 million. For the first quarter, net FDI inflows fell by 17% to USD 1.72 billion, as declines in debt instruments (-22.7%) and reinvested earnings (-17.9%) outweighed a 13.1% increase in equity capital investments. During the period, equity capital placements continued to be dominated by Japan, the US, and Singapore."
+    },
     {
       "id": "mkt:019eb97b-9730-7dd8-afce-986120e682ca",
       "time": "2026-06-12 09:39:04",
@@ -169910,133 +170058,6 @@
         "市場"
       ],
       "text": "【光纖概念板塊短線拉昇，鼎通科技漲超13%】光纖概念板塊短線拉昇，鼎通科技漲超13%，球冠電纜漲超12%，長光華芯、理工光科、長飛光纖、久之洋、亨通光電等跟漲。"
-    },
-    {
-      "id": "4918459",
-      "time": "2026-06-05 09:43:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：經濟與財政政策並非用以干預匯率。"
-    },
-    {
-      "id": "mkt:019e9572-6c87-766c-9542-ebcd462efac9",
-      "time": "2026-06-05 09:42:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's ambassador to US Xie Feng meets Biocom CEO to discuss U.S.-China biopharma SME cooperation】June 3, 2026 — China's ambassador to the United States Xie Feng met Scott, president and CEO of Biocom (California Life Sciences Association), and exchanged views on U.S.-China cooperation in the biopharmaceutical industry, with emphasis on collaboration among small and medium-sized enterprises."
-    },
-    {
-      "id": "4918458",
-      "time": "2026-06-05 09:42:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【謝鋒大使會見美國加州生命科學產業協會總裁兼執行長斯科特】2026年6月3日，中國駐美國大使謝鋒會見美國加州生命科學產業協會（Biocom）總裁兼執行長斯科特，雙方就中美生物醫藥產業特別是相關中小企業合作等交換意見。（中國駐美國大使館）"
-    },
-    {
-      "id": "4918457",
-      "time": "2026-06-05 09:42:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6G概念震盪拉昇 武漢凡谷漲停】6G概念震盪拉昇，武漢凡谷漲停，盛路通訊、中興通訊、創遠信科跟漲。"
-    },
-    {
-      "id": "4918456",
-      "time": "2026-06-05 09:41:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【超級電容板塊下挫，金時科技觸及跌停】超級電容板塊下挫，金時科技觸及跌停，元力股份、新築股份、宏達電子、風華高科、東方鉭業跟跌。"
-    },
-    {
-      "id": "mkt:019e9571-9468-766c-9542-e304492908ef",
-      "time": "2026-06-05 09:41:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share energy-storage sector opened weak: Yongguan New Materials and Jinshi Technology hit daily limit-downs, Zhongjing Electronics fell about 8%, while Hongxin Electronics and Shengquan Group also slid."
-    },
-    {
-      "id": "mkt:019e9571-867a-7cc8-bdf1-f1ae0d797b6d",
-      "time": "2026-06-05 09:41:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Windward says Iran's Kharg Island resumes crude loading】UK-based maritime analytics firm Windward said satellite images show Iran's Kharg Island has resumed crude loading. Images from June 2 show a VLCC berthed near the west offshore terminal — the first confirmed docking since the facility halted operations in early May after a suspected oil leak. On June 3 a VLCC at the west berth and a Panamax at the east T-shaped jetty were simultaneously loading; by June 4 the VLCC had completed loading and departed while the Panamax remained alongside. Windward said dual-terminal activity suggests Iran is actively restoring export capacity. The firm also reported sustained high activity by the Islamic Revolutionary Guard Corps (IRGC) small fast boats across the Strait of Hormuz, indicating continued elevated readiness to support Iranian-linked shipping."
-    },
-    {
-      "id": "4918455",
-      "time": "2026-06-05 09:41:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭板塊區域性走強 大有能源5連板】煤炭板塊區域性走強，大有能源5連板，安泰集團2連板，廣匯能源、寶泰隆、平煤股份跟漲。"
-    },
-    {
-      "id": "4918452",
-      "time": "2026-06-05 09:40:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【海事分析公司：伊朗哈爾克島恢復原油裝載作業】總部位於英國的海事分析公司溫沃德4日釋出報告說，衛星圖片顯示，伊朗重要石油出口樞紐哈爾克島已恢復裝載作業。報告說，6月2日獲取的衛星影象顯示，一艘超大型油輪停靠在哈爾克島西部海上終端碼頭附近。這是自5月初該設施因疑似石油洩漏停運以來，第一艘確認靠泊的船隻。6月3日，西部泊位的超大型油輪與東部T型碼頭的一艘巴拿馬型油輪同時進行裝載作業。至4日，超大型油輪已完成裝油並離港，巴拿馬型油輪仍停泊在碼頭。溫沃德公司表示，兩個終端同時恢復服務表明，伊朗在積極恢復原油出口能力。（新華社）"
-    },
-    {
-      "id": "4918451",
-      "time": "2026-06-05 09:40:02",
-      "tags": [
-        "國際",
-        "原創"
-      ],
-      "text": "【泰國尋求6月底前與美國達成貿易協議 目標關稅為10%】泰國正努力在6月底前與美國完成貿易談判。泰國商業部長素塔攀表示，泰國正尋求與美國達成互惠貿易協定，可能有助於將擬議的關稅稅率降低至10%。他表示，泰國仍有約25個懸而未決的問題需要解決，才能達成協議。政府將派遣貿易代表前往華盛頓，密切關注談判的最後階段。"
-    },
-    {
-      "id": "4918450",
-      "time": "2026-06-05 09:39:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量483億元。"
-    },
-    {
-      "id": "mkt:019e956f-cbc3-766c-9542-d5c31ee42dc3",
-      "time": "2026-06-05 09:39:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Retail cash yields snapshot: Licaitong, WeChat, Alipay】Licaitong (current + 7‑day annualized) ranged 0.7290%–1.2030%; WeChat Balance 7‑day annualized ranged 1.0010%–1.0340%; Alipay Yu'e Bao 7‑day annualized ranged 1.0000%–1.0430%."
-    },
-    {
-      "id": "mkt:019e956f-aa35-7cc8-bdf1-e434b5b4ab38",
-      "time": "2026-06-05 09:39:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China A-share gaming sector climbed; Zhongqingbao hit the 20% daily up-limit, with Caesar Culture, Glacier Network, Yaoji Technology and 37 Interactive Entertainment also rising."
     }
   ]
 }
