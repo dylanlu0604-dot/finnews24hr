@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-12 14:10:39",
-  "count": 18424,
+  "updated": "2026-06-12 14:14:27",
+  "count": 18422,
   "items": [
+    {
+      "id": "te:markets:558602",
+      "time": "2026-06-12 14:13:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Strong Open — European equity markets were poised for a sharp advance on Friday after President Donald Trump scrapped plans for further strikes on Iran and said a peace agreement could be signed as soon as this weekend in Europe. Trump also said the Strait of Hormuz would reopen once the deal is finalized and that Iran would commit to not pursuing a nuclear weapon. In Europe, data showed the UK's economy contracted 0.1% in April after expanding over the previous two months, as the effects of the Middle East conflict began to weigh on activity. Meanwhile, the European Central Bank raised interest rates on Thursday for the first time in nearly three years and signaled that restrictive policy is likely to remain in place through 2027. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were up 1.5% and 1.3%, respectively."
+    },
+    {
+      "id": "4931929",
+      "time": "2026-06-12 14:13:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：新加坡總理將於8月23日發表國慶群眾大會演講。"
+    },
+    {
+      "id": "te:economy:558601",
+      "time": "2026-06-12 14:13:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "UK Industrial Output Stalls in April — Industrial production in the UK stalled month-over-month in April 2026, missing market expectations for a 0.1% gain and following a 0.2% decline in the previous month. The flat reading reflected a sharp output drop in electricity, gas, steam and air-conditioning supply (-3.2% vs –4.3% in March), alongside lower activity in water supply, sewerage and waste management (-0.5% vs -1.6%). At the same time, production growth in the manufacturing sector slowed (0.4% vs 1.2%), driven largely by decreased output for transport equipment (-1.9% vs 2%) and electrical equipment (-5.5% vs 3.3%)."
+    },
+    {
+      "id": "4931928",
+      "time": "2026-06-12 14:13:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國能源部啟動國家級製造創新協作計劃，加速關鍵材料技術產業化】阿貢國家實驗室與美國能源部關鍵材料與能源創新辦公室（CMEI）聯合啟動“國家規模化科學協作計劃”，旨在加快關鍵材料和化工製造技術從科研成果向商業化生產轉化。該計劃將整合美國能源部、國家實驗室體系及企業資源，依託人工智慧、先進計算、快速合成和中試製造設施，幫助企業驗證並擴大新型生產工藝規模，提升美國關鍵礦產供應鏈和先進製造能力。"
+    },
+    {
+      "id": "4931927",
+      "time": "2026-06-12 14:13:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲2%，至8804點。"
+    },
+    {
+      "id": "4931926",
+      "time": "2026-06-12 14:12:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：第十二屆中拉基礎設施合作論壇在澳門舉行】6月10日至12日，由中國商務部主辦，中國對外承包工程商會和澳門招商投資促進局承辦的第十二屆中國—拉美和加勒比國家基礎設施合作論壇在澳門成功舉行。在論壇開幕式環節，商務部國際貿易談判代表兼副部長李成鋼代表中方影片致辭，蓋亞那公共工程部部長埃奇希爾代表拉方致辭。拉美和加勒比地區11個國家主管基礎設施合作的政府官員和領軍企業代表、有關國際組織代表，以及中國政府部門、金融機構、行業組織、智庫及企業代表共300餘人參加論壇活動。"
+    },
+    {
+      "id": "mkt:019eba75-6fc4-7dd8-afd4-952ba04a0ebf",
+      "time": "2026-06-12 14:11:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【UK April GDP down 0.1% MoM as Iran war weighs】ONS: UK GDP fell 0.1% MoM in April, matching economists' forecasts, with the Iran war damping activity. April weakness followed an outsized March rebound driven by consumer petrol stockpiling and manufacturers front‑loading production ahead of expected energy-price pressure. Three-month rolling GDP to April rose 0.7% versus the prior three months, also in line with forecasts. Since late February, attacks on energy infrastructure and a partial blockade of the Strait of Hormuz have driven oil prices sharply higher. The weak April print raises near-term political risk for Prime Minister Starmer ahead of next week's by-election, where an Andy Burnham victory could trigger a leadership challenge."
+    },
+    {
+      "id": "te:economy:558600",
+      "time": "2026-06-12 14:11:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Monthly GDP MoM",
+        "Importance 2"
+      ],
+      "text": "UK Economy Contracts in April — The GDP in the UK contracted by 0.1% month-on-month in April 2026, in line with market expectations and following a 0.3% expansion in March. This marked the first contraction since August last year, as services output declined 0.2%, with the largest negative contributors being administrative and support service activities, which fell 2.2%, and arts, entertainment and recreation (-4.3%). Wholesale and retail trade, including motor vehicle repair, declined 0.4%, as retail trade excluding motor vehicles and motorcycles fell 1.3%. Meanwhile, information and communication provided the largest positive contribution, rising 1.1% and marking its sixth consecutive monthly increase."
+    },
+    {
+      "id": "4931924",
+      "time": "2026-06-12 14:11:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Visa與OpenAI合作接入ChatGPT購物支付，探索AI代理參與交易新模式】Visa將與OpenAI合作，為使用者透過ChatGPT及相關AI代理完成的購物交易提供支付支援。根據合作安排，Visa將提供支付網路、安全基礎設施、支付憑證管理、授權和欺詐監測能力；AI代理發起交易仍需遵循使用者預設許可權，包括消費額度、審批門檻和其他限制。報道稱，該合作屬於Visa“Intelligent Commerce”計劃的一部分，顯示支付機構正加快為AI代理參與商品搜尋、購買決策和交易執行建立授權、身份識別和風險控制機制。"
+    },
+    {
+      "id": "4931923",
+      "time": "2026-06-12 14:11:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【非金屬材料板塊持續下挫，金戈新材跌超20%】非金屬材料板塊持續下挫，金戈新材跌超20%，天馬新材跌超10%，粵桂股份、石英股份、東方碳素、寧新新材、力量鑽石跟跌。"
+    },
     {
       "id": "te:economy:558599",
       "time": "2026-06-12 14:09:54",
@@ -13,6 +112,14 @@
         "Importance 1"
       ],
       "text": "UK Construction Output Falls Less than Expected — UK construction output dropped 1.0% year-on-year in April 2026, worsening from a 0.3% decline in the previous month and marking the sixth consecutive month of contraction. However, the drop was less severe than market expectations of a 1.7% decrease. New work continued to weigh on activity, falling at a faster pace (-4.8% vs. -4.4% in March), while growth in repair and maintenance eased to a four-month low of 4.4% from 5.7%. On a monthly basis, construction output edged up 0.1%, slowing sharply from a 1.5% increase in March and representing the weakest expansion since December. The softer performance reflected a 0.3% decline in new work and slower growth in repair and maintenance activity (0.6%). Despite the weak April reading, construction output rose 1.6% over the three months to April, pointing the second consecutive increase in the rolling three-month measure. Growth was supported by gains in both repair and maintenance activity (3.4%) and new work (0.3%)."
+    },
+    {
+      "id": "4931922",
+      "time": "2026-06-12 14:09:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Kimi將與一國有銀行發行AI原生信用卡】月之暗面Kimi正與一家大型國有銀行及國際卡組織進行接洽，三方將聯合推出新型信用卡產品。除支付與信貸傳統功能外，該卡將融合AI算力增值服務。據接近專案人士透露，該合作是三方在信用卡服務科技金融領域的共同探索，既有利於銀行精準服務科技企業及其科技使用者，對Kimi來說也是一次從大模型產品走向實體生活場景及支付領域的嘗試。 (科創板日報)"
     },
     {
       "id": "4931921",
@@ -169794,125 +169901,6 @@
         "Importance 1"
       ],
       "text": "Norway Manufacturing Output Falls 0.9% in April — Norway’s manufacturing production decreased by 0.9% month-over-month in April 2026, reversing a 2.0% rise in the previous month. Growth slowed in food, beverages, and tobacco (0.3% vs 1.0% in March), while several key industries returned to contraction, including fabricated metal products (-2.3% vs 1.6%), repair and installation of machinery (-2.5% vs 2.8%), computer and electrical equipment (-0.7% vs 2.0%), machinery and equipment (-1.6% vs 2.7%), ships, boats, and oil platforms (-0.7% vs 4.6%), and rubber, plastic, and mineral products (-0.2% vs 2.5%). On the other hand, output rebounded strongly for refined petroleum, chemicals, and pharmaceuticals (4.5% vs -1.9%) and basic metals (5.5% vs -0.1%)."
-    },
-    {
-      "id": "4918852",
-      "time": "2026-06-05 14:14:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：OLED膝上型電腦顯示面板需求預計到2033年將達到115億美元】Omdia最新研究顯示，膝上型電腦用OLED顯示面板出貨規模預計將在2033年增長至115億美元，約佔OLED顯示總收入的16.2%。2026年，膝上型電腦OLED顯示面板收入預計將達到40億美元，主要由蘋果MacBook Pro系列的需求推動。從2026年7月起，三星顯示將為蘋果MacBook Pro系列（14.3英寸和16.3英寸）供應OLED面板，相關裝置預計將在2026年第三季度釋出。"
-    },
-    {
-      "id": "mkt:019e966b-01f0-7ff7-b578-77c4d1fe7f25",
-      "time": "2026-06-05 14:14:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "BABA.N",
-        "Impact bullish",
-        "TCOM.O"
-      ],
-      "text": "【Fliggy: inbound bookings up 237% YoY in past two weeks】Online travel platform Fliggy said inbound travel bookings in the past two weeks rose 237% YoY. Source markets Malaysia, South Korea and Canada each recorded increases of more than threefold. Summer inbound hotspots include Shanghai, Guangzhou, Chengdu, Beijing and Xi'an."
-    },
-    {
-      "id": "4918851",
-      "time": "2026-06-05 14:13:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國政府將為煤電和煤炭專案提供資金支援】美國總統特朗普4日在白宮宣佈，美國政府將提供數億美元資金，支援本國燃煤發電廠擴大產能、改造升級，以及建設新的煤炭出口基礎設施。 美國能源部當天釋出公告說，將依據《國防生產法》向12個燃煤發電專案和一個煤炭海運出口碼頭專案提供高達5億美元的資金支援。這些專案旨在提升美國煤炭開採價值鏈、保障基本負荷發電的可靠性，以及增強關鍵能源基礎設施韌性。公告顯示，位於加利福尼亞州奧克蘭的出口終端設施每年可以處理超過1000萬噸的大宗商品。 能源部當天還宣佈，將提供3.5億美元資金支援4個選定的煤炭現代化和可靠性專案，以加強燃煤發電能力、提升電網可靠性、強化戰略效能源基礎設施。這些專案包括在阿拉斯加州和西弗吉尼亞州分別新建一個煤電廠、升級改造位於波多黎各瓜亞馬的一個煤電廠，以及重啟位於馬里蘭州、已於2024年停運的一個煤電廠。 特朗普再次當選總統後繼續採取支援煤炭行業發展的政策，上任以來簽署了多項旨在擴大煤炭開採和燃煤發電能力的行政令。(新華社)"
-    },
-    {
-      "id": "te:economy:556745",
-      "time": "2026-06-05 14:13:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "House Price Index YoY",
-        "Importance 2"
-      ],
-      "text": "UK House Prices Rise Less Than Expected: Halifax — The Halifax House Price Index showed UK house prices rose 0.5% year-on-year in May 2026, below the expected 1.0% increase and following a 0.4% gain in April. The average UK house price stood at £298,806. On a monthly basis, prices fell 0.1%, matching the decline recorded in April and contrasting with forecasts of a 0.1% increase. Amanda Bryden, Head of Mortgages at Halifax, noted that uncertainty surrounding developments in the Middle East and higher inflation expectations have kept borrowing costs elevated despite recent mortgage rate cuts, weighing on affordability and demand. Still, housing market activity has remained resilient, with transaction levels holding relatively steady. Regionally, Northern Ireland recorded the strongest annual house price growth at 7.8%, followed by Scotland (3.8%), the North East (3.1%), and the North West (3.0%). By contrast, prices fell in the South East (-2.1%) and London (-1.5%)."
-    },
-    {
-      "id": "4918850",
-      "time": "2026-06-05 14:13:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.7%，報8625.10點。"
-    },
-    {
-      "id": "4918849",
-      "time": "2026-06-05 14:12:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國警方調查Polymarket 預測平臺亞洲擴張遭遇阻力】韓國警方已對當地Polymarket使用者涉嫌非法賭博展開調查，這家預測市場平臺在擴大亞洲業務的同時面臨日益嚴格的監管審查。據江原道地方警察廳網路調查科透露，該部門近期應韓國國家警察廳的要求啟動了這項調查。調查科表示，調查針對的是韓國國內Polymarket使用者，而非平臺本身。"
-    },
-    {
-      "id": "4918848",
-      "time": "2026-06-05 14:12:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東6000多萬畝小麥開始大面積收穫】記者從山東省人民政府新聞辦公室5日上午召開的新聞釋出會上獲悉，目前，山東6000多萬畝小麥正從南到北、由西向東陸續開鐮，進入大面積收穫階段。據介紹，山東小麥種植面積常年穩定在6000萬畝以上，位居全國第二；小麥產量約佔山東全年糧食總產量的一半。（新華社）"
-    },
-    {
-      "id": "4918847",
-      "time": "2026-06-05 14:12:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌3%，現報1004.00元。"
-    },
-    {
-      "id": "mkt:019e9669-7afe-7ff7-b578-6c52e9e22ca0",
-      "time": "2026-06-05 14:12:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korean police probe Polymarket users as Asian expansion meets regulatory headwinds】South Korean police have opened a probe into Polymarket users suspected of illegal gambling, the Gangwon Provincial Police Department cyber investigation unit said, acting on a request from the National Police Agency. The unit said the investigation targets domestic users rather than the prediction-market platform itself, underscoring growing regulatory scrutiny as Polymarket expands in Asia."
-    },
-    {
-      "id": "4918846",
-      "time": "2026-06-05 14:12:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守72美元/盎司，日內跌2.55%。"
-    },
-    {
-      "id": "4918845",
-      "time": "2026-06-05 14:12:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌2%，現報4755.00元。"
-    },
-    {
-      "id": "4918844",
-      "time": "2026-06-05 14:11:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量2417億元。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606053761863820",
-      "time": "2026-06-05 14:11:39",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲內部分歧加劇：抗通脹為首要任務 年內加息重回政策選項】近日，多位美聯儲官員相繼發表講話。儘管官員們普遍認同將通脹恢復至2%目標是首要任務，但在利率路徑判斷、風險側重及政策溝通策略上呈現出顯著差異，反映出央行在應對能源衝擊、人工智慧投資熱潮及財政可持續性等多重變數時的審慎與博弈。"
     }
   ]
 }
