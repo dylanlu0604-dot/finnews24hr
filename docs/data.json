@@ -1,7 +1,323 @@
 {
-  "updated": "2026-06-12 21:57:10",
-  "count": 18498,
+  "updated": "2026-06-12 22:01:24",
+  "count": 18493,
   "items": [
+    {
+      "id": "4933040",
+      "time": "2026-06-12 22:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "密歇根州5-10年通脹預期降至3.4%；此前估計為3.8%。"
+    },
+    {
+      "id": "mkt:019ebc22-2a09-7dd8-afe0-688cf421e87b",
+      "time": "2026-06-12 22:00:15",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US 5- to 10-year inflation expectations initial reading for June 3.4% (consensus 3.9%), down from 3.90% previously."
+    },
+    {
+      "id": "mkt:019ebc22-24f7-7dd8-afe0-6685a5bc0360",
+      "time": "2026-06-12 22:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. one-year inflation expectations for June (preliminary) 4.6% vs. 4.9% expected, prior 4.80%."
+    },
+    {
+      "id": "mkt:019ebc22-19ab-7dd8-afe0-5d5f6265f679",
+      "time": "2026-06-12 22:00:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "US June University of Michigan Current Conditions Index preliminary 48.4, est. 46.2, prior 45.8."
+    },
+    {
+      "id": "mkt:019ebc22-1973-7dd8-afe0-507e7fb7834b",
+      "time": "2026-06-12 22:00:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. June University of Michigan consumer expectations index (prelim) 49.3, consensus 44.3, prior 44.1."
+    },
+    {
+      "id": "4933039",
+      "time": "2026-06-12 22:00:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "密歇根大學6月消費者信心指數初值升至48.9；預期值為46。"
+    },
+    {
+      "id": "mkt:019ebc22-0c11-7dd8-afe0-49c02736b1e3",
+      "time": "2026-06-12 22:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. University of Michigan preliminary consumer sentiment for June 48.9; consensus 46; prior 44.8."
+    },
+    {
+      "id": "mkt:019ebc21-f1eb-7dd8-afe0-473688f93f33",
+      "time": "2026-06-12 22:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Five Years (Jun) | actual 3.4% | consensus 3.9% | previous 3.90%"
+    },
+    {
+      "id": "mkt:019ebc21-f070-7dd8-afe0-3e91ad3bb46b",
+      "time": "2026-06-12 22:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Year (Jun) | actual 4.6% | consensus 4.9% | previous 4.80%"
+    },
+    {
+      "id": "4933038",
+      "time": "2026-06-12 22:00:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員就伊朗協議表態：伊朗不得資助恐怖組織。"
+    },
+    {
+      "id": "mkt:019ebc21-ed7a-7dd8-afe0-336d8f965336",
+      "time": "2026-06-12 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Current Conditions Index Flash (Jun) | actual 48.4 | consensus 46.2 | previous 45.8"
+    },
+    {
+      "id": "mkt:019ebc21-ed27-7dd8-afe0-2fc3d754da3c",
+      "time": "2026-06-12 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Expectations Index Flash (Jun) | actual 49.3 | consensus 44.3 | previous 44.1"
+    },
+    {
+      "id": "mkt:019ebc21-ed19-7dd8-afe0-209a8d7b5ad6",
+      "time": "2026-06-12 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Sentiment Index Flash (Jun) | actual 48.9 | consensus 46 | previous 44.8"
+    },
+    {
+      "id": "4933037",
+      "time": "2026-06-12 21:59:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX交易即將啟動 開盤有望大漲逾25%】圍繞SpaceX股票的狂熱已在週五拉開帷幕，據顯示，該股開盤價預計在每股171美元左右，較135美元的IPO定價上漲約27%。由於交易所需要收集買賣訂單，且承銷商會推遲交易直至供需平衡，股票交易預計要到交易日中途才會開始。Mergermarket全球股權資本市場主管塞繆爾·克爾表示：“鑑於此次交易的熱度，我們預計SpaceX開盤將立即飆升，漲幅或許超過20%。如果漲幅低於這個水平，我反而會感到不安。”"
+    },
+    {
+      "id": "4933036",
+      "time": "2026-06-12 21:59:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普12日在社交媒體發文稱，伊朗此前對“駛離霍爾木茲海峽的印度船隻”發動無人機襲擊，完全不可接受。 同為12日，印度外交部召見美國駐印度大使館臨時代辦，就美軍近日多次在阿曼灣攻擊載有印度籍船員的油輪並導致3名印度船員死亡提出抗議。（新華社）"
+    },
+    {
+      "id": "mkt:019ebc21-7b45-7dd8-afe0-1f4c5536c7fd",
+      "time": "2026-06-12 21:59:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said the Iran deal would bar Iran from funding terrorist organizations."
+    },
+    {
+      "id": "mkt:019ebc21-5013-7dd8-afe0-15985766eca7",
+      "time": "2026-06-12 21:59:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX trading to start; opening likely to jump over 25%】SpaceX is expected to open around $171, roughly 27% above the $135 IPO price. Exchanges will collect orders and underwriters may delay listing until buy and sell interest balances, so trading could begin only mid-session. Mergermarket global equity capital markets head Samuel Kerr said the stock is likely to surge at the open, potentially rising more than 20%, and that a smaller opening move would be surprising."
+    },
+    {
+      "id": "4933035",
+      "time": "2026-06-12 21:58:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員就伊朗協議表態：霍爾木茲海峽航道保持暢通。"
+    },
+    {
+      "id": "4933034",
+      "time": "2026-06-12 21:58:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破87美元/桶，日內跌0.81%。"
+    },
+    {
+      "id": "mkt:019ebc20-adb3-7dd8-afe0-0d526e301197",
+      "time": "2026-06-12 21:58:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ECB Governing Council member KAZIMIR said a surge in energy prices feeding into core inflation is dangerous."
+    },
+    {
+      "id": "4933033",
+      "time": "2026-06-12 21:58:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員：加息任務尚未完成。"
+    },
+    {
+      "id": "4933032",
+      "time": "2026-06-12 21:58:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩真主黨：部隊對巴拉特穆斯塔哈德陣地實施火箭彈襲擊。"
+    },
+    {
+      "id": "mkt:019ebc1f-eb2b-7dd8-afe0-073ad634ab66",
+      "time": "2026-06-12 21:57:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Executive Board member Kazimir said markets have well understood the ECB's new advantageous position."
+    },
+    {
+      "id": "4933031",
+      "time": "2026-06-12 21:57:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員：不排除政策轉向收緊的可能。"
+    },
+    {
+      "id": "4933030",
+      "time": "2026-06-12 21:57:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員：市場已充分理解歐洲央行當前的政策立場。"
+    },
+    {
+      "id": "4933029",
+      "time": "2026-06-12 21:57:24",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "歐洲央行官員：能源價格上漲正向核心通脹傳導，形勢堪憂。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606123770190237",
+      "time": "2026-06-12 21:57:24",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委卡茲米爾：加息任務尚未完成】歐洲央行管委卡茲米爾稱，加息任務尚未完成，經濟足夠強韌，能夠消化更高利率。"
+    },
+    {
+      "id": "4933028",
+      "time": "2026-06-12 21:57:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員：第二輪通脹效應隱現，且終將顯現。"
+    },
+    {
+      "id": "4933027",
+      "time": "2026-06-12 21:56:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員：經濟具備足夠韌性，可承受更高利率，"
+    },
+    {
+      "id": "mkt:019ebc1f-1d99-7dd8-afdf-ff8133536bdc",
+      "time": "2026-06-12 21:56:56",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Kazimir said the economy is sufficiently resilient to absorb higher interest rates."
+    },
+    {
+      "id": "mkt:019ebc1e-f2e1-7dd8-afdf-f7a1c9181d05",
+      "time": "2026-06-12 21:56:45",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Kazimir says the rate-hike task is not yet complete."
+    },
     {
       "id": "4933026",
       "time": "2026-06-12 21:56:18",
@@ -170037,364 +170353,6 @@
         "市場"
       ],
       "text": "WTI原油日內跌2%，現報91.18美元/桶。"
-    },
-    {
-      "id": "mkt:019e9816-b4f5-7fff-a933-8403a3a2fb9e",
-      "time": "2026-06-05 22:01:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot platinum falls more than 3% to $1,840.41/oz."
-    },
-    {
-      "id": "4920012",
-      "time": "2026-06-05 22:01:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黃仁勳抵達韓國 在首爾烤肉店與韓企眾掌門共進晚餐】英偉達執行長（CEO）黃仁勳6月5日晚在首爾麻浦區弘大入口站附近的一家韓式烤肉店與韓國SK集團會長崔泰源、LG集團會長具光謨、NAVER董事會主席李海珍共進晚餐。 黃仁勳與韓國大企業掌門的此次會面引發坊間熱議，成為其此次訪韓的最大焦點。當晚7時10分許，黃仁勳抵達弘大入口站附近的燒烤店。在此前的6點52分許，具光謨率先抵達，之後崔泰源、李海珍先後到場。當晚的菜品為烤五花肉與韓國燒酒。"
-    },
-    {
-      "id": "mkt:019e9816-5af7-7fff-a933-7c0fd92de80d",
-      "time": "2026-06-05 22:00:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "French presidency says President Macron, German Chancellor Merz and UK Prime Minister Starmer will meet Ukrainian President Zelenskiy in London."
-    },
-    {
-      "id": "mkt:019e9816-1d7f-7fff-a933-748553011916",
-      "time": "2026-06-05 22:00:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The French presidency says President Macron will meet German Chancellor Merz and UK Prime Minister Starmer in London on June 7."
-    },
-    {
-      "id": "4920011",
-      "time": "2026-06-05 22:00:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛麗捨宮：馬克龍、默茨、斯塔默也將在倫敦與澤連斯基會談。"
-    },
-    {
-      "id": "4920010",
-      "time": "2026-06-05 22:00:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4390美元/盎司，日內跌2.56%。"
-    },
-    {
-      "id": "4920009",
-      "time": "2026-06-05 22:00:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛麗捨宮宣告：法國總統馬克龍將於6月7日在倫敦與德國的默茨、英國的斯塔默會晤。"
-    },
-    {
-      "id": "te:markets:556935",
-      "time": "2026-06-05 22:00:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Hits 7-week Low — AUDUSD decreased to 0.71, the lowest since April 2026. Over the past 4 weeks, Australian Dollar US Dollar lost 2.13%, and in the last 12 months, it increased 9.12%."
-    },
-    {
-      "id": "mkt:019e9815-9d40-7fff-a933-68503be58786",
-      "time": "2026-06-05 22:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada Ivey PMI (unadjusted) 61.3 in May, versus 61.5 previously."
-    },
-    {
-      "id": "mkt:019e9815-9aa3-7fff-a933-644307697384",
-      "time": "2026-06-05 22:00:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada May Ivey seasonally adjusted PMI 58.2, prior 57.7."
-    },
-    {
-      "id": "mkt:019e9815-9962-7fff-a933-58bd0d3b4707",
-      "time": "2026-06-05 22:00:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Spot silver falls below $70/oz; spot gold drops more than $100 intraday】Spot silver slipped below $70/oz for the first time since April 7, down 5.4% intraday. Spot gold fell more than $100 intraday to $4,375.35/oz, off 2.24%."
-    },
-    {
-      "id": "4920008",
-      "time": "2026-06-05 22:00:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4370美元/盎司，日內跌2.42%。"
-    },
-    {
-      "id": "mkt:019e9815-6b59-7fff-a933-4e0deb9a1e54",
-      "time": "2026-06-05 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Ivey PMI SA (May) | actual 58.2 | previous 57.7"
-    },
-    {
-      "id": "mkt:019e9815-6b5b-7fff-a933-55adf7e5e606",
-      "time": "2026-06-05 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Ivey PMI NSA (May) | actual 61.3 | previous 61.5"
-    },
-    {
-      "id": "te:markets:556934",
-      "time": "2026-06-05 21:59:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Gold Hits 10-week Low — Gold decreased to 4366.00 USD/t.oz, the lowest since March 2026. Over the past 4 weeks, Gold lost 6.79%, and in the last 12 months, it increased 32.05%."
-    },
-    {
-      "id": "4920007",
-      "time": "2026-06-05 21:59:46",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【更換首席汽車分析師後，摩根大通對特斯拉轉為看漲】在更換了首席汽車分析師後，摩根大通對特斯拉的看法轉為看漲。摩根大通近期將拉賈特·古普塔任命為汽車分析師，古普塔將特斯拉股價目標上調至475美元，並將該股評級上調至“持有”級別。前汽車分析師瑞安·布林克曼自2015年起就建議出售該股票，並預計到年底價格將跌至145美元。古普塔曾在布林克曼手下工作，他在週五發表的一份報告中強調了特斯拉“獨特的垂直整合優勢”，並稱這一優勢“目前仍被低估和誤解”。"
-    },
-    {
-      "id": "4920006",
-      "time": "2026-06-05 21:59:45",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "原創"
-      ],
-      "text": "【6月5日增減持彙總】據不完全統計，6月5日盤後，贊宇科技披露增持情況，包括星辰科技、線上線下、大族鐳射、菲林格爾、江波龍、德宏股份、伯特利、貴州燃氣、天洋新材、億聯網路、國光股份、永杉鋰業在內的12家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "te:economy:556933",
-      "time": "2026-06-05 21:59:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Slightly Up on Rate Hike Bets, Political Uncertainty — UK 10-year gilt yields rose back above 4.9%, following US Treasury yields higher after stronger-than-expected US jobs data reinforced expectations of tighter Federal Reserve monetary policy. Nonfarm payrolls surged by 172,000 in May, easily exceeding the expected 85,000, leading markets to fully price in a Fed rate hike by year-end. Investors also processed political developments as Greater Manchester Mayor Andy Burnham announced his intention to challenge Keir Starmer for the UK prime minister role, marking the first time he has confirmed such ambitions. Starmer responded by stating he would not step down. Burnham’s leadership bid hinges on winning the June 18 Makerfield by-election, which would secure him a parliamentary seat and eligibility to contest the leadership. On monetary policy, markets anticipate nearly two Bank of England rate hikes this year, with the first likely in September."
-    },
-    {
-      "id": "4920005",
-      "time": "2026-06-05 21:59:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜低軌衛星計劃 6 月 17 日早 7 時 53 分執行歐洲 3 號低軌衛星發射任務。"
-    },
-    {
-      "id": "4920004",
-      "time": "2026-06-05 21:59:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌5%，現報16880.00元。"
-    },
-    {
-      "id": "4920003",
-      "time": "2026-06-05 21:59:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4400美元/盎司，日內跌2.35%。"
-    },
-    {
-      "id": "4920002",
-      "time": "2026-06-05 21:59:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局（USGS）：太平洋 - 南極海嶺發生 5.3 級地震。"
-    },
-    {
-      "id": "4920001",
-      "time": "2026-06-05 21:59:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "房地美轉跌。"
-    },
-    {
-      "id": "mkt:019e9814-8576-7fff-a933-43a9dac8a218",
-      "time": "2026-06-05 21:58:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "【After replacing head auto analyst, JP Morgan turns bullish on Tesla】JP Morgan appointed Rajat Gupta head auto analyst and raised his Tesla price target to $475, upgrading the stock to Hold in a Friday research note. His predecessor, Ryan Brinkman, had recommended selling the shares since 2015 and projected a year‑end target of $145. Gupta, who previously worked under Brinkman, said Tesla’s “unique vertical integration advantage” remains “underestimated and misunderstood.”"
-    },
-    {
-      "id": "4920000",
-      "time": "2026-06-05 21:58:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜柯伊伯專案計劃下一輪發射任務將部署 36 顆衛星。"
-    },
-    {
-      "id": "mkt:019e9814-5e1c-7fff-a933-388da8ce5e21",
-      "time": "2026-06-05 21:58:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Precious Metals",
-        "Copper",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "LME copper fell 2.00% intraday to $13,620.30/tonne. Shanghai gold main contract dropped 2.00% intraday to 958.50 yuan/gram."
-    },
-    {
-      "id": "te:markets:556932",
-      "time": "2026-06-05 21:58:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Newmont Mining Stock Price Hits 9-week Low — Newmont Mining shares decreased to 103.52 USD, the lowest since March 2026. Over the past 4 weeks, Newmont Mining lost 4.93%, and in the last 12 months, it increased 90.13%."
-    },
-    {
-      "id": "mkt:019e9814-2fd6-7fff-a933-353c306f9ad0",
-      "time": "2026-06-05 21:58:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "LME three-month tin fell 5% to $53,000/tonne."
-    },
-    {
-      "id": "4919999",
-      "time": "2026-06-05 21:58:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守70美元/盎司，日內跌5.37%。"
-    },
-    {
-      "id": "4919998",
-      "time": "2026-06-05 21:58:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "法國巴黎銀行預判美聯儲將三次加息，首次加息落地於12月。"
-    },
-    {
-      "id": "mkt:019e9813-a3c6-7fff-a933-2895742fd7bd",
-      "time": "2026-06-05 21:58:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "BNP Paribas SA expects the Fed to raise rates three times beginning in December."
-    },
-    {
-      "id": "4919997",
-      "time": "2026-06-05 21:57:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所（LME）三個月期錫下跌5%，至每噸53,000美元。"
-    },
-    {
-      "id": "4919996",
-      "time": "2026-06-05 21:57:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度方面訊息：國有燃料零售商每銷售一罐14.2公斤裝液化石油氣，營收損失約為700盧比。"
-    },
-    {
-      "id": "mkt:019e9813-36de-7fff-a933-22b45c720d15",
-      "time": "2026-06-05 21:57:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "According to Arab sources, Iraq told the US it did not pay Iran any fees to allow tankers to transit the Strait of Hormuz."
-    },
-    {
-      "id": "te:markets:556931",
-      "time": "2026-06-05 21:57:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Silver traded below 70 USD/t.oz — Silver decreased below 70, according to trading on a contract for difference (CFD)."
-    },
-    {
-      "id": "4919995",
-      "time": "2026-06-05 21:57:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度方面訊息：國營燃油零售商每升汽油銷售收入虧損9盧比，每升柴油虧損36.5盧比。"
     }
   ]
 }
