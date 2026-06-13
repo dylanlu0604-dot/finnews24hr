@@ -1,7 +1,168 @@
 {
-  "updated": "2026-06-13 09:04:55",
-  "count": 18416,
+  "updated": "2026-06-13 09:30:39",
+  "count": 18422,
   "items": [
+    {
+      "id": "4933562",
+      "time": "2026-06-13 09:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技：Anthropic所有其他模型均未受影響。"
+    },
+    {
+      "id": "mkt:019ebe99-2dd2-7dd8-afe7-decc76a0d43c",
+      "time": "2026-06-13 09:29:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump says U.S. strike killed 'Aragua Train' leader Ninio Guerrero】On the 12th local time, U.S. President Trump posted on Truth Social that U.S. Southern Command conducted a military strike that killed the 'Aragua Train' group's leader Ninio Guerrero. In February 2025 the Trump administration designated Venezuela's 'Aragua Train' and other criminal groups as global terrorist organizations."
+    },
+    {
+      "id": "4933561",
+      "time": "2026-06-13 09:29:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技（AWS）：Anthropic已要求我們撤銷所有區域所有使用者對Claude Fable 5和Claude Mythos 5的訪問許可權。"
+    },
+    {
+      "id": "4933560",
+      "time": "2026-06-13 09:25:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國禁止外國主體訪問Fable 5和Mythos 5，Anthropic髮長文駁斥】Anthropic釋出宣告稱，美國政府以國家安全權力為由，釋出了一項出口管制指令，要求暫停任何外國主體對人工智慧模型Fable 5 和Mythos 5的所有訪問許可權，無論該人員是否在美國境內，包括屬於外國公民的Anthropic員工。該命令的實際效果是，我們必須立即為所有客戶禁用Fable 5和Mythos 5，以確保合規。所有其他Anthropic模型的訪問將不受影響。我們於今天下午5點21分（美國東部時間）收到了政府的指令。該信函未說明其國家安全關切的具體細節。我們的理解是，政府認為其已獲悉一種繞過或“越獄”Fable 5的方法。迄今為止，政府僅向我們提供了口頭證據，證明存在一種潛在的狹窄、非通用越獄，本質上是透過要求模型讀取特定的程式碼庫並修復任何軟體缺陷。我們正在遵守政府的合法指令，並正在移除所有使用者對 Fable 5 和 Mythos 5 的訪問許可權。但是，我們不同意“某個狹窄的潛在越獄漏洞就應成為召回已部署給數億使用者的商業模型的原因”這一結論。"
+    },
+    {
+      "id": "mkt:019ebe94-5a07-7dd8-afe7-d54d53f0441b",
+      "time": "2026-06-13 09:24:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US bars foreign-person access to Fable 5 and Mythos 5; Anthropic to disable access】The US government issued an export-control order under national security authority requiring immediate suspension of any foreign-person access to Anthropic’s Fable 5 and Mythos 5, regardless of physical location, including foreign Anthropic employees, Anthropic said. The company said it received the order at 5:21pm ET and must disable customer access to Fable 5 and Mythos 5 immediately; access to all other Anthropic models remains unaffected. Anthropic said the government’s letter gave no written details and has only provided oral evidence alleging a potential narrow, non-general jailbreak method — essentially prompting the model to read a specific codebase and fix software defects. Anthropic said it will comply with the legal order but disputes that a narrow potential jailbreak justifies recalling models already deployed to hundreds of millions of users."
+    },
+    {
+      "id": "4933559",
+      "time": "2026-06-13 09:23:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【因未獲簽證 巴勒斯坦足協主席無法入境美國】據美國方面12日訊息，因尚未獲得美國簽證，巴勒斯坦足協主席賈布里勒·拉朱卜無法出席美國境內的2026年世界盃相關活動。（央視新聞）"
+    },
+    {
+      "id": "4933557",
+      "time": "2026-06-13 09:20:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧現身洛杉磯，現場為征戰世界盃的美國隊對陣巴拉圭隊的比賽助威。"
+    },
+    {
+      "id": "4933556",
+      "time": "2026-06-13 09:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【增進政治互信和軍事合作 營造安全穩定的外部環境 中哈吉俄塔開展新一輪邊境裁軍履約視察】6月9日至11日，由哈薩克、吉爾吉斯斯坦、俄羅斯、塔吉克組成的聯方軍事視察組，在中哈邊界西段進行邊境裁軍履約視察。這是中聯雙方開展的新一輪邊境裁軍履約視察。 9日上午，在中方人員陪同下，聯方軍事視察組一行9人從霍爾果斯口岸入境，乘車前往新疆軍區某團開展視察。 在當日下午舉行的預備會議上，新疆軍區某團相關負責人就所屬人員編制、裝備型號、營區分佈等事項進行了詳細介紹。 聽取情況介紹後，聯方視察組對營區多個綜合庫室進行了現地視察，並對中方履約工作情況給予了充分肯定。 返回會議室後，聯方視察組組長、哈薩克國防部薩德瓦卡索夫中校簽署了視察報告。他表示：“中方同事們展現了專業、開放、認真的工作精神。我們將繼續依據‘兩個協定’要求，共同維護邊境地區安全穩定，認真履行使命責任。” 視察活動期間，中聯雙方還透過座談交流、相互參觀邊境城市等方式，持續深化軍事互信、增進彼此友誼。 送別聯方視察組，中方陪同組組長高亞東告訴記者：“此次邊境裁軍履約視察，中方始終秉持軍事透明、增進互信、平等安全的原則，嚴格履行了協定規定的各項義務，全程協同配合聯方視察組開展工作，確保了視察活動平穩有序。” 據悉，由中方9人組成的視察組正在積極準備，計劃於6月15日經霍爾果斯口岸進入哈薩克，對哈方瓊扎地區萊姆別克邊防分局進行邊境裁軍履約視察。（國防部發布）"
+    },
+    {
+      "id": "4933555",
+      "time": "2026-06-13 09:15:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普12日說，美軍打死委內瑞拉黑幫團伙“阿拉瓜火車”組織頭目。（新華社）"
+    },
+    {
+      "id": "4933552",
+      "time": "2026-06-13 09:12:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一名黎巴嫩官方訊息人士表示，與以色列代表的第五輪談判將於6月22日在華盛頓舉行。"
+    },
+    {
+      "id": "mkt:019ebe89-4d1a-7dd8-afe7-c8331ca91803",
+      "time": "2026-06-13 09:12:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported a Lebanese official said the fifth round of talks with Israeli representatives will be held in Washington on June 22."
+    },
+    {
+      "id": "4933551",
+      "time": "2026-06-13 09:11:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧沿海船舶定線制釋出 8月15日起實施】記者從交通運輸部海事局瞭解到，《遼寧沿海船舶定線制》正式釋出，今年8月15日起實施，遼寧成為全國首個在沿海海域實現全域船舶定線制的省份。（央視新聞）"
+    },
+    {
+      "id": "4933550",
+      "time": "2026-06-13 09:11:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京說俄已有類似星鏈的衛星系統】俄羅斯總統普京6月12日在與軍方官員會晤時表示，俄羅斯正在開發一套基於衛星的作戰無人機控制系統。普京在介紹時提到了“1440局”——這家俄羅斯航空航天企業正在研發用於全球寬頻資料傳輸的低地球軌道衛星系統。普京表示，俄羅斯的近地軌道衛星系統“絲毫不遜色於美國的‘星鏈’”，甚至在某些方面可能“更勝一籌”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4933549",
+      "time": "2026-06-13 09:08:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普在真實社交上發帖稱打擊了阿拉瓜販毒集團頭目】特朗普：遵照我的指令，美國南方司令部發動精準且強力的軍事打擊，成功擊斃全球最為殘暴的恐怖組織之一 —— 阿拉瓜列車團伙的頭目尼尼奧・格雷羅。在我重新執政之前，喬・拜登放任數百萬不法分子湧入美國南部邊境，任由這股境外勢力殺害美國民眾，卻始終逍遙法外。競選期間，我承諾將這些惡徒驅逐出境，為遇害者及其家屬討回公道，其中包括年僅 12 歲的喬斯林・農加拉伊、22 歲的萊肯・賴利，以及無數無辜遇難者。此次行動，美軍為逝者、他們的家人與親友完成了復仇。本屆政府上任初期，我便兌現承諾，將阿拉瓜列車團伙列為境外恐怖組織，遣送數千名作惡之徒，並向各大販毒集團宣戰。這些販毒集團長期殘害美國民眾，而此前軟弱的領導層卻讓美國陷入被動、無力反擊。本次行動已與委內瑞拉我方盟友密切協同，雙方合作進展順利。自此，阿拉瓜列車團伙的恐怖分子在委內瑞拉乃至全球各地都再無容身之地。在我的領導下，我們將隨時隨地追查這些兇殘的殺手與毒梟，把他們打入萬劫不復之地。"
+    },
+    {
+      "id": "mkt:019ebe84-f31e-7dd8-afe7-c46f3943f662",
+      "time": "2026-06-13 09:07:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the action was conducted in close coordination with Venezuelan counterparts and that cooperation has proceeded very smoothly."
+    },
+    {
+      "id": "mkt:019ebe84-cedf-7dd8-afe7-bc139d9ec444",
+      "time": "2026-06-13 09:07:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Biden has opened the U.S. southern border to millions of illegal criminals, allowing them to rape, maim and murder U.S. citizens with impunity before he returns to the White House."
+    },
+    {
+      "id": "mkt:019ebe83-b74d-7dd8-afe7-b425db797649",
+      "time": "2026-06-13 09:06:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP said a US Southern Command strike he ordered killed Niño Guerrero, the notorious leader of the Tren de Aragua, which he described as one of the world's most brutal terrorist groups."
+    },
+    {
+      "id": "4933548",
+      "time": "2026-06-13 09:05:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這一行動是我們與委內瑞拉的盟友密切協調展開的。"
+    },
+    {
+      "id": "4933547",
+      "time": "2026-06-13 09:05:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普稱，美國軍方對阿拉瓜販毒集團頭目發動了打擊。"
+    },
     {
       "id": "4933546",
       "time": "2026-06-13 09:02:31",
@@ -169338,137 +169499,6 @@
         "其他"
       ],
       "text": "【中歐班列“東通道”今年通行量突破3000列】6月6日，一列編組55輛滿載食用油、汽車輪胎、鋁錠等貨品的回程中歐班列經由內蒙古滿洲里鐵路口岸入境，駛向武漢吳家山站，今年以來，中歐班列“東通道”通行班列已突破3000列。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e9a8c-92ce-7665-830e-c1082ceebfe2",
-      "time": "2026-06-06 09:29:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says US will soon exit Iran conflict but no agreement yet】At a Wisconsin campaign event on the 5th, Trump said the US will \"quickly disentangle\" from the Iran conflict, removing a key driver of elevated prices and predicting \"fertilizer prices will plunge back to levels from four months ago.\" He told NBC that Iranian leaders have not yet agreed to end the fighting but that \"in the end they have no choice\" but to reach an agreement. Trump also said the US has \"completely destroyed\" Iran's military capability while acknowledging Iran still retains roughly 21–22% of its missiles and some drones. US media and Republican officials say the conflict has pushed up oil and living costs, weighing on GOP prospects ahead of the midterms and prompting calls for a shift to domestic economic issues."
-    },
-    {
-      "id": "4920690",
-      "time": "2026-06-06 09:28:06",
-      "tags": [
-        "行業",
-        "市場",
-        "觀點"
-      ],
-      "text": "【金飾價格跌回2025年 專家建議：黃金佔資產配比10%】6月5日，“金飾價格每克降約兩成”的話題登上熱搜榜。無論是國際黃金價格還是國內金飾價格，均已回到2025年12月的水平。梳理發現，今年黃金價格的高位是在1月底至3月初，隨後迅速回落。此後雖有震盪，但總體趨勢是緩慢走低。今年國際黃金收盤價格最高點為1月29日的5535.6美元/盎司。而老鳳祥黃金今年以來的最高點是1月29日的1713元/克。目前與最高點相比，金飾價格跌了約21%。資深金融投資者黃維銘建議，黃金可以作為家庭資產配置的一部分，但不建議買太多。“對普通人來說，拿出大約10%的資金投資黃金會比較穩妥，風險承受能力高一些的人可以適當多一點，但最好不要超過20至25%。同時也要有心理準備，黃金不是買了就馬上漲，短期也會有波動，更適合用中長期的眼光來看。”他表示。"
-    },
-    {
-      "id": "mkt:019e9a8b-3029-7665-830e-b90c015127cf",
-      "time": "2026-06-06 09:27:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Gold jewelry back to Dec 2025 levels; veteran investor advises ~10% allocation】Gold jewelry prices have fallen about 21% from their late‑January peak and are now back at December 2025 levels. International gold’s highest closing price this year was $5,535.6/oz on Jan. 29; Lao Feng Xiang jewelry peaked at 1,713 yuan/gram on Jan. 29. After highs from late January to early March, prices have retreated and trended lower. Veteran investor Huang Weiming recommends allocating roughly 10% of household assets to gold, up to 20–25% for higher risk tolerance, and treating gold as a medium‑to‑long‑term holding subject to short‑term volatility."
-    },
-    {
-      "id": "4920671",
-      "time": "2026-06-06 09:24:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【我使館回應穆拉魯竄訪臺灣】據中國駐羅馬尼亞大使館網站訊息，6月6日，使館發言人就臺灣問題發表談話。最近，羅馬尼亞眾議員亞歷山德魯·穆拉魯先生竄訪臺灣，這本身已經違反羅官方政策。他回到羅馬尼亞後，還公開發表錯誤言論，替臺灣民進黨當局的“臺獨”分裂主張代言。我們對此表示嚴重關切和堅決反對。臺灣問題是中國內政，是中國核心利益中的核心。正像羅馬尼亞的一個省或一個地區不能以任何理由從國家分裂出去一樣，臺灣也不能以任何理由從中國分裂出去。“己所不欲，勿施於人”。穆拉魯先生公然干涉中國內政，為“臺獨”張目，不僅違背外交常識，也令人懷疑他是否真正在為羅馬尼亞的利益考量。中方一貫反對任何建交國同臺灣開展任何形式的官方交往，包括官方機構人員訪問，設立代表機構，簽署官方協議，開展官方合作等。我們重視羅方關於堅持一箇中國政策的承諾，希望這一承諾真正落到實處。一箇中國原則是中羅關係的政治基礎，也是中羅兩國世代友好的保障。"
-    },
-    {
-      "id": "mkt:019e9a87-f090-7665-830e-b662e82fed39",
-      "time": "2026-06-06 09:24:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Alarm sirens sounded again in Kuwait."
-    },
-    {
-      "id": "4920662",
-      "time": "2026-06-06 09:23:01",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "巴林全國拉響防空警報。（新華社）"
-    },
-    {
-      "id": "4920651",
-      "time": "2026-06-06 09:21:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國U19男足1:0擊敗哥倫比亞 收穫土倫杯第二勝】2026年土倫杯正在法國進行，中國U19男足5日在小組賽第三輪中1:0戰勝哥倫比亞U19隊，收穫本屆賽事第二場勝利。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e9a82-3e10-7665-830e-ad268b274512",
-      "time": "2026-06-06 09:18:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain Interior Ministry said alarms have been sounded, urging citizens and residents to remain calm and move to the nearest safe locations."
-    },
-    {
-      "id": "4920643",
-      "time": "2026-06-06 09:16:31",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "巴林內政部：警報已拉響，請公民和居民保持冷靜，前往最近的安全地點。"
-    },
-    {
-      "id": "4920633",
-      "time": "2026-06-06 09:15:32",
-      "tags": [
-        "行業",
-        "國際"
-      ],
-      "text": "【特朗普團隊正研究ai企業向民眾出讓股份】路透社報道，美國總統特朗普6月5日在空軍一號專機上向記者透露，其團隊正研究人工智慧企業向美國民眾出讓公司股份的方案，並計劃最快下週同人工智慧企業高管舉行會談。 他表示：“這個構想十分有意思，幾乎能促成企業與美國公眾建立合作關係，我們會就此展開調研。” 資訊平臺諾圖斯（NOTUS）4日報道，美國多名高官已與人工智慧企業初步洽談，商議美政府收購相關企業部分股權的可能性。（觀察者網）"
-    },
-    {
-      "id": "mkt:019e9a77-8c3f-7665-830e-a63ecea08f3b",
-      "time": "2026-06-06 09:06:24",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【SpaceX IPO draws roughly $150bn in bids, twice planned raise】SpaceX's IPO has attracted about $150bn of investor bids—roughly twice the size of the planned raise, two people familiar with the matter said. Sources cautioned the deal is still in early marketing; large institutions often submit orders near the deadline, so current figures are indications of interest rather than final allocations, which will be determined at pricing."
-    },
-    {
-      "id": "mkt:019e9a76-d969-7665-830e-9bfa59bcdb64",
-      "time": "2026-06-06 09:05:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "Hang Seng Index"
-      ],
-      "text": "【Shanghai Shipping Exchange: China export container market continued to improve this week】Shanghai Shipping Exchange weekly report: China export container market momentum continued to improve this week as ocean-route freight rates rose, driving the composite index higher. The National Bureau of Statistics said China’s composite PMI rose to 50.5 in May, with non-manufacturing returning above the 50 expansion threshold, signalling overall mild expansion in business activity. On June 5 the Shanghai export container composite freight index stood at 2,726.48, up 6.0% from the prior week."
-    },
-    {
-      "id": "mkt:019e9a76-75b9-7665-830e-94b66e62227d",
-      "time": "2026-06-06 09:05:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump announced he has nominated Stuart Nash to the U.S. Court of Appeals for the D.C. Circuit."
     }
   ]
 }
