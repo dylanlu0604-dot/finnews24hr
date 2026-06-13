@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-14 04:37:15",
+  "updated": "2026-06-14 04:41:17",
   "count": 18454,
   "items": [
+    {
+      "id": "mkt:019ec2b6-652d-7dd8-afee-27f1b6cc55cf",
+      "time": "2026-06-14 04:39:53",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Qatari prime minister and foreign minister, Kuwaiti foreign minister welcome Pakistan-mediated final text of US‑Iran peace deal; expect prompt signing】On June 13, Qatar’s prime minister and foreign minister spoke by phone with Kuwait’s foreign minister and welcomed the Pakistan-mediated final text of a US‑Iran peace agreement. Both parties said they were highly satisfied with progress, urged Washington and Tehran to sign the text promptly, and reaffirmed support for resolving outstanding issues via dialogue to bolster regional security and stability."
+    },
+    {
+      "id": "mkt:019ec2b5-4687-7dd8-afee-1ac966427fa1",
+      "time": "2026-06-14 04:38:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Israel's Home Front Command detected rockets launched from Lebanon toward Metula in northern Galilee."
+    },
     {
       "id": "4934033",
       "time": "2026-06-14 04:35:18",
@@ -169632,24 +169656,6 @@
         "國際"
       ],
       "text": "市場資訊：美國先鋒集團釋出報告稱，受財務壓力加劇影響，2025年有6%的401(k)計劃參與者辦理了困難支取。"
-    },
-    {
-      "id": "4921451",
-      "time": "2026-06-07 04:40:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默將削減各政府部門資本開支，計劃削減60億英鎊支出，用以增加國防經費。"
-    },
-    {
-      "id": "mkt:019e9ea7-e4bf-7665-8314-be31d4b9348a",
-      "time": "2026-06-07 04:37:43",
-      "tags": [
-        "MKT News",
-        "LUV.O",
-        "Impact mixed"
-      ],
-      "text": "【Southwest Airlines COO: studying lounges, transoceanic routes and premium seats】Southwest Airlines COO said the carrier’s lounge concept is the most developed new product but has no launch timetable. He expects the Boeing 737 MAX 7 to enter commercial service in 2027, about six months after certification. Southwest aims to equip 300 aircraft with Starlink by year-end, though rollout depends on Starlink capacity; the airline has not ruled out adding Amazon LEO Wi‑Fi later. He acknowledged activist Elliott Management’s criticism that Southwest’s transformation has been slow. He said higher interest rates are advantageous for Southwest because competitors are more heavily indebted, and that the move to assigned seating removed a key barrier for customers who previously avoided the airline."
     }
   ]
 }
