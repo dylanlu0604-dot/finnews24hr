@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-13 14:00:40",
-  "count": 18389,
+  "updated": "2026-06-13 14:04:49",
+  "count": 18385,
   "items": [
+    {
+      "id": "mkt:019ebf94-54e9-7dd8-afe8-7ed38c6aefe0",
+      "time": "2026-06-13 14:03:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indian Air Force An-32 transport aircraft crashes in Assam】Multiple Indian media report an Indian Air Force An-32 transport aircraft crashed at Jorhat Air Force Station in Assam on the morning of June 13. Officials have not yet released information on casualties or the cause."
+    },
+    {
+      "id": "4933691",
+      "time": "2026-06-13 14:03:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度空軍一運輸機墜毀】根據多家印度媒體報道，當地時間今天（6月13日）上午，印度空軍一架安-32運輸機在阿薩姆邦喬爾哈特空軍基地墜毀。目前尚無官方訊息公佈傷亡情況或事故原因。（CCTV國際時訊）"
+    },
+    {
+      "id": "4933690",
+      "time": "2026-06-13 14:02:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【亞行：中東戰事令亞洲能源困境陷入“最壞情景”】英國《金融時報》日前報道，亞洲開發銀行警告伊朗戰事加劇全球能源危機，亞洲15個經濟體正尋求該行緊急貸款支援，亞洲當前能源困境正陷入該行此前預判的“最壞情景”。亞洲開發銀行行長神田真人日前接受《金融時報》採訪時稱，亞洲經濟體正面臨嚴重油氣短缺，該行已收到總額40億美元的正式貸款申請。據亞行透露，包括孟加拉國、斐濟、菲律賓和斯里蘭卡在內的15個經濟體申請了貸款。這些經濟體面臨包括匯款和旅遊收入損失、燃料和化肥供應受限等帶來的嚴重財政壓力。其中，最大的單筆申請是菲律賓的17.5億美元。該國幾乎完全依賴中東原油進口。此外，印度申請了15億美元貸款，以緩解經濟衝擊。自伊朗戰事爆發以來，印度外匯儲備已減少400億美元。“亞太地區受衝擊最嚴重，”神田真人對《金融時報》說，“最壞局面已成為現實……能源漲價、航運漲價、生產原料漲價三重衝擊全部顯現。”神田真人表示，鑑於形勢嚴峻，預計越來越多亞洲經濟體會向該行尋求貸款支援。亞洲開發銀行已將2026年亞太地區的經濟增長預期從5.1%下調至4.7%，將通脹預期從3%上調至5.2%。（新華社）"
+    },
     {
       "id": "4933689",
       "time": "2026-06-13 13:54:09",
@@ -169094,63 +169118,6 @@
         "國際"
       ],
       "text": "據知情人士透露，一位名叫戴維·J·拉什的美國中央情報局（CIA）前高官，涉嫌偽造了一個高度機密的情報專案，並以此為幌子，將數百萬美元資金轉移供個人使用，他的家中被搜出價值逾4000萬美元的金條。"
-    },
-    {
-      "id": "4921145",
-      "time": "2026-06-06 14:04:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普正在為情報總監一職面試兩名候選人。"
-    },
-    {
-      "id": "mkt:019e9b88-6201-7665-8310-3026fe7c9a86",
-      "time": "2026-06-06 14:04:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD"
-      ],
-      "text": "The Washington Post, citing people familiar with the matter, reports a former CIA senior official identified as David J. Lash is accused of fabricating a highly classified intelligence program and using it as a front to divert millions of dollars for personal use. Investigators seized more than $40 million in gold bars from his home."
-    },
-    {
-      "id": "4921144",
-      "time": "2026-06-06 14:04:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：普爾特“不會在那裡待太久”。"
-    },
-    {
-      "id": "4921143",
-      "time": "2026-06-06 14:03:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：針對敵方飛行器侵入澤拉伊特（Zerait）地區發出警報後，監測到一架無人機在以色列國防軍於黎巴嫩南部開展行動的區域附近墜落。該飛行器未進入以色列領土，未造成人員傷亡。"
-    },
-    {
-      "id": "4921142",
-      "time": "2026-06-06 14:02:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普敦促新任情報局長解僱情報人員。"
-    },
-    {
-      "id": "mkt:019e9b86-0dea-7665-8310-2d5157377254",
-      "time": "2026-06-06 14:01:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said it monitored a drone crash near the area where it was operating in southern Lebanon after issuing an alert over hostile aircraft intrusion into the Zerait region; the drone did not enter Israeli territory and caused no casualties."
-    },
-    {
-      "id": "4921141",
-      "time": "2026-06-06 14:00:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗半官方的塔斯尼姆通訊社報道，伊朗國家足球隊的所有球員都已獲得參加即將到來的國際足聯世界盃的美國簽證，但一些工作人員和官員被拒絕入境。被拒絕簽證的人員包括國家隊主管、球隊分析師和多名伊朗足球協會官員，其中包括媒體工作人員、安保人員和外交部代表。據塔斯尼姆通訊社報道，由於仍在努力為他們爭取美國簽證，預計這些人仍將隨國家隊前往墨西哥。"
     }
   ]
 }
