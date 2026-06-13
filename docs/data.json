@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-13 14:21:14",
-  "count": 18390,
+  "updated": "2026-06-13 14:25:32",
+  "count": 18391,
   "items": [
+    {
+      "id": "mkt:019ebfa5-55db-7dd8-afe8-a25e79cb7e31",
+      "time": "2026-06-13 14:22:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel issued mandatory evacuation orders for 20 towns and villages in Lebanon."
+    },
     {
       "id": "4933698",
       "time": "2026-06-13 14:16:58",
