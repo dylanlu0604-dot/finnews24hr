@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-13 18:14:00",
-  "count": 18366,
+  "updated": "2026-06-13 18:20:31",
+  "count": 18365,
   "items": [
+    {
+      "id": "4933783",
+      "time": "2026-06-13 18:17:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其將股票賣空禁令延長至6月26日。"
+    },
+    {
+      "id": "4933782",
+      "time": "2026-06-13 18:15:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位特朗普政府官員稱：很難確定伊朗可能獲得釋放的資金價值，因為這取決於伊朗提供了什麼。"
+    },
+    {
+      "id": "mkt:019ec078-e871-7dd8-afe9-f8e442c9c951",
+      "time": "2026-06-13 18:13:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Ukraine's military said Ukrainian forces attacked oil infrastructure in Russia's Volgograd region."
+    },
+    {
+      "id": "4933781",
+      "time": "2026-06-13 18:13:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東健康與北京友誼醫院達成合作 將共同建設消化系統專科大模型】據“京東健康黑板報”訊息，6月13日，京東健康與首都醫科大學附屬北京友誼醫院（簡稱“北京友誼醫院”）正式達成合作。雙方將共同建設消化系統專科大模型，重點應用於胃腸鏡早癌篩查、疾病診斷等臨床場景，推動AI技術與消化專科診療的深度融合。"
+    },
     {
       "id": "4933780",
       "time": "2026-06-13 18:10:49",
@@ -168835,50 +168871,6 @@
         "MKT News"
       ],
       "text": "Kuwait fire brigade said it received two reports of fires, both caused by falling debris (shrapnel)."
-    },
-    {
-      "id": "mkt:019e9c72-a632-7665-8312-210c1f7f372a",
-      "time": "2026-06-06 18:20:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Sources: U.S. government weighing equity stakes in major AI firms】U.S. reporting on June 6 cited three people with knowledge saying senior U.S. officials have held preliminary talks with large U.S. AI companies about the government taking equity stakes. Sources said Sam Altman, CEO of OpenAI, has regularly discussed the idea with senior officials since President Trump's second term began; he first raised the concept to Trump in early 2025 and has recently revisited it as a way to broaden public distribution of AI-related economic gains. Discussions have centered on firms voluntarily transferring shares to the government, with investment returns that could be used for public purposes; the proposal is still being developed and specifics remain undecided."
-    },
-    {
-      "id": "4921243",
-      "time": "2026-06-06 18:18:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【關於談判，伊朗高官表示“球”在美方腳下】伊朗最高領袖軍事顧問穆赫辛·雷扎伊5日表示，美國與伊朗能否達成協議，取決於美國政府是否同意解凍伊朗240億美元遭凍結資產。他同時警告，美方若重啟軍事行動，將“邁向一條黑暗道路”。雷扎伊當天在伊朗首都德黑蘭接受美國有線電視新聞網(CNN)記者專訪時說：“談判正陷入僵局，（美國總統）特朗普必須打破僵局。主動權在他手裡。”(新華社)"
-    },
-    {
-      "id": "4921242",
-      "time": "2026-06-06 18:18:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特方面通報：已處置三起殘骸墜落事件，其中兩起引發火情。"
-    },
-    {
-      "id": "4921241",
-      "time": "2026-06-06 18:16:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【知情人士：美國政府考慮入股人工智慧企業】據美國方面6月6日訊息，三名知情人士透露，美國政府高階官員已與美國大型人工智慧企業進行了初步討論，探討政府入股這些企業的可能性。知情人士表示，自美國總統特朗普第二個任期開始，美國開放人工智慧研究中心執行長奧爾特曼就定期與政府高階官員討論這一構想。奧爾特曼在2025年初首次向特朗普提出相關概念，並在最近幾周再次與政府高階官員進行討論，將其視為一種向公眾更廣泛地分配人工智慧相關經濟效益的方式。據悉，討論的重點在於讓這些企業“自願將股份轉讓給政府”，投資回報隨後可用於公共用途。不過，相關計劃仍在籌備中，且具體細節尚未確定。（央視新聞）"
-    },
-    {
-      "id": "4921240",
-      "time": "2026-06-06 18:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部和中國氣象局聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局6月6日18時聯合釋出橙色山洪災害氣象預警：預計，6月6日20時至6月7日20時，重慶東南部、貴州東北部等地部分地區發生山洪災害可能性較大（黃色預警），其中，貴州東北部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
     }
   ]
 }
