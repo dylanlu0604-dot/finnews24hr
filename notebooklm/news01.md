@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 06:08:41_
-_本檔包含 3667 則快訊，約 667388 字_
+_更新時間：2026-06-14 06:35:44_
+_本檔包含 3672 則快訊，約 667260 字_
+
+---
+
+### 2026-06-14 06:29:59  #公司 #國際
+
+一名伊朗官員透露，美伊這份擬議中的諒解備忘錄仍存在兩項未解決的分歧。美方在這兩個問題上的立場，將決定協議能否迅速簽署。伊朗方面判斷，特朗普希望在七國集團峰會前完成簽約。
+
+---
+
+### 2026-06-14 06:20:29  #其他
+
+英國將對青少年實行社交媒體“宵禁”並禁止使用聊天機器人。
+
+---
+
+### 2026-06-14 06:19:16  #其他
+
+匈牙利：儘管在議會選舉中落敗，維克托·歐爾班仍再次當選為青民盟主席。
+
+---
+
+### 2026-06-14 06:18:51  #國際
+
+美國中央司令部：喬治·H·W·布什號航空母艦（CVN-77）上的水兵正在對MH-60“海鷹”直升機開展維護作業。該航母目前航行於阿拉伯海，執行對伊朗的封鎖任務，此次維保工作旨在確保直升機隨時可投入任務。
+
+---
+
+### 2026-06-14 06:12:08  #焦點 #國際
+
+【美伊協議何時簽署 特朗普說14日 伊朗否認】當地時間13日，美國總統特朗普在社交媒體發文說，美國和伊朗定於14日簽署協議，霍爾木茲海峽將在協議簽署後立即開放。另據巴基斯坦外交部方面公佈的訊息，美國與伊朗相關協議電子簽署儀式定於14日舉行。伊朗外交部發言人巴加埃則表示，伊美諒解備忘錄不會在14日簽署，但不排除在未來幾天內完成。（央視新聞）
+
+---
+
+### 2026-06-14 06:11:03  #其他
+
+泰晤士報：英國將大幅放緩向電動汽車轉型的步伐。
+
+---
+
+### 2026-06-14 06:08:55  #國際
+
+以色列記者德羅爾·巴拉扎達週六在社交平臺上披露了一份為期60天的框架安排。按照該方案，伊朗將繼續對外出售石油，霍爾木茲海峽保持通航，雙方不發生軍事衝突；同時伊朗可動用被凍結資產的款項採購人道主義物資。他還稱，60天期滿後，後續行動將完全由特朗普定奪。
 
 ---
 
@@ -22097,17 +22139,5 @@ PBOC conducted a CNY 393 bln 7-day reverse repo today; bids CNY 393 bln, allotme
 ### 2026-06-12 09:21:09  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #01888.HK #02513.HK
 
 Hong Kong stocks opened higher. HSI up 1.04% and the Hang Seng Tech Index up 1.24% at the open. PCB, chip, new‑energy vehicle and gold-related names led gains. 01888.HK rose 9.15% and 02513.HK rose 7.26% at the open.
-
----
-
-### 2026-06-12 09:19:25  #國際
-
-【中國與吉爾吉斯斯坦舉行第八輪領事磋商】2026年6月10日，外交部領事司司長龍舟與吉爾吉斯斯坦外交部領事司司長朱瑪卡德爾在比什凱克共同主持中吉第八輪領事磋商。雙方重點就中吉領事關係、便利人員往來、維護海外公民安全與合法權益等議題深入交換意見。雙方一致同意要落實好兩國元首重要共識，加強領事合作，進一步便利人員往來，維護好雙方人員和機構安全與合法權益，為兩國各領域務實合作和人文交流創造安全、便利的條件，助力構建更加緊密的中吉命運共同體。
-
----
-
-### 2026-06-12 09:18:45  #MKT News #Commodities #Energy
-
-【China-Africa Energy Forum 2026 Focuses on Energy Cooperation】Addis Ababa, Nov 11 — At the 2026 China-Africa Energy Forum, Beijing offered to support African expansion of oil refining capacity, accelerate renewable energy development and help build stronger power grids. The head of China’s mission to the African Union said Africa has substantial fossil-fuel and renewable potential and that China will contribute its experience and solutions to African energy development.
 
 ---

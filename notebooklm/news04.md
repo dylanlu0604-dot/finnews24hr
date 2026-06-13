@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 06:08:41_
-_本檔包含 3675 則快訊，約 667224 字_
+_更新時間：2026-06-14 06:35:44_
+_本檔包含 3677 則快訊，約 667232 字_
+
+---
+
+### 2026-06-10 01:02:49  #MKT News
+
+ANTHROPIC: Claude MYTHOS 5 will be initially deployed via the "Glasswing" project in partnership with the US government, as an upgrade to the Claude MYTHOS preview.
+
+---
+
+### 2026-06-10 01:02:28  #宏觀 #市場 #國際
+
+美國財政部拍賣580億美元三年期國債，得標利率4.192%（4月7日為3.897%），投標倍數2.64（前次為2.54）。
+
+---
+
+### 2026-06-10 01:02:27  #MKT News #Market Themes #AI Revolution
+
+ANTHROPIC released Claude Fable 5, a MYTHOS-level model safety-tuned for general-public use.
+
+---
+
+### 2026-06-10 01:02:15  #MKT News #Macro & Rates #Treasury Yields #XAUUSD #Impact bullish #EURUSD #DXY #Impact bearish
+
+US 3-year Treasury auction as of June 9 — BID-COVER RATIO 2.64, prior 2.54.
+
+---
+
+### 2026-06-10 01:02:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
+
+U.S. 3-year Treasury auction on June 9: percentage awarded at the stop-out yield 42.92%, prior 37.53%.
 
 ---
 
@@ -22121,23 +22151,5 @@ Tasnim News reported all flights in Iran have been cancelled until further notic
 ### 2026-06-08 20:47:31  #其他
 
 【巴克萊：Robotaxi成特斯拉AI戰略核心 但規模化拐點仍未到來】巴克萊在最新研報中指出，自動駕駛計程車（Robotaxi）是特斯拉AI戰略中最關鍵的一環。報告指出，特斯拉目前主要有三大增長引擎：FSD（完全自動駕駛）、Robotaxi和Optimus人形機器人。其中，Optimus擁有最大的潛在市場空間，但仍處於原型機階段；FSD已經開始創造收入，但市場空間相對有限。相比之下，Robotaxi既擁有巨大的潛在市場，又已經開始商業化運營，因此被巴克萊視為特斯拉當前最重要的AI業務。巴克萊給予特斯拉“等權重”評級，目標價360美元。
-
----
-
-### 2026-06-08 20:47:27  #公司
-
-【盈方微：交易方案調整構成重大調整】盈方微公告，公司於2026年6月8日召開董事會會議，審議透過了《關於本次交易方案調整構成重大調整的議案》《關於及其摘要的議案》等有關議案。對本次交易方案進行了調整，具體為：標的資產由上海肖克利100%股份和富士德中國100%股份調整為上海肖克利100%股權，交易對方由陶濤等8名交易對方和RJM Co. Limited等2名交易對方調整為陶濤等8名交易對方。定價基準日調整為2026年6月8日，發行股份的價格為6.85元/股。
-
----
-
-### 2026-06-08 20:46:52  #國際
-
-伊朗媒體：伊朗境內所有航班取消，直至另行通知。
-
----
-
-### 2026-06-08 20:46:45  #MKT News #DXY #Impact bullish
-
-Banking sources said the Central Bank of the Republic of Turkey bought US$4.5 bln of foreign exchange last week. The central bank's gross reserves rose US$1.0 bln to US$160.0 bln and net reserves increased US$1.5 bln to US$47.5 bln.
 
 ---

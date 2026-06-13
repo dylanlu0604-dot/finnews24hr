@@ -1,7 +1,27 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 06:08:41_
-_本檔包含 3726 則快訊，約 667043 字_
+_更新時間：2026-06-14 06:35:44_
+_本檔包含 3723 則快訊，約 667056 字_
+
+---
+
+### 2026-06-11 06:30:52  #公司 #資料 #央行 #國際
+
+【週四重要財經資訊提醒（以下均為北京時間）】
+① 15:00 商務部召開6月第2次例行新聞釋出會；
+② 19:00 土耳其央行公佈利率決議；
+③ 時間待定 石油輸出國組織（OPEC，歐佩克）公佈月度原油市場報告；
+④ 時間待定 世界盃開幕；
+⑤ 時間待定 SpaceX IPO最終正式定價，股票將開始發售，該公司計劃邀請1500名散戶投資者參加6月11日舉行的大型活動；
+⑥ 20:15 歐洲央行公佈利率決定（含主要再融資利率、存款便利利率、邊際貸款利率）；
+⑦ 20:30 美國5月PPI，6月6日當週首次申請失業救濟人數；
+⑧ 20:45 歐洲央行行長拉加德舉行新聞釋出會。
+
+---
+
+### 2026-06-11 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Crude Oil WTI Rises by 4.74% — Top commodity gainers are Crude Oil WTI (4.74%), Natural Gas EU (4.21%), Natural Gas UK (4.19%) and Brent Crude Oil (4.09%). Biggest loser is Ethanol (-0.79%).
 
 ---
 
@@ -22417,35 +22437,5 @@ ANTHROPIC priced MYTHOS 5 and FABLE 5 at $10 per 1 million input tokens and $50 
 ### 2026-06-10 01:02:50  #MKT News
 
 ANTHROPIC plans to expand access to Claude MYTHOS 5 through a broader 'Trusted Access Program'.
-
----
-
-### 2026-06-10 01:02:49  #MKT News
-
-ANTHROPIC: Claude MYTHOS 5 will be initially deployed via the "Glasswing" project in partnership with the US government, as an upgrade to the Claude MYTHOS preview.
-
----
-
-### 2026-06-10 01:02:28  #宏觀 #市場 #國際
-
-美國財政部拍賣580億美元三年期國債，得標利率4.192%（4月7日為3.897%），投標倍數2.64（前次為2.54）。
-
----
-
-### 2026-06-10 01:02:27  #MKT News #Market Themes #AI Revolution
-
-ANTHROPIC released Claude Fable 5, a MYTHOS-level model safety-tuned for general-public use.
-
----
-
-### 2026-06-10 01:02:15  #MKT News #Macro & Rates #Treasury Yields #XAUUSD #Impact bullish #EURUSD #DXY #Impact bearish
-
-US 3-year Treasury auction as of June 9 — BID-COVER RATIO 2.64, prior 2.54.
-
----
-
-### 2026-06-10 01:02:15  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
-
-U.S. 3-year Treasury auction on June 9: percentage awarded at the stop-out yield 42.92%, prior 37.53%.
 
 ---
