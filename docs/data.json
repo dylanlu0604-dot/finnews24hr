@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-13 17:59:54",
-  "count": 18362,
+  "updated": "2026-06-13 18:04:16",
+  "count": 18365,
   "items": [
+    {
+      "id": "mkt:019ec06d-f6fd-7dd8-afe9-e87b2d3fa276",
+      "time": "2026-06-13 18:01:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Former vice president of People's Insurance Company (Group) of China Yu Xiaoping under investigation】Yu Xiaoping, former party committee member and vice president of the People's Insurance Company (Group) of China, is suspected of serious disciplinary and legal violations and is under disciplinary review and a supervisory investigation by the Central Commission for Discipline Inspection and the National Supervisory Commission."
+    },
+    {
+      "id": "4933776",
+      "time": "2026-06-13 18:00:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人民保險集團股份有限公司原副總裁俞小平接受審查調查】中國人民保險集團股份有限公司原黨委委員、副總裁俞小平涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ec06c-7e70-7dd8-afe9-e5da64c13e7b",
+      "time": "2026-06-13 17:59:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Market report: Israel struck Kafr Rumman in southern Lebanon."
+    },
     {
       "id": "4933775",
       "time": "2026-06-13 17:58:38",
