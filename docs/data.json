@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-13 14:25:32",
+  "updated": "2026-06-13 14:29:40",
   "count": 18391,
   "items": [
+    {
+      "id": "4933699",
+      "time": "2026-06-13 14:27:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜：GLM-5.2將面向GLM Coding Plan全量使用者開放】6月13日，據智譜訊息，今晚5:21，GLM-5.2將面向GLM Coding Plan全量使用者開放，覆蓋Lite / Pro / Max / 團隊版。GLM-5.2 API將於下週上線，模型下週正式開源，遵循MIT協議。"
+    },
     {
       "id": "mkt:019ebfa5-55db-7dd8-afe8-a25e79cb7e31",
       "time": "2026-06-13 14:22:24",
@@ -169168,16 +169176,6 @@
         "其他"
       ],
       "text": "【惠譽近21年來首次上調南非主權信用評級 】國際信用評級機構惠譽5日將南非長期發行人違約評級從“BB-”上調至“BB”。這是近21年來惠譽首次上調南非主權信用評級，同時維持穩定展望。惠譽在評級報告中指出，上調南非主權信用評級反映出這個國家在經濟增長疲軟以及面臨國內外衝擊的情況下，依然保持了審慎的財政管理水平，並在債務控制方面取得進展。（新華社）"
-    },
-    {
-      "id": "mkt:019e9b9c-affd-7665-8310-40e5d262a141",
-      "time": "2026-06-06 14:26:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Singapore parliament speaker to visit China】At the invitation of Zhao Leji, chairman of the Standing Committee of the National People’s Congress, Singapore Parliament Speaker Xie Jianping will lead a delegation to China from June 8 to 13."
     }
   ]
 }
