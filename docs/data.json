@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-13 09:00:52",
-  "count": 18412,
+  "updated": "2026-06-13 09:04:55",
+  "count": 18416,
   "items": [
+    {
+      "id": "4933546",
+      "time": "2026-06-13 09:02:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黃海北部部分海域進行實彈射擊訓練 禁止駛入】據中國海事局網站訊息，丹東海事局釋出航行警告，6月14日8時至6月26日18時，黃海北部部分海域進行實彈射擊訓練，禁止駛入。"
+    },
+    {
+      "id": "4933545",
+      "time": "2026-06-13 09:02:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6月12日上海出口集裝箱綜合運價指數為2985.22點 較上期上漲9.5%】上海航運交易所報告顯示，本週，中國出口集裝箱運輸市場行情保持穩中向好，遠洋航線市場運價繼續上行，帶動綜合指數上漲。據海關總署最新公佈的資料顯示，以美元計價，中國5月出口同比大幅增長19.4%，全面超出市場預期，我國外貿延續穩定增長態勢，這對中國出口集運市場的平穩發展起到長期的支撐作用。6月12日，上海出口集裝箱綜合運價指數為2985.22點，較上期上漲9.5%。"
+    },
+    {
+      "id": "4933544",
+      "time": "2026-06-13 09:02:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據路透社13日釋出的獨家訊息，美軍擊落多架飛往霍爾木茲海峽的伊朗單向攻擊無人機。（新華社）"
+    },
+    {
+      "id": "4933543",
+      "time": "2026-06-13 09:01:47",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【專家：日本央行或上調利率以抑制通脹】據日本方面訊息，日本央行可能在本月15日到16日召開的貨幣政策會議上，將政策利率從目前的0.75%上調至1.0%。日本東短研究公司總裁加藤出認為，加息將給中小企業和普通日本家庭的生活帶來壓力，對於日元匯率的影響有待進一步觀察。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ebe7f-873b-7dd8-afe7-a8ef17561f8d",
+      "time": "2026-06-13 09:01:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【MOFCOM spokesperson on U.S. DoD listing some Chinese firms on 'Chinese military companies' list】A MOFCOM spokesperson said the U.S. Department of Defense’s move to place certain Chinese firms on a \"Chinese military companies\" list ignores leaders’ consensus from the Beijing meeting, overextends national-security grounds and abuses state power to pressure Chinese firms. The ministry said the action undermines international trade order, risks global supply-chain stability and harms Chinese firms’ lawful rights, urged the U.S. to immediately revoke the measures and restore constructive, stable bilateral ties and fair, non‑discriminatory treatment for Chinese companies, and warned that if the measures remain China will take resolute countermeasures and hold the U.S. fully responsible for the consequences."
+    },
+    {
+      "id": "4933542",
+      "time": "2026-06-13 09:00:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就美國防部將部分中國企業列入“中國軍事企業清單”事答記者問】有記者問：美東時間6月8日，美國國防部將多家中國企業列入“中國軍事企業清單”，請問商務部對此有何回應？答：我們注意到這一情況。中方對此強烈不滿、堅決反對。美方罔顧中美兩國元首北京會晤共識，無視中美經貿關係大局，不斷泛化國家安全概念，濫用國家力量，對中國企業進行無理打壓，美方做法嚴重破壞國際經貿秩序，嚴重危害全球產供鏈穩定，嚴重損害中國企業正當合法權益。中方敦促美方立即停止錯誤做法，立即撤銷有關措施，回到構建中美建設性戰略穩定關係的正確軌道上來，為中國企業提供公平、公正、非歧視待遇。否則，中方必將堅決有力反制，由此產生的後果和責任完全由美方承擔。（商務部）"
+    },
     {
       "id": "mkt:019ebe7b-d4de-7dd8-afe7-a237c9d6e3fc",
       "time": "2026-06-13 08:57:26",
@@ -169413,27 +169469,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump announced he has nominated Stuart Nash to the U.S. Court of Appeals for the D.C. Circuit."
-    },
-    {
-      "id": "mkt:019e9a74-d089-7665-830e-89eb465ff5c5",
-      "time": "2026-06-06 09:03:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Kuwait says it is responding to 'enemy' missile and drone attacks】Kuwait's military said on the 6th its air defence forces were responding to 'enemy' missile and drone attacks; explosions heard were caused by interceptions by Kuwait's air defence systems."
-    },
-    {
-      "id": "4920593",
-      "time": "2026-06-06 09:02:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【科威特：正應對“敵方”導彈和無人機攻擊】科威特軍方6日發表宣告說，科威特防空部隊正在應對“敵方”導彈和無人機攻擊。如聽到爆炸聲，系科威特防空系統攔截攻擊所致。（新華社）"
     }
   ]
 }
