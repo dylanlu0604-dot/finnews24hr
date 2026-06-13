@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-14 01:48:41",
-  "count": 18475,
+  "updated": "2026-06-14 01:52:35",
+  "count": 18477,
   "items": [
+    {
+      "id": "mkt:019ec21b-ae50-7dd8-afed-5bb4c39fe0e8",
+      "time": "2026-06-14 01:50:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Kuwait foreign minister discusses progress on US-Iran peace agreement text with Qatari PM】Kuwait foreign minister Sabah spoke by phone on Saturday with Qatari PM and foreign minister Al Thani; they reviewed recent regional developments and the ongoing negotiations, noting progress toward a final text of a US-Iran peace agreement."
+    },
+    {
+      "id": "mkt:019ec219-a96a-7dd8-afed-54c9bbef931e",
+      "time": "2026-06-14 01:48:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Libya presidential council chair says willing to deepen ties with China】Libya Presidential Council chairman Manfi said in Tripoli on June 13 that Libya prioritizes developing relations with China and is willing to deepen mutually beneficial cooperation across sectors to elevate bilateral ties."
+    },
     {
       "id": "4933994",
       "time": "2026-06-14 01:47:58",
