@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 02:41:17_
-_本檔包含 3770 則快訊，約 668140 字_
+_更新時間：2026-06-14 03:12:49_
+_本檔包含 3756 則快訊，約 667820 字_
+
+---
+
+### 2026-06-08 20:20:27  #MKT News #Market Regions #Greater China
+
+【Cross-border broker remediation underway; some Hong Kong brokers still accepting accounts, intermediaries continue soliciting mainland clients】After Chinese regulators launched a centralized remediation of cross‑border broker practices, the Futu NiuNiu app shows divergent trading statuses across accounts held by the same investor. Some existing mainland China investors’ Futu Securities (Hong Kong) accounts are blocked from buy orders and require updated overseas ID, while Moomoo accounts run by a U.S.-licensed provider can still place orders. Separately, several locally licensed Hong Kong brokers’ account‑opening channels remain operable and intermediaries continue recruiting mainland clients on social platforms with cashback incentives.
+
+---
+
+### 2026-06-08 20:20:09  #公司
+
+亞馬遜啟動五部分高評級加元債券發行計劃。
+
+---
+
+### 2026-06-08 20:19:47  #國際
+
+以色列國防軍：以色列北部警報解除，相關事件已結束。
+
+---
+
+### 2026-06-08 20:19:17  #國際
+
+【黎巴嫩總理強烈譴責以色列頻繁違反停火協議 造成大批人員傷亡】據黎巴嫩國家通訊社（NNA）報道，黎巴嫩總理納瓦夫·薩拉姆（Nawaf Salam）週一（8日）公開表示，自今年4月黎以停火協議生效以來，以色列軍隊頻繁違反停火規定，對黎巴嫩實施了近3500次空襲及400多次轟炸行動，導致大批平民傷亡，部分邊境村莊被完全夷為平地。薩拉姆詳細列舉了最新統計資料並指出，從2026年4月17日至6月7日期間，以色列方面針對黎巴嫩的違規軍事行動已累計達到3491次空襲、407次轟炸以及6次推土機跨境破壞作業。這一系列持續的軍事行動已導致黎方3526人死亡、10733人受傷，邊境部分地區的生態與基礎設施遭到毀滅性打擊。薩拉姆強烈呼籲國際社會採取切實行動阻止違規襲擊。他強調，停火協議的全面落實必須建立在相互尊重的基礎上，以方的持續越境打擊正使該地區脆弱的和平局勢面臨崩潰邊緣。截至目前，以色列軍方尚未就黎方的具體指控作出官方回應。
+
+---
+
+### 2026-06-08 20:18:10  #MKT News #Important
+
+Israel's Channel 14 cites Israeli sources saying operations against Lebanese Hezbollah are continuing.
+
+---
+
+### 2026-06-08 20:18:01  #公司
+
+【溫氏股份：董事梁志雄擬減持0.2831%】溫氏股份公告，董事梁志雄持股1.04億股，佔1.5633%，擬自公告披露日起十五個交易日後的2026年7月1日至2026年9月30日，透過大宗交易向其女兒梁晴雯、梁晴斐及其兄弟梁志強轉讓不超過1883.41萬股，佔0.2831%，受讓方六個月內不得減持。
+
+---
+
+### 2026-06-08 20:17:32  #市場 #國際
+
+【美元走低，受以色列和伊朗停火希望影響】在美國總統特朗普表示以色列和伊朗在交火後正尋求達成即刻停火協議後，美元走低。他在Truth Social的一篇帖子中還表示，邁向和平協議的談判正在進行中，“除非受到無知或愚蠢的阻礙“。他說，關於最終協議，“事情應該會進展迅速“，但在達成最終協議之前，美國將維持對伊朗港口的封鎖。DXY美元指數下跌0.2%，至99.888，此前曾觸及100.214的兩個月高點。
+
+---
+
+### 2026-06-08 20:16:50  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
+
+US 10-Year Yield Off Session Highs — The yield on the US 10-year Treasury note edged up to 4.54% on Monday, but retreating from highs of 4.58% earlier in the session, as traders continued to assess the back-and-forth situation in the Middle East. Reports indicated that Iran’s military had ceased strikes against Israel but warned it would resume hostilities if Jerusalem continues operations in Lebanon. In addition, President Trump said that Iran and Israel were looking to agree on a ceasefire, and that negotiations with Iran on a final deal were progressing. As a result, oil prices trimmed some gains. However, concerns about persistent inflation stemming from a prolonged conflict with Iran continued to weigh on sentiment, with the odds of a Fed rate hike as soon as October currently standing near 52%. CPI and PPI data in the US are due this week and will provide further insight into evolving price pressures.
+
+---
+
+### 2026-06-08 20:16:15  #其他
+
+市場訊息：黎巴嫩邊境沿線城鎮響起警報，疑似遭遇火箭彈襲擊。
+
+---
+
+### 2026-06-08 20:15:54  #MKT News
+
+Israel Defense Forces (IDF) says preliminary reports show alarms sounded across multiple areas in northern Israel; details are under review.
+
+---
+
+### 2026-06-08 20:15:52  #MKT News #Market Regions #Greater China #CNH
+
+【PBOC governor Pan meets Hong Kong Association of Banks delegation】June 8, 2026 — PBOC Governor Pan Gongsheng met a Hong Kong Association of Banks delegation led by Hong Kong Monetary Authority chief Yue Mon. They discussed the current macro outlook, deepening Mainland–Hong Kong financial market connectivity, strengthening Hong Kong’s offshore renminbi market, and steps to consolidate and enhance Hong Kong’s role as an international financial centre. PBOC Deputy Governor Zou Lan attended.
 
 ---
 
@@ -22552,155 +22618,5 @@ IDF says air-raid alert sounded in Margaliot area for hostile aerial vehicle int
 ### 2026-06-07 03:13:43  #國際
 
 【對伊戰爭百日 特朗普仍未贏得美國民眾支援】本週日是美國和以色列對伊朗發動戰爭的第100天，衝突在美國公眾中極不受歡迎，成為特朗普的政治負擔。民調顯示，僅16%選民認為美國正在獲勝；多數選民（包括33%共和黨人）認為戰爭損害美國利益。馬里蘭大學和平與發展教授希布利·特爾哈米表示，“很明顯，很少有美國人認為這場對伊戰爭符合美國利益”。專家指出，戰爭缺乏公眾支援可能對特朗普在國內的政治地位產生削弱作用。
-
----
-
-### 2026-06-07 03:12:32  #MKT News
-
-【100 days into U.S.-Israel war on Iran, Trump still lacks U.S. public support】Sunday marked the 100th day of the U.S. and Israel military campaign against Iran. Polls show just 16% of U.S. voters say the U.S. is winning; a majority — including 33% of Republicans — say the war harms U.S. interests. Analysts warn the lack of public backing could weaken Trump’s domestic political standing.
-
----
-
-### 2026-06-07 03:11:14  #公司 #焦點
-
-交友軟體Grindr執行長喬治·阿里森：說實話，我並不在意我們在算力代幣上投入多少資金，因為每投入一美元，所換來的產出都遠超預期。
-
----
-
-### 2026-06-07 03:09:07  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Russian Defence Ministry said its air defence forces intercepted 339 Ukrainian drones across multiple regions, including Moscow, within 13 hours.
-
----
-
-### 2026-06-07 03:08:27  #國際
-
-俄羅斯國防部表示，其防空部隊在13小時內於包括莫斯科在內的多個區域擊落了339架烏克蘭無人機。
-
----
-
-### 2026-06-07 03:04:22  #國際
-
-【雙線資本、橡樹資本為人工智慧行業潛在風險佈局信貸資產】當下人工智慧熱潮若演變為信貸危機，雙線資本、橡樹資本等知名信貸機構正著手配置具備抗風險能力的債券資產。投資人工智慧相關債券存在不小難度，目前流通的多數債券期限長達數十年，屆時當下的技術很可能已被淘汰。科技企業正大舉發債融資，美國大型雲科技企業已在全球發行超1550億美元無擔保債券，後續發債規模仍將持續擴大。
-
----
-
-### 2026-06-07 03:03:09  #國際
-
-法國與歐洲其他幾個國家正在推進針對以色列與約旦河西岸針對巴勒斯坦人的暴力行為相關的實體的措施和制裁。
-
----
-
-### 2026-06-07 03:02:47  #MKT News
-
-【Illinois governor suspends data center tax incentives】Illinois governor J.B. Pritzker ordered a suspension of the state's data center tax incentives after the legislature shelved his proposal to bar passing data center energy costs on to residents. The order excludes agreements signed before July 1. Ohio this week also paused similar incentives as nationwide opposition to data centers rises. Unions urged keeping the breaks, warning the move could shift investment and jobs to neighboring states. Illinois granted nearly $1 bln in data center tax incentives from 2020–2024.
-
----
-
-### 2026-06-07 03:00:48  #公司 #國際
-
-巴航工業執行長：受伊朗戰事相關不確定性影響，部分航空公司推遲行使飛機購買選擇權的決策。
-
----
-
-### 2026-06-07 03:00:43  #公司
-
-巴航工業執行長：目前尚未出現因戰爭影響導致推遲交付的請求，也未出現在售專案推廣放緩的情況。
-
----
-
-### 2026-06-07 03:00:30  #公司
-
-巴航工業執行長：公司目標是2027年交付95至100架商用飛機。
-
----
-
-### 2026-06-07 02:54:10  #MKT News
-
-【Russia says it seized Shevchenkove in Kharkiv; Ukraine reports strikes on Russian targets】On June 6, Russia’s Defense Ministry said Russian forces had seized the Shevchenkove settlement in Kharkiv region and struck 153 Ukrainian locations, including production, storage and launch sites for long-range drones, fuel, transport and port infrastructure, and temporary deployment points for Ukrainian forces and foreign mercenaries. Also on June 6 the General Staff of the Armed Forces of Ukraine said Ukrainian forces had struck Russian personnel assembly areas, drone control points and artillery systems.
-
----
-
-### 2026-06-07 02:53:13  #國際
-
-【俄稱控制烏一處居民點 烏稱打擊俄多地目標】當地時間6日，俄羅斯國防部稱，俄軍已控制哈爾科夫州的舍甫琴科居民點，並打擊了烏克蘭的153個區域。包括遠端無人機的生產、儲存、發射場地，燃料、交通和港口基礎設施，以及烏武裝部隊和外國僱傭兵臨時部署點。俄防空系統擊落13枚制導航空炸彈、4枚“海馬斯”火箭彈和911架固定翼無人機。烏克蘭武裝部隊總參謀部6日稱，烏軍襲擊了俄軍人員集結區、無人機控制點和火炮系統等目標。同一天，烏克蘭總統澤連斯基稱，烏無人機飛抵俄聖彼得堡地區，打擊了俄海軍軍火庫及喀琅施塔得軍事基地。此外，烏無人機還打擊了俄南部克拉斯諾達爾地區的一處儲油基地。（央視新聞）
-
----
-
-### 2026-06-07 02:52:30  #其他
-
-剛果方面表示，埃博拉確診病例已增至488例。
-
----
-
-### 2026-06-07 02:52:26  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Ukraine foreign minister Kuleba said Russian forces attacked two civilian search-and-rescue vessels in Ukrainian waters, causing casualties.
-
----
-
-### 2026-06-07 02:52:20  #國際
-
-烏克蘭副總理庫列巴：俄羅斯武裝部隊襲擊了烏克蘭水域的兩艘民用搜救船，造成人員受傷。
-
----
-
-### 2026-06-07 02:50:46  #國際
-
-特朗普政府對伊朗最大加密貨幣交易所實施制裁，此舉標誌著美方進一步加大力度，試圖破壞伊朗脫離正規銀行體系運轉所依託的金融架構。
-
----
-
-### 2026-06-07 02:49:54  #MKT News
-
-TASNIM NEWS: Iraq's prime minister said he plans a formal visit to the United States in the near term, accompanied by a delegation of Iraqi businessmen and entrepreneurs.
-
----
-
-### 2026-06-07 02:49:22  #國際
-
-日本將菲律賓列為石油儲備援助的首要物件。
-
----
-
-### 2026-06-07 02:47:22  #國際
-
-【以軍空襲加沙城致6死15傷】據巴勒斯坦通訊社6日報道，以色列軍隊當天空襲加沙城西部一處容納流離失所者的臨時帳篷區，造成包括兩名婦女在內的6人死亡，另有15人受傷。以軍尚未對此發表回應。（新華社）
-
----
-
-### 2026-06-07 02:45:19  #MKT News #Commodities #Energy
-
-India will raise the retail price of 14.2 kg domestic LPG cylinders by 29 rupees per cylinder, the Economic Times cited the Press Trust of India.
-
----
-
-### 2026-06-07 02:45:14  #國際
-
-伊朗核問題負責人：布什爾核電站連續第三年躋身全球效率與安全綜合排名前十，其收益已達到建設成本的五倍。
-
----
-
-### 2026-06-07 02:44:51  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-Israel's Channel 12 reports Israeli military fatalities since the ceasefire with Lebanon have risen to 16.
-
----
-
-### 2026-06-07 02:44:27  #國際
-
-印度國內烹飪用氣液化石油氣（LPG）價格上調，每罐14.2千克裝氣瓶漲價29盧比。
-
----
-
-### 2026-06-07 02:44:16  #MKT News
-
-Iranian Students' News Agency said Iran's interior minister received a letter from Pakistan's army chief Asim Munir addressed to Iran's Supreme Leader.
-
----
-
-### 2026-06-07 02:43:28  #國際
-
-伊朗邁赫爾通訊社週六報道，伊朗哈爾格島傳出的爆炸聲，源於巴赫雷甘石油區的彈藥銷燬作業。
 
 ---

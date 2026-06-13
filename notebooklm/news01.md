@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 02:41:17_
-_本檔包含 3660 則快訊，約 668536 字_
+_更新時間：2026-06-14 03:12:49_
+_本檔包含 3666 則快訊，約 667859 字_
+
+---
+
+### 2026-06-14 03:12:23  #宏觀 #國際
+
+以色列財政部長：唯一的應對方式，但凡有一發炮彈射向我方領土，今晚就將炸燬達希耶區十棟建築。
+
+---
+
+### 2026-06-14 02:59:38  #國際
+
+特朗普：擬任命麥克唐納為紐約南區聯邦檢察官。
+
+---
+
+### 2026-06-14 02:59:36  #MKT News
+
+President Trump said he will appoint James McDonald as U.S. attorney for the Southern District of New York.
+
+---
+
+### 2026-06-14 02:58:16  #國際
+
+【伊朗正加大力度保護鈾原料】美國情報部門訊息稱，伊朗正加大力度保護其接近武器級的鈾原料，具體做法是封堵隧道，並在入口處佈設地雷陷阱。相關人士表示，這批高濃縮鈾儲量約半噸，如今想要接觸到這些物資，難度和風險都大幅增加。
+
+---
+
+### 2026-06-14 02:57:35  #國際
+
+美國政府一名高階官員表示，談判有望達成協議，要求伊朗將鈾交由美方銷燬。
+
+---
+
+### 2026-06-14 02:56:53  #MKT News
+
+Channel 13, citing a senior Israeli official, said Israel has limited influence over the U.S.-Iran agreement.
+
+---
+
+### 2026-06-14 02:55:13  #國際
+
+市場資訊：歐盟警務機構表示，犯罪團伙正透過網路大批次招募、誘導未成年人實施惡性犯罪。
+
+---
+
+### 2026-06-14 02:47:08  #國際
+
+美國與伊朗定於明日以線上會議形式簽署諒解備忘錄，巴基斯坦與卡達斡旋方也將參與其中。雙方曾就簽約儀式選址日內瓦還是伊斯蘭堡產生分歧，最終達成的協議將把停火期限延長60天、重新開放霍爾木茲海峽，並啟動核問題相關談判。
+
+---
+
+### 2026-06-14 02:44:42  #國際
+
+【以官員：即將敲定的美伊協議將損害以色列的安全利益】以色列多名高階官員表示，即將敲定的美伊協議意味著美方接受了伊朗提出的主要條件，或將損害以色列的安全利益。協議會直接導致霍爾木茲海峽重新開放，並鞏固伊朗現政權。這些官員還警示，導彈專案、扶持代理勢力等核心問題並未得到解決，伊朗實際上是在“賒賬行事”，若其後續不遵守相關約定，美方的制衡籌碼也將隨之削弱。
+
+---
+
+### 2026-06-14 02:43:30  #國際
+
+以色列國防軍稱，過去24小時內其在黎巴嫩南部打擊了七十餘處真主黨設施，其中包括用於襲擊以色列平民與軍人的發射裝置及建築。
 
 ---
 
@@ -22043,29 +22103,5 @@ FTSE China A50 index futures opened up 0.89%.
 ### 2026-06-12 08:58:36  #觀點
 
 【中信證券：股票ETF建議重點建議關注計算機、人形機器人、電力及公用事業、煤炭、基礎化工等板塊】中信證券指出，股票ETF資金淨流出速度趨緩，資金持續向債券ETF資產遷徙。從市場參與者預期長週期視角看，產業與投資共識指向順週期低估值修復板塊。綜合市場參與者預期的長期視角與短期SDISS多維度綜合監測結果，建議重點建議關注計算機、人形機器人、電力及公用事業、煤炭、基礎化工等板塊。
-
----
-
-### 2026-06-12 08:57:00  #其他
-
-【6月11日461股獲融資買入超億元 中際旭創穫買入47.73億元居首】6月11日共有3468只個股獲融資資金買入，有461股買入金額超億元。其中，中際旭創、新易盛、京東方Ａ融資買入金額排名前三，分別獲買入47.73億元、47.18億元、30.01億元。
-
----
-
-### 2026-06-12 08:56:36  #市場 #觀點 #國際
-
-【中金財富期貨：特朗普稱取消打擊伊朗計劃 黃金大幅反彈】特朗普稱取消打擊伊朗計劃，最快本週末即可在歐洲完成簽署。這一言論迅速提振全球風險偏好，同時壓低了油價和國債收益率，黃金大幅反彈。但是需要注意的是，特朗普的“猛烈打擊”和“協議即將完成”幾乎是同時說出，其混亂可見一斑。黃金仍處在複雜的環境中，建議以觀望為主。
-
----
-
-### 2026-06-12 08:55:55  #觀點 #央行
-
-【中信證券：預計歐央行將暫停加息】中信證券指出，歐元、歐債和歐股在歐央行宣佈加息決定後的短線價格變動都不大，表明市場已在很大程度上消化了本次加息及前瞻指引的預期。衍生品市場目前定價了歐央行今年至少再加息一次的預期，但我們仍舊認為歐央行在本次加息落地後已可按兵不動。預計歐央行將暫停加息，歐元進一步升值的空間或較有限，美元指數有支撐。
-
----
-
-### 2026-06-12 08:54:58  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Aussie Heads for Flat Weekly Finish — The Australian dollar held around $0.70 and was on track to finish the week little changed, as markets await the Reserve Bank’s upcoming policy decision next week. Markets are increasingly pricing in the possibility that the central bank has already concluded its tightening cycle after three rate hikes this year. A run of softer economic releases, from GDP to housing prices, reinforced expectations that policymakers will keep the cash rate unchanged at 4.35% on Tuesday. Investors also scaled back bets on further tightening, with the odds of an August rate hike falling sharply from 80% a month ago to around 35%. The May CPI report, due on June 24, will be pivotal for an August move following an unexpectedly soft April inflation reading, as policymakers look for clearer evidence that price pressures remain strong. Meanwhile, global risk appetite improved after US President Trump said a deal with Iran could be reached as early as this weekend after postponing planned attacks against Iran.
 
 ---
