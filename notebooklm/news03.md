@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 22:53:05_
-_本檔包含 3712 則快訊，約 668238 字_
+_更新時間：2026-06-13 23:45:56_
+_本檔包含 3714 則快訊，約 668246 字_
+
+---
+
+### 2026-06-11 04:02:04  #MKT News #Important #Star Stocks #NVIDIA #Tesla #Market Themes #Magnificent 7 #SMCI.O #Impact bearish #NVDA.O #Nasdaq100
+
+【US close: Nasdaq down nearly 2%; Super Micro plunges 28%】US stocks closed lower Wednesday: Dow fell 1.87%, S&P 500 down 1.61% and Nasdaq Composite down 1.98%. Super Micro Computer (SMCI.O) plunged about 28%. Tesla (TSLA.O) and NVIDIA (NVDA.O) slid more than 3%. Nasdaq Golden Dragon China Index slipped 0.28%; NetEase (NTES.O) rose nearly 4% while GDS Holdings (GDS.O) dropped about 7%.
+
+---
+
+### 2026-06-11 04:01:31  #MKT News
+
+Iran's UN ambassador said the United States cannot secure a sustainable agreement through threats, intimidation or the use of force, and that Iran has never negotiated under threat and will not yield to pressure or coercion.
+
+---
+
+### 2026-06-11 04:01:27  #市場 #焦點
+
+現貨黃金失守4080美元/盎司，日內跌4.22%。
+
+---
+
+### 2026-06-11 04:00:55  #國際
+
+伊朗常駐聯合國大使：依靠威脅、恐嚇或武力，無法與美國達成可持續協議。伊朗從未在威脅下談判，也絕不會屈服於壓力與脅迫。
+
+---
+
+### 2026-06-11 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌1.88%，標普500指數跌1.63%，納指跌1.99%。超微電腦跌27.89%，Generac控股跌8.40%，斑馬技術跌7.43%，Insmed跌7.23%，NRG能源跌7.15%，高通跌6.92%。“七姐妹”方面：蘋果漲0.36%，微軟跌1.48%，Meta Platforms跌2.32%，谷歌跌2.42%，亞馬遜跌2.56%，英偉達跌3.72%，特斯拉跌3.80%。
+
+---
+
+### 2026-06-11 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌0.27%】萬國資料跌7.26%，優品車跌5.38%，阿特斯跌5.65%，世紀互聯跌5.23%，禾賽科技跌4.66%。
+
+---
+
+### 2026-06-11 03:55:26  #MKT News
+
+Saudi state news agency SPA said the Saudi Crown Prince, at the request of Lebanon's president, ordered the resumption of Lebanese exports to Saudi Arabia.
+
+---
+
+### 2026-06-11 03:55:17  #其他
+
+SpaceX告知投資者，其已敲定多家一流信用評級機構開展評級工作。
+
+---
+
+### 2026-06-11 03:54:54  #其他
+
+沙特官方通訊社訊息：應黎巴嫩總統請求，沙特王儲下令恢復黎巴嫩對沙特的出口貿易。
+
+---
+
+### 2026-06-11 03:50:02  #其他
+
+比爾・蓋茨在愛潑斯坦相關小組聽證會後離開國會大廈。
+
+---
+
+### 2026-06-11 03:47:14  #央行 #其他
+
+墨西哥央行行長： 墨美雙方在金融監管領域的溝通已有所改善 ，預計世界盃不會引發金融風險。
+
+---
+
+### 2026-06-11 03:44:47  #其他
+
+白宮提名布萊恩・約翰遜擔任消費者金融保護局局長，白宮已將該提名提交至參議院。
+
+---
+
+### 2026-06-11 03:40:36  #宏觀 #國際
+
+【美國5月退還近220億美元關稅 基本抵消當月關稅收入】美國財政部在5月向進口商退還了近220億美元的關稅收入。這是自最高法院推翻特朗普的大部分關稅措施以來，美國政府進行的首批此類退款。根據財政部週三釋出的宣告，5月退還的關稅總額較4月的20億美元大幅增加。從本財年的前8個月來看，整體財政赤字收窄至1.25萬億美元，較去年同期下降9%。與此同時，關稅收入在去年10月達到峰值。財政部宣告顯示，5月的關稅退款金額與當月的徵收額大致相當，這意味著兩者基本相互抵消。
+
+---
+
+### 2026-06-11 03:40:27  #MKT News #SMCI.O #Impact bearish
+
+Super Micro Computer (SMCI.O) shares fell more than 25% after the company announced plans to raise $7 billion through an equity offering.
+
+---
+
+### 2026-06-11 03:38:50  #國際
+
+【美軍連續第二天在阿曼灣向油輪開火 】美軍中央司令部10日在社交媒體釋出訊息稱，美軍9日晚在阿曼灣向一艘油輪開火，並致使其喪失航行能力。這是美軍連續第二天向所謂“違反美方對伊朗港口封鎖令”的船隻開火。訊息稱，這艘懸掛帛琉國旗的油輪當時正試圖從伊朗運輸石油，“違反了美方正在實施的封鎖令”。在該油輪船員多次不聽從美軍指令後，一架美軍飛機向該船機艙發射了精確制導武器。訊息還說，自4月13日開始對伊朗港口的海上交通實施封鎖以來，美軍已致使8艘“違規”船隻喪失航行能力，強制134艘船隻改變航向。（新華社）
+
+---
+
+### 2026-06-11 03:38:06  #其他
+
+智利國家銅業委員會：埃斯孔迪達銅礦 4 月產量同比下降 22%。
+
+---
+
+### 2026-06-11 03:38:01  #國際
+
+市場訊息：巴西與美國預計將於週五就關稅問題展開磋商。
+
+---
+
+### 2026-06-11 03:37:02  #其他
+
+超微電腦跌幅擴大至26%，為自2020年3月以來的最大跌幅。
+
+---
+
+### 2026-06-11 03:35:33  #其他
+
+墨西哥反壟斷機構對至少 7 家房地產企業處以超 5 億比索罰款。
+
+---
+
+### 2026-06-11 03:34:11  #公司
+
+智利國家銅業委員會：智利國家銅業公司 4 月銅產量同比下降 14%。
+
+---
+
+### 2026-06-11 03:33:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Iran parliament security chief says war will not be confined to region】After Trump’s comments about possible further strikes on Iran, Ibrahim Aziz, head of the Iranian parliament’s National Security Committee, posted on social media saying US casualties are already far higher than Trump has acknowledged and will continue to rise, and that the war "will not be confined to the region."
+
+---
+
+### 2026-06-11 03:33:11  #國際
+
+【伊朗議會要員：戰爭將不會侷限於本地區】在特朗普發表有關可能進一步打擊伊朗的言論後，伊朗議會國家安全委員會負責人易卜拉欣·阿齊茲在社交媒體上釋出了一則強硬表態。他表示：“我們不懼怕與失敗者作戰。美國的傷亡人數已經遠遠高於特朗普所承認的數字，而且還會繼續上升。這一次，戰爭將不會侷限於本地區。我們拭目以待！”
 
 ---
 
@@ -22241,125 +22373,5 @@ US 1-year Treasury auction June 9: stop-out yield 3.75%, up 10 bps from 3.65% pr
 ### 2026-06-09 23:32:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
 
 US 1-year Treasury auction to June 9 — share of awards at the stop-out yield 70.95%, versus 4.56% previously.
-
----
-
-### 2026-06-09 23:32:13  #MKT News #Important
-
-Iran's Supreme Leader said Tehran has never sought war and does not seek it, but will never relinquish its legitimate rights.
-
----
-
-### 2026-06-09 23:32:11  #焦點 #國際
-
-伊朗最高領袖：我們從未尋求戰爭，也不尋求戰爭，但我們絕不會放棄我們的合法權利。
-
----
-
-### 2026-06-09 23:32:05  #MKT News #Economic Calendar
-
-United States | 12-Month Bill Auction Bid/Cover Ratio (Jun.9) | actual 3.34 | previous 3.41
-
----
-
-### 2026-06-09 23:32:05  #MKT News #Economic Calendar
-
-United States | 12-Month Bill Auction Accepted at High (Jun.9) | actual 70.95% | previous 4.56%
-
----
-
-### 2026-06-09 23:32:05  #MKT News #Economic Calendar
-
-United States | 12-Month Bill Auction High Yield Rate (Jun.9) | actual 3.75% | previous 3.65%
-
----
-
-### 2026-06-09 23:32:01  #市場 #焦點
-
-現貨黃金失守4270美元/盎司，日內跌1.49%。
-
----
-
-### 2026-06-09 23:31:53  #市場 #焦點
-
-紐約期金失守4290美元/盎司，日內跌1.68%。
-
----
-
-### 2026-06-09 23:30:32  #市場 #其他 #焦點 #國際
-
-納斯達克100指數跌幅擴大至2%。
-
----
-
-### 2026-06-09 23:30:28  #市場 #焦點
-
-紐約期金失守4300美元/盎司，日內跌1.45%。
-
----
-
-### 2026-06-09 23:30:21  #其他
-
-德國DAX 30指數初步收跌0.08%，報24595.96點。法國股指初步收漲0.46%，義大利股指初步收漲1%、銀行指數漲2.02%，英國股指初步收跌0.87%。
-
----
-
-### 2026-06-09 23:30:19  #國際
-
-歐洲STOXX 600指數初步收漲0.11%，報622.44點。歐元區STOXX 50指數初步收漲0.58%，報6096.96點。富時泛歐績優300指數初步收漲0.10%，報2486.66點。
-
----
-
-### 2026-06-09 23:28:53  #市場 #焦點
-
-標普500指數跌1.03%，現報7329.770點；道指跌0.52%，現報50520.641點；納指跌1.79%，現報25466.281點。
-
----
-
-### 2026-06-09 23:28:47  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，億航跌20.67%，海天網路跌15.82%，大全新能源跌7.32%，阿特斯跌5.81%，高途跌5.63%。
-
----
-
-### 2026-06-09 23:28:45  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The United States Stock Market Index (US500) Hit 4-week Low — US500 decreased to 7330.00 Index Points, the lowest since May 2026. Over the past 4 weeks, United States Stock Market Index (US500) lost 1.05%, and in the last 12 months, it increased 21.46%.
-
----
-
-### 2026-06-09 23:28:44  #MKT News #Important #Market Regions #Wall Street (US) #Market Themes #Chip Wars #S&P500 #Impact bearish #Nasdaq100 #QCOM.O
-
-Nasdaq Composite intraday losses widened to over 1.5%; S&P 500 down 1%. Philadelphia Semiconductor Index fell 3.7%; Qualcomm (QCOM.O) -7.5%, Intel (INTC.O) -3.6%, Micron Technology (MU.O) -4%.
-
----
-
-### 2026-06-09 23:27:36  #國際
-
-歐盟反壟斷負責人表示，針對Meta的臨時裁定將持續至調查結束，最晚至 2029 年 6 月。
-
----
-
-### 2026-06-09 23:27:04  #其他
-
-納斯達克指數跌幅擴大至1.5%。
-
----
-
-### 2026-06-09 23:26:16  #市場
-
-【摩根資管：美股將挺過任何短暫且劇烈的回撥】摩根資產管理的Jack Caffrey表示，儘管一些訊號顯示美股可能漲幅過大，但企業盈利增長支撐了市場情緒，美股仍有進一步上漲空間。Caffrey週二指出，即便經濟擴張已持續多年，但企業盈利仍有望在2026年實現22%或更高的增長。他還提到，去年的盈利增長率在10%-20%區間的中段，預計2027年也將保持這一水平。“這確實是一個由盈利驅動的故事，”他說，“我仍然看好當前的股市。”
-
----
-
-### 2026-06-09 23:25:40  #國際
-
-伊朗媒體報道：克爾曼沙阿機場總負責人宣佈，該國西部地區航班限制已解除，克爾曼沙阿空域重新開放。
-
----
-
-### 2026-06-09 23:25:15  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Tech Stocks Come Under Fresh Selling — US equity indices swung lower on Tuesday as the pivot out of the heavyweight tech sector was resumed following yesterday's respite. The S&P 500 and the Nasdaq 100 fell 1% and 2%, respectively, as the more defensive Dow dropped 0.5%. The fresh pressure on companies in the AI space reflected the lingering skepticism that part of the rally for chips and datacenter producers in recent quarters may have been overblown, despite sustained signals from hyperscalers that infrastructure is need to run models. The latest moves were from OpenAI, which filed for an IPO, and Anthropic, raising more cash through private credit. Nvidia, Oracle, and AMD lost between 3% and 1%. Meanwhile, Apple lost 3% as its new Siri AI assistant will not be launched in the EU due to antitrust laws from Brussels. Meanwhile, broader sectors were higher as lower energy prices added some respite for Treasuries. Asset managers led the pace with Blackstone and KKR adding 2%.
 
 ---
