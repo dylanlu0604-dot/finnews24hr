@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 01:44:44_
-_本檔包含 3643 則快訊，約 668417 字_
+_更新時間：2026-06-14 02:41:17_
+_本檔包含 3660 則快訊，約 668536 字_
+
+---
+
+### 2026-06-14 02:38:20  #國際
+
+衛星影象顯示，伊朗近期襲擊美軍基地期間，巴林謝赫·伊薩空軍基地的兩座燃料罐遭損毀。
+
+---
+
+### 2026-06-14 02:37:21  #國際
+
+伊朗駐墨西哥大使表示，伊朗民眾期待美方展現善意、相互尊重。
+
+---
+
+### 2026-06-14 02:37:20  #MKT News
+
+Iran's ambassador to Mexico said the Iranian people expect goodwill and mutual respect from the United States.
+
+---
+
+### 2026-06-14 02:36:25  #其他
+
+墨西哥檢察官辦公室：南部一名市長遭槍擊身亡。
+
+---
+
+### 2026-06-14 02:34:45  #公司 #國際
+
+美國廣播公司基於政府資料展開分析，結果顯示，特朗普第二屆政府上任後的前14個月裡，美國移民與海關執法局拘留的人員中，僅有3%曾被判暴力重罪。
+
+---
+
+### 2026-06-14 02:31:40  #國際
+
+以色列媒體：以色列小型部長委員會將於週日晚間召開會議，討論美伊相關協議。
+
+---
+
+### 2026-06-14 02:28:45  #MKT News
+
+GFZ: a magnitude-5.22 earthquake struck Guerrero state, Mexico.
+
+---
+
+### 2026-06-14 02:25:37  #國際
+
+印度總理莫迪：剛剛抵達尼斯。除了尼斯，此次法國之行還包括在埃維昂和巴黎的活動。此行將舉行雙邊和多邊會議，旨在加強印度與其主要發展夥伴的友好關係。我期待明天與馬克龍總統會面，並出席“印度創新峰會”。
+
+---
+
+### 2026-06-14 02:24:32  #國際
+
+以色列廣播管理局：軍方正在為政治指揮部可能下令停止在黎巴嫩南部地面推進的情況做準備。
+
+---
+
+### 2026-06-14 02:21:21  #國際
+
+以色列官員表示，這份即將達成的伊朗協議或將鞏固伊朗現政權，並限制以色列國防軍針對真主黨的軍事行動。
+
+---
+
+### 2026-06-14 02:20:11  #MKT News #WTI #Impact bullish #XAUUSD
+
+Channel 12, citing Israeli officials, said any potential agreement with Iran would jeopardize Israel's security interests and arrangements.
+
+---
+
+### 2026-06-14 02:20:03  #國際
+
+特朗普稱，伊美核協議是一道抵禦核武器的屏障。
+
+---
+
+### 2026-06-14 02:19:38  #國際
+
+以色列媒體：小型部長會議將於明晚召開，背景是美國與伊朗達成協議。
+
+---
+
+### 2026-06-14 02:18:30  #MKT News
+
+Israeli media report that, amid a U.S.-Iran agreement, a small ministerial-level meeting is scheduled for tomorrow night.
+
+---
+
+### 2026-06-14 02:17:19  #國際
+
+伊朗銀行協調委員會：（針對四家銀行的有限網路攻擊）幸運的是，沒有發生任何未經授權對客戶資訊的訪問，也沒有發生資訊洩露目前，所有基礎設施均由技術專家完全控制。
+
+---
+
+### 2026-06-14 02:15:26  #公司 #國際
+
+印度總理莫迪啟程出訪法國與斯洛伐克，隨後將出席七國集團峰會。
+
+---
+
+### 2026-06-14 02:14:28  #國際
+
+黎巴嫩真主黨公佈畫面，顯示使用伊朗358型巡飛防空導彈擊落一架以色列蒼鷺1型察打一體無人機。
+
+---
+
+### 2026-06-14 02:14:12  #MKT News
+
+A senior Israeli official told Israel's Channel 12 that Trump's Iran deal is 'a terrible deal.'
+
+---
+
+### 2026-06-14 02:12:59  #國際
+
+以色列一名高階官員就特朗普的伊朗相關協議表態：這是一份糟糕的協議。
+
+---
+
+### 2026-06-14 02:12:29  #公司 #國際
+
+訊息人士：美伊備忘錄選擇線上簽署的主要原因之一是美方談判團隊負責人萬斯無法在特朗普週一上午啟程前往法國出席七國集團峰會前趕回美國。
+
+---
+
+### 2026-06-14 02:11:52  #國際
+
+沙特外交部長接到巴基斯坦外交部長的電話，討論了最新事態發展。
+
+---
+
+### 2026-06-14 02:11:41  #MKT News
+
+Saudi and Pakistani foreign ministers held a phone call to exchange views on regional developments and related response efforts.
+
+---
+
+### 2026-06-14 02:11:28  #MKT News
+
+Saudi foreign minister spoke by phone with Pakistan's foreign minister to discuss recent developments.
+
+---
+
+### 2026-06-14 02:10:53  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+Lebanon's National News Agency (NNA) reported Israeli forces bombed the town of Blat in the Marjayoun area of southern Lebanon.
+
+---
+
+### 2026-06-14 02:10:39  #焦點 #國際
+
+伊朗四家銀行（國家銀行、商業銀行、出口銀行、出口發展銀行）遭遇小規模網路攻擊。 相關部門表示，客戶資料未被訪問或洩露，系統已得到管控，目前正在開展修復工作。
+
+---
+
+### 2026-06-14 01:50:54  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+【Kuwait foreign minister discusses progress on US-Iran peace agreement text with Qatari PM】Kuwait foreign minister Sabah spoke by phone on Saturday with Qatari PM and foreign minister Al Thani; they reviewed recent regional developments and the ongoing negotiations, noting progress toward a final text of a US-Iran peace agreement.
+
+---
+
+### 2026-06-14 01:48:42  #MKT News
+
+【Libya presidential council chair says willing to deepen ties with China】Libya Presidential Council chairman Manfi said in Tripoli on June 13 that Libya prioritizes developing relations with China and is willing to deepen mutually beneficial cooperation across sectors to elevate bilateral ties.
+
+---
+
+### 2026-06-14 01:47:58  #國際
+
+市場資訊：美國房價創下歷史新高，均價首次突破40萬美元。
+
+---
+
+### 2026-06-14 01:46:32  #國際
+
+【利比亞總統委員會主席：願推動利中關係邁向更高水平】利比亞總統委員會主席曼菲13日在利比亞首都的黎波里表示，利方高度重視發展對華關係，願不斷增進兩國各領域互利合作，推動雙邊關係邁向更高水平。（新華社）
+
+---
+
+### 2026-06-14 01:44:15  #國際
+
+伊朗法爾斯通訊社：特朗普推動美伊備忘錄於週日簽署，但伊朗官員表示協議尚未敲定，預計不會舉行簽署儀式。有觀點認為，特朗普希望藉此次官宣恰逢自己生日，將其打造為一場具有象徵意義的政治勝利。週日也將成為一場考驗，看看伊朗談判代表能否堅守立場，頂住壓力拒絕倉促簽約。
 
 ---
 
@@ -21887,83 +22067,5 @@ FTSE China A50 index futures opened up 0.89%.
 ### 2026-06-12 08:54:58  #Trading Economics #Markets #Australia #Currency #Importance 1
 
 Aussie Heads for Flat Weekly Finish — The Australian dollar held around $0.70 and was on track to finish the week little changed, as markets await the Reserve Bank’s upcoming policy decision next week. Markets are increasingly pricing in the possibility that the central bank has already concluded its tightening cycle after three rate hikes this year. A run of softer economic releases, from GDP to housing prices, reinforced expectations that policymakers will keep the cash rate unchanged at 4.35% on Tuesday. Investors also scaled back bets on further tightening, with the odds of an August rate hike falling sharply from 80% a month ago to around 35%. The May CPI report, due on June 24, will be pivotal for an August move following an unexpectedly soft April inflation reading, as policymakers look for clearer evidence that price pressures remain strong. Meanwhile, global risk appetite improved after US President Trump said a deal with Iran could be reached as early as this weekend after postponing planned attacks against Iran.
-
----
-
-### 2026-06-12 08:54:31  #MKT News
-
-【Hanmi Semiconductor to spend 50 billion won buying SpaceX shares】Hanmi Semiconductor said on June 12 it will invest 50 billion won (about $32.9m) to purchase shares in SpaceX. The company described the move as a strategic early-positioning investment driven by SpaceX's growth prospects and its Terafab project.
-
----
-
-### 2026-06-12 08:53:29  #央行 #國際
-
-日本內閣官房長官木原稔：歐洲央行從價格穩定的角度出發上調了利率。
-
----
-
-### 2026-06-12 08:51:43  #央行 #國際
-
-日本內閣官房長官木原稔：對歐洲央行加息不予詳細評論。
-
----
-
-### 2026-06-12 08:50:02  #公司
-
-【銀信科技成立智算科技公司，含AI及機器人業務】企查查APP顯示，近日，北京銀信長遠智算科技有限公司成立，註冊資本1000萬元，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧通用應用系統；人工智慧基礎資源與技術平臺；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由銀信科技全資持股。
-
----
-
-### 2026-06-12 08:49:27  #公司
-
-法拉第未來：FF將於北京時間2026年6月17日早8:30在公司洛杉磯總部舉辦的 FF EAI 機器人教育生態戰略及產品線 & EAI 終端新品釋出會。
-
----
-
-### 2026-06-12 08:49:12  #公司
-
-【精研科技：公司光模組殼體產品已有部分開始量產】6月11日下午，精研科技在接待機構調研時表示，公司光模組殼體已伴隨客戶開展兩年聯合開發，期間合作研發了多款不同樣式的產品，目前已有部分開始量產。產品規格從800G迭代至1.6T，目前正推進更為前沿的產品研發工作。該類產品傳統主流用材為鋅合金、鋁合金，通常還需搭配散熱板、均熱板、熱管等輔件。現階段我們已協同客戶完成銅合金原材料的應用開發，散熱效能優勢突出，且產品在硬度、電導率、導熱係數等各項指標均滿足客戶標準。部分產品已於今年起正式落地、轉入量產。若後續客戶訂單需求增長，公司可透過進一步擴充產能，或對內部產能進行合理調配，快速釋放產能承接訂單。後續規模放量情況將主要取決於客戶實際需求。
-
----
-
-### 2026-06-12 08:48:50  #市場 #央行 #國際
-
-【調查：抵押貸款利率居高不下，將使美國房地產市場持續低迷】路透對房地產專家的調查顯示，抵押貸款利率高企將使今明兩年的美國住宅市場交易保持低迷，房價僅會微幅上漲，這將使特朗普政府振興房市的目標受挫。作為大多數美國住房貸款指標的30年期抵押貸款利率，近幾個月來一直徘徊在6.6%左右，遠高於過去十年的平均水平4.3%，且預計短期內不會出現明顯下降。路透對經濟學家的另一項調查顯示，金融市場不再預期美聯儲今年會降息，並將12月加息納入定價。這表明，房市復甦的前景可能比調查結果顯示的還要暗淡。6月1日至11日的調查中位數預測顯示，30年期抵押貸款利率下季度為6.4%，第四季度為6.3%。預計到2028年，該利率平均將超過6.0%，這比三個月前的調查結果高出約25個基點。
-
----
-
-### 2026-06-12 08:47:50  #公司
-
-【韓美半導體將使用500億韓元投資於SpaceX】據公司宣告，韓美半導體將花費500億韓元購買SpaceX的股份。這項投資是一項提前佈局的戰略舉措，其驅動力是SpaceX的增長和Terafab專案。
-
----
-
-### 2026-06-12 08:47:38  #MKT News #CSI300 #Impact bearish #SSE Composite
-
-【China margin financing balance across both exchanges down CNY5.223 bln】As of June 11, margin financing on the Shanghai Stock Exchange stood at CNY1,448.247 bln, up CNY0.389 bln versus the prior trading day; on the Shenzhen Stock Exchange it was CNY1,395.569 bln, down CNY5.612 bln. Combined margin balance was CNY2,843.816 bln, down CNY5.223 bln.
-
----
-
-### 2026-06-12 08:47:35  #國際
-
-【破產的對沖基金創始人Weiss透過出售名畫藏品籌資清償債務】破產對沖基金創始人George Weiss正準備出售其龐大藝術收藏中的又一件作品，計劃出讓英國畫家弗朗西斯·培根的一幅自畫像。此前，他已同意出售保羅·西涅克和巴勃羅·畢加索的作品。根據其律師週三提交的檔案，Weiss正請求佛羅里達州一名破產法官批准，透過與高古軒畫廊現有的委託協議，出售這幅1972年的布面油畫。今年3月，另一幅同為1972年創作的培根自畫像在蘇富比拍賣會上以約1600萬英鎊成交。Weiss及其同名對沖基金此前因與Jefferies Financial Group Inc.就超過1億美元債務發生糾紛而申請第11章破產保護。法庭檔案顯示，培根這幅畫作是韋斯在2018年為獲得美國銀行1.326億美元貸款所抵押的多件藝術品之一。
-
----
-
-### 2026-06-12 08:47:27  #其他
-
-【兩市融資餘額減少52.23億元】截至6月11日，上交所融資餘額報14482.47億元，較前一交易日增加3.89億元；深交所融資餘額報13955.69億元，較前一交易日減少56.12億元；兩市合計28438.16億元，較前一交易日減少52.23億元。
-
----
-
-### 2026-06-12 08:47:24  #公司
-
-【隆基綠能在巴彥淖爾成立雙能新能源公司】企查查APP顯示，近日，巴彥淖爾市雙能新能源有限公司成立，經營範圍包含：風力發電技術服務；太陽能發電技術服務；合同能源管理等。企查查股權穿透顯示，該公司由隆基綠能間接全資持股。
-
----
-
-### 2026-06-12 08:45:51  #公司
-
-【宇瞳光學：定增申請獲深交所稽核透過】宇瞳光學公告，公司於2026年6月11日收到深交所上市稽核中心出具的《關於東莞市宇瞳光學科技股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深交所發行上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求，後續深交所將按規定報中國證監會履行相關注冊程式。
 
 ---

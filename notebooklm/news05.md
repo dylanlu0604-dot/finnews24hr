@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 01:44:44_
-_本檔包含 3781 則快訊，約 668398 字_
+_更新時間：2026-06-14 02:41:17_
+_本檔包含 3770 則快訊，約 668140 字_
+
+---
+
+### 2026-06-08 20:15:41  #其他
+
+【中國人民銀行行長潘功勝會見香港銀行公會代表團】2026年6月8日，中國人民銀行行長潘功勝會見由香港金融管理局總裁餘偉文率領的香港銀行公會代表團。雙方就當前宏觀經濟形勢、深化內地與香港金融市場互聯互通合作、加強香港離岸人民幣市場建設、鞏固提升香港國際金融中心地位等議題進行了交流。中國人民銀行副行長鄒瀾參加會見。（中國人民銀行）
+
+---
+
+### 2026-06-08 20:15:14  #公司
+
+【凱眾股份：擬購安徽拓盛45%股權並認購新股 已履行多項程式】凱眾股份公告稱，公司擬發行股份及支付現金購買安徽拓盛45%股權，現金認購其320萬股新增股份並募集配套資金。交易完成後，公司將持有安徽拓盛50.3012%股權，構成重大資產重組。公司已按規定履行多道程式，包括採取保密措施、申請停牌、編制預案、召開多次董事會與股東會並簽署多份協議等。本次交易尚需公司股東會、標的公司股東會批准，經上交所稽核及證監會註冊等。
+
+---
+
+### 2026-06-08 20:15:02  #公司 #市場
+
+【凱眾材料：重大資產重組前股價波動未構成異常】凱眾材料公告稱，公司擬發行股份及支付現金購買安徽拓盛45%股權，現金認購其新增320萬股股份並募集配套資金，交易完成後將持有安徽拓盛50.3012%股權。公司股票2025年11月24日起停牌，停牌前第21個交易日收盤價14.45元/股，停牌前一交易日收盤價13.08元/股，累計下跌9.48%。獨立財務顧問核查認為，剔除大盤和同行業板塊因素，股價在交易資訊公告前20個交易日內累計漲跌幅未超20%，不構成異常波動。
+
+---
+
+### 2026-06-08 20:14:48  #公司
+
+【凱眾股份：擬4050萬元出售子公司土地使用權及房產】凱眾股份公告稱，公司全資子公司洛陽凱眾減震擬向河南文泓出售其位於洛陽市孟津區廠區的國有土地使用權、房屋所有權及相關附屬設施，轉讓總價款4050萬元。截至2026年4月30日，標的資產賬面淨值2778.98萬元，交易溢價45.74%。付款分四階段，2026年6月8日公司董事會已審議透過。本次交易不構成關聯交易和重大資產重組，若順利完成，預計對2026年業績及現金流有積極影響。
+
+---
+
+### 2026-06-08 20:14:43  #宏觀 #國際
+
+【跨境券商整改進行時：部分香港券商開戶通道未關，中介仍在招攬內地客戶】記者採訪發現，監管集中整治措施出臺後，富途牛牛App內同一投資者持有的不同賬戶，出現了截然不同的交易狀態。有存量境內投資者的富途證券（香港）賬戶已無法完成買入交易，需更新境外身份證明；而由美國持牌機構提供服務的Moomoo賬戶仍可正常下單。不僅如此，在監管整改持續推進背景下，部分香港本地持牌券商的開戶申請通道目前仍可提交，一些中介也仍在社交平臺上以返現獎勵等方式招攬客戶。（澎湃）
+
+---
+
+### 2026-06-08 20:14:42  #資料 #國際
+
+【一艘遊輪在阿曼海域遇襲起火】據印度前進水手聯盟船員工會及多方訊息，一艘油輪於週一（8日）在阿曼附近海域遭到襲擊並起火，船上24名印度籍船員目前處於遇險狀態，相關各方正緊急展開搜救與核實工作。涉事船隻為“馬裡維克斯”號（MT Marivex）油輪，懸掛帛琉國旗，其註冊所有者為 Arihant Shipping Inc。
+
+---
+
+### 2026-06-08 20:14:17  #公司
+
+【步長製藥：擬就阿達木單抗注射液簽署《經銷、營銷服務和代理協議》】步長製藥(603858)6月8日公告，公司控股子公司瀘州步長擬與越南公司MKT及早安國際簽署《經銷、營銷服務和代理協議》，瀘州步長擬授權MKT在目標區域內完成阿達木單抗注射液的獨家營銷和經銷。
+
+---
+
+### 2026-06-08 20:14:05  #MKT News #Important
+
+Red alert sirens sounded in Israel's Upper Galilee region.
+
+---
+
+### 2026-06-08 20:13:50  #國際
+
+據報道，以色列北部謝莫納鎮及周邊城鎮響起黎巴嫩方向火箭彈來襲警報。
+
+---
+
+### 2026-06-08 20:12:50  #國際
+
+【以媒：以色列本輪襲擊伊朗與美方“全面協調”】據《以色列時報》8日報道，以色列單獨實施本輪對伊朗的襲擊，但與美國進行了“全面協調”，同時以國防軍已做好與伊朗“戰鬥數日”甚至“全面恢復戰爭”的準備。報道援引以軍訊息說，本輪對伊朗的襲擊由以色列單方面實施，但與美軍中央司令部進行了“全面協調”，美軍也參與攔截伊朗來襲導彈的行動。以軍總參謀長扎米爾與美軍中央司令部司令布拉德·庫珀進行了3次通話。報道說，以軍預計本輪與伊朗的衝突將持續數日，但已做好應對“長期衝突”的準備。自7日晚以來，伊朗向以色列發射至少20枚彈道導彈；葉門胡塞武裝向以色列發射2枚彈道導彈。以軍稱來襲導彈均被攔截或擊中空曠地帶。報道還說，為回應伊朗導彈襲擊，以色列對伊朗發動兩輪空襲，打擊目標包括伊朗西部和中部的防空系統以及伊朗西南部一個石油化工綜合體的3家工廠。以軍7日空襲黎巴嫩首都貝魯特南郊，伊朗於當晚向以色列發射多輪導彈作為回應。8日凌晨，以軍發表宣告說，以空軍對伊朗西部和中部地區的軍事目標實施空襲。（新華社）
+
+---
+
+### 2026-06-08 20:12:22  #MKT News #Commodities #Energy #JKS.O #Impact bullish
+
+【JinkoSolar wins 1.2 GW in CGN New Energy 2026 PV module procurement】JinkoSolar said CGN New Energy published results of its 2026 PV module and equipment framework procurement. JinkoSolar secured 1.2 GW of Feihu 3 high-efficiency modules; the winning price was the highest among the conventional tranche.
+
+---
+
+### 2026-06-08 20:12:20  #MKT News
+
+HEZBOLLAH said its Islamic Resistance mujahideen fired rockets at an Israeli forward artillery position in the town of Adaissa at 11:00 Monday (16:00 Beijing time).
 
 ---
 
@@ -22630,143 +22702,5 @@ Iranian Students' News Agency said Iran's interior minister received a letter fr
 ### 2026-06-07 02:43:28  #國際
 
 伊朗邁赫爾通訊社週六報道，伊朗哈爾格島傳出的爆炸聲，源於巴赫雷甘石油區的彈藥銷燬作業。
-
----
-
-### 2026-06-07 02:24:25  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【IDF says killed Hamas commander in southern Gaza】The Israel Defense Forces said a nighttime airstrike in southern Gaza on June 6 killed a Hamas military commander. The IDF said the commander had planned multiple recent attacks on Israeli forces and posed a direct threat to IDF deployments. Hamas did not immediately respond.
-
----
-
-### 2026-06-07 02:24:02  #國際
-
-【以軍稱在加沙南部打死一名哈馬斯指揮官】當地時間6日，以色列國防軍表示，以軍當天夜間在加沙地帶南部發動空襲，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的一名軍事指揮官。以軍表示，該指揮官在衝突期間以及最近幾天參與策劃多起針對以軍部隊的襲擊行動，對以軍在當地的部署構成直接威脅。對此，哈馬斯方面暫無回應。（央視新聞）
-
----
-
-### 2026-06-07 02:21:45  #國際
-
-【伊朗媒體：哈爾克島附近居民聽到爆炸聲】據多家伊朗媒體報道，伊朗哈爾克島附近的居民6日晚稱聽到強烈爆炸聲。（新華社）
-
----
-
-### 2026-06-07 02:20:24  #國際
-
-伊朗國家電視臺：今日一艘船隻未與伊朗方面協調，試圖通行霍爾木茲海峽，隨即遭到襲擾。另有三艘船隻在收到伊朗警告後返航。
-
----
-
-### 2026-06-07 02:19:44  #國際
-
-【以軍稱打擊黎巴嫩南部約150處真主黨目標】當地時間6日，以色列國防軍表示，在5日、6日兩天，以軍在黎巴嫩南部對約150處真主黨武裝基礎設施實施空襲和火力打擊。以軍稱，打擊目標包括武器儲存點、指揮中心、火箭發射裝置以及其他用於開展軍事行動的設施。以軍表示，這些設施被真主黨用於策劃和實施針對以軍部隊的襲擊。（央視新聞）
-
----
-
-### 2026-06-07 02:17:41  #MKT News #WTI #Brent
-
-TASNIM NEWS reports sounds of explosions on Kharg Island were caused by a controlled detonation of munitions.
-
----
-
-### 2026-06-07 02:16:13  #國際
-
-伊朗塔斯尼姆通訊社表示，哈爾克島聽到的爆炸聲與受控彈藥銷燬爆破有關。
-
----
-
-### 2026-06-07 02:14:13  #MKT News #WTI #Impact bullish #Brent
-
-Iran's Fars news agency reported explosions were heard near Kharg Island.
-
----
-
-### 2026-06-07 02:14:07  #國際
-
-克里姆林宮：烏克蘭特別軍事行動的結果對華盛頓已變得清楚。
-
----
-
-### 2026-06-07 02:13:54  #國際
-
-【巴勒斯坦官方機構：以方5月在約旦河西岸實施超1600起襲擊】巴勒斯坦官方機構“巴勒斯坦隔離牆和定居點抵抗委員會”6月6日釋出月度報告稱，今年5月份，以色列軍隊和以色列猶太人定居者在約旦河西岸共實施1659起襲擊事件。巴方表示，襲擊呈系統性升級趨勢，嚴重影響當地居民生活和農業生產。（央視新聞）
-
----
-
-### 2026-06-07 02:13:50  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Global oil inventories at risky lows; another price spike could hit markets and economy】With no agreement restoring passage through the Strait of Hormuz, global oil inventories have fallen to dangerously low levels. JP Morgan warns that unless transit is normalized, oil could surge again in late June. U.S. crude stocks have declined for eight straight weeks to their lowest since Feb 2024. Analysts say the second-round price shock risk stems from the depletion of buffer stocks rather than a formal closure; investors see the Strait as a persistent geopolitical bottleneck and expect prices to remain above $70 even if tensions ease. Higher oil is a modest headwind for U.S. growth but poses greater inflationary risk for Europe and Asia; if crude averaged $120/bbl for a year, growth in the U.S. could slow by roughly 0.4 percentage point.
-
----
-
-### 2026-06-07 02:13:15  #國際
-
-伊朗法爾斯通訊社稱，哈格島附近聽到爆炸聲。
-
----
-
-### 2026-06-07 02:12:03  #公司 #焦點
-
-谷歌為安卓系統推出AI虛假來電檢測功能，應對日益增多的電信詐騙。
-
----
-
-### 2026-06-07 02:11:51  #其他 #焦點
-
-微軟警告稱，Claude Code 存在漏洞，可能導致GitHub賬號憑證洩露。
-
----
-
-### 2026-06-07 02:07:21  #國際
-
-真主黨襲擊了黎巴嫩南部納巴蒂耶省亞穆爾·沙基夫鎮附近的一輛以色列軍用車輛。
-
----
-
-### 2026-06-07 02:07:19  #MKT News
-
-HEZBOLLAH attacked an Israeli military target near the town of Yakhmour Shakif in Nabatieh, southern Lebanon.
-
----
-
-### 2026-06-07 02:02:42  #MKT News
-
-Qatar's state news agency QNA reported Qatar attended a Gulf Cooperation Council (GCC) labor ministers' coordination meeting.
-
----
-
-### 2026-06-07 02:01:30  #國際
-
-特朗普： 十年之後，巴拉克·侯賽因·奧巴馬圖書館將全面落成並正式投入使用。
-
----
-
-### 2026-06-07 01:58:18  #國際
-
-特朗普聲稱，伊朗還剩下22%的導彈。
-
----
-
-### 2026-06-07 01:48:24  #焦點 #國際
-
-伊朗議會議長助理阿里·尼克扎德：我們已封鎖霍爾木茲海峽，必要時也會封鎖曼德海峽。
-
----
-
-### 2026-06-07 01:47:03  #國際
-
-菲律賓航空高管：菲航將訂購新飛機，或於未來兩三個月內完成採購。
-
----
-
-### 2026-06-07 01:46:59  #市場 #國際
-
-菲律賓航空高管：受燃油價格上漲影響，運能同比下降約5%。
-
----
-
-### 2026-06-07 01:46:48  #國際
-
-伊朗第一副總統穆罕默德·禮薩·阿雷夫：伊朗在與美國的談判中秉持明確策略，所有官員均統一行動、嚴格遵照執行。 伊朗官員在談判相關文字及提案上立場完全一致，不存在分歧。
 
 ---

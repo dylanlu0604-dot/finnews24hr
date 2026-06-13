@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-14 01:44:44_
-_本檔包含 3682 則快訊，約 669284 字_
+_更新時間：2026-06-14 02:41:17_
+_本檔包含 3675 則快訊，約 668340 字_
+
+---
+
+### 2026-06-12 08:54:31  #MKT News
+
+【Hanmi Semiconductor to spend 50 billion won buying SpaceX shares】Hanmi Semiconductor said on June 12 it will invest 50 billion won (about $32.9m) to purchase shares in SpaceX. The company described the move as a strategic early-positioning investment driven by SpaceX's growth prospects and its Terafab project.
+
+---
+
+### 2026-06-12 08:53:29  #央行 #國際
+
+日本內閣官房長官木原稔：歐洲央行從價格穩定的角度出發上調了利率。
+
+---
+
+### 2026-06-12 08:51:43  #央行 #國際
+
+日本內閣官房長官木原稔：對歐洲央行加息不予詳細評論。
+
+---
+
+### 2026-06-12 08:50:02  #公司
+
+【銀信科技成立智算科技公司，含AI及機器人業務】企查查APP顯示，近日，北京銀信長遠智算科技有限公司成立，註冊資本1000萬元，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧通用應用系統；人工智慧基礎資源與技術平臺；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由銀信科技全資持股。
+
+---
+
+### 2026-06-12 08:49:27  #公司
+
+法拉第未來：FF將於北京時間2026年6月17日早8:30在公司洛杉磯總部舉辦的 FF EAI 機器人教育生態戰略及產品線 & EAI 終端新品釋出會。
+
+---
+
+### 2026-06-12 08:49:12  #公司
+
+【精研科技：公司光模組殼體產品已有部分開始量產】6月11日下午，精研科技在接待機構調研時表示，公司光模組殼體已伴隨客戶開展兩年聯合開發，期間合作研發了多款不同樣式的產品，目前已有部分開始量產。產品規格從800G迭代至1.6T，目前正推進更為前沿的產品研發工作。該類產品傳統主流用材為鋅合金、鋁合金，通常還需搭配散熱板、均熱板、熱管等輔件。現階段我們已協同客戶完成銅合金原材料的應用開發，散熱效能優勢突出，且產品在硬度、電導率、導熱係數等各項指標均滿足客戶標準。部分產品已於今年起正式落地、轉入量產。若後續客戶訂單需求增長，公司可透過進一步擴充產能，或對內部產能進行合理調配，快速釋放產能承接訂單。後續規模放量情況將主要取決於客戶實際需求。
+
+---
+
+### 2026-06-12 08:48:50  #市場 #央行 #國際
+
+【調查：抵押貸款利率居高不下，將使美國房地產市場持續低迷】路透對房地產專家的調查顯示，抵押貸款利率高企將使今明兩年的美國住宅市場交易保持低迷，房價僅會微幅上漲，這將使特朗普政府振興房市的目標受挫。作為大多數美國住房貸款指標的30年期抵押貸款利率，近幾個月來一直徘徊在6.6%左右，遠高於過去十年的平均水平4.3%，且預計短期內不會出現明顯下降。路透對經濟學家的另一項調查顯示，金融市場不再預期美聯儲今年會降息，並將12月加息納入定價。這表明，房市復甦的前景可能比調查結果顯示的還要暗淡。6月1日至11日的調查中位數預測顯示，30年期抵押貸款利率下季度為6.4%，第四季度為6.3%。預計到2028年，該利率平均將超過6.0%，這比三個月前的調查結果高出約25個基點。
+
+---
+
+### 2026-06-12 08:47:50  #公司
+
+【韓美半導體將使用500億韓元投資於SpaceX】據公司宣告，韓美半導體將花費500億韓元購買SpaceX的股份。這項投資是一項提前佈局的戰略舉措，其驅動力是SpaceX的增長和Terafab專案。
+
+---
+
+### 2026-06-12 08:47:38  #MKT News #CSI300 #Impact bearish #SSE Composite
+
+【China margin financing balance across both exchanges down CNY5.223 bln】As of June 11, margin financing on the Shanghai Stock Exchange stood at CNY1,448.247 bln, up CNY0.389 bln versus the prior trading day; on the Shenzhen Stock Exchange it was CNY1,395.569 bln, down CNY5.612 bln. Combined margin balance was CNY2,843.816 bln, down CNY5.223 bln.
+
+---
+
+### 2026-06-12 08:47:35  #國際
+
+【破產的對沖基金創始人Weiss透過出售名畫藏品籌資清償債務】破產對沖基金創始人George Weiss正準備出售其龐大藝術收藏中的又一件作品，計劃出讓英國畫家弗朗西斯·培根的一幅自畫像。此前，他已同意出售保羅·西涅克和巴勃羅·畢加索的作品。根據其律師週三提交的檔案，Weiss正請求佛羅里達州一名破產法官批准，透過與高古軒畫廊現有的委託協議，出售這幅1972年的布面油畫。今年3月，另一幅同為1972年創作的培根自畫像在蘇富比拍賣會上以約1600萬英鎊成交。Weiss及其同名對沖基金此前因與Jefferies Financial Group Inc.就超過1億美元債務發生糾紛而申請第11章破產保護。法庭檔案顯示，培根這幅畫作是韋斯在2018年為獲得美國銀行1.326億美元貸款所抵押的多件藝術品之一。
+
+---
+
+### 2026-06-12 08:47:27  #其他
+
+【兩市融資餘額減少52.23億元】截至6月11日，上交所融資餘額報14482.47億元，較前一交易日增加3.89億元；深交所融資餘額報13955.69億元，較前一交易日減少56.12億元；兩市合計28438.16億元，較前一交易日減少52.23億元。
+
+---
+
+### 2026-06-12 08:47:24  #公司
+
+【隆基綠能在巴彥淖爾成立雙能新能源公司】企查查APP顯示，近日，巴彥淖爾市雙能新能源有限公司成立，經營範圍包含：風力發電技術服務；太陽能發電技術服務；合同能源管理等。企查查股權穿透顯示，該公司由隆基綠能間接全資持股。
+
+---
+
+### 2026-06-12 08:45:51  #公司
+
+【宇瞳光學：定增申請獲深交所稽核透過】宇瞳光學公告，公司於2026年6月11日收到深交所上市稽核中心出具的《關於東莞市宇瞳光學科技股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深交所發行上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求，後續深交所將按規定報中國證監會履行相關注冊程式。
 
 ---
 
@@ -22092,125 +22170,5 @@ Google said it is committed to working with the Canadian government to establish
 ### 2026-06-11 05:00:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【Iran says it will respond forcefully to any U.S. aggression】Early on June 11, state media citing military sources said Iran's armed forces are prepared and any U.S. aggression would be met with a forceful response; Iran also said it would strike additional U.S. interests.
-
----
-
-### 2026-06-11 05:00:09  #國際
-
-【伊朗將強力回應美侵略行動】伊朗塔斯尼姆通訊社當地時間今天（6月11日）凌晨援引軍方訊息人士報道稱，伊朗武裝部隊已做好準備，美方採取任何侵略行動都將再次遭到強力回擊，伊朗將打擊新的美方利益目標。（CCTV國際時訊）
-
----
-
-### 2026-06-11 04:59:43  #公司
-
-馬斯克旗下xAI聯合創始人Babuschkin自立門戶，宣佈與特斯拉舊部成立新公司River AI，主攻顛覆性“全個性化AI智慧體”。
-
----
-
-### 2026-06-11 04:59:19  #其他
-
-標普：上調阿根廷評級至B-。 上調阿根廷主權評級，反映其經濟脆弱性有所緩解、對外流動性逐步改善。
-
----
-
-### 2026-06-11 04:59:09  #MKT News #WTI #Impact bullish #XAUUSD
-
-U.S. Defense Secretary Hegseth said Tehran is opting to play games and delay rather than seize the opportunity to reach an agreement.
-
----
-
-### 2026-06-11 04:58:48  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Mehr news agency said Iran had activated air-defence systems in Fars province.
-
----
-
-### 2026-06-11 04:58:38  #焦點 #國際
-
-伊朗邁赫爾通訊社：法爾斯省防空系統已啟動。
-
----
-
-### 2026-06-11 04:58:22  #公司 #資料 #市場 #觀點
-
-【6月11日美股成交額前20：超微電腦擬進行70億美元股權融資，股價重挫約30%】週三美股成交額第16名超微電腦收跌27.98%，成交59.76億美元。該公司宣佈，擬同時進行一系列股權及股權關聯融資交易，預計總金額為70億美元，此舉旨在為其近期收到的高效能AI伺服器訂單所對應的元件採購提供資金支援。此次股權融資將包括50億美元的承銷發售，具體包含約12.5億美元普通股和約37.5億美元存托股份；以及不超過20億美元的普通股市價發售，預計最早於2026年第三季度啟動。
-
----
-
-### 2026-06-11 04:58:16  #MKT News #Market Regions #Emerging Markets
-
-S&P upgraded Argentina's long-term sovereign rating to B- and set the outlook to stable, citing improved access to financing.
-
----
-
-### 2026-06-11 04:57:43  #公司 #國際
-
-美國芝加哥商業交易所集團（CME）與晨星公司達成獨家指數衍生品許可協議。
-
----
-
-### 2026-06-11 04:57:19  #國際
-
-美國國防部長赫格塞思： 我們無需重新開啟談判。國防部已準備好擬定相關條件，確保達成特朗普預期的協議。
-
----
-
-### 2026-06-11 04:56:22  #國際
-
-美國國防部長赫格塞思：我們利用停火期間發展了情報資訊，我們當前的打擊目標和打擊能力遠超“史詩憤怒”行動開始時的水平。
-
----
-
-### 2026-06-11 04:55:47  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Hegseth says US to strike Iran, bomb key facilities】On June 10 (US local time) / early June 11 Beijing time US Defense Secretary Hegseth said US Central Command will be “very busy” that evening because the US military “will strike Iran fiercely” and “will bomb key facilities inside Iran.” He said any action is intended to advance US military interests and bolster its diplomatic position, adding “if you need to talk to Iran with bombs, we’ll talk with bombs.”
-
----
-
-### 2026-06-11 04:55:40  #MKT News #DXY #Impact bullish #XAUUSD #WTI
-
-U.S. Defense Secretary Hegseth said the Pentagon used the ceasefire to develop intelligence and that current strike targets and strike capabilities far exceed those at the start of the 'Epic Fury' operation.
-
----
-
-### 2026-06-11 04:55:32  #國際
-
-【美防長稱將猛烈打擊伊朗】當地時間6月10日下午，北京時間今天（6月11日）凌晨，美國國防部長赫格塞思稱，美軍中央司令部（美東時間）6月10日晚將“十分忙碌”，（因為）美軍當晚“將猛烈打擊伊朗”，“將轟炸伊朗境內關鍵設施”。赫格塞思稱，美軍採取的任何行動都“旨在推進美國的軍事利益並增強外交地位”。他稱，如果需要用炸彈來與伊朗“談判”，那美國就“用炸彈來談”。（CCTV國際時訊）
-
----
-
-### 2026-06-11 04:54:25  #公司
-
-XBOX計劃在新任CEO領導下轉型之際大幅裁員。
-
----
-
-### 2026-06-11 04:53:19  #MKT News
-
-US Defense Secretary Hegseth said the message to Cuba is to refrain from actions that threaten the American people or the US homeland, warning such moves would not end well for Cuba.
-
----
-
-### 2026-06-11 04:53:11  #MKT News
-
-U.S. Embassy in Baghdad warned that, given current developments, travel disruptions or airspace closures may occur and could happen suddenly without prior notice.
-
----
-
-### 2026-06-11 04:53:02  #國際
-
-美國國防部長赫格塞思： 我們向古巴發出警告，切勿做出威脅美國公民或美國本土的舉動，否則後果不堪設想。
-
----
-
-### 2026-06-11 04:51:43  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-TASNIM NEWS cited Iranian military sources saying that last night Iran demonstrated to the US that any new provocative action will be met with immediate retaliation and that it will not ignore any aggression.
-
----
-
-### 2026-06-11 04:50:48  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Hits Three-Week Low — The S&P/TSX Composite Index shed 0.8% to close at 34,151, a three-week low, reflecting a broader risk-off tone as tensions in the Middle East escalated. US President Donald Trump vowed to strike Iran forcefully if a peace deal is not reached, raising the risk of further hostilities after some of the most significant clashes in two months. Meanwhile, the Bank of Canada held interest rates steady as expected, citing mixed domestic economic signals, though markets continue to price in a 25bps rate hike by year-end. Financial stocks were broadly weaker, with Brookfield slipping 1.9%. Mining shares declined as gold prices eased, with Agnico Eagle down 4.7%, Barrick losing 5%, and WPM shedding 4.4%. Shopify fell 2.1%, tracking global losses in AI-related stocks. On the upside, Apotex closed 12.5% above its C$24 IPO price. Energy shares gained on higher oil prices, with Cenovus up 2.7% and Canadian Natural adding 1.9%.
 
 ---

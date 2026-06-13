@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 01:44:44_
-_本檔包含 3656 則快訊，約 668223 字_
+_更新時間：2026-06-14 02:41:17_
+_本檔包含 3664 則快訊，約 668643 字_
+
+---
+
+### 2026-06-10 00:10:01  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.05% Higher — The CAC 40 Index rose 4 points or 0.05 percent on Tuesday to close at 8203 points. Leading the gains are Essilor (3.49%), Kering (2.93%) and Pernod Ricard (2.45%). Top losers were STMicroelectronics (-6.96%), ArcelorMittal (-3.98%) and Schneider Electric (-2.38%).
+
+---
+
+### 2026-06-10 00:09:56  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude slid below $89/bbl, down 4.74% intraday.
+
+---
+
+### 2026-06-10 00:09:45  #Trading Economics #Markets #commodity #Importance 0
+
+Brent Hits 7-week Low — Brent decreased to 89.68 USD/Bbl, the lowest since April 2026. Over the past 4 weeks, Brent Crude Oil lost 13.85%, and in the last 12 months, it increased 34.25%.
+
+---
+
+### 2026-06-10 00:09:38  #其他
+
+智利財長：2026 年將把結構性財政缺口控制在 GDP 的 2.6% 。
+
+---
+
+### 2026-06-10 00:08:52  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA now forecasts global oil demand at 102.9 mln b/d in 2026, down from a prior 104.2 mln b/d; it sees 2027 demand at 105.3 mln b/d, versus 105.6 mln b/d previously.
+
+---
+
+### 2026-06-10 00:08:47  #MKT News #WTI #Impact bearish
+
+EIA June Short‑Term Energy Outlook projects U.S. crude oil production at 14.15 mln b/d next year, versus 14.10 mln b/d previously.
+
+---
+
+### 2026-06-10 00:08:40  #MKT News #WTI #Impact bearish #Brent
+
+June EIA Short-Term Energy Outlook: US crude oil production forecast for the year 13.72 mln b/d, prior 13.65 mln b/d.
+
+---
+
+### 2026-06-10 00:08:39  #MKT News #Economic Calendar
+
+United States | EIA US Crude Oil Production Estimate (Next Year) (Jun) | actual 14150000M | previous 14100000M
+
+---
+
+### 2026-06-10 00:08:32  #MKT News #Economic Calendar
+
+United States | EIA US Crude Oil Production Estimate (Current Year) (Jun) | actual 13720000M | previous 13650000M
+
+---
+
+### 2026-06-10 00:08:27  #MKT News #Commodities #Energy
+
+EIA's June forecast for U.S. natural gas production next year: 113.6 bcf/d, down from 115.0 bcf/d previously.
+
+---
+
+### 2026-06-10 00:08:18  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The US 100 Tech Index Hit 4-week Low — US100 decreased to 28567.00 Index Points, the lowest since May 2026. Over the past 4 weeks, US 100 Tech Index lost 2.47%, and in the last 12 months, it increased 30.32%.
+
+---
+
+### 2026-06-10 00:08:16  #MKT News #Commodities #Energy
+
+EIA June forecast for U.S. natural gas production this year: 111.0 bcf/d, up from 110.6 bcf/d previously.
+
+---
+
+### 2026-06-10 00:08:16  #MKT News #Economic Calendar
+
+United States | EIA US Natural Gas Production Estimate (Next Year) (Jun) | actual 113600000000B | previous 115000000000B
+
+---
+
+### 2026-06-10 00:08:05  #MKT News #Economic Calendar
+
+United States | EIA US Natural Gas Production Estimate (Current Year) (Jun) | actual 111000000000B | previous 110600000000B
+
+---
+
+### 2026-06-10 00:07:43  #市場 #國際
+
+隨著油價進一步下跌，美國國債收益率延續下滑趨勢。
+
+---
+
+### 2026-06-10 00:07:30  #MKT News #Commodities #Energy
+
+EIA projects U.S. natural gas production of 111.0 Bcf/d in 2026, up from a prior 110.6 Bcf/d forecast; it now foresees 2027 demand at 113.6 Bcf/d, down from 115.0 Bcf/d previously.
+
+---
+
+### 2026-06-10 00:07:25  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+U.S. EIA June estimate for this year’s average Brent price: $95.39/bbl, versus $94.85/bbl previously.
+
+---
+
+### 2026-06-10 00:07:22  #市場 #國際
+
+【油價推動加拿大出口創新高 順差額達到特朗普加關稅前以來最大】由於原油價格上漲推動出口創歷史新高，加拿大4月貿易順差進一步擴大。加拿大統計局週二公佈的資料顯示，該國4月貿易順差從3月的17.5億加元增至27.2億加元。這是加拿大連續第二個月實現貿易順差，也是2025年1月以來的最大順差額。加拿大對美國的貿易順差也創下2025年2月以來的最高水平，當時美國總統特朗普尚未對加拿大加徵關稅。加拿大4月出口總額增長1.6%，達到752億加元，增長範圍涉及多個領域。能源出口增長貢獻最大，價格上漲推動4月原油出口增長7%。
+
+---
+
+### 2026-06-10 00:07:17  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+EIA's June forecast for this year's U.S. WTI average price: $88.32/bbl, prior $85.68/bbl.
+
+---
+
+### 2026-06-10 00:07:01  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 1.25% Lower — The FTSE 100 Index dropped 130 points or 1.25 percent on Tuesday to close at 10243 points. Losses were led by Standard Chartered (-5.48%), Glencore (-4.12%) and HSBC Holdings (-4.05%).
 
 ---
 
@@ -21953,77 +22073,5 @@ Israel Defense Forces (IDF) says preliminary reports show alarms sounded across 
 ### 2026-06-08 20:15:52  #MKT News #Market Regions #Greater China #CNH
 
 【PBOC governor Pan meets Hong Kong Association of Banks delegation】June 8, 2026 — PBOC Governor Pan Gongsheng met a Hong Kong Association of Banks delegation led by Hong Kong Monetary Authority chief Yue Mon. They discussed the current macro outlook, deepening Mainland–Hong Kong financial market connectivity, strengthening Hong Kong’s offshore renminbi market, and steps to consolidate and enhance Hong Kong’s role as an international financial centre. PBOC Deputy Governor Zou Lan attended.
-
----
-
-### 2026-06-08 20:15:41  #其他
-
-【中國人民銀行行長潘功勝會見香港銀行公會代表團】2026年6月8日，中國人民銀行行長潘功勝會見由香港金融管理局總裁餘偉文率領的香港銀行公會代表團。雙方就當前宏觀經濟形勢、深化內地與香港金融市場互聯互通合作、加強香港離岸人民幣市場建設、鞏固提升香港國際金融中心地位等議題進行了交流。中國人民銀行副行長鄒瀾參加會見。（中國人民銀行）
-
----
-
-### 2026-06-08 20:15:14  #公司
-
-【凱眾股份：擬購安徽拓盛45%股權並認購新股 已履行多項程式】凱眾股份公告稱，公司擬發行股份及支付現金購買安徽拓盛45%股權，現金認購其320萬股新增股份並募集配套資金。交易完成後，公司將持有安徽拓盛50.3012%股權，構成重大資產重組。公司已按規定履行多道程式，包括採取保密措施、申請停牌、編制預案、召開多次董事會與股東會並簽署多份協議等。本次交易尚需公司股東會、標的公司股東會批准，經上交所稽核及證監會註冊等。
-
----
-
-### 2026-06-08 20:15:02  #公司 #市場
-
-【凱眾材料：重大資產重組前股價波動未構成異常】凱眾材料公告稱，公司擬發行股份及支付現金購買安徽拓盛45%股權，現金認購其新增320萬股股份並募集配套資金，交易完成後將持有安徽拓盛50.3012%股權。公司股票2025年11月24日起停牌，停牌前第21個交易日收盤價14.45元/股，停牌前一交易日收盤價13.08元/股，累計下跌9.48%。獨立財務顧問核查認為，剔除大盤和同行業板塊因素，股價在交易資訊公告前20個交易日內累計漲跌幅未超20%，不構成異常波動。
-
----
-
-### 2026-06-08 20:14:48  #公司
-
-【凱眾股份：擬4050萬元出售子公司土地使用權及房產】凱眾股份公告稱，公司全資子公司洛陽凱眾減震擬向河南文泓出售其位於洛陽市孟津區廠區的國有土地使用權、房屋所有權及相關附屬設施，轉讓總價款4050萬元。截至2026年4月30日，標的資產賬面淨值2778.98萬元，交易溢價45.74%。付款分四階段，2026年6月8日公司董事會已審議透過。本次交易不構成關聯交易和重大資產重組，若順利完成，預計對2026年業績及現金流有積極影響。
-
----
-
-### 2026-06-08 20:14:43  #宏觀 #國際
-
-【跨境券商整改進行時：部分香港券商開戶通道未關，中介仍在招攬內地客戶】記者採訪發現，監管集中整治措施出臺後，富途牛牛App內同一投資者持有的不同賬戶，出現了截然不同的交易狀態。有存量境內投資者的富途證券（香港）賬戶已無法完成買入交易，需更新境外身份證明；而由美國持牌機構提供服務的Moomoo賬戶仍可正常下單。不僅如此，在監管整改持續推進背景下，部分香港本地持牌券商的開戶申請通道目前仍可提交，一些中介也仍在社交平臺上以返現獎勵等方式招攬客戶。（澎湃）
-
----
-
-### 2026-06-08 20:14:42  #資料 #國際
-
-【一艘遊輪在阿曼海域遇襲起火】據印度前進水手聯盟船員工會及多方訊息，一艘油輪於週一（8日）在阿曼附近海域遭到襲擊並起火，船上24名印度籍船員目前處於遇險狀態，相關各方正緊急展開搜救與核實工作。涉事船隻為“馬裡維克斯”號（MT Marivex）油輪，懸掛帛琉國旗，其註冊所有者為 Arihant Shipping Inc。
-
----
-
-### 2026-06-08 20:14:17  #公司
-
-【步長製藥：擬就阿達木單抗注射液簽署《經銷、營銷服務和代理協議》】步長製藥(603858)6月8日公告，公司控股子公司瀘州步長擬與越南公司MKT及早安國際簽署《經銷、營銷服務和代理協議》，瀘州步長擬授權MKT在目標區域內完成阿達木單抗注射液的獨家營銷和經銷。
-
----
-
-### 2026-06-08 20:14:05  #MKT News #Important
-
-Red alert sirens sounded in Israel's Upper Galilee region.
-
----
-
-### 2026-06-08 20:13:50  #國際
-
-據報道，以色列北部謝莫納鎮及周邊城鎮響起黎巴嫩方向火箭彈來襲警報。
-
----
-
-### 2026-06-08 20:12:50  #國際
-
-【以媒：以色列本輪襲擊伊朗與美方“全面協調”】據《以色列時報》8日報道，以色列單獨實施本輪對伊朗的襲擊，但與美國進行了“全面協調”，同時以國防軍已做好與伊朗“戰鬥數日”甚至“全面恢復戰爭”的準備。報道援引以軍訊息說，本輪對伊朗的襲擊由以色列單方面實施，但與美軍中央司令部進行了“全面協調”，美軍也參與攔截伊朗來襲導彈的行動。以軍總參謀長扎米爾與美軍中央司令部司令布拉德·庫珀進行了3次通話。報道說，以軍預計本輪與伊朗的衝突將持續數日，但已做好應對“長期衝突”的準備。自7日晚以來，伊朗向以色列發射至少20枚彈道導彈；葉門胡塞武裝向以色列發射2枚彈道導彈。以軍稱來襲導彈均被攔截或擊中空曠地帶。報道還說，為回應伊朗導彈襲擊，以色列對伊朗發動兩輪空襲，打擊目標包括伊朗西部和中部的防空系統以及伊朗西南部一個石油化工綜合體的3家工廠。以軍7日空襲黎巴嫩首都貝魯特南郊，伊朗於當晚向以色列發射多輪導彈作為回應。8日凌晨，以軍發表宣告說，以空軍對伊朗西部和中部地區的軍事目標實施空襲。（新華社）
-
----
-
-### 2026-06-08 20:12:22  #MKT News #Commodities #Energy #JKS.O #Impact bullish
-
-【JinkoSolar wins 1.2 GW in CGN New Energy 2026 PV module procurement】JinkoSolar said CGN New Energy published results of its 2026 PV module and equipment framework procurement. JinkoSolar secured 1.2 GW of Feihu 3 high-efficiency modules; the winning price was the highest among the conventional tranche.
-
----
-
-### 2026-06-08 20:12:20  #MKT News
-
-HEZBOLLAH said its Islamic Resistance mujahideen fired rockets at an Israeli forward artillery position in the town of Adaissa at 11:00 Monday (16:00 Beijing time).
 
 ---
