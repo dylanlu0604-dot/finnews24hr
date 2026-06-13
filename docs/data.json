@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-13 19:38:05",
-  "count": 18400,
+  "updated": "2026-06-13 19:42:13",
+  "count": 18397,
   "items": [
+    {
+      "id": "4933828",
+      "time": "2026-06-13 19:41:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告：南海實彈射擊訓練】據中國海事局網站訊息，珠海海事局釋出航行警告，6月15日7時至18時，南海部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "mkt:019ec0c7-4f09-7dd8-afea-bbbb3fd52716",
+      "time": "2026-06-13 19:39:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Lebanese army said a hostile Israeli drone struck a soldier near Najda Hospital in Nabatieh while he was moving, causing no injury. The drone struck him again on the Kaframan-Nabatieh road, leaving him seriously injured."
+    },
+    {
+      "id": "mkt:019ec0c6-b89e-7dd8-afea-b760a13a094e",
+      "time": "2026-06-13 19:38:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces (IDF) said earlier air-raid sirens sounded in the Margaliot area of northern Israel after suspected hostile aerial-vehicle infiltration; a suspected aerial target crashed in an IDF operational zone in southern Lebanon. No casualties reported."
+    },
+    {
+      "id": "4933827",
+      "time": "2026-06-13 19:37:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩軍方：一架敵對的以色列無人機在納巴蒂耶的納吉達醫院附近襲擊了一名正在行進的黎巴嫩士兵，但沒有對他造成傷害；隨後，這架無人機在卡法爾雷門至納巴蒂耶的公路上再次襲擊了該士兵，導致他身受重傷。"
+    },
     {
       "id": "4933826",
       "time": "2026-06-13 19:36:29",
@@ -169137,68 +169173,6 @@
         "其他"
       ],
       "text": "海灣合作委員會秘書長：巴林和科威特的安全是海灣合作委員會成員國安全不可分割的一部分。"
-    },
-    {
-      "id": "4921265",
-      "time": "2026-06-06 19:41:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中蒙“草原夥伴-2026”陸軍聯合訓練舉行結束儀式】中蒙“草原夥伴-2026”陸軍聯合訓練結束儀式6日在內蒙古某聯合訓練基地舉行。結束儀式前，雙方組織開展實兵實彈演練。聯訓期間，中蒙參訓官兵開展了多輪模擬推演與實兵合練。中方官兵圍繞防化偵察洗消、有人無人協同進攻、裝備搶修與戰場救護等課目進行示範，蒙方官兵現場觀摩並體驗了無人機、機器狼操控及機械外骨骼穿戴等內容。此外，雙方還組織了拔河、籃球等軍事競技比賽和多元文化交流活動，在並肩戰鬥中深化了互信與友誼。據瞭解，蒙方參訓部隊將於6月10日前全部撤離。（新華社）"
-    },
-    {
-      "id": "mkt:019e9cbc-7ab2-7665-8312-9e5d796c6c79",
-      "time": "2026-06-06 19:40:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Gulf Cooperation Council secretary-general said Iran's continued terrorist activity demonstrates its intent to undermine security."
-    },
-    {
-      "id": "mkt:019e9cbc-2aee-7665-8312-901914441c87",
-      "time": "2026-06-06 19:40:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Authorities probe tender dispute for Xiangya Second Hospital project】Hunan Development and Reform Commission said on June 6 that, responding to media reports of irregularities in the tender for the Xiangya Second Hospital national emergency medical rescue base construction project, the Hunan provincial party committee and provincial government have formed a joint investigation team led by the Hunan DRC and including the Hunan Department of Housing and Urban‑Rural Development, the Hunan Public Resources Trading Center and Changsha city departments. The team will carry out a comprehensive investigation and publish results promptly."
-    },
-    {
-      "id": "mkt:019e9cbb-b1e2-7665-8312-8f4d45adaee5",
-      "time": "2026-06-06 19:40:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese media Al-Akhbar reported Hezbollah fighters have shifted tactics, concentrating strikes on Israeli military command and communications centers rather than conducting attrition attacks on Israeli forces."
-    },
-    {
-      "id": "mkt:019e9cbb-0eec-7665-8312-81cbe8e08e94",
-      "time": "2026-06-06 19:39:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath reports Gulf Cooperation Council interior ministers convened an emergency meeting."
-    },
-    {
-      "id": "mkt:019e9cba-8205-7665-8312-7f4441a536b4",
-      "time": "2026-06-06 19:38:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gulf Cooperation Council Secretary-General: member states' security is indivisible."
-    },
-    {
-      "id": "mkt:019e9cba-09a4-7665-8312-767c791eb29d",
-      "time": "2026-06-06 19:38:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE Foreign Ministry said the UAE fully supports Bahrain and backs all measures to safeguard its security and stability."
     }
   ]
 }
