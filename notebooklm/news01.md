@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 05:20:57_
-_本檔包含 3663 則快訊，約 667676 字_
+_更新時間：2026-06-14 06:08:41_
+_本檔包含 3667 則快訊，約 667388 字_
+
+---
+
+### 2026-06-14 06:05:56  #國際
+
+以色列國防軍表示，黎巴嫩真主黨向在黎南部行動的以軍部隊發射一枚火箭彈，以色列空軍已將其攔截，暫無人員傷亡報告。以方稱，因開展攔截行動，當地觸發了火箭彈預警。
+
+---
+
+### 2026-06-14 06:02:33  #MKT News
+
+Russian Defence Ministry said its air-defence forces shot down 185 Ukrainian drones within 12 hours.
+
+---
+
+### 2026-06-14 06:00:14  #國際
+
+以色列總理內塔尼亞胡主持召開緊急內閣會議，討論華盛頓與德黑蘭達成的協議。
+
+---
+
+### 2026-06-14 05:58:44  #其他 #焦點
+
+中央氣象臺6月14日06時繼續釋出暴雨黃色預警。
+
+---
+
+### 2026-06-14 05:57:10  #國際
+
+伊朗議員賽義德・馬哈茂德・納巴維安週六接受學生通訊社採訪時，宣讀並解讀了伊美擬議協議的內容。他表示，樂見官方對其言論作出闢謠，並願意就該協議展開辯論，同時堅稱這份協議會讓伊朗全盤受損。
+
+---
+
+### 2026-06-14 05:53:32  #MKT News
+
+CNN, citing officials, reported the planned in-person signing of the U.S.-Iran agreement was canceled and will be conducted electronically due to logistical challenges and to avoid delays that could jeopardize the negotiations.
+
+---
+
+### 2026-06-14 05:50:53  #其他
+
+聯合國報告稱，全球數十年來在阻止艾滋病毒或艾滋病傳播方面的進展正面臨危險，因為預防專案遭到大規模削減。
+
+---
+
+### 2026-06-14 05:43:34  #其他
+
+英國：斯塔默、高市早苗將於週日會見商界領袖。
+
+---
+
+### 2026-06-14 05:41:34  #其他
+
+英國：日英新投資協議將帶來超過180億英鎊的經濟增長。
+
+---
+
+### 2026-06-14 05:41:08  #MKT News #WTI #Impact bearish #Brent
+
+【Iran official says Strait of Hormuz would resume unrestricted commercial transit if understanding reached】Deputy chairman of Iran’s Supreme National Security Council Nabavian said on the 13th that, based on the text of a memorandum of understanding between Iran and the US he reviewed, all commercial vessels in the Strait of Hormuz would be allowed to transit without restriction.
+
+---
+
+### 2026-06-14 05:37:25  #國際
+
+英國和日本有望達成新的技術合作協議，技術合作將涵蓋人工智慧、量子計算。
+
+---
+
+### 2026-06-14 05:36:28  #其他
+
+卡達、科威特外長希望美伊協議儘快簽署。
+
+---
+
+### 2026-06-14 05:27:23  #MKT News
+
+【Israeli forces raid multiple villages in Nablus area】Israeli forces raided several villages and towns in the northern occupied West Bank around Nablus, including Beita and Awarta, local sources reported.
 
 ---
 
@@ -22031,59 +22109,5 @@ Hong Kong stocks opened higher. HSI up 1.04% and the Hang Seng Tech Index up 1.2
 ### 2026-06-12 09:18:45  #MKT News #Commodities #Energy
 
 【China-Africa Energy Forum 2026 Focuses on Energy Cooperation】Addis Ababa, Nov 11 — At the 2026 China-Africa Energy Forum, Beijing offered to support African expansion of oil refining capacity, accelerate renewable energy development and help build stronger power grids. The head of China’s mission to the African Union said Africa has substantial fossil-fuel and renewable potential and that China will contribute its experience and solutions to African energy development.
-
----
-
-### 2026-06-12 09:15:40  #市場
-
-【人民幣兌美元中間價報6.8109，較上日調高41點】人民幣兌美元中間價報6.8109，較上日調高41點。
-
----
-
-### 2026-06-12 09:15:39  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index (HSI) futures opened the day session up 1.31% at 24,480, trading 228 points above spot.
-
----
-
-### 2026-06-12 09:15:03  #市場
-
-恒指期貨日盤開盤漲1.38%，報24495.35點，高水246.06點。
-
----
-
-### 2026-06-12 09:14:10  #國際
-
-日本宇宙航空研究開發機構（JAXA）：H3火箭6號機完成主要任務。
-
----
-
-### 2026-06-12 09:13:34  #國際
-
-美國方面稱，透過霍爾木茲海峽的交通仍然暢通。
-
----
-
-### 2026-06-12 09:13:21  #國際
-
-美國今晚擊落了兩架伊朗單向攻擊無人機。（福克斯新聞）
-
----
-
-### 2026-06-12 09:11:43  #其他
-
-【加大支援力度 四部門部署實施創業模式引領行動】近日，人力資源社會保障部等四部門釋出《通知》，提出加大創業支援力度，實施創業模式引領行動。《通知》中提到了科技人才和返鄉創業人員，將支援他們積極創業，以創業帶動就業。《通知》提出，支援龍頭企業、前沿領域高新技術企業領軍人才和青年科技人才創新創業，大力培育科技型企業家；支援和鼓勵高校、科研院所事業單位科研人員，透過離崗創辦科技型企業等方式開展科技研發和成果轉化活動；推廣按照先使用後付費方式，把科技成果許可給中小微企業使用，驅動科技人才創新成果轉化和產業化。（央視）
-
----
-
-### 2026-06-12 09:10:31  #公司 #觀點
-
-花旗集團推出市場首創的代幣化存託憑證，連線私營企業與投資者。
-
----
-
-### 2026-06-12 09:10:25  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Prices Decline — US gasoline prices fell below $3.10 per gallon, remaining volatile throughout the week as markets weighed shifting developments in the Middle East. President Donald Trump said a peace deal with Iran could be signed as soon as the weekend and called off planned airstrikes after talks with Tehran. The comments came despite earlier threats targeting Iran’s oil infrastructure, while hostilities between the US and Iran had escalated earlier in the week. The absence of firm agreements kept energy markets choppy, while raising concerns over extended supply disruptions. The Strait of Hormuz has remained largely constrained since March, handling roughly one-fifth of global oil flows. Meanwhile, EIA data showed gasoline inventories increased by nearly 0.2 million barrels in the first week of June, defying expectations of a 0.5 million barrel draw. Still, the modest build followed several weeks of steep declines, suggesting stocks had been drawing down quickly ahead of the summer driving season.
 
 ---

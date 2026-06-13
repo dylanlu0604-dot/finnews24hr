@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 05:20:57_
-_本檔包含 3766 則快訊，約 666871 字_
+_更新時間：2026-06-14 06:08:41_
+_本檔包含 3750 則快訊，約 666986 字_
+
+---
+
+### 2026-06-08 20:45:35  #央行 #其他
+
+銀行業人士稱，土耳其央行上週買入了45億美元的外匯。
+
+---
+
+### 2026-06-08 20:45:32  #其他
+
+據銀行人士透露，土耳其中央銀行外匯淨儲備上週增加15億美元，升至475億美元。
+
+---
+
+### 2026-06-08 20:45:27  #其他
+
+銀行人士稱，土耳其中央銀行總儲備上週增加10億美元，達到1600億美元。
+
+---
+
+### 2026-06-08 20:44:33  #公司 #市場 #焦點
+
+【金安國紀：澄清未與英偉達華為合作，116個交易日漲幅112.73%】金安國紀公告，公司股票於2026年6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動。公司股價自4月以來漲幅達112.73%，截至6月8日收盤價63.98元/股，最新動態市盈率97.19倍，高於行業均值61.27倍，存在市場情緒過熱及非理性炒作風險。近期網上傳播關於公司產品納入英偉達、華為供應鏈體系認證等資訊為不實資訊，截至公告日公司未與英偉達、華為有過接觸，未開展任何形式的業務合作。公司高頻高速覆銅板產品尚在實驗室研發及客戶送樣階段，尚未形成收入，其中一款高速覆銅板正在向境內客戶送樣，能否透過客戶認證存在不確定性。公司正在籌劃2025年度向特定物件發行A股股票事項，已獲深交所受理，正在稽核階段。
+
+---
+
+### 2026-06-08 20:44:11  #公司
+
+【Wavestone執行長：AI恐慌交易將令IT股繼續承壓一年】Wavestone執行長Pascal Imbert表示，所謂的AI恐慌交易，即那些被認為面臨AI威脅的板塊遭遇的輪番拋售，可能會持續一年左右，直到市場能夠釐清哪些公司將真正面臨顛覆。他在一場媒體釋出會上表示：“我預計，來自‘SaaS末日論’以及遭遇AI風險的ETF帶來的壓力，在我們行業將持續大約一年。”他補充說：“在此期間，我認為選股型投資者和價值投資者將進入這一領域進行投資並獲取回報，這也將讓IT諮詢公司股票之間出現更多的分化。”Wavestone 2025/26財年AI相關銷售額佔比從上年的8%升至17%。Imbert表示，預計這一比例在2026/27財年將至少升至25%。他說：“我們現在正全面押注AI。”
+
+---
+
+### 2026-06-08 20:43:46  #央行 #市場 #觀點
+
+【摩根士丹利：英鎊或表現不佳，受英國政治不確定性和英國央行謹慎立場影響】摩根士丹利策略師在一份報告中表示，由於英國的政治風險以及英國央行可能對加息採取謹慎立場，英鎊料將表現不佳。他們表示：“隨著投資者重新關注英國的財政和政治不確定性，我們認為市場有充分的空間增加對英鎊不利的風險溢價。“在他所在的工黨於近期的地區選舉中表現不佳後，英國首相基爾·斯塔默的未來仍存疑。摩根士丹利的分析師表示，此外，英國央行可能會在6月18日維持利率不變，並打壓最早在7月加息的預期，從而拖累英鎊。英鎊上漲0.1%，至1.3353美元。歐元持平於0.8639英鎊。
+
+---
+
+### 2026-06-08 20:43:18  #其他
+
+市場訊息：烏茲別克一座加油站發生爆炸，造成 6 人死亡。該國緊急情況部新聞處表示，另有 5 人不同程度受傷併入院救治。
+
+---
+
+### 2026-06-08 20:42:58  #國際
+
+市場訊息：以色列已決定停止對伊朗的襲擊。
+
+---
+
+### 2026-06-08 20:42:43  #市場
+
+AMD美股盤前漲超4%，市調機構稱，AMD今年一季度的伺服器處理器銷量增長尤其強勁，拿到了33.2%的伺服器處理器市場份額。
+
+---
+
+### 2026-06-08 20:42:33  #市場 #焦點
+
+紐約期銀突破69美元/盎司，日內跌0.10%。
+
+---
+
+### 2026-06-08 20:42:09  #其他
+
+【上海：持續做強樞紐、暢通網路，構建現代物流體系】據上海釋出，上海市委副書記、市長龔正今天（6月8日）主持召開市政府常務會議，會議原則同意《上海市現代物流發展“十五五”規劃》並指出，要持續做強樞紐、暢通網路，構建現代物流體系。要提升門戶樞紐能級，強化基礎設施支撐，完善各類交通方式有序銜接的轉運體系，加速物流業數智化、綠色化轉型升級。要提升內暢外聯水平，對內暢通物流通道，對外提升輻射能級，織密聯通全球的物流體系。
+
+---
+
+### 2026-06-08 20:41:40  #其他
+
+【x86處理器出貨量同比增10% AMD伺服器份額升至33.2%】市調機構Mercury Research最新公佈的x86處理器市場報告顯示，2026年第一季，全球x86處理器總出貨量較前一季出現超過6%的衰退，跌幅甚至大於歷年的季節性常態。然而，在整體市場疲軟的情況下，受到資料中心對AI伺服器需求持續爆發的推動，第一季x86伺服器處理器的總出貨量較2025年同期卻逆轉增長了超過10%。AMD今年一季度的伺服器處理器銷量增長尤其強勁，拿到了33.2%的伺服器處理器市場份額，較去年同期提升了6個百分點。
+
+---
+
+### 2026-06-08 20:41:30  #Trading Economics #Economy #Mexico #Car Production #Importance 2
+
+Mexico Car Production Drops Most in 6 Months — Car production in Mexico fell by 3.7% from the previous year to 342,926 units in May of 2026, the sharpest decline in six months. The result was aligned with recent instability in the sector as a series of tariffs and trade deals between Mexico and the US, the largest market for domestically produced autos, left manufacturers unsure on how to scale their capacity. Production was sharply lower or Ford (-13.6% to 36,346 units), Nissan (-23.6% to 46,573) and Audi (-14.5% to 11,968).
 
 ---
 
@@ -22504,179 +22582,5 @@ U.S. military said U.S. forces shot down two Iranian attack drones in the Strait
 ### 2026-06-07 06:09:35  #國際
 
 黎巴嫩衛生部：以色列空襲黎巴嫩南部，造成兩人死亡，22人受傷。
-
----
-
-### 2026-06-07 06:07:39  #國際
-
-俄羅斯總統普京在聖彼得堡國際經濟論壇發言後，烏克蘭對聖彼得堡發動第二次遠端無人機襲擊。
-
----
-
-### 2026-06-07 06:03:57  #國際
-
-美國中央司令部：兩架美國空軍F-35A隱形戰鬥機在中東上空巡邏。
-
----
-
-### 2026-06-07 06:03:33  #MKT News
-
-【Former US envoy says Hezbollah could become non‑armed political entity】Henry Ensher, a former US ambassador to Lebanon, said he believes Hezbollah — at the centre of the Israel‑Lebanon conflict — could transition into an entity acceptable to the US, Israel and the Lebanese state. Ensher said Trump told him the US had contacted Hezbollah to pursue that outcome and warned Lebanon lacks the capacity to subdue the armed group, suggesting a more pragmatic approach may be needed.
-
----
-
-### 2026-06-07 06:01:16  #國際
-
-伊朗駐墨西哥大使稱，伊朗世界盃參賽隊伍需在比賽當日進入並離開美國境內。
-
----
-
-### 2026-06-07 05:58:16  #其他
-
-中央氣象臺6月7日06時繼續釋出暴雨黃色預警。
-
----
-
-### 2026-06-07 05:54:34  #公司
-
-法國電信巨頭奧蘭治集團簽署收購法國第二大移動運營商SFR的諒解備忘錄。
-
----
-
-### 2026-06-07 05:51:32  #國際
-
-以色列國防軍表示，約旦河西岸發生一起疑似駕車衝撞襲擊事件，一名以色列人受輕傷，襲擊嫌疑人及多名同夥已被逮捕。
-
----
-
-### 2026-06-07 05:47:24  #MKT News
-
-Alaska Airlines CFO says the carrier expects to operate Airbus aircraft over the long term.
-
----
-
-### 2026-06-07 05:46:56  #MKT News #ALK.O #Impact bearish
-
-Alaska Airlines CFO said West Coast refining margins are a more troublesome issue than crude oil prices.
-
----
-
-### 2026-06-07 05:46:44  #MKT News #ALK.O
-
-Alaska Airlines CFO said the company needs fuel prices to be more stable before it can resume issuing earnings guidance.
-
----
-
-### 2026-06-07 05:46:32  #MKT News #ALK.O #Impact bullish
-
-Alaska Airlines CFO said corporate bookings over the next 90 days are up 20-30% YoY.
-
----
-
-### 2026-06-07 05:46:21  #MKT News #ALK.O
-
-Alaska Air Group CFO said the company is likely to resume issuing earnings guidance on its Q2 earnings call.
-
----
-
-### 2026-06-07 05:46:16  #焦點 #國際
-
-阿拉斯加航空首席財務官表示，與美國航空的合作關係可能會逐步調整，拒絕對合作形式作出猜測。
-
----
-
-### 2026-06-07 05:46:08  #公司
-
-阿拉斯加航空首席財務官表示，該公司預計今年夏季的客運量將超過其史上任何一個夏季。
-
----
-
-### 2026-06-07 05:46:03  #其他
-
-阿拉斯加航空首席財務官表示，西海岸煉油利潤率是比原油價格更大的問題。
-
----
-
-### 2026-06-07 05:45:59  #公司
-
-阿拉斯加航空首席財務官表示，該公司預計將長期作為空客運營商運營。
-
----
-
-### 2026-06-07 05:45:56  #其他
-
-阿拉斯加航空首席財務官表示，未來90天的企業商旅預訂量同比將上升20%至30%。
-
----
-
-### 2026-06-07 05:45:51  #市場
-
-阿拉斯加航空首席財務官表示，第二季度更高票價將抵消大部分燃油價格上漲帶來的衝擊。
-
----
-
-### 2026-06-07 05:45:48  #其他
-
-阿拉斯加航空首席財務官表示，下半年經營現金消耗可能為零，或略有淨流入。
-
----
-
-### 2026-06-07 05:45:44  #公司
-
-阿拉斯加航空首席財務官表示，希望公司能在第二季度財報電話會議上恢復釋出業績指引。
-
----
-
-### 2026-06-07 05:45:40  #其他
-
-阿拉斯加航空首席財務官表示，在重啟業績指引之前，燃油價格需要實現更大程度的穩定。
-
----
-
-### 2026-06-07 05:40:39  #國際
-
-OpenAI等機構提議美國參與人工智慧相關股權分配，該人工智慧方案擬設立一支新型主權財富類基金。
-
----
-
-### 2026-06-07 05:38:29  #國際
-
-市場資訊：受貿易緊張局勢影響，加拿大總理卡尼調整國防採購方向、轉向歐洲市場，並積極拓展非美國市場。
-
----
-
-### 2026-06-07 05:28:59  #MKT News #BA.O
-
-Boeing's services executives said they are seeking to cut costs by improving efficiency through data analytics.
-
----
-
-### 2026-06-07 05:28:54  #MKT News #BA.O #Impact bearish
-
-A senior executive at Boeing's services unit said cockpit-window supply is below expectations and could delay aircraft deliveries.
-
----
-
-### 2026-06-07 05:28:48  #MKT News #BA.O #Impact bullish
-
-A Boeing services executive said flight hours across most regions continue to show moderate-to-healthy growth.
-
----
-
-### 2026-06-07 05:27:44  #公司
-
-波音服務部門高管表示，由於運用了分析技術，公司正尋求透過提升效率來削減成本。
-
----
-
-### 2026-06-07 05:27:31  #其他
-
-波音服務部門高管表示，多數地區的飛行小時數仍保持溫和至良好增長。
-
----
-
-### 2026-06-07 05:27:27  #其他
-
-波音服務部門高管表示，駕駛艙風擋供應目前低於預期水平，可能導致交付延誤。
 
 ---
