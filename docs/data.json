@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-13 15:08:54",
-  "count": 18372,
+  "updated": "2026-06-13 15:13:01",
+  "count": 18374,
   "items": [
+    {
+      "id": "4933714",
+      "time": "2026-06-13 15:12:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【CEGA韓雷蒙：北非擁有多重優勢，企業應當抱團出海、集體作戰】在今日（6月13日）舉辦的“2026中國企業全球影響力對話”上，集團執行董事、CEGA中非經濟合作中心執行理事長韓雷蒙圍繞《立足地緣格局重塑出海座標——優選北非撬動歐非中東市場》發表主旨演講，他指出，北非擁有關稅、物流、渠道、貿易服務區等優勢，建議企業“抱團出海、集體作戰”，共享前倉後店、分層次本地化採購、聯合組裝線，從而降低企業成本。"
+    },
+    {
+      "id": "4933713",
+      "time": "2026-06-13 15:11:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普稱伊朗洩露的協議條款與事實毫無關係，並譴責伊朗襲擊霍爾木茲海峽船隻。\n2、特朗普在社交平臺轉發伊朗外長相關推文截圖，認為對方表態積極，要求伊方澄清不實的協議細節報道，並預估美伊協議或於本週末或下週一簽署。\n3、特朗普稱伊朗襲擊印度船隻的行為不可接受。\n4、特朗普政府禁止境外主體獲取 Anthropic旗下Mythos 5與Fable 5兩款人工智慧模型模型。\n5、特朗普在真實社交上發帖稱與委內瑞拉聯合打擊了阿拉瓜販毒集團頭目。"
+    },
+    {
+      "id": "4933712",
+      "time": "2026-06-13 15:10:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美格智慧：儲存晶片價格上漲成本在合理、有序向下遊客戶傳導】美格智慧6月11日接受機構調研時表示，公司目前存貨金額較大，其中很大部分是儲存晶片備貨。在儲存晶片漲價早期，公司根據研發專案、訂單情況，及對儲存晶片行情預測，為保證客戶訂單順利交付，進行了較大金額的戰略備貨，對後續產品利潤有正面影響。儲存晶片價格上漲成本，我們在合理、有序向下遊客戶傳導，比如車載產品、海外運營商5G產品等，都進行了價格調整。"
+    },
+    {
+      "id": "4933711",
+      "time": "2026-06-13 15:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南釋出暴雨黃色預警】湖南省氣象臺13日8時釋出暴雨黃色預警：預計13日8時至14日8時，湘東、湘南部分地區將出現暴雨，其中永州南部、郴州西南部局地有大暴雨，並伴有短時強降水、雷雨大風等強對流天氣。黃色預警區域為株洲南部、長沙東部、衡陽南部、永州、郴州。（新華社）"
+    },
     {
       "id": "4933710",
       "time": "2026-06-13 15:08:02",
@@ -168971,30 +169006,6 @@
         "國際"
       ],
       "text": "以色列軍方：向黎巴嫩南部和西貝卡5個村莊的居民發出緊急疏散警告。"
-    },
-    {
-      "id": "mkt:019e9bc6-72da-7665-8310-91e9597b58f6",
-      "time": "2026-06-06 15:12:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Bahrain condemns Iran missile strikes on Bahraini, Kuwaiti territory】Al Jazeera reported Bahrain condemned Iran’s pre-dawn launch of seven ballistic missiles at Bahraini and Kuwaiti territory on Saturday, calling the strikes a blatant violation of sovereignty and a threat to Gulf security. Bahrain said the missiles were successfully intercepted, praised Bahraini and Kuwaiti armed forces for their vigilance, and urged Iran to stop the attacks, fully reopen the Strait of Hormuz, disclose locations of sea mines, and allow more than 20,000 stranded seafarers to leave the area safely."
-    },
-    {
-      "id": "mkt:019e9bc3-67d8-7665-8310-8aefcc674754",
-      "time": "2026-06-06 15:08:54",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Russia's Rosneft CEO Sechin warned that if the Strait of Hormuz is closed, other global shipping lanes such as Bab el-Mandeb and the Strait of Gibraltar could also face disruption."
     }
   ]
 }
