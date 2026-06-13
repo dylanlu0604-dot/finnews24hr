@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-14 04:33:22",
-  "count": 18461,
+  "updated": "2026-06-14 04:37:15",
+  "count": 18454,
   "items": [
+    {
+      "id": "4934033",
+      "time": "2026-06-14 04:35:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列監測到有彈藥從黎巴嫩境內射向以色列北部地區。"
+    },
+    {
+      "id": "mkt:019ec2b0-3185-7dd8-afee-13220e38607e",
+      "time": "2026-06-14 04:33:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israel Defense Forces continue intensive operations in southern Lebanon】On the 13th the Israel Defense Forces (IDF) said they continued intensive operations in southern Lebanon, striking Hezbollah military infrastructure and personnel. The IDF said it discovered a Hezbollah-used underground tunnel in southern Lebanon last week and killed seven fighters there. In the past 24 hours the IDF said it struck more than 70 Hezbollah military targets, including launchers and buildings used to attack Israel, and killed multiple Hezbollah personnel."
+    },
     {
       "id": "4934032",
       "time": "2026-06-14 04:21:14",
@@ -169630,83 +169650,6 @@
         "Impact mixed"
       ],
       "text": "【Southwest Airlines COO: studying lounges, transoceanic routes and premium seats】Southwest Airlines COO said the carrier’s lounge concept is the most developed new product but has no launch timetable. He expects the Boeing 737 MAX 7 to enter commercial service in 2027, about six months after certification. Southwest aims to equip 300 aircraft with Starlink by year-end, though rollout depends on Starlink capacity; the airline has not ruled out adding Amazon LEO Wi‑Fi later. He acknowledged activist Elliott Management’s criticism that Southwest’s transformation has been slow. He said higher interest rates are advantageous for Southwest because competitors are more heavily indebted, and that the move to assigned seating removed a key barrier for customers who previously avoided the airline."
-    },
-    {
-      "id": "4921450",
-      "time": "2026-06-07 04:36:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空公司營運長表示，指定選座制度消除了原本不願選擇西南航空出行的乘客的一大主要顧慮。"
-    },
-    {
-      "id": "4921449",
-      "time": "2026-06-07 04:36:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空公司營運長表示，目標是在年底前完成300架配備星鏈裝置飛機的改裝，不過改裝進度取決於星鏈的產能。"
-    },
-    {
-      "id": "4921448",
-      "time": "2026-06-07 04:36:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空公司營運長表示，加息環境對西南航空有利，因為競爭對手揹負的債務更多。"
-    },
-    {
-      "id": "4921447",
-      "time": "2026-06-07 04:36:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國西南航空營運長表示，維權投資者埃利奧特此前指出該航企變革步伐過於遲緩的觀點是正確的。"
-    },
-    {
-      "id": "4921446",
-      "time": "2026-06-07 04:36:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國西南航空營運長表示，休息室是新產品構想中推程序度最深的專案，但目前尚未確定推出時間表。"
-    },
-    {
-      "id": "4921445",
-      "time": "2026-06-07 04:35:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空高管表示，該航司雖已啟用星鏈服務，但並未排除選用亞馬遜低地球軌道衛星Wi-Fi服務的可能。"
-    },
-    {
-      "id": "4921444",
-      "time": "2026-06-07 04:35:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空營運長表示，該航空公司正認真研究開設貴賓休息室、開通跨洋航線以及增加高階座位配置。"
-    },
-    {
-      "id": "4921443",
-      "time": "2026-06-07 04:34:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，“阿曼達”已減弱為熱帶低壓。"
-    },
-    {
-      "id": "mkt:019e9ea4-a54f-7665-8314-b52233eb9dfa",
-      "time": "2026-06-07 04:34:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC says Amanda has weakened to a tropical depression."
     }
   ]
 }
