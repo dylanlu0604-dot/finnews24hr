@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-13 10:26:51",
-  "count": 18400,
+  "updated": "2026-06-13 10:30:57",
+  "count": 18401,
   "items": [
+    {
+      "id": "4933604",
+      "time": "2026-06-13 10:29:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交銀施羅德基金董事長張宏良卸任 總經理袁慶偉代行職責】6月13日，交銀施羅德基金公告稱，原董事長張宏良因接近退休年齡，按內部管理制度退出一線管理崗位，不再擔任董事、董事長（法定代表人），由公司總經理袁慶偉暫代董事長職責。"
+    },
+    {
+      "id": "4933603",
+      "time": "2026-06-13 10:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓南部海域發生5.7級地震】據菲律賓火山地震研究所訊息，6月13日10時許，菲律賓南部海域發生5.7級地震，震源深度10公里，附近多地有震感。同一區域在6月8日曾發生7.8級地震，造成人員傷亡。菲律賓火山地震研究所稱，此次地震為6月8日強震的餘震。（央視新聞）"
+    },
+    {
+      "id": "4933602",
+      "time": "2026-06-13 10:28:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國就業市場遭遇信任危機：67% 的美國求職者表示曾遇到虛假或不實招聘資訊。"
+    },
+    {
+      "id": "4933601",
+      "time": "2026-06-13 10:27:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：領英推出創作者交易平臺，對接品牌方與內容創作者，向同類網紅營銷平臺發起競爭。"
+    },
     {
       "id": "4933600",
       "time": "2026-06-13 10:25:44",
@@ -169233,38 +169265,6 @@
         "其他"
       ],
       "text": "【比亞迪闢謠】日前，比亞迪自研人形機器人的訊息引發廣泛關注。網傳其自研人形機器人代號“堯舜禹”，計劃於2026年在內部部署2萬臺。對此，記者向比亞迪方面求證，對方表示：“‘比亞迪人形機器人代號堯舜禹’‘第七代原型機在深圳和長沙工廠實地測試’‘約150臺上崗，目標年內自用2萬臺’等訊息均不屬實。” (每日經濟新聞)"
-    },
-    {
-      "id": "mkt:019e9ac4-0143-7665-830f-4bee203725b9",
-      "time": "2026-06-06 10:29:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reports Iran and Pakistan interior ministers met again to consult on regional developments."
-    },
-    {
-      "id": "mkt:019e9ac2-8459-7665-830f-47d4b9950988",
-      "time": "2026-06-06 10:28:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran says it struck U.S. Fifth Fleet facilities again】Iran's Islamic Revolutionary Guard Corps (IRGC) said early on June 6 it intercepted one of four \"unauthorized\" oil tankers attempting to leave the Strait of Hormuz at about 01:30 local time after issuing warnings; the other vessels reportedly turned back. The IRGC said a U.S. drone struck a communications facility on Qeshm Island and Sirik port at about 02:00, and that its Aerospace Force responded by launching ballistic missiles that hit a U.S. air base in Kuwait and key U.S. Fifth Fleet facilities in Bahrain. The IRGC warned that if such actions recur, \"limited responses will no longer suffice\" and the adversary will \"bear the consequences\" of a complete interruption of oil and gas exports through the Strait of Hormuz."
-    },
-    {
-      "id": "4920865",
-      "time": "2026-06-06 10:27:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗稱再襲美軍第五艦隊重要設施】伊朗伊斯蘭革命衛隊發表宣告稱，當地時間今天（6月6日）凌晨1:30，“4艘違規油輪在美軍的煽動和指揮下，在未進行協調且無視革命衛隊海軍既定警告的情況下，試圖非法駛出霍爾木茲海峽”。革命衛隊發出警告後，將其中一艘油輪攔截，其餘違規船隻調頭返航。宣告稱，凌晨2:00，美軍無人機向伊朗格什姆島的一處通訊設施和錫裡克港口開火。為回應美軍的侵略行徑，革命衛隊航空航天部隊立即發射彈道導彈，打擊了位於科威特的美空軍基地以及位於巴林的美國海軍第五艦隊重要設施。 宣告強調，伊朗警告敵人，“如果此類惡行重演，僅採取有限的回應將不再足夠，敵人將必須承擔霍爾木茲海峽因油氣出口完全中斷而引發的後果”。（CCTV國際時訊）"
     }
   ]
 }
