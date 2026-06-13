@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-13 17:43:48_
-_本檔包含 3573 則快訊，約 665094 字_
+_更新時間：2026-06-13 18:43:13_
+_本檔包含 3557 則快訊，約 665932 字_
+
+---
+
+### 2026-06-13 18:41:02  #其他
+
+【血液蛋白訊號或可提前多年預測肺癌風險】澳大利亞沃爾特與伊麗莎·霍爾醫學研究所日前釋出公報說，該研究所研究人員參與的一項國際合作研究發現，一組血液蛋白訊號可能在肺癌確診前多年提示患病風險，有助於更早識別高風險人群。研究團隊分析了超過4.8萬名英國生物樣本庫參與者的血漿蛋白資料，識別出可預測未來5年內患肺癌風險的14種蛋白。研究人員隨後在8個國際資料集中驗證了這組蛋白預測的有效性，其中包括無吸菸史人群。研究人員指出，現有肺癌篩查專案通常面向有吸菸史等高風險人群，但部分肺癌患者並無吸菸史，且許多病例確診時已處於晚期。新發現的這組蛋白有望幫助更早識別風險人群，拓展現有篩查和預防策略。（新華社）
+
+---
+
+### 2026-06-13 18:39:46  #其他
+
+【山東釋出強對流黃色預警】山東省氣象局最新發布的重要天氣預報顯示，山東自西北向東南將出現一次強對流天氣過程。為此，山東氣象臺於13日16時釋出強對流黃色預警。 記者瞭解到，此次強對流天氣是受冷渦影響，過程中的雨量分佈不均，以小雨為主，全省的累積平均降水量在2毫米至5毫米，區域性可達30毫米以上。其中，濱州、東營、德州、聊城、濟南、淄博、泰安、濰坊和煙臺有雷雨或陣雨，伴有雷電和8級至10級雷雨陣風，區域性有冰雹；其他地區區域性有雷雨或陣雨。 氣象專家預計，此次天氣過程中伴有的雷雨大風和區域性冰雹，對交通運輸、農業生產、高空作業、海上生產、文旅、戶外活動，以及中考期間考務組織、考生出行等有不利影響，未收穫的小麥有倒伏風險，需加強防範。
+
+---
+
+### 2026-06-13 18:38:44  #國際
+
+以色列襲擊黎巴嫩南部提爾區錫迪金鎮。
+
+---
+
+### 2026-06-13 18:36:45  #MKT News
+
+According to Iranian media, the funeral for the late Supreme Leader Ali Khamenei will begin in Tehran on July 4, with burial scheduled in Mashhad on July 9.
+
+---
+
+### 2026-06-13 18:35:44  #焦點 #國際
+
+伊朗國家媒體：伊朗已故最高領袖阿里·哈梅內伊的葬禮將於7月4日在德黑蘭開始，安葬儀式定於7月9日在馬什哈德舉行。
+
+---
+
+### 2026-06-13 18:34:55  #MKT News
+
+Russian Defence Ministry said Russian forces liberated 172 buildings in Konstantinovka in the Donetsk People's Republic and reported Ukrainian losses of 40 personnel.
+
+---
+
+### 2026-06-13 18:34:50  #公司 #市場
+
+【下週解禁市值超420億元】據統計，下週（6月15日至18日）將有42股解禁，合計解禁數量為8.81億股，按照最新收盤價計算，合計解禁市值424.6億元。從解禁市值來看，5股解禁市值超17億元，其中燕東微解禁市值最高，下週將有4.21億股上市流通，本次解禁主要為首發原股東限售股份，解禁股東為公司實控人北京電子控股有限責任公司，解禁市值為272.91億元，解禁比例為29.46%。從解禁比例來看，7股解禁比例超10%，其中星源卓鎂、光華股份、豐立智慧的解禁比例居前，分別為66.77%、65.63%、46.61%。
+
+---
+
+### 2026-06-13 18:33:41  #MKT News
+
+【Iran announces funeral arrangements for late Supreme Leader Khamenei】Islamic Republic of Iran Broadcasting (IRIB) said on the 13th that authorities announced funeral arrangements for the late Supreme Leader Khamenei.
+
+---
+
+### 2026-06-13 18:33:19  #國際
+
+伊朗已故最高領袖哈梅內伊將於7月9日在馬什哈德下葬。
+
+---
+
+### 2026-06-13 18:32:37  #國際
+
+【伊朗公佈已故最高領袖哈梅內伊葬禮安排】伊朗伊斯蘭共和國廣播電視臺13日報道說，伊朗官方當天公佈了伊朗已故最高領袖哈梅內伊的葬禮安排。（新華社）
+
+---
+
+### 2026-06-13 18:31:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【HEZBOLLAH says it used drones to strike Israeli military vehicles in southern Lebanon】HEZBOLLAH said on the 13th local time it was responsible for two drone strikes on Israeli military vehicles in southern Lebanon. It said at 07:00 it struck an Israeli vehicle on a riverbed in the outskirts of Nabatieh district, and about 30 minutes later struck a second Israeli vehicle on Jabal Sara in the Marjayoun area. HEZBOLLAH said the attacks were in response to Israeli violations of the ceasefire and part of its "legitimate right to resist the occupation and liberate land."
+
+---
+
+### 2026-06-13 18:31:36  #國際
+
+【黎真主黨稱在黎南部使用無人機打擊以軍車輛】黎巴嫩真主黨當地時間13日宣佈對黎南部發生的兩起無人機襲擊以色列軍車事件負責。真主黨稱當天7時襲擊了納巴蒂耶區郊區河床上一輛以軍車輛。30分鐘後，襲擊了邁爾季歐雲地區薩拉山上的第二輛以軍軍車。真主黨表示，發動襲擊是為了回應以色列違反停火協議的行為，也是其“抵抗佔領和解放土地的合法權利”的一部分。
+
+---
+
+### 2026-06-13 18:31:07  #MKT News #Market Regions #Europe & UK
+
+【FAO: Over 100 million in Europe and Central Asia have faced food shortages】FAO assistant director-general and Europe and Central Asia regional representative Gu Chu said in Dushanbe that more than 100 million people in Europe and Central Asia have experienced moderate or severe food shortages in recent years. Around 90 million hectares in the region are degraded, weakening agricultural capacity and threatening long-term sustainability. FAO says roughly $21.4 billion has been invested in the region’s food and agricultural systems since 2015 but remains insufficient; the organization estimates an additional $650 billion a year globally is needed to transform food and agriculture systems.
+
+---
+
+### 2026-06-13 18:30:18  #國際
+
+【聯合國糧農組織：歐洲和中亞逾1億人經歷糧食短缺】聯合國糧食及農業組織助理總幹事、歐洲及中亞區域代表古楚12日在塔吉克首都杜尚別表示，近年來，歐洲和中亞地區超過1億人經歷了糧食短缺問題。古楚在一場由塔吉克主辦的國際會議上說，確保糧食安全仍是一項嚴峻挑戰。近年來，歐洲和中亞超過1億人經歷了中度或重度糧食短缺問題。該地區約9000萬公頃土地受到退化影響，削弱了農業生產能力和生態系統功能，危及地區長期可持續發展。
+
+---
+
+### 2026-06-13 18:30:08  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【US investors target Venezuelan oilfields; Lionheart moves to list via Keo Energy merger】US investment groups are racing to acquire underused Venezuelan oilfields after a shift in US-Venezuela policy. Miami-based Lionheart Capital has signed a letter of intent to merge shell company Lionheart Holdings with Keo Energy, which holds Venezuelan oil assets; the deal would create the first Venezuela-focused oil firm listed on Nasdaq and offer US and institutional investors direct exposure. Lionheart aims for a post-deal listing valuation of roughly $1bn; Lionheart Holdings raised $230m in 2024. Sources say talks are at an early stage and may fail. Lionheart Holdings will hold a shareholder vote next week to seek more time to find a target, otherwise it may face liquidation.
+
+---
+
+### 2026-06-13 18:28:53  #國際
+
+【兩名駐沖繩美軍士兵涉嫌酒駕被捕】日本沖繩縣警方13日以涉嫌酒後駕駛為由，逮捕了兩名駐沖繩美軍士兵。據日本方面訊息，當地警方13日凌晨在巡邏過程中發現兩起涉嫌酒後駕駛的案件。經呼氣酒精檢測，兩名美軍士兵體內酒精含量均超法定標準，隨後被當場逮捕。但兩人均否認相關指控。當地統計顯示，僅2025年一年，沖繩縣警方查獲的涉及駐日美軍及相關人員的刑事犯罪案件就超100起。（央視）
+
+---
+
+### 2026-06-13 18:26:38  #MKT News #Commodities #Energy #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
+
+According to the Financial Times, investors have joined President Trump’s $100 billion Venezuelan oil race. Lionheart Capital plans to list a Venezuelan oil company via a merger with its SPAC Lionheart Holdings, valuing the target at about $1 billion.
+
+---
+
+### 2026-06-13 18:25:18  #公司 #國際
+
+市場訊息：美國多元化投資公司獅心資本（Lionheart Capital）計劃透過與其空白支票公司獅心控股（Lionheart Holdings）合併，推動一家委內瑞拉石油企業上市，估值約為10億美元。
+
+---
+
+### 2026-06-13 18:21:26  #國際
+
+伊朗四家主要銀行的電子服務自今天上午起中斷，影響了手機銀行、網上銀行、ATM機、銀行卡支付和其他服務。有報道稱可能遭遇了網路攻擊，但官方尚未證實攻擊原因。（法爾斯通訊社）
+
+---
+
+### 2026-06-13 18:17:03  #其他
+
+土耳其將股票賣空禁令延長至6月26日。
+
+---
+
+### 2026-06-13 18:15:44  #國際
+
+一位特朗普政府官員稱：很難確定伊朗可能獲得釋放的資金價值，因為這取決於伊朗提供了什麼。
+
+---
+
+### 2026-06-13 18:13:29  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Ukraine's military said Ukrainian forces attacked oil infrastructure in Russia's Volgograd region.
+
+---
+
+### 2026-06-13 18:13:15  #其他
+
+【京東健康與北京友誼醫院達成合作 將共同建設消化系統專科大模型】據“京東健康黑板報”訊息，6月13日，京東健康與首都醫科大學附屬北京友誼醫院（簡稱“北京友誼醫院”）正式達成合作。雙方將共同建設消化系統專科大模型，重點應用於胃腸鏡早癌篩查、疾病診斷等臨床場景，推動AI技術與消化專科診療的深度融合。
+
+---
+
+### 2026-06-13 18:10:49  #國際
+
+烏克蘭總參謀部稱，烏克蘭軍方襲擊了俄羅斯伏爾加格勒地區的一處石油基礎設施。
+
+---
+
+### 2026-06-13 18:09:34  #公司
+
+【內蒙古首個AI鍊鋼專案在包鋼投用】據內蒙古日報，日前，內蒙古首個AI鍊鋼專案——“包鋼智冶”智慧鍊鋼大模型在包鋼股份1號轉爐成功投用。該專案打破了傳統“經驗鍊鋼”瓶頸，實現了從人工研判向資料演算法自主管控的轉型。
+
+---
+
+### 2026-06-13 18:07:19  #MKT News
+
+Gaza Health Ministry said Israeli strikes on the Gaza Strip over the past 48 hours have killed at least two Palestinians and wounded 11.
+
+---
+
+### 2026-06-13 18:06:23  #國際
+
+加沙衛生部門稱，過去48小時內，以色列對加沙地帶的襲擊造成至少兩名巴勒斯坦人死亡，11人受傷。
+
+---
+
+### 2026-06-13 18:01:32  #MKT News #Market Regions #Greater China
+
+【Former vice president of People's Insurance Company (Group) of China Yu Xiaoping under investigation】Yu Xiaoping, former party committee member and vice president of the People's Insurance Company (Group) of China, is suspected of serious disciplinary and legal violations and is under disciplinary review and a supervisory investigation by the Central Commission for Discipline Inspection and the National Supervisory Commission.
+
+---
+
+### 2026-06-13 18:00:31  #公司
+
+【中國人民保險集團股份有限公司原副總裁俞小平接受審查調查】中國人民保險集團股份有限公司原黨委委員、副總裁俞小平涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）
+
+---
+
+### 2026-06-13 17:59:56  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Market report: Israel struck Kafr Rumman in southern Lebanon.
+
+---
+
+### 2026-06-13 17:58:38  #國際
+
+以色列襲擊黎巴嫩南部城鎮卡夫爾魯曼。
+
+---
+
+### 2026-06-13 17:56:15  #其他
+
+【前5月全國鐵路傳送外籍旅客1002.4萬人次、同比增長35.5%。】從中國國家鐵路集團有限公司獲悉，1至5月，中老鐵路傳送跨境旅客16.7萬人次、同比增長35%，廣深港高鐵傳送跨境旅客1453.4萬人次、同比增長14.5%。同時，鐵路部門積極適應國家過境免籤政策帶來的客流增長，為外籍旅客出行提供便利，前5月全國鐵路傳送外籍旅客1002.4萬人次、同比增長35.5%。（中新社）
+
+---
+
+### 2026-06-13 17:54:24  #其他
+
+【今年前5月全國鐵路傳送旅客19.69億人次，同比增長5.7%】記者13日從中國國家鐵路集團有限公司獲悉，1至5月，全國鐵路傳送旅客19.69億人次、同比增長5.7%，創歷史同期新高。資料顯示，1至5月，全國鐵路日均開行旅客列車11541列、同比增長5.9%，其中，5月1日傳送旅客2484.4萬人次，創單日旅客傳送量歷史新高。（中新社）
+
+---
+
+### 2026-06-13 17:51:50  #MKT News #Commodities #Energy
+
+【Poland PM says fuel price caps to end in summer】Poland's Prime Minister Tusk said on Saturday that, given expectations of an easing in a conflict involving Iran and stabilising prices, Poland will end fuel price caps this summer. In March the government cut fuel VAT from 23% to 8%, reduced excise duty to the EU minimum and imposed daily caps on motor fuel prices; those measures have been extended every two weeks since. This week Warsaw extended the VAT cut and price caps to end-June but did not extend the excise reduction. Tusk said Poland had the cheapest fuel in Europe during the crisis but the measures will be ended this summer.
+
+---
+
+### 2026-06-13 17:50:04  #其他
+
+英國房屋建築商Vistry向員工提供自願離職方案。
+
+---
+
+### 2026-06-13 17:49:51  #MKT News #Star Stocks #Xiaomi
+
+【Lei Jun: Xiaomi Auto places high priority on testing; testing team tops 800】Xiaomi chairman Lei Jun said on Weibo that Xiaomi Auto places high priority on testing. The company has a testing staff of more than 800, with over 45% holding more than 10 years’ experience. The team has conducted tests in 300+ cities, accumulating more than 35 mln km. Xiaomi Auto runs 126 test labs across Beijing, Nanjing, Shanghai and Wuhan covering over 65,600 sqm, and has rented two full-vehicle proving grounds in Yancheng (Jiangsu) and Guangde (Anhui). A roughly 500-person extreme-environment team, split into summer and winter units, handles tests in Heihe (severe cold), Turpan (high heat), the Kunlun Mountains (high altitude) and Hainan (high humidity).
+
+---
+
+### 2026-06-13 17:48:14  #MKT News #Market Regions #Europe & UK
+
+Polish Prime Minister Tusk said Poland will lift fuel price caps at the end of summer.
+
+---
+
+### 2026-06-13 17:46:57  #國際
+
+波蘭總理圖斯克稱，隨著美伊和平談判取得進展，波蘭準備停止燃油補貼。這些補貼計劃原定持續到6月底，預計每月耗資16億茲羅提（約合4.36億美元）。
 
 ---
 
@@ -21235,329 +21463,5 @@ Oracle earnings above expectations at 2.11 USD — Oracle (ORCL) released earnin
 ### 2026-06-12 06:30:10  #Trading Economics #Markets #Commodity #Importance 1
 
 Energy Commodities Updates: Natural Gas EU Tumbles by 6.03% — Top commodity losers are Natural Gas EU (-6.03%), Methanol (-5.43%), Brent Crude Oil (-4.88%) and Crude Oil WTI (-4.47%).
-
----
-
-### 2026-06-12 06:30:09  #其他
-
-紐西蘭5月製造業表現指數 49.9，前值50.5。
-
----
-
-### 2026-06-12 06:30:08  #MKT News
-
-New Zealand May manufacturing performance index 49.9, prior 50.5.
-
----
-
-### 2026-06-12 06:30:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Performance of Manufacturing Index (May) | actual 49.9 | previous 50.5
-
----
-
-### 2026-06-12 06:29:52  #Trading Economics #Markets #Canada #Earnings #Importance 0
-
-Dollarama earnings above expectations at 1.11 CAD — Dollarama (DOL) released earnings per share at 1.11 CAD, compared to market expectations of 1.03 CAD.
-
----
-
-### 2026-06-12 06:29:52  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Adobe Systems earnings above expectations at 5.96 USD — Adobe Systems (ADBE) released earnings per share at 5.96 USD, compared to market expectations of 5.68 USD.
-
----
-
-### 2026-06-12 06:29:17  #其他
-
-【中小銀行資產配置邏輯新變化：金融市場業務成穩營收重要抓手】梳理企業預警通資料發現，2025年部分割槽域性銀行投資收益佔營業收入比重較高。其中，青海銀行2025年投資收益佔營業收入比重高達75.21%，邯鄲銀行、蒙商銀行、寧夏銀行則分別為72.81%、63.75%和47.04%。隨著利率市場化持續推進，商業銀行傳統存貸利差空間被壓縮，非利息收入和投資收益對銀行經營穩定性的影響逐步上升。在業內人士看來，對於部分中小銀行而言，金融市場業務已從過去的補充項，成為平滑利潤波動、穩定營收表現的重要來源。（上證報）
-
----
-
-### 2026-06-12 06:27:46  #其他
-
-【半導體板塊ETF逆勢連漲 通訊賽道持續獲資金佈局 】6月11日，A股市場延續調整態勢，ETF市場隨之走弱，超七成產品收跌，市場情緒有所波動。半導體板塊ETF獨立走出強勢行情，佔據ETF市場漲幅榜前八，且這8只產品全部實現三連漲。資金層面，在6月10日ETF市場整體淨流出超50億元的背景下，通訊賽道ETF逆勢吸引資金淨流入。從近期公募釋出的觀點看，多家機構認為，短期市場或呈震盪態勢，但不會扭轉長期上行格局。半導體行業迎來景氣度拐點，疊加政策與產業雙重紅利，長期上行空間明確，而消費、醫療等低位板塊也已顯現佈局機會。（中證報）
-
----
-
-### 2026-06-12 06:26:59  #公司
-
-【從“被投者”到“投資者”，硬科技企業密集設立產業基金】6月上旬，硬科技鏈主企業密集宣佈一級市場最新佈局：6月2日，國盾量子、兆易創新同日公告旗下產業基金設立、備案最新進度；6月3日，儲存晶片龍頭長鑫科技聯合中微公司、阿里巴巴等，設立規模近40億元的私募股權基金。“當前，傳統人民幣、美元基金普遍面臨募資、退出壓力，產業資本卻逆勢爆發。”母基金研究中心創始人唐勁草表示，越來越多的硬科技企業透過擔任有限合夥人（LP），將資本觸角伸向上下游關鍵環節與前沿技術領域。在積體電路、人工智慧、量子計算、生物科技等前沿賽道，曾被資本哺育的硬科技企業正成為反哺創新生態的出資人，完成從“被投者”到“投資者”的身份轉變。（上證報）
-
----
-
-### 2026-06-12 06:21:34  #公司
-
-【“暴富神話”誘人入場，社交平臺非法炒匯資訊氾濫】被監管部門明令禁止多年的外匯保證金交易資訊，正藉助網路社交平臺悄然現身。在小紅書、抖音等社交平臺上，記者搜尋“炒匯”“出金”等關鍵詞，會湧現大量“致富”筆記、開戶教程等資訊，並且在演算法的助推下，持續向使用者展示。根據社交平臺上傳播的資訊指引，下載境外炒匯平臺App、開戶、簽約、入金、交易等全套業務流程均可絲滑完成。分析人士指出，其背後還形成了一條資金非法跨境的“暗道”。（上證報）
-
----
-
-### 2026-06-12 06:18:40  #其他
-
-【商業航天領域專家：2026年是中國火箭運力突破之年，相信短期內可以有大突破】中國商業航天已行至必須作答的時刻：運力瓶頸怎麼破？未來商業化閉環如何構建？“火箭、衛星、組網、發射場，是四大關鍵環節，其中火箭可回收和發射場侷限是中國突出的短板。不過，2026年是中國火箭運力突破之年，中國擁有強大的研發與製造能力，相信短期內可以有大突破。”一位商業航天領域專家說。多位受訪專家判斷，2028年前後，中國有望實現中型可重複使用火箭的常態化運營。一旦依託完整的工業體系和製造成本優勢跑通回收複用，中國將有能力重新定義全球發射服務的價格。（上證報）
-
----
-
-### 2026-06-12 06:15:11  #國際
-
-【伊朗阿巴斯港傳出爆炸聲】據伊朗方面12日訊息，伊朗阿巴斯港傳出兩次爆炸聲。此前，錫裡克地區也曾傳出爆炸聲。據悉，目前錫裡克地區尚未發生任何炮彈襲擊或衝突。（央視新聞）
-
----
-
-### 2026-06-12 06:15:11  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 1.80% — Top currency gainers are Brazilian Real (1.80%), Mexican Peso (0.99%), Swedish Krona (0.75%), British Pound (0.37%), Euro (0.35%) and Japanese Yen (0.34%). Biggest loser is Dollar Index (-0.25%).
-
----
-
-### 2026-06-12 06:13:04  #其他
-
-【做強“長錢”引擎，長期資金投資基金行業比例提升至7.6%】“長錢”找到了“長投”的重要路徑。中國證券投資基金業協會最新資料顯示，截至去年末，長期資金投資基金行業的比例穩步提升至7.6%，公募基金正從單純的散戶理財工具，加速轉變為中長期資金配置權益資產的強“引擎”。（上證報）
-
----
-
-### 2026-06-12 06:12:13  #公司
-
-市場訊息：日產汽車將在未來一年左右釋出七款新車。公司將新車研發週期減半，至兩年。
-
----
-
-### 2026-06-12 06:09:12  #其他
-
-據訊息人士透露，英偉達聘請資深說客布魯斯・安德魯斯出任華盛頓特區政府事務負責人。安德魯斯曾擔任晶片企業英特爾政府事務主管，同時也是奧巴馬政府官員。
-
----
-
-### 2026-06-12 06:08:46  #MKT News
-
-【Residence of Yemen minister of state and Aden governor attacked; three killed, several injured】On the evening of the 11th, an armed assailant opened fire on soldiers guarding the residence of Yemen's minister of state and Aden governor Abdulrahman Sheikh. The shooting killed one soldier and a Syrian couple passing nearby; several others were wounded. The attacker fled; security forces have launched a manhunt and an investigation.
-
----
-
-### 2026-06-12 06:08:31  #國際
-
-【歐盟《移民與難民庇護公約》開始實施】經過兩年的過渡期後，歐盟《移民與難民庇護公約》於2026年6月12日開始正式全面實施。《移民與難民庇護公約》於2024年5月正式得到批准，覆蓋移民管理、庇護申請、邊境管理等領域的綜合性措施，旨在全面統一各成員國的庇護程式，並建立成員國間公平分攤機制，其核心目標是彌補自2015年難民危機以來歐盟移民治理體系的長期失靈與分裂，推動各成員國政策由“各自為政”走向“協調統一”。（央視）
-
----
-
-### 2026-06-12 06:08:28  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-Sources said NVIDIA (NVDA.O) hired veteran lobbyist Bruce Andrews as its Washington, D.C. head of government affairs. Andrews previously served as Intel's head of government affairs and as an Obama administration official.
-
----
-
-### 2026-06-12 06:05:06  #市場
-
-鈀金期貨日內漲2%，現報1283.84美元/盎司。
-
----
-
-### 2026-06-12 06:04:59  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Iran's Fars news agency said Iranian forces prevented an uncoordinated 'non-compliant' tanker from entering the Strait of Hormuz.
-
----
-
-### 2026-06-12 06:04:21  #焦點 #國際
-
-伊朗法爾斯通訊社援引駐阿巴斯港記者訊息：伊朗軍方阻止一艘違規油輪未經協調擅自駛入霍爾木茲海峽。
-
----
-
-### 2026-06-12 06:03:44  #公司 #國際
-
-【SpaceX或被快速納入指數遭美國參議員Warren質疑】美國參議員Elizabeth Warren辦公室宣告顯示，Warren致函多家指數公司負責人，就有關這些公司考慮或批准調整規則以加快將SpaceX納入指數的訊息提出質疑。Warren致函標普道瓊斯指數執行長Catherine Clay、富時羅素執行長Fiona Bassett、晨星指數總裁Amelia Furr，以及納斯達克總裁兼執行長Adena T. Friedman。Warren詢問，為加快SpaceX納入指數，通常用於保護投資者和市場的常規保障措施是否被豁免。
-
----
-
-### 2026-06-12 06:01:34  #MKT News #Important #Commodities #Energy #Precious Metals #WTI #Impact bearish #XAUUSD #Impact bullish
-
-WTI crude opened 0.8% lower on Friday; spot gold and silver edged up slightly.
-
----
-
-### 2026-06-12 06:01:12  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為98.5%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.5%，累計降息25個基點的機率為1.5%。美聯儲到7月維持利率不變的機率為91.3%，累計加息25個基點的機率7.4%，累計降息25個基點的機率為1.4%。
-
----
-
-### 2026-06-12 06:00:43  #市場
-
-WTI原油日內跌2%，現報85.92美元/桶。
-
----
-
-### 2026-06-12 06:00:14  #市場
-
-紐約期金日內漲3%，現報4238.40美元/盎司。
-
----
-
-### 2026-06-12 06:00:04  #市場
-
-WTI原油日內跌1%，現報86.48美元/桶。
-
----
-
-### 2026-06-12 06:00:03  #市場
-
-紐約期銀日內漲5%，現報67.56美元/盎司。
-
----
-
-### 2026-06-12 05:57:26  #其他
-
-【中國原創IP LABUBU亮相2026世界盃開幕式】北京時間6月12日，2026美加墨世界盃開幕式正式開啟，泡泡瑪特麾下IP LABUBU登場，作為賽事特邀嘉賓，亮相世界級體育舞臺。開幕式現場，兩隻身著球衣的LABUBU首度現身世界盃，以萌趣熱血的球迷姿態亮相，也讓中國原創IP登上國際賽場。泡泡瑪特THE MONSTERS與FIFA世界盃聯名系列已正式開售。（第一財經）
-
----
-
-### 2026-06-12 05:56:20  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Iranian media reported two explosions were heard at Bandar Abbas port; origin unknown.
-
----
-
-### 2026-06-12 05:56:09  #國際
-
-伊朗媒體：阿巴斯港傳出兩聲爆炸，爆炸來源尚不明確。
-
----
-
-### 2026-06-12 05:52:50  #公司 #市場
-
-【奧多比股價盤後下跌 CFO離職訊息蓋過業績和展望利好】奧多比稱，其首席財務官將離職。在執行長Shantanu Narayen於3月宣佈將卸任後，這意味著公司資深領導層的核心陣容將再少一員。奧多比周四在宣告中表示，首席財務官Dan Durn將於週一離任。公司正在繼續尋找新CEO，接替已任職18年的Narayen。另外，晶片製造商美滿電子科技宣佈，Durn將加入該公司。CFO離職的訊息蓋過了奧多比的季度業績和本期展望，二者均超分析師預期。“每當CEO換人時，通常不會希望CFO也在同一時間更替，”D.A. Davidson & Co.分析師Gil Luria在接受採訪時表示，“顯然，投資者目前對這兩個職位同時過渡感到不安。”
-
----
-
-### 2026-06-12 05:50:19  #國際
-
-據伊朗塔斯尼姆通訊社： 伊朗霍爾木茲省一名訊息人士表示，錫裡克地區未出現彈藥襲擊及衝突情況，相關聲響來自海上，與霍爾木茲海峽有關。
-
----
-
-### 2026-06-12 05:49:16  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-TASNIM NEWS said there have been no shell impacts or clashes in the Sirik area as of now. Sounds heard originated at sea and were linked to the Strait of Hormuz.
-
----
-
-### 2026-06-12 05:48:25  #國際
-
-據伊朗塔斯尼姆通訊社：協議草案尚未獲得伊朗官方最終批准。 據知情訊息人士稱，在軍事與外交施壓未果後，美方不再要求修改伊朗提出的十四點回應內容。 伊朗已拒絕美方最新修訂提議，協議文字仍由伊朗相關機構審議。 在審議工作結束前，各方需審慎看待相關傳聞與猜測。
-
----
-
-### 2026-06-12 05:44:59  #公司 #國際
-
-Deltec資產管理公司專注於新興市場股票的投資組合經理Greg Lesko：市場感覺到我們終於接近這場（與伊朗相關的）衝突的尾聲了，無論是如目前預期的那樣達成協議，還是繼續轟炸。魔鬼藏在細節中，而我們目前還沒看到這些細節。
-
----
-
-### 2026-06-12 05:34:45  #其他
-
-加拿大總理卡尼：加拿大正尋求與墨西哥達成雙邊協議。
-
----
-
-### 2026-06-12 05:33:12  #國際
-
-【伊朗錫裡克地區海岸附近傳出爆炸聲】據伊朗媒體12日報道，伊朗錫裡克地區海岸附近多次傳出爆炸聲，原因不明。 (新華社)
-
----
-
-### 2026-06-12 05:33:07  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-NVIDIA (NVDA.O) shareholder meeting scheduled for June 24; individual investors may participate online.
-
----
-
-### 2026-06-12 05:32:57  #其他
-
-英偉達股東大會定於 6 月 24 日舉行，個人可線上參會。
-
----
-
-### 2026-06-12 05:31:55  #MKT News #Important #Commodities #Energy #Precious Metals #XAUUSD #Impact bullish #WTI
-
-【CME plans 24/7 trading for new crude and gold contracts】CME said, pending regulatory review, it will offer 24/7 trading for new, smaller crude and gold futures. The new crude contract will be one-tenth the size of CME’s micro WTI and is scheduled to launch on Aug. 30. CME’s existing 1-ounce gold futures will move to around-the-clock trading from July 26. Derek Sammann, head of global commodity markets, said regulated 24/7 products will allow traders to manage exposures immediately amid geopolitical uncertainty.
-
----
-
-### 2026-06-12 05:29:54  #MKT News #WTI #Impact bearish #SHEL.O #Impact mixed
-
-Venezuela signed an oil and gas agreement with Shell that includes Shell's participation in the Loran offshore gas field project.
-
----
-
-### 2026-06-12 05:29:51  #公司
-
-日產汽車總裁：公司將藉助人工智慧把新車型的研發週期縮短一半，加快產品上市節奏。
-
----
-
-### 2026-06-12 05:27:20  #國際
-
-加拿大總理卡尼：“推遲密歇根-安大略”大橋開放是美國的請求。
-
----
-
-### 2026-06-12 05:23:44  #其他
-
-加拿大總理卡尼： 應美方要求，已同意推遲底特律 - 溫莎大橋的通車時間。
-
----
-
-### 2026-06-12 05:21:55  #國際
-
-伊朗官方媒體：錫裡克海岸附近傳出爆炸聲，事發原因及爆炸來源尚不明確。
-
----
-
-### 2026-06-12 05:21:42  #MKT News #Important
-
-Refinitiv, citing Iranian media, reported explosions were heard near the coast of Sirik, Iran; cause and origin unclear.
-
----
-
-### 2026-06-12 05:18:31  #MKT News #Important
-
-CME will expand round‑the‑clock trading hours for WTI crude oil and gold.
-
----
-
-### 2026-06-12 05:18:07  #公司 #市場 #國際
-
-美國芝加哥商業交易所集團（CME）將WTI原油與黃金交易時間拓展至7*24交易模式。
-
----
-
-### 2026-06-12 05:18:02  #公司
-
-【SpaceX持股方Ark稱軌道資料中心或帶來3,000億美元年營收】Ark Investment Management的Brett Winton表示，按當前租賃費率計算，到本十年末，SpaceX透過部署數十吉瓦的軌道資料中心容量，可能產生3,000億美元年營收。Ark首席未來學家Winton週四在SpaceX創紀錄的首次公開募股(IPO)定價之前作出上述評估，詳細解釋了他眼中這家公司背後的估算邏輯。SpaceX目前是Ark旗下風投基金的最大持倉。SpaceX的機遇包括新型助推火箭以及利潤豐厚的星鏈衛星網際網路業務。“單是星鏈業務，就能在六個月內收回現金投入，”Winton週四在接受採訪時表示，因為一次滿載衛星的SpaceX發射成本約為5億美元，但這些衛星在五年壽命期內每年將產生10億美元收入。
-
----
-
-### 2026-06-12 05:15:24  #市場
-
-富時A50期指連續夜盤收漲0.81%，報15318點。
-
----
-
-### 2026-06-12 05:15:21  #公司
-
-Adobe高管表示，公司計劃敲定下一任執行長人選，使其主導 2027 財年及後續規劃制定工作。
-
----
-
-### 2026-06-12 05:06:04  #MKT News
-
-US State Department approves sale of FIM-92K Stinger missiles to Brazil, estimated value $330 million.
-
----
-
-### 2026-06-12 05:05:15  #其他
-
-【世界盃揭幕戰 東道主墨西哥隊2-0戰勝南非隊】北京時間6月12日3時，2026年美加墨世界盃揭幕戰（A組第一輪）在阿茲特克球場舉行，東道主墨西哥隊迎戰南非隊。最終，東道主墨西哥隊2-0戰勝南非隊。
 
 ---

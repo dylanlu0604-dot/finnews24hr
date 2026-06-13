@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 17:43:48_
-_本檔包含 3695 則快訊，約 665032 字_
+_更新時間：2026-06-13 18:43:13_
+_本檔包含 3695 則快訊，約 665851 字_
+
+---
+
+### 2026-06-11 01:14:23  #公司
+
+法國電力集團（EDF）與森特理克集團（Centrica）即將與英國政府達成框架協議，將賽茲韋爾B核電站的運營壽命延長20年。
+
+---
+
+### 2026-06-11 01:13:54  #國際
+
+【伊朗總統：伊朗將堅定不移抵禦任何壓力和威脅】當地時間10日，伊朗總統佩澤希齊揚表示，從交通網路到電力和水務行業，任何針對這些基礎設施的威脅都不是實力展示，而是違背國家意志的絕望之舉。伊朗將堅定不移地抵禦任何壓力和威脅。美國福克斯新聞頻道10日報道稱，美國總統特朗普說他“接近”下令對伊朗的發電廠和橋樑發動新的打擊。報道說，特朗普表示，這是作為對伊朗在談判過程中一直“拖著美國”的回應。（央視新聞）
+
+---
+
+### 2026-06-11 01:12:58  #MKT News #Commodities #Energy
+
+【Trump says US removing millions of barrels of oil from Iran nightly; Energy Secretary Wright says unaware】President Trump told reporters at the White House the US has been removing "millions of barrels" of oil from Iran every night, saying those shipments explain why oil trades around $85-90/bbl rather than $250 and that fuel prices would fall immediately once the war ends. Asked about the claim, Energy Secretary Wright said he was not aware of US shipments of Iranian oil.
+
+---
+
+### 2026-06-11 01:11:58  #國際
+
+美國國土安全部長馬林表示，要等到7月19日世界盃落幕，他才能睡個安穩覺。
+
+---
+
+### 2026-06-11 01:11:31  #其他
+
+剛果稱，埃博拉確診病例數已升至635例。
+
+---
+
+### 2026-06-11 01:10:44  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Qualcomm Stock Price Hits 4-week Low — Qualcomm shares decreased to 191.01 USD, the lowest since May 2026. Over the past 4 weeks, Qualcomm lost 19.48%, and in the last 12 months, it increased 19.92%.
+
+---
+
+### 2026-06-11 01:08:55  #國際
+
+巴西總統盧拉：美國最近的大部分關稅都是不可接受的。
+
+---
+
+### 2026-06-11 01:06:54  #公司
+
+太平洋投資管理公司警示，槓桿信貸及私募信貸機構即將迎來信貸損失週期，違約率將大幅攀升。
+
+---
+
+### 2026-06-11 01:05:05  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+U.S. 10-year Treasury yield was little changed after a Treasury auction, up 1 bp at 4.538%.
+
+---
+
+### 2026-06-11 01:04:47  #MKT News
+
+U.S. Treasury Secretary Bessent said Washington is disrupting procurement networks that support Iran.
+
+---
+
+### 2026-06-11 01:04:40  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【US forces say they struck tanker violating blockade in Gulf of Oman】CENTCOM said on June 10 that U.S. forces on June 9 disabled a tanker in the Gulf of Oman after the vessel violated blockade measures. CENTCOM said the tanker attempted to transport Iranian oil and, after repeatedly ignoring U.S. orders, was struck by a U.S. aircraft using precision‑guided munitions and rendered inoperable. Since launching the blockade on April 13, CENTCOM said U.S. forces have disabled eight non‑compliant tankers, diverted 134 vessels cooperating with inspections and allowed 42 ships carrying humanitarian aid to pass.
+
+---
+
+### 2026-06-11 01:04:38  #公司 #國際
+
+英國考慮調整美國有限責任公司等機構相關人員的稅收政策，擬為部分個人降低實際高稅率。
+
+---
+
+### 2026-06-11 01:04:27  #市場 #國際
+
+美國10年期國債收益率在拍賣結束後變動不大，最新上漲1個基點，報4.538%。
+
+---
+
+### 2026-06-11 01:03:31  #宏觀 #國際
+
+美國財政部長貝森特：藉助“經濟怒火行動”，財政部正打擊為伊朗軍方採購武器的境外相關網路。財政部已凍結伊朗相關資產，重創其經濟，並瓦解其戰爭體系。美方絕不允許任何勢力為伊朗軍方提供支援。
+
+---
+
+### 2026-06-11 01:03:26  #MKT News
+
+The U.S. State Department announced an additional $20 million to support ongoing Ebola response and preparedness efforts.
+
+---
+
+### 2026-06-11 01:02:53  #宏觀 #國際
+
+美國國務院：宣佈為該部門持續開展的埃博拉應對與防範工作追加2000萬美元資金。
+
+---
+
+### 2026-06-11 01:02:24  #宏觀 #市場 #國際
+
+美國財政部拍賣390億美元10年期國債，得標利率4.538%（5月12日為4.468%），投標倍數2.57（前次為2.40）。
+
+---
+
+### 2026-06-11 01:02:19  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+U.S. 10-year Treasury auction bid-cover ratio 2.57 on June 10; prior 2.40.
+
+---
+
+### 2026-06-11 01:02:15  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. 10-year Treasury auction June 10 stop-out yield 4.538%, prior 4.47%.
+
+---
+
+### 2026-06-11 01:02:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
+
+U.S. 10-year Treasury auction through June 10: share of awarded amount at the winning yield 71.34% (prior 22%).
+
+---
+
+### 2026-06-11 01:02:05  #MKT News #Economic Calendar
+
+United States | 10-Year Note Auction Bid/Cover Ratio (Jun.10) | actual 2.57 | previous 2.4
+
+---
+
+### 2026-06-11 01:02:05  #MKT News #Economic Calendar
+
+United States | 10-Year Note Auction Accepted at High (Jun.10) | actual 71.34% | previous 22%
+
+---
+
+### 2026-06-11 01:02:05  #MKT News #Economic Calendar #Important
+
+United States | 10-Year Note Auction High Yield Rate (Jun.10) | actual 4.538% | previous 4.47%
+
+---
+
+### 2026-06-11 01:01:14  #其他
+
+巴西總統盧拉：今天要和墨西哥總統舉行電話會議。
+
+---
+
+### 2026-06-11 01:00:53  #MKT News #Important #Commodities #Energy #WTI #Brent
+
+U.S. Energy Secretary Wright said he was not aware of any U.S. shipments of oil from Iran.
+
+---
+
+### 2026-06-11 01:00:27  #市場 #國際
+
+390億美元拍賣前，10年期美國國債收益率為4.539%。
+
+---
+
+### 2026-06-11 01:00:03  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌0.94%，滬銅收跌0.79%，滬鋁收漲0.02%，滬鋅收跌1.98%，滬鉛收跌0.09%，滬鎳收跌0.72%，滬錫收跌0.04%。氧化鋁夜盤收漲0.73%，鋁合金收漲0.63%。不鏽鋼夜盤收漲0.17%。
+
+---
+
+### 2026-06-11 00:58:07  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
+
+The Verge reports Microsoft has restricted employees' use of Claude Fable, citing concerns about data retention.
+
+---
+
+### 2026-06-11 00:57:49  #國際
+
+【特朗普稱美國持續從伊朗偷運石油】特朗普還透露“美國一直在從伊朗運走石油”。他說：“我們一直都在運出數百萬桶石油，每晚都是數百萬桶。”據特朗普稱，伊朗“剛剛發現這件事”。但他沒有透露有關這些行動的更多細節。 特朗普表示，美國仍在尋求與伊朗達成協議。據他稱，伊朗已同意不獲取核武器，但該協議仍需簽署。
+
+---
+
+### 2026-06-11 00:56:24  #公司
+
+【因資料留存相關顧慮，微軟限制員工使用Claude Fable】Anthropic昨日推出首款Mythos系列AI模型Claude Fable，而這款產品已在微軟內部引發擔憂。據訊息人士透露，由於Anthropic更新了資料留存相關要求，微軟已限制員工使用Claude Fable 5。微軟雖迅速面向旗下GitHub Copilot與Foundry客戶開放了Claude Fable 5，但該模型並未出現在微軟員工內部版GitHub Copilot的模型選擇列表中。微軟內部仍可正常使用其他版本的Claude模型，這類模型均遵循零資料留存規則。微軟已告知員工，法務團隊正在評估Anthropic的資料留存新規。公司主要顧慮客戶資料與機密資訊保安，目前法務部門尚未確定是否批准員工在內部使用Claude Fable。
+
+---
+
+### 2026-06-11 00:55:57  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Rosneft Kuibyshev refinery halts processing after drone strike】Rosneft’s Kuibyshev refinery halted oil-processing operations on June 10 after a drone strike damaged equipment and sparked a fire, two industry sources said. The attack knocked out two atmospheric crude distillation units, CDU-4 and CDU-5, each with roughly 10,000 mt/day (≈73,000 bpd) capacity — about 20,000 mt/day (≈146,000 bpd) of processing capacity affected.
+
+---
+
+### 2026-06-11 00:55:08  #其他
+
+微軟限制員工使用Claude Fable模型。
+
+---
+
+### 2026-06-11 00:54:14  #國際
+
+印度高階專員：全球投資者仍對加拿大的監管流程與專案審批流程持謹慎態度。
+
+---
+
+### 2026-06-11 00:54:12  #MKT News
+
+India's high commissioner to Canada said global investors remain cautious about Canada's regulatory processes and project approval procedures.
+
+---
+
+### 2026-06-11 00:53:50  #MKT News
+
+Ukrainian Sea Ports Authority said two vessels were attacked while transiting the Ukrainian Black Sea corridor; the damaged ships were flagged Panama and Barbados.
+
+---
+
+### 2026-06-11 00:53:29  #國際
+
+烏克蘭港務局表示，兩艘分別懸掛巴拿馬國旗和巴貝多國旗的船隻在經由烏克蘭黑海航道航行時遇襲受損。
+
+---
+
+### 2026-06-11 00:53:22  #MKT News
+
+India's high commissioner to Canada said India's new refineries are configured to process heavy crude, making Canadian barrels a potential source. India and Natural Resources Canada are holding regular meetings to explore purchases of Canadian energy.
+
+---
+
+### 2026-06-11 00:53:12  #公司 #國際
+
+谷歌正面向拉美、非洲、中東等地區使用者，在瀏覽器Chrome中上線Gemini人工智慧功能。
+
+---
+
+### 2026-06-11 00:52:39  #國際
+
+比爾·蓋茨向美國國會表示：與愛潑斯坦斷絕往來後，對方曾利用掌握的其婚外情資訊對我進行施壓。我得知愛潑斯坦掌握了我的私人隱私，包括我婚內出軌一事。
+
+---
+
+### 2026-06-11 00:52:36  #MKT News
+
+Israeli Prime Minister Netanyahu told the people of Lebanon that Israel is not at war with the Lebanese people and that its fight is against Hezbollah.
+
+---
+
+### 2026-06-11 00:51:46  #MKT News
+
+Colombia's Ministry of Mines and Energy has launched tenders for clean-energy and energy-storage projects to secure long-term power supply.
+
+---
+
+### 2026-06-11 00:51:24  #MKT News
+
+India's high commissioner to Canada said India is considering Canada as a potential crude oil supplier.
+
+---
+
+### 2026-06-11 00:51:17  #公司 #觀點 #國際
+
+【亞馬遜獲得花旗牽頭銀團總計175億美元貸款額度】亞馬遜公司在監管檔案中披露，已與由花旗集團牽頭的銀團簽署了一項總額175億美元的貸款協議。根據週三提交的監管檔案，貸款方同意提供這筆延遲提取定期貸款(DDTL)，額度將保留至今年9月底。亞馬遜每次動用信貸額度借款時，均需在借款之日起三年內償還。該貸款的利率將在有擔保隔夜融資利率(SOFR)的基礎上，上浮0.625至0.875個百分點，具體幅度取決於亞馬遜的信用評級。參與此次交易的其他銀行包括摩根大通、美國銀行、滙豐銀行和富國銀行。此外，還有十幾家銀行也參與了此次融資。
+
+---
+
+### 2026-06-11 00:51:07  #國際
+
+印度駐加拿大高階專員：印度正考慮將加拿大列為潛在原油供應國。
+
+---
+
+### 2026-06-11 00:50:52  #國際
+
+市場資訊：比亞迪將投資近20億歐元，在歐洲佈局可實現五分鐘快充技術的配套基礎設施。
+
+---
+
+### 2026-06-11 00:50:39  #其他
+
+哥倫比亞礦業與能源部：哥倫比亞啟動清潔能源與儲能專案拍賣，以保障長期電力供應。
+
+---
+
+### 2026-06-11 00:50:10  #MKT News #Important
+
+U.S. 10-yr Treasury auction (June 10): award yield and bid-cover ratio due in 10 minutes.
+
+---
+
+### 2026-06-11 00:49:29  #MKT News
+
+Sources said Russia's Kuibyshev refinery has suspended refining operations since June 10 after a drone attack.
+
+---
+
+### 2026-06-11 00:49:20  #國際
+
+訊息人士稱，俄羅斯古比雪夫煉油廠在遭遇無人機襲擊後，已於6月10日暫停原油加工。
+
+---
+
+### 2026-06-11 00:45:53  #國際
+
+伊朗總統：關鍵基礎設施是人民生活的命脈。威脅針對它們——從交通網路到電力和水工業——不是力量的展示，而是面對一個國家意志時的絕望表現。伊朗依靠專家的知識和能力、民族團結和凝聚力，將在任何壓力和威脅面前屹立不倒。
+
+---
+
+### 2026-06-11 00:45:36  #國際
+
+伊朗總統：以打擊基礎設施相威脅，並非實力的體現，而是走投無路的表現。
+
+---
+
+### 2026-06-11 00:45:14  #國際
+
+【美國中央司令部在阿曼海灣截停違規船隻】美國中央司令部表示，6月9日晚間11時14分，又一艘船隻違反現行封鎖規定，試圖運送伊朗石油，美軍遂在阿曼海灣截停一艘油輪，這已是連續第二天採取此類行動。帛琉籍油輪“塞特貝洛”號在阿曼海灣航行途中被美國中央司令部截停。該船船員多次拒不服從美軍指令，隨後美軍戰機向其機艙發射精確彈藥。自4月13日實施封鎖以來，美軍中央司令部已截停八艘違規船隻，引導134艘合規船隻改道，並放行42艘執行人道主義援助任務的船隻。
+
+---
+
+### 2026-06-11 00:44:54  #MKT News #Important
+
+Iran's president said threats targeting infrastructure are not a show of strength but a sign of desperation.
 
 ---
 
@@ -21941,323 +22259,5 @@ Oil Falls on Easing War Risks and Weak China Demand — Crude oil fell more than
 ### 2026-06-09 21:59:32  #公司
 
 【26國海02：確定本期債券票面利率為1.69%】26國海02公告稱，國海證券面向專業機構投資者公開發行面值不超100億元公司債券已獲同意註冊。本期債券為註冊批覆項下第五期，計劃發行規模不超15億元。6月9日詢價，利率詢價區間1.60%-2.20%，最終確定票面利率為1.69%。發行人將按此利率於6月10日至11日面向專業機構投資者網下發行。
-
----
-
-### 2026-06-09 21:59:05  #公司 #市場
-
-【6月9日增減持彙總】據不完全統計，6月9日盤後，嘉益股份披露增持情況，包括隆華科技、中天火箭、華盛鋰電、美信科技、ST路通、凱瑞德、蘇泊爾、大亞聖象、浙江力諾、凱倫股份、元力股份、蘇州固鎝、新鳳鳴、宏和科技在內的14家A股上市公司披露擬減持情況。
-
----
-
-### 2026-06-09 21:57:19  #其他
-
-【馬裡暫停全國淘金活動以保障從業者安全】馬裡礦業部9日釋出新聞公報說，馬裡將於6月15日至9月30日暫停全國範圍內的淘金活動。
-
----
-
-### 2026-06-09 21:57:11  #其他
-
-秘魯主要股指跌幅超6.5%。
-
----
-
-### 2026-06-09 21:56:41  #其他
-
-巴西財長：與格里爾的會晤應該會在未來幾天舉行。
-
----
-
-### 2026-06-09 21:56:06  #市場 #國際
-
-【中非農業科技產業合作論壇聚焦農業現代化合作】為期3天的2026中非農業科技產業合作論壇暨展覽會9日在肯亞首都內羅畢開幕。來自中非政府部門、國際組織、科研機構、高校、商協會及企業的100多名代表共同探討中非農業現代化合作新路徑。 中國駐肯亞大使郭海燕在論壇開幕式致辭中表示，在中非合作論壇框架下，農業現代化已成為中非互利合作的重要領域。中國的成功經驗為非洲國家推進農業現代化提供有益借鑑，中國農業技術、裝備和產品能夠助力非洲加快農業轉型，實現糧食和營養安全，中國的零關稅政策則為非洲農產品出口創造黃金機遇。非洲豐富的農業資源和年輕人口優勢同中國發展經驗、先進技術和廣闊市場相結合，將為雙方推進農業現代化、提升糧食安全水平和實現共同繁榮注入強勁動力。（新華社）
-
----
-
-### 2026-06-09 21:55:34  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Advances on Hopes for US-Iran Deal — The S&P/TSX Composite Index gained 0.5% to trade above 34,500 on Tuesday amid signs of easing tensions in the Middle East. The White House suggested that a deal to end the more than three-month-old conflict with Iran could be reached within days, improving risk sentiment. Oil prices and bond yields declined, supporting financial stocks and the broader market. RBC and BMO rose about 1%, while TD Bank added more than 0.5%. Meanwhile, higher gold prices provided support to mining shares, with Barrick advancing more than 1%. Elsewhere, Shopify extended its rally with a nearly 5% gain as persistent optimism surrounding artificial intelligence boosted technology stocks. Investors also looked ahead to the Bank of Canada's policy decision on Wednesday, with policymakers widely expected to leave interest rates unchanged.
-
----
-
-### 2026-06-09 21:55:30  #市場
-
-【現貨白銀站上69美元/盎司】現貨白銀站上69美元/盎司，日內漲1.25%。
-
----
-
-### 2026-06-09 21:55:10  #公司 #國際
-
-【泰國前總理他信獲特赦】泰國獄政廳6月9日釋出公告說，泰國前總理他信·西那瓦9日被摘除電子監控裝置，獲得特赦。泰國司法部長魯塔蓬3日接受媒體採訪時表示，根據泰國國王瑪哈·哇集拉隆功2日頒佈的特赦令，他信符合特赦條件，屬於獲得赦免的人員之一。（新華社）
-
----
-
-### 2026-06-09 21:54:34  #MKT News #Market Regions #Europe & UK
-
-UK and German government bonds rose; 10-year UK gilt yield fell 5bp to 4.89%.
-
----
-
-### 2026-06-09 21:54:28  #市場
-
-英國和德國國債上漲，10年期英國國債收益率下跌5個基點至4.89%。
-
----
-
-### 2026-06-09 21:53:13  #MKT News #Important #WTI #Impact bearish #S&P500 #Impact bullish
-
-EKHBARIYA, citing a White House official, reported talks on an agreement to prevent Iran from obtaining nuclear weapons are making positive progress.
-
----
-
-### 2026-06-09 21:53:09  #Trading Economics #Markets #France #stocks #Importance 1
-
-Hermes International Stock Price Hits 4-week High — Hermes International shares increased to 1675.00 EUR, the highest since May 2026. Over the past 4 weeks, Hermes International gained 4.16%, and in the last 12 months, it decreased 28.71%.
-
----
-
-### 2026-06-09 21:53:00  #市場
-
-ROBLOX股價上漲5%。
-
----
-
-### 2026-06-09 21:52:49  #其他
-
-【畢馬威與微軟擴大合作，向逾27萬員工全面鋪開Copilot並引入Agent 365治理框架】畢馬威與微軟6月9日宣佈擴充套件全球戰略合作關係，聚焦企業級AI智慧體的規模化部署。根據協議，微軟365 Copilot將向畢馬威全球逾27.6萬名專業人員全面推廣；與此同時，畢馬威將採用微軟Agent 365平臺，對其全球組織內及客戶端的AI智慧體實施統一管理、監控與安全治理。
-
----
-
-### 2026-06-09 21:52:42  #公司 #國際
-
-黑石集團高管：美國未來兩年房地產市場走勢將超出市場預期。
-
----
-
-### 2026-06-09 21:51:29  #公司
-
-黑石集團高管： 二級市場交易將再創新高。
-
----
-
-### 2026-06-09 21:50:33  #公司 #國際
-
-【聖泉集團：PPE樹脂與電子級PPO樹脂分屬不同產品體系 公司先進電子材料產品價格穩定不存在大幅漲價的情況】有投資者問聖泉集團，近期有媒體報道稱，受中東霍爾木茲海峽航運受阻影響，沙特朱拜勒工業區供應全球約70% 的PPE樹脂已出現供應中斷，引發PCB行業漲價潮。請問公司電子級PPO樹脂等產品目前是否有漲價計劃或已實施提價？聖泉集團在互動平臺表示，媒體報道提及的沙特朱拜勒工業區量產的高分子量聚苯醚（PPE），屬於工程塑膠品類，產品效能聚焦機械強度、耐熱、尺寸穩定等效能，下游應用於汽車、家電、工業裝備等領域；公司電子級PPO樹脂聚焦低介電、低損耗、高速訊號傳輸等特性，主要應用於覆銅板（CCL）領域。兩者分屬不同產品體系，技術路線及終端市場差異顯著，沒有業務關聯關係。近期，公司先進電子材料產品價格穩定，不存在大幅漲價的情況。
-
----
-
-### 2026-06-09 21:50:21  #其他
-
-瑞銀表示，保險股對人工智慧影響的負面預期定價過高。
-
----
-
-### 2026-06-09 21:50:12  #公司
-
-黑石集團高管：對公司而言人工智慧核心在於基礎設施建設。
-
----
-
-### 2026-06-09 21:50:09  #MKT News #Important #Macro & Rates #US Economy #DXY #US10Y #S&P500
-
-U.S. April wholesale sales MoM and May existing-home sales (annualized total) due in 10 minutes.
-
----
-
-### 2026-06-09 21:49:41  #市場
-
-【現貨黃金站上4360美元/盎司】現貨黃金站上4360美元/盎司，日內漲0.74%。
-
----
-
-### 2026-06-09 21:49:23  #市場 #國際
-
-美國股市延續漲勢，標普500指數上漲1.00%。
-
----
-
-### 2026-06-09 21:49:14  #市場 #焦點
-
-現貨黃金突破4360美元/盎司，日內漲0.74%。
-
----
-
-### 2026-06-09 21:49:11  #市場
-
-現貨白銀日內漲1%，現報68.94美元/盎司。
-
----
-
-### 2026-06-09 21:49:10  #市場 #焦點
-
-標普500指數漲1.01%，現報7480.490點；道指漲0.91%，現報51249.020點；納指漲1.26%，現報26255.964點。
-
----
-
-### 2026-06-09 21:49:03  #公司 #市場 #焦點 #國際
-
-【阿斯麥股價上漲4.5% 總市值首破7000億美元】阿斯麥股價上漲4.47%，報1827.28美元/股，續刷記錄新高，總市值報7043億美元，繼續鞏固了其歐洲上市公司市值最高的地位。今年以來阿斯麥股價股價累計大漲了72%。
-
----
-
-### 2026-06-09 21:49:03  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold climbed about $20 intraday to $4,346/oz.
-
----
-
-### 2026-06-09 21:48:59  #市場 #焦點
-
-紐約期金突破4380美元/盎司，日內漲0.39%。
-
----
-
-### 2026-06-09 21:48:46  #市場
-
-WTI原油日內跌4%，現報87.62美元/桶。
-
----
-
-### 2026-06-09 21:48:46  #市場 #焦點
-
-布倫特原油失守91美元/桶，日內跌3.46%。
-
----
-
-### 2026-06-09 21:48:17  #Trading Economics #Markets #France #stocks #Importance 1
-
-LVMH Stock Price Hits 4-week High — LVMH shares increased to 493.25 EUR, the highest since May 2026. Over the past 4 weeks, LVMH gained 8.83%, and in the last 12 months, it increased 3.59%.
-
----
-
-### 2026-06-09 21:47:49  #其他
-
-巴西財長：只要衝突繼續產生影響，就會實施相應對措施。
-
----
-
-### 2026-06-09 21:47:46  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
-
-Brent crude intraday losses widened to 3.0%, trading at $90.62/bbl; WTI down 3.6%.
-
----
-
-### 2026-06-09 21:47:43  #市場 #焦點
-
-WTI原油失守88美元/桶，日內跌3.61%。
-
----
-
-### 2026-06-09 21:47:15  #MKT News
-
-Brazil's finance minister said the government is seeking measures to offset the impact of rising fuel inflation and that war-related effects persist.
-
----
-
-### 2026-06-09 21:47:02  #其他
-
-ONEFOOTBALL與Polymarket宣佈達成合作，面向全球球迷推出足球預測市場。
-
----
-
-### 2026-06-09 21:46:50  #市場
-
-布倫特原油日內跌3%，現報91.40美元/桶。
-
----
-
-### 2026-06-09 21:46:39  #MKT News #WTI #Impact bullish #Brent
-
-Brazil's finance minister said the government will cautiously evaluate measures to mitigate the impact of a war involving Iran on fuel supplies.
-
----
-
-### 2026-06-09 21:46:28  #資料 #市場
-
-巴西財長：戰爭影響持續存在，力圖抵消燃油CPI上漲。
-
----
-
-### 2026-06-09 21:46:15  #其他
-
-DSS提交撤回IPO註冊申請。
-
----
-
-### 2026-06-09 21:46:07  #市場 #國際
-
-美國運通、耐克股價上漲推動道指飆升368點。
-
----
-
-### 2026-06-09 21:44:46  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #DXY
-
-Moody's chief economist says the US economy is on the brink of recession.
-
----
-
-### 2026-06-09 21:44:36  #市場 #焦點
-
-納指漲1.01%，現報26190.620點；道指漲0.75%，現報51168.969點；標普500指數漲0.83%，現報7466.940點。
-
----
-
-### 2026-06-09 21:44:34  #MKT News #Market Themes #AI Revolution
-
-【Saidou Technology's AIVA likely to source LiDAR from RoboSense】Saidou Technology's new AIVA auto brand is expected to source its vehicle LiDAR from RoboSense, according to people familiar with the matter. AIVA's first production model, the AIVA ME7, is slated to debut in 2026. The brand will target the mainstream market above 200,000 yuan. Saidou has partnered with Volcano Engine to jointly design the AI car experience; Volcano Engine will supply the Doubao large model and intelligent cockpit technologies.
-
----
-
-### 2026-06-09 21:44:32  #市場
-
-巴克萊預計，如果霍爾木茲海峽航運持續中斷，布倫特原油價格將會上漲。
-
----
-
-### 2026-06-09 21:44:14  #MKT News #Nasdaq100 #Impact bullish
-
-Nasdaq-100 index extended gains to 1%.
-
----
-
-### 2026-06-09 21:44:09  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
-
-KPMG has reached an agreement with Microsoft (MSFT.O) to help clients deploy artificial intelligence at scale.
-
----
-
-### 2026-06-09 21:44:06  #其他
-
-納斯達克100指數漲幅擴大至1%。
-
----
-
-### 2026-06-09 21:43:29  #公司 #觀點
-
-摩根大通將瑞士再保險股份有限公司目標股價從145瑞郎下調至135瑞郎。
-
----
-
-### 2026-06-09 21:43:06  #國際
-
-巴西財長：儘管受到中東戰爭的影響，仍將遵守財政目標。
-
----
-
-### 2026-06-09 21:42:54  #公司 #國際
-
-【蘋果釋出iOS 27服務功能更新：地圖、錢包、播客等全面升級】蘋果公司6月9日宣佈，隨今秋iOS 27等2027軟體版本釋出，將為多項服務推出重大功能更新。主要更新包括：地圖應用新增AI增強Flyover俯瞰體驗及美國本地推薦榜單；查詢應用新增自定義位置分享時長及定時停止功能，Apple Watch端將三個獨立應用合併為統一查詢應用；錢包應用支援透過攝像頭掃描賬單並結合Apple Cash智慧分攤費用，同時可將實體會員卡及優惠券掃碼存入錢包；Apple Pay更新介面設計，新增“輕觸分享”功能，支援與商戶一鍵共享聯絡方式及會員資訊；播客應用支援擴充套件至macOS和tvOS；iCloud共享相簿新增全解析度共享及臨時相簿功能；音樂應用歌詞翻譯新增7組語言配對，並將無損音訊引入tvOS。
-
----
-
-### 2026-06-09 21:42:48  #公司
-
-【馮培炯獲批擔任寧波銀行副董事長、行長】6月9日，寧波金融監管局網站釋出批覆，核准馮培炯寧波銀行股份有限公司副董事長、行長的任職資格。該行應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由寧波金融監管局辦理行政許可登出手續。
-
----
-
-### 2026-06-09 21:41:51  #MKT News
-
-Witnesses said a Kenyan protester was shot during a demonstration at a U.S. Ebola isolation facility.
 
 ---
