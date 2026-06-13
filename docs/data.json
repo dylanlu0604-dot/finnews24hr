@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-13 16:01:41",
-  "count": 18357,
+  "updated": "2026-06-13 16:06:02",
+  "count": 18355,
   "items": [
+    {
+      "id": "mkt:019ec002-30a6-7dd8-afe8-edbe6c3559dc",
+      "time": "2026-06-13 16:03:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk says SpaceX could launch roughly five times as many satellites over the next ~5 years as the rest of the world combined."
+    },
+    {
+      "id": "mkt:019ec001-e43b-7dd8-afe8-e001d800f169",
+      "time": "2026-06-13 16:03:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China issues Guidelines on Classification and Grading of Financial Information Service Data】To guide financial information service providers on data classification, grading and identification of important data and to strengthen financial information data security, the Cyberspace Administration of China, the People’s Bank of China, the National Financial Regulatory Administration, the China Securities Regulatory Commission, the National Bureau of Statistics and the State Administration of Foreign Exchange jointly issued the Guidelines on Classification and Grading of Financial Information Service Data, under the Cybersecurity Law, Data Security Law, Personal Information Protection Law, the Regulations on Network Data Security Management and the Regulations on the Administration of Financial Information Services."
+    },
+    {
+      "id": "4933726",
+      "time": "2026-06-13 16:03:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《金融資訊服務資料分類分級指南》印發】為指導金融資訊服務機構開展資料分類分級和重要資料識別工作，提升金融資訊服務資料安全水平，依據《中華人民共和國網路安全法》、《中華人民共和國資料安全法》、《中華人民共和國個人資訊保護法》、《網路資料安全管理條例》、《金融資訊服務管理規定》等法律法規規章和政策規定，國家網際網路資訊辦公室、中國人民銀行、國家金融監督管理總局、中國證券監督管理委員會、國家統計局、國家外匯管理局制定了《金融資訊服務資料分類分級指南》。（網信辦）"
+    },
     {
       "id": "mkt:019ebfff-ddb7-7dd8-afe8-dcd75a4d6e6e",
       "time": "2026-06-13 16:01:17",
@@ -168789,52 +168815,6 @@
         "國際"
       ],
       "text": "俄羅斯石油公司執行長謝欽表示，如果危機得到解決，石油市場或在2027年下半年迴歸基本面驅動。"
-    },
-    {
-      "id": "4921201",
-      "time": "2026-06-06 16:03:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江省人大常委會委員、省人大教科文衛委員會委員李皎被查】據黑龍江省紀委監委訊息：黑龍江省人大常委會委員、省人大教科文衛委員會委員李皎涉嫌嚴重違紀違法，目前正接受黑龍江省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4921200",
-      "time": "2026-06-06 16:02:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "布魯塞爾郊區發生火災，50名居民已疏散。"
-    },
-    {
-      "id": "mkt:019e9bf4-c258-7665-8310-fd334e11d513",
-      "time": "2026-06-06 16:02:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Local authorities said drone debris sparked a fire at oil and gas facilities in Russia's Krasnodar region."
-    },
-    {
-      "id": "4921199",
-      "time": "2026-06-06 16:02:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯秋明州煉油廠發生火災，當局否認遭無人機襲擊】俄羅斯秋明州安提平斯基煉油廠發生火災，該煉油廠是俄羅斯最大的獨立煉油廠。當地政府週六透過其Telegram頻道釋出了這一訊息。當地政府稱，火災是由其中一個淨化裝置的“工藝違規”引起的，並駁斥了有關烏克蘭無人機襲擊的報道。當地政府表示火災沒有造成人員傷亡。"
-    },
-    {
-      "id": "mkt:019e9bf3-c93d-7665-8310-f1f64ac3451f",
-      "time": "2026-06-06 16:01:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Rosneft CEO Igor Sechin warned that if the Strait of Hormuz were to be closed, other major shipping chokepoints—including the Malacca Strait, Bab el‑Mandeb and the Strait of Gibraltar—could also face disruption risk."
     }
   ]
 }
