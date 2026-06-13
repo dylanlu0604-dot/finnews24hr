@@ -1,7 +1,319 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-13 09:04:55_
-_本檔包含 3754 則快訊，約 670565 字_
+_更新時間：2026-06-13 10:35:01_
+_本檔包含 3747 則快訊，約 669425 字_
+
+---
+
+### 2026-06-13 10:33:13  #公司
+
+【今年前五個月全國鐵路傳送旅客19.69億人次 創歷史新高】據國鐵集團訊息，今年1至5月，全國鐵路傳送旅客19.69億人次、同比增長5.7%。客流總量、單日客流量和跨境客流等多項指標均創歷史同期新高。今年前五個月，旅客出行需求旺盛，國鐵集團充分運用鐵路12306售票和候補購票大資料，動態分析出行需求，及時在熱門方向、區間和時段加大運力投放。1至5月全國鐵路日均開行旅客列車11541列、同比增長5.9%，其中，5月1日傳送旅客2484.4萬人次，創單日旅客傳送量歷史新高。（央視新聞）
+
+---
+
+### 2026-06-13 10:30:52  #國際
+
+【歐盟將啟動烏克蘭和摩爾多瓦首階段入盟談判】歐洲理事會主席科斯塔和歐盟委員會主席馮德萊恩12日共同發表宣告說，歐盟將啟動與烏克蘭和摩爾多瓦的首階段入盟談判。宣告說，歐盟成員國已同意與烏克蘭和摩爾多瓦啟動首階段入盟談判，歐盟將在本月15日舉行的首次政府間會議上啟動涉及基本原則的談判，涵蓋法治、制度等內容。此前，以匈牙利為代表的部分歐盟成員國反對烏克蘭加入歐盟。但5月初就職的匈牙利總理毛焦爾·彼得本月表示，匈牙利已同意開啟烏克蘭加入歐盟的談判。烏克蘭和摩爾多瓦於2022年獲得歐盟候選國地位。分析人士認為，入盟談判通常曠日持久，啟動相關談判並不意味著兩國短期內就能加入歐盟，其入盟之路將面臨國內相關改革程序、地區安全域性勢等不確定因素。（新華社）
+
+---
+
+### 2026-06-13 10:29:43  #公司
+
+【交銀施羅德基金董事長張宏良卸任 總經理袁慶偉代行職責】6月13日，交銀施羅德基金公告稱，原董事長張宏良因接近退休年齡，按內部管理制度退出一線管理崗位，不再擔任董事、董事長（法定代表人），由公司總經理袁慶偉暫代董事長職責。
+
+---
+
+### 2026-06-13 10:29:22  #國際
+
+【菲律賓南部海域發生5.7級地震】據菲律賓火山地震研究所訊息，6月13日10時許，菲律賓南部海域發生5.7級地震，震源深度10公里，附近多地有震感。同一區域在6月8日曾發生7.8級地震，造成人員傷亡。菲律賓火山地震研究所稱，此次地震為6月8日強震的餘震。（央視新聞）
+
+---
+
+### 2026-06-13 10:28:08  #國際
+
+美國就業市場遭遇信任危機：67% 的美國求職者表示曾遇到虛假或不實招聘資訊。
+
+---
+
+### 2026-06-13 10:27:34  #其他
+
+市場訊息：領英推出創作者交易平臺，對接品牌方與內容創作者，向同類網紅營銷平臺發起競爭。
+
+---
+
+### 2026-06-13 10:25:44  #國際
+
+美方官員：解除對伊朗制裁，與伊朗核問題以及停止向真主黨等組織提供資金一事掛鉤。
+
+---
+
+### 2026-06-13 10:25:40  #公司 #國際
+
+美方官員：特朗普將尋求七國集團支援，確保伊朗全面遵守相關協議。
+
+---
+
+### 2026-06-13 10:24:36  #其他
+
+【第十八屆海峽論壇大會舉辦】第十八屆海峽論壇大會今天（13日）上午在福建廈門舉辦。本屆論壇延續“擴大民間交流、深化融合發展”的主題，將陸續舉辦主論壇活動以及基層交流、青年交流、文化交流、經濟交流四大板塊58項系列活動。本屆論壇臺胞參會覆蓋面廣，參會人員涵蓋不同領域、不同職業、不同年齡。其中，臺胞“首來族”、臺青佔比持續走高。海峽論壇是兩岸規模最大、範圍最廣、影響最深遠的民間交流活動，自2009年首次舉辦以來，共吸引超過10萬人次的臺胞參與。（央視新聞）
+
+---
+
+### 2026-06-13 10:21:47  #資料 #國際
+
+【美國消費者信心指數略有改善 通脹預期仍處高位】美國密歇根大學12日釋出的初步調查資料顯示，6月美國消費者信心指數初值為48.9，較5月的44.8有所改善，但仍明顯低於去年同期的60.7。調查顯示，儘管消費者信心指數有所回升，但市場對經濟前景仍相對悲觀，6月消費者信心指數比2026年1月低13%，比一年前低約19%。消費者感受到近期通脹加劇帶來的壓力，並擔心高通脹可能持續存在。此外，密歇根大學釋出的6月當前經濟狀況指數初值為48.4，高於5月的45.8，低於去年同期的64.8；消費者預期指數初值為49.3，高於5月的44.1，低於去年同期的58.1。調查還顯示，未來一年美國通脹預期為4.6%，雖較5月4.8%的預期小幅下降，但仍處於較高水平。（新華社）
+
+---
+
+### 2026-06-13 10:21:24  #國際
+
+美國地質調查局：菲律賓卡布拉蘭西南方向 2 公里處發生5.2 級地震。
+
+---
+
+### 2026-06-13 10:15:21  #公司
+
+【美瑞新材：目前PPDA產品已成功產出合格產品 正處於下游客戶開發及產品驗證階段】美瑞新材(300848)在互動平臺表示，PPDA（對苯二胺）屬於芳香二胺，是對位芳綸及聚醯亞胺的核心原材料，同時也可用於製取偶氮染料、硫化染料等。目前PPDA產品已成功產出合格產品，效能指標達到預定目標，正處於下游客戶開發及產品驗證階段，公司銷售團隊正積極對接芳綸等領域的目標客戶，力爭早日實現市場突破。
+
+---
+
+### 2026-06-13 10:14:57  #國際
+
+美國中央司令部：美軍在中東地區保持全面部署並處於高度戒備狀態。
+
+---
+
+### 2026-06-13 10:13:48  #宏觀 #國際
+
+美國財政部長：若伊朗衝突得以解決，能源價格數日內或將回落。
+
+---
+
+### 2026-06-13 10:13:29  #宏觀 #國際
+
+美國財政部長：儘管近期供應出現波動，全球能源供給依舊充足。
+
+---
+
+### 2026-06-13 10:08:28  #MKT News #Market Regions #Europe & UK
+
+【U.S. to provide $4 bln FMF loan to Poland】U.S. deputy assistant secretary for arms control and international security Thomas DiNanno said on the 12th the U.S. will provide a $4 bln foreign military financing (FMF) loan to Poland to finance purchases of U.S.-made military equipment. DiNanno announced the package at an F-35 handover ceremony at a Polish airbase and said U.S. FMF to Poland now totals nearly $20 bln.
+
+---
+
+### 2026-06-13 10:07:48  #國際
+
+【美國宣佈向波蘭提供40億美元軍事貸款】美國負責軍備控制和國際安全的副國務卿托馬斯·迪南諾12日表示，美國將向波蘭提供40億美元的外國軍事融資貸款，用於其採購美製軍事裝備。據波蘭通訊社報道，迪南諾當天在波蘭瓦斯克空軍基地舉行的F-35戰機接收儀式上宣佈這一貸款安排。他在接受採訪時說，美國對波蘭提供的外國軍事融資貸款總額將由此增至近200億美元。波蘭於2020年簽署採購32架美製F-35戰機合同，總價值46億美元，相關戰機按計劃於2024年至2030年間交付。波蘭副總理兼國防部長瓦迪斯瓦夫·科西尼亞克－卡梅什5月22日在社交媒體上宣佈，3架F-35戰機已抵達波蘭，這是首批正式駐紮在北約東翼的第五代戰機。（新華社）
+
+---
+
+### 2026-06-13 10:07:28  #其他
+
+【加盟店前股東捲款千萬失聯？周大福回應】6月13日訊息，近日，有媒體訊息稱，上海市周大福大華樂坊店前股東周某憑藉股東協議、內部聊天記錄等材料，以發展業務、投資門店生意等名義，先後向店內員工及顧客借款累計超千萬元，隨後失聯。其中，有超百萬元進入該加盟店公賬後被周某捲走。對此，周大福品牌發言人向《貴圈》欄目表示：“關於近日有關加盟商的事件，我們表示關注，並積極瞭解事件。我們一向對加盟商管理有明確的標準、規範及期望。如有任何違規行為，將嚴肅處理。”
+
+---
+
+### 2026-06-13 10:04:13  #國際
+
+【阿聯酋否認向伊朗轉移資金】阿聯酋外交部13日發表宣告，對部分媒體關於阿聯酋向伊朗轉移資金的報道予以否認，包括有報道稱其中涉及30億美元資金。宣告說，這些報道“完全沒有事實依據，純屬捏造”，並重申阿聯酋沒有解凍、轉移或協助轉移任何被凍結的伊朗資金。有外媒12日援引訊息人士的話報道稱，阿聯酋已同意向伊朗解鎖至少100億美元資金，其中超過30億美元“已經到位”。（新華社）
+
+---
+
+### 2026-06-13 09:58:01  #國際
+
+以色列媒體：美國一名高階官員表示，伊朗承諾不研發核武器值得肯定，但核查工作仍必不可少。
+
+---
+
+### 2026-06-13 09:54:33  #國際
+
+市場訊息：美方官員表示，在伊朗就核計劃採取實質性舉措前，不會解除對伊制裁。
+
+---
+
+### 2026-06-13 09:53:38  #其他
+
+【中國聯通釋出高質量資料集億元支援計劃】近日，中國聯通釋出高質量資料集億元支援計劃。該計劃設立超億元醫療領域高質量資料集專項支援資金，面向醫療機構和生態夥伴，旨在打造一批行業高質量資料集、促成一批億級醫療資料交易、孵化一批優質醫療人工智慧應用與生態。目前，基地已面向10餘個專科專病領域打造行業高質量資料集超150TB，達成資料交易規模超千萬元，服務醫藥研發管線30餘項。
+
+---
+
+### 2026-06-13 09:52:44  #國際
+
+市場訊息 ：特朗普將敦促各國領導人加強霍爾木茲海峽的安防與監控力度。
+
+---
+
+### 2026-06-13 09:52:23  #MKT News
+
+【Putin says Russia has Starlink-like satellite system】On June 12 Putin told military officials Russia is developing a satellite-based control system for combat drones. He named the 1440 Bureau, a Russian aerospace firm developing a global broadband low-Earth orbit (LEO) satellite constellation, and said Russia’s near-Earth orbit network is “not inferior” to the US Starlink and may exceed it in some respects.
+
+---
+
+### 2026-06-13 09:49:46  #國際
+
+市場訊息：Metaplanet收購SIIIBO，擬在日本推出掛鉤比特幣的金融產品。
+
+---
+
+### 2026-06-13 09:43:27  #其他
+
+【首個兩岸財富管理暨資產管理跨業聯盟成立】記者獲悉，在第十八屆海峽論壇重要配套活動“海峽金融論壇・臺企發展論壇”上，兩岸財富管理暨資產管理跨業聯盟正式揭牌成立，系兩岸首個此類聯盟。聯盟由包括金圓統一證券等多家機構聯合發起，聚焦兩岸財富與資管需求，搭建一站式綜合服務平臺，覆蓋資產配置、財富傳承、養老金融、健康保障等領域。此外。活動同期上線白鷺分臺胞金融服務平臺，由廈門證監局等多家監管部門指導打造，提供線上綜合金融服務，目前已匯聚轄內29家機構共71款金融產品。
+
+---
+
+### 2026-06-13 09:40:43  #國際
+
+美軍中央司令部12日在社交媒體上發文稱，伊朗發射多架單向攻擊無人機，試圖襲擊透過霍爾木茲海峽的商船。（新華社）
+
+---
+
+### 2026-06-13 09:37:50  #公司
+
+【西安破產法庭成立】據西安日報，6月12日，西安破產法庭成立，西北地區首家專業化破產法庭正式執行，標誌著陝西省、西安市破產審判工作全面邁入專業化、規範化、精細化高質量發展新階段。根據批覆，西安破產法庭負責審理西安市轄區內區、縣級以上（含本級）以及陝西西鹹新區市場監督管理機關核准登記公司（企業）的強制清算和破產案件；負責審理前述強制清算和破產案件的衍生訴訟案件；負責審理跨境破產案件；負責審理其他依法應當由其審理的案件；辦理其他有關破產審判工作事宜。
+
+---
+
+### 2026-06-13 09:36:33  #國際
+
+Cogntion：遵照美國相關指令，已關停 Claude Fable 5 模型的訪問許可權。
+
+---
+
+### 2026-06-13 09:33:30  #MKT News
+
+CENTCOM said Iran launched multiple one-way attack drones that attempted to strike commercial vessels transiting the Strait of Hormuz. U.S. forces shot down all the drones within hours; transit was not affected and the trade route remains open.
+
+---
+
+### 2026-06-13 09:32:59  #焦點 #國際
+
+美國軍方： 伊朗發射多架單向攻擊攻擊無人機，企圖襲擊途經霍爾木茲海峽的商船。美軍近數小時內將所有無人機全部擊落，海峽航運目前正常通行，這條國際貿易航道保持暢通。
+
+---
+
+### 2026-06-13 09:31:41  #央行 #日本央行
+
+【專家：日本央行或上調利率以抑制通脹】據日本方面訊息，日本央行可能在本月15日到16日召開的貨幣政策會議上，將政策利率從目前的0.75%上調至1.0%。日本東短研究公司總裁加藤出認為，加息將給中小企業和普通日本家庭的生活帶來壓力，對於日元匯率的影響有待進一步觀察。如果繼續維持過低利率，恐怕會進一步助長通脹。
+
+---
+
+### 2026-06-13 09:30:45  #MKT News #Market Themes #AI Revolution
+
+AWS said Anthropic has asked it to revoke user access to Claude Fable 5 and Claude Mythos 5 across all regions. All other Anthropic models are unaffected.
+
+---
+
+### 2026-06-13 09:29:51  #公司
+
+亞馬遜雲科技：Anthropic所有其他模型均未受影響。
+
+---
+
+### 2026-06-13 09:29:30  #MKT News #WTI #Impact bullish #Brent #DXY
+
+【Trump says U.S. strike killed 'Aragua Train' leader Ninio Guerrero】On the 12th local time, U.S. President Trump posted on Truth Social that U.S. Southern Command conducted a military strike that killed the 'Aragua Train' group's leader Ninio Guerrero. In February 2025 the Trump administration designated Venezuela's 'Aragua Train' and other criminal groups as global terrorist organizations.
+
+---
+
+### 2026-06-13 09:29:00  #公司
+
+亞馬遜雲科技（AWS）：Anthropic已要求我們撤銷所有區域所有使用者對Claude Fable 5和Claude Mythos 5的訪問許可權。
+
+---
+
+### 2026-06-13 09:25:13  #國際
+
+【美國禁止外國主體訪問Fable 5和Mythos 5，Anthropic髮長文駁斥】Anthropic釋出宣告稱，美國政府以國家安全權力為由，釋出了一項出口管制指令，要求暫停任何外國主體對人工智慧模型Fable 5 和Mythos 5的所有訪問許可權，無論該人員是否在美國境內，包括屬於外國公民的Anthropic員工。該命令的實際效果是，我們必須立即為所有客戶禁用Fable 5和Mythos 5，以確保合規。所有其他Anthropic模型的訪問將不受影響。我們於今天下午5點21分（美國東部時間）收到了政府的指令。該信函未說明其國家安全關切的具體細節。我們的理解是，政府認為其已獲悉一種繞過或“越獄”Fable 5的方法。迄今為止，政府僅向我們提供了口頭證據，證明存在一種潛在的狹窄、非通用越獄，本質上是透過要求模型讀取特定的程式碼庫並修復任何軟體缺陷。我們正在遵守政府的合法指令，並正在移除所有使用者對 Fable 5 和 Mythos 5 的訪問許可權。但是，我們不同意“某個狹窄的潛在越獄漏洞就應成為召回已部署給數億使用者的商業模型的原因”這一結論。
+
+---
+
+### 2026-06-13 09:24:13  #MKT News #Important
+
+【US bars foreign-person access to Fable 5 and Mythos 5; Anthropic to disable access】The US government issued an export-control order under national security authority requiring immediate suspension of any foreign-person access to Anthropic’s Fable 5 and Mythos 5, regardless of physical location, including foreign Anthropic employees, Anthropic said. The company said it received the order at 5:21pm ET and must disable customer access to Fable 5 and Mythos 5 immediately; access to all other Anthropic models remains unaffected. Anthropic said the government’s letter gave no written details and has only provided oral evidence alleging a potential narrow, non-general jailbreak method — essentially prompting the model to read a specific codebase and fix software defects. Anthropic said it will comply with the legal order but disputes that a narrow potential jailbreak justifies recalling models already deployed to hundreds of millions of users.
+
+---
+
+### 2026-06-13 09:23:23  #國際
+
+【因未獲簽證 巴勒斯坦足協主席無法入境美國】據美國方面12日訊息，因尚未獲得美國簽證，巴勒斯坦足協主席賈布里勒·拉朱卜無法出席美國境內的2026年世界盃相關活動。（央視新聞）
+
+---
+
+### 2026-06-13 09:20:08  #國際
+
+美國國務卿魯比奧現身洛杉磯，現場為征戰世界盃的美國隊對陣巴拉圭隊的比賽助威。
+
+---
+
+### 2026-06-13 09:18:34  #國際
+
+【增進政治互信和軍事合作 營造安全穩定的外部環境 中哈吉俄塔開展新一輪邊境裁軍履約視察】6月9日至11日，由哈薩克、吉爾吉斯斯坦、俄羅斯、塔吉克組成的聯方軍事視察組，在中哈邊界西段進行邊境裁軍履約視察。這是中聯雙方開展的新一輪邊境裁軍履約視察。 9日上午，在中方人員陪同下，聯方軍事視察組一行9人從霍爾果斯口岸入境，乘車前往新疆軍區某團開展視察。 在當日下午舉行的預備會議上，新疆軍區某團相關負責人就所屬人員編制、裝備型號、營區分佈等事項進行了詳細介紹。 聽取情況介紹後，聯方視察組對營區多個綜合庫室進行了現地視察，並對中方履約工作情況給予了充分肯定。 返回會議室後，聯方視察組組長、哈薩克國防部薩德瓦卡索夫中校簽署了視察報告。他表示：“中方同事們展現了專業、開放、認真的工作精神。我們將繼續依據‘兩個協定’要求，共同維護邊境地區安全穩定，認真履行使命責任。” 視察活動期間，中聯雙方還透過座談交流、相互參觀邊境城市等方式，持續深化軍事互信、增進彼此友誼。 送別聯方視察組，中方陪同組組長高亞東告訴記者：“此次邊境裁軍履約視察，中方始終秉持軍事透明、增進互信、平等安全的原則，嚴格履行了協定規定的各項義務，全程協同配合聯方視察組開展工作，確保了視察活動平穩有序。” 據悉，由中方9人組成的視察組正在積極準備，計劃於6月15日經霍爾果斯口岸進入哈薩克，對哈方瓊扎地區萊姆別克邊防分局進行邊境裁軍履約視察。（國防部發布）
+
+---
+
+### 2026-06-13 09:15:59  #國際
+
+美國總統特朗普12日說，美軍打死委內瑞拉黑幫團伙“阿拉瓜火車”組織頭目。（新華社）
+
+---
+
+### 2026-06-13 09:12:32  #國際
+
+市場訊息：一名黎巴嫩官方訊息人士表示，與以色列代表的第五輪談判將於6月22日在華盛頓舉行。
+
+---
+
+### 2026-06-13 09:12:09  #MKT News
+
+IRNA reported a Lebanese official said the fifth round of talks with Israeli representatives will be held in Washington on June 22.
+
+---
+
+### 2026-06-13 09:11:48  #其他
+
+【遼寧沿海船舶定線制釋出 8月15日起實施】記者從交通運輸部海事局瞭解到，《遼寧沿海船舶定線制》正式釋出，今年8月15日起實施，遼寧成為全國首個在沿海海域實現全域船舶定線制的省份。（央視新聞）
+
+---
+
+### 2026-06-13 09:11:21  #國際
+
+【普京說俄已有類似星鏈的衛星系統】俄羅斯總統普京6月12日在與軍方官員會晤時表示，俄羅斯正在開發一套基於衛星的作戰無人機控制系統。普京在介紹時提到了“1440局”——這家俄羅斯航空航天企業正在研發用於全球寬頻資料傳輸的低地球軌道衛星系統。普京表示，俄羅斯的近地軌道衛星系統“絲毫不遜色於美國的‘星鏈’”，甚至在某些方面可能“更勝一籌”。（CCTV國際時訊）
+
+---
+
+### 2026-06-13 09:08:33  #公司 #國際
+
+【特朗普在真實社交上發帖稱打擊了阿拉瓜販毒集團頭目】特朗普：遵照我的指令，美國南方司令部發動精準且強力的軍事打擊，成功擊斃全球最為殘暴的恐怖組織之一 —— 阿拉瓜列車團伙的頭目尼尼奧・格雷羅。在我重新執政之前，喬・拜登放任數百萬不法分子湧入美國南部邊境，任由這股境外勢力殺害美國民眾，卻始終逍遙法外。競選期間，我承諾將這些惡徒驅逐出境，為遇害者及其家屬討回公道，其中包括年僅 12 歲的喬斯林・農加拉伊、22 歲的萊肯・賴利，以及無數無辜遇難者。此次行動，美軍為逝者、他們的家人與親友完成了復仇。本屆政府上任初期，我便兌現承諾，將阿拉瓜列車團伙列為境外恐怖組織，遣送數千名作惡之徒，並向各大販毒集團宣戰。這些販毒集團長期殘害美國民眾，而此前軟弱的領導層卻讓美國陷入被動、無力反擊。本次行動已與委內瑞拉我方盟友密切協同，雙方合作進展順利。自此，阿拉瓜列車團伙的恐怖分子在委內瑞拉乃至全球各地都再無容身之地。在我的領導下，我們將隨時隨地追查這些兇殘的殺手與毒梟，把他們打入萬劫不復之地。
+
+---
+
+### 2026-06-13 09:07:24  #MKT News
+
+Trump said the action was conducted in close coordination with Venezuelan counterparts and that cooperation has proceeded very smoothly.
+
+---
+
+### 2026-06-13 09:07:15  #MKT News #Market Themes #The Trump Trade
+
+Trump said Biden has opened the U.S. southern border to millions of illegal criminals, allowing them to rape, maim and murder U.S. citizens with impunity before he returns to the White House.
+
+---
+
+### 2026-06-13 09:06:03  #MKT News
+
+TRUMP said a US Southern Command strike he ordered killed Niño Guerrero, the notorious leader of the Tren de Aragua, which he described as one of the world's most brutal terrorist groups.
+
+---
+
+### 2026-06-13 09:05:31  #國際
+
+特朗普：這一行動是我們與委內瑞拉的盟友密切協調展開的。
+
+---
+
+### 2026-06-13 09:05:21  #公司 #國際
+
+特朗普稱，美國軍方對阿拉瓜販毒集團頭目發動了打擊。
 
 ---
 
@@ -22291,361 +22603,5 @@ The New York Post reported Thursday that sources say Iran has finalized the late
 ### 2026-06-12 01:05:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Extend Rebound on Thursday — US stocks rebounded from one-month lows on Thursday as gains for chip producers offset risks of higher interest rates. The Nasdaq 100 gained 0.8%, the Dow added 0.5%, and the S&P 500 rose 0.3%. AI infrastructure stocks continued to carry the momentum ahead of the SpaceX IPO tomorrow. Retail investors submitted more than $100 billion for the event, due to be the largest in history, as AI companies raise cash for data center expenditure. Micron and AMD added more than 3%, while Lam Research and Applied Materials surged over 8%. Intel jumped 9% after being upgraded by BofA on soaring CPU orders. On the other hand, Oracle slumped 12% as it will take in more debt to finance data centers despite flat sales. Defensive stocks were higher after President Trump stated strikes will against Iran will resume and the US plans to capture Kharg Island "at some point". Simultaneously, a new PPI print pointed to accelerating prices in May, consolidating bets that the Fed will raise rates this year.
-
----
-
-### 2026-06-12 01:05:29  #國際
-
-【古特雷斯：對中東局勢升級深表關切 呼籲美伊重返對話談判】當地時間6月11日，聯合國秘書長古特雷斯釋出宣告稱，對中東局勢持續升級深表關切，敦促有關各方全面恢復執行停火，避免局勢進一步惡化。他同時呼籲美國和伊朗透過對話和談判達成和平、全面、持久的協議。古特雷斯表示，他對中東地區持續升級的局勢深感關切，包括近期美伊互襲，以及敵對言論顯著增加。古特雷斯敦促各方恢復全面執行停火，避免局勢進一步惡化。他再次警告，局勢繼續惡化可能導致衝突全面恢復，並給地區和世界，特別是最脆弱國家，帶來不可預測的後果。古特雷斯強調，必須根據國際法尊重航行權利和自由。他還呼籲各方履行國際法義務，並採取一切可行預防措施保護平民。古特雷斯重申，真誠對話和談判是唯一出路。他呼籲美國和伊朗加倍努力，推動達成一項和平、全面、持久的協議，以促進地區和國際和平與安全。（央視新聞）
-
----
-
-### 2026-06-12 01:04:33  #焦點 #國際
-
-【伊朗警告美勿再攻擊否則戰火蔓延】伊朗武裝部隊哈塔姆·安比亞中央司令部當地時間6月11日晚發宣告警告稱：“如果美國企圖再次對伊朗發動攻擊，必將遭到比以往更為嚴厲的回擊。並且戰火將蔓延擴散，導致整個地區陷入不安全的泥潭。”宣告指出，“美國自相矛盾的行徑是導致地區、特別是霍爾木茲海峽局勢不穩的主要根源。鑑於美方威脅伊朗石油基礎設施，那麼伊朗要麼讓石油和天然氣出口惠及各方，要麼就讓所有油氣都無法透過霍爾木茲海峽運輸。” （CCTV國際時訊）
-
----
-
-### 2026-06-12 01:04:20  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Guterres: Deeply concerned by Middle East escalation, urges US and Iran to resume dialogue】On June 11, UN Secretary-General Guterres said he is deeply concerned by escalating tensions in the Middle East, citing recent US–Iran exchanges and a rise in hostile rhetoric. He urged all parties to restore full implementation of the ceasefire to prevent further deterioration and called on the United States and Iran to return to dialogue and negotiations to seek a peaceful, comprehensive and durable agreement. Guterres warned continued escalation could lead to a return to open conflict with unpredictable consequences for the region and the world, especially the most vulnerable states. He stressed respect for navigation rights and freedoms under international law, urged parties to meet their international-law obligations, and called for all feasible measures to protect civilians.
-
----
-
-### 2026-06-12 01:04:05  #市場 #國際
-
-美國30年期國債收益率在國債拍賣後收窄早前跌幅，目前下跌0.8個基點，報5.018%。
-
----
-
-### 2026-06-12 01:04:00  #公司 #國際
-
-美國國務卿魯比奧：古巴國家石油公司（Union Cuba Petroleo）在美國的財產和利益被封鎖。
-
----
-
-### 2026-06-12 01:03:50  #MKT News #Macro & Rates #Treasury Yields
-
-US 30-year Treasury yield trimmed an earlier drop after a Treasury auction, slipping 0.8bp to 5.018%.
-
----
-
-### 2026-06-12 01:03:15  #市場 #國際
-
-美國至6月11日30年期國債競拍-得標利率 5.02%，前值5.046%。
-美國至6月11日30年期國債競拍-得標利率配置百分比 32.36%，前值72.06%。
-美國至6月11日30年期國債競拍-投標倍數 2.33，前值2.3。
-
----
-
-### 2026-06-12 01:02:43  #央行 #國際
-
-【美聯儲資料顯示美國商業票據規模上週擴大】美聯儲週四公佈的資料顯示，截至6月10日當週，美國商業票據規模增加。最新一週，經季節性調整後的美國未償商業票據規模增加114億美元，至1.413萬億美元。未經季節性調整的未償商業票據規模下降69億美元，至1.466萬億美元。一些分析師認為，未經季節性調整的資料比經季節性調整的資料更可靠，因為後者受到金融危機影響而出現失真。未經季節性調整的外國金融機構商業票據未償規模下降72億美元，至3560億美元。
-
----
-
-### 2026-06-12 01:02:28  #國際
-
-美國國務卿魯比奧：美國的目標是削弱古巴利用能源貿易的能力。
-
----
-
-### 2026-06-12 01:02:25  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-【Federal Reserve data show US commercial paper outstanding rose in week to June 10】Federal Reserve data on Thursday showed seasonally adjusted US commercial paper outstanding rose $11.4 bln in the week to June 10, to $1.413 tln. Not seasonally adjusted outstanding fell $6.9 bln to $1.466 tln; some analysts say unadjusted series is more reliable because seasonal adjustment is distorted by effects dating to the financial crisis. Unadjusted commercial paper issued by foreign financial institutions fell $7.2 bln to $356 bln.
-
----
-
-### 2026-06-12 01:02:16  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 30-year Treasury auction on June 11 bid-to-cover ratio 2.33; prior 2.30.
-
----
-
-### 2026-06-12 01:02:16  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish
-
-U.S. 30-year Treasury auction on June 11: share of the issue awarded at the stop-out yield 32.36%, prior 72.06%.
-
----
-
-### 2026-06-12 01:02:15  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-US 30-year Treasury auction on June 11: stop-out yield 5.02%, prior 5.046%.
-
----
-
-### 2026-06-12 01:02:08  #公司 #國際
-
-美國國務卿魯比奧：古巴國家石油公司（Union Cuba Petroleo）因在古巴能源領域開展業務被列入制裁名單。
-
----
-
-### 2026-06-12 01:02:05  #MKT News #Economic Calendar
-
-United States | 30-Year Bid/Cover Ratio (Jun.11) | actual 2.33 | previous 2.3
-
----
-
-### 2026-06-12 01:02:05  #MKT News #Economic Calendar
-
-United States | 30-Year Bond Auction Accepted at High (Jun.11) | actual 32.36% | previous 72.06%
-
----
-
-### 2026-06-12 01:02:05  #MKT News #Economic Calendar
-
-United States | 30-Year Bond Auction High Yield Rate (Jun.11) | actual 5.02% | previous 5.046%
-
----
-
-### 2026-06-12 01:00:55  #公司 #國際
-
-美國國務卿魯比奧：古巴國家石油公司多年前非法侵佔美國所有者資產。
-
----
-
-### 2026-06-12 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌0.05%，滬銅收漲0.13%，滬鋁收漲0.62%，滬鋅收跌0.19%，滬鉛收跌0.74%，滬鎳收漲0.25%，滬錫收漲1.91%。氧化鋁夜盤收漲1.18%，鋁合金收漲0.04%。不鏽鋼夜盤收漲1.76%。
-
----
-
-### 2026-06-12 00:58:28  #公司 #國際
-
-【SpaceX IPO最後衝刺 據稱散戶認購額超過1000億美元】據知情人士透露，隨著SpaceX有望創出歷史紀錄的IPO進入最後衝刺階段，散戶認購已經超過1000億美元。這些因資訊不公開而要求匿名的知情人士表示，預計散戶將獲得至少20%的IPO股份。根據機構計算，若按將創歷史最高紀錄的750億美元IPO規模計算，這一分配比例意味著大部分散戶的認購需求無法得到滿足。其中一名知情人士表示，超過1000億美元的散戶認購額涵蓋了美國國內和國際散戶投資者。該人士還稱，包括主權財富基金在內的多家大型機構投資者每家獲得超過10億美元的額度。彭博新聞此前報道稱，沙特公共投資基金(PIF)和科威特投資局(KIA)均提交了大額認購訂單，而卡達投資局(QIA)也很可能作出規模可觀的投資承諾。如果大量埃隆·馬斯克的粉絲在IPO中未能買到股票，一旦該股開始交易，市場需求可能會進一步激增。馬斯克在執掌特斯拉期間吸引了大量散戶追隨者，據法國巴黎銀行分析師James Picariello估計，這一群體目前持有該公司約40%的股份。知情人士表示，這家涉足火箭、衛星和AI領域的公司已收到來自約1000家機構投資者的訂單。
-
----
-
-### 2026-06-12 00:54:04  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
-
-S&P Global Ratings assigned Google an "AA+" credit rating and a "stable" outlook.
-
----
-
-### 2026-06-12 00:51:50  #公司
-
-標普授予谷歌公司“AA+”評級；展望穩定。
-
----
-
-### 2026-06-12 00:51:29  #其他
-
-LME期銅收跌33美元，報13482美元/噸。LME期鋁收漲36美元，報3502美元/噸。LME期鋅收漲5美元，報3496美元/噸。
-
----
-
-### 2026-06-12 00:48:20  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Iran armed forces say they will respond more forcefully if U.S. attacks again】The commander of Iran's Hatam al-Anbiya Central Headquarters said U.S. rhetoric about agreements contrasts with what he called malicious actions, a contradiction he blamed for regional instability that threatens trade, the international economy and security, especially the Strait of Hormuz. He warned any renewed U.S. attack on Iran would be met with a harsher, broader response that would expand the fighting and deepen regional insecurity. Citing recent U.S. threats against Iranian oil infrastructure, he said Iran's oil and gas exports will be either open to all or closed to all.
-
----
-
-### 2026-06-12 00:47:01  #國際
-
-伊朗最高聯合軍事司令部：針對近期美國對伊朗石油設施發出的威脅，（我方立場是）要麼所有國家都能出口油氣，要麼誰都別想獲得油氣。
-
----
-
-### 2026-06-12 00:46:51  #國際
-
-伊朗最高聯合軍事指揮部：戰火將進一步蔓延擴大，引發地區局勢動盪不安。
-
----
-
-### 2026-06-12 00:46:11  #焦點 #國際
-
-伊朗最高聯合軍事指揮部：我們警告稱，若美國再次對伊朗發動襲擊，其將遭到比此前更為猛烈的回擊。
-
----
-
-### 2026-06-12 00:45:26  #國際
-
-伊朗最高聯合軍事指揮部：美國自相矛盾的行徑是該地區、尤其是霍爾木茲海峽局勢不安全的主要根源。
-
----
-
-### 2026-06-12 00:45:01  #MKT News #Important #Nasdaq100 #Impact bullish #S&P500
-
-Retail investor subscriptions for SpaceX's U.S. IPO reportedly exceeded $100 billion.
-
----
-
-### 2026-06-12 00:42:52  #其他 #焦點
-
-市場訊息：SpaceX美國IPO散戶認購金額突破1000億美元。
-
----
-
-### 2026-06-12 00:42:19  #MKT News
-
-U.S. Treasury Office of Foreign Assets Control (OFAC) issued a Russia-related general license authorizing specified transactions tied to existing civil nuclear energy projects and authorizing certain services related to the Sakhalin-2 project.
-
----
-
-### 2026-06-12 00:39:43  #國際
-
-市場訊息：美國批准部分涉俄民用核能相關交易。
-
----
-
-### 2026-06-12 00:39:36  #MKT News #Important
-
-U.S. Treasury website says the U.S. has imposed sanctions on a Cuban oil company.
-
----
-
-### 2026-06-12 00:39:13  #公司 #國際
-
-分析公司AdImpact最新估算顯示，今年美國中期選舉的廣告總支出預計將達到116億美元，將打破2024年總統大選週期創下的紀錄。
-
----
-
-### 2026-06-12 00:39:09  #公司
-
-【OpenAI將收購Ona 強化Codex代理能力】OpenAI當地時間週四宣佈將收購初創公司Ona。Ona為人工智慧代理提供安全、預配置的雲環境，使其能夠訪問工具、系統和上下文資訊。OpenAI表示，Ona的技術將使其程式設計助手Codex能夠處理執行時間更長的任務，還將幫助更多組織將代理部署到生產環境中，由代理代表使用者自主完成任務。OpenAI未披露此次收購條款。交易完成後，Ona員工將加入OpenAI，並在Codex團隊工作。
-
----
-
-### 2026-06-12 00:38:57  #MKT News
-
-Analysis firm AdImpact’s latest estimate projects US midterm election ad spending will hit $11.6 billion in 2026, topping the record set in the 2024 presidential cycle.
-
----
-
-### 2026-06-12 00:38:50  #國際
-
-【Evercore：SpaceX上市在即 美股“錯失恐懼症”還將持續】Evercore ISI首席股票與量化策略師Julian Emanuel表示，在SpaceX上市前夕，“錯失恐懼症”（FOMO）令投資者對那些通常會令華爾街不安的事件表現得不以為意。儘管伊朗面臨美國連續兩天的軍事打擊，以及美國總統特朗普威脅要進一步升級局勢，交易員們週四仍選擇逢低買入。此前，股市自上週五走出了一輪疲軟行情，當時一份出人意料強勁的就業報告加劇了市場對利率上升的擔憂。
-
----
-
-### 2026-06-12 00:37:35  #國際
-
-市場訊息：美國授權提供與薩哈林2號相關的某些服務。
-
----
-
-### 2026-06-12 00:37:12  #國際
-
-市場訊息：美國頒發與俄羅斯有關的通用許可證。
-
----
-
-### 2026-06-12 00:36:41  #宏觀 #公司 #國際
-
-市場訊息：美國財政部對古巴聯合石油公司實施制裁。
-
----
-
-### 2026-06-12 00:36:22  #MKT News #Market Themes #AI Revolution
-
-【OpenAI to acquire Ona to bolster Codex agent capabilities】OpenAI said on Thursday it will acquire startup Ona, which supplies secure, preconfigured cloud environments that let AI agents access tools, systems and contextual data. OpenAI said Ona’s tech will enable its programming assistant Codex to run longer-duration tasks and help more organizations deploy agents into production to autonomously perform tasks on users’ behalf. Terms were not disclosed. Ona employees will join OpenAI’s Codex team.
-
----
-
-### 2026-06-12 00:35:39  #市場 #央行 #國際
-
-【英國國債收益率跌超2個基點】週四（6月11日）歐市尾盤，英國10年期國債收益率跌2.6個基點，報4.905%，北京時間15:12微漲至4.946%重新整理日高，隨後走低，20:15歐洲央行宣佈加息之後，出現一波衝高回落行情，。兩年期英債收益率跌2.4個基點，報4.341%，歐洲央行宣佈加息後、美國就業資料釋出後、歐洲央行行長拉加德新聞釋出會開始之前重新整理日高至4.381%——短線呈現出衝高回落行情，21:54重新整理日低至4.319%。30年期英債收益率跌2.7個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差跌0.331個基點，報+56.294個基點。
-
----
-
-### 2026-06-12 00:33:32  #MKT News
-
-CNBC reports OpenAI will acquire Ona to enhance the capabilities of its AI coding assistant CODEX.
-
----
-
-### 2026-06-12 00:32:46  #MKT News
-
-The Information reports ANTHROPIC has discussed arrangements for Google to provide financial guarantees for part of its lease obligations. ANTHROPIC has signed more than 10 letters of intent with multiple U.S. developers to lease data-center facilities.
-
----
-
-### 2026-06-12 00:32:36  #國際
-
-市場訊息：Anthropic已與多家美國開發商簽訂十餘份資料中心設施租賃意向書。
-
----
-
-### 2026-06-12 00:32:17  #公司
-
-市場訊息：Anthropic已就谷歌為其部分租賃義務提供財務擔保的相關安排展開磋商。
-
----
-
-### 2026-06-12 00:31:54  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
-
-According to The Information, Anthropic is seeking to sign initial data-center lease agreements and is seeking funding from Google (GOOG.O).
-
----
-
-### 2026-06-12 00:31:27  #MKT News
-
-【Pentagon "hazardous-materials incident" triggered by false alarm】Two U.S. officials said on June 11 local time a lockdown and evacuations at the Pentagon were caused by a false alarm. Earlier multiple sources and the local fire department had reported a "hazardous-materials incident" that prompted floor and corridor lockdowns and partial evacuations. A Pentagon spokesperson said building sensors detected an air-quality anomaly, prompting precautionary "shelter-in-place" orders for affected areas; an emergency response team is on site to investigate and support personnel.
-
----
-
-### 2026-06-12 00:31:17  #公司 #焦點
-
-市場訊息：人工智慧公司Anthropic尋求首份資料中心租賃協議，並向谷歌爭取融資支援。
-
----
-
-### 2026-06-12 00:30:00  #公司 #觀點
-
-花旗集團：推出私人股份數字存託憑證。
-
----
-
-### 2026-06-12 00:29:42  #公司 #觀點
-
-花旗集團：考慮未來將服務擴充套件至數字與傳統金融市場基礎設施及區塊鏈網路。
-
----
-
-### 2026-06-12 00:29:30  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【US military says Strait of Hormuz remains open】On June 11 local time, US Central Command said the Strait of Hormuz remains open and that US forces have established 'safe corridors' for commercial ships transiting the strait; vessels not violating 'blockade measures' against Iran may use them. The statement said hundreds of ships have transited the strait in the past two months and US forces are deployed to 'defend against Iranian aggression,' adding that Iran does not control the strait. After US airstrikes on multiple sites in southern Iran in the early hours of June 11, Iran announced the Strait of Hormuz was closed to all vessels.
-
----
-
-### 2026-06-12 00:27:39  #焦點 #國際
-
-【美軍稱霍爾木茲海峽仍保持通行】當地時間6月11日，美軍中央司令部在社交媒體平臺上發宣告稱，“霍爾木茲海峽仍保持通行，美軍已為途經霍爾木茲海峽的商船設立了‘安全航道’，所有‘未違反針對伊朗封鎖措施’的船隻均可使用這些航道。” 宣告還稱，“過去兩個月內，已有數百艘船隻透過霍爾木茲海峽。美軍已做好‘防禦伊朗侵略’的部署。伊朗並不控制霍爾木茲海峽。” 當地時間6月11日凌晨美軍再次空襲伊朗南部多地後，伊朗宣佈“霍爾木茲海峽對所有船隻關閉”。（CCTV國際時訊）
-
----
-
-### 2026-06-12 00:27:03  #國際
-
-【加拿大認為有望達成協議以解決USMCA貿易問題】加拿大-美國貿易部長勒布朗（Dominic LeBlanc）表示，他對特朗普政府決定不在7月1日前續簽美國墨西哥加拿大貿易協議（USMCA）並不感到意外。勒布朗預計，雙方將達成一系列協議來解決該協定的爭端。他指出，7月1日僅僅是“三個國家可以決定將協議延長16年的一個時間節點”。美國駐加拿大大使霍克斯特拉（Pete Hoekstra）表示，華盛頓願意加強合作，但敦促加拿大領導人提出更有力的主張，並表示“我們是來與美國合作並滿足其需求的”。
-
----
-
-### 2026-06-12 00:25:09  #公司 #國際
-
-【歐洲電力供應競爭加劇，客戶付費鎖定燃氣輪機生產檔期】全球三大燃氣輪機製造商之一的西門子能源公司表示，歐洲為資料中心和電氣化專案爭奪電力供應的競爭正變得如此激烈，以至於客戶如今願意支付費用，以確保在燃氣輪機生產佇列中佔據位置。公司CEO克里斯蒂安·布魯赫表示：“如今需求高到歐洲客戶已經願意支付預留費用。”這種做法最早於近年出現在美國，當時科技公司競相為耗電巨大的資料中心鎖定發電能力，隨後擴充套件至歐洲和中東。由於歐洲資料中心接入電網需要等待較長時間，一些資料中心正考慮自建發電設施，以便更快投入運營。西門子能源燃氣服務部門負責人卡里姆·阿明表示，尋求預留約六個月製造檔期的客戶通常需要支付相當於一臺輪機購買價格10%至15%的費用。由於燃氣輪機製造商的產能基本已被預訂至本十年末，這類付款已成為有緊迫專案需求的買家確保排隊位置的一種方式。西門子能源的轉化率超過90%，意味著大多數預留最終都會轉化為合同。
-
----
-
-### 2026-06-12 00:24:49  #其他
-
-市場訊息：五角大樓表示，目前沒有下達整棟大樓的疏散命令。
-
----
-
-### 2026-06-12 00:24:33  #MKT News
-
-UN Secretary-General Guterres urged all parties to restore full implementation of a comprehensive ceasefire to avoid further deterioration and called on the US and Iran to redouble efforts to reach a peaceful, comprehensive and durable agreement.
-
----
-
-### 2026-06-12 00:24:16  #央行 #國際
-
-【歐洲央行週四加息後 IMF稱或需進一步加息】國際貨幣基金組織(IMF)表示，歐洲央行將需要再次提高借貸成本。就在數小時前，歐洲央行剛剛加息25個基點。“政策利率將需要上升，以遏制衝擊對通脹的影響，”IMF工作人員週四在報告中表示。該報告總結了IMF對歐元區層面政策的年度評估。IMF的展望假設今年累計加息50個基點，以應對整體通脹和核心通脹到2028年仍高於2%的前景。報告將2026年消費價格漲幅預測從4月份的2.4%上調至2.8%。
-
----
-
-### 2026-06-12 00:24:12  #MKT News
-
-NewsNation White House reporter: Pentagon says it has not issued an evacuation order for the entire building at this time.
 
 ---
