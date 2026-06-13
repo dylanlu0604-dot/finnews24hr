@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-13 22:57:21",
-  "count": 18482,
+  "updated": "2026-06-13 23:01:29",
+  "count": 18478,
   "items": [
+    {
+      "id": "mkt:019ec17e-9535-7dd8-afec-6a9b9b6ca0da",
+      "time": "2026-06-13 22:59:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's state news agency quoted a foreign ministry spokesman saying Iran's negotiating team has no plans to visit Pakistan or Geneva in the coming days."
+    },
     {
       "id": "mkt:019ec17b-34e1-7dd8-afec-66877c34d157",
       "time": "2026-06-13 22:55:37",
@@ -169863,55 +169872,6 @@
         "Impact bullish"
       ],
       "text": "ASML (ASML.O) views TERAFAB as a major initiative."
-    },
-    {
-      "id": "mkt:019e9d73-c540-7665-8313-344492776a65",
-      "time": "2026-06-06 23:01:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "ASML.O"
-      ],
-      "text": "ASML (ASML.O): Elon Musk is scheduled to speak at ASML's virtual technology conference and will discuss the TERAFAB project, AI vision and chip manufacturing."
-    },
-    {
-      "id": "mkt:019e9d73-389f-7665-8313-2f7ccb0c14f5",
-      "time": "2026-06-06 23:00:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "HEZBOLLAH said it shelled an Israeli military assembly point near Shakif Castle in southern Lebanon."
-    },
-    {
-      "id": "4921325",
-      "time": "2026-06-06 23:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列在攻佔黎巴嫩南部沙吉夫古堡的軍事行動期間，納巴蒂耶市上空偵測到白磷彈藥儲備蹤跡。"
-    },
-    {
-      "id": "4921324",
-      "time": "2026-06-06 22:59:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯麥：馬斯克將討論TeraFab專案，以及人工智慧與晶片製造願景。"
-    },
-    {
-      "id": "4921323",
-      "time": "2026-06-06 22:57:51",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "阿斯麥：馬斯克將在本公司的虛擬技術大會上發表講話。"
     }
   ]
 }
