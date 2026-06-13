@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-14 00:39:22",
-  "count": 18474,
+  "updated": "2026-06-14 00:44:09",
+  "count": 18477,
   "items": [
+    {
+      "id": "mkt:019ec1de-19dd-7dd8-afec-e009b9ddb441",
+      "time": "2026-06-14 00:43:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Costa said he had just met with Apple CEO Tim Cook for a productive discussion on children's online safety, artificial intelligence and innovation."
+    },
+    {
+      "id": "4933972",
+      "time": "2026-06-14 00:41:50",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲理事會主席科斯塔：剛剛與蘋果執行長蒂姆·庫克就網路兒童安全、人工智慧及創新議題進行了愉快的交談。歐盟已出臺完善法規，保障未成年人在數字平臺享有高標準的安全與隱私保護，但我們仍需付出更多努力。歐盟各國領導人與歐盟委員會正研究進一步最佳化網路環境、保護未成年人的舉措，包括設定社交媒體使用的法定數字成年年齡。下週將在埃維昂舉辦的七國集團峰會，也將推動全球協同制定數字領域未成年人保護方案。"
+    },
+    {
+      "id": "4933971",
+      "time": "2026-06-14 00:40:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：一架MH-60“海鷹”直升機從德爾伯特·D·布萊克號驅逐艦（DDG-119）飛行甲板起飛。該艦當前在阿拉伯海航行，執行針對伊朗的封鎖任務。截至6月13日，中央司令部部隊已驅離141艘商船，並迫使9艘商船停航，確保相關禁令得到執行。"
+    },
+    {
+      "id": "4933970",
+      "time": "2026-06-14 00:40:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東陽穀一化工企業石蠟料場起火致3人受傷】記者從山東省陽穀縣應急管理局獲悉，6月13日17時38分，山東陽穀華泰化工股份有限公司石蠟料場起火，造成3人受傷，正在全力救治，無生命危險。事故救援工作和原因調查正在進行。（新華社）"
+    },
     {
       "id": "4933967",
       "time": "2026-06-14 00:30:03",
@@ -169818,17 +169852,6 @@
         "國際"
       ],
       "text": "美國擬開放數百萬英畝土地供越野車輛通行。"
-    },
-    {
-      "id": "mkt:019e9dcf-f760-7665-8313-a32051a06865",
-      "time": "2026-06-07 00:41:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Kuwait News Agency said Kuwait's foreign ministry condemned an attack by Israeli forces on a Lebanese army patrol that caused casualties among Lebanese troops."
     }
   ]
 }
