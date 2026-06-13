@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-14 03:16:46",
-  "count": 18467,
+  "updated": "2026-06-14 03:20:44",
+  "count": 18469,
   "items": [
+    {
+      "id": "mkt:019ec26d-8916-7dd8-afed-c5c347d2d9b9",
+      "time": "2026-06-14 03:20:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported protests demanding parliament speaker Ghalibaf and foreign minister Araghchi resign to express opposition to the agreement."
+    },
+    {
+      "id": "mkt:019ec26a-cc97-7dd8-afed-b8e2e6dd0114",
+      "time": "2026-06-14 03:17:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Qatar News Agency said casualties from Israeli aggression against Lebanon have risen to 3,756 dead and 11,632 wounded."
+    },
+    {
+      "id": "4934020",
+      "time": "2026-06-14 03:16:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：民眾舉行示威，反對阿拉格齊、卡利巴夫，抵制伊美協議。"
+    },
     {
       "id": "mkt:019ec269-382f-7dd8-afed-b2a78aa3504e",
       "time": "2026-06-14 03:15:35",
@@ -169757,14 +169785,6 @@
         "國際"
       ],
       "text": "【伊朗哈爾克島附近爆炸聲系排爆作業所致】據伊朗塔斯尼姆通訊社6日晚報道，伊朗哈爾克島附近居民聽到的爆炸聲，系“巴赫雷甘”石油作業區實施的彈藥排爆作業所致。報道說，此次爆炸屬於受控引爆行動，公眾無需擔憂。伊朗布什爾省相關部門此前宣佈，將於6日在該省實施未爆彈排除和控制引爆行動，以處理近期襲擊遺留下來的未爆炸彈藥。（新華社）"
-    },
-    {
-      "id": "4921420",
-      "time": "2026-06-07 03:17:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：82年前，一萬四千名加拿大士兵登陸朱諾海灘，其中許多人再也沒能踏上歸途。值此諾曼底登陸紀念日，我們緬懷所有服役將士與犧牲先烈。我們銘記，如今的權利、自由與生活方式，皆是先輩們響應號召、浴血奮戰換來的成果。"
     }
   ]
 }
