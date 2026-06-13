@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-13 09:54:45",
-  "count": 18418,
+  "updated": "2026-06-13 09:58:43",
+  "count": 18415,
   "items": [
+    {
+      "id": "4933584",
+      "time": "2026-06-13 09:58:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：美國一名高階官員表示，伊朗承諾不研發核武器值得肯定，但核查工作仍必不可少。"
+    },
+    {
+      "id": "4933581",
+      "time": "2026-06-13 09:54:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美方官員表示，在伊朗就核計劃採取實質性舉措前，不會解除對伊制裁。"
+    },
     {
       "id": "4933580",
       "time": "2026-06-13 09:53:38",
@@ -169414,54 +169430,6 @@
         "Impact bearish"
       ],
       "text": "【Huatai Securities: May U.S. nonfarm payrolls beat, lifting Fed rate‑hike pricing】Huatai Securities says May U.S. nonfarm payrolls +172k vs Bloomberg consensus +85k; prior two months revised up by +93k. Unemployment 4.3% and labor‑force participation 61.8%, in line with consensus. Average hourly earnings +0.3% MoM (up 0.1ppt) and +3.4% YoY (down 0.2ppt); average weekly hours 34.3. May payrolls materially exceed the 0–50k equilibrium range and unemployment remains relatively low, prompting a marked rise in market pricing for Fed hikes this year. Huatai maintains its view that the Fed will keep rates unchanged in H2, but may need to tighten next year."
-    },
-    {
-      "id": "4920803",
-      "time": "2026-06-06 09:57:54",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【波蘭分析人士：對美有疑慮 歐洲加速尋求防務自主】面對美國安全承諾的不確定性，歐洲多國被迫加速防務自主和區域防務合作。近期，波蘭與英國簽署一項條約加強安全與防務合作。波蘭馬爾沙維克出版集團總裁、國際政治評論人士亞當·馬爾沙維克近日在接受總檯記者採訪時表示，美國近年來的政策變得非常難以預測，波蘭正在尋求建立更多元化的安全保障體系。（央視新聞）"
-    },
-    {
-      "id": "4920802",
-      "time": "2026-06-06 09:56:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯總統助理：美國將烏克蘭問題“放到次要位置”】俄羅斯總統助理烏沙科夫5日對俄媒表示，美國將烏克蘭問題放到次要位置，在一定程度上從這一“對俄至關重要、對美無關緊要”的問題中抽身。（新華社）"
-    },
-    {
-      "id": "4920796",
-      "time": "2026-06-06 09:56:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗媒體6日報道，伊朗伊斯蘭革命衛隊公共關係部門當天發表宣告稱，“繼美軍在錫裡克島和格什姆島發動殘害兒童的恐怖侵略後，中東地區的敵方基地遭到導彈襲擊”。 美東時間5日傍晚，美軍中央司令部在社交媒體發文說，美軍擊落4架伊朗向霍爾木茲海峽發射的攻擊無人機，隨後空襲伊朗戈魯克地區和格什姆島的沿海雷達站。（新華社）"
-    },
-    {
-      "id": "mkt:019e9aa4-070a-7665-830e-e39e71f14191",
-      "time": "2026-06-06 09:55:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS: The Islamic Revolutionary Guard Corps public relations office said that, citing what it called US military aggression against Sirik and Qeshm islands, it struck enemy bases in the area with aerospace missiles."
-    },
-    {
-      "id": "4920789",
-      "time": "2026-06-06 09:54:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：伊朗革命衛隊公共關係部表示，由於美國軍隊對錫裡克和格什姆島發動侵略，該地區的敵方基地遭到了空天導彈的打擊。"
     }
   ]
 }
