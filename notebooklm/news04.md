@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-13 15:33:07_
-_本檔包含 3588 則快訊，約 664782 字_
+_更新時間：2026-06-13 16:10:11_
+_本檔包含 3590 則快訊，約 664568 字_
+
+---
+
+### 2026-06-09 21:04:12  #觀點
+
+摩根大通：如果通脹持續更長時間處於高位，則可能存在一定風險。
+
+---
+
+### 2026-06-09 21:03:52  #其他
+
+博通(AVGO.O)：首期350億美元將用於支援Anthropic此前宣佈的超過1吉瓦計算基礎設施的產能擴建。
+
+---
+
+### 2026-06-09 21:03:48  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) said a first tranche of $35 bln will support Anthropic's previously announced expansion of more than 1 GW of compute infrastructure capacity.
+
+---
+
+### 2026-06-09 21:03:29  #MKT News #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) premarket gains widen to 3%.
+
+---
+
+### 2026-06-09 21:03:25  #國際
+
+美國航空：達成協議將在三年內釋放3500萬加侖可持續航空燃料（SAF），可減少近30萬噸二氧化碳當量排放。
+
+---
+
+### 2026-06-09 21:02:40  #其他
+
+博通盤前股價漲幅擴大至3%。
+
+---
+
+### 2026-06-09 21:02:20  #公司
+
+【恆鋒資訊：實際控制人歐霖傑解除留置並取保候審】恆鋒資訊公告，公司收到控股子公司福建微尚生活服務有限公司通知，相關監察機關已解除對該公司法定代表人、公司實際控制人兼副董事長、總裁歐霖傑的留置措施，相關公安機關決定對其取保候審。同日，歐霖傑已返回工作崗位。
+
+---
+
+### 2026-06-09 21:02:15  #國際
+
+烏克蘭總統澤連斯基稱其已與拉脫維亞簽署無人機協議。
+
+---
+
+### 2026-06-09 21:01:45  #MKT News
+
+Broadcom (AVGO.O), Apollo and Blackstone (BX.N) have launched a strategic platform to accelerate deployment of more than 20 GW of global AI infrastructure.
+
+---
+
+### 2026-06-09 21:01:45  #公司
+
+博通(AVGO.O)、阿波羅、黑石集團(BX.N)成立戰略平臺，以加速超過20吉瓦的全球人工智慧部署。
+
+---
+
+### 2026-06-09 21:01:34  #市場 #焦點
+
+焦煤連續主力合約日內跌1%，現報1360.00元。
+
+---
+
+### 2026-06-09 21:00:30  #MKT News
+
+IMF says Nigeria's central bank should maintain tight monetary policy.
+
+---
+
+### 2026-06-09 21:00:28  #MKT News #Important #Commodities #Energy #Industrial Metals #WTI #Impact bearish #Copper #Impact bullish
+
+Night session open: China's domestic commodity futures main contracts were mostly lower. SC crude oil, fuel oil and styrene (EB) fell about 2%; synthetic rubber, PET bottle flake, PTA, paraxylene (PX) and short fiber dropped over 1%. On the upside, SHFE tin rose nearly 2%, alumina gained more than 1%, and SHFE copper and zinc were up about 1%.
+
+---
+
+### 2026-06-09 21:00:19  #其他
+
+國際貨幣基金組織：奈及利亞應保持緊縮貨幣政策以抑制通貨膨脹。
+
+---
+
+### 2026-06-09 21:00:03  #市場 #焦點
+
+PTA連續主力合約日內跌1%，現報6244.00元。
+
+---
+
+### 2026-06-09 21:00:02  #市場
+
+【國內期貨夜盤開盤】多晶矽連續跌3.55%，碳酸鋰連續漲3.45%，集運指數歐線期貨連續漲3.08%，雞蛋連續漲2.78%，菜籽連續跌2.40%。
+
+---
+
+### 2026-06-09 20:59:39  #國際
+
+【英法澳等五國發布新制裁追究以色列定居者責任，警告以政府採取緊急措施】據半島電視臺網站6月9日報道，英國、澳大利亞、加拿大、法國和挪威五國當地時間8日發表宣告，稱已採取協同行動追究以色列強硬派定居者的責任，以回應被佔領約旦河西岸日益惡化的局勢。報道稱，上述五國在釋出新制裁措施後警告稱，如果以色列政府未能採取緊急措施解決當地局勢，他們準備隨時採取進一步行動。（環球網）
+
+---
+
+### 2026-06-09 20:58:12  #資料
+
+【美銀：5月CPI料創2023年4月以來最高水平】美銀的一份報告顯示，定於週三公佈的5月CPI同比增幅料升至4.2%，為2023年4月以來的最高水平。這一增幅符合接受《華爾街日報》調查的經濟學家的預期。該報告稱，對於政策前景，焦點可能會放在對核心個人消費支出價格指數(PCE)通脹的影響上，因為自去年11月以來，該指數一直高於CPI。
+
+---
+
+### 2026-06-09 20:58:01  #MKT News #NVO #Impact bullish #LLY
+
+【Goldman Sachs lifts global obesity-drug forecast to $114bn by 2030 as oral GLP-1s go mainstream】Goldman Sachs raised its forecast for the global obesity-drug market to $114bn by 2030, up roughly 13% from a $101bn projection in December, citing rapid adoption of oral GLP-1 obesity drugs and a shift from a niche, high-price segment to a mass-consumer market.
+
+---
+
+### 2026-06-09 20:57:49  #MKT News
+
+PTI reports India will raise domestic aviation fuel prices by 10%.
+
+---
+
+### 2026-06-09 20:57:25  #公司
+
+【中國金茂：5月簽約銷售金額104.93億元】6月9日，中國金茂在港交所公告，2026年5月份，集團取得簽約銷售金額人民幣104.93億元，簽約銷售建築面積368,427.48平方米。截至2026年5月31日止5個月，集團累計取得簽約銷售金額共計人民幣417.27億元（其中包含（如有）長沙梅溪湖國際新城專案、南京青龍山國際生態新城專案、寧波生命科學城專案、嘉興上海之窗智慧科學城專案、鄭州二七區馬寨新城專案、溫州鰲江國際新城專案、金華金茂未來科學城專案及上海橫沔城市運營專案的成交銷售金額），以及累計簽約銷售建築面積1,682,883.74平方米。
+
+---
+
+### 2026-06-09 20:57:08  #公司
+
+【我國成功發射衛星網際網路技術試驗衛星】記者從工業和資訊化部瞭解到，2026年6月9日，我國在酒泉衛星發射中心使用朱雀二號改進型遙六運載火箭，成功將“中國移動02星”送入預定軌道。中國移動02星是由中國行動通訊集團公司牽頭研製的衛星網際網路技術試驗衛星，主要用於開展手機直連衛星、天地網路融合等技術試驗驗證。工業和資訊化部前期指導完成了相關衛星的國內頻率協調，頒發了空間無線電臺執照和無線電頻率使用許可，為衛星網際網路技術試驗衛星專案的順利實施提供了有力支撐。（央視新聞）
+
+---
+
+### 2026-06-09 20:56:50  #公司
+
+【永泰運：調整2024年度向特定物件發行股票方案】永泰運公告，公司於2026年6月9日召開第三屆董事會第八次會議，審議透過了《關於調整公司2024年度向特定物件發行股票方案的議案》等相關議案。本次發行方案主要調整了定價基準日、發行價格及定價原則。調整前定價基準日為公司第二屆董事會第二十六次會議決議公告日（2024年12月5日），發行價格為定價基準日前20個交易日公司A股股票交易均價的80%。調整後定價基準日為發行期首日，發行價格為不低於定價基準日前20個交易日公司股票交易均價的80%。本次向特定物件發行股票募集資金總額與調整前保持不變，即不超過人民幣3.92億元，發行數量不超過2185.06萬股。
+
+---
+
+### 2026-06-09 20:56:46  #國際
+
+市場訊息：印度將國內航空燃油價格上調10%。
+
+---
+
+### 2026-06-09 20:55:50  #資料 #國際
+
+美國至6月6日當週紅皮書商業零售銷售年率 9.1%，前值9%。
+
+---
+
+### 2026-06-09 20:55:47  #市場
+
+富國銀行股價在管理層會議上發表評論後下跌。
+
+---
+
+### 2026-06-09 20:55:35  #MKT News #Macro & Rates #US Economy
+
+U.S. Redbook commercial retail sales YoY for week to June 6 9.1% (previous 9.0%).
+
+---
+
+### 2026-06-09 20:55:25  #MKT News #Economic Calendar #Important
+
+United States | Redbook Retail Sales (YoY) (Jun.6) | actual 9.1% | previous 9%
+
+---
+
+### 2026-06-09 20:54:18  #市場 #國際
+
+渣打銀行股價下跌3%，滙豐控股股價下跌2%，而歐洲銀行股整體上漲0.8%。
+
+---
+
+### 2026-06-09 20:53:27  #Trading Economics #Economy #Canada #Exports #Importance 1
+
+Canadian Exports Rise to Record High — Exports of Canadian goods surged by 1.6% from the previous month to C$75.2 billion in April of 2026, the highest on record. The increase was owed to a fresh jump in energy exports (9.7% to C$19.9 billion), as the war in the Middle East continued to prevent energy trade from the region and lifted prices for Canadian oil and natural gas, triggering a surge in their turnover. Exports also increased for farm, fishing, and intermediate food products (8.9% to C$5.3 billion) and aircraft and transportation equipment (13.8% to C$3.1 billion). Meanwhile, exports slumped for metal and non-metallic mineral products (-17.5% to $12.5 billion) despite remaining at historically elevated levels, as the surge in exports of gold, silver, and platinum to the UK in the previous months were unwound. Exports to the US rose for a third month, contributing to their largest surplus in 14 months, despite tariffs by the US President.
 
 ---
 
@@ -21447,173 +21627,5 @@ Hamas highly praised Iran and Yemen's response to the Zionist entity's crimes ag
 ### 2026-06-08 18:32:05  #其他
 
 【四川省發展改革委原黨組副書記、副主任徐立被開除黨籍】經查，徐立喪失理想信念，背棄初心使命，對黨不忠誠不老實，搞兩面派，做兩面人；無視中央八項規定精神，收受可能影響公正執行公務的禮金，接受可能影響公正執行公務的宴請、旅遊活動安排；違背組織原則，在幹部選拔、遴選工作中利用職權為他人謀取利益並收受財物；廉潔底線失守，借用管理和服務物件錢款，影響公正執行公務，將應當由個人支付的費用由他人支付，搞權色交易、錢色交易；干預和插手執法活動；私德不修，腐化墮落；利用職務上的便利，為他人在專案承攬、專案審批等方面謀取利益並收受財物，數額特別巨大；退休後利用其原職權或者地位形成的便利條件，透過其他國家工作人員職務上的行為，為他人在專案承攬等方面謀取不正當利益並收受財物，數額特別巨大。
-
----
-
-### 2026-06-08 18:31:42  #其他
-
-【全國公安機關嚴查嚴打涉高考網路謠言】2026年高考正在進行中，全國公安機關堅持以最高標準、最嚴要求、最強措施，嚴查嚴打涉考類違法犯罪活動，全力護航高考安全平穩有序。6月8日，公安部網安局公佈10起涉高考網路謠言典型案例，給所有想蹭高考熱點博眼球、吸粉的人敲響警鐘。從典型案例情況來看，一些不法分子利用高考社會關注度高的特點，透過AI工具炮製虛假資訊、虛構“內部資源”等手段博取流量、吸粉引流，嚴重誤導公眾，破壞正常考試秩序。（新華社）
-
----
-
-### 2026-06-08 18:31:13  #公司
-
-【怡亞通：股東解除質押3.85%並新質押6.55%】怡亞通公告，公司股東深圳市怡亞通投資控股有限公司解除質押1億股，佔其所持42.03%、佔公司總股本3.85%，起始日2025年6月19日，解除日期2026年6月5日；同日新質押1.7億股，佔其所持71.45%、佔公司總股本6.55%，質押期限2026年6月5日至2027年6月5日，質權人為深圳市投資控股有限公司；本次操作後，該股東持股2.38億股，已質押2.07億股，佔其所持87%、佔公司總股本7.97%。
-
----
-
-### 2026-06-08 18:31:09  #公司
-
-【億帆醫藥：控股股東補充質押並質押展期2.01%】億帆醫藥公告，公司於2026年6月8日獲控股股東程先鋒通知，其將所持2150萬股辦理質押展期，質押期限自2025年6月5日至2027年6月4日，佔其持股4.33%、佔公司總股本1.77%；同時補充質押300萬股，質押期限自2026年6月5日至2027年6月4日，佔其持股0.60%、佔公司總股本0.25%；兩項合計質押2450萬股，佔其持股4.93%、佔公司總股本2.01%。截至公告披露日，程先鋒累計質押7300萬股，佔其持股14.70%、佔公司總股本6.00%。
-
----
-
-### 2026-06-08 18:31:01  #國際
-
-印度航空通報：三架停放在德里機場二號航站樓的空客 A320 客機，遭地面裝置及外來雜物撞擊受損。
-
----
-
-### 2026-06-08 18:31:00  #MKT News #DXY #Impact bullish
-
-Bank of Israel minutes: MPC voted unanimously on May 25 to cut the policy rate to 3.75%.
-
----
-
-### 2026-06-08 18:30:48  #央行 #國際
-
-以色列央行貨幣政策委員會會議紀要顯示，所有委員會成員均投票贊成在5月25日將基準貸款利率下調至3.75%。
-
----
-
-### 2026-06-08 18:30:33  #公司
-
-【華瓷股份：擬1.19億元收購江西金環31%股權】華瓷股份公告，公司於2026年6月5日與交易對方正式簽署《股權轉讓協議》，以1.19億元收購江西金環31%股權。本次交易完成後，公司將合計持有江西金環51%股權，實現對標的公司的控股。公司對於江西金環剩餘49%股權暫無進一步收購安排。
-
----
-
-### 2026-06-08 18:30:26  #市場
-
-巴基斯坦KSE-100指數暫定收盤下跌1%，至169,124.80點。
-
----
-
-### 2026-06-08 18:30:17  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-The SENSEX Index Closes 0.97% Lower — The SENSEX Index fell 719 points or 0.97 percent on Monday to close at 73524 points. Leading the losses are Tata Motors (-2.33%), Mahindra & Mahindra (-2.32%) and Tata Steel (-2.31%). Top gainers were Power Grid (1.72%), Bharti Airtel (1.21%) and Tech Mahindra (1.11%).
-
----
-
-### 2026-06-08 18:29:26  #其他
-
-【跨境理財通首次納入數字銀行，南向通香港銀行擴容至25家】自赴港開戶監管趨嚴後，QDII、互認基金、跨境理財通等跨境投資的合規渠道備受關注。6月5日，8家香港數字銀行之一的眾安銀行（ZA BANK）宣佈，攜手興業銀行正式推出“跨境理財通南向通”服務。這意味著，試點了約五年的跨境理財通首次迎來數字銀行參與。
-
----
-
-### 2026-06-08 18:29:22  #MKT News #DXY #Impact bullish #XAUUSD #WTI
-
-Kremlin says Kyiv's actions make negotiations hard to imagine.
-
----
-
-### 2026-06-08 18:29:05  #MKT News
-
-Interfax: Russia says it is taking measures to ease fuel shortages in Crimea.
-
----
-
-### 2026-06-08 18:28:43  #國際
-
-俄羅斯稱正採取措施緩解克里米亞燃油短缺問題。
-
----
-
-### 2026-06-08 18:28:25  #公司
-
-【王浩劉捷會見國家電網有限公司董事長張智剛一行】據浙江日報，8日上午，浙江省委書記、省人大常委會主任王浩，浙江省委副書記、省長劉捷在杭州會見了國家電網有限公司董事長、黨組書記張智剛一行。王浩說，希望國家電網公司進一步加大對浙江電力保供支援力度，積極推動在浙重大電網專案建設，強化能源領域科技創新合作，助力浙江深入實施“綠保穩”工程、打造新型能源體系。我們將與國家電網公司深化全面對接、加強務實合作，紮實做好專案投資投運的全要素保障，為國家電網公司在浙江發展提供更好的環境、最優的服務。張智剛表示，國家電網公司將充分發揮央企作用，結合“十五五”規劃佈局，搶抓數字經濟與能源革命融合發展機遇，主動服務浙江發展所需，健全電網基礎設施，保障電力安全可靠供應，助力浙江加快綠色轉型發展，為高質量發展建設共同富裕示範區作出積極貢獻。
-
----
-
-### 2026-06-08 18:28:04  #公司
-
-【宿遷聯盛：擬設立合資公司從事磷化銦襯底業務】宿遷聯盛公告，公司與朱蓉輝、匯智光芯簽署《合資意向協議》，擬共同出資1000萬元設立合資公司，從事磷化銦襯底的研發生產銷售。其中公司出資700萬元，持股70%。專案計劃分兩期建設，一期固定投資1億元，預期年產12萬片4-6英寸磷化銦襯底；二期預計追加投資2億元，產能擴充至40萬片/年。本次投資尚需提交股東會審議，存在較大不確定性。
-
----
-
-### 2026-06-08 18:27:52  #其他
-
-克里姆林宮表示注意到有關亞美尼亞選舉以及眾多違規行為的報道。
-
----
-
-### 2026-06-08 18:27:24  #公司 #觀點
-
-【國金證券：控股股東提議1.5億-3億元回購股份】國金證券公告稱，6月6日，公司控股股東長沙湧金提議公司以自有資金透過上交所集中競價方式回購股份，回購價不超13元/股，回購資金總額不低於1.5億元且不超3億元，回購期限為董事會審議透過方案之日起3個月內，回購股份將用於維護公司價值及股東權益。該事項需履行審批程式，存在不確定性。
-
----
-
-### 2026-06-08 18:27:21  #MKT News #Market Regions #Europe & UK
-
-Kremlin condemns attack on passenger train in Crimea.
-
----
-
-### 2026-06-08 18:27:12  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Kremlin says such actions complicate efforts to pursue a peaceful resolution of the conflict.
-
----
-
-### 2026-06-08 18:27:05  #公司
-
-【宏盛華源：子公司預中標國家電網專案，金額約21.35億元】宏盛華源公告稱，近日國家電網公示2026年特高壓專案第二次招標採購中標候選人，公司下屬子公司為18個標包的中標候選人，預中標金額約21.35億元，約佔公司2025年經審計營業收入的22.30%。目前專案處於評標結果公示階段，公司未收到中標通知書，最終能否形成實際訂單並完成交貨存在不確定性。
-
----
-
-### 2026-06-08 18:26:49  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
-
-The Kremlin said France, the UK and Germany talk about peace while supplying weapons to Kyiv to continue the war.
-
----
-
-### 2026-06-08 18:26:47  #國際
-
-克里姆林宮：俄羅斯正在採取措施保障自身安全，以應對北約軍事基礎設施逼近其邊境。
-
----
-
-### 2026-06-08 18:26:43  #MKT News
-
-【Chinese Vice President Han Zheng meets Belarusian President Lukashenko】Chinese Vice President Han Zheng met Belarusian President Lukashenko in Minsk on June 8, 2026. Han said both sides will maintain leader-driven diplomacy and close high-level exchanges to keep China-Belarus relations on the correct course amid a complex international environment. China voiced support for Belarus pursuing a development path suited to its national conditions and said it is willing to jointly implement four global initiatives to protect developing countries' common interests. The two sides agreed to strengthen alignment of development strategies, deepen cooperation in traditional sectors, expand win-win development space and consolidate bilateral public support.
-
----
-
-### 2026-06-08 18:26:39  #MKT News
-
-USGS reported a magnitude-5.6 earthquake 56 km south-southwest of Sarangani, Philippines.
-
----
-
-### 2026-06-08 18:26:37  #MKT News
-
-Kremlin says it has noted reports on Armenia's election and multiple violations.
-
----
-
-### 2026-06-08 18:26:36  #國際
-
-【韓正會見白俄羅斯總統盧卡申科】當地時間2026年6月8日，國家副主席韓正在明斯克會見白俄羅斯總統盧卡申科。韓正表示，雙方要堅持元首外交領航定向，密切高層交往，確保中白關係在複雜國際形勢下保持正確發展方向。要弘揚相互支援優良傳統，中方支援白俄羅斯走符合本國國情的發展道路，願同白方共同踐行四大全球倡議，維護廣大發展中國家共同利益。要加強發展戰略對接，深化傳統領域合作，開闢共贏發展新的空間，夯實兩國友好民意基礎。（新華社）
-
----
-
-### 2026-06-08 18:26:15  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-The Kremlin said President Putin has said it is difficult to reach an agreement with Kyiv, responding to European leaders' calls to end the war in Ukraine.
-
----
-
-### 2026-06-08 18:26:03  #公司
-
-【宿遷聯盛：擬共同出資1000萬元設立合資公司】宿遷聯盛公告，公司擬與自然人股東朱蓉輝、匯智光芯人工智慧科技（蘇州）有限公司共同簽訂《合資意向協議》，擬共同出資1000萬元人民幣合資設立合資公司，主要從事磷化銦襯底的研發和生產銷售。
 
 ---

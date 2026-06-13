@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-13 15:33:07_
-_本檔包含 3583 則快訊，約 664933 字_
+_更新時間：2026-06-13 16:10:11_
+_本檔包含 3558 則快訊，約 664637 字_
+
+---
+
+### 2026-06-13 16:06:26  #其他
+
+【《金融資訊服務資料分類分級指南》印發】近日，國家網際網路資訊辦公室、中國人民銀行、國家金融監督管理總局、中國證券監督管理委員會、國家統計局、國家外匯管理局聯合印發《金融資訊服務資料分類分級指南》（以下簡稱《指南》）。《指南》銜接《金融資訊服務管理規定》，適用於在中華人民共和國境內從事金融資訊服務的金融資訊服務提供者開展資料分類分級和重要資料識別工作。《指南》不適用於涉及國家秘密的資料和軍事資料。在資料分類方面，《指南》按照金融資訊服務資料的業務屬性進行分類，其中一級分類為業務資料、使用者資料和企業資料3類，在此基礎上進一步細分二級分類9類、三級分類67類。在分級方面，《指南》參照國家標準GB/T 43697-2024《資料安全技術 資料分類分級規則》，根據金融資訊服務資料在經濟社會發展中的重要程度和敏感程度，以及一旦遭到洩露、篡改、損毀或者非法獲取、非法使用、非法共享，對國家安全、經濟執行、社會秩序、公共利益、組織權益、個人權益造成的危害程度，將資料從高到低分為四級，分別為核心資料、重要資料、敏感一般資料、常規一般資料。
+
+---
+
+### 2026-06-13 16:03:49  #MKT News
+
+Elon Musk says SpaceX could launch roughly five times as many satellites over the next ~5 years as the rest of the world combined.
+
+---
+
+### 2026-06-13 16:03:29  #MKT News #Market Regions #Greater China
+
+【China issues Guidelines on Classification and Grading of Financial Information Service Data】To guide financial information service providers on data classification, grading and identification of important data and to strengthen financial information data security, the Cyberspace Administration of China, the People’s Bank of China, the National Financial Regulatory Administration, the China Securities Regulatory Commission, the National Bureau of Statistics and the State Administration of Foreign Exchange jointly issued the Guidelines on Classification and Grading of Financial Information Service Data, under the Cybersecurity Law, Data Security Law, Personal Information Protection Law, the Regulations on Network Data Security Management and the Regulations on the Administration of Financial Information Services.
+
+---
+
+### 2026-06-13 16:03:13  #其他
+
+【《金融資訊服務資料分類分級指南》印發】為指導金融資訊服務機構開展資料分類分級和重要資料識別工作，提升金融資訊服務資料安全水平，依據《中華人民共和國網路安全法》、《中華人民共和國資料安全法》、《中華人民共和國個人資訊保護法》、《網路資料安全管理條例》、《金融資訊服務管理規定》等法律法規規章和政策規定，國家網際網路資訊辦公室、中國人民銀行、國家金融監督管理總局、中國證券監督管理委員會、國家統計局、國家外匯管理局制定了《金融資訊服務資料分類分級指南》。（網信辦）
+
+---
+
+### 2026-06-13 16:01:17  #MKT News
+
+Lithuania's State Emergency Management Centre said an object detected in Lithuanian airspace was a meteorological balloon, not a drone.
+
+---
+
+### 2026-06-13 16:01:06  #其他
+
+立陶宛國家危機管理中心：在立陶宛領空探測到的物體是氣象氣球，而非無人機。
+
+---
+
+### 2026-06-13 16:00:26  #公司 #國際
+
+馬斯克：在大約5年內，SpaceX發射的衛星數量可能比世界其他地區多約5倍。
+
+---
+
+### 2026-06-13 15:56:10  #公司
+
+【國壽資產近期落地首筆“南向通”交易】記者6月13日從國壽資產獲悉，近期公司順利落地首筆“南向通”交易。國壽資產表示，接下來將在監管部門的指導下，有序開展“南向通”業務，穩慎推進全球資產配置，不斷提升國際化發展水平。此外，記者注意到，近期泰康資產也成為首批受託開展“南向通”業務的保險資產管理公司之一，並順利完成首筆投資交易。泰康資產表示，當前宏觀新形勢下，保險資金運用面臨較大的收益匹配、久期匹配等資產配置需求，“南向通”業務亦有助於保險資金增配長期限資產，爭取改善長期投資回報水平。（中證金牛座）
+
+---
+
+### 2026-06-13 15:50:47  #其他
+
+【科大訊飛釋出星火多模態大模型X2-VL】據“無錫釋出”，6月11日，在錫舉行的2026長三角機器人及自動化展覽會暨無錫具身智慧機器人產業鏈夥伴大會上，科大訊飛釋出星火多模態大模型X2-VL。這款綜合國產多模態大模型，將為無錫具身智慧產業搭載硬核“AI大腦”。
+
+---
+
+### 2026-06-13 15:46:26  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+Lithuanian State Emergency Operations Centre said it issued an alert to residents of Vilnius after a suspicious military drone was detected in Lithuanian airspace and has scrambled NATO military jets.
+
+---
+
+### 2026-06-13 15:41:46  #其他
+
+立陶宛國家危機管理中心：因在立陶宛領空發現疑似軍用無人機，已向維爾紐斯居民發出警報，已召集北約軍機。
+
+---
+
+### 2026-06-13 15:34:34  #MKT News
+
+【Russia lodges protest with US over blocked G20 participation】Russia's special representative for G20 and APEC affairs said on the 13th that Moscow's participation in the US-hosted G20 summit in December is being obstructed after the Russian Union of Industrialists and Entrepreneurs and the Russian Academy of Sciences were added to US sanctions lists, preventing related personnel from entering the United States. Moscow has submitted diplomatic protests and warned it will not recognise a G20 summit or its outcomes held without Russian participation. The summit is scheduled for Dec. 14-15 in Miami.
+
+---
+
+### 2026-06-13 15:33:32  #公司 #國際
+
+【俄方就G20參會受阻向美方提出交涉】當地時間13日，俄羅斯外交部負責二十國集團（G20）和亞太經合組織事務的特別代表別爾德耶夫稱，俄方參加今年12月美國主辦的G20峰會受阻，原因是俄羅斯工業家和企業家聯盟、俄羅斯科學院被美國列入制裁名單，相關人員無法入境美國。別爾德耶夫表示，俄方不接受這一做法，已透過外交渠道向美方提出系列交涉，並警告不會承認沒有俄羅斯參與的G20會議及其成果。
 
 ---
 
@@ -21391,238 +21469,5 @@ President Trump said Pu Erte will briefly serve as Director of National Intellig
 ### 2026-06-12 04:09:43  #MKT News #WTI #Impact bearish #XAUUSD #DXY
 
 President Trump said the United States has achieved a military victory in its war against Iran.
-
----
-
-### 2026-06-12 04:09:35  #MKT News
-
-U.S. President Trump said Iranians have an opportunity to rebuild their country and that Iran has been severely destroyed.
-
----
-
-### 2026-06-12 04:09:10  #MKT News #ADBE.O #Impact bullish
-
-Adobe (ADBE.O) expects Q3 revenue of $6.67-6.72 bln, versus prior guidance of $6.51 bln.
-
----
-
-### 2026-06-12 04:09:09  #國際
-
-特朗普談及伊核協議：哈爾格島相關行動已作罷。
-
----
-
-### 2026-06-12 04:08:48  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
-
-US President Trump said the strait has been open for months; you just haven't noticed.
-
----
-
-### 2026-06-12 04:08:45  #MKT News #Important #Market Themes #The Trump Trade
-
-U.S. President Trump said on Iran he does not want to set a deadline for reaching an agreement.
-
----
-
-### 2026-06-12 04:08:20  #焦點 #國際
-
-特朗普： 海峽數月以來一直處於通航狀態，只是外界並不知情。我不會為協議設定最後期限。協議簽署後海峽就將恢復通航，時間可能在週六或週一。
-
----
-
-### 2026-06-12 04:08:20  #MKT News #WTI #Impact bearish #Brent
-
-Trump said a military operation to seize Kharg Island has been ruled out.
-
----
-
-### 2026-06-12 04:07:51  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-U.S. President Trump said he finds Iran to be rational and expects them to reach an agreement.
-
----
-
-### 2026-06-12 04:07:45  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
-
-President Trump said the strait may open on Saturday or next Monday.
-
----
-
-### 2026-06-12 04:07:23  #MKT News #Market Themes #The Trump Trade
-
-President Trump said the agreement is very good for the US and the Middle East, and he believes it will also be great for Iran.
-
----
-
-### 2026-06-12 04:07:17  #其他
-
-Adobe（奧多比）第二財季營收66.2億美元，分析師預期64.5億美元。
-第二財季調整後每股收益（EPS）為5.96美元，分析師預期5.83美元。
-預計全年營收265億-266億美元，公司原本預計259億-261億美元。
-預計全年調整後EPS為24.35-24.45美元，公司原本預計23.30-23.50美元。
-預計第三財季營收66.7億-67.2億美元，分析師預期65.1億美元。
-預計第三財季調整後EPS為6.05-6.10美元，分析師預期5.77美元。
-
----
-
-### 2026-06-12 04:07:16  #MKT News #Market Themes #The Trump Trade #Commodities #Energy #WTI #Impact bearish #Brent
-
-Trump: The Strait of Hormuz will be opened immediately after a memorandum of understanding is signed.
-
----
-
-### 2026-06-12 04:07:10  #國際
-
-特朗普：我們認為伊朗方面態度理性，雙方將會達成協議。
-
----
-
-### 2026-06-12 04:06:42  #國際
-
-特朗普：伊朗對達成協議表現出極大的熱情。
-
----
-
-### 2026-06-12 04:06:27  #MKT News
-
-A Reuters survey found 42 of 45 economists expect the Reserve Bank of Australia to keep the cash rate at 4.35% on June 16. In the same survey, 26 of 44 economists forecast the cash rate at 4.35% at end-September; 18 expect 4.60% or higher.
-
----
-
-### 2026-06-12 04:05:56  #其他
-
-英國首相：任命Dan Jarvis為國防大臣。
-
----
-
-### 2026-06-12 04:05:52  #國際
-
-特朗普：根據該協議，伊朗將不得擁有核武器。
-
----
-
-### 2026-06-12 04:05:41  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-U.S. President Trump said the Iran agreement will be completed.
-
----
-
-### 2026-06-12 04:05:33  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Dow
-
-U.S. equities closed higher on Thursday, June 11: the Dow Jones Industrial Average rose 929.60 points, or 1.86%, to 50,848.38; the S&P 500 gained 127.25 points, or 1.75%, to 7,394.24; the Nasdaq Composite added 640.16 points, or 2.54%, to 25,809.66.
-
----
-
-### 2026-06-12 04:05:25  #MKT News
-
-U.S. President Trump said the memorandum of understanding is very strong and detailed.
-
----
-
-### 2026-06-12 04:05:06  #國際
-
-特朗普：伊核相關協議是一份約束力極強的諒解備忘錄。
-
----
-
-### 2026-06-12 04:05:03  #MKT News #WTI #Impact mixed #XAUUSD
-
-US President Trump said Iran is more eager than he is to reach an agreement and that Tehran has been severely hit.
-
----
-
-### 2026-06-12 04:04:29  #MKT News
-
-President Trump said on the Iran deal that all Iranians have approved the agreement.
-
----
-
-### 2026-06-12 04:04:26  #國際
-
-特朗普談及伊核協議：伊朗各方均已批准該協議。
-
----
-
-### 2026-06-12 04:03:57  #國際
-
-特朗普談及協議談判反覆：伊朗如今已遭受重創，他們遠比我更渴望達成協議。
-
----
-
-### 2026-06-12 04:03:54  #MKT News #Important #Market Themes #The Trump Trade
-
-Trump said once the agreement is signed the US will lift the blockade.
-
----
-
-### 2026-06-12 04:03:43  #MKT News
-
-U.S. President Trump said Iran will not acquire or develop nuclear weapons.
-
----
-
-### 2026-06-12 04:03:12  #國際
-
-特朗普：解除霍爾木茲海峽封鎖是伊朗核協議的一部分。
-
----
-
-### 2026-06-12 04:03:04  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-U.S. President Trump said Iran will not have nuclear weapons.
-
----
-
-### 2026-06-12 04:02:58  #焦點 #國際
-
-特朗普談及伊朗問題：協議一經簽署，美國將解除封鎖。
-
----
-
-### 2026-06-12 04:02:37  #MKT News #Important #WTI #Impact bearish #Brent
-
-U.S. President Trump said he understands Iran's Supreme Leader has agreed to an Iran deal.
-
----
-
-### 2026-06-12 04:02:36  #焦點 #國際
-
-特朗普談及伊朗核協議：我得知伊朗最高領袖已同意達成協議。
-
----
-
-### 2026-06-12 04:02:19  #國際
-
-特朗普稱伊核協議將於本週末簽署：很快就會落地。
-
----
-
-### 2026-06-12 04:01:20  #MKT News #Important #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-【U.S. close: Nasdaq +2.5% as US‑Iran deal hopes resurface】U.S. stocks closed higher on Thursday after Trump said a U.S.-Iran deal could be signed in Europe this weekend. The Dow rose 1.86%, the S&P 500 gained 1.75% and the Nasdaq Composite advanced 2.5%. Intel (INTC.O) and Super Micro (SMCI.O) jumped 9%, NVIDIA (NVDA.O) rose 2% and Tesla (TSLA.O) climbed just over 4%. The Nasdaq Golden Dragon China Index added 0.24%; Alibaba (BABA.N) and JD.com (JD.O) fell more than 1%.
-
----
-
-### 2026-06-12 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲1.86%，標普500指數漲1.74%，納指漲2.50%。閃迪漲14.66%，科磊漲12.90%，林氏研究漲12.65%，美光漲11.66%。“七姐妹”方面：特斯拉漲4.65%，英偉達漲2.19%，亞馬遜漲1.40%，蘋果漲1.28%，谷歌漲1.00%，Meta Platforms跌0.43%，微軟跌1.75%。
-
----
-
-### 2026-06-12 04:00:40  #市場
-
-費城晶片指數收盤上漲7.9%，創2025年4月以來最大單日漲幅。
-
----
-
-### 2026-06-12 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收漲0.34%】海天網路漲27.02%，塗鴉智慧漲14.84%，大全新能源漲7.54%，晶科能源漲6.13%，億咖通科技漲4.88%。
-
----
-
-### 2026-06-12 03:52:06  #觀點
-
-【SpaceX IPO定價為每股135美元，創史上最大規模IPO】SpaceX在其網站釋出的新聞稿中確認，其首次公開募股(IPO)發行5.556億股股票，定價為每股135美元。股票預計將於6月12日在納斯達克開始交易，股票程式碼為“SPCX”。簿記管理人包括：高盛、摩根士丹利、美銀證券、花旗、摩根大通、巴克萊、Deutsche Bank Securities、RBC Capital Markets、UBS Investment Bank和Wells Fargo Securities。
 
 ---

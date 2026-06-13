@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 15:33:07_
-_本檔包含 3670 則快訊，約 665047 字_
+_更新時間：2026-06-13 16:10:11_
+_本檔包含 3687 則快訊，約 664824 字_
+
+---
+
+### 2026-06-10 23:54:14  #國際
+
+特朗普談及人工智慧企業持股問題：短期內將與15家頂尖企業高管會晤。
+
+---
+
+### 2026-06-10 23:53:58  #國際
+
+特朗普：正與人工智慧行業相關人士舉行會談。
+
+---
+
+### 2026-06-10 23:53:33  #焦點 #國際
+
+特朗普談及伊朗：一切均已協商完畢。
+
+---
+
+### 2026-06-10 23:53:29  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+US President Trump said they have agreed not to possess nuclear weapons; only signing the documents remains.
+
+---
+
+### 2026-06-10 23:53:12  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. President Trump declined to say whether he would destroy Iran's bridges and power plants.
+
+---
+
+### 2026-06-10 23:53:07  #國際
+
+特朗普談伊朗：伊朗已同意不發展核武器，他們只需簽署協議文字即可。
+
+---
+
+### 2026-06-10 23:52:51  #市場 #焦點 #國際
+
+特朗普講話後，納斯達克100指數跌幅擴大至盤中低點1.6%。
+
+---
+
+### 2026-06-10 23:52:37  #國際
+
+特朗普談伊朗：我不會透露是否會炸掉伊朗的橋樑和發電廠。
+
+---
+
+### 2026-06-10 23:52:28  #市場 #國際
+
+美國原油和布倫特原油期貨延續漲勢，此前特朗普表示今天將再次嚴厲打擊伊朗；布倫特原油最新上漲2.7%，WTI原油上漲3.5%。
+
+---
+
+### 2026-06-10 23:52:15  #市場 #焦點 #國際
+
+特朗普稱美國將恢復對伊朗的攻擊，美國國債收益率上升。
+
+---
+
+### 2026-06-10 23:52:10  #MKT News
+
+U.S. President Trump said they continue to put pressure on us.
+
+---
+
+### 2026-06-10 23:52:08  #市場 #焦點
+
+紐約期金失守4130美元/盎司，日內跌3.65%。
+
+---
+
+### 2026-06-10 23:52:00  #MKT News
+
+US President Trump said he will see how the deal develops.
+
+---
+
+### 2026-06-10 23:51:57  #市場
+
+布倫特原油日內漲3%，現報94.21美元/桶。
+
+---
+
+### 2026-06-10 23:51:26  #市場 #焦點
+
+布倫特原油突破94美元/桶，日內漲2.85%。
+
+---
+
+### 2026-06-10 23:51:05  #MKT News #Important #WTI #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+President Trump said the US struck Iran hard yesterday and will strike again today.
+
+---
+
+### 2026-06-10 23:51:04  #國際
+
+特朗普談伊朗：他們一直在不斷挑釁我們。
+
+---
+
+### 2026-06-10 23:51:03  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold extended losses, sliding more than $20 intraday to hit $4,110/oz, down 3.54% on the day.
+
+---
+
+### 2026-06-10 23:50:54  #國際
+
+特朗普談及伊朗問題：我們拭目以待伊核協議的後續走向。
+
+---
+
+### 2026-06-10 23:50:50  #焦點 #國際
+
+特朗普談伊朗：今日將再次對其實施嚴厲打擊。
+
+---
+
+### 2026-06-10 23:50:37  #市場 #焦點
+
+現貨黃金失守4110美元/盎司，日內跌3.51%。
+
+---
+
+### 2026-06-10 23:50:26  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude oil futures jumped 3.00% intraday to $90.89 a barrel.
+
+---
+
+### 2026-06-10 23:50:24  #MKT News #Important #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+U.S. President Trump said he hopes to reach a meaningful agreement with Iran.
+
+---
+
+### 2026-06-10 23:50:14  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI and Brent crude climbed more than $1 intraday, rising roughly 2% on the day to trade at $90.78/bbl and $92.77/bbl, respectively.
+
+---
+
+### 2026-06-10 23:49:55  #國際
+
+特朗普：希望與伊朗達成一項有意義的協議。
+
+---
+
+### 2026-06-10 23:49:38  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Trump says Iran fired on a US helicopter.
+
+---
+
+### 2026-06-10 23:49:21  #MKT News #Market Themes #The Trump Trade
+
+TRUMP said Iran should sign the agreement and called it a good deal.
+
+---
+
+### 2026-06-10 23:49:18  #Trading Economics #Markets #Commodity #Importance 1
+
+Natural Gas Prices Edge Up — US natural gas prices edged up to $3.19 per MMBtu, supported by forecasts for above-normal temperatures in the second half of June, which are expected to boost cooling demand. However, prices remain below the recent highs seen earlier in the month. According to LSEG, average gas production in the US Lower 48 has eased to 108.8 billion cubic feet per day in June, down from 109.7 bcfd in May. While the decline in output has helped narrow the storage surplus, inventories remain about 5% above the five-year seasonal average, pointing to broadly comfortable supply conditions heading into the summer. Meanwhile, net flows to major LNG export terminals have fallen to 16.3 bcfd so far in June from 17.1 bcfd in May, as seasonal maintenance at facilities including Golden Pass and Freeport LNG in Texas continues to weigh on export volumes.
+
+---
+
+### 2026-06-10 23:49:16  #國際
+
+特朗普：伊朗向我們的直升機開火。
+
+---
+
+### 2026-06-10 23:49:10  #國際
+
+特朗普談伊朗：我不知道他們在做什麼。
+
+---
+
+### 2026-06-10 23:48:59  #國際
+
+特朗普：伊朗應該簽署這項協議，這是一項好協議。
+
+---
+
+### 2026-06-10 23:48:54  #其他
+
+原油價格觸及日內高點，WTI原油價格接近每桶91美元。
+
+---
+
+### 2026-06-10 23:48:34  #MKT News #Important
+
+President Trump said the US will carry out a powerful strike against Iran and asserted the US has the right to resume strikes against Iran.
+
+---
+
+### 2026-06-10 23:48:21  #國際
+
+特朗普：我們有權恢復對伊朗的攻擊。
+
+---
+
+### 2026-06-10 23:48:17  #市場 #焦點
+
+WTI原油突破91美元/桶，日內漲3.19%。
+
+---
+
+### 2026-06-10 23:48:12  #市場
+
+WTI原油日內漲3%，現報90.85美元/桶。
+
+---
+
+### 2026-06-10 23:47:58  #焦點 #國際
+
+特朗普：將對伊朗發起猛烈攻擊。
+
+---
+
+### 2026-06-10 23:47:46  #宏觀 #國際
+
+美國國務院批准擬向韓國對外軍售AIM-120C-8先進中程空對空導彈，交易預估金額2.92億美元。
+
+---
+
+### 2026-06-10 23:46:23  #MKT News #Brent #Impact bullish #WTI
+
+RUSSIAN CENBANK said economic activity recovered in April–May after a Q1 GDP contraction, supported by demand for Russian exports.
+
+---
+
+### 2026-06-10 23:46:06  #其他
+
+OpenAI正準備於本月釋出一款代號為5.6的新型人工智慧模型。
+
+---
+
+### 2026-06-10 23:45:21  #央行 #國際
+
+俄羅斯央行：第一季度GDP收縮後，4-5月經濟活動在俄羅斯出口需求的支撐下回升。
+
+---
+
+### 2026-06-10 23:44:24  #公司 #焦點
+
+OpenAI執行長奧特曼告知員工，OpenAI準備“很快”推出一項以當前股價進行的要約收購，該股價為每股687.69美元。
+
+---
+
+### 2026-06-10 23:42:51  #公司 #國際
+
+【比爾·蓋茨就愛潑斯坦案調查在國會作證】微軟公司創始人比爾·蓋茨10日出席美國國會眾議院監督委員會的閉門聽證會，就已故美國富商傑弗裡·愛潑斯坦一案作證。蓋茨在抵達國會大廈時對記者說：“我很高興自願來這裡作證，幫助委員會的工作。我希望我的證詞能對委員會的重要工作有所幫助，為受害者伸張正義。”眾議院監督委員會表示，此次聽證會是錄音聽證，不會進行錄影，委員會將在數日後釋出相關記錄。（新華社）
+
+---
+
+### 2026-06-10 23:42:07  #公司
+
+【孫成任珠海交通控股集團黨委書記、董事長】6月10日，珠海交通控股集團有限公司召開幹部大會。會上宣佈市委決定：孫成同志任珠海交通控股集團有限公司黨委書記、董事長。
+
+---
+
+### 2026-06-10 23:39:15  #國際
+
+【以色列總統：黎巴嫩應擺脫真主黨和伊朗影響】以色列總統赫爾佐格10日表示，希望以色列與黎巴嫩實現和平，但黎方有責任擺脫黎巴嫩真主黨和伊朗的影響。赫爾佐格當天視察以色列北部邊境地區期間透過社交媒體釋出影片講話。他說，黎巴嫩真主黨違反黎以停火協議，以方“不能接受針對本國公民的襲擊、越境襲擊以及任何恐怖襲擊”。他同時表示，只要沒有能夠保障以色列安全的明確安排，以黎雙方就難以進一步改善關係。近期在美國斡旋下，以色列和黎巴嫩就邊界安全等問題舉行直接接觸和談判，但雙方圍繞真主黨武裝問題及停火安排仍存在較大分歧。（新華社）
+
+---
+
+### 2026-06-10 23:38:23  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish
+
+European equity benchmarks closed mixed on Wednesday, June 10: Germany's DAX 30 fell 217.10 points (-0.89%) to 24,200.97; the UK's FTSE 100 rose 22.61 points (+0.22%) to 10,249.94; France's CAC 40 fell 41.60 points (-0.51%) to 8,161.83; the Euro Stoxx 50 fell 35.18 points (-0.58%) to 6,014.56; Spain's IBEX 35 fell 47.63 points (-0.26%) to 18,139.07; Italy's FTSE MIB fell 252.26 points (-0.50%) to 50,010.50.
+
+---
+
+### 2026-06-10 23:38:21  #公司 #焦點
+
+【OpenAI籌備全新人工智慧模型，預計一年內啟動上市】OpenAI執行長奧特曼於週一向員工透露，公司預計一年內完成上市。他稱，諸多因素會導致上市時間在此區間內提前或延後，而當下提交相關檔案，能為儘早上市保留選擇空間。公司另一位高管也透露，OpenAI正準備推出一款全新人工智慧模型。
 
 ---
 
@@ -21928,185 +22210,5 @@ American Airlines agreed to release 35 mln gallons of sustainable aviation fuel 
 ### 2026-06-09 21:04:22  #公司
 
 【*ST新元：與財務投資人簽署重整投資協議】*ST新元(300472)6月9日公告，公司與財務投資人撫州市臨川區區屬國有資產投資控股集團有限公司（簡稱“臨川國控”）簽署《重整投資協議》。若後續撫州中院裁定受理債權人對公司的重整申請，臨川國控將透過公司重整程式中的出資人權益調整，有條件受讓公司轉增股票，擬受讓股份數量為1000萬股，認購轉增股份的價格為4.55元/股。6月8日，公司與財務投資人臨川國控簽署《重整投資協議》。
-
----
-
-### 2026-06-09 21:04:12  #觀點
-
-摩根大通：如果通脹持續更長時間處於高位，則可能存在一定風險。
-
----
-
-### 2026-06-09 21:03:52  #其他
-
-博通(AVGO.O)：首期350億美元將用於支援Anthropic此前宣佈的超過1吉瓦計算基礎設施的產能擴建。
-
----
-
-### 2026-06-09 21:03:48  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) said a first tranche of $35 bln will support Anthropic's previously announced expansion of more than 1 GW of compute infrastructure capacity.
-
----
-
-### 2026-06-09 21:03:29  #MKT News #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) premarket gains widen to 3%.
-
----
-
-### 2026-06-09 21:03:25  #國際
-
-美國航空：達成協議將在三年內釋放3500萬加侖可持續航空燃料（SAF），可減少近30萬噸二氧化碳當量排放。
-
----
-
-### 2026-06-09 21:02:40  #其他
-
-博通盤前股價漲幅擴大至3%。
-
----
-
-### 2026-06-09 21:02:20  #公司
-
-【恆鋒資訊：實際控制人歐霖傑解除留置並取保候審】恆鋒資訊公告，公司收到控股子公司福建微尚生活服務有限公司通知，相關監察機關已解除對該公司法定代表人、公司實際控制人兼副董事長、總裁歐霖傑的留置措施，相關公安機關決定對其取保候審。同日，歐霖傑已返回工作崗位。
-
----
-
-### 2026-06-09 21:02:15  #國際
-
-烏克蘭總統澤連斯基稱其已與拉脫維亞簽署無人機協議。
-
----
-
-### 2026-06-09 21:01:45  #MKT News
-
-Broadcom (AVGO.O), Apollo and Blackstone (BX.N) have launched a strategic platform to accelerate deployment of more than 20 GW of global AI infrastructure.
-
----
-
-### 2026-06-09 21:01:45  #公司
-
-博通(AVGO.O)、阿波羅、黑石集團(BX.N)成立戰略平臺，以加速超過20吉瓦的全球人工智慧部署。
-
----
-
-### 2026-06-09 21:01:34  #市場 #焦點
-
-焦煤連續主力合約日內跌1%，現報1360.00元。
-
----
-
-### 2026-06-09 21:00:30  #MKT News
-
-IMF says Nigeria's central bank should maintain tight monetary policy.
-
----
-
-### 2026-06-09 21:00:28  #MKT News #Important #Commodities #Energy #Industrial Metals #WTI #Impact bearish #Copper #Impact bullish
-
-Night session open: China's domestic commodity futures main contracts were mostly lower. SC crude oil, fuel oil and styrene (EB) fell about 2%; synthetic rubber, PET bottle flake, PTA, paraxylene (PX) and short fiber dropped over 1%. On the upside, SHFE tin rose nearly 2%, alumina gained more than 1%, and SHFE copper and zinc were up about 1%.
-
----
-
-### 2026-06-09 21:00:19  #其他
-
-國際貨幣基金組織：奈及利亞應保持緊縮貨幣政策以抑制通貨膨脹。
-
----
-
-### 2026-06-09 21:00:03  #市場 #焦點
-
-PTA連續主力合約日內跌1%，現報6244.00元。
-
----
-
-### 2026-06-09 21:00:02  #市場
-
-【國內期貨夜盤開盤】多晶矽連續跌3.55%，碳酸鋰連續漲3.45%，集運指數歐線期貨連續漲3.08%，雞蛋連續漲2.78%，菜籽連續跌2.40%。
-
----
-
-### 2026-06-09 20:59:39  #國際
-
-【英法澳等五國發布新制裁追究以色列定居者責任，警告以政府採取緊急措施】據半島電視臺網站6月9日報道，英國、澳大利亞、加拿大、法國和挪威五國當地時間8日發表宣告，稱已採取協同行動追究以色列強硬派定居者的責任，以回應被佔領約旦河西岸日益惡化的局勢。報道稱，上述五國在釋出新制裁措施後警告稱，如果以色列政府未能採取緊急措施解決當地局勢，他們準備隨時採取進一步行動。（環球網）
-
----
-
-### 2026-06-09 20:58:12  #資料
-
-【美銀：5月CPI料創2023年4月以來最高水平】美銀的一份報告顯示，定於週三公佈的5月CPI同比增幅料升至4.2%，為2023年4月以來的最高水平。這一增幅符合接受《華爾街日報》調查的經濟學家的預期。該報告稱，對於政策前景，焦點可能會放在對核心個人消費支出價格指數(PCE)通脹的影響上，因為自去年11月以來，該指數一直高於CPI。
-
----
-
-### 2026-06-09 20:58:01  #MKT News #NVO #Impact bullish #LLY
-
-【Goldman Sachs lifts global obesity-drug forecast to $114bn by 2030 as oral GLP-1s go mainstream】Goldman Sachs raised its forecast for the global obesity-drug market to $114bn by 2030, up roughly 13% from a $101bn projection in December, citing rapid adoption of oral GLP-1 obesity drugs and a shift from a niche, high-price segment to a mass-consumer market.
-
----
-
-### 2026-06-09 20:57:49  #MKT News
-
-PTI reports India will raise domestic aviation fuel prices by 10%.
-
----
-
-### 2026-06-09 20:57:25  #公司
-
-【中國金茂：5月簽約銷售金額104.93億元】6月9日，中國金茂在港交所公告，2026年5月份，集團取得簽約銷售金額人民幣104.93億元，簽約銷售建築面積368,427.48平方米。截至2026年5月31日止5個月，集團累計取得簽約銷售金額共計人民幣417.27億元（其中包含（如有）長沙梅溪湖國際新城專案、南京青龍山國際生態新城專案、寧波生命科學城專案、嘉興上海之窗智慧科學城專案、鄭州二七區馬寨新城專案、溫州鰲江國際新城專案、金華金茂未來科學城專案及上海橫沔城市運營專案的成交銷售金額），以及累計簽約銷售建築面積1,682,883.74平方米。
-
----
-
-### 2026-06-09 20:57:08  #公司
-
-【我國成功發射衛星網際網路技術試驗衛星】記者從工業和資訊化部瞭解到，2026年6月9日，我國在酒泉衛星發射中心使用朱雀二號改進型遙六運載火箭，成功將“中國移動02星”送入預定軌道。中國移動02星是由中國行動通訊集團公司牽頭研製的衛星網際網路技術試驗衛星，主要用於開展手機直連衛星、天地網路融合等技術試驗驗證。工業和資訊化部前期指導完成了相關衛星的國內頻率協調，頒發了空間無線電臺執照和無線電頻率使用許可，為衛星網際網路技術試驗衛星專案的順利實施提供了有力支撐。（央視新聞）
-
----
-
-### 2026-06-09 20:56:50  #公司
-
-【永泰運：調整2024年度向特定物件發行股票方案】永泰運公告，公司於2026年6月9日召開第三屆董事會第八次會議，審議透過了《關於調整公司2024年度向特定物件發行股票方案的議案》等相關議案。本次發行方案主要調整了定價基準日、發行價格及定價原則。調整前定價基準日為公司第二屆董事會第二十六次會議決議公告日（2024年12月5日），發行價格為定價基準日前20個交易日公司A股股票交易均價的80%。調整後定價基準日為發行期首日，發行價格為不低於定價基準日前20個交易日公司股票交易均價的80%。本次向特定物件發行股票募集資金總額與調整前保持不變，即不超過人民幣3.92億元，發行數量不超過2185.06萬股。
-
----
-
-### 2026-06-09 20:56:46  #國際
-
-市場訊息：印度將國內航空燃油價格上調10%。
-
----
-
-### 2026-06-09 20:55:50  #資料 #國際
-
-美國至6月6日當週紅皮書商業零售銷售年率 9.1%，前值9%。
-
----
-
-### 2026-06-09 20:55:47  #市場
-
-富國銀行股價在管理層會議上發表評論後下跌。
-
----
-
-### 2026-06-09 20:55:35  #MKT News #Macro & Rates #US Economy
-
-U.S. Redbook commercial retail sales YoY for week to June 6 9.1% (previous 9.0%).
-
----
-
-### 2026-06-09 20:55:25  #MKT News #Economic Calendar #Important
-
-United States | Redbook Retail Sales (YoY) (Jun.6) | actual 9.1% | previous 9%
-
----
-
-### 2026-06-09 20:54:18  #市場 #國際
-
-渣打銀行股價下跌3%，滙豐控股股價下跌2%，而歐洲銀行股整體上漲0.8%。
-
----
-
-### 2026-06-09 20:53:27  #Trading Economics #Economy #Canada #Exports #Importance 1
-
-Canadian Exports Rise to Record High — Exports of Canadian goods surged by 1.6% from the previous month to C$75.2 billion in April of 2026, the highest on record. The increase was owed to a fresh jump in energy exports (9.7% to C$19.9 billion), as the war in the Middle East continued to prevent energy trade from the region and lifted prices for Canadian oil and natural gas, triggering a surge in their turnover. Exports also increased for farm, fishing, and intermediate food products (8.9% to C$5.3 billion) and aircraft and transportation equipment (13.8% to C$3.1 billion). Meanwhile, exports slumped for metal and non-metallic mineral products (-17.5% to $12.5 billion) despite remaining at historically elevated levels, as the surge in exports of gold, silver, and platinum to the UK in the previous months were unwound. Exports to the US rose for a third month, contributing to their largest surplus in 14 months, despite tariffs by the US President.
 
 ---

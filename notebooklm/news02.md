@@ -1,7 +1,240 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-13 15:33:07_
-_本檔包含 3778 則快訊，約 664926 字_
+_更新時間：2026-06-13 16:10:11_
+_本檔包含 3769 則快訊，約 664628 字_
+
+---
+
+### 2026-06-12 04:09:35  #MKT News
+
+U.S. President Trump said Iranians have an opportunity to rebuild their country and that Iran has been severely destroyed.
+
+---
+
+### 2026-06-12 04:09:10  #MKT News #ADBE.O #Impact bullish
+
+Adobe (ADBE.O) expects Q3 revenue of $6.67-6.72 bln, versus prior guidance of $6.51 bln.
+
+---
+
+### 2026-06-12 04:09:09  #國際
+
+特朗普談及伊核協議：哈爾格島相關行動已作罷。
+
+---
+
+### 2026-06-12 04:08:48  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
+
+US President Trump said the strait has been open for months; you just haven't noticed.
+
+---
+
+### 2026-06-12 04:08:45  #MKT News #Important #Market Themes #The Trump Trade
+
+U.S. President Trump said on Iran he does not want to set a deadline for reaching an agreement.
+
+---
+
+### 2026-06-12 04:08:20  #焦點 #國際
+
+特朗普： 海峽數月以來一直處於通航狀態，只是外界並不知情。我不會為協議設定最後期限。協議簽署後海峽就將恢復通航，時間可能在週六或週一。
+
+---
+
+### 2026-06-12 04:08:20  #MKT News #WTI #Impact bearish #Brent
+
+Trump said a military operation to seize Kharg Island has been ruled out.
+
+---
+
+### 2026-06-12 04:07:51  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+U.S. President Trump said he finds Iran to be rational and expects them to reach an agreement.
+
+---
+
+### 2026-06-12 04:07:45  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
+
+President Trump said the strait may open on Saturday or next Monday.
+
+---
+
+### 2026-06-12 04:07:23  #MKT News #Market Themes #The Trump Trade
+
+President Trump said the agreement is very good for the US and the Middle East, and he believes it will also be great for Iran.
+
+---
+
+### 2026-06-12 04:07:17  #其他
+
+Adobe（奧多比）第二財季營收66.2億美元，分析師預期64.5億美元。
+第二財季調整後每股收益（EPS）為5.96美元，分析師預期5.83美元。
+預計全年營收265億-266億美元，公司原本預計259億-261億美元。
+預計全年調整後EPS為24.35-24.45美元，公司原本預計23.30-23.50美元。
+預計第三財季營收66.7億-67.2億美元，分析師預期65.1億美元。
+預計第三財季調整後EPS為6.05-6.10美元，分析師預期5.77美元。
+
+---
+
+### 2026-06-12 04:07:16  #MKT News #Market Themes #The Trump Trade #Commodities #Energy #WTI #Impact bearish #Brent
+
+Trump: The Strait of Hormuz will be opened immediately after a memorandum of understanding is signed.
+
+---
+
+### 2026-06-12 04:07:10  #國際
+
+特朗普：我們認為伊朗方面態度理性，雙方將會達成協議。
+
+---
+
+### 2026-06-12 04:06:42  #國際
+
+特朗普：伊朗對達成協議表現出極大的熱情。
+
+---
+
+### 2026-06-12 04:06:27  #MKT News
+
+A Reuters survey found 42 of 45 economists expect the Reserve Bank of Australia to keep the cash rate at 4.35% on June 16. In the same survey, 26 of 44 economists forecast the cash rate at 4.35% at end-September; 18 expect 4.60% or higher.
+
+---
+
+### 2026-06-12 04:05:56  #其他
+
+英國首相：任命Dan Jarvis為國防大臣。
+
+---
+
+### 2026-06-12 04:05:52  #國際
+
+特朗普：根據該協議，伊朗將不得擁有核武器。
+
+---
+
+### 2026-06-12 04:05:41  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+U.S. President Trump said the Iran agreement will be completed.
+
+---
+
+### 2026-06-12 04:05:33  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Dow
+
+U.S. equities closed higher on Thursday, June 11: the Dow Jones Industrial Average rose 929.60 points, or 1.86%, to 50,848.38; the S&P 500 gained 127.25 points, or 1.75%, to 7,394.24; the Nasdaq Composite added 640.16 points, or 2.54%, to 25,809.66.
+
+---
+
+### 2026-06-12 04:05:25  #MKT News
+
+U.S. President Trump said the memorandum of understanding is very strong and detailed.
+
+---
+
+### 2026-06-12 04:05:06  #國際
+
+特朗普：伊核相關協議是一份約束力極強的諒解備忘錄。
+
+---
+
+### 2026-06-12 04:05:03  #MKT News #WTI #Impact mixed #XAUUSD
+
+US President Trump said Iran is more eager than he is to reach an agreement and that Tehran has been severely hit.
+
+---
+
+### 2026-06-12 04:04:29  #MKT News
+
+President Trump said on the Iran deal that all Iranians have approved the agreement.
+
+---
+
+### 2026-06-12 04:04:26  #國際
+
+特朗普談及伊核協議：伊朗各方均已批准該協議。
+
+---
+
+### 2026-06-12 04:03:57  #國際
+
+特朗普談及協議談判反覆：伊朗如今已遭受重創，他們遠比我更渴望達成協議。
+
+---
+
+### 2026-06-12 04:03:54  #MKT News #Important #Market Themes #The Trump Trade
+
+Trump said once the agreement is signed the US will lift the blockade.
+
+---
+
+### 2026-06-12 04:03:43  #MKT News
+
+U.S. President Trump said Iran will not acquire or develop nuclear weapons.
+
+---
+
+### 2026-06-12 04:03:12  #國際
+
+特朗普：解除霍爾木茲海峽封鎖是伊朗核協議的一部分。
+
+---
+
+### 2026-06-12 04:03:04  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+U.S. President Trump said Iran will not have nuclear weapons.
+
+---
+
+### 2026-06-12 04:02:58  #焦點 #國際
+
+特朗普談及伊朗問題：協議一經簽署，美國將解除封鎖。
+
+---
+
+### 2026-06-12 04:02:37  #MKT News #Important #WTI #Impact bearish #Brent
+
+U.S. President Trump said he understands Iran's Supreme Leader has agreed to an Iran deal.
+
+---
+
+### 2026-06-12 04:02:36  #焦點 #國際
+
+特朗普談及伊朗核協議：我得知伊朗最高領袖已同意達成協議。
+
+---
+
+### 2026-06-12 04:02:19  #國際
+
+特朗普稱伊核協議將於本週末簽署：很快就會落地。
+
+---
+
+### 2026-06-12 04:01:20  #MKT News #Important #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+【U.S. close: Nasdaq +2.5% as US‑Iran deal hopes resurface】U.S. stocks closed higher on Thursday after Trump said a U.S.-Iran deal could be signed in Europe this weekend. The Dow rose 1.86%, the S&P 500 gained 1.75% and the Nasdaq Composite advanced 2.5%. Intel (INTC.O) and Super Micro (SMCI.O) jumped 9%, NVIDIA (NVDA.O) rose 2% and Tesla (TSLA.O) climbed just over 4%. The Nasdaq Golden Dragon China Index added 0.24%; Alibaba (BABA.N) and JD.com (JD.O) fell more than 1%.
+
+---
+
+### 2026-06-12 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲1.86%，標普500指數漲1.74%，納指漲2.50%。閃迪漲14.66%，科磊漲12.90%，林氏研究漲12.65%，美光漲11.66%。“七姐妹”方面：特斯拉漲4.65%，英偉達漲2.19%，亞馬遜漲1.40%，蘋果漲1.28%，谷歌漲1.00%，Meta Platforms跌0.43%，微軟跌1.75%。
+
+---
+
+### 2026-06-12 04:00:40  #市場
+
+費城晶片指數收盤上漲7.9%，創2025年4月以來最大單日漲幅。
+
+---
+
+### 2026-06-12 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收漲0.34%】海天網路漲27.02%，塗鴉智慧漲14.84%，大全新能源漲7.54%，晶科能源漲6.13%，億咖通科技漲4.88%。
+
+---
+
+### 2026-06-12 03:52:06  #觀點
+
+【SpaceX IPO定價為每股135美元，創史上最大規模IPO】SpaceX在其網站釋出的新聞稿中確認，其首次公開募股(IPO)發行5.556億股股票，定價為每股135美元。股票預計將於6月12日在納斯達克開始交易，股票程式碼為“SPCX”。簿記管理人包括：高盛、摩根士丹利、美銀證券、花旗、摩根大通、巴克萊、Deutsche Bank Securities、RBC Capital Markets、UBS Investment Bank和Wells Fargo Securities。
 
 ---
 
@@ -22492,287 +22725,5 @@ U.S. stocks extended losses: Nasdaq fell nearly 1.5%, the Dow dropped 1.2% and t
 ### 2026-06-10 23:54:24  #國際
 
 特朗普：伊朗要做的就是開始簽署協議。
-
----
-
-### 2026-06-10 23:54:14  #國際
-
-特朗普談及人工智慧企業持股問題：短期內將與15家頂尖企業高管會晤。
-
----
-
-### 2026-06-10 23:53:58  #國際
-
-特朗普：正與人工智慧行業相關人士舉行會談。
-
----
-
-### 2026-06-10 23:53:33  #焦點 #國際
-
-特朗普談及伊朗：一切均已協商完畢。
-
----
-
-### 2026-06-10 23:53:29  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-US President Trump said they have agreed not to possess nuclear weapons; only signing the documents remains.
-
----
-
-### 2026-06-10 23:53:12  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. President Trump declined to say whether he would destroy Iran's bridges and power plants.
-
----
-
-### 2026-06-10 23:53:07  #國際
-
-特朗普談伊朗：伊朗已同意不發展核武器，他們只需簽署協議文字即可。
-
----
-
-### 2026-06-10 23:52:51  #市場 #焦點 #國際
-
-特朗普講話後，納斯達克100指數跌幅擴大至盤中低點1.6%。
-
----
-
-### 2026-06-10 23:52:37  #國際
-
-特朗普談伊朗：我不會透露是否會炸掉伊朗的橋樑和發電廠。
-
----
-
-### 2026-06-10 23:52:28  #市場 #國際
-
-美國原油和布倫特原油期貨延續漲勢，此前特朗普表示今天將再次嚴厲打擊伊朗；布倫特原油最新上漲2.7%，WTI原油上漲3.5%。
-
----
-
-### 2026-06-10 23:52:15  #市場 #焦點 #國際
-
-特朗普稱美國將恢復對伊朗的攻擊，美國國債收益率上升。
-
----
-
-### 2026-06-10 23:52:10  #MKT News
-
-U.S. President Trump said they continue to put pressure on us.
-
----
-
-### 2026-06-10 23:52:08  #市場 #焦點
-
-紐約期金失守4130美元/盎司，日內跌3.65%。
-
----
-
-### 2026-06-10 23:52:00  #MKT News
-
-US President Trump said he will see how the deal develops.
-
----
-
-### 2026-06-10 23:51:57  #市場
-
-布倫特原油日內漲3%，現報94.21美元/桶。
-
----
-
-### 2026-06-10 23:51:26  #市場 #焦點
-
-布倫特原油突破94美元/桶，日內漲2.85%。
-
----
-
-### 2026-06-10 23:51:05  #MKT News #Important #WTI #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-President Trump said the US struck Iran hard yesterday and will strike again today.
-
----
-
-### 2026-06-10 23:51:04  #國際
-
-特朗普談伊朗：他們一直在不斷挑釁我們。
-
----
-
-### 2026-06-10 23:51:03  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold extended losses, sliding more than $20 intraday to hit $4,110/oz, down 3.54% on the day.
-
----
-
-### 2026-06-10 23:50:54  #國際
-
-特朗普談及伊朗問題：我們拭目以待伊核協議的後續走向。
-
----
-
-### 2026-06-10 23:50:50  #焦點 #國際
-
-特朗普談伊朗：今日將再次對其實施嚴厲打擊。
-
----
-
-### 2026-06-10 23:50:37  #市場 #焦點
-
-現貨黃金失守4110美元/盎司，日內跌3.51%。
-
----
-
-### 2026-06-10 23:50:26  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude oil futures jumped 3.00% intraday to $90.89 a barrel.
-
----
-
-### 2026-06-10 23:50:24  #MKT News #Important #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-U.S. President Trump said he hopes to reach a meaningful agreement with Iran.
-
----
-
-### 2026-06-10 23:50:14  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI and Brent crude climbed more than $1 intraday, rising roughly 2% on the day to trade at $90.78/bbl and $92.77/bbl, respectively.
-
----
-
-### 2026-06-10 23:49:55  #國際
-
-特朗普：希望與伊朗達成一項有意義的協議。
-
----
-
-### 2026-06-10 23:49:38  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Trump says Iran fired on a US helicopter.
-
----
-
-### 2026-06-10 23:49:21  #MKT News #Market Themes #The Trump Trade
-
-TRUMP said Iran should sign the agreement and called it a good deal.
-
----
-
-### 2026-06-10 23:49:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Natural Gas Prices Edge Up — US natural gas prices edged up to $3.19 per MMBtu, supported by forecasts for above-normal temperatures in the second half of June, which are expected to boost cooling demand. However, prices remain below the recent highs seen earlier in the month. According to LSEG, average gas production in the US Lower 48 has eased to 108.8 billion cubic feet per day in June, down from 109.7 bcfd in May. While the decline in output has helped narrow the storage surplus, inventories remain about 5% above the five-year seasonal average, pointing to broadly comfortable supply conditions heading into the summer. Meanwhile, net flows to major LNG export terminals have fallen to 16.3 bcfd so far in June from 17.1 bcfd in May, as seasonal maintenance at facilities including Golden Pass and Freeport LNG in Texas continues to weigh on export volumes.
-
----
-
-### 2026-06-10 23:49:16  #國際
-
-特朗普：伊朗向我們的直升機開火。
-
----
-
-### 2026-06-10 23:49:10  #國際
-
-特朗普談伊朗：我不知道他們在做什麼。
-
----
-
-### 2026-06-10 23:48:59  #國際
-
-特朗普：伊朗應該簽署這項協議，這是一項好協議。
-
----
-
-### 2026-06-10 23:48:54  #其他
-
-原油價格觸及日內高點，WTI原油價格接近每桶91美元。
-
----
-
-### 2026-06-10 23:48:34  #MKT News #Important
-
-President Trump said the US will carry out a powerful strike against Iran and asserted the US has the right to resume strikes against Iran.
-
----
-
-### 2026-06-10 23:48:21  #國際
-
-特朗普：我們有權恢復對伊朗的攻擊。
-
----
-
-### 2026-06-10 23:48:17  #市場 #焦點
-
-WTI原油突破91美元/桶，日內漲3.19%。
-
----
-
-### 2026-06-10 23:48:12  #市場
-
-WTI原油日內漲3%，現報90.85美元/桶。
-
----
-
-### 2026-06-10 23:47:58  #焦點 #國際
-
-特朗普：將對伊朗發起猛烈攻擊。
-
----
-
-### 2026-06-10 23:47:46  #宏觀 #國際
-
-美國國務院批准擬向韓國對外軍售AIM-120C-8先進中程空對空導彈，交易預估金額2.92億美元。
-
----
-
-### 2026-06-10 23:46:23  #MKT News #Brent #Impact bullish #WTI
-
-RUSSIAN CENBANK said economic activity recovered in April–May after a Q1 GDP contraction, supported by demand for Russian exports.
-
----
-
-### 2026-06-10 23:46:06  #其他
-
-OpenAI正準備於本月釋出一款代號為5.6的新型人工智慧模型。
-
----
-
-### 2026-06-10 23:45:21  #央行 #國際
-
-俄羅斯央行：第一季度GDP收縮後，4-5月經濟活動在俄羅斯出口需求的支撐下回升。
-
----
-
-### 2026-06-10 23:44:24  #公司 #焦點
-
-OpenAI執行長奧特曼告知員工，OpenAI準備“很快”推出一項以當前股價進行的要約收購，該股價為每股687.69美元。
-
----
-
-### 2026-06-10 23:42:51  #公司 #國際
-
-【比爾·蓋茨就愛潑斯坦案調查在國會作證】微軟公司創始人比爾·蓋茨10日出席美國國會眾議院監督委員會的閉門聽證會，就已故美國富商傑弗裡·愛潑斯坦一案作證。蓋茨在抵達國會大廈時對記者說：“我很高興自願來這裡作證，幫助委員會的工作。我希望我的證詞能對委員會的重要工作有所幫助，為受害者伸張正義。”眾議院監督委員會表示，此次聽證會是錄音聽證，不會進行錄影，委員會將在數日後釋出相關記錄。（新華社）
-
----
-
-### 2026-06-10 23:42:07  #公司
-
-【孫成任珠海交通控股集團黨委書記、董事長】6月10日，珠海交通控股集團有限公司召開幹部大會。會上宣佈市委決定：孫成同志任珠海交通控股集團有限公司黨委書記、董事長。
-
----
-
-### 2026-06-10 23:39:15  #國際
-
-【以色列總統：黎巴嫩應擺脫真主黨和伊朗影響】以色列總統赫爾佐格10日表示，希望以色列與黎巴嫩實現和平，但黎方有責任擺脫黎巴嫩真主黨和伊朗的影響。赫爾佐格當天視察以色列北部邊境地區期間透過社交媒體釋出影片講話。他說，黎巴嫩真主黨違反黎以停火協議，以方“不能接受針對本國公民的襲擊、越境襲擊以及任何恐怖襲擊”。他同時表示，只要沒有能夠保障以色列安全的明確安排，以黎雙方就難以進一步改善關係。近期在美國斡旋下，以色列和黎巴嫩就邊界安全等問題舉行直接接觸和談判，但雙方圍繞真主黨武裝問題及停火安排仍存在較大分歧。（新華社）
-
----
-
-### 2026-06-10 23:38:23  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish
-
-European equity benchmarks closed mixed on Wednesday, June 10: Germany's DAX 30 fell 217.10 points (-0.89%) to 24,200.97; the UK's FTSE 100 rose 22.61 points (+0.22%) to 10,249.94; France's CAC 40 fell 41.60 points (-0.51%) to 8,161.83; the Euro Stoxx 50 fell 35.18 points (-0.58%) to 6,014.56; Spain's IBEX 35 fell 47.63 points (-0.26%) to 18,139.07; Italy's FTSE MIB fell 252.26 points (-0.50%) to 50,010.50.
-
----
-
-### 2026-06-10 23:38:21  #公司 #焦點
-
-【OpenAI籌備全新人工智慧模型，預計一年內啟動上市】OpenAI執行長奧特曼於週一向員工透露，公司預計一年內完成上市。他稱，諸多因素會導致上市時間在此區間內提前或延後，而當下提交相關檔案，能為儘早上市保留選擇空間。公司另一位高管也透露，OpenAI正準備推出一款全新人工智慧模型。
 
 ---
