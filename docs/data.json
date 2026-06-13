@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-14 05:20:57",
-  "count": 18454,
+  "updated": "2026-06-14 05:44:44",
+  "count": 18452,
   "items": [
+    {
+      "id": "4934046",
+      "time": "2026-06-14 05:43:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國：斯塔默、高市早苗將於週日會見商界領袖。"
+    },
+    {
+      "id": "4934045",
+      "time": "2026-06-14 05:41:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國：日英新投資協議將帶來超過180億英鎊的經濟增長。"
+    },
+    {
+      "id": "mkt:019ec2ee-76d6-7dd8-afee-436821b7417c",
+      "time": "2026-06-14 05:41:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran official says Strait of Hormuz would resume unrestricted commercial transit if understanding reached】Deputy chairman of Iran’s Supreme National Security Council Nabavian said on the 13th that, based on the text of a memorandum of understanding between Iran and the US he reviewed, all commercial vessels in the Strait of Hormuz would be allowed to transit without restriction."
+    },
+    {
+      "id": "4934044",
+      "time": "2026-06-14 05:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國和日本有望達成新的技術合作協議，技術合作將涵蓋人工智慧、量子計算。"
+    },
+    {
+      "id": "4934043",
+      "time": "2026-06-14 05:36:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達、科威特外長希望美伊協議儘快簽署。"
+    },
+    {
+      "id": "mkt:019ec2e1-e1a4-7dd8-afee-3e1c215cf6a2",
+      "time": "2026-06-14 05:27:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli forces raid multiple villages in Nablus area】Israeli forces raided several villages and towns in the northern occupied West Bank around Nablus, including Beita and Awarta, local sources reported."
+    },
     {
       "id": "4934042",
       "time": "2026-06-14 05:14:01",
@@ -169583,75 +169634,6 @@
         "其他"
       ],
       "text": "阿拉斯加航空首席財務官表示，在重啟業績指引之前，燃油價格需要實現更大程度的穩定。"
-    },
-    {
-      "id": "4921462",
-      "time": "2026-06-07 05:40:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "OpenAI等機構提議美國參與人工智慧相關股權分配，該人工智慧方案擬設立一支新型主權財富類基金。"
-    },
-    {
-      "id": "4921461",
-      "time": "2026-06-07 05:38:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：受貿易緊張局勢影響，加拿大總理卡尼調整國防採購方向、轉向歐洲市場，並積極拓展非美國市場。"
-    },
-    {
-      "id": "mkt:019e9ed6-d4ff-7665-8314-f88a80d1a8e0",
-      "time": "2026-06-07 05:28:59",
-      "tags": [
-        "MKT News",
-        "BA.O"
-      ],
-      "text": "Boeing's services executives said they are seeking to cut costs by improving efficiency through data analytics."
-    },
-    {
-      "id": "mkt:019e9ed6-c073-7665-8314-f7c92b95eb08",
-      "time": "2026-06-07 05:28:54",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bearish"
-      ],
-      "text": "A senior executive at Boeing's services unit said cockpit-window supply is below expectations and could delay aircraft deliveries."
-    },
-    {
-      "id": "mkt:019e9ed6-aae4-7665-8314-ea5151acb4ae",
-      "time": "2026-06-07 05:28:48",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "A Boeing services executive said flight hours across most regions continue to show moderate-to-healthy growth."
-    },
-    {
-      "id": "4921460",
-      "time": "2026-06-07 05:27:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音服務部門高管表示，由於運用了分析技術，公司正尋求透過提升效率來削減成本。"
-    },
-    {
-      "id": "4921459",
-      "time": "2026-06-07 05:27:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音服務部門高管表示，多數地區的飛行小時數仍保持溫和至良好增長。"
-    },
-    {
-      "id": "4921458",
-      "time": "2026-06-07 05:27:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音服務部門高管表示，駕駛艙風擋供應目前低於預期水平，可能導致交付延誤。"
     }
   ]
 }
