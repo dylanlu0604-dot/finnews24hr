@@ -1,7 +1,94 @@
 {
-  "updated": "2026-06-14 01:56:30",
-  "count": 18477,
+  "updated": "2026-06-14 02:17:39",
+  "count": 18474,
   "items": [
+    {
+      "id": "4934000",
+      "time": "2026-06-14 02:15:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度總理莫迪啟程出訪法國與斯洛伐克，隨後將出席七國集團峰會。"
+    },
+    {
+      "id": "4933999",
+      "time": "2026-06-14 02:14:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨公佈畫面，顯示使用伊朗358型巡飛防空導彈擊落一架以色列蒼鷺1型察打一體無人機。"
+    },
+    {
+      "id": "mkt:019ec231-050c-7dd8-afed-7fbe6d7d7e9d",
+      "time": "2026-06-14 02:14:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior Israeli official told Israel's Channel 12 that Trump's Iran deal is 'a terrible deal.'"
+    },
+    {
+      "id": "4933998",
+      "time": "2026-06-14 02:12:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列一名高階官員就特朗普的伊朗相關協議表態：這是一份糟糕的協議。"
+    },
+    {
+      "id": "4933997",
+      "time": "2026-06-14 02:12:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士：美伊備忘錄選擇線上簽署的主要原因之一是美方談判團隊負責人萬斯無法在特朗普週一上午啟程前往法國出席七國集團峰會前趕回美國。"
+    },
+    {
+      "id": "4933996",
+      "time": "2026-06-14 02:11:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部長接到巴基斯坦外交部長的電話，討論了最新事態發展。"
+    },
+    {
+      "id": "mkt:019ec22e-b56c-7dd8-afed-76a739640d2c",
+      "time": "2026-06-14 02:11:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi and Pakistani foreign ministers held a phone call to exchange views on regional developments and related response efforts."
+    },
+    {
+      "id": "mkt:019ec22e-8264-7dd8-afed-6f6e29dbef25",
+      "time": "2026-06-14 02:11:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister spoke by phone with Pakistan's foreign minister to discuss recent developments."
+    },
+    {
+      "id": "mkt:019ec22d-fb13-7dd8-afed-652f7406712c",
+      "time": "2026-06-14 02:10:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Lebanon's National News Agency (NNA) reported Israeli forces bombed the town of Blat in the Marjayoun area of southern Lebanon."
+    },
+    {
+      "id": "4933995",
+      "time": "2026-06-14 02:10:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗四家銀行（國家銀行、商業銀行、出口銀行、出口發展銀行）遭遇小規模網路攻擊。 相關部門表示，客戶資料未被訪問或洩露，系統已得到管控，目前正在開展修復工作。"
+    },
     {
       "id": "mkt:019ec21b-ae50-7dd8-afed-5bb4c39fe0e8",
       "time": "2026-06-14 01:50:54",
@@ -169752,120 +169839,6 @@
         "Brent"
       ],
       "text": "TASNIM NEWS reports sounds of explosions on Kharg Island were caused by a controlled detonation of munitions."
-    },
-    {
-      "id": "4921397",
-      "time": "2026-06-07 02:16:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社表示，哈爾克島聽到的爆炸聲與受控彈藥銷燬爆破有關。"
-    },
-    {
-      "id": "mkt:019e9e24-8377-7665-8314-164090925da4",
-      "time": "2026-06-07 02:14:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Fars news agency reported explosions were heard near Kharg Island."
-    },
-    {
-      "id": "4921396",
-      "time": "2026-06-07 02:14:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：烏克蘭特別軍事行動的結果對華盛頓已變得清楚。"
-    },
-    {
-      "id": "4921395",
-      "time": "2026-06-07 02:13:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴勒斯坦官方機構：以方5月在約旦河西岸實施超1600起襲擊】巴勒斯坦官方機構“巴勒斯坦隔離牆和定居點抵抗委員會”6月6日釋出月度報告稱，今年5月份，以色列軍隊和以色列猶太人定居者在約旦河西岸共實施1659起襲擊事件。巴方表示，襲擊呈系統性升級趨勢，嚴重影響當地居民生活和農業生產。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e9e24-2b81-7665-8314-0aaa4e827a0f",
-      "time": "2026-06-07 02:13:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Global oil inventories at risky lows; another price spike could hit markets and economy】With no agreement restoring passage through the Strait of Hormuz, global oil inventories have fallen to dangerously low levels. JP Morgan warns that unless transit is normalized, oil could surge again in late June. U.S. crude stocks have declined for eight straight weeks to their lowest since Feb 2024. Analysts say the second-round price shock risk stems from the depletion of buffer stocks rather than a formal closure; investors see the Strait as a persistent geopolitical bottleneck and expect prices to remain above $70 even if tensions ease. Higher oil is a modest headwind for U.S. growth but poses greater inflationary risk for Europe and Asia; if crude averaged $120/bbl for a year, growth in the U.S. could slow by roughly 0.4 percentage point."
-    },
-    {
-      "id": "4921394",
-      "time": "2026-06-07 02:13:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社稱，哈格島附近聽到爆炸聲。"
-    },
-    {
-      "id": "4921393",
-      "time": "2026-06-07 02:12:03",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "谷歌為安卓系統推出AI虛假來電檢測功能，應對日益增多的電信詐騙。"
-    },
-    {
-      "id": "4921392",
-      "time": "2026-06-07 02:11:51",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "微軟警告稱，Claude Code 存在漏洞，可能導致GitHub賬號憑證洩露。"
-    },
-    {
-      "id": "4921391",
-      "time": "2026-06-07 02:07:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨襲擊了黎巴嫩南部納巴蒂耶省亞穆爾·沙基夫鎮附近的一輛以色列軍用車輛。"
-    },
-    {
-      "id": "mkt:019e9e1e-3299-7665-8314-0352fa06075f",
-      "time": "2026-06-07 02:07:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HEZBOLLAH attacked an Israeli military target near the town of Yakhmour Shakif in Nabatieh, southern Lebanon."
-    },
-    {
-      "id": "mkt:019e9e19-f81c-7665-8313-fc6b98224deb",
-      "time": "2026-06-07 02:02:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's state news agency QNA reported Qatar attended a Gulf Cooperation Council (GCC) labor ministers' coordination meeting."
-    },
-    {
-      "id": "4921390",
-      "time": "2026-06-07 02:01:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 十年之後，巴拉克·侯賽因·奧巴馬圖書館將全面落成並正式投入使用。"
-    },
-    {
-      "id": "4921389",
-      "time": "2026-06-07 01:58:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普聲稱，伊朗還剩下22%的導彈。"
     }
   ]
 }
