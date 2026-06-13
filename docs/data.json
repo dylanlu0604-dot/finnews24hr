@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-13 17:43:48",
-  "count": 18361,
+  "updated": "2026-06-13 17:47:51",
+  "count": 18359,
   "items": [
+    {
+      "id": "4933771",
+      "time": "2026-06-13 17:46:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克稱，隨著美伊和平談判取得進展，波蘭準備停止燃油補貼。這些補貼計劃原定持續到6月底，預計每月耗資16億茲羅提（約合4.36億美元）。"
+    },
     {
       "id": "mkt:019ec05d-14e8-7dd8-afe9-c14e42f1a1e4",
       "time": "2026-06-13 17:43:06",
@@ -168808,33 +168816,6 @@
         "MKT News"
       ],
       "text": "Israel Defense Forces (IDF) said preliminary reports indicate air-raid sirens warning of suspected enemy aircraft infiltration sounded in the Even Menachem and Shomera areas."
-    },
-    {
-      "id": "mkt:019e9c54-a59a-7665-8312-031f52ce47ca",
-      "time": "2026-06-06 17:47:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath cited sources saying Iran has requested a three-month negotiation period to discuss details of nuclear documents."
-    },
-    {
-      "id": "mkt:019e9c53-c741-7665-8311-fa0ffd59ecf8",
-      "time": "2026-06-06 17:46:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution"
-      ],
-      "text": "【Wuxi to prioritize AIDC, Token frontiers; compile tiered project lists and set up promotion mechanisms】Wuxi municipal party secretary Du Xiaogang chaired a city meeting on June 6 on integrated circuits (AI) industry development. The city directed concentrated project support across design, manufacturing, packaging & testing, and equipment and materials, prioritizing frontier tracks including AIDC and Token. Officials will compile tiered, categorized project lists, establish formal promotion mechanisms, and intensify regular monitoring, linked services and targeted support for key and benchmark projects. Wuxi will deepen coordination with listed companies, industry leaders, research institutes and investment firms to align with industry trends and accelerate deployment of quality incremental projects."
-    },
-    {
-      "id": "4921235",
-      "time": "2026-06-06 17:44:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【無錫：聚焦AIDC、Token等前沿賽道 分層分類梳理專案清單、建立推進機制】據無錫日報訊息，6月6日，無錫市委書記杜小剛主持召開全市積體電路（人工智慧）產業發展專題推進會。會議強調，要夯實專案支撐。緊盯設計、製造、封測和裝備材料等重點環節，聚焦AIDC、Token等前沿賽道，分層分類梳理專案清單、建立推進機制，強化對重點專案特別是標杆專案的常態排程、掛鉤服務、精準支援。同時，密切與上市公司、龍頭企業、科研院所、投資機構等對接，把握行業趨勢、精準切入賽道，共同落地更多優質增量專案。"
     }
   ]
 }
