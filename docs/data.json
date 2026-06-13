@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-13 15:04:49",
-  "count": 18373,
+  "updated": "2026-06-13 15:08:54",
+  "count": 18372,
   "items": [
+    {
+      "id": "4933710",
+      "time": "2026-06-13 15:08:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) ：福特汽車在美國召回 4,445 輛汽車，涉及部分 2017 款 F-150 皮卡，這些車輛此前曾因召回編號 17V053 的問題而進行過不當維修。在寒冷環境下首次啟動車輛後，儀表盤可能會斷電。包括變速箱檔位指示器在內的多個儀表可能無法點亮。儀表盤若無法顯示關鍵安全資訊（例如檔位或警告燈），會增加碰撞或受傷的風險。"
+    },
+    {
+      "id": "mkt:019ebfcf-1821-7dd8-afe8-c69a035927c4",
+      "time": "2026-06-13 15:08:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Al Jazeera reported Israel carried out a second airstrike on the town of Mahmudiyeh in the Jezzine district of southern Lebanon."
+    },
+    {
+      "id": "4933709",
+      "time": "2026-06-13 15:04:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【近六成美國人認為到2050年美國重要性將減弱】美國皮尤研究中心12日釋出的一項民意調查顯示，在美國獨立250週年之際，美國民眾普遍情緒悲觀，約58%受訪者認為到2050年美國在全球的重要性將減弱。這項民調結果顯示，多數美國人對美國在2050年前的發展前景持消極看法：其中三分之二的受訪者認為美國政治將愈加分裂，56%認為美國的居住環境將更加危險，55%預判美國經濟將走弱，54%擔心美國政府系統執行將惡化。（新華社）"
+    },
     {
       "id": "4933708",
       "time": "2026-06-13 14:58:11",
@@ -168966,44 +168995,6 @@
         "XAUUSD"
       ],
       "text": "Russia's Rosneft CEO Sechin warned that if the Strait of Hormuz is closed, other global shipping lanes such as Bab el-Mandeb and the Strait of Gibraltar could also face disruption."
-    },
-    {
-      "id": "4921178",
-      "time": "2026-06-06 15:08:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯石油公司執行長謝欽警告稱，霍爾木茲海峽關閉後，馬六甲海峽、曼德海峽、直布羅陀海峽等其他全球航道也可能面臨通航中斷的威脅。"
-    },
-    {
-      "id": "mkt:019e9bc2-2b47-7665-8310-82a3ee403698",
-      "time": "2026-06-06 15:07:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Local authorities said oil and gas facilities in Russia's Krasnodar region caught fire after drone debris caused a blaze."
-    },
-    {
-      "id": "4921177",
-      "time": "2026-06-06 15:07:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯克拉斯諾達爾地區一石油設施因無人機殘骸引發火災。"
-    },
-    {
-      "id": "mkt:019e9bc1-7f31-7665-8310-7b7e58359476",
-      "time": "2026-06-06 15:06:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wu Qing: Firmly curb sector betting, style drift and high-priced issuance】CSRC chairman Wu Qing said on June 6 at the China Securities Investment Fund Association meeting that publicly offered funds must strengthen alignment of interests and implement new regulatory and reform requirements across corporate governance, product issuance, investment operations and performance evaluation. He urged funds to improve investment robustness and adopt more countercyclical thinking to deliver sustainable medium- to long-term returns, and warned the industry must be prevented from resorting to sector/strategy betting, style drift and issuance at elevated prices, and must not return to chasing scale and quick profits."
     }
   ]
 }
