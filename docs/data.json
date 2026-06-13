@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-13 22:10:10",
-  "count": 18419,
+  "updated": "2026-06-13 22:14:19",
+  "count": 18420,
   "items": [
+    {
+      "id": "mkt:019ec154-7774-7dd8-afeb-7644614513b1",
+      "time": "2026-06-13 22:13:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Media: Iranian delegation to visit Pakistan on 14th】Iranian delegation, including the foreign minister, will visit Pakistan on the 14th, foreign media report."
+    },
+    {
+      "id": "4933888",
+      "time": "2026-06-13 22:12:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗代表團將於14日訪問巴基斯坦】據外媒報道，包括伊朗外交部長在內的伊朗代表團將於14日訪問巴基斯坦。（新華社）"
+    },
+    {
+      "id": "4933887",
+      "time": "2026-06-13 22:10:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨：用火箭彈襲擊了以色列敵軍在黎巴嫩南部馬龍拉斯鎮的一個軍營。"
+    },
     {
       "id": "mkt:019ec14d-226f-7dd8-afeb-6e965046f1e3",
       "time": "2026-06-13 22:05:18",
@@ -169349,27 +169374,6 @@
         "MKT News"
       ],
       "text": "【Han Zheng meets Belarusian Prime Minister Turchin】June 6, 2026, Minsk — Chinese Vice President Han Zheng met Belarusian Prime Minister Turchin. Han said Belarus is an all‑weather comprehensive strategic partner and China will continue to support Belarus in safeguarding its sovereignty, security and development interests. The sides agreed to prioritize high‑quality Belt and Road cooperation, strengthen the China‑Belarus intergovernmental cooperation committee, and push forward the China‑Belarus Industrial Park and other key projects. China also signalled support for Belarus taking a larger role in multilateral forums and pledged closer coordination in international organisations."
-    },
-    {
-      "id": "mkt:019e9d47-96f8-7665-8313-11bb69218901",
-      "time": "2026-06-06 22:12:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "【Israel military says investigating strike on Lebanese army vehicle】Israel Defense Forces (IDF) said on the 6th it struck a Lebanese Armed Forces (LAF) vehicle in southern Lebanon and is investigating. The IDF said it detected a \"suspicious vehicle\" approaching its troops in the Taibnit area, which it described as an \"active combat zone,\" and had intelligence Hezbollah planned to fire from that area. Citing that intelligence and a perceived threat to soldiers, the IDF struck the vehicle. Preliminary checks found two LAF officers and one soldier inside; the investigation is ongoing. The IDF said its operational target was Hezbollah, not the Lebanese army."
-    },
-    {
-      "id": "4921310",
-      "time": "2026-06-06 22:11:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "布蘭奇：很榮幸特朗普邀請我擔任常任司法部長。"
     }
   ]
 }
