@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 04:05:34_
-_本檔包含 3758 則快訊，約 667219 字_
+_更新時間：2026-06-14 04:41:17_
+_本檔包含 3769 則快訊，約 667119 字_
+
+---
+
+### 2026-06-08 20:38:31  #國際
+
+印度航空：印度航空與泰國航空簽署諒解備忘錄，拓展泰國、印度及其他地區間的出行選擇。
+
+---
+
+### 2026-06-08 20:38:20  #國際
+
+伊朗官員：敵對國家的軍艦及作戰艦艇無權駛入和通行霍爾木茲海峽。”
+
+---
+
+### 2026-06-08 20:37:53  #國際
+
+市場訊息：歐洲推進數字主權，各國棄用美國軟體、雲服務及人工智慧產品，大型科技企業拆分程序加快。
+
+---
+
+### 2026-06-08 20:37:49  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #GLW.N #Impact bullish #AMZN.O
+
+Corning (GLW.N) shares rose 9% premarket after the company reached a collaboration agreement with Amazon (AMZN.O).
+
+---
+
+### 2026-06-08 20:37:32  #MKT News #Important
+
+HKO issued the first Black Rainstorm Warning of the year.
+
+---
+
+### 2026-06-08 20:37:28  #公司 #焦點
+
+【強生將以10億美元現金收購生物技術公司Firefly Bio】6月8日，強生公司發表宣告稱，已達成最終協議，將以10億美元現金收購生物技術公司Firefly Bio。該交易尚需獲得監管批准，預計於今年晚些時候完成。
+
+---
+
+### 2026-06-08 20:37:14  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #GLW.O #Impact bullish #AMZN.O
+
+Amazon (AMZN.O) said it reached an agreement with Corning Inc. (GLW) to expand U.S. optical-fiber manufacturing and create 1,000 advanced manufacturing jobs in North Carolina.
+
+---
+
+### 2026-06-08 20:36:38  #公司 #市場
+
+康寧股價盤前上漲9%，此前亞馬遜宣佈達成協議。
+
+---
+
+### 2026-06-08 20:36:28  #焦點 #國際
+
+訊息人士稱，俄羅斯計劃在6月份將西部港口的石油出口環比削減三分之一，因煉油廠計劃提高生產。
+
+---
+
+### 2026-06-08 20:36:15  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Sources say Russia plans to cut oil exports from western ports by one-third MoM in June as refineries plan to boost processing.
+
+---
+
+### 2026-06-08 20:36:12  #其他
+
+香港天文臺釋出黑色暴雨警告。
+
+---
+
+### 2026-06-08 20:35:55  #公司
+
+【機構：私募信貸實際表現與媒體報道相反，機構投資者仍有信心】Arcmont的執行長Anthony Fobel表示，儘管散戶受到驚嚇，但機構投資者對私募信貸仍有信心，因為投資組合中的違約率依然處於低位。Fobel表示，行業有理由思考，是否應當為了一個“本質上屬於流動性較差的資產類別”去追逐散戶投資者。他說，雖然這已引發一波贖回請求，但行業整體情緒要強於近期新聞報道所呈現的景象。
+
+---
+
+### 2026-06-08 20:35:25  #公司
+
+亞馬遜：透過該協議，公司將與康寧合作推出新專案，以擴大其光纖技術人員培訓計劃。
+
+---
+
+### 2026-06-08 20:35:20  #央行 #國際
+
+【德國復興信貸銀行：在歐元區經濟料將保持疲軟之際，歐洲央行無需發出加息訊號】德國復興信貸銀行首席經濟學家Dirk Schumacher表示，未來幾個月經濟的急劇放緩將替歐洲央行完成其工作，並使進一步加息變得沒有必要。他說，事實上，本週不會有進一步收緊貨幣政策的明確訊號。Schumacher說，歐洲央行行長克里斯蒂娜·拉加德而是可能強調需要進一步的資料，以獲得對未來路徑的清晰認識。他補充說，此次加息實際上是為了向金融市場以及企業和家庭發出一個訊號，即歐洲央行正在密切關注通脹趨勢。預計該行將加息25個基點。
+
+---
+
+### 2026-06-08 20:34:18  #國際
+
+洲際交易所：歐洲證券和市場管理局依據歐盟基準監管規則認可ICE資料指數資質。
+
+---
+
+### 2026-06-08 20:34:10  #公司 #國際
+
+亞馬遜宣佈與康寧達成協議，以擴大美國光纖製造產能，將在北卡羅來納州創造1000個高階製造業崗位。
+
+---
+
+### 2026-06-08 20:33:58  #其他
+
+【旺宏5月營收達62.56億新臺幣 環比增長5.8%】儲存廠旺宏5月營收達62.56億新臺幣，同比增長175.8%，環比增長5.8%，連續兩個月重新整理歷史新高紀錄；累計1-5月營收226.37億新臺幣，同比增長111%。（科創板日報）
+
+---
+
+### 2026-06-08 20:33:54  #國際
+
+以色列國防軍：有三枚發射物射向在黎巴嫩南部行動的以軍士兵，沒有火箭彈進入以色列境內；暫無人員傷亡報告。
+
+---
+
+### 2026-06-08 20:33:49  #MKT News
+
+Israel Defense Forces said three projectiles were fired at Israeli troops operating in southern Lebanon; no rockets entered Israeli territory and no casualties have been reported.
+
+---
+
+### 2026-06-08 20:33:36  #市場
+
+羅素2000股指期貨上漲1.5%。
+
+---
+
+### 2026-06-08 20:33:13  #公司 #市場
+
+【稀有金屬ETF富國：6月9日在深交所上市交易】稀有金屬ETF富國公告稱，本基金於2026年6月9日在深圳證券交易所上市交易，場內簡稱“稀有金屬ETF 富國”，程式碼為159055，上市首日以基金份額參考淨值0.970元為開盤參考價。截至6月8日，投資於標的指數成份股和備選成份股的資產比例為基金資產淨值的99.17%，投資組合比例符合規定和約定。投資者可電話或登入網站諮詢。基金投資有風險，投資者應自行負擔投資風險。
+
+---
+
+### 2026-06-08 20:33:03  #國際
+
+【美以領導人不到24小時兩次通話】綜合美國媒體和以色列媒體的訊息，美國總統特朗普與以色列總理內塔尼亞胡今天（6月8日）再次通話。這是兩人在不到24小時內的第二次通話。 據以色列第12頻道電視臺報道，一名以色列高階官員表示，應特朗普的要求，以色列已暫停對伊朗的軍事打擊——“但未來幾天，以軍將在黎巴嫩南部繼續實施高強度軍事行動。而如果再遭到黎巴嫩真主黨的襲擊，以色列將再次把打擊範圍擴大至貝魯特南郊”。（CCTV國際時訊）
+
+---
+
+### 2026-06-08 20:32:32  #公司
+
+【*ST西旅：收到債務人四川有色第一次破產財產分配款295.70萬元】*ST西旅公告稱，公司債務人四川有色新材料科技股份有限公司2024年3月被申請破產清算，公司對其賬面應收款餘額5546.67萬元，經稽核最終確認債權總額6291.45萬元，已累計計提4704.10萬元壞賬準備。近期，公司收到管理人傳送的分配公告，供應鏈管理分公司本次可參與第一次分配款項295.70萬元，截至公告日已全額收到。本次分配對公司利潤的具體影響以會計師審計結果為準。
+
+---
+
+### 2026-06-08 20:32:27  #公司
+
+【鼎龍股份：擬3000萬元擴建潛江CMP軟拋光墊生產線】鼎龍股份公告稱，旗下湖北鼎龍匯盛新材料有限公司擬近期啟動潛江園區第三條軟拋光墊生產線建設專案，重點佈局玻璃基板CMP拋光墊與大尺寸拋光墊兩大高階產品方向，規劃年產能30萬片，專案總投資3000萬元，預計2026年年底建成投產。該專案投資未達審議標準，不構成關聯交易和重大資產重組。此次投資將豐富產品矩陣，提升競爭力，但存在市場、經營和實施風險。
+
+---
+
+### 2026-06-08 20:32:23  #市場
+
+【杭州首個eVTOL整機總部落戶蕭山】據蕭山釋出，日前，國內混動傾轉旋翼eVTOL（電動垂直起降飛行器）企業追夢空天科技總部專案正式簽約落戶蕭山經濟技術開發區。這是杭州首個eVTOL整機總部專案。此次落戶的追夢空天總部園區專案，將重點打造生產製造、試飛交付、立體出行樞紐起降三大核心場景，並聚焦兩大核心主力機型——載人旗艦機型DF3000與載貨主力機型DF600，構建覆蓋研發、測試、適航審定、智慧製造、市場銷售、專業培訓、整機交付的全鏈條、閉環式產業體系。
+
+---
+
+### 2026-06-08 20:31:52  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
+
+Nasdaq-100 futures extend gains to 1.5%.
+
+---
+
+### 2026-06-08 20:31:47  #國際
+
+市場訊息：印度航空與泰國國際航空擬簽署程式碼共享協議。
+
+---
+
+### 2026-06-08 20:31:37  #MKT News #Market Regions #Emerging Markets
+
+Chile's international reserves totaled $52.2 billion in May.
+
+---
+
+### 2026-06-08 20:31:33  #MKT News #Market Regions #Emerging Markets
+
+Chile posted a US$2.435 bln trade surplus in May; exports fell to US$9.54 bln and imports to US$7.11 bln.
+
+---
+
+### 2026-06-08 20:31:29  #其他
+
+智利5月份錄得24.35億美元的貿易順差。5月出口額降至95.4億美元，進口額降至71.1億美元。
 
 ---
 
@@ -22516,119 +22696,5 @@ Sources said the United States will use mechanisms to provide Iranian assets to 
 ### 2026-06-07 04:42:42  #公司 #國際
 
 市場資訊：美國先鋒集團釋出報告稱，受財務壓力加劇影響，2025年有6%的401(k)計劃參與者辦理了困難支取。
-
----
-
-### 2026-06-07 04:40:44  #其他
-
-英國首相斯塔默將削減各政府部門資本開支，計劃削減60億英鎊支出，用以增加國防經費。
-
----
-
-### 2026-06-07 04:37:43  #MKT News #LUV.O #Impact mixed
-
-【Southwest Airlines COO: studying lounges, transoceanic routes and premium seats】Southwest Airlines COO said the carrier’s lounge concept is the most developed new product but has no launch timetable. He expects the Boeing 737 MAX 7 to enter commercial service in 2027, about six months after certification. Southwest aims to equip 300 aircraft with Starlink by year-end, though rollout depends on Starlink capacity; the airline has not ruled out adding Amazon LEO Wi‑Fi later. He acknowledged activist Elliott Management’s criticism that Southwest’s transformation has been slow. He said higher interest rates are advantageous for Southwest because competitors are more heavily indebted, and that the move to assigned seating removed a key barrier for customers who previously avoided the airline.
-
----
-
-### 2026-06-07 04:36:57  #公司 #國際
-
-美國西南航空公司營運長表示，指定選座制度消除了原本不願選擇西南航空出行的乘客的一大主要顧慮。
-
----
-
-### 2026-06-07 04:36:32  #公司 #國際
-
-美國西南航空公司營運長表示，目標是在年底前完成300架配備星鏈裝置飛機的改裝，不過改裝進度取決於星鏈的產能。
-
----
-
-### 2026-06-07 04:36:18  #公司 #國際
-
-美國西南航空公司營運長表示，加息環境對西南航空有利，因為競爭對手揹負的債務更多。
-
----
-
-### 2026-06-07 04:36:09  #國際
-
-美國西南航空營運長表示，維權投資者埃利奧特此前指出該航企變革步伐過於遲緩的觀點是正確的。
-
----
-
-### 2026-06-07 04:36:00  #國際
-
-美國西南航空營運長表示，休息室是新產品構想中推程序度最深的專案，但目前尚未確定推出時間表。
-
----
-
-### 2026-06-07 04:35:57  #公司 #國際
-
-美國西南航空高管表示，該航司雖已啟用星鏈服務，但並未排除選用亞馬遜低地球軌道衛星Wi-Fi服務的可能。
-
----
-
-### 2026-06-07 04:35:46  #公司 #國際
-
-美國西南航空營運長表示，該航空公司正認真研究開設貴賓休息室、開通跨洋航線以及增加高階座位配置。
-
----
-
-### 2026-06-07 04:34:27  #國際
-
-美國國家颶風中心（NHC）表示，“阿曼達”已減弱為熱帶低壓。
-
----
-
-### 2026-06-07 04:34:10  #MKT News
-
-NHC says Amanda has weakened to a tropical depression.
-
----
-
-### 2026-06-07 04:32:34  #公司
-
-達美航空總裁在里約接受採訪時表示，公司暫無參與行業整合的計劃，同時稱高階出行需求依舊強勁。
-
----
-
-### 2026-06-07 04:30:05  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【100 days since US-Israel-Iran conflict began】June 7 marks the 100th day since the US-Israel-Iran conflict began. The confrontation started on Feb. 28 with large-scale US and Israeli strikes on Iran and Iranian retaliation; intense fighting ran about 40 days. A temporary ceasefire followed and the US and Iran held an initial round of talks in Pakistan under Pakistani mediation, but a second round remains delayed amid persistent negotiating disputes and mutual distrust. Israeli escalation in Lebanon and recurring US‑Iran military friction around the Strait of Hormuz have disrupted talks and left prospects for a durable settlement unclear.
-
----
-
-### 2026-06-07 04:23:45  #公司 #國際
-
-美國銀行維持英偉達買入評級，在與公司管理層溝通後，將目標價定為350美元。
-
----
-
-### 2026-06-07 04:23:03  #國際
-
-【美以伊戰爭爆發100天】今天（6月7日），是美以伊戰爭爆發第100天。自今年2月28日美國和以色列大規模空襲伊朗、伊朗展開反擊開始，激烈的軍事衝突持續了40天。儘管隨後臨時停火協議達成，美國與伊朗在巴基斯坦的斡旋下舉行了首輪談判，但截至目前，第二輪談判遲遲未能舉行。據在伊朗的總檯記者觀察，當前伊美之間圍繞談判分歧仍存，且雙方之間始終缺乏互信。而以色列升級黎巴嫩局勢、攪局談判，以及伊美之間圍繞霍爾木茲海峽的軍事摩擦頻繁發生，都使和平前景愈發不明朗。接下來美以伊是實現真正的和平，還是會爆發新一輪衝突？都是未知數。（CCTV國際時訊）
-
----
-
-### 2026-06-07 04:17:49  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-【ECB set to raise rates 25bp next week, leading G7 response to Iran-war inflation】With the Iran war fuelling global inflation, the ECB is expected to raise policy rates by 25bp next week, making it the first major G7 central bank to tighten. Markets price at least one further hike this year. By contrast, the BOC may hold, and the Fed and BoE are seen likely to remain on hold this month as they assess the conflict’s impact. ECB officials say the move aims to prevent inflation becoming entrenched, but further tightening will weigh on an already-weak euro-area economy. ECB President Lagarde may signal next steps at the post-decision press conference. The ECB will publish quarterly economic projections that model alternative energy-shock scenarios.
-
----
-
-### 2026-06-07 04:17:35  #國際
-
-沙烏地阿拉伯譴責以色列持續對黎巴嫩發動襲擊。
-
----
-
-### 2026-06-07 04:17:23  #公司
-
-捷藍航空執行長在里約舉行的國際航空運輸協會年會上表態，對於行業整合一事，一切皆有可能。
-
----
-
-### 2026-06-07 04:14:12  #國際
-
-以色列摩薩德一名前高層官員透露，以色列曾制定一份多階段行動計劃，該計劃原本有望推翻伊朗現政權。但在美國決定結束戰事之後，這份方案在收尾階段被叫停。 他稱計劃的部分環節已付諸實施，並期待後續階段最終能獲批推進。
 
 ---

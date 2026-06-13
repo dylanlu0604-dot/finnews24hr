@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-14 04:05:34_
-_本檔包含 3663 則快訊，約 666717 字_
+_更新時間：2026-06-14 04:41:17_
+_本檔包含 3627 則快訊，約 666919 字_
+
+---
+
+### 2026-06-12 09:06:40  #公司
+
+【集泰股份：浸沒式液冷相關材料仍處於驗證階段 尚未實現規模化生產】集泰股份6月11日在機構調研時表示，公司重點佈局浸沒式液冷相關材料，主要面向高功率、高熱流密度場景的應用需求。目前相關產品仍處於從實驗室到商業化應用前的關鍵驗證階段，尚未實現規模化生產，對公司整體業績暫無影響。
+
+---
+
+### 2026-06-12 09:06:13  #MKT News #Important #Commodities #Industrial Metals
+
+Polysilicon 2609 futures strengthened intraday, extending gains to 5% as the price climbed to 38,465 yuan/ton; turnover was about 2.944 billion yuan and trading remained active.
+
+---
+
+### 2026-06-12 09:05:57  #市場 #焦點
+
+液化石油氣連續主力合約日內跌4%，現報5440.00元。
+
+---
+
+### 2026-06-12 09:05:56  #MKT News #Market Regions #Greater China
+
+【Cyberspace Administration of China issues self-discipline convention to curb enterprise-related infringing information】Under guidance from the Cyberspace Administration of China (CAC), major websites and platforms have jointly issued the Convention on Remediating Enterprise-Related Infringing Information and Optimizing the Business Network Environment. The convention requires platforms to promptly remove information that infringes entrepreneurs’ personal rights, proactively delete verified false enterprise-related information, tighten management of enterprise-related topics and rankings, and continuously adjust recommendation algorithms to prevent algorithmic promotion of negative enterprise content. It mandates strict controls on illegal profiteering, revocation of monetization rights for accounts that repeatedly publish negative enterprise content, and tougher sanctions and account-handling measures. CAC said the measure aims to strengthen industry self-discipline and governance, protect enterprises’ and entrepreneurs’ online lawful rights, and that it will step up guidance and supervision to ensure implementation.
+
+---
+
+### 2026-06-12 09:05:19  #市場 #焦點
+
+多晶矽連續主力合約日內漲5%，現報38465.00元。
+
+---
+
+### 2026-06-12 09:04:44  #其他
+
+【《整治涉企侵權資訊 最佳化營商網路環境自律公約》全文釋出】近期，在國家網信辦指導下，重點網站平臺共同制定《整治涉企侵權資訊 最佳化營商網路環境自律公約》。《公約》明確網站平臺要及時清理侵犯企業家個人權益資訊，主動清除已核實的涉企虛假不實資訊，加強榜單涉企話題管理，持續最佳化演算法推薦機制，杜絕涉企負面資訊“投流”行為，從嚴管理非法牟利行為，取消經常性發布涉企負面資訊“自媒體”賬號營利許可權，加強涉事賬號處置力度。國家網信辦有關負責人表示，該《公約》的制定釋出，有利於凝聚行業共識，強化行業自律，加強涉企侵權資訊治理，進一步最佳化營商網路環境，保護企業和企業家網路合法權益。下一步，將加強對網站平臺的指導督促，紮實推動《公約》落地見效。（網信中國）
+
+---
+
+### 2026-06-12 09:04:06  #公司
+
+【津渡生科完成近億元A輪融資】6月12日，深圳津渡生物醫學科技有限公司宣佈完成A輪融資，本輪融資由高特佳投資領投，近億元資金將主要用於深化物理AI（Physics-AI）底層架構研發、BioFord Agent具身自主科研平臺的迭代升級及全球市場佈局拓展。
+
+---
+
+### 2026-06-12 09:03:56  #市場 #央行 #國際
+
+【光大期貨：黃金大反彈，階段性修復已至？】地緣政治方面，再出現戲劇性反轉，特朗普此前在社交媒體宣佈將“非常猛烈”攻擊伊朗，但僅過去約五小時再次TACO，特朗普稱取消打擊伊朗計劃，協議已基本定稿，或週末在歐洲簽署。美伊談判和霍爾木茲海峽問題遲遲難以緩解，高油價導致的通脹影響再蔓延，利率抬升預期導致金價不斷承壓。但當前來看雖然談判不斷出現反覆性，但整體談判解決問題的方向未變。另外，利率抬升預期也導致美股出現波動性，這或推動美聯儲政策表述上不會異常鷹派，因此要注意在議息會議前後黃金是否再次表現為“買預期、賣事實”的異常波動。（光大期貨）
+
+---
+
+### 2026-06-12 09:03:39  #市場 #焦點
+
+現貨黃金失守4190美元/盎司，日內跌0.52%。
+
+---
+
+### 2026-06-12 09:03:36  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Holds Near 7-Week Low — US heating oil prices fell below $3.50 per gallon, remaining close to a seven-week low as markets assessed evolving developments in the Middle East. President Donald Trump said a peace deal with Iran could be signed as early as the weekend and cancelled planned airstrikes following talks with Tehran. This comes despite his earlier threats to seize Kharg Island and take control of Iran’s oil and gas markets, while hostilities between the US and Iran escalated earlier in the week. The lack of concrete agreements kept energy markets fluctuating and heightened concerns over prolonged supply disruptions. The Strait of Hormuz has remained largely restricted since March, accounting for about one-fifth of global oil flows. Meanwhile, EIA data showed distillate stocks, including diesel and heating oil, rose by 0.2 million barrels in the first week of June, compared with expectations for a 0.5 million barrel draw.
 
 ---
 
@@ -21822,281 +21882,5 @@ Al Jazeera, citing sources, reports clashes between Iranian and U.S. forces cont
 ### 2026-06-11 06:13:07  #國際
 
 【美防長在美古關係緊張之際訪問古巴關塔那摩美軍基地 】美國國防部長赫格塞思10日在美古關係緊張之際訪問了位於古巴關塔那摩的美海軍基地，並稱美國防部將做好準備以應對“任何可能發生的突發事態”。據美國防部在社交媒體釋出的訊息，赫格塞思稱，其此行旨在確保該基地“具備履行任務所需的一切條件”。他在會見美軍士兵時還稱，“古巴的未來掌握在美國總統和古巴領導層手中”。美國防部發布的影片中，赫格塞思稱，如果古巴試圖獲取能夠打擊關塔那摩美海軍基地或美國本土的武器，將是“極不明智”的舉動，這可能引發古巴“既不希望看到、也無力承受”的對抗。（新華社）
-
----
-
-### 2026-06-11 06:12:50  #國際
-
-【伊朗導彈無人機襲擊美軍艦】據伊朗邁赫爾通訊社當地時間今天（6月11日）凌晨報道，伊朗與美軍在海上發生衝突。據伊朗官媒報道，初步報告顯示霍爾木茲海峽附近的美國軍艦遭伊朗導彈與無人機打擊。（CCTV國際時訊 ）
-
----
-
-### 2026-06-11 06:11:54  #市場
-
-紐約期銀日內跌3%，現報62.79美元/盎司。
-
----
-
-### 2026-06-11 06:11:54  #其他
-
-【微軟旗下的Xbox計劃進行大規模裁員】知情人士透露，微軟預計將在6月30日財年結束後不久進行裁員，具體規模尚不清楚。他們還表示，Xbox也計劃大幅削減市場營銷和其他一些業務領域的預算。
-
----
-
-### 2026-06-11 06:11:48  #MKT News
-
-WTI crude topped $93/barrel, up 0.35% intraday.
-
----
-
-### 2026-06-11 06:11:14  #市場
-
-現貨白銀日內跌1%，現報62.69美元/盎司。
-
----
-
-### 2026-06-11 06:10:21  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell 1.00% in early trade to $62.74/oz.
-
----
-
-### 2026-06-11 06:07:37  #MKT News
-
-Iranian media reported that U.S. vessels near the Strait of Hormuz have been targeted by missile and drone strikes by the Iranian armed forces.
-
----
-
-### 2026-06-11 06:07:26  #國際
-
-伊朗方面訊息：伊朗武裝部隊動用導彈和無人機，對霍爾木茲海峽附近的美軍艦船發起襲擊。
-
----
-
-### 2026-06-11 06:06:48  #市場 #焦點
-
-紐約期金失守4080美元/盎司，日內跌1.31%。
-
----
-
-### 2026-06-11 06:06:00  #市場
-
-鈀金期貨日內跌1%，現報1225.50美元/盎司。
-
----
-
-### 2026-06-11 06:05:26  #國際
-
-伊朗方面訊息：漢扎拉駭客組織稱，漢扎拉網路司令部與伊斯蘭革命衛隊聯合作戰指揮部，將在數分鐘內發起協同、果斷且具有毀滅性的反擊。
-
----
-
-### 2026-06-11 06:03:45  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,060/oz, down 0.26% on the day.
-
----
-
-### 2026-06-11 06:03:29  #市場 #焦點
-
-現貨黃金失守4060美元/盎司，日內跌0.29%。
-
----
-
-### 2026-06-11 06:03:27  #國際
-
-【美伊發生海上衝突】據伊朗邁赫爾通訊社當地時間今天（6月11日）凌晨最新報道，伊朗與美軍在海上發生衝突。（CCTV國際時訊）
-
----
-
-### 2026-06-11 06:02:34  #市場
-
-【國際油價10日上漲】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲1.83美元，收於每桶90.03美元，漲幅為2.07%；8月交貨的倫敦布倫特原油期貨價格上漲1.65美元，收於每桶93.10美元，漲幅為1.8%。
-
----
-
-### 2026-06-11 06:01:56  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude opened slightly higher on Thursday as U.S. forces are carrying out strikes on Iran.
-
----
-
-### 2026-06-11 06:00:57  #市場
-
-紐約期金日內跌1%，現報4091.95美元/盎司。
-
----
-
-### 2026-06-11 06:00:24  #MKT News
-
-Iranian state TV reported a cruise missile was intercepted in Asaluyeh, Bushehr province in southern Iran.
-
----
-
-### 2026-06-11 06:00:10  #Trading Economics #Markets #commodity #Importance 0
-
-Copper is down by 2.2% — Copper decreased 2.2% to 6.1641 USD/Lbs
-
----
-
-### 2026-06-11 06:00:07  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為89.1%，累計加息25個基點的機率9.5%，累計降息25個基點的機率為1.5%。
-
----
-
-### 2026-06-11 06:00:02  #市場
-
-WTI原油日內漲2%，現報92.17美元/桶。
-
----
-
-### 2026-06-11 06:00:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-IRNA reports multiple explosions heard near Iran's Bandar Abbas airport and an adjacent air force base.
-
----
-
-### 2026-06-11 05:59:51  #國際
-
-據伊朗伊斯蘭共和國通訊社（IRNA）： 阿巴斯港機場及空軍基地附近傳出多聲爆炸。
-
----
-
-### 2026-06-11 05:59:08  #焦點 #國際
-
-伊朗邁赫爾通訊社報道，伊朗與美方部隊在海上發生交火。
-
----
-
-### 2026-06-11 05:58:50  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Iran and U.S. forces clashed at sea, Iran's Mehr news agency reported.
-
----
-
-### 2026-06-11 05:54:01  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Axios, citing a U.S. official, said all struck targets were in southern Iran, including air-defence systems, radars and unmanned aerial vehicle command-and-control units.
-
----
-
-### 2026-06-11 05:53:54  #焦點 #國際
-
-據Axios援引美國官員訊息：遭打擊的目標均位於伊朗南部，包括防空系統、雷達以及無人機指揮控制單位。
-
----
-
-### 2026-06-11 05:53:32  #其他
-
-【葉門亞丁東南部一軍營附近傳出連續爆炸聲】當地時間10日午夜至11日凌晨之間，位於葉門臨時首都亞丁東南部的索爾班軍營附近傳出連續爆炸聲。據接近現場的知情人士稱，發生爆炸的地點疑似是“巨人旅”彈藥庫，爆炸造成人員傷亡。目前，具體情況尚不明確。（央視新聞）
-
----
-
-### 2026-06-11 05:51:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Press TV reports a site in the Sirik area was struck by enemy artillery fire.
-
----
-
-### 2026-06-11 05:51:22  #國際
-
-伊朗Press TV：錫裡克一處地點遭到敵方彈體襲擊。
-
----
-
-### 2026-06-11 05:50:11  #MKT News
-
-Mehr News Agency reports multiple explosions heard at Gorgan port in Iran.
-
----
-
-### 2026-06-11 05:50:10  #國際
-
-伊朗邁赫爾通訊社：戈爾甘港境內傳出數起爆炸聲。
-
----
-
-### 2026-06-11 05:49:32  #國際
-
-以色列方面訊息：“防禦系統正防備伊朗向以色列發動襲擊” 。
-
----
-
-### 2026-06-11 05:49:08  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Israeli media report Israel's defense systems are preparing for the possibility of Iranian missile launches.
-
----
-
-### 2026-06-11 05:47:40  #MKT News #Brent #Impact bullish #XAUUSD
-
-IRNA said explosions on Iran's Qeshm and Hengam islands were caused by military-grade artillery shells.
-
----
-
-### 2026-06-11 05:47:26  #國際
-
-伊朗伊斯蘭共和國通訊社稱，格什姆島與亨加姆島發生的爆炸系彈藥擊中所致，相關襲擊均針對軍事目標。
-
----
-
-### 2026-06-11 05:46:45  #國際
-
-有報道稱，伊朗阿薩盧耶的南帕爾斯天然氣田綜合體一處石化設施遭到襲擊。
-
----
-
-### 2026-06-11 05:46:03  #國際
-
-據Politico：特朗普將不會出席美國“世界盃”揭幕賽。
-
----
-
-### 2026-06-11 05:45:29  #MKT News
-
-Politico reports Trump will not attend the US World Cup opening match.
-
----
-
-### 2026-06-11 05:43:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Bushehr in southern Iran was attacked.
-
----
-
-### 2026-06-11 05:42:52  #焦點 #國際
-
-據半島電視臺：以色列已對伊朗發動打擊。
-
----
-
-### 2026-06-11 05:42:49  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Al Jazeera reports Israel has launched strikes against Iran.
-
----
-
-### 2026-06-11 05:41:33  #MKT News
-
-Iranian state TV reports explosions heard at Abbas port.
-
----
-
-### 2026-06-11 05:41:18  #國際
-
-【美軍開始空襲伊朗】美軍中央司令部稱，美軍開始對伊朗境內多個目標展開所謂“自衛打擊”。（CCTV國際時訊）
-
----
-
-### 2026-06-11 05:41:00  #市場 #焦點
-
-布倫特原油突破95美元/桶，日內漲3.88%。
-
----
-
-### 2026-06-11 05:38:03  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-CENTCOM said it began additional self-defense strikes against multiple targets inside Iran at 5:15 p.m. ET today, saying the strikes were in response to Iran’s unprovoked and sustained acts of aggression.
 
 ---

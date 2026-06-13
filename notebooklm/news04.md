@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 04:05:34_
-_本檔包含 3674 則快訊，約 667169 字_
+_更新時間：2026-06-14 04:41:17_
+_本檔包含 3674 則快訊，約 667283 字_
+
+---
+
+### 2026-06-10 00:39:51  #市場 #焦點
+
+道指跌1.03%，現報50261.430點；納指跌3.55%，現報25008.261點；標普500指數跌2.13%，現報7247.980點。
+
+---
+
+### 2026-06-10 00:39:38  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish
+
+The Dow Jones Industrial Average fell as much as 1%.
+
+---
+
+### 2026-06-10 00:39:32  #市場 #焦點
+
+現貨黃金失守4240美元/盎司，日內跌2.11%。
+
+---
+
+### 2026-06-10 00:39:22  #市場
+
+現貨黃金日內跌2%，現報4240.12美元/盎司。
+
+---
+
+### 2026-06-10 00:39:15  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot silver dropped 5% intraday to $64.71/oz. New York gold futures fell 2% intraday to $4,276.10/oz. Spot gold slipped below $4,250/oz, down nearly 2% on the day.
+
+---
+
+### 2026-06-10 00:39:08  #市場
+
+現貨白銀日內跌5%，現報64.69美元/盎司。
+
+---
+
+### 2026-06-10 00:39:01  #市場
+
+富時中國A50指數期貨下跌1%。
+
+---
+
+### 2026-06-10 00:39:00  #焦點 #國際
+
+特朗普：美國將對伊朗擊落直升機事件作出回應。
+
+---
+
+### 2026-06-10 00:38:49  #焦點 #國際
+
+特朗普：伊朗方面昨晚擊落了我方一架直升機。
+
+---
+
+### 2026-06-10 00:38:45  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish
+
+S&P 500 fell more than 2% intraday.
+
+---
+
+### 2026-06-10 00:38:31  #市場 #焦點
+
+標普500指數跌2.01%，現報7256.780點；道指跌0.92%，現報50320.430點；納指跌3.35%，現報25060.305點。
+
+---
+
+### 2026-06-10 00:38:25  #市場 #焦點
+
+現貨黃金失守4250美元/盎司，日內跌1.85%。
+
+---
+
+### 2026-06-10 00:38:25  #Trading Economics #Markets #commodity #Importance 0
+
+Solar Energy Index Hits 4-week Low — Solar Energy Index decreased to 59.76 USD, the lowest since May 2026. Over the past 4 weeks, Solar Energy Index lost 6.08%, and in the last 12 months, it increased 75.36%.
+
+---
+
+### 2026-06-10 00:38:16  #MKT News
+
+Iranian parliament speaker Ghalibaf said he prefers resolving disputes through diplomacy but warned that if counterparts fail to honor commitments Iran will respond by other means it considers most effective.
+
+---
+
+### 2026-06-10 00:38:15  #市場 #焦點
+
+紐約期金失守4270美元/盎司，日內跌2.16%。
+
+---
+
+### 2026-06-10 00:38:13  #市場 #焦點
+
+紐約期銀失守65美元/盎司，日內跌5.24%。
+
+---
+
+### 2026-06-10 00:38:11  #市場
+
+紐約期金日內跌2%，現報4274.76美元/盎司。
+
+---
+
+### 2026-06-10 00:35:52  #Trading Economics #Markets #United States #stocks #Importance 1
+
+ProLogis Stock Price Hits 4-year High — ProLogis shares increased to 147.93 USD, the highest since May 2022. Over the past 4 weeks, ProLogis gained 2.48%, and in the last 12 months, it increased 34.85%.
+
+---
+
+### 2026-06-10 00:35:30  #國際
+
+伊朗議會議長卡利巴夫： 我們更傾向於以外交方式溝通，但我們也深諳其他應對手段。若你們背棄承諾，我們便會拿出最擅長的方式予以回應。
+
+---
+
+### 2026-06-10 00:35:20  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
+
+VIX hit its highest level since April 7, rising 2.72 points to 21.64.
+
+---
+
+### 2026-06-10 00:34:50  #國際
+
+伊朗伊斯蘭共和國廣播電視臺（IRIB）： 以色列對黎巴嫩南部的庫夫拉、賽吉德及賈布希特三座城鎮發動空襲。
+
+---
+
+### 2026-06-10 00:33:08  #其他
+
+墨西哥基建夥伴房地產投資信託基金（Fibra E）釋出宣告，其後續證券發行募資 43 億比索。
+
+---
+
+### 2026-06-10 00:31:53  #公司
+
+星巴克CEO：公司海外門店數量有望實現翻倍。
+
+---
+
+### 2026-06-10 00:31:49  #MKT News #MS.N
+
+Morgan Stanley (MS.N) CEO Ted Pick said the firm will closely monitor M&A activity in the industry.
+
+---
+
+### 2026-06-10 00:31:00  #MKT News #MS.N
+
+MORGAN STANLEY (MS.N) CEO Ted Pick said banking-sector M&A is challenging and the firm wants to ensure it makes the right decisions.
+
+---
+
+### 2026-06-10 00:30:08  #公司 #觀點
+
+摩根士丹利 CEO：銀行業併購難度不小，我們力求穩妥推進。
+
+---
+
+### 2026-06-10 00:28:42  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Edges Higher Ahead of ECB Decision — The FTSE MIB climbed 0.1% to close at 50,263, supported by gains in heavyweight financial stocks as markets looked ahead to the European Central Bank’s policy decision later this week. The ECB is widely expected to deliver a 25-basis-point rate cut, while investors are focused on guidance for clues about the future path of monetary policy. Risk sentiment also improved as oil prices eased amid hopes for de-escalation in the Middle East. BPER (+2.9%), Mediobanca (+3%), MPS (+2.6%), and Unipol (+4.7%) led gains in the financial sector. Utilities and luxury stocks also advanced, with Enel up 1.4% and Ferrari adding 0.9%. In contrast, Eni fell 1.6% on lower oil prices, while STMicroelectronics lost 5.9% as investors took profits following the recent rally in global technology shares.
+
+---
+
+### 2026-06-10 00:28:34  #市場
+
+秘魯索爾兌美元漲超3%。
+
+---
+
+### 2026-06-10 00:27:04  #MKT News #Market Regions #Europe & UK
+
+【Bulgaria to stop military aid to Ukraine, defense minister says】In Sofia on June 9, Bulgaria’s defense minister Stoianov said Bulgaria will halt military assistance to Ukraine, arguing the Russia-Ukraine conflict cannot be resolved on the battlefield and requires negotiation. Bulgaria has delivered 13 arms shipments to Ukraine since 2022; Stoianov said policy changed after the Radev government took office this year.
+
+---
+
+### 2026-06-10 00:26:36  #國際
+
+【保加利亞防長稱將停止對烏克蘭軍事援助】當地時間6月9日，保加利亞國防部長斯托亞諾夫在索菲亞表示，保加利亞將停止對烏克蘭的軍事援助。他認為，俄烏衝突無法在戰場上解決，現在俄烏雙方需要透過談判尋求和平。自2022年俄烏衝突爆發以來，保加利亞已向烏克蘭提供了13批武器援助。但今年拉德夫政府上臺後，對烏政策發生了轉變。（央視新聞）
 
 ---
 
@@ -21953,185 +22133,5 @@ Oppenheimer raised its PT for Oracle (ORCL.N) to $275 from $235.
 ### 2026-06-08 20:38:57  #宏觀
 
 【國家郵政局：深入整治“內卷式”競爭，指導企業規範內部考核機制】6月8日，國家郵政局召開黨組會議，會議強調，要充分認清做好行業安全穩定工作的重要性，統籌好發展和安全，將安全穩定工作要求貫穿快遞市場監管、安全監管全過程。要聚焦重點領域，全面排查化解各類風險，深入整治“內卷式”競爭，指導企業規範內部考核機制。要壓實各方責任，督促總部規範經營管理，從源頭化解矛盾糾紛。要持續強化行業執行監測和指揮排程，健全全鏈條風險防控閉環機制，推動解決具體問題，營造規範有序、穩定健康的行業發展生態。
-
----
-
-### 2026-06-08 20:38:31  #國際
-
-印度航空：印度航空與泰國航空簽署諒解備忘錄，拓展泰國、印度及其他地區間的出行選擇。
-
----
-
-### 2026-06-08 20:38:20  #國際
-
-伊朗官員：敵對國家的軍艦及作戰艦艇無權駛入和通行霍爾木茲海峽。”
-
----
-
-### 2026-06-08 20:37:53  #國際
-
-市場訊息：歐洲推進數字主權，各國棄用美國軟體、雲服務及人工智慧產品，大型科技企業拆分程序加快。
-
----
-
-### 2026-06-08 20:37:49  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #GLW.N #Impact bullish #AMZN.O
-
-Corning (GLW.N) shares rose 9% premarket after the company reached a collaboration agreement with Amazon (AMZN.O).
-
----
-
-### 2026-06-08 20:37:32  #MKT News #Important
-
-HKO issued the first Black Rainstorm Warning of the year.
-
----
-
-### 2026-06-08 20:37:28  #公司 #焦點
-
-【強生將以10億美元現金收購生物技術公司Firefly Bio】6月8日，強生公司發表宣告稱，已達成最終協議，將以10億美元現金收購生物技術公司Firefly Bio。該交易尚需獲得監管批准，預計於今年晚些時候完成。
-
----
-
-### 2026-06-08 20:37:14  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #GLW.O #Impact bullish #AMZN.O
-
-Amazon (AMZN.O) said it reached an agreement with Corning Inc. (GLW) to expand U.S. optical-fiber manufacturing and create 1,000 advanced manufacturing jobs in North Carolina.
-
----
-
-### 2026-06-08 20:36:38  #公司 #市場
-
-康寧股價盤前上漲9%，此前亞馬遜宣佈達成協議。
-
----
-
-### 2026-06-08 20:36:28  #焦點 #國際
-
-訊息人士稱，俄羅斯計劃在6月份將西部港口的石油出口環比削減三分之一，因煉油廠計劃提高生產。
-
----
-
-### 2026-06-08 20:36:15  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Sources say Russia plans to cut oil exports from western ports by one-third MoM in June as refineries plan to boost processing.
-
----
-
-### 2026-06-08 20:36:12  #其他
-
-香港天文臺釋出黑色暴雨警告。
-
----
-
-### 2026-06-08 20:35:55  #公司
-
-【機構：私募信貸實際表現與媒體報道相反，機構投資者仍有信心】Arcmont的執行長Anthony Fobel表示，儘管散戶受到驚嚇，但機構投資者對私募信貸仍有信心，因為投資組合中的違約率依然處於低位。Fobel表示，行業有理由思考，是否應當為了一個“本質上屬於流動性較差的資產類別”去追逐散戶投資者。他說，雖然這已引發一波贖回請求，但行業整體情緒要強於近期新聞報道所呈現的景象。
-
----
-
-### 2026-06-08 20:35:25  #公司
-
-亞馬遜：透過該協議，公司將與康寧合作推出新專案，以擴大其光纖技術人員培訓計劃。
-
----
-
-### 2026-06-08 20:35:20  #央行 #國際
-
-【德國復興信貸銀行：在歐元區經濟料將保持疲軟之際，歐洲央行無需發出加息訊號】德國復興信貸銀行首席經濟學家Dirk Schumacher表示，未來幾個月經濟的急劇放緩將替歐洲央行完成其工作，並使進一步加息變得沒有必要。他說，事實上，本週不會有進一步收緊貨幣政策的明確訊號。Schumacher說，歐洲央行行長克里斯蒂娜·拉加德而是可能強調需要進一步的資料，以獲得對未來路徑的清晰認識。他補充說，此次加息實際上是為了向金融市場以及企業和家庭發出一個訊號，即歐洲央行正在密切關注通脹趨勢。預計該行將加息25個基點。
-
----
-
-### 2026-06-08 20:34:18  #國際
-
-洲際交易所：歐洲證券和市場管理局依據歐盟基準監管規則認可ICE資料指數資質。
-
----
-
-### 2026-06-08 20:34:10  #公司 #國際
-
-亞馬遜宣佈與康寧達成協議，以擴大美國光纖製造產能，將在北卡羅來納州創造1000個高階製造業崗位。
-
----
-
-### 2026-06-08 20:33:58  #其他
-
-【旺宏5月營收達62.56億新臺幣 環比增長5.8%】儲存廠旺宏5月營收達62.56億新臺幣，同比增長175.8%，環比增長5.8%，連續兩個月重新整理歷史新高紀錄；累計1-5月營收226.37億新臺幣，同比增長111%。（科創板日報）
-
----
-
-### 2026-06-08 20:33:54  #國際
-
-以色列國防軍：有三枚發射物射向在黎巴嫩南部行動的以軍士兵，沒有火箭彈進入以色列境內；暫無人員傷亡報告。
-
----
-
-### 2026-06-08 20:33:49  #MKT News
-
-Israel Defense Forces said three projectiles were fired at Israeli troops operating in southern Lebanon; no rockets entered Israeli territory and no casualties have been reported.
-
----
-
-### 2026-06-08 20:33:36  #市場
-
-羅素2000股指期貨上漲1.5%。
-
----
-
-### 2026-06-08 20:33:13  #公司 #市場
-
-【稀有金屬ETF富國：6月9日在深交所上市交易】稀有金屬ETF富國公告稱，本基金於2026年6月9日在深圳證券交易所上市交易，場內簡稱“稀有金屬ETF 富國”，程式碼為159055，上市首日以基金份額參考淨值0.970元為開盤參考價。截至6月8日，投資於標的指數成份股和備選成份股的資產比例為基金資產淨值的99.17%，投資組合比例符合規定和約定。投資者可電話或登入網站諮詢。基金投資有風險，投資者應自行負擔投資風險。
-
----
-
-### 2026-06-08 20:33:03  #國際
-
-【美以領導人不到24小時兩次通話】綜合美國媒體和以色列媒體的訊息，美國總統特朗普與以色列總理內塔尼亞胡今天（6月8日）再次通話。這是兩人在不到24小時內的第二次通話。 據以色列第12頻道電視臺報道，一名以色列高階官員表示，應特朗普的要求，以色列已暫停對伊朗的軍事打擊——“但未來幾天，以軍將在黎巴嫩南部繼續實施高強度軍事行動。而如果再遭到黎巴嫩真主黨的襲擊，以色列將再次把打擊範圍擴大至貝魯特南郊”。（CCTV國際時訊）
-
----
-
-### 2026-06-08 20:32:32  #公司
-
-【*ST西旅：收到債務人四川有色第一次破產財產分配款295.70萬元】*ST西旅公告稱，公司債務人四川有色新材料科技股份有限公司2024年3月被申請破產清算，公司對其賬面應收款餘額5546.67萬元，經稽核最終確認債權總額6291.45萬元，已累計計提4704.10萬元壞賬準備。近期，公司收到管理人傳送的分配公告，供應鏈管理分公司本次可參與第一次分配款項295.70萬元，截至公告日已全額收到。本次分配對公司利潤的具體影響以會計師審計結果為準。
-
----
-
-### 2026-06-08 20:32:27  #公司
-
-【鼎龍股份：擬3000萬元擴建潛江CMP軟拋光墊生產線】鼎龍股份公告稱，旗下湖北鼎龍匯盛新材料有限公司擬近期啟動潛江園區第三條軟拋光墊生產線建設專案，重點佈局玻璃基板CMP拋光墊與大尺寸拋光墊兩大高階產品方向，規劃年產能30萬片，專案總投資3000萬元，預計2026年年底建成投產。該專案投資未達審議標準，不構成關聯交易和重大資產重組。此次投資將豐富產品矩陣，提升競爭力，但存在市場、經營和實施風險。
-
----
-
-### 2026-06-08 20:32:23  #市場
-
-【杭州首個eVTOL整機總部落戶蕭山】據蕭山釋出，日前，國內混動傾轉旋翼eVTOL（電動垂直起降飛行器）企業追夢空天科技總部專案正式簽約落戶蕭山經濟技術開發區。這是杭州首個eVTOL整機總部專案。此次落戶的追夢空天總部園區專案，將重點打造生產製造、試飛交付、立體出行樞紐起降三大核心場景，並聚焦兩大核心主力機型——載人旗艦機型DF3000與載貨主力機型DF600，構建覆蓋研發、測試、適航審定、智慧製造、市場銷售、專業培訓、整機交付的全鏈條、閉環式產業體系。
-
----
-
-### 2026-06-08 20:31:52  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
-
-Nasdaq-100 futures extend gains to 1.5%.
-
----
-
-### 2026-06-08 20:31:47  #國際
-
-市場訊息：印度航空與泰國國際航空擬簽署程式碼共享協議。
-
----
-
-### 2026-06-08 20:31:37  #MKT News #Market Regions #Emerging Markets
-
-Chile's international reserves totaled $52.2 billion in May.
-
----
-
-### 2026-06-08 20:31:33  #MKT News #Market Regions #Emerging Markets
-
-Chile posted a US$2.435 bln trade surplus in May; exports fell to US$9.54 bln and imports to US$7.11 bln.
-
----
-
-### 2026-06-08 20:31:29  #其他
-
-智利5月份錄得24.35億美元的貿易順差。5月出口額降至95.4億美元，進口額降至71.1億美元。
 
 ---

@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 04:05:34_
-_本檔包含 3707 則快訊，約 667318 字_
+_更新時間：2026-06-14 04:41:17_
+_本檔包含 3723 則快訊，約 667139 字_
+
+---
+
+### 2026-06-11 06:12:50  #國際
+
+【伊朗導彈無人機襲擊美軍艦】據伊朗邁赫爾通訊社當地時間今天（6月11日）凌晨報道，伊朗與美軍在海上發生衝突。據伊朗官媒報道，初步報告顯示霍爾木茲海峽附近的美國軍艦遭伊朗導彈與無人機打擊。（CCTV國際時訊 ）
+
+---
+
+### 2026-06-11 06:11:54  #市場
+
+紐約期銀日內跌3%，現報62.79美元/盎司。
+
+---
+
+### 2026-06-11 06:11:54  #其他
+
+【微軟旗下的Xbox計劃進行大規模裁員】知情人士透露，微軟預計將在6月30日財年結束後不久進行裁員，具體規模尚不清楚。他們還表示，Xbox也計劃大幅削減市場營銷和其他一些業務領域的預算。
+
+---
+
+### 2026-06-11 06:11:48  #MKT News
+
+WTI crude topped $93/barrel, up 0.35% intraday.
+
+---
+
+### 2026-06-11 06:11:14  #市場
+
+現貨白銀日內跌1%，現報62.69美元/盎司。
+
+---
+
+### 2026-06-11 06:10:21  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell 1.00% in early trade to $62.74/oz.
+
+---
+
+### 2026-06-11 06:07:37  #MKT News
+
+Iranian media reported that U.S. vessels near the Strait of Hormuz have been targeted by missile and drone strikes by the Iranian armed forces.
+
+---
+
+### 2026-06-11 06:07:26  #國際
+
+伊朗方面訊息：伊朗武裝部隊動用導彈和無人機，對霍爾木茲海峽附近的美軍艦船發起襲擊。
+
+---
+
+### 2026-06-11 06:06:48  #市場 #焦點
+
+紐約期金失守4080美元/盎司，日內跌1.31%。
+
+---
+
+### 2026-06-11 06:06:00  #市場
+
+鈀金期貨日內跌1%，現報1225.50美元/盎司。
+
+---
+
+### 2026-06-11 06:05:26  #國際
+
+伊朗方面訊息：漢扎拉駭客組織稱，漢扎拉網路司令部與伊斯蘭革命衛隊聯合作戰指揮部，將在數分鐘內發起協同、果斷且具有毀滅性的反擊。
+
+---
+
+### 2026-06-11 06:03:45  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped below $4,060/oz, down 0.26% on the day.
+
+---
+
+### 2026-06-11 06:03:29  #市場 #焦點
+
+現貨黃金失守4060美元/盎司，日內跌0.29%。
+
+---
+
+### 2026-06-11 06:03:27  #國際
+
+【美伊發生海上衝突】據伊朗邁赫爾通訊社當地時間今天（6月11日）凌晨最新報道，伊朗與美軍在海上發生衝突。（CCTV國際時訊）
+
+---
+
+### 2026-06-11 06:02:34  #市場
+
+【國際油價10日上漲】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲1.83美元，收於每桶90.03美元，漲幅為2.07%；8月交貨的倫敦布倫特原油期貨價格上漲1.65美元，收於每桶93.10美元，漲幅為1.8%。
+
+---
+
+### 2026-06-11 06:01:56  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude opened slightly higher on Thursday as U.S. forces are carrying out strikes on Iran.
+
+---
+
+### 2026-06-11 06:00:57  #市場
+
+紐約期金日內跌1%，現報4091.95美元/盎司。
+
+---
+
+### 2026-06-11 06:00:24  #MKT News
+
+Iranian state TV reported a cruise missile was intercepted in Asaluyeh, Bushehr province in southern Iran.
+
+---
+
+### 2026-06-11 06:00:10  #Trading Economics #Markets #commodity #Importance 0
+
+Copper is down by 2.2% — Copper decreased 2.2% to 6.1641 USD/Lbs
+
+---
+
+### 2026-06-11 06:00:07  #央行 #國際
+
+【美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為89.1%，累計加息25個基點的機率9.5%，累計降息25個基點的機率為1.5%。
+
+---
+
+### 2026-06-11 06:00:02  #市場
+
+WTI原油日內漲2%，現報92.17美元/桶。
+
+---
+
+### 2026-06-11 06:00:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+IRNA reports multiple explosions heard near Iran's Bandar Abbas airport and an adjacent air force base.
+
+---
+
+### 2026-06-11 05:59:51  #國際
+
+據伊朗伊斯蘭共和國通訊社（IRNA）： 阿巴斯港機場及空軍基地附近傳出多聲爆炸。
+
+---
+
+### 2026-06-11 05:59:08  #焦點 #國際
+
+伊朗邁赫爾通訊社報道，伊朗與美方部隊在海上發生交火。
+
+---
+
+### 2026-06-11 05:58:50  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iran and U.S. forces clashed at sea, Iran's Mehr news agency reported.
+
+---
+
+### 2026-06-11 05:54:01  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Axios, citing a U.S. official, said all struck targets were in southern Iran, including air-defence systems, radars and unmanned aerial vehicle command-and-control units.
+
+---
+
+### 2026-06-11 05:53:54  #焦點 #國際
+
+據Axios援引美國官員訊息：遭打擊的目標均位於伊朗南部，包括防空系統、雷達以及無人機指揮控制單位。
+
+---
+
+### 2026-06-11 05:53:32  #其他
+
+【葉門亞丁東南部一軍營附近傳出連續爆炸聲】當地時間10日午夜至11日凌晨之間，位於葉門臨時首都亞丁東南部的索爾班軍營附近傳出連續爆炸聲。據接近現場的知情人士稱，發生爆炸的地點疑似是“巨人旅”彈藥庫，爆炸造成人員傷亡。目前，具體情況尚不明確。（央視新聞）
+
+---
+
+### 2026-06-11 05:51:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Press TV reports a site in the Sirik area was struck by enemy artillery fire.
+
+---
+
+### 2026-06-11 05:51:22  #國際
+
+伊朗Press TV：錫裡克一處地點遭到敵方彈體襲擊。
+
+---
+
+### 2026-06-11 05:50:11  #MKT News
+
+Mehr News Agency reports multiple explosions heard at Gorgan port in Iran.
+
+---
+
+### 2026-06-11 05:50:10  #國際
+
+伊朗邁赫爾通訊社：戈爾甘港境內傳出數起爆炸聲。
+
+---
+
+### 2026-06-11 05:49:32  #國際
+
+以色列方面訊息：“防禦系統正防備伊朗向以色列發動襲擊” 。
+
+---
+
+### 2026-06-11 05:49:08  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Israeli media report Israel's defense systems are preparing for the possibility of Iranian missile launches.
+
+---
+
+### 2026-06-11 05:47:40  #MKT News #Brent #Impact bullish #XAUUSD
+
+IRNA said explosions on Iran's Qeshm and Hengam islands were caused by military-grade artillery shells.
+
+---
+
+### 2026-06-11 05:47:26  #國際
+
+伊朗伊斯蘭共和國通訊社稱，格什姆島與亨加姆島發生的爆炸系彈藥擊中所致，相關襲擊均針對軍事目標。
+
+---
+
+### 2026-06-11 05:46:45  #國際
+
+有報道稱，伊朗阿薩盧耶的南帕爾斯天然氣田綜合體一處石化設施遭到襲擊。
+
+---
+
+### 2026-06-11 05:46:03  #國際
+
+據Politico：特朗普將不會出席美國“世界盃”揭幕賽。
+
+---
+
+### 2026-06-11 05:45:29  #MKT News
+
+Politico reports Trump will not attend the US World Cup opening match.
+
+---
+
+### 2026-06-11 05:43:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Bushehr in southern Iran was attacked.
+
+---
+
+### 2026-06-11 05:42:52  #焦點 #國際
+
+據半島電視臺：以色列已對伊朗發動打擊。
+
+---
+
+### 2026-06-11 05:42:49  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Al Jazeera reports Israel has launched strikes against Iran.
+
+---
+
+### 2026-06-11 05:41:33  #MKT News
+
+Iranian state TV reports explosions heard at Abbas port.
+
+---
+
+### 2026-06-11 05:41:18  #國際
+
+【美軍開始空襲伊朗】美軍中央司令部稱，美軍開始對伊朗境內多個目標展開所謂“自衛打擊”。（CCTV國際時訊）
+
+---
+
+### 2026-06-11 05:41:00  #市場 #焦點
+
+布倫特原油突破95美元/桶，日內漲3.88%。
+
+---
+
+### 2026-06-11 05:38:03  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+CENTCOM said it began additional self-defense strikes against multiple targets inside Iran at 5:15 p.m. ET today, saying the strikes were in response to Iran’s unprovoked and sustained acts of aggression.
 
 ---
 
@@ -22153,185 +22429,5 @@ WTI and Brent crude rose about $3/bbl intraday after Trump said Iran shot down a
 ### 2026-06-10 00:40:14  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
 
 President Trump said Iran shot down a U.S. Apache helicopter in the Strait of Hormuz and the United States must respond.
-
----
-
-### 2026-06-10 00:39:51  #市場 #焦點
-
-道指跌1.03%，現報50261.430點；納指跌3.55%，現報25008.261點；標普500指數跌2.13%，現報7247.980點。
-
----
-
-### 2026-06-10 00:39:38  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish
-
-The Dow Jones Industrial Average fell as much as 1%.
-
----
-
-### 2026-06-10 00:39:32  #市場 #焦點
-
-現貨黃金失守4240美元/盎司，日內跌2.11%。
-
----
-
-### 2026-06-10 00:39:22  #市場
-
-現貨黃金日內跌2%，現報4240.12美元/盎司。
-
----
-
-### 2026-06-10 00:39:15  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot silver dropped 5% intraday to $64.71/oz. New York gold futures fell 2% intraday to $4,276.10/oz. Spot gold slipped below $4,250/oz, down nearly 2% on the day.
-
----
-
-### 2026-06-10 00:39:08  #市場
-
-現貨白銀日內跌5%，現報64.69美元/盎司。
-
----
-
-### 2026-06-10 00:39:01  #市場
-
-富時中國A50指數期貨下跌1%。
-
----
-
-### 2026-06-10 00:39:00  #焦點 #國際
-
-特朗普：美國將對伊朗擊落直升機事件作出回應。
-
----
-
-### 2026-06-10 00:38:49  #焦點 #國際
-
-特朗普：伊朗方面昨晚擊落了我方一架直升機。
-
----
-
-### 2026-06-10 00:38:45  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish
-
-S&P 500 fell more than 2% intraday.
-
----
-
-### 2026-06-10 00:38:31  #市場 #焦點
-
-標普500指數跌2.01%，現報7256.780點；道指跌0.92%，現報50320.430點；納指跌3.35%，現報25060.305點。
-
----
-
-### 2026-06-10 00:38:25  #市場 #焦點
-
-現貨黃金失守4250美元/盎司，日內跌1.85%。
-
----
-
-### 2026-06-10 00:38:25  #Trading Economics #Markets #commodity #Importance 0
-
-Solar Energy Index Hits 4-week Low — Solar Energy Index decreased to 59.76 USD, the lowest since May 2026. Over the past 4 weeks, Solar Energy Index lost 6.08%, and in the last 12 months, it increased 75.36%.
-
----
-
-### 2026-06-10 00:38:16  #MKT News
-
-Iranian parliament speaker Ghalibaf said he prefers resolving disputes through diplomacy but warned that if counterparts fail to honor commitments Iran will respond by other means it considers most effective.
-
----
-
-### 2026-06-10 00:38:15  #市場 #焦點
-
-紐約期金失守4270美元/盎司，日內跌2.16%。
-
----
-
-### 2026-06-10 00:38:13  #市場 #焦點
-
-紐約期銀失守65美元/盎司，日內跌5.24%。
-
----
-
-### 2026-06-10 00:38:11  #市場
-
-紐約期金日內跌2%，現報4274.76美元/盎司。
-
----
-
-### 2026-06-10 00:35:52  #Trading Economics #Markets #United States #stocks #Importance 1
-
-ProLogis Stock Price Hits 4-year High — ProLogis shares increased to 147.93 USD, the highest since May 2022. Over the past 4 weeks, ProLogis gained 2.48%, and in the last 12 months, it increased 34.85%.
-
----
-
-### 2026-06-10 00:35:30  #國際
-
-伊朗議會議長卡利巴夫： 我們更傾向於以外交方式溝通，但我們也深諳其他應對手段。若你們背棄承諾，我們便會拿出最擅長的方式予以回應。
-
----
-
-### 2026-06-10 00:35:20  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
-
-VIX hit its highest level since April 7, rising 2.72 points to 21.64.
-
----
-
-### 2026-06-10 00:34:50  #國際
-
-伊朗伊斯蘭共和國廣播電視臺（IRIB）： 以色列對黎巴嫩南部的庫夫拉、賽吉德及賈布希特三座城鎮發動空襲。
-
----
-
-### 2026-06-10 00:33:08  #其他
-
-墨西哥基建夥伴房地產投資信託基金（Fibra E）釋出宣告，其後續證券發行募資 43 億比索。
-
----
-
-### 2026-06-10 00:31:53  #公司
-
-星巴克CEO：公司海外門店數量有望實現翻倍。
-
----
-
-### 2026-06-10 00:31:49  #MKT News #MS.N
-
-Morgan Stanley (MS.N) CEO Ted Pick said the firm will closely monitor M&A activity in the industry.
-
----
-
-### 2026-06-10 00:31:00  #MKT News #MS.N
-
-MORGAN STANLEY (MS.N) CEO Ted Pick said banking-sector M&A is challenging and the firm wants to ensure it makes the right decisions.
-
----
-
-### 2026-06-10 00:30:08  #公司 #觀點
-
-摩根士丹利 CEO：銀行業併購難度不小，我們力求穩妥推進。
-
----
-
-### 2026-06-10 00:28:42  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Edges Higher Ahead of ECB Decision — The FTSE MIB climbed 0.1% to close at 50,263, supported by gains in heavyweight financial stocks as markets looked ahead to the European Central Bank’s policy decision later this week. The ECB is widely expected to deliver a 25-basis-point rate cut, while investors are focused on guidance for clues about the future path of monetary policy. Risk sentiment also improved as oil prices eased amid hopes for de-escalation in the Middle East. BPER (+2.9%), Mediobanca (+3%), MPS (+2.6%), and Unipol (+4.7%) led gains in the financial sector. Utilities and luxury stocks also advanced, with Enel up 1.4% and Ferrari adding 0.9%. In contrast, Eni fell 1.6% on lower oil prices, while STMicroelectronics lost 5.9% as investors took profits following the recent rally in global technology shares.
-
----
-
-### 2026-06-10 00:28:34  #市場
-
-秘魯索爾兌美元漲超3%。
-
----
-
-### 2026-06-10 00:27:04  #MKT News #Market Regions #Europe & UK
-
-【Bulgaria to stop military aid to Ukraine, defense minister says】In Sofia on June 9, Bulgaria’s defense minister Stoianov said Bulgaria will halt military assistance to Ukraine, arguing the Russia-Ukraine conflict cannot be resolved on the battlefield and requires negotiation. Bulgaria has delivered 13 arms shipments to Ukraine since 2022; Stoianov said policy changed after the Radev government took office this year.
-
----
-
-### 2026-06-10 00:26:36  #國際
-
-【保加利亞防長稱將停止對烏克蘭軍事援助】當地時間6月9日，保加利亞國防部長斯托亞諾夫在索菲亞表示，保加利亞將停止對烏克蘭的軍事援助。他認為，俄烏衝突無法在戰場上解決，現在俄烏雙方需要透過談判尋求和平。自2022年俄烏衝突爆發以來，保加利亞已向烏克蘭提供了13批武器援助。但今年拉德夫政府上臺後，對烏政策發生了轉變。（央視新聞）
 
 ---
