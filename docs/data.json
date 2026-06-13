@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-14 01:36:41",
-  "count": 18481,
+  "updated": "2026-06-14 01:40:44",
+  "count": 18480,
   "items": [
+    {
+      "id": "mkt:019ec20f-8f3f-7dd8-afed-4f07c0d41456",
+      "time": "2026-06-14 01:37:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israeli daily Yedioth Ahronoth reports Israel says it need not sign any agreement with Iran, retains the right to self‑defense, but any military action must be coordinated with the US."
+    },
     {
       "id": "4933989",
       "time": "2026-06-14 01:34:41",
@@ -169875,22 +169887,6 @@
         "國際"
       ],
       "text": "訊息人士：巴勒斯坦各派別在開羅舉行的會議，重點討論了武器相關議題。"
-    },
-    {
-      "id": "4921381",
-      "time": "2026-06-07 01:39:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "禮來製藥以德國醫療改革為由，將在德投資削減五成，並把資金轉向美國生產領域。"
-    },
-    {
-      "id": "mkt:019e9e04-cea4-7665-8313-d919f73a3a9f",
-      "time": "2026-06-07 01:39:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi television reported a Lebanese military source saying Lebanese officers are undergoing training in Pakistan, and that Lebanese Army commander Haikal will discuss the army’s military needs with Islamabad during his visit."
     }
   ]
 }
