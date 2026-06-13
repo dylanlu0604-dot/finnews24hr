@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-13 10:18:44",
-  "count": 18402,
+  "updated": "2026-06-13 10:22:45",
+  "count": 18401,
   "items": [
+    {
+      "id": "4933593",
+      "time": "2026-06-13 10:21:47",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國消費者信心指數略有改善 通脹預期仍處高位】美國密歇根大學12日釋出的初步調查資料顯示，6月美國消費者信心指數初值為48.9，較5月的44.8有所改善，但仍明顯低於去年同期的60.7。調查顯示，儘管消費者信心指數有所回升，但市場對經濟前景仍相對悲觀，6月消費者信心指數比2026年1月低13%，比一年前低約19%。消費者感受到近期通脹加劇帶來的壓力，並擔心高通脹可能持續存在。此外，密歇根大學釋出的6月當前經濟狀況指數初值為48.4，高於5月的45.8，低於去年同期的64.8；消費者預期指數初值為49.3，高於5月的44.1，低於去年同期的58.1。調查還顯示，未來一年美國通脹預期為4.6%，雖較5月4.8%的預期小幅下降，但仍處於較高水平。（新華社）"
+    },
+    {
+      "id": "4933592",
+      "time": "2026-06-13 10:21:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：菲律賓卡布拉蘭西南方向 2 公里處發生5.2 級地震。"
+    },
     {
       "id": "4933591",
       "time": "2026-06-13 10:15:21",
@@ -169262,36 +169279,6 @@
         "國際"
       ],
       "text": "伊朗伊斯蘭革命衛隊（IRGC）在一份宣告中表示，如果美國繼續“滋事”，霍爾木茲海峽將完全切斷油氣出口，美國需對由此產生的一切後果負責。"
-    },
-    {
-      "id": "mkt:019e9aba-e0c7-7665-830f-3576b5cfc6ae",
-      "time": "2026-06-06 10:19:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CENTCOM says it intercepted Iranian missiles and drones】June 4 — U.S. Central Command said it intercepted multiple ballistic missiles and drones Iran fired toward the Strait of Hormuz and neighboring Gulf states. CENTCOM said it had earlier shot down four one‑way attack drones aimed at the Strait of Hormuz that posed a direct threat to maritime traffic. To deter further maritime attacks, U.S. forces struck Iranian coastal surveillance radar sites on Goruk and Qeshm islands. Preliminary assessment: six launched missiles were intercepted; a seventh failed to hit its intended target. No U.S. casualties reported; CENTCOM rejected Iran’s claim that it struck U.S. Fifth Fleet headquarters in Bahrain. Forces remain on high alert and ready to act in self‑defense."
-    },
-    {
-      "id": "4920840",
-      "time": "2026-06-06 10:19:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊釋出宣告稱：作為對美軍打擊伊朗波斯灣相關設施的報復，伊方已使用彈道導彈襲擊位於科威特與巴林的美軍基地。"
-    },
-    {
-      "id": "4920839",
-      "time": "2026-06-06 10:18:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊（IRGC）在一份宣告中表示，已動用彈道導彈打擊了美國位於科威特和巴林的基地，以此報復美軍襲擊伊朗在海灣地區的目標。"
     }
   ]
 }
