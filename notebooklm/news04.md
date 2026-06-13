@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-13 18:43:13_
-_本檔包含 3610 則快訊，約 665865 字_
+_更新時間：2026-06-13 19:50:17_
+_本檔包含 3630 則快訊，約 665461 字_
+
+---
+
+### 2026-06-09 22:22:07  #國際
+
+美國能源部長賴特： 天然氣將成為支撐人工智慧算力的第一大新增能源來源。
+
+---
+
+### 2026-06-09 22:21:19  #其他
+
+【聚傑微纖：電子布產品正在進行測試 高階紗線已有合作供應商】聚傑微纖在電話會議上表示，電子布產品正在進行測試，會根據測試進度送樣檢測，客戶認證可能需反覆除錯引數，所以時間上存在不確定。電子布業務原材料供應方面，常規紗線採購正常；高階紗線已有合作供應商，現階段僅用於產品測試，使用的量不是很大。
+
+---
+
+### 2026-06-09 22:20:42  #市場 #觀點
+
+高盛股價迅速轉跌。
+
+---
+
+### 2026-06-09 22:19:26  #國際
+
+白俄羅斯反對派領袖表示，美國告知她釋放更多政治犯的計劃已推遲。
+
+---
+
+### 2026-06-09 22:19:14  #MKT News
+
+Belarus opposition leader said the U.S. told her plans to release additional political prisoners have been delayed.
+
+---
+
+### 2026-06-09 22:19:06  #其他
+
+PAYONEER股價飆升17.5%，此前路透報道其與NUVEI進行深入收購談判。
+
+---
+
+### 2026-06-09 22:18:59  #市場
+
+紐約期銀日內跌2%，現報67.20美元/盎司。
+
+---
+
+### 2026-06-09 22:18:57  #市場 #焦點
+
+紐約期金失守4330美元/盎司，日內跌0.77%。
+
+---
+
+### 2026-06-09 22:18:36  #市場 #焦點
+
+現貨黃金失守4310美元/盎司，日內跌0.51%。
+
+---
+
+### 2026-06-09 22:17:55  #其他
+
+特斯拉：全自動駕駛（FSD）監督版現已在丹麥獲批。
+
+---
+
+### 2026-06-09 22:17:49  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Apple Stock Price Hits 4-week Low — Apple shares decreased to 293.19 USD, the lowest since May 2026. Over the past 4 weeks, Apple gained 0.23%, and in the last 12 months, it increased 44.74%.
+
+---
+
+### 2026-06-09 22:17:44  #市場
+
+納斯達克100指數轉跌。
+
+---
+
+### 2026-06-09 22:17:14  #其他
+
+【業內人士看好工程機械和船舶龍頭企業】近期，不少工程機械開始漲價，全球市場造船訂單也持續攀升。對此，浙商證券研究所所長助理、機械行業首席分析師王華君在做客央視財經大型融媒體直播節目《財訪》時認為，在傳統裝備製造業裡，從確定性的角度來看，工程機械和船舶的龍頭企業值得重視。（央視財經）
+
+---
+
+### 2026-06-09 22:16:56  #國際
+
+美國眾議院多數黨黨鞭：眾議院議長正在白宮與特朗普敲定《外國情報監視法》相關協議。
+
+---
+
+### 2026-06-09 22:16:13  #市場 #焦點
+
+比特幣跌破62000美元，日內跌1.78%。
+
+---
+
+### 2026-06-09 22:16:09  #國際
+
+【中國專家組同國際機構代表座談埃博拉防控】援剛果（金）中國抗疫醫療首批專家組9日在剛果（金）首都金沙薩同紅十字會與紅新月會國際聯合會代表座談，就埃博拉疫情形勢、防控需求以及下一步合作方向等交換意見。專家組領隊陸明說，中方專家組願同剛方衛生部門、醫療和疾控機構以及包括紅十字會與紅新月會國際聯合會在內的國際夥伴加強合作，結合一線實際儘快明確防控和救治需求，在疫情研判、病例救治、實驗室檢測、防控培訓等方面提供支援，為早日控制疫情貢獻力量。（新華社）
+
+---
+
+### 2026-06-09 22:14:15  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Nasdaq100
+
+The S&P 500 and Nasdaq-100 hit intraday lows after giving back earlier gains.
+
+---
+
+### 2026-06-09 22:13:45  #市場
+
+標普500指數和納斯達克100指數漲幅收窄，觸及盤中低點。
+
+---
+
+### 2026-06-09 22:13:24  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+US Energy Secretary Wright said restoring normal energy flows will take months.
+
+---
+
+### 2026-06-09 22:12:13  #其他
+
+美國能源部長賴特：迴歸正常能源流動將需要“數月時間”。
+
+---
+
+### 2026-06-09 22:10:26  #其他
+
+美國能源部長賴特：其他國家也出現了“需求破壞”現象。
+
+---
+
+### 2026-06-09 22:09:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Copper
+
+U.S. Energy Secretary Wright said other countries have already experienced 'demand destruction'.
+
+---
+
+### 2026-06-09 22:09:26  #Trading Economics #Economy #United States #Existing Home Sales #Importance 3
+
+US Existing Home Sales Rise More than Expected — Existing home sales in the United States rose by 3.2% from the previous month to an annualized rate of 4.17 million, extending the rebound from the seven-month low in March. The result surpassed market expectations of a softer rebound to 4.07 million despite the elevated levels of mortgage rates in the period, as high energy prices and a robust labor market drove long-maturity Treasury yields to rise. Sales were firmly higher in the South (3.2% to 1.96 million) and the Midwest (6.4% to 1.0 million), while the increase was lower in the Northeast (2.2% to 0.46 million) and sales were unchanged at the West (0.75 million). Inventory grew by 3.3% on the month, the highest in 10 months, equivalent to 4.5 months of supply at the latest sales rate.
+
+---
+
+### 2026-06-09 22:08:34  #國際
+
+美國教育部發布學生貸款情況說明書，特朗普政府正在簡化學生貸款償還流程。
+
+---
+
+### 2026-06-09 22:07:18  #國際
+
+歐盟外交與安全政策高階代表卡拉斯：應關注對金屬和石油精煉產品的制裁。
+
+---
+
+### 2026-06-09 22:07:13  #MKT News
+
+kallas, the EU high representative for foreign affairs and security policy, said sanctions on metals and refined oil products should be monitored.
+
+---
+
+### 2026-06-09 22:07:11  #國際
+
+美國食品藥品監督管理局：時隔 20 年，該局首次擴充防曬產品品類。
+
+---
+
+### 2026-06-09 22:06:34  #MKT News
+
+EU foreign policy chief Kallas said the next round of sanctions on Russia needs to be creative.
+
+---
+
+### 2026-06-09 22:06:33  #國際
+
+歐盟外交與安全政策高階代表卡拉斯：在下一輪對俄羅斯制裁方案中需要發揮創造性。
+
+---
+
+### 2026-06-09 22:05:33  #其他
+
+路勁基建：英屬維爾京群島法院將聆訊延期至不早於2026年6月8日起計12周後舉行。
+
+---
+
+### 2026-06-09 22:03:54  #市場
+
+PAYONEER全球股價飆升，上漲16%。
+
+---
+
+### 2026-06-09 22:03:47  #觀點
+
+據市場訊息：摩根大通將在今年部署更強大的人工智慧代理。
+
+---
+
+### 2026-06-09 22:03:20  #MKT News #Market Themes #AI Revolution #JPM.O #Impact bullish
+
+CNBC reports JP Morgan will deploy more powerful AI agents this year.
+
+---
+
+### 2026-06-09 22:03:06  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+US Energy Secretary Wright said vessel traffic through the Strait of Hormuz is rising very significantly.
+
+---
+
+### 2026-06-09 22:02:54  #其他
+
+閃迪(SNDK.US)股價漲近8%，美銀、瑞穗兩大投行大幅上調目標價。
+
+---
+
+### 2026-06-09 22:02:40  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Slips as Middle East Risks Ease and China Demand Falls — Brent fell more than 3% to around $91 per barrel on Tuesday after Israel and Iran agreed to halt attacks following a renewed escalation in hostilities. Israeli Prime Minister Benjamin Netanyahu said Israel would pause strikes but warned it would respond to any further attacks from Tehran, while Iranian media reported a similar position. President Donald Trump said this week that negotiations were entering the final stage and that a clearer outcome could emerge within days. He also said the US could declare “total victory” in the conflict within two weeks. Meanwhile, China’s crude imports dropped to around 7.8 million barrels per day last month, the lowest level in more than eight years and nearly 4 million barrels per day below the 2025 average. Weaker demand from the world’s largest oil importer, combined with record US exports and emergency reserve releases, has helped limit the price impact of the conflict. Oil remains above prewar levels but well below recent highs.
+
+---
+
+### 2026-06-09 22:01:50  #資料 #國際
+
+美國5月二手房銷量折年率升至417萬套；預估為407萬套。
+
+---
+
+### 2026-06-09 22:01:50  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold, after rising to an intraday high, reversed sharply and is trading at $4,332/oz.
+
+---
+
+### 2026-06-09 22:01:39  #國際
+
+美國能源部長賴特表示，霍爾木茲海峽的船隻通行量正"非常顯著地"增長。
+
+---
+
+### 2026-06-09 22:01:22  #公司
+
+【百億量化私募優美利投資：經核查，網傳公司參與相關企業調研的內容並非公司行為】6月9日，百億量化私募優美利投資釋出宣告稱，公司近期發現有第三方未經授權，擅自冒用公司名義出現在上市公司“廣東世運****”調研相關資訊中，誤導市場及投資者。經核查，網傳公司參與相關企業調研的內容並非公司行為，無任何工作人員參與此次調研活動，亦未授權任何第三方機構或個人以公司名義開展調研、交流等活動。優美利投資表示，公司為多資產多策略量化私募基金管理人，以公開市場資料為基礎，透過模型演算法與程式化系統完成投資決策；實地調研為主觀投研的常見方式。針對此次冒用公司名義傳播不實資訊的行為，公司已留存相關證據，並將採取包括但不限於向監管部門反饋、追究法律責任等一切必要措施。
+
+---
+
+### 2026-06-09 22:01:17  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+US May existing home sales annualized monthly change +3.2% (consensus +1.1%, prior +0.2%).
+
+---
+
+### 2026-06-09 22:01:15  #資料 #國際
+
+美國4月批發銷售月率 2%，預期2.4%，前值2.80%。美國4月批發庫存月率終值 0.6%，預期0.5%，前值0.50%。
+
+---
+
+### 2026-06-09 22:01:08  #MKT News #Economic Calendar #Important
+
+United States | Existing Home Sales SAAR (MoM) (May) | actual 3.2% | consensus 1.1% | previous 0.20%
+
+---
+
+### 2026-06-09 22:01:06  #MKT News #Macro & Rates #US Economy
+
+US April wholesale inventories final MoM +0.6% (exp +0.5%); prior +0.5%.
+
+---
+
+### 2026-06-09 22:01:00  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #EURUSD
+
+US wholesale sales rose 2.0% MoM in April, below the 2.4% consensus and down from March's 2.8%.
+
+---
+
+### 2026-06-09 22:00:52  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
+
+May U.S. existing-home sales (SAAR) 4.17 mln homes; consensus 4.07 mln; prior 4.02 mln.
+
+---
+
+### 2026-06-09 22:00:51  #MKT News #Economic Calendar #Important
+
+United States | Wholesale Sales (MoM) (Apr) | actual 2% | consensus 2.4% | previous 2.80%
+
+---
+
+### 2026-06-09 22:00:51  #經濟數據 #美國
+
+美國5月成屋銷售年化總數升至417萬戶，高於預期的407萬戶。
+
+---
+
+### 2026-06-09 22:00:42  #MKT News #Economic Calendar #Important
+
+United States | Existing Home Sales Total SAAR (May) | actual 4170000M | consensus 4070000M | previous 4020000M
+
+---
+
+### 2026-06-09 22:00:19  #國際
+
+美國5月成屋銷售年化總數升至417萬戶，市場預期為407萬戶。
+
+---
+
+### 2026-06-09 22:00:04  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Falls on Easing War Risks and Weak China Demand — Crude oil fell more than 3% to around $88 per barrel on Tuesday after Israel and Iran agreed to halt attacks following a renewed escalation in hostilities. Israeli Prime Minister Benjamin Netanyahu said Israel would pause strikes but warned it would respond to any further attacks from Tehran, while Iranian media reported a similar position. President Donald Trump said this week that negotiations were entering the final stage and that a clearer outcome could emerge within days. He also said the US could declare “total victory” in the conflict within two weeks. Meanwhile, China’s crude imports dropped to around 7.8 million barrels per day last month, the lowest level in more than eight years and nearly 4 million barrels per day below the 2025 average. Weaker demand from the world’s largest oil importer, combined with record US exports and emergency reserve releases, has helped limit the price impact of the conflict. Oil remains above prewar levels but well below recent highs.
+
+---
+
+### 2026-06-09 21:59:43  #市場
+
+愛立信股價下跌幅度高達6.5%，創2025年7月以來最大跌幅。
+
+---
+
+### 2026-06-09 21:59:32  #公司
+
+【26國海02：確定本期債券票面利率為1.69%】26國海02公告稱，國海證券面向專業機構投資者公開發行面值不超100億元公司債券已獲同意註冊。本期債券為註冊批覆項下第五期，計劃發行規模不超15億元。6月9日詢價，利率詢價區間1.60%-2.20%，最終確定票面利率為1.69%。發行人將按此利率於6月10日至11日面向專業機構投資者網下發行。
 
 ---
 
@@ -21549,203 +21867,5 @@ German two-year government bond yield reversed earlier gains, down 1bp to 2.68%.
 ### 2026-06-08 19:20:40  #公司
 
 【密爾克衛：擬將募投專案節餘資金5629.4萬元永久補充流動資金】密爾克衛公告，擬將募投專案節餘資金5629.4萬元永久補充流動資金。2020年非公開發行股票募投專案“寧波慎則化工供應鏈管理有限公司專案”、“廣西慎則物流有限公司倉儲物流專案”、“密爾克衛（煙臺）供應鏈管理服務有限公司現代化工供應鏈創新與應用配套設施專案”、“擴建20000平方米丙類倉庫專案”已達到預定可使用狀態；2022年公開發行可轉換公司債券募投專案“收購上海市化工物品汽車運輸有限公司100%股權及轉讓方對標的公司1600萬債權專案”、“超臨界水氧化及配套環保專案”、“徐圩新區化工品供應鏈一體化服務基地A地塊”、“鎮江寶華物流有限公司改擴建普貨倉庫建設”已達到預定可使用狀態。
-
----
-
-### 2026-06-08 19:20:27  #宏觀 #公司
-
-【國家能源局召開2026年油氣基礎設施規劃建設和管道保護工作會議】6月3日，國家能源局在北京召開2026年油氣基礎設施規劃建設和管道保護工作會議，深入貫徹黨中央、國務院關於建設能源強國、保障能源安全的決策部署，大力加強油氣基礎設施重大專案投資建設，持續做好油氣管道保護工作，促進油氣行業高質量發展。國家能源局副局長萬勁松出席會議並講話。會議強調，各油氣央企、各級管道保護主管部門要堅決貫徹落實習近平總書記關於安全生產工作系列重要指示批示精神，居安思危、舉一反三，紮實做好管道保護各項工作。要聚焦管道佔壓清理、第三方施工管控、工程相遇相交處置等關鍵環節，全面加強風險防控和處置。要加強管道保護科技賦能，積極推廣人工智慧新技術，具備條件的地區拓展無人機巡線等管道巡查新模式。會議要求，要高度重視並全力做好迎峰度夏天然氣保供工作，上游供氣企業承擔氣源保供主體責任，國家管網集團承擔管道安全運營主體責任，各省能源主管部門積極履行屬地天然氣保供職責，全力做好氣源互保、區域互濟、氣電協同，確保經濟發展和人民群眾用能需求。（國家能源局）
-
----
-
-### 2026-06-08 19:20:23  #市場
-
-土耳其主要銀行指數上漲2.1%。
-
----
-
-### 2026-06-08 19:20:13  #公司 #市場
-
-【華控賽格：股價異常波動 業績持續虧損引風險提示】華控賽格公告稱，公司股票於6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。2025年公司營收8.32億元，同比降24.69%，淨虧損1.05億元，同比降713.52%；2026年一季度營收0.48億元，同比降64.41%，淨虧損0.18億元，同比降4.59%。公司近期業務、經營基本面未變，提醒投資者注意業績虧損及交易風險。
-
----
-
-### 2026-06-08 19:19:52  #市場 #國際
-
-在伊朗武裝部隊宣佈結束針對以色列的軍事行動後，德國兩年期國債收益率<DE2YT=RR>扭轉了此前的上漲走勢；截至最新，收益率下行1個基點，報2.68%。
-
----
-
-### 2026-06-08 19:19:39  #公司 #市場
-
-【江順科技：股票交易異常波動 提醒投資者注意風險】江順科技公告稱，公司股票連續兩個交易日（2026年6月5日、6月8日）收盤價格漲幅偏離值累計超20%，屬異常波動。公司基本面未變，無應披露未披露事項。2025年營收9.43億元，同比降17.03%，淨利潤0.81億元，同比降47.60%；2026年Q1營收2.83億元，淨利潤0.38億元。公司多項業務暫無相關收入或尚處投入期，預計短期內對業績無重大影響。提醒投資者注意交易風險。
-
----
-
-### 2026-06-08 19:18:53  #市場 #國際
-
-歐洲斯托克600指數翻紅，截至最新報當日上漲0.04%。
-
----
-
-### 2026-06-08 19:18:14  #公司 #市場
-
-【中重科技：澄清不涉及機器人本體及零配件生產，不存在商業航天板塊業務】中重科技公告，公司股票於2026年6月5日、6月8日連續2個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。公司就市場關注的機器人概念澄清，公司不涉及機器人及零配件的生產製造，控股子公司中重靈希機器人科技(江蘇)有限公司亦不生產機器人本體及零配件，截至2026年一季度未實現任何營業收入；就商業航天概念澄清，公司不存在商業航天板塊業務，相關領域投資金額極低。公司2025年度實現營業收入3.8億元，同比下降60.23%；歸屬於上市公司股東的淨利潤為-2202.74萬元，同比下降139.09%。
-
----
-
-### 2026-06-08 19:17:12  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-WTI and Brent crude slipped more than $1 intraday to $93.36/bbl and $93.79/bbl, respectively.
-
----
-
-### 2026-06-08 19:16:47  #其他
-
-【賽力斯旗下新品牌即將推出，元戎、弋途分別提供駕艙能力】即將正式釋出的新造車品牌——賽豆科技，首款新車的兩大核心供應商已確定：元戎啟行提供智駕能力，弋途科技負責座艙能力。（雷峰網 ）
-
----
-
-### 2026-06-08 19:16:45  #公司 #國際
-
-【中國新城市：與中興發展法國籤戰略合作協議，擬開發約4萬平方米AI資料中心】中國新城市公告，公司於2026年6月6日與中興發展法國公司訂立不具法律約束力的戰略合作協議，內容有關本集團擬於法國普瓦捷中興發展法國所擁有之科技園內合作開發建設人工智慧資料中心專案（AIDC專案）。根據協議，本集團擬開發建設約4萬平方米高標準AI資料中心，專案當前已具備15-20兆瓦電力負荷。雙方將共同開發歐洲及全球AI客戶資源，中興發展法國保留參與專案建設與運營之投資權利。
-
----
-
-### 2026-06-08 19:16:43  #國際
-
-【伊朗稱對以色列軍事打擊告一段落】最新訊息：伊朗武裝部隊哈塔姆·安比亞中央司令部最新宣佈，“對以色列的軍事打擊行動告一段落”。（CCTV國際時訊）
-
----
-
-### 2026-06-08 19:16:22  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Fars News Agency reports Iran's armed forces announced an end to military operations against Israel and warned that if Israel resumes attacks on Lebanon, Iran would respond with harsher retaliatory measures.
-
----
-
-### 2026-06-08 19:15:57  #國際
-
-市場訊息：伊朗武裝部隊宣佈結束針對以色列的軍事行動，並警告稱若以色列重啟對黎巴嫩的打擊，將發動更猛烈的攻擊。
-
----
-
-### 2026-06-08 19:15:47  #市場
-
-【阿斯麥美股盤前漲超4%】阿斯麥美股盤前漲超4%，現報1708.04美元。
-
----
-
-### 2026-06-08 19:15:41  #MKT News
-
-【China, New Zealand hold Asia affairs consultations】Liu Jinsong, director-general of the Asia Department at China’s Ministry of Foreign Affairs, met in Beijing with Mao Rui, deputy secretary of New Zealand’s Ministry of Foreign Affairs and Trade, for bilateral consultations on Asian affairs.
-
----
-
-### 2026-06-08 19:15:40  #公司
-
-【永和智控：股東夏祖望減持股份致持股比例降至5%以下】永和智控公告稱，6月5日，股東夏祖望透過集中競價交易減持155.16萬股，佔公司總股本的0.351289%。其持股數量由2363.5966萬股減至2208.4366萬股，佔比由5.351288%降至4.999999%，不再是持股5%以上股東。本次減持系其自身資金需求，此前披露的減持計劃尚未實施完畢，未來12個月暫無其他明確增減持計劃。
-
----
-
-### 2026-06-08 19:15:06  #國際
-
-【中國紐西蘭外交部舉行亞洲事務磋商】近日，外交部亞洲司司長劉勁松在北京同紐西蘭外交貿易部副秘書長毛瑞舉行了中新外交部亞洲事務磋商。（外交部）
-
----
-
-### 2026-06-08 19:14:40  #公司
-
-【銳新昌：擬30.98億元購德恆裝備51%股權 交易符合相關規定】銳新昌公告稱，公司擬透過發行股份及支付現金方式，向童小平、張亞鵬等10名交易對方購買德恆裝備51%股權，交易完成後，德恆裝備將成為公司控股子公司。本次交易完成後，公司資產、負債、所有者權益、營業收入及歸母淨利潤規模均有所增加，資產總計達30.98億元，同比增加257.09%；營業收入13.47億元，同比增加126.60%；歸母淨利潤7096.01萬元，同比增加117.68%。公司董事會認為，本次交易符合《上市公司重大資產重組管理辦法》相關規定。
-
----
-
-### 2026-06-08 19:14:29  #公司
-
-【順豐控股：擬以4億港元於公開市場回購H股】順豐控股公告，公司董事會擬動用股份購回授權，以不超過4億港元於公開市場回購H股。根據相關決議，回購的H股數目不得超過於年度股東會上透過特別決議案當日已發行H股總數的10%（不包括庫存股份）。
-
----
-
-### 2026-06-08 19:14:23  #公司 #焦點
-
-【五糧液：擬免去曾從欽董事職務 其擔任的董事長等職務自董事解任生效之日起自動解除】五糧液(000858.SZ)公告稱，根據宜賓市人民政府相關檔案，經提名委員會稽核、公司董事會提名，同意免去曾從欽董事職務，曾從欽擔任的董事長、董事會專門委員會主任委員及委員職務，自董事解任生效之日起自動解除；同意增補鄧敏為公司第七屆董事會非獨立董事候選人，任期自公司股東會審議透過之日起至公司第七屆董事會任期屆滿之日止。
-
----
-
-### 2026-06-08 19:13:59  #公司 #市場
-
-【昊華科技：股票交易異常波動 不存在應披露未披露重大資訊】昊華科技公告稱，公司股票於2026年6月4日、6月5日、6月8日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動情形。經自查及向控股股東詢證，截至公告披露日，公司生產經營正常，內外部環境無重大變化，公司及控股股東不存在應披露而未披露的重大資訊，未發現影響股價的媒體報道、市場傳聞等。公司提醒投資者注意二級市場交易風險，理性投資。
-
----
-
-### 2026-06-08 19:13:41  #市場
-
-標普500指數期貨上漲0.6%，納斯達克100指數期貨上漲1%。
-
----
-
-### 2026-06-08 19:13:40  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Closes at Over 2-Month Low — India’s BSE Sensex finished roughly 1% down at 73,524.3 on Monday, the lowest since early April, in line with major global peers. Sentiment was hit by a surge in oil prices after fresh Israeli strikes on Iran and Lebanon raised fears of a wider conflict, potentially disrupting global supply and fuelling inflation concerns. Worries about stretched valuations and potential rate hikes also weighed. Among shares, Eternal was the biggest loser with a decline of 3.2%. It was followed by InterGlobe Aviation, which fell 2.6% after Bloomberg reported the carrier is unlikely to receive the full batch of nine Airbus A321XLR units this year.
-
----
-
-### 2026-06-08 19:13:35  #央行 #公司 #市場 #國際
-
-【高爆：加密貨幣在近期下跌後企穩，但復甦有限】加密貨幣在上週遭遇大幅下跌後企穩，但在以色列和伊朗之間發生新的衝突後，復甦勢頭有限。IG分析師Chris Beauchamp在一份報告中表示：“考慮到流動性較低，週末的復甦並不令人意外，但中東地區重新燃起的衝突已經打擊了風險偏好。“他說，加密貨幣的前景依然負面。他表示，衝突將使加密貨幣難以實現持續復甦，同時該板塊也面臨央行潛在利率上升的壓力。倫敦證券交易所集團資料顯示，比特幣在週五觸及59,125美元的20個月低點後，上漲2.0%，至63,112美元。以太幣在週五觸及1,506美元的近14個月低點後，上漲2.6%，至1,670美元。
-
----
-
-### 2026-06-08 19:13:17  #國際
-
-【中國駐伊朗大使館提醒中國公民暫勿前往伊朗】中國駐伊朗大使館8日釋出安全提醒說，鑑於當前複雜嚴峻形勢，中國駐伊朗使領館再次提醒在伊中國公民加強安全防範和應急準備，及時向駐伊使領館報備。同時，中國公民暫勿前往伊朗。提醒說，目前，伊首都德黑蘭及西部地區空域處於關閉狀態，在伊中國公民可重點關注伊馬漢航空離伊航班恢復情況。同時，綜合考慮口岸情況和當地及周邊安全等因素，目前在伊中國公民可透過前往亞美尼亞、土耳其、土庫曼的陸路通道離伊。（新華社）
-
----
-
-### 2026-06-08 19:11:58  #其他
-
-Bending Spoons 提交赴美首次公開募股申請。
-
----
-
-### 2026-06-08 19:11:38  #其他
-
-亞美尼亞國際選舉觀察團：絕大多數投票站的選舉日活動進展總體積極向好。
-
----
-
-### 2026-06-08 19:11:22  #市場
-
-紐元兌美元NZD/USD日內漲幅擴大至0.50%，現報0.5823。
-
----
-
-### 2026-06-08 19:11:21  #MKT News #NZDUSD #Impact bullish
-
-NZD/USD intraday gains widened to 0.50%, trading at 0.5823.
-
----
-
-### 2026-06-08 19:11:20  #市場
-
-【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.59%，道瓊斯指數期貨漲0.15%。
-
----
-
-### 2026-06-08 19:11:19  #MKT News
-
-【Egg prices up five weeks; industry says supply cuts meet concentrated demand, H2 2026 likely high-level oscillation and episodic volatility】China egg prices have risen for five consecutive weeks since May, breaking seasonal patterns and showing weekly gains. Industry sources attribute the move to earlier capacity reductions that tightened supply, concentrated short-term demand releases, and flock shrinkage as producers exited after prolonged low 2025 prices. Low inventories in producing regions leave room for further upside ahead of the Dragon Boat Festival, though upward momentum is expected to weaken. Industry forecasts point to H2 2026 egg prices displaying high-level oscillation and episodic volatility.
-
----
-
-### 2026-06-08 19:10:46  #市場
-
-【雞蛋價格連漲5周 業內人士：產能收縮遇上需求集中釋放 下半年或將呈現“高位震盪、階段性波動”特徵】農業農村部畜牧獸醫局官網顯示，進入5月以來，雞蛋價格已連續5週上漲。今年雞蛋價格“逆勢”上漲，不僅突破季節性規律，5月更呈現“週週攀升”特徵。多名業內人士認為，這主要是受到前期產能收縮帶來供應減量、階段性需求集中釋放等因素影響。2025年蛋價持續低位，養殖端縮減規模、淘汰蛋雞，造成今年貨源緊張，是本輪漲價的重要原因。業內人士認為，因產區庫存延續低位，預計端午節前雞蛋價格仍有衝高空間，但上漲動力逐步減弱，2026年下半年蛋價或將呈現“高位震盪、階段性波動”特徵。
-
----
-
-### 2026-06-08 19:10:34  #Trading Economics #Markets #Commodity #Importance 1
-
-Copper Halts Pullback from Record — Copper futures in the US were above $6.3 per pound, halting the slide from the record high of $6.6 touched on June 2nd as supply risks from the war in the Middle East toggled against the macroeconomic headwinds stemmed by the conflict. The first exchange of strikes between Iran and Israel since their fragile ceasefire dimmed expectations of a broader deal between Tehran and the US. The prolonged conflict has halted exports of sulfur and sulfuric acid from key GCC producers, which in turn have driven China to halt their exports of the commodities and triggered shortages in major copper producer Chile. Tight supply of sulfuric acid limits copper refining capacity, challenging Codelco's ongoing campaign to reduce operating costs. Meanwhile, macroeconomic pressure on manufacturers due to the war limited the increase in prices. These were also capped by expectations of a hawkish Federal Reserve following the release of robust jobs numbers in the US, strengthening the dollar.
 
 ---
