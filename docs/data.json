@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-13 15:57:45",
-  "count": 18356,
+  "updated": "2026-06-13 16:01:41",
+  "count": 18357,
   "items": [
+    {
+      "id": "mkt:019ebfff-ddb7-7dd8-afe8-dcd75a4d6e6e",
+      "time": "2026-06-13 16:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lithuania's State Emergency Management Centre said an object detected in Lithuanian airspace was a meteorological balloon, not a drone."
+    },
+    {
+      "id": "4933725",
+      "time": "2026-06-13 16:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "立陶宛國家危機管理中心：在立陶宛領空探測到的物體是氣象氣球，而非無人機。"
+    },
+    {
+      "id": "4933724",
+      "time": "2026-06-13 16:00:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬斯克：在大約5年內，SpaceX發射的衛星數量可能比世界其他地區多約5倍。"
+    },
     {
       "id": "4933723",
       "time": "2026-06-13 15:56:10",
@@ -168810,25 +168835,6 @@
         "Brent"
       ],
       "text": "Rosneft CEO Igor Sechin warned that if the Strait of Hormuz were to be closed, other major shipping chokepoints—including the Malacca Strait, Bab el‑Mandeb and the Strait of Gibraltar—could also face disruption risk."
-    },
-    {
-      "id": "mkt:019e9bf2-777d-7665-8310-e94767e33280",
-      "time": "2026-06-06 16:00:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【E Fund chair Liu Xiaoyan named concurrent president of Asset Management Association of China council】At the Asset Management Association of China (AMAC) fourth member representative meeting, E Fund Management chair Liu Xiaoyan was appointed concurrent president of AMAC’s new council."
-    },
-    {
-      "id": "4921198",
-      "time": "2026-06-06 15:59:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【奈飛聯合創始人哈斯廷斯卸任 獨立董事霍格接任董事會主席】全球流媒體巨頭奈飛（Netflix）當地時間5日向美國證券交易委員會（SEC）提交監管檔案宣佈，公司首席獨立董事傑伊·霍格（Jay Hoag）已正式接替聯合創始人裡德·哈斯廷斯（Reed Hastings），出任奈飛董事會主席。 檔案顯示，該項人事任命自6月4日奈飛年度股東大會結束後正式生效。奈飛曾於今年4月提前披露，哈斯廷斯將退出了其參與創辦近三十年的公司董事會，未來將專注於慈善事業及其他個人事務。新任董事會主席霍格擁有豐富的行業與資本經驗。他於1999年加入奈飛董事會，擔任首席獨立董事已逾十年。同時，霍格也是成長型股權投資公司TCV的聯合創始人，該公司長期投資奈飛。此外，霍格目前還在美國線上房地產巨頭Zillow和智慧健身平臺Peloton的董事會任職。"
     }
   ]
 }
