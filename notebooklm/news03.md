@@ -1,7 +1,619 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 13:44:17_
-_本檔包含 3657 則快訊，約 666674 字_
+_更新時間：2026-06-13 15:33:07_
+_本檔包含 3670 則快訊，約 665047 字_
+
+---
+
+### 2026-06-10 23:38:00  #MKT News #Important
+
+The Information reports Altman expects OpenAI to go public within the next year.
+
+---
+
+### 2026-06-10 23:37:27  #其他
+
+奧特曼預計OpenAI將在一年內上市。
+
+---
+
+### 2026-06-10 23:36:49  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. Defense Secretary Hegseth said it would be unwise for Iran to further challenge the United States.
+
+---
+
+### 2026-06-10 23:35:47  #國際
+
+【以軍稱一空軍基地在伊朗導彈襲擊中受損】當地時間10日自以軍方面獲悉，本週早些時候伊朗向以色列發射彈道導彈，以色列的拉馬特戴維空軍基地出現受損情況。此前公佈的低解析度衛星影象顯示，該基地一處倉庫疑遭擊中。
+
+---
+
+### 2026-06-10 23:35:31  #國際
+
+美國國防部長赫格塞思表示，伊朗進一步挑釁美國是“不智之舉”。
+
+---
+
+### 2026-06-10 23:35:10  #MKT News #Important
+
+Matsumoto, nominee to head the U.S. Bureau of Labor Statistics, said she believes the CPI data are accurate.
+
+---
+
+### 2026-06-10 23:34:33  #資料 #國際
+
+美國勞工統計局局長提名人松本：我認為消費者價格指數（CPI）是準確的。
+
+---
+
+### 2026-06-10 23:34:32  #MKT News
+
+Matsumoto, nominee to lead the US Bureau of Labor Statistics, said they do not consider it appropriate to be seen as either a cheerleader or a critic of the US economy.
+
+---
+
+### 2026-06-10 23:33:14  #其他 #焦點
+
+OpenAI正籌備全新人工智慧模型，預計一年內完成上市。
+
+---
+
+### 2026-06-10 23:33:04  #國際
+
+美國勞工統計局局長提名人松本：我認為，將我視為美國經濟的拉拉隊或批評者都不合適。
+
+---
+
+### 2026-06-10 23:32:54  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #EURUSD #Impact bearish
+
+U.S. 4-month Treasury bill auction through June 10: percentage of allotment at the stop-out yield 16.25%, prior 93.35%.
+
+---
+
+### 2026-06-10 23:32:44  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
+
+US 4-month Treasury auction on June 10 — BID-COVER RATIO 2.88, prior 3.15.
+
+---
+
+### 2026-06-10 23:32:32  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.10) | actual 2.88 | previous 3.15
+
+---
+
+### 2026-06-10 23:32:32  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
+
+US 4-month Treasury auction on Jun 10 — stop-out yield 3.665% vs 3.64% previously.
+
+---
+
+### 2026-06-10 23:32:31  #宏觀 #市場 #國際
+
+美國財政部拍賣四個月期國債，得標利率3.665%，投標倍數2.88。
+
+---
+
+### 2026-06-10 23:32:26  #公司 #國際
+
+【中際旭創：公司被美國國防部列入1260H清單 該認定和依據均不符合客觀事實】中際旭創公告，公司注意到美國國防部將公司列入“1260H清單”。公司確認，將中際旭創列入名單的認定和依據均是不符合客觀事實的，中際旭創既非中國軍工企業，也不是軍民融合企業，公司將以充分的事實進行有效溝通並採取合適的措施以維護利益。本次事件未對公司經營產生實質性影響，公司訂單獲取、生產運營及供應鏈等情況一切正常。
+
+---
+
+### 2026-06-10 23:32:23  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction High Yield Rate (Jun.10) | actual 3.665% | previous 3.64%
+
+---
+
+### 2026-06-10 23:31:36  #市場 #焦點 #國際
+
+【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數平收，歐元斯托克指數下跌0.3%，歐元區藍籌股指數下跌0.39%。法國CAC 40指數下跌0.29%，西班牙IBEX指數下跌0.08%，英國富時100指數上漲0.27%，德國DAX指數下跌0.88%。
+
+---
+
+### 2026-06-10 23:30:36  #MKT News
+
+BLS commissioner nominee Matsumoto said the bureau's budget is determined by Congress and he hopes to have a voice/input in the budget process.
+
+---
+
+### 2026-06-10 23:30:20  #公司
+
+【中國船舶集團總經理王國強與中國農業銀行行長王志恆舉行會談】6月10日，中國船舶集團有限公司黨組副書記、董事、總經理王國強與中國農業銀行股份有限公司黨委副書記、行長王志恆舉行會談。雙方圍繞國家戰略需求與金融服務實體經濟等主題，就進一步加強銀企合作、深化資源對接進行深入交流並達成共識。
+
+---
+
+### 2026-06-10 23:30:05  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: Brazil 10Y Bond Yield Gains by 14 bps — Government bonds yields are higher on Wednesday. Top gainers are Brazil 10Y (13.50bps), Germany 10Y (1.15bps), Japan 10Y (1.08bps) and US 10Y (0.60bps).
+
+---
+
+### 2026-06-10 23:29:58  #國際
+
+美國勞工統計局局長提名人松本：勞工統計局預算由國會決定，我希望能對預算流程提出部分意見。
+
+---
+
+### 2026-06-10 23:29:18  #公司
+
+【阿波羅全球管理示警 律所和諮詢公司等專業服務行業將面臨AI顛覆】阿波羅全球管理公司聯席總裁Scott Kleinman表示，包括律師事務所、會計師事務所和諮詢公司在內的專業服務行業，很可能是下一個面臨人工智慧顛覆的領域。投資者此前一直把擔憂集中在軟體行業，以及AI將在多大程度上顛覆這些企業。但Kleinman週三在柏林SuperReturn會議的一個小組討論上表示，展望未來，收購公司應關注在專業服務領域的投資。“向在座的律師、會計師、諮詢顧問們說聲抱歉，但我確實認為，那將是一個會看到很大壓力的領域，”Kleinman表示。
+
+---
+
+### 2026-06-10 23:29:01  #MKT News #Macro & Rates #US Economy
+
+Bureau of Labor Statistics commissioner nominee Matsumoto said she does not believe employment data were fabricated and attributed large revisions to technical reasons.
+
+---
+
+### 2026-06-10 23:28:51  #MKT News
+
+Matsumoto, nominee for U.S. Bureau of Labor Statistics director, said the agency's staff dedication and professionalism are impressive and that they would not accept the post unless they had full confidence in the personnel.
+
+---
+
+### 2026-06-10 23:28:41  #國際
+
+美國勞工統計局局長提名人松本：不認為就業資料被偽造，大幅修正源於技術層面原因。
+
+---
+
+### 2026-06-10 23:28:32  #MKT News #Commodities #Energy
+
+Fitch says if the Iran conflict persists or global commodity volatility continues, North American midstream infrastructure for crude oil, LNG and natural gas condensate could benefit.
+
+---
+
+### 2026-06-10 23:27:48  #國際
+
+美國勞工統計局局長提名人松本：勞工統計局工作人員的奉獻精神與專業素養令人印象深刻，除非我完全信任該局的員工，否則我不會接受這份職位。
+
+---
+
+### 2026-06-10 23:27:18  #國際
+
+惠譽：若伊朗衝突持續或全球大宗商品波動延續，北美原油、液化天然氣、天然氣液體的中游基礎設施料將受益。
+
+---
+
+### 2026-06-10 23:27:02  #MKT News #Important #WTI #Impact bullish #Brent
+
+Fars news agency cited a member of Iran's National Security Council saying a plan for the Strait of Hormuz is ready.
+
+---
+
+### 2026-06-10 23:26:51  #國際
+
+伊朗國家安全委員會成員表示，霍爾木茲海峽相關預案已準備就緒。
+
+---
+
+### 2026-06-10 23:26:21  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Precious metals futures extended losses. SHFE gold main contract dropped over 3%, briefly trading below 900 yuan/gram and now at 902.16 yuan/gram. SHFE silver main contract fell just over 1%, at 15,568 yuan/kg.
+
+---
+
+### 2026-06-10 23:26:20  #MKT News
+
+U.S. Bureau of Labor Statistics commissioner nominee Matsumoto said officials should study ways to integrate alternative data, saying survey-based data systems will eventually be phased out.
+
+---
+
+### 2026-06-10 23:25:57  #MKT News
+
+Bureau of Labor Statistics director nominee Matsumoto said there may be ways to incentivize responses to labor-market surveys.
+
+---
+
+### 2026-06-10 23:25:49  #公司 #國際
+
+Anthropic執行長稱，他並不清楚旗下人工智慧模型在伊朗一所小學遭導彈襲擊、約120名兒童遇難這起事件中扮演了何種角色。
+
+---
+
+### 2026-06-10 23:24:58  #國際
+
+美國勞工統計局局長提名人松本：我們應當研究整合替代資料的方法，基於調查的資料體系最終會退出歷史舞臺。
+
+---
+
+### 2026-06-10 23:24:31  #國際
+
+美國勞工統計局局長提名人松本：或可採取多種激勵措施，提高勞動力市場調查的回覆率。
+
+---
+
+### 2026-06-10 23:24:11  #MKT News
+
+BLS commissioner nominee Matsumoto said the impact of declining survey response rates needs to be determined.
+
+---
+
+### 2026-06-10 23:24:08  #市場
+
+斯泰蘭蒂斯米蘭上市股票停牌後恢復交易，股價下跌3.8%。
+
+---
+
+### 2026-06-10 23:24:03  #Trading Economics #Economy #Mozambique #Inflation Rate #Importance 0
+
+Mozambique Inflation Rate Hits 2023-Peak — The annual inflation rate in Mozambique picked up to 7.22% in May 2026, accelerating from 4.41% in the prior month and marking the steepest rise since May 2023. The increase was largely driven by a fuel shock, following supply disruptions in April tied to geopolitical tensions in the Middle East, which led to sharp adjustments in diesel and gasoline prices earlier in May. On a monthly basis, the CPI climbed by 2.32% in May, the steepest increase since February 2019, after a 0.63% rise in the prior month.
+
+---
+
+### 2026-06-10 23:24:00  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canada 10-Year Yield Steady After BoC Rate Hold — Canada’s 10-year government bond yield held steady near 3.5% after the Bank of Canada left its benchmark interest rate unchanged at 2.25%, in line with expectations. The central bank noted that uncertainty remains elevated amid escalating tensions in the Middle East and new US tariff proposals, while reiterating that it stands ready to act if necessary and will not allow higher energy prices to feed persistent inflation. Markets continue to price in a 25bps rate hike by December. However, the 10-year yield remains below its May highs, tracking a decline in US Treasury yields as investors speculate that a potential US–Iran agreement could help ease geopolitical tensions.
+
+---
+
+### 2026-06-10 23:23:53  #其他
+
+惠譽關於北美中游能源展望：預計2026年資本支出將高於此前預期。
+
+---
+
+### 2026-06-10 23:23:41  #國際
+
+俄羅斯確認已解除對美國元宇宙遊戲平臺Roblox的封禁。
+
+---
+
+### 2026-06-10 23:22:59  #MKT News #WTI #Impact mixed #Brent
+
+FITCH says commodity price rises and export growth linked to the Iran conflict are largely temporary.
+
+---
+
+### 2026-06-10 23:22:38  #國際
+
+美國鋁業表示，伊朗局勢推高燃料成本，氧化鋁業務遭受衝擊。
+
+---
+
+### 2026-06-10 23:22:23  #市場 #焦點 #國際
+
+惠譽：認為伊朗局勢衝突帶來的大宗商品價格上漲與出口提振效應基本為暫時性。
+
+---
+
+### 2026-06-10 23:22:11  #MKT News
+
+President Trump signed the "Protecting America Act" in the Oval Office at the White House.
+
+---
+
+### 2026-06-10 23:21:03  #其他
+
+惠譽評級將北美中游能源行業展望調整為改善。
+
+---
+
+### 2026-06-10 23:20:55  #國際
+
+伊朗革命衛隊德黑蘭地區指揮官：敵人在這場為期十二天的戰事爆發前大肆武力恫嚇、放出豪言，但實際戰況卻截然不同。 西方國家的說辭與表態，尤其是特朗普的言論，矛盾之處日漸凸顯，其中不少言論如今被視作史上彌天大謊。 終究，戰場會還原一切真相。
+
+---
+
+### 2026-06-10 23:20:39  #MKT News
+
+Matsumoto, nominee for commissioner of the US Bureau of Labor Statistics, said the bureau should maintain independence in compiling labor data.
+
+---
+
+### 2026-06-10 23:19:46  #國際
+
+【特朗普提名的勞工統計局局長候選人承諾維護機構獨立性】美國總統特朗普提名執掌勞工統計局的Brett Matsumoto向議員表示，他致力於維護該機構的誠信和獨立性。Matsumoto週三對參議院衛生、教育、勞工與養老金委員會表示：“我堅信勞工統計局的使命，即提供有關美國經濟中勞動力市場活動、工作條件、價格變化和生產率的客觀、高質量統計和分析，為公共和私營部門決策提供支援。”他說：“讓公眾相信勞工統計局的決策是基於科學而非政治考量，這一點至關重要。”
+
+---
+
+### 2026-06-10 23:19:23  #市場
+
+納斯達克100指數進一步下跌，跌幅達1.5%。
+
+---
+
+### 2026-06-10 23:18:40  #國際
+
+特朗普在白宮橢圓辦公室簽署《保障美國法案》。
+
+---
+
+### 2026-06-10 23:18:29  #MKT News #Market Themes #China EV Leaders #000625.SZ #Impact bullish
+
+【Changan Automobile denies discounted sale of 40% stake in Changan Ford New Energy】June 10 — Changan Automobile denied reports it was selling a 40% stake in Changan Ford New Energy at 40% of value. The company said it directly holds 40% of the JV; the planned transfer is priced at the appraised value for that 40% stake and represents a shareholder-level structural adjustment, not a distressed or steeply discounted sale.
+
+---
+
+### 2026-06-10 23:17:51  #市場 #焦點
+
+紐約期金失守4140美元/盎司，日內跌3.42%。
+
+---
+
+### 2026-06-10 23:17:44  #Trading Economics #Markets #commodity #Importance 0
+
+Lead Hits 4-week Low — Lead decreased to 1962.00 USD/T, the lowest since May 2026. Over the past 4 weeks, Lead lost 1.29%, and in the last 12 months, it decreased 1.33%.
+
+---
+
+### 2026-06-10 23:17:21  #公司 #國際
+
+美國鋁業公司首席財務官稱，受戰爭影響，其氧化鋁部門面臨“巨大壓力”。
+
+---
+
+### 2026-06-10 23:17:08  #其他
+
+【中國銀行董事長葛海蛟與上海交通大學校長丁奎嶺舉行工作會談】6月10日，中國銀行黨委書記、董事長葛海蛟與上海交通大學校長、中國科學院院士丁奎嶺在滬舉行工作會談，共同見證雙方簽署新一期銀校合作協議。葛海蛟表示，以此次簽約為契機，中國銀行將立足全球服務網路與全品類金融牌照優勢，圍繞科技金融、跨境金融、校園金融等領域不斷擴大合作覆蓋面，打造合作增長極，共同為教育強國、科技強國、人才強國、金融強國建設貢獻更大力量。
+
+---
+
+### 2026-06-10 23:16:07  #市場 #焦點
+
+【美股三大指數均跌超1%】道指跌1.14%，現報50290.961點；納指跌1.43%，現報25312.809點；標普500指數跌1.01%，現報7311.910點。
+
+---
+
+### 2026-06-10 23:16:07  #市場 #國際
+
+美國股市跌幅擴大，標普500指數下跌1.00%。
+
+---
+
+### 2026-06-10 23:15:55  #國際
+
+據伊朗法爾斯通訊社10日報道，伊朗武裝部隊發言人阿布法茲勒·謝卡爾希當天就美國總統特朗普打擊伊朗基礎設施的言論表示，伊朗將對每一個來自美國的威脅作出“比以往更嚴厲、更強力、更具毀滅性”的回應。
+
+---
+
+### 2026-06-10 23:15:12  #國際
+
+伊朗議員埃斯梅爾·科薩里警告稱，除非波斯灣沿岸的阿拉伯國家阻止美國總統特朗普並將美軍逐出該地區，否則伊朗將打擊這些國家的基礎設施。
+
+---
+
+### 2026-06-10 23:14:51  #國際
+
+【我科學家主導發現全球最深最大鯨類化石群和鯨落】在中國科學院深海科學與工程研究所主導下，“全球深淵探索計劃”科研團隊在東南印度洋迪亞曼蒂納深淵，發現全球已知最深、規模最大的鯨類化石群和鯨落生態系統，並揭示該區域自530萬年前至今一直是鯨類的“大墓地”。相關論文成果6月10日線上發表於國際學術期刊《自然》。（新華社）
+
+---
+
+### 2026-06-10 23:13:43  #國際
+
+特朗普即將發表講話。
+
+---
+
+### 2026-06-10 23:13:27  #國際
+
+歐盟委員會主席馮德萊恩：歐洲與韓國建立了長久的夥伴關係，雙方合作空前緊密。今日我們宣佈簽署數字貿易協定並建立競爭力夥伴關係。
+
+---
+
+### 2026-06-10 23:12:58  #市場
+
+納斯達克100指數跌至盤中低點1.2%。
+
+---
+
+### 2026-06-10 23:12:50  #公司 #市場 #國際
+
+【美股晶片股普遍轉跌】美股晶片股普跌，高通跌逾5%，博通跌逾4%，美國超微公司、臺積電跌逾2%，英偉達跌2%
+
+---
+
+### 2026-06-10 23:12:25  #公司
+
+【長安汽車否認“四折出售長福新能源”，稱股權轉讓屬股東層面正常結構調整】有傳言稱長安汽車“四折出售長安福特新能源公司（簡稱“長福新能源”）40%股權”。6月10日，長安汽車方面回應稱，長安汽車直接持有長福新能源的股權就只有40%。本次股權轉讓是以評估機構對長福新能源的評估值為基準，對應40%股權的評估價值作為掛牌價格，並不存在所謂“四折出售”的情況。長安汽車方面表示，此次股權轉讓屬於股東層面的正常結構調整。
+
+---
+
+### 2026-06-10 23:12:01  #MKT News
+
+【Baltic Dry Index extends decline as capesize rates slide】The Baltic Dry Index extended its decline, falling 47 pts (-1.67%) to 2,771 as weaker capesize rates weighed. The capesize index dropped 140 pts (-3.2%) to 4,301; capesize average daily earnings fell $1,267 to $35,504. The panamax index rose 6 pts (0.3%) to 2,211, with panamax daily earnings up $51 to $19,897. The supramax index gained 4 pts (0.3%) to 1,618 and the handysize index added 7 pts to 875.
+
+---
+
+### 2026-06-10 23:11:18  #市場
+
+標普500指數跌至盤中低點0.8%。
+
+---
+
+### 2026-06-10 23:10:29  #其他
+
+超微電腦因70億美元融資計劃，股價跌幅擴大至17%。
+
+---
+
+### 2026-06-10 23:10:05  #MKT News #Market Themes #The Trump Trade #FOXA.O #Impact bullish
+
+U.S. House Democrats said the Trump administration’s probe into sports broadcasting rights is intended to help Fox secure a better deal.
+
+---
+
+### 2026-06-10 23:09:30  #MKT News
+
+Nominee for Bureau of Labor Statistics commissioner Matsumoto said maintaining transparency for data users helps ensure the Bureau's statistical processes remain free from political interference.
+
+---
+
+### 2026-06-10 23:09:07  #國際
+
+美國眾議院民主黨人表示，特朗普政府對體育轉播權展開調查，目的是幫助福克斯達成更有利的交易。
+
+---
+
+### 2026-06-10 23:08:57  #國際
+
+【特朗普：要求國會批准《外國情報監視法》的短期延期】美國總統特朗普表示：“就像此前邊境資金議題一樣，激進左翼民主黨人正借無關議題挾持國家安全事務。他們不該拿我們偉大國家的安全玩弄政治手段。我已任命威廉·普爾特擔任國家情報代理局長，其將於6月19日正式履職。我要求他立即對該機構進行必要精簡，將人員調回原所屬部門。與此同時，我正在物色一名具備國家安全領域經驗的正式國家情報總監人選。《外國情報監視法》第702條款對我方軍方以及保障美國民眾安全至關重要，當下正值世界盃賽事與美國建國250週年慶祝活動期間，該法案的作用尤為突出。若未能採取行動，這項重要法案將於本週到期。我請求國會批准短期延期《外國情報監視法》，為遴選並提名任命該機構正式負責人留出時間。”
+
+---
+
+### 2026-06-10 23:08:57  #MKT News
+
+President Trump asked Congress to submit a short-term extension of the Foreign Intelligence Surveillance Act for his signature.
+
+---
+
+### 2026-06-10 23:08:35  #MKT News #Important
+
+U.S. Defense Secretary Hegseth said it would be unwise for Cuba to seek weapons capable of striking the U.S. base at Guantanamo Bay or the U.S. homeland.
+
+---
+
+### 2026-06-10 23:08:03  #MKT News
+
+President Trump is seeking a nominee for permanent Director of National Intelligence with national security experience.
+
+---
+
+### 2026-06-10 23:07:33  #國際
+
+美國勞工統計局局長提名人松本：向資料使用者提高資料透明度，有助於保障統計流程不受政治干預。
+
+---
+
+### 2026-06-10 23:07:20  #MKT News #Market Themes #The Trump Trade
+
+President Trump asked Federal Housing Finance Agency Director Pulte to immediately implement necessary layoffs and return staff to their original agencies.
+
+---
+
+### 2026-06-10 23:07:15  #國際
+
+美國國防部長赫格塞思在訪問期間表示，古巴若尋求研發可打擊美軍關塔那摩灣基地或美國本土的武器，乃是不智之舉。
+
+---
+
+### 2026-06-10 23:07:06  #國際
+
+特朗普：已要求普爾特立即對該辦公室進行必要的裁員縮編，將工作人員遣返至其原所屬機構。
+
+---
+
+### 2026-06-10 23:07:02  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Strengthens After BoC Holds Rates — The Canadian dollar strengthened slightly to around 1.39 per US dollar after the Bank of Canada left its key interest rate unchanged at 2.25%, as widely expected. The central bank noted that uncertainty remains elevated amid escalating tensions in the Middle East and new US tariff proposals, but reiterated that it stands ready to act if needed and will not allow higher energy prices to feed sustained inflation. Investors largely expect the central bank to raise borrowing costs by 25bps in December. Still, the loonie remained near December lows, as the conflict with Iran continued to support demand for the US dollar as a safe haven.
+
+---
+
+### 2026-06-10 23:06:58  #國際
+
+特朗普：我正在尋找一名具備國家安全領域經驗的永久國家情報總監提名人選。
+
+---
+
+### 2026-06-10 23:06:44  #國際
+
+特朗普：要求國會批准《外國情報監視法》的短期延期。
+
+---
+
+### 2026-06-10 23:06:38  #國際
+
+美國勞工統計局局長提名人松本：我將全力恪守該局的公正性與獨立性。
+
+---
+
+### 2026-06-10 23:06:35  #MKT News
+
+U.S. Bureau of Labor Statistics (BLS) director nominee Matsumoto pledged to preserve the agency's integrity and independence.
+
+---
+
+### 2026-06-10 23:06:10  #MKT News #Market Regions #Emerging Markets #GOOGL.O #Impact bullish
+
+Google said it will roll out Chrome's GEMINI features to users in Latin America, Africa and the Middle East.
+
+---
+
+### 2026-06-10 23:06:01  #國際
+
+伊朗武裝部隊發言人：伊朗對美國總統特朗普的每一次威脅都予以了“當頭棒喝”，在特朗普威脅要襲擊伊朗基礎設施後，伊朗將採取比以往更加強硬的回應；面對“全球霸權體系和世界惡魔”，尤其是特朗普和內塔尼亞胡，我們絕不會退縮。
+
+---
+
+### 2026-06-10 23:04:47  #公司
+
+亞馬遜：AWS Graviton5現已全面推出，為智慧體AI時代提供專屬定製效能。
+
+---
+
+### 2026-06-10 23:03:59  #其他
+
+卡特彼勒股價跌5%。
+
+---
+
+### 2026-06-10 23:03:34  #MKT News #DXY #Impact bearish
+
+BOC Governor Macklem said if core inflation begins to rise, it would certainly draw the bank's attention.
+
+---
+
+### 2026-06-10 23:03:17  #央行 #其他
+
+加拿大央行行長麥克勒姆：若我們開始看到核心通脹上行偏移，勢必會引起我們的關注。
+
+---
+
+### 2026-06-10 23:02:52  #央行 #市場
+
+加拿大央行行長麥克勒姆：我們將核心通脹作為一項工具，用以判斷價格上漲的普遍程度。
+
+---
+
+### 2026-06-10 23:02:32  #其他
+
+【我國原創RNA編輯技術世界首次應用於罕見病治療】昌平實驗室/北京大學魏文勝教授團隊6月10日釋出，該團隊研發的RNA編輯技術LEAPER在治療杜氏肌營養不良症（簡稱“DMD”）這一嚴重遺傳性罕見病中取得國際領先成果。這是我國原創RNA編輯技術首次進入臨床研究，也是國際上首次將RNA編輯應用於DMD治療。該技術與應用兩項重要成果同期發表於當日上線的國際學術期刊《細胞》。（新華社）
+
+---
+
+### 2026-06-10 23:02:12  #MKT News
+
+India's Ministry of External Affairs is coordinating with Omani authorities on a search-and-rescue operation for missing Indian crew members; 21 have been rescued and three remain missing.
+
+---
+
+### 2026-06-10 23:01:57  #MKT News #Important #Commodities #Energy
+
+At the 23:00 close, China's most-active futures contracts were mostly higher: liquefied petroleum gas (LPG), low-sulfur fuel oil (LU) and coke rose more than 2%; fuel oil rose nearly 2%; propylene, ethylene glycol (EG), methanol and soybean No.2 gained over 1%. Synthetic rubber fell about 1%.
+
+---
+
+### 2026-06-10 23:01:46  #國際
+
+印度外交部：印度正與阿曼官方機構配合，開展針對失蹤印度船員的持續搜救行動。
+
+---
+
+### 2026-06-10 23:01:38  #國際
+
+印度外交部：油輪失聯事件目前已有21名印度船員獲救，仍有3名印度海員下落不明。
+
+---
+
+### 2026-06-10 23:01:27  #國際
+
+印度外交部：印度譴責週三阿曼沿海發生的“塞特貝洛”號商用油輪遇襲事件。
+
+---
+
+### 2026-06-10 23:01:26  #MKT News #Macro & Rates #US Economy
+
+U.S. Bureau of Labor Statistics commissioner nominee Matsumoto said initial and overall survey response rates have declined, which may reduce the representativeness of BLS samples.
+
+---
+
+### 2026-06-10 23:00:03  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Norwegian Krone Rises by 0.45% — Top currency gainers are Norwegian Krone (0.45%), Mexican Peso (0.41%), Indian Rupee (0.29%), British Pound (0.16%) and Euro (0.08%). Biggest loser is Japanese Yen (-0.08%). Meanwhile Dollar Index was little changed.
 
 ---
 
@@ -21496,543 +22108,5 @@ United States | Redbook Retail Sales (YoY) (Jun.6) | actual 9.1% | previous 9%
 ### 2026-06-09 20:53:27  #Trading Economics #Economy #Canada #Exports #Importance 1
 
 Canadian Exports Rise to Record High — Exports of Canadian goods surged by 1.6% from the previous month to C$75.2 billion in April of 2026, the highest on record. The increase was owed to a fresh jump in energy exports (9.7% to C$19.9 billion), as the war in the Middle East continued to prevent energy trade from the region and lifted prices for Canadian oil and natural gas, triggering a surge in their turnover. Exports also increased for farm, fishing, and intermediate food products (8.9% to C$5.3 billion) and aircraft and transportation equipment (13.8% to C$3.1 billion). Meanwhile, exports slumped for metal and non-metallic mineral products (-17.5% to $12.5 billion) despite remaining at historically elevated levels, as the surge in exports of gold, silver, and platinum to the UK in the previous months were unwound. Exports to the US rose for a third month, contributing to their largest surplus in 14 months, despite tariffs by the US President.
-
----
-
-### 2026-06-09 20:53:23  #國際
-
-【預測市場交易員：霍爾木茲海峽航運2026年大機率無法恢復正常 2027年1月前無法恢復正常的機率為65.5%】美國CNBC電視臺8日報道，預測市場交易員表示，霍爾木茲海峽航運2026年大機率無法恢復正常。在預測市場平臺上，霍爾木茲海峽航運在2027年1月前無法恢復正常的機率為65.5%，在今年8月前恢復正常的機率則在過去兩週內從超過60%驟降至21.5%。 (央視網)
-
----
-
-### 2026-06-09 20:53:03  #公司
-
-巴西航空工業公司高管表示：E2系列飛機停飛佔機隊比例已降至1%，主發動機問題已解決。
-
----
-
-### 2026-06-09 20:52:47  #公司 #國際
-
-澤連斯基：我會見了芬蘭總統與挪威首相，並介紹了烏克蘭與三方集團及美方的高層溝通情況。
-
----
-
-### 2026-06-09 20:52:36  #MKT News
-
-An Indian government official said India is considering extending the import-duty exemption for petrochemicals beyond June 30.
-
----
-
-### 2026-06-09 20:52:21  #其他
-
-沙特預算部門：所有運營業務與系統均繼續正常運轉，未出現任何中斷。
-
----
-
-### 2026-06-09 20:52:06  #其他
-
-沙特預算部門：正持續開展必要技術核查與調查，以全面評估事件影響範圍。
-
----
-
-### 2026-06-09 20:51:56  #國際
-
-印度政府官員稱，印度正考慮將石化產品的進口關稅免稅期延長至6月30日之後。
-
----
-
-### 2026-06-09 20:51:51  #其他
-
-沙特預算部門：其業務活動未受到任何財務或運營層面影響。
-
----
-
-### 2026-06-09 20:51:27  #其他
-
-沙特預算部門：檢測到一起網路安全事件，涉及資料範圍有限。該事件未危及任何客戶金融與銀行資訊保安。
-
----
-
-### 2026-06-09 20:51:09  #MKT News
-
-Saudi budget department detected a cybersecurity incident affecting a limited dataset.
-
----
-
-### 2026-06-09 20:50:25  #國際
-
-以色列外交部：令人驚訝的是，這些政府也未能針對真正助長暴力的現象實施制裁或採取行動——例如巴勒斯坦權力機構的“殺人有賞”政策以及其煽動行為。
-
----
-
-### 2026-06-09 20:49:30  #MKT News
-
-Israel's Foreign Ministry said it was surprising that these governments failed to sanction or act against phenomena that foster violence, citing the Palestinian Authority's 'pay-for-slay' policy and its incitement.
-
----
-
-### 2026-06-09 20:49:16  #公司
-
-【招商蛇口：5月簽約銷售面積65.51萬平方米，簽約金額209.23億元】招商蛇口公告，2026年5月公司實現簽約銷售面積65.51萬平方米，實現簽約銷售金額209.23億元。2026年1-5月，公司累計實現簽約銷售面積234.9萬平方米，累計簽約銷售金額760.35億元。自2026年4月銷售及購地情況簡報披露以來，公司近期新增1個專案：杭州市西湖區雙橋單元XH020302-17地塊（商業、住宅），土地面積2.87萬平方米，計容建築面積8.61萬平方米，權益比例100%，公司需支付價款12.18億元。
-
----
-
-### 2026-06-09 20:49:13  #國際
-
-以色列外交部：以色列堅決拒絕外國政府針對以色列公民、實體和部長採取的可恥措施。
-
----
-
-### 2026-06-09 20:48:54  #國際
-
-聯合國秘書長古特雷斯9日在社交媒體發文，對中東局勢再度升級深感震驚，並表示所有襲擊必須立即停止，黎巴嫩、伊朗和加沙地帶的停火必須得到充分尊重，任何可能破壞當前外交努力的舉動都必須避免。（新華社）
-
----
-
-### 2026-06-09 20:48:20  #其他
-
-【中國人民銀行與巴西中央銀行召開第四次中巴金融戰略合作工作組會議】2026年6月9日，第四次中巴金融戰略合作工作組會議召開，中國人民銀行行長潘功勝與巴西中央銀行行長加利波羅聯合主持會議。2024年底，中國和巴西兩國元首舉行會晤，一致同意成立中巴金融戰略合作工作組。中國人民銀行和巴西中央銀行作為工作組牽頭單位已組織召開二十多輪會議，全面推進中巴各領域金融合作。會議認為，中巴金融戰略合作工作組機制在構建本幣使用生態、金融服務實體經濟上發揮了重要作用，有力提升了兩國金融合作水平。下一步，中巴金融戰略合作工作組機制將繼續發揮戰略引領和政策協調作用，共同落實好各項合作成果，促進兩國金融合作不斷深化。（中國人民銀行）
-
----
-
-### 2026-06-09 20:48:17  #MKT News
-
-【PBOC and Brazil central bank hold fourth China‑Brazil financial strategic cooperation working group meeting】June 9, 2026 — PBOC's Pan and Brazil central bank governor Galipolo jointly chaired the fourth China‑Brazil Financial Strategic Cooperation Working Group meeting. The group, established after a 2024 leaders' meeting, has held more than 20 rounds of talks led by the PBOC and Brazil's central bank to advance bilateral financial cooperation. Officials said the mechanism has supported development of a local‑currency usage ecosystem and expanded financial services to the real economy. The working group will continue to provide strategic guidance and policy coordination to implement cooperation outcomes and deepen financial ties.
-
----
-
-### 2026-06-09 20:48:15  #公司 #市場 #國際
-
-【中韓半導體ETF華泰柏瑞漲停 年內釋出溢價風險提示超170次】今日，中韓半導體ETF華泰柏瑞漲停。中韓半導體ETF跟蹤的是中證韓交所中韓半導體指數，其成份股由韓國半導體巨頭（如三星電子、SK海力士）和A股半導體龍頭（如中芯國際、兆易創新等）共同構成。值得注意的是，目前，中韓半導體ETF華泰柏瑞溢價率已經高達19.36%，年內釋出溢價風險提示超170次。
-
----
-
-### 2026-06-09 20:48:10  #MKT News
-
-Israel's Foreign Ministry said it firmly rejects foreign governments' shameful measures targeting Israeli citizens, entities and ministers.
-
----
-
-### 2026-06-09 20:47:40  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #EURUSD #Impact bearish #WTI
-
-Poland's Prime Minister Tusk said the war in Ukraine cannot be resolved without Poland's participation.
-
----
-
-### 2026-06-09 20:47:34  #國際
-
-波蘭總理：若波蘭不參與其中，烏克蘭戰爭就不可能有解決方案。
-
----
-
-### 2026-06-09 20:45:38  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-【U.S. April trade deficit narrows as exports surge】Tuesday's data showed the U.S. goods and services trade deficit narrowed 1.2% in April to $55.9 bln as exports jumped to a record high. March's deficit was revised to $56.6 bln from $60.3 bln; economists had forecast $56.2 bln for April. If sustained, the export upswing could help trade contribute to GDP growth this quarter; trade has subtracted from GDP for two consecutive quarters.
-
----
-
-### 2026-06-09 20:44:35  #公司
-
-【美信科技：特定股東擬減持不超0.9283%股份】美信科技公告稱，股東潤科基金持有公司股份418,000股，佔總股本0.9283%，因資金需求，計劃自公告披露之日起15個交易日後的2個月內（2026年7月2日 - 2026年9月1日），以集中競價方式減持不超418,000股，即不超總股本0.9283%。本次減持計劃實施存在不確定性，不會導致公司控制權變化。
-
----
-
-### 2026-06-09 20:44:26  #國際
-
-聯合國秘書長古特雷斯：黎巴嫩、伊朗及加沙地區的停火協議必須得到全面遵守；對以色列決定關閉通往加沙的過境點深感擔憂；所有過境點應立即重新開放。
-
----
-
-### 2026-06-09 20:43:45  #公司 #市場 #其他 #焦點
-
-【高通美股盤前漲超2%，黃仁勳喊話：去買他們的股票】美股盤前，高通漲超2%，起因是英偉達執行長黃仁勳公開建議投資者買入這家晶片廠商的股票。 黃仁勳在發言中稱讚了高通在移動裝置領域的表現。 “我們並不十分擅長移動裝置業務，而且我們也沒必要深耕這塊，” 黃仁勳談及高通時補充道，“我認為他們做得非常出色。” 他直言：“去買他們的股票。” “這沒什麼問題。我一整天都在推介別家公司的股票。能助力同行是件好事，看到別人取得成功我們理應感到欣慰。”
-
----
-
-### 2026-06-09 20:42:32  #國際
-
-【美國4月份貿易逆差收窄 出口增速超過進口】由於出口增速超過進口增長，美國4月貿易逆差收窄。美國商務部週二的資料顯示，4月份商品和服務貿易逆差環比下降1.2%，降至559億美元。彭博對經濟學家進行調查得到的預測中值為貿易逆差561億美元。4月出口額環比增長2.6%，進口額增長2%。
-
----
-
-### 2026-06-09 20:42:13  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish #CNH #Impact bullish
-
-JP Morgan raised its emerging-market currency rating to overweight from neutral.
-
----
-
-### 2026-06-09 20:42:04  #觀點
-
-【高盛上調減肥藥市場預測：口服GLP-1進入大眾市場 2030年規模將達1140億美元】隨著口服GLP-1類減肥藥快速開啟市場，高盛進一步提高了對全球肥胖症藥物行業的增長預期。高盛最新發布的研究報告顯示，預計到2030年，全球減肥藥市場規模將達到1140億美元，較去年12月作出的1010億美元預測進一步上調約13%，因一系列利好因素正在推動這一賽道從“小眾高價市場”向“大眾消費級市場”轉變。
-
----
-
-### 2026-06-09 20:41:40  #公司
-
-【錦波生物：完成回購50萬股】錦波生物公告，公司於2026年4月9日召開董事會，審議透過了以集中競價交易方式回購公司股份方案。回購期限為自董事會審議透過本次股份回購方案之日起不超過3個月，即自2026年4月9日至2026年6月5日。截至2026年6月5日，公司透過回購股份專用證券賬戶以連續競價轉讓方式回購公司股份50萬股，佔公司總股本的0.43%，佔預計回購總數量上限的100%，最高成交價為180元/股，最低成交價為152.88元/股，已支付的總金額為8171.58萬元，佔公司擬回購資金總額上限的54.48%。
-
----
-
-### 2026-06-09 20:41:35  #其他
-
-富國銀行：貸款增長表現向好，最終結果將略好於此前模型預測水平。
-
----
-
-### 2026-06-09 20:41:34  #MKT News
-
-The Norwegian government is donating NOK 1.2 billion to Ukraine to fund maritime drones.
-
----
-
-### 2026-06-09 20:41:26  #觀點
-
-摩根大通將新興市場貨幣評級從“中性”上調至“增持”。
-
----
-
-### 2026-06-09 20:41:13  #國際
-
-印度國家證券交易所：將劃出年度企業社會責任基金總額的10%，用於投放到印度國家證券交易所社會證券交易所掛牌的專案中。
-
----
-
-### 2026-06-09 20:41:07  #國際
-
-挪威政府：向烏克蘭捐贈12億挪威克朗用於採購海上無人機。
-
----
-
-### 2026-06-09 20:40:52  #公司
-
-【曲江文旅：未彌補虧損達實收股本總額三分之一】曲江文旅公告稱，截至2025年12月31日，公司合併報表未分配利潤為-4.16億元，實收股本為2.55億元，未彌補虧損達實收股本總額三分之一。原因是2025年公司新舊動能動態調整，轉回遞延所得稅資產本期及前期虧損。該事項尚需提交股東會審議。公司計劃深化運營模式改革、加強成本管控，盤活存量資源，開發增量業務，最佳化資產結構。
-
----
-
-### 2026-06-09 20:40:52  #宏觀 #國際
-
-【6月9日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平出席金正恩舉行的歡迎宴會； 2.習近平和彭麗媛觀看朝鮮專場文藝演出； 3.習近平和彭麗媛參謁中朝友誼塔； 4.習近平參訪朝鮮勞動黨中央幹部學校； 5.習近平夫婦出席金正恩夫婦舉行的小範圍午宴； 6.習近平出席金正恩舉行的歡送儀式； 7.習近平結束對朝鮮國事訪問回到北京； 8.習近平向加拿大新任總督致賀電； 9.習近平同喬治亞總統就中格建交34週年互致賀電並共同宣佈將雙邊關係提升為全面戰略伙伴關係； 10.國務院舉行憲法宣誓儀式 李強總理監誓； 11.王滬寧在新疆調研； 12.韓正訪問白俄羅斯； 13.前5個月我國貨物貿易進出口同比增長15.3%； 14.第二屆世界古典學大會在希臘雅典舉辦； 15.國際聯播快訊： （1）伊朗和以色列分別宣佈暫停襲擊對方； （2）聯合國警告海洋生態惡化 呼籲全球行動。
-
----
-
-### 2026-06-09 20:40:36  #其他
-
-【香港國際機場7月推出“易泊遊”服務】今天（9日）起，“粵車南下”政策新增深圳、東莞、惠州、佛山、肇慶五座廣東城市。香港機場管理局表示，上述城市旅客可申請香港國際機場“易泊飛”服務，獲批後可從6月15日起，自駕車經港珠澳大橋抵達機場的自動化停車場，完成泊車後便可前往機場禁區登機。 機場還將於7月16日推出全新“易泊遊”服務，7月25日起，獲批旅客停車後可搭乘接駁巴士，從港珠澳大橋香港口岸入境香港。 機管局行政總裁張李佳蕙表示，將藉助港珠澳大橋最佳化“多式聯運”服務，便利旅客出行，助力香港旅遊業發展。（大灣區之聲）
-
----
-
-### 2026-06-09 20:40:23  #Trading Economics #Economy #United States #Imports #Importance 1
-
-US Imports Rise to 1-Year High — Imports into the United States rose by 2.0% from the previous month to $383.0 billion in April of 2026, the highest in one year, and the fourth highest reading on record. Imports of foreign goods rose by 2.1% to $304.9 billion in the period amid higher purchases of computers, semiconductors, and telecommunications equipment, aligned with the surge in investments on AI infrastructure from the largest companies in the US, which take in a lot of their capital goods from Asia. In turn, foreign purchases of industrial supplies decreased. Imports of services rose by 1.6% to $78.0 billion.
-
----
-
-### 2026-06-09 20:40:14  #國際
-
-【以軍稱在北部打死越境開火武裝人員】以色列軍方稱，以軍今天（6月9日）在以色列北部上加利利地區拉米姆山脊地區“遭到槍擊”。以軍還擊並打死一名“越境武裝人員”。以色列軍方稱，這起事件仍在持續進行中。據以色列媒體報道，以色列北部靠近以黎臨時邊境的多個社群居民接到要求“立即就地避險”的緊急指令。當地已實施緊急交通管制，部分路段被封閉。（CCTV國際時訊）
-
----
-
-### 2026-06-09 20:39:39  #其他
-
-阿聯酋航空總裁：認為油價將逐步回落至每桶60美元中段至70美元低段的區間。
-
----
-
-### 2026-06-09 20:39:28  #Trading Economics #Economy #Canada #Balance of Trade #Importance 2
-
-Canada Posts Larger-Than-Expected Trade Surplus — Canada reported a trade surplus of C$2.7 billion in April 2026, up from C$1.8 billion in the prior month and slightly surpassing market forecasts of a C$2.6 billion surplus. This marked the second consecutive trade surplus and the largest since January 2025. Exports increased 1.6% over a month to a record high of $75.2 billion, while imports edged up 0.3% to an-all time high of $72.4 billion.
-
----
-
-### 2026-06-09 20:39:18  #MKT News
-
-Emirates' president said first-class load factors before the Iran war were about half of normal levels.
-
----
-
-### 2026-06-09 20:39:14  #公司
-
-【佑駕創新L4無人巴士獲超1.3億元訂單】佑駕創新發布公告稱，近期與專注智慧交通領域的獨立第三方正式簽署《自動駕駛車輛採購合同》，由佑駕創新向合作方供應無人巴士、自動駕駛套件並提供配套技術服務。本次合同涉及上百臺無人巴士及相關配套服務，含稅總金額超過人民幣1.3億元，交付產品將主要應用於當地文旅、微迴圈及公交應用場景。
-
----
-
-### 2026-06-09 20:39:00  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Emirates Airline president expects oil prices to gradually fall back to a range in the mid-$60s to low-$70s per barrel.
-
----
-
-### 2026-06-09 20:38:49  #MKT News #Commodities #Energy
-
-Emirates president says the airline cannot cut fares because airfares remain closely tied to fuel costs.
-
----
-
-### 2026-06-09 20:38:40  #Trading Economics #Economy #United States #Balance of Trade #Importance 3
-
-US Trade Deficit Narrows as Exports Hit New Record — The US trade deficit narrowed to $55.9 billion in April 2026 from a revised $56.6 billion in March, beating market expectations of $56.1 billion. Exports rose 2.6% ($8.3 billion) to a record $327.1 billion, driven by higher sales of capital goods (up $4.0 billion), including computers and civilian aircraft, industrial supplies (up $2.5 billion), led by crude oil and petroleum products amid rising energy prices due to Middle East tensions, and consumer goods (up $1.7 billion). However, service exports fell $0.4 billion, weighed down by declines in travel, transport, and maintenance services. Imports increased 2.0% ($7.6 billion) to $383.0 billion.
-
----
-
-### 2026-06-09 20:38:36  #Trading Economics #Economy #Canada #Imports #Importance 1
-
-Canada Imports Hit Record High in April — Canada’s imports edged up 0.3% month-on-month to a record C$72.4 billion in April 2026, with gains recorded in 6 of the 11 product categories. Imports of basic and industrial chemical, plastic, and rubber products rose 16.9%, providing the largest contribution to the increase. Purchases of lubricants and other petroleum refinery products jumped 49.0%, mainly due to higher imports of crude oil diluents from the US. Imports of electronic and electrical equipment and parts increased 4.2%, while imports of computers and computer peripherals rose 13.2% to a record high, driven by higher shipments of processing units from Ireland for use in data centres. Partially offsetting these gains was a 12.9% decline in imports of metal and non-metallic mineral products, largely reflecting a 27.5% drop in purchases of unwrought gold, silver, platinum group metals, and their alloys.
-
----
-
-### 2026-06-09 20:38:29  #MKT News
-
-Emirates president said the airline is consulting with relevant governments on easing travel advisories for Middle East airspace.
-
----
-
-### 2026-06-09 20:38:28  #央行 #其他
-
-【分析：加拿大央行或暗示對需求減弱的擔憂】加鼎華阜合作銀行宏觀策略主管Royce Mendes表示，加拿大央行可能會暗示，官員們對需求減弱的擔憂程度，與對能源驅動的通脹風險的擔憂程度一樣，甚至可能更甚。他說，鑑於核心通脹得到控制，且過去四個季度中有三個季度GDP出現下滑，加拿大央行考慮加息以抵禦通脹風險的空間有限。“所有跡象都表明該國經濟出現了典型的需求短缺，”Mendes說。第一季度，消費者支出放緩，國內總需求下降。Mendes說，加拿大央行高階官員“不再需要全神貫注於與高通脹、低增長經濟相關的政策權衡。該團隊可以轉而關注如果需求進一步惡化可能需要採取的措施。”
-
----
-
-### 2026-06-09 20:37:27  #國際
-
-阿聯酋航空總裁：伊朗局勢升溫前，阿聯酋航空頭等艙載客量約為正常水平的一半。
-
----
-
-### 2026-06-09 20:37:09  #其他
-
-阿聯酋航空總裁：阿聯酋航空無法下調與燃油成本緊密掛鉤的機票價格。
-
----
-
-### 2026-06-09 20:36:55  #國際
-
-阿聯酋航空總裁：阿聯酋航空正就放寬中東空域出行警示與多國政府磋商。
-
----
-
-### 2026-06-09 20:36:45  #MKT News
-
-Emirates president says the airline will offer non-price incentives, including safety guarantees and travel assurances, to passengers to mitigate the impact of the Iran war.
-
----
-
-### 2026-06-09 20:36:10  #國際
-
-阿聯酋航空總裁：受伊朗局勢影響，航司將向旅客推出非價格類福利，包含安全承諾與出行保障服務。
-
----
-
-### 2026-06-09 20:35:36  #Trading Economics #Economy #United States #Exports #Importance 1
-
-US Exports Rise to Fresh Record High — US exports rose 2.6% or $8.3 billion from the prior month to a record $327.1 billion in April, driven by strong gains in goods shipments. Goods exports increased by $8.7 billion to $221.3 billion, with Census-based goods exports up $8.0 billion. The largest contributions came from capital goods, which rose $4.0 billion, supported by higher computer exports up $2.5 billion, civilian aircraft up $1.0 billion, and industrial supplies and materials up $2.5 billion. Energy-related exports also strengthened, with crude oil increasing $6.4 billion, fuel oil up $1.3 billion, and other petroleum products up $1.0 billion. These gains were partly offset by declines in non-monetary gold, down $5.8 billion, and other precious metals, down $1.9 billion, while consumer goods rose $1.7 billion. Services exports edged lower by $0.4 billion to $105.8 billion, with declines in travel, transport, and maintenance and repair services, partially offset by a small gain in other business services.
-
----
-
-### 2026-06-09 20:35:11  #國際
-
-以色列國防軍：黎巴嫩邊境附近一名槍手向軍方人員開火後被擊斃。
-
----
-
-### 2026-06-09 20:34:39  #其他
-
-黎巴嫩總統：必須採取措施解決真主黨武器問題。
-
----
-
-### 2026-06-09 20:34:32  #MKT News
-
-Lebanese president says measures must be taken to resolve Hezbollah's weapons issue.
-
----
-
-### 2026-06-09 20:34:12  #國際
-
-【以色列空襲黎巴嫩南部致至少40人傷亡】黎巴嫩衛生部9日發表宣告說，以色列當天對黎巴嫩南部提爾地區的提爾市發動空襲，已造成至少8人死亡、32人受傷。宣告說，提爾市的馬薩坎社群遭到以軍空襲，目前廢墟清理工作仍在進行中。據黎巴嫩真主黨旗下燈塔電視臺當天早些時候報道，真主黨發表宣告說，其挫敗了以色列一支裝甲部隊在提爾地區推進的企圖，並迫使其撤退。 (新華社)
-
----
-
-### 2026-06-09 20:34:03  #公司
-
-【深交所上市委：鴻富誠首發獲透過】深交所上市委公告，深圳市鴻富誠新材料股份有限公司（簡稱“鴻富誠”）首發獲透過。
-
----
-
-### 2026-06-09 20:33:33  #公司
-
-【ST路通：特定股東及高管擬減持不超3.33%股份】ST路通公告稱，特定股東萍鄉匯德及高階管理人員莊小正擬減持公司股份。萍鄉匯德持有399.5萬股（佔總股本2.00%），計劃2026年7月2日至9月30日，以集中競價減持不超200萬股（佔1.00%）、大宗交易減持不超400萬股（佔2.00%）；莊小正持有261.69萬股（佔1.31%），同期擬以集中競價減持不超65.4萬股（佔0.33%）。減持因自身資金需求，是否實施及完成存在不確定性。
-
----
-
-### 2026-06-09 20:33:14  #公司
-
-【京基智農：京基集團擬協議轉讓5%股份 總價3.74億元】京基智農公告稱，資訊披露義務人京基集團基於自身資金需求，於2026年6月8日與麻長煒簽訂《股份轉讓協議》，擬協議轉讓2651.01萬股（佔總股本5%）給麻長煒，交易對價3.74億元，單價14.10元/股。本次權益變動後，京基集團及其一致行動人持股比例由49.26%降至44.26%，不會導致控股股東、實控人變化。本次轉讓尚需深交所稽核，能否完成存在不確定性。
-
----
-
-### 2026-06-09 20:33:05  #經濟數據 #美國
-
-【美國4月石油進口價格為78.24美元/桶】美國4月石油進口價格為78.24美元/桶，相比3月的63.40美元/桶有所上漲，較去年同期的66.06美元/桶上漲了18.4%。
-
----
-
-### 2026-06-09 20:33:01  #公司
-
-【海關總署：規範無人機及相關物項出口申報】海關總署釋出2026年第78號公告，規範無人機及相關物項出口申報。公告所稱無人機及相關物項，是指無人駕駛航空器、無人駕駛飛艇及相關裝置和部件、民用反無人駕駛航空器系統等。本公告自2026年6月30日起施行。
-
----
-
-### 2026-06-09 20:32:57  #市場
-
-巴西淡水河谷：估算考慮了2026年銅、鎳和黃金的平均價格。
-
----
-
-### 2026-06-09 20:32:34  #公司
-
-洲際交易所集團宣佈推出人工智慧驅動的交易分析平臺ICE Compass。
-
----
-
-### 2026-06-09 20:32:09  #經濟數據 #美國
-
-美國4月出口環比增長2.6%，進口環比增長2.0%。
-
----
-
-### 2026-06-09 20:32:05  #公司
-
-市場訊息：ATOS INTL 與微軟擴大戰略合作，旨在為 ATOS 集團員工和客戶擴充套件安全的智慧代理人工智慧應用。
-
----
-
-### 2026-06-09 20:31:51  #市場 #國際
-
-美國4月石油進口價格為78.24美元/桶，相比3月的63.40美元/桶有所上漲，較去年同期的66.06美元/桶上漲了18.4%。
-
----
-
-### 2026-06-09 20:31:48  #公司
-
-【*ST傳智：公司股票將於6月11日起撤銷退市風險警示】*ST傳智公告，公司股票將於2026年6月10日停牌一天，並於2026年6月11日開市起復牌並撤銷退市風險警示，股票簡稱由“*ST傳智”變更為“傳智教育”，證券程式碼仍為“003032”。撤銷退市風險警示後，公司股票交易價格日漲跌幅限制變更為10%。
-
----
-
-### 2026-06-09 20:31:45  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. crude oil import price in April was $78.24 per barrel, up from $63.40 in March and 18.4% higher YoY from $66.06 a year earlier.
-
----
-
-### 2026-06-09 20:31:38  #國際
-
-市場訊息：烏克蘭2026 年白砂糖產量預計下降三分之一，至 120 萬噸。
-
----
-
-### 2026-06-09 20:31:04  #其他
-
-加拿大4月貿易帳 27.2億加元，預期25.7億加元，前值由17.8億加元修正為17.5億加元。
-加拿大4月出口 751.6億加元，前值由727.7億加元修正為739.8億加元。
-加拿大4月進口 724.4億加元，前值由709.9億加元修正為722.3億加元。
-
----
-
-### 2026-06-09 20:31:00  #經濟數據 #美國
-
-美國4月貿易帳錄得逆差559億美元，預期為逆差561億美元。
-
----
-
-### 2026-06-09 20:30:47  #國際
-
-美國4月貿易帳 -559億美元，預期-561億美元，前值由-603億美元修正為-566億美元。
-美國4月出口 3271億美元，前值3209億美元。
-美國4月進口 3830億美元，前值3812億美元。
-
----
-
-### 2026-06-09 20:30:46  #MKT News #Macro & Rates #US Economy
-
-U.S. April imports $383.0 bln, prior $381.2 bln.
-
----
-
-### 2026-06-09 20:30:44  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #XAUUSD #Impact bearish
-
-U.S. exports in April totaled $327.1 bln, versus $320.9 bln previously.
-
----
-
-### 2026-06-09 20:30:38  #MKT News #Economic Calendar #Important
-
-United States | Imports (Apr) | actual 383000000000B | previous 381200000000B
-
----
-
-### 2026-06-09 20:30:30  #MKT News #Economic Calendar #Important
-
-United States | Exports (Apr) | actual 327100000000B | previous 320900000000B
-
----
-
-### 2026-06-09 20:30:29  #公司 #央行 #國際
-
-【三菱日聯銀行：即使日本央行加息，日元料將依然疲軟】三菱日聯銀行的Lee Hardman在一份報告中表示，日本央行在6月16日加息不太可能引發日元疲軟態勢的重大逆轉。他說，這是因為市場已幾乎完全反映了對這一舉措的預期。據媒體報道，日本央行還在考慮從2027年4月起暫停縮減其政府債券購買計劃。“總的來說，最新事態發展並未改變我們的觀點，即在能源價格衝擊的最糟糕時期開始消退之前，日元在短期內料將依然疲軟。“倫敦證券交易所集團的資料顯示，美元兌日元持平於160.15日元，接近週一觸及的五週高點160.39日元。
-
----
-
-### 2026-06-09 20:30:17  #MKT News
-
-Canada April imports CAD 72.44 bln; prior reading revised from CAD 70.99 bln to CAD 72.23 bln.
-
----
-
-### 2026-06-09 20:30:12  #MKT News #DXY #Impact bearish
-
-Canada April exports CAD 75.16 bln; March revised to CAD 73.98 bln from CAD 72.77 bln.
-
----
-
-### 2026-06-09 20:30:11  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
-
-U.S. trade deficit narrowed to $55.9 bln in April, versus $56.1 bln expected; March deficit revised from $60.3 bln to $56.6 bln.
-
----
-
-### 2026-06-09 20:30:11  #MKT News #XAUUSD #Impact bullish #DXY
-
-UN Secretary-General Guterres said he is deeply concerned by Israel's decision to close crossings into Gaza and called for all crossings to be reopened immediately.
-
----
-
-### 2026-06-09 20:30:11  #MKT News #DXY #Impact bearish
-
-Canada trade balance Apr: CAD 2.72 bln surplus, vs CAD 2.57 bln expected; Mar trade surplus revised down to CAD 1.75 bln from CAD 1.78 bln.
-
----
-
-### 2026-06-09 20:30:01  #MKT News #Economic Calendar #Important
-
-Canada | Imports (Apr) | actual 72440000000B | previous 70990000000B
-
----
-
-### 2026-06-09 20:30:01  #MKT News #Economic Calendar #Important
-
-Canada | Exports (Apr) | actual 75160000000B | previous 72770000000B
-
----
-
-### 2026-06-09 20:30:01  #MKT News #Economic Calendar #Important
-
-Canada | Trade Balance (Apr) | actual 2720000000B | consensus 2570000000B | previous 1780000000B
-
----
-
-### 2026-06-09 20:30:00  #MKT News #Economic Calendar #Important
-
-United States | Trade Balance (Apr) | actual -55900000000B | consensus -56100000000B | previous -60300000000B
 
 ---

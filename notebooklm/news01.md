@@ -1,7 +1,270 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-13 13:44:17_
-_本檔包含 3652 則快訊，約 666900 字_
+_更新時間：2026-06-13 15:33:07_
+_本檔包含 3583 則快訊，約 664933 字_
+
+---
+
+### 2026-06-13 15:31:22  #市場 #國際
+
+【俄外交部：期望與中國在電影等人文領域加強合作】俄羅斯外交部發言人扎哈羅娃日前在例行記者會上表示，俄中在電影領域的合作在雙方人文合作中佔有特殊地位，俄方期望與中國在人文領域持續加強合作。“2026中國電影節”於6月8日至14日在莫斯科、葉卡捷琳堡、符拉迪沃斯託克舉行，電影節期間展映《長安的荔枝》《長安三萬裡》《海的盡頭是草原》等多部中國電影以及中俄合拍電影《紅絲綢》。（新華社）
+
+---
+
+### 2026-06-13 15:29:14  #國際
+
+以色列軍方電臺：24 小時內，一架與真主黨有關的無人機第二次侵犯以色列北部領空。
+
+---
+
+### 2026-06-13 15:25:29  #公司
+
+【雲南銅業：今年以來硫酸銷售價格持續處於高位】雲南銅業近日接受機構調研時表示，根據公司2026年度生產計劃，硫酸全年計劃產量為576萬噸。2026年一季度，硫酸產量按計劃有序推進。價格方面，硫酸作為銅冶煉的副產品，其售價受區域市場供需、運輸條件及行業景氣度等多重因素影響。今年以來，受下游需求旺盛、部分產區供應偏緊等影響，硫酸銷售價格持續處於高位。公司緊抓市場機遇，合理安排生產與銷售，實現了對經營業績的積極貢獻。同時，公司將持續關注價格變化，動態最佳化產銷節奏。
+
+---
+
+### 2026-06-13 15:23:32  #其他
+
+【增途資本創始合夥人張宇：未來重要的是品牌出海和本地工廠的建設】在今日“2026中國企業全球影響力對話”上，增途資本創始合夥人張宇凡在主旨演講《全球視野·本地智慧新興市場投資機遇與挑戰》中表示，中國擁有供應鏈、經驗、人才和資本等諸多優勢，此前是貿易和供應鏈出海，未來更重要的是品牌出海，以及本地工廠的建設。在具體方向上，他建議關注電商、零售、雜貨、交通運輸、日化、建材，以及醫療器械等。
+
+---
+
+### 2026-06-13 15:15:39  #其他
+
+【提升極端天氣災害防範應對能力 多部門聯合會商築牢防線】6月12日，國家防減救災委辦公室組織教育部、公安部、住房城鄉建設部、交通運輸部、文化和旅遊部、廣電總局、體育總局和中國氣象局等部門單位，召開極端天氣預警和應急響應聯動協同工作機制專題會議，進一步提升極端天氣災害防範應對能力。
+
+---
+
+### 2026-06-13 15:12:05  #公司 #國際
+
+【CEGA韓雷蒙：北非擁有多重優勢，企業應當抱團出海、集體作戰】在今日（6月13日）舉辦的“2026中國企業全球影響力對話”上，集團執行董事、CEGA中非經濟合作中心執行理事長韓雷蒙圍繞《立足地緣格局重塑出海座標——優選北非撬動歐非中東市場》發表主旨演講，他指出，北非擁有關稅、物流、渠道、貿易服務區等優勢，建議企業“抱團出海、集體作戰”，共享前倉後店、分層次本地化採購、聯合組裝線，從而降低企業成本。
+
+---
+
+### 2026-06-13 15:11:41  #公司 #國際
+
+【今日特朗普要聞】
+1、特朗普稱伊朗洩露的協議條款與事實毫無關係，並譴責伊朗襲擊霍爾木茲海峽船隻。
+2、特朗普在社交平臺轉發伊朗外長相關推文截圖，認為對方表態積極，要求伊方澄清不實的協議細節報道，並預估美伊協議或於本週末或下週一簽署。
+3、特朗普稱伊朗襲擊印度船隻的行為不可接受。
+4、特朗普政府禁止境外主體獲取 Anthropic旗下Mythos 5與Fable 5兩款人工智慧模型模型。
+5、特朗普在真實社交上發帖稱與委內瑞拉聯合打擊了阿拉瓜販毒集團頭目。
+
+---
+
+### 2026-06-13 15:10:28  #公司 #市場
+
+【美格智慧：儲存晶片價格上漲成本在合理、有序向下遊客戶傳導】美格智慧6月11日接受機構調研時表示，公司目前存貨金額較大，其中很大部分是儲存晶片備貨。在儲存晶片漲價早期，公司根據研發專案、訂單情況，及對儲存晶片行情預測，為保證客戶訂單順利交付，進行了較大金額的戰略備貨，對後續產品利潤有正面影響。儲存晶片價格上漲成本，我們在合理、有序向下遊客戶傳導，比如車載產品、海外運營商5G產品等，都進行了價格調整。
+
+---
+
+### 2026-06-13 15:08:18  #其他
+
+【湖南釋出暴雨黃色預警】湖南省氣象臺13日8時釋出暴雨黃色預警：預計13日8時至14日8時，湘東、湘南部分地區將出現暴雨，其中永州南部、郴州西南部局地有大暴雨，並伴有短時強降水、雷雨大風等強對流天氣。黃色預警區域為株洲南部、長沙東部、衡陽南部、永州、郴州。（新華社）
+
+---
+
+### 2026-06-13 15:08:02  #公司 #國際
+
+美國國家公路交通安全管理局 (NHTSA) ：福特汽車在美國召回 4,445 輛汽車，涉及部分 2017 款 F-150 皮卡，這些車輛此前曾因召回編號 17V053 的問題而進行過不當維修。在寒冷環境下首次啟動車輛後，儀表盤可能會斷電。包括變速箱檔位指示器在內的多個儀表可能無法點亮。儀表盤若無法顯示關鍵安全資訊（例如檔位或警告燈），會增加碰撞或受傷的風險。
+
+---
+
+### 2026-06-13 15:08:00  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Al Jazeera reported Israel carried out a second airstrike on the town of Mahmudiyeh in the Jezzine district of southern Lebanon.
+
+---
+
+### 2026-06-13 15:04:37  #國際
+
+【近六成美國人認為到2050年美國重要性將減弱】美國皮尤研究中心12日釋出的一項民意調查顯示，在美國獨立250週年之際，美國民眾普遍情緒悲觀，約58%受訪者認為到2050年美國在全球的重要性將減弱。這項民調結果顯示，多數美國人對美國在2050年前的發展前景持消極看法：其中三分之二的受訪者認為美國政治將愈加分裂，56%認為美國的居住環境將更加危險，55%預判美國經濟將走弱，54%擔心美國政府系統執行將惡化。（新華社）
+
+---
+
+### 2026-06-13 14:58:11  #行業 #公司 #市場
+
+【李斌：今年5月國內純電滲透率已經超過油車，純電趨勢不可逆轉只會加速】在2026中國汽車重慶論壇閉幕全體會議上，蔚來創始人、董事長、CEO李斌發表演講。他表示，汽車行業進入決賽最殘酷的競爭階段，今年的市場環境非常難，特別是國內零售市場。乘聯會資料顯示，今年1-5月，國內零售市場同比下降了19.5%。“下半年會逆勢增長嗎？我們自己認為是不會。整個行業應該做好全年國內零售量同比下跌15%-20%的心理準備。全國乘用車保有量是3.7億輛，很多人家裡面已經不止一臺車了，汽車行業開始進入到存量時代。”另外，他認為，從今年開始進入純電拐點加速爬升的階段。乘聯會資料顯示，今年5月新能源的滲透率已經到了62.9%，純電在新能源裡的滲透率到了67.1%，意味著純電在整個汽車裡的滲透率已經到了42.2%。事實上，今年5月純電在所有的動力形式裡已經是第一名，已經超過了油車。“我們認為還會進一步提速，最終終局是什麼樣？其實挪威給了很好的一個例子，已經達到了98%的新能源滲透率，98％裡面有98％是純電，大概算下來差不多96％就是純電。我們認為這個趨勢是不可逆轉的，而且它只會加速。”（新浪科技）
+
+---
+
+### 2026-06-13 14:56:46  #公司
+
+【上海網信辦：針對上海攜程商務有限公司未落實資料出境安全評估要求、違法出境個人資訊等行為，予以罰款1000萬元處罰】近期，在國家網信辦指導下，上海市網信辦針對屬地部分企業網路資料安全主體責任履行不到位、安全管理防護措施缺失、後端處理資料合規能力不足、資料出境合規審計不嚴等問題辦理了一批執法案件。其中，針對上海攜程商務有限公司未落實資料出境安全評估要求、違法出境個人資訊等行為，依據《個人資訊保護法》，予以罰款1000萬元的行政處罰，並責令企業限期改正。企業受處罰後積極配合，全面落實有關整改要求。（網信上海）
+
+---
+
+### 2026-06-13 14:54:30  #MKT News #Market Themes #AI Revolution
+
+【Seoul bans AI smart glasses for students in final exams】Seoul Metropolitan Office of Education said on the 12th it sent a notice the previous day to city primary and secondary schools and district education offices banning candidates from wearing AI-enabled smart glasses during final exams. The office listed the devices as prohibited exam items and instructed schools to notify students and parents that bringing such glasses into exam rooms will be treated as cheating.
+
+---
+
+### 2026-06-13 14:49:30  #國際
+
+印度空軍宣告：印度空軍一架安 - 32 運輸機今日在焦爾哈特降落時發生事故。我方已成立調查法庭，徹查事故原因。
+
+---
+
+### 2026-06-13 14:43:35  #公司
+
+【以科創板改革之力託舉硬科技未來】《中國證券報》13日刊發評論員文章《以科創板改革之力託舉硬科技未來》。文章稱，6月13日，科創板迎來開板七週年。七年前，這塊資本市場全面深化改革的“試驗田”正式啟動；七年後，碩果盈枝，“硬科技”的成色在時間的淬鍊中愈發鮮明——超600家上市公司、超14萬億元總市值、近萬億元首發募資，科創板已從初創時的點點星火，匯聚成培育新質生產力的廣袤“生態林”。（新華社）
+
+---
+
+### 2026-06-13 14:42:29  #國際
+
+歐洲地中海地震中心(EMSC)：秘魯與厄瓜多邊境地區發生5.5級地震。
+
+---
+
+### 2026-06-13 14:42:15  #MKT News
+
+EMSC reports a magnitude 5.5 earthquake in the Peru-Ecuador border region.
+
+---
+
+### 2026-06-13 14:40:31  #國際
+
+【首爾禁止中小學生戴AI眼鏡參加期末考試】韓國首都首爾市教育廳12日說，已於前一日向該市中小學校及轄區教育部門下發通知，禁止考生戴AI智慧眼鏡參加期末考試。據韓國《中央日報》報道，首爾市教育廳擔心學生利用AI眼鏡在期末考試中作弊，因此將其列入考場違禁物品清單。這份通知要求學校提前告知學生及家長，如攜帶這類眼鏡進入考場，將一律按作弊處理。（新華社）
+
+---
+
+### 2026-06-13 14:39:06  #MKT News #AMD.O #Impact bearish
+
+【Cathie Wood's ARK Invest buys SpaceX stock, trims AMD holdings】ARK Invest disclosed June 12, 2026 trades showing a material shift: multiple ARK ETFs bought a combined 3,291,184 shares of SpaceX for $444,309,840, while ARKQ, ARKW and ARKX sold a total of 80,536 AMD shares for $39,337,809, extending a recent reduction in AMD exposure and signaling increased interest in the space-technology sector.
+
+---
+
+### 2026-06-13 14:35:28  #國際
+
+【阿根廷說未在門多薩省發現攜帶漢坦病毒齧齒類動物】阿根廷衛生部12日說，在該國西部的門多薩省沒有發現攜帶漢坦病毒的齧齒類動物。8日至12日，阿根廷國家實驗室與衛生研究所管理局卡洛斯·馬爾夫蘭研究所、美國疾病控制和預防中心的專家團隊在門多薩省展開漢坦病毒調查。團隊佈設陷阱捕捉長尾侏儒稻鼠等齧齒類動物，以確認漢坦病毒在這裡的傳播情況。阿根廷衛生部在12日釋出的報告中說，沒有發現攜帶漢坦病毒的齧齒類動物。（新華社）
+
+---
+
+### 2026-06-13 14:32:57  #其他
+
+黎巴嫩總統稱：當下局勢不容許宗派鬧劇與地區權力博弈。
+
+---
+
+### 2026-06-13 14:32:37  #其他
+
+黎巴嫩總統表示：民族團結並非流於形式的口號，而是關乎國家存續的必然要求。
+
+---
+
+### 2026-06-13 14:27:10  #其他
+
+【智譜：GLM-5.2將面向GLM Coding Plan全量使用者開放】6月13日，據智譜訊息，今晚5:21，GLM-5.2將面向GLM Coding Plan全量使用者開放，覆蓋Lite / Pro / Max / 團隊版。GLM-5.2 API將於下週上線，模型下週正式開源，遵循MIT協議。
+
+---
+
+### 2026-06-13 14:22:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel issued mandatory evacuation orders for 20 towns and villages in Lebanon.
+
+---
+
+### 2026-06-13 14:16:58  #其他
+
+【北京市釋出雷電黃色預警】6月13日，北京市氣象局釋出雷電黃色預警：預計6月13日15時至23時，我市自西向東將出現雷陣雨，局地短時雨強較大，並伴有7級以上短時大風和冰雹，請注意防範。
+
+---
+
+### 2026-06-13 14:16:55  #MKT News
+
+Russia's Krasnodar regional governor said a fire at an offshore pier was caused by a drone attack.
+
+---
+
+### 2026-06-13 14:16:42  #MKT News
+
+i24 News reported the Israel Defense Forces intercepted an aerial object originating from Lebanon after air-raid sirens sounded in northern Israel.
+
+---
+
+### 2026-06-13 14:16:41  #國際
+
+俄羅斯克拉斯諾達爾邊疆區一處海上碼頭遭無人機襲擊後起火，當地官方已證實該訊息。
+
+---
+
+### 2026-06-13 14:16:07  #國際
+
+市場訊息：以色列北部響起防空警報後，以色列國防軍攔截了一枚從黎巴嫩入境的空中目標。
+
+---
+
+### 2026-06-13 14:12:37  #公司 #市場 #國際
+
+【美議員抨擊稅制不公要求對富人徵稅】國企業家埃隆·馬斯克12日成為全球首位萬億美元富豪後，美國政界多位人士抨擊美國稅制不公，要求富人承擔更多稅負。聯邦參議員伯尼·桑德斯在社交媒體上說，馬斯克成為萬億富豪不值得慶祝，需要採取行動應對現在空前的收入和財富不均，美國社會機理正在被破壞。聯邦眾議員薩拉·雅各布斯說，世界上首位萬億富豪馬斯克的有效稅率低於卡車司機、消防員或護士，“我們事實上需要向富人徵稅”。聯邦參議員伊麗莎白·沃倫、聯邦眾議員普拉米拉·賈亞帕爾和紐約市市長祖赫蘭·馬姆達尼等也透過社交媒體表達類似觀點。馬斯克創立的太空探索技術公司12日在納斯達克證券交易所上市交易，其股價當日收盤時上漲約19%，公司市值在當日超過2萬億美元。馬斯克隨之成為全球首位萬億美元富豪。（新華社）
+
+---
+
+### 2026-06-13 14:12:18  #國際
+
+市場訊息：以色列對黎巴嫩南部的20個城市和村莊釋出了緊急疏散警告，並要求這些地區的居民立即離開住所，遷移到澤赫拉尼河以北地區。
+
+---
+
+### 2026-06-13 14:10:10  #國際
+
+以色列軍方：我們將不得不對真主黨採取行動，因其違反停火協議。剛剛響起的警報是關於在梅圖拉和米斯加夫·阿姆地區出現敵方飛機入侵，以色列空軍攔截了一架從黎巴嫩進入以色列領空的可疑空中目標。 由於攔截嘗試，導彈和火箭警報已被啟用。
+
+---
+
+### 2026-06-13 14:09:55  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli military said sirens just sounded in Metula and Misgav Am after reports of enemy aircraft incursions. The Israeli Air Force intercepted a suspicious airborne target that entered Israeli airspace from Lebanon; missile and rocket alerts were triggered during the interception attempt.
+
+---
+
+### 2026-06-13 14:09:33  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Israeli military says it will have to take action against Hezbollah for violating the ceasefire agreement.
+
+---
+
+### 2026-06-13 14:04:41  #宏觀 #兩會
+
+【第十八屆海峽論壇大會在廈門舉行 王滬寧出席並致辭】第十八屆海峽論壇大會13日在廈門舉行。中共中央政治局常委、全國政協主席王滬寧出席並致辭。王滬寧表示，今年4月，習近平總書記會見中國國民黨主席鄭麗文時發表重要講話，為推動兩岸關係和平發展、推進祖國統一大業指明瞭前進方向，為促進兩岸交流合作、深化兩岸融合發展注入了強大動力。我們始終堅守國土不可分、國家不可亂、民族不可散、文明不可斷的共同信念，始終從中華民族整體利益和長遠發展把握兩岸關係大局，始終順應兩岸同胞要和平、要發展、要交流、要合作的共同心聲，始終堅持一箇中國原則和“九二共識”，堅定走好兩岸關係和平發展道路，堅定推進祖國統一大業，堅定共創中華民族綿長福祉。王滬寧表示，大陸和臺灣同屬一箇中國，是休慼與共的命運共同體。兩岸同胞要站在歷史正確的一邊、民族正義的一邊，堅定鑄牢中華民族共同體意識，堅決反對“臺獨”分裂和外來干涉，守護好、建設好、發展好中華民族共同家園。我們秉持“兩岸一家親”理念，落實臺灣同胞享受同等待遇政策，願同廣大臺灣同胞共享發展機遇和成果，歡迎廣大臺胞臺企投身兩岸交流合作、融合發展大潮，投身大陸高質量發展和現代化建設。王滬寧表示，強大統一的中國是中華民族之福，是全體中華兒女之幸。中共二十屆四中全會擘畫了“十五五”時期發展宏偉藍圖，將為兩岸關係發展開闢廣闊空間。兩岸同胞和兩岸青年要增進對中華民族、中華文化、偉大祖國的認同，增強做堂堂正正中國人的志氣骨氣底氣，同心共創中華民族偉大復興的美好未來，續寫中華民族歷史新輝煌。中國國民黨副主席張榮恭在致辭中表示，兩岸同胞同屬中華民族，是同根同源、血脈相連的一家人。道道地地的臺灣人，也是堂堂正正的中國人。期待進一步深化兩岸交流合作，增進兩岸人民福祉，共同維護臺海和平，共謀中華民族偉大復興。其他臺胞代表也作了發言。大會開始前，王滬寧會見了參加論壇的臺灣嘉賓代表。（新華社）
+
+---
+
+### 2026-06-13 14:03:49  #MKT News
+
+【Indian Air Force An-32 transport aircraft crashes in Assam】Multiple Indian media report an Indian Air Force An-32 transport aircraft crashed at Jorhat Air Force Station in Assam on the morning of June 13. Officials have not yet released information on casualties or the cause.
+
+---
+
+### 2026-06-13 14:03:32  #國際
+
+【印度空軍一運輸機墜毀】根據多家印度媒體報道，當地時間今天（6月13日）上午，印度空軍一架安-32運輸機在阿薩姆邦喬爾哈特空軍基地墜毀。目前尚無官方訊息公佈傷亡情況或事故原因。（CCTV國際時訊）
+
+---
+
+### 2026-06-13 14:02:19  #國際
+
+【亞行：中東戰事令亞洲能源困境陷入“最壞情景”】英國《金融時報》日前報道，亞洲開發銀行警告伊朗戰事加劇全球能源危機，亞洲15個經濟體正尋求該行緊急貸款支援，亞洲當前能源困境正陷入該行此前預判的“最壞情景”。亞洲開發銀行行長神田真人日前接受《金融時報》採訪時稱，亞洲經濟體正面臨嚴重油氣短缺，該行已收到總額40億美元的正式貸款申請。據亞行透露，包括孟加拉國、斐濟、菲律賓和斯里蘭卡在內的15個經濟體申請了貸款。這些經濟體面臨包括匯款和旅遊收入損失、燃料和化肥供應受限等帶來的嚴重財政壓力。其中，最大的單筆申請是菲律賓的17.5億美元。該國幾乎完全依賴中東原油進口。此外，印度申請了15億美元貸款，以緩解經濟衝擊。自伊朗戰事爆發以來，印度外匯儲備已減少400億美元。“亞太地區受衝擊最嚴重，”神田真人對《金融時報》說，“最壞局面已成為現實……能源漲價、航運漲價、生產原料漲價三重衝擊全部顯現。”神田真人表示，鑑於形勢嚴峻，預計越來越多亞洲經濟體會向該行尋求貸款支援。亞洲開發銀行已將2026年亞太地區的經濟增長預期從5.1%下調至4.7%，將通脹預期從3%上調至5.2%。（新華社）
+
+---
+
+### 2026-06-13 13:54:09  #公司
+
+【訊靈智慧與騰訊雲達成戰略合作】據騰訊雲訊息，近日，深圳市訊靈智慧技術科技有限公司與騰訊雲端計算（北京）有限責任公司正式簽署戰略合作協議。雙方將圍繞技術底座共建、AI營銷一體化方案、智慧辦公協同、行業生態與標準建設四大領域展開深度協作。
+
+---
+
+### 2026-06-13 13:51:49  #MKT News
+
+【D.C. Circuit upholds order to remove Trump's name from Kennedy Center】The U.S. Court of Appeals for the D.C. Circuit on the 12th dismissed appeals by the U.S. government and the Kennedy Center board, upholding a federal district court order requiring President Trump's name to be removed from the John F. Kennedy Center for the Performing Arts by the end of the day on the 12th Eastern Time.
+
+---
+
+### 2026-06-13 13:48:29  #其他
+
+【特斯拉亮相重慶車展，展出的機器人居然是“塑膠”?】近日，2026重慶車展正式開幕。車展上，特斯拉攜包括model 3、model y等車型亮相，同時也帶來了特斯拉Optimus人形機器人。據新浪科技實地觀察，該款特斯拉Optimus人形機器人整體未呈現明顯的金屬光澤，摸起來有種類似“硬塑膠”的質感。另外後方也未看到充電介面。周邊還有一些觀眾或將其當成實物圍觀拍照。談及此事，展臺工作人員表示，本次實物並未來到現場，“這款Optimus人形機器人是假的”。公開資訊顯示，該款機器人實物與特斯拉智慧電動車共享全套核心技術，依託同源硬體、訓練叢集與端到端神經網路實現人工智慧技術跨場景落地。（新浪科技）
 
 ---
 
@@ -21361,677 +21624,5 @@ U.S. President Trump said he understands Iran's Supreme Leader has agreed to an 
 ### 2026-06-12 03:52:06  #觀點
 
 【SpaceX IPO定價為每股135美元，創史上最大規模IPO】SpaceX在其網站釋出的新聞稿中確認，其首次公開募股(IPO)發行5.556億股股票，定價為每股135美元。股票預計將於6月12日在納斯達克開始交易，股票程式碼為“SPCX”。簿記管理人包括：高盛、摩根士丹利、美銀證券、花旗、摩根大通、巴克萊、Deutsche Bank Securities、RBC Capital Markets、UBS Investment Bank和Wells Fargo Securities。
-
----
-
-### 2026-06-12 03:49:09  #公司 #央行 #國際
-
-【沃什政策首秀在即，PIMCO：市場關注其如何為美聯儲打上自身印記】太平洋投資管理公司（PIMCO，品浩）管理人士表示，債券投資者將關注下週的美聯儲會議，以判斷新任主席凱文·沃什會以多快速度為這家央行打上自己印記。前美聯儲副主席、Pimco全球經濟顧問Richard Clarida稱，投資者仍在試圖判斷沃什將如何處理美聯儲與市場的溝通。“回顧80年代的時候，可以理解的是，當一位新任美聯儲主席上任時，會有一段也許以周或月來衡量的時期，在這段時期裡，你會試圖瞭解制度框架和溝通情況，” Clarida在美國紐約舉行的一場PIMCO新聞活動上表示，“對我來說，真正的問題在於沃什會在多大程度上、以及如何在這種溝通上打上自己的印記並施加自己的重點。
-
----
-
-### 2026-06-12 03:47:47  #國際
-
-【卡達埃米爾與美國總統通電話 討論美伊磋商進展】當地時間6月11日，卡達埃米爾（國家元首）塔米姆同美國總統特朗普通電話，雙方討論了兩國戰略關係及地區和國際局勢，重點就地區局勢交換意見。通話中，雙方回顧了美國與伊朗磋商所取得的進展。美方表示，相關諒解已獲得有關各方同意，並得到包括卡達在內的多個國家支援，目前各方正推進最後程式，為宣佈簽署安排作準備。卡達埃米爾表示，卡方歡迎透過對話和和平方式解決分歧，支援一切有助於維護地區和國際安全穩定、促進地區和平與合作的努力。（央視新聞）
-
----
-
-### 2026-06-12 03:47:18  #MKT News #Market Regions #Emerging Markets
-
-The Mexican peso gained nearly 1% against the US dollar; Mexico’s main stock index rose more than 3%.
-
----
-
-### 2026-06-12 03:46:56  #MKT News #Important #WTI #Impact bearish #Brent #DXY
-
-【Trump says Iran deal in final drafting, may be signed this weekend】On June 11 Trump said the US has "reached an excellent deal" with Iran and that related documents are in final drafting. He said the agreement could be finalized in the next few days and signed soon, possibly in Europe this weekend, and that Vice President Vance will attend. Trump added that if Iran signs, the Strait of Hormuz will reopen. Iran has not responded.
-
----
-
-### 2026-06-12 03:45:59  #國際
-
-【特朗普稱美伊協議進入最後定稿階段 有望本週末簽署】當地時間6月11日，美國總統特朗普就伊朗問題表示“達成了極好的協議”，並稱相關檔案已進入最後定稿階段，未來幾天內有望最終敲定，並即將簽署。他還表示，協議可能在歐洲簽署，時間可能在本週末，美國副總統萬斯將出席。特朗普稱，一旦伊朗方面簽署協議，霍爾木茲海峽就會開放。伊朗方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-06-12 03:45:45  #MKT News
-
-ICI: For the week to June 10, total assets of money market funds fell $21.48 bln to $7.87 tln.
-
----
-
-### 2026-06-12 03:43:37  #MKT News #Market Themes #The Trump Trade
-
-A U.S. appeals court extended a stay of an injunction that had ruled Trump’s 10% global tariffs unlawful, keeping the tariffs in effect pending appeal.
-
----
-
-### 2026-06-12 03:42:42  #Trading Economics #Markets #United States #stocks #Importance 1
-
-General Electric Aerospace Stock Price Hits 14-week High — General Electric Aerospace shares increased to 332.52 USD, the highest since March 2026. Over the past 4 weeks, General Electric Aerospace gained 11.74%, and in the last 12 months, it increased 38.49%.
-
----
-
-### 2026-06-12 03:42:05  #國際
-
-美國上訴法院延長禁令，暫緩執行針對特朗普全球 10% 關稅政策的不利裁決。
-
----
-
-### 2026-06-12 03:38:12  #其他
-
-【產業鏈配套齊全 中國農機駛向全球】我國是農機使用大國，還是全球唯一具備全品類農機制造能力的國家。如今，中國農機不光在國內耕耘，還遍佈全球各地。中國農機揚帆出海背後，隱藏著怎樣的產業發展硬實力？出海有底氣 打通30分鐘產業圈湖南寧鄉聚集了10多家從事農機整機制造的企業，配套企業20家，形成了30分鐘農機產業圈。新品樣機從圖紙到小批次試製僅需3到7天就能完成，壓縮生產成本30%以上。高效便捷的產業鏈，是主機廠家不斷開拓海外市場的底氣。今年，這個主機廠商又投資了九千多萬元擴建新廠區，其中80%的產能用來供給海外市場。（央視新聞）
-
----
-
-### 2026-06-12 03:37:00  #MKT News #Important #S&P500 #Impact bullish #Dow
-
-US equities extended gains; the Dow and S&P 500 were up 2%.
-
----
-
-### 2026-06-12 03:36:50  #國際
-
-特朗普：與以色列總理內塔尼亞胡通了電話。
-
----
-
-### 2026-06-12 03:36:29  #市場 #焦點
-
-紐約期金突破4240美元/盎司，日內漲2.60%。
-
----
-
-### 2026-06-12 03:35:34  #MKT News #Market Themes #The Trump Trade
-
-President Trump said the US is taking action to lower seafood prices.
-
----
-
-### 2026-06-12 03:35:22  #國際
-
-特朗普：採取舉措降低海鮮價格。
-
----
-
-### 2026-06-12 03:34:59  #MKT News
-
-US President Trump said he cannot attend the signing ceremony.
-
----
-
-### 2026-06-12 03:34:56  #Trading Economics #Markets #commodity #Importance 0
-
-Crude Oil Hits 7-week Low — Crude Oil decreased to 85.94 USD/Bbl, the lowest since April 2026. Over the past 4 weeks, Crude Oil WTI lost 15.74%, and in the last 12 months, it increased 26.54%.
-
----
-
-### 2026-06-12 03:34:55  #市場 #焦點
-
-WTI原油失守86美元/桶，日內跌4.49%。
-
----
-
-### 2026-06-12 03:34:53  #市場 #焦點
-
-現貨黃金突破4210美元/盎司，日內漲3.46%。
-
----
-
-### 2026-06-12 03:34:38  #MKT News #Important #WTI #Impact bearish #Brent
-
-President Trump said the Iran agreement could be signed this weekend; Vice President Pence will attend.
-
----
-
-### 2026-06-12 03:34:32  #國際
-
-特朗普談及伊朗事務：美國副總統萬斯將到場出席。
-
----
-
-### 2026-06-12 03:34:09  #國際
-
-特朗普談及伊朗問題：相關協議或於本週末簽署。
-
----
-
-### 2026-06-12 03:33:59  #MKT News #WTI #Impact bullish #Brent
-
-U.S. President Trump said multiple ships were destroyed in the Strait of Hormuz.
-
----
-
-### 2026-06-12 03:33:17  #MKT News
-
-President Trump said he just spoke with the leaders of Qatar, the UAE and Saudi Arabia.
-
----
-
-### 2026-06-12 03:33:03  #MKT News #Important #WTI #Impact bearish #Brent
-
-U.S. President Trump said the Strait of Hormuz will be open immediately after we sign the agreement.
-
----
-
-### 2026-06-12 03:32:59  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot silver jumped $4 intraday to $67.41/oz, up 6.35%.
-
----
-
-### 2026-06-12 03:32:33  #國際
-
-特朗普：協議簽署後海峽將立即開放。
-
----
-
-### 2026-06-12 03:32:32  #MKT News
-
-U.S. President Trump will speak with Turkish President Erdogan.
-
----
-
-### 2026-06-12 03:32:13  #MKT News
-
-U.S. President Trump phoned Israeli Prime Minister Netanyahu.
-
----
-
-### 2026-06-12 03:32:13  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
-
-Brent crude down 6.00% intraday at $88.12/bbl. Trump is speaking on Iran.
-
----
-
-### 2026-06-12 03:32:11  #國際
-
-特朗普：剛剛與卡達、阿聯酋、沙烏地阿拉伯的領導人通了電話。
-
----
-
-### 2026-06-12 03:32:04  #國際
-
-特朗普：可能在接下來的幾天內達成最終協議。伊朗協議的簽署可能在歐洲進行。檔案已接近最終階段。
-
----
-
-### 2026-06-12 03:31:49  #MKT News #Market Themes #The Trump Trade
-
-US President Trump said the document is nearing its final stage.
-
----
-
-### 2026-06-12 03:31:42  #MKT News #Market Themes #The Trump Trade
-
-President Trump said the signing of an Iran agreement may take place in Europe.
-
----
-
-### 2026-06-12 03:31:28  #MKT News #Important #Market Themes #The Trump Trade
-
-Trump said a final agreement may be reached within the next few days.
-
----
-
-### 2026-06-12 03:31:21  #MKT News #Important
-
-Trump said the US had just reached a major reconciliation with Iran.
-
----
-
-### 2026-06-12 03:31:10  #市場 #焦點
-
-道指漲2.02%，現報50927.148點；納指漲2.56%，現報25813.768點；標普500指數漲1.93%，現報7406.950點。
-
----
-
-### 2026-06-12 03:31:03  #公司
-
-市場訊息：白宮記者團已被召集前往橢圓形辦公室，出席一項總統公告的簽署儀式。
-
----
-
-### 2026-06-12 03:30:56  #市場 #焦點
-
-布倫特原油失守89美元/桶，日內跌4.46%。
-
----
-
-### 2026-06-12 03:30:53  #市場
-
-現貨白銀日內漲6%，現報67.26美元/盎司。
-
----
-
-### 2026-06-12 03:30:51  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-【Spot gold reclaims $4,200 level】Spot gold continued higher, reclaiming the $4,200 mark after an intraday rise of about $130.
-
----
-
-### 2026-06-12 03:30:49  #市場 #焦點
-
-紐約期金突破4230美元/盎司，日內漲2.34%。
-
----
-
-### 2026-06-12 03:30:34  #市場 #焦點
-
-現貨白銀突破67美元/盎司，日內漲5.93%。
-
----
-
-### 2026-06-12 03:30:33  #市場 #焦點
-
-現貨黃金突破4200美元/盎司，日內漲3.21%。
-
----
-
-### 2026-06-12 03:30:31  #焦點 #國際
-
-特朗普：我們剛剛與伊朗達成了一項偉大的戰爭和解協議。
-
----
-
-### 2026-06-12 03:30:23  #Trading Economics #Markets #commodity #Importance 0
-
-Crude Oil WTI is down by 4.1% — Crude Oil WTI decreased 4.1% to 86.336 USD/Bbl
-
----
-
-### 2026-06-12 03:30:21  #市場
-
-紐約期銀日內漲4%，現報67.33美元/盎司。
-
----
-
-### 2026-06-12 03:30:20  #市場
-
-WTI原油日內跌4%，現報86.36美元/桶。
-
----
-
-### 2026-06-12 03:30:09  #MKT News
-
-SpaceX priced its IPO at $135.00 a share.
-
----
-
-### 2026-06-12 03:30:00  #公司 #其他 #國際
-
-SPACEX IPO定價為每股135美元，創史上最大規模上市交易。
-
----
-
-### 2026-06-12 03:29:47  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International oil prices fall on 11th】At the close, NYMEX July light sweet crude fell $2.32 to $87.71/bbl (-2.58%). ICE Brent August fell $2.72 to $90.38/bbl (-2.92%).
-
----
-
-### 2026-06-12 03:29:11  #市場 #焦點
-
-紐約期金突破4220美元/盎司，日內漲2.10%。
-
----
-
-### 2026-06-12 03:27:50  #市場
-
-【國際油價11日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.32美元，收於每桶87.71美元，跌幅為2.58%；8月交貨的倫敦布倫特原油期貨價格下跌2.72美元，收於每桶90.38美元，跌幅為2.92%。
-
----
-
-### 2026-06-12 03:26:43  #其他
-
-英國負責武裝部隊事務的國務大臣卡恩斯釋出辭職信。
-
----
-
-### 2026-06-12 03:26:38  #市場
-
-布倫特原油日內跌4%，現報89.32美元/桶。
-
----
-
-### 2026-06-12 03:25:34  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar index falls on 11th】The dollar index, measuring the greenback against six major currencies, fell 0.1% to 99.852 at the New York close. EUR/USD rose to 1.1558 from 1.1548; GBP/USD to 1.3398 from 1.3380. USD/JPY eased to 160.08 from 160.50; USD/CHF to 0.7970 from 0.7994. USD/CAD strengthened to 1.3981 from 1.3937; USD/SEK dipped to 9.4759 from 9.4948.
-
----
-
-### 2026-06-12 03:25:02  #國際
-
-CBS推文：美國-伊朗諒解備忘錄可能下週簽署。
-
----
-
-### 2026-06-12 03:24:40  #市場
-
-【美元指數11日下跌 】衡量美元對六種主要貨幣的美元指數當天下跌0.1%，在匯市尾市收於99.852。截至紐約匯市尾市，1歐元兌換1.1558美元，高於前一交易日的1.1548美元；1英鎊兌換1.3398美元，高於前一交易日的1.3380美元。1美元兌換160.08日元，低於前一交易日的160.50日元；1美元兌換0.7970瑞士法郎，低於前一交易日的0.7994瑞士法郎；1美元兌換1.3981加元，高於前一交易日的1.3937加元；1美元兌換9.4759瑞典克朗，低於前一交易日的9.4948瑞典克朗。
-
----
-
-### 2026-06-12 03:24:09  #MKT News
-
-The Guardian reports the UK's Minister of State for the Armed Forces has resigned from government in protest at Prime Minister Starmer's defence spending plans.
-
----
-
-### 2026-06-12 03:21:04  #公司
-
-黑石集團據稱正就收購加拿大地產公司H&R進行談判。
-
----
-
-### 2026-06-12 03:20:34  #其他
-
-納斯達克100指數漲幅擴大至3%。
-
----
-
-### 2026-06-12 03:19:21  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100 #S&P500
-
-S&P Global Ratings upgraded NVIDIA (NVDA.O) to AA and assigned a stable outlook.
-
----
-
-### 2026-06-12 03:19:16  #國際
-
-以色列《今日報》訊息：特朗普計劃與內塔尼亞胡通話，這是其與地區多國領導人系列會談的一環。
-
----
-
-### 2026-06-12 03:19:16  #MKT News
-
-Trump is expected to call Israeli Prime Minister Netanyahu as part of a series of calls with regional leaders.
-
----
-
-### 2026-06-12 03:17:19  #市場
-
-現貨黃金日內漲3%，現報4196.45美元/盎司。
-
----
-
-### 2026-06-12 03:17:10  #市場
-
-紐約期金日內漲2%，現報4216.50美元/盎司。
-
----
-
-### 2026-06-12 03:17:10  #市場 #焦點
-
-紐約期銀突破67美元/盎司，日內漲3.49%。
-
----
-
-### 2026-06-12 03:17:07  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rallied 3.00% intraday to $4,192.89/oz.
-
----
-
-### 2026-06-12 03:16:44  #市場 #焦點
-
-現貨黃金突破4190美元/盎司，日內漲2.96%。
-
----
-
-### 2026-06-12 03:14:59  #市場
-
-標普500指數漲幅擴大至1.6%。
-
----
-
-### 2026-06-12 03:14:22  #MKT News
-
-CNBC reports allocations for SpaceX's IPO are largely finalised; just over 20% of the offering will be allocated to retail investors.
-
----
-
-### 2026-06-12 03:14:14  #市場 #焦點
-
-紐約期金突破4210美元/盎司，日內漲1.86%。
-
----
-
-### 2026-06-12 03:14:12  #市場 #國際
-
-美國5-10年期國債收益率下跌10個基點，重新整理日低。
-
----
-
-### 2026-06-12 03:13:42  #MKT News #Important
-
-Fars News Agency reports Iran has not yet issued a final response.
-
----
-
-### 2026-06-12 03:13:37  #國際
-
-伊朗法爾斯通訊社表示，伊朗尚未作出最終答覆。
-
----
-
-### 2026-06-12 03:12:49  #其他
-
-市場訊息：SpaceX 新股分配方案基本敲定，面向散戶的配售比例約兩成。
-
----
-
-### 2026-06-12 03:12:42  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-Iran's Fars news agency reports that, since the US has accepted the text proposed by Iran, approval of the text by Iranian authorities is now highly likely.
-
----
-
-### 2026-06-12 03:12:26  #國際
-
-伊朗法爾斯通訊社表示，鑑於美方已接受伊朗擬定的文字，該檔案獲得伊朗方面批准的可能性極大。
-
----
-
-### 2026-06-12 03:12:07  #MKT News
-
-【Source: Iran has not approved Iran-U.S. MoU text】On the evening of the 11th a source close to Iran's negotiating team said Iran has not approved the text of a memorandum of understanding (MoU) with the United States and that President Trump’s earlier comments claiming approval were inaccurate. The source said no preliminary MoU text has been approved by Iran. Earlier Trump posted that, because consultation results had been submitted to and approved by Iran’s supreme leader, he had called off planned strikes against Iran.
-
----
-
-### 2026-06-12 03:12:04  #市場 #焦點
-
-現貨黃金突破4180美元/盎司，日內漲2.68%。
-
----
-
-### 2026-06-12 03:11:52  #市場
-
-現貨白銀日內漲5%，現報66.57美元/盎司。
-
----
-
-### 2026-06-12 03:11:39  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-New York gold futures led gains, reclaiming $4,200/oz and rising 1.61% intraday.
-
----
-
-### 2026-06-12 03:11:20  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #XAUUSD #DXY #Impact bearish
-
-New York Fed said its Open Market Trading Desk plans to conduct roughly $16.5 billion of reinvestment purchases from June 12 through July 13.
-
----
-
-### 2026-06-12 03:11:16  #市場 #焦點
-
-紐約期金突破4200美元/盎司，日內漲1.62%。
-
----
-
-### 2026-06-12 03:10:46  #其他
-
-SpaceX提交FWP檔案；檔案顯示公開發行價為每股135.00美元。
-
----
-
-### 2026-06-12 03:10:38  #MKT News #DXY #Impact bearish
-
-USD/CHF fell 0.50% intraday to 0.7960.
-
----
-
-### 2026-06-12 03:10:25  #MKT News #WTI #Impact bearish #DXY #XAUUSD
-
-【Qatar says progress on US-Iran understanding】Qatar’s Emirate office said Qatar’s Emir spoke by phone with US President Trump on regional and international developments, notably diplomatic efforts to ease regional tensions. They reviewed US‑Iran consultations and the resulting understanding; the proposal put forward within the negotiation framework has progressed. Trump confirmed the understanding has been approved by all relevant parties and has participation and support from several friendly states, including Qatar. Parties are continuing to finalize procedures and are preparing arrangements to announce the signing.
-
----
-
-### 2026-06-12 03:10:07  #國際
-
-【知情人士：伊朗尚未批准伊美協議文字 】據伊朗法爾斯通訊社11日晚報道，一名接近伊朗談判團隊的知情人士表示，伊朗尚未批准伊美諒解備忘錄文字，美國總統特朗普稍早時候相關說法並不屬實。該訊息人士表示，目前“尚無任何初步諒解備忘錄文字獲得伊方批准”，有關伊朗已經同意最終文字的說法並不準確。當天早些時候，特朗普在社交媒體發文稱，鑑於與伊朗的磋商結果已提交至伊朗最高領導層並獲得批准，他已取消原定於當晚針對伊朗實施的打擊與轟炸行動。（新華社）
-
----
-
-### 2026-06-12 03:09:01  #市場 #國際
-
-【芝加哥玉米期貨跌超1.7%】週四（6月11日）紐約尾盤，彭博穀物分類指數跌0.75%，報29.3301點，美國農業部（USDA）在北京時間00:00釋出農作物庫存月報時重新整理日高至29.5982點，隨後快速下挫（打亂日內稍早大致持平的狀態）、01:39重新整理日低至29.1912點。CBOT玉米期貨跌1.73%，報4.39美元/蒲式耳。CBOT小麥期貨跌0.21%，報5.8625美元/蒲式耳，00:01曾拉昇至5.9375美元重新整理日高。CBOT大豆期貨跌0.37%，報11.3425美元/蒲式耳，00:00小幅上揚、試圖收復11.40美元，隨後呈現出一波V形走勢；豆粕期貨跌0.26%，豆油期貨跌1.17%。CBOT瘦肉豬期貨漲0.39%，活牛期貨漲0.47%，飼牛期貨漲1.45%。ICE原糖期貨跌0.79%，ICE白糖期貨漲0.54%。ICE阿拉比卡咖啡期貨漲2.66%，咖啡“C”期貨漲2.66%。羅布斯塔咖啡期貨漲3.31%。紐約可可期貨跌0.96%，報3805美元/噸。倫敦可可期貨跌0.40%。芝加哥WCE雙低油菜籽期貨跌0.10%。ICE棉花期貨漲1.31%。
-
----
-
-### 2026-06-12 03:08:42  #公司 #其他 #焦點 #國際
-
-SpaceX註冊宣告於 6 月 11 日正式生效。
-
----
-
-### 2026-06-12 03:07:58  #國際
-
-卡達埃米爾與特朗普覆盤美伊磋商成果，雙方在談判議題的相關諒解事項上取得進展。
-
----
-
-### 2026-06-12 03:05:34  #MKT News #Market Themes #The Trump Trade
-
-Qatar's emir spoke by phone with US President Trump.
-
----
-
-### 2026-06-12 03:05:14  #國際
-
-卡達埃米爾與特朗普通電話。
-
----
-
-### 2026-06-12 03:04:56  #MKT News
-
-NZD/USD rose 0.50% intraday to 0.5824.
-
----
-
-### 2026-06-12 03:04:35  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7720元，較週三夜盤收盤漲18點。成交量327.61億美元。
-
----
-
-### 2026-06-12 03:03:24  #市場 #央行 #國際
-
-美聯儲公佈6月至7月國債購買計劃。
-
----
-
-### 2026-06-12 03:02:53  #MKT News
-
-India notified that orders covering petrol and high-speed diesel will be effective for up to 90 days.
-
----
-
-### 2026-06-12 03:01:16  #焦點 #國際
-
-據沙烏地阿拉伯阿拉比亞電視臺：訊息人士稱，從德黑蘭返回的卡達代表團已向美方轉交伊朗對最終協議草案的批准意見。
-
----
-
-### 2026-06-12 03:01:05  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures ended the night session up 0.88% at 24,376, trading 127 points above the cash index.
-
----
-
-### 2026-06-12 03:00:24  #MKT News #Important #WTI #Impact bearish #Brent
-
-Al Arabiya cited sources saying a Qatari delegation returning from Tehran has delivered to US officials Iran's approval of the final draft of the agreement.
-
----
-
-### 2026-06-12 03:00:03  #市場
-
-恒指期貨夜盤收漲0.91%，報24382.48點，高水133.19點。
-
----
-
-### 2026-06-12 02:59:35  #公司 #國際
-
-美國與星鏈公司簽署了關於應對重大災害的諒解備忘錄。
-
----
-
-### 2026-06-12 02:58:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-India issued a notice restricting retail fuel stations to sell no more than 200 liters of high-speed diesel (HSD) per single customer or vehicle per day; purchased HSD may not be resold.
-
----
-
-### 2026-06-12 02:58:11  #央行 #國際
-
-【野村：歐洲央行本週期將再加息三次 歐元將受到支撐】野村經濟學家表示，歐洲央行在本週期內還將加息三次。他們認為歐洲央行的鷹派立場將在未來幾個月提振歐元兌英鎊的匯率。野村的Andrzej Szczepaniak、George Buckley、Josie Anderson和David Seif在歐洲央行週四如期加息25個基點後寫道：行長拉加德領導的歐洲央行官員釋出的新基線預測“比我們預期的更加鷹派”。“我們認為歐洲央行的鷹派預測是合理的，並將導致貨幣政策比我們之前預期的更加緊縮”。野村經濟學家現在預計，歐洲央行將在9月、12月以及明年3月再次加息，將存款利率提高到3%。
-
----
-
-### 2026-06-12 02:57:44  #MKT News #Commodities #Energy
-
-India issued a notice requiring institutional, direct-supply and industrial/commercial customers to source petrol and high-speed diesel (HSD) only via their own retail fueling facilities.
-
----
-
-### 2026-06-12 02:55:24  #MKT News #Commodities #Energy
-
-India has issued a notice barring institutional, industrial and commercial customers from purchasing petrol and high‑speed diesel (HSD) at retail fuel stations.
-
----
-
-### 2026-06-12 02:51:42  #市場
-
-洲際交易所 8 月布倫特原油期貨結算價報每桶 90.38 美元。
-
----
-
-### 2026-06-12 02:49:20  #MKT News #USDJPY #Impact bearish #DXY
-
-USD/JPY fell below 160, down 0.34% intraday.
-
----
-
-### 2026-06-12 02:49:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-【Spot gold rises more than $100 intraday】Spot gold rose more than $100 intraday to $4,170.75/oz, up 2.46%.
-
----
-
-### 2026-06-12 02:48:37  #市場 #焦點
-
-現貨黃金突破4170美元/盎司，日內漲2.44%。
-
----
-
-### 2026-06-12 02:47:44  #國際
-
-美國西北地區河流徑流量降至正常值的85%。
-
----
-
-### 2026-06-12 02:46:56  #國際
-
-【伊媒嘲諷特朗普再次TACO】伊朗革命衛隊旗下媒體塔斯尼姆通訊社嘲諷特朗普放棄今晚打擊伊朗的威脅，稱“伊朗再次迫使特朗普TACO（特朗普總是臨陣退縮）”。塔斯尼姆通訊社指出，在特朗普宣佈相關決定之前，伊朗武裝部隊中央司令部司令阿里·阿卜杜拉希曾警告稱，如果美國對伊朗發動進一步打擊，“戰火不僅將吞噬該地區，還將變得更加廣泛和擴大”。該媒體還指出，過去兩個月內，特朗普已38次宣稱協議即將達成，在3天內曾4次在自己的想象中將萬斯派往巴基斯坦。
 
 ---
