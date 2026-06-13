@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-13 19:54:41",
-  "count": 18396,
+  "updated": "2026-06-13 19:58:55",
+  "count": 18402,
   "items": [
+    {
+      "id": "4933835",
+      "time": "2026-06-13 19:57:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國：自以色列攻勢開始以來，黎巴嫩已有135名醫務工作者遇害。"
+    },
+    {
+      "id": "mkt:019ec0d8-942b-7dd8-afea-d0f965c8762d",
+      "time": "2026-06-13 19:57:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN: Since the start of the Israeli offensive, 135 Lebanese medical workers have been killed."
+    },
+    {
+      "id": "4933834",
+      "time": "2026-06-13 19:57:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨：我們用火箭彈轟炸了黎巴嫩南部馬吉達勒祖恩鎮郊外聚集的以色列敵軍士兵及其車輛。"
+    },
+    {
+      "id": "4933833",
+      "time": "2026-06-13 19:56:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨：我們在黎巴嫩南部哈爾達利上空用導彈擊落了一架以色列赫爾墨斯450型空對地無人機。"
+    },
+    {
+      "id": "4933832",
+      "time": "2026-06-13 19:55:21",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【6月13日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】守護文化瑰寶 賡續中華文脈； 2.第十八屆海峽論壇大會在廈門舉行 王滬寧出席並致辭； 3.【偉大征程】銘記烽火歷史 傳承抗戰精神； 4.我國海洋生態保護修復取得新成效； 5.多項措施促進鐵路與旅遊融合發展； 6.各地推動人才下鄉 助力鄉村振興； 7.【一線調研】算力網織就數字經濟新底座； 8.國內聯播快訊： （1）文化和自然遺產日主場城市活動在武漢舉行； （2）多部門聯合發文 推動新能源重卡規模化應用； （3）四部門部署農村務農務工出行安全整治工作； （4）中央網信辦開設“涉AI應用亂象舉報專區”； （5）我國將持續推動建設全國一體化反詐技防能力； （6）南方今起降雨增強 局地特大暴雨； 9.伊朗外長披露伊美諒解備忘錄草案部分內容 國際油價進一步下跌； 10.國際聯播快訊： （1）黎媒稱黎以新談判將涉及“試點區”問題； （2）古巴國家主席譴責美國收緊對古石油封鎖； （3）南極半島出現異常高溫； 11.文化和自然遺產日。"
+    },
+    {
+      "id": "mkt:019ec0d6-1c49-7dd8-afea-cbfbfe163512",
+      "time": "2026-06-13 19:55:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iran says service fees for Strait of Hormuz passage permissible】On June 12, Araghchi said Iran has begun consultations with multiple countries on navigation through the Strait of Hormuz. He said charging transit fees would be unacceptable under international law but levying service fees is fully permissible. Araghchi added that Iran’s frozen assets would begin to be unfrozen under a potential memorandum of understanding with the United States, though details must be fully negotiated. On highly enriched uranium, he said Iran will only accept dilution or conversion carried out on Iranian soil."
+    },
+    {
+      "id": "4933831",
+      "time": "2026-06-13 19:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱霍爾木茲收服務費完全合理】當地時間6月12日晚，伊朗外長在接受伊朗媒體採訪時表示，伊朗已經開始與很多國家就霍爾木茲海峽這一至關重要的水道通航問題進行磋商。阿拉格齊表示，從國際法的角度來審查，在霍爾木茲海峽徵收過境費是不可接受的，但收取服務費是完全被允許的。阿拉格齊還提到，根據未來可能與美國簽署的諒解備忘錄，伊朗的被凍結資產將開始解凍，但有關問題的細節必須進行充分討論。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:019ec0d2-e100-7dd8-afea-c030482a72c1",
       "time": "2026-06-13 19:51:46",
@@ -169160,14 +169221,6 @@
         "其他"
       ],
       "text": "【香港發出紅色暴雨警告訊號】香港天文臺今日（6日）發出紅色暴雨警告訊號。香港特區政府教育局表示，由於紅色暴雨警告訊號現正生效，學校應採取應變措施，確保學生安全。正在上課的學校應繼續上課，直至放學時間，並在安全情況下，方可讓學生返家。（大灣區之聲）"
-    },
-    {
-      "id": "4921270",
-      "time": "2026-06-06 19:56:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出紅色暴雨警告。"
     }
   ]
 }
