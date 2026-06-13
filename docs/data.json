@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-14 04:17:29",
-  "count": 18462,
+  "updated": "2026-06-14 04:21:32",
+  "count": 18464,
   "items": [
+    {
+      "id": "mkt:019ec2a4-e6de-7dd8-afee-0f1b8e8cfce4",
+      "time": "2026-06-14 04:20:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Jerusalem Post, citing an Israeli official, reports that after reaching an agreement with Beirut, Israel will study a phased, conditional withdrawal from southern Lebanon."
+    },
+    {
+      "id": "4934031",
+      "time": "2026-06-14 04:20:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國政府無意將針對Anthropic的出口管制擴大至其他人工智慧企業】美國一名政府知情官員週六透露，白宮不會將針對Anthropic高階AI模型的出口管制措施，推廣至其他人工智慧企業。這名官員稱，此番管控的起因是Anthropic拒絕修復其近期推出的Fable 5與Claude Mythos 5模型存在的安全漏洞。Anthropic則提出異議，稱其他企業研發的AI模型也存在同類風險。該公司在週五釋出的部落格文章中表示，多款對外公開的AI模型均被查出類似漏洞。例如，OpenAI今年4月推出的最新模型GPT-5.5，在部分網路安全測試指標上與邁索斯模型表現相近。這名官員解釋，美方擔憂Fable模型（Mythos的衍生版本，專為面向廣大開發者公開使用增設了安全防護機制）仍有可能被用來探測敏感系統漏洞，同時也擔心先進人工智慧技術會流入境外敵對勢力手中。"
+    },
+    {
+      "id": "mkt:019ec2a1-fdcb-7dd8-afee-0445ac53f243",
+      "time": "2026-06-14 04:17:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil tanker struck about 6 nautical miles east of Oman, UK Maritime Trade Operations says】UK Maritime Trade Operations said on June 13 an oil tanker about 6 nautical miles east of Oman was struck by an unidentified projectile; all crew reported safe."
+    },
+    {
+      "id": "4934030",
+      "time": "2026-06-14 04:17:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘油輪在阿曼附近海域遇襲】英國海上貿易行動辦公室13日表示，一艘位於阿曼以東約6海里海域的油輪當天遭不明投射物擊中。據報，船上船員均安全。（央視新聞）"
+    },
     {
       "id": "4934029",
       "time": "2026-06-14 04:16:53",
@@ -169698,27 +169736,6 @@
         "國際"
       ],
       "text": "【美以伊戰爭爆發100天】今天（6月7日），是美以伊戰爭爆發第100天。自今年2月28日美國和以色列大規模空襲伊朗、伊朗展開反擊開始，激烈的軍事衝突持續了40天。儘管隨後臨時停火協議達成，美國與伊朗在巴基斯坦的斡旋下舉行了首輪談判，但截至目前，第二輪談判遲遲未能舉行。據在伊朗的總檯記者觀察，當前伊美之間圍繞談判分歧仍存，且雙方之間始終缺乏互信。而以色列升級黎巴嫩局勢、攪局談判，以及伊美之間圍繞霍爾木茲海峽的軍事摩擦頻繁發生，都使和平前景愈發不明朗。接下來美以伊是實現真正的和平，還是會爆發新一輪衝突？都是未知數。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e9e95-ae2f-7665-8314-a68dbfd59e8e",
-      "time": "2026-06-07 04:17:49",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "【ECB set to raise rates 25bp next week, leading G7 response to Iran-war inflation】With the Iran war fuelling global inflation, the ECB is expected to raise policy rates by 25bp next week, making it the first major G7 central bank to tighten. Markets price at least one further hike this year. By contrast, the BOC may hold, and the Fed and BoE are seen likely to remain on hold this month as they assess the conflict’s impact. ECB officials say the move aims to prevent inflation becoming entrenched, but further tightening will weigh on an already-weak euro-area economy. ECB President Lagarde may signal next steps at the post-decision press conference. The ECB will publish quarterly economic projections that model alternative energy-shock scenarios."
-    },
-    {
-      "id": "4921439",
-      "time": "2026-06-07 04:17:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯譴責以色列持續對黎巴嫩發動襲擊。"
     }
   ]
 }
