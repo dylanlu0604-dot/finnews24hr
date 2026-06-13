@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-14 05:52:30",
+  "updated": "2026-06-14 05:56:26",
   "count": 18438,
   "items": [
+    {
+      "id": "mkt:019ec2f9-d371-7dd8-afee-49500cd04f43",
+      "time": "2026-06-14 05:53:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN, citing officials, reported the planned in-person signing of the U.S.-Iran agreement was canceled and will be conducted electronically due to logistical challenges and to avoid delays that could jeopardize the negotiations."
+    },
     {
       "id": "4934047",
       "time": "2026-06-14 05:50:53",
@@ -169507,14 +169515,6 @@
         "其他"
       ],
       "text": "中央氣象臺6月7日06時繼續釋出暴雨黃色預警。"
-    },
-    {
-      "id": "4921473",
-      "time": "2026-06-07 05:54:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國電信巨頭奧蘭治集團簽署收購法國第二大移動運營商SFR的諒解備忘錄。"
     }
   ]
 }
