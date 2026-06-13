@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-14 02:17:39",
-  "count": 18474,
+  "updated": "2026-06-14 02:21:41",
+  "count": 18476,
   "items": [
+    {
+      "id": "mkt:019ec236-7c6a-7dd8-afed-8a8ede6d9272",
+      "time": "2026-06-14 02:20:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Channel 12, citing Israeli officials, said any potential agreement with Iran would jeopardize Israel's security interests and arrangements."
+    },
+    {
+      "id": "4934003",
+      "time": "2026-06-14 02:20:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱，伊美核協議是一道抵禦核武器的屏障。"
+    },
+    {
+      "id": "4934002",
+      "time": "2026-06-14 02:19:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：小型部長會議將於明晚召開，背景是美國與伊朗達成協議。"
+    },
+    {
+      "id": "mkt:019ec234-f25d-7dd8-afed-848c444cf29f",
+      "time": "2026-06-14 02:18:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report that, amid a U.S.-Iran agreement, a small ministerial-level meeting is scheduled for tomorrow night."
+    },
+    {
+      "id": "4934001",
+      "time": "2026-06-14 02:17:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗銀行協調委員會：（針對四家銀行的有限網路攻擊）幸運的是，沒有發生任何未經授權對客戶資訊的訪問，也沒有發生資訊洩露目前，所有基礎設施均由技術專家完全控制。"
+    },
     {
       "id": "4934000",
       "time": "2026-06-14 02:15:26",
@@ -169813,32 +169856,6 @@
         "國際"
       ],
       "text": "【伊朗媒體：哈爾克島附近居民聽到爆炸聲】據多家伊朗媒體報道，伊朗哈爾克島附近的居民6日晚稱聽到強烈爆炸聲。（新華社）"
-    },
-    {
-      "id": "4921399",
-      "time": "2026-06-07 02:20:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：今日一艘船隻未與伊朗方面協調，試圖通行霍爾木茲海峽，隨即遭到襲擾。另有三艘船隻在收到伊朗警告後返航。"
-    },
-    {
-      "id": "4921398",
-      "time": "2026-06-07 02:19:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打擊黎巴嫩南部約150處真主黨目標】當地時間6日，以色列國防軍表示，在5日、6日兩天，以軍在黎巴嫩南部對約150處真主黨武裝基礎設施實施空襲和火力打擊。以軍稱，打擊目標包括武器儲存點、指揮中心、火箭發射裝置以及其他用於開展軍事行動的設施。以軍表示，這些設施被真主黨用於策劃和實施針對以軍部隊的襲擊。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e9e27-b0b1-7665-8314-1fa39cf0a6a8",
-      "time": "2026-06-07 02:17:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS reports sounds of explosions on Kharg Island were caused by a controlled detonation of munitions."
     }
   ]
 }
