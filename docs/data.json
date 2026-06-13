@@ -1,7 +1,328 @@
 {
-  "updated": "2026-06-13 22:26:33",
-  "count": 18434,
+  "updated": "2026-06-13 22:40:50",
+  "count": 18468,
   "items": [
+    {
+      "id": "mkt:019ec16d-2c77-7dd8-afec-22d9453b4f2e",
+      "time": "2026-06-13 22:40:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Senior U.S. government official: the agreement requires Iran to open the Strait of Hormuz as a precondition and it could be opened without charging any fees."
+    },
+    {
+      "id": "4933918",
+      "time": "2026-06-13 22:39:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國媒體13日說，巴基斯坦副總理兼外交部長達爾在與沙烏地阿拉伯外交大臣費薩爾通電話時表示，美伊協議的電子簽署儀式定於明天舉行。"
+    },
+    {
+      "id": "mkt:019ec16c-a558-7dd8-afec-196c5d89facf",
+      "time": "2026-06-13 22:39:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "A senior US government official said the US believes it has reached a very strong agreement with Iran, and that Pakistan’s statement today confirmed this."
+    },
+    {
+      "id": "mkt:019ec16c-2966-7dd8-afec-121c2f095408",
+      "time": "2026-06-13 22:39:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. official said Israeli Prime Minister Netanyahu will not attend President Trump’s bilateral meeting with Middle East leaders at the G7 summit."
+    },
+    {
+      "id": "4933917",
+      "time": "2026-06-13 22:39:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階政府官員：以色列總理內塔尼亞胡不會出席特朗普在G7峰會上與中東領導人的雙邊會談。"
+    },
+    {
+      "id": "mkt:019ec16b-f43a-7dd8-afec-0faddcab02e9",
+      "time": "2026-06-13 22:38:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Foreign Ministry said the Qatari PM and foreign minister discussed recent regional developments with Pakistan's prime minister and Islamabad's mediation efforts to ease tensions."
+    },
+    {
+      "id": "4933916",
+      "time": "2026-06-13 22:38:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：首相兼外交部長表達了卡達對談判取得進展以及巴基斯坦宣佈達成協議最終文字的欣慰。"
+    },
+    {
+      "id": "4933915",
+      "time": "2026-06-13 22:38:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員表示：美墨加協定相關磋商正與加拿大持續開展，溝通形式較為非正式。"
+    },
+    {
+      "id": "mkt:019ec16a-cc66-7dd8-afec-07731aa92627",
+      "time": "2026-06-13 22:37:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said communications with Canada have been satisfactory but no breakthrough is expected."
+    },
+    {
+      "id": "4933914",
+      "time": "2026-06-13 22:37:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國政府高階官員談及七國集團：我們樂於與加拿大保持溝通，但不要期待會取得任何突破。"
+    },
+    {
+      "id": "4933913",
+      "time": "2026-06-13 22:37:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國高階政府官員談及七國集團與貿易問題：已收到加拿大方面關於進一步磋商的接洽。"
+    },
+    {
+      "id": "mkt:019ec16a-958d-7dd8-afeb-f8e1e270518e",
+      "time": "2026-06-13 22:37:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. government official said Canada has contacted U.S. officials to discuss further engagement on G7 meeting and trade issues."
+    },
+    {
+      "id": "mkt:019ec169-e50d-7dd8-afeb-f2694d7ee943",
+      "time": "2026-06-13 22:36:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senior U.S. government official said at the G7 meeting the U.S. is willing to cooperate on addressing trade imbalances."
+    },
+    {
+      "id": "4933912",
+      "time": "2026-06-13 22:36:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "澤連斯基：美國官員稱，特朗普將出席與七國集團領導人的會議。"
+    },
+    {
+      "id": "4933911",
+      "time": "2026-06-13 22:36:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國高階政府官員談及七國集團：樂於在貿易失衡問題上合作。"
+    },
+    {
+      "id": "mkt:019ec169-43d0-7dd8-afeb-ea200d6e0e78",
+      "time": "2026-06-13 22:36:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump retweets Pakistani PM saying US-Iran peace deal possible within 24 hours】On the 13th, Trump retweeted a tweet by the Pakistani prime minister on his Truth Social account saying a US‑Iran peace agreement could be signed within 24 hours."
+    },
+    {
+      "id": "4933910",
+      "time": "2026-06-13 22:35:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普轉發巴總理有關美伊簽署協議可能性的推文】美國總統特朗普13日在其“真實社交”媒體平臺上轉發巴基斯坦總理關於24小時內簽署美伊和平協議可能性的推文。"
+    },
+    {
+      "id": "4933909",
+      "time": "2026-06-13 22:35:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國高階政府官員：北約問題可能在七國集團會議上被提及，對目前正在進行的部分責任轉移感到滿意。"
+    },
+    {
+      "id": "mkt:019ec168-79a2-7dd8-afeb-e274b7650452",
+      "time": "2026-06-13 22:35:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. senior government official said NATO issues may be raised at the G7 meeting and that Washington is satisfied with some current burden‑shifting."
+    },
+    {
+      "id": "4933908",
+      "time": "2026-06-13 22:32:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：美國的行動表明了技術主權的必要性。"
+    },
+    {
+      "id": "4933907",
+      "time": "2026-06-13 22:31:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體稱伊朗外長將訪巴基斯坦監督伊美談判】外媒13日報道，伊朗外交部長阿拉格齊將於14日抵達巴基斯坦，監督伊美和平協議相關技術性談判。（新華社）"
+    },
+    {
+      "id": "4933906",
+      "time": "2026-06-13 22:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：美國希望伊朗戰爭儘快結束。"
+    },
+    {
+      "id": "4933905",
+      "time": "2026-06-13 22:31:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會表示，盟友應攜手應對風險。"
+    },
+    {
+      "id": "mkt:019ec164-d522-7dd8-afeb-dddaede4ecf4",
+      "time": "2026-06-13 22:31:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senior U.S. government official on Ukraine said the U.S. hopes the conflict ends as soon as possible."
+    },
+    {
+      "id": "4933904",
+      "time": "2026-06-13 22:31:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會稱，正評估Anthropic 旗下 Mythos 相關服務的封禁舉措。"
+    },
+    {
+      "id": "4933903",
+      "time": "2026-06-13 22:30:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：在烏克蘭問題上，我們希望這場戰爭儘可能早日結束。"
+    },
+    {
+      "id": "mkt:019ec163-b747-7dd8-afeb-d076acc7e9b3",
+      "time": "2026-06-13 22:29:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A senior U.S. government official said that as the Strait of Hormuz reopens, the U.S. will participate in mine‑clearing operations and G7 countries may also join."
+    },
+    {
+      "id": "4933902",
+      "time": "2026-06-13 22:29:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國政府高階官員：霍爾木茲海峽開通後，美國將參與排雷工作，七國集團成員國或參與其中。"
+    },
+    {
+      "id": "mkt:019ec162-c674-7dd8-afeb-c8984ac7ecfd",
+      "time": "2026-06-13 22:28:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A senior U.S. government official said the U.S. believes it has reached a strong agreement with Iran."
+    },
+    {
+      "id": "4933901",
+      "time": "2026-06-13 22:28:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員表示：“我們認為已經與伊朗達成了協議，這是一份有力的協議。”"
+    },
+    {
+      "id": "mkt:019ec161-70d3-7dd8-afeb-c4747a19e9d2",
+      "time": "2026-06-13 22:27:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Japan & APAC"
+      ],
+      "text": "A senior U.S. government official said President Trump also plans bilateral meetings with the leaders of France, Egypt and India."
+    },
+    {
+      "id": "mkt:019ec161-41f7-7dd8-afeb-bbdc4518550f",
+      "time": "2026-06-13 22:27:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. official said President Trump will dine with French President Macron at Versailles next Wednesday."
+    },
+    {
+      "id": "4933900",
+      "time": "2026-06-13 22:27:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階政府官員：特朗普還計劃與埃及和印度領導人舉行雙邊會晤。"
+    },
+    {
+      "id": "4933899",
+      "time": "2026-06-13 22:26:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府高階官員：特朗普將於週三在凡爾賽宮與馬克龍共進晚餐。"
+    },
+    {
+      "id": "mkt:019ec160-93b5-7dd8-afeb-b720fda4959f",
+      "time": "2026-06-13 22:26:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior U.S. official said President Trump will meet leaders from the UAE, Qatar and other Middle East countries at the G7 summit."
+    },
+    {
+      "id": "4933898",
+      "time": "2026-06-13 22:26:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國政府高階官員：特朗普將在七國集團峰會期間會晤阿聯酋、卡達及其他中東國家領導人。"
+    },
+    {
+      "id": "4933897",
+      "time": "2026-06-13 22:26:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普將於週一與法國總統馬克龍舉行會晤。"
+    },
     {
       "id": "mkt:019ec15f-bad2-7dd8-afeb-a8a63266e0ab",
       "time": "2026-06-13 22:25:36",
@@ -169465,30 +169786,6 @@
         "市場"
       ],
       "text": "【近三個月車規級儲存晶片價格暴漲180% 多家新能源車企上調售價或收緊優惠】近一段時間，國內新能源汽車市場迎來較為集中的價格調整，市面上有多款新能源車型，先後出現了售價上調或優惠變化。在北京一家新能源汽車4S店裡，銷售人員告訴記者，目前他們在售車型的官方指導價並沒有發生變化。但5月以來，店內多款車型配置的一款輔助駕駛選裝包價格有所上調，從之前的9900元上調到了12000元。車企公告顯示，選裝包價格調整，主要是受到全球儲存硬體成本大幅上漲的影響。有資料顯示，近三個月，車規級儲存晶片整體價格漲幅約在180%。據不完全統計，近期國內共有十餘家新能源車企上調售價或收緊優惠，幅度一般在2000元到6000元不等。在新能源車價格出現變化的時候，不少燃油車在調低價格，加大優惠力度。截至今年4月，燃油車促銷力度已連續9個月維持在23%左右的高位。 (央視財經)"
-    },
-    {
-      "id": "4921312",
-      "time": "2026-06-06 22:39:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "託德·布蘭奇就特朗普提名：很榮幸特朗普邀請我擔任司法部長。"
-    },
-    {
-      "id": "mkt:019e9d5e-dca8-7665-8313-27c612cac278",
-      "time": "2026-06-06 22:38:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【More than 10 members of Iran World Cup delegation denied U.S. visas】On the 6th (local time), more than 10 members of Iran’s delegation to the 2026 U.S.-Canada-Mexico World Cup—including administrative staff and Iranian Football Federation officials—were denied U.S. visas. The White House said a day earlier that all Iran national team players had been granted visas."
-    },
-    {
-      "id": "4921311",
-      "time": "2026-06-06 22:33:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世界盃伊朗代表團十餘人遭美國拒籤】當地時間6日，參加2026美加墨世界盃的伊朗代表團中，包括行政人員和伊朗足協官員在內的十餘人未能獲得美國簽證。此前一天，美國白宮官員表示，伊朗國足所有球員均已獲得簽證。（央視新聞）"
     }
   ]
 }
