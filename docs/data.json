@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-13 08:56:16",
-  "count": 18411,
+  "updated": "2026-06-13 09:00:52",
+  "count": 18412,
   "items": [
+    {
+      "id": "mkt:019ebe7b-d4de-7dd8-afe7-a237c9d6e3fc",
+      "time": "2026-06-13 08:57:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Anthropic said testers have not yet been able to find a universal jailbreak method."
+    },
+    {
+      "id": "mkt:019ebe7b-73d6-7dd8-afe7-9e76fa9e9f79",
+      "time": "2026-06-13 08:57:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC said it disagrees that the existence of a potential jailbreak vulnerability should be grounds to recall commercial models already deployed to hundreds of millions of users."
+    },
+    {
+      "id": "mkt:019ebe7a-a444-7dd8-afe7-9528dcff3921",
+      "time": "2026-06-13 08:56:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC says it understands the US government believes it has identified a method to bypass or 'jailbreak' Fable 5, and that the government doubts any model provider can currently deliver perfect jailbreak defenses."
+    },
     {
       "id": "4933538",
       "time": "2026-06-13 08:55:28",
@@ -169408,25 +169434,6 @@
         "國際"
       ],
       "text": "【科威特：正應對“敵方”導彈和無人機攻擊】科威特軍方6日發表宣告說，科威特防空部隊正在應對“敵方”導彈和無人機攻擊。如聽到爆炸聲，系科威特防空系統攔截攻擊所致。（新華社）"
-    },
-    {
-      "id": "4920587",
-      "time": "2026-06-06 09:00:47",
-      "tags": [
-        "行業",
-        "市場"
-      ],
-      "text": "【酒價內參6月6日價格釋出：青花郎五糧液普五八代領漲 總價止跌回升】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月6日整體明顯回暖。如果主要單品各取一瓶整體打包售賣，今日總售價為9888元，較昨日溫和上漲12元，結束此前連續下探態勢。市場在前一日大幅走弱後出現修復，終端交投情緒略有回暖，核心單品的漲跌分化度依然顯著。\n\n今日白酒市場11大單品七漲四跌，贏家佔據明顯上風。上漲方面，青花郎漲幅居前，上漲8元/瓶，重返690元上方；五糧液普五八代上漲7元/瓶，結束此前連續四日下跌的頹勢強勢反彈；青花汾20與水晶劍南春均上漲3元/瓶，後者回補昨日全部跌幅，重回月內次高位；精品茅臺上漲2元/瓶；飛天茅臺與洋河夢之藍M6+均小幅上漲1元/瓶。下跌方面，習酒君品的跌幅居前，下跌7元/瓶，連續兩日明顯回落，價格回落至月內次低位；國窖1573下跌3元/瓶，已連續三日走低，創下月內最低價格紀錄；古井貢古20下跌2元/瓶；五糧液1618小幅下跌1元/瓶。"
-    },
-    {
-      "id": "4920570",
-      "time": "2026-06-06 08:58:16",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【行業景氣成長週期開啟 多家公司MLCC產品穩步爬坡】近期，多家研究機構對於MLCC（多層陶瓷電容器‌）給出了一致的高景氣度預期。在業內看來，MLCC或面臨著與儲存同樣的市場格局，行業供給逐漸趨緊，庫存水平持續下降，未來半年MLCC價格上漲的確定性正在提高。受益於多重利好的刺激，全球MLCC概念股今年以來走勢極其強勁。截至6月5日，A股市場中的風華高科、潔美科技、三環集團等今年累計漲幅均翻倍；全球MLCC絕對龍頭——日本村田製作所今年以來累計漲幅也超過200%。從A股市場來看，截至當前，佈局MLCC的概念股有20餘隻，包括風華高科、潔美科技、昀冢科技等上、下游核心標的。從機構調研情況來看，截至6月5日，今年以來獲得10家及以上機構調研的MLCC概念股有15只，廈門鎢業、風華高科及國瓷材料均獲得120餘家機構調研。透過投資者關係互動平臺披露的資訊，據記者不完全梳理，目前已有多家公司（或旗下子公司）明確MLCC產品已進行交付或實現產能爬坡，包括信維通訊、斯迪克、宏明電子等9家公司。"
     }
   ]
 }
