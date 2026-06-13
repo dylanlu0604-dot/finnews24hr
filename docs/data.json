@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-14 02:52:48",
-  "count": 18473,
+  "updated": "2026-06-14 02:56:38",
+  "count": 18472,
   "items": [
+    {
+      "id": "4934015",
+      "time": "2026-06-14 02:55:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：歐盟警務機構表示，犯罪團伙正透過網路大批次招募、誘導未成年人實施惡性犯罪。"
+    },
     {
       "id": "4934014",
       "time": "2026-06-14 02:47:08",
@@ -169803,22 +169811,6 @@
         "公司"
       ],
       "text": "巴航工業執行長：公司目標是2027年交付95至100架商用飛機。"
-    },
-    {
-      "id": "mkt:019e9e49-161a-7665-8314-559a5c204df5",
-      "time": "2026-06-07 02:54:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia says it seized Shevchenkove in Kharkiv; Ukraine reports strikes on Russian targets】On June 6, Russia’s Defense Ministry said Russian forces had seized the Shevchenkove settlement in Kharkiv region and struck 153 Ukrainian locations, including production, storage and launch sites for long-range drones, fuel, transport and port infrastructure, and temporary deployment points for Ukrainian forces and foreign mercenaries. Also on June 6 the General Staff of the Armed Forces of Ukraine said Ukrainian forces had struck Russian personnel assembly areas, drone control points and artillery systems."
-    },
-    {
-      "id": "4921410",
-      "time": "2026-06-07 02:53:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱控制烏一處居民點 烏稱打擊俄多地目標】當地時間6日，俄羅斯國防部稱，俄軍已控制哈爾科夫州的舍甫琴科居民點，並打擊了烏克蘭的153個區域。包括遠端無人機的生產、儲存、發射場地，燃料、交通和港口基礎設施，以及烏武裝部隊和外國僱傭兵臨時部署點。俄防空系統擊落13枚制導航空炸彈、4枚“海馬斯”火箭彈和911架固定翼無人機。烏克蘭武裝部隊總參謀部6日稱，烏軍襲擊了俄軍人員集結區、無人機控制點和火炮系統等目標。同一天，烏克蘭總統澤連斯基稱，烏無人機飛抵俄聖彼得堡地區，打擊了俄海軍軍火庫及喀琅施塔得軍事基地。此外，烏無人機還打擊了俄南部克拉斯諾達爾地區的一處儲油基地。（央視新聞）"
     }
   ]
 }
