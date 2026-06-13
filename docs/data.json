@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-14 02:21:41",
-  "count": 18476,
+  "updated": "2026-06-14 02:25:41",
+  "count": 18475,
   "items": [
+    {
+      "id": "4934005",
+      "time": "2026-06-14 02:24:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列廣播管理局：軍方正在為政治指揮部可能下令停止在黎巴嫩南部地面推進的情況做準備。"
+    },
+    {
+      "id": "4934004",
+      "time": "2026-06-14 02:21:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員表示，這份即將達成的伊朗協議或將鞏固伊朗現政權，並限制以色列國防軍針對真主黨的軍事行動。"
+    },
     {
       "id": "mkt:019ec236-7c6a-7dd8-afed-8a8ede6d9272",
       "time": "2026-06-14 02:20:11",
@@ -169828,34 +169844,6 @@
         "國際"
       ],
       "text": "伊朗邁赫爾通訊社週六報道，伊朗哈爾格島傳出的爆炸聲，源於巴赫雷甘石油區的彈藥銷燬作業。"
-    },
-    {
-      "id": "mkt:019e9e2d-da6e-7665-8314-24bdaefcea5f",
-      "time": "2026-06-07 02:24:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【IDF says killed Hamas commander in southern Gaza】The Israel Defense Forces said a nighttime airstrike in southern Gaza on June 6 killed a Hamas military commander. The IDF said the commander had planned multiple recent attacks on Israeli forces and posed a direct threat to IDF deployments. Hamas did not immediately respond."
-    },
-    {
-      "id": "4921401",
-      "time": "2026-06-07 02:24:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在加沙南部打死一名哈馬斯指揮官】當地時間6日，以色列國防軍表示，以軍當天夜間在加沙地帶南部發動空襲，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的一名軍事指揮官。以軍表示，該指揮官在衝突期間以及最近幾天參與策劃多起針對以軍部隊的襲擊行動，對以軍在當地的部署構成直接威脅。對此，哈馬斯方面暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4921400",
-      "time": "2026-06-07 02:21:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗媒體：哈爾克島附近居民聽到爆炸聲】據多家伊朗媒體報道，伊朗哈爾克島附近的居民6日晚稱聽到強烈爆炸聲。（新華社）"
     }
   ]
 }
