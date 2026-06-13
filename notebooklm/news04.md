@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 03:12:49_
-_本檔包含 3664 則快訊，約 667872 字_
+_更新時間：2026-06-14 04:05:34_
+_本檔包含 3674 則快訊，約 667169 字_
+
+---
+
+### 2026-06-10 00:25:54  #公司 #觀點
+
+【高盛和巴克萊警示：上週五美股的急挫不應被輕易視作一次性的異常波動】上週五的拋售讓習慣於動量股只漲不跌的投資者措手不及。但投資者不應輕易將其視為一次性的異常波動。巴克萊和高盛集團的交易部門發出上述警告，認為持倉擁擠、市場廣度狹窄以及利率將在更長時間維持高位的前景，使得股市更容易出現突然的回撥。高盛交易員Lee Coppersmith等人在致客戶的報告中寫道：“這些因素共同營造出一種環境，使得因子交易平倉的衝擊可能遠比指數層面波動率所顯示的水平更加劇烈。”上週五讓投資者見識到，一旦市場情緒逆轉，股市中漲幅最大的股票走勢可能多快掉頭。
+
+---
+
+### 2026-06-10 00:25:07  #國際
+
+【武磊完成第101次國家隊出場 國足0-0戰平泰國】北京時間6月9日晚，2026中國之隊國際足球邀請賽，中國男足在浙江金華主場0-0戰平泰國男足。賽前，中國足協為武磊舉辦了國家隊百場紀念儀式。此役登場，是武磊代表國家隊的第101次出戰。
+
+---
+
+### 2026-06-10 00:23:14  #MKT News #Commodities #Energy
+
+QatarEnergy said the Merlin-1X exploration well delivered 'encouraging' subsurface results, showing good reservoir quality, light crude and low associated gas.
+
+---
+
+### 2026-06-10 00:22:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA now expects global oil demand to decline in 2026, reversing its prior forecast of modest growth.
+
+---
+
+### 2026-06-10 00:22:19  #國際
+
+【IRNA：伊朗國防部稱將加快武器生產】據官方的伊朗通訊社(IRNA)援引宣告報道稱，伊朗國防部將調動該國“全部的科研、工業和國防能力，以加快研發和生產武裝部隊所需的裝備、武器和系統”。伊朗國防部在宣告中表示，此舉將確保伊朗軍隊保持“充分準備，並有能力捍衛國家的安全、獨立和領土完整”。
+
+---
+
+### 2026-06-10 00:22:09  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish #S&P500 #Dow
+
+U.S. equities extended losses: Nasdaq fell over 3.0 pct, the S&P 500 declined 1.7 pct and the Dow slipped 0.7 pct.
+
+---
+
+### 2026-06-10 00:21:24  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA now expects OECD oil inventories to fall to their lowest level since 2003.
+
+---
+
+### 2026-06-10 00:21:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA: Disruptions in the Strait of Hormuz forced Middle Eastern producers to cut output by more than 11 mln b/d in May versus pre-war levels.
+
+---
+
+### 2026-06-10 00:20:58  #公司
+
+卡達能源公司表示，梅林 1X 探井取得可觀的地下勘探成果，儲層品質優良，產出輕質原油且伴生氣含量較低。
+
+---
+
+### 2026-06-10 00:20:49  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot silver slipped below $65/oz, down 4.63% intraday; New York silver futures tumbled 5% to $65.16/oz. Spot gold traded at $4,255.35/oz, down 1.7% intraday.
+
+---
+
+### 2026-06-10 00:20:24  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Microsoft Stock Price Hits 5-week Low — Microsoft shares decreased to 400.62 USD, the lowest since April 2026. Over the past 4 weeks, Microsoft lost 2.81%, and in the last 12 months, it decreased 14.83%.
+
+---
+
+### 2026-06-10 00:20:17  #國際
+
+美國能源資訊署目前預計 2026 年全球石油需求將下滑，推翻了此前小幅增長的預測。
+
+---
+
+### 2026-06-10 00:20:04  #MKT News #Commodities #Energy
+
+QatarEnergy said it discovered a new offshore oilfield off Namibia.
+
+---
+
+### 2026-06-10 00:19:37  #市場
+
+加元兌美元跌至1.3969，為去年12月以來最低水平。
+
+---
+
+### 2026-06-10 00:19:28  #市場 #焦點
+
+現貨白銀失守65美元/盎司，日內跌4.65%。
+
+---
+
+### 2026-06-10 00:19:26  #公司
+
+卡達能源公司釋出宣告，宣佈在奈米比亞近海發現新油田。
+
+---
+
+### 2026-06-10 00:19:20  #市場
+
+紐約期銀日內跌5%，現報65.15美元/盎司。
+
+---
+
+### 2026-06-10 00:19:20  #市場 #焦點
+
+白銀連續主力合約日內跌5%，現報15600.00元。
+
+---
+
+### 2026-06-10 00:19:19  #市場 #焦點
+
+紐約期金失守4280美元/盎司，日內跌1.91%。
+
+---
+
+### 2026-06-10 00:19:16  #市場 #焦點
+
+納指跌3.00%，現報25150.877點；道指跌0.67%，現報50445.641點；標普500指數跌1.65%，現報7283.900點。
+
+---
+
+### 2026-06-10 00:18:43  #MKT News
+
+NASA named a four-person crew for Artemis III: three U.S. astronauts and one Italian astronaut will conduct an Earth-orbit mission.
+
+---
+
+### 2026-06-10 00:18:38  #宏觀 #國際
+
+【紐約梅隆銀行首席投資官預計通脹持續高企將拖累債券】紐約梅隆銀行首席投資官Jason Granet表示，即便當前由戰爭引發的能源價格飆升消退之後，通脹率仍可能在更長時間內保持高位，推高利率，並在未來幾年拖累債券。Granet上月被任命為美國財政部借款諮詢委員會(TBAC)主席。他表示，經由霍爾木茲海峽的石油和天然氣運輸不太可能恢復到戰前狀態。再加上其他因素，包括人工智慧基礎設施支出激增，可能會令通脹承受上行壓力的時間長於市場預期。“遠期通脹預期顯示，全球通脹都會回落。我的看法是，各地通脹可能都會持續更久一點，”Granet在接受採訪時表示，“總體而言，這應該意味著利率會更高。”
+
+---
+
+### 2026-06-10 00:17:48  #MKT News #TSLA.O #Impact bearish
+
+Tesla (TSLA.O) shares fell as much as 5%.
+
+---
+
+### 2026-06-10 00:17:44  #國際
+
+美國能源資訊署：經合組織原油庫存預計將跌至 2003 年以來最低水平。
+
+---
+
+### 2026-06-10 00:17:37  #MKT News #MS.N #Impact bullish
+
+MORGAN STANLEY (MS.N) CEO Ted Pick said core investment-banking activity is very active.
+
+---
+
+### 2026-06-10 00:16:59  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA expects some Middle East oil production outages to persist through end-2027, extending beyond the forecast horizon of its Short-Term Energy Outlook.
+
+---
+
+### 2026-06-10 00:16:46  #國際
+
+美國國家航空航天局確定阿爾忒彌斯三號地月軌道任務乘組，成員包括三名美國宇航員和一名義大利宇航員。
+
+---
+
+### 2026-06-10 00:16:46  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Corning Stock Price Hits 5-week Low — Corning shares decreased to 169.11 USD, the lowest since May 2026. Over the past 4 weeks, Corning lost 18.41%, and in the last 12 months, it increased 234.34%.
+
+---
+
+### 2026-06-10 00:16:05  #國際
+
+美國能源資訊署：受霍爾木茲海峽運輸受阻影響，中東產油國 5 月原油日產量較戰前水平削減超 1100 萬桶。
+
+---
+
+### 2026-06-10 00:15:13  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Finishes in the Red — The DAX 40 reversed course to close about 0.7% lower at 24,418 on Tuesday, the lowest since May 19, amid renewed weakness in the tech sector and geopolitical uncertainties. Concerns about the valuation levels of US tech giants resurfaced amid growing nervousness ahead of SpaceX’s IPO on Friday. Regarding Middle East developments, Israel and Iran agreed to halt strikes following an appeal by US President Trump, who said a deal with Tehran was close to being finalized. Also, US Energy Secretary Chris Wright said that shipping traffic through the Strait of Hormuz is increasing ‘very meaningfully.’” The tech sector was the hardest hit, with Infineon Technologies and SAP down 3.4% and 2.2%, respectively. Siemens Energy also saw pressure, dropping nearly 6%.
+
+---
+
+### 2026-06-10 00:15:04  #MKT News #MS.N #Impact bullish
+
+Morgan Stanley (MS.N) CEO Ted Pick said sponsor activity that had been quiet has become active again.
+
+---
+
+### 2026-06-10 00:14:57  #公司 #觀點
+
+摩根士丹利CEO：核心投行業務活躍度顯著提升 。
+
+---
+
+### 2026-06-10 00:14:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped below $4,260/oz, down 1.62% on the day.
+
+---
+
+### 2026-06-10 00:14:19  #國際
+
+美國能源資訊署預計，部分中東地區石油產量的中斷情況，將持續至其 2027 年底版短期能源展望預測區間之後。
+
+---
+
+### 2026-06-10 00:14:11  #市場 #焦點
+
+現貨黃金失守4260美元/盎司，日內跌1.61%。
+
+---
+
+### 2026-06-10 00:14:05  #其他
+
+智利財長：我們將調整公共財政發展方向，將持續把智利總債務佔國內生產總值比重控制在 45% 以內， 工作重心為充實財政儲備， 將著力提升管理效率。
 
 ---
 
@@ -21917,161 +22133,5 @@ Chile posted a US$2.435 bln trade surplus in May; exports fell to US$9.54 bln an
 ### 2026-06-08 20:31:29  #其他
 
 智利5月份錄得24.35億美元的貿易順差。5月出口額降至95.4億美元，進口額降至71.1億美元。
-
----
-
-### 2026-06-08 20:30:44  #公司 #市場
-
-【*ST 國中：股票交易異常波動 基本面無重大變化】*ST 國中公告稱，公司股票於2026年6月4日、6月5日、6月8日連續三個交易日內收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司生產經營正常，控股股東及其一致行動人無籌劃重大事項，近期註冊的子公司未開展業務。公司擬回購股份用於員工持股或股權激勵。公司已被實施退市風險及其他風險警示，提醒投資者注意交易風險，理性投資。
-
----
-
-### 2026-06-08 20:30:26  #市場
-
-納斯達克100指數期貨漲幅擴大至1.5%。
-
----
-
-### 2026-06-08 20:30:26  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
-
-The IDF said sirens sounded and artillery was fired from Lebanon toward Israeli forces; rounds were intercepted before crossing the border into Israel.
-
----
-
-### 2026-06-08 20:30:08  #市場 #觀點 #央行 #國際
-
-【摩根士丹利：如果風險偏好改善且美聯儲避免加息，美元料將下跌】摩根士丹利策略師在一份報告中表示，如果風險偏好回暖且美聯儲避免加息，美元未來幾個月可能會走弱。他們表示，在美國利率沒有走高的情況下，積極的風險偏好對美元是不利的。不過他們表示，如果美國經濟表現優於其他國家導致美國利率升幅超過同行，結果將對美元更為有利。“在歐洲央行和日本央行預計都將於本月加息的背景下，利差收窄應會導致積極的風險情緒拖累美元。”DXY美元指數下跌0.2%，至99.921，摩根士丹利預計該指數將達到94.000。
-
----
-
-### 2026-06-08 20:29:16  #國際
-
-【拉夫羅夫：當前很難評論烏克蘭問題的談判前景】俄羅斯外交部長拉夫羅夫6月8日表示，俄方願意遵循2025年俄美安克雷奇峰會達成的諒解，但遺憾的是，美國對重返這些諒解不感興趣。拉夫羅夫還提到，美國國務卿魯比奧日前在國會聽證會上稱“美國不能充當調解人，因為美國支援烏克蘭”，俄方對此感到擔憂。他同時指出，英國、法國、德國領導人日前在倫敦與澤連斯基簽署了一份檔案，約定向烏克蘭提供更多遠端武器，用於打擊俄羅斯領土，包括深入俄腹地。他說：“在這種情況下，我不知道還怎麼能談什麼談判。”拉夫羅夫認為，當前很難評論烏克蘭問題的談判前景。他同時強調，必須認真對待普京日前的表態：“目前一切不取決於談判，而取決於特別軍事行動。”（央視）
-
----
-
-### 2026-06-08 20:29:09  #國際
-
-美國農業部確認美國境內新增兩起新大陸螺旋蠅案例。
-
----
-
-### 2026-06-08 20:28:41  #焦點 #國際
-
-以色列第12頻道電視臺8日援引以色列高階官員的話說，以色列應美國總統特朗普要求，暫停對伊朗的襲擊。(新華社）
-
----
-
-### 2026-06-08 20:28:41  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Edges Down Below 100 — The dollar index edged lower below the 100 mark on Monday after climbing as high as 100.2 earlier in the session, as traders continued to assess the evolving situation in the Middle East. Reports indicated that Iran’s military had halted strikes against Israel but warned it would resume hostilities if Jerusalem continues operations in Lebanon. Meanwhile, President Trump said that Iran and Israel were seeking to reach a ceasefire agreement and that negotiations with Iran on a final deal were progressing. As a result, oil prices pared some of their earlier gains. However, concerns that a prolonged conflict with Iran could fuel inflationary pressures continued to weigh on sentiment, with the probability of a Fed rate hike as soon as October currently standing near 52%. Investors now await this week's US CPI and PPI reports for further clues on the inflation outlook. The dollar weakened across the board, with the largest declines recorded against the Australian dollar and the Japanese yen.
-
----
-
-### 2026-06-08 20:27:39  #國際
-
-以色列國防軍：來襲彈藥在進入以色列境內前已被攔截。
-
----
-
-### 2026-06-08 20:27:34  #公司
-
-【潤建股份：擬回購登出8.185萬股限制性股票並通知債權人】潤建股份公告稱，公司於2026年4月24日和6月8日分別召開董事會及股東會，審議透過回購登出議案。鑑於2025年激勵計劃個別激勵物件離職，公司將回購登出8.185萬股限制性股票。回購登出完成後，公司總股本將由2.86億股減至2.86億股（預估值），註冊資本相應減少。公司通知債權人，自公告日起45日內，有權要求清償債務或提供擔保。還公佈了債權申報所需材料及具體方式。
-
----
-
-### 2026-06-08 20:27:03  #國際
-
-以色列國防軍：警報響起後，有彈藥從黎巴嫩射向以軍陣地。
-
----
-
-### 2026-06-08 20:25:47  #公司
-
-【和遠氣體：股票交易異常波動 電子特氣產品尚處試生產階段】和遠氣體公告稱，公司股票連續3個交易日（2026年6月4日、6月5日、6月8日）累計偏離21.42%，屬異常波動。目前公司宜昌和潛江兩大電子特氣產業園產品尚處試生產階段，部分產品業績佔比不超5%，部分未產生業績，六氟化鎢未籤實質性訂單。公司經營正常，內外部環境未變，控股股東等無應披露未披露重大事項，提醒投資者勿輕信網路言論，理性投資。
-
----
-
-### 2026-06-08 20:25:35  #公司
-
-【迅遊科技：擬2000萬元設立全資子公司】迅遊科技公告稱，公司於2026年6月8日召開董事會會議，審議透過以自有資金2000萬元在成都設立全資子公司“成都迅遊星馳科技有限公司”（暫定名）的議案。新公司經營範圍包括計算機軟硬體銷售、技術服務等。此次投資系公司戰略安排，旨在實現業務專業化運作與管理，為未來資源整合及業務協同預留空間，不會對公司財務及經營狀況產生重大影響，但存在經營管理風險，公司將強化管控應對。
-
----
-
-### 2026-06-08 20:25:27  #MKT News #Important #WTI #Impact mixed #XAUUSD #DXY
-
-Israeli Channel 12, citing a senior official, reported that at U.S. President Trump’s request Israel has suspended strikes against Iran; the official said operations in Lebanon will continue and added that if Israeli territory is attacked Israel will strike Dahiyeh.
-
----
-
-### 2026-06-08 20:25:26  #公司
-
-【天山電子：實控人及其一致行動人持股比例增至31.05%】天山電子公告稱，2026年6月5日，公司2025年度權益分派實施完畢，總股本由1.98億股增至2.76億股。公司實際控制人王嗣緯及其一致行動人範筱芸、王嗣縝合計持股數量從6131.27萬股增至8583.78萬股，合計持股比例由30.93%增至31.05%（剔除回購股份後為31.34%）。截至報告書披露日，2024年限制性股票激勵計劃尚未實施完畢，未來12個月內，實控人及其一致行動人可能繼續減少或處置公司股份。
-
----
-
-### 2026-06-08 20:24:58  #國際
-
-以色列媒體：若本土遭襲，以方將打擊達希耶地區。
-
----
-
-### 2026-06-08 20:24:17  #公司
-
-拉美航空巴西公司執行長表示：已將6-7月運力較初始計劃削減3%，預計第三季度將延續類似趨勢。
-
----
-
-### 2026-06-08 20:24:13  #公司
-
-拉美航空巴西公司執行長：公司在運力增長決策上趨於更加保守，E2機型執飛航線將於7月公佈。
-
----
-
-### 2026-06-08 20:23:42  #國際
-
-以色列媒體：以色列在黎巴嫩的襲擊將繼續。
-
----
-
-### 2026-06-08 20:23:41  #MKT News
-
-Israeli media reported four interception incidents in the Galilee highlands in northern Israel.
-
----
-
-### 2026-06-08 20:23:05  #市場
-
-【臺積電美股盤前漲超4%】臺積電美股盤前漲超4%，現報431.79美元。
-
----
-
-### 2026-06-08 20:23:03  #MKT News
-
-【Electronic fabric reports five price hikes YTD; listed firms confirm】Compute-driven demand has pushed electronic fabric prices sharply higher: common specifications have undergone five price increases so far this year, lifting the average to 7.4 yuan/m, about 100% above last year’s Q3 low. An unnamed listed electronic-fabric maker confirmed five hikes, saying prices are reviewed at month-end and adjusted for the following month, with each increase around 10%. A senior executive at a leading producer said the uptrend began last year but has accelerated this year. Producers say capacity expansion is constrained by high equipment and process-control requirements, and by conversion of standard lines to AI-specialty electronic fabric, which has reduced supply of ordinary grades.
-
----
-
-### 2026-06-08 20:22:15  #國際
-
-以色列媒體：應特朗普要求，以方暫停對伊朗的打擊行動。
-
----
-
-### 2026-06-08 20:21:31  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Hezbollah said it fired rockets at an Israeli artillery position in the town of Adaisa.
-
----
-
-### 2026-06-08 20:21:16  #公司
-
-【贛鋒鋰業：儲能電芯滿產滿銷 588Ah產線三季度啟動產能爬坡】贛鋒鋰業(002460.SZ)釋出投資者關係活動記錄表公告，公司鋰電池業務聚焦儲能領域，依託技術與產能優勢，訂單飽滿，產能利用率持續維持高位，同時新產線穩步推進。2026年1至4月，市場需求持續旺盛，電芯產品供不應求，公司儲能電芯持續保持滿負荷生產，產能利用率接近100%。公司自研588Ah和648Ah大電芯為行業標杆產品，能量密度較傳統產品有較大提升，精準適配大型儲能電站的核心需求。南昌贛鋒588Ah產線建設已進入收尾階段，計劃2026年第三季度正式啟動產能爬坡，年底前逐步放量；公司648Ah專案正在加速推進。
-
----
-
-### 2026-06-08 20:20:36  #MKT News #Important #Star Stocks
-
-Amazon (AMZN.O) launched a five-tranche investment-grade CAD bond offering.
 
 ---

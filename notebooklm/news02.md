@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-14 03:12:49_
-_本檔包含 3670 則快訊，約 667962 字_
+_更新時間：2026-06-14 04:05:34_
+_本檔包含 3663 則快訊，約 666717 字_
+
+---
+
+### 2026-06-12 09:03:32  #市場 #焦點
+
+紐約期金失守4210美元/盎司，日內漲2.33%。
+
+---
+
+### 2026-06-12 09:03:19  #公司
+
+【日久光電：離型膜並未向MLCC企業供貨】日久光電6月12日在互動平臺回覆稱，公司離型膜目前屬於自用，並未向MLCC企業供貨。
+
+---
+
+### 2026-06-12 09:02:35  #資料 #央行 #國際
+
+【韓國央行行長稱有必要適時加息】韓國央行行長週五表示，受中東衝突推高油價影響，韓國通脹率預計將在較長一段時間內超出目標水平，因此有必要如期上調利率。韓國央行行長申鉉松表示：“貨幣政策往往需要在各類政策目標間權衡取捨，但當前這類矛盾並不突出。所以為穩定物價，理應按時加息。”他還稱，5 月貨幣政策會議之後公佈的各項資料，也明確指向同一政策方向。上週公佈的資料顯示，韓國 5 月居民消費價格指數（CPI）同比漲幅升至 3.1%，創下兩年多新高，超出市場預期，也為最早在下月收緊貨幣政策提供了依據。
+
+---
+
+### 2026-06-12 09:01:50  #市場 #焦點
+
+現貨黃金失守4200美元/盎司，日內跌0.27%。
+
+---
+
+### 2026-06-12 09:01:45  #市場 #焦點
+
+紐約期金失守4220美元/盎司，日內漲2.58%。
+
+---
+
+### 2026-06-12 09:01:18  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+On Friday June 12 early trade, Shanghai Gold Exchange gold T+D rose 2.19% to 913.7 yuan/gram; silver T+D gained 4.45% to 16,008.0 yuan/kg.
+
+---
+
+### 2026-06-12 09:01:15  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index opened 1,629.17 points higher, up 3.78%, at 44,778.63 on Friday, June 12.
+
+---
+
+### 2026-06-12 09:00:35  #MKT News
+
+Bank of Korea Governor Shin said inf will remain above target for an extended period.
+
+---
+
+### 2026-06-12 09:00:35  #MKT News
+
+Bank of Korea Governor Shin said it is necessary to raise interest rates promptly.
+
+---
+
+### 2026-06-12 09:00:33  #市場
+
+MSCI亞太指數上漲3.3%至273.04點。
+
+---
+
+### 2026-06-12 09:00:28  #市場
+
+臺灣證交所加權股價指數上漲3.1%至44,491.27點。
+
+---
+
+### 2026-06-12 09:00:19  #市場
+
+臺灣證交所加權股價指數上漲1%至43,587.63點。
+
+---
+
+### 2026-06-12 09:00:14  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #CNH
+
+FTSE China A50 index futures opened up 0.89%.
+
+---
+
+### 2026-06-12 09:00:08  #其他
+
+【報道：阿里擬出資15億美元競購中國生鮮電商“樸樸超市”】阿里巴巴正出資15億美元收購中國生鮮外賣平臺“樸樸超市”，這也是阿里旨在從美團手中奪取線上商業市場份額的更廣泛行動的一部分。知情人士透露，阿里提出的這一價格是此前高鑫零售報價的兩倍多。
+
+---
+
+### 2026-06-12 09:00:04  #市場 #焦點
+
+多晶矽連續主力合約日內漲4%，現報38295.00元。
+
+---
+
+### 2026-06-12 09:00:04  #市場 #焦點
+
+鈀連續主力合約日內漲4%，現報310.45元。
+
+---
+
+### 2026-06-12 09:00:04  #市場 #焦點
+
+白銀連續主力合約日內漲4%，現報16152.00元。
+
+---
+
+### 2026-06-12 09:00:04  #市場 #焦點
+
+上海原油連續主力合約日內跌4%，現報560.00元。
+
+---
+
+### 2026-06-12 09:00:03  #市場
+
+【商品期貨開盤】多晶矽連續漲4.62%，鈀連續漲4.56%，上海原油連續跌4.52%，白銀連續漲4.31%，液化石油氣連續跌3.55%。
+
+---
+
+### 2026-06-12 09:00:03  #市場
+
+富時中國A50指數期貨開盤上漲0.89%。
+
+---
+
+### 2026-06-12 08:59:55  #其他
+
+【江蘇省省長劉小濤在鹽城市調研】據新華日報·交匯點，6月9日至10日，江蘇省省長劉小濤在鹽城市調研。劉小濤先後來到濱海縣、射陽縣、阜寧縣、建湖縣和東臺市，詳細瞭解縣域特色優勢產業發展情況，並走進江沅機械、京奕綠能、藍天環保、聚龍湖機械、富樂華半導體、領勝城等企業聽取意見建議。他強調，要立足自身資源稟賦、產業基礎，科學謀劃特色優勢產業發展路徑，支援企業牽頭建立新型研發機構和創新聯合體，加快新技術新模式新場景開發，促進產業高階化、智慧化、綠色化，進一步夯實產業發展底座。
+
+---
+
+### 2026-06-12 08:59:52  #國際
+
+【菲律賓南部地震已造成55人死亡】6月12日，菲律賓國家減災委釋出訊息稱，6月8日的南部強震已經導致55人死亡，1120人受傷，另有31人失蹤。
+
+---
+
+### 2026-06-12 08:59:26  #市場
+
+【酒價內參6月12日價格釋出：古井貢古20習酒君品領漲 總價創四天以來新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月12日整體繼續小幅反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9901元，較昨日溫和上漲13元，重返9900元關口上方，創四天以來最高。市場在前期回落至近30天低位後連續兩日修復，終端交投情緒略有回暖，但核心單品漲跌分化度依然顯著。從結構看，頭部高階單品多數回落，次高階及區域名酒表現相對活躍，成為帶動今日總價繼續修復的主要力量。今日11大白酒單品四漲六跌一平，輸家數量仍佔優勢，但上漲品種漲幅較大，帶動總價回升。上漲方面，古井貢古20漲幅居前，上漲11元/瓶，創近一月最大單日漲幅，收穫三連陽，價格升至5月18日以來最高位；習酒君品上漲8元/瓶，連續兩日自低谷反彈，重返620元上方；青花郎上漲6元/瓶，終結此前兩日回落走勢，重新站上690元；青花汾20上漲2元/瓶，自近30天最低位小幅修復。下跌方面，國窖1573跌幅居前，下跌4元/瓶，回吐昨日全部漲幅，終結此前的三連陽；精品茅臺與五糧液1618均下跌3元/瓶，其中前者連續四日回撥，創進入六月以來最低價；飛天茅臺下跌2元/瓶，連續兩日小幅回落，但價格仍處近30天高位區間；五糧液普五八代與洋河夢之藍M6+均小幅下跌1元/瓶，其中前者連續四日下探，失守800元整數大關。水晶劍南春的價格環比保持不變。
+
+---
+
+### 2026-06-12 08:58:36  #觀點
+
+【中信證券：股票ETF建議重點建議關注計算機、人形機器人、電力及公用事業、煤炭、基礎化工等板塊】中信證券指出，股票ETF資金淨流出速度趨緩，資金持續向債券ETF資產遷徙。從市場參與者預期長週期視角看，產業與投資共識指向順週期低估值修復板塊。綜合市場參與者預期的長期視角與短期SDISS多維度綜合監測結果，建議重點建議關注計算機、人形機器人、電力及公用事業、煤炭、基礎化工等板塊。
 
 ---
 
@@ -21954,191 +22098,5 @@ Iranian state TV reports explosions heard at Abbas port.
 ### 2026-06-11 05:38:03  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
 
 CENTCOM said it began additional self-defense strikes against multiple targets inside Iran at 5:15 p.m. ET today, saying the strikes were in response to Iran’s unprovoked and sustained acts of aggression.
-
----
-
-### 2026-06-11 05:37:46  #焦點 #國際
-
-美國中央司令部： 美軍中央司令部部隊於美國東部時間今日 17 時 15 分，對伊朗境內多處目標實施新一輪自衛打擊。此次行動是為回應伊朗無端且持續的挑釁行為。
-
----
-
-### 2026-06-11 05:37:11  #其他
-
-有訊息稱阿巴斯港發生兩起爆炸。
-
----
-
-### 2026-06-11 05:35:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Mehr news agency reported Iran activated an air-defence system in the Asaluyeh area.
-
----
-
-### 2026-06-11 05:35:18  #MKT News #Important #WTI #Impact bullish #DXY #S&P500 #Impact bearish
-
-Axios cites U.S. officials saying U.S. strikes against Iran have begun.
-
----
-
-### 2026-06-11 05:35:13  #焦點 #國際
-
-據AXIOS：美國官員稱，美國對伊朗的打擊已經開始。
-
----
-
-### 2026-06-11 05:34:29  #MKT News #WTI #Impact bearish #Brent #XAUUSD #Impact mixed
-
-TASNIM NEWS reports no explosions on Kish Island or Qeshm Island; local noises heard were linked to the conflict in the Gulf region.
-
----
-
-### 2026-06-11 05:34:04  #國際
-
-伊朗塔斯尼姆通訊社表示，基什島與格什姆島並未發生爆炸，當地聽到的聲響源自海灣地區的交火。
-
----
-
-### 2026-06-11 05:32:50  #國際
-
-【伊朗南部多地傳爆炸聲】據伊朗邁赫爾通訊社報道，當地時間今天（6月11日）凌晨，伊朗南部錫裡克、米納卜傳出爆炸聲，位於波斯灣的基什島遠處傳來“不明聲響”。目前沒有官方說法。（ CCTV國際時訊）
-
----
-
-### 2026-06-11 05:30:45  #國際
-
-【伊朗：武力無法達成可持續協議 特朗普應停止威脅】伊朗常駐聯合國代表10日就美國總統特朗普威脅打擊伊朗回應稱，威脅、恐嚇或訴諸武力無法達成可持續協議，特朗普應停止威脅伊朗。據伊朗伊斯蘭共和國通訊社報道，伊朗常駐聯合國代表伊拉瓦尼於當地時間10日在聯合國安理會會議上說，特朗普應停止對伊朗反覆威脅，包括他當天再次發出訴諸武力的威脅。特朗普當天早些時候稱，美國將對伊朗再次發起打擊，而且會“非常猛烈”。 (新華社)
-
----
-
-### 2026-06-11 05:30:11  #MKT News #Brent #Impact bullish #XAUUSD
-
-Al Jazeera reports Israel is on heightened alert to guard against possible renewed hostilities arising from Iranian retaliatory action.
-
----
-
-### 2026-06-11 05:29:14  #MKT News
-
-Iran's Mehr News Agency reports explosions heard in the Minab region.
-
----
-
-### 2026-06-11 05:29:02  #國際
-
-伊朗邁赫爾通訊社：米納布地區傳出爆炸聲。
-
----
-
-### 2026-06-11 05:28:50  #公司
-
-甲骨文： 受資料中心專案持續推進影響，公司預計 2027 財年毛利率將有所下滑。
-
----
-
-### 2026-06-11 05:27:44  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-【Air-defence systems activated in Tehran and southern Iran】State media said early on June 11 local time Iran activated air-defence systems west of Tehran; Mehr news agency reported an activation in Fars province. Separate reports said explosions were heard in the southern city of Sirik and unidentified noises were detected off Kish Island in the Persian Gulf.
-
----
-
-### 2026-06-11 05:27:31  #其他
-
-甲骨文：預計 2027 財年淨資本支出達 700 億美元，受預付費因素影響，2027 財年公佈的資本支出將有所增加。
-
----
-
-### 2026-06-11 05:26:51  #國際
-
-【德黑蘭等地防空系統啟動】據伊朗邁赫爾通訊社報道，當地時間今天（6月11日）凌晨，伊朗首都德黑蘭西部的防空系統啟動。邁赫爾通訊社還報道稱，伊朗南部的法爾斯地區防空系統啟動。另據報道，伊朗南部錫裡克市傳出爆炸聲，位於波斯灣的基什島遠處傳來不明聲響。（CCTV國際時訊）
-
----
-
-### 2026-06-11 05:24:41  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-Mehr News Agency reports explosions heard in the Sirik region of Iran.
-
----
-
-### 2026-06-11 05:24:29  #國際
-
-伊朗方面訊息：錫裡克地區傳出爆炸聲。
-
----
-
-### 2026-06-11 05:22:43  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) CEO said the Abilene, Texas data center has delivered 42% of its total capacity and expects to deliver a further 35% within the next 90 days.
-
----
-
-### 2026-06-11 05:22:34  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) CEO said the company signed $67 billion of AI infrastructure contracts in fiscal 2026 Q4, most of which are bundled with hardware or prepaid.
-
----
-
-### 2026-06-11 05:22:24  #公司
-
-甲骨文CEO： 得克薩斯州阿比林資料中心已交付總容量的 42%，預計未來 90 天內還將交付 35%。
-
----
-
-### 2026-06-11 05:21:57  #MKT News
-
-Mehr News Agency reported air-defense activity heard west of Tehran.
-
----
-
-### 2026-06-11 05:21:55  #公司
-
-甲骨文CEO：公司第四季度簽下價值 670 億美元的人工智慧基礎設施合同，其中大部分合同採用自帶硬體或預付費模式。
-
----
-
-### 2026-06-11 05:20:20  #焦點 #國際
-
-市場訊息：伊朗德黑蘭市傳出爆炸聲，防空系統啟動。
-
----
-
-### 2026-06-11 05:20:13  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
-
-Market reports: explosions heard in Tehran, Iran; air defenses activated.
-
----
-
-### 2026-06-11 05:17:27  #其他
-
-中國地震臺網正式測定：06月11日05時10分在青海玉樹州囊謙縣（北緯32.52度，東經95.77度）發生3.0級地震，震源深度10千米。
-
----
-
-### 2026-06-11 05:15:19  #市場
-
-富時A50期指連續夜盤收跌0.22%，報15187點。
-
----
-
-### 2026-06-11 05:12:33  #Trading Economics #Economy #El Salvador #Producer Prices Change #Importance 0
-
-El Salvador Producer Prices Rise in May — Producer prices in El Salvador rose by 2.78% year-on-year in May 2026, accelerating from a 1.59% increase in the previous month. The pickup was largely driven by higher costs for electricity, gas, steam and air conditioning (10.34% vs 1.70% in April), activities of administrative and support services (5.20% vs 4.62%), healthcare and social assistance (4.44%, unchanged), transport and storage (3.22% vs 3.26%), and accommodation and food services (2.59% vs 2.20%). Producer prices continued to decline for information and telecommunications (-0.07%, unchanged), while water supply, sewerage, waste management and remediation activities also remained in negative territory (-0.15% vs 0.01%). Other notable increases were recorded in real estate activities (1.36% vs 0.81%) and other service activities (3.80% vs 2.23%).
-
----
-
-### 2026-06-11 05:12:09  #國際
-
-【特朗普召開戰情室會議討論對伊朗軍事行動】據美國方面訊息，美國總統特朗普於當地時間6月10日下午在白宮戰情室召開會議，討論針對伊朗可能採取的新一輪打擊行動。此前，特朗普威脅將對伊朗發動“猛烈打擊”。（央視新聞）
-
----
-
-### 2026-06-11 05:11:30  #MKT News #ORCL.N #Impact mixed
-
-Oracle (ORCL.N) CFO said the company expects an additional 34% of remaining performance obligations to be recognized over the next 13–36 months.
-
----
-
-### 2026-06-11 05:11:21  #MKT News
-
-IRNA said fighter-jet noises heard in parts of Lorestan province, western Iran, were related to friendly aircraft operations.
 
 ---

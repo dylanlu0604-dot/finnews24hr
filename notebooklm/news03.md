@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 03:12:49_
-_本檔包含 3712 則快訊，約 667759 字_
+_更新時間：2026-06-14 04:05:34_
+_本檔包含 3707 則快訊，約 667318 字_
+
+---
+
+### 2026-06-11 05:37:46  #焦點 #國際
+
+美國中央司令部： 美軍中央司令部部隊於美國東部時間今日 17 時 15 分，對伊朗境內多處目標實施新一輪自衛打擊。此次行動是為回應伊朗無端且持續的挑釁行為。
+
+---
+
+### 2026-06-11 05:37:11  #其他
+
+有訊息稱阿巴斯港發生兩起爆炸。
+
+---
+
+### 2026-06-11 05:35:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Mehr news agency reported Iran activated an air-defence system in the Asaluyeh area.
+
+---
+
+### 2026-06-11 05:35:18  #MKT News #Important #WTI #Impact bullish #DXY #S&P500 #Impact bearish
+
+Axios cites U.S. officials saying U.S. strikes against Iran have begun.
+
+---
+
+### 2026-06-11 05:35:13  #焦點 #國際
+
+據AXIOS：美國官員稱，美國對伊朗的打擊已經開始。
+
+---
+
+### 2026-06-11 05:34:29  #MKT News #WTI #Impact bearish #Brent #XAUUSD #Impact mixed
+
+TASNIM NEWS reports no explosions on Kish Island or Qeshm Island; local noises heard were linked to the conflict in the Gulf region.
+
+---
+
+### 2026-06-11 05:34:04  #國際
+
+伊朗塔斯尼姆通訊社表示，基什島與格什姆島並未發生爆炸，當地聽到的聲響源自海灣地區的交火。
+
+---
+
+### 2026-06-11 05:32:50  #國際
+
+【伊朗南部多地傳爆炸聲】據伊朗邁赫爾通訊社報道，當地時間今天（6月11日）凌晨，伊朗南部錫裡克、米納卜傳出爆炸聲，位於波斯灣的基什島遠處傳來“不明聲響”。目前沒有官方說法。（ CCTV國際時訊）
+
+---
+
+### 2026-06-11 05:30:45  #國際
+
+【伊朗：武力無法達成可持續協議 特朗普應停止威脅】伊朗常駐聯合國代表10日就美國總統特朗普威脅打擊伊朗回應稱，威脅、恐嚇或訴諸武力無法達成可持續協議，特朗普應停止威脅伊朗。據伊朗伊斯蘭共和國通訊社報道，伊朗常駐聯合國代表伊拉瓦尼於當地時間10日在聯合國安理會會議上說，特朗普應停止對伊朗反覆威脅，包括他當天再次發出訴諸武力的威脅。特朗普當天早些時候稱，美國將對伊朗再次發起打擊，而且會“非常猛烈”。 (新華社)
+
+---
+
+### 2026-06-11 05:30:11  #MKT News #Brent #Impact bullish #XAUUSD
+
+Al Jazeera reports Israel is on heightened alert to guard against possible renewed hostilities arising from Iranian retaliatory action.
+
+---
+
+### 2026-06-11 05:29:14  #MKT News
+
+Iran's Mehr News Agency reports explosions heard in the Minab region.
+
+---
+
+### 2026-06-11 05:29:02  #國際
+
+伊朗邁赫爾通訊社：米納布地區傳出爆炸聲。
+
+---
+
+### 2026-06-11 05:28:50  #公司
+
+甲骨文： 受資料中心專案持續推進影響，公司預計 2027 財年毛利率將有所下滑。
+
+---
+
+### 2026-06-11 05:27:44  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+【Air-defence systems activated in Tehran and southern Iran】State media said early on June 11 local time Iran activated air-defence systems west of Tehran; Mehr news agency reported an activation in Fars province. Separate reports said explosions were heard in the southern city of Sirik and unidentified noises were detected off Kish Island in the Persian Gulf.
+
+---
+
+### 2026-06-11 05:27:31  #其他
+
+甲骨文：預計 2027 財年淨資本支出達 700 億美元，受預付費因素影響，2027 財年公佈的資本支出將有所增加。
+
+---
+
+### 2026-06-11 05:26:51  #國際
+
+【德黑蘭等地防空系統啟動】據伊朗邁赫爾通訊社報道，當地時間今天（6月11日）凌晨，伊朗首都德黑蘭西部的防空系統啟動。邁赫爾通訊社還報道稱，伊朗南部的法爾斯地區防空系統啟動。另據報道，伊朗南部錫裡克市傳出爆炸聲，位於波斯灣的基什島遠處傳來不明聲響。（CCTV國際時訊）
+
+---
+
+### 2026-06-11 05:24:41  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+Mehr News Agency reports explosions heard in the Sirik region of Iran.
+
+---
+
+### 2026-06-11 05:24:29  #國際
+
+伊朗方面訊息：錫裡克地區傳出爆炸聲。
+
+---
+
+### 2026-06-11 05:22:43  #MKT News #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) CEO said the Abilene, Texas data center has delivered 42% of its total capacity and expects to deliver a further 35% within the next 90 days.
+
+---
+
+### 2026-06-11 05:22:34  #MKT News #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) CEO said the company signed $67 billion of AI infrastructure contracts in fiscal 2026 Q4, most of which are bundled with hardware or prepaid.
+
+---
+
+### 2026-06-11 05:22:24  #公司
+
+甲骨文CEO： 得克薩斯州阿比林資料中心已交付總容量的 42%，預計未來 90 天內還將交付 35%。
+
+---
+
+### 2026-06-11 05:21:57  #MKT News
+
+Mehr News Agency reported air-defense activity heard west of Tehran.
+
+---
+
+### 2026-06-11 05:21:55  #公司
+
+甲骨文CEO：公司第四季度簽下價值 670 億美元的人工智慧基礎設施合同，其中大部分合同採用自帶硬體或預付費模式。
+
+---
+
+### 2026-06-11 05:20:20  #焦點 #國際
+
+市場訊息：伊朗德黑蘭市傳出爆炸聲，防空系統啟動。
+
+---
+
+### 2026-06-11 05:20:13  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
+
+Market reports: explosions heard in Tehran, Iran; air defenses activated.
+
+---
+
+### 2026-06-11 05:17:27  #其他
+
+中國地震臺網正式測定：06月11日05時10分在青海玉樹州囊謙縣（北緯32.52度，東經95.77度）發生3.0級地震，震源深度10千米。
+
+---
+
+### 2026-06-11 05:15:19  #市場
+
+富時A50期指連續夜盤收跌0.22%，報15187點。
+
+---
+
+### 2026-06-11 05:12:33  #Trading Economics #Economy #El Salvador #Producer Prices Change #Importance 0
+
+El Salvador Producer Prices Rise in May — Producer prices in El Salvador rose by 2.78% year-on-year in May 2026, accelerating from a 1.59% increase in the previous month. The pickup was largely driven by higher costs for electricity, gas, steam and air conditioning (10.34% vs 1.70% in April), activities of administrative and support services (5.20% vs 4.62%), healthcare and social assistance (4.44%, unchanged), transport and storage (3.22% vs 3.26%), and accommodation and food services (2.59% vs 2.20%). Producer prices continued to decline for information and telecommunications (-0.07%, unchanged), while water supply, sewerage, waste management and remediation activities also remained in negative territory (-0.15% vs 0.01%). Other notable increases were recorded in real estate activities (1.36% vs 0.81%) and other service activities (3.80% vs 2.23%).
+
+---
+
+### 2026-06-11 05:12:09  #國際
+
+【特朗普召開戰情室會議討論對伊朗軍事行動】據美國方面訊息，美國總統特朗普於當地時間6月10日下午在白宮戰情室召開會議，討論針對伊朗可能採取的新一輪打擊行動。此前，特朗普威脅將對伊朗發動“猛烈打擊”。（央視新聞）
+
+---
+
+### 2026-06-11 05:11:30  #MKT News #ORCL.N #Impact mixed
+
+Oracle (ORCL.N) CFO said the company expects an additional 34% of remaining performance obligations to be recognized over the next 13–36 months.
+
+---
+
+### 2026-06-11 05:11:21  #MKT News
+
+IRNA said fighter-jet noises heard in parts of Lorestan province, western Iran, were related to friendly aircraft operations.
 
 ---
 
@@ -22147,221 +22333,5 @@ FTSE MIB Edges Higher Ahead of ECB Decision — The FTSE MIB climbed 0.1% to clo
 ### 2026-06-10 00:26:36  #國際
 
 【保加利亞防長稱將停止對烏克蘭軍事援助】當地時間6月9日，保加利亞國防部長斯托亞諾夫在索菲亞表示，保加利亞將停止對烏克蘭的軍事援助。他認為，俄烏衝突無法在戰場上解決，現在俄烏雙方需要透過談判尋求和平。自2022年俄烏衝突爆發以來，保加利亞已向烏克蘭提供了13批武器援助。但今年拉德夫政府上臺後，對烏政策發生了轉變。（央視新聞）
-
----
-
-### 2026-06-10 00:25:54  #公司 #觀點
-
-【高盛和巴克萊警示：上週五美股的急挫不應被輕易視作一次性的異常波動】上週五的拋售讓習慣於動量股只漲不跌的投資者措手不及。但投資者不應輕易將其視為一次性的異常波動。巴克萊和高盛集團的交易部門發出上述警告，認為持倉擁擠、市場廣度狹窄以及利率將在更長時間維持高位的前景，使得股市更容易出現突然的回撥。高盛交易員Lee Coppersmith等人在致客戶的報告中寫道：“這些因素共同營造出一種環境，使得因子交易平倉的衝擊可能遠比指數層面波動率所顯示的水平更加劇烈。”上週五讓投資者見識到，一旦市場情緒逆轉，股市中漲幅最大的股票走勢可能多快掉頭。
-
----
-
-### 2026-06-10 00:25:07  #國際
-
-【武磊完成第101次國家隊出場 國足0-0戰平泰國】北京時間6月9日晚，2026中國之隊國際足球邀請賽，中國男足在浙江金華主場0-0戰平泰國男足。賽前，中國足協為武磊舉辦了國家隊百場紀念儀式。此役登場，是武磊代表國家隊的第101次出戰。
-
----
-
-### 2026-06-10 00:23:14  #MKT News #Commodities #Energy
-
-QatarEnergy said the Merlin-1X exploration well delivered 'encouraging' subsurface results, showing good reservoir quality, light crude and low associated gas.
-
----
-
-### 2026-06-10 00:22:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA now expects global oil demand to decline in 2026, reversing its prior forecast of modest growth.
-
----
-
-### 2026-06-10 00:22:19  #國際
-
-【IRNA：伊朗國防部稱將加快武器生產】據官方的伊朗通訊社(IRNA)援引宣告報道稱，伊朗國防部將調動該國“全部的科研、工業和國防能力，以加快研發和生產武裝部隊所需的裝備、武器和系統”。伊朗國防部在宣告中表示，此舉將確保伊朗軍隊保持“充分準備，並有能力捍衛國家的安全、獨立和領土完整”。
-
----
-
-### 2026-06-10 00:22:09  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish #S&P500 #Dow
-
-U.S. equities extended losses: Nasdaq fell over 3.0 pct, the S&P 500 declined 1.7 pct and the Dow slipped 0.7 pct.
-
----
-
-### 2026-06-10 00:21:24  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-EIA now expects OECD oil inventories to fall to their lowest level since 2003.
-
----
-
-### 2026-06-10 00:21:12  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-EIA: Disruptions in the Strait of Hormuz forced Middle Eastern producers to cut output by more than 11 mln b/d in May versus pre-war levels.
-
----
-
-### 2026-06-10 00:20:58  #公司
-
-卡達能源公司表示，梅林 1X 探井取得可觀的地下勘探成果，儲層品質優良，產出輕質原油且伴生氣含量較低。
-
----
-
-### 2026-06-10 00:20:49  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot silver slipped below $65/oz, down 4.63% intraday; New York silver futures tumbled 5% to $65.16/oz. Spot gold traded at $4,255.35/oz, down 1.7% intraday.
-
----
-
-### 2026-06-10 00:20:24  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Microsoft Stock Price Hits 5-week Low — Microsoft shares decreased to 400.62 USD, the lowest since April 2026. Over the past 4 weeks, Microsoft lost 2.81%, and in the last 12 months, it decreased 14.83%.
-
----
-
-### 2026-06-10 00:20:17  #國際
-
-美國能源資訊署目前預計 2026 年全球石油需求將下滑，推翻了此前小幅增長的預測。
-
----
-
-### 2026-06-10 00:20:04  #MKT News #Commodities #Energy
-
-QatarEnergy said it discovered a new offshore oilfield off Namibia.
-
----
-
-### 2026-06-10 00:19:37  #市場
-
-加元兌美元跌至1.3969，為去年12月以來最低水平。
-
----
-
-### 2026-06-10 00:19:28  #市場 #焦點
-
-現貨白銀失守65美元/盎司，日內跌4.65%。
-
----
-
-### 2026-06-10 00:19:26  #公司
-
-卡達能源公司釋出宣告，宣佈在奈米比亞近海發現新油田。
-
----
-
-### 2026-06-10 00:19:20  #市場
-
-紐約期銀日內跌5%，現報65.15美元/盎司。
-
----
-
-### 2026-06-10 00:19:20  #市場 #焦點
-
-白銀連續主力合約日內跌5%，現報15600.00元。
-
----
-
-### 2026-06-10 00:19:19  #市場 #焦點
-
-紐約期金失守4280美元/盎司，日內跌1.91%。
-
----
-
-### 2026-06-10 00:19:16  #市場 #焦點
-
-納指跌3.00%，現報25150.877點；道指跌0.67%，現報50445.641點；標普500指數跌1.65%，現報7283.900點。
-
----
-
-### 2026-06-10 00:18:43  #MKT News
-
-NASA named a four-person crew for Artemis III: three U.S. astronauts and one Italian astronaut will conduct an Earth-orbit mission.
-
----
-
-### 2026-06-10 00:18:38  #宏觀 #國際
-
-【紐約梅隆銀行首席投資官預計通脹持續高企將拖累債券】紐約梅隆銀行首席投資官Jason Granet表示，即便當前由戰爭引發的能源價格飆升消退之後，通脹率仍可能在更長時間內保持高位，推高利率，並在未來幾年拖累債券。Granet上月被任命為美國財政部借款諮詢委員會(TBAC)主席。他表示，經由霍爾木茲海峽的石油和天然氣運輸不太可能恢復到戰前狀態。再加上其他因素，包括人工智慧基礎設施支出激增，可能會令通脹承受上行壓力的時間長於市場預期。“遠期通脹預期顯示，全球通脹都會回落。我的看法是，各地通脹可能都會持續更久一點，”Granet在接受採訪時表示，“總體而言，這應該意味著利率會更高。”
-
----
-
-### 2026-06-10 00:17:48  #MKT News #TSLA.O #Impact bearish
-
-Tesla (TSLA.O) shares fell as much as 5%.
-
----
-
-### 2026-06-10 00:17:44  #國際
-
-美國能源資訊署：經合組織原油庫存預計將跌至 2003 年以來最低水平。
-
----
-
-### 2026-06-10 00:17:37  #MKT News #MS.N #Impact bullish
-
-MORGAN STANLEY (MS.N) CEO Ted Pick said core investment-banking activity is very active.
-
----
-
-### 2026-06-10 00:16:59  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-EIA expects some Middle East oil production outages to persist through end-2027, extending beyond the forecast horizon of its Short-Term Energy Outlook.
-
----
-
-### 2026-06-10 00:16:46  #國際
-
-美國國家航空航天局確定阿爾忒彌斯三號地月軌道任務乘組，成員包括三名美國宇航員和一名義大利宇航員。
-
----
-
-### 2026-06-10 00:16:46  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Corning Stock Price Hits 5-week Low — Corning shares decreased to 169.11 USD, the lowest since May 2026. Over the past 4 weeks, Corning lost 18.41%, and in the last 12 months, it increased 234.34%.
-
----
-
-### 2026-06-10 00:16:05  #國際
-
-美國能源資訊署：受霍爾木茲海峽運輸受阻影響，中東產油國 5 月原油日產量較戰前水平削減超 1100 萬桶。
-
----
-
-### 2026-06-10 00:15:13  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Finishes in the Red — The DAX 40 reversed course to close about 0.7% lower at 24,418 on Tuesday, the lowest since May 19, amid renewed weakness in the tech sector and geopolitical uncertainties. Concerns about the valuation levels of US tech giants resurfaced amid growing nervousness ahead of SpaceX’s IPO on Friday. Regarding Middle East developments, Israel and Iran agreed to halt strikes following an appeal by US President Trump, who said a deal with Tehran was close to being finalized. Also, US Energy Secretary Chris Wright said that shipping traffic through the Strait of Hormuz is increasing ‘very meaningfully.’” The tech sector was the hardest hit, with Infineon Technologies and SAP down 3.4% and 2.2%, respectively. Siemens Energy also saw pressure, dropping nearly 6%.
-
----
-
-### 2026-06-10 00:15:04  #MKT News #MS.N #Impact bullish
-
-Morgan Stanley (MS.N) CEO Ted Pick said sponsor activity that had been quiet has become active again.
-
----
-
-### 2026-06-10 00:14:57  #公司 #觀點
-
-摩根士丹利CEO：核心投行業務活躍度顯著提升 。
-
----
-
-### 2026-06-10 00:14:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,260/oz, down 1.62% on the day.
-
----
-
-### 2026-06-10 00:14:19  #國際
-
-美國能源資訊署預計，部分中東地區石油產量的中斷情況，將持續至其 2027 年底版短期能源展望預測區間之後。
-
----
-
-### 2026-06-10 00:14:11  #市場 #焦點
-
-現貨黃金失守4260美元/盎司，日內跌1.61%。
-
----
-
-### 2026-06-10 00:14:05  #其他
-
-智利財長：我們將調整公共財政發展方向，將持續把智利總債務佔國內生產總值比重控制在 45% 以內， 工作重心為充實財政儲備， 將著力提升管理效率。
 
 ---

@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 03:12:49_
-_本檔包含 3666 則快訊，約 667859 字_
+_更新時間：2026-06-14 04:05:34_
+_本檔包含 3654 則快訊，約 667809 字_
+
+---
+
+### 2026-06-14 04:04:55  #國際
+
+美國媒體分析發現，多數眾議院關鍵選區的競選陣營正陸續設立資料中心。
+
+---
+
+### 2026-06-14 04:01:14  #MKT News
+
+【SpaceX debut closes smoothly, sets template for mega IPOs】SpaceX’s Nasdaq debut executed smoothly, providing a blueprint for handling the much larger OpenAI and Anthropic IPOs expected later this year. The on-exchange offering was a record size — nearly three times the prior largest U.S. exchange IPO — and brokers, the exchange and market makers processed millions of client orders without major tech disruption. Morgan Stanley acted as the stabilization agent managing the open; Citadel Securities said retail participation in the IPO auction was the highest on record. Nasdaq CEO Friedman said participants coordinated and preparation was thorough.
+
+---
+
+### 2026-06-14 03:57:10  #國際
+
+【特朗普向內塔尼亞胡作出承諾 伊美協議將回應多方訴求】外交訊息人士稱，美國總統特朗普向以色列總理內塔尼亞胡保證，與伊朗達成的任何協議都將解決伊朗的核計劃、導彈專案以及真主黨問題。該訊息人士稱，特朗普明確表示，除非解決導致美伊走向戰爭的核心問題，否則不會與伊朗達成任何協議。以色列不會受任何伊美協議的約束，但需與美方協調行動，談判期間尤需如此。若雙方初步共識達成後談判破裂，且伊朗繼續開展軍事活動，那麼德黑蘭政權更迭或將被提上美國決策者的議事日程。
+
+---
+
+### 2026-06-14 03:45:50  #MKT News
+
+Israeli airstrike on Khan Younis in Gaza killed two.
+
+---
+
+### 2026-06-14 03:43:07  #國際
+
+以色列襲擊加沙地帶汗尤尼斯，造成兩人死亡。
+
+---
+
+### 2026-06-14 03:32:53  #MKT News
+
+【Iranian editor says nuclear-deal 'nightmare' has raised legitimate public concern】The agency's editor‑in‑chief Kian Abdolrahahi told a TV program that public concern about negotiations is understandable, driven by two factors: the 'nightmare' of the Iran nuclear deal experience, which altered adversaries' misperception and shaped an image of a weakened Iran, and the fundamental untrustworthiness of the United States. He said popular skepticism should be welcomed rather than dismissed, as it signals Iranians' resolve to resist and hold firm, and that technical concerns and criticism should be accepted.
+
+---
+
+### 2026-06-14 03:26:38  #國際
+
+【伊朗四家銀行遭有限網路攻擊 未發生客戶資訊洩露】當地時間13日，伊朗國有銀行協調委員會表示，包括伊朗國民銀行、伊朗出口銀行、伊朗商業銀行等在內的四家銀行當天系統出現中斷。技術團隊在發現異常後立即啟動必要的預防與防護措施，以保護客戶資料及銀行基礎設施安全。經過詳細技術調查，這次中斷被確認源於針對這四家銀行的一次有限網路攻擊。目前，沒有發生任何未經授權的客戶資訊訪問，也沒有出現資料洩露。銀行系統的安全加固與恢復工作正在快速進行。
+
+---
+
+### 2026-06-14 03:20:40  #其他
+
+英國醫生工會英國醫學會（BMA）：原定於6月15日（週一）啟動的罷工已取消，工會將就此開展全員公投。
+
+---
+
+### 2026-06-14 03:20:18  #MKT News
+
+Iranian media reported protests demanding parliament speaker Ghalibaf and foreign minister Araghchi resign to express opposition to the agreement.
+
+---
+
+### 2026-06-14 03:17:19  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Qatar News Agency said casualties from Israeli aggression against Lebanon have risen to 3,756 dead and 11,632 wounded.
+
+---
+
+### 2026-06-14 03:16:27  #國際
+
+伊朗媒體：民眾舉行示威，反對阿拉格齊、卡利巴夫，抵制伊美協議。
+
+---
+
+### 2026-06-14 03:15:35  #MKT News
+
+Lebanese National News Agency reports illumination flares were observed over the towns of Kafra and Yatar in the Bint Jbeil area.
 
 ---
 
@@ -21959,149 +22031,5 @@ Polysilicon 2609 futures strengthened intraday, extending gains to 5% as the pri
 ### 2026-06-12 09:03:36  #Trading Economics #Markets #Commodity #Importance 1
 
 Heating Oil Holds Near 7-Week Low — US heating oil prices fell below $3.50 per gallon, remaining close to a seven-week low as markets assessed evolving developments in the Middle East. President Donald Trump said a peace deal with Iran could be signed as early as the weekend and cancelled planned airstrikes following talks with Tehran. This comes despite his earlier threats to seize Kharg Island and take control of Iran’s oil and gas markets, while hostilities between the US and Iran escalated earlier in the week. The lack of concrete agreements kept energy markets fluctuating and heightened concerns over prolonged supply disruptions. The Strait of Hormuz has remained largely restricted since March, accounting for about one-fifth of global oil flows. Meanwhile, EIA data showed distillate stocks, including diesel and heating oil, rose by 0.2 million barrels in the first week of June, compared with expectations for a 0.5 million barrel draw.
-
----
-
-### 2026-06-12 09:03:32  #市場 #焦點
-
-紐約期金失守4210美元/盎司，日內漲2.33%。
-
----
-
-### 2026-06-12 09:03:19  #公司
-
-【日久光電：離型膜並未向MLCC企業供貨】日久光電6月12日在互動平臺回覆稱，公司離型膜目前屬於自用，並未向MLCC企業供貨。
-
----
-
-### 2026-06-12 09:02:35  #資料 #央行 #國際
-
-【韓國央行行長稱有必要適時加息】韓國央行行長週五表示，受中東衝突推高油價影響，韓國通脹率預計將在較長一段時間內超出目標水平，因此有必要如期上調利率。韓國央行行長申鉉松表示：“貨幣政策往往需要在各類政策目標間權衡取捨，但當前這類矛盾並不突出。所以為穩定物價，理應按時加息。”他還稱，5 月貨幣政策會議之後公佈的各項資料，也明確指向同一政策方向。上週公佈的資料顯示，韓國 5 月居民消費價格指數（CPI）同比漲幅升至 3.1%，創下兩年多新高，超出市場預期，也為最早在下月收緊貨幣政策提供了依據。
-
----
-
-### 2026-06-12 09:01:50  #市場 #焦點
-
-現貨黃金失守4200美元/盎司，日內跌0.27%。
-
----
-
-### 2026-06-12 09:01:45  #市場 #焦點
-
-紐約期金失守4220美元/盎司，日內漲2.58%。
-
----
-
-### 2026-06-12 09:01:18  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-On Friday June 12 early trade, Shanghai Gold Exchange gold T+D rose 2.19% to 913.7 yuan/gram; silver T+D gained 4.45% to 16,008.0 yuan/kg.
-
----
-
-### 2026-06-12 09:01:15  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened 1,629.17 points higher, up 3.78%, at 44,778.63 on Friday, June 12.
-
----
-
-### 2026-06-12 09:00:35  #MKT News
-
-Bank of Korea Governor Shin said inf will remain above target for an extended period.
-
----
-
-### 2026-06-12 09:00:35  #MKT News
-
-Bank of Korea Governor Shin said it is necessary to raise interest rates promptly.
-
----
-
-### 2026-06-12 09:00:33  #市場
-
-MSCI亞太指數上漲3.3%至273.04點。
-
----
-
-### 2026-06-12 09:00:28  #市場
-
-臺灣證交所加權股價指數上漲3.1%至44,491.27點。
-
----
-
-### 2026-06-12 09:00:19  #市場
-
-臺灣證交所加權股價指數上漲1%至43,587.63點。
-
----
-
-### 2026-06-12 09:00:14  #MKT News #Important #CSI300 #Impact bullish #SSE Composite #CNH
-
-FTSE China A50 index futures opened up 0.89%.
-
----
-
-### 2026-06-12 09:00:08  #其他
-
-【報道：阿里擬出資15億美元競購中國生鮮電商“樸樸超市”】阿里巴巴正出資15億美元收購中國生鮮外賣平臺“樸樸超市”，這也是阿里旨在從美團手中奪取線上商業市場份額的更廣泛行動的一部分。知情人士透露，阿里提出的這一價格是此前高鑫零售報價的兩倍多。
-
----
-
-### 2026-06-12 09:00:04  #市場 #焦點
-
-多晶矽連續主力合約日內漲4%，現報38295.00元。
-
----
-
-### 2026-06-12 09:00:04  #市場 #焦點
-
-鈀連續主力合約日內漲4%，現報310.45元。
-
----
-
-### 2026-06-12 09:00:04  #市場 #焦點
-
-白銀連續主力合約日內漲4%，現報16152.00元。
-
----
-
-### 2026-06-12 09:00:04  #市場 #焦點
-
-上海原油連續主力合約日內跌4%，現報560.00元。
-
----
-
-### 2026-06-12 09:00:03  #市場
-
-【商品期貨開盤】多晶矽連續漲4.62%，鈀連續漲4.56%，上海原油連續跌4.52%，白銀連續漲4.31%，液化石油氣連續跌3.55%。
-
----
-
-### 2026-06-12 09:00:03  #市場
-
-富時中國A50指數期貨開盤上漲0.89%。
-
----
-
-### 2026-06-12 08:59:55  #其他
-
-【江蘇省省長劉小濤在鹽城市調研】據新華日報·交匯點，6月9日至10日，江蘇省省長劉小濤在鹽城市調研。劉小濤先後來到濱海縣、射陽縣、阜寧縣、建湖縣和東臺市，詳細瞭解縣域特色優勢產業發展情況，並走進江沅機械、京奕綠能、藍天環保、聚龍湖機械、富樂華半導體、領勝城等企業聽取意見建議。他強調，要立足自身資源稟賦、產業基礎，科學謀劃特色優勢產業發展路徑，支援企業牽頭建立新型研發機構和創新聯合體，加快新技術新模式新場景開發，促進產業高階化、智慧化、綠色化，進一步夯實產業發展底座。
-
----
-
-### 2026-06-12 08:59:52  #國際
-
-【菲律賓南部地震已造成55人死亡】6月12日，菲律賓國家減災委釋出訊息稱，6月8日的南部強震已經導致55人死亡，1120人受傷，另有31人失蹤。
-
----
-
-### 2026-06-12 08:59:26  #市場
-
-【酒價內參6月12日價格釋出：古井貢古20習酒君品領漲 總價創四天以來新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月12日整體繼續小幅反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9901元，較昨日溫和上漲13元，重返9900元關口上方，創四天以來最高。市場在前期回落至近30天低位後連續兩日修復，終端交投情緒略有回暖，但核心單品漲跌分化度依然顯著。從結構看，頭部高階單品多數回落，次高階及區域名酒表現相對活躍，成為帶動今日總價繼續修復的主要力量。今日11大白酒單品四漲六跌一平，輸家數量仍佔優勢，但上漲品種漲幅較大，帶動總價回升。上漲方面，古井貢古20漲幅居前，上漲11元/瓶，創近一月最大單日漲幅，收穫三連陽，價格升至5月18日以來最高位；習酒君品上漲8元/瓶，連續兩日自低谷反彈，重返620元上方；青花郎上漲6元/瓶，終結此前兩日回落走勢，重新站上690元；青花汾20上漲2元/瓶，自近30天最低位小幅修復。下跌方面，國窖1573跌幅居前，下跌4元/瓶，回吐昨日全部漲幅，終結此前的三連陽；精品茅臺與五糧液1618均下跌3元/瓶，其中前者連續四日回撥，創進入六月以來最低價；飛天茅臺下跌2元/瓶，連續兩日小幅回落，但價格仍處近30天高位區間；五糧液普五八代與洋河夢之藍M6+均小幅下跌1元/瓶，其中前者連續四日下探，失守800元整數大關。水晶劍南春的價格環比保持不變。
-
----
-
-### 2026-06-12 08:58:36  #觀點
-
-【中信證券：股票ETF建議重點建議關注計算機、人形機器人、電力及公用事業、煤炭、基礎化工等板塊】中信證券指出，股票ETF資金淨流出速度趨緩，資金持續向債券ETF資產遷徙。從市場參與者預期長週期視角看，產業與投資共識指向順週期低估值修復板塊。綜合市場參與者預期的長期視角與短期SDISS多維度綜合監測結果，建議重點建議關注計算機、人形機器人、電力及公用事業、煤炭、基礎化工等板塊。
 
 ---
