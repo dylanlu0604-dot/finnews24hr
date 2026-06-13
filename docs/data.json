@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-14 01:28:50",
-  "count": 18481,
+  "updated": "2026-06-14 01:32:50",
+  "count": 18480,
   "items": [
+    {
+      "id": "mkt:019ec209-c072-7dd8-afed-42f8586f44db",
+      "time": "2026-06-14 01:31:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi state TV reports the Israeli military is preparing to respond should ground operations in southern Lebanon be halted. The report says Israeli forces will not withdraw from the security zone under an agreement with Iran."
+    },
     {
       "id": "4933988",
       "time": "2026-06-14 01:28:06",
@@ -169871,22 +169883,6 @@
         "MKT News"
       ],
       "text": "Saudi television reported a Lebanese military source saying Lebanese officers are undergoing training in Pakistan, and that Lebanese Army commander Haikal will discuss the army’s military needs with Islamabad during his visit."
-    },
-    {
-      "id": "4921380",
-      "time": "2026-06-07 01:31:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯靈頓北方聖太菲鐵路：現場人員正趕赴事發地點開展評估；目前主幹線軌道的預計恢復通行時間尚未確定。"
-    },
-    {
-      "id": "4921379",
-      "time": "2026-06-07 01:29:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伯靈頓北方聖太菲鐵路：美國中部夏令時6月6日上午9點58分，我方收到初步報告，艾奧瓦州得梅因市附近發生路基沖毀事故，已對幹線軌道造成影響。"
     }
   ]
 }
