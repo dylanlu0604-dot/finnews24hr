@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-13 19:08:53",
-  "count": 18391,
+  "updated": "2026-06-13 19:13:13",
+  "count": 18396,
   "items": [
+    {
+      "id": "mkt:019ec0ae-3113-7dd8-afea-87ecdee9decf",
+      "time": "2026-06-13 19:11:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Maritime Trade Operations received a report of a security incident 6 nautical miles east of Oman."
+    },
+    {
+      "id": "4933815",
+      "time": "2026-06-13 19:11:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：一艘油輪在阿曼海域船艏左舷被未知射彈擊中。"
+    },
+    {
+      "id": "mkt:019ec0ad-c247-7dd8-afea-7dc05f001c97",
+      "time": "2026-06-13 19:11:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran judiciary chief says Tehran absolutely distrusts U.S.】Iranian media reported on the 13th that Iran’s judiciary chief said Tehran absolutely distrusts the U.S., citing facts and past incidents. He said Iranian armed forces recently struck enemy targets and halted aggression. Iranian media on the 12th also reported Iran and the U.S. \"could sign a memorandum of understanding in the coming days\", but bilateral ties remain highly sensitive with unresolved differences on the nuclear issue and regional security."
+    },
+    {
+      "id": "4933814",
+      "time": "2026-06-13 19:10:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）已收到報告，阿曼以東海域6海里處發生一起安全事件。"
+    },
+    {
+      "id": "mkt:019ec0ad-3934-7dd8-afea-72aab172b995",
+      "time": "2026-06-13 19:10:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan Prime Minister Sharif said the U.S. and Iran will hold technical-level talks next week."
+    },
+    {
+      "id": "4933813",
+      "time": "2026-06-13 19:09:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤建股份與中南大學計算機學院達成戰略合作】據潤建股份訊息，6月10日，潤建股份與中南大學計算機學院正式簽署合作備忘錄，雙方將圍繞人工智慧人才培養、科研創新、成果轉化及產業應用等領域開展深度合作，共同推動教育鏈、人才鏈與產業鏈的融合創新發展。"
+    },
+    {
+      "id": "mkt:019ec0ab-78f7-7dd8-afea-68f1c35f2ce1",
+      "time": "2026-06-13 19:08:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Ukraine's Security Service (SBU) said Ukrainian drones struck the Taman oil and gas terminal in Russia's Krasnodar region."
+    },
     {
       "id": "4933812",
       "time": "2026-06-13 19:08:16",
@@ -169086,22 +169153,6 @@
         "國際"
       ],
       "text": "【俄總統顧問：美國正試圖退出烏克蘭問題談判】俄羅斯總統顧問安東·科比亞科夫6月6日表示，美國正試圖退出烏克蘭問題談判，因為美方意識到特別軍事行動的結局將對俄羅斯有利。科比亞科夫在聖彼得堡國際經濟論壇閉幕新聞釋出會上，對美國國務卿魯比奧日前稱俄烏和平前景“不樂觀”的言論作出上述回應。（央視新聞）"
-    },
-    {
-      "id": "4921255",
-      "time": "2026-06-06 19:10:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海生物醫藥企業國際化發展協會成立 已有會員單位50家】由上海市生物醫藥科技產業促進中心與中國生物製藥發起的上海生物醫藥企業國際化發展協會（籌）正式揭牌成立，這是國內首個聚焦生物醫藥國際化發展的專業化社會團體，為醫藥企業高質量“走出去”提供全鏈條支撐。目前，協會已吸納會員單位超50家，覆蓋生物醫藥全產業鏈，包括恆瑞醫藥、信達生物、石藥集團、百濟神州、復星醫藥等一眾行業頭部企業，也包括亞虹醫藥、馴鹿生物、美迪西、再鼎醫藥、DIA國際藥物資訊協會等企業、機構涵蓋研發、臨床、註冊、商業化、專業服務等各個領域，將形成以上海為核心、輻射全國的全方位覆蓋格局，對會員實現從藥物研發到商業化落地的全鏈條賦能。 (澎湃新聞)"
-    },
-    {
-      "id": "mkt:019e9ca0-5200-7665-8312-5097ad3d9f81",
-      "time": "2026-06-06 19:10:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath, citing senior sources, reports Pakistan's interior minister traveled to Iran carrying a special message from Pakistan's military commander for Iran's supreme leader."
     }
   ]
 }
