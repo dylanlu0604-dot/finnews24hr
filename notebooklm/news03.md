@@ -1,7 +1,173 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 23:45:56_
-_本檔包含 3714 則快訊，約 668246 字_
+_更新時間：2026-06-14 00:44:09_
+_本檔包含 3710 則快訊，約 668287 字_
+
+---
+
+### 2026-06-11 04:21:45  #國際
+
+美國證券交易委員會檔案顯示，戴爾科技於 2026 年 6 月 10 日簽署優先無擔保迴圈信貸協議。  本次信貸協議包含60 億美元迴圈授信額度及5 億美元信用證分項額度，到期日為 2031 年 6 月 10 日。
+
+---
+
+### 2026-06-11 04:19:55  #國際
+
+【以色列防長稱針對伊朗的軍事行動“遠未結束”】當地時間10日，以色列國防部長卡茨表示，以色列針對伊朗的軍事行動“遠未結束”，以色列國防軍已準備好在必要時對伊朗實施“強有力的打擊”。卡茨在以色列國防部一項頒獎活動上表示，以軍近期在黎巴嫩南部對真主黨實施多次打擊。在談及與伊朗的緊張局勢時，卡茨稱“不能認為戰爭已經結束”。他強調，如果伊朗發動攻擊，以色列將予以“沉重回擊”。（央視）
+
+---
+
+### 2026-06-11 04:18:58  #MKT News
+
+Al Arabiya cited Pakistani sources saying a US-Israel agreement is currently far from being reached.
+
+---
+
+### 2026-06-11 04:18:19  #觀點 #國際
+
+【部分美國大銀行因涉嫌非法終止服務面臨聯邦調查】據一位知情人士透露，美國聯邦檢察官正在調查華爾街一些大型銀行是否出於政治原因，非法終止了與部分客戶的業務往來。知情人士表示，針對這些“銀行單方面終止服務”(debanking)指控的調查正由華盛頓特區聯邦檢察官 Jeanine Pirro負責。《華爾街日報》週三早些時候報道稱，Pirro已向包括摩根大通和美國銀行在內的多家銀行發出傳票。
+
+---
+
+### 2026-06-11 04:17:01  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Sources: Trump war room weighing large, short strike to pressure Iran】Axios, citing two US sources, says Trump convened a war‑room meeting Wednesday afternoon to discuss possible new strikes on Iran after telling reporters earlier he would strike them again today. One option under consideration is a large but short‑duration operation aimed at pressuring Iran to shift its negotiating position. Attendees reportedly included Vance, Senator Rubio, the CIA director, Joint Chiefs chair Dan Kain, White House envoy Witkoff and other senior officials; Defense Secretary Heggses participated by video.
+
+---
+
+### 2026-06-11 04:16:12  #市場
+
+甲骨文股價盤後一度下跌8.6%後轉漲。
+
+---
+
+### 2026-06-11 04:14:15  #Trading Economics #Economy #Paraguay #Balance of Trade #Importance 1
+
+Paraguay Posts Trade Surplus in May — Paraguay’s trade balance swung to a $98.1 million surplus in May 2026 from a $201.3 million deficit in the same month a year earlier. Exports rose 22.6% year-on-year to $1.70 billion, driven mainly by a 58.4% increase in primary goods shipments. Exports of industrial manufactures advanced 33.4%, while exports of agricultural manufactures fell 7.5%. Shipments of fuels and energy declined 19.6%. Meanwhile, imports increased 0.8% to $1.60 billion. Purchases of consumer goods rose 6.4%, while imports of intermediate goods increased 20.4%. In contrast, imports of capital goods fell 13.7%.
+
+---
+
+### 2026-06-11 04:13:59  #焦點 #國際
+
+【美媒：特朗普在戰情室召開會議，研討針對伊朗的打擊方案】據AXIOS報道，兩名美國訊息人士透露，美國總統特朗普於週三下午在白宮戰情室召開會議，商討對伊朗實施新一輪打擊的相關方案。數小時前，他剛向記者表態，美國 “今日將再度對其發動強力打擊”。 訊息人士稱，特朗普正考慮一項規模大、用時短的軍事行動，意圖迫使伊朗在相關談判中轉變立場，具體細節並未披露。
+
+---
+
+### 2026-06-11 04:13:18  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+Axios reported that Trump convened a Situation Room meeting this afternoon local time to discuss possible new strikes on Iran.
+
+---
+
+### 2026-06-11 04:11:42  #市場
+
+現貨白銀日內跌3%，現報63.33美元/盎司。
+
+---
+
+### 2026-06-11 04:10:04  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell $2.00 intraday to $63.35/oz, down 3.06%.
+
+---
+
+### 2026-06-11 04:09:20  #MKT News #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) expects total cloud revenue to grow 57–63% YoY on a constant-currency basis in the first fiscal quarter.
+
+---
+
+### 2026-06-11 04:09:06  #MKT News #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) expects fiscal Q1 total revenue to rise 27%–29% on both a constant-currency basis and in U.S. dollars.
+
+---
+
+### 2026-06-11 04:08:59  #公司 #國際
+
+據日經新聞：SK 集團將在日本新建資料中心。
+
+---
+
+### 2026-06-11 04:08:05  #MKT News #Important #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) targets FY2027 revenue of $90 bln.
+
+---
+
+### 2026-06-11 04:07:06  #MKT News #ORCL.O #Impact mixed
+
+Oracle (ORCL.N) said it expects to raise about $40 billion in fiscal 2027 through a mix of debt and equity financing.
+
+---
+
+### 2026-06-11 04:06:41  #MKT News #ORCL.N #Impact bearish
+
+Oracle (ORCL.N) shares fell more than 5% in U.S. after-hours trading.
+
+---
+
+### 2026-06-11 04:06:25  #MKT News #ORCL.N
+
+ORACLE (ORCL.N) reported cloud revenue of $9.9 bln in FY2026 Q4.
+
+---
+
+### 2026-06-11 04:06:06  #MKT News #ORCL.N #Impact bullish
+
+Oracle (ORCL.N) fiscal 2026 Q4 revenue $19.20 bln; market expected $19.095 bln.
+
+---
+
+### 2026-06-11 04:06:01  #公司 #其他 #焦點 #國際
+
+甲骨文第四財季調整後營收191.8億美元，預期190.9億美元。
+第四財季軟體營收68.2億美元，預期68.8億美元；
+軟體租賃營收18.8億美元，預期19.3億美元；
+軟體支援營收49.4億美元，預期49.8億美元。
+第四財季雲基建營收57.9億美元，預期57.2億美元。
+
+---
+
+### 2026-06-11 04:05:05  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
+
+U.S. equities closed lower on Wednesday, June 10: Dow Jones Industrial Average fell 953.21 points (-1.87%) to 49,918.90; S&P 500 fell 119.65 points (-1.62%) to 7,267.00; Nasdaq Composite fell 509.32 points (-1.98%) to 25,169.50.
+
+---
+
+### 2026-06-11 04:04:52  #MKT News #Market Themes #The Trump Trade #LMT.O #Impact bullish #BA.O #BA.L
+
+【Sources: WHITE HOUSE to meet defense contractors on ramping up production】Sources say the Trump administration plans to meet as early as next week at the WHITE HOUSE with executives from the largest U.S. defense contractors to discuss accelerating weapons production after U.S. strikes on Iran and other recent military actions depleted supplies. The meeting would be the WHITE HOUSE's second CEO-level convening on boosting weapons output; a March session included CEOs from BAE Systems, Lockheed Martin and Boeing and the defense secretary. Pentagon negotiators are continuing to press contractors to speed deliveries, and a production agreement reached earlier this year remains central to those efforts.
+
+---
+
+### 2026-06-11 04:03:38  #MKT News #NZDUSD #Impact bearish
+
+NZD/USD slid below 0.58, down 0.28% intraday.
+
+---
+
+### 2026-06-11 04:03:30  #國際
+
+美國鋁業收跌9.5%，創2025年4月份以來最差單日表現。
+
+---
+
+### 2026-06-11 04:03:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+New York gold futures fell below $4,100/oz, down 4.36% intraday.
+
+---
+
+### 2026-06-11 04:03:11  #市場 #焦點
+
+紐約期金失守4100美元/盎司，日內跌4.35%。
+
+---
+
+### 2026-06-11 04:02:16  #MKT News #Nasdaq100 #Impact bearish #S&P500
+
+The S&P 500 Information Technology sector index fell 2.3%, leaving it 11% below its June 2 record closing high.
 
 ---
 
@@ -22187,191 +22353,5 @@ U.S. and Brent crude losses widened; Brent crude down 4% intraday, WTI crude dow
 ### 2026-06-09 23:51:50  #其他
 
 【中國使館提醒在南非中國公民和企業防範安全風險】中國駐南非大使館9日釋出安全提示，提醒在南非中國公民、企業和機構嚴格依法合規經營，高度重視防範安全風險。提示說，近期，南非多地發生針對外籍人員的遊行、示威、請願等活動，部分演變為滋擾衝擊和“打砸搶”，造成人員傷亡和財產損失，有僑胞店鋪受到波及。使館提醒在南非中國公民、企業和機構密切關注有關情況，不途經或前往活動區域和治安不靖、人群密集地區；全面加強安保措施，遊行示威活動前後和期間採取縮短營業和辦公時間、歇業停工、分散避險等必要措施；堅持依法合規經營特別是合法務工、用工，避免成為遊行示威活動目標；遇突發事件冷靜理性應對，在確保自身安全情況下及時向當地警方報案並向駐南非使領館、警民中心求助。（新華社）
-
----
-
-### 2026-06-09 23:51:38  #公司 #國際
-
-據報道，美國梧桐投資公司（Sycamore）正就以100億美元出售Boots進行談判。
-
----
-
-### 2026-06-09 23:51:18  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish
-
-【Gold weakens after feeble rebound as rate‑hike bets weigh】On Tuesday, amid a broader equity sell-off and rising US rate‑hike expectations, gold weakened after an initial rebound as investors shifted attention to key US inflation data due later this week. Both spot and futures gold slipped below $4,300 intraday, with spot gold down just over 1% on the day. RJO Futures senior market strategist Bob Haberkor said traders were nervous and a broad move into risk‑off had driven the decline, adding that gold and silver are likely to remain under downward pressure until the Fed provides clearer guidance.
-
----
-
-### 2026-06-09 23:51:16  #其他
-
-【劉偉在上海調研】6月8日至9日，交通運輸部黨組書記、部長劉偉在上海市就深入學習貫徹黨的二十屆四中全會精神和習近平總書記關於交通強國的重要論述，圍繞紮實推動“十五五”規劃任務落地見效，調研海事監管與服務保障一體化建設、交通運輸領域新質生產力發展、綜合交通樞紐建設、大飛機事業發展等工作。（交通運輸部）
-
----
-
-### 2026-06-09 23:50:31  #公司 #觀點
-
-摩根大通將海爾智家A股、美的集團A股評級上調至超配。
-
----
-
-### 2026-06-09 23:50:04  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-EIA to release monthly Short-Term Energy Outlook (STEO) in 10 minutes.
-
----
-
-### 2026-06-09 23:48:21  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
-
-Cboe Volatility Index (VIX) rose 1.1 points to 20.02.
-
----
-
-### 2026-06-09 23:46:49  #國際
-
-【以軍總參謀長稱襲擊伊朗是為更大打擊做準備】以色列國防軍總參謀長扎米爾9日說，此前對伊朗的襲擊是為“更大規模、更有力的打擊”做準備，同時以軍將繼續加大對黎巴嫩真主黨的打擊力度。扎米爾當天在以色列北部觀摩一場演習時說，以軍始終保持並將繼續保持“隨時恢復對伊朗作戰”的戰備狀態，以軍已對伊朗進行“迅速而有力的打擊”，這是為“更大規模、更有力的”打擊做準備。扎米爾說，以軍正繼續在黎巴嫩南部“前沿防線”一帶展開軍事行動，摧毀黎真主黨武裝人員的基礎設施。（新華社）
-
----
-
-### 2026-06-09 23:46:25  #其他
-
-特斯拉：FSD現已在丹麥獲得批准。
-
----
-
-### 2026-06-09 23:44:51  #國際
-
-【古巴西部海域發生5.8級地震 加勒比地區罕見】當地時間8日14時，北京時間9日凌晨2時，古巴西部海域發生5.8級地震，古巴首都哈瓦那、美國佛羅里達州及墨西哥部分地區均有震感。地震學家表示，此次地震發生在板塊內部，在加勒比地區較為罕見。（央視新聞）
-
----
-
-### 2026-06-09 23:44:33  #MKT News
-
-【SpaceX IPO reportedly multiple-times oversubscribed】People familiar with the matter said SpaceX’s IPO has attracted subscription demand several times the shares on offer as the listing approaches. Underwriters told investors on Tuesday demand rose after management meetings and that orders have been building since Monday. Banks said institutional allocations will be concentrated with large pure long-only asset managers; several institutions each placed orders of about $10bn or more, the sources said.
-
----
-
-### 2026-06-09 23:44:14  #MKT News #Commodities #Industrial Metals
-
-LME nickel fell 2.00% intraday to $18,009.80/ton.
-
----
-
-### 2026-06-09 23:43:38  #MKT News
-
-【Baltic Dry Index falls as Capesize and Panamax rates drop】Baltic Dry Index fell 98 points, or 3.36%, to 2,818, weighed by weakness in Capesize and Panamax rates. The Capesize index slid 278 points (5.9%) to 4,441; Capesize daily earnings fell $2,524 to $36,771. The Panamax index dropped 13 points (0.6%) to 2,205; Panamax daily earnings declined $120 to $19,846. Supramax rose 18 points (1.1%) to 1,614 and the Handysize index gained 3 points to 868.
-
----
-
-### 2026-06-09 23:43:31  #其他
-
-莫斯科市長：當日已有第 18 架無人機被擊落。
-
----
-
-### 2026-06-09 23:42:54  #MKT News
-
-Airbus Defence CEO said the company wants a role in future fighter programmes and does not want to go it alone.
-
----
-
-### 2026-06-09 23:42:31  #MKT News #AIR.PA #Impact bearish
-
-Airbus Defence CEO said the Future Combat Air System fighter project is deadlocked.
-
----
-
-### 2026-06-09 23:39:45  #Trading Economics #Markets #commodity #Importance 0
-
-GSCI Hits 7-week Low — GSCI decreased to 681.25 Index Points, the lowest since April 2026. Over the past 4 weeks, GSCI Commodity Index lost 8.3%, and in the last 12 months, it increased 25.6%.
-
----
-
-### 2026-06-09 23:38:41  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-European equities on June 9: Germany's DAX fell 218.10 points (-0.89%) to 24,423.75; UK's FTSE 100 declined 141.59 points (-1.36%) to 10,231.61; France's CAC 40 rose 4.14 points (0.05%) to 8,203.43; Euro STOXX 50 dropped 10.84 points (-0.18%) to 6,051.45; Spain's IBEX 35 slipped 44.77 points (-0.25%) to 18,178.33; Italy's FTSE MIB gained 68.37 points (0.14%) to 50,276.50.
-
----
-
-### 2026-06-09 23:38:39  #市場 #焦點
-
-納指跌2.01%，現報25408.876點；道指跌0.62%，現報50469.352點；標普500指數跌1.15%，現報7320.590點。
-
----
-
-### 2026-06-09 23:37:59  #MKT News
-
-NASA says the Artemis III mission will not take place before this time next year.
-
----
-
-### 2026-06-09 23:37:20  #國際
-
-美國國家航空航天局：阿爾忒彌斯三號任務最早也要到明年此時才能實施。
-
----
-
-### 2026-06-09 23:35:46  #MKT News
-
-Bulgaria's new government said it will not supply weapons to Ukraine.
-
----
-
-### 2026-06-09 23:34:36  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold, after reaching an intraday high of $4,363.66/oz, has weakened and slipped below $4,270/oz, down 1.40% on the day.
-
----
-
-### 2026-06-09 23:34:10  #國際
-
-美國農業部在得州La Salle County新發現一例螺旋蠅（Screwworm）病例。
-
----
-
-### 2026-06-09 23:34:00  #國際
-
-歐盟反壟斷負責人：Meta為化解歐盟競爭監管顧慮所提出的方案缺乏說服力。
-
----
-
-### 2026-06-09 23:33:13  #MKT News #Macro & Rates #Treasury Yields
-
-U.S. 6-week Treasury bill auction to June 9: 26.63% of the allocation awarded at the stop-out yield, versus 63.21% previously.
-
----
-
-### 2026-06-09 23:33:05  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-US 6-week Treasury auction on June 9: bid-cover ratio 3.25, prior 3.28.
-
----
-
-### 2026-06-09 23:33:02  #宏觀 #市場 #國際
-
-美國財政部拍賣六週期國債，得標利率3.6%，投標倍數3.25。拍賣52週期國債，得標利率3.750%，投標倍數3.34。
-
----
-
-### 2026-06-09 23:32:48  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #XAUUSD #DXY #Impact bearish
-
-US 6-week Treasury auction to June 9 — stop-out yield 3.60% vs 3.63% prior.
-
----
-
-### 2026-06-09 23:32:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
-
-U.S. 1-year Treasury auction to June 9: bid-cover ratio 3.34, prior 3.41.
-
----
-
-### 2026-06-09 23:32:14  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-US 1-year Treasury auction June 9: stop-out yield 3.75%, up 10 bps from 3.65% prior.
-
----
-
-### 2026-06-09 23:32:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-US 1-year Treasury auction to June 9 — share of awards at the stop-out yield 70.95%, versus 4.56% previously.
 
 ---

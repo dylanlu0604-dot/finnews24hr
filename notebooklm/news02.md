@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-13 23:45:56_
-_本檔包含 3697 則快訊，約 668121 字_
+_更新時間：2026-06-14 00:44:09_
+_本檔包含 3696 則快訊，約 668389 字_
+
+---
+
+### 2026-06-12 08:35:48  #其他
+
+日經225指數突破67000點，為6月5日以來首次。
+
+---
+
+### 2026-06-12 08:34:45  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan's finance minister Katayama said she hopes to expand retail government-bond products.
+
+---
+
+### 2026-06-12 08:34:39  #MKT News #Market Regions #Japan & APAC
+
+Japan's finance minister Katayama said households still do not appreciate the benefits of retail JGBs and there is further potential to expand sales.
+
+---
+
+### 2026-06-12 08:34:35  #市場 #國際
+
+日本財務大臣片山：希望擴大零售日本國債產品。
+
+---
+
+### 2026-06-12 08:34:30  #市場 #國際
+
+日本財務大臣片山：家庭尚未充分認識到零售日本國債的好處，銷售潛力仍有提升空間。
+
+---
+
+### 2026-06-12 08:34:24  #公司
+
+【四會富仕：定增申請獲深交所受理】四會富仕6月12日早間公告，公司於2026年6月11日收到深交所出具的《關於受理四會富仕電子科技股份有限公司向特定物件發行股票申請檔案的通知》。深交所對公司報送的向特定物件發行A股股票申請檔案進行了核對，認為申請檔案齊備，決定予以受理。
+
+---
+
+### 2026-06-12 08:34:20  #其他
+
+【王清憲在全省機器人和具身智慧產業高質量發展推進會上強調 奮力推動機器人和具身智慧產業走在前列】據安徽日報，6月11日，全省機器人和具身智慧產業高質量發展推進會在蕪湖召開，安徽省省長王清憲出席並講話。王清憲強調，要加強專業化設計、精準化佈局、體系化推進，奮力推動機器人和具身智慧產業攻堅突破、走在前列。要找準主攻方向和關鍵穴位，極致發揮比較優勢，加快塑造新的競爭優勢。全力搶佔優勢細分賽道制高點，梯度培育優質企業矩陣，打造具有生態主導力的鏈主企業，加強關鍵核心技術攻堅，做強一批高水平科技服務平臺，強化車機協同、整零協同，以高價值應用場景為牽引打造標誌性產品，推動產業競爭力整體躍升。要構建極具競爭力的產業生態和推進機制，堅持世界眼光和開放視野，超常規集聚一流人才，深化財政金融協同和要素市場化配置改革，加快培育開源協作、開放活躍的生態。
+
+---
+
+### 2026-06-12 08:34:17  #其他
+
+【塔克拉瑪干沙漠迎來今年首場洪水】隨著夏季氣溫逐步升高，山區冰雪融化量將持續增加。近日，在新疆塔克拉瑪干沙漠邊緣，中國最長內陸河——塔里木河出現了今年首場洪水，訊息引發網友關注。降水多隻是其中一個原因，近期南疆氣溫持續偏高，甚至出現了高溫，天山崑崙山的冰川積雪出現大面積融化，融水順著山谷傾瀉而下，匯入塔里木河，使河流水位暴漲，河水溢位河道，流入沙漠的低窪地帶，形成沙漠洪水。沙漠洪水屬於季節性的洪水，可能會在短期內出現區域性臨時綠洲，但是這水留不住，它不會形成永久性的綠洲。塔克拉瑪干沙漠地處內陸，距離海洋遠，周圍還有高大山脈的阻擋，水汽進入少，導致降水量少，蒸發量又遠超降水量，而且沙漠植被稀少，水分無法在地表停留，這種生態系統的限制會讓它更容易失水，所以大機率不會形成長期的綠洲。（央視）
+
+---
+
+### 2026-06-12 08:34:02  #公司 #國際
+
+【古巴強烈譴責美國對古巴石油公司新制裁】當地時間6月11日，古巴總理馬雷羅、外長羅德里格斯及副外長德科西奧分別在社交媒體發文，強烈譴責美國政府當日宣佈的對古巴國家石油公司（CUPET）實施新制裁。古方指出，美方此舉是對古巴人民的新一輪攻擊，是進一步加強對古巴的能源封鎖，實施“集體懲罰”。古巴副外長德科西奧批評美國“編造荒謬藉口”對古巴的經濟與能源進行圍困，為“剝奪古巴的燃料供應”進行辯護。古巴總理馬雷羅強調，該制裁“對古巴人民的重要公共服務和日常生活造成了殘酷影響”。（央視新聞）
+
+---
+
+### 2026-06-12 08:33:57  #MKT News
+
+【Taiyong Changzheng MBS1 DC800V solid-state breaker commissioned at leading operator's 800V DC data center】Taiyong Changzheng’s self-developed, mass-produced MBS1 series DC800V solid-state circuit breakers (SSCBs) have been commissioned in a leading domestic operator’s 800V high-voltage DC data center, marking domestic high-voltage DC solid-state protection products’ move from prototypes and pilot tests to operator-scale deployment.
+
+---
+
+### 2026-06-12 08:32:48  #其他
+
+【泰永長征固態斷路器成功落地頭部運營商DC800V資料中心，開啟規模化商用新階段】由泰永長征自研量產的MBS1系列DC800V固態斷路器（SSCB）正式在國內頭部運營商800V高壓直流資料中心專案完成投運，標誌國產高壓直流固態保護產品從技術樣機、試點驗證，全面走向運營商規模化落地應用。
+
+---
+
+### 2026-06-12 08:32:25  #市場 #國際
+
+日本晶片股大幅上漲，東京電子股價上漲10%，愛德萬測試上漲9.6%，鎧俠上漲6.1%。
+
+---
+
+### 2026-06-12 08:32:11  #Trading Economics #Markets #Japan #stocks #Importance 1
+
+Tokyo Electron Stock Price Hits All-time High — Tokyo Electron shares increased to an all-time high of 69330.00 JPY. Over the past 4 weeks, Tokyo Electron gained 34.38%, and in the last 12 months, it increased 189.87%.
+
+---
+
+### 2026-06-12 08:31:26  #市場
+
+納斯達克100指數期貨上漲0.5%，標普500指數期貨上漲0.3%。
+
+---
+
+### 2026-06-12 08:30:02  #MKT News #Important #005930.KS #Impact bullish #000660.KS
+
+South Korea's KOSPI index extended gains to 8%, with Samsung Electronics up 11% and SK Hynix up 8%.
+
+---
+
+### 2026-06-12 08:29:48  #焦點 #國際
+
+【韓國綜指漲幅擴大至8%】受晶片股強勁上漲提振，韓國綜指漲幅擴大至8%，現報8384.95點。 三星電子上漲11.5%，SK海力士上漲9%，韓美半導體上漲4.8%。
+
+---
+
+### 2026-06-12 08:29:42  #國際
+
+據當地電視臺：泰國國王長女久病不治離世。
+
+---
+
+### 2026-06-12 08:28:34  #市場 #國際
+
+【日經指數上漲4.0%，晶片相關股票領漲】受對美伊和平協議重燃樂觀情緒的提振，日本股市早盤走高。晶片相關股票領漲。東京電子上漲11%，愛德萬測試上漲8.2%。在美國總統特朗普表示美國接近與伊朗達成和平協議後，投資者正密切關注有關伊朗衝突的事態發展。日經指數上漲4.0%，報66784.49點。
+
+---
+
+### 2026-06-12 08:27:47  #其他
+
+【我國南方將進入強降雨集中期 華北東北等地多雷雨】今天（6月12日）夜間起，南方將進入強降雨集中期，明後天雨勢明顯增強，廣西、廣東、湖南、江西、福建等地部分地區有大到暴雨，局地大暴雨。同時，未來三天華北、黃淮東部、東北地區、內蒙古東南部等地多陣雨或雷陣雨。在冷空氣和降雨的影響下，明天東北、華北、江南等地30℃以上範圍將縮小，而河南、新疆等地高溫頻繁。
+
+---
+
+### 2026-06-12 08:27:07  #公司 #市場
+
+【聯發科市值猛增1300億美元 投資者看好其轉向人工智慧晶片】聯發科勢將創下上市以來最佳季度表現，投資者看好這家半導體公司轉向人工智慧(AI)晶片。市場愈發樂觀地認為，聯發科與谷歌合作設計專用AI晶片將為其開啟新的增長空間。聯發科股價自3月底以來已經大漲174%，成為亞洲表現最好的股票之一，市值增加逾1300億美元。隨著AI更多地聚焦日常任務，成本更低、定製化程度更高的ASIC晶片正日益獲得關注。聯發科與谷歌的合作令投資者期待該公司可能贏得更多業務，並從這一細分領域的龍頭博通手中奪取市場份額。
+
+---
+
+### 2026-06-12 08:26:21  #國際
+
+【伊朗稱未就伊美協議達成最終結論】針對美國總統特朗普稱美伊已達成並且可能本週末在歐洲籤協議一事，伊朗外交部發言人巴加埃當地時間6月11日晚對伊朗官方媒體表示，“無論對方言辭如何，威脅也好、宣稱也罷，我們都專注於伊朗民族的利益。我們在按自己的節奏行事。關於諒解備忘錄內容，只要我們認為它能確保伊朗民族的利益，我們肯定會透明地對外公佈。但目前伊朗尚未就此事得出最終結論。 這是一個非常重要的問題，正在由相關決策機構進行審議。” 巴加埃還透露，過去幾天，美方再次試圖強加一系列不合理的要求和條件，但伊朗絕不會屈服。（CCTV國際時訊）
+
+---
+
+### 2026-06-12 08:25:31  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日持平】截至2026年06月11日，全球最大的黃金ETF SPDR Gold Trust持倉量為1013.64噸，較前一個交易日持平。
+
+---
+
+### 2026-06-12 08:24:33  #公司
+
+【威騰電氣正式打通北美高階市場通道】近日，威騰電氣憑藉符合北美UL安全標準的成熟母線產品技術，成功斬獲北美母線槽訂單。本次落地北美專案，標誌著公司正式打通北美高階市場通道。
+
+---
+
+### 2026-06-12 08:23:47  #MKT News
+
+【Iran evaluating Musk-linked assets, Starlink ground stations as potential military targets】Iran said on the 11th it is assessing whether to add assets and infrastructure linked to Elon Musk’s companies to a potential military target list, citing prior US and Israeli use of communications infrastructure operated by Musk-related firms. Items under evaluation include some Starlink ground stations in Israel, Qatar, Jordan, the UAE and Oman, and certain infrastructure tied to SpaceX investors.
+
+---
+
+### 2026-06-12 08:23:08  #公司 #國際
+
+【伊朗或將馬斯克旗下企業納入軍事目標清單】據伊朗方面11日訊息，伊朗方面正在評估將與美國企業家馬斯克旗下企業相關的部分資產和基礎設施納入潛在軍事目標清單，理由是美國和以色列軍方曾使用由馬斯克相關企業運營的通訊基礎設施。訊息稱，位於以色列、卡達、約旦、阿聯酋和阿曼等地區國家的部分“星鏈”地面設施，以及與太空探索技術公司投資方相關的部分基礎設施，被伊朗方面列為正在評估的目標。（央視新聞）
+
+---
+
+### 2026-06-12 08:21:27  #其他
+
+【到2030年新增超160列旅遊專列 拓展出遊場景新可能】商務部等單位近日釋出了《關於促進鐵路與旅遊融合發展擴大服務消費的若干措施》，鼓勵各類社會資本參與投資旅遊列車裝置設施改造，明確到2030年，要在全國範圍內打造160列以上鐵路旅遊列車專用車組。未來的旅遊列車什麼樣？遊客將獲得怎樣的出遊體驗？在九省通衢的湖北，國鐵武漢局積極推進鐵旅融合發展。今年首次開行的“遇見美好”特色旅遊專列，就創新融合了鐵路出行與旅居住宿功能，兼顧大眾休閒出遊與老年群體出行需求，增設文化社交區、音樂表演區等功能區域，打造高品質鐵路文旅產品。（央視新聞）
 
 ---
 
@@ -22140,171 +22296,5 @@ Humana將出售其在Gentiva所持的少數股權。
 ### 2026-06-11 04:21:50  #公司
 
 【國際機構看多中國科技資產】今年以來，中國經濟保持穩中有進的發展態勢。對此，海內外多家權威機構近期也密集釋出研究報告，研判中國經濟的發展潛力和新動能。普華永道今年上半年釋出的一系列研報顯示，中國經濟韌性凸顯，新質生產力加速形成，成為全球資本的重要錨點。《全球CEO調研中國報告》發現，將中國內地列為前三大投資目的地的全球CEO比例明顯提升。普華永道宏觀經濟研報指出，一系列資料展現出中國經濟強勁的新動能：今年一季度，中國高技術產業實際使用外資同比增長30.7%，其中，研發與設計服務、計算機及辦公裝置製造業實際使用外資增幅分別達127.8%和88.1%。中國AI領域也表現亮眼，內地企業AI應用能力領跑全球，17%的企業實現AI降本增收。（央視新聞）
-
----
-
-### 2026-06-11 04:21:45  #國際
-
-美國證券交易委員會檔案顯示，戴爾科技於 2026 年 6 月 10 日簽署優先無擔保迴圈信貸協議。  本次信貸協議包含60 億美元迴圈授信額度及5 億美元信用證分項額度，到期日為 2031 年 6 月 10 日。
-
----
-
-### 2026-06-11 04:19:55  #國際
-
-【以色列防長稱針對伊朗的軍事行動“遠未結束”】當地時間10日，以色列國防部長卡茨表示，以色列針對伊朗的軍事行動“遠未結束”，以色列國防軍已準備好在必要時對伊朗實施“強有力的打擊”。卡茨在以色列國防部一項頒獎活動上表示，以軍近期在黎巴嫩南部對真主黨實施多次打擊。在談及與伊朗的緊張局勢時，卡茨稱“不能認為戰爭已經結束”。他強調，如果伊朗發動攻擊，以色列將予以“沉重回擊”。（央視）
-
----
-
-### 2026-06-11 04:18:58  #MKT News
-
-Al Arabiya cited Pakistani sources saying a US-Israel agreement is currently far from being reached.
-
----
-
-### 2026-06-11 04:18:19  #觀點 #國際
-
-【部分美國大銀行因涉嫌非法終止服務面臨聯邦調查】據一位知情人士透露，美國聯邦檢察官正在調查華爾街一些大型銀行是否出於政治原因，非法終止了與部分客戶的業務往來。知情人士表示，針對這些“銀行單方面終止服務”(debanking)指控的調查正由華盛頓特區聯邦檢察官 Jeanine Pirro負責。《華爾街日報》週三早些時候報道稱，Pirro已向包括摩根大通和美國銀行在內的多家銀行發出傳票。
-
----
-
-### 2026-06-11 04:17:01  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Sources: Trump war room weighing large, short strike to pressure Iran】Axios, citing two US sources, says Trump convened a war‑room meeting Wednesday afternoon to discuss possible new strikes on Iran after telling reporters earlier he would strike them again today. One option under consideration is a large but short‑duration operation aimed at pressuring Iran to shift its negotiating position. Attendees reportedly included Vance, Senator Rubio, the CIA director, Joint Chiefs chair Dan Kain, White House envoy Witkoff and other senior officials; Defense Secretary Heggses participated by video.
-
----
-
-### 2026-06-11 04:16:12  #市場
-
-甲骨文股價盤後一度下跌8.6%後轉漲。
-
----
-
-### 2026-06-11 04:14:15  #Trading Economics #Economy #Paraguay #Balance of Trade #Importance 1
-
-Paraguay Posts Trade Surplus in May — Paraguay’s trade balance swung to a $98.1 million surplus in May 2026 from a $201.3 million deficit in the same month a year earlier. Exports rose 22.6% year-on-year to $1.70 billion, driven mainly by a 58.4% increase in primary goods shipments. Exports of industrial manufactures advanced 33.4%, while exports of agricultural manufactures fell 7.5%. Shipments of fuels and energy declined 19.6%. Meanwhile, imports increased 0.8% to $1.60 billion. Purchases of consumer goods rose 6.4%, while imports of intermediate goods increased 20.4%. In contrast, imports of capital goods fell 13.7%.
-
----
-
-### 2026-06-11 04:13:59  #焦點 #國際
-
-【美媒：特朗普在戰情室召開會議，研討針對伊朗的打擊方案】據AXIOS報道，兩名美國訊息人士透露，美國總統特朗普於週三下午在白宮戰情室召開會議，商討對伊朗實施新一輪打擊的相關方案。數小時前，他剛向記者表態，美國 “今日將再度對其發動強力打擊”。 訊息人士稱，特朗普正考慮一項規模大、用時短的軍事行動，意圖迫使伊朗在相關談判中轉變立場，具體細節並未披露。
-
----
-
-### 2026-06-11 04:13:18  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-Axios reported that Trump convened a Situation Room meeting this afternoon local time to discuss possible new strikes on Iran.
-
----
-
-### 2026-06-11 04:11:42  #市場
-
-現貨白銀日內跌3%，現報63.33美元/盎司。
-
----
-
-### 2026-06-11 04:10:04  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell $2.00 intraday to $63.35/oz, down 3.06%.
-
----
-
-### 2026-06-11 04:09:20  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) expects total cloud revenue to grow 57–63% YoY on a constant-currency basis in the first fiscal quarter.
-
----
-
-### 2026-06-11 04:09:06  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) expects fiscal Q1 total revenue to rise 27%–29% on both a constant-currency basis and in U.S. dollars.
-
----
-
-### 2026-06-11 04:08:59  #公司 #國際
-
-據日經新聞：SK 集團將在日本新建資料中心。
-
----
-
-### 2026-06-11 04:08:05  #MKT News #Important #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) targets FY2027 revenue of $90 bln.
-
----
-
-### 2026-06-11 04:07:06  #MKT News #ORCL.O #Impact mixed
-
-Oracle (ORCL.N) said it expects to raise about $40 billion in fiscal 2027 through a mix of debt and equity financing.
-
----
-
-### 2026-06-11 04:06:41  #MKT News #ORCL.N #Impact bearish
-
-Oracle (ORCL.N) shares fell more than 5% in U.S. after-hours trading.
-
----
-
-### 2026-06-11 04:06:25  #MKT News #ORCL.N
-
-ORACLE (ORCL.N) reported cloud revenue of $9.9 bln in FY2026 Q4.
-
----
-
-### 2026-06-11 04:06:06  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) fiscal 2026 Q4 revenue $19.20 bln; market expected $19.095 bln.
-
----
-
-### 2026-06-11 04:06:01  #公司 #其他 #焦點 #國際
-
-甲骨文第四財季調整後營收191.8億美元，預期190.9億美元。
-第四財季軟體營收68.2億美元，預期68.8億美元；
-軟體租賃營收18.8億美元，預期19.3億美元；
-軟體支援營收49.4億美元，預期49.8億美元。
-第四財季雲基建營收57.9億美元，預期57.2億美元。
-
----
-
-### 2026-06-11 04:05:05  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-U.S. equities closed lower on Wednesday, June 10: Dow Jones Industrial Average fell 953.21 points (-1.87%) to 49,918.90; S&P 500 fell 119.65 points (-1.62%) to 7,267.00; Nasdaq Composite fell 509.32 points (-1.98%) to 25,169.50.
-
----
-
-### 2026-06-11 04:04:52  #MKT News #Market Themes #The Trump Trade #LMT.O #Impact bullish #BA.O #BA.L
-
-【Sources: WHITE HOUSE to meet defense contractors on ramping up production】Sources say the Trump administration plans to meet as early as next week at the WHITE HOUSE with executives from the largest U.S. defense contractors to discuss accelerating weapons production after U.S. strikes on Iran and other recent military actions depleted supplies. The meeting would be the WHITE HOUSE's second CEO-level convening on boosting weapons output; a March session included CEOs from BAE Systems, Lockheed Martin and Boeing and the defense secretary. Pentagon negotiators are continuing to press contractors to speed deliveries, and a production agreement reached earlier this year remains central to those efforts.
-
----
-
-### 2026-06-11 04:03:38  #MKT News #NZDUSD #Impact bearish
-
-NZD/USD slid below 0.58, down 0.28% intraday.
-
----
-
-### 2026-06-11 04:03:30  #國際
-
-美國鋁業收跌9.5%，創2025年4月份以來最差單日表現。
-
----
-
-### 2026-06-11 04:03:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-New York gold futures fell below $4,100/oz, down 4.36% intraday.
-
----
-
-### 2026-06-11 04:03:11  #市場 #焦點
-
-紐約期金失守4100美元/盎司，日內跌4.35%。
-
----
-
-### 2026-06-11 04:02:16  #MKT News #Nasdaq100 #Impact bearish #S&P500
-
-The S&P 500 Information Technology sector index fell 2.3%, leaving it 11% below its June 2 record closing high.
 
 ---

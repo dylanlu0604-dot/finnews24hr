@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-13 23:45:56_
-_本檔包含 3792 則快訊，約 668232 字_
+_更新時間：2026-06-14 00:44:09_
+_本檔包含 3784 則快訊，約 668191 字_
+
+---
+
+### 2026-06-08 20:00:04  #宏觀 #焦點 #國際
+
+【6月8日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.習近平離京對朝鮮進行國事訪問； 2.習近平抵達平壤開始對朝鮮進行國事訪問； 3.習近平出席金正恩舉行的歡迎儀式； 4.習近平同金正恩舉行會談； 5.習近平在朝鮮媒體發表署名文章； 6.丁薛祥出席三峽水運新通道工程開工儀式； 7.國務院印發《現代化應急體系建設“十五五”規劃》； 8.我國海洋生態狀況穩中向好； 9.聯播快訊： （1）我國出臺實施方案推進行業高質量資料集建設； （2）國家網信辦 市場監管總局聯合印發《網路測評活動規範》； （3）新版《藥物臨床試驗質量管理規範》釋出 9月起實施； （4）伊朗和以色列互相發動新打擊行動； （5）主要產油國宣佈7月繼續保持增產； （6）菲律賓南部發生7.9級強震 19人死亡。
+
+---
+
+### 2026-06-08 19:59:18  #公司 #市場
+
+【機器人ETF廣發：2026年6月9日在深交所上市交易】廣發基金公告稱，廣發國證機器人產業交易型開放式指數證券投資基金於2026年6月9日在深交所上市交易，場內簡稱“機器人ETF廣發”，程式碼為159050，上市首日開盤參考價為基金份額參考淨值1.060元。截至6月8日，該基金投資於標的指數成份股和備選成份股的資產比例為基金資產淨值的99.12%，投資組合比例符合規定和約定。投資者可透過客服電話或官網諮詢。基金投資有風險，投資者需自負盈虧。
+
+---
+
+### 2026-06-08 19:59:05  #MKT News
+
+German utility Uniper signed a letter of intent with Canadian KSI Lisims for a potential LNG supply agreement under which Uniper would buy 2 mln tonnes of LNG per year; first deliveries could occur in 2032.
+
+---
+
+### 2026-06-08 19:58:13  #公司
+
+宣告顯示，德國Uniper公司與加拿大 KSI LISIMS已就潛在液化天然氣供應協議簽署意向書。若達成協議，Uniper將每年採購200萬噸液化天然氣，首批交付最早可於2032年進行。
+
+---
+
+### 2026-06-08 19:57:26  #央行 #宏觀
+
+【中老兩國央行續簽相關合作檔案】近日，在寮國人民革命黨總書記、國家主席通倫訪華期間，經國務院批准，中國人民銀行與寮國人民民主共和國銀行續簽了《中國人民銀行與寮國人民民主共和國銀行人民幣/寮國基普雙邊本幣互換協議》。同時，兩國央行還續簽了《中國人民銀行與寮國人民民主共和國銀行關於加強金融創新、數字支付和法定數字貨幣合作的諒解備忘錄》。上述合作檔案的簽署將有助於促進中老雙邊金融合作，深化兩國經貿關係。（中國人民銀行）
+
+---
+
+### 2026-06-08 19:57:06  #公司
+
+【嘉美包裝：控股股東逐越鴻智質押2.47億股用於併購貸款擔保】嘉美包裝6月8日公告，公司於近日收到控股股東逐越鴻智出具的《告知函》，獲悉其持有公司的部分股份辦理了股票質押業務，相關登記手續已辦理完畢。根據告知函，逐越鴻智辦理質押2.47億股，佔其所持股份的50%及公司總股本的22.51%，質押用途為併購貸款擔保。據悉，逐越鴻智實際控制人俞浩系追覓科技創始人兼CEO。
+
+---
+
+### 2026-06-08 19:56:58  #市場 #焦點
+
+布倫特原油失守94美元/桶，日內漲0.94%。
+
+---
+
+### 2026-06-08 19:56:48  #MKT News
+
+【China, Laos central banks renew cooperation pacts】The People's Bank of China (PBOC) and the Bank of the Lao PDR renewed a bilateral local-currency CNY/LAK swap agreement and a memorandum of understanding on cooperation in financial innovation, digital payments and central bank digital currency (CBDC). The signings, approved by China's State Council, took place during Lao President Thongloun's visit to China and are intended to promote bilateral financial cooperation and deepen trade ties.
+
+---
+
+### 2026-06-08 19:56:15  #其他
+
+【核聚變診斷“隱形賽道”崛起：單裝置需求可達數億元 百億藍海市場漸成】從日前進行的核聚變診斷技術研討會上獲悉，憑藉不可或缺的技術價值、清晰的商業邏輯與強勁的政策賦能，國內聚變診斷產業叢集加速成型。據悉，國內代表企業涵蓋安徽中科聚變、中能聚控、創譜科技、中科譜康科技、上海復享光學、成都多譜光學等，企業聚焦診斷感測器、資料採集系統、資料分析軟體等核心技術模組持續攻堅，商業化落地節奏穩步推進。專家介紹，按照產業發展規劃，國內聚變診斷技術於2025年完成實驗室驗證並進入中試生產，2030年實現規模化市場推廣。公開資料顯示，該行業市場規模將從2025年的5億元，穩步增長至2030年的20億元，預計2035年將突破50億元，百億級產業藍海加速成型。
+
+---
+
+### 2026-06-08 19:56:12  #其他
+
+【我國科研人員成功研製新型高頻電晶體】近日，中國科學院金屬研究所科研團隊聯合多家單位，在高頻電晶體領域取得重要突破，成功研製出一種新型高頻電晶體——“矽-石墨烯-鍺”勢壘電晶體。該器件創造了電晶體電流增益的世界最高值，為未來太赫茲通訊、6G技術及超高速感測系統提供了全新器件方案。相關成果近日在國際學術期刊《自然·通訊》發表。（央視）
+
+---
+
+### 2026-06-08 19:56:11  #MKT News #Commodities #Energy
+
+LSEG and Freeport data show Freeport LNG in Texas, which shut a liquefaction train last Saturday, is expected to resume normal natural-gas feed today.
+
+---
+
+### 2026-06-08 19:55:33  #公司
+
+【埃夫特：披露重大資產重組內幕資訊知情人股票買賣自查情況】埃夫特公告稱，公司擬發行股份及支付現金購買上海盛普流體裝置股份有限公司100%股份，構成重大資產重組。自查期間為2025年7月26日至2026年5月21日，自查發現自然人孫睿玲、魏翔鴻，法人國信證券在自查期有買賣公司股票情況。相關主體均出具宣告承諾買賣與本次重組無關，不構成內幕交易。獨立財務顧問和法律顧問核查後認為，相關主體買賣行為不構成內幕交易，對本次交易無實質性法律障礙。
+
+---
+
+### 2026-06-08 19:55:25  #公司
+
+【多家央企上市公司發聲，多家央企多措並舉加強市值管理】央企加強市值管理、提高上市公司質量，是進一步深化國資國企改革的重要內容。近期，中核集團、中國電建、國家電網等多家央企舉辦上市公司投資者交流會、業績說明會等，明確多措並舉提高上市公司質量和投資價值，透過提升分紅比例、做優做強主業、深化改革創新等，打好提質增效“組合拳”，進一步提振市場信心，更好回報投資者。中國企業改革與發展研究會研究員吳剛梁接受記者採訪時表示，近年來央企控股上市公司市值管理工作實現制度化、常態化推進，確立了價值創造與價值實現並重的管理導向。接下來，除了常規性市值管理手段，當前央企尤其要將市值管理嵌入產業佈局與科技創新全過程，透過逐步增加戰新產業與未來產業的營收佔比，實現上市資產的替換與煥新。（第一財經）
+
+---
+
+### 2026-06-08 19:55:25  #MKT News #WTI #Impact bullish #Brent
+
+Iranian President Pezeshkian said: We have neither abandoned the battlefield nor left the negotiating table.
+
+---
+
+### 2026-06-08 19:55:18  #公司
+
+根據倫敦證券交易所集團（LSEG）與自由港液化天然氣公司的資料，得克薩斯州自由港液化天然氣專案將於週一提升天然氣進氣量，此前該專案其中一條液化生產線於週六停運，目前相關推進工作按計劃進行。
+
+---
+
+### 2026-06-08 19:55:13  #公司 #市場
+
+【醫療器械ETF富國：6月9日在深交所上市交易】醫療器械ETF富國公告稱，2026年6月9日開始在深圳證券交易所上市交易，場內簡稱“醫療器械ETF 富國”，程式碼159056，上市首日以基金份額參考淨值0.984元為開盤參考價。截至6月8日，投資於標的指數成份股和備選成份股的資產比例為基金資產淨值的99.91%，投資組合比例合規。投資者可電話或登入網站諮詢，投資有風險。
+
+---
+
+### 2026-06-08 19:55:07  #MKT News
+
+Iranian President PEZESHKIAN said the government's top priority is national security and the people's peace, and vowed to defend the country's rights authoritatively and not back down from any threats.
+
+---
+
+### 2026-06-08 19:55:04  #公司 #市場
+
+【榮豐控股：股價異常波動 一季度營收5383萬元淨虧損1268萬元】榮豐控股公告稱，公司股票連續兩個交易日（2026年6月5日、6月8日）收盤價格漲幅偏離值累計達22.38%，屬異常波動。經核實，公司前期資訊無需更正補充，近期經營及內外部環境無重大變化，公司、控股股東及實控人無應披露未披露重大事項，異常波動期間控股股東及實控人未買賣公司股票。2026年一季度，公司營收5383.23萬元，淨虧損1268.22萬元。
+
+---
+
+### 2026-06-08 19:55:00  #公司 #國際
+
+【AMD蘇姿豐：AI行業仍處於“非常早期階段”，計劃增加20億英鎊對英投資】當地時間週一（8日），2026年倫敦科技周開幕。美國超威半導體公司（AMD）董事會主席兼執行長（CEO）蘇姿豐在大會主論壇上表示，儘管人工智慧（AI）過去幾年取得突破性進展，但行業整體仍處於“非常早期階段”。她同時宣佈，AMD計劃未來五年增加在英國的投資，總規模最高可達20億英鎊，以擴大人工智慧研發投入、深化科研合作並支援本地創新生態發展。（第一財經）
+
+---
+
+### 2026-06-08 19:54:38  #其他
+
+巴西財長杜里根取消原定上午 11 點接受 UOL 媒體採訪的安排。
+
+---
+
+### 2026-06-08 19:54:37  #公司
+
+【多家央企上市公司發聲，多家央企多措並舉加強市值管理】央企加強市值管理、提高上市公司質量，是進一步深化國資國企改革的重要內容。 近期，中核集團、中國電建、國家電網等多家央企舉辦上市公司投資者交流會、業績說明會等，明確多措並舉提高上市公司質量和投資價值，透過提升分紅比例、做優做強主業、深化改革創新等，打好提質增效“組合拳”，進一步提振市場信心，更好回報投資者。 中國企業改革與發展研究會研究員吳剛梁接受第一財經記者採訪時表示，近年來央企控股上市公司市值管理工作實現制度化、常態化推進，確立了價值創造與價值實現並重的管理導向。接下來，除了常規性市值管理手段，當前央企尤其要將市值管理嵌入產業佈局與科技創新全過程，透過逐步增加戰新產業與未來產業的營收佔比，實現上市資產的替換與煥新。（第一財經）
 
 ---
 
@@ -22660,179 +22786,5 @@ The Israeli military said it had not ordered a halt to demolitions of villages i
 ### 2026-06-07 00:46:43  #國際
 
 美國擬開放數百萬英畝土地供越野車輛通行。
-
----
-
-### 2026-06-07 00:41:52  #MKT News #XAUUSD #Impact bullish #Brent
-
-Kuwait News Agency said Kuwait's foreign ministry condemned an attack by Israeli forces on a Lebanese army patrol that caused casualties among Lebanese troops.
-
----
-
-### 2026-06-07 00:38:58  #MKT News
-
-TASNIM NEWS reports Pakistan's interior minister has arrived in Tehran and is to meet Iranian officials, including Foreign Minister Araghchi.
-
----
-
-### 2026-06-07 00:38:31  #國際
-
-巴基斯坦內政部長納克維抵達伊朗。
-
----
-
-### 2026-06-07 00:37:46  #MKT News #Market Themes #AI Revolution
-
-【Trump chief AI adviser Krishnan to leave White House at month-end】Sources say tech investor Sriram Krishnan, the architect of the Trump administration’s pro-industry AI policy, plans to leave the White House at month-end to found an external organization aimed at influencing technology policy. Krishnan helped design the administration’s AI Action Plan, which proposed easing regulation of new technologies and accelerating a nationwide data-center buildout, and he assisted in drafting an executive order to limit state-level AI regulation. But advanced models such as Anthropic’s Mythos have shown the ability to find software security vulnerabilities, raising senior government concerns about cyberattack risk and prompting some officials to reassess the administration’s deregulatory course.
-
----
-
-### 2026-06-07 00:37:26  #國際
-
-沙特外交部再次強烈譴責伊朗發起惡意襲擊、公然侵犯巴林及科威特兩國主權的行為，指出此類舉動對地區與國際安全構成威脅。
-
----
-
-### 2026-06-07 00:36:26  #公司 #市場 #國際
-
-【國際航空運輸協會副總裁：因伊朗戰爭推遲噴氣式飛機訂單將使中東航空公司付出高昂代價】國際航空運輸協會（IATA）一位副總裁週六表示，由於伊朗戰爭引發的不確定性和航空燃油價格上漲而推遲客機訂單，對中東航空公司而言並非明智之舉，因為這一決定從長遠來看可能代價高昂。負責非洲和中東地區的區域副總裁卡米爾·阿瓦迪表示，他不認為這場戰爭及成本上升會影響中東航空公司的飛機訂單。該地區航空公司是波音公司和空客公司的主要客戶。他指出，鑑於飛機交付週期漫長，推遲訂單“並非明智之舉，因為推遲將帶來額外成本”。
-
----
-
-### 2026-06-07 00:34:34  #國際
-
-Meta在哥倫比亞與菲律賓上線USDC創作者支付專案，由使用者自行承擔代幣兌換與資產託管工作。
-
----
-
-### 2026-06-07 00:34:21  #觀點
-
-高盛在其數字資產平臺GS DAP上，推出首支基於區塊鏈、面向機構投資者的不動產代幣化基金。
-
----
-
-### 2026-06-07 00:32:12  #國際
-
-德國總理默茨： 如果我們在歐洲團結一致，我們將是世界上最大、最成功的經濟區之一。 最好的年份並非在我們身後。美好的年份在前方等待著我們。
-
----
-
-### 2026-06-07 00:32:02  #國際
-
-伊朗世界盃代表隊已從土耳其啟程前往墨西哥，隊伍將駐紮在蒂華納備戰賽事。此前有訊息稱美國拒絕為部分隨行工作人員發放簽證，雙方由此產生外交分歧。
-
----
-
-### 2026-06-07 00:31:36  #MKT News
-
-Saudi outlet alhadath reports Pakistan's interior minister has arrived in Iran.
-
----
-
-### 2026-06-07 00:29:29  #國際
-
-【白宮人工智慧政策顧問斯里拉姆·克里希南即將離任】特朗普政府首席人工智慧政策顧問斯里拉姆·克里希南計劃於6月底離任。兩位知情人士透露，克里希南已商議在卸任後創辦一家政策研究機構。其中一人稱，該機構將配備工程師，為特朗普政府的白宮人工智慧計劃提供支援。白宮發言人尚未就此置評請求作出即時回應。
-
----
-
-### 2026-06-07 00:29:14  #MKT News #Market Themes #AI Revolution
-
-The Information reports White House senior AI policy advisor Krishnan will depart.
-
----
-
-### 2026-06-07 00:27:39  #國際
-
-市場資訊：克里希南已探討過成立一家政策機構來支援特朗普政府。
-
----
-
-### 2026-06-07 00:27:26  #其他
-
-白宮人工智慧政策顧問克里希南將卸任。
-
----
-
-### 2026-06-07 00:27:18  #MKT News
-
-The Information reported that Krishnan, a senior AI policy adviser at the White House Office of Science and Technology Policy, has discussed creating a policy office to support the Trump administration.
-
----
-
-### 2026-06-07 00:20:55  #央行 #其他
-
-舊金山聯儲主席戴利表示，2027年將是人工智慧提振生產效率的關鍵考驗之年。
-
----
-
-### 2026-06-07 00:12:46  #MKT News #Macro & Rates #US Economy
-
-Trump retweeted a White House social-media post on employment data saying, 'Jobs, jobs, jobs. Data don't lie.'
-
----
-
-### 2026-06-07 00:10:28  #MKT News
-
-Israel shelled the Bargaz Valley in the Hasbaya area of southern Lebanon.
-
----
-
-### 2026-06-07 00:10:23  #國際
-
-美國國防部長赫格塞思在諾曼底登陸紀念日演講中將移民問題比作入侵，並指出這給歐洲帶來安全隱患。
-
----
-
-### 2026-06-07 00:10:04  #MKT News
-
-【Israeli strikes across Gaza cause multiple casualties】On the 6th (local time) Israeli forces struck multiple locations across the Gaza Strip, killing at least seven Palestinian civilians and wounding others. An evening strike on tents sheltering displaced people in western Gaza City killed six—including two women—and wounded at least 15, most of them children.
-
----
-
-### 2026-06-07 00:08:34  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #XAUUSD #Impact bullish #DXY
-
-【Fed Governor Barr warns easing Wall Street bank rules raises future risk】Fed Governor Michael Barr criticized recent rollbacks easing limits on bank lending, saying proposals have substantially weakened bank oversight and that vulnerabilities from looser rules may not be visible now but could accumulate over several years and cause serious economic damage. He said Trump-era officials loosened capital requirements, narrowed the regulatory perimeter and facilitated competition between traditional banks and private-credit firms. Barr warned that weaker capital, liquidity and supervisory standards would raise the risk of bank stress; while banks need room to support economic innovation, history shows profit-driven innovation without adequate safeguards can create excessive risk that, if realized, threatens firms, households and the broader economy.
-
----
-
-### 2026-06-07 00:06:34  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact mixed #XAUUSD #DXY
-
-Federal Reserve Vice Chair for Supervision Michael Barr warned that loosening regulatory rules for Wall Street banks could create risks.
-
----
-
-### 2026-06-07 00:05:38  #國際
-
-【以軍空襲加沙多地 致多人死傷】當地時間6日，以色列軍隊在加沙地帶多地實施空襲，造成至少7名巴勒斯坦民眾死亡、多人受傷。6日傍晚，以軍空襲加沙城西部一處安置流離失所民眾的帳篷，造成6人死亡，其中包括2名女性；另有至少15人受傷，大多數為兒童。此外，6日凌晨，在加沙地帶南部汗尤尼斯，一名巴勒斯坦青年在以軍襲擊其帳篷後死亡。（央視新聞）
-
----
-
-### 2026-06-07 00:01:27  #宏觀 #央行 #焦點 #國際
-
-【美聯儲巴爾：華爾街銀行監管規則放寬暗藏風險】美聯儲理事邁克爾・巴爾批評監管機構放寬美國銀行業監管規則，稱相關提案 “大幅削弱銀行監管與督導力度”。巴爾警示，資本金規則、流動性要求及監管標準下調，會抬升銀行承壓風險；相關隱患當下未必顯現，但未來數年將逐步演化成各類風險問題。巴爾建議監管部門出臺舉措化解潛在風險，他表示，銀行只要擁有充足資本金與穩定資金來源，就能抵禦多重市場衝擊，同時持續開展信貸投放。
-
----
-
-### 2026-06-07 00:00:45  #央行 #國際
-
-美聯儲巴爾：華爾街銀行監管規則放鬆將帶來風險。
-
----
-
-### 2026-06-07 00:00:42  #MKT News
-
-IRNA reported Hezbollah condemned an Israeli strike that killed occupants of a Lebanese military vehicle.
-
----
-
-### 2026-06-07 00:00:25  #央行 #國際
-
-美聯儲巴爾：近期舉措“大幅削弱”銀行監管。
-
----
-
-### 2026-06-06 23:50:06  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed Governor Barr's remarks will be released in 10 minutes.
 
 ---
