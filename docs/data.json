@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-13 21:33:31",
-  "count": 18425,
+  "updated": "2026-06-13 21:37:44",
+  "count": 18427,
   "items": [
+    {
+      "id": "mkt:019ec132-782c-7dd8-afeb-42cf8ecf043b",
+      "time": "2026-06-13 21:36:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The IAEA said the ZAPORIZHZHIA nuclear plant was reconnected to the grid today after backup power lines were successfully repaired under an IAEA-mediated local ceasefire."
+    },
+    {
+      "id": "4933879",
+      "time": "2026-06-13 21:35:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構（IAEA）表示：在國際原子能機構斡旋達成的區域性停火協議的保護下，費羅斯普拉夫納備用輸電線路的修復工作已於今日成功完成，扎波羅熱核電站（ZNPP）也已重新併入電網。這是ZNPP在軍事衝突期間第19次斷電。由於軍事衝突造成的破壞，該電站於週三晚些時候失去了與330千伏（kV）輸電線路的連線，被迫依靠應急柴油發電機為六個停堆反應堆提供冷卻所需的電力。此次斷電持續了近三天，是該電站歷史上持續時間最長的斷電事件之一，凸顯了電網的極度脆弱性。國際原子能機構的一個小組在ZNPP附近對修復工作進行了監督。"
+    },
+    {
+      "id": "mkt:019ec12f-a0b7-7dd8-afeb-3e49ec661dab",
+      "time": "2026-06-13 21:33:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russian-controlled Zaporizhzhia nuclear plant says transport workshop struck】Russian-controlled Zaporizhzhia nuclear plant said on the 13th that Ukrainian forces struck the plant’s transport workshop, damaging three vehicles—two fully burned—and damaging refueling equipment and workshop windows. The plant said systems are operating normally and radiation remains at natural background levels. Ukraine had no immediate comment."
+    },
     {
       "id": "4933878",
       "time": "2026-06-13 21:32:33",
@@ -169394,16 +169429,6 @@
         "公司"
       ],
       "text": "【小鵬集團再拓摩洛哥、突尼西亞市場，北非“戰略鐵三角”成型】 2026年，小鵬集團在北非市場取得關鍵性佈局突破。繼埃及之後，小鵬正式拓展至摩洛哥與突尼西亞，形成以埃及、摩洛哥、突尼西亞為核心的北非“戰略鐵三角”。與此同時，小鵬在北非規模最大的銷售服務中心——佔地2500㎡的突尼西亞銷售服務中心正式投入運營，標誌其在北非的本土化服務體系進一步完善。在埃及市場，小鵬G6、G9連續多月領跑當地高階純電SUV細分市場，“產品+服務+渠道”一體化出海模式得到驗證，為摩洛哥、突尼西亞的快速佈局提供了可參考的運營經驗。（小鵬汽車微信公號）"
-    },
-    {
-      "id": "mkt:019e9d26-09b9-7665-8312-f4636d3d56c8",
-      "time": "2026-06-06 21:36:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Kaiyue Motorcycles denies online rumors of funding collapse, rescue pleas to Zhang Xue and takeover of his 36% stake】Kaiyue Motorcycles said on its official WeChat account on June 6 that recent online allegations — that its funding chain has broken and it faces imminent bankruptcy; that it repeatedly sought rescue from Zhang Xue; that sales plunged about 30% prompting Chairman Yan Kai to seek Zhang's help; and that the company absorbed Zhang Xue’s 36% stake — are fabricated and malicious. The company said the claims are baseless, have damaged its brand and Chairman Yan's reputation, harmed vehicle owners and dealers, and disrupted normal market order."
     }
   ]
 }
