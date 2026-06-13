@@ -1,7 +1,244 @@
 {
-  "updated": "2026-06-13 20:27:45",
-  "count": 18404,
+  "updated": "2026-06-13 21:08:09",
+  "count": 18421,
   "items": [
+    {
+      "id": "4933867",
+      "time": "2026-06-13 21:05:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【原價59元被炒至467元，LABUBU世界盃隱藏款杯子溢價近7倍】美加墨世界盃已開幕三日，泡泡瑪特旗下IP LABUBU 也因開幕式的亮相再度掀起熱潮。 此次泡泡瑪特推出的LABUBU世界盃系列產品涵蓋搪膠毛絨公仔、掛繩、迷你掛燈、開瓶器冰箱貼、玻璃杯、足球迷你包等多個品類。 記者發現，在官方渠道中，售價僅為59元的玻璃杯原本是門檻最低的入門級產品，然而在二手交易平臺上，其隱藏款價格已被炒至467元，較原價溢價高達近7倍。 有資深玩家向記者表示：“隱藏款出貨率低，加上世界盃熱點，啤酒杯的實用屬性和LABUBU本身的高人氣，這個溢價並不意外。”（藍鯨新聞）"
+    },
+    {
+      "id": "mkt:019ec114-a4ed-7dd8-afeb-2e13dad06f61",
+      "time": "2026-06-13 21:03:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Technical outage at several Iranian banks; repairs underway】Iranian media reported on the 13th that services at multiple banks, including Bank Melli Iran, Export Bank of Iran and Bank Tejarat, experienced technical faults. TASNIM NEWS said customers reported disruptions from earlier in the day to mobile and online banking, ATMs, POS terminals and some card services. Fars News cited unconfirmed reports of a possible cyberattack. Affected banks said IT teams are investigating and have begun repairs; the secretary of the State-owned Banks Coordination Council said necessary remediation measures are under way."
+    },
+    {
+      "id": "4933866",
+      "time": "2026-06-13 21:02:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多家銀行出現技術故障 正開展修復工作】據伊朗媒體13日報道，伊朗部分銀行服務13日出現技術故障，受影響銀行包括伊朗國民銀行、伊朗出口銀行、伊朗商業銀行等。據伊朗塔斯尼姆通訊社報道，自13日早些時候起，部分客戶反映上述銀行的部分服務和銀行系統執行異常，包括手機銀行、網上銀行、自動取款機、刷卡機以及部分銀行卡服務。伊朗法爾斯通訊社說，有訊息稱可能發生了網路攻擊，但尚未得到官方確認。相關銀行表示，技術部門正在對故障原因進行調查，並已啟動修復工作。伊朗國有銀行協調委員會秘書蓋塔西13日說，已採取必要修復措施。（新華社）"
+    },
+    {
+      "id": "4933865",
+      "time": "2026-06-13 21:01:04",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【重慶市涪陵區政協黨組書記、主席杜海波接受審查調查】中央紀委國家監委網站通報，據重慶市紀委監委訊息：重慶市涪陵區政協黨組書記、主席杜海波涉嫌嚴重違紀違法，目前正接受重慶市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019ec111-add1-7dd8-afeb-273f5f8abb6c",
+      "time": "2026-06-13 21:00:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry: Iran-US memorandum of understanding will not be signed tomorrow】Iranian media on the 13th reported Foreign Ministry spokesman Baghaei said the Iran-US memorandum of understanding will not be signed tomorrow."
+    },
+    {
+      "id": "mkt:019ec111-406f-7dd8-afeb-1843ed59a27e",
+      "time": "2026-06-13 20:59:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said officials must be cautious about commenting on a signing date, citing hesitation by the other party."
+    },
+    {
+      "id": "4933864",
+      "time": "2026-06-13 20:59:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗通訊社援引伊朗外交部發言人講話稱，鑑於對方態度猶疑，我們必須對就簽署日期發表任何言論持謹慎態度。"
+    },
+    {
+      "id": "4933863",
+      "time": "2026-06-13 20:59:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：伊美諒解備忘錄不會在明天簽署】據伊朗媒體13日報道，伊朗外交部發言人巴加埃表示，伊美諒解備忘錄的具體簽署時間不會是明天。（新華社）"
+    },
+    {
+      "id": "4933862",
+      "time": "2026-06-13 20:57:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃表示，未來數日內簽署《伊斯蘭堡備忘錄》的可能性不能排除。"
+    },
+    {
+      "id": "mkt:019ec10e-e03b-7dd8-afeb-148124cc8d94",
+      "time": "2026-06-13 20:57:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign ministry spokesman said Tehran does not rule out signing a memorandum of understanding with Islamabad within the next few days."
+    },
+    {
+      "id": "4933861",
+      "time": "2026-06-13 20:56:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【頭部變壓器企業普遍在手訂單飽滿，部分企業已上調產品價格】記者調研多家產業鏈公司獲悉，受歐美電網老化改造、AI資料中心爆發及新能源併網擴容三重需求共振驅動，頭部變壓器企業普遍在手訂單飽滿，有企業已啟動擴產計劃，還有部分企業已上調產品價格。業內認為，全球電網投資與AI算力基建疊加，變壓器出海高景氣週期至少可持續2-3年，中國企業憑藉交期優勢加速搶佔份額。與此同時，固態變壓器（SST）作為下一代技術，海外訂單方面，多家企業明確表示“尚未形成收入”或“大家都沒有訂單”，多數仍處送樣或研發階段，商業化預計2028年後逐步落地。（財聯社）"
+    },
+    {
+      "id": "4933860",
+      "time": "2026-06-13 20:55:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊斯蘭堡諒解備忘錄側重於結束現階段戰爭，不討論核問題。"
+    },
+    {
+      "id": "mkt:019ec10d-7f1b-7dd8-afeb-0fb2f1619171",
+      "time": "2026-06-13 20:55:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said the memorandum of understanding with Islamabad focuses on ending the current phase of the war and does not address nuclear issues."
+    },
+    {
+      "id": "4933859",
+      "time": "2026-06-13 20:55:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：簽署備忘錄的確切時間不會是明天。"
+    },
+    {
+      "id": "4933858",
+      "time": "2026-06-13 20:55:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧與印度外交部長蘇傑生通了電話。魯比奧對蘇傑生表示 ：所有商船都應遵守霍爾木茲協議。"
+    },
+    {
+      "id": "mkt:019ec10c-a61b-7dd8-afeb-01793adaa13e",
+      "time": "2026-06-13 20:54:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign ministry spokesman said the exact timing for signing the memorandum will not be tomorrow."
+    },
+    {
+      "id": "4933857",
+      "time": "2026-06-13 20:54:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026重慶國際車展開幕：千餘款車型集中亮相】6月13日，以“智啟新程 潮領未來”為主題的2026（第二十八屆）重慶國際汽車展覽會於13日至21日在重慶國際博覽中心舉行。本屆車展匯聚百餘個汽車品牌、千餘款車型，新能源智慧汽車、商用房車、改裝車及相關產品集中亮相。（中新網）"
+    },
+    {
+      "id": "4933856",
+      "time": "2026-06-13 20:50:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音過去一年新增2.7億條文化遺產相關影片，總播放量達9730億次】6月13日，是2026年“文化和自然遺產日”。位元組跳動公益發布資料顯示，過去一年，抖音新增2.7億條文化遺產相關影片，總播放量達9730億次，抖音生活服務中的百餘家中華老字號團購交易額同比增一倍；公益性古籍數字化平臺“識典古籍”已免費開放超6萬部古籍，月均吸引超240萬人次線上閱讀。"
+    },
+    {
+      "id": "4933855",
+      "time": "2026-06-13 20:48:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國原油交割中心庫存告急】據美國有線電視新聞網12日報道，隨著中東衝突持續擾亂全球能源供應，國際原油市場面臨一個越來越受關注的風險訊號——美國原油交割中心庫欣的庫存告急，正在逼近運營極限。庫欣位於俄克拉何馬州，是美國西得克薩斯輕質原油期貨的交割地，也是美國最重要的原油集散中心之一。正常情況下，庫欣儲油量約為4000萬桶，最大儲存能力可達7500萬桶。但美國能源資訊署最新資料顯示，當地庫存已降至2160萬桶，僅略高於業內普遍認為約2000萬桶的運營警戒線。 (央視財經)"
+    },
+    {
+      "id": "4933854",
+      "time": "2026-06-13 20:48:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍被曝制訂搶奪伊朗濃縮鈾計劃 特朗普未批准】據美國媒體12日爆料，美軍5月曾制訂行動方案，以備派遣地面部隊進入伊朗，奪取近半噸高丰度濃縮鈾庫存，而美國總統特朗普未批准。美國有線電視新聞網（CNN）援引兩名訊息人士的話報道，美軍參謀長聯席會議主席丹·凱恩5月19日從比利時布魯塞爾北約總部緊急返回位於佛羅里達州的美軍中央司令部，聽取奪取伊朗濃縮鈾方案的彙報。根據方案，美軍擬奪取深埋於伊朗伊斯法罕、納坦茲等核設施地下隧道內的濃縮鈾。凱恩隨後向特朗普報告該方案。在接到這類行動可能“招致伊方強烈報復，拖長戰事並加劇全球經濟動盪”的警告後，特朗普當時沒有批准。按一名熟悉該方案知情人士的說法，這類行動“風險很大”，特朗普當時拒絕“開綠燈”並不意外。根據美軍評估，該行動“可接受的風險程度”為“高”至“極高”，意味著即使成功，也會造成大量美軍士兵傷亡。（新華社）"
+    },
+    {
+      "id": "4933853",
+      "time": "2026-06-13 20:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【橫琴口岸年內進出境車輛突破200萬輛次】拱北海關13日公佈，截至當日18時，2026年以來經橫琴口岸進出境車輛突破200萬輛次，同比增長42.4%。其中，澳門單牌車佔比持續攀升，近132萬輛次，同比增長42.3%，琴澳跨境通行活力強勁。"
+    },
+    {
+      "id": "mkt:019ec102-c632-7dd8-afea-faa22df98938",
+      "time": "2026-06-13 20:44:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISRAELI MILITARY said it located and killed two armed militants in a combat zone in southern Lebanon over the past 24 hours."
+    },
+    {
+      "id": "4933852",
+      "time": "2026-06-13 20:43:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：我們在過去24小時內在黎巴嫩南部我軍行動區域發現並擊斃了兩名武裝人員。"
+    },
+    {
+      "id": "4933851",
+      "time": "2026-06-13 20:37:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中老簽署綠電綠證聯合研究諒解備忘錄】南方電網瀾湄國際公司13日釋出訊息稱，當日，該公司與寮國國家電力公司在第10屆中國—南亞博覽會上正式簽署《中老綠電綠證聯合研究諒解備忘錄》，標誌著中老雙方正式啟動綠電綠證合作相關研究工作，為推動兩國綠色電力互認和綠色證書體系對接奠定製度基礎。（中新社）"
+    },
+    {
+      "id": "4933850",
+      "time": "2026-06-13 20:36:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青藏鐵路通車20年 進出藏貨運量增長22倍】2026年是青藏鐵路通車20週年。官方資料顯示，2025年，青藏鐵路進出藏貨運量較2006年增長22倍；其中出藏貨運量達140.5萬噸，年均增速24.8%。青藏物流徹底告別“單向輸血”，迎來雙向均衡發展的新格局。（中新社）"
+    },
+    {
+      "id": "4933849",
+      "time": "2026-06-13 20:33:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉政府稱，委內瑞拉與IMPSA簽署TOCOMA大型水電專案協議。（IMPSA為阿根廷工程重工企業，Tocoma是委內瑞拉南部玻利瓦爾州的擬建水電站專案）"
+    },
+    {
+      "id": "mkt:019ec0f9-3f3c-7dd8-afea-f7c730821762",
+      "time": "2026-06-13 20:33:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhang Xue Motorcycles' Valentin Debise wins WorldSSP Race 1 at WSBK Emilia‑Romagna】French rider Valentin Debise delivered a victory for Chinese manufacturer Zhang Xue Motorcycles in Race 1 of the WorldSSP class at the World Superbike Championship Emilia‑Romagna round."
+    },
+    {
+      "id": "4933848",
+      "time": "2026-06-13 20:32:18",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【張雪機車再奪第一】世界超級摩托車錦標賽（WSBK）義大利艾米利亞-羅馬涅站WorldSSP組別首輪正賽落幕，張雪車隊車手德比斯取得冠軍。（央視新聞）"
+    },
+    {
+      "id": "4933847",
+      "time": "2026-06-13 20:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒細數特朗普曾39次說與伊朗談好】自本輪美以伊戰爭爆發以來，美國總統特朗普曾多次表示“與伊朗達成共識”“很快就會與伊朗達成協議”或“戰爭很快就會結束”，但事實上衝突一直在持續。據美國有限電視新聞網統計，截至6月11日，特朗普至少作出過39次此類表態。 （CCTV國際時訊）"
+    },
     {
       "id": "4933846",
       "time": "2026-06-13 20:26:38",
@@ -169140,107 +169377,6 @@
         "MKT News"
       ],
       "text": "Iranian Students' News Agency reported Pakistan's interior minister has departed for Tehran."
-    },
-    {
-      "id": "4921286",
-      "time": "2026-06-06 21:03:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德：接受司美格魯肽2毫克治療的患者中，60.5%在1年後體重減輕≥5%，接受替拉帕肽治療的患者中，55.3%在1年後體重減輕≥5%。"
-    },
-    {
-      "id": "4921285",
-      "time": "2026-06-06 21:03:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德：接受司美格魯肽2毫克治療的患者中，74.7%在1年後達到糖化血紅蛋白（HbA1c）<7%的目標；接受替拉帕肽治療的患者中，75.1%在1年後達到糖化血紅蛋白（HbA1c）<7%的目標。"
-    },
-    {
-      "id": "4921284",
-      "time": "2026-06-06 21:00:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東召開2026年全省大灣區辦工作會議】據廣東省發展改革委訊息，6月5日，2026年全省大灣區辦工作會議在廣州召開。會議傳達中央區域協調發展領導小組第四次全體會議和省推進粵港澳大灣區建設領導小組第十一次會議精神，全面總結近年來我省推進粵港澳大灣區建設的工作成效，研究部署下一階段重點任務。會議要求，要聚焦重大戰略任務，攜手港澳推動大灣區建設再上新臺階。一是持續深化產業科技合作，構建雙向互動的科創合作體系，推動粵港澳三地協同育才引才用才，加快建設具有國際競爭力的現代化產業體系，培育國際競爭合作新優勢。二是持續強化全方位互聯互通，不斷完善基礎設施高效網際網路絡，深化規則銜接機制對接，加快構建宜居宜業宜遊優質生活圈，有效提升大灣區市場一體化水平。三是持續建強重大合作平臺，準確把握平臺功能定位，充分發揮平臺試驗示範作用，因地制宜與港澳探索共建特色合作平臺，“以點帶面”引領粵港澳全面合作。四是持續深化大灣區內地九市內涵式發展，堅持機制先行、最佳化要素配置、注重兩岸融合，率先探索彰顯灣區特色的城市群發展路徑。"
-    },
-    {
-      "id": "4921283",
-      "time": "2026-06-06 20:57:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部表示，美國需為其“非法行動”造成的一切後果以及局勢進一步升級承擔全部責任。"
-    },
-    {
-      "id": "4921282",
-      "time": "2026-06-06 20:56:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部表示，多次違反停火協議的行為表明美國無意緩和局勢。"
-    },
-    {
-      "id": "mkt:019e9d00-f978-7665-8312-d9404c87c1e1",
-      "time": "2026-06-06 20:55:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran foreign ministry condemns US strikes on Sirik region and Qeshm Island as ceasefire violations】Iran's foreign ministry condemned U.S. military strikes on radar and coastal surveillance facilities in the Sirik region and Qeshm Island, calling them a blatant violation of the ceasefire and an act of military aggression against Iran's sovereignty and territorial integrity. The ministry said repeated U.S. breaches indicate Washington is not seeking de‑escalation, warn that such risky actions endanger regional security, and assign responsibility for any consequences or escalation to the U.S. It affirmed Iran's inherent right of self‑defense and said it will use all available capabilities and resources to defend its sovereignty, security and national interests."
-    },
-    {
-      "id": "4921281",
-      "time": "2026-06-06 20:55:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部表示，美國對錫裡克地區和格什姆島的雷達及海岸監視設施發動的襲擊違反了4月8日的停火協議。"
-    },
-    {
-      "id": "mkt:019e9cfd-0c48-7665-8312-d6b127eb4ae7",
-      "time": "2026-06-06 20:51:29",
-      "tags": [
-        "MKT News",
-        "WTI"
-      ],
-      "text": "RIA reported that a fire at an oil refinery in Russia's Tyumen region has been extinguished."
-    },
-    {
-      "id": "4921280",
-      "time": "2026-06-06 20:50:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯秋明州煉油廠大火已被撲滅。"
-    },
-    {
-      "id": "4921279",
-      "time": "2026-06-06 20:34:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凱越機車闢謠吞張雪股份、多次求張雪救命等資訊】有傳言稱 \"凱越機車資金鍊斷裂即將破產\"、\"凱越撐不住了多次求張雪救命\"、\"凱越銷量跌三成，嚴凱急了找張雪\"、\"凱越最大的敗筆，不是沒留住張雪，而是連他 36% 的股份都吞完\" 等。凱越機車釋出宣告：針對近期網路平臺上集中出現的關於凱越機車及董事長嚴凱先生的一系列不實言論和惡意造謠資訊，我司在此鄭重宣告：所有傳言均為無中生有、蓄意捏造，純屬惡意抹黑。"
-    },
-    {
-      "id": "mkt:019e9cec-020c-7665-8312-cef052b1ceb8",
-      "time": "2026-06-06 20:32:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's industry minister Saeed Mohammad Atabak met Belarusian officials to press for expanded industrial, trade and logistics cooperation, focusing on joint production, machinery supplies and transport development."
-    },
-    {
-      "id": "mkt:019e9ce7-8799-7665-8312-c5c1076c2376",
-      "time": "2026-06-06 20:27:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan interior minister visits Iran to push new interim US-Iran proposal】Pakistani sources say Interior Minister Mohsin Naqvi visited Iran on Saturday to present a new proposal aimed at breaking the US-Iran deadlock and securing an interim agreement. Talks are expected to focus on restoring a second round of negotiations between Washington and Tehran; the visit is part of Pakistan’s mediation effort to help reach a broader deal and end the US-Iran conflict."
     }
   ]
 }
