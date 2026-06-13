@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-14 00:56:48",
-  "count": 18484,
+  "updated": "2026-06-14 01:00:49",
+  "count": 18486,
   "items": [
+    {
+      "id": "mkt:019ec1ec-4a29-7dd8-afed-2fc7dcbb0161",
+      "time": "2026-06-14 00:59:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Downing Street said both leaders agreed freedom of navigation must be restored to mitigate global economic impact."
+    },
+    {
+      "id": "4933982",
+      "time": "2026-06-14 00:59:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "唐寧街：兩國領導人一致認為，必須恢復航行自由，以緩解全球經濟所受的影響。"
+    },
+    {
+      "id": "mkt:019ec1ec-0536-7dd8-afed-218f039a156f",
+      "time": "2026-06-14 00:58:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Downing Street: Prime Minister Starmer reiterated the UK is ready at any time to support implementation of any peace agreement."
+    },
+    {
+      "id": "4933981",
+      "time": "2026-06-14 00:58:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "唐寧街：英國首相斯塔默重申，英國隨時準備支援任何和平協議的執行。"
+    },
+    {
+      "id": "mkt:019ec1eb-756a-7dd8-afed-194ab9e1fd69",
+      "time": "2026-06-14 00:58:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "10 Downing Street said Prime Minister Starmer supports U.S. President Trump’s efforts to end the conflict with Iran."
+    },
+    {
+      "id": "4933980",
+      "time": "2026-06-14 00:57:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "唐寧街：英國首相斯塔默對特朗普總統為結束與伊朗衝突所做的努力表示支援。"
+    },
+    {
+      "id": "mkt:019ec1eb-1d68-7dd8-afed-157a2f581361",
+      "time": "2026-06-14 00:57:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Downing Street said Prime Minister Starmer spoke by phone with U.S. President Donald Trump this afternoon."
+    },
+    {
+      "id": "4933979",
+      "time": "2026-06-14 00:57:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "唐寧街：英國首相斯塔默今日下午與美國總統特朗普通話。"
+    },
     {
       "id": "4933978",
       "time": "2026-06-14 00:54:47",
@@ -169861,70 +169932,6 @@
         "國際"
       ],
       "text": "以色列國防軍稱，以軍週末對黎巴嫩南部150處真主黨目標實施打擊，其中包括武器庫與指揮中心。"
-    },
-    {
-      "id": "mkt:019e9ddf-df78-7665-8313-c0c0c8b0e4d7",
-      "time": "2026-06-07 00:59:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "HEZBOLLAH said it fired rockets at an Israeli military concentration in Al-Bayda in southern Lebanon."
-    },
-    {
-      "id": "4921367",
-      "time": "2026-06-07 00:59:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：我方發射火箭彈，打擊了黎巴嫩南部拜亞達鎮的以色列敵方集結人員。"
-    },
-    {
-      "id": "mkt:019e9ddf-aaa7-7665-8313-be9c882627e7",
-      "time": "2026-06-07 00:59:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "HEZBOLLAH said it used a submersible drone to strike a concentration of Israeli forces in al-Qantara in southern Lebanon."
-    },
-    {
-      "id": "4921366",
-      "time": "2026-06-07 00:58:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：我方使用俯衝無人機襲擊了黎巴嫩南部坎塔拉鎮的以色列敵方集結點。"
-    },
-    {
-      "id": "mkt:019e9ddf-43fc-7665-8313-b248606bffb1",
-      "time": "2026-06-07 00:58:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【IDF says it struck about 150 Hezbollah targets in southern Lebanon over weekend】The Israel Defense Forces said it struck roughly 150 Hezbollah infrastructure targets in southern Lebanon over the weekend, including weapons storage sites, command centers and rocket launchers. The IDF said those facilities were used by Hezbollah to prepare and carry out terrorist attacks against Israeli soldiers."
-    },
-    {
-      "id": "mkt:019e9ddd-b638-7665-8313-aa605fc2a64d",
-      "time": "2026-06-07 00:56:53",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "The Israeli military said it had not ordered a halt to demolitions of villages in southern Lebanon and is continuing to destroy related military infrastructure."
     }
   ]
 }
