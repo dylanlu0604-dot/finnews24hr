@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-13 08:44:13",
-  "count": 18398,
+  "updated": "2026-06-13 08:48:14",
+  "count": 18399,
   "items": [
+    {
+      "id": "mkt:019ebe72-0bf3-7dd8-afe7-6fe89c770ed4",
+      "time": "2026-06-13 08:46:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【UAE denies media reports of $3 bln transfer to Iran】The United Arab Emirates Foreign Ministry firmly denied media reports alleging a transfer of funds to Iran, including claims of $3 bln. It said the reports are false and unsubstantiated and that no frozen Iranian assets have been unfrozen, transferred or facilitated through the UAE, urging media to rely on official sources."
+    },
+    {
+      "id": "4933526",
+      "time": "2026-06-13 08:45:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲推進國際刑事法庭餘留機制轉型】當地時間12日，聯合國安理會就國際刑事法庭餘留機制工作問題舉行會議。中方代表表示，自2010年安理會透過決議建立國際刑事法庭餘留機制以來，該機制作為高效率的小型臨時機構，為國際刑事司法做出了重要貢獻。中方指出，目前該機制已完成所有核心司法案件，司法和行政職能大幅減少，進一步轉移壓縮職能乃至最終關停機制的條件已經具備。中方充分肯定了該機制在懲治國際罪行、促進民族和解方面發揮的積極作用。中方呼籲安理會各方儘快達成決議共識，以確保該機制的政治和法律遺產得以延續。國際刑事法庭餘留機制是聯合國設立的一個臨時司法機構，旨在接續原前南斯拉夫問題國際刑事法庭和盧安達問題國際刑事法庭的工作，處理未決案件、監督判決執行、保護證人以及管理相關檔案等。（央視新聞）"
+    },
+    {
+      "id": "4933525",
+      "time": "2026-06-13 08:45:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【前實控人私設數億元擔保 ST易聯眾等或面臨逾2300萬元罰單】6月12日，ST易聯眾公告稱，公司當日收到廈門證監局《行政處罰事先告知書》。前實控人張曦將公司當“信用背書工具”，私自違規擔保、借款，隱瞞訴訟仲裁，致公司未及時披露且定期報告有重大遺漏。廈門證監局擬對ST易聯眾等開逾2300萬元罰單，其中對張曦罰款1750萬元並終身禁入證券市場。公司稱不觸及強制退市情形。（每經網）"
+    },
+    {
+      "id": "4933524",
+      "time": "2026-06-13 08:44:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：一架美國空軍 F-16 戰鬥機在中東上空執行巡邏任務，美軍持續在該地區部署兵力並保持戒備狀態。"
+    },
     {
       "id": "4933523",
       "time": "2026-06-13 08:39:47",
@@ -169296,32 +169329,6 @@
         "公司"
       ],
       "text": "【強生勝訴 此前有訴訟指控其滑石粉導致三名女性患癌】近日，洛杉磯陪審團在一樁由三名女性家屬提起的訴訟中支援強生公司，這些家屬指控該公司的滑石粉產品導致了卵巢癌。陪審團裁定，強生公司在銷售化妝品用滑石粉產品時不存在過失。 該訴訟由歐文斯（Mary Owens）、蒂恩肯（Bonnie Tienken）和威廉姆斯（Geneva Williams）的家屬提起，她們均在使用含滑石粉的嬰兒爽身粉後死於卵巢癌。 已有超過67000名原告起訴強生公司，指控其嬰兒爽身粉及其他滑石粉產品導致卵巢癌。"
-    },
-    {
-      "id": "4920524",
-      "time": "2026-06-06 08:46:54",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "一名美方官員透露，過去一個月裡，美軍協助逾百艘商船經由霍爾木茲海峽進出波斯灣。"
-    },
-    {
-      "id": "mkt:019e9a65-4a97-7665-830e-7d8af3dcb94c",
-      "time": "2026-06-06 08:46:29",
-      "tags": [
-        "MKT News",
-        "Commodities"
-      ],
-      "text": "【Egg prices surge in China’s rainy season as capacity cuts, low stocks tighten supply】Contrary to the usual rainy-season decline, Chinese egg prices have risen since mid-April. The main 2607 egg futures contract rallied to 4,485 yuan/500 kg on June 4, the highest since late July 2024, while national wholesale spot prices are over 30% above April 9. Market participants cite 2025 industry losses driving capacity withdrawal, low inventories, festival restocking and speculative fund flows as the primary drivers. In the near term supply tightness is unlikely to fully reverse and prices may remain elevated, though upside volatility at high levels is a growing risk."
-    },
-    {
-      "id": "4920516",
-      "time": "2026-06-06 08:45:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【百億級算力合作大單密集現身 產業邏輯解讀】近期資本市場湧現百億級算力合作大單，各類企業紛紛跨界進入算力賽道。根據中國信通院資料，2026年一季度國內算力租賃市場規模達到680億元，預計全年將突破2600億元。算力行業被視為數字時代的高階寫字樓租賃生意，企業鉅額投入建設機房和設施，再出租算力資源以獲取收益。然而，算力行業門檻高、資金壓力大，許多跨界企業面臨財務成本吞噬利潤的風險。此外，部分合作協議為預估總量，實際營收仍需觀察。算力市場需求巨大，但行業發展仍需提質增效。(央視新聞)"
     }
   ]
 }
