@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-13 20:27:45_
-_本檔包含 3784 則快訊，約 666237 字_
+_更新時間：2026-06-13 21:49:51_
+_本檔包含 3800 則快訊，約 666697 字_
+
+---
+
+### 2026-06-08 19:39:37  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #000660.KS #Impact bullish #017670.KS
+
+NVIDIA (NVDA.O) CEO Jensen Huang said partnerships with SK Hynix and SK Telecom could generate several hundred billion dollars of business for South Korea over time.
+
+---
+
+### 2026-06-08 19:39:31  #其他
+
+西南航空表示，商務出行需求保持穩健。
+
+---
+
+### 2026-06-08 19:39:27  #國際
+
+印度貿易官員：印度在對美貿易協定中，正爭取相較於其他競爭經濟體更優惠的關稅待遇。
+
+---
+
+### 2026-06-08 19:38:48  #國際
+
+印度貿易官員：印美貿易協定可在美國貿易代表辦公室（USTR）301調查結束後敲定。
+
+---
+
+### 2026-06-08 19:38:41  #MKT News #XAUUSD #Impact bullish #Brent
+
+Refinitiv Middle East correspondent reports no Israeli response yet to Iran's statement. Earlier today the Israeli military said it will continue to strike HEZBOLLAH.
+
+---
+
+### 2026-06-08 19:38:24  #其他
+
+【中國加入港口國措施協定首年履約情況在滬公佈】《關於預防、制止和消除非法、不報告、不管制捕魚的港口國措施協定》全球實施十週年中國主題活動近日在上海舉行。港口國措施協定中國國家聯絡點代表介紹中國加入協定一年來主要履約情況。據介紹，中國加入港口國措施協定一年來，認真履行各項義務要求，建設制度體系，建立多部門工作協調機制，指定國家聯絡點，完善法律保障，印發工作意見；規範港口檢查，完成第一批23個港口指定工作，組織開展涉漁外國籍船舶港口國檢查，指導中國籍遠洋漁船接受其他港口國的檢查；參與國際合作，參加港口國措施協定締約方大會和相關國際會議，積極參與規則討論，中國專家被提名為港口國措施協定可持續執行工作組亞洲區代表；開展履約培訓，舉辦港口國措施協定國際研討會，提升履約能力；加強港口國措施協定履約宣傳，實施相關工作紮實起步。（新華社）
+
+---
+
+### 2026-06-08 19:37:45  #其他
+
+【Rokid回應“拍空姐上傳社群”：高度重視，侵犯隱私內容已全部清理下架】6月8日晚間訊息，針對近日被曝“乘客用智慧眼鏡偷拍空姐上傳社群”一事，Rokid今日釋出關於社群生態治理與隱私保護的宣告稱：“對此，我們高度重視，並緊急啟動了專項整改。”“新物種融入社會必然經歷邊界的碰撞，全世界和全行業都面臨同樣的考驗。”樂奇Rokid方面表示，“科技的初衷是給使用者提供更好的產品和技術，去記錄身邊的美好，我們呼籲大家尊重法律法規與社會公序良俗，守住隱私保護的底線。”（新浪科技）
+
+---
+
+### 2026-06-08 19:37:42  #其他
+
+越南電動汽車製造商Vinfast：預計2026年兩輪車交付量至少為2025年的2.5倍。
+
+---
+
+### 2026-06-08 19:36:16
+
+【五糧液：擬免去曾從欽董事職務 其擔任的董事長等職務自董事解任生效之日起自動解除】五糧液公告，根據宜賓市人民政府相關檔案，經提名委員會稽核、公司董事會提名，同意免去曾從欽董事職務，曾從欽擔任的董事長、董事會專門委員會主任委員及委員職務，自董事解任生效之日起自動解除；同意增補鄧敏為公司第七屆董事會非獨立董事候選人，任期自公司股東會審議透過之日起至公司第七屆董事會任期屆滿之日止。
+
+---
+
+### 2026-06-08 19:35:36  #其他
+
+越南電動汽車製造商Vinfast：預計全年汽車交付量至少為30萬輛，第一季度電動汽車交付量為58577輛。
+
+---
+
+### 2026-06-08 19:35:05  #其他
+
+【南海夏季風已於6月爆發 我國進入主汛期】記者今天從國家氣候中心獲悉，2026年南海夏季風已於6月全面爆發，強度接近常年到偏強。南海夏季風爆發，標誌著來自熱帶的溼潤氣流造訪南海，西太平洋副熱帶高壓明顯減弱、東撤，南海區域開始盛行西南風，強大的熱帶、副熱帶暖溼氣流將顯著加強，對流活動開始活躍，華南等地降水顯著增加，隨後季風雨帶將隨之從華南一帶逐漸北推，我國進入主汛期。（央視新聞）
+
+---
+
+### 2026-06-08 19:34:38  #公司 #市場 #國際
+
+印度國家證券交易所公告：埃克西斯共同基金臨時暫停埃克西斯黃金ETF及埃克西斯黃金基金的單位認購。
+
+---
+
+### 2026-06-08 19:34:07  #公司
+
+【廣藥集團在哈薩克、烏茲別克與多方達成合作意向】廣藥集團黨委書記、董事長李小軍近日隨香港特區行政長官李家超率領的商貿代表團訪問哈薩克和烏茲別克。訪問期間，廣藥集團簽署及達成多項合作協議：旗下白雲山漢方與科倫（哈薩克）藥業簽署抗腫瘤原料藥合作協議；白雲山天心製藥與烏茲別克藥企ADN Pharm-Sanoat簽署合作備忘錄，涉及藥品註冊及本地運營，並與OMON MED PHARM達成聯合建廠及協同研發合作意向；同時，廣藥集團與哈薩克主權財富基金（Samruk-Kazyna）、中烏物流公司分別就產業投資、冷鏈運輸及保稅倉儲等業務達成合作意向。據瞭解，廣藥集團計劃在2026年至2030年期間，投入200億元用於科研創新、300億元用於產業投資，其中中亞被列為重要投資區域。
+
+---
+
+### 2026-06-08 19:33:01  #公司
+
+【一輛小米SU7 Ultra在江西南昌起火，公司回應：初步排除電池自燃引發】@小米公司發言人 6月8日發文：6月7日，一輛小米SU7 Ultra在江西省南昌市英雄大橋起火，火情由消防部門及時控制，未造成人員傷亡。事件發生後，我們第一時間聯絡車主，將積極配合完成後續車輛處置事宜。目前，相關情況已向監管部門報備，經現場調查及後臺資料分析，事發前車輛動力電池全程處於正常工作狀態，未出現熱失控訊號，初步排除電池自燃引發起火。具體起火原因待消防部門勘察鑑定後確認，我們將持續跟進消防部門勘察進展。請廣大網友不信謠、不傳謠，感謝大家的理解與關注。
+
+---
+
+### 2026-06-08 19:32:44  #公司 #國際
+
+【菲律賓和印尼宣佈解除海嘯預警】6月8日早些時候，中國地震臺網正式測定，菲律賓群島地區發生7.9級地震。隨後菲律賓火山地震研究所以及印尼氣象、氣候和地球物理局分別釋出海嘯預警。8日下午，菲火山地震研究所釋出公告稱，經過持續監測分析，發生的海嘯波不足以造成嚴重破壞，因此宣佈取消當天釋出的海嘯預警。印尼氣象、氣候和地球物理局最新通報稱，目前海嘯預警已解除。（央視新聞）
+
+---
+
+### 2026-06-08 19:32:42  #Trading Economics #Economy #Angola #Inflation Rate #Importance 1
+
+Angola Inflation Rate Hits 3-Year Low in May — Angola’s annual inflation rate eased to 10.88% in May 2026 from 11.58% in April, marking the lowest since May 2023 and extending the downward trend observed since mid-2024. The relative stability of the exchange rate has helped limit inflationary pressures. Prices continued to slow for most CPI categories, including food & non-alcoholic beverages (11.33% vs 11.96% in April); alcoholic beverages & tobacco (9.22% vs 9.63%); clothing & footwear (7.39% vs 8.47%); housing & utilities (14.32% vs 15.17%); transportation (15.73% vs 16.45%); hotels & restaurants (6.07% vs 6.62%), among others. On a monthly basis, the CPI rose by 0.53% in May, after a 0.58% increase in the previous month.
+
+---
+
+### 2026-06-08 19:32:41  #國際
+
+【英、歐峰會召開在即，英國金融業強烈呼籲深化雙邊聯絡】英國行業遊說機構“英國金融業行會”（UK Finance）於週一釋出報告指出，英國各銀行正尋求與歐盟建立更緊密的聯絡。報告稱，銀行業並非試圖推翻英國脫歐的結果，也無意“逆向重新融入歐盟單一市場”，而是希望將英歐雙方在2023年簽署的《金融服務合作諒解備忘錄》中的相關條款進行制度化和正式化。這標誌著英國金融業自2016年6月脫歐公投（導致英國脫離歐盟並失去了部分進入歐洲金融市場的渠道）十年以來，就“尋求與歐洲同行進一步融合”所做出的最強硬表態之一。
+
+---
+
+### 2026-06-08 19:32:14  #公司
+
+韋德布什證券公司對Cerebras首次覆蓋，給予“跑贏大盤”評級，目標價為270美元。
+
+---
+
+### 2026-06-08 19:31:47  #市場 #國際
+
+印度10年期基準政府債券收益率<IN064835G=CC>收於6.9532%，前一交易日收盤為6.9772%。
+
+---
+
+### 2026-06-08 19:31:46  #MKT News
+
+Turkey's major banks index extended gains, rising 3.6%.
+
+---
+
+### 2026-06-08 19:31:22  #其他
+
+阿瑞斯資本：計劃發行至多 10 億美元短期無擔保票據。
+
+---
+
+### 2026-06-08 19:31:02  #公司
+
+【諾唯贊：控股股東諾唯贊投資擬增持，金額不低於1.15億元】諾唯贊公告，控股股東南京諾唯贊投資管理有限公司擬自2026年6月9日起6個月內，透過集中競價方式增持公司股份，增持總金額不低於1.15億元且不高於2.25億元，資金來源為自有資金和自籌資金（包括股票增持專項貸款）。上海浦東發展銀行南京分行已向諾唯贊投資出具《貸款承諾函》，提供額度不超過2億元、期限3年的專項貸款。本次增持不設定價格區間，不觸及要約收購，不會導致公司控股股東及實際控制人發生變化。
+
+---
+
+### 2026-06-08 19:30:58  #市場 #國際
+
+【能源危機衝擊泰國旅遊業，泰國芭提雅酒店預訂率大跌】受國際能源價格波動影響，泰國航空運輸、酒店經營以及旅遊服務等成本不斷攀升，給泰國旅遊及民航業帶來新的挑戰。燃油價格上漲的影響已從航空業逐步傳導至整個旅遊產業鏈。根據泰國酒店協會5月公佈的統計資料，4月份，著名旅遊城市芭提雅的酒店預訂率僅為20%至30%，而去年同期則高達70%至80%；在普吉等熱門旅遊目的地，旅遊業者反映運輸成本上漲近40%，酒店運營成本增加最高約25%。旅遊大巴、計程車、遊船及快艇等運營費用普遍上升。（央視財經）
+
+---
+
+### 2026-06-08 19:30:45  #其他
+
+土耳其主要銀行指數延續漲勢，漲幅達3.6%。
+
+---
+
+### 2026-06-08 19:30:30  #市場 #觀點 #國際
+
+【摩根士丹利：新監管規則將擴大英國銀行業的槓桿空間】摩根士丹利（Morgan Stanley）分析師在一份報告中寫道，受7月份即將實施的監管規則調整影響，英國各銀行可能將被允許降低資本留存額。他們預計，英國金融政策委員會（FPC）將於7月釋出的金融穩定報告中，下調槓桿率要求以與歐盟標準保持一致，這實際上將為英國銀行業釋放約2500億英鎊的槓桿空間，用於放貸和投資。分析師指出，被釋放的資金中將有25%至50%被投向英國國債。不過，若要實質性降低核心一級資本（CET1）充足率要求（即防範銀行虧損的權益緩衝層），仍需進一步的政策調整。儘管如此，分析師認為這些變化將“逐步對銀行的盈利能力產生積極影響”。
+
+---
+
+### 2026-06-08 19:30:10  #市場
+
+【美光科技美股盤前漲超6%】美光科技美股盤前漲超6%，現報916.985美元。
+
+---
+
+### 2026-06-08 19:29:57  #國際
+
+【以官員稱內塔尼亞胡將召開安全內閣會議】一位以色列官員透露，以色列總理內塔尼亞胡將於當地時間週一召開安全內閣會議，討論以色列與伊朗之間不斷升級的敵對行動。該名官員稱，在此次會議之前，內塔尼亞胡已於當天舉行了一系列安全磋商，其中包括一次與高階國防官員及部分部長參加的小範圍會議。
+
+---
+
+### 2026-06-08 19:29:51  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+South Korea's science minister said NVIDIA (NVDA.O) CEO Jensen Huang told him he would actively consider hosting NVIDIA's GTC conference in South Korea.
+
+---
+
+### 2026-06-08 19:29:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Official says NETANYAHU to convene security cabinet meeting】CNN reported an Israeli official said Prime Minister NETANYAHU will convene a security cabinet meeting on Monday local time to discuss escalating hostilities with Iran. The official said NETANYAHU held a series of security consultations earlier that day, including a small meeting with senior defense officials and several ministers.
+
+---
+
+### 2026-06-08 19:29:34  #市場
+
+路透調查顯示，倫敦房價預計在2026年將下跌0.3%，2027年上漲2.0%，2028年上漲3.0%（第一季度調查分別為+1.0%、+2.0%、+2.8%）。英國房價預計在2026年上漲1.8%，在2027年和2028年上漲3.0%（第一季度調查分別為+2.5%、+3.0%、+3.0%）。
+
+---
+
+### 2026-06-08 19:29:26  #公司 #市場
+
+【小米集團於公開市場增持金山軟體，持股比例增至5.39%】6月8日，據港交所權益披露資訊，小米集團於公開市場增持金山軟體，截至當天收盤，小米集團持股比例增至5.39%。這一增持間接帶來雷軍個人在金山軟體的持股比例增加。值得注意的是，雷軍的股權變動並非其個人賬戶買入金山軟體，而是作為小米集團實控人，因小米集團對金山軟體的增持客觀上帶來的變動。
+
+---
+
+### 2026-06-08 19:29:24  #國際
+
+據伊朗媒體8日報道，伊朗武裝部隊哈塔姆安比亞中央總部當天發表宣告，宣佈停止對以色列的軍事行動。 宣告說，伊朗已對以色列做出嚴厲回應，以色列應從這次回應中吸取教訓。但如果以色列在黎巴嫩南部等地的侵略和罪惡行徑繼續下去，伊方將採取更加嚴厲和更具破壞性的措施。（新華社）
+
+---
+
+### 2026-06-08 19:29:22  #MKT News #Market Regions #Europe & UK #GBPUSD
+
+Reuters survey shows UK house prices are forecast to rise 1.8% in 2026 and 3.0% in 2027 and 2028; the Q1 survey had projected +2.5%, +3.0% and +3.0%, respectively.
+
+---
+
+### 2026-06-08 19:29:03  #國際
+
+韓國科學部長：黃仁勳表示，他將積極考慮在韓國舉辦英偉達GTC人工智慧大會。
+
+---
+
+### 2026-06-08 19:28:54  #MKT News #Market Regions #Europe & UK
+
+REUTERS SURVEY: London house prices forecast to fall 0.3% in 2026, then rise 2.0% in 2027 and 3.0% in 2028; Q1 survey forecasts were +1.0%, +2.0% and +2.8% respectively.
+
+---
+
+### 2026-06-08 19:28:53  #宏觀
+
+【市場監管總局組織食品安全監督抽檢 不合格樣品已啟動核查處置】記者今天瞭解到，市場監管總局近期組織食品安全監督抽檢1678批次樣品，檢出32批次樣品不合格。對抽檢發現的不合格食品，有關省級市場監管部門已組織開展核查處置。（央視新聞）
+
+---
+
+### 2026-06-08 19:27:45  #國際
+
+伊朗伊斯蘭革命衛隊海軍司令宣佈：所有船隻請注意，禁止敵對國家艦船駛入霍爾木茲海峽，一旦發現將立即予以打擊。
+
+---
+
+### 2026-06-08 19:27:27  #國際
+
+韓國科學部長：黃仁勳承諾向韓國優先供應英偉達Vera Rubin晶片。
+
+---
+
+### 2026-06-08 19:27:19  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+South Korea's science minister said NVIDIA (NVDA.O) CEO Jensen Huang pledged to prioritize supplying Vera Rubin to South Korea.
 
 ---
 
@@ -22648,143 +22882,5 @@ Air New Zealand CEO said the airline has offset only 25%-40% of the impact from 
 ### 2026-06-06 21:50:02  #公司
 
 英國零售大亨邁克·阿什利旗下弗雷澤集團考慮出價5億英鎊收購Metrocentre。
-
----
-
-### 2026-06-06 21:46:50  #公司
-
-【小鵬集團再拓摩洛哥、突尼西亞市場，北非“戰略鐵三角”成型】 2026年，小鵬集團在北非市場取得關鍵性佈局突破。繼埃及之後，小鵬正式拓展至摩洛哥與突尼西亞，形成以埃及、摩洛哥、突尼西亞為核心的北非“戰略鐵三角”。與此同時，小鵬在北非規模最大的銷售服務中心——佔地2500㎡的突尼西亞銷售服務中心正式投入運營，標誌其在北非的本土化服務體系進一步完善。在埃及市場，小鵬G6、G9連續多月領跑當地高階純電SUV細分市場，“產品+服務+渠道”一體化出海模式得到驗證，為摩洛哥、突尼西亞的快速佈局提供了可參考的運營經驗。（小鵬汽車微信公號）
-
----
-
-### 2026-06-06 21:36:16  #MKT News #Market Regions #Greater China
-
-【Kaiyue Motorcycles denies online rumors of funding collapse, rescue pleas to Zhang Xue and takeover of his 36% stake】Kaiyue Motorcycles said on its official WeChat account on June 6 that recent online allegations — that its funding chain has broken and it faces imminent bankruptcy; that it repeatedly sought rescue from Zhang Xue; that sales plunged about 30% prompting Chairman Yan Kai to seek Zhang's help; and that the company absorbed Zhang Xue’s 36% stake — are fabricated and malicious. The company said the claims are baseless, have damaged its brand and Chairman Yan's reputation, harmed vehicle owners and dealers, and disrupted normal market order.
-
----
-
-### 2026-06-06 21:31:19  #公司 #國際
-
-【黃仁勳脫口秀錄製畫面曝光：與劉在石跨界對話，還跳起了舞】英偉達CEO黃仁勳拍了拍韓國“國民主持人”劉在石的肩膀，兩人談笑風生。 這是韓國脫口秀綜藝節目《劉在街頭》今日在社交媒體上公佈的節目錄制畫面。在綜藝節目攝像機前，黃仁勳依舊身穿標誌性的黑色皮夾克，與主持人劉在石面對面暢談，現場氣氛十分輕鬆。 當Netflix動畫電影《K-Pop: 獵魔女團》中虛擬女團Huntrix演唱的《Golden》歌聲響起時，黃仁勳更是興奮地揮動手臂，即興跳起舞來。“昨天沒去的KTV，今天補上。”
-
----
-
-### 2026-06-06 21:30:58  #公司
-
-【賽意資訊戰略投資七號智算 健全企業全棧AI業務佈局】近日，賽意資訊與廣東七號智算技術有限公司簽署戰略投資協議，並已完成工商股權變更登記，公司正式成為七號智算在冊股東。此次戰略落地，意在整合全鏈路算力資源，打造公司“工業智算—工業大模型—工業智慧應用”三層架構發展路線，進一步健全企業全棧AI業務佈局。
-
----
-
-### 2026-06-06 21:30:04  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Depreciates by 1.22% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.22% decrease.
-
----
-
-### 2026-06-06 21:27:55  #其他
-
-【軟通動力聯合華為、青島港釋出智慧港口解決方案】6月5日，2026華為雲INSPIRE創想者大會中，軟通動力聯合華為、青島港正式釋出智慧港口安全生產聯合解決方案。
-
----
-
-### 2026-06-06 21:23:12  #公司
-
-空客有望獲得北歐航空集團(SAS)的一筆寬體客機訂單，後者正在考慮採購15至20架左右的飛機。
-
----
-
-### 2026-06-06 21:18:18  #國際
-
-【伊朗足協：多名國家隊隨隊成員未獲簽證 美國違背國際體育規則】據伊朗國家通訊社6日報道，伊朗足球協會就多名國家隊隨隊成員未獲美國簽證一事發表宣告，指出美國作為2026年美加墨世界盃東道主，透過有歧視性和針對性的方式對待伊朗國家足球隊，製造了不公平、不平等的環境，此舉是對體育的嚴重政治干預。伊朗足協在宣告中稱：“世界盃開賽前夕，美國政府以不符合體育精神且完全出於政治動機的決定，拒絕向伊朗國家足球隊重要的管理和行政人員發放簽證，該決定違背國際體育規則。對此，伊朗足球協會已透過國際足聯（FIFA）進行交涉，FIFA作為主管機構，有責任持續跟進，直至完成相關人員的簽證辦理工作。”
-
----
-
-### 2026-06-06 21:18:17  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【US media: Israel set up bases in multiple countries around Iran】CNN, citing multiple unnamed sources, reported on June 5 that Israel had established bases in several countries around Iran to support operations against Tehran. The report says Israel and the US secretly established multiple sites in Azerbaijan weeks before the Feb. 28 strike on Iran; the closest site was about 90 km from Iran’s northwestern city of Tabriz. Dozens of Israeli personnel — special forces, heliborne units and intelligence staff — were deployed to collect Iranian military intelligence, conduct search-and-rescue for downed aircrew and provide early warning for missile launches.
-
----
-
-### 2026-06-06 21:17:49  #國際
-
-【伊朗外交部譴責美軍多次違反停火協議】當地時間6日，伊朗外交部發表宣告，強烈譴責美國軍隊當日凌晨對伊朗南部錫裡克地區和格什姆島的雷達和海岸監視設施發動軍事襲擊。這些設施的任務是保護伊朗邊境安全和國際水道航運安全。此次襲擊公然違反了停火協議，是對伊朗國家主權和領土完整的軍事侵略。宣告表示，此次行動是美國對伊朗持續敵對和挑釁行為的又一例證，表明美國完全無視國際法基本原則和《聯合國憲章》。伊朗強大的武裝力量，在固有的合法自衛權框架內，以高度警惕、堅定決心和權威，對這一侵略行為作出了相稱且有效的回應，挫敗了此次侵略策劃者的圖謀。宣告稱，美國一再違反停火協議，再次證明該國不僅沒有緩和緊張局勢、重回穩定軌道的意願，而且其冒險行徑也對地區安全構成嚴重威脅。美國政府將對這些非法行徑的一切後果以及任何可能的緊張局勢升級負全部責任。伊朗外交部強調，根據《聯合國憲章》，伊朗擁有固有的合法自衛權，並將竭盡全力捍衛國家主權、安全和利益。伊朗外交部強烈呼籲本地區各國恪守睦鄰友好原則，並堅持國際法基本原則，即不得允許侵略者利用地區國家領土和設施策劃並實施針對伊朗的侵略行動。伊朗外交部呼籲聯合國秘書長、安理會及其他相關國際機構應立即應對美國持續公然違反停火協議和非法行徑，並防止這些威脅地區及國際和平與安全的行為日益常態化。
-
----
-
-### 2026-06-06 21:11:31  #MKT News
-
-Iranian Students' News Agency reported Pakistan's interior minister has departed for Tehran.
-
----
-
-### 2026-06-06 21:03:35  #其他
-
-諾和諾德：接受司美格魯肽2毫克治療的患者中，60.5%在1年後體重減輕≥5%，接受替拉帕肽治療的患者中，55.3%在1年後體重減輕≥5%。
-
----
-
-### 2026-06-06 21:03:16  #其他
-
-諾和諾德：接受司美格魯肽2毫克治療的患者中，74.7%在1年後達到糖化血紅蛋白（HbA1c）<7%的目標；接受替拉帕肽治療的患者中，75.1%在1年後達到糖化血紅蛋白（HbA1c）<7%的目標。
-
----
-
-### 2026-06-06 21:00:44  #其他
-
-【廣東召開2026年全省大灣區辦工作會議】據廣東省發展改革委訊息，6月5日，2026年全省大灣區辦工作會議在廣州召開。會議傳達中央區域協調發展領導小組第四次全體會議和省推進粵港澳大灣區建設領導小組第十一次會議精神，全面總結近年來我省推進粵港澳大灣區建設的工作成效，研究部署下一階段重點任務。會議要求，要聚焦重大戰略任務，攜手港澳推動大灣區建設再上新臺階。一是持續深化產業科技合作，構建雙向互動的科創合作體系，推動粵港澳三地協同育才引才用才，加快建設具有國際競爭力的現代化產業體系，培育國際競爭合作新優勢。二是持續強化全方位互聯互通，不斷完善基礎設施高效網際網路絡，深化規則銜接機制對接，加快構建宜居宜業宜遊優質生活圈，有效提升大灣區市場一體化水平。三是持續建強重大合作平臺，準確把握平臺功能定位，充分發揮平臺試驗示範作用，因地制宜與港澳探索共建特色合作平臺，“以點帶面”引領粵港澳全面合作。四是持續深化大灣區內地九市內涵式發展，堅持機制先行、最佳化要素配置、注重兩岸融合，率先探索彰顯灣區特色的城市群發展路徑。
-
----
-
-### 2026-06-06 20:57:09  #國際
-
-伊朗外交部表示，美國需為其“非法行動”造成的一切後果以及局勢進一步升級承擔全部責任。
-
----
-
-### 2026-06-06 20:56:21  #國際
-
-伊朗外交部表示，多次違反停火協議的行為表明美國無意緩和局勢。
-
----
-
-### 2026-06-06 20:55:47  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran foreign ministry condemns US strikes on Sirik region and Qeshm Island as ceasefire violations】Iran's foreign ministry condemned U.S. military strikes on radar and coastal surveillance facilities in the Sirik region and Qeshm Island, calling them a blatant violation of the ceasefire and an act of military aggression against Iran's sovereignty and territorial integrity. The ministry said repeated U.S. breaches indicate Washington is not seeking de‑escalation, warn that such risky actions endanger regional security, and assign responsibility for any consequences or escalation to the U.S. It affirmed Iran's inherent right of self‑defense and said it will use all available capabilities and resources to defend its sovereignty, security and national interests.
-
----
-
-### 2026-06-06 20:55:40  #國際
-
-伊朗外交部表示，美國對錫裡克地區和格什姆島的雷達及海岸監視設施發動的襲擊違反了4月8日的停火協議。
-
----
-
-### 2026-06-06 20:51:29  #MKT News #WTI
-
-RIA reported that a fire at an oil refinery in Russia's Tyumen region has been extinguished.
-
----
-
-### 2026-06-06 20:50:20  #國際
-
-俄羅斯秋明州煉油廠大火已被撲滅。
-
----
-
-### 2026-06-06 20:34:57  #公司
-
-【凱越機車闢謠吞張雪股份、多次求張雪救命等資訊】有傳言稱 "凱越機車資金鍊斷裂即將破產"、"凱越撐不住了多次求張雪救命"、"凱越銷量跌三成，嚴凱急了找張雪"、"凱越最大的敗筆，不是沒留住張雪，而是連他 36% 的股份都吞完" 等。凱越機車釋出宣告：針對近期網路平臺上集中出現的關於凱越機車及董事長嚴凱先生的一系列不實言論和惡意造謠資訊，我司在此鄭重宣告：所有傳言均為無中生有、蓄意捏造，純屬惡意抹黑。
-
----
-
-### 2026-06-06 20:32:53  #MKT News
-
-Iran's industry minister Saeed Mohammad Atabak met Belarusian officials to press for expanded industrial, trade and logistics cooperation, focusing on joint production, machinery supplies and transport development.
-
----
-
-### 2026-06-06 20:27:59  #MKT News
-
-【Pakistan interior minister visits Iran to push new interim US-Iran proposal】Pakistani sources say Interior Minister Mohsin Naqvi visited Iran on Saturday to present a new proposal aimed at breaking the US-Iran deadlock and securing an interim agreement. Talks are expected to focus on restoring a second round of negotiations between Washington and Tehran; the visit is part of Pakistan’s mediation effort to help reach a broader deal and end the US-Iran conflict.
 
 ---

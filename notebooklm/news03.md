@@ -1,7 +1,337 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 20:27:45_
-_本檔包含 3700 則快訊，約 666175 字_
+_更新時間：2026-06-13 21:49:51_
+_本檔包含 3699 則快訊，約 667611 字_
+
+---
+
+### 2026-06-11 02:49:54  #公司
+
+塞爾維亞能源部長表示，塞爾維亞已完成與匈牙利摩爾集團（MOL）就塞爾維亞石油工業公司（NIS）股東協議的談判。
+
+---
+
+### 2026-06-11 02:48:38  #國際
+
+美國參議員伊麗莎白·沃倫要求美國證券交易委員會暫緩推進SpaceX的首次公開募股。
+
+---
+
+### 2026-06-11 02:46:51  #公司 #觀點 #國際
+
+【特朗普大讚花旗併購顧問排名居首 但首位並非花旗】美國總統特朗普突然熱衷於併購話題，出人意料地點名稱讚花旗集團執行長Jane Fraser。特朗普大談一項備受投行人士看重的指標，祝賀花旗在併購顧問業務方面排名第一。不過，目前尚不清楚總統依據哪份排名榜將花旗排在首位。帖子釋出後，花旗股價一度躍升。“哇！花旗第一季度按交易金額計算，在併購顧問市場排名第一，”特朗普週三上午發帖稱，“祝賀Jane F和她所有優秀的員工。他們真的非常努力！花旗大逆轉！！！”特朗普發帖前不久，福克斯商業頻道週三上午播出了一檔電視節目，主持人Maria Bartiromo採訪了花旗資深銀行家Leon Kalvaria。畫面上的資訊條顯示，花旗第一季度在電力行業併購交易顧問市場排名第一 —— 這只是整體併購市場中的一小部分。
+
+---
+
+### 2026-06-11 02:44:32  #MKT News
+
+GM (GM.N) battery head Kurt Kelty said the automaker’s future EVs may not adopt low-cost LFP (lithium iron phosphate) batteries. A Tennessee plant will begin producing LFP cells for energy-storage systems this month; those cells are not intended for electric vehicles.
+
+---
+
+### 2026-06-11 02:43:59  #其他
+
+通用汽車電池主管凱爾蒂表示，田納西工廠將於本月啟動磷酸鐵鋰電池的生產，該電池將用於儲能系統而非電動汽車。
+
+---
+
+### 2026-06-11 02:43:46  #MKT News
+
+India exempted excise duty on gasoline with higher ethanol blends, according to an official notice.
+
+---
+
+### 2026-06-11 02:43:42  #其他
+
+通用汽車電池主管凱爾蒂表示，通用汽車未來電動汽車或不採用低成本磷酸鐵鋰（LFP）電池。
+
+---
+
+### 2026-06-11 02:43:05  #國際
+
+印度對高比例乙醇混合汽油免徵消費稅。
+
+---
+
+### 2026-06-11 02:42:08  #MKT News #XAUUSD #Impact bullish #WTI #Impact mixed #DXY
+
+【U.S. media: Iran and U.S. officials continue talks via Qatar channel】Axios reports Iran and U.S. officials continue negotiations via Qatari intermediaries despite recent exchanges of fire. Over the past two days Iranian and U.S. officials held parallel meetings in Doha with Qatari mediators. Qatar attempted to convene a trilateral session to resolve remaining differences directly; Iran declined. Qatari mediators traveled to Tehran on Wednesday to meet Iran’s foreign minister and other officials to try to revive talks. Two U.S. officials said they hoped Tuesday’s strike would prompt Iran to act and respond to Trump’s proposal, and that Trump’s threats are part of the same pressure strategy. One U.S. official said: "The deal remains on the table, but if Iran continues to delay and respond passively, the president is ready to make Iran pay."
+
+---
+
+### 2026-06-11 02:41:37  #國際
+
+特朗普不會出席週三晚間的NBA總決賽賽事，但在第四場開打前，官方仍會在麥迪遜廣場花園周邊多個街區設定安保警戒區。
+
+---
+
+### 2026-06-11 02:39:13  #國際
+
+伊朗拒絕與美國和卡達舉行三方會談。
+
+---
+
+### 2026-06-11 02:39:04  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Fall More Than 1% — US stocks extended their losses on Wednesday, with the S&P 500 falling 1.1%, the Nasdaq declining 1.3%, and the Dow Jones plunging 660 points. Investor sentiment remained under pressure as renewed tensions in the Middle East drove oil prices higher. President Trump reiterated threats of a forceful response against Iran, stating that Tehran had taken too long to negotiate a deal. Technology and semiconductor stocks also came under renewed selling pressure amid persistent concerns about elevated AI-related valuations and growing investor caution ahead of SpaceX's highly anticipated IPO on Friday. Among the notable decliners, Nvidia fell 2.9%, Broadcom dropped 3.7%, AMD lost 4.5%, and Micron Technology slid 4.1%, while Tesla retreated 3.4%. Industrial stocks were likewise hit by broad-based selling. On the economic front, the latest CPI report showed that US annual inflation accelerated to 4.2% in May. However, core inflation rose by a softer-than-expected 0.2% on a monthly basis.
+
+---
+
+### 2026-06-11 02:38:01  #央行 #其他
+
+墨西哥央行：墨西哥銀行體系的資本充足率與流動性水平均高於監管最低要求。
+
+---
+
+### 2026-06-11 02:37:50  #公司
+
+凱雷集團首席財務官表示，目前公司坐擁創紀錄規模的待投資資本金，正積極開展投資佈局。
+
+---
+
+### 2026-06-11 02:36:50  #MKT News
+
+AXIOS reported, citing a regional source, that Iranian and U.S. officials held separate parallel talks in Doha with Qatari mediators over the past two days. Qatar sought a trilateral meeting to negotiate remaining differences directly, but Iran declined.
+
+---
+
+### 2026-06-11 02:36:35  #央行 #其他
+
+墨西哥央行：今年第一季度，墨西哥經濟非金融部門融資總額按實際年度計算達到GDP的103.9%。
+
+---
+
+### 2026-06-11 02:36:16  #焦點 #國際
+
+伊朗和美國官員在多哈與卡達調解人舉行了會談。
+
+---
+
+### 2026-06-11 02:36:04  #MKT News #ORCL.N #Impact bullish
+
+The Trump administration announced Oracle (ORCL.N) won a U.S. government contract to provide human-resources software.
+
+---
+
+### 2026-06-11 02:35:57  #國際
+
+甲骨文中標美國政府人力資源軟體採購合同。
+
+---
+
+### 2026-06-11 02:35:35  #MKT News
+
+Carlyle Group CFO said the global economy has been surprisingly resilient given events since 2026.
+
+---
+
+### 2026-06-11 02:35:19  #央行 #其他
+
+墨西哥央行：壓力測試證實，墨西哥銀行體系具備充足資本應對不利情景。
+
+---
+
+### 2026-06-11 02:35:17  #MKT News #Market Themes #AI Revolution
+
+Anthropic CEO Dario Amodei said governments should have the authority to halt the release of new AI models.
+
+---
+
+### 2026-06-11 02:35:07  #公司
+
+凱雷集團首席財務官賈斯汀·普魯夫表示，考慮到2026年迄今為止發生的所有事件，全球經濟展現出的韌性實際上相當出人意料。
+
+---
+
+### 2026-06-11 02:34:48  #MKT News #Market Themes #AI Revolution
+
+Anthropic CEO Amodei urged regulators to implement stricter AI safety oversight.
+
+---
+
+### 2026-06-11 02:34:18  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #GOOGL.O #CRM.O
+
+DDN, a data hardware and software supplier, plans a new funding round by year-end, CEO Alex Bouzari said. The company partners with NVIDIA and counts Google and Salesforce among its customers.
+
+---
+
+### 2026-06-11 02:33:57  #央行 #其他
+
+墨西哥央行在金融穩定報告中表示，墨西哥金融體系具備韌性且基本面穩健。
+
+---
+
+### 2026-06-11 02:33:45  #公司
+
+Anthropic執行長阿莫迪表示，政府應有權叫停新AI模型。阿莫迪在公司釋出的文章中闡述了相關安全防護舉措。
+
+---
+
+### 2026-06-11 02:32:45  #國際
+
+惠譽評級：美國零售業破產案例顯示覆蘇乏力，清算率居高不下。
+
+---
+
+### 2026-06-11 02:31:23  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
+
+【Night session main contracts close】At the night session close at 02:30, SHFE gold main contract fell 3.37% to 899 yuan/gram, SHFE silver main contract fell 1.08% to 15,604 yuan/kg, and Shanghai crude (SC) main contract rose 1.94% to 584 yuan/barrel.
+
+---
+
+### 2026-06-11 02:31:14  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D closed down 2.19% at 896.69 yuan/gram in Wednesday evening trade on June 10; silver T+D closed up 0.17% at 15,564.0 yuan/kg.
+
+---
+
+### 2026-06-11 02:30:50  #市場 #焦點 #國際
+
+美國原油期貨收於每桶90.03美元，上漲1.83美元，漲幅2.07%。
+
+---
+
+### 2026-06-11 02:30:01  #市場
+
+上期所原油期貨夜盤收漲1.94%，報584.20元人民幣/桶。滬金夜盤收跌3.37%，滬銀收跌1.08%。
+
+---
+
+### 2026-06-11 02:29:17  #國際
+
+美國官員：特朗普因伊朗拖延兩週未回應相關提議心生不滿。
+
+---
+
+### 2026-06-11 02:26:15  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Rises Above $93 — Brent extended gains and rose more than 2% to $93 a barrel on Wednesday as traders weighed escalating tensions in the Middle East. President Trump vowed to attack Iran very hard again and said that Iran had taken too long to negotiate a deal and would now “have to pay the price”. The comments follow Iranian attacks on several Gulf nations, including Bahrain, Jordan, and Kuwait, after US “self-defense strikes” in response to the downing of an American helicopter. Traffic through the Strait of Hormuz remains significantly disrupted, with Iran blocking most shipping through the key waterway, while the US has imposed its own restrictions on Iranian ports. However, US Energy Secretary Wright said vessel traffic in the Gulf and oil exports through the Strait are rising despite ongoing disruptions. Meanwhile, EIA data showed US crude inventories fell by 7.228 million barrels last week, a seventh consecutive weekly decline and surpassing expectations for a 4 million barrel draw.
+
+---
+
+### 2026-06-11 02:25:22  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Prices extend Gains — Crude oil extended gains and rose more than 2% to approach $91 a barrel on Wednesday as traders weighed escalating tensions in the Middle East. President Trump vowed to attack Iran very hard again and said that Iran had taken too long to negotiate a deal and would now “have to pay the price”. The comments follow Iranian attacks on several Gulf nations, including Bahrain, Jordan, and Kuwait, after US “self-defense strikes” in response to the downing of an American helicopter. Traffic through the Strait of Hormuz remains significantly disrupted, with Iran blocking most shipping through the key waterway, while the US has imposed its own restrictions on Iranian ports. However, US Energy Secretary Wright said vessel traffic in the Gulf and oil exports through the Strait are rising despite ongoing disruptions. Meanwhile, EIA data showed US crude inventories fell by 7.228 million barrels last week, a seventh consecutive weekly decline and surpassing expectations for a 4 million barrel draw.
+
+---
+
+### 2026-06-11 02:25:19  #焦點 #國際
+
+伊朗議會國家安全委員會主席：我們從不畏懼與手下敗將交手。 美軍實際傷亡人數遠高於特朗普公佈的資料，且傷亡數字還會繼續攀升。 這一次，戰火不會侷限於該區域。 我們拭目以待！
+
+---
+
+### 2026-06-11 02:25:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Falls by 2.27% — Top commodity losers are Cocoa (-2.27%) and Sugar (-1.21%). Gains are led by Butter (1.90%), Coffee (1.74%) and Rapeseed (1.54%).
+
+---
+
+### 2026-06-11 02:22:52  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+Chairman of Iran's parliamentary National Security and Foreign Policy Commission: This time the war will not be confined to the region.
+
+---
+
+### 2026-06-11 02:22:06  #焦點 #國際
+
+伊朗議會國家安全委員會主席：此次戰事將不會侷限於該地區。
+
+---
+
+### 2026-06-11 02:21:14  #央行 #國際
+
+美聯儲稱主席沃什將於當地時間6月17日召開FOMC新聞釋出會。
+
+---
+
+### 2026-06-11 02:21:13  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O
+
+Google says Lightning Engine for its managed Apache Spark service now supports both serverless and managed-cluster deployment modes.
+
+---
+
+### 2026-06-11 02:20:57  #公司
+
+谷歌：面向Apache Spark託管服務的Lightning Engine現已支援無伺服器與託管叢集兩種部署模式。
+
+---
+
+### 2026-06-11 02:20:44  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish
+
+Google (GOOG.O) has made Lightning Engine for its managed Apache Spark service generally available.
+
+---
+
+### 2026-06-11 02:20:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Gold Drops by 3.49% — Top commodity losers are Gold (-3.49%), Platinum (-1.51%) and Copper (-1.10%). Gains are led by Silicon (3.21%), Iron Ore CNY (1.51%) and Lithium Carbonate (1.22%).
+
+---
+
+### 2026-06-11 02:20:12  #公司
+
+谷歌：適用於Apache Spark託管服務的Lightning Engine現已全面可用。
+
+---
+
+### 2026-06-11 02:19:21  #其他
+
+小米MiMo：MiMo Code V0.1現已正式釋出並開源，內建MiMo V2.5多模態模型，限時免費開放使用，具備100萬Token上下文視窗。
+
+---
+
+### 2026-06-11 02:18:39  #其他
+
+【巴西聖保羅州一小型飛機墜毀致兩死一傷】巴西聖保羅州內陸城市馬裡利亞10日發生一起小型飛機墜毀事故，造成兩人死亡、一人受傷。 據當地政府部門和機場運營方釋出的訊息，失事飛機為一架私人飛機。當天11時左右從該市機場起飛後不久墜毀，墜落地點位於機場附近區域。事故原因正在調查中。 巴西消防部門說，機上載有三人，其中兩人當場死亡，另一人獲救後被送醫治療。 巴西國家民航局稱，據巴西航空器登記系統記錄，該飛機適航狀態正常。
+
+---
+
+### 2026-06-11 02:18:31  #MKT News #Star Stocks #Xiaomi
+
+Xiaomi MiMo announced MiMo Code V0.1 is officially released and open-sourced. It integrates the MiMo V2.5 multimodal model, is available free for a limited time and supports a 1,000,000-token context window.
+
+---
+
+### 2026-06-11 02:18:08  #宏觀 #國際
+
+Anthropic：只有當美國國會出臺至少與科羅拉多州先進人工智慧框架監管力度相當的聯邦法律時，才應優先於州級法律適用。
+
+---
+
+### 2026-06-11 02:17:00  #其他
+
+Anthropic：新型高階AI監管框架提議按企業全球年度營收設定民事處罰標準，屢犯者處罰力度逐級加重。
+
+---
+
+### 2026-06-11 02:15:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Gains by 4.19% — Top commodity gainers are Natural Gas UK (4.19%), Natural Gas EU (3.76%), Gasoline (3.20%), Crude Oil WTI (2.69%) and Brent Crude Oil (2.36%).
+
+---
+
+### 2026-06-11 02:15:00  #其他
+
+SpaceX 750億美元IPO即將登場，分析師警告比特幣市場或面臨流動性流失。
+
+---
+
+### 2026-06-11 02:14:43  #其他
+
+SpaceX在IPO承銷團隊安排中僅給部分銀行分配次要席位，引發這些銀行不滿。
+
+---
+
+### 2026-06-11 02:14:21  #宏觀 #國際
+
+【美國5月關稅收入與退款幾乎持平】美國財政部當地時間週三表示，美國政府5月份的關稅淨收入大約為零。財政部資料顯示，美國政府當月徵收了220億美元關稅，與2025年5月大致相同。但與此同時，美國政府也支付了220億美元關稅退款。本財年（自2025年10月1日起）迄今，關稅淨收入為1890億美元，高於上年同期的810億美元。美國財政部表示，經日曆因素調整後，本財年前八個月的預算赤字較上年同期減少2%，約合240億美元。
+
+---
+
+### 2026-06-11 02:14:10  #MKT News
+
+【U.S. May tariff collections roughly matched refunds】The U.S. Treasury said on Wednesday net tariff revenue for May was roughly zero. Collections totaled $22bn, about the same as May 2025, while refunds also amounted to $22bn. Fiscal-year-to-date (since Oct. 1, 2025) net tariff receipts are $189bn, versus $81bn a year earlier. The Treasury said the budget deficit for the first eight months of the fiscal year, adjusted for calendar factors, is about 2% smaller year-on-year, roughly $24bn.
 
 ---
 
@@ -21953,341 +22283,5 @@ Meta：今後將利用企業已向該公司提供的資料，最佳化資訊流�
 ### 2026-06-09 23:01:59  #MKT News #Important
 
 By the 23:00 close China's main futures contracts were mostly lower: LPG fell about 4%, fuel oil dropped nearly 3%; low-sulfur fuel oil (LU), propylene and polypropylene declined more than 2%; PET bottle chips, styrene (EB) and ethylene glycol (EG) were down around 2%. Caustic soda rose about 1%.
-
----
-
-### 2026-06-09 23:01:09  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #WTI
-
-U.S. Embassy in Jerusalem said the shelter-in-place order for U.S. government employees and their families has been lifted.
-
----
-
-### 2026-06-09 23:01:05  #MKT News #BA.N #Impact bullish
-
-Boeing (BA.N) had 295 net aircraft orders through May after cancellations.
-
----
-
-### 2026-06-09 23:00:17  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Rises by 0.66% — Top currency gainers are Brazilian Real (0.66%), Indian Rupee (0.48%), British Pound (0.47%) and Euro (0.29%). Biggest loser is Dollar Index (-0.23%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-06-09 23:00:16  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Home Depot Stock Price Hits 4-week High — Home Depot shares increased to 322.12 USD, the highest since May 2026. Over the past 4 weeks, Home Depot gained 3.29%, and in the last 12 months, it decreased 12.57%.
-
----
-
-### 2026-06-09 23:00:02  #市場
-
-【夜盤期貨收盤】液化石油氣連續跌3.99%，燃料油連續跌2.95%，低硫燃料油連續跌2.65%，聚丙烯連續跌2.02%，苯乙烯連續跌1.77%。
-
----
-
-### 2026-06-09 22:59:57  #公司
-
-波音公司：截至5月31日官方訂單積壓量為6,178架，截至4月30日為6,216架。截至5月，在計入取消訂單後，共獲得295架飛機訂單。5月交付60架飛機，包括51架737 MAX和6架787客機。
-
----
-
-### 2026-06-09 22:59:54  #MKT News #BA.N
-
-Boeing (BA.N) delivered 60 aircraft in May, including 51 737 MAX aircraft and six 787 jets.
-
----
-
-### 2026-06-09 22:59:30  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-Treasury Yields Edge Down — The yield on the US 10-year Treasury note fell to 4.54% on Tuesday, retreating from near three-week highs reached in the previous session. The decline was supported by lower oil prices after Israel and Iran agreed to halt attacks, while President Trump signalled that a deal with Tehran could be reached within days. Investors are also focused on Wednesday’s US CPI report for fresh clues on the inflation outlook. Recent economic indicators have continued to point to a resilient US economy and labour market, following last week's stronger-than-expected jobs report. Also, existing home sales increased more than anticipated, while the trade deficit narrowed as exports climbed to a record high. Markets continue to price an increase in borrowing costs by the Fed this year, with the probability of a rate hike as early as October currently estimated at around 51%. Meanwhile, the yield on the more policy-sensitive 2-year Treasury note fell by 2bps to 4.15%.
-
----
-
-### 2026-06-09 22:58:45  #宏觀 #行業
-
-【蘇州：堅定不移招大引強、培優育強，充分釋放服務業發展潛能】6月9日，蘇州市服務業大會召開。蘇州市委書記範波強調，要突出需求牽引，推進生產性服務業向專業化和價值鏈高階延伸，促進生活性服務業高品質多樣化便利化發展，啟用文旅體消費新活力，堅定不移招大引強、培優育強，充分釋放服務業發展潛能。要突出改革攻堅，強化要素保障，最佳化營商環境，深化區域協調，不斷激發內生動力。要突出科技賦能，將數字技術、綠色技術運用於服務全鏈條，實施“人工智慧+”行動，推動智慧經濟、平臺經濟、綠色經濟加快發展。要突出開放合作，主動對接國際高標準經貿規則，有序推進服務市場開放、服務貿易發展，培育外貿新動能、開拓引資新空間、提升樞紐新功能。要全面加強黨的領導，牢固樹立和踐行正確政績觀，充分調動各方面積極性主動性創造性，不斷提高謀劃和推進服務業發展的能力本領，改革創新、真抓實幹，奮力開創蘇州服務業高質量發展新局面。（蘇州釋出）
-
----
-
-### 2026-06-09 22:57:18  #Trading Economics #Markets #commodity #Importance 0
-
-Aluminum Hits 4-week Low — Aluminum decreased to 3545.00 USD/T, the lowest since May 2026. Over the past 4 weeks, Aluminum lost 0.86%, and in the last 12 months, it increased 42.34%.
-
----
-
-### 2026-06-09 22:54:23  #央行 #歐洲央行
-
-歐洲STOXX600指數轉跌，此前曾上漲0.8%。
-
----
-
-### 2026-06-09 22:53:57  #MKT News #DAX #Impact bearish #EURUSD #DXY #Impact bullish
-
-Stoxx Europe 600 turned negative after earlier gains of up to 0.8%.
-
----
-
-### 2026-06-09 22:53:11  #Trading Economics #Economy #Kenya #Interest Rate #Importance 1
-
-Kenya Holds Key Policy Rate for 2nd Meeting — The Central Bank of Kenya left its benchmark interest rate at 8.75% on June 9, 2026, a second straight hold, saying policy remains appropriate to anchor inflation expectations and support exchange rate stability. Inflation rose for a third month to 6.7% in May, the highest since January 2024, driven by higher energy costs but remaining within the 5±2.5% target band. It is expected to stay within target in the near term, assuming the de-escalation of the Middle East conflict. The central bank said that support for the outlook will come from monetary policy actions, government measures such as fuel VAT cuts and subsidies, stable food prices driven by favorable weather, and exchange rate stability.
-
----
-
-### 2026-06-09 22:51:28  #市場 #國際
-
-斯托克歐洲600指數抹去漲幅。
-
----
-
-### 2026-06-09 22:50:53  #公司 #國際
-
-美國銀行執行長：美國銀行市場業務趨勢好於15%的預期。
-
----
-
-### 2026-06-09 22:50:31  #MKT News #BAC.O #Impact bullish
-
-BofA says its investment banking business is in good shape.
-
----
-
-### 2026-06-09 22:49:27  #市場
-
-標普500指數跌幅擴大至0.5%。
-
----
-
-### 2026-06-09 22:48:59  #市場 #焦點
-
-現貨黃金失守4280美元/盎司，日內跌1.15%。
-
----
-
-### 2026-06-09 22:48:46  #市場 #焦點
-
-納指跌1.00%，現報25669.623點；道指跌0.01%，現報50781.539點；標普500指數跌0.45%，現報7372.420點。
-
----
-
-### 2026-06-09 22:48:39  #其他
-
-納斯達克100指數跌幅擴大至1%。
-
----
-
-### 2026-06-09 22:47:16  #國際
-
-美國國家颶風中心表示，熱帶風暴克里斯蒂娜正在尼加拉瓜西北部海岸附近徘徊，預計未來幾天中美洲部分地區將出現暴雨洪水。
-
----
-
-### 2026-06-09 22:46:28  #市場
-
-現貨白銀日內跌4%，現報65.37美元/盎司。
-
----
-
-### 2026-06-09 22:45:46  #國際
-
-美國能源部長賴特：越來越多的委內瑞拉原油流入美國煉油廠。
-
----
-
-### 2026-06-09 22:45:13  #其他
-
-【佈局“AI+能源” 南通三年行動方案出爐】據南通釋出，近日，南通市發展改革委印發《南通市加快“人工智慧+能源”融合發展三年行動方案》（以下簡稱“方案”）。方案同步釋出了“人工智慧+能源”領域已建成、在建、擬建等31個典型應用場景培育名單，涵蓋智慧電網、新能源運維、能源新興業態、火電智慧執行、油氣安全管理等關鍵領域智慧化升級。方案提出，到2028年，推動2個左右垂直領域專業大模型在能源行業深度應用，培育塑造10個以上有競爭力、可推廣、易複製的實踐案例和典型應用場景，形成具有南通特色的能源領域人工智慧創新發展新模式。
-
----
-
-### 2026-06-09 22:44:47  #市場 #焦點
-
-紐約期金失守4310美元/盎司，日內跌1.23%。
-
----
-
-### 2026-06-09 22:44:46  #MKT News #Commodities #Precious Metals
-
-SHFE most-active silver contract fell 4.00% intraday to 15,767.00 yuan/kg.
-
----
-
-### 2026-06-09 22:44:38  #市場 #焦點
-
-現貨黃金失守4290美元/盎司，日內跌0.95%。
-
----
-
-### 2026-06-09 22:44:33  #市場 #焦點
-
-白銀連續主力合約日內跌4%，現報15767.00元。
-
----
-
-### 2026-06-09 22:44:20  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-China's precious metals futures extended losses: Shanghai silver most-active contract fell more than 3% to 15,829 yuan/kg, while Shanghai gold most-active contract dropped nearly 1% to 940.46 yuan/g.
-
----
-
-### 2026-06-09 22:44:10  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slid to $4,300/oz, down 0.69% intraday. Spot silver fell 3.5%.
-
----
-
-### 2026-06-09 22:43:43  #市場
-
-紐約期銀日內跌4%，現報65.82美元/盎司。
-
----
-
-### 2026-06-09 22:43:41  #市場 #焦點
-
-紐約期金失守4320美元/盎司，日內跌0.99%。
-
----
-
-### 2026-06-09 22:43:18  #市場 #焦點
-
-現貨黃金失守4300美元/盎司，日內跌0.71%。
-
----
-
-### 2026-06-09 22:43:13  #市場 #焦點
-
-紐約期銀失守66美元/盎司，日內跌3.78%。
-
----
-
-### 2026-06-09 22:42:31  #市場 #焦點
-
-現貨白銀失守66美元/盎司，日內跌3.15%。
-
----
-
-### 2026-06-09 22:42:25  #公司
-
-【中國石油：選舉戴厚良為董事長】中國石油(601857.SH)公告稱，公司第十屆董事會第一次會議審議透過選舉戴厚良為董事長、周心懷為副董事長，並聘任任立新為總裁，張道偉、宋大勇為高階副總裁，王華為董事會秘書及財務總監，楊衛勝為副總裁、總工程師，楊立強、戴琴榮、王國鋒為副總裁，江同文為總地質師，沈復孝為安全總監，趙穎為總法律顧問。
-
----
-
-### 2026-06-09 22:42:01  #市場
-
-現貨白銀日內跌3%，現報66.10美元/盎司。
-
----
-
-### 2026-06-09 22:41:35  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【US energy secretary says vessel traffic through Strait of Hormuz rising sharply】US Energy Secretary Wright said on Tuesday that, with the conflict with Iran ongoing, vessel traffic through the Strait of Hormuz is rising sharply. Speaking at an Atlantic Council meeting, he added that energy supplies would take several months to return to normal after the war ends.
-
----
-
-### 2026-06-09 22:40:17  #公司 #國際
-
-美國銀行執行長：儘管中東局勢衝突，我仍對併購儲備專案前景持樂觀態度。
-
----
-
-### 2026-06-09 22:39:31  #市場 #焦點
-
-白銀連續主力合約日內跌3%，現報15930.00元。
-
----
-
-### 2026-06-09 22:36:24  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Israel Defense Forces chief of staff says Iran's attempt to set new rules will fail.
-
----
-
-### 2026-06-09 22:36:23  #國際
-
-以色列國防軍參謀長：伊朗試圖制定新規則的企圖將會失敗。
-
----
-
-### 2026-06-09 22:36:06  #市場
-
-紐約期銀日內跌3%，現報66.52美元/盎司。
-
----
-
-### 2026-06-09 22:35:02  #其他
-
-市場訊息：NUVEI正洽談以約27億美元收購Payoneer。
-
----
-
-### 2026-06-09 22:33:42  #國際
-
-美國能源部長賴特：霍爾木茲海峽和波斯灣的石油出口將會上升。
-
----
-
-### 2026-06-09 22:33:42  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
-
-【U.S. existing-home sales rise to highest level this year, beat expectations】U.S. existing-home sales rose 3.2% MoM in May to a seasonally adjusted annual rate of 4.17 mln units, the highest pace this year, the National Association of Realtors said.
-
----
-
-### 2026-06-09 22:33:21  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary Wright said oil exports from the Strait of Hormuz and the Persian Gulf will increase.
-
----
-
-### 2026-06-09 22:32:15  #國際
-
-資料中心開發商Crusoe暫停位於美國懷俄明州（Wyoming）的AI專案。
-
----
-
-### 2026-06-09 22:32:02  #Trading Economics #Markets #Commodity #Importance 0
-
-Sugar Futures at Over 1-Week Low — Sugar futures in the US eased to just below 14.1 US cents, the lowest since late May, partly influenced by falling oil prices and the ongoing weakness in the Brazilian real. The strong performance of the 2026/27 sugarcane harvest is also putting pressure on prices, due to increased supply and growing inventories. The Brazilian Sugarcane and Bioenergy Industry Association (UNICA) reported that sugar production in Brazil's Center-South region reached 2.475 million tons in April of the 2026/27 crop year, a volume 55.3% higher than that recorded in the same period of the previous cycle. Strength in Thailand’s sugar exports, the world’s second-largest, also reinforced the perception of a comfortable supply.. However, concerns persisted about the impact of the El Niño weather phenomenon on the upcoming global sugarcane harvest, particularly in Brazil, India and Thailand.
-
----
-
-### 2026-06-09 22:30:52  #市場
-
-現貨白銀日內跌2%，現報66.75美元/盎司。
-
----
-
-### 2026-06-09 22:30:32  #其他
-
-PAYONEER股價漲幅擴大至 25%。
-
----
-
-### 2026-06-09 22:30:12  #市場 #焦點
-
-紐約期銀失守67美元/盎司，日內跌2.39%。
-
----
-
-### 2026-06-09 22:30:10  #Trading Economics #Markets #commodity #Importance 0
-
-Gasoline Hits 7-week Low — Gasoline decreased to 2.99 USD/Gal, the lowest since April 2026. Over the past 4 weeks, Gasoline lost 16.62%, and in the last 12 months, it increased 44.06%.
-
----
-
-### 2026-06-09 22:29:34  #市場 #焦點
-
-現貨白銀失守67美元/盎司，日內跌1.70%。
-
----
-
-### 2026-06-09 22:28:53  #Trading Economics #Economy #United States #Wholesale Inventories #Importance 1
-
-US Wholesale Inventories Rise for Third Straight Month — US wholesale inventories rose 0.6% month-over-month to $940.3 billion in April 2026, following an upwardly revised 1.5% increase in March and slightly exceeding forecasts for a 0.5% gain. The increase marked the third consecutive monthly rise in wholesale stockpiles, although the pace slowed from March's increase, which was the strongest since August 2022. Compared with April 2025, total inventories were up 3.6%. The monthly increase for March was revised up from an initial estimate of 0.5% to 0.6%. Meanwhile, the inventory-to-sales ratio for merchant wholesalers stood at 1.19 in April, unchanged from the previous month.
-
----
-
-### 2026-06-09 22:27:58  #國際
-
-【六國制裁參與約旦河西岸暴力事件的定居者】英國外交部9日發表宣告說，英國、法國、澳大利亞、紐西蘭、加拿大和挪威六國將協同制裁在約旦河西岸參與暴力襲擊巴勒斯坦平民的猶太定居者。宣告說，英國此次對涉嫌資助、協助或實施有關暴力活動的6家實體和1名個人實施制裁，這些制裁物件涉及向以色列定居者農場和前哨站提供募集資金、輸送捐款、組織支援以及拆除建築等服務。宣告說，英方將首次在官方海外商業指引中明確建議企業避免在以色列定居點開展經濟和金融活動，還將追加100萬英鎊用於加沙人道主義排雷工作，並於2026年向巴勒斯坦民族權力機構提供至少1000萬英鎊的財政和技術支援。（新華社）
 
 ---
