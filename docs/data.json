@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-13 09:30:39",
+  "updated": "2026-06-13 09:34:40",
   "count": 18422,
   "items": [
+    {
+      "id": "mkt:019ebe9c-d8a4-7dd8-afe7-e88bb7178f00",
+      "time": "2026-06-13 09:33:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said Iran launched multiple one-way attack drones that attempted to strike commercial vessels transiting the Strait of Hormuz. U.S. forces shot down all the drones within hours; transit was not affected and the trade route remains open."
+    },
+    {
+      "id": "4933563",
+      "time": "2026-06-13 09:32:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方： 伊朗發射多架單向攻擊攻擊無人機，企圖襲擊途經霍爾木茲海峽的商船。美軍近數小時內將所有無人機全部擊落，海峽航運目前正常通行，這條國際貿易航道保持暢通。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606133770510071",
+      "time": "2026-06-13 09:31:41",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【專家：日本央行或上調利率以抑制通脹】據日本方面訊息，日本央行可能在本月15日到16日召開的貨幣政策會議上，將政策利率從目前的0.75%上調至1.0%。日本東短研究公司總裁加藤出認為，加息將給中小企業和普通日本家庭的生活帶來壓力，對於日元匯率的影響有待進一步觀察。如果繼續維持過低利率，恐怕會進一步助長通脹。"
+    },
+    {
+      "id": "mkt:019ebe9a-5536-7dd8-afe7-e749907b0f2e",
+      "time": "2026-06-13 09:30:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "AWS said Anthropic has asked it to revoke user access to Claude Fable 5 and Claude Mythos 5 across all regions. All other Anthropic models are unaffected."
+    },
     {
       "id": "4933562",
       "time": "2026-06-13 09:29:51",
@@ -169463,42 +169499,6 @@
         "其他"
       ],
       "text": "【千百度擬控股AI資料服務商本原智數，納入合併報表】千百度宣佈，將透過收購股權並認購新股，取得國內AI資料服務商本原智數的控股權益，並納入合併報表，形成鞋履+人工智慧資料雙主業。（新浪科技）"
-    },
-    {
-      "id": "4920709",
-      "time": "2026-06-06 09:33:36",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【國際移民組織：海地暴力升級致150萬人流離失所】國際移民組織駐海地負責人古德斯坦表示，受不斷升級的暴力事件影響，海地境內流離失所者已達150萬人，其中婦女和女童佔比過半。海地的流離失所危機正進入一個更加令人擔憂的階段。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e9a8f-4ffe-7665-830e-cb617f902025",
-      "time": "2026-06-06 09:32:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Europe & UK"
-      ],
-      "text": "【China-Europe freight train \"East Corridor\" traffic tops 3,000 trains this year】China-Europe freight train \"East Corridor\" traffic has exceeded 3,000 trains year-to-date. On June 6 a 55-wagon return train fully loaded with edible oil, auto tires and aluminum ingots entered China via the Manzhouli rail port in Inner Mongolia and proceeded to Wuhan Wujia Shan station."
-    },
-    {
-      "id": "4920706",
-      "time": "2026-06-06 09:31:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國舉行活動緬懷殉職維和人員】當地時間6月5日，聯合國舉行活動，緬懷多年來在聯合國維和行動中殉職的近4500名維和人員。自1948年以來，超過200萬聯合國維和人員先後參與71項聯合國維和行動。目前，超過5萬名維和人員參與11項聯合國維和行動，共有115個國家派出維和軍人和警察。（央視新聞）"
-    },
-    {
-      "id": "4920705",
-      "time": "2026-06-06 09:31:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中歐班列“東通道”今年通行量突破3000列】6月6日，一列編組55輛滿載食用油、汽車輪胎、鋁錠等貨品的回程中歐班列經由內蒙古滿洲里鐵路口岸入境，駛向武漢吳家山站，今年以來，中歐班列“東通道”通行班列已突破3000列。（央視新聞）"
     }
   ]
 }
