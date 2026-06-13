@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-13 22:01:43",
+  "updated": "2026-06-13 22:06:04",
   "count": 18421,
   "items": [
+    {
+      "id": "mkt:019ec14d-226f-7dd8-afeb-6e965046f1e3",
+      "time": "2026-06-13 22:05:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran schedules Khamenei funeral for July; media estimate attendance at 15–20 million】Iran on June 13 announced funeral arrangements for Supreme Leader Ali Khamenei. Farewell ceremonies will be held in Tehran July 4–5; a Tehran procession on July 6; a Qom procession on July 7; and a Mashhad procession on July 9, followed by burial at the Imam Reza shrine in Mashhad. Iranian media say attendance could reach 15–20 million, which would likely make it the largest state-organized event in the Islamic Republic’s history (Khomeini’s 1989 funeral drew about 10 million)."
+    },
     {
       "id": "4933886",
       "time": "2026-06-13 21:59:25",
@@ -169378,14 +169386,6 @@
         "MKT News"
       ],
       "text": "【Iran delegation: Attacks on nuclear facilities must not be normalized】At a special meeting of the IAEA Board of Governors, Iran's delegation condemned US and Israeli attacks on Iranian nuclear facilities, called for a zero-tolerance policy toward such actions and threats, and warned that normalizing attacks on peaceful nuclear facilities would severely jeopardize the international non-proliferation regime and security."
-    },
-    {
-      "id": "4921308",
-      "time": "2026-06-06 22:04:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織：剛果（金）和烏干達累計報告471例埃博拉病例】當地時間6日，世界衛生組織公佈的最新資料顯示，截至目前，剛果（金）和烏干達兩國累計報告471例埃博拉病例，其中84人死亡。僅過去一天時間，兩國新增約100例病例和20例死亡病例，疫情蔓延速度引發廣泛關注。"
     }
   ]
 }
