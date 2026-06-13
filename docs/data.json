@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-14 01:00:49",
-  "count": 18486,
+  "updated": "2026-06-14 01:04:54",
+  "count": 18484,
   "items": [
+    {
+      "id": "4933983",
+      "time": "2026-06-14 01:03:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美伊協議計劃14日簽署】當地時間6月13日，美國總統特朗普在社交媒體平臺發文稱，美伊協議“計劃明日簽署，簽署後，霍爾木茲海峽將對所有人開放”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ec1ef-921c-7dd8-afed-3132ffba7188",
+      "time": "2026-06-14 01:02:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【After Amazon CEO briefed US officials, Trump administration restricts foreign use of Anthropic models】According to people familiar, the Trump administration has decided to block foreign access to Anthropic’s most capable AI models after Amazon CEO Andy Jassy told US officials, including Treasury Secretary Bessent, that Amazon researchers were able via a series of prompts to induce Anthropic’s Fable 5 to produce information that could be used in cyberattacks. The White House convened, security researchers corroborated Amazon’s findings, and the government — with presidential approval — will bar foreign governments, companies and individuals from accessing the tool. Anthropic said it will cut all user access to Mythos and Fable to ensure compliance; US officials have long judged Anthropic’s new models difficult to manage from a security standpoint."
+    },
     {
       "id": "mkt:019ec1ec-4a29-7dd8-afed-2fc7dcbb0161",
       "time": "2026-06-14 00:59:08",
@@ -169899,39 +169917,6 @@
         "國際"
       ],
       "text": "諾和諾德將在2026年美國糖尿病協會年會上，公佈減肥藥Wegovy針對多種心臟代謝疾病療效的最新研究資料。"
-    },
-    {
-      "id": "4921371",
-      "time": "2026-06-07 01:04:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府劃撥7億美元聯邦資金，扶持美國燃煤電廠，保障人工智慧相關電網穩定執行。"
-    },
-    {
-      "id": "4921370",
-      "time": "2026-06-07 01:03:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "受美國參議院議程安排導致立法程序延後影響，《清晰度法案》的透過機率降至60%。"
-    },
-    {
-      "id": "4921369",
-      "time": "2026-06-07 01:01:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "印度搗毀H-1B簽證造假團伙，有關部門查獲超10萬份偽造學歷證書。"
-    },
-    {
-      "id": "4921368",
-      "time": "2026-06-07 01:01:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍稱，以軍週末對黎巴嫩南部150處真主黨目標實施打擊，其中包括武器庫與指揮中心。"
     }
   ]
 }
