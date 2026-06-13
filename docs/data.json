@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-13 19:33:57",
-  "count": 18403,
+  "updated": "2026-06-13 19:38:05",
+  "count": 18400,
   "items": [
+    {
+      "id": "4933826",
+      "time": "2026-06-13 19:36:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：在有關敵對飛行器滲透馬加利奧特的警報發出後，一架疑似空中目標在以色列國防軍位於黎巴嫩南部的作戰區域墜毀。事件未造成人員傷亡。"
+    },
     {
       "id": "4933825",
       "time": "2026-06-13 19:29:24",
@@ -169191,46 +169199,6 @@
         "MKT News"
       ],
       "text": "UAE Foreign Ministry said the UAE fully supports Bahrain and backs all measures to safeguard its security and stability."
-    },
-    {
-      "id": "mkt:019e9cb9-717e-7665-8312-6979e48f5fb8",
-      "time": "2026-06-06 19:37:39",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "UAE foreign ministry strongly condemned Iran's terrorist attacks on Kuwait and Bahrain, including missile and drone strikes."
-    },
-    {
-      "id": "mkt:019e9cb8-dbe6-7665-8312-61d490b137d8",
-      "time": "2026-06-06 19:37:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine's military said it struck an oil depot and an oil terminal in Russia's Leningrad region."
-    },
-    {
-      "id": "4921264",
-      "time": "2026-06-06 19:36:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱襲擊了俄羅斯列寧格勒州的石油倉庫和石油碼頭。"
-    },
-    {
-      "id": "4921263",
-      "time": "2026-06-06 19:36:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【官方回應湘雅二醫院專案招標爭議】湖南省發展和改革委員會6月6日釋出通報：針對媒體反映的“湘雅二醫院國家緊急醫學救援基地建設工程”招標有關問題，湖南省委、省政府高度重視，已成立由湖南省發展和改革委員會牽頭，湖南省住房和城鄉建設廳、湖南省公共資源交易中心、長沙市有關部門等參加的聯合調查組，對相關情況開展全面深入調查，調查結果將及時向社會公佈。"
     }
   ]
 }
