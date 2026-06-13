@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-13 19:50:17_
-_本檔包含 3784 則快訊，約 665959 字_
+_更新時間：2026-06-13 20:27:45_
+_本檔包含 3784 則快訊，約 666237 字_
+
+---
+
+### 2026-06-08 19:26:41  #公司
+
+【通達股份：預中標2.2億元國家電網等專案】通達股份公告，公司近期在國家電網有限公司2026年特高壓專案第二次材料公開招標採購、2026年西北西藏區域第一次聯合採購以及內蒙古電力（集團）有限責任公司2026年固定資產投資專案物資採購中，被推薦為中標候選人，預中標物資總價值共計2.2億元，約佔公司2025年度營業總收入的2.76%。
+
+---
+
+### 2026-06-08 19:26:32  #央行 #市場
+
+巴西央行調查：經濟學家預計，截至2027年底雷亞爾兌美元匯率將為5.20雷亞爾兌1美元，此前預期為5.25雷亞爾兌1美元。
+
+---
+
+### 2026-06-08 19:26:26  #央行 #市場
+
+巴西央行調查：經濟學家預計2026年末巴西雷亞爾兌美元匯率為5.15雷亞爾兌1美元，此前預期為5.16雷亞爾兌1美元。
+
+---
+
+### 2026-06-08 19:25:57  #其他
+
+巴西 12 個月通脹率預估為 4.04%，前值 4.06%。
+
+---
+
+### 2026-06-08 19:25:21  #公司
+
+【南京新百：擬300萬美元投資私募基金】南京新百公告稱，公司全資子公司CB Senior Care Limited擬使用300萬美元閒置自有資金，投資和暄銀河基金第19號子基金。本輪投資完成後，該基金規模預計達3113萬美元，公司投資份額預估佔比約9.6%。投資旨在開展多元化投資、提升自有資金收益水平，不涉及關聯交易與重大資產重組，無需提交董事會及股東會審議。該投資有回報不及預期、本金虧損等風險，公司將持續跟蹤並依規披露資訊。
+
+---
+
+### 2026-06-08 19:25:11  #公司 #市場
+
+【泰和新材：公司對位芳綸的產能利用率尚處於較低水平】泰和新材(002254)公告稱，公司股票連續三個交易日(6月4日、5日、8日)收盤價漲幅偏離值累計超過20%，屬於異常波動。公司關注到部分投資者對對位芳綸在光纖光纜及資料中心中的應用比較關注，現將有關情況提示如下：2025年，公司的泰普龍®對位芳綸及其製品在光纖光纜領域的收入佔主營業務收入的比例不足10%，對公司業績影響較小；2026年1-5月份，上述佔比未發生明顯變化。公司產品在資料中心中沒有直接應用。公司對位芳綸的產能利用率尚處於較低水平，今年1-5月產品售價與上年同期比沒有出現明顯變化。
+
+---
+
+### 2026-06-08 19:23:54  #MKT News #Market Themes #AI Revolution
+
+【Beijing full-size humanoid Tiangong 3.0 to enter mass production in H2 2026】Beijing Humanoid Robot Innovation Center and Digua Robotics said their full-size, general-purpose humanoid Tiangong 3.0 will enter scaled mass production and deliveries in H2 2026. The model integrates Digua’s Xuri S600 high-performance embodied-AI compute chip and is pitched at industrial manufacturing, commercial services and complex 3D-scene operations. Relying on its architecture and scale production, the partners expect overall unit costs to fall by more than 50%; initial deployments after mass production will target assembly-line work, warehousing and logistics, intelligent services and special-environment operations.
+
+---
+
+### 2026-06-08 19:23:38  #市場
+
+德國國債價格抹去跌幅，10年期國債收益率穩定在3.04%。
+
+---
+
+### 2026-06-08 19:23:01  #其他
+
+【北京人形全尺寸通用人形機器人天工3.0將於2026年下半年量產交付】6月8日，北京人形機器人創新中心與地瓜機器人宣佈，雙方協同打造的全尺寸通用人形機器人天工3.0，將2026年下半年開啟規模化量產交付。據悉，該機型搭載地瓜機器人旭日S600具身智慧大算力晶片，應用於工業製造、商業服務及3D複雜場景作業。據披露，依託技術架構與規模化量產優勢，天工3.0整機綜合成本預計降幅超50%。量產落地後的天工3.0，將投入產線作業、倉儲物流、智慧服務、特殊環境運維等實景應用。
+
+---
+
+### 2026-06-08 19:22:43  #MKT News
+
+【Iran says military strikes on Israel paused】The Khatam al-Anbiya Central Command said today it has paused military strikes on Israel, accusing Israel, backed by the US, of committing acts of aggression in southern Lebanon and on the southern outskirts of Beirut. The statement said Iranian forces struck back and have stopped operations, but warned that if the enemy continues its aggression Iran would carry out harsher, more destructive reprisals.
+
+---
+
+### 2026-06-08 19:21:38  #公司 #市場
+
+【中巨芯：公司高純六氟化鎢目前尚未簽署新的任何具有法律約束力的長期或大額實質性訂單協議】經公司自查，公司注意到有媒體報道及市場傳聞海外六氟化鎢供應鏈緊張，我國六氟化鎢出口量價齊升，國內六氟化鎢頭部企業有望在本輪產業鏈景氣爆發週期中充分受益。截至目前，公司高純六氟化鎢目前尚未簽署新的任何具有法律約束力的長期或大額實質性訂單協議，且該產品由公司全資子公司浙江博瑞電子科技有限公司與中央硝子株式會社合資成立的浙江博瑞中硝科技有限公司生產，其中博瑞電子持股比例為51%；公司六氟化鎢目前產能為600噸，且目前暫無擴產計劃；另外，受上游鎢材料價格上漲影響，公司原材料採購成本也隨之增加。請投資者注意相關風險。
+
+---
+
+### 2026-06-08 19:20:59  #MKT News #Macro & Rates #Treasury Yields
+
+German two-year government bond yield reversed earlier gains, down 1bp to 2.68%. Iranian armed forces announced an end to military operations against Israel.
+
+---
+
+### 2026-06-08 19:20:48  #市場 #國際
+
+美國標普500 E-迷你期貨上漲0.65%，納斯達克100期貨上漲1.21%，道指期貨上漲0.2%。
+
+---
+
+### 2026-06-08 19:20:40  #公司
+
+【密爾克衛：擬將募投專案節餘資金5629.4萬元永久補充流動資金】密爾克衛公告，擬將募投專案節餘資金5629.4萬元永久補充流動資金。2020年非公開發行股票募投專案“寧波慎則化工供應鏈管理有限公司專案”、“廣西慎則物流有限公司倉儲物流專案”、“密爾克衛（煙臺）供應鏈管理服務有限公司現代化工供應鏈創新與應用配套設施專案”、“擴建20000平方米丙類倉庫專案”已達到預定可使用狀態；2022年公開發行可轉換公司債券募投專案“收購上海市化工物品汽車運輸有限公司100%股權及轉讓方對標的公司1600萬債權專案”、“超臨界水氧化及配套環保專案”、“徐圩新區化工品供應鏈一體化服務基地A地塊”、“鎮江寶華物流有限公司改擴建普貨倉庫建設”已達到預定可使用狀態。
 
 ---
 
@@ -22702,89 +22786,5 @@ Iran's industry minister Saeed Mohammad Atabak met Belarusian officials to press
 ### 2026-06-06 20:27:59  #MKT News
 
 【Pakistan interior minister visits Iran to push new interim US-Iran proposal】Pakistani sources say Interior Minister Mohsin Naqvi visited Iran on Saturday to present a new proposal aimed at breaking the US-Iran deadlock and securing an interim agreement. Talks are expected to focus on restoring a second round of negotiations between Washington and Tehran; the visit is part of Pakistan’s mediation effort to help reach a broader deal and end the US-Iran conflict.
-
----
-
-### 2026-06-06 20:25:15  #國際
-
-【普京與施羅德“熱聊”，“冷拒”澤連斯基】俄羅斯總統助理尤里·烏沙科夫5日告訴俄羅斯媒體，俄總統普京當天在克里姆林宮與德國前總理施羅德舉行“友好的一對一”會面。同日，普京拒絕烏克蘭總統澤連斯基的會面邀約，認為二人見面“沒有意義”，並指出後者的公開信中含有“挑釁內容”。 俄新社援引烏沙科夫的話報道，普京與施羅德的會面以“私下密談”方式展開，他不清楚會談細節，只知道地點是在俄首都莫斯科克里姆林宮。（新華社）
-
----
-
-### 2026-06-06 20:17:38  #MKT News
-
-【China launches maritime traffic enforcement operation in eastern waters off Taiwan】June 6 — China’s Ministry of Transport launched a special maritime traffic law‑enforcement operation in the eastern waters off Taiwan, deploying the Fujian and Guangdong maritime administrations, the East China Sea Navigation Protection Center and the East China Sea Rescue Bureau. The operation is intended to assert Chinese maritime administrative jurisdiction, strengthen deep‑sea patrol and key‑waters traffic control, and safeguard maritime traffic safety and national rights. Beijing said the action responds to Japan and the Philippines’ unilateral initiation of sea‑boundary delimitation talks east of Taiwan, which it described as a serious infringement on China’s territorial sovereignty and maritime rights.
-
----
-
-### 2026-06-06 20:11:35  #焦點
-
-【臺灣島東部海域海上交通專項執法行動啟動】6月6日，交通運輸部組織福建海事局、廣東海事局、東海航海保障中心、東海救助局開展臺灣島東部海域海上交通專項執法行動，全面履行我國海上行政執法管轄權，增強深遠海巡航執法和重點水域交通管控能力，保障海上交通安全，維護國家權益。這是針對日本和菲律賓單方面宣佈啟動中國臺灣島以東“海域劃界談判”、嚴重侵犯中國領土主權和海洋權益採取的必要行動。（新華社）
-
----
-
-### 2026-06-06 20:05:14  #國際
-
-【法國前總統希拉剋遺孀貝爾納黛特去世】據法國媒體6日報道，法國前總統希拉剋遺孀貝爾納黛特5日晚去世，終年93歲。 貝爾納黛特1956年與希拉剋結婚。她曾擔任法國科雷茲省議會議員，熱衷於兒童公益事業。 法國總統馬克龍6日在社交媒體發文悼念。（新華社）
-
----
-
-### 2026-06-06 20:04:13  #MKT News #WTI #Impact bullish #Brent
-
-Kuwait's military says Iranian strike caused material damage but no casualties.
-
----
-
-### 2026-06-06 20:03:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Kuwaiti military says it intercepted seven missiles from Iran on Saturday.
-
----
-
-### 2026-06-06 20:03:34  #國際
-
-【以軍稱正調查以方襲擊黎政府軍車輛事件】以色列國防軍6日發表宣告證實，以軍當天在黎巴嫩南部襲擊了一輛黎政府軍軍車，以方正在著手調查此事件。宣告說，以軍6日在黎南部泰卜尼特地區發現一“可疑車輛”向以軍駛來，該車穿行區域系“活躍戰區”。以軍此前收到情報稱，黎真主黨會從該區域向以軍開火。鑑於上述情報且該車對“以軍士兵構成威脅”，以軍對該車實施了打擊。宣告說，初步調查顯示，車內有2名黎巴嫩政府軍軍官和1名士兵，相關調查正在進行中。宣告還說，以軍的“行動目標是黎真主黨，而非黎政府軍”。（新華社）
-
----
-
-### 2026-06-06 20:02:36  #其他
-
-科威特國防部發言人：今天上午，武裝部隊在科威特領空探測並攔截了七枚敵方彈道導彈。這些導彈在多個居民區上空被攔截，導致一些碎片墜落。
-
----
-
-### 2026-06-06 20:01:03  #MKT News
-
-【HKO issues red rainstorm warning signal】The Hong Kong Observatory (HKO) issued a red rainstorm warning signal today, June 6.
-
----
-
-### 2026-06-06 20:01:01  #其他
-
-【東風汽車無人物流車品牌東風OpenVAN釋出】6月6日，東風汽車無人物流車品牌東風OpenVAN釋出，四款東風OpenVAN全場景無人物流車產品亮相。釋出會現場，東風汽車綜合物流、新能源運營、裝備製造、城市服務及零售配送等多元領域的行業龍頭企業簽約，簽約訂單超過4000臺，預計將於8月進行交付。
-
----
-
-### 2026-06-06 20:00:02  #市場 #焦點
-
-本週大盤主力資金累計淨流入-2223.19億元，光學光電子、國有大型銀行Ⅱ板塊淨流入居前，個股京東方A、中興通訊淨流入最多。
-
----
-
-### 2026-06-06 19:59:59  #其他
-
-【香港發出紅色暴雨警告訊號】香港天文臺今日（6日）發出紅色暴雨警告訊號。香港特區政府教育局表示，由於紅色暴雨警告訊號現正生效，學校應採取應變措施，確保學生安全。正在上課的學校應繼續上課，直至放學時間，並在安全情況下，方可讓學生返家。（大灣區之聲）
-
----
-
-### 2026-06-06 19:56:48  #其他
-
-香港天文臺釋出紅色暴雨警告。
-
----
-
-### 2026-06-06 19:51:34  #宏觀 #焦點
-
-【6月6日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【牢記初心使命 奮進復興征程】紅色沃土不斷書寫時代華章； 2.韓正會見俄羅斯總統； 3.韓正出席第二十九屆聖彼得堡國際經濟論壇全會並致辭； 4.【在希望的田野上】全國麥收近六成 夏播陸續展開； 5.我國服務貿易持續擴能提質； 6.財政金融“組合拳” 更大力度支援擴內需； 7.我國海上風電加快向深遠海發展； 8.【一線調研】一張網夯實水安全堅實底座； 9.國內聯播快訊： （1）1至4月國開行發放4406億元貸款 加力支援基礎設施建設； （2）國家防總針對重慶貴州啟動防汛四級應急響應； （3）國家林草局釋出10項荒漠化防治標準； （4）“十四五”時期我國眼健康服務體系不斷完善； （5）我國自主研製全整合航空電動發動機下線交付； （6）全球海洋現象智慧預報大模型“琅琊”2.0釋出； 10.美軍襲擊伊朗部分沿海地區 伊朗稱打擊美海軍第五艦隊重要設施； 11.國際聯播快訊： （1）俄烏進行新一輪被俘人員交換； （2）烏克蘭一無人艇在羅馬尼亞黑海港口爆炸； （3）世貿組織稱今年全球貨物貿易保持韌性； （4）歐元區及歐盟一季度經濟均出現萎縮； （5）國際空間站因漏氣維修 宇航員避險。
 
 ---

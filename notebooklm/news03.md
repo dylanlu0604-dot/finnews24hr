@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 19:50:17_
-_本檔包含 3687 則快訊，約 666409 字_
+_更新時間：2026-06-13 20:27:45_
+_本檔包含 3700 則快訊，約 666175 字_
+
+---
+
+### 2026-06-11 02:13:17  #國際
+
+美國銀行發現，亞太地區對人工智慧驅動的資金管理及外匯解決方案需求持續增長。
+
+---
+
+### 2026-06-11 02:10:19  #國際
+
+美國國務卿魯比奧將在比賽間隙與巴拉圭總統會面。
+
+---
+
+### 2026-06-11 02:09:56  #國際
+
+美國國務卿魯比奧將率代表團前往洛杉磯觀看對陣巴拉圭的世界盃賽事。
+
+---
+
+### 2026-06-11 02:09:04  #國際
+
+美國能源部長賴特：我十分欽佩特朗普總統的魄力。我從未見過有誰能接受伊朗擁有核武器。這場衝突終將落幕。但民主黨推高電價、汽油及柴油價格的政策，卻已然成為常態。
+
+---
+
+### 2026-06-11 02:09:00  #MKT News
+
+【U.S. Justice Department probes whether major U.S. banks closed customer accounts for political reasons】The U.S. Justice Department has subpoenaed several large U.S. banks, including JPMorgan and Bank of America, seeking records on whether banks improperly closed customer accounts for political reasons, the Wall Street Journal reports citing sources. The subpoenas were issued by the U.S. Attorney’s Office for the District of Columbia, led by Jeanine Pirro, and mark an escalation of a Trump-led probe into whether banks discriminated against conservatives and politically sensitive industries, including businesses linked to the Trump family. Trump has alleged JPMorgan and Bank of America closed his accounts after the Jan. 6 events; in August he signed an executive order directing bank regulators to investigate politically motivated de-banking and consider penalties.
+
+---
+
+### 2026-06-11 02:07:44  #國際
+
+美國國務卿魯比奧將於6月12日至13日前往洛杉磯。
+
+---
+
+### 2026-06-11 02:05:33  #國際
+
+路透社調查顯示，美國能源資訊署（EIA）週四公佈的報告料顯示，上週美國天然氣庫存增加990億立方英尺。
+
+---
+
+### 2026-06-11 02:05:27  #MKT News
+
+Iran's foreign ministry said the US military, as part of its aggressive operations against Iran, deliberately struck civilian water infrastructure in Sirik, Hormozgan province, destroying two reservoirs with a combined capacity of 2,500 cubic meters that supply drinking water to more than 20,000 residents across 10 villages.
+
+---
+
+### 2026-06-11 02:04:33  #MKT News #US10Y #Impact bullish
+
+US Treasury data: FY2026-to-date cumulative budget deficit $1.246 tln, versus $1.364 tln in the same period of the prior fiscal year. May customs net receipts were -$42 mln.
+
+---
+
+### 2026-06-11 02:04:19  #國際
+
+伊朗外交部：美國襲擊了重要的民用水利基礎設施。
+
+---
+
+### 2026-06-11 02:02:24  #宏觀 #焦點
+
+智利財政部表示，預計2026年至2030年期間銅均價為每磅5.50美元。
+
+---
+
+### 2026-06-11 02:02:13  #公司
+
+L3哈里斯技術公司：將於2026年在阿拉巴馬州亨茨維爾啟動“吸血鬼”系統的量產專案。
+
+---
+
+### 2026-06-11 02:02:05  #公司 #國際
+
+L3哈里斯技術公司：獲得美國陸軍價值最高1.06億美元的“吸血鬼”反無人機系統訂單。
+
+---
+
+### 2026-06-11 02:01:39  #公司 #國際
+
+L3哈里斯技術公司獲美國陸軍選定，將提供“吸血鬼”反無人機系統。
+
+---
+
+### 2026-06-11 01:59:52  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. May government budget deficit $292.65 bln, versus forecast deficit $275.00 bln; prior month surplus $215.00 bln.
+
+---
+
+### 2026-06-11 01:59:38  #MKT News #Economic Calendar #Important
+
+United States | Government Budget (May) | actual -292648000000B | consensus -275000000000B | previous 215000000000B
+
+---
+
+### 2026-06-11 01:59:11  #國際
+
+美國5月政府預算 -2926.48億美元，預期 -2820億美元，前值 2150億美元。
+
+---
+
+### 2026-06-11 01:59:05  #其他
+
+Visa：透過合作將提供其全球網路、資質認證能力及安全基礎設施，以支撐智慧體商務體驗。
+
+---
+
+### 2026-06-11 01:58:51  #其他
+
+Visa：作為合作協議的一部分，Visa的支付能力將整合進OpenAI的產品服務中。
+
+---
+
+### 2026-06-11 01:57:12  #宏觀
+
+智利財政部長：2027年與2028年智利國內生產總值將增長3%，2030年增速將達到3.5%。
+
+---
+
+### 2026-06-11 01:55:29  #MKT News #Macro & Rates
+
+Chile's finance minister expects GDP to grow 3% in 2027 and 2028, rising to 3.5% by 2030.
+
+---
+
+### 2026-06-11 01:54:38  #市場 #國際
+
+【美媒稱特朗普因協議無進展打擊伊朗】當地時間6月10日，據美國“阿克西奧斯新聞網站（Axios）”報道，美軍對伊朗發動打擊的直接導火索是美軍直升機墜毀事件，但美國總統特朗普實際上已因伊朗近兩週未回應美國就協議所作提議而越來越不滿。報道稱，美方認為此次打擊有助於恢復美國在談判中的籌碼，同時又不至於徹底關閉外交解決的大門。據披露，特朗普在5月29日白宮戰情室會議後，要求修改原本已接近達成的美伊諒解備忘錄。根據其新增要求，伊朗需在60天內對濃縮鈾進行稀釋處理，並承諾不對透過霍爾木茲海峽的船隻徵收通行費。作為交換，美方同意相關核材料可留在伊朗境內處理，並接受國際原子能機構的監督。 報道指出，目前在卡達的斡旋下，美伊仍在繼續間接接觸。美國官員表示，協議依然擺在桌面上，但如果伊朗繼續拖延，特朗普已準備讓伊朗“付出代價”。
+
+---
+
+### 2026-06-11 01:54:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+DOE is soliciting proposals for swaps of up to 40 mln barrels of crude from the Strategic Petroleum Reserve sites Bryan Mound and Big Hill.
+
+---
+
+### 2026-06-11 01:54:07  #MKT News #Market Regions #Wall Street (US) #JPM.N #Impact bearish #BAC.N
+
+The Wall Street Journal reports U.S. federal prosecutors in Washington, D.C. have subpoenaed JPMorgan and Bank of America, among others, as part of a probe into alleged 'debanking' practices.
+
+---
+
+### 2026-06-11 01:53:58  #國際
+
+【特朗普：美軍護航行動使得超過1億桶石油透過霍爾木茲海峽】美國總統特朗普稱：“上月，我下令強大的美軍執行秘密任務，為通行霍爾木茲海峽的油輪及其他商船提供護航。如今我很高興地宣佈，已有超過1億桶原油經該海峽運往公開市場，200餘艘商船安全通行。此次行動大獲成功，這證明掌控霍爾木茲海峽的是美國，而非伊朗。伊朗軍隊已然落敗，經濟陷入困境，伊朗大勢已去！”
+
+---
+
+### 2026-06-11 01:53:15  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump says U.S. military escort enabled over 100 million barrels of oil to reach open market via Strait of Hormuz】Trump posted on social media saying he ordered the U.S. military last month to carry out a secret mission to support tankers and other commercial vessels transiting the Strait of Hormuz. He said the operation has enabled more than 100 million barrels of oil to pass through the Strait and enter the open market, and that over 200 commercial vessels have transited safely. He added the action shows the United States, not Iran, controls the Strait of Hormuz.
 
 ---
 
@@ -22133,83 +22289,5 @@ US Wholesale Inventories Rise for Third Straight Month — US wholesale inventor
 ### 2026-06-09 22:27:58  #國際
 
 【六國制裁參與約旦河西岸暴力事件的定居者】英國外交部9日發表宣告說，英國、法國、澳大利亞、紐西蘭、加拿大和挪威六國將協同制裁在約旦河西岸參與暴力襲擊巴勒斯坦平民的猶太定居者。宣告說，英國此次對涉嫌資助、協助或實施有關暴力活動的6家實體和1名個人實施制裁，這些制裁物件涉及向以色列定居者農場和前哨站提供募集資金、輸送捐款、組織支援以及拆除建築等服務。宣告說，英方將首次在官方海外商業指引中明確建議企業避免在以色列定居點開展經濟和金融活動，還將追加100萬英鎊用於加沙人道主義排雷工作，並於2026年向巴勒斯坦民族權力機構提供至少1000萬英鎊的財政和技術支援。（新華社）
-
----
-
-### 2026-06-09 22:27:44  #國際
-
-以色列國防軍參謀長：我們將繼續行動，並進一步打擊黎巴嫩真主黨。我們的部隊處於警戒狀態，將對任何檢測到的威脅採取行動。我們隨時準備立即重返與伊朗的戰鬥。近期對伊朗的襲擊是更強大、更嚴重打擊的前奏。
-
----
-
-### 2026-06-09 22:27:30  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Israeli military chief of staff said the IDF is ready at any time to immediately return to combat with Iran, and that recent strikes on Iran are a prelude to stronger, more severe attacks.
-
----
-
-### 2026-06-09 22:27:07  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Israel Defense Forces chief of staff says forces are on alert and will act on any detected threats.
-
----
-
-### 2026-06-09 22:26:50  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel Defense Forces chief of staff said the military will continue operations and further strike HEZBOLLAH.
-
----
-
-### 2026-06-09 22:26:19  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-IDF chief of staff said the military continues to operate and conduct strikes on the southern Lebanon front.
-
----
-
-### 2026-06-09 22:26:17  #國際
-
-以色列國防軍參謀長：我們繼續在黎巴嫩南部前線作戰並進行攻擊。
-
----
-
-### 2026-06-09 22:26:14  #資料 #市場 #國際
-
-【道明證券：美國5月CPI料降溫但仍然高企，年核心心通脹下行空間有限】道明證券預計，即將公佈的美國5月CPI報告將確認通脹正在放緩，但仍頑固地處於高位。該機構預計美國5月核心CPI月率將降至0.23%，年率持平於2.8%；整體CPI月率降至0.4%，年率升至4.2%。從細分項來看，預計5月商品價格環比上漲0.13%，與三個月均值持平。其中，除汽車外的核心商品貢獻了大部分漲幅，家居用品、服裝等類別均出現上漲。預計二手車價格再次下跌將部分抵消這一漲幅。此外，預計油價衝擊和關稅影響的持續傳導將在6月將核心通脹推至同比3.0%左右，若航空燃油成本以超出預期的幅度傳導至機票價格，則存在上行風險。展望2026年下半年，預計核心通脹不會出現有意義的下降。除汽車外的核心商品價格將繼續顯示強勢，而住房成本將在高位趨於正常化。
-
----
-
-### 2026-06-09 22:25:50  #市場 #國際
-
-【凱投宏觀：推動加拿大出口走強的不僅僅是油價】凱投宏觀的阿麗亞娜·柯蒂斯表示，4月份加拿大出口的走強不僅僅是因為油價。油價上漲繼續支撐能源出口，但加拿大的出口量也出現了廣泛增長。柯蒂斯說，自伊朗戰爭爆發以來，加拿大貿易條件的改善表明，未來幾個月貿易順差應會進一步增加。隨著出口額創下歷史新高，4月份商品貿易順差從3月份的18億加元擴大至約27億加元。該經濟學家表示，貿易資料似乎與4月份GDP環比強勁增長0.4%的初步估計相符。
-
----
-
-### 2026-06-09 22:25:36  #MKT News #Macro & Rates #US Economy #DXY #Impact mixed #XAUUSD
-
-【TD Securities: US May CPI expected to cool but remain elevated; limited downside for core inflation this year】TD Securities expects US May CPI to show slowing inflation but remain stubbornly high. Forecasts: core CPI MoM 0.23%, YoY 2.8%; headline CPI MoM 0.4%, YoY 4.2%. Goods prices are seen rising 0.13% MoM, matching the three-month average, with non-auto core goods (furniture, apparel) providing most of the gain; used-car prices are expected to fall again, partly offsetting the rise. Continued pass-through from the oil shock and tariffs is projected to push core CPI toward about 3.0% YoY in June; upside risk if jet-fuel costs transmit to airfares more than expected. Looking to H2 2026, TD sees little scope for a meaningful decline in core inflation: non-auto core goods should stay firm while housing costs normalize at an elevated level.
-
----
-
-### 2026-06-09 22:24:41  #其他
-
-【國產商業火箭複用技術迎來新進展】6月9日16點23分，朱雀二號改進型遙六運載火箭在東風商業航天創新試驗區發射升空，將搭載的千帆DTC 01星和中國移動02星順利送入預定軌道，飛行試驗任務取得圓滿成功。在這次任務中，朱雀二號完成了一項重要的技術改進，火箭的一二級分離換了一種全新的方式。 過去火箭分家，全靠類似炸藥的火工品炸開連線部位，這種方式有明顯短板，火工品是一次性用品，裝好沒法提前測試，用完就徹底報廢。而這一次，朱雀二號使用了氣動推杆代替火工品，靠高壓氣體推動活塞，頂開二級箭體，輕輕鬆鬆完成分離。朱雀二號改進型運載火箭副總師尚明友表示：“首先是取消了火工品；第二是地面可測，隨時都可以加上氣源，看一下它的推力；第三是相對安全一些，這是我們自主研製的，自主可控性也更高了。”此外，尚明友告訴記者，這項新技術還有更大的潛力——助力火箭重複使用。以往的火工品用一次就報廢，可氣動推杆能反覆工作。這套技術和可重複使用的朱雀三號火箭一脈相承，既能共享技術經驗，也能帶動配套產業升級，讓火箭整體效能越來越穩定。 （央視財經）
-
----
-
-### 2026-06-09 22:23:11  #其他
-
-【南非多地發生針對外籍人員的遊行、示威，中使館提醒中國公民、企業和機構防範安全風險】6月9日，中國駐南非使館提醒中國公民、企業和機構防範安全風險。近期，南非多地發生針對外籍人員的遊行、示威、請願等活動，部分演變為滋擾衝擊和“打砸搶”，造成人員傷亡和財產損失，有僑胞店鋪受到波及。當地民間組織要求非法移民6月30日前離開南非，並策劃抗議活動。有分析認為，此類活動可能持續蔓延升級，甚至引發嚴重暴力和騷亂事件。南非總統拉馬福薩近日表示，將加大檢查和驅逐、遣返非法移民，打擊非法務工力度，對非法用工的僱主採取監禁等更嚴厲懲處措施。中國駐南非使館要求廣大在南非中國公民、企業和機構，嚴格依法合規經營，高度重視防範上述活動安全風險。
-
----
-
-### 2026-06-09 22:22:51  #MKT News
-
-U.S. Energy Secretary Wright said natural gas will become the largest source of incremental power for AI.
-
----
-
-### 2026-06-09 22:22:22  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Hold Broadly Higher — US equities held their broad gains on Tuesday as energy prices pulled back and improved the outlook on credit conditions. The S&P 500 and the Dow were 0.5% higher, while the Nasdaq 100 was near the flatline to hold yesterday's rebound. Oil and fuel prices eased as signs of de-escalation since the weekend paved the way for negotiations between Tehran and Washington for a potential agreement that restores energy exports. Equities were supported by a rebound for Treasuries as markets gauged whether the Fed will deliver a rate hike this year. Pressure on fixed-income will be tested again tomorrow with May's inflation rate, set to rise further. Asset managers were sharply higher as markets reconsidered risks on private credit redemptions, with Blackstone and KKR adding 5%. Alphabet and Meta added 2% each to make up for recently-lost ground. OpenAI confidentially filed for an IPO and Anthropic raised more cash, pointing to more spending on AI infrastructure, although chip producers stalled.
 
 ---

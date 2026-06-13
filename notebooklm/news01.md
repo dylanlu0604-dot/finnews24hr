@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-13 19:50:17_
-_本檔包含 3563 則快訊，約 666073 字_
+_更新時間：2026-06-13 20:27:45_
+_本檔包含 3572 則快訊，約 666442 字_
+
+---
+
+### 2026-06-13 20:26:38  #其他
+
+【5月城軌客運量同比增長2.4% 客運強度連續4個月下降】交通運輸部近日釋出的資料顯示，2026年5月，全國（不含港澳臺）54個開通軌道交通的城市總客運量為29.4億人次，環比減少0.5億人次，降低1.7%，同比增加0.7億人次，增長2.4%，同比增幅較4月份的4.9%有所回落。 5月份，全國總運營里程的平均客運強度為0.804萬人次/公里日，比去年同期下降4.6%，這也是該指標自今年2月以來連續第4個月出現下降。中國城市軌道交通協會（以下簡稱“城軌協會”）人士對記者表示，全國城軌平均客運強度下滑的主要原因是運營里程持續擴容，新線開通的供給增量遠超客流增長幅度。從城軌行業發展規律來看，新開通城軌線路存在3年左右的客流培育期，新線開通初期，受周邊城市開發、人口匯入、商業配套、換乘銜接等因素限制，初期客運強度僅能達到同城市成熟線路的30%—50%，大量新線集中開通後，運營里程增長幅度，大幅超過了客運量的增長幅度，直接拉低了全國整體客運強度均值。此外，出行方式的多元化、老百姓出行習慣的改變，也影響了城軌客流的增長。（中國經營報）
+
+---
+
+### 2026-06-13 20:17:54  #國際
+
+【美官員：伊朗中間人稱最高領袖對協議表示滿意】一位美國官員稱，伊朗透過中間人告知華盛頓，最高領袖穆傑塔巴·哈梅內伊對擬議的協議表示滿意。 儘管德黑蘭的最終決定仍存在不確定性，但這位美國官員仍將這一立場描述為一個積極的訊號。該官員稱，初步協議的重點是緩和局勢並開闢新的談判渠道。核計劃和制裁等複雜問題已被推遲到後續階段討論。該官員表示，簽署諒解備忘錄後，伊朗不會立即獲得任何經濟利益，任何財政支援或制裁豁免都以伊朗履行其承諾為前提。伊朗交出高濃縮鈾或拆除核設施將獲得華盛頓方面逐步提供的經濟激勵。
+
+---
+
+### 2026-06-13 20:17:20  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【IDF says it struck more than 70 Hezbollah targets in southern Lebanon】On the 13th local time, the Israel Defense Forces said it carried out multiple strikes in southern Lebanon over the previous day, destroying more than 70 targets. The IDF said the strikes hit rocket launchers and buildings Hezbollah used to plan and carry out attacks. The military added it killed several Hezbollah fighters in areas where its forces operated.
+
+---
+
+### 2026-06-13 20:16:59  #國際
+
+【以軍稱打擊黎南部70餘處真主黨目標】當地時間13日，以色列國防軍表示，在過去一天內，以軍在黎巴嫩南部對真主黨實施多輪打擊，共摧毀70多個目標。以軍稱，被打擊的目標包括火箭彈發射裝置及真主黨用於策劃和實施襲擊的建築物。以軍同時表示，在部隊開展行動的區域內，軍方打死了多名真主黨武裝人員。
+
+---
+
+### 2026-06-13 20:13:35  #其他
+
+【北京大學聯合上緯啟元研究院釋出家庭服務機器人使用者習慣資料集基準】北京大學聯合上緯新材上緯啟元研究院日前釋出UcON（使用者中心導航）資料集，據介紹，這是全球首個以使用者個性化生活習慣為核心的具身導航評測基準。該基準覆蓋489類物體與2.26萬條習慣資料，透過LLM生成+物理校驗構建差異化場景。實驗顯示，其習慣檢索機制使導航效率提升35%。
+
+---
+
+### 2026-06-13 20:10:34  #公司
+
+【全球首條百萬片級體全息光波導自動化產線在天津投產】全球首條百萬片級體全息光波導自動化產線13日在天津投產，標誌著中國在消費級AR(增強現實)核心顯示技術領域實現規模化量產突破，為高價效比AR眼鏡和車載AR-HUD(增強現實抬頭顯示系統)進入大眾市場打通關鍵一環。該產線由尼卡光學(天津)有限公司設計建設，年產能達100萬片，配備千級潔淨車間與精密環控系統，全線採用企業定製的全息光刻裝置及工藝平臺。投產後，尼卡光學天津、廣州兩地總年產能將提升至130萬片。（中新社）
+
+---
+
+### 2026-06-13 20:09:42  #其他
+
+【海南省人工智慧服務平臺正式上線】海南省人工智慧服務平臺13日正式上線。這個面向市場主體的人工智慧服務平臺，目前已集聚121款人工智慧大模型、44個垂直行業專業智慧體，為使用者搭建技術、資源、服務一體化支撐體系。上線當天，平臺推出“百萬億Token賦能計劃”“政企AI落地支援計劃”“信創AI雲端暢享計劃”等專項行動，賦能海南本土企業智慧化。（中新網）
+
+---
+
+### 2026-06-13 20:05:56  #行業 #觀點
+
+【阿維塔王輝談輔助駕駛：各車企應集體加強使用者培訓機制】阿維塔科技董事長王輝在2026中國汽車重慶論壇提到，在智慧化技術飛速發展的當下，安全意識卻越來越淡薄。“有車主說以前開燃油車從來不看手機，但用了輔助駕駛之後，不僅在使用輔助駕駛時看手機，甚至習慣了之後，不用輔助駕駛也會偶爾看手機。我覺得這是非常危險的。” 因此，他提出倡議，“寧可犧牲一些便利性，也要強化對使用者的安全保護，同時需要集體加強培訓機制，提升使用者的安全駕駛意識。”（睿見）
+
+---
+
+### 2026-06-13 20:02:53  #國際
+
+【百發子彈下落不明 韓國一監獄啟動調查】韓國法務部13日說，韓國一所監獄的庫存子彈實際數量比登記的少了大約100發，已對此啟動調查。韓聯社援引韓國法務部訊息報道，8日起對韓國中部大田市一所監獄開展為期5天的例行檢查，其間發現武器庫登記的子彈數量與實際清點結果不一致，大約100發9毫米手槍子彈缺失。目前不清楚這些子彈是實際遺失，還是登記數目有誤。相關部門將進一步調查，包括是否存在違規情況。韓國法務部說，將對全國所有監獄、看守所等機構的武器彈藥管理情況開展檢查。（新華社）
+
+---
+
+### 2026-06-13 20:02:02  #國際
+
+伊拉克總理扎伊迪將於下月訪問華盛頓，這將是他自5月組建政府以來首次正式訪美。他將討論加強安全和經濟合作、武器國家管控問題以及能源投資等議題。
+
+---
+
+### 2026-06-13 20:00:02  #市場
+
+本週大盤主力資金累計淨流入-1900.95億元，小金屬、能源金屬板塊淨流入居前，個股海光資訊、天華新能淨流入最多。
+
+---
+
+### 2026-06-13 19:59:51  #國際
+
+伊朗哈塔姆·安比亞中央司令部司令表示，世界將很快見證伊朗的勝利和抵抗侵略者的勝利。
+
+---
+
+### 2026-06-13 19:58:40  #MKT News #XAUUSD #Impact bullish #WTI
+
+Hezbollah said it fired rockets at Israeli soldiers and a concentration of vehicles near the town of Majdal Zoun in southern Lebanon.
+
+---
+
+### 2026-06-13 19:58:24  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+HEZBOLLAH said it shot down an Israeli Hermes 450 UAV with a missile over Kardali in southern Lebanon.
+
+---
+
+### 2026-06-13 19:57:59  #國際
+
+聯合國：自以色列攻勢開始以來，黎巴嫩已有135名醫務工作者遇害。
+
+---
+
+### 2026-06-13 19:57:59  #MKT News
+
+UN: Since the start of the Israeli offensive, 135 Lebanese medical workers have been killed.
+
+---
+
+### 2026-06-13 19:57:14  #國際
+
+黎巴嫩真主黨：我們用火箭彈轟炸了黎巴嫩南部馬吉達勒祖恩鎮郊外聚集的以色列敵軍士兵及其車輛。
+
+---
+
+### 2026-06-13 19:56:54  #國際
+
+黎巴嫩真主黨：我們在黎巴嫩南部哈爾達利上空用導彈擊落了一架以色列赫爾墨斯450型空對地無人機。
+
+---
+
+### 2026-06-13 19:55:21  #宏觀 #焦點
+
+【6月13日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】守護文化瑰寶 賡續中華文脈； 2.第十八屆海峽論壇大會在廈門舉行 王滬寧出席並致辭； 3.【偉大征程】銘記烽火歷史 傳承抗戰精神； 4.我國海洋生態保護修復取得新成效； 5.多項措施促進鐵路與旅遊融合發展； 6.各地推動人才下鄉 助力鄉村振興； 7.【一線調研】算力網織就數字經濟新底座； 8.國內聯播快訊： （1）文化和自然遺產日主場城市活動在武漢舉行； （2）多部門聯合發文 推動新能源重卡規模化應用； （3）四部門部署農村務農務工出行安全整治工作； （4）中央網信辦開設“涉AI應用亂象舉報專區”； （5）我國將持續推動建設全國一體化反詐技防能力； （6）南方今起降雨增強 局地特大暴雨； 9.伊朗外長披露伊美諒解備忘錄草案部分內容 國際油價進一步下跌； 10.國際聯播快訊： （1）黎媒稱黎以新談判將涉及“試點區”問題； （2）古巴國家主席譴責美國收緊對古石油封鎖； （3）南極半島出現異常高溫； 11.文化和自然遺產日。
+
+---
+
+### 2026-06-13 19:55:17  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Iran says service fees for Strait of Hormuz passage permissible】On June 12, Araghchi said Iran has begun consultations with multiple countries on navigation through the Strait of Hormuz. He said charging transit fees would be unacceptable under international law but levying service fees is fully permissible. Araghchi added that Iran’s frozen assets would begin to be unfrozen under a potential memorandum of understanding with the United States, though details must be fully negotiated. On highly enriched uranium, he said Iran will only accept dilution or conversion carried out on Iranian soil.
+
+---
+
+### 2026-06-13 19:54:27  #國際
+
+【伊朗稱霍爾木茲收服務費完全合理】當地時間6月12日晚，伊朗外長在接受伊朗媒體採訪時表示，伊朗已經開始與很多國家就霍爾木茲海峽這一至關重要的水道通航問題進行磋商。阿拉格齊表示，從國際法的角度來審查，在霍爾木茲海峽徵收過境費是不可接受的，但收取服務費是完全被允許的。阿拉格齊還提到，根據未來可能與美國簽署的諒解備忘錄，伊朗的被凍結資產將開始解凍，但有關問題的細節必須進行充分討論。（CCTV國際時訊）
+
+---
+
+### 2026-06-13 19:51:46  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【UK Maritime Trade Operations: oil tanker struck by unidentified projectile】UK Maritime Trade Operations said on the 13th an oil tanker about 6 nm east of Oman was struck by an unidentified projectile; all crew reported safe.
+
+---
+
+### 2026-06-13 19:51:13  #其他
+
+【英國海上貿易行動辦公室：一油輪遭不明投射物擊中】英國海上貿易行動辦公室13日表示，一艘位於阿曼以東約6海里海域的油輪當天遭不明投射物擊中。據報，船上船員均安全。（央視新聞）
 
 ---
 
@@ -21401,89 +21539,5 @@ NewsNation cited a Pentagon official saying the Pentagon is preparing to send a 
 ### 2026-06-12 07:11:21  #公司
 
 【銀行專項貸強力支援 上市公司頻頻回購股份】今年以來，多家上市公司回購股份以穩定投資者信心。在此過程中，銀行發放的回購專項貸對上市公司助益頗多。事實上，回購專項貸對於上市公司和商業銀行都具有顯著的積極作用。在上市公司獲取低成本資金、積極進行市值管理的同時，商業銀行也可以最佳化資產結構，增強客戶黏性。但專家也提示，銀行需注意風險管理，確保資金與股份流向可控。（中國證券報）
-
----
-
-### 2026-06-12 07:11:16  #公司
-
-【西門子能源CEO：獲得足夠的稀土】西門子能源(Siemens Energy)執行長布魯赫（Christian Bruch）表示，該公司正從中國獲得所需的全部材料，並特別提到建造風力與燃氣輪機所需的稀土。
-
----
-
-### 2026-06-12 07:11:11  #Trading Economics #Economy #Peru #Interest Rate #Importance 1
-
-Peru Holds Rates Steady for 9th Straight Meeting — Peru’s Central Reserve Bank kept its benchmark interest rate unchanged at 4.25% in June 2026 as widely expected, extending its policy pause for a ninth consecutive meeting. Annual inflation eased to 3.9% in May from 4.0% in April, while core inflation held at 4.4%, remaining above the 1–3% target range. Meanwhile, 12-month inflation expectations edged up to 2.9% from 2.8% but stayed within the target band. The central bank expects both headline and core inflation to gradually return to target and converge toward 2% in 2027 as temporary supply-side shocks fade. Economic indicators continued to point to solid activity in May, with most business sentiment and expectations measures remaining in optimistic territory. However, policymakers noted elevated global risks stemming from Middle East tensions. The Board reiterated that it remains closely focused on inflation, expectations, economic activity, and supply shocks, and will adjust policy if needed to ensure inflation returns to target.
-
----
-
-### 2026-06-12 07:09:49  #公司 #國際
-
-【委內瑞拉推進與殼牌公司的協議 包括洛蘭氣田專案】委內瑞拉政府週四表示，該國已與英國石油巨頭殼牌公司簽署五項協議，以推進油氣專案，其中包括該公司參與開發備受矚目的7萬億立方英尺洛蘭（Loran）海上氣田。今年早些時候，委內瑞拉曾就這些及其他專案與殼牌簽署了初步協議。殼牌是少數幾家在美國於1月扣押尼古拉斯·馬杜羅總統後，率先把握委內瑞拉新能源投資機遇的大型外資企業之一。此次，各方敲定了殼牌參與洛蘭氣田的計劃，該氣田儲層延伸至千里達及托巴哥水域。雙方還達成了一項技術聯盟協議，批准在莫納加斯北油田進行採購和增產，並簽署了另一項協議，旨在採購裝置和零部件以減少天然氣燃燒。
-
----
-
-### 2026-06-12 07:09:18  #MKT News
-
-【Trump seeks to 'erase' two impeachments; experts say move is symbolic】The Wall Street Journal reports Trump and allies have discussed pushing lawmakers to pass a resolution declaring the two impeachments from his first term void. Experts say the measure would be largely symbolic because the Constitution offers no procedure to rescind impeachments. Trump told reporters in a phone interview, "It should be done because I did nothing wrong." Any effort to erase the 2019 and 2021 impeachments would reopen disputes over allegations including abuse of power, obstruction of Congress and incitement of insurrection, forcing House Republicans to reargue those charges. Insiders say the proposal is likely to be considered only after November’s midterm elections, and several House Republicans say it would still struggle to secure the votes required.
-
----
-
-### 2026-06-12 07:09:05  #公司
-
-【半導體板塊ETF逆勢連漲 通訊賽道持續獲資金佈局】6月11日，A股市場延續調整態勢，ETF市場隨之走弱，超七成產品收跌，市場情緒有所波動。半導體板塊ETF獨立走出強勢行情，佔據ETF市場漲幅榜前八，且這8只產品全部實現三連漲。資金層面，在6月10日ETF市場整體淨流出超50億元的背景下，通訊賽道ETF逆勢吸引資金淨流入。從近期公募釋出的觀點看，多家機構認為，短期市場或呈震盪態勢，但不會扭轉長期上行格局。半導體行業迎來景氣度拐點，疊加政策與產業雙重紅利，長期上行空間明確，而消費、醫療等低位板塊也已顯現佈局機會。（中國證券報）
-
----
-
-### 2026-06-12 07:08:35  #國際
-
-【沙特媒體：中國成沙特汽車市場主要供應商】據沙烏地阿拉伯《沙特公報》近日披露，沙特過去兩年進口約190萬輛汽車，而中國已成為沙特汽車市場的主要供應商之一。沙特天課、稅務和海關總局（ZATCA）公佈的資料顯示，2024年沙特汽車進口量約94萬輛。2025年，沙特汽車進口量達到約96萬輛，進一步擴大了該國本就位居全球前列的龐大汽車市場規模。報道稱，過去兩年中國一直是沙特進口汽車的主要來源國。日本位居第二，緊隨其後的是印度、泰國和韓國。美國排名第六，美系汽車在沙特汽車市場中的份額顯著下滑。(環球網)
-
----
-
-### 2026-06-12 07:08:18  #其他
-
-【券商密集修訂薪酬管理制度，強化長效約束】券商薪酬改革持續推進。6月份以來，已有十餘家券商公開表示將對薪酬管理制度進行細化完善，其中，長週期考核、遞延支付、追索扣回等制度條款是修訂重點。受訪專家表示，券商薪酬體系正從“短期激勵”轉向“長期約束”。（證券日報）
-
----
-
-### 2026-06-12 07:08:05  #公司
-
-華健未來在香港IPO中以每股81.80港元的價格發行股份。
-
----
-
-### 2026-06-12 07:07:54  #其他
-
-【硬核進階蓄積“大國重器”新勢能】6月9日，世界最大的27.1萬立方米LNG運輸船在中船旗下滬東中華正式開工。這艘總長344米的“海上巨無霸”，載貨容積、節能環保、航行安全等關鍵效能將實現全方位迭代升級，是我國船舶工業高階化發展的里程碑。一直以來，LNG運輸船與航空母艦、大型郵輪被並稱為世界船舶工業皇冠上的“三顆明珠”，只有少數國傢俱備這種建造能力。其中，LNG船的殷瓦鋼焊接技術被視為“史上最難焊接技術”。掌握這項技術的背後，是完整的產業鏈，是人才支撐，是對技術創新的不懈追求。這艘巨輪的開工，更是中國造船業綠色智慧轉型的重要一步。據悉，這艘巨輪配套的相關技術可有效降低儲運損耗，給出了節能減排的“中國方案”。（新華每日電訊）
-
----
-
-### 2026-06-12 07:06:32  #央行 #其他
-
-秘魯央行：2027年秘魯通脹目標將維持在2%左右。
-
----
-
-### 2026-06-12 07:05:46  #國際
-
-【特朗普及其盟友擬推動撤銷彈劾記錄】據知情人士透露，特朗普及其盟友已商議推動國會議員透過一項決議，意圖撤銷其首個總統任期內遭遇的兩次彈劾。該決議能讓特朗普在這件自首個任期起便一直困擾他的事情上取得象徵性勝利，也是其為美化總統任期履歷所做系列舉措的一部分。但專家表示，此舉幾乎不具備法律效力，因為美國憲法並未規定撤銷彈劾的相關流程。本週特朗普在接受《華爾街日報》電話採訪、被問及這項決議時稱：“理應這麼做，我本身並無過錯。整件事從一開始就是蓄意構陷。”特朗普曾在 2019 年和 2021 年兩度遭到彈劾。若試圖抹去這兩次彈劾記錄，勢必會再度引發圍繞其過往執政行為的爭議，也會迫使共和黨議員重新面對濫用職權、阻撓國會履職及煽動叛亂等多項指控。
-
----
-
-### 2026-06-12 07:04:54  #其他
-
-【2026年全國勞模工匠療休養活動啟動】近日，2026年全國勞模工匠療休養活動在北京啟動，200名全國勞動模範和先進工作者、全國五一勞動獎章獲得者和大國工匠代表將進行為期一週的療休養。（央視）
-
----
-
-### 2026-06-12 07:04:19  #公司
-
-【AI算力需求爆發，PCB行業掀起擴產潮】在AI算力需求爆發性增長驅動下，PCB（印製電路板）產業正迎來一輪擴產潮。據不完全統計，截至6月11日，年內已有13家PCB製造企業宣佈擴產，投資金額超600億元（含意向）。近日，記者採訪多家產業鏈上市公司高管發現，本輪擴產並非簡單的規模擴張，而更像是一場圍繞高階產能及全球市場份額展開的卡位戰。（上證報）
-
----
-
-### 2026-06-12 07:04:15  #其他
-
-【太空算力“星”途：在技術攻關與場景拓展中尋求落地節奏】隨著國內多個太空算力行業組織與機構成立、算力星座規劃陸續出爐，太空算力正從理論暢想、資本市場的熱門概念，走向實際的產業佈局。記者採訪瞭解到，AI潛在的算力缺口、商業航天的發展以及全球新的競爭格局催生太空算力需求，促使各類主體積極佈局。作為一項“超級系統工程”，太空算力涉及鏈條長、覆蓋領域多，目前尚有諸多攻堅難點，標準體系亦不健全。不過，專家認為，較之技術，如何實現商業閉環才是太空算力發展的最大挑戰，技術攻關與場景商業化拓展將共同決定其規模化落地節奏。（上證報）
 
 ---

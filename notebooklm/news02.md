@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-13 19:50:17_
-_本檔包含 3731 則快訊，約 665965 字_
+_更新時間：2026-06-13 20:27:45_
+_本檔包含 3719 則快訊，約 666383 字_
+
+---
+
+### 2026-06-12 07:11:16  #公司
+
+【西門子能源CEO：獲得足夠的稀土】西門子能源(Siemens Energy)執行長布魯赫（Christian Bruch）表示，該公司正從中國獲得所需的全部材料，並特別提到建造風力與燃氣輪機所需的稀土。
+
+---
+
+### 2026-06-12 07:11:11  #Trading Economics #Economy #Peru #Interest Rate #Importance 1
+
+Peru Holds Rates Steady for 9th Straight Meeting — Peru’s Central Reserve Bank kept its benchmark interest rate unchanged at 4.25% in June 2026 as widely expected, extending its policy pause for a ninth consecutive meeting. Annual inflation eased to 3.9% in May from 4.0% in April, while core inflation held at 4.4%, remaining above the 1–3% target range. Meanwhile, 12-month inflation expectations edged up to 2.9% from 2.8% but stayed within the target band. The central bank expects both headline and core inflation to gradually return to target and converge toward 2% in 2027 as temporary supply-side shocks fade. Economic indicators continued to point to solid activity in May, with most business sentiment and expectations measures remaining in optimistic territory. However, policymakers noted elevated global risks stemming from Middle East tensions. The Board reiterated that it remains closely focused on inflation, expectations, economic activity, and supply shocks, and will adjust policy if needed to ensure inflation returns to target.
+
+---
+
+### 2026-06-12 07:09:49  #公司 #國際
+
+【委內瑞拉推進與殼牌公司的協議 包括洛蘭氣田專案】委內瑞拉政府週四表示，該國已與英國石油巨頭殼牌公司簽署五項協議，以推進油氣專案，其中包括該公司參與開發備受矚目的7萬億立方英尺洛蘭（Loran）海上氣田。今年早些時候，委內瑞拉曾就這些及其他專案與殼牌簽署了初步協議。殼牌是少數幾家在美國於1月扣押尼古拉斯·馬杜羅總統後，率先把握委內瑞拉新能源投資機遇的大型外資企業之一。此次，各方敲定了殼牌參與洛蘭氣田的計劃，該氣田儲層延伸至千里達及托巴哥水域。雙方還達成了一項技術聯盟協議，批准在莫納加斯北油田進行採購和增產，並簽署了另一項協議，旨在採購裝置和零部件以減少天然氣燃燒。
+
+---
+
+### 2026-06-12 07:09:18  #MKT News
+
+【Trump seeks to 'erase' two impeachments; experts say move is symbolic】The Wall Street Journal reports Trump and allies have discussed pushing lawmakers to pass a resolution declaring the two impeachments from his first term void. Experts say the measure would be largely symbolic because the Constitution offers no procedure to rescind impeachments. Trump told reporters in a phone interview, "It should be done because I did nothing wrong." Any effort to erase the 2019 and 2021 impeachments would reopen disputes over allegations including abuse of power, obstruction of Congress and incitement of insurrection, forcing House Republicans to reargue those charges. Insiders say the proposal is likely to be considered only after November’s midterm elections, and several House Republicans say it would still struggle to secure the votes required.
+
+---
+
+### 2026-06-12 07:09:05  #公司
+
+【半導體板塊ETF逆勢連漲 通訊賽道持續獲資金佈局】6月11日，A股市場延續調整態勢，ETF市場隨之走弱，超七成產品收跌，市場情緒有所波動。半導體板塊ETF獨立走出強勢行情，佔據ETF市場漲幅榜前八，且這8只產品全部實現三連漲。資金層面，在6月10日ETF市場整體淨流出超50億元的背景下，通訊賽道ETF逆勢吸引資金淨流入。從近期公募釋出的觀點看，多家機構認為，短期市場或呈震盪態勢，但不會扭轉長期上行格局。半導體行業迎來景氣度拐點，疊加政策與產業雙重紅利，長期上行空間明確，而消費、醫療等低位板塊也已顯現佈局機會。（中國證券報）
+
+---
+
+### 2026-06-12 07:08:35  #國際
+
+【沙特媒體：中國成沙特汽車市場主要供應商】據沙烏地阿拉伯《沙特公報》近日披露，沙特過去兩年進口約190萬輛汽車，而中國已成為沙特汽車市場的主要供應商之一。沙特天課、稅務和海關總局（ZATCA）公佈的資料顯示，2024年沙特汽車進口量約94萬輛。2025年，沙特汽車進口量達到約96萬輛，進一步擴大了該國本就位居全球前列的龐大汽車市場規模。報道稱，過去兩年中國一直是沙特進口汽車的主要來源國。日本位居第二，緊隨其後的是印度、泰國和韓國。美國排名第六，美系汽車在沙特汽車市場中的份額顯著下滑。(環球網)
+
+---
+
+### 2026-06-12 07:08:18  #其他
+
+【券商密集修訂薪酬管理制度，強化長效約束】券商薪酬改革持續推進。6月份以來，已有十餘家券商公開表示將對薪酬管理制度進行細化完善，其中，長週期考核、遞延支付、追索扣回等制度條款是修訂重點。受訪專家表示，券商薪酬體系正從“短期激勵”轉向“長期約束”。（證券日報）
+
+---
+
+### 2026-06-12 07:08:05  #公司
+
+華健未來在香港IPO中以每股81.80港元的價格發行股份。
+
+---
+
+### 2026-06-12 07:07:54  #其他
+
+【硬核進階蓄積“大國重器”新勢能】6月9日，世界最大的27.1萬立方米LNG運輸船在中船旗下滬東中華正式開工。這艘總長344米的“海上巨無霸”，載貨容積、節能環保、航行安全等關鍵效能將實現全方位迭代升級，是我國船舶工業高階化發展的里程碑。一直以來，LNG運輸船與航空母艦、大型郵輪被並稱為世界船舶工業皇冠上的“三顆明珠”，只有少數國傢俱備這種建造能力。其中，LNG船的殷瓦鋼焊接技術被視為“史上最難焊接技術”。掌握這項技術的背後，是完整的產業鏈，是人才支撐，是對技術創新的不懈追求。這艘巨輪的開工，更是中國造船業綠色智慧轉型的重要一步。據悉，這艘巨輪配套的相關技術可有效降低儲運損耗，給出了節能減排的“中國方案”。（新華每日電訊）
+
+---
+
+### 2026-06-12 07:06:32  #央行 #其他
+
+秘魯央行：2027年秘魯通脹目標將維持在2%左右。
+
+---
+
+### 2026-06-12 07:05:46  #國際
+
+【特朗普及其盟友擬推動撤銷彈劾記錄】據知情人士透露，特朗普及其盟友已商議推動國會議員透過一項決議，意圖撤銷其首個總統任期內遭遇的兩次彈劾。該決議能讓特朗普在這件自首個任期起便一直困擾他的事情上取得象徵性勝利，也是其為美化總統任期履歷所做系列舉措的一部分。但專家表示，此舉幾乎不具備法律效力，因為美國憲法並未規定撤銷彈劾的相關流程。本週特朗普在接受《華爾街日報》電話採訪、被問及這項決議時稱：“理應這麼做，我本身並無過錯。整件事從一開始就是蓄意構陷。”特朗普曾在 2019 年和 2021 年兩度遭到彈劾。若試圖抹去這兩次彈劾記錄，勢必會再度引發圍繞其過往執政行為的爭議，也會迫使共和黨議員重新面對濫用職權、阻撓國會履職及煽動叛亂等多項指控。
+
+---
+
+### 2026-06-12 07:04:54  #其他
+
+【2026年全國勞模工匠療休養活動啟動】近日，2026年全國勞模工匠療休養活動在北京啟動，200名全國勞動模範和先進工作者、全國五一勞動獎章獲得者和大國工匠代表將進行為期一週的療休養。（央視）
+
+---
+
+### 2026-06-12 07:04:19  #公司
+
+【AI算力需求爆發，PCB行業掀起擴產潮】在AI算力需求爆發性增長驅動下，PCB（印製電路板）產業正迎來一輪擴產潮。據不完全統計，截至6月11日，年內已有13家PCB製造企業宣佈擴產，投資金額超600億元（含意向）。近日，記者採訪多家產業鏈上市公司高管發現，本輪擴產並非簡單的規模擴張，而更像是一場圍繞高階產能及全球市場份額展開的卡位戰。（上證報）
+
+---
+
+### 2026-06-12 07:04:15  #其他
+
+【太空算力“星”途：在技術攻關與場景拓展中尋求落地節奏】隨著國內多個太空算力行業組織與機構成立、算力星座規劃陸續出爐，太空算力正從理論暢想、資本市場的熱門概念，走向實際的產業佈局。記者採訪瞭解到，AI潛在的算力缺口、商業航天的發展以及全球新的競爭格局催生太空算力需求，促使各類主體積極佈局。作為一項“超級系統工程”，太空算力涉及鏈條長、覆蓋領域多，目前尚有諸多攻堅難點，標準體系亦不健全。不過，專家認為，較之技術，如何實現商業閉環才是太空算力發展的最大挑戰，技術攻關與場景商業化拓展將共同決定其規模化落地節奏。（上證報）
 
 ---
 
@@ -22354,161 +22438,5 @@ SpaceX在IPO承銷團隊安排中僅給部分銀行分配次要席位，引發�
 ### 2026-06-11 02:14:10  #MKT News
 
 【U.S. May tariff collections roughly matched refunds】The U.S. Treasury said on Wednesday net tariff revenue for May was roughly zero. Collections totaled $22bn, about the same as May 2025, while refunds also amounted to $22bn. Fiscal-year-to-date (since Oct. 1, 2025) net tariff receipts are $189bn, versus $81bn a year earlier. The Treasury said the budget deficit for the first eight months of the fiscal year, adjusted for calendar factors, is about 2% smaller year-on-year, roughly $24bn.
-
----
-
-### 2026-06-11 02:13:17  #國際
-
-美國銀行發現，亞太地區對人工智慧驅動的資金管理及外匯解決方案需求持續增長。
-
----
-
-### 2026-06-11 02:10:19  #國際
-
-美國國務卿魯比奧將在比賽間隙與巴拉圭總統會面。
-
----
-
-### 2026-06-11 02:09:56  #國際
-
-美國國務卿魯比奧將率代表團前往洛杉磯觀看對陣巴拉圭的世界盃賽事。
-
----
-
-### 2026-06-11 02:09:04  #國際
-
-美國能源部長賴特：我十分欽佩特朗普總統的魄力。我從未見過有誰能接受伊朗擁有核武器。這場衝突終將落幕。但民主黨推高電價、汽油及柴油價格的政策，卻已然成為常態。
-
----
-
-### 2026-06-11 02:09:00  #MKT News
-
-【U.S. Justice Department probes whether major U.S. banks closed customer accounts for political reasons】The U.S. Justice Department has subpoenaed several large U.S. banks, including JPMorgan and Bank of America, seeking records on whether banks improperly closed customer accounts for political reasons, the Wall Street Journal reports citing sources. The subpoenas were issued by the U.S. Attorney’s Office for the District of Columbia, led by Jeanine Pirro, and mark an escalation of a Trump-led probe into whether banks discriminated against conservatives and politically sensitive industries, including businesses linked to the Trump family. Trump has alleged JPMorgan and Bank of America closed his accounts after the Jan. 6 events; in August he signed an executive order directing bank regulators to investigate politically motivated de-banking and consider penalties.
-
----
-
-### 2026-06-11 02:07:44  #國際
-
-美國國務卿魯比奧將於6月12日至13日前往洛杉磯。
-
----
-
-### 2026-06-11 02:05:33  #國際
-
-路透社調查顯示，美國能源資訊署（EIA）週四公佈的報告料顯示，上週美國天然氣庫存增加990億立方英尺。
-
----
-
-### 2026-06-11 02:05:27  #MKT News
-
-Iran's foreign ministry said the US military, as part of its aggressive operations against Iran, deliberately struck civilian water infrastructure in Sirik, Hormozgan province, destroying two reservoirs with a combined capacity of 2,500 cubic meters that supply drinking water to more than 20,000 residents across 10 villages.
-
----
-
-### 2026-06-11 02:04:33  #MKT News #US10Y #Impact bullish
-
-US Treasury data: FY2026-to-date cumulative budget deficit $1.246 tln, versus $1.364 tln in the same period of the prior fiscal year. May customs net receipts were -$42 mln.
-
----
-
-### 2026-06-11 02:04:19  #國際
-
-伊朗外交部：美國襲擊了重要的民用水利基礎設施。
-
----
-
-### 2026-06-11 02:02:24  #宏觀 #焦點
-
-智利財政部表示，預計2026年至2030年期間銅均價為每磅5.50美元。
-
----
-
-### 2026-06-11 02:02:13  #公司
-
-L3哈里斯技術公司：將於2026年在阿拉巴馬州亨茨維爾啟動“吸血鬼”系統的量產專案。
-
----
-
-### 2026-06-11 02:02:05  #公司 #國際
-
-L3哈里斯技術公司：獲得美國陸軍價值最高1.06億美元的“吸血鬼”反無人機系統訂單。
-
----
-
-### 2026-06-11 02:01:39  #公司 #國際
-
-L3哈里斯技術公司獲美國陸軍選定，將提供“吸血鬼”反無人機系統。
-
----
-
-### 2026-06-11 01:59:52  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-U.S. May government budget deficit $292.65 bln, versus forecast deficit $275.00 bln; prior month surplus $215.00 bln.
-
----
-
-### 2026-06-11 01:59:38  #MKT News #Economic Calendar #Important
-
-United States | Government Budget (May) | actual -292648000000B | consensus -275000000000B | previous 215000000000B
-
----
-
-### 2026-06-11 01:59:11  #國際
-
-美國5月政府預算 -2926.48億美元，預期 -2820億美元，前值 2150億美元。
-
----
-
-### 2026-06-11 01:59:05  #其他
-
-Visa：透過合作將提供其全球網路、資質認證能力及安全基礎設施，以支撐智慧體商務體驗。
-
----
-
-### 2026-06-11 01:58:51  #其他
-
-Visa：作為合作協議的一部分，Visa的支付能力將整合進OpenAI的產品服務中。
-
----
-
-### 2026-06-11 01:57:12  #宏觀
-
-智利財政部長：2027年與2028年智利國內生產總值將增長3%，2030年增速將達到3.5%。
-
----
-
-### 2026-06-11 01:55:29  #MKT News #Macro & Rates
-
-Chile's finance minister expects GDP to grow 3% in 2027 and 2028, rising to 3.5% by 2030.
-
----
-
-### 2026-06-11 01:54:38  #市場 #國際
-
-【美媒稱特朗普因協議無進展打擊伊朗】當地時間6月10日，據美國“阿克西奧斯新聞網站（Axios）”報道，美軍對伊朗發動打擊的直接導火索是美軍直升機墜毀事件，但美國總統特朗普實際上已因伊朗近兩週未回應美國就協議所作提議而越來越不滿。報道稱，美方認為此次打擊有助於恢復美國在談判中的籌碼，同時又不至於徹底關閉外交解決的大門。據披露，特朗普在5月29日白宮戰情室會議後，要求修改原本已接近達成的美伊諒解備忘錄。根據其新增要求，伊朗需在60天內對濃縮鈾進行稀釋處理，並承諾不對透過霍爾木茲海峽的船隻徵收通行費。作為交換，美方同意相關核材料可留在伊朗境內處理，並接受國際原子能機構的監督。 報道指出，目前在卡達的斡旋下，美伊仍在繼續間接接觸。美國官員表示，協議依然擺在桌面上，但如果伊朗繼續拖延，特朗普已準備讓伊朗“付出代價”。
-
----
-
-### 2026-06-11 01:54:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-DOE is soliciting proposals for swaps of up to 40 mln barrels of crude from the Strategic Petroleum Reserve sites Bryan Mound and Big Hill.
-
----
-
-### 2026-06-11 01:54:07  #MKT News #Market Regions #Wall Street (US) #JPM.N #Impact bearish #BAC.N
-
-The Wall Street Journal reports U.S. federal prosecutors in Washington, D.C. have subpoenaed JPMorgan and Bank of America, among others, as part of a probe into alleged 'debanking' practices.
-
----
-
-### 2026-06-11 01:53:58  #國際
-
-【特朗普：美軍護航行動使得超過1億桶石油透過霍爾木茲海峽】美國總統特朗普稱：“上月，我下令強大的美軍執行秘密任務，為通行霍爾木茲海峽的油輪及其他商船提供護航。如今我很高興地宣佈，已有超過1億桶原油經該海峽運往公開市場，200餘艘商船安全通行。此次行動大獲成功，這證明掌控霍爾木茲海峽的是美國，而非伊朗。伊朗軍隊已然落敗，經濟陷入困境，伊朗大勢已去！”
-
----
-
-### 2026-06-11 01:53:15  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump says U.S. military escort enabled over 100 million barrels of oil to reach open market via Strait of Hormuz】Trump posted on social media saying he ordered the U.S. military last month to carry out a secret mission to support tankers and other commercial vessels transiting the Strait of Hormuz. He said the operation has enabled more than 100 million barrels of oil to pass through the Strait and enter the open market, and that over 200 commercial vessels have transited safely. He added the action shows the United States, not Iran, controls the Strait of Hormuz.
 
 ---
