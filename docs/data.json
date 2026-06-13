@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-14 04:41:17",
+  "updated": "2026-06-14 04:45:17",
   "count": 18454,
   "items": [
+    {
+      "id": "4934034",
+      "time": "2026-06-14 04:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "約300架烏克蘭無人機正針對俄羅斯本土及俄控區域展開行動。"
+    },
     {
       "id": "mkt:019ec2b6-652d-7dd8-afee-27f1b6cc55cf",
       "time": "2026-06-14 04:39:53",
@@ -169647,15 +169655,6 @@
         "MKT News"
       ],
       "text": "Sources said the United States will use mechanisms to provide Iranian assets to Gulf allies to fund reconstruction and repairs for damage Iran may cause in the future."
-    },
-    {
-      "id": "4921452",
-      "time": "2026-06-07 04:42:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場資訊：美國先鋒集團釋出報告稱，受財務壓力加劇影響，2025年有6%的401(k)計劃參與者辦理了困難支取。"
     }
   ]
 }
