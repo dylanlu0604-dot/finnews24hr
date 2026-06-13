@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-13 10:38:52",
-  "count": 18397,
+  "updated": "2026-06-13 10:42:55",
+  "count": 18399,
   "items": [
+    {
+      "id": "mkt:019ebedb-c963-7dd8-afe8-0c5b8e26d888",
+      "time": "2026-06-13 10:42:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iranian outlet Fars News, Iran's foreign minister has been accused of undermining Tehran's negotiating position by pandering to Trump's line."
+    },
+    {
+      "id": "4933613",
+      "time": "2026-06-13 10:42:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長被指在與美方談判中一改此前立場、作出讓步。"
+    },
+    {
+      "id": "mkt:019ebed9-7ad2-7dd8-afe8-02ddd18c6889",
+      "time": "2026-06-13 10:39:44",
+      "tags": [
+        "MKT News",
+        "JD.O",
+        "PDD.O",
+        "3690.HK"
+      ],
+      "text": "【Shenzhen regulator holds compliance briefing for 6·18 online promotions】June 11 — Shenzhen Market Supervision Bureau convened a citywide administrative guidance meeting on compliance ahead of the 6·18 promotional period. About 103 representatives from more than 60 platforms, e‑commerce firms and industry associations attended, including WeChat Shops, Meituan, JD.com, Pinduoduo and Douyin. The regulator issued guidance across five priorities: transparency/public disclosure, fair competition, subsidy/promotional conduct, advertising/marketing, and food safety. The meeting stressed alignment with a series of new rules from the State Administration for Market Regulation, reinforcement of operators’ primary responsibility, and the need for rational, compliant promotions to maintain a healthy, orderly and fair online consumption environment."
+    },
+    {
+      "id": "4933611",
+      "time": "2026-06-13 10:38:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西啟動防汛四級應急響應】記者從江西省防汛抗旱指揮部獲悉，鑑於當前防汛形勢，決定自6月13日8時起啟動防汛四級應急響應。氣象部門提醒，近日江西有較大範圍強降雨天氣，公眾需注意防範道路溼滑、能見度降低等對出行的不利影響，謹慎前往山區、河道、地勢低窪等區域活動，警惕山洪、地質災害、城鄉積澇等次生災害。江西省防汛抗旱指揮部要求各地各部門按照職責分工和預案規定，全力做好防汛工作。 (新華社)"
+    },
+    {
+      "id": "4933610",
+      "time": "2026-06-13 10:38:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本一核電站審查資料發現大量錯誤】在日本原子能規制委員會6月12日召開的審查會議上，日本北陸電力公司稱，在該公司旗下的石川縣誌賀核電站2號機組審查資料中發現了216處錯誤。出現錯誤的是有關核電站周邊海域地震可能引發的海嘯高度的說明資料。在總計169頁的檔案中，有26頁存在資料謄寫錯誤、內容遺漏等問題。原子能規制委要求北陸電力查明原因、研究對策，並在下次會議上作出說明。（CCTV國際時訊）"
+    },
     {
       "id": "4933607",
       "time": "2026-06-13 10:38:06",
@@ -169195,33 +169239,6 @@
         "國際"
       ],
       "text": "印尼央行：將加強共同努力穩定印尼盾匯率。"
-    },
-    {
-      "id": "mkt:019e9acf-c5bc-7665-830f-60a59c2965a6",
-      "time": "2026-06-06 10:42:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China launches Langya 2.0 global ocean forecasting AI model】China's Institute of Oceanology at the Chinese Academy of Sciences released Langya 2.0 on June 6. The in-house, AI-driven large-scale model is designed to forecast global ocean phenomena and provide technological support for marine disaster prevention and reduction and for shipping safety."
-    },
-    {
-      "id": "4920927",
-      "time": "2026-06-06 10:41:40",
-      "tags": [
-        "宏觀",
-        "其他"
-      ],
-      "text": "【產品碳足跡核查機構認可制度釋出實施】記者今天瞭解到，經市場監管總局（國家認監委）批准，中國合格評定國家認可委員會（CNAS）近日釋出實施產品碳足跡核查機構認可制度。該制度對產品碳足跡核查機構的基本資格、人員能力、核查活動規範性以及獲得認可的程式作出規定。該制度實施後，將進一步規範產品碳足跡核查機構行為，提升產品碳足跡資料質量，助力健全我國產品碳足跡管理制度。（央視新聞）"
-    },
-    {
-      "id": "4920925",
-      "time": "2026-06-06 10:39:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【算得更快更準 全球海洋現象智慧預報大模型“琅琊”2.0釋出】今天（6月6日），由中國科學院海洋研究所自主研發的全球海洋現象智慧預報大模型——“琅琊”2.0釋出。該海洋預報大模型將為海洋防災減災、航運安全保障等提供智慧化科技支撐。全球海洋預報過去依賴數值模式，透過將海洋運動過程轉化為數值方程，並進行大規模計算得出結果。這種模式相對來說精度低，計算成本大，更新頻率低。智慧預報大模型主要解決兩個問題，一個是算得更快，一個是算得更準。（央視新聞）"
     }
   ]
 }
