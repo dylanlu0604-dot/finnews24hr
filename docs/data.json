@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-13 17:39:44",
-  "count": 18364,
+  "updated": "2026-06-13 17:43:48",
+  "count": 18361,
   "items": [
+    {
+      "id": "mkt:019ec05d-14e8-7dd8-afe9-c14e42f1a1e4",
+      "time": "2026-06-13 17:43:06",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【CSDC report: A‑share investor count tops 250 million】China Securities Depository and Clearing Co. said in its June 12 2025 annual report that 13.87 mln new investors were added in 2025, of which 13.83 mln were natural persons, taking the year‑end investor count to 250.67 mln, up 5.86% y/y. CSDC said the period‑end investor figure counts single‑ID accounts holding active, non‑cancelled, non‑dormant A‑ or B‑share accounts. At end‑2025 CSDC‑registered market values were 137.80 tln yuan on the Shanghai/Shenzhen exchanges, 869.442 bln yuan on the Beijing Stock Exchange and 1,978.021 bln yuan on the National Equities Exchange and Quotations; within Shanghai/Shenzhen A‑shares amounted to 107.84 tln yuan and B‑shares to 111.409 bln yuan."
+    },
+    {
+      "id": "4933770",
+      "time": "2026-06-13 17:42:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【楊雨松辭任西南證券總經理，已履新渝富控股總經理】6月12日晚間，西南證券釋出公告稱，因工作調動原因，楊雨松辭去公司董事、總經理職務，暫由公司董事長姜棟林代行總經理職責。據記者進一步獲悉，楊雨松此次離任系重返重慶渝富控股集團有限公司（簡稱“渝富控股”），並已出任渝富控股黨委副書記、總經理、董事。（每經）"
+    },
     {
       "id": "mkt:019ec055-ecd9-7dd8-afe9-ba3bb3b34cdb",
       "time": "2026-06-13 17:35:17",
@@ -168816,50 +168835,6 @@
         "公司"
       ],
       "text": "【無錫：聚焦AIDC、Token等前沿賽道 分層分類梳理專案清單、建立推進機制】據無錫日報訊息，6月6日，無錫市委書記杜小剛主持召開全市積體電路（人工智慧）產業發展專題推進會。會議強調，要夯實專案支撐。緊盯設計、製造、封測和裝備材料等重點環節，聚焦AIDC、Token等前沿賽道，分層分類梳理專案清單、建立推進機制，強化對重點專案特別是標杆專案的常態排程、掛鉤服務、精準支援。同時，密切與上市公司、龍頭企業、科研院所、投資機構等對接，把握行業趨勢、精準切入賽道，共同落地更多優質增量專案。"
-    },
-    {
-      "id": "mkt:019e9c51-05ac-7665-8311-f00f048d789f",
-      "time": "2026-06-06 17:43:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait's Foreign Ministry reiterated that Kuwait reserves the right to take all necessary measures to safeguard national security, defend territorial integrity, protect critical infrastructure and respond to any aggression or threats."
-    },
-    {
-      "id": "mkt:019e9c50-59df-7665-8311-e9a576059702",
-      "time": "2026-06-06 17:42:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's foreign ministry strongly condemned Iran's repeated hostile acts of aggression, particularly today's pre-dawn attack."
-    },
-    {
-      "id": "4921234",
-      "time": "2026-06-06 17:42:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安陽鋼鐵：與安徽中鋼聯新材料等簽約先進合金材料新專案】據安陽鋼鐵公眾號訊息，6月6日，河南鋼鐵集團黨委常委、副總經理、‌安陽鋼鐵股份有限公司‌黨委書記、董事長程官江和安陽高新區黨工委委員、管委會副主任田建濱一同前往六安市，與安徽中鋼聯新材料有限公司董事長呂林舉行了先進合金材料暨複合板專案簽約儀式。此次簽約標誌著三方強強聯合、政企協同的新材料產業化專案正式落地，將進一步補齊先進合金複合材料產業鏈短板，助力安陽鋼鐵產業向高階化、精細化轉型升級。"
-    },
-    {
-      "id": "mkt:019e9c4f-3f76-7665-8311-e39e93beb924",
-      "time": "2026-06-06 17:41:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya TV, citing sources, said Pakistan's interior minister will travel to Iran to discuss ways to reach a US-Iran memorandum of understanding."
-    },
-    {
-      "id": "mkt:019e9c4e-8565-7665-8311-d977a367ecd0",
-      "time": "2026-06-06 17:40:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya cited sources saying messages between the US and Iran were relayed via Iraqi Foreign Minister al-Alaki and US Middle East envoy Witkoff."
     }
   ]
 }
