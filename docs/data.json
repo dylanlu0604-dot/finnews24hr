@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-14 04:45:17",
-  "count": 18454,
+  "updated": "2026-06-14 04:49:18",
+  "count": 18450,
   "items": [
+    {
+      "id": "4934035",
+      "time": "2026-06-14 04:45:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普擬提名前商品期貨交易委員會執法主管麥克唐納出任華爾街最高檢察官】特朗普表示，計劃任命詹姆斯・麥克唐納為紐約南區聯邦檢察官。該聯邦檢察官辦公室負責處理多起涉及華爾街的重大案件。麥克唐納將接替傑伊·克萊頓。約兩週前，特朗普提名克萊頓出任美國國家情報總監，此前其臨時任命——住房事務官員比爾·普爾特——遭到國會強烈反對。現任國家情報總監圖爾茜·加巴德宣佈辭職後，特朗普曾提名普爾特接任。"
+    },
     {
       "id": "4934034",
       "time": "2026-06-14 04:41:03",
@@ -169613,48 +169622,6 @@
         "XAUUSD"
       ],
       "text": "BESSENT instructed a team to assess the condition of Gulf allies and to quantify losses inflicted by Iran."
-    },
-    {
-      "id": "mkt:019e9eb1-e3e7-7665-8314-cb19f2246d6c",
-      "time": "2026-06-07 04:48:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US will consider whether Iranian assets can be used to compensate for past losses, people familiar with the matter said."
-    },
-    {
-      "id": "4921455",
-      "time": "2026-06-07 04:48:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "據知情訊息人士透露，美國將考慮能否動用伊朗資產來賠償過往事件造成的損失。"
-    },
-    {
-      "id": "4921454",
-      "time": "2026-06-07 04:48:07",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "據知情訊息人士透露，美國財政部長貝森特已指示團隊評估海灣盟友的狀況，以及伊朗襲擊造成破壞的修復成本。"
-    },
-    {
-      "id": "4921453",
-      "time": "2026-06-07 04:48:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "據知情訊息人士透露，美國將動用相關工具，向海灣盟友開放伊朗資產，用以支援重建與修復伊朗未來造成破壞所產生的相關工作。"
-    },
-    {
-      "id": "mkt:019e9eb1-325c-7665-8314-c68f7ab1db54",
-      "time": "2026-06-07 04:47:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said the United States will use mechanisms to provide Iranian assets to Gulf allies to fund reconstruction and repairs for damage Iran may cause in the future."
     }
   ]
 }
