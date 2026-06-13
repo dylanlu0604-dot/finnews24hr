@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-13 19:21:24",
-  "count": 18400,
+  "updated": "2026-06-13 19:25:25",
+  "count": 18405,
   "items": [
+    {
+      "id": "mkt:019ec0b9-edbc-7dd8-afea-a9c841e8b215",
+      "time": "2026-06-13 19:24:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Israeli military says air-raid sirens activated in the Margaliot area in northern Israel after suspected hostile aircraft penetration."
+    },
+    {
+      "id": "4933823",
+      "time": "2026-06-13 19:22:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理：下週將舉行技術層面談判，討論美伊協議電子簽署後的相關事宜。"
+    },
+    {
+      "id": "mkt:019ec0b7-c935-7dd8-afea-a50c775c6ada",
+      "time": "2026-06-13 19:22:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Pakistani Prime Minister Sharif said he believes a historic agreement between Washington and Tehran will lay the groundwork for lasting peace."
+    },
+    {
+      "id": "4933822",
+      "time": "2026-06-13 19:21:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理：我相信華盛頓和德黑蘭之間達成的歷史性協議將為持久和平奠定基礎。"
+    },
+    {
+      "id": "4933821",
+      "time": "2026-06-13 19:21:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦總理：美國和伊朗已就一項和平協議框架達成一致，該協議將結束中東地區持續數月的衝突。美國和伊朗已就和平協議的最終文字達成一致。"
+    },
     {
       "id": "mkt:019ec0b2-4e28-7dd8-afea-9d26b0f80dd5",
       "time": "2026-06-13 19:16:11",
