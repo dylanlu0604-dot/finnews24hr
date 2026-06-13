@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-13 13:52:15",
-  "count": 18389,
+  "updated": "2026-06-13 13:56:29",
+  "count": 18390,
   "items": [
+    {
+      "id": "4933689",
+      "time": "2026-06-13 13:54:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊靈智慧與騰訊雲達成戰略合作】據騰訊雲訊息，近日，深圳市訊靈智慧技術科技有限公司與騰訊雲端計算（北京）有限責任公司正式簽署戰略合作協議。雙方將圍繞技術底座共建、AI營銷一體化方案、智慧辦公協同、行業生態與標準建設四大領域展開深度協作。"
+    },
+    {
+      "id": "mkt:019ebf89-57d0-7dd8-afe8-7465101ab6a4",
+      "time": "2026-06-13 13:51:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【D.C. Circuit upholds order to remove Trump's name from Kennedy Center】The U.S. Court of Appeals for the D.C. Circuit on the 12th dismissed appeals by the U.S. government and the Kennedy Center board, upholding a federal district court order requiring President Trump's name to be removed from the John F. Kennedy Center for the Performing Arts by the end of the day on the 12th Eastern Time."
+    },
     {
       "id": "4933688",
       "time": "2026-06-13 13:48:29",
@@ -169143,14 +169159,6 @@
         "公司"
       ],
       "text": "【安科生物：全球首款CD7 CAR-T兒童適應症一期臨床啟動】據安科生物訊息，復發難治T淋巴母細胞白血病/淋巴瘤是兒童血液腫瘤中極具侵襲性的惡性疾病。患兒在常規化療、造血幹細胞移植失敗後，臨床可選方案寥寥。6月4日，安科生物參股公司博生吉醫藥自主研發的全球首款進入臨床階段的靶向CD7自體CAR-T產品PA3-17兒童適應症臨床試驗啟動會在組長單位中國醫學科學院血液病醫院（血液學研究所）召開，專案正式進入Ⅰ期臨床籌備階段，中國原創細胞治療在兒童血液病領域迎來突破。"
-    },
-    {
-      "id": "4921139",
-      "time": "2026-06-06 13:53:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "·【全國首例盲人腦機介面復明成功】湖南長沙湘雅醫院成功用侵入式腦機介面，使一名女性失明患者重獲光明，患者已能精準識別地面的黑色路線自行行走。（重慶廣電）"
     }
   ]
 }
