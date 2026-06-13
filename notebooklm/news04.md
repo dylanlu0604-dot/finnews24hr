@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-13 21:49:51_
-_本檔包含 3646 則快訊，約 667998 字_
+_更新時間：2026-06-13 22:53:05_
+_本檔包含 3642 則快訊，約 668359 字_
+
+---
+
+### 2026-06-09 23:24:44  #MKT News #Market Themes #AI Revolution #JPM.O #Impact bullish
+
+【JP Morgan to deploy more capable AI agents later this year】JP Morgan plans to deploy more capable AI agents later this year, CNBC reports. Chief Analytics Officer Derek Waldron told CNBC the agents are evolving from single-task tools into digital workers that can manage multi-step workflows across different software and run autonomously for one to two hours rather than just two to three minutes. The bank says AI is already lifting results—private bank total sales are up about 20%—and could ultimately allow bankers to expand client coverage by as much as 50%.
+
+---
+
+### 2026-06-09 23:24:09  #其他
+
+5 月，外國投資者在伊斯坦布林證券交易所明星板及主機板股票市場淨賣出 8.504 億美元。
+
+---
+
+### 2026-06-09 23:21:45  #MKT News #Star Stocks #Meta Platforms #Market Regions #Europe & UK #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+The European Commission has ordered Meta Platforms (META.O) to comply within five working days.
+
+---
+
+### 2026-06-09 23:21:36  #MKT News #Star Stocks #Meta Platforms #Market Regions #Europe & UK #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+EU: orders related to Meta Platforms (META.O) will remain in effect until the EU investigation concludes.
+
+---
+
+### 2026-06-09 23:21:21  #MKT News #Star Stocks #Meta Platforms #Market Regions #Europe & UK #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+EU says its order against Meta Platforms (META.O) is intended to protect competition among AI chatbots and to prevent irreversible market harm.
+
+---
+
+### 2026-06-09 23:21:20  #國際
+
+歐盟：該裁決將持續生效，直至針對Meta的調查結束。該裁決旨在維護 AI 聊天機器人領域的市場競爭，避免市場遭受無法挽回的損害。 需在五個工作日內遵守該裁決。
+
+---
+
+### 2026-06-09 23:21:00  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+Meta Platforms (META.O) said it will appeal the EU order, calling the measure regulatory overreach.
+
+---
+
+### 2026-06-09 23:20:40  #國際
+
+Meta： 將對歐盟的裁決提起上訴， 歐盟此項裁決屬於監管越界，背後有歐洲付費企業暗中推動。
+
+---
+
+### 2026-06-09 23:18:50  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bearish
+
+Echo reports the European Union has ordered Meta Platforms (META.O) to allow rival AI chatbots free access to WhatsApp.
+
+---
+
+### 2026-06-09 23:18:10  #國際
+
+市場訊息：歐盟勒令Meta允許競品 AI 聊天機器人免費接入 WhatsApp。
+
+---
+
+### 2026-06-09 23:18:02  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google will begin rolling out a private-preview update to select enterprise Google Workspace customers this month, with a broader release planned later this year.
+
+---
+
+### 2026-06-09 23:16:52  #公司
+
+谷歌：本月起面向部分谷歌辦公套件企業客戶開放新版功能專屬預覽，今年晚些時候全面推送。
+
+---
+
+### 2026-06-09 23:16:16  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Plunges as Investors Await US Inflation — Silver prices tumbled to $66 per ounce on Tuesday, retracing to levels last seen in December 2025, as investors turned their attention to the upcoming US inflation report. The report, due Wednesday, is expected to show inflation climbing to 4.2% in May, its highest in nearly three years, fueled by soaring energy prices. The inflation outlook follows last week’s stronger-than-expected US jobs data, which revealed 172,000 jobs added in May, surpassing forecasts. This has led investors to ramp up bets on Federal Reserve rate hikes this year, with traders now pricing in a 70% chance of a December increase. Meanwhile, signs of a potential Middle East deal emerged after Iran and Israel halted attacks following a US appeal, pushing oil prices lower and temporarily easing inflation concerns, though uncertainty lingers.
+
+---
+
+### 2026-06-09 23:15:34  #MKT News #AMAT.O
+
+U.S. Trade Representative Greer will visit Applied Materials (AMAT.O) research and development facility in Sunnyvale, California on Friday.
+
+---
+
+### 2026-06-09 23:15:06  #公司
+
+谷歌：Gemini 3.5 模型現已在全球安卓及 iOS 端的谷歌翻譯應用中逐步上線。
+
+---
+
+### 2026-06-09 23:14:53  #國際
+
+市場訊息：美國貿易代表格里爾將於週五參觀位於加州森尼韋爾的應用材料(AMAT.O)研發設施。
+
+---
+
+### 2026-06-09 23:14:46  #Trading Economics #Economy #Tanzania #Inflation Rate #Importance 0
+
+Tanzania Inflation Rate Up for 2nd Month — The annual inflation rate in Tanzania edged up to 4.2% in May 2026 from 4% in the prior month, marking the highest level since April 2023. Upward pressure came primarily from prices of transportation (11.9% vs 9.2% in April) and food & non-alcoholic beverages (5.6% vs 5.7%); alongside miscellaneous goods & services (3.5% vs 3.5%) and education (2.7% vs 2.6%). Meanwhile, prices slowed down for some CPI items, including housing & utilities (0.7% vs 1.7%); health (1.4% vs 1.6%) and clothing & footwear (1.5% vs 1.6%). On a monthly basis, the CPI rose by 0.2%, following a 1.3% increase in the month before.
+
+---
+
+### 2026-06-09 23:14:30  #MKT News
+
+Google launches Gemini 3.5 Real-Time Translation, its latest real-time speech-to-speech audio translation model.
+
+---
+
+### 2026-06-09 23:13:52  #公司
+
+谷歌：推出 Gemini 3.5 實時翻譯功能，這是旗下最新的實時語音互譯音訊模型。
+
+---
+
+### 2026-06-09 23:13:42  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Drops Ahead of US Inflation Data — Gold prices dropped to $4,300 per ounce on Tuesday, returning to levels last seen in December 2025, as investors shifted focus to the upcoming US inflation report, due Wednesday, with expectations that the inflation rate climbed to 4.2% in May, its highest level in nearly three years, driven by a surge in energy prices. The anticipated inflation rise follows last week’s stronger-than-expected US jobs report, which showed the economy added 172,000 jobs in May, well above forecasts. This prompted investors to increase bets on Federal Reserve interest rate hikes this year, with traders now pricing in about a 70% chance of a rate hike in December. Elsewhere, developments in the Middle East suggested a possible deal, as Iran and Israel announced they had halted attacks on each other following an appeal from US President Donald Trump. This pushed oil prices lower, offering some relief to inflation fears, though uncertainty remains.
+
+---
+
+### 2026-06-09 23:13:02  #公司 #其他 #焦點 #國際
+
+SpaceX首次公開募股認購倍數遠超發行規模。
+
+---
+
+### 2026-06-09 23:12:58  #MKT News #Important
+
+SpaceX's IPO was reportedly several times oversubscribed.
+
+---
+
+### 2026-06-09 23:11:41  #市場 #國際
+
+【美國4月貿易逆差小幅回落 原油出口增加明顯】美國商務部9日釋出的資料顯示，美國4月商品與服務貿易逆差金額為559億美元，環比下降1.2%。資料顯示，美國4月商品和服務出口和進口金額分別為3271億美元和3830億美元，分別環比增加2.6%和2%。當月，美國商品貿易逆差減少24億美元至837億美元，而服務貿易順差則減少17億美元至278億美元。其中，美國4月資本貨物、工業原材料和消費品出口分別增加40億美元、25億美元和17億美元。原油及石油產品出口增加87億美元，而非貨幣黃金和其他貴金屬出口顯著減少77億美元。在電腦、半導體產品等進口帶動下，4月美國資本貨物進口增加70億美元。（新華社）
+
+---
+
+### 2026-06-09 23:11:36  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
+
+Semafor reports U.S. Trade Representative Greer will visit Tesla (TSLA.O) headquarters in California on Thursday. Greer will tour a California factory to press for onshoring of production.
+
+---
+
+### 2026-06-09 23:10:43  #公司 #國際
+
+市場訊息：美國貿易代表格里爾將於週四前往加州參觀特斯拉公司。
+
+---
+
+### 2026-06-09 23:10:13  #其他
+
+Prosus於6月5日當週按均價40.7439歐元回購股票263.1597萬股，合計超過1.072億歐元（摺合超1.245億美元）。Naspers同期按均價889.6830南非蘭特回購90.5808萬股，合計將近8.059億蘭特（摺合將近0.495億美元）。
+
+---
+
+### 2026-06-09 23:09:01  #資料 #國際
+
+【美國5月二手房折年率銷量升至今年最高 超出經濟學家預期】美國5月二手房銷量創年內最快增速，為春季銷售開局疲軟的房地產市場帶來一些樂觀情緒。全美房地產經紀人協會(NAR)週二釋出的資料顯示，5月二手房銷量增長3.2%，摺合年率為417萬套，超過了彭博調查的所有經濟學家的預期。“更多美國人開始行動，二手房銷量升至去年12月以來的最高水平。”NAR首席經濟學家Lawrence Yun在一份宣告中表示，“這對住房市場和整體經濟來說都是好訊息。”這些資料表明二手房市場出現回暖跡象，此前該市場年銷量持續三年徘徊在400萬套左右。今年以來，二手房簽約量有所增加，而這一趨勢如今正體現在成交量上。Realtor.com上週表示，賣家正在價格上做出一定讓步，“向買家靠攏”。
+
+---
+
+### 2026-06-09 23:08:30  #國際
+
+【哈馬斯發言人：已就停火協議中多項問題達成“可接受方案”】當地時間9日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆·卡西姆發表宣告稱，巴勒斯坦各派別與斡旋方在開羅舉行的本輪對話中，已就停火協議中的多項棘手問題達成了“可接受的方案”。卡西姆稱，能否順利過渡到停火協議的第二階段，取決於斡旋方、擔保國以及“和平委員會”能否有效約束以色列，促使其停止違約行為並接受目前的方案與共識。（央視新聞）
+
+---
+
+### 2026-06-09 23:07:28  #MKT News
+
+【Hamas spokesman says "acceptable solutions" reached on multiple ceasefire issues】On the 9th (local time) Hamas spokesman Hazem Qassem said Palestinian factions and mediators in Cairo have reached "acceptable solutions" on several contentious items in a ceasefire agreement. He said movement to a second phase depends on whether mediators, guarantors and the "peace committee" can effectively restrain Israel, halt its breaches and secure Israel's acceptance of the current plan and consensus.
+
+---
+
+### 2026-06-09 23:06:36  #國際
+
+市場訊息：日本首相與到訪的馬來西亞總理計劃發表聯合宣告，其中包含液化天然氣及石腦油相關合作承諾。
+
+---
+
+### 2026-06-09 23:03:30  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) will use data businesses have already shared with the company to tailor ads; the update does not collect any new data.
+
+---
+
+### 2026-06-09 23:02:50  #其他
+
+Meta： 透過拓展 “來自其他商戶的活動” 設定，簡化平臺管控功能。
+
+---
+
+### 2026-06-09 23:02:21  #公司
+
+Meta：今後將利用企業已向該公司提供的資料，最佳化資訊流、人工智慧回覆及廣告等內容的個性化推送。
+
+---
+
+### 2026-06-09 23:01:59  #MKT News #Important
+
+By the 23:00 close China's main futures contracts were mostly lower: LPG fell about 4%, fuel oil dropped nearly 3%; low-sulfur fuel oil (LU), propylene and polypropylene declined more than 2%; PET bottle chips, styrene (EB) and ethylene glycol (EG) were down around 2%. Caustic soda rose about 1%.
 
 ---
 
@@ -21735,233 +21939,5 @@ Brent Pulls Back from Session Highs — Brent crude oil futures eased to $94 per
 ### 2026-06-08 19:49:44  #公司
 
 【超訊通訊：訴訟一審裁定駁回原告起訴 涉案2.22億元】超訊通訊公告稱，2023年12月，其全資子公司超訊裝置與濟寧寧華簽訂《銷售合同》，後因合同執行分歧，濟寧寧華就未供貨部分預付款1.74億元及違約金起訴，要求公司承擔連帶責任。近日，山東省濟寧市中級人民法院裁定，因同一債權、法律關係屬重複起訴，駁回原告起訴。本次訴訟不會對公司本期或期後利潤產生重大影響。
-
----
-
-### 2026-06-08 19:49:37  #公司
-
-【超訊通訊：完成工商變更登記，擬變更證券簡稱為“超訊科技”】超訊通訊公告稱，公司於2026年5月18日召開董事會，審議透過變更公司名稱、證券簡稱及經營範圍的議案。近日已完成工商變更登記，公司名稱變為超訊科技股份有限公司。為契合經營格局與發展戰略，公司擬向上海證券交易所申請將證券簡稱由“超訊通訊”變更為“超訊科技”，證券程式碼“603322”不變。該申請能否獲批存在不確定性，公司將及時披露進展。
-
----
-
-### 2026-06-08 19:49:34  #其他
-
-NTT 資料計劃培養 5000 名 Gemini 企業版認證專家。
-
----
-
-### 2026-06-08 19:49:30  #Trading Economics #Markets #Commodity #Importance 2
-
-WTI Crude Trims Rebound — WTI crude oil futures eased to $91.5 per barrel after having crossed $95 earlier on Monday after Iran stated it had ended its military operations against Israel. The statement from Iranian media eased concerns that fresh escalation to the conflict would hamper the negotiations between Tehran and the US to extend their ceasefire and gradually restore exports of oil through the Persian Gulf. Still, Israel refrained from signaling their de-escalation, after the first strikes between Iran and Israel since their ceasefire had driven oil futures to surge at the start of the week. Separately, OPEC+ approved another increase in July oil production quotas of 188,000 barrels per day despite persistent supply risks stemming from tensions in the Middle East. Fresh data indicating an aggressive pullback in imports by China also limited supply pressures, as Asia's top consumer has relied on inventory instead of overseas supply since the start of the conflict.
-
----
-
-### 2026-06-08 19:49:07  #公司
-
-【廣州“第一芯”創業板IPO下週上會】記者獲悉，廣東省半導體和積體電路產業鏈鏈主企業粵芯半導體IPO程序穩步推進，即將於下週迎來上市委審議，這將是國內半導體產業又一資本市場標誌性事件。粵芯半導體2017年落地廣州黃埔，2019年一期產線正式量產，一舉改寫廣東無本土12英寸量產晶圓廠的格局，被譽為廣州“第一芯”。粵芯半導體選擇適用創業板第三套上市標準，同時也是創業板首家晶圓製造企業。公司推進IPO，釋放出創業板支援科技創新和新質生產力發展的積極訊號，並將會進一步補齊華南高階晶圓製造短板，築牢國內積體電路產業根基。
-
----
-
-### 2026-06-08 19:48:56  #公司
-
-NTT 資料擴大與谷歌雲的合作協議。
-
----
-
-### 2026-06-08 19:48:39  #國際
-
-市場訊息：一名以色列官員表示，以色列正等待政治領導層就事態走向給出明確指示。
-
----
-
-### 2026-06-08 19:48:21  #MKT News
-
-Channel 12 quoted an Israeli official saying Israel is awaiting clear instructions from political leaders on the next steps.
-
----
-
-### 2026-06-08 19:47:55  #其他
-
-市場訊息：伊拉克重新開放領空供航班飛行。
-
----
-
-### 2026-06-08 19:47:33  #MKT News
-
-Iraq's news agency says the country has reopened its airspace to flights.
-
----
-
-### 2026-06-08 19:47:20  #公司 #國際
-
-石藥集團：司美格魯肽長效注射劑（SYH9017）獲美國臨床試驗批准。
-
----
-
-### 2026-06-08 19:46:52  #公司
-
-【深圳華強：MLCC業務客戶下單增加，優先滿足大客戶採購需求】深圳華強在投資者關係活動記錄表中對MLCC業務情況進行了說明，公司是村田全球主要授權分銷商。近期公司觀察到客戶下單增加，開始拉貨、主動補庫存。對部分缺貨的型號，公司優先滿足大客戶的採購需求。公司還表示，今年電子元器件長尾現貨市場景氣度回暖，包括儲存、電源管理晶片、模擬晶片和MLCC在內的眾多元器件出現缺貨漲價情況。以MLCC為例，公司電子元器件長尾現貨業務收到的高階MLCC詢盤需求明顯增加。
-
----
-
-### 2026-06-08 19:46:17  #MKT News
-
-An Indian trade official said India will, after reaching an agreement with the US, seek assurances that it will not face additional tariffs going forward.
-
----
-
-### 2026-06-08 19:46:15  #MKT News
-
-【Trip.com among first internal testers integrated into WeChat AI ecosystem】Trip.com said its mini‑program has completed preliminary integration as one of the first internal test developers after WeChat on June 8 published guidance allowing developers to opt into its AI ecosystem. Trip.com plans to deploy WeChat AI Agent across core revenue flows — hotel booking, flight search, holiday packages and travel services — and will work with WeChat to optimise product experience ahead of a commercial launch.
-
----
-
-### 2026-06-08 19:46:10  #國際
-
-菲律賓減災部門8日通報說，當天早上菲南部發生的7.8級地震已造成32人死亡。（新華社）
-
----
-
-### 2026-06-08 19:46:06  #公司
-
-【杭州銀行2025年年度每股派發現金紅利0.28元 全年合計派發現金紅利47.84億元】杭州銀行公告，公司2025年年度利潤分配方案為每股派發現金紅利0.28元(含稅)，共計派發現金紅利約20.30億元。股權登記日為6月12日，除權(息)日及現金紅利發放日均為6月15日。
-
----
-
-### 2026-06-08 19:45:56  #MKT News #NVDA.O #Impact bullish #005930.KS #Nasdaq100
-
-NVIDIA (NVDA.O) CEO Jensen Huang said the company has been working with Samsung Electronics to develop ASICs.
-
----
-
-### 2026-06-08 19:45:43  #其他
-
-【攜程：已作為首批內測團隊接入微信AI生態佈局】據“攜程黑板報”公眾號訊息，6月8日，微信公開課釋出《關於開發者接入微信AI生態的指引》稱，微信開放平臺將在充分尊重開發者權益和自主選擇的基礎上，為開發者提供便捷接入微信AI生態的能力，開發者可主動授權接入微信AI。攜程小程式已作為首批內測開發者完成初步接入適配，未來將圍繞酒店預訂、機票查詢、旅遊度假、出行服務等核心場景接入微信AI Agent。下一步，雙方將圍繞產品體驗進行緊密最佳化與打磨，期待在產品正式上線後為使用者帶來更智慧的服務體驗。
-
----
-
-### 2026-06-08 19:45:33  #公司 #國際
-
-NOCERA透過與美國數字創新集團簽訂具有約束力的風險投資平臺協議，推進人工智慧與收購戰略。
-
----
-
-### 2026-06-08 19:45:26  #MKT News #Important
-
-Israel's Channel 12 reported Prime Minister Netanyahu just held a phone call with Trump.
-
----
-
-### 2026-06-08 19:45:07  #公司
-
-英偉達執行長：英偉達一直與三星電子合作開發專用積體電路。
-
----
-
-### 2026-06-08 19:44:46  #公司
-
-【榮昌生物：注射用泰它西普用於治療乾燥綜合徵的新適應症已獲批上市】榮昌生物公告，公司已收到國家藥品監督管理局核准簽發的《藥品註冊證書》。注射用泰它西普（代號：RC18，商品名：泰愛 ，批文編號：國藥準字S20210008，證書編號：2026S01909）用於治療乾燥綜合徵（乾燥病）的新適應症已獲批上市。
-
----
-
-### 2026-06-08 19:44:38  #國際
-
-印度貿易官員：印度將尋求美方保證，即在協議達成後，印度未來不會被徵收額外關稅。
-
----
-
-### 2026-06-08 19:44:31  #國際
-
-伊朗總統：我們的首要任務是國家安全與民眾安寧。我們將堅定捍衛國家權益，面對任何威脅絕不退縮。外交與國防是國家力量的兩大支柱，我們既未放棄抗爭陣地，也未離開談判桌。
-
----
-
-### 2026-06-08 19:44:00  #其他
-
-西南航空稱對波音相關合作進展感到十分滿意。
-
----
-
-### 2026-06-08 19:43:45  #市場 #觀點 #國際
-
-【摩根士丹利：7月規則變更將增加英國銀行業槓桿空間】摩根士丹利分析師寫道，由於7月份的規則變更，英國銀行業可能被允許持有較少的資本。他們預計，英國金融政策委員會7月份的一份金融穩定報告將降低槓桿率，以符合歐盟標準，實際上將為銀行業釋放約2,500億英鎊的槓桿空間用於貸款和投資。摩根士丹利的分析師表示，釋放出的資金中，有25%至50%將投資於英國國債。需要進一步的變更才能切實降低CET1（防範銀行損失的股權層）要求。不過，摩根士丹利的分析師表示，這些變更將“對盈利能力產生漸進的積極影響“。
-
----
-
-### 2026-06-08 19:43:18  #國際
-
-【牛津經濟研究院：管訂單下降，德國工業表現仍好於預期】牛津經濟研究院的Paolo Grignani在一份報告中表示，儘管4月份德國工廠訂單下降，但訂單量仍高於伊朗戰爭前的水平。製造業訂單環比下降3.8%，3月份為增長4.5%。Grignani說：“今天的資料證實了我們的預期，即德國經濟和整個工業的表現相對好於人們的擔憂。“他說，化學品是一個亮點，因為儘管出現了溫和萎縮，但在能源危機驅動的需求支撐下，訂單水平仍保持在近三年高點附近。他補充說，在3月份資料上修之後，4月份實際營業額略有增加，因此現階段並不明顯表明工業將拖累第二季度增長。
-
----
-
-### 2026-06-08 19:42:48  #MKT News #Market Regions #Emerging Markets
-
-Official data showed India's merchandise exports rose 15% YoY in April-May.
-
----
-
-### 2026-06-08 19:42:44  #其他
-
-西南航空：票價上調節奏將更為平緩。
-
----
-
-### 2026-06-08 19:42:32  #國際
-
-印度貿易官員：印度與英國在解決落實貿易協定的剩餘問題上已取得一定進展。
-
----
-
-### 2026-06-08 19:42:19  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-An Indian trade official said India and the UK have made some progress resolving outstanding implementation issues in their trade agreement.
-
----
-
-### 2026-06-08 19:42:07  #其他
-
-納斯航空：自7月6日起開通利雅得與亞歷山大之間的直飛航線。
-
----
-
-### 2026-06-08 19:41:46  #MKT News #DAX #Impact bullish #EURUSD #DXY #Impact bearish
-
-【Oxford Economics: German industry outperforms expectations despite drop in factory orders】Oxford Economics analyst Paolo Grignani says German manufacturing orders fell 3.8% MoM in April after a revised 4.5% rise in March, but remain above pre-Iran-war levels. He notes the chemicals sector remains resilient — orders only marginally down and sitting near three-year highs on energy-crisis-driven demand. With the March revision, April real turnover edged up, and there is not yet clear evidence that manufacturing will drag Q2 GDP growth.
-
----
-
-### 2026-06-08 19:40:58  #公司 #市場
-
-【*ST美芝：股價異常波動 提示業績虧損及退市風險】*ST美芝公告稱，公司股票2026年6月5日、6月8日收盤價格漲幅偏離值累計超12%，屬異常波動。2026年3月23日至6月8日累計漲幅157.29%，偏離基本面。公司澄清“實際控制人資產注入”等傳聞不實。公司債權人5月15日申請重組，屬庭外重組，能否受理及達成方案均不確定。2025年營收35256.19萬元，同比降49.91%，淨虧損21363.30萬元，期末淨資產-5246.62萬元，存在終止上市風險。
-
----
-
-### 2026-06-08 19:40:42  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #USDJPY
-
-India trade official says India-U.S. trade pact may be finalized after USTR "Section 301" investigation concludes.
-
----
-
-### 2026-06-08 19:40:40  #國際
-
-美國地質調查局：菲律賓巴蘭貢南西南方向 12 公里處發生 5.5 級地震。
-
----
-
-### 2026-06-08 19:40:09  #公司 #國際
-
-英偉達CEO黃仁勳：與SK海力士和SK Telecom的合作關係未來可能為韓國帶來數千億美元的業務。
-
----
-
-### 2026-06-08 19:39:50  #國際
-
-印度貿易官員：4-5月印度商品出口同比增長15%。
-
----
-
-### 2026-06-08 19:39:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Rebound — Futures tracking US equities were firmly higher on Monday on signs of caution de-escalation in the Middle East and a halt to the selloff for chip producers. Contracts for the S&P 500 and Nasdaq 100 gained around 1%, while those for the Dow were 0.4% higher. Iran stated it had ended its military operation in Israel following strikes over the weekend, easing concerns that escalation would have broken ongoing negotiations between Tehran and the US to end the wider conflict. Energy prices and Treasury yields pared their rebound to support equities. Meanwhile, speculative positions on the AI economy returned as after Broadcom's earnings ignited a selloff in chip producers last week. Nvidia gained over 2% premarket while Micron and Marvell jumped over 4% each. AI infrastructure and datacenter investment will be tested Wednesday evening with Oracle's earnings. Its shares were 2% higher.
 
 ---

@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-13 21:49:51_
-_本檔包含 3699 則快訊，約 667611 字_
+_更新時間：2026-06-13 22:53:05_
+_本檔包含 3712 則快訊，約 668238 字_
+
+---
+
+### 2026-06-11 03:32:31  #央行 #其他
+
+墨西哥央行行長：墨西哥信用評級下調不會對金融業造成影響。
+
+---
+
+### 2026-06-11 03:31:59  #MKT News
+
+Washington Post reports the White House supports child online-safety legislation.
+
+---
+
+### 2026-06-11 03:28:51  #MKT News #WTI #Impact bearish #Brent
+
+【Trump says US 'secretly' helped 200+ merchant ships transit Hormuz】President Trump said on the 10th the US military secretly assisted more than 200 merchant vessels transiting the Strait of Hormuz, enabling over 100 million barrels of oil to enter the open market. He said he ordered the mission last month and asserted control of the strait rests with the US, not Iran. A US effort launched in early May to escort trapped ships, described as a "freedom plan," was later suspended. US media reported the pause followed Gulf allies' objections and Saudi refusal to allow US use of Saudi bases and airspace after the mission was not coordinated. The New York Times cited anonymous US officials saying US forces quietly guided about 70 ships through the strait in the prior three weeks.
+
+---
+
+### 2026-06-11 03:24:30  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【40 mln barrels left under US SPR loan plan】The US Department of Energy said on Wednesday it will seek to lend up to 40 mln barrels from the Strategic Petroleum Reserve to energy firms to help lower fuel prices. The loans are part of a previously announced 172 mln-barrel SPR release; about 133 mln barrels have been lent so far. In March, after the US and Israel launched a war on Iran on Feb. 28, the US and roughly 30 IEA members agreed to jointly release about 400 mln barrels to help stabilize the oil market. US SPR stocks stood at 349.2 mln barrels, the lowest since Aug 2023. Borrowers must return an equivalent volume and pay up to a 24% premium in additional oil.
+
+---
+
+### 2026-06-11 03:23:12  #市場 #焦點
+
+紐約期金失守4110美元/盎司，日內跌4.12%。
+
+---
+
+### 2026-06-11 03:22:59  #MKT News #Important #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
+
+Nasdaq's late-session losses widened to 2%; Dow fell 1.6% and the S&P 500 fell 1.5%.
+
+---
+
+### 2026-06-11 03:22:05  #市場 #焦點
+
+納指跌2.00%，現報25165.234點；道指跌1.67%，現報50021.910點；標普500指數跌1.54%，現報7272.940點。
+
+---
+
+### 2026-06-11 03:21:43  #國際
+
+Anthropic 呼籲美國國會要求頂尖人工智慧模型接受安全測試。
+
+---
+
+### 2026-06-11 03:21:23  #其他
+
+市場訊息：隨著戴維・埃利森的技術佈局日漸明晰，派拉蒙正重組流媒體業務團隊。
+
+---
+
+### 2026-06-11 03:21:01  #宏觀 #國際
+
+Anthropic 呼籲美國在聯邦層面出臺統一法規前，不要叫停各州自主制定的人工智慧相關法律。
+
+---
+
+### 2026-06-11 03:18:11  #公司 #國際
+
+【蓋茨：曾遭到愛潑斯坦窒息性敲詐】微軟公司聯合創始人比爾·蓋茨在接受美國國會眾議院一個小組委員會聆訊時坦承，他此前與已故惡名昭彰的金融家傑弗裡·愛潑斯坦（Jeffrey Epstein）的多次會面是“極其嚴重的判斷錯誤”。蓋茨強調，如果他的這種過從甚密在當時客觀上為愛潑斯坦提供了政治或社會信譽背書，他對此表示“深感自責與歉意”。蓋茨在聆訊期間披露稱，在他斷絕與該金融家的一切聯絡後，愛潑斯坦曾惡意利用“刺探到的關於我個人生活的敏感隱秘資訊”（包括掌握蓋茨當年的婚外情線索），對蓋茨施加窒息性敲詐，試圖逼迫其重新回到自己的核心社交圈中。
+
+---
+
+### 2026-06-11 03:17:40  #Trading Economics #Economy #United States #Government Budget Value #Importance 1
+
+US Budget Deficit Narrows in May — The US government recorded a $293 billion budget deficit in May 2026, compared with a $316 billion gap a year earlier, but wider than forecasts of a $275 billion shortfall. Government outlays declined to $628 billion from $687 billion. The largest spending categories were Social Security ($140 billion), net interest payments ($107 billion), Medicare ($87 billion), and health programs ($82 billion). Meanwhile, receipts fell to $335 billion from $371 billion. The main sources of revenue were social insurance and retirement contributions ($157 billion), individual income taxes ($152 billion), and corporate income taxes ($11 billion). In the first eight months of fiscal year 2026, the federal budget deficit totaled $1.25 trillion.
+
+---
+
+### 2026-06-11 03:15:52  #MKT News
+
+Financial Times reports the European Union plans to continue granting free carbon allowances to firms into the 2040s, scrapping the current 2039 cut-off.
+
+---
+
+### 2026-06-11 03:15:23  #國際
+
+據金融時報：歐盟計劃將免費碳排放配額政策延續至 2040 年代，取消現行 2039 年的截止期限。
+
+---
+
+### 2026-06-11 03:15:16  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+Financial Times reports the EU plans to shield certain sectors from future carbon costs, provided those companies invest inside the EU.
+
+---
+
+### 2026-06-11 03:15:10  #市場 #國際
+
+據金融時報：歐盟擬為在本區域投資的企業提供保障，使其免受未來碳成本上漲衝擊。
+
+---
+
+### 2026-06-11 03:14:51  #MKT News
+
+【Colombian President Petro denies temporary suspension】June 10 — Colombian President Gustavo Petro denied reports he had been temporarily suspended, saying a single lawmaker had filed a request with the House Committee on Investigations and Accusations but that the committee has no authority to suspend the president. Speaking in New York at a UN Security Council meeting, Petro said any suspension would require Senate action, warned the move may breach Colombian law and could be taken to the Supreme Court, and accused the initiating lawmaker of making demands to the government amounting to extortion.
+
+---
+
+### 2026-06-11 03:14:31  #其他
+
+市場訊息：英國政府將於週一宣佈國防投資相關計劃。
+
+---
+
+### 2026-06-11 03:14:05  #MKT News
+
+Sources said the White House meeting with defense contractors mirrored a March session; attendees included Lockheed Martin (LMT.N), Raytheon Technologies (RTX.N), Boeing (BA.N) and L3Harris.
+
+---
+
+### 2026-06-11 03:13:32  #國際
+
+【哥倫比亞總統佩特羅否認被“臨時停職”】當地時間6月10日，哥倫比亞總統佩特羅回應其“臨時停職”的訊息時表示，自己並未被停職，目前僅是一名議員向眾議院調查與指控委員會提出相關請求。佩特羅在美國紐約出席聯合國安理會會議期間向媒體表示，“你們面對的並不是一位被停職總統。”他強調，調查與指控委員會無權暫停共和國總統職務，總統停職應由參議院作出決定。佩特羅認為當前做法涉嫌違反哥倫比亞相關法律，並可能引發提交至最高法院的司法程式。（央視新聞）
+
+---
+
+### 2026-06-11 03:12:43  #公司
+
+訊息人士稱，此次白宮會議與今年 3 月的相關會談一脈相承，洛克希德、雷神技術、波音及 L3 哈里斯公司當時均參與其中。
+
+---
+
+### 2026-06-11 03:12:39  #市場
+
+現貨黃金日內跌4%，現報4088.77美元/盎司。
+
+---
+
+### 2026-06-11 03:12:11  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold plunged 4.00% intraday to $4,089.88/oz.
+
+---
+
+### 2026-06-11 03:12:09  #市場 #焦點
+
+現貨黃金失守4090美元/盎司，日內跌3.98%。
+
+---
+
+### 2026-06-11 03:11:46  #市場
+
+紐約期金日內跌4%，現報4114.80美元/盎司。
+
+---
+
+### 2026-06-11 03:09:30  #市場
+
+【芝加哥大豆期貨漲超0.6%】週三（6月10日）紐約尾盤，彭博穀物分類指數漲0.31%，報29.5505點，整體衝高回落，北京時間19:05曾達到29.8885點。CBOT玉米期貨漲0.39%，CBOT小麥期貨漲0.38%。CBOT大豆期貨漲0.64%，報11.3925美元/蒲式耳，豆粕期貨跌0.05%，豆油期貨漲0.41%。
+
+---
+
+### 2026-06-11 03:06:06  #國際
+
+市場訊息：一架美國B-52戰略轟炸機已降落在巴林的伊薩空軍基地。
+
+---
+
+### 2026-06-11 03:05:32  #國際
+
+據Axios ：據一位地區訊息人士透露，在過去兩天中，伊朗和美國方面分別與卡達調解人在多哈進行了單獨會談。卡達試圖在週二早上於多哈安排一次三方會議，以討論剩餘的分歧，但伊朗人拒絕了面對面會晤。
+
+---
+
+### 2026-06-11 03:04:17  #市場 #焦點
+
+紐約期金失守4120美元/盎司，日內跌3.88%。
+
+---
+
+### 2026-06-11 03:04:11  #MKT News
+
+MSNBC reports U.S. President Trump is expected to meet defense industry executives this week to press firms to raise production.
+
+---
+
+### 2026-06-11 03:02:43  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7738元，較週二夜盤收盤跌4點。成交量363.03億美元。
+
+---
+
+### 2026-06-11 03:01:53  #國際
+
+【特朗普稱保障上億桶石油透過海峽】美國總統特朗普在社交媒體平臺發文稱，他於上個月指示美軍執行“秘密任務”，“支援油輪和其他商船透過霍爾木茲海峽”。特朗普在帖文中稱，這一行動“已促成超過一億桶石油透過霍爾木茲海峽進入公開市場，已有超過200艘商船安全透過了該海峽”。特朗普強調，“這一行動取得巨大成功，是因為美國控制著霍爾木茲海峽——而不是伊朗。他們的軍隊已被擊敗，他們的經濟已經完蛋。伊朗大勢已去！” (CCTV國際時訊)
+
+---
+
+### 2026-06-11 03:01:33  #MKT News #CG.O
+
+Carlyle Group CFO says the firm needs to hire junior staff, noting AI cannot perform all tasks.
+
+---
+
+### 2026-06-11 03:01:29  #MKT News #Market Themes #AI Revolution
+
+Carlyle Group CFO said artificial intelligence will materially affect future investment processes, but it has not reached that stage yet.
+
+---
+
+### 2026-06-11 03:01:20  #MKT News #Market Regions #Greater China #Hang Seng Index
+
+Hang Seng Index futures night session closed up 0.12% at 24,307, trading 101 points below the spot index.
+
+---
+
+### 2026-06-11 03:01:10  #MKT News
+
+A U.S. B-52 strategic bomber has landed at Bahrain's Isa Air Base.
+
+---
+
+### 2026-06-11 03:00:03  #市場
+
+恒指期貨夜盤收漲0.07%，報24294.22點，低水113.74點。
+
+---
+
+### 2026-06-11 02:59:46  #國際
+
+特朗普將敦促國防企業提高（導彈）產量。
+
+---
+
+### 2026-06-11 02:59:11  #宏觀 #公司 #國際
+
+【Anthropic執行長：政府有權叫停存在風險的人工智慧】Anthropic執行長達里奧·阿莫迪於週三發表文章稱，政府應依法有權叫停或限制危險人工智慧的落地應用。他表示，特朗普政府出臺的人工智慧行政令力度仍需加強，應強制針對網路安全、生物武器、系統失控、自動化研發等風險開展安全測試。他還提到，若人工智慧系統未來威脅加劇，後續或將推出更為嚴格的監管舉措。Anthropic同時提出一套應對人工智慧衝擊的經濟政策框架，內容涵蓋資本賬戶、薪資保險、稅收優惠以及擴容社會保障體系等方面。
+
+---
+
+### 2026-06-11 02:58:26  #國際
+
+特朗普將會見國防企業高管，商討導彈供應事宜。
+
+---
+
+### 2026-06-11 02:56:53  #國際
+
+市場資訊：預計特朗普本週將與美國國防工業領袖會面。
+
+---
+
+### 2026-06-11 02:55:40  #MKT News #Market Themes #AI Revolution
+
+【ANTHROPIC CEO says government should be able to block deployment of new AI models】ANTHROPIC CEO Dario Amodei said in a long post Wednesday that governments should have the authority to block deployment of new AI models that pose specific or "unacceptable" risks. He called for mandatory third-party testing to assess models' risks across multiple domains and compared the current phase of AI development to cars, planes and drugs — critical to the economy but capable of causing mass harm if misdesigned or misused. Amodei's remarks are his strongest to date in favor of tighter AI regulation. Anthropic had warned its MYTHOS model could find and exploit critical software vulnerabilities and limited access to a small set of partners; this week the company released an updated version that removes the model's cyber-attack capabilities.
+
+---
+
+### 2026-06-11 02:54:34  #Trading Economics #Markets #United States #stocks #Importance 1
+
+CVS Health Stock Price Hits 3-1/2-year High — CVS Health shares increased to 98.44 USD, the highest since December 2022. Over the past 4 weeks, CVS Health gained 6.71%, and in the last 12 months, it increased 49.74%.
+
+---
+
+### 2026-06-11 02:51:21  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+【Spot gold falls below $4,100/oz, lowest since November】Spot gold fell below $4,100/oz to $4,097.68/oz, the weakest level since November last year.
+
+---
+
+### 2026-06-11 02:50:54  #市場 #焦點
+
+現貨黃金失守4100美元/盎司，日內跌3.77%。
+
+---
+
+### 2026-06-11 02:50:00  #市場
+
+布倫特原油期貨結算價報每桶93.10美元，上漲1.65美元，漲幅1.8%。
+
+---
+
+### 2026-06-11 02:50:00  #MKT News #Commodities #Energy #MOL #Impact bullish
+
+Serbia's energy minister said Serbia has completed negotiations with Hungary's MOL on a shareholders' agreement for the Serbian Oil Industry company.
 
 ---
 
@@ -22079,209 +22361,5 @@ Nasdaq Composite intraday losses widened to over 1.5%; S&P 500 down 1%. Philadel
 ### 2026-06-09 23:25:15  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 Tech Stocks Come Under Fresh Selling — US equity indices swung lower on Tuesday as the pivot out of the heavyweight tech sector was resumed following yesterday's respite. The S&P 500 and the Nasdaq 100 fell 1% and 2%, respectively, as the more defensive Dow dropped 0.5%. The fresh pressure on companies in the AI space reflected the lingering skepticism that part of the rally for chips and datacenter producers in recent quarters may have been overblown, despite sustained signals from hyperscalers that infrastructure is need to run models. The latest moves were from OpenAI, which filed for an IPO, and Anthropic, raising more cash through private credit. Nvidia, Oracle, and AMD lost between 3% and 1%. Meanwhile, Apple lost 3% as its new Siri AI assistant will not be launched in the EU due to antitrust laws from Brussels. Meanwhile, broader sectors were higher as lower energy prices added some respite for Treasuries. Asset managers led the pace with Blackstone and KKR adding 2%.
-
----
-
-### 2026-06-09 23:24:44  #MKT News #Market Themes #AI Revolution #JPM.O #Impact bullish
-
-【JP Morgan to deploy more capable AI agents later this year】JP Morgan plans to deploy more capable AI agents later this year, CNBC reports. Chief Analytics Officer Derek Waldron told CNBC the agents are evolving from single-task tools into digital workers that can manage multi-step workflows across different software and run autonomously for one to two hours rather than just two to three minutes. The bank says AI is already lifting results—private bank total sales are up about 20%—and could ultimately allow bankers to expand client coverage by as much as 50%.
-
----
-
-### 2026-06-09 23:24:09  #其他
-
-5 月，外國投資者在伊斯坦布林證券交易所明星板及主機板股票市場淨賣出 8.504 億美元。
-
----
-
-### 2026-06-09 23:21:45  #MKT News #Star Stocks #Meta Platforms #Market Regions #Europe & UK #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-The European Commission has ordered Meta Platforms (META.O) to comply within five working days.
-
----
-
-### 2026-06-09 23:21:36  #MKT News #Star Stocks #Meta Platforms #Market Regions #Europe & UK #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-EU: orders related to Meta Platforms (META.O) will remain in effect until the EU investigation concludes.
-
----
-
-### 2026-06-09 23:21:21  #MKT News #Star Stocks #Meta Platforms #Market Regions #Europe & UK #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-EU says its order against Meta Platforms (META.O) is intended to protect competition among AI chatbots and to prevent irreversible market harm.
-
----
-
-### 2026-06-09 23:21:20  #國際
-
-歐盟：該裁決將持續生效，直至針對Meta的調查結束。該裁決旨在維護 AI 聊天機器人領域的市場競爭，避免市場遭受無法挽回的損害。 需在五個工作日內遵守該裁決。
-
----
-
-### 2026-06-09 23:21:00  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) said it will appeal the EU order, calling the measure regulatory overreach.
-
----
-
-### 2026-06-09 23:20:40  #國際
-
-Meta： 將對歐盟的裁決提起上訴， 歐盟此項裁決屬於監管越界，背後有歐洲付費企業暗中推動。
-
----
-
-### 2026-06-09 23:18:50  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bearish
-
-Echo reports the European Union has ordered Meta Platforms (META.O) to allow rival AI chatbots free access to WhatsApp.
-
----
-
-### 2026-06-09 23:18:10  #國際
-
-市場訊息：歐盟勒令Meta允許競品 AI 聊天機器人免費接入 WhatsApp。
-
----
-
-### 2026-06-09 23:18:02  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google will begin rolling out a private-preview update to select enterprise Google Workspace customers this month, with a broader release planned later this year.
-
----
-
-### 2026-06-09 23:16:52  #公司
-
-谷歌：本月起面向部分谷歌辦公套件企業客戶開放新版功能專屬預覽，今年晚些時候全面推送。
-
----
-
-### 2026-06-09 23:16:16  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Plunges as Investors Await US Inflation — Silver prices tumbled to $66 per ounce on Tuesday, retracing to levels last seen in December 2025, as investors turned their attention to the upcoming US inflation report. The report, due Wednesday, is expected to show inflation climbing to 4.2% in May, its highest in nearly three years, fueled by soaring energy prices. The inflation outlook follows last week’s stronger-than-expected US jobs data, which revealed 172,000 jobs added in May, surpassing forecasts. This has led investors to ramp up bets on Federal Reserve rate hikes this year, with traders now pricing in a 70% chance of a December increase. Meanwhile, signs of a potential Middle East deal emerged after Iran and Israel halted attacks following a US appeal, pushing oil prices lower and temporarily easing inflation concerns, though uncertainty lingers.
-
----
-
-### 2026-06-09 23:15:34  #MKT News #AMAT.O
-
-U.S. Trade Representative Greer will visit Applied Materials (AMAT.O) research and development facility in Sunnyvale, California on Friday.
-
----
-
-### 2026-06-09 23:15:06  #公司
-
-谷歌：Gemini 3.5 模型現已在全球安卓及 iOS 端的谷歌翻譯應用中逐步上線。
-
----
-
-### 2026-06-09 23:14:53  #國際
-
-市場訊息：美國貿易代表格里爾將於週五參觀位於加州森尼韋爾的應用材料(AMAT.O)研發設施。
-
----
-
-### 2026-06-09 23:14:46  #Trading Economics #Economy #Tanzania #Inflation Rate #Importance 0
-
-Tanzania Inflation Rate Up for 2nd Month — The annual inflation rate in Tanzania edged up to 4.2% in May 2026 from 4% in the prior month, marking the highest level since April 2023. Upward pressure came primarily from prices of transportation (11.9% vs 9.2% in April) and food & non-alcoholic beverages (5.6% vs 5.7%); alongside miscellaneous goods & services (3.5% vs 3.5%) and education (2.7% vs 2.6%). Meanwhile, prices slowed down for some CPI items, including housing & utilities (0.7% vs 1.7%); health (1.4% vs 1.6%) and clothing & footwear (1.5% vs 1.6%). On a monthly basis, the CPI rose by 0.2%, following a 1.3% increase in the month before.
-
----
-
-### 2026-06-09 23:14:30  #MKT News
-
-Google launches Gemini 3.5 Real-Time Translation, its latest real-time speech-to-speech audio translation model.
-
----
-
-### 2026-06-09 23:13:52  #公司
-
-谷歌：推出 Gemini 3.5 實時翻譯功能，這是旗下最新的實時語音互譯音訊模型。
-
----
-
-### 2026-06-09 23:13:42  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Drops Ahead of US Inflation Data — Gold prices dropped to $4,300 per ounce on Tuesday, returning to levels last seen in December 2025, as investors shifted focus to the upcoming US inflation report, due Wednesday, with expectations that the inflation rate climbed to 4.2% in May, its highest level in nearly three years, driven by a surge in energy prices. The anticipated inflation rise follows last week’s stronger-than-expected US jobs report, which showed the economy added 172,000 jobs in May, well above forecasts. This prompted investors to increase bets on Federal Reserve interest rate hikes this year, with traders now pricing in about a 70% chance of a rate hike in December. Elsewhere, developments in the Middle East suggested a possible deal, as Iran and Israel announced they had halted attacks on each other following an appeal from US President Donald Trump. This pushed oil prices lower, offering some relief to inflation fears, though uncertainty remains.
-
----
-
-### 2026-06-09 23:13:02  #公司 #其他 #焦點 #國際
-
-SpaceX首次公開募股認購倍數遠超發行規模。
-
----
-
-### 2026-06-09 23:12:58  #MKT News #Important
-
-SpaceX's IPO was reportedly several times oversubscribed.
-
----
-
-### 2026-06-09 23:11:41  #市場 #國際
-
-【美國4月貿易逆差小幅回落 原油出口增加明顯】美國商務部9日釋出的資料顯示，美國4月商品與服務貿易逆差金額為559億美元，環比下降1.2%。資料顯示，美國4月商品和服務出口和進口金額分別為3271億美元和3830億美元，分別環比增加2.6%和2%。當月，美國商品貿易逆差減少24億美元至837億美元，而服務貿易順差則減少17億美元至278億美元。其中，美國4月資本貨物、工業原材料和消費品出口分別增加40億美元、25億美元和17億美元。原油及石油產品出口增加87億美元，而非貨幣黃金和其他貴金屬出口顯著減少77億美元。在電腦、半導體產品等進口帶動下，4月美國資本貨物進口增加70億美元。（新華社）
-
----
-
-### 2026-06-09 23:11:36  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
-
-Semafor reports U.S. Trade Representative Greer will visit Tesla (TSLA.O) headquarters in California on Thursday. Greer will tour a California factory to press for onshoring of production.
-
----
-
-### 2026-06-09 23:10:43  #公司 #國際
-
-市場訊息：美國貿易代表格里爾將於週四前往加州參觀特斯拉公司。
-
----
-
-### 2026-06-09 23:10:13  #其他
-
-Prosus於6月5日當週按均價40.7439歐元回購股票263.1597萬股，合計超過1.072億歐元（摺合超1.245億美元）。Naspers同期按均價889.6830南非蘭特回購90.5808萬股，合計將近8.059億蘭特（摺合將近0.495億美元）。
-
----
-
-### 2026-06-09 23:09:01  #資料 #國際
-
-【美國5月二手房折年率銷量升至今年最高 超出經濟學家預期】美國5月二手房銷量創年內最快增速，為春季銷售開局疲軟的房地產市場帶來一些樂觀情緒。全美房地產經紀人協會(NAR)週二釋出的資料顯示，5月二手房銷量增長3.2%，摺合年率為417萬套，超過了彭博調查的所有經濟學家的預期。“更多美國人開始行動，二手房銷量升至去年12月以來的最高水平。”NAR首席經濟學家Lawrence Yun在一份宣告中表示，“這對住房市場和整體經濟來說都是好訊息。”這些資料表明二手房市場出現回暖跡象，此前該市場年銷量持續三年徘徊在400萬套左右。今年以來，二手房簽約量有所增加，而這一趨勢如今正體現在成交量上。Realtor.com上週表示，賣家正在價格上做出一定讓步，“向買家靠攏”。
-
----
-
-### 2026-06-09 23:08:30  #國際
-
-【哈馬斯發言人：已就停火協議中多項問題達成“可接受方案”】當地時間9日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆·卡西姆發表宣告稱，巴勒斯坦各派別與斡旋方在開羅舉行的本輪對話中，已就停火協議中的多項棘手問題達成了“可接受的方案”。卡西姆稱，能否順利過渡到停火協議的第二階段，取決於斡旋方、擔保國以及“和平委員會”能否有效約束以色列，促使其停止違約行為並接受目前的方案與共識。（央視新聞）
-
----
-
-### 2026-06-09 23:07:28  #MKT News
-
-【Hamas spokesman says "acceptable solutions" reached on multiple ceasefire issues】On the 9th (local time) Hamas spokesman Hazem Qassem said Palestinian factions and mediators in Cairo have reached "acceptable solutions" on several contentious items in a ceasefire agreement. He said movement to a second phase depends on whether mediators, guarantors and the "peace committee" can effectively restrain Israel, halt its breaches and secure Israel's acceptance of the current plan and consensus.
-
----
-
-### 2026-06-09 23:06:36  #國際
-
-市場訊息：日本首相與到訪的馬來西亞總理計劃發表聯合宣告，其中包含液化天然氣及石腦油相關合作承諾。
-
----
-
-### 2026-06-09 23:03:30  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
-
-Meta Platforms (META.O) will use data businesses have already shared with the company to tailor ads; the update does not collect any new data.
-
----
-
-### 2026-06-09 23:02:50  #其他
-
-Meta： 透過拓展 “來自其他商戶的活動” 設定，簡化平臺管控功能。
-
----
-
-### 2026-06-09 23:02:21  #公司
-
-Meta：今後將利用企業已向該公司提供的資料，最佳化資訊流、人工智慧回覆及廣告等內容的個性化推送。
-
----
-
-### 2026-06-09 23:01:59  #MKT News #Important
-
-By the 23:00 close China's main futures contracts were mostly lower: LPG fell about 4%, fuel oil dropped nearly 3%; low-sulfur fuel oil (LU), propylene and polypropylene declined more than 2%; PET bottle chips, styrene (EB) and ethylene glycol (EG) were down around 2%. Caustic soda rose about 1%.
 
 ---

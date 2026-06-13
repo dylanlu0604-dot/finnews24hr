@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-13 21:49:51_
-_本檔包含 3800 則快訊，約 666697 字_
+_更新時間：2026-06-13 22:53:05_
+_本檔包含 3804 則快訊，約 668258 字_
+
+---
+
+### 2026-06-08 19:49:37  #公司
+
+【超訊通訊：完成工商變更登記，擬變更證券簡稱為“超訊科技”】超訊通訊公告稱，公司於2026年5月18日召開董事會，審議透過變更公司名稱、證券簡稱及經營範圍的議案。近日已完成工商變更登記，公司名稱變為超訊科技股份有限公司。為契合經營格局與發展戰略，公司擬向上海證券交易所申請將證券簡稱由“超訊通訊”變更為“超訊科技”，證券程式碼“603322”不變。該申請能否獲批存在不確定性，公司將及時披露進展。
+
+---
+
+### 2026-06-08 19:49:34  #其他
+
+NTT 資料計劃培養 5000 名 Gemini 企業版認證專家。
+
+---
+
+### 2026-06-08 19:49:30  #Trading Economics #Markets #Commodity #Importance 2
+
+WTI Crude Trims Rebound — WTI crude oil futures eased to $91.5 per barrel after having crossed $95 earlier on Monday after Iran stated it had ended its military operations against Israel. The statement from Iranian media eased concerns that fresh escalation to the conflict would hamper the negotiations between Tehran and the US to extend their ceasefire and gradually restore exports of oil through the Persian Gulf. Still, Israel refrained from signaling their de-escalation, after the first strikes between Iran and Israel since their ceasefire had driven oil futures to surge at the start of the week. Separately, OPEC+ approved another increase in July oil production quotas of 188,000 barrels per day despite persistent supply risks stemming from tensions in the Middle East. Fresh data indicating an aggressive pullback in imports by China also limited supply pressures, as Asia's top consumer has relied on inventory instead of overseas supply since the start of the conflict.
+
+---
+
+### 2026-06-08 19:49:07  #公司
+
+【廣州“第一芯”創業板IPO下週上會】記者獲悉，廣東省半導體和積體電路產業鏈鏈主企業粵芯半導體IPO程序穩步推進，即將於下週迎來上市委審議，這將是國內半導體產業又一資本市場標誌性事件。粵芯半導體2017年落地廣州黃埔，2019年一期產線正式量產，一舉改寫廣東無本土12英寸量產晶圓廠的格局，被譽為廣州“第一芯”。粵芯半導體選擇適用創業板第三套上市標準，同時也是創業板首家晶圓製造企業。公司推進IPO，釋放出創業板支援科技創新和新質生產力發展的積極訊號，並將會進一步補齊華南高階晶圓製造短板，築牢國內積體電路產業根基。
+
+---
+
+### 2026-06-08 19:48:56  #公司
+
+NTT 資料擴大與谷歌雲的合作協議。
+
+---
+
+### 2026-06-08 19:48:39  #國際
+
+市場訊息：一名以色列官員表示，以色列正等待政治領導層就事態走向給出明確指示。
+
+---
+
+### 2026-06-08 19:48:21  #MKT News
+
+Channel 12 quoted an Israeli official saying Israel is awaiting clear instructions from political leaders on the next steps.
+
+---
+
+### 2026-06-08 19:47:55  #其他
+
+市場訊息：伊拉克重新開放領空供航班飛行。
+
+---
+
+### 2026-06-08 19:47:33  #MKT News
+
+Iraq's news agency says the country has reopened its airspace to flights.
+
+---
+
+### 2026-06-08 19:47:20  #公司 #國際
+
+石藥集團：司美格魯肽長效注射劑（SYH9017）獲美國臨床試驗批准。
+
+---
+
+### 2026-06-08 19:46:52  #公司
+
+【深圳華強：MLCC業務客戶下單增加，優先滿足大客戶採購需求】深圳華強在投資者關係活動記錄表中對MLCC業務情況進行了說明，公司是村田全球主要授權分銷商。近期公司觀察到客戶下單增加，開始拉貨、主動補庫存。對部分缺貨的型號，公司優先滿足大客戶的採購需求。公司還表示，今年電子元器件長尾現貨市場景氣度回暖，包括儲存、電源管理晶片、模擬晶片和MLCC在內的眾多元器件出現缺貨漲價情況。以MLCC為例，公司電子元器件長尾現貨業務收到的高階MLCC詢盤需求明顯增加。
+
+---
+
+### 2026-06-08 19:46:17  #MKT News
+
+An Indian trade official said India will, after reaching an agreement with the US, seek assurances that it will not face additional tariffs going forward.
+
+---
+
+### 2026-06-08 19:46:15  #MKT News
+
+【Trip.com among first internal testers integrated into WeChat AI ecosystem】Trip.com said its mini‑program has completed preliminary integration as one of the first internal test developers after WeChat on June 8 published guidance allowing developers to opt into its AI ecosystem. Trip.com plans to deploy WeChat AI Agent across core revenue flows — hotel booking, flight search, holiday packages and travel services — and will work with WeChat to optimise product experience ahead of a commercial launch.
+
+---
+
+### 2026-06-08 19:46:10  #國際
+
+菲律賓減災部門8日通報說，當天早上菲南部發生的7.8級地震已造成32人死亡。（新華社）
+
+---
+
+### 2026-06-08 19:46:06  #公司
+
+【杭州銀行2025年年度每股派發現金紅利0.28元 全年合計派發現金紅利47.84億元】杭州銀行公告，公司2025年年度利潤分配方案為每股派發現金紅利0.28元(含稅)，共計派發現金紅利約20.30億元。股權登記日為6月12日，除權(息)日及現金紅利發放日均為6月15日。
+
+---
+
+### 2026-06-08 19:45:56  #MKT News #NVDA.O #Impact bullish #005930.KS #Nasdaq100
+
+NVIDIA (NVDA.O) CEO Jensen Huang said the company has been working with Samsung Electronics to develop ASICs.
+
+---
+
+### 2026-06-08 19:45:43  #其他
+
+【攜程：已作為首批內測團隊接入微信AI生態佈局】據“攜程黑板報”公眾號訊息，6月8日，微信公開課釋出《關於開發者接入微信AI生態的指引》稱，微信開放平臺將在充分尊重開發者權益和自主選擇的基礎上，為開發者提供便捷接入微信AI生態的能力，開發者可主動授權接入微信AI。攜程小程式已作為首批內測開發者完成初步接入適配，未來將圍繞酒店預訂、機票查詢、旅遊度假、出行服務等核心場景接入微信AI Agent。下一步，雙方將圍繞產品體驗進行緊密最佳化與打磨，期待在產品正式上線後為使用者帶來更智慧的服務體驗。
+
+---
+
+### 2026-06-08 19:45:33  #公司 #國際
+
+NOCERA透過與美國數字創新集團簽訂具有約束力的風險投資平臺協議，推進人工智慧與收購戰略。
+
+---
+
+### 2026-06-08 19:45:26  #MKT News #Important
+
+Israel's Channel 12 reported Prime Minister Netanyahu just held a phone call with Trump.
+
+---
+
+### 2026-06-08 19:45:07  #公司
+
+英偉達執行長：英偉達一直與三星電子合作開發專用積體電路。
+
+---
+
+### 2026-06-08 19:44:46  #公司
+
+【榮昌生物：注射用泰它西普用於治療乾燥綜合徵的新適應症已獲批上市】榮昌生物公告，公司已收到國家藥品監督管理局核准簽發的《藥品註冊證書》。注射用泰它西普（代號：RC18，商品名：泰愛 ，批文編號：國藥準字S20210008，證書編號：2026S01909）用於治療乾燥綜合徵（乾燥病）的新適應症已獲批上市。
+
+---
+
+### 2026-06-08 19:44:38  #國際
+
+印度貿易官員：印度將尋求美方保證，即在協議達成後，印度未來不會被徵收額外關稅。
+
+---
+
+### 2026-06-08 19:44:31  #國際
+
+伊朗總統：我們的首要任務是國家安全與民眾安寧。我們將堅定捍衛國家權益，面對任何威脅絕不退縮。外交與國防是國家力量的兩大支柱，我們既未放棄抗爭陣地，也未離開談判桌。
+
+---
+
+### 2026-06-08 19:44:00  #其他
+
+西南航空稱對波音相關合作進展感到十分滿意。
+
+---
+
+### 2026-06-08 19:43:45  #市場 #觀點 #國際
+
+【摩根士丹利：7月規則變更將增加英國銀行業槓桿空間】摩根士丹利分析師寫道，由於7月份的規則變更，英國銀行業可能被允許持有較少的資本。他們預計，英國金融政策委員會7月份的一份金融穩定報告將降低槓桿率，以符合歐盟標準，實際上將為銀行業釋放約2,500億英鎊的槓桿空間用於貸款和投資。摩根士丹利的分析師表示，釋放出的資金中，有25%至50%將投資於英國國債。需要進一步的變更才能切實降低CET1（防範銀行損失的股權層）要求。不過，摩根士丹利的分析師表示，這些變更將“對盈利能力產生漸進的積極影響“。
+
+---
+
+### 2026-06-08 19:43:18  #國際
+
+【牛津經濟研究院：管訂單下降，德國工業表現仍好於預期】牛津經濟研究院的Paolo Grignani在一份報告中表示，儘管4月份德國工廠訂單下降，但訂單量仍高於伊朗戰爭前的水平。製造業訂單環比下降3.8%，3月份為增長4.5%。Grignani說：“今天的資料證實了我們的預期，即德國經濟和整個工業的表現相對好於人們的擔憂。“他說，化學品是一個亮點，因為儘管出現了溫和萎縮，但在能源危機驅動的需求支撐下，訂單水平仍保持在近三年高點附近。他補充說，在3月份資料上修之後，4月份實際營業額略有增加，因此現階段並不明顯表明工業將拖累第二季度增長。
+
+---
+
+### 2026-06-08 19:42:48  #MKT News #Market Regions #Emerging Markets
+
+Official data showed India's merchandise exports rose 15% YoY in April-May.
+
+---
+
+### 2026-06-08 19:42:44  #其他
+
+西南航空：票價上調節奏將更為平緩。
+
+---
+
+### 2026-06-08 19:42:32  #國際
+
+印度貿易官員：印度與英國在解決落實貿易協定的剩餘問題上已取得一定進展。
+
+---
+
+### 2026-06-08 19:42:19  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
+
+An Indian trade official said India and the UK have made some progress resolving outstanding implementation issues in their trade agreement.
+
+---
+
+### 2026-06-08 19:42:07  #其他
+
+納斯航空：自7月6日起開通利雅得與亞歷山大之間的直飛航線。
+
+---
+
+### 2026-06-08 19:41:46  #MKT News #DAX #Impact bullish #EURUSD #DXY #Impact bearish
+
+【Oxford Economics: German industry outperforms expectations despite drop in factory orders】Oxford Economics analyst Paolo Grignani says German manufacturing orders fell 3.8% MoM in April after a revised 4.5% rise in March, but remain above pre-Iran-war levels. He notes the chemicals sector remains resilient — orders only marginally down and sitting near three-year highs on energy-crisis-driven demand. With the March revision, April real turnover edged up, and there is not yet clear evidence that manufacturing will drag Q2 GDP growth.
+
+---
+
+### 2026-06-08 19:40:58  #公司 #市場
+
+【*ST美芝：股價異常波動 提示業績虧損及退市風險】*ST美芝公告稱，公司股票2026年6月5日、6月8日收盤價格漲幅偏離值累計超12%，屬異常波動。2026年3月23日至6月8日累計漲幅157.29%，偏離基本面。公司澄清“實際控制人資產注入”等傳聞不實。公司債權人5月15日申請重組，屬庭外重組，能否受理及達成方案均不確定。2025年營收35256.19萬元，同比降49.91%，淨虧損21363.30萬元，期末淨資產-5246.62萬元，存在終止上市風險。
+
+---
+
+### 2026-06-08 19:40:42  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #USDJPY
+
+India trade official says India-U.S. trade pact may be finalized after USTR "Section 301" investigation concludes.
+
+---
+
+### 2026-06-08 19:40:40  #國際
+
+美國地質調查局：菲律賓巴蘭貢南西南方向 12 公里處發生 5.5 級地震。
+
+---
+
+### 2026-06-08 19:40:09  #公司 #國際
+
+英偉達CEO黃仁勳：與SK海力士和SK Telecom的合作關係未來可能為韓國帶來數千億美元的業務。
+
+---
+
+### 2026-06-08 19:39:50  #國際
+
+印度貿易官員：4-5月印度商品出口同比增長15%。
+
+---
+
+### 2026-06-08 19:39:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Rebound — Futures tracking US equities were firmly higher on Monday on signs of caution de-escalation in the Middle East and a halt to the selloff for chip producers. Contracts for the S&P 500 and Nasdaq 100 gained around 1%, while those for the Dow were 0.4% higher. Iran stated it had ended its military operation in Israel following strikes over the weekend, easing concerns that escalation would have broken ongoing negotiations between Tehran and the US to end the wider conflict. Energy prices and Treasury yields pared their rebound to support equities. Meanwhile, speculative positions on the AI economy returned as after Broadcom's earnings ignited a selloff in chip producers last week. Nvidia gained over 2% premarket while Micron and Marvell jumped over 4% each. AI infrastructure and datacenter investment will be tested Wednesday evening with Oracle's earnings. Its shares were 2% higher.
 
 ---
 
@@ -22678,209 +22906,5 @@ HEZBOLLAH said it shelled an Israeli military assembly point near Shakif Castle 
 ### 2026-06-06 22:57:16  #其他
 
 【安德列娃獲得2026法網女單冠軍】北京時間6月6日，2026年法網女單決賽，安德列娃直落兩盤（6-3、6-2）擊敗從資格賽打進決賽的赫瓦林斯卡，奪得本屆法網女單冠軍。19歲的安德列娃成為首位在2005年之後出生的大滿貫單打冠軍球員。（央視新聞）
-
----
-
-### 2026-06-06 22:52:35  #其他
-
-【2026年度電影總票房破160億】截至目前，2026年度電影總票房已突破160億元。其中，電影《給阿嬤的情書》自上映後口碑票房持續走高，目前票房已超15億元，暫列2026年度票房亞軍，此外該片已宣佈延長上映至6月30日，並將在海外陸續公映。（央視新聞）
-
----
-
-### 2026-06-06 22:51:40  #其他
-
-黎巴嫩官方資料顯示，自今年3月黎以衝突爆發以來，黎巴嫩已有至少3593人遇難、近1.1萬人受傷。
-
----
-
-### 2026-06-06 22:48:12  #國際
-
-美國防長赫格塞思在諾曼底登陸紀念活動上發言時稱，歐洲正面臨各類危險意識形態的“入侵”。
-
----
-
-### 2026-06-06 22:47:12  #國際
-
-伊朗外交部發言人譴責以色列襲擊黎巴嫩軍隊，指責以色列此舉是侵犯黎巴嫩及其主權的“惡劣罪行”。
-
----
-
-### 2026-06-06 22:43:40  #國際
-
-真主黨：我方在黎巴嫩南部沙哈比耶鎮上空使用空對空導彈攔截一架以色列赫爾墨斯450型無人機，迫使其撤離。
-
----
-
-### 2026-06-06 22:43:14  #國際
-
-以色列軍方：正在核查一份影片資料，內容顯示一名士兵在納布盧斯附近的哈瓦拉毆打巴勒斯坦民眾，後續將根據調查結果作出處置。
-
----
-
-### 2026-06-06 22:42:53  #其他
-
-真主黨：我方使用潛航無人機，襲擊了黎巴嫩南部沙吉夫古堡周邊一處以軍集結點。
-
----
-
-### 2026-06-06 22:41:19  #公司 #國際
-
-美國電信運營商T-Mobile在印度新設技術能力中心，計劃招聘1000人；與此同時該公司在美國本土仍持續裁員。
-
----
-
-### 2026-06-06 22:40:50  #公司 #市場
-
-【近三個月車規級儲存晶片價格暴漲180% 多家新能源車企上調售價或收緊優惠】近一段時間，國內新能源汽車市場迎來較為集中的價格調整，市面上有多款新能源車型，先後出現了售價上調或優惠變化。在北京一家新能源汽車4S店裡，銷售人員告訴記者，目前他們在售車型的官方指導價並沒有發生變化。但5月以來，店內多款車型配置的一款輔助駕駛選裝包價格有所上調，從之前的9900元上調到了12000元。車企公告顯示，選裝包價格調整，主要是受到全球儲存硬體成本大幅上漲的影響。有資料顯示，近三個月，車規級儲存晶片整體價格漲幅約在180%。據不完全統計，近期國內共有十餘家新能源車企上調售價或收緊優惠，幅度一般在2000元到6000元不等。在新能源車價格出現變化的時候，不少燃油車在調低價格，加大優惠力度。截至今年4月，燃油車促銷力度已連續9個月維持在23%左右的高位。 (央視財經)
-
----
-
-### 2026-06-06 22:39:27  #國際
-
-託德·布蘭奇就特朗普提名：很榮幸特朗普邀請我擔任司法部長。
-
----
-
-### 2026-06-06 22:38:20  #MKT News
-
-【More than 10 members of Iran World Cup delegation denied U.S. visas】On the 6th (local time), more than 10 members of Iran’s delegation to the 2026 U.S.-Canada-Mexico World Cup—including administrative staff and Iranian Football Federation officials—were denied U.S. visas. The White House said a day earlier that all Iran national team players had been granted visas.
-
----
-
-### 2026-06-06 22:33:21  #國際
-
-【世界盃伊朗代表團十餘人遭美國拒籤】當地時間6日，參加2026美加墨世界盃的伊朗代表團中，包括行政人員和伊朗足協官員在內的十餘人未能獲得美國簽證。此前一天，美國白宮官員表示，伊朗國足所有球員均已獲得簽證。（央視新聞）
-
----
-
-### 2026-06-06 22:17:27  #MKT News
-
-【Han Zheng meets Belarusian Prime Minister Turchin】June 6, 2026, Minsk — Chinese Vice President Han Zheng met Belarusian Prime Minister Turchin. Han said Belarus is an all‑weather comprehensive strategic partner and China will continue to support Belarus in safeguarding its sovereignty, security and development interests. The sides agreed to prioritize high‑quality Belt and Road cooperation, strengthen the China‑Belarus intergovernmental cooperation committee, and push forward the China‑Belarus Industrial Park and other key projects. China also signalled support for Belarus taking a larger role in multilateral forums and pledged closer coordination in international organisations.
-
----
-
-### 2026-06-06 22:12:55  #MKT News #XAUUSD #Impact bullish #DXY #WTI #Impact mixed
-
-【Israel military says investigating strike on Lebanese army vehicle】Israel Defense Forces (IDF) said on the 6th it struck a Lebanese Armed Forces (LAF) vehicle in southern Lebanon and is investigating. The IDF said it detected a "suspicious vehicle" approaching its troops in the Taibnit area, which it described as an "active combat zone," and had intelligence Hezbollah planned to fire from that area. Citing that intelligence and a perceived threat to soldiers, the IDF struck the vehicle. Preliminary checks found two LAF officers and one soldier inside; the investigation is ongoing. The IDF said its operational target was Hezbollah, not the Lebanese army.
-
----
-
-### 2026-06-06 22:11:18  #國際
-
-布蘭奇：很榮幸特朗普邀請我擔任常任司法部長。
-
----
-
-### 2026-06-06 22:07:54  #其他
-
-【值得買科技聯合華為雲釋出“值數Matrix” 推動AI能力在品牌信任經營場景落地】據“值得買科技”公眾號訊息，6月5日至6日，華為雲INSPIRE創想者大會在上海舉行。此次大會上，值得買科技攜手華為雲，聯合釋出面向AI時代的智慧營銷解決方案——值數Matrix全渠道內容可見性矩陣，標誌著雙方合作進一步從基礎設施和業務協同，延展至行業解決方案共建。該產品整合監測、受眾、議題、聲譽、洞察和執行六項能力，幫助品牌識別真實使用者問題、驗證品牌事實表達、發現跨渠道誤讀，並推動內容修復、複測和資產沉澱，幫助AI時代的品牌從“被看見”走向“被理解”，從一次性傳播走向可持續的信任經營。
-
----
-
-### 2026-06-06 22:06:04  #MKT News
-
-【Iran delegation: Attacks on nuclear facilities must not be normalized】At a special meeting of the IAEA Board of Governors, Iran's delegation condemned US and Israeli attacks on Iranian nuclear facilities, called for a zero-tolerance policy toward such actions and threats, and warned that normalizing attacks on peaceful nuclear facilities would severely jeopardize the international non-proliferation regime and security.
-
----
-
-### 2026-06-06 22:04:12  #其他
-
-【世衛組織：剛果（金）和烏干達累計報告471例埃博拉病例】當地時間6日，世界衛生組織公佈的最新資料顯示，截至目前，剛果（金）和烏干達兩國累計報告471例埃博拉病例，其中84人死亡。僅過去一天時間，兩國新增約100例病例和20例死亡病例，疫情蔓延速度引發廣泛關注。
-
----
-
-### 2026-06-06 22:00:52  #其他
-
-【有企業交船期排至2030年 今年已註冊超1000家船舶製造企業】2026年造船行業延續高景氣態勢，新造船訂單持續放量，多家企業手持訂單飽滿，部分船廠交船期已排至2030年。2026年我國已註冊船舶製造相關企業超1000家。資料顯示，2016年以來，我國船舶製造相關企業累計註冊約1.8萬家。2025年全年註冊量同比增加18.6%至2566家。
-
----
-
-### 2026-06-06 21:55:40  #公司
-
-紐西蘭航空執行長表示，停飛機隊佔比已從最高20%降至不足5%。
-
----
-
-### 2026-06-06 21:55:39  #MKT News #Commodities #Energy
-
-Air New Zealand CEO says the airline plans to buy jet fuel in Singapore in FY2027 at about $150/barrel.
-
----
-
-### 2026-06-06 21:55:36  #公司
-
-紐西蘭航空執行長表示，供應商一直難以預估發動機維修及交付問題的解決時間線。
-
----
-
-### 2026-06-06 21:55:31  #公司
-
-紐西蘭航空執行長表示，若燃油價格維持高位，該航空公司將聚焦成本管控、票價調整，並整合航班運力。
-
----
-
-### 2026-06-06 21:55:30  #MKT News
-
-Air New Zealand CEO said the airline has offset only 25%-40% of the impact from higher fuel costs through hedging and fare increases.
-
----
-
-### 2026-06-06 21:55:24  #公司
-
-紐西蘭航空執行長表示，大部分飛機將在未來兩到三個月內恢復執飛。
-
----
-
-### 2026-06-06 21:55:19  #公司
-
-紐西蘭航空執行長表示，波音、羅爾斯·羅伊斯及普惠提供的賠償僅抵消了部分經濟損失。
-
----
-
-### 2026-06-06 21:55:12  #公司
-
-紐西蘭航空執行長表示，該航空公司已經完成兩輪漲價，或考慮進一步採取戰術性提價。
-
----
-
-### 2026-06-06 21:55:04  #公司
-
-紐西蘭航空執行長表示，該航空公司並未面臨燃油供應短缺問題，價格衝擊才是主要挑戰。
-
----
-
-### 2026-06-06 21:54:58  #公司
-
-紐西蘭航空執行長表示，預計不會透過資本市場募資補充流動性。
-
----
-
-### 2026-06-06 21:54:41  #公司 #市場
-
-紐西蘭航空執行長表示，該航司僅透過套期保值和票價上漲抵消了25%-40%的燃油成本衝擊。
-
----
-
-### 2026-06-06 21:54:37  #公司
-
-紐西蘭航空執行長表示，該航空公司計劃在2027財年將新加坡航空燃油價格控制在每桶150美元左右。
-
----
-
-### 2026-06-06 21:51:25  #國際
-
-【韓正會見白俄羅斯總理圖爾欽】當地時間2026年6月6日，國家副主席韓正在明斯克會見白俄羅斯總理圖爾欽。韓正表示，中白友好源遠流長、歷久彌堅。近年來，在習近平主席和盧卡申科總統戰略引領下，中白關係保持高水平執行，各領域合作高質量推進，為兩國人民帶來實實在在的福祉。中方願同白方共同落實兩國元首重要共識，加強戰略溝通，賡續傳統友好，深化互利合作，推動中白關係不斷向前發展。韓正表示，白俄羅斯是中國全天候全面戰略伙伴。中方發展對白關係、深化對白合作的決心堅定不移，將一如既往支援白方維護主權、安全和發展利益。雙方要以高質量共建“一帶一路”合作為引領，更好發揮中白政府間合作委員會等機制作用，紮實推進中白工業園等重點合作專案，不斷打造合作新亮點。中方支援白方在國際事務中發揮更大作用，願同白方在多邊機制和國際組織中密切協調配合，共同踐行真正的多邊主義，維護全球南方共同利益，為動盪的世界注入寶貴的確定性。（新華社）
-
----
-
-### 2026-06-06 21:50:09  #其他
-
-扎波羅熱核電站稱供電已恢復。
-
----
-
-### 2026-06-06 21:50:02  #公司
-
-英國零售大亨邁克·阿什利旗下弗雷澤集團考慮出價5億英鎊收購Metrocentre。
 
 ---
