@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-14 02:41:17",
-  "count": 18483,
+  "updated": "2026-06-14 02:45:07",
+  "count": 18480,
   "items": [
+    {
+      "id": "4934012",
+      "time": "2026-06-14 02:43:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，過去24小時內其在黎巴嫩南部打擊了七十餘處真主黨設施，其中包括用於襲擊以色列平民與軍人的發射裝置及建築。"
+    },
     {
       "id": "4934011",
       "time": "2026-06-14 02:38:20",
@@ -169873,42 +169881,6 @@
         "國際"
       ],
       "text": "伊朗核問題負責人：布什爾核電站連續第三年躋身全球效率與安全綜合排名前十，其收益已達到建設成本的五倍。"
-    },
-    {
-      "id": "mkt:019e9e40-8e6e-7665-8314-36261f8a5cbc",
-      "time": "2026-06-07 02:44:51",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "Israel's Channel 12 reports Israeli military fatalities since the ceasefire with Lebanon have risen to 16."
-    },
-    {
-      "id": "4921403",
-      "time": "2026-06-07 02:44:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度國內烹飪用氣液化石油氣（LPG）價格上調，每罐14.2千克裝氣瓶漲價29盧比。"
-    },
-    {
-      "id": "mkt:019e9e40-076b-7665-8314-28b2172b3e56",
-      "time": "2026-06-07 02:44:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Students' News Agency said Iran's interior minister received a letter from Pakistan's army chief Asim Munir addressed to Iran's Supreme Leader."
-    },
-    {
-      "id": "4921402",
-      "time": "2026-06-07 02:43:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社週六報道，伊朗哈爾格島傳出的爆炸聲，源於巴赫雷甘石油區的彈藥銷燬作業。"
     }
   ]
 }
