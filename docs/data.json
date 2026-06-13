@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-14 06:00:41",
-  "count": 18439,
+  "updated": "2026-06-14 06:04:41",
+  "count": 18438,
   "items": [
+    {
+      "id": "mkt:019ec302-127b-7dd8-afee-542b44b53305",
+      "time": "2026-06-14 06:02:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said its air-defence forces shot down 185 Ukrainian drones within 12 hours."
+    },
+    {
+      "id": "4934050",
+      "time": "2026-06-14 06:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡主持召開緊急內閣會議，討論華盛頓與德黑蘭達成的協議。"
+    },
     {
       "id": "4934049",
       "time": "2026-06-14 05:58:44",
@@ -169500,30 +169516,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京在聖彼得堡國際經濟論壇發言後，烏克蘭對聖彼得堡發動第二次遠端無人機襲擊。"
-    },
-    {
-      "id": "4921476",
-      "time": "2026-06-07 06:03:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：兩架美國空軍F-35A隱形戰鬥機在中東上空巡邏。"
-    },
-    {
-      "id": "mkt:019e9ef6-7a47-7665-8315-2a79bec859d2",
-      "time": "2026-06-07 06:03:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Former US envoy says Hezbollah could become non‑armed political entity】Henry Ensher, a former US ambassador to Lebanon, said he believes Hezbollah — at the centre of the Israel‑Lebanon conflict — could transition into an entity acceptable to the US, Israel and the Lebanese state. Ensher said Trump told him the US had contacted Hezbollah to pursue that outcome and warned Lebanon lacks the capacity to subdue the armed group, suggesting a more pragmatic approach may be needed."
-    },
-    {
-      "id": "4921475",
-      "time": "2026-06-07 06:01:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗駐墨西哥大使稱，伊朗世界盃參賽隊伍需在比賽當日進入並離開美國境內。"
     }
   ]
 }
