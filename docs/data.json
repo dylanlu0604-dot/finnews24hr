@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-13 14:29:40",
-  "count": 18391,
+  "updated": "2026-06-13 14:33:58",
+  "count": 18389,
   "items": [
+    {
+      "id": "4933701",
+      "time": "2026-06-13 14:32:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統稱：當下局勢不容許宗派鬧劇與地區權力博弈。"
+    },
+    {
+      "id": "4933700",
+      "time": "2026-06-13 14:32:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統表示：民族團結並非流於形式的口號，而是關乎國家存續的必然要求。"
+    },
     {
       "id": "4933699",
       "time": "2026-06-13 14:27:10",
@@ -169139,43 +169155,6 @@
         "RTX.O"
       ],
       "text": "War Zone reports the US Air Force is urgently seeking to replenish its MQ-9 inventory after losing nearly 30 drones in operations against Iran and suffering additional losses in missions targeting Houthi forces. The MQ-9A is no longer in production; the Air Force plans to buy unused stock from General Atomics but fewer than 10 aircraft are available. The MQ-9 fleet has fallen from 165 at the start of FY2026 to about 135."
-    },
-    {
-      "id": "4921153",
-      "time": "2026-06-06 14:33:19",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。"
-    },
-    {
-      "id": "4921152",
-      "time": "2026-06-06 14:30:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩軍方表示，以色列對黎巴嫩南部一輛軍用車輛發動空襲，造成包括一名軍官在內的多名士兵死亡。"
-    },
-    {
-      "id": "mkt:019e9ba0-6594-7665-8310-4c23a3bb571f",
-      "time": "2026-06-06 14:30:40",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Lebanese military said an Israeli strike on a military vehicle in southern Lebanon killed several soldiers, including an officer."
-    },
-    {
-      "id": "4921151",
-      "time": "2026-06-06 14:30:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【惠譽近21年來首次上調南非主權信用評級 】國際信用評級機構惠譽5日將南非長期發行人違約評級從“BB-”上調至“BB”。這是近21年來惠譽首次上調南非主權信用評級，同時維持穩定展望。惠譽在評級報告中指出，上調南非主權信用評級反映出這個國家在經濟增長疲軟以及面臨國內外衝擊的情況下，依然保持了審慎的財政管理水平，並在債務控制方面取得進展。（新華社）"
     }
   ]
 }
