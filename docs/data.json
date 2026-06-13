@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-13 10:14:37",
-  "count": 18405,
+  "updated": "2026-06-13 10:18:44",
+  "count": 18402,
   "items": [
+    {
+      "id": "4933591",
+      "time": "2026-06-13 10:15:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美瑞新材：目前PPDA產品已成功產出合格產品 正處於下游客戶開發及產品驗證階段】美瑞新材(300848)在互動平臺表示，PPDA（對苯二胺）屬於芳香二胺，是對位芳綸及聚醯亞胺的核心原材料，同時也可用於製取偶氮染料、硫化染料等。目前PPDA產品已成功產出合格產品，效能指標達到預定目標，正處於下游客戶開發及產品驗證階段，公司銷售團隊正積極對接芳綸等領域的目標客戶，力爭早日實現市場突破。"
+    },
+    {
+      "id": "4933590",
+      "time": "2026-06-13 10:14:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍在中東地區保持全面部署並處於高度戒備狀態。"
+    },
     {
       "id": "4933589",
       "time": "2026-06-13 10:13:48",
@@ -169276,61 +169292,6 @@
         "國際"
       ],
       "text": "伊朗伊斯蘭革命衛隊（IRGC）在一份宣告中表示，已動用彈道導彈打擊了美國位於科威特和巴林的基地，以此報復美軍襲擊伊朗在海灣地區的目標。"
-    },
-    {
-      "id": "mkt:019e9ab8-cedd-7665-830f-2b530ec18a3e",
-      "time": "2026-06-06 10:17:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Central Command said there are no reports of U.S. personnel injured and that Iran’s claim it damaged the U.S. Fifth Fleet headquarters in Bahrain is false."
-    },
-    {
-      "id": "4920832",
-      "time": "2026-06-06 10:16:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍中央司令部：攔截伊朗發射的導彈與無人機】美軍中央司令部宣告稱，美軍攔截了伊朗射向霍爾木茲海峽及海灣鄰國的多枚彈道導彈與無人機。美軍中央司令部擊落四架飛向霍爾木茲海峽的伊朗單向攻擊無人機數小時後，伊朗向科威特、巴林發射七枚彈道導彈。該批攻擊無人機對區域海上航運構成緊迫威脅，美軍隨後打擊了位於戈魯克與格什姆島的伊朗海岸監視雷達陣地，防範後續海上襲擊。初步研判顯示，伊朗發射的七枚導彈中有六枚遭攔截，剩餘一枚未能擊中預定目標。目前暫無美方人員傷亡報告，伊朗方面所稱襲擊損毀美軍駐巴林第五艦隊總部的說法不實。美軍中央司令部部隊持續保持戒備。"
-    },
-    {
-      "id": "mkt:019e9ab6-d27e-7665-830f-2445237db8cd",
-      "time": "2026-06-06 10:15:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it fired on four oil tankers attempting to transit the Strait of Hormuz without its permission."
-    },
-    {
-      "id": "mkt:019e9ab6-3eb5-7665-830f-1b9ca13167b7",
-      "time": "2026-06-06 10:14:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. Central Command said it intercepted missiles and drones launched by Iran."
-    },
-    {
-      "id": "4920821",
-      "time": "2026-06-06 10:14:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊（IRGC）發表宣告稱，其對四艘試圖未經許可穿越霍爾木茲海峽的油輪發動了炮擊。"
     }
   ]
 }
