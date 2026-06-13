@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-13 13:40:13",
+  "updated": "2026-06-13 13:44:17",
   "count": 18393,
   "items": [
+    {
+      "id": "4933687",
+      "time": "2026-06-13 13:43:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "東京迪士尼運營方股價下跌，樂園 “神話” 蒙上陰影。"
+    },
+    {
+      "id": "4933686",
+      "time": "2026-06-13 13:42:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Angela Eagle就任英國安全大臣。"
+    },
+    {
+      "id": "4933685",
+      "time": "2026-06-13 13:42:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美法院駁回上訴 維持肯尼迪中心移除特朗普名字裁決】美國哥倫比亞特區巡迴上訴法院12日駁回了美國政府和肯尼迪表演藝術中心董事會的上訴，維持此前聯邦地區法院要求將美國總統特朗普的名字在美國東部時間本月12日結束前從肯尼迪表演藝術中心移除的裁決。據美國有線電視新聞網報道，哥倫比亞特區巡迴上訴法院在一份簡短且未署名的裁決書中並未解釋其裁決理由，要求肯尼迪中心目前必須採取措施，完全遵守聯邦地區法院此前的裁定。（新華社）"
+    },
+    {
+      "id": "4933684",
+      "time": "2026-06-13 13:41:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗表示，數日內或可遠端簽署與美國的諒解備忘錄；與此同時，伊朗強硬派抨擊協議草案，美方則將解除制裁與伊朗拆解核設施掛鉤。美軍中央司令部稱擊落多架針對航運的無人機後，霍爾木茲海峽局勢依舊緊張。"
+    },
+    {
+      "id": "4933683",
+      "time": "2026-06-13 13:40:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯擎科技蔣漢平談車企自研晶片：要冷靜，晶片是“板凳甘坐十年冷”】芯擎科技副總裁兼產品規劃部總經理蔣漢平在2026中國汽車重慶論壇表示，車企對自研晶片躍躍欲試，但應當保持冷靜。他坦言，作為晶片設計公司，深知其中的成本和風險。“如果車企出於某種策略需要宣傳自研晶片，坦率地說，晶片行業是‘板凳甘坐十年冷’，需要長期的積累才能證明設計能力、市場匹配度能夠跟上未來發展。”（睿見）"
+    },
     {
       "id": "4933682",
       "time": "2026-06-13 13:34:52",
@@ -169143,47 +169183,6 @@
         "國際"
       ],
       "text": "【特朗普稱只有中美能從伊朗廢墟中取出濃縮鈾】美國和伊朗的談判陷入僵局，雙方在濃縮鈾處置方式上依然存在分歧。據美國福克斯新聞網6月5日報道，美國總統特朗普堅持要求伊朗放棄濃縮鈾庫存。他宣稱，美國去年的空襲對伊朗核設施造成“嚴重打擊”，只有美國和中國有能力取出廢墟中的濃縮鈾。 （觀察者網）"
-    },
-    {
-      "id": "4921134",
-      "time": "2026-06-06 13:43:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱聖彼得堡市遭大規模無人機襲擊】總檯記者當地時間6日獲悉，俄羅斯聖彼得堡市市長別格洛夫稱，該市當天遭到大規模軍用無人機襲擊，建議市民不要外出，並告知行動網路可能中斷。列寧格勒州州長德羅茲堅科當天凌晨3時59分發布無人機危險預警，並於7時31分通報稱該州上空已有86架無人機被擊落。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e9b75-728b-7665-8310-1b113c6464e8",
-      "time": "2026-06-06 13:43:45",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Russia says St. Petersburg hit by large-scale military drone attack】St. Petersburg mayor Beglov said the city was struck by a large-scale military drone attack, urged residents to stay indoors and warned mobile networks could be disrupted. Leningrad Oblast governor Drozdenko issued a drone-danger alert at 03:59 and at 07:31 reported 86 drones had been shot down over the region."
-    },
-    {
-      "id": "4921133",
-      "time": "2026-06-06 13:43:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮：伊朗國足已獲得簽證】美國白宮官員5日說，參加2026美加墨世界盃的伊朗國家足球隊已獲得美國簽證，此時距伊朗隊15日在美國洛杉磯的首場比賽僅剩10天。路透社5日報道，針對伊朗駐墨西哥大使阿布勒法茲勒·帕桑迪德4日關於伊朗隊尚未收到美國簽證的說法，一名白宮官員說，伊朗隊的美國簽證已獲批。（新華社）"
-    },
-    {
-      "id": "mkt:019e9b73-af10-7665-8310-137d94526f4d",
-      "time": "2026-06-06 13:41:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zakharova denies reports that Lavrov plans to resign】RIA reported on June 6 that Russian Foreign Ministry spokeswoman Maria Zakharova, speaking at the St. Petersburg International Economic Forum, denied reports that Foreign Minister Sergey Lavrov intends to resign. Zakharova called Lavrov an outstanding diplomat and leader who has served the national interest, saying his results are envied even by enemies, and described the resignation rumours as spread by unfriendly forces and false."
-    },
-    {
-      "id": "4921132",
-      "time": "2026-06-06 13:40:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央安全生產考核巡查組曝光】近日，2026年度中央安全生產考核巡查季度明查暗訪工作啟動，各考核巡查組聚焦消防、危化品生產領域安全生產工作，分赴各地開展明查暗訪。記者跟隨工作組檢查人員密集場所消防安全發現，部分商業樓、養老院內部空間未做防火分隔，火災隱患突出。（央視新聞）"
     }
   ]
 }
