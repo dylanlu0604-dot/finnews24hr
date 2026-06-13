@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-14 01:40:44",
-  "count": 18480,
+  "updated": "2026-06-14 01:44:44",
+  "count": 18476,
   "items": [
+    {
+      "id": "4933991",
+      "time": "2026-06-14 01:44:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦紅新月會：加沙城中部亞爾穆克地區遭佔領軍槍擊，造成四人受傷。"
+    },
+    {
+      "id": "4933990",
+      "time": "2026-06-14 01:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：日本將赴格陵蘭島勘探開採稀土。"
+    },
     {
       "id": "mkt:019ec20f-8f3f-7dd8-afed-4f07c0d41456",
       "time": "2026-06-14 01:37:39",
@@ -169839,54 +169855,6 @@
         "國際"
       ],
       "text": "伊朗第一副總統穆罕默德·禮薩·阿雷夫：伊朗在與美國的談判中秉持明確策略，所有官員均統一行動、嚴格遵照執行。 伊朗官員在談判相關文字及提案上立場完全一致，不存在分歧。"
-    },
-    {
-      "id": "4921384",
-      "time": "2026-06-07 01:42:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：巴勒斯坦各派別開羅會議已結束。各方在相關議題上立場存在分歧，計劃於今日再度與調解方舉行會談。"
-    },
-    {
-      "id": "mkt:019e9e07-8699-7665-8313-f2edd62adf9b",
-      "time": "2026-06-07 01:42:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Palestinian sources said a Cairo meeting of Palestinian factions has ended and a follow-up meeting with mediators is planned for today; parties remain divided on the issues under discussion."
-    },
-    {
-      "id": "mkt:019e9e07-3c05-7665-8313-e96c90e4796b",
-      "time": "2026-06-07 01:42:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Palestinian sources said a Cairo meeting of Palestinian factions focused on weapons."
-    },
-    {
-      "id": "4921383",
-      "time": "2026-06-07 01:41:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：巴勒斯坦各派別開羅會議圍繞包含15項內容的《姆拉德諾夫檔案》展開討論。"
-    },
-    {
-      "id": "mkt:019e9e06-e31c-7665-8313-e10d553fc854",
-      "time": "2026-06-07 01:41:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Palestinian sources said at a Cairo meeting of Palestinian factions discussion centered on the 15-point Mladenov document."
-    },
-    {
-      "id": "4921382",
-      "time": "2026-06-07 01:41:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：巴勒斯坦各派別在開羅舉行的會議，重點討論了武器相關議題。"
     }
   ]
 }
