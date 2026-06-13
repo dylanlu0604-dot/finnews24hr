@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 05:08:58_
-_本檔包含 3766 則快訊，約 667053 字_
+_更新時間：2026-06-14 05:20:57_
+_本檔包含 3766 則快訊，約 666871 字_
+
+---
+
+### 2026-06-08 20:41:29  #其他
+
+【上海：深入建設全球領先的集裝箱樞紐港 加快建設門戶複合型國際航空樞紐】據上海釋出，上海市委副書記、市長龔正今天（6月8日）主持召開市政府常務會議，會議原則同意《上海市加快國際航運中心建設“十五五”規劃》並指出，“十五五”時期，上海國際航運中心建設要接續奮鬥，緊盯關鍵環節持續提升航運資源全球配置能力，進一步提升國際航運中心能級。要聚焦擴能增效，深入建設全球領先的集裝箱樞紐港，加快建設門戶複合型國際航空樞紐，鞏固海空樞紐地位。要聚焦高階引領，做強航運保險，做優海事法務，做大航運交易，提升航運服務水平。要聚焦轉型升級，加快綠色轉型，強化數智賦能，打造綠色燃料加註中心和交易中心，做實做強航運貿易數字化平臺，增強航運創新動能。
 
 ---
 
@@ -22672,11 +22678,5 @@ A Boeing services executive said flight hours across most regions continue to sh
 ### 2026-06-07 05:27:27  #其他
 
 波音服務部門高管表示，駕駛艙風擋供應目前低於預期水平，可能導致交付延誤。
-
----
-
-### 2026-06-07 05:19:43  #MKT News
-
-【Iran says national team must enter, exit US on match days】Iran’s ambassador to Mexico, Pasandide, said the national football team has been told it must enter and leave US territory on match days during the World Cup. Citing a US and Israeli war on Tehran, Pasandide said the team is now based in Mexico instead of the originally planned Tucson, Arizona; visa rules allow morning entry but require same‑day departure. Iran has three group matches in the US, scheduled in Los Angeles and Seattle.
 
 ---
