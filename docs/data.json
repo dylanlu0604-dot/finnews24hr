@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-13 22:44:48",
+  "updated": "2026-06-13 22:49:01",
   "count": 18478,
   "items": [
+    {
+      "id": "4933928",
+      "time": "2026-06-13 22:46:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國官員表示：隨著霍爾木茲海峽通航恢復，七國集團若參與排雷工作將大有裨益。"
+    },
+    {
+      "id": "mkt:019ec171-3738-7dd8-afec-5f2c4be2404e",
+      "time": "2026-06-13 22:44:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iran says any Iran-US understanding would only keep talks going, not a final deal】Iran foreign ministry spokesman BAGHAEI said on June 13 any possible understanding with the US would be intended only to sustain talks, not to serve as a final agreement. Unfreezing Iran’s frozen assets would be an indispensable component of any such understanding. Iran is prioritizing an end to hostilities on all fronts and regional tensions and is not discussing nuclear details at this stage. BAGHAEI said the only path to regional security is ending foreign military presence and that talks also cover stopping US hostile actions against Iranian vessels and issues in the Strait of Hormuz. He added Iran will act with maximum caution in negotiations and may take countermeasures if the other side fails to fulfill its obligations."
+    },
     {
       "id": "4933927",
       "time": "2026-06-13 22:43:52",
@@ -169858,22 +169878,6 @@
         "其他"
       ],
       "text": "黎巴嫩官方資料顯示，自今年3月黎以衝突爆發以來，黎巴嫩已有至少3593人遇難、近1.1萬人受傷。"
-    },
-    {
-      "id": "4921319",
-      "time": "2026-06-06 22:48:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思在諾曼底登陸紀念活動上發言時稱，歐洲正面臨各類危險意識形態的“入侵”。"
-    },
-    {
-      "id": "4921318",
-      "time": "2026-06-06 22:47:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人譴責以色列襲擊黎巴嫩軍隊，指責以色列此舉是侵犯黎巴嫩及其主權的“惡劣罪行”。"
     }
   ]
 }
