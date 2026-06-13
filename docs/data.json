@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-13 14:09:01",
-  "count": 18383,
+  "updated": "2026-06-13 14:13:10",
+  "count": 18387,
   "items": [
+    {
+      "id": "4933694",
+      "time": "2026-06-13 14:12:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列對黎巴嫩南部的20個城市和村莊釋出了緊急疏散警告，並要求這些地區的居民立即離開住所，遷移到澤赫拉尼河以北地區。"
+    },
+    {
+      "id": "4933693",
+      "time": "2026-06-13 14:10:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：我們將不得不對真主黨採取行動，因其違反停火協議。剛剛響起的警報是關於在梅圖拉和米斯加夫·阿姆地區出現敵方飛機入侵，以色列空軍攔截了一架從黎巴嫩進入以色列領空的可疑空中目標。 由於攔截嘗試，導彈和火箭警報已被啟用。"
+    },
+    {
+      "id": "mkt:019ebf99-eae1-7dd8-afe8-88439a24ad98",
+      "time": "2026-06-13 14:09:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israeli military said sirens just sounded in Metula and Misgav Am after reports of enemy aircraft incursions. The Israeli Air Force intercepted a suspicious airborne target that entered Israeli airspace from Lebanon; missile and rocket alerts were triggered during the interception attempt."
+    },
+    {
+      "id": "mkt:019ebf99-93aa-7dd8-afe8-85cbd8edac13",
+      "time": "2026-06-13 14:09:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israeli military says it will have to take action against Hezbollah for violating the ceasefire agreement."
+    },
     {
       "id": "4933692",
       "time": "2026-06-13 14:04:41",
