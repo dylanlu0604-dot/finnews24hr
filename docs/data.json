@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-13 17:51:52",
+  "updated": "2026-06-13 17:55:49",
   "count": 18360,
   "items": [
+    {
+      "id": "4933773",
+      "time": "2026-06-13 17:54:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前5月全國鐵路傳送旅客19.69億人次，同比增長5.7%】記者13日從中國國家鐵路集團有限公司獲悉，1至5月，全國鐵路傳送旅客19.69億人次、同比增長5.7%，創歷史同期新高。資料顯示，1至5月，全國鐵路日均開行旅客列車11541列、同比增長5.9%，其中，5月1日傳送旅客2484.4萬人次，創單日旅客傳送量歷史新高。（中新社）"
+    },
+    {
+      "id": "mkt:019ec065-1404-7dd8-afe9-ddc896af7ddb",
+      "time": "2026-06-13 17:51:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Poland PM says fuel price caps to end in summer】Poland's Prime Minister Tusk said on Saturday that, given expectations of an easing in a conflict involving Iran and stabilising prices, Poland will end fuel price caps this summer. In March the government cut fuel VAT from 23% to 8%, reduced excise duty to the EU minimum and imposed daily caps on motor fuel prices; those measures have been extended every two weeks since. This week Warsaw extended the VAT cut and price caps to end-June but did not extend the excise reduction. Tusk said Poland had the cheapest fuel in Europe during the crisis but the measures will be ended this summer."
+    },
     {
       "id": "4933772",
       "time": "2026-06-13 17:50:04",
@@ -168812,22 +168830,6 @@
         "國際"
       ],
       "text": "巴林軍方稱其攔截了來自伊朗的三枚導彈及多架無人機。"
-    },
-    {
-      "id": "4921238",
-      "time": "2026-06-06 17:53:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三峽集團首個無人機智慧巡檢管理體系投入執行】“三峽小微”公眾號訊息，近日，三峽集團首個無人機智慧巡檢管理體系在內蒙古投入執行，首批覆蓋12座新能源場站，總裝機640萬千瓦，實現無人機統一管控、統籌排程、智慧診斷、閉環消缺。該套體系的落地，標誌著三峽集團在新能源場站規模化智慧運維方面邁出關鍵一步，為國內新能源場站集約化巡檢提供了實踐樣板。"
-    },
-    {
-      "id": "4921237",
-      "time": "2026-06-06 17:53:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【可同時裝六架飛機 我國新型滾裝船今天下水】今天，我國建造的用於運輸飛機部件的滾裝船在中船集團武昌造船廠順利下水。這艘船交付後，將主要用於飛機部件的運輸。據介紹，這艘船在下水後將在碼頭完成發動機、螺旋槳、電力系統等裝置的功能試驗。計劃今年11月正式交付，交付後將主要用於跨大西洋的飛機部件運輸工作。（央視）"
     }
   ]
 }
