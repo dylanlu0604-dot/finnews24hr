@@ -1,7 +1,22 @@
 {
-  "updated": "2026-06-13 15:45:26",
-  "count": 18358,
+  "updated": "2026-06-13 15:49:22",
+  "count": 18356,
   "items": [
+    {
+      "id": "mkt:019ebff2-471c-7dd8-afe8-d1e4d1c7837d",
+      "time": "2026-06-13 15:46:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Lithuanian State Emergency Operations Centre said it issued an alert to residents of Vilnius after a suspicious military drone was detected in Lithuanian airspace and has scrambled NATO military jets."
+    },
     {
       "id": "4933721",
       "time": "2026-06-13 15:41:46",
@@ -168814,34 +168829,6 @@
         "其他"
       ],
       "text": "【劉偉擔任中基協新一屆監事長】從中國證券投資基金業協會 （中基協）  第四屆會員代表大會上獲悉，劉偉擔任中基協新一屆監事長。（上證報）"
-    },
-    {
-      "id": "4921195",
-      "time": "2026-06-06 15:47:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【尚太科技：原材料價格存在不同程度增長 公司多角度綜合應對】尚太科技(001301)今日在互動平臺表示，受宏觀經濟形勢，相關行業需求情況，公司原材料價格存在不同程度的增長，公司多種角度綜合應對原材料價格波動的挑戰，應對措施包含積極與下游客戶開展磋商，建立科學有效的定價機制，進行合理適度的價格傳導。需要注意的是，原材料價格波動能否透過產品定價向下遊傳導，取決於市場環境等多重因素。"
-    },
-    {
-      "id": "mkt:019e9be6-8143-7665-8310-e129f2fd89ae",
-      "time": "2026-06-06 15:47:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Indonesian officials pledge renewed action to stabilize rupiah, attract inflows】After a week of steep equity losses and the rupiah hitting record lows, Indonesia’s finance ministry and central bank said they will intensify efforts to stabilise the currency and draw capital inflows. Central Bank Governor Perry Warjiyo said authorities will keep market liquidity ample, coordinate to raise yields to attract inflows, and will raise the interest rate paid on government deposits at the central bank."
-    },
-    {
-      "id": "4921194",
-      "time": "2026-06-06 15:46:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "加沙衛生部報告稱，過去48小時內，以色列空襲造成5人死亡，49人受傷。"
     }
   ]
 }
