@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-13 18:08:15",
+  "updated": "2026-06-13 18:14:00",
   "count": 18366,
   "items": [
+    {
+      "id": "4933780",
+      "time": "2026-06-13 18:10:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總參謀部稱，烏克蘭軍方襲擊了俄羅斯伏爾加格勒地區的一處石油基礎設施。"
+    },
+    {
+      "id": "4933779",
+      "time": "2026-06-13 18:09:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【內蒙古首個AI鍊鋼專案在包鋼投用】據內蒙古日報，日前，內蒙古首個AI鍊鋼專案——“包鋼智冶”智慧鍊鋼大模型在包鋼股份1號轉爐成功投用。該專案打破了傳統“經驗鍊鋼”瓶頸，實現了從人工研判向資料演算法自主管控的轉型。"
+    },
     {
       "id": "mkt:019ec073-4334-7dd8-afe9-f3f6a0edaebb",
       "time": "2026-06-13 18:07:19",
@@ -168863,27 +168879,6 @@
         "其他"
       ],
       "text": "【水利部和中國氣象局聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局6月6日18時聯合釋出橙色山洪災害氣象預警：預計，6月6日20時至6月7日20時，重慶東南部、貴州東北部等地部分地區發生山洪災害可能性較大（黃色預警），其中，貴州東北部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
-    },
-    {
-      "id": "mkt:019e9c6a-5a66-7665-8312-1d873435f3d8",
-      "time": "2026-06-06 18:11:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain Defence Force General Command said deliberate use of missiles and drones targeting civilians and private property is a serious violation of international humanitarian law."
-    },
-    {
-      "id": "mkt:019e9c68-b3fe-7665-8312-13c0b5d08f57",
-      "time": "2026-06-06 18:09:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Bahrain's military said it intercepted three missiles and multiple drones from Iran."
     }
   ]
 }
