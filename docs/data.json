@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-14 00:52:41",
-  "count": 18483,
+  "updated": "2026-06-14 00:56:48",
+  "count": 18484,
   "items": [
+    {
+      "id": "4933978",
+      "time": "2026-06-14 00:54:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國和伊朗高階官員將在瑞士舉行會晤。"
+    },
+    {
+      "id": "mkt:019ec1e7-a2c4-7dd8-afed-0b5891405ca2",
+      "time": "2026-06-14 00:54:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump says deal to be signed tomorrow; Strait of Hormuz to be \"open to all nations\"】President Trump posted on social media that an agreement with Iran will be signed tomorrow and, once signed, the Strait of Hormuz will be \"open to all nations.\" He said the deal will involve no cash transfers, unlike Obama-era payments. Trump added that, when appropriate and after conditions calm, the US would use B-2 bombers to recover \"nuclear dust\" and dilute/destroy it in Iran or the United States. He said he expects long-term cooperation with Iran and the region but warned if the process fails \"we have an ultimate alternative we hope never to use.\""
+    },
     {
       "id": "mkt:019ec1e4-a5aa-7dd8-afed-048c3a1cb7a3",
       "time": "2026-06-14 00:50:47",
@@ -169904,14 +169925,6 @@
         "Brent"
       ],
       "text": "The Israeli military said it had not ordered a halt to demolitions of villages in southern Lebanon and is continuing to destroy related military infrastructure."
-    },
-    {
-      "id": "4921365",
-      "time": "2026-06-07 00:53:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦內政部長抵達德黑蘭 將與伊朗官員會面】當地時間6日晚，巴基斯坦內政部長納克維抵達伊朗首都德黑蘭。在本次訪問期間，他將與伊朗外長在內的官員會面並進行磋商。（央視新聞）"
     }
   ]
 }
