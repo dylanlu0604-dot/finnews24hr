@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 00:44:09_
-_本檔包含 3630 則快訊，約 668344 字_
+_更新時間：2026-06-14 01:44:44_
+_本檔包含 3643 則快訊，約 668417 字_
+
+---
+
+### 2026-06-14 01:44:01  #國際
+
+巴勒斯坦紅新月會：加沙城中部亞爾穆克地區遭佔領軍槍擊，造成四人受傷。
+
+---
+
+### 2026-06-14 01:40:39  #國際
+
+市場資訊：日本將赴格陵蘭島勘探開採稀土。
+
+---
+
+### 2026-06-14 01:37:39  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Israeli daily Yedioth Ahronoth reports Israel says it need not sign any agreement with Iran, retains the right to self‑defense, but any military action must be coordinated with the US.
+
+---
+
+### 2026-06-14 01:34:41  #國際
+
+以色列電視臺：根據與伊朗達成的協議，以色列軍隊不會從安全區撤出。
+
+---
+
+### 2026-06-14 01:31:19  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Saudi state TV reports the Israeli military is preparing to respond should ground operations in southern Lebanon be halted. The report says Israeli forces will not withdraw from the security zone under an agreement with Iran.
+
+---
+
+### 2026-06-14 01:28:06  #國際
+
+美國媒體：烏克蘭的“愛國者”導彈防禦系統嚴重缺乏攔截導彈。因此，它無法抵禦來自俄羅斯的大規模攻擊。
+
+---
+
+### 2026-06-14 01:25:45  #國際
+
+市場資訊：71%的美國公立學校教師表示自己至少兼職一份工作。
+
+---
+
+### 2026-06-14 01:24:55  #焦點 #國際
+
+市場資訊：目前美國十餘所高校的年度就學總費用已突破十萬美元。
+
+---
+
+### 2026-06-14 01:23:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【U.S. Secretary of State Rubio tells Indian foreign minister all vessels in Strait of Hormuz must obey U.S. orders】The U.S. State Department said Secretary of State Rubio told Indian foreign minister S. Jaishankar in a call that all commercial vessels in the Strait of Hormuz must immediately obey U.S. military orders. Rubio warned violations of the U.S. blockade of Iranian ports and illegal transport of Iranian oil will not be tolerated. The call, earlier this week, followed a U.S. strike on a tanker in the waterway that killed three Indian seafarers; Jaishankar told Rubio he reiterated India’s strong protest and called lethal attacks on commercial shipping unreasonable.
+
+---
+
+### 2026-06-14 01:14:05  #國際
+
+首架載有被美國驅逐移民的航班抵達班吉。
+
+---
+
+### 2026-06-14 01:06:22  #國際
+
+【扎波羅熱核電站恢復正常執行】據俄羅斯媒體報道，扎波羅熱核電站發言人葉夫根尼婭·亞希娜13日表示，該核電站各系統在外部供電恢復後，已開始正常執行模式。 亞希娜稱，外部電源恢復後，扎波羅熱核電站裝置狀況安全，輻射水平正常。（新華社）
+
+---
+
+### 2026-06-14 01:03:58  #國際
+
+【特朗普稱美伊協議計劃14日簽署】當地時間6月13日，美國總統特朗普在社交媒體平臺發文稱，美伊協議“計劃明日簽署，簽署後，霍爾木茲海峽將對所有人開放”。（央視新聞）
+
+---
+
+### 2026-06-14 01:02:43  #MKT News #Market Themes #AI Revolution
+
+【After Amazon CEO briefed US officials, Trump administration restricts foreign use of Anthropic models】According to people familiar, the Trump administration has decided to block foreign access to Anthropic’s most capable AI models after Amazon CEO Andy Jassy told US officials, including Treasury Secretary Bessent, that Amazon researchers were able via a series of prompts to induce Anthropic’s Fable 5 to produce information that could be used in cyberattacks. The White House convened, security researchers corroborated Amazon’s findings, and the government — with presidential approval — will bar foreign governments, companies and individuals from accessing the tool. Anthropic said it will cut all user access to Mythos and Fable to ensure compliance; US officials have long judged Anthropic’s new models difficult to manage from a security standpoint.
+
+---
+
+### 2026-06-14 00:59:08  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+Downing Street said both leaders agreed freedom of navigation must be restored to mitigate global economic impact.
+
+---
+
+### 2026-06-14 00:59:05  #其他
+
+唐寧街：兩國領導人一致認為，必須恢復航行自由，以緩解全球經濟所受的影響。
+
+---
+
+### 2026-06-14 00:58:50  #MKT News
+
+Downing Street: Prime Minister Starmer reiterated the UK is ready at any time to support implementation of any peace agreement.
+
+---
+
+### 2026-06-14 00:58:39  #其他
+
+唐寧街：英國首相斯塔默重申，英國隨時準備支援任何和平協議的執行。
+
+---
+
+### 2026-06-14 00:58:14  #MKT News
+
+10 Downing Street said Prime Minister Starmer supports U.S. President Trump’s efforts to end the conflict with Iran.
+
+---
+
+### 2026-06-14 00:57:53  #國際
+
+唐寧街：英國首相斯塔默對特朗普總統為結束與伊朗衝突所做的努力表示支援。
+
+---
+
+### 2026-06-14 00:57:51  #MKT News #Market Regions #Europe & UK
+
+Downing Street said Prime Minister Starmer spoke by phone with U.S. President Donald Trump this afternoon.
+
+---
+
+### 2026-06-14 00:57:07  #國際
+
+唐寧街：英國首相斯塔默今日下午與美國總統特朗普通話。
+
+---
+
+### 2026-06-14 00:54:47  #國際
+
+市場資訊：美國和伊朗高階官員將在瑞士舉行會晤。
+
+---
+
+### 2026-06-14 00:54:03  #MKT News #Important #WTI #Impact mixed #Brent #DXY
+
+【Trump says deal to be signed tomorrow; Strait of Hormuz to be "open to all nations"】President Trump posted on social media that an agreement with Iran will be signed tomorrow and, once signed, the Strait of Hormuz will be "open to all nations." He said the deal will involve no cash transfers, unlike Obama-era payments. Trump added that, when appropriate and after conditions calm, the US would use B-2 bombers to recover "nuclear dust" and dilute/destroy it in Iran or the United States. He said he expects long-term cooperation with Iran and the region but warned if the process fails "we have an ultimate alternative we hope never to use."
+
+---
+
+### 2026-06-14 00:50:47  #MKT News
+
+US President Trump said US-Iran relations are markedly different and better than under prior administrations.
+
+---
+
+### 2026-06-14 00:49:19  #焦點 #國際
+
+【特朗普：伊核協議將於明日簽署】特朗普在社交平臺發文稱：“奧巴馬時期與伊朗達成的《聯合全面行動計劃》，實則是讓伊朗輕鬆順利研發核武器的捷徑。按照那份協議，伊朗六年前就能擁有核武器，並且早就會付諸使用。我和伊朗達成的協議則截然相反，它會徹底阻斷伊朗獲取核武器的可能。”他說，事實上，伊朗如今不再謀求核武器，也永遠無法透過自研、採購或其他任何途徑得到核武。這份協議定於明日簽署，協議生效後，霍爾木茲海峽將即刻全面開放。本屆政府與伊朗的關係，相較此前數屆政府有了極大改善。奧巴馬政府曾向伊朗輸送數千億美元資金，其中還包括17億美元現金，而本次協議不會產生任何資金往來。特朗普表示：“待局勢完全平穩後，我們會出動先進的B-2轟炸機及優秀飛行員，深入伊朗境內，清理深埋在堅固花崗岩山體下的核相關物料。無論這些物料位於伊朗還是美國，我們都會對其進行稀釋並徹底銷燬。我們期待在未來長期與伊朗及整個中東地區開展合作。希望此次相關程序能夠推進得迅速、順利。倘若事與願違，我們也留有最終應對手段，但願永遠無需動用。”
+
+---
+
+### 2026-06-14 00:48:46  #MKT News #Important
+
+U.S. President Trump on Iran said he hopes the process will be completed quickly, simply and smoothly; if not, we have an ultimate contingency plan.
+
+---
+
+### 2026-06-14 00:48:36  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Trump on Iran: At the right time, when everything is calm, we will go in and get the 'nuclear dust'.
+
+---
+
+### 2026-06-14 00:47:46  #MKT News #Important #WTI #Impact bearish #Brent
+
+U.S. President Trump said an agreement on Iran is scheduled to be signed tomorrow; once signed, the Strait of Hormuz will be immediately open to all.
+
+---
+
+### 2026-06-14 00:47:14  #國際
+
+特朗普談伊朗：希望這一程序能迅速、輕鬆、順利地完成；如若不然，我們有最終替代方案。
+
+---
+
+### 2026-06-14 00:47:00  #國際
+
+特朗普談伊朗：待時機成熟、局勢平復後，我們將進駐伊朗清理核廢料。
+
+---
+
+### 2026-06-14 00:46:35  #焦點 #國際
+
+特朗普：協議簽署後，霍爾木茲海峽立即對所有船隻開放。
+
+---
+
+### 2026-06-14 00:46:30  #焦點 #國際
+
+特朗普：伊核協議將於明日簽署。
 
 ---
 
@@ -21773,119 +21965,5 @@ Aussie Heads for Flat Weekly Finish — The Australian dollar held around $0.70 
 ### 2026-06-12 08:45:51  #公司
 
 【宇瞳光學：定增申請獲深交所稽核透過】宇瞳光學公告，公司於2026年6月11日收到深交所上市稽核中心出具的《關於東莞市宇瞳光學科技股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深交所發行上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求，後續深交所將按規定報中國證監會履行相關注冊程式。
-
----
-
-### 2026-06-12 08:44:42  #公司 #市場
-
-【中國寶武與力拓完成皮爾巴拉混合鐵礦石造球及直接還原試驗】6月12日，力拓集團釋出訊息稱，中國寶武與力拓採用力拓西澳皮爾巴拉混合鐵礦石，完成造球與豎爐工業試驗。這是雙方更廣泛合作的一部分，旨在研究降低鋼鐵生產排放的方式。本次試驗於中國寶武寶鋼股份湛江鋼鐵基地開展，採用氫基豎爐技術生產直接還原鐵（DRI），所用球團礦中包含三分之一的皮爾巴拉混合礦。所得DRI隨後送入工業規模轉爐完成鍊鋼生產；該DRI同時也開展了小型電熔分爐試驗。
-
----
-
-### 2026-06-12 08:44:18  #其他
-
-【中國航發控制系統研究所一行到振華科技交流座談】6月10日，中國航發控制系統研究所（簡稱中國航發動控所）專務魏民一行到振華科技交流座談。魏民介紹了大飛機國產化元器件建設機遇，邀請振華科技參與國產大飛機元器件目錄建設與適航驗證合作，為雙方合作開啟新的增長空間。座談會上，雙方圍繞航空發動機電子元器件高質量發展計劃、重點專案供應鏈稽核、VMI/JMI深度戰略合作模式推進等重點議題展開深入交流。
-
----
-
-### 2026-06-12 08:44:14  #公司
-
-【昂利康、桂林三金等新設創投合夥企業】企查查APP顯示，近日，江蘇源津瑞泓創業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由昂利康、桂林三金集團股份有限公司全資子公司西藏澤鑫股權投資管理有限公司等共同出資。
-
----
-
-### 2026-06-12 08:43:58  #公司
-
-【徐麟李炳軍會見華為公司高階副總裁、常務監事任樹錄一行】據貴州日報天眼新聞，6月11日，貴州省委書記徐麟，省委副書記、省長李炳軍在貴陽會見華為公司高階副總裁、常務監事任樹錄一行。徐麟、李炳軍說，希望華為公司聚焦智算中心建設、資料要素市場化、大模型開發應用、生態夥伴招引等，進一步深化拓展戰略合作。貴州將為華為公司在黔發展做好服務保障。任樹錄說，華為公司將順應發展大勢，與貴州攜手，在現有合作基礎上持續打造良好生態，加大在黔投資佈局，在更廣領域參與貴州數字經濟發展，在更高水平上實現互利共贏、共同發展。
-
----
-
-### 2026-06-12 08:43:41  #公司 #市場 #國際
-
-【韓國Kospi指數飆升逾8% 美伊有望達成協議改善市場風險偏好】韓國股市週五大幅上漲，美國總統特朗普表示美伊接近達成協議後，市場風險偏好改善。Kospi指數早盤飆升逾8%，晶片股領漲。週五的大漲再次凸顯出韓國4.3萬億美元股市的狂野波動。由於股指期貨飆升，韓國交易所一度暫停Kospi的程式化買單。此前，特朗普突然取消原定對伊朗的軍事打擊，推動美股和更廣泛的風險資產走高。三星電子和SK海力士均大漲超過9%，投資者重新湧入被視為AI熱潮中心的股票。
-
----
-
-### 2026-06-12 08:43:29  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australian Shares Poised for Strong Weekly Finish — Australian stocks surged 140 points, or 1.6%, to 8,773 on Friday morning deals, reversing weakness in the prior session and hitting their highest level in a week. The rally tracked overnight solid gains on Wall Street after President Trump signaled the U.S. was close to sealing a deal with Iran, with a signing possible this weekend in Europe alongside VP JD Vance. Optimism also mounted that the Reserve Bank could pause cash rate hikes at next week’s policy meeting after three hikes this year. Meanwhile, consumer inflation expectations eased to 5.5% in June, the lowest since March. Broad-based strength lifted all sectors, led by non-energy minerals, process industries, producer manufacturing, and financials. The big four banks advanced between 0.9% and 1.6%. Standout movers included BHP Group (2.6%), Evolution Mining (6.2%), PLS Group (5.2%), and Qantas Airways (4.5%). With weekly gains of about 1.7% so far, local markets are on track for a steep rise after weakness in the prior period.
-
----
-
-### 2026-06-12 08:42:04  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-Japanese Shares Rally on US-Iran Deal Hopes — The Nikkei 225 Index jumped 4% toward 67,000, while the broader Topix Index climbed 2.1% to 3,910 on Friday, as Japanese equities rebounded from earlier-week losses after President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe, sending oil prices sharply lower. Investor sentiment was also lifted ahead of SpaceX's Wall Street debut, with the company expected to raise about $75 billion at a projected market valuation of $1.78 trillion. Technology and AI-related stocks led the gains, with Kioxia Holdings rising 6%, Tokyo Electron surging 10%, SoftBank Group adding 3.4%, Advantest advancing 8.7%, and Taiyo Yuden soaring 13%. Financial and consumer shares also strengthened, including Mitsubishi UFJ up 1.1%, Sumitomo Mitsui gaining 2.3%, and Fast Retailing rising 1.9%.
-
----
-
-### 2026-06-12 08:40:29  #兩會
-
-【第十屆中國－南亞博覽會在昆明開幕】6月11日，第十屆中國－南亞博覽會在昆明開幕，全國人大常委會副委員長何維出席開幕式並致辭。何維指出，近年來，中國和南亞國家一道，秉持開放、合作、包容的精神，推進“一帶一路”倡議同南亞各國發展戰略對接，不斷深化各領域務實合作。何維強調，2025年，中國實現第十四個五年規劃圓滿收官，經濟實力、科技實力、綜合國力躍上新臺階，中國式現代化邁出新的堅實步伐，為世界發展提供了新機遇。中國將持續攜手南亞國家，譜寫加快發展振興的合作新篇章。歡迎大家透過本次盛會發掘更多合作機遇，形成更多合作成果，創造更加美好的未來。博覽會期間，何維分別會見孟加拉國、寮國、尼泊爾等國政要。
-
----
-
-### 2026-06-12 08:40:21  #市場 #央行 #國際
-
-【金價上漲，但仍低於關鍵盤整水平】金價在早盤交易中上漲。大華(UOB)的Heng Koon How在一份報告中表示，由於人們日益擔心美聯儲可能不得不提高政策利率，黃金在過去一週跌至接近4,000美元后，目前的交易價格低於其每盎司4,500美元的關鍵盤整水平。大華的預測取決於美聯儲6月會議的結果以及主席凱文·沃什傳達的資訊。該分析師表示，如果凱文·沃什承認通貨膨脹風險不斷增加，金價在近期面臨進一步承壓並跌破每盎司4,000美元的風險。大華預計，第三季度金價將在每盎司4,600美元左右交易，第四季度將在每盎司4,800美元左右交易。現貨黃金上漲0.3%，報每盎司4,226.02美元，但本週累計下跌1.7%。
-
----
-
-### 2026-06-12 08:39:37  #MKT News #USDJPY
-
-Japan's finance minister Katayama said Japan is receiving U.S. intelligence support on establishing a Japan-specific foreign investment review committee.
-
----
-
-### 2026-06-12 08:39:22  #觀點
-
-高盛維持對2026年第四季布倫特原油價格每桶90美元的預測。
-
----
-
-### 2026-06-12 08:38:51  #國際
-
-日本財務大臣片山：在設立日本版外國投資委員會（CFIUS）方面，正獲得美國的情報支援。
-
----
-
-### 2026-06-12 08:38:46  #MKT News #Commodities #Energy #Brent
-
-Goldman Sachs maintains its Brent crude forecast at $90 per barrel for Q4 2026.
-
----
-
-### 2026-06-12 08:37:44  #其他
-
-【天津市編制《天津市智慧機器人技術創新圖譜》】近日，天津市編制《天津市智慧機器人技術創新圖譜》，梳理形成“三模組+一特色”創新支撐架構，為全市智慧機器人產業創新發展劃定清晰可行的路線圖。其中，“三模組”聚焦機器人研製生產核心環節，囊括感知、決策、執行三大必備主體模組，覆蓋產業研發生產的基礎支撐；“一特色”則立足天津產業稟賦，確立“AI+工業機器人”特色發展方向，依託天津市工業機器人領域的既有優勢，以人工智慧技術賦能傳統工業機器人，推動產業從“自動化”向“智慧化”升級。同時，圖譜明確了三大主體模組及特色發展領域的範圍，梳理彙總了代表性高校院所與重點企業資源。
-
----
-
-### 2026-06-12 08:37:31  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Goldman Sachs said it would lower its 2027 average Brent forecast to $80/bbl, citing rising supply and weaker demand.
-
----
-
-### 2026-06-12 08:37:23  #公司 #國際
-
-泰國王室宮務處12日釋出公告說，泰國公主帕查拉吉迪雅帕11日因病逝世，享年47歲。帕查拉吉迪雅帕是現任國王瑪哈·哇集拉隆功的女兒。（新華社）
-
----
-
-### 2026-06-12 08:37:16  #觀點
-
-高盛因供應增加和需求下降，將2027年布倫特原油均價預測下調至每桶80美元。
-
----
-
-### 2026-06-12 08:36:55  #央行 #國際
-
-【日本財務大臣：植田和男行長缺席不會影響日本央行會議】日本財務大臣片山皋月當被問及日本央行行長植田和男住院一事時，表示預計此事不會對貨幣政策會議造成影響。當地時間6月10日，日本央行在一份宣告中表示，為治療肝囊腫感染，74歲的植田預計將住院兩週左右，將缺席6月15日、16日召開的貨幣政策會議。
-
----
-
-### 2026-06-12 08:36:06  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama said Kazuo Ueda's hospitalization is not expected to affect BOJ policy meetings.
 
 ---

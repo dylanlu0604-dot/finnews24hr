@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 00:44:09_
-_本檔包含 3710 則快訊，約 668287 字_
+_更新時間：2026-06-14 01:44:44_
+_本檔包含 3714 則快訊，約 667718 字_
+
+---
+
+### 2026-06-11 04:50:26  #國際
+
+美國國防部長赫格塞思：古巴政權正承受巨大壓力。
+
+---
+
+### 2026-06-11 04:50:23  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+U.S. Defense Secretary Hegseth said a negotiating team led by President Trump, Vance, Kushner, Witkoff and Rubio is ready to secure a major deal favorable to Iran.
+
+---
+
+### 2026-06-11 04:50:22  #MKT News
+
+U.S. Defense Secretary Hegseth says the Cuban regime faces significant pressure.
+
+---
+
+### 2026-06-11 04:49:52  #國際
+
+美國國防部長赫格塞思： 我們將按照我方節奏予以強力打擊。如果談判需要炸彈，我們就會用炸彈來談判。
+
+---
+
+### 2026-06-11 04:49:24  #MKT News
+
+The U.S. Embassy in Baghdad urged U.S. citizens in Iraq to remain vigilant due to recent regional developments.
+
+---
+
+### 2026-06-11 04:49:12  #國際
+
+美國駐巴格達大使館因近期地區局勢變化，要求在伊美國公民保持警惕。
+
+---
+
+### 2026-06-11 04:48:50  #其他
+
+【國際海事組織譴責美軍襲擊油輪致三名海員失蹤 】國際海事組織秘書長多明格斯10日強烈譴責美軍在霍爾木茲海峽附近對油輪發起襲擊。該事件導致一艘油輪起火，三名海員失蹤。國際海事組織當天發表宣告說，一艘懸掛帛琉國旗的油輪在阿曼灣遭到彈射物襲擊後發生火災。宣告說，多明格斯對事件表示“深切關切並予以強烈譴責”，強調任何危及海員生命和國際航運安全的行為“完全不可接受”。（新華社）
+
+---
+
+### 2026-06-11 04:48:46  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. Defense Secretary Hegseth said if negotiations require bombs, the U.S. will use bombs to negotiate.
+
+---
+
+### 2026-06-11 04:47:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Tasnim News quoted Iranian military sources saying Iran would target new U.S. interests if the United States takes action.
+
+---
+
+### 2026-06-11 04:47:52  #國際
+
+伊朗塔斯尼姆通訊社援引軍方訊息：若美方採取行動，伊朗將打擊美國新的相關目標。
+
+---
+
+### 2026-06-11 04:47:18  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+TASNIM News cited Iranian military sources saying the armed forces warned the United States would face another heavy response if it carried out any aggressive action.
+
+---
+
+### 2026-06-11 04:47:07  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. Defense Secretary Hegseth said tonight's strike on Iran will advance U.S. military interests and bolster U.S. diplomatic standing.
+
+---
+
+### 2026-06-11 04:46:46  #國際
+
+美國國防部長赫格塞思： 今晚的打擊行動將維護美國軍事利益，並提升美方外交優勢。
+
+---
+
+### 2026-06-11 04:46:33  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+TASNIM NEWS quoted Iranian military sources as saying Iran's armed forces are fully prepared tonight.
+
+---
+
+### 2026-06-11 04:46:30  #焦點 #國際
+
+伊朗塔斯尼姆通訊社援引軍方訊息稱，伊朗武裝部隊今晚已全面進入備戰狀態。 若美方採取任何挑釁行徑，伊朗必將再度予以強力反擊。
+
+---
+
+### 2026-06-11 04:46:16  #焦點 #國際
+
+美國國防部長赫格塞思：伊朗有機會達成一筆很好的協議，但他們一直不願意。他們將會看到美國對伊朗關鍵設施投下一連串炸彈——這不是為了重啟戰爭，而是為了設定達成協議的條件。此前墜機的阿帕奇直升機飛行員狀態良好。
+
+---
+
+### 2026-06-11 04:46:13  #市場 #焦點
+
+現貨黃金失守4070美元/盎司，日內跌4.45%。
+
+---
+
+### 2026-06-11 04:45:48  #國際
+
+美國國防部長赫格塞思：“自由行動”穿越霍爾木茲海峽的航運計劃從未中止，只是轉為秘密執行。 我方一直在為途經該海峽的商業船隻提供護航。
+
+---
+
+### 2026-06-11 04:45:41  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+【U.S. Defense Secretary Hegseth: strikes on Iran aimed at setting deal conditions, not restarting war】U.S. Defense Secretary Hegseth said Iran has had an opportunity to reach a good deal but has been unwilling. He said the U.S. will drop a series of bombs on key Iranian facilities — not to restart the war but to set conditions for reaching an agreement.
+
+---
+
+### 2026-06-11 04:45:40  #MKT News
+
+U.S. Secretary of Defense Hegseth said the pilot of the Apache helicopter that crashed earlier is in good condition.
+
+---
+
+### 2026-06-11 04:43:20  #MKT News
+
+U.S. Defense Secretary Hegseth said most Iranian missiles previously failed to hit their targets.
+
+---
+
+### 2026-06-11 04:43:12  #國際
+
+美國國防部長赫格塞思： 伊朗大部分導彈均未命中目標。
+
+---
+
+### 2026-06-11 04:41:41  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Defense Minister Hegseth said the U.S., not Iran, controls the Strait of Hormuz.
+
+---
+
+### 2026-06-11 04:41:04  #國際
+
+美國國防部長赫格塞思： 今晚的打擊行動將力度十足、立場明確。
+
+---
+
+### 2026-06-11 04:38:43  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. defense secretary Hegseth on Iran said Central Command (CENTCOM) will be very busy tonight and the United States will carry out heavy strikes tonight, bombing key Iranian facilities.
+
+---
+
+### 2026-06-11 04:38:37  #焦點 #國際
+
+美國國防部長赫格塞思談及伊朗局勢：中央司令部今晚將十分忙碌，美國今晚將重擊伊朗，將轟炸伊朗關鍵設施。
+
+---
+
+### 2026-06-11 04:38:15  #公司 #市場 #國際
+
+【白宮或再與軍工企業磋商加速生產】據訊息人士當地時間6月10日透露，隨著美國對伊朗的打擊及其他近期軍事行動消耗了庫存補給，特朗普政府計劃最早於下週在白宮會見美國多家國防承包商的高管，討論加速武器生產事宜。此次會議將是白宮就該議題第二次召集美國頂級國防承包商執行長開會。路透社的報道指出，對伊朗的戰爭以及近年向烏克蘭提供的軍援，已耗盡了美國的武器儲備。目前，美國國防部正持續施壓軍工企業大幅提速，落實今年早些時候敲定的一些“框架性協議”，其中包括：與洛克希德·馬丁達成的一項多年期協議，旨在將PAC-3型“愛國者”反導系統攔截彈的產量提高兩倍，並將“薩德”系統攔截彈的產量翻兩番；與雷神公司達成的多項獨立多年期協議，以提升“戰斧”巡航導彈和先進中程空對空導彈的產量。不過據悉，這些“框架性協議”尚未轉化為正式合同。（CCTV國際時訊）
+
+---
+
+### 2026-06-11 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 1.76% Lower — The Dow Jones Index fell 898 points or 1.76 percent on Wednesday to close at 49974 points. Leading the losses are Caterpillar (-6.34%), Honeywell International (-4.57%) and Nvidia (-3.39%).
+
+---
+
+### 2026-06-11 04:33:52  #其他
+
+Humana將出售其在Gentiva所持的少數股權。
+
+---
+
+### 2026-06-11 04:32:50  #其他
+
+格瑞夫：未塗布再生紙板每噸（短噸）漲價 60 美元， 未塗布再生紙板（URB）提價將於 2026 年 7 月 6 日及之後的訂單和發貨正式生效。 紙管、紙芯及防護包裝產品價格最低上調 6.5%， 自 2026 年 7 月 13 日起生效。
+
+---
+
+### 2026-06-11 04:28:29  #宏觀
+
+加拿大官員稱，加政府擬出臺法案，禁止 16 歲以下兒童使用社交媒體，同時設定部分豁免情形。
+
+---
+
+### 2026-06-11 04:21:59  #其他
+
+甲骨文預計2027財年透過債務和股權融資約400億美元。甲骨文2027財年融資包括已宣佈的200億美元按市價發行計劃。
+
+---
+
+### 2026-06-11 04:21:50  #公司
+
+【國際機構看多中國科技資產】今年以來，中國經濟保持穩中有進的發展態勢。對此，海內外多家權威機構近期也密集釋出研究報告，研判中國經濟的發展潛力和新動能。普華永道今年上半年釋出的一系列研報顯示，中國經濟韌性凸顯，新質生產力加速形成，成為全球資本的重要錨點。《全球CEO調研中國報告》發現，將中國內地列為前三大投資目的地的全球CEO比例明顯提升。普華永道宏觀經濟研報指出，一系列資料展現出中國經濟強勁的新動能：今年一季度，中國高技術產業實際使用外資同比增長30.7%，其中，研發與設計服務、計算機及辦公裝置製造業實際使用外資增幅分別達127.8%和88.1%。中國AI領域也表現亮眼，內地企業AI應用能力領跑全球，17%的企業實現AI降本增收。（央視新聞）
 
 ---
 
@@ -22177,181 +22375,5 @@ EIA's June forecast for this year's U.S. WTI average price: $88.32/bbl, prior $8
 ### 2026-06-10 00:07:01  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 The FTSE 100 Index Closes 1.25% Lower — The FTSE 100 Index dropped 130 points or 1.25 percent on Tuesday to close at 10243 points. Losses were led by Standard Chartered (-5.48%), Glencore (-4.12%) and HSBC Holdings (-4.05%).
-
----
-
-### 2026-06-10 00:06:46  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA projects US crude oil production at 13.72 mln bbl/d in 2026, up from its prior 13.65 mln bbl/d forecast; 2027 output is seen at 14.15 mln bbl/d (prior 14.10).
-
----
-
-### 2026-06-10 00:06:08  #國際
-
-美國國家航空航天局正式公佈阿爾忒彌斯三號任務四名宇航員名單。
-
----
-
-### 2026-06-10 00:05:49  #國際
-
-據伊朗國家通訊社（IRNA）：伊朗國防部表示將加快武器生產。
-
----
-
-### 2026-06-10 00:05:17  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Swing Lower — European stock indices closed lower after having spent most of the session higher, tracking the afternoon slump for US stocks as the aggressive rotation out of tech stocks rippled through demand for risk globally. The Euro STOXX 50 fell 0.2% to 6,050 and the STOXX Europe 600 dropped 0.4% to 619. Companies with exposure to software services and datacenter infrastructure dropped sharply as skepticism over the sector's rally sustainability was reignited. Infineon, SAP, Schneider, and Siemens Energy slumped between 2% and 5.5%. banks also closed lower ahead of the expected rate hike by the European Central Bank this week, denting the outlook for fragile credit activity. Santander, ING, and Nordea dropped around 1%. In London, GSK eased 0.5% mid reports that the company is in talks to acquire oncology biotech Nuvalent.
-
----
-
-### 2026-06-10 00:05:14  #市場 #焦點
-
-比特幣跌破61000美元，日內跌3.31%。
-
----
-
-### 2026-06-10 00:05:10  #Trading Economics #Markets #United States #stocks #Importance 1
-
-J&J Stock Price Hits 7-week High — J&J shares increased to 235.50 USD, the highest since April 2026. Over the past 4 weeks, Johnson & Johnson gained 6.31%, and in the last 12 months, it increased 50.47%.
-
----
-
-### 2026-06-10 00:04:18  #市場 #焦點 #國際
-
-布倫特原油價格跌破每桶 90 美元，創下 4 月 17 日以來新低。
-
----
-
-### 2026-06-10 00:04:17  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
-
-EIA projects 2026 average Brent crude at $95.39/bbl, up from a prior $94.85/bbl; 2027 forecast unchanged at $79.39/bbl.
-
----
-
-### 2026-06-10 00:03:19  #市場 #焦點
-
-布倫特原油失守90美元/桶，日內跌4.51%。
-
----
-
-### 2026-06-10 00:03:10  #國際
-
-美國能源資訊署預計，2026 年美國天然氣日需求量為 921 億立方英尺，此前預測值為 912 億立方英尺；2027 年日需求量預計為 950 億立方英尺，此前預測值為 944 億立方英尺。
-
----
-
-### 2026-06-10 00:02:57  #國際
-
-美國能源資訊署預測，2026 年全球石油日需求量為 1.029 億桶，此前預期為 1.042 億桶；2027 年全球石油日需求量為 1.053 億桶，此前預期為 1.056 億桶。
-
----
-
-### 2026-06-10 00:02:43  #國際
-
-美國能源資訊署：預計2026 年全球石油日產量為 9900 萬桶，此前預測值為 1.016 億桶；2027 年全球石油日產量預計達 1.093 億桶，此前預測值為 1.095 億桶。
-
----
-
-### 2026-06-10 00:02:22  #市場
-
-【英國兩年期國債收益率跌超4個基點，追隨國際油價下跌的表現】週二（6月9日）歐市尾盤，英國10年期國債收益率跌3.4個基點，報4.909%，全天處於下跌狀態，北京時間21:49重新整理日低至4.891%。兩年期英債收益率跌4.4個基點，報4.335%，一度重新整理日低至4.315%。30年期英債收益率跌2.9個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差漲0.677個基點，報+57.142個基點。
-
----
-
-### 2026-06-10 00:01:34  #MKT News
-
-SpaceX executive Jessica Jensen said the company plans to use Starship for a space-resupply demonstration in 2026.
-
----
-
-### 2026-06-10 00:01:30  #資料 #市場 #焦點 #國際
-
-【美國能源部維持2026-27年布油價格預期不變，上調美國產量預期】美國能源資訊署（STEO）釋出短期能源（STEO）：預計2026年布倫特原油價格95美元/桶（此前預計95美元/桶），預計2027年79美元/桶（此前預計79美元/桶）。
-預計2026年美國石油產量1370萬桶/日（此前預計1360萬桶/日），預計2027年生產1420萬桶/日（此前預計1410萬桶/日）。
-預計2026年美國液化天然氣（LNG）出口172億立方英尺/日（此前預計170億立方英尺/日），預計2027年出口186億立方英尺/日（此前預計182億立方英尺/日）。
-
----
-
-### 2026-06-10 00:01:07  #其他
-
-SpaceX計劃在 2026 年利用星艦開展太空燃料補給演示試驗。
-
----
-
-### 2026-06-10 00:00:42  #市場 #焦點
-
-上海原油連續主力合約日內跌4%，現報563.90元。
-
----
-
-### 2026-06-09 23:58:28  #Trading Economics #Markets #United States #stocks #Importance 1
-
-P&G Stock Price Hits 4-week High — P&G shares increased to 148.57 USD, the highest since May 2026. Over the past 4 weeks, Procter & Gamble gained 3.54%, and in the last 12 months, it decreased 8.85%.
-
----
-
-### 2026-06-09 23:58:25  #市場
-
-WTI原油日內跌5%，現報86.73美元/桶。
-
----
-
-### 2026-06-09 23:57:34  #MKT News #Commodities #Precious Metals #XAUUSD
-
-Fitch said it is keeping its gold-price assumptions unchanged.
-
----
-
-### 2026-06-09 23:57:32  #市場
-
-惠譽：黃金價格相關假設維持不變。
-
----
-
-### 2026-06-09 23:57:23  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，億航跌22.39%，海天網路跌15.73%，大全新能源跌8.35%，金生遊樂跌7.72%，阿特斯跌7.28%。
-
----
-
-### 2026-06-09 23:56:06  #市場 #焦點
-
-WTI原油失守87美元/桶，日內跌4.72%。
-
----
-
-### 2026-06-09 23:55:18  #MKT News #Commodities #Industrial Metals #XAUUSD #Impact bullish #Copper
-
-Fitch raises near-term metals and mining price forecasts.
-
----
-
-### 2026-06-09 23:54:50  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls to Over 3-Week Low — The FTSE 100 dropped more than 1% on Tuesday to its lowest level in over three weeks, pressured by broad declines across banks, healthcare and energy stocks. HSBC Holdings fell around 4%, while Standard Chartered declined more than 5%. Oil majors also weakened, with Shell down 1.8% and BP lower by 2.6%. Healthcare stocks were mixed, with AstraZeneca losing 1.1% and GSK slipping 0.3% after concerns following its $10.6 billion acquisition of cancer drug developer Nuvalent. BT shares fell more than 3% after reports that VodafoneThree is among bidders for TalkTalk’s consumer business, which serves around 1.75 million customers. On the positive side, WPP gained more than 5% after receiving a broker upgrade. Meanwhile, UK retail sales performed better than expected in May, supported by warmer weather that boosted demand for summer and outdoor products. Like-for-like sales increased 3.4%, beating forecasts of 0.8% growth.
-
----
-
-### 2026-06-09 23:54:40  #其他
-
-市場訊息：Salesforce啟動新一輪裁員計劃。
-
----
-
-### 2026-06-09 23:53:27  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
-
-U.S. and Brent crude losses widened; Brent crude down 4% intraday, WTI crude down 4.6%.
-
----
-
-### 2026-06-09 23:51:54  #市場
-
-布倫特原油日內跌4%，現報90.44美元/桶。
-
----
-
-### 2026-06-09 23:51:50  #其他
-
-【中國使館提醒在南非中國公民和企業防範安全風險】中國駐南非大使館9日釋出安全提示，提醒在南非中國公民、企業和機構嚴格依法合規經營，高度重視防範安全風險。提示說，近期，南非多地發生針對外籍人員的遊行、示威、請願等活動，部分演變為滋擾衝擊和“打砸搶”，造成人員傷亡和財產損失，有僑胞店鋪受到波及。使館提醒在南非中國公民、企業和機構密切關注有關情況，不途經或前往活動區域和治安不靖、人群密集地區；全面加強安保措施，遊行示威活動前後和期間採取縮短營業和辦公時間、歇業停工、分散避險等必要措施；堅持依法合規經營特別是合法務工、用工，避免成為遊行示威活動目標；遇突發事件冷靜理性應對，在確保自身安全情況下及時向當地警方報案並向駐南非使領館、警民中心求助。（新華社）
 
 ---

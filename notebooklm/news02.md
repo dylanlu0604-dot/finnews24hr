@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-14 00:44:09_
-_本檔包含 3696 則快訊，約 668389 字_
+_更新時間：2026-06-14 01:44:44_
+_本檔包含 3682 則快訊，約 669284 字_
+
+---
+
+### 2026-06-12 08:44:42  #公司 #市場
+
+【中國寶武與力拓完成皮爾巴拉混合鐵礦石造球及直接還原試驗】6月12日，力拓集團釋出訊息稱，中國寶武與力拓採用力拓西澳皮爾巴拉混合鐵礦石，完成造球與豎爐工業試驗。這是雙方更廣泛合作的一部分，旨在研究降低鋼鐵生產排放的方式。本次試驗於中國寶武寶鋼股份湛江鋼鐵基地開展，採用氫基豎爐技術生產直接還原鐵（DRI），所用球團礦中包含三分之一的皮爾巴拉混合礦。所得DRI隨後送入工業規模轉爐完成鍊鋼生產；該DRI同時也開展了小型電熔分爐試驗。
+
+---
+
+### 2026-06-12 08:44:18  #其他
+
+【中國航發控制系統研究所一行到振華科技交流座談】6月10日，中國航發控制系統研究所（簡稱中國航發動控所）專務魏民一行到振華科技交流座談。魏民介紹了大飛機國產化元器件建設機遇，邀請振華科技參與國產大飛機元器件目錄建設與適航驗證合作，為雙方合作開啟新的增長空間。座談會上，雙方圍繞航空發動機電子元器件高質量發展計劃、重點專案供應鏈稽核、VMI/JMI深度戰略合作模式推進等重點議題展開深入交流。
+
+---
+
+### 2026-06-12 08:44:14  #公司
+
+【昂利康、桂林三金等新設創投合夥企業】企查查APP顯示，近日，江蘇源津瑞泓創業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由昂利康、桂林三金集團股份有限公司全資子公司西藏澤鑫股權投資管理有限公司等共同出資。
+
+---
+
+### 2026-06-12 08:43:58  #公司
+
+【徐麟李炳軍會見華為公司高階副總裁、常務監事任樹錄一行】據貴州日報天眼新聞，6月11日，貴州省委書記徐麟，省委副書記、省長李炳軍在貴陽會見華為公司高階副總裁、常務監事任樹錄一行。徐麟、李炳軍說，希望華為公司聚焦智算中心建設、資料要素市場化、大模型開發應用、生態夥伴招引等，進一步深化拓展戰略合作。貴州將為華為公司在黔發展做好服務保障。任樹錄說，華為公司將順應發展大勢，與貴州攜手，在現有合作基礎上持續打造良好生態，加大在黔投資佈局，在更廣領域參與貴州數字經濟發展，在更高水平上實現互利共贏、共同發展。
+
+---
+
+### 2026-06-12 08:43:41  #公司 #市場 #國際
+
+【韓國Kospi指數飆升逾8% 美伊有望達成協議改善市場風險偏好】韓國股市週五大幅上漲，美國總統特朗普表示美伊接近達成協議後，市場風險偏好改善。Kospi指數早盤飆升逾8%，晶片股領漲。週五的大漲再次凸顯出韓國4.3萬億美元股市的狂野波動。由於股指期貨飆升，韓國交易所一度暫停Kospi的程式化買單。此前，特朗普突然取消原定對伊朗的軍事打擊，推動美股和更廣泛的風險資產走高。三星電子和SK海力士均大漲超過9%，投資者重新湧入被視為AI熱潮中心的股票。
+
+---
+
+### 2026-06-12 08:43:29  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australian Shares Poised for Strong Weekly Finish — Australian stocks surged 140 points, or 1.6%, to 8,773 on Friday morning deals, reversing weakness in the prior session and hitting their highest level in a week. The rally tracked overnight solid gains on Wall Street after President Trump signaled the U.S. was close to sealing a deal with Iran, with a signing possible this weekend in Europe alongside VP JD Vance. Optimism also mounted that the Reserve Bank could pause cash rate hikes at next week’s policy meeting after three hikes this year. Meanwhile, consumer inflation expectations eased to 5.5% in June, the lowest since March. Broad-based strength lifted all sectors, led by non-energy minerals, process industries, producer manufacturing, and financials. The big four banks advanced between 0.9% and 1.6%. Standout movers included BHP Group (2.6%), Evolution Mining (6.2%), PLS Group (5.2%), and Qantas Airways (4.5%). With weekly gains of about 1.7% so far, local markets are on track for a steep rise after weakness in the prior period.
+
+---
+
+### 2026-06-12 08:42:04  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Japanese Shares Rally on US-Iran Deal Hopes — The Nikkei 225 Index jumped 4% toward 67,000, while the broader Topix Index climbed 2.1% to 3,910 on Friday, as Japanese equities rebounded from earlier-week losses after President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe, sending oil prices sharply lower. Investor sentiment was also lifted ahead of SpaceX's Wall Street debut, with the company expected to raise about $75 billion at a projected market valuation of $1.78 trillion. Technology and AI-related stocks led the gains, with Kioxia Holdings rising 6%, Tokyo Electron surging 10%, SoftBank Group adding 3.4%, Advantest advancing 8.7%, and Taiyo Yuden soaring 13%. Financial and consumer shares also strengthened, including Mitsubishi UFJ up 1.1%, Sumitomo Mitsui gaining 2.3%, and Fast Retailing rising 1.9%.
+
+---
+
+### 2026-06-12 08:40:29  #兩會
+
+【第十屆中國－南亞博覽會在昆明開幕】6月11日，第十屆中國－南亞博覽會在昆明開幕，全國人大常委會副委員長何維出席開幕式並致辭。何維指出，近年來，中國和南亞國家一道，秉持開放、合作、包容的精神，推進“一帶一路”倡議同南亞各國發展戰略對接，不斷深化各領域務實合作。何維強調，2025年，中國實現第十四個五年規劃圓滿收官，經濟實力、科技實力、綜合國力躍上新臺階，中國式現代化邁出新的堅實步伐，為世界發展提供了新機遇。中國將持續攜手南亞國家，譜寫加快發展振興的合作新篇章。歡迎大家透過本次盛會發掘更多合作機遇，形成更多合作成果，創造更加美好的未來。博覽會期間，何維分別會見孟加拉國、寮國、尼泊爾等國政要。
+
+---
+
+### 2026-06-12 08:40:21  #市場 #央行 #國際
+
+【金價上漲，但仍低於關鍵盤整水平】金價在早盤交易中上漲。大華(UOB)的Heng Koon How在一份報告中表示，由於人們日益擔心美聯儲可能不得不提高政策利率，黃金在過去一週跌至接近4,000美元后，目前的交易價格低於其每盎司4,500美元的關鍵盤整水平。大華的預測取決於美聯儲6月會議的結果以及主席凱文·沃什傳達的資訊。該分析師表示，如果凱文·沃什承認通貨膨脹風險不斷增加，金價在近期面臨進一步承壓並跌破每盎司4,000美元的風險。大華預計，第三季度金價將在每盎司4,600美元左右交易，第四季度將在每盎司4,800美元左右交易。現貨黃金上漲0.3%，報每盎司4,226.02美元，但本週累計下跌1.7%。
+
+---
+
+### 2026-06-12 08:39:37  #MKT News #USDJPY
+
+Japan's finance minister Katayama said Japan is receiving U.S. intelligence support on establishing a Japan-specific foreign investment review committee.
+
+---
+
+### 2026-06-12 08:39:22  #觀點
+
+高盛維持對2026年第四季布倫特原油價格每桶90美元的預測。
+
+---
+
+### 2026-06-12 08:38:51  #國際
+
+日本財務大臣片山：在設立日本版外國投資委員會（CFIUS）方面，正獲得美國的情報支援。
+
+---
+
+### 2026-06-12 08:38:46  #MKT News #Commodities #Energy #Brent
+
+Goldman Sachs maintains its Brent crude forecast at $90 per barrel for Q4 2026.
+
+---
+
+### 2026-06-12 08:37:44  #其他
+
+【天津市編制《天津市智慧機器人技術創新圖譜》】近日，天津市編制《天津市智慧機器人技術創新圖譜》，梳理形成“三模組+一特色”創新支撐架構，為全市智慧機器人產業創新發展劃定清晰可行的路線圖。其中，“三模組”聚焦機器人研製生產核心環節，囊括感知、決策、執行三大必備主體模組，覆蓋產業研發生產的基礎支撐；“一特色”則立足天津產業稟賦，確立“AI+工業機器人”特色發展方向，依託天津市工業機器人領域的既有優勢，以人工智慧技術賦能傳統工業機器人，推動產業從“自動化”向“智慧化”升級。同時，圖譜明確了三大主體模組及特色發展領域的範圍，梳理彙總了代表性高校院所與重點企業資源。
+
+---
+
+### 2026-06-12 08:37:31  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Goldman Sachs said it would lower its 2027 average Brent forecast to $80/bbl, citing rising supply and weaker demand.
+
+---
+
+### 2026-06-12 08:37:23  #公司 #國際
+
+泰國王室宮務處12日釋出公告說，泰國公主帕查拉吉迪雅帕11日因病逝世，享年47歲。帕查拉吉迪雅帕是現任國王瑪哈·哇集拉隆功的女兒。（新華社）
+
+---
+
+### 2026-06-12 08:37:16  #觀點
+
+高盛因供應增加和需求下降，將2027年布倫特原油均價預測下調至每桶80美元。
+
+---
+
+### 2026-06-12 08:36:55  #央行 #國際
+
+【日本財務大臣：植田和男行長缺席不會影響日本央行會議】日本財務大臣片山皋月當被問及日本央行行長植田和男住院一事時，表示預計此事不會對貨幣政策會議造成影響。當地時間6月10日，日本央行在一份宣告中表示，為治療肝囊腫感染，74歲的植田預計將住院兩週左右，將缺席6月15日、16日召開的貨幣政策會議。
+
+---
+
+### 2026-06-12 08:36:06  #MKT News #Market Regions #Japan & APAC
+
+Japan's finance minister Katayama said Kazuo Ueda's hospitalization is not expected to affect BOJ policy meetings.
 
 ---
 
@@ -22098,203 +22212,5 @@ TASNIM NEWS cited Iranian military sources saying that last night Iran demonstra
 ### 2026-06-11 04:50:48  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Hits Three-Week Low — The S&P/TSX Composite Index shed 0.8% to close at 34,151, a three-week low, reflecting a broader risk-off tone as tensions in the Middle East escalated. US President Donald Trump vowed to strike Iran forcefully if a peace deal is not reached, raising the risk of further hostilities after some of the most significant clashes in two months. Meanwhile, the Bank of Canada held interest rates steady as expected, citing mixed domestic economic signals, though markets continue to price in a 25bps rate hike by year-end. Financial stocks were broadly weaker, with Brookfield slipping 1.9%. Mining shares declined as gold prices eased, with Agnico Eagle down 4.7%, Barrick losing 5%, and WPM shedding 4.4%. Shopify fell 2.1%, tracking global losses in AI-related stocks. On the upside, Apotex closed 12.5% above its C$24 IPO price. Energy shares gained on higher oil prices, with Cenovus up 2.7% and Canadian Natural adding 1.9%.
-
----
-
-### 2026-06-11 04:50:26  #國際
-
-美國國防部長赫格塞思：古巴政權正承受巨大壓力。
-
----
-
-### 2026-06-11 04:50:23  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-U.S. Defense Secretary Hegseth said a negotiating team led by President Trump, Vance, Kushner, Witkoff and Rubio is ready to secure a major deal favorable to Iran.
-
----
-
-### 2026-06-11 04:50:22  #MKT News
-
-U.S. Defense Secretary Hegseth says the Cuban regime faces significant pressure.
-
----
-
-### 2026-06-11 04:49:52  #國際
-
-美國國防部長赫格塞思： 我們將按照我方節奏予以強力打擊。如果談判需要炸彈，我們就會用炸彈來談判。
-
----
-
-### 2026-06-11 04:49:24  #MKT News
-
-The U.S. Embassy in Baghdad urged U.S. citizens in Iraq to remain vigilant due to recent regional developments.
-
----
-
-### 2026-06-11 04:49:12  #國際
-
-美國駐巴格達大使館因近期地區局勢變化，要求在伊美國公民保持警惕。
-
----
-
-### 2026-06-11 04:48:50  #其他
-
-【國際海事組織譴責美軍襲擊油輪致三名海員失蹤 】國際海事組織秘書長多明格斯10日強烈譴責美軍在霍爾木茲海峽附近對油輪發起襲擊。該事件導致一艘油輪起火，三名海員失蹤。國際海事組織當天發表宣告說，一艘懸掛帛琉國旗的油輪在阿曼灣遭到彈射物襲擊後發生火災。宣告說，多明格斯對事件表示“深切關切並予以強烈譴責”，強調任何危及海員生命和國際航運安全的行為“完全不可接受”。（新華社）
-
----
-
-### 2026-06-11 04:48:46  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-U.S. Defense Secretary Hegseth said if negotiations require bombs, the U.S. will use bombs to negotiate.
-
----
-
-### 2026-06-11 04:47:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Tasnim News quoted Iranian military sources saying Iran would target new U.S. interests if the United States takes action.
-
----
-
-### 2026-06-11 04:47:52  #國際
-
-伊朗塔斯尼姆通訊社援引軍方訊息：若美方採取行動，伊朗將打擊美國新的相關目標。
-
----
-
-### 2026-06-11 04:47:18  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-TASNIM News cited Iranian military sources saying the armed forces warned the United States would face another heavy response if it carried out any aggressive action.
-
----
-
-### 2026-06-11 04:47:07  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. Defense Secretary Hegseth said tonight's strike on Iran will advance U.S. military interests and bolster U.S. diplomatic standing.
-
----
-
-### 2026-06-11 04:46:46  #國際
-
-美國國防部長赫格塞思： 今晚的打擊行動將維護美國軍事利益，並提升美方外交優勢。
-
----
-
-### 2026-06-11 04:46:33  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-TASNIM NEWS quoted Iranian military sources as saying Iran's armed forces are fully prepared tonight.
-
----
-
-### 2026-06-11 04:46:30  #焦點 #國際
-
-伊朗塔斯尼姆通訊社援引軍方訊息稱，伊朗武裝部隊今晚已全面進入備戰狀態。 若美方採取任何挑釁行徑，伊朗必將再度予以強力反擊。
-
----
-
-### 2026-06-11 04:46:16  #焦點 #國際
-
-美國國防部長赫格塞思：伊朗有機會達成一筆很好的協議，但他們一直不願意。他們將會看到美國對伊朗關鍵設施投下一連串炸彈——這不是為了重啟戰爭，而是為了設定達成協議的條件。此前墜機的阿帕奇直升機飛行員狀態良好。
-
----
-
-### 2026-06-11 04:46:13  #市場 #焦點
-
-現貨黃金失守4070美元/盎司，日內跌4.45%。
-
----
-
-### 2026-06-11 04:45:48  #國際
-
-美國國防部長赫格塞思：“自由行動”穿越霍爾木茲海峽的航運計劃從未中止，只是轉為秘密執行。 我方一直在為途經該海峽的商業船隻提供護航。
-
----
-
-### 2026-06-11 04:45:41  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-【U.S. Defense Secretary Hegseth: strikes on Iran aimed at setting deal conditions, not restarting war】U.S. Defense Secretary Hegseth said Iran has had an opportunity to reach a good deal but has been unwilling. He said the U.S. will drop a series of bombs on key Iranian facilities — not to restart the war but to set conditions for reaching an agreement.
-
----
-
-### 2026-06-11 04:45:40  #MKT News
-
-U.S. Secretary of Defense Hegseth said the pilot of the Apache helicopter that crashed earlier is in good condition.
-
----
-
-### 2026-06-11 04:43:20  #MKT News
-
-U.S. Defense Secretary Hegseth said most Iranian missiles previously failed to hit their targets.
-
----
-
-### 2026-06-11 04:43:12  #國際
-
-美國國防部長赫格塞思： 伊朗大部分導彈均未命中目標。
-
----
-
-### 2026-06-11 04:41:41  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Defense Minister Hegseth said the U.S., not Iran, controls the Strait of Hormuz.
-
----
-
-### 2026-06-11 04:41:04  #國際
-
-美國國防部長赫格塞思： 今晚的打擊行動將力度十足、立場明確。
-
----
-
-### 2026-06-11 04:38:43  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-U.S. defense secretary Hegseth on Iran said Central Command (CENTCOM) will be very busy tonight and the United States will carry out heavy strikes tonight, bombing key Iranian facilities.
-
----
-
-### 2026-06-11 04:38:37  #焦點 #國際
-
-美國國防部長赫格塞思談及伊朗局勢：中央司令部今晚將十分忙碌，美國今晚將重擊伊朗，將轟炸伊朗關鍵設施。
-
----
-
-### 2026-06-11 04:38:15  #公司 #市場 #國際
-
-【白宮或再與軍工企業磋商加速生產】據訊息人士當地時間6月10日透露，隨著美國對伊朗的打擊及其他近期軍事行動消耗了庫存補給，特朗普政府計劃最早於下週在白宮會見美國多家國防承包商的高管，討論加速武器生產事宜。此次會議將是白宮就該議題第二次召集美國頂級國防承包商執行長開會。路透社的報道指出，對伊朗的戰爭以及近年向烏克蘭提供的軍援，已耗盡了美國的武器儲備。目前，美國國防部正持續施壓軍工企業大幅提速，落實今年早些時候敲定的一些“框架性協議”，其中包括：與洛克希德·馬丁達成的一項多年期協議，旨在將PAC-3型“愛國者”反導系統攔截彈的產量提高兩倍，並將“薩德”系統攔截彈的產量翻兩番；與雷神公司達成的多項獨立多年期協議，以提升“戰斧”巡航導彈和先進中程空對空導彈的產量。不過據悉，這些“框架性協議”尚未轉化為正式合同。（CCTV國際時訊）
-
----
-
-### 2026-06-11 04:35:02  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 1.76% Lower — The Dow Jones Index fell 898 points or 1.76 percent on Wednesday to close at 49974 points. Leading the losses are Caterpillar (-6.34%), Honeywell International (-4.57%) and Nvidia (-3.39%).
-
----
-
-### 2026-06-11 04:33:52  #其他
-
-Humana將出售其在Gentiva所持的少數股權。
-
----
-
-### 2026-06-11 04:32:50  #其他
-
-格瑞夫：未塗布再生紙板每噸（短噸）漲價 60 美元， 未塗布再生紙板（URB）提價將於 2026 年 7 月 6 日及之後的訂單和發貨正式生效。 紙管、紙芯及防護包裝產品價格最低上調 6.5%， 自 2026 年 7 月 13 日起生效。
-
----
-
-### 2026-06-11 04:28:29  #宏觀
-
-加拿大官員稱，加政府擬出臺法案，禁止 16 歲以下兒童使用社交媒體，同時設定部分豁免情形。
-
----
-
-### 2026-06-11 04:21:59  #其他
-
-甲骨文預計2027財年透過債務和股權融資約400億美元。甲骨文2027財年融資包括已宣佈的200億美元按市價發行計劃。
-
----
-
-### 2026-06-11 04:21:50  #公司
-
-【國際機構看多中國科技資產】今年以來，中國經濟保持穩中有進的發展態勢。對此，海內外多家權威機構近期也密集釋出研究報告，研判中國經濟的發展潛力和新動能。普華永道今年上半年釋出的一系列研報顯示，中國經濟韌性凸顯，新質生產力加速形成，成為全球資本的重要錨點。《全球CEO調研中國報告》發現，將中國內地列為前三大投資目的地的全球CEO比例明顯提升。普華永道宏觀經濟研報指出，一系列資料展現出中國經濟強勁的新動能：今年一季度，中國高技術產業實際使用外資同比增長30.7%，其中，研發與設計服務、計算機及辦公裝置製造業實際使用外資增幅分別達127.8%和88.1%。中國AI領域也表現亮眼，內地企業AI應用能力領跑全球，17%的企業實現AI降本增收。（央視新聞）
 
 ---

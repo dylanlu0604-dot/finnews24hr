@@ -1,7 +1,183 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 00:44:09_
-_本檔包含 3657 則快訊，約 667995 字_
+_更新時間：2026-06-14 01:44:44_
+_本檔包含 3656 則快訊，約 668223 字_
+
+---
+
+### 2026-06-10 00:06:46  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA projects US crude oil production at 13.72 mln bbl/d in 2026, up from its prior 13.65 mln bbl/d forecast; 2027 output is seen at 14.15 mln bbl/d (prior 14.10).
+
+---
+
+### 2026-06-10 00:06:08  #國際
+
+美國國家航空航天局正式公佈阿爾忒彌斯三號任務四名宇航員名單。
+
+---
+
+### 2026-06-10 00:05:49  #國際
+
+據伊朗國家通訊社（IRNA）：伊朗國防部表示將加快武器生產。
+
+---
+
+### 2026-06-10 00:05:17  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Swing Lower — European stock indices closed lower after having spent most of the session higher, tracking the afternoon slump for US stocks as the aggressive rotation out of tech stocks rippled through demand for risk globally. The Euro STOXX 50 fell 0.2% to 6,050 and the STOXX Europe 600 dropped 0.4% to 619. Companies with exposure to software services and datacenter infrastructure dropped sharply as skepticism over the sector's rally sustainability was reignited. Infineon, SAP, Schneider, and Siemens Energy slumped between 2% and 5.5%. banks also closed lower ahead of the expected rate hike by the European Central Bank this week, denting the outlook for fragile credit activity. Santander, ING, and Nordea dropped around 1%. In London, GSK eased 0.5% mid reports that the company is in talks to acquire oncology biotech Nuvalent.
+
+---
+
+### 2026-06-10 00:05:14  #市場 #焦點
+
+比特幣跌破61000美元，日內跌3.31%。
+
+---
+
+### 2026-06-10 00:05:10  #Trading Economics #Markets #United States #stocks #Importance 1
+
+J&J Stock Price Hits 7-week High — J&J shares increased to 235.50 USD, the highest since April 2026. Over the past 4 weeks, Johnson & Johnson gained 6.31%, and in the last 12 months, it increased 50.47%.
+
+---
+
+### 2026-06-10 00:04:18  #市場 #焦點 #國際
+
+布倫特原油價格跌破每桶 90 美元，創下 4 月 17 日以來新低。
+
+---
+
+### 2026-06-10 00:04:17  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
+
+EIA projects 2026 average Brent crude at $95.39/bbl, up from a prior $94.85/bbl; 2027 forecast unchanged at $79.39/bbl.
+
+---
+
+### 2026-06-10 00:03:19  #市場 #焦點
+
+布倫特原油失守90美元/桶，日內跌4.51%。
+
+---
+
+### 2026-06-10 00:03:10  #國際
+
+美國能源資訊署預計，2026 年美國天然氣日需求量為 921 億立方英尺，此前預測值為 912 億立方英尺；2027 年日需求量預計為 950 億立方英尺，此前預測值為 944 億立方英尺。
+
+---
+
+### 2026-06-10 00:02:57  #國際
+
+美國能源資訊署預測，2026 年全球石油日需求量為 1.029 億桶，此前預期為 1.042 億桶；2027 年全球石油日需求量為 1.053 億桶，此前預期為 1.056 億桶。
+
+---
+
+### 2026-06-10 00:02:43  #國際
+
+美國能源資訊署：預計2026 年全球石油日產量為 9900 萬桶，此前預測值為 1.016 億桶；2027 年全球石油日產量預計達 1.093 億桶，此前預測值為 1.095 億桶。
+
+---
+
+### 2026-06-10 00:02:22  #市場
+
+【英國兩年期國債收益率跌超4個基點，追隨國際油價下跌的表現】週二（6月9日）歐市尾盤，英國10年期國債收益率跌3.4個基點，報4.909%，全天處於下跌狀態，北京時間21:49重新整理日低至4.891%。兩年期英債收益率跌4.4個基點，報4.335%，一度重新整理日低至4.315%。30年期英債收益率跌2.9個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差漲0.677個基點，報+57.142個基點。
+
+---
+
+### 2026-06-10 00:01:34  #MKT News
+
+SpaceX executive Jessica Jensen said the company plans to use Starship for a space-resupply demonstration in 2026.
+
+---
+
+### 2026-06-10 00:01:30  #資料 #市場 #焦點 #國際
+
+【美國能源部維持2026-27年布油價格預期不變，上調美國產量預期】美國能源資訊署（STEO）釋出短期能源（STEO）：預計2026年布倫特原油價格95美元/桶（此前預計95美元/桶），預計2027年79美元/桶（此前預計79美元/桶）。
+預計2026年美國石油產量1370萬桶/日（此前預計1360萬桶/日），預計2027年生產1420萬桶/日（此前預計1410萬桶/日）。
+預計2026年美國液化天然氣（LNG）出口172億立方英尺/日（此前預計170億立方英尺/日），預計2027年出口186億立方英尺/日（此前預計182億立方英尺/日）。
+
+---
+
+### 2026-06-10 00:01:07  #其他
+
+SpaceX計劃在 2026 年利用星艦開展太空燃料補給演示試驗。
+
+---
+
+### 2026-06-10 00:00:42  #市場 #焦點
+
+上海原油連續主力合約日內跌4%，現報563.90元。
+
+---
+
+### 2026-06-09 23:58:28  #Trading Economics #Markets #United States #stocks #Importance 1
+
+P&G Stock Price Hits 4-week High — P&G shares increased to 148.57 USD, the highest since May 2026. Over the past 4 weeks, Procter & Gamble gained 3.54%, and in the last 12 months, it decreased 8.85%.
+
+---
+
+### 2026-06-09 23:58:25  #市場
+
+WTI原油日內跌5%，現報86.73美元/桶。
+
+---
+
+### 2026-06-09 23:57:34  #MKT News #Commodities #Precious Metals #XAUUSD
+
+Fitch said it is keeping its gold-price assumptions unchanged.
+
+---
+
+### 2026-06-09 23:57:32  #市場
+
+惠譽：黃金價格相關假設維持不變。
+
+---
+
+### 2026-06-09 23:57:23  #市場 #焦點
+
+納斯達克中國金龍指數跌超1%，億航跌22.39%，海天網路跌15.73%，大全新能源跌8.35%，金生遊樂跌7.72%，阿特斯跌7.28%。
+
+---
+
+### 2026-06-09 23:56:06  #市場 #焦點
+
+WTI原油失守87美元/桶，日內跌4.72%。
+
+---
+
+### 2026-06-09 23:55:18  #MKT News #Commodities #Industrial Metals #XAUUSD #Impact bullish #Copper
+
+Fitch raises near-term metals and mining price forecasts.
+
+---
+
+### 2026-06-09 23:54:50  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Falls to Over 3-Week Low — The FTSE 100 dropped more than 1% on Tuesday to its lowest level in over three weeks, pressured by broad declines across banks, healthcare and energy stocks. HSBC Holdings fell around 4%, while Standard Chartered declined more than 5%. Oil majors also weakened, with Shell down 1.8% and BP lower by 2.6%. Healthcare stocks were mixed, with AstraZeneca losing 1.1% and GSK slipping 0.3% after concerns following its $10.6 billion acquisition of cancer drug developer Nuvalent. BT shares fell more than 3% after reports that VodafoneThree is among bidders for TalkTalk’s consumer business, which serves around 1.75 million customers. On the positive side, WPP gained more than 5% after receiving a broker upgrade. Meanwhile, UK retail sales performed better than expected in May, supported by warmer weather that boosted demand for summer and outdoor products. Like-for-like sales increased 3.4%, beating forecasts of 0.8% growth.
+
+---
+
+### 2026-06-09 23:54:40  #其他
+
+市場訊息：Salesforce啟動新一輪裁員計劃。
+
+---
+
+### 2026-06-09 23:53:27  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
+
+U.S. and Brent crude losses widened; Brent crude down 4% intraday, WTI crude down 4.6%.
+
+---
+
+### 2026-06-09 23:51:54  #市場
+
+布倫特原油日內跌4%，現報90.44美元/桶。
+
+---
+
+### 2026-06-09 23:51:50  #其他
+
+【中國使館提醒在南非中國公民和企業防範安全風險】中國駐南非大使館9日釋出安全提示，提醒在南非中國公民、企業和機構嚴格依法合規經營，高度重視防範安全風險。提示說，近期，南非多地發生針對外籍人員的遊行、示威、請願等活動，部分演變為滋擾衝擊和“打砸搶”，造成人員傷亡和財產損失，有僑胞店鋪受到波及。使館提醒在南非中國公民、企業和機構密切關注有關情況，不途經或前往活動區域和治安不靖、人群密集地區；全面加強安保措施，遊行示威活動前後和期間採取縮短營業和辦公時間、歇業停工、分散避險等必要措施；堅持依法合規經營特別是合法務工、用工，避免成為遊行示威活動目標；遇突發事件冷靜理性應對，在確保自身安全情況下及時向當地警方報案並向駐南非使領館、警民中心求助。（新華社）
 
 ---
 
@@ -21849,185 +22025,5 @@ Red alert sirens sounded in Israel's Upper Galilee region.
 ### 2026-06-08 20:12:20  #MKT News
 
 HEZBOLLAH said its Islamic Resistance mujahideen fired rockets at an Israeli forward artillery position in the town of Adaissa at 11:00 Monday (16:00 Beijing time).
-
----
-
-### 2026-06-08 20:11:57  #其他
-
-【晶科能源中標中廣核新能源1.2GW元件集採】據晶科能源訊息，近日，中廣核新能源2026年度光伏元件裝置框架集採結果正式公示。晶科能源拿下1.2GW飛虎3高效元件集採訂單，中標均價為本次常規標段最高。
-
----
-
-### 2026-06-08 20:10:31  #市場
-
-【浙江：強化海港、空港、陸港、數貿港“四港”聯動，建設覆蓋全球的物流網路】據浙江日報，8日下午，省長、省政府黨組書記劉捷主持召開省政府黨組理論學習中心組專題學習會、省政府黨組第91次會議暨省政府第114次常務會議。會議強調，加快物流樞紐建設，是高能級開放強省、世界一流強港和交通強省建設的重要抓手。要全力服務國家戰略，充分發揮浙江港口優勢，深化大宗商品資源配置樞紐建設，推動各類商品“買全球、賣全球”。要強化海港、空港、陸港、數貿港“四港”聯動，建設覆蓋全球的物流網路。要圍繞物流樞紐建設大力發展臨港產業，引導石化產業向精細化工、高階新材料延鏈發展，加快佈局建設一批鐵礦石、糧食等精深加工專案，進一步拉昇產業鏈價值鏈。要聚焦“服務最優、成本最低、效率最高”，做優做強浙江國際大宗商品交易中心，提升現代航運和海事服務能力，著力增強話語權、定價權、規則權，加快打造最優開放環境。
-
----
-
-### 2026-06-08 20:10:29  #MKT News #Market Themes #Chip Wars
-
-【China team unveils first RF-tested silicon–graphene–germanium barrier transistor; intrinsic fT 132GHz, modelling points to >1THz】Researchers at the Institute of Metal Research, Chinese Academy of Sciences, led by Sun Dongming and Liu Chi with multiple collaborators, reported the first silicon–graphene–germanium barrier transistor to undergo RF testing. Published in Nature Communications on June 6, the device set a record for cutoff frequency among vertical 2D-base transistors, with an intrinsic cutoff frequency (fT) of 132 GHz in RF measurements and a world‑high transistor current gain. Device modelling and simulation indicate that, with optimized doping, lower contact resistance and reduced parasitics, the theoretical operating frequency could exceed 1 THz and reach the terahertz band.
-
----
-
-### 2026-06-08 20:09:14  #公司
-
-【中航光電：職工代表董事常國亮因工作變動辭職】中航光電公告稱，6月8日，公司董事會收到職工代表董事常國亮書面辭職申請，其因工作變動，申請辭去職工代表董事及董事會審計與風控委員會委員職務，原定任期至2029年1月9日。辭職後，常國亮將不再擔任公司任何職務，仍在控股子公司任職。其辭職申請將自董事會選舉新任審計與風控委員會委員填補空缺後生效。截至公告披露日，常國亮持有公司67,026股股票，無未履行承諾事項。
-
----
-
-### 2026-06-08 20:09:12  #公司 #市場
-
-【鋒龍股份：股票交易異常波動 經營情況未發生重大變化】鋒龍股份公告稱，公司股票交易連續3個交易日（2026年6月4日、6月5日、6月8日）收盤價格漲幅偏離值累計超過20%，屬於異常波動。經核查，公司前期披露資訊無更正、補充，經營情況和內外部環境未變，不存在應披露而未披露事項。優必選承諾收購完成後36個月內無注入資產計劃，公司不涉及人形機器人業務，與優必選及其關聯方無應披露關聯交易。
-
----
-
-### 2026-06-08 20:09:01  #公司 #國際
-
-【日本證監會建議處罰富途控股旗下券商moomoo】在中國境內被嚴肅查處和集中整治之際，富途控股旗下日本券商moomoo證券株式會社，近日在日本亦遭監管點名。日本證券交易等監視委員會6月5日公佈對moomoo證券的檢查結果，認定該公司在日本個人投資免稅賬戶制度NISA銷售、客戶資產轉移、反洗錢審查以及系統風險管理等方面存在多項問題，並建議日本金融廳等監管機構對其採取行政處罰。（財新）
-
----
-
-### 2026-06-08 20:08:48  #MKT News #Market Regions #Japan & APAC #FUTU.O #Impact bearish
-
-【Japan SESC recommends penalties for Futu unit moomoo】Japan's Securities and Exchange Surveillance Commission on June 5 published inspection findings recommending the Financial Services Agency and other regulators impose administrative penalties on moomoo Securities Co., a unit of Futu Holdings. The SESC identified shortcomings in NISA sales practices, customer asset transfers, anti‑money‑laundering checks and systems risk management.
-
----
-
-### 2026-06-08 20:07:55  #國際
-
-市場訊息：無人機襲擊襲擊了伊拉克埃爾比勒以東的伊朗庫爾德反對派營地。
-
----
-
-### 2026-06-08 20:07:47  #國際
-
-交易商稱，韓國麵粉廠上週晚些時候從美國購入約19,500噸制粉小麥，自加拿大購入10,500噸小麥。
-
----
-
-### 2026-06-08 20:07:42  #宏觀 #市場
-
-義大利財政部：原定於6月11日進行的7年期及10年期以上BTP國債拍賣將取消。
-
----
-
-### 2026-06-08 20:06:29  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
-
-Reportedly, the Israeli Defense Forces launched strikes in southern Lebanon.
-
----
-
-### 2026-06-08 20:05:45  #其他
-
-巴西2025/26年度第二季玉米產量預估為1.082億噸，低於此前預估的1.091億噸。
-
----
-
-### 2026-06-08 20:05:08  #市場
-
-現貨白銀日內漲1%，現報68.55美元/盎司。
-
----
-
-### 2026-06-08 20:05:03  #MKT News
-
-Baltic Dry Index fell 2.18% to 2,916.
-
----
-
-### 2026-06-08 20:04:44  #國際
-
-拜耳任命特雷弗・特倫為美國消費品健康業務總裁。
-
----
-
-### 2026-06-08 20:04:16  #MKT News
-
-Israeli i24 News reported Netanyahu spoke with Trump today; Trump later posted on social media saying both want a ceasefire.
-
----
-
-### 2026-06-08 20:04:01  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange Gold T+D slipped 0.12% to 946.0 yuan/gram in early Monday evening trade on June 8; Silver T+D rose 0.72% to 16,453.0 yuan/kg in the same session.
-
----
-
-### 2026-06-08 20:03:21  #其他
-
-【端午備貨接近尾聲 今日雞蛋價格回落】今日雞蛋價格小幅回落。受前期蛋雞存欄偏低，高溫減產及端午收尾備貨提振雞蛋價格，但備貨接近尾聲，新雞逐步開產，南方梅雨季節限制大量囤貨拖累漲幅，淘汰雞與雞苗行情高位執行，預計節前蛋價高位震盪，節後需求降溫價格或將承壓回落。
-
----
-
-### 2026-06-08 20:03:15  #公司 #國際
-
-市場訊息：美國工業技術公司擬成立合資企業，聚焦無人機、人工智慧與安全移動出行解決方案業務。
-
----
-
-### 2026-06-08 20:03:02  #其他
-
-【Strategy上週以1.013億美元購入1550枚比特幣】Strategy Inc.在2026年6月1日至2026年6月7日期間，以1.013億美元的價格購入了1,550枚比特幣。
-
----
-
-### 2026-06-08 20:02:58  #公司 #市場
-
-【居然智家：股價異常波動 與優必選合作未產生實際貢獻】居然智家公告稱，公司股票於2026年6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計達20%以上，屬異常波動。公司與優必選2025年3月籤戰略合作框架協議，截至目前無業務往來，未籤具法律約束力的實質性訂單協議，對經營業績無實際貢獻。2026年一季度，公司營收25.23億元，同比下滑23.82%；歸母淨利潤6210.45萬元，同比下滑70.65%。業績短期未與股價漲幅匹配，提醒投資者注意風險。
-
----
-
-### 2026-06-08 20:02:51  #國際
-
-印度1-3月經常賬戶盈餘71億美元，市場預期為-14億美元。
-
----
-
-### 2026-06-08 20:02:31  #其他
-
-市場訊息：英格蘭國家醫療服務體系攜手微軟 365 智慧助手，加速落地人工智慧應用。
-
----
-
-### 2026-06-08 20:01:57  #公司 #國際
-
-【億航智慧宣佈3000萬美元股票回購計劃】6月8日，億航智慧 (EH.US）宣佈，公司董事會已批准一項股票回購計劃。根據該計劃，公司將在未來12個月內回購總價值不超過3,000萬美元的美國存托股票（ADS）或普通股。
-
----
-
-### 2026-06-08 20:01:55  #MKT News #Market Regions #Emerging Markets
-
-India posted a current account surplus of $7.1 billion in Jan-Mar, versus market expectations for a $1.4 billion deficit.
-
----
-
-### 2026-06-08 20:01:32  #國際
-
-【印尼解除此前釋出的海嘯預警】印度尼西亞氣象、氣候和地球物理局6月8日最新通報說，菲律賓南部海域當天發生7.8級地震後，印尼北部多個沿海監測站監測到輕微海嘯波，經研判，印尼決定解除此前釋出的海嘯預警。（新華社）
-
----
-
-### 2026-06-08 20:01:14  #公司 #國際
-
-市場訊息：美國鋼鐵公司將獲得至多 25 億美元用於裝置升級。
-
----
-
-### 2026-06-08 20:00:57  #公司
-
-兆科眼科(06622.HK)：董事會已批准一項為期十二個月的股份購回計劃，總購回金額不超過1億港元。
-
----
-
-### 2026-06-08 20:00:53  #其他
-
-墨西哥5月汽車出口量 306288 輛，墨西哥5月汽車產量達到342,926輛。
-
----
-
-### 2026-06-08 20:00:30  #MKT News #06622.HK #Impact bullish
-
-Zhaoke Ophthalmology (06622.HK) said its board approved a 12-month share buyback programme capped at HK$100 mln.
 
 ---

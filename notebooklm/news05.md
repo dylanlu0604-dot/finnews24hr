@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 00:44:09_
-_本檔包含 3784 則快訊，約 668191 字_
+_更新時間：2026-06-14 01:44:44_
+_本檔包含 3781 則快訊，約 668398 字_
+
+---
+
+### 2026-06-08 20:11:57  #其他
+
+【晶科能源中標中廣核新能源1.2GW元件集採】據晶科能源訊息，近日，中廣核新能源2026年度光伏元件裝置框架集採結果正式公示。晶科能源拿下1.2GW飛虎3高效元件集採訂單，中標均價為本次常規標段最高。
+
+---
+
+### 2026-06-08 20:10:31  #市場
+
+【浙江：強化海港、空港、陸港、數貿港“四港”聯動，建設覆蓋全球的物流網路】據浙江日報，8日下午，省長、省政府黨組書記劉捷主持召開省政府黨組理論學習中心組專題學習會、省政府黨組第91次會議暨省政府第114次常務會議。會議強調，加快物流樞紐建設，是高能級開放強省、世界一流強港和交通強省建設的重要抓手。要全力服務國家戰略，充分發揮浙江港口優勢，深化大宗商品資源配置樞紐建設，推動各類商品“買全球、賣全球”。要強化海港、空港、陸港、數貿港“四港”聯動，建設覆蓋全球的物流網路。要圍繞物流樞紐建設大力發展臨港產業，引導石化產業向精細化工、高階新材料延鏈發展，加快佈局建設一批鐵礦石、糧食等精深加工專案，進一步拉昇產業鏈價值鏈。要聚焦“服務最優、成本最低、效率最高”，做優做強浙江國際大宗商品交易中心，提升現代航運和海事服務能力，著力增強話語權、定價權、規則權，加快打造最優開放環境。
+
+---
+
+### 2026-06-08 20:10:29  #MKT News #Market Themes #Chip Wars
+
+【China team unveils first RF-tested silicon–graphene–germanium barrier transistor; intrinsic fT 132GHz, modelling points to >1THz】Researchers at the Institute of Metal Research, Chinese Academy of Sciences, led by Sun Dongming and Liu Chi with multiple collaborators, reported the first silicon–graphene–germanium barrier transistor to undergo RF testing. Published in Nature Communications on June 6, the device set a record for cutoff frequency among vertical 2D-base transistors, with an intrinsic cutoff frequency (fT) of 132 GHz in RF measurements and a world‑high transistor current gain. Device modelling and simulation indicate that, with optimized doping, lower contact resistance and reduced parasitics, the theoretical operating frequency could exceed 1 THz and reach the terahertz band.
+
+---
+
+### 2026-06-08 20:09:14  #公司
+
+【中航光電：職工代表董事常國亮因工作變動辭職】中航光電公告稱，6月8日，公司董事會收到職工代表董事常國亮書面辭職申請，其因工作變動，申請辭去職工代表董事及董事會審計與風控委員會委員職務，原定任期至2029年1月9日。辭職後，常國亮將不再擔任公司任何職務，仍在控股子公司任職。其辭職申請將自董事會選舉新任審計與風控委員會委員填補空缺後生效。截至公告披露日，常國亮持有公司67,026股股票，無未履行承諾事項。
+
+---
+
+### 2026-06-08 20:09:12  #公司 #市場
+
+【鋒龍股份：股票交易異常波動 經營情況未發生重大變化】鋒龍股份公告稱，公司股票交易連續3個交易日（2026年6月4日、6月5日、6月8日）收盤價格漲幅偏離值累計超過20%，屬於異常波動。經核查，公司前期披露資訊無更正、補充，經營情況和內外部環境未變，不存在應披露而未披露事項。優必選承諾收購完成後36個月內無注入資產計劃，公司不涉及人形機器人業務，與優必選及其關聯方無應披露關聯交易。
+
+---
+
+### 2026-06-08 20:09:01  #公司 #國際
+
+【日本證監會建議處罰富途控股旗下券商moomoo】在中國境內被嚴肅查處和集中整治之際，富途控股旗下日本券商moomoo證券株式會社，近日在日本亦遭監管點名。日本證券交易等監視委員會6月5日公佈對moomoo證券的檢查結果，認定該公司在日本個人投資免稅賬戶制度NISA銷售、客戶資產轉移、反洗錢審查以及系統風險管理等方面存在多項問題，並建議日本金融廳等監管機構對其採取行政處罰。（財新）
+
+---
+
+### 2026-06-08 20:08:48  #MKT News #Market Regions #Japan & APAC #FUTU.O #Impact bearish
+
+【Japan SESC recommends penalties for Futu unit moomoo】Japan's Securities and Exchange Surveillance Commission on June 5 published inspection findings recommending the Financial Services Agency and other regulators impose administrative penalties on moomoo Securities Co., a unit of Futu Holdings. The SESC identified shortcomings in NISA sales practices, customer asset transfers, anti‑money‑laundering checks and systems risk management.
+
+---
+
+### 2026-06-08 20:07:55  #國際
+
+市場訊息：無人機襲擊襲擊了伊拉克埃爾比勒以東的伊朗庫爾德反對派營地。
+
+---
+
+### 2026-06-08 20:07:47  #國際
+
+交易商稱，韓國麵粉廠上週晚些時候從美國購入約19,500噸制粉小麥，自加拿大購入10,500噸小麥。
+
+---
+
+### 2026-06-08 20:07:42  #宏觀 #市場
+
+義大利財政部：原定於6月11日進行的7年期及10年期以上BTP國債拍賣將取消。
+
+---
+
+### 2026-06-08 20:06:29  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
+
+Reportedly, the Israeli Defense Forces launched strikes in southern Lebanon.
+
+---
+
+### 2026-06-08 20:05:45  #其他
+
+巴西2025/26年度第二季玉米產量預估為1.082億噸，低於此前預估的1.091億噸。
+
+---
+
+### 2026-06-08 20:05:08  #市場
+
+現貨白銀日內漲1%，現報68.55美元/盎司。
+
+---
+
+### 2026-06-08 20:05:03  #MKT News
+
+Baltic Dry Index fell 2.18% to 2,916.
+
+---
+
+### 2026-06-08 20:04:44  #國際
+
+拜耳任命特雷弗・特倫為美國消費品健康業務總裁。
+
+---
+
+### 2026-06-08 20:04:16  #MKT News
+
+Israeli i24 News reported Netanyahu spoke with Trump today; Trump later posted on social media saying both want a ceasefire.
+
+---
+
+### 2026-06-08 20:04:01  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange Gold T+D slipped 0.12% to 946.0 yuan/gram in early Monday evening trade on June 8; Silver T+D rose 0.72% to 16,453.0 yuan/kg in the same session.
+
+---
+
+### 2026-06-08 20:03:21  #其他
+
+【端午備貨接近尾聲 今日雞蛋價格回落】今日雞蛋價格小幅回落。受前期蛋雞存欄偏低，高溫減產及端午收尾備貨提振雞蛋價格，但備貨接近尾聲，新雞逐步開產，南方梅雨季節限制大量囤貨拖累漲幅，淘汰雞與雞苗行情高位執行，預計節前蛋價高位震盪，節後需求降溫價格或將承壓回落。
+
+---
+
+### 2026-06-08 20:03:15  #公司 #國際
+
+市場訊息：美國工業技術公司擬成立合資企業，聚焦無人機、人工智慧與安全移動出行解決方案業務。
+
+---
+
+### 2026-06-08 20:03:02  #其他
+
+【Strategy上週以1.013億美元購入1550枚比特幣】Strategy Inc.在2026年6月1日至2026年6月7日期間，以1.013億美元的價格購入了1,550枚比特幣。
+
+---
+
+### 2026-06-08 20:02:58  #公司 #市場
+
+【居然智家：股價異常波動 與優必選合作未產生實際貢獻】居然智家公告稱，公司股票於2026年6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計達20%以上，屬異常波動。公司與優必選2025年3月籤戰略合作框架協議，截至目前無業務往來，未籤具法律約束力的實質性訂單協議，對經營業績無實際貢獻。2026年一季度，公司營收25.23億元，同比下滑23.82%；歸母淨利潤6210.45萬元，同比下滑70.65%。業績短期未與股價漲幅匹配，提醒投資者注意風險。
+
+---
+
+### 2026-06-08 20:02:51  #國際
+
+印度1-3月經常賬戶盈餘71億美元，市場預期為-14億美元。
+
+---
+
+### 2026-06-08 20:02:31  #其他
+
+市場訊息：英格蘭國家醫療服務體系攜手微軟 365 智慧助手，加速落地人工智慧應用。
+
+---
+
+### 2026-06-08 20:01:57  #公司 #國際
+
+【億航智慧宣佈3000萬美元股票回購計劃】6月8日，億航智慧 (EH.US）宣佈，公司董事會已批准一項股票回購計劃。根據該計劃，公司將在未來12個月內回購總價值不超過3,000萬美元的美國存托股票（ADS）或普通股。
+
+---
+
+### 2026-06-08 20:01:55  #MKT News #Market Regions #Emerging Markets
+
+India posted a current account surplus of $7.1 billion in Jan-Mar, versus market expectations for a $1.4 billion deficit.
+
+---
+
+### 2026-06-08 20:01:32  #國際
+
+【印尼解除此前釋出的海嘯預警】印度尼西亞氣象、氣候和地球物理局6月8日最新通報說，菲律賓南部海域當天發生7.8級地震後，印尼北部多個沿海監測站監測到輕微海嘯波，經研判，印尼決定解除此前釋出的海嘯預警。（新華社）
+
+---
+
+### 2026-06-08 20:01:14  #公司 #國際
+
+市場訊息：美國鋼鐵公司將獲得至多 25 億美元用於裝置升級。
+
+---
+
+### 2026-06-08 20:00:57  #公司
+
+兆科眼科(06622.HK)：董事會已批准一項為期十二個月的股份購回計劃，總購回金額不超過1億港元。
+
+---
+
+### 2026-06-08 20:00:53  #其他
+
+墨西哥5月汽車出口量 306288 輛，墨西哥5月汽車產量達到342,926輛。
+
+---
+
+### 2026-06-08 20:00:30  #MKT News #06622.HK #Impact bullish
+
+Zhaoke Ophthalmology (06622.HK) said its board approved a 12-month share buyback programme capped at HK$100 mln.
 
 ---
 
@@ -22588,203 +22768,5 @@ Qatar's state news agency QNA reported Qatar attended a Gulf Cooperation Council
 ### 2026-06-07 01:46:48  #國際
 
 伊朗第一副總統穆罕默德·禮薩·阿雷夫：伊朗在與美國的談判中秉持明確策略，所有官員均統一行動、嚴格遵照執行。 伊朗官員在談判相關文字及提案上立場完全一致，不存在分歧。
-
----
-
-### 2026-06-07 01:42:50  #國際
-
-訊息人士：巴勒斯坦各派別開羅會議已結束。各方在相關議題上立場存在分歧，計劃於今日再度與調解方舉行會談。
-
----
-
-### 2026-06-07 01:42:33  #MKT News
-
-Palestinian sources said a Cairo meeting of Palestinian factions has ended and a follow-up meeting with mediators is planned for today; parties remain divided on the issues under discussion.
-
----
-
-### 2026-06-07 01:42:14  #MKT News
-
-Palestinian sources said a Cairo meeting of Palestinian factions focused on weapons.
-
----
-
-### 2026-06-07 01:41:59  #國際
-
-訊息人士：巴勒斯坦各派別開羅會議圍繞包含15項內容的《姆拉德諾夫檔案》展開討論。
-
----
-
-### 2026-06-07 01:41:51  #MKT News
-
-Palestinian sources said at a Cairo meeting of Palestinian factions discussion centered on the 15-point Mladenov document.
-
----
-
-### 2026-06-07 01:41:46  #國際
-
-訊息人士：巴勒斯坦各派別在開羅舉行的會議，重點討論了武器相關議題。
-
----
-
-### 2026-06-07 01:39:35  #國際
-
-禮來製藥以德國醫療改革為由，將在德投資削減五成，並把資金轉向美國生產領域。
-
----
-
-### 2026-06-07 01:39:35  #MKT News
-
-Saudi television reported a Lebanese military source saying Lebanese officers are undergoing training in Pakistan, and that Lebanese Army commander Haikal will discuss the army’s military needs with Islamabad during his visit.
-
----
-
-### 2026-06-07 01:31:54  #其他
-
-伯靈頓北方聖太菲鐵路：現場人員正趕赴事發地點開展評估；目前主幹線軌道的預計恢復通行時間尚未確定。
-
----
-
-### 2026-06-07 01:29:01  #國際
-
-伯靈頓北方聖太菲鐵路：美國中部夏令時6月6日上午9點58分，我方收到初步報告，艾奧瓦州得梅因市附近發生路基沖毀事故，已對幹線軌道造成影響。
-
----
-
-### 2026-06-07 01:28:26  #焦點 #國際
-
-【五角大樓：以色列帶來的間諜威脅持續加劇】美國近期多份情報報告指出，以色列情報機構持續監聽負責斡旋美伊和平協議的美方談判人員，以色列帶來的整體反間諜風險也隨之攀升，引發美方擔憂。美以雙方長期以來都心知肚明，彼此一直在開展針對對方的情報活動，且對此選擇默許。但多名美國官員表示，以色列近期加緊打探美方在伊核談判中的立場，此舉已然越界。相關報告提到，以色列加大了對多名美國高階官員的監聽力度，其中包括特朗普政府首席談判代表史蒂夫·維特科夫、五角大樓首席政策官員埃爾布里奇·A·科爾比，以及科爾比的主要副手之一邁克爾·P·迪米諾四世。美國國防情報局聯合其他軍事情報部門撰寫了另一份報告，內容回溯至數年前的相關事件。報告稱，近幾周美方將以色列造成的反間諜威脅等級從“高風險”上調至最高的“危急”級別。這份檔案也得到了美國國防反間諜與安全域性的協助編撰，其中詳細列舉了以色列針對美軍人員及政府官員開展的各類間諜活動。當前局勢本就高度敏感，上述報告以及美方對以色列間諜活動的擔憂進一步升溫。美以兩國正聯手應對伊朗，雙方如今的軍事協作緊密程度前所未有，以色列軍官與美方人員在美國中央司令部並肩工作。美軍向以色列方面共享了大量戰術與作戰情報。但美國高階官員透露，以色列試圖摸清特朗普政府在和平談判中的策略以及不斷變化的立場。
-
----
-
-### 2026-06-07 01:20:49  #國際
-
-美國官員：以色列加大對維特科夫等美方官員的監聽力度，試圖打探特朗普在伊核談判中的策略，以色列刺探美方伊方談判立場的間諜活動已越界。
-
----
-
-### 2026-06-07 01:20:07  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
-
-Israeli media report multiple IDF soldiers were wounded in fighting in southern Lebanon.
-
----
-
-### 2026-06-07 01:18:10  #國際
-
-【巴基斯坦內政部長將向穆傑塔巴轉達口信】伊朗媒體表示，巴基斯坦內政部長穆赫辛·納克維已抵達德黑蘭，負責轉交巴陸軍參謀長阿西姆·穆尼爾致伊朗最高領袖穆傑塔巴的一份“特殊口信”。伊朗媒體未說明口信的具體遞交方式。巴基斯坦總理夏巴茲·謝里夫已就美伊談判相關事宜，向納克維下達具體指示。
-
----
-
-### 2026-06-07 01:12:53  #公司 #觀點
-
-高盛鑑於CrowdStrike公司第一財季業績表現亮眼，將其目標股價上調至726美元。
-
----
-
-### 2026-06-07 01:10:21  #國際
-
-市場資訊：巴基斯坦內政部長納克維將向伊朗最高領袖轉達口信。
-
----
-
-### 2026-06-07 01:07:20  #國際
-
-英國經濟學人雜誌：印度女性生育率已降至每名女性約2.0，低於2.1的人口更替水平，預計該國人口將在未來數十年內開始下降。過去印度家庭普遍生育6至11個孩子，如今大多隻選擇生育一到兩個，不少家庭僅生育一胎。
-
----
-
-### 2026-06-07 01:06:30  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Saudi state TV reported an Israeli military commander said Hezbollah cannot be disarmed unless Israel fully occupies Lebanon.
-
----
-
-### 2026-06-07 01:04:57  #國際
-
-諾和諾德將在2026年美國糖尿病協會年會上，公佈減肥藥Wegovy針對多種心臟代謝疾病療效的最新研究資料。
-
----
-
-### 2026-06-07 01:04:20  #國際
-
-特朗普政府劃撥7億美元聯邦資金，扶持美國燃煤電廠，保障人工智慧相關電網穩定執行。
-
----
-
-### 2026-06-07 01:03:50  #國際
-
-受美國參議院議程安排導致立法程序延後影響，《清晰度法案》的透過機率降至60%。
-
----
-
-### 2026-06-07 01:01:59  #焦點 #國際
-
-印度搗毀H-1B簽證造假團伙，有關部門查獲超10萬份偽造學歷證書。
-
----
-
-### 2026-06-07 01:01:45  #國際
-
-以色列國防軍稱，以軍週末對黎巴嫩南部150處真主黨目標實施打擊，其中包括武器庫與指揮中心。
-
----
-
-### 2026-06-07 00:59:15  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-HEZBOLLAH said it fired rockets at an Israeli military concentration in Al-Bayda in southern Lebanon.
-
----
-
-### 2026-06-07 00:59:01  #國際
-
-真主黨：我方發射火箭彈，打擊了黎巴嫩南部拜亞達鎮的以色列敵方集結人員。
-
----
-
-### 2026-06-07 00:59:01  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-HEZBOLLAH said it used a submersible drone to strike a concentration of Israeli forces in al-Qantara in southern Lebanon.
-
----
-
-### 2026-06-07 00:58:57  #國際
-
-真主黨：我方使用俯衝無人機襲擊了黎巴嫩南部坎塔拉鎮的以色列敵方集結點。
-
----
-
-### 2026-06-07 00:58:35  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【IDF says it struck about 150 Hezbollah targets in southern Lebanon over weekend】The Israel Defense Forces said it struck roughly 150 Hezbollah infrastructure targets in southern Lebanon over the weekend, including weapons storage sites, command centers and rocket launchers. The IDF said those facilities were used by Hezbollah to prepare and carry out terrorist attacks against Israeli soldiers.
-
----
-
-### 2026-06-07 00:56:53  #MKT News #DXY #Impact bullish #XAUUSD #Brent
-
-The Israeli military said it had not ordered a halt to demolitions of villages in southern Lebanon and is continuing to destroy related military infrastructure.
-
----
-
-### 2026-06-07 00:53:12  #國際
-
-【巴基斯坦內政部長抵達德黑蘭 將與伊朗官員會面】當地時間6日晚，巴基斯坦內政部長納克維抵達伊朗首都德黑蘭。在本次訪問期間，他將與伊朗外長在內的官員會面並進行磋商。（央視新聞）
-
----
-
-### 2026-06-07 00:49:35  #國際
-
-【巴基斯坦內政部長抵達德黑蘭】巴基斯坦內政部長穆赫辛・納克維已抵達德黑蘭，計劃會見伊朗外交部長阿拉格齊。納克維此行前曾面見巴基斯坦總理夏巴茲・謝里夫，並接到了有關伊美談判相關事宜的指示。
-
----
-
-### 2026-06-07 00:48:41  #國際
-
-【美國林務局擬開放數百萬英畝土地供越野車輛通行】美國農業部部長布魯克·羅林斯收到一份政令草案，內容顯示特朗普政府計劃允許越野車輛駛入數百萬英畝的國家森林公園。今年5月29日，特朗普已簽署決定，廢除兩項實施數十年的行政令。此前這兩項政令一直保護包括多數國家公園在內的公共土地，禁止全地形車、越野摩托車等各類越野車輛進入。此次新規是上述舉措的配套政策。一份未標註日期的農業部部長備忘錄檔案要求美國林務局，梳理各國家森林公園內此前封閉的道路、步道、區域、簡易機場與水域，評估是否可全年向休閒活動開放。備忘錄還規定，林務局已向國會提議劃定為荒野保護區的區域，將即刻允許越野車輛通行。目前，這類區域大多參照保護區標準管理，禁止全地形車駛入。僅這一項調整，就將影響約500萬英畝土地，主要分佈在愛達荷州與蒙大拿州。備忘錄中寫道：“2026年是美國獨立250週年，我們應當展現本國珍貴的自然瑰寶，確保所有美國人都能在這片壯美的土地上休閒遊玩。”美國農業部發言人邁克爾·阿布德發表宣告稱，部門致力於保障民眾在合理合規的前提下使用、享用公共土地，同時切實做好自然資源管護工作。這兩項放寬越野車輛准入的政策，是特朗普政府一系列舉措的組成部分。本屆政府有意弱化公共土地的生態保護導向，轉而推動休閒產業與經濟活動發展。
-
----
-
-### 2026-06-07 00:46:43  #國際
-
-美國擬開放數百萬英畝土地供越野車輛通行。
 
 ---
