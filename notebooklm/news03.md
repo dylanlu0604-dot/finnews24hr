@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 04:41:17_
-_本檔包含 3723 則快訊，約 667139 字_
+_更新時間：2026-06-14 05:08:58_
+_本檔包含 3725 則快訊，約 667180 字_
+
+---
+
+### 2026-06-11 06:18:03  #焦點 #國際
+
+據以色列媒體：訊息人士稱，現階段以色列未參與美國對伊朗的打擊行動。
+
+---
+
+### 2026-06-11 06:17:56  #MKT News #Important
+
+Israeli media, citing sources, report Israel is not participating at this stage in U.S. strikes on Iran.
+
+---
+
+### 2026-06-11 06:16:35  #市場 #焦點
+
+現貨黃金失守4050美元/盎司，日內跌0.52%。
+
+---
+
+### 2026-06-11 06:16:33  #市場 #焦點
+
+紐約期金失守4070美元/盎司，日內跌1.55%。
+
+---
+
+### 2026-06-11 06:16:15  #MKT News #Important
+
+Spot gold fell below $4,050/oz in early trade, down 0.51% on the day.
+
+---
+
+### 2026-06-11 06:15:56  #國際
+
+伊朗方面訊息：伊拉克埃爾比勒的美軍哈里爾基地一處雷達遭襲擊。
+
+---
+
+### 2026-06-11 06:15:04  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Swedish Krona Drops by 0.51% — Top currency losers are Swedish Krona (-0.51%), Australian Dollar (-0.50%), New Zealand Dollar (-0.47%), British Pound (-0.16%), Japanese Yen (-0.11%) and Euro (-0.11%). Gains are led by Norwegian Krone (0.43%) and Dollar Index (0.17%).
+
+---
+
+### 2026-06-11 06:14:36  #MKT News
+
+Al Jazeera, citing sources, reports clashes between Iranian and U.S. forces continue in waters of the Persian Gulf and the Gulf of Oman.
+
+---
+
+### 2026-06-11 06:13:50  #市場
+
+【美元指數10日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.04%，在匯市尾市收於99.947。截至紐約匯市尾市，1歐元兌換1.1548美元，低於前一交易日的1.1550美元；1英鎊兌換1.3380美元，低於前一交易日的1.3388美元。1美元兌換160.50日元，高於前一交易日的160.36日元；1美元兌換0.7994瑞士法郎，高於前一交易日的0.7979瑞士法郎；1美元兌換1.3937加元，低於前一交易日的1.3952加元；1美元兌換9.4948瑞典克朗，高於前一交易日的9.4603瑞典克朗。
+
+---
+
+### 2026-06-11 06:13:07  #國際
+
+【美防長在美古關係緊張之際訪問古巴關塔那摩美軍基地 】美國國防部長赫格塞思10日在美古關係緊張之際訪問了位於古巴關塔那摩的美海軍基地，並稱美國防部將做好準備以應對“任何可能發生的突發事態”。據美國防部在社交媒體釋出的訊息，赫格塞思稱，其此行旨在確保該基地“具備履行任務所需的一切條件”。他在會見美軍士兵時還稱，“古巴的未來掌握在美國總統和古巴領導層手中”。美國防部發布的影片中，赫格塞思稱，如果古巴試圖獲取能夠打擊關塔那摩美海軍基地或美國本土的武器，將是“極不明智”的舉動，這可能引發古巴“既不希望看到、也無力承受”的對抗。（新華社）
 
 ---
 
@@ -22381,53 +22441,5 @@ LME期銅收平，報13615美元/噸。LME期鋁收跌56美元，報3548美元/�
 ### 2026-06-10 00:51:19  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
 
 【EIA says OECD oil stocks could fall to lowest since 2003】The U.S. Energy Information Administration said on Tuesday that a conflict involving Iran has cut Middle East crude output by more than 11 mln bpd, and major consuming countries are drawing inventories at an unprecedented pace to plug the supply gap. Under EIA's current assumptions — including that maritime traffic through the Strait of Hormuz is unlikely to return to pre-conflict levels before early 2027 — OECD total oil stocks are projected to fall to just under 2.3 bln barrels by December.
-
----
-
-### 2026-06-10 00:49:15  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israeli chief of staff says strikes on Iran were preparation for larger, more forceful attack; vows intensified action against Hezbollah】IDF Chief of Staff Zamir said on the 9th that recent strikes on Iran were intended to prepare for a larger, more forceful attack and that the IDF remains ready to resume operations against Iran. He said the military has conducted rapid, forceful strikes and will continue to intensify action against Hezbollah, carrying out operations along the southern Lebanon frontline to destroy Hezbollah personnel infrastructure.
-
----
-
-### 2026-06-10 00:47:49  #國際
-
-【以軍襲擊黎巴嫩已致3666人死亡】據黎巴嫩公共衛生部緊急行動中心9日訊息，3月2日至6月9日期間，以色列在黎巴嫩發動的襲擊已造成3666人死亡，11321人受傷。（央視）
-
----
-
-### 2026-06-10 00:47:05  #市場
-
-彭博美元指數抹去早盤跌幅，觸及日內高點。
-
----
-
-### 2026-06-10 00:42:08  #MKT News #Important #Nasdaq100 #Impact bearish #S&P500 #Dow
-
-US stock benchmarks fell sharply in an intra-session sell-off, with the Nasdaq extending losses to 3.5%.
-
----
-
-### 2026-06-10 00:41:47  #其他
-
-VIX 指數自 4 月 7 日以來首次升至 23 以上。
-
----
-
-### 2026-06-10 00:41:17  #焦點 #國際
-
-【特朗普稱美國必須對伊朗襲擊美國直升機事件作出回應】美國總統特朗普在社交媒體“真相社交”發文稱， 我方精銳軍方剛剛通報，昨晚伊朗方面在霍爾木茲海峽上空擊落了我方一架先進的阿帕奇直升機。機上兩名飛行員均安然無恙、未受損傷。 即便如此，美國必然會對此次襲擊作出回應。
-
----
-
-### 2026-06-10 00:41:08  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI and Brent crude rose about $3/bbl intraday after Trump said Iran shot down a US Apache helicopter and that Washington would respond.
-
----
-
-### 2026-06-10 00:40:14  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-President Trump said Iran shot down a U.S. Apache helicopter in the Strait of Hormuz and the United States must respond.
 
 ---

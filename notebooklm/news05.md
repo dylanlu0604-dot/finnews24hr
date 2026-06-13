@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 04:41:17_
-_本檔包含 3769 則快訊，約 667119 字_
+_更新時間：2026-06-14 05:08:58_
+_本檔包含 3766 則快訊，約 667053 字_
+
+---
+
+### 2026-06-08 20:41:01  #Trading Economics #Economy #Mexico #Auto Exports #Importance 1
+
+Mexico Auto Exports Rise 1.7% YoY — Mexico’s car exports edged up 1.7% year-over-year to 306,288 units in May 2026, following an 11.42% surge in April. Exports rose for Stellantis (63.6%), VW (52.5%), Mercedes (5.4%) and Mazda (72.5%). In contrast, exports fell for GM (-0.9%), Ford (-18.3%), Nissan (-19.6%), Toyota (-1%) and Audi (-23.8%). In the first five months of the year, Mexico’s vehicle exports totalled 1,388,236 units, 4% higher than in the same period of 2025, with the US accounting for 75.4% of total exports while Canada and Germany followed with 12.5% and 3% respectively.
+
+---
+
+### 2026-06-08 20:40:39  #市場
+
+【華夏香港完成離岸公募基金首單“互換通”人民幣利率互換交易】日前，華夏基金（香港）旗下華夏精選人民幣投資級別收益基金成功完成首筆人民幣利率互換（IRS）交易，這是“互換通”機制推出以來離岸公募基金行業落地的第一單。據悉，北向“互換通”於2023年5月正式啟動，截至2026年4月末，已有119家境內外機構參與，市場累計交易合約超22000筆，累計清算量約12萬億元。
+
+---
+
+### 2026-06-08 20:40:13  #MKT News #Important #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+Israeli Prime Minister Netanyahu has ordered the military to halt preparations for a new round of strikes on Iran.
+
+---
+
+### 2026-06-08 20:39:57  #其他
+
+奧本海默將甲骨文目標價從235美元上調至275美元。
+
+---
+
+### 2026-06-08 20:39:45  #MKT News #ORCL.N #Impact bullish
+
+Oppenheimer raised its PT for Oracle (ORCL.N) to $275 from $235.
+
+---
+
+### 2026-06-08 20:39:21  #國際
+
+美國人對就業市場擔憂加劇，認為就業崗位充足的民眾佔比跌至三年低點。
+
+---
+
+### 2026-06-08 20:38:57  #宏觀
+
+【國家郵政局：深入整治“內卷式”競爭，指導企業規範內部考核機制】6月8日，國家郵政局召開黨組會議，會議強調，要充分認清做好行業安全穩定工作的重要性，統籌好發展和安全，將安全穩定工作要求貫穿快遞市場監管、安全監管全過程。要聚焦重點領域，全面排查化解各類風險，深入整治“內卷式”競爭，指導企業規範內部考核機制。要壓實各方責任，督促總部規範經營管理，從源頭化解矛盾糾紛。要持續強化行業執行監測和指揮排程，健全全鏈條風險防控閉環機制，推動解決具體問題，營造規範有序、穩定健康的行業發展生態。
 
 ---
 
@@ -22636,65 +22678,5 @@ A Boeing services executive said flight hours across most regions continue to sh
 ### 2026-06-07 05:19:43  #MKT News
 
 【Iran says national team must enter, exit US on match days】Iran’s ambassador to Mexico, Pasandide, said the national football team has been told it must enter and leave US territory on match days during the World Cup. Citing a US and Israeli war on Tehran, Pasandide said the team is now based in Mexico instead of the originally planned Tucson, Arizona; visa rules allow morning entry but require same‑day departure. Iran has three group matches in the US, scheduled in Los Angeles and Seattle.
-
----
-
-### 2026-06-07 05:01:32  #MKT News
-
-【US may use Iranian assets to compensate Gulf allies】On June 6, sources said Treasury Secretary Bessent directed a team to assess Gulf allies’ situations and estimate repair costs for damage attributed to Iran. The US intends to use relevant mechanisms to transfer frozen Iranian assets to Gulf partners to fund reconstruction and measures to address potential future damage. The US will also consider whether to use Iranian assets to compensate for past losses, the sources said.
-
----
-
-### 2026-06-07 05:01:29  #宏觀 #國際
-
-【美或用伊朗資產賠償海灣盟友】當地時間6月6日，據知情人士向媒體透露，美國財政部長貝森特已指示團隊“評估海灣盟國的相關情況，並核算伊朗造成損失的修復成本”。訊息人士稱，美國打算利用相關機制，將凍結的伊朗資產轉交給海灣盟友，用以資助其“應對伊朗未來可能造成的破壞並進行重建與修繕工作”。美方還將考慮是否動用伊朗資產“對過往遭受的損失進行賠償”（CCTV國際時訊）
-
----
-
-### 2026-06-07 04:57:28  #公司 #國際
-
-據印度石油公司官網訊息，該公司已將德里地區每罐14.2公斤裝液化石油氣（LPG）的價格上調29盧比，上調後價格為每罐942盧比。
-
----
-
-### 2026-06-07 04:49:18  #MKT News #WTI #Impact bullish #XAUUSD
-
-BESSENT instructed a team to assess the condition of Gulf allies and to quantify losses inflicted by Iran.
-
----
-
-### 2026-06-07 04:48:38  #MKT News
-
-US will consider whether Iranian assets can be used to compensate for past losses, people familiar with the matter said.
-
----
-
-### 2026-06-07 04:48:09  #國際
-
-據知情訊息人士透露，美國將考慮能否動用伊朗資產來賠償過往事件造成的損失。
-
----
-
-### 2026-06-07 04:48:07  #宏觀 #焦點 #國際
-
-據知情訊息人士透露，美國財政部長貝森特已指示團隊評估海灣盟友的狀況，以及伊朗襲擊造成破壞的修復成本。
-
----
-
-### 2026-06-07 04:48:04  #國際
-
-據知情訊息人士透露，美國將動用相關工具，向海灣盟友開放伊朗資產，用以支援重建與修復伊朗未來造成破壞所產生的相關工作。
-
----
-
-### 2026-06-07 04:47:53  #MKT News
-
-Sources said the United States will use mechanisms to provide Iranian assets to Gulf allies to fund reconstruction and repairs for damage Iran may cause in the future.
-
----
-
-### 2026-06-07 04:42:42  #公司 #國際
-
-市場資訊：美國先鋒集團釋出報告稱，受財務壓力加劇影響，2025年有6%的401(k)計劃參與者辦理了困難支取。
 
 ---

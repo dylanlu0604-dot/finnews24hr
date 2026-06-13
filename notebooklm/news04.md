@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 04:41:17_
-_本檔包含 3674 則快訊，約 667283 字_
+_更新時間：2026-06-14 05:08:58_
+_本檔包含 3675 則快訊，約 667214 字_
+
+---
+
+### 2026-06-10 00:49:15  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israeli chief of staff says strikes on Iran were preparation for larger, more forceful attack; vows intensified action against Hezbollah】IDF Chief of Staff Zamir said on the 9th that recent strikes on Iran were intended to prepare for a larger, more forceful attack and that the IDF remains ready to resume operations against Iran. He said the military has conducted rapid, forceful strikes and will continue to intensify action against Hezbollah, carrying out operations along the southern Lebanon frontline to destroy Hezbollah personnel infrastructure.
+
+---
+
+### 2026-06-10 00:47:49  #國際
+
+【以軍襲擊黎巴嫩已致3666人死亡】據黎巴嫩公共衛生部緊急行動中心9日訊息，3月2日至6月9日期間，以色列在黎巴嫩發動的襲擊已造成3666人死亡，11321人受傷。（央視）
+
+---
+
+### 2026-06-10 00:47:05  #市場
+
+彭博美元指數抹去早盤跌幅，觸及日內高點。
+
+---
+
+### 2026-06-10 00:42:08  #MKT News #Important #Nasdaq100 #Impact bearish #S&P500 #Dow
+
+US stock benchmarks fell sharply in an intra-session sell-off, with the Nasdaq extending losses to 3.5%.
+
+---
+
+### 2026-06-10 00:41:47  #其他
+
+VIX 指數自 4 月 7 日以來首次升至 23 以上。
+
+---
+
+### 2026-06-10 00:41:17  #焦點 #國際
+
+【特朗普稱美國必須對伊朗襲擊美國直升機事件作出回應】美國總統特朗普在社交媒體“真相社交”發文稱， 我方精銳軍方剛剛通報，昨晚伊朗方面在霍爾木茲海峽上空擊落了我方一架先進的阿帕奇直升機。機上兩名飛行員均安然無恙、未受損傷。 即便如此，美國必然會對此次襲擊作出回應。
+
+---
+
+### 2026-06-10 00:41:08  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI and Brent crude rose about $3/bbl intraday after Trump said Iran shot down a US Apache helicopter and that Washington would respond.
+
+---
+
+### 2026-06-10 00:40:14  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+President Trump said Iran shot down a U.S. Apache helicopter in the Strait of Hormuz and the United States must respond.
 
 ---
 
@@ -22091,47 +22139,5 @@ Mexico Car Production Drops Most in 6 Months — Car production in Mexico fell b
 ### 2026-06-08 20:41:29  #其他
 
 【上海：深入建設全球領先的集裝箱樞紐港 加快建設門戶複合型國際航空樞紐】據上海釋出，上海市委副書記、市長龔正今天（6月8日）主持召開市政府常務會議，會議原則同意《上海市加快國際航運中心建設“十五五”規劃》並指出，“十五五”時期，上海國際航運中心建設要接續奮鬥，緊盯關鍵環節持續提升航運資源全球配置能力，進一步提升國際航運中心能級。要聚焦擴能增效，深入建設全球領先的集裝箱樞紐港，加快建設門戶複合型國際航空樞紐，鞏固海空樞紐地位。要聚焦高階引領，做強航運保險，做優海事法務，做大航運交易，提升航運服務水平。要聚焦轉型升級，加快綠色轉型，強化數智賦能，打造綠色燃料加註中心和交易中心，做實做強航運貿易數字化平臺，增強航運創新動能。
-
----
-
-### 2026-06-08 20:41:01  #Trading Economics #Economy #Mexico #Auto Exports #Importance 1
-
-Mexico Auto Exports Rise 1.7% YoY — Mexico’s car exports edged up 1.7% year-over-year to 306,288 units in May 2026, following an 11.42% surge in April. Exports rose for Stellantis (63.6%), VW (52.5%), Mercedes (5.4%) and Mazda (72.5%). In contrast, exports fell for GM (-0.9%), Ford (-18.3%), Nissan (-19.6%), Toyota (-1%) and Audi (-23.8%). In the first five months of the year, Mexico’s vehicle exports totalled 1,388,236 units, 4% higher than in the same period of 2025, with the US accounting for 75.4% of total exports while Canada and Germany followed with 12.5% and 3% respectively.
-
----
-
-### 2026-06-08 20:40:39  #市場
-
-【華夏香港完成離岸公募基金首單“互換通”人民幣利率互換交易】日前，華夏基金（香港）旗下華夏精選人民幣投資級別收益基金成功完成首筆人民幣利率互換（IRS）交易，這是“互換通”機制推出以來離岸公募基金行業落地的第一單。據悉，北向“互換通”於2023年5月正式啟動，截至2026年4月末，已有119家境內外機構參與，市場累計交易合約超22000筆，累計清算量約12萬億元。
-
----
-
-### 2026-06-08 20:40:13  #MKT News #Important #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-Israeli Prime Minister Netanyahu has ordered the military to halt preparations for a new round of strikes on Iran.
-
----
-
-### 2026-06-08 20:39:57  #其他
-
-奧本海默將甲骨文目標價從235美元上調至275美元。
-
----
-
-### 2026-06-08 20:39:45  #MKT News #ORCL.N #Impact bullish
-
-Oppenheimer raised its PT for Oracle (ORCL.N) to $275 from $235.
-
----
-
-### 2026-06-08 20:39:21  #國際
-
-美國人對就業市場擔憂加劇，認為就業崗位充足的民眾佔比跌至三年低點。
-
----
-
-### 2026-06-08 20:38:57  #宏觀
-
-【國家郵政局：深入整治“內卷式”競爭，指導企業規範內部考核機制】6月8日，國家郵政局召開黨組會議，會議強調，要充分認清做好行業安全穩定工作的重要性，統籌好發展和安全，將安全穩定工作要求貫穿快遞市場監管、安全監管全過程。要聚焦重點領域，全面排查化解各類風險，深入整治“內卷式”競爭，指導企業規範內部考核機制。要壓實各方責任，督促總部規範經營管理，從源頭化解矛盾糾紛。要持續強化行業執行監測和指揮排程，健全全鏈條風險防控閉環機制，推動解決具體問題，營造規範有序、穩定健康的行業發展生態。
 
 ---
