@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-13 14:52:07",
-  "count": 18375,
+  "updated": "2026-06-13 14:56:18",
+  "count": 18374,
   "items": [
+    {
+      "id": "mkt:019ebfc2-ba27-7dd8-afe8-ba3986e17018",
+      "time": "2026-06-13 14:54:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Seoul bans AI smart glasses for students in final exams】Seoul Metropolitan Office of Education said on the 12th it sent a notice the previous day to city primary and secondary schools and district education offices banning candidates from wearing AI-enabled smart glasses during final exams. The office listed the devices as prohibited exam items and instructed schools to notify students and parents that bringing such glasses into exam rooms will be treated as cheating."
+    },
     {
       "id": "4933706",
       "time": "2026-06-13 14:49:30",
@@ -169004,22 +169014,6 @@
         "國際"
       ],
       "text": "【伊朗稱解凍資金是對美談判的考驗】當地時間6月5日，伊朗最高領袖軍事顧問雷扎伊在接受美國有線電視新聞網採訪時表示，伊朗與美國之間的談判陷入了僵局。美國總統特朗普若想打破僵局，就必須解凍伊朗240億美元的被凍結資金。他強調，這是雙方建立信任的標誌，唯有如此，才能進一步開啟談判的道路。 雷扎伊還表示，如果美國繼續戰爭和海上封鎖，伊朗將把戰火蔓延到印度洋、曼德海峽、紅海和地中海，並將持續攻擊美軍基地，使戰爭進入新的階段。他強調，屆時美國損失將非常慘重，他同時呼籲美國總統特朗普擺脫以色列的影響去做出決定。（CCTV國際時訊）"
-    },
-    {
-      "id": "4921172",
-      "time": "2026-06-06 14:53:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【西班牙一本田倉庫發生火災，火源疑為太陽能電池板】日本富士新聞網報道，當地時間5日在西班牙巴塞羅那市，日本機動車製造商本田的一座倉庫發生火災。據報道，該倉庫為本田在當地的物流中心，火源疑為屋頂的太陽能電池板。火災未造成人員傷亡，但倉庫內部被燒燬。（環球網）"
-    },
-    {
-      "id": "4921171",
-      "time": "2026-06-06 14:52:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【吳清：過去五年，基金行業股票投資規模增長41%達到13.4萬億元，持有A股流通市值佔比達13.7%】證監會發布吳清在中國證券投資基金業協會第四屆會員代表大會上的致辭。吳清指出，過去五年，基金行業股票投資規模增長41%達到13.4萬億元，持有A股流通市值佔比達13.7%，理性投資、價值投資、長期投資成為廣泛共識。同時，基金行業已經成為社保、保險、年金等中長期資金的重要合作伙伴和進行權益投資的重要受託機構，在最佳化資本市場投資者結構、拓寬中長期資金入市渠道、增加市場流動性、減少市場非理性波動等方面發揮了十分關鍵的作用。"
     }
   ]
 }
