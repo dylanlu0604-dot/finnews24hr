@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-13 23:50:00",
-  "count": 18479,
+  "updated": "2026-06-13 23:54:09",
+  "count": 18481,
   "items": [
+    {
+      "id": "4933955",
+      "time": "2026-06-13 23:51:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞羽毛球公開賽：國羽提前鎖定混雙冠亞軍】2026年澳大利亞羽毛球公開賽13日在悉尼展開各單項半決賽爭奪，國羽組合馮彥哲/黃東萍和郭新娃/陳芳卉分別戰勝各自對手，提前鎖定混雙冠亞軍。"
+    },
+    {
+      "id": "4933954",
+      "time": "2026-06-13 23:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國男足迎來精彩且具有歷史意義的一晚！我有幸和七萬餘名球迷一同觀看2026年世界盃在美國舉辦的首場賽事。"
+    },
+    {
+      "id": "mkt:019ec1ac-cd70-7dd8-afec-9fed4bb9dcba",
+      "time": "2026-06-13 23:49:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan foreign ministry: US-Iran agreement electronic signing ceremony set for 14th】Pakistan's foreign ministry said on June 13 Deputy Prime Minister and Foreign Minister Ishaq Dar spoke by phone with Saudi Foreign Minister Faisal and that an electronic signing ceremony for a US-Iran agreement is scheduled for the 14th. Both ministers welcomed talks entering a final stage and said the e-signing could help promote durable regional peace and stability. Faisal praised Pakistan's mediation support."
+    },
     {
       "id": "mkt:019ec1aa-ee8e-7dd8-afec-926e52740bf3",
       "time": "2026-06-13 23:47:45",
@@ -169867,17 +169891,6 @@
         "國際"
       ],
       "text": "美聯儲巴爾：近期舉措“大幅削弱”銀行監管。"
-    },
-    {
-      "id": "mkt:019e9da0-92c6-7665-8313-40b716ee8297",
-      "time": "2026-06-06 23:50:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Barr's remarks will be released in 10 minutes."
     }
   ]
 }
