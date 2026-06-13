@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-14 02:56:38",
-  "count": 18472,
+  "updated": "2026-06-14 03:01:32",
+  "count": 18474,
   "items": [
+    {
+      "id": "4934018",
+      "time": "2026-06-14 02:59:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：擬任命麥克唐納為紐約南區聯邦檢察官。"
+    },
+    {
+      "id": "mkt:019ec25a-92d1-7dd8-afed-af01ee264c9f",
+      "time": "2026-06-14 02:59:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will appoint James McDonald as U.S. attorney for the Southern District of New York."
+    },
+    {
+      "id": "4934017",
+      "time": "2026-06-14 02:58:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗正加大力度保護鈾原料】美國情報部門訊息稱，伊朗正加大力度保護其接近武器級的鈾原料，具體做法是封堵隧道，並在入口處佈設地雷陷阱。相關人士表示，這批高濃縮鈾儲量約半噸，如今想要接觸到這些物資，難度和風險都大幅增加。"
+    },
+    {
+      "id": "4934016",
+      "time": "2026-06-14 02:57:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府一名高階官員表示，談判有望達成協議，要求伊朗將鈾交由美方銷燬。"
+    },
+    {
+      "id": "mkt:019ec258-17a6-7dd8-afed-a64eb7cb4280",
+      "time": "2026-06-14 02:56:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Channel 13, citing a senior Israeli official, said Israel has limited influence over the U.S.-Iran agreement."
+    },
     {
       "id": "4934015",
       "time": "2026-06-14 02:55:13",
@@ -169786,31 +169826,6 @@
         "MKT News"
       ],
       "text": "【Illinois governor suspends data center tax incentives】Illinois governor J.B. Pritzker ordered a suspension of the state's data center tax incentives after the legislature shelved his proposal to bar passing data center energy costs on to residents. The order excludes agreements signed before July 1. Ohio this week also paused similar incentives as nationwide opposition to data centers rises. Unions urged keeping the breaks, warning the move could shift investment and jobs to neighboring states. Illinois granted nearly $1 bln in data center tax incentives from 2020–2024."
-    },
-    {
-      "id": "4921413",
-      "time": "2026-06-07 03:00:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "巴航工業執行長：受伊朗戰事相關不確定性影響，部分航空公司推遲行使飛機購買選擇權的決策。"
-    },
-    {
-      "id": "4921412",
-      "time": "2026-06-07 03:00:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴航工業執行長：目前尚未出現因戰爭影響導致推遲交付的請求，也未出現在售專案推廣放緩的情況。"
-    },
-    {
-      "id": "4921411",
-      "time": "2026-06-07 03:00:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴航工業執行長：公司目標是2027年交付95至100架商用飛機。"
     }
   ]
 }
