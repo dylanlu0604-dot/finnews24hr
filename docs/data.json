@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-15 06:16:31",
-  "count": 18349,
+  "updated": "2026-06-15 06:20:33",
+  "count": 18353,
   "items": [
+    {
+      "id": "mkt:019ec838-5823-7dd8-aff8-1e20c2febd48",
+      "time": "2026-06-15 06:19:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said mediators will still participate in upcoming talks."
+    },
+    {
+      "id": "mkt:019ec838-1bb4-7dd8-aff8-11a4d6cba53a",
+      "time": "2026-06-15 06:19:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran deputy foreign minister says the nuclear issue will be discussed during 60-day negotiations."
+    },
+    {
+      "id": "mkt:019ec837-da76-7dd8-aff8-0b609455bd87",
+      "time": "2026-06-15 06:19:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver climbed above $70/oz, up 3% on the day."
+    },
+    {
+      "id": "4934887",
+      "time": "2026-06-15 06:19:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報70.04美元/盎司。"
+    },
+    {
+      "id": "4934886",
+      "time": "2026-06-15 06:19:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破70美元/盎司，日內漲3.06%。"
+    },
+    {
+      "id": "4934885",
+      "time": "2026-06-15 06:19:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長表示，核問題將在為期60天的談判中進行討論。"
+    },
+    {
+      "id": "mkt:019ec835-fd08-7dd8-aff8-077d9853bc5c",
+      "time": "2026-06-15 06:17:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatari prime minister and foreign minister said he expects all parties to participate in upcoming talks in a positive, constructive spirit."
+    },
+    {
+      "id": "4934884",
+      "time": "2026-06-15 06:16:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：首都部分割槽域出現停電情況，相關專家正在排查原因。"
+    },
+    {
+      "id": "4934883",
+      "time": "2026-06-15 06:16:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我知道這段時間對許多美國民眾而言十分艱難，但我們為大家取得了一項重大成果。"
+    },
     {
       "id": "mkt:019ec834-620b-7dd8-aff7-fd911cae3d10",
       "time": "2026-06-15 06:15:36",
@@ -168675,53 +168751,6 @@
         "其他"
       ],
       "text": "亞美尼亞總理尼科爾·帕希尼揚宣佈在議會選舉中獲勝。"
-    },
-    {
-      "id": "4922329",
-      "time": "2026-06-08 06:20:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱以色列只能接受美伊協議】據英國《金融時報》報道，美國總統特朗普在接受其採訪時表示，以色列總理內塔尼亞胡將“別無選擇，只能接受美國與伊朗談判達成的任何協議”，因為美國總統才是“說了算的人”。 特朗普在接受電話採訪時說：“他（內塔尼亞胡）將別無選擇，我說了算，一切都由我說了算，他（內塔尼亞胡）說了不算。”特朗普發表這番言論時，伊朗剛剛向以色列發射了導彈。他告訴《金融時報》：“這不會對協議產生任何影響，不會影響到我，我們拭目以待最終結果。那些（針對以色列的導彈）襲擊也根本沒造成什麼實質性後果。”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ea42b-f922-7ee0-86d4-8ab546e9bb46",
-      "time": "2026-06-08 06:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump tells Netanyahu he must accept any US‑Iran deal, says 'I decide'】Trump told the Financial Times in a phone interview that Netanyahu will have no choice but to accept any US‑Iran deal negotiated by the United States, asserting \"I decide\" and that Netanyahu does not. He said Iran's Sunday strike has not changed his willingness to reach an agreement. Asked what would happen if a deal \"failed on its own merits,\" Trump said he would consider either sending US forces into Iran to resolve outstanding issues or sustaining a blockade, which he suggested could be more powerful than an attack."
-    },
-    {
-      "id": "4922328",
-      "time": "2026-06-08 06:19:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱，伊朗襲擊以色列的行為不會對相關談判造成影響。"
-    },
-    {
-      "id": "4922327",
-      "time": "2026-06-08 06:19:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：如果談判失敗，可能會考慮對伊朗發動突襲】當被問及若此類協議本身未能達成會作何打算時，美國總統特朗普表示，他將考慮對伊朗發動突擊隊突襲。他說：“這意味著兩種可能的行動：第一，我們或許會出兵，以軍事手段解決此前尚未處理的目標；或者，我們將維持對伊朗的封鎖，因為封鎖的威力或許比以往任何針對該國的襲擊都更具效果。”"
-    },
-    {
-      "id": "4922326",
-      "time": "2026-06-08 06:17:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列一名官員表示：以色列必將對伊朗的襲擊展開反擊，只是不會立即行動。"
     }
   ]
 }
