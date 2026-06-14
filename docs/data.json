@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-15 06:55:57",
-  "count": 18382,
+  "updated": "2026-06-15 06:59:58",
+  "count": 18391,
   "items": [
+    {
+      "id": "mkt:019ec85b-2feb-7dd8-aff8-c69f0ceeca73",
+      "time": "2026-06-15 06:57:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's National Security Council said the maritime blockade against Iran will end immediately and in full."
+    },
+    {
+      "id": "4934921",
+      "time": "2026-06-15 06:57:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家安全委員會表示，針對伊朗的海上封鎖必須立即、全面終止。"
+    },
+    {
+      "id": "mkt:019ec85a-8402-7dd8-aff8-bd4ffdaa2d42",
+      "time": "2026-06-15 06:57:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's National Security Council said final-agreement negotiations will begin only after the other party fulfills its commitments under the memorandum of understanding."
+    },
+    {
+      "id": "mkt:019ec85a-4b3f-7dd8-aff8-b5a06d30c128",
+      "time": "2026-06-15 06:57:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Iran's Supreme National Security Council said it will, effective tonight, immediately and permanently cease all combat and military operations, including in Lebanon."
+    },
+    {
+      "id": "4934920",
+      "time": "2026-06-15 06:56:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱最終協議談判將在對方履行諒解備忘錄承諾後啟動。"
+    },
+    {
+      "id": "4934919",
+      "time": "2026-06-15 06:56:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會表示，包括黎巴嫩在內的所有戰線的戰爭和軍事行動將從今晚起立即並永久停止。"
+    },
+    {
+      "id": "4934918",
+      "time": "2026-06-15 06:56:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣庫珀：霍爾木茲海峽的無害通航自由必須儘快恢復。"
+    },
+    {
+      "id": "mkt:019ec859-d478-7dd8-aff8-ac31da36407b",
+      "time": "2026-06-15 06:56:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's National Security Council said it will sign a memorandum of understanding on June 19."
+    },
+    {
+      "id": "4934917",
+      "time": "2026-06-15 06:56:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家安全委員會表示，該諒解備忘錄將於6月19日星期五簽署。"
+    },
+    {
+      "id": "mkt:019ec859-8c8f-7dd8-aff8-a5b5779cff70",
+      "time": "2026-06-15 06:56:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council says it has completed the text of a memorandum of understanding with the United States."
+    },
+    {
+      "id": "4934916",
+      "time": "2026-06-15 06:56:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家安全委員會稱，伊朗與美國之間諒解備忘錄的文字已最終敲定。"
+    },
+    {
+      "id": "4934915",
+      "time": "2026-06-15 06:55:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國外交大臣庫珀：對美國與伊朗達成協議的公告表示熱烈歡迎。"
+    },
     {
       "id": "4934914",
       "time": "2026-06-15 06:54:49",
@@ -169002,30 +169111,6 @@
         "焦點"
       ],
       "text": "英偉達與SK海力士宣佈達成多年技術合作關係，共同升級人工智慧工廠的儲存技術。"
-    },
-    {
-      "id": "4922344",
-      "time": "2026-06-08 06:59:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱對以色列發起防禦性打擊】當地時間6月7日晚，北京時間今天（6月8日）凌晨，伊朗向以色列發射三波導彈。以色列北部城市海法等多地拉響防空警報，並傳出爆炸聲。伊朗外交部最新發表關於“對以色列目標進行防禦性打擊”的宣告。宣告指出，鑑於以色列屢次違反停火協議，並對黎巴嫩和伊朗採取侵略行動，包括與美國一起在過去兩週內襲擊伊朗南部地區的船隻和目標、對伊朗進行海上劫掠，伊朗武裝部隊於當地時間6月7日晚，對以色列北部多個軍事目標進行了打擊。伊朗強調將堅決捍衛國家安全和國家利益。美國應對以色列違反停火協議及造成的後果，以及該地區緊張局勢的升級負有直接責任。伊朗警告稱，以色列任何對伊朗和黎巴嫩的冒險行為都將遭到伊朗武裝部隊的全面回擊。（CCTV國際時訊）"
-    },
-    {
-      "id": "4922343",
-      "time": "2026-06-08 06:59:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本放送協會民調：高市內閣支援率下降4.2個百分點，降至70%。"
-    },
-    {
-      "id": "4922342",
-      "time": "2026-06-08 06:57:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：以色列總理內塔尼亞胡在與特朗普的通話中試圖反對“不對伊朗進行報復的要求”，但最終還是接受了。"
     }
   ]
 }
