@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-15 02:43:39_
-_本檔包含 3566 則快訊，約 662281 字_
+_更新時間：2026-06-15 03:11:58_
+_本檔包含 3568 則快訊，約 662606 字_
+
+---
+
+### 2026-06-10 11:03:46  #其他
+
+約旦武裝部隊稱，攔截導彈後有碎片墜落，目前暫無人員傷亡或財產損失報告。
+
+---
+
+### 2026-06-10 11:03:31  #公司
+
+【華友鈷業旗下廣西新材料公司增資至25.9億 增幅約26%】天眼查App顯示，近日，廣西華友新材料有限公司發生工商變更，新增中郵金融資產投資有限公司、興銀金融資產投資有限公司等為股東，徐偉卸任法定代表人，由劉秀慶接任，同時，註冊資本由約20.5億人民幣增至約25.9億人民幣，增幅約26%。該公司成立於2021年4月，經營範圍包括電子專用材料製造、電子專用材料銷售、電子專用材料研發、新材料技術研發等，現由華友鈷業（603799）、華秦（香港）有限公司及上述新增股東等共同持股。
+
+---
+
+### 2026-06-10 11:03:29  #國際
+
+約旦武裝部隊稱，他們攔截並擊落了五枚從伊朗射向阿茲拉克基地的導彈。
+
+---
+
+### 2026-06-10 11:03:08  #市場
+
+隔夜SHIBOR報1.3840%，上漲0.00個基點。7天SHIBOR報1.4130%，下降0.70個基點。3個月SHIBOR報1.4020%，上漲0.00個基點。
+
+---
+
+### 2026-06-10 11:02:45  #市場 #國際
+
+印尼10年期國債收益率下跌13個基點，此前曾連續4天上漲。
+
+---
+
+### 2026-06-10 11:00:45  #公司 #國際
+
+【GENMA為泰國客戶打造的4臺RTG順利發運 再獲越南零排放RTG新單】據潤邦股份訊息，近日，GENMA為泰國客戶打造的4臺RTG在完成廠內嚴格除錯後，順利裝船發運。與此同時，GENMA再獲東南亞市場新訂單——將為越南客戶提供全新Zero Emission RTG。
+
+---
+
+### 2026-06-10 11:00:15  #公司
+
+【阿里合夥人委員會內網發帖：釘釘管理“不是阿里文化該有的樣子”】阿里巴巴合夥人委員會在公司內網釋出帖文《有情有義有成長，才是阿里文化》，對近日釘釘前產品經理離職長文《置身釘內》引發的討論表達了清晰的態度。帖文以嚴厲的措辭批評了釘釘團隊的管理方式，直接指出這"不是阿里文化該有的樣子"。 在批評之外，合夥人委員會的帖文闡述了阿里文化應當堅持的方向。"相互尊重，視人為人，有情有義"是阿里的文化底色，"無論時代如何改變，技術如何發展"，底色都一定不能改變。此前，釘釘的管理風格曾多次引發外部討論。合夥人組織進行了認真討論並形成一致判斷，強調"無論什麼情況下，無論任務多麼緊迫"都不應該出現這種管理，“這不是阿里文化倡導的方向”。 帖文指出，AI時代創新依靠的不是"高壓和機械執行"，而是員工的熱愛和創造力，只有充分尊重員工個體價值，才能真正創造客戶價值。管理者的職責是"遠見、主動擔當、團結和激勵團隊"，"培養人激發人是每個leader的責任"。AI 時代，人是最寶貴的財富，更需要堅持有情有義，培育開放、包容、多元的工作文化。（新浪科技）
+
+---
+
+### 2026-06-10 10:59:10  #公司
+
+【鴻博股份等在北京成立智算雲聯科技公司 註冊資本1000萬】天眼查App顯示，近日，北京鴻博智算雲聯科技有限公司成立，法定代表人為李寧，註冊資本1000萬人民幣，經營範圍包括軟體開發、人工智慧理論與演算法軟體開發、人工智慧應用軟體開發、網路與資訊保安軟體開發等。股東資訊顯示，該公司由鴻博股份（002229）、北京卓維數智科技發展中心（有限合夥）、上海雲程聚信企業管理合夥企業（有限合夥）共同持股。
+
+---
+
+### 2026-06-10 10:58:33  #其他
+
+【正式開工 國軒高科承建澳洲最大光儲直流耦合專案】近日，由國軒高科承建的澳洲Lower Wonga光儲一體化專案正式開工。該專案儲能規模達281MW/843MWh，是澳洲目前規模最大的光儲直流耦合專案之一，預計2028年底正式併網投運。未來，國軒高科將持續深化與Lightsource bp等國際頭部企業的戰略合作，拓展更多新能源標杆專案，穩步加快全球化戰略佈局。
+
+---
+
+### 2026-06-10 10:57:06  #國際
+
+印尼基準股指延續漲勢，漲幅達3.3%，報5935.72點。
+
+---
+
+### 2026-06-10 10:56:46  #國際
+
+【伊朗國足將在世界盃首戰前一日飛抵美國】伊朗足協9日說，參加2026美加墨世界盃的伊朗國足將在小組賽首戰對陣紐西蘭的前一天、即14日飛抵美國洛杉磯。根據世界盃賽程，伊朗隊三場小組賽將在美國境內進行，分別是6月15日和21日在洛杉磯對陣紐西蘭、比利時，6月26日在西雅圖對陣埃及。（新華社）
+
+---
+
+### 2026-06-10 10:56:30  #市場
+
+現貨黃金日內跌2%，現報4173.64美元/盎司。
+
+---
+
+### 2026-06-10 10:56:30  #市場 #觀點
+
+黃金股震盪走弱，招金黃金跌超6%，赤峰黃金跌超5%，湖南黃金、中金黃金、四川黃金、曉程科技、西部黃金跌幅居前。
+
+---
+
+### 2026-06-10 10:56:04  #Trading Economics #Markets #China #stocks #Importance 1
+
+CNOOC Stock Price Hits 8-week Low — CNOOC shares decreased to 25.88 HKD, the lowest since April 2026. Over the past 4 weeks, CNOOC lost 2.56%, and in the last 12 months, it increased 37.29%.
+
+---
+
+### 2026-06-10 10:54:29  #MKT News
+
+【EU Copernicus: May was second-warmest on record globally】The Copernicus Climate Change Service said in a June 10 bulletin that May was the second-warmest May on record. Global mean surface temperature for May was 15.81 C, 0.55 C above the 1991–2020 average and 1.42 C above pre-industrial levels, trailing only May 2024. An El Nifio expected to form in coming months could trigger extreme weather across multiple regions.
 
 ---
 
@@ -21400,83 +21490,5 @@ Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Jun) | a
 ### 2026-06-09 08:29:51  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Futures Edge Lower After Tech-Led Rebound — US stock futures eased on Tuesday after the S&P 500 and Nasdaq Composite opened the week higher, supported by a rebound in technology shares. In regular trading on Monday, the S&P 500 and Nasdaq Composite gained 0.3% and 0.86%, respectively, recovering part of the previous session’s losses, while the Dow slipped 0.16%. Technology, energy, and consumer discretionary stocks led the advance, whereas utilities, real estate, and materials underperformed. Chipmakers drove much of the rally, with shares of Micron Technology (+9.9%), Nvidia (+1.7%), Marvell Technology (+9.6%), Intel (+11.2%), and Advanced Micro Devices (+5.1%) posting solid gains. Investors are now awaiting earnings reports from Casey’s General Stores, J.M. Smucker, and Designer Brands, among others, due Tuesday. Later this week, the latest US CPI and PPI data will offer further insight into the Federal Reserve’s interest rate outlook.
-
----
-
-### 2026-06-09 08:29:38  #國際
-
-韓國交易所啟動科斯達克（KOSDAQ）買入側車機制，程式交易暫停5分鐘。
-
----
-
-### 2026-06-09 08:28:39  #公司 #市場
-
-【電子布價格持續飆高 8家上市公司佈局電子布業務】據央視財經報道，今年以來，算力需求爆發，帶動電子布價格大幅上漲。截至6月初，市場上常用規格的電子布已經完成年內5輪提價，均價達7.4元/米，與去年三季度的低點相比，漲幅達到100%。由於電子布對生產裝置和工藝控制要求很高，客觀上制約了產能的擴張節奏。據證券時報·資料寶統計，A股市場約有8家上市公司佈局電子布相關業務。二季度以來（截至6月5日），融資資金加倉多隻電子布概念股，中國巨石、菲利華、中材科技、國際復材融資淨買入額依次為19.45億元、7.03億元、5.15億元、3.98億元。
-
----
-
-### 2026-06-09 08:27:52  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-Euro Stoxx 50 futures fell 0.6%, DAX futures fell 0.5% and FTSE 100 futures fell 0.3%.
-
----
-
-### 2026-06-09 08:27:30  #其他
-
-【銀河證券：利空落地 佈局REIT修復視窗】銀河證券指出，5月末4只商業不動產REITs集中認購進入尾聲，機構打新的資金騰挪行為基本落地，前期壓制價格的短期利空充分反映在估值中，市場拋壓收斂後估值修復機會直接驅動二級市場觸底反彈。截至6月4日，中證REITs全收益指數連續五個交易日震盪上行，較5月28日回升達到1.9%，募資落地帶來的資金衝擊基本兌現，短期基本面邊際改善支撐修復行情。同時，4只產品距離正式上市仍有2周左右間隔，上市前暫無新增集中募資擠佔流動性，市場或迎來階段性估值修復視窗期。而後續持續的修復向好行情仍要看長線增量資金入市配套政策落地的情況，一是關注險資入市增持商業不動產REITs時點、二是5月中旬申報的REITs指數基金獲批落地時點，7月前後或可期待。
-
----
-
-### 2026-06-09 08:27:00  #市場 #國際
-
-歐洲斯托克50指數期貨下跌0.6%，德國DAX指數期貨下跌0.5%，富時指數期貨下跌0.3%。
-
----
-
-### 2026-06-09 08:26:50  #觀點
-
-【華泰證券策略：建議均衡配置四個方面】華泰證券策略指出，建議均衡配置：1、AI產業趨勢並未出現放緩跡象，短期調整可能提供加倉視窗，待擁擠度壓力釋放後低吸，建議關注光通訊、MLCC等；2、電力鏈繼續增配，超額收益或從下游電力運營商向中游電新制造和上游資源品輪動；3、一季報供需雙向改善、當前景氣持續性較好、且估值相對合理的補漲品種，如商用車、消費電子、小金屬、裝修建材、醫療服務等；4、適當配置煤炭、公用等紅利品種作為對沖。定量層面，我們的行業打分模型推薦消費電子、半導體、計算機裝置、化學纖維、航海裝備、證券、塑膠、電池、小金屬、旅遊及景區。
-
----
-
-### 2026-06-09 08:26:43  #央行 #國際
-
-日本經濟大臣城內實：希望日本央行繼續遵循關於抗擊通縮的聯合宣告，與政府保持緊密協作。利率上升可能透過多種渠道影響經濟，因此我們正密切關注相關動向。
-
----
-
-### 2026-06-09 08:26:17  #其他
-
-【黎以邊境衝突加劇 聯合國呼籲停火】當地時間8日，聯合國秘書長副發言人法爾漢·哈克就黎以局勢發表宣告，對近日的衝突升級表示深切憂慮，並敦促衝突各方保持克制，切實遵守此前達成的停火協議，避免外交努力毀於一旦。
-
----
-
-### 2026-06-09 08:26:12  #MKT News #USDJPY #Impact bullish #DXY
-
-KIUCHI said he hopes the Bank of Japan will continue close cooperation with the government and, in line with the joint statement, work together to tackle deflation.
-
----
-
-### 2026-06-09 08:26:12  #MKT News
-
-Japan finance minister KIUCHI said rising interest rates could affect the economy through multiple channels and should be closely monitored.
-
----
-
-### 2026-06-09 08:25:26  #MKT News #Macro & Rates
-
-When asked about BOJ rate-hike prospects, Kiuchi, Japan's minister for economic and fiscal policy, said specific monetary-policy decisions rest with the Bank of Japan.
-
----
-
-### 2026-06-09 08:25:13  #央行 #國際
-
-日本經濟大臣就日本央行加息前景被提問時表示，具體貨幣政策由日本央行自行決定。
-
----
-
-### 2026-06-09 08:24:58  #其他
-
-【長電科技推出新一代電源模組封測解決方案】6月9日，長電科技宣佈推出面向AI資料中心應用的新一代高密度3D電源模組封測解決方案。該方案依託長電科技的XDPKG-3DSiP三維系統級封裝技術，採用高密度多層互連與立體化模組整合設計，在有限封裝空間內實現功率器件、無源器件、互連結構與散熱路徑的協同最佳化，全面提升電源模組在功率密度、能效表現、熱管理和長期可靠性等方面的效能，為AI算力基礎設施提供更加高效穩定的底層支撐。
 
 ---

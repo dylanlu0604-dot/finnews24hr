@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-15 02:43:39_
-_本檔包含 3766 則快訊，約 662595 字_
+_更新時間：2026-06-15 03:11:58_
+_本檔包含 3772 則快訊，約 662344 字_
+
+---
+
+### 2026-06-15 03:11:33  #國際
+
+特朗普出席了白宮舉辦的首場大型體育賽事。
+
+---
+
+### 2026-06-15 03:10:21  #其他
+
+厄瓜多總檢察院：一名女檢察官在該國西部遭遇襲擊身亡。
+
+---
+
+### 2026-06-15 03:08:25  #MKT News
+
+Iran's parliament speaker said Lebanese fighters' sacrifices and Iran's assertive diplomacy have ensured Lebanon's sovereignty and territorial integrity.
+
+---
+
+### 2026-06-15 03:08:17  #MKT News
+
+Iran's parliament speaker says the enemy will never be able to take on any resistance front alone.
+
+---
+
+### 2026-06-15 03:02:12  #MKT News
+
+DR Congo reports confirmed Ebola cases have risen to 782.
+
+---
+
+### 2026-06-15 03:01:52  #其他
+
+剛果表示，埃博拉確診病例數已升至782例。
+
+---
+
+### 2026-06-15 03:00:31  #MKT News
+
+Mehr news agency reports the Iran Civil Aviation Organization said it has not issued any new NOTAMs restricting domestic flights.
+
+---
+
+### 2026-06-15 02:59:46  #國際
+
+伊朗議會議長卡利巴夫：敵人休想孤立地撼動抵抗陣線的根基分毫。黎巴嫩英勇鬥士的奮勇抗爭，加之伊朗強有力的外交舉措，必將捍衛黎巴嫩的主權與領土完整，粉碎以色列政權的瘋狂行徑與戰爭圖謀，無論對方如何巧言詭辯都無濟於事。
+
+---
+
+### 2026-06-15 02:52:27  #國際
+
+【伊朗西部地區機場航班暫停】據伊朗方面當地時間14日訊息，伊朗西部地區的機場航班已暫停，直至另行通知。據稱，此決定是基於當前情況作出的。伊朗尚未釋出官方航行通告。（央視新聞）
+
+---
+
+### 2026-06-15 02:52:12  #國際
+
+伊朗方面傳出未經證實的訊息：賽義德・賈利利已被解除最高領袖駐最高國家安全委員會代表一職，該職位由阿里・巴蓋裡・卡尼接任。若訊息屬實，此次人事變動大機率與賈利利反對伊朗與美國擬簽署的諒解備忘錄有關。
+
+---
+
+### 2026-06-15 02:50:05  #國際
+
+據救援人員訊息，以色列發動空襲，加沙地帶已有六人遇難。
+
+---
+
+### 2026-06-15 02:47:49  #國際
+
+【聯合國秘書長強烈譴責以色列襲擊黎巴嫩貝魯特】當地時間6月14日，聯合國秘書長古特雷斯就中東局勢發表宣告，強烈譴責以色列當日對黎巴嫩首都貝魯特發動襲擊。宣告中說，此次襲擊發生在停火協議仍然有效的情況下，而且正值美國與伊朗預計將達成協議、為透過和平方式解決這場衝突鋪平道路之際。古特雷斯表示，這場衝突正在對世界經濟造成嚴重破壞性影響。古特雷斯敦促各方在這一關鍵時刻保持最大限度的剋制。（央視新聞）
+
+---
+
+### 2026-06-15 02:47:03  #MKT News
+
+TASNIM NEWS reported flights have been canceled until further notice; no official NOTAM has yet been issued.
+
+---
+
+### 2026-06-15 02:46:46  #國際
+
+以色列國防軍表示，今日早些時候，真主黨在黎巴嫩南部向以軍部隊發射火箭彈，造成一名士兵中度受傷、另一名士兵受輕傷。
+
+---
+
+### 2026-06-15 02:45:56  #國際
+
+俄羅斯總統普京向特朗普致以生日祝福，稱他“才華橫溢，令人矚目”。
+
+---
+
+### 2026-06-15 02:45:02  #其他
+
+古巴：頻繁停電，就連聖體餅的製作工作也受到了影響。
 
 ---
 
@@ -22698,65 +22794,5 @@ Citigroup sets mid-2027 target for the STOXX Europe 600 at 700 points.
 ### 2026-06-12 14:47:33  #MKT News #Market Regions #Greater China
 
 30-year Chinese government bond futures (TL) main contract rose 0.30% intraday to 113.27 yuan.
-
----
-
-### 2026-06-12 14:47:17  #MKT News #Market Themes #China Tech Giants
-
-【Huawei releases HarmonyOS 7】Huawei officially released HarmonyOS 7 at the HarmonyOS Developer Conference 2026 on June 12.
-
----
-
-### 2026-06-12 14:46:55  #公司 #其他 #焦點
-
-【華為HarmonyOS 7正式釋出】6月12日舉行的華為鴻蒙開發者大會2026上，華為HarmonyOS 7正式釋出。
-
----
-
-### 2026-06-12 14:46:53  #公司 #市場
-
-【東北地區首單能源公募REITs啟動發行】6月12日，華泰三峽清潔能源封閉式基礎設施證券投資基金髮布招募說明書，正式啟動發行。該產品是我國東北地區首單獲批的能源公募REITs專案，後續將在上交所掛牌上市。據介紹，該專案發起人及原始權益人為A股上市公司三峽能源，基金管理人和專項計劃管理人為華泰證券資管。底層資產是三峽新能源大連市莊河Ⅲ海上風電專案，併網容量達29.88萬千瓦，是我國東北地區首個全容量併網的海上風電專案。
-
----
-
-### 2026-06-12 14:46:24  #市場 #焦點
-
-滬深兩市成交額超3萬億元，較上日此時放量6026億元。
-
----
-
-### 2026-06-12 14:46:00  #MKT News #Important #Market Regions #Europe & UK
-
-France May CPI final (MoM) 0.1% vs expected 0.1%; April 0.10%.
-
----
-
-### 2026-06-12 14:45:52  #MKT News
-
-France May final CPI YoY 2.4% (exp. 2.4%, prev. 2.4%).
-
----
-
-### 2026-06-12 14:45:50  #MKT News #Economic Calendar #Important
-
-France | CPI (MoM) (May) | actual 0.1% | consensus 0.1% | previous 0.10%
-
----
-
-### 2026-06-12 14:45:45  #MKT News #Economic Calendar #Important
-
-France | CPI (YoY) (May) | actual 2.4% | consensus 2.4% | previous 2.40%
-
----
-
-### 2026-06-12 14:45:28  #MKT News
-
-New York silver futures jumped 4.00% intraday to $66.57/oz.
-
----
-
-### 2026-06-12 14:45:24  #MKT News #Important
-
-【2026 Lujiazui Forum to host major project signings and policy releases】The 2026 Lujiazui Forum will be held June 17-18 and will feature a series of major project signings and policy releases. Eight plenary sessions will cover the main theme and seven focused topics: global financial governance reform and cooperation; strengthening functional, well-developed capital markets; Shanghai–Hong Kong financial coordination to advance higher-level opening; building a tech-finance full-life-cycle service system to support high-quality real economy growth; technology-driven financial sector development; improving the effectiveness and precision of inclusive finance; and sustainable financial innovation and cooperation under global governance frameworks.
 
 ---

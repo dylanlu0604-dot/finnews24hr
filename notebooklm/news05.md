@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-15 02:43:39_
-_本檔包含 3896 則快訊，約 662322 字_
+_更新時間：2026-06-15 03:11:58_
+_本檔包含 3884 則快訊，約 661905 字_
+
+---
+
+### 2026-06-09 08:29:38  #國際
+
+韓國交易所啟動科斯達克（KOSDAQ）買入側車機制，程式交易暫停5分鐘。
+
+---
+
+### 2026-06-09 08:28:39  #公司 #市場
+
+【電子布價格持續飆高 8家上市公司佈局電子布業務】據央視財經報道，今年以來，算力需求爆發，帶動電子布價格大幅上漲。截至6月初，市場上常用規格的電子布已經完成年內5輪提價，均價達7.4元/米，與去年三季度的低點相比，漲幅達到100%。由於電子布對生產裝置和工藝控制要求很高，客觀上制約了產能的擴張節奏。據證券時報·資料寶統計，A股市場約有8家上市公司佈局電子布相關業務。二季度以來（截至6月5日），融資資金加倉多隻電子布概念股，中國巨石、菲利華、中材科技、國際復材融資淨買入額依次為19.45億元、7.03億元、5.15億元、3.98億元。
+
+---
+
+### 2026-06-09 08:27:52  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+Euro Stoxx 50 futures fell 0.6%, DAX futures fell 0.5% and FTSE 100 futures fell 0.3%.
+
+---
+
+### 2026-06-09 08:27:30  #其他
+
+【銀河證券：利空落地 佈局REIT修復視窗】銀河證券指出，5月末4只商業不動產REITs集中認購進入尾聲，機構打新的資金騰挪行為基本落地，前期壓制價格的短期利空充分反映在估值中，市場拋壓收斂後估值修復機會直接驅動二級市場觸底反彈。截至6月4日，中證REITs全收益指數連續五個交易日震盪上行，較5月28日回升達到1.9%，募資落地帶來的資金衝擊基本兌現，短期基本面邊際改善支撐修復行情。同時，4只產品距離正式上市仍有2周左右間隔，上市前暫無新增集中募資擠佔流動性，市場或迎來階段性估值修復視窗期。而後續持續的修復向好行情仍要看長線增量資金入市配套政策落地的情況，一是關注險資入市增持商業不動產REITs時點、二是5月中旬申報的REITs指數基金獲批落地時點，7月前後或可期待。
+
+---
+
+### 2026-06-09 08:27:00  #市場 #國際
+
+歐洲斯托克50指數期貨下跌0.6%，德國DAX指數期貨下跌0.5%，富時指數期貨下跌0.3%。
+
+---
+
+### 2026-06-09 08:26:50  #觀點
+
+【華泰證券策略：建議均衡配置四個方面】華泰證券策略指出，建議均衡配置：1、AI產業趨勢並未出現放緩跡象，短期調整可能提供加倉視窗，待擁擠度壓力釋放後低吸，建議關注光通訊、MLCC等；2、電力鏈繼續增配，超額收益或從下游電力運營商向中游電新制造和上游資源品輪動；3、一季報供需雙向改善、當前景氣持續性較好、且估值相對合理的補漲品種，如商用車、消費電子、小金屬、裝修建材、醫療服務等；4、適當配置煤炭、公用等紅利品種作為對沖。定量層面，我們的行業打分模型推薦消費電子、半導體、計算機裝置、化學纖維、航海裝備、證券、塑膠、電池、小金屬、旅遊及景區。
+
+---
+
+### 2026-06-09 08:26:43  #央行 #國際
+
+日本經濟大臣城內實：希望日本央行繼續遵循關於抗擊通縮的聯合宣告，與政府保持緊密協作。利率上升可能透過多種渠道影響經濟，因此我們正密切關注相關動向。
+
+---
+
+### 2026-06-09 08:26:17  #其他
+
+【黎以邊境衝突加劇 聯合國呼籲停火】當地時間8日，聯合國秘書長副發言人法爾漢·哈克就黎以局勢發表宣告，對近日的衝突升級表示深切憂慮，並敦促衝突各方保持克制，切實遵守此前達成的停火協議，避免外交努力毀於一旦。
+
+---
+
+### 2026-06-09 08:26:12  #MKT News #USDJPY #Impact bullish #DXY
+
+KIUCHI said he hopes the Bank of Japan will continue close cooperation with the government and, in line with the joint statement, work together to tackle deflation.
+
+---
+
+### 2026-06-09 08:26:12  #MKT News
+
+Japan finance minister KIUCHI said rising interest rates could affect the economy through multiple channels and should be closely monitored.
+
+---
+
+### 2026-06-09 08:25:26  #MKT News #Macro & Rates
+
+When asked about BOJ rate-hike prospects, Kiuchi, Japan's minister for economic and fiscal policy, said specific monetary-policy decisions rest with the Bank of Japan.
+
+---
+
+### 2026-06-09 08:25:13  #央行 #國際
+
+日本經濟大臣就日本央行加息前景被提問時表示，具體貨幣政策由日本央行自行決定。
+
+---
+
+### 2026-06-09 08:24:58  #其他
+
+【長電科技推出新一代電源模組封測解決方案】6月9日，長電科技宣佈推出面向AI資料中心應用的新一代高密度3D電源模組封測解決方案。該方案依託長電科技的XDPKG-3DSiP三維系統級封裝技術，採用高密度多層互連與立體化模組整合設計，在有限封裝空間內實現功率器件、無源器件、互連結構與散熱路徑的協同最佳化，全面提升電源模組在功率密度、能效表現、熱管理和長期可靠性等方面的效能，為AI算力基礎設施提供更加高效穩定的底層支撐。
 
 ---
 
@@ -23324,155 +23402,5 @@ The Israeli military said it detected a second wave of missiles launched from Ir
 ### 2026-06-08 03:12:08  #國際
 
 伊朗民眾慶祝針對以色列的導彈襲擊。
-
----
-
-### 2026-06-08 03:11:48  #國際
-
-以色列：所有導彈均已被攔截。
-
----
-
-### 2026-06-08 03:10:37  #國際
-
-伊朗方面訊息稱，伊朗已向以色列發射四枚導彈。
-
----
-
-### 2026-06-08 03:10:22  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Goldman Sachs: Strong labor market removes expectation of Fed cuts this year】Goldman Sachs economists said stronger-than-expected U.S. labor market means they no longer expect the Fed to cut rates this year. The bank pushed back its timing for the Fed’s final two cuts from Dec 2026 and Mar 2027 to Jun 2027 and Dec 2027. Chief U.S. economist David Mericle said inflation “seems unlikely to become self-sustaining,” keeping the odds of further Fed hikes low. May U.S. job gains beat forecasts, reinforcing market bets on additional tightening; Goldman raised the probability of a small hike this year from 10% to 20%. Its baseline still assumes two 25bp cuts next year, but the chance of that scenario was lowered from 40% to 30%. Goldman also revised down its U.S. unemployment forecast for this year to 4.4% from 4.6%.
-
----
-
-### 2026-06-08 03:10:07  #公司
-
-拉美航空執行長稱，飛機產能與市場需求難以在本十年結束前恢復平衡。
-
----
-
-### 2026-06-08 03:10:04  #公司
-
-拉美航空執行長表示，飛機及發動機供應鏈問題可能還會持續兩到三年。
-
----
-
-### 2026-06-08 03:09:47  #公司
-
-拉美航空執行長表示，資產負債表更疲軟、彈性出行敞口更大的航空公司將面臨更多挑戰。
-
----
-
-### 2026-06-08 03:09:40  #公司
-
-拉美航空執行長表示，受燃油危機影響，該航空公司的融資成本已在上升。
-
----
-
-### 2026-06-08 03:09:33  #公司
-
-拉美航空執行長表示，如果燃油衝擊延續至2027年，航空業可能需要進一步削減運力。
-
----
-
-### 2026-06-08 03:08:49  #焦點 #國際
-
-【以軍稱監測到伊朗導彈來襲】當地時間7日晚，以色列國防軍稱，監測到伊朗向以色列發射導彈。以色列北部多地拉響防空警報。（新華社）
-
----
-
-### 2026-06-08 03:08:31  #國際
-
-以色列軍方表示，伊朗發射導彈後，多個地區已響起空襲警報。
-
----
-
-### 2026-06-08 03:06:20  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-Israel's Channel 13, citing a senior official, said fire from Iran into Israeli territory would signal a declaration of renewed war.
-
----
-
-### 2026-06-08 03:06:13  #國際
-
-以色列國防軍發言人： 不久前，我方監測到從伊朗射向以色列本土的導彈，全國多個區域隨即拉響防空警報。 請民眾嚴格遵照本土前線司令部的指示行動。目前空軍已展開行動，開展攔截與必要反擊，消除威脅。 防空體系並非萬無一失，請務必持續遵守本土前線司令部的相關指引。
-
----
-
-### 2026-06-08 03:04:51  #MKT News
-
-Israeli military says defensive systems are operating to intercept threats.
-
----
-
-### 2026-06-08 03:04:15  #MKT News
-
-Israel's Channel 12 reports all schools nationwide will be closed tomorrow.
-
----
-
-### 2026-06-08 03:04:10  #國際
-
-以色列軍方表示，其防禦系統正在運轉，以攔截威脅。
-
----
-
-### 2026-06-08 03:03:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israeli military says it detected missiles launched from Iran toward northern settlements.
-
----
-
-### 2026-06-08 03:03:20  #國際
-
-以色列警報平臺：初步訊息，導彈從克爾曼沙阿地區發射。
-
----
-
-### 2026-06-08 03:03:15  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israel sounded missile alerts after Iran launched missiles.
-
----
-
-### 2026-06-08 03:03:07  #焦點 #國際
-
-伊朗發動導彈襲擊，以色列北部已釋出預警。
-
----
-
-### 2026-06-08 02:58:38  #公司
-
-【勃林格殷格翰推出保肌肉減肥藥，角逐競爭激烈的減重藥物市場】勃林格殷格翰正推廣其一款在研減肥藥，該藥物可幫助患者減脂同時保留肌肉，有望在競爭白熱化的減重藥市場中形成差異化優勢。該公司週日表示，一項大型臨床試驗的分析資料顯示，蘇沃杜肽可使內臟脂肪（堆積在腹腔臟器周圍的有害脂肪）最高減少34%。使用最高劑量藥物時，全身組織總量變化中，肌肉等瘦體重佔比不超過10.8%，同時肝臟脂肪降幅超60%。
-
----
-
-### 2026-06-08 02:57:26  #焦點 #國際
-
-以色列國防軍發言人： 以軍正做好防備，應對未來數小時內可能出現的針對以色列領土的襲擊。
-
----
-
-### 2026-06-08 02:55:43  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Israel is on heightened alert against potential Hezbollah retaliation after airstrikes in Beirut, Channel 13 reported, citing sources.
-
----
-
-### 2026-06-08 02:50:23  #國際
-
-真主黨稱襲擊了以色列北部的軍事目標。
-
----
-
-### 2026-06-08 02:47:51  #公司 #觀點 #央行 #國際
-
-【高盛：預計美聯儲今年不再降息】受就業市場表現強於預期影響，高盛集團經濟學家現已判斷，美聯儲今年不會降息。該行將美聯儲最後兩輪降息的預期時間，從此前的2026年12月、2027年3月，推遲至2027年6月和12月。高盛仍認為美聯儲加息機率偏低，但鑑於美聯儲官員立場轉向鷹派、經濟走勢保持韌性，該行將小幅加息的機率從10%上調至20%。
-
----
-
-### 2026-06-08 02:47:08  #公司
-
-阿聯酋阿提哈德航空表示，由於其他航司取消訂單，該公司得以提前接收部分從波音、空客採購的新飛機。
 
 ---

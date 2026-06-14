@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-15 02:43:39_
-_本檔包含 3588 則快訊，約 662669 字_
+_更新時間：2026-06-15 03:11:58_
+_本檔包含 3591 則快訊，約 662333 字_
+
+---
+
+### 2026-06-12 14:47:17  #MKT News #Market Themes #China Tech Giants
+
+【Huawei releases HarmonyOS 7】Huawei officially released HarmonyOS 7 at the HarmonyOS Developer Conference 2026 on June 12.
+
+---
+
+### 2026-06-12 14:46:55  #公司 #其他 #焦點
+
+【華為HarmonyOS 7正式釋出】6月12日舉行的華為鴻蒙開發者大會2026上，華為HarmonyOS 7正式釋出。
+
+---
+
+### 2026-06-12 14:46:53  #公司 #市場
+
+【東北地區首單能源公募REITs啟動發行】6月12日，華泰三峽清潔能源封閉式基礎設施證券投資基金髮布招募說明書，正式啟動發行。該產品是我國東北地區首單獲批的能源公募REITs專案，後續將在上交所掛牌上市。據介紹，該專案發起人及原始權益人為A股上市公司三峽能源，基金管理人和專項計劃管理人為華泰證券資管。底層資產是三峽新能源大連市莊河Ⅲ海上風電專案，併網容量達29.88萬千瓦，是我國東北地區首個全容量併網的海上風電專案。
+
+---
+
+### 2026-06-12 14:46:24  #市場 #焦點
+
+滬深兩市成交額超3萬億元，較上日此時放量6026億元。
+
+---
+
+### 2026-06-12 14:46:00  #MKT News #Important #Market Regions #Europe & UK
+
+France May CPI final (MoM) 0.1% vs expected 0.1%; April 0.10%.
+
+---
+
+### 2026-06-12 14:45:52  #MKT News
+
+France May final CPI YoY 2.4% (exp. 2.4%, prev. 2.4%).
+
+---
+
+### 2026-06-12 14:45:50  #MKT News #Economic Calendar #Important
+
+France | CPI (MoM) (May) | actual 0.1% | consensus 0.1% | previous 0.10%
+
+---
+
+### 2026-06-12 14:45:45  #MKT News #Economic Calendar #Important
+
+France | CPI (YoY) (May) | actual 2.4% | consensus 2.4% | previous 2.40%
+
+---
+
+### 2026-06-12 14:45:28  #MKT News
+
+New York silver futures jumped 4.00% intraday to $66.57/oz.
+
+---
+
+### 2026-06-12 14:45:24  #MKT News #Important
+
+【2026 Lujiazui Forum to host major project signings and policy releases】The 2026 Lujiazui Forum will be held June 17-18 and will feature a series of major project signings and policy releases. Eight plenary sessions will cover the main theme and seven focused topics: global financial governance reform and cooperation; strengthening functional, well-developed capital markets; Shanghai–Hong Kong financial coordination to advance higher-level opening; building a tech-finance full-life-cycle service system to support high-quality real economy growth; technology-driven financial sector development; improving the effectiveness and precision of inclusive finance; and sustainable financial innovation and cooperation under global governance frameworks.
 
 ---
 
@@ -21553,47 +21613,5 @@ Korea Exchange (KRX) activated the SIDECAR mechanism and suspended programmatic 
 ### 2026-06-11 12:59:42  #公司
 
 【極兔回應被立案調查：高度重視，全面整改】關於國家郵政局依法對極兔速遞有限公司立案調查一事，極兔回應：極兔速遞中國區高度重視，誠懇接受，堅決服從、全力配合主管部門依法依規開展的各項調查工作。極兔方面強調，安全生產是企業不可逾越的紅線。極兔中國對照關於安全生產的重要指示深刻反思，深感作為品牌總部，在對使用“極兔速遞”商標、字號、快遞運單經營的部分企業落實安全保障統一管理責任方面存在差距和不足，教訓深刻。對此，極兔中國誠懇接受監督。（21世紀經濟報道）
-
----
-
-### 2026-06-11 12:59:26  #國際
-
-韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買入。
-
----
-
-### 2026-06-11 12:58:00  #其他
-
-貝倫貝格：將路威酩軒目標價從560歐元下調至420歐元。
-
----
-
-### 2026-06-11 12:56:43  #其他
-
-【新研究：血液檢測可助結腸癌術後精準治療】德國德累斯頓大學醫院牽頭開展的一項臨床研究發現，檢測Ⅱ期結腸癌患者術後血液中的迴圈腫瘤DNA，或可幫助識別復發風險，併為術後輔助化療決策提供依據。相關研究成果日前發表在《腫瘤學年鑑》雜誌上。（新華社）
-
----
-
-### 2026-06-11 12:56:38  #其他
-
-【江蘇召開持續最佳化民營經濟金融服務工作會議：提高上市融資和債券發行等直接融資比重 培育壯大私募股權、保險資金等耐心資本】6月10日，持續最佳化民營經濟金融服務工作會議在南京召開。省委常委、常務副省長馬欣出席並講話。會議指出，將支援民營經濟發展擺在突出位置，作為推動高質量發展的關鍵抓手，落細落實最佳化民營經濟金融服務“20條”措施，進一步密切政銀企對接聯動，不斷提升金融服務民營經濟質效，支援民營經濟發展壯大，為完成上半年和全年經濟社會發展目標任務提供有力支撐。會議強調，要進一步拓寬融資渠道，豐富金融供給，做強信貸融資主渠道，積極推廣“四貸聯動”模式，提高上市融資和債券發行等直接融資比重，培育壯大私募股權、保險資金等耐心資本。要進一步健全金融服務體系，壯大金融服務主體力量，重點強化資料賦能支撐，夯實擔保增信、保險分險等保障基礎。要進一步強化激勵約束，落實好普惠金融盡職免責要求，合理放寬民營小微企業不良容忍度，持續最佳化評價激勵體系。
-
----
-
-### 2026-06-11 12:55:01  #公司
-
-貝倫貝格銀行將開雲集團目標股價從190歐元下調至175歐元。
-
----
-
-### 2026-06-11 12:54:46  #公司
-
-【墨西哥5名警察世界盃前夕遭槍殺 】2026美加墨世界盃開幕前夕，墨西哥5名警察10日在西部米卻肯州遭槍殺，另有5名警察受傷。據州政府通報，遇害者在米卻肯州納瓦岑市遭身份不明武裝人員襲擊，當地是一些販毒集團的據點，黑幫暴力活動猖獗。法新社獲得的現場圖片顯示，遇害警察乘坐的皮卡車車身佈滿彈孔。 該州安全部門表示，警方正在追查襲擊者。
-
----
-
-### 2026-06-11 12:54:38  #Trading Economics #Markets #Indonesia #Currency #Importance 1
-
-Rupiah Eases Amid Dollar Strength — The Indonesian rupiah edged lower toward IDR 17,980 per U.S. dollar on Thursday after briefly strengthening below IDR 17,900 in the previous session. The local currency came under renewed pressure as the U.S. dollar index hovered near a two-month high, with investors seeking safe-haven assets following fresh U.S. strikes on Iran. Meanwhile, domestic sentiment weakened after new data showed annual retail sales fell for the first time in a year during April, underscoring the drag from higher non-subsidized fuel prices on household spending. Traders largely dismissed Bank Indonesia’s projection that the currency could strengthen to 16,800–17,500 next year, with near-term focus on inflation risks and potential policy tightening. Ahead of next week’s policy meeting, Governor Perry Warjiyo said the board is still weighing whether another rate hike is needed after a total increase of 75 bps since May, stressing that any further action will hinge on incoming data and market developments.
 
 ---
