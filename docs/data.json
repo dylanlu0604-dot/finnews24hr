@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-14 22:10:08",
-  "count": 18249,
+  "updated": "2026-06-14 22:14:26",
+  "count": 18254,
   "items": [
+    {
+      "id": "mkt:019ec679-981f-7dd8-aff2-931172f18c70",
+      "time": "2026-06-14 22:11:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli military is preparing for possible incoming fire against Israel over the next few hours; forces say they are ready for both defensive and offensive scenarios."
+    },
+    {
+      "id": "mkt:019ec679-4e85-7dd8-aff2-8a4bf1a39373",
+      "time": "2026-06-14 22:11:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fars News Agency: sources close to the talks say Iran is conveying its desired terms to the U.S. via a Qatari team; no final agreement has been reached."
+    },
+    {
+      "id": "4934529",
+      "time": "2026-06-14 22:11:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗方面表示，不會在特朗普設定的最後期限前簽署任何協議。"
+    },
+    {
+      "id": "mkt:019ec678-b0ac-7dd8-aff2-86e6f68fe870",
+      "time": "2026-06-14 22:10:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "According to Iranian Fars news agency, sources close to the talks said Iran was relaying messages to the U.S. via Qatari intermediaries prior to an Israeli airstrike on the southern suburbs of Beirut."
+    },
+    {
+      "id": "4934528",
+      "time": "2026-06-14 22:10:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍進入高度戒備狀態，針對各類突發情況嚴陣以待。"
+    },
+    {
+      "id": "4934527",
+      "time": "2026-06-14 22:09:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社援引記者訊息稱，伊朗正透過在德黑蘭的卡達團隊向美方轉達其希望納入協議的條款，目前一切尚未敲定。"
+    },
+    {
+      "id": "4934526",
+      "time": "2026-06-14 22:09:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：目前本土前線指揮部相關指引暫無調整。"
+    },
     {
       "id": "4934525",
       "time": "2026-06-14 22:09:20",
@@ -167858,23 +167925,6 @@
         "其他"
       ],
       "text": "【廣東啟動水利防汛Ⅳ級應急響應】據廣東省水利廳訊息，根據氣象、水文部門預報，6月7日夜間—9日，廣東省有一次大雨到暴雨區域性大暴雨或特大暴雨降水過程，暴雨區內部分中小河流可能發生超警洪水，山洪災害發生風險較高。為切實做好全省強降雨防禦工作，根據《廣東省水利廳水旱災害防禦應急響應工作規則》，省水利廳水旱災害防禦領導小組定於6月7日20時啟動水利防汛Ⅳ級應急響應。"
-    },
-    {
-      "id": "4922030",
-      "time": "2026-06-07 22:12:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "巴拿馬Copa航空執行長表示，公司目前“只能接受”更高的燃油成本，公司已對收益作出調整，但調整幅度未能100%覆蓋燃油成本上漲。"
-    },
-    {
-      "id": "4922029",
-      "time": "2026-06-07 22:11:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴拿馬Copa航空執行長：儘管近期油價震盪，公司暫無燃油套期保值計劃。"
     }
   ]
 }
