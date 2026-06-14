@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-15 01:45:07_
-_本檔包含 3577 則快訊，約 661770 字_
+_更新時間：2026-06-15 02:43:39_
+_本檔包含 3586 則快訊，約 662555 字_
+
+---
+
+### 2026-06-11 12:54:31  #其他
+
+貝倫貝格銀行將愛馬仕目標股價從2600歐元下調至1850歐元。
+
+---
+
+### 2026-06-11 12:52:33  #國際
+
+【俄國際海軍展會無人系統成焦點】10日，為期4天的俄羅斯國際海軍沙龍“艦隊-2026”展會在聖彼得堡開幕。該展會由俄工貿部和國防部聯合主辦，集中展示俄海軍裝備，共有210家來自俄羅斯和其他國家的軍工企業參展，27個國家派出了代表團。除傳統海軍艦艇之外，今年展會的關注重點是海上無人系統的發展。 （央視軍事）
+
+---
+
+### 2026-06-11 12:51:07  #MKT News
+
+【Astronomers detect flickering in earliest-known quasar】U.S. astronomers have detected intermittent flickering from a distant quasar dating to the cosmic dawn, about 850 million years after the Big Bang — the earliest such flicker observed. Brightness variations indicate the central supermassive black hole is surrounded by a geometrically thin, optically thick accretion disk: a flattened but very dense, radiation-trapping disk. Researchers report the thin-disk configuration persists even when accretion rates approach the theoretical maximum, a finding that informs models of early supermassive black hole growth.
+
+---
+
+### 2026-06-11 12:50:54  #其他
+
+【中消協已關注鵝腿阿姨事件】近日，“鵝腿阿姨”被舉報賣鴨腿事件，持續引發關注。不少購買過其產品的學子感到被欺騙。對此，6月11日上午，記者以消費者身份致電中國消費者協會，工作人員表示，中消協已關注到此事，將蒐集相關線索，統一彙總成相關情況說明。目前，已有相關行政部門介入調查，中消協將把情況彙總給相關行政部門。 6月10日，“鵝腿阿姨”陳秀鳳曾回應中國新聞週刊，她表示，“鵝腿阿姨”只是多年形成的習慣叫法，“我最早在北大校內賣水果，那時大家都喊我‘水果阿姨’，後來改賣烤腿，就成了如今的‘鵝腿阿姨’。但是賣鴨腿，叫‘鴨腿阿姨’，我感覺不好聽，我說還是叫‘鵝腿阿姨’。” （中國新聞週刊）
+
+---
+
+### 2026-06-11 12:50:44  #市場 #焦點
+
+WTI原油失守91美元/桶，日內漲1.08%。
+
+---
+
+### 2026-06-11 12:49:03  #公司 #市場
+
+【星展集團計劃推出代幣化實物黃金以順應需求增長】正值新加坡旨在加強其作為貴金屬中心地位之際，該國星展集團(DBS Group)正計劃推出代幣化實物黃金。該行週四表示，星展集團的實物黃金代幣是新加坡首個此類產品，將允許零售客戶以數字方式獲取、持有和交易代幣化實物黃金。代幣化意味著一項真實資產的所有權由一枚可以進行電子交易的區塊鏈代幣來代表。該行表示，每一枚代幣都由星展集團存放在新加坡金庫中的一克實物黃金為支撐，這些代幣將於下半年透過該行的數字應用程式推出。
+
+---
+
+### 2026-06-11 12:48:31  #國際
+
+【天文學家探測到極早期宇宙類星體的“閃爍”】美國天文學家發現一個遙遠類星體會忽明忽暗地閃爍，它來自“宇宙黎明”時期，即大爆炸後僅8.5億年。這是迄今探測到的最早的閃爍類星體，其亮度變化可幫助揭示幼年宇宙中的超大質量黑洞是怎樣形成的。 相關論文日前發表在英國《自然-天文學》雜誌上。  （新華社）
+
+---
+
+### 2026-06-11 12:48:13  #市場 #焦點
+
+布倫特原油失守94美元/桶，日內漲0.96%。
+
+---
+
+### 2026-06-11 12:48:13  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+WTI crude down 1.0% intraday at $91.76/bbl. Brent crude slipped 0.8% on the day to below $93/bbl.
+
+---
+
+### 2026-06-11 12:46:50  #公司 #市場 #國際
+
+【受金屬市場疲軟影響 澳大利亞礦業股跌至逾一個月低點】澳大利亞礦業股指數一度下跌2.8%，創下5月5日以來的最低點。若當前走勢持續，該子指數將連續第五個交易日下跌。鐵礦石期貨下跌，中東衝突升級推高油價並引發對全球經濟增長的擔憂，銅價亦隨之下跌。澳交所上市的美國鋁業公司和奧拉班達礦業公司領跌，分別下跌8.2%和7.3%。指數權重股力拓集團、福特斯克礦業和必和必拓各自下跌1%至2%。
+
+---
+
+### 2026-06-11 12:45:20  #公司 #觀點 #國際
+
+【摩根士丹利：印度信實集團在人工智慧領域的投資回報率可能超過12%】摩根士丹利預計，信實的AI/資料中心業務將實現超過12%的資本回報率（ROCE），約為過去十年其電信和消費類投資回報率的兩倍報告補充稱，信實計劃在七年內投入1,100億美元用於人工智慧，這一規模與該公司此前在消費業務上的投入相當。週三，Meta 表示將租賃一座由穆克什·安巴尼旗下公司建造的AI就緒資料中心。
+
+---
+
+### 2026-06-11 12:45:13  #其他
+
+【腦虎科技“三全”腦機介面完成異地對弈驗證，全鏈路延時低於50毫秒】6月11日，介面新聞從腦虎科技獲悉，兩名分別位於滬贛兩地的高位截癱患者，透過其自研“全植入、全無線、全功能”腦機介面系統完成了異地象棋對弈。試驗中，受試者無肢體動作，憑神經訊號透過虛擬棋盤與外骨骼手套控制棋子，全鏈路延時在50毫秒以內，驗證了該系統在真實動態場景下的實時解碼魯棒性與精細運動輔助能力。
+
+---
+
+### 2026-06-11 12:43:58  #MKT News
+
+South Korea's KOSPI rose 0.3%, erasing earlier losses.
+
+---
+
+### 2026-06-11 12:43:54  #其他
+
+【應急管理部：今年計劃招錄消防員17000名】記者11日從應急管理部獲悉，國家綜合性消防救援隊伍2026年度消防員招錄工作近日啟動。今年消防員招錄計劃17000名，其中城鄉消防救援隊伍14150名，機動消防救援隊伍2850名；面向高校應屆畢業生、退役士兵、社會青年三類人員分別招錄5667名、5667名、5666名。（新華社）
+
+---
+
+### 2026-06-11 12:42:52  #市場 #國際
+
+韓國綜合股價指數上漲0.3%，抹去早前的跌幅。
+
+---
+
+### 2026-06-11 12:42:19  #公司 #市場 #國際
+
+【中韓半導體ETF華泰柏瑞：本基金將於2026年6月11日下午開市起至當日收市停牌】近期，華泰柏瑞基金管理有限公司（以下簡稱“本公司”）旗下華泰柏瑞中證韓交所中韓半導體交易型開放式指數證券投資基金(QDII）（擴位證券簡稱：中韓半導體 ETF 華泰柏瑞，交易程式碼：513310，以下簡稱“本基金”）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。 為保護投資者的利益，本基金將於 2026 年 6 月 11 日開市起至當日 10:30 停牌。若本基金午間收盤二級市場交易價格溢價幅度仍處於較高水平，本基金有權向上海證券交易所申請 2026 年 6 月 11 日下午盤中臨時停牌至收盤的措施以向市場警示風險，具體以屆時公告為準。
+
+---
+
+### 2026-06-11 12:42:18  #MKT News #Market Regions #Japan & APAC
+
+Japan's 5-year bond yield fell 1.5 bps to 1.920%.
+
+---
+
+### 2026-06-11 12:42:16  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan's 40-year government bond yield rose 3.0 bps to 3.765%.
+
+---
+
+### 2026-06-11 12:42:15  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #XAUUSD #Impact mixed
+
+【Market analysis: ECB poised to hike on June 11; further July risk】BMO analysts say some ECB governing council members are inclined to act and expect a rate hike at the June 11 meeting, with a risk of a follow-up increase as early as July. Since the outbreak of the Iran conflict, the RESERVE BANK OF AUSTRALIA and NORWAY C.BANK have already tightened, and the ECB would be the first G7 central bank to move. Eurozone inflation has not eased since the last meeting; worries that the Iran conflict’s duration or a fragile peace could boost inflation expectations and wage pressures, alongside rising stagnation risk, are prompting a shift toward tightening. The ECB must tread carefully, but additional hikes remain possible.
+
+---
+
+### 2026-06-11 12:41:24  #MKT News
+
+Huatai-PineBridge said its China-Korea Semiconductor ETF will be suspended from the afternoon market open on June 11, 2026, until market close the same day.
+
+---
+
+### 2026-06-11 12:41:05  #市場 #國際
+
+5年期日本國債收益率下跌1.5個基點，至1.920%。
+
+---
+
+### 2026-06-11 12:40:51  #市場 #國際
+
+40年期日本國債收益率上漲3.0個基點，至3.765%。
+
+---
+
+### 2026-06-11 12:40:40  #國際
+
+【保加利亞稱將不再向烏克蘭提供武器保加利亞總理拉德夫6月10日在部長會議上說，保加利亞軍方將不再向烏克蘭提供武器。拉德夫認為，烏克蘭危機的外溢影響給保加利亞造成了嚴重的社會經濟損失。拉德夫認為，各方應以全面務實的態度看待俄烏之間的衝突，並尋求外交解決途徑。據保加利亞國家電臺報道，自烏克蘭危機升級以來，保加利亞國防部已向烏克蘭提供了13批武器援助，但援助的型別及其價值暫未公佈。
+
+---
+
+### 2026-06-11 12:40:26  #國際
+
+【機構：中東衝突之際泰銖似乎尤為脆弱】三菱日聯銀行的Lloyd Chan在一份報告中表示，隨著中東衝突持續，泰銖似乎尤為脆弱。泰國是該地區石油和天然氣淨貿易逆差最大的國家之一，這使其外部頭寸極易受到能源價格衝擊的影響。國內收益率也保持在相對較低的水平，而5月份整體通脹率升向3%，削弱了泰銖的實際套利吸引力。該高階匯率分析師表示：“貿易條件走弱和套利支撐有限的雙重因素，使得（泰銖）尤其容易面臨進一步的下行壓力，特別是在中東緊張局勢進一步升級的情況下。“
+
+---
+
+### 2026-06-11 12:40:20  #MKT News
+
+Local authorities said the fire at Russia's Afipsky refinery has been extinguished.
+
+---
+
+### 2026-06-11 12:38:51  #公司
+
+【鷹美(02368)釋出年度業績，股東應占溢利1.74億港元 同比減少20.1%】鷹美(02368)釋出截至2026年3月31日止年度業績，該集團取得營業收入50.2億港元，同比增加4.41%;公司擁有人應占溢利1.74億港元，同比減少20.1%；每股盈利30.2港仙，擬派發末期股息每股2港仙。
+
+---
+
+### 2026-06-11 12:38:35  #Trading Economics #Markets #India #Currency #Importance 1
+
+Indian Rupee Slips Amid Oil Surge — The Indian rupee fell to around 95.6 per dollar, giving up part of its recent gains as escalating tensions between Iran and the United States fueled a sharp rise in global oil prices. Earlier this week, the currency strengthened after dollar sales by state-owned banks, which traders believe were conducted on behalf of the Reserve Bank of India. Despite the RBI's efforts, traders cautioned that lasting stability in the rupee would depend heavily on developments in the energy market. Higher crude oil prices remain a major concern for India after Brent crude surged to about $95.50 per barrel following fresh US strikes on multiple targets in Iran overnight. Iran responded by announcing plans to close the Strait of Hormuz, while also declaring retaliatory attacks against 18 US military targets in Kuwait and Bahrain. The rupee also faces pressure from a weaker global risk environment, with US equities extending losses and boosting demand for the dollar.
 
 ---
 
@@ -21457,113 +21619,5 @@ CNOOC Stock Price Hits 8-week Low — CNOOC shares decreased to 25.88 HKD, the l
 ### 2026-06-10 10:54:29  #MKT News
 
 【EU Copernicus: May was second-warmest on record globally】The Copernicus Climate Change Service said in a June 10 bulletin that May was the second-warmest May on record. Global mean surface temperature for May was 15.81 C, 0.55 C above the 1991–2020 average and 1.42 C above pre-industrial levels, trailing only May 2024. An El Nifio expected to form in coming months could trigger extreme weather across multiple regions.
-
----
-
-### 2026-06-10 10:54:24  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時放量1192億元。
-
----
-
-### 2026-06-10 10:54:10  #其他
-
-【國臺辦回應島內有明顯赴大陸旅遊需求】國臺辦舉行例行新聞釋出會。有記者問：臺媒報道，島內旅行業協會近期紛紛表示，島內有明顯的赴大陸旅遊需求，喊話民進黨當局解除赴大陸旅遊“禁團令”及所謂“橙色警戒”，讓民眾與業者一起把旅遊市場做好，對此有何評論？ 國臺辦發言人張晗表示，有關報道充分反映了島內業界對恢復兩岸旅遊交流的強烈願望，表明民進黨當局推行的赴大陸旅遊“禁團令”等限制做法不得人心。據統計，2025年臺灣居民來大陸高達489萬人次。民進黨當局出於謀“獨”政治私利，對島內業者和民眾的呼聲充耳不聞，不僅損害了臺灣旅遊業者的生計，更剝奪了臺灣青年瞭解大陸真實面貌的機會。我們始終秉持兩岸一家親理念，推動恢復大陸居民赴臺旅遊並持續釋放善意，2024年以來先後恢復福建、上海居民赴金門、馬祖旅遊。希望民進黨當局正視民意，撤除政治藩籬，為兩岸人員往來和旅遊交流恢復正常創造有利條件。（中新網）
-
----
-
-### 2026-06-10 10:53:05  #國際
-
-【美國會透過預算案為聯邦移民執法機構提供資金】美國國會眾議院9日以微弱優勢透過一項總額近700億美元的預算案，該預算案將為美國國土安全部下屬移民與海關執法局和邊境巡邏隊提供資金。美國會參議院已於本月5日透過該預算案。 眾議院當天的表決結果為214票贊成、212票反對，投票幾乎完全按照黨派劃分，民主黨人都投了反對票。該法案隨後將提交總統特朗普簽署。 根據該預算案，未來三年將為移民與海關執法局和邊境巡邏隊撥款近700億美元。民主黨人對該預算案表示強烈反對。眾議院少數黨領袖哈基姆·傑弗里斯8日在社交媒體上發帖稱：“納稅人的錢應該用來改善普通美國人的生活。共和黨人卻想給移民與海關執法局開一張700億美元的空白支票，讓他們繼續對民眾施以暴行。眾議院民主黨人堅決反對。” 今年1月，兩名美國公民在明尼蘇達州最大城市明尼阿波利斯被聯邦執法人員槍殺，引發全美多地抗議，民主黨人一直要求對移民與海關執法局運作進行重大改革，但共和黨人予以拒絕，導致兩黨關於國土安全部撥款的談判陷入僵局，使該機構“停擺”兩個多月。 參議院多數黨領袖、共和黨人約翰·圖恩隨後提出一項獲特朗普支援的“雙軌”策略：先與民主黨達成兩黨協議，為國土安全部提供大部分資金撥款，然後利用所謂“預算協調程式”自行解決移民執法資金問題，確保移民與海關執法局、邊境巡邏隊的運作資金。該策略幫助破解了撥款法案無法獲透過的僵局。(新華社)
-
----
-
-### 2026-06-10 10:53:02  #MKT News #WTI #Impact bearish #Brent
-
-【China says UN Security Council has ceased consideration of Iran nuclear issue】China’s deputy UN ambassador Sun Lei said on the 9th the Security Council never agreed that the E3 (UK, France, Germany) are entitled to trigger a snapback of sanctions. He said UNSC Resolution 2231 expired on Oct. 18 last year and the Council has therefore ceased consideration of the Iran nuclear issue, accused some states of forcing meetings to restore sanctions under a terminated agenda item, and urged members to implement measures tied to Resolution 2231’s "termination day", safeguard Council authority and multilateral credibility, and create conditions for a political settlement.
-
----
-
-### 2026-06-10 10:52:57  #國際
-
-【中國代表強調安理會已終止審議伊朗核問題】中國常駐聯合國副代表孫磊9日在俄羅斯就安理會伊朗核問題公開會提出程式性表決時發言說，安理會從未就“歐三”（英國、法國、德國）是否有資格啟動“快速恢復制裁”機制達成一致，安理會第2231號決議已於去年10月18日到期終止，安理會已終止審議伊朗核問題。孫磊說，個別國家刻意忽視安理會成員分歧和關切、強行推動安理會恢復對伊朗制裁，強推安理會在已被終止的議題下舉行會議，對安理會的困難局面負有全部責任。當前形勢下，安理會應當發揮建設性作用，而不是一味強推制裁、對伊朗施壓，更不能成為個別國家推進自身政治議程的工具。中方呼籲安理會成員切實落實第2231號決議“終止日”有關措施，維護安理會權威和多邊外交信譽，為政治解決伊朗核問題創造有利條件。（新華社）
-
----
-
-### 2026-06-10 10:52:40  #國際
-
-巴林內政部10日發表宣告說，巴林再次拉響防空警報。 一小時前，巴林全國響起防空警報。伊朗伊斯蘭革命衛隊當時說，伊朗對位於巴林的美軍第五艦隊設施發動了無人機襲擊。（新華社）
-
----
-
-### 2026-06-10 10:52:24  #其他
-
-【深圳120米以下低空空域常態化全域開放 適飛空域覆蓋市域75%範圍】記者從深圳市低空經濟產業協會獲悉，前不久，深圳低空經濟迎來關鍵性空域改革突破。全市120米以下低空空域實現常態化全域開放，適飛空域覆蓋市域75%範圍，福田、南山、羅湖等中心城區全面納入常規飛行管理。此次大範圍空域鬆綁，徹底打破以往低空飛行“區域受限、場景小眾”的格局，業內普遍認為，這標誌著深圳低空經濟正式告別單一政策驅動的示範階段，從視窗展示走向常態落地、從零星試點走向規模普及，行業發展進入全新週期。（深圳特區報）
-
----
-
-### 2026-06-10 10:51:39  #MKT News #Market Regions #Emerging Markets
-
-Indonesia's benchmark stock index rose 3%.
-
----
-
-### 2026-06-10 10:51:24  #MKT News
-
-【Hong Kong proposes 2% pay rise for all civil servants】Hong Kong’s Secretary for the Civil Service said on June 9 that the Chief Executive and Executive Council agreed to propose a uniform 2% salary increase for all civil servants for the 2026-27 year, with the increase effective retroactively from April 1, 2026.
-
----
-
-### 2026-06-10 10:51:05  #MKT News #Market Regions #Greater China
-
-A-share trade sector saw localized moves as Suhao Huihong surged intraday to hit its daily price limit.
-
----
-
-### 2026-06-10 10:50:44  #市場 #國際
-
-印尼股市基準指數上漲3%至5920.67點。
-
----
-
-### 2026-06-10 10:50:02  #MKT News #Market Regions #Greater China #600519.SS #Impact bullish
-
-Kweichow Moutai shares rise more than 2% on the A-share market.
-
----
-
-### 2026-06-10 10:48:47  #其他
-
-【香港宣佈公務員加薪2%】6月9日，香港特區政府公務員事務局局長楊何蓓茵在記者會上表示，香港特區行政長官李家超會同行政會議在當天會議上討論了公務員的薪酬調整，決定向公務員職方提出2026年至2027年度香港全體公務員的薪酬劃一向上調2%，生效日期追溯至2026年4月1日。 楊何蓓茵表示，行政會議決定提出這方案，是經過全面考慮並平衡既定薪酬調整機制之下的所有相關因素，包括香港經濟狀況、生活費用變動、政府財政狀況、從薪酬趨勢調查計算出來的薪酬趨勢淨指標、公務員職方對薪酬調整的要求及公務員士氣。（南方日報）
-
----
-
-### 2026-06-10 10:46:42  #國際
-
-據美國媒體9日報道，伊朗向位於巴林、科威特和約旦的美軍基地發射了至少4枚導彈和數架無人機。（新華社）
-
----
-
-### 2026-06-10 10:46:05  #MKT News
-
-Bahrain's Interior Ministry has reactivated its alarm system.
-
----
-
-### 2026-06-10 10:45:21  #MKT News
-
-【Quanzhou-Kinmen 'Mini Three Links' passenger route marks 20th anniversary; China says 1.6m+ carried】China's Taiwan Affairs Office said on June 8 the Quanzhou-Kinmen 'Mini Three Links' passenger ferry marked its 20th anniversary. The route, which began service on June 8, 2006, has safely carried over 1.6 million passengers, the office said, serving as a key short-haul channel for Fujian–Taiwan people-to-people exchanges including family visits, roots-seeking, work and tourism.
-
----
-
-### 2026-06-10 10:44:00  #其他
-
-CPO等算力硬體股持續走低，長進光子跌超10%，騰景科技、通鼎互聯、中天科技、天孚通訊、光庫科技、中富電路等多股跌超6%。
-
----
-
-### 2026-06-10 10:42:44  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10-Year Yield Climbs After Strong PPI Data — Japan’s 10-year government bond yield rose to around 2.69% on Wednesday after falling in the previous session, as the country’s wholesale inflation accelerated at its fastest pace in three years due to surging energy costs. Japan’s producer prices increased 6.1% in May from a year earlier, following an upwardly revised 5.3% gain in April and coming in above market expectations of 5.5%. The stronger-than-expected data reinforced expectations that the Bank of Japan will raise interest rates next week as policymakers grapple with rising inflationary pressures driven by the Middle East conflict and the yen’s sharp weakness. Investors are also watching for hawkish comments from BOJ Governor Kazuo Ueda, with markets increasingly betting on another rate hike in September and the possibility of a third increase in December.
 
 ---

@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-15 01:45:07_
-_本檔包含 3575 則快訊，約 662265 字_
+_更新時間：2026-06-15 02:43:39_
+_本檔包含 3566 則快訊，約 662281 字_
+
+---
+
+### 2026-06-10 10:54:24  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量1192億元。
+
+---
+
+### 2026-06-10 10:54:10  #其他
+
+【國臺辦回應島內有明顯赴大陸旅遊需求】國臺辦舉行例行新聞釋出會。有記者問：臺媒報道，島內旅行業協會近期紛紛表示，島內有明顯的赴大陸旅遊需求，喊話民進黨當局解除赴大陸旅遊“禁團令”及所謂“橙色警戒”，讓民眾與業者一起把旅遊市場做好，對此有何評論？ 國臺辦發言人張晗表示，有關報道充分反映了島內業界對恢復兩岸旅遊交流的強烈願望，表明民進黨當局推行的赴大陸旅遊“禁團令”等限制做法不得人心。據統計，2025年臺灣居民來大陸高達489萬人次。民進黨當局出於謀“獨”政治私利，對島內業者和民眾的呼聲充耳不聞，不僅損害了臺灣旅遊業者的生計，更剝奪了臺灣青年瞭解大陸真實面貌的機會。我們始終秉持兩岸一家親理念，推動恢復大陸居民赴臺旅遊並持續釋放善意，2024年以來先後恢復福建、上海居民赴金門、馬祖旅遊。希望民進黨當局正視民意，撤除政治藩籬，為兩岸人員往來和旅遊交流恢復正常創造有利條件。（中新網）
+
+---
+
+### 2026-06-10 10:53:05  #國際
+
+【美國會透過預算案為聯邦移民執法機構提供資金】美國國會眾議院9日以微弱優勢透過一項總額近700億美元的預算案，該預算案將為美國國土安全部下屬移民與海關執法局和邊境巡邏隊提供資金。美國會參議院已於本月5日透過該預算案。 眾議院當天的表決結果為214票贊成、212票反對，投票幾乎完全按照黨派劃分，民主黨人都投了反對票。該法案隨後將提交總統特朗普簽署。 根據該預算案，未來三年將為移民與海關執法局和邊境巡邏隊撥款近700億美元。民主黨人對該預算案表示強烈反對。眾議院少數黨領袖哈基姆·傑弗里斯8日在社交媒體上發帖稱：“納稅人的錢應該用來改善普通美國人的生活。共和黨人卻想給移民與海關執法局開一張700億美元的空白支票，讓他們繼續對民眾施以暴行。眾議院民主黨人堅決反對。” 今年1月，兩名美國公民在明尼蘇達州最大城市明尼阿波利斯被聯邦執法人員槍殺，引發全美多地抗議，民主黨人一直要求對移民與海關執法局運作進行重大改革，但共和黨人予以拒絕，導致兩黨關於國土安全部撥款的談判陷入僵局，使該機構“停擺”兩個多月。 參議院多數黨領袖、共和黨人約翰·圖恩隨後提出一項獲特朗普支援的“雙軌”策略：先與民主黨達成兩黨協議，為國土安全部提供大部分資金撥款，然後利用所謂“預算協調程式”自行解決移民執法資金問題，確保移民與海關執法局、邊境巡邏隊的運作資金。該策略幫助破解了撥款法案無法獲透過的僵局。(新華社)
+
+---
+
+### 2026-06-10 10:53:02  #MKT News #WTI #Impact bearish #Brent
+
+【China says UN Security Council has ceased consideration of Iran nuclear issue】China’s deputy UN ambassador Sun Lei said on the 9th the Security Council never agreed that the E3 (UK, France, Germany) are entitled to trigger a snapback of sanctions. He said UNSC Resolution 2231 expired on Oct. 18 last year and the Council has therefore ceased consideration of the Iran nuclear issue, accused some states of forcing meetings to restore sanctions under a terminated agenda item, and urged members to implement measures tied to Resolution 2231’s "termination day", safeguard Council authority and multilateral credibility, and create conditions for a political settlement.
+
+---
+
+### 2026-06-10 10:52:57  #國際
+
+【中國代表強調安理會已終止審議伊朗核問題】中國常駐聯合國副代表孫磊9日在俄羅斯就安理會伊朗核問題公開會提出程式性表決時發言說，安理會從未就“歐三”（英國、法國、德國）是否有資格啟動“快速恢復制裁”機制達成一致，安理會第2231號決議已於去年10月18日到期終止，安理會已終止審議伊朗核問題。孫磊說，個別國家刻意忽視安理會成員分歧和關切、強行推動安理會恢復對伊朗制裁，強推安理會在已被終止的議題下舉行會議，對安理會的困難局面負有全部責任。當前形勢下，安理會應當發揮建設性作用，而不是一味強推制裁、對伊朗施壓，更不能成為個別國家推進自身政治議程的工具。中方呼籲安理會成員切實落實第2231號決議“終止日”有關措施，維護安理會權威和多邊外交信譽，為政治解決伊朗核問題創造有利條件。（新華社）
+
+---
+
+### 2026-06-10 10:52:40  #國際
+
+巴林內政部10日發表宣告說，巴林再次拉響防空警報。 一小時前，巴林全國響起防空警報。伊朗伊斯蘭革命衛隊當時說，伊朗對位於巴林的美軍第五艦隊設施發動了無人機襲擊。（新華社）
+
+---
+
+### 2026-06-10 10:52:24  #其他
+
+【深圳120米以下低空空域常態化全域開放 適飛空域覆蓋市域75%範圍】記者從深圳市低空經濟產業協會獲悉，前不久，深圳低空經濟迎來關鍵性空域改革突破。全市120米以下低空空域實現常態化全域開放，適飛空域覆蓋市域75%範圍，福田、南山、羅湖等中心城區全面納入常規飛行管理。此次大範圍空域鬆綁，徹底打破以往低空飛行“區域受限、場景小眾”的格局，業內普遍認為，這標誌著深圳低空經濟正式告別單一政策驅動的示範階段，從視窗展示走向常態落地、從零星試點走向規模普及，行業發展進入全新週期。（深圳特區報）
+
+---
+
+### 2026-06-10 10:51:39  #MKT News #Market Regions #Emerging Markets
+
+Indonesia's benchmark stock index rose 3%.
+
+---
+
+### 2026-06-10 10:51:24  #MKT News
+
+【Hong Kong proposes 2% pay rise for all civil servants】Hong Kong’s Secretary for the Civil Service said on June 9 that the Chief Executive and Executive Council agreed to propose a uniform 2% salary increase for all civil servants for the 2026-27 year, with the increase effective retroactively from April 1, 2026.
+
+---
+
+### 2026-06-10 10:51:05  #MKT News #Market Regions #Greater China
+
+A-share trade sector saw localized moves as Suhao Huihong surged intraday to hit its daily price limit.
+
+---
+
+### 2026-06-10 10:50:44  #市場 #國際
+
+印尼股市基準指數上漲3%至5920.67點。
+
+---
+
+### 2026-06-10 10:50:02  #MKT News #Market Regions #Greater China #600519.SS #Impact bullish
+
+Kweichow Moutai shares rise more than 2% on the A-share market.
+
+---
+
+### 2026-06-10 10:48:47  #其他
+
+【香港宣佈公務員加薪2%】6月9日，香港特區政府公務員事務局局長楊何蓓茵在記者會上表示，香港特區行政長官李家超會同行政會議在當天會議上討論了公務員的薪酬調整，決定向公務員職方提出2026年至2027年度香港全體公務員的薪酬劃一向上調2%，生效日期追溯至2026年4月1日。 楊何蓓茵表示，行政會議決定提出這方案，是經過全面考慮並平衡既定薪酬調整機制之下的所有相關因素，包括香港經濟狀況、生活費用變動、政府財政狀況、從薪酬趨勢調查計算出來的薪酬趨勢淨指標、公務員職方對薪酬調整的要求及公務員士氣。（南方日報）
+
+---
+
+### 2026-06-10 10:46:42  #國際
+
+據美國媒體9日報道，伊朗向位於巴林、科威特和約旦的美軍基地發射了至少4枚導彈和數架無人機。（新華社）
+
+---
+
+### 2026-06-10 10:46:05  #MKT News
+
+Bahrain's Interior Ministry has reactivated its alarm system.
+
+---
+
+### 2026-06-10 10:45:21  #MKT News
+
+【Quanzhou-Kinmen 'Mini Three Links' passenger route marks 20th anniversary; China says 1.6m+ carried】China's Taiwan Affairs Office said on June 8 the Quanzhou-Kinmen 'Mini Three Links' passenger ferry marked its 20th anniversary. The route, which began service on June 8, 2006, has safely carried over 1.6 million passengers, the office said, serving as a key short-haul channel for Fujian–Taiwan people-to-people exchanges including family visits, roots-seeking, work and tourism.
+
+---
+
+### 2026-06-10 10:44:00  #其他
+
+CPO等算力硬體股持續走低，長進光子跌超10%，騰景科技、通鼎互聯、中天科技、天孚通訊、光庫科技、中富電路等多股跌超6%。
+
+---
+
+### 2026-06-10 10:42:44  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10-Year Yield Climbs After Strong PPI Data — Japan’s 10-year government bond yield rose to around 2.69% on Wednesday after falling in the previous session, as the country’s wholesale inflation accelerated at its fastest pace in three years due to surging energy costs. Japan’s producer prices increased 6.1% in May from a year earlier, following an upwardly revised 5.3% gain in April and coming in above market expectations of 5.5%. The stronger-than-expected data reinforced expectations that the Bank of Japan will raise interest rates next week as policymakers grapple with rising inflationary pressures driven by the Middle East conflict and the yen’s sharp weakness. Investors are also watching for hawkish comments from BOJ Governor Kazuo Ueda, with markets increasingly betting on another rate hike in September and the possibility of a third increase in December.
 
 ---
 
@@ -21370,167 +21478,5 @@ When asked about BOJ rate-hike prospects, Kiuchi, Japan's minister for economic 
 ### 2026-06-09 08:24:58  #其他
 
 【長電科技推出新一代電源模組封測解決方案】6月9日，長電科技宣佈推出面向AI資料中心應用的新一代高密度3D電源模組封測解決方案。該方案依託長電科技的XDPKG-3DSiP三維系統級封裝技術，採用高密度多層互連與立體化模組整合設計，在有限封裝空間內實現功率器件、無源器件、互連結構與散熱路徑的協同最佳化，全面提升電源模組在功率密度、能效表現、熱管理和長期可靠性等方面的效能，為AI算力基礎設施提供更加高效穩定的底層支撐。
-
----
-
-### 2026-06-09 08:24:54  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Kiuchi said long-term interest rates are determined by market forces, including supply-demand dynamics and a moderate economic recovery.
-
----
-
-### 2026-06-09 08:24:39  #國際
-
-日本經濟大臣城內實：長期利率由市場決定，受供需關係等多種因素影響，日本經濟正處於溫和復甦階段。
-
----
-
-### 2026-06-09 08:24:07  #公司
-
-【黑芝麻智慧與上實科技達成戰略合作，共建具身智慧生態】6月8日，黑芝麻智慧與上海上實科技創業投資有限公司（簡稱“上實科技”）正式簽署戰略合作協議。雙方將圍繞具身智慧機器人生態構建和世界機器人超級加速器籌建兩大核心領域展開全方位合作，打造滬港聯動的具身智慧創新高地，推動具身智慧技術從實驗室走向規模化產業落地。
-
----
-
-### 2026-06-09 08:24:03  #公司
-
-【柬國航與海南機場股份公司簽署合作備忘錄】據柬埔寨國家航空訊息，6月8日，柬埔寨國家航空公司（Air Cambodia，柬國航）與海南機場股份公司簽署合作備忘錄，敲定柬埔寨—海南客運航線擴充規劃，同步佈局第五、第七航權跨境航線，深化中柬民航與文旅合作。
-
----
-
-### 2026-06-09 08:23:27  #宏觀
-
-【王清憲在合肥市調研時強調 打造協同高效的量子產業生態】據安徽日報，6月8日下午，省長王清憲赴合肥市調研量子產業發展工作。他強調，要聚焦打造協同高效的量子產業生態，統籌全要素一體化配置，建強高能級量子人才科創空間，促進產學研深度融合和協同創新，加快把量子科技優勢轉化為產業優勢，為因地制宜發展新質生產力注入強勁動能。調研中，王清憲主持召開座談會，對下一步工作提出要求。一是緊盯量子科技發展趨勢和國家戰略需求，持續凝鍊重點攻關任務和研發專案，加強基礎研究和關鍵核心技術攻關，努力形成更多原創性成果。二是紮實推進央企量子空間建設，出臺專項政策，強化協同創新，推動科研任務共擔、科研資源共用、減責免責共認、創新成果共享。三是持續打造用好平臺，辦好量子科技和產業大會，搭建世界級量子學術和產業交流釋出平臺，集聚更多高階創新資源。四是大力發展量子科技服務業，強化成果轉化和場景開放，加速技術驗證和跨行業融合，拓展量子科技在通訊、科研、能源、金融、氣象等領域示範應用。五是加大要素保障和體制機制創新力度，加快量子產業先導區建設，為各類主體發展拓展更廣闊空間。
-
----
-
-### 2026-06-09 08:23:14  #公司
-
-【瑞銀在全球重組中將亞洲ESG員工人數減半】據知情人士透露，作為全球大範圍重組的一部分，瑞銀集團近數月大幅縮減亞洲可持續發展部門人員規模，員工數量裁減一半。因人事資訊屬於機密，相關人士要求匿名。該訊息稱，瑞銀亞洲 ESG 團隊原有 7 人，現縮減至 3 人。此次離職人員中有三名香港員工，其中兩人為執行董事。自完成對瑞士信貸的整合後，瑞銀持續收縮環境、社會及治理（ESG）相關業務團隊。一名知情人士表示，集團全球首席可持續發展辦公室的員工總數，已從 2023 年年中的 100 餘人縮減至目前約 35 人。瑞銀發言人未就此次具體裁員事宜置評，但表示公司正在調整 ESG 相關工作的運營模式。
-
----
-
-### 2026-06-09 08:22:15  #其他
-
-【四維圖新及旗下傑發科技透過SGS碳核查認證】日前，四維圖新及旗下傑發科技正式透過認證機構SGS的溫室氣體核查，獲得ISO 14064—1核查宣告證書。這標誌著四維圖新在碳排放管理、ESG體系建設及國際化合規能力方面獲得國際權威認可。
-
----
-
-### 2026-06-09 08:21:46  #宏觀
-
-【中國銀河證券：預計年內房地產市場有望止跌企穩】中國銀河證券研報稱，房地產方面，在價格調整、庫存高企與需求疲軟的壓力及政策“穩定房地產市場”與一線城市銷售成交邊際改善下，預計年內有望止跌企穩。一方面，投資與銷售仍負增長、庫存去化週期偏長以及居民購房意願仍謹慎的情況下，地產緩慢復甦，而價格在下行趨勢中也使得觀望情緒仍在。另一方面，隨4月政治局會議再提“努力穩定房地產市場，紮實推進城市更新”、價格逐步調整至合理區間下部分城市租售比趨於平衡，一線城市成交升溫，市場有望向充分出清、真實需求驅動的修復及程序中推進。
-
----
-
-### 2026-06-09 08:21:17  #其他
-
-瑞銀在全球重組中將亞洲ESG員工人數減少了一半。
-
----
-
-### 2026-06-09 08:20:53  #市場
-
-紐約期銀日內跌1%，現報67.90美元/盎司。
-
----
-
-### 2026-06-09 08:20:16  #公司
-
-日立與谷歌雲擴大戰略聯盟，藉助第五代架構設計（FDE）與先進網路安全解決方案，加速實體人工智慧在實際場景中的落地部署。
-
----
-
-### 2026-06-09 08:19:21  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
-
-Japan's economic and fiscal minister Kiuchi said capital expenditure is steadily rebounding and the economy is undergoing a moderate recovery.
-
----
-
-### 2026-06-09 08:18:44  #市場 #國際
-
-【日經指數上漲1.4% 電子股領漲】隨著對中東衝突升溫的擔憂緩解，日本股市在週一遭遇拋售後走高。電子股領漲。東京電子上漲7.3%，松下控股上漲6.0%。在伊朗和以色列結束多次交火後，投資者正關注兩國衝突的發展。日經指數上漲1.4%，報64911.27點。
-
----
-
-### 2026-06-09 08:18:07  #公司 #市場 #國際
-
-【機構：若有進一步外匯干預，逢低買入美元兌日元策略是合理的】加皇資本市場的Abbas Keshvani在一封電子郵件中表示，若有進一步的外匯干預，逢低買入美元兌日元的策略是合理的，因為市場力量可能會引導美元回升至160日元水平。這位亞洲宏觀策略主管表示：“市場正在考驗日本官方的決心，在4月底/5月初為捍衛該貨幣而進行干預僅僅五週後，現匯價格就回到了160。”Keshvani說：“市場力量，包括能源的拖累以及本地資產管理公司不願轉向日元資產，都支援日元走弱。“他補充說：“因此，如果這種下跌是干預的結果，我們傾向於對美元兌日元採取‘逢低買入’策略。“
-
----
-
-### 2026-06-09 08:17:40  #市場 #觀點 #央行 #國際
-
-【花旗將黃金短線目標價下調至4,000美元 因加息預期升溫】花旗將黃金三個月目標價從每盎司4,300美元下調至4,000美元，原因是霍爾木茲海峽局勢僵持以及能源價格高企令市場對美聯儲今年加息的預期升溫。Kenny Hu等分析師在報告中寫道，實物需求疲軟可能會進一步打壓價格這些分析師指出，如果霍爾木茲海峽到夏季末一直關閉，黃金購買量減少可能會導致金價回落至每盎司3,500美元。“因此，短期風險看起來偏向負面，只有在確信局勢不會再次升級的情況下，逢低買盤才有意義，”他們表示。花旗維持對黃金未來6至12個月每盎司5,000美元的目標價。“從長遠來看，我們仍看好黃金，但我們認為對那些未設定較寬止損位且投資期限較短的投資者而言，短線投資黃金的風險極高，”這些分析師寫道。
-
----
-
-### 2026-06-09 08:16:54  #國際
-
-【以軍稱攔截一架來自葉門方向的無人機】當地時間9日凌晨，以色列國防軍稱在以色列南部城市埃拉特上空攔截了一架來自葉門方向的無人機。8日，葉門胡塞武裝稱向以色列特拉維夫多個敏感目標發射了多枚導彈，並稱襲擊“成功且精確命中目標”。不過，以色列軍方稱，胡塞武裝向以色列發射的兩枚彈道導彈其中一枚被攔截，另一枚未能抵達以色列。（央視新聞）
-
----
-
-### 2026-06-09 08:14:37  #MKT News
-
-Korea Exchange activated its temporary trading-halt mechanism after KOSPI 200 index futures jumped 5%, triggering a 5-minute suspension of program trading.
-
----
-
-### 2026-06-09 08:13:53  #市場 #國際
-
-韓國交易所因KOSPI 200期貨漲幅達5%，啟動韓國綜合股價指數側車機制，程式化交易暫停5分鐘。
-
----
-
-### 2026-06-09 08:13:39  #其他
-
-日經指數漲幅擴大至1.55%。
-
----
-
-### 2026-06-09 08:13:31  #國際
-
-【澤連斯基稱與美國特使會談積極，盼推進烏俄停火】克蘭總統澤連斯基週一表示，他與美國特使維特科夫和特朗普總統女婿庫什納進行了“積極”的交談，讚揚他們願意在未來幾周內積極推動解決烏克蘭戰爭。“這是一次非常積極的會談，”澤連斯基在摩爾多瓦首都基希訥烏中轉期間，透過社交媒體談及此次會談時說道。“感謝他們願意在未來幾周內儘可能積極地開展工作，以推動結束俄羅斯對烏克蘭戰爭的外交努力，”他在帖文中寫道。澤連斯基此前在倫敦與英國、法國和德國領導人討論如何推進解決烏俄戰爭的方案。
-
----
-
-### 2026-06-09 08:11:40  #公司 #市場 #國際
-
-【受三星、SK海力士股價反彈提振 韓國綜合股價指數上漲近5%】韓國股市基準指數 Kospi 在連續三個交易日下跌後早盤上漲高達 4.9%，受三星電子和 SK 海力士股價反彈提振。SK海力士、三星電子和三星電機是推動該指數增長的最大個股。所有19個行業指數均上漲。韓國創業板小盤股指數上漲高達4%。週二早盤，韓國股市領漲亞太股市，MSCI亞太指數一度上漲0.9%。
-
----
-
-### 2026-06-09 08:10:25  #MKT News #Market Regions #Japan & APAC
-
-Australian S&P/ASX 200 index opened 120.30 points lower (-1.39%) at 8,504.80 on Tuesday, June 9.
-
----
-
-### 2026-06-09 08:09:56  #公司 #國際
-
-【任天堂被罰約2.7億元】據法國24臺8日報道，日本遊戲公司任天堂已同意繳納3500萬歐元（約合2.7億元人民幣）罰款，了結法國監管部門針對其Switch手柄缺陷問題的調查。該案源於2020年，法國消費者權益團體發起訴訟，指控任天堂存在產品計劃性淘汰問題，明知Switch原裝Joy-Con手柄存在普遍的搖桿漂移故障，卻刻意隱瞞產品缺陷，侵害了消費者合法權益。該故障具體表現為手柄搖桿無觸碰時出現自動偏移、按鍵卡頓卡死等問題，嚴重影響裝置正常使用。法國市場競爭、消費和反欺詐總局調查認定，Switch自2017年上市後，搖桿漂移故障長期頻發，但任天堂方面未及時向消費者披露這一系統性缺陷，也未及時給出售後解決方案。
-
----
-
-### 2026-06-09 08:09:34  #Trading Economics #Economy #Ireland #Construction PMI #Importance 1
-
-Irish Construction Sector Returns to Growth — The AIB Ireland Construction PMI increased to 50.2 in May 2026 from April’s five-month low of 47.1, driven by a renewed increase in output and new orders. New orders grew following their first decline in five months in April, reflecting an improvement in customer demand. In response to the rise in new orders, firms increased staffing and purchasing activity, with employment rising at a solid pace for the seventh consecutive month, while input buying rose modestly.
-
----
-
-### 2026-06-09 08:09:26  #國際
-
-美國副總統萬斯：美國和以色列存在利益有分歧的一些情況。
-
----
-
-### 2026-06-09 08:07:40  #市場
-
-澳大利亞標普/澳證200指數早盤下跌1.5%，報8499.20點。
-
----
-
-### 2026-06-09 08:06:04  #公司 #國際
-
-藥明康德公告：本公司留意到，美國當地時間 2026 年 6 月 8 日，美國國防部在依據第 1260H 條款更新 “中國軍工企業” 名單時，錯誤將藥明康德納入其中。我方認為，此番認定及相關所謂依據明顯失實，藥明康德將即刻採取行動，對此錯誤認定提出異議並予以糾正。藥明康德並不滿足被列為 “中國軍工企業” 的法定標準。理由如下：一、本公司並非由中國任何軍事機構或政府實體所有、控制，也不存在隸屬關係；二、本公司從未向中國軍隊提供任何服務；三、本公司與中國國防工業體系及軍民融合專案均無關聯。因此，將本公司列入第 1260H 條款名單的相關說法，完全與事實相悖。
 
 ---

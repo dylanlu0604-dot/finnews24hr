@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-15 01:45:07_
-_本檔包含 3905 則快訊，約 662151 字_
+_更新時間：2026-06-15 02:43:39_
+_本檔包含 3896 則快訊，約 662322 字_
+
+---
+
+### 2026-06-09 08:24:54  #MKT News #Market Regions #Japan & APAC
+
+Japan's finance minister Kiuchi said long-term interest rates are determined by market forces, including supply-demand dynamics and a moderate economic recovery.
+
+---
+
+### 2026-06-09 08:24:39  #國際
+
+日本經濟大臣城內實：長期利率由市場決定，受供需關係等多種因素影響，日本經濟正處於溫和復甦階段。
+
+---
+
+### 2026-06-09 08:24:07  #公司
+
+【黑芝麻智慧與上實科技達成戰略合作，共建具身智慧生態】6月8日，黑芝麻智慧與上海上實科技創業投資有限公司（簡稱“上實科技”）正式簽署戰略合作協議。雙方將圍繞具身智慧機器人生態構建和世界機器人超級加速器籌建兩大核心領域展開全方位合作，打造滬港聯動的具身智慧創新高地，推動具身智慧技術從實驗室走向規模化產業落地。
+
+---
+
+### 2026-06-09 08:24:03  #公司
+
+【柬國航與海南機場股份公司簽署合作備忘錄】據柬埔寨國家航空訊息，6月8日，柬埔寨國家航空公司（Air Cambodia，柬國航）與海南機場股份公司簽署合作備忘錄，敲定柬埔寨—海南客運航線擴充規劃，同步佈局第五、第七航權跨境航線，深化中柬民航與文旅合作。
+
+---
+
+### 2026-06-09 08:23:27  #宏觀
+
+【王清憲在合肥市調研時強調 打造協同高效的量子產業生態】據安徽日報，6月8日下午，省長王清憲赴合肥市調研量子產業發展工作。他強調，要聚焦打造協同高效的量子產業生態，統籌全要素一體化配置，建強高能級量子人才科創空間，促進產學研深度融合和協同創新，加快把量子科技優勢轉化為產業優勢，為因地制宜發展新質生產力注入強勁動能。調研中，王清憲主持召開座談會，對下一步工作提出要求。一是緊盯量子科技發展趨勢和國家戰略需求，持續凝鍊重點攻關任務和研發專案，加強基礎研究和關鍵核心技術攻關，努力形成更多原創性成果。二是紮實推進央企量子空間建設，出臺專項政策，強化協同創新，推動科研任務共擔、科研資源共用、減責免責共認、創新成果共享。三是持續打造用好平臺，辦好量子科技和產業大會，搭建世界級量子學術和產業交流釋出平臺，集聚更多高階創新資源。四是大力發展量子科技服務業，強化成果轉化和場景開放，加速技術驗證和跨行業融合，拓展量子科技在通訊、科研、能源、金融、氣象等領域示範應用。五是加大要素保障和體制機制創新力度，加快量子產業先導區建設，為各類主體發展拓展更廣闊空間。
+
+---
+
+### 2026-06-09 08:23:14  #公司
+
+【瑞銀在全球重組中將亞洲ESG員工人數減半】據知情人士透露，作為全球大範圍重組的一部分，瑞銀集團近數月大幅縮減亞洲可持續發展部門人員規模，員工數量裁減一半。因人事資訊屬於機密，相關人士要求匿名。該訊息稱，瑞銀亞洲 ESG 團隊原有 7 人，現縮減至 3 人。此次離職人員中有三名香港員工，其中兩人為執行董事。自完成對瑞士信貸的整合後，瑞銀持續收縮環境、社會及治理（ESG）相關業務團隊。一名知情人士表示，集團全球首席可持續發展辦公室的員工總數，已從 2023 年年中的 100 餘人縮減至目前約 35 人。瑞銀發言人未就此次具體裁員事宜置評，但表示公司正在調整 ESG 相關工作的運營模式。
+
+---
+
+### 2026-06-09 08:22:15  #其他
+
+【四維圖新及旗下傑發科技透過SGS碳核查認證】日前，四維圖新及旗下傑發科技正式透過認證機構SGS的溫室氣體核查，獲得ISO 14064—1核查宣告證書。這標誌著四維圖新在碳排放管理、ESG體系建設及國際化合規能力方面獲得國際權威認可。
+
+---
+
+### 2026-06-09 08:21:46  #宏觀
+
+【中國銀河證券：預計年內房地產市場有望止跌企穩】中國銀河證券研報稱，房地產方面，在價格調整、庫存高企與需求疲軟的壓力及政策“穩定房地產市場”與一線城市銷售成交邊際改善下，預計年內有望止跌企穩。一方面，投資與銷售仍負增長、庫存去化週期偏長以及居民購房意願仍謹慎的情況下，地產緩慢復甦，而價格在下行趨勢中也使得觀望情緒仍在。另一方面，隨4月政治局會議再提“努力穩定房地產市場，紮實推進城市更新”、價格逐步調整至合理區間下部分城市租售比趨於平衡，一線城市成交升溫，市場有望向充分出清、真實需求驅動的修復及程序中推進。
+
+---
+
+### 2026-06-09 08:21:17  #其他
+
+瑞銀在全球重組中將亞洲ESG員工人數減少了一半。
+
+---
+
+### 2026-06-09 08:20:53  #市場
+
+紐約期銀日內跌1%，現報67.90美元/盎司。
+
+---
+
+### 2026-06-09 08:20:16  #公司
+
+日立與谷歌雲擴大戰略聯盟，藉助第五代架構設計（FDE）與先進網路安全解決方案，加速實體人工智慧在實際場景中的落地部署。
+
+---
+
+### 2026-06-09 08:19:21  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish
+
+Japan's economic and fiscal minister Kiuchi said capital expenditure is steadily rebounding and the economy is undergoing a moderate recovery.
+
+---
+
+### 2026-06-09 08:18:44  #市場 #國際
+
+【日經指數上漲1.4% 電子股領漲】隨著對中東衝突升溫的擔憂緩解，日本股市在週一遭遇拋售後走高。電子股領漲。東京電子上漲7.3%，松下控股上漲6.0%。在伊朗和以色列結束多次交火後，投資者正關注兩國衝突的發展。日經指數上漲1.4%，報64911.27點。
+
+---
+
+### 2026-06-09 08:18:07  #公司 #市場 #國際
+
+【機構：若有進一步外匯干預，逢低買入美元兌日元策略是合理的】加皇資本市場的Abbas Keshvani在一封電子郵件中表示，若有進一步的外匯干預，逢低買入美元兌日元的策略是合理的，因為市場力量可能會引導美元回升至160日元水平。這位亞洲宏觀策略主管表示：“市場正在考驗日本官方的決心，在4月底/5月初為捍衛該貨幣而進行干預僅僅五週後，現匯價格就回到了160。”Keshvani說：“市場力量，包括能源的拖累以及本地資產管理公司不願轉向日元資產，都支援日元走弱。“他補充說：“因此，如果這種下跌是干預的結果，我們傾向於對美元兌日元採取‘逢低買入’策略。“
+
+---
+
+### 2026-06-09 08:17:40  #市場 #觀點 #央行 #國際
+
+【花旗將黃金短線目標價下調至4,000美元 因加息預期升溫】花旗將黃金三個月目標價從每盎司4,300美元下調至4,000美元，原因是霍爾木茲海峽局勢僵持以及能源價格高企令市場對美聯儲今年加息的預期升溫。Kenny Hu等分析師在報告中寫道，實物需求疲軟可能會進一步打壓價格這些分析師指出，如果霍爾木茲海峽到夏季末一直關閉，黃金購買量減少可能會導致金價回落至每盎司3,500美元。“因此，短期風險看起來偏向負面，只有在確信局勢不會再次升級的情況下，逢低買盤才有意義，”他們表示。花旗維持對黃金未來6至12個月每盎司5,000美元的目標價。“從長遠來看，我們仍看好黃金，但我們認為對那些未設定較寬止損位且投資期限較短的投資者而言，短線投資黃金的風險極高，”這些分析師寫道。
+
+---
+
+### 2026-06-09 08:16:54  #國際
+
+【以軍稱攔截一架來自葉門方向的無人機】當地時間9日凌晨，以色列國防軍稱在以色列南部城市埃拉特上空攔截了一架來自葉門方向的無人機。8日，葉門胡塞武裝稱向以色列特拉維夫多個敏感目標發射了多枚導彈，並稱襲擊“成功且精確命中目標”。不過，以色列軍方稱，胡塞武裝向以色列發射的兩枚彈道導彈其中一枚被攔截，另一枚未能抵達以色列。（央視新聞）
+
+---
+
+### 2026-06-09 08:14:37  #MKT News
+
+Korea Exchange activated its temporary trading-halt mechanism after KOSPI 200 index futures jumped 5%, triggering a 5-minute suspension of program trading.
+
+---
+
+### 2026-06-09 08:13:53  #市場 #國際
+
+韓國交易所因KOSPI 200期貨漲幅達5%，啟動韓國綜合股價指數側車機制，程式化交易暫停5分鐘。
+
+---
+
+### 2026-06-09 08:13:39  #其他
+
+日經指數漲幅擴大至1.55%。
+
+---
+
+### 2026-06-09 08:13:31  #國際
+
+【澤連斯基稱與美國特使會談積極，盼推進烏俄停火】克蘭總統澤連斯基週一表示，他與美國特使維特科夫和特朗普總統女婿庫什納進行了“積極”的交談，讚揚他們願意在未來幾周內積極推動解決烏克蘭戰爭。“這是一次非常積極的會談，”澤連斯基在摩爾多瓦首都基希訥烏中轉期間，透過社交媒體談及此次會談時說道。“感謝他們願意在未來幾周內儘可能積極地開展工作，以推動結束俄羅斯對烏克蘭戰爭的外交努力，”他在帖文中寫道。澤連斯基此前在倫敦與英國、法國和德國領導人討論如何推進解決烏俄戰爭的方案。
+
+---
+
+### 2026-06-09 08:11:40  #公司 #市場 #國際
+
+【受三星、SK海力士股價反彈提振 韓國綜合股價指數上漲近5%】韓國股市基準指數 Kospi 在連續三個交易日下跌後早盤上漲高達 4.9%，受三星電子和 SK 海力士股價反彈提振。SK海力士、三星電子和三星電機是推動該指數增長的最大個股。所有19個行業指數均上漲。韓國創業板小盤股指數上漲高達4%。週二早盤，韓國股市領漲亞太股市，MSCI亞太指數一度上漲0.9%。
+
+---
+
+### 2026-06-09 08:10:25  #MKT News #Market Regions #Japan & APAC
+
+Australian S&P/ASX 200 index opened 120.30 points lower (-1.39%) at 8,504.80 on Tuesday, June 9.
+
+---
+
+### 2026-06-09 08:09:56  #公司 #國際
+
+【任天堂被罰約2.7億元】據法國24臺8日報道，日本遊戲公司任天堂已同意繳納3500萬歐元（約合2.7億元人民幣）罰款，了結法國監管部門針對其Switch手柄缺陷問題的調查。該案源於2020年，法國消費者權益團體發起訴訟，指控任天堂存在產品計劃性淘汰問題，明知Switch原裝Joy-Con手柄存在普遍的搖桿漂移故障，卻刻意隱瞞產品缺陷，侵害了消費者合法權益。該故障具體表現為手柄搖桿無觸碰時出現自動偏移、按鍵卡頓卡死等問題，嚴重影響裝置正常使用。法國市場競爭、消費和反欺詐總局調查認定，Switch自2017年上市後，搖桿漂移故障長期頻發，但任天堂方面未及時向消費者披露這一系統性缺陷，也未及時給出售後解決方案。
+
+---
+
+### 2026-06-09 08:09:34  #Trading Economics #Economy #Ireland #Construction PMI #Importance 1
+
+Irish Construction Sector Returns to Growth — The AIB Ireland Construction PMI increased to 50.2 in May 2026 from April’s five-month low of 47.1, driven by a renewed increase in output and new orders. New orders grew following their first decline in five months in April, reflecting an improvement in customer demand. In response to the rise in new orders, firms increased staffing and purchasing activity, with employment rising at a solid pace for the seventh consecutive month, while input buying rose modestly.
+
+---
+
+### 2026-06-09 08:09:26  #國際
+
+美國副總統萬斯：美國和以色列存在利益有分歧的一些情況。
+
+---
+
+### 2026-06-09 08:07:40  #市場
+
+澳大利亞標普/澳證200指數早盤下跌1.5%，報8499.20點。
+
+---
+
+### 2026-06-09 08:06:04  #公司 #國際
+
+藥明康德公告：本公司留意到，美國當地時間 2026 年 6 月 8 日，美國國防部在依據第 1260H 條款更新 “中國軍工企業” 名單時，錯誤將藥明康德納入其中。我方認為，此番認定及相關所謂依據明顯失實，藥明康德將即刻採取行動，對此錯誤認定提出異議並予以糾正。藥明康德並不滿足被列為 “中國軍工企業” 的法定標準。理由如下：一、本公司並非由中國任何軍事機構或政府實體所有、控制，也不存在隸屬關係；二、本公司從未向中國軍隊提供任何服務；三、本公司與中國國防工業體系及軍民融合專案均無關聯。因此，將本公司列入第 1260H 條款名單的相關說法，完全與事實相悖。
 
 ---
 
@@ -23312,221 +23474,5 @@ Israel is on heightened alert against potential Hezbollah retaliation after airs
 ### 2026-06-08 02:47:08  #公司
 
 阿聯酋阿提哈德航空表示，由於其他航司取消訂單，該公司得以提前接收部分從波音、空客採購的新飛機。
-
----
-
-### 2026-06-08 02:39:30  #國際
-
-【巴基斯坦內政部長警告伊朗，不要激化海運航道局勢】目前身處德黑蘭的巴基斯坦內政部長向伊朗發出警告，要求其不要激化海運航道局勢。穆赫辛·納克維敦促伊朗儘快就美方訴求表明立場。巴基斯坦陸軍參謀長阿西姆·穆尼爾透過納克維向伊朗領導層傳話，呼籲德黑蘭把握當下契機，促成雙方達成協議。
-
----
-
-### 2026-06-08 02:37:34  #MKT News
-
-【US official: Hezbollah should be held fully responsible for any hostile action from Lebanon】A US official said Hezbollah should be held fully responsible for any hostile actions from Lebanon. Washington supports Israel's right to self-defense and stands with Lebanon's legitimate government, the official said. The official praised recent US-brokered Israel-Lebanon 'ceasefire' terms negotiated by Israeli and Lebanese officials as 'fair' and providing a clear path to end fighting in Lebanon. The next round of security and political talks is scheduled for the week of June 22 to advance an agreement; the official stressed Hezbollah 'must stop firing immediately' for the deal to take effect.
-
----
-
-### 2026-06-08 02:33:04  #其他
-
-官方結果顯示，在科索沃議會選舉中，開票超過50%後，自決黨以42.3%的得票率處於領先。
-
----
-
-### 2026-06-08 02:23:02  #國際
-
-伊朗官員穆罕默德·穆赫貝爾： 調停期間，敵方轟炸黎巴嫩，第三次徹底破壞談判局面，且在各戰線一再違反停火協議。 我們將以實力回應這些背棄承諾之徒。抵抗陣線團結一致，敵方此次挑釁行徑必將在戰場上付出沉重代價。
-
----
-
-### 2026-06-08 02:20:53  #焦點 #國際
-
-【伊朗：美國不得動用伊凍結資產賠償盟友】伊朗副外長卡澤姆·加里巴巴迪表示，美國無權動用伊朗被凍結的資產，為地區盟友的戰爭損毀重建提供補償。他在社交平臺上發文稱：“伊朗資產既不是美國的戰爭戰利品，也不是用於接濟其盟友的款項。未經伊朗政府許可，任何扣押、劃轉、處置伊朗資產的行為，都屬於新的國際不法行為。”加里巴巴迪表示，伊朗正向美國索要全額戰爭損失賠償；同時指出，那些為美國針對伊朗的軍事行動提供領土與設施的地區政府，無權提出賠償要求。
-
----
-
-### 2026-06-08 02:19:17  #國際
-
-一名安全訊息人士稱，以方無法確定伊朗是否會兌現威脅，但研判其採取行動的可能性較低，同時強調已針對各類可能情況做好預案。
-
----
-
-### 2026-06-08 02:18:52  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Mohammad Mokhber, adviser and aide to Iran's supreme leader, said enemies bombed Lebanon while mediators were in Iran, and that this was the third time the negotiating table had been burned.
-
----
-
-### 2026-06-08 02:17:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israel's Channel 12 reported a U.S. security official said the United States has prepared defensive measures to respond to potential attacks by Iran.
-
----
-
-### 2026-06-08 02:17:04  #MKT News #XAUUSD #Impact bearish #WTI #DXY
-
-Saudi state television reports Pakistan’s army chief urged Iran to seize the current opportunity to reach an agreement.
-
----
-
-### 2026-06-08 02:16:59  #MKT News
-
-According to Saudi state TV, Pakistan's interior minister warned Tehran not to escalate tensions on maritime shipping lanes.
-
----
-
-### 2026-06-08 02:14:52  #其他
-
-【馬耳他附近偷渡船傾覆致10人遇難 48人獲救】據義大利《西西里報》7日報道，一艘載有約60名非法移民的偷渡船在馬耳他附近海域傾覆，已造成10人死亡、至少2人失蹤。報道說，事故發生在馬耳他島以東約45海里（約83.3公里）的海域。這艘偷渡船從利比亞海岸出發。尚不清楚事故發生具體時間。（新華社）
-
----
-
-### 2026-06-08 02:13:20  #國際
-
-一名美國安全訊息人士透露，美方已做好防禦準備，以防伊朗兌現威脅並發動襲擊。
-
----
-
-### 2026-06-08 02:06:56  #MKT News #UAL.O #Impact mixed
-
-United Airlines CEO Scott Kirby said the aviation industry's net-zero carbon emissions target is achievable but depends on government policy.
-
----
-
-### 2026-06-08 02:06:52  #公司 #國際
-
-【美聯航CEO：被美國航空拒絕後，大規模合併可能性小，但或收購資產】美聯航執行長斯科特·柯比周日對路透表示，如果高油價給實力較弱的競爭對手帶來壓力，美聯航仍願意收購機場起降時段、登機口或其他資產，但在向美國航空的收購提議失敗後，美聯航不太可能尋求重大整合交易。柯比表示，今年4月，他在就合併事宜接觸美國航空後，對方拒絕了聯合航空的提議。路透此前報道稱，他曾在2月向美國總統唐納德·特朗普提出過這一想法。美國航空執行長羅伯特·伊索姆以“違反競爭原則且不利於客戶”為由，拒絕了合併提議。“我認為美聯航不太可能進行合併，”柯比在里約熱內盧舉行的國際航空運輸協會年會上接受採訪時表示。“這並不意味著我們不會繼續在市場上收購資產，但合併的可能性很低。”
-
----
-
-### 2026-06-08 02:06:39  #MKT News #UAL.O
-
-United Airlines CEO Scott Kirby said the carrier may still purchase aviation assets such as airport slots or boarding gates.
-
----
-
-### 2026-06-08 02:06:24  #MKT News #JBLU.O #Impact bullish
-
-United Airlines CEO Scott Kirby said JetBlue is far from needing to file for bankruptcy protection.
-
----
-
-### 2026-06-08 02:06:08  #MKT News #UAL.O #Impact bearish
-
-United Airlines CEO Scott Kirby said fuel hedges have performed poorly.
-
----
-
-### 2026-06-08 02:06:05  #MKT News
-
-United Airlines CEO Scott Kirby said demand remains strong but he expects demand will become more elastic — increasingly price-sensitive — over time.
-
----
-
-### 2026-06-08 02:05:34  #MKT News #UAL.O #Impact bullish
-
-United Airlines CEO Scott Kirby said fare adjustments have nearly offset the impact of higher fuel costs.
-
----
-
-### 2026-06-08 02:05:27  #公司 #國際
-
-【特朗普在接受NBC採訪時憤然離場】美國總統特朗普在接受美國全國廣播公司（NBC）採訪時憤然離場。當時主持人克里斯汀·韋爾克追問他及其政府官員過往針對2020年總統大選公正性提出的不實言論，該屆大選特朗普最終不敵拜登。特朗普在結束採訪時稱：“你們的選舉存在舞弊，你們本身也心懷不軌，《會見新聞界》欄目、美國廣播公司、哥倫比亞廣播公司以及有線電視新聞網皆是如此。你們這些媒體立場偏頗、弄虛作假。我受夠了，就此結束吧。謝謝你，祝你愉快。”
-
----
-
-### 2026-06-08 02:05:22  #MKT News #UAL.O
-
-United Airlines CEO Scott Kirby said the carrier is unlikely to pursue consolidation.
-
----
-
-### 2026-06-08 02:03:22  #MKT News
-
-【5.2-magnitude earthquake strikes Bhutan; depth 10 km】cenc measured a magnitude 5.2 earthquake at 01:36 on June 8 in Bhutan (27.33N, 89.90E); focal depth 10 km.
-
----
-
-### 2026-06-08 02:02:08  #其他
-
-官方結果顯示：已統計超14%選票後，科索沃自決黨在議會選舉中以38.7%的得票率領先。
-
----
-
-### 2026-06-08 02:01:13  #MKT News #029.HK #Impact bullish #AIR.PA
-
-Cathay Pacific CEO plans to increase orders for widebody, narrowbody and freighter aircraft. Low-cost carrier Hong Kong Express will retain an all-Airbus fleet. The CEO does not expect further capacity cuts this year due to fuel prices.
-
----
-
-### 2026-06-08 02:00:39  #公司
-
-國泰航空執行長表示，今年不會因燃油價格問題進一步削減運力。
-
----
-
-### 2026-06-08 02:00:36  #公司
-
-國泰航空執行長表示，計劃增購寬體、窄體及貨機。
-
----
-
-### 2026-06-08 02:00:33  #公司
-
-國泰航空執行長表示，低成本航空公司香港快運將維持全空客客機的機隊配置。
-
----
-
-### 2026-06-08 01:59:32  #國際
-
-美國中央司令部發文稱，美軍駐中東全體部隊始終保持戒備、嚴陣以待。
-
----
-
-### 2026-06-08 01:56:53  #焦點 #國際
-
-伊朗航空IRA1686航班已降落在戈爾甘機場。
-
----
-
-### 2026-06-08 01:55:42  #其他
-
-中國地震臺網正式測定：06月08日01時36分在不丹（北緯27.33度，東經89.90度）發生5.2級地震，震源深度10千米。
-
----
-
-### 2026-06-08 01:55:40  #其他
-
-【圓夢大滿貫 茲維列夫奪法網男單冠軍】2026年法網男單決賽，茲維列夫以3-2擊敗科博利，奪得本屆法網男單冠軍，這也是他生涯首座大滿貫冠軍。（央視新聞）
-
----
-
-### 2026-06-08 01:53:59  #焦點 #國際
-
-伊朗航空IRA1686航班從馬什哈德機場起飛，前往吉達機場。該航班在伊朗北部戈爾甘附近降至低空後，從航班追蹤平臺Flightradar24上消失。
-
----
-
-### 2026-06-08 01:51:52  #其他
-
-【熱烈歡迎習近平總書記 平壤飄揚中朝國旗】應朝鮮勞動黨總書記、朝鮮民主主義人民共和國國務委員長金正恩邀請，中共中央總書記、中華人民共和國主席習近平於6月8日至9日對朝鮮民主主義人民共和國進行國事訪問。 6月7日，新華社記者看到首都平壤已盛裝以待，歡迎中國貴賓。主要街道兩側，中朝兩國國旗迎風飄揚。多座地標建築亮出橫幅，熱烈歡迎習近平總書記到訪。（新華國際）
-
----
-
-### 2026-06-08 01:51:38  #MKT News
-
-Iran's president said his negotiating team will not concede and must firmly defend the rights of the Iranian people.
-
----
-
-### 2026-06-08 01:48:00  #國際
-
-伊朗總統佩澤希齊揚：伊朗必須以強勢姿態與美國展開談判、捍衛國家權益，強調伊朗談判團隊絕不會退讓。
-
----
-
-### 2026-06-08 01:45:34  #其他
-
-德國地球科學研究中心（GFZ）：不丹發生5.57級地震。
 
 ---
