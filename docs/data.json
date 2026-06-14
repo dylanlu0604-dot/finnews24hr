@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-15 05:45:22",
+  "updated": "2026-06-15 05:49:20",
   "count": 18309,
   "items": [
+    {
+      "id": "mkt:019ec81b-bdae-7dd8-aff7-391bf5359446",
+      "time": "2026-06-15 05:48:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【NYT: Iran cancels planned strike on Israel】The New York Times, citing three Iranian officials, reports Iran had planned a retaliatory strike on Israel over airstrikes in Lebanon but canceled the operation after Trump, via intermediaries, urged Tehran to show restraint."
+    },
+    {
+      "id": "4934811",
+      "time": "2026-06-15 05:48:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美元兌G10貨幣普遍走弱，特朗普宣佈與伊朗達成協議】美國總統特朗普宣佈與伊朗達成協議後，美元兌G10集團其他貨幣全線走低。澳元兌美元（AUD/USD）上漲0.4%，報0.7075；紐西蘭元兌美元（NZD/USD）上漲0.3%，報0.5850；美元兌日元（USD/JPY）下跌0.3%，報159.84；歐元兌美元（EUR/USD）上漲0.3%，報1.1597。"
+    },
     {
       "id": "4934810",
       "time": "2026-06-15 05:43:50",
@@ -168350,27 +168372,6 @@
         "MKT News"
       ],
       "text": "UK foreign secretary said Iran and Israel must immediately show restraint and de-escalate tensions."
-    },
-    {
-      "id": "mkt:019ea40f-01e9-7ee0-86d4-1cb05e053271",
-      "time": "2026-06-08 05:48:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "UK foreign secretary says renewed conflict between Iran and Israel would benefit no one."
-    },
-    {
-      "id": "mkt:019ea40d-f840-7ee0-86d4-1552dac21446",
-      "time": "2026-06-08 05:47:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reports Netanyahu and Trump held a 20-minute phone call."
     }
   ]
 }
