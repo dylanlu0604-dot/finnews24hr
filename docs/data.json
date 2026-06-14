@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-14 20:34:18",
-  "count": 18278,
+  "updated": "2026-06-14 20:38:23",
+  "count": 18283,
   "items": [
+    {
+      "id": "4934470",
+      "time": "2026-06-14 20:36:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗談判代表就以色列襲擊貝魯特南郊事件在X平臺發文稱：\"若無法履行承諾，談論繼續推進程序便無從談起\"。"
+    },
+    {
+      "id": "mkt:019ec621-ea53-7dd8-aff1-c40298072d33",
+      "time": "2026-06-14 20:36:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said continuing down this path is simply not feasible if there is neither the willingness nor the ability to fulfill commitments."
+    },
+    {
+      "id": "mkt:019ec621-dc48-7dd8-aff1-bf9f67d6f39f",
+      "time": "2026-06-14 20:36:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said giving Israel a \"green light\" will not win any concessions and that the \"good cop, bad cop\" tactic has been played out."
+    },
+    {
+      "id": "4934469",
+      "time": "2026-06-14 20:35:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：以色列在黎巴嫩南部的違規行為再次證明，它要麼沒有履行義務的意願，要麼缺乏履行義務的能力。"
+    },
+    {
+      "id": "mkt:019ec621-6ec6-7dd8-aff1-b1bb63bc6219",
+      "time": "2026-06-14 20:35:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said Israel’s violations in southern Lebanon again indicate it either lacks the will or the capability to meet its obligations."
+    },
+    {
+      "id": "mkt:019ec620-b3a1-7dd8-aff1-ab5064476d2c",
+      "time": "2026-06-14 20:34:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state media quoted the deputy commander of Iran's Joint Military Command as saying Israel's 'crimes' in Lebanon will not go unpunished."
+    },
+    {
+      "id": "4934468",
+      "time": "2026-06-14 20:34:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗聯合武裝部隊司令部副指揮官表示，以色列在黎巴嫩犯下的“罪行”不會不了了之。"
+    },
     {
       "id": "4934467",
       "time": "2026-06-14 20:32:41",
@@ -168134,27 +168199,6 @@
         "國際"
       ],
       "text": "【伊朗稱已起草《霍爾木茲海峽環境服務收費條例》】據伊朗塔斯尼姆通訊社7日報道，伊朗副總統兼環境署署長希娜·安薩里表示，伊方已啟動《霍爾木茲海峽環境服務收費條例》制定工作，相關初步草案近日已完成，但收費標準及具體徵收機制尚未最終確定。 安薩里在接受媒體採訪時說，擬議措施不僅涉及環境收費，還包括沿岸國家向過境船舶提供的海事保障、安全服務和環境服務等內容，具體框架與最終定價仍在研究階段。 她表示，部分收費依據將與船舶通行造成的環境影響及對海洋生態系統構成的風險有關。相關服務可能涵蓋船舶引航和導航、海上訊號服務、交通監測以及防範海洋環境汙染等領域。 安薩里認為，霍爾木茲海峽屬於伊朗和阿曼的領海及主權管轄範圍，沿岸國家有權就維護航行安全、地區安全及環境保護所提供的服務收取相應費用。 她介紹說，相關條例起草工作約於兩週前啟動。草案將在提交伊朗環境署內部審議並獲批准後，送交有關主管部門完成後續法律程式。（新華社）"
-    },
-    {
-      "id": "mkt:019ea215-3b1f-7ee0-86cf-51bd3eb8be44",
-      "time": "2026-06-07 20:36:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Israel's Channel 12 reported three missiles from the Israeli Air Force struck two apartment buildings in the southern suburbs of Beirut."
-    },
-    {
-      "id": "4921946",
-      "time": "2026-06-07 20:35:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇省長劉小濤在南京調研衛生健康工作】6月5日，江蘇省長劉小濤在南京市調研衛生健康工作。在省疾控中心，劉小濤詳細瞭解應急裝備配備、傳染病監測預警情況。他要求高標準構建現代化疾控體系，常態化做好應急處置能力儲備，加快建成公共衛生垂直大模型和高質量資料集，以數智手段實現疾病防控早發現、早預警、早處置，更好守護人民群眾身體健康。（微訊江蘇）"
     }
   ]
 }
