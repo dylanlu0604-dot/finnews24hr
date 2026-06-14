@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-14 18:41:32",
-  "count": 18321,
+  "updated": "2026-06-14 18:45:39",
+  "count": 18319,
   "items": [
+    {
+      "id": "mkt:019ec5ba-8866-7dd8-aff0-f96b194ef9c2",
+      "time": "2026-06-14 18:43:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israeli military strikes Beirut's southern suburbs again】On June 14 the Israeli military carried out another airstrike on the southern suburbs of Beirut, Lebanon."
+    },
+    {
+      "id": "4934425",
+      "time": "2026-06-14 18:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍14日發表宣告稱，已對黎巴嫩首都貝魯特的黎真主黨目標發動襲擊。（新華社）"
+    },
+    {
+      "id": "mkt:019ec5b8-dabb-7dd8-aff0-f478cf0d9f1d",
+      "time": "2026-06-14 18:41:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "The Israel Defense Forces said it carried out precision strikes on Hezbollah infrastructure in Beirut’s Dahiyeh; further details will be released later."
+    },
     {
       "id": "4934424",
       "time": "2026-06-14 18:40:39",
@@ -168452,59 +168483,6 @@
         "Magnificent 7"
       ],
       "text": "NVIDIA CEO Jensen Huang will meet Samsung’s vice chairman tomorrow."
-    },
-    {
-      "id": "4921862",
-      "time": "2026-06-07 18:44:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯的“未來城”專案2026-2030年預算包括向承包商支付160億美元的預期款項，用於終止長期協議。"
-    },
-    {
-      "id": "mkt:019ea1ae-eac9-7ee0-86ce-a478f8c6bb64",
-      "time": "2026-06-07 18:44:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities: prioritize value from pullbacks in new energy, chemicals, nonferrous metals and power equipment】CITIC Securities says it maintains an AI + energy/chemicals allocation and advises prioritizing the value created by pullbacks in new energy, chemicals, nonferrous metals and power equipment, while overweighting low‑valuation brokerages and insurers. It highlights cyclical growth in the AIDC (AI data center) and lithium‑battery chains and recommends focusing on the most supply‑tight links: tin, tantalum, glass substrates, power semiconductors, diesel generator sets, gas turbines, carbon fiber and cables. For traditional cyclicals, it advises concentrating on products with genuine systemic capacity clearance or absolute supply constraints, such as polyester, spandex, phosphorus chemicals, MDI, dyes, glyphosate, rubber and refrigerants."
-    },
-    {
-      "id": "4921861",
-      "time": "2026-06-07 18:43:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東與騰訊就AI Agent將達成重要合作】6月7日晚間訊息，據悉，京東與騰訊將圍繞AI Agent展開深度合作。依託京東的商品供應鏈、履約服務能力及騰訊的生態入口優勢，雙方將共同打造跨場景的智慧化服務新正規化，推動AI Agent從單點應用走向生態協同。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ea1ae-074d-7ee0-86ce-9b73f9727436",
-      "time": "2026-06-07 18:43:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Nasdaq100",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【CITIC Securities: Short-term US tech pullback; market likely to stay highly volatile】CITIC Securities says the near-term correction in US tech stocks reflects revisions to monetary policy expectations, crowded positioning and idiosyncratic company noise. The firm views the AI bull case as self-reinforcing and unlikely to reverse in the short term, but notes industry progress remains well short of a fully commercial closed loop and needs more high-value monetization scenarios. Rising long-end bond yields and very limited market fault tolerance imply sustained high volatility. Close monitoring of timing mismatches between AI input and output is necessary; tracking high-frequency indicators is recommended as a temporary risk-management measure."
-    },
-    {
-      "id": "mkt:019ea1ac-ce2d-7ee0-86ce-941718035a6f",
-      "time": "2026-06-07 18:41:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangdong Lingyi Intelligent Manufacturing clears HKEX listing hearing】Livermore Securities reports Guangdong Lingyi Intelligent Manufacturing Co., Ltd. filed updated post-hearing documents, indicating its HKEX IPO has cleared the listing hearing."
     }
   ]
 }
