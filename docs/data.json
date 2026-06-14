@@ -1,7 +1,723 @@
 {
-  "updated": "2026-06-15 05:49:20",
-  "count": 18309,
+  "updated": "2026-06-15 06:08:31",
+  "count": 18349,
   "items": [
+    {
+      "id": "4934867",
+      "time": "2026-06-15 06:06:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：伊朗已向我方保證，不會對以色列採取報復行動。"
+    },
+    {
+      "id": "4934866",
+      "time": "2026-06-15 06:06:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報4303.10美元/盎司。"
+    },
+    {
+      "id": "4934865",
+      "time": "2026-06-15 06:06:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲2%，現報4324.99美元/盎司。"
+    },
+    {
+      "id": "mkt:019ec82c-271d-7dd8-aff7-ef62a54e8fb7",
+      "time": "2026-06-15 06:06:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said that if assets are unfrozen, blockades are lifted and the war ends, Tehran would enter negotiations. He said a 60-day negotiation would focus on ending sanctions and that Iran's commitment will take effect Friday."
+    },
+    {
+      "id": "mkt:019ec82b-bb0e-7dd8-aff7-e089d3db4960",
+      "time": "2026-06-15 06:06:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rises more than 2% to $69.43/oz."
+    },
+    {
+      "id": "4934864",
+      "time": "2026-06-15 06:05:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長稱伊朗的承諾將從週五起生效。"
+    },
+    {
+      "id": "mkt:019ec82b-73e8-7dd8-aff7-dece7f5bb956",
+      "time": "2026-06-15 06:05:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Markets trim Fed rate-hike expectations】U.S. 10-year Treasury futures rose 10 ticks and Fed funds futures advanced after markets reduced expectations for Fed rate hikes."
+    },
+    {
+      "id": "4934863",
+      "time": "2026-06-15 06:05:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長表示：為期60天的談判將聚焦於解除制裁。"
+    },
+    {
+      "id": "4934862",
+      "time": "2026-06-15 06:05:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國副總統萬斯：期待就此開啟與伊朗關係的新時代。"
+    },
+    {
+      "id": "4934861",
+      "time": "2026-06-15 06:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長表示，他們將在資產解凍、封鎖解除及戰爭結束後進入談判階段。"
+    },
+    {
+      "id": "4934860",
+      "time": "2026-06-15 06:04:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4300美元/盎司，日內漲1.99%。"
+    },
+    {
+      "id": "mkt:019ec82a-86a4-7dd8-aff7-d009cde06243",
+      "time": "2026-06-15 06:04:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold jumped above $4,300/oz, up more than $80 intraday."
+    },
+    {
+      "id": "4934859",
+      "time": "2026-06-15 06:04:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4320美元/盎司，日內漲2.00%。"
+    },
+    {
+      "id": "4934858",
+      "time": "2026-06-15 06:04:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1330.91美元/盎司。"
+    },
+    {
+      "id": "4934857",
+      "time": "2026-06-15 06:04:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債期貨上漲10個基點，市場下調加息預期後聯邦基金期貨走升。"
+    },
+    {
+      "id": "4934856",
+      "time": "2026-06-15 06:04:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報69.41美元/盎司。"
+    },
+    {
+      "id": "4934855",
+      "time": "2026-06-15 06:03:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：如果伊朗遵守協議，中東將更具投資吸引力。"
+    },
+    {
+      "id": "4934854",
+      "time": "2026-06-15 06:03:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4290美元/盎司，日內漲1.81%。"
+    },
+    {
+      "id": "4934853",
+      "time": "2026-06-15 06:03:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4310美元/盎司，日內漲1.70%。"
+    },
+    {
+      "id": "mkt:019ec829-66df-7dd8-aff7-c9341a42b88c",
+      "time": "2026-06-15 06:03:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv mayor said Ukraine repelled an air raid over Kyiv."
+    },
+    {
+      "id": "4934852",
+      "time": "2026-06-15 06:03:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長表示，調解人仍將參與即將舉行的談判。"
+    },
+    {
+      "id": "4934851",
+      "time": "2026-06-15 06:03:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長表示，正抵禦基輔上空的空襲。"
+    },
+    {
+      "id": "mkt:019ec829-0b62-7dd8-aff7-c522fcbb813c",
+      "time": "2026-06-15 06:03:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Iran's deputy foreign minister said the armed forces will always \"keep their muzzles pointed\"."
+    },
+    {
+      "id": "mkt:019ec828-e8ac-7dd8-aff7-badd00965843",
+      "time": "2026-06-15 06:03:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iran's deputy foreign minister said Iran's military strength and threats helped secure the final text, and that Iran agreed to sign the memorandum of understanding only after its final demands were incorporated."
+    },
+    {
+      "id": "4934850",
+      "time": "2026-06-15 06:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長稱武裝部隊將始終\"扣住扳機\"。"
+    },
+    {
+      "id": "4934849",
+      "time": "2026-06-15 06:02:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4280美元/盎司，日內漲1.51%。"
+    },
+    {
+      "id": "4934848",
+      "time": "2026-06-15 06:02:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨下跌4.0%，至每桶83.96美元。"
+    },
+    {
+      "id": "mkt:019ec828-adab-7dd8-aff7-b6aaac1d3c87",
+      "time": "2026-06-15 06:02:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell 5.00% intraday to $80.58/bbl."
+    },
+    {
+      "id": "mkt:019ec828-8213-7dd8-aff7-ad94f0a54da1",
+      "time": "2026-06-15 06:02:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Iran deputy foreign minister: Iran-US MoU text finalized】On June 15, Iran Deputy Foreign Minister Gharibabadi said the Islamabad-drafted text of the Iran-US memorandum of understanding has been finalized and will be formally signed in Switzerland on Friday, June 19."
+    },
+    {
+      "id": "4934847",
+      "time": "2026-06-15 06:02:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4300美元/盎司，日內漲1.46%。"
+    },
+    {
+      "id": "4934846",
+      "time": "2026-06-15 06:01:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：在我們把最終要求納入文字之前，我們並未同意這份諒解備忘錄。"
+    },
+    {
+      "id": "mkt:019ec827-c79e-7dd8-aff7-a3d2d95d292f",
+      "time": "2026-06-15 06:01:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold gapped up over 1%, trading at $4,272.58/oz."
+    },
+    {
+      "id": "mkt:019ec827-6390-7dd8-aff7-9d242df14390",
+      "time": "2026-06-15 06:01:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures opened down 4.5% after a US-Iran agreement was reached."
+    },
+    {
+      "id": "4934845",
+      "time": "2026-06-15 06:01:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨跳漲0.7%，納斯達克指數期貨上揚1.1%，受美伊達成協議訊息提振。"
+    },
+    {
+      "id": "4934844",
+      "time": "2026-06-15 06:01:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌4%，現報83.76美元/桶。"
+    },
+    {
+      "id": "4934843",
+      "time": "2026-06-15 06:01:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4270美元/盎司，日內漲1.41%。"
+    },
+    {
+      "id": "4934842",
+      "time": "2026-06-15 06:01:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌5%，現報80.63美元/桶。"
+    },
+    {
+      "id": "4934841",
+      "time": "2026-06-15 06:01:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守84美元/桶，日內跌3.86%。"
+    },
+    {
+      "id": "4934840",
+      "time": "2026-06-15 06:00:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守81美元/桶，日內跌4.65%。"
+    },
+    {
+      "id": "mkt:019ec826-cc66-7dd8-aff7-94d409170f43",
+      "time": "2026-06-15 06:00:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq futures opened about 1% higher on Monday after reports that the United States and Iran reached an agreement."
+    },
+    {
+      "id": "4934839",
+      "time": "2026-06-15 06:00:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4263.07美元/盎司。"
+    },
+    {
+      "id": "4934838",
+      "time": "2026-06-15 06:00:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長證實已與美國達成協議。"
+    },
+    {
+      "id": "4934837",
+      "time": "2026-06-15 06:00:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報81.46美元/桶。"
+    },
+    {
+      "id": "4934836",
+      "time": "2026-06-15 06:00:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守68美元/盎司，日內漲1.48%。"
+    },
+    {
+      "id": "4934835",
+      "time": "2026-06-15 06:00:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報84.62美元/桶。"
+    },
+    {
+      "id": "4934834",
+      "time": "2026-06-15 06:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破83美元/桶，日內跌3.10%。"
+    },
+    {
+      "id": "4934833",
+      "time": "2026-06-15 06:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報82.25美元/桶。"
+    },
+    {
+      "id": "4934832",
+      "time": "2026-06-15 06:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4294.12美元/盎司。"
+    },
+    {
+      "id": "4934831",
+      "time": "2026-06-15 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1320.46美元/盎司。"
+    },
+    {
+      "id": "4934830",
+      "time": "2026-06-15 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報69.35美元/盎司。"
+    },
+    {
+      "id": "4934829",
+      "time": "2026-06-15 06:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長表示，伊朗的軍事力量和威脅有助於最終敲定協議文字."
+    },
+    {
+      "id": "4934828",
+      "time": "2026-06-15 06:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破86美元/桶，日內跌2.65%。"
+    },
+    {
+      "id": "4934827",
+      "time": "2026-06-15 06:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報85.36美元/桶。"
+    },
+    {
+      "id": "mkt:019ec825-e78a-7dd8-aff7-8d6df00856eb",
+      "time": "2026-06-15 05:59:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reports Vice President Vance plans to attend a signing ceremony in Geneva and said President Trump may also attend; logistics are still being coordinated."
+    },
+    {
+      "id": "mkt:019ec825-1133-7dd8-aff7-82e1d912ef09",
+      "time": "2026-06-15 05:58:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister says the formal signing of a memorandum of understanding will take place in Switzerland this Friday."
+    },
+    {
+      "id": "mkt:019ec824-d142-7dd8-aff7-7de57581a4fd",
+      "time": "2026-06-15 05:58:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iran's deputy foreign minister said if Tehran sees the other side violate the agreement, it will take unilateral measures."
+    },
+    {
+      "id": "4934826",
+      "time": "2026-06-15 05:58:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長表示，若發現對方違約，我方將自行採取措施。"
+    },
+    {
+      "id": "4934825",
+      "time": "2026-06-15 05:58:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺6月15日06時繼續釋出暴雨黃色預警。"
+    },
+    {
+      "id": "4934824",
+      "time": "2026-06-15 05:57:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：最終協議的談判將在60天內舉行。"
+    },
+    {
+      "id": "mkt:019ec824-1905-7dd8-aff7-77bedfe58385",
+      "time": "2026-06-15 05:57:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said negotiations on a final agreement will take place within 60 days."
+    },
+    {
+      "id": "4934823",
+      "time": "2026-06-15 05:57:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長：正式簽字儀式將於週五舉行。"
+    },
+    {
+      "id": "mkt:019ec823-a7e9-7dd8-aff7-6f8e35f07978",
+      "time": "2026-06-15 05:57:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said a memorandum of understanding does not imply trust in \"enemies\"."
+    },
+    {
+      "id": "4934822",
+      "time": "2026-06-15 05:57:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長稱，諒解備忘錄並不意味著信任\"敵人\"。"
+    },
+    {
+      "id": "mkt:019ec823-3909-7dd8-aff7-62ee7528b6fe",
+      "time": "2026-06-15 05:56:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said the text of the memorandum of understanding will be released after formal signing."
+    },
+    {
+      "id": "4934821",
+      "time": "2026-06-15 05:56:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長稱諒解備忘錄文字將在正式簽署後公佈。"
+    },
+    {
+      "id": "4934820",
+      "time": "2026-06-15 05:56:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪稱，雙方已敲定諒解備忘錄最終文字。"
+    },
+    {
+      "id": "mkt:019ec822-573f-7dd8-aff7-5e89220ab8f5",
+      "time": "2026-06-15 05:55:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran’s deputy foreign minister said Iran will immediately and permanently cease military operations on all fronts, including in Lebanon, effective tonight, and that the US maritime blockade of Iran will end tonight."
+    },
+    {
+      "id": "4934819",
+      "time": "2026-06-15 05:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：從今晚開始，美國對伊朗的海上封鎖將結束。"
+    },
+    {
+      "id": "mkt:019ec820-7d58-7dd8-aff7-502d897fff55",
+      "time": "2026-06-15 05:53:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reports Iran has decided to coordinate with Oman to regulate maritime traffic in the Gulf."
+    },
+    {
+      "id": "4934818",
+      "time": "2026-06-15 05:53:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長：從今晚開始，將宣佈立即並永久結束各條戰線（包括黎巴嫩）的戰爭和軍事行動。"
+    },
+    {
+      "id": "4934817",
+      "time": "2026-06-15 05:53:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：已決定由伊朗與阿曼協調，對海灣地區的海上交通進行管制。"
+    },
+    {
+      "id": "mkt:019ec81f-0409-7dd8-aff7-496f8332ebb5",
+      "time": "2026-06-15 05:52:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iranian media Fars News, Iran's Supreme National Security Council will soon issue an official statement on a ceasefire agreement with the United States."
+    },
+    {
+      "id": "4934816",
+      "time": "2026-06-15 05:52:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社稱，最高國家安全委員會即將就與美國的停火協議發表官方宣告。"
+    },
+    {
+      "id": "4934815",
+      "time": "2026-06-15 05:52:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊相關官員：以色列襲擊貝魯特郊區達希耶之後，伊朗議會議長卡利巴夫叫停了與卡達牽頭的核相關談判。伊朗軍方啟動武器發射系統。特朗普最終臨時讓步，當即全面解除對伊朗的海上封鎖。根據原定協議，該封鎖本應在30天內逐步解除。"
+    },
+    {
+      "id": "mkt:019ec81d-8a19-7dd8-aff7-43b060d0ece6",
+      "time": "2026-06-15 05:50:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iran's state television said Iran had forced the United States to accept a peace agreement."
+    },
+    {
+      "id": "4934814",
+      "time": "2026-06-15 05:50:33",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲天然氣價格開盤下跌5.5%，此前特朗普稱已達成伊朗核協議。"
+    },
+    {
+      "id": "4934813",
+      "time": "2026-06-15 05:49:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元跌0.2%至159.82，歐元兌美元漲0.3%報1.1600美元。"
+    },
+    {
+      "id": "4934812",
+      "time": "2026-06-15 05:49:23",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊美協議落地 美股或迎上漲 協議細節仍不明朗】特朗普總統宣佈美伊協議已正式達成，儘管協議細則尚不明確，伊朗也未完全表態認可，但美股股指期貨開盤後大機率走高。典型風險偏好風向標澳元兌美元匯率上漲約0.5%，漲幅超過歐元與日元，也印證了這一市場趨勢。原油期貨料將延續週五的跌勢。不過以色列襲擊黎巴嫩引發市場擔憂，原油交易商態度趨於謹慎。特朗普明確表態霍爾木茲海峽將恢復通航，進一步加劇了油價下行壓力。"
+    },
     {
       "id": "mkt:019ec81b-bdae-7dd8-aff7-391bf5359446",
       "time": "2026-06-15 05:48:41",
@@ -168032,346 +168748,6 @@
         "國際"
       ],
       "text": "日本金融廳擬針對資本金不足問題提前下達監管指令。"
-    },
-    {
-      "id": "mkt:019ea421-156f-7ee0-86d4-59a198458f06",
-      "time": "2026-06-08 06:08:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister held a phone call with Saudi Arabia's foreign minister, the Iranian Students' News Agency reported."
-    },
-    {
-      "id": "4922313",
-      "time": "2026-06-08 06:06:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1236.80美元/盎司。"
-    },
-    {
-      "id": "4922312",
-      "time": "2026-06-08 06:05:49",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【油價跳漲：伊朗襲擊以色列，停火協議岌岌可危】伊朗向以色列發射多輪導彈，和談陷入僵局、脆弱停火瀕臨破裂，國際油價反彈上漲。布倫特原油漲幅最高達3.6%，觸及每桶96.47美元；WTI原油逼近每桶94美元。一名伊朗軍事顧問表示，此次襲擊是對以色列的警告，要求其“停止在黎巴嫩的敵對行動”；以色列軍方稱已攔截所有來襲導彈。襲擊發生後，美國總統特朗普敦促伊朗重返談判，並批評以色列週日對貝魯特的空襲；他表示，將施壓以色列總理內塔尼亞胡不要採取報復行動。過去一週，中東地區敵對行動頻發，脆弱停火瀕臨崩潰，和平談判愈發複雜。衝突已導致關鍵的霍爾木茲海峽近乎關閉，全球原油、成品油及天然氣供應鏈受阻。"
-    },
-    {
-      "id": "mkt:019ea41c-9543-7ee0-86d4-55999774c761",
-      "time": "2026-06-08 06:03:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell $20 intraday to a low of $4,311/oz."
-    },
-    {
-      "id": "4922311",
-      "time": "2026-06-08 06:02:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4340美元/盎司，日內跌0.59%。"
-    },
-    {
-      "id": "4922310",
-      "time": "2026-06-08 06:02:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500股指期貨早盤下跌約0.6%；納斯達克100股指期貨下跌約0.7%。"
-    },
-    {
-      "id": "4922309",
-      "time": "2026-06-08 06:01:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破96美元/桶，日內漲3.15%。"
-    },
-    {
-      "id": "mkt:019ea41b-1c6f-7ee0-86d4-4975b4a8c33c",
-      "time": "2026-06-08 06:01:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Spot gold and silver opened flat on Monday."
-    },
-    {
-      "id": "4922308",
-      "time": "2026-06-08 06:01:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1240.14美元/盎司。"
-    },
-    {
-      "id": "mkt:019ea41a-c6c8-7ee0-86d4-41a6b40d90d2",
-      "time": "2026-06-08 06:01:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude oil rose 2.8% at the open Monday after Iran carried out a \"warning\" strike on Israel over the weekend."
-    },
-    {
-      "id": "4922307",
-      "time": "2026-06-08 06:01:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "益普索出口民調：秘魯總統選舉出口民調顯示桑切斯以49.3%的得票率位居第二。"
-    },
-    {
-      "id": "4922306",
-      "time": "2026-06-08 06:01:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油日內漲3%，現報95.96美元/桶。"
-    },
-    {
-      "id": "4922305",
-      "time": "2026-06-08 06:01:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨下跌0.4%。"
-    },
-    {
-      "id": "4922304",
-      "time": "2026-06-08 06:00:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "益普索出口民調顯示：秘魯總統選舉出口民調結果顯示藤森得票率為50.7%，處於領先。"
-    },
-    {
-      "id": "4922303",
-      "time": "2026-06-08 06:00:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4330美元/盎司，日內漲0.08%。"
-    },
-    {
-      "id": "mkt:019ea41a-24aa-7ee0-86d4-3da1635319bc",
-      "time": "2026-06-08 06:00:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US equity index futures opened lower on Monday; Nasdaq futures fell 0.6%, S&P 500 futures fell 0.4%."
-    },
-    {
-      "id": "4922302",
-      "time": "2026-06-08 06:00:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守92美元/桶，日內漲2.69%。"
-    },
-    {
-      "id": "4922301",
-      "time": "2026-06-08 06:00:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報93.28美元/桶。"
-    },
-    {
-      "id": "4922300",
-      "time": "2026-06-08 06:00:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報93.14美元/桶。"
-    },
-    {
-      "id": "4922299",
-      "time": "2026-06-08 06:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4360美元/盎司，日內跌0.08%。"
-    },
-    {
-      "id": "4922298",
-      "time": "2026-06-08 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報67.68美元/盎司。"
-    },
-    {
-      "id": "4922297",
-      "time": "2026-06-08 06:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲2%，現報95.79美元/桶。"
-    },
-    {
-      "id": "mkt:019ea418-f8e3-7ee0-86d4-3492dfb4cc37",
-      "time": "2026-06-08 05:59:20",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli broadcaster i24 cites Iranian state television reporting that Iran says it has launched attack drones toward Israel; if launched the drones could reach Israeli territory within hours."
-    },
-    {
-      "id": "4922296",
-      "time": "2026-06-08 05:58:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺6月8日06時繼續釋出暴雨橙色預警。"
-    },
-    {
-      "id": "mkt:019ea416-c91e-7ee0-86d4-2db2bcf9d70e",
-      "time": "2026-06-08 05:56:57",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【After Iran fires at Israel, IDF says it will strike HEZBOLLAH hard in Lebanon】Late on the 7th the IDF said Iran fired missiles at Israel in what it called \"a serious mistake\" and that it will continue operations across Lebanon while intensifying strikes on HEZBOLLAH. The IDF said it will not allow Iran to create a new balance of forces, is prepared for further missile attacks and ready to retaliate. IDF Chief of Staff Zamir is assessing the situation and is expected to approve the next operational plan."
-    },
-    {
-      "id": "4922295",
-      "time": "2026-06-08 05:56:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗打以色列後 以軍稱將猛打黎巴嫩真主黨】以色列國防軍發言人埃菲·德弗林7日深夜說，伊朗當晚向以色列發射導彈是“一個嚴重錯誤”，以軍將繼續在黎巴嫩展開行動，並加大對黎真主黨的打擊力度。（新華社）"
-    },
-    {
-      "id": "4922294",
-      "time": "2026-06-08 05:54:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲6月維持利率不變的機率為97%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為97%，累計降息25個基點的機率為3%。美聯儲到7月維持利率不變的機率為81.9%，累計加息25個基點的機率15.5%，累計降息25個基點的機率為2.5%。"
-    },
-    {
-      "id": "4922293",
-      "time": "2026-06-08 05:53:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【慕尼黑機場因塔臺煙霧警報臨時關閉 現已恢復運營】德新社7日援引德國慕尼黑機場公司發言人訊息報道，慕尼黑機場當晚因塔臺出現疑似火情短暫停運，已於當地時間22時30分恢復運營。此前，慕尼黑機場宣佈暫時停止運營。“機場塔臺因聞到煙霧氣味，於20時33分疏散，”機場官網釋出宣告稱，“德國空中交通管制部門已暫停所有航班運營，直至另行通知。”大約兩小時後，部分航班恢復起飛。機場發言人表示，尚不清楚多少航班受到影響。據德新社報道，德消防部門正在評估此次事件，目前無法提供更多資訊。（新華社）"
-    },
-    {
-      "id": "4922292",
-      "time": "2026-06-08 05:53:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：並非好想法不重要，只是相較於落地執行，想法被高估了。登月這個構想很簡單，但真正實現登月卻很難。"
-    },
-    {
-      "id": "4922291",
-      "time": "2026-06-08 05:52:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名巴基斯坦訊息人士表示，巴方正加緊開展外交溝通，以維持中東地區停火狀態、避免局勢進一步升級。"
-    },
-    {
-      "id": "4922290",
-      "time": "2026-06-08 05:50:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國外交大臣庫珀表示：談判必須繼續推進，以達成持久解決方案，實現和平與穩定，並全面恢復全球貿易。"
-    },
-    {
-      "id": "4922289",
-      "time": "2026-06-08 05:50:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗再襲以色列後美以領導人通話】以色列公共廣播公司今天（6月8日）報道稱，以色列總理內塔尼亞胡與美國總統特朗普結束通話後，正在與以色列安全官員進行緊急磋商。（ CCTV國際時訊）"
-    },
-    {
-      "id": "4922288",
-      "time": "2026-06-08 05:50:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：俄羅斯富商阿布羅莫維奇已抵達基輔，並提出願提供幫助。"
-    },
-    {
-      "id": "4922287",
-      "time": "2026-06-08 05:49:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基在與歐盟三巨頭會晤後表示：讓歐洲在談判中保持強硬立場與話語權，一直是我們的優先要務。"
-    },
-    {
-      "id": "4922286",
-      "time": "2026-06-08 05:49:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我們的遠端打擊已取得成效，但防禦彈道導彈威脅“至關重要”。"
-    },
-    {
-      "id": "4922285",
-      "time": "2026-06-08 05:49:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交大臣庫珀：伊朗與以色列必須保持克制，立即緩和局勢。"
-    },
-    {
-      "id": "4922284",
-      "time": "2026-06-08 05:49:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交大臣庫珀：伊朗與以色列重啟衝突不符合任何一方的利益。"
-    },
-    {
-      "id": "mkt:019ea40f-df1b-7ee0-86d4-23abeb21dd8f",
-      "time": "2026-06-08 05:49:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK foreign secretary said Iran and Israel must immediately show restraint and de-escalate tensions."
     }
   ]
 }
