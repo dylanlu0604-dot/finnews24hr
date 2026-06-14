@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-15 01:41:07",
-  "count": 18396,
+  "updated": "2026-06-15 01:45:07",
+  "count": 18395,
   "items": [
+    {
+      "id": "mkt:019ec73b-77cc-7dd8-aff5-c6acaec86e8c",
+      "time": "2026-06-15 01:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate minority leader McConnell was hospitalized Sunday morning."
+    },
+    {
+      "id": "4934708",
+      "time": "2026-06-15 01:43:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員米奇·麥康奈爾週日早上入院治療。"
+    },
+    {
+      "id": "mkt:019ec73a-eaa3-7dd8-aff5-bb416cb3df46",
+      "time": "2026-06-15 01:43:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said \"Islamic fighters\" will respond soon to Israel's strike in Lebanon."
+    },
+    {
+      "id": "4934707",
+      "time": "2026-06-15 01:42:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階安全官員：黎巴嫩與我們休慼與共。 我們絕不會容忍觸碰紅線的行為，伊斯蘭勇士即將展開反擊。"
+    },
+    {
+      "id": "4934706",
+      "time": "2026-06-15 01:40:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書就以色列襲擊黎巴嫩事件表示：\"伊斯蘭戰士\"的反擊即將到來。"
+    },
     {
       "id": "4934705",
       "time": "2026-06-15 01:40:12",
@@ -169125,58 +169169,6 @@
         "其他"
       ],
       "text": "德國地球科學研究中心（GFZ）：不丹發生5.57級地震。"
-    },
-    {
-      "id": "mkt:019ea32e-96e8-7ee0-86d1-8cf35123ca75",
-      "time": "2026-06-08 01:43:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA experts confirmed radiation levels at the Chernobyl site remain within normal ranges, indicating the incident did not cause radioactive contamination."
-    },
-    {
-      "id": "mkt:019ea32e-88a4-7ee0-86d1-819eff2858bf",
-      "time": "2026-06-08 01:43:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "IAEA: Drone strike near the Chernobyl nuclear power plant severely damaged part of the fuel-receiving building's structure."
-    },
-    {
-      "id": "mkt:019ea32d-8f08-7ee0-86d1-7c040fbb9cd1",
-      "time": "2026-06-08 01:42:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA said a team is assessing the impact of an early-morning drone strike on the Central Spent Fuel Storage Facility near the Chernobyl nuclear power plant."
-    },
-    {
-      "id": "4922129",
-      "time": "2026-06-08 01:42:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構：調查小組確認切爾諾貝利設施輻射水平仍保持正常，表明這起事件未造成任何放射性汙染。"
-    },
-    {
-      "id": "4922128",
-      "time": "2026-06-08 01:42:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構：切爾諾貝利廠區附近遭無人機襲擊，燃料接收樓部分結構嚴重受損。"
-    },
-    {
-      "id": "4922127",
-      "time": "2026-06-08 01:41:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，墨西哥南部部分地區預計將遭遇暴雨及洪澇災害。"
     }
   ]
 }
