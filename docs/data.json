@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-15 01:49:05",
-  "count": 18396,
+  "updated": "2026-06-15 01:53:05",
+  "count": 18399,
   "items": [
+    {
+      "id": "mkt:019ec742-0fc2-7dd8-aff5-e4ed3ea9b983",
+      "time": "2026-06-15 01:50:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's state oil sales organization chief said Baghdad has asked Turkey to extend the Kirkuk-Ceyhan pipeline agreement by at least one year to allow more time to negotiate a new deal."
+    },
+    {
+      "id": "mkt:019ec741-92d1-7dd8-aff5-dff6b31b8e85",
+      "time": "2026-06-15 01:50:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Missouri Highway Patrol said troopers have arrived to assist Butler Police and the Bates County Sheriff's Office after a plane crashed near Butler Memorial Airport."
+    },
+    {
+      "id": "4934712",
+      "time": "2026-06-15 01:50:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國密蘇里州高速公路巡警：目前報告顯示機上所有人員（共12人）均已遇難。"
+    },
+    {
+      "id": "4934711",
+      "time": "2026-06-15 01:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克國家石油營銷組織負責人：伊拉克已要求土耳其將基爾庫克-傑伊漢輸油管道協議至少延長一年，以便為談判新協議留出更多時間。"
+    },
+    {
+      "id": "4934710",
+      "time": "2026-06-15 01:49:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國密蘇里州高速公路巡警：警員已抵達現場，協助巴特勒警局及貝茨縣警長辦公室處理巴特勒紀念機場附近的墜機事故。"
+    },
     {
       "id": "mkt:019ec73f-57ee-7dd8-aff5-d76b274e8b2e",
       "time": "2026-06-15 01:47:57",
@@ -169169,22 +169214,6 @@
         "國際"
       ],
       "text": "伊朗航空IRA1686航班從馬什哈德機場起飛，前往吉達機場。該航班在伊朗北部戈爾甘附近降至低空後，從航班追蹤平臺Flightradar24上消失。"
-    },
-    {
-      "id": "4922132",
-      "time": "2026-06-08 01:51:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【熱烈歡迎習近平總書記 平壤飄揚中朝國旗】應朝鮮勞動黨總書記、朝鮮民主主義人民共和國國務委員長金正恩邀請，中共中央總書記、中華人民共和國主席習近平於6月8日至9日對朝鮮民主主義人民共和國進行國事訪問。 6月7日，新華社記者看到首都平壤已盛裝以待，歡迎中國貴賓。主要街道兩側，中朝兩國國旗迎風飄揚。多座地標建築亮出橫幅，熱烈歡迎習近平總書記到訪。（新華國際）"
-    },
-    {
-      "id": "mkt:019ea336-3450-7ee0-86d1-95aa2367f007",
-      "time": "2026-06-08 01:51:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's president said his negotiating team will not concede and must firmly defend the rights of the Iranian people."
     }
   ]
 }
