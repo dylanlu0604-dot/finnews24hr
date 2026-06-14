@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-15 01:05:27",
-  "count": 18383,
+  "updated": "2026-06-15 01:09:11",
+  "count": 18381,
   "items": [
+    {
+      "id": "mkt:019ec71a-0ae4-7dd8-aff5-358db4a2d7f4",
+      "time": "2026-06-15 01:07:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior Israeli official told Channel 12 that Trump's statement was \"a loud slap\", saying \"constraints have escalated; there is an expectation that we not strike anywhere in Lebanon,\" which the official said is inconsistent with the role of a strategic ally."
+    },
     {
       "id": "4934686",
       "time": "2026-06-15 00:59:05",
@@ -169017,34 +169025,6 @@
         "焦點"
       ],
       "text": "香港天文臺釋出紅色暴雨警告。"
-    },
-    {
-      "id": "4922114",
-      "time": "2026-06-08 01:08:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗司法部門負責人：伊朗與黎巴嫩抵抗力量並肩作戰，雙方實力互為補充。"
-    },
-    {
-      "id": "mkt:019ea30e-1365-7ee0-86d1-320d80883793",
-      "time": "2026-06-08 01:07:49",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israeli sources told Channel 12 that Hezbollah is expected to carry out a larger-scale escalation. Israel may broaden the scope of its retaliation."
-    },
-    {
-      "id": "mkt:019ea30c-f9c6-7ee0-86d1-2c0148f1c27f",
-      "time": "2026-06-08 01:06:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【British media: Trump considers buying Chagos Islands, bypassing UK to deal directly with Mauritius】British media report the Trump administration is considering purchasing the Chagos Islands from Mauritius to preserve the strategically important US‑UK military base on Diego Garcia. The proposal would bypass the UK and could directly conflict with Prime Minister Starmer’s plan to transfer sovereignty to Mauritius and lease the base back for 99 years."
     }
   ]
 }
