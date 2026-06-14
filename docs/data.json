@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-14 20:46:18",
+  "updated": "2026-06-14 20:50:30",
   "count": 18280,
   "items": [
+    {
+      "id": "mkt:019ec62e-70d0-7dd8-aff1-de41f618d42b",
+      "time": "2026-06-14 20:49:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran vows retaliation over Israeli strike on Beirut】Responding to Israeli strikes on Beirut’s southern suburbs on June 14, Iran’s Khatam al-Anbiya Central Command said Israel’s \"crimes\" in Lebanon will be met with retaliatory strikes."
+    },
+    {
+      "id": "4934474",
+      "time": "2026-06-14 20:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱將就貝魯特遭襲報復以色列】針對以色列今天（6月14日）再次襲擊黎巴嫩首都貝魯特南郊，伊朗武裝部隊哈塔姆·安比亞中央司令部方面稱，以色列在黎巴嫩的“罪行”必將遭到報復性打擊。 (CCTV國際時訊)"
+    },
+    {
+      "id": "4934473",
+      "time": "2026-06-14 20:49:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：北部地區拉響敵方軍機入侵警報。"
+    },
+    {
+      "id": "mkt:019ec62b-5b77-7dd8-aff1-d0e953d31aaa",
+      "time": "2026-06-14 20:46:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera said an Israeli airstrike on the southern suburbs of Beirut, Lebanon, raised the death toll to 3 and injured 15."
+    },
+    {
+      "id": "mkt:019ec62a-e0fb-7dd8-aff1-c822a059b066",
+      "time": "2026-06-14 20:45:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says Israeli strike on Lebanon makes U.S.-Iran talks 'impossible'】On the 14th, Iranian parliament speaker Ghalibaf posted on social media saying Israel's strike on the southern suburbs of Beirut again shows the U.S. \"either lacks the will or the capacity to fulfill its commitments,\" and that \"continuing to advance the dialogue process has become impossible.\" Xinhua"
+    },
+    {
+      "id": "4934472",
+      "time": "2026-06-14 20:45:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：以色列襲擊黎巴嫩使得伊美對話“變得不可能”】伊朗議會議長卡利巴夫14日在社交媒體發文表示，以色列對黎巴嫩首都貝魯特南郊的襲擊再次表明，美國“要麼沒有履行承諾的意願，要麼沒有履行承諾的能力”，“繼續推進對話程序變得不可能”。（新華社）"
+    },
     {
       "id": "4934471",
       "time": "2026-06-14 20:44:17",
@@ -168113,66 +168170,6 @@
         "公司"
       ],
       "text": "聯合航空執行長表示，亞洲、非洲部分地區市場顯現擔憂情緒。"
-    },
-    {
-      "id": "mkt:019ea222-6119-7ee0-86cf-62cddf4778cd",
-      "time": "2026-06-07 20:50:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Seven OPEC+ countries will raise oil production quotas by 188,000 b/d in July, the statement said."
-    },
-    {
-      "id": "4921954",
-      "time": "2026-06-07 20:50:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：萬辰與鳴鳴很忙釋出反內卷宣告 強推零售連鎖變革投資機會】中信建投研報稱，萬辰與鳴鳴很忙釋出反內卷宣告，對價格戰問題擔心逐步修復，5月開店繼續提速，繼續強推零售連鎖變革的投資機會。餐飲鏈從2025年第三季度以來的競爭趨緩方向不變，關注餐飲鏈調整後的α標的。"
-    },
-    {
-      "id": "4921953",
-      "time": "2026-06-07 20:49:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "聯合航空執行長：美國航空市場需求表現強勁。"
-    },
-    {
-      "id": "4921952",
-      "time": "2026-06-07 20:49:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列提前通知了美國政府對達希耶的襲擊。"
-    },
-    {
-      "id": "mkt:019ea221-469e-7ee0-86cf-5caa19c54996",
-      "time": "2026-06-07 20:49:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "600048.SS",
-        "Impact bullish"
-      ],
-      "text": "【CSC Financial: May 100-city secondhand home price drop narrows; premium core land still sought】CSC Financial, citing China Index Academy data, said average secondhand residential prices across 100 cities fell 0.32% MoM in May, a 0.14ppt improvement from April, and were down 7.99% YoY, a 0.35ppt narrowing. Shanghai secondhand prices have risen for three consecutive months, indicating the market is moving toward stabilization. This week Poly Real Estate won a Nanshan, Shenzhen residential parcel for 57.7 bln yuan at a 150.7% premium, setting a Shenzhen record floor price of 109,000 yuan/sq.m; CSC said demand for premium plots in core cities remains strong."
-    },
-    {
-      "id": "4921951",
-      "time": "2026-06-07 20:47:17",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信建投：5月百城二手房價跌幅收窄，核心城市優質地塊持續受到市場認可】中信建投研報稱，根據中指研究院統計，5月百城二手住宅均價環比下跌0.32%，跌幅較上月收窄0.14個百分點，同比下跌7.99%，較上月收窄0.35個百分點，上海二手房價格已連續3個月上漲，樓市持續向止跌回穩目標邁進。本週深圳南山宅地被保利置業以總價57.7億元競得，溢價率達150.7%，10.9萬元每平方米的成交樓面價重新整理深圳宅地樓面價記錄，核心城市優質地塊持續受到市場認可。"
     }
   ]
 }
