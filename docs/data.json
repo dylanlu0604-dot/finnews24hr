@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-14 14:15:49",
-  "count": 18292,
+  "updated": "2026-06-14 14:19:43",
+  "count": 18295,
   "items": [
+    {
+      "id": "mkt:019ec4c7-87fd-7dd8-afef-44d7cccfea12",
+      "time": "2026-06-14 14:17:51",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UK Ministry of Defence said British forces this morning boarded a sanctioned shadow-fleet tanker in the English Channel. The vessel SMYRTOS will be temporarily moved to an anchorage off England's south coast and monitored for environmental and safety risks."
+    },
+    {
+      "id": "4934254",
+      "time": "2026-06-14 14:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防部：“斯米爾託斯”號將臨時轉移至英格蘭南海岸外的一處錨地停泊，將對該船可能引發的任何環境或安全問題進行監測。"
+    },
+    {
+      "id": "4934253",
+      "time": "2026-06-14 14:16:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防部：英軍今日上午在英吉利海峽登查一艘受制裁的影子艦隊油輪。"
+    },
     {
       "id": "4934252",
       "time": "2026-06-14 14:12:25",
