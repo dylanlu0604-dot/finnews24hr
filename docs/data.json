@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-15 01:25:08",
-  "count": 18388,
+  "updated": "2026-06-15 01:29:09",
+  "count": 18389,
   "items": [
+    {
+      "id": "mkt:019ec72d-a308-7dd8-aff5-695ff6bfde58",
+      "time": "2026-06-15 01:28:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Channel 12 cited an Israeli assessment that Trump will soon announce he will \"give\" Iran certain concessions in exchange for Iran refraining from responding to Israel’s strike in Beirut."
+    },
+    {
+      "id": "4934696",
+      "time": "2026-06-15 01:27:44",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "加拿大總理馬克·卡尼表示，美國出臺出口禁令，禁止境外各方獲取Anthropic公司最新款人工智慧產品，這一舉措凸顯出僅依賴少數幾款主流人工智慧工具所潛藏的風險。"
+    },
+    {
+      "id": "4934695",
+      "time": "2026-06-15 01:26:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐伊拉克特使湯姆·巴拉克明日將在巴格達磋商政治、安全及經濟相關議題，並就各武裝派系不加入政府的相關事宜展開溝通。"
+    },
+    {
+      "id": "mkt:019ec72a-f800-7dd8-aff5-6635e7ac6008",
+      "time": "2026-06-15 01:25:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Israel Defense Forces says rockets and drones launched from Lebanon detected】On the evening of the 14th, the Israel Defense Forces said multiple air-raid sirens sounded across northern Israel after it detected rockets and drones launched from Lebanon. One rocket landed in an Israeli community near the border and several drones fell on the Israeli side."
+    },
+    {
+      "id": "mkt:019ec72a-5f65-7dd8-aff5-5ab0ffb5cbae",
+      "time": "2026-06-15 01:25:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "An Israeli senior cabinet minister told Channel 12: \"For us, Iran is Trump's problem; he has the right to seek a deal, but Lebanon is our problem, and we absolutely cannot accept the equation Iran has proposed, even at the cost of a serious confrontation with the United States.\""
+    },
     {
       "id": "mkt:019ec729-b0d8-7dd8-aff5-50c4766494c6",
       "time": "2026-06-15 01:24:18",
@@ -169048,39 +169098,6 @@
         "國際"
       ],
       "text": "【美方正考慮收購查戈斯群島】美國白宮正多方謀劃保住查戈斯群島控制權，其中一項方案是，待英國將該群島主權移交模里西斯後，由美國從模里西斯手中購入這片領地。 出於對戰略要地迪戈加西亞軍事基地前景的擔憂，特朗普政府正在評估多項備選方案，上述收購計劃便是其中之一。"
-    },
-    {
-      "id": "mkt:019ea321-6e1d-7ee0-86d1-57875147a58e",
-      "time": "2026-06-08 01:28:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli public broadcaster says a US delegation will be briefed by Israeli military officials."
-    },
-    {
-      "id": "4922119",
-      "time": "2026-06-08 01:27:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美防長稱美伊停火仍有效】6月7日，美國國防部長赫格塞思在離開法國前回答記者提問時稱，儘管近期美國與伊朗之間多次互襲，但雙方之間的臨時停火“仍然有效”，美方正推動與伊朗達成和平協議。不過赫格塞思同時也強調，如果協議未能達成，美軍也已“做好準備”，將“採取必要措施確保伊朗永遠不會擁有核武器”。"
-    },
-    {
-      "id": "4922118",
-      "time": "2026-06-08 01:26:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗稱每艘駛過霍爾木茲海峽的船隻需繳納150萬至200萬美元費用。"
-    },
-    {
-      "id": "mkt:019ea31e-0678-7ee0-86d1-4eb243d849d6",
-      "time": "2026-06-08 01:25:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said the prime minister and foreign minister stated all parties need to respond to mediation efforts to reach a sustainable agreement."
     }
   ]
 }
