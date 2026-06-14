@@ -1,7 +1,547 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 15:49:36_
-_本檔包含 3596 則快訊，約 656430 字_
+_更新時間：2026-06-14 17:19:39_
+_本檔包含 3584 則快訊，約 657832 字_
+
+---
+
+### 2026-06-10 08:47:17  #其他
+
+【兩市融資餘額較上日增加36.37億元】截至6月9日，上交所融資餘額報14522.22億元，較前一交易日減少14.81億元；深交所融資餘額報14049.07億元，較前一交易日增加51.18億元；兩市合計28571.29億元，較前一交易日增加36.37億元。
+
+---
+
+### 2026-06-10 08:47:14  #國際
+
+據伊朗媒體10日報道，當天凌晨，伊朗西部城市阿瓦士聽到疑似爆炸聲。（新華社）
+
+---
+
+### 2026-06-10 08:47:09  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Drop as US Hits Iran — The Nikkei 225 Index dropped 1.2% to below 65,000, while the broader Topix Index fell 0.4% to 3,880 on Wednesday, giving back the previous session’s gains as investor sentiment deteriorated after the US launched “self-defense strikes” against Iran in response to the downing of an American helicopter. Japanese equities also followed a technology-led selloff on Wall Street, where semiconductor stocks came under renewed pressure. Meanwhile, domestic data showed Japan’s wholesale inflation accelerated to 6.3% year-on-year in May, the fastest pace in more than three years, driven by surging energy costs. Chipmakers and AI-related companies led the market lower, with sharp declines from Kioxia Holdings (-3.6%), Taiyo Yuden (-3%), SoftBank Group (-8.4%), Murata Manufacturing (-4.2%), and Fujikura (-6.7%). Bucking the trend, Tokyo Electron surged 6.9% to a new record high.
+
+---
+
+### 2026-06-10 08:47:01  #MKT News
+
+Iranian media reported on the 10th that suspected explosions were heard early that morning in Ahvaz, western Iran.
+
+---
+
+### 2026-06-10 08:46:56  #其他
+
+【第二次中英環境部長對話會在京舉行】6月9日，第二次中英環境部長對話會在北京舉行，生態環境部部長黃潤秋與英國環境、食品和農村事務大臣艾瑪·雷諾茲共同主持會議，雙方圍繞生物多樣性保護和自然金融、化學品管理和國際塑膠汙染法律文書談判、中英環境合作展望、多邊環境程序及協調等議題進行了深入交流。
+
+---
+
+### 2026-06-10 08:45:45  #市場 #央行 #國際
+
+【韓國啟動對外匯銀行的檢查後 韓元應聲走強】韓國央行和金融監管機構將於週三開始對主要外匯銀行進行聯合檢查，這是14年來首次進行此類檢查。訊息公佈後，韓元應聲走強。根據一份聯合宣告，韓國銀行和金融監督院在表示本次非現場和現場審查旨在查明各銀行是否從事可能破壞外匯市場穩定的交易。宣告補充稱，審查將查明市場參與者是否透過操縱或壓制匯率，為自身或第三方謀取不當利益。該宣告稱，在聯合檢查中被發現違反規定的銀行將根據相關法律面臨嚴厲處罰。訊息公佈後，韓元一度上漲0.9%至1美元兌1,514.35韓元。韓元本週漲逾2%，但其表現仍屬亞貨最差之列，年迄今已下跌5%，跌幅僅次於印尼盾和印度盧比。
+
+---
+
+### 2026-06-10 08:45:15  #市場
+
+納斯達克100指數期貨一度跌0.5%。
+
+---
+
+### 2026-06-10 08:44:21  #市場 #焦點
+
+現貨黃金失守4200美元/盎司，日內跌1.40%。
+
+---
+
+### 2026-06-10 08:44:19  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+【Spot gold falls below $4,200/oz, lowest in nearly three months】Spot gold extended losses, slipping below $4,200/oz for the first time since March 23, down 1.4% intraday.
+
+---
+
+### 2026-06-10 08:43:56  #其他
+
+【國泰海通證券：看好機器人感知系統、核心零部件與本體廠商】國泰海通證券研報稱，看好機器人感知系統、核心零部件與本體廠商。物理AI基礎模型與模擬引擎加速機器人研發程序，工業與服務領域場景落地打通商業模式，產業鏈投融資加速推動研發與產能投放，重磅產品規模效應顯現有望激發終端需求。推薦：1.感知能力是關鍵突破點，看好觸覺與視覺感測器；2.核心零部件率先受益量產，看好靈巧手/絲槓/輕量化材料；3.受益終端需求提升的頭部本體廠商。
+
+---
+
+### 2026-06-10 08:43:38  #MKT News #Important
+
+Iran's Mehr News Agency reports local sources heard explosion-like sounds in Ahvaz.
+
+---
+
+### 2026-06-10 08:43:15  #國際
+
+伊朗西南部城市阿瓦士發生爆炸。（伊朗邁赫爾通訊社）
+
+---
+
+### 2026-06-10 08:42:48  #市場 #國際
+
+日本日經股價平均指數跌幅擴大，最新下跌1.30%，報64569.42點。
+
+---
+
+### 2026-06-10 08:42:29  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少3.42噸】截至2026年06月09日，全球最大的黃金ETF SPDR Gold Trust持倉量為1016.50噸，較前一個交易日減少3.42噸。
+
+---
+
+### 2026-06-10 08:42:08  #國際
+
+【韓國綜指跌幅擴大至3%】韓國綜指跌幅擴大至3%，現報7853.57點。
+
+---
+
+### 2026-06-10 08:42:05  #其他
+
+APO Apotex Health   IPO定價為每股24加元，處於發行價區間的上限。
+
+---
+
+### 2026-06-10 08:41:04  #Trading Economics #Economy #Indonesia #Car Registrations #Importance 1
+
+Indonesia Car Sales Rise 14% in May — New car sales in Indonesia increased 14.0% year-on-year to 69,219 units in May 2026, after surging 55.0% in the previous month. It was the second consecutive month of growth, though at a slower pace amid persistent price pressures. However, the Association of Indonesian Automotive Industries (Gaikindo) remains concerned about the weakening rupiah, which could potentially increase production and import costs if the depreciation persists. For the first five months of the year, car sales grew 12.8% from the same period in 2025, reaching 359,015 units. Gaikindo previously targeted domestic new car sales to reach 850,000 units in 2026. That figure represents a 5.8% increase from the 2025 total of 803,687 units. On a monthly basis, car sales also rose, advancing 13.0% from April, when sales totaled 80,776 units. Meanwhile, retail new car sales grew 16.8% month-on-month to 71,890 units.
+
+---
+
+### 2026-06-10 08:40:48  #Trading Economics #Markets #Japan #stocks #Importance 1
+
+Sony Stock Price Hits 4-week Low — Sony shares decreased to 3381.00 JPY, the lowest since May 2026. Over the past 4 weeks, Sony gained 0.5%, and in the last 12 months, it decreased 9.55%.
+
+---
+
+### 2026-06-10 08:40:38  #宏觀 #國際
+
+韓國企劃財政部長官：將利用擴大的財政政策空間進行未來投資；解決不平等與通脹問題需要實施積極財政政策。將密切監控債券收益率上行、匯率走弱及股市波動帶來的相關風險。
+
+---
+
+### 2026-06-10 08:39:34  #MKT News #Macro & Rates
+
+South Korea's finance minister said authorities will closely monitor risks from rising bond yields, won weakness and equity market volatility.
+
+---
+
+### 2026-06-10 08:38:06  #宏觀 #公司
+
+【超30家銀行暫停部分貨幣基金申購業務】進入5月下旬以來，一場覆蓋數十家銀行的貨幣基金申購暫停整改行動在行業內全面鋪開。記者注意到，近一個月以來，已有常熟農商行、天津農商行、紫金農商行、江陰農商行等超30家中小銀行釋出公告，集中暫停部分貨幣基金申購業務。與此同時，易方達、鵬華、諾安等頭部基金公司也同步調整渠道服務許可權，配合銀行端完成合規整改。這場變革的源頭，可以追溯到去年底監管部門出臺的一則資金劃轉新規。2025年11月24日釋出的《機構監管情況通報》明確提出，對於場外貨幣市場基金，基金銷售機構應當在基金份額確認當日（T+1日）16:00前，將確認成功的申購資金劃轉至該基金的註冊登記賬戶。六個月的整改過渡期於2026年5月底正式屆滿。“本輪貨幣基金銷售合規整改能夠有效整治舊規則下資金劃轉時間差衍生的套利行為，遏制機構利用週末及節假日機制開展的短期套利操作。”蘇商銀行特約研究員武澤偉表示。（中國金融時報）
+
+---
+
+### 2026-06-10 08:37:36  #公司 #國際
+
+【納芯微推出透過IBEE/FTZ-Zwickau EMC認證最高Class III等級、全國產化的CAN收發器】6月10日，納芯微宣佈推出全國產化供應鏈的汽車級CAN收發器晶片NCA1043D-Q1，新器件憑藉業內領先的抗干擾特性，在歐洲權威測試機構IBEE/FTZ-Zwickau的EMC認證中，實現無特殊條件備註、全測試項透過最高Class III等級。NCA1043D-Q1同時滿足大眾集團VW80121-3，2023-12標準，納芯微現可提供相關測試報告，支援汽車製造商簡化系統認證流程，加速產品上市。
+
+---
+
+### 2026-06-10 08:36:12  #MKT News
+
+South Korea's finance minister said active fiscal policy is necessary to address inequality and inf.
+
+---
+
+### 2026-06-10 08:36:11  #MKT News
+
+South Korea's finance minister said the government will use expanded fiscal policy space to fund future investments.
+
+---
+
+### 2026-06-10 08:34:50  #宏觀 #公司 #觀點
+
+【摩根士丹利澳洲負責人預警樓市走弱】摩根士丹利澳大利亞執行長表示，當前消費者信心本就低迷，針對房產投資者的稅收政策調整或將引發樓市下行。理查德・瓦格納（Richard Wagner ）週三在採訪中稱：“聯邦預算案出臺後，房屋拍賣成交率等多項指標表現堪憂，預示部分樓市板塊將面臨下行壓力。”上月聯邦預算案推出多項稅改：收緊房產投資虧損與房貸利息的稅前抵扣規則，並取消資本利得稅減免。此舉旨在降低購房門檻，幫助剛需首置購房者入市 —— 澳大利亞房價負擔能力本就位居全球低位。瓦格納表示，房產投資者已受到衝擊。住宅市場中，投資客佔比達四成，勢必對房價造成影響。他補充道，預算案帶來的影響將在未來六個月逐步顯現。
+
+---
+
+### 2026-06-10 08:33:55  #市場 #焦點
+
+紐約期金失守4230美元/盎司，日內跌1.32%。
+
+---
+
+### 2026-06-10 08:32:46  #市場
+
+紐約期銀日內跌1%，現報64.58美元/盎司。
+
+---
+
+### 2026-06-10 08:32:46  #市場 #焦點
+
+現貨黃金失守4210美元/盎司，日內跌1.20%。
+
+---
+
+### 2026-06-10 08:32:25  #市場
+
+韓元兌美元升值超1%。
+
+---
+
+### 2026-06-10 08:32:07  #MKT News #Market Regions #Japan & APAC #DXY #Impact bearish #XAUUSD #Impact bullish #USDJPY
+
+South Korean won rose more than 1% against the dollar after South Korea's Finance Ministry said it would inspect speculative trading in the foreign-exchange market.
+
+---
+
+### 2026-06-10 08:31:47  #國際
+
+韓國：將協調一致落實各項宏觀政策。
+
+---
+
+### 2026-06-10 08:31:25  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude up 1.00% intraday at $92.04/bbl.
+
+---
+
+### 2026-06-10 08:31:00  #其他
+
+【山東省委副書記、省長周乃翔深入煤礦井下督導安全生產】6月9日，山東省委副書記、省長周乃翔在棗莊滕州市檢查督導煤礦安全生產工作並主持召開座談會。他指出，安全生產是人命關天的大事，一刻也不能鬆懈。（澎湃）
+
+---
+
+### 2026-06-10 08:30:29  #國際
+
+韓國稱，將努力穩定民生經濟，降低風險。
+
+---
+
+### 2026-06-10 08:30:08  #市場
+
+上海證交所上日融資餘額下跌0.1%至14,522.2億元。
+
+---
+
+### 2026-06-10 08:29:57  #國際
+
+韓國稱金融業波動性擴大。
+
+---
+
+### 2026-06-10 08:29:39  #國際
+
+【歐盟對Meta採取臨時措施，要求其暫停對AI競爭對手的WhatsApp接入限制】當地時間6月9日，歐盟已下令Meta恢復競對通用型AI助手對WhatsApp的免費訪問許可權，並維持該狀態直至委員會的反壟斷調查結束。歐盟委員會稱，此舉旨在防止Meta的行為對這一快速增長的市場造成嚴重且不可彌補的損害。其表示，初步證據表明，Meta已違反了歐盟競爭規則。
+
+---
+
+### 2026-06-10 08:29:25  #公司
+
+【國產硼藥聯合國產BNCT裝置I期臨床治療後30天觀察期結束，安全性獲關鍵驗證，預計今年第三季度將啟動II期臨床】近日，由海南普利製藥股份有限公司（簡稱“普利製藥”）、國科中子醫療科技有限公司（簡稱“國科中子”）、中國科學院高能物理研究所、雜湊中子源科學中心以及南方醫科大學第十附屬醫院（東莞市人民醫院）聯合開展的硼中子俘獲治療（Boron Neutron Capture Therapy，BNCT）I期臨床試驗，迎來關鍵里程碑——全部複發性頭頸部惡性腫瘤受試者的治療後30天觀察期正式結束。這一關鍵節點的達成，標誌著中國高階中子醫療裝備與創新硼藥的研發在臨床轉化應用中取得實質性突破，為後續關鍵性註冊臨床研究奠定了堅實基礎。預計今年第三季度啟動II期臨床。
+
+---
+
+### 2026-06-10 08:28:01  #國際
+
+據伊朗媒體10日報道，當天凌晨，伊朗格什姆島發生爆炸。（新華社）
+
+---
+
+### 2026-06-10 08:27:15  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+【Oulutong says it has agreed with Google on GPU power-supply project, advancing to testing and small-batch production】Oulutong told investors it has reached cooperation with overseas cloud service provider Google on a GPU power-supply project for compute equipment and will support the customer as the project moves into testing, small-batch and eventual mass production; exact timing remains subject to confirmation with Google.
+
+---
+
+### 2026-06-10 08:26:28  #市場 #焦點
+
+布倫特原油突破93美元/桶，日內漲1.73%。
+
+---
+
+### 2026-06-10 08:26:26  #公司 #市場 #國際
+
+日本晶片相關股大幅下跌，軟銀集團股價下跌8.0%， Sumco股價下跌9.2%，愛德萬測試股價下跌3.0%。
+
+---
+
+### 2026-06-10 08:26:25  #MKT News #9984.T #Impact bearish
+
+SoftBank Group shares' losses widened to 8%.
+
+---
+
+### 2026-06-10 08:25:57  #公司
+
+【歐陸通：已與Google達成算力裝置GPU電源專案合作 正推進至測試及小批次生產】歐陸通在投資者關係活動中表示，公司現已就算力裝置GPU電源專案與海外頭部CSP客戶Google達成合作，將全力配合客戶推進至測試、小批次及批次生產，具體專案節奏待與客戶進一步確認。
+
+---
+
+### 2026-06-10 08:25:34  #公司 #市場 #國際
+
+【韓國Kospi指數下跌 晶片股重拾跌勢】韓國基準股指Kospi指數一度下跌2.8%，晶片股重拾跌勢。美國對伊朗發動新的打擊後，市場風險偏好減弱。三星電子、SK海力士和SK Square對指數拖累最大。Kospi 200波動率指標週二首次升破90，至紀錄新高。韓國股市表現遜於MSCI亞太指數，後者一度跌0.6%。
+
+---
+
+### 2026-06-10 08:24:40  #市場
+
+任天堂股價下跌8%，軟體釋出會令人失望。
+
+---
+
+### 2026-06-10 08:23:55  #其他
+
+【香港銀行上日向金管局貼現窗借取約24億港元隔夜流動性】香港銀行於週二（9日）向金管局貼現窗借取24.58億港元隔夜流動性，週三（10日）回籠。連同扣除外匯基金票據及債券所付利息或新發行量0.61億港元，銀行體系總結餘回落至538.86億港元。香港銀行同業港元隔夜拆息週二回落至2.09786%，前一天則為2.32488%。
+
+---
+
+### 2026-06-10 08:22:25  #公司 #市場 #國際
+
+【日經指數下跌0.6% 受科技和金屬股拖累】繼隔夜美國科技股下跌，且在圍繞伊朗衝突的持續不確定性下，日本股市走低。科技股和金屬股領跌。軟銀集團下跌7.3%，Sumco下跌8.2%。在美國為報復一架美軍阿帕奇直升機被擊落而對伊朗發動打擊後，投資者正密切關注中東局勢的發展。日經指數下跌0.6%，至65043.99點。
+
+---
+
+### 2026-06-10 08:22:24  #MKT News #WTI #Impact bullish #Brent
+
+Iranian media report explosions heard on southern Qeshm Island.
+
+---
+
+### 2026-06-10 08:22:15  #公司 #市場
+
+【廣東加碼充電設施建設，機構密集調研股名單出爐】廣東省發展改革委等部門近日印發的《廣東省電動汽車充電設施高質量發展行動方案》（簡稱《方案》）提出，透過持續創新應用場景、健全充電網路、提升充電效能、最佳化服務品質、創新產業生態，建成超充、快充、慢充互為補充的高質量充電設施體系，推動粵東粵西粵北與珠三角地區充電設施均衡發展，促進電動汽車更大範圍購置使用。2027年底前，全省累計建成300萬個以上充電設施，滿足超過800萬輛新能源汽車充電需求；全省實現“超充縣縣通”，超充站數量不少於加油站數量。據證券時報·資料寶統計，A股市場中佈局充電設施產業鏈的個股共有50只，6月9日多數上漲，真視通、英維克漲停，麥格米特、能科科技、京泉華、高瀾股份上漲超6%。從機構關注度來看，10只充電設施概念股5月以來獲機構調研，盛弘股份、思源電氣、銀輪股份機構調研家數居前，分別達到103家、24家、20家。
+
+---
+
+### 2026-06-10 08:21:46  #其他
+
+【中國科學院：要深化科教融合 探索設立腦機介面等特色交叉學科專業】6月8日，中國科學院黨組召開理論學習中心組集體學習會。中國科學院院長、黨組書記侯建國強調，腦機介面技術是推動拓展生命認知邊界、促進人類健康福祉的顛覆性前沿技術，對培育未來產業、加快形成新質生產力具有重要意義。中國科學院要主動對標國家需求，在前期佈局基礎上發揮體系化建制化優勢，著重加強底層原理和共性技術突破，加快搶佔科技制高點。要抓緊協調組織研究隊伍，統籌不同技術路徑，整合重大科技基礎設施等平臺資源，形成攻堅合力。要深化科教融合，探索設立腦機介面等特色交叉學科專業，注重在重大科技任務組織實施中加快培養青年人才和戰略人才。要堅持在創新鏈條中的定位，強化產業應用導向，緊密結合應用場景共同凝練選題建議、聯合開展技術攻關，充分發揮科技創新策源功能。要強化倫理監管，完善標準規範，防範化解潛在風險隱患，為我國腦機介面領域健康安全發展作出應有貢獻。
+
+---
+
+### 2026-06-10 08:21:00  #國際
+
+邁赫爾通訊社：伊朗蓋什姆島再次傳出爆炸聲。
+
+---
+
+### 2026-06-10 08:19:47  #MKT News
+
+【Trump has said a US-Iran deal is imminent more than 30 times】CNN reports that since fighting involving Iran broke out on Feb. 28, Trump has made statements saying "a US-Iran deal is imminent" more than 30 times across social media, public appearances and telephone interviews with reporters.
+
+---
+
+### 2026-06-10 08:16:26  #市場 #國際
+
+歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.3%，英國富時指數期貨上揚0.4%。
+
+---
+
+### 2026-06-10 08:15:06  #MKT News #Market Regions #USDJPY #Impact bearish #DXY
+
+Bank of Japan: May yen-denominated import price index rose 25.5% YoY, the fastest pace since November 2022.
+
+---
+
+### 2026-06-10 08:15:02  #公司 #觀點 #國際
+
+【花旗預計在推動轉型之際交易收入有望大幅增加】花旗集團首席財務官Gonzalo Luchetti表示，受各類資產交易活躍推動，該行正有望迎來一輪可觀收入增長，而且本輪增長勢頭較去年年初更加持久。Luchetti週二在由摩根士丹利主辦的一場金融會議上表示，該行市場業務收入有望實現高個位數到低兩位數百分比的同比增長，顯著高於媒體調查中分析師預計的約2%增幅。他說，與去年第二季度不同——當時美國總統唐納德·特朗普推出的“解放日”關稅引發市場動盪——當前市場表現出更為廣泛的強勁勢頭，涵蓋股票、衍生品、固定收益、外匯和大宗商品等多個領域。“我們在第二季度也看到了良好的交易量，”Luchetti表示，“這些交易量為整個業務平臺提供了更穩定的收入動能。”
+
+---
+
+### 2026-06-10 08:14:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Axios reports US military conducting third round of airstrikes on Iran】An Axios reporter posted on social media that US military officials say the US is conducting a third round of airstrikes against Iran.
+
+---
+
+### 2026-06-10 08:14:20  #市場 #央行 #國際 #原創
+
+【受股市上漲推動，韓國家庭一季度金融支出創24年最快增速】韓國央行週三公佈的資料顯示，受股市上漲提振，今年第一季度韓國家庭在金融和保險服務（包括股票交易佣金）方面的支出總額達25.1萬億韓元（177億美元），比前一季度增加2.44萬億韓元，增幅為10.8%，創下2002年第一季度以來最大環比增幅。韓國央行表示，股票交易活動的增加導致佣金支出上升，進而推動金融和保險服務總支出大幅增長。
+
+---
+
+### 2026-06-10 08:14:00  #國際
+
+【美軍已對伊朗進行三輪空襲 】據美國“阿克西奧斯新聞網站（Axios）”記者在社交媒體平臺發帖稱，美軍官員表示，美軍正在對伊朗進行第三輪空襲。
+
+---
+
+### 2026-06-10 08:13:36  #MKT News #Macro & Rates #Treasury Yields
+
+Japan 30-year government bond yield rose 2.5 bps to 3.890%.
+
+---
+
+### 2026-06-10 08:13:16  #市場 #觀點 #央行 #國際
+
+【日本國債在原油價格走高之際下跌】東京市場前市，在原油價格走高之際，日本國債價格下跌。這可能會加劇日本的通脹壓力，並導致日本央行加快加息步伐。與此同時，投資者可能會關注日本財務省今天對約6,000億日元30年期日本國債的拍賣。花旗投資研究的Tomohisa Fujiki在一份研究報告中說：“由於國內投資者的需求，我們預計拍賣結果將表現強勁。“該利率策略師補充說：“供需改善在很大程度上是由於發行規模的縮減。”10年期日本國債收益率上升3個基點，至2.695%。20年期日本國債收益率上漲3.0個基點，至3.590%。2年期日本國債收益率上升0.5個基點，至1.420%。
+
+---
+
+### 2026-06-10 08:11:42  #MKT News #Market Regions #Japan & APAC
+
+Japan 20-year government bond yield rose 3.0 bps to 3.590%.
+
+---
+
+### 2026-06-10 08:10:31  #市場 #央行 #國際
+
+韓元兌美元漲0.5%，韓國央行與金融監管機構對銀行展開聯合外匯檢查。
+
+---
+
+### 2026-06-10 08:10:13  #MKT News #Market Regions #Japan & APAC
+
+Australian S&P/ASX 200 opened up 1.5 points (+0.02%) at 8605.70 on Wednesday, June 10.
+
+---
+
+### 2026-06-10 08:08:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Explosions reported again in multiple locations in southern Iran】Iranian media reported explosions around 03:30 local time on June 10 in southern port areas including Bandar Abbas and Sirik; the outlets said those sites had been hit by a US airstrike roughly three hours earlier.
+
+---
+
+### 2026-06-10 08:08:00  #公司 #國際 #原創
+
+【三星電子向美國基因組技術公司追加投資1.75億美元，成最大股東】三星電子週三宣佈，將參與美國基因組技術公司Element Biosciences擴大後的E輪融資，向其追加投資1.75億美元，從而成為該公司最大股東。三星電子在新聞稿中表示，此次投資是繼2024年7月參與Element Biosciences的D輪融資後的又一戰略加碼。三星電子表示，此次投資符合其拓展精準醫療和數字健康技術領域業務的戰略目標。
+
+---
+
+### 2026-06-10 08:07:26  #國際
+
+【伊朗南部多地再傳爆炸聲】據伊朗媒體報道，當地時間今天（6月10日）凌晨3點半左右，大約三個小時前曾遭美軍空襲的伊朗南部阿巴斯港、錫裡克等地，再次傳出爆炸聲。（ CCTV國際時訊 ）
+
+---
+
+### 2026-06-10 08:07:14  #國際
+
+市場訊息：日本大型銀行計劃於2026財年推出穩定幣實時交易。
+
+---
+
+### 2026-06-10 08:07:09  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Axios reports U.S. officials say a third round of strikes against Iran is underway.
+
+---
+
+### 2026-06-10 08:06:45  #市場
+
+澳大利亞S&P/ASX 200指數早盤上漲0.04%，報8,607.60點。
+
+---
+
+### 2026-06-10 08:06:34  #公司 #國際
+
+韓國KOSPI指數跌2.8%，三星和SK海力士領跌。
+
+---
+
+### 2026-06-10 08:04:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian media reported multiple explosions were heard at Bandar Abbas port.
+
+---
+
+### 2026-06-10 08:03:28  #國際
+
+【伊朗稱將加強軍事發展 以稱可隨時恢復作戰】當地時間9日，伊朗軍方表示將捍衛領土完整、獨立和國家主權。以色列軍方表示，以軍保持隨時恢復對伊朗作戰的狀態。據悉，伊朗國防部9日發表宣告稱，將加強該國武裝部隊所需裝備、武器和系統的生產力度和速度，以維護國家的安全、獨立和領土完整。宣告稱，伊朗國防部將與武裝部隊一同繼續堅定地走提升國家的威懾能力和加強國防力量的道路，絕不允許敵方對伊朗的安全等造成哪怕是最輕微的破壞。（央視）
+
+---
+
+### 2026-06-10 08:03:05  #國際
+
+伊朗邁赫爾通訊社援引當地訊息人士的話報道稱，伊朗錫裡克地區再次聽到爆炸聲。
+
+---
+
+### 2026-06-10 08:02:20  #市場 #國際
+
+布倫特原油期貨一度漲1.3%，此前美國對伊朗實施打擊。
+
+---
+
+### 2026-06-10 08:02:14  #宏觀 #公司 #央行 #國際
+
+【韓國央行與韓國金融監督院今日開始對銀行開展聯合外匯檢查】韓國財政部發布公告稱，韓國央行與金融監管機構將於週三聯合對主要外匯銀行開展檢查。本次檢查結合非現場核查與現場檢查，排查銀行是否存在透過擾亂外匯市場交易、為自身或第三方謀取不當利益的行為。若檢查發現銀行存在違規問題，相關方將依法依規予以嚴肅處置。
+
+---
+
+### 2026-06-10 08:02:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Mehr news agency reports explosion sounds were heard again in Iran's Sirik region.
+
+---
+
+### 2026-06-10 08:01:56  #央行 #國際
+
+日本央行資料顯示，5月日本批發通脹同比漲幅為2023年3月以來最大。
+
+---
+
+### 2026-06-10 08:01:47  #市場
+
+SK海力士股價下跌逾3%。
+
+---
+
+### 2026-06-10 08:01:22  #MKT News #Important
+
+【Japan, South Korea stocks open lower】On Wednesday, June 10, Japan's Nikkei 225 opened down 501.28 points (-0.77%) at 64,915.35; South Korea's KOSPI opened down 208.44 points (-2.57%) at 7,888.49.
+
+---
+
+### 2026-06-10 08:01:08  #MKT News #005930.KS #Impact bearish
+
+Samsung Electronics shares fell more than 3%.
+
+---
+
+### 2026-06-10 08:00:37  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤下跌2.4%，至7899.77點。
+
+---
+
+### 2026-06-10 08:00:21  #市場
+
+日經225指數上午開盤報64952.38點，跌幅0.71%。
+
+---
+
+### 2026-06-10 08:00:18  #MKT News #Important
+
+South Korea's finance ministry will scrutinize speculative trading and disorderly conduct in the foreign-exchange market.
+
+---
+
+### 2026-06-10 08:00:03  #市場
+
+布倫特原油日內漲1%，現報92.56美元/桶。
+
+---
+
+### 2026-06-10 07:59:55  #觀點
+
+【中信證券：預計市場主線將進一步向高業績確定性靠攏】中信證券研報表示，25Y至2026Q1港股基本面經歷了從“內卷承壓”到“觸底企穩”的邏輯演變。25Y大盤受國內價格戰及內需低迷拖累利潤承壓，但產業鏈利潤加速向上遊資源及出海板塊集中。2026Q1季報確立了基本面築底回升態勢，核心特徵依然是外需強、內需弱：全球定價的大宗商品、出海溢價敘事以及海外算力外溢的AI核心產業鏈構成業績釋放強動能；反觀國內傳統內需相關的基建、地產鏈及汽車賽道則因供給過剩和內卷持續築底。進入5月，季報落地帶動盈利預期下修顯著鈍化，悲觀預期基本出清。在指數缺乏整體彈性的業績空窗期，預計市場主線將進一步向高業績確定性靠攏。建議關注三條主線：一是供給約束下的強景氣週期板塊；二是算力紅利驅動的AI外溢硬科技；三是提供高確定性溢價補償的泛紅利方向。
+
+---
+
+### 2026-06-10 07:59:29  #觀點
+
+【中信證券：多重因素利好下，下半年進出口均有望保持較強韌性】中信證券研報表示，今年5月出口增速高於前值和預期，反映出外貿出口鏈仍處於較高景氣區間。5月電子與AI、汽車產業鏈出口較強，終端消費品出口相對較差，對映出發達經濟體K型分化的經濟修復特徵。電子與AI、汽車產業鏈出口表現好分別與全球AI投資需求快速增長、傳統能源漲價帶動新能源汽車出口相關。量價拆分角度看，我們判斷4-5月份外貿出口的超預期表現有較大比例來自於價格端的貢獻。5月進口增速同樣超預期，主要原因為國內製造業景氣保持改善、AI算力需求快速增長帶動積體電路等產品漲價以及上游傳統能源價格保持高位。展望後續，我們判斷多重因素利好下，下半年進出口均有望保持較強韌性。出口品類上，考慮到海外經濟體K型分化的修復特徵，我們預計電子與AI、汽車產業鏈出口表現會繼續好於終端消費品。
+
+---
+
+### 2026-06-10 07:58:20  #公司
+
+【逼近歷史年度紀錄 FOF今年新發規模已逾1060億元】FOF正成為資金湧入的重要方向。截至6月9日，今年以來已成立了83只FOF，發行規模合計達1061.64億元，接近2021年創下的年度最高紀錄。相比之下，2025年全年成立89只FOF，發行規模合計為845.29億元。當前仍有多隻FOF正在或即將發行。Choice資料顯示，截至6月9日，共有13只FOF正在發行，另有3只FOF釋出了基金份額髮售公告，即將啟動發行。與此同時，基金公司還在密集上報FOF新品。（上證報）
+
+---
+
+### 2026-06-10 07:58:10  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Slip on Middle East Tensions — US stock futures declined on Wednesday after the US launched “self-defense strikes” against Iran in response to the downing of an American helicopter, escalating tensions in the region. Investors also awaited the release of US inflation data for fresh signals on the Federal Reserve’s policy outlook, after stronger-than-expected jobs figures last week reinforced expectations of an interest rate hike before the end of the year. In regular trading on Tuesday, the S&P 500 and Nasdaq Composite fell 0.26% and 0.97%, respectively, while the Dow gained 0.17%. Semiconductor stocks remained under pressure, with the iShares Semiconductor ETF dropping more than 3% after surging 6% on Monday. The fund had tumbled 10% on Friday, marking its steepest one-day decline in six years, as investors grew increasingly concerned that the AI-driven rally in chip stocks had become overheated.
+
+---
+
+### 2026-06-10 07:57:54  #Trading Economics #Economy #Japan #Producer Prices Change #Importance 1
+
+Japan Producer Prices Rise the Most in Over 3 Years — Japan’s producer prices rose 6.3% yoy in May 2026, accelerating from an upwardly revised 5.3% increase in the prior month and topping market expectations of 5.5%. It was the fastest annual growth since March 2023, reflecting persistent cost pressures, particularly from higher energy prices amid supply chain disruptions stemming from the conflict involving Iran. On a monthly basis, producer prices increased 0.9%, easing from an upwardly revised 2.8% rise in April, which had been the strongest monthly gain since April 2014.
 
 ---
 
@@ -21085,617 +21625,5 @@ Apple (AAPL.O) integrates Siri AI into the Camera app and introduces a new Siri 
 ### 2026-06-09 01:49:34  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
 
 Apple (AAPL.O): Siri's visual intelligence will also come to VisionOS, allowing users to query objects simply by looking at them.
-
----
-
-### 2026-06-09 01:49:21  #其他
-
-【Siri新增獨立App 蘋果大幅最佳化Siri語音功能】在今天召開的 2026 年全球開發者大會（WWDC）上，蘋果高管克雷格 · 費德里吉（Craig Federighi）介紹推出了Siri AI。 並配有獨立 App，螢幕頂部的靈動島會冒出很大的氣泡。蘋果還大幅最佳化 Siri 的語音功能，使用者可以透過語速和“表現力”來調整聲音。 Siri 的這些更新也適用於 CarPlay 和 AirPods。
-
----
-
-### 2026-06-09 01:47:11  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-Apple (AAPL.O) is developing a dedicated Siri AI for watchOS.
-
----
-
-### 2026-06-09 01:47:09  #其他
-
-蘋果：Siri人工智慧將適配iPadOS。
-
----
-
-### 2026-06-09 01:46:56  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O): Siri AI to be added to iPadOS.
-
----
-
-### 2026-06-09 01:46:45  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O) shares briefly dipped, cutting intraday gains to 0.2%.
-
----
-
-### 2026-06-09 01:46:40  #公司
-
-蘋果公司：為watchOS定製了Siri人工智慧。
-
----
-
-### 2026-06-09 01:46:35  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-US tech reporter Gurman said at Apple's WWDC 2026 keynote the demos were clearly recorded on real devices, removing the ambiguity that followed WWDC 2024 and Siri's initial rollout over which features were genuinely available versus demo-only.
-
----
-
-### 2026-06-09 01:45:51  #國際
-
-美國國家颶風中心（NHC）表示，低壓已增強為熱帶風暴“克里斯蒂娜”。
-
----
-
-### 2026-06-09 01:45:42  #MKT News #WBD.O
-
-Proxy adviser ISS recommended Warner Bros. Discovery shareholders (WBD.O) vote against an advisory proposal to approve a named executive officer compensation plan.
-
----
-
-### 2026-06-09 01:45:03  #國際
-
-美國國家颶風中心（NHC）表示，颶風“鮑里斯”的中心位置比此前預估的更偏南，目前預計其將於週二登陸。
-
----
-
-### 2026-06-09 01:44:55  #其他
-
-蘋果推出人工智慧版Siri，股價跳水，漲幅不足1%。
-
----
-
-### 2026-06-09 01:44:21  #MKT News #Nasdaq100 #Impact bullish
-
-【U.S. judge blocks Trump’s $100,000 H-1B visa fee】A U.S. federal judge on Monday vacated President Trump’s order to impose a $100,000 fee on H-1B visa applications, ruling the hike amounted to an unlawful tax and must be struck down, a relief for U.S. technology firms that rely on skilled foreign labor. Massachusetts federal judge Leo T. Sorokin issued the decision; the U.S. government is expected to appeal.
-
----
-
-### 2026-06-09 01:43:19  #MKT News
-
-USDA: President Trump has appointed John Bellinger as senior advisor for New World screwworm response preparedness.
-
----
-
-### 2026-06-09 01:43:07  #其他
-
-【蘋果官宣iOS 27：健康App可追蹤更年期，支援安卓、Win11等裝置系統共享iCloud】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。在釋出的IOS27中，健康App健康週期跟蹤現在還可以追蹤更年期和圍絕經期。另外，蘋果釋出了 iOS 27並擴充套件了iCloud功能，使用者可以從安卓和 Windows 10、Windows 11 裝置上共享近期出遊拍攝的照片和影片，並且支援全解析度共享。公開資訊顯示，iCloud 共享相簿是專為蘋果生態系統設計的，此前安卓和Windows裝置使用者無法直接加入或直接往相簿中新增新照片。（新浪科技）
-
----
-
-### 2026-06-09 01:42:20  #MKT News #AAPL.O
-
-Apple (AAPL.O): making Siri more conversational.
-
----
-
-### 2026-06-09 01:41:56  #其他
-
-【蘋果推出人工智慧版Siri 使用者能夠回看歷史對話記錄】蘋果藉助蘋果智慧技術推出全新人工智慧版Siri，該版本對話能力更強、具備上下文感知能力，可跨蘋果裝置理解連貫互動內容。蘋果還上線了獨立的Siri應用，使用者能夠回看歷史對話記錄。
-
----
-
-### 2026-06-09 01:41:28  #MKT News
-
-Ghalibaf, speaker of Iran's parliament, said Iran's goal is to end the war and achieve security and stability, and that Iran cannot trust either the US or Israel.
-
----
-
-### 2026-06-09 01:41:16  #國際
-
-美國農業部：特朗普已任命約翰·貝林格為新世界螺旋蠅應對準備事務高階顧問。
-
----
-
-### 2026-06-09 01:40:39  #MKT News #WTI #Impact bullish #Brent
-
-Iran parliament speaker Ghalibaf said Tehran does not face a binary choice between war and talks; Iran will fight when appropriate and negotiate when appropriate. Only by doing both can we defeat the enemy and demonstrate that negotiations are a continuation of the struggle. Officials at all levels are coordinating fully to achieve set objectives.
-
----
-
-### 2026-06-09 01:39:48  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-Apple (AAPL.O) expects speech-to-text accuracy to "substantially improve"; Siri upgrades will extend to CarPlay and AirPods.
-
----
-
-### 2026-06-09 01:39:41  #其他
-
-蘋果：將Siri改造得更具對話互動能力。
-
----
-
-### 2026-06-09 01:39:08  #其他
-
-蘋果表示，Siri的改進將覆蓋CarPlay和AirPods。
-
----
-
-### 2026-06-09 01:38:54  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O) launches a new voice experience to make Siri's voice more expressive.
-
----
-
-### 2026-06-09 01:38:53  #公司
-
-蘋果公司：語音聽寫準確率預計將“大幅提升”。
-
----
-
-### 2026-06-09 01:38:42  #公司 #焦點 #國際
-
-【蘋果推出人工智慧版Siri】蘋果在全球開發者大會上推出搭載蘋果智慧技術的全新版本Siri，全平臺視覺智慧功能迎來升級。公司還上線了全新家長管控功能，可對兒童使用應用的時間進行規劃，並表示正與美國醫師機構合作，制定裝置使用相關指導規範。
-
----
-
-### 2026-06-09 01:38:42  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish #Nasdaq100
-
-Apple (AAPL.O) shares rose 1.8% after the company unveiled new AI features at WWDC.
-
----
-
-### 2026-06-09 01:38:37  #MKT News
-
-CNN: Lebanese President Aoun has informed the Israeli government that military force can never secure civilians in northern Israel; he said Lebanon seeks good relations with Iran based on mutual non-interference.
-
----
-
-### 2026-06-09 01:38:15  #國際
-
-伊朗首席談判代表卡利巴夫：我們的目標是結束戰爭、實現安全穩定，我們對敵對一方毫無信任。
-
----
-
-### 2026-06-09 01:38:11  #公司
-
-蘋果公司：推出全新語音體驗，讓Siri的發音表現力大幅提升。
-
----
-
-### 2026-06-09 01:37:52  #其他
-
-【蘋果官宣iOS 27：支援安卓、Win11等裝置系統共享iCloud相簿】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果釋出了 iOS 27並擴充套件了iCloud功能，使用者可以從安卓和 Windows 10、Windows 11 裝置上共享近期出遊拍攝的照片和影片，並且支援全解析度共享。公開資訊顯示，iCloud 共享相簿是專為蘋果生態系統設計的，此前安卓和Windows裝置使用者無法直接加入或直接往相簿中新增新照片。（新浪科技）
-
----
-
-### 2026-06-09 01:36:43  #公司
-
-蘋果公司：開發者大會推出全新專屬Siri應用，使用者可回溯對話記錄。
-
----
-
-### 2026-06-09 01:36:33  #國際
-
-【特朗普10萬美元H-1B簽證費被法官否決】美國馬薩諸塞州聯邦地區法官利奧·T·索羅金駁回了特朗普針對H-1B簽證申請徵收10萬美元費用的行政令，為依賴聘用外籍技術人才的美國科技企業解了圍。該法官認定特朗普這項大幅提高熱門簽證成本的政令屬於非法徵稅，必須予以撤銷。特朗普政府大機率會提起上訴；此番裁決對其“限制移民、提振本土勞工需求”的競選議程構成打擊。
-
----
-
-### 2026-06-09 01:36:17  #MKT News #Important #XAUUSD #Impact bullish #Brent
-
-【Ghalibaf says US breach of ceasefire and maritime blockade are root causes of tensions】Iranian parliament speaker Ghalibaf said the root of current tensions is Washington openly breaching a ceasefire — imposing a maritime blockade on the Iranian people and violating arrangements on the Lebanon ceasefire. He said the US president's comments on a memorandum of understanding contradict previously agreed elements, signaling that Washington does not intend to maintain the ceasefire or pursue dialogue. Ghalibaf warned Tehran must respond decisively to defend national rights and said Iran's armed forces have carried out their duties firmly.
-
----
-
-### 2026-06-09 01:35:34  #國際
-
-黎巴嫩總統：我告知以色列政府，軍事解決方案永遠不可能給以色列北部民眾帶來安全。
-
----
-
-### 2026-06-09 01:35:22  #其他
-
-蘋果：Siri現已可在全平臺提供實用的視覺智慧功能。
-
----
-
-### 2026-06-09 01:35:03  #其他
-
-蘋果：全新人工智慧架構支援應用操作與螢幕感知功能。
-
----
-
-### 2026-06-09 01:35:01  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
-
-Apple (AAPL.O): New AI architecture enables app control and screen-aware features.
-
----
-
-### 2026-06-09 01:33:43  #公司 #焦點
-
-蘋果於全球開發者大會推出人工智慧版Siri。
-
----
-
-### 2026-06-09 01:33:31  #公司
-
-蘋果公司：推出由蘋果智慧解鎖的全新Siri版本。
-
----
-
-### 2026-06-09 01:33:25  #公司 #市場
-
-谷歌股價跌幅收窄至不到1%，此前一度下跌2.2%。
-
----
-
-### 2026-06-09 01:33:09  #市場
-
-蘋果股價延續漲勢，觸及盤中高點，上漲2.7%。
-
----
-
-### 2026-06-09 01:33:01  #國際
-
-伊朗議會議長卡利巴夫：這（特朗普言論）表明美國既不尋求停火，也不尋求對話。
-
----
-
-### 2026-06-09 01:32:19  #國際
-
-伊朗議會議長卡利巴夫：特朗普關於該諒解備忘錄的言論違反了伊核協議的既定條款。
-
----
-
-### 2026-06-09 01:32:03  #其他
-
-【蘋果改善iOS及macOS 27系統體驗，重構照片和郵件App等搜尋功能】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果表示，在更新 iOS / iPadOS / macOS 27後，系統網路切換變得更順暢，在資訊app裡發較大的照片或影片檔案，也不再會拖慢對話速度，訊息有沒有傳送成功可以直接看到。搜尋方面，蘋果表示，從底層重構了聚焦、照片和郵件app中的搜尋功能。此外，郵件app也採用了新的排序系統，其會優先顯示最重要的內容。（新浪科技）
-
----
-
-### 2026-06-09 01:31:56  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Resumes Increase — The yield on the 10-year US Treasury note bounced back to 5.46% on Monday, the highest in over two weeks, reflecting expectations of high interest rates by the Fed despite the mid-session pullback in energy prices. Inflation data due on Wednesday is expected to cross the 4% threshold, consolidating the accelerating momentum in consumer prices. The backdrop combines with a strong labor market as jobs growth has held above recent averages despite the Federal Reserve signaling concerns of a stalled labor force, adding leeway for the central bank to maintain rates at a restrictive level to fight inflation. Rate futures pointed to expectations of a rate hike by the central bank this year. The latest developments held despite Israel and Iran pledging to hold fire following their escalation over the weekend, lowering energy prices and setting the stage for more talks between Tehran and the US.
-
----
-
-### 2026-06-09 01:31:36  #其他
-
-【烏茲別克南部一加氣站爆炸致6死5傷】烏茲別克緊急情況部8日通報，烏南部卡什卡達里亞州卡爾希區一家用液化氣瓶加氣站當日下午發生爆炸並引發火災，造成6人死亡、5人受傷。通報說，爆炸導致加氣站內4輛汽車和2個地下儲氣罐被大火燒燬。目前現場明火已被撲滅，傷者已送醫救治，相關部門在開展善後工作。烏茲別克政府已就此成立專門調查委員會。（新華社）
-
----
-
-### 2026-06-09 01:31:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's parliament speaker Mohammad Bagher Ghalibaf said Iran will turn a maritime blockade into another failure for the "enemy".
-
----
-
-### 2026-06-09 01:31:15  #其他
-
-特斯拉漲超5%。
-
----
-
-### 2026-06-09 01:30:56  #MKT News
-
-【Gas-station explosion in southern Uzbekistan kills 6, injures 5】Uzbekistan’s Ministry of Emergency Situations reported on June 8 that an explosion and fire at an LPG cylinder refilling station in Karshi district, Kashkadarya region, southern Uzbekistan killed six people and injured five. The blast destroyed four vehicles and two underground storage tanks. Flames have been extinguished, the injured were hospitalised, and authorities have set up an investigative committee.
-
----
-
-### 2026-06-09 01:30:51  #MKT News #TSLA.O #Impact bullish #Nasdaq100 #S&P500
-
-Tesla (TSLA.O) shares rose more than 5% intraday.
-
----
-
-### 2026-06-09 01:30:34  #國際
-
-伊朗議會議長卡利巴夫：我們將把海上封鎖變成“敵人”的又一次失敗。
-
----
-
-### 2026-06-09 01:29:32  #國際
-
-伊朗議會議長卡利巴夫表示，停火協議遭破壞以及海上封鎖，是近期局勢緊張的根源。
-
----
-
-### 2026-06-09 01:29:16  #公司
-
-蘋果公司：蘋果智慧新一代實現重大突破，讓蘋果裝置更個性化、更實用。
-
----
-
-### 2026-06-09 01:29:08  #宏觀 #國際
-
-美國國務院表示，已批准一項價值3060萬美元的對外軍售計劃，擬向義大利出售兩棲突擊車及相關裝備。
-
----
-
-### 2026-06-09 01:28:53  #國際
-
-以色列總理內塔尼亞胡告知各位部長，以色列可能恢復與伊朗的衝突。
-
----
-
-### 2026-06-09 01:28:51  #MKT News
-
-U.S. State Department has approved a potential foreign military sale of amphibious assault vehicles and related equipment to the Italian government, estimated at $30.6 mln.
-
----
-
-### 2026-06-09 01:28:18  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Nasdaq100
-
-【BofA warns U.S. equities as bear-market signals pile up】BofA Securities urged caution on U.S. equities, saying about 70% of its bear‑market signals have been triggered—on par with historical levels seen near market tops—in a June 5 report from a strategy team led by Savita Subramanian. Seventeen of 20 S&P 500 valuation metrics show statistically significant overvaluation; eight exceed tech‑bubble levels. High‑P/E names have strongly outperformed low‑valuation stocks, which the strategists flag as a sign of excessive speculation. Within tech, the spread between best and worst quintiles is the widest since February 2000, and the three‑month return gap between the top 10% and bottom 10% of S&P constituents is at its highest post‑pandemic level. Subramanian added that cash‑conversion has stalled, supply of investment‑grade bonds and equity issuance is rising, buybacks as a share of market cap have fallen, and hyperscale cloud firms’ capex is forecast to approach 100% of operating cash flow by year‑end (vs. 40% in 2023).
-
----
-
-### 2026-06-09 01:28:10  #MKT News #AAPL.O
-
-Apple (AAPL.O) launched a new website showcasing all its child-safety features and answering FAQs.
-
----
-
-### 2026-06-09 01:27:29  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O) announced a parental-control feature that lets parents set daily schedules and specify which apps children can use during different times of day.
-
----
-
-### 2026-06-09 01:27:24  #其他
-
-蘋果：已推出一個新網站，重點展示我們所有兒童安全功能，並解答常見問題。
-
----
-
-### 2026-06-09 01:26:24  #公司
-
-蘋果公司：面向家長推出可設定使用時段、選擇孩子在一天不同時段可使用哪些應用的功能。
-
----
-
-### 2026-06-09 01:26:07  #國際
-
-特朗普表示，伊朗方面已表態 “不會再對以色列發動襲擊”，並請求美國敦促以方停止打擊行動。
-
----
-
-### 2026-06-09 01:25:48  #國際
-
-特朗普稱，多個地區國家呼籲他出面阻止局勢進一步升級。
-
----
-
-### 2026-06-09 01:25:00  #國際
-
-美國總統特朗普透露，在近期與內塔尼亞胡的通話中，他向對方發出警告“你行事務必謹慎，否則很快就會陷入獨自對抗伊朗的境地。”
-
----
-
-### 2026-06-09 01:24:47  #Trading Economics #Markets #United States #Stock Market #Importance 3
-
-US Equities Trim Rebound — US equities trimmed earlier gains to trade mixed on Monday as the muted momentum in most sectors was offset by a fresh rally for chip producers. The S&P 500 gained 0.5% while the Nasdaq 100 jumped 1.7%. Iran stated it ended its military operation in Israel and Tel Aviv signaled it paused attacks on Iran, driving energy prices and bond yields to ease from session peaks. The improvement in demand for risk was aligned with bullish signals on chip production by Nvidia CEO Huang, driving markets to pivot back to speculative AI infrastructure companies following their selloff last week. Nvidia added 1.5% while Micron, Intel, and Applied Materials surged 10%. In turn, the Dow edged below the flatline on lingering concerns of high interest rates. AbbVie, Microsoft, and Visa dropped around 2%. Inflation data due later this week is expected to confirm accelerating prices in an economy that has posted strong jobs growth, consolidating bets of a rate hike by the Fed this year.
-
----
-
-### 2026-06-09 01:24:27  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
-
-Apple (AAPL.O) will add a filter for graphic violent imagery to its parental controls.
-
----
-
-### 2026-06-09 01:23:57  #其他
-
-紐馬克投行已為弗吉尼亞北部一處關鍵任務型資料中心安排9.75億美元融資。
-
----
-
-### 2026-06-09 01:23:47  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O) will extend parental controls from apps to the entire web with a new "Ask Before Browsing" feature.
-
----
-
-### 2026-06-09 01:23:28  #其他
-
-蘋果：將在家長控制功能中新增血腥影象過濾機制。
-
----
-
-### 2026-06-09 01:23:12  #市場 #國際
-
-【美銀警示：股市上行風險持續加劇】美國銀行建議投資者獲利了結，該行約七成熊市預警指標已觸發，該數值與過往市場見頂階段的表現相符。美銀指出，美股整體估值偏高，市場投機行為升溫，行情上漲愈發集中於少數標的。儘管個股仍存在投資機會，但該行對標普500指數整體持謹慎態度，預測其年底目標點位為7100點。
-
----
-
-### 2026-06-09 01:22:34  #公司 #焦點
-
-蘋果公司：藉助“請求瀏覽”功能，將家長可審批範圍從應用擴充套件至網頁。
-
----
-
-### 2026-06-09 01:22:19  #其他
-
-【蘋果釋出macOS新版本“Golden Gate”：App 啟動提速30%，雲端硬碟傳輸提升5倍】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。會上，蘋果公佈了全新macOS版本——macOS Golden Gate。蘋果表示，該版本系統動畫更流暢，很多功能執行速度也更快。iPhone 和 iPad 應用的啟動速度提升高達30%，系統內容載入速度更快，照片在相簿中的顯示速度提升了70%，隔空投送速度提升了80%，雲端硬碟傳輸速度提升了 5 倍，所有能執行iOS26的iPhone也都適配。（新浪科技）
-
----
-
-### 2026-06-09 01:22:13  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O): Starting this year, parents can restrict children to accessing only content they deem safe.
-
----
-
-### 2026-06-09 01:21:30  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O) is working with a U.S. physicians' group to develop device-use guidelines.
-
----
-
-### 2026-06-09 01:21:22  #其他
-
-蘋果：從今年起，家長可限定孩子僅訪問自己認可的內容。
-
----
-
-### 2026-06-09 01:21:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #S&P500 #Impact bearish
-
-Fitch says rising energy prices are weakening growth and inflation outlooks in developed markets and adding fiscal strain.
-
----
-
-### 2026-06-09 01:20:43  #MKT News
-
-Lebanese President Aoun told CNN he will not meet with Israeli Prime Minister Benjamin Netanyahu until an agreement is reached to end the war.
-
----
-
-### 2026-06-09 01:20:31  #焦點 #國際
-
-美國法官裁定特朗普政府徵收10萬美元H-1B簽證費用的規定無效。
-
----
-
-### 2026-06-09 01:20:17  #公司 #國際
-
-蘋果公司：正與美國醫師協會合作制定裝置使用規範。
-
----
-
-### 2026-06-09 01:20:12  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
-
-CNN reports Lebanon's President Joseph Aoun said he is in talks with Israel on a non-aggression pact.
-
----
-
-### 2026-06-09 01:20:04  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，中進醫療跌8.10%，大全新能源跌6.50%，聲網跌5.30%，新氧跌5.18%，海天網路跌5.12%。
-
----
-
-### 2026-06-09 01:19:40  #其他
-
-黎巴嫩總統：在達成終止戰爭的協議前，我不會與內塔尼亞胡會面。
-
----
-
-### 2026-06-09 01:19:09  #焦點 #國際
-
-黎巴嫩總統：目前我們正與以色列就一項互不侵犯協議進行談判。
-
----
-
-### 2026-06-09 01:19:03  #其他
-
-惠譽評全球主權信用：能源價格走高正拖累發達經濟體的增長與通脹前景，給公共財政帶來額外壓力。
-
----
-
-### 2026-06-09 01:18:56  #國際
-
-美國一名聯邦法官裁定，特朗普時期設立的每項10萬美元H-1B簽證費用屬於對企業的違規徵稅，該收費規定必須予以撤銷。
-
----
-
-### 2026-06-09 01:18:02  #MKT News #Nasdaq100 #Impact bullish #S&P500 #DXY #Impact bearish
-
-A federal judge ruled the $100,000 fee on H-1B visas introduced under Trump amounts to an unauthorized corporate tax and must be vacated.
-
----
-
-### 2026-06-09 01:17:33  #其他
-
-【蘋果macOS全新版本代號“Golden Gate”，多設計變化】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。會上，蘋果公佈了全新macOS版本——macOS Golden Gate。該版本在設計方面作出大量最佳化，例如，為了讓使用者看得更清楚，蘋果精調了Liquid Glass，新增了新的滑塊和設定選項來調節Liquid Glass，從超通透到飽滿色調；邊欄現在擴充套件到視窗邊緣，下層內容滾動的時候能呈現出同樣精美的折射效果；macOS中的每個視窗都統一採用半徑小的圓設計，疊層之間會產生折射效果，為圖示帶來獨特的美感。（新浪科技）
-
----
-
-### 2026-06-09 01:17:29  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $1.832 bln from 16 counterparties in a fixed-rate reverse repurchase operation.
-
----
-
-### 2026-06-09 01:17:15  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-U.S. tech reporter Gurman says Apple (AAPL.O) is detailing, one by one, long‑awaited performance improvements many users have expected for years.
-
----
-
-### 2026-06-09 01:16:59  #宏觀 #國際
-
-土耳其財政部長：伊朗戰爭至少給土耳其通貨膨脹帶來5個百分點的壓力。
-
----
-
-### 2026-06-09 01:16:49  #央行 #國際
-
-週一（6月8日），美聯儲隔夜逆回購協議（RRP）使用規模為18.32億美元（交易對手16家），上個交易日（非農日）報7.61億美元。
-
----
-
-### 2026-06-09 01:16:40  #MKT News #Macro & Rates #US Economy #Treasury Yields #US10Y #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-FITCH expects the US-Iran conflict to drag on GDP growth, push up inf and government bond yields, and heighten geopolitical risk for sovereigns globally.
-
----
-
-### 2026-06-09 01:16:14  #其他
-
-惠譽：預計美伊衝突將削弱全球主權經濟體GDP增長，推高通脹與債券收益率，並加劇地緣政治風險。
-
----
-
-### 2026-06-09 01:16:11  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Fitch revised the outlook for global sovereign credit ratings to 'deteriorating', citing the impact of the Iran war.
-
----
-
-### 2026-06-09 01:14:38  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O): Apple devices will support on-device content search indexing.
-
----
-
-### 2026-06-09 01:14:24  #國際
-
-惠譽因伊朗戰爭的影響將全球主權債務行業前景下調至“惡化”。
-
----
-
-### 2026-06-09 01:14:11  #其他 #焦點
-
-蘋果：蘋果裝置將新增端側內容搜尋索引。
-
----
-
-### 2026-06-09 01:13:42  #其他
-
-蘋果：iOS 27系統將支援至iPhone 11系列機型。
-
----
-
-### 2026-06-09 01:13:14  #其他
-
-蘋果：顯著提升了產品響應速度。iPhone和iPad app的啟動速度最高提升30%，新照片的顯示速度最高提升了70%，傳輸速度最高可提升80%。
-
----
-
-### 2026-06-09 01:11:06  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O) will integrate a multi-layer Liquid Glass effect directly into app icon design.
-
----
-
-### 2026-06-09 01:09:56  #其他
-
-蘋果：將額外多層液態玻璃直接整合到應用圖示設計本身當中。
-
----
-
-### 2026-06-09 01:09:24  #觀點 #國際
-
-【高盛：世界盃將拉動就業與經濟增長】高盛估算，受酒店、零售及交通行業招工帶動，2026年世界盃將在6月為美國新增4萬個就業崗位。隨著大量球迷前往主辦城市，該行預計零售銷售額、國內生產總值增速及通脹水平也將小幅上行。不過賽事相關臨時崗位與消費熱潮消退後，多數增長效應料在後續月份逐步回落。
 
 ---

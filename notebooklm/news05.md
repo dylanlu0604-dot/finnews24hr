@@ -1,7 +1,619 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 15:49:36_
-_本檔包含 3878 則快訊，約 656517 字_
+_更新時間：2026-06-14 17:19:39_
+_本檔包含 3914 則快訊，約 657822 字_
+
+---
+
+### 2026-06-09 01:49:21  #其他
+
+【Siri新增獨立App 蘋果大幅最佳化Siri語音功能】在今天召開的 2026 年全球開發者大會（WWDC）上，蘋果高管克雷格 · 費德里吉（Craig Federighi）介紹推出了Siri AI。 並配有獨立 App，螢幕頂部的靈動島會冒出很大的氣泡。蘋果還大幅最佳化 Siri 的語音功能，使用者可以透過語速和“表現力”來調整聲音。 Siri 的這些更新也適用於 CarPlay 和 AirPods。
+
+---
+
+### 2026-06-09 01:47:11  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) is developing a dedicated Siri AI for watchOS.
+
+---
+
+### 2026-06-09 01:47:09  #其他
+
+蘋果：Siri人工智慧將適配iPadOS。
+
+---
+
+### 2026-06-09 01:46:56  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): Siri AI to be added to iPadOS.
+
+---
+
+### 2026-06-09 01:46:45  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) shares briefly dipped, cutting intraday gains to 0.2%.
+
+---
+
+### 2026-06-09 01:46:40  #公司
+
+蘋果公司：為watchOS定製了Siri人工智慧。
+
+---
+
+### 2026-06-09 01:46:35  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+US tech reporter Gurman said at Apple's WWDC 2026 keynote the demos were clearly recorded on real devices, removing the ambiguity that followed WWDC 2024 and Siri's initial rollout over which features were genuinely available versus demo-only.
+
+---
+
+### 2026-06-09 01:45:51  #國際
+
+美國國家颶風中心（NHC）表示，低壓已增強為熱帶風暴“克里斯蒂娜”。
+
+---
+
+### 2026-06-09 01:45:42  #MKT News #WBD.O
+
+Proxy adviser ISS recommended Warner Bros. Discovery shareholders (WBD.O) vote against an advisory proposal to approve a named executive officer compensation plan.
+
+---
+
+### 2026-06-09 01:45:03  #國際
+
+美國國家颶風中心（NHC）表示，颶風“鮑里斯”的中心位置比此前預估的更偏南，目前預計其將於週二登陸。
+
+---
+
+### 2026-06-09 01:44:55  #其他
+
+蘋果推出人工智慧版Siri，股價跳水，漲幅不足1%。
+
+---
+
+### 2026-06-09 01:44:21  #MKT News #Nasdaq100 #Impact bullish
+
+【U.S. judge blocks Trump’s $100,000 H-1B visa fee】A U.S. federal judge on Monday vacated President Trump’s order to impose a $100,000 fee on H-1B visa applications, ruling the hike amounted to an unlawful tax and must be struck down, a relief for U.S. technology firms that rely on skilled foreign labor. Massachusetts federal judge Leo T. Sorokin issued the decision; the U.S. government is expected to appeal.
+
+---
+
+### 2026-06-09 01:43:19  #MKT News
+
+USDA: President Trump has appointed John Bellinger as senior advisor for New World screwworm response preparedness.
+
+---
+
+### 2026-06-09 01:43:07  #其他
+
+【蘋果官宣iOS 27：健康App可追蹤更年期，支援安卓、Win11等裝置系統共享iCloud】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。在釋出的IOS27中，健康App健康週期跟蹤現在還可以追蹤更年期和圍絕經期。另外，蘋果釋出了 iOS 27並擴充套件了iCloud功能，使用者可以從安卓和 Windows 10、Windows 11 裝置上共享近期出遊拍攝的照片和影片，並且支援全解析度共享。公開資訊顯示，iCloud 共享相簿是專為蘋果生態系統設計的，此前安卓和Windows裝置使用者無法直接加入或直接往相簿中新增新照片。（新浪科技）
+
+---
+
+### 2026-06-09 01:42:20  #MKT News #AAPL.O
+
+Apple (AAPL.O): making Siri more conversational.
+
+---
+
+### 2026-06-09 01:41:56  #其他
+
+【蘋果推出人工智慧版Siri 使用者能夠回看歷史對話記錄】蘋果藉助蘋果智慧技術推出全新人工智慧版Siri，該版本對話能力更強、具備上下文感知能力，可跨蘋果裝置理解連貫互動內容。蘋果還上線了獨立的Siri應用，使用者能夠回看歷史對話記錄。
+
+---
+
+### 2026-06-09 01:41:28  #MKT News
+
+Ghalibaf, speaker of Iran's parliament, said Iran's goal is to end the war and achieve security and stability, and that Iran cannot trust either the US or Israel.
+
+---
+
+### 2026-06-09 01:41:16  #國際
+
+美國農業部：特朗普已任命約翰·貝林格為新世界螺旋蠅應對準備事務高階顧問。
+
+---
+
+### 2026-06-09 01:40:39  #MKT News #WTI #Impact bullish #Brent
+
+Iran parliament speaker Ghalibaf said Tehran does not face a binary choice between war and talks; Iran will fight when appropriate and negotiate when appropriate. Only by doing both can we defeat the enemy and demonstrate that negotiations are a continuation of the struggle. Officials at all levels are coordinating fully to achieve set objectives.
+
+---
+
+### 2026-06-09 01:39:48  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) expects speech-to-text accuracy to "substantially improve"; Siri upgrades will extend to CarPlay and AirPods.
+
+---
+
+### 2026-06-09 01:39:41  #其他
+
+蘋果：將Siri改造得更具對話互動能力。
+
+---
+
+### 2026-06-09 01:39:08  #其他
+
+蘋果表示，Siri的改進將覆蓋CarPlay和AirPods。
+
+---
+
+### 2026-06-09 01:38:54  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) launches a new voice experience to make Siri's voice more expressive.
+
+---
+
+### 2026-06-09 01:38:53  #公司
+
+蘋果公司：語音聽寫準確率預計將“大幅提升”。
+
+---
+
+### 2026-06-09 01:38:42  #公司 #焦點 #國際
+
+【蘋果推出人工智慧版Siri】蘋果在全球開發者大會上推出搭載蘋果智慧技術的全新版本Siri，全平臺視覺智慧功能迎來升級。公司還上線了全新家長管控功能，可對兒童使用應用的時間進行規劃，並表示正與美國醫師機構合作，制定裝置使用相關指導規範。
+
+---
+
+### 2026-06-09 01:38:42  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish #Nasdaq100
+
+Apple (AAPL.O) shares rose 1.8% after the company unveiled new AI features at WWDC.
+
+---
+
+### 2026-06-09 01:38:37  #MKT News
+
+CNN: Lebanese President Aoun has informed the Israeli government that military force can never secure civilians in northern Israel; he said Lebanon seeks good relations with Iran based on mutual non-interference.
+
+---
+
+### 2026-06-09 01:38:15  #國際
+
+伊朗首席談判代表卡利巴夫：我們的目標是結束戰爭、實現安全穩定，我們對敵對一方毫無信任。
+
+---
+
+### 2026-06-09 01:38:11  #公司
+
+蘋果公司：推出全新語音體驗，讓Siri的發音表現力大幅提升。
+
+---
+
+### 2026-06-09 01:37:52  #其他
+
+【蘋果官宣iOS 27：支援安卓、Win11等裝置系統共享iCloud相簿】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果釋出了 iOS 27並擴充套件了iCloud功能，使用者可以從安卓和 Windows 10、Windows 11 裝置上共享近期出遊拍攝的照片和影片，並且支援全解析度共享。公開資訊顯示，iCloud 共享相簿是專為蘋果生態系統設計的，此前安卓和Windows裝置使用者無法直接加入或直接往相簿中新增新照片。（新浪科技）
+
+---
+
+### 2026-06-09 01:36:43  #公司
+
+蘋果公司：開發者大會推出全新專屬Siri應用，使用者可回溯對話記錄。
+
+---
+
+### 2026-06-09 01:36:33  #國際
+
+【特朗普10萬美元H-1B簽證費被法官否決】美國馬薩諸塞州聯邦地區法官利奧·T·索羅金駁回了特朗普針對H-1B簽證申請徵收10萬美元費用的行政令，為依賴聘用外籍技術人才的美國科技企業解了圍。該法官認定特朗普這項大幅提高熱門簽證成本的政令屬於非法徵稅，必須予以撤銷。特朗普政府大機率會提起上訴；此番裁決對其“限制移民、提振本土勞工需求”的競選議程構成打擊。
+
+---
+
+### 2026-06-09 01:36:17  #MKT News #Important #XAUUSD #Impact bullish #Brent
+
+【Ghalibaf says US breach of ceasefire and maritime blockade are root causes of tensions】Iranian parliament speaker Ghalibaf said the root of current tensions is Washington openly breaching a ceasefire — imposing a maritime blockade on the Iranian people and violating arrangements on the Lebanon ceasefire. He said the US president's comments on a memorandum of understanding contradict previously agreed elements, signaling that Washington does not intend to maintain the ceasefire or pursue dialogue. Ghalibaf warned Tehran must respond decisively to defend national rights and said Iran's armed forces have carried out their duties firmly.
+
+---
+
+### 2026-06-09 01:35:34  #國際
+
+黎巴嫩總統：我告知以色列政府，軍事解決方案永遠不可能給以色列北部民眾帶來安全。
+
+---
+
+### 2026-06-09 01:35:22  #其他
+
+蘋果：Siri現已可在全平臺提供實用的視覺智慧功能。
+
+---
+
+### 2026-06-09 01:35:03  #其他
+
+蘋果：全新人工智慧架構支援應用操作與螢幕感知功能。
+
+---
+
+### 2026-06-09 01:35:01  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
+
+Apple (AAPL.O): New AI architecture enables app control and screen-aware features.
+
+---
+
+### 2026-06-09 01:33:43  #公司 #焦點
+
+蘋果於全球開發者大會推出人工智慧版Siri。
+
+---
+
+### 2026-06-09 01:33:31  #公司
+
+蘋果公司：推出由蘋果智慧解鎖的全新Siri版本。
+
+---
+
+### 2026-06-09 01:33:25  #公司 #市場
+
+谷歌股價跌幅收窄至不到1%，此前一度下跌2.2%。
+
+---
+
+### 2026-06-09 01:33:09  #市場
+
+蘋果股價延續漲勢，觸及盤中高點，上漲2.7%。
+
+---
+
+### 2026-06-09 01:33:01  #國際
+
+伊朗議會議長卡利巴夫：這（特朗普言論）表明美國既不尋求停火，也不尋求對話。
+
+---
+
+### 2026-06-09 01:32:19  #國際
+
+伊朗議會議長卡利巴夫：特朗普關於該諒解備忘錄的言論違反了伊核協議的既定條款。
+
+---
+
+### 2026-06-09 01:32:03  #其他
+
+【蘋果改善iOS及macOS 27系統體驗，重構照片和郵件App等搜尋功能】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果表示，在更新 iOS / iPadOS / macOS 27後，系統網路切換變得更順暢，在資訊app裡發較大的照片或影片檔案，也不再會拖慢對話速度，訊息有沒有傳送成功可以直接看到。搜尋方面，蘋果表示，從底層重構了聚焦、照片和郵件app中的搜尋功能。此外，郵件app也採用了新的排序系統，其會優先顯示最重要的內容。（新浪科技）
+
+---
+
+### 2026-06-09 01:31:56  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Resumes Increase — The yield on the 10-year US Treasury note bounced back to 5.46% on Monday, the highest in over two weeks, reflecting expectations of high interest rates by the Fed despite the mid-session pullback in energy prices. Inflation data due on Wednesday is expected to cross the 4% threshold, consolidating the accelerating momentum in consumer prices. The backdrop combines with a strong labor market as jobs growth has held above recent averages despite the Federal Reserve signaling concerns of a stalled labor force, adding leeway for the central bank to maintain rates at a restrictive level to fight inflation. Rate futures pointed to expectations of a rate hike by the central bank this year. The latest developments held despite Israel and Iran pledging to hold fire following their escalation over the weekend, lowering energy prices and setting the stage for more talks between Tehran and the US.
+
+---
+
+### 2026-06-09 01:31:36  #其他
+
+【烏茲別克南部一加氣站爆炸致6死5傷】烏茲別克緊急情況部8日通報，烏南部卡什卡達里亞州卡爾希區一家用液化氣瓶加氣站當日下午發生爆炸並引發火災，造成6人死亡、5人受傷。通報說，爆炸導致加氣站內4輛汽車和2個地下儲氣罐被大火燒燬。目前現場明火已被撲滅，傷者已送醫救治，相關部門在開展善後工作。烏茲別克政府已就此成立專門調查委員會。（新華社）
+
+---
+
+### 2026-06-09 01:31:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's parliament speaker Mohammad Bagher Ghalibaf said Iran will turn a maritime blockade into another failure for the "enemy".
+
+---
+
+### 2026-06-09 01:31:15  #其他
+
+特斯拉漲超5%。
+
+---
+
+### 2026-06-09 01:30:56  #MKT News
+
+【Gas-station explosion in southern Uzbekistan kills 6, injures 5】Uzbekistan’s Ministry of Emergency Situations reported on June 8 that an explosion and fire at an LPG cylinder refilling station in Karshi district, Kashkadarya region, southern Uzbekistan killed six people and injured five. The blast destroyed four vehicles and two underground storage tanks. Flames have been extinguished, the injured were hospitalised, and authorities have set up an investigative committee.
+
+---
+
+### 2026-06-09 01:30:51  #MKT News #TSLA.O #Impact bullish #Nasdaq100 #S&P500
+
+Tesla (TSLA.O) shares rose more than 5% intraday.
+
+---
+
+### 2026-06-09 01:30:34  #國際
+
+伊朗議會議長卡利巴夫：我們將把海上封鎖變成“敵人”的又一次失敗。
+
+---
+
+### 2026-06-09 01:29:32  #國際
+
+伊朗議會議長卡利巴夫表示，停火協議遭破壞以及海上封鎖，是近期局勢緊張的根源。
+
+---
+
+### 2026-06-09 01:29:16  #公司
+
+蘋果公司：蘋果智慧新一代實現重大突破，讓蘋果裝置更個性化、更實用。
+
+---
+
+### 2026-06-09 01:29:08  #宏觀 #國際
+
+美國國務院表示，已批准一項價值3060萬美元的對外軍售計劃，擬向義大利出售兩棲突擊車及相關裝備。
+
+---
+
+### 2026-06-09 01:28:53  #國際
+
+以色列總理內塔尼亞胡告知各位部長，以色列可能恢復與伊朗的衝突。
+
+---
+
+### 2026-06-09 01:28:51  #MKT News
+
+U.S. State Department has approved a potential foreign military sale of amphibious assault vehicles and related equipment to the Italian government, estimated at $30.6 mln.
+
+---
+
+### 2026-06-09 01:28:18  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Nasdaq100
+
+【BofA warns U.S. equities as bear-market signals pile up】BofA Securities urged caution on U.S. equities, saying about 70% of its bear‑market signals have been triggered—on par with historical levels seen near market tops—in a June 5 report from a strategy team led by Savita Subramanian. Seventeen of 20 S&P 500 valuation metrics show statistically significant overvaluation; eight exceed tech‑bubble levels. High‑P/E names have strongly outperformed low‑valuation stocks, which the strategists flag as a sign of excessive speculation. Within tech, the spread between best and worst quintiles is the widest since February 2000, and the three‑month return gap between the top 10% and bottom 10% of S&P constituents is at its highest post‑pandemic level. Subramanian added that cash‑conversion has stalled, supply of investment‑grade bonds and equity issuance is rising, buybacks as a share of market cap have fallen, and hyperscale cloud firms’ capex is forecast to approach 100% of operating cash flow by year‑end (vs. 40% in 2023).
+
+---
+
+### 2026-06-09 01:28:10  #MKT News #AAPL.O
+
+Apple (AAPL.O) launched a new website showcasing all its child-safety features and answering FAQs.
+
+---
+
+### 2026-06-09 01:27:29  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) announced a parental-control feature that lets parents set daily schedules and specify which apps children can use during different times of day.
+
+---
+
+### 2026-06-09 01:27:24  #其他
+
+蘋果：已推出一個新網站，重點展示我們所有兒童安全功能，並解答常見問題。
+
+---
+
+### 2026-06-09 01:26:24  #公司
+
+蘋果公司：面向家長推出可設定使用時段、選擇孩子在一天不同時段可使用哪些應用的功能。
+
+---
+
+### 2026-06-09 01:26:07  #國際
+
+特朗普表示，伊朗方面已表態 “不會再對以色列發動襲擊”，並請求美國敦促以方停止打擊行動。
+
+---
+
+### 2026-06-09 01:25:48  #國際
+
+特朗普稱，多個地區國家呼籲他出面阻止局勢進一步升級。
+
+---
+
+### 2026-06-09 01:25:00  #國際
+
+美國總統特朗普透露，在近期與內塔尼亞胡的通話中，他向對方發出警告“你行事務必謹慎，否則很快就會陷入獨自對抗伊朗的境地。”
+
+---
+
+### 2026-06-09 01:24:47  #Trading Economics #Markets #United States #Stock Market #Importance 3
+
+US Equities Trim Rebound — US equities trimmed earlier gains to trade mixed on Monday as the muted momentum in most sectors was offset by a fresh rally for chip producers. The S&P 500 gained 0.5% while the Nasdaq 100 jumped 1.7%. Iran stated it ended its military operation in Israel and Tel Aviv signaled it paused attacks on Iran, driving energy prices and bond yields to ease from session peaks. The improvement in demand for risk was aligned with bullish signals on chip production by Nvidia CEO Huang, driving markets to pivot back to speculative AI infrastructure companies following their selloff last week. Nvidia added 1.5% while Micron, Intel, and Applied Materials surged 10%. In turn, the Dow edged below the flatline on lingering concerns of high interest rates. AbbVie, Microsoft, and Visa dropped around 2%. Inflation data due later this week is expected to confirm accelerating prices in an economy that has posted strong jobs growth, consolidating bets of a rate hike by the Fed this year.
+
+---
+
+### 2026-06-09 01:24:27  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
+
+Apple (AAPL.O) will add a filter for graphic violent imagery to its parental controls.
+
+---
+
+### 2026-06-09 01:23:57  #其他
+
+紐馬克投行已為弗吉尼亞北部一處關鍵任務型資料中心安排9.75億美元融資。
+
+---
+
+### 2026-06-09 01:23:47  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) will extend parental controls from apps to the entire web with a new "Ask Before Browsing" feature.
+
+---
+
+### 2026-06-09 01:23:28  #其他
+
+蘋果：將在家長控制功能中新增血腥影象過濾機制。
+
+---
+
+### 2026-06-09 01:23:12  #市場 #國際
+
+【美銀警示：股市上行風險持續加劇】美國銀行建議投資者獲利了結，該行約七成熊市預警指標已觸發，該數值與過往市場見頂階段的表現相符。美銀指出，美股整體估值偏高，市場投機行為升溫，行情上漲愈發集中於少數標的。儘管個股仍存在投資機會，但該行對標普500指數整體持謹慎態度，預測其年底目標點位為7100點。
+
+---
+
+### 2026-06-09 01:22:34  #公司 #焦點
+
+蘋果公司：藉助“請求瀏覽”功能，將家長可審批範圍從應用擴充套件至網頁。
+
+---
+
+### 2026-06-09 01:22:19  #其他
+
+【蘋果釋出macOS新版本“Golden Gate”：App 啟動提速30%，雲端硬碟傳輸提升5倍】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。會上，蘋果公佈了全新macOS版本——macOS Golden Gate。蘋果表示，該版本系統動畫更流暢，很多功能執行速度也更快。iPhone 和 iPad 應用的啟動速度提升高達30%，系統內容載入速度更快，照片在相簿中的顯示速度提升了70%，隔空投送速度提升了80%，雲端硬碟傳輸速度提升了 5 倍，所有能執行iOS26的iPhone也都適配。（新浪科技）
+
+---
+
+### 2026-06-09 01:22:13  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): Starting this year, parents can restrict children to accessing only content they deem safe.
+
+---
+
+### 2026-06-09 01:21:30  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) is working with a U.S. physicians' group to develop device-use guidelines.
+
+---
+
+### 2026-06-09 01:21:22  #其他
+
+蘋果：從今年起，家長可限定孩子僅訪問自己認可的內容。
+
+---
+
+### 2026-06-09 01:21:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #S&P500 #Impact bearish
+
+Fitch says rising energy prices are weakening growth and inflation outlooks in developed markets and adding fiscal strain.
+
+---
+
+### 2026-06-09 01:20:43  #MKT News
+
+Lebanese President Aoun told CNN he will not meet with Israeli Prime Minister Benjamin Netanyahu until an agreement is reached to end the war.
+
+---
+
+### 2026-06-09 01:20:31  #焦點 #國際
+
+美國法官裁定特朗普政府徵收10萬美元H-1B簽證費用的規定無效。
+
+---
+
+### 2026-06-09 01:20:17  #公司 #國際
+
+蘋果公司：正與美國醫師協會合作制定裝置使用規範。
+
+---
+
+### 2026-06-09 01:20:12  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
+
+CNN reports Lebanon's President Joseph Aoun said he is in talks with Israel on a non-aggression pact.
+
+---
+
+### 2026-06-09 01:20:04  #市場 #焦點
+
+納斯達克中國金龍指數跌超0.5%，中進醫療跌8.10%，大全新能源跌6.50%，聲網跌5.30%，新氧跌5.18%，海天網路跌5.12%。
+
+---
+
+### 2026-06-09 01:19:40  #其他
+
+黎巴嫩總統：在達成終止戰爭的協議前，我不會與內塔尼亞胡會面。
+
+---
+
+### 2026-06-09 01:19:09  #焦點 #國際
+
+黎巴嫩總統：目前我們正與以色列就一項互不侵犯協議進行談判。
+
+---
+
+### 2026-06-09 01:19:03  #其他
+
+惠譽評全球主權信用：能源價格走高正拖累發達經濟體的增長與通脹前景，給公共財政帶來額外壓力。
+
+---
+
+### 2026-06-09 01:18:56  #國際
+
+美國一名聯邦法官裁定，特朗普時期設立的每項10萬美元H-1B簽證費用屬於對企業的違規徵稅，該收費規定必須予以撤銷。
+
+---
+
+### 2026-06-09 01:18:02  #MKT News #Nasdaq100 #Impact bullish #S&P500 #DXY #Impact bearish
+
+A federal judge ruled the $100,000 fee on H-1B visas introduced under Trump amounts to an unauthorized corporate tax and must be vacated.
+
+---
+
+### 2026-06-09 01:17:33  #其他
+
+【蘋果macOS全新版本代號“Golden Gate”，多設計變化】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。會上，蘋果公佈了全新macOS版本——macOS Golden Gate。該版本在設計方面作出大量最佳化，例如，為了讓使用者看得更清楚，蘋果精調了Liquid Glass，新增了新的滑塊和設定選項來調節Liquid Glass，從超通透到飽滿色調；邊欄現在擴充套件到視窗邊緣，下層內容滾動的時候能呈現出同樣精美的折射效果；macOS中的每個視窗都統一採用半徑小的圓設計，疊層之間會產生折射效果，為圖示帶來獨特的美感。（新浪科技）
+
+---
+
+### 2026-06-09 01:17:29  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $1.832 bln from 16 counterparties in a fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-06-09 01:17:15  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+U.S. tech reporter Gurman says Apple (AAPL.O) is detailing, one by one, long‑awaited performance improvements many users have expected for years.
+
+---
+
+### 2026-06-09 01:16:59  #宏觀 #國際
+
+土耳其財政部長：伊朗戰爭至少給土耳其通貨膨脹帶來5個百分點的壓力。
+
+---
+
+### 2026-06-09 01:16:49  #央行 #國際
+
+週一（6月8日），美聯儲隔夜逆回購協議（RRP）使用規模為18.32億美元（交易對手16家），上個交易日（非農日）報7.61億美元。
+
+---
+
+### 2026-06-09 01:16:40  #MKT News #Macro & Rates #US Economy #Treasury Yields #US10Y #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+FITCH expects the US-Iran conflict to drag on GDP growth, push up inf and government bond yields, and heighten geopolitical risk for sovereigns globally.
+
+---
+
+### 2026-06-09 01:16:14  #其他
+
+惠譽：預計美伊衝突將削弱全球主權經濟體GDP增長，推高通脹與債券收益率，並加劇地緣政治風險。
+
+---
+
+### 2026-06-09 01:16:11  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Fitch revised the outlook for global sovereign credit ratings to 'deteriorating', citing the impact of the Iran war.
+
+---
+
+### 2026-06-09 01:14:38  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): Apple devices will support on-device content search indexing.
+
+---
+
+### 2026-06-09 01:14:24  #國際
+
+惠譽因伊朗戰爭的影響將全球主權債務行業前景下調至“惡化”。
+
+---
+
+### 2026-06-09 01:14:11  #其他 #焦點
+
+蘋果：蘋果裝置將新增端側內容搜尋索引。
+
+---
+
+### 2026-06-09 01:13:42  #其他
+
+蘋果：iOS 27系統將支援至iPhone 11系列機型。
+
+---
+
+### 2026-06-09 01:13:14  #其他
+
+蘋果：顯著提升了產品響應速度。iPhone和iPad app的啟動速度最高提升30%，新照片的顯示速度最高提升了70%，傳輸速度最高可提升80%。
+
+---
+
+### 2026-06-09 01:11:06  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) will integrate a multi-layer Liquid Glass effect directly into app icon design.
+
+---
+
+### 2026-06-09 01:09:56  #其他
+
+蘋果：將額外多層液態玻璃直接整合到應用圖示設計本身當中。
+
+---
+
+### 2026-06-09 01:09:24  #觀點 #國際
+
+【高盛：世界盃將拉動就業與經濟增長】高盛估算，受酒店、零售及交通行業招工帶動，2026年世界盃將在6月為美國新增4萬個就業崗位。隨著大量球迷前往主辦城市，該行預計零售銷售額、國內生產總值增速及通脹水平也將小幅上行。不過賽事相關臨時崗位與消費熱潮消退後，多數增長效應料在後續月份逐步回落。
 
 ---
 
@@ -22936,401 +23548,5 @@ Bank of Israel: foreign-exchange reserves stood at $238.68 bln in May, up from $
 ### 2026-06-07 17:24:01  #央行 #國際
 
 以色列央行公佈資料：5月以色列外匯儲備規模為2386.81億美元，4月為2357.28億美元。
-
----
-
-### 2026-06-07 17:16:29  #國際
-
-俄羅斯國防部：空中防禦系統在一天內擊落了11枚彈藥、一枚HIMARS炮彈。在過去24小時內，烏克蘭武裝部隊在特別軍事行動的各個區域損失超過1300名士兵。
-
----
-
-### 2026-06-07 17:14:53  #國際
-
-以色列國防軍發言人：以色列中部襲擊事件發生後，以軍參謀長已研判局勢並下達後續行動指令。
-
----
-
-### 2026-06-07 17:14:27  #MKT News
-
-RUSSIAN DEFENCE MINISTRY said its air defences shot down 11 munitions, one HIMARS rocket and 500 Ukrainian military drones in a single day, and that Ukrainian forces lost more than 1,300 soldiers across the special military operation in the past 24 hours.
-
----
-
-### 2026-06-07 17:10:39  #國際
-
-俄羅斯國防部：過去24小時內俄羅斯擊落500架烏克蘭無人機。
-
----
-
-### 2026-06-07 17:07:12  #國際
-
-【以色列中部發生槍擊事件 1名嫌疑人被捕】當地時間7日，以色列警方證實，以色列中部科哈夫亞伊爾地區當天發生槍擊事件，目前已有一名嫌疑人被捕。安全部隊正在全力搜捕第二名涉案嫌疑人。據警方通報，這起槍擊事件目前已造成1人死亡，至少4人受傷。據悉，此次槍擊事件發生在該地區靠近約旦河西岸安全隔離牆的三個不同地點。（央視新聞）
-
----
-
-### 2026-06-07 17:05:27  #央行 #國際
-
-埃及央行：埃及5月外匯儲備淨額從4月的530.09億美元升至531.34億美元。
-
----
-
-### 2026-06-07 17:05:21  #國際
-
-【俄稱美正試圖退出烏克蘭問題談判】俄羅斯總統顧問科比亞科夫6月6日在聖彼得堡國際經濟論壇閉幕新聞釋出會上表示，美國正試圖退出烏克蘭問題談判。對於近日美國眾議院透過法案對俄羅斯實施新制裁一事，科比亞科夫稱，美國國會建議加強制裁，正是因為意識到特別軍事行動的結局對俄羅斯有利。（CCTV國際時訊）
-
----
-
-### 2026-06-07 17:05:16  #MKT News #Market Regions #Europe & UK
-
-【France, UK, Germany and Ukraine leaders to meet to discuss ending Russia-Ukraine conflict】France’s Macron, UK Prime Minister Starmer and German Chancellor Merz are due to meet Ukrainian President Zelenskiy in London on the evening of the 7th to discuss continued support for Ukraine and steps to end the Russia-Ukraine war, the Elysée said. Insiders cautioned Zelenskiy’s plans and the meeting time remain subject to change.
-
----
-
-### 2026-06-07 17:03:58  #國際
-
-【以軍稱打死一名哈馬斯指揮官】以色列國防軍和以色列國家安全總局（辛貝特）7日發表聯合宣告說，以軍和辛貝特2日在加沙地帶打死一名曾參與2023年10月突襲以色列的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）指揮官。 以軍說，以軍和辛貝特2日在加沙地帶南部發動的精確打擊中打死哈馬斯“努赫巴”部隊指揮官薩克爾·阿布·卡里姆。以軍稱他曾在2023年10月領導哈馬斯對以色列的突襲。另有一名哈馬斯通訊員被以軍一同打死。 以軍稱將繼續在加沙地帶開展行動，消除任何“迫在眉睫的威脅”。(新華社)
-
----
-
-### 2026-06-07 17:03:22  #焦點 #國際
-
-【法英德烏領導人將舉行會晤，討論結束俄烏衝突等問題】法國總統府愛麗捨宮日前在一份宣告中稱，法國總統馬克龍、英國首相斯塔默以及德國總理默茨7日將與烏克蘭總統澤連斯基舉行會晤，討論繼續支援烏克蘭等議題。據悉，此次會晤預計在英國倫敦舉行。澤連斯基希望歐洲國家領導人能夠加大努力，幫助結束俄烏衝突。（央視新聞）
-
----
-
-### 2026-06-07 17:02:56  #公司 #市場
-
-【納指科技ETF景順：二級市場價格溢價 6月8日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，6月5日收盤價2.714元，參考淨值2.3197元。為保護投資者利益，基金於6月8日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月8日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露未披露重大資訊。
-
----
-
-### 2026-06-07 17:02:50  #公司 #市場
-
-【納指ETF廣發：提示基金二級市場交易價格溢價風險】納指ETF廣發公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月5日，收盤價為1.6410元，收盤時基金份額參考淨值為1.5529元。若6月8日溢價幅度未有效回落，基金有權採取停牌等措施警示風險。投資者可在二級市場交易或申贖基金，交易價格受多種因素影響，可能使投資者面臨損失。目前基金運作正常，無應披露而未披露的重大資訊。
-
----
-
-### 2026-06-07 17:02:46  #公司 #市場
-
-【納指ETF嘉實：提醒二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月5日，收盤價為2.087元，收盤時基金份額參考淨值為1.9433元。若6月8日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者交易除淨值波動風險外，還受市場供求等因素影響。截至目前，基金運作正常且無應披露未披露重大資訊。
-
----
-
-### 2026-06-07 17:02:40  #公司 #市場
-
-【納指ETF易方達：二級市場交易價格溢價 提醒投資風險】納指ETF易方達公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。6月5日，二級市場收盤價為2.026元，收盤時基金份額參考淨值為1.9260元。若6月8日溢價幅度未有效回落，基金有權申請停牌等措施。提醒投資者關注溢價風險，審慎投資，盲目投資或遭受重大損失。
-
----
-
-### 2026-06-07 17:00:42  #其他
-
-【廣西河池市委常委、秘書長張聯松接受審查調查】據廣西壯族自治區紀委監委訊息：廣西壯族自治區河池市委常委、秘書長張聯松涉嫌嚴重違紀違法，目前正接受自治區紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-07 16:59:44  #焦點 #國際
-
-【巴基斯坦內政部長轉交致伊朗最高領袖特別信函】據伊朗塔斯尼姆通訊社報道，巴基斯坦內政部長納克維7日在伊朗首都德黑蘭會見伊朗外交部長阿拉格齊期間，將一封致伊朗最高領袖穆傑塔巴的特別信函轉交給阿拉格齊。（新華社）
-
----
-
-### 2026-06-07 16:49:17  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Ukrainian President Zelenskiy said Russia deliberately struck nuclear fuel storage facilities, calling the attack "extremely vile".
-
----
-
-### 2026-06-07 16:45:53  #國際
-
-烏克蘭總統澤連斯基：俄羅斯蓄意襲擊核燃料儲存設施，此次行徑惡劣。
-
----
-
-### 2026-06-07 16:42:13  #國際
-
-以色列警方：以色列中部襲擊事件的疑似槍擊者已被“制服”。
-
----
-
-### 2026-06-07 16:39:47  #國際
-
-以色列總理內塔尼亞胡：槍擊事件後正在研判局勢。
-
----
-
-### 2026-06-07 16:39:37  #MKT News
-
-Israeli Prime Minister's Office said the prime minister is monitoring developments in shootings in Kokhav Ya'ir and Tzur.
-
----
-
-### 2026-06-07 16:38:59  #MKT News
-
-【Armenia holds parliamentary election】Armenia held parliamentary elections on the 7th, with voters choosing at least 101 MPs from 18 parties and party alliances. Voting took place at 2,005 polling stations; more than 2.48 million voters were registered. Polling ran from 08:00 to 20:00 local time. The Central Election Commission will release preliminary counts within 24 hours and final results within a week. The new parliament will elect the next prime minister.
-
----
-
-### 2026-06-07 16:37:18  #市場
-
-【亞美尼亞舉行議會選舉】亞美尼亞國民會議（議會）選舉7日舉行，選民將從18個政黨及政黨聯盟的候選人中，投票選出至少101名議員。 本次選舉共設2005個投票站，登記選民超過248萬人。投票時間從當地時間7日8時到20時。記者在首都埃裡溫一處投票站看到，早8時開始選民陸續進入投票站投票。投票結束後24小時內，亞中央選舉委員會將公佈初步計票結果，最終結果將在投票後一週宣佈。 本次選舉選出的議會將選舉新一任總理。 共有16個政黨和2個政黨聯盟參加選舉，包括由現任總理帕什尼揚領導的公民合約黨、前總統科恰良領導的政黨聯盟“亞美尼亞聯盟”等。 亞美尼亞議會實行一院制，共設立至少101個席位，最終席位數量在選舉後確定，議員任期5年。根據修改後的選舉法，得票率達到4%的政黨才能進入議會，不超過3個政黨組成的政黨聯盟得票率需達到8%才能進入議會，4個或4個以上政黨組成的政黨聯盟得票率需達到10%才能進入議會。如果進入議會的政黨或政黨聯盟無法達到3個，席位在得票最多的3個政黨或政黨聯盟之間分配。(新華社)
-
----
-
-### 2026-06-07 16:35:34  #國際
-
-美國國家颶風中心（NHC）表示，熱帶風暴阿曼達預計將於週日晚些時候減弱為低壓殘留。
-
----
-
-### 2026-06-07 16:33:16  #公司 #市場 #焦點
-
-【唯特偶：在光模組及先進封裝領域的營收佔比貢獻率均不到1%】唯特偶(301319.SZ)公告回覆深交所關注函，就公司產品在光模組及先進封裝領域的應用情況、相關客戶及銷售金額等進行了說明。光模組生產過程中，錫膏主要用在四個環節：PCB主機板SMT、TOSA/ROSA光器件與COB光引擎焊接、高速FPC軟板熱壓焊接、結構件/殼體接地焊接。以1.6T光模組為例：單個產品錫膏成本金額約為5-72元，金額較小；錫膏產品佔光模組產品價格比例約為0.077%-0.758%，佔比極低。在光模組生產環節中，公司主要產品可用於PCB主機板SMT、TOSA/ROSA光器件與COB光引擎焊接，主要客戶為客戶十三、客戶三十四，主要產品為T7超細粉錫膏及半導體專用清洗劑，主要應用於1.6T的光模組領域。唯特偶表示，光模組及先進封裝業務市場需求和發展前景尚存在不確定性，且截至目前，公司在光模組及先進封裝領域的營收佔比貢獻率均不到1%，預計短期內不會對公司經營業績產生重大影響。公司同時提示，股價短期上漲幅度較大，可能存在市場情緒過熱和非理性炒作的風險。
-
----
-
-### 2026-06-07 16:32:59  #宏觀 #國際
-
-【韓國將採取措施應對韓元過度波動】韓國財政部在針對市場狀況召開緊急會議後發表宣告稱，韓國不會容忍外匯市場出現過度波動或單邊走勢，並將對此採取嚴厲措施。宣告稱，部分投機交易加劇了市場的跟風行為當局將提高韓元無本金交割遠匯(NDF)交易透明度，鑑於透過這些衍生品交易產生的跟風行為已對在岸韓元市場造成影響當局還將調查涉及出口貨款延遲的非法外匯交易，並對外匯市場投機和操縱跡象進行審查。
-
----
-
-### 2026-06-07 16:30:04  #MKT News
-
-Israeli media reported six people were wounded in shootings in the central Israel towns of Kochav Yair and Tzur Yitzhak.
-
----
-
-### 2026-06-07 16:28:58  #焦點 #國際
-
-市場訊息：高階外交訊息人士透露，巴基斯坦內政部長向伊朗傳達了美國同意放寬制裁的訊息。
-
----
-
-### 2026-06-07 16:28:49  #MKT News #Important #WTI #Impact bearish #Brent
-
-Saudi outlet Alhadath, citing senior diplomatic sources, reported Pakistan's interior minister conveyed that the U.S. had agreed to ease sanctions on Iran.
-
----
-
-### 2026-06-07 16:27:52  #MKT News
-
-IAEA says Ukraine reports radiation levels at the Chernobyl facility remain within prescribed limits. An IAEA team will visit Chernobyl shortly to assess the impact.
-
----
-
-### 2026-06-07 16:27:33  #國際
-
-市場訊息：巴基斯坦方面發出的特別信函已交給作為伊朗革命領袖代表的伊朗外長。
-
----
-
-### 2026-06-07 16:26:26  #其他
-
-國際原子能機構：駐切爾諾貝利場址的國際原子能機構工作組很快將前往相關設施檢查此次影響。
-
----
-
-### 2026-06-07 16:25:54  #國際
-
-國際原子能機構：烏克蘭方面稱，該設施輻射水平仍處於規定限值內。
-
----
-
-### 2026-06-07 16:25:42  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-IAEA: An attack inflicted major damage on the facility's fuel‑receiving building; nearby structures were also affected by the blast wave.
-
----
-
-### 2026-06-07 16:25:35  #其他
-
-國際原子能機構：襲擊導致該設施的燃料接收大樓遭受嚴重破壞，附近建築也受到爆炸衝擊波影響。
-
----
-
-### 2026-06-07 16:25:24  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-The IAEA said Ukraine notified it that a drone struck the central spent-fuel storage facility in the Chernobyl Exclusion Zone this morning.
-
----
-
-### 2026-06-07 16:25:19  #國際
-
-國際原子能機構（IAEA）：已接到烏克蘭方面通報，今日凌晨切爾諾貝利隔離區的中央乏燃料儲存設施遭到無人機襲擊。
-
----
-
-### 2026-06-07 16:24:27  #MKT News
-
-Israel Defense Forces (IDF) says terrorists at the shooting scene have been killed. Soldiers and medical personnel are conducting wide searches for other attackers and treating the wounded. Additional troops are en route to the site.
-
----
-
-### 2026-06-07 16:23:22  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-An Israeli newspaper reports the Israeli military assesses strikes on Nabatieh in Lebanon could constitute a "military earthquake" and affect the entire southern Lebanese front.
-
----
-
-### 2026-06-07 16:22:29  #其他
-
-【AI實驗室幫企業一年省下600萬】在國內化工行業首個聚焦丙烯腈檢測的AI黑燈實驗室裡，凌晨三點，機械手精準起落、有條不紊地忙碌著。和傳統實驗室相比，AI實驗室把原本需要幾個房間、十幾道人工工序才能完成的檢測，凝聚在這一個個只有幾平方米大的工作站裡。在AI大腦的指揮下，87臺精密儀器、56臺機器人協同作業，整套系統自己排程、自我管理，在三個半小時內就能完成一整套檢測流程。AI實驗室讓檢測效率大幅提升的同時，檢測精度也更高。此外，AI實驗室的改造帶來的收益也十分可觀，工作人員介紹：“我們測算下來，一年人員的工作量節省至少50%，可能是在600萬元左右，這只是一個直接的經濟效益成本，另外資料計算價值是沒法去估量的。” （央視財經）
-
----
-
-### 2026-06-07 16:20:15  #其他
-
-市場訊息：以軍已在黎巴嫩南部納巴蒂耶市郊展開小規模地面行動。
-
----
-
-### 2026-06-07 16:20:05  #其他
-
-市場訊息：以軍方評估，打擊納巴蒂耶或將引發“軍事震盪”，並波及黎巴嫩整個南部戰線。
-
----
-
-### 2026-06-07 16:18:43  #MKT News
-
-Israeli media report a shooting in central Israel left one dead and at least four wounded.
-
----
-
-### 2026-06-07 16:18:02  #國際
-
-據以色列媒體7日報道，以色列中部發生槍擊事件，造成1人死亡、至少4人受傷。（新華社）
-
----
-
-### 2026-06-07 16:17:06  #國際
-
-伊朗政府：巴基斯坦內政部長會見了伊朗外長，就共同關心的問題以及進一步加強兩國之間的合作進行了討論。
-
----
-
-### 2026-06-07 16:16:38  #MKT News
-
-Pakistan interior minister Mohsin Naqvi met Iran’s foreign minister Araghchi to discuss issues of mutual concern and steps to further deepen bilateral cooperation.
-
----
-
-### 2026-06-07 16:15:55  #公司
-
-【*ST香雪：聘任鄭重為財務負責人】*ST香雪6月7日公告，董事會同意聘任趙其彬為公司營銷總經理，任期自董事會審議透過之日起至第九屆董事會任期屆滿之日止；同意聘任鄭重為公司財務負責人，任期自董事會審議透過之日起至第九屆董事會任期屆滿之日止。結合公司戰略發展規劃及實際經營發展需要，董事會決定對公司原高階管理人員及職務進行調整，將譚光華職務調整為總裁助理，盧鋒將不再擔任公司代理財務總監職務，在公司擔任其他職務。
-
----
-
-### 2026-06-07 16:15:49  #公司
-
-【匯通集團：“匯通轉債”轉股價格調整為6.28元/股】6月7日，匯通集團公告，因實施2025年年度權益分派，對可轉債轉股價格進行調整。根據公告，調整前轉股價格為6.29元/股，調整後轉股價格為6.28元/股。“匯通轉債”本次轉股價格調整實施日期為2026年6月15日。“匯通轉債”自2026年6月5日至2026年6月12日（權益分派股權登記日）停止轉股，自2026年6月15日（本次權益分派除息日）起恢復轉股。
-
----
-
-### 2026-06-07 16:15:32  #公司 #市場 #國際
-
-【燃油成本飆升施壓航空業 英航稱票價或再上調】據英國金融時報報道，英國航空公司（British Airways）執行長肖恩·道爾警告稱，如果燃油價格持續居高不下，票價將不得不上漲。在里約熱內盧舉行的國際航空運輸協會（IATA）年度會議間隙，肖恩·道爾表示：“如果燃油上漲，票價就必須上漲，這是無法迴避的現實。”自今年2月伊朗戰爭爆發以來，航空燃油價格已經翻倍。儘管停火談判正在進行，但霍爾木茲海峽仍處於關閉狀態。該航道約佔歐洲航空燃油供應的40%。全球航空公司已經開始提高票價，以彌補成本上升。BA的競爭對手維珍大西洋航空（Virgin Atlantic）已對經濟艙加收50英鎊附加費，高階艙加收180英鎊，高階艙位加收360英鎊。英國航空上月曾警告稱將提高票價，尤其是商務艙，以抵消更高的燃油成本。但道爾表示，如果燃油成本持續頑固維持高位，票價還將進一步上漲。
-
----
-
-### 2026-06-07 16:15:02  #公司
-
-【文科股份：擬對控股子公司武漢學知實施存續分立】文科股份公告稱，公司擬對控股子公司武漢學知修遠教育科技有限公司實施存續分立，分立後武漢學知繼續存續，另派生新設武漢知芯資訊科技有限公司（暫定名）。截至2025年12月31日，武漢學知資產總額43036.16萬元，負債35757.61萬元，淨資產7278.55萬元；2025年營收5005.03萬元，淨虧損4873.56萬元。本次分立有助於最佳化資源配置，提升文科綠谷資產運營效率，尚需取得有權國有資產管理機構和市場監督管理部門批准。
-
----
-
-### 2026-06-07 16:14:31  #公司
-
-【文科股份：與佛山市金融投資控股等簽署戰略合作協議】文科股份公告，公司與佛山市金融投資控股有限公司、佛山市建設發展集團有限公司及佛山建發私募基金管理有限公司簽署了《戰略合作協議》。該協議為框架性約定，後續具體合作事項將以另行簽訂的合作協議為準。合作領域包括基金組建與投資、產業投資與培育、產業園區運營與發展等。本次合作不涉及具體金額，預計不會對公司本年度業績產生重大影響。
-
----
-
-### 2026-06-07 16:14:23  #公司 #焦點
-
-【新宙邦：與寧德時代簽訂電解液合作協議】新宙邦公告稱，近日與寧德時代簽訂《電解液合作協議》，有效期至2028年12月31日。寧德時代2026 - 2028年預計採購電解液量分別為5.0萬噸、10.0萬噸、15.0萬噸，波動範圍分別為±10%、±12%、±15%。若一方違約，需賠償2500萬元違約金。協議履行預計對公司2026 - 2028年度經營成果產生積極影響，但存在市場需求波動等不確定因素。
-
----
-
-### 2026-06-07 16:14:13  #公司
-
-【文科股份：與廣東清能簽署戰略合作協議】文科股份公告，近日，公司與廣東清能新能源技術有限公司簽署了《戰略合作協議》。雙方將在地方政府合作溝通、申請地方綠色能源、協同推進合作專案落地等方面建立互惠互利的戰略合作伙伴關係。本協議為框架性協議，無需提交公司董事會和股東會審議，不構成《上市公司重大資產重組管理辦法》中規定的重大資產重組。
-
----
-
-### 2026-06-07 16:13:07  #公司
-
-【興發集團：擬出資8000萬元與專業機構共同設立三峽興安先進材料種子基金】興發集團(600141)6月7日公告，為促進湖北三峽實驗室科技成果轉化和產業化，公司與宜昌悅和股權投資基金管理有限公司等簽署了《湖北省三峽興安先進材料種子股權投資基金合夥企業（有限合夥）》合夥協議，共同設立三峽興安先進材料種子基金，總認繳出資額為2億元，公司作為有限合夥人以自有資金認繳出資8000萬元，出資佔比40%。三峽興安先進材料種子基金將重點圍繞湖北三峽實驗室具有產業化前景的技術創新成果、重大裝備突破等專案展開投資，重點投資領域包括磷石膏汙染防治與綜合利用、微電子關鍵化學品、磷/矽基高階化學品及應用等。
-
----
-
-### 2026-06-07 16:12:01  #公司
-
-【東誠藥業：注射用甲磺酸萘莫司他上市申請獲受理】東誠藥業公告，全資子公司東誠北方收到國家藥品監督管理局核准簽發的關於注射用甲磺酸萘莫司他上市許可申請的《受理通知書》。注射用甲磺酸萘莫司他適用於彌散性血管內凝血（DIC）和有出血性病變或出血傾向患者進行血液體外迴圈時，防止灌流血液凝固。國內僅有1家首仿上市，國外已有同類產品上市。2025年前三個季度二級以上醫院銷售額為4.42億元。
-
----
-
-### 2026-06-07 16:11:01  #MKT News
-
-EKHBARIYA reports multiple shootings across Israel; one killed, several injured.
-
----
-
-### 2026-06-07 16:10:41  #MKT News #Commodities #Energy #IAG.L #Impact bearish #Brent #Impact bullish #WTI
-
-【Rising fuel costs squeeze airlines; British Airways warns fares may rise】British Airways CEO Sean Doyle said at the IATA annual meeting in Rio that sustained high jet-fuel prices would force ticket-price increases. Jet fuel has roughly doubled since February after the Iran war; the Strait of Hormuz remains closed despite ceasefire talks and handles about 40% of Europe’s jet-fuel supply. Global carriers have begun raising fares: Virgin Atlantic has added surcharges of £50 to economy, £180 to premium and £360 to top cabins. BA warned last month it would raise fares, notably in business class, to offset higher fuel costs.
-
----
-
-### 2026-06-07 16:02:49  #國際
-
-市場訊息：伊朗布什爾核電站正常執行，裝置狀態良好。
-
----
-
-### 2026-06-07 16:01:14  #公司
-
-【A股大市值公司版圖正改寫：千億市值A股公司躍升至201家 一年增加66家】A股千億市值公司陣營正在快速擴容。截至2026年6月5日，A股千億市值上市公司總家數達到201家，而一年前，這一數字僅為135家。短短一年間，淨增66家，增幅接近49%。這意味著，平均不到一週就有一家上市公司跨越千億門檻，資本市場的價值中樞正加速上移。若進一步穿透當前201家公司，一年前市值不足千億、如今跨入千億陣營的公司達到73家，這也意味著過去一年並非只有單向擴容，部分原有千億公司也已跌出這一門檻。值得關注的是，驅動千億市值俱樂部快速擴容的核心引擎已從傳統的金融、石油石化轉向了以光模組、半導體、AI伺服器為代表的硬科技領域。過去一年，漲幅居前的公司幾乎被科技板塊包攬，其中中際旭創以超過10倍的漲幅傲視群雄，工業富聯、新易盛、天孚通訊等AI產業鏈龍頭同樣實現了數倍的增長。與之形成鮮明對比的是，部分消費白馬與金融巨頭市值出現縮水，市場分化極為劇烈。這不僅是市值榜單的排位更迭，更是中國經濟新舊動能轉換在資本市場的直接體現。 (財聯社)
-
----
-
-### 2026-06-07 15:59:29  #國際
-
-市場訊息：以色列中部科哈夫·亞伊爾的一座加油站疑似發生恐怖襲擊，至少四人受傷；事件仍在進行中。
-
----
-
-### 2026-06-07 15:57:42  #公司 #市場 #國際
-
-【歐洲大型工程集團警告歐盟若不松監管或將出現大規模失業】面對伊朗戰爭引發的能源衝擊，歐洲若不放鬆監管、提升競爭力，或將爆發大規模失業危機。歐洲大型工程集團之一的負責人就此發出警告。 ABB集團執行長莫滕・維羅德在接受採訪時表示，歐洲天然氣價格上漲，導致歐盟相較美國競爭力下滑，但歐洲立法機構在推進監管鬆綁方面毫無緊迫感。維羅德在紐約接受採訪時稱：“我不希望等到大規模失業這類更嚴重的危機出現，各方才幡然醒悟。本不必走到這一步，大家就該拿出應有的緊迫感。” “歐盟及歐洲單一市場需要清理更多法規，不只是做簡化，更要廢除冗餘條款，進一步打通統一市場，以此拉動經濟增長。”
-
----
-
-### 2026-06-07 15:57:21  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Ukraine officials: Russian drone struck spent-fuel storage near Chernobyl】Ukrainian officials said on Sunday a Russian drone struck a spent-fuel storage facility near the Chernobyl nuclear power plant. The Kyiv General Staff and the state nuclear agency said in separate statements radiation levels remained stable and no injuries had been reported.
-
----
-
-### 2026-06-07 15:53:54  #市場
-
-【超警戒水位0.28米 “梅江2026年第2號洪水”形成】據重慶市水文總站監測，受強降雨影響，梅江水位持續上漲，重慶秀山土家族苗族自治縣梅江秀山（二）站6月7日14時水位341.75米，超警戒水位0.28米，“梅江2026年第2號洪水”已經形成。（央視新聞）
-
----
-
-### 2026-06-07 15:53:06  #MKT News
-
-【South Korea's Lee nominates Han Seong-sook as prime minister】South Korea's Lee on the 7th nominated Han Seong-sook, minister of SMEs and Startups, as the new prime minister.
-
----
-
-### 2026-06-07 15:52:38  #其他
-
-【交通運輸部啟動強降雨二級防禦響應】記者從交通運輸部瞭解到，今天，中央氣象臺釋出暴雨橙色預警，交通運輸部啟動強降雨二級防禦響應。預計今明兩天，重慶、貴州、湖北西南部、湖南中西部、廣西、廣東等地部分地區有大到暴雨，其中，重慶南部、湖南南部和西部、貴州東部和南部、廣西北部和南部沿海、廣東南部沿海等地部分地區有大暴雨，貴州東南部、廣西北部等地局地特大暴雨。交通運輸部提醒，非必要不外出，儘量留在安全地帶，關注最新的預報、預警資訊。注意防範可能引發的山洪、滑坡、泥石流等災害。（央視）
-
----
-
-### 2026-06-07 15:49:53  #市場 #國際
-
-【中東局勢引發日本能源危機和漲價潮】美以伊戰爭爆發以來，對高度依賴進口的日本經濟造成了‌深遠且多維度的衝擊‌，日本在能源安全以及宏觀經濟前景方面正在面臨嚴峻挑戰。日本原油進口的九成以上來自中東地區，霍爾木茲海峽封鎖之後，日本全國汽油平均零售價連續上漲，各個行業的成本明顯增加。日本6月計劃漲價的食品達1078種，較5月的84種大幅增加；而7月計劃漲價的食品數量已升至2269種，日本食品“漲價潮”在中東戰事的助推下正在愈演愈烈。日本普通民眾的日常生活也變得更加拮据，人們普遍擔心曾經安穩的生活被打破，焦慮和恐慌情緒正在社會上蔓延。（CCTV國際時訊）
 
 ---
