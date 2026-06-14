@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-15 05:10:03_
-_本檔包含 3769 則快訊，約 661182 字_
+_更新時間：2026-06-15 05:41:23_
+_本檔包含 3781 則快訊，約 661539 字_
+
+---
+
+### 2026-06-15 05:40:14  #市場 #焦點
+
+比特幣升破65000美元，日內漲0.86%。
+
+---
+
+### 2026-06-15 05:37:48  #MKT News #WTI #Impact bearish #Brent
+
+TASNIM NEWS reports Iranian officials will speak in a few minutes regarding reports that an agreement has been reached.
+
+---
+
+### 2026-06-15 05:35:46  #國際
+
+美元全面下滑，特朗普稱美伊達成和平協議，澳元領漲0.5%。
+
+---
+
+### 2026-06-15 05:32:41  #市場 #國際
+
+特朗普稱協議已完成，美元兌G10其他貨幣下跌。
+
+---
+
+### 2026-06-15 05:32:28  #焦點 #國際
+
+特朗普：與伊朗的協議現已達成。向所有人表示祝賀！我特此全面授權霍爾木茲海峽免費通航，並同步授權立即解除美國的海上封鎖。全球的船隻們，啟動引擎吧。讓石油流通起來！
+
+---
+
+### 2026-06-15 05:32:28  #MKT News #Important #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+【Trump says Iran deal reached; Strait of Hormuz open, U.S. naval blockade lifted】U.S. President Trump said an agreement with Iran has been reached and that he has fully authorized free passage through the Strait of Hormuz. He authorized the immediate lifting of the U.S. Navy’s blockade on Iran and urged vessels from all countries to sail, saying oil should flow.
+
+---
+
+### 2026-06-15 05:31:22  #國際
+
+特朗普：授權美國海軍立即解除封鎖霍爾木茲海峽。
+
+---
+
+### 2026-06-15 05:30:53  #焦點 #國際
+
+特朗普：與伊朗的協議已經達成。
+
+---
+
+### 2026-06-15 05:30:45  #MKT News #Important #WTI #Impact bearish #Brent
+
+President Trump said an agreement with Iran is now complete.
+
+---
+
+### 2026-06-15 05:30:25  #焦點 #國際
+
+特朗普：批准霍爾木茲海峽全面免費通航。
+
+---
+
+### 2026-06-15 05:29:54  #國際
+
+特朗普稱內塔尼亞胡支援這份伊核協議，他表示該協議永久禁止伊朗研發核武器，對以色列有利。
+
+---
+
+### 2026-06-15 05:28:30  #MKT News #DXY #Impact bearish
+
+U.S. dollar index (DXY) fell 0.15% intraday.
+
+---
+
+### 2026-06-15 05:22:22  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Pakistan's prime minister said mediators will hold a series of meetings this week after a US-Iran agreement; pre-implementation discussions will lay groundwork for technical talks and a formal signing ceremony.
+
+---
+
+### 2026-06-15 05:20:52  #焦點 #國際
+
+【巴總理：美國與伊朗已達成和平協議】巴基斯坦總理謝謝里夫表示：“經過多輪密集談判，我們欣然宣佈，美國與伊朗已達成和平協議。雙方宣佈立即、永久停止所有戰線的軍事行動，黎巴嫩境內戰事亦同步終止。協議正式簽署儀式將於6月19日（週五）在瑞士舉行。感謝美國與伊朗伊斯蘭共和國致力於透過外交途徑化解衝突。同時，誠摯感謝參與斡旋的卡達領導層，為這份協議的達成提供了大力支援。也特別感謝沙烏地阿拉伯王國與土耳其共和國富有遠見的領導層，各方為此作出了巨大貢獻。協議現已敲定，斡旋方本週將牽頭開展一系列會談。這些落地前的預備磋商，將為後續技術性談判以及正式簽署儀式築牢基礎。”
+
+---
+
+### 2026-06-15 05:17:44  #其他
+
+巴基斯坦總理夏巴茲：隨著協議現已達成，調解人將在本週促成一系列會議。
+
+---
+
+### 2026-06-15 05:17:37  #其他
+
+巴基斯坦總理夏巴茲：雙方已宣佈立即並永久停止所有前線的軍事行動，包括在黎巴嫩境內。官方簽約儀式將於6月19日週五在瑞士舉行。
+
+---
+
+### 2026-06-15 05:17:22  #MKT News #Important
+
+【Pakistan PM says US and Iran have reached peace agreement】Pakistan’s prime minister said intensive negotiations produced a US–Iran peace agreement. Both sides announced an immediate and permanent cessation of military operations on all fronts, including Lebanon. A formal signing ceremony is scheduled for Friday, June 19, in Switzerland.
+
+---
+
+### 2026-06-15 05:16:40  #焦點 #國際
+
+巴基斯坦總理夏巴茲：經過密集談判，我們很高興地宣佈，美國與伊朗已達成和平協議。
+
+---
+
+### 2026-06-15 05:15:34  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+【Trump says he will immediately announce US-Iran agreement】In a Wall Street Journal interview, Trump said he plans to immediately issue a statement confirming the US has reached an agreement with Iran and that he or the vice president will sign the pact electronically. He said the deal would include an Iranian commitment not to acquire nuclear weapons and the immediate reopening of the Strait of Hormuz. Trump said the US is not in a rush to remove nuclear material and may delay extraction for a month or two. He described inspections as going to be very strict but gave no operational details. Iran would not receive unfrozen funds under the agreement, though sanctions could be lifted. He called a maritime blockade more effective than strikes. Iran has not confirmed the agreement.
 
 ---
 
@@ -22734,47 +22848,5 @@ The Shangai Composite Index Closes 1.13% Higher — The Shangai Composite Index 
 ### 2026-06-12 15:10:39  #市場
 
 【全國最大黃金盜竊案告破 27公斤被盜黃金追回了】6月12日上午，南京市公安局召開“偵破江寧‘5·16’特大黃金盜竊案”專場新聞釋出會，通報特大黃金盜竊案偵辦情況，併發還涉案財物。記者從新聞釋出會上瞭解到，近日，南京市江寧區發生一起特大黃金盜竊案，某商鋪店內27公斤黃金被盜，涉案金額高達2700萬餘元。案件發生後，省、市、區三級公安機關迅速聯動，成立專案組，省廳主要領導統籌指揮，市局主要領導直接排程。專案組跨越8個省輾轉追擊，透過瀾湄合作機制開展跨境緝捕，成功抓獲全部11名犯罪嫌疑人，27公斤黃金悉數追回。這也是國內迄今偵破的案值最大的一起黃金盜竊案件（央視財經）
-
----
-
-### 2026-06-12 15:09:24  #市場 #觀點
-
-【上海證監局副局長：“上海價格”的國際影響力持續提升】6月12日，上海市政府舉行市政府新聞釋出會，介紹2026陸家嘴論壇有關情況。中國證監會上海證監局副局長趙國富在釋出會上表示，近年來，證監會堅決貫徹落實黨中央關於擴大高水平對外開放、加快建設上海國際金融中心的重要部署，研究謀劃進一步全面深化資本市場改革開放的一攬子舉措，積極穩妥推進市場、產品、機構雙向開放，支援包括上海在內的機構和企業更好利用國內國際兩個市場、兩種資源。“今年以來，上期所鎳期貨、鎳期權，上期能源20號膠、國際銅期權，中金所國債期貨等品種有序對外開放，‘上海價格’國際影響力持續提升。”趙國富說。（澎湃新聞）
-
----
-
-### 2026-06-12 15:08:29  #Trading Economics #Economy #India #Government Bond 10Y #Importance 0
-
-India 10Y Yield Hits Near Two-Month Low — The yields on India’s 10-year G-Sec fell to around 6.86%, reaching a near two-month low as lower crude oil prices eased inflation concerns and improved sentiment toward domestic fixed-income assets. Brent crude plunged to $88.44 per barrel, its lowest level in two months, after US President Donald Trump said a peace agreement with Iran could be signed as early as this weekend, although Tehran stated that no final decision had been reached. Additional downward pressure came after recent Reserve Bank of India measures to attract foreign-currency inflows and support the rupee. The initiatives have reduced benchmark AAA-rated corporate borrowing costs by 40–45 basis points and narrowed credit spreads over government bonds. As a result, Indian companies are expected to raise over INR 310 billion ($3.24 billion) through bonds this week, while expectations that increased overseas borrowing will reduce domestic debt supply have further boosted bond demand and pushed yields lower.
-
----
-
-### 2026-06-12 15:08:15  #公司
-
-【廣東通用醫藥有限公司調研副經理王楨接受紀律審查和監察調查】據中央紀委國家監委駐通用技術集團紀檢監察組、廣東省紀委監委訊息：廣東通用醫藥有限公司調研副經理王楨涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐通用技術集團紀檢監察組紀律審查和廣東省鶴山市監察委員會監察調查。
-
----
-
-### 2026-06-12 15:07:44  #MKT News #Market Themes #AI Revolution
-
-【AI-native Kimi credit card opens reservations】Kimi's smart assistant says the world's first AI-native Kimi credit card has opened reservations. Cardholders' purchases convert into AI compute credits redeemable for Agent usage and premium features. Reservation is an expression of interest only and does not constitute application, approval or issuance. Eligibility, underwriting standards, product terms and service rules will be determined by the partner bank's formal disclosures and final approval.
-
----
-
-### 2026-06-12 15:07:40  #市場
-
-上海航運交易所資料顯示，截至6月12日，上海出口集裝箱運價指數（綜合指數）報2985.22點，與上期相比上漲258.74點。中國出口集裝箱運價綜合指數報1480.11點，與上期相比漲4.9%。
-
----
-
-### 2026-06-12 15:06:54  #國際
-
-【日本自衛隊將參加多場軍演】從6月15日開始，日本自衛隊將與美國、菲律賓等國開展多次聯合演習。美軍還將藉機再次在日本鹿兒島縣部署“堤豐”中導系統。日本不斷突破專守防衛，威脅地區和平的做法，值得國際社會高度警惕。（CCTV國際時訊）
-
----
-
-### 2026-06-12 15:06:32  #公司 #國際
-
-美國國家公路交通安全管理局（NHTSA）表示：福特汽車公司正在召回255404輛美國市場車輛，原因是車輛發動機行駛途中熄火會增加碰撞事故風險。
 
 ---

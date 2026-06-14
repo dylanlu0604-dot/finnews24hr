@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-15 05:10:03_
-_本檔包含 3598 則快訊，約 661219 字_
+_更新時間：2026-06-15 05:41:23_
+_本檔包含 3594 則快訊，約 661166 字_
+
+---
+
+### 2026-06-11 14:00:20  #MKT News
+
+South Korea's deputy finance minister asked exporters to help improve supply‑demand conditions in the foreign-exchange market and ease volatility.
+
+---
+
+### 2026-06-11 14:00:10  #MKT News #ORCL.O #Impact bearish
+
+Oracle shares fell 10.3% on Tradegate after its large-scale spending plan raised market concern.
+
+---
+
+### 2026-06-11 13:59:51  #Trading Economics #Markets #Australia #stocks #Importance 1
+
+Commonwealth Bank Stock Price Hits 4-week Low — Commonwealth Bank shares decreased to 156.57 AUD, the lowest since May 2026. Over the past 4 weeks, Commonwealth Bank lost 8.73%, and in the last 12 months, it decreased 13.26%.
+
+---
+
+### 2026-06-11 13:59:28  #公司
+
+【最強Arm CPU正式上線 3奈米192核】亞馬遜雲科技（AWS）宣佈，基於第五代自研Arm處理器Graviton5的Amazon EC2 M9g和M9gd例項正式上線。AWS在公告中明確表示，Graviton5為“迄今為止效能最強、能效最高的自研CPU”。其核心數量從Graviton4的96核翻倍至192核，架構層面放棄了單一計算核心晶片設計，轉而採用4晶片組（Chiplet）方案，每個晶片組包含48個核心，並整合專屬的DRAM記憶體控制器和PCIe 6.0 I/O控制器。四個晶片組之間透過定製互連提供高達420GB/s頻寬，L3快取暴增5倍至192MB，分支預測能力大幅提升，執行真實資料庫等複雜程式碼時效能提升高達30%。Graviton5採用了臺積電3nm製程工藝，在同樣功耗下封裝了更多電晶體，實現了更高的電路密度與能效比。根據AWS官方資料，M9g例項相比基於Graviton4的M8g例項，通用計算效能提升25%，Web應用提升35%，機器學習推理提升35%，資料庫提升30%。
+
+---
+
+### 2026-06-11 13:57:59  #市場
+
+甲骨文股價在Tradegate平臺下跌10.3%。
+
+---
+
+### 2026-06-11 13:57:33  #MKT News
+
+【Meituan, Taobao Flash and JD Waimai sign pact to share cross‑platform "blacklist"】Guangdong provincial market regulator hosted a signing for an online catering self‑discipline covenant and co‑governance agreement. Meituan, Taobao Flash and JD Waimai signed the Guangdong Online Catering Industry High‑Quality Development and Food Safety Self‑Discipline Covenant. The five‑chapter, 21‑article covenant references the State Administration for Market Regulation’s Order No. 123 on network catering operators’ food safety responsibilities and sets rules on platform liability, merchant onboarding and management, delivery‑staff care and social co‑governance. It proposes, for the first time, a cross‑platform "blacklist" sharing mechanism to jointly restrict merchants who commit serious violations across all platforms — "one violation, network‑wide restriction."
+
+---
+
+### 2026-06-11 13:57:02  #國際
+
+以色列國防軍：以色列北部響起警報，有敵機滲透。
+
+---
+
+### 2026-06-11 13:56:21  #其他
+
+ZEPHIRIN GROUP將阿里巴巴目標價從112美元下調至92美元。
+
+---
+
+### 2026-06-11 13:56:02  #其他
+
+【科威特宣佈空中交通恢復正常】當地時間11日上午，科威特民航總局宣佈，鑑於此前的“緊急情況”已得到解決，科威特領空內的空中交通恢復正常。科威特民航總局在一份通告中宣佈，科威特國際機場恢復正常運營，航班按照既定時刻表恢復執行。通告強調，民航部門將繼續全天候密切監控局勢，並與科威特境內外相關部門持續協調，以確保空域安全。
 
 ---
 
@@ -21613,83 +21667,5 @@ Hong Kong-listed biopharma stocks active: 02563.HK up over 40%, 01530.HK up more
 ### 2026-06-10 11:34:26  #MKT News #Market Regions #Greater China #SSE Composite #Impact mixed #SZSE Component #CSI300
 
 【China A-shares midday: Shanghai Composite down 0.58%, chemicals lead gains】China A-shares opened lower and weakened; STAR 50 bucked the trend, rising over 3% intraday. By mid-session the Shanghai Composite was down 0.58%, the Shenzhen Composite down 1.94% and the ChiNext (growth) index down 2.29%. Chemicals rallied with multiple names hitting daily limit-ups; helium-related stocks, including Heyuan Gas and Hangyang, also hit limit-ups. Banks rallied intraday—Qingdao Bank rose over 4% and China Construction Bank hit a record intraday high. Travel and hotels, photolithography/photoresist, liquor, insurance and aquaculture were active. Lagging sectors included coal, commercial space, components, reducers, PV equipment and smart grid. Combined Shanghai-Shenzhen turnover at mid-session was about CNY1.73 trillion, roughly CNY116.4 billion higher than the same period yesterday; about 1,100 stocks advanced and 4,300 declined.
-
----
-
-### 2026-06-10 11:34:22  #市場
-
-【港股生物醫藥股活躍 華昊中天醫藥暴漲逾40%】港股生物醫藥股活躍，華昊中天醫藥暴漲逾40%，邁威生物大漲逾23%，銀諾醫藥、宜明昂科漲逾7%，泰格醫藥、科倫博泰生物漲逾4%，藥明康德漲近3%。
-
----
-
-### 2026-06-10 11:34:15  #市場
-
-【法拍交易升溫：1-5月成交折價率73.2%，住宅成交佔比超五成】據中指研究院，2026年1-5月全國法拍市場成交整體回升。全國355城累計掛拍房源39.5萬套，同比上漲19.6%，成交8.4萬套，同比增長26.6%，平均清倉率21.2%、成交折價率73.2%。住宅為交易主力，成交佔比過半。
-
----
-
-### 2026-06-10 11:33:50  #國際
-
-馬來西亞總理：協議將於2028年生效，為期20年。
-
----
-
-### 2026-06-10 11:33:41  #MKT News #Commodities #Energy
-
-Prime Minister Anwar said Malaysia has reached a sale-and-purchase agreement with Japan's JERA to supply 2 million tonnes of LNG.
-
----
-
-### 2026-06-10 11:33:27  #公司 #市場 #焦點 #A股
-
-【午評：創業板指半日跌2.29%，貴金屬、銅纜高速連線、電網裝置板塊跌幅居前】A股三大指數早盤集體下跌，截至午盤，上證指數跌0.58%，深證成指跌1.94%，創業板指跌2.29%，北證50跌2.24%，科創50指數跌0.02%。全市場成交額17478億元，較上日放量1168億元，全市場超4300只個股下跌。板塊題材上，兵裝重組概念、環氧丙烷、保險、旅遊及酒店、銀行板塊漲幅居前；貴金屬、銅纜高速連線、電網裝置、培育鑽石、減速器跌幅居前。盤面上，兵裝重組概念低開高走，東安動力、湖南天雁漲停，長城軍工、建設工業、華強科技跟漲。環氧丙烷板塊表現活躍，美邦科技盤中一度漲超25%，怡達股份、中化國際、紅寶麗、濱化股份漲停，惠通科技、一諾威、紅牆股份跟漲。旅遊及酒店板塊盤中直線拉昇，大連聖亞、天府文旅漲停，西藏旅遊、長白山、雲南旅遊漲幅居前。銅纜高速連線持續下挫，鑫科材料盤中觸及跌停，寶勝股份、精達股份、中天科技跌幅居前。減速器板塊表現疲軟，斯萊克跌超10%，美湖股份、三瑞智慧、藍思科技跌幅居前。
-
----
-
-### 2026-06-10 11:32:53  #公司 #國際
-
-馬來西亞總理：馬來西亞國家石油公司（PETRONAS）與日本JERA公司簽署了液化天然氣銷售和購買協議，將供應200萬噸液化天然氣。
-
----
-
-### 2026-06-10 11:32:37  #國際
-
-韓國進出口銀行考慮發行15億至20億美元美元債券。
-
----
-
-### 2026-06-10 11:31:55  #MKT News
-
-Interfax, citing the regional governor, reported two industrial facilities in Russia's Vladimir region caught fire after a drone strike.
-
----
-
-### 2026-06-10 11:31:50  #資料 #國際
-
-印尼5月消費者信心指數為120.9，4月該指數為123.0。
-
----
-
-### 2026-06-10 11:31:34  #國際
-
-俄羅斯弗拉基米爾州兩處工業設施遭無人機襲擊後起火。
-
----
-
-### 2026-06-10 11:31:29  #公司
-
-【恩捷股份等在四川成立新材料科技公司 註冊資本約13.7億】天眼查App顯示，近日，四川恩捷新材料科技有限公司成立，法定代表人為顧挺，註冊資本約13.7億人民幣，經營範圍包括新型膜材料製造、新材料技術研發、新型膜材料銷售等，由恩捷股份（002812）旗下上海恩捷新材料科技有限公司、自貢市國有資本投資運營集團有限公司、自貢恩泰新材料科技有限責任公司共同持股。
-
----
-
-### 2026-06-10 11:31:18  #MKT News
-
-【China index futures morning session close】China index futures morning session close: CSI 300 futures (IF) front-month down 0.71%; SSE 50 futures (IH) front-month up 0.61%; CSI 500 futures (IC) front-month down 1.55%; CSI 1000 futures (IM) front-month down 1.52%.
-
----
-
-### 2026-06-10 11:31:15  #MKT News #Important #XAUUSD #Impact bearish
-
-By the morning-session close, China's main futures contracts were mostly lower. Shanghai silver slid nearly 7%, platinum fell over 5% and Shanghai gold dropped almost 4%. Coking coal declined more than 3%; LPG and palladium were down about 3%. No.20 rubber and Shanghai nickel lost over 2%. On the upside, container freight to Europe and alumina rose over 3%, industrial silicon gained more than 2%, caustic soda, ferrosilicon and eggs were up over 1%, while manganese silicon and live hogs rose about 1%.
 
 ---

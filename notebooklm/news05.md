@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-15 05:10:03_
-_本檔包含 3809 則快訊，約 661025 字_
+_更新時間：2026-06-15 05:41:23_
+_本檔包含 3796 則快訊，約 661298 字_
+
+---
+
+### 2026-06-09 09:09:08  #經濟數據 #美國
+
+【破4%？美國5月CPI料繼續加速 美聯儲如何應對】當地時間週三（10日），美國勞工部將釋出5月消費者價格指數（CPI）資料包告。市場普遍預期，中東衝突推高能源價格的影響將進一步顯現，美國通脹水平或攀升至4%以上。
+
+---
+
+### 2026-06-09 09:08:20  #其他
+
+市場訊息：資料布瑞克（Databricks）正商談以超過1650億美元的估值融資。
+
+---
+
+### 2026-06-09 09:07:38  #Trading Economics #Markets #Commodity #Importance 1
+
+Soybeans Extend Decline — Soybean futures fell around $11.1 per bushel, extending their decline to a fresh four-month low, pressured by favorable US crop weather and a lack of renewed Chinese demand for US supplies. The absence of visible Chinese buying activity has disappointed traders who had anticipated stronger export demand following the announcement in May that China would buy $17 billion worth of US agricultural products annually in addition to the 25 million metric tons of soybeans already committed. Meanwhile, favorable weather across the US Midwest continued to reinforce expectations for strong crop development, while the likelihood of a sharp increase in planted acreage raised prospects for a record harvest. USDA's weekly crop ratings are expected to show improvement from the prior week's 66% good-to-excellent rating, while planting progress reached 87% complete as of May 31. Elsewhere, Argentina's soybean harvest was 91.7% complete, while soaring fertilizer costs are pressuring Brazilian farmers.
+
+---
+
+### 2026-06-09 09:06:42  #公司
+
+【九洲集團連續中標國家電網箱變集採專案】近日，國家電網各區域首輪箱變聯合採購結果陸續公佈，九洲集團全資子公司瀋陽昊誠電氣先後中標箱式變電站標段，涵蓋東北黑龍江（包6）、華東安徽（包5）、華中四川（包4）、西北甘肅（包1）。下一步，九洲集團將嚴格遵循國家電網質量管控要求履約，保質保量按期供貨。
+
+---
+
+### 2026-06-09 09:06:08  #其他
+
+據報道，葛蘭素史克最快將於本週達成收購Nuvalen的交易。
+
+---
+
+### 2026-06-09 09:05:26  #公司
+
+葛蘭素史克正就以超過90億美元收購癌症生物技術公司紐瓦倫特（Nuvalent）進行洽談。
+
+---
+
+### 2026-06-09 09:05:09  #宏觀 #市場
+
+【財政部將於6月在香港發行150億元人民幣國債】根據有關工作安排，財政部將於6月16日在香港特別行政區發行2026年第三期人民幣國債，發行規模為150億元，具體發行安排將在香港金融管理局債務工具中央結算系統（CMU）公佈。
+
+---
+
+### 2026-06-09 09:05:05  #MKT News
+
+【Navigation warning: live-fire exercises in Yellow Sea】Qingdao Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning that parts of the Yellow Sea will be closed for live-fire shooting exercises from June 9 16:00 to June 10 18:00 (local time); entry is prohibited.
 
 ---
 
@@ -22832,131 +22880,5 @@ Al Arabiya reports Netanyahu and Trump held a 20-minute phone call.
 ### 2026-06-08 05:45:20  #MKT News
 
 Ukraine President ZELENSKIY said Kyiv's long-range strikes are effective, but protection against ballistic threats is "extremely important".
-
----
-
-### 2026-06-08 05:40:43  #MKT News #Market Regions #Europe & UK
-
-Ukraine's president Zelenskiy said Europe's position and voice in negotiations have always been treated as priorities.
-
----
-
-### 2026-06-08 05:40:20  #國際
-
-烏克蘭總統澤連斯基在與歐盟E3會晤後表示：讓歐洲在談判中保持強硬立場與話語權，一直是我們的優先要務。
-
----
-
-### 2026-06-08 05:39:58  #其他 #焦點
-
-蘋果2026全球開發者大會正式開幕，本次大會重點對Siri人工智慧進行重大革新，並推出多項軟體升級。
-
----
-
-### 2026-06-08 05:34:08  #國際
-
-伊朗打擊了伊拉克蘇萊曼尼亞境內的多處據點。
-
----
-
-### 2026-06-08 05:27:21  #市場 #國際
-
-受伊朗局勢衝突影響，燃油成本上漲，美國航空暫停六條國內航線。
-
----
-
-### 2026-06-08 05:22:20  #國際
-
-一名美國官員：美國並未參與相關行動，目前尚不清楚特朗普是否會叫停對以色列打擊伊朗的軍事支援。
-
----
-
-### 2026-06-08 05:19:36  #MKT News
-
-Israeli media report the U.S. has told Israel to wait a few days to see if a deal can be reached; if no agreement emerges, the U.S. will proceed under a joint operations plan.
-
----
-
-### 2026-06-08 05:18:23  #MKT News
-
-Saudi outlet Hadas reported a phone call between Trump and Netanyahu has ended.
-
----
-
-### 2026-06-08 05:17:47  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Israeli military chief of staff said the military will decisively strike the 'enemy' once orders are issued.
-
----
-
-### 2026-06-08 05:17:45  #MKT News
-
-IRNA: Iran has suspended flights at Imam Khomeini International Airport until further notice.
-
----
-
-### 2026-06-08 05:16:29  #國際
-
-以色列國防軍參謀長：一旦接到命令，以軍將斷然打擊“敵人”。
-
----
-
-### 2026-06-08 05:12:47  #國際
-
-伊朗外交部警告稱，以色列針對伊朗或黎巴嫩的任何行動都將遭到“毀滅性回擊”。
-
----
-
-### 2026-06-08 05:12:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's foreign ministry warned any Israeli action against Iran or Lebanon would draw a "devastating response".
-
----
-
-### 2026-06-08 05:12:19  #國際
-
-【美駐以色列使館要求僱員就地避難】當地時間今天（6月8日）凌晨，在耶路撒冷的美國駐以色列大使館指示所有美國政府僱員及其家人就地避難。
-
----
-
-### 2026-06-08 05:11:50  #國際
-
-伊朗外交部表示，黎巴嫩停火是今年4月達成的停火協議的固有組成部分。
-
----
-
-### 2026-06-08 05:11:48  #MKT News
-
-Iran’s foreign ministry said Lebanon’s ceasefire is an important component of the ceasefire agreement reached in April.
-
----
-
-### 2026-06-08 05:11:39  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's foreign ministry said the attack occurred after Israel's operations in Lebanon and repeated violations of the ceasefire agreement.
-
----
-
-### 2026-06-08 05:11:25  #國際
-
-伊朗外交部表示，此次打擊是以色列屢次違反停火協議並對黎巴嫩採取行動後發起的。
-
----
-
-### 2026-06-08 05:11:17  #國際
-
-【伊朗伊瑪目霍梅尼機場航班無限期暫停】伊朗民航組織宣佈，伊瑪目霍梅尼國際機場所有航班自2026年6月8日午夜起暫停，恢復時間另行通知。建議旅客切勿前往機場，持續關注官方後續通告。
-
----
-
-### 2026-06-08 05:10:42  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Iran's foreign ministry said Iran's armed forces carried out a defensive strike against Israel.
-
----
-
-### 2026-06-08 05:10:23  #國際
-
-伊朗外交部表示，伊朗武裝力量對以色列實施了“防禦性打擊”。
 
 ---

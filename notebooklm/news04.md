@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-15 05:10:03_
-_本檔包含 3543 則快訊，約 661140 字_
+_更新時間：2026-06-15 05:41:23_
+_本檔包含 3548 則快訊，約 661389 字_
+
+---
+
+### 2026-06-10 11:34:22  #市場
+
+【港股生物醫藥股活躍 華昊中天醫藥暴漲逾40%】港股生物醫藥股活躍，華昊中天醫藥暴漲逾40%，邁威生物大漲逾23%，銀諾醫藥、宜明昂科漲逾7%，泰格醫藥、科倫博泰生物漲逾4%，藥明康德漲近3%。
+
+---
+
+### 2026-06-10 11:34:15  #市場
+
+【法拍交易升溫：1-5月成交折價率73.2%，住宅成交佔比超五成】據中指研究院，2026年1-5月全國法拍市場成交整體回升。全國355城累計掛拍房源39.5萬套，同比上漲19.6%，成交8.4萬套，同比增長26.6%，平均清倉率21.2%、成交折價率73.2%。住宅為交易主力，成交佔比過半。
+
+---
+
+### 2026-06-10 11:33:50  #國際
+
+馬來西亞總理：協議將於2028年生效，為期20年。
+
+---
+
+### 2026-06-10 11:33:41  #MKT News #Commodities #Energy
+
+Prime Minister Anwar said Malaysia has reached a sale-and-purchase agreement with Japan's JERA to supply 2 million tonnes of LNG.
+
+---
+
+### 2026-06-10 11:33:27  #公司 #市場 #焦點 #A股
+
+【午評：創業板指半日跌2.29%，貴金屬、銅纜高速連線、電網裝置板塊跌幅居前】A股三大指數早盤集體下跌，截至午盤，上證指數跌0.58%，深證成指跌1.94%，創業板指跌2.29%，北證50跌2.24%，科創50指數跌0.02%。全市場成交額17478億元，較上日放量1168億元，全市場超4300只個股下跌。板塊題材上，兵裝重組概念、環氧丙烷、保險、旅遊及酒店、銀行板塊漲幅居前；貴金屬、銅纜高速連線、電網裝置、培育鑽石、減速器跌幅居前。盤面上，兵裝重組概念低開高走，東安動力、湖南天雁漲停，長城軍工、建設工業、華強科技跟漲。環氧丙烷板塊表現活躍，美邦科技盤中一度漲超25%，怡達股份、中化國際、紅寶麗、濱化股份漲停，惠通科技、一諾威、紅牆股份跟漲。旅遊及酒店板塊盤中直線拉昇，大連聖亞、天府文旅漲停，西藏旅遊、長白山、雲南旅遊漲幅居前。銅纜高速連線持續下挫，鑫科材料盤中觸及跌停，寶勝股份、精達股份、中天科技跌幅居前。減速器板塊表現疲軟，斯萊克跌超10%，美湖股份、三瑞智慧、藍思科技跌幅居前。
+
+---
+
+### 2026-06-10 11:32:53  #公司 #國際
+
+馬來西亞總理：馬來西亞國家石油公司（PETRONAS）與日本JERA公司簽署了液化天然氣銷售和購買協議，將供應200萬噸液化天然氣。
+
+---
+
+### 2026-06-10 11:32:37  #國際
+
+韓國進出口銀行考慮發行15億至20億美元美元債券。
+
+---
+
+### 2026-06-10 11:31:55  #MKT News
+
+Interfax, citing the regional governor, reported two industrial facilities in Russia's Vladimir region caught fire after a drone strike.
+
+---
+
+### 2026-06-10 11:31:50  #資料 #國際
+
+印尼5月消費者信心指數為120.9，4月該指數為123.0。
+
+---
+
+### 2026-06-10 11:31:34  #國際
+
+俄羅斯弗拉基米爾州兩處工業設施遭無人機襲擊後起火。
+
+---
+
+### 2026-06-10 11:31:29  #公司
+
+【恩捷股份等在四川成立新材料科技公司 註冊資本約13.7億】天眼查App顯示，近日，四川恩捷新材料科技有限公司成立，法定代表人為顧挺，註冊資本約13.7億人民幣，經營範圍包括新型膜材料製造、新材料技術研發、新型膜材料銷售等，由恩捷股份（002812）旗下上海恩捷新材料科技有限公司、自貢市國有資本投資運營集團有限公司、自貢恩泰新材料科技有限責任公司共同持股。
+
+---
+
+### 2026-06-10 11:31:18  #MKT News
+
+【China index futures morning session close】China index futures morning session close: CSI 300 futures (IF) front-month down 0.71%; SSE 50 futures (IH) front-month up 0.61%; CSI 500 futures (IC) front-month down 1.55%; CSI 1000 futures (IM) front-month down 1.52%.
+
+---
+
+### 2026-06-10 11:31:15  #MKT News #Important #XAUUSD #Impact bearish
+
+By the morning-session close, China's main futures contracts were mostly lower. Shanghai silver slid nearly 7%, platinum fell over 5% and Shanghai gold dropped almost 4%. Coking coal declined more than 3%; LPG and palladium were down about 3%. No.20 rubber and Shanghai nickel lost over 2%. On the upside, container freight to Europe and alumina rose over 3%, industrial silicon gained more than 2%, caustic soda, ferrosilicon and eggs were up over 1%, while manganese silicon and live hogs rose about 1%.
 
 ---
 
@@ -21286,53 +21364,5 @@ Gasoline Prices Hold Steady — US gasoline futures barely moved below $3.10 per
 ### 2026-06-09 09:09:08  #央行 #美聯儲
 
 【破4%？美國5月CPI料繼續加速 美聯儲如何應對】當地時間週三（10日），美國勞工部將釋出5月消費者價格指數（CPI）資料包告。市場普遍預期，中東衝突推高能源價格的影響將進一步顯現，美國通脹水平或攀升至4%以上。
-
----
-
-### 2026-06-09 09:09:08  #經濟數據 #美國
-
-【破4%？美國5月CPI料繼續加速 美聯儲如何應對】當地時間週三（10日），美國勞工部將釋出5月消費者價格指數（CPI）資料包告。市場普遍預期，中東衝突推高能源價格的影響將進一步顯現，美國通脹水平或攀升至4%以上。
-
----
-
-### 2026-06-09 09:08:20  #其他
-
-市場訊息：資料布瑞克（Databricks）正商談以超過1650億美元的估值融資。
-
----
-
-### 2026-06-09 09:07:38  #Trading Economics #Markets #Commodity #Importance 1
-
-Soybeans Extend Decline — Soybean futures fell around $11.1 per bushel, extending their decline to a fresh four-month low, pressured by favorable US crop weather and a lack of renewed Chinese demand for US supplies. The absence of visible Chinese buying activity has disappointed traders who had anticipated stronger export demand following the announcement in May that China would buy $17 billion worth of US agricultural products annually in addition to the 25 million metric tons of soybeans already committed. Meanwhile, favorable weather across the US Midwest continued to reinforce expectations for strong crop development, while the likelihood of a sharp increase in planted acreage raised prospects for a record harvest. USDA's weekly crop ratings are expected to show improvement from the prior week's 66% good-to-excellent rating, while planting progress reached 87% complete as of May 31. Elsewhere, Argentina's soybean harvest was 91.7% complete, while soaring fertilizer costs are pressuring Brazilian farmers.
-
----
-
-### 2026-06-09 09:06:42  #公司
-
-【九洲集團連續中標國家電網箱變集採專案】近日，國家電網各區域首輪箱變聯合採購結果陸續公佈，九洲集團全資子公司瀋陽昊誠電氣先後中標箱式變電站標段，涵蓋東北黑龍江（包6）、華東安徽（包5）、華中四川（包4）、西北甘肅（包1）。下一步，九洲集團將嚴格遵循國家電網質量管控要求履約，保質保量按期供貨。
-
----
-
-### 2026-06-09 09:06:08  #其他
-
-據報道，葛蘭素史克最快將於本週達成收購Nuvalen的交易。
-
----
-
-### 2026-06-09 09:05:26  #公司
-
-葛蘭素史克正就以超過90億美元收購癌症生物技術公司紐瓦倫特（Nuvalent）進行洽談。
-
----
-
-### 2026-06-09 09:05:09  #宏觀 #市場
-
-【財政部將於6月在香港發行150億元人民幣國債】根據有關工作安排，財政部將於6月16日在香港特別行政區發行2026年第三期人民幣國債，發行規模為150億元，具體發行安排將在香港金融管理局債務工具中央結算系統（CMU）公佈。
-
----
-
-### 2026-06-09 09:05:05  #MKT News
-
-【Navigation warning: live-fire exercises in Yellow Sea】Qingdao Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning that parts of the Yellow Sea will be closed for live-fire shooting exercises from June 9 16:00 to June 10 18:00 (local time); entry is prohibited.
 
 ---

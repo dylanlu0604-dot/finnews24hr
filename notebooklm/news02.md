@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-15 05:10:03_
-_本檔包含 3591 則快訊，約 661275 字_
+_更新時間：2026-06-15 05:41:23_
+_本檔包含 3589 則快訊，約 661489 字_
+
+---
+
+### 2026-06-12 15:09:24  #市場 #觀點
+
+【上海證監局副局長：“上海價格”的國際影響力持續提升】6月12日，上海市政府舉行市政府新聞釋出會，介紹2026陸家嘴論壇有關情況。中國證監會上海證監局副局長趙國富在釋出會上表示，近年來，證監會堅決貫徹落實黨中央關於擴大高水平對外開放、加快建設上海國際金融中心的重要部署，研究謀劃進一步全面深化資本市場改革開放的一攬子舉措，積極穩妥推進市場、產品、機構雙向開放，支援包括上海在內的機構和企業更好利用國內國際兩個市場、兩種資源。“今年以來，上期所鎳期貨、鎳期權，上期能源20號膠、國際銅期權，中金所國債期貨等品種有序對外開放，‘上海價格’國際影響力持續提升。”趙國富說。（澎湃新聞）
+
+---
+
+### 2026-06-12 15:08:29  #Trading Economics #Economy #India #Government Bond 10Y #Importance 0
+
+India 10Y Yield Hits Near Two-Month Low — The yields on India’s 10-year G-Sec fell to around 6.86%, reaching a near two-month low as lower crude oil prices eased inflation concerns and improved sentiment toward domestic fixed-income assets. Brent crude plunged to $88.44 per barrel, its lowest level in two months, after US President Donald Trump said a peace agreement with Iran could be signed as early as this weekend, although Tehran stated that no final decision had been reached. Additional downward pressure came after recent Reserve Bank of India measures to attract foreign-currency inflows and support the rupee. The initiatives have reduced benchmark AAA-rated corporate borrowing costs by 40–45 basis points and narrowed credit spreads over government bonds. As a result, Indian companies are expected to raise over INR 310 billion ($3.24 billion) through bonds this week, while expectations that increased overseas borrowing will reduce domestic debt supply have further boosted bond demand and pushed yields lower.
+
+---
+
+### 2026-06-12 15:08:15  #公司
+
+【廣東通用醫藥有限公司調研副經理王楨接受紀律審查和監察調查】據中央紀委國家監委駐通用技術集團紀檢監察組、廣東省紀委監委訊息：廣東通用醫藥有限公司調研副經理王楨涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐通用技術集團紀檢監察組紀律審查和廣東省鶴山市監察委員會監察調查。
+
+---
+
+### 2026-06-12 15:07:44  #MKT News #Market Themes #AI Revolution
+
+【AI-native Kimi credit card opens reservations】Kimi's smart assistant says the world's first AI-native Kimi credit card has opened reservations. Cardholders' purchases convert into AI compute credits redeemable for Agent usage and premium features. Reservation is an expression of interest only and does not constitute application, approval or issuance. Eligibility, underwriting standards, product terms and service rules will be determined by the partner bank's formal disclosures and final approval.
+
+---
+
+### 2026-06-12 15:07:40  #市場
+
+上海航運交易所資料顯示，截至6月12日，上海出口集裝箱運價指數（綜合指數）報2985.22點，與上期相比上漲258.74點。中國出口集裝箱運價綜合指數報1480.11點，與上期相比漲4.9%。
+
+---
+
+### 2026-06-12 15:06:54  #國際
+
+【日本自衛隊將參加多場軍演】從6月15日開始，日本自衛隊將與美國、菲律賓等國開展多次聯合演習。美軍還將藉機再次在日本鹿兒島縣部署“堤豐”中導系統。日本不斷突破專守防衛，威脅地區和平的做法，值得國際社會高度警惕。（CCTV國際時訊）
+
+---
+
+### 2026-06-12 15:06:32  #公司 #國際
+
+美國國家公路交通安全管理局（NHTSA）表示：福特汽車公司正在召回255404輛美國市場車輛，原因是車輛發動機行駛途中熄火會增加碰撞事故風險。
 
 ---
 
@@ -21559,59 +21601,5 @@ European Stocks Set for Lower Open — European equity markets were on track for
 ### 2026-06-11 14:00:23  #宏觀
 
 【我國星空地一體化碳監測關鍵技術取得重大進展】針對我國溫室氣體監測與計量領域中，星基、空基、地基主流監測裝置及核心方法長期依賴國外技術，致使國家、區域及行業層面碳排放監測資料難以實現自主、精準的質量控制這一關鍵問題，市場監管總局組織國內優勢科技力量，開展星空地一體化溫室氣體濃度監測、排放反演演算法及監測裝備等關鍵技術攻關，成功突破高解析度國產衛星CO2、CH4柱濃度與排放反演核心技術，打破了國外在中尺度CO2通量探測鐳射雷達濃度與風場同步探測領域的技術壟斷。研究團隊成功研發中尺度鐳射雷達監測設施、現場測量與計量物聯網裝置，以及區域和行業領域溫室氣體排放清單反演與校驗演算法，相關產品可以用於國家、省市、工業、能源、交通、居民等溫室氣體排放的高精度、快速化監測與計量。研究團隊牽頭起草《大氣成分觀測規範 溫室氣體》等2項氣象行業技術標準和《平板玻璃生產企業碳排放核算資料計量溯源性核驗方法》等3項具有國際先進性的團體標準，獲批福建省能源領域首套重大裝置，為規範我國溫室氣體觀測、精準核算碳收支、科學評估減排成效等提供了關鍵技術支撐。目前，相關研究成果已在國家、省市氣象和環保部門，以及鋼鐵、煤炭、平板玻璃等行業企業開展應用，取得了較好的示範效果。
-
----
-
-### 2026-06-11 14:00:20  #MKT News
-
-South Korea's deputy finance minister asked exporters to help improve supply‑demand conditions in the foreign-exchange market and ease volatility.
-
----
-
-### 2026-06-11 14:00:10  #MKT News #ORCL.O #Impact bearish
-
-Oracle shares fell 10.3% on Tradegate after its large-scale spending plan raised market concern.
-
----
-
-### 2026-06-11 13:59:51  #Trading Economics #Markets #Australia #stocks #Importance 1
-
-Commonwealth Bank Stock Price Hits 4-week Low — Commonwealth Bank shares decreased to 156.57 AUD, the lowest since May 2026. Over the past 4 weeks, Commonwealth Bank lost 8.73%, and in the last 12 months, it decreased 13.26%.
-
----
-
-### 2026-06-11 13:59:28  #公司
-
-【最強Arm CPU正式上線 3奈米192核】亞馬遜雲科技（AWS）宣佈，基於第五代自研Arm處理器Graviton5的Amazon EC2 M9g和M9gd例項正式上線。AWS在公告中明確表示，Graviton5為“迄今為止效能最強、能效最高的自研CPU”。其核心數量從Graviton4的96核翻倍至192核，架構層面放棄了單一計算核心晶片設計，轉而採用4晶片組（Chiplet）方案，每個晶片組包含48個核心，並整合專屬的DRAM記憶體控制器和PCIe 6.0 I/O控制器。四個晶片組之間透過定製互連提供高達420GB/s頻寬，L3快取暴增5倍至192MB，分支預測能力大幅提升，執行真實資料庫等複雜程式碼時效能提升高達30%。Graviton5採用了臺積電3nm製程工藝，在同樣功耗下封裝了更多電晶體，實現了更高的電路密度與能效比。根據AWS官方資料，M9g例項相比基於Graviton4的M8g例項，通用計算效能提升25%，Web應用提升35%，機器學習推理提升35%，資料庫提升30%。
-
----
-
-### 2026-06-11 13:57:59  #市場
-
-甲骨文股價在Tradegate平臺下跌10.3%。
-
----
-
-### 2026-06-11 13:57:33  #MKT News
-
-【Meituan, Taobao Flash and JD Waimai sign pact to share cross‑platform "blacklist"】Guangdong provincial market regulator hosted a signing for an online catering self‑discipline covenant and co‑governance agreement. Meituan, Taobao Flash and JD Waimai signed the Guangdong Online Catering Industry High‑Quality Development and Food Safety Self‑Discipline Covenant. The five‑chapter, 21‑article covenant references the State Administration for Market Regulation’s Order No. 123 on network catering operators’ food safety responsibilities and sets rules on platform liability, merchant onboarding and management, delivery‑staff care and social co‑governance. It proposes, for the first time, a cross‑platform "blacklist" sharing mechanism to jointly restrict merchants who commit serious violations across all platforms — "one violation, network‑wide restriction."
-
----
-
-### 2026-06-11 13:57:02  #國際
-
-以色列國防軍：以色列北部響起警報，有敵機滲透。
-
----
-
-### 2026-06-11 13:56:21  #其他
-
-ZEPHIRIN GROUP將阿里巴巴目標價從112美元下調至92美元。
-
----
-
-### 2026-06-11 13:56:02  #其他
-
-【科威特宣佈空中交通恢復正常】當地時間11日上午，科威特民航總局宣佈，鑑於此前的“緊急情況”已得到解決，科威特領空內的空中交通恢復正常。科威特民航總局在一份通告中宣佈，科威特國際機場恢復正常運營，航班按照既定時刻表恢復執行。通告強調，民航部門將繼續全天候密切監控局勢，並與科威特境內外相關部門持續協調，以確保空域安全。
 
 ---
