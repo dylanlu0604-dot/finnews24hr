@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-14 23:13:27",
-  "count": 18308,
+  "updated": "2026-06-14 23:17:37",
+  "count": 18311,
   "items": [
+    {
+      "id": "4934595",
+      "time": "2026-06-14 23:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基與特朗普通電話。"
+    },
+    {
+      "id": "mkt:019ec6b4-45c3-7dd8-aff3-84a327cfde91",
+      "time": "2026-06-14 23:16:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said content aired on state television does not reflect instructions from the Supreme Leader or the Supreme National Security Council."
+    },
+    {
+      "id": "4934594",
+      "time": "2026-06-14 23:15:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士一項公投提案遭到否決，該提案原本計劃在2050年前將本國人口上限設定為1000萬。 初步計票結果顯示，55%的選民投了反對票，45%表示支援。"
+    },
+    {
+      "id": "mkt:019ec6b3-cdc0-7dd8-aff3-7fdd4f5e81d0",
+      "time": "2026-06-14 23:15:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said labeling the negotiating team as traitors was regrettable."
+    },
+    {
+      "id": "4934593",
+      "time": "2026-06-14 23:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國駐聯合國大使：特朗普及美方談判人員對達成協議充滿信心】美國駐聯合國大使邁克·沃爾茨表示，特朗普總統仍打算簽署與伊朗和平協議的初步框架文字。沃爾茨說：“總統完全有意促成此事。具體細節與時間將由白宮公佈。”他補充道：“伊朗人是極難對付的談判者，加之他們很難從最高領袖那裡得到明確指示，而且談判團隊內部也並非總是步調一致。”沃爾茨稱，特朗普及美方談判人員對達成協議充滿信心。他說：“他們完全有意在今日完成簽署。”"
+    },
     {
       "id": "mkt:019ec6b0-ebec-7dd8-aff3-75e76fc94bce",
       "time": "2026-06-14 23:12:23",
@@ -168392,26 +168432,6 @@
         "國際"
       ],
       "text": "市場資訊：美國共和黨主導選區重劃後，民主黨需再拿下近兩個百分點的選票，才能贏得眾議院控制權。"
-    },
-    {
-      "id": "mkt:019ea2a9-1c03-7ee0-86d0-8bd15484e8f1",
-      "time": "2026-06-07 23:17:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump says he will not unfreeze Iranian assets before a US-Iran deal】Trump told NBC in a program broadcast on the 7th he will not unfreeze Iranian assets or lift any sanctions before the US and Iran reach a peace agreement; in an interview on the 5th he said he would only consider unfreezing assets after both sides reach an agreement. Iran's state broadcaster IRIB on the 7th cited foreign ministry spokesman BAGHAEI saying Iran demands the unfreezing of tens of billions of dollars held in foreign banks and that the US should lift related sanctions."
-    },
-    {
-      "id": "mkt:019ea2a7-2248-7ee0-86d0-8686761c20f2",
-      "time": "2026-06-07 23:15:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump backs $1.8 billion 'anti-weaponization' fund, says it could pay convicted Jan. 6 rioters】Trump told NBC he personally thinks the $1.8 billion \"anti-weaponization\" fund is \"a good idea\" and hinted some proceeds could be used to compensate people convicted over the January 6 Capitol riot. The fund is part of his settlement with the IRS to compensate alleged victims of politically motivated investigations; Acting Attorney General Branch had said the idea was dead, but Trump said he will try to advance it, a move that could reignite tensions with Senate Republicans. Congressional critics call the proposal a \"bribe fund.\" In the same interview Trump reiterated claims the 2020 election was manipulated and ended the interview early after clashing with the host."
     }
   ]
 }
