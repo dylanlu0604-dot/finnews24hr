@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-15 04:00:08_
-_本檔包含 3608 則快訊，約 662377 字_
+_更新時間：2026-06-15 04:42:36_
+_本檔包含 3596 則快訊，約 661603 字_
+
+---
+
+### 2026-06-12 15:04:21  #市場
+
+英國國債收益率曲線全線上漲，10年期國債收益率下跌6個基點至4.84%。
+
+---
+
+### 2026-06-12 15:04:12  #市場
+
+莫雷爾和普羅姆、道達爾能源以及在荷蘭上市的殼牌股價下跌2%-4%。
+
+---
+
+### 2026-06-12 15:04:05  #MKT News
+
+【Serbian President Vučić says he plans to resign】Serbian President Aleksandar Vučić told a Belgrade radio interview he plans to resign; a presidential election is expected within three to four months. He said he will notify the public and is considering potential successor candidates.
+
+---
+
+### 2026-06-12 15:03:59  #其他
+
+【塞爾維亞總統武契奇表示計劃辭職】塞爾維亞總統武契奇日前接受貝爾格萊德電臺採訪時說，他計劃辭去總統一職，總統選舉將在未來3至4個月進行。武契奇說，“我正在計劃辭職。我會通知大家，不會讓任何人感到意外”。他同時透露，他已經開始整理並打包存放在總統府裡的圖書。武契奇還說，當下正在考慮新的總統候選人。（新華社）
+
+---
+
+### 2026-06-12 15:03:40  #宏觀 #國際
+
+【尼泊爾外交部長希西爾將訪華】外交部發言人宣佈：應中共中央政治局委員、外交部長王毅邀請，尼泊爾外交部長希西爾將於6月14日至17日訪問中國。
+
+---
+
+### 2026-06-12 15:03:17  #MKT News
+
+【Shanghai-Shenzhen combined turnover RMB 3.215 tln; Zhongji Xuchuang tops stock turnover】On June 12, combined turnover on the Shanghai and Shenzhen exchanges was RMB 3.215 trillion, up RMB 662.93 billion from the prior session. Shanghai turnover was RMB 1.5374 trillion (prior RMB 1.1856 trillion) with volume 743 million lots (prior 569 million); Shenzhen turnover was RMB 1.6775 trillion (prior RMB 1.3665 trillion) with volume 792 million lots (prior 670 million). Zhongji Xuchuang led single-stock turnover at RMB 40.00 billion, followed by Xinyisheng RMB 33.73 billion, Hengtong Optic‑Electric RMB 21.53 billion, GigaDevice RMB 20.20 billion and Baiwei Storage RMB 18.61 billion.
+
+---
+
+### 2026-06-12 15:03:14  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China's Shanghai Composite Index closed up 44.5 pts (1.12%) at 4,031.51 on Friday, June 12; Shenzhen Composite rose 111.43 pts (0.75%) to 14,963.41; CSI 300 Index gained 54.91 pts (1.16%) to 4,777.32; ChiNext Index added 19.11 pts (0.50%) to 3,830.35; STAR 50 Index was up 0.78 pts (0.05%) at 1,663.22.
+
+---
+
+### 2026-06-12 15:02:53  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #CAC40
+
+European equities opened higher on Friday, June 12: Germany’s DAX 30 up 372.79 pts (+1.54%) at 24,582.68; UK’s FTSE 100 up 71.37 pts (+0.69%) at 10,375.25; France’s CAC 40 up 110.87 pts (+1.35%) at 8,311.67; STOXX Europe 50 up 89.39 pts (+1.48%) at 6,146.35; Spain’s IBEX 35 up 307.60 pts (+1.68%) at 18,597.70; Italy’s FTSE MIB up 638.76 pts (+1.26%) at 51,143.50.
+
+---
+
+### 2026-06-12 15:02:50  #Trading Economics #Economy #France #Inflation Rate #Importance 1
+
+France Inflation Confirmed at 2.4% in May — France’s annual inflation rate rose to 2.4% in May 2026, picking up from 2.2% in April, confirming preliminary estimates. This marked the highest level since February 2024, driven mainly by higher energy prices (16.6% vs 14.3% in April), largely due to a sharp rebound in gas prices (11.3% vs -3.1%). Services inflation also rose to 2.1% from 1.8%, while food prices slowed slightly to 1.1% from 1.2%. Prices for manufactured goods fell by 0.6%, and tobacco inflation remained steady at 3.2%. On a monthly basis, the CPI increased by 0.1% in May, slowing sharply from 1.0% in April, as energy prices rose at a slower pace (0.6% vs 4.7%), with higher gas prices partly offset by a decline in petroleum products (-1.9% vs 8.2%). Food prices rose 0.3%, driven by fresh products, while manufactured goods edged up 0.1%, and services and tobacco were stable. Meanwhile, the EU-harmonised annual inflation rate rose to 2.8% from 2.5%, while monthly CPI increased by 0.1% following a 1.2% rise in April.
+
+---
+
+### 2026-06-12 15:02:21  #市場
+
+【機構：AI持續走強、消費供應鏈提前備貨發酵，第一季全球前十大晶圓代工營收季增3.7%】根據TrendForce集邦諮詢最新晶圓代工產業研究，除了AI HPC與相關周邊訂單仍如火如荼出貨外，第一季基於TV、PC/NB等供應鏈提前生產出貨、並提高周邊IC庫存水位措施，晶圓代工廠商陸續接獲客戶提前生產或加單訂單。儘管仍受智慧手機生產淡季影響，但淡季因素基本與供應鏈提前拉貨所相抵，整體營運表現淡季不淡，第一季全球前十大晶圓代工產值季增3.7%至479.5億美元，再創新高。
+
+---
+
+### 2026-06-12 15:02:07  #市場
+
+斯泰蘭蒂斯米蘭上市股價早盤上漲4%。
+
+---
+
+### 2026-06-12 15:01:41  #公司 #市場
+
+義大利油企埃尼集團股價下跌4%。
+
+---
+
+### 2026-06-12 15:01:36  #市場 #國際
+
+受伊朗和平希望渺茫、油價下跌的影響，EQUINOR股價下跌4.9%。
+
+---
+
+### 2026-06-12 15:01:25  #其他
+
+【破除演員“撕番”亂象 三協會發文規範電視劇（網路劇）演員署名】針對近年來電視劇（網路劇）行業愈演愈烈的演員署名排序之爭，中國電視劇製作產業協會、中國網路視聽節目服務協會、中國廣播電視社會組織聯合會演員委員會於今日向會員單位聯合釋出《關於規範電視劇（網路劇）演員署名的通知》（以下簡稱《通知》）。此舉旨在從源頭破除“撕番”亂象，引導行業迴歸藝術創作本位，構建風清氣正的文藝生態。（央視新聞）
+
+---
+
+### 2026-06-12 15:01:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【China equity index futures mid-session close】Most-active China equity index futures rose at mid-session: CSI 300 (IF) +1.97%, SSE 50 (IH) +2.35%, CSI 500 (IC) +1.91%, CSI 1000 (IM) +1.26%.
+
+---
+
+### 2026-06-12 15:01:19  #MKT News #Commodities #Energy #ENI.MI #Impact bearish
+
+ENI shares fell 4%.
+
+---
+
+### 2026-06-12 15:01:13  #公司 #市場 #觀點
+
+【收評：滬指衝高回落漲1.12%，貴金屬、工業金屬、航空裝備板塊表現強勢】A股三大指數今日集體上漲，截至午盤，上證指數漲1.12%，深證成指漲0.75%，創業板指漲0.5%，北證50跌0.78%，科創50指數漲0.05%。全市場成交額32361億元，較上日放量6612億元，全市場超3900只個股上漲。板塊題材上，貴金屬、工業金屬、航空裝備、證券、機場航運板塊漲幅居前；電子化學品、非金屬材料、光刻膠、半導體、儲存晶片板塊跌幅居前。盤面上，貴金屬板塊延續強勢，招金黃金漲停，赤峰黃金、紫金礦業、曉程科技、中金黃金漲幅居前。工業金屬板塊高開高走，銅陵有色、洛陽鉬業、北方銅業、株冶集團、豫光金鉛等多股漲停。證券板塊震盪走強，財達證券、中銀證券漲停，國金證券、東北證券、湘財股份跟漲。電子化學品板塊高開低走，格林達、江化微跌停，中巨芯、華特氣體、金宏氣體、中船特氣等多股跌超10%。非金屬材料板塊亦持續走低，金戈新材一度跌超26%，天馬新材跌超10%，粵桂股份、石英股份、東方碳素跟跌。半導體板塊早盤衝高後持續回落，歐萊新材、有研矽、滬矽產業跌超10%，凱華材料、華海誠科、盛合晶微跌幅居前。
 
 ---
 
@@ -21541,179 +21643,5 @@ IAEA said it had been informed that, local time last night, the ZAPORIZHZHIA NUC
 ### 2026-06-11 13:48:12  #市場 #國際
 
 印度盧比兌美元下跌0.5%至95.6987。
-
----
-
-### 2026-06-11 13:46:56  #公司 #國際
-
-【傳螞蟻國際擬融資10億美元赴香港上市，螞蟻集團：不予置評】近日，有外媒報道稱，螞蟻集團旗下海外板塊、註冊在新加坡的螞蟻國際擬募資約10億美元，以加速業務擴張，併為最快今年赴香港上市鋪路。此輪融資的估值可能達到或超過100億美元。對於該訊息，新浪科技問詢了螞蟻集團，其對上述情況不予置評。（新浪科技）
-
----
-
-### 2026-06-11 13:46:26  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks End 0.4% Lower — The NZX 50 fell 51 points, or 0.4%, to close at 13,202 on Thursday, halting gains from the previous two sessions and marking its lowest level in over two weeks, after retreating from its highest level since May 7, reached a day earlier. The broader index tracked a downbeat session on Wall Street Wednesday as escalating tensions in the Middle East drove oil prices higher. Concerns over the US May inflation figure also pressured sentiment, as inflation accelerated to its highest level in three years in May, reinforcing expectations that the Fed will hold interest rates steady for longer. Investors remained wary ahead of the release of New Zealand's business PMI for May, due on Friday, after the index recorded its slowest growth in seven months in April. Financials, materials, and industrials stocks mainly weighed on the index, with notable losers including Infratil (-1.9%), Mainfreight (-1.8%), Ebos Group (-1.2%), Fletcher Building (-1.0%), and Westpac Banking Corp. (-0.9%).
-
----
-
-### 2026-06-11 13:45:41  #其他
-
-【深圳各口岸升級軟硬體服務 佈設APEC海報標識】亞太經合組織（APEC）第三十三次領導人非正式會議，將於今年11月在廣東深圳舉行。隨著通關客流量持續攀升，深圳多個口岸佈設APEC主題宣傳海報與標識。皇崗口岸隨處可見“APEC中國年 深圳進行時”等標語。多語種標識牌也方便國際旅客快速辨識、順暢通行。與此同時，各口岸還增設智慧翻譯機，可實現144種語言實時互譯。(央視新聞)
-
----
-
-### 2026-06-11 13:44:58  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-IRGC navy warned that any vessels anchored in the Persian Gulf and the Gulf of Oman that approach the Strait of Hormuz will be treated as cooperating with the enemy.
-
----
-
-### 2026-06-11 13:44:57  #國際
-
-伊朗伊斯蘭革命衛隊海軍：我們警告任何船隻不要離開其在波斯灣和阿曼海的錨地，並認為其進入霍爾木茲海峽的行為等同於與敵人合作。
-
----
-
-### 2026-06-11 13:43:45  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Iranian Students' News Agency (ISNA) reported Iran struck the U.S. Fifth Fleet in Bahrain after a U.S. attack.
-
----
-
-### 2026-06-11 13:42:36  #國際
-
-作為對美國襲擊的報復，伊朗也襲擊了停泊在巴林的美國第五艦隊。（ISNA）
-
----
-
-### 2026-06-11 13:38:56  #其他
-
-星展將南方航空H股評級從賣出上調至持有。
-
----
-
-### 2026-06-11 13:38:39  #其他
-
-科威特民航局：科威特國際機場目前正常運營，航班已恢復按時刻表執行。
-
----
-
-### 2026-06-11 13:37:33  #MKT News
-
-Kuwait Civil Aviation Authority announced flights suspended after an Iranian attack have resumed.
-
----
-
-### 2026-06-11 13:37:18  #國際
-
-科威特民航局宣佈，在因伊朗襲擊而暫停空中交通後，科威特已恢復空中交通。
-
----
-
-### 2026-06-11 13:37:00  #公司 #國際
-
-【SD Guthrie：正就棕櫚油種植園土地沒收問題與印尼方面展開合作】馬來西亞棕櫚油生產商SD Guthrie的執行長Mohd Haris Mohd Arshad週四表示，公司正就棕櫚油種植園土地沒收問題與印度尼西亞政府展開合作。他補充稱，公司尚未收到印度尼西亞政府釋出的任何與旗下種植園相關的法令，目前在印尼當地的採摘作業仍在照常進行。
-
----
-
-### 2026-06-11 13:36:53  #市場
-
-【光刻膠、電子特氣概念再度拉昇 紅寶麗等多股漲停】午後光刻膠、電子特氣概念再度拉昇，紅寶麗直線漲停，走出2連板，此前華特氣體、興福電子、和遠氣體、凱美特氣、昊華科技等多股漲停，中船特氣漲超15%續創歷史新高，總市值逼近1800億，年內累計上漲超7.3倍。
-
----
-
-### 2026-06-11 13:36:30  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index (TAIEX) closed down 76.08 points, or 0.18%, at 43,149.46 on June 11 (Thursday).
-
----
-
-### 2026-06-11 13:36:04  #其他
-
-星展將中國國航H股評級從賣出上調至持有。
-
----
-
-### 2026-06-11 13:35:23  #其他
-
-臺灣證交所加權股價指數收低0.2%報43,149.46。
-
----
-
-### 2026-06-11 13:35:12  #其他
-
-星展將東方航空H股評級從賣出上調至持有。
-
----
-
-### 2026-06-11 13:34:22  #國際
-
-【一中國籍女性在東京遭搶劫受傷】據日本廣播協會11日報道，東京一商業街區10日晚發生搶劫傷人案，一名60歲中國籍女性遭兩名男子襲擊，隨身攜帶的揹包被搶走。日本警方正在追查兩名在逃男子下落。報道稱，當地時間10日20時30分左右，警方接到報警。經調查，兩名男子向受害者噴射疑似催淚噴霧的物質，擊打其後腦，並搶走她的揹包。包內裝有現金。兩名嫌疑人作案後逃離現場。據報道，案發地在東京池袋站附近，周邊商業設施眾多，人流密集。（新華社）
-
----
-
-### 2026-06-11 13:34:13  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-【TD Securities: ECB 25bp Hike Priced In; 10-year Bund May Edge ~3bp Lower】TD Securities rates strategist said markets have fully priced a 25bp ECB hike tonight and the bank’s data-dependent, meeting-by-meeting approach, which should support slightly firmer euro-area rates. In the base case the strategist expects a 25bp move with no major statement changes; the statement will continue to flag two-way risks to inflation and growth and maintain reliance on incoming data. Under this scenario the 10-year German Bund yield could fall about 3bps.
-
----
-
-### 2026-06-11 13:31:09  #MKT News
-
-【Fengfei V2000CG wins first overseas eVTOL type approval】Fengfei Aviation said its V2000CG eVTOL received a Validated Type Certificate (VTC) from Indonesia’s Directorate General of Civil Aviation (DGCA), the first eVTOL to secure overseas type approval. The V2000CG is currently the only tonne‑class eVTOL to hold CAAC’s three airworthiness certificates; the Indonesian VTC signals the design meets both Chinese and Indonesian airworthiness standards and removes a regulatory hurdle for commercial operations in Indonesia.
-
----
-
-### 2026-06-11 13:30:49  #MKT News #Important #Commodities #Industrial Metals
-
-Lithium carbonate most-active contract rose more than 4.00% intraday, trading at 173,900 yuan/ton.
-
----
-
-### 2026-06-11 13:30:25  #市場
-
-【工業氣體概念持續走強，華特氣體等多股漲停】工業氣體概念持續走強，華特氣體20%漲停，和遠氣體、昊華科技漲停，中船特氣、金宏氣體、凱美特氣、矽烷科技、正帆科技、蜀道裝備等跟漲。
-
----
-
-### 2026-06-11 13:30:18  #市場 #焦點
-
-碳酸鋰連續主力合約日內漲4%，現報173900.00元。
-
----
-
-### 2026-06-11 13:30:04  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Appreciates by 1.77% — Top crypto gainers are Bitcoin (1.77%), Ether (1.63%) and Binance (1.29%).
-
----
-
-### 2026-06-11 13:29:19  #國際
-
-【峰飛V2000CG獲全球首張eVTOL境外適航證】峰飛航空今日披露，其V2000CG凱瑞鷗正式獲得印度尼西亞民航局（DGCA）頒發的型號認可證（Validated Type Certificate，VTC），成為全球首款獲得海外型號認可的eVTOL機型。作為目前唯一獲中國民航局頒發“適航三證”的噸級以上eVTOL，V2000CG獲得印尼VTC表明其設計既符合原產國（中國）的適航標準，同時也滿足進口國（印尼）的適航要求，為V2000CG在“萬島之國”開啟商業運營提供了先決條件。（第一財經）
-
----
-
-### 2026-06-11 13:28:58  #市場
-
-市場訊息：澳大利亞黑德蘭港鐵礦石出口量或將增至5103萬噸。
-
----
-
-### 2026-06-11 13:28:17  #其他
-
-科威特航空：今天暫停所有航班 。
-
----
-
-### 2026-06-11 13:28:12  #MKT News
-
-Kuwait Airways temporarily suspended all flights today.
-
----
-
-### 2026-06-11 13:25:54  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY
-
-【DBS Group: ECB to retain cautious, hawkish stance】DBS Group analyst Radhika Rao says US-Iran tensions will deliver a stagflation shock to the euro area, hitting Europe harder than the US and likely forcing the ECB to tighten earlier. She expects the ECB to lift the deposit rate by 25bp to 2.25% and to keep policy guidance cautious and hawkish; further hikes remain possible in H2 as the ECB adopts a meeting-by-meeting assessment while closely monitoring the prospect of a US-Iran ceasefire and de-escalation. Rao cuts her 2026 euro-area growth forecast to 1.0% and expects inflation to rise.
 
 ---

@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-15 04:00:08_
-_本檔包含 3568 則快訊，約 662326 字_
+_更新時間：2026-06-15 04:42:36_
+_本檔包含 3554 則快訊，約 661865 字_
+
+---
+
+### 2026-06-10 11:23:49  #市場 #焦點
+
+焦煤連續主力合約日內跌3%，現報1332.50元。
+
+---
+
+### 2026-06-10 11:22:09  #公司
+
+【日照國資、中國建築成立產業投資公司，含海洋服務業務】企查查APP顯示，近日，日照市東港區港產城產業投資有限公司成立，法定代表人為李濤，註冊資本為5.7億元，經營範圍包含：以自有資金從事投資活動；園區管理服務；海洋服務；海洋環境服務；水資源管理；休閒觀光活動等。企查查股權穿透顯示，該公司由日照市東港區海洋產業發展有限公司、中國建築全資子公司中國建設基礎設施有限公司共同持股。
+
+---
+
+### 2026-06-10 11:21:50  #公司
+
+【仙琚製藥到訪中國藥科大學洽談產學研深度合作】2026年6月8日，浙江仙琚製藥股份有限公司董事長張宇松帶領高管團隊到訪中國藥科大學，開展校企合作專項洽談對接。雙方就建立常態化溝通交流機制、探索制定針對甾體藥物研發的戰略規劃，聯合開展課題攻關、共建研發平臺、聯合開發創新藥物等多元化合作模式達成初步共識。
+
+---
+
+### 2026-06-10 11:21:30  #MKT News #Market Themes #AI Revolution
+
+【AGIBOT launches 2026 Yuansheng ecosystem plan, pledges 100 mln yuan in 2026 and 2 bln over five years】June 10 — China AI firm AGIBOT launched its 2026 Yuansheng ecosystem co-construction action plan, committing 100 mln yuan of ecosystem support in 2026 and planning a total 2 bln yuan investment over the next five years. The program targets research and academic innovation, education and talent development, ecosystem partner growth and developer community operations to systematically support industry‑academia‑research collaboration and build an open, collaborative embodied intelligence ecosystem with global partners.
+
+---
+
+### 2026-06-10 11:21:20  #其他
+
+【智元釋出“2026元苼生態共建行動計劃” 先行落地1億元共建具身智慧生態】6月10日，智元（AGIBOT）釋出“2026元苼生態共建行動計劃”，宣佈2026年先行落地1億元生態扶持資金，未來五年規劃投入20億元專項資金，圍繞科研學術創新、教育人才培養、生態夥伴發展、開發社群運營四大維度，系統賦能產學研及開發者群體，攜手全球夥伴共建開放、協同、共生的具身智慧生態。
+
+---
+
+### 2026-06-10 11:19:04  #MKT News #Star Stocks #Tencent
+
+【WeChat HarmonyOS beta user cap raised】Tencent PR director Zhang Jun said previously recruited users had hit Huawei AppGallery's per-app test-user cap for the HarmonyOS version of WeChat. After Tencent raised the request with Huawei, the test-user limit was recently increased, enabling more users to join the beta and provide feedback.
+
+---
+
+### 2026-06-10 11:19:00  #公司
+
+【微信鴻蒙版內測使用者上限提升】微信鴻蒙版內測使用者上限提升。騰訊公司公關總監張軍表示，“之前我們招募的使用者，已經達到鴻蒙應用商店針對單一軟體的測試使用者的上限了。導致很多同學無法直接反饋問題和意見我們跟華為的同學反饋了這個需求，最近測試使用者上限終於提升了，感謝鴻蒙應用商店的朋友們。歡迎更多的朋友加入測試。”
+
+---
+
+### 2026-06-10 11:18:48  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Prices Hold Steady — US heating oil prices held steady around $3.55 per gallon after falling in the prior session, as tensions between the US and Iran have flared again. US Central Command said that it conducted "self-defense strikes" in Tehran at President Donald Trump's direction in response to the downing of a US helicopter that was patrolling in the Strait of Hormuz. The fresh strikes risk undermining an already fragile ceasefire in the region and raised doubts over efforts to secure a more lasting peace agreement that could reopen the strait. The critical waterway remained largely closed under a dual blockade from both sides, sharply limiting exports of distillate products from the region. On the supply side, US distillate inventories, including diesel and heating oil, rose by 1.502 million barrels in the final week of May.
+
+---
+
+### 2026-06-10 11:18:06  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+Australia 10-Year Yield Edges Higher — Australia’s 10-year government bond yield edged higher around 4.9%, after falling from a two-week high, as investors weighed policy signals ahead of the RBA meeting next week, while renewed Middle East tensions stoked inflation concerns. The conflict intensified after the US launched fresh strikes on Iran, with President Trump accusing Tehran of downing a helicopter in the Strait of Hormuz, casting doubt on an already fragile ceasefire. The escalation drove energy prices higher, fueling inflation concerns and increasing the risk of further central bank rate hikes. In Australia, attention will be on the Reserve Bank's upcoming policy decision next week, where rates are widely expected to remain unchanged. Governor Bullock reiterated last week that the RBA remains firmly focused on bringing inflation down, following three rate hikes earlier this year. Meanwhile, economists have scaled back expectations for an August move and now see the cash rate peaking at 4.35% at year-end.
+
+---
+
+### 2026-06-10 11:18:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Platinum Extends Slide — Platinum futures fell further below $1,700 an ounce, hitting their lowest level since late November 2025 as precious metals broadly weakened amid renewed Middle East tensions. The US launched fresh strikes against Iran following the downing of an American helicopter, pushing oil prices higher and stoking inflation concerns. The escalation has raised doubts over a fragile ceasefire and broader peace prospects, while the near-closure of the Strait of Hormuz persists. Higher energy costs have intensified inflation fears and the risk of further central bank tightening, weighing on non-yielding assets. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026. Output from major producers South Africa and Russia remains constrained by aging mines, high costs, and sanctions-related disruptions, while automotive demand is supported by hybrid vehicle growth and stricter emissions standards.
+
+---
+
+### 2026-06-10 11:18:03  #公司
+
+【佰維儲存：與某儲存原廠簽訂的百億級採購合同鎖住的是“固定價格”】記者以投資者身份致電佰維儲存瞭解到，該公司昨晚公告中所說的“鎖價鎖量”鎖住的是固定價格，不受市場價格波動影響。而記者多方採訪瞭解到，下游廠商與儲存原廠簽訂的長期供應協議（LTA）常會設定產品售價的範圍區間，隨著市場變化小幅波動，佰維儲存此次公告的協議內容與市場常見的LTA存在差異。(藍鯨新聞)
+
+---
+
+### 2026-06-10 11:17:43  #公司
+
+【中偉新材在海南投資成立物貿公司】企查查APP顯示，近日，海南中偉偉創物貿有限公司成立，法定代表人為宋劍鋒，註冊資本為1000萬元，經營範圍包含：電池銷售；電子產品銷售；金屬材料銷售；金屬礦石銷售；高效能有色金屬及合金材料銷售等。企查查股權穿透顯示，該公司由中偉新材全資持股。
 
 ---
 
@@ -21328,161 +21400,5 @@ FTSE China A50 index futures opened 0.06% higher.
 ### 2026-06-09 08:58:02  #宏觀
 
 【工業和資訊化部、國務院國資委聯合開展2026年度人形機器人與具身智慧實景實訓專項行動】為深入貫徹黨中央、國務院決策部署，落實人形機器人、具身智慧產業創新發展有關指導意見和行動方案要求，推動人形機器人與具身智慧產品在真實生產生活環境中常態化部署應用，加速實現規模化發展，工業和資訊化部、國務院國資委聯合開展2026年度人形機器人與具身智慧實景實訓專項行動。堅持應用牽引，面向工業、特種、服務等領域重點場景，一體推進實景實訓空間建設、創新應用聯合體培育、作業技能攻關、應用部署驗證等重點任務，透過真實場景訓練，持續最佳化具身智慧模型演算法，積累高質量真機資料，提升本體關鍵部元件效能，探索構建人形機器人及具身智慧產品全生命週期管理和保障機制。到2026年底，人形機器人等重點產品在一批代表性場景中率先完成應用驗證和常態部署，開啟“作業模式”；凝練形成百個以上高價值應用場景，進一步豐富具身智慧應用譜系，帶動形成萬臺級規模落地能力。
-
----
-
-### 2026-06-09 08:58:00  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 index has given back earlier gains and is down 0.15%.
-
----
-
-### 2026-06-09 08:57:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Little Changed — US heating oil futures were little changed at around $3.60 per gallon, after erasing gains in the previous session, as Israel and Iran agreed to halt mutual attacks following a recent escalation in violence. Israeli Prime Minister Benjamin Netanyahu said Israel is pausing strikes on Iran for now but will retaliate if Tehran attacks again, while Iranian media echoed a similar stance. The development kept hopes alive for efforts to renew the ceasefire into a broader agreement in the Middle East. While a fragile truce remains in effect, the Strait of Hormuz remains constrained under a two-sided blockade by Tehran and Washington, significantly limiting exports of distillate products from the region. Meanwhile, US distillate inventories, including diesel and heating oil, rose by 1.502 million barrels in the final week of May.
-
----
-
-### 2026-06-09 08:57:40  #公司
-
-Perplexity執行長表示，無論Anthropic或OpenAI發展狀況如何，Perplexity都計劃在2028年進行首次公開募股。
-
----
-
-### 2026-06-09 08:57:18  #市場
-
-【日經225指數轉跌】日經225指數轉跌，此前一度漲1.5%。
-
----
-
-### 2026-06-09 08:56:55  #其他
-
-Zephirin Group將嗶哩嗶哩H股目標價從134.00港元上調至161.00港元。
-
----
-
-### 2026-06-09 08:56:04  #其他
-
-【6月8日494股獲融資買入超億元 中際旭創穫買入55.70億元居首】6月8日共有3470只個股獲融資資金買入，有494股買入金額超億元。其中，中際旭創、京東方Ａ、兆易創新融資買入金額排名前三，分別獲買入55.70億元、44.57億元、30.03億元。
-
----
-
-### 2026-06-09 08:55:31  #公司
-
-【TCL實業控股在肇慶投資成立新能源公司】企查查APP顯示，近日，肇慶市昱光惠晟新能源有限公司成立，法定代表人為孫佐健，經營範圍包括髮電業務、輸電業務、供（配）電業務、建設工程施工、太陽能發電技術服務等。企查查股權穿透顯示，該公司由TCL實業控股股份有限公司間接全資持股。
-
----
-
-### 2026-06-09 08:55:09  #Trading Economics #Economy #Australia #Consumer Confidence MoM #Importance 3
-
-Australian Consumer Sentiment Falls — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index dropped 3.5% month-over-month to 80.6 in June 2026, reversing May’s gain and marking its fourth decline this year. Cost-of-living pressures remained the dominant drag, with the temporary halving of the fuel excise tax offering only fleeting relief. Household finances weakened sharply: assessments versus a year ago dropped 7.5% to 67.3, while 12-month expectations slid 8.5% to 85.1. Views on the broader economy were mixed, with the one-year outlook up 4.9% to 77.8 but the five-year measure down 3.2% to 86.5, a three-year low. The “time to buy a major item” index rose 0.9% to 86.4, and unemployment expectations edged down 0.1% to 139.8. Westpac economist Matthew Hassan said the impact of three rate hikes this year is increasingly evident, but inflation remains the immediate concern, with energy costs yet to fully feed through. While a pause is possible at the next meeting, Westpac expects further tightening in the year.
-
----
-
-### 2026-06-09 08:54:57  #市場
-
-【酒價內參6月9日價格釋出：五糧液普五八代古井貢古20領跌 總價大幅回撥】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月9日整體再度明顯走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9895元，較昨日大幅下跌23元，重返9900元下方。市場在前三日連續明顯回升後步入回撥，終端交投情緒偏謹慎，核心單品的漲跌分化顯著。今日11大白酒單品三漲八跌，輸家佔據絕對優勢。上漲方面，國窖1573漲幅居前，上漲5元/瓶，終結此前五連陰，但價格仍囿於月內次低位；青花郎上漲3元/瓶收穫二連漲；飛天茅臺上漲2元/瓶，四連陽後價格升至月內次高位。下跌方面，五糧液普五八代、古井貢古20與習酒君品均下跌6元/瓶，其中普五八代再度失守810元，古井貢古20回吐前一日全部漲幅，習酒君品連續兩日回落，價格快速下探創月內新低，近一個月其價格中樞持續下移；精品茅臺下跌5元/瓶，此前三連陽的強勁漲勢告終；洋河夢之藍M6+下跌3元/瓶，平月內次低價位；青花汾20下跌3元/瓶，回落至370元下方；五糧液1618與水晶劍南春均下跌2元/瓶，其中前者創下月內最低價紀錄。
-
----
-
-### 2026-06-09 08:54:17  #市場 #觀點
-
-【中金財富期貨：目前黃金市場在流動性短缺和通脹壓力的雙重擠壓下，參與價值有限】中金財富期貨觀點稱，黃金市場被AI“抽血”的態勢明顯，另外市場對原油短缺的認識嚴重不足，或者對於缺油保持鴕鳥心態，如果霍爾木茲海峽7月份無法通航，油價存在失控的風險，目前黃金市場在流動性短缺和通脹壓力的雙重擠壓下，參與價值有限。
-
----
-
-### 2026-06-09 08:54:02  #市場
-
-【美股期貨走低 此前科技股帶動美股回升】美股期貨下跌，在現貨市場因人工智慧相關股票出現逢低買盤而反彈後，期貨市場再度走低。標普500指數期貨下跌0.3%，納斯達克100指數期貨下跌0.5%。
-
----
-
-### 2026-06-09 08:53:33  #國際
-
-【越南、泰國力爭雙邊年貿易額突破 500 億美元】越南政府官網釋出宣告稱，越泰兩國商定短期內將雙邊貿易額提升至 250 億美元，並致力於以均衡、可持續的方式，最終實現 500 億美元的目標。宣告表示，越南總理黎明興與泰國總理阿努廷於週一在河內舉行會談，雙方同意推進交通、物流、航空及旅遊領域的互聯互通建設。兩國還承諾削減貿易壁壘、放寬商品市場準入，並深化農業、糧食安全領域合作，同時拓展科技、人工智慧、數字化轉型等新興領域合作。
-
----
-
-### 2026-06-09 08:53:20  #MKT News
-
-Caitong Fuxin periodic-open hybrid fund will suspend trading from market open on June 9, 2026 until 10:30 that morning.
-
----
-
-### 2026-06-09 08:53:16  #公司
-
-【中國中煤在四川成立綜合能源新公司】企查查APP顯示，近日，中煤四川綜合能源有限公司成立，法定代表人為李根，註冊資本1億元，經營範圍包括供電業務、太陽能發電技術服務、風力發電技術服務等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司間接全資持股。
-
----
-
-### 2026-06-09 08:52:06  #公司 #國際
-
-【澳大利亞對涉華焊縫管作出反規避終裁】6月5日，澳大利亞反傾銷委員會發布第2026/064號公告，對進口自中國大陸、韓國、馬來西亞和中國臺灣地區的焊縫管反傾銷案以及對進口自中國大陸的焊縫管反補貼案的反規避調查作出終裁，裁定涉案產品透過增加孔洞進行了輕微改變出口到澳大利亞以規避現行反傾銷措施和反補貼措施。
-
----
-
-### 2026-06-09 08:51:41  #市場 #國際
-
-條款清單顯示，騰訊擬發行的美元債券定價指引如下：10年期債券收益率較美國國債高約80個基點，20年期債券收益率較美國國債高約90個基點。
-
----
-
-### 2026-06-09 08:51:05  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's 20-year government bond yield rose 2.5 bps to 3.660%.
-
----
-
-### 2026-06-09 08:50:10  #公司
-
-【網易有道成立靈智資訊科技公司，含多項AI業務】企查查APP顯示，近日，網易有道靈智（海南）資訊科技有限公司成立，法定代表人為金磊，註冊資本1000萬元，經營範圍包括人工智慧硬體銷售、人工智慧基礎軟體開發、人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由北京網易有道計算機系統有限公司全資持股。
-
----
-
-### 2026-06-09 08:50:04  #其他
-
-【多項指標回升 5月我國經濟穩中向好】國家發展改革委國家資訊中心今天（6月9日）釋出的一系列先行指標顯示，5月份，隨著宏觀政策協同發力，多個經濟領域保持穩中向好發展態勢。最新資料顯示，5月份，全國港口裝置開工率同比增長約9個百分點，增幅居各類工程機械首位，港口物流需求持續旺盛，顯示外貿韌性持續增強。消費市場穩步向好。5月份，商戶經營活力指數連續3個月回升，線下消費支付金額同比增長2.4%，增速比上月加快0.7個百分點，電子商品、餐飲、交通出行等重點消費領域增長明顯。投資向新向優步伐加快。5月份，人工智慧、人形機器人等前沿領域，投資金額同比增長約五倍；算力、資料、網路等領域基礎設施專案，中標金額同比增長約一倍。企業創新活力加速釋放。5月份，我國戰略性新興產業相關專利授權量同比增長19.7%，增速比上月加快2.2個百分點，創新成果正加速從實驗室走向生產線，轉化為現實生產力。
-
----
-
-### 2026-06-09 08:49:31  #MKT News
-
-Japan's 30-year bond yield rose 3.0 bps to 3.965%.
-
----
-
-### 2026-06-09 08:49:14  #市場 #國際
-
-30年期日本國債收益率上漲3個基點，至3.965%。
-
----
-
-### 2026-06-09 08:47:30  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-【Margin financing balance across two exchanges down 23.357 bln yuan】As of June 8, margin financing balances were: Shanghai Stock Exchange 1.454 tln yuan, down 11.743 bln vs the prior trading day; Shenzhen Stock Exchange 1.400 tln yuan, down 11.614 bln; combined 2.853 tln yuan, down 23.357 bln.
-
----
-
-### 2026-06-09 08:47:22  #其他
-
-【兩市融資餘額減少233.57億元】截至6月8日，上交所融資餘額報14537.04億元，較前一交易日減少117.43億元；深交所融資餘額報13997.89億元，較前一交易日減少116.14億元；兩市合計28534.93億元，較前一交易日減少233.57億元。
-
----
-
-### 2026-06-09 08:47:14  #MKT News #DXY #Impact bearish
-
-USD/KRW fell 0.9% intraday to 1,521.90.
-
----
-
-### 2026-06-09 08:45:24  #國際
-
-Decision Desk HQ預測，獲特朗普背書的共和黨人史蒂夫·希爾頓將晉級11月舉行的加州州長大選。
-
----
-
-### 2026-06-09 08:44:40  #市場 #國際
-
-【特朗普支援率仍接近歷史低點 大多數美國人預計油價將繼續上漲】據路透/益普索(Ipsos) 週一完成的一項民調顯示，近日美國總統特朗普的支援率維持在其政治生涯的最低水平附近，大多數美國人稱在伊朗戰爭背景下，他們預計汽油價格將繼續上漲。約35%的受訪者表示認可特朗普在白宮的表現，與5月中旬進行的上一輪路透/益普索民調持平。該數字僅略高於其本屆任期內的最低支援率——4月民調中的34%——同時也接近其2017年12月創下的第一任期最低紀錄33%。近幾個月來，特朗普因決定對伊朗開戰而面臨廣泛不滿，此舉導致汽油價格飆升。儘管隨著市場押注伊朗衝突將結束，近幾周加油站油價略有回落，但這項為期六天的民調顯示，約59%的受訪者預計未來一年美國汽油價格將進一步上漲，而認為價格會好轉的僅佔17%。其餘受訪者表示不確定或認為價格將保持不變。
 
 ---

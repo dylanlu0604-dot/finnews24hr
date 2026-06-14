@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-15 04:00:08_
-_本檔包含 3579 則快訊，約 661848 字_
+_更新時間：2026-06-15 04:42:36_
+_本檔包含 3596 則快訊，約 661904 字_
+
+---
+
+### 2026-06-11 13:46:56  #公司 #國際
+
+【傳螞蟻國際擬融資10億美元赴香港上市，螞蟻集團：不予置評】近日，有外媒報道稱，螞蟻集團旗下海外板塊、註冊在新加坡的螞蟻國際擬募資約10億美元，以加速業務擴張，併為最快今年赴香港上市鋪路。此輪融資的估值可能達到或超過100億美元。對於該訊息，新浪科技問詢了螞蟻集團，其對上述情況不予置評。（新浪科技）
+
+---
+
+### 2026-06-11 13:46:26  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+New Zealand Stocks End 0.4% Lower — The NZX 50 fell 51 points, or 0.4%, to close at 13,202 on Thursday, halting gains from the previous two sessions and marking its lowest level in over two weeks, after retreating from its highest level since May 7, reached a day earlier. The broader index tracked a downbeat session on Wall Street Wednesday as escalating tensions in the Middle East drove oil prices higher. Concerns over the US May inflation figure also pressured sentiment, as inflation accelerated to its highest level in three years in May, reinforcing expectations that the Fed will hold interest rates steady for longer. Investors remained wary ahead of the release of New Zealand's business PMI for May, due on Friday, after the index recorded its slowest growth in seven months in April. Financials, materials, and industrials stocks mainly weighed on the index, with notable losers including Infratil (-1.9%), Mainfreight (-1.8%), Ebos Group (-1.2%), Fletcher Building (-1.0%), and Westpac Banking Corp. (-0.9%).
+
+---
+
+### 2026-06-11 13:45:41  #其他
+
+【深圳各口岸升級軟硬體服務 佈設APEC海報標識】亞太經合組織（APEC）第三十三次領導人非正式會議，將於今年11月在廣東深圳舉行。隨著通關客流量持續攀升，深圳多個口岸佈設APEC主題宣傳海報與標識。皇崗口岸隨處可見“APEC中國年 深圳進行時”等標語。多語種標識牌也方便國際旅客快速辨識、順暢通行。與此同時，各口岸還增設智慧翻譯機，可實現144種語言實時互譯。(央視新聞)
+
+---
+
+### 2026-06-11 13:44:58  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+IRGC navy warned that any vessels anchored in the Persian Gulf and the Gulf of Oman that approach the Strait of Hormuz will be treated as cooperating with the enemy.
+
+---
+
+### 2026-06-11 13:44:57  #國際
+
+伊朗伊斯蘭革命衛隊海軍：我們警告任何船隻不要離開其在波斯灣和阿曼海的錨地，並認為其進入霍爾木茲海峽的行為等同於與敵人合作。
+
+---
+
+### 2026-06-11 13:43:45  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iranian Students' News Agency (ISNA) reported Iran struck the U.S. Fifth Fleet in Bahrain after a U.S. attack.
+
+---
+
+### 2026-06-11 13:42:36  #國際
+
+作為對美國襲擊的報復，伊朗也襲擊了停泊在巴林的美國第五艦隊。（ISNA）
+
+---
+
+### 2026-06-11 13:38:56  #其他
+
+星展將南方航空H股評級從賣出上調至持有。
+
+---
+
+### 2026-06-11 13:38:39  #其他
+
+科威特民航局：科威特國際機場目前正常運營，航班已恢復按時刻表執行。
+
+---
+
+### 2026-06-11 13:37:33  #MKT News
+
+Kuwait Civil Aviation Authority announced flights suspended after an Iranian attack have resumed.
+
+---
+
+### 2026-06-11 13:37:18  #國際
+
+科威特民航局宣佈，在因伊朗襲擊而暫停空中交通後，科威特已恢復空中交通。
+
+---
+
+### 2026-06-11 13:37:00  #公司 #國際
+
+【SD Guthrie：正就棕櫚油種植園土地沒收問題與印尼方面展開合作】馬來西亞棕櫚油生產商SD Guthrie的執行長Mohd Haris Mohd Arshad週四表示，公司正就棕櫚油種植園土地沒收問題與印度尼西亞政府展開合作。他補充稱，公司尚未收到印度尼西亞政府釋出的任何與旗下種植園相關的法令，目前在印尼當地的採摘作業仍在照常進行。
+
+---
+
+### 2026-06-11 13:36:53  #市場
+
+【光刻膠、電子特氣概念再度拉昇 紅寶麗等多股漲停】午後光刻膠、電子特氣概念再度拉昇，紅寶麗直線漲停，走出2連板，此前華特氣體、興福電子、和遠氣體、凱美特氣、昊華科技等多股漲停，中船特氣漲超15%續創歷史新高，總市值逼近1800億，年內累計上漲超7.3倍。
+
+---
+
+### 2026-06-11 13:36:30  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index (TAIEX) closed down 76.08 points, or 0.18%, at 43,149.46 on June 11 (Thursday).
+
+---
+
+### 2026-06-11 13:36:04  #其他
+
+星展將中國國航H股評級從賣出上調至持有。
+
+---
+
+### 2026-06-11 13:35:23  #其他
+
+臺灣證交所加權股價指數收低0.2%報43,149.46。
+
+---
+
+### 2026-06-11 13:35:12  #其他
+
+星展將東方航空H股評級從賣出上調至持有。
+
+---
+
+### 2026-06-11 13:34:22  #國際
+
+【一中國籍女性在東京遭搶劫受傷】據日本廣播協會11日報道，東京一商業街區10日晚發生搶劫傷人案，一名60歲中國籍女性遭兩名男子襲擊，隨身攜帶的揹包被搶走。日本警方正在追查兩名在逃男子下落。報道稱，當地時間10日20時30分左右，警方接到報警。經調查，兩名男子向受害者噴射疑似催淚噴霧的物質，擊打其後腦，並搶走她的揹包。包內裝有現金。兩名嫌疑人作案後逃離現場。據報道，案發地在東京池袋站附近，周邊商業設施眾多，人流密集。（新華社）
+
+---
+
+### 2026-06-11 13:34:13  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+【TD Securities: ECB 25bp Hike Priced In; 10-year Bund May Edge ~3bp Lower】TD Securities rates strategist said markets have fully priced a 25bp ECB hike tonight and the bank’s data-dependent, meeting-by-meeting approach, which should support slightly firmer euro-area rates. In the base case the strategist expects a 25bp move with no major statement changes; the statement will continue to flag two-way risks to inflation and growth and maintain reliance on incoming data. Under this scenario the 10-year German Bund yield could fall about 3bps.
+
+---
+
+### 2026-06-11 13:31:09  #MKT News
+
+【Fengfei V2000CG wins first overseas eVTOL type approval】Fengfei Aviation said its V2000CG eVTOL received a Validated Type Certificate (VTC) from Indonesia’s Directorate General of Civil Aviation (DGCA), the first eVTOL to secure overseas type approval. The V2000CG is currently the only tonne‑class eVTOL to hold CAAC’s three airworthiness certificates; the Indonesian VTC signals the design meets both Chinese and Indonesian airworthiness standards and removes a regulatory hurdle for commercial operations in Indonesia.
+
+---
+
+### 2026-06-11 13:30:49  #MKT News #Important #Commodities #Industrial Metals
+
+Lithium carbonate most-active contract rose more than 4.00% intraday, trading at 173,900 yuan/ton.
+
+---
+
+### 2026-06-11 13:30:25  #市場
+
+【工業氣體概念持續走強，華特氣體等多股漲停】工業氣體概念持續走強，華特氣體20%漲停，和遠氣體、昊華科技漲停，中船特氣、金宏氣體、凱美特氣、矽烷科技、正帆科技、蜀道裝備等跟漲。
+
+---
+
+### 2026-06-11 13:30:18  #市場 #焦點
+
+碳酸鋰連續主力合約日內漲4%，現報173900.00元。
+
+---
+
+### 2026-06-11 13:30:04  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Appreciates by 1.77% — Top crypto gainers are Bitcoin (1.77%), Ether (1.63%) and Binance (1.29%).
+
+---
+
+### 2026-06-11 13:29:19  #國際
+
+【峰飛V2000CG獲全球首張eVTOL境外適航證】峰飛航空今日披露，其V2000CG凱瑞鷗正式獲得印度尼西亞民航局（DGCA）頒發的型號認可證（Validated Type Certificate，VTC），成為全球首款獲得海外型號認可的eVTOL機型。作為目前唯一獲中國民航局頒發“適航三證”的噸級以上eVTOL，V2000CG獲得印尼VTC表明其設計既符合原產國（中國）的適航標準，同時也滿足進口國（印尼）的適航要求，為V2000CG在“萬島之國”開啟商業運營提供了先決條件。（第一財經）
+
+---
+
+### 2026-06-11 13:28:58  #市場
+
+市場訊息：澳大利亞黑德蘭港鐵礦石出口量或將增至5103萬噸。
+
+---
+
+### 2026-06-11 13:28:17  #其他
+
+科威特航空：今天暫停所有航班 。
+
+---
+
+### 2026-06-11 13:28:12  #MKT News
+
+Kuwait Airways temporarily suspended all flights today.
+
+---
+
+### 2026-06-11 13:25:54  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY
+
+【DBS Group: ECB to retain cautious, hawkish stance】DBS Group analyst Radhika Rao says US-Iran tensions will deliver a stagflation shock to the euro area, hitting Europe harder than the US and likely forcing the ECB to tighten earlier. She expects the ECB to lift the deposit rate by 25bp to 2.25% and to keep policy guidance cautious and hawkish; further hikes remain possible in H2 as the ECB adopts a meeting-by-meeting assessment while closely monitoring the prospect of a US-Iran ceasefire and de-escalation. Rao cuts her 2026 euro-area growth forecast to 1.0% and expects inflation to rise.
 
 ---
 
@@ -21505,77 +21679,5 @@ Offshore Yuan Remains Firm — The offshore yuan firmed to around 6.77 per dolla
 ### 2026-06-10 11:24:29  #公司 #國際 #原創
 
 【OpenAI據悉談判租賃俄亥俄州一座資料中心，獲英偉達支援】據The Information援引兩名直接知情人士的訊息報道，OpenAI正就租賃俄亥俄州一個擬建的10吉瓦資料中心園區進行談判，該交易可能包含英偉達的資金支援。報道稱，根據當前晶片、勞動力、電力及其他投入成本，該園區的建設費用可能至少達到5000億美元 。報道補充稱，OpenAI將透過一份為期20年的租賃協議控制該設施的裝置，租金將在運營開始後支付；第一階段預計於2028年啟動。該設施將是同類設施中規模最大的之一，將由軟銀旗下子公司SB Energy在俄亥俄州南部的美國能源部土地上開發。據報道，英偉達預計將為該設施提供硬體，併為OpenAI的租賃協議及SB Energy的融資提供財務擔保。
-
----
-
-### 2026-06-10 11:23:49  #市場 #焦點
-
-焦煤連續主力合約日內跌3%，現報1332.50元。
-
----
-
-### 2026-06-10 11:22:09  #公司
-
-【日照國資、中國建築成立產業投資公司，含海洋服務業務】企查查APP顯示，近日，日照市東港區港產城產業投資有限公司成立，法定代表人為李濤，註冊資本為5.7億元，經營範圍包含：以自有資金從事投資活動；園區管理服務；海洋服務；海洋環境服務；水資源管理；休閒觀光活動等。企查查股權穿透顯示，該公司由日照市東港區海洋產業發展有限公司、中國建築全資子公司中國建設基礎設施有限公司共同持股。
-
----
-
-### 2026-06-10 11:21:50  #公司
-
-【仙琚製藥到訪中國藥科大學洽談產學研深度合作】2026年6月8日，浙江仙琚製藥股份有限公司董事長張宇松帶領高管團隊到訪中國藥科大學，開展校企合作專項洽談對接。雙方就建立常態化溝通交流機制、探索制定針對甾體藥物研發的戰略規劃，聯合開展課題攻關、共建研發平臺、聯合開發創新藥物等多元化合作模式達成初步共識。
-
----
-
-### 2026-06-10 11:21:30  #MKT News #Market Themes #AI Revolution
-
-【AGIBOT launches 2026 Yuansheng ecosystem plan, pledges 100 mln yuan in 2026 and 2 bln over five years】June 10 — China AI firm AGIBOT launched its 2026 Yuansheng ecosystem co-construction action plan, committing 100 mln yuan of ecosystem support in 2026 and planning a total 2 bln yuan investment over the next five years. The program targets research and academic innovation, education and talent development, ecosystem partner growth and developer community operations to systematically support industry‑academia‑research collaboration and build an open, collaborative embodied intelligence ecosystem with global partners.
-
----
-
-### 2026-06-10 11:21:20  #其他
-
-【智元釋出“2026元苼生態共建行動計劃” 先行落地1億元共建具身智慧生態】6月10日，智元（AGIBOT）釋出“2026元苼生態共建行動計劃”，宣佈2026年先行落地1億元生態扶持資金，未來五年規劃投入20億元專項資金，圍繞科研學術創新、教育人才培養、生態夥伴發展、開發社群運營四大維度，系統賦能產學研及開發者群體，攜手全球夥伴共建開放、協同、共生的具身智慧生態。
-
----
-
-### 2026-06-10 11:19:04  #MKT News #Star Stocks #Tencent
-
-【WeChat HarmonyOS beta user cap raised】Tencent PR director Zhang Jun said previously recruited users had hit Huawei AppGallery's per-app test-user cap for the HarmonyOS version of WeChat. After Tencent raised the request with Huawei, the test-user limit was recently increased, enabling more users to join the beta and provide feedback.
-
----
-
-### 2026-06-10 11:19:00  #公司
-
-【微信鴻蒙版內測使用者上限提升】微信鴻蒙版內測使用者上限提升。騰訊公司公關總監張軍表示，“之前我們招募的使用者，已經達到鴻蒙應用商店針對單一軟體的測試使用者的上限了。導致很多同學無法直接反饋問題和意見我們跟華為的同學反饋了這個需求，最近測試使用者上限終於提升了，感謝鴻蒙應用商店的朋友們。歡迎更多的朋友加入測試。”
-
----
-
-### 2026-06-10 11:18:48  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Prices Hold Steady — US heating oil prices held steady around $3.55 per gallon after falling in the prior session, as tensions between the US and Iran have flared again. US Central Command said that it conducted "self-defense strikes" in Tehran at President Donald Trump's direction in response to the downing of a US helicopter that was patrolling in the Strait of Hormuz. The fresh strikes risk undermining an already fragile ceasefire in the region and raised doubts over efforts to secure a more lasting peace agreement that could reopen the strait. The critical waterway remained largely closed under a dual blockade from both sides, sharply limiting exports of distillate products from the region. On the supply side, US distillate inventories, including diesel and heating oil, rose by 1.502 million barrels in the final week of May.
-
----
-
-### 2026-06-10 11:18:06  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-Australia 10-Year Yield Edges Higher — Australia’s 10-year government bond yield edged higher around 4.9%, after falling from a two-week high, as investors weighed policy signals ahead of the RBA meeting next week, while renewed Middle East tensions stoked inflation concerns. The conflict intensified after the US launched fresh strikes on Iran, with President Trump accusing Tehran of downing a helicopter in the Strait of Hormuz, casting doubt on an already fragile ceasefire. The escalation drove energy prices higher, fueling inflation concerns and increasing the risk of further central bank rate hikes. In Australia, attention will be on the Reserve Bank's upcoming policy decision next week, where rates are widely expected to remain unchanged. Governor Bullock reiterated last week that the RBA remains firmly focused on bringing inflation down, following three rate hikes earlier this year. Meanwhile, economists have scaled back expectations for an August move and now see the cash rate peaking at 4.35% at year-end.
-
----
-
-### 2026-06-10 11:18:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Platinum Extends Slide — Platinum futures fell further below $1,700 an ounce, hitting their lowest level since late November 2025 as precious metals broadly weakened amid renewed Middle East tensions. The US launched fresh strikes against Iran following the downing of an American helicopter, pushing oil prices higher and stoking inflation concerns. The escalation has raised doubts over a fragile ceasefire and broader peace prospects, while the near-closure of the Strait of Hormuz persists. Higher energy costs have intensified inflation fears and the risk of further central bank tightening, weighing on non-yielding assets. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026. Output from major producers South Africa and Russia remains constrained by aging mines, high costs, and sanctions-related disruptions, while automotive demand is supported by hybrid vehicle growth and stricter emissions standards.
-
----
-
-### 2026-06-10 11:18:03  #公司
-
-【佰維儲存：與某儲存原廠簽訂的百億級採購合同鎖住的是“固定價格”】記者以投資者身份致電佰維儲存瞭解到，該公司昨晚公告中所說的“鎖價鎖量”鎖住的是固定價格，不受市場價格波動影響。而記者多方採訪瞭解到，下游廠商與儲存原廠簽訂的長期供應協議（LTA）常會設定產品售價的範圍區間，隨著市場變化小幅波動，佰維儲存此次公告的協議內容與市場常見的LTA存在差異。(藍鯨新聞)
-
----
-
-### 2026-06-10 11:17:43  #公司
-
-【中偉新材在海南投資成立物貿公司】企查查APP顯示，近日，海南中偉偉創物貿有限公司成立，法定代表人為宋劍鋒，註冊資本為1000萬元，經營範圍包含：電池銷售；電子產品銷售；金屬材料銷售；金屬礦石銷售；高效能有色金屬及合金材料銷售等。企查查股權穿透顯示，該公司由中偉新材全資持股。
 
 ---

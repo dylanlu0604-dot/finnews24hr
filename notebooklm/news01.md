@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-15 04:00:08_
-_本檔包含 3750 則快訊，約 662365 字_
+_更新時間：2026-06-15 04:42:36_
+_本檔包含 3760 則快訊，約 661877 字_
+
+---
+
+### 2026-06-15 04:38:35  #國際
+
+以色列高階官員稱，特朗普向以色列總理內塔尼亞胡通報了與伊朗簽署協議相關進展的最新情況。
+
+---
+
+### 2026-06-15 04:38:01  #MKT News
+
+Israeli broadcaster N12 reported Trump told Netanyahu of progress toward an agreement with Iran; a deal could be reached as early as Sunday evening local time.
+
+---
+
+### 2026-06-15 04:37:07  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+US President Trump said Iran will never possess nuclear weapons and that the Strait of Hormuz will soon reopen to commercial traffic.
+
+---
+
+### 2026-06-15 04:36:41  #焦點 #國際
+
+特朗普：霍爾木茲海峽不久將恢復正常通航，伊朗永遠不會擁有核武器。
+
+---
+
+### 2026-06-15 04:36:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Advisor to Iran's supreme leader warns of strikes on Israel】Velayati, adviser to Iran's supreme leader, posted on social media late June 14 that "zero hour has arrived, launchers are in position" and orders have been given after an "enemy miscalculation" in Beirut exhausted Iran's patience. He said HEZBOLLAH is an important part of the resistance front and warned that if fighting and unrest in Lebanon continue, the Strait of Hormuz and Bab el‑Mandeb would be used to "strangle" the enemy's economic lifeline.
+
+---
+
+### 2026-06-15 04:36:07  #國際
+
+【伊朗最高領袖顧問警告將打擊以色列】當地時間6月14日深夜，伊朗最高領袖政治顧問韋拉亞提在社交媒體發文表示，“零時已至，發射裝置正就位待命。敵人在（黎巴嫩首都）貝魯特犯下的誤判已耗盡伊朗的耐心，命令已經下達。黎巴嫩真主黨是抵抗陣線的重要組成部分。若黎巴嫩境內的戰火與動盪不止，霍爾木茲海峽與曼德海峽這兩隻強有力的‘臂膀’將扼住敵人的經濟命脈，直至將其戰略窒息。”
+
+---
+
+### 2026-06-15 04:35:50  #國際
+
+內塔尼亞胡和特朗普舉行了通話。
+
+---
+
+### 2026-06-15 04:35:48  #MKT News
+
+Market sources: Israeli Prime Minister Netanyahu held a phone call with U.S. President Trump.
+
+---
+
+### 2026-06-15 04:35:37  #國際
+
+伊朗總統：政府認為支援在前線保衛國家和人民安全的部隊是其職責所在。我們不能僅指望那些為保衛祖國而獻出生命的戰士們堅定不移地堅守崗位，卻忽視他們需要的支援和需求。
+
+---
+
+### 2026-06-15 04:29:33  #國際
+
+伊朗總統：我們不會在任何權力面前低頭，但我們認為自己對伊朗民族及其正當訴求負有責任和義務。當然，這裡所指的人民，是全體伊朗人民，而非某個特定派別或團體。
+
+---
+
+### 2026-06-15 04:26:18  #國際
+
+特朗普：民主黨參議員傑克·裡德謊稱，我們新近達成的協議比不上奧巴馬時期那份糟糕的伊核全面協議，他這是在撒謊。裡德要麼純屬招搖撞騙，要麼就是能力不足。奧巴馬時期的協議實質上是在為伊朗發展核武器鋪路，還附帶鉅額資金輸送，堪稱美國有史以來最差、最荒唐的協議之一。我們達成的協議則是一道屏障，徹底杜絕伊朗擁有核武器的可能，和奧巴馬的協議截然相反。應當彈劾他。
+
+---
+
+### 2026-06-15 04:25:40  #國際
+
+【伊朗男足抵達洛杉磯】當地時間6月14日下午，伊朗國家足球隊抵達美國加利福尼亞州洛杉磯市，備戰將於當地時間6月15日傍晚（北京時間6月16日上午）舉行的世界盃首場小組賽，其對手將是同組的紐西蘭隊。本屆世界盃，伊朗隊與比利時、紐西蘭和埃及隊同處G組。雖然其三場小組賽都將在美國境內進行，但由於簽證問題，伊朗隊的駐地從美國亞利桑那州圖森市改為墨西哥邊境城市蒂華納市。
+
+---
+
+### 2026-06-15 04:24:56  #其他
+
+一名知情外交官表示，卡達談判人員仍停留在德黑蘭，正與美方協同配合，推動相關談判順利進行。
+
+---
+
+### 2026-06-15 04:24:26  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+CNN reported that Israeli Prime Minister Benjamin Netanyahu is seeking an emergency meeting with Trump after next weekend's G7 summit amid rising tensions over Iran negotiations and a Lebanon ceasefire. Qatar's negotiators remain in Tehran, coordinating with the U.S. to keep talks on track.
+
+---
+
+### 2026-06-15 04:22:45  #公司
+
+【日內瓦舉行反七國集團抗議活動 逾千人參加】針對七國集團峰會的大規模抗議活動14日下午在瑞士日內瓦市區舉行，新華社記者現場看到逾千人參加。該活動由“反七國集團聯盟”發起，以“反法西斯主義”“反帝國主義及其針對人民的戰爭”“反資本主義”為號召。據組織方釋出的資訊，“反七國集團聯盟”由約60個協會、工會和左翼團體組成，當天的遊行預計持續到晚上。截至記者發稿，遊行隊伍雖在警察引導下和平行進，但抗議活動仍造成部分車輛損壞和一家銀行的封閉門板被拆毀。日內瓦街區不時警笛大作。（新華社）
+
+---
+
+### 2026-06-15 04:19:15  #公司 #國際
+
+受伊朗與黎巴嫩局勢緊張影響，七國集團峰會結束後，內塔尼亞胡尋求與特朗普緊急會晤。
+
+---
+
+### 2026-06-15 04:16:22  #MKT News
+
+Iran national football team arrived in Los Angeles ahead of Monday's World Cup match against New Zealand.
+
+---
+
+### 2026-06-15 04:13:01  #國際
+
+克里姆林宮顧問稱，特朗普告知普京他準備幫助結束烏克蘭衝突。
+
+---
+
+### 2026-06-15 04:12:34  #國際
+
+伊朗足球隊抵達洛杉磯，備戰週一與紐西蘭隊的世界盃比賽。
+
+---
+
+### 2026-06-15 04:12:02  #MKT News
+
+【U.S. small plane crash in Missouri kills 12】The Missouri State Highway Patrol said a small plane crashed in Butler, Missouri, at about 11:35 a.m. local time on June 14, killing all 12 on board. The P750, carrying 11 parachutists and one pilot, had just departed Butler Memorial Airport. The U.S. National Transportation Safety Board will lead the investigation and provide updates.
+
+---
+
+### 2026-06-15 04:08:36  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+An adviser to Iran's supreme leader warned that if Israel's actions in Lebanon do not stop, the Strait of Hormuz and Bab al-Mandeb will be used to squeeze Israel's economic arteries until strategic suffocation.
+
+---
+
+### 2026-06-15 04:07:49  #國際
+
+伊朗最高領袖顧問阿里·阿克巴爾·韋拉亞提：若以色列在黎巴嫩的滋事行徑不停止，霍爾木茲海峽與曼德海峽“將扼住你們的經濟命脈，直至你們陷入戰略窒息”。
+
+---
+
+### 2026-06-15 04:06:31  #國際
+
+今治造船、川崎重工與名村造船將恢復液化天然氣運輸船的生產。相關各方計劃在2035年前後重啟國內液化天然氣運輸船建造工作，合作方計劃每年建造三至五艘船舶，或將引進韓國相關技術，並且日本擬向意向買家提供補貼以推進相關計劃。
+
+---
+
+### 2026-06-15 04:05:22  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY #Impact mixed
+
+Adviser to Iran's Supreme Leader, on response to Israeli strikes in Lebanon: zero hour has arrived; launchers are being prepared.
+
+---
+
+### 2026-06-15 04:03:58  #其他
+
+市場資訊：今治造船、川崎重工與名村造船將恢復液化天然氣運輸船的生產。
+
+---
+
+### 2026-06-15 04:03:16  #焦點 #國際
+
+伊朗最高領袖顧問阿里·阿克巴爾·韋拉亞提：貝魯特遇襲這一誤判徹底耗盡我方耐心，相關指令已下達。行動零時已至，發射裝置正在籌備當中。
+
+---
+
+### 2026-06-15 04:00:30  #其他
+
+【中國地震局針對陝西合陽縣4.1級地震啟動四級應急響應】據中國地震臺網正式測定，2026年6月15日1時13分，在陝西渭南市合陽縣（北緯35.22度，東經110.30度）發生4.1級地震，震源深度14公里。地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、陝西省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。目前，陝西省地震局已派出現場工作隊趕赴震區，協助地方政府開展應急處置工作。
 
 ---
 
@@ -22560,107 +22722,5 @@ ECB executive board member Kocher said rate hikes will help stabilize conditions
 ### 2026-06-12 15:04:23  #MKT News #Market Regions #Greater China
 
 【Nepal foreign minister Xishier to visit China June 14-17】Nepal's foreign minister Xishier will visit China from June 14-17 at the invitation of China's foreign minister Wang Yi.
-
----
-
-### 2026-06-12 15:04:21  #市場
-
-英國國債收益率曲線全線上漲，10年期國債收益率下跌6個基點至4.84%。
-
----
-
-### 2026-06-12 15:04:12  #市場
-
-莫雷爾和普羅姆、道達爾能源以及在荷蘭上市的殼牌股價下跌2%-4%。
-
----
-
-### 2026-06-12 15:04:05  #MKT News
-
-【Serbian President Vučić says he plans to resign】Serbian President Aleksandar Vučić told a Belgrade radio interview he plans to resign; a presidential election is expected within three to four months. He said he will notify the public and is considering potential successor candidates.
-
----
-
-### 2026-06-12 15:03:59  #其他
-
-【塞爾維亞總統武契奇表示計劃辭職】塞爾維亞總統武契奇日前接受貝爾格萊德電臺採訪時說，他計劃辭去總統一職，總統選舉將在未來3至4個月進行。武契奇說，“我正在計劃辭職。我會通知大家，不會讓任何人感到意外”。他同時透露，他已經開始整理並打包存放在總統府裡的圖書。武契奇還說，當下正在考慮新的總統候選人。（新華社）
-
----
-
-### 2026-06-12 15:03:40  #宏觀 #國際
-
-【尼泊爾外交部長希西爾將訪華】外交部發言人宣佈：應中共中央政治局委員、外交部長王毅邀請，尼泊爾外交部長希西爾將於6月14日至17日訪問中國。
-
----
-
-### 2026-06-12 15:03:17  #MKT News
-
-【Shanghai-Shenzhen combined turnover RMB 3.215 tln; Zhongji Xuchuang tops stock turnover】On June 12, combined turnover on the Shanghai and Shenzhen exchanges was RMB 3.215 trillion, up RMB 662.93 billion from the prior session. Shanghai turnover was RMB 1.5374 trillion (prior RMB 1.1856 trillion) with volume 743 million lots (prior 569 million); Shenzhen turnover was RMB 1.6775 trillion (prior RMB 1.3665 trillion) with volume 792 million lots (prior 670 million). Zhongji Xuchuang led single-stock turnover at RMB 40.00 billion, followed by Xinyisheng RMB 33.73 billion, Hengtong Optic‑Electric RMB 21.53 billion, GigaDevice RMB 20.20 billion and Baiwei Storage RMB 18.61 billion.
-
----
-
-### 2026-06-12 15:03:14  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China's Shanghai Composite Index closed up 44.5 pts (1.12%) at 4,031.51 on Friday, June 12; Shenzhen Composite rose 111.43 pts (0.75%) to 14,963.41; CSI 300 Index gained 54.91 pts (1.16%) to 4,777.32; ChiNext Index added 19.11 pts (0.50%) to 3,830.35; STAR 50 Index was up 0.78 pts (0.05%) at 1,663.22.
-
----
-
-### 2026-06-12 15:02:53  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #CAC40
-
-European equities opened higher on Friday, June 12: Germany’s DAX 30 up 372.79 pts (+1.54%) at 24,582.68; UK’s FTSE 100 up 71.37 pts (+0.69%) at 10,375.25; France’s CAC 40 up 110.87 pts (+1.35%) at 8,311.67; STOXX Europe 50 up 89.39 pts (+1.48%) at 6,146.35; Spain’s IBEX 35 up 307.60 pts (+1.68%) at 18,597.70; Italy’s FTSE MIB up 638.76 pts (+1.26%) at 51,143.50.
-
----
-
-### 2026-06-12 15:02:50  #Trading Economics #Economy #France #Inflation Rate #Importance 1
-
-France Inflation Confirmed at 2.4% in May — France’s annual inflation rate rose to 2.4% in May 2026, picking up from 2.2% in April, confirming preliminary estimates. This marked the highest level since February 2024, driven mainly by higher energy prices (16.6% vs 14.3% in April), largely due to a sharp rebound in gas prices (11.3% vs -3.1%). Services inflation also rose to 2.1% from 1.8%, while food prices slowed slightly to 1.1% from 1.2%. Prices for manufactured goods fell by 0.6%, and tobacco inflation remained steady at 3.2%. On a monthly basis, the CPI increased by 0.1% in May, slowing sharply from 1.0% in April, as energy prices rose at a slower pace (0.6% vs 4.7%), with higher gas prices partly offset by a decline in petroleum products (-1.9% vs 8.2%). Food prices rose 0.3%, driven by fresh products, while manufactured goods edged up 0.1%, and services and tobacco were stable. Meanwhile, the EU-harmonised annual inflation rate rose to 2.8% from 2.5%, while monthly CPI increased by 0.1% following a 1.2% rise in April.
-
----
-
-### 2026-06-12 15:02:21  #市場
-
-【機構：AI持續走強、消費供應鏈提前備貨發酵，第一季全球前十大晶圓代工營收季增3.7%】根據TrendForce集邦諮詢最新晶圓代工產業研究，除了AI HPC與相關周邊訂單仍如火如荼出貨外，第一季基於TV、PC/NB等供應鏈提前生產出貨、並提高周邊IC庫存水位措施，晶圓代工廠商陸續接獲客戶提前生產或加單訂單。儘管仍受智慧手機生產淡季影響，但淡季因素基本與供應鏈提前拉貨所相抵，整體營運表現淡季不淡，第一季全球前十大晶圓代工產值季增3.7%至479.5億美元，再創新高。
-
----
-
-### 2026-06-12 15:02:07  #市場
-
-斯泰蘭蒂斯米蘭上市股價早盤上漲4%。
-
----
-
-### 2026-06-12 15:01:41  #公司 #市場
-
-義大利油企埃尼集團股價下跌4%。
-
----
-
-### 2026-06-12 15:01:36  #市場 #國際
-
-受伊朗和平希望渺茫、油價下跌的影響，EQUINOR股價下跌4.9%。
-
----
-
-### 2026-06-12 15:01:25  #其他
-
-【破除演員“撕番”亂象 三協會發文規範電視劇（網路劇）演員署名】針對近年來電視劇（網路劇）行業愈演愈烈的演員署名排序之爭，中國電視劇製作產業協會、中國網路視聽節目服務協會、中國廣播電視社會組織聯合會演員委員會於今日向會員單位聯合釋出《關於規範電視劇（網路劇）演員署名的通知》（以下簡稱《通知》）。此舉旨在從源頭破除“撕番”亂象，引導行業迴歸藝術創作本位，構建風清氣正的文藝生態。（央視新聞）
-
----
-
-### 2026-06-12 15:01:25  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【China equity index futures mid-session close】Most-active China equity index futures rose at mid-session: CSI 300 (IF) +1.97%, SSE 50 (IH) +2.35%, CSI 500 (IC) +1.91%, CSI 1000 (IM) +1.26%.
-
----
-
-### 2026-06-12 15:01:19  #MKT News #Commodities #Energy #ENI.MI #Impact bearish
-
-ENI shares fell 4%.
-
----
-
-### 2026-06-12 15:01:13  #公司 #市場 #觀點
-
-【收評：滬指衝高回落漲1.12%，貴金屬、工業金屬、航空裝備板塊表現強勢】A股三大指數今日集體上漲，截至午盤，上證指數漲1.12%，深證成指漲0.75%，創業板指漲0.5%，北證50跌0.78%，科創50指數漲0.05%。全市場成交額32361億元，較上日放量6612億元，全市場超3900只個股上漲。板塊題材上，貴金屬、工業金屬、航空裝備、證券、機場航運板塊漲幅居前；電子化學品、非金屬材料、光刻膠、半導體、儲存晶片板塊跌幅居前。盤面上，貴金屬板塊延續強勢，招金黃金漲停，赤峰黃金、紫金礦業、曉程科技、中金黃金漲幅居前。工業金屬板塊高開高走，銅陵有色、洛陽鉬業、北方銅業、株冶集團、豫光金鉛等多股漲停。證券板塊震盪走強，財達證券、中銀證券漲停，國金證券、東北證券、湘財股份跟漲。電子化學品板塊高開低走，格林達、江化微跌停，中巨芯、華特氣體、金宏氣體、中船特氣等多股跌超10%。非金屬材料板塊亦持續走低，金戈新材一度跌超26%，天馬新材跌超10%，粵桂股份、石英股份、東方碳素跟跌。半導體板塊早盤衝高後持續回落，歐萊新材、有研矽、滬矽產業跌超10%，凱華材料、華海誠科、盛合晶微跌幅居前。
 
 ---
