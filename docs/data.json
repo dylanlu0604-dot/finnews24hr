@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-14 14:03:38",
+  "updated": "2026-06-14 14:07:37",
   "count": 18291,
   "items": [
+    {
+      "id": "mkt:019ec4bd-0ecd-7dd8-afef-32a57112b294",
+      "time": "2026-06-14 14:06:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabian TV reported Jordan's security services said alarms sounded automatically this morning due to a technical fault."
+    },
+    {
+      "id": "4934250",
+      "time": "2026-06-14 14:05:34",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "市場訊息：約旦安全部門稱，今天早上由於技術故障，警報器自動響起。"
+    },
     {
       "id": "4934247",
       "time": "2026-06-14 13:57:21",
@@ -168225,28 +168242,6 @@
         "公司"
       ],
       "text": "【廣州再添百億大專案】廣州又迎來一個“雙百”專案，融捷集團新能源智造基地落子廣州開發區、黃埔區。專案總投資約120億元，規劃總產能24GWh，達產後年產值預計超130億元，遠期帶動形成千億級新能源產業叢集。作為國內行業唯一貫通“鋰礦開採、材料加工、電池製造、儲能系統、電池迴圈利用”全產業鏈的企業，融捷此次落子知識城，既是其在粵港澳大灣區的戰略佈局，也是廣州“招商引資年”的標誌性成果之一。（中國廣州釋出）"
-    },
-    {
-      "id": "mkt:019ea0ae-f357-7665-8316-f6397acf192e",
-      "time": "2026-06-07 14:04:40",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "British Airways CEO said airfares will rise again if jet fuel costs remain elevated."
-    },
-    {
-      "id": "mkt:019ea0ae-e65e-7665-8316-ee358e0d6b7e",
-      "time": "2026-06-07 14:04:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli military says it intercepted two munitions that crossed into Israeli territory from Lebanon."
     }
   ]
 }
