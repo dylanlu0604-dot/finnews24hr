@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-14 23:38:02",
-  "count": 18336,
+  "updated": "2026-06-14 23:42:16",
+  "count": 18340,
   "items": [
+    {
+      "id": "4934626",
+      "time": "2026-06-14 23:41:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤：國家最高安全委員會的決議是行動依據，最高領袖批准且認定妥當的事項，全體人員都必須遵照執行。"
+    },
+    {
+      "id": "4934625",
+      "time": "2026-06-14 23:40:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐菲律賓大使館提醒來菲中國公民提前做好入境準備】近期，有中國公民反映，因入境材料不足或行程資訊不清等，在菲律賓機場被攔截盤查，甚至遭遇遣返。中國駐菲律賓大使館謹提醒來菲中國公民，免籤並不等於可以無條件入境，菲移民官員有權依法對外國公民入境目的進行審查，並決定是否准予入境。外國公民如無法說明真實入境目的，無法提供相關證明材料，或存在異常入出境記錄以及涉嫌非法務工等，均可能被拒絕入境。"
+    },
+    {
+      "id": "mkt:019ec6c9-eabc-7dd8-aff3-fe68ceb1d3f6",
+      "time": "2026-06-14 23:39:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said maintaining social unity is the most important priority at this stage."
+    },
+    {
+      "id": "4934624",
+      "time": "2026-06-14 23:39:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗總統佩澤：即便我個人看法有所不同，我也有義務遵從體製作出的最終決定。"
+    },
+    {
+      "id": "mkt:019ec6c9-2bb7-7dd8-aff3-f5bbc6fddfc9",
+      "time": "2026-06-14 23:38:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said the government must act within the institutional decision-making framework set by the Supreme Leader."
+    },
+    {
+      "id": "4934623",
+      "time": "2026-06-14 23:38:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊航空航天部隊司令穆薩維：我們絕不信任敵人，並且謹遵監護體系的指令。"
+    },
+    {
+      "id": "mkt:019ec6c8-7560-7dd8-aff3-ea7ddd762764",
+      "time": "2026-06-14 23:38:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said the country is experiencing one of its most sensitive phases."
+    },
+    {
+      "id": "4934622",
+      "time": "2026-06-14 23:37:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美方正向伊朗施加巨大壓力，要求其不得針對以色列襲擊貝魯特南郊的行為發射導彈予以反擊。"
+    },
     {
       "id": "4934621",
       "time": "2026-06-14 23:36:52",
@@ -168616,39 +168681,6 @@
         "MKT News"
       ],
       "text": "Qatar issued a NOTAM requiring flights transiting its airspace to reroute and providing alternate routings for aircraft departing Doha and airports in Saudi Arabia. The notice is effective June 7-14."
-    },
-    {
-      "id": "4922073",
-      "time": "2026-06-07 23:41:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家足球隊抵達墨西哥，備戰國際足聯世界盃。"
-    },
-    {
-      "id": "4922072",
-      "time": "2026-06-07 23:39:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "在失聯六個月後，美國國家航空航天局宣佈，火星探測器馬文號任務終結。"
-    },
-    {
-      "id": "mkt:019ea2bc-efaa-7ee0-86d0-aa0b879036ae",
-      "time": "2026-06-07 23:39:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Three earthquakes strike sea off southern Kamchatka within 10 minutes】Local time night of the 7th, three earthquakes occurred in the sea near Russia's southern Kamchatka Peninsula within 10 minutes, magnitudes 6.4, 5.6 and 5.3. No reports of casualties or property damage so far."
-    },
-    {
-      "id": "4922071",
-      "time": "2026-06-07 23:39:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄堪察加半島南部海域10分鐘內3次地震】俄羅斯堪察加半島南部附近海域當地時間7日夜間在10分鐘內發生3次地震，震級依次為6.4、5.6、5.3級，目前尚無地震造成人員財產損失的報告。（新華社）"
     }
   ]
 }
