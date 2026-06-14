@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-15 03:11:58",
-  "count": 18393,
+  "updated": "2026-06-15 03:16:00",
+  "count": 18395,
   "items": [
+    {
+      "id": "mkt:019ec78e-0ca0-7dd8-aff6-6d6f0d24c8f0",
+      "time": "2026-06-15 03:13:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Putin, Trump hold 55-minute call on Iran and Ukraine】Russia presidential aide USHAKOV said Putin and US President Trump held a 55-minute phone call covering bilateral ties and international issues including Iran and the Ukraine crisis. Trump told Putin a US-Iran agreement is near completion after complex talks mediated by Pakistan and Qatar and could be announced the same day. USHAKOV said a US special envoy and Trump’s son‑in‑law Jared Kushner will visit Moscow soon."
+    },
+    {
+      "id": "mkt:019ec78d-177a-7dd8-aff6-646667c98456",
+      "time": "2026-06-15 03:12:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran's PEZESHKIAN says Supreme National Security Council has decided to advance negotiations】Islamic Republic of Iran Broadcasting (IRIB) reported on the evening of the 14th that President PEZESHKIAN said the Supreme National Security Council has clearly decided to advance negotiations."
+    },
+    {
+      "id": "4934749",
+      "time": "2026-06-15 03:12:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗總統：伊朗最高國家安全委員會已決定推進談判】據伊朗伊斯蘭共和國廣播電視臺14日晚報道，伊朗總統佩澤希齊揚表示，伊朗最高國家安全委員會已明確決定推進談判程序。 (新華社)"
+    },
     {
       "id": "4934748",
       "time": "2026-06-15 03:11:33",
@@ -169118,14 +169150,6 @@
         "國際"
       ],
       "text": "伊朗媒體稱，初步訊息顯示第二波導彈已射向以色列。"
-    },
-    {
-      "id": "4922169",
-      "time": "2026-06-08 03:12:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗民眾慶祝針對以色列的導彈襲擊。"
     }
   ]
 }
