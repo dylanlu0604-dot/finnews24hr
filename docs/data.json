@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-15 06:20:33",
-  "count": 18353,
+  "updated": "2026-06-15 06:24:30",
+  "count": 18355,
   "items": [
+    {
+      "id": "mkt:019ec83a-c0b4-7dd8-aff8-24a76f73b21b",
+      "time": "2026-06-15 06:22:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran deputy foreign minister: 60-day talks with U.S. to cover four issues】Iran's deputy foreign minister said the 60-day talks with the U.S. will address four items: ending all sanctions and UN Security Council resolutions; the nuclear issue; defining a final mechanism for Iran's reconstruction; and establishing an enforcement mechanism to monitor parties' commitments."
+    },
+    {
+      "id": "4934889",
+      "time": "2026-06-15 06:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊19日在瑞士籤協議】當地時間6月14日下午，美國副總統萬斯稱，他計劃出席將於本週五在瑞士舉行的美伊協議簽字儀式，美國總統特朗普“有可能”參加。"
+    },
+    {
+      "id": "4934888",
+      "time": "2026-06-15 06:20:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長表示，為期60天的談判將要討論的議題包括解除制裁、伊朗重建機制，以及建立監督各方履約情況的機制。"
+    },
     {
       "id": "mkt:019ec838-5823-7dd8-aff8-1e20c2febd48",
       "time": "2026-06-15 06:19:56",
@@ -168743,14 +168768,6 @@
         "國際"
       ],
       "text": "【受特朗普表態訊息影響，原油漲幅有所收窄】特朗普稱，伊朗襲擊以色列不會影響雙方達成協議的程序，此後WTI原油、布倫特原油期貨小幅回落。布倫特原油此前一度觸及每桶96.47美元，現漲幅為2.7%，報約95.50美元/桶。標普500股指期貨跌幅收窄至0.1%，此前最大跌幅達0.6%。"
-    },
-    {
-      "id": "4922330",
-      "time": "2026-06-08 06:21:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞美尼亞總理尼科爾·帕希尼揚宣佈在議會選舉中獲勝。"
     }
   ]
 }
