@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-14 10:42:34",
-  "count": 18355,
+  "updated": "2026-06-14 10:46:37",
+  "count": 18354,
   "items": [
+    {
+      "id": "4934124",
+      "time": "2026-06-14 10:44:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗專家會議成員：無需為諒解備忘錄感到擔憂】伊朗專家會議成員穆罕默德 - 邁赫迪・米爾巴蓋裡於週六出面安撫反對伊美擬議諒解備忘錄的人士，稱外界無需為此感到擔憂。米爾巴蓋裡補充道：“最高領袖穆傑塔巴・哈梅內伊正密切監督整個程序，給出重要指導意見，把控事態發展。”"
+    },
     {
       "id": "4934123",
       "time": "2026-06-14 10:41:38",
@@ -168798,26 +168806,6 @@
         "公司"
       ],
       "text": "【寧淮城際鐵路建設迎來新進展】記者7日從中國鐵建股份有限公司獲悉，隨著最後一片預製箱梁精準就位，由中國鐵建大橋局承建的寧淮城際鐵路3標專案箱梁架設任務全部完成，為鐵路全線通車目標打下堅實基礎。據中國鐵建大橋局該專案負責人介紹，寧淮城際鐵路3標專案線路總長約33.8公里。專案施工需穿越密集水網、軟土地基及既有管線密集區。建設中，專案團隊打造智慧梁場，構建起全流程數字化作業體系，有效保障了工程質量和效率。寧淮城際鐵路設計時速350公里。全線建成通車後，將實現淮安至南京“1小時通達”。（新華社）"
-    },
-    {
-      "id": "4921620",
-      "time": "2026-06-07 10:42:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國今年1至5月化妝品出口額突破56億美元】據韓國產業部週日釋出的資料，今年前五個月，韓國化妝品出口同比大幅增長，美妝產品一躍成為韓國第一大消費類出口商品。 韓國產業部資料顯示，1至5月韓國化妝品出口總額達56億美元，去年同期為46億美元。 韓國化妝品出口額在2024年首次突破100億美元，2025年更是創下114億美元的歷史新高。"
-    },
-    {
-      "id": "te:economy:557020",
-      "time": "2026-06-07 10:42:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Foreign Exchange Reserves",
-        "Importance 1"
-      ],
-      "text": "China Forex Reserves Highest Since 2015 — China’s foreign exchange reserves climbed by USD 31.7 billion to USD 3.442 trillion in May 2026, marking a 0.93% rise from USD 3.411 trillion in April. This marked the highest level of foreign exchange reserves since October 2015, amid a stronger U.S. dollar against other major currencies and rising prices of major global financial assets. Meanwhile, the People’s Bank of China continued to add to its gold holdings for the 19th consecutive month, with reserves rising slightly to 74.96 million fine troy ounces in May from 74.64 million in April."
     }
   ]
 }
