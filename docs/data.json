@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-14 20:01:50",
-  "count": 18285,
+  "updated": "2026-06-14 20:05:42",
+  "count": 18287,
   "items": [
+    {
+      "id": "mkt:019ec603-6e54-7dd8-aff1-73449ed12f08",
+      "time": "2026-06-14 20:02:54",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Expert: Israeli strike on Beirut a \"strategic probe\" into US‑Iran deal】Sami Nader, director of the Levant Institute for Strategic Affairs, called Israel’s strike on Beirut’s southern suburbs a \"very strategic probe\" into a potential US‑Iran agreement. He said Israel is seeking to decouple a Hezbollah front from US‑Iran negotiations while Iran insists on linking them, and warned the strike could “possibly destroy” the deal. Nader added domestic politics are a driver—the far right accuses Netanyahu of being too weak on Hezbollah and of failing to escalate Lebanon—raising the key market risk of how Iran might retaliate."
+    },
+    {
+      "id": "4934451",
+      "time": "2026-06-14 20:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：安聯將牽頭競購滙豐新加坡保險業務。"
+    },
+    {
+      "id": "mkt:019ec602-0cf8-7dd8-aff1-6d6182d83eda",
+      "time": "2026-06-14 20:01:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli minister warns US military aircraft occupying large share of civilian airport stands】On the 14th Israeli transport minister Miri Regev sent an emergency letter to Prime Minister Netanyahu warning that prolonged US military use of civilian parking stands could, if unresolved by the 16th, force cancellation of more than 2.4 mln summer and holiday air tickets and severely damage Israel’s aviation and tourism sectors. Regev said about 72 US tanker aircraft are deployed at Ben-Gurion International Airport, occupying over half of civilian stands, and some 26 US aircraft are at Ramon Airport, using nearly 90% of its parking capacity. The Israeli Airports Authority has set the 16th as a final deadline and said it will formally notify airlines to reduce or cancel affected flights if the US aircraft are not moved. The prime minister’s office and affected airlines have not responded."
+    },
+    {
+      "id": "4934450",
+      "time": "2026-06-14 20:01:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【致8人死亡2人失蹤 遼綏漁35261船重大傾覆事故調查報告公佈】遼寧省應急管理廳公佈遼寧葫蘆島遼綏漁35261船“10·18”重大傾覆事故調查報告：事故造成8人死亡、2人失蹤。（央視新聞）"
+    },
     {
       "id": "4934449",
       "time": "2026-06-14 20:01:00",
@@ -168192,23 +168228,6 @@
         "國際"
       ],
       "text": "市場訊息： 伊朗國家足球隊抵達墨西哥，備戰世界盃。"
-    },
-    {
-      "id": "4921919",
-      "time": "2026-06-07 20:05:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：加拿大航空與Abra Group簽署諒解備忘錄，拓展加拿大、拉美及其他地區的出行服務與航線網路。"
-    },
-    {
-      "id": "4921918",
-      "time": "2026-06-07 20:02:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道：英偉達與韓國SK集團預計將於週一公佈雙方合作規劃】據報道，英偉達與韓國SK集團預計將於週一公佈雙方合作規劃。這家美國晶片企業負責人表示，當前儲存晶片供應緊張的局面還將持續數年。SK海力士發言人證實，董事長Chey長與英偉達執行長黃仁勳定於週一上午向媒體介紹合作計劃，該訊息也印證了韓國媒體此前的報道。黃仁勳也另行表示，英偉達將於週一和SK集團一同釋出相關訊息。他在接受記者採訪時稱：“我們的合作覆蓋多個領域，包括人工智慧超級計算機、中央處理器、新型個人電腦以及機器人技術。此次會面就是為敲定相關規劃，明日或將公佈具體內容。”他並未透露更多細節。黃仁勳同時指出，儲存晶片短缺問題暫無緩解跡象。“整個行業供應鏈，從晶圓、封裝到矽光模組等環節均供應不足，根源在於市場需求居高不下。這一緊缺狀況還會持續數年。"
     }
   ]
 }
