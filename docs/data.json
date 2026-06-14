@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-15 01:21:20",
-  "count": 18386,
+  "updated": "2026-06-15 01:25:08",
+  "count": 18388,
   "items": [
+    {
+      "id": "mkt:019ec729-b0d8-7dd8-aff5-50c4766494c6",
+      "time": "2026-06-15 01:24:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet alhadath, citing sources, reports US special envoy to Iraq Tom Barrack will visit Baghdad tomorrow to discuss arms control and government formation."
+    },
+    {
+      "id": "mkt:019ec728-dac8-7dd8-aff5-4bf7b2b02d3a",
+      "time": "2026-06-15 01:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Al Hadath, citing sources, says US special envoy to Iraq Tom Barrack will discuss political, security and economic issues in Baghdad tomorrow."
+    },
+    {
+      "id": "4934694",
+      "time": "2026-06-15 01:22:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱監測到黎巴嫩方向發射的火箭彈及無人機】當地時間14日晚間，以色列國防軍發表宣告稱，不久前，以色列北部多個地區連續拉響防空警報。以軍隨即稱監測到黎巴嫩方向來襲的火箭彈及無人機。宣告表示，有1枚火箭彈落入以色列一處靠近邊境的社群，另外多架無人機也落入以色列一側。（央視新聞）"
+    },
+    {
+      "id": "4934693",
+      "time": "2026-06-15 01:21:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場資訊：馬克龍將全力促成特朗普出席七國集團峰會。"
+    },
+    {
+      "id": "mkt:019ec726-8df6-7dd8-aff5-45a2e8aaf59f",
+      "time": "2026-06-15 01:20:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Minister Sergei Lavrov arrived in Belarus for a working visit."
+    },
     {
       "id": "4934692",
       "time": "2026-06-15 01:19:08",
@@ -169040,30 +169081,6 @@
         "MKT News"
       ],
       "text": "Qatar's foreign ministry said the prime minister and foreign minister stated all parties need to respond to mediation efforts to reach a sustainable agreement."
-    },
-    {
-      "id": "mkt:019ea31d-a021-7ee0-86d1-43e703df25b8",
-      "time": "2026-06-08 01:24:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said its prime minister, who also serves as foreign minister, met with Egypt's foreign minister to discuss developments in Lebanon and Palestine."
-    },
-    {
-      "id": "4922117",
-      "time": "2026-06-08 01:23:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：首相和外交大臣重申，各方必須積極回應調解努力，以達成可持續的協議。"
-    },
-    {
-      "id": "4922116",
-      "time": "2026-06-08 01:21:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬耳他附近海域偷渡船傾覆致至少10人死亡】據義大利媒體7日報道，一艘載有約60名非法移民的偷渡船在馬耳他附近海域傾覆，已造成至少10人死亡，搜救行動仍在馬耳他方面協調下繼續進行。 (新華社)"
     }
   ]
 }
