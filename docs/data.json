@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-14 19:06:01",
-  "count": 18311,
+  "updated": "2026-06-14 19:10:11",
+  "count": 18308,
   "items": [
+    {
+      "id": "4934431",
+      "time": "2026-06-14 19:08:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：打擊目標為貝魯特達希耶地區的一處真主黨指揮中心，此舉是針對該組織向以色列發射空中目標的回應。在以方實施打擊之前，已採取措施以減輕對平民的傷害。"
+    },
+    {
+      "id": "mkt:019ec5d1-4c64-7dd8-aff1-1d13d8c85278",
+      "time": "2026-06-14 19:08:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces said it struck a Hezbollah command center in Beirut’s Dahiyeh district in response to the group launching aerial targets toward Israel, and that measures were taken before the strike to limit civilian harm."
+    },
+    {
+      "id": "mkt:019ec5d0-5df1-7dd8-aff1-14b5ab92d239",
+      "time": "2026-06-14 19:07:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran negotiator adviser outlines proposed US-Iran memorandum details】Mehdi Mohammadi, strategic adviser to Iran’s negotiating team, disclosed proposed elements of a draft US‑Iran memorandum that would: halt military operations against Iran and Lebanon and provide US security assurances to prevent renewed strikes; partially unfreeze Iranian frozen assets and suspend selected economic restrictions and sanctions to enable expanded economic ties and oil sales; and lift maritime and trade restrictions to restore Iranian seaborne commerce, facilitate merchant shipping and remove barriers on international shipping routes. These items were described as proposals in the draft memorandum."
+    },
     {
       "id": "4934430",
       "time": "2026-06-14 19:03:33",
@@ -168364,54 +168395,6 @@
         "MKT News"
       ],
       "text": "cenc said a magnitude-6.0 earthquake occurred in the Kuril Islands at 18:41 on June 7, with a focal depth of 30 km."
-    },
-    {
-      "id": "4921876",
-      "time": "2026-06-07 19:09:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月07日18時41分在千島群島（北緯50.10度，東經157.35度）發生6.0級地震，震源深度30千米。"
-    },
-    {
-      "id": "4921875",
-      "time": "2026-06-07 19:09:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳與SK集團會長將於週一公佈合作計劃。"
-    },
-    {
-      "id": "4921874",
-      "time": "2026-06-07 19:06:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【融資資金大幅加倉光模組個股】據資料寶統計，個股方面，除去近期上市新股，最近一週32只個股融資淨買入額在3億元以上。其中，新易盛、中際旭創、兆易創新淨買入額排名前三，依次為25.47億元、13.36億元、11.25億元；源傑科技、寧德時代隨後，淨買入額均在9億元以上。"
-    },
-    {
-      "id": "mkt:019ea1c3-2d59-7ee0-86ce-d1f30d4792df",
-      "time": "2026-06-07 19:06:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Invesco Great Wall Global Chip LOF (501225) will suspend trading from market open on 8 June 2026 and resume at 10:30 that day; redemptions will be processed as normal during the suspension."
-    },
-    {
-      "id": "4921873",
-      "time": "2026-06-07 19:06:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "景順長城全球晶片LOF(501225)：本基金將於2026年6月8日開市起停牌，自當日10:30起復牌，停牌期間本基金贖回業務照常辦理。"
-    },
-    {
-      "id": "4921872",
-      "time": "2026-06-07 19:06:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【楊亦龍任華魯集團黨委書記、董事長】6月7日，華魯控股集團有限公司召開領導幹部會議，宣佈省委關於主要負責同志調整的決定，楊亦龍同志任華魯控股集團有限公司黨委書記、董事長；樊軍同志不再擔任華魯控股集團有限公司黨委書記、董事長職務。"
     }
   ]
 }
