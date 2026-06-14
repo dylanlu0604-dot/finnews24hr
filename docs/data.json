@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-14 23:46:28",
-  "count": 18339,
+  "updated": "2026-06-14 23:50:40",
+  "count": 18345,
   "items": [
+    {
+      "id": "4934634",
+      "time": "2026-06-14 23:49:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗總統：國家必須擺脫這種 “不戰不和” 的僵持困境。"
+    },
+    {
+      "id": "mkt:019ec6d2-edfb-7dd8-aff4-3481ce17d180",
+      "time": "2026-06-14 23:49:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president says the government is committed to finding a breakthrough in the country's current situation."
+    },
+    {
+      "id": "4934633",
+      "time": "2026-06-14 23:49:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄總統助理烏沙科夫：美國特使威特科夫與庫什納即將前往俄羅斯。"
+    },
+    {
+      "id": "mkt:019ec6d2-96c1-7dd8-aff4-2f88371b9080",
+      "time": "2026-06-14 23:49:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Israeli strike on a suburb of Beirut killed three people, raising Lebanon's death toll to 3,783."
+    },
+    {
+      "id": "4934632",
+      "time": "2026-06-14 23:48:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄總統助理烏沙科夫稱，特朗普對普京的祝賀表示感動，向其致謝，並表示普京是當天首位致電他的外國領導人。"
+    },
+    {
+      "id": "mkt:019ec6d2-5b39-7dd8-aff4-26fde07bc738",
+      "time": "2026-06-14 23:48:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Russian media: Trump 'moved' by Putin birthday greeting, says Putin was first foreign leader to call】Russian media quoted Kremlin aide Yuri Ushakov saying President Trump was 'moved' by Putin's birthday congratulations and thanked him; Trump said Putin was the first foreign leader to call him that day."
+    },
+    {
+      "id": "4934631",
+      "time": "2026-06-14 23:48:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯：普京與特朗普通話】俄總統助理烏沙科夫表示，普京與特朗普通話，此次通話氛圍友好、交流坦誠，時長55分鐘。普京向特朗普送上80歲生日祝福，雙方還談及兩國代表後續可能開展的接觸事宜。"
+    },
+    {
+      "id": "mkt:019ec6d1-9fff-7dd8-aff4-1f59622f08db",
+      "time": "2026-06-14 23:48:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Russian media: Putin spoke by phone with Trump for 55 minutes】Russian presidential aide Yuri Ushakov said President Vladimir Putin spoke by phone with Donald Trump for 55 minutes; the call was friendly and candid. Putin congratulated Trump on his 80th birthday and they discussed possible contacts between their representatives."
+    },
+    {
+      "id": "4934630",
+      "time": "2026-06-14 23:47:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦國家電視：當地響起防空警報系裝置故障所致。"
+    },
+    {
+      "id": "mkt:019ec6d0-675f-7dd8-aff4-110f41e59143",
+      "time": "2026-06-14 23:46:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "The Kremlin said President Putin spoke by phone with U.S. President TRUMP today."
+    },
+    {
+      "id": "mkt:019ec6d0-1864-7dd8-aff4-0bf5c1aad566",
+      "time": "2026-06-14 23:46:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News Agency reported President PEZESHKIAN said he would abide by the system's final decision on negotiations even if his personal views differ."
+    },
     {
       "id": "mkt:019ec6cf-62b7-7dd8-aff4-01513a7d8043",
       "time": "2026-06-14 23:45:40",
@@ -168630,48 +168724,6 @@
         "其他"
       ],
       "text": "加拿大總理卡尼將訪問愛爾蘭和法國以加強與兩國的關係。"
-    },
-    {
-      "id": "4922080",
-      "time": "2026-06-07 23:49:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "鑑於黎巴嫩局勢的發展以及伊朗發出的宣告，以色列總理內塔尼亞胡預計將於週日晚些時候與國防部長卡茨和高階安全官員召開安全磋商會議。"
-    },
-    {
-      "id": "mkt:019ea2c6-376b-7ee0-86d0-c48cf6598c61",
-      "time": "2026-06-07 23:49:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Channel 15 reported Prime Minister Netanyahu and the defense minister met today to discuss an Iranian threat."
-    },
-    {
-      "id": "4922079",
-      "time": "2026-06-07 23:47:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達釋出航行通告，在多哈飛行情報區內啟用臨時備用航線，調整多哈、烏代德機場離場航線及通往巴林、達曼、阿聯酋等區域飛行情報區的航路。相關航司須按指定航線飛行，並留意周邊空域通告。該舉措6月7日至6月14日生效。"
-    },
-    {
-      "id": "4922078",
-      "time": "2026-06-07 23:46:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克南部一輛公共汽車與一輛卡車相撞，造成18人死亡。"
-    },
-    {
-      "id": "4922077",
-      "time": "2026-06-07 23:46:36",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國聯合航空CEO斯科特·柯比表示，儘管機票價格大幅上漲，高收入人群仍持續出行消費，這讓他相信高階航空產品的需求能夠頂住漲價壓力。"
     }
   ]
 }
