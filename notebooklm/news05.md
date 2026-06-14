@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-15 03:11:58_
-_本檔包含 3884 則快訊，約 661905 字_
+_更新時間：2026-06-15 04:00:08_
+_本檔包含 3848 則快訊，約 661896 字_
+
+---
+
+### 2026-06-09 08:43:54  #公司
+
+【芯原股份推動AV2在下一代影片與流媒體應用中商用落地】6月9日，芯原股份宣佈其VC9800D影片處理(VPU)IP已支援AV2解碼，進一步擴充套件了公司面向下一代影片與流媒體應用的先進影片編解碼IP組合。VC9800D支援在廣泛的智慧消費電子及多媒體裝置中靈活部署新一代影片技術。芯原已向全球多家客戶提供支援AV2的VC9800DIP，並基於正式釋出的AV2V1.0規範持續最佳化該IP。
+
+---
+
+### 2026-06-09 08:43:07  #市場
+
+【機構：銅價可能會在更長時間內保持強勢】銅價可能會在比Jefferies預期的更長時間內保持強勢。該機構預計，到2027年，倫敦金屬交易所(LME)銅價將升至每磅6.50美元，高於此前預測的每磅5.50美元。Jefferies預計，在2031-2032年，銅價將達到每磅8.00美元的峰值，而此前的假設為每磅6.50美元。“我們預計，到2030年底，銅的供應缺口平均每年將達到49.1萬噸，”Jefferies說。該機構指出，Grasberg礦的復甦出現延遲。”Kamoa-Kakula已調整為近期產量較低且成本較高，而智利4月份的產量是23年來最疲軟的，”Jefferies說。在白色家電和電動汽車中，金屬佔製造成本的25%。因此，銅/金屬價格上漲25%，將使總製造成本增加5%-6%，並使資料中心的建設成本增加3%。
+
+---
+
+### 2026-06-09 08:42:54  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Finds Support on Ceasefire Optimism — Silver held above $67 an ounce on Tuesday after Iran and Israel agreed to halt attacks against each other, alleviating fears of a wider escalation that raises energy-driven inflationary risks. President Donald Trump also said both sides were seeking an immediate ceasefire and that final negotiations were moving forward. Still, silver remained near its lowest level since late March as the dollar and Treasury yields rallied following stronger-than-expected US jobs data, reinforcing expectations that the Federal Reserve could raise interest rates by year-end. Markets are now pricing in more than a 40% chance of a quarter-point rate hike in December, up from around 14% a month ago. Investors are also awaiting US CPI and PPI data later this week for fresh signals on the Fed’s policy outlook.
+
+---
+
+### 2026-06-09 08:42:40  #國際
+
+【印尼預計其最終適用的美國301條款關稅稅率為18%】印尼經濟統籌部長艾爾朗加・哈爾塔託（Airlangga Hartarto）在宣告中表示，綜合各項關稅細則及已商定的產品豁免清單後，印尼預計美國最終加徵關稅稅率為18%。他稱，相較於美國其他眾多貿易伙伴，印尼目前所處形勢更為有利。18%僅為預估稅率，最終結果仍取決於美國後續法律及行政流程，包括公眾意見徵集與聽證會等環節。7月24日起，美國將正式開徵因涉強迫勞動問題設定的10%永久關稅；數週後，美方還會額外加徵針對結構性產能過剩的關稅。目前美方正為印尼紡織行業制定一項特殊應對機制。
+
+---
+
+### 2026-06-09 08:39:23  #其他
+
+【從嚴整治利用AI製作釋出涉軍虛假資訊，典型案例公佈】據中國軍網，2026年網路涉軍生態治理專項行動啟動以來，軍隊職能部門會同中央網信辦從嚴整治利用AI製作釋出涉軍虛假資訊，誤導公眾認知，損害軍隊形象問題，依法處置一批違法違規賬號。現將部分典型案例通報如下。
+
+一、利用AI編造虛假涉軍故事。網路賬號“楚晴”“黃仙1000芬挑戰”AI生成“孕婦哭訴丈夫執行軍事任務犧牲，求點贊轉發”故事引流起號。網路賬號“大龍麻麻”“豔子”AI生成“孩子吃了補品後個頭長高了，如願以償考上軍校”故事，編造涉軍噱頭為增高保健品廣告營銷。
+
+二、利用AI合成涉軍庸俗影片。網路賬號“厚積薄發”AI製作著軍裝影片，釋出“持槍瞄準拍攝者並威脅開槍”“軍人抱著立功證書熱舞”等內容。網路賬號“糖糖百貨鋪”AI製作“中國戰地記者在前線報道，求點贊”影片，誤導網民認知。
+
+三、利用AI醜化涉軍公眾人物。網路賬號“洺鋒”、快手號“瘋慘”AI製作國防部新聞發言人、“最美女飛行員”等軍隊人員的惡搞影片吸粉引流，損害軍隊軍人形象。
+
+---
+
+### 2026-06-09 08:38:59  #公司 #觀點 #國際
+
+【中金2026下半年展望：新能源車中游上行週期趨勢不改，基本面與新技術共振】中金公司釋出研報展望2026年下半年，結合需求和產能週期位置，中金公司認為本輪鋰電週期仍然處於上行趨勢中，各環節2026年下半年供需關係維持良性、部分環節有望趨緊，產業鏈利潤表有望持續修復；而隨著行業“反內卷”逐步推進，看好本輪鋰電景氣週期延續。供給釋放有限，2026年下半年供需關係仍有望保持良性。需求端，2026年下半年下游新能源車、儲能需求有望進入旺季，同時出口退稅退坡及美國風光IRA補貼退坡有望帶來出口搶裝。供給端，電池環節2026年三季度後頭部廠商新增產能將逐步釋放，但需求亦進入旺季，大部分新增供給或可得到利用，產能利用率或仍保持高位；材料環節2026年下半年新增供給較為有限，預計供需關係或持續改善；看好產業鏈2026年下半年景氣度延續。基本面拐點確立，2026年下半年利潤表有望持續修復。2026年第一季度鋰電產業鏈業績普遍迎高增，其中材料環節盈利修復彈性較顯著，電池環節受原材料漲價衝擊、單位盈利環比有所下降。2026年下半年中金公司認為產業鏈利潤表或將持續修復，電池環節順價落地疊加漲價帶來經營槓桿放大、盈利有望修復；材料環節供需仍呈改善趨勢，部分環節仍有望進入漲價通道，材料環節盈利彈性有望進一步釋放。新技術看好鈉電和固態電池產業化持續推進。固態電池相關技術持續迭代、固態電池上車開啟測試等，推動固態商業化程序加速。鈉電2026年邁入0—1規模化量產階段，在儲能、動力、啟停等場景逐步應用；後伴隨產業鏈規模降本、經濟性改善，中金公司預計鈉電滲透有望加速。
+
+---
+
+### 2026-06-09 08:38:50  #市場 #國際
+
+【日本財務大臣片山皋月：對當前匯率水平不予置評】日本財務大臣片山皋月表示，相信有可能在財政可持續性和提振經濟的措施之間取得平衡。片山拒絕就匯率水平置評，但她表示，隨時準備採取大力度外匯行動的立場未變。9日上午，日元兌美元匯率保持相對穩定，在160日元左右的低位徘徊。由於市場預期美國將加息，美元表現出韌性。
+
+---
+
+### 2026-06-09 08:38:29  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Rise on Tech Rebound — The Nikkei 225 Index climbed 0.5% to above 64,300, while the broader Topix Index advanced 0.9% to 3,886 on Tuesday, as Japanese equities snapped a three-day losing streak amid a rebound in technology and artificial intelligence stocks. Domestic markets also took cues from Wall Street's overnight gains, with chipmakers recovering strongly after Friday’s selloff. Leading tech and AI performers included Kioxia Holdings (+2.6%), Tokyo Electron (+7.5%), Murata Manufacturing (+2.9%), Taiyo Yuden (+4.8%), and Advantest (+2.4%). Meanwhile, investors continued to expect the Bank of Japan to raise interest rates later this month as policymakers grapple with persistent inflation. On the geopolitical front, Iran and Israel agreed to halt attacks against each other, easing concerns that a broader conflict could intensify energy-driven inflationary pressures.
+
+---
+
+### 2026-06-09 08:36:45  #市場
+
+納斯達克100指數下跌0.5%。
+
+---
+
+### 2026-06-09 08:35:38  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japanese 10-year government bond yield rose 2.5 bps to 2.740%.
+
+---
+
+### 2026-06-09 08:35:21  #市場 #國際
+
+日本10年期國債收益率上升2.5個基點，至2.740%。
+
+---
+
+### 2026-06-09 08:34:34  #國際
+
+日本財務大臣片山皋月：我們正經歷戰後最大規模的預算改革。
+
+---
+
+### 2026-06-09 08:33:54  #市場
+
+現貨白銀日內跌1%，現報67.45美元/盎司。
+
+---
+
+### 2026-06-09 08:33:39  #國際
+
+日本財務大臣片山皋月：如遇不可預見的情況，將制定追加預算。
+
+---
+
+### 2026-06-09 08:33:16  #國際
+
+日本財務大臣片山皋月：對當前匯率水平“不予置評”。
+
+---
+
+### 2026-06-09 08:33:07  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan's finance minister KATAYAMA said readiness to take decisive action remains unchanged.
+
+---
+
+### 2026-06-09 08:32:54  #MKT News #Commodities #Precious Metals
+
+Spot silver fell 1.00% intraday to $67.47/oz.
+
+---
+
+### 2026-06-09 08:32:44  #國際
+
+日本財務大臣片山皋月：我們對隨時準備採取果斷行動的立場沒有改變。
+
+---
+
+### 2026-06-09 08:32:22  #國際
+
+美國聯邦航空管理局警告稱，由於人員配備不足，芝加哥奧黑爾機場可能出現延誤。
+
+---
+
+### 2026-06-09 08:31:52  #市場
+
+【SpaceX首次公開募股獲大幅超額認購 多家機構提交百億美元級訂單】根據知情人士透露，SpaceX的首次公開募股獲得大幅超額認購，多家機構投資者提交了約100億美元或以上的認購訂單，市場對這場有望創下紀錄的發行需求強勁。部分知情人士透露，主導此次發行的銀行預計將於紐約時間週三下午4點美股收盤後停止接受機構投資者的訂單。由於相關資訊尚未公開，知情人士要求匿名。
+
+---
+
+### 2026-06-09 08:31:39  #國際
+
+美國副總統JD·萬斯批評英國移民政策。
+
+---
+
+### 2026-06-09 08:31:33  #MKT News
+
+Japan's finance minister Katayama said a balance can be struck between fiscal sustainability and measures to support the economy.
+
+---
+
+### 2026-06-09 08:30:54  #MKT News
+
+Korea Exchange activated a temporary buy-side suspension mechanism on the KOSDAQ; program trading halted for five minutes.
+
+---
+
+### 2026-06-09 08:30:24  #MKT News #DXY #Impact bullish
+
+Australia June Westpac/Melbourne consumer confidence index 80.6, previous 83.0.
+
+---
+
+### 2026-06-09 08:30:17  #MKT News #Economic Calendar #Important
+
+Australia | Westpac/Melbourne Institute Consumer Sentiment Index (Jun) | actual 80.6 | previous 83
+
+---
+
+### 2026-06-09 08:30:06  #MKT News #AUDUSD #Impact bearish
+
+Australia Westpac–Melbourne Institute consumer confidence (MoM) -2.9% in June; prior +3.5%.
+
+---
+
+### 2026-06-09 08:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Jun) | actual -2.9% | previous 3.50%
+
+---
+
+### 2026-06-09 08:29:51  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Edge Lower After Tech-Led Rebound — US stock futures eased on Tuesday after the S&P 500 and Nasdaq Composite opened the week higher, supported by a rebound in technology shares. In regular trading on Monday, the S&P 500 and Nasdaq Composite gained 0.3% and 0.86%, respectively, recovering part of the previous session’s losses, while the Dow slipped 0.16%. Technology, energy, and consumer discretionary stocks led the advance, whereas utilities, real estate, and materials underperformed. Chipmakers drove much of the rally, with shares of Micron Technology (+9.9%), Nvidia (+1.7%), Marvell Technology (+9.6%), Intel (+11.2%), and Advanced Micro Devices (+5.1%) posting solid gains. Investors are now awaiting earnings reports from Casey’s General Stores, J.M. Smucker, and Designer Brands, among others, due Tuesday. Later this week, the latest US CPI and PPI data will offer further insight into the Federal Reserve’s interest rate outlook.
 
 ---
 
@@ -23018,389 +23192,5 @@ Trump said he was not satisfied with Israel's attack on Beirut earlier today.
 ### 2026-06-08 04:00:34  #國際
 
 市場資訊：伊朗官員認為，特朗普無意捲入更大規模衝突，且決意不惜一切代價結束戰事。
-
----
-
-### 2026-06-08 03:59:56  #國際
-
-伊朗官方通訊社：伊朗西部空域已關閉，直至另行通知。
-
----
-
-### 2026-06-08 03:59:35  #MKT News
-
-Jordan's state television reports alarm sirens sounded in parts of the country.
-
----
-
-### 2026-06-08 03:59:28  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Iran supreme leader military adviser says Iran will not tolerate ceasefire violations】On the evening of the 7th, Iran supreme leader military adviser Rezai said Iran will not tolerate any violations of the ceasefire or aggression against Lebanon, and warned further actions would prompt harsher reprisals and heavier costs. Earlier the same evening the Israeli military said it detected multiple missiles launched from Iran toward Israel, triggering air-raid sirens across the country; an IDF spokesman said all missiles had been intercepted. Israeli sources said about 10 missiles were fired.
-
----
-
-### 2026-06-08 03:59:23  #國際
-
-【伊朗武裝部隊警告：或對以色列採取進一步行動】據伊朗媒體報道，伊朗武裝部隊哈塔姆安比亞中央司令部司令7日晚發表宣告，警告以色列立即停止對黎巴嫩南部和首都貝魯特南郊的襲擊，否則伊朗將針對以色列及其支持者採取更強烈的行動。伊朗當晚向以色列發射導彈，以回應以色列在黎巴嫩擴大軍事行動。伊朗外交部長阿拉格齊在社交媒體上釋出一張伊朗和黎巴嫩國旗“肩並肩”的照片。（新華社）
-
----
-
-### 2026-06-08 03:59:02  #國際
-
-以色列軍方表示，目前已允許民眾離開該國所有區域的庇護場所，這標誌著伊朗導彈威脅已經解除。
-
----
-
-### 2026-06-08 03:58:43  #國際
-
-特朗普：以色列此前的襲擊行動並未與美方協同。
-
----
-
-### 2026-06-08 03:57:33  #其他
-
-伊拉克宣佈關閉該國領空。
-
----
-
-### 2026-06-08 03:57:20  #MKT News
-
-Trump: airstrikes will not help successful negotiations.
-
----
-
-### 2026-06-08 03:57:03  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-President Trump said the US military is on alert.
-
----
-
-### 2026-06-08 03:55:14  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-US President Trump said the US is close to reaching a deal and that a signing he had expected on Monday, Tuesday or Wednesday is now taking place.
-
----
-
-### 2026-06-08 03:54:59  #焦點 #國際
-
-【伊朗為黎巴嫩對以色列發動打擊】伊朗伊斯蘭革命衛隊當地時間6月7日深夜發宣告稱，為回應以色列在黎巴嫩南部犯下的罪行、以軍對黎巴嫩南部提爾等地和包括首都貝魯特南郊在內的其他地區人民的大規模殺戮，革命衛隊航空航天部隊對以色列北部的拉馬特·大衛空軍基地發動了彈道導彈襲擊。革命衛隊表示，這僅僅是一次警告，如果以色列的侵略行為再次發生，伊朗回應的範圍將更加廣泛，並將涵蓋該地區所有美以目標。（CCTV國際時訊）
-
----
-
-### 2026-06-08 03:54:44  #MKT News
-
-U.S. President Trump said he had told Iran its missile launches were sufficient and urged Tehran to return to the negotiating table to reach an agreement.
-
----
-
-### 2026-06-08 03:54:19  #其他
-
-慕尼黑機場：德國空中交通管制局（DFS）已暫停所有航班運營，恢復時間另行通知。
-
----
-
-### 2026-06-08 03:54:14  #焦點 #國際
-
-特朗普談及伊朗：美軍已處於戒備狀態。
-
----
-
-### 2026-06-08 03:54:05  #國際
-
-伊朗高階訊息人士：如果以色列發動襲擊，美國在該地區的所有軍事基地都將被德黑蘭視為合法打擊目標。
-
----
-
-### 2026-06-08 03:53:41  #其他
-
-慕尼黑機場：因檢測到煙霧異味，慕尼黑機場塔臺於當晚8點33分完成人員疏散。
-
----
-
-### 2026-06-08 03:53:19  #國際
-
-特朗普：我原本就說和平協議會在週一、週二或週三簽署，現在這事（指伊朗局勢突變）就發生了。
-
----
-
-### 2026-06-08 03:52:56  #其他
-
-慕尼黑機場：航班運營臨時暫停。
-
----
-
-### 2026-06-08 03:52:49  #市場
-
-美元兌日元大致持穩，週一悉尼盤初報價160.30日元，此前低開至160.04日元。
-
----
-
-### 2026-06-08 03:51:19  #國際
-
-伊朗高階訊息人士：伊朗將以更大力度回擊以色列的任何襲擊。
-
----
-
-### 2026-06-08 03:50:24  #國際
-
-【伊朗副外長：伊朗海外資產不是華盛頓的戰利品】伊朗外交部副部長加里巴巴迪7日在社交媒體發文，回應有關美國可能動用伊朗被凍結資產補償部分地區盟友損失的報道，稱此舉“不可接受”，強調伊朗海外資產“既不是華盛頓的戰爭戰利品，也不是支付給其盟友的資金”。加里巴巴迪說，美國作為針對伊朗軍事行動的主要參與方，如果真正討論賠償問題，美方應承擔自身責任及其盟友在當前地區衝突中的責任。那些向針對伊朗的軍事行動提供領土或設施支援的地區國家，無權要求賠償。他還表示，伊朗海外資產屬於伊朗國家財產，任何未經伊朗政府同意而對相關資產進行扣押、轉移或重新分配的行為，都將被伊方視為新的國際不法行為，並可能引發相應後果。加里巴巴迪最後強調，伊朗將繼續維護國家資產和人民權益，追究相關國家和個人的國際責任，要求就其敵對軍事行動給伊朗造成損失作出全面賠償。（新華社）
-
----
-
-### 2026-06-08 03:50:02  #國際
-
-特朗普：（伊朗應該）回到談判桌前，達成協議。
-
----
-
-### 2026-06-08 03:49:41  #焦點 #國際
-
-特朗普：我對伊朗的建議是，你們已經發射導彈了，到此為止吧。
-
----
-
-### 2026-06-08 03:47:06  #焦點 #國際
-
-伊朗革命衛隊：停火協議的生效是以各方在所有戰線停火為前提的，但美國和以色列並未遵守其承諾。
-
----
-
-### 2026-06-08 03:46:10  #焦點 #國際
-
-伊朗革命衛隊：此次襲擊是一次警告，若侵略行為再次發生，我方的回應範圍將進一步擴大，覆蓋該地區所有美以目標。
-
----
-
-### 2026-06-08 03:45:45  #國際
-
-以色列訊息人士：以色列將對伊朗展開報復。
-
----
-
-### 2026-06-08 03:44:33  #國際
-
-伊朗稱向以色列發射導彈是警告。
-
----
-
-### 2026-06-08 03:44:11  #國際
-
-伊朗革命衛隊：以色列拉馬特大衛空軍基地遭彈道導彈打擊。
-
----
-
-### 2026-06-08 03:41:50  #國際
-
-【以軍空襲加沙致9死數十傷】據巴勒斯坦加沙地帶民防和醫療部門訊息，以色列國防軍7日下午分別對加沙地帶南部汗尤尼斯地區和北部加沙城發動空襲，造成至少9人死亡，數十人受傷。
-
----
-
-### 2026-06-08 03:39:42  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israeli military intercepting missiles fired by Iran; air-raid sirens across north】Israeli military said it was intercepting missiles fired by Iran toward northern Israel, with air-raid sirens sounding across Haifa and the Sea of Galilee and civil-defense authorities ordering residents to shelters. The Israeli Air Force said it was carrying out intercept and strike operations to eliminate the threat; Channel 12 reported four missiles. The military later reported a new wave of incoming missiles and said air-defence systems were intercepting.
-
----
-
-### 2026-06-08 03:38:11  #MKT News #Important #DXY #Impact bullish #XAUUSD
-
-Sky News Arabic reports Israeli authorities are considering closing Israeli airspace and Ben-Gurion Airport in the near term.
-
----
-
-### 2026-06-08 03:36:55  #MKT News #Important
-
-Israeli military said all missiles launched from Iran have been intercepted to date.
-
----
-
-### 2026-06-08 03:36:31  #國際
-
-以色列軍方稱已檢測到另有火箭彈向以色列發射。
-
----
-
-### 2026-06-08 03:36:09  #國際
-
-以色列軍方表示，迄今為止已攔截所有從伊朗發射的導彈。
-
----
-
-### 2026-06-08 03:35:12  #MKT News
-
-Jordanian state television reported alarms sounding in parts of the country.
-
----
-
-### 2026-06-08 03:34:27  #MKT News #Important #WTI #Impact bullish #Brent
-
-According to Walla reporter Adamker, Israel is reportedly seeking US permission to strike Iranian energy facilities.
-
----
-
-### 2026-06-08 03:34:14  #其他
-
-約旦國家電視臺：約旦部分地區已拉響警報。
-
----
-
-### 2026-06-08 03:33:53  #國際
-
-以色列緊急救援部門：目前尚無人員傷亡。
-
----
-
-### 2026-06-08 03:33:28  #國際
-
-以色列尋求美國批准對伊朗能源設施發動襲擊。
-
----
-
-### 2026-06-08 03:32:34  #MKT News
-
-Israel's Transport Ministry says Israeli airspace remains open.
-
----
-
-### 2026-06-08 03:32:23  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Israeli media, citing security sources, report Israel will respond to Iran.
-
----
-
-### 2026-06-08 03:31:14  #焦點 #國際
-
-以色列交通部：以色列領空目前仍保持開放。
-
----
-
-### 2026-06-08 03:31:06  #公司
-
-全日空公司執行長表示，該公司仍預計在2027財年接收推遲已久的波音777X飛機。
-
----
-
-### 2026-06-08 03:30:57  #公司
-
-全日空執行長表示，如果波音777X機型交付延誤，航司將推遲現有飛機的退役計劃，因此不會對運營造成影響。
-
----
-
-### 2026-06-08 03:30:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Supreme Leader adviser Mohsen Rezaee said Iran has repeatedly warned it will not tolerate ceasefire violations or attacks on Lebanon, and that the aggressor received a response tonight.
-
----
-
-### 2026-06-08 03:29:08  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-According to Axios, U.S. President Trump has been briefed on escalation in Israel‑Iran tensions.
-
----
-
-### 2026-06-08 03:28:36  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Hezbollah said it attacked Israeli forces with drones and missiles.
-
----
-
-### 2026-06-08 03:28:26  #國際
-
-伊朗革命衛隊此前曾表示，若以色列襲擊貝魯特，就會重啟對以色列的打擊行動。
-
----
-
-### 2026-06-08 03:28:06  #MKT News #DXY #Impact bullish #XAUUSD #Brent
-
-A third wave of ballistic missiles was launched from Iran toward northern Israel.
-
----
-
-### 2026-06-08 03:26:47  #國際
-
-伊朗最高領袖顧問穆赫辛·禮薩伊：伊朗已多次警告，不會容忍違反停火協議的行為以及針對黎巴嫩的襲擊；侵略者今夜已得到回應。
-
----
-
-### 2026-06-08 03:26:42  #焦點 #國際
-
-特朗普已聽取有關以色列與伊朗局勢升級的簡報。
-
----
-
-### 2026-06-08 03:26:33  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel’s national security minister Itamar Ben-Gvir: "Tehran must burn tonight."
-
----
-
-### 2026-06-08 03:26:25  #國際
-
-【以軍正在攔截伊朗來襲導彈 多地拉響防空警報】以色列國防軍7日晚說，以軍正在攔截伊朗向以色列北部發射的導彈。以色列北部多個地區拉響防空警報。新華社記者手機安裝的預警系統顯示，以色列北部海法及加利利湖周邊大片地區響起防空警報。民防部門要求當地民眾進入避難場所。以軍說，以色列空軍正在執行攔截和打擊行動以消除威脅。以色列第12頻道電視臺報道，有4枚導彈射向以色列。以軍稍後說，監測到新一輪導彈來襲，防空系統正在攔截。（新華社）
-
----
-
-### 2026-06-08 03:25:43  #國際
-
-真主黨表示，已動用無人機和導彈襲擊以色列軍隊。
-
----
-
-### 2026-06-08 03:25:19  #國際
-
-伊朗向以色列發起第三輪導彈襲擊。
-
----
-
-### 2026-06-08 03:22:13  #國際
-
-一位以色列高階官員表示，以色列將對伊朗的導彈襲擊作出回應，但未提供更多細節。
-
----
-
-### 2026-06-08 03:21:18  #國際
-
-伊朗革命衛隊表示，以色列軍方必須停止對黎巴嫩的進攻；若以方擴大進攻範圍，或是對伊朗的行動採取反擊，將面臨“更具毀滅性、追悔莫及的打擊”。
-
----
-
-### 2026-06-08 03:21:09  #國際
-
-【伊朗時隔兩個月再襲以色列】當地時間6月7日晚，北京時間今天（6月8日）凌晨，以色列軍方發表宣告稱，監測到伊朗向以色列發射兩輪導彈，以色列全國多地拉響防空警報。以軍表示，目前以色列空軍正在實施攔截，並將“在必要時對相關威脅予以打擊以徹底消除危險”。宣告特別強調，以軍防空攔截系統並非“萬無一失”，因此軍方要求公眾務必保持警惕，並繼續嚴格遵守以軍本土守備司令部發布的各項安全防範指南。 以軍本土守備司令部則最新發布了更為嚴格的民防指南，宣佈全國範圍內禁止一切教育活動。此外，公眾集會活動也受到嚴格限制：室外聚集人數不得超過200人，室內聚集人數上限為500人。
-
----
-
-### 2026-06-08 03:20:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps said the Israeli military must stop attacks on Lebanon and warned that any expansion of strikes or any Israeli response to Iranian actions would face "more destructive and more regrettable strikes."
-
----
-
-### 2026-06-08 03:18:31  #國際
-
-針對以色列襲擊黎巴嫩首都貝魯特的行為，伊朗當晚發射彈道導彈予以反擊。此後，伊朗外交部長阿拉格齊發布了一張伊朗與黎巴嫩兩國國旗的拼接圖片。
-
----
-
-### 2026-06-08 03:18:25  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【IDF says it detected Iranian missile launches; air defenses activated, sirens across Israel】Local time on the evening of the 7th, the Israel Defense Forces said it detected missiles launched from Iran toward Israel. Israeli air-defence systems have been activated and are intercepting the threats; air-raid sirens sounded across multiple regions. The IDF said its rear command sent precautionary safety instructions to civilians’ mobile phones within minutes. Explosions were reported in central Israel. Iran has not yet commented.
-
----
-
-### 2026-06-08 03:16:52  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-The Israeli military said it detected a second wave of missiles launched from Iran toward Israel.
-
----
-
-### 2026-06-08 03:16:41  #國際
-
-伊朗媒體稱，初步訊息顯示第二波導彈已射向以色列。
-
----
-
-### 2026-06-08 03:12:08  #國際
-
-伊朗民眾慶祝針對以色列的導彈襲擊。
 
 ---

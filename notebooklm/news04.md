@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-15 03:11:58_
-_本檔包含 3568 則快訊，約 662606 字_
+_更新時間：2026-06-15 04:00:08_
+_本檔包含 3568 則快訊，約 662326 字_
+
+---
+
+### 2026-06-10 11:17:41  #市場 #焦點
+
+氧化鋁連續主力合約日內漲3%，現報2891.00元。
+
+---
+
+### 2026-06-10 11:17:02  #MKT News #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【Five agencies issue notice to deepen transfer-with-mortgage reform, cut corporate bridge funding costs】The Ministry of Natural Resources, together with the Ministry of Public Security, State Taxation Administration, SAMR and the National Financial Regulatory Administration, jointly issued a notice to streamline registration for corporate real estate acquisitions, deepen transfer-with-mortgage reforms and reduce firms’ bridge financing costs. The notice calls for flexible, location‑specific models, including combining transfer and mortgage registration to enable seamless rollover of new loans to repay old loans; promoting cross‑bank implementation of transfer-with-mortgage procedures; and encouraging advance notice (pre‑registration) to prevent gaps in mortgage rights. It instructs protection of legal rights for buyers, sellers and incumbent and incoming lenders and emphasizes safeguarding financial stability.
+
+---
+
+### 2026-06-10 11:16:03  #其他
+
+【五部門發文：深化“帶押過戶”改革，降低企業“過橋”資金成本】近日，自然資源部會同公安部、國家稅務總局、國家市場監督管理總局、國家金融監督管理總局聯合印發《關於做好企業購置不動產轉移登記“高效辦成一件事”的通知》（以下簡稱《通知》）。《通知》聚焦企業購置不動產轉移登記全流程，深化“帶押過戶”改革，降低企業“過橋”資金成本。《通知》指出，要因地制宜靈活採取多種模式，透過合併辦理轉移登記與抵押登記，實現借新貸與還舊貸無縫銜接。推動跨銀行業金融機構“帶押過戶”。鼓勵地方引入預告登記，防止抵押權懸空風險，維護買賣企業雙方、新舊銀行等各方當事人合法權益，保障金融安全。
+
+---
+
+### 2026-06-10 11:16:02  #MKT News #XAUUSD #Impact bullish #DXY
+
+Afghan Taliban spokesman said a Pakistani airstrike killed at least 13 people and injured 14.
+
+---
+
+### 2026-06-10 11:16:00  #國際
+
+泡泡瑪特營運長表示，目前其在美國的收入有一半來自非Labubu產品。
+
+---
+
+### 2026-06-10 11:13:50  #其他
+
+【港股科網股反彈，美團-W漲超3%】港股科網股反彈，美團-W、快手-W漲超3%，騰訊控股漲超2%，嗶哩嗶哩-W漲超1%。
+
+---
+
+### 2026-06-10 11:12:52  #國際
+
+【約旦稱攔截伊朗發射的導彈】路透社今天（6月10日）援引約旦武裝部隊的訊息稱，約旦攔截並擊落了從伊朗向阿茲拉克發射的五枚導彈。導彈被攔截後的碎片墜落，目前暫沒有人員傷亡或財產損失的報道。 伊朗伊斯蘭革命衛隊當地時間今天（6月10日）凌晨發宣告稱，襲擊了約旦境內的阿茲拉克美軍基地。（CCTV國際時訊）
+
+---
+
+### 2026-06-10 11:12:08  #公司
+
+【優思益營銷策劃方公司擬登出】天眼查經營風險資訊顯示，近日，杭州索象營銷策劃有限公司新增一則登出備案公告，登出原因為決議解散。該公司成立於2013年12月，法定代表人為程方，註冊資本100萬人民幣，經營範圍包括市場營銷策劃、影視策劃諮詢、商務資訊諮詢等，由盧永峰、盧建鋒共同持股。據報道，此前，“澳洲進口”保健品優思益被曝光存在原產地造假、虛假宣傳等問題，負責其營銷策劃的該公司也被曝光，其透過花錢聘請所謂專家背書、花費2-3萬元購買國際獎項的方式，為優思益打造“高階進口”形象。
+
+---
+
+### 2026-06-10 11:12:01  #公司
+
+【鴻博股份等在北京成立智算雲聯科技公司，註冊資本1000萬】天眼查App顯示，近日，北京鴻博智算雲聯科技有限公司成立，法定代表人為李寧，註冊資本1000萬人民幣，經營範圍包括軟體開發、人工智慧理論與演算法軟體開發、人工智慧應用軟體開發、網路與資訊保安軟體開發等。股東資訊顯示，該公司由鴻博股份、北京卓維數智科技發展中心（有限合夥）、上海雲程聚信企業管理合夥企業（有限合夥）共同持股。
+
+---
+
+### 2026-06-10 11:10:28  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. officials said the United States struck nearly 20 targets in Iran.
+
+---
+
+### 2026-06-10 11:10:17  #公司
+
+【眾擎機器人等在上海成立機器人科技公司】企查查APP顯示，近日，申擎機器人科技（上海）有限公司成立，法定代表人為張穎，註冊資本為1000萬元，經營範圍包含：智慧機器人的研發；智慧機器人銷售；工業機器人銷售；工業機器人制造；人工智慧雙創服務平臺等。企查查股權穿透顯示，該公司由上海市寶山區顧村工業公司、深圳眾擎機器人科技股份有限公司共同持股。
+
+---
+
+### 2026-06-10 11:09:55  #公司 #市場
+
+【東方財富策略陳果點評A股市場回撥：抓住難得機遇，積極佈局中國股市新一輪上升行情】 陳果表示：“當前A股指數已從前期4259高點調整了三百多點，首先無論後續外部如何動盪，我認為戰略上都不能再看空大A，反過來，我認為未來一個季度，指數上漲空間將遠遠大於下跌空間，後續應該先積極尋找結構做多方向。”陳果認為，後續A股風格結構不會再像5月那麼極致，下一輪上升行情風格將更加平衡。在科技股中，傾向去偽存真，精選 “營收盈利增速今年不會見頂+市值未透支其在產業與經濟中地位+中報有望好於市場樂觀預期+明年盈利預期不會下修” 的優質中國AI產業鏈公司， 同時，特別看好下半年Ａ股碳基龍頭股的表現，重點看好A股港股的新老能源、金融地產、新消費和網際網路龍頭資產，認為其有望迎來系統性重估機會。
+
+---
+
+### 2026-06-10 11:09:37  #國際
+
+一名美國官員稱，美國襲擊了伊朗境內近20個目標。
+
+---
+
+### 2026-06-10 11:09:30  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #DXY
+
+US officials say a preliminary assessment indicates nearly all missiles and drones launched by Iran were intercepted. There are no reports of US personnel injured or known damage to US facilities.
+
+---
+
+### 2026-06-10 11:09:17  #國際
+
+美國官員根據初步評估表示，伊朗發射的幾乎所有導彈和無人機都已被攔截。
+
+---
+
+### 2026-06-10 11:09:11  #國際
+
+美國官員表示，目前未收到任何關於美方人員受到傷害或美國設施遭遇已知損毀的報告。
+
+---
+
+### 2026-06-10 11:08:16  #MKT News
+
+Hong Kong internet and tech names rallied amid choppy trading; Meituan (03690.HK), Tencent Holdings (00700.HK) and NetEase-S (09999.HK) gained over 3%, while JD Health (06618.HK), Bilibili (09626.HK) and Tencent Music (01698.HK) also advanced.
+
+---
+
+### 2026-06-10 11:08:02  #MKT News #Market Regions #Greater China
+
+【China Taiwan Affairs Office says preparations for 18th Straits Forum basically ready】The Taiwan Affairs Office of the State Council said the 18th Straits Forum will be held on June 13 in Xiamen. Kuomintang vice chairman Zhang Ronggong and other representatives from Taiwan are expected to attend. The office said preparations are basically complete, with forum activities rolling out across Fujian; the event will emphasize grassroots and youth engagement and aims to extend the benefits of cross‑strait integration to a broader range of people.
+
+---
+
+### 2026-06-10 11:07:45  #市場
+
+SK海力士股價跌幅擴大；最新報211.1萬韓元，下跌4.7%
+
+---
+
+### 2026-06-10 11:07:03  #公司
+
+聯想集團(00992.HK)跌超10%。
+
+---
+
+### 2026-06-10 11:06:58  #國際
+
+【美公佈“阿耳忒彌斯3號”任務宇航員名單】美國航空航天局9日公佈執行“阿耳忒彌斯3號”任務的4名宇航員名單，包括3名美國宇航員和1名來自義大利的歐洲航天局宇航員。執行此次任務的宇航員分別是：擔任指令長的美航空航天局宇航員蘭迪·佈雷斯尼克，擔任飛行員的歐航局宇航員盧卡·帕爾米塔諾，以及擔任任務專家的美航空航天局宇航員安德烈·道格拉斯和弗蘭克·魯比奧。美航空航天局宇航員鮑勃·海因斯被指定為任務後備宇航員。“阿耳忒彌斯3號”任務計劃2027年實施，屆時美國新一代登月火箭“太空發射系統”將搭載4名宇航員的“獵戶座”飛船送入近地軌道。預計宇航員將在太空停留約兩週，他們將在近地軌道開展飛船與商業載人登月系統的交會對接等關鍵技術驗證，為後續“阿耳忒彌斯4號”載人登月任務做準備。
+
+---
+
+### 2026-06-10 11:06:43  #MKT News #00992.HK #Impact bearish
+
+Lenovo Group (00992.HK) fell more than 10%.
+
+---
+
+### 2026-06-10 11:06:36  #公司 #市場
+
+【電子特氣概念持續走高 雅克科技等多股漲停】電子特氣概念持續走高，雅克科技封漲停，此前和遠氣體、昊華科技、杭氧股份漲停，中船特氣漲超10%，巨化股份、中泰股份、矽烷科技、凱美特氣均漲超6%。
+
+---
+
+### 2026-06-10 11:06:11  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Equities Jump for Second Day, Fuel Price Hike Caps Mood — Indonesian shares surged 149 points, or 2.6%, to 5,895 on Wednesday morning deals, extending the prior session’s rally amid broad gains across major sectors. The local market moved further off last week’s six-year low as investors welcomed Bank Indonesia’s surprise 25bp hike to 5.5% on Tuesday, aimed at stabilising the rupiah after repeated record lows. Investor confidence was also reinforced by sovereign wealth fund Danantara’s pledge not to take profit margins on strategic commodity exports and to honor existing contracts under the new centralization framework. In top trading partner China, May inflation held steady at 1.2%, reflecting stable consumer demand. However, sentiment was tempered by a 32% jump in domestic non-subsidized fuel prices, effective today, as energy-import costs rise amid elevated global crude and a weaker currency. Standout performers included Barito Pacific (14.2%), Bank Negara Indonesia (8.6%), Bank Central Asia (7.3%), and Pertamina Geothermal (4.2%).
+
+---
+
+### 2026-06-10 11:05:42  #宏觀
+
+【國臺辦：第十八屆海峽論壇各項籌備工作基本就緒】6月10日，國務院臺辦舉行例行新聞釋出會。有記者問：第十八屆海峽論壇即將召開，請介紹有關籌備進展情況，請問有哪些臺灣嘉賓將出席本屆海峽論壇？發言人張晗表示，第十八屆海峽論壇大會將於6月13日在廈門舉辦，中國國民黨副主席張榮恭等臺灣各界代表人士將出席大會。目前，論壇各項籌備工作基本就緒，論壇系列活動在福建各地陸續開展。本屆論壇持續關注、服務基層和青年群體，讓兩岸融合發展成果惠及更多兩岸同胞。（央視新聞）
+
+---
+
+### 2026-06-10 11:05:21  #公司
+
+CLEAN MAX：兩公司將合作開發837兆瓦新的太陽能和風能發電容量。
+
+---
+
+### 2026-06-10 11:04:21  #其他
+
+CLEAN MAX：與META合作建設900兆瓦可再生能源發電容量。
+
+---
+
+### 2026-06-10 11:03:59  #MKT News
+
+Jordan's Armed Forces said they intercepted and shot down five missiles launched from Iran and headed toward Azraq, state television reported. Debris fell after the intercepts; no casualties or damage were reported.
 
 ---
 
@@ -21316,179 +21484,5 @@ Decision Desk HQ預測，獲特朗普背書的共和黨人史蒂夫·希爾頓�
 ### 2026-06-09 08:44:40  #市場 #國際
 
 【特朗普支援率仍接近歷史低點 大多數美國人預計油價將繼續上漲】據路透/益普索(Ipsos) 週一完成的一項民調顯示，近日美國總統特朗普的支援率維持在其政治生涯的最低水平附近，大多數美國人稱在伊朗戰爭背景下，他們預計汽油價格將繼續上漲。約35%的受訪者表示認可特朗普在白宮的表現，與5月中旬進行的上一輪路透/益普索民調持平。該數字僅略高於其本屆任期內的最低支援率——4月民調中的34%——同時也接近其2017年12月創下的第一任期最低紀錄33%。近幾個月來，特朗普因決定對伊朗開戰而面臨廣泛不滿，此舉導致汽油價格飆升。儘管隨著市場押注伊朗衝突將結束，近幾周加油站油價略有回落，但這項為期六天的民調顯示，約59%的受訪者預計未來一年美國汽油價格將進一步上漲，而認為價格會好轉的僅佔17%。其餘受訪者表示不確定或認為價格將保持不變。
-
----
-
-### 2026-06-09 08:43:54  #公司
-
-【芯原股份推動AV2在下一代影片與流媒體應用中商用落地】6月9日，芯原股份宣佈其VC9800D影片處理(VPU)IP已支援AV2解碼，進一步擴充套件了公司面向下一代影片與流媒體應用的先進影片編解碼IP組合。VC9800D支援在廣泛的智慧消費電子及多媒體裝置中靈活部署新一代影片技術。芯原已向全球多家客戶提供支援AV2的VC9800DIP，並基於正式釋出的AV2V1.0規範持續最佳化該IP。
-
----
-
-### 2026-06-09 08:43:07  #市場
-
-【機構：銅價可能會在更長時間內保持強勢】銅價可能會在比Jefferies預期的更長時間內保持強勢。該機構預計，到2027年，倫敦金屬交易所(LME)銅價將升至每磅6.50美元，高於此前預測的每磅5.50美元。Jefferies預計，在2031-2032年，銅價將達到每磅8.00美元的峰值，而此前的假設為每磅6.50美元。“我們預計，到2030年底，銅的供應缺口平均每年將達到49.1萬噸，”Jefferies說。該機構指出，Grasberg礦的復甦出現延遲。”Kamoa-Kakula已調整為近期產量較低且成本較高，而智利4月份的產量是23年來最疲軟的，”Jefferies說。在白色家電和電動汽車中，金屬佔製造成本的25%。因此，銅/金屬價格上漲25%，將使總製造成本增加5%-6%，並使資料中心的建設成本增加3%。
-
----
-
-### 2026-06-09 08:42:54  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Finds Support on Ceasefire Optimism — Silver held above $67 an ounce on Tuesday after Iran and Israel agreed to halt attacks against each other, alleviating fears of a wider escalation that raises energy-driven inflationary risks. President Donald Trump also said both sides were seeking an immediate ceasefire and that final negotiations were moving forward. Still, silver remained near its lowest level since late March as the dollar and Treasury yields rallied following stronger-than-expected US jobs data, reinforcing expectations that the Federal Reserve could raise interest rates by year-end. Markets are now pricing in more than a 40% chance of a quarter-point rate hike in December, up from around 14% a month ago. Investors are also awaiting US CPI and PPI data later this week for fresh signals on the Fed’s policy outlook.
-
----
-
-### 2026-06-09 08:42:40  #國際
-
-【印尼預計其最終適用的美國301條款關稅稅率為18%】印尼經濟統籌部長艾爾朗加・哈爾塔託（Airlangga Hartarto）在宣告中表示，綜合各項關稅細則及已商定的產品豁免清單後，印尼預計美國最終加徵關稅稅率為18%。他稱，相較於美國其他眾多貿易伙伴，印尼目前所處形勢更為有利。18%僅為預估稅率，最終結果仍取決於美國後續法律及行政流程，包括公眾意見徵集與聽證會等環節。7月24日起，美國將正式開徵因涉強迫勞動問題設定的10%永久關稅；數週後，美方還會額外加徵針對結構性產能過剩的關稅。目前美方正為印尼紡織行業制定一項特殊應對機制。
-
----
-
-### 2026-06-09 08:39:23  #其他
-
-【從嚴整治利用AI製作釋出涉軍虛假資訊，典型案例公佈】據中國軍網，2026年網路涉軍生態治理專項行動啟動以來，軍隊職能部門會同中央網信辦從嚴整治利用AI製作釋出涉軍虛假資訊，誤導公眾認知，損害軍隊形象問題，依法處置一批違法違規賬號。現將部分典型案例通報如下。
-
-一、利用AI編造虛假涉軍故事。網路賬號“楚晴”“黃仙1000芬挑戰”AI生成“孕婦哭訴丈夫執行軍事任務犧牲，求點贊轉發”故事引流起號。網路賬號“大龍麻麻”“豔子”AI生成“孩子吃了補品後個頭長高了，如願以償考上軍校”故事，編造涉軍噱頭為增高保健品廣告營銷。
-
-二、利用AI合成涉軍庸俗影片。網路賬號“厚積薄發”AI製作著軍裝影片，釋出“持槍瞄準拍攝者並威脅開槍”“軍人抱著立功證書熱舞”等內容。網路賬號“糖糖百貨鋪”AI製作“中國戰地記者在前線報道，求點贊”影片，誤導網民認知。
-
-三、利用AI醜化涉軍公眾人物。網路賬號“洺鋒”、快手號“瘋慘”AI製作國防部新聞發言人、“最美女飛行員”等軍隊人員的惡搞影片吸粉引流，損害軍隊軍人形象。
-
----
-
-### 2026-06-09 08:38:59  #公司 #觀點 #國際
-
-【中金2026下半年展望：新能源車中游上行週期趨勢不改，基本面與新技術共振】中金公司釋出研報展望2026年下半年，結合需求和產能週期位置，中金公司認為本輪鋰電週期仍然處於上行趨勢中，各環節2026年下半年供需關係維持良性、部分環節有望趨緊，產業鏈利潤表有望持續修復；而隨著行業“反內卷”逐步推進，看好本輪鋰電景氣週期延續。供給釋放有限，2026年下半年供需關係仍有望保持良性。需求端，2026年下半年下游新能源車、儲能需求有望進入旺季，同時出口退稅退坡及美國風光IRA補貼退坡有望帶來出口搶裝。供給端，電池環節2026年三季度後頭部廠商新增產能將逐步釋放，但需求亦進入旺季，大部分新增供給或可得到利用，產能利用率或仍保持高位；材料環節2026年下半年新增供給較為有限，預計供需關係或持續改善；看好產業鏈2026年下半年景氣度延續。基本面拐點確立，2026年下半年利潤表有望持續修復。2026年第一季度鋰電產業鏈業績普遍迎高增，其中材料環節盈利修復彈性較顯著，電池環節受原材料漲價衝擊、單位盈利環比有所下降。2026年下半年中金公司認為產業鏈利潤表或將持續修復，電池環節順價落地疊加漲價帶來經營槓桿放大、盈利有望修復；材料環節供需仍呈改善趨勢，部分環節仍有望進入漲價通道，材料環節盈利彈性有望進一步釋放。新技術看好鈉電和固態電池產業化持續推進。固態電池相關技術持續迭代、固態電池上車開啟測試等，推動固態商業化程序加速。鈉電2026年邁入0—1規模化量產階段，在儲能、動力、啟停等場景逐步應用；後伴隨產業鏈規模降本、經濟性改善，中金公司預計鈉電滲透有望加速。
-
----
-
-### 2026-06-09 08:38:50  #市場 #國際
-
-【日本財務大臣片山皋月：對當前匯率水平不予置評】日本財務大臣片山皋月表示，相信有可能在財政可持續性和提振經濟的措施之間取得平衡。片山拒絕就匯率水平置評，但她表示，隨時準備採取大力度外匯行動的立場未變。9日上午，日元兌美元匯率保持相對穩定，在160日元左右的低位徘徊。由於市場預期美國將加息，美元表現出韌性。
-
----
-
-### 2026-06-09 08:38:29  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Rise on Tech Rebound — The Nikkei 225 Index climbed 0.5% to above 64,300, while the broader Topix Index advanced 0.9% to 3,886 on Tuesday, as Japanese equities snapped a three-day losing streak amid a rebound in technology and artificial intelligence stocks. Domestic markets also took cues from Wall Street's overnight gains, with chipmakers recovering strongly after Friday’s selloff. Leading tech and AI performers included Kioxia Holdings (+2.6%), Tokyo Electron (+7.5%), Murata Manufacturing (+2.9%), Taiyo Yuden (+4.8%), and Advantest (+2.4%). Meanwhile, investors continued to expect the Bank of Japan to raise interest rates later this month as policymakers grapple with persistent inflation. On the geopolitical front, Iran and Israel agreed to halt attacks against each other, easing concerns that a broader conflict could intensify energy-driven inflationary pressures.
-
----
-
-### 2026-06-09 08:36:45  #市場
-
-納斯達克100指數下跌0.5%。
-
----
-
-### 2026-06-09 08:35:38  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japanese 10-year government bond yield rose 2.5 bps to 2.740%.
-
----
-
-### 2026-06-09 08:35:21  #市場 #國際
-
-日本10年期國債收益率上升2.5個基點，至2.740%。
-
----
-
-### 2026-06-09 08:34:34  #國際
-
-日本財務大臣片山皋月：我們正經歷戰後最大規模的預算改革。
-
----
-
-### 2026-06-09 08:33:54  #市場
-
-現貨白銀日內跌1%，現報67.45美元/盎司。
-
----
-
-### 2026-06-09 08:33:39  #國際
-
-日本財務大臣片山皋月：如遇不可預見的情況，將制定追加預算。
-
----
-
-### 2026-06-09 08:33:16  #國際
-
-日本財務大臣片山皋月：對當前匯率水平“不予置評”。
-
----
-
-### 2026-06-09 08:33:07  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's finance minister KATAYAMA said readiness to take decisive action remains unchanged.
-
----
-
-### 2026-06-09 08:32:54  #MKT News #Commodities #Precious Metals
-
-Spot silver fell 1.00% intraday to $67.47/oz.
-
----
-
-### 2026-06-09 08:32:44  #國際
-
-日本財務大臣片山皋月：我們對隨時準備採取果斷行動的立場沒有改變。
-
----
-
-### 2026-06-09 08:32:22  #國際
-
-美國聯邦航空管理局警告稱，由於人員配備不足，芝加哥奧黑爾機場可能出現延誤。
-
----
-
-### 2026-06-09 08:31:52  #市場
-
-【SpaceX首次公開募股獲大幅超額認購 多家機構提交百億美元級訂單】根據知情人士透露，SpaceX的首次公開募股獲得大幅超額認購，多家機構投資者提交了約100億美元或以上的認購訂單，市場對這場有望創下紀錄的發行需求強勁。部分知情人士透露，主導此次發行的銀行預計將於紐約時間週三下午4點美股收盤後停止接受機構投資者的訂單。由於相關資訊尚未公開，知情人士要求匿名。
-
----
-
-### 2026-06-09 08:31:39  #國際
-
-美國副總統JD·萬斯批評英國移民政策。
-
----
-
-### 2026-06-09 08:31:33  #MKT News
-
-Japan's finance minister Katayama said a balance can be struck between fiscal sustainability and measures to support the economy.
-
----
-
-### 2026-06-09 08:30:54  #MKT News
-
-Korea Exchange activated a temporary buy-side suspension mechanism on the KOSDAQ; program trading halted for five minutes.
-
----
-
-### 2026-06-09 08:30:24  #MKT News #DXY #Impact bullish
-
-Australia June Westpac/Melbourne consumer confidence index 80.6, previous 83.0.
-
----
-
-### 2026-06-09 08:30:17  #MKT News #Economic Calendar #Important
-
-Australia | Westpac/Melbourne Institute Consumer Sentiment Index (Jun) | actual 80.6 | previous 83
-
----
-
-### 2026-06-09 08:30:06  #MKT News #AUDUSD #Impact bearish
-
-Australia Westpac–Melbourne Institute consumer confidence (MoM) -2.9% in June; prior +3.5%.
-
----
-
-### 2026-06-09 08:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Jun) | actual -2.9% | previous 3.50%
-
----
-
-### 2026-06-09 08:29:51  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Edge Lower After Tech-Led Rebound — US stock futures eased on Tuesday after the S&P 500 and Nasdaq Composite opened the week higher, supported by a rebound in technology shares. In regular trading on Monday, the S&P 500 and Nasdaq Composite gained 0.3% and 0.86%, respectively, recovering part of the previous session’s losses, while the Dow slipped 0.16%. Technology, energy, and consumer discretionary stocks led the advance, whereas utilities, real estate, and materials underperformed. Chipmakers drove much of the rally, with shares of Micron Technology (+9.9%), Nvidia (+1.7%), Marvell Technology (+9.6%), Intel (+11.2%), and Advanced Micro Devices (+5.1%) posting solid gains. Investors are now awaiting earnings reports from Casey’s General Stores, J.M. Smucker, and Designer Brands, among others, due Tuesday. Later this week, the latest US CPI and PPI data will offer further insight into the Federal Reserve’s interest rate outlook.
 
 ---
