@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-15 07:42:21",
-  "count": 18370,
+  "updated": "2026-06-15 07:46:23",
+  "count": 18373,
   "items": [
+    {
+      "id": "4934985",
+      "time": "2026-06-15 07:45:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲3.4%。"
+    },
+    {
+      "id": "4934984",
+      "time": "2026-06-15 07:45:32",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【野村：受美伊達成協議影響 美債收益率曲線料將趨陡】野村表示，伊朗與美國達成和平協議的訊息傳出後，市場可能會解除對美聯儲加息的押注。“美國能源基本獨立，所以我認為對消費者來說，汽油價格可能下降所產生的通脹影響應該會超過對經濟增長的影響，”駐悉尼的策略師Andrew Ticehurst表示。“美國國債收益率可能下降，收益率曲線趨陡”，前端收益率下降。“市場此前對美國加息的預期升溫，因此接下來部分預期可能會逆轉”。"
+    },
+    {
+      "id": "4934983",
+      "time": "2026-06-15 07:45:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：強烈希望這將有助於實現霍爾木茲海峽航行自由與安全。"
+    },
+    {
+      "id": "mkt:019ec886-72b9-7dd8-aff9-1890e49dc165",
+      "time": "2026-06-15 07:45:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【South Korea imported no crude from Iran in May: Customs】Preliminary data from the Korea Customs Service on Monday showed South Korea imported no crude oil from Iran in May. Total crude imports were 9.7 mln tonnes in May, down from 12.6 mln tonnes a year earlier; South Korea is the world’s fifth-largest crude importer."
+    },
+    {
+      "id": "mkt:019ec885-e46f-7dd8-aff9-13d7992d01be",
+      "time": "2026-06-15 07:44:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Repeated explosions reported in Kyiv】Repeated explosions were reported in central Kyiv. Reports indicated roughly 30 missiles struck the city over the past hour."
+    },
+    {
+      "id": "te:economy:558822",
+      "time": "2026-06-15 07:44:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kosovo",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Kosovo Q1 GDP Growth Strongest in 2 Years — Kosovo’s economy grew by 5.43% year-on-year in the first quarter of 2026, accelerating from a 3.85% expansion in the previous quarter. This marked the strongest economic growth in two years, driven by a broad-based expansion across sectors, led by public administration, defense, education, health, and social work activities, which rose 22.11%. Other key contributors included arts, entertainment and other services (13.11%), financial and insurance activities (4.76%), scientific and administrative services (3.52%), information and communication (3.02%), and wholesale and retail trade, transport, storage, accommodation, and food services (2.11%). From the expenditure side, net trade made the largest contribution to growth, as exports of goods and services surged 17.26%, while imports increased 5.02%. Gross capital formation rose 3.01%, and government final consumption expenditure jumped 16.53%, whereas household and NPISH final consumption spending declined 0.91%."
+    },
+    {
+      "id": "4934982",
+      "time": "2026-06-15 07:44:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔再度傳出連續爆炸聲】當地時間15日，總檯記者獲悉，烏克蘭首都基輔市區再度傳出接連不斷的爆炸聲。相關訊息顯示，過去一小時內，基輔遭到約30枚導彈襲擊。（央視新聞）"
+    },
+    {
+      "id": "4934981",
+      "time": "2026-06-15 07:43:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：歡迎美伊達成旨在結束敵對行動的備忘錄。"
+    },
+    {
+      "id": "4934980",
+      "time": "2026-06-15 07:43:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊達成和平協議後日經指數料將上漲】伊朗和美國達成和平協議後，日本股市料將上漲。新加坡交易所的日經指數期貨上漲3.3%，至68345點。美元報159.94日元，低於週五東京股市收盤時的160.26日元。投資者正關注中東局勢的任何進展以及原油價格。日經指數週五上漲2.8%，至66020.04點。"
+    },
+    {
+      "id": "4934979",
+      "time": "2026-06-15 07:42:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國5月未從伊朗進口原油】韓國海關總署週一公佈初步資料顯示，韓國5月未從伊朗進口原油。韓國為全球第五大原油進口國，資料顯示，5月共進口原油970萬噸，而上年同期進口量為1,260萬噸。韓國國有企業韓國國家石油公司（KNOC）將於本月下旬公佈上月原油進口的最終資料。KNOC的資料被視為韓國原油進口的行業標準。"
+    },
+    {
+      "id": "4934978",
+      "time": "2026-06-15 07:42:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國秘書長歡迎美伊就和平協議達成一致】聯合國秘書長發言人14日發表宣告說，秘書長古特雷斯歡迎美國和伊朗就和平協議達成一致。（新華社）"
+    },
     {
       "id": "4934977",
       "time": "2026-06-15 07:41:42",
@@ -43,6 +146,14 @@
         "XAUUSD"
       ],
       "text": "UN Secretary-General spokesman said on the 14th that António Guterres welcomed a US‑Iran agreement on a peace accord."
+    },
+    {
+      "id": "4934975",
+      "time": "2026-06-15 07:39:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：美伊諒解備忘錄細節公佈之前，國內已普遍滋生不滿】以色列主流媒體週日的頭版標題僅用兩個詞，概括了以色列國內對特朗普敲定的伊以停火協議的主流情緒：糟糕的協議。過去一年，以色列同伊朗爆發兩場戰事，最近一場是二月下旬聯合美軍發起的軍事行動。特朗普政府與伊朗展開談判時，以色列並未參與其中，如今這份和平方案卻將以色列排除在外。美伊官員透露，根據初步《諒解備忘錄》內容：伊朗將重新開放霍爾木茲海峽這條全球經濟關鍵航運通道，美國則解除對伊朗港口的封鎖；雙方四月份達成的停火期限延長60天。延長期內，兩國承諾就伊朗核計劃、美國取消對伊制裁兩大議題展開深度細緻談判。這份協議遠遠達不到以色列在兩場戰爭開戰之初定下的目標。 開戰伊始，總理本雅明·內塔尼亞胡宣稱行動目標是“消除威脅以色列生存的隱患”。他表示，這意味著徹底根除伊朗核威脅、摧毀伊朗彈道導彈專案，同時“創造條件”讓伊朗民眾推翻本國政府。"
     },
     {
       "id": "4934974",
@@ -168790,90 +168901,6 @@
         "Important"
       ],
       "text": "cenc automatic determination: at 07:37 on June 8 an earthquake of about magnitude 8.2 occurred near the Philippine Islands; final magnitude subject to cenc's official rapid bulletin."
-    },
-    {
-      "id": "4922420",
-      "time": "2026-06-08 07:46:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：伊朗襲擊以色列後 特朗普致電內塔尼亞胡要求別報復伊朗】據一名美國高階官員及瞭解通話細節的以色列訊息人士透露，特朗普總統於週日致電以色列總理本雅明・內塔尼亞胡，要求以色列不要對伊朗的導彈襲擊展開報復，為外交斡旋留出更多時間。 特朗普出面勸阻以色列採取反擊行動，表明其政府正竭力防止以伊緊張局勢持續升級，進而干擾美國與伊朗正在進行的談判。 此次通話前，特朗普曾表示，他打算勸說內塔尼亞胡不要報復伊朗。伊朗稱本次導彈襲擊，是針對以色列週日早些時候空襲貝魯特的回應。 這名美國高階官員表示，特朗普政府並未批准以色列對貝魯特發動襲擊。 該官員稱，特朗普在通話中勸內塔尼亞胡暫緩行動，理由是 “我們距離達成一份有利協議已近在咫尺”。 官員透露，內塔尼亞胡起初提出異議，但最終表面上同意按兵不動。 該官員表示，相比上週兩人言辭激烈的通話，週日這次溝通氛圍平和，特朗普並未對內塔尼亞胡高聲斥責。 “我們認為總統爭取到了緩衝時間。他態度十分堅決，認為美伊協議很快就能達成。短期內以色列應該不會再發動襲擊。” 這名美國官員說道。 他補充道：“如今談判已進入收官階段，沒必要讓潛在的協議功虧一簣。總統認為相關談判已持續三個月，現在正是收尾的時機。”"
-    },
-    {
-      "id": "4922419",
-      "time": "2026-06-08 07:45:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "中國地震臺網自動測定：06月08日07時37分在菲律賓群島地區附近（北緯5.65度，東經125.27度）發生8.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4922418",
-      "time": "2026-06-08 07:45:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.32點。"
-    },
-    {
-      "id": "4922417",
-      "time": "2026-06-08 07:45:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均股指期貨早盤下跌4.3%。"
-    },
-    {
-      "id": "4922416",
-      "time": "2026-06-08 07:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "本週公開市場7天期逆回購到期縮量至2262億元，為上週的不到三成。"
-    },
-    {
-      "id": "mkt:019ea479-e41b-7ee0-86d5-460355785eba",
-      "time": "2026-06-08 07:45:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "GFZ reports a magnitude 7.26 earthquake struck Mindanao, Philippines."
-    },
-    {
-      "id": "4922415",
-      "time": "2026-06-08 07:45:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【凱雷集團7億美元收購韓國環境健康家電企業】知情人士透露，凱雷集團已達成協議，以7億美元收購韓國家用及健康護理裝置租賃平臺 ChungHo集團。韓國遺產稅稅負攀升，促使不少企業所有者選擇出售資產。據悉，該公司董事長於去年離世，凱雷將從其創始家族手中收購 ChungHo全部股權。相關人士因事件尚未公開要求匿名，他們表示，此次交易主要是為了繳納高額遺產稅，同時企業也暫無合適的接班人接手運營。"
-    },
-    {
-      "id": "4922414",
-      "time": "2026-06-08 07:43:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國地學研究中心（GFZ）：菲律賓棉蘭老島發生7.26級地震。"
-    },
-    {
-      "id": "mkt:019ea477-e7f1-7ee0-86d5-38f61d470e13",
-      "time": "2026-06-08 07:43:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "CSI300",
-        "Impact bearish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Huatai Securities A-share strategy: maintain balanced allocation short-term】Huatai Securities says short-term A-share market has entered a window of thin AI‑chain catalysts coinciding with macro risk re-pricing. Last Friday’s stronger-than-expected US NFP triggered global liquidity tightening: US Treasury yields and the dollar rose and the Nasdaq-100 and other risk assets pulled back; weaker-than-expected guidance from overseas AI leaders and short-term crowded positions have prompted a style rebalancing, shifting the primary risk from industry momentum to macro pricing. If the Nasdaq-100 falls >2% alongside rising US yields, A-shares face a higher probability of monthly downside; financials/value should outperform while growth is under pressure. Recommendation: modestly take profits in AI-chain names and await lower volatility to re-enter; favor banks for higher expected returns amid macro re-pricing and selectively rebalance into minor metals and packaging & printing stocks that look EPS-accretive after Q1 results."
     }
   ]
 }
