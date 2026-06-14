@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 20:21:54_
-_本檔包含 3633 則快訊，約 658743 字_
+_更新時間：2026-06-14 21:15:57_
+_本檔包含 3621 則快訊，約 658247 字_
+
+---
+
+### 2026-06-14 21:13:09  #其他
+
+【受廣東地區東南部暴雨影響 京九鐵路部分列車停運或折返】6月14日，京九鐵路楊村鎮至惠州站區段普降暴雨。為確保旅客列車執行安全，鐵路部門對途經該區段的部分列車採取轉運、停運、折返等措施進行調整。由徐州站開往廣州白雲站的K677次、北京豐臺站開往深圳站的D27次列車均透過高鐵轉運；Z310次、K1312次、K92次列車均在東莞東站折返；T102次、K824次列車均在惠州站折返，T227次停運。具體資訊旅客可在12306網站或手機App查詢，部分列車也將出現不同程度晚點。由此給旅客出行帶來的不便，鐵路部門深表歉意。（廣州鐵路）
+
+---
+
+### 2026-06-14 21:12:46  #國際
+
+以色列國防軍：繼不久前針對敵對飛行器入侵米斯加夫阿姆（Misgav Am）地區發出的警報之後，在以色列國防軍（IDF）部隊於黎巴嫩南部行動的區域，發現了一個可疑空中目標。該事件已結束，無人員傷亡。
+
+---
+
+### 2026-06-14 21:11:10  #公司 #國際
+
+【日媒：日本要去格陵蘭島勘察稀土】據《日本經濟新聞》6月14日報道，日本政府計劃於今年夏天在丹麥屬地格陵蘭島啟動旨在開發稀土和關鍵礦產的勘察工作。《日本經濟新聞》指出，此舉意在查明當地蘊藏的資源種類與儲量，併為日本企業的投資鋪平道路。據報道，2025年11月，由日本經濟產業省官員和貿易公司代表組成的官民聯合考察團訪問了格陵蘭島一處正在運營的長石礦。在確認了即便在極寒環境下仍具備商業運營潛力後，他們計劃於今年夏天派遣日本能源金屬礦物資源機構的地質專家前往考察。據悉，考察目標是準備推進稀土開採的礦山，不僅將評估資源儲量，還將測算開採成本。日本政府相關人士對格陵蘭島礦產資源的多樣性寄予厚望。報道稱，格陵蘭島尚未開始真正意義上的關鍵礦產開採作業，美國和歐洲的企業正處於籌備階段。日本企業未來也有可能與這些外國公司合作。（參考訊息）
+
+---
+
+### 2026-06-14 21:09:34  #其他
+
+【廣西釋出山洪災害氣象預警 請注意防範】廣西水利廳和廣西氣象局於6月14日16時聯合釋出山洪災害氣象預警：預計，6月14日20時至6月15日20時，玉林市（玉州區、福綿區、博白縣）、百色市（田林縣）、賀州市（平桂區、昭平縣）發生山洪災害可能性大（橙色預警），玉林市（北流市、陸川縣）發生山洪災害可能性較大（黃色預警），南寧市（橫州市）、欽州市（靈山縣、浦北縣）、貴港市（平南縣）、玉林市（興業縣）、河池市（巴馬瑤族自治縣、大化瑤族自治縣、平果市）可能發生山洪災害（藍色預警）。
+
+---
+
+### 2026-06-14 21:07:06  #公司 #國際
+
+白宮訊息人士稱，唐納德・特朗普將於本週七國集團（G7）峰會上就移民問題與基爾・斯塔默爵士展開交鋒。
+
+---
+
+### 2026-06-14 21:05:13  #MKT News #Important #Market Regions #Emerging Markets #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran IRGC commander says forces on full alert, ready to respond to any hostile action】A senior commander of Iran's Islamic Revolutionary Guard Corps told state TV on the 14th that Iranian armed forces are on full alert and prepared to respond immediately to any hostile action; Iran is at high readiness and capable of retaliation.
+
+---
+
+### 2026-06-14 21:04:43  #焦點 #國際
+
+【伊朗革命衛隊將領：已做好準備應對任何敵對行動】據伊朗新聞電視臺14日報道，伊朗伊斯蘭革命衛隊一名高階指揮官表示，伊朗武裝部隊目前處於全面戒備狀態，已做好應對任何敵對行動的準備。該名指揮官說，伊朗正處於高度警戒狀態。任何方面試圖對伊朗採取敵對行動，伊朗有能力並已準備好立即予以回應。（新華社）
+
+---
+
+### 2026-06-14 21:03:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says Israel attack on southern Beirut suburbs "will not go unanswered"】On the 14th, after an Israeli attack on the southern suburbs of Beirut, Iran's armed forces deputy inspector-general at the Khatam al-Anbiya central headquarters, Asadi, said Israel's crimes in Lebanon "will not go unanswered".
+
+---
+
+### 2026-06-14 20:57:56  #MKT News #Important #DXY #Impact mixed #GBPUSD #WTI
+
+【Weekly preview: 'super central bank week' — Fed chair's first press conference imminent, Japan may hike】Next week (Jun 15–19) centers on a packed central-bank slate and high-frequency macro data that could drive rates, FX and liquidity. Key events: FOMC rate decision and SEP with a first press conference by the new Fed chair; BOJ and RBA rate decisions; BOE and SNB meetings. Liquidity note: 600 bln yuan six‑month buyout reverse repos mature midweek. China: May retail sales and industrial output (large‑enterprise IP) and a scheduled release of nationwide electricity consumption around Jun 15 (tentative). US: June NY Fed manufacturing, May industrial production, May retail sales and existing/home‑sale indicators, Philly Fed, initial jobless claims, housing starts and permits; ADP and import prices. Energy: API/EIA weekly oil inventories and EIA gas; IEA monthly report due. Europe: final May euro‑area CPI, June ZEW surveys, Lagarde to speak; UK May CPI and BOE decision including unemployment series. Other data: Switzerland May trade, Japan May core CPI. Events/hazards: G7 summit runs to Jun 17; Lujiazui Forum Jun 17–18. Market hours/holidays: NYSE closed one day; CME metals, energy, FX, equity and US Treasury futures end early at 01:00 Beijing time on Jun 20; ICE Brent ends early at 01:30; HK and Taiwan exchanges closed one day with North/South China Connect closed; Shanghai/Shenzhen/Beijing exchanges and domestic futures exchanges closed (no night sessions on listed domestic commodity venues on Jun 18).
+
+---
+
+### 2026-06-14 20:56:24  #國際
+
+【世界盃首戰前夕 伊朗國足代表團多人再遭美拒籤】伊朗隊定於當地時間15日迎來2026美加墨世界盃首戰。伊朗隊本屆世界盃之旅頗為坎坷，一些先前遭美國拒籤的伊朗國足代表團成員最近重新申請簽證，但僅4人獲批，包括伊朗足協主席在內的多人再次遭拒，無法在伊朗隊赴美參賽期間入境美國。（新華社）
+
+---
+
+### 2026-06-14 20:56:24  #MKT News
+
+【Several Iranian delegation members denied US visas again ahead of World Cup opener】Iran are due to play their opening match at the 2026 US-Canada-Mexico World Cup on the 15th (local time). Members of the Iranian delegation who were previously refused US visas reapplied; only four received approval. Multiple officials, including the Iran Football Federation chairman, were again denied visas and will be unable to enter the US while the team competes.
+
+---
+
+### 2026-06-14 20:49:52  #MKT News #Important
+
+【Iran vows retaliation over Israeli strike on Beirut】Responding to Israeli strikes on Beirut’s southern suburbs on June 14, Iran’s Khatam al-Anbiya Central Command said Israel’s "crimes" in Lebanon will be met with retaliatory strikes.
+
+---
+
+### 2026-06-14 20:49:37  #國際
+
+【伊朗稱將就貝魯特遭襲報復以色列】針對以色列今天（6月14日）再次襲擊黎巴嫩首都貝魯特南郊，伊朗武裝部隊哈塔姆·安比亞中央司令部方面稱，以色列在黎巴嫩的“罪行”必將遭到報復性打擊。 (CCTV國際時訊)
+
+---
+
+### 2026-06-14 20:49:04  #國際
+
+以色列國防軍：北部地區拉響敵方軍機入侵警報。
+
+---
+
+### 2026-06-14 20:46:30  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Al Jazeera said an Israeli airstrike on the southern suburbs of Beirut, Lebanon, raised the death toll to 3 and injured 15.
+
+---
+
+### 2026-06-14 20:45:59  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Iran says Israeli strike on Lebanon makes U.S.-Iran talks 'impossible'】On the 14th, Iranian parliament speaker Ghalibaf posted on social media saying Israel's strike on the southern suburbs of Beirut again shows the U.S. "either lacks the will or the capacity to fulfill its commitments," and that "continuing to advance the dialogue process has become impossible." Xinhua
+
+---
+
+### 2026-06-14 20:45:50  #國際
+
+【伊朗：以色列襲擊黎巴嫩使得伊美對話“變得不可能”】伊朗議會議長卡利巴夫14日在社交媒體發文表示，以色列對黎巴嫩首都貝魯特南郊的襲擊再次表明，美國“要麼沒有履行承諾的意願，要麼沒有履行承諾的能力”，“繼續推進對話程序變得不可能”。（新華社）
+
+---
+
+### 2026-06-14 20:44:17  #其他
+
+【第三屆長春光博會引資超205億元】第三屆長春國際光電博覽會(簡稱“長春光博會”)14日閉幕。長春市經濟合作局局長趙慶利在閉幕新聞釋出會上介紹，自展會籌備以來，全市共簽約專案69個，總投資額達205.46億元。此次簽約專案覆蓋半導體與高階製造、衛星技術與應用、光電感測與儀器等多個領域。其中，既有仿生機器人研發製造等高階製造專案，也有高解析度高定位精度遙感載荷技術產業化、光學成像探測裝置生產研發基地等衛星應用專案，以及固態鐳射雷達研發生產等光電感測專案。
+
+---
+
+### 2026-06-14 20:36:53  #國際
+
+伊朗談判代表就以色列襲擊貝魯特南郊事件在X平臺發文稱："若無法履行承諾，談論繼續推進程序便無從談起"。
+
+---
+
+### 2026-06-14 20:36:11  #MKT News
+
+Iranian parliament speaker Ghalibaf said continuing down this path is simply not feasible if there is neither the willingness nor the ability to fulfill commitments.
+
+---
+
+### 2026-06-14 20:36:08  #MKT News
+
+Iranian parliament speaker Ghalibaf said giving Israel a "green light" will not win any concessions and that the "good cop, bad cop" tactic has been played out.
+
+---
+
+### 2026-06-14 20:35:57  #國際
+
+伊朗議會議長卡利巴夫：以色列在黎巴嫩南部的違規行為再次證明，它要麼沒有履行義務的意願，要麼缺乏履行義務的能力。
+
+---
+
+### 2026-06-14 20:35:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian parliament speaker Ghalibaf said Israel’s violations in southern Lebanon again indicate it either lacks the will or the capability to meet its obligations.
+
+---
+
+### 2026-06-14 20:34:52  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+Iranian state media quoted the deputy commander of Iran's Joint Military Command as saying Israel's 'crimes' in Lebanon will not go unpunished.
+
+---
+
+### 2026-06-14 20:34:09  #國際
+
+伊朗聯合武裝部隊司令部副指揮官表示，以色列在黎巴嫩犯下的“罪行”不會不了了之。
+
+---
+
+### 2026-06-14 20:32:41  #公司
+
+大眾汽車執行長：大眾汽車計劃在年底前裁員1.9萬人，旨在提高效率和降低成本，以應對行業挑戰。
+
+---
+
+### 2026-06-14 20:32:34  #MKT News #VOW3.DE #Impact mixed #DAX
+
+Volkswagen CEO said the company plans to cut 19,000 jobs by year-end to improve efficiency and reduce costs amid industry challenges.
+
+---
+
+### 2026-06-14 20:32:12  #國際
+
+【法國前總理說美領導力崩塌】在美國有線電視新聞網（CNN）6月12日釋出的採訪中，法國前總理德維爾潘表示，當前正見證美國與以色列干預海灣地區產生的後續影響。他以 “地緣政治劇烈動盪” 形容當前局勢，稱相關重大事件正引發連鎖反應，美國的領導力正如同 “核心反應堆徹底熔燬” 一般出現崩塌。他同時指出，當前局面已進入無人可完全掌控的狀態：戰爭會催生更多戰爭，單次干預將引發更多幹預。德維爾潘表示，千百年的歷史經驗表明，和平無法透過武力與威脅實現。（CCTV國際時訊）
+
+---
+
+### 2026-06-14 20:31:07  #國際
+
+【美媒：貝魯特空襲阻礙美伊協議敲定，外交官稱以色列蓄意破壞】據福克斯新聞報道，一位參與談判的外交官透露，今天在黎巴嫩貝魯特發生的空襲給（美伊）協議的最終敲定帶來了麻煩。該外交官還表示：“這是以色列試圖破壞特朗普總統的協議、並將美國拖回戰爭的明顯企圖。”一位以色列高階官員則駁斥了以色列應對此次交火負責的說法。該官員稱：“過去三天來，真主黨的襲擊一直以以色列平民為目標。”
+
+---
+
+### 2026-06-14 20:29:50  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【US media: Beirut airstrike complicates U.S.-Iran deal finalization, diplomat says Israel tried to sabotage】Fox News reports a diplomat involved in the talks said today's airstrike in Beirut has complicated finalizing a U.S.-Iran agreement, adding 'this is Israel trying to sabotage President Trump's deal and drag the U.S. back into war.' An Israeli senior official denied Israel was responsible and said Hezbollah's attacks over the past three days targeted Israeli civilians.
+
+---
+
+### 2026-06-14 20:29:26  #其他
+
+市場訊息：貝魯特空襲事件致使伊美協議的敲定工作陷入困境。
+
+---
+
+### 2026-06-14 20:27:26  #MKT News
+
+Moscow mayor said Russian air-defence systems shot down a drone headed for Moscow.
+
+---
+
+### 2026-06-14 20:27:16  #MKT News #Nasdaq100 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+【China Securities (CSC): SpaceX record Nasdaq IPO reshapes valuation framework; remains bullish on commercial space investments】China Securities says SpaceX listed on Nasdaq at a $1.75 trillion valuation, raising $75 billion and exceeding $2 trillion market cap on debut, making it the world’s seventh-largest tech company and the largest IPO on record. The firm says Starlink, reusable rockets and space-AI businesses have validated a commercial closed loop, accelerating space-economy commercialisation. It flags China-specific timing: multiple Chinese liquid-fuel rockets due for clustered first flights and recovery tests in 2026, which could materially lower launch costs and speed satellite-constellation deployment. Recommended watchlist: rocket suppliers (engines, high‑barrier airframe structures); satellite components (payloads, antennas, laser-comm terminals); ground equipment (civil terminals, direct-to-phone technology); and operations/services firms with scarce license qualifications.
+
+---
+
+### 2026-06-14 20:26:15  #國際
+
+市場訊息：俄羅斯防空系統擊落一架飛往莫斯科的無人機。
+
+---
+
+### 2026-06-14 20:25:21  #公司 #觀點
+
+【中信建投：SpaceX創紀錄IPO重塑估值體系 繼續看好商業航天投資機會】中信建投指出，SpaceX以1.75萬億美元估值登陸納斯達克，募資750億美元，市值首日突破2萬億美元，成全球第七大科技公司，締造歷史最大IPO。其星鏈、可複用火箭與太空AI三大業務驗證商業閉環，推動太空經濟商業化程序加速。2026年我國多款液體火箭將密集首飛及回收試驗，有望大幅降低發射成本，加速星座建設。建議關注：1）火箭環節：發動機、箭體結構等高壁壘領域；2）衛星環節：載荷、天線及鐳射通訊終端；3）地面裝置：民用終端及手機直連技術；4）運營服務：具備稀缺牌照資質的公司。
+
+---
+
+### 2026-06-14 20:21:20  #市場 #觀點
+
+【中信建投：關注基本面確定性更強的細分景氣賽道 等待內外部不確定性落地帶來的預期校準】中信建投指出，本週A股市場低開後整體企穩，顯示出一定的韌性，市場短期有望迎來反彈，但向上空間有限，震盪格局或將延續。主因市場面臨著一定程度的資金面制約，投資者觀望態度濃厚。海外流動性預期反覆，但暴力加息門檻猶存。整體來看，A股面臨的內外部環境趨於複雜，可能對風險偏好形成一定壓制，市場預計呈現“上有頂、下有底”的震盪格局，配置上以短期再平衡為核心，適度控制高波動暴露，關注基本面確定性更強的細分景氣賽道，等待內外部不確定性落地帶來的預期校準。行業重點關注：AI（晶片、半導體、光通訊等）、有色金屬（工業金屬、小金屬）、煤炭、非銀、新能源等。
 
 ---
 
@@ -21672,293 +21888,5 @@ Brent crude fell 1.00% intraday to $87.65/bbl.
 ### 2026-06-12 13:10:13  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
 
 Market sources: Ukraine launched drone strikes against Russia's Tatarstan region.
-
----
-
-### 2026-06-12 13:09:51  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB Governing Council member Nagel said the shock is strong and persistent and cannot be simply ignored.
-
----
-
-### 2026-06-12 13:09:06  #MKT News
-
-ECB executive board member Nagel said that even if the war ends quickly, a rate hike this week remains necessary.
-
----
-
-### 2026-06-12 13:08:55  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB Governing Council member Nagel: inflation outlook has deteriorated.
-
----
-
-### 2026-06-12 13:08:46  #其他
-
-現代汽車工會將於6月25日投票決定是否罷工。
-
----
-
-### 2026-06-12 13:08:32  #MKT News #BMW.DE #Impact bearish
-
-CITIGROUP cuts BMW PT to €73 from €86.
-
----
-
-### 2026-06-12 13:08:24  #觀點
-
-花旗將寶馬目標價從86歐元下調至73歐元。
-
----
-
-### 2026-06-12 13:07:53  #MKT News #005380.KS #Impact bearish
-
-YONHAP reports Hyundai Motor union said wage talks failed to reach an agreement.
-
----
-
-### 2026-06-12 13:06:31  #MKT News #Market Regions #Greater China #300059.SZ #Impact bullish
-
-A-share brokerage stocks extended afternoon gains; Caitong Securities hit the daily price limit, Bank of China Securities earlier hit the limit, Guojin Securities rose over 7%, while Northeast Securities, GF Securities, East Money and Xiangcai Co. also advanced.
-
----
-
-### 2026-06-12 13:06:14  #其他
-
-現代汽車工會稱薪資談判沒有達成協議。
-
----
-
-### 2026-06-12 13:05:57  #其他
-
-【上海技能人才總量已達400萬人，取得證書的高技能人才年均增幅10%】“近年來，上海的技能人才總量已經達到了400萬人，這其中取得職業技能等級證書的高技能人才，年均增幅10%，佔到總量的35%以上。”2026年6月12日上午，在國新辦舉辦的新聞釋出會上，第48屆世界技能大賽組委會副主任、上海市委常委、副市長陳杰提到。（澎湃）
-
----
-
-### 2026-06-12 13:05:30  #公司 #市場
-
-鋰電池板塊持續反彈，電解液方向領漲，孚日股份漲停，華盛鋰電、芳源股份漲超10%，鵬輝能源、德方奈米、深圳新星、豐元股份等漲幅靠前
-
----
-
-### 2026-06-12 13:05:06  #公司 #市場 #觀點
-
-【券商股午後持續活躍】財達證券午後漲停，中銀證券此前封板，國金證券、東北證券、湘財股份、長城證券等紛紛走高。
-
----
-
-### 2026-06-12 13:04:51  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #WTI
-
-【ECB's Nagel says all options open for July meeting, ready to act again if necessary】ECB Governing Council member Nagel said the ECB will hold its next monetary policy meeting in July and is keeping all options open, ready to act again if warranted. He said June's rate hike was necessary because inflation has broadened beyond energy into other goods and services, and that the Middle East conflict has produced a strong, persistent supply shock that cannot be ignored; the council has shown resolve to prevent inflation expectations from becoming unanchored. Sources earlier said a July hike was not the policymakers' base case, but the ECB could tighten further if energy prices rise or inflation surprises to the upside. Nagel is viewed as a potential successor to Lagarde.
-
----
-
-### 2026-06-12 13:04:41  #其他
-
-貝倫貝格銀行將勞斯萊斯評級從持有上調至買入，目標股價從1270便士上調至1430便士。
-
----
-
-### 2026-06-12 13:03:35  #MKT News #Important #Market Regions #Greater China #300750.SZ #Impact bullish
-
-CATL A- and H-shares rose; A-shares up more than 4.5 pct, H-shares up more than 3 pct.
-
----
-
-### 2026-06-12 13:03:01  #央行 #國際
-
-歐洲央行管委內格爾：通脹前景惡化。
-
----
-
-### 2026-06-12 13:02:47  #其他
-
-法蘭克福機場5月旅客吞吐量同比增長2.7%至570萬人次。
-
----
-
-### 2026-06-12 13:02:06  #市場
-
-【財達證券盤中漲停】財達證券盤中漲停，漲幅10.08%，成交額超5億元。
-
----
-
-### 2026-06-12 13:01:59  #央行 #國際
-
-歐洲央行管委內格爾：即使戰爭很快結束，本週的加息也是必要的。
-
----
-
-### 2026-06-12 13:01:25  #央行 #國際
-
-歐洲央行管委內格爾：下次會議將保留所有選項。
-
----
-
-### 2026-06-12 13:00:56  #央行 #焦點 #國際
-
-歐洲央行管委內格爾表示，如有必要，歐洲央行準備在7月份再次加息。
-
----
-
-### 2026-06-12 13:00:47  #央行 #歐洲央行
-
-歐洲央行管委內格爾表示，歐洲央行已做好準備，如有必要，將於7月再次上調利率。
-
----
-
-### 2026-06-12 13:00:39  #MKT News #Important #Commodities #Energy #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB Governing Council member Nagel said policymakers have kept all options open for July and stand ready to respond again if needed, adding rate hikes are necessary as higher energy prices increasingly feed through to other prices.
-
----
-
-### 2026-06-12 13:00:21  #其他
-
-【科威特下調7月銷往亞洲的原油價格】據路透社週五看到的一份價格檔案，科威特已大幅下調7月銷往亞洲的科威特出口原油官方售價，定為較阿曼/迪拜報價均價每桶升水5.25美元，較上月每桶下調7.50美元。科威特同時將7月超輕原油的官方售價每桶下調7.50美元，較阿曼/迪拜報價每桶升水5.25美元。
-
----
-
-### 2026-06-12 12:59:59  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-【Kuwait cuts July OSP for crude to Asia by $7.50/bbl】A pricing file seen by Refinitiv on Friday shows Kuwait has cut its July official selling price for export crude to Asia to $5.25/bbl above the Oman/Dubai average, down $7.50/bbl from June. Kuwait also lowered the July official selling price for its super-light crude by $7.50/bbl to $5.25/bbl above the Oman/Dubai average.
-
----
-
-### 2026-06-12 12:59:36  #公司
-
-據港交所檔案：江蘇貝爾家居科技股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-12 12:59:32  #MKT News
-
-HKEX filing: Jiangsu Bell Home Furnishings Technology Co., Ltd. has filed a listing application with HKEX.
-
----
-
-### 2026-06-12 12:58:03  #國際
-
-【美政府就法院裁定肯尼迪中心移除特朗普名字提出上訴】據當地媒體報道，美國政府和肯尼迪表演藝術中心董事會11日分別就聯邦地區法官要求將美國總統特朗普的名字從肯尼迪表演藝術中心移除的裁決提出上訴。據報道，特朗普政府當天向哥倫比亞特區巡迴上訴法院提出上訴，旨在推翻聯邦地區法院此前作出的裁決。肯尼迪中心董事會當天也投票決定就聯邦地區法院的裁決提起上訴，申請暫緩執行該裁決。媒體指出，特朗普去年1月開啟第二個總統任期後不久就撤換了肯尼迪中心原有管理層，並親自挑選成員組成新的董事會。新董事會去年12月投票決定把肯尼迪中心更名為“特朗普-肯尼迪中心”。在肯尼迪中心宣佈更名後，該中心董事會成員喬伊絲·貝蒂向法院提起訴訟，要求撤銷更名決定並移除特朗普的名字。（新華社）
-
----
-
-### 2026-06-12 12:55:38  #國際
-
-【日本手足口病今年已確診逾萬例，多地發警報】日本衛生機構最新資料顯示，今年手足口病患者持續增加，已確診超1萬人。鹿兒島縣、宮崎縣、福岡縣等6縣發出疫情警報，較往年提前。5月25日至31日，全國47個都道府縣中，6縣定點醫療機構收治患者超警戒值。福岡縣患者最多，達1295人，宮崎縣、鹿兒島縣均超千人。該病由腸道病毒引起，5歲以下兒童高發，主要經糞口途徑及飛沫傳播。無特效藥，預防方式包括接種疫苗、勤洗手、吃熟食、喝淨水等。（新華社）
-
----
-
-### 2026-06-12 12:53:17  #國際
-
-【韓國選舉機構因選票短缺事件遭搜查】韓國警方11日搜查韓國中央選舉管理委員會總部及其分支機構，以調查本月3日地方選舉中出現的選票短缺事件。據韓聯社報道，警方當天出動百餘人，對中央選舉管理委員會位於京畿道果川市的總部及首爾地區分支等7處地點展開搜查。警方懷疑，這些機構在地方選舉的選票印製和分發過程中存在重大疏忽，涉嫌違反《公職選舉法》及瀆職。警方已在搜查令中將引咎辭職的中央選舉管理委員會委員長盧泰嶽列為嫌疑人。（新華社）
-
----
-
-### 2026-06-12 12:53:04  #國際
-
-【醫考洩題醜聞後 印度將動用軍機運送試卷】印度醫學院入學考試5月被曝大規模洩題後，印度政府決定本月21日重新舉行考試，並將首次動用空軍力量運送試卷，以確保考試公平。美國彭博社11日援引印度政府知情人士的話報道，印度政府將在醫學院考試當天使用軍用直升機，向全國20多個考點運送試卷。此外，政府對試卷印刷機構周邊環境實施嚴格管控，限制相關人員通訊和出行，以確保試卷內容不外洩。印度醫學院5月3日舉行入學考試，因發生大規模洩題，超過200萬名考生成績被取消，引發輿論熱議。
-
----
-
-### 2026-06-12 12:52:46  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Pricing documents show Kuwait sharply cut its July official selling price (OSP) for crude to Asia.
-
----
-
-### 2026-06-12 12:52:45  #公司
-
-【抖音推出AI 反網暴行動 日均識別潛在被網暴風險人群擴大近一倍】評論區刷屏的一句“到七天了嗎”，看似正常，卻可能是對某個網購消費者的無端圍獵。近日，針對網路暴力呈現的新形態，抖音推出AI反網暴行動，上線AI反網暴Agent（智慧體），讓網暴識別模型、研判模型與人工協同工作，並最佳化外呼救助機制，覆蓋風險發現、事件研判、主動治理到外呼救助，平臺治理實現從“被動等舉報”到“主動找風險” 的轉變。 據瞭解，系統升級後，平臺日均識別出的潛在被網暴風險人群擴大 91.5%，每天有數千名使用者收到預警後主動開啟防網暴功能，因風險等級高而被人工外呼援助的受害者數量增長147%。（國是直通車）
-
----
-
-### 2026-06-12 12:52:10  #宏觀
-
-【國新辦釋出會丨介紹2026年5月份國民經濟執行情況】2026年6月16日，國務院新聞辦公室舉行新聞釋出會，請國家統計局新聞發言人、總經濟師、國民經濟綜合統計司司長付凌暉介紹2026年5月份國民經濟執行情況，並答記者問。
-
----
-
-### 2026-06-12 12:51:44  #公司
-
-【全國鐵路投資增速放緩，去年創下歷史新高】在去年創歷史紀錄的高基數條件下，今年進入二季度，全國鐵路投資增速放緩。6月12日，國鐵集團釋出，今年1至5月，全國鐵路完成固定資產投資2485億元，同比增長2.6%。相比前兩年，這一增速有所放緩。今年1月、1-2月、1-3月、1-4月和1-5月，全國鐵路完成固定資產投資5.5%、5.4%、5.1%、3.2%和2.6%。可以看出，進入二季度，投資增速下滑較為明顯。這與去年創紀錄的投資規模有關。2025年，全國鐵路完成固定資產投資突破9000億元，創歷史新高，達到9015億元、同比增長6%，投產新線3109公里，其中高鐵2862公里，鐵路投資拉動作用充分顯現。整體來看，“十四五”時期，全國鐵路投資完成3.98億元，與投資高位執行的“十三五”規模相當。“十四五”期間，全國鐵路營業里程由14.63萬公里增至16.5萬公里、增長12.8%，高鐵由3.79萬公里增至5.04萬公里、增長32.98%。（一財）
-
----
-
-### 2026-06-12 12:51:02  #其他
-
-【江蘇常州發生一起小型直升機降落事故 致2人受傷】記者從江蘇省常州市武進區南夏墅街道辦事處獲悉，6月11日14時許，武進區海湖路附近一架小型直升機降落時發生事故，造成2名駕乘人員受傷，其中1人已醫治出院，另外1人傷勢較重仍在救治中。目前，事故原因正在調查中。（新華社）
-
----
-
-### 2026-06-12 12:50:55  #MKT News
-
-【China Meteorological Administration starts level-4 emergency response for major meteorological disaster (heavy rain)】Central Meteorological Observatory forecasts heavy to torrential rain across parts of southwest China, East China, South China and northern North China on June 12–13; Guizhou and Jiangxi may see very heavy rainfall, with short-duration intense downpours and isolated thunderstorm gusts. Following assessment and emergency consultation, the China Meteorological Administration activated a level-4 major meteorological disaster (heavy rain) emergency response at 11:30 on June 12.
-
----
-
-### 2026-06-12 12:50:37  #其他
-
-【中國氣象局啟動重大氣象災害（暴雨）四級應急響應】中央氣象臺預計，6月12日至13日，西南地區、華東、華南及華北北部等地部分地區有大雨或暴雨，其中貴州、江西等地局地有大暴雨，上述部分地區伴有短時強降水，局地有雷暴大風等強對流天氣。經綜合研判和應急會商，6月12日11時30分，中國氣象局啟動重大氣象災害（暴雨）四級應急響應。
-
----
-
-### 2026-06-12 12:50:25  #國際
-
-【義大利總理與議員在議會互懟】當地時間6月11日，義大利總理梅洛尼在議會與反對黨五星運動議員互懟。五星運動議員薩爾韋斯特里指責梅洛尼政府“並未改變對美國和以色列‘卑躬屈膝的姿態’”，指責義大利政府根本沒有“挺直脊樑”，而只是“戴上了護膝以便跪得容易”。梅洛尼則反駁稱，薩爾韋斯特里不尊重女性，斷言自己“戴了護膝”，並指出或許真正讓這名議員惱火的是，自己“從未戴過護膝，沒有走過捷徑，全憑一己之力走到今天”。
-
----
-
-### 2026-06-12 12:49:50  #MKT News #Market Themes #AI Revolution
-
-【ZhiYuan Research Institute unveils world’s first general-purpose world foundation model Wujie Physis-v0.1】On June 12 at the 2026 ZhiYuan Conference, ZhiYuan Research Institute director Wang Zhongyuan unveiled Wujie Physis-v0.1, which the institute describes as the world’s first general-purpose world foundation model. The model is said to feature four core properties—physical correctness, traceable action causality, long-range consistency and broad generalization—and is applicable to robotics, video generation, gaming and industrial-physics use cases, serving as a base model for embodied intelligence and heavy industrial applications.
-
----
-
-### 2026-06-12 12:49:20  #其他
-
-【智源研究院釋出全球首個通用世界基座模型“悟界·Physis-v0.1”】6月12日，在2026智源大會現場，智源研究院院長王仲遠釋出全球首個通用世界基座模型——悟界·Physis-v0.1，據介紹，悟界·Physis-v0.1具備四大核心特性：物理正確、動作因果可溯、長程一致與通用泛化。模型可適配機器人、影片生成、遊戲、工業等全垂類真實物理應用場景，為具身智慧、嚴肅工業等領域提供底層支撐。
-
----
-
-### 2026-06-12 12:47:51  #其他
-
-【香港超級豪宅以7200萬美元易手 創下今年最大二手房交易】香港一處歷史悠久的洋房以5.63億港元(7,200萬美元)的價格售出，成為今年香港最大的房地產交易之一。土地註冊處登記檔案顯示，石澳道14號的豪宅已售予Jennifer Tzelee Teo。根據房地產資料庫EPRC Ltd.，這是今年最大的一筆二手房交易。
-
----
-
-### 2026-06-12 12:43:38  #MKT News
-
-BARCLAYS upgraded its rating on the European gaming sector to Neutral.
-
----
-
-### 2026-06-12 12:43:29  #國際
-
-巴克萊上調歐洲博彩板塊評級至與大盤持平。
-
----
-
-### 2026-06-12 12:43:07  #其他
-
-【同程旅行釋出《2026暑期非遺目的地指南》，非遺體驗搜尋熱度環比增長71%】6月13日是“文化和自然遺產日”。6月12日，同程旅行釋出《2026暑期非遺目的地指南》，上榜目的地依次為：景德鎮、泉州、蘇州、西安、大理、潮州、黔東南、成都、黃山、平遙。同程旅行資料顯示，截至6月12日，平臺上“非遺體驗”相關關鍵詞搜尋熱度環比上月增長71%，非遺主題產品預訂熱度環比上月增長23%，其中“非遺扎染”“非遺戲劇”等深度體驗類產品增幅顯著，非遺正從“被動觀看”加速轉向“主動體驗”。
-
----
-
-### 2026-06-12 12:41:37  #央行
-
-【美伊停戰預期緩解通脹擔憂，創業板50ETF華安（159949）半日成交超10億領跑同類！機構：6月下旬高景氣方向有望重獲資金佈局】6月12日，市場早盤高開後強勢震盪，創業板指高開後震盪回落，三大股指均漲超1％。受此帶動，創業板50ETF華安（159949）漲1.14％，報1.869元，換手率4.43％，成交額10.16億元，居同類標的ETF首位。訊息面上，市場預期美伊有望達成停戰協議，國際原油走低，全球通脹擔憂顯著緩解，海外央行激進加息週期接近尾聲，實際利率上行壓力減弱。與此同時，新能源汽車、風電、人形機器人等新興產業持續擴張，全球氧化鐠釹需求預計由2025年的11.8萬噸增至2027年的13.6萬噸，新能源汽車釹鐵硼需求由6.9萬噸升至8.5萬噸，上游資源需求彈性持續提升。華西證券研究所副所長、策略首席分析師李立峰認為，6月下旬，隨著壓制風險偏好的外部變數逐步落地，A股中報業績預告陸續披露，具備業績支撐、產業趨勢明確的高景氣方向有望重獲資金佈局。平安基金表示，下半年A股整體或延續強勢格局，但正從估值驅動向盈利換估值階段切換，權益資產配置價值依然突出，結構重於總量。宏觀層面，全球經濟正向AI投資與裝備製造的正規化切換，國內中游製造迎來戰略躍升期，有望成為未來一到三年的核心景氣主線；微觀層面，AI產業從獎勵資本開支轉向驗證真實回報，產能逐漸成為選股的首要標準，光通訊、半導體裝置材料等方向確定性強。投資者可直接透過股票賬戶交易創業板50ETF華安（159949），也可透過聯接基金（A類：160422；C類：160424；I類：022654；Y類：022976）參與。
-
----
-
-### 2026-06-12 12:41:15  #國際
-
-【惠譽：泰國今年遊客入境人數可能下降】惠譽解決方案旗下BMI的分析師表示，在泰國經濟中發揮關鍵作用的國際旅遊業可能依然低迷。他們在一份報告中表示，該行業面臨中東衝突帶來的風險升溫，這影響了歐洲和中東長途旅客的航班路線。該行業還面臨來自其他區域市場日益激烈的競爭。他們補充說，遊客入境人數減少將影響包括酒店和餐廳在內的其他相關服務的支出。BMI預計，2026年泰國遊客入境人數將下降2.7%。
-
----
-
-### 2026-06-12 12:40:51  #Trading Economics #Economy #Japan #Industrial Production Mom #Importance 1
-
-Japan Industrial Output Growth Revised Lower — Japan’s industrial production rose 0.5% month-over-month in April 2026, below flash data of 0.8% but reversing from a 0.4% drop in the previous month. It was the first rise since January, amid resilient overseas demand and a recovery in domestic manufacturing activity, although escalating Middle East tensions continued to pose risks to supply chains and energy costs. Output grew for general-purpose and business-oriented machinery (4.4% vs -5.3% in March), electrical machinery, and information and communication electronics equipment (2.7% vs 0.9%), and other manufacturing (1.6% vs -1.7%). In contrast, production fell for motor vehicles (-2.4% vs flat reading), inorganic and organic chemicals (-1.8% vs -8.6%), and chemicals excluding inorganic, organic chemicals (-0.3% vs 2.0%). On an annual basis, output increased 2.0%, following a 2.4% rise in March and marking the fifth straight month of expansion.
 
 ---

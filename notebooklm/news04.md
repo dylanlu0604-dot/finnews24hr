@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 20:21:54_
-_本檔包含 3551 則快訊，約 658369 字_
+_更新時間：2026-06-14 21:15:57_
+_本檔包含 3539 則快訊，約 658138 字_
+
+---
+
+### 2026-06-10 09:40:52  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時放量349億元。
+
+---
+
+### 2026-06-10 09:40:49  #資料 #市場
+
+【國家統計局：算力需求增長等帶動有色金屬、電氣機械和計算機相關行業價格上漲】從環比看，5月份全國PPI上漲0.5%，漲幅比上月回落1.2個百分點。本月PPI環比執行的主要特點：一是產業結構最佳化升級帶動部分行業價格上行。製造業裝置更新持續推進，黑色金屬冶煉和壓延加工業價格環比上漲1.2%。電氣化程序加快，人工智慧與各領域深度融合，算力需求增長等帶動有色金屬、電氣機械和計算機相關行業價格上漲，有色金屬冶煉和壓延加工業價格上漲1.1%，其中錫冶煉、銅冶煉價格分別上漲4.8%和3.1%；計算機通訊和其他電子裝置製造業價格上漲0.6%，其中積體電路封裝測試系列、外儲存裝置及部件價格分別上漲2.9%和1.9%；電氣機械和器材製造業價格上漲0.5%，其中光纖製造、電線電纜製造價格分別上漲8.0%和1.2%。
+
+---
+
+### 2026-06-10 09:40:38  #國際
+
+巴林內政部10日發表宣告說，巴林全國拉響防空警報，請民眾前往安全地點。 稍早前，伊朗伊斯蘭革命衛隊說，伊朗對位於巴林的美軍第五艦隊設施發動了無人機襲擊。（新華社）
+
+---
+
+### 2026-06-10 09:40:17
+
+【美官員稱最新對伊打擊不會阻礙雙方談判】據美國方面9日訊息稱，一名美國官員表示，美軍最新發動的報復性打擊是為了警告伊朗，美方認為此次打擊不會阻礙關於結束戰爭的談判。（央視新聞）
+
+---
+
+### 2026-06-10 09:40:08  #國際
+
+巴林國王媒體顧問在X平臺表示：巴林防空系統擊退了伊朗的襲擊。
+
+---
+
+### 2026-06-10 09:39:55  #經濟數據 #中國
+
+【國家統計局：5月份CPI總體平穩 PPI繼續上漲】國家統計局城市司首席統計師董莉娟解讀2026年5月份CPI和PPI資料。5月份，居民消費市場執行總體平穩，居民消費價格指數（CPI）環比下降0.1%，同比上漲1.2%，扣除食品和能源價格的核心CPI同比上漲1.1%。受國內部分行業需求增加以及國際大宗商品價格波動傳導等因素影響，工業生產者出廠價格指數（PPI）環比上漲0.5%，同比上漲3.9%。
+
+---
+
+### 2026-06-10 09:39:25  #Trading Economics #Economy #China #Food Inflation #Importance 1
+
+China Food Prices Extend Decline — China’s food prices fell 1.7% year-on-year in May 2026, following a 1.6% decline in the previous month. It was the second straight month of decrease and the steepest pace since last October.
+
+---
+
+### 2026-06-10 09:39:25  #MKT News #Important #CSI300 #Impact bullish #SZSE Component #CNH
+
+Sci‑Tech Innovation 50 Index (STAR 50) rose more than 2% intraday as the semiconductor sector rallied; constituents included China's CPU maker Haiguang, up over 10%, Shanghai Silicon Industry, up over 7%, and Cambricon, up over 4%.
+
+---
+
+### 2026-06-10 09:39:22  #Trading Economics #Economy #China #Producer Prices Change #Importance 2
+
+China Producer Inflation Nears 4-Year High — China’s producer prices increased 3.9% year-on-year in May 2026, accelerating from a 2.8% rise in the previous month and surpassing market forecasts of 3.8%. It was the second consecutive monthly increase and the fastest pace since July 2022, driven by soaring global commodity and energy prices amid supply disruptions stemming from the war in Iran.
+
+---
+
+### 2026-06-10 09:39:07  #MKT News #Important
+
+【U.S. official says latest strike on Iran will not impede talks to end the war】A U.S. official said the recent retaliatory strike was intended as a warning to Iran and that U.S. officials do not believe it will impede negotiations to end the war.
+
+---
+
+### 2026-06-10 09:38:46  #市場
+
+【兵裝重組概念板塊拉昇，湖南天雁漲停】兵裝重組概念板塊拉昇，湖南天雁漲停，東安動力、長城軍工、建設工業、華強科技跟漲。
+
+---
+
+### 2026-06-10 09:38:32  #市場 #焦點
+
+雞蛋連續主力合約日內漲2%，現報4789.00元。
+
+---
+
+### 2026-06-10 09:38:18  #MKT News #Commodities #Energy #Industrial Metals #CSI300 #Impact bullish #Copper
+
+China A-share energy and metals sector strengthened in early trade; Zhongkuang Resources and Shengxin Lithium Energy rose over 4%, while Yongxing Materials, Ganfeng Lithium, Tibet Mining and TTANQT LITHIUM also gained.
+
+---
+
+### 2026-06-10 09:38:07  #公司 #市場
+
+【工業氣體概念震盪反彈，昊華科技、和遠氣體雙雙漲停】工業氣體概念震盪反彈，昊華科技、和遠氣體雙雙漲停，中船特氣、凱美特氣、中泰股份、杭氧股份、金宏氣體、廣鋼氣體等跟漲。
+
+---
+
+### 2026-06-10 09:38:03  #MKT News
+
+President Trump will sign the Secure America Act tomorrow at 10:00 a.m. local time (22:00 Beijing time) in the Oval Office; the ceremony will be open to the White House press pool.
+
+---
+
+### 2026-06-10 09:38:01  #公司 #市場
+
+【食品飲料行業板塊異動拉昇，元祖股份漲停】食品飲料行業板塊異動拉昇，元祖股份漲停，金字火腿、惠泉啤酒、百潤股份、歐福蛋業、迎駕貢酒、安井食品等跟漲。
+
+---
+
+### 2026-06-10 09:37:55  #公司 #市場
+
+【環氧丙烷板塊走高，紅寶麗漲停】環氧丙烷板塊走高，中化國際2連板，紅寶麗漲停，美邦科技、紅牆股份、國恩股份、石大勝華、維遠股份跟漲。
+
+---
+
+### 2026-06-10 09:37:50  #其他
+
+【物理AI概念反覆活躍 天娛數科4連板】物理AI概念反覆活躍，天娛數科4連板，能科科技、凡拓數創、索辰科技跟漲。
+
+---
+
+### 2026-06-10 09:37:44  #公司
+
+【測繪股份成立地理資訊公司，含AI及衛星相關業務】企查查APP顯示，近日，南京江新地理資訊有限公司成立，經營範圍包含：地理遙感資訊服務；衛星遙感應用系統整合；智慧水務系統開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由測繪股份全資持股。
+
+---
+
+### 2026-06-10 09:37:27  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-06-10 09:37:26  #MKT News #Important #Market Themes #Chip Wars
+
+Baiwei Storage shares rose more than 5% after the company signed a $1.861 billion contract to purchase enterprise-grade flash memory chips.
+
+---
+
+### 2026-06-10 09:37:15  #市場
+
+【鐳射雷達板塊大幅調整，XD美湖股跌停】鐳射雷達板塊大幅調整，XD美湖股跌停，天孚通訊、騰景科技、光庫科技、長光華芯、炬光科技、美迪凱等跟跌。
+
+---
+
+### 2026-06-10 09:37:04  #國際
+
+【美官員稱最新對伊打擊不會阻礙雙方談判】據美國方面9日訊息稱，一名美國官員表示，美軍最新發動的報復性打擊是為了警告伊朗，美方認為此次打擊不會阻礙關於結束戰爭的談判。美軍中央司令部9日在社交媒體發文稱，美軍當天對伊朗實施打擊，以回應美軍一架“阿帕奇”武裝直升機被伊朗擊落事件。（央視）
+
+---
+
+### 2026-06-10 09:36:48  #市場
+
+【金飾價格集體跳水，跌破1300元】6月10日亞洲早盤，黃金白銀盤中持續下挫，均跌超1.4%。國際金價跌破4200美元關口。前一日，金銀油亦全線下跌。現貨黃金、COMEX黃金期貨均跌超1%；現貨白銀、COMEX白銀期貨均跌超4%。6月10日，國內多家品牌金飾價格大幅下調，集體跌破1300元/克。周生生足金飾品報1277元/克，較前一日1322元/克大跌45元；老廟黃金足金飾品報1283元/克，相較前一日1317元/克大跌34元；老鳳祥足金飾品報1276元/克，相較前一日1316/克大跌40元。
+
+---
+
+### 2026-06-10 09:36:39  #市場
+
+【農林牧漁板塊開盤快速拉昇，京基智農漲停】農林牧漁板塊開盤快速拉昇，京基智農漲停，賢豐控股、眾興菌業、天康生物等跟漲。
+
+---
+
+### 2026-06-10 09:36:20  #資料 #市場
+
+【國家統計局：5月份CPI環比下降主要是受能源和服務價格變動影響】國家統計局城市司首席統計師董莉娟解讀2026年5月份CPI資料，從環比看，全國CPI下降0.1%，上月為上漲0.3%，主要是受能源和服務價格變動影響。受國際油價傳導影響，國內汽油價格由上月上漲12.6%轉為下降0.3%，帶動能源價格由上月上漲5.7%轉為下降0.1%，對CPI環比的影響由上月上拉0.39個百分點轉為下拉0.01個百分點。受“五一”節後出行季節性回落影響，服務價格由上月上漲0.5%轉為下降0.1%，對CPI環比的影響由上月上拉0.22個百分點轉為下拉0.03個百分點。其中，交通工具租賃和飛機票價格分別由上月上漲8.6%和29.2%轉為下降6.8%和6.3%，合計影響CPI環比下降約0.04個百分點。夏裝換季上新帶動服裝價格上漲0.6%，AI相關需求旺盛帶動行動電話機和平板電腦價格分別上漲1.6%和1.1%，上述三項合計影響CPI環比上漲約0.05個百分點。食品價格下降0.4%，降幅比上月收窄1.2個百分點，影響CPI環比下降約0.07個百分點。食品中，應季蔬菜大量上市，鮮菜價格下降3.6%，影響CPI環比下降約0.06個百分點；豬肉供應充足，價格下降1.6%，降幅比上月收窄4.1個百分點，影響CPI環比下降約0.03個百分點；階段性供給偏緊疊加夏季高溫產蛋率下降、端午節前集中備貨等因素影響，雞蛋價格上漲6.1%，影響CPI環比上漲約0.03個百分點。
+
+---
+
+### 2026-06-10 09:36:13  #MKT News #Commodities #Energy #Market Regions #Greater China #CNH #Impact mixed #CSI300 #Impact bullish
+
+【NBS: China CPI -0.1% MoM in May vs +0.3% in April; energy and services drove move】China's national CPI fell 0.1% MoM in May, after a 0.3% MoM rise in April, NBS urban statistics chief Dong Lijuan said. Domestic gasoline swung from +12.6% to -0.3% on international oil-price pass-through; energy CPI moved from +5.7% to -0.1%, shifting its MoM contribution from +0.39 percentage points to -0.01 percentage points. Services prices eased from +0.5% to -0.1% as post-May Day travel declined, with the services contribution to MoM CPI moving from +0.22ppt to -0.03ppt; vehicle rental and airfares alone flipped from +8.6% and +29.2% to -6.8% and -6.3%, together reducing MoM CPI by ~0.04ppt. Seasonal summer clothing (+0.6%) and stronger AI-related demand boosting mobile phones (+1.6%) and tablets (+1.1%) added roughly +0.05ppt to May MoM CPI.
+
+---
+
+### 2026-06-10 09:36:12  #市場
+
+半導體板塊盤初拉昇，中晶科技2連板，海光資訊漲超10%，氣派科技、富滿微、康強電子、傑華特跟漲。
+
+---
+
+### 2026-06-10 09:35:50  #MKT News #300347.SZ #Impact bullish #603259.SS
+
+China A-share CRO sector gained in early trade; Tigermed rose over 6%, with Baihua Pharmaceutical, Kailaiying, WuXi AppTec, Weilan Bio, Haoyuan Pharma and Nuosige also advancing.
+
+---
+
+### 2026-06-10 09:35:46  #Trading Economics #Economy #China #Inflation Rate #Importance 3
+
+China Inflation Slightly Below Forecasts — China’s consumer inflation held steady at 1.2% year-on-year in May 2026, unchanged from April and slightly below market expectations of 1.3%. On a monthly basis, consumer prices fell 0.1%, reversing a 0.3% increase in the previous month. However, the decline was milder than market forecasts of a 0.2% drop.
+
+---
+
+### 2026-06-10 09:35:35  #市場
+
+大盤主力淨流出超100億。
+
+---
+
+### 2026-06-10 09:35:19  #公司
+
+模組化電源系統公司EROCK透過IPO籌集了6億美元。
+
+---
+
+### 2026-06-10 09:35:01  #公司 #市場
+
+【AI智慧體概念盤初走強 南興股份一字漲停】早盤AI智慧體概念走強，南興股份一字漲停，南威軟體觸及漲停，宇信科技、天娛數科、思特奇、返利科技跟漲。
+
+---
+
+### 2026-06-10 09:34:56  #市場
+
+【長飛光纖股價創歷史新高】長飛光纖盤中股價創歷史新高，現漲0.14%，報485.00元，總市值為2904.27億元。
+
+---
+
+### 2026-06-10 09:34:54  #MKT News #CNH #Impact mixed #CSI300 #Copper #Impact bullish
+
+【NBS Urban Department chief statistician Dong Lijuan interprets May 2026 CPI and PPI data】NBS Urban Department chief statistician Dong Lijuan said May 2026 CPI fell 0.1% MoM and rose 1.2% YoY; core CPI excluding food and energy rose 1.1% YoY. Producer prices (PPI) rose 0.5% MoM and 3.9% YoY, driven by firmer domestic industrial demand and pass-through from international commodity price volatility.
+
+---
+
+### 2026-06-10 09:34:44  #資料 #市場
+
+【國家統計局城市司首席統計師董莉娟解讀2026年5月份CPI和PPI資料】5月份，居民消費市場執行總體平穩，居民消費價格指數（CPI）環比下降0.1%，同比上漲1.2%，扣除食品和能源價格的核心CPI同比上漲1.1%。受國內部分行業需求增加以及國際大宗商品價格波動傳導等因素影響，工業生產者出廠價格指數（PPI）環比上漲0.5%，同比上漲3.9%。
+
+---
+
+### 2026-06-10 09:34:16  #其他
+
+【剛果（金）埃博拉確診病例升至598例】剛果（金）衛生部9日釋出報告說，截至8日，剛果（金）本輪埃博拉疫情累計確診病例升至598例，其中115例死亡。報告顯示，目前共有297名患者處於隔離或住院治療狀態，累計治癒人數升至22人。
+
+---
+
+### 2026-06-10 09:33:59  #市場
+
+【半導體板塊迅速拉昇，海光資訊漲超10%】半導體板塊迅速拉昇，海光資訊漲超10%，中晶科技、氣派科技、富滿微、康強電子、傑華特跟漲。
+
+---
+
+### 2026-06-10 09:33:58  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Slide on Middle East Tensions — The benchmark KOSPI fell more than 2% to around 7,880 on Wednesday, reversing gains from the previous session and tracking overnight losses on Wall Street as escalating tensions between the US and Iran weighed on investor sentiment. Risk appetite deteriorated after the US launched new strikes against Iran in response to the downing of an American military helicopter, raising concerns over broader regional instability and pushing oil prices higher. Technology shares also came under pressure after a selloff in US chipmakers, with investors locking in profits following the market's recent AI-driven rally as concerns over stretched valuations resurfaced. Samsung Electronics (-4.9%) and SK hynix (-4.3%) led the decline, while losses were also recorded in SK Square (-3.9%) and Hyundai Motor (-2.8%). In contrast, Hanwha Aerospace (1.9%) outperformed on expectations of increased defense spending amid heightened geopolitical uncertainty.
+
+---
+
+### 2026-06-10 09:33:55  #MKT News #Market Regions #Greater China
+
+【National Bureau of Statistics: May chemical raw material prices up 11.8%】China's National Bureau of Statistics said in May producer purchase prices rose for non-ferrous metal materials and wire (+22.0%), chemical raw materials (+11.8%), fuel and power (+10.0%), textile raw materials (+2.5%) and ferrous metal materials (+0.3%); building materials and non‑metallics fell 5.5% and agricultural products fell 1.6%.
+
+---
+
+### 2026-06-10 09:33:51  #公司
+
+【林洋能源成立新能源算力技術公司，含多項AI業務】企查查APP顯示，近日，雄安林洋新能源算力技術有限公司成立，註冊資本2億元，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧硬體銷售；量子計算技術服務等。企查查股權穿透顯示，該公司由林洋能源全資持股。
+
+---
+
+### 2026-06-10 09:33:42  #其他
+
+【電子特氣概念反覆活躍 和遠氣體5天3板】電子特氣概念反覆活躍，和遠氣體走出5天3板，中船特氣漲超10%，續創歷史新高，昊華科技、凱美特氣、廣鋼氣體等衝高。
+
+---
+
+### 2026-06-10 09:33:23  #市場 #國際
+
+日本30年期國債收益率下跌1.5個基點至3.850%。
+
+---
+
+### 2026-06-10 09:33:11  #MKT News #Market Regions #Greater China #CNH #Impact bearish #SSE Composite #Impact mixed
+
+【China NBS: May food, tobacco, alcohol and dining-out prices down 0.2% MoM】China's National Bureau of Statistics said in May food, tobacco, alcohol and dining-out prices fell 0.2% MoM, shaving about 0.06 percentage points off CPI. Fresh vegetables fell 3.6% MoM (≈‑0.06 ppt impact); livestock meat fell 0.8% (≈‑0.03 ppt), with pork down 1.6% (≈‑0.03 ppt). Eggs rose 5.0% (≈+0.03 ppt) and fresh fruit rose 0.6% (≈+0.01 ppt). Of the other seven major categories, one rose, two were flat and four fell: clothing +0.6%; education, culture & entertainment and healthcare flat; household goods & services and other goods & services ‑0.4%; transport & communications ‑0.3%; housing ‑0.1%.
+
+---
+
+### 2026-06-10 09:33:04  #MKT News #CSI300 #Impact bullish #SZSE Component
+
+A-share poultry sector spiked intraday; Jingji Zhinong hit the daily limit, Yike Food, Xiangjia and Yisheng also rose.
+
+---
+
+### 2026-06-10 09:32:56  #公司 #市場
+
+【養雞板塊短線拉昇，京基智農漲停】養雞板塊短線拉昇，京基智農漲停，益客食品、湘佳股份、益生股份跟漲。
+
+---
+
+### 2026-06-10 09:32:56  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish #SSE Composite
+
+China's Sci‑Tech Innovation 50 Index rose over 1%, led by sharp rallies in aerospace equipment, memory chips and photolithography (photoresist) stocks.
+
+---
+
+### 2026-06-10 09:32:42  #MKT News #CNH #Impact mixed
+
+【National Bureau of Statistics: May pork down 16.1%, cuts CPI by about 0.31 percentage points】The National Bureau of Statistics said food, tobacco & alcohol and catering prices fell 0.9% YoY in May, reducing CPI by about 0.26 percentage points. Meat prices were down 7.4% YoY, trimming CPI by roughly 0.31ppt; pork plunged 16.1% YoY and accounted for most of that reduction (~0.31ppt). Fresh fruit -2.2% YoY (-0.04ppt); eggs +6.6% (+0.03ppt); fresh vegetables +1.6% (+0.02ppt); aquatic products +0.6% (+0.01ppt). Of the seven other major CPI categories, six rose YoY and one fell: other goods and services +9.9%, transport & communications +5.4%, healthcare +2.1%, household goods & services +1.8%, clothing +1.4%, education/culture/recreation +1.3%; housing -0.2%.
 
 ---
 
@@ -21067,365 +21355,5 @@ Amazon (AMZN.O) filed with the U.S. Securities and Exchange Commission to issue 
 ### 2026-06-09 05:25:31  #公司 #央行 #國際
 
 【對沖基金對賭日本央行6月加息孤掌難鳴，難阻日元繼續沉淪】在6月份日本央行政策會議召開前夕，對沖基金正嚴陣以待日元的進一步走軟。他們認為，即便再次加息，也幾乎無法扭轉日元所面臨的結構性貶值壓力。鑑於市場目前已幾乎完全消化了本月加息 25 個基點的預期，這些追求快進快出的“敏捷資金”正愈發將核心焦點轉向：日本央行究竟是否有能力開啟一輪具備持續性的緊縮週期。五星資產管理公司（Fivestar Asset Management Co.）和Palinuro Capital目前均持有日元空頭頭寸；而Simplex資產管理公司則計劃在日元反彈突破1美元兌159日元后，階段性地反向建立做空日元的戰術期權。
-
----
-
-### 2026-06-09 05:25:25  #其他
-
-標普：預計捷藍航空至少未來 12 個月的經營業績將承受巨大壓力。
-
----
-
-### 2026-06-09 05:25:08  #市場 #央行 #國際
-
-【美銀警告美股危險訊號增多 是時候“獲利了結”】美銀證券（Bank of America Securities）表示，隨著越來越多熊市訊號指向市場頂部將近，投資者應謹慎對待美國股市。Savita Subramanian為首的策略師在6月5日的報告中寫道，“危險訊號太多”。他們建議“獲利了結”。策略師表示，這些熊市訊號中約70%近期已被觸發，與以往市場見頂時觀察到的平均水平一致。Subramanian表示，基準標普500指數“從20項指標中的17項來看，在統計上處於高估值水平，且8項指標顯示其估值高於科技股泡沫時期”。相關指標包括消費者信心資料、增長預期、併購評分和信貸壓力，以及收緊狀況指標，例如美聯儲高階信貸員意見調查(SLOOS)。5月釋出的SLOOS顯示，消費者需求繼續走軟。此外，策略師表示，高市盈率股票大幅跑贏低市盈率股票，這是“過度投機的跡象”。
-
----
-
-### 2026-06-09 05:24:51  #其他
-
-標普：因燃油成本走高、槓桿率持續處於高位，捷藍航空評級從 B - 下調至 CCC+，評級展望穩定。
-
----
-
-### 2026-06-09 05:23:17  #MKT News #Market Themes #AI Revolution
-
-【OpenAI says it confidentially filed an S-1 and disclosed it after expecting a leak】OpenAI said it confidentially filed an S-1 registration and preemptively published the document after anticipating a leak. The company said IPO timing is uncertain; the filing preserves the option to accelerate a public listing when it judges the timing right. The statement indicates OpenAI is positioning to capture investor demand from the AI boom; competitor Anthropic is also advancing toward a public listing.
-
----
-
-### 2026-06-09 05:21:30  #MKT News #META.O
-
-Meta Platforms (META.O) said its U.S. Workforce Academy is a no-cost program open to all participants and offers employment guarantees for all graduates.
-
----
-
-### 2026-06-09 05:20:44  #國際
-
-Meta ：美國勞動力學院（AWA）為免費專案，學員學習期間可獲得相關支援，所有結業學員均能獲得就業保障。
-
----
-
-### 2026-06-09 05:20:19  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) launched a U.S. Workforce Academy with $115 million in first-year funding; pilots are scheduled for 2026 in Louisiana, Ohio, Indiana and Texas.
-
----
-
-### 2026-06-09 05:20:17  #國際
-
-OpenAI：“預估相關資訊會外洩”，因此官宣已向美國證券交易委員會秘密提交 S-1 招股書草案。
-
----
-
-### 2026-06-09 05:19:16  #公司
-
-蘋果：將對用於私有云計算的谷歌硬體建立臺賬管理，本月晚些時候，蘋果將在一場峰會上公佈更多關於谷歌雲私有云計算的技術細節。
-
----
-
-### 2026-06-09 05:18:45  #國際
-
-Meta 宣佈推出美國勞動力學院，首年投入 1.15 億美元啟動資金。
-
----
-
-### 2026-06-09 05:17:37  #MKT News #Market Themes #AI Revolution
-
-OpenAI said an IPO may take time, noting some initiatives are easier to pursue as a private company.
-
----
-
-### 2026-06-09 05:17:33  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish #GOOGL.O #Impact mixed
-
-Apple (AAPL.O) said it will retain full control of its Private Cloud Compute software regardless of where infrastructure is hosted. Apple devices will only trust Private Cloud Compute software cryptographically signed by Apple. The Private Cloud Compute service running on Google Cloud will progressively deploy full protections during the summer preview.
-
----
-
-### 2026-06-09 05:17:01  #其他
-
-OpenAI：上市程序或需時日，因為部分規劃事項在非上市階段推進更為順利。
-
----
-
-### 2026-06-09 05:15:53  #公司
-
-蘋果：部署在谷歌雲的私有云計算服務，將在整個夏季預覽階段逐步完善全套安全防護機制。
-
----
-
-### 2026-06-09 05:15:42  #公司 #其他 #焦點 #國際
-
-OpenAI：尚未確定 IPO 時間表。
-
----
-
-### 2026-06-09 05:15:27  #市場
-
-富時A50期指連續夜盤收漲0.10%，報15206點。
-
----
-
-### 2026-06-09 05:15:25  #公司
-
-蘋果：無論基礎設施部署於何處，蘋果始終全權掌控私有云計算軟體。蘋果裝置僅信任經本公司加密認證的私有云計算軟體。
-
----
-
-### 2026-06-09 05:15:22  #Trading Economics #Economy #El Salvador #Inflation Rate #Importance 1
-
-El Salvador Inflation Rises to 20-Month High — Consumer prices in El Salvador rose 2.5% year-over-year in May 2026, the highest reading since October 2023, up from 2.2% in April. Inflation picked up for transport (6.4% vs 3.3%), recreation and culture (1.8% vs 1.1%), healthcare (2.8% vs 2.7%), housing and utilities (1.1% vs 1.1%), restaurants and hotels (4.4% vs 4.2%), and miscellaneous goods and services (1.8% vs 1.6%). Meanwhile, food and non-alcoholic beverages inflation eased slightly (2.9% vs 3.0%), as did prices for alcoholic beverages and tobacco (2.4% vs 2.5%). Communication costs fell at a faster pace (-0.9% vs -0.7%), while education inflation was unchanged at 0.5%. Clothing and footwear prices rebounded by 0.03% after falling 0.05% in April, and furniture and household goods prices increased 0.4% following a 0.02% decline in the previous month.
-
----
-
-### 2026-06-09 05:15:20  #MKT News #Market Themes #AI Revolution
-
-OpenAI said it has not yet decided on the timing of an IPO.
-
----
-
-### 2026-06-09 05:15:00  #MKT News #Important
-
-OpenAI confidentially filed a draft S-1 registration statement with the U.S. Securities and Exchange Commission.
-
----
-
-### 2026-06-09 05:14:32  #公司 #焦點 #國際
-
-OpenAI：向美國證券交易委員會秘密提交 S-1 招股說明書草案。
-
----
-
-### 2026-06-09 05:12:52  #MKT News
-
-i24 News reported Eilat in southern Israel issued a red alert for a suspected drone threat; the IDF intercepted the threat.
-
----
-
-### 2026-06-09 05:11:37  #其他
-
-OpenAI首席科學家：OpenAI致力追求的各項核心目標，均圍繞著這一使命：確保通用人工智慧造福全人類。人工智慧應當增強人類的主體性，而非削弱人類在塑造未來中的作用與意義。
-
----
-
-### 2026-06-09 05:11:33  #MKT News #Market Themes #AI Revolution
-
-OpenAI chief scientist says OpenAI’s core objectives center on ensuring AGI benefits all humanity; AI should enhance human agency, not diminish humans’ role in shaping the future.
-
----
-
-### 2026-06-09 05:10:09  #國際
-
-據以色列i24新聞臺： 以色列南部埃拉特地區因無人機來襲拉響紅色警報，以色列國防軍已攔截該來襲目標。
-
----
-
-### 2026-06-09 05:08:30  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O) rolled out new intelligent features and expanded productivity capabilities in Xcode.
-
----
-
-### 2026-06-09 05:07:21  #其他
-
-蘋果：為 Xcode 新增智慧功能，並升級多項高效辦公特性。
-
----
-
-### 2026-06-09 05:06:54  #市場
-
-週一（6月8日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7847元，較上週五紐約尾盤漲60點，日內整體交投於6.7924-6.7804元區間。
-
----
-
-### 2026-06-09 05:05:14  #MKT News #QCOM.O #Impact bullish
-
-Qualcomm (QCOM.O) U.S. shares rose nearly 8% in after-hours trading.
-
----
-
-### 2026-06-09 05:04:28  #市場
-
-高通美股盤後上漲 7.7%。
-
----
-
-### 2026-06-09 05:02:38  #國際
-
-美國中央司令部司令布拉德・庫珀海軍上將今日在華盛頓向眾議院撥款委員會國防小組委員會彙報了美軍在中東的作戰重點。他明日還將向參議院相關委員會進行彙報。此前，其已於上月向參眾兩院軍事委員會作公開簡報。
-
----
-
-### 2026-06-09 05:01:51  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel Defense Forces said it activated an air-defense alert after enemy aircraft entered the airspace over Even Menachem and Shomera; the situation is under investigation.
-
----
-
-### 2026-06-09 05:00:13  #國際
-
-以色列國防軍：因敵方飛行器侵入埃文・梅納赫姆與肖梅拉空域，已拉響防空警報，目前相關情況正在調查中。
-
----
-
-### 2026-06-09 04:59:58  #國際
-
-據以色列i24新聞臺：以色列北部拉響紅色警報。
-
----
-
-### 2026-06-09 04:59:56  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Israeli i24 news reports a red alert has been sounded in northern Israel.
-
----
-
-### 2026-06-09 04:58:50  #MKT News
-
-Al Jazeera reported Hezbollah said it struck Israeli forces in southern Lebanon.
-
----
-
-### 2026-06-09 04:52:38  #Trading Economics #Markets #Brazil #Stock Market #Importance 0
-
-Ibovespa Falls on Banking and Vale Losses — The Ibovespa fell 0.2% to close at 168,669 on Monday, pressured by losses in Vale and major banks in a session marked by low trading volumes. Investors remained cautious as they awaited fresh catalysts after the benchmark retreated sharply from its record highs reached in April. Vale lost 0.8%, tracking lower iron ore futures in China. Financial stocks were mostly weaker, with Bradesco down 1.6%, Itaú falling 0.8%, and Banco do Brasil losing 0.4%. Petrobras rose about 0.8%, supported by higher oil prices, although crude pared earlier gains after Iran and Israel signaled they had halted attacks on each other following an appeal from US President Donald Trump. WEG jumped 3.6% after HSBC initiated coverage with a buy rating. Elsewhere, Embraer gained 1.5% on expectations of progress in an Indian military aircraft tender, while MRV dropped 4.6% and Marfrig fell 1.5%.
-
----
-
-### 2026-06-09 04:52:04  #市場
-
-週一（6月8日）紐約尾盤，現貨黃金大致持平，報4326.91美元/盎司，整體呈現出V形走勢，交投於4353.37-4268.80美元。COMEX黃金期貨跌0.34%，報4350.30美元/盎司，北京時間13:37曾重新整理日低至4293美元。
-
----
-
-### 2026-06-09 04:52:04  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Copper
-
-【India seeks preferential U.S. tariffs to clinch interim trade deal】India is seeking new preferential tariff terms from the U.S. to finalize an interim trade agreement, a senior Indian trade official told foreign media. New Delhi and Washington reached a preliminary accord in February, but talks slowed after the U.S. Supreme Court struck down broad tariff measures. The U.S. has proposed an additional 12.5% tariff on imports from India and other countries and is considering another levy targeting alleged textile overcapacity. The Indian official said a deal hinges on clarity over those tariffs, that rates be competitive with direct rivals, and that India secure U.S. assurances no further tariffs will be imposed after an agreement.
-
----
-
-### 2026-06-09 04:48:03  #國際
-
-【聯合國秘書長：對中東局勢再次升級深感擔憂】當地時間6月8日，聯合國秘書長古特雷斯發表宣告，對中東地區近期局勢再次升級深感擔憂；他呼籲所有相關方立即停止襲擊，保持最大限度剋制，並避免採取任何可能進一步加劇本已高度緊張局勢的行動。
-
----
-
-### 2026-06-09 04:46:48  #公司 #市場 #觀點
-
-【6月9日美股成交額前20：英特爾獲谷歌300萬顆TPU大單】第6名英特爾收高11.19%，成交148.7億美元。週一該股股價創一個月來最大漲幅，此前有報道稱，Alphabet旗下谷歌將2028年逾300萬顆專用AI晶片訂單交給英特爾。據兩名未具名知情人士透露，在經過數月技術測試後，谷歌決定選擇英特爾生產部分張量處理器（TPU）。訊息人士稱，隨著臺積電難以滿足市場強勁需求，英特爾正從谷歌等公司獲得訂單。
-
----
-
-### 2026-06-09 04:46:33  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises as Energy and Tech Stocks Lead Gains — The S&P/TSX Composite Index gained 0.2% to close at 34,479 on Monday, recovering modestly after posting its biggest decline in nearly four months on Friday, with energy and technology shares leading gains. Energy stocks advanced as oil prices moved higher amid persistent geopolitical risks near the Strait of Hormuz. Iran and Israel said they had halted attacks on each other following an appeal from US President Donald Trump, although Iran warned it would resume strikes if Israel continued targeting Hezbollah in Lebanon. Canadian Natural rose 1.4%, Suncor gained 1.5%, and Cenovus added 1.7%. Technology shares also outperformed, tracking gains on Wall Street after reports that Alphabet had placed a major chip order with Intel. Shopify advanced 1.2%, while Celestica climbed 3.8%. Investors also looked ahead to the Bank of Canada's policy decision on Wednesday, with rates expected to remain unchanged at 2.25%.
-
----
-
-### 2026-06-09 04:45:17  #MKT News #Market Regions #Emerging Markets #EEM #Impact bearish #VWO
-
-MSCI Emerging Markets Index closed down 3.6%, its steepest one-day decline since March.
-
----
-
-### 2026-06-09 04:44:39  #市場
-
-【MSCI稱將對SpaceX IPO採用標準方法】MSCI稱，打算對SpaceX的首次公開募股（IPO）採用針對大型IPO的標準方法。MSCI表示，SpaceX必須符合指數成份股資格規則，才會被考慮提前納入指數，有關提前納入的決定將於第十個交易日收盤時生效。
-
----
-
-### 2026-06-09 04:39:32  #其他
-
-【非洲疾控中心：本輪埃博拉疫情確診病例升至563例】當地時間6月8日，非洲疾控中心釋出統計資料，截至6月7日，本輪埃博拉疫情累計確診病例數升至563例。其中，剛果（金）確診病例544例，確診死亡病例88例；烏干達確診病例19例，確診死亡病例2例。
-
----
-
-### 2026-06-09 04:38:57  #國際
-
-據法爾斯通訊社：訊息稱葉門方面向以色列發動無人機襲擊。
-
----
-
-### 2026-06-09 04:36:15  #市場
-
-MSCI新興市場股票指數收盤下跌3.6%，創3月以來最大單日跌幅。
-
----
-
-### 2026-06-09 04:35:36  #MKT News
-
-Al Arabiya reports Lebanon's justice minister said Hezbollah's campaign is unrelated to Lebanon's national interest and is pursuing an external agenda. He said Lebanon does not intend to remain at war, that ending the fighting requires negotiations, and that Hezbollah's stance has weakened Lebanon's negotiating leverage.
-
----
-
-### 2026-06-09 04:35:34  #其他
-
-吉利德與默克宣佈，兩項評估每週口服一次的艾滋病治療藥物Islatravir/lenacapavir的三期臨床試驗取得積極主要終點結果。
-
----
-
-### 2026-06-09 04:35:06  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.16% Lower — The Dow Jones Index decreased 81 points or 0.16 percent on Monday to close at 50786 points. The decline was led by Travelers Companies (-2.16%), Apple (-1.95%) and Sherwin-Williams (-1.87%). On the upside, the strongest performers were Cisco Systems (1.99%), Nvidia (1.71%) and UnitedHealth (1.69%).
-
----
-
-### 2026-06-09 04:27:26  #其他
-
-Perrigo預計全財年調整後持續經營每股收益2美元至2.30美元。
-
----
-
-### 2026-06-09 04:22:54  #公司
-
-明晟公司：將採用標準評估方法處理SpaceX的首次公開募股事宜。
-
----
-
-### 2026-06-09 04:18:28  #MKT News #AZN.O #Impact bullish
-
-AstraZeneca (AZN.O) said its oral obesity drug reduced patients' body weight by 10.5% in a trial.
-
----
-
-### 2026-06-09 04:18:25  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bullish #CDNS.O
-
-Cadence said it will partner with Intel's foundry (INTC.O) to accelerate optimization for the Intel 14A process, focusing on high-performance computing and mobile designs.
-
----
-
-### 2026-06-09 04:17:28  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-TASNIM News, citing sources, reports explosions heard in Sulaymaniyah in northern Iraq.
-
----
-
-### 2026-06-09 04:16:08  #其他
-
-阿斯利康減肥藥臨床試驗結果顯示，受試者體重平均下降 10.5%。
-
----
-
-### 2026-06-09 04:15:39  #公司
-
-聖地亞哥燃氣電力公司、高通公司與加州大學聖地亞哥分校攜手開展邊緣人工智慧合作，助力提升野火及極端天氣應對能力。
-
----
-
-### 2026-06-09 04:14:27  #國際
-
-伊朗塔斯尼姆通訊社援引訊息稱，伊拉克北部的蘇萊曼尼亞地區傳出爆炸聲。
-
----
-
-### 2026-06-09 04:12:07  #公司 #市場
-
-Applied Digital在Delta Forge 2簽署新的資料中心租賃協議，該公司股價盤後漲9%。
-
----
-
-### 2026-06-09 04:09:49  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-S&P and Nasdaq Climb on Strength in Chip Stocks — The Nasdaq rose 0.9% and the S&P 500 gained 0.3% on Monday, supported by a rebound in chip stocks after sharp losses in previous session and renewed optimism surrounding AI. Investor sentiment was also boosted after reports indicated that Iran and Israel had halted their exchanges of strikes, while President Trump said negotiations were continuing despite the attacks. As a result, oil prices gave back most of their earlier gains. Among semiconductor stocks, Nvidia advanced 1.7%, Broadcom climbed 2.8%, AMD surged 5.1%, and Micron Technology jumped 9.9%. Tesla also posted a strong gain, rising 4.6%. In contrast, the Dow Jones fell by 81 points. Apple declined 1.9% after its next-generation AI platform failed to impress investors. Microsoft and Visa also underperformed, each losing 1.2%.
 
 ---
