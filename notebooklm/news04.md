@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 07:36:49_
-_本檔包含 3679 則快訊，約 667067 字_
+_更新時間：2026-06-14 08:04:08_
+_本檔包含 3678 則快訊，約 665459 字_
+
+---
+
+### 2026-06-10 01:40:14  #公司
+
+ADNOC Upstream的CEO Musabbeh al Kaabi：退出OPEC已經給阿聯酋帶來靈活性。
+
+---
+
+### 2026-06-10 01:39:11  #公司
+
+【騰訊的長期美元債和點心債發行總規模料接近47億美元】據報道，騰訊控股擬透過發行長期美元債和點心債籌集近47億美元，這將成為該公司自2020年以來規模最大的一次債券融資。據要求匿名的知情人士透露，騰訊已啟動一筆24.5億美元的美元債發行，並完成一筆150億元人民幣（約合22.1億美元）的點心債定價。其中一名知情人士表示，美元債認購規模已超過92億美元。據知情人士稱，發債募資將用於包括再融資及包括開發AI產品和服務在內的一般公司用途。
+
+---
+
+### 2026-06-10 01:32:04  #市場
+
+週二（6月9日），韓元兌美元最終跌0.26%，報1530.87韓元，全天衝高回落、北京時間14:00曾重新整理日高至1509.58韓元。
+
+---
+
+### 2026-06-10 01:27:16  #國際
+
+【報道：美伊核談判接近達成框架協議】據紐約時報援引瞭解美伊談判情況的美國官員及外交人士訊息，美伊雙方在四大核心議題上的分歧逐步縮小：暫停鈾濃縮活動十五年、稀釋伊朗現有濃縮鈾庫存、拆除大部分核設施，以及擴大國際核查範圍。受美軍直升機遭擊落等新一輪軍事緊張局勢影響，談判前景仍存變數。雙方談判人員還在商討解凍約 250 億美元伊朗凍結資產事宜。美方官員對後續細節談判有望儘快重啟持謹慎樂觀態度，但雙方內部的政治與軍事反對聲音，依舊構成重大風險。
+
+---
+
+### 2026-06-10 01:25:57  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+The New York Times reports the US believes Iran will agree to suspend uranium enrichment for 15 years.
+
+---
+
+### 2026-06-10 01:24:52  #MKT News
+
+According to the New York Times, the United States and Iran are focusing on four nuclear issues in their negotiations.
+
+---
+
+### 2026-06-10 01:24:49  #國際
+
+伊朗稱以色列最新襲擊導致兩名防空部隊士兵身亡。
 
 ---
 
@@ -22106,53 +22148,5 @@ Night-session open: China’s main futures contracts mixed. Caustic soda down >2
 ### 2026-06-08 20:57:59  #國際
 
 【中國除溼機在美國賣斷貨 企業開足馬力趕訂單】近日南京、杭州、蘇州、無錫等多地空氣相對溼度也頻頻突破90%，商場除溼類家電需求激增。記者在浙江走訪多家生產企業發現，車間裡機器轟鳴，產線正開足馬力，應對這場突如其來的“防潮大考”。在浙江慈溪的一家除溼機生產企業，記者走近看到，一臺臺除溼機正被推入測試區，通電、開機，再打包準備發往市場。不同功能和價位的產品源源不斷供應國內外市場，負責人表示：“中國市場和美國市場都有斷貨現象，特別是近期，國內潮溼天氣很嚴重，銷售量同比有60%以上增長。”而在浙江慈溪的另一家除溼機企業的生產車間內，每小時就有超過100臺家用除溼機組裝下線，一天總產能超過1000臺。企業負責人表示，除了國內迎來大量訂單，近期歐洲地區受氣候影響，同樣需要交付大量產品。業內預計，2026年全國家用除溼機市場規模將達18億元-19億元，同比增長約17%。 (央視財經)
-
----
-
-### 2026-06-08 20:57:26  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Remains Close to Over Two-Month Low — Gold trimmed earlier losses to trade at $4,330 an ounce on Monday, after hitting its lowest since March 23 but remaining near its weakest close since late last year, as investors assessed the latest Middle East developments. Israel agreed to halt strikes on Iran at US President Donald Trump’s request but vowed to continue heavy bombing in Lebanon. Meanwhile, tensions escalated along the Israel-Lebanon border, with mutual shelling reported. Earlier, Trump had called for an immediate ceasefire, and Tehran paused its operations against Israel while warning against strikes on southern Lebanon. Rising oil prices and last week’s strong US jobs report heightened inflation concerns, boosting expectations of a Federal Reserve rate hike. Markets now price a 70% chance of a December hike, up from 45% a week ago, per the CME FedWatch tool. Investors now await key inflation data, including Wednesday’s CPI and Thursday’s PPI, for further monetary policy clues.
-
----
-
-### 2026-06-08 20:57:15  #公司
-
-【強達電路：公司已有量子技術相關PCB產品的樣板試製】強達電路(301628)6月8日在互動平臺表示，量子技術相關PCB屬於高階印製電路板領域，契合公司在高階PCB及前沿應用領域的研釋出局。公司依託在高頻高速板等方面的核心技術積累，針對量子技術應用場景對PCB的低損耗、高穩定性、耐極端環境等效能要求，開展了相關技術研究和工藝開發工作。目前，公司已有量子技術相關PCB產品的樣板試製，後續將持續跟進量子技術產業發展節奏，結合市場需求和技術成熟度推進產品最佳化及產業化佈局。
-
----
-
-### 2026-06-08 20:57:03  #其他
-
-【微信灰測朋友圈搜尋功能】據悉，微信面向部分iOS和安卓使用者灰度測試朋友圈搜尋功能。騰訊客服告訴記者，微信在輕觸“我”->“朋友圈”頁面後，右上角的“放大鏡”圖示已升級為“我的朋友圈搜尋”入口，可透過該入口輸入關鍵詞實時搜尋歷史朋友圈內容。
-
----
-
-### 2026-06-08 20:56:26  #市場 #國際
-
-【以色列和伊朗被敦促停火之際原油漲幅收窄】原油期貨從高位回落，此前美國總統特朗普敦促以色列和伊朗停止打擊，且伊朗表示已結束對以色列的報復性襲擊。伊朗和以色列之間重新爆發的戰鬥導致油價隔夜飆升，因為人們擔心這可能會破壞結束中東衝突的努力。特朗普發帖稱，和平談判正在進行中，並表示對霍爾木茲海峽的封鎖將繼續有效，直到達成“最終協議“。西得州中質油上漲1.4%，至每桶91.78美元；布倫特原油上漲1.8%，至94.73美元。
-
----
-
-### 2026-06-08 20:55:10  #其他
-
-非洲疾控中心：計劃與合作伙伴共同籌集5.18億美元，支援非洲國家做好埃博拉疫情的準備、快速檢測與應對工作。
-
----
-
-### 2026-06-08 20:54:17  #其他
-
-非洲疾控中心與世界衛生組織（WHO）發起非洲大陸埃博拉疫情聯合應對計劃。
-
----
-
-### 2026-06-08 20:53:16  #觀點
-
-摩根大通警示，若霍爾木茲海峽封鎖狀態持續至六月之後，或將爆發石油危機。
-
----
-
-### 2026-06-08 20:52:59  #Trading Economics #Economy #Chile #Inflation Rate #Importance 1
-
-Chile Inflation Stays Near One-Year High — Chile's annual inflation rate was little changed at 3.9% in May 2026, compared with 4.0% in April. The strongest price pressures continued to come from transport (10.1%), followed by restaurants and lodging (6.5%), education (5.9%), healthcare (5.6%), and housing and utilities (4.2%). In contrast, prices declined for clothing and footwear (-4.9%) and insurance and financial services (-4.4%). On a monthly basis, consumer prices rose 0.2%, easing sharply from the 1.3% increase recorded in April. In the first five months of the year, inflation accumulated to 2.8%, indicating that price growth remained moderate despite persistent pressures in transportation and services.
 
 ---

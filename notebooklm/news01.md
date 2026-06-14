@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 07:36:49_
-_本檔包含 3661 則快訊，約 666598 字_
+_更新時間：2026-06-14 08:04:08_
+_本檔包含 3665 則快訊，約 667004 字_
+
+---
+
+### 2026-06-14 08:02:55  #宏觀 #公司
+
+【劣質迪卡儂貨倉已被查封】近日，記者接到大量消費者買到迪卡儂劣質產品的舉報線索。記者在一些電商平臺以“迪卡儂”為關鍵詞搜尋，發現大量商家在商品標題或頁面中標註“迪小儂”等近似字樣，刻意模仿官方品牌，誤導消費者以為是迪卡儂官方店鋪。這些產品價格普遍比實體店便宜數十元至上百元不等。 記者6月10日就崑山市店鋪進行實地探訪，發現發貨地位於一個名為“威人科技產業園”的園區，崑山柒源體育用品有限公司位於其中一棟的6層。記者到訪時，整層辦公室已被崑山市市場監管局貼上了查封封條，但封條有明顯的撕毀痕跡，大門內裡面已無人辦公。 記者從知情人士處瞭解到，該店鋪因銷售大量劣質產品已被當地監管部門查封。該商家採取多店同步發貨的模式，日發貨量高達上千單。由於貨源質量問題突出，消費者退貨量極大。 有部分消費者告訴記者，迪卡儂事件爆發後，相關店鋪已無法取得聯絡，退貨請求無人受理。記者以消費者的身份致電當地市場監督管理局，工作人員表示，在店鋪被投訴後，市監局第一時間對現場進行了查封，公司相關人員已移交公安。不過這批貨物究竟是否為假貨仍有待進一步檢測。（藍鯨新聞）
+
+---
+
+### 2026-06-14 08:02:02  #公司
+
+加拿大航空公司與國際機械師和航空航天工人協會就新合同達成初步協議。
+
+---
+
+### 2026-06-14 08:01:44  #MKT News
+
+Congo authorities say confirmed Ebola cases have risen to 710.
+
+---
+
+### 2026-06-14 07:55:57  #其他
+
+【今天下午至傍晚北京有分散性雷陣雨 明後天仍多雷陣雨】今天（6月14日）下午至傍晚，北京西部、北部有分散性雷陣雨，明後天仍多雷陣雨天氣，公眾外出需帶好雨具。未來三天，北京最高氣溫將保持在30℃上下，體感微熱，需注意補水降溫。（央視新聞）
+
+---
+
+### 2026-06-14 07:52:27  #公司 #國際
+
+【Waymo以2.2億美元收購蘋果旗下亞利桑那州測試場，擴充自動駕駛測試網路】據美國亞利桑那州馬里科帕縣檔案顯示，Waymo已收購位於亞利桑那州威特曼的一處佔地5500英畝的測試場，賣方為與蘋果相關的特拉華空殼公司，交易金額為2.2億美元，已於6月5日完成登記。該場地包含一座佔地115英畝的城市道路測試區、35英畝車輛動態測試區、四英里橢圓形賽道及專為自動駕駛測試設計的高速公路場景。該場地此前為蘋果於2021年以1.25億美元購入，原為菲亞特克萊斯勒測試基地，用於測試蘋果“Titan計劃”原型車。該專案已於2024年初在耗費數十億美元后宣告終止。
 
 ---
 
@@ -22084,11 +22114,5 @@ China A-share semiconductor sector opened sharply higher; Lanjian Electronics, J
 ### 2026-06-12 09:27:27  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
 
 Australia 10Y Yield Holds at 3-Month Low — Australia’s 10-year government bond yield held its recent decline to around 4.8%, staying near a three-month low as markets widely expect the Reserve Bank will hold policy rates next week. A series of softer economic releases, from GDP to housing prices, reinforced signs that the central bank’s three rate hikes earlier this year began to filter through the economy. Market pricing now ruled out a move at the June 16 meeting, while expectations for an August rate hike have eased sharply to around 35%, down from more than 80% a month ago. The May CPI report due on June 24, will be pivotal after an unexpectedly soft April inflation reading, as policymakers look for clearer evidence that price pressures remain strong. Meanwhile, growing optimism over an imminent US–Iran peace deal eased concerns about persistent inflation, after US President Donald Trump said an agreement could be reached as early as this weekend following his decision to postpone planned strikes on Iran.
-
----
-
-### 2026-06-12 09:27:26  #MKT News #Important #Commodities #Industrial Metals
-
-【Tungsten names lead gains as about 25% of global WF6 capacity set for permanent shutdown next month】China A-share small-metals sector opened higher, with tungsten plays leading: Xianglu Tungsten rose over 5%, and Zhangyuan Tungsten, China Tungsten High-Tech and Xiamen Tungsten also advanced. Japanese production representing roughly 25% of global tungsten hexafluoride (WF6) capacity will be permanently halted from July 1. WF6 is the only commercial precursor gas for tungsten CVD in semiconductor manufacturing and no substitute is currently available.
 
 ---

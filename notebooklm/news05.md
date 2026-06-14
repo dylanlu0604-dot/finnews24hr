@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 07:36:49_
-_本檔包含 3743 則快訊，約 665960 字_
+_更新時間：2026-06-14 08:04:08_
+_本檔包含 3739 則快訊，約 665828 字_
+
+---
+
+### 2026-06-08 20:57:26  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Remains Close to Over Two-Month Low — Gold trimmed earlier losses to trade at $4,330 an ounce on Monday, after hitting its lowest since March 23 but remaining near its weakest close since late last year, as investors assessed the latest Middle East developments. Israel agreed to halt strikes on Iran at US President Donald Trump’s request but vowed to continue heavy bombing in Lebanon. Meanwhile, tensions escalated along the Israel-Lebanon border, with mutual shelling reported. Earlier, Trump had called for an immediate ceasefire, and Tehran paused its operations against Israel while warning against strikes on southern Lebanon. Rising oil prices and last week’s strong US jobs report heightened inflation concerns, boosting expectations of a Federal Reserve rate hike. Markets now price a 70% chance of a December hike, up from 45% a week ago, per the CME FedWatch tool. Investors now await key inflation data, including Wednesday’s CPI and Thursday’s PPI, for further monetary policy clues.
+
+---
+
+### 2026-06-08 20:57:15  #公司
+
+【強達電路：公司已有量子技術相關PCB產品的樣板試製】強達電路(301628)6月8日在互動平臺表示，量子技術相關PCB屬於高階印製電路板領域，契合公司在高階PCB及前沿應用領域的研釋出局。公司依託在高頻高速板等方面的核心技術積累，針對量子技術應用場景對PCB的低損耗、高穩定性、耐極端環境等效能要求，開展了相關技術研究和工藝開發工作。目前，公司已有量子技術相關PCB產品的樣板試製，後續將持續跟進量子技術產業發展節奏，結合市場需求和技術成熟度推進產品最佳化及產業化佈局。
+
+---
+
+### 2026-06-08 20:57:03  #其他
+
+【微信灰測朋友圈搜尋功能】據悉，微信面向部分iOS和安卓使用者灰度測試朋友圈搜尋功能。騰訊客服告訴記者，微信在輕觸“我”->“朋友圈”頁面後，右上角的“放大鏡”圖示已升級為“我的朋友圈搜尋”入口，可透過該入口輸入關鍵詞實時搜尋歷史朋友圈內容。
+
+---
+
+### 2026-06-08 20:56:26  #市場 #國際
+
+【以色列和伊朗被敦促停火之際原油漲幅收窄】原油期貨從高位回落，此前美國總統特朗普敦促以色列和伊朗停止打擊，且伊朗表示已結束對以色列的報復性襲擊。伊朗和以色列之間重新爆發的戰鬥導致油價隔夜飆升，因為人們擔心這可能會破壞結束中東衝突的努力。特朗普發帖稱，和平談判正在進行中，並表示對霍爾木茲海峽的封鎖將繼續有效，直到達成“最終協議“。西得州中質油上漲1.4%，至每桶91.78美元；布倫特原油上漲1.8%，至94.73美元。
+
+---
+
+### 2026-06-08 20:55:10  #其他
+
+非洲疾控中心：計劃與合作伙伴共同籌集5.18億美元，支援非洲國家做好埃博拉疫情的準備、快速檢測與應對工作。
+
+---
+
+### 2026-06-08 20:54:17  #其他
+
+非洲疾控中心與世界衛生組織（WHO）發起非洲大陸埃博拉疫情聯合應對計劃。
+
+---
+
+### 2026-06-08 20:53:16  #觀點
+
+摩根大通警示，若霍爾木茲海峽封鎖狀態持續至六月之後，或將爆發石油危機。
+
+---
+
+### 2026-06-08 20:52:59  #Trading Economics #Economy #Chile #Inflation Rate #Importance 1
+
+Chile Inflation Stays Near One-Year High — Chile's annual inflation rate was little changed at 3.9% in May 2026, compared with 4.0% in April. The strongest price pressures continued to come from transport (10.1%), followed by restaurants and lodging (6.5%), education (5.9%), healthcare (5.6%), and housing and utilities (4.2%). In contrast, prices declined for clothing and footwear (-4.9%) and insurance and financial services (-4.4%). On a monthly basis, consumer prices rose 0.2%, easing sharply from the 1.3% increase recorded in April. In the first five months of the year, inflation accumulated to 2.8%, indicating that price growth remained moderate despite persistent pressures in transportation and services.
 
 ---
 
@@ -22460,77 +22508,5 @@ U.S. military said U.S. forces shot down two Iranian attack drones in the Strait
 ### 2026-06-07 08:07:43  #其他
 
 馬斯克：最新版 Grok Build 已修復 Grep 超時問題。
-
----
-
-### 2026-06-07 08:02:49  #國際
-
-據報道，特朗普首屆任期內，美國環境保護署大力推進逐步廢止動物實驗，這項工作在拜登任內陷入停滯。本週該部門宣佈在全面取消動物實驗的工作上取得新進展。
-
----
-
-### 2026-06-07 08:02:04  #公司 #市場
-
-【“開大關小”，ZARA重倉上海“二次創業”】昨天，有著“上海年輕人最佳約會地之一”之稱的淮海中路陝西南路路口人流湧動，ZARA全新旗艦店正式揭幕。ZARA母公司愛特思（Inditex）集團大中華區總裁白晨銘（Eugenio Bregolat）在開業儀式上，釋放品牌深耕中國市場的明確訊號：“2026年恰逢ZARA進駐中國內地20週年，新店是品牌在中國市場發展歷程中的重要里程碑。未來我們將持續最佳化上海及中國市場的消費體驗，為消費者帶來更具靈感和沉浸感的品牌空間。”近年來，電商浪潮席捲全球，ZARA在內的一眾快時尚巨頭不得不收縮戰場。資料顯示，2025年全年，ZARA在華關停超10家低效門店，2026年1月單月關閉7家商場門店，閉店公告統一標註“集團業務最佳化調整”。閉店同時，旗艦店佈局加速。2025年，在南京新街口、上海南京路步行街ZARA先後落地超2000平方米大型門店，6月6日開業的這家新店也是這一轉型戰略的又一最新落地。Inditex集團財報資料對映出這一戰略：近三年，集團全球門店總數縮減超13%，但門店總經營面積逆勢上漲2%。（解放日報）
-
----
-
-### 2026-06-07 07:58:57  #MKT News
-
-【Shooting in Toledo, Ohio Injures Multiple】A shooting near a festival in Toledo, Ohio on June 6 injured multiple people, police said. Officers received a report at about 5:37 p.m. local time and found several victims; the injured were taken to hospital. Police are searching for suspects and have urged the public to avoid the area.
-
----
-
-### 2026-06-07 07:58:16  #公司
-
-【包鋼股份成功研發並批次生產超高強稀土耐磨鋼】據包鋼股份釋出訊息，近日，包鋼股份成功研發並批次生產超高強稀土耐磨鋼，打破了國外企業在該領域的技術壟斷。目前，這款極寒超高強度稀土耐磨鋼已完成工業化生產，首批訂單經效能檢測各項指標表現優異，即將交付客戶投入實際應用。
-
----
-
-### 2026-06-07 07:52:32  #公司
-
-【老博會三天迎來逾十萬觀眾，部分展品有望進入上海首家銀髮商店】2026上海國際養老、輔具及康復醫療博覽會昨天在上海新國際博覽中心落下帷幕。為期三天的展會吸引22個國家和地區的680餘家參展企業參與，展覽面積達到6萬平方米，展會規模創歷史新高。據初步統計，本屆上海老博會參觀人數約為10.3萬人次。上海老博會也是養老行業資源匯聚、同業交流碰撞、協同共創的產業賦能平臺。本屆老博會期間共舉辦主題交流活動及專題沙龍12場，邀請近百位行業專家、企業領袖登臺分享，吸引近4000人次現場參與。“今年出現了更多科技向善的、價格親民的、功能合適的產品。”上海銀髮經貿發展有限公司總經理馬智雯表示，部分展品有望進入上海首家銀髮商店輪轉，讓消費者全年都能在家門口體驗到最新的養老科技和優質的銀髮服務，真正將上海老博會做到“3+365”。（解放日報）
-
----
-
-### 2026-06-07 07:51:40  #其他
-
-根據該諒解備忘錄，布依格將收購SFR的業務部門及客戶基礎，對應年銷售額約為12億歐元。
-
----
-
-### 2026-06-07 07:51:09  #公司
-
-【廣藥集團與揚州市政府簽署戰略合作協議】近日，廣藥集團副總經理程洪進率隊赴江蘇省揚州市，與揚州市人民政府簽署戰略合作協議。其間，團隊先後走訪寶應縣特色食品龍頭企業、江蘇聯環藥業集團，並出席揚州市現代農業產業發展大會，與揚州市圍繞生物醫藥、現代農業、藥食同源大健康食品、AI創新制藥等領域，開啟粵蘇政企全方位合作。
-
----
-
-### 2026-06-07 07:47:29  #其他
-
-【監督機構稱英國核武器開支透明度不足】英國議會監督機構表示，英國國防部在不斷攀升的核武器開支方面透明度嚴重不足，相關支出約佔英國國防預算的五分之一。公共賬目委員會在一份措辭嚴厲的報告中，還點名批評問題頻發的Ajax裝甲車專案 —— 該專案耗資已超60億英鎊；同時指責政府遲遲未釋出國防投資計劃，這份計劃原定於去年公佈。公共賬目委員會表示：“事實上，英國多年來都沒有一份完善可行的軍事發展規劃。”
-
----
-
-### 2026-06-07 07:44:20  #國際
-
-【距離世界盃僅一週 美國SoFi體育場工作人員罷工要求加薪】美國洛杉磯附近的SoFi體育場工作人員於當地時間週五投票決定舉行罷工，要求提高薪資。此時距離該場館承辦美國足球隊本屆世界盃首戰僅剩一週時間。 工會表示，因與場館餐飲服務分包商Legends Global的合同談判陷入僵局，場館內聯合酒店及服務業工會11號分會96%的成員投票支援罷工。雙方談判預計於週一重啟。 該工會代表場館內約2000名餐飲從業者，包括調酒師、洗碗工、廚師及售賣攤位工作人員。
-
----
-
-### 2026-06-07 07:42:55  #公司
-
-【司爾特與工行貴陽分行銀企簽約儀式舉行】6月5日，安徽省司爾特肥業股份有限公司（簡稱“司爾特”）與中國工商銀行貴陽分行（簡稱“工行貴陽分行”）在貴州開陽舉行銀企合作簽約儀式。本次簽約旨在深入貫徹落實貴州省“富礦精開”戰略部署，藉助金融賦能，加速推進司爾特在貴州重大專案建設的落地佈局。
-
----
-
-### 2026-06-07 07:42:25  #國際
-
-【伊朗民眾：美國不可信任 伊朗不會投降】7日，美國和以色列對伊朗發動的戰爭進入第100天。伊朗外交部6日發表宣告，譴責美國當天對波斯灣沿岸的伊朗雷達設施發動襲擊，稱此次襲擊是對伊朗國家主權和領土完整的侵犯。伊朗民眾在接受總檯記者採訪時表示，美以在軍事行動中炸死了他們的親人。儘管伊朗有談判意願，但美國卻不可信任。（央視新聞）
-
----
-
-### 2026-06-07 07:36:58  #其他
-
-【湖南曝光8起非法經營、儲存煙花爆竹案例】近期，湖南開展嚴厲打擊煙花爆竹非法生產“雷霆”行動。各地區、各部門依法查處多起非法經營、儲存煙花爆竹案件。現將8起案例予以曝光。其中，5月29日，耒陽市應急管理局接到群眾舉報稱，灶市街街道存在非法經營煙花爆竹行為，迅速聯合市綜合行政執法局、灶市街街道辦事處及轄區派出所，組建專項聯合執法組。執法人員直奔舉報地點，精準鎖定一處隱蔽非法儲存經營窩點，現場依法查扣各類煙花爆竹共計344箱。目前，該案已移送耒陽市綜合行政執法局立案調查。
 
 ---

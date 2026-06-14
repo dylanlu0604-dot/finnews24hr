@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-14 07:36:49_
-_本檔包含 3620 則快訊，約 666818 字_
+_更新時間：2026-06-14 08:04:08_
+_本檔包含 3614 則快訊，約 665412 字_
+
+---
+
+### 2026-06-12 09:27:26  #MKT News #Important #Commodities #Industrial Metals
+
+【Tungsten names lead gains as about 25% of global WF6 capacity set for permanent shutdown next month】China A-share small-metals sector opened higher, with tungsten plays leading: Xianglu Tungsten rose over 5%, and Zhangyuan Tungsten, China Tungsten High-Tech and Xiamen Tungsten also advanced. Japanese production representing roughly 25% of global tungsten hexafluoride (WF6) capacity will be permanently halted from July 1. WF6 is the only commercial precursor gas for tungsten CVD in semiconductor manufacturing and no substitute is currently available.
 
 ---
 
@@ -21790,47 +21796,5 @@ WTI原油突破93美元/桶，日內漲3.31%。
 ### 2026-06-11 06:53:06  #MKT News #Important #WTI #Impact bullish #Brent
 
 Iran's Islamic Revolutionary Guard Corps said it struck two vessels attempting to illegally transit the Strait of Hormuz.
-
----
-
-### 2026-06-11 06:52:52  #市場
-
-WTI原油日內漲3%，現報92.75美元/桶。
-
----
-
-### 2026-06-11 06:52:27  #市場
-
-【中證報：織密監管網路，重拳整治市場操縱】證監會日前明確堅決打擊操縱市場、擾亂市場秩序等違法違規行為，公安部近期釋出多宗操縱市場罪案例，最高法明確儘快制定涉操縱市場的民事賠償司法解釋……多方同向發力，劍指資本市場操縱行為。可以預見，隨著交易監管持續強化、操縱市場民事賠償司法解釋加速落地，行政、司法多方形成合力，資本市場將編織起更加嚴密的全鏈條監管網路。在重拳整治與制度完善的雙重驅動下，市場生態將持續淨化，投資者合法權益將得到更堅實保障，資本市場長期穩健發展的根基將更加牢固。
-
----
-
-### 2026-06-11 06:52:04  #MKT News #WTI #Brent
-
-Iran's Supreme Joint Military Command said earlier US assertions that ships had transited the Strait of Hormuz were false.
-
----
-
-### 2026-06-11 06:52:00  #國際
-
-據華爾街日報：批准對伊朗實施打擊後，特朗普透過卡達傳話，強調此次行動是針對阿帕奇直升機事件的報復，並非全面戰爭的開端。
-
----
-
-### 2026-06-11 06:51:17  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks Drop, Tracking Wall Street Lower — The NZX 50 fell 45 points, or 0.3%, to 13,208 in Thursday morning deals, erasing gains from the previous two sessions and retreating from its highest level since May 7, reached a day earlier, tracking a fall on Wall Street overnight as renewed tensions in the Middle East drove oil prices higher. US inflation data also pressured sentiment, as inflation accelerated to its highest level in three years in May, reinforcing expectations that the Fed will hold interest rates steady at its upcoming meeting. Investors remained wary ahead of the release of New Zealand's business PMI for May, due on Friday, after the index recorded its slowest growth in seven months in April. Most sectors traded in the red, including financials, healthcare, and utility stocks. Among early losers were Mainfreight (-1.5%), Fisher & Paykel Healthcare (-0.9%), Freightways Group (-0.8%), ANZ Group (-0.7%), Infratil (-0.5%), and Ebos Group (-0.4%).
-
----
-
-### 2026-06-11 06:49:18  #國際
-
-【伊朗對所有船隻關閉霍爾木茲海峽】當地時間今天（6月11日）凌晨，伊朗武裝部隊哈塔姆·安比亞中央司令部發布宣告稱，鑑於本地區安全域性勢動盪，霍爾木茲海峽即日起對包括油輪和商船在內的所有型別船隻關閉，任何試圖透過該海峽的船隻“都將受到攻擊”。（CCTV國際時訊）
-
----
-
-### 2026-06-11 06:49:06  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-【Iran military command says Strait of Hormuz closed; vessels attempting transit will be struck】Iran’s Supreme Joint Military Command said, citing continued US aggression and attacks on multiple areas in southern Hormozgan province, it is closing the Strait of Hormuz to all vessel types — including tankers and merchant ships — effective immediately and that any vessel attempting to transit will be struck.
 
 ---

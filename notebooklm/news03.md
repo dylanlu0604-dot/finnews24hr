@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 07:36:49_
-_本檔包含 3724 則快訊，約 666163 字_
+_更新時間：2026-06-14 08:04:08_
+_本檔包含 3724 則快訊，約 667321 字_
+
+---
+
+### 2026-06-11 06:52:52  #市場
+
+WTI原油日內漲3%，現報92.75美元/桶。
+
+---
+
+### 2026-06-11 06:52:27  #市場
+
+【中證報：織密監管網路，重拳整治市場操縱】證監會日前明確堅決打擊操縱市場、擾亂市場秩序等違法違規行為，公安部近期釋出多宗操縱市場罪案例，最高法明確儘快制定涉操縱市場的民事賠償司法解釋……多方同向發力，劍指資本市場操縱行為。可以預見，隨著交易監管持續強化、操縱市場民事賠償司法解釋加速落地，行政、司法多方形成合力，資本市場將編織起更加嚴密的全鏈條監管網路。在重拳整治與制度完善的雙重驅動下，市場生態將持續淨化，投資者合法權益將得到更堅實保障，資本市場長期穩健發展的根基將更加牢固。
+
+---
+
+### 2026-06-11 06:52:04  #MKT News #WTI #Brent
+
+Iran's Supreme Joint Military Command said earlier US assertions that ships had transited the Strait of Hormuz were false.
+
+---
+
+### 2026-06-11 06:52:00  #國際
+
+據華爾街日報：批准對伊朗實施打擊後，特朗普透過卡達傳話，強調此次行動是針對阿帕奇直升機事件的報復，並非全面戰爭的開端。
+
+---
+
+### 2026-06-11 06:51:17  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+New Zealand Stocks Drop, Tracking Wall Street Lower — The NZX 50 fell 45 points, or 0.3%, to 13,208 in Thursday morning deals, erasing gains from the previous two sessions and retreating from its highest level since May 7, reached a day earlier, tracking a fall on Wall Street overnight as renewed tensions in the Middle East drove oil prices higher. US inflation data also pressured sentiment, as inflation accelerated to its highest level in three years in May, reinforcing expectations that the Fed will hold interest rates steady at its upcoming meeting. Investors remained wary ahead of the release of New Zealand's business PMI for May, due on Friday, after the index recorded its slowest growth in seven months in April. Most sectors traded in the red, including financials, healthcare, and utility stocks. Among early losers were Mainfreight (-1.5%), Fisher & Paykel Healthcare (-0.9%), Freightways Group (-0.8%), ANZ Group (-0.7%), Infratil (-0.5%), and Ebos Group (-0.4%).
+
+---
+
+### 2026-06-11 06:49:18  #國際
+
+【伊朗對所有船隻關閉霍爾木茲海峽】當地時間今天（6月11日）凌晨，伊朗武裝部隊哈塔姆·安比亞中央司令部發布宣告稱，鑑於本地區安全域性勢動盪，霍爾木茲海峽即日起對包括油輪和商船在內的所有型別船隻關閉，任何試圖透過該海峽的船隻“都將受到攻擊”。（CCTV國際時訊）
+
+---
+
+### 2026-06-11 06:49:06  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+【Iran military command says Strait of Hormuz closed; vessels attempting transit will be struck】Iran’s Supreme Joint Military Command said, citing continued US aggression and attacks on multiple areas in southern Hormozgan province, it is closing the Strait of Hormuz to all vessel types — including tankers and merchant ships — effective immediately and that any vessel attempting to transit will be struck.
 
 ---
 
@@ -22401,47 +22443,5 @@ Abu Dhabi National Oil Company (ADNOC) upstream CEO Al Kaabi said exiting OPEC g
 ### 2026-06-10 01:41:43  #MKT News
 
 【NYT: Four core US‑Iran nuclear negotiation items — 15‑year enrichment pause, dilution of stockpile, facility dismantling, snap inspections】The New York Times reports US and Iranian officials have a tentative framework for a nuclear deal that US aides say would stall Iran’s nuclear programme for roughly 15 years, contingent on the IRGC and hardliners not ousting Iran’s chief negotiator or derailing planned deeper talks in Switzerland this summer. Four principal items under discussion: 1) Long pause to uranium enrichment — US sought ≥20 years, Iran proposed 10 years, US officials say Iran may accept ~15 years. 2) Dilution of Iran’s existing enriched‑uranium stockpile — US would work with the IAEA; Iran says the US would be limited to observer status. 3) Dismantling nuclear facilities — US seeks removal of Natanz, Fordow and Isfahan; Iran has discussed dismantling two sites but insists on retaining one to demonstrate an asserted right to enrichment, a potential sticking point. 4) Acceptance of snap inspections — US seeks IAEA ability to carry out unannounced inspections anywhere in Iran; Iran’s willingness is unclear.
-
----
-
-### 2026-06-10 01:40:14  #公司
-
-ADNOC Upstream的CEO Musabbeh al Kaabi：退出OPEC已經給阿聯酋帶來靈活性。
-
----
-
-### 2026-06-10 01:39:11  #公司
-
-【騰訊的長期美元債和點心債發行總規模料接近47億美元】據報道，騰訊控股擬透過發行長期美元債和點心債籌集近47億美元，這將成為該公司自2020年以來規模最大的一次債券融資。據要求匿名的知情人士透露，騰訊已啟動一筆24.5億美元的美元債發行，並完成一筆150億元人民幣（約合22.1億美元）的點心債定價。其中一名知情人士表示，美元債認購規模已超過92億美元。據知情人士稱，發債募資將用於包括再融資及包括開發AI產品和服務在內的一般公司用途。
-
----
-
-### 2026-06-10 01:32:04  #市場
-
-週二（6月9日），韓元兌美元最終跌0.26%，報1530.87韓元，全天衝高回落、北京時間14:00曾重新整理日高至1509.58韓元。
-
----
-
-### 2026-06-10 01:27:16  #國際
-
-【報道：美伊核談判接近達成框架協議】據紐約時報援引瞭解美伊談判情況的美國官員及外交人士訊息，美伊雙方在四大核心議題上的分歧逐步縮小：暫停鈾濃縮活動十五年、稀釋伊朗現有濃縮鈾庫存、拆除大部分核設施，以及擴大國際核查範圍。受美軍直升機遭擊落等新一輪軍事緊張局勢影響，談判前景仍存變數。雙方談判人員還在商討解凍約 250 億美元伊朗凍結資產事宜。美方官員對後續細節談判有望儘快重啟持謹慎樂觀態度，但雙方內部的政治與軍事反對聲音，依舊構成重大風險。
-
----
-
-### 2026-06-10 01:25:57  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-The New York Times reports the US believes Iran will agree to suspend uranium enrichment for 15 years.
-
----
-
-### 2026-06-10 01:24:52  #MKT News
-
-According to the New York Times, the United States and Iran are focusing on four nuclear issues in their negotiations.
-
----
-
-### 2026-06-10 01:24:49  #國際
-
-伊朗稱以色列最新襲擊導致兩名防空部隊士兵身亡。
 
 ---
