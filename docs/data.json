@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-14 14:27:27",
-  "count": 18294,
+  "updated": "2026-06-14 14:31:35",
+  "count": 18295,
   "items": [
+    {
+      "id": "4934260",
+      "time": "2026-06-14 14:30:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：卡達談判代表前往伊朗協助敲定協議。"
+    },
+    {
+      "id": "mkt:019ec4d2-723b-7dd8-afef-5329706befe7",
+      "time": "2026-06-14 14:29:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N"
+      ],
+      "text": "【Alibaba says reports that Zhou Jingren resigned are baseless】June 14 — Alibaba Group responded to inquiries saying reports that Zhou Jingren has resigned are baseless. The company said it has observed coordinated online dissemination of the rumor and urged the public not to spread false information."
+    },
     {
       "id": "4934259",
       "time": "2026-06-14 14:25:46",
@@ -168261,14 +168280,6 @@
         "MKT News"
       ],
       "text": "【Iran first vice president says officials united on negotiating texts】IRNA reports Iran’s first vice president said senior officials are fully united on Tehran’s negotiating strategy, rejecting reports of divisions over negotiation texts or proposals. He said Iran is taking a clear, coordinated approach and that officials have no differences on texts and proposals. He was referring to indirect talks with the United States described as aimed at permanently ending US and Israeli wars against Iran, and added Iran’s experience in two wars has provided valuable crisis-management lessons."
-    },
-    {
-      "id": "4921717",
-      "time": "2026-06-07 14:28:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及官員：本季迄今為止埃及已從國內收購450萬噸小麥。"
     }
   ]
 }
