@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-15 03:48:01",
-  "count": 18367,
+  "updated": "2026-06-15 03:52:04",
+  "count": 18364,
   "items": [
+    {
+      "id": "mkt:019ec7af-a482-7dd8-aff6-8045f5ce20d5",
+      "time": "2026-06-15 03:50:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Former Israeli ambassador to the US: Iran 'upended the strategic balance'; postwar region less favorable to Israel】Former Israeli ambassador to the US Alon Pinkas said Iran is geopolitically exponentially stronger by mid-June 2026 than on Feb. 28, the day the war began, and that the conflict has altered the regional balance. He warned Iran has \"upended the strategic balance,\" citing attacks on Gulf states and what he described as a wedge inserted between Israel and the US. Pinkas said how the postwar power balance between Iran and Israel evolves is uncertain, but it will \"certainly be different from February and less favorable to Israel.\""
+    },
     {
       "id": "4934759",
       "time": "2026-06-15 03:45:32",
@@ -168843,39 +168855,6 @@
         "市場"
       ],
       "text": "美元兌日元大致持穩，週一悉尼盤初報價160.30日元，此前低開至160.04日元。"
-    },
-    {
-      "id": "4922199",
-      "time": "2026-06-08 03:51:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗高階訊息人士：伊朗將以更大力度回擊以色列的任何襲擊。"
-    },
-    {
-      "id": "4922198",
-      "time": "2026-06-08 03:50:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗副外長：伊朗海外資產不是華盛頓的戰利品】伊朗外交部副部長加里巴巴迪7日在社交媒體發文，回應有關美國可能動用伊朗被凍結資產補償部分地區盟友損失的報道，稱此舉“不可接受”，強調伊朗海外資產“既不是華盛頓的戰爭戰利品，也不是支付給其盟友的資金”。加里巴巴迪說，美國作為針對伊朗軍事行動的主要參與方，如果真正討論賠償問題，美方應承擔自身責任及其盟友在當前地區衝突中的責任。那些向針對伊朗的軍事行動提供領土或設施支援的地區國家，無權要求賠償。他還表示，伊朗海外資產屬於伊朗國家財產，任何未經伊朗政府同意而對相關資產進行扣押、轉移或重新分配的行為，都將被伊方視為新的國際不法行為，並可能引發相應後果。加里巴巴迪最後強調，伊朗將繼續維護國家資產和人民權益，追究相關國家和個人的國際責任，要求就其敵對軍事行動給伊朗造成損失作出全面賠償。（新華社）"
-    },
-    {
-      "id": "4922197",
-      "time": "2026-06-08 03:50:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（伊朗應該）回到談判桌前，達成協議。"
-    },
-    {
-      "id": "4922196",
-      "time": "2026-06-08 03:49:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我對伊朗的建議是，你們已經發射導彈了，到此為止吧。"
     }
   ]
 }
