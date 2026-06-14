@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-14 16:26:43",
-  "count": 18277,
+  "updated": "2026-06-14 16:30:51",
+  "count": 18275,
   "items": [
+    {
+      "id": "mkt:019ec540-600c-7dd8-afef-e1c95e78931c",
+      "time": "2026-06-14 16:29:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian President ZELENSKIY said Russia is carrying out hundreds of strikes daily on Ukrainian cities and communities, targeting civilian infrastructure. Over the past week Russia launched 1,920 attack drones, 1,790 guided aerial bombs and 17 missiles of various types."
+    },
+    {
+      "id": "4934335",
+      "time": "2026-06-14 16:28:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 我們需要防空裝備與遠端作戰能力方面的支援，擴大無人機合作專案的規模，並進一步加大對俄羅斯的制裁力度。"
+    },
+    {
+      "id": "4934334",
+      "time": "2026-06-14 16:28:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 俄羅斯正對烏克蘭多地城鎮發動數百次襲擊，每日持續打擊我方民用基礎設施。僅過去一週，俄方就向烏克蘭投放了 1920 架攻擊型無人機、1790 枚航空制導炸彈以及 17 枚各類導彈。我們必須加大反制力度，應對這些襲擊。"
+    },
     {
       "id": "4934333",
       "time": "2026-06-14 16:25:00",
@@ -168075,51 +168103,6 @@
         "國際"
       ],
       "text": "【韓國將採取措施應對韓元過度波動】韓國財政部在針對市場狀況召開緊急會議後發表宣告稱，韓國不會容忍外匯市場出現過度波動或單邊走勢，並將對此採取嚴厲措施。宣告稱，部分投機交易加劇了市場的跟風行為當局將提高韓元無本金交割遠匯(NDF)交易透明度，鑑於透過這些衍生品交易產生的跟風行為已對在岸韓元市場造成影響當局還將調查涉及出口貨款延遲的非法外匯交易，並對外匯市場投機和操縱跡象進行審查。"
-    },
-    {
-      "id": "mkt:019ea134-138d-7665-8317-e516aef3abbd",
-      "time": "2026-06-07 16:30:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli media reported six people were wounded in shootings in the central Israel towns of Kochav Yair and Tzur Yitzhak."
-    },
-    {
-      "id": "4921799",
-      "time": "2026-06-07 16:28:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：高階外交訊息人士透露，巴基斯坦內政部長向伊朗傳達了美國同意放寬制裁的訊息。"
-    },
-    {
-      "id": "mkt:019ea132-ed3f-7665-8317-d8243f046d89",
-      "time": "2026-06-07 16:28:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Saudi outlet Alhadath, citing senior diplomatic sources, reported Pakistan's interior minister conveyed that the U.S. had agreed to ease sanctions on Iran."
-    },
-    {
-      "id": "mkt:019ea132-0cad-7665-8317-d67f58931fc2",
-      "time": "2026-06-07 16:27:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA says Ukraine reports radiation levels at the Chernobyl facility remain within prescribed limits. An IAEA team will visit Chernobyl shortly to assess the impact."
-    },
-    {
-      "id": "4921798",
-      "time": "2026-06-07 16:27:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴基斯坦方面發出的特別信函已交給作為伊朗革命領袖代表的伊朗外長。"
     }
   ]
 }
