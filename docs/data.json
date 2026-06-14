@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-14 20:54:41",
-  "count": 18267,
+  "updated": "2026-06-14 20:58:50",
+  "count": 18264,
   "items": [
+    {
+      "id": "mkt:019ec635-d290-7dd8-aff1-eaf51f59d7e2",
+      "time": "2026-06-14 20:57:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "GBPUSD",
+        "WTI"
+      ],
+      "text": "【Weekly preview: 'super central bank week' — Fed chair's first press conference imminent, Japan may hike】Next week (Jun 15–19) centers on a packed central-bank slate and high-frequency macro data that could drive rates, FX and liquidity. Key events: FOMC rate decision and SEP with a first press conference by the new Fed chair; BOJ and RBA rate decisions; BOE and SNB meetings. Liquidity note: 600 bln yuan six‑month buyout reverse repos mature midweek. China: May retail sales and industrial output (large‑enterprise IP) and a scheduled release of nationwide electricity consumption around Jun 15 (tentative). US: June NY Fed manufacturing, May industrial production, May retail sales and existing/home‑sale indicators, Philly Fed, initial jobless claims, housing starts and permits; ADP and import prices. Energy: API/EIA weekly oil inventories and EIA gas; IEA monthly report due. Europe: final May euro‑area CPI, June ZEW surveys, Lagarde to speak; UK May CPI and BOE decision including unemployment series. Other data: Switzerland May trade, Japan May core CPI. Events/hazards: G7 summit runs to Jun 17; Lujiazui Forum Jun 17–18. Market hours/holidays: NYSE closed one day; CME metals, energy, FX, equity and US Treasury futures end early at 01:00 Beijing time on Jun 20; ICE Brent ends early at 01:30; HK and Taiwan exchanges closed one day with North/South China Connect closed; Shanghai/Shenzhen/Beijing exchanges and domestic futures exchanges closed (no night sessions on listed domestic commodity venues on Jun 18)."
+    },
+    {
+      "id": "4934475",
+      "time": "2026-06-14 20:56:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世界盃首戰前夕 伊朗國足代表團多人再遭美拒籤】伊朗隊定於當地時間15日迎來2026美加墨世界盃首戰。伊朗隊本屆世界盃之旅頗為坎坷，一些先前遭美國拒籤的伊朗國足代表團成員最近重新申請簽證，但僅4人獲批，包括伊朗足協主席在內的多人再次遭拒，無法在伊朗隊赴美參賽期間入境美國。（新華社）"
+    },
+    {
+      "id": "mkt:019ec634-6d30-7dd8-aff1-e5967cc8eebb",
+      "time": "2026-06-14 20:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Several Iranian delegation members denied US visas again ahead of World Cup opener】Iran are due to play their opening match at the 2026 US-Canada-Mexico World Cup on the 15th (local time). Members of the Iranian delegation who were previously refused US visas reapplied; only four received approval. Multiple officials, including the Iran Football Federation chairman, were again denied visas and will be unable to enter the US while the team competes."
+    },
     {
       "id": "mkt:019ec62e-70d0-7dd8-aff1-de41f618d42b",
       "time": "2026-06-14 20:49:52",
@@ -167996,71 +168025,6 @@
         "其他"
       ],
       "text": "【奈及利亞軍方救出360名被綁架人員】當地時間6月7日，奈及利亞官員發表宣告稱，尼聯合特遣部隊從博爾諾州南部曼達拉山脈地區的一個武裝組織據點成功解救出360名被綁架的平民。據介紹，此前他們被極端分子從恩戈舍等多個社群綁架，並長期囚禁在極其惡劣的環境中。宣告還表示，這次解救行動是近年來奈及利亞軍方在東北地區開展的規模最大的人質營救行動之一。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ea229-f0eb-7ee0-86cf-8c271ad9bb07",
-      "time": "2026-06-07 20:58:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Saudi outlet Alhadath reported Israel gave the United States advance notice before striking Beirut's southern suburbs."
-    },
-    {
-      "id": "mkt:019ea229-9606-7ee0-86cf-823e4fc09824",
-      "time": "2026-06-07 20:58:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian media reported the Supreme National Security Council is holding an emergency meeting to discuss an Israeli airstrike in the southern suburbs of Beirut."
-    },
-    {
-      "id": "4921968",
-      "time": "2026-06-07 20:58:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯合航空執行長表示，世界盃相關業務僅佔公司營收的極小部分。"
-    },
-    {
-      "id": "4921967",
-      "time": "2026-06-07 20:58:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯合航空執行長稱，公司大機率不會參與行業整合。"
-    },
-    {
-      "id": "mkt:019ea227-6b02-7ee0-86cf-79c4dcc24e8f",
-      "time": "2026-06-07 20:55:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "OPEC: Member countries reiterated the importance of a cautious stance and reserved full flexibility to increase, pause or reverse voluntary production-cut adjustments."
-    },
-    {
-      "id": "mkt:019ea227-1dfd-7ee0-86cf-77a7cee1a053",
-      "time": "2026-06-07 20:55:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "OPEC says seven countries will reconvene on July 5."
     }
   ]
 }
