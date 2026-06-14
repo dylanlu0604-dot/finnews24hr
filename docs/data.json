@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-14 15:53:42",
+  "updated": "2026-06-14 15:57:56",
   "count": 18272,
   "items": [
+    {
+      "id": "4934305",
+      "time": "2026-06-14 15:53:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【和遠氣體：公司規劃的電子級六氟化鎢等電子特氣產品尚處於試生產階段】連續4個交易日漲停的和遠氣體(002971)6月14日釋出股票交易異常波動公告，近日，公司關注到部分媒體及股吧等網路平臺，將公司列為“電子特氣”熱門概念股，並出現不實傳聞。公司對此高度關注，針對市場概念炒作及不實傳聞，再次澄清如下：公司已在2025年度報告中詳細說明，目前公司宜昌和潛江兩大電子特氣產業園規劃的系列電子特氣產品尚處於試生產階段。其中僅有電子級一氧化碳、高純氨、羰基硫、矽烷實現銷售，銷售額佔比不足5%，對公司業績影響很小；公司規劃的電子級六氟化鎢等電子特氣產品尚處於試生產階段，試生產過程中“穩產-量產-產能爬坡”需要較長時間，產能釋放不及預期，產品認證週期較長，且尚未取得下游國內外頭部半導體企業的正式認證，更未產生任何業績，預計2—3年內對公司經營業績不會產生重大影響。"
+    },
+    {
+      "id": "mkt:019ec51f-7fb7-7dd8-afef-a472a086ea60",
+      "time": "2026-06-14 15:53:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Russia says Ukrainian drone struck Oryol residential building, killing one and injuring nine】Oryol region governor Krechikov said on June 14 local time that overnight from June 13 to early June 14 a residential building in Oryol city was struck by a Ukrainian drone, killing one and wounding nine. The injured have received medical treatment and cleanup is ongoing; Ukraine has not responded."
+    },
+    {
+      "id": "4934304",
+      "time": "2026-06-14 15:53:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱一居民樓遭烏無人機襲擊 已致1死9傷】當地時間6月14日，俄羅斯奧廖爾州州長克雷奇科夫通報稱，13日夜間至14日凌晨，奧廖爾市一棟居民樓被烏克蘭無人機擊中，造成1人死亡，9人受傷。傷者已接受醫療救助，善後工作仍在繼續。烏克蘭方面對此暫無回應。（央視新聞）"
+    },
     {
       "id": "4934303",
       "time": "2026-06-14 15:51:51",
@@ -168055,36 +168085,6 @@
         "國際"
       ],
       "text": "市場訊息：以色列中部科哈夫·亞伊爾的一座加油站疑似發生恐怖襲擊，至少四人受傷；事件仍在進行中。"
-    },
-    {
-      "id": "4921776",
-      "time": "2026-06-07 15:57:42",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲大型工程集團警告歐盟若不松監管或將出現大規模失業】面對伊朗戰爭引發的能源衝擊，歐洲若不放鬆監管、提升競爭力，或將爆發大規模失業危機。歐洲大型工程集團之一的負責人就此發出警告。 ABB集團執行長莫滕・維羅德在接受採訪時表示，歐洲天然氣價格上漲，導致歐盟相較美國競爭力下滑，但歐洲立法機構在推進監管鬆綁方面毫無緊迫感。維羅德在紐約接受採訪時稱：“我不希望等到大規模失業這類更嚴重的危機出現，各方才幡然醒悟。本不必走到這一步，大家就該拿出應有的緊迫感。” “歐盟及歐洲單一市場需要清理更多法規，不只是做簡化，更要廢除冗餘條款，進一步打通統一市場，以此拉動經濟增長。”"
-    },
-    {
-      "id": "mkt:019ea116-1b90-7665-8317-8f6e4cd4a562",
-      "time": "2026-06-07 15:57:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Ukraine officials: Russian drone struck spent-fuel storage near Chernobyl】Ukrainian officials said on Sunday a Russian drone struck a spent-fuel storage facility near the Chernobyl nuclear power plant. The Kyiv General Staff and the state nuclear agency said in separate statements radiation levels remained stable and no injuries had been reported."
-    },
-    {
-      "id": "4921775",
-      "time": "2026-06-07 15:53:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【超警戒水位0.28米 “梅江2026年第2號洪水”形成】據重慶市水文總站監測，受強降雨影響，梅江水位持續上漲，重慶秀山土家族苗族自治縣梅江秀山（二）站6月7日14時水位341.75米，超警戒水位0.28米，“梅江2026年第2號洪水”已經形成。（央視新聞）"
     }
   ]
 }
