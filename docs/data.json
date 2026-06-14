@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-14 15:57:56",
-  "count": 18272,
+  "updated": "2026-06-14 16:02:02",
+  "count": 18276,
   "items": [
+    {
+      "id": "mkt:019ec526-7460-7dd8-afef-c622e5457c19",
+      "time": "2026-06-14 16:01:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Zelenskiy said Ukrainian forces have achieved objectives in Russia's Tula region, notably the Azot chemical plant, whose operation is critical to explosives production capacity."
+    },
+    {
+      "id": "mkt:019ec526-2ce8-7dd8-afef-bdc350c6a9f6",
+      "time": "2026-06-14 16:01:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukraine's President Zelenskiy said Ukrainian forces struck an oil facility in Russia's Yaroslavl region, more than 700 km from the Ukrainian border, that is vital to Russia's reserves."
+    },
+    {
+      "id": "4934307",
+      "time": "2026-06-14 15:59:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏軍在對俄羅斯境內及烏克蘭暫時被佔領土的重要設施實施遠端制裁方面取得了良好成果。"
+    },
+    {
+      "id": "mkt:019ec524-f3e8-7dd8-afef-b3c5bafa0829",
+      "time": "2026-06-14 15:59:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Zelenskiy said Ukrainian forces have achieved good results from long-range strikes on key facilities inside Russia and in temporarily occupied Ukrainian territory."
+    },
+    {
+      "id": "mkt:019ec524-a713-7dd8-afef-ae18c643624e",
+      "time": "2026-06-14 15:59:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Source: Iran has not yet made final decision on MoU with US】A person close to Iran's negotiating team said on the 14th that Iran has not yet made a final decision on a memorandum of understanding with the United States."
+    },
+    {
+      "id": "4934306",
+      "time": "2026-06-14 15:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗尚未就與美國的諒解備忘錄作出最終決定】一名接近伊朗談判團隊的知情人士表示，伊朗尚未就與美國的諒解備忘錄作出最終決定。（新華社）"
+    },
     {
       "id": "4934305",
       "time": "2026-06-14 15:53:58",
@@ -168069,22 +168124,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗布什爾核電站正常執行，裝置狀態良好。"
-    },
-    {
-      "id": "4921778",
-      "time": "2026-06-07 16:01:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股大市值公司版圖正改寫：千億市值A股公司躍升至201家 一年增加66家】A股千億市值公司陣營正在快速擴容。截至2026年6月5日，A股千億市值上市公司總家數達到201家，而一年前，這一數字僅為135家。短短一年間，淨增66家，增幅接近49%。這意味著，平均不到一週就有一家上市公司跨越千億門檻，資本市場的價值中樞正加速上移。若進一步穿透當前201家公司，一年前市值不足千億、如今跨入千億陣營的公司達到73家，這也意味著過去一年並非只有單向擴容，部分原有千億公司也已跌出這一門檻。值得關注的是，驅動千億市值俱樂部快速擴容的核心引擎已從傳統的金融、石油石化轉向了以光模組、半導體、AI伺服器為代表的硬科技領域。過去一年，漲幅居前的公司幾乎被科技板塊包攬，其中中際旭創以超過10倍的漲幅傲視群雄，工業富聯、新易盛、天孚通訊等AI產業鏈龍頭同樣實現了數倍的增長。與之形成鮮明對比的是，部分消費白馬與金融巨頭市值出現縮水，市場分化極為劇烈。這不僅是市值榜單的排位更迭，更是中國經濟新舊動能轉換在資本市場的直接體現。 (財聯社)"
-    },
-    {
-      "id": "4921777",
-      "time": "2026-06-07 15:59:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列中部科哈夫·亞伊爾的一座加油站疑似發生恐怖襲擊，至少四人受傷；事件仍在進行中。"
     }
   ]
 }
