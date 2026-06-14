@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-14 23:21:39",
+  "updated": "2026-06-14 23:25:52",
   "count": 18314,
   "items": [
+    {
+      "id": "mkt:019ec6bb-8ddc-7dd8-aff3-92e5771d6baf",
+      "time": "2026-06-14 23:24:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Lebanon protests Israeli herbicide spraying, attack on army vehicles to UN】Lebanon's foreign ministry said it sent letters to the UN Security Council and the UN Secretary-General on June 10 and 11 alleging Israeli forces sprayed glyphosate in southern Lebanon and attacked vehicles of the Lebanese Armed Forces, and urged the UN to intervene. The letters cite the Chemical Weapons Convention's prohibition on using herbicides as a method of warfare."
+    },
+    {
+      "id": "4934604",
+      "time": "2026-06-14 23:22:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩就以軍噴灑除草劑及襲擊黎軍車致函聯合國】當地時間14日，黎巴嫩外交部發表宣告說，已分別於6月10日和11日致函聯合國安理會及聯合國秘書長，就以色列在黎南部噴灑草甘膦除草劑及襲擊黎政府軍車輛等事件提出申訴，並呼籲聯合國採取措施制止相關行為。（央視新聞）"
+    },
+    {
+      "id": "4934603",
+      "time": "2026-06-14 23:21:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗總統：國內各方勢力均須遵從基於革命領袖穆傑塔巴見作出的各項決議。"
+    },
     {
       "id": "mkt:019ec6b8-633a-7dd8-aff3-8dc7f3e1600e",
       "time": "2026-06-14 23:20:33",
@@ -168425,30 +168453,6 @@
         "國際"
       ],
       "text": "【美共和黨參議員：特朗普不會與伊朗達成一份糟糕的協議】美國共和黨參議員詹姆斯·蘭克福德在接受採訪時表示，儘管面臨儘快結束談判的壓力，但特朗普不會與伊朗達成一份糟糕的協議。“伊朗顯然想把我們牽著鼻子走，而特朗普對此完全不會買賬。”蘭克福德說。他補充道：“有意思的是，有不少左翼人士，甚至一些右翼人士，都在極力推動總統為了趕緊了事而簽下一份糟糕的協議。”"
-    },
-    {
-      "id": "4922065",
-      "time": "2026-06-07 23:25:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國在和談中逐步淡出，烏克蘭轉而尋求歐洲方面出面斡旋。"
-    },
-    {
-      "id": "mkt:019ea2ad-eaaa-7ee0-86d0-a03475d200db",
-      "time": "2026-06-07 23:22:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Republican-led redistricting leaves Democrats needing ~5 percentage points more than 2024 to retake House; new maps give GOP ~2 percentage-point national edge】Republican-led states have completed congressional redistricting. To regain a House majority in the 2026 midterms, Democrats would need to outperform their 2024 national popular vote by about 5 percentage points. An Axios analysis estimates the new maps confer roughly a 2 percentage-point advantage to Republicans in the national popular vote. In the 10 states that redrew maps, Democrats currently hold 80 seats and Republicans 101; Democrats would need to flip three seats to win House control, which would determine whether Trump’s final two years face congressional checks."
-    },
-    {
-      "id": "4922064",
-      "time": "2026-06-07 23:22:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列訊息人士：以方立場明確，一旦真主黨向以色列發起攻擊，以軍將打擊其位於達希耶的總部。"
     }
   ]
 }
