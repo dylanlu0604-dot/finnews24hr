@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-15 05:21:37",
+  "updated": "2026-06-15 05:25:27",
   "count": 18301,
   "items": [
+    {
+      "id": "mkt:019ec803-a5ff-7dd8-aff7-17583f68ee71",
+      "time": "2026-06-15 05:22:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Pakistan's prime minister said mediators will hold a series of meetings this week after a US-Iran agreement; pre-implementation discussions will lay groundwork for technical talks and a formal signing ceremony."
+    },
     {
       "id": "4934800",
       "time": "2026-06-15 05:20:52",
@@ -168277,14 +168289,6 @@
         "國際"
       ],
       "text": "受伊朗局勢衝突影響，燃油成本上漲，美國航空暫停六條國內航線。"
-    },
-    {
-      "id": "4922279",
-      "time": "2026-06-08 05:22:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名美國官員：美國並未參與相關行動，目前尚不清楚特朗普是否會叫停對以色列打擊伊朗的軍事支援。"
     }
   ]
 }
