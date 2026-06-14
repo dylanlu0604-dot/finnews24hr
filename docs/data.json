@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-14 18:37:23",
-  "count": 18322,
+  "updated": "2026-06-14 18:41:32",
+  "count": 18321,
   "items": [
+    {
+      "id": "4934424",
+      "time": "2026-06-14 18:40:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多部門釋出氣象風險預警 局地最大小時雨量可超90毫米】多部門釋出氣象風險預警，預計6月14日20時至15日20時，我國多地雨勢明顯，部分地區伴有短時強降水，局地有雷暴大風等強對流天氣，請注意防範。中央氣象臺繼續釋出暴雨黃色預警，廣東、廣西、福建、臺灣、雲南等地有大到暴雨，部分地區有大暴雨或特大暴雨，最大小時降雨量可達90毫米。同時，自然資源部與中國氣象局聯合釋出黃色地質災害氣象風險預警，廣東、廣西、雲南等地發生地質災害的氣象風險較高。中央氣象臺還發布中小河流洪水氣象風險預警和山洪災害氣象風險預警，廣東、廣西、雲南等地需防範中小河流洪水和山洪災害。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ec5b5-7219-7dd8-aff0-ed051f01c083",
+      "time": "2026-06-14 18:37:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israeli military said it struck Hezbollah targets in the southern suburbs of Beirut, Lebanon, in response to Hezbollah firing into Israeli territory."
+    },
     {
       "id": "4934423",
       "time": "2026-06-14 18:35:25",
@@ -168484,34 +168505,6 @@
         "Greater China"
       ],
       "text": "【Guangdong Lingyi Intelligent Manufacturing clears HKEX listing hearing】Livermore Securities reports Guangdong Lingyi Intelligent Manufacturing Co., Ltd. filed updated post-hearing documents, indicating its HKEX IPO has cleared the listing hearing."
-    },
-    {
-      "id": "4921860",
-      "time": "2026-06-07 18:40:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "廣東領益智造股份有限公司港交所IPO透過聆訊。"
-    },
-    {
-      "id": "mkt:019ea1ab-2aa8-7ee0-86ce-8a31266af21f",
-      "time": "2026-06-07 18:40:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli military warns residents of Lebanon's Tyre and surrounding areas to evacuate."
-    },
-    {
-      "id": "4921859",
-      "time": "2026-06-07 18:39:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：對黎巴嫩提爾市及其周邊地區居民發出疏散警告。"
     }
   ]
 }
