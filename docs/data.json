@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-14 19:53:33",
+  "updated": "2026-06-14 19:57:37",
   "count": 18285,
   "items": [
+    {
+      "id": "4934448",
+      "time": "2026-06-14 19:55:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【大量日本民眾抗議高市早苗政府軍事擴張政策】14日下午，大量日本民眾在東京都內舉行遊行示威活動，抗議高市早苗政府及自民黨近期的一系列軍事擴張政策。活動現場，許多民眾頭戴寫有“反戰和平”字樣的頭盔，高喊“反對修憲”“阻止戰爭”等口號。活動發起方在主題報告中指出，日本政府一方面以“和平國家”自居，另一方面卻不斷強化日美安保體制、推動自衛隊擴大規模和國家軍事化程序，這是一條通往戰爭的道路。抗議者樫村在現場接受記者採訪時說：“當前日本物價持續上漲、稅負不斷加重，社會保障支出也在增加。與此同時，政府還試圖推動限制言論自由和壓制反戰聲音的立法，人們將失去自由表達的空間。”（新華社）"
+    },
+    {
+      "id": "mkt:019ec5fb-a6df-7dd8-aff1-64c607a92fc5",
+      "time": "2026-06-14 19:54:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Mass protest in Tokyo against Sanae Takaichi government military-expansion policies】On the afternoon of the 14th, large numbers of demonstrators marched in Tokyo to protest the Sanae Takaichi government's recent military-expansion measures. Protesters wearing helmets marked anti-war/peace chanted against constitutional revision and to prevent war; organizers accused the government of strengthening the US-Japan security framework, expanding the Self-Defense Forces and accelerating national militarization, calling it a path to war. A protester surnamed Kashimura told reporters that persistent price rises, heavier tax burdens and higher social-security spending, together with proposed laws to curb speech and suppress anti-war voices, threaten freedom of expression."
+    },
     {
       "id": "4934447",
       "time": "2026-06-14 19:51:46",
@@ -168190,22 +168209,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：伊朗武裝部隊堅決動用全部力量回擊任何襲擊。"
-    },
-    {
-      "id": "4921916",
-      "time": "2026-06-07 19:57:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利BPM銀行提議與Monte Paschi銀行達成合並交易。"
-    },
-    {
-      "id": "4921915",
-      "time": "2026-06-07 19:56:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國已建成3.5萬家基礎級智慧工廠】記者從工業和資訊化部瞭解到，我國已構建四級智慧工廠體系，實現規模化建設智慧工廠，引導企業從數字化、網路化向智慧化邁進。目前，我國智慧工廠體系分為基礎級、先進級、卓越級、領航級四級。已經累計建成3.5萬家基礎級、8200餘家先進級、500餘家卓越級智慧工廠，15家企業入選領航級智慧工廠培育名單，探索工程機械共享製造、汽車島式製造、家電敏捷定製等新模式新業態。智慧工廠梯度培育行動實施以來，帶動產品不良率平均下降47%、產品研發週期平均縮短38%。（央視財經）"
     }
   ]
 }
