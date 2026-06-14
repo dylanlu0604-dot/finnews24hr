@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-15 01:29:09",
-  "count": 18389,
+  "updated": "2026-06-15 01:33:10",
+  "count": 18391,
   "items": [
+    {
+      "id": "4934699",
+      "time": "2026-06-15 01:32:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：俄羅斯或將被迫開展強制徵兵行動，克里姆林宮今年的募兵規模較往年下降兩成。"
+    },
+    {
+      "id": "mkt:019ec730-3ef6-7dd8-aff5-82672ce95b1c",
+      "time": "2026-06-15 01:31:28",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Channel 12, citing Israeli security officials, reported that when Israel struck Beirut today it had anticipated Iran would launch retaliatory attacks."
+    },
+    {
+      "id": "4934698",
+      "time": "2026-06-15 01:30:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列方面評估，特朗普很快將宣佈對伊朗做出讓步，以換取以色列不對達希耶空襲事件進行報復。具體細節尚不清楚，但雙方正在秘密進行磋商。"
+    },
+    {
+      "id": "mkt:019ec72f-149d-7dd8-aff5-78c732c97f88",
+      "time": "2026-06-15 01:30:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says 'very good' call with Trump on war, Crimea and diplomatic opportunities】Ukrainian President Zelenskiy said he had a \"very good\" call with US President Trump, discussing the war and its roots, diplomatic opportunities and partners' positions. Zelenskiy called Trump's remark \"completely correct\" that Russia's seizure of Crimea \"started it all,\" and said stronger leadership at the time might have prevented the war. He said Ukrainians' primary aim is peace and described full US societal support for Ukraine's pursuit of dignity and peace as \"critical.\""
+    },
+    {
+      "id": "mkt:019ec72e-25d7-7dd8-aff5-7182c52935a7",
+      "time": "2026-06-15 01:29:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM: As of June 14, CENTCOM forces have forced 142 merchant vessels to comply with orders to divert and have disabled nine vessels that did not comply."
+    },
     {
       "id": "mkt:019ec72d-a308-7dd8-aff5-695ff6bfde58",
       "time": "2026-06-15 01:28:37",
@@ -9,6 +54,14 @@
         "MKT News"
       ],
       "text": "Channel 12 cited an Israeli assessment that Trump will soon announce he will \"give\" Iran certain concessions in exchange for Iran refraining from responding to Israel’s strike in Beirut."
+    },
+    {
+      "id": "4934697",
+      "time": "2026-06-15 01:28:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍米利厄斯號導彈驅逐艦（舷號DDG-69）在相關海域航行、執行對伊朗封鎖任務，艦上一名水兵正在執勤。截至6月14日，中央司令部部隊已引導142艘商船配合改道，並迫使9艘拒不配合的船隻停航。"
     },
     {
       "id": "4934696",
@@ -169063,41 +169116,6 @@
         "國際"
       ],
       "text": "伊朗副外長加里巴迪就媒體報道美國挪用伊朗資產向地區盟友支付戰爭損害賠償金一事表態：地區國家政府無權索要賠償。"
-    },
-    {
-      "id": "4922122",
-      "time": "2026-06-08 01:33:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗為船隻通行費定價 每艘150萬至200萬美元】伊朗媒體稱，每艘船隻通行霍爾木茲海峽，伊朗可收取150萬至200萬美元費用。伊朗議會規劃與預算委員會一名議員稱，該資料為海峽通行船隻的收費標準。"
-    },
-    {
-      "id": "mkt:019ea322-7626-7ee0-86d1-5b0d9965ea54",
-      "time": "2026-06-08 01:30:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "A legal delegation from the Trump administration has arrived in Israel and is due to meet Prime Minister Netanyahu, Defense Minister Katz and Foreign Minister Sa'ar."
-    },
-    {
-      "id": "4922121",
-      "time": "2026-06-08 01:29:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴勒斯坦各派別在開羅舉行的會議已經結束，最終公報將很快釋出，以闡明會議結果。"
-    },
-    {
-      "id": "4922120",
-      "time": "2026-06-08 01:29:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美方正考慮收購查戈斯群島】美國白宮正多方謀劃保住查戈斯群島控制權，其中一項方案是，待英國將該群島主權移交模里西斯後，由美國從模里西斯手中購入這片領地。 出於對戰略要地迪戈加西亞軍事基地前景的擔憂，特朗普政府正在評估多項備選方案，上述收購計劃便是其中之一。"
     }
   ]
 }
