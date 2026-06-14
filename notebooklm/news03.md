@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 17:19:39_
-_本檔包含 3659 則快訊，約 657702 字_
+_更新時間：2026-06-14 18:37:23_
+_本檔包含 3633 則快訊，約 658346 字_
+
+---
+
+### 2026-06-11 10:08:34  #其他
+
+工信部公佈《享受車船稅減免優惠的節約能源使用新能源汽車車型目錄》（第八十七批），吉利、比亞迪、賽力斯等多款車型在列。
+
+---
+
+### 2026-06-11 10:08:12  #MKT News #Market Themes #China EV Leaders #175.HK #Impact bullish #1211.HK
+
+MIIT published the 87th batch of the catalogue of energy‑saving new energy vehicle models eligible for vehicle and vessel tax reduction/exemption; multiple models from Geely, BYD and SERES are listed.
+
+---
+
+### 2026-06-11 10:07:42  #市場 #國際
+
+印尼基準股指下跌0.9%至5,850.578點。
+
+---
+
+### 2026-06-11 10:07:34  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steadies as US Completes Iran Strikes — Gold stabilized near $4,100 an ounce on Thursday after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume and tempering some concerns over inflationary pressures. Earlier, the US launched fresh attacks on Iran after President Trump accused Tehran of delaying talks on an interim peace agreement, while Iran reportedly responded by targeting US vessels in the Strait of Hormuz. Even so, gold remained near seven-month lows as the prolonged conflict and the continuing near-total closure of Hormuz disrupted energy flows from the Persian Gulf, fueling worries about higher inflation and interest rate hikes. Meanwhile, US inflation accelerated in May to its fastest pace in more than three years, driven by surging energy costs, though the reading matched market expectations. Traders slightly scaled back expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced.
+
+---
+
+### 2026-06-11 10:06:06  #市場
+
+大盤主力淨流出超100億。
+
+---
+
+### 2026-06-11 10:06:04  #市場 #焦點
+
+北證50日內跌幅達3.04%，成分股中，一諾威跌7.06%，聚星科技跌6.70%，鼎智科技跌6.90%，華密新材跌6.60%。
+
+---
+
+### 2026-06-11 10:04:36  #其他
+
+阿里巴巴港股跌近4%。
+
+---
+
+### 2026-06-11 10:04:12  #國際
+
+電通、7-11日本、CYBERAGENT將成立合資企業。
+
+---
+
+### 2026-06-11 10:03:37  #市場
+
+【貴金屬板塊低開高走】湖南黃金漲近5%，曉程科技、盛達資源、興業銀錫、山東黃金、湖南白銀、四川黃金等個股拉昇。
+
+---
+
+### 2026-06-11 10:03:13  #MKT News
+
+【Children eligible for railway tourism multi-ride tickets from June 11; fares set at 50% of adult】From June 11 China’s railway tourism multi-ride ticket has been extended to child travelers, with child fares set at 50% of the adult price and applied as an additional stacked discount. The upgraded product builds on the June 2023 adult multi-ride ticket: purchasers may select 2–10 one-way segments between designated stations, the ticket is valid for 15 days, and segment fares previously carried discounts down to 85% of the average same-route, same-class fare. China State Railway Group passenger revenue coordination director An Zhongwen confirmed the change.
+
+---
+
+### 2026-06-11 10:03:09  #公司
+
+【今起兒童旅客可購買鐵路旅遊計次票，票價為成人旅客的5折】今天（6月11日）起兒童旅客可購買鐵路旅遊計次票，並享受兒童優惠票政策，親子、家庭旅遊出行更加便捷實惠。此次推出的兒童旅遊計次票是在既有成人旅遊計次票基礎上最佳化升級的服務產品。2023年6月開始實行的鐵路旅遊計次票產品，主要面向成人旅客發售，按照“1次購買、分段乘坐、15天有效”的模式執行，購票人可在指定的車站間自主選擇2至10段行程出行，每段行程單次、單向、指定席別，票價均享受不同幅度的折扣優惠，最低為同徑路同席別各車次平均執行票價的8.5折。國鐵集團客運中心收益協同部總監安仲文表示，此次最佳化升級後，兒童旅客也可購買鐵路旅遊計次票，票價為成人旅客的5折，實行“折上折”。（央視新聞）
+
+---
+
+### 2026-06-11 10:03:01  #公司 #市場
+
+【埃利奧特對澳大利亞北方之星公司施加壓力，要求其進行董事會改組並推進資產出售】激進投資者埃利奧特投資管理公司（Elliott Investment Management）週三晚間呼籲澳大利亞最大黃金礦商北方之星資源公司立即重振董事會並開展正式戰略審查，以恢復股東價值，理由是該公司業績嚴重滯後。上週，埃利奧特以超過10億澳元（ 合7.008億美元）的持股正式進入北方之星的股東名冊，並呼籲進行審查及更換領導層。其理由包括公司屢次出現“運營失誤”——四年內七次未達業績預期——以及股價表現遠遜於同行。埃利奧特此前曾經過五年遊說，成功推動必和必拓取消雙重上市。此次發聲之際，這家市值190億美元的礦業巨頭正處於招聘新執行長及制定董事長繼任計劃的過程中。北方之星週三早些時候透過致股東信回應了埃利奧特的提議，表示樂意與這位激進投資者合作，並考慮埃利奧特可能推薦的董事會候選人。
+
+---
+
+### 2026-06-11 10:02:39  #公司 #市場
+
+【養雞概念異動拉昇 曉鳴股份漲超10%】養雞概念盤中異動拉昇，曉鳴股份漲超10%，此前京基智農3連板，湘佳股份、民和股份、華英農業跟漲。
+
+---
+
+### 2026-06-11 10:02:36  #市場 #焦點
+
+恒生科技指數跌超1%，現報4677.420點；恒生指數現跌0.343%。
+
+---
+
+### 2026-06-11 10:02:28  #市場
+
+【電力板塊震盪拉昇 廣安愛眾漲停】電力板塊震盪拉昇，廣安愛眾漲停，豫能控股、大唐發電、粵電力A、西昌電力、寧波能源跟漲。
+
+---
+
+### 2026-06-11 10:01:50  #市場 #國際
+
+印尼10年期國債收益率上升9個基點，扭轉了此前的下降趨勢。
+
+---
+
+### 2026-06-11 10:01:30  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Eases as US Concludes Iran Strikes — Brent pulled back toward $94 per barrel on Thursday, paring gains from earlier in the session after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume. The US earlier launched fresh attacks on Iran after President Donald Trump accused Tehran of delaying talks over an interim peace agreement. Iran also reportedly responded by targeting US vessels in the Strait of Hormuz with missile and drone attacks. The latest escalation reinforced the view that the April ceasefire has effectively unraveled, even though the large-scale bombing campaign seen at the outset of the conflict has not resumed. The near-total closure of the Strait of Hormuz continued to tighten global energy supplies, though there were signs that limited volumes of oil were still moving out of the Persian Gulf. Meanwhile, EIA data showed US crude inventories fell by 7.2 million barrels last week, extending their decline to a seventh straight week.
+
+---
+
+### 2026-06-11 10:01:16  #公司 #焦點 #原創
+
+【釘釘換帥：陳航卸任釘釘CEO，92年技術極客陳宇森接任】阿里巴巴宣佈釘釘管理層調整：陳航卸任釘釘CEO，92年技術極客陳宇森接棒。10日，阿里巴巴合夥人委員會在公司內網釋出帖文《有情有義有成長，才是阿里文化》，對近日釘釘離職員工長文《置身釘內》引發的討論表達了鮮明的態度。合夥人委員會以嚴厲的措辭批評了釘釘團隊的管理方式，直接指出這"不是阿里文化該有的樣子"。緊接著，阿里集團宣佈了對釘釘管理層的調整。陳宇森生於1992年，是年少成名的技術極客，也是技術型連續創業者，入選福布斯亞洲“30 Under 30“榜單。他曾在國內外頂級計算機賽事中屢獲冠軍，22歲時創辦的網路安全公司長亭科技被阿里雲收購。作為一名兼具技術實力與商業判斷力的年輕管理者，他2025年在阿里雲內部創業，帶領研發了AI Agent產品MuleRun。接任釘釘CEO後，陳宇森成為阿里巴巴最年輕的事業部CEO。（新浪科技）
+
+---
+
+### 2026-06-11 10:01:00  #國際
+
+Coupang因2025年資料洩露事件被韓國當局罰款6246億韓元。
+
+---
+
+### 2026-06-11 10:00:52  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Eases as US Concludes Iran Strikes — Crude oil pulled back toward $91 per barrel on Thursday, paring gains from earlier in the session after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume. The US earlier launched fresh attacks on Iran after President Donald Trump accused Tehran of delaying talks over an interim peace agreement. Iran also reportedly responded by targeting US vessels in the Strait of Hormuz with missile and drone attacks. The latest escalation reinforced the view that the April ceasefire has effectively unraveled, even though the large-scale bombing campaign seen at the outset of the conflict has not resumed. The near-total closure of the Strait of Hormuz continued to tighten global energy supplies, though there were signs that limited volumes of oil were still moving out of the Persian Gulf. Meanwhile, EIA data showed US crude inventories fell by 7.2 million barrels last week, extending their decline to a seventh straight week.
+
+---
+
+### 2026-06-11 10:00:02  #國際
+
+【伊朗公佈最新海上損失情況資料】伊朗方面6月10日公佈了最新海上損失情況，因受戰爭及相關海事限制措施影響，伊方的船舶、海員、港口運營、海上搜救、通訊設施及海事安全基礎設施等受到嚴重衝擊。伊朗代表當天在英國倫敦舉行的國際海事組織技術合作委員會會議上發言說，據伊方統計，相關事件共波及360艘船舶，其中253艘沉沒或完全損毀；54名海員遇難、66人受傷、7人失蹤，另有28人遭劫持；4座海事運營大樓、4座船舶交通服務管控站、8個通訊中繼裝置受損。 （CCTV國際時訊）
+
+---
+
+### 2026-06-11 09:59:52  #市場 #焦點
+
+*ST美芝盤中漲停，上演“地天板”，現報25.58元，成交額2.24億元。
+
+---
+
+### 2026-06-11 09:59:11  #MKT News #Star Stocks #Alibaba
+
+【Alibaba names 1992-born Chen Yusen as DingTalk CEO; Chen Hang steps down】June 11 — Alibaba announced a leadership change at DingTalk: Chen Hang has stepped down as CEO and Chen Yusen, a technologist born in 1992, has been appointed CEO. On June 10 the Alibaba partner committee published an internal post sharply criticizing DingTalk’s management style, saying "this is not how Alibaba culture should be." Alibaba followed with the management adjustment. Chen Yusen becomes Alibaba’s youngest business-unit CEO.
+
+---
+
+### 2026-06-11 09:58:25  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-06-11 09:57:54  #公司 #市場
+
+【影視院線板塊下挫，橫店影視跌停】影視院線板塊下挫，橫店影視跌停，北京文化、中視傳媒、百納千成、奧飛娛樂、捷成股份跟跌。
+
+---
+
+### 2026-06-11 09:57:47  #公司
+
+【釘釘CEO無招卸任 陳宇森接任】釘釘換帥，92年的陳宇森走到臺前。就在前一天，阿里合夥人委員會內網批評釘釘管理問題，緊接著今天宣佈最年輕事業部CEO陳宇森接任。
+
+---
+
+### 2026-06-11 09:56:44  #市場
+
+臺灣加權股價指數下跌1%至42,792.96點。
+
+---
+
+### 2026-06-11 09:56:35  #公司 #市場
+
+【光纖概念震盪回升 烽火通訊漲停】早盤光纖概念震盪回升，烽火通訊漲停，此前泰和新材5天4板，通光線纜、永鼎股份、石英股份、金信諾跟漲。
+
+---
+
+### 2026-06-11 09:56:21  #MKT News
+
+【HKEX CEO Chen Yiting: Liquidity shifting from traditional sectors to innovation】Speaking at an HKEX Future Tech Summit in Shenzhen, HKEX CEO Chen Yiting said market momentum has stayed strong this year, with IPO activity and average daily secondary-market turnover up markedly year-to-date. She added that over the past decade liquidity has flowed from traditional industries into innovation: the technology sector’s market share rose from 15% to 44% and turnover has increased more than sevenfold, reflecting a shift of investor attention toward high-growth sectors and Hong Kong’s transition toward a tech- and new-economy–driven market.
+
+---
+
+### 2026-06-11 09:56:07  #MKT News
+
+China A-share precious metals sector opened lower then rallied; Hunan Gold up nearly 5%, with Xiaocheng Technology, Shengda Resources, Xingye Silver & Tin, Shandong Gold, Hunan Silver and Sichuan Gold also rising.
+
+---
+
+### 2026-06-11 09:56:02  #市場 #焦點
+
+瀝青連續主力合約日內漲3%，現報4572.00元。
+
+---
+
+### 2026-06-11 09:55:39  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+AUS 10Y Yield Retreats from 2-Week High — Australia’s 10-year government bond yield fell below 4.9%, retreating from an over two-week high as risk-off sentiment intensified amid escalating geopolitical tensions and softer expectations for domestic policy tightening. A recent run of softer economic data prompted investors to rule out another rate hike at the Reserve Bank’s upcoming policy decision next week, as three rate hikes earlier this year began to filter through the economy. Economists have also scaled back bets for an August move and now see rates peaking at 4.35%. Still, Governor Michele Bullock reiterated last week that the central bank remains firmly focused on bringing inflation back to target. The upcoming May CPI print on June 24 would provide clear evidence of pass-through to higher prices after a weaker April reading. Meanwhile, hostilities in the Middle East dragged on as the US launched fresh strikes on Iran, casting doubt on a lasting peace deal, which would extend the closure of the crucial Strait of Hormuz.
+
+---
+
+### 2026-06-11 09:55:26  #國際
+
+【美軍官員否認與伊朗發生海上衝突】美國福克斯新聞網10日報道稱，美軍中央司令部官員否認美國海軍與伊朗伊斯蘭革命衛隊海軍在海上發生“任何衝突”。此前伊朗媒體報道稱，伊朗海軍和美國海軍10日晚在波斯灣水域發生衝突，但沒有提供衝突細節。目前，美軍宣稱已完成對伊朗的新一輪打擊。
+
+---
+
+### 2026-06-11 09:55:11  #MKT News #Commodities #Industrial Metals
+
+【Guangdong Xianglu Tungsten sharply raises long‑term tungsten raw‑material prices; 55% concentrates up >25%】On June 10, 2026 Guangdong Xianglu Tungsten Co., Ltd published tax‑inclusive long‑term procurement prices for early June. 55% black tungsten concentrate priced at 518,000 yuan/standard ton, up 104,000 yuan/standard ton versus late May (+25.12%). 55% white tungsten concentrate priced at 517,000 yuan/standard ton, up 104,000 yuan/standard ton (+25.18%). Ammonium paratungstate (APT, national‑standard zero grade) priced at 780,000 yuan/ton, up 120,000 yuan/ton (+18.18%).
+
+---
+
+### 2026-06-11 09:53:57  #公司
+
+【廣東翔鷺鎢業鎢原料長單採購價大幅上調，黑鎢、白鎢精礦漲幅均超25%】6月10日，廣東翔鷺鎢業股份有限公司公佈2026年6月上半月鎢原料長單含稅採購價，多項鎢原料價格較5月下半月大幅上調。其中，55%黑鎢精礦報價51.8萬元/標噸，較5月下半月上調10.4萬元/標噸，漲幅25.12%；55%白鎢精礦報價51.7萬元/標噸，較5月下半月上調10.4萬元/標噸，漲幅25.18%；仲鎢酸銨（國標零級）報價78萬元/噸，較5月下半月上調12萬元/噸，漲幅18.18%。
+
+---
+
+### 2026-06-11 09:53:56  #MKT News #Star Stocks #Xiaomi #09868.HK #Impact bearish #02015.HK #01810.HK
+
+Hong Kong-listed new-energy vehicle stocks slid, with XPeng (09868.HK) down more than 4%; SERES (09927.HK), Li Auto (02015.HK), BAIC (01958.HK), Chery (09973.HK) and Xiaomi (01810.HK) also fell.
+
+---
+
+### 2026-06-11 09:52:53  #其他
+
+【中國電信、華為完成多節點MESH化WSON光網路50毫秒確定性恢復驗證】中國電信與華為釋出“業界首次實現多節點MESH組網50ms WSON確定性恢復”成果。圍繞中國電信“下一代光網路”原創技術策源地建設方向，雙方共同研發的“高可靠WSON光網路系統”，完成全球首次多節點網狀（MESH）波長交換光網路（WSON）50ms確定性恢復驗證。波長交換光網路是支撐算力互聯、雲網融合、政企專線等關鍵業務的核心基礎設施。本次技術驗證搭建8節點MESH複雜網狀拓撲，最遠業務傳輸鏈路長度達660公里，並模擬連續多次斷纖故障。實測資料表明，高可靠WSON光網路系統可在長距離、多路由、連續故障等嚴苛場景下穩定達成50ms確定性快速自愈，具備運營商現網規模化落地和商業化部署的可行性。
+
+---
+
+### 2026-06-11 09:51:02  #公司 #市場
+
+有色板塊震盪拉昇，翔鷺鎢業、金鉬股份、東方鉭業、貴研鉑業、盛龍股份等多股漲停，章源鎢業、中鎢高新、廈門鎢業漲超7%。
+
+---
+
+### 2026-06-11 09:50:45  #MKT News #Market Regions #Greater China
+
+China A-share planting sector briefly rebounded; Yasheng Group surged to the daily limit, with Nongfa Seed, Quanyin Hi‑Tech, Longping Hi‑Tech and Shennong Seed also rising.
 
 ---
 
@@ -21667,395 +21901,5 @@ Australia Shares Rise After Recent Declines — Australian equities rose 29 poin
 ### 2026-06-10 09:07:17  #國際
 
 【菲律賓地震已致45人死亡】菲律賓民防部門官員今天（6月10日）稱，菲律賓南部6月8日發生的地震已造成45人死亡。（CCTV國際時訊）
-
----
-
-### 2026-06-10 09:07:10  #其他
-
-【渤海海峽部分海域進行實彈射擊 禁止駛入】據中國海事局網站訊息，煙臺海事局釋出航行警告，6月11日7時至12日17時，渤海海峽部分海域進行實彈射擊，禁止駛入。
-
----
-
-### 2026-06-10 09:07:02  #MKT News
-
-Japan Oil, Gas and Metals National Corporation (JOGMEC): Japan LNG spot landed price $18.10/MMBtu.
-
----
-
-### 2026-06-10 09:06:34  #MKT News #Commodities #Precious Metals
-
-New York silver futures fell as much as 2.00% intraday, now $63.94/oz.
-
----
-
-### 2026-06-10 09:06:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,190/oz, down 1.66% on the day.
-
----
-
-### 2026-06-10 09:06:12  #市場 #焦點
-
-白銀連續主力合約日內跌7%，現報15274.00元。
-
----
-
-### 2026-06-10 09:06:06  #Trading Economics #Markets #Commodity #Importance 1
-
-TTF Prices Rise as US Launches New Strikes on Iran — European natural gas prices rose to around €49.6 per MWh, recouping part of the previous session’s losses after the US carried out strikes on Iran in response to a downed helicopter. President Donald Trump earlier accused Tehran of shooting down the aircraft, which he said was conducting patrol operations over the Strait of Hormuz, and pledged retaliation. The new US strikes have again raised concerns about the durability of their ceasefire and ongoing peace negotiations, increasing the risk of prolonged disruptions to traffic through Hormuz, where shipping has already been constrained by blockades imposed by both sides. This development comes after Israel and Iran agreed to suspend mutual attacks following a recent escalation in hostilities. For Europe, attention remains focused on refilling storage facilities for next winter, with the ongoing conflict tightening global supply and intensifying competition for LNG cargoes.
-
----
-
-### 2026-06-10 09:05:56  #公司
-
-【武漢凡谷：氮化鋁陶瓷基板有技術儲備但無產品交付】武漢凡谷6月10日在互動平臺表示，公司在氮化鋁陶瓷基板方面具有一定的技術儲備，但目前沒有產品交付，為有效減少虧損，公司主動最佳化組織機構和產業佈局，聚焦高價值業務或訂單，強化成本管控，持續降本增效，努力搶抓市場機遇。
-
----
-
-### 2026-06-10 09:05:56  #市場 #焦點
-
-現貨黃金失守4190美元/盎司，日內跌1.67%。
-
----
-
-### 2026-06-10 09:05:48  #市場
-
-紐約期銀日內跌2%，現報63.91美元/盎司。
-
----
-
-### 2026-06-10 09:05:46  #市場 #焦點
-
-紐約期銀失守64美元/盎司，日內跌1.91%。
-
----
-
-### 2026-06-10 09:05:27  #市場 #焦點
-
-現貨白銀失守64美元/盎司，日內跌2.02%。
-
----
-
-### 2026-06-10 09:05:27  #市場
-
-現貨白銀日內跌2%，現報63.98美元/盎司。
-
----
-
-### 2026-06-10 09:05:18  #市場
-
-臺灣基準股指下跌1.2%，報44185.40點。
-
----
-
-### 2026-06-10 09:05:05  #市場
-
-鈀金期貨日內跌2%，現報1204.95美元/盎司。
-
----
-
-### 2026-06-10 09:04:47  #資料 #市場 #觀點 #國際
-
-【中金財富期貨：黃金市場觀望情緒濃厚，氛圍偏悲觀】中金財富期貨觀點稱，美國重啟對伊朗打擊，以及即將公佈的CPI資料，黃金市場觀望情緒濃厚，氛圍偏悲觀，國際金價一度跌破4300美元關口。中金財富期貨一直強調黃金面對的流動性問題難解以及高油價對黃金形成直接壓力，參與價值不大，目前維持這一觀點。
-
----
-
-### 2026-06-10 09:04:36  #市場 #焦點
-
-紐約期金失守4220美元/盎司，日內跌1.57%。
-
----
-
-### 2026-06-10 09:03:58  #國際
-
-美軍中央司令部9日透過社交媒體稱完成了對伊朗的“自衛性打擊”。（新華社）
-
----
-
-### 2026-06-10 09:03:45  #國際
-
-【美國完成就阿帕奇直升機被擊落事件對伊朗實施的打擊】據在社交媒體X上的貼文，美國中央司令部稱，“根據總司令的指示，部隊於6月9日完成了對伊朗的自衛性打擊，以回應前一天美國陸軍阿帕奇直升機被擊落的事件”。  “中央司令部部隊襲擊了霍爾木茲海峽附近的伊朗防空、地面控制站和監視雷達站，”貼文寫道。“美軍仍保持高度警惕，嚴陣以待，抵禦伊朗的無端侵略。”
-
----
-
-### 2026-06-10 09:02:36  #市場
-
-MSCI亞太指數下跌1%至268.65點。
-
----
-
-### 2026-06-10 09:02:20  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell 2.00% intraday to $64.05/oz.
-
----
-
-### 2026-06-10 09:02:13  #公司
-
-【中鋁集團董事長段向東與蒙古國副總理諾木泰巴亞爾舉行會談】6月8日，中鋁集團董事長段向東在集團總部與來訪的蒙古國副總理諾木泰巴亞爾一行舉行會談，雙方就進一步加強合作進行深入交流。段向東表示，中鋁集團與蒙古國相關企業合作源遠流長、根基深厚，近年來持續擴大貿易規模、創新物流模式，推動合作不斷邁上新臺階。下一步希望在做深做實焦煤貿易合作的同時，在更多領域開展更深層次合作。諾木泰巴亞爾表示，當前蒙古國政府持續最佳化外商投資環境，推進物流通道建設，努力為區域產業鏈與供應鏈合作創造更加高效、穩定的發展條件。中鋁集團在資源開發、工程建設等方面實力雄厚，希望進一步深化合作，實現更高水平的互利共贏。
-
----
-
-### 2026-06-10 09:02:05  #市場
-
-【酒價內參6月10日價格釋出：習酒君品領跌 總價連續回撥創五天來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月10日整體繼續走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9881元，較昨日下跌14元，連續兩日回撥創五天來最低，已回落至近30天以來次低位，僅高於6月5日的9876元月低點。市場在6月8日階段性反彈後再度承壓，終端交投情緒仍偏謹慎，核心單品的漲跌分化度依然顯著。今日11大白酒單品四漲七跌，輸家佔據明顯上風。上漲方面，國窖1573漲幅居前，上漲7元/瓶，連續兩日反彈，但價格仍處於近30天低位區間；古井貢古20上漲3元/瓶；飛天茅臺與五糧液1618均上漲2元/瓶，其中前者收穫五連陽，價格升至近30天次高位，後者回補了昨日全部跌幅，自昨日的近一月最低點小幅反彈。下跌方面，習酒君品跌幅居前，下跌6元/瓶，連續三日大幅下探，創近30天最低價，近一個月其價格中樞持續下移；青花汾20與青花郎均下跌5元/瓶，其中前者平近30天最低價，後者終結此前兩日連續反彈強勢；精品茅臺與五糧液普五八代均下跌4元/瓶，其中前者連續兩日回撥，此前快速反彈勢頭消退，後者連續兩日回落，今日價格804元僅略高於6月5日創下的近一月最低點801元；洋河夢之藍M6+與水晶劍南春均下跌2元/瓶，其中前者創近30天最低價。
-
----
-
-### 2026-06-10 09:01:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Russia says it struck Ukrainian ammunition depots; Ukraine says it hit Russian fuel facilities】On the 9th local time, the Russian Defence Ministry said Russian forces struck Ukrainian ammunition and fuel depots and targeted Ukrainian transport and energy infrastructure over the previous 24 hours; Russian air-defence units intercepted nine precision-guided aerial bombs, two HIMARS rockets and hundreds of drones. Ukraine's general staff said overnight from the 8th into the early hours of the 9th its forces struck Russian ammunition depots, command posts and logistics hubs, and confirmed recent strikes on Russian fuel storage and transfer facilities.
-
----
-
-### 2026-06-10 09:01:34  #MKT News #Market Regions #Greater China
-
-Taiwan Stock Exchange weighted index (TAIEX) opened down 453.03 points, or 1.01%, at 44,251.41 on Wednesday, June 10.
-
----
-
-### 2026-06-10 09:01:33  #MKT News #Important #Commodities #Precious Metals
-
-Platinum main contract fell as much as 4.00% intraday to 417.85 yuan/gram.
-
----
-
-### 2026-06-10 09:01:30  #市場 #焦點
-
-鉑連續主力合約日內跌4%，現報417.85元。
-
----
-
-### 2026-06-10 09:01:05  #國際
-
-【巴基斯坦和黎巴嫩軍方高層討論地區局勢】巴基斯坦軍方9日表示，巴基斯坦陸軍參謀長穆尼爾當天在伊斯蘭堡會見來訪的黎巴嫩軍隊總司令魯道夫·海卡爾，雙方同意加強防務合作。據知情人士披露，海卡爾此訪可能與美國和伊朗之間進行的談判有關。巴基斯坦軍方發表宣告稱，穆尼爾與海卡爾討論了“共同關心的問題、不斷演變的地區安全形勢、防務合作以及加強雙邊軍事關係的前景”。宣告援引穆尼爾的話說，巴方致力於擴大與黎武裝部隊的防務合作。
-
----
-
-### 2026-06-10 09:00:59  #MKT News #Important #Commodities #Precious Metals
-
-SHFE front-month silver contract plunged 6.00% intraday to 15,436.00 yuan/kg.
-
----
-
-### 2026-06-10 09:00:48  #國際
-
-【俄稱打擊烏軍彈藥庫 烏稱襲擊俄燃料設施】當地時間9日，俄羅斯國防部通報稱，過去24小時，俄軍打擊了烏軍彈藥庫、油料庫以及其使用的交通和能源基礎設施等目標。俄軍防空部隊則攔截了烏軍9枚制導航空炸彈、2枚“海馬斯”火箭彈和數百架無人機。同一天，烏克蘭武裝部隊總參謀部釋出戰報稱，8日夜間到9日凌晨，烏軍打擊了俄軍彈藥庫、指揮所、物流樞紐等多個軍事目標。另外，烏軍還確認，其部隊於近期打擊了俄軍燃料儲存和轉運設施等目標。
-
----
-
-### 2026-06-10 09:00:40  #MKT News #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D fell 2.98% in early trade on Wednesday, June 10, to 918.42 yuan/gram; silver T+D dropped 6.04% to 15,358.0 yuan/kg.
-
----
-
-### 2026-06-10 09:00:33  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-At the morning open, China’s most-active domestic futures were mostly lower: Shanghai silver futures tumbled over 5%, palladium futures fell more than 3% and LPG dropped nearly 3%. Shanghai gold, propylene and fuel oil futures lost over 2%; monthly-average polypropylene and PET bottle-chip contracts slipped about 2%, and polypropylene futures eased just over 1%. On the upside, container-shipping (Europe route) futures rose over 4%, while lithium carbonate and egg contracts gained around 2%.
-
----
-
-### 2026-06-10 09:00:31
-
-國內期貨主力合約跌多漲少，滬銀跌超5％，鈀跌超3％，液化石油氣（LPG）跌近3％，滬金、丙烯、燃料油跌超2％，聚丙烯月均、瓶片跌近2％，聚丙烯跌超1％。漲幅方面，集運歐線漲超4％，碳酸鋰、雞蛋漲近2％。
-
----
-
-### 2026-06-10 09:00:14  #其他
-
-臺灣證交所加權股價指數開低0.3%報44,581.45。
-
----
-
-### 2026-06-10 09:00:13  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-WTI crude slid intraday, erasing more than 1% of earlier gains to trade at $89.71/bbl.
-
----
-
-### 2026-06-10 09:00:10  #MKT News
-
-FTSE China A50 index futures opened down 0.58%.
-
----
-
-### 2026-06-10 09:00:10  #市場 #焦點
-
-白銀連續主力合約日內跌6%，現報15436.00元。
-
----
-
-### 2026-06-10 09:00:09  #市場
-
-鈀金期貨日內跌1%，現報1217.04美元/盎司。
-
----
-
-### 2026-06-10 09:00:04  #市場
-
-【商品期貨開盤】白銀連續跌5.67%，集運指數歐線期貨連續漲5.01%，鉑連續跌2.85%，黃金連續跌2.81%，液化石油氣連續跌2.77%。
-
----
-
-### 2026-06-10 09:00:04  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲5%，現報4063.00點。
-
----
-
-### 2026-06-10 09:00:03  #市場
-
-富時中國A50指數期貨開盤下跌0.63%。
-
----
-
-### 2026-06-10 08:59:53  #國際
-
-伊朗伊斯蘭革命衛隊公共關係部門10日釋出宣告說，伊朗在布什爾省“攔截並摧毀”了一架MQ－9型“死神”無人機。
-
----
-
-### 2026-06-10 08:59:31  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【CENTCOM says U.S. completed defensive strikes on Iran】CENTCOM said U.S. forces completed defensive strikes on Iran on June 9 in response to the previous day’s downing of a U.S. Army Apache helicopter. Using precision munitions from U.S. Air Force and Navy aircraft, forces struck Iranian air-defense systems, ground-control nodes and surveillance radar sites near the Strait of Hormuz. CENTCOM said the action was a proportionate response to recent attacks on U.S. forces and international merchant shipping transiting the area and that U.S. forces remain vigilant and prepared to defend against further Iranian aggression.
-
----
-
-### 2026-06-10 08:59:07  #國際
-
-【伊朗武裝部隊稱“猛烈打擊”中東地區美軍基地】據伊朗媒體10日報道，伊朗武裝部隊哈塔姆安比亞中央總部發表宣告稱，為回應美軍以其直升機墜毀為藉口對伊朗南部地區的“侵略”，伊朗軍隊和伊朗伊斯蘭革命衛隊對中東地區美軍基地進行了“猛烈打擊”。（新華社）
-
----
-
-### 2026-06-10 08:58:52  #焦點 #國際
-
-美國完成就阿帕奇直升機被擊落事件對伊朗實施的打擊。
-
----
-
-### 2026-06-10 08:58:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran says it launched heavy strikes on US bases in Middle East】Iranian media on the 10th quoted the Khatam al-Anbiya Central Headquarters as saying Iran's army and the Islamic Revolutionary Guard Corps carried out heavy strikes on US bases in the Middle East in retaliation for what Tehran called US "aggression" against southern Iran, which it says the US justified using a helicopter crash.
-
----
-
-### 2026-06-10 08:57:45  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-CENTCOM said it has completed a retaliatory strike against Iran.
-
----
-
-### 2026-06-10 08:56:19  #其他
-
-【中國駐宏都拉斯使館提醒在洪中國公民防範熱帶風暴影響】6月9日，宏都拉斯應急管理部就熱帶風暴“克里斯蒂娜”來襲預警，將該國太平洋豐塞卡灣沿岸、巴列省阿利安薩市定為黃色中風險地區，將弗朗西斯科·莫拉桑、科馬亞瓜、喬盧特卡等九個省份定為綠色低風險地區。 中國駐宏都拉斯使館提醒在洪中國公民、中資企業及機構密切關注洪官方部門釋出的預警提醒及風險動態，提高災害防範意識，做好應急準備工作，儘量避免前往風險地區，不要靠近漲潮海岸及河流，遠離洪水和山體滑坡高發區域，切實保護好人身及財產安全。
-
----
-
-### 2026-06-10 08:56:06  #其他
-
-【北京高考本科志願填報將於6月27日啟動】從北京教育考試院瞭解到，本科志願將在北京高考成績釋出後進行填報，首次志願填報安排在6月27日至7月1日，徵集志願填報時間根據錄取程序安排。
-
----
-
-### 2026-06-10 08:55:58  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's Islamic Revolutionary Guard Corps said it successfully struck and destroyed a U.S. MQ-9 drone.
-
----
-
-### 2026-06-10 08:54:22  #公司
-
-【傑瑞股份：目前資料中心一體化業務對經營業績未產生重大影響】傑瑞股份近日在機構調研時表示，目前，公司資料中心一體化業務尚處於起步階段，對經營業績未產生重大影響。
-
----
-
-### 2026-06-10 08:54:18  #公司
-
-【陝西匯秦交融新興產發投資基金成立，出資額10億元】企查查APP顯示，近日，陝西匯秦交融新興產業發展投資基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含：創業投資（限投資未上市企業）；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由長安匯通投資管理有限公司、交銀金融資產投資有限公司等共同出資。
-
----
-
-### 2026-06-10 08:54:16  #其他
-
-【瀾起科技成功送樣9200 MT/s DDR5 RCD晶片 助力下一代伺服器效能升級】6月10日，瀾起科技宣佈，已成功向客戶送樣其DDR5第六子代寄存時鐘驅動器晶片 (RCD06)。該晶片應用於新一代DDR5寄存式雙列直插記憶體模組 (RDIMM)，將有力推動下一代計算平臺效能升級。瀾起科技的RCD06晶片支援高達9200 MT/s的資料傳輸速率，較上一代產品提升15%，充分滿足下一代伺服器平臺對高頻寬的嚴苛要求。
-
----
-
-### 2026-06-10 08:54:11  #國際
-
-【伊朗革命衛隊：若美國繼續敵對行為 伊朗將作出“更強烈的回應” 】伊朗革命衛隊表示，美國的襲擊損毀了錫裡克的一座電信塔，並炸燬了兩座儲水罐。  伊朗革命衛隊稱衝突仍在持續，並警告若美國繼續敵對行為，伊朗將作出“更強烈的回應”。
-
----
-
-### 2026-06-10 08:53:40  #MKT News #Market Themes #Chip Wars
-
-【Montage Technology begins customer sampling of 9,200 MT/s DDR5 RCD chip】June 10 — Montage Technology said it has begun customer sampling of its sixth‑generation DDR5 registered clock driver (RCD06) for RDIMM. The RCD06 supports up to 9,200 MT/s, roughly 15% faster than the prior generation, aimed at meeting next‑generation server platform high‑bandwidth requirements.
-
----
-
-### 2026-06-10 08:52:02  #公司
-
-【攜程在上海投資成立私募基金管理公司】企查查APP顯示，近日，上海瑞程私募基金管理有限公司成立，註冊資本1000萬元，經營範圍包含：私募股權投資基金管理、創業投資基金管理服務。企查查股權穿透顯示，該公司由攜程旅行網（香港）有限公司 CTRIP.COM（HONG KONG） LIMITED、周世偉共同持股。
-
----
-
-### 2026-06-10 08:51:00  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Iran’s Islamic Revolutionary Guard Corps said fighting remains ongoing and warned it would deliver a "harsher response" if the United States continues hostile actions.
-
----
-
-### 2026-06-10 08:50:48  #國際
-
-【伊朗襲擊美軍第五艦隊】伊朗伊斯蘭革命衛隊宣佈，當地時間今天（6月10日）凌晨，再對位於巴林的美軍第五艦隊發動無人機襲擊。(CCTV國際時訊)
-
----
-
-### 2026-06-10 08:50:39  #MKT News
-
-Iran's Islamic Revolutionary Guard Corps said a previous U.S. strike damaged a communications tower in Sirik and destroyed two water storage facilities.
-
----
-
-### 2026-06-10 08:50:33  #公司 #市場
-
-三星電子股價下跌4.8%，至306,500韓元。
-
----
-
-### 2026-06-10 08:50:02  #MKT News #Market Regions #Greater China #CSI300 #SSE Composite #SZSE Component
-
-【Combined margin financing balances up CNY 3.637 bln】As of June 9, Shanghai Stock Exchange margin financing outstanding was CNY 1,452.22 bln, down CNY 1.481 bln from the prior session; Shenzhen Stock Exchange was CNY 1,404.91 bln, up CNY 5.118 bln. Combined outstanding was CNY 2,857.13 bln, up CNY 3.637 bln.
-
----
-
-### 2026-06-10 08:49:48  #公司
-
-【上市公司近一月回購總額超170億元 頭部企業示範效應漸顯】近期上市公司回購活躍。資料顯示，截至6月9日，近一個月A股上市公司實施回購總金額為176.45億元，相比去年同期的127.74億元，增長38.13%。記者梳理發現，5月9日至6月9日，實施回購金額居前五的上市公司為京東方科技集團股份有限公司、美的集團股份有限公司、順豐控股股份有限公司、貴州茅臺酒股份有限公司、東鵬飲料（集團）股份有限公司，分別為22.14億元、21.96億元、17.81億元、14.79億元、8.89億元。“頭部公司的回購具有較強的示範效應，往往能夠‘以點帶面’，有效帶動市場情緒。”高承遠表示。（證券日報）
-
----
-
-### 2026-06-10 08:49:43  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) said it used drones to attack the U.S. Fifth Fleet based in Bahrain.
-
----
-
-### 2026-06-10 08:49:06  #國際
-
-伊朗革命衛隊表示，他們已對美軍第五艦隊駐巴林基地發動無人機襲擊，以回應美軍對伊朗南部的襲擊。
-
----
-
-### 2026-06-10 08:47:54  #國際
-
-伊朗媒體報道，伊朗最高聯合軍事指揮部“海亞姆安比亞”總部表示，為回應美國對伊朗南部的“侵略行動”，已對美國在該地區的部分基地發動了襲擊。
-
----
-
-### 2026-06-10 08:47:31  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's Supreme Joint Military Command said it struck several U.S. military bases in the region in response to U.S. "aggression against southern Iran".
 
 ---

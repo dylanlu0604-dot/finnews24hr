@@ -1,7 +1,481 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 17:19:39_
-_本檔包含 3914 則快訊，約 657822 字_
+_更新時間：2026-06-14 18:37:23_
+_本檔包含 3947 則快訊，約 658110 字_
+
+---
+
+### 2026-06-09 02:27:47  #公司 #市場 #國際
+
+淡水河谷執行長表示，東南亞、美國及歐洲地區需求走強；其預計印度鋼鐵產量十年內將翻番。
+
+---
+
+### 2026-06-09 02:26:24  #公司
+
+淡水河谷執行長稱，關鍵礦產的需求形勢極為向好。
+
+---
+
+### 2026-06-09 02:25:21  #MKT News
+
+Trump said she was installed by then-Senate Majority Leader Harry Reid and former President Obama and asked if he needed to say more.
+
+---
+
+### 2026-06-09 02:24:59  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Butter Rises by 1.88% — Top commodity gainers are Butter (1.88%) and Cocoa (1.51%).
+
+---
+
+### 2026-06-09 02:24:25  #MKT News #Market Themes #The Trump Trade
+
+Trump said Senate majority leader John Thune should immediately fire the Senate parliamentarian.
+
+---
+
+### 2026-06-09 02:23:47  #其他
+
+【蘋果官宣新OS系統開發者Beta版今天推出，今秋提供給所有使用者】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果表示，為孩子的需求著想，其也陸續推出更多實用功能及新功能，比如SiriAI等。另外，新OS系統的開發者Beta版今天推出，並將於今秋正式提供給所有使用者。（新浪科技）
+
+---
+
+### 2026-06-09 02:21:32  #其他
+
+【蘋果 iOS 27照片App升級“空間構圖”技術，支援先拍照再調整視角】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。據介紹，在macOS 27、iOS 27 系統中，蘋果宣佈為照片App引入“空間構圖”技術，能夠幫助使用者先拍照再構圖。具體來看，蘋果利用裝置端空間模型和基於專用雲端計算的空間模型，讓照片變身為“3D 空間場景”，使用者可以透過編輯後期自由放大、移動照片視角位置，支援所有照片，包括相機拍攝的照片。（新浪科技）
+
+---
+
+### 2026-06-09 02:21:00  #國際
+
+特朗普：圖恩應當立即解僱國會議事官。
+
+---
+
+### 2026-06-09 02:21:00  #MKT News
+
+cenc measured a magnitude 5.8 earthquake at 02:00 on June 9 in the Cuba region (22.75°N, 85.15°W); focal depth 20 km.
+
+---
+
+### 2026-06-09 02:20:52  #國際
+
+特朗普：我們完全有權更換國會議事官。
+
+---
+
+### 2026-06-09 02:20:00  #其他
+
+中國地震臺網正式測定：06月09日02時00分在古巴地區（北緯22.75度，西經85.15度）發生5.8級地震，震源深度20千米。
+
+---
+
+### 2026-06-09 02:19:58  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 2.36% — Top commodity losers are Platinum (-2.36%), Iron Ore CNY (-0.91%) and Steel Rebar (-0.79%). Gains are led by Silver (1.85%), Copper (0.95%) and Gold (0.28%).
+
+---
+
+### 2026-06-09 02:19:19  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact mixed
+
+US tech reporter Mark Gurman said Apple (AAPL.O)'s latest release fell short of disruptive innovation but rebuilt the foundations of its major platforms with practical AI features, a markedly improved Siri and performance upgrades. Gurman said that is crucial because a slate of flagship devices running these operating systems will arrive over the next three years, and called the move the right decision.
+
+---
+
+### 2026-06-09 02:17:21  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) WWDC26 has concluded.
+
+---
+
+### 2026-06-09 02:14:59  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Rises by 3.81% — Top commodity gainers are Natural Gas UK (3.81%), Natural Gas EU (3.68%), Germany Natural Gas THE (3.08%), Brent Crude Oil (1.32%) and Crude Oil WTI (0.95%). Biggest loser is Natural gas (-2.49%).
+
+---
+
+### 2026-06-09 02:14:33  #國際
+
+伊朗革命衛隊聖城旅指揮官：從霍爾木茲海峽到曼德海峽，從波斯灣到紅海，將形成一條新的抵抗安全帶。
+
+---
+
+### 2026-06-09 02:14:20  #其他
+
+【Siri AI推出自動校正功能】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。據介紹，在macOS 27、iOS 27 系統中，基於Siri AI推出系統級別的AI自動校正功能。該功能可以檢查當前文件中表述是否存在拼寫和語法錯誤，並提供最佳化和改進。公開資訊顯示，“Siri AI ”比之前的智慧助手版本更具對話性，功能也更強大。在對話中，“Siri AI”的聲音更加富有表現力，使用者可以自定義語速、語氣和口音。另外，“Siri AI”支援在系統範圍內使用，能夠讀取螢幕上的內容並與應用程式互動。同時，“Siri AI”配有獨立App，螢幕頂部的靈動島會冒出很大的氣泡。（新浪科技）
+
+---
+
+### 2026-06-09 02:14:12  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): new operating system will launch this autumn.
+
+---
+
+### 2026-06-09 02:13:55  #國際
+
+伊朗指揮官卡阿尼宣佈，在主要航運航道沿線組建全新抵抗安全防線。
+
+---
+
+### 2026-06-09 02:13:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+ISNA cited IRGC Quds Force commander Qaani saying a new "resistance front security belt" will be formed from the Strait of Hormuz to Bab al-Mandeb, and from the Persian Gulf to the Red Sea.
+
+---
+
+### 2026-06-09 02:13:37  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): New operating system developer beta released today; public beta scheduled for next month.
+
+---
+
+### 2026-06-09 02:13:08  #公司
+
+蘋果執行長蒂姆·庫克：新作業系統將於“今年秋季”推出。
+
+---
+
+### 2026-06-09 02:12:49  #MKT News #Macro & Rates #US Economy
+
+The Congressional Budget Office estimates the U.S. budget deficit for May at $294 billion.
+
+---
+
+### 2026-06-09 02:12:47  #其他
+
+蘋果：新款作業系統將於今日開放開發者測試版，公開測試版將於下月推出。
+
+---
+
+### 2026-06-09 02:12:14  #其他
+
+蘋果表示，人工智慧版Siri及全新AI功能暫不會登陸中國市場。
+
+---
+
+### 2026-06-09 02:12:11  #MKT News
+
+ANSA reported Italian prosecutors have opened an investigation into Israeli minister Ben-Gvir over the Gaza flotilla incident.
+
+---
+
+### 2026-06-09 02:11:55  #MKT News
+
+cenc automatic determination: at 02:00 on June 9 an earthquake of about magnitude 6.0 occurred near Cuba (22.82°N, 85.23°W). Final parameters subject to formal rapid report.
+
+---
+
+### 2026-06-09 02:11:42  #其他
+
+【Siri 已整合至相機應用】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果表示，在推出Siri AI外，還宣佈Siri已整合到 iPhone 的相機應用中，可以識別物體並將其儲存到 Siri 應用中。公開資訊顯示，“Siri AI ”比之前的智慧助手版本更具對話性，功能也更強大。在對話中，“Siri AI”的聲音更加富有表現力，使用者可以自定義語速、語氣和口音。另外，“Siri AI”支援在系統範圍內使用，能夠讀取螢幕上的內容並與應用程式互動。同時，“Siri AI”配有獨立App，螢幕頂部的靈動島會冒出很大的氣泡。（新浪科技）
+
+---
+
+### 2026-06-09 02:10:54  #其他
+
+太平洋海嘯預警中心表示，古巴地震暫無重大海嘯風險。
+
+---
+
+### 2026-06-09 02:10:22  #焦點 #國際
+
+美國國會預算辦公室預估：美國5月財政赤字達2940億美元。
+
+---
+
+### 2026-06-09 02:09:57  #國際
+
+義大利檢方就加沙船隊事件對以色列部長本-格維爾展開調查。
+
+---
+
+### 2026-06-09 02:09:53  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) said it will roll out Siri AI and a user beta later this year.
+
+---
+
+### 2026-06-09 02:09:34  #其他 #焦點
+
+蘋果股價跌幅擴大至1.2%。
+
+---
+
+### 2026-06-09 02:09:13  #公司
+
+蘋果公司：將面向使用者在今年晚些時候推出SIRI人工智慧功能及測試版。
+
+---
+
+### 2026-06-09 02:09:03  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O): Siri AI will not be available on iOS and iPadOS in the EU at launch.
+
+---
+
+### 2026-06-09 02:08:46  #其他
+
+中國地震臺網自動測定：06月09日02時00分在古巴地區附近（北緯22.82度，西經85.23度）發生6.0級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-09 02:08:34  #國際
+
+蘋果全球開發者大會主題演講顯示，SIRI人工智慧最初不會在歐盟地區的iOS及iPadOS系統上線。
+
+---
+
+### 2026-06-09 02:08:18  #MKT News #Market Themes #AI Revolution
+
+Researchers will partner with OpenAI's economic research team to produce empirical analysis on how AI affects workers, firms, institutions and the broader economy.
+
+---
+
+### 2026-06-09 02:08:04  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): Some Apple Intelligence features, including image generation, are subject to daily usage limits.
+
+---
+
+### 2026-06-09 02:07:56  #其他
+
+OpenAI：研究人員將與OpenAI經濟研究部門合作，就人工智慧對勞動者、企業、機構及整體經濟的影響提供實證依據。
+
+---
+
+### 2026-06-09 02:07:44  #其他
+
+蘋果：蘋果Intelligence的部分功能，包括影象生成功能，設有每日使用限額。
+
+---
+
+### 2026-06-09 02:07:36  #MKT News
+
+According to the Oman News Agency, the Public Authority for Special Economic Zones and Free Zones signed 10 agreements and memoranda of understanding to launch new projects in the Duqm Special Economic Zone, with combined expected investment of $7.5 billion.
+
+---
+
+### 2026-06-09 02:06:56  #MKT News
+
+GFZ reports a magnitude 6.12 earthquake in the Cuba region.
+
+---
+
+### 2026-06-09 02:05:53  #其他
+
+阿曼國家通訊社：阿曼公共經濟特區與自由區管理局已簽署十項協議與諒解備忘錄，將在杜庫姆經濟特區內建設新專案，預計總投資額為75億美元。
+
+---
+
+### 2026-06-09 02:05:21  #MKT News #Market Themes #AI Revolution
+
+OpenAI opens applications for its Economic Research Exchange program; application deadline July 5, 2026.
+
+---
+
+### 2026-06-09 02:05:03  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+Apple (AAPL.O) shares turned lower after earlier gains of more than 3%.
+
+---
+
+### 2026-06-09 02:04:40  #其他
+
+OpenAI：經濟研究交流計劃申請通道現已開啟，申請將於2026年7月5日截止。
+
+---
+
+### 2026-06-09 02:04:32  #MKT News #Market Regions #Japan & APAC
+
+Nikkei reports Japan will assist in drafting intellectual property rules for Southeast Asia and other emerging markets.
+
+---
+
+### 2026-06-09 02:04:30  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) said its "Image Generation" feature will now support producing photorealistic images, including generating images based on people in users' Apple device photo libraries.
+
+---
+
+### 2026-06-09 02:04:25  #MKT News #Market Regions #Europe & UK
+
+French presidential office said France will continue to encourage companies and the military to seek cooperation and jointly advance European projects that serve national security.
+
+---
+
+### 2026-06-09 02:04:23  #MKT News #Market Regions #Europe & UK
+
+The French presidential office said German authorities have determined the relevant company cannot continue operating.
+
+---
+
+### 2026-06-09 02:04:23  #MKT News #Market Themes #AI Revolution
+
+OpenAI launches Economic Research Exchange platform.
+
+---
+
+### 2026-06-09 02:04:14  #公司
+
+【蘋果“AI”由谷歌Gemini提供技術，可在雲端伺服器執行】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果宣佈Apple Intelligence與谷歌達成合作，引入Gemini大模型，並帶來全新的AI架構。新版蘋果AI將由Gemini提供技術，能在裝置端執行，也可以在雲端伺服器執行。（新浪科技）
+
+---
+
+### 2026-06-09 02:03:18  #市場 #焦點
+
+蘋果股價在上漲3.3%後轉跌。
+
+---
+
+### 2026-06-09 02:03:11  #其他
+
+OpenAI：推出OpenAI經濟研究交流平臺。
+
+---
+
+### 2026-06-09 02:01:14  #國際
+
+日本將協助東南亞及其他新興市場制定智慧財產權規則。
+
+---
+
+### 2026-06-09 02:00:54  #公司
+
+蘋果公司：蘋果裝置端“影象生成”應用現已支援生成照片級寫實影象，包括生成基於蘋果裝置照片庫中人物的影象。
+
+---
+
+### 2026-06-09 02:00:29  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): Shortcuts app will allow users to describe and create shortcuts using natural-language input.
+
+---
+
+### 2026-06-09 02:00:09  #其他
+
+【蘋果推出Siri AI：設獨立App，使用時靈動島將浮出“大氣泡”】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。會上，蘋果釋出“Siri AI ”，其比之前的智慧助手版本更具對話性，功能也更強大。在對話中，“Siri AI”的聲音更加富有表現力，使用者可以自定義語速、語氣和口音。另外，“Siri AI”支援在系統範圍內使用，能夠讀取螢幕上的內容並與應用程式互動。同時，“Siri AI”配有獨立App，螢幕頂部的靈動島會冒出很大的氣泡。（新浪科技）
+
+---
+
+### 2026-06-09 02:00:03  #MKT News
+
+The French presidency said President Macron and German Chancellor Merz expressed regret that they were unable to continue advancing the Franco-German joint fighter-jet project.
+
+---
+
+### 2026-06-09 01:59:43  #國際
+
+愛麗捨宮：法國總統馬克龍與德國總理默茨對法德未來空戰系統（FCAS）戰鬥機專案無法繼續推進表示遺憾。
+
+---
+
+### 2026-06-09 01:59:34  #其他
+
+蘋果：快捷指令應用現已支援使用者用自然語言描述建立快捷指令。
+
+---
+
+### 2026-06-09 01:59:28  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): The Home app can use Apple Intelligence to analyze video clips from compatible cameras and generate concise summary descriptions.
+
+---
+
+### 2026-06-09 01:58:11  #公司
+
+蘋果公司：主螢幕App可利用Apple Intelligence分析相容攝像頭錄製的片段，生成摘要描述。
+
+---
+
+### 2026-06-09 01:54:47  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact bullish
+
+【Apple unveils next‑generation AI platform, including AI Siri】Apple (AAPL.O) unveiled a next‑generation AI platform at WWDC that includes an upgraded, AI version of Siri. Craig Federighi said the new Apple Intelligence is underpinned by Google technology and is designed to improve contextual understanding of user requests. Apple positioned the Siri overhaul as central to its AI revival after the initial Apple Intelligence rollout two years ago saw slow feature deployment and lagged rivals. The software update will emphasize AI, performance and security; Apple also named the next macOS Golden Gate and tweaked last year’s Liquid Glass interface by adding a slider to adjust visual effect intensity.
+
+---
+
+### 2026-06-09 01:53:31  #公司 #國際
+
+據檔案顯示，印度即時零售初創公司Zepto已批准增發最高801億盧比（合8億美元）的新股。
+
+---
+
+### 2026-06-09 01:53:05  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): Safari browser can now use Apple Intelligence to organize tabs by topic.
+
+---
+
+### 2026-06-09 01:52:39  #公司
+
+蘋果公司： Safari瀏覽器現可藉助蘋果人工智慧整理標籤頁，按主題分類歸整。
+
+---
+
+### 2026-06-09 01:52:39  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) said it will add additional languages to Siri AI "soon" but did not provide a timeline.
+
+---
+
+### 2026-06-09 01:51:58  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O): Siri AI will initially support English.
+
+---
+
+### 2026-06-09 01:51:57  #其他
+
+蘋果稱Siri人工智慧將“很快”加入其他語言，但未給出具體時間。
+
+---
+
+### 2026-06-09 01:51:27  #其他
+
+【蘋果全新系統升級“家長控制”：新增“兒童賬號”，不良資訊會警告模糊】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果宣佈為 iOS / macOS 27引入全新家長控制功能，新增兒童賬號。據悉，家長可以將新賬號設定為“兒童賬號”，能在App Store檢視每款應用是否適用於孩子。同時，該系統允許家長便捷控制各類應用具體使用時間，可以在不同時間段決定孩子可以使用什麼App，必要時輕點一下就可以設定許可權。另外，當孩子接收或者試圖傳送可能含有裸露內容的照片或影片時，通訊安全功能就會發出警告，相關內容也會被模糊顯示。（新浪科技）
+
+---
+
+### 2026-06-09 01:51:21  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O): writing tools are more powerful and are now deeply integrated into the Siri experience.
+
+---
+
+### 2026-06-09 01:51:11  #其他
+
+蘋果：Siri人工智慧將率先以英語版本推出。
+
+---
+
+### 2026-06-09 01:50:54  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) integrates Siri AI into the Camera app and introduces a new Siri mode.
+
+---
+
+### 2026-06-09 01:50:20  #其他
+
+蘋果：寫作工具功能更強，並整合進Siri體驗。
+
+---
+
+### 2026-06-09 01:49:50  #其他
+
+蘋果：SIRI人工智慧將以全新Siri模式整合至相機應用。
+
+---
+
+### 2026-06-09 01:49:42  #公司
+
+蘋果公司：面向Siri的視覺智慧也將登陸visionOS系統，在該系統上你只需看向物體就能就其內容提問。
+
+---
+
+### 2026-06-09 01:49:34  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O): Siri's visual intelligence will also come to VisionOS, allowing users to query objects simply by looking at them.
 
 ---
 
@@ -23267,286 +23741,5 @@ Israeli military warns residents of Lebanon's Tyre and surrounding areas to evac
 ### 2026-06-07 18:39:06  #國際
 
 以色列軍方：對黎巴嫩提爾市及其周邊地區居民發出疏散警告。
-
----
-
-### 2026-06-07 18:34:49  #觀點 #焦點
-
-【中信證券：短期美股科技股調整，市場料將繼續維持高波動狀態】6月7日，中信證券釋出的美股科技板塊跟蹤點評報告指出，短期美股科技股調整，更多源於貨幣政策預期修正、此前擁擠的市場，以及個別企業噪音等因素的共同影響。短期維度，AI產業不斷自我強化的看多邏輯料難逆轉，但產業當前進展較“商業化已完全閉環”的論調仍有明顯距離，產業仍需發掘更多高價值的貨幣化場景。同時長端債券收益率攀升，市場層面極小的容錯空間等，均意味著市場料將繼續維持高波動狀態，當下緊密關注AI投入、產出節奏階段性不匹配的風險極為必要，系列高頻指標跟蹤為當下的權宜之計。
-
----
-
-### 2026-06-07 18:34:06  #公司
-
-上海仙工智慧科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
-
----
-
-### 2026-06-07 18:32:10  #公司 #市場 #國際
-
-【美伊戰事推高燃油成本，眾航司借年會大吐苦水】國際航空運輸協會正在巴西召開年度大會，各國航司藉機大吐苦水：美伊戰事引發中東局勢持續緊張，能源運輸通道受阻，燃油價格大漲特漲，民航公司普遍面臨成本危機，紛紛表示調高票價、削減航班等措施都是不得已而為之。（新華社）
-
----
-
-### 2026-06-07 18:32:01  #觀點
-
-【中信證券：當前需要重視新能源、化工、有色、電力裝置跌出的價效比】中信證券研報稱，在配置思路上，維持推薦AI+能化的結構，當前需要重視新能源、化工、有色、電力裝置跌出的價效比，同時增配低估值的券商和保險。對於具體的泛週期漲價品種，AIDC鏈、鋰電鏈這類週期成長品景氣度仍然持續，建議關注供需最緊俏的環節，主要有錫、鉭、玻璃基板、功率器件、柴油發電機組、燃氣輪機、碳纖維、電纜等；對於傳統週期品，建議聚焦在真實發生系統性產能出清或者供給有絕對約束的品種上，比如滌綸、氨綸、磷化工、MDI、染料、草甘膦、橡膠、製冷劑等。
-
----
-
-### 2026-06-07 18:29:10  #公司
-
-英偉達執行長黃仁勳：我們明日或有若干公告發布。
-
----
-
-### 2026-06-07 18:29:05  #其他
-
-【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局6月7日18時聯合釋出橙色地質災害氣象風險預警：2026年6月7日20時至8日20時，湖南西部、廣東北部和東南部、廣西北部、貴州中南部、西藏東北部發生地質災害的風險較高（黃色預警）；廣西東北部、貴州東南部發生地質災害的風險高（橙色預警）。
-
----
-
-### 2026-06-07 18:27:27  #MKT News
-
-【USHAKOV: Russia, Ukraine maintain public and non-public contacts】On a TV program broadcast on the 7th, USHAKOV said Russia and Ukraine have both public and non-public contacts; the public contacts refer to earlier rounds of negotiations.
-
----
-
-### 2026-06-07 18:26:57  #MKT News
-
-CENC measured a magnitude 5.0 earthquake in Greece at 18:02 on June 7, depth 10 km.
-
----
-
-### 2026-06-07 18:26:42  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Lloyd's List: Iran cuts Strait of Hormuz transit fees sharply】Lloyd's List reports Iran has materially reduced fees for transits of the Strait of Hormuz. Current per-transit charges reach up to $120,000 for bulk carriers and $160,000 for tankers, with rates varying by vessel type, cargo and owner nationality. That contrasts with charges of roughly $1-2m per vessel at the start of the conflict.
-
----
-
-### 2026-06-07 18:26:20  #其他
-
-中國地震臺網正式測定：06月07日18時02分在希臘（北緯38.70度，東經23.41度）發生5.0級地震，震源深度10千米。
-
----
-
-### 2026-06-07 18:26:13  #國際
-
-【俄總統助理：俄烏間保留非公開接觸】在當地時間7日播出的一檔電視節目中，俄羅斯總統助理烏沙科夫表示，俄羅斯與烏克蘭之間既有公開接觸，也有非公開接觸。據悉，公開接觸指此前的數輪談判。（央視新聞）
-
----
-
-### 2026-06-07 18:25:18  #國際
-
-美國地質調查局：普羅科皮西北偏西 5 公里處發生 5.1 級地震。
-
----
-
-### 2026-06-07 18:24:59  #國際
-
-【本輪巴以衝突已造成加沙地帶72971人死亡】當地時間7日，加沙地帶衛生部門釋出最新通報稱，過去24小時，加沙地帶各醫院共接收了10名遇難者遺體和36名傷員。據統計，自2025年10月11日停火以來，加沙地帶共記錄遇難者961人、傷者3020人。自2023年10月7日新一輪巴以大規模衝突爆發以來，加沙地帶的累計遇難人數已達72971人，累計受傷人數超17.3萬人。（央視新聞）
-
----
-
-### 2026-06-07 18:24:42  #國際
-
-【英媒披露伊朗收取的海峽通行費用大幅下降】據英國《勞埃德船舶日報》日前報道，通行霍爾木茲海峽的部分船隻，每艘船需繳納十多萬美元以換取伊朗的通行許可，相關費用較戰事初期大幅下降。報道援引航運安全運營商方面的訊息說，目前散貨船單次通行費最高可達12萬美元，油輪最高可達16萬美元，具體費率根據船型、貨物及船東國籍等因素有所浮動，較與戰事初期每艘船100萬至200萬美元的收費相比顯著下降。報道說，美國所謂疏導船舶透過霍爾木茲海峽的“自由計劃”上月破產後，美方的安保承諾變得更不可靠。多數船東仍認為透過該海峽過於危險，寧可繼續滯留。但由於看不到任何可信的和平協議，業界預計對峙還將持續。（新華社）
-
----
-
-### 2026-06-07 18:24:17  #其他
-
-【廣西南寧釋出暴雨紅色預警】6月7日，記者從廣西南寧市氣象部門瞭解到，今天17時40分，南寧市氣象臺將興寧區暴雨橙色預警訊號提升為紅色，併發布西鄉塘區暴雨紅色預警訊號、青秀區及良慶區暴雨橙色預警訊號：16時以來，興寧區三塘鎮及西鄉塘區老虎嶺水庫一帶已出現30—50毫米的強降雨，預計未來3小時西鄉塘區、興寧區、青秀區、良慶區仍將有20—40毫米，局地50毫米以上的強降雨，並伴有雷電、短時大風，山洪地質災害和城區積澇氣象風險很大，請防範。（央視新聞）
-
----
-
-### 2026-06-07 18:20:34  #觀點
-
-【中信證券：看好玻璃基載板產業鏈未來的發展及投資機會】中信證券研報稱，在AI算力設施升級需求推動下，玻璃基載板有望憑藉CTE優勢、更高平整度、更低翹曲、更精細的TGV孔徑/佈線和更高互聯密度等優勢，成為未來封裝基板的重要升級方向。當前客戶需求迫切，產業鏈各環節投入力度大，商業化落地節奏有望超預期。中信證券估算產業中長期潛在空間達600億元+，中信證券看好玻璃基載板產業鏈未來的發展及投資機會，並建議關注核心工藝環節及裝置的受益廠商。
-
----
-
-### 2026-06-07 18:19:14  #國際
-
-伊朗外交部：華盛頓透過攻擊我們的船隻違反了停火協議，我們將對任何攻擊作出回應。
-
----
-
-### 2026-06-07 18:18:56  #其他 #焦點
-
-【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局6月7日18時聯合釋出紅色山洪災害氣象預警：預計，6月7日20時至6月8日20時，湖南西南部、廣西北部、貴州南部等地部分地區發生山洪災害可能性大（橙色預警），其中，湖南西南部、廣西北部、貴州東南部局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-06-07 18:15:26  #其他
-
-【傳淘寶閃購加大零售業務投入：發展“淘寶便利店”、盒馬前置倉等】 6月7日下午訊息，據媒體報道，淘寶閃購在五一假期前召開了核心高管會議，制定了新一年的增長計劃。
-根據會議內容，2027財年（2026年4月-2027年3月），淘寶閃購的核心目標包括兩方面：一是保持外賣業務市場份額穩定的基礎上，並在該財年內實現單月UE 轉正；二是加大對零售業務的投入，發展“淘寶便利店”、盒馬前置倉等業務，以及實現天貓超市、天貓品牌“遠轉近”，來提升零售業務的單量和GMV。
-報道內容稱，阿里新財年在淘寶閃購的投入只有上一財年的一半（不包含零售業務）。目前淘寶閃購單虧1.5元左右，今年第二季度，外賣業務整體虧損較第一季度將大幅改善。
-至於零售業務，報道援引接近淘寶閃購人士訊息稱，淘寶閃購為零售訂單設定了新目標，未來幾個月的目標要穩定在日均2000萬單的水平，包含貓超的4小時達和盒馬接入閃購的部分訂單。此外，淘寶閃購目前也正引入更多零售品牌，覆蓋更多社會綜合閃購倉，淘寶閃購合作的社會綜合倉已經超過2萬個。
-報道內容還提到，今年春節期間，淘寶便利店原計劃今年要開設1000家，但新財年初已將目標調高至1500家，近期淘寶閃購內部進一步上調目標，計劃開出3000家淘寶便利店。
-對於前述報道內容，截至發稿，淘寶閃購方面暫無回應。（新浪科技）
-
----
-
-### 2026-06-07 18:11:42  #焦點 #國際
-
-據伊朗媒體：每艘透過霍爾木茲海峽的油輪將收取150,000至200萬美元的費用，部分船舶費用可能不是以現金支付，而是以商品或以物易物的形式進行。
-
----
-
-### 2026-06-07 18:11:42  #MKT News #Important #WTI #Impact bullish #Brent
-
-Iranian media Fars News said each oil tanker transiting the Strait of Hormuz will be charged $150,000–$2 million, and some fees may be paid in goods or via barter rather than cash.
-
----
-
-### 2026-06-07 18:07:43  #公司
-
-據報道，美股上市藥企Incyte即將以高達20億美元的價格收購一家專注於血液疾病治療的生物技術公司。
-
----
-
-### 2026-06-07 18:06:21  #公司 #資料 #觀點
-
-【中信證券：接下來霍爾木茲海峽通航是A股非AI板塊轉機的臨界點】6月7日，中信證券最新A股策略報告指出，市場情緒降溫後，科技、週期、金融和消費板塊各自有各自的驅動邏輯和節奏。科技：國產鏈看長鑫上市、北美鏈看Anthropic的ARR（年度經常性收入）；週期：供需雙弱、上下游博弈激烈，破局點還靠美伊停戰和海峽通航；金融：關鍵轉折點是大資金的減持程序，指數走弱後賣壓或減小；消費：CPI交易大機率滯後於PPI交易，而目前PPI交易受阻未完成。AI板塊有其自身的執行節奏和邏輯，非AI板塊也許存在資金面被虹吸的情況，但真正的啟動並不依賴資金高切低，而是宏觀敘事和市場環境轉變後新買家入局。對市場而言，目前最大的挑戰是霍爾木茲海峽短期通航的假設開始動搖，通脹和緊縮預期升溫。中信證券認為接下來海峽通航是“換副牌”的時刻，亦是非AI板塊轉機的臨界點。
-
----
-
-### 2026-06-07 18:04:01  #國際
-
-歐洲地中海地震中心：希臘哈爾基達西北方向28公里處發生5.3級地震。
-
----
-
-### 2026-06-07 18:01:59  #國際
-
-俄羅斯總統助理烏沙科夫：莫斯科與基輔保持密切聯絡。
-
----
-
-### 2026-06-07 18:01:37  #市場 #央行 #國際
-
-【歐洲央行官員Christodoulos Patsalides：推行歐洲聯合債券勢在必行】塞普勒斯央行行長Christodoulos Patsalides於週日表示，歐洲應當摒棄長期以來在聯合發債問題上的政治牴觸態度。大規模安全資產的推出，將提升歐盟的自主地位與整體穩定性。歐洲長期以來就在探討聯合發債，希望打造一款可與美國國債分庭抗禮的標杆金融產品。但德國、荷蘭等部分國家對此持反對態度，擔心本國納稅人最終要為其他國家不當的財政行為買單。由於缺少這類資產，歐盟金融體系始終存在短板，推高了整體融資成本、削弱了區域競爭力。歐洲央行也因此不斷加大呼籲力度，希望推動相關政策轉變。塞普勒斯目前擔任歐盟輪值主席國，同時身為歐洲央行管理委員會委員的Christodoulos Patsalides在評論文章中寫道：“當前經濟、地緣政治與制度環境形成難得的有利條件，推出歐洲統一安全資產已是大勢所趨。”他認為，聯合債券能夠降低融資成本，併為綠色轉型、數字化升級、人工智慧專案、國防建設、公共衛生應急、能源安全等歐盟共同發展舉措，提供充足的資金支撐。
-
----
-
-### 2026-06-07 18:01:07  #MKT News #Market Regions #Europe & UK
-
-Russian presidential aide Ushakov said Moscow is maintaining close contact with Kyiv.
-
----
-
-### 2026-06-07 17:57:19  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-【Cyprus central bank governor urges Europe to issue joint bonds to create safe asset】An ECB Governing Council member and Cyprus central bank governor said on Sunday Europe should drop long-standing political resistance to joint debt issuance and create a large-scale common “safe asset” to strengthen EU sovereignty and stability. He argued the rare synchronicity of economic, geopolitical and institutional conditions strengthens the case for pooled bonds. A common instrument, he said, could lower borrowing costs, reduce market fragmentation and finance large-scale green, digital and AI investments, defence, public-health preparedness and energy-security projects. He acknowledged Germany and the Netherlands’ historical opposition over contingent taxpayer liability, and said the ECB is increasingly pushing the policy shift.
-
----
-
-### 2026-06-07 17:56:32  #宏觀 #國際
-
-【訊息人士：美計劃動用伊朗資產修復海灣盟友損失】據美國方面6日訊息，有訊息人士透露，美國財政部計劃利用伊朗資產，幫助海灣盟友修復由伊朗造成的損失。美國方面訊息稱，目前還不清楚哪些資產或將被動用，可能的選項包括伊朗被凍結的現金，或是例如油輪之類的硬資產。另據披露，該計劃涉及的似乎並不侷限於遭凍結的伊朗資產。對於以上說法，伊朗方面尚未作出回應。此前一天，5日，伊朗最高領袖軍事顧問雷扎伊強調，美國與伊朗能否達成協議，取決於美國是否同意解凍伊朗240億美元遭凍結資產。（央視新聞）
-
----
-
-### 2026-06-07 17:48:52  #國際
-
-【以色列中部發生槍擊事件 3人死亡5人受傷】當地時間7日，以色列中部科哈夫亞伊爾地區發生槍擊事件。總檯記者獲悉，事件目前已造成包括兩名嫌疑人在內的3人死亡、5人受傷，其中2人傷勢嚴重、3人傷勢中等。以色列警方通報稱，槍擊事件先後發生在科哈夫亞伊爾入口處的加油站，以及連線周邊社群的道路上，共涉及三個不同地點。事件一度觸發了周邊部分社群的警報，居民被緊急要求留在室內避險，以色列警察總長隨後抵達現場。（央視新聞）
-
----
-
-### 2026-06-07 17:48:18  #國際
-
-【僅7個月大巴勒斯坦嬰兒遭以軍射殺】6月5日，僅7個月大的巴勒斯坦嬰兒薩姆·阿布·海卡爾在約旦河西岸南部希伯倫市遭以軍槍擊身亡，其父母也在槍擊事件中受傷。孩子的父親回憶，以軍士兵在距離他們僅10米處開槍，子彈穿透了汽車的擋風玻璃擊中了孩子的頭部。他指責以方所謂“失誤”的說法是在為犯罪開脫，並稱這“絕對不是意外”。以軍在事件後釋出宣告稱，以軍當天在希伯倫執行任務時發現一輛汽車正加速朝他們駛來，一名以軍士兵隨後開槍，但初步調查顯示，死傷者均為平民。（CCTV國際時訊）
-
----
-
-### 2026-06-07 17:47:21  #國際
-
-埃及計劃部：2025/26財年7-3月埃及經濟增速為5.2%。
-
----
-
-### 2026-06-07 17:47:13  #國際
-
-【伊朗外交部：巴基斯坦內政部長與伊朗外長舉行會晤】伊朗外交部表示，巴基斯坦內政部長到訪德黑蘭，與伊朗高層官員會面磋商。本週日，他同伊朗外長舉行會談，並轉交了巴基斯坦總理致伊朗最高領袖的親筆信函。雙方在會談中回顧了伊巴兩國雙邊關係，並就由巴基斯坦斡旋、旨在結束美以針對伊朗的戰事這一外交程序的最新進展展開討論。
-
----
-
-### 2026-06-07 17:41:23  #宏觀 #國際
-
-【歐洲多國醞釀協同制裁猶太定居者】歐洲外交官員6日說，法國正與其他幾個歐洲國家合作，醞釀協同出臺國家層面措施，制裁在約旦河西岸參與暴力襲擊巴勒斯坦平民的猶太定居者，進一步向以色列施壓。三名不願公開姓名的歐洲外交官告訴路透社，制裁措施預期在未來幾天內宣佈，將包括凍結財產和旅行禁令，方案尚未最終敲定，各國擬定的制裁人員名單也可能存在差異。上述外交官說，由於歐盟層面推進對以色列採取更強硬措施的相關努力受阻，部分國家認為，從國家層面協同推出制裁措施是現階段的最佳選擇。（新華社）
-
----
-
-### 2026-06-07 17:40:48  #國際
-
-市場訊息：韓國總統表示已下令組建由檢方與警方共同參與的調查組。
-
----
-
-### 2026-06-07 17:39:48  #MKT News
-
-According to YONHAP, SOUTH KOREA'S LEE ordered a thorough probe into reported ballot shortages.
-
----
-
-### 2026-06-07 17:37:22  #國際
-
-市場訊息：韓國總統下令徹查選票短缺事件。
-
----
-
-### 2026-06-07 17:35:44  #國際
-
-市場訊息：韓國總統就侵犯投票權事件表示遺憾。
-
----
-
-### 2026-06-07 17:33:46  #其他
-
-【丁寧當選北京市乒協會長，張怡寧當選理事】6月7日上午，北京市乒乓球運動協會換屆大會暨第九屆第一次會員大會在北京召開，會上完成了協會換屆工作。丁寧、吳飛、劉國正、關亮、朱娜、彭博、王春雷、劉向前、張怡寧、任國強、張學軍、黃立志、齊盛楠、張宏千、張金峰、高翔、李亞、王明、楊斌當選為新一屆理事。會員大會後，分別召開了第九屆第一次理事會和第九屆第一次監事會，丁寧當選協會新一任會長，吳飛、劉國正、關亮當選副會長，朱娜當選秘書長。
-
----
-
-### 2026-06-07 17:32:47  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
-
-Bank of Israel purchased USD 801 mln of foreign exchange in May to maintain orderly market functioning.
-
----
-
-### 2026-06-07 17:32:27  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Bank of Israel: foreign-exchange reserves stood at $238.68 bln in May, up from $235.73 bln in April.
-
----
-
-### 2026-06-07 17:30:45  #MKT News #Important #WTI #Impact mixed #Brent
-
-【Iran says it has drafted Strait of Hormuz Environmental Service Charge Regulation】On the 7th, Iran's vice president and head of the Department of Environment, Ansari, said Tehran has begun drafting the Strait of Hormuz Environmental Service Charge Regulation; an initial draft was recently completed, but fee levels and the specific collection mechanism have not been finalized.
-
----
-
-### 2026-06-07 17:26:39  #焦點 #國際
-
-據伊朗塔斯尼姆通訊社7日報道，伊朗副總統兼環境署署長希娜·安薩里表示，伊方已啟動《霍爾木茲海峽環境服務收費條例》制定工作，初步草案近日完成，但收費標準及具體徵收機制尚未最終確定。（新華社）
-
----
-
-### 2026-06-07 17:26:30  #其他
-
-【年內滬市新增重組290餘家次，合計金額超1300億元】2026年即將過半，滬市併購重組市場持續活躍，大體量的產業整合始終保持“熱度”。資料顯示，年初至今，滬市新增重組290餘家次，包括重大資產重組新增24家次，合計金額超1300億元。
-
----
-
-### 2026-06-07 17:24:56  #央行 #國際
-
-以色列央行：5月購入了8.01億美元外匯，目的是“維持市場有序執行”。
-
----
-
-### 2026-06-07 17:24:01  #央行 #國際
-
-以色列央行公佈資料：5月以色列外匯儲備規模為2386.81億美元，4月為2357.28億美元。
 
 ---
