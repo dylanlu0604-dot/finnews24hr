@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-15 01:45:07",
-  "count": 18395,
+  "updated": "2026-06-15 01:49:05",
+  "count": 18396,
   "items": [
+    {
+      "id": "mkt:019ec73f-57ee-7dd8-aff5-d76b274e8b2e",
+      "time": "2026-06-15 01:47:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Supreme National Security Council secretary said parties have united to form a chain defending regional security after Israel's strike in Lebanon, adding Lebanon is Iran's soul and violations of Iran's red lines will not be tolerated."
+    },
+    {
+      "id": "4934709",
+      "time": "2026-06-15 01:47:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其與沙烏地阿拉伯計劃修建一條連通約旦和敘利亞的鐵路通道。"
+    },
+    {
+      "id": "mkt:019ec73e-03c8-7dd8-aff5-cc703f134c06",
+      "time": "2026-06-15 01:46:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Multiple US-Iran deal drafts emerge; Trump insists on signing Sunday】At least three different drafts of a US-Iran interim agreement have surfaced as Trump presses to sign on Sunday. All drafts envisage reopening the Strait of Hormuz, sanction relief for Iran and restarting nuclear negotiations, but they diverge on key details — chiefly how much frozen Iranian assets would be released and when. A draft seen by Bloomberg proposes the US and regional partners establish a minimum $300bln reconstruction and economic development package and defers nuclear issues to subsequent talks. Reuters, citing an anonymous Iranian official, reported a draft would allow the US to unfreeze $25bln; the Bloomberg copy reviewed did not include that clause. Semi-official Mehr News Agency said final negotiations could only begin after half of frozen funds are released, oil sanctions are suspended and the maritime blockade is lifted."
+    },
     {
       "id": "mkt:019ec73b-77cc-7dd8-aff5-c6acaec86e8c",
       "time": "2026-06-15 01:43:43",
@@ -169153,22 +169185,6 @@
         "MKT News"
       ],
       "text": "Iran's president said his negotiating team will not concede and must firmly defend the rights of the Iranian people."
-    },
-    {
-      "id": "4922131",
-      "time": "2026-06-08 01:48:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：伊朗必須以強勢姿態與美國展開談判、捍衛國家權益，強調伊朗談判團隊絕不會退讓。"
-    },
-    {
-      "id": "4922130",
-      "time": "2026-06-08 01:45:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國地球科學研究中心（GFZ）：不丹發生5.57級地震。"
     }
   ]
 }
