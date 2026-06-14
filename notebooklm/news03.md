@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-15 04:42:36_
-_本檔包含 3596 則快訊，約 661904 字_
+_更新時間：2026-06-15 05:10:03_
+_本檔包含 3598 則快訊，約 661219 字_
+
+---
+
+### 2026-06-11 13:55:36  #宏觀 #市場
+
+【美團、淘寶閃購、京東外賣集體簽約，建立“黑名單”共享機制】日前，廣東省市場監管局舉辦網路餐飲平臺自律公約和協同共治協議簽署活動。活動中，在廣東省市場監管局有關負責人的見證下，美團、淘寶閃購、京東外賣三家網路餐飲平臺共同簽署了《廣東省網路餐飲行業高質量發展與食品安全自律公約》（下稱“自律公約”），推動網路餐飲行業實現從“被動合規”到“主動治理”，從“規模擴張”到“品質優先”，從“單打獨鬥”到“協同共治”的轉變。公約全文共五章二十一條，緊扣《網路餐飲服務經營者落實食品安全主體責任監督管理規定》（國家市場監管總局第123號令）核心要求，圍繞平臺主體責任、入網餐飲商戶管理、配送人員關懷、社會共治等方面作出明確約定，首次提出建立跨平臺“黑名單”共享機制，對嚴重違法商戶實施跨平臺聯合約束，實現“一處違法、全網受限”。(南方plus)
+
+---
+
+### 2026-06-11 13:55:35  #Trading Economics #Markets #Commodity #Importance 1
+
+Zinc Falls to 1-Month Low — Zinc futures fell toward $3,450 per tonne, the lowest in a month, as investors grew concerned about the demand outlook amid escalating tensions in the Middle East and expectations of tighter US monetary policy. The latest strikes between the US and Iran risk prolonging the conflict and stoking inflation, which could weigh on global growth and industrial metals demand. Still, losses were limited by tightening supply conditions. Glencore’s Kazzinc facility in Kazakhstan are running at reduced capacity after a fatal explosion, while Nexa’s Cajamarquilla smelter in Peru was temporarily suspended due to fire-related damage, though it recently announced a gradual resumption of production. These disruptions have reinforced concerns about global zinc availability, especially as the International Lead and Zinc Study Group projected a refined zinc deficit of 19,000 tonnes this year. Meanwhile, Boliden’s Garpenberg mine is set to resume production in Q2, helping to ease some supply pressures.
+
+---
+
+### 2026-06-11 13:54:11  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+Israel Defense Forces said alerts sounded in the Misgav Am area on reports of enemy aircraft infiltration; details are under review.
+
+---
+
+### 2026-06-11 13:53:36  #MKT News
+
+IAEA said it had been informed that, local time last night, the ZAPORIZHZHIA NUCLEAR PLANT lost all external power after an attack on its electrical substation.
+
+---
+
+### 2026-06-11 13:53:25  #其他
+
+國際原子能機構：獲悉，扎波羅熱核電站昨晚在當地時間前後因變電站遭到襲擊而失去所有外部電力供應。
+
+---
+
+### 2026-06-11 13:53:12  #市場 #國際
+
+印度NIFTY 50指數抹去了盤中跌幅，最新上漲0.02%。
+
+---
+
+### 2026-06-11 13:52:11  #宏觀 #國際
+
+【“2026·全球人權治理高階論壇”在京舉辦 李書磊出席開幕式並發表主旨演講2】“2026·全球人權治理高階論壇”11日在北京舉辦。中共中央政治局委員、中宣部部長李書磊出席開幕式並發表主旨演講。本次論壇以“攜手發展 共享人權：《發展權利宣言》透過40週年與全球人權治理新願景”為主題，由國務院新聞辦公室、外交部共同主辦，來自一百多個國家和包括聯合國機構在內的國際組織的400餘位中外嘉賓參會研討。（央視新聞）
+
+---
+
+### 2026-06-11 13:51:41  #市場 #焦點
+
+滬深兩市成交額超2萬億元，較上日此時縮量1153億元。
+
+---
+
+### 2026-06-11 13:51:09  #公司 #市場
+
+【先進封裝板塊短線拉昇】先進封裝板塊短線拉昇，博敏電子、太極實業、興福電子漲停， 方邦股份、光智科技、甬矽電子漲超10%，氣派科技、江化微、科翔股份、蘇試試驗、拓荊科技等跟漲。
+
+---
+
+### 2026-06-11 13:49:37  #公司
+
+【羅素萍任滙豐保險經紀公司董事長 陸文穎任滙豐保險經紀公司法定代表人  滙豐保險經紀公司發生高管變更】天眼查App顯示，近日，滙豐保險經紀有限公司發生工商變更，周莉莉卸任法定代表人、董事長，陸文穎接任法定代表人，羅素萍接任董事長。該公司成立於2012年4月，註冊資本約26.5億人民幣，經營範圍為保險經紀業務、公募證券投資基金銷售，由滙豐保險經紀大中華有限公司全資持股。
+
+---
+
+### 2026-06-11 13:48:12  #市場 #國際
+
+印度盧比兌美元下跌0.5%至95.6987。
 
 ---
 
@@ -21625,59 +21691,5 @@ Interfax, citing the regional governor, reported two industrial facilities in Ru
 ### 2026-06-10 11:31:15  #MKT News #Important #XAUUSD #Impact bearish
 
 By the morning-session close, China's main futures contracts were mostly lower. Shanghai silver slid nearly 7%, platinum fell over 5% and Shanghai gold dropped almost 4%. Coking coal declined more than 3%; LPG and palladium were down about 3%. No.20 rubber and Shanghai nickel lost over 2%. On the upside, container freight to Europe and alumina rose over 3%, industrial silicon gained more than 2%, caustic soda, ferrosilicon and eggs were up over 1%, while manganese silicon and live hogs rose about 1%.
-
----
-
-### 2026-06-10 11:31:15  #MKT News
-
-【China government bond futures morning close】2-year government bond futures (TS) most-active contract fell 0.03%; 5-year (TF) fell 0.06%; 10-year (T) fell 0.08%; 30-year (TL) fell 0.20% in the morning session.
-
----
-
-### 2026-06-10 11:30:03  #市場
-
-【國債期貨早盤收盤】 30年期主力合約跌0.20%， 10年期主力合約跌0.08%， 5年期主力合約跌0.06%， 2年期主力合約跌0.03%。
-
----
-
-### 2026-06-10 11:30:03  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續跌1.52%， 滬深300指數期貨連續跌0.70%， 中證500指數期貨連續跌1.55%， 上證50指數期貨連續漲0.61%。
-
----
-
-### 2026-06-10 11:30:02  #市場
-
-【商品期貨早盤收盤】白銀連續跌6.81%，鉑連續跌5.39%，黃金連續跌3.79%，氧化鋁連續漲3.17%，焦煤連續跌3.17%。
-
----
-
-### 2026-06-10 11:27:08  #其他
-
-【豐巢回應取件得先看廣告】近日有媒體報道稱，使用者使用豐巢智慧櫃取件時掃碼不直接跳轉取件頁面，而會彈出各類誘導廣告，關閉按鈕不僅位置隱蔽且常常小於5mm。針對該情況，記者以消費者身份詢問豐巢客服人員，對方介紹了透過豐巢App關閉廣告的方法，並稱需要在App內設定，微信端掃碼後無法操作。此外，客服表示，廣告彈窗問題以櫃機顯示為準。（中新網）
-
----
-
-### 2026-06-10 11:25:35  #市場 #國際
-
-印尼基準股指漲幅收窄，最新上漲1.3%，報5823.47點。
-
----
-
-### 2026-06-10 11:25:34  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
-
-China 10Y Extends Gains — China's 10-year government bond yield rose to 1.74%, extending gains from the previous session as signs of building inflationary pressures suggested that the People's Bank of China may have less room to ease monetary policy. Producer prices rose to 3.9% in May from 2.8% in April, marking the highest level since July 2022. This extended the rebound from China's prolonged producer-price deflation, driven largely by higher commodity and energy costs amid the Middle East conflict. Meanwhile, consumer inflation remained elevated at 1.2% in May 2026, although slightly below market expectations of 1.3%. Although China has mitigated part of the energy shock through its strategic oil reserves and expanding renewable energy capacity, sustained input-cost pressures could squeeze corporate profit margins if firms absorb the higher costs. Alternatively, if companies pass these costs on to consumers, inflation could rise further and weigh on household purchasing power.
-
----
-
-### 2026-06-10 11:25:08  #Trading Economics #Markets #China #Currency #Importance 1
-
-Offshore Yuan Remains Firm — The offshore yuan firmed to around 6.77 per dollar on Wednesday as investors assessed the latest inflation data and their implications for China's economic outlook. Consumer inflation rose 1.2% annually in May 2026, slightly below expectations of 1.3%, indicating that weak household demand continued to offset inflationary pressures from higher global energy prices linked to the Middle East conflict. Meanwhile, producer prices climbed to 3.9% from 2.8% in April and marking the highest reading since July 2022. The increase extended the recovery from China's long producer-price deflation period, driven largely by higher commodity and energy costs. While China has cushioned part of the energy shock through its strategic oil reserves and renewable energy capacity, persistent cost pressures could squeeze corporate profit margins. A broader pass-through to consumer prices could also erode household consumption, although weak domestic demand has so far limited such spillovers.
-
----
-
-### 2026-06-10 11:24:29  #公司 #國際 #原創
-
-【OpenAI據悉談判租賃俄亥俄州一座資料中心，獲英偉達支援】據The Information援引兩名直接知情人士的訊息報道，OpenAI正就租賃俄亥俄州一個擬建的10吉瓦資料中心園區進行談判，該交易可能包含英偉達的資金支援。報道稱，根據當前晶片、勞動力、電力及其他投入成本，該園區的建設費用可能至少達到5000億美元 。報道補充稱，OpenAI將透過一份為期20年的租賃協議控制該設施的裝置，租金將在運營開始後支付；第一階段預計於2028年啟動。該設施將是同類設施中規模最大的之一，將由軟銀旗下子公司SB Energy在俄亥俄州南部的美國能源部土地上開發。據報道，英偉達預計將為該設施提供硬體，併為OpenAI的租賃協議及SB Energy的融資提供財務擔保。
 
 ---

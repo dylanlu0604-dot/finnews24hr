@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-15 04:42:36_
-_本檔包含 3760 則快訊，約 661877 字_
+_更新時間：2026-06-15 05:10:03_
+_本檔包含 3769 則快訊，約 661182 字_
+
+---
+
+### 2026-06-15 05:09:10  #央行 #公司 #市場
+
+英國央行行長貝利：減持英國國債，便於必要時再度實施量化寬鬆政策。
+
+---
+
+### 2026-06-15 05:06:02  #央行 #其他
+
+英國央行行長貝利表示，債券發售不會給納稅人增添負擔。
+
+---
+
+### 2026-06-15 05:05:02  #國際
+
+【特朗普稱伊核協議即將達成，伊朗方面目前尚未確認】美國總統當地時間週日下午接受《華爾街日報》採訪時表示，他很快將發表宣告，證實美國已與伊朗達成協議。特朗普透露，這份協議將由他本人或副總統詹姆斯·丹·萬斯以電子方式簽署，不過伊朗現階段尚未確認接受該協議。此次採訪結束數小時後，特朗普原定在白宮草坪觀看終極格鬥冠軍賽（UFC）大型賽事。有觀點將這份協議定性為一份諒解備忘錄，旨在為後續談判鋪路。但特朗普週日表示，該協議將成為結束這場持續近四個月衝突的關鍵一步。特朗普介紹，協議內容包括伊朗承諾絕不研發核武器，以及霍爾木茲海峽立即恢復通航。對於伊朗境核心原料的清理工作，他表示並無緊迫計劃，可延後推進。“等我們準備就緒，再著手處理核相關遺留問題，大概會在未來一兩個月內，不必急於一時。”他稱這部分事宜暫時不會造成影響。被問及外界質疑伊朗未必會真正履約時，特朗普表示，美方希望衝突落幕，伊朗同樣期盼結束戰事。“我認為他們也想促成協議，這種局面對他們而言前所未有。”他還稱，自己並不像部分批評者那樣執著於推動伊朗政權更迭。“說到政權更迭，我從未有過相關想法。這是我們接觸的第三屆伊朗領導層，也是目前為止最為理性的一方。”特朗普表示，協議框架下會對伊朗實施嚴格核查，但並未說明具體執行細則。他指出，本次協議不會向伊朗提供資金援助，但美方有可能解除對伊制裁，“最終要看伊朗後續的表現”。特朗普認為，針對伊朗的海上封鎖措施效果顯著，其作用甚至超過軍事打擊。
+
+---
+
+### 2026-06-15 05:03:46  #國際
+
+特朗普表示與伊朗相關協議將以電子形式簽署。
+
+---
+
+### 2026-06-15 05:03:33  #國際
+
+特朗普稱，是否解除制裁將取決於伊朗後續行動。
+
+---
+
+### 2026-06-15 05:03:28  #國際
+
+特朗普表示，將會對伊朗實施嚴格核查。
+
+---
+
+### 2026-06-15 05:02:58  #國際
+
+特朗普談及伊朗核相關設施拆除時間，稱相關工作將在未來一兩個月內推進。
+
+---
+
+### 2026-06-15 05:02:25  #國際
+
+特朗普稱從未考慮過對伊朗進行政權更迭。
+
+---
+
+### 2026-06-15 04:51:50  #國際
+
+【俄美總統通話近一小時】俄羅斯總統助理烏沙科夫當地時間6月14日證實，俄羅斯總統普京當天與美國總統特朗普通電話，討論了雙邊關係和國際局勢。烏沙科夫說，通話持續了55分鐘，特朗普再次主張停止俄烏衝突，並表示願意對烏克蘭及美國的歐洲夥伴施加影響。雙方還商定，美國總統特使威特科夫和庫什納將於近期再次訪俄。
+
+---
+
+### 2026-06-15 04:51:11  #其他
+
+比特幣挖礦難度下調10%，創下2026年第二大下調幅度。
+
+---
+
+### 2026-06-15 04:51:02  #國際
+
+伊核相關協議談判期間，內塔尼亞胡與特朗普通電話，據悉由卡達方面主導敲定剩餘細節。
+
+---
+
+### 2026-06-15 04:50:54  #國際
+
+以色列安全內閣會議已結束。
+
+---
+
+### 2026-06-15 04:49:18  #國際
+
+【伊朗稱美國應對以色列最新襲擊事件的後果負責】根據伊朗外交部發表的宣告，伊朗表示，對於以色列行動給地區和平與安全造成的任何“危險後果”，美國和以色列都將承擔責任。伊朗強烈譴責以色列週日對貝魯特發動襲擊，稱襲擊造成多名黎巴嫩公民死傷。伊朗稱，以色列的襲擊“嚴重違反停火協議”。
+
+---
+
+### 2026-06-15 04:45:40  #焦點 #國際
+
+以色列總理辦公室表示，有關內塔尼亞胡尋求與美國總統特朗普會面的報道是“假新聞”。
+
+---
+
+### 2026-06-15 04:43:23  #國際
+
+以色列總理內塔尼亞胡中斷安全內閣會議，與美國總統特朗普通電話；與此同時，以色列國防部長卡茨與美國國防部長赫格塞思進行了溝通。
 
 ---
 
@@ -22686,41 +22776,5 @@ India 10Y Yield Hits Near Two-Month Low — The yields on India’s 10-year G-Se
 ### 2026-06-12 15:06:32  #公司 #國際
 
 美國國家公路交通安全管理局（NHTSA）表示：福特汽車公司正在召回255404輛美國市場車輛，原因是車輛發動機行駛途中熄火會增加碰撞事故風險。
-
----
-
-### 2026-06-12 15:06:20  #MKT News #F.O #Impact bearish
-
-U.S. National Highway Traffic Safety Administration (NHTSA) says Ford is recalling 255,404 vehicles in the U.S.
-
----
-
-### 2026-06-12 15:06:07  #MKT News #Macro & Rates #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB executive board member Kocher said rate hikes will help stabilize conditions and that markets should not expect inf to return to 2022-23 levels; the key is that price shocks do not cause market paralysis, and the ECB will act decisively to ensure medium-term inf falls to 2%.
-
----
-
-### 2026-06-12 15:05:26  #其他
-
-【葉門亞丁省長官邸外發生槍擊事件致4人死亡】葉門南部港口城市亞丁地方政府12日發表宣告說，亞丁省省長阿卜杜勒拉赫曼官邸外11日晚發生槍擊事件，造成包括一名武裝襲擊者在內的4人死亡、多人受傷。（新華社）
-
----
-
-### 2026-06-12 15:05:21  #MKT News #Important #Market Regions #Greater China #Commodities #Industrial Metals #XAUUSD #Impact bullish #Copper
-
-【China stocks close: Shanghai Composite up 1.12%; industrial metals, commercial aerospace hit multiple limit-ups】Shanghai Composite rose 1.12% at close, Shenzhen Composite gained 0.75% and the ChiNext Index was up 0.50% after opening the session higher; ChiNext initially climbed over 2% before retreating intraday. Commercial aerospace names posted multiple limit-ups, including Chenxi Aviation, AVIC Gaoke, AVIC Xifei, Aero Engine Technology and Zhongtian Rocket. Industrial metals saw a wave of limit-ups (about 10 stocks), led by Tongling Nonferrous and China Molybdenum. Broker dealers strengthened with Caida Securities and BOC Securities hitting daily limits. Outperforming sectors included insurance, nonferrous metals, gold, AI-driven pharmaceuticals, lithium, retail and paper; laggards included MLCC, helium, industrial gases, advanced packaging, CPO, photoresist and optical-fiber themes. Combined turnover on Shanghai and Shenzhen totaled 3.21 trillion yuan, about 662.9 billion yuan higher than the previous session. Approximately 3,900 stocks rose and 1,500 fell.
-
----
-
-### 2026-06-12 15:05:09  #公司 #市場
-
-【十餘隻寬基指數成分股調整 多股集合競價大幅異動】多股尾盤集合競價大幅異動，鼎通科技、山東高速、有研矽、卓勝微、聖邦股份、時代電氣等快速拉昇超2%，沐曦股份、摩爾執行緒、源傑科技、德明利、長川科技等多股快速跌超2%。訊息面上，上證50、上證180、上證380、科創50、滬深300、中證500、中證1000、中證A50、中證A100、中證A500等指數樣本調整，6月12日收市後生效，創業板指調整則將於6月15日正式生效。
-
----
-
-### 2026-06-12 15:04:23  #MKT News #Market Regions #Greater China
-
-【Nepal foreign minister Xishier to visit China June 14-17】Nepal's foreign minister Xishier will visit China from June 14-17 at the invitation of China's foreign minister Wang Yi.
 
 ---

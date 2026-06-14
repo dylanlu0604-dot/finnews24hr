@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-15 04:42:36_
-_本檔包含 3554 則快訊，約 661865 字_
+_更新時間：2026-06-15 05:10:03_
+_本檔包含 3543 則快訊，約 661140 字_
+
+---
+
+### 2026-06-10 11:31:15  #MKT News
+
+【China government bond futures morning close】2-year government bond futures (TS) most-active contract fell 0.03%; 5-year (TF) fell 0.06%; 10-year (T) fell 0.08%; 30-year (TL) fell 0.20% in the morning session.
+
+---
+
+### 2026-06-10 11:30:03  #市場
+
+【國債期貨早盤收盤】 30年期主力合約跌0.20%， 10年期主力合約跌0.08%， 5年期主力合約跌0.06%， 2年期主力合約跌0.03%。
+
+---
+
+### 2026-06-10 11:30:03  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續跌1.52%， 滬深300指數期貨連續跌0.70%， 中證500指數期貨連續跌1.55%， 上證50指數期貨連續漲0.61%。
+
+---
+
+### 2026-06-10 11:30:02  #市場
+
+【商品期貨早盤收盤】白銀連續跌6.81%，鉑連續跌5.39%，黃金連續跌3.79%，氧化鋁連續漲3.17%，焦煤連續跌3.17%。
+
+---
+
+### 2026-06-10 11:27:08  #其他
+
+【豐巢回應取件得先看廣告】近日有媒體報道稱，使用者使用豐巢智慧櫃取件時掃碼不直接跳轉取件頁面，而會彈出各類誘導廣告，關閉按鈕不僅位置隱蔽且常常小於5mm。針對該情況，記者以消費者身份詢問豐巢客服人員，對方介紹了透過豐巢App關閉廣告的方法，並稱需要在App內設定，微信端掃碼後無法操作。此外，客服表示，廣告彈窗問題以櫃機顯示為準。（中新網）
+
+---
+
+### 2026-06-10 11:25:35  #市場 #國際
+
+印尼基準股指漲幅收窄，最新上漲1.3%，報5823.47點。
+
+---
+
+### 2026-06-10 11:25:34  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
+
+China 10Y Extends Gains — China's 10-year government bond yield rose to 1.74%, extending gains from the previous session as signs of building inflationary pressures suggested that the People's Bank of China may have less room to ease monetary policy. Producer prices rose to 3.9% in May from 2.8% in April, marking the highest level since July 2022. This extended the rebound from China's prolonged producer-price deflation, driven largely by higher commodity and energy costs amid the Middle East conflict. Meanwhile, consumer inflation remained elevated at 1.2% in May 2026, although slightly below market expectations of 1.3%. Although China has mitigated part of the energy shock through its strategic oil reserves and expanding renewable energy capacity, sustained input-cost pressures could squeeze corporate profit margins if firms absorb the higher costs. Alternatively, if companies pass these costs on to consumers, inflation could rise further and weigh on household purchasing power.
+
+---
+
+### 2026-06-10 11:25:08  #Trading Economics #Markets #China #Currency #Importance 1
+
+Offshore Yuan Remains Firm — The offshore yuan firmed to around 6.77 per dollar on Wednesday as investors assessed the latest inflation data and their implications for China's economic outlook. Consumer inflation rose 1.2% annually in May 2026, slightly below expectations of 1.3%, indicating that weak household demand continued to offset inflationary pressures from higher global energy prices linked to the Middle East conflict. Meanwhile, producer prices climbed to 3.9% from 2.8% in April and marking the highest reading since July 2022. The increase extended the recovery from China's long producer-price deflation period, driven largely by higher commodity and energy costs. While China has cushioned part of the energy shock through its strategic oil reserves and renewable energy capacity, persistent cost pressures could squeeze corporate profit margins. A broader pass-through to consumer prices could also erode household consumption, although weak domestic demand has so far limited such spillovers.
+
+---
+
+### 2026-06-10 11:24:29  #公司 #國際 #原創
+
+【OpenAI據悉談判租賃俄亥俄州一座資料中心，獲英偉達支援】據The Information援引兩名直接知情人士的訊息報道，OpenAI正就租賃俄亥俄州一個擬建的10吉瓦資料中心園區進行談判，該交易可能包含英偉達的資金支援。報道稱，根據當前晶片、勞動力、電力及其他投入成本，該園區的建設費用可能至少達到5000億美元 。報道補充稱，OpenAI將透過一份為期20年的租賃協議控制該設施的裝置，租金將在運營開始後支付；第一階段預計於2028年啟動。該設施將是同類設施中規模最大的之一，將由軟銀旗下子公司SB Energy在俄亥俄州南部的美國能源部土地上開發。據報道，英偉達預計將為該設施提供硬體，併為OpenAI的租賃協議及SB Energy的融資提供財務擔保。
 
 ---
 
@@ -21280,125 +21334,5 @@ Soybeans Extend Decline — Soybean futures fell around $11.1 per bushel, extend
 ### 2026-06-09 09:05:05  #MKT News
 
 【Navigation warning: live-fire exercises in Yellow Sea】Qingdao Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning that parts of the Yellow Sea will be closed for live-fire shooting exercises from June 9 16:00 to June 10 18:00 (local time); entry is prohibited.
-
----
-
-### 2026-06-09 09:04:36  #MKT News #CNH
-
-【Ministry of Finance to issue 15 bln yuan government bond in Hong Kong in June】China's Ministry of Finance will issue the third 2026 tranche of RMB government bonds in Hong Kong on June 16, sized at 15 billion yuan. Detailed issuance arrangements will be published on the Hong Kong Monetary Authority's Central Moneymarkets Unit (CMU).
-
----
-
-### 2026-06-09 09:04:25  #公司
-
-【機構：嗶哩嗶哩的主要股票拋壓可能已減輕  上調公司目標價】Zephirin Group在一份研究報告中表示，隨著股東騰訊將其在這家中國影片分享平臺所持股份變現的可能性下降，嗶哩嗶哩的主要股票拋壓可能已經減輕。Longdley Zephirin表示，據報道騰訊正計劃發行債券，這應該會降低其出售嗶哩嗶哩股票的風險。資料顯示，騰訊持有嗶哩嗶哩約12%的股份。因此，Zephirin Group將嗶哩嗶哩在香港上市股票的交易評級從“強烈賣出中等風險“上調至“持有中等風險“。該機構將其目標價從134.00港元上調至161.00港元。
-
----
-
-### 2026-06-09 09:03:41  #其他
-
-習近平向加拿大新任總督路易絲·阿伯致賀電。 （新華社）
-
----
-
-### 2026-06-09 09:03:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange's Gold T+D fell 0.21% in early trade on Tuesday June 9 to 945.15 yuan/gram; Silver T+D dropped 0.14% to 16,313.0 yuan/kg.
-
----
-
-### 2026-06-09 09:02:58  #MKT News #Market Regions #Greater China
-
-Taiwan Stock Exchange Weighted Index (TAIEX) opened up 467.38 points, +1.07%, at 43,970.16 on Tuesday, June 9.
-
----
-
-### 2026-06-09 09:02:47  #資料 #央行 #國際
-
-【本週出爐的美國通脹率或突破4%】週一市場波動有所緩解，但投資者仍需面對定於週三公佈的5月份消費者價格指數(CPI)。根據目前的預測，CPI預計將達到4.2%，不僅高於一個月前3.8%的年通脹率，也遠高於美聯儲2%的目標。
-
----
-
-### 2026-06-09 09:02:24  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
-
-FTSE China A50 index futures turned lower.
-
----
-
-### 2026-06-09 09:00:52  #MKT News
-
-【MIIT and SASAC launch 2026 humanoid-robot and embodied-intelligence real-scene training campaign】The Ministry of Industry and Information Technology and the State-owned Assets Supervision and Administration Commission have jointly launched a 2026 special action to accelerate real-scene training for humanoid robots and embodied intelligence, focusing on industrial, special and service-sector scenarios. The program will advance construction of real-world training spaces, seed innovation consortia, address operational skills and validate deployments to optimize embodied-intelligence models, accumulate high-quality on-device data, and improve key component performance while piloting full lifecycle management and support mechanisms. Target: by end-2026 complete application validation and routine deployment in representative scenarios to enter "operational mode", distill over 100 high-value use cases and enable deployment capacity at a ten-thousand-unit scale.
-
----
-
-### 2026-06-09 09:00:28
-
-國內期貨主力合約漲跌不一，焦煤跌超6％，焦炭跌超3％，燃料油、燒鹼、低硫燃料油（LU）跌超2％，尿素跌近2％，鈀、滬銀、液化石油氣（LPG）跌超1％。漲幅方面，集運歐線、PTA、澱粉、對二甲苯漲超1％，瓶片、玉米漲近1％。
-
----
-
-### 2026-06-09 09:00:28  #市場
-
-臺灣證交所加權股價指數上漲1%至43,953.41點。
-
----
-
-### 2026-06-09 09:00:23  #MKT News #Important #Commodities #Precious Metals
-
-At the morning open, China's main domestic futures contracts were mixed. Coking coal dropped more than 6% and coke fell over 3%; fuel oil, caustic soda and low-sulfur fuel oil (LU) slid over 2%. Urea was down about 2%; palladium, Shanghai silver and LPG fell more than 1%. On the upside, Europe-route container freight, PTA, starch and p-xylene rose over 1%, while PET bottle chips and corn gained about 1%.
-
----
-
-### 2026-06-09 09:00:17  #其他
-
-臺灣證交所加權股價指數開高0.4%報43,687.62。
-
----
-
-### 2026-06-09 09:00:12  #MKT News #Market Regions #Greater China
-
-FTSE China A50 index futures opened 0.06% higher.
-
----
-
-### 2026-06-09 09:00:08  #其他
-
-【航行警告！黃海海域實彈射擊】據中國海事局網站訊息，青島海事局釋出航行警告，6月9日16時至10日18時，黃海部分海域進行實彈射擊演習，禁止駛入。
-
----
-
-### 2026-06-09 09:00:03  #市場
-
-【商品期貨開盤】焦煤連續跌6.11%，焦炭連續跌3.21%，燃料油連續跌2.51%，低硫燃料油連續跌2.45%，燒鹼連續跌2.32%。
-
----
-
-### 2026-06-09 09:00:03  #市場
-
-富時中國A50指數期貨開盤上漲0.01%。
-
----
-
-### 2026-06-09 08:59:54  #公司 #國際
-
-【美國鋼鐵公司：日本製鐵在蒙谷工廠的投資總額可能高達25億美元】日本製鐵子公司美國鋼鐵公司：日本製鐵對蒙谷工廠的投資總額可能高達25億美元，是最初承諾金額的兩倍。 最新預測顯示，總投資額可能在約20億美元至25億美元之間。日本製鐵曾於2024年8月宣佈，將向蒙谷工廠投入不少於10億美元。
-
----
-
-### 2026-06-09 08:58:49  #央行
-
-【麥格理：澳大利亞央行料將在6月維持利率不變時保持偏緊縮基調】麥格理分析師表示，澳大利亞央行在下週維持隔夜拆款利率不變時，應該會釋放出偏緊縮的訊號，從而推高對8月加息的預期。他們在澳大利亞央行近期的評論中沒有看到任何證據表明該央行正在考慮轉向降息的方向。麥格理基於人工智慧對澳大利亞央行過去三任行長任期內溝通情況的分析暗示，其近期的基調與此前隨後出現加息的情況最為相似。麥格理的分析師認為，在通脹風險尚未解決的情況下，澳大利亞央行希望保留進一步加息的可能性。
-
----
-
-### 2026-06-09 08:58:22  #公司
-
-【和順科技：MLCC基膜相關產品暫未產生收入，對公司業績暫無重大影響】和順科技(301237)6月9日在互動平臺回覆稱，公司MLCC基膜當前正與下游塗布廠商協同最佳化工藝、推進多輪送樣及客戶認證。目前相關產品暫未產生收入，對公司業績暫無重大影響。
-
----
-
-### 2026-06-09 08:58:02  #宏觀
-
-【工業和資訊化部、國務院國資委聯合開展2026年度人形機器人與具身智慧實景實訓專項行動】為深入貫徹黨中央、國務院決策部署，落實人形機器人、具身智慧產業創新發展有關指導意見和行動方案要求，推動人形機器人與具身智慧產品在真實生產生活環境中常態化部署應用，加速實現規模化發展，工業和資訊化部、國務院國資委聯合開展2026年度人形機器人與具身智慧實景實訓專項行動。堅持應用牽引，面向工業、特種、服務等領域重點場景，一體推進實景實訓空間建設、創新應用聯合體培育、作業技能攻關、應用部署驗證等重點任務，透過真實場景訓練，持續最佳化具身智慧模型演算法，積累高質量真機資料，提升本體關鍵部元件效能，探索構建人形機器人及具身智慧產品全生命週期管理和保障機制。到2026年底，人形機器人等重點產品在一批代表性場景中率先完成應用驗證和常態部署，開啟“作業模式”；凝練形成百個以上高價值應用場景，進一步豐富具身智慧應用譜系，帶動形成萬臺級規模落地能力。
 
 ---

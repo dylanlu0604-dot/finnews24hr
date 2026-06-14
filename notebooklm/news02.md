@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-15 04:42:36_
-_本檔包含 3596 則快訊，約 661603 字_
+_更新時間：2026-06-15 05:10:03_
+_本檔包含 3591 則快訊，約 661275 字_
+
+---
+
+### 2026-06-12 15:06:20  #MKT News #F.O #Impact bearish
+
+U.S. National Highway Traffic Safety Administration (NHTSA) says Ford is recalling 255,404 vehicles in the U.S.
+
+---
+
+### 2026-06-12 15:06:07  #MKT News #Macro & Rates #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB executive board member Kocher said rate hikes will help stabilize conditions and that markets should not expect inf to return to 2022-23 levels; the key is that price shocks do not cause market paralysis, and the ECB will act decisively to ensure medium-term inf falls to 2%.
+
+---
+
+### 2026-06-12 15:05:26  #其他
+
+【葉門亞丁省長官邸外發生槍擊事件致4人死亡】葉門南部港口城市亞丁地方政府12日發表宣告說，亞丁省省長阿卜杜勒拉赫曼官邸外11日晚發生槍擊事件，造成包括一名武裝襲擊者在內的4人死亡、多人受傷。（新華社）
+
+---
+
+### 2026-06-12 15:05:21  #MKT News #Important #Market Regions #Greater China #Commodities #Industrial Metals #XAUUSD #Impact bullish #Copper
+
+【China stocks close: Shanghai Composite up 1.12%; industrial metals, commercial aerospace hit multiple limit-ups】Shanghai Composite rose 1.12% at close, Shenzhen Composite gained 0.75% and the ChiNext Index was up 0.50% after opening the session higher; ChiNext initially climbed over 2% before retreating intraday. Commercial aerospace names posted multiple limit-ups, including Chenxi Aviation, AVIC Gaoke, AVIC Xifei, Aero Engine Technology and Zhongtian Rocket. Industrial metals saw a wave of limit-ups (about 10 stocks), led by Tongling Nonferrous and China Molybdenum. Broker dealers strengthened with Caida Securities and BOC Securities hitting daily limits. Outperforming sectors included insurance, nonferrous metals, gold, AI-driven pharmaceuticals, lithium, retail and paper; laggards included MLCC, helium, industrial gases, advanced packaging, CPO, photoresist and optical-fiber themes. Combined turnover on Shanghai and Shenzhen totaled 3.21 trillion yuan, about 662.9 billion yuan higher than the previous session. Approximately 3,900 stocks rose and 1,500 fell.
+
+---
+
+### 2026-06-12 15:05:09  #公司 #市場
+
+【十餘隻寬基指數成分股調整 多股集合競價大幅異動】多股尾盤集合競價大幅異動，鼎通科技、山東高速、有研矽、卓勝微、聖邦股份、時代電氣等快速拉昇超2%，沐曦股份、摩爾執行緒、源傑科技、德明利、長川科技等多股快速跌超2%。訊息面上，上證50、上證180、上證380、科創50、滬深300、中證500、中證1000、中證A50、中證A100、中證A500等指數樣本調整，6月12日收市後生效，創業板指調整則將於6月15日正式生效。
+
+---
+
+### 2026-06-12 15:04:23  #MKT News #Market Regions #Greater China
+
+【Nepal foreign minister Xishier to visit China June 14-17】Nepal's foreign minister Xishier will visit China from June 14-17 at the invitation of China's foreign minister Wang Yi.
 
 ---
 
@@ -21577,71 +21613,5 @@ ZEPHIRIN GROUP將阿里巴巴目標價從112美元下調至92美元。
 ### 2026-06-11 13:56:02  #其他
 
 【科威特宣佈空中交通恢復正常】當地時間11日上午，科威特民航總局宣佈，鑑於此前的“緊急情況”已得到解決，科威特領空內的空中交通恢復正常。科威特民航總局在一份通告中宣佈，科威特國際機場恢復正常運營，航班按照既定時刻表恢復執行。通告強調，民航部門將繼續全天候密切監控局勢，並與科威特境內外相關部門持續協調，以確保空域安全。
-
----
-
-### 2026-06-11 13:55:36  #宏觀 #市場
-
-【美團、淘寶閃購、京東外賣集體簽約，建立“黑名單”共享機制】日前，廣東省市場監管局舉辦網路餐飲平臺自律公約和協同共治協議簽署活動。活動中，在廣東省市場監管局有關負責人的見證下，美團、淘寶閃購、京東外賣三家網路餐飲平臺共同簽署了《廣東省網路餐飲行業高質量發展與食品安全自律公約》（下稱“自律公約”），推動網路餐飲行業實現從“被動合規”到“主動治理”，從“規模擴張”到“品質優先”，從“單打獨鬥”到“協同共治”的轉變。公約全文共五章二十一條，緊扣《網路餐飲服務經營者落實食品安全主體責任監督管理規定》（國家市場監管總局第123號令）核心要求，圍繞平臺主體責任、入網餐飲商戶管理、配送人員關懷、社會共治等方面作出明確約定，首次提出建立跨平臺“黑名單”共享機制，對嚴重違法商戶實施跨平臺聯合約束，實現“一處違法、全網受限”。(南方plus)
-
----
-
-### 2026-06-11 13:55:35  #Trading Economics #Markets #Commodity #Importance 1
-
-Zinc Falls to 1-Month Low — Zinc futures fell toward $3,450 per tonne, the lowest in a month, as investors grew concerned about the demand outlook amid escalating tensions in the Middle East and expectations of tighter US monetary policy. The latest strikes between the US and Iran risk prolonging the conflict and stoking inflation, which could weigh on global growth and industrial metals demand. Still, losses were limited by tightening supply conditions. Glencore’s Kazzinc facility in Kazakhstan are running at reduced capacity after a fatal explosion, while Nexa’s Cajamarquilla smelter in Peru was temporarily suspended due to fire-related damage, though it recently announced a gradual resumption of production. These disruptions have reinforced concerns about global zinc availability, especially as the International Lead and Zinc Study Group projected a refined zinc deficit of 19,000 tonnes this year. Meanwhile, Boliden’s Garpenberg mine is set to resume production in Q2, helping to ease some supply pressures.
-
----
-
-### 2026-06-11 13:54:11  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
-
-Israel Defense Forces said alerts sounded in the Misgav Am area on reports of enemy aircraft infiltration; details are under review.
-
----
-
-### 2026-06-11 13:53:36  #MKT News
-
-IAEA said it had been informed that, local time last night, the ZAPORIZHZHIA NUCLEAR PLANT lost all external power after an attack on its electrical substation.
-
----
-
-### 2026-06-11 13:53:25  #其他
-
-國際原子能機構：獲悉，扎波羅熱核電站昨晚在當地時間前後因變電站遭到襲擊而失去所有外部電力供應。
-
----
-
-### 2026-06-11 13:53:12  #市場 #國際
-
-印度NIFTY 50指數抹去了盤中跌幅，最新上漲0.02%。
-
----
-
-### 2026-06-11 13:52:11  #宏觀 #國際
-
-【“2026·全球人權治理高階論壇”在京舉辦 李書磊出席開幕式並發表主旨演講2】“2026·全球人權治理高階論壇”11日在北京舉辦。中共中央政治局委員、中宣部部長李書磊出席開幕式並發表主旨演講。本次論壇以“攜手發展 共享人權：《發展權利宣言》透過40週年與全球人權治理新願景”為主題，由國務院新聞辦公室、外交部共同主辦，來自一百多個國家和包括聯合國機構在內的國際組織的400餘位中外嘉賓參會研討。（央視新聞）
-
----
-
-### 2026-06-11 13:51:41  #市場 #焦點
-
-滬深兩市成交額超2萬億元，較上日此時縮量1153億元。
-
----
-
-### 2026-06-11 13:51:09  #公司 #市場
-
-【先進封裝板塊短線拉昇】先進封裝板塊短線拉昇，博敏電子、太極實業、興福電子漲停， 方邦股份、光智科技、甬矽電子漲超10%，氣派科技、江化微、科翔股份、蘇試試驗、拓荊科技等跟漲。
-
----
-
-### 2026-06-11 13:49:37  #公司
-
-【羅素萍任滙豐保險經紀公司董事長 陸文穎任滙豐保險經紀公司法定代表人  滙豐保險經紀公司發生高管變更】天眼查App顯示，近日，滙豐保險經紀有限公司發生工商變更，周莉莉卸任法定代表人、董事長，陸文穎接任法定代表人，羅素萍接任董事長。該公司成立於2012年4月，註冊資本約26.5億人民幣，經營範圍為保險經紀業務、公募證券投資基金銷售，由滙豐保險經紀大中華有限公司全資持股。
-
----
-
-### 2026-06-11 13:48:12  #市場 #國際
-
-印度盧比兌美元下跌0.5%至95.6987。
 
 ---

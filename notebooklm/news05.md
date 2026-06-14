@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-15 04:42:36_
-_本檔包含 3821 則快訊，約 661426 字_
+_更新時間：2026-06-15 05:10:03_
+_本檔包含 3809 則快訊，約 661025 字_
+
+---
+
+### 2026-06-09 09:04:36  #MKT News #CNH
+
+【Ministry of Finance to issue 15 bln yuan government bond in Hong Kong in June】China's Ministry of Finance will issue the third 2026 tranche of RMB government bonds in Hong Kong on June 16, sized at 15 billion yuan. Detailed issuance arrangements will be published on the Hong Kong Monetary Authority's Central Moneymarkets Unit (CMU).
+
+---
+
+### 2026-06-09 09:04:25  #公司
+
+【機構：嗶哩嗶哩的主要股票拋壓可能已減輕  上調公司目標價】Zephirin Group在一份研究報告中表示，隨著股東騰訊將其在這家中國影片分享平臺所持股份變現的可能性下降，嗶哩嗶哩的主要股票拋壓可能已經減輕。Longdley Zephirin表示，據報道騰訊正計劃發行債券，這應該會降低其出售嗶哩嗶哩股票的風險。資料顯示，騰訊持有嗶哩嗶哩約12%的股份。因此，Zephirin Group將嗶哩嗶哩在香港上市股票的交易評級從“強烈賣出中等風險“上調至“持有中等風險“。該機構將其目標價從134.00港元上調至161.00港元。
+
+---
+
+### 2026-06-09 09:03:41  #其他
+
+習近平向加拿大新任總督路易絲·阿伯致賀電。 （新華社）
+
+---
+
+### 2026-06-09 09:03:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange's Gold T+D fell 0.21% in early trade on Tuesday June 9 to 945.15 yuan/gram; Silver T+D dropped 0.14% to 16,313.0 yuan/kg.
+
+---
+
+### 2026-06-09 09:02:58  #MKT News #Market Regions #Greater China
+
+Taiwan Stock Exchange Weighted Index (TAIEX) opened up 467.38 points, +1.07%, at 43,970.16 on Tuesday, June 9.
+
+---
+
+### 2026-06-09 09:02:47  #資料 #央行 #國際
+
+【本週出爐的美國通脹率或突破4%】週一市場波動有所緩解，但投資者仍需面對定於週三公佈的5月份消費者價格指數(CPI)。根據目前的預測，CPI預計將達到4.2%，不僅高於一個月前3.8%的年通脹率，也遠高於美聯儲2%的目標。
+
+---
+
+### 2026-06-09 09:02:24  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
+
+FTSE China A50 index futures turned lower.
+
+---
+
+### 2026-06-09 09:00:52  #MKT News
+
+【MIIT and SASAC launch 2026 humanoid-robot and embodied-intelligence real-scene training campaign】The Ministry of Industry and Information Technology and the State-owned Assets Supervision and Administration Commission have jointly launched a 2026 special action to accelerate real-scene training for humanoid robots and embodied intelligence, focusing on industrial, special and service-sector scenarios. The program will advance construction of real-world training spaces, seed innovation consortia, address operational skills and validate deployments to optimize embodied-intelligence models, accumulate high-quality on-device data, and improve key component performance while piloting full lifecycle management and support mechanisms. Target: by end-2026 complete application validation and routine deployment in representative scenarios to enter "operational mode", distill over 100 high-value use cases and enable deployment capacity at a ten-thousand-unit scale.
+
+---
+
+### 2026-06-09 09:00:28
+
+國內期貨主力合約漲跌不一，焦煤跌超6％，焦炭跌超3％，燃料油、燒鹼、低硫燃料油（LU）跌超2％，尿素跌近2％，鈀、滬銀、液化石油氣（LPG）跌超1％。漲幅方面，集運歐線、PTA、澱粉、對二甲苯漲超1％，瓶片、玉米漲近1％。
+
+---
+
+### 2026-06-09 09:00:28  #市場
+
+臺灣證交所加權股價指數上漲1%至43,953.41點。
+
+---
+
+### 2026-06-09 09:00:23  #MKT News #Important #Commodities #Precious Metals
+
+At the morning open, China's main domestic futures contracts were mixed. Coking coal dropped more than 6% and coke fell over 3%; fuel oil, caustic soda and low-sulfur fuel oil (LU) slid over 2%. Urea was down about 2%; palladium, Shanghai silver and LPG fell more than 1%. On the upside, Europe-route container freight, PTA, starch and p-xylene rose over 1%, while PET bottle chips and corn gained about 1%.
+
+---
+
+### 2026-06-09 09:00:17  #其他
+
+臺灣證交所加權股價指數開高0.4%報43,687.62。
+
+---
+
+### 2026-06-09 09:00:12  #MKT News #Market Regions #Greater China
+
+FTSE China A50 index futures opened 0.06% higher.
+
+---
+
+### 2026-06-09 09:00:08  #其他
+
+【航行警告！黃海海域實彈射擊】據中國海事局網站訊息，青島海事局釋出航行警告，6月9日16時至10日18時，黃海部分海域進行實彈射擊演習，禁止駛入。
+
+---
+
+### 2026-06-09 09:00:03  #市場
+
+【商品期貨開盤】焦煤連續跌6.11%，焦炭連續跌3.21%，燃料油連續跌2.51%，低硫燃料油連續跌2.45%，燒鹼連續跌2.32%。
+
+---
+
+### 2026-06-09 09:00:03  #市場
+
+富時中國A50指數期貨開盤上漲0.01%。
+
+---
+
+### 2026-06-09 08:59:54  #公司 #國際
+
+【美國鋼鐵公司：日本製鐵在蒙谷工廠的投資總額可能高達25億美元】日本製鐵子公司美國鋼鐵公司：日本製鐵對蒙谷工廠的投資總額可能高達25億美元，是最初承諾金額的兩倍。 最新預測顯示，總投資額可能在約20億美元至25億美元之間。日本製鐵曾於2024年8月宣佈，將向蒙谷工廠投入不少於10億美元。
+
+---
+
+### 2026-06-09 08:58:49  #央行
+
+【麥格理：澳大利亞央行料將在6月維持利率不變時保持偏緊縮基調】麥格理分析師表示，澳大利亞央行在下週維持隔夜拆款利率不變時，應該會釋放出偏緊縮的訊號，從而推高對8月加息的預期。他們在澳大利亞央行近期的評論中沒有看到任何證據表明該央行正在考慮轉向降息的方向。麥格理基於人工智慧對澳大利亞央行過去三任行長任期內溝通情況的分析暗示，其近期的基調與此前隨後出現加息的情況最為相似。麥格理的分析師認為，在通脹風險尚未解決的情況下，澳大利亞央行希望保留進一步加息的可能性。
+
+---
+
+### 2026-06-09 08:58:22  #公司
+
+【和順科技：MLCC基膜相關產品暫未產生收入，對公司業績暫無重大影響】和順科技(301237)6月9日在互動平臺回覆稱，公司MLCC基膜當前正與下游塗布廠商協同最佳化工藝、推進多輪送樣及客戶認證。目前相關產品暫未產生收入，對公司業績暫無重大影響。
+
+---
+
+### 2026-06-09 08:58:02  #宏觀
+
+【工業和資訊化部、國務院國資委聯合開展2026年度人形機器人與具身智慧實景實訓專項行動】為深入貫徹黨中央、國務院決策部署，落實人形機器人、具身智慧產業創新發展有關指導意見和行動方案要求，推動人形機器人與具身智慧產品在真實生產生活環境中常態化部署應用，加速實現規模化發展，工業和資訊化部、國務院國資委聯合開展2026年度人形機器人與具身智慧實景實訓專項行動。堅持應用牽引，面向工業、特種、服務等領域重點場景，一體推進實景實訓空間建設、創新應用聯合體培育、作業技能攻關、應用部署驗證等重點任務，透過真實場景訓練，持續最佳化具身智慧模型演算法，積累高質量真機資料，提升本體關鍵部元件效能，探索構建人形機器人及具身智慧產品全生命週期管理和保障機制。到2026年底，人形機器人等重點產品在一批代表性場景中率先完成應用驗證和常態部署，開啟“作業模式”；凝練形成百個以上高價值應用場景，進一步豐富具身智慧應用譜系，帶動形成萬臺級規模落地能力。
 
 ---
 
@@ -22838,197 +22958,5 @@ Iran's foreign ministry said Iran's armed forces carried out a defensive strike 
 ### 2026-06-08 05:10:23  #國際
 
 伊朗外交部表示，伊朗武裝力量對以色列實施了“防禦性打擊”。
-
----
-
-### 2026-06-08 05:09:06  #MKT News
-
-cenc automatically recorded a preliminary M4.2 earthquake at 05:07 on June 8 near Kangding, Ganzi Prefecture, Sichuan; final parameters are subject to the agency's formal rapid report.
-
----
-
-### 2026-06-08 05:08:04  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel's Coordinator of Government Activities in the Territories said it closed crossings into the Gaza Strip after Iran launched a missile attack on Israel.
-
----
-
-### 2026-06-08 05:07:58  #國際
-
-以色列協調與聯絡政府辦公室表示，凱雷姆沙洛姆口岸和拉法口岸均在此次通行關閉範圍內，生效直至另行通知。
-
----
-
-### 2026-06-08 05:07:05  #國際
-
-以色列協調與聯絡政府辦公室表示，伊朗對以色列發動導彈襲擊後，將關閉通往加沙地帶的過境點。
-
----
-
-### 2026-06-08 05:06:34  #國際
-
-【使館提醒在伊中國公民加強安全防範】鑑於當前局勢，中國駐伊朗使領館今天（6月8日）提醒在伊中國公民加強安全防範和應急準備，及時向駐伊朗使領館進行報備。如遇緊急情況，請向當地警方報警，並與駐伊朗使領館聯絡。（CCTV國際時訊）
-
----
-
-### 2026-06-08 05:06:17  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-U.S. Embassy in Jerusalem has directed all U.S. government employees and their families to shelter in place.
-
----
-
-### 2026-06-08 05:04:15  #國際
-
-美國駐耶路撒冷大使館表示，受以色列當前安全域性勢影響，所有美方工作人員及家屬均需就地避險；若拉響紅色警報，人員必須立即前往防護掩體。
-
----
-
-### 2026-06-08 05:02:47  #其他
-
-空中客車通知A321客戶，原定於2028年交付的該型客機將延遲交付。
-
----
-
-### 2026-06-08 05:02:31  #國際
-
-【伊朗公佈發射導彈襲擊以色列畫面】當地時間6月7日晚，北京時間今天（6月8日）凌晨，以回應以色列升級對黎巴嫩軍事行動，特別是再次空襲黎巴嫩首都貝魯特南郊的行為。伊朗伊斯蘭革命衛隊稱，革命衛隊航空航天部隊對以色列北部的拉馬特·大衛空軍基地發動了彈道導彈襲擊。而這僅僅是一次警告，如果以色列的侵略行為再次發生，伊朗回應的範圍將更加廣泛，並將涵蓋該地區所有美以目標。
-
----
-
-### 2026-06-08 05:00:42  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【IRGC says it launched "warning" ballistic strike on Ramat David airbase】Iran's Islamic Revolutionary Guard Corps (IRGC) said on the evening of the 7th its Aerospace Force struck Ramat David airbase in northern Israel with ballistic missiles, calling the action a response to recent Israeli operations in southern Lebanon and the southern suburbs of Beirut. The IRGC said Ramat David was a key base for those operations and that Iran's April 8 acceptance of a ceasefire was conditional on a full halt across all fronts, which it accuses the US and Israel of not honoring. The statement also accused US and Israeli actions in the Strait of Hormuz, Gulf of Oman and the Indian Ocean against Iranian vessels and coastal targets of undermining the ceasefire. The strike was described as "warning" in nature; the IRGC warned that if Israeli military actions continue to escalate, Iranian responses could widen to include additional US and Israeli-related targets in the region.
-
----
-
-### 2026-06-08 04:59:33  #公司 #國際
-
-【以色列稱攔截所有來襲導彈 將“強力回應”】據以色列國防軍7日晚間通報，伊朗當晚向以色列發射至少三輪導彈，以軍攔截所有來襲導彈。以色列官員說，以方將“強力回應”。以色列公共廣播公司援引一名以方官員的話報道，以色列不會允許伊朗試圖建立某種“平衡”。報道預計以色列將對伊朗導彈襲擊進行報復。以色列第12頻道電視臺報道，以色列官員稱以方“將予以強力回應”。（新華社）
-
----
-
-### 2026-06-08 04:59:11  #MKT News #XAUUSD #Impact bullish #Brent
-
-【Israel says it intercepted all incoming missiles, will "respond strongly"】On the evening of the 7th the Israel Defense Forces said Iran fired at least three waves of missiles at Israel and that the IDF intercepted all incoming missiles. Israeli officials told the public broadcaster and Channel 12 Israel will "respond strongly"; the public broadcaster quoted an official saying Israel will not allow Iran to establish a "balance," and reports expect Israeli retaliation.
-
----
-
-### 2026-06-08 04:58:36  #國際
-
-伊朗媒體：伊朗已備足可隨時發射的導彈。
-
----
-
-### 2026-06-08 04:54:50  #MKT News
-
-Saudi foreign ministry said Saudi and Qatari foreign ministers discussed the impact of recent developments on the region.
-
----
-
-### 2026-06-08 04:53:19  #國際
-
-沙特外交部宣告：沙特與卡達外交部長討論了地區最新局勢發展造成的影響。
-
----
-
-### 2026-06-08 04:53:12  #國際
-
-特朗普已與內塔尼亞胡通電話。
-
----
-
-### 2026-06-08 04:52:47  #MKT News
-
-Al Jazeera reports Trump and Netanyahu are on a phone call.
-
----
-
-### 2026-06-08 04:52:14  #MKT News
-
-Munich Airport: flight operations resumed at 22:15 local time after fire department response.
-
----
-
-### 2026-06-08 04:51:39  #其他
-
-慕尼黑機場：在消防部門處置完畢後，航班運營已於晚上10點15分恢復。
-
----
-
-### 2026-06-08 04:51:34  #國際
-
-伊朗和埃及外長通話討論地區局勢升級。
-
----
-
-### 2026-06-08 04:51:05  #其他
-
-慕尼黑機場：航班運營已恢復。
-
----
-
-### 2026-06-08 04:50:39  #其他
-
-剛果方面表示，埃博拉確診病例已升至515例，其中包含91例死亡病例。
-
----
-
-### 2026-06-08 04:49:21  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-The UK government said leaders urged Russian President Putin to agree to an immediate, comprehensive ceasefire. It said that, once in effect, the ceasefire must be accompanied by strong, legally binding security guarantees for Ukraine, and that current contacts should serve as the starting point for negotiations.
-
----
-
-### 2026-06-08 04:49:11  #其他
-
-英國政府：E3領導人稱當前接觸線應作為談判的起點。
-
----
-
-### 2026-06-08 04:48:55  #國際
-
-英國政府：E3領導人表示，一旦停火生效，烏克蘭必須得到穩固且具有法律約束力的安全保障。
-
----
-
-### 2026-06-08 04:46:16  #MKT News #Market Regions #Europe & UK
-
-UK government: E3 leaders (UK, France, Germany) condemned Russia's large-scale missile and drone strikes on Ukrainian cities, citing repeated use of the Oleshnik missile. They called for urgent scaling-up of interceptor production and joint development of air-defence missiles and longer-range strike capabilities, and said the G7 summit, the next meeting of a coalition of willing countries and the NATO summit should be used to coordinate further support for Ukraine.
-
----
-
-### 2026-06-08 04:45:35  #公司 #國際
-
-英國政府：領導人已就如何利用七國集團峰會、意願聯盟下次會議以及北約峰會，更好協調對烏克蘭的進一步支援展開討論。
-
----
-
-### 2026-06-08 04:44:52  #國際
-
-英國政府：歐洲三大領導人強調，迫切需要擴大攔截彈的生產規模，併合作開發反彈道導彈與縱深打擊能力。
-
----
-
-### 2026-06-08 04:44:45  #國際
-
-英國政府：任何協議都必須保障歐洲的安全利益。
-
----
-
-### 2026-06-08 04:44:35  #國際
-
-英國政府：歐洲領導人呼籲普京同意停火。
-
----
-
-### 2026-06-08 04:43:38  #國際
-
-英國政府：E3領導人譴責俄羅斯對烏克蘭城市發動大規模導彈與無人機襲擊，其中包括多次使用“奧雷什尼克”導彈。
-
----
-
-### 2026-06-08 04:42:43  #國際
-
-英國政府：領導人已明確表明，所有行動都應與烏克蘭、更廣泛的歐洲夥伴以及美國開展最緊密的合作來推進。
 
 ---
