@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-15 06:36:10_
-_本檔包含 3600 則快訊，約 661900 字_
+_更新時間：2026-06-15 06:59:58_
+_本檔包含 3616 則快訊，約 662765 字_
+
+---
+
+### 2026-06-11 14:33:42  #MKT News
+
+South Korea's KOSPI closed Thursday, June 11, up 32.12 points, or 0.42%, at 7,762.94.
+
+---
+
+### 2026-06-11 14:33:41  #MKT News #Market Regions #Japan & APAC #Nikkei 225
+
+Japan's Nikkei 225 index closed up 38.00 points, or 0.06%, at 64,217.27 on Thursday, June 11.
+
+---
+
+### 2026-06-11 14:33:29  #公司
+
+【2026資訊科技應用創新發展大會在山東濟南舉辦】6月11日，2026資訊科技應用創新發展大會在濟南舉行。大會聚焦AI與資訊科技融合，設定主論壇及央國企高質量發展、AI+應用創新等專題會議，涵蓋資料安全、智慧算力、工業軟體等前沿議題。中孚資訊、金現代、中創股份等企業將展示AI安全新品。
+
+---
+
+### 2026-06-11 14:33:16  #公司
+
+匈牙利MOL公司稱已與塞爾維亞政府就NIS交易成功完成談判。
+
+---
+
+### 2026-06-11 14:33:07  #觀點
+
+【張憶東：A股和港股依然是初夏，後續行情會擴散而非高低切】近日，海通國際執委會委員、首席經濟學家張憶東表示，A股和港股依然是初夏，後續行情會擴散而非高低切。（澎湃新聞）
+
+---
+
+### 2026-06-11 14:32:30  #其他
+
+中國地震臺網自動測定：06月11日14時29分在新疆巴音郭楞州若羌縣附近（北緯38.77度，東經88.61度）發生4.4級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-11 14:32:22  #MKT News #Important #Commodities #Industrial Metals
+
+Polysilicon futures contract 2609 strengthened intraday, gains widening to 7% at 36,970 yuan/ton, turnover exceeding 19.9 billion yuan; open interest rose by nearly 400 contracts and trading activity picked up.
+
+---
+
+### 2026-06-11 14:32:04  #MKT News #ASML.AS #Impact bullish
+
+Goldman Sachs raises ASML PT to €1,770 from €1,600.
+
+---
+
+### 2026-06-11 14:31:49  #觀點
+
+高盛將阿斯麥目標股價從1600歐元上調至1770歐元。
+
+---
+
+### 2026-06-11 14:31:41  #國際
+
+【日韓股市集體收漲】日經225指數收漲0.06%，報64217.27點。韓國綜指收漲0.42%，報7762.94點。
+
+---
+
+### 2026-06-11 14:30:59  #行業 #公司
+
+【GLP-1減重藥“吃掉”全球15%乳清供給】以司美格魯肽為代表的GLP-1減重藥需求大增，正在引發一場全球乳清原料價格大漲的“蝴蝶效應”。近期，各大品牌蛋白粉漲價的新聞在減重、增肌人群中刷屏。據行業人士透露，GLP-1減重藥創造的乳清蛋白補充需求，吃掉了全球15%的乳清供給。疊加產能受限、營養品市場擴容，運動營養食品核心乳清蛋白原料WPC80價格近一年上漲了120%–150%。受價格和利潤驅使，原本可用於生產D90脫鹽乳清粉的原料被“虹吸”至WPC80產線，導致國內D90採購價較年初翻倍，這意味著以D90為原料的嬰幼兒配方奶粉也存在調價壓力。(新京報)
+
+---
+
+### 2026-06-11 14:30:42  #其他
+
+【海通國際張憶東：今年夏季行情N型向下的變盤點，很可能就在6月10日-18日】近日，海通國際執委會委員、首席經濟學家張憶東表示，今年夏季行情N型向下的變盤點，很可能就在6月10日-18日。（澎湃新聞）
+
+---
+
+### 2026-06-11 14:30:07  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+The Nikkei 225 Index Closes 0.11% Lower — The Nikkei 225 Index decreased 71 points or 0.11 percent on Thursday to close at 64108 points. The decline was led by Hino Motors (-5.42%), Kawasaki (-4.21%) and Toho Zinc (-4.13%). On the upside, the strongest performers were Toppan (15.07%), Ajinomoto (8.37%) and Resonac Holdings (6.59%).
+
+---
+
+### 2026-06-11 14:29:18  #公司
+
+訊息人士稱，截至週四亞洲午後，投資者對Danantara投資管理公司美元債券的投標規模已超過15億美元，而目標上限為10億美元。
+
+---
+
+### 2026-06-11 14:28:46  #公司 #觀點
+
+高盛將保時捷評級從中性上調至買入。
+
+---
+
+### 2026-06-11 14:28:15  #MKT News #Market Regions #Greater China
+
+【June 11: China Agricultural Products Wholesale Price 200 Index up 0.43 points】China’s Ministry of Agriculture and Rural Affairs: Agricultural Products Wholesale Price 200 Index 113.59 on June 11, up 0.43 points from a day earlier; vegetable-basket wholesale price index 113.66, up 0.46 points. As of 14:00 national wholesale-market average prices: pork 14.50 yuan/kg (-1.1% vs yesterday); beef 66.57 yuan/kg (-0.2%); mutton 64.21 yuan/kg (+0.2%); eggs 10.78 yuan/kg (-0.1%); dressed chicken 17.26 yuan/kg (+1.4%).
+
+---
+
+### 2026-06-11 14:28:04  #其他
+
+【6月11日：“農產品批發價格200指數”比昨天上升0.43個點】據農業農村部監測，6月11日“農產品批發價格200指數”為113.59，比昨天上升0.43個點，“菜籃子”產品批發價格指數為113.66，比昨天上升0.46個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.50元/公斤，比昨天下降1.1%；牛肉66.57元/公斤，比昨天下降0.2%；羊肉64.21元/公斤，比昨天上升0.2%；雞蛋10.78元/公斤，比昨天下降0.1%；白條雞17.26元/公斤，比昨天上升1.4%。重點監測的28種蔬菜平均價格為4.33元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為7.53元/公斤，比昨天上升1.2%。鯽魚20.58元/公斤，比昨天上升1.4%；鯉魚14.86元/公斤，比昨天上升0.2%；白鰱魚10.41元/公斤，比昨天下降0.4%；大帶魚40.98元/公斤，比昨天上升1.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是蓮藕、菠蘿、巨峰葡萄、白蘿蔔和胡蘿蔔，幅度分別為6.7%、2.4%、2.2%、1.7%和1.6%；價格降幅前五名的是蔥頭、黃瓜、大白菜、豬肉和菜花，幅度分別為4.6%、1.3%、1.3%、1.1%和1.0%。
+
+---
+
+### 2026-06-11 14:28:02  #公司
+
+【臻寶科技明日申購 頂格申購需配市值9萬元】臻寶科技明日開啟申購，公司本次發行前總股本為1.16億股，本次擬公開發行股票3882.26萬股，佔發行後總股本的比例為25.00%，其中網上發行931.70萬股，申購程式碼787797，申購價格為44.56元，發行市盈率為31.31倍，單一賬戶申購上限為0.90萬股，申購數量為500股的整數倍，頂格申購需持有滬市市值9萬元。
+
+---
+
+### 2026-06-11 14:27:44  #其他
+
+【亨通光電成交額達200億元，現跌7%】6月11日下午，亨通光電成交額達200億元，現跌7.44%。
+
+---
+
+### 2026-06-11 14:27:36  #公司 #國際 #原創
+
+【梅賽德斯賓士宣佈與Tytan合作生產反無人機車輛】梅賽德斯-賓士宣佈，將與德國防務初創公司Tytan Technologies合作生產反無人機車輛，成為最新一家與國防工業聯手的歐洲汽車製造商。在2026年國際航空航天展覽會（ILA 2026）上，這家德國汽車製造商簽署了一份諒解備忘錄，根據該備忘錄，它將為一種用於攔截小型無人機的移動防空系統生產車輛。梅賽德斯-賓士在一份宣告中表示，該公司將專注於基於G級和Sprinter車型的“車載無人機防禦和任務平臺，用於保護人員和關鍵基礎設施”。
+
+---
+
+### 2026-06-11 14:27:25  #公司
+
+【科大訊飛在合肥成立詞元星火科技公司 註冊資本10億】天眼查App顯示，近日，合肥詞元星火科技有限公司成立，法定代表人為劉慶峰，註冊資本10億人民幣，經營範圍包括人工智慧應用軟體開發、人工智慧通用應用系統、資訊科技諮詢服務、資料處理服務等，由科大訊飛全資持股。
+
+---
+
+### 2026-06-11 14:26:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
+
+【Cui Dongshu: 2026 China auto market broadly strong; high‑subsidy truck and bus markets recovering】Cui Dongshu, secretary‑general of the CPCA, said in a May 2026 segment analysis that China’s macro growth remains robust and national auto demand is strong, supported by state consumption‑promotion policies. He flagged a clear recovery in trucks and buses that qualify for high subsidies. The commercial‑vehicle market is showing structural growth driven by equipment‑renewal subsidies; newly implemented high subsidies for commercial vehicles are accelerating electrification in logistics and transport and keeping commercial‑vehicle sentiment elevated.
+
+---
+
+### 2026-06-11 14:26:30  #公司 #其他
+
+敬業鋼鐵：已向英國政府啟動磋商程式，要求英方賠償敬業對英鋼的投資損失。
+
+---
+
+### 2026-06-11 14:26:12  #Trading Economics #Markets #Japan #currency #Importance 1
+
+Japanese Yen Hits 6-week Low — The Japanese Yen touched 160.57 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar Japanese Yen gained 1.87%, and in the last 12 months, it increased 11.91%.
+
+---
+
+### 2026-06-11 14:25:12  #央行 #國際
+
+【經濟學家：歐洲央行在當前週期內料將僅加息一次】全球經濟學家Mohit Kumar在一份報告中表示，Jefferies認為，歐洲央行週四廣受預期的25個基點的加息“將是歐洲央行在這一商業週期中進行的唯一一次加息“。他說，下一個加息視窗將在9月份，屆時將釋出新的工作人員預測。Kumar說：“在樂觀的情況下，到那時戰爭將結束，油價將接近80美元，這將減少再次加息的必要性。“他說，即使在戰爭持續、油價接近100美元的悲觀情況下，歐洲也將接近或陷入衰退。他補充說，Jefferies認為歐洲央行不會在衰退的情況下進行一系列加息。
+
+---
+
+### 2026-06-11 14:22:36  #其他
+
+泡泡瑪特(09992.HK)漲超4%。
+
+---
+
+### 2026-06-11 14:22:24  #MKT News #09992.HK #Impact bullish
+
+Pop Mart (09992.HK) up more than 4%.
+
+---
+
+### 2026-06-11 14:22:18  #Trading Economics #Economy #Sweden #Inflation Rate #Importance 1
+
+Swedish Inflation Confirmed at 7-Month High — Consumer prices in Sweden rose by 0.8% year-on-year in May 2026, confirming initial estimates and rebounding from a 0.1% fall in the previous month. The latest reading also marked the highest inflation rate since October 2025, driven largely by rising energy costs, particularly fuel (26.9% vs. 29.3% in April) and electricity prices (14.9% vs. 4.6%). This, in turn, lifted housing and utility costs (2.6% vs. -0.1%) and transport prices (6.0% vs. 5.2%). In contrast, food prices declined further (-6.2% vs -5.7%), while inflation softened for clothing and footwear (0.7% vs 1.2%). On a monthly basis, consumer prices grew by 1.0%, marking the fastest rise since June 2023, after dropping by 0.6% in the preceding period. Meanwhile, the CPI with a fixed interest rate (CPIF), the Riksbank’s target measure, climbed by 1.5% annually in May, matching preliminary estimates and accelerating from April’s 0.8% rise, which was the softest increase since December 2020.
+
+---
+
+### 2026-06-11 14:22:01  #國際
+
+印度航運部長稱，三名失蹤的印度海員在美國於阿曼海岸外對油輪實施打擊後已確認死亡。
+
+---
+
+### 2026-06-11 14:21:26  #市場 #焦點
+
+多晶矽連續主力合約日內漲7%，現報37030.00元。
+
+---
+
+### 2026-06-11 14:21:19  #MKT News
+
+Australia's S&P/ASX 200 closed down 10.90 points, or 0.13%, at 8,642.40 on Thursday, June 11.
+
+---
+
+### 2026-06-11 14:21:08  #其他 #焦點 #A股
+
+【新易盛成交額達300億元，現跌超7%】6月11日下午，新易盛成交額達300億元，現跌7.31%。
+
+---
+
+### 2026-06-11 14:21:07  #其他 #焦點 #A股
+
+【中際旭創成交額達300億元，現跌近4%】6月11日下午，中際旭創成交額達300億元，現跌3.93%。
 
 ---
 
@@ -21601,107 +21799,5 @@ Japan's TOPIX fell more than 1%.
 ### 2026-06-10 12:00:48  #MKT News #CNH #Impact bullish #CSI300 #Hang Seng Index
 
 【Ministry of Natural Resources: 2025 China marine economy development index 128.8】The Ministry of Natural Resources released the 2026 China Marine Economy Development Index today, showing the 2025 marine economy development index at 128.8, up 2.2% YoY, with the sector shifting toward innovation and higher-quality growth.
-
----
-
-### 2026-06-10 12:00:45  #公司 #國際
-
-現代汽車印度公司公佈火災事故最新進展：浦那工廠及金奈二號工廠生產運營基本未受影響；現代汽車印度公司金奈一號工廠預計將於2025年6月15日前恢復正常生產節奏。
-
----
-
-### 2026-06-10 12:00:44  #Trading Economics #Markets #Commodity #Importance 2
-
-Aluminum Drops to 1-Month Low — Aluminum futures in the UK dropped as much as 1.4% toward $3,500 per tonne in Asian trading, the lowest in a month, as fresh US strikes against Iran and prospects of higher US interest rates weighed on the demand outlook. Persistent geopolitical tensions have fueled inflation concerns and increased the likelihood of tighter monetary policy, raising fears of slower global growth and weaker demand for industrial metals. Still, prices remain more than 19% higher year-to-date amid tightening supply conditions as aluminum exports from the Persian Gulf remain constrained. Supply risks have been further exacerbated by direct attacks on major refining facilities in the region. EGA’s flagship smelter is expected to take up to a year to return to full capacity, while operations at Bahrain’s ALBA facility remain partially suspended.
-
----
-
-### 2026-06-10 12:00:22  #其他
-
-【自然資源部：2025年中國海洋經濟發展指數為128.8】自然資源部今天釋出的《2026中國海洋經濟發展指數》顯示，去年，中國海洋經濟發展指數為128.8，比上年增長2.2%，海洋經濟發展向新向優。
-
----
-
-### 2026-06-10 11:59:31  #MKT News #Market Themes #China EV Leaders #AI Revolution #XPEV.O #Impact bullish
-
-【Xpeng CEO He Xiaopeng to personally lead humanoid robot unit; final 200-day sprint to mass production】June 10 — Xpeng CEO He Xiaopeng said in an internal memo he will personally take direct charge of the company’s humanoid robot unit and, effective immediately, will concurrently serve as the robot business “CEO”. He described the program as at a critical stage—comparable to Xpeng Auto eight years ago before the G3 launch—and said the company is on the threshold of mass production and commercialization, initiating a final 200-day sprint to ramp production.
-
----
-
-### 2026-06-10 11:59:22  #公司
-
-【華金資本：未直接投資芯潮流，相關投資對公司盈利無重大影響】華金資本6月10日在互動平臺表示，公司及控股子公司未直接投資芯潮流（珠海）科技有限公司；公司子公司管理的基金參與了該公司的投資，現階段不會對公司盈利狀況構成重大影響。截至目前，公司現有電容產品不涉及AI伺服器。
-
----
-
-### 2026-06-10 11:59:16  #央行 #國際
-
-印尼央行：仍認為印尼盾匯率與政府預期一致，維持在16,800-17,500之間。
-
----
-
-### 2026-06-10 11:58:54  #其他
-
-【悉尼邦迪灘槍擊案嫌疑人被加控19項罪名】澳大利亞聯邦檢方10日在悉尼唐寧中心地方法院說，已提交檔案對涉嫌參與去年12月悉尼邦迪灘槍擊案嫌疑人納維德·阿克拉姆追加19項罪名指控。根據法庭記錄，這些新指控包括10項“意圖謀殺而開槍”罪名、6項“意圖拒捕而開槍”罪名以及3項“意圖謀殺而致人受傷或嚴重身體傷害”罪名。其辯護律師萊奧妮·吉塔尼表示，阿克拉姆知道他可能面臨更多指控。她表示，阿克拉姆尚未認罪。悉尼邦迪灘去年12月發生槍擊事件，造成包括1名作案嫌疑人在內的16人死亡。
-
----
-
-### 2026-06-10 11:58:35  #央行 #國際
-
-印尼央行預計，印尼經濟增長將達到2027年目標區間的高階。
-
----
-
-### 2026-06-10 11:58:00  #Trading Economics #Economy #Indonesia #Consumer Confidence #Importance 1
-
-Indonesia Consumer Sentiment at 8-Month Low — Indonesia’s consumer confidence index fell to 120.9 in May 2026 from 123 in the previous month, marking its lowest level since September 2025. The moderation was largely driven by weaker assessments of current economic conditions, which fell by 4.3 points to 112.2. Sentiment toward durable goods purchases also declined by 4.3 points to 108.3, while perceptions of job availability over the past six months fell by 3.8 points to 105. Moreover, expectations for income over the next six months eased by 0.4 points to 136.5. In contrast, expectations regarding job availability and business activity improved marginally, with both indices rising by 0.4 points to 128.1 and 124.5, respectively. Despite the decline, overall consumer sentiment remained firmly in optimistic territory, indicating continued confidence in the economic outlook.
-
----
-
-### 2026-06-10 11:57:27  #其他
-
-【何小鵬發內部信：本人親自帶隊，最後200天衝刺機器人量產】6月10日，何小鵬發出內部信，宣告自己將親自下場直管機器人業務。何小鵬在內部信中稱，小鵬人形機器人現在所處的階段尤為關鍵，相當於8年前小鵬汽車即將完成第一款車G3釋出的階段，正站在量產交付的門檻上。
-
----
-
-### 2026-06-10 11:56:49  #公司
-
-【SK海力士將在綜合評估後選定下一座晶片工廠選址】6月10日，據報道，SK集團會長崔泰源表示，SK海力士將在全面評估後決定下一座晶片工廠的選址。其表示，隨著晶片需求持續增長，SK最終必須擴大產能。
-
----
-
-### 2026-06-10 11:56:04  #Trading Economics #Markets #South Korea #Currency #Importance 1
-
-South Korean Won Extends Recovery — The South Korean won traded near 1,523 per dollar, extending gains for a third straight session, as authorities stepped up efforts to stabilize the foreign exchange market. The Bank of Korea and the Financial Supervisory Service launched joint inspections of major foreign-exchange banks for the first time in 14 years, following recent warnings against excessive volatility and speculative trading. Authorities said the inspections would examine whether market participants engaged in activities that destabilized the foreign exchange market or sought to secure improper gains by influencing exchange rates. The currency also continued to recover after sliding to its weakest level since 2009 last week, as traders unwound bearish positions following recent stabilization measures. However, gains were limited by renewed tensions between the US and Iran after Washington launched new strikes against Tehran, boosting demand for the US dollar and pushing oil prices higher.
-
----
-
-### 2026-06-10 11:56:00  #其他
-
-【第二艘國產大型郵輪11月廣州首航】今日，愛達郵輪（Adora Cruises）宣佈，奧運跳水冠軍郭晶晶將擔任第二艘國產大型郵輪“愛達·花城號”的啟航大使。“愛達·花城號”將於11月6日正式交付，並於11月22日從廣州南沙國際郵輪母港開啟首航。“愛達·花城號”全長341米，總噸位達14.19萬噸，擁有2130間豪華客房和套房，滿載可容納5232名賓客。以廣州為母港運營“愛達·花城號”，將有效強化華南郵輪母港叢集功能，帶動港口服務、交通接駁、酒店餐飲、旅遊零售、物資採購、人才培養等全產業鏈協同發展，助力粵港澳大灣區打造世界級郵輪經濟圈。 （廣州日報）
-
----
-
-### 2026-06-10 11:55:13  #市場 #國際
-
-韓國基準股指下跌4.4%，報7744.18點。
-
----
-
-### 2026-06-10 11:55:06  #公司 #資料
-
-【陝西首例加工貿易賬冊遠端影片核查落地】西安海關所屬寶雞海關日前對陝西西格瑪創意科技有限公司開展了加工貿易賬冊遠端影片盤庫核查，標誌著遠端影片核查這一新型監管模式在陝西加工貿易領域成功落地。 陝西西格瑪創意科技有限公司負責人龔高波說：“海關採用遠端影片盤庫，沒有影響我們正常生產，進一步降低了經營成本。” 遠端影片核查是海關總署在全國推廣的一項便利化改革措施。對比傳統線下實地核查，該模式顯著提升了海關核查服務效能。（陝西釋出）
-
----
-
-### 2026-06-10 11:54:41  #公司
-
-【南京醫藥等成立股權投資基金公司 註冊資本7.5億】天眼查App顯示，近日，南京醫藥集團強鏈一號股權投資基金有限公司成立，法定代表人為彭玉萍，註冊資本7.5億人民幣，經營範圍為股權投資，以私募基金從事股權投資、投資管理、資產管理等活動，企業管理諮詢，由南京醫藥（600713）、南京新工醫療健康強鏈併購股權投資基金合夥企業（有限合夥）、南京新工新興產業投資管理有限公司共同持股。
-
----
-
-### 2026-06-10 11:54:02  #國際
-
-【哥斯大黎加西北部海域發生5.1級地震】據歐洲-地中海地震中心初步監測，當地時間6月9日21時01分，哥斯大黎加西北部城市利韋里亞西南約70公里處海域發生5.1級地震。
 
 ---

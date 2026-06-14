@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-15 06:36:10_
-_本檔包含 3761 則快訊，約 661824 字_
+_更新時間：2026-06-15 06:59:58_
+_本檔包含 3763 則快訊，約 662489 字_
+
+---
+
+### 2026-06-09 09:29:13  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
+
+At the open on Tuesday June 9, China's Shanghai Composite Index rose 18.2 points, or 0.46%, to 3,977.54; Shenzhen Composite was up 171.36 points, or 1.16%, at 14,992.55. The CSI 300 index advanced 29.81 points, or 0.63%, to 4,743.45. ChiNext gained 53.91 points, or 1.41%, to 3,865.69, while the STAR 50 Index rose 33.66 points, or 2.11%, to 1,630.23.
+
+---
+
+### 2026-06-09 09:29:03  #市場 #焦點
+
+紐約期金突破4360美元/盎司，日內跌0.07%。
+
+---
+
+### 2026-06-09 09:28:49  #公司 #市場
+
+N高特電子首日上市高開近800%，公司主要從事新型儲能電池管理系統產品的研發、生產和銷售。
+
+---
+
+### 2026-06-09 09:28:42  #MKT News
+
+N Gaote Electronics opened nearly 800% higher on its first trading day. The company develops, manufactures and sells new energy-storage battery management systems.
+
+---
+
+### 2026-06-09 09:28:38  #MKT News #Important #Market Themes #Chip Wars #Market Regions #Greater China
+
+A-share MLCC-related stocks surged, with Kangda Xincai hitting the daily trading limit and Dongcai Technology rising more than 8%; Shangluo Electronics, Liyuan Information, Guoci Materials and Wanwei Gaoxin also advanced. Shenzhen Huaqiang said multiple components — including memory, power-management chips, analog chips and multilayer ceramic capacitors (MLCCs) — are experiencing shortages and price increases.
+
+---
+
+### 2026-06-09 09:28:34  #公司
+
+【曹操出行計劃組建獨立AI事業部 擬全面轉型為AI原生公司】記者獲悉，曹操出行計劃組建獨立AI事業部，全面推進公司AI戰略落地，完成從移動網際網路公司到AI原生公司的關鍵轉型。同時，記者注意到，該公司近期已在招聘平臺上線“首席AI官”崗位，崗位職責包括：制定AI戰略與技術路線、構建AI核心能力體系、推動業務全鏈路AI賦能等。（科創板日報）
+
+---
+
+### 2026-06-09 09:28:21  #公司 #市場
+
+【PCB概念板塊高開，金安國紀漲停】PCB概念板塊高開，金安國紀、聖泉集團、康達新材漲停，銀禧科技、同宇新材、瑞華泰漲超10%，東材科技、美聯新材、世名科技、國際復材、雅葆軒跟漲。
+
+---
+
+### 2026-06-09 09:28:13  #公司 #市場
+
+【港股人工智慧概念股走強 海致科技集團漲超8%】截至發稿，海致科技集團(02706.HK)漲8.30%，瀾起科技(06809.HK)漲6.22%，兆易創新(03986.HK)漲4.32%，壁仞科技(06082.HK)漲2.19%。
+
+---
+
+### 2026-06-09 09:27:56  #公司 #市場
+
+【港股AI應用股走強 微盟集團漲近9%】截至發稿，微盟集團(02013.HK)漲8.97%，赤子城科技(09911.HK)漲8.73%，諾比坎(02718.HK)漲4.58%。
+
+---
+
+### 2026-06-09 09:27:10  #MKT News #Important #CSI300 #Impact bearish
+
+【Israel-Iran ceasefire; A-share oil services and engineering sector slides】A-share oilfield services and engineering stocks slid after Israeli Prime Minister Netanyahu said on the 8th Israel would temporarily halt strikes on Iran after Iran stopped firing. Keli fell over 11%, Tongyuan Petroleum dropped more than 4%; Qianeng Hengxin, Zhongman Petroleum, Bekan Energy and China Oil Engineering also declined.
+
+---
+
+### 2026-06-09 09:27:04  #公司
+
+油服工程板塊大幅回撥，科力股份跌超11%，通源石油跌超4%，潛能恆信、中曼石油、貝肯能源、中油工程等個股跟跌。
+
+---
+
+### 2026-06-09 09:26:50  #公司 #市場
+
+【儲存晶片板塊高開，聖泉集團漲停】儲存晶片板塊高開，聖泉集團漲停，盈方微、東芯股份、商絡電子、華特氣體、博敏電子跟漲。
+
+---
+
+### 2026-06-09 09:26:28  #Trading Economics #Economy #Philippines #Unemployment Rate #Importance 2
+
+Philippines Jobless Rate Falls to 4.7% — The unemployment rate in the Philippines fell to 4.7% in April 2026, the lowest level in four months, from 5.0% in March. The number of unemployed persons fell to 2.41 million from 2.58 million in the previous month. Meanwhile, the employment rate rose to 95.3% from 95.0%, with total employment reaching 48.89 million. The labor force participation rate declined to 62.7% from 63.3% in March. On a sectoral basis, employment gains were led by agriculture and forestry, wholesale and retail trade, and accommodation and food service activities, while job losses were recorded in other service activities, public administration and defense, and administrative and support services. By share of total employment, services accounted for 62.3%, followed by agriculture at 19.4% and industry at 18.3%. Wage and salary workers made up 64.4% of total employment, mostly in private establishments. Average weekly hours worked increased to 40.2 from 39.9.
+
+---
+
+### 2026-06-09 09:25:46  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+China A-shares opened higher: Shanghai Composite +0.46%, Shenzhen Composite +1.16%, ChiNext Index +1.41%. MLCC, memory chips, semiconductors and optical fiber sectors led gains; oilfield services/engineering and coal underperformed.
+
+---
+
+### 2026-06-09 09:25:45  #焦點 #A股
+
+三大股指高開，滬指漲0.46％，深成指漲1.16％，創業板漲1.41％。
+
+---
+
+### 2026-06-09 09:25:18  #MKT News #Market Themes #AI Revolution
+
+【Apollo, Blackstone agree $35bn private credit package to fund Anthropic growth】Financial Times reports Apollo Global Management and Blackstone have agreed a $35bn private credit package to finance Anthropic’s growth plans. Proceeds will be used to help Anthropic purchase chips developed by Alphabet. The deal, led by the two private-equity firms, is among the largest private-credit financings to date and underscores investor willingness to fund AI-related data‑centre infrastructure and compute for firms including Anthropic, OpenAI and Meta. Apollo and Blackstone did not respond to requests for comment.
+
+---
+
+### 2026-06-09 09:24:36  #公司
+
+【安寧股份：年產5萬噸磷酸鐵專案正在裝置除錯階段】安寧股份6月9日在互動平臺回覆稱，年產6萬噸能源級鈦（合金）材料全產業鏈專案正在全力推進建設中，年產5萬噸磷酸鐵專案正在裝置除錯階段。
 
 ---
 
@@ -22576,99 +22678,5 @@ South Korea's Naver will adopt NVIDIA technology to build a gigawatt-scale AI fa
 ### 2026-06-08 07:00:52  #其他 #焦點
 
 英偉達與SK海力士宣佈達成多年技術合作關係，共同升級人工智慧工廠的儲存技術。
-
----
-
-### 2026-06-08 06:59:53  #國際
-
-【伊朗稱對以色列發起防禦性打擊】當地時間6月7日晚，北京時間今天（6月8日）凌晨，伊朗向以色列發射三波導彈。以色列北部城市海法等多地拉響防空警報，並傳出爆炸聲。伊朗外交部最新發表關於“對以色列目標進行防禦性打擊”的宣告。宣告指出，鑑於以色列屢次違反停火協議，並對黎巴嫩和伊朗採取侵略行動，包括與美國一起在過去兩週內襲擊伊朗南部地區的船隻和目標、對伊朗進行海上劫掠，伊朗武裝部隊於當地時間6月7日晚，對以色列北部多個軍事目標進行了打擊。伊朗強調將堅決捍衛國家安全和國家利益。美國應對以色列違反停火協議及造成的後果，以及該地區緊張局勢的升級負有直接責任。伊朗警告稱，以色列任何對伊朗和黎巴嫩的冒險行為都將遭到伊朗武裝部隊的全面回擊。（CCTV國際時訊）
-
----
-
-### 2026-06-08 06:59:12  #國際
-
-日本放送協會民調：高市內閣支援率下降4.2個百分點，降至70%。
-
----
-
-### 2026-06-08 06:57:47  #國際
-
-市場資訊：以色列總理內塔尼亞胡在與特朗普的通話中試圖反對“不對伊朗進行報復的要求”，但最終還是接受了。
-
----
-
-### 2026-06-08 06:55:17  #MKT News
-
-Zelenskiy said he has informed British Prime Minister Starmer of the need to increase missiles for Ukraine’s air-defense systems.
-
----
-
-### 2026-06-08 06:54:48  #國際
-
-烏克蘭總統澤連斯基：我已告知英國首相斯塔默，烏克蘭需要增購防空系統所用導彈。
-
----
-
-### 2026-06-08 06:53:56  #MKT News #Important
-
-Al Jazeera, citing Israel’s Channel 12, reported Netanyahu tried to oppose Trump’s "request not to retaliate against Iran" on a call but ultimately accepted it.
-
----
-
-### 2026-06-08 06:53:19  #其他
-
-巴基斯坦訊息人士透露，美伊談判結果非此即彼，要麼迅速達成協議，要麼徹底破裂。
-
----
-
-### 2026-06-08 06:53:17  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Stocks Start the Week Lower — The NZX 50 fell 204 points, or 1.6%, to 12,958 in Monday morning trading, halting gains from the previous session and touching its lowest level since May 22, tracking a downbeat session on Wall Street on Friday due to a steep selloff in semiconductor shares. Worries about the possibility of renewed tensions between the US and Iran also pressured sentiment after Iran struck Israel, though US President Trump called on Israeli Prime Minister Netanyahu not to retaliate against Iran. Traders also awaited the release of US inflation data and China's inflation and trade balance figures, as well as New Zealand business PMI data later this week. Industrials, financial, healthcare, and utilities stocks mainly weighed on the index, with notable losses from Auckland International Airport (-2.8%), Fletcher Building (-1.9%), Infratil (-1.8%), Mainfreight (-1.6%), and Ebos Group (-1.5%), while Fisher & Paykel Healthcare and Freightways Group each dropped 1.3%.
-
----
-
-### 2026-06-08 06:52:27  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #DXY #Impact bullish #EURUSD #Impact bearish #S&P500
-
-【This week: US and China CPI, ECB and BOC meetings; SpaceX IPO; Apple and Huawei developer events】Tuesday — China releases May trade balance; Germany posts April seasonally adjusted trade balance and monthly industrial output; US reports April trade balance, NFIB small-business survey, ADP payrolls and May existing-home sales. Apple WWDC runs through June 13. Wednesday — US releases May CPI; API and EIA weekly crude inventories and EIA short-term energy outlook due; China slated to publish May CPI, PPI and M2 (timing TBA). BOC interest-rate decision with governor and senior deputy governor press briefing. Oracle reports quarterly results. Thursday — US initial jobless claims and May PPI; EIA weekly natural gas inventory; US 10-year Treasury auction. ECB rate decision and press conference; OPEC monthly report. Friday — Germany and France release May CPI; UK posts April three‑month GDP, manufacturing output and industrial production. US preliminary 1‑year inflation expectation and University of Michigan consumer sentiment (prelim). Friday events: Huawei developer conference; SpaceX IPO on Nasdaq. Saturday — Baker Hughes US rig count for week to June 12.
-
----
-
-### 2026-06-08 06:51:25  #央行 #資料 #國際
-
-【週一重要財經資訊提醒（以下均為北京時間）】 
-① 07:50 日本一季度實際GDP終值、日本4月貿易帳；
-② 14:00 德國4月工廠訂單；
-③ 16:30 歐元區6月Sentix投資者信心指數；
-④ 23:00 美國5月紐約聯儲1年通脹預期。
-
----
-
-### 2026-06-08 06:45:03  #國際
-
-伊朗表示，其針對以色列目標的防禦性打擊屬於《聯合國憲章》規定的合法自衛行為。
-
----
-
-### 2026-06-08 06:41:36  #公司
-
-OpenAI執行長奧特曼表示，在企業普遍收緊預算的背景下，企業端人工智慧token使用量大幅激增。
-
----
-
-### 2026-06-08 06:37:08  #國際
-
-訊息人士：美國要求以色列暫緩行動數日，為達成協議留出空間；若談判破裂，雙方將執行聯合行動方案。
-
----
-
-### 2026-06-08 06:36:43  #國際
-
-以色列媒體：以色列或推遲數日發動打擊，不會在今晚採取行動，原因是遭到特朗普反對。
-
----
-
-### 2026-06-08 06:36:11  #國際
-
-葉門胡塞武裝宣稱，以色列的侵略時代已然終結，並表示該政權只認同武力。
 
 ---

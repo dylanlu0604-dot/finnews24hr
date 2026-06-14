@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-15 06:36:10_
-_本檔包含 3550 則快訊，約 661900 字_
+_更新時間：2026-06-15 06:59:58_
+_本檔包含 3550 則快訊，約 662915 字_
+
+---
+
+### 2026-06-10 12:00:45  #公司 #國際
+
+現代汽車印度公司公佈火災事故最新進展：浦那工廠及金奈二號工廠生產運營基本未受影響；現代汽車印度公司金奈一號工廠預計將於2025年6月15日前恢復正常生產節奏。
+
+---
+
+### 2026-06-10 12:00:44  #Trading Economics #Markets #Commodity #Importance 2
+
+Aluminum Drops to 1-Month Low — Aluminum futures in the UK dropped as much as 1.4% toward $3,500 per tonne in Asian trading, the lowest in a month, as fresh US strikes against Iran and prospects of higher US interest rates weighed on the demand outlook. Persistent geopolitical tensions have fueled inflation concerns and increased the likelihood of tighter monetary policy, raising fears of slower global growth and weaker demand for industrial metals. Still, prices remain more than 19% higher year-to-date amid tightening supply conditions as aluminum exports from the Persian Gulf remain constrained. Supply risks have been further exacerbated by direct attacks on major refining facilities in the region. EGA’s flagship smelter is expected to take up to a year to return to full capacity, while operations at Bahrain’s ALBA facility remain partially suspended.
+
+---
+
+### 2026-06-10 12:00:22  #其他
+
+【自然資源部：2025年中國海洋經濟發展指數為128.8】自然資源部今天釋出的《2026中國海洋經濟發展指數》顯示，去年，中國海洋經濟發展指數為128.8，比上年增長2.2%，海洋經濟發展向新向優。
+
+---
+
+### 2026-06-10 11:59:31  #MKT News #Market Themes #China EV Leaders #AI Revolution #XPEV.O #Impact bullish
+
+【Xpeng CEO He Xiaopeng to personally lead humanoid robot unit; final 200-day sprint to mass production】June 10 — Xpeng CEO He Xiaopeng said in an internal memo he will personally take direct charge of the company’s humanoid robot unit and, effective immediately, will concurrently serve as the robot business “CEO”. He described the program as at a critical stage—comparable to Xpeng Auto eight years ago before the G3 launch—and said the company is on the threshold of mass production and commercialization, initiating a final 200-day sprint to ramp production.
+
+---
+
+### 2026-06-10 11:59:22  #公司
+
+【華金資本：未直接投資芯潮流，相關投資對公司盈利無重大影響】華金資本6月10日在互動平臺表示，公司及控股子公司未直接投資芯潮流（珠海）科技有限公司；公司子公司管理的基金參與了該公司的投資，現階段不會對公司盈利狀況構成重大影響。截至目前，公司現有電容產品不涉及AI伺服器。
+
+---
+
+### 2026-06-10 11:59:16  #央行 #國際
+
+印尼央行：仍認為印尼盾匯率與政府預期一致，維持在16,800-17,500之間。
+
+---
+
+### 2026-06-10 11:58:54  #其他
+
+【悉尼邦迪灘槍擊案嫌疑人被加控19項罪名】澳大利亞聯邦檢方10日在悉尼唐寧中心地方法院說，已提交檔案對涉嫌參與去年12月悉尼邦迪灘槍擊案嫌疑人納維德·阿克拉姆追加19項罪名指控。根據法庭記錄，這些新指控包括10項“意圖謀殺而開槍”罪名、6項“意圖拒捕而開槍”罪名以及3項“意圖謀殺而致人受傷或嚴重身體傷害”罪名。其辯護律師萊奧妮·吉塔尼表示，阿克拉姆知道他可能面臨更多指控。她表示，阿克拉姆尚未認罪。悉尼邦迪灘去年12月發生槍擊事件，造成包括1名作案嫌疑人在內的16人死亡。
+
+---
+
+### 2026-06-10 11:58:35  #央行 #國際
+
+印尼央行預計，印尼經濟增長將達到2027年目標區間的高階。
+
+---
+
+### 2026-06-10 11:58:00  #Trading Economics #Economy #Indonesia #Consumer Confidence #Importance 1
+
+Indonesia Consumer Sentiment at 8-Month Low — Indonesia’s consumer confidence index fell to 120.9 in May 2026 from 123 in the previous month, marking its lowest level since September 2025. The moderation was largely driven by weaker assessments of current economic conditions, which fell by 4.3 points to 112.2. Sentiment toward durable goods purchases also declined by 4.3 points to 108.3, while perceptions of job availability over the past six months fell by 3.8 points to 105. Moreover, expectations for income over the next six months eased by 0.4 points to 136.5. In contrast, expectations regarding job availability and business activity improved marginally, with both indices rising by 0.4 points to 128.1 and 124.5, respectively. Despite the decline, overall consumer sentiment remained firmly in optimistic territory, indicating continued confidence in the economic outlook.
+
+---
+
+### 2026-06-10 11:57:27  #其他
+
+【何小鵬發內部信：本人親自帶隊，最後200天衝刺機器人量產】6月10日，何小鵬發出內部信，宣告自己將親自下場直管機器人業務。何小鵬在內部信中稱，小鵬人形機器人現在所處的階段尤為關鍵，相當於8年前小鵬汽車即將完成第一款車G3釋出的階段，正站在量產交付的門檻上。
+
+---
+
+### 2026-06-10 11:56:49  #公司
+
+【SK海力士將在綜合評估後選定下一座晶片工廠選址】6月10日，據報道，SK集團會長崔泰源表示，SK海力士將在全面評估後決定下一座晶片工廠的選址。其表示，隨著晶片需求持續增長，SK最終必須擴大產能。
+
+---
+
+### 2026-06-10 11:56:04  #Trading Economics #Markets #South Korea #Currency #Importance 1
+
+South Korean Won Extends Recovery — The South Korean won traded near 1,523 per dollar, extending gains for a third straight session, as authorities stepped up efforts to stabilize the foreign exchange market. The Bank of Korea and the Financial Supervisory Service launched joint inspections of major foreign-exchange banks for the first time in 14 years, following recent warnings against excessive volatility and speculative trading. Authorities said the inspections would examine whether market participants engaged in activities that destabilized the foreign exchange market or sought to secure improper gains by influencing exchange rates. The currency also continued to recover after sliding to its weakest level since 2009 last week, as traders unwound bearish positions following recent stabilization measures. However, gains were limited by renewed tensions between the US and Iran after Washington launched new strikes against Tehran, boosting demand for the US dollar and pushing oil prices higher.
+
+---
+
+### 2026-06-10 11:56:00  #其他
+
+【第二艘國產大型郵輪11月廣州首航】今日，愛達郵輪（Adora Cruises）宣佈，奧運跳水冠軍郭晶晶將擔任第二艘國產大型郵輪“愛達·花城號”的啟航大使。“愛達·花城號”將於11月6日正式交付，並於11月22日從廣州南沙國際郵輪母港開啟首航。“愛達·花城號”全長341米，總噸位達14.19萬噸，擁有2130間豪華客房和套房，滿載可容納5232名賓客。以廣州為母港運營“愛達·花城號”，將有效強化華南郵輪母港叢集功能，帶動港口服務、交通接駁、酒店餐飲、旅遊零售、物資採購、人才培養等全產業鏈協同發展，助力粵港澳大灣區打造世界級郵輪經濟圈。 （廣州日報）
+
+---
+
+### 2026-06-10 11:55:13  #市場 #國際
+
+韓國基準股指下跌4.4%，報7744.18點。
+
+---
+
+### 2026-06-10 11:55:06  #公司 #資料
+
+【陝西首例加工貿易賬冊遠端影片核查落地】西安海關所屬寶雞海關日前對陝西西格瑪創意科技有限公司開展了加工貿易賬冊遠端影片盤庫核查，標誌著遠端影片核查這一新型監管模式在陝西加工貿易領域成功落地。 陝西西格瑪創意科技有限公司負責人龔高波說：“海關採用遠端影片盤庫，沒有影響我們正常生產，進一步降低了經營成本。” 遠端影片核查是海關總署在全國推廣的一項便利化改革措施。對比傳統線下實地核查，該模式顯著提升了海關核查服務效能。（陝西釋出）
+
+---
+
+### 2026-06-10 11:54:41  #公司
+
+【南京醫藥等成立股權投資基金公司 註冊資本7.5億】天眼查App顯示，近日，南京醫藥集團強鏈一號股權投資基金有限公司成立，法定代表人為彭玉萍，註冊資本7.5億人民幣，經營範圍為股權投資，以私募基金從事股權投資、投資管理、資產管理等活動，企業管理諮詢，由南京醫藥（600713）、南京新工醫療健康強鏈併購股權投資基金合夥企業（有限合夥）、南京新工新興產業投資管理有限公司共同持股。
+
+---
+
+### 2026-06-10 11:54:02  #國際
+
+【哥斯大黎加西北部海域發生5.1級地震】據歐洲-地中海地震中心初步監測，當地時間6月9日21時01分，哥斯大黎加西北部城市利韋里亞西南約70公里處海域發生5.1級地震。
 
 ---
 
@@ -21274,107 +21376,5 @@ Australia | NAB Business conditions Index (May) | actual 3 | previous 3
 ### 2026-06-09 09:29:28  #MKT News #000001.SS #Impact bullish #000300.SS
 
 A-shares PCB concept stocks opened higher. Jin'an Guoji, Shengquan Group and Kangda New Materials hit limit-up; Yinxikeji, Tongyu New Materials and Ruihuatai rose over 10%. Dongcai Technology, Meilian New Materials, Shiming Technology, International Composite and Yabaoxuan also gained.
-
----
-
-### 2026-06-09 09:29:13  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
-
-At the open on Tuesday June 9, China's Shanghai Composite Index rose 18.2 points, or 0.46%, to 3,977.54; Shenzhen Composite was up 171.36 points, or 1.16%, at 14,992.55. The CSI 300 index advanced 29.81 points, or 0.63%, to 4,743.45. ChiNext gained 53.91 points, or 1.41%, to 3,865.69, while the STAR 50 Index rose 33.66 points, or 2.11%, to 1,630.23.
-
----
-
-### 2026-06-09 09:29:03  #市場 #焦點
-
-紐約期金突破4360美元/盎司，日內跌0.07%。
-
----
-
-### 2026-06-09 09:28:49  #公司 #市場
-
-N高特電子首日上市高開近800%，公司主要從事新型儲能電池管理系統產品的研發、生產和銷售。
-
----
-
-### 2026-06-09 09:28:42  #MKT News
-
-N Gaote Electronics opened nearly 800% higher on its first trading day. The company develops, manufactures and sells new energy-storage battery management systems.
-
----
-
-### 2026-06-09 09:28:38  #MKT News #Important #Market Themes #Chip Wars #Market Regions #Greater China
-
-A-share MLCC-related stocks surged, with Kangda Xincai hitting the daily trading limit and Dongcai Technology rising more than 8%; Shangluo Electronics, Liyuan Information, Guoci Materials and Wanwei Gaoxin also advanced. Shenzhen Huaqiang said multiple components — including memory, power-management chips, analog chips and multilayer ceramic capacitors (MLCCs) — are experiencing shortages and price increases.
-
----
-
-### 2026-06-09 09:28:34  #公司
-
-【曹操出行計劃組建獨立AI事業部 擬全面轉型為AI原生公司】記者獲悉，曹操出行計劃組建獨立AI事業部，全面推進公司AI戰略落地，完成從移動網際網路公司到AI原生公司的關鍵轉型。同時，記者注意到，該公司近期已在招聘平臺上線“首席AI官”崗位，崗位職責包括：制定AI戰略與技術路線、構建AI核心能力體系、推動業務全鏈路AI賦能等。（科創板日報）
-
----
-
-### 2026-06-09 09:28:21  #公司 #市場
-
-【PCB概念板塊高開，金安國紀漲停】PCB概念板塊高開，金安國紀、聖泉集團、康達新材漲停，銀禧科技、同宇新材、瑞華泰漲超10%，東材科技、美聯新材、世名科技、國際復材、雅葆軒跟漲。
-
----
-
-### 2026-06-09 09:28:13  #公司 #市場
-
-【港股人工智慧概念股走強 海致科技集團漲超8%】截至發稿，海致科技集團(02706.HK)漲8.30%，瀾起科技(06809.HK)漲6.22%，兆易創新(03986.HK)漲4.32%，壁仞科技(06082.HK)漲2.19%。
-
----
-
-### 2026-06-09 09:27:56  #公司 #市場
-
-【港股AI應用股走強 微盟集團漲近9%】截至發稿，微盟集團(02013.HK)漲8.97%，赤子城科技(09911.HK)漲8.73%，諾比坎(02718.HK)漲4.58%。
-
----
-
-### 2026-06-09 09:27:10  #MKT News #Important #CSI300 #Impact bearish
-
-【Israel-Iran ceasefire; A-share oil services and engineering sector slides】A-share oilfield services and engineering stocks slid after Israeli Prime Minister Netanyahu said on the 8th Israel would temporarily halt strikes on Iran after Iran stopped firing. Keli fell over 11%, Tongyuan Petroleum dropped more than 4%; Qianeng Hengxin, Zhongman Petroleum, Bekan Energy and China Oil Engineering also declined.
-
----
-
-### 2026-06-09 09:27:04  #公司
-
-油服工程板塊大幅回撥，科力股份跌超11%，通源石油跌超4%，潛能恆信、中曼石油、貝肯能源、中油工程等個股跟跌。
-
----
-
-### 2026-06-09 09:26:50  #公司 #市場
-
-【儲存晶片板塊高開，聖泉集團漲停】儲存晶片板塊高開，聖泉集團漲停，盈方微、東芯股份、商絡電子、華特氣體、博敏電子跟漲。
-
----
-
-### 2026-06-09 09:26:28  #Trading Economics #Economy #Philippines #Unemployment Rate #Importance 2
-
-Philippines Jobless Rate Falls to 4.7% — The unemployment rate in the Philippines fell to 4.7% in April 2026, the lowest level in four months, from 5.0% in March. The number of unemployed persons fell to 2.41 million from 2.58 million in the previous month. Meanwhile, the employment rate rose to 95.3% from 95.0%, with total employment reaching 48.89 million. The labor force participation rate declined to 62.7% from 63.3% in March. On a sectoral basis, employment gains were led by agriculture and forestry, wholesale and retail trade, and accommodation and food service activities, while job losses were recorded in other service activities, public administration and defense, and administrative and support services. By share of total employment, services accounted for 62.3%, followed by agriculture at 19.4% and industry at 18.3%. Wage and salary workers made up 64.4% of total employment, mostly in private establishments. Average weekly hours worked increased to 40.2 from 39.9.
-
----
-
-### 2026-06-09 09:25:46  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
-
-China A-shares opened higher: Shanghai Composite +0.46%, Shenzhen Composite +1.16%, ChiNext Index +1.41%. MLCC, memory chips, semiconductors and optical fiber sectors led gains; oilfield services/engineering and coal underperformed.
-
----
-
-### 2026-06-09 09:25:45  #焦點 #A股
-
-三大股指高開，滬指漲0.46％，深成指漲1.16％，創業板漲1.41％。
-
----
-
-### 2026-06-09 09:25:18  #MKT News #Market Themes #AI Revolution
-
-【Apollo, Blackstone agree $35bn private credit package to fund Anthropic growth】Financial Times reports Apollo Global Management and Blackstone have agreed a $35bn private credit package to finance Anthropic’s growth plans. Proceeds will be used to help Anthropic purchase chips developed by Alphabet. The deal, led by the two private-equity firms, is among the largest private-credit financings to date and underscores investor willingness to fund AI-related data‑centre infrastructure and compute for firms including Anthropic, OpenAI and Meta. Apollo and Blackstone did not respond to requests for comment.
-
----
-
-### 2026-06-09 09:24:36  #公司
-
-【安寧股份：年產5萬噸磷酸鐵專案正在裝置除錯階段】安寧股份6月9日在互動平臺回覆稱，年產6萬噸能源級鈦（合金）材料全產業鏈專案正在全力推進建設中，年產5萬噸磷酸鐵專案正在裝置除錯階段。
 
 ---

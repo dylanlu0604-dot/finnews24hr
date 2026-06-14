@@ -1,7 +1,255 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-15 06:36:10_
-_本檔包含 3880 則快訊，約 662172 字_
+_更新時間：2026-06-15 06:59:58_
+_本檔包含 3903 則快訊，約 662932 字_
+
+---
+
+### 2026-06-15 06:57:59  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Iran's National Security Council said the maritime blockade against Iran will end immediately and in full.
+
+---
+
+### 2026-06-15 06:57:37  #國際
+
+伊朗國家安全委員會表示，針對伊朗的海上封鎖必須立即、全面終止。
+
+---
+
+### 2026-06-15 06:57:15  #MKT News
+
+Iran's National Security Council said final-agreement negotiations will begin only after the other party fulfills its commitments under the memorandum of understanding.
+
+---
+
+### 2026-06-15 06:57:01  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+Iran's Supreme National Security Council said it will, effective tonight, immediately and permanently cease all combat and military operations, including in Lebanon.
+
+---
+
+### 2026-06-15 06:56:58  #國際
+
+伊朗稱最終協議談判將在對方履行諒解備忘錄承諾後啟動。
+
+---
+
+### 2026-06-15 06:56:41  #焦點 #國際
+
+伊朗最高國家安全委員會表示，包括黎巴嫩在內的所有戰線的戰爭和軍事行動將從今晚起立即並永久停止。
+
+---
+
+### 2026-06-15 06:56:30  #其他
+
+英國外交大臣庫珀：霍爾木茲海峽的無害通航自由必須儘快恢復。
+
+---
+
+### 2026-06-15 06:56:30  #MKT News
+
+Iran's National Security Council said it will sign a memorandum of understanding on June 19.
+
+---
+
+### 2026-06-15 06:56:17  #焦點 #國際
+
+伊朗國家安全委員會表示，該諒解備忘錄將於6月19日星期五簽署。
+
+---
+
+### 2026-06-15 06:56:12  #MKT News
+
+Iran's Supreme National Security Council says it has completed the text of a memorandum of understanding with the United States.
+
+---
+
+### 2026-06-15 06:56:00  #焦點 #國際
+
+伊朗國家安全委員會稱，伊朗與美國之間諒解備忘錄的文字已最終敲定。
+
+---
+
+### 2026-06-15 06:55:47  #公司 #國際
+
+英國外交大臣庫珀：對美國與伊朗達成協議的公告表示熱烈歡迎。
+
+---
+
+### 2026-06-15 06:54:49  #國際
+
+基輔市長稱，基輔洞窟修道院遭空襲後起火。
+
+---
+
+### 2026-06-15 06:53:25  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【Iran says gains far exceed commitments】Iran’s deputy foreign minister Gharibabadi said the Islamabad memorandum (an Iran–U.S. understanding) has been finalized and will be signed in Switzerland on June 19. He said two measures take effect immediately from this morning: an immediate, permanent end to hostilities on all fronts, including Lebanon, and the U.S. lifting and terminating its maritime blockade of Iran. Iranian commitments will begin on signing; after a ceasefire, U.S. lifting of the blockade and frozen Iranian assets begin to thaw, both sides will enter a 60‑day negotiation period to finalise an agreement covering nuclear issues, U.S. sanctions relief, reconstruction of Iran’s economic mechanisms and verification arrangements. Gharibabadi warned Iran will respond if the other side defaults and said Iranian forces remain “finger on the trigger.” Iran’s Supreme National Security Council will issue a related statement; Iran said its gains far exceed its commitments.
+
+---
+
+### 2026-06-15 06:50:59  #MKT News
+
+UK, France, Germany and Italy leaders issued a joint statement reaffirming full support for Lebanon's stability, sovereignty and territorial integrity and stressing the importance of a strong ceasefire.
+
+---
+
+### 2026-06-15 06:50:50  #其他
+
+聯合國負責人對美伊達成協議表示歡迎，稱這是邁向和平的關鍵一步。
+
+---
+
+### 2026-06-15 06:49:58  #其他
+
+英、法、德、意E4領導人聯合宣告：重申全力支援黎巴嫩的穩定、主權與領土完整，同時重申達成強有力停火的重要性。
+
+---
+
+### 2026-06-15 06:49:38  #MKT News #Market Regions #Europe & UK
+
+Leaders of the UK, France, Germany and Italy said in a joint statement they are prepared to cooperate with the US, Iran and the IAEA.
+
+---
+
+### 2026-06-15 06:49:36  #MKT News #WTI #Impact bearish #Brent
+
+UK, France, Germany and Italy leaders said in a joint statement there is an urgent need to reopen the Strait of Hormuz unconditionally and without restrictions.
+
+---
+
+### 2026-06-15 06:49:33  #國際
+
+英、法、德、意E4領導人聯合宣告：隨時準備與美國、伊朗及國際原子能機構合作，以實現這一（伊朗核計劃）目標。
+
+---
+
+### 2026-06-15 06:49:00  #Trading Economics #Economy #New Zealand #Credit Card Spending #Importance 1
+
+New Zealand Credit Card Spending Rebounds — Seasonally adjusted electronic card transactions in New Zealand grew 1.7% month-over-month in May 2026, recovering from a downwardly revised 1.2% fall in the previous month.
+
+---
+
+### 2026-06-15 06:48:26  #MKT News #Market Regions #Europe & UK #WTI #Impact bearish #Brent
+
+Leaders of the UK, France, Germany and Italy said in a joint statement that Iran must never acquire nuclear weapons. They said they are prepared to lift relevant sanctions once Iran implements clear, verifiable measures on its nuclear program.
+
+---
+
+### 2026-06-15 06:48:24  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Kyiv mayor says air strikes knocked out power for about 140,000 residents and damaged transmission lines.
+
+---
+
+### 2026-06-15 06:48:04  #其他
+
+英、法、德、意E4領導人聯合宣告：霍爾木茲海峽急需重新開放，實現無條件、無限制航行自由至關重要。
+
+---
+
+### 2026-06-15 06:47:51  #國際
+
+基輔市長稱，空襲導致14萬居民斷電，電力線路受損。
+
+---
+
+### 2026-06-15 06:47:22  #國際
+
+英、法、德、意E4領導人聯合宣告：已做好準備，若伊朗在其核計劃方面採取明確、可核查的措施，我們將解除相關制裁。
+
+---
+
+### 2026-06-15 06:47:01  #國際
+
+英、法、德、意E4領導人聯合宣告：伊朗絕不能獲取核武器。
+
+---
+
+### 2026-06-15 06:46:20  #公司 #國際
+
+英、法、德、意E4領導人聯合宣告：對美國與伊朗達成諒解備忘錄的公告表示熱烈歡迎。
+
+---
+
+### 2026-06-15 06:45:42  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+【Iranian media published detailed terms of 14-point Iran–US memorandum】Iranian media published detailed terms of a 14-point Iran–US memorandum. Key points: immediate and permanent ceasefire on all fronts, including Lebanon; US pledge not to interfere in Iran’s internal affairs and to respect Iranian sovereignty; full lifting of a maritime blockade and reopening of the Strait of Hormuz within 30 days under arrangements agreed by Iran; US commitment to withdraw forces from around Iran; suspension of sanctions on Iranian oil, petrochemicals and derivatives and restoration of Iran’s full access to its financial resources; US and allies to provide at least $300 billion for Iran’s reconstruction; a final nuclear agreement to be reached within 60 days with full lifting of primary and secondary US sanctions and relevant UN Security Council and IAEA board resolutions; Iran reiterates its NPT commitment not to develop nuclear weapons; during negotiations the US will not deploy additional regional forces or impose new sanctions; during the 60-day final negotiation period $24 billion of Iran’s frozen funds will be released, half of which must be delivered before talks begin; a monitoring mechanism will be established; the final deal will require UN Security Council approval; final negotiations will only start after half of the frozen funds are unfrozen, oil sanctions are suspended and the maritime blockade is lifted; the final accord will be limited to the future of enriched uranium/materials and enrichment processes, sanctions relief and Iran’s economic reconstruction plan; issues relating to Iran’s missile program and support for resistance groups have been removed from the agenda.
+
+---
+
+### 2026-06-15 06:44:38  #市場
+
+澳大利亞3年期國債收益率跌5個基點。
+
+---
+
+### 2026-06-15 06:43:54  #觀點
+
+【外資巨頭下半年展望：AI超級週期未結束，重新審視避險資產】2026年即將過半，全球市場波動加劇。展望下半年，摩根士丹利、貝萊德、富達國際、KKR等多家外資機構給出了各自的答案。梳理發現，在地緣局勢、能源安全和貿易格局重塑的大背景下，儘管各家機構關注重點有所不同，但對於下半年市場主線卻形成了高度共識：AI資本開支超級週期遠未結束，科技自主可控、高階製造和能源轉型成為當下的投資主線，而中國資產在這一輪產業變遷中的戰略地位正在持續提升。（中證報）
+
+---
+
+### 2026-06-15 06:40:15  #Trading Economics #Economy #New Zealand #Composite PMI #Importance 0
+
+New Zealand Composite PMI Hits 1-Year Low — The BusinessNZ Performance of Composite Index dropped to 48.4 in May 2026 from a downwardly revised 49.2 in the previous month. It marked the third straight contraction and the steepest pace since May 2025, as the services sector contracted for the fourth consecutive month, while manufacturing registered its first contraction in 11 months.
+
+---
+
+### 2026-06-15 06:38:35  #MKT News
+
+Iran's Mehr News Agency published details of a 14-point memorandum of understanding between Iran and the United States.
+
+---
+
+### 2026-06-15 06:38:09  #宏觀 #焦點 #國際
+
+伊美雙方這份共14項條款的諒解備忘錄草案披露最新內容，具體條款如下：
+1. 所有戰線即刻永久停火，黎巴嫩戰線包含在內。
+2. 美國承諾不干涉伊朗內政，尊重伊朗伊斯蘭共和國主權。
+3. 30日內全面解除海上封鎖。
+4. 美國承諾撤出部署在伊朗周邊的駐軍。
+5. 霍爾木茲海峽交由伊朗統籌管理，30日內恢復通航。
+6. 暫停針對伊朗石油、石化產品及相關衍生品的制裁，允許伊朗全額動用自身資金資產。
+7. 美國及其盟友須向伊朗提交總額不低於3000億美元的重建方案。
+8. 開展為期60天的談判，圍繞核問題敲定最終協議，全面解除美國一級、二級制裁，以及聯合國安理會、國際原子能機構理事會相關決議項下的制裁。
+9. 伊朗重申恪守《不擴散核武器條約》，承諾不研發核武器。
+10. 談判期間，美國承諾不在該地區增派兵力，也不再出臺新制裁措施。
+11. 在60天最終談判週期內，解凍伊朗被凍結的240億美元資產，其中半數資金需在談判啟動前撥付給伊朗。
+12. 設立協議執行監督機制。
+13. 最終協議需經聯合國安理會決議予以確認。
+14. 只有在伊朗半數被凍結資產解凍、石油相關制裁暫停、海上封鎖解除後，方能啟動最終談判。最終協議僅涉及濃縮材料與鈾濃縮活動處置、制裁解除、伊朗經濟重建方案三大內容，伊朗導彈計劃以及對抵抗組織的支援相關議題，徹底排除在談判議程之外。
+
+---
+
+### 2026-06-15 06:37:36  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【Multiple strong explosions heard in Kyiv; mayor reports drone attack】Early on the 15th, between 01:19 and 01:22 local time, Xinhua reporters in Kyiv heard multiple strong explosions. Kyiv Mayor Klitschko said the city was hit by a drone attack.
+
+---
+
+### 2026-06-15 06:37:28  #國際
+
+【烏克蘭首都基輔傳出多次強烈爆炸聲】當地時間15日凌晨1時19分至22分，新華社記者在基輔市聽到多次強烈爆炸聲。基輔市市長克利奇科稱市區遭到無人機襲擊。（新華社）
+
+---
+
+### 2026-06-15 06:36:52  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran’s deputy foreign minister said one condition for Iran to refrain from retaliating for Israel’s strike on the southern suburbs of Beirut is an Israeli withdrawal from southern Lebanon.
+
+---
+
+### 2026-06-15 06:36:45  #Trading Economics #Economy #New Zealand #Services PMI #Importance 1
+
+New Zealand Services Shrink for 4th Month — New Zealand’s BusinessNZ Performance of Services Index declined to 47.5 in May 2026 from a downwardly revised 48.7 in April, marking the fourth consecutive month of contraction in the services sector as the Iran war weighed on business activity.
+
+---
+
+### 2026-06-15 06:36:34  #國際
+
+【伊朗稱所獲成果遠大於承諾】當地時間6月15日凌晨，伊朗外交部副部長加里巴巴迪表示，“伊斯蘭堡諒解備忘錄（伊美諒解備忘錄）”文字已最終敲定，將於本週五（6月19日）在瑞士正式簽署。加里巴巴迪表示，從當地時間今天上午起將立即發生兩件事：第一，在所有戰線永久且立即結束戰爭，包括黎巴嫩戰線；第二，美國解除並終止對伊朗實施的海上封鎖。而伊朗方面的承諾將在本週五正式簽署後開始生效。 加里巴巴迪稱，在停火、美國解除海上封鎖、伊朗遭凍結資產開始解凍後，雙方將進入 60 天談判期，磋商最終協議。若“對方違約”，伊朗將採取相應措施，伊朗武裝部隊“一直緊扣扳機”。 加里巴巴迪說，在60天最終協議談判期間，雙方將談判核問題、美國解除對伊朗制裁、重建伊朗經濟機制以及對各方承諾的核查機制等。加里巴巴迪還證實，有關與美國協議的宣告將很快由伊朗最高國家安全委員會發布。屆時伊朗公眾將能夠看到伊朗的成果與承諾，“我們取得的成果遠大於承諾”。
 
 ---
 
@@ -23343,113 +23591,5 @@ European Stocks Rise by Over 1% on Friday — The Stoxx 50 and Stoxx 600 gained 
 ### 2026-06-12 15:23:14  #MKT News
 
 【Will sanctions on Philippine defense minister affect China's future aid? Foreign Ministry responds】June 12 — Foreign Ministry spokesperson Lin Jian said the ministry's website sets out the details of the decision to sanction Philippine defense minister Teodoro and his relatives. Asked by RUSSIA TODAY whether the sanctions would affect future Chinese aid to the Philippines, including fuel and supplies, Lin warned that allowing figures like Teodoro to repeatedly undermine efforts to stabilize bilateral ties would ultimately harm the Philippine state's and people's fundamental interests.
-
----
-
-### 2026-06-12 15:22:58  #公司
-
-【凱普生物：公司暫無埃博拉病毒檢測試劑】凱普生物(300639)6月12日在互動平臺回覆稱，公司暫無埃博拉病毒檢測試劑。
-
----
-
-### 2026-06-12 15:22:54  #行業 #焦點
-
-【周小全：將出臺實施《充分發揮直接融資功能 進一步加強科技金融服務的若干措施》】6月12日，上海市政府舉行市政府新聞釋出會，邀請上海市委金融辦、中國人民銀行上海總部、國家金融監督管理總局辦公廳、中國證監會上海證監局等相關負責同志出席，介紹2026陸家嘴論壇有關情況。
-
-上海市委金融辦常務副主任周小全介紹稱，下一步，我們將出臺實施《充分發揮直接融資功能 進一步加強科技金融服務的若干措施》，進一步加大對科技創新的金融支援力度。
-
-一是進一步發揮資本市場引領作用。支援企業對接多層次資本市場，用好併購重組、再融資等工具，推動更多“硬科技”企業登陸科創板，提高上市公司質量和投資價值。
-
-二是進一步發揮股權投資生力軍作用。打造股權投資集聚區，提升早期投資領投定價能力，完善股權投資接續機制，推動投早、投小、投長期、投硬科技。
-
-三是進一步發揮銀行信貸基礎支撐作用。研發專屬科技信貸產品，推動加強“滬科積分”評價結果運用，推進智慧財產權金融生態綜合試點。
-
-四是進一步發揮科技保險風險保障功能。支援創新藥械、首臺（套）重大技術裝備、智慧財產權等保險產品創新，強化對重大技術攻關與重點產業、未來產業與前沿科技、科技型中小企業等重點領域的保險保障。
-
-五是進一步打造“熱帶雨林”式科技金融政策生態。加快建設科創金融改革試驗區，發揮科創金融聯盟橋樑紐帶作用，支援建立科技金融業務盡職免責和長週期績效考核機制。
-
----
-
-### 2026-06-12 15:22:39  #MKT News #Important #Market Regions #Greater China
-
-【Zhou Xiaoqian: Shanghai to issue measures to boost direct financing and tech-finance services】Zhou Xiaoqian, executive deputy director of the Shanghai Municipal Financial Office, said the city will issue and implement measures to fully leverage direct financing and strengthen tech-finance services, stepping up financial support for technological innovation.
-
----
-
-### 2026-06-12 15:22:24  #Trading Economics #Economy #Turkey #Current Account #Importance 1
-
-Turkey Current Account Gap Smallest in 5 Months — Turkey’s current account posted a deficit of $5.70 billion in April 2026, the smallest shortfall since November 2025, narrowing from a deficit of $8.45 billion in the same month a year earlier. The goods account deficit shrank to $6.82 billion from $9.89 billion in April 2025, while the primary income gap stood at $2.40 billion, compared with $2.38 billion a year earlier. In contrast, the secondary income deficit widened to $0.15 billion from $0.10 billion. Meanwhile, the services account surplus eased to $3.67 billion from $3.94 billion. Excluding gold and energy, the current account registered a surplus of $0.32 billion. In the first four months of the year, the country recorded a current account deficit of $29.37 billion, up from $22.59 billion in the corresponding period of 2025.
-
----
-
-### 2026-06-12 15:22:07  #MKT News #Market Regions #Greater China
-
-【China ministry says Philippine defence minister's actions will harm Philippines, escalate bilateral dispute】China's Ministry of Foreign Affairs spokesperson Lin Jian, responding to a statement from Philippine defence minister Teodoro that he will remain in his post, said Teodoro is misrepresenting facts and staging politically motivated theatrics for personal gain. The ministry said such irresponsible actions by a small group are aggravating China-Philippines disputes, worsening bilateral relations and ultimately harming the interests of the Philippine state and people.
-
----
-
-### 2026-06-12 15:21:43  #國際
-
-【對菲律賓防長的制裁是否會影響中國未來對菲援助？外交部回應】6月12日，外交部發言人林劍主持例行記者會。今日俄羅斯記者提問，請問發言人，針對菲律賓防長特奧多羅的制裁是否會影響中國未來對菲律賓的援助，包括燃料和物資供應？“外交部網站公佈的對特奧多羅及其親屬實施制裁的決定，已經說明了有關的具體情況。”林劍強調，如果任由特奧多羅這樣的人一再破壞雙方穩定關係的努力，最終損害的只會是菲國家和人民的根本利益。（澎湃新聞）
-
----
-
-### 2026-06-12 15:21:38  #Trading Economics #Economy #Spain #Inflation Rate #Importance 1
-
-Spain Inflation Rate Steady at 3.2% in May — Spain's annual inflation rate was at 3.2% in May 2026, unchanged from the prior month and matching the preliminary estimate. Upward pressure from prices of transportation (7.4% vs 6.5% in April) and recreational activities, sport, and culture (2.6% vs 0.7%) was counterbalanced by softer food inflation (2.2% vs 2.6%) and falling clothing and footwear prices (-1.1% vs 1.4%). The core inflation rate, which excludes volatile items such as food and energy, ticked higher to 2.9% from 2.8% in the prior month. Meanwhile, the EU-harmonized annual rate edged up to 2.9% from 2.8% in April, also in line with expectations. On a monthly basis, consumer prices edged up 0.1%, down from a 0.4% increase in April, and the harmonized index also increased 0.1%, after a 0.7% rise in the month before, both matching early estimates.
-
----
-
-### 2026-06-12 15:21:37  #公司
-
-【長安汽車趙非：堆料式競爭已觸及天花板，現在比拼的是產品、服務，以及服務帶來的情緒價值】在2026中國汽車重慶論壇開幕全體會議上，中國長安汽車集團有限公司總經理趙非發表演講。他表示，當前中國汽車產業正處於一場深刻的變革，行業與市場競爭邏輯發生了根本性的變化。第一，智慧化邁入深水區，人工智慧全面賦能汽車產業，使用者需求正從“可用”向“好用”全面升級。隨著技術日益成熟，使用者已不滿足基本功能，而更看重實際體驗。第二，中國汽車品牌市場向海外延伸，出海成為品牌增長的核心增量路徑。第三，競爭從快速迭代的產品供給，轉向生態圈厚度的耐力比拼。他認為，應對這些變化，我們需要創新與韌性，以創新求突破，以韌性守底線，這才是汽車產業發展的根本。過去一些科技創新脫離了實際使用場景，使用者感知不到價值，甚至還有冗餘設計。”（新浪科技）
-
----
-
-### 2026-06-12 15:21:25  #國際
-
-【被制裁的菲律賓防長稱將“堅守本職”，外交部：撈取政治私利的表演】6月12日，外交部發言人林劍主持例行記者會。路透社記者提問，對於遭中方制裁，菲律賓國防部長特奧多羅發表宣告聲稱，“面對中方行徑，將堅守本職維護菲律賓的尊嚴”。中方對此有何評論？“我們注意到了特奧多羅仍在顛倒黑白，攻擊抹黑。”林劍指出，他的這些言行，不是他所標榜的所謂“維護本國尊嚴”，而是撈取政治私利的作秀表演。正是他這樣一小撮人不負責任的肆意妄為，才會導致中菲的爭議激化，兩國關係惡化，並最終損害菲律賓整個國家和人民的利益。（澎湃新聞）
-
----
-
-### 2026-06-12 15:21:25  #MKT News
-
-【STAR Market growth tier includes 32 existing loss-making firms; eight newly listed unprofitable companies】CSRC Shanghai bureau deputy director Zhao Guofu said at a June 12 Shanghai briefing that the STAR Market’s Sci‑Tech Growth tier has been established smoothly and is serving as a key platform to support tech innovation. The first newly registered Growth‑tier companies listed in October 2025. To date the tier has incorporated 32 existing unprofitable firms and added eight newly listed loss‑making companies. Growth‑tier companies’ aggregate revenue rose 37% in 2025; six firms exited the tier after reporting first‑time profitability.
-
----
-
-### 2026-06-12 15:21:08  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-【Zhou Xiaoquan: prioritize improving cross-border finance quality and efficiency and offshore financial innovation breakthroughs】June 12 — At a Shanghai government briefing on the 2026 Lujiazui Forum, Zhou Xiaoquan, executive deputy director of the Shanghai Municipal Financial Office, said Shanghai will strengthen its role as an open financial hub and prioritize measures to improve cross-border finance quality and efficiency and to drive breakthroughs in offshore financial innovation to better support outbound enterprises and Belt and Road Initiative projects. Officials from PBOC Shanghai, the Office of the National Financial Regulatory Administration and the CSRC Shanghai bureau attended.
-
----
-
-### 2026-06-12 15:20:31  #公司
-
-【目前科創成長層平穩納入32家存量未盈利企業 新增上市8家未盈利企業】中國證監會上海監管局副局長趙國富在6月12日舉行的上海市新聞釋出會上表示，科創板科創成長層平穩設立，成為資本市場加力支援科技創新的重要平臺。2025年10月，科創成長層首批新註冊公司順利上市。截至目前，科創成長層平穩納入32家存量未盈利企業，並新增上市8家未盈利企業。科創成長層企業2025年整體營收增長37%，其中6家公司因首次實現盈利調出科創成長層。
-
----
-
-### 2026-06-12 15:20:24  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-ECB Governing Council member Makhlouf said he sees broader inflationary effects and that failing to act would be a mistake.
-
----
-
-### 2026-06-12 15:20:13  #市場 #國際
-
-印尼股市基準指數上漲3%，至6061.74美元。
-
----
-
-### 2026-06-12 15:20:02  #其他
-
-【周小全：重點推進跨境金融提質增效與離岸金融創新突破】6月12日，上海市政府舉行市政府新聞釋出會，邀請上海市委金融辦、中國人民銀行上海總部、國家金融監督管理總局辦公廳、中國證監會上海證監局等相關負責同志出席，介紹2026陸家嘴論壇有關情況。上海市委金融辦常務副主任周小全表示，下一步，將持續強化上海金融開放樞紐門戶功能，重點推進跨境金融提質增效與離岸金融創新突破，更好服務企業“走出去”和共建“一帶一路”。（澎湃新聞）
-
----
-
-### 2026-06-12 15:20:01  #MKT News #Commodities #Precious Metals #Market Regions #Greater China #XAUUSD #Impact bullish
-
-【Gold falls from early-year high; Chinese wholesalers and retail investors increase buying】International gold has fallen for several trading days after an early-year record high, and domestic gold-jewelry prices have slid sharply. Retail footfall at Shenzhen Shuibei gold counters remained heavy on weekday afternoons, driven partly by wedding demand. Several wholesalers who had been on the sidelines have started concentrated restocking this week, with procurement activity noticeably higher. In Beijing’s Xicheng district, queues formed at investment-gold counters and at gold-bar checkout. Many recent buyers are new investors purchasing small amounts on dips, citing expectations of future price upside and long-term value.
 
 ---

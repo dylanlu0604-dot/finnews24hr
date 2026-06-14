@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-15 06:36:10_
-_本檔包含 3576 則快訊，約 661649 字_
+_更新時間：2026-06-15 06:59:58_
+_本檔包含 3559 則快訊，約 662588 字_
+
+---
+
+### 2026-06-12 15:22:58  #公司
+
+【凱普生物：公司暫無埃博拉病毒檢測試劑】凱普生物(300639)6月12日在互動平臺回覆稱，公司暫無埃博拉病毒檢測試劑。
+
+---
+
+### 2026-06-12 15:22:54  #行業 #焦點
+
+【周小全：將出臺實施《充分發揮直接融資功能 進一步加強科技金融服務的若干措施》】6月12日，上海市政府舉行市政府新聞釋出會，邀請上海市委金融辦、中國人民銀行上海總部、國家金融監督管理總局辦公廳、中國證監會上海證監局等相關負責同志出席，介紹2026陸家嘴論壇有關情況。
+
+上海市委金融辦常務副主任周小全介紹稱，下一步，我們將出臺實施《充分發揮直接融資功能 進一步加強科技金融服務的若干措施》，進一步加大對科技創新的金融支援力度。
+
+一是進一步發揮資本市場引領作用。支援企業對接多層次資本市場，用好併購重組、再融資等工具，推動更多“硬科技”企業登陸科創板，提高上市公司質量和投資價值。
+
+二是進一步發揮股權投資生力軍作用。打造股權投資集聚區，提升早期投資領投定價能力，完善股權投資接續機制，推動投早、投小、投長期、投硬科技。
+
+三是進一步發揮銀行信貸基礎支撐作用。研發專屬科技信貸產品，推動加強“滬科積分”評價結果運用，推進智慧財產權金融生態綜合試點。
+
+四是進一步發揮科技保險風險保障功能。支援創新藥械、首臺（套）重大技術裝備、智慧財產權等保險產品創新，強化對重大技術攻關與重點產業、未來產業與前沿科技、科技型中小企業等重點領域的保險保障。
+
+五是進一步打造“熱帶雨林”式科技金融政策生態。加快建設科創金融改革試驗區，發揮科創金融聯盟橋樑紐帶作用，支援建立科技金融業務盡職免責和長週期績效考核機制。
+
+---
+
+### 2026-06-12 15:22:39  #MKT News #Important #Market Regions #Greater China
+
+【Zhou Xiaoqian: Shanghai to issue measures to boost direct financing and tech-finance services】Zhou Xiaoqian, executive deputy director of the Shanghai Municipal Financial Office, said the city will issue and implement measures to fully leverage direct financing and strengthen tech-finance services, stepping up financial support for technological innovation.
+
+---
+
+### 2026-06-12 15:22:24  #Trading Economics #Economy #Turkey #Current Account #Importance 1
+
+Turkey Current Account Gap Smallest in 5 Months — Turkey’s current account posted a deficit of $5.70 billion in April 2026, the smallest shortfall since November 2025, narrowing from a deficit of $8.45 billion in the same month a year earlier. The goods account deficit shrank to $6.82 billion from $9.89 billion in April 2025, while the primary income gap stood at $2.40 billion, compared with $2.38 billion a year earlier. In contrast, the secondary income deficit widened to $0.15 billion from $0.10 billion. Meanwhile, the services account surplus eased to $3.67 billion from $3.94 billion. Excluding gold and energy, the current account registered a surplus of $0.32 billion. In the first four months of the year, the country recorded a current account deficit of $29.37 billion, up from $22.59 billion in the corresponding period of 2025.
+
+---
+
+### 2026-06-12 15:22:07  #MKT News #Market Regions #Greater China
+
+【China ministry says Philippine defence minister's actions will harm Philippines, escalate bilateral dispute】China's Ministry of Foreign Affairs spokesperson Lin Jian, responding to a statement from Philippine defence minister Teodoro that he will remain in his post, said Teodoro is misrepresenting facts and staging politically motivated theatrics for personal gain. The ministry said such irresponsible actions by a small group are aggravating China-Philippines disputes, worsening bilateral relations and ultimately harming the interests of the Philippine state and people.
+
+---
+
+### 2026-06-12 15:21:43  #國際
+
+【對菲律賓防長的制裁是否會影響中國未來對菲援助？外交部回應】6月12日，外交部發言人林劍主持例行記者會。今日俄羅斯記者提問，請問發言人，針對菲律賓防長特奧多羅的制裁是否會影響中國未來對菲律賓的援助，包括燃料和物資供應？“外交部網站公佈的對特奧多羅及其親屬實施制裁的決定，已經說明了有關的具體情況。”林劍強調，如果任由特奧多羅這樣的人一再破壞雙方穩定關係的努力，最終損害的只會是菲國家和人民的根本利益。（澎湃新聞）
+
+---
+
+### 2026-06-12 15:21:38  #Trading Economics #Economy #Spain #Inflation Rate #Importance 1
+
+Spain Inflation Rate Steady at 3.2% in May — Spain's annual inflation rate was at 3.2% in May 2026, unchanged from the prior month and matching the preliminary estimate. Upward pressure from prices of transportation (7.4% vs 6.5% in April) and recreational activities, sport, and culture (2.6% vs 0.7%) was counterbalanced by softer food inflation (2.2% vs 2.6%) and falling clothing and footwear prices (-1.1% vs 1.4%). The core inflation rate, which excludes volatile items such as food and energy, ticked higher to 2.9% from 2.8% in the prior month. Meanwhile, the EU-harmonized annual rate edged up to 2.9% from 2.8% in April, also in line with expectations. On a monthly basis, consumer prices edged up 0.1%, down from a 0.4% increase in April, and the harmonized index also increased 0.1%, after a 0.7% rise in the month before, both matching early estimates.
+
+---
+
+### 2026-06-12 15:21:37  #公司
+
+【長安汽車趙非：堆料式競爭已觸及天花板，現在比拼的是產品、服務，以及服務帶來的情緒價值】在2026中國汽車重慶論壇開幕全體會議上，中國長安汽車集團有限公司總經理趙非發表演講。他表示，當前中國汽車產業正處於一場深刻的變革，行業與市場競爭邏輯發生了根本性的變化。第一，智慧化邁入深水區，人工智慧全面賦能汽車產業，使用者需求正從“可用”向“好用”全面升級。隨著技術日益成熟，使用者已不滿足基本功能，而更看重實際體驗。第二，中國汽車品牌市場向海外延伸，出海成為品牌增長的核心增量路徑。第三，競爭從快速迭代的產品供給，轉向生態圈厚度的耐力比拼。他認為，應對這些變化，我們需要創新與韌性，以創新求突破，以韌性守底線，這才是汽車產業發展的根本。過去一些科技創新脫離了實際使用場景，使用者感知不到價值，甚至還有冗餘設計。”（新浪科技）
+
+---
+
+### 2026-06-12 15:21:25  #國際
+
+【被制裁的菲律賓防長稱將“堅守本職”，外交部：撈取政治私利的表演】6月12日，外交部發言人林劍主持例行記者會。路透社記者提問，對於遭中方制裁，菲律賓國防部長特奧多羅發表宣告聲稱，“面對中方行徑，將堅守本職維護菲律賓的尊嚴”。中方對此有何評論？“我們注意到了特奧多羅仍在顛倒黑白，攻擊抹黑。”林劍指出，他的這些言行，不是他所標榜的所謂“維護本國尊嚴”，而是撈取政治私利的作秀表演。正是他這樣一小撮人不負責任的肆意妄為，才會導致中菲的爭議激化，兩國關係惡化，並最終損害菲律賓整個國家和人民的利益。（澎湃新聞）
+
+---
+
+### 2026-06-12 15:21:25  #MKT News
+
+【STAR Market growth tier includes 32 existing loss-making firms; eight newly listed unprofitable companies】CSRC Shanghai bureau deputy director Zhao Guofu said at a June 12 Shanghai briefing that the STAR Market’s Sci‑Tech Growth tier has been established smoothly and is serving as a key platform to support tech innovation. The first newly registered Growth‑tier companies listed in October 2025. To date the tier has incorporated 32 existing unprofitable firms and added eight newly listed loss‑making companies. Growth‑tier companies’ aggregate revenue rose 37% in 2025; six firms exited the tier after reporting first‑time profitability.
+
+---
+
+### 2026-06-12 15:21:08  #MKT News #Market Regions #Greater China #CNH #Impact bullish
+
+【Zhou Xiaoquan: prioritize improving cross-border finance quality and efficiency and offshore financial innovation breakthroughs】June 12 — At a Shanghai government briefing on the 2026 Lujiazui Forum, Zhou Xiaoquan, executive deputy director of the Shanghai Municipal Financial Office, said Shanghai will strengthen its role as an open financial hub and prioritize measures to improve cross-border finance quality and efficiency and to drive breakthroughs in offshore financial innovation to better support outbound enterprises and Belt and Road Initiative projects. Officials from PBOC Shanghai, the Office of the National Financial Regulatory Administration and the CSRC Shanghai bureau attended.
+
+---
+
+### 2026-06-12 15:20:31  #公司
+
+【目前科創成長層平穩納入32家存量未盈利企業 新增上市8家未盈利企業】中國證監會上海監管局副局長趙國富在6月12日舉行的上海市新聞釋出會上表示，科創板科創成長層平穩設立，成為資本市場加力支援科技創新的重要平臺。2025年10月，科創成長層首批新註冊公司順利上市。截至目前，科創成長層平穩納入32家存量未盈利企業，並新增上市8家未盈利企業。科創成長層企業2025年整體營收增長37%，其中6家公司因首次實現盈利調出科創成長層。
+
+---
+
+### 2026-06-12 15:20:24  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #DAX
+
+ECB Governing Council member Makhlouf said he sees broader inflationary effects and that failing to act would be a mistake.
+
+---
+
+### 2026-06-12 15:20:13  #市場 #國際
+
+印尼股市基準指數上漲3%，至6061.74美元。
+
+---
+
+### 2026-06-12 15:20:02  #其他
+
+【周小全：重點推進跨境金融提質增效與離岸金融創新突破】6月12日，上海市政府舉行市政府新聞釋出會，邀請上海市委金融辦、中國人民銀行上海總部、國家金融監督管理總局辦公廳、中國證監會上海證監局等相關負責同志出席，介紹2026陸家嘴論壇有關情況。上海市委金融辦常務副主任周小全表示，下一步，將持續強化上海金融開放樞紐門戶功能，重點推進跨境金融提質增效與離岸金融創新突破，更好服務企業“走出去”和共建“一帶一路”。（澎湃新聞）
+
+---
+
+### 2026-06-12 15:20:01  #MKT News #Commodities #Precious Metals #Market Regions #Greater China #XAUUSD #Impact bullish
+
+【Gold falls from early-year high; Chinese wholesalers and retail investors increase buying】International gold has fallen for several trading days after an early-year record high, and domestic gold-jewelry prices have slid sharply. Retail footfall at Shenzhen Shuibei gold counters remained heavy on weekday afternoons, driven partly by wedding demand. Several wholesalers who had been on the sidelines have started concentrated restocking this week, with procurement activity noticeably higher. In Beijing’s Xicheng district, queues formed at investment-gold counters and at gold-bar checkout. Many recent buyers are new investors purchasing small amounts on dips, citing expectations of future price upside and long-term value.
 
 ---
 
@@ -21325,203 +21433,5 @@ ASX 200 Pares Early Drop — The ASX 200 edged down 20 points, or 0.2%, to close
 ### 2026-06-11 14:33:45  #其他
 
 【北京海淀市監局：正對“鵝腿阿姨”涉嫌誤導消費者等行為進一步核查】海淀區市場監督管理局6月11日釋出情況通報：2026年6月10日，“鵝腿阿姨售賣鴨腿”受到廣大市民和網友關注，我局立即組織相關市場監管所開展調查、問詢當事人。目前，我局正在對其涉嫌誤導消費者等行為進一步核查，下一步將依法依規處置。
-
----
-
-### 2026-06-11 14:33:42  #MKT News
-
-South Korea's KOSPI closed Thursday, June 11, up 32.12 points, or 0.42%, at 7,762.94.
-
----
-
-### 2026-06-11 14:33:41  #MKT News #Market Regions #Japan & APAC #Nikkei 225
-
-Japan's Nikkei 225 index closed up 38.00 points, or 0.06%, at 64,217.27 on Thursday, June 11.
-
----
-
-### 2026-06-11 14:33:29  #公司
-
-【2026資訊科技應用創新發展大會在山東濟南舉辦】6月11日，2026資訊科技應用創新發展大會在濟南舉行。大會聚焦AI與資訊科技融合，設定主論壇及央國企高質量發展、AI+應用創新等專題會議，涵蓋資料安全、智慧算力、工業軟體等前沿議題。中孚資訊、金現代、中創股份等企業將展示AI安全新品。
-
----
-
-### 2026-06-11 14:33:16  #公司
-
-匈牙利MOL公司稱已與塞爾維亞政府就NIS交易成功完成談判。
-
----
-
-### 2026-06-11 14:33:07  #觀點
-
-【張憶東：A股和港股依然是初夏，後續行情會擴散而非高低切】近日，海通國際執委會委員、首席經濟學家張憶東表示，A股和港股依然是初夏，後續行情會擴散而非高低切。（澎湃新聞）
-
----
-
-### 2026-06-11 14:32:30  #其他
-
-中國地震臺網自動測定：06月11日14時29分在新疆巴音郭楞州若羌縣附近（北緯38.77度，東經88.61度）發生4.4級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-06-11 14:32:22  #MKT News #Important #Commodities #Industrial Metals
-
-Polysilicon futures contract 2609 strengthened intraday, gains widening to 7% at 36,970 yuan/ton, turnover exceeding 19.9 billion yuan; open interest rose by nearly 400 contracts and trading activity picked up.
-
----
-
-### 2026-06-11 14:32:04  #MKT News #ASML.AS #Impact bullish
-
-Goldman Sachs raises ASML PT to €1,770 from €1,600.
-
----
-
-### 2026-06-11 14:31:49  #觀點
-
-高盛將阿斯麥目標股價從1600歐元上調至1770歐元。
-
----
-
-### 2026-06-11 14:31:41  #國際
-
-【日韓股市集體收漲】日經225指數收漲0.06%，報64217.27點。韓國綜指收漲0.42%，報7762.94點。
-
----
-
-### 2026-06-11 14:30:59  #行業 #公司
-
-【GLP-1減重藥“吃掉”全球15%乳清供給】以司美格魯肽為代表的GLP-1減重藥需求大增，正在引發一場全球乳清原料價格大漲的“蝴蝶效應”。近期，各大品牌蛋白粉漲價的新聞在減重、增肌人群中刷屏。據行業人士透露，GLP-1減重藥創造的乳清蛋白補充需求，吃掉了全球15%的乳清供給。疊加產能受限、營養品市場擴容，運動營養食品核心乳清蛋白原料WPC80價格近一年上漲了120%–150%。受價格和利潤驅使，原本可用於生產D90脫鹽乳清粉的原料被“虹吸”至WPC80產線，導致國內D90採購價較年初翻倍，這意味著以D90為原料的嬰幼兒配方奶粉也存在調價壓力。(新京報)
-
----
-
-### 2026-06-11 14:30:42  #其他
-
-【海通國際張憶東：今年夏季行情N型向下的變盤點，很可能就在6月10日-18日】近日，海通國際執委會委員、首席經濟學家張憶東表示，今年夏季行情N型向下的變盤點，很可能就在6月10日-18日。（澎湃新聞）
-
----
-
-### 2026-06-11 14:30:07  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 0.11% Lower — The Nikkei 225 Index decreased 71 points or 0.11 percent on Thursday to close at 64108 points. The decline was led by Hino Motors (-5.42%), Kawasaki (-4.21%) and Toho Zinc (-4.13%). On the upside, the strongest performers were Toppan (15.07%), Ajinomoto (8.37%) and Resonac Holdings (6.59%).
-
----
-
-### 2026-06-11 14:29:18  #公司
-
-訊息人士稱，截至週四亞洲午後，投資者對Danantara投資管理公司美元債券的投標規模已超過15億美元，而目標上限為10億美元。
-
----
-
-### 2026-06-11 14:28:46  #公司 #觀點
-
-高盛將保時捷評級從中性上調至買入。
-
----
-
-### 2026-06-11 14:28:15  #MKT News #Market Regions #Greater China
-
-【June 11: China Agricultural Products Wholesale Price 200 Index up 0.43 points】China’s Ministry of Agriculture and Rural Affairs: Agricultural Products Wholesale Price 200 Index 113.59 on June 11, up 0.43 points from a day earlier; vegetable-basket wholesale price index 113.66, up 0.46 points. As of 14:00 national wholesale-market average prices: pork 14.50 yuan/kg (-1.1% vs yesterday); beef 66.57 yuan/kg (-0.2%); mutton 64.21 yuan/kg (+0.2%); eggs 10.78 yuan/kg (-0.1%); dressed chicken 17.26 yuan/kg (+1.4%).
-
----
-
-### 2026-06-11 14:28:04  #其他
-
-【6月11日：“農產品批發價格200指數”比昨天上升0.43個點】據農業農村部監測，6月11日“農產品批發價格200指數”為113.59，比昨天上升0.43個點，“菜籃子”產品批發價格指數為113.66，比昨天上升0.46個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.50元/公斤，比昨天下降1.1%；牛肉66.57元/公斤，比昨天下降0.2%；羊肉64.21元/公斤，比昨天上升0.2%；雞蛋10.78元/公斤，比昨天下降0.1%；白條雞17.26元/公斤，比昨天上升1.4%。重點監測的28種蔬菜平均價格為4.33元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為7.53元/公斤，比昨天上升1.2%。鯽魚20.58元/公斤，比昨天上升1.4%；鯉魚14.86元/公斤，比昨天上升0.2%；白鰱魚10.41元/公斤，比昨天下降0.4%；大帶魚40.98元/公斤，比昨天上升1.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是蓮藕、菠蘿、巨峰葡萄、白蘿蔔和胡蘿蔔，幅度分別為6.7%、2.4%、2.2%、1.7%和1.6%；價格降幅前五名的是蔥頭、黃瓜、大白菜、豬肉和菜花，幅度分別為4.6%、1.3%、1.3%、1.1%和1.0%。
-
----
-
-### 2026-06-11 14:28:02  #公司
-
-【臻寶科技明日申購 頂格申購需配市值9萬元】臻寶科技明日開啟申購，公司本次發行前總股本為1.16億股，本次擬公開發行股票3882.26萬股，佔發行後總股本的比例為25.00%，其中網上發行931.70萬股，申購程式碼787797，申購價格為44.56元，發行市盈率為31.31倍，單一賬戶申購上限為0.90萬股，申購數量為500股的整數倍，頂格申購需持有滬市市值9萬元。
-
----
-
-### 2026-06-11 14:27:44  #其他
-
-【亨通光電成交額達200億元，現跌7%】6月11日下午，亨通光電成交額達200億元，現跌7.44%。
-
----
-
-### 2026-06-11 14:27:36  #公司 #國際 #原創
-
-【梅賽德斯賓士宣佈與Tytan合作生產反無人機車輛】梅賽德斯-賓士宣佈，將與德國防務初創公司Tytan Technologies合作生產反無人機車輛，成為最新一家與國防工業聯手的歐洲汽車製造商。在2026年國際航空航天展覽會（ILA 2026）上，這家德國汽車製造商簽署了一份諒解備忘錄，根據該備忘錄，它將為一種用於攔截小型無人機的移動防空系統生產車輛。梅賽德斯-賓士在一份宣告中表示，該公司將專注於基於G級和Sprinter車型的“車載無人機防禦和任務平臺，用於保護人員和關鍵基礎設施”。
-
----
-
-### 2026-06-11 14:27:25  #公司
-
-【科大訊飛在合肥成立詞元星火科技公司 註冊資本10億】天眼查App顯示，近日，合肥詞元星火科技有限公司成立，法定代表人為劉慶峰，註冊資本10億人民幣，經營範圍包括人工智慧應用軟體開發、人工智慧通用應用系統、資訊科技諮詢服務、資料處理服務等，由科大訊飛全資持股。
-
----
-
-### 2026-06-11 14:26:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
-
-【Cui Dongshu: 2026 China auto market broadly strong; high‑subsidy truck and bus markets recovering】Cui Dongshu, secretary‑general of the CPCA, said in a May 2026 segment analysis that China’s macro growth remains robust and national auto demand is strong, supported by state consumption‑promotion policies. He flagged a clear recovery in trucks and buses that qualify for high subsidies. The commercial‑vehicle market is showing structural growth driven by equipment‑renewal subsidies; newly implemented high subsidies for commercial vehicles are accelerating electrification in logistics and transport and keeping commercial‑vehicle sentiment elevated.
-
----
-
-### 2026-06-11 14:26:30  #公司 #其他
-
-敬業鋼鐵：已向英國政府啟動磋商程式，要求英方賠償敬業對英鋼的投資損失。
-
----
-
-### 2026-06-11 14:26:12  #Trading Economics #Markets #Japan #currency #Importance 1
-
-Japanese Yen Hits 6-week Low — The Japanese Yen touched 160.57 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar Japanese Yen gained 1.87%, and in the last 12 months, it increased 11.91%.
-
----
-
-### 2026-06-11 14:25:12  #央行 #國際
-
-【經濟學家：歐洲央行在當前週期內料將僅加息一次】全球經濟學家Mohit Kumar在一份報告中表示，Jefferies認為，歐洲央行週四廣受預期的25個基點的加息“將是歐洲央行在這一商業週期中進行的唯一一次加息“。他說，下一個加息視窗將在9月份，屆時將釋出新的工作人員預測。Kumar說：“在樂觀的情況下，到那時戰爭將結束，油價將接近80美元，這將減少再次加息的必要性。“他說，即使在戰爭持續、油價接近100美元的悲觀情況下，歐洲也將接近或陷入衰退。他補充說，Jefferies認為歐洲央行不會在衰退的情況下進行一系列加息。
-
----
-
-### 2026-06-11 14:22:36  #其他
-
-泡泡瑪特(09992.HK)漲超4%。
-
----
-
-### 2026-06-11 14:22:24  #MKT News #09992.HK #Impact bullish
-
-Pop Mart (09992.HK) up more than 4%.
-
----
-
-### 2026-06-11 14:22:18  #Trading Economics #Economy #Sweden #Inflation Rate #Importance 1
-
-Swedish Inflation Confirmed at 7-Month High — Consumer prices in Sweden rose by 0.8% year-on-year in May 2026, confirming initial estimates and rebounding from a 0.1% fall in the previous month. The latest reading also marked the highest inflation rate since October 2025, driven largely by rising energy costs, particularly fuel (26.9% vs. 29.3% in April) and electricity prices (14.9% vs. 4.6%). This, in turn, lifted housing and utility costs (2.6% vs. -0.1%) and transport prices (6.0% vs. 5.2%). In contrast, food prices declined further (-6.2% vs -5.7%), while inflation softened for clothing and footwear (0.7% vs 1.2%). On a monthly basis, consumer prices grew by 1.0%, marking the fastest rise since June 2023, after dropping by 0.6% in the preceding period. Meanwhile, the CPI with a fixed interest rate (CPIF), the Riksbank’s target measure, climbed by 1.5% annually in May, matching preliminary estimates and accelerating from April’s 0.8% rise, which was the softest increase since December 2020.
-
----
-
-### 2026-06-11 14:22:01  #國際
-
-印度航運部長稱，三名失蹤的印度海員在美國於阿曼海岸外對油輪實施打擊後已確認死亡。
-
----
-
-### 2026-06-11 14:21:26  #市場 #焦點
-
-多晶矽連續主力合約日內漲7%，現報37030.00元。
-
----
-
-### 2026-06-11 14:21:19  #MKT News
-
-Australia's S&P/ASX 200 closed down 10.90 points, or 0.13%, at 8,642.40 on Thursday, June 11.
-
----
-
-### 2026-06-11 14:21:08  #其他 #焦點 #A股
-
-【新易盛成交額達300億元，現跌超7%】6月11日下午，新易盛成交額達300億元，現跌7.31%。
-
----
-
-### 2026-06-11 14:21:07  #其他 #焦點 #A股
-
-【中際旭創成交額達300億元，現跌近4%】6月11日下午，中際旭創成交額達300億元，現跌3.93%。
 
 ---
