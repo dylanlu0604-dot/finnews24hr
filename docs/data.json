@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-14 13:35:31",
-  "count": 18302,
+  "updated": "2026-06-14 13:39:35",
+  "count": 18306,
   "items": [
+    {
+      "id": "4934225",
+      "time": "2026-06-14 13:36:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【沙特王國控股公司：持有SpaceX股票公允價值約為68.3億美元】沙特王國控股公司公告，根據截至3月31日的財務報表，目前持有4240萬股SpaceX A類普通股，賬面價值為44.7億美元。按SpaceX上週五每股160.95美元的收盤價計算，王國控股所持股份的公允價值約為68.3億美元（256.0億沙特里亞爾）。公司所持有的SpaceX股票受禁售期約束，禁售期最長為上市之日起180天。"
+    },
+    {
+      "id": "mkt:019ec4a0-efcc-7dd8-afef-21a5395ad6fc",
+      "time": "2026-06-14 13:35:41",
+      "tags": [
+        "MKT News",
+        "4280.SR"
+      ],
+      "text": "Kingdom Holding Co said the fair value of its SpaceX stake was about $6.83 billion (25.60 billion SAR), based on SpaceX's last Friday closing price of $160.95 per share."
+    },
+    {
+      "id": "mkt:019ec4a0-acc8-7dd8-afef-1e6086852987",
+      "time": "2026-06-14 13:35:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kingdom Holding Company said that, based on SpaceX's last Friday close of $160.95 per share, the fair value of its stake is about $6.83 billion (SAR 25.6 billion)."
+    },
+    {
+      "id": "mkt:019ec4a0-67c8-7dd8-afef-1749d35b2488",
+      "time": "2026-06-14 13:35:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to financial statements as of March 31, Kingdom Holding Company (Saudi) holds 42.4 million SpaceX Class A common shares with a book value of $4.47 billion."
+    },
     {
       "id": "4934217",
       "time": "2026-06-14 13:31:31",
