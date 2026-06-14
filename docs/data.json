@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-14 23:42:16",
-  "count": 18340,
+  "updated": "2026-06-14 23:46:28",
+  "count": 18339,
   "items": [
+    {
+      "id": "mkt:019ec6cf-62b7-7dd8-aff4-01513a7d8043",
+      "time": "2026-06-14 23:45:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli media: Netanyahu refuses to withdraw from south Lebanon, Syrian territory】Israeli daily Maariv, citing sources, reported that in a recent phone call with US President Trump Netanyahu rejected US requests to withdraw Israeli forces from all of south Lebanon, including five Israeli-controlled positions, and likewise refused to withdraw from Syrian territory occupied after Assad’s removal."
+    },
+    {
+      "id": "4934629",
+      "time": "2026-06-14 23:44:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱黎巴嫩是行動重心 已準備好應對報復】以色列國防軍方面14日表示，以軍正“保持高度警惕和戰備狀態”，黎巴嫩是以軍行動的“主要重心”。以軍正為“未來數小時內”可能出現以色列遭受攻擊的情況做準備。（新華社）"
+    },
+    {
+      "id": "4934628",
+      "time": "2026-06-14 23:44:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "由於擔心伊朗發射導彈，以色列今日的小型內閣會議將在加固掩體中召開。"
+    },
+    {
+      "id": "4934627",
+      "time": "2026-06-14 23:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：伊朗正處於本國歷史上最為微妙的階段。"
+    },
     {
       "id": "4934626",
       "time": "2026-06-14 23:41:26",
@@ -168640,47 +168672,6 @@
         "國際"
       ],
       "text": "美國聯合航空CEO斯科特·柯比表示，儘管機票價格大幅上漲，高收入人群仍持續出行消費，這讓他相信高階航空產品的需求能夠頂住漲價壓力。"
-    },
-    {
-      "id": "4922076",
-      "time": "2026-06-07 23:45:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：伊朗不應向我方發動襲擊，倘若其採取行動，我方將按既定方案予以應對。我方預計很快會與伊朗達成一份理想協議。"
-    },
-    {
-      "id": "mkt:019ea2c1-d598-7ee0-86d0-beedceb272ee",
-      "time": "2026-06-07 23:44:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said sailors aboard the aircraft carrier George H.W. Bush (CVN-77), operating in the Arabian Sea, are conducting nighttime flight operations. The ship is one of two U.S. carriers currently deployed to the Middle East."
-    },
-    {
-      "id": "4922075",
-      "time": "2026-06-07 23:44:09",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "特朗普政府同意將第三國移民遣送至中非共和國，美國國務院還將整合非洲地區簽證辦理中心。"
-    },
-    {
-      "id": "4922074",
-      "time": "2026-06-07 23:43:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：喬治·布什號航空母艦（CVN-77）航行於阿拉伯海期間，艦上官兵開展夜間飛行作業。該艦是目前部署在中東地區的兩艘航空母艦之一。"
-    },
-    {
-      "id": "mkt:019ea2bf-edab-7ee0-86d0-b2c2b1686ce3",
-      "time": "2026-06-07 23:42:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar issued a NOTAM requiring flights transiting its airspace to reroute and providing alternate routings for aircraft departing Doha and airports in Saudi Arabia. The notice is effective June 7-14."
     }
   ]
 }
