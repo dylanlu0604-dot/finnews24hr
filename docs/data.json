@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-14 23:54:52",
-  "count": 18359,
+  "updated": "2026-06-14 23:59:01",
+  "count": 18366,
   "items": [
+    {
+      "id": "4934648",
+      "time": "2026-06-14 23:58:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩衛生部通報，自2026年3月2日以來，該國遇難人數已升至3783人。"
+    },
+    {
+      "id": "mkt:019ec6da-d09d-7dd8-aff4-93d2a9f613cd",
+      "time": "2026-06-14 23:58:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli military says it has activated alert systems in multiple northern areas."
+    },
+    {
+      "id": "mkt:019ec6da-2adc-7dd8-aff4-8feddd378f1a",
+      "time": "2026-06-14 23:57:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said Putin and Trump reached an agreement, and Steve Witkoff and Jared Kushner will visit Russia again soon."
+    },
+    {
+      "id": "4934647",
+      "time": "2026-06-14 23:57:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【以色列財政部長簽署約旦河西岸猶太人定居點擴建協議】當地時間14日，以色列財政部長斯莫特里赫簽署了一份總額達20億新謝克爾（約合6.85億美元）的框架協議，用於在約旦河西岸的一處以色列猶太人定居點新建6000套公寓並追加相關基礎設施投資。去年12月，以色列內閣批准在約旦河西岸新建19個猶太人定居點的提案，多國發表宣告對此表示譴責。（央視新聞）"
+    },
+    {
+      "id": "4934646",
+      "time": "2026-06-14 23:57:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：所有治理部門在捍衛國家利益、在談判框架內維護國家主權方面持有共同立場。"
+    },
+    {
+      "id": "4934645",
+      "time": "2026-06-14 23:55:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：伊朗與海灣國家之間的諸多分歧與誤解已步入解決軌道。"
+    },
+    {
+      "id": "4934644",
+      "time": "2026-06-14 23:55:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：特朗普在與普京通話時表示，願意對基輔方面及美國的歐洲夥伴施加影響。"
+    },
+    {
+      "id": "4934643",
+      "time": "2026-06-14 23:55:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：國內媒體關於戰爭、談判的報道，未必反映最高國家安全委員會的立場。"
+    },
+    {
+      "id": "mkt:019ec6d8-0c7f-7dd8-aff4-8129e982ead8",
+      "time": "2026-06-14 23:55:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Hezbollah said it struck an Israeli military assembly point in the southern Lebanese town of Taybeh with missiles."
+    },
+    {
+      "id": "mkt:019ec6d7-8c8f-7dd8-aff4-7cd5eaea1e37",
+      "time": "2026-06-14 23:54:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President PEZESHKIAN said he regretted that neighboring countries are affected by military action."
+    },
     {
       "id": "4934642",
       "time": "2026-06-14 23:54:02",
@@ -168825,30 +168911,6 @@
         "Brent"
       ],
       "text": "【Israeli airstrikes on multiple Lebanese locations kill 2, injure 11】Israel launched airstrikes on Beirut's southern suburbs and the southern port city of Tyre on the 7th, killing two and wounding 11. The Lebanese Health Ministry said on the same day that since fighting resumed on March 2 Israeli strikes have killed 3,613 people and injured 11,072 in Lebanon."
-    },
-    {
-      "id": "4922085",
-      "time": "2026-06-07 23:58:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列空襲黎巴嫩多地致多人死傷】據黎巴嫩國家通訊社7日報道，以色列當天對黎首都貝魯特南郊和黎南部港口城市提爾等地發動空襲，已造成2人死亡、11人受傷。報道說，以色列空軍對貝魯特南郊發射3枚導彈，目標是兩棟建築內的兩套公寓。此外，以色列戰機對提爾發動兩次空襲，轟炸提爾市區一所大學周邊地區和一家咖啡館。（新華社）"
-    },
-    {
-      "id": "4922084",
-      "time": "2026-06-07 23:58:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：烏克蘭於當地時間6月6日動用約40架攻擊無人機，襲擊了俄羅斯列寧格勒州大伊若拉鎮的一處海軍武器倉庫。俄方防空系統擊落32架無人機，但仍有無人機命中地面機庫及倉儲區域並引發爆炸。本次襲擊造成約5000噸物資損毀，損毀物資以火炮彈藥和工程彈藥為主，另有兩名倉庫工作人員遇難。"
-    },
-    {
-      "id": "4922083",
-      "time": "2026-06-07 23:57:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基抵達英國，將與英國首相斯塔默、法國總統馬克龍及德國總理默茨舉行會談，他還計劃於明日會見英國國王查爾斯三世。"
     }
   ]
 }
