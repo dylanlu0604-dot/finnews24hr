@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-14 22:22:53",
+  "updated": "2026-06-14 22:26:55",
   "count": 18256,
   "items": [
+    {
+      "id": "4934535",
+      "time": "2026-06-14 22:25:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【實探深圳水貝：回收價已跌到900元/克！商家：1200的時候很多人賣，有人一下就賣了3公斤，最近很少有人賣】自5月中旬以來，國際黃金價格快速下行，6月11日較年內高點回撤28%。金價下跌使消費者觀望情緒濃厚。記者走訪發現，在深圳水貝黃金市場，有消費者徘徊多個攤位仍未決定購買。有水貝店家稱其透過固定貨量模式應對漲跌，影響不大。業內人士分析，金價回撥是牛市再定價和波動釋放，短期或繼續探底，後續走勢取決於美國資料、美元指數、地緣衝突等因素。6月13日晚，記者來到深圳水貝黃金市場，看到了明顯多於往日的顧客。一位水貝黃金店家告訴以顧客身份進行交流的記者（下同），當天回收價900元/克，銷售價957元/克。金價下跌行情下，消費者和黃金店家的心態也悄然發生變化。“今天957（元/克）吧，我去了水貝，啥也沒買。”一位消費者如此說道。記者在現場也注意到，有消費者在各個攤位徘徊，但是始終沒有下定決心購買。（每經）"
+    },
+    {
+      "id": "4934534",
+      "time": "2026-06-14 22:24:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "Lazard公司在週五致委內瑞拉代總統德爾西·羅德里格斯的信函中，提出收取2500萬美元的服務費。"
+    },
+    {
+      "id": "mkt:019ec684-70c7-7dd8-aff2-b5bb1afd715f",
+      "time": "2026-06-14 22:23:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israeli military says prepared for possible strikes in coming hours】After airstrikes on southern suburbs of Beirut, the Israeli military said on June 14 it was prepared to be hit by military strikes \"in the coming hours\" and has made \"both defensive and offensive preparations.\""
+    },
     {
       "id": "mkt:019ec680-9871-7dd8-aff2-adbe66143c97",
       "time": "2026-06-14 22:19:36",
@@ -167910,49 +167939,6 @@
         "國際"
       ],
       "text": "市場訊息：印度官員將訪問俄羅斯，參加歐亞經濟聯盟自由貿易談判。"
-    },
-    {
-      "id": "mkt:019ea27a-8480-7ee0-86d0-4e465462be3f",
-      "time": "2026-06-07 22:26:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Guotai Haitong: US equities may face at least one-to-two months of volatility】Guotai Haitong said stronger-than-expected May nonfarm payrolls reinforced signs of US labor-market stabilization and lifted market rate-hike expectations, triggering broad asset re-pricing: stronger dollar, sharp jump in US Treasury yields, steep falls in US equities and weaker gold. The firm sees significant internal division at the Federal Reserve and views a rate hike this year as unlikely, but warns June may bring temporary liquidity shocks that could leave US equities volatile for at least one to two months."
-    },
-    {
-      "id": "mkt:019ea27a-3e06-7ee0-86d0-45ca3d88c468",
-      "time": "2026-06-07 22:26:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "000660.KS",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "【NVIDIA CEO says Vera CPU will use SK Hynix DRAM, signals expanded cooperation during Korea visit】NVIDIA CEO Jensen Huang said the company’s new Vera CPU will use SK Hynix DRAM, and that the two firms expect to expand cooperation over the next year, preparing for larger-scale projects in H2 and 2027. Huang met in Seoul with SK Group chairman Chey Tae-won, SK Hynix’s CEO and SK Telecom executives, and is scheduled to meet Samsung Electronics’ vice chairman and senior executives from Hyundai Motor Group and LG Group. Vera, NVIDIA’s first standalone data‑center microprocessor, targets Intel Xeon, AMD EPYC and cloud providers’ in‑house chips such as Amazon’s Graviton. Huang also said he is in discussions with telecom operators about using telecom networks for AI applications."
-    },
-    {
-      "id": "4922036",
-      "time": "2026-06-07 22:23:04",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【國泰海通：美股或迎來至少一兩個月的波動期】國泰海通研報認為，5月非農資料持續超預期進一步釋放了美國就業市場企穩回升的訊號，催化了市場的加息預期，引起資產價格大幅調整。美元走強，美債利率跳升，美股大幅下跌，黃金走弱。國泰海通認為當前美聯儲內部分歧仍大，年內或不會加息。但6月市場或將暫時受流動性衝擊影響，美股或迎來至少一兩個月的波動期。"
     }
   ]
 }
