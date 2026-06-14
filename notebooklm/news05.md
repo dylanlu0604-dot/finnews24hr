@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 23:21:39_
-_本檔包含 3933 則快訊，約 660694 字_
+_更新時間：2026-06-15 00:11:44_
+_本檔包含 3923 則快訊，約 661047 字_
+
+---
+
+### 2026-06-09 07:41:14  #資料 #觀點
+
+【華泰證券策略：關注AI通脹與資源通脹】華泰證券策略指出，5月全行業景氣指數小幅回落，與PMI回落相印證，或反映當前需求仍待改善。分板塊看，近3個月中游材料、上游資源、TMT景氣改善幅度居前。行業層面，景氣改善的線索較上個月更聚焦：AI通脹下算力端光通訊、儲存、MLCC景氣爬坡，此外端側消費電子、應用端遊戲景氣亦改善；漲價鏈景氣改善斜率居前，如煤炭、鋼鐵、裝修建材、部分化工品、小金屬、工業金屬、航運港口等；以新能源為代表的中游製造景氣上行，如電池、通用裝置、航海裝備、農業機械等。
+
+---
+
+### 2026-06-09 07:41:11  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Steadies as Iran and Israel Halt Strikes — Crude oil steadied near $91 per barrel on Tuesday after surrendering most of the previous session’s gains, as Iran and Israel agreed to halt attacks against each other, boosting hopes that peace negotiations could move forward. The two countries exchanged strikes over the weekend, threatening a fragile ceasefire and fueling fears of a broader escalation. President Donald Trump urged both sides to deescalate and said talks with Tehran are continuing, adding that oil prices should ease once the conflict ends. While the ceasefire remains intact, the Strait of Hormuz is still effectively closed under a dual blockade by the US and Iran, severely disrupting shipments of crude, refined fuels, and natural gas to global markets.
+
+---
+
+### 2026-06-09 07:39:30  #央行 #美聯儲
+
+【城堡證券：通脹壓力或迫使美聯儲很快加息】據報道，城堡證券認為，美聯儲可能“很快”需要加息，以遏制日益加劇的通脹壓力。城堡證券稱，大規模人工智慧投資週期、能源市場趨緊以及勞動力市場走強共同推高了經濟增長和通脹的上行風險，“美聯儲的下一步行動很可能是加息……也許很快”。
+
+---
+
+### 2026-06-09 07:39:16  #市場 #國際
+
+【在持續的供應干擾擔憂之際，油價小幅走高】在持續的供應干擾擔憂之際，油價在早盤交易中小幅走高。澳新銀行研究部的分析師在一份研究報告中說，雖然伊朗和以色列暗示他們將避免敵對行動進一步升溫，但葉門胡塞武裝宣佈將全面禁止以色列船隻在紅海航行。這些分析師補充說，這“增加了沙烏地阿拉伯原油進入國際市場的關鍵替代路線之一的風險“，儘管對於什麼構成以色列船隻存在一些猜測。近月西得州中質油期貨上漲0.1%，報每桶91.40美元。
+
+---
+
+### 2026-06-09 07:39:00  #觀點
+
+【華泰證券：英偉達晶片記憶體降配報道若屬實 短期回撥提供高擁擠交易再平衡良機】華泰證券研報稱，SemiAnalysis於6月4日報告指出，英偉達將計劃於3Q26開售的新一代AI伺服器VeraRubinNVL72的CPU側記憶體用量減半。儘管報告說明該調整由三大原廠儲存供給緊張所驅動，仍引發投資人對“AI儲存需求見頂”的擔憂，6月5日，美光、閃迪、西部資料、希捷等美股儲存板塊普跌（閃迪-11.2%、美光-9.5%、西部資料-8.5%、希捷-6.6%）。基於對相關報告的分析，我們認為：1）降配本質上是供給端硬約束下原廠產能配給的“果”，而非算力需求走弱的“因”，若降配，直接影響相當於2026/2027年全球DRAM需求分別下降約1.6%/4.2%；2）若降規屬實，我們仍預計2027年儲存供需缺口降規前約-7%、降規後約-3%，儲存上行週期不改；3）我們認為短期回撥提供高擁擠交易再平衡良機。
+
+---
+
+### 2026-06-09 07:38:39  #市場 #央行 #國際
+
+【城堡證券：通脹壓力或迫使美聯儲很快加息】城堡證券稱，大規模人工智慧投資週期、能源市場趨緊以及勞動力市場走強共同推高了經濟增長和通脹的上行風險，“美聯儲的下一步行動很可能是加息……也許很快”。
+
+---
+
+### 2026-06-09 07:38:07  #MKT News
+
+【MSCI to apply standard large-IPO treatment to SpaceX Nasdaq IPO】MSCI said on June 8 it will apply its standard large-IPO methodology to SpaceX's Nasdaq IPO. SpaceX must meet index constituent eligibility rules to be considered for early inclusion; any early-inclusion decision would take effect at the close of the 10th trading day.
+
+---
+
+### 2026-06-09 07:36:07  #國際
+
+美國國家颶風中心（NHC）表示，颶風“克里斯蒂娜”的中心正進一步靠近中美洲海岸；預計未來幾天將迎來強降雨，離岸風影響區域可能出現沿海洪水。
+
+---
+
+### 2026-06-09 07:34:18  #市場 #焦點
+
+紐約期金失守4340美元/盎司，日內跌0.52%。
+
+---
+
+### 2026-06-09 07:34:15  #公司 #市場 #國際
+
+【韓國股指期貨隔夜大幅反彈 漲幅達 5.4%】過去兩個交易日的風險衝擊行情已基本收尾，亞洲各地投資者有望迎來期待已久的喘息時機。美股迴歸常態走勢也起到助力作用。受市場多方利好言論及持續傳出的投資訊息提振，科技股大幅反彈。人工智慧領域融資活動持續推進，亞馬遜發行了史上規模最大的加元債券。英偉達黃仁勳與韓企簽署多項合作協議，加之韓國國民年金基金推動韓元走強，韓國股指期貨隔夜大幅反彈，漲幅達 5.4%。
+
+---
+
+### 2026-06-09 07:33:42  #國際
+
+美國國家颶風中心（NHC）表示，颶風鮑里斯正逼近墨西哥南部海岸。
+
+---
+
+### 2026-06-09 07:32:07  #其他
+
+【萬噸級船舶“爬樓梯”翻越大壩 三峽新通道解鎖通航新模樣】6月8日，三峽水運新通道工程在湖北省宜昌市正式開工建設，這是“十五五”時期我國開工建設的首個重大標誌性工程，三峽水運新通道工程包含三峽樞紐新通道和葛洲壩航運擴能。目前，三峽船閘的主流通航船型是5000噸級，而這條新通道可以通行萬噸級大型船舶，整體年透過能力達到3.36億噸，通航效率提高的同時，萬噸級船舶貨運成本還可以下降約30%。建成後，三峽樞紐將形成四線船閘加升船機的格局，上下游最大水位落差達到113米，這些船舶會像爬樓梯一樣逐級平穩升降，全年全天候安全通航。（央視）
+
+---
+
+### 2026-06-09 07:31:19  #市場
+
+新加坡交易所日經股指期貨開盤上漲1595點，報65530點。
+
+---
+
+### 2026-06-09 07:29:04  #市場 #觀點
+
+【中信建投：低軌衛星組網加速，Computex多款新品釋出】中信建投研報指出，千帆星座一週三次組網發射，在軌衛星達到200顆。6月文昌計劃5次發射任務，近期多款民營火箭首飛在即，火箭供給端逐步豐富疊加發射服務保障能力完善，商業航天產業程序有望加速。SpaceX上市在即，有望快速納入納指，板塊有望迎來價值重估。Computex多款新品重磅釋出，雲端向機櫃級發展，同時端側落地進一步加速。英偉達、英特爾機櫃級產品推出；英偉達端側釋出AIPC晶片以及物理AI多項更新，圍繞自動駕駛和具身智慧應用全面擴散。
+
+---
+
+### 2026-06-09 07:29:02  #市場 #焦點
+
+現貨黃金失守4320美元/盎司，日內跌0.21%。
+
+---
+
+### 2026-06-09 07:29:01  #觀點
+
+【中信建投：市場成交處於高位，盈利韌性與估值低位支撐非銀投資價值】中信建投研報指出，本週股票成交額環比出現回落，但繼續維持高位，市場交投情緒仍在較高水平。當前保險板塊估值具有較高配置價值，當前股價過度反映較高基數帶來的潛在業績增速壓力，資產端回暖有望帶動二季度利潤增速和股價修復。港股非銀板塊在低估值特徵與盈利改善預期共振下中長期配置價值凸顯。監管邏輯趨穩、促消費導向明確、AI技術提效的背景下，消費金融行業處於政策紅利與技術紅利的雙重驅動期。
+
+---
+
+### 2026-06-09 07:28:44  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Russian deputy foreign minister said Russia and Belarus remain prepared to use all available means, including nuclear weapons, to ensure their security.
+
+---
+
+### 2026-06-09 07:28:31  #國際
+
+俄羅斯副外長對《訊息報》表示，俄羅斯和白俄羅斯始終準備好動用一切可用手段，包括核武器，來保障國家安全。
+
+---
+
+### 2026-06-09 07:28:17  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【CITIC Securities: Stalled talks accelerate inventory draws, oil to rise this week】CITIC Securities research note said markets underappreciate near- and mid-term upside risk to oil. Near term, the Strait of Hormuz has been closed for weeks and more wells have been forced offline; prolonged outages risk permanent capacity loss. Over the medium term, low capex has pushed US drilled‑but‑uncompleted inventories and new drilling to multi‑year lows, making sustained US high output unlikely and shifting residual supply and pricing power toward Middle East producers. Markets were overly optimistic on a quick end to the Middle East conflict; forward oil is being repriced higher and potential upside to inflation merits monitoring.
+
+---
+
+### 2026-06-09 07:27:23  #國際
+
+烏克蘭：根據楚胡伊夫市長的報告，五人在俄羅斯導彈襲擊後死亡，另外三人受傷。
+
+---
+
+### 2026-06-09 07:26:46  #觀點
+
+【中信建投：火箭降本開啟商業航天新週期，柔性化引領太陽翼技術新趨勢】中信建投研報指出，低軌資源稀缺且先到先得，全球衛星組網競賽白熱化。SpaceX規劃超百萬顆衛星，中國星網/千帆/鴻擎合計規劃近4萬顆，ITU時限約束下各方加速搶佔頻軌資源。可回收火箭是產業提速核心催化：國內多款火箭密集衝刺複用試驗，SpaceX V3星艦發射成本有望大幅下降。太陽翼是產業鏈確定性最強的通脹環節，單星功率提升驅動面積增長。砷化鎵為目前主流方案，但由於鎵、鍺相對稀缺且受出口管制，供需關係緊張將推動價格高漲，將採用P型HJT晶矽/鈣鈦礦路線作為補充，目前北美Space X採用晶矽方案已顯現經濟性，矽材料充裕且不受專利限制，更適合海外大規模生產。
+
+---
+
+### 2026-06-09 07:25:21  #國際
+
+【歐盟內部圍繞推動俄烏談判存在分歧】歐盟外交與安全政策高階代表卡拉斯8日表示，必須做出一切努力，以便俄羅斯和烏克蘭能夠進行對話，同時歐洲的核心安全利益也需要得到尊重。但卡拉斯認為現在不是與俄羅斯就烏克蘭問題展開談判的合適時機。總檯記者獲悉，目前歐盟內部對於如何推動談判以及何時啟動實質性接觸仍存在不同看法，一些國家認為目前尚不具備與俄方開展嚴肅談判的條件。英法德三國領導人7日在倫敦與烏克蘭總統澤連斯基會晤並發表聯合宣告，表示支援烏克蘭和俄羅斯直接對話。（央視）
+
+---
+
+### 2026-06-09 07:23:57  #MKT News #Market Regions #Europe & UK
+
+【EU divided over push for Russia-Ukraine talks】EU member states are divided on how and when to press for talks between Russia and Ukraine, EU high representative for foreign affairs and security policy Kallas said on the 8th, urging all efforts to enable dialogue while stressing Europe’s core security interests must be respected but adding now is not the right time for negotiations. Some members say conditions for serious talks with Moscow are not yet in place. Separately, leaders of the UK, France and Germany met Ukraine President Zelenskiy in London on the 7th and issued a joint statement backing direct dialogue between Kyiv and Moscow.
 
 ---
 
@@ -23498,203 +23636,5 @@ Iran's parliament speaker said the armed forces remain, as before, free to take 
 ### 2026-06-08 00:12:08  #MKT News
 
 【Gaza ceasefire talks resume; Hamas handover of administrative control becomes negotiation focus】Egyptian security sources told Xinhua on the 7th that a Hamas leadership delegation met in Cairo with mediators Egypt, Qatar and Turkey to resume Gaza ceasefire talks; the handover of Gaza’s administrative control by Hamas has become a central issue in the negotiations.
-
----
-
-### 2026-06-08 00:07:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's parliament speaker Ghalibaf said they neither respect the ceasefire nor trust dialogue; by imposing a maritime blockade and breaching agreements with Lebanon they have shown they only understand the language of force.
-
----
-
-### 2026-06-08 00:06:26  #國際
-
-伊朗首席談判代表卡里巴夫：（對方）既不承諾停火，也不相信對話，他們透過海上封鎖以及違反涉黎巴嫩的各項協議表明，他們只聽得懂實力說話。
-
----
-
-### 2026-06-08 00:05:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Iran’s chief negotiator Ghalibaf said a maritime blockade of Iran and the US’s "green light" to Israel today render US and Israeli regime bases and assets in the region legitimate targets, and that Iran’s armed forces remain ready to strike at any time.
-
----
-
-### 2026-06-08 00:04:35  #焦點 #國際
-
-伊朗首席談判代表卡里巴夫：針對伊朗的海上封鎖，以及美國今日給以色列開綠燈，使得美國以及（以色列）政權在該地區的基地與資產都成為合法目標。我國武裝力量一如既往，隨時做好行動準備。
-
----
-
-### 2026-06-07 23:59:35  #其他 #焦點
-
-【中朝多領域合作為兩國友好注入源源動力】應朝鮮勞動黨總書記、國務委員長金正恩邀請，中共中央總書記、國家主席習近平將於6月8日至9日對朝鮮民主主義人民共和國進行國事訪問。這是習近平總書記時隔7年再次對朝鮮進行國事訪問。 中朝是守望相助的社會主義友好鄰邦，今年是《中朝友好合作互助條約》簽訂65週年。近年來，在兩黨兩國最高領導人戰略引領下，中朝傳統友好合作關係持續健康穩定發展，經濟、文化、教育、青年等領域合作亮點紛呈，造福兩國和兩國人民，為中朝傳統友好注入新的時代內涵，也為促進地區和平與發展作出積極貢獻。（新華社）
-
----
-
-### 2026-06-07 23:59:02  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Israeli airstrikes on multiple Lebanese locations kill 2, injure 11】Israel launched airstrikes on Beirut's southern suburbs and the southern port city of Tyre on the 7th, killing two and wounding 11. The Lebanese Health Ministry said on the same day that since fighting resumed on March 2 Israeli strikes have killed 3,613 people and injured 11,072 in Lebanon.
-
----
-
-### 2026-06-07 23:58:47  #國際
-
-【以色列空襲黎巴嫩多地致多人死傷】據黎巴嫩國家通訊社7日報道，以色列當天對黎首都貝魯特南郊和黎南部港口城市提爾等地發動空襲，已造成2人死亡、11人受傷。報道說，以色列空軍對貝魯特南郊發射3枚導彈，目標是兩棟建築內的兩套公寓。此外，以色列戰機對提爾發動兩次空襲，轟炸提爾市區一所大學周邊地區和一家咖啡館。（新華社）
-
----
-
-### 2026-06-07 23:58:04  #國際
-
-市場資訊：烏克蘭於當地時間6月6日動用約40架攻擊無人機，襲擊了俄羅斯列寧格勒州大伊若拉鎮的一處海軍武器倉庫。俄方防空系統擊落32架無人機，但仍有無人機命中地面機庫及倉儲區域並引發爆炸。本次襲擊造成約5000噸物資損毀，損毀物資以火炮彈藥和工程彈藥為主，另有兩名倉庫工作人員遇難。
-
----
-
-### 2026-06-07 23:57:23  #國際
-
-烏克蘭總統澤連斯基抵達英國，將與英國首相斯塔默、法國總統馬克龍及德國總理默茨舉行會談，他還計劃於明日會見英國國王查爾斯三世。
-
----
-
-### 2026-06-07 23:53:14  #國際
-
-【主要產油國宣佈7月繼續保持增產】石油輸出國組織（歐佩克）7日發表宣告說，7個“歐佩克+”主要產油國決定7月日均增產原油18.8萬桶。至此，主要產油國已連續四個月宣佈增產。沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞和阿曼的代表當天舉行線上會議，討論國際石油市場形勢及前景。會後宣告說，為維護石油市場穩定，7國將根據市場情況靈活調整增產節奏。（央視新聞）
-
----
-
-### 2026-06-07 23:51:00  #其他
-
-加拿大總理卡尼將訪問愛爾蘭和法國以加強與兩國的關係。
-
----
-
-### 2026-06-07 23:49:25  #國際
-
-鑑於黎巴嫩局勢的發展以及伊朗發出的宣告，以色列總理內塔尼亞胡預計將於週日晚些時候與國防部長卡茨和高階安全官員召開安全磋商會議。
-
----
-
-### 2026-06-07 23:49:19  #MKT News
-
-Israel's Channel 15 reported Prime Minister Netanyahu and the defense minister met today to discuss an Iranian threat.
-
----
-
-### 2026-06-07 23:47:17  #其他
-
-卡達釋出航行通告，在多哈飛行情報區內啟用臨時備用航線，調整多哈、烏代德機場離場航線及通往巴林、達曼、阿聯酋等區域飛行情報區的航路。相關航司須按指定航線飛行，並留意周邊空域通告。該舉措6月7日至6月14日生效。
-
----
-
-### 2026-06-07 23:46:55  #其他
-
-伊拉克南部一輛公共汽車與一輛卡車相撞，造成18人死亡。
-
----
-
-### 2026-06-07 23:46:36  #公司 #市場 #國際
-
-美國聯合航空CEO斯科特·柯比表示，儘管機票價格大幅上漲，高收入人群仍持續出行消費，這讓他相信高階航空產品的需求能夠頂住漲價壓力。
-
----
-
-### 2026-06-07 23:45:01  #國際
-
-美國國防部長赫格塞思：伊朗不應向我方發動襲擊，倘若其採取行動，我方將按既定方案予以應對。我方預計很快會與伊朗達成一份理想協議。
-
----
-
-### 2026-06-07 23:44:32  #MKT News
-
-CENTCOM said sailors aboard the aircraft carrier George H.W. Bush (CVN-77), operating in the Arabian Sea, are conducting nighttime flight operations. The ship is one of two U.S. carriers currently deployed to the Middle East.
-
----
-
-### 2026-06-07 23:44:09  #宏觀 #國際
-
-特朗普政府同意將第三國移民遣送至中非共和國，美國國務院還將整合非洲地區簽證辦理中心。
-
----
-
-### 2026-06-07 23:43:41  #國際
-
-美國中央司令部：喬治·布什號航空母艦（CVN-77）航行於阿拉伯海期間，艦上官兵開展夜間飛行作業。該艦是目前部署在中東地區的兩艘航空母艦之一。
-
----
-
-### 2026-06-07 23:42:27  #MKT News
-
-Qatar issued a NOTAM requiring flights transiting its airspace to reroute and providing alternate routings for aircraft departing Doha and airports in Saudi Arabia. The notice is effective June 7-14.
-
----
-
-### 2026-06-07 23:41:31  #國際
-
-伊朗國家足球隊抵達墨西哥，備戰國際足聯世界盃。
-
----
-
-### 2026-06-07 23:39:41  #焦點 #國際
-
-在失聯六個月後，美國國家航空航天局宣佈，火星探測器馬文號任務終結。
-
----
-
-### 2026-06-07 23:39:11  #MKT News
-
-【Three earthquakes strike sea off southern Kamchatka within 10 minutes】Local time night of the 7th, three earthquakes occurred in the sea near Russia's southern Kamchatka Peninsula within 10 minutes, magnitudes 6.4, 5.6 and 5.3. No reports of casualties or property damage so far.
-
----
-
-### 2026-06-07 23:39:10  #國際
-
-【俄堪察加半島南部海域10分鐘內3次地震】俄羅斯堪察加半島南部附近海域當地時間7日夜間在10分鐘內發生3次地震，震級依次為6.4、5.6、5.3級，目前尚無地震造成人員財產損失的報告。（新華社）
-
----
-
-### 2026-06-07 23:37:40  #國際
-
-【美國共和黨主導選區重劃 加大民主黨拿下眾議院的難度】美國多個由共和黨主導的州完成國會選區重劃後，民主黨若想在2026年中期選舉中重掌眾議院多數席位，全國得票率需較2024年提升近5個百分點。眾議院的控制權，將決定特朗普在任期最後兩年是基本不受掣肘地施政，還是要面對手握傳訊權、行使監督職能的眾議院。假設空缺席位由原所屬政黨收回，民主黨還需再拿下3個席位才能掌控眾議院。本輪選區重劃之前，民主黨得票率需比2024年哈里斯的全國得票優勢高出3.1個百分點，才能拿下眾議院多數席位；如今這一數值升至4.9個百分點。美國媒體結合選區資料分析發現，新選區版圖相當於為共和黨在全國選票比拼中額外增加了近2個百分點的優勢。
-
----
-
-### 2026-06-07 23:35:46  #國際
-
-伊朗議會國家安全與外交政策委員會發言人易卜拉欣·禮薩伊：針對以色列襲擊貝魯特南郊達希耶的行為，我方將予以堅決且沉重的回擊；今晚，請關注被佔領土上空的動向。
-
----
-
-### 2026-06-07 23:28:26  #其他
-
-【盒馬麻薯純脂黑巧變代可可脂，或涉虛假宣傳？客服回應】6月7日晚間訊息，據媒體報道，近日有消費者在盒馬app上購買了一款雙拼麻薯，詳情頁寫著“純脂黑巧克力”，但配料表中卻寫著“代可可脂”，有律師觀點指出或涉嫌虛假宣傳。截至發稿，在盒馬App中，該款商品仍在售賣，售價為23.9元/盒，詳情頁圖片中“醇厚黑巧、“58%純脂黑巧克力”字樣醒目，而主要成分列表中則包含代可可脂黑巧克力、可可粉等。一般來說，“純脂”指天然可可脂，成本較高，口感較好。而“代可可脂”是氫化植物油，可能含反式脂肪酸，成本較低。根據國家標準《巧克力及巧克力製品（含代可可脂巧克力及代可可脂巧克力製品）通則》規定，代可可脂新增量超過5%的產品不能直接稱為“巧克力”，應明確標示為“代可可脂巧克力”。盒馬客服熱線工作人員表示，無法解答商品詳情頁圖文和成分列表有出入的問題，會如實記錄反饋。被問及圖文資料是否可能存在錯誤，工作人員表示，“也有可能，但不敢保證。如果收到商品與圖文或詳情介紹有差距的話，可以聯絡進行處理。”
-
----
-
-### 2026-06-07 23:27:58  #國際
-
-【特朗普呼籲對黎巴嫩真主黨實施更“精準”的打擊】特朗普在接受採訪時表示：“我希望黎巴嫩能過上更好的生活。我希望對真主黨採取更精準的打擊。我認為打擊應該更精準。”
-
----
-
-### 2026-06-07 23:26:49  #國際
-
-【美共和黨參議員：特朗普不會與伊朗達成一份糟糕的協議】美國共和黨參議員詹姆斯·蘭克福德在接受採訪時表示，儘管面臨儘快結束談判的壓力，但特朗普不會與伊朗達成一份糟糕的協議。“伊朗顯然想把我們牽著鼻子走，而特朗普對此完全不會買賬。”蘭克福德說。他補充道：“有意思的是，有不少左翼人士，甚至一些右翼人士，都在極力推動總統為了趕緊了事而簽下一份糟糕的協議。”
-
----
-
-### 2026-06-07 23:25:29  #國際
-
-美國在和談中逐步淡出，烏克蘭轉而尋求歐洲方面出面斡旋。
-
----
-
-### 2026-06-07 23:22:47  #MKT News
-
-【Republican-led redistricting leaves Democrats needing ~5 percentage points more than 2024 to retake House; new maps give GOP ~2 percentage-point national edge】Republican-led states have completed congressional redistricting. To regain a House majority in the 2026 midterms, Democrats would need to outperform their 2024 national popular vote by about 5 percentage points. An Axios analysis estimates the new maps confer roughly a 2 percentage-point advantage to Republicans in the national popular vote. In the 10 states that redrew maps, Democrats currently hold 80 seats and Republicans 101; Democrats would need to flip three seats to win House control, which would determine whether Trump’s final two years face congressional checks.
-
----
-
-### 2026-06-07 23:22:35  #國際
-
-以色列訊息人士：以方立場明確，一旦真主黨向以色列發起攻擊，以軍將打擊其位於達希耶的總部。
 
 ---

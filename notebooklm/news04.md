@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 23:21:39_
-_本檔包含 3565 則快訊，約 660846 字_
+_更新時間：2026-06-15 00:11:44_
+_本檔包含 3567 則快訊，約 661838 字_
+
+---
+
+### 2026-06-10 10:25:35  #國際
+
+韓國綜合股價指數跌幅擴大至3.8%。
+
+---
+
+### 2026-06-10 10:25:27  #市場 #焦點
+
+南向資金淨買入額達50億港元。
+
+---
+
+### 2026-06-10 10:25:18  #國際
+
+印尼將廣泛使用的92號辛烷值汽油價格上調32%。
+
+---
+
+### 2026-06-10 10:24:53  #市場 #國際
+
+印尼股市基準指數上漲2%至5860.21點。
+
+---
+
+### 2026-06-10 10:24:31  #宏觀 #國際
+
+【國臺辦：數典忘祖、背叛民族的人都將被釘在歷史恥辱柱上】國務院臺辦舉行例行新聞釋出會。有記者問：針對日本、菲律賓宣佈啟動所謂“海域劃界談判”，大陸強調一中原則，兩岸應共同維護國家主權和領土完整。民進黨當局則妄稱“兩岸互不隸屬”，並表示臺與日、菲分別簽有“漁業協議”，將繼續與日菲協商海事議題。另據媒體報道，日方已拒絕了民進黨當局的對話請求。對此有何評論?發言人張晗表示，日菲宣佈的擬劃界海域位於臺灣島以東，中國在上述海域擁有專屬經濟區和大陸架，日菲繞開中國擅自啟動所謂劃界談判，嚴重侵害中國海洋權益，嚴重違反國際法和國際關係基本準則完全非法無效。民進黨當局卑躬屈膝，迎合外部勢力，已經淪為徹頭徹底的民族敗類。面對兩岸同胞的同聲譴責，民進黨當局又變了副嘴臉，翻炒“臺獨”謬論，妄圖轉移焦點欺騙民眾。正告民進黨當局，任何數典忘祖、背叛民族的人都將無一例外被釘在歷史的恥辱柱上。
+
+---
+
+### 2026-06-10 10:23:35  #公司 #國際 #原創
+
+【日本三大銀行擬2027年3月前聯合發行穩定幣】日本三大銀行週三表示，將在截至2027年3月的本財年聯合發行穩定幣，這顯示在現金和信用卡依然盛行的日本，數字支付的發展勢頭正日益增強。三菱日聯金融集團、三井住友金融集團和瑞穗金融集團在宣告中表示，它們的銀行部門將成立一個委員會，以審查運營框架併為發行做好準備。
+
+---
+
+### 2026-06-10 10:23:29  #MKT News #Market Themes #China EV Leaders #09868.HK #Impact bearish #09866.HK #01211.HK
+
+Hong Kong-listed new-energy vehicle shares fell: XPeng Group (09868.HK), NIO-SW (09866.HK) and Leapmotor (09863.HK) each dropped more than 5%, while SERES (09927.HK), Xiaomi Group (01810.HK), BYD Co. (01211.HK) and Li Auto (02015.HK) also declined.
+
+---
+
+### 2026-06-10 10:22:50  #MKT News
+
+【Zhongxin Tourism: Summer bookings hit peak; trips up 37% YoY】Zhongxin Tourism said in its 2026 Summer Travel Trend Report that bookings entered a peak period over the past three weeks, with weekly GMV repeatedly exceeding CNY100 mln. The report shows summer travel trips are up 37% YoY and travel product variety is up 38% YoY.
+
+---
+
+### 2026-06-10 10:21:21  #市場
+
+【眾信旅遊：暑期旅遊預訂進入高峰期 出遊人次同比上漲37%】6月10日，眾信旅遊釋出《2026暑期出遊趨勢報告》顯示，近三週暑期旅遊產品預訂進入高峰期，單週GMV持續突破億元，旅遊消費需求全面釋放。資料顯示，截至目前，今年暑期整體出遊人次較去年同期上漲37%，旅遊產品豐富度同比提升38%。
+
+---
+
+### 2026-06-10 10:21:08  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Fall After Inflation Data — The Shanghai Composite fell 0.4% to 3,995 on Wednesday, while the Shenzhen Component dropped 1.4% to 15,063, reversing the previous session's gains as investors weighed the inflationary impact of surging global energy prices stemming from prolonged tensions in the Middle East. Annual producer prices climbed to 3.9% in May 2026 from 2.8% in the previous month. It marked the highest reading since July 2022, as higher commodity and energy costs were amplified by supply disruptions linked to the conflict. Meanwhile, China's annual consumer inflation rate held steady at 1.2% in May, slightly below market expectations of 1.3%, while core CPI also came in below forecasts, edging down to 1.1% from 1.2% in April. Among the biggest decliners were PetroChina (-5.6%), China Shenhua Energy (-3.5%), CATL (-1.1%), Zhongji Innolight (-1.9%), and BYD (-1.4%).
+
+---
+
+### 2026-06-10 10:20:15  #國際
+
+貝萊德亞太區負責人：預計亞洲ETF市場將實現“巨大增長”。科技股拋售是創造超額收益（Alpha）的機會。對日本私募市場有濃厚興趣。傳統的60-40資產配置表現不佳。在私人信貸中看到特有風險問題。私人信貸違約率非常低。在中國看到“巨大價值”和投資興趣。
+
+---
+
+### 2026-06-10 10:20:05  #國際
+
+【伊朗稱摧毀約旦美軍基地F－35戰鬥機機庫】伊朗伊斯蘭革命衛隊公共關係部門10日發表宣告稱，“打擊並摧毀了”位於約旦阿茲拉克美軍基地的4個重要目標，其中包括指揮控制中心和F-35戰鬥機機庫。（新華社）
+
+---
+
+### 2026-06-10 10:19:58  #宏觀
+
+【臺獨在小熊貓身上作文章，國臺辦回應】6月10日，國務院臺辦舉行例行新聞釋出會。有記者問：根據“上海臺北城市論壇”雙方合作備忘錄，今年6月5日在上海動物園舉行了小熊貓的移交儀式，引發兩岸網友的關注與好評，但是卻有民進黨的政客稱，“雙城論壇”會成為“滲透的破口”，請問對此有何評論？ 發言人張晗表示，“上海臺北城市論壇”作為兩城市間的重要機制化交流平臺，為促進兩地各領域交流合作發揮了重要積極的作用。“臺獨”勢力動輒以所謂“滲透破口”抹黑兩岸交流合作，這次又在小熊貓身上作政治文章，荒唐可笑。
+
+---
+
+### 2026-06-10 10:19:01  #宏觀
+
+【國臺辦：要和平、要發展、要交流、要合作的臺灣主流民意壓制不住】6月10日，國務院臺辦舉行例行新聞釋出會。有記者問，臺“民主文教基金會”近日民調顯示，近六成臺灣民眾支援主動與大陸進行和平談判，近七成臺灣民眾認為應改善兩岸關係、爭取和平。有島內輿論認為，當兩岸議題從統“獨”轉向“戰爭與和平”的選擇時，臺灣民意尤其是年輕族群的態度已出現變化。請問對此有何評論?發言人張晗答問表示，要和平、要發展、要交流、要合作的臺灣社會主流民意是壓制不住的。相關民調再次證明，兩岸同胞都是中國人、一家人，都期盼臺海和平安寧，期盼兩岸關係改善發展，期盼生活更加美好。祖國和民族的前途寄託在青年人身上。越來越多臺灣同胞，特別是青年朋友認識到，臺灣的發展、臺灣同胞的利益福祉繫於兩岸關係和平發展、祖國統一、中華民族偉大復興。我們歡迎並支援更多的兩岸青年常來常往，增進理解，同心同行，把兩岸關係的未來牢牢掌握在中國人自己手中。（新華社）
+
+---
+
+### 2026-06-10 10:18:52  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share banking sector moved higher after choppy trading; Qingdao Bank up >3%, China Construction Bank, Agricultural Bank of China and Bank of China up >2%; Xiamen Bank, Industrial & Commercial Bank of China (ICBC), Shanghai Rural Commercial Bank and Chongqing Rural Commercial Bank also advanced.
+
+---
+
+### 2026-06-10 10:18:26  #國際
+
+特朗普政府敦促法官否決阻止白宮舉辦UFC賽事的申請。
+
+---
+
+### 2026-06-10 10:18:14  #國際
+
+【歐盟機構：全球經歷有記錄以來第二熱的5月】歐盟氣候監測機構哥白尼氣候變化服務局10日釋出的公報顯示，今年5月是全球有記錄以來氣溫第二高的5月，預計未來數月內形成的厄爾尼諾現象可能在全球多地引發極端天氣。 公報說，今年5月全球地表平均氣溫為15.81攝氏度，比1991年至2020年同期平均值高出0.55攝氏度，僅次於2024年5月，為有記錄以來第二熱的5月；較工業化前水平高出1.42攝氏度。 資料還顯示，今年5月，南緯60度至北緯60度之間的全球海洋表面平均溫度為20.9攝氏度，為有記錄以來同期第二高，僅低於2024年5月的20.93攝氏度。5月，熱帶太平洋大範圍海域海表溫度維持在異常高位，赤道太平洋正繼續向厄爾尼諾狀態過渡，預計未來數月內將形成厄爾尼諾現象，並可能在全球範圍內引發極端天氣。 根據公報，5月歐洲大陸天氣經歷急劇轉變，多地氣溫在5月20日前後迅速由低於平均水平轉為高於平均水平。5月下半月，歐洲西部遭遇了異常偏早且強烈的熱浪，法國、英國等國多地打破5月同期氣溫紀錄。歐洲中期天氣預報中心氣候戰略負責人薩曼莎·伯吉斯表示，這表明極端氣候事件正迅速從例外情況變為新的常態。 公報稱，海冰監測方面，5月北極海冰平均面積較同期平均水平低約4%，為有記錄以來同期第四低；南極海冰面積較同期平均水平低約9%，為有記錄以來同期第七低。(新華社)
+
+---
+
+### 2026-06-10 10:18:11  #其他
+
+【造紙板塊走弱，民士達跌超16%】造紙板塊走弱，民士達跌超16%，景興紙業、榮晟環保、森林包裝、民豐特紙等跟跌。
+
+---
+
+### 2026-06-10 10:18:06  #市場 #焦點
+
+【銀行板塊逆勢拉昇 建設銀行漲近2%續創歷史新高】銀行板塊逆勢拉昇，建設銀行漲近2%，續創歷史新高，A+H股總市值達2.04萬億元，青島銀行漲超3%，農業銀行、中信銀行、中國銀行、工商銀行等跟漲。
+
+---
+
+### 2026-06-10 10:17:01  #MKT News #Market Regions #Greater China #00762.HK #Impact bullish #00552.HK #00728.HK
+
+Hong Kong-listed telecoms rallied: China Unicom (00762.HK) rose more than 6%, China Communications Services (00552.HK) and China Telecom (00728.HK) rose over 5%, and China Mobile (00941.HK) gained just over 1%.
+
+---
+
+### 2026-06-10 10:16:57  #市場 #國際
+
+韓國KOSPI指數跌破7800點，日內跌3.67%。
+
+---
+
+### 2026-06-10 10:16:52  #MKT News
+
+South Korea's KOSPI index fell below 7,800, plunging 3.67% intraday.
+
+---
+
+### 2026-06-10 10:16:26  #MKT News #CNH #Impact bullish #Hang Seng Index #XAUUSD #Impact bearish
+
+【Taiwan Affairs Office: Peaceful reunification would eliminate war risk from 'Taiwan independence'】June 10 — The State Council Taiwan Affairs Office said at a regular briefing that spokesperson Zhang Han said after peaceful reunification, with a strong motherland backing, Taiwan’s security guarantees would be improved and the war risk posed by 'Taiwan independence' would be eliminated at its root. Zhang said Taiwan residents would no longer be used as 'cannon fodder', residents’ money would not be spent on arms purchases, private homes and temples would not be stockpiled with ammunition, and external interference in cross‑strait affairs would be cut off.
+
+---
+
+### 2026-06-10 10:16:08  #公司 #國際 #原創
+
+【星巴克據悉考慮日本業務相關選項 包括出售股權和IPO】據多位知情人士透露，星巴克正在考慮日本業務的相關選項，其中包括出售股權。此前，該公司已出售中國業務的多數股權。知情人士稱，這家美國咖啡連鎖巨頭已與投資銀行進行了初步磋商，以幫助確定日本業務的處理方式。知情人士因相關討論未公開而不願具名。日本是星巴克最大的市場之一，約有2,100家門店，其中大多數由星巴克直接運營。部分知情人士稱，出售股權的估值可能在4000億日元至5000億日元，並可能吸引其他行業參與者和私募股權公司的興趣。他們說，將日本業務IPO也是一個選項。知情人士補充稱，相關考慮仍處於初步階段，尚未作出最終決定。
+
+---
+
+### 2026-06-10 10:15:36  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Drop Toward 11-Month Lows — The Hang Seng Index fell 208 points, or 0.9%, to 24,350 on Wednesday, extending losses to a sixth consecutive session and hitting its lowest level since July 2025. Investor sentiment remained fragile amid escalating tensions in the Middle East and a renewed selloff in selected technology shares. Markets were pressured after reports that US forces launched fresh strikes against Iran following the downing of an American helicopter, raising concerns about broader regional instability and threatening a fragile ceasefire. Oil prices also rebounded on fears of potential supply disruptions. Meanwhile, investors assessed China's latest inflation data, which showed annual consumer price growth held steady at 1.2% in May, unchanged from April, reinforcing expectations that policymakers may continue implementing measures to support the economic recovery. Among the biggest decliners were Lenovo (-5.2%), Xiaomi (-1.8%), HKEX (-0.7%), SMIC (-0.9%), and Knowledge Atlas Technology (-3.4%).
 
 ---
 
@@ -21334,143 +21484,5 @@ Japan | M2 Money Supply (YoY) (May) | actual 2.5% | previous 2.30%
 ### 2026-06-09 07:41:42  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Steadies as Iran and Israel Halt Strikes — Brent steadied near $94 per barrel on Tuesday after surrendering most of the previous session’s gains, as Iran and Israel agreed to halt attacks against each other, boosting hopes that peace negotiations could move forward. The two countries exchanged strikes over the weekend, threatening a fragile ceasefire and fueling fears of a broader escalation. President Donald Trump urged both sides to deescalate and said talks with Tehran are continuing, adding that oil prices should ease once the conflict ends. While the ceasefire remains intact, the Strait of Hormuz is still effectively closed under a dual blockade by the US and Iran, severely disrupting shipments of crude, refined fuels, and natural gas to global markets.
-
----
-
-### 2026-06-09 07:41:14  #資料 #觀點
-
-【華泰證券策略：關注AI通脹與資源通脹】華泰證券策略指出，5月全行業景氣指數小幅回落，與PMI回落相印證，或反映當前需求仍待改善。分板塊看，近3個月中游材料、上游資源、TMT景氣改善幅度居前。行業層面，景氣改善的線索較上個月更聚焦：AI通脹下算力端光通訊、儲存、MLCC景氣爬坡，此外端側消費電子、應用端遊戲景氣亦改善；漲價鏈景氣改善斜率居前，如煤炭、鋼鐵、裝修建材、部分化工品、小金屬、工業金屬、航運港口等；以新能源為代表的中游製造景氣上行，如電池、通用裝置、航海裝備、農業機械等。
-
----
-
-### 2026-06-09 07:41:11  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Steadies as Iran and Israel Halt Strikes — Crude oil steadied near $91 per barrel on Tuesday after surrendering most of the previous session’s gains, as Iran and Israel agreed to halt attacks against each other, boosting hopes that peace negotiations could move forward. The two countries exchanged strikes over the weekend, threatening a fragile ceasefire and fueling fears of a broader escalation. President Donald Trump urged both sides to deescalate and said talks with Tehran are continuing, adding that oil prices should ease once the conflict ends. While the ceasefire remains intact, the Strait of Hormuz is still effectively closed under a dual blockade by the US and Iran, severely disrupting shipments of crude, refined fuels, and natural gas to global markets.
-
----
-
-### 2026-06-09 07:39:30  #央行 #美聯儲
-
-【城堡證券：通脹壓力或迫使美聯儲很快加息】據報道，城堡證券認為，美聯儲可能“很快”需要加息，以遏制日益加劇的通脹壓力。城堡證券稱，大規模人工智慧投資週期、能源市場趨緊以及勞動力市場走強共同推高了經濟增長和通脹的上行風險，“美聯儲的下一步行動很可能是加息……也許很快”。
-
----
-
-### 2026-06-09 07:39:16  #市場 #國際
-
-【在持續的供應干擾擔憂之際，油價小幅走高】在持續的供應干擾擔憂之際，油價在早盤交易中小幅走高。澳新銀行研究部的分析師在一份研究報告中說，雖然伊朗和以色列暗示他們將避免敵對行動進一步升溫，但葉門胡塞武裝宣佈將全面禁止以色列船隻在紅海航行。這些分析師補充說，這“增加了沙烏地阿拉伯原油進入國際市場的關鍵替代路線之一的風險“，儘管對於什麼構成以色列船隻存在一些猜測。近月西得州中質油期貨上漲0.1%，報每桶91.40美元。
-
----
-
-### 2026-06-09 07:39:00  #觀點
-
-【華泰證券：英偉達晶片記憶體降配報道若屬實 短期回撥提供高擁擠交易再平衡良機】華泰證券研報稱，SemiAnalysis於6月4日報告指出，英偉達將計劃於3Q26開售的新一代AI伺服器VeraRubinNVL72的CPU側記憶體用量減半。儘管報告說明該調整由三大原廠儲存供給緊張所驅動，仍引發投資人對“AI儲存需求見頂”的擔憂，6月5日，美光、閃迪、西部資料、希捷等美股儲存板塊普跌（閃迪-11.2%、美光-9.5%、西部資料-8.5%、希捷-6.6%）。基於對相關報告的分析，我們認為：1）降配本質上是供給端硬約束下原廠產能配給的“果”，而非算力需求走弱的“因”，若降配，直接影響相當於2026/2027年全球DRAM需求分別下降約1.6%/4.2%；2）若降規屬實，我們仍預計2027年儲存供需缺口降規前約-7%、降規後約-3%，儲存上行週期不改；3）我們認為短期回撥提供高擁擠交易再平衡良機。
-
----
-
-### 2026-06-09 07:38:39  #市場 #央行 #國際
-
-【城堡證券：通脹壓力或迫使美聯儲很快加息】城堡證券稱，大規模人工智慧投資週期、能源市場趨緊以及勞動力市場走強共同推高了經濟增長和通脹的上行風險，“美聯儲的下一步行動很可能是加息……也許很快”。
-
----
-
-### 2026-06-09 07:38:07  #MKT News
-
-【MSCI to apply standard large-IPO treatment to SpaceX Nasdaq IPO】MSCI said on June 8 it will apply its standard large-IPO methodology to SpaceX's Nasdaq IPO. SpaceX must meet index constituent eligibility rules to be considered for early inclusion; any early-inclusion decision would take effect at the close of the 10th trading day.
-
----
-
-### 2026-06-09 07:36:07  #國際
-
-美國國家颶風中心（NHC）表示，颶風“克里斯蒂娜”的中心正進一步靠近中美洲海岸；預計未來幾天將迎來強降雨，離岸風影響區域可能出現沿海洪水。
-
----
-
-### 2026-06-09 07:34:18  #市場 #焦點
-
-紐約期金失守4340美元/盎司，日內跌0.52%。
-
----
-
-### 2026-06-09 07:34:15  #公司 #市場 #國際
-
-【韓國股指期貨隔夜大幅反彈 漲幅達 5.4%】過去兩個交易日的風險衝擊行情已基本收尾，亞洲各地投資者有望迎來期待已久的喘息時機。美股迴歸常態走勢也起到助力作用。受市場多方利好言論及持續傳出的投資訊息提振，科技股大幅反彈。人工智慧領域融資活動持續推進，亞馬遜發行了史上規模最大的加元債券。英偉達黃仁勳與韓企簽署多項合作協議，加之韓國國民年金基金推動韓元走強，韓國股指期貨隔夜大幅反彈，漲幅達 5.4%。
-
----
-
-### 2026-06-09 07:33:42  #國際
-
-美國國家颶風中心（NHC）表示，颶風鮑里斯正逼近墨西哥南部海岸。
-
----
-
-### 2026-06-09 07:32:07  #其他
-
-【萬噸級船舶“爬樓梯”翻越大壩 三峽新通道解鎖通航新模樣】6月8日，三峽水運新通道工程在湖北省宜昌市正式開工建設，這是“十五五”時期我國開工建設的首個重大標誌性工程，三峽水運新通道工程包含三峽樞紐新通道和葛洲壩航運擴能。目前，三峽船閘的主流通航船型是5000噸級，而這條新通道可以通行萬噸級大型船舶，整體年透過能力達到3.36億噸，通航效率提高的同時，萬噸級船舶貨運成本還可以下降約30%。建成後，三峽樞紐將形成四線船閘加升船機的格局，上下游最大水位落差達到113米，這些船舶會像爬樓梯一樣逐級平穩升降，全年全天候安全通航。（央視）
-
----
-
-### 2026-06-09 07:31:19  #市場
-
-新加坡交易所日經股指期貨開盤上漲1595點，報65530點。
-
----
-
-### 2026-06-09 07:29:04  #市場 #觀點
-
-【中信建投：低軌衛星組網加速，Computex多款新品釋出】中信建投研報指出，千帆星座一週三次組網發射，在軌衛星達到200顆。6月文昌計劃5次發射任務，近期多款民營火箭首飛在即，火箭供給端逐步豐富疊加發射服務保障能力完善，商業航天產業程序有望加速。SpaceX上市在即，有望快速納入納指，板塊有望迎來價值重估。Computex多款新品重磅釋出，雲端向機櫃級發展，同時端側落地進一步加速。英偉達、英特爾機櫃級產品推出；英偉達端側釋出AIPC晶片以及物理AI多項更新，圍繞自動駕駛和具身智慧應用全面擴散。
-
----
-
-### 2026-06-09 07:29:02  #市場 #焦點
-
-現貨黃金失守4320美元/盎司，日內跌0.21%。
-
----
-
-### 2026-06-09 07:29:01  #觀點
-
-【中信建投：市場成交處於高位，盈利韌性與估值低位支撐非銀投資價值】中信建投研報指出，本週股票成交額環比出現回落，但繼續維持高位，市場交投情緒仍在較高水平。當前保險板塊估值具有較高配置價值，當前股價過度反映較高基數帶來的潛在業績增速壓力，資產端回暖有望帶動二季度利潤增速和股價修復。港股非銀板塊在低估值特徵與盈利改善預期共振下中長期配置價值凸顯。監管邏輯趨穩、促消費導向明確、AI技術提效的背景下，消費金融行業處於政策紅利與技術紅利的雙重驅動期。
-
----
-
-### 2026-06-09 07:28:44  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Russian deputy foreign minister said Russia and Belarus remain prepared to use all available means, including nuclear weapons, to ensure their security.
-
----
-
-### 2026-06-09 07:28:31  #國際
-
-俄羅斯副外長對《訊息報》表示，俄羅斯和白俄羅斯始終準備好動用一切可用手段，包括核武器，來保障國家安全。
-
----
-
-### 2026-06-09 07:28:17  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【CITIC Securities: Stalled talks accelerate inventory draws, oil to rise this week】CITIC Securities research note said markets underappreciate near- and mid-term upside risk to oil. Near term, the Strait of Hormuz has been closed for weeks and more wells have been forced offline; prolonged outages risk permanent capacity loss. Over the medium term, low capex has pushed US drilled‑but‑uncompleted inventories and new drilling to multi‑year lows, making sustained US high output unlikely and shifting residual supply and pricing power toward Middle East producers. Markets were overly optimistic on a quick end to the Middle East conflict; forward oil is being repriced higher and potential upside to inflation merits monitoring.
-
----
-
-### 2026-06-09 07:27:23  #國際
-
-烏克蘭：根據楚胡伊夫市長的報告，五人在俄羅斯導彈襲擊後死亡，另外三人受傷。
-
----
-
-### 2026-06-09 07:26:46  #觀點
-
-【中信建投：火箭降本開啟商業航天新週期，柔性化引領太陽翼技術新趨勢】中信建投研報指出，低軌資源稀缺且先到先得，全球衛星組網競賽白熱化。SpaceX規劃超百萬顆衛星，中國星網/千帆/鴻擎合計規劃近4萬顆，ITU時限約束下各方加速搶佔頻軌資源。可回收火箭是產業提速核心催化：國內多款火箭密集衝刺複用試驗，SpaceX V3星艦發射成本有望大幅下降。太陽翼是產業鏈確定性最強的通脹環節，單星功率提升驅動面積增長。砷化鎵為目前主流方案，但由於鎵、鍺相對稀缺且受出口管制，供需關係緊張將推動價格高漲，將採用P型HJT晶矽/鈣鈦礦路線作為補充，目前北美Space X採用晶矽方案已顯現經濟性，矽材料充裕且不受專利限制，更適合海外大規模生產。
-
----
-
-### 2026-06-09 07:25:21  #國際
-
-【歐盟內部圍繞推動俄烏談判存在分歧】歐盟外交與安全政策高階代表卡拉斯8日表示，必須做出一切努力，以便俄羅斯和烏克蘭能夠進行對話，同時歐洲的核心安全利益也需要得到尊重。但卡拉斯認為現在不是與俄羅斯就烏克蘭問題展開談判的合適時機。總檯記者獲悉，目前歐盟內部對於如何推動談判以及何時啟動實質性接觸仍存在不同看法，一些國家認為目前尚不具備與俄方開展嚴肅談判的條件。英法德三國領導人7日在倫敦與烏克蘭總統澤連斯基會晤並發表聯合宣告，表示支援烏克蘭和俄羅斯直接對話。（央視）
-
----
-
-### 2026-06-09 07:23:57  #MKT News #Market Regions #Europe & UK
-
-【EU divided over push for Russia-Ukraine talks】EU member states are divided on how and when to press for talks between Russia and Ukraine, EU high representative for foreign affairs and security policy Kallas said on the 8th, urging all efforts to enable dialogue while stressing Europe’s core security interests must be respected but adding now is not the right time for negotiations. Some members say conditions for serious talks with Moscow are not yet in place. Separately, leaders of the UK, France and Germany met Ukraine President Zelenskiy in London on the 7th and issued a joint statement backing direct dialogue between Kyiv and Moscow.
 
 ---
