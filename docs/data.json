@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-15 05:06:05",
-  "count": 18314,
+  "updated": "2026-06-15 05:10:03",
+  "count": 18310,
   "items": [
+    {
+      "id": "4934796",
+      "time": "2026-06-15 05:09:10",
+      "tags": [
+        "央行",
+        "公司",
+        "市場"
+      ],
+      "text": "英國央行行長貝利：減持英國國債，便於必要時再度實施量化寬鬆政策。"
+    },
+    {
+      "id": "4934795",
+      "time": "2026-06-15 05:06:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示，債券發售不會給納稅人增添負擔。"
+    },
     {
       "id": "4934794",
       "time": "2026-06-15 05:05:02",
@@ -168346,62 +168365,6 @@
         "國際"
       ],
       "text": "伊朗外交部表示，伊朗武裝力量對以色列實施了“防禦性打擊”。"
-    },
-    {
-      "id": "mkt:019ea3ea-fba5-7ee0-86d3-b8a3ea2f8ded",
-      "time": "2026-06-08 05:09:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatically recorded a preliminary M4.2 earthquake at 05:07 on June 8 near Kangding, Ganzi Prefecture, Sichuan; final parameters are subject to the agency's formal rapid report."
-    },
-    {
-      "id": "mkt:019ea3ea-09d2-7ee0-86d3-b5bde6969cc2",
-      "time": "2026-06-08 05:08:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel's Coordinator of Government Activities in the Territories said it closed crossings into the Gaza Strip after Iran launched a missile attack on Israel."
-    },
-    {
-      "id": "4922271",
-      "time": "2026-06-08 05:07:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列協調與聯絡政府辦公室表示，凱雷姆沙洛姆口岸和拉法口岸均在此次通行關閉範圍內，生效直至另行通知。"
-    },
-    {
-      "id": "4922270",
-      "time": "2026-06-08 05:07:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列協調與聯絡政府辦公室表示，伊朗對以色列發動導彈襲擊後，將關閉通往加沙地帶的過境點。"
-    },
-    {
-      "id": "4922269",
-      "time": "2026-06-08 05:06:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【使館提醒在伊中國公民加強安全防範】鑑於當前局勢，中國駐伊朗使領館今天（6月8日）提醒在伊中國公民加強安全防範和應急準備，及時向駐伊朗使領館進行報備。如遇緊急情況，請向當地警方報警，並與駐伊朗使領館聯絡。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ea3e8-696b-7ee0-86d3-afa96e52d984",
-      "time": "2026-06-08 05:06:17",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "U.S. Embassy in Jerusalem has directed all U.S. government employees and their families to shelter in place."
     }
   ]
 }
