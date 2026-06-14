@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-15 01:33:10",
-  "count": 18391,
+  "updated": "2026-06-15 01:37:08",
+  "count": 18393,
   "items": [
+    {
+      "id": "mkt:019ec735-0ae5-7dd8-aff5-98f5c989cbaf",
+      "time": "2026-06-15 01:36:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan plans to rename Air Self‑Defense Force as Air and Space Self‑Defense Force】Nikkei reports Tokyo intends to reorganize the Air Self‑Defense Force into an Air and Space Self‑Defense Force within FY2026, formally extending Japan’s security remit to include space. A bill is under review in the Diet; if passed it would be the first Self‑Defense Forces name change since their 1954 founding. The proposal has prompted public concern over military expansion."
+    },
+    {
+      "id": "4934702",
+      "time": "2026-06-15 01:36:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本擬改編航空自衛隊 “安保”範圍擴至宇宙】據《日本經濟新聞》14日報道，日本政府計劃於2026年度內將航空自衛隊改編為“航空宇宙自衛隊”，進一步將日本“安全保障”範圍向外延伸，此舉引發日本輿論對於軍事擴張的強烈擔憂。（新華社）"
+    },
+    {
+      "id": "mkt:019ec734-54eb-7dd8-aff5-964e585eeea9",
+      "time": "2026-06-15 01:35:55",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【UN Secretary-General GUTERRES strongly condemns Israeli airstrikes on Beirut】UN Secretary-General GUTERRES condemned Israeli airstrikes on Beirut, saying they occurred during a ceasefire and as the US and Iran were close to a deal that could pave the way for a peaceful resolution. He warned the conflict is inflicting devastating damage on the global economy, urged all parties to show maximum restraint at this critical moment, and said he strongly hopes ongoing US‑Iran efforts will succeed."
+    },
+    {
+      "id": "mkt:019ec733-369b-7dd8-aff5-88d0ca998854",
+      "time": "2026-06-15 01:34:42",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Israel's Channel 13 reports an Israeli assessment that Trump's efforts to prevent Iran from launching strikes will succeed."
+    },
+    {
+      "id": "4934701",
+      "time": "2026-06-15 01:33:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "分析人士稱，對於法國七國集團峰會，特朗普另有隱密議程。"
+    },
+    {
+      "id": "4934700",
+      "time": "2026-06-15 01:32:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗隊離開蒂華納的酒店，前往洛杉磯出戰世界盃首場比賽。"
+    },
     {
       "id": "4934699",
       "time": "2026-06-15 01:32:16",
@@ -169084,38 +169145,6 @@
         "DXY"
       ],
       "text": "【Israel says it struck Hezbollah command centre in southern Beirut suburb】The Israel Defense Forces said on the 7th it carried out a precision strike on a Hezbollah command centre in the Dahiyeh district south of Beirut, responding to rockets fired at Israel earlier that day. The IDF said the facility was used to plan attacks on Israeli civilians and Israeli forces operating in Lebanon."
-    },
-    {
-      "id": "mkt:019ea325-90f6-7ee0-86d1-6f4ff88add67",
-      "time": "2026-06-08 01:33:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said Iran's assets are neither spoils for Washington nor a compensation fund for its allies."
-    },
-    {
-      "id": "mkt:019ea325-8c24-7ee0-86d1-674597674829",
-      "time": "2026-06-08 01:33:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Responding to reports that the US would use Iranian assets to pay war reparations to regional allies, Iran's deputy foreign minister Gharibabadi said regional governments are not entitled to claim compensation."
-    },
-    {
-      "id": "4922124",
-      "time": "2026-06-08 01:33:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外交部長：伊朗資產既不是華盛頓的戰利品，也不是供其盟友支取的資金。"
-    },
-    {
-      "id": "4922123",
-      "time": "2026-06-08 01:33:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長加里巴迪就媒體報道美國挪用伊朗資產向地區盟友支付戰爭損害賠償金一事表態：地區國家政府無權索要賠償。"
     }
   ]
 }
