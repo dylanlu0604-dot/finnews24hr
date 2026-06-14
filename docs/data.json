@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-14 17:56:09",
-  "count": 18309,
+  "updated": "2026-06-14 18:00:42",
+  "count": 18317,
   "items": [
+    {
+      "id": "mkt:019ec592-b058-7dd8-aff0-a2b17f9cf3da",
+      "time": "2026-06-14 17:59:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said sirens sounded across multiple locations in southern Israel."
+    },
+    {
+      "id": "4934398",
+      "time": "2026-06-14 17:59:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，以色列南部多個地區已拉響空襲警報。"
+    },
+    {
+      "id": "4934397",
+      "time": "2026-06-14 17:58:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺6月14日18時繼續釋出暴雨黃色預警。"
+    },
+    {
+      "id": "4934396",
+      "time": "2026-06-14 17:58:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：以色列南部多個地區觸發了警報，詳情正在核查中。"
+    },
+    {
+      "id": "4934395",
+      "time": "2026-06-14 17:56:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階官員：根據備忘錄草案，美國同意解凍伊朗250億美元的被凍結資產，解凍方式包括直接現金轉賬、區域國家合作以及設立金融信貸額度。"
+    },
+    {
+      "id": "4934394",
+      "time": "2026-06-14 17:56:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗高階官員：根據備忘錄草案，伊朗將立即向所有商船重新開放霍爾木茲海峽，美國則將解除海上封鎖。"
+    },
+    {
+      "id": "mkt:019ec58f-bf6b-7dd8-aff0-99fb5eda1f08",
+      "time": "2026-06-14 17:56:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A senior Iranian official told Refinitiv that under a draft memorandum with the United States, Tehran would agree not to produce or acquire nuclear weapons. The draft also reportedly has the US agreeing that Iran will downblend its on‑shore stockpile of highly enriched uranium; the specific mechanism is to be negotiated within 60 days."
+    },
+    {
+      "id": "4934393",
+      "time": "2026-06-14 17:56:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗高階官員：根據備忘錄草案，美國將在特定期限內免除對伊朗的石油制裁，允許伊朗出售石油並獲取石油收入。"
+    },
+    {
+      "id": "4934392",
+      "time": "2026-06-14 17:55:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗高階官員：美國已在備忘錄草案中同意，伊朗將在其境內稀釋高濃縮鈾庫存，具體機制將在未來60天內討論。"
+    },
+    {
+      "id": "4934391",
+      "time": "2026-06-14 17:55:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗高階官員：根據與美國達成的備忘錄草案，德黑蘭方面同意既不研發也不獲取核武器。"
+    },
     {
       "id": "mkt:019ec58e-816d-7dd8-aff0-90a18431be5f",
       "time": "2026-06-14 17:55:11",
@@ -168394,30 +168479,6 @@
         "Europe & UK"
       ],
       "text": "Russian presidential aide Ushakov said Moscow is maintaining close contact with Kyiv."
-    },
-    {
-      "id": "mkt:019ea184-2471-7ee0-86ce-599c30452263",
-      "time": "2026-06-07 17:57:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "【Cyprus central bank governor urges Europe to issue joint bonds to create safe asset】An ECB Governing Council member and Cyprus central bank governor said on Sunday Europe should drop long-standing political resistance to joint debt issuance and create a large-scale common “safe asset” to strengthen EU sovereignty and stability. He argued the rare synchronicity of economic, geopolitical and institutional conditions strengthens the case for pooled bonds. A common instrument, he said, could lower borrowing costs, reduce market fragmentation and finance large-scale green, digital and AI investments, defence, public-health preparedness and energy-security projects. He acknowledged Germany and the Netherlands’ historical opposition over contingent taxpayer liability, and said the ECB is increasingly pushing the policy shift."
-    },
-    {
-      "id": "4921834",
-      "time": "2026-06-07 17:56:32",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【訊息人士：美計劃動用伊朗資產修復海灣盟友損失】據美國方面6日訊息，有訊息人士透露，美國財政部計劃利用伊朗資產，幫助海灣盟友修復由伊朗造成的損失。美國方面訊息稱，目前還不清楚哪些資產或將被動用，可能的選項包括伊朗被凍結的現金，或是例如油輪之類的硬資產。另據披露，該計劃涉及的似乎並不侷限於遭凍結的伊朗資產。對於以上說法，伊朗方面尚未作出回應。此前一天，5日，伊朗最高領袖軍事顧問雷扎伊強調，美國與伊朗能否達成協議，取決於美國是否同意解凍伊朗240億美元遭凍結資產。（央視新聞）"
     }
   ]
 }
