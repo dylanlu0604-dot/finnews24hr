@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-15 02:01:02",
+  "updated": "2026-06-15 02:04:53",
   "count": 18394,
   "items": [
+    {
+      "id": "mkt:019ec74e-3bfc-7dd8-aff5-f78a9a464a87",
+      "time": "2026-06-15 02:04:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12 reported the US is offering economic incentives to Iran in exchange for Iran refraining from retaliating against Israel over an attack in Beirut."
+    },
+    {
+      "id": "4934716",
+      "time": "2026-06-15 02:02:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "海克斯康集團：副執行長馬丁·奧貝里已決定離職。"
+    },
+    {
+      "id": "4934715",
+      "time": "2026-06-15 02:02:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普批以方“打亂計劃” 稱美伊仍將14日籤協議】美國總統特朗普14日稱，儘管以色列當天早上對黎巴嫩首都貝魯特的襲擊“打亂計劃”，美國和伊朗仍將在當天晚些時候簽署協議。特朗普在接受美國阿克西奧斯新聞網站電話採訪時說，協議原定美東時間14日上午簽署，因以色列對貝魯特的襲擊推遲。“本來應該現在籤的，現在改到幾個小時後”。（新華社）"
+    },
     {
       "id": "4934714",
       "time": "2026-06-15 01:55:49",
@@ -169145,33 +169170,6 @@
         "UAL.O"
       ],
       "text": "United Airlines CEO Scott Kirby said the carrier is unlikely to pursue consolidation."
-    },
-    {
-      "id": "mkt:019ea340-f137-7ee0-86d1-a5c036e88041",
-      "time": "2026-06-08 02:03:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.2-magnitude earthquake strikes Bhutan; depth 10 km】cenc measured a magnitude 5.2 earthquake at 01:36 on June 8 in Bhutan (27.33N, 89.90E); focal depth 10 km."
-    },
-    {
-      "id": "4922141",
-      "time": "2026-06-08 02:02:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "官方結果顯示：已統計超14%選票後，科索沃自決黨在議會選舉中以38.7%的得票率領先。"
-    },
-    {
-      "id": "mkt:019ea33e-f852-7ee0-86d1-9f598cb0d518",
-      "time": "2026-06-08 02:01:13",
-      "tags": [
-        "MKT News",
-        "029.HK",
-        "Impact bullish",
-        "AIR.PA"
-      ],
-      "text": "Cathay Pacific CEO plans to increase orders for widebody, narrowbody and freighter aircraft. Low-cost carrier Hong Kong Express will retain an all-Airbus fleet. The CEO does not expect further capacity cuts this year due to fuel prices."
     }
   ]
 }
