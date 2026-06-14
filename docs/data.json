@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-15 03:08:08",
-  "count": 18399,
+  "updated": "2026-06-15 03:11:58",
+  "count": 18393,
   "items": [
+    {
+      "id": "4934748",
+      "time": "2026-06-15 03:11:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普出席了白宮舉辦的首場大型體育賽事。"
+    },
+    {
+      "id": "4934747",
+      "time": "2026-06-15 03:10:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多總檢察院：一名女檢察官在該國西部遭遇襲擊身亡。"
+    },
+    {
+      "id": "mkt:019ec789-01d6-7dd8-aff6-5c0077762bab",
+      "time": "2026-06-15 03:08:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker said Lebanese fighters' sacrifices and Iran's assertive diplomacy have ensured Lebanon's sovereignty and territorial integrity."
+    },
+    {
+      "id": "mkt:019ec788-e3e1-7dd8-aff6-56351cf76eaf",
+      "time": "2026-06-15 03:08:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker says the enemy will never be able to take on any resistance front alone."
+    },
     {
       "id": "mkt:019ec783-5246-7dd8-aff6-4ddcbd679d77",
       "time": "2026-06-15 03:02:12",
@@ -169094,95 +169126,6 @@
         "國際"
       ],
       "text": "伊朗民眾慶祝針對以色列的導彈襲擊。"
-    },
-    {
-      "id": "4922168",
-      "time": "2026-06-08 03:11:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列：所有導彈均已被攔截。"
-    },
-    {
-      "id": "4922167",
-      "time": "2026-06-08 03:10:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息稱，伊朗已向以色列發射四枚導彈。"
-    },
-    {
-      "id": "mkt:019ea37e-46ca-7ee0-86d2-3f957b9054b8",
-      "time": "2026-06-08 03:10:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Goldman Sachs: Strong labor market removes expectation of Fed cuts this year】Goldman Sachs economists said stronger-than-expected U.S. labor market means they no longer expect the Fed to cut rates this year. The bank pushed back its timing for the Fed’s final two cuts from Dec 2026 and Mar 2027 to Jun 2027 and Dec 2027. Chief U.S. economist David Mericle said inflation “seems unlikely to become self-sustaining,” keeping the odds of further Fed hikes low. May U.S. job gains beat forecasts, reinforcing market bets on additional tightening; Goldman raised the probability of a small hike this year from 10% to 20%. Its baseline still assumes two 25bp cuts next year, but the chance of that scenario was lowered from 40% to 30%. Goldman also revised down its U.S. unemployment forecast for this year to 4.4% from 4.6%."
-    },
-    {
-      "id": "4922166",
-      "time": "2026-06-08 03:10:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "拉美航空執行長稱，飛機產能與市場需求難以在本十年結束前恢復平衡。"
-    },
-    {
-      "id": "4922165",
-      "time": "2026-06-08 03:10:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "拉美航空執行長表示，飛機及發動機供應鏈問題可能還會持續兩到三年。"
-    },
-    {
-      "id": "4922164",
-      "time": "2026-06-08 03:09:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "拉美航空執行長表示，資產負債表更疲軟、彈性出行敞口更大的航空公司將面臨更多挑戰。"
-    },
-    {
-      "id": "4922163",
-      "time": "2026-06-08 03:09:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "拉美航空執行長表示，受燃油危機影響，該航空公司的融資成本已在上升。"
-    },
-    {
-      "id": "4922162",
-      "time": "2026-06-08 03:09:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "拉美航空執行長表示，如果燃油衝擊延續至2027年，航空業可能需要進一步削減運力。"
-    },
-    {
-      "id": "4922161",
-      "time": "2026-06-08 03:08:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【以軍稱監測到伊朗導彈來襲】當地時間7日晚，以色列國防軍稱，監測到伊朗向以色列發射導彈。以色列北部多地拉響防空警報。（新華社）"
-    },
-    {
-      "id": "4922160",
-      "time": "2026-06-08 03:08:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，伊朗發射導彈後，多個地區已響起空襲警報。"
     }
   ]
 }
