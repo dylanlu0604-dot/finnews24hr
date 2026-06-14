@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-14 20:25:47",
-  "count": 18280,
+  "updated": "2026-06-14 20:30:04",
+  "count": 18276,
   "items": [
+    {
+      "id": "mkt:019ec619-e78f-7dd8-aff1-91ed36040379",
+      "time": "2026-06-14 20:27:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moscow mayor said Russian air-defence systems shot down a drone headed for Moscow."
+    },
+    {
+      "id": "mkt:019ec619-bf3d-7dd8-aff1-8df8ba3ea9ec",
+      "time": "2026-06-14 20:27:16",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【China Securities (CSC): SpaceX record Nasdaq IPO reshapes valuation framework; remains bullish on commercial space investments】China Securities says SpaceX listed on Nasdaq at a $1.75 trillion valuation, raising $75 billion and exceeding $2 trillion market cap on debut, making it the world’s seventh-largest tech company and the largest IPO on record. The firm says Starlink, reusable rockets and space-AI businesses have validated a commercial closed loop, accelerating space-economy commercialisation. It flags China-specific timing: multiple Chinese liquid-fuel rockets due for clustered first flights and recovery tests in 2026, which could materially lower launch costs and speed satellite-constellation deployment. Recommended watchlist: rocket suppliers (engines, high‑barrier airframe structures); satellite components (payloads, antennas, laser-comm terminals); ground equipment (civil terminals, direct-to-phone technology); and operations/services firms with scarce license qualifications."
+    },
+    {
+      "id": "4934463",
+      "time": "2026-06-14 20:26:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯防空系統擊落一架飛往莫斯科的無人機。"
+    },
+    {
+      "id": "4934462",
+      "time": "2026-06-14 20:25:21",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：SpaceX創紀錄IPO重塑估值體系 繼續看好商業航天投資機會】中信建投指出，SpaceX以1.75萬億美元估值登陸納斯達克，募資750億美元，市值首日突破2萬億美元，成全球第七大科技公司，締造歷史最大IPO。其星鏈、可複用火箭與太空AI三大業務驗證商業閉環，推動太空經濟商業化程序加速。2026年我國多款液體火箭將密集首飛及回收試驗，有望大幅降低發射成本，加速星座建設。建議關注：1）火箭環節：發動機、箭體結構等高壁壘領域；2）衛星環節：載荷、天線及鐳射通訊終端；3）地面裝置：民用終端及手機直連技術；4）運營服務：具備稀缺牌照資質的公司。"
+    },
     {
       "id": "4934461",
       "time": "2026-06-14 20:21:20",
@@ -168096,76 +168134,6 @@
         "公司"
       ],
       "text": "【九州通醫藥集團與海南醫科大學、海口國際投資促進局舉行座談會】6月6日，九州通醫藥集團與海南醫科大學、海口國際投資促進局在集團總部舉行座談會。此前，九州通與海醫大、海口市已進行多輪深入對接，三方就共建大健康產業協同創新平臺達成戰略合作意向，此次座談標誌著三方合作從謀劃進入實際落地階段。"
-    },
-    {
-      "id": "mkt:019ea20f-bb04-7ee0-86cf-40e595059a50",
-      "time": "2026-06-07 20:30:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "A US-drafted IAEA Board resolution text says Iran must, without delay, provide the IAEA with accurate information on its nuclear materials and facilities; the requirement is described as important and urgent."
-    },
-    {
-      "id": "4921942",
-      "time": "2026-06-07 20:29:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國提交國際原子能機構理事會的決議草案：強調伊朗的《不擴散核武器條約》保障監督協定不得被單方面修改或中止。"
-    },
-    {
-      "id": "4921941",
-      "time": "2026-06-07 20:29:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國提交國際原子能機構理事會的決議草案：伊朗必須刻不容緩地向國際原子能機構開放其核查上述資訊所需的全部准入許可權。"
-    },
-    {
-      "id": "4921940",
-      "time": "2026-06-07 20:28:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國向國際原子能機構理事會提交的決議草案文字稱，伊朗必須立即向國際原子能機構提供伊朗境核心材料與核設施的準確資訊，此事至關緊急。"
-    },
-    {
-      "id": "4921939",
-      "time": "2026-06-07 20:28:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國已在國際原子能機構35國理事會本週季度會議上散發一份決議草案文字。"
-    },
-    {
-      "id": "4921938",
-      "time": "2026-06-07 20:28:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯公共投資基金（PIF）的合作關係還將建立框架，為其他投資者開闢參與渠道，加入專案後續開發階段。"
-    },
-    {
-      "id": "4921937",
-      "time": "2026-06-07 20:27:50",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【報道：高盛不再預計美聯儲今年降息】報道稱，鑑於美國勞動力市場表現超出預期，高盛經濟學家撤銷了此前對美聯儲2026年12月降息的預測。該行仍預計美聯儲將兩次降息，每次下調25個基點，但降息時間推遲至2027年6月和12月。高盛首席美國經濟學家David Mericle在6月5日釋出的報告中表示：“勞動力市場走勢強於我們此前預期。目前我們預計失業率僅小幅升至4.4%，尚不構成降息的迫切理由。”此前公佈的5月就業資料顯示，新增就業人數遠超機構調查的所有市場預期。David Mericle寫道：“雖然加息機率較我們最初判斷有所上升，但加息依舊可能性不大。目前尚未出現地緣衝突引發的通脹壓力全面擴散的跡象，加之勞動力市場供需平穩、薪資增速低於對應2%通脹目標的合理水平，本輪通脹衝擊難以形成自我強化的態勢。” 他補充稱：“即便考慮到加息機率走高以及利率維持不變的可能性，我們基於機率測算的美聯儲利率預期，整體仍顯著偏向寬鬆，與市場定價存在明顯差異。”"
-    },
-    {
-      "id": "4921936",
-      "time": "2026-06-07 20:26:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯公共投資基金（PIF）簽署諒解備忘錄，擬探索沙特住宅、商業、酒店、零售及綜合性城市開發領域的合作機遇。"
     }
   ]
 }
