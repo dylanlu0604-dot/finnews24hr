@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-14 21:03:30",
-  "count": 18243,
+  "updated": "2026-06-14 21:07:27",
+  "count": 18241,
   "items": [
+    {
+      "id": "mkt:019ec63c-7dd4-7dd8-aff1-fb5ea47e0075",
+      "time": "2026-06-14 21:05:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran IRGC commander says forces on full alert, ready to respond to any hostile action】A senior commander of Iran's Islamic Revolutionary Guard Corps told state TV on the 14th that Iranian armed forces are on full alert and prepared to respond immediately to any hostile action; Iran is at high readiness and capable of retaliation."
+    },
+    {
+      "id": "4934477",
+      "time": "2026-06-14 21:04:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊將領：已做好準備應對任何敵對行動】據伊朗新聞電視臺14日報道，伊朗伊斯蘭革命衛隊一名高階指揮官表示，伊朗武裝部隊目前處於全面戒備狀態，已做好應對任何敵對行動的準備。該名指揮官說，伊朗正處於高度警戒狀態。任何方面試圖對伊朗採取敵對行動，伊朗有能力並已準備好立即予以回應。（新華社）"
+    },
+    {
+      "id": "mkt:019ec63b-590c-7dd8-aff1-f69c61b23a7d",
+      "time": "2026-06-14 21:03:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says Israel attack on southern Beirut suburbs \"will not go unanswered\"】On the 14th, after an Israeli attack on the southern suburbs of Beirut, Iran's armed forces deputy inspector-general at the Khatam al-Anbiya central headquarters, Asadi, said Israel's crimes in Lebanon \"will not go unanswered\"."
+    },
     {
       "id": "mkt:019ec635-d290-7dd8-aff1-eaf51f59d7e2",
       "time": "2026-06-14 20:57:56",
@@ -167790,50 +167826,6 @@
         "國際"
       ],
       "text": "特朗普表示，他並未要求黎巴嫩必須被納入與伊朗的短期協議之中。"
-    },
-    {
-      "id": "4921985",
-      "time": "2026-06-07 21:07:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普稱目前暫無撤軍計劃。"
-    },
-    {
-      "id": "4921984",
-      "time": "2026-06-07 21:05:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方廣播：在貝魯特南郊的目標總部在遭受襲擊時可能是空的；對貝魯特南郊的打擊是“威懾性”的。"
-    },
-    {
-      "id": "4921983",
-      "time": "2026-06-07 21:05:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普表示，美國將暫緩對伊朗採取軍事行動。"
-    },
-    {
-      "id": "mkt:019ea22f-2b4a-7ee0-86cf-d386c9cfcdb0",
-      "time": "2026-06-07 21:04:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli military said in a broadcast that a headquarters in southern Beirut may have been empty when struck; it described the strikes on southern Beirut as \"deterrent.\""
-    },
-    {
-      "id": "4921982",
-      "time": "2026-06-07 21:03:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普稱若雙方未能達成協議，將對伊朗實施強硬軍事打擊。"
     }
   ]
 }
