@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-14 23:59:01",
-  "count": 18366,
+  "updated": "2026-06-15 00:03:25",
+  "count": 18369,
   "items": [
+    {
+      "id": "mkt:019ec6de-d67c-7dd8-aff4-a5f0ebba2c0b",
+      "time": "2026-06-15 00:02:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "An official involved in the talks told Refinitiv that mediators are optimistic a US-Iran deal is \"about to be reached\" and that negotiations are progressing smoothly."
+    },
+    {
+      "id": "4934651",
+      "time": "2026-06-15 00:01:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "參與談判的官員表示，調解方對美國與伊朗達成協議持樂觀態度，認為“已接近達成”，且談判進展順利。"
+    },
+    {
+      "id": "4934650",
+      "time": "2026-06-14 23:58:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列表示，在以色列空襲黎巴嫩貝魯特之後，伊朗可能在未來幾小時內發動襲擊。"
+    },
+    {
+      "id": "mkt:019ec6db-70f2-7dd8-aff4-9a506c59d2e6",
+      "time": "2026-06-14 23:58:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli finance minister signs West Bank settlement expansion agreement】On the 14th local time, Israeli Finance Minister Smotrich signed a framework agreement committing NIS 2 billion (about $685m) to build 6,000 apartments and related infrastructure in an Israeli settlement in the West Bank. Settlement expansion is a principal obstacle to Israeli-Palestinian peace talks."
+    },
+    {
+      "id": "4934649",
+      "time": "2026-06-14 23:58:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列北部拉響紅色警報。"
+    },
     {
       "id": "4934648",
       "time": "2026-06-14 23:58:16",
@@ -168890,27 +168933,6 @@
         "國際"
       ],
       "text": "伊朗首席談判代表卡里巴夫：針對伊朗的海上封鎖，以及美國今日給以色列開綠燈，使得美國以及（以色列）政權在該地區的基地與資產都成為合法目標。我國武裝力量一如既往，隨時做好行動準備。"
-    },
-    {
-      "id": "4922086",
-      "time": "2026-06-07 23:59:35",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【中朝多領域合作為兩國友好注入源源動力】應朝鮮勞動黨總書記、國務委員長金正恩邀請，中共中央總書記、國家主席習近平將於6月8日至9日對朝鮮民主主義人民共和國進行國事訪問。這是習近平總書記時隔7年再次對朝鮮進行國事訪問。 中朝是守望相助的社會主義友好鄰邦，今年是《中朝友好合作互助條約》簽訂65週年。近年來，在兩黨兩國最高領導人戰略引領下，中朝傳統友好合作關係持續健康穩定發展，經濟、文化、教育、青年等領域合作亮點紛呈，造福兩國和兩國人民，為中朝傳統友好注入新的時代內涵，也為促進地區和平與發展作出積極貢獻。（新華社）"
-    },
-    {
-      "id": "mkt:019ea2cf-1db7-7ee0-86d0-c8fe19d16ff1",
-      "time": "2026-06-07 23:59:02",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Israeli airstrikes on multiple Lebanese locations kill 2, injure 11】Israel launched airstrikes on Beirut's southern suburbs and the southern port city of Tyre on the 7th, killing two and wounding 11. The Lebanese Health Ministry said on the same day that since fighting resumed on March 2 Israeli strikes have killed 3,613 people and injured 11,072 in Lebanon."
     }
   ]
 }
