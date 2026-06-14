@@ -1,7 +1,261 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 19:14:13_
-_本檔包含 3643 則快訊，約 658629 字_
+_更新時間：2026-06-14 20:21:54_
+_本檔包含 3633 則快訊，約 658743 字_
+
+---
+
+### 2026-06-14 20:20:01  #市場
+
+本週兩融餘額增幅最大：貴州燃氣兩融餘額：2.6億元，餘額增幅：81.68%；中化國際兩融餘額：9.7億元，餘額增幅：75.62%
+
+---
+
+### 2026-06-14 20:19:43  #國際
+
+市場訊息：以色列軍方在空襲貝魯特前已通知美軍中央司令部。
+
+---
+
+### 2026-06-14 20:19:41  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Axios reporter: Israeli and US officials say the Israeli military notified CENTCOM shortly before an airstrike on Beirut, Lebanon.
+
+---
+
+### 2026-06-14 20:19:12  #其他
+
+市場訊息：英國城市事務大臣將於週一與各大銀行高管舉行會談。
+
+---
+
+### 2026-06-14 20:18:39  #MKT News
+
+【Iran lawmaker says some criticisms of U.S.-Iran memorandum exaggerated】A member of the Iranian parliament's Economic Committee said the current U.S.-Iran memorandum draft contains defects and ambiguities, but calling it worse than the nuclear deal or a capitulation by Iran is inaccurate. He added the circulated text still has many problems and disputes, yet some critics' language is clearly exaggerated and does not reflect the draft's actual content and meaning.
+
+---
+
+### 2026-06-14 20:17:53  #國際
+
+【伊朗議員：對伊美諒解備忘錄的部分批評失實】據伊朗學生通訊社14日報道，伊朗議會經濟委員會委員祖胡裡揚表示，當前討論的伊美諒解備忘錄文字確實存在“缺陷和不明確之處”，但將其描述為“比伊核協議更糟糕的協議”或“伊朗投降”並不準確。他說，目前流傳的諒解備忘錄文字仍存在不少問題和爭議，然而部分批評者的措辭明顯誇張，不能準確反映其實際內容和意義。（新華社）
+
+---
+
+### 2026-06-14 20:16:50  #其他
+
+【無視國家標準和監管禁令 小哈等多家換電站違規租賃超標電池】總檯《財經調查》接到消費者反映，一些商家為了吸引消費者，謀一己私利。被總檯3·15晚會曝光整頓後，依舊無視國家標準和監管禁令，在市場上繼續非法改裝，並對外租賃銷售所謂“超長續航、動力強勁”的超標鋰電池，為消費者的生命財產安全埋下隱患。（央視財經）
+
+---
+
+### 2026-06-14 20:16:08  #國際
+
+【韓國與沙烏地阿拉伯簽署協議 將在能源領域開展合作】韓國產業部週日表示，受近期全球供應鏈波動影響，韓國與沙烏地阿拉伯簽署協議，雙方將在原油、天然氣等能源資源領域開展合作。 韓國產業部長官金正官於週六啟程對沙特展開為期兩天的訪問，期間與沙特能源大臣阿卜杜勒-阿齊茲・本・薩勒曼簽署諒解備忘錄，為雙方關鍵能源資源的長期供應合作搭建框架。 韓國產業部稱，這份合作檔案涵蓋多個領域，包括原油儲備、輸油管道基建建設，以及運用人工智慧與數字技術推動能源產業創新等。
+
+---
+
+### 2026-06-14 20:08:27  #公司 #國際
+
+【福島核電站乏燃料池冷卻系統故障】日本東京電力公司今天（6月14日）釋出訊息稱，福島第一核電站5號、6號機組的乏燃料池，6月13日下午“冷卻系統發生故障，一度停止執行”。據稱經調查“未發現裝置存在異常情況”，冷卻系統“在停止約一個半小時後恢復執行”。東電方面表示，此次故障期間，乏燃料池水溫及周邊區域的輻射水平“均未出現變化”。 (CCTV國際時訊)
+
+---
+
+### 2026-06-14 20:07:51  #國際
+
+市場訊息：以色列五月貿易逆差收窄至32.99億美元。
+
+---
+
+### 2026-06-14 20:07:29  #公司 #國際
+
+【日本公司請求阻止LNG罷工、宣稱將危害澳洲經濟，被澳大利亞法庭駁回】澳大利亞一家勞工法庭週日駁回了日本天然氣公司Inpex的申請，拒絕叫停其Ichthys液化天然氣（LNG）專案約400名油氣工人的罷工行動。澳大利亞公平工作委員會（FWC）駁回了Inpex的說法，即停工將因出口收入損失而損害澳大利亞經濟，並可能引發危險的停電事故。
+
+---
+
+### 2026-06-14 20:02:54  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Expert: Israeli strike on Beirut a "strategic probe" into US‑Iran deal】Sami Nader, director of the Levant Institute for Strategic Affairs, called Israel’s strike on Beirut’s southern suburbs a "very strategic probe" into a potential US‑Iran agreement. He said Israel is seeking to decouple a Hezbollah front from US‑Iran negotiations while Iran insists on linking them, and warned the strike could “possibly destroy” the deal. Nader added domestic politics are a driver—the far right accuses Netanyahu of being too weak on Hezbollah and of failing to escalate Lebanon—raising the key market risk of how Iran might retaliate.
+
+---
+
+### 2026-06-14 20:02:40  #其他
+
+市場訊息：安聯將牽頭競購滙豐新加坡保險業務。
+
+---
+
+### 2026-06-14 20:01:23  #MKT News
+
+【Israeli minister warns US military aircraft occupying large share of civilian airport stands】On the 14th Israeli transport minister Miri Regev sent an emergency letter to Prime Minister Netanyahu warning that prolonged US military use of civilian parking stands could, if unresolved by the 16th, force cancellation of more than 2.4 mln summer and holiday air tickets and severely damage Israel’s aviation and tourism sectors. Regev said about 72 US tanker aircraft are deployed at Ben-Gurion International Airport, occupying over half of civilian stands, and some 26 US aircraft are at Ramon Airport, using nearly 90% of its parking capacity. The Israeli Airports Authority has set the 16th as a final deadline and said it will formally notify airlines to reduce or cancel affected flights if the US aircraft are not moved. The prime minister’s office and affected airlines have not responded.
+
+---
+
+### 2026-06-14 20:01:22  #其他
+
+【致8人死亡2人失蹤 遼綏漁35261船重大傾覆事故調查報告公佈】遼寧省應急管理廳公佈遼寧葫蘆島遼綏漁35261船“10·18”重大傾覆事故調查報告：事故造成8人死亡、2人失蹤。（央視新聞）
+
+---
+
+### 2026-06-14 20:01:00  #國際
+
+【以官員警告美軍機佔用大量民用機場空間】總檯記者當地時間14日獲悉，以色列交通部長米里·雷格夫已向總理內塔尼亞胡發出緊急信函警告，大量美軍飛機長期佔用以色列民用機場停機位，若各方無法在16日前解決這一問題，將導致該國超過240萬張夏季及假期機票被強制取消，並重創該國航空與旅遊業。（央視新聞）
+
+---
+
+### 2026-06-14 19:55:01  #市場 #國際
+
+【大量日本民眾抗議高市早苗政府軍事擴張政策】14日下午，大量日本民眾在東京都內舉行遊行示威活動，抗議高市早苗政府及自民黨近期的一系列軍事擴張政策。活動現場，許多民眾頭戴寫有“反戰和平”字樣的頭盔，高喊“反對修憲”“阻止戰爭”等口號。活動發起方在主題報告中指出，日本政府一方面以“和平國家”自居，另一方面卻不斷強化日美安保體制、推動自衛隊擴大規模和國家軍事化程序，這是一條通往戰爭的道路。抗議者樫村在現場接受記者採訪時說：“當前日本物價持續上漲、稅負不斷加重，社會保障支出也在增加。與此同時，政府還試圖推動限制言論自由和壓制反戰聲音的立法，人們將失去自由表達的空間。”（新華社）
+
+---
+
+### 2026-06-14 19:54:24  #MKT News #Market Regions #Japan & APAC
+
+【Mass protest in Tokyo against Sanae Takaichi government military-expansion policies】On the afternoon of the 14th, large numbers of demonstrators marched in Tokyo to protest the Sanae Takaichi government's recent military-expansion measures. Protesters wearing helmets marked anti-war/peace chanted against constitutional revision and to prevent war; organizers accused the government of strengthening the US-Japan security framework, expanding the Self-Defense Forces and accelerating national militarization, calling it a path to war. A protester surnamed Kashimura told reporters that persistent price rises, heavier tax burdens and higher social-security spending, together with proposed laws to curb speech and suppress anti-war voices, threaten freedom of expression.
+
+---
+
+### 2026-06-14 19:51:46  #國際
+
+【以色列總理下令打擊黎巴嫩首都的真主黨目標】以色列總理內塔尼亞胡14日說，他當天下令以軍對黎巴嫩首都貝魯特南郊代希耶地區的黎真主黨目標發動打擊。 內塔尼亞胡和以國防部長卡茨當天在一份聯合宣告中說，他們指示以軍發動了本輪襲擊，以回應黎真主黨向以色列領土開火的行為。同日，以軍在一份宣告中稱已“精準打擊”了位於代希耶的黎真主黨基礎設施目標。 以軍當天稍早時通報說，以色列北部多個地區拉響防空警報，警告有“敵機入侵”，隨後兩架“可疑空中目標”落入以黎臨時邊界以色列一側境內。 以軍近期在黎巴嫩南部持續開展軍事行動。以軍13日發表宣告說，過去24小時，以軍在黎南部打擊了70多個真主黨軍事目標，同時打死多名武裝人員。(新華社)
+
+---
+
+### 2026-06-14 19:47:24  #MKT News
+
+【Palestinian factions present unified response to US 20-point plan phase two】On June 14, Hamas said it submitted on June 13 a unified Palestinian response to the US-proposed Gaza 20-point plan phase-two arrangements to relevant parties. Factions said they will review and respond with high responsibility and a positive attitude. They emphasized strict, full implementation of the phase-one ceasefire agreement, particularly comprehensive humanitarian measures and an immediate halt to all forms of aggression against Gaza’s population. Hamas said its delegation will remain in Cairo to continue meetings with mediators and Palestinian factions to advance implementation of agreed items.
+
+---
+
+### 2026-06-14 19:46:33  #國際
+
+【巴勒斯坦各派別達成統一立場 回應“20點計劃”第二階段安排】當地時間6月14日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發表宣告稱，哈馬斯已於13日正式向相關方面遞交了巴勒斯坦各派別對美方所提加沙衝突“20點計劃”第二階段安排的回應。
+
+宣告表示，相關方案由美國發起的所謂“和平委員會”加沙高階代表尼古拉·姆拉德諾夫於今年4月19日提交。過去一週裡，哈馬斯、巴勒斯坦各派別以及埃及、卡達、土耳其等停火斡旋方在埃及首都開羅舉行了多場會晤。經過密集溝通，巴勒斯坦各派別最終達成了“統一的國家立場”，並於13日完成遞交。
+
+宣告指出，巴勒斯坦各派別表示，將以“高度的責任感和積極態度”審議並回應美方所提上述計劃第二階段安排。各派別在回應中強調，必須不折不扣地執行停火第一階段協議，特別是要全面落實人道主義協議、立即停止針對加沙地帶巴勒斯坦人民的一切形式的侵略行為。
+
+宣告還強調，必須完全遵守相關方案中闡明的核心條款，包括過渡性的巴勒斯坦技術官僚委員會進駐管理加沙地帶、以色列軍隊從加沙地帶全面撤軍、災後重建，並最終實現巴勒斯坦人民建立獨立國家和獲得自決權的合法目標。
+
+哈馬斯在宣告最後表示，哈馬斯代表團目前仍將在開羅繼續與各斡旋方及巴勒斯坦內部各派別舉行會晤，以進一步推進落實各方已達成一致的相關協議內容。（央視新聞）
+
+---
+
+### 2026-06-14 19:43:03  #焦點 #國際
+
+【6月14日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【牢記初心使命 奮進復興征程】賡續紅色血脈 走好新時代長征路； 2.王滬寧出席兩岸融合發展示範區建設專題推進會； 3.【在希望的田野上】各地做好搶收搶種 築牢豐收基礎； 4.前5個月鐵路客貨運量多項指標創新高； 5.各地積極調整最佳化住房公積金政策； 6.建設“清水”北京 享受“親水”生活； 7.【黨旗在基層一線高高飄揚】侯貴：從沙海一棵樹 到綠洲一片林； 8.【美麗中國行】泥巴山上架起“熊貓廊道”； 9.【文化中國行】薪火相傳 秦腔不老； 10.國內聯播快訊： （1）《金融資訊服務資料分類分級指南》印發； （2）我國首次開展蔬菜純電農機實地綜合測評； （3）各地各部門舉行世界獻血者日主題活動； （4）第28屆上海國際電影節開幕； （5）首屆中國AI創業者大會暨《贏在AI+》第二季啟動； 11.美稱14日與伊朗籤協議 伊朗稱簽署時間待定 以媒稱美伊協議危及以色列安全利益； 12.國際聯播快訊： （1）以稱打擊黎首都貝魯特達希耶地區； （2）美軍一架“大黃蜂”戰機墜毀 引發火災。
+
+---
+
+### 2026-06-14 19:33:06  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israeli airstrike on Beirut's Dahieh kills one, wounds at least four】An Israeli airstrike on Dahieh, a southern suburb of Beirut, earlier on the 14th killed one and wounded at least four. Prime Minister Netanyahu said on social media that Israel struck Hezbollah targets in Dahieh.
+
+---
+
+### 2026-06-14 19:32:46  #國際
+
+【以軍空襲黎巴嫩首都貝魯特南郊已致1死4傷】總檯記者當地時間14日獲悉，當天早些時候以軍對黎巴嫩首都貝魯特南郊達希耶地區的空襲，已造成1人死亡，另有至少4人受傷。此外，在以軍空襲貝魯特之後，以總理內塔尼亞胡14日透過社交媒體發文表示，以色列襲擊了位於貝魯特達希耶地區的真主黨目標。（央視新聞）
+
+---
+
+### 2026-06-14 19:31:49  #國際
+
+據伊朗方面訊息：巴基斯坦外長與土耳其外長進行了通話，雙方討論了美伊和平談判。
+
+---
+
+### 2026-06-14 19:31:40  #MKT News
+
+Tasnim News reported Pakistan's foreign minister held a phone call with Turkey's foreign minister to discuss U.S.-Iran peace talks.
+
+---
+
+### 2026-06-14 19:31:29  #國際
+
+【伊朗官員稱以色列政權為“瘋狗”，必須加以控制】據以色列方面訊息：伊朗議會國家安全與外交政策委員會發言人雷扎伊表示，如果我們尋求達成協議或共識，其必經之路是要管束猶太復國主義政權。這隻瘋狗必須被控制。
+
+---
+
+### 2026-06-14 19:30:11  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Iranian official calls Israeli regime 'mad dog', says it must be controlled】i24News reported that Rezai, spokesman for the Iranian parliament's National Security and Foreign Policy Commission, said any route to an agreement or consensus requires reining in the Zionist regime. 'This mad dog must be controlled.'
+
+---
+
+### 2026-06-14 19:28:35  #公司
+
+【吉林回應組建本土客運航空公司提案：主管部門原則上不再新批】近日，吉林省交通運輸廳在答覆有關組建吉林航空公司的提案時透露，現階段直接新組建獨立客運航空公司暫不具備審批條件。吉林省交通運輸廳提到，組建本土基地客運航空公司，對於完善吉林省干支航空網路、提升長春龍嘉機場區域樞紐能級、帶動冰雪旅遊與邊境旅遊提質升級、服務新時代吉林全面振興具有重要戰略意義。當前，該省“一主多輔”機場格局基本形成，航空客流穩步恢復，文旅市場持續升溫，航線網路覆蓋面不斷擴大，具備培育地方骨幹航空市場主體的現實基礎。對此，省委省政府高度重視，相關部門已圍繞組建本土航空公司、打造基地航司、提升航線自主可控能力開展多輪專題調研與可行性論證。從國家現行政策層面看，民航主管部門對新設客運航空公司實施嚴格總量調控，從嚴控制新增籌建主體，原則上不再新批客運航空公司，僅支援依規新設貨運航空主體。綜合國家政策導向與吉林省實際，現階段直接新組建獨立客運航空公司暫不具備審批條件。（澎湃）
+
+---
+
+### 2026-06-14 19:26:51  #公司
+
+【禮邦醫藥（江蘇）股份有限公司-B透過港交所上市聆訊】禮邦醫藥（江蘇）股份有限公司-B更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-14 19:24:59  #公司
+
+【安克創新科技股份有限公司透過港交所上市聆訊】安克創新科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-14 19:22:17  #公司
+
+【浙江來福諧波傳動股份有限公司透過港交所上市聆訊】浙江來福諧波傳動股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-14 19:21:44  #其他
+
+杭州千島湖鱘龍科技更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-14 19:20:39  #公司
+
+【港股IPO：華院計算技術(上海)股份有限公司遞表港交所】華院計算技術(上海)股份有限公司向港交所提交上市申請書，聯席保薦人為中國銀河國際、建銀國際。
+
+---
+
+### 2026-06-14 19:20:06  #國際
+
+據黎巴嫩國家通訊社：初步統計顯示，以色列空襲貝魯特南郊造成1人死亡、4人受傷。
+
+---
+
+### 2026-06-14 19:19:23  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Lebanese National News Agency says preliminary figures show an Israeli airstrike on Beirut's southern suburbs killed one and wounded four.
+
+---
+
+### 2026-06-14 19:18:15  #MKT News
+
+Visual (China) Cultural Development Co., Ltd. has filed a listing application with HKEX; sole sponsor is Huatai International.
+
+---
+
+### 2026-06-14 19:17:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israel's Channel 12 said the target of an Israeli strike on the southern suburbs of Beirut was a Hezbollah communications-system official.
+
+---
+
+### 2026-06-14 19:16:59  #國際
+
+以色列方面訊息：突襲貝魯特南部郊區目標是一名真主黨通訊系統官員。
+
+---
+
+### 2026-06-14 19:15:29  #MKT News #Market Regions #Greater China
+
+【Guangdong raises flood-control emergency response to Level III】Under the provincial flood/drought/wind/freeze emergency plan and related rules, Guangdong province’s flood-control command upgraded its emergency response from Level IV to Level III at 19:00 on June 14. Provincial meteorological and hydrological monitoring projects heavy rain will continue; soils are highly saturated and river baseflows elevated, raising risks of flash floods, geological hazards and urban and rural waterlogging.
+
+---
+
+### 2026-06-14 19:14:59  #其他
+
+【廣東將防汛應急響應提升至Ⅲ級】根據廣東省氣象、水文部門監測預報，未來幾天廣東省強降雨過程仍將持續。目前廣東省土壤含水量高度飽和，江河底水高，發生山洪、地質災害、城鄉內澇風險高，安全風險進一步加大。鑑於目前防汛形勢，根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防汛防旱防風總指揮部已於6月14日19時將防汛Ⅳ級應急響應提升至Ⅲ級。（央視新聞）
 
 ---
 
@@ -21706,311 +21960,5 @@ BARCLAYS upgraded its rating on the European gaming sector to Neutral.
 ### 2026-06-12 12:40:51  #Trading Economics #Economy #Japan #Industrial Production Mom #Importance 1
 
 Japan Industrial Output Growth Revised Lower — Japan’s industrial production rose 0.5% month-over-month in April 2026, below flash data of 0.8% but reversing from a 0.4% drop in the previous month. It was the first rise since January, amid resilient overseas demand and a recovery in domestic manufacturing activity, although escalating Middle East tensions continued to pose risks to supply chains and energy costs. Output grew for general-purpose and business-oriented machinery (4.4% vs -5.3% in March), electrical machinery, and information and communication electronics equipment (2.7% vs 0.9%), and other manufacturing (1.6% vs -1.7%). In contrast, production fell for motor vehicles (-2.4% vs flat reading), inorganic and organic chemicals (-1.8% vs -8.6%), and chemicals excluding inorganic, organic chemicals (-0.3% vs 2.0%). On an annual basis, output increased 2.0%, following a 2.4% rise in March and marking the fifth straight month of expansion.
-
----
-
-### 2026-06-12 12:40:30  #其他
-
-【百餘名老人被騙上千萬元 北京搗毀20餘家“套路養生館”】七旬老人理療消費70萬，掏空積蓄還被誘導典當金鐲子？近日，北京警方根據群眾報警線索循線追查，揭開了一個隱藏在多家養生館背後的養老詐騙鏈條。北京市公安局刑偵總隊會同密雲分局等單位成立專案組展開了調查。專案組發現，這是一個跨區域、成規模、有組織、有體系的詐騙團伙，在朝陽、順義、密雲等區，下設了20多家打著養生館幌子的店鋪吸引招攬老年人進行治療。掌握了詐騙團伙的活動規律後，專案組兵分多路展開收網行動。目前，姜某等30餘名犯罪嫌疑人因涉嫌詐騙罪被北京警方刑事拘留，受害老年人達100多人，涉案金額上千萬元，案件仍在進一步調查中。（央視）
-
----
-
-### 2026-06-12 12:39:03  #其他
-
-【總投資64.5億元不鏽鋼專案落地寧德】6月11日，由中國鋼鐵工業協會指導、冶金工業資訊標準研究院主辦的“2026年第三屆不鏽鋼產業創新發展大會”在福安市召開。大會期間，重點產業專案簽約儀式舉行。計劃總投資達64.5億元的6個專案現場簽約，涵蓋鈦合金材料、不鏽鋼深加工、新型應用產品等領域。據悉，這批專案落地寧德後，將進一步完善區域產業鏈佈局，增強產業叢集發展優勢。標準化建設成為大會另一大亮點。現場，《不鏽鋼冷軋鋼板和鋼帶的尺寸、外形重量及允許偏差》《不鏽鋼熱軋鋼板和鋼帶的尺寸、外形重量及允許偏差》兩項國家標準正式啟動制定。
-
----
-
-### 2026-06-12 12:37:43  #公司
-
-【打造零碳實踐“自貿樣本” 全球首張ISO50100認證落地廈門】6月10日，全球首個ISO50100認證專案成果釋出會在廈門自貿全球可持續發展創新中心舉行。釋出會上，BSI英國標準協會向廈門象嶼智慧供應鏈有限公司頒發全球首張ISO50100認證證書，標誌著廈門企業在對標國際標準、構建綠色競爭力方面邁出關鍵一步。“ISO50100是全球首個專門針對能源脫碳的國際標準。今天在廈門頒發全球首張證書，標誌著我們從傳統的‘節能降耗’模式，邁入了系統性、精準化、可量化、可審計的‘脫碳管理’新階段。”BSI（英國標準協會）大中華區董事總經理Dr.Tatiana Schmollack-Tarasova介紹說，該證書是實現“雙碳”目標的重要工具，也是推動《巴黎協定》目標從高層承諾走向日常運營和實質性減排的關鍵一步。（福建日報）
-
----
-
-### 2026-06-12 12:37:06  #MKT News
-
-【Jinan residential-included plot sells at 24.52% premium】June 12 — A small residential-included parcel in Lixia District, Jinan, with planned gross floor area 26,242.10 sq m and floor area ratio 2.9, was listed with a starting price of 310 mln yuan (starting floor price 11,812 yuan/sq m). After 39 bidding rounds Greentown acquired the site for 386 mln yuan, implying a final floor price of 14,708 yuan/sq m and a 24.52% premium.
-
----
-
-### 2026-06-12 12:36:31  #其他
-
-【濟南1宗涉宅用地溢價24.52%成交】6月12日，濟南出讓1宗歷下區小體量涉宅用，規劃建築面積26242.10㎡，容積率2.9，起始價3.10億元，起始樓面價11812元/㎡。最終經過39輪競價，綠城以總價3.86億元競得該地塊，成交樓面價14708元/㎡，溢價率24.52%。
-
----
-
-### 2026-06-12 12:36:16  #國際
-
-泰國將為帕查拉吉迪雅帕公主逝世哀悼15天。
-
----
-
-### 2026-06-12 12:34:48  #MKT News
-
-The Russian Defence Ministry said it shot down 231 drones overnight.
-
----
-
-### 2026-06-12 12:34:07  #MKT News
-
-【Wuhan Donghu High‑tech Zone residential plot sells at 20.96% premium】On June 12 Wuhan sold a small residential parcel in Donghu High‑tech Zone. Planned GFA 25,830 sqm, floor area ratio 2.65. Starting price 238.5 mln yuan (starting floor price 9,233 yuan/sqm). After 23 bidding rounds the lot was won by Wuhan Dingyuan Real Estate Development Co. for 288.5 mln yuan, implying a floor price of 11,169 yuan/sqm and a premium of 20.96%.
-
----
-
-### 2026-06-12 12:33:06  #公司
-
-【武漢1宗宅地溢價超20%成交】6月12日，武漢出讓1宗東湖高新區小體量宅地，規劃建築面積25830㎡，容積率2.65，起始價2.385億元，起始樓面價9233元/㎡。該地塊經過23輪競價，最終由武漢鼎源房地產開發有限公司以總價2.885億元競得，成交樓面價11169元/㎡，溢價率20.96%。
-
----
-
-### 2026-06-12 12:32:47  #國際
-
-俄羅斯國防部訊息稱，俄方昨夜擊落231架無人機。
-
----
-
-### 2026-06-12 12:32:23  #MKT News #USDJPY #Impact bullish #DXY #Nikkei 225 #Impact bearish
-
-Japan April equipment utilization index 102.9, down from prior 103.7.
-
----
-
-### 2026-06-12 12:32:14  #MKT News #Economic Calendar #Important
-
-Japan | Operating Ratio Index (Apr) | actual 102.9 | previous 103.7
-
----
-
-### 2026-06-12 12:32:05  #MKT News #Market Regions #Japan & APAC #USDJPY
-
-Japan April final inventories MoM -0.3% (prior -0.2%).
-
----
-
-### 2026-06-12 12:31:59  #MKT News #Economic Calendar #Important
-
-Japan | Inventories Final (MoM) (Apr) | actual -0.3% | previous -0.2%
-
----
-
-### 2026-06-12 12:31:38  #公司
-
-【濟南長清產業發展投資控股集團有限公司董事長於磊被查】6月12日，據長清區紀委監委訊息：濟南長清產業發展投資控股集團有限公司黨支部書記、董事長於磊涉嫌嚴重違紀違法，目前正接受濟南市長清區紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-12 12:31:00  #MKT News #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan April machinery utilization index MoM -0.8%, prior -1.2%.
-
----
-
-### 2026-06-12 12:30:53  #MKT News #Economic Calendar #Important
-
-Japan | Operating Ratio Index (MoM) (Apr) | actual -0.8% | previous -1.20%
-
----
-
-### 2026-06-12 12:30:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
-
-Japan April industrial production (final) YoY 2.0% vs prior 2.3%.
-
----
-
-### 2026-06-12 12:30:43  #MKT News #Economic Calendar #Important
-
-Japan | Industrial Production Final (YoY) (Apr) | actual 2% | previous 2.30%
-
----
-
-### 2026-06-12 12:30:42  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #XAUUSD
-
-Japan April industrial production (final) MoM +0.5%, prior +0.8%.
-
----
-
-### 2026-06-12 12:30:34  #MKT News #Economic Calendar #Important
-
-Japan | Industrial Production Final (MoM) (Apr) | actual 0.5% | previous 0.80%
-
----
-
-### 2026-06-12 12:30:20  #MKT News #Important #Market Regions #Greater China
-
-【U.S. 2x long ProShares product on Zhongji Xuchuang in fundraising; expected to list in two months】On the morning of June 12 Zhongji Xuchuang opened as much as 5% higher. Separately, ProShares has developed a 2x leveraged long product on Zhongji Xuchuang for the U.S. market; the product is currently fundraising and is expected to list in about two months.
-
----
-
-### 2026-06-12 12:29:05  #其他
-
-【海信亮相2026世界盃揭幕戰 RGB-Mini LED技術參與賽事判罰】2026美加墨世界盃正式開賽。海信作為連續三屆世界盃官方贊助商，再度亮相世界盃賽場，並首次以世界盃VAR顯示技術官方合作伙伴身份參與賽事服務。海信RGB-Mini LED電視入駐國際轉播中心，應用於賽事判罰及轉播場景。公開資料顯示，海信海外營收已由2016年的200多億元增長至超1100億元。
-
----
-
-### 2026-06-12 12:28:15  #Trading Economics #Economy #Malaysia #Retail Sales YoY #Importance 1
-
-Malaysia Retail Sales Growth Slows in April — Retail sales in Malaysia rose 6.3% year-on-year in April 2026, the softest growth in three months, following a 7.5% increase in March. Sales growth slowed for non-specialised stores (6.1% vs 8.1% in March), food, beverages and tobacco (5.8% vs 7.9%), and information and communication equipment (3.7% vs 5.9%). Trade also rose at a softer pace for other household equipment (3.5% vs 4.1%), other goods (6.8% vs 8.2%), and retail sales via stalls and markets (6.4% vs 9.3%). In contrast, sales growth picked up for automotive fuel (12.5% vs 10.6%), cultural and recreation goods (3.8% vs 2.7%), and trade not in stores, stalls or markets (8.8% vs 8.5%). On a monthly basis, retail sales declined by 1.8%, reversing 2.8% growth in March and marking the sharpest decline since February 2025. Meanwhile, wholesale trade jumped 24.1%, following a 15.7% increase in the prior period.
-
----
-
-### 2026-06-12 12:27:47  #公司
-
-極兔速遞：本公司一家納入合併報表的關聯主體收到中華人民共和國國家郵政局（“國家郵政局”）下發的調查通知，本次調查圍繞該主體的作業及生產安全相關事項開展（“本次調查”）。本公司董事會認為，本次調查不會對本公司的經營業務及財務狀況造成重大不利影響。目前本公司已同步開展內部核查，並嚴格依照相關法律法規，全力配合國家郵政局的調查工作。本公司將持續跟進事件後續進展，如有必要，會及時釋出進一步公告。 敬請各位股東及潛在投資者在買賣本公司證券時審慎決策、理性行事。
-
----
-
-### 2026-06-12 12:26:42  #公司 #市場 #觀點
-
-【中金黃金成立文化公司，含旅遊開發專案策劃諮詢業務】企查查APP顯示，近日，吉林金博文化有限公司成立，法定代表人為李電輝，經營範圍包含：文藝創作；珠寶首飾零售；珠寶首飾批發；非居住房地產租賃；旅遊開發專案策劃諮詢等。企查查股權穿透顯示，該公司由中金黃金全資持股。
-
----
-
-### 2026-06-12 12:26:28  #公司
-
-【保時捷融資租賃有限公司增資至10億元】據保時捷中國訊息，5月28日，保時捷融資租賃有限公司（Porsche Financial Leasing Ltd.）完成增資，註冊資本正式增至10億元人民幣並已完成實繳。自2021年啟動業務以來，保時捷融資租賃有限公司先後於2023、2024和2026年完成三次增資，註冊資本已從初始的1.97億人民幣增長至如今的10億元人民幣。
-
----
-
-### 2026-06-12 12:26:21  #公司 #國際
-
-【中際旭創兩倍做多產品已在募集階段】近日，美國市場開發了一隻兩倍做多中際旭創的產品。該產品由ProShares基金運作。該款產品目前仍處於募集階段，預計兩個月後上市。當地時間6月10日下午四點向美國證券交易委員會提交的資料顯示，兩倍做多中際旭創的基金已經在募集當中。該基金名為ProShares Ultra ZhongjiInnolight，旨在實現每日投資回報率，扣除費用和開支前，該回報率須達到Zhongji Innolight公司(中際旭創）股票證券每日表現的2倍(2x)。（券商中國）
-
----
-
-### 2026-06-12 12:23:20  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Rebounds as Oil Prices Fall — India’s BSE Sensex rose about 1.2% to 74,697 at the open on Friday, rebounding from losses in the previous session and reaching its highest level in two weeks as easing geopolitical tensions in the Middle East pushed oil prices lower, boosting investor sentiment. The rally came after oil prices retreated sharply following comments from US President Donald Trump, who said Washington and Tehran could reach a peace agreement as soon as this weekend and could reopen the Strait of Hormuz. Meanwhile, foreign portfolio investors offloaded USD 207.52 million worth of domestic equities on Thursday, bringing year-to-date outflows to a record USD 30.6 billion. Early gainers included MTAR (+10.7%), Netweb (+6.3%), HDFC (+1.9%), and Aegis (+2.0%). On the data front, investors await India’s May inflation report due later in the day, with the annual rate expected to accelerate to 4.0% from 3.48% in April.
-
----
-
-### 2026-06-12 12:23:10  #其他
-
-【甬舟鐵路又有新進展  預計2028年具備開通運營條件】日前，甬舟鐵路金塘海底隧道寧波側成功掘進突破1729環，標誌著寧波側盾構機掘進任務已完成七成。作為甬舟鐵路核心控制性工程，該隧道西起寧波北侖、東至舟山金塘，是當前全球長度最長、地質條件最複雜、施工難度最大的海底高鐵盾構隧道。甬舟鐵路預計2028年具備開通運營條件。（浙江釋出）
-
----
-
-### 2026-06-12 12:21:47  #公司
-
-【寧波能源等成立節能科技公司】企查查APP顯示，近日，寧波甬能博旭節能科技有限公司成立，法定代表人為潘志超，經營範圍包含：以自有資金從事投資活動；節能管理服務；餘熱發電關鍵技術研發；儲能技術服務；發電技術服務等。企查查股權穿透顯示，該公司由寧波能源全資子公司寧波甬能綜合能源服務有限公司、浙江博旭新能源科技有限公司共同持股。
-
----
-
-### 2026-06-12 12:21:44  #國際
-
-【古巴外長：古巴電力問題源於美國封鎖制裁】古巴外長羅德里格斯11日表示，一些美國官員將古巴電力問題歸咎於古巴政府的說法是在撒謊，旨在掩蓋美國對古巴人民犯下的罪行。羅德里格斯當天在社交媒體上說，古巴電力系統的問題並非是古巴政府疏於管理，而是源於一場“殘酷戰爭”。蓄意發動這場戰爭的人非常清楚給古巴民眾造成的傷害。
-
----
-
-### 2026-06-12 12:21:18  #市場 #國際
-
-【馬來西亞4月工廠產出同比增長8.2%，創2022年以來最快增速】馬來西亞政府週五公佈的資料顯示，該國4月工業生產指數同比上漲8.2%，創下三年多來最大漲幅。該資料遠超媒體調查經濟學家得出的4%預期值，也是自2022年9月以來的最高增速。當月這項涵蓋製造業、採礦業及電力行業產值的指數曾大漲10.8%。馬來西亞統計局表示，三大行業全線增長推動了4月指數走高。資料顯示，4月製造業產值同比增長8.3%；採礦業產值同比大增6.8%，而上月該行業同比下滑6.5%；電力行業產值同比上漲10.5%。馬來西亞3月工業生產指數同比增幅為3.1%。
-
----
-
-### 2026-06-12 12:19:52  #MKT News #Important #000660.KS
-
-【SK Hynix says Cheongju campus fire preliminarily controlled; equipment operating normally】June 12 — SK Hynix reported a fire at its Cheongju fourth campus. The company says the blaze has been preliminarily contained and is under investigation, and that production equipment is operating normally.
-
----
-
-### 2026-06-12 12:19:02  #MKT News
-
-Pakistan's KSE-100 index rose 1%.
-
----
-
-### 2026-06-12 12:18:45  #國際
-
-【SK海力士回應廠區火災：已初步控制 生產裝置執行正常】6月12日，訊息顯示韓國SK海力士清州第四園區爆發火情。對於最新情況和影響，SK海力士方面向證券時報記者表示，已完成初步控制，正調查具體情況。目前生產裝置執行正常。
-
----
-
-### 2026-06-12 12:18:26  #市場
-
-住友金屬股價飆升 11%，創 15 周以來最大漲幅。
-
----
-
-### 2026-06-12 12:18:13  #市場
-
-巴基斯坦KSE-100指數開盤後上漲1.1%，至171,609.20點。
-
----
-
-### 2026-06-12 12:17:53  #其他
-
-【追覓科技據悉考慮最快明年在香港IPO】知情人士稱透露，中國智慧生活家電生產商追覓科技正在考慮最快明年在香港IPO。因相關訊息尚未公開而不願具名的知情人士稱，追覓科技正在與顧問合作，潛在股票發行規模可能達到數億美元。知情人士稱，相關討論仍在進行中，發行規模和時間等細節可能會有變化。
-
----
-
-### 2026-06-12 12:15:56  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-ANZ cut its year-end gold price forecast to $5,200/oz from $5,600/oz to reflect recent price moves.
-
----
-
-### 2026-06-12 12:15:49  #其他
-
-澳新銀行：將年末金價預測從每盎司5600美元下調至5200美元，以反映近期價格走勢。
-
----
-
-### 2026-06-12 12:15:36  #公司
-
-【潤建股份等成立智研科技公司】企查查APP顯示，近日，雲南星潤智研科技有限公司成立，法定代表人為龍再毅，經營範圍包含：人工智慧應用軟體開發；軟體開發；虛擬現實裝置製造；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由潤建股份全資子公司百城千帆（海南）智慧科技有限公司、雲南世紀慧銘集團有限公司共同持股。
-
----
-
-### 2026-06-12 12:15:32  #公司
-
-【宏利基金督察長離任】6月12日宏利基金公告稱，督察長徐嬌因個人原因離任，總經理DING WEN CONG（丁聞聰）代任督察長。該變更事項經宏利基金董事會會議審議並透過，按相關規定向監管機構報備。
-
----
-
-### 2026-06-12 12:14:24  #公司 #市場
-
-【招商證券：中國AI網際網路行業估值仍吸引 首選阿里、智譜、快手等】招商證券釋出研報稱，維持對AI網際網路行業的推薦評級，個股首選阿里巴巴(09988)、智譜(02513)、快手-W(01024)、歡聚。 該行同時建議關注被低估的公司如騰訊與MiniMax，認為兩者均具備更高的估值修復潛力。人工智慧商業化加速，中國的AI網際網路行業估值仍具吸引力。該行指出，在預期重置後，今年第二季至今恒生科技指數表現遜於第一季。 雖然中國網際網路板塊估值仍處於歷史低位，但今年首季業績展現出較強的盈利韌性。
-
----
-
-### 2026-06-12 12:13:29  #其他
-
-【中國銀河證券：創新藥持續高景氣 新興支柱定位換擋升級】中國銀河證券釋出研報稱，醫藥行業上半年大幅回撥後，不論創新藥及非創新藥估值均回落至歷史低位，下半年關注醫保變數及創新藥臨床資料兌現，投資思路上尋找醫藥硬科技、並考慮企業現金價值，推薦關注創新藥(BIC和FIC管線龍頭)、創新藥產業鏈(CXO、生命科學上游)、創新器械出海(影像、高值耗材、消費器械等)、醫療AI方向，關注醫療服務復甦及第三方ICL。
-
----
-
-### 2026-06-12 12:12:34  #公司 #市場
-
-【機構：新加坡銀行股近期的下跌可能有些過度】馬來亞銀行分析師Thilan Wickramasinghe在一份報告中表示，新加坡銀行股近期的下跌可能有些過度。由於中國對外投資規定的變化，人們擔心其財富管理業務增長放緩，在此情況下，星展集團、華僑銀行和大華銀行的股價近期出現下跌。他說，這可能會對近期流向香港的投資產生負面影響。不過他指出，東盟在這些銀行的管理資產中佔較大比重。馬來亞銀行維持對新加坡銀行業的正面評級。
-
----
-
-### 2026-06-12 12:11:12  #市場
-
-布倫特原油日內跌2%，現報88.56美元/桶。
-
----
-
-### 2026-06-12 12:10:11  #其他
-
-【18部電影定檔2026端午檔 】據燈塔專業版上映日曆，影片《抓特務》今日官宣定檔6月19日上映，截至當前共18部電影定檔2026年端午檔上映。
-
----
-
-### 2026-06-12 12:10:01  #國際
-
-【美擬撤走北約歐洲防務三分之一戰機】據美國《紐約時報》報道，美國計劃撤走為北約歐洲防務提供的三分之一戰鬥機。目前這一訊息還未得到進一步證實。（CCTV國際時訊）
-
----
-
-### 2026-06-12 12:08:49  #MKT News #Market Regions #Europe & UK
-
-New York Times reports the U.S. plans to withdraw one-third of the fighter jets it supplied to NATO for European defense.
-
----
-
-### 2026-06-12 12:08:29  #Trading Economics #Economy #Malaysia #Industrial Production #Importance 1
-
-Malaysia Industrial Output Growth at Near 4-Year High — Industrial production in Malaysia rose by 8.2% year-on-year in April 2026, picking up from a 3.1% growth in the previous month and easily topping market forecasts of 4%. It was the fastest yearly increase since September 2022. On a seasonally adjusted monthly basis, industrial activity fell by 3.4%, reversing a 9.3% gain in March
 
 ---

@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 19:14:13_
-_本檔包含 3635 則快訊，約 658362 字_
+_更新時間：2026-06-14 20:21:54_
+_本檔包含 3617 則快訊，約 658935 字_
+
+---
+
+### 2026-06-11 10:35:10  #MKT News #Market Regions #Greater China #SZSE Component #Impact bearish
+
+China's ChiNext fell more than 1%, led by declines in media, AI-agent stocks and gear-reducer related shares.
+
+---
+
+### 2026-06-11 10:34:40  #其他
+
+【抵制虛假宣傳、惡意詆譭！中消協等倡議構建和諧消費環境】一、守法誠信經營，提升消費品質；二、用心最佳化服務，改善消費體驗；三、堅持公平競爭，守護消費安全；四、履行社會責任，共促環境建設。中消協倡議，堅決杜絕製售假冒偽劣商品、虛假宣傳、價格欺詐、以次充好、捆綁銷售等違法行為，從源頭保障產品與服務品質。堅決抵制惡意詆譭、惡性內卷、商業賄賂等不正當競爭行為，維護公平公正、健康有序的市場環境。嚴把質量安全生命線，落實安全主體責任，緊盯產品質量、食品安全、消防安全等關鍵要點，全力排查各類風險隱患，讓公平競爭成為常態，讓安全消費深入人心。
+
+---
+
+### 2026-06-11 10:34:37  #市場 #焦點
+
+深證成指跌1.00%，現報14804.479點；上證指數跌0.62%，現報3968.651點；創業板指跌1.12%，現報3811.712點。
+
+---
+
+### 2026-06-11 10:34:01  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌1%，現報8080.40點。
+
+---
+
+### 2026-06-11 10:33:50  #市場 #焦點
+
+創業板指跌1.00%，現報3816.205點；上證指數跌0.55%，現報3971.179點；深證成指跌0.88%，現報14822.571點。
+
+---
+
+### 2026-06-11 10:33:27  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10Y Yield Holds Steady — The yield on the US 10-year Treasury note steadied around 4.55% on Thursday as investors continued to track developments in the Middle East while awaiting fresh US economic data for further clues on the Federal Reserve’s policy outlook. The US military said it had completed its latest strikes on Iran, boosting hopes that peace negotiations could resume and easing some concerns about inflationary pressures. Meanwhile, US consumer inflation accelerated in May to its fastest pace in more than three years due to soaring energy costs, though the reading came in line with expectations. Traders modestly scaled back expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced. Investors are now turning their attention to the latest producer inflation and weekly jobless claims data for additional signals on the future path of Fed policy.
+
+---
+
+### 2026-06-11 10:33:01  #國際
+
+【富達國際：當前環境下，多元化配置的重要性更加突出】6月11日，富達國際在最新發布的《2026年年中投資展望》中表示，儘管全球市場面臨高度波動的環境，但整體基本面仍為風險資產提供支援。富達國際表示，近期中東局勢再次表明，全球地緣政治格局日益碎片化。隨著市場逐步淡化短期不確定性，投資者正重新聚焦於支撐資產表現的穩健基本面，而AI資本開支週期仍是推動全球市場增長的重要動力。與此同時，傳統避險資產所發揮的作用正在發生變化。在當前環境下，多元化配置的重要性較以往任何時候都更加突出。
+
+---
+
+### 2026-06-11 10:31:41  #市場
+
+日經225指數早盤收盤下跌1.5%，至63239.52點。東證指數早盤收盤下跌1.5%，至3788.46點。
+
+---
+
+### 2026-06-11 10:31:21  #央行 #中國央行
+
+【中國人民銀行首席研究員鄒平座：破除“數字公地”亂象 應確立個人數字產權法定地位】“資料要素確權難、定價難、交易難的問題，已經成為中國數字經濟發展的重大阻滯。”6月8日，中國政法大學舉辦法治化營商環境建設（公益）大講堂，中國人民銀行首席研究員、中國製造業金融研究院院長鄒平座表示，數字經濟的蓬勃發展，亟需與之匹配的法律制度供給。
+
+---
+
+### 2026-06-11 10:30:02  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌1%，現報7942.80點。
+
+---
+
+### 2026-06-11 10:29:22  #公司 #市場
+
+【港股汽車股多數下跌，小鵬集團-W跌近7%】港股汽車股多數下跌，小鵬集團-W跌近7%，理想汽車-W跌近4%，零跑汽車、小米集團-W、比亞迪股份跌超2%。
+
+---
+
+### 2026-06-11 10:28:17  #公司
+
+【廣和通子公司AN762S 5G智慧座艙模組獲兩大頭部合資車企百萬量級新專案定點】據廣和通訊息，廣和通子公司廣通遠馳AN762S 5G智慧座艙模組獲兩大頭部合資車企新專案定點，產品將適配多款明星車型，專案生命週期內預計出貨量超百萬臺。
+
+---
+
+### 2026-06-11 10:27:13  #公司 #國際
+
+【美國“元”公司要與印度信實合建AI資料中心】美國“元”公司(Meta)10日宣佈，與印度信實工業公司達成合作協議，將在印度西部古吉拉特邦共建一座人工智慧(AI)資料中心。雙方在一份聯合宣告中說，信實工業將在賈姆訥格爾地區建立一座容量為168兆瓦的資料中心，專案兩年內交付投用，“元”公司將租賃該設施，後續可按需擴容。協議未披露具體財務細節。“元”公司執行長馬克·扎克伯格稱，將與信實集團合作，在印度建立首個人工智慧資料中心。信實工業公司董事長穆凱什·安巴尼稱，這也是印度為“元”公司量身打造的首個資料中心。（新華社）
+
+---
+
+### 2026-06-11 10:27:03  #其他
+
+【路虎攬勝極光跌至17.98萬元？銷售：屬實】2026年6月，汽車圈炸出震撼訊息——路虎攬勝極光L官方指導價42.98萬元起，而部分終端市場成交價格已經下探至17.98萬元甚至更低。不到三年時間，新車價格腰斬；與當年接近90萬元的落地價相比，跌幅甚至超過七成。 6月11日，上海永達捷豹路虎康橋店銷售表示目前路虎攬勝極光L裸車價17.98萬元，但是要貸款，如果不貸款的話裸車價是18.98萬。如果還想優惠可以申請以舊換新補貼，最高一萬元。 上海偉傑捷豹路虎吳中路店的銷售向記者表示，目前路虎攬勝極光L裸車價最低18.2萬，不需要貸款。（藍鯨新聞）
+
+---
+
+### 2026-06-11 10:26:17  #國際
+
+訊息人士稱，印尼丹納塔拉主權財富基金髮行美元債券，目標籌資10億美元。
+
+---
+
+### 2026-06-11 10:26:02  #公司
+
+【公安部網安局釋出侵犯公民個人資訊違法犯罪典型案例】6月11日，公安部網安局釋出侵犯公民個人資訊違法犯罪典型案例，揭露了3類常見的作案型別。 一是利用個人疏忽與急迫心理，如借“兼職招聘”誘導受害人主動完成實名認證、填寫敏感資訊後再行倒賣；二是資訊處理者安全責任“失守”，部分平臺、企業內部管理不嚴，出現“內鬼”或技術漏洞，導致海量資料被竊取、轉賣；三是以“精準營銷”為名的非法獲取，個別科技公司假借業務推廣、資料分析，違規收集、交換公民個人資訊。 對此，公安部網安局提示，資訊處理者要嚴格履行法定義務，完善個人資訊保護制度規範和技術措施，維護公民個人資訊保安；同時廣大群眾要妥善保管、儲存和使用個人資訊，發現個人資訊洩露線索的，請及時向公安機關和有關部門投訴舉報，使用法律武器捍衛自身權益。
+
+---
+
+### 2026-06-11 10:25:51  #公司
+
+【沙特第二家國有旗艦航空公司首航】沙烏地阿拉伯第二家國有旗艦航空公司利雅得航空公司10日首航，一架波音787“夢想客機”從沙特首都利雅得哈立德國王國際機場起飛，前往英國倫敦希思羅機場。利雅得航空成立於2023年3月，原計劃2025年首航。然而，由於波音客機交付推遲，利雅得航空的首航計劃受到影響。本月5日，利雅得航空的首批兩架波音787“夢想客機”正式交付；8日，第三架波音客機交付；後續還將有更多客機交付。（新華社）
+
+---
+
+### 2026-06-11 10:25:49  #MKT News #Market Regions #Greater China
+
+Taiwan's TAIEX fell more than 2%.
+
+---
+
+### 2026-06-11 10:24:46  #其他
+
+新易盛成交額達100億元，現漲0.02%。
+
+---
+
+### 2026-06-11 10:24:41  #其他
+
+【機構：第一季度全球網路安全市場規模突破70億美元，同比增長14%】根據Dell’Oro Group最新發布的報告，2026年第一季度全球網路安全市場規模突破70億美元，同比增長14%。儘管整體市場保持穩健增長，但更值得關注的趨勢是“策略平面（Policy Plane）”的擴充套件。企業正在加大對統一安全架構的投資，以便在使用者、應用、雲、分支機構以及客戶自主管理環境之間實現一致的策略執行。
+
+---
+
+### 2026-06-11 10:22:53  #市場 #國際
+
+印尼股指上漲1%至5958.97點。
+
+---
+
+### 2026-06-11 10:22:30  #市場
+
+臺灣加權股價指數下跌2%至42,339.52點。
+
+---
+
+### 2026-06-11 10:22:15  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Hit 11-Month Low — The Hang Seng Index fell 300 points, or 1.2%, to 24,105 on Thursday, extending losses for a seventh consecutive session and marking its lowest level since July 2025, as investors remained cautious amid escalating tensions in the Middle East. Sentiment stayed fragile after the US launched fresh strikes on multiple targets in Iran for a second consecutive day, with President Donald Trump accusing Tehran of delaying negotiations on an interim peace deal. Adding to market concerns, Iran announced a halt to vessel traffic through the Strait of Hormuz following the attacks, threatening a fragile ceasefire and raising fears of disruptions to global energy supplies. Most sectors traded lower, led by retail, consumer, and selected technology shares. Among the notable laggards were Lenovo (-0.6%), HKEX (-0.5%), and Xiaomi (-0.9%). However, gains in several heavyweight stocks helped limit broader losses, with Tencent rising 1.4%, AIA advancing 2.4%, and SMIC adding 0.6%.
+
+---
+
+### 2026-06-11 10:22:04  #公司 #市場
+
+【玻纖概念震盪反彈，金安國紀漲停】玻纖概念震盪反彈，金安國紀漲停，宏和科技、國際復材、山東玻纖、長海股份、中國巨石、平安電工等跟漲。
+
+---
+
+### 2026-06-11 10:21:51  #MKT News #Market Regions #Japan & APAC
+
+Chief Cabinet Secretary Kihara said Bank of Japan Governor Ueda’s temporary hospitalization is unlikely to affect policy implementation or cooperation between the BOJ and the government.
+
+---
+
+### 2026-06-11 10:21:27  #其他
+
+科威特軍方11日發表宣告稱，該國防空系統正在攔截“敵方”空中目標。與此同時，巴林內政部發表宣告說，巴林再次拉響防空警報。（新華社）
+
+---
+
+### 2026-06-11 10:21:03  #公司
+
+【寶通科技與必和必拓簽署全球框架協議】據寶通科技訊息，近期，無錫寶通科技股份有限公司（簡稱“寶通科技”）與必和必拓（BHP）簽署全球框架協議。雙方正式建立全球核心戰略合作伙伴關係，合作從產品供應全面升級為技術共創、綠色協同、全球服務一體化的深度繫結。根據協議，雙方將在未來打通技術、供應鏈、服務與戰略全鏈條壁壘，構建長期穩定、協同高效的全球合作體系，並聚焦三大方向深化戰略合作。
+
+---
+
+### 2026-06-11 10:20:23  #MKT News
+
+China A-share glass and fiberglass concept rallied intraday; Honghe Technology surged more than 7%, while International Composite, Shandong Fiberglass, Changhai Co., China Jushi and Jiuding New Materials also advanced.
+
+---
+
+### 2026-06-11 10:20:15  #公司
+
+【長春市：打造世界級整車企業集團 支援中國一汽與華為等深化戰略合作】《長春市汽車產業發展“十五五” 規劃（徵求意見稿）》公開徵集意見。其中提到，全力支援整車企業轉型升級，打造世界級整車企業集團。重點支援整車企業發力新能源與節能汽車，構建清晰的品牌體系。支援整車企業強化與國內跨界企業在智慧網聯領域戰略合作。其中，全力支援中國一汽整合全球創新資源，深化與零跑、華為、大疆等企業在新能源汽車、智慧網聯等領域的戰略技術合作，重點推動全固態電池、“紅旗1號”多域融合晶片、司南智駕大模型、靈犀座艙大模型等關鍵技術的產業化應用與迭代升級。支援中國一汽與華為、百度、科大訊飛等頭部科技企業及網際網路平臺深化戰略合作，共建聯合創新實驗室，重點攻關端雲一體智慧架構、L3級以上自動駕駛、多模態互動等關鍵技術，打造具有全國影響力的智慧網聯汽車創新策源地。
+
+---
+
+### 2026-06-11 10:18:57  #央行 #國際
+
+日本內閣官房長官木原稔表示：他認為日本央行行長植田和男臨時入院不會影響日本央行的政策運作，也不會影響央行與政府的合作。
+
+---
+
+### 2026-06-11 10:18:32  #其他
+
+【長春市：支援本地整車企業收購優質品牌 鼓勵跨地區兼併重組】《長春市汽車產業發展“十五五” 規劃（徵求意見稿）》公開徵集意見。其中提到，緊抓國家支援優質企業兼併重組的政策機遇，支援長春市整車企業透過股權投資、技術合作等形式，入股或收購具有技術能力和競爭力的優質企業或品牌。藉助長春市產業優勢，以代工或獨立生產等形式推進相關爆款車型匯入，盤活閒置整車產能。研判國內優質整車企業競爭態勢及擴能需求，重點引入具備技術優勢和市場優勢的整車企業。鼓勵跨地區兼併重組和創新型新車企落戶，形成龍頭引領、梯隊跟進、多層級、多主體的整車產業生態。
+
+---
+
+### 2026-06-11 10:18:18  #其他
+
+【農業農村部：東西部協作省份共互派幹部1.6萬名】國新辦今天（6月11日）上午10時舉行新聞釋出會，介紹東西部協作工作進展成效，並答記者問。農業農村部副部長麥爾丹·木蓋提介紹，在鞏固拓展脫貧攻堅成果同鄉村振興有效銜接過渡期，東西部協作省份共互派幹部1.6萬名。持續組織開展教育、醫療“組團式”幫扶，東部省份6500多所學校、醫院結對幫扶西部7700多所學校、醫院，協作雙方累計互派教師、醫生等專技人才12萬人次，東部地區優質教育、醫療資源與西部地區實現有效對接。
+
+---
+
+### 2026-06-11 10:18:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【IRGC commander says US 'recklessness' will draw 'hellish punishment'】Iran’s IRGC Aerospace Force commander Majid Mousavi said in response to recent US strikes that Washington’s “recklessness” will bring “hellish punishment,” warning Iran would make the Strait of Hormuz unsafe. He described the remarks as a response to Americans acting with impunity in the region.
+
+---
+
+### 2026-06-11 10:18:01  #市場
+
+【影視院線概念震盪調整 北京文化觸及跌停】影視院線概念震盪調整，北京文化觸及跌停，此前橫店影視跌停，中國電影、百納千成、博納影業、幸福藍海、華策影視、上海電影等紛紛下挫。
+
+---
+
+### 2026-06-11 10:18:01  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+【Iran armed forces say US halted new strikes after "powerful and devastating" response】Iran's Armed Forces Hatam al-Anbiya Central Headquarters said on the 11th local time the US halted attacks on Iran after Iranian forces mounted a "powerful and devastating" response that once again thwarted US "aggression", and that Iranian responses to US aggression "remain ongoing".
+
+---
+
+### 2026-06-11 10:17:39  #MKT News #Important
+
+【Changchun: FAW production and sales down; could face central SOE strategic restructuring pressure】Draft of Changchun’s auto-industry 15th Five-Year Plan says China’s auto market has entered a stock-competition phase and industry profit margins fell to 4.1% in 2025, below the industrial average. The draft signals accelerated consolidation with central government support for mergers and group-style management, projecting domestic vehicle-maker groups will shrink from 71 to about 15 by 2030. Against heightened competition and stronger regulation, FAW’s production and sales in Changchun have declined recently, leaving it exposed to potential central SOE strategic restructuring.
+
+---
+
+### 2026-06-11 10:17:36  #公司 #市場
+
+【半導體材料板塊持續走高 興福電子20cm漲停】半導體材料板塊盤中持續走高，靶材、光刻膠、電子特氣、矽片方向均表現強勢，興福電子20cm漲停，此前康強電子、昊華科技、和遠氣體漲停，江豐電子、神工股份、隆華科技、歐萊新材均漲超10%。
+
+---
+
+### 2026-06-11 10:17:25  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Bahrain, Jordan and Kuwait reportedly intercepted Iranian missiles and drones aimed at U.S. military assets nearly simultaneously, marking a regional widening of the conflict.
+
+---
+
+### 2026-06-11 10:17:17  #MKT News #Hang Seng Index #Impact bearish
+
+Hang Seng Tech Index falls more than 2%.
+
+---
+
+### 2026-06-11 10:17:03  #MKT News
+
+China A-share copper-clad laminate stocks rallied on volatile trading: Fangbang Co. jumped over 15%, Jin'an Guoji hit the daily trading limit, and Nanya New Material, Hengtong Co., Huazheng New Material and Supersonic Electronics also advanced.
+
+---
+
+### 2026-06-11 10:16:34  #公司 #焦點
+
+【長春市：近年來一汽產銷出現下滑，未來或將面臨央企戰略重組的壓力】《長春市汽車產業發展“十五五”規劃（徵求意見稿）》公開徵集意見。其中提到，我國汽車市場進入存量競爭階段，2025年行業利潤率已下滑至4.1%，低於工業平均水平。“內卷”壓力下，車企優勝劣汰程序提速，特別是近年來國家部委提出支援優質企業兼併重組、推動汽車企業集團化管理，“十五五”時期將是國內汽車市場和產業競爭格局走向成熟的重要階段，優質企業兼併重組、尾部企業淘汰出清成為主要趨勢。預計2030年國內整車企業集團數量將由71家縮減至15家左右。在市場“內卷”和國家對汽車產業邁入“強監管”的背景下，近年來長春市一汽產銷出現下滑，未來或將面臨央企戰略重組的壓力。
+
+---
+
+### 2026-06-11 10:16:28  #市場 #焦點
+
+恒生科技指數跌超2%，現報4629.860點；恒生指數現跌1.114%。
+
+---
+
+### 2026-06-11 10:16:24  #MKT News
+
+Bank of Korea to extend interest payments on financial institutions' excess foreign-currency deposits by six months.
+
+---
+
+### 2026-06-11 10:15:59  #其他
+
+【SK海力士375層3D NAND年內量產，引入鉬材料攻克超高層堆疊難題】6月11日訊息，SK海力士已完成375層3D NAND快閃記憶體的量產驗證，正準備將技術轉移至清州M15工廠現有生產線，預計年內啟動量產。工藝方面，SK海力士在375層產品中以鉬（Mo）部分替代此前使用的鎢（W）作為字線金屬柵極材料。鉬在細微字線結構中電阻低於鎢，可提升訊號傳輸速度及讀寫擦除效能；且無需在沉積前額外鋪設阻擋襯層，有助於實現更高密度結構。
 
 ---
 
@@ -21541,377 +21805,5 @@ China's Sci‑Tech Innovation 50 Index rose over 1%, led by sharp rallies in aer
 ### 2026-06-10 09:32:42  #MKT News #CNH #Impact mixed
 
 【National Bureau of Statistics: May pork down 16.1%, cuts CPI by about 0.31 percentage points】The National Bureau of Statistics said food, tobacco & alcohol and catering prices fell 0.9% YoY in May, reducing CPI by about 0.26 percentage points. Meat prices were down 7.4% YoY, trimming CPI by roughly 0.31ppt; pork plunged 16.1% YoY and accounted for most of that reduction (~0.31ppt). Fresh fruit -2.2% YoY (-0.04ppt); eggs +6.6% (+0.03ppt); fresh vegetables +1.6% (+0.02ppt); aquatic products +0.6% (+0.01ppt). Of the seven other major CPI categories, six rose YoY and one fell: other goods and services +9.9%, transport & communications +5.4%, healthcare +2.1%, household goods & services +1.8%, clothing +1.4%, education/culture/recreation +1.3%; housing -0.2%.
-
----
-
-### 2026-06-10 09:32:07  #市場
-
-【機器人板塊大幅調整，*ST聯翔等跌停】機器人板塊大幅調整，*ST聯翔、*ST寶馨跌停，瑞晟智慧、麥格米特、XD美湖股、中重科技、商絡電子、雅創電子等跟跌。
-
----
-
-### 2026-06-10 09:32:03  #市場 #焦點
-
-科創50日內漲幅達1.09%，成分股中，海光資訊漲9.38%，盛科通訊漲5.52%，滬矽產業漲4.63%，佰維儲存漲4.54%。
-
----
-
-### 2026-06-10 09:32:01  #公司 #國際
-
-【力諾藥包與Changjiang Investment Holding就埃及專案建設簽署協議】6月9日，力諾藥包與Changjiang Investment Holding在埃及蘇伊士省中埃·泰達蘇伊士經貿合作區就埃及專案建設事項簽署相關協議。此次簽約將顯著提升公司在全球醫藥包裝、耐熱玻璃及高階特種玻璃材料市場的海外供應、區域服務與國際市場響應效率。力諾藥包埃及專案依託埃及連線亞非歐三大市場的區位優勢，以及中埃·泰達蘇伊士經貿合作區成熟的平臺和產業服務能力，打造面向區域市場的先進製造基地和全球化供應支點，為力諾藥包進一步拓展國際市場、最佳化全球供應鏈佈局提供重要支撐。
-
----
-
-### 2026-06-10 09:31:45  #MKT News #Market Regions #Greater China
-
-【NBS: China factory-gate producer prices +3.9% YoY in May 2026, +0.5% MoM】The National Bureau of Statistics said China’s factory-gate industrial producer prices rose 3.9% year-on-year and 0.5% month-on-month in May 2026. Industrial producers’ purchase prices rose 5.8% YoY and 1.3% MoM. Average Jan–May: factory-gate prices +1.0% YoY; purchase prices +1.6% YoY.
-
----
-
-### 2026-06-10 09:31:34  #MKT News #Market Regions #Greater China #Commodities #Industrial Metals #CSI300 #Impact bullish
-
-Select A-share chemical stocks rallied; Sinochem International and Heyuan Gas hit the daily trading limit, Kangda New Materials rose over 5%, and Haohua Technology, Zhejiang Longsheng and Dinglong Technology also advanced. Market reports say overseas supply-chain tightening coupled with a burst in downstream demand has widened the supply–demand gap, sending tungsten hexafluoride (WF6) prices sharply higher.
-
----
-
-### 2026-06-10 09:31:31  #MKT News #Important
-
-Bahrain Interior Ministry says an alarm has sounded and urges the public to move to the nearest safe location.
-
----
-
-### 2026-06-10 09:31:23  #MKT News #CSI300 #Impact bearish
-
-【China A-share index futures open lower in early session】CSI 300 index futures (IF) most-active contract down 0.58%; SSE 50 index futures (IH) down 0.13%; CSI 500 index futures (IC) down 0.49%; CSI 1000 index futures (IM) down 0.62% in early trade.
-
----
-
-### 2026-06-10 09:31:23  #MKT News #Important #Market Regions #Greater China #CNH #Impact mixed #Copper #Impact bullish #XAUUSD
-
-【National Bureau of Statistics: May 2026 CPI up 1.2% YoY】China National Bureau of Statistics: May 2026 consumer prices (CPI) rose 1.2% YoY; urban +1.3%, rural +1.1%. Food -1.7%, non-food +1.9%; goods +1.6%, services +0.8%. Jan–May average CPI +1.0% YoY. MoM, CPI fell 0.1% in May (urban -0.1%, rural -0.1%); food -0.4%, non-food -0.1%; goods -0.2%, services -0.1%.
-
----
-
-### 2026-06-10 09:31:23  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #Impact mixed #DXY #Impact bearish
-
-China May PPI MoM +0.5% (prior +1.7%).
-
----
-
-### 2026-06-10 09:31:16  #公司 #市場 #觀點
-
-【有色金屬板塊大幅調整，*ST威領跌停】有色金屬板塊大幅調整，*ST威領跌停，中金黃金、福達合金、錫業股份、興業銀錫、湖南黃金、赤峰黃金等跟跌。
-
----
-
-### 2026-06-10 09:31:14  #MKT News #Market Regions #Greater China
-
-【China government bond futures open in morning trade】Main contracts: 2-year (TS) up 0.01%, 5-year (TF) up 0.01%, 10-year (T) unchanged, 30-year (TL) up 0.02%.
-
----
-
-### 2026-06-10 09:31:11  #公司
-
-【安克創新投資成立新公司，含AI及機器人業務】企查查APP顯示，近日，深圳市安克熠身通用裝置有限責任公司成立，經營範圍包含：服務消費機器人制造；工業機器人制造；智慧機器人的研發；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由安克創新旗下深圳市安克熠身科技有限公司全資持股。
-
----
-
-### 2026-06-10 09:31:09  #MKT News #Economic Calendar #Important
-
-China | PPI (MoM) (May) | actual 0.5% | previous 1.7%
-
----
-
-### 2026-06-10 09:31:00  #市場
-
-國家統計局：2026年5月份工業生產者出廠價格同比上漲3.9％，環比上漲0.5％。2026年5月份，全國工業生產者出廠價格同比上漲3.9％，環比上漲0.5％。工業生產者購進價格同比上漲5.8％，環比上漲1.3％。1—5月平均，工業生產者出廠價格比上年同期上漲1.0％，工業生產者購進價格上漲1.6％。
-
----
-
-### 2026-06-10 09:30:51  #市場
-
-【2026年5月份居民消費價格同比上漲1.2%】2026年5月份，全國居民消費價格同比上漲1.2%。其中，城市上漲1.3%，農村上漲1.1%；食品價格下降1.7%，非食品價格上漲1.9%；消費品價格上漲1.6%，服務價格上漲0.8%。1­­—5月平均，全國居民消費價格比上年同期上漲1.0%。5月份，全國居民消費價格環比下降0.1%。其中，城市下降0.1%，農村下降0.1%；食品價格下降0.4%，非食品價格下降0.1%；消費品價格下降0.2%，服務價格下降0.1%。(國家統計局)
-
----
-
-### 2026-06-10 09:30:44  #市場 #焦點
-
-創業板指跌2.01%，現報3882.282點；上證指數跌0.59%，現報3986.309點；深證成指跌1.55%，現報15031.637點。
-
----
-
-### 2026-06-10 09:30:41  #MKT News #Important
-
-China consumer price index (CPI) rose 1.2% YoY in May 2026, the National Bureau of Statistics said.
-
----
-
-### 2026-06-10 09:30:38  #資料
-
-中國5月CPI月率 -0.1%，預期-0.2%，前值0.3%。
-
----
-
-### 2026-06-10 09:30:34  #資料
-
-中國5月PPI年率 3.9%，預期3.8%，前值2.80%。
-
----
-
-### 2026-06-10 09:30:30  #資料
-
-中國5月CPI年率 1.2%，預期1.30%，前值1.20%。
-
----
-
-### 2026-06-10 09:30:24  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-China May CPI MoM -0.1% vs -0.2% expected; April +0.3% prior.
-
----
-
-### 2026-06-10 09:30:23  #MKT News #CNH #Impact bullish #DXY #Copper #Impact mixed
-
-China May PPI YoY 3.9% vs expected 3.8%; April 2.8%.
-
----
-
-### 2026-06-10 09:30:22  #MKT News #Important #Market Regions #Greater China #CNH #Impact bearish
-
-China May CPI YoY 1.2% vs consensus 1.3%; prior 1.2%.
-
----
-
-### 2026-06-10 09:30:17  #MKT News #Economic Calendar #Important
-
-China | CPI (MoM) (May) | actual -0.1% | consensus -0.2% | previous 0.3%
-
----
-
-### 2026-06-10 09:30:15  #MKT News #Economic Calendar #Important
-
-China | PPI (YoY) (May) | actual 3.9% | consensus 3.8% | previous 2.80%
-
----
-
-### 2026-06-10 09:30:15  #MKT News #Economic Calendar #Important
-
-China | CPI (YoY) (May) | actual 1.2% | consensus 1.30% | previous 1.20%
-
----
-
-### 2026-06-10 09:30:13  #經濟數據 #中國
-
-【國家統計局：5月CPI同比上漲1.2% PPI同比上漲3.9%】2026年5月份，全國居民消費價格同比上漲1.2%。其中，城市上漲1.3%，農村上漲1.1%；食品價格下降1.7%，非食品價格上漲1.9%；消費品價格上漲1.6%，服務價格上漲0.8%。1--—5月平均，全國居民消費價格比上年同期上漲1.0%。2026年5月份，全國工業生產者出廠價格同比上漲3.9%，環比上漲0.5%。工業生產者購進價格同比上漲5.8%，環比上漲1.3%。1—5月平均，工業生產者出廠價格比上年同期上漲1.0%，工業生產者購進價格上漲1.6%。
-
----
-
-### 2026-06-10 09:30:04  #市場 #焦點
-
-北證50日內跌幅達1.15%，成分股中，戈碧迦跌4.98%，則成電子跌4.66%，矽烷科技跌3.52%，華嶺股份跌2.67%。
-
----
-
-### 2026-06-10 09:30:03  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌0.57%， 滬深300指數期貨連續跌0.62%， 中證500指數期貨連續跌0.71%， 上證50指數期貨連續跌0.30%。
-
----
-
-### 2026-06-10 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約基本持平， 10年期主力合約漲0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。
-
----
-
-### 2026-06-10 09:29:44  #國際
-
-【巴西對涉華酸式焦磷酸鈉作出第二次反傾銷日落複審終裁】近日，巴西外貿委員會管理執行委員會(GECEX)釋出2026年第903號決議，對原產於加拿大、中國和美國的酸式焦磷酸鈉[葡萄牙語：pirofosfato ácido de sódio(SAPP)]作出第二次反傾銷日落複審終裁，決定繼續對加拿大和美國徵收為期5年的反傾銷稅，分別為加拿大546.30－1066.30美元/噸，美國418.13－734.28美元/噸；決定不再繼續對中國涉案徵收反傾銷稅。本案涉及南共市稅號2835.39.20項下的產品。本決議自發布之日起生效。
-
----
-
-### 2026-06-10 09:29:41  #MKT News #02178.HK #Impact bullish #00568.HK
-
-Hong Kong-listed oil and gas equipment and services sector showed pockets of strength; 02178.HK jumped over 14%, 00568.HK rose more than 4%.
-
----
-
-### 2026-06-10 09:28:32  #其他
-
-阿富汗官員：巴基斯坦襲擊了庫納爾省和霍斯特省。
-
----
-
-### 2026-06-10 09:28:26  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-China A-share components sector opened lower; Baoding Technology neared its daily limit-down, with Zhongfu Circuit, Zecheng Technology, Jingsai Technology, Sunlord Electronics and Hudian Co. among the largest decliners.
-
----
-
-### 2026-06-10 09:28:20  #市場
-
-【港股油氣裝置股走強 百勤油服漲近15%】截至發稿，百勤油服(02178.HK)漲14.67%，山東墨龍(00568.HK)漲4.16%，達力普控股(01912.HK)漲0.32%。
-
----
-
-### 2026-06-10 09:28:09  #其他
-
-【巴西對原產於中國的聚酯纖維織物作出反傾銷終裁】近日，巴西外貿委員會管理執行委員會(GECEX)釋出2026年第909號決議，對原產於中國的聚酯纖維織物（葡萄牙語：malhasde poliéster）作出反傾銷肯定性終裁，決定徵收1.74－4.81美元/千克的反傾銷稅，有效期為5年，但出於公共利益考慮，該措施暫停實施。涉案產品的南共市稅號為6004.10.31、6004.10.32、6004.10.33、6004.10.34、6004.90.30、6006.31.20、6006.32.20、6006.33.20和6006.34.20。本決議自發布之日起生效。
-
----
-
-### 2026-06-10 09:27:50  #MKT News
-
-At Wednesday open (June 10), CHINA'S SHANGHAI COMPOSITE INDEX opened down 24.91 pts (-0.62%) at 3,985.12; Shenzhen Composite opened down 206.21 pts (-1.35%) at 15,062.51; CSI 300 INDEX opened down 48.70 pts (-1.01%) at 4,753.12; ChiNext Index opened down 64.02 pts (-1.62%) at 3,897.73; CHINA SCI-TECH INNOVATION 50 INDEX opened down 0.26 pts (-0.02%) at 1,662.85.
-
----
-
-### 2026-06-10 09:27:50  #MKT News #Important #XAUUSD #Impact bearish
-
-【Precious metals-themed LOFs weaken】China precious metals-themed LOFs weakened: SDIC Silver LOF fell more than 5%; gold-themed LOF, Gold LOF and Harvest Gold LOF each dropped over 2%. Earlier, spot gold slipped below $4,200/oz, a near three-month low.
-
----
-
-### 2026-06-10 09:27:41  #公司 #市場
-
-【元件板塊低開，寶鼎科技逼近跌停】元件板塊低開，寶鼎科技逼近跌停。中富電路、則成科技、晶賽科技、順絡電子、滬電股份跌幅居前。
-
----
-
-### 2026-06-10 09:27:23  #公司
-
-【華媒控股：最佳化業務架構聚焦主業 數字化應用尚處探索階段】華媒控股6月10日在互動平臺表示，公司將圍繞“聚焦、瘦身、提效、轉型”對低效、虧損業務及子公司進行梳理整合，透過業務調整、組織最佳化、降本減支、關停並轉等方式最佳化架構，聚焦主責主業，提升經營質量。部分傳媒子公司正擴大媒體數字化應用，但相關技術應用與專案實踐尚處初步探索階段，暫未體現業績貢獻。
-
----
-
-### 2026-06-10 09:26:41  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-A-share 5G names outperformed: Zhongbei Communications rose more than 7%, Dongcai Technology gained over 4%; Shiyida, Datang Telecom, Hytera and Jingwang Electronics also advanced. Media reported the new-generation communications network could generate about 7 trillion yuan in upstream/downstream output and add roughly 1.5 percentage points to GDP over the next five years.
-
----
-
-### 2026-06-10 09:26:28  #市場
-
-新加坡基準股指下跌1.2%，至4961.89點。
-
----
-
-### 2026-06-10 09:26:25  #MKT News
-
-Singapore's benchmark stock index fell more than 1%.
-
----
-
-### 2026-06-10 09:26:00  #MKT News
-
-Novokuybyshevsk in Russia's Samara region was hit by a drone strike, the local governor said.
-
----
-
-### 2026-06-10 09:25:39  #MKT News #Important #Market Regions #Greater China #XAUUSD #Impact bearish #CSI300
-
-A-shares opened: Shanghai Composite down 0.62%, Shenzhen Composite Index down 1.35%, ChiNext down 1.62%. CRO and tax-refund-store concepts led gains; precious metals, CPO and storage-chip sectors pulled back.
-
----
-
-### 2026-06-10 09:25:28  #焦點 #A股
-
-三大股指低開，滬指跌0.62％，深成指跌1.35％，創業板跌1.62％。
-
----
-
-### 2026-06-10 09:25:14  #其他
-
-阿富汗聲稱巴基斯坦昨晚侵犯了其領空。
-
----
-
-### 2026-06-10 09:24:55  #國際
-
-俄羅斯薩馬拉州諾伏庫比舍夫斯克遭無人機襲擊。
-
----
-
-### 2026-06-10 09:22:22  #央行 #其他
-
-央行公開市場今日淨投放1,590.0億元人民幣。
-
----
-
-### 2026-06-10 09:21:58  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-At the open on Jun 10, Hong Kong's Hang Seng Index (HSI) fell 123.38 points (-0.50%) to 24,442.52. Hang Seng Tech dropped 18.11 points (-0.38%) to 4,751.50. Hang Seng China Enterprises Index (HSCEI) slipped 29.43 points (-0.35%) to 8,295.16. Hang Seng China-Affiliated Corporations (Red Chip) Index declined 27.30 points (-0.63%) to 4,311.75.
-
----
-
-### 2026-06-10 09:21:38  #MKT News #Market Themes #AI Revolution #00354.HK #Impact bullish
-
-China Software International (00354.HK) rose more than 4% after signing a RMB1 bln sales agreement for high-end AI compute equipment.
-
----
-
-### 2026-06-10 09:21:37  #焦點
-
-港股恒指低開跌0.5％，國企指數跌0.35％，恒生科技指數開跌0.38%，PCB、人工智慧股走強。
-
----
-
-### 2026-06-10 09:21:29  #央行 #其他
-
-央行今日開展1590億元7天逆回購操作，投標量1590億元，中標量1590億元，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-06-10 09:21:28  #MKT News #CNH #Impact bullish
-
-PBOC conducted a CNY159bn 7-day reverse repo today; bids and allotment both CNY159bn; operation rate 1.40%, unchanged.
-
----
-
-### 2026-06-10 09:21:25  #央行 #中國央行
-
-央行今日開展1590億元7天逆回購操作，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-06-10 09:21:17  #MKT News #Important #Market Regions #Greater China #02228.HK #Impact bullish #HSI #Impact bearish #HSTECH #Impact mixed
-
-Hong Kong open: Hang Seng Index (HSI) down 0.50%, Hang Seng Tech Index down 0.38%. PCB and AI stocks led gains; chip, nonferrous metals and new-energy vehicle stocks lagged. JingTai Holdings (02228.HK) rose over 4% after announcing a strategic AI drug‑discovery partnership worth more than $400 mln with a global pharmaceutical company.
-
----
-
-### 2026-06-10 09:21:03  #公司
-
-【華孚時尚：阿克蘇算力專案尚未正式完工】華孚時尚6月10日在互動平臺表示，1、公司各業務板塊經營穩健，現金流健康。目前不存在《深圳證券交易所股票上市規則》規定的觸發實施退市風險警示或其他風險警示的情形。2、公司堅定實行“堅持主業、共享產業、發展新業”的發展戰略，科技新業穩步推進，算力服務能力持續最佳化。阿克蘇算力專案會綜合考慮市場行情、客戶需求、裝置供貨等因素合理安排投產運營進度。專案尚未正式完工，請注意投資風險。
-
----
-
-### 2026-06-10 09:20:09  #其他
-
-【全國小麥收穫進度近七成】據農業農村部最新小麥機收進度，截至6月9日17時，全國已收穫夏糧小麥2.33億畝，收穫進度68.54%。安徽麥收圓滿完成，河南基本結束，江蘇進度過八成，山東過四成半，陝西過三成，河北近兩成，山西過一成半。
-
----
-
-### 2026-06-10 09:20:05  #MKT News #Important
-
-China's May CPI YoY due in 10 minutes.
-
----
-
-### 2026-06-10 09:20:00  #MKT News
-
-Google Cloud said it rerouted significant traffic to other nodes after local service capacity at affected Delhi facilities degraded.
-
----
-
-### 2026-06-10 09:19:29  #公司
-
-谷歌雲：第三方資料中心發生火災，導致德里區域網路裝置被迫緊急斷電，網路容量下降。正在研究額外的流量緩解措施。已將受影響德里設施的大量流量重新路由，以解決本地服務能力下降問題。
-
----
-
-### 2026-06-10 09:18:08  #MKT News
-
-Google Cloud said a fire at a third-party data center in Delhi forced emergency shutdowns of network equipment, reducing regional network capacity.
 
 ---
