@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-15 00:11:44",
-  "count": 18376,
+  "updated": "2026-06-15 00:15:52",
+  "count": 18380,
   "items": [
+    {
+      "id": "4934665",
+      "time": "2026-06-15 00:13:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：內塔尼亞胡缺乏判斷力，我已向他表達了強烈不滿。"
+    },
+    {
+      "id": "mkt:019ec6e9-1c15-7dd8-aff4-b819549e2085",
+      "time": "2026-06-15 00:13:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump criticizes Netanyahu after Israeli strike on Beirut delays US-Iran deal signing】President Trump sharply criticized Israeli Prime Minister Netanyahu after an Israeli strike on Beirut hours before a planned US-Iran agreement signing, saying the attack showed \"no judgment\" and left him \"very angry.\" Trump said he was told about the strike roughly one hour before the scheduled signing and that rockets earlier fired by Hezbollah landed in open areas with no injuries, yet Israel struck Beirut. The strike delayed the signing that was due that morning; Trump said he still expected the deal to be signed within hours. He described the agreement as preventing Iran from obtaining nuclear weapons, allowing inspections with 24-hour notice and eliminating Iran's stock of highly enriched uranium."
+    },
+    {
+      "id": "4934664",
+      "time": "2026-06-15 00:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "福克斯新聞：特朗普告訴內塔尼亞胡不要在黎巴嫩進行進一步的打擊，警告說這可能會危及美伊協議。"
+    },
+    {
+      "id": "4934663",
+      "time": "2026-06-15 00:12:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普接受阿克西奧斯新聞網採訪：伊朗相關協議仍計劃於週日簽署。"
+    },
+    {
+      "id": "4934662",
+      "time": "2026-06-15 00:11:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統助理：特朗普與普京通話 美伊談判結果將公佈】俄羅斯總統助理烏沙科夫14日說，美國總統特朗普當天在與俄羅斯總統普京的通話中表示，美國和伊朗之間的協議已接近達成，談判結果可能於當天公佈。（新華社）"
+    },
+    {
+      "id": "mkt:019ec6e7-36ec-7dd8-aff4-b62b92461669",
+      "time": "2026-06-15 00:11:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "According to Israel's Channel 12, US President Trump said he told Netanyahu on a call, \"What are you doing?\""
+    },
     {
       "id": "4934661",
       "time": "2026-06-15 00:10:58",
@@ -168966,22 +169020,6 @@
         "其他"
       ],
       "text": "南非總統拉馬福薩：南非將嚴厲打擊違反移民及勞工法的行為，整治移民系統腐敗問題。南非還將強化移民相關法規。"
-    },
-    {
-      "id": "4922089",
-      "time": "2026-06-08 00:12:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加沙停火談判重啟 哈馬斯移交管理權成談判重點】埃及安全部門訊息人士7日表示，當天在埃及首都開羅，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）領導層代表團同埃及、卡達和土耳其等停火斡旋方重啟加沙地帶停火談判。（新華社）"
-    },
-    {
-      "id": "mkt:019ea2db-185c-7ee0-86d0-e2d797449ce7",
-      "time": "2026-06-08 00:12:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Gaza ceasefire talks resume; Hamas handover of administrative control becomes negotiation focus】Egyptian security sources told Xinhua on the 7th that a Hamas leadership delegation met in Cairo with mediators Egypt, Qatar and Turkey to resume Gaza ceasefire talks; the handover of Gaza’s administrative control by Hamas has become a central issue in the negotiations."
     }
   ]
 }
