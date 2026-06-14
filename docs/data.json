@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-15 07:54:09",
-  "count": 18347,
+  "updated": "2026-06-15 07:58:04",
+  "count": 18343,
   "items": [
+    {
+      "id": "mkt:019ec891-011f-7dd8-aff9-37f59789be2f",
+      "time": "2026-06-15 07:56:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported a Qatari delegation has just left Tehran after 17 hours of intensive talks."
+    },
+    {
+      "id": "mkt:019ec890-f85b-7dd8-aff9-29d21dd984b2",
+      "time": "2026-06-15 07:56:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【UK, France, Germany, Italy say prepared to lift Iran sanctions】UK, France, Germany and Italy said in a joint statement they are prepared to lift related sanctions on Iran if the US and Iran reach an agreement to end the war, in exchange for Iran taking measures on its nuclear program."
+    },
+    {
+      "id": "4935003",
+      "time": "2026-06-15 07:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英法德意四國稱將解除對伊朗制裁】據國際媒體14日報道，英國、法國、德國和義大利發表聯合宣告稱，在美國和伊朗達成結束戰爭的協議後，各方準備解除對伊朗相關制裁，以此換取伊朗在核計劃方面採取舉措。 (新華社)"
+    },
+    {
+      "id": "4935002",
+      "time": "2026-06-15 07:55:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "現貨鈀金漲幅接近3%，報每盎司1328.09美元。"
+    },
+    {
+      "id": "mkt:019ec890-2ffb-7dd8-aff9-204445dea488",
+      "time": "2026-06-15 07:55:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Commonwealth Bank: Energy prices unlikely to return to pre-war levels for extended period】Christina Clifton, senior currency strategist at Commonwealth Bank of Australia in Sydney, said the reopening of the Strait of Hormuz is positive for the global economy but oil and gas flows will take time to fully normalize. Markets will watch how quickly flows recover and production restarts. She said energy prices are unlikely to fall back to pre-war levels for an extended period, and shipping/transport normalization will also lag."
+    },
+    {
+      "id": "4935000",
+      "time": "2026-06-15 07:54:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一艘液化天然氣運輸船駛向霍爾木茲海峽，美伊和平協議為這條關鍵航道重啟帶來希望】一艘被困在波斯灣逾三個月的液化天然氣運輸船，目前疑似正駛向霍爾木茲海峽。恰逢美國與伊朗表示已達成協議，將重新開放這條航道。資料顯示，這艘名為 “迪莎” 號的船舶由印度一家國有進口企業長期租賃，當前位於阿聯酋以北海域，即將駛抵阿曼附近。"
+    },
+    {
+      "id": "te:markets:558824",
+      "time": "2026-06-15 07:53:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Jumps on US-Iran Peace Agreement — Silver jumped above $70 an ounce on Monday, advancing for a third consecutive session after the US and Iran reached a peace agreement that would reopen the Strait of Hormuz. Oil prices declined to a two-month low following the announcement, easing concerns over rising inflation and the prospect of interest rate hikes that have weighed on precious metals. The agreement is set to be signed in Switzerland on June 19 and reportedly includes the lifting of blockades, sanctions relief for Iran, and the dismantling of Tehran’s nuclear program. Meanwhile, the US Federal Reserve will hold its first policy meeting this week under new chair Kevin Warsh and is widely expected to keep interest rates unchanged. The Reserve Bank of Australia is also expected to leave policy steady, while the Bank of Japan is likely to raise rates in support of its currency."
+    },
     {
       "id": "4934999",
       "time": "2026-06-15 07:53:04",
@@ -168527,98 +168599,6 @@
         "國際"
       ],
       "text": "開山股份表示，其美國子公司Open Mountain Energy將與Power Planet Inc合作開發增強型地熱系統。"
-    },
-    {
-      "id": "4922440",
-      "time": "2026-06-08 07:57:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐耶路撒冷大使館和特拉維夫領事處週一關閉。"
-    },
-    {
-      "id": "mkt:019ea485-3cab-7338-95ac-b44a2fe08a00",
-      "time": "2026-06-08 07:57:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippine authorities issued a tsunami warning, urging residents in affected areas to evacuate immediately to inland high ground."
-    },
-    {
-      "id": "4922439",
-      "time": "2026-06-08 07:55:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐以色列耶路撒冷大使館於8日關閉。"
-    },
-    {
-      "id": "4922438",
-      "time": "2026-06-08 07:55:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4370美元/盎司，日內漲0.11%。"
-    },
-    {
-      "id": "4922437",
-      "time": "2026-06-08 07:54:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海嘯預警系統：菲律賓棉蘭老島發生8.2級地震後，已釋出海嘯威脅警報。"
-    },
-    {
-      "id": "4922436",
-      "time": "2026-06-08 07:54:48",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：有報告顯示導彈、無人機或火箭正處於約旦領空內。"
-    },
-    {
-      "id": "mkt:c9ae8794-a28b-4c73-95fb-4fdd65b052ee",
-      "time": "2026-06-08 07:54:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. State Department said reports show missiles, drones or rockets entered Jordanian airspace."
-    },
-    {
-      "id": "mkt:019ea482-c652-7ee0-86d6-1152af880189",
-      "time": "2026-06-08 07:54:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. State Department said reports show missiles, drones or rockets entered Jordanian airspace."
-    },
-    {
-      "id": "4922435",
-      "time": "2026-06-08 07:54:36",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：分散式拓展光互聯邊界，DCI產業鏈迎系統性重構】中信證券指出，AI算力指數級擴張的大背景下，北美單體資料中心電力與土地瓶頸日益突出，驅動算力佈局從園區內的Scale Up/Out向跨園區、跨區域的Scale Across演進。Scale Across作為突破資料中心算力牆的核心方向，正加速從早期驗證走向規模化部署，有望成為AI時代光互聯新興的高景氣賽道。中信證券認為，DCI（資料中心互聯）產業鏈正經歷深刻的重構：AI時代對DCI提出高密度、高頻寬、低延遲及高可靠性等嚴苛要求，催生了對高速率相干光模組和高密度光放大器的爆發式需求，產業價值正從傳統DCI時代，高度集中於下游系統廠商，向中上游的光模組、光放大器及核心光電晶片環節加速轉移。國內廠商憑藉成熟的製造優勢和供應鏈協同能力，有望深度參與全球DCI供應鏈。"
-    },
-    {
-      "id": "mkt:4c542717-5743-4b22-b70f-6fec37df4045",
-      "time": "2026-06-08 07:54:23",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "07:37 on June 8, 2026 — An 8.1 magnitude earthquake struck in waters off Mindanao, Philippines, at a focal depth of 15 km, the National Marine Environmental Forecasting Center said. The Ministry of Natural Resources' Tsunami Warning Center said the quake could generate a large tsunami near the epicenter but is not expected to cause destructive impact to China's coastline; the center will continue to monitor and issue updates."
-    },
-    {
-      "id": "mkt:019ea482-aafa-7ee0-86d6-08921bd359f9",
-      "time": "2026-06-08 07:54:23",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "07:37 on June 8, 2026 — An 8.1 magnitude earthquake struck in waters off Mindanao, Philippines, at a focal depth of 15 km, the National Marine Environmental Forecasting Center said. The Ministry of Natural Resources' Tsunami Warning Center said the quake could generate a large tsunami near the epicenter but is not expected to cause destructive impact to China's coastline; the center will continue to monitor and issue updates."
     }
   ]
 }
