@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-14 18:37:23_
-_本檔包含 3532 則快訊，約 658794 字_
+_更新時間：2026-06-14 19:14:13_
+_本檔包含 3520 則快訊，約 657986 字_
+
+---
+
+### 2026-06-12 12:08:28  #國際
+
+【風暴來襲，芝加哥機場數百架航班取消】當地時間週四晚間，芝加哥及周邊地區龍捲風預警解除，最嚴峻的險情已過去，但當地航空及供電仍受影響。美國國家氣象局釋出宣告稱：“此次觸發預警的風暴強度已降至強風暴標準以下，不再具備形成龍捲風的條件。”該局表示，印第安納州、密歇根州、伊利諾伊州部分割槽域仍維持龍捲風觀察預警，艾奧瓦州則釋出洪水觀察預警。美國風暴預測中心稱，截至週四，包括芝加哥民眾在內，超910萬人所處區域面臨中度強雷暴風險，此類天氣易引發冰雹和龍捲風。風暴預測中心資料顯示，過去兩天，美國中西部已記錄428起冰雹、破壞性大風及龍捲風相關災害報告。截至美國東部時間22時59分，全美共計取消1474架次航班，其中芝加哥奧黑爾國際機場進出港航班取消882架次。美國聯邦航空管理局此前已預警，雷暴天氣將導致該機場航班延誤。受風暴連鎖影響，紐約拉瓜迪亞機場另有166架經停航班取消。停電資訊網站資料顯示，美東東部時間23時，伊利諾伊州、印第安納州、威斯康星州、密歇根州、弗吉尼亞州及賓夕法尼亞州共有近60萬戶住宅與商鋪斷電。
+
+---
+
+### 2026-06-12 12:07:56  #國際
+
+【文明對話國際日活動在聯合國機構舉行 】2024年6月，聯合國大會一致透過中國提出的決議，把每年6月10日設立為“文明對話國際日”。今年6月10日是第二個“文明對話國際日”。位於美國紐約、法國巴黎、奧地利維也納等地的聯合國機構當天舉辦主題活動，共話文明交流互鑑。聯合國秘書長古特雷斯在書面致辭中表示，應透過文明對話增進團結，推動構建更加公正、和平的世界。各方讚賞中國提出全球文明倡議及為促進文明對話所作貢獻，一致認為應以交流凝聚共識、合力開創美好未來。
+
+---
+
+### 2026-06-12 12:07:36  #Trading Economics #Economy #Thailand #Consumer Confidence #Importance 1
+
+Thailand Consumer Sentiment Falls to 3½-Year Low — The University of the Thai Chamber of Commerce’s Consumer Confidence Index dropped to 49.5 in May 2026 from 50.6 in April, marking the lowest level since November 2022. The decline was mainly attributed to concerns over conflicts in the Middle East and persistently high oil prices, which are expected to raise the cost of living and weigh on economic growth.
+
+---
+
+### 2026-06-12 12:06:46  #國際
+
+據《紐約時報》訊息，美國計劃撤走其部署在歐洲供北約使用的三分之一戰鬥機。
+
+---
+
+### 2026-06-12 12:06:46  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish #03330.HK #06693.HK
+
+【Hong Kong midday: HSI up 2.02% at half-day; gold miners lead gains】Hong Kong shares rose through the morning session; HSI +2.02% and Hang Seng Tech Index +1.72% at midday. Gold miners led gains: Lingbao Gold (03330.HK) +9%+, Chifeng Gold (06693.HK) +8%+. Mainland broker stocks advanced: Hongye Futures (03678.HK) +11%+, CITIC Securities (06030.HK) and China International Capital Co (03908.HK) both +6%+. Innovative drug/biotech names rallied: 06990.HK +7%+, 09926.HK +5%+, Hengrui Medicine (01276.HK) +4%+. Wind power, commercial space, power equipment, robotics, lithium battery and China domestic bank sectors outperformed. Large-model AI names were mixed: Zhipu +3%+, MINIMAX-W (00100.HK) -5%+. PCB complex rolled over after an early pop: Kingboard Laminates (01888.HK) -5%+, Kingboard (00148.HK) -4%+.
+
+---
+
+### 2026-06-12 12:05:40  #市場 #央行 #國際
+
+【市場結構正在最佳化，機構預計A股繼續走強，A500ETF南方（159352）連續兩天獲資金淨申購】6月12日，A股高開高走，大幅單邊上漲，截止午盤，三大指數均漲超1%，全市場超4500只個股上漲，A500ETF南方（159352）漲1.77%，成交額17.82億元。資金流向方面，已連續兩天獲得淨申購。長江證券表示，在全球AI 資本開支加速和國內企業盈利修復的背景下，預計A 股市場震盪走強，AI 基建+能源安全仍是主線。時間若再看長一些，在美國中期選舉之前，Q3 末期預計海外地緣和宏觀擾動和分歧或逐步走向共識，霍爾木茲海峽問題以及新任美聯儲主席沃什的貨幣政策的影響逐步消化，市場或再度迎來“RISKON”行情。天風證券表示，A股科技寬基的成交額高位震盪，同時市值穩步抬升，或正從情緒博弈向產業權重主導轉型。雙創板塊成交額佔比雖接近40%的高位，但尚未到達歷史峰值。其自由流通市值佔比從2020年的8%持續上升至目前的25%左右，顯示出當前市場結構正在最佳化。資料顯示，A500ETF南方（159352）緊密跟蹤的中證A500指數覆蓋A股大中盤優質龍頭企業，重點佈局新質生產力，憑藉規模、流動性等方面優勢，或是助力資金佈局後市機會的有力工具。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。
+
+---
+
+### 2026-06-12 12:05:13  #其他
+
+市場訊息：追覓科技據悉正在考慮在香港上市。
+
+---
+
+### 2026-06-12 12:05:01  #央行 #國際
+
+歐洲央行管委DOLENC：即使霍爾姆斯海峽開放，戰爭的影響也將持續更長時間。
+
+---
+
+### 2026-06-12 12:04:27  #Trading Economics #Markets #Commodity #Importance 1
+
+Copper Rebounds on US-Iran Deal Optimism — Copper futures climbed to around $6.4 per pound on Friday, recovering from three-week lows as rising optimism over a potential US-Iran peace agreement eased concerns about global growth and industrial metals demand. President Donald Trump said a deal could be signed as soon as this weekend in Europe, although there has been no confirmation from Tehran. Meanwhile, stronger-than-expected US inflation data bolstered bets for a Federal Reserve interest rate hike later this year. The outlook for metals demand remains clouded by the prospect of tighter monetary policy, which could slow economic activity and industrial consumption over time. Separately, Jefferies expects copper prices to stay elevated for longer than previously anticipated, citing an average annual supply deficit of 491,000 tons through 2030 and a slower-than-expected recovery at the Grasberg mine.
+
+---
+
+### 2026-06-12 12:02:57  #公司
+
+【榮耀CEO李健官宣正式簽約張雪機車車隊兩位車手】6月12日，榮耀CEO李健官宣榮耀簽約張雪機車車隊兩位車手，其中53號車手瓦倫丁·德比斯任“榮耀騎士先鋒”；64號車手費德里科·卡里卡蘇洛任“榮耀騎士新銳”。同時，在此前官宣推出的張雪機車聯名款冠軍手錶也將於近期發售。
+
+---
+
+### 2026-06-12 12:02:34  #其他
+
+英飛凌將於7月2日在德國德累斯頓投產一座投資 50 億歐元的功率晶片工廠。
+
+---
+
+### 2026-06-12 12:01:29  #公司 #市場
+
+【港股午評：恒生指數漲2.02%，恒生科技指數漲1.72%】港股午間收盤，恒生指數漲2.02%，恒生科技指數漲1.72%。恒指港股通ETF銀華（159318）漲2.24%，港股通科技ETF鵬華（159751）漲1.62%。板塊方面，客運航空公司、金屬與採礦板塊漲幅靠前。個股方面，明略科技-W漲19.98%，周大福漲17.36%，洛陽鉬業漲12.23%，龍蟠科技漲11.0%，九方智投控股漲10.56%；勁方醫藥-B跌5.93%，海致科技集團跌5.86%，迅策跌5.46%，應星控股跌5.44%，MINIMAX-W跌5.2%。
 
 ---
 
@@ -21115,149 +21187,5 @@ Bank of Korea to extend interest payments on financial institutions' excess fore
 ### 2026-06-11 10:15:59  #其他
 
 【SK海力士375層3D NAND年內量產，引入鉬材料攻克超高層堆疊難題】6月11日訊息，SK海力士已完成375層3D NAND快閃記憶體的量產驗證，正準備將技術轉移至清州M15工廠現有生產線，預計年內啟動量產。工藝方面，SK海力士在375層產品中以鉬（Mo）部分替代此前使用的鎢（W）作為字線金屬柵極材料。鉬在細微字線結構中電阻低於鎢，可提升訊號傳輸速度及讀寫擦除效能；且無需在沉積前額外鋪設阻擋襯層，有助於實現更高密度結構。
-
----
-
-### 2026-06-11 10:15:42  #市場 #國際
-
-20年期日本國債收益率上升1.0個基點至3.565%。
-
----
-
-### 2026-06-11 10:15:28  #國際
-
-【伊朗武裝部隊回應美軍停止新一輪打擊】伊朗武裝部隊哈塔姆安比亞中央總部當地時間11日發表宣告說，美軍之所以停止襲擊伊朗，是由於伊朗武裝力量作出“強有力且毀滅性”的回應，又一次挫敗了美軍“侵略”。伊朗武裝力量“對美國侵略與惡劣行徑的回應仍在繼續”。稍早前，美軍中央司令部發表宣告稱，已完成針對伊朗境內多個目標的新一輪“自衛性打擊”，打擊目標包括伊朗境內的軍事偵察能力、通訊系統以及防空陣地。（央視新聞）
-
----
-
-### 2026-06-11 10:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Drops by 0.32% — Top currency loser is South Korean Won (-0.32%). Gains are led by Indian Rupee (0.28%). Meanwhile, Chinese Yuan and Japanese Yen were little changed.
-
----
-
-### 2026-06-11 10:15:05  #市場
-
-阿里巴巴港股早盤一度重挫5.1%。
-
----
-
-### 2026-06-11 10:14:43  #MKT News
-
-Bahrain's Interior Ministry says an alarm sounded again.
-
----
-
-### 2026-06-11 10:14:24  #央行 #國際
-
-韓國央行：將繼續對金融機構超額外幣存款支付利息，期限延長六個月。
-
----
-
-### 2026-06-11 10:14:17  #其他
-
-巴林：警報已響起。我們敦促公民和居民保持冷靜，前往最近的安全地點，並透過官方渠道關注最新訊息。
-
----
-
-### 2026-06-11 10:14:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Kuwait Armed Forces General Staff said its air-defence systems are intercepting hostile air targets from Iran, including UAVs and ballistic missiles.
-
----
-
-### 2026-06-11 10:14:08  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量1197億元。
-
----
-
-### 2026-06-11 10:14:07  #國際
-
-約旦首都上空攔截伊朗導彈。
-
----
-
-### 2026-06-11 10:13:51  #其他
-
-科威特陸軍總參謀部宣佈，防空系統目前正按照既定作戰程式打擊敵方空中目標。陸軍總參謀部敦促所有人遵守相關部門釋出的安全指令和指南，並從官方可靠渠道獲取資訊。
-
----
-
-### 2026-06-11 10:12:21  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-HSI falls over 1%; Hang Seng Tech Index down 1.73%. Leading declines in power equipment, photovoltaic solar, robotics, aviation and biopharma.
-
----
-
-### 2026-06-11 10:12:09  #MKT News
-
-Japan's Chief Cabinet Secretary Kihara said he strongly hopes the latest US-Iran clashes will not escalate further.
-
----
-
-### 2026-06-11 10:12:07  #國際
-
-日本內閣官房長官木原稔：強烈希望美國與伊朗之間的最新衝突不會進一步升級。
-
----
-
-### 2026-06-11 10:11:33  #公司 #國際
-
-【永福股份：正積極跟蹤福建、浙江、廣東、海南等地的多個海上風電專案】永福股份(300712)6月10日在機構調研中表示，公司近年來陸續承接了國內洞頭2號海上風電專案、福鼎B-2區70萬千瓦海上風電專案、平潭A區海上風電專案等，並實現海上風電技術出海，已將海上風電技術服務推廣落地至韓國市場。當前，公司正在積極跟蹤國內福建、浙江、廣東、海南等地的多個海上風電專案，並在進一步開拓海外的海上風電市場。
-
----
-
-### 2026-06-11 10:11:21  #公司
-
-【燃氣公司稱興安爆炸未影響居民用燃氣】6月11日，“廣西桂林興安縣爆炸已致7死17傷”引發關注。據警方通報，經初步調查，排除爆炸是因管道燃氣等因素引起，公安機關正在對事件原因開展進一步調查。興安縣燃氣公司相關工作人員表示，事發後，已安排工作人員到場檢查。事故原因與燃氣無關，目前不影響居民正常使用燃氣。事件發生後，桂林市、興安縣兩級黨委、政府主要領導第一時間趕赴現場，組織公安、消防、衛健、應急等部門開展救援、處置工作。（央廣網）
-
----
-
-### 2026-06-11 10:11:17  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Mixed on Middle East Jitters — The Shanghai Composite fell 0.3% to 3,981 on Thursday, while the Shenzhen Component rose 0.4% to 15,013, as investor sentiment remained cautious amid renewed escalation of tensions in the Middle East. The US military carried out strikes on multiple targets in Iran for a second consecutive day, following President Trump's accusation that Tehran was stalling an interim peace agreement while warning of further attacks if Iran failed to sign a deal. While China's strategic oil reserves and renewable capacity have mitigated the energy shock, sustained high energy costs could squeeze corporate profit margins and hurt household spending through rising consumer prices. Among individual stocks, Eoptolink Technology tumbled 29% to a one-month low, while Zijin Mining (-2.1%), BYD (-0.6%), and Weichai Power (-3%) also declined. Meanwhile, energy stocks PetroChina (1.4%) and CNOOC (2.1%) outperformed on surging oil prices amid Middle East tensions.
-
----
-
-### 2026-06-11 10:11:04  #市場 #焦點
-
-恒生指數跌超1%，現報24163.439點；恒生科技指數現跌1.902%。
-
----
-
-### 2026-06-11 10:11:01  #其他
-
-【巴基斯坦軍隊對阿富汗邊境沿線發動空襲】巴基斯坦新聞與廣播部長塔拉爾10日發表宣告說，巴基斯坦軍隊對阿富汗邊境沿線發動空襲，打死26名武裝人員。宣告表示，根據可靠情報，巴軍方對“恐怖分子營地進行了精準打擊”，共有4個目標被徹底摧毀。（央視新聞）
-
----
-
-### 2026-06-11 10:11:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Pakistan military launches airstrikes along Afghanistan border】Pakistan's military launched airstrikes along the Afghanistan border on the 10th, killing 26 armed militants, Information and Broadcasting Minister Tarar said. Citing reliable intelligence, the ministry said precision strikes destroyed four militant camp targets.
-
----
-
-### 2026-06-11 10:10:56  #其他
-
-中際旭創成交額達100億元，現跌0.41%。
-
----
-
-### 2026-06-11 10:09:59  #MKT News
-
-【China Ministry of Agriculture: east–west cooperation helped over 5 mln western rural workers find jobs】At a State Council Information Office briefing on June 11, the Ministry of Agriculture and Rural Affairs said east–west cooperation measures have helped more than 5 million rural workers in western China obtain employment during the transition from poverty-alleviation consolidation to rural revitalization, including over 3 million workers lifted out of poverty.
-
----
-
-### 2026-06-11 10:09:31  #其他
-
-【農業農村部：東西部協作幫助西部地區500餘萬農村勞動力實現就業】國新辦今天（6月11日）上午10時舉行新聞釋出會，介紹東西部協作工作進展成效，並答記者問。農業農村部副部長麥爾丹·木蓋提介紹，在鞏固拓展脫貧攻堅成果同鄉村振興有效銜接過渡期，透過東西部協作機制幫助西部地區500餘萬農村勞動力實現就業，其中脫貧勞動力300多萬人。
-
----
-
-### 2026-06-11 10:09:15  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Finds Support as US Completes Iran Strikes — Silver rose toward $64 an ounce on Thursday after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume and tempering some concerns over inflationary pressures. Earlier, the US launched fresh attacks on Iran after President Trump accused Tehran of delaying talks on an interim peace agreement, while Iran reportedly responded by targeting US vessels in the Strait of Hormuz. Even so, silver remained near eleven-week lows as the prolonged conflict and the continuing near-total closure of Hormuz disrupted energy flows from the Persian Gulf, fueling worries about higher inflation and interest rate hikes. Meanwhile, US inflation accelerated in May to its fastest pace in more than three years, driven by surging energy costs, though the reading matched market expectations. Traders slightly scaled back expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced.
 
 ---

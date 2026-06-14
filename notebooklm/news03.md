@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 18:37:23_
-_本檔包含 3633 則快訊，約 658346 字_
+_更新時間：2026-06-14 19:14:13_
+_本檔包含 3635 則快訊，約 658362 字_
+
+---
+
+### 2026-06-11 10:15:42  #市場 #國際
+
+20年期日本國債收益率上升1.0個基點至3.565%。
+
+---
+
+### 2026-06-11 10:15:28  #國際
+
+【伊朗武裝部隊回應美軍停止新一輪打擊】伊朗武裝部隊哈塔姆安比亞中央總部當地時間11日發表宣告說，美軍之所以停止襲擊伊朗，是由於伊朗武裝力量作出“強有力且毀滅性”的回應，又一次挫敗了美軍“侵略”。伊朗武裝力量“對美國侵略與惡劣行徑的回應仍在繼續”。稍早前，美軍中央司令部發表宣告稱，已完成針對伊朗境內多個目標的新一輪“自衛性打擊”，打擊目標包括伊朗境內的軍事偵察能力、通訊系統以及防空陣地。（央視新聞）
+
+---
+
+### 2026-06-11 10:15:15  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Drops by 0.32% — Top currency loser is South Korean Won (-0.32%). Gains are led by Indian Rupee (0.28%). Meanwhile, Chinese Yuan and Japanese Yen were little changed.
+
+---
+
+### 2026-06-11 10:15:05  #市場
+
+阿里巴巴港股早盤一度重挫5.1%。
+
+---
+
+### 2026-06-11 10:14:43  #MKT News
+
+Bahrain's Interior Ministry says an alarm sounded again.
+
+---
+
+### 2026-06-11 10:14:24  #央行 #國際
+
+韓國央行：將繼續對金融機構超額外幣存款支付利息，期限延長六個月。
+
+---
+
+### 2026-06-11 10:14:17  #其他
+
+巴林：警報已響起。我們敦促公民和居民保持冷靜，前往最近的安全地點，並透過官方渠道關注最新訊息。
+
+---
+
+### 2026-06-11 10:14:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Kuwait Armed Forces General Staff said its air-defence systems are intercepting hostile air targets from Iran, including UAVs and ballistic missiles.
+
+---
+
+### 2026-06-11 10:14:08  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時縮量1197億元。
+
+---
+
+### 2026-06-11 10:14:07  #國際
+
+約旦首都上空攔截伊朗導彈。
+
+---
+
+### 2026-06-11 10:13:51  #其他
+
+科威特陸軍總參謀部宣佈，防空系統目前正按照既定作戰程式打擊敵方空中目標。陸軍總參謀部敦促所有人遵守相關部門釋出的安全指令和指南，並從官方可靠渠道獲取資訊。
+
+---
+
+### 2026-06-11 10:12:21  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+HSI falls over 1%; Hang Seng Tech Index down 1.73%. Leading declines in power equipment, photovoltaic solar, robotics, aviation and biopharma.
+
+---
+
+### 2026-06-11 10:12:09  #MKT News
+
+Japan's Chief Cabinet Secretary Kihara said he strongly hopes the latest US-Iran clashes will not escalate further.
+
+---
+
+### 2026-06-11 10:12:07  #國際
+
+日本內閣官房長官木原稔：強烈希望美國與伊朗之間的最新衝突不會進一步升級。
+
+---
+
+### 2026-06-11 10:11:33  #公司 #國際
+
+【永福股份：正積極跟蹤福建、浙江、廣東、海南等地的多個海上風電專案】永福股份(300712)6月10日在機構調研中表示，公司近年來陸續承接了國內洞頭2號海上風電專案、福鼎B-2區70萬千瓦海上風電專案、平潭A區海上風電專案等，並實現海上風電技術出海，已將海上風電技術服務推廣落地至韓國市場。當前，公司正在積極跟蹤國內福建、浙江、廣東、海南等地的多個海上風電專案，並在進一步開拓海外的海上風電市場。
+
+---
+
+### 2026-06-11 10:11:21  #公司
+
+【燃氣公司稱興安爆炸未影響居民用燃氣】6月11日，“廣西桂林興安縣爆炸已致7死17傷”引發關注。據警方通報，經初步調查，排除爆炸是因管道燃氣等因素引起，公安機關正在對事件原因開展進一步調查。興安縣燃氣公司相關工作人員表示，事發後，已安排工作人員到場檢查。事故原因與燃氣無關，目前不影響居民正常使用燃氣。事件發生後，桂林市、興安縣兩級黨委、政府主要領導第一時間趕赴現場，組織公安、消防、衛健、應急等部門開展救援、處置工作。（央廣網）
+
+---
+
+### 2026-06-11 10:11:17  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Mixed on Middle East Jitters — The Shanghai Composite fell 0.3% to 3,981 on Thursday, while the Shenzhen Component rose 0.4% to 15,013, as investor sentiment remained cautious amid renewed escalation of tensions in the Middle East. The US military carried out strikes on multiple targets in Iran for a second consecutive day, following President Trump's accusation that Tehran was stalling an interim peace agreement while warning of further attacks if Iran failed to sign a deal. While China's strategic oil reserves and renewable capacity have mitigated the energy shock, sustained high energy costs could squeeze corporate profit margins and hurt household spending through rising consumer prices. Among individual stocks, Eoptolink Technology tumbled 29% to a one-month low, while Zijin Mining (-2.1%), BYD (-0.6%), and Weichai Power (-3%) also declined. Meanwhile, energy stocks PetroChina (1.4%) and CNOOC (2.1%) outperformed on surging oil prices amid Middle East tensions.
+
+---
+
+### 2026-06-11 10:11:04  #市場 #焦點
+
+恒生指數跌超1%，現報24163.439點；恒生科技指數現跌1.902%。
+
+---
+
+### 2026-06-11 10:11:01  #其他
+
+【巴基斯坦軍隊對阿富汗邊境沿線發動空襲】巴基斯坦新聞與廣播部長塔拉爾10日發表宣告說，巴基斯坦軍隊對阿富汗邊境沿線發動空襲，打死26名武裝人員。宣告表示，根據可靠情報，巴軍方對“恐怖分子營地進行了精準打擊”，共有4個目標被徹底摧毀。（央視新聞）
+
+---
+
+### 2026-06-11 10:11:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Pakistan military launches airstrikes along Afghanistan border】Pakistan's military launched airstrikes along the Afghanistan border on the 10th, killing 26 armed militants, Information and Broadcasting Minister Tarar said. Citing reliable intelligence, the ministry said precision strikes destroyed four militant camp targets.
+
+---
+
+### 2026-06-11 10:10:56  #其他
+
+中際旭創成交額達100億元，現跌0.41%。
+
+---
+
+### 2026-06-11 10:09:59  #MKT News
+
+【China Ministry of Agriculture: east–west cooperation helped over 5 mln western rural workers find jobs】At a State Council Information Office briefing on June 11, the Ministry of Agriculture and Rural Affairs said east–west cooperation measures have helped more than 5 million rural workers in western China obtain employment during the transition from poverty-alleviation consolidation to rural revitalization, including over 3 million workers lifted out of poverty.
+
+---
+
+### 2026-06-11 10:09:31  #其他
+
+【農業農村部：東西部協作幫助西部地區500餘萬農村勞動力實現就業】國新辦今天（6月11日）上午10時舉行新聞釋出會，介紹東西部協作工作進展成效，並答記者問。農業農村部副部長麥爾丹·木蓋提介紹，在鞏固拓展脫貧攻堅成果同鄉村振興有效銜接過渡期，透過東西部協作機制幫助西部地區500餘萬農村勞動力實現就業，其中脫貧勞動力300多萬人。
+
+---
+
+### 2026-06-11 10:09:15  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Finds Support as US Completes Iran Strikes — Silver rose toward $64 an ounce on Thursday after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume and tempering some concerns over inflationary pressures. Earlier, the US launched fresh attacks on Iran after President Trump accused Tehran of delaying talks on an interim peace agreement, while Iran reportedly responded by targeting US vessels in the Strait of Hormuz. Even so, silver remained near eleven-week lows as the prolonged conflict and the continuing near-total closure of Hormuz disrupted energy flows from the Persian Gulf, fueling worries about higher inflation and interest rate hikes. Meanwhile, US inflation accelerated in May to its fastest pace in more than three years, driven by surging energy costs, though the reading matched market expectations. Traders slightly scaled back expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced.
 
 ---
 
@@ -21769,137 +21913,5 @@ Google Cloud said it rerouted significant traffic to other nodes after local ser
 ### 2026-06-10 09:18:08  #MKT News
 
 Google Cloud said a fire at a third-party data center in Delhi forced emergency shutdowns of network equipment, reducing regional network capacity.
-
----
-
-### 2026-06-10 09:17:48  #MKT News #Market Regions #Greater China
-
-【GigaDevice launches GD32E512 and GD32E252 MCUs for optical modules】June 10 — China’s GigaDevice launched two MCUs, GD32E512 and GD32E252, for optical modules, covering applications from legacy low‑speed to next‑generation high‑speed ports. The launch expands GigaDevice’s optical-communications product lineup and will provide hardware support for AI compute centers and next‑generation network high‑speed optical interconnect upgrades.
-
----
-
-### 2026-06-10 09:17:17  #其他
-
-【兆易創新推出全新光模組專用MCU】6月10日，兆易創新（GigaDevice）推出全新GD32E512和GD32E252系列光模組專用MCU，精準覆蓋從傳統低速到新一代高速光模組的多元應用場景。這兩款新品的釋出，將進一步拓寬兆易創新在光通訊領域的產品矩陣，並將為AI算力中心及下一代網路基礎設施的高速光互聯產業升級提供強有力的底層硬體支撐。
-
----
-
-### 2026-06-10 09:17:11  #MKT News #GOOGL.O
-
-Google Cloud reports intermittent high-latency network traffic in and around Delhi, Chennai and Mumbai, India.
-
----
-
-### 2026-06-10 09:16:27  #公司
-
-谷歌雲：源自德里、金奈、孟買及周邊地區的網路流量正間歇性出現延遲升高的情況。
-
----
-
-### 2026-06-10 09:16:14  #市場
-
-【人民幣兌美元中間價報6.8130，較上日調高17點】人民幣兌美元中間價報6.8130，較上日調高17點。
-
----
-
-### 2026-06-10 09:15:38  #MKT News #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures opened the day session down 0.98% at 24,382, trading 184 points below the spot index.
-
----
-
-### 2026-06-10 09:15:02  #市場
-
-恒指期貨日盤開盤跌1.06%，報24362.77點，低水203.13點。
-
----
-
-### 2026-06-10 09:14:58  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-A Fox News reporter cited a senior U.S. official saying 20 targets inside Iran were struck.
-
----
-
-### 2026-06-10 09:14:52  #市場 #焦點
-
-焦煤連續主力合約日內跌2%，現報1346.50元。
-
----
-
-### 2026-06-10 09:13:33  #公司 #國際
-
-【美國空軍對波音KC-46空中加油機的修復方案充滿信心】美國空軍部長特洛伊·明克週二向參議院一個小組委員會表示，美國空軍確信已找到解決波音公司 BA.N KC-46空中加油機關鍵系統長期存在問題的辦法。多年來，波音公司和美國空軍一直致力於解決該加油機遠端視覺系統的問題，該系統對於使用飛機加油探管（一種用於輸送燃油的剛性管道）進行空中加油至關重要。“好訊息是，我們相信已經修復並測試了新的2.0版視覺系統，預計將於2028年將其投入生產線，”明克在週二的國防撥款小組委員會聽證會上表示。這比最初計劃晚了五年。
-
----
-
-### 2026-06-10 09:13:02  #其他
-
-【翻倍基增至15只 同一基金經理批次上榜】Wind資料統計，截至6月9日，僅統計主程式碼口徑下，主動權益類基金中年內復權單位淨值增長率超過100%的產品已增至15只。財通多策略福鑫、財通匠心優選一年持有、華商均衡成長、財通景氣甄選一年持有等產品年內收益均超過115%。從基金經理維度看，榜單集中度較高，15只翻倍基中，金梓才管理的財通基金產品佔據6席；張明昕、陳文凱、孫碩旗下也分別有2只產品進入翻倍名單。持倉方面，金梓才管理的6只翻倍基前十大重倉股中，有9只股票重複出現，部分同一基金經理旗下上榜產品也存在較高持倉重合度，持倉方向多集中在光通訊、PCB等AI算力鏈環節。業內人士認為，多隻產品同時上榜，未必對應多套差異化策略，若底層組合相近，淨值表現同步衝高並不意外。
-
----
-
-### 2026-06-10 09:12:44  #公司
-
-【490股獲融資買入超億元，中際旭創穫買入70.93億元居首】Wind資料顯示，A股6月9日共有3775只個股獲融資資金買入，有490股買入金額超億元。其中，中際旭創、京東方A、兆易創新融資買入金額排名前三，分別獲買入70.93億元、40.89億元、38.62億元。從融資買入額佔當日總成交金額比重來看，有10只個股融資買入額佔比超30%。其中龍利得、海能技術、宗申動力融資買入額佔成交額比重排名前三，分別為40.82%、36.39%、33.64%。從融資淨買入金額來看，有59只個股獲融資淨買入超億元。其中，滬電股份、勝宏科技、兆易創新融資淨買入金額排名前三，分別獲淨買入9.64億元、9.41億元、9.03億元。
-
----
-
-### 2026-06-10 09:12:09  #MKT News #USDJPY #Impact bearish
-
-Japan 5-year government bond yield rose 2 bps to 1.945%.
-
----
-
-### 2026-06-10 09:10:53  #市場 #國際
-
-5年期日本國債收益率上漲2.0個基點，至1.945%。
-
----
-
-### 2026-06-10 09:10:41  #公司
-
-【經緯輝開：與吉利無業務合作及參股關係，銥加科技1.6T光模組尚未取得重大突破】針對“是否存在與吉利業務合作計劃、吉利是否參股、丁總入職是否代表進一步合作可能、銥加科技光模組業務研發進展”的問詢，經緯輝開6月10日在互動平臺表示，1、公司當前未與吉利開展業務合作，亦不存在吉利參股事項。董事候選人系董事個人兼職事項，與其就職公司不存在關聯。2、銥加科技當前1.6T光模組尚在研發中，未取得重大突破。公司僅透過子公司持有銥加科技7%股權，本公司合併範圍內不存在光晶片和光模組業務。
-
----
-
-### 2026-06-10 09:10:34  #公司 #市場 #國際
-
-【三菱HC Capital與博楓組建可再生能源合資企業】6月10日，一份宣告顯示，三菱HC Capital與博楓資產管理公司共同組建了一家合資企業，用於收購和運營歐洲的可再生能源資產，初始資產組合估值約為4億歐元。該初始資產組合涵蓋英國、西班牙、瑞典、芬蘭、法國和愛爾蘭，總裝機容量約570兆瓦。相關資產均簽訂了長期購電協議，剩餘加權平均合約期約為10年。該合資企業正在評估未來對歐洲及澳大利亞可再生能源資產的收購計劃。博楓將負責合資企業的運營，並派駐一支經驗豐富的管理團隊。該合資企業預計於2026年下半年正式啟動。
-
----
-
-### 2026-06-10 09:10:28  #觀點
-
-惠譽：中信證券首次獲得“A-”評級；展望穩定。
-
----
-
-### 2026-06-10 09:10:20  #央行 #美聯儲
-
-【9月加息？華爾街開始押注美聯儲極限緊縮劇本】最新跡象顯示，華爾街的債券交易員近來正紛紛建倉，押注美聯儲未來數月將多次加息，其中部分交易員甚至預期最早在9月的政策會議上就會採取行動。
-
----
-
-### 2026-06-10 09:10:02  #市場
-
-富時中國A50指數期貨下跌1%。
-
----
-
-### 2026-06-10 09:09:25  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Hold Firm on Middle East Tensions — The dollar index hovered around 100 on Wednesday after staging a sharp intraday rebound in the previous session, as renewed hostilities in the Middle East cast doubt on a fragile ceasefire and the prospects for a longer-term peace agreement. The US launched “self-defense strikes” against Iran in response to the downing of an American helicopter, while Iranian Foreign Minister Abbas Araghchi warned that Iran’s armed forces would leave no attack or threat unanswered. Higher energy prices driven by the regional conflict fueled concerns about inflation and the possibility of central bank rate hikes. Investors also awaited the latest US inflation data for fresh signals on the Federal Reserve’s policy outlook, after stronger-than-expected jobs figures last week reinforced expectations of an interest rate increase before the end of the year. Elsewhere, the ECB and the BOJ are widely expected to raise interest rates later this month.
-
----
-
-### 2026-06-10 09:08:24  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Shares Rise After Recent Declines — Australian equities rose 29 points, or 0.3%, to 8,633 in Wednesday morning trade, snapping a three-session losing streak on strength in logistics, consumer services, and retail. Sentiment was supported by robust May trade data from top trading partner China, where exports hit a record, and imports accelerated. Locally, Australia's trade surplus shifted to a surplus in April as exports rebounded. Meanwhile, hopes grew that the Reserve Bank will pause cash rates next week after three hikes this year. However, gains were capped as U.S. stock futures slipped following Washington’s “self-defense strikes” against Iran in response to a helicopter downing. Early standouts included PLS Group (2.0%), Insurance Australia Group (1.9%), and Medibank Private (1.2%), while two of the big four banks posted modest gains. Investors now await China’s May CPI and PPI data later today, amid signs of growing inflationary pressures in recent months.
-
----
-
-### 2026-06-10 09:07:17  #國際
-
-【菲律賓地震已致45人死亡】菲律賓民防部門官員今天（6月10日）稱，菲律賓南部6月8日發生的地震已造成45人死亡。（CCTV國際時訊）
 
 ---

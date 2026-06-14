@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 18:37:23_
-_本檔包含 3570 則快訊，約 659135 字_
+_更新時間：2026-06-14 19:14:13_
+_本檔包含 3546 則快訊，約 658292 字_
+
+---
+
+### 2026-06-10 09:17:48  #MKT News #Market Regions #Greater China
+
+【GigaDevice launches GD32E512 and GD32E252 MCUs for optical modules】June 10 — China’s GigaDevice launched two MCUs, GD32E512 and GD32E252, for optical modules, covering applications from legacy low‑speed to next‑generation high‑speed ports. The launch expands GigaDevice’s optical-communications product lineup and will provide hardware support for AI compute centers and next‑generation network high‑speed optical interconnect upgrades.
+
+---
+
+### 2026-06-10 09:17:17  #其他
+
+【兆易創新推出全新光模組專用MCU】6月10日，兆易創新（GigaDevice）推出全新GD32E512和GD32E252系列光模組專用MCU，精準覆蓋從傳統低速到新一代高速光模組的多元應用場景。這兩款新品的釋出，將進一步拓寬兆易創新在光通訊領域的產品矩陣，並將為AI算力中心及下一代網路基礎設施的高速光互聯產業升級提供強有力的底層硬體支撐。
+
+---
+
+### 2026-06-10 09:17:11  #MKT News #GOOGL.O
+
+Google Cloud reports intermittent high-latency network traffic in and around Delhi, Chennai and Mumbai, India.
+
+---
+
+### 2026-06-10 09:16:27  #公司
+
+谷歌雲：源自德里、金奈、孟買及周邊地區的網路流量正間歇性出現延遲升高的情況。
+
+---
+
+### 2026-06-10 09:16:14  #市場
+
+【人民幣兌美元中間價報6.8130，較上日調高17點】人民幣兌美元中間價報6.8130，較上日調高17點。
+
+---
+
+### 2026-06-10 09:15:38  #MKT News #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened the day session down 0.98% at 24,382, trading 184 points below the spot index.
+
+---
+
+### 2026-06-10 09:15:02  #市場
+
+恒指期貨日盤開盤跌1.06%，報24362.77點，低水203.13點。
+
+---
+
+### 2026-06-10 09:14:58  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+A Fox News reporter cited a senior U.S. official saying 20 targets inside Iran were struck.
+
+---
+
+### 2026-06-10 09:14:52  #市場 #焦點
+
+焦煤連續主力合約日內跌2%，現報1346.50元。
+
+---
+
+### 2026-06-10 09:13:33  #公司 #國際
+
+【美國空軍對波音KC-46空中加油機的修復方案充滿信心】美國空軍部長特洛伊·明克週二向參議院一個小組委員會表示，美國空軍確信已找到解決波音公司 BA.N KC-46空中加油機關鍵系統長期存在問題的辦法。多年來，波音公司和美國空軍一直致力於解決該加油機遠端視覺系統的問題，該系統對於使用飛機加油探管（一種用於輸送燃油的剛性管道）進行空中加油至關重要。“好訊息是，我們相信已經修復並測試了新的2.0版視覺系統，預計將於2028年將其投入生產線，”明克在週二的國防撥款小組委員會聽證會上表示。這比最初計劃晚了五年。
+
+---
+
+### 2026-06-10 09:13:02  #其他
+
+【翻倍基增至15只 同一基金經理批次上榜】Wind資料統計，截至6月9日，僅統計主程式碼口徑下，主動權益類基金中年內復權單位淨值增長率超過100%的產品已增至15只。財通多策略福鑫、財通匠心優選一年持有、華商均衡成長、財通景氣甄選一年持有等產品年內收益均超過115%。從基金經理維度看，榜單集中度較高，15只翻倍基中，金梓才管理的財通基金產品佔據6席；張明昕、陳文凱、孫碩旗下也分別有2只產品進入翻倍名單。持倉方面，金梓才管理的6只翻倍基前十大重倉股中，有9只股票重複出現，部分同一基金經理旗下上榜產品也存在較高持倉重合度，持倉方向多集中在光通訊、PCB等AI算力鏈環節。業內人士認為，多隻產品同時上榜，未必對應多套差異化策略，若底層組合相近，淨值表現同步衝高並不意外。
+
+---
+
+### 2026-06-10 09:12:44  #公司
+
+【490股獲融資買入超億元，中際旭創穫買入70.93億元居首】Wind資料顯示，A股6月9日共有3775只個股獲融資資金買入，有490股買入金額超億元。其中，中際旭創、京東方A、兆易創新融資買入金額排名前三，分別獲買入70.93億元、40.89億元、38.62億元。從融資買入額佔當日總成交金額比重來看，有10只個股融資買入額佔比超30%。其中龍利得、海能技術、宗申動力融資買入額佔成交額比重排名前三，分別為40.82%、36.39%、33.64%。從融資淨買入金額來看，有59只個股獲融資淨買入超億元。其中，滬電股份、勝宏科技、兆易創新融資淨買入金額排名前三，分別獲淨買入9.64億元、9.41億元、9.03億元。
+
+---
+
+### 2026-06-10 09:12:09  #MKT News #USDJPY #Impact bearish
+
+Japan 5-year government bond yield rose 2 bps to 1.945%.
+
+---
+
+### 2026-06-10 09:10:53  #市場 #國際
+
+5年期日本國債收益率上漲2.0個基點，至1.945%。
+
+---
+
+### 2026-06-10 09:10:41  #公司
+
+【經緯輝開：與吉利無業務合作及參股關係，銥加科技1.6T光模組尚未取得重大突破】針對“是否存在與吉利業務合作計劃、吉利是否參股、丁總入職是否代表進一步合作可能、銥加科技光模組業務研發進展”的問詢，經緯輝開6月10日在互動平臺表示，1、公司當前未與吉利開展業務合作，亦不存在吉利參股事項。董事候選人系董事個人兼職事項，與其就職公司不存在關聯。2、銥加科技當前1.6T光模組尚在研發中，未取得重大突破。公司僅透過子公司持有銥加科技7%股權，本公司合併範圍內不存在光晶片和光模組業務。
+
+---
+
+### 2026-06-10 09:10:34  #公司 #市場 #國際
+
+【三菱HC Capital與博楓組建可再生能源合資企業】6月10日，一份宣告顯示，三菱HC Capital與博楓資產管理公司共同組建了一家合資企業，用於收購和運營歐洲的可再生能源資產，初始資產組合估值約為4億歐元。該初始資產組合涵蓋英國、西班牙、瑞典、芬蘭、法國和愛爾蘭，總裝機容量約570兆瓦。相關資產均簽訂了長期購電協議，剩餘加權平均合約期約為10年。該合資企業正在評估未來對歐洲及澳大利亞可再生能源資產的收購計劃。博楓將負責合資企業的運營，並派駐一支經驗豐富的管理團隊。該合資企業預計於2026年下半年正式啟動。
+
+---
+
+### 2026-06-10 09:10:28  #觀點
+
+惠譽：中信證券首次獲得“A-”評級；展望穩定。
+
+---
+
+### 2026-06-10 09:10:20  #央行 #美聯儲
+
+【9月加息？華爾街開始押注美聯儲極限緊縮劇本】最新跡象顯示，華爾街的債券交易員近來正紛紛建倉，押注美聯儲未來數月將多次加息，其中部分交易員甚至預期最早在9月的政策會議上就會採取行動。
+
+---
+
+### 2026-06-10 09:10:02  #市場
+
+富時中國A50指數期貨下跌1%。
+
+---
+
+### 2026-06-10 09:09:25  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Hold Firm on Middle East Tensions — The dollar index hovered around 100 on Wednesday after staging a sharp intraday rebound in the previous session, as renewed hostilities in the Middle East cast doubt on a fragile ceasefire and the prospects for a longer-term peace agreement. The US launched “self-defense strikes” against Iran in response to the downing of an American helicopter, while Iranian Foreign Minister Abbas Araghchi warned that Iran’s armed forces would leave no attack or threat unanswered. Higher energy prices driven by the regional conflict fueled concerns about inflation and the possibility of central bank rate hikes. Investors also awaited the latest US inflation data for fresh signals on the Federal Reserve’s policy outlook, after stronger-than-expected jobs figures last week reinforced expectations of an interest rate increase before the end of the year. Elsewhere, the ECB and the BOJ are widely expected to raise interest rates later this month.
+
+---
+
+### 2026-06-10 09:08:24  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Shares Rise After Recent Declines — Australian equities rose 29 points, or 0.3%, to 8,633 in Wednesday morning trade, snapping a three-session losing streak on strength in logistics, consumer services, and retail. Sentiment was supported by robust May trade data from top trading partner China, where exports hit a record, and imports accelerated. Locally, Australia's trade surplus shifted to a surplus in April as exports rebounded. Meanwhile, hopes grew that the Reserve Bank will pause cash rates next week after three hikes this year. However, gains were capped as U.S. stock futures slipped following Washington’s “self-defense strikes” against Iran in response to a helicopter downing. Early standouts included PLS Group (2.0%), Insurance Australia Group (1.9%), and Medibank Private (1.2%), while two of the big four banks posted modest gains. Investors now await China’s May CPI and PPI data later today, amid signs of growing inflationary pressures in recent months.
+
+---
+
+### 2026-06-10 09:07:17  #國際
+
+【菲律賓地震已致45人死亡】菲律賓民防部門官員今天（6月10日）稱，菲律賓南部6月8日發生的地震已造成45人死亡。（CCTV國際時訊）
 
 ---
 
@@ -21265,281 +21397,5 @@ Apple software head Craig Federighi said Apple is working with Google and NVIDIA
 ### 2026-06-09 03:21:12  #MKT News
 
 【Vale CEO says global metals demand shows no war-related damage】Vale CEO Gustavo Pimenta said he sees no signs that the Iran conflict has damaged global metals demand and that the company’s margins have widened despite shipment disruptions. He said Vale is focused on unlocking asset value rather than pursuing acquisitions and described global demand for critical minerals as very constructive. Disruptions in the Strait of Hormuz raised fuel costs and freight rates, but higher prices and volumes have largely offset the impact on miners. Vale has raised full-year free cash flow guidance for its core iron-ore business by $1.5bn and now expects average iron-ore prices of $112/tonne for the year versus a $102/tonne pre-conflict scenario.
-
----
-
-### 2026-06-09 03:20:47  #國際
-
-烏克蘭總統辦公室顧問證實，澤連斯基與維特科夫、庫什納進行了通話。
-
----
-
-### 2026-06-09 03:19:48  #國際
-
-安全訊息人士：無人機襲擊了伊拉克埃爾比勒北部的伊朗庫爾德反對派營地。
-
----
-
-### 2026-06-09 03:19:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Security sources said a drone struck an Iranian-Kurdish opposition camp north of Erbil, Iraq.
-
----
-
-### 2026-06-09 03:19:04  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact bullish #Nasdaq100 #S&P500
-
-Apple software chief Craig Federighi said Apple has entered the third generation of its foundation models.
-
----
-
-### 2026-06-09 03:18:48  #其他
-
-蘋果：蘋果基礎大模型已迭代至第三代。
-
----
-
-### 2026-06-09 03:18:10  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Apple
-
-Apple software chief Craig Federighi said Apple’s private cloud will run three in-house AI models that Apple developed based on collaborative work with Google.
-
----
-
-### 2026-06-09 03:17:48  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
-
-Apple software chief Craig Federighi said Apple has built a "world knowledge service" that runs on its private cloud platform.
-
----
-
-### 2026-06-09 03:17:33  #MKT News
-
-Apple software chief Craig Federighi said many Apple Intelligence requests are processed on-device, while more complex requests are routed to Apple's proprietary private cloud for processing.
-
----
-
-### 2026-06-09 03:17:29  #公司
-
-蘋果軟體主管克雷格・費德里吉： 蘋果已搭建專屬知識服務體系，該服務執行於公司自有私有云計算平臺。
-
----
-
-### 2026-06-09 03:16:55  #公司
-
-蘋果軟體主管克雷格・費德里吉：蘋果專屬雲將採用三款自研 AI 模型，這些模型由蘋果與谷歌合作打造。
-
----
-
-### 2026-06-09 03:16:38  #其他
-
-蘋果軟體主管克雷格・費德里吉： 蘋果智慧的多項指令均在裝置端處理，更復雜的請求則交由蘋果自有專屬雲端計算平臺處理。
-
----
-
-### 2026-06-09 03:15:25  #國際
-
-市場訊息：受美國封鎖影響，托克暫停部分古巴鋅貨運業務。
-
----
-
-### 2026-06-09 03:15:13  #市場
-
-標普500指數漲幅收窄至0.3%，重新整理日低。
-
----
-
-### 2026-06-09 03:14:02  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish #GOOGL.O #Impact bearish
-
-Apple software chief Craig Federighi said Apple's new intelligence features do not rely on Google Search.
-
----
-
-### 2026-06-09 03:13:03  #公司
-
-蘋果軟體主管談及全新蘋果智慧功能時表示：我們的系統並未採用谷歌搜尋作為底層支撐。
-
----
-
-### 2026-06-09 03:05:38  #市場 #國際
-
-【韓元脫離2009年以來最低位】週一（6月8日），韓元兌美元最終漲2%，報1526.98韓元，全天持續上揚。上週五（非農日）曾跌至1562.29韓元，創2009年3月以來最低位。
-
----
-
-### 2026-06-09 03:05:04  #其他
-
-國際貨幣基金組織：執董會批准向盧安達提供 2.5 億美元擴充套件信貸安排，並當即撥付 3570 萬美元。
-
----
-
-### 2026-06-09 03:03:34  #MKT News
-
-IMF Executive Board approved Rwanda's request to extend its credit arrangements.
-
----
-
-### 2026-06-09 03:03:20  #MKT News
-
-CNN reports Iranian officials said Tehran "has no problem" holding talks with the US, but that Washington must change its behavior.
-
----
-
-### 2026-06-09 03:03:19  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7842元，較上週五夜盤收盤漲36點。成交量467.76億美元。
-
----
-
-### 2026-06-09 03:02:24  #MKT News
-
-Axios, citing sources, said Ukrainian President Zelenskiy spoke by phone on Monday with Witkoff and Kushner.
-
----
-
-### 2026-06-09 03:01:56  #MKT News
-
-Hang Seng Index futures night session closed down 0.04% at 24,555, trading 102 points below the spot index.
-
----
-
-### 2026-06-09 03:00:51  #國際
-
-據AXIOS：澤連斯基週一與維特科夫、庫什納通了電話。
-
----
-
-### 2026-06-09 03:00:03  #市場
-
-恒指期貨夜盤收跌0.05%，報24552.28點，低水104.78點。
-
----
-
-### 2026-06-09 02:54:13  #MKT News
-
-The White House said the U.S. government will appeal a court ruling that struck down H-1B visa fees.
-
----
-
-### 2026-06-09 02:49:51  #市場
-
-布倫特原油期貨結算價報每桶94.25美元，上漲1.16美元，漲幅1.25%。
-
----
-
-### 2026-06-09 02:48:18  #國際
-
-【白宮：將就H-1B簽證費用相關裁決提起上訴】白宮發言人泰勒·羅傑斯在宣告中表示，針對法官駁回特朗普設定的10萬美元H-1B簽證申請費的裁決，將提起上訴。他稱，特朗普擁有明確的法律許可權，可限制其認定不符合美國整體利益的外籍人員入境。
-
----
-
-### 2026-06-09 02:45:53  #其他
-
-【非洲疾控中心：本輪埃博拉疫情確診病例升至563例】當地時間6月8日，非洲疾控中心釋出統計資料，截至6月7日，本輪埃博拉疫情累計確診病例數升至563例。其中，剛果（金）確診病例544例，確診死亡病例88例；烏干達確診病例19例，確診死亡病例2例。（央視新聞）
-
----
-
-### 2026-06-09 02:44:56  #MKT News
-
-【Africa CDC: confirmed cases in current Ebola outbreak rise to 563】Africa CDC said on June 8 that as of June 7 the current Ebola outbreak had 563 confirmed cases, including 544 in the Democratic Republic of Congo with 88 confirmed deaths and 19 in Uganda with 2 confirmed deaths.
-
----
-
-### 2026-06-09 02:42:32  #其他
-
-剛果方面表示，埃博拉確診病例已升至550例，其中死亡病例101例。
-
----
-
-### 2026-06-09 02:41:53  #國際
-
-白宮表示，將對H-1B簽證費的裁決提出上訴。
-
----
-
-### 2026-06-09 02:40:41  #公司 #國際
-
-禮來：口服GLP-1藥物Founadayo在三項關鍵糖尿病臨床試驗中，療效優於口服司美格魯肽。使用17.2毫克劑量時，該藥糖化血紅蛋白降幅高出57.1%，減重效果高出73.6%；安全性表現與既往試驗一致，公司計劃於第二季度末向美國食品藥品監督管理局提交上市申請。
-
----
-
-### 2026-06-09 02:34:49  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
-
-Apple (AAPL.O) widened losses to over 1%.
-
----
-
-### 2026-06-09 02:33:36  #宏觀 #國際
-
-美國國務院：針對伊朗的海上封鎖將持續至雙方達成協議為止。在伊朗履行相關承諾前，其被凍結資產不會予以解凍。
-
----
-
-### 2026-06-09 02:33:36  #MKT News #WTI #Impact bullish #Brent
-
-【U.S. forces strike tanker in Gulf of Oman】U.S. Central Command said on social media on the 8th that U.S. forces fired on an unladen tanker in the Gulf of Oman bound for an Iranian port, disabling it after the crew refused orders. The Palau-flagged tanker was transiting international waters toward Iran, CENTCOM said; an F/A-18 Super Hornet from the carrier Lincoln fired precision-guided weapons to render the vessel inoperable. CENTCOM said it has enforced a blockade of maritime traffic to Iranian ports since April 13 and has disabled seven merchant vessels and forced 134 ships to change course.
-
----
-
-### 2026-06-09 02:32:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. State Department said the maritime blockade of Iran will remain in place until an agreement is reached. Frozen Iranian assets will not be unfrozen or released until Iran fulfills its commitments.
-
----
-
-### 2026-06-09 02:32:08  #公司
-
-淡水河谷執行長表示，公司在阿曼的投資具備重要戰略意義。
-
----
-
-### 2026-06-09 02:31:34  #MKT News
-
-A Democratic U.S. senator wrote to the inspector general seeking an investigation into Transportation Secretary Duffy’s road trip that was paid for by corporate donors.
-
----
-
-### 2026-06-09 02:31:26  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #WTI #Impact bearish
-
-【Night session main contracts close】At the 02:30 night-session close, SHFE most-active gold contract rose 0.06% to 952 yuan/gram; SHFE most-active silver contract fell 0.65% to 16,506 yuan/kg; SC crude most-active contract fell 1.12% to 590 yuan/barrel.
-
----
-
-### 2026-06-09 02:30:51  #市場 #國際
-
-美國原油期貨收於每桶91.30美元，上漲76美分，漲幅0.84%。
-
----
-
-### 2026-06-09 02:30:41  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange evening session June 8: gold T+D closed up 0.3% at 950.0 yuan/gram; silver T+D closed up 0.66% at 16,444 yuan/kg.
-
----
-
-### 2026-06-09 02:30:02  #市場
-
-上期所原油期貨夜盤收跌1.12%，報590.00元人民幣/桶。滬金夜盤收漲0.06%，滬銀收跌0.65%。
-
----
-
-### 2026-06-09 02:29:59  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Increases by 1.97% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.97% increase.
-
----
-
-### 2026-06-09 02:29:13  #公司
-
-淡水河谷執行長稱，公司計劃依託自有資產發展，而非開展併購活動。
-
----
-
-### 2026-06-09 02:29:08  #MKT News
-
-【6.1-magnitude earthquake offshore western Cuba】USGS reported a 6.1-magnitude earthquake at 18:00 GMT on June 8 (02:00 Beijing time on June 9) about 104 km northwest of Mantua, Cuba; epicenter 22.80°N, 85.14°W, depth 10 km.
-
----
-
-### 2026-06-09 02:28:32  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Israeli media: Trump pressured Netanyahu to stop escalating strikes on Iran】Israel Channel 12 reported President Trump told Prime Minister Netanyahu not to let clashes with Iran escalate into a full-scale war, warning “you may soon have to face Iran alone.” Trump said he urged Netanyahu not to carry out retaliatory strikes after Iran’s recent missile attack; the call ended without a clear agreement and Netanyahu did not disclose a final decision. Netanyahu then consulted defence officials and informed US Secretary of State Rubio he had decided to strike Iran, Trump said, adding Israel notified the US very late and was already en route to strike; Trump said he managed to reduce the scale of the attack. Trump said five regional mediation partners had asked him to press Netanyahu to halt the strikes and advance a peace accord, and he remains willing to reach an agreement with Iran, which he said also wants one.
 
 ---
