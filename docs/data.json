@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-15 05:13:58",
-  "count": 18300,
+  "updated": "2026-06-15 05:17:41",
+  "count": 18302,
   "items": [
+    {
+      "id": "mkt:019ec7ff-124a-7dd8-aff7-0c1e0e8a9398",
+      "time": "2026-06-15 05:17:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Pakistan PM says US and Iran have reached peace agreement】Pakistan’s prime minister said intensive negotiations produced a US–Iran peace agreement. Both sides announced an immediate and permanent cessation of military operations on all fronts, including Lebanon. A formal signing ceremony is scheduled for Friday, June 19, in Switzerland."
+    },
+    {
+      "id": "4934797",
+      "time": "2026-06-15 05:16:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "巴基斯坦總理夏巴茲：經過密集談判，我們很高興地宣佈，美國與伊朗已達成和平協議。"
+    },
+    {
+      "id": "mkt:019ec7fd-6bfa-7dd8-aff7-02e40cbb19eb",
+      "time": "2026-06-15 05:15:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Trump says he will immediately announce US-Iran agreement】In a Wall Street Journal interview, Trump said he plans to immediately issue a statement confirming the US has reached an agreement with Iran and that he or the vice president will sign the pact electronically. He said the deal would include an Iranian commitment not to acquire nuclear weapons and the immediate reopening of the Strait of Hormuz. Trump said the US is not in a rush to remove nuclear material and may delay extraction for a month or two. He described inspections as going to be very strict but gave no operational details. Iran would not receive unfrozen funds under the agreement, though sanctions could be lifted. He called a maritime blockade more effective than strikes. Iran has not confirmed the agreement."
+    },
     {
       "id": "4934796",
       "time": "2026-06-15 05:09:10",
@@ -168265,14 +168296,6 @@
         "MKT News"
       ],
       "text": "IRNA: Iran has suspended flights at Imam Khomeini International Airport until further notice."
-    },
-    {
-      "id": "4922278",
-      "time": "2026-06-08 05:16:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍參謀長：一旦接到命令，以軍將斷然打擊“敵人”。"
     }
   ]
 }
