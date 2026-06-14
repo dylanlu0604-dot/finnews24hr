@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-15 01:13:13",
-  "count": 18382,
+  "updated": "2026-06-15 01:17:17",
+  "count": 18383,
   "items": [
+    {
+      "id": "mkt:019ec721-ecd0-7dd8-aff5-38f90bd28d80",
+      "time": "2026-06-15 01:15:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic detection: at 01:13 on June 15 an earthquake of about M4.1 occurred near Heyang County, Weinan, Shaanxi (35.23N, 110.27E). Final parameters are subject to the official rapid report."
+    },
+    {
+      "id": "4934688",
+      "time": "2026-06-15 01:15:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列：兩名以色列士兵在黎巴嫩南部遭真主黨火力襲擊，受中度傷情。"
+    },
     {
       "id": "4934687",
       "time": "2026-06-15 01:11:43",
@@ -169024,15 +169040,6 @@
         "MKT News"
       ],
       "text": "【Migrant boat capsizes off Malta, at least 10 dead】Italian media reported on the 7th that a migrant boat carrying about 60 people capsized in waters off Malta, killing at least 10. Search-and-rescue operations are ongoing under Maltese coordination."
-    },
-    {
-      "id": "4922115",
-      "time": "2026-06-08 01:16:24",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "香港天文臺釋出紅色暴雨警告。"
     }
   ]
 }
