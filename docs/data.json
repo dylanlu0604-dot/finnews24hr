@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-15 04:42:36",
-  "count": 18327,
+  "updated": "2026-06-15 04:46:34",
+  "count": 18322,
   "items": [
+    {
+      "id": "4934783",
+      "time": "2026-06-15 04:45:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列總理辦公室表示，有關內塔尼亞胡尋求與美國總統特朗普會面的報道是“假新聞”。"
+    },
+    {
+      "id": "4934782",
+      "time": "2026-06-15 04:43:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡中斷安全內閣會議，與美國總統特朗普通電話；與此同時，以色列國防部長卡茨與美國國防部長赫格塞思進行了溝通。"
+    },
     {
       "id": "4934781",
       "time": "2026-06-15 04:38:35",
@@ -168463,65 +168480,6 @@
         "國際"
       ],
       "text": "英國政府：E3領導人表示，一旦停火生效，烏克蘭必須得到穩固且具有法律約束力的安全保障。"
-    },
-    {
-      "id": "mkt:019ea3d6-1430-7ee0-86d3-774748b79886",
-      "time": "2026-06-08 04:46:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK government: E3 leaders (UK, France, Germany) condemned Russia's large-scale missile and drone strikes on Ukrainian cities, citing repeated use of the Oleshnik missile. They called for urgent scaling-up of interceptor production and joint development of air-defence missiles and longer-range strike capabilities, and said the G7 summit, the next meeting of a coalition of willing countries and the NATO summit should be used to coordinate further support for Ukraine."
-    },
-    {
-      "id": "4922255",
-      "time": "2026-06-08 04:45:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英國政府：領導人已就如何利用七國集團峰會、意願聯盟下次會議以及北約峰會，更好協調對烏克蘭的進一步支援展開討論。"
-    },
-    {
-      "id": "4922254",
-      "time": "2026-06-08 04:44:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府：歐洲三大領導人強調，迫切需要擴大攔截彈的生產規模，併合作開發反彈道導彈與縱深打擊能力。"
-    },
-    {
-      "id": "4922253",
-      "time": "2026-06-08 04:44:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府：任何協議都必須保障歐洲的安全利益。"
-    },
-    {
-      "id": "4922252",
-      "time": "2026-06-08 04:44:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府：歐洲領導人呼籲普京同意停火。"
-    },
-    {
-      "id": "4922251",
-      "time": "2026-06-08 04:43:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府：E3領導人譴責俄羅斯對烏克蘭城市發動大規模導彈與無人機襲擊，其中包括多次使用“奧雷什尼克”導彈。"
-    },
-    {
-      "id": "4922250",
-      "time": "2026-06-08 04:42:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府：領導人已明確表明，所有行動都應與烏克蘭、更廣泛的歐洲夥伴以及美國開展最緊密的合作來推進。"
     }
   ]
 }
