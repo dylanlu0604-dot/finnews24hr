@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-15 06:24:30",
-  "count": 18355,
+  "updated": "2026-06-15 06:28:23",
+  "count": 18354,
   "items": [
+    {
+      "id": "4934890",
+      "time": "2026-06-15 06:24:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部表示，伊朗民眾在最高領袖的領導下已向美國證明，“（美國）除接受戰敗外別無他途”。"
+    },
     {
       "id": "mkt:019ec83a-c0b4-7dd8-aff8-24a76f73b21b",
       "time": "2026-06-15 06:22:34",
@@ -168750,24 +168758,6 @@
         "MKT News"
       ],
       "text": "【Zelenskiy confirms meeting with Russian businessman Abramovich】Ukrainian President Zelenskiy said on the 7th he met Russian businessman Roman Abramovich and disclosed details: Abramovich traveled to Kyiv to deliver messages and to gather Ukrainian positions and demands to relay to Russian President Putin as an intermediary. Zelenskiy added Abramovich had preferred the meeting remain private."
-    },
-    {
-      "id": "4922332",
-      "time": "2026-06-08 06:27:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基證實曾與俄商人阿布拉莫維奇會面】當地時間7日，烏克蘭總統澤連斯基在接受採訪時，證實自己曾與俄羅斯商界人士阿布拉莫維奇會面，並公開了此次會面的相關細節。澤連斯基透露，阿布拉莫維奇曾專程前往基輔，向他轉達訊息，並希望收集烏方立場與訴求，再代為轉交俄羅斯總統普京，充當雙方溝通傳話的中間人。此外他補充表示，阿布拉莫維奇本人此前並不希望此次雙邊會面的相關事宜對外公開。（央視新聞）"
-    },
-    {
-      "id": "4922331",
-      "time": "2026-06-08 06:24:54",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【受特朗普表態訊息影響，原油漲幅有所收窄】特朗普稱，伊朗襲擊以色列不會影響雙方達成協議的程序，此後WTI原油、布倫特原油期貨小幅回落。布倫特原油此前一度觸及每桶96.47美元，現漲幅為2.7%，報約95.50美元/桶。標普500股指期貨跌幅收窄至0.1%，此前最大跌幅達0.6%。"
     }
   ]
 }
