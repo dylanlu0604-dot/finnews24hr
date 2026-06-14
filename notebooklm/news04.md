@@ -1,7 +1,337 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 22:26:55_
-_本檔包含 3527 則快訊，約 659339 字_
+_更新時間：2026-06-14 23:21:39_
+_本檔包含 3565 則快訊，約 660846 字_
+
+---
+
+### 2026-06-10 10:15:32  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iranian drones strike US base in Kuwait】Iranian media reported early local time on June 10 that Iranian drones attacked a US military base in Kuwait. Iran previously struck the US Fifth Fleet facility in Bahrain and a US Air Force base in Jordan.
+
+---
+
+### 2026-06-10 10:15:16  #宏觀 #焦點
+
+【國臺辦：和平統一後 “臺獨”帶來的戰爭風險將從根源上被消除】國務院臺辦舉行例行新聞釋出會。有記者問：國務院臺辦發言人在之前釋出會上已分別闡釋了和平統一後臺灣“七個更好”中的五個“更好”，受到兩岸輿論高度關注。請問發言人對“和平統一後，有強大祖國做後盾，臺灣安全保障會更好”有何闡釋？發言人張晗表示，和平統一後，有強大祖國做後盾，臺灣人民將更安全，“臺獨”帶來的戰爭風險將從根源上被消除。臺灣民眾不再被“臺獨”裹挾當“炮灰”，民眾的血汗錢不再被揮霍用於購買軍火，民宅、宮廟不會囤放彈藥，外部勢力干涉兩岸中國人內部事務的黑手將被徹底斬斷。
+
+---
+
+### 2026-06-10 10:15:08  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: Indonesian Rupiah Depreciates by 0.33% — Top currency losers are Indonesian Rupiah (-0.33%) and South Korean Won (-0.08%). Meanwhile Japanese Yen was little changed.
+
+---
+
+### 2026-06-10 10:14:45  #其他
+
+科威特軍方表示，防空部隊正在攔截敵對空中目標。
+
+---
+
+### 2026-06-10 10:14:39  #國際
+
+據伊朗媒體當地時間今天（6月10日）凌晨報道，伊朗無人機襲擊了位於科威特的美軍基地。此前，伊朗已打擊了位於巴林的美軍第五艦隊設施和位於約旦的美空軍基地。（CCTV國際時訊）
+
+---
+
+### 2026-06-10 10:14:36  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Kuwait's military said its air defense systems are engaging hostile aerial targets.
+
+---
+
+### 2026-06-10 10:12:55  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【IRGC says it struck US military base in Kuwait】Iranian media reported the Islamic Revolutionary Guard Corps (IRGC) said it used drones to attack Kuwait’s Ali Al Salem Air Base, which Iranian reports identified as a US military facility.
+
+---
+
+### 2026-06-10 10:12:03  #宏觀
+
+【國臺辦：民進黨當局抹黑海峽論壇暴露“假民主真獨裁”本質】6月10日，國務院臺辦舉行例行新聞釋出會。有記者問，第十八屆海峽論壇即將舉辦。臺陸委會稱，“海峽論壇是大陸統戰平臺”，今年進一步擴大限制，縣市政府公務與公職人員不得出席相關活動。島內輿論認為，單憑一紙公文就禁止兩岸交流讓民眾覺得很受威脅。請問對此有何評論?發言人張晗答問表示，海峽論壇是堅持民間性、草根性、廣泛性的兩岸民間交流平臺，對促進兩岸各領域交流合作，增進同胞利益福祉，發揮了重要積極作用，受到兩岸同胞普遍歡迎。民進黨當局出於頑固“臺獨”立場，漠視民眾意願和地方發展需要，沒有意願也沒有能力處理好兩岸關係。其為一己政治私利，抹黑汙衊海峽論壇，破壞兩岸交流合作，禁錮臺灣民眾行動和言論自由，嚴重損害島內同胞利益福祉，其所作所為充分暴露了其“假民主真獨裁”的本質。兩岸同胞是一家人，走親走近、走到一起的大潮流，是任何力量都阻擋不了的。（新華社）
+
+---
+
+### 2026-06-10 10:11:39  #國際
+
+伊朗革命衛隊稱，他們使用無人機襲擊了位於科威特的阿里·薩利姆基地。
+
+---
+
+### 2026-06-10 10:11:32  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+The Information reports OpenAI is in talks for a 20-year lease that would be its largest infrastructure investment to date. NVIDIA has discussed providing credit support for the project.
+
+---
+
+### 2026-06-10 10:11:19  #其他
+
+OpenAI在俄亥俄州的交易可能包括英偉達的投資。
+
+---
+
+### 2026-06-10 10:10:36  #其他
+
+貝萊德亞太區負責人SUSAN CHAN：預計亞洲ETF市場將實現“巨大增長”。
+
+---
+
+### 2026-06-10 10:10:19  #其他
+
+海光資訊成交額超110億元，現漲超9%。
+
+---
+
+### 2026-06-10 10:10:06  #公司
+
+OpenAI正在洽談一項為期20年的租賃協議，這將是該公司迄今為止最大的基礎設施投資。
+
+---
+
+### 2026-06-10 10:09:53  #市場
+
+現貨黃金擴大跌幅，最新報價下跌近2%，報每盎司4178.65美元。
+
+---
+
+### 2026-06-10 10:09:50  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【IRGC says it struck U.S. airbase at Azraq, destroyed F-35 hangar and command center】The Islamic Revolutionary Guard Corps said early on June 10 local time its aerospace force used long-range missiles to strike the U.S. airbase at Azraq, Jordan, hitting and destroying four key targets, including an F-35 hangar and a U.S. command-and-control center.
+
+---
+
+### 2026-06-10 10:09:28  #其他
+
+OpenAI據悉正在洽談租賃俄亥俄州10GW資料中心。
+
+---
+
+### 2026-06-10 10:09:09  #MKT News
+
+【2026 Berlin Air Show to open on 10th; MERZ to attend】The 2026 Berlin Air Show (ILA) opens on the 10th (local time) and runs through the 14th. German Chancellor MERZ will attend the opening. The event is held biennially.
+
+---
+
+### 2026-06-10 10:09:05  #市場 #焦點
+
+北證50日內跌幅達2.06%，成分股中，民士達跌15.27%，戈碧迦跌12.77%，則成電子跌7.17%，華密新材跌5.25%。
+
+---
+
+### 2026-06-10 10:09:03  #其他
+
+【2026柏林國際航空展將開幕】2026柏林國際航空展定於當地時間10日開幕，德國總理默茨將出席開幕式。柏林國際航空展每兩年舉辦一次，本屆展會將持續至14日。（央視新聞）
+
+---
+
+### 2026-06-10 10:08:56  #其他
+
+星巴克股權出售估值或達4000億至5000億日元。
+
+---
+
+### 2026-06-10 10:08:18  #市場 #國際
+
+印尼基準股票指數走勢反轉，大漲1.6%至5838.9點。
+
+---
+
+### 2026-06-10 10:08:04  #公司
+
+【銅纜高速連線板塊持續走低，鑫科材料跌超9%】銅纜高速連線板塊持續走低，鑫科材料跌超9%，寶勝股份、中天科技、兆龍互連、奕東電子等跟跌。
+
+---
+
+### 2026-06-10 10:08:01  #其他
+
+銀行股震盪走高，青島銀行漲超2%，廈門銀行漲近2%，中國銀行、農業銀行、長沙銀行、滬農商行、工商銀行等紛紛走高。
+
+---
+
+### 2026-06-10 10:07:27  #市場 #焦點
+
+現貨黃金失守4180美元/盎司，日內跌1.87%。
+
+---
+
+### 2026-06-10 10:06:48  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時放量611億元。
+
+---
+
+### 2026-06-10 10:06:28  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
+
+HSBC Holdings Stock Price Hits 5-week Low — HSBC Holdings shares decreased to 136.50 HKD, the lowest since May 2026. Over the past 4 weeks, HSBC Holdings lost 3.26%, and in the last 12 months, it increased 45.55%.
+
+---
+
+### 2026-06-10 10:06:21  #國際
+
+伊朗伊斯蘭革命衛隊稱其針對的AL-AZRAQ基地目標包括F-35機堡及指揮控制中心。
+
+---
+
+### 2026-06-10 10:06:05  #宏觀
+
+【國臺辦：中國國民黨副主席張榮恭將出席第十八屆海峽論壇】6月10日，國務院臺辦舉行例行新聞釋出會。發言人張晗應詢介紹，第十八屆海峽論壇大會將於6月13日在廈門舉辦，中國國民黨副主席張榮恭等臺灣各界代表人士將出席大會。目前，論壇各項籌備工作基本就緒，論壇系列活動在福建各地陸續開展。（新華社）
+
+---
+
+### 2026-06-10 10:05:47  #MKT News #Important #XAUUSD #Impact bullish #Brent #WTI
+
+According to Iranian media, Iran's Islamic Revolutionary Guard Corps (IRGC) said it is prepared to deliver a "devastating and decisive" response to any further U.S. attacks.
+
+---
+
+### 2026-06-10 10:05:31  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌1%，現報8151.00點。
+
+---
+
+### 2026-06-10 10:05:09  #國際
+
+伊朗伊斯蘭革命衛隊表示，已準備好對美國任何進一步的攻擊作出“粉碎性且決定性”的回擊。
+
+---
+
+### 2026-06-10 10:05:01  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iranian media reported the Islamic Revolutionary Guard Corps (IRGC) said it used long-range missiles in strikes on US bases in Jordan.
+
+---
+
+### 2026-06-10 10:04:55  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌1%，現報8030.20點。
+
+---
+
+### 2026-06-10 10:04:49  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Tech Index down more than 1%; commercial-space and CPO-related stocks leading declines.
+
+---
+
+### 2026-06-10 10:04:23  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
+
+【Israeli strikes on southern Lebanon kill, injure dozens】On June 9 the Israeli Defense Forces said ground troops crossed the Litani River and continued operations in southern Lebanon. Chief of General Staff Zamir said the IDF will escalate strikes against HEZBOLLAH. The Lebanese state news agency reported Israeli air strikes on southern towns killed and wounded dozens; HEZBOLLAH said its fighters struck multiple Israeli targets.
+
+---
+
+### 2026-06-10 10:04:15  #市場 #焦點
+
+鉑連續主力合約日內跌5%，現報413.55元。
+
+---
+
+### 2026-06-10 10:04:08  #市場 #焦點
+
+恒生科技指數跌超1%，現報4721.550點；恒生指數現跌0.905%。
+
+---
+
+### 2026-06-10 10:03:55  #公司
+
+丸紅將收購南非TIAUTO投資公司。
+
+---
+
+### 2026-06-10 10:03:45  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+According to Iranian media, the Islamic Revolutionary Guard Corps said strike targets on US bases in Jordan include F-35 hangars and command-and-control centers.
+
+---
+
+### 2026-06-10 10:03:28  #MKT News #Market Regions #Greater China #0992.HK #Impact mixed
+
+【Lenovo to raise prices across all product lines from July; dealers urged to pre-stock】People familiar with the matter said Lenovo decided at a May meeting that, following the 618 shopping festival, it will raise prices across all product categories from July, with increases roughly in line with the prior round. Lenovo has advised dealers to finalise procurement and pre-stock to lock prices; a formal price-increase notice will be issued to dealers at month-end. Some dealers have already received stocking notices.
+
+---
+
+### 2026-06-10 10:03:27  #其他
+
+【聯想全品類產品7月將再漲價，有經銷商已收到備貨通知】從知情人士處獲悉，聯想已於今年5月的工作會議上敲定一項重要決策：今年618大促結束後，自7月起，旗下全品類產品將統一漲價，調價漲幅與上一輪基本持平。該知情人士還透露：“結合全線漲價的行情，聯想已經建議經銷商如有裝置採購計劃，儘快敲定方案、提前備貨鎖價。本月底會向經銷商發出正式漲價函。”（藍鯨新聞）
+
+---
+
+### 2026-06-10 10:03:20  #國際
+
+伊朗伊斯蘭革命衛隊稱擊中該地區21個美國空中和海上目標。
+
+---
+
+### 2026-06-10 10:03:10  #央行 #市場 #國際
+
+印尼盾兌美元上漲0.8%，在印尼央行意外加息後連續第二天走強。
+
+---
+
+### 2026-06-10 10:02:41  #國際
+
+訊息人士稱，星巴克也可能考慮讓其日本業務上市。
+
+---
+
+### 2026-06-10 10:02:27  #公司 #市場
+
+【燃氣輪機概念震盪下挫 萬澤股份跌停】燃氣輪機概念盤中震盪下挫，萬澤股份跌停，此前傑瑞股份觸及跌停，濰柴動力、中國動力、應流股份、東方電氣等跟跌。
+
+---
+
+### 2026-06-10 10:02:12  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Iranian state media quoted the Islamic Revolutionary Guard Corps as saying it struck four targets at the U.S. Al-Azraq base in Jordan.
+
+---
+
+### 2026-06-10 10:02:10  #國際
+
+訊息人士稱，星巴克已與多家銀行就日本業務進行初步洽談。
+
+---
+
+### 2026-06-10 10:01:49  #國際
+
+星巴克據悉正在為其日本業務考慮包括股權出售在內的方案，
+
+---
+
+### 2026-06-10 10:01:00  #國際
+
+伊朗革命衛隊稱，他們襲擊了位於約旦的美國阿茲拉克基地內的四個目標。
+
+---
+
+### 2026-06-10 10:00:55  #其他
+
+陳茂波：香港2026年IPO市場“當然”比2025年更好。
+
+---
+
+### 2026-06-10 10:00:41  #MKT News #Important #Market Regions #Greater China #XAUUSD #Impact bullish #DXY #WTI
+
+Iranian media reported the Islamic Revolutionary Guard Corps launched a missile strike on a US base in Jordan. On the A-share market, oilfield-services and engineering stocks rebounded: Keli rose more than 9%, with Tongyuan Petroleum, Huibopu, Qianneng Hengxin, Zhongman Petroleum and Beken Energy also gaining.
+
+---
+
+### 2026-06-10 10:00:11  #市場 #焦點
+
+南向資金淨買入額達40億港元。
+
+---
+
+### 2026-06-10 10:00:07  #其他
+
+【黑龍江省農業農村廳原黨組書記王金會接受審查調查】中央紀委國家監委網站6月10日通報，據黑龍江省紀委監委訊息：黑龍江省農業農村廳原黨組書記、廳長王金會涉嫌嚴重違紀違法，目前正接受黑龍江省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-10 10:00:01  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Edges Higher — The yield on the US 10-year Treasury note climbed to around 4.54% on Wednesday after facing pressure in the previous session, as renewed hostilities in the Middle East that threatened a fragile ceasefire and the prospects for a lasting peace agreement heightened concerns about inflation and interest rates. The US launched “self-defense strikes” against Iran in response to the downing of an American helicopter, while Iranian Foreign Minister Abbas Araghchi warned that Iran’s armed forces would leave no attack or threat unanswered. Rising energy prices fueled by the regional conflict added to worries about persistent inflation and the possibility of further central bank rate hikes. Investors also awaited the latest US inflation data for additional clues on the Federal Reserve’s policy outlook, after stronger-than-expected jobs figures last week reinforced expectations of an interest rate increase before the end of the year.
 
 ---
 
@@ -21142,107 +21472,5 @@ Russian deputy foreign minister said Russia and Belarus remain prepared to use a
 ### 2026-06-09 07:23:57  #MKT News #Market Regions #Europe & UK
 
 【EU divided over push for Russia-Ukraine talks】EU member states are divided on how and when to press for talks between Russia and Ukraine, EU high representative for foreign affairs and security policy Kallas said on the 8th, urging all efforts to enable dialogue while stressing Europe’s core security interests must be respected but adding now is not the right time for negotiations. Some members say conditions for serious talks with Moscow are not yet in place. Separately, leaders of the UK, France and Germany met Ukraine President Zelenskiy in London on the 7th and issued a joint statement backing direct dialogue between Kyiv and Moscow.
-
----
-
-### 2026-06-09 07:23:39  #市場
-
-【蘋果升級版Siri姍姍來遲但終亮相 主打實用並強調隱私保護】在加利福尼亞州庫比蒂諾舉行的年度全球開發者大會上，蘋果釋出了“Siri AI”，這是一款對話能力更強的助手，擁有獨立的應用程式，並具備分析使用者螢幕內容以及從網路中提取資訊的能力。此時距蘋果首次承諾進行重大升級已過去兩年，而升級計劃此前曾多次推遲。TECHnalysis Research總裁兼首席分析師Bob O’Donnell表示，“這是面向大眾的AI；它並不是真正意義上的智慧體式AI。對許多人來說，這正是他們所期待的那種智慧。”不過，分析師們的初步反應較為謹慎。MoffettNathanson分析師Craig Moffett表示，這些升級雖非“顛覆性”，但應能使Siri成為“一個可信的聊天機器人，甚至可能成為一個可信的智慧體”。蘋果股價週一在納斯達克收盤下跌1.9%，報301.54美元。
-
----
-
-### 2026-06-09 07:20:58  #公司 #國際
-
-【哥倫比亞大學研究稱私函評級虛高 掩蓋信用風險】哥倫比亞商學院研究人員的最新研究顯示，在近年來華爾街最熱門領域 —— 規模1.8萬億美元的私募信貸市場中，支撐其中越來越大一部分資產的評級系統性地低估了投資風險。這一發現來自本月線上發表、尚未經過同行評審的一篇論文，加劇了外界對美國壽險行業潛藏風險的擔憂。保險公司正加碼押注私募信貸，為打造這些產品的金融家帶來了豐厚收益，同時促使主要監管機構和分析師警告稱，保單持有人可能面臨潛在風險。該研究聚焦所謂的私函評級（private-letter ratings）；這類評級不像傳統公開評級那樣廣泛傳播。Xuelin Li、Sangmin S. Oh和Giacomo Ricciardi在論文中稱，帶有非公開評級的資產發生信用損失的可能性約為公開評級中同等評級債務的兩倍。這些出人意料的的損失率 —— 儘管低於1% —— 是在相對平穩的年份。
-
----
-
-### 2026-06-09 07:20:05  #公司 #國際
-
-【菲律賓航空公司據悉正在考慮訂購20架寬體飛機】據知情人士透露，菲律賓航空正考慮採購20架寬體客機，用以替換旗下老舊的空客A330與波音777機型。因相關洽談仍處於保密階段，知情人士要求匿名。他們表示，航司目前正在評估波音787夢想客機、空客A330neo以及A350機型，尚未敲定最終採購方案。該人士補充稱，馬尼拉機場的運營條件無法適配新款波音777X，因此菲律賓航空不會採購這款波音777的接替機型。
-
----
-
-### 2026-06-09 07:19:43  #Trading Economics #Economy #United Kingdom #BRC Retail Sales Monitor YoY #Importance 1
-
-UK Retail Sales Growth Strongest in Over a Year — UK retail sales increased by 3.7% year-on-year on a like-for-like basis in May 2026, exceeding market expectations for a 0.6% gain and marking the strongest growth since April 2025. The latest figure rebounded from a 3.4% decline in April, driven largely by seasonal demand during a May heatwave and the early bank holiday period. Food sales advanced 3.9%, lifted by bank holiday barbecue demand, while non-food categories, such as clothing, footwear, outdoor goods, health and beauty, and home products, rose 3.5% as warmer weather encouraged spending in outdoor and summer goods. However, travel spending fell 5.8% year-on-year for a third consecutive month, and airline expenditure dropped 12.9%. Barclays said two-thirds of respondents were adjusting their finances because of broader economic uncertainty, including concerns linked to the Iran conflict and rising living costs.
-
----
-
-### 2026-06-09 07:16:21  #公司 #國際
-
-菲律賓航空公司據悉正在考慮訂購20架寬體飛機。
-
----
-
-### 2026-06-09 07:15:36  #國際
-
-【以軍空襲黎巴嫩南部致至少17人死亡】以色列當天對黎巴嫩南部多地發動空襲，造成至少17人死亡、多人受傷。黎巴嫩衛生部表示，以色列軍隊當天凌晨對奈拜提耶地區濟夫塔鎮發動空襲，造成7人死亡、8人受傷。以軍還對提爾市紅十字會中心附近區域發動空襲，造成5人死亡、8人受傷，其中包括4名紅十字會急救人員。據黎巴嫩國家通訊社報道，以軍當天對西頓地區哈賴耶卜鎮發動空襲，造成1人死亡；在提爾針對車輛的空襲造成4人死亡。黎巴嫩真主黨8日發表宣告稱，其武裝人員向黎南部賓特朱拜勒地區拜特亞洪鎮一帶的以軍士兵及軍車發射火箭彈，並出動一架無人機襲擊博福特城堡附近一輛以軍通訊車輛。（新華社）
-
----
-
-### 2026-06-09 07:15:33  #公司 #國際
-
-【蘋果釋出新一代AI平臺及升級版Siri】當地時間6月8日，蘋果在全球開發者大會上介紹了由谷歌提供技術支援的全新Apple Intelligence系統，將這項升級描述為對現有軟體體系的重大改進，其中包括搭載蘋果智慧技術的全新版本Siri。蘋果稱，Siri現在變得“更智慧、知識更豐富且能力更強”，這款名為Siri AI的全新助手最初將支援英文，隨後將擴充套件至其他語言。蘋果表示，目前在中國大陸，Siri AI和Apple Intelligence新功能需要配合監管要求推進相關工作，因此暫不提供。此次升級還增強了蘋果的視覺智慧功能，可為使用者看到的事物提供相關資訊，同時還改進了寫作工具。蘋果還上線了全新家長管控功能，可對兒童使用應用的時間進行規劃，並表示正與美國醫師機構合作，制定裝置使用相關指導規範。
-
----
-
-### 2026-06-09 07:15:02  #國際
-
-【IAEA呼籲伊朗恢復合作 西方國家擬以決議施壓恐使美伊和談複雜化】國際原子能機構(IAEA)總幹事格羅西(Rafael Grossi)週一呼籲伊朗與他"重新接觸"，以便重啟對一年前遭美國和以色列轟炸的核設施的核查工作。與此同時，美國正帶頭推動IAEA理事會透過一項相關決議。伊朗至今仍未向IAEA通報這些遭轟炸核設施的現狀，也未說明曾儲存在那裡的核材料去向——包括已濃縮至接近武器級水平的鈾。雖然空襲或已嚴重損壞濃縮鈾設施，但大部分高濃縮鈾據信仍完好無損，其中包括部分濃度高達60%的濃縮鈾，距武器級所需約90%的濃度僅一步之遙。IAEA曾對未遭轟炸的設施進行核查，但在2月時因軍事打擊再起，基於安全理由而暫停了這些行動，此後僅檢查伊朗境內正在執行的布什爾（Bushehr）核電廠。美國、英國、法國和德國週一向理事會提交了一份決議草案，供理事會於本週晚些時候表決。媒體看到的文字顯示，該草案要求伊朗提供有關濃縮鈾的"完整資訊"，並“毫不拖延”地給予IAEA所需的一切核查准入。外交官們表示，這項決議很可能會像去年11月的類似決議一樣以明顯優勢獲得透過，但這可能會使美伊之間的談判變得複雜。
-
----
-
-### 2026-06-09 07:13:46  #其他
-
-興業證券首席經濟學家劉鬱認為，6月作為二季度經濟重要的衝刺期，政府債有望成為撬動融資需求的重要變數，財政加碼發力的可能性較大。6月政府債供給量或將迎來年內高峰。
-
----
-
-### 2026-06-09 07:10:23  #觀點
-
-摩根士丹利：恢復跟蹤陽光電源，評級超配，目標價230.72元人民幣。
-
----
-
-### 2026-06-09 07:09:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump says US will achieve complete victory over Iran within two weeks】On June 8 President Trump told a campaign fundraising call he expects the US to secure a "complete victory" over Iran within two weeks. He said the two sides remain in talks, that Iran seeks a deal and is prepared to accept key US conditions including forgoing nuclear weapons, and that oil prices will drop sharply once victory is declared. U.S. media noted Trump has previously used similar "two-week" timetables, citing an April 7 U.S.-Iran ceasefire initially framed as lasting two weeks to allow final agreement talks.
-
----
-
-### 2026-06-09 07:09:26  #其他
-
-【Moderna：獲得英國批准開展林奇綜合徵癌症疫苗試驗】Moderna 已獲得英國藥品和保健產品監管局的批准，開展 mRNA-4194 的 1/2 期研究，這是一種用於治療林奇綜合徵的在研 mRNA 癌症疫苗。
-
----
-
-### 2026-06-09 07:08:26  #市場 #國際
-
-【特朗普稱未來兩週將對伊朗全面勝利】當地時間6月8日，美國總統特朗普在參加一場為南卡羅來納州聯邦參議員格雷厄姆舉行的電話助選活動時表示，美國將在未來兩週內對伊朗取得“全面勝利”。特朗普稱，美伊雙方目前仍在進行談判，伊朗希望達成協議，並願意接受美國提出的關鍵條件，包括不擁有核武器。他進一步表示：“我認為我們正在贏得這場較量，真正的勝利將在未來兩週內到來。當我們宣佈全面勝利時，那將是徹底的勝利，而且很快就會發生。屆時油價將大幅下跌。” 美國媒體的報道指出，這並非特朗普首次提出“兩週內”將取得重大進展。美國東部時間4月7日宣佈的美伊停火協議最初也被設定為“持續兩週”，“以便雙方完成結束衝突的最終協議談判”。
-
----
-
-### 2026-06-09 07:06:55  #公司 #國際
-
-OpenAI週一表示，該公司近期已就美國首次公開募股（IPO）提交了保密申請，與競爭對手Anthropic一道進軍股市，以吸引投資者關注人工智慧熱潮。CERITY PARTNERS合夥人舒爾曼（Michael Ashley Schulman）點評稱，“毫無疑問，OpenAI正在保持各種可能性，因為Anthropic在完成一輪鉅額融資後已率先提交了上市申請。但這兩家巨頭都遵循著由各自面臨的監管風暴和內部建設決定的時間表，而非簡單模仿對方的舉動。對更廣泛的市場而言，OpenAI最終的上市可能會加速‘人工智慧即基礎設施’這一敘事的形成，從而吸引更多公共資本流入該領域；在此之前，預計該公司將繼續利用私有企業的優勢來保持其領先地位。”
-
----
-
-### 2026-06-09 07:06:48  #公司 #國際
-
-美國西部金屬有限公司在西沙漠地區發現大型銦鋅金礦。
-
----
-
-### 2026-06-09 07:04:37  #Trading Economics #Economy #South Korea #GDP Growth Rate #Importance 2
-
-South Korea Q1 GDP Growth Revised Up to 1.8% — South Korea’s economy advanced by 1.8% QoQ in the first quarter of 2026, exceeding the preliminary estimate of 1.7% and rebounding from a downwardly revised 0.1% contraction in the previous quarter. It marked the strongest GDP growth since the first quarter of 2021, driven by solid exports and resilient domestic demand. On an annual basis, the economy expanded 3.6% in Q1, accelerating from 1.6% in the fourth quarter of 2025 and marking the fastest growth since the fourth quarter of 2021.
-
----
-
-### 2026-06-09 07:04:33  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #Brent
-
-【UK consumer spending rebounds in May; travel outlays fall for third month】A survey released Tuesday showed UK consumers cut spending in April but increased spending in May; travel outlays fell for a third consecutive month, indicating market caution over the economic impact of the Iran war. Barclays and the British Retail Consortium said hot weather boosted clothing and other goods sales.
 
 ---

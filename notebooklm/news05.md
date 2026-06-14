@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 22:26:55_
-_本檔包含 3952 則快訊，約 659339 字_
+_更新時間：2026-06-14 23:21:39_
+_本檔包含 3933 則快訊，約 660694 字_
+
+---
+
+### 2026-06-09 07:23:39  #市場
+
+【蘋果升級版Siri姍姍來遲但終亮相 主打實用並強調隱私保護】在加利福尼亞州庫比蒂諾舉行的年度全球開發者大會上，蘋果釋出了“Siri AI”，這是一款對話能力更強的助手，擁有獨立的應用程式，並具備分析使用者螢幕內容以及從網路中提取資訊的能力。此時距蘋果首次承諾進行重大升級已過去兩年，而升級計劃此前曾多次推遲。TECHnalysis Research總裁兼首席分析師Bob O’Donnell表示，“這是面向大眾的AI；它並不是真正意義上的智慧體式AI。對許多人來說，這正是他們所期待的那種智慧。”不過，分析師們的初步反應較為謹慎。MoffettNathanson分析師Craig Moffett表示，這些升級雖非“顛覆性”，但應能使Siri成為“一個可信的聊天機器人，甚至可能成為一個可信的智慧體”。蘋果股價週一在納斯達克收盤下跌1.9%，報301.54美元。
+
+---
+
+### 2026-06-09 07:20:58  #公司 #國際
+
+【哥倫比亞大學研究稱私函評級虛高 掩蓋信用風險】哥倫比亞商學院研究人員的最新研究顯示，在近年來華爾街最熱門領域 —— 規模1.8萬億美元的私募信貸市場中，支撐其中越來越大一部分資產的評級系統性地低估了投資風險。這一發現來自本月線上發表、尚未經過同行評審的一篇論文，加劇了外界對美國壽險行業潛藏風險的擔憂。保險公司正加碼押注私募信貸，為打造這些產品的金融家帶來了豐厚收益，同時促使主要監管機構和分析師警告稱，保單持有人可能面臨潛在風險。該研究聚焦所謂的私函評級（private-letter ratings）；這類評級不像傳統公開評級那樣廣泛傳播。Xuelin Li、Sangmin S. Oh和Giacomo Ricciardi在論文中稱，帶有非公開評級的資產發生信用損失的可能性約為公開評級中同等評級債務的兩倍。這些出人意料的的損失率 —— 儘管低於1% —— 是在相對平穩的年份。
+
+---
+
+### 2026-06-09 07:20:05  #公司 #國際
+
+【菲律賓航空公司據悉正在考慮訂購20架寬體飛機】據知情人士透露，菲律賓航空正考慮採購20架寬體客機，用以替換旗下老舊的空客A330與波音777機型。因相關洽談仍處於保密階段，知情人士要求匿名。他們表示，航司目前正在評估波音787夢想客機、空客A330neo以及A350機型，尚未敲定最終採購方案。該人士補充稱，馬尼拉機場的運營條件無法適配新款波音777X，因此菲律賓航空不會採購這款波音777的接替機型。
+
+---
+
+### 2026-06-09 07:19:43  #Trading Economics #Economy #United Kingdom #BRC Retail Sales Monitor YoY #Importance 1
+
+UK Retail Sales Growth Strongest in Over a Year — UK retail sales increased by 3.7% year-on-year on a like-for-like basis in May 2026, exceeding market expectations for a 0.6% gain and marking the strongest growth since April 2025. The latest figure rebounded from a 3.4% decline in April, driven largely by seasonal demand during a May heatwave and the early bank holiday period. Food sales advanced 3.9%, lifted by bank holiday barbecue demand, while non-food categories, such as clothing, footwear, outdoor goods, health and beauty, and home products, rose 3.5% as warmer weather encouraged spending in outdoor and summer goods. However, travel spending fell 5.8% year-on-year for a third consecutive month, and airline expenditure dropped 12.9%. Barclays said two-thirds of respondents were adjusting their finances because of broader economic uncertainty, including concerns linked to the Iran conflict and rising living costs.
+
+---
+
+### 2026-06-09 07:16:21  #公司 #國際
+
+菲律賓航空公司據悉正在考慮訂購20架寬體飛機。
+
+---
+
+### 2026-06-09 07:15:36  #國際
+
+【以軍空襲黎巴嫩南部致至少17人死亡】以色列當天對黎巴嫩南部多地發動空襲，造成至少17人死亡、多人受傷。黎巴嫩衛生部表示，以色列軍隊當天凌晨對奈拜提耶地區濟夫塔鎮發動空襲，造成7人死亡、8人受傷。以軍還對提爾市紅十字會中心附近區域發動空襲，造成5人死亡、8人受傷，其中包括4名紅十字會急救人員。據黎巴嫩國家通訊社報道，以軍當天對西頓地區哈賴耶卜鎮發動空襲，造成1人死亡；在提爾針對車輛的空襲造成4人死亡。黎巴嫩真主黨8日發表宣告稱，其武裝人員向黎南部賓特朱拜勒地區拜特亞洪鎮一帶的以軍士兵及軍車發射火箭彈，並出動一架無人機襲擊博福特城堡附近一輛以軍通訊車輛。（新華社）
+
+---
+
+### 2026-06-09 07:15:33  #公司 #國際
+
+【蘋果釋出新一代AI平臺及升級版Siri】當地時間6月8日，蘋果在全球開發者大會上介紹了由谷歌提供技術支援的全新Apple Intelligence系統，將這項升級描述為對現有軟體體系的重大改進，其中包括搭載蘋果智慧技術的全新版本Siri。蘋果稱，Siri現在變得“更智慧、知識更豐富且能力更強”，這款名為Siri AI的全新助手最初將支援英文，隨後將擴充套件至其他語言。蘋果表示，目前在中國大陸，Siri AI和Apple Intelligence新功能需要配合監管要求推進相關工作，因此暫不提供。此次升級還增強了蘋果的視覺智慧功能，可為使用者看到的事物提供相關資訊，同時還改進了寫作工具。蘋果還上線了全新家長管控功能，可對兒童使用應用的時間進行規劃，並表示正與美國醫師機構合作，制定裝置使用相關指導規範。
+
+---
+
+### 2026-06-09 07:15:02  #國際
+
+【IAEA呼籲伊朗恢復合作 西方國家擬以決議施壓恐使美伊和談複雜化】國際原子能機構(IAEA)總幹事格羅西(Rafael Grossi)週一呼籲伊朗與他"重新接觸"，以便重啟對一年前遭美國和以色列轟炸的核設施的核查工作。與此同時，美國正帶頭推動IAEA理事會透過一項相關決議。伊朗至今仍未向IAEA通報這些遭轟炸核設施的現狀，也未說明曾儲存在那裡的核材料去向——包括已濃縮至接近武器級水平的鈾。雖然空襲或已嚴重損壞濃縮鈾設施，但大部分高濃縮鈾據信仍完好無損，其中包括部分濃度高達60%的濃縮鈾，距武器級所需約90%的濃度僅一步之遙。IAEA曾對未遭轟炸的設施進行核查，但在2月時因軍事打擊再起，基於安全理由而暫停了這些行動，此後僅檢查伊朗境內正在執行的布什爾（Bushehr）核電廠。美國、英國、法國和德國週一向理事會提交了一份決議草案，供理事會於本週晚些時候表決。媒體看到的文字顯示，該草案要求伊朗提供有關濃縮鈾的"完整資訊"，並“毫不拖延”地給予IAEA所需的一切核查准入。外交官們表示，這項決議很可能會像去年11月的類似決議一樣以明顯優勢獲得透過，但這可能會使美伊之間的談判變得複雜。
+
+---
+
+### 2026-06-09 07:13:46  #其他
+
+興業證券首席經濟學家劉鬱認為，6月作為二季度經濟重要的衝刺期，政府債有望成為撬動融資需求的重要變數，財政加碼發力的可能性較大。6月政府債供給量或將迎來年內高峰。
+
+---
+
+### 2026-06-09 07:10:23  #觀點
+
+摩根士丹利：恢復跟蹤陽光電源，評級超配，目標價230.72元人民幣。
+
+---
+
+### 2026-06-09 07:09:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump says US will achieve complete victory over Iran within two weeks】On June 8 President Trump told a campaign fundraising call he expects the US to secure a "complete victory" over Iran within two weeks. He said the two sides remain in talks, that Iran seeks a deal and is prepared to accept key US conditions including forgoing nuclear weapons, and that oil prices will drop sharply once victory is declared. U.S. media noted Trump has previously used similar "two-week" timetables, citing an April 7 U.S.-Iran ceasefire initially framed as lasting two weeks to allow final agreement talks.
+
+---
+
+### 2026-06-09 07:09:26  #其他
+
+【Moderna：獲得英國批准開展林奇綜合徵癌症疫苗試驗】Moderna 已獲得英國藥品和保健產品監管局的批准，開展 mRNA-4194 的 1/2 期研究，這是一種用於治療林奇綜合徵的在研 mRNA 癌症疫苗。
+
+---
+
+### 2026-06-09 07:08:26  #市場 #國際
+
+【特朗普稱未來兩週將對伊朗全面勝利】當地時間6月8日，美國總統特朗普在參加一場為南卡羅來納州聯邦參議員格雷厄姆舉行的電話助選活動時表示，美國將在未來兩週內對伊朗取得“全面勝利”。特朗普稱，美伊雙方目前仍在進行談判，伊朗希望達成協議，並願意接受美國提出的關鍵條件，包括不擁有核武器。他進一步表示：“我認為我們正在贏得這場較量，真正的勝利將在未來兩週內到來。當我們宣佈全面勝利時，那將是徹底的勝利，而且很快就會發生。屆時油價將大幅下跌。” 美國媒體的報道指出，這並非特朗普首次提出“兩週內”將取得重大進展。美國東部時間4月7日宣佈的美伊停火協議最初也被設定為“持續兩週”，“以便雙方完成結束衝突的最終協議談判”。
+
+---
+
+### 2026-06-09 07:06:55  #公司 #國際
+
+OpenAI週一表示，該公司近期已就美國首次公開募股（IPO）提交了保密申請，與競爭對手Anthropic一道進軍股市，以吸引投資者關注人工智慧熱潮。CERITY PARTNERS合夥人舒爾曼（Michael Ashley Schulman）點評稱，“毫無疑問，OpenAI正在保持各種可能性，因為Anthropic在完成一輪鉅額融資後已率先提交了上市申請。但這兩家巨頭都遵循著由各自面臨的監管風暴和內部建設決定的時間表，而非簡單模仿對方的舉動。對更廣泛的市場而言，OpenAI最終的上市可能會加速‘人工智慧即基礎設施’這一敘事的形成，從而吸引更多公共資本流入該領域；在此之前，預計該公司將繼續利用私有企業的優勢來保持其領先地位。”
+
+---
+
+### 2026-06-09 07:06:48  #公司 #國際
+
+美國西部金屬有限公司在西沙漠地區發現大型銦鋅金礦。
+
+---
+
+### 2026-06-09 07:04:37  #Trading Economics #Economy #South Korea #GDP Growth Rate #Importance 2
+
+South Korea Q1 GDP Growth Revised Up to 1.8% — South Korea’s economy advanced by 1.8% QoQ in the first quarter of 2026, exceeding the preliminary estimate of 1.7% and rebounding from a downwardly revised 0.1% contraction in the previous quarter. It marked the strongest GDP growth since the first quarter of 2021, driven by solid exports and resilient domestic demand. On an annual basis, the economy expanded 3.6% in Q1, accelerating from 1.6% in the fourth quarter of 2025 and marking the fastest growth since the fourth quarter of 2021.
+
+---
+
+### 2026-06-09 07:04:33  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #Brent
+
+【UK consumer spending rebounds in May; travel outlays fall for third month】A survey released Tuesday showed UK consumers cut spending in April but increased spending in May; travel outlays fell for a third consecutive month, indicating market caution over the economic impact of the Iran war. Barclays and the British Retail Consortium said hot weather boosted clothing and other goods sales.
 
 ---
 
@@ -23594,221 +23696,5 @@ Qatar issued a NOTAM requiring flights transiting its airspace to reroute and pr
 ### 2026-06-07 23:22:35  #國際
 
 以色列訊息人士：以方立場明確，一旦真主黨向以色列發起攻擊，以軍將打擊其位於達希耶的總部。
-
----
-
-### 2026-06-07 23:21:12  #其他
-
-市場資訊：玻利維亞下議院批准了一項法案，放寬了宣佈進入緊急狀態的要求。此前，要求總統羅德里戈·帕斯辭職的抗議活動和道路封鎖擾亂了交通路線，加劇了物資短缺，並對經濟造成了壓力。
-
----
-
-### 2026-06-07 23:19:28  #國際
-
-受競爭加劇及美國加徵關稅影響，德國車企一季度營收下滑4%。
-
----
-
-### 2026-06-07 23:18:58  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Axios, citing US officials and two people familiar with the matter, said Israel informed the Trump administration before airstrikes on Beirut's southern suburbs.
-
----
-
-### 2026-06-07 23:18:47  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Axios, citing Israeli officials, said airstrikes on Beirut's southern suburbs were carried out in response to recent rocket attacks by HEZBOLLAH.
-
----
-
-### 2026-06-07 23:18:06  #國際
-
-市場資訊：美國共和黨主導選區重劃後，民主黨需再拿下近兩個百分點的選票，才能贏得眾議院控制權。
-
----
-
-### 2026-06-07 23:17:32  #MKT News #Market Themes #The Trump Trade
-
-【Trump says he will not unfreeze Iranian assets before a US-Iran deal】Trump told NBC in a program broadcast on the 7th he will not unfreeze Iranian assets or lift any sanctions before the US and Iran reach a peace agreement; in an interview on the 5th he said he would only consider unfreezing assets after both sides reach an agreement. Iran's state broadcaster IRIB on the 7th cited foreign ministry spokesman BAGHAEI saying Iran demands the unfreezing of tens of billions of dollars held in foreign banks and that the US should lift related sanctions.
-
----
-
-### 2026-06-07 23:15:22  #MKT News #Market Themes #The Trump Trade
-
-【Trump backs $1.8 billion 'anti-weaponization' fund, says it could pay convicted Jan. 6 rioters】Trump told NBC he personally thinks the $1.8 billion "anti-weaponization" fund is "a good idea" and hinted some proceeds could be used to compensate people convicted over the January 6 Capitol riot. The fund is part of his settlement with the IRS to compensate alleged victims of politically motivated investigations; Acting Attorney General Branch had said the idea was dead, but Trump said he will try to advance it, a move that could reignite tensions with Senate Republicans. Congressional critics call the proposal a "bribe fund." In the same interview Trump reiterated claims the 2020 election was manipulated and ended the interview early after clashing with the host.
-
----
-
-### 2026-06-07 23:12:28  #其他
-
-【貴州多地遭受暴雨洪澇災害 安全轉移群眾近萬人】6月6日至7日，貴州省畢節市黔西市、遵義市紅花崗區、黔南州長順縣等地遭遇特大暴雨，引發洪澇災害，當地幹部群眾迅速開展救援，累計轉移群眾近萬人。（新華社）
-
----
-
-### 2026-06-07 23:05:00  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Qatar News Agency said Jordan's king urged stepped-up efforts to maintain the US-Iran ceasefire.
-
----
-
-### 2026-06-07 23:02:05  #公司
-
-科技記者馬克·格爾曼：自蘋果智慧功能表現不及預期、新版Siri推遲上線後，蒂姆·庫克深度介入公司人工智慧業務的翻盤工作與產品規劃。擔任CEO以來，他從未如此深入地參與產品研發與功能設計。
-
----
-
-### 2026-06-07 23:00:09  #MKT News
-
-OPEC+ will hold its next ministerial meeting on November 29.
-
----
-
-### 2026-06-07 22:59:36  #其他
-
-土耳其總統：氣候問題，就像戰爭和全球大流行病一樣，代表了一個嚴重威脅全人類的難題。
-
----
-
-### 2026-06-07 22:56:56  #公司 #國際
-
-美國國家颶風中心風暴公告：熱帶低氣壓在墨西哥南部形成。
-
----
-
-### 2026-06-07 22:56:39  #MKT News
-
-Ukrainian President Zelenskiy held talks in the UK with British Prime Minister Starmer, French President Macron and German Chancellor Merz.
-
----
-
-### 2026-06-07 22:55:12  #國際
-
-【澤連斯基：我已抵達英國】澤連斯基表示，我今日抵達英國。我將出席烏克蘭與歐洲三國（E3）會談，與會者包括法國總統、德國總理以及英國首相。各方團隊已為各項會議完成實質性籌備工作，眼下重要的是在領導人層面充分溝通，就核心事項達成共識。本次會談重點圍繞戰時防務、歐洲防空領域深化安全合作，以及各方對外交前景的共識展開。歐洲必須參與相關談判，並保持強硬立場。我還定於明日會見英國國王。感謝英國及所有夥伴國家，你們以實際行動協助我們加強民生防護，必須結束這場戰爭。
-
----
-
-### 2026-06-07 22:52:26  #國際
-
-市場訊息：澤連斯基稱其已抵達英國。
-
----
-
-### 2026-06-07 22:50:57  #國際
-
-美國國防部長：無論美伊最終能否達成協議，霍爾木茲海峽都將對外開放、免費通行，全球各國均可正常使用。
-
----
-
-### 2026-06-07 22:47:22  #其他
-
-歐佩克+將於11月29日舉行下一次部長級會議。
-
----
-
-### 2026-06-07 22:45:32  #國際
-
-美國國家颶風中心（NHC）表示，颶風“阿曼達”預計很快將退化為熱帶後殘留低壓。
-
----
-
-### 2026-06-07 22:44:52  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Iranian lawmaker Rezai says he will deliver a "painful" response to Israel's attack on Beirut.
-
----
-
-### 2026-06-07 22:43:50  #MKT News #Commodities #Energy
-
-OPEC said at a Sunday meeting it decided to keep organization-wide oil production policy unchanged.
-
----
-
-### 2026-06-07 22:43:22  #其他
-
-【阿姆斯特丹擬逐步調高旅遊稅至20%】阿姆斯特丹市政府近日釋出新的聯合協議，劃出2026至2030年的工作重點，其中包括調高過夜旅客旅遊稅、關閉郵輪碼頭、管控旅遊商店，以及放棄搬遷紅燈區等多項旅遊業相關政策。市政府提出，在明年將旅遊稅提高至16%，並在接下來以每年1個百分點的幅度增長，直到達到20%。這將使城市的旅遊稅收在明年達到6000萬歐元，並在2030年達到7500萬歐元。市政府說，這筆錢將確保遊客對城市的管理、維護、執法和投資作出公平的貢獻。
-
----
-
-### 2026-06-07 22:43:08  #公司
-
-宣告顯示，石油輸出國組織與夥伴國（OPEC+）在週日的會議上維持集團整體石油產量政策不變。
-
----
-
-### 2026-06-07 22:43:03  #國際
-
-伊朗副總統：我們將對對伊朗的侵略做出果斷而嚴厲的回應。
-
----
-
-### 2026-06-07 22:41:57  #國際
-
-伊朗國家安全委員會：我們將對以色列轟炸貝魯特南部郊區的行為進行果斷而痛苦的報復。
-
----
-
-### 2026-06-07 22:40:39  #國際
-
-伊朗議會國家安全委員會：沒有人應該認為戰爭已經結束。
-
----
-
-### 2026-06-07 22:39:39  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's parliamentary National Security and Foreign Policy Commission said no one should assume the war is over.
-
----
-
-### 2026-06-07 22:39:14  #國際
-
-赫格塞思稱，若伊朗向船隻開火，美方將採取應對措施。
-
----
-
-### 2026-06-07 22:37:34  #國際
-
-赫格塞思表示航運已恢復通行，伊朗不得對過往船隻發動襲擊。
-
----
-
-### 2026-06-07 22:36:52  #其他
-
-【飛行汽車進入商業化探索期】“十五五”時期，我國將把低空經濟作為新興支柱產業進行打造，市場參與者正在加緊挖掘產業潛力。飛行汽車是低空經濟實現從工業級無人機“生產作業”到“載人交通運輸”跨越的核心載體，有望牽引萬億級至十萬億級產業叢集。 在四川成都，一款專為城市立體交通設計的6座級純電動飛行汽車正在進行適航取證，最新設計的客艙支援靈活佈局，座椅自動調節，類似商務汽車的內飾設計。這架飛行汽車採用傾轉旋翼構型，最大飛行速度每小時230公里，目前量產機型第一階段驗證試飛已經完成，未來將應用於低空文旅、低空出行、應急救援等多種場景。 業內人士指出，飛行汽車產業目前在常態化驗證飛行、空域機制、場景落地和基建方面都取得了實質性進展，行業將進入商業化探索期。專家表示，當前飛行汽車應用主要體現在高價值、高時效性的場景，比如爭分奪秒的急救轉運、特種消防救援、點對點的高階接駁。在未來十年的成長期，隨著飛行汽車技術不斷成熟和價格普惠，將使透過叫車軟體“打飛的”出行成為可能。（央視財經）
-
----
-
-### 2026-06-07 22:36:20  #國際
-
-赫格塞思稱美國正積極談判，有望達成重要協議。
-
----
-
-### 2026-06-07 22:33:59  #國際
-
-別爾哥羅德州行動指揮部通報，該地區遭烏克蘭武裝力量襲擊，造成一名平民死亡、一人受傷。
-
----
-
-### 2026-06-07 22:31:36  #其他
-
-市場訊息：自由貿易協定談判將於月底前後舉行。
-
----
-
-### 2026-06-07 22:29:37  #其他
-
-市場訊息：英國首相斯塔默預計將宣佈向軍方投入150億英鎊。
-
----
-
-### 2026-06-07 22:28:33  #其他
-
-【國泰海通：食品飲料板塊底部價值凸顯】國泰海通研報認為，食品飲料板塊底部價值凸顯，大眾品依然是確定性較強的全年主線、尤其是健康食品、餐飲供應鏈相關標的，白酒等中高階消費或即將見底。
-
----
-
-### 2026-06-07 22:27:55  #國際
-
-市場訊息：印度官員將訪問俄羅斯，參加歐亞經濟聯盟自由貿易談判。
 
 ---

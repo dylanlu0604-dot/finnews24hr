@@ -1,7 +1,571 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 22:26:55_
-_本檔包含 3605 則快訊，約 659412 字_
+_更新時間：2026-06-14 23:21:39_
+_本檔包含 3627 則快訊，約 660990 字_
+
+---
+
+### 2026-06-14 23:20:33  #MKT News
+
+Iranian president said the National Security Council's decision has been approved as the standard, and members reached consensus on the necessity of continuing the negotiation path.
+
+---
+
+### 2026-06-14 23:20:27  #國際
+
+美國防長赫格塞思：正是特朗普總統施加的軍事壓力與實力威懾，迫使伊朗達成這份協議。協議簽署後，將以實際履約情況作為考核依據。
+
+---
+
+### 2026-06-14 23:20:01  #國際
+
+伊朗總統：國家安全委員會已作出定論，明確必須走談判道路，該決議為現行執行準則。
+
+---
+
+### 2026-06-14 23:19:44  #國際
+
+美國防長赫格塞思：自由行動計劃從未中斷，已有1.25億桶石油經由霍爾木茲海峽運輸，伊朗對此束手無策。
+
+---
+
+### 2026-06-14 23:19:21  #國際
+
+【特朗普批評以色列“干擾”美伊簽署協議】美國總統特朗普14日在社交媒體上發文，批評以色列當天襲擊黎巴嫩首都貝魯特“干擾”了美國同伊朗達成協議，稱以色列的襲擊在“這個特殊日子”“本不該發生”。（新華社）
+
+---
+
+### 2026-06-14 23:18:50  #國際
+
+以色列本土前線司令部通報：北部的阿拉布阿爾阿姆舍地區偵測到來自黎巴嫩的無人機入侵，防空警報已拉響。
+
+---
+
+### 2026-06-14 23:18:25  #國際
+
+伊朗總統：一些恪盡職守、一心維護國家利益的人卻被扣上叛國的罪名，這實在令人遺憾。
+
+---
+
+### 2026-06-14 23:18:04  #焦點 #國際
+
+伊朗最高領袖穆傑塔巴親屬穆罕默德·侯賽因·霍什瓦赫特：在最高領導層的督導下，國家安全委員會聯合軍方、安全部門指揮官及領導層代表，會同總統與外交部長，結合伊朗自身利益，已就這份止戰諒解備忘錄完成審議並形成定論。如今卻有人內塔尼亞胡一道對此表示反對，這究竟意欲何為？
+
+---
+
+### 2026-06-14 23:16:17  #國際
+
+澤連斯基與特朗普通電話。
+
+---
+
+### 2026-06-14 23:16:03  #MKT News
+
+Iran's president said content aired on state television does not reflect instructions from the Supreme Leader or the Supreme National Security Council.
+
+---
+
+### 2026-06-14 23:15:50  #其他
+
+瑞士一項公投提案遭到否決，該提案原本計劃在2050年前將本國人口上限設定為1000萬。 初步計票結果顯示，55%的選民投了反對票，45%表示支援。
+
+---
+
+### 2026-06-14 23:15:32  #MKT News
+
+Iran's president said labeling the negotiating team as traitors was regrettable.
+
+---
+
+### 2026-06-14 23:13:58  #國際
+
+【美國駐聯合國大使：特朗普及美方談判人員對達成協議充滿信心】美國駐聯合國大使邁克·沃爾茨表示，特朗普總統仍打算簽署與伊朗和平協議的初步框架文字。沃爾茨說：“總統完全有意促成此事。具體細節與時間將由白宮公佈。”他補充道：“伊朗人是極難對付的談判者，加之他們很難從最高領袖那裡得到明確指示，而且談判團隊內部也並非總是步調一致。”沃爾茨稱，特朗普及美方談判人員對達成協議充滿信心。他說：“他們完全有意在今日完成簽署。”
+
+---
+
+### 2026-06-14 23:12:23  #MKT News
+
+【Iran's PEZESHKIAN says decisions on war, negotiations rest with leadership and SNSC】Iranian President PEZESHKIAN said decisions on war and negotiations rest with Iran's leadership and the Supreme National Security Council (SNSC) and must follow the Supreme Leader. He said the government will prioritise livelihoods, national sovereignty and regional ties, and will rely on internal unity, active diplomacy and economic reforms to overcome challenges.
+
+---
+
+### 2026-06-14 23:12:18  #國際
+
+【伊朗總統：戰爭和談判的決定權在伊領導層】據伊朗伊斯蘭共和國通訊社14日報道，伊朗總統佩澤希齊揚表示，戰爭和談判的決定權在於伊朗領導層和伊朗最高國家安全委員會。佩澤希齊揚在當日的一個會議上說，所有人都必須服從由伊朗最高領袖作出的決定。伊朗政府同時追求民生、國家主權和區域關係發展。憑藉內部團結、積極的外交和經濟改革，伊朗將戰勝挑戰。（新華社）
+
+---
+
+### 2026-06-14 23:11:31  #國際
+
+歐盟委員會主席馮德萊恩：與瑞士總統帕梅林進行了富有成效的會談。我們留意到瑞士今日投票的結果，瑞士民眾已作出選擇。歐盟與瑞士聯絡緊密、夥伴關係穩固。雙方將繼續攜手推進合作升級與深化，造福兩地民眾及工商界。
+
+---
+
+### 2026-06-14 23:09:45  #其他
+
+【厄瓜多兩車相撞起火 已致10人死亡】當地時間6月14日凌晨，厄瓜多西南部沿海的聖埃倫娜省發生一起嚴重交通事故，兩車相撞後側翻起火，造成至少10人死亡、1人受傷。事故發生後，事發路段一度封閉並出現嚴重交通擁堵，當地消防、急救和交通部門趕赴現場展開救援。目前事故原因尚未公佈，相關部門已啟動調查。
+
+---
+
+### 2026-06-14 23:09:24  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israel Defense Forces said preliminary reports indicated alerts were sounded in the Arab Al-Aramshe area for suspected enemy aircraft infiltration.
+
+---
+
+### 2026-06-14 23:08:57  #MKT News
+
+【Hamas says it submitted unified response to Gaza peace roadmap】Hamas said on the 14th it submitted on the 13th a unified response — coordinated with multiple Palestinian factions and mediators Egypt, Qatar and Turkey after meetings in Cairo last week — to the Gaza peace roadmap proposed by peace committee Gaza representative Nikolay Mladenov. The statement called for full implementation of the first-phase Gaza ceasefire agreement, with emphasis on humanitarian measures and an end to all forms of aggression.
+
+---
+
+### 2026-06-14 23:08:09  #國際
+
+以色列國防軍：阿拉布阿爾阿姆舍地區拉響敵機入侵防空警報，目前相關情況正在核查中。
+
+---
+
+### 2026-06-14 23:07:51  #MKT News #WTI #Impact bearish #Brent
+
+【Iran sources say Tehran is using Qatar to relay terms to US】On the 14th local time, a source close to Iran’s negotiating team said a Qatari delegation is in Tehran and Iran is using it to convey to the US the terms and specific details it wants included in a potential US-Iran agreement.
+
+---
+
+### 2026-06-14 23:07:48  #國際
+
+【哈馬斯：已提交對加沙和平路線圖的回應】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）14日發表宣告說，其已於13日提交了多派別對“和平委員會”加沙高階代表尼古拉·姆拉德諾夫所提加沙地帶和平路線圖的回應。（新華社）
+
+---
+
+### 2026-06-14 23:07:27  #國際
+
+以色列北部發布無人機入侵警報。
+
+---
+
+### 2026-06-14 23:07:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Iran says it will not sign deal at time Trump announced; Qatari delegation in Tehran, no agreement yet】Hours before Israeli strikes on Lebanon, a source close to Iran’s negotiating team told Iranian media Tehran transmitted the terms it wants via a Qatari delegation but no agreement has been reached. The source said Iran’s baseline is that all Iranian demands must be fully reflected in any US‑Iran accord and Tehran will “absolutely not” sign at the time President Trump announced. Tasnim reported on the 14th that a Qatari delegation arrived in Tehran to discuss diplomatic efforts to end the current conflict; Trump posted on social media on the 13th saying the US and Iran were due to sign an agreement on the 14th.
+
+---
+
+### 2026-06-14 23:07:10  #國際
+
+【伊朗訊息人士稱伊方正透過卡達向美方傳達協議相關資訊】當地時間14日，一名接近伊朗談判團隊的訊息人士表示，卡達談判代表團眼下正在伊朗首都德黑蘭，伊朗正透過該卡達團隊向美國傳達其希望納入伊美協議的條款以及其認為重要的具體細節。該訊息人士強調，目前尚未達成任何最終決定。在談及談判過程中的起伏變化，訊息人士表示，即便談判過程中出現反覆，伊朗的原則始終是最終必須全面考慮其所有關切。即便伊朗的所有觀點都被採納，也絕不會在美國總統特朗普所宣佈的時間簽署任何協議。據悉，該訊息人士的上述表述是在以色列14日對黎巴嫩貝魯特南郊發動襲擊之前作出的。（央視新聞）
+
+---
+
+### 2026-06-14 23:06:24  #國際
+
+美國防長赫格塞思：從午夜之錘行動到本輪一系列舉措，特朗普總統已重創伊朗核計劃，使其進展大幅倒退。倘若伊朗拒不配合，那就再次直面國防部的行動——我們本不願走到這一步。
+
+---
+
+### 2026-06-14 23:06:00  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Qatar sets July official selling prices: marine crude at Oman/Dubai average plus $6.00/bbl; land crude at Oman/Dubai average plus $6.50/bbl.
+
+---
+
+### 2026-06-14 23:05:28  #國際
+
+【伊媒：伊朗不會在特朗普宣佈的時間簽署任何協議】據伊朗法爾斯通訊社14日報道，在以色列當天襲擊黎巴嫩數小時前，一名接近伊朗談判團隊的訊息人士表示，伊朗透過卡達代表團傳遞了伊方希望達成的條款及其具體細節。據報道，這名訊息人士稱，目前尚未達成任何協議。即使談判過程中出現反覆，伊朗的基本條件是，所有伊方希望達成的條款都必須在伊美協議中得到充分體現，並且“絕對不會在美國總統特朗普宣佈的時間簽署任何協議”。（新華社）
+
+---
+
+### 2026-06-14 23:05:10  #國際
+
+美國副總統萬斯： 我和特朗普向來都對捲入海外軍事事務持審慎態度。 但歸根結底，這並不意味著絕對不能動用軍事力量。
+
+---
+
+### 2026-06-14 23:04:29  #國際
+
+【特朗普稱以軍對黎巴嫩的襲擊“不應該發生”】當地時間6月14日，美國總統特朗普在社交媒體發文稱，以色列當天早些時候對黎巴嫩首都貝魯特發動的襲擊“不應該發生”。特朗普表示，在美國與伊朗“非常接近達成和平協議”之際，相關襲擊可能干擾和平程序。他稱，以色列有權自衛，但此次襲擊所回應的威脅“規模很小且無關緊要”，沒有造成人員傷亡。特朗普表示，美國正接近達成一項將為中東地區帶來和平的協議，其中也包括黎巴嫩問題。他呼籲各方保持克制。（央視新聞）
+
+---
+
+### 2026-06-14 23:04:12  #其他
+
+卡達將7月海上原油官方售價設定為較阿曼/迪拜均價每桶升水6.00美元；陸上原油官方售價設定為較阿曼/迪拜均價每桶升水6.50美元。
+
+---
+
+### 2026-06-14 23:03:01  #國際
+
+法國與日本公佈了有關經濟安全合作的宣言。
+
+---
+
+### 2026-06-14 23:02:22  #焦點 #國際
+
+【特朗普要求以色列停止對黎巴嫩的襲擊】美國總統特朗普表示，以色列應停止攻擊黎巴嫩。特朗普正試圖維護與伊朗的和平協議，之前他曾表示協議將於週日簽署。“以色列不應在黎巴嫩任何地方再發動襲擊，但其他任何一方，包括真主黨，也不應再對以色列發動襲擊，” 特朗普週日在一篇社交媒體帖子中表示，“這可能是一場長久而美好的和平的開端——我們不要搞砸它！”
+
+---
+
+### 2026-06-14 23:01:02  #國際
+
+以色列國防軍發言人：不久前，在以色列境內靠近黎巴嫩邊境的地區，發現數枚疑似空中目標墜落。事件未造成人員傷亡，目前正在調查中。
+
+---
+
+### 2026-06-14 23:00:36  #國際
+
+韓國海關：5月原油進口量為970萬噸，去年同期為1260萬噸。
+
+---
+
+### 2026-06-14 23:00:24  #國際
+
+英國和日本就經濟安全合作發表聯合宣告。
+
+---
+
+### 2026-06-14 22:59:51  #其他
+
+【“張雪機車”獲艾米利亞-羅馬涅站次回合第九名】今日，2026世界超級摩托車錦標賽（WSBK）艾米利亞-羅馬涅站WorldSSP組別第二回合正賽在義大利米薩諾賽道舉行。中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯最終以第八名衝線。但賽後被判犯規罰退一位，最終列第九。在昨天的第一回合正賽中，德比斯在最後幾圈保持第二，並在最後一圈完成極限反超，驚險奪得賽季第六冠。（央視新聞）
+
+---
+
+### 2026-06-14 22:58:16  #國際
+
+美國副總統萬斯：我認為特朗普總統身體狀況很好。要知道，媒體總是不斷拿這件事議論紛紛。 想來媒體本就會一直炒作這類話題。但就我所見，我從未覺得他體力不濟、精力不足，無法勝任總統這份工作。
+
+---
+
+### 2026-06-14 22:57:41  #國際
+
+美國總統特朗普14日說，在美國即將同伊朗達成協議的“這個特殊日子”，以色列當日對黎巴嫩首都貝魯特的襲擊“本不該發生”。（新華社）
+
+---
+
+### 2026-06-14 22:57:26  #MKT News
+
+Ukrainian President Zelenskiy spoke with US President Trump.
+
+---
+
+### 2026-06-14 22:56:36  #國際
+
+美國防長赫格塞思：特朗普總統讓美國實現了國內能源自給。價格正在回落，這一點有目共睹。
+
+---
+
+### 2026-06-14 22:55:25  #國際
+
+總統顧問稱，烏克蘭總統澤連斯基與美國總統特朗普進行了通話。
+
+---
+
+### 2026-06-14 22:54:52  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+【Trump says he is "very close" to US-Iran deal that would bring peace to Lebanon】On the 14th, US President Trump said he is "very close" to reaching a US-Iran agreement that would bring peace to Lebanon and the wider region.
+
+---
+
+### 2026-06-14 22:53:51  #國際
+
+【特朗普：“非常接近”達成美伊協議 將給黎巴嫩帶來和平】美國總統特朗普14日稱，“非常接近”達成美伊協議，為包括黎巴嫩在內的整個地區帶來和平。（新華社）
+
+---
+
+### 2026-06-14 22:53:44  #市場
+
+【深夜國際油價急速拉昇，加密貨幣跳水】北京時間6月14日晚間，國際原油暗盤短線拉昇翻紅，截至22:23，美油暗盤、布油暗盤均漲超1.3%，此前，布油暗盤一度跌超2%。加密貨幣主要幣種跳水，此前日內漲幅超1.5%的比特幣短線下挫，漲幅收窄至0.2%。以太坊跌超0.8%，XRP跌超1.7%，狗狗幣跌超2%。過去24小時，全市場超7.6萬人爆倉。
+
+---
+
+### 2026-06-14 22:53:08  #公司
+
+科技記者古爾曼：新版 Siri 歷經十五年，終於首次實現了應有的使用效果。依託裝置預裝的優勢，蘋果得以在與 ChatGPT、谷歌 Gemini、Claude 的競爭中站穩腳跟，有望分流這類主流人工智慧基礎場景（例如搜尋）的使用者群體。
+
+---
+
+### 2026-06-14 22:53:03  #MKT News
+
+【Lebanon sends letters to UN over Israeli glyphosate spraying and attack on Lebanese army vehicles】Lebanon’s Foreign Ministry said on June 14 it sent letters on June 10 and 11 to the UN Security Council and the UN Secretary‑General, lodging complaints about Israeli spraying of glyphosate in southern Lebanon and attacks on Lebanese army vehicles, and urging the UN to take measures to stop the actions.
+
+---
+
+### 2026-06-14 22:51:59  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israel says HEZBOLLAH senior commander Ali Musa Daqduq killed】Israel’s ambassador to the US said on the 14th that HEZBOLLAH senior commander Ali Musa Daqduq was killed by Israeli forces while directing operations in southern Lebanon. The ambassador said Daqduq was implicated in a 2007 plot against US troops, had been detained by US forces, was subject to a $5.0m bounty and had planned an invasion and occupation of northern Israel.
+
+---
+
+### 2026-06-14 22:51:47  #國際
+
+【黎巴嫩就以軍噴灑除草劑及襲擊黎軍車致函聯合國】黎巴嫩外交部6月14日發表宣告說，已分別於6月10日和11日致函聯合國安理會及聯合國秘書長，就以色列在黎南部噴灑草甘膦除草劑及襲擊黎政府軍車輛等事件提出申訴，並呼籲聯合國採取措施制止相關行為。（新華社）
+
+---
+
+### 2026-06-14 22:49:57  #國際
+
+以色列駐美國大使耶希埃爾·萊特14日稱，黎巴嫩真主黨高階指揮官阿里·穆薩·達克杜克在黎南部指揮作戰時被以軍打死。 萊特在社交媒體上稱，達克杜克曾於2007年策劃一起針對美軍的“恐怖襲擊”，曾被美軍監禁，被懸賞500萬美元通緝。他還曾策劃黎真主黨“入侵併佔領以色列北部”。（新華社）
+
+---
+
+### 2026-06-14 22:49:36  #國際
+
+以軍本次調整內容如下：除交火沿線區域外，以色列全國其餘地區恢復全面活動，聚集人數上限設定為 5000 人。
+
+---
+
+### 2026-06-14 22:49:20  #國際
+
+以色列國防軍發言人： 經局勢評估，我方決定自2026 年 6 月 14 日（週日）18 時至 2026 年 6 月 15 日（週一）20 時，調整本土前線司令部的防務管控政策。
+
+---
+
+### 2026-06-14 22:48:58  #國際
+
+【特朗普：今早針對貝魯特的襲擊本不該發生】特朗普表示：今早針對貝魯特的襲擊本不該發生。當下正值特殊節點，我們與伊朗的和平協議已近在咫尺。以色列固然有權抵禦威脅，但此次引發以方反擊的襲擊規模極小、並無實質影響，全程無人傷亡，本不該擾亂這一重要程序。一份能為包括黎巴嫩在內的整個地區帶來和平的協議即將達成，各方都應保持克制。以色列不得再在黎巴嫩境內發起任何襲擊，真主黨等其他各方也不得再向以色列發動攻擊。這或將開啟一段長久且美好的和平局面 —— 千萬別功虧一簣！感謝各界對此事的關注。
+
+---
+
+### 2026-06-14 22:47:56  #國際
+
+特朗普談及伊核協議：別把這件事搞砸了。
+
+---
+
+### 2026-06-14 22:47:47  #MKT News #Important #Brent #Impact mixed #WTI #XAUUSD
+
+Trump said the attack on Beirut this morning should not have happened, especially on a day when the US was close to reaching a peace agreement with Iran.
+
+---
+
+### 2026-06-14 22:47:37  #國際
+
+特朗普：以色列不應再對黎巴嫩任何地方發動襲擊。
+
+---
+
+### 2026-06-14 22:47:32  #國際
+
+特朗普：以色列有權進行自衛。
+
+---
+
+### 2026-06-14 22:47:23  #國際
+
+特朗普：今早發生在貝魯特的襲擊本不該發生。
+
+---
+
+### 2026-06-14 22:47:13  #國際
+
+特朗普：與伊朗的和平協議即將達成。
+
+---
+
+### 2026-06-14 22:46:58  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+U.S. defense secretary Hegseth said Israel's response to Hezbollah reflected significant restraint because it recognized 'we are on the verge of reaching an agreement.'
+
+---
+
+### 2026-06-14 22:46:46  #國際
+
+美國防長赫格塞思：以色列對真主黨的回應以極大的剋制為特徵，因為我們認識到我們即將達成一項協議。
+
+---
+
+### 2026-06-14 22:46:28  #國際
+
+美國防長赫格塞思：委方曾邀請美軍參與擊殺格雷羅的行動。
+
+---
+
+### 2026-06-14 22:46:11  #MKT News
+
+U.S. Defense Secretary Hegseth said Iran must strongly urge HEZBOLLAH to stop attacks on Israel.
+
+---
+
+### 2026-06-14 22:45:36  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. Defense Secretary Hegseth said the U.S. is closely monitoring HEZBOLLAH missile launches into northern Israel and that they must stop.
+
+---
+
+### 2026-06-14 22:45:26  #國際
+
+美國防長赫格塞思：設定 60 天期限，完成核材料降濃作業。
+
+---
+
+### 2026-06-14 22:45:15  #MKT News
+
+U.S. Defense Secretary Hegseth said he expects deeper negotiations and believes those talks will continue.
+
+---
+
+### 2026-06-14 22:45:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+US Defense Secretary Hegseth said Iran must control HEZBOLLAH if it wants the situation resolved.
+
+---
+
+### 2026-06-14 22:45:01  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+US Secretary of Defense Hegseth said he did not think Israel's strikes on Beirut's southern suburbs would prevent a deal with Iran.
+
+---
+
+### 2026-06-14 22:44:52  #國際
+
+美國防長赫格塞思：協議簽署已成定局，只待擇機落地。
+
+---
+
+### 2026-06-14 22:44:51  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+U.S. defense minister Hegseth said the U.S. is proceeding as planned to sign an agreement with Iran; the question is not whether it will be signed, but when.
+
+---
+
+### 2026-06-14 22:44:28  #公司 #觀點
+
+高盛公司將安克創新科技股份有限公司評級上調至買進。
+
+---
+
+### 2026-06-14 22:44:18  #國際
+
+美國防長赫格塞思：美國將參與伊朗核材料外運相關工作。
+
+---
+
+### 2026-06-14 22:42:51  #國際
+
+我美國防長赫格塞思：我們將敲定這份初步諒解備忘錄，以此設定最後期限。
+
+---
+
+### 2026-06-14 22:42:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. Secretary of Defense Hegseth said Iranian nuclear material will be destroyed.
+
+---
+
+### 2026-06-14 22:41:37  #MKT News
+
+U.S. Secretary of Defense Hegseth: "Freedom Plan" has never been suspended.
+
+---
+
+### 2026-06-14 22:41:23  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
+
+US defense secretary Hegseth said documents show Iran will never possess, seek, or purchase nuclear weapons.
+
+---
+
+### 2026-06-14 22:40:33  #公司
+
+【首批公募REITs迎來限售份額解禁】6月14日晚間，平安廣州廣河REIT釋出的公告顯示，將於6月22日解除限售份額1.4億份，佔基金總份額20%。這批份額為原始權益人及其同一控制下關聯方戰略配售限售份額，已滿60個月限售期。解禁後，全部基金份額可在二級市場直接流通。此次解除限售份額的持有人為廣州市高速公路有限公司（簡稱“市高公司”）。基於對基金及不動產專案未來發展前景的信心和長期投資價值的認可，支援基金持續、穩定、健康發展，市高公司將繼續持有解除限售的基金份額，暫無賣出計劃。
+
+---
+
+### 2026-06-14 22:40:12  #國際
+
+美國防長赫格塞思：霍爾木茲海峽的水雷可在 30 天內清除完畢。
+
+---
+
+### 2026-06-14 22:38:44  #國際
+
+美國防長赫格塞思：自由計劃從未中止。
+
+---
+
+### 2026-06-14 22:38:12  #國際
+
+市場訊息：伊朗伊斯蘭革命衛隊發出警告，將在明日黎明前對以色列空襲貝魯特的行動展開反擊，並會採取強有力的回擊。
+
+---
+
+### 2026-06-14 22:37:48  #國際
+
+美國防長赫格塞思： 各方將舉行談判，敲定伊朗無核相關事宜。
+
+---
+
+### 2026-06-14 22:37:36  #國際
+
+美國防長赫格塞思：檔案顯示伊朗永遠不會擁有、尋求或購買核武器。
+
+---
+
+### 2026-06-14 22:35:53  #國際
+
+美國防長赫格塞思：美國正密切關注真主黨火力動向。
+
+---
+
+### 2026-06-14 22:35:16  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Defense Secretary Hegseth said the U.S. expects to sign an Iran nuclear deal on Sunday (local time).
+
+---
+
+### 2026-06-14 22:35:06  #國際
+
+美國防長赫格塞思就協議表示：伊朗核材料將被銷燬。
+
+---
+
+### 2026-06-14 22:34:59  #公司 #國際
+
+【奧巴馬：新伊核協議恐難與舊版有顯著差異】美國前總統巴拉克・奧巴馬錶示，美伊雙方若達成新協議，很難與他任內 2015 年促成的《聯合全面行動計劃》（伊核協議）形成明顯區別，也無法實現實質性最佳化。 奧巴馬在接受美國廣播公司新聞頻道採訪時說道：“即便雙方達成新協議，也很難和我們最初敲定的這份協議拉開差距，更談不上大幅改進。在美國退出該協議前，它已經平穩執行了很長一段時間。” 本次訪談完整內容將於週三播出。奧巴馬還表示，希望戰火能夠平息，普通民眾不再因戰亂承受苦難。他主張優先透過外交手段而非軍事行動化解大部分矛盾，同時對 “靠施壓或空襲解決問題” 的思路提出批評。 他呼籲各方耐心推進外交斡旋，盡力促成折中協議：不必追求徹底解決所有問題，只要能化解八成至九成矛盾、同時避免戰爭爆發，就是可行的方案。
+
+---
+
+### 2026-06-14 22:34:07  #國際
+
+美國防長赫格塞斯：伊朗需要撤回對真主黨的支援。
+
+---
+
+### 2026-06-14 22:33:30  #國際
+
+赫格塞斯：美國有望在週日簽署伊朗核協議。
+
+---
+
+### 2026-06-14 22:32:48  #MKT News #Market Regions #Europe & UK
+
+Swiss voters rejected a referendum to cap the population at 10 million, voting 54% against and 46% in favor.
+
+---
+
+### 2026-06-14 22:30:56  #其他
+
+瑞士政府：選民拒絕1000萬人口上限方案。公投結果表明，54.2%選民拒絕（該方案），45.8%選民支援。
+
+---
+
+### 2026-06-14 22:30:30  #國際
+
+美國地質調查局：希納圖安東北方向53公里處發生5.2級中度地震。
+
+---
+
+### 2026-06-14 22:29:40  #國際
+
+美國前總統巴拉克・奧巴馬評論稱，美伊之間若達成新協議，很難與 2015 年《聯合全面行動計劃》（伊核協議）存在明顯差異，也難以實現超越。
+
+---
+
+### 2026-06-14 22:28:05  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【US media: Israel 'tried to sabotage' U.S.-Iran deal】Fox News on the 14th quoted a U.S. diplomat involved in talks with Iran saying an Israeli strike near Beirut's southern suburbs 'created problems' for a U.S.-Iran agreement and that 'Israel evidently sought to sabotage President Trump's deal and draw the U.S. back into war.' An Israeli senior official denied responsibility for the strike, saying HEZBOLLAH had been attacking Israeli civilians for the past three days.
+
+---
+
+### 2026-06-14 22:26:41  #國際
+
+【美媒：以色列“企圖破壞”美伊協議】美國福克斯新聞網14日援引一名參與美國同伊朗談判的外交官員的話說，以色列當天對黎巴嫩首都貝魯特南郊的襲擊給美伊達成協議“製造問題”，“以色列顯然企圖破壞（特朗普）總統的協議，並將美國重新拖入戰爭”。報道還說，一名以色列高階官員否認以色列應為襲擊黎巴嫩承擔責任，稱“黎巴嫩真主黨過去3天一直在襲擊以色列平民”。特朗普13日在社交媒體發文說，美國和伊朗定於14日簽署協議。（新華社）
 
 ---
 
@@ -21360,437 +21924,5 @@ UK Industrial Output Stalls in April — Industrial production in the UK stalled
 ### 2026-06-12 14:11:58  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #Brent #Impact bullish #XAUUSD
 
 【UK April GDP down 0.1% MoM as Iran war weighs】ONS: UK GDP fell 0.1% MoM in April, matching economists' forecasts, with the Iran war damping activity. April weakness followed an outsized March rebound driven by consumer petrol stockpiling and manufacturers front‑loading production ahead of expected energy-price pressure. Three-month rolling GDP to April rose 0.7% versus the prior three months, also in line with forecasts. Since late February, attacks on energy infrastructure and a partial blockade of the Strait of Hormuz have driven oil prices sharply higher. The weak April print raises near-term political risk for Prime Minister Starmer ahead of next week's by-election, where an Andy Burnham victory could trigger a leadership challenge.
-
----
-
-### 2026-06-12 14:11:54  #Trading Economics #Economy #United Kingdom #Monthly GDP MoM #Importance 2
-
-UK Economy Contracts in April — The GDP in the UK contracted by 0.1% month-on-month in April 2026, in line with market expectations and following a 0.3% expansion in March. This marked the first contraction since August last year, as services output declined 0.2%, with the largest negative contributors being administrative and support service activities, which fell 2.2%, and arts, entertainment and recreation (-4.3%). Wholesale and retail trade, including motor vehicle repair, declined 0.4%, as retail trade excluding motor vehicles and motorcycles fell 1.3%. Meanwhile, information and communication provided the largest positive contribution, rising 1.1% and marking its sixth consecutive monthly increase.
-
----
-
-### 2026-06-12 14:11:08  #其他
-
-【Visa與OpenAI合作接入ChatGPT購物支付，探索AI代理參與交易新模式】Visa將與OpenAI合作，為使用者透過ChatGPT及相關AI代理完成的購物交易提供支付支援。根據合作安排，Visa將提供支付網路、安全基礎設施、支付憑證管理、授權和欺詐監測能力；AI代理發起交易仍需遵循使用者預設許可權，包括消費額度、審批門檻和其他限制。報道稱，該合作屬於Visa“Intelligent Commerce”計劃的一部分，顯示支付機構正加快為AI代理參與商品搜尋、購買決策和交易執行建立授權、身份識別和風險控制機制。
-
----
-
-### 2026-06-12 14:11:07  #公司
-
-【非金屬材料板塊持續下挫，金戈新材跌超20%】非金屬材料板塊持續下挫，金戈新材跌超20%，天馬新材跌超10%，粵桂股份、石英股份、東方碳素、寧新新材、力量鑽石跟跌。
-
----
-
-### 2026-06-12 14:09:54  #Trading Economics #Economy #United Kingdom #Construction Output #Importance 1
-
-UK Construction Output Falls Less than Expected — UK construction output dropped 1.0% year-on-year in April 2026, worsening from a 0.3% decline in the previous month and marking the sixth consecutive month of contraction. However, the drop was less severe than market expectations of a 1.7% decrease. New work continued to weigh on activity, falling at a faster pace (-4.8% vs. -4.4% in March), while growth in repair and maintenance eased to a four-month low of 4.4% from 5.7%. On a monthly basis, construction output edged up 0.1%, slowing sharply from a 1.5% increase in March and representing the weakest expansion since December. The softer performance reflected a 0.3% decline in new work and slower growth in repair and maintenance activity (0.6%). Despite the weak April reading, construction output rose 1.6% over the three months to April, pointing the second consecutive increase in the rolling three-month measure. Growth was supported by gains in both repair and maintenance activity (3.4%) and new work (0.3%).
-
----
-
-### 2026-06-12 14:09:53  #其他
-
-【Kimi將與一國有銀行發行AI原生信用卡】月之暗面Kimi正與一家大型國有銀行及國際卡組織進行接洽，三方將聯合推出新型信用卡產品。除支付與信貸傳統功能外，該卡將融合AI算力增值服務。據接近專案人士透露，該合作是三方在信用卡服務科技金融領域的共同探索，既有利於銀行精準服務科技企業及其科技使用者，對Kimi來說也是一次從大模型產品走向實體生活場景及支付領域的嘗試。 (科創板日報)
-
----
-
-### 2026-06-12 14:08:36  #公司
-
-【三隻羊大資料公司變更負責人】天眼查App顯示，近日，合肥三隻羊大資料運營有限公司發生工商變更，汪芬慶卸任法定代表人、經理、董事，由杜剛接任法定代表人、董事。該公司成立於2023年6月，註冊資本500萬人民幣，經營範圍包括大資料服務、資料處理和儲存支援服務、資料處理服務等，由三隻羊（合肥）控股集團有限公司全資持股。
-
----
-
-### 2026-06-12 14:05:56  #MKT News
-
-NATO will optimize deployment of the international force in Kosovo and gradually adjust its current troop levels over the next year.
-
----
-
-### 2026-06-12 14:05:48  #市場 #國際
-
-日本40年期國債收益率7.5%下跌至3.7%。
-
----
-
-### 2026-06-12 14:04:43  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #CNH #Impact bullish #Copper #CSI300
-
-【China Jan–May trade improves; AI-related goods trade +52.4% YoY to 4.12 tln yuan, Customs】China Customs data show combined imports and exports of AI-related products — led by industrial robots and including electronic components, computer parts and fiber-optic cable — reached 4.12 tln yuan in Jan–May, up 52.4% YoY.
-
----
-
-### 2026-06-12 14:04:31  #市場
-
-歐元斯托克50指數期貨<STXEc1>上漲1.48%，德國DAX指數期貨<FDXc1>上漲1.39%，富時指數期貨<FFIc1>上漲0.66%。
-
----
-
-### 2026-06-12 14:03:24  #其他
-
-【杭州小龍蝦降價超50%】進入6月，湖北潛江小龍蝦供貨量逐漸減少，央視財經記者在走訪時發現，目前杭州市場上的小龍蝦已經完成了產地輪換，江蘇、安徽和浙江本地產的小龍蝦增多，貨源充足，小龍蝦價格也大幅回落，不少市民直呼實現了“小龍蝦自由”。記者瞭解到，目前中青規格小龍蝦的批發價每斤12元，大青規格小龍蝦每斤16元，跟今年二三月份剛上市時的價格相比，降幅均超過50%。此外，廣闊的海外市場，為小龍蝦開啟了利潤增長空間。今年，多地小龍蝦出口量與貨值雙雙攀升，遠銷歐美及東南亞。（央視財經）
-
----
-
-### 2026-06-12 14:03:05  #央行 #歐洲央行
-
-【歐洲央行管委內格爾：已為7月保留所有選擇 隨時準備再次作出回應】歐洲央行管委內格爾表示，即使戰爭迅速結束，本週的加息也是必要的；衝擊是強烈且持久的，不能簡單地忽視這個衝擊。已為7月保留了所有選擇，一旦需要，央行將隨時準備再次作出回應；由於高能源價格對其他價格的間接影響日益加劇，加息是必要的。
-
----
-
-### 2026-06-12 14:02:56  #其他
-
-FLUTTER計劃於8月3日起從倫敦證券交易所退市。
-
----
-
-### 2026-06-12 14:02:26  #其他
-
-塔塔汽車乘用車將提高價格。
-
----
-
-### 2026-06-12 14:01:13  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-UK seasonally adjusted trade balance with the EU in April: -£12.998bn, prior -£12.023bn.
-
----
-
-### 2026-06-12 14:01:12  #其他
-
-【江蘇常州發生一起小型直升機降落事故 致2人受傷】從江蘇省常州市武進區南夏墅街道辦事處獲悉，6月11日14時許，武進區海湖路附近一架小型直升機降落時發生事故，造成2名駕乘人員受傷，其中1人已醫治出院，另外1人傷勢較重仍在救治中。目前，事故原因正在調查中。
-
----
-
-### 2026-06-12 14:01:06  #經濟數據 #歐元區
-
-德國5月CPI環比下降0.2%，預期下降0.2%；5月CPI同比增長2.6%，預期增長2.6%。
-
----
-
-### 2026-06-12 14:01:04  #MKT News #Economic Calendar #Important
-
-United Kingdom | Trade Balance with EU (Apr) | actual -12997999999.999998B | previous -12023000000B
-
----
-
-### 2026-06-12 14:00:55  #MKT News #GBPUSD #Impact mixed
-
-UK April seasonally adjusted trade deficit £8.435 bln, versus forecast £5.744 bln; prior £9.658 bln deficit.
-
----
-
-### 2026-06-12 14:00:45  #其他
-
-【凱迪拉克官宣推出全系燃油車3年8折回購政策】6月12日，凱迪拉克宣佈限時推出全系燃油車三年八折保值回購政策，涵蓋CT5、CT6、XT4、XT5車型，並承諾3年內單次事故損失達到原車購車發票價的30%可免費換新車。該活動時間截至2026年6月30日。
-
----
-
-### 2026-06-12 14:00:45  #MKT News #Economic Calendar #Important
-
-United Kingdom | Trade Balance (Apr) | actual -8434999999.999999B | consensus -5744000000B | previous -9658000000B
-
----
-
-### 2026-06-12 14:00:40  #MKT News #Market Regions #Europe & UK #EURUSD
-
-Germany harmonized CPI (HICP) final, May MoM -0.1% (exp -0.1%; prior -0.1%)
-
----
-
-### 2026-06-12 14:00:40  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100
-
-UK three-month rolling MoM GDP in April rose 0.7%, the largest increase since May 2024.
-
----
-
-### 2026-06-12 14:00:38  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100 #Impact mixed
-
-UK April seasonally adjusted non-EU trade balance -£13.048 bln; prior revised to -£15.195 bln.
-
----
-
-### 2026-06-12 14:00:38  #MKT News #Market Regions #Europe & UK #GBPUSD
-
-UK April services index YoY 1.7% vs expected 1.7%, prior 1.5%.
-
----
-
-### 2026-06-12 14:00:38  #MKT News #Important
-
-Germany May CPI final MoM -0.2% (exp -0.2%; prev -0.2%)
-
----
-
-### 2026-06-12 14:00:38  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
-
-UK April seasonally adjusted goods trade deficit £26.046bln, vs. expected -£22.5bln; prior -£27.218bln (unchanged on revision).
-
----
-
-### 2026-06-12 14:00:38  #MKT News
-
-Germany May HICP final YoY 2.7% (expected 2.7%; prior 2.70%).
-
----
-
-### 2026-06-12 14:00:37  #MKT News #GBPUSD #Impact bullish
-
-UK construction output YoY -1.0% in April, vs -1.7% expected and -0.3% previously.
-
----
-
-### 2026-06-12 14:00:36  #MKT News #GBPUSD
-
-UK April GDP -0.1% month-on-month, in line with expectations; prior 0.3%.
-
----
-
-### 2026-06-12 14:00:36  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
-
-UK services index m/m (Apr) -0.2%, expected -0.1%, prior 0.3%.
-
----
-
-### 2026-06-12 14:00:33  #MKT News #Important #GBPUSD #Impact bearish
-
-UK industrial production MoM 0.0% in April vs 0.1% expected; prior -0.2%.
-
----
-
-### 2026-06-12 14:00:33  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK manufacturing output MoM Apr +0.4% (exp -0.2%); prior +1.2%.
-
----
-
-### 2026-06-12 14:00:33  #MKT News #Important #GBPUSD
-
-UK three-month GDP MoM for April +0.7% vs 0.7% expected; prior +0.6%.
-
----
-
-### 2026-06-12 14:00:30  #資料
-
-德國5月CPI月率終值 -0.2%，預期-0.2%，前值-0.20%。
-
----
-
-### 2026-06-12 14:00:28  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-UK April manufacturing output YoY 1.0% vs consensus 0.4%, prior 1.2%.
-
----
-
-### 2026-06-12 14:00:27  #其他
-
-英國4月季調後商品貿易帳 -260.46億英鎊，預期-225億英鎊，前值由-272.18億英鎊修正為-272.18億英鎊。
-
----
-
-### 2026-06-12 14:00:25  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-UK April construction output MoM +0.1% (expected -0.4%); March +1.5%.
-
----
-
-### 2026-06-12 14:00:25  #MKT News #EURUSD
-
-Germany May final CPI YoY 2.6% (consensus 2.6%, prior 2.6%).
-
----
-
-### 2026-06-12 14:00:20  #資料
-
-英國4月製造業產出月率 0.4%，預期-0.2%，前值1.20%。
-
----
-
-### 2026-06-12 14:00:08  #資料
-
-英國4月三個月GDP月率 0.7%，預期0.7%，前值0.6%。
-
----
-
-### 2026-06-12 14:00:08  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100
-
-UK April GDP YoY 1.2% vs 1.3% expected; prior 1.2%.
-
----
-
-### 2026-06-12 14:00:08  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-UK industrial production YoY -0.2% in April vs -0.1% expected; March 0.0%.
-
----
-
-### 2026-06-12 14:00:06  #MKT News #Economic Calendar #Important
-
-United Kingdom | Non-EU Trade Balance (Apr) | actual -13047999999.999998B | previous -15194999999.999998B
-
----
-
-### 2026-06-12 14:00:05  #MKT News #Economic Calendar #Important
-
-Germany | Harmonized CPI Final (MoM) (May) | actual -0.1% | consensus -0.1% | previous -0.10%
-
----
-
-### 2026-06-12 14:00:05  #MKT News #Economic Calendar #Important
-
-Germany | Harmonized CPI Final (YoY) (May) | actual 2.7% | consensus 2.7% | previous 2.70%
-
----
-
-### 2026-06-12 14:00:05  #MKT News #Economic Calendar #Important
-
-Germany | CPI Final (MoM) (May) | actual -0.2% | consensus -0.2% | previous -0.20%
-
----
-
-### 2026-06-12 14:00:05  #MKT News #Economic Calendar #Important
-
-Germany | CPI Final (YoY) (May) | actual 2.6% | consensus 2.6% | previous 2.60%
-
----
-
-### 2026-06-12 14:00:05  #MKT News #Economic Calendar #Important
-
-United Kingdom | Goods Trade Balance SA (Apr) | actual -26045999999.999996B | consensus -22500000000B | previous -27218000000B
-
----
-
-### 2026-06-12 14:00:01  #MKT News #Economic Calendar #Important
-
-United Kingdom | GDP (MoM) (Apr) | actual -0.1% | consensus -0.1% | previous 0.30%
-
----
-
-### 2026-06-12 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Industrial Output (MoM) (Apr) | actual 0% | consensus 0.1% | previous -0.20%
-
----
-
-### 2026-06-12 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Construction Output (YoY) (Apr) | actual -1% | consensus -1.7% | previous -0.30%
-
----
-
-### 2026-06-12 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | GDP 3M/3M (MoM) (Apr) | actual 0.7% | consensus 0.7% | previous 0.6%
-
----
-
-### 2026-06-12 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Manufacturing Output (MoM) (Apr) | actual 0.4% | consensus -0.2% | previous 1.20%
-
----
-
-### 2026-06-12 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Construction Output (MoM) (Apr) | actual 0.1% | consensus -0.4% | previous 1.50%
-
----
-
-### 2026-06-12 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Manufacturing Output (YoY) (Apr) | actual 1% | consensus 0.4% | previous 1.20%
-
----
-
-### 2026-06-12 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | Industrial Output (YoY) (Apr) | actual -0.2% | consensus -0.1% | previous 0.00%
-
----
-
-### 2026-06-12 14:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | GDP (YoY) (Apr) | actual 1.2% | consensus 1.3% | previous 1.2%
-
----
-
-### 2026-06-12 13:59:30  #公司
-
-【晶科科技成立航天新智慧科技公司，含AI業務】企查查APP顯示，近日，江西晶科航天新智慧科技有限公司成立，經營範圍包含：衛星通訊服務，衛星導航服務，衛星技術綜合應用系統整合，衛星遙感資料處理等。企查查股權穿透顯示，該公司由晶科科技全資持股。
-
----
-
-### 2026-06-12 13:58:44  #央行 #歐洲央行
-
-歐洲央行管委多倫茨表示，即使霍爾木茲海峽開放，戰爭影響也會持續更長時間；顯而易見，通脹將更高，經濟增長將更低；目前的加息只是足以跟上基線。
-
----
-
-### 2026-06-12 13:57:55  #公司
-
-【朱江濤任招商證券董事長】天眼查 App 顯示，近日，招商證券發生工商變更，霍達卸任法定代表人、董事長，由朱江濤接任。該公司成立於1993年8月，註冊資本約87億人民幣，經營範圍包括證券經紀，證券投資諮詢，與證券交易、證券投資活動有關的財務顧問等，由招商局金融控股有限公司、深圳市集盛投資發展有限公司、香港中央結算（代理人）有限公司等共同持股。
-
----
-
-### 2026-06-12 13:56:56  #MKT News #Market Themes #China Tech Giants
-
-【Huawei Developer Conference 2026 to run 12–14 June in Dongguan; HarmonyOS 7 may debut】Huawei Developer Conference 2026 (HDC) runs 12–14 June in Dongguan. The opening keynote is scheduled today at 14:30 local time at Dongguan Basketball Center. Senior Huawei executives Yu Chengdong, He Gang and Gong Ti will deliver core announcements. HarmonyOS 7 — a full native major OS release — is expected to be showcased.
-
----
-
-### 2026-06-12 13:56:50  #其他
-
-【華為開發者大會2026即將拉開帷幕 HarmonyOS 7有望亮相】華為開發者大會2026（HDC 2026）於6月12日-14日在東莞松舉辦，今日14:30在東莞籃球中心，將開啟首場主題演講。餘承東、何剛、龔體等華為高管將出席併發布核心內容。 HarmonyOS 7（純血鴻蒙正式大版本）有望在本次大會亮相。
-
----
-
-### 2026-06-12 13:55:29  #公司
-
-【IDC：螞蟻數科位列中國智慧體平臺私有化市場非雲廠商第一】IDC釋出《中國智慧體開發平臺市場份額，2025》，2025年中國智慧體開發平臺私有化市場總規模達17.5億元人民幣。市場前五名依次為火山引擎、騰訊雲、阿里雲、螞蟻數科及電信AI公司，螞蟻數科也是排名最高的非雲廠商。
-
----
-
-### 2026-06-12 13:55:02  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-【Iran lawmaker says US strikes are pressure tactics】On June 11, US President Trump said US forces would hit Iran "very hard" that night, then said he called off the operation. US forces had struck multiple locations in Iran over the previous two days. Ebrahim Azizi, chairman of the Islamic parliament’s National Security Committee, told media on June 11 the exchanges should not be viewed as war but as US high-pressure measures aimed at securing objectives. Azizi said the US is using military pressure to bolster negotiations for demands it failed to win on the battlefield and that Washington must accept today’s Iran, hardened by conflict and advanced in military, defense, political and economic capacities, is not the same as before.
-
----
-
-### 2026-06-12 13:53:36  #MKT News #Important
-
-South Korea's KOSPI index gains narrowed to below 5% after briefly rising above 8%.
-
----
-
-### 2026-06-12 13:53:35  #國際
-
-韓國KOSPI指數漲幅收窄至不足5%，此前一度漲超8%。
-
----
-
-### 2026-06-12 13:53:12  #市場
-
-納斯達克100指數期貨轉跌，跌幅達0.3%。
-
----
-
-### 2026-06-12 13:52:59  #公司
-
-標普將歷峰集團展望調整為正面，鑑於穩健的資產負債表和良好的運營業績，確認其“A+”評級。
-
----
-
-### 2026-06-12 13:52:34  #MKT News
-
-【China deputy foreign minister attends U.S. Embassy Independence Day reception】Deputy Foreign Minister Ma Zhaoxu attended a U.S. Embassy Independence Day reception in Beijing on June 10, met the U.S. ambassador to China and discussed implementing leaders' consensus and advancing constructive strategic stability in China‑U.S. relations.
-
----
-
-### 2026-06-12 13:52:15  #國際
-
-【伊朗議員說美再襲伊朗實為施壓】美國總統特朗普6月11日宣稱，美軍當晚將“非常猛烈”地打擊伊朗，隨後又稱取消行動。在此前連續兩天，美軍對伊朗多地發動襲擊。針對美方行為，伊朗伊斯蘭議會國家安全委員會主席易卜拉欣·阿齊茲6月11日對媒體表示，不應將本輪美伊互襲視為“戰爭”，而應將其視為“美國為實現其目標而採取的高壓手段”。阿齊茲指出，事實上，美國現在所追求的是利用軍事壓力來支援談判，以此獲取他們在戰場上未能實現的訴求。 阿齊茲強調，美國必須接受今天的伊朗已不同往日，經歷了戰火的淬鍊，伊朗在軍事、國防、政治乃至經濟等各個層面都已達到新的高度。
-
----
-
-### 2026-06-12 13:50:47  #國際
-
-【外交部副部長馬朝旭應邀出席美國駐華使館獨立日招待會】2026年6月10日，外交部副部長馬朝旭應邀出席美國駐華使館舉辦的美國獨立日招待會。馬朝旭祝賀美國獨立250週年，並同美駐華大使龐德偉就落實兩國元首重要共識、共同推進中美建設性戰略穩定關係進行交流。
 
 ---
