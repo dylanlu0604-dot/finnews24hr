@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-15 06:52:01",
-  "count": 18386,
+  "updated": "2026-06-15 06:55:57",
+  "count": 18382,
   "items": [
+    {
+      "id": "4934914",
+      "time": "2026-06-15 06:54:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長稱，基輔洞窟修道院遭空襲後起火。"
+    },
+    {
+      "id": "mkt:019ec857-011b-7dd8-aff8-9b06333a6f7c",
+      "time": "2026-06-15 06:53:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says gains far exceed commitments】Iran’s deputy foreign minister Gharibabadi said the Islamabad memorandum (an Iran–U.S. understanding) has been finalized and will be signed in Switzerland on June 19. He said two measures take effect immediately from this morning: an immediate, permanent end to hostilities on all fronts, including Lebanon, and the U.S. lifting and terminating its maritime blockade of Iran. Iranian commitments will begin on signing; after a ceasefire, U.S. lifting of the blockade and frozen Iranian assets begin to thaw, both sides will enter a 60‑day negotiation period to finalise an agreement covering nuclear issues, U.S. sanctions relief, reconstruction of Iran’s economic mechanisms and verification arrangements. Gharibabadi warned Iran will respond if the other side defaults and said Iranian forces remain “finger on the trigger.” Iran’s Supreme National Security Council will issue a related statement; Iran said its gains far exceed its commitments."
+    },
     {
       "id": "mkt:019ec854-c720-7dd8-aff8-94441fe82636",
       "time": "2026-06-15 06:50:59",
@@ -169006,69 +169026,6 @@
         "國際"
       ],
       "text": "市場資訊：以色列總理內塔尼亞胡在與特朗普的通話中試圖反對“不對伊朗進行報復的要求”，但最終還是接受了。"
-    },
-    {
-      "id": "mkt:019ea44c-31f0-7ee0-86d4-ab86724e4c40",
-      "time": "2026-06-08 06:55:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said he has informed British Prime Minister Starmer of the need to increase missiles for Ukraine’s air-defense systems."
-    },
-    {
-      "id": "4922341",
-      "time": "2026-06-08 06:54:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我已告知英國首相斯塔默，烏克蘭需要增購防空系統所用導彈。"
-    },
-    {
-      "id": "mkt:019ea44a-f4bc-7ee0-86d4-a2319eb990bd",
-      "time": "2026-06-08 06:53:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Al Jazeera, citing Israel’s Channel 12, reported Netanyahu tried to oppose Trump’s \"request not to retaliate against Iran\" on a call but ultimately accepted it."
-    },
-    {
-      "id": "4922340",
-      "time": "2026-06-08 06:53:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦訊息人士透露，美伊談判結果非此即彼，要麼迅速達成協議，要麼徹底破裂。"
-    },
-    {
-      "id": "te:markets:557028",
-      "time": "2026-06-08 06:53:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Start the Week Lower — The NZX 50 fell 204 points, or 1.6%, to 12,958 in Monday morning trading, halting gains from the previous session and touching its lowest level since May 22, tracking a downbeat session on Wall Street on Friday due to a steep selloff in semiconductor shares. Worries about the possibility of renewed tensions between the US and Iran also pressured sentiment after Iran struck Israel, though US President Trump called on Israeli Prime Minister Netanyahu not to retaliate against Iran. Traders also awaited the release of US inflation data and China's inflation and trade balance figures, as well as New Zealand business PMI data later this week. Industrials, financial, healthcare, and utilities stocks mainly weighed on the index, with notable losses from Auckland International Airport (-2.8%), Fletcher Building (-1.9%), Infratil (-1.8%), Mainfreight (-1.6%), and Ebos Group (-1.5%), while Fisher & Paykel Healthcare and Freightways Group each dropped 1.3%."
-    },
-    {
-      "id": "mkt:019ea449-9bf6-7ee0-86d4-9ef0b1c6c88c",
-      "time": "2026-06-08 06:52:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【This week: US and China CPI, ECB and BOC meetings; SpaceX IPO; Apple and Huawei developer events】Tuesday — China releases May trade balance; Germany posts April seasonally adjusted trade balance and monthly industrial output; US reports April trade balance, NFIB small-business survey, ADP payrolls and May existing-home sales. Apple WWDC runs through June 13. Wednesday — US releases May CPI; API and EIA weekly crude inventories and EIA short-term energy outlook due; China slated to publish May CPI, PPI and M2 (timing TBA). BOC interest-rate decision with governor and senior deputy governor press briefing. Oracle reports quarterly results. Thursday — US initial jobless claims and May PPI; EIA weekly natural gas inventory; US 10-year Treasury auction. ECB rate decision and press conference; OPEC monthly report. Friday — Germany and France release May CPI; UK posts April three‑month GDP, manufacturing output and industrial production. US preliminary 1‑year inflation expectation and University of Michigan consumer sentiment (prelim). Friday events: Huawei developer conference; SpaceX IPO on Nasdaq. Saturday — Baker Hughes US rig count for week to June 12."
     }
   ]
 }
