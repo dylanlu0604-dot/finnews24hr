@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-14 20:30:04",
-  "count": 18276,
+  "updated": "2026-06-14 20:34:18",
+  "count": 18278,
   "items": [
+    {
+      "id": "4934467",
+      "time": "2026-06-14 20:32:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長：大眾汽車計劃在年底前裁員1.9萬人，旨在提高效率和降低成本，以應對行業挑戰。"
+    },
+    {
+      "id": "mkt:019ec61e-9ae3-7dd8-aff1-a45b97f47c7e",
+      "time": "2026-06-14 20:32:34",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Volkswagen CEO said the company plans to cut 19,000 jobs by year-end to improve efficiency and reduce costs amid industry challenges."
+    },
+    {
+      "id": "4934466",
+      "time": "2026-06-14 20:32:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國前總理說美領導力崩塌】在美國有線電視新聞網（CNN）6月12日釋出的採訪中，法國前總理德維爾潘表示，當前正見證美國與以色列干預海灣地區產生的後續影響。他以 “地緣政治劇烈動盪” 形容當前局勢，稱相關重大事件正引發連鎖反應，美國的領導力正如同 “核心反應堆徹底熔燬” 一般出現崩塌。他同時指出，當前局面已進入無人可完全掌控的狀態：戰爭會催生更多戰爭，單次干預將引發更多幹預。德維爾潘表示，千百年的歷史經驗表明，和平無法透過武力與威脅實現。（CCTV國際時訊）"
+    },
+    {
+      "id": "4934465",
+      "time": "2026-06-14 20:31:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：貝魯特空襲阻礙美伊協議敲定，外交官稱以色列蓄意破壞】據福克斯新聞報道，一位參與談判的外交官透露，今天在黎巴嫩貝魯特發生的空襲給（美伊）協議的最終敲定帶來了麻煩。該外交官還表示：“這是以色列試圖破壞特朗普總統的協議、並將美國拖回戰爭的明顯企圖。”一位以色列高階官員則駁斥了以色列應對此次交火負責的說法。該官員稱：“過去三天來，真主黨的襲擊一直以以色列平民為目標。”"
+    },
+    {
+      "id": "mkt:019ec61c-1841-7dd8-aff1-99041ee0157a",
+      "time": "2026-06-14 20:29:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【US media: Beirut airstrike complicates U.S.-Iran deal finalization, diplomat says Israel tried to sabotage】Fox News reports a diplomat involved in the talks said today's airstrike in Beirut has complicated finalizing a U.S.-Iran agreement, adding 'this is Israel trying to sabotage President Trump's deal and drag the U.S. back into war.' An Israeli senior official denied Israel was responsible and said Hezbollah's attacks over the past three days targeted Israeli civilians."
+    },
+    {
+      "id": "4934464",
+      "time": "2026-06-14 20:29:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：貝魯特空襲事件致使伊美協議的敲定工作陷入困境。"
+    },
     {
       "id": "mkt:019ec619-e78f-7dd8-aff1-91ed36040379",
       "time": "2026-06-14 20:27:26",
@@ -168100,40 +168155,6 @@
         "其他"
       ],
       "text": "【江蘇省長劉小濤在南京調研衛生健康工作】6月5日，江蘇省長劉小濤在南京市調研衛生健康工作。在省疾控中心，劉小濤詳細瞭解應急裝備配備、傳染病監測預警情況。他要求高標準構建現代化疾控體系，常態化做好應急處置能力儲備，加快建成公共衛生垂直大模型和高質量資料集，以數智手段實現疾病防控早發現、早預警、早處置，更好守護人民群眾身體健康。（微訊江蘇）"
-    },
-    {
-      "id": "4921945",
-      "time": "2026-06-07 20:33:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國道247線九寨溝縣境內發生一起車禍致6人死亡】記者從四川九寨溝縣委宣傳部獲悉，6月7日上午，國道247線四川九寨溝縣至甘肅文縣段，一輛實載6人的麵包車與一輛貨車相撞，造成3人當場死亡，3人經搶救無效死亡。目前事故調查和善後工作正在進行中。（央視新聞）"
-    },
-    {
-      "id": "4921944",
-      "time": "2026-06-07 20:32:38",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：美國強勁非農引發加息預期，金屬板塊再臨考驗】中信建投研報稱，美國5月非農資料爆表，引發年內加息預期上升，權益市場遭受考驗。本週工業金屬權益標的再次遭遇普遍拋售，與保持堅挺的工業金屬價格形成鮮明對比。金屬價格堅挺意味著基本面優異，分子端盈利水平保持高位，但股票不斷下跌將PE壓低到很低的水平，凸顯了當前交易風格的極致。霍爾木茲海峽通航打斷高油價—高通脹—高無風險利率的螺旋，是最有利於工業金屬反彈的情形。另外，交易籌碼若重新分配，基本面優異的金屬不失為資金的優先選項。"
-    },
-    {
-      "id": "mkt:019ea211-7ed9-7ee0-86cf-4bfbf5eaa54c",
-      "time": "2026-06-07 20:31:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S.-drafted IAEA Board of Governors resolution emphasizes that Iran's NPT safeguards agreement cannot be unilaterally modified or suspended."
-    },
-    {
-      "id": "4921943",
-      "time": "2026-06-07 20:31:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九州通醫藥集團與海南醫科大學、海口國際投資促進局舉行座談會】6月6日，九州通醫藥集團與海南醫科大學、海口國際投資促進局在集團總部舉行座談會。此前，九州通與海醫大、海口市已進行多輪深入對接，三方就共建大健康產業協同創新平臺達成戰略合作意向，此次座談標誌著三方合作從謀劃進入實際落地階段。"
     }
   ]
 }
