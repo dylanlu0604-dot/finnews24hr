@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-14 17:07:20",
-  "count": 18280,
+  "updated": "2026-06-14 17:11:16",
+  "count": 18285,
   "items": [
+    {
+      "id": "mkt:019ec565-b833-7dd8-aff0-252cb9b2735c",
+      "time": "2026-06-14 17:10:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tianfeng Securities: fifth electronic-cloth price hike this year takes effect; AI chain sustains glass-fiber strength】Tianfeng Securities says the fifth electronic-cloth price increase this year has taken effect. AI-driven demand is extending glass-fiber sector strength, and under the current price backdrop a cyclical recovery in glass fiber is underway. The core driver is a structural uplift in downstream demand. Electronic yarn, the raw material for electronic cloth, has a long expansion cycle, and new high-end electronic-cloth capacity will take time to come online."
+    },
+    {
+      "id": "mkt:019ec564-5691-7dd8-aff0-1ecceac13191",
+      "time": "2026-06-14 17:09:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Ukraine says it struck strategic Russian fuel depot; Moscow gives no immediate response】On June 14 the Ukrainian Security Service (SBU) said its Alpha special operations centre, acting on President Zelensky's orders, used drones to strike a state reserve fuel depot in Rybinsk, Yaroslavl region — more than 700 km from Ukraine's border. The SBU said the depot is part of Russia's national material reserve system, stores fuels and lubricants, and supplies northeast Russia and military strategic fuel reserves. The strike ignited large fires; among more than 60 tank areas the SBU reported at least three major blaze points. The SBU said fuel supply, refining and fuel-logistics infrastructure inside Russia are lawful targets because they provide resources to the Russian military. Moscow did not immediately respond."
+    },
+    {
+      "id": "4934360",
+      "time": "2026-06-14 17:08:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱打擊俄境內戰略油庫 俄方暫無回應】當地時間6月14日，烏克蘭國家安全域性釋出訊息稱，該局下屬“阿爾法”特種作戰中心遵照烏總統澤連斯基指令，使用無人機打擊俄羅斯雅羅斯拉夫爾州雷賓斯克市國家儲備油庫。烏方表示，該油庫距烏國境線超700公里，隸屬俄國家物資儲備體系，儲存各類燃油、潤滑材料，承擔俄東北部燃油供應及軍方戰略燃油儲備職能。無人機命中後油庫燃起大火，60餘個儲罐區內至少出現三處大型起火點。烏國家安全域性同時表態，俄境內供油、煉油及燃油物流基礎設施，均為烏方合法打擊目標，此類設施為俄軍提供作戰資源，支撐俄方對烏開展軍事行動。俄方對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "4934359",
+      "time": "2026-06-14 17:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍要求黎巴嫩南部16個村鎮居民撤離】以色列國防軍阿拉伯語發言人14日透過社交媒體向黎巴嫩南部16個村鎮的居民發出撤離警告，稱即將在那裡採取“強力行動”。以軍宣告說，由於黎巴嫩真主黨“違反停火協議”，以軍將對黎巴嫩南部16個村鎮進行打擊，要求當地居民立即撤離。以軍當天稍早時通報稱，以色列北部多個地區拉響防空警報，警告有“敵機入侵”，隨後兩架“可疑空中目標”落入以黎臨時邊界以色列一側境內。以軍稱暫未收到人員傷亡報告，正在進行調查。（新華社）"
+    },
+    {
+      "id": "4934358",
+      "time": "2026-06-14 17:07:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天風證券：電子布年內第五輪漲價落地 AI鏈拉動玻纖景氣延續】天風證券指出，電子布年內第五輪漲價落地，AI鏈拉動玻纖景氣延續漲價背景下，玻纖行業週期性復甦已在路上。本輪電子布漲價的核心驅動力，來自下游需求的結構性抬升。電子紗（電子布的原材料）擴產週期同樣較長，高階電子布產能落地尚需時間。"
+    },
+    {
+      "id": "mkt:019ec562-a16c-7dd8-aff0-16033286267b",
+      "time": "2026-06-14 17:07:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution"
+      ],
+      "text": "【Ant Group secretly testing AI version of Alipay】Ant Group is secretly testing an AI-enabled Alipay that overhauls user interaction and provides a one-click native AI interface to link services with intelligent funds management. Public launch timing is unspecified; Ant Group declined to comment."
+    },
     {
       "id": "4934357",
       "time": "2026-06-14 17:05:25",
@@ -168139,14 +168195,6 @@
         "MKT News"
       ],
       "text": "RUSSIAN DEFENCE MINISTRY said its air defences shot down 11 munitions, one HIMARS rocket and 500 Ukrainian military drones in a single day, and that Ukrainian forces lost more than 1,300 soldiers across the special military operation in the past 24 hours."
-    },
-    {
-      "id": "4921818",
-      "time": "2026-06-07 17:10:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：過去24小時內俄羅斯擊落500架烏克蘭無人機。"
     }
   ]
 }
