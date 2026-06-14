@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-15 05:41:23_
-_本檔包含 3796 則快訊，約 661298 字_
+_更新時間：2026-06-15 06:36:10_
+_本檔包含 3761 則快訊，約 661824 字_
+
+---
+
+### 2026-06-09 09:24:30  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #Hang Seng Index #CSI300
+
+MSCI Asia-Pacific index rose 1%.
+
+---
+
+### 2026-06-09 09:23:27  #市場
+
+MSCI亞太指數上漲1%至267.27點。
+
+---
+
+### 2026-06-09 09:22:56  #焦點
+
+港股開盤，恒生指數低開0.43％，恒生科技指數低開0.26％。
+
+---
+
+### 2026-06-09 09:22:40  #央行 #中國央行
+
+【央行今日開展1530億元7天逆回購操作】央行今日開展1530億元7天逆回購操作，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-06-09 09:22:36  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hong Kong's HSI opened down 105.13 points (-0.43%) at 24,551.93 on Tuesday, June 9; the Hang Seng Tech Index opened down 12.39 points (-0.26%) at 4,743.52; the HSCEI opened down 27.80 points (-0.33%) at 8,313.56; the Red Chip Index opened down 21.48 points (-0.50%) at 4,313.91.
+
+---
+
+### 2026-06-09 09:22:08  #央行 #其他
+
+央行公開市場今日淨投放1,528.0億元人民幣。
+
+---
+
+### 2026-06-09 09:21:43  #公司
+
+【天振股份：公司尚未發生因關稅原因導致壓價、縮減採購訂單計劃】天振股份6月9日在互動平臺回覆稱，公司尚未發生因關稅原因導致的壓價、縮減採購訂單計劃。
+
+---
+
+### 2026-06-09 09:21:34  #MKT News #Important #Market Regions #Greater China
+
+PBOC conducted CNY153 bln 7-day reverse repo today; bids CNY153 bln, allotment CNY153 bln; rate 1.40%, unchanged.
+
+---
+
+### 2026-06-09 09:21:31  #央行 #其他
+
+央行今日開展1530億元7天逆回購操作，投標量1530億元，中標量1530億元，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-06-09 09:20:42  #MKT News #Important #Commodities #Precious Metals
+
+Shanghai silver main contract fell 2.00% intraday, trading at 16,281 yuan/kg.
+
+---
+
+### 2026-06-09 09:20:37  #其他
+
+【全國小麥收穫進度已近六成半】農業農村部小麥機收進度顯示，目前，全國小麥收穫進度已近六成半。安徽今年“三夏”小麥搶收任務基本完成。據農業農村部最新小麥機收進度，截至6月8日17時，全國已收穫夏糧小麥2.19億畝，收穫進度64.6%。安徽麥收基本完成，河南過九成半，江蘇過七成，山東過三成半，陝西近三成，河北、山西過一成。目前，麥收地區大部天氣晴好，溫度較前一日有所回升，華北地區組織統籌排程機具有序推進成熟小麥收曬，機收前沿已推進至河北邢臺到山東淄博一線。氣象部門預計6月9日到11日，麥收地區大部天氣晴好，利於小麥灌漿成熟和收穫晾曬。有關省份應加強機具檢修保養，引導跨區作業機具及時轉移到位，保障小麥適期收穫，同時加力推廣高效能播種機，切實提高下茬作物機播質量。（央視新聞）
+
+---
+
+### 2026-06-09 09:20:03  #其他
+
+【商務部召開“新三樣”固廢回收利用工作座談會】6月5日，商務部召開“新三樣”固廢回收利用工作座談會。會議強調，以實際行動抓好“新三樣”固廢回收利用體系建設。堅持精準指導、分類施策，針對動力電池、光伏元件、風機裝置產業發展階段和回收利用特點，採取差異化、精準化措施，有效解決回收利用拆解問題。堅持科技引領、技術賦能，積極推進“新三樣”固廢回收利用相關技術基礎研發，促進人工智慧在回收利用環節的融合與運用。堅持試點探索、鼓勵先行，繼續開展再生資源回收體系建設試點工作，鼓勵產業集聚地區和龍頭企業先行先試，提升回收效率，增強分揀能力，促進回收行業高質量發展。（商務部）
+
+---
+
+### 2026-06-09 09:19:57  #MKT News #Market Regions #Greater China
+
+【MOFCOM holds meeting on recycling of 'new three' solid-waste categories】June 5 — MOFCOM convened a working meeting on building a recycling and reuse system for the 'new three' solid-waste categories: power batteries, PV modules and wind-turbine equipment. It called for differentiated, stage- and product-specific measures to resolve dismantling and recycling bottlenecks; for tech-led policy to advance foundational R&D and promote AI integration across recycling processes; and for continued pilot projects, encouraging industrial clusters and leading firms to trial solutions that raise recovery efficiency, strengthen sorting capacity and support higher-quality development of the recycling sector.
+
+---
+
+### 2026-06-09 09:19:25  #公司 #觀點
+
+【中信證券：重視資料鏈及軟硬一體AI Infra產業機遇】中信證券研報稱，在大模型重塑傳統軟體開發過程的背景下，資料庫作為軟體層AI Infra的地位難以被替代；提供算力硬體和算力排程服務軟體的軟硬一體Infra公司值得重視；同時作為大模型伴生行業，從事資料採集、標註、清洗及上層應用、知識圖譜開發的公司有望迎來專案爆發機遇。建議重點關注資料庫、軟硬一體Infra及資料服務產業鏈公司。
+
+---
+
+### 2026-06-09 09:19:12  #市場 #焦點
+
+白銀連續主力合約日內跌2%，現報16281.00元。
+
+---
+
+### 2026-06-09 09:18:17  #公司
+
+三菱扶桑卡車與巴士公司將於七月臨時關閉其葡萄牙工廠，並於九月恢復生產。
+
+---
+
+### 2026-06-09 09:18:01  #公司
+
+Perplexity執行長表示， 計劃於2028年進行首次公開募股。
+
+---
+
+### 2026-06-09 09:17:58  #MKT News #Important #Market Themes #AI Revolution #APO.O #BX.O
+
+Financial Times reports Apollo and Blackstone have agreed a $35 bln private credit deal to fund Anthropic's growth plans.
+
+---
+
+### 2026-06-09 09:16:22  #國際
+
+【西班牙呼籲中東衝突方透過對話令局勢降溫】西班牙政府當地時間8日發表宣告，敦促衝突各方切實遵守停火承諾，不要再次訴諸暴力行為，危及平民、關鍵民用基礎設施以及破壞地區穩定。西班牙政府重申，對話與外交是解決該地區問題的唯一途徑。當前必須立即緩和局勢，透過對話達成解決方案，從而結束這場衝突，並推動中東實現持久和平與穩定。
+
+---
+
+### 2026-06-09 09:15:48  #MKT News #Hang Seng Index #Impact bearish
+
+Hang Seng futures opened the day session down 0.23% at 24,507, trading 150 points below the cash index.
+
+---
+
+### 2026-06-09 09:15:23  #市場
+
+【人民幣兌美元中間價報6.8147，較上日調高51點】人民幣兌美元中間價報6.8147，較上日調高51點。
+
+---
+
+### 2026-06-09 09:15:19  #市場
+
+人民幣兌美元中間價報6.8147元。
+
+---
+
+### 2026-06-09 09:15:02  #市場
+
+恒指期貨日盤開盤跌0.19%，報24517.80點，低水139.26點。
+
+---
+
+### 2026-06-09 09:14:54  #公司
+
+【天振股份：公司尚未發生因關稅原因導致的壓價、縮減採購訂單的計劃】天振股份6月9日在互動平臺表示，公司尚未發生因關稅原因導致的壓價、縮減採購訂單的計劃。公司持續關注國際貿易政策變化，並結合市場情況積極做好經營安排。
+
+---
+
+### 2026-06-09 09:14:27  #其他
+
+【應急管理部調派工程應急救援隊伍緊急馳援重慶合川搶險一線】6月6日至7日，重慶市合川區遭遇強降雨天氣，雨勢猛、強度大、範圍廣，部分中小河流超警戒水位，城區路段積水嚴重。汛情發生後，應急管理部立即調派前置駐防在重慶地區的中國安能工程應急救援隊伍攜帶大功率排澇裝備，於6月7日中午抵達合川地區重點積水點位開展專項抽排水作業，全力保障人民群眾生命和財產安全。5月底，應急管理部聚焦西南、黃淮、江淮等地汛情發生較常年偏早，重慶、貴州、湖南等地區出現極端暴雨，洪澇和地質災害多發的實際，及時調整納入國家工程救援服務的相關救援力量主汛期駐防備勤計劃，安排機動力量250人攜帶專業裝備提前進駐上述重點地區備勤點，在重慶、湖南等地搶險救援任務中發揮重要作用。截至目前，共計抽組機動力量600人、370臺（套）裝備，進駐湖北、安徽、湖南、重慶、貴州、江西、廣東、廣西、福建等9個省份開展駐防備勤，隨時響應各地重大搶險救援任務。
+
+---
+
+### 2026-06-09 09:14:25  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks Under Pressure — Australian shares slumped 107 points or 1.2% to 8,518 in early Tuesday trade, marking a third straight decline and their weakest level in nearly three weeks. Losses were broad, led by electronic tech, non-energy minerals, utilities, and industrial services. Investors returned from a long weekend amid a sharp drop in U.S. equity futures, even after Wall Street posted gains overnight as the sell-off in tech eased. Sentiment was further clouded by renewed Middle East tensions and caution ahead of China’s trade data later today. Locally, consumer confidence fell 3.5% in June, reversing May’s strength and logging its fourth decline this year, with inflation pressures still the main drag. Still, weakness was capped by solid trade performance in April, with the balance swinging to surplus amid a rebound in exports. Heavyweights BHP Group (-3.0%), Northern Star Resources (-4.9%), and Evolution Mining (-7.3%) were among the worst performers, while the four big banks fell between 1.6% and 2.4%.
+
+---
+
+### 2026-06-09 09:13:33  #其他
+
+【葛蘭素史克擬斥資超90億美元收購癌症藥物生產商Nuvalent】據報道，葛蘭素史克正洽談斥資超90億美元收購癌症藥物生產商Nuvalent，雙方目標在本週內達成協議。
+
+---
+
+### 2026-06-09 09:13:19  #公司
+
+【今日起，上海市汽車以舊換新補貼調整為即時搖號】上海市汽車以舊換新補貼調整為即時搖號。6月8日夜間，上海市商務委釋出《關於調整2026年上海市汽車以舊換新補貼活動搖號方式的公告》。《公告》稱，自2026年6月9日至2026年9月30日，符合條件的個人消費者可在每日7：00-22：00透過“上海商務”微信公眾號“政務服務-汽車以舊換新補貼申請”入口，報名參加即時搖號。
+
+---
+
+### 2026-06-09 09:12:33  #國際
+
+【日本財務大臣稱該國正在進行1945年以來最大規模的預算改革】日本財務大臣片山皋月表示，該國目前正經歷二戰結束以來最大規模的預算改革。“至於預算制度改革，這顯然是戰後最大規模的改革，”片山表示。“這就是我們對此所做的承諾。”片山發表這番言論之際，距離日本透過一項3.1萬億日元（194億美元）的補充預算案僅數日，該預算案中包含一項新設立的2.5萬億日元儲備基金，旨在應對中東衝突引發的通脹。日本首相高市早苗此前曾表示，政府將儘可能避免依賴補充預算。片山在記者會上表示，如有必要，政府將編制補充預算案以應對突發情況。
+
+---
+
+### 2026-06-09 09:11:03  #公司
+
+【Databricks洽談新一輪融資 估值超1650億美元】多位知情人士透露，資料庫管理軟體廠商Databricks正洽談新一輪融資，本輪融資或於下月啟動。公司向投資者表示，完成融資後估值有望達到1650億至1750億美元。該公司去年年底完成一輪融資，計入募資後估值為1340億美元，本次估值相較此前大幅提升。這家成立已有13年的企業多次推遲上市計劃，轉而持續開展私募融資，並安排現有股份轉讓。目前本輪融資的最終條款尚未敲定，暫不確定最新估值是否包含本次新增募資。
+
+---
+
+### 2026-06-09 09:10:31  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Prices Hold Steady — US gasoline futures barely moved below $3.10 per gallon, after giving up most of its gains in the previous session, as Israel and Iran agreed to halt mutual attacks following a recent surge in violence. Israeli Prime Minister Benjamin Netanyahu said Israel is currently suspending strikes on Iran but would retaliate if Tehran resumes hostilities, while Iranian media expressed a similar stance. The development kept hopes alive for a potential resumption of talks toward a broader ceasefire agreement in the Middle East. The Strait of Hormuz remained effectively constrained under a dual blockade involving Tehran and Washington, sharply limiting exports of distillate products from the region. Meanwhile, US gasoline inventories rose by more than 3 million barrels in the final week of May, ending a 15-week streak of declines. However, draws of around 8 million barrels each from private crude stocks and the SPR tempered the overall improvement in supply conditions.
+
+---
+
+### 2026-06-09 09:09:34  #公司
+
+【Perplexity執行長：無論Anthropic與OpenAI上市進展如何，公司均計劃2028年IPO】Perplexity執行長阿拉溫德・斯里尼瓦斯（Aravind Srinivas）表示，無論市場對Anthropic和OpenAI的上市反響如何，公司都計劃在2028年啟動上市。斯里尼瓦斯在週二播出的採訪中稱：“我們的上市規劃原本就定在2028年，與這兩家公司無關，目前該計劃保持不變。”斯里尼瓦斯此前就曾表示，公司2028年前暫無上市打算，此番表態進一步明確了上市時間規劃。斯里尼瓦斯在採訪中坦言：“如果這幾家企業上市遇冷，勢必會產生連鎖反應，這一點毋庸置疑。本週SpaceX的上市表現，也將成為判斷Anthropic和OpenAI上市走勢的重要先行指標。”
+
+---
+
+### 2026-06-09 09:09:08  #央行 #美聯儲
+
+【破4%？美國5月CPI料繼續加速 美聯儲如何應對】當地時間週三（10日），美國勞工部將釋出5月消費者價格指數（CPI）資料包告。市場普遍預期，中東衝突推高能源價格的影響將進一步顯現，美國通脹水平或攀升至4%以上。
 
 ---
 
@@ -22472,413 +22670,5 @@ OpenAI執行長奧特曼表示，在企業普遍收緊預算的背景下，企�
 ### 2026-06-08 06:36:11  #國際
 
 葉門胡塞武裝宣稱，以色列的侵略時代已然終結，並表示該政權只認同武力。
-
----
-
-### 2026-06-08 06:30:39  #其他
-
-中國駐沙特大使館：提醒在沙特中國公民注意安全。
-
----
-
-### 2026-06-08 06:30:01  #MKT News
-
-【Zelenskiy confirms meeting with Russian businessman Abramovich】Ukrainian President Zelenskiy said on the 7th he met Russian businessman Roman Abramovich and disclosed details: Abramovich traveled to Kyiv to deliver messages and to gather Ukrainian positions and demands to relay to Russian President Putin as an intermediary. Zelenskiy added Abramovich had preferred the meeting remain private.
-
----
-
-### 2026-06-08 06:27:39  #國際
-
-【澤連斯基證實曾與俄商人阿布拉莫維奇會面】當地時間7日，烏克蘭總統澤連斯基在接受採訪時，證實自己曾與俄羅斯商界人士阿布拉莫維奇會面，並公開了此次會面的相關細節。澤連斯基透露，阿布拉莫維奇曾專程前往基輔，向他轉達訊息，並希望收集烏方立場與訴求，再代為轉交俄羅斯總統普京，充當雙方溝通傳話的中間人。此外他補充表示，阿布拉莫維奇本人此前並不希望此次雙邊會面的相關事宜對外公開。（央視新聞）
-
----
-
-### 2026-06-08 06:24:54  #市場 #焦點 #國際
-
-【受特朗普表態訊息影響，原油漲幅有所收窄】特朗普稱，伊朗襲擊以色列不會影響雙方達成協議的程序，此後WTI原油、布倫特原油期貨小幅回落。布倫特原油此前一度觸及每桶96.47美元，現漲幅為2.7%，報約95.50美元/桶。標普500股指期貨跌幅收窄至0.1%，此前最大跌幅達0.6%。
-
----
-
-### 2026-06-08 06:21:10  #其他
-
-亞美尼亞總理尼科爾·帕希尼揚宣佈在議會選舉中獲勝。
-
----
-
-### 2026-06-08 06:20:29  #焦點 #國際
-
-【特朗普稱以色列只能接受美伊協議】據英國《金融時報》報道，美國總統特朗普在接受其採訪時表示，以色列總理內塔尼亞胡將“別無選擇，只能接受美國與伊朗談判達成的任何協議”，因為美國總統才是“說了算的人”。 特朗普在接受電話採訪時說：“他（內塔尼亞胡）將別無選擇，我說了算，一切都由我說了算，他（內塔尼亞胡）說了不算。”特朗普發表這番言論時，伊朗剛剛向以色列發射了導彈。他告訴《金融時報》：“這不會對協議產生任何影響，不會影響到我，我們拭目以待最終結果。那些（針對以色列的導彈）襲擊也根本沒造成什麼實質性後果。”（CCTV國際時訊）
-
----
-
-### 2026-06-08 06:20:05  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【Trump tells Netanyahu he must accept any US‑Iran deal, says 'I decide'】Trump told the Financial Times in a phone interview that Netanyahu will have no choice but to accept any US‑Iran deal negotiated by the United States, asserting "I decide" and that Netanyahu does not. He said Iran's Sunday strike has not changed his willingness to reach an agreement. Asked what would happen if a deal "failed on its own merits," Trump said he would consider either sending US forces into Iran to resolve outstanding issues or sustaining a blockade, which he suggested could be more powerful than an attack.
-
----
-
-### 2026-06-08 06:19:47  #國際
-
-特朗普稱，伊朗襲擊以色列的行為不會對相關談判造成影響。
-
----
-
-### 2026-06-08 06:19:23  #焦點 #國際
-
-【特朗普：如果談判失敗，可能會考慮對伊朗發動突襲】當被問及若此類協議本身未能達成會作何打算時，美國總統特朗普表示，他將考慮對伊朗發動突擊隊突襲。他說：“這意味著兩種可能的行動：第一，我們或許會出兵，以軍事手段解決此前尚未處理的目標；或者，我們將維持對伊朗的封鎖，因為封鎖的威力或許比以往任何針對該國的襲擊都更具效果。”
-
----
-
-### 2026-06-08 06:17:56  #國際
-
-以色列一名官員表示：以色列必將對伊朗的襲擊展開反擊，只是不會立即行動。
-
----
-
-### 2026-06-08 06:15:59  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #S&P500 #WTI #Impact bearish
-
-Spot gold and US equity index futures rose modestly; WTI crude slipped slightly.
-
----
-
-### 2026-06-08 06:15:45  #國際
-
-【以色列國防部稱將關閉加沙地帶過境點】以色列國防部負責協調向加沙地帶運送援助物資的“領土內政府活動協調辦公室”表示，在伊朗對以色列發動襲擊後，出於必要安全考慮，加沙地帶過境點將被關閉，其中包括最主要的凱雷姆·沙洛姆過境點和拉法過境點。（央視新聞）
-
----
-
-### 2026-06-08 06:15:17  #市場 #焦點
-
-以太坊升破1700美元，日內漲8.42%。
-
----
-
-### 2026-06-08 06:14:47  #市場 #焦點
-
-比特幣升破63000美元，日內漲3.64%。
-
----
-
-### 2026-06-08 06:14:13  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-US President Trump said he would consider a strike on Iran if any agreement fails.
-
----
-
-### 2026-06-08 06:14:12  #國際
-
-特朗普：一切由我做主，所有事都我說了算，內塔尼亞胡做不了主。
-
----
-
-### 2026-06-08 06:13:48  #其他
-
-一架私人飛機在多明尼加共和國拉羅馬納國際機場緊急降落時墜毀。
-
----
-
-### 2026-06-08 06:12:52  #焦點 #國際
-
-當被問及如果任何此類協議“憑其自身條款”未能達成將會出現何種局面時，特朗普表示，他會考慮對伊朗發動突襲。
-
----
-
-### 2026-06-08 06:11:56  #MKT News #Important #XAUUSD #Impact bearish #DXY #WTI
-
-US President Trump said he is the final decision-maker and that Netanyahu does not determine outcomes; Iran's attack has not changed his willingness to reach an agreement.
-
----
-
-### 2026-06-08 06:11:27  #國際
-
-特朗普表示，伊朗的打擊行動並未改變他想要促成美伊談判達成結果的意願。
-
----
-
-### 2026-06-08 06:11:19  #國際
-
-【以軍將回應伊朗導彈襲擊】據《耶路撒冷郵報》今天（6月8日）援引訊息人士報道稱，以色列將對伊朗的攻擊作出回應，但其規模和時間尚未確定。
-
----
-
-### 2026-06-08 06:10:25  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
-
-US President Trump said Israeli Prime Minister Netanyahu will have 'no choice' but to accept a deal with Iran.
-
----
-
-### 2026-06-08 06:09:59  #焦點 #國際
-
-特朗普稱，內塔尼亞胡將“別無選擇”，只能接受與伊朗達成的協議。
-
----
-
-### 2026-06-08 06:09:22  #市場 #央行 #焦點 #國際
-
-【伊朗發動襲擊後油價大漲，美國股指期貨跌幅擴大】亞洲早盤時段，受伊朗向以色列發射導彈影響，市場擔憂中東衝突持續並進一步升級，西德克薩斯輕質原油與布倫特原油漲幅均超3%。由於今年美聯儲加息機率上升，標普500、納斯達克100股指期貨上週五已走低，今日再度下跌，跌幅均超0.3%。
-
----
-
-### 2026-06-08 06:09:12  #MKT News #Commodities #Precious Metals
-
-Spot silver fell 1.00% intraday to $67.20/oz.
-
----
-
-### 2026-06-08 06:09:06  #市場
-
-現貨白銀日內跌1%，現報67.06美元/盎司。
-
----
-
-### 2026-06-08 06:08:36  #國際
-
-日本金融廳擬針對資本金不足問題提前下達監管指令。
-
----
-
-### 2026-06-08 06:08:11  #MKT News
-
-Iran's foreign minister held a phone call with Saudi Arabia's foreign minister, the Iranian Students' News Agency reported.
-
----
-
-### 2026-06-08 06:06:35  #市場
-
-鈀金期貨日內跌2%，現報1236.80美元/盎司。
-
----
-
-### 2026-06-08 06:05:49  #市場 #焦點 #國際
-
-【油價跳漲：伊朗襲擊以色列，停火協議岌岌可危】伊朗向以色列發射多輪導彈，和談陷入僵局、脆弱停火瀕臨破裂，國際油價反彈上漲。布倫特原油漲幅最高達3.6%，觸及每桶96.47美元；WTI原油逼近每桶94美元。一名伊朗軍事顧問表示，此次襲擊是對以色列的警告，要求其“停止在黎巴嫩的敵對行動”；以色列軍方稱已攔截所有來襲導彈。襲擊發生後，美國總統特朗普敦促伊朗重返談判，並批評以色列週日對貝魯特的空襲；他表示，將施壓以色列總理內塔尼亞胡不要採取報復行動。過去一週，中東地區敵對行動頻發，脆弱停火瀕臨崩潰，和平談判愈發複雜。衝突已導致關鍵的霍爾木茲海峽近乎關閉，全球原油、成品油及天然氣供應鏈受阻。
-
----
-
-### 2026-06-08 06:03:17  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell $20 intraday to a low of $4,311/oz.
-
----
-
-### 2026-06-08 06:02:36  #市場 #焦點
-
-紐約期金失守4340美元/盎司，日內跌0.59%。
-
----
-
-### 2026-06-08 06:02:16  #市場
-
-標普500股指期貨早盤下跌約0.6%；納斯達克100股指期貨下跌約0.7%。
-
----
-
-### 2026-06-08 06:01:42  #市場 #焦點
-
-布倫特原油突破96美元/桶，日內漲3.15%。
-
----
-
-### 2026-06-08 06:01:40  #MKT News #Commodities #Precious Metals #XAUUSD
-
-Spot gold and silver opened flat on Monday.
-
----
-
-### 2026-06-08 06:01:30  #市場
-
-鈀金期貨日內跌1%，現報1240.14美元/盎司。
-
----
-
-### 2026-06-08 06:01:18  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI crude oil rose 2.8% at the open Monday after Iran carried out a "warning" strike on Israel over the weekend.
-
----
-
-### 2026-06-08 06:01:14  #其他
-
-益普索出口民調：秘魯總統選舉出口民調顯示桑切斯以49.3%的得票率位居第二。
-
----
-
-### 2026-06-08 06:01:13  #市場 #焦點
-
-布倫特原油日內漲3%，現報95.96美元/桶。
-
----
-
-### 2026-06-08 06:01:00  #市場
-
-標普500指數期貨下跌0.4%。
-
----
-
-### 2026-06-08 06:00:48  #其他
-
-益普索出口民調顯示：秘魯總統選舉出口民調結果顯示藤森得票率為50.7%，處於領先。
-
----
-
-### 2026-06-08 06:00:39  #市場 #焦點
-
-現貨黃金突破4330美元/盎司，日內漲0.08%。
-
----
-
-### 2026-06-08 06:00:37  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish #S&P500
-
-US equity index futures opened lower on Monday; Nasdaq futures fell 0.6%, S&P 500 futures fell 0.4%.
-
----
-
-### 2026-06-08 06:00:15  #市場 #焦點
-
-WTI原油失守92美元/桶，日內漲2.69%。
-
----
-
-### 2026-06-08 06:00:06  #市場
-
-WTI原油日內漲3%，現報93.28美元/桶。
-
----
-
-### 2026-06-08 06:00:06  #市場
-
-WTI原油日內漲2%，現報93.14美元/桶。
-
----
-
-### 2026-06-08 06:00:04  #市場 #焦點
-
-紐約期金突破4360美元/盎司，日內跌0.08%。
-
----
-
-### 2026-06-08 06:00:02  #市場
-
-紐約期銀日內跌2%，現報67.68美元/盎司。
-
----
-
-### 2026-06-08 06:00:01  #市場
-
-布倫特原油日內漲2%，現報95.79美元/桶。
-
----
-
-### 2026-06-08 05:59:20  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Israeli broadcaster i24 cites Iranian state television reporting that Iran says it has launched attack drones toward Israel; if launched the drones could reach Israeli territory within hours.
-
----
-
-### 2026-06-08 05:58:11  #其他
-
-中央氣象臺6月8日06時繼續釋出暴雨橙色預警。
-
----
-
-### 2026-06-08 05:56:57  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【After Iran fires at Israel, IDF says it will strike HEZBOLLAH hard in Lebanon】Late on the 7th the IDF said Iran fired missiles at Israel in what it called "a serious mistake" and that it will continue operations across Lebanon while intensifying strikes on HEZBOLLAH. The IDF said it will not allow Iran to create a new balance of forces, is prepared for further missile attacks and ready to retaliate. IDF Chief of Staff Zamir is assessing the situation and is expected to approve the next operational plan.
-
----
-
-### 2026-06-08 05:56:36  #國際
-
-【伊朗打以色列後 以軍稱將猛打黎巴嫩真主黨】以色列國防軍發言人埃菲·德弗林7日深夜說，伊朗當晚向以色列發射導彈是“一個嚴重錯誤”，以軍將繼續在黎巴嫩展開行動，並加大對黎真主黨的打擊力度。（新華社）
-
----
-
-### 2026-06-08 05:54:08  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為97%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為97%，累計降息25個基點的機率為3%。美聯儲到7月維持利率不變的機率為81.9%，累計加息25個基點的機率15.5%，累計降息25個基點的機率為2.5%。
-
----
-
-### 2026-06-08 05:53:46  #公司
-
-【慕尼黑機場因塔臺煙霧警報臨時關閉 現已恢復運營】德新社7日援引德國慕尼黑機場公司發言人訊息報道，慕尼黑機場當晚因塔臺出現疑似火情短暫停運，已於當地時間22時30分恢復運營。此前，慕尼黑機場宣佈暫時停止運營。“機場塔臺因聞到煙霧氣味，於20時33分疏散，”機場官網釋出宣告稱，“德國空中交通管制部門已暫停所有航班運營，直至另行通知。”大約兩小時後，部分航班恢復起飛。機場發言人表示，尚不清楚多少航班受到影響。據德新社報道，德消防部門正在評估此次事件，目前無法提供更多資訊。（新華社）
-
----
-
-### 2026-06-08 05:53:27  #其他
-
-馬斯克：並非好想法不重要，只是相較於落地執行，想法被高估了。登月這個構想很簡單，但真正實現登月卻很難。
-
----
-
-### 2026-06-08 05:52:11  #國際
-
-一名巴基斯坦訊息人士表示，巴方正加緊開展外交溝通，以維持中東地區停火狀態、避免局勢進一步升級。
-
----
-
-### 2026-06-08 05:50:40  #其他
-
-英國外交大臣庫珀表示：談判必須繼續推進，以達成持久解決方案，實現和平與穩定，並全面恢復全球貿易。
-
----
-
-### 2026-06-08 05:50:33  #公司 #國際
-
-【伊朗再襲以色列後美以領導人通話】以色列公共廣播公司今天（6月8日）報道稱，以色列總理內塔尼亞胡與美國總統特朗普結束通話後，正在與以色列安全官員進行緊急磋商。（ CCTV國際時訊）
-
----
-
-### 2026-06-08 05:50:05  #國際
-
-烏克蘭總統澤連斯基：俄羅斯富商阿布羅莫維奇已抵達基輔，並提出願提供幫助。
-
----
-
-### 2026-06-08 05:49:56  #國際
-
-烏克蘭總統澤連斯基在與歐盟三巨頭會晤後表示：讓歐洲在談判中保持強硬立場與話語權，一直是我們的優先要務。
-
----
-
-### 2026-06-08 05:49:46  #國際
-
-烏克蘭總統澤連斯基：我們的遠端打擊已取得成效，但防禦彈道導彈威脅“至關重要”。
-
----
-
-### 2026-06-08 05:49:33  #國際
-
-英國外交大臣庫珀：伊朗與以色列必須保持克制，立即緩和局勢。
-
----
-
-### 2026-06-08 05:49:29  #國際
-
-英國外交大臣庫珀：伊朗與以色列重啟衝突不符合任何一方的利益。
-
----
-
-### 2026-06-08 05:49:23  #MKT News
-
-UK foreign secretary said Iran and Israel must immediately show restraint and de-escalate tensions.
-
----
-
-### 2026-06-08 05:48:27  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-UK foreign secretary says renewed conflict between Iran and Israel would benefit no one.
-
----
-
-### 2026-06-08 05:47:19  #MKT News
-
-Al Arabiya reports Netanyahu and Trump held a 20-minute phone call.
-
----
-
-### 2026-06-08 05:45:20  #MKT News
-
-Ukraine President ZELENSKIY said Kyiv's long-range strikes are effective, but protection against ballistic threats is "extremely important".
 
 ---

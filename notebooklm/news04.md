@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-15 05:41:23_
-_本檔包含 3548 則快訊，約 661389 字_
+_更新時間：2026-06-15 06:36:10_
+_本檔包含 3550 則快訊，約 661900 字_
+
+---
+
+### 2026-06-10 11:53:44  #公司 #市場
+
+【微博稱：追覓創始人俞浩因拉踩企業等違規內容被多個平臺禁言】6月10日，微博官方賬號“圍脖俠”釋出訊息，就上週追覓創始人俞浩被該平臺禁言做出回應。其稱，經核實，賬號@俞浩-愛送黃金 被某企業投訴，其作為網路名人賬號以“喊話”等形式釋出質疑、拉踩企業的違規內容，因違反中央網信辦“清朗·最佳化營商網路環境整治惡意炒作涉企資訊”專項行動要求，在多個平臺被責令予以禁言處置。同日，追覓集團回應：專注公司發展，對上述內容不做回應。（大河財立方）
+
+---
+
+### 2026-06-10 11:53:21  #市場 #焦點
+
+南向資金淨買入額達60億港元。
+
+---
+
+### 2026-06-10 11:53:03  #MKT News
+
+AP projects Trump-backed Marty O'Donnell won the Republican nomination for the U.S. House in Nevada's 3rd Congressional District.
+
+---
+
+### 2026-06-10 11:52:20  #國際
+
+【古特雷斯：中東地區所有襲擊必須立即停止】聯合國秘書長古特雷斯當地時間9日在社交媒體發文，對中東局勢再度升級深感震驚。古特雷斯說，所有襲擊必須立即停止，黎巴嫩、伊朗和加沙地帶的停火必須得到充分尊重，任何可能破壞當前外交努力的舉動都必須避免。古特雷斯強調，中東問題沒有軍事解決方案，唯一的出路是對話與談判。古特雷斯敦促所有相關方努力尋求外交解決方案，以促進地區及國際和平與安全。
+
+---
+
+### 2026-06-10 11:52:04  #市場
+
+【6月10日午間漲停分析】創業板指半日跌2.29%，全市場下跌個股超4300只，算力硬體下挫、半導體板塊逆勢走強。天娛數科4連板，金安國紀、宗申動力3連板，一圖看懂>>
+
+---
+
+### 2026-06-10 11:51:40  #國際
+
+【民調顯示約三分之二美國人認為“美國夢”不成立】美聯社日前公佈一項民調結果顯示，約三分之二的美國人認為“美國夢”理念不成立，凸顯許多美國人對本國政府的未來感到不安，尤其是年輕人。據美聯社8日報道，美聯社-全國民意研究中心公共事務研究中心今年4月開展這項民調，共有2596名成年人參與。結果顯示，質疑“美國是機遇之地”這一說法的人很多。51%的美國成年人表示，“美國夢”——“只要努力工作就能出人頭地”的理念在過去是成立的，但如今不再成立。約三分之一的人認為“美國夢”“仍然成立”，另有15%的人表示，它從來就不成立。（新華社）
+
+---
+
+### 2026-06-10 11:51:02  #Trading Economics #Markets #India #Currency #Importance 1
+
+Indian Rupee Eases on Outflows — The Indian rupee hovered near 95.5, edging lower after recent gains driven by the Reserve Bank of India's measures to attract capital inflows. While the central bank's actions initially boosted sentiment and supported the currency, persistent headwinds have limited further appreciation. Market participants remained cautious as foreign investors continued reducing their holdings in Indian equities, while steady dollar demand from importers and corporate hedging activity kept pressure on the rupee. External factors also weighed on sentiment, with escalating geopolitical tensions in the Middle East pushing crude oil prices higher and raising concerns over India's import costs. Meanwhile, market attention is turning to upcoming US inflation data. Stronger-than-expected price pressures could reinforce expectations that the Federal Reserve will keep interest rates elevated for longer, bolstering the dollar and adding further pressure on emerging-market currencies, including the rupee.
+
+---
+
+### 2026-06-10 11:49:07  #國際
+
+【以軍威脅黎南部城鎮居民舉家撤離 】6月9日，以色列軍方對黎巴嫩南部城市提爾多地居民釋出了撤離警告，並表示將發動軍事打擊。當天，在提爾街頭，汽車排起了長隊，當地居民紛紛舉家撤離。有人表示，他們並不知道該去往哪裡，今後又該如何生活。如果找不到地方住，他們可能會被迫流落街頭。（ CCTV國際時訊  ）
+
+---
+
+### 2026-06-10 11:47:02  #公司 #市場 #國際
+
+印度信實集團股價盤前漲1.3%。
+
+---
+
+### 2026-06-10 11:46:35  #公司 #觀點
+
+【高盛將美光科技12個月目標股價從400美元上調至900美元 稱“Q3成績單”會很亮眼】高盛分析師預計，美光科技本月晚些時候公佈財報時，將交出亮眼的“第三財季成績單”。而由於供應狀況趨緊和記憶體晶片需求激增，高盛大幅提高了對美光科技的盈利預期和目標股價。具體而言，高盛將美光科技的12個月目標股價從400美元大幅上調至900美元，同時將該公司2026年和2027年的營收和非GAAP每股收益預期分別平均上調28%和36%，以反映更強勁的行業定價趨勢和需求增長潛力。與此同時，高盛維持對該股的“中性”評級。
+
+---
+
+### 2026-06-10 11:46:17  #MKT News #Market Regions #Greater China #02611.HK #Impact bullish #01456.HK #06099.HK
+
+Hong Kong-listed Chinese brokerage shares rose in choppy trade; Guotai Haitong (02611.HK) gained over 3%, while Guolian Minsheng (01456.HK), China Merchants Securities (06099.HK), Shenwan Hongyuan (06806.HK) and Everbright Securities (06178.HK) also advanced.
+
+---
+
+### 2026-06-10 11:45:38  #國際
+
+VinFast在菲律賓推出可換電電動摩托車提前預訂專案，加速其東南亞擴張佈局。
+
+---
+
+### 2026-06-10 11:45:09  #公司
+
+【華峰超纖：公司目前沒有電子布產品】華峰超纖(300180)6月10日在互動平臺回覆稱，公司目前沒有電子布產品。
+
+---
+
+### 2026-06-10 11:44:42  #市場
+
+【金飾克價集體跌破1300元 年內大跌470元】現貨黃金跌破4200美元關口，國內多家品牌金飾價格集體大幅下調，紛紛跌破1300元/克，金飾克價年內已大跌470元。10日，據各大金飾品牌官方小程式，周大福金飾克價報1276元，週六福金飾克價報1271元，周生生金飾克價報1277元，老廟黃金金飾克價報1283元，老鳳祥金飾克價報1276元。
+
+---
+
+### 2026-06-10 11:44:06  #公司
+
+【南方泵業：有生產液冷泵產品，液冷業務相關收入佔公司總營收比重較小】南方泵業(300145)6月10日在互動平臺回覆稱，公司有生產液冷泵產品，液冷業務相關收入目前佔公司總營收比重較小，其發展受市場環境等多重因素影響，存在不確定性。
+
+---
+
+### 2026-06-10 11:43:52  #市場
+
+CLEAN MAX股票盤前交易上漲9.5%。
+
+---
+
+### 2026-06-10 11:40:53  #MKT News #LI.O #Impact bearish
+
+HSBC cuts Li Auto (LI.O) PT to $15.60 from $17.20.
+
+---
+
+### 2026-06-10 11:40:36  #MKT News #Market Regions #Greater China
+
+【Residents' supplementary tax on overseas income about 130 billion yuan through May】The State Taxation Administration said tax authorities stepped up outreach and policy guidance on individuals' overseas income, boosting compliance; cumulative supplementary tax payments in Jan–May totaled about 130 billion yuan.
+
+---
+
+### 2026-06-10 11:40:31  #市場 #國際
+
+日本30年期國債拍賣投標倍數為2.94，為2025年6月以來最低水平。
+
+---
+
+### 2026-06-10 11:40:09  #公司
+
+【友訊達：公司暫不涉及算力業務】友訊達(300514)6月10日在互動平臺回覆稱，公司暫不涉及算力業務。
+
+---
+
+### 2026-06-10 11:40:04  #公司 #市場 #國際
+
+【世界盃獎盃價值較上屆世界盃飆升157%】根據倫敦證券交易所集團（LSEG）的分析，本屆世界盃的純金獎盃按今日金價計算價值約71.3萬美元。自2022年以來，該世界盃獎盃的價值飆升了157%。按熔化價值計算，國際足聯的世界盃獎盃位居世界體育獎盃榜首，遠遠超過歐洲冠軍聯賽、歐羅巴聯賽和超級碗獎盃。具體而言，國際足聯世界盃獎盃由6.175公斤18K純金打造，相當於4.93公斤純金。LSEG金屬研究部首席分析師德薩哈表示：“儘管金價已從近期高點回落，但其價值的長期趨勢依然引人注目。對於舉起世界盃獎盃的球員來說，它的價值無可估量，但其黃金含量也令人深思，它展現了這種貴金屬價值近年來驚人的增長。”（第一財經）
+
+---
+
+### 2026-06-10 11:39:47  #公司
+
+【公元股份：暫未涉及銅箔的試產或小樣生產】公元股份(002641)6月10日在互動平臺回覆稱，公司專注於塑膠管道及太陽能光伏業務，目前暫未涉及銅箔的試產或小樣生產。
+
+---
+
+### 2026-06-10 11:39:42  #公司
+
+【東鵬飲料增資至約5.6億】天眼查App顯示，近日，東鵬飲料發生工商變更，註冊資本由約5.2億人民幣增至約5.6億人民幣。該公司成立於1994年6月，法定代表人為林木勤，經營範圍包括計算機軟體、資訊系統軟體的開發、銷售，資訊系統設計、整合、執行維護，資訊科技諮詢等，由林木勤、香港中央結算有限公司、林戴欽等共同持股。
+
+---
+
+### 2026-06-10 11:39:30  #公司 #國際
+
+【CleanMax將為Meta在印度進行900兆瓦綠色電力產能建設】6月10日 ，據報道，可再生能源開發商CleanMax在一份宣告中表示，該公司已與Meta達成合作，將在印度進行約900兆瓦的綠色能源產能建設。CleanMax將在拉賈斯坦邦和卡納塔克邦開發並運營837兆瓦的新增太陽能和風能專案，此外還將推進一些此前已公佈的專案。Meta將購買這些新專案所產生的全部環境權益。
+
+---
+
+### 2026-06-10 11:39:20  #其他
+
+【稅務總局：超1.1億人獲得個稅退稅】稅務總局公開相關資訊顯示，2025年度綜合所得個稅彙算將於6月30日結束，前期彙算申報辦理量穩步增長。截至5月底，超過1.6億人完成彙算申報，超過1.1億人辦理了退稅，退稅金額也明顯增大，退稅規模較去年同比增加超過17%，政策紅利持續釋放。
+
+---
+
+### 2026-06-10 11:39:11  #其他
+
+【今年前5月居民境外收入補稅約130億元】6月10日，稅務總局公開相關資訊顯示，稅務機關不斷加強對居民個人境外所得的宣傳引導和政策輔導，取得境外收入的納稅人遵從度明顯提高，1—5月份累計補繳稅款約130億元。
+
+---
+
+### 2026-06-10 11:39:05  #公司
+
+安巴尼支援的機器人初創公司ADDVERB尋求1億美元融資。
+
+---
+
+### 2026-06-10 11:38:17  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH
+
+【Over 110 million received personal income tax refunds】China's State Taxation Administration says the 2025 annual settlement of comprehensive individual income tax closes on June 30; filings have risen steadily. As of end-May, more than 160 mln people completed filings and over 110 mln received refunds; refund amounts have increased and total refunds are up over 17% YoY, signaling continued release of policy benefits.
+
+---
+
+### 2026-06-10 11:38:05  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Hovers Near 2-Month Low — The New Zealand dollar traded near a two-month low at around $0.581, as traders remained wary following US retaliatory strikes against Iran. Washington said it completed self-defense strikes against Tehran in response to the downing of a US helicopter that was patrolling over the Strait of Hormuz, further complicating prospects for a peace deal between the two countries and adding strain to an already fragile ceasefire. Meanwhile, investors are now awaiting key US inflation data for further clues on the Federal Reserve’s rate path. Supporting the kiwi, however, is the prospect of higher interest rates following a hawkish outlook from the Reserve Bank of New Zealand. Markets continue to price in a potential rate hike as early as July, with the OCR seen to peak around 3.50% late next year.
+
+---
+
+### 2026-06-10 11:36:51  #國際
+
+馬來西亞總理表示，馬來西亞和日本正在探索更多地使用林吉特和日元進行貿易。
+
+---
+
+### 2026-06-10 11:36:28  #其他
+
+【阿富汗稱遭巴基斯坦空襲致13死14傷】阿富汗政府發言人穆賈希德10日在社交媒體上說，巴基斯坦軍隊當天凌晨空襲阿巴邊境的庫納爾省、霍斯特省和帕克提卡省，造成13人死亡，另有14人受傷。穆賈希德表示，死者包含11名兒童和一名女性，阿富汗政府強烈譴責此次襲擊。
+
+---
+
+### 2026-06-10 11:36:22  #MKT News #USDJPY #Impact bearish #Nikkei 225
+
+Japan's 30-year government bond auction bid-cover ratio was 2.94, down from 3.49 at the previous auction.
+
+---
+
+### 2026-06-10 11:36:09  #MKT News #02563.HK #Impact bullish #01093.HK #02359.HK
+
+Hong Kong-listed biopharma stocks active: 02563.HK up over 40%, 01530.HK up more than 5%; 06990.HK, CSPC PHARMA (01093.HK) and WuXi AppTec (02359.HK) also gained.
+
+---
+
+### 2026-06-10 11:35:30  #市場 #國際
+
+日本30年期國債拍賣的投標倍數為2.94，上一次拍賣該指標為3.49。
+
+---
+
+### 2026-06-10 11:34:26  #MKT News #Market Regions #Greater China #SSE Composite #Impact mixed #SZSE Component #CSI300
+
+【China A-shares midday: Shanghai Composite down 0.58%, chemicals lead gains】China A-shares opened lower and weakened; STAR 50 bucked the trend, rising over 3% intraday. By mid-session the Shanghai Composite was down 0.58%, the Shenzhen Composite down 1.94% and the ChiNext (growth) index down 2.29%. Chemicals rallied with multiple names hitting daily limit-ups; helium-related stocks, including Heyuan Gas and Hangyang, also hit limit-ups. Banks rallied intraday—Qingdao Bank rose over 4% and China Construction Bank hit a record intraday high. Travel and hotels, photolithography/photoresist, liquor, insurance and aquaculture were active. Lagging sectors included coal, commercial space, components, reducers, PV equipment and smart grid. Combined Shanghai-Shenzhen turnover at mid-session was about CNY1.73 trillion, roughly CNY116.4 billion higher than the same period yesterday; about 1,100 stocks advanced and 4,300 declined.
 
 ---
 
@@ -21166,203 +21376,5 @@ China A-shares opened higher: Shanghai Composite +0.46%, Shenzhen Composite +1.1
 ### 2026-06-09 09:24:36  #公司
 
 【安寧股份：年產5萬噸磷酸鐵專案正在裝置除錯階段】安寧股份6月9日在互動平臺回覆稱，年產6萬噸能源級鈦（合金）材料全產業鏈專案正在全力推進建設中，年產5萬噸磷酸鐵專案正在裝置除錯階段。
-
----
-
-### 2026-06-09 09:24:30  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #Hang Seng Index #CSI300
-
-MSCI Asia-Pacific index rose 1%.
-
----
-
-### 2026-06-09 09:23:27  #市場
-
-MSCI亞太指數上漲1%至267.27點。
-
----
-
-### 2026-06-09 09:22:56  #焦點
-
-港股開盤，恒生指數低開0.43％，恒生科技指數低開0.26％。
-
----
-
-### 2026-06-09 09:22:40  #央行 #中國央行
-
-【央行今日開展1530億元7天逆回購操作】央行今日開展1530億元7天逆回購操作，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-06-09 09:22:36  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hong Kong's HSI opened down 105.13 points (-0.43%) at 24,551.93 on Tuesday, June 9; the Hang Seng Tech Index opened down 12.39 points (-0.26%) at 4,743.52; the HSCEI opened down 27.80 points (-0.33%) at 8,313.56; the Red Chip Index opened down 21.48 points (-0.50%) at 4,313.91.
-
----
-
-### 2026-06-09 09:22:08  #央行 #其他
-
-央行公開市場今日淨投放1,528.0億元人民幣。
-
----
-
-### 2026-06-09 09:21:43  #公司
-
-【天振股份：公司尚未發生因關稅原因導致壓價、縮減採購訂單計劃】天振股份6月9日在互動平臺回覆稱，公司尚未發生因關稅原因導致的壓價、縮減採購訂單計劃。
-
----
-
-### 2026-06-09 09:21:34  #MKT News #Important #Market Regions #Greater China
-
-PBOC conducted CNY153 bln 7-day reverse repo today; bids CNY153 bln, allotment CNY153 bln; rate 1.40%, unchanged.
-
----
-
-### 2026-06-09 09:21:31  #央行 #其他
-
-央行今日開展1530億元7天逆回購操作，投標量1530億元，中標量1530億元，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-06-09 09:20:42  #MKT News #Important #Commodities #Precious Metals
-
-Shanghai silver main contract fell 2.00% intraday, trading at 16,281 yuan/kg.
-
----
-
-### 2026-06-09 09:20:37  #其他
-
-【全國小麥收穫進度已近六成半】農業農村部小麥機收進度顯示，目前，全國小麥收穫進度已近六成半。安徽今年“三夏”小麥搶收任務基本完成。據農業農村部最新小麥機收進度，截至6月8日17時，全國已收穫夏糧小麥2.19億畝，收穫進度64.6%。安徽麥收基本完成，河南過九成半，江蘇過七成，山東過三成半，陝西近三成，河北、山西過一成。目前，麥收地區大部天氣晴好，溫度較前一日有所回升，華北地區組織統籌排程機具有序推進成熟小麥收曬，機收前沿已推進至河北邢臺到山東淄博一線。氣象部門預計6月9日到11日，麥收地區大部天氣晴好，利於小麥灌漿成熟和收穫晾曬。有關省份應加強機具檢修保養，引導跨區作業機具及時轉移到位，保障小麥適期收穫，同時加力推廣高效能播種機，切實提高下茬作物機播質量。（央視新聞）
-
----
-
-### 2026-06-09 09:20:03  #其他
-
-【商務部召開“新三樣”固廢回收利用工作座談會】6月5日，商務部召開“新三樣”固廢回收利用工作座談會。會議強調，以實際行動抓好“新三樣”固廢回收利用體系建設。堅持精準指導、分類施策，針對動力電池、光伏元件、風機裝置產業發展階段和回收利用特點，採取差異化、精準化措施，有效解決回收利用拆解問題。堅持科技引領、技術賦能，積極推進“新三樣”固廢回收利用相關技術基礎研發，促進人工智慧在回收利用環節的融合與運用。堅持試點探索、鼓勵先行，繼續開展再生資源回收體系建設試點工作，鼓勵產業集聚地區和龍頭企業先行先試，提升回收效率，增強分揀能力，促進回收行業高質量發展。（商務部）
-
----
-
-### 2026-06-09 09:19:57  #MKT News #Market Regions #Greater China
-
-【MOFCOM holds meeting on recycling of 'new three' solid-waste categories】June 5 — MOFCOM convened a working meeting on building a recycling and reuse system for the 'new three' solid-waste categories: power batteries, PV modules and wind-turbine equipment. It called for differentiated, stage- and product-specific measures to resolve dismantling and recycling bottlenecks; for tech-led policy to advance foundational R&D and promote AI integration across recycling processes; and for continued pilot projects, encouraging industrial clusters and leading firms to trial solutions that raise recovery efficiency, strengthen sorting capacity and support higher-quality development of the recycling sector.
-
----
-
-### 2026-06-09 09:19:25  #公司 #觀點
-
-【中信證券：重視資料鏈及軟硬一體AI Infra產業機遇】中信證券研報稱，在大模型重塑傳統軟體開發過程的背景下，資料庫作為軟體層AI Infra的地位難以被替代；提供算力硬體和算力排程服務軟體的軟硬一體Infra公司值得重視；同時作為大模型伴生行業，從事資料採集、標註、清洗及上層應用、知識圖譜開發的公司有望迎來專案爆發機遇。建議重點關注資料庫、軟硬一體Infra及資料服務產業鏈公司。
-
----
-
-### 2026-06-09 09:19:12  #市場 #焦點
-
-白銀連續主力合約日內跌2%，現報16281.00元。
-
----
-
-### 2026-06-09 09:18:17  #公司
-
-三菱扶桑卡車與巴士公司將於七月臨時關閉其葡萄牙工廠，並於九月恢復生產。
-
----
-
-### 2026-06-09 09:18:01  #公司
-
-Perplexity執行長表示， 計劃於2028年進行首次公開募股。
-
----
-
-### 2026-06-09 09:17:58  #MKT News #Important #Market Themes #AI Revolution #APO.O #BX.O
-
-Financial Times reports Apollo and Blackstone have agreed a $35 bln private credit deal to fund Anthropic's growth plans.
-
----
-
-### 2026-06-09 09:16:22  #國際
-
-【西班牙呼籲中東衝突方透過對話令局勢降溫】西班牙政府當地時間8日發表宣告，敦促衝突各方切實遵守停火承諾，不要再次訴諸暴力行為，危及平民、關鍵民用基礎設施以及破壞地區穩定。西班牙政府重申，對話與外交是解決該地區問題的唯一途徑。當前必須立即緩和局勢，透過對話達成解決方案，從而結束這場衝突，並推動中東實現持久和平與穩定。
-
----
-
-### 2026-06-09 09:15:48  #MKT News #Hang Seng Index #Impact bearish
-
-Hang Seng futures opened the day session down 0.23% at 24,507, trading 150 points below the cash index.
-
----
-
-### 2026-06-09 09:15:23  #市場
-
-【人民幣兌美元中間價報6.8147，較上日調高51點】人民幣兌美元中間價報6.8147，較上日調高51點。
-
----
-
-### 2026-06-09 09:15:19  #市場
-
-人民幣兌美元中間價報6.8147元。
-
----
-
-### 2026-06-09 09:15:02  #市場
-
-恒指期貨日盤開盤跌0.19%，報24517.80點，低水139.26點。
-
----
-
-### 2026-06-09 09:14:54  #公司
-
-【天振股份：公司尚未發生因關稅原因導致的壓價、縮減採購訂單的計劃】天振股份6月9日在互動平臺表示，公司尚未發生因關稅原因導致的壓價、縮減採購訂單的計劃。公司持續關注國際貿易政策變化，並結合市場情況積極做好經營安排。
-
----
-
-### 2026-06-09 09:14:27  #其他
-
-【應急管理部調派工程應急救援隊伍緊急馳援重慶合川搶險一線】6月6日至7日，重慶市合川區遭遇強降雨天氣，雨勢猛、強度大、範圍廣，部分中小河流超警戒水位，城區路段積水嚴重。汛情發生後，應急管理部立即調派前置駐防在重慶地區的中國安能工程應急救援隊伍攜帶大功率排澇裝備，於6月7日中午抵達合川地區重點積水點位開展專項抽排水作業，全力保障人民群眾生命和財產安全。5月底，應急管理部聚焦西南、黃淮、江淮等地汛情發生較常年偏早，重慶、貴州、湖南等地區出現極端暴雨，洪澇和地質災害多發的實際，及時調整納入國家工程救援服務的相關救援力量主汛期駐防備勤計劃，安排機動力量250人攜帶專業裝備提前進駐上述重點地區備勤點，在重慶、湖南等地搶險救援任務中發揮重要作用。截至目前，共計抽組機動力量600人、370臺（套）裝備，進駐湖北、安徽、湖南、重慶、貴州、江西、廣東、廣西、福建等9個省份開展駐防備勤，隨時響應各地重大搶險救援任務。
-
----
-
-### 2026-06-09 09:14:25  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks Under Pressure — Australian shares slumped 107 points or 1.2% to 8,518 in early Tuesday trade, marking a third straight decline and their weakest level in nearly three weeks. Losses were broad, led by electronic tech, non-energy minerals, utilities, and industrial services. Investors returned from a long weekend amid a sharp drop in U.S. equity futures, even after Wall Street posted gains overnight as the sell-off in tech eased. Sentiment was further clouded by renewed Middle East tensions and caution ahead of China’s trade data later today. Locally, consumer confidence fell 3.5% in June, reversing May’s strength and logging its fourth decline this year, with inflation pressures still the main drag. Still, weakness was capped by solid trade performance in April, with the balance swinging to surplus amid a rebound in exports. Heavyweights BHP Group (-3.0%), Northern Star Resources (-4.9%), and Evolution Mining (-7.3%) were among the worst performers, while the four big banks fell between 1.6% and 2.4%.
-
----
-
-### 2026-06-09 09:13:33  #其他
-
-【葛蘭素史克擬斥資超90億美元收購癌症藥物生產商Nuvalent】據報道，葛蘭素史克正洽談斥資超90億美元收購癌症藥物生產商Nuvalent，雙方目標在本週內達成協議。
-
----
-
-### 2026-06-09 09:13:19  #公司
-
-【今日起，上海市汽車以舊換新補貼調整為即時搖號】上海市汽車以舊換新補貼調整為即時搖號。6月8日夜間，上海市商務委釋出《關於調整2026年上海市汽車以舊換新補貼活動搖號方式的公告》。《公告》稱，自2026年6月9日至2026年9月30日，符合條件的個人消費者可在每日7：00-22：00透過“上海商務”微信公眾號“政務服務-汽車以舊換新補貼申請”入口，報名參加即時搖號。
-
----
-
-### 2026-06-09 09:12:33  #國際
-
-【日本財務大臣稱該國正在進行1945年以來最大規模的預算改革】日本財務大臣片山皋月表示，該國目前正經歷二戰結束以來最大規模的預算改革。“至於預算制度改革，這顯然是戰後最大規模的改革，”片山表示。“這就是我們對此所做的承諾。”片山發表這番言論之際，距離日本透過一項3.1萬億日元（194億美元）的補充預算案僅數日，該預算案中包含一項新設立的2.5萬億日元儲備基金，旨在應對中東衝突引發的通脹。日本首相高市早苗此前曾表示，政府將儘可能避免依賴補充預算。片山在記者會上表示，如有必要，政府將編制補充預算案以應對突發情況。
-
----
-
-### 2026-06-09 09:11:03  #公司
-
-【Databricks洽談新一輪融資 估值超1650億美元】多位知情人士透露，資料庫管理軟體廠商Databricks正洽談新一輪融資，本輪融資或於下月啟動。公司向投資者表示，完成融資後估值有望達到1650億至1750億美元。該公司去年年底完成一輪融資，計入募資後估值為1340億美元，本次估值相較此前大幅提升。這家成立已有13年的企業多次推遲上市計劃，轉而持續開展私募融資，並安排現有股份轉讓。目前本輪融資的最終條款尚未敲定，暫不確定最新估值是否包含本次新增募資。
-
----
-
-### 2026-06-09 09:10:31  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Prices Hold Steady — US gasoline futures barely moved below $3.10 per gallon, after giving up most of its gains in the previous session, as Israel and Iran agreed to halt mutual attacks following a recent surge in violence. Israeli Prime Minister Benjamin Netanyahu said Israel is currently suspending strikes on Iran but would retaliate if Tehran resumes hostilities, while Iranian media expressed a similar stance. The development kept hopes alive for a potential resumption of talks toward a broader ceasefire agreement in the Middle East. The Strait of Hormuz remained effectively constrained under a dual blockade involving Tehran and Washington, sharply limiting exports of distillate products from the region. Meanwhile, US gasoline inventories rose by more than 3 million barrels in the final week of May, ending a 15-week streak of declines. However, draws of around 8 million barrels each from private crude stocks and the SPR tempered the overall improvement in supply conditions.
-
----
-
-### 2026-06-09 09:09:34  #公司
-
-【Perplexity執行長：無論Anthropic與OpenAI上市進展如何，公司均計劃2028年IPO】Perplexity執行長阿拉溫德・斯里尼瓦斯（Aravind Srinivas）表示，無論市場對Anthropic和OpenAI的上市反響如何，公司都計劃在2028年啟動上市。斯里尼瓦斯在週二播出的採訪中稱：“我們的上市規劃原本就定在2028年，與這兩家公司無關，目前該計劃保持不變。”斯里尼瓦斯此前就曾表示，公司2028年前暫無上市打算，此番表態進一步明確了上市時間規劃。斯里尼瓦斯在採訪中坦言：“如果這幾家企業上市遇冷，勢必會產生連鎖反應，這一點毋庸置疑。本週SpaceX的上市表現，也將成為判斷Anthropic和OpenAI上市走勢的重要先行指標。”
-
----
-
-### 2026-06-09 09:09:08  #央行 #美聯儲
-
-【破4%？美國5月CPI料繼續加速 美聯儲如何應對】當地時間週三（10日），美國勞工部將釋出5月消費者價格指數（CPI）資料包告。市場普遍預期，中東衝突推高能源價格的影響將進一步顯現，美國通脹水平或攀升至4%以上。
 
 ---
