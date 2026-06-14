@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-14 12:06:38_
-_本檔包含 3566 則快訊，約 659311 字_
+_更新時間：2026-06-14 13:51:26_
+_本檔包含 3562 則快訊，約 656779 字_
+
+---
+
+### 2026-06-12 10:13:43  #國際
+
+【日本據悉將派遣艦艇前往霍爾木茲海峽】據報道，日本政府正準備挑選艦艇部署到霍爾木茲海峽，以響應美國和伊朗達成的停火協議。 日本政府正在權衡多種方案，包括參與多邊行動和提供掃雷作業裝置。部署的前提是該區域的安全得到全面保障。
+
+---
+
+### 2026-06-12 10:12:41  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Yen Remains Volatile Ahead of BOJ Meeting — The Japanese yen weakened to around 160.2 per dollar on Friday, surrendering some of the previous session's gains as investors awaited the Bank of Japan's policy meeting next week, where it is widely expected to raise interest rates amid persistent inflation and sustained weakness in the currency. The BOJ is expected to lift its policy rate by 25 basis points to 1%, marking the first increase since December last year and the highest level since 1995. Meanwhile, BOJ Governor Kazuo Ueda has been hospitalized with a hepatic cyst infection and is set to miss the meeting. On Thursday, the yen climbed as much as 0.6% after the dollar retreated sharply following President Donald Trump's remarks that a peace deal with Iran could be signed as soon as this weekend in Europe. Japan's economy remains particularly exposed to geopolitical tensions in the Middle East due to its heavy dependence on oil imports from the region.
+
+---
+
+### 2026-06-12 10:11:55  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Track Asian Peers Higher — The Shanghai Composite Index advanced 0.8% to above 4000 on Friday, while the Shenzhen Component climbed over 1.3% to 15,000, tracking gains across Asian markets as renewed hopes for a Middle East peace deal lifted global sentiment. Both benchmarks, however, remained on course for weekly declines after earlier volatility driven by US–Iran tensions, but was capped with sentiment later supported by improving risk appetite following reports that a deal could be reached as soon as this weekend, potentially reopening the Strait of Hormuz. Locally, market participants will shift their attention to China's May credit lending data due later today to gauge the health of the economy, following an unexpected contraction in new yuan loans in April. Sector gains were led by semiconductors, minor metals, and precious metals, such as SMIC (4.1%), Zhongji Innolight (3.4%), Zijin Mining (3.2%), and China Tungsten (5.4%).
+
+---
+
+### 2026-06-12 10:11:50  #Trading Economics #Markets #China #stocks #Importance 1
+
+China Construction Bank Stock Price Hits 4-week High — China Construction Bank shares increased to 8.88 HKD, the highest since May 2026. Over the past 4 weeks, China Construction Bank gained 0%, and in the last 12 months, it increased 16.25%.
+
+---
+
+### 2026-06-12 10:11:34  #MKT News #Commodities #Precious Metals
+
+Spot palladium's intraday gain widened to 2.00%, trading at $1,293.78/oz.
+
+---
+
+### 2026-06-12 10:11:03  #MKT News #Important #Commodities #Industrial Metals #Precious Metals
+
+Polysilicon most-active contract jumped intraday, gain widened to 6.00%, trading at 38,850 yuan/ton. Palladium most-active contract rose more than 6.00% intraday, trading at 314.80 yuan/gram.
+
+---
+
+### 2026-06-12 10:10:48  #市場
+
+澳大利亞S&P/ASX 200指數上漲2%，至8,806.90點。
+
+---
+
+### 2026-06-12 10:10:33  #市場 #焦點
+
+北證50日內漲幅達2.00%，成分股中，富士達漲7.15%，天力複合漲6.02%，同惠電子漲6.01%，基康技術漲5.96%。
+
+---
+
+### 2026-06-12 10:10:33  #市場
+
+【影視院線板塊短線拉昇，博納影業觸及漲停】影視院線板塊短線拉昇，博納影業觸及漲停，華智數媒、上海電影、光線傳媒、北京文化跟漲。
+
+---
+
+### 2026-06-12 10:10:30  #市場 #焦點
+
+多晶矽連續主力合約日內漲6%，現報38850.00元。
+
+---
+
+### 2026-06-12 10:10:23  #國際
+
+【英國負責武裝部隊事務的國務大臣卡恩斯辭職】因不滿政府國防投資計劃資金方案，英國負責武裝部隊事務的國務大臣卡恩斯11日宣佈辭職。卡恩斯當天致信英國首相斯塔默表示，當前政府擬定的國防投資計劃“既缺乏變革性，也缺乏足夠資金支援”，難以應對日益嚴峻的安全威脅以及現代戰爭形態快速變化帶來的挑戰。卡恩斯在辭職信中表示，烏克蘭危機表明現代戰爭正在迅速演變，而英國仍在採購適用於過去戰爭模式的裝備。“價值數十億英鎊的平臺，可能被價值數千英鎊的系統擊敗。”他說，當前國防投資計劃未能為英軍提供與現實威脅相匹配的資源，因此決定辭職。他同時批評英國政府整體決策效率低下，稱政府部門之間“彼此對抗，而不是共同解決問題”。
+
+---
+
+### 2026-06-12 10:10:02  #公司 #國際
+
+【大疆指控影石Luna相機侵犯其多項核心專利，影石反訴】6月12日，據媒體報道，大疆及大疆靈眸（Osmo）已於當地時間6月10日和11日，向美國得州東區聯邦地區法院對影石創新及其關聯公司提起專利侵權訴訟。訴狀顯示，大疆指控影石Luna系列手持雲臺相機涉嫌侵犯大疆持有的2件外觀設計專利及4件發明專利。此次涉訴專利涉及大疆Osmo Pocket系列產品的相關技術和設計，覆蓋雲臺機電控制、拍攝控制等核心底層技術。據目前披露的資訊，影石Luna系列相機的旋轉屏外觀、雲臺模式切換及目標追蹤等核心功能，均涉嫌落入大疆早年在美獲批的專利保護範圍。大疆在訴訟中請求法院（對銷售等侵權行為）釋出永久禁止令，同時要求影石返還侵權利潤、支付損害賠償金，以及承擔相關訴訟費用和律師費。6月12日，影石創新也在美國對大疆發起專利反訴，涉及雲臺相機、全景相機等5項發明專利，覆蓋雲臺增穩演算法、雲臺指向控制、相機平滑防抖、運動資料疊加、全景影片防抖等多項關鍵技術。同時，影石向中國國家智慧財產權局提起相關同族專利無效宣告請求。這也是繼2026年3月大疆在國內對影石發起無人機專利侵權訴訟後，兩家公司在海外市場的首次專利訴訟對決。
+
+---
+
+### 2026-06-12 10:09:57  #市場 #焦點
+
+鈀連續主力合約日內漲6%，現報314.80元。
+
+---
+
+### 2026-06-12 10:09:56  #公司
+
+【空山慈完成A輪融資】6月12日，據耀途資本訊息，聚焦新一代腦機互動神經調控技術的上海空山慈科技有限公司完成A輪融資。本輪由東方富海領投，耀途資本跟投，老股東道彤投資、雲啟資本持續加碼。所募資金將主要用於產品研發迭代、醫療器械註冊申報及全球化拓展。
+
+---
+
+### 2026-06-12 10:09:46  #公司 #市場
+
+【燃氣輪機概念震盪反彈 應流股份漲停】燃氣輪機概念盤中震盪反彈，應流股份漲停，航發控制、萬澤股份、傑瑞股份、上大股份、三角防務跟漲。
+
+---
+
+### 2026-06-12 10:09:00  #其他
+
+市場訊息：美伊諒解備忘錄或將於下週簽署。
+
+---
+
+### 2026-06-12 10:09:00  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+A-share film and cinema sector rallied intraday; Bona Film rose over 8%, while Huazhi Digital Media, Shanghai Film, Huanrui Century, Happy Blue Ocean and Ciwen Media also gained.
+
+---
+
+### 2026-06-12 10:08:35  #市場 #國際
+
+印尼盾在早盤交易中上漲0.4%，兌美元報17900。
+
+---
+
+### 2026-06-12 10:08:20  #其他
+
+亞洲開發銀行稱已收到各國提出的40億美元貸款申請。
+
+---
+
+### 2026-06-12 10:07:17  #其他
+
+【海新能科與林化所戰略合作 共同推動生物燃料產業技術升級與綠色低碳發展】據海新能科訊息，近日，海新能科與中國林業科學研究院林產化學工業研究所（簡稱“林化所”）正式簽署戰略合作協議。雙方將圍繞廢棄油脂預處理、加氫脫氧及異構催化劑研發、木質素與油脂協同製備全組分航空燃料等核心技術方向開展深度合作，共同推動生物燃料產業技術升級與綠色低碳發展。
+
+---
+
+### 2026-06-12 10:06:53  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. officials say Iran appears to be targeting vessels transiting the Strait of Hormuz. Maritime traffic through the strait remains ongoing.
+
+---
+
+### 2026-06-12 10:06:30  #國際
+
+美國官員表示，海峽航道通行仍在正常進行。
+
+---
+
+### 2026-06-12 10:06:22  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內漲2%，現報8289.00點。
+
+---
+
+### 2026-06-12 10:06:18  #MKT News #Important #Hang Seng Index #Impact bullish
+
+Hang Seng Tech Index up more than 2%; semiconductors, memory/storage, optical communications, brain-computer interfaces and commercial space sectors led gains.
+
+---
+
+### 2026-06-12 10:06:05  #市場
+
+鈀金期貨日內漲4%，現報1300.00美元/盎司。
+
+---
+
+### 2026-06-12 10:06:05  #市場 #焦點
+
+鈀金期貨突破1300美元/盎司，日內漲4.03%。
+
+---
+
+### 2026-06-12 10:05:49  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
+
+China A-share robot actuator stocks rallied intraday; Keli Sensing jumped over 7%, with Guoji Jinggong, Buke Co., Shenkeda, Lvde Xiebo and Huawu Co. also gaining.
+
+---
+
+### 2026-06-12 10:05:47  #焦點 #國際
+
+美國官員稱，伊朗似乎對途經霍爾木茲海峽的船舶發動了襲擊。
+
+---
+
+### 2026-06-12 10:05:39  #公司 #市場
+
+【人形機器人概念震盪拉昇 東方精工漲停】人形機器人概念震盪拉昇，東方精工漲停，綠的諧波、天奇股份、德馬科技、中大力德、信質集團跟漲。
+
+---
+
+### 2026-06-12 10:05:04  #公司
+
+東京海上控股社長表示，與伯克希爾哈撒韋的合作將推動公司實現淨利潤翻倍的目標。
+
+---
+
+### 2026-06-12 10:05:02  #市場
+
+富時中國A50指數期貨上漲1%。
+
+---
+
+### 2026-06-12 10:04:49  #其他
+
+亞洲開發銀行警告：亞洲能源危機已處於“最壞”情景。
+
+---
+
+### 2026-06-12 10:04:39  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+A-shares digital media sector jumped; Fantuo Shuchuang rose nearly 17%, with Visual China, Zhidemai, Kunlun Wanwei, Chuanwang Media and Zhongwen Online also trading higher.
+
+---
+
+### 2026-06-12 10:04:35  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. officials said the U.S. military shot down two Iranian one-way attack drones.
+
+---
+
+### 2026-06-12 10:04:20  #市場 #焦點
+
+恒生科技指數漲超2%，現報4749.080點；恒生指數現漲1.684%。
+
+---
+
+### 2026-06-12 10:04:17  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲2%，現報8151.40點。
+
+---
+
+### 2026-06-12 10:03:28  #市場
+
+【物理AI概念震盪反彈 索辰科技觸及20cm漲停】物理AI概念盤中震盪反彈，索辰科技觸及20cm漲停，凡拓數創漲超15%，中望軟體、奧比中光、漢朔科技、雲從科技、能科科技跟漲。
+
+---
+
+### 2026-06-12 10:03:04  #市場 #國際
+
+印度GIFT NIFTY指數報23,520.5點，較NIFTY 50指數上日收盤價23,161.6點上漲約1.5%。
+
+---
+
+### 2026-06-12 10:02:17  #公司 #市場
+
+【電池板塊短線拉昇，雄韜股份漲停】電池板塊短線拉昇，雄韜股份漲停，武漢藍電、納科諾爾、長虹能源、力王股份、鵬輝能源等跟漲。
+
+---
+
+### 2026-06-12 10:01:43  #MKT News
+
+【Ministry of Public Security: China telecom fraud cases down YoY for eight consecutive months】Since October 2025, China’s telecom fraud cases have fallen year‑on‑year for eight consecutive months, the Ministry of Public Security said. Ten scam types account for about 85% of cases: order‑rebate schemes, fraudulent e‑commerce/shopping services, fake online investment and wealth‑management, impersonation of e‑commerce logistics customer service, loan/credit‑check scams, fake in‑game transactions, online dating fraud, impersonation of law‑enforcement or judicial officials, impersonating executives or acquaintances, and airline ticket refund/rescheduling fraud. Order‑rebate schemes are the most frequent, making up 25% of cases. Fake online investment scams account for roughly 40% of total reported losses; cases with losses in the millions to tens of millions of yuan are predominantly this type.
 
 ---
 
@@ -21199,269 +21439,5 @@ Silver Remains Under Pressure — Silver traded near $63 an ounce on Thursday, h
 ### 2026-06-11 08:48:02  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
 
 【Margin-financing balance on Shanghai and Shenzhen down 8.091 bln yuan】As of June 10, margin-financing balance on the Shanghai Stock Exchange was 1,447.858 bln yuan, down 43.65 bln yuan from the previous trading day; Shenzhen was 1,401.181 bln yuan, down 37.26 bln; combined mainland balance 2,849.039 bln yuan, down 80.91 bln yuan.
-
----
-
-### 2026-06-11 08:47:57  #其他
-
-【兩市融資餘額減少80.91億元】截至6月10日，上交所融資餘額報14478.58億元，較前一交易日減少43.65億元；深交所融資餘額報14011.81億元，較前一交易日減少37.26億元；兩市合計28490.39億元，較前一交易日減少80.91億元。
-
----
-
-### 2026-06-11 08:47:12  #MKT News
-
-【China's JUNO publishes first physics result in Nature】June 10 — China's Jiangmen Underground Neutrino Observatory (JUNO) had its first physics result published as a cover article in Nature. The paper, “Precision measurement of two neutrino oscillation parameters,” uses 59 days of data collected Aug. 26–Nov. 2, 2025, and reports high-precision measurements of two key oscillation parameters with precision 1.6× better than the combined results of prior experiments over past decades.
-
----
-
-### 2026-06-11 08:44:57  #其他
-
-【遼寧省委書記許昆林在瀋陽調研文旅產業發展：全力推動文旅體商深度融合】6月10日，遼寧省委書記許昆林圍繞推動文旅產業發展、擴大服務消費，深入瀋陽方城文化旅遊區、中街進行專題調研。他強調，要深入學習貫徹習近平總書記關於服務業發展的重要論述，全面貫徹落實習近平總書記對遼寧的重要講話和重要指示精神，全域全鏈條謀劃推動文旅體商深度融合，充分釋放文旅消費的“乘數效應”，加快促進服務消費擴容提質增效。（遼寧日報）
-
----
-
-### 2026-06-11 08:44:42  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-apanese Shares Sink to 3-Week Lows — The Nikkei 225 Index fell 2.1% to below 63,000, while the broader Topix Index lost 1.4% to 3,793 on Thursday, with both benchmarks touching three-week lows after the US launched fresh strikes against Iran, driving oil prices higher. Technology stocks also remained under pressure amid persistent concerns over elevated AI-related valuations, weighing heavily on Japanese companies with significant exposure to the global AI expansion. At home, the Bank of Japan is widely expected to raise interest rates next week as policymakers contend with soaring energy costs linked to the Middle East conflict. Tech and AI-related shares led the losses, with Tokyo Electron (-1.3%), Taiyo Yuden (-3.4%), SoftBank Group (-4.6%), Fujikura (-4.8%), and Advantest (-3.3%) posting notable declines. Financial and consumer stocks also weakened, adding to the broader market downturn.
-
----
-
-### 2026-06-11 08:44:30  #MKT News
-
-【Yitong New Materials: battery powder growth accelerating with downstream LFP demand】Yitong New Materials said in a conference call that gross margin on its traditional powder‑metallurgy iron powder is about 20%. Battery‑grade powder requires fewer processing steps and yields a lower gross margin than powder‑metallurgy iron powder. Forgings remain in capacity ramp‑up and are not yet at full production; higher per‑unit labor and depreciation keep forging margins below traditional powder. Traditional powder shows stable growth, battery powder is expanding rapidly alongside downstream LFP battery development, and forgings present sizable market potential. The company said this year’s faster growth partly reflects a small base last year.
-
----
-
-### 2026-06-11 08:44:07  #國際
-
-【印航空難調查報告推遲釋出 因通用電氣發動機檢測工作尚未完成】據知情人士透露，由於這架波音客機的發動機仍在美國接受檢測且相關工作尚未收尾，調查人員無法在本週五（一週年節點）如期釋出印度航空客機起飛後墜毀事故的調查報告。知情人士稱，印度航空事故調查局本週或將先發布一份進展報告，說明調查延期原因。相關最終報告預計在三個月內出爐。因資訊尚未公開，相關人士要求匿名。其中一名知情人士表示，通用電氣航空發動機的檢測工作屆時將全部完成。此次檢測在美國開展，原因是全球範圍內僅有少數機構具備拆解發動機的專業條件與配套裝置。
-
----
-
-### 2026-06-11 08:43:29  #公司
-
-【屹通新材：電池粉隨著下游磷酸鐵鋰電池業務發展而增速較快】屹通新材近日在電話會議中表示，毛利率方面，傳統粉末冶金用粉的毛利率約為20%；電池粉由於工序相對較少，毛利率低於粉末冶金用鐵粉。鍛件業務目前仍處於產能爬坡階段，尚未完全達產，單位產品的人工成本及折舊攤銷費用相對較高，其毛利率相對低於傳統粉末冶金用鐵粉。傳統粉末冶金用鐵粉保持相對穩定的增長，電池粉隨著下游磷酸鐵鋰電池業務的發展，增速較快，鍛件業務市場空間較大，由於公司去年業務基礎相對較小，今年增速相對較快。
-
----
-
-### 2026-06-11 08:43:25  #公司 #市場 #國際
-
-【通用汽車調整電池戰略 擬棄LFP路線轉攻LMR技術】通用汽車電池技術負責人Kurt Kelty表示，該公司可能放棄使用一種低成本鐵基電池化學體系的計劃。許多汽車製造商正採用這種電池來降低電動汽車成本。通用汽車此前曾表示，計劃開發磷酸鐵鋰電池(LFP)用於未來的電動汽車車型，並將於2027年底在田納西州的一家合資工廠開始生產此類電池。但Kurt Kelty告訴媒體，通用汽車目前轉而專注於研發另一種電池化學體系--富鋰錳基電池(LMR)。該公司曾表示，這種電池在美國的生產成本與LFP電池大致相當，但在同等重量和體積下可儲存更多能量。Kelty表示，通用汽車可能不再尋求將LFP電池用於電動汽車。他稱田納西州工廠將於本月開始生產LFP電池，但這些電池將用於儲能系統。“LFP電池有可能不會進入我們的產品組合，”Kelty在舊金山參加通用汽車活動後表示，並稱LMR是通用汽車的“主力”電池技術。“這將是我們進行大規模應用的方向，”他說。
-
----
-
-### 2026-06-11 08:43:03  #其他
-
-【中非經貿博覽會摩洛哥專場活動開幕 】2026年中非經貿博覽會“走進非洲”（摩洛哥專場）活動10日在摩洛哥卡薩布蘭卡開幕，來自中摩兩國政府部門、商協會、金融機構、企業及媒體的400多名代表出席。本次活動以“中非共行動 一起創未來”為主題，是中國對53個非洲建交國全面實施零關稅舉措後，湖南省在非洲落地的首場大型境外經貿活動。（新華社）
-
----
-
-### 2026-06-11 08:41:14  #央行 #其他
-
-【瑞銀上調紐西蘭第一季度GDP預測，正值紐西蘭央行考慮加息之際】瑞銀將紐西蘭第一季度GDP增長預測從0.8%上調至0.9%。經濟學家Stephen Wu表示，製造業正迎來表現強勁的一個季度，銷售量正在上升。瑞銀表示，批發貿易以及程度較輕的零售銷售，都應會為增長做出堅實貢獻。儘管如此，其修正後的預測仍低於紐西蘭央行的預期，該央行在5月份預測第一季度GDP環比增長1.0%。瑞銀表示，如果結果與預期大體一致，紐西蘭央行將在7月份上調官方隔夜拆款利率。
-
----
-
-### 2026-06-11 08:40:08  #國際
-
-日本德山株式會社（Tokuyama）將於7月1日起上調液態燒鹼價格。
-
----
-
-### 2026-06-11 08:39:05  #公司
-
-【中鋼天源：公司石墨烯技術還處於實驗室階段並沒有產業化】中鋼天源(002057)6月11日在互動平臺回覆稱，目前公司的石墨烯技術還處於實驗室階段並沒有產業化。
-
----
-
-### 2026-06-11 08:38:38  #其他
-
-廣西興安發生一起爆炸事件，已致7人死亡、17人受傷。
-
----
-
-### 2026-06-11 08:37:45  #公司
-
-【上海電氣集團董事長吳磊一行拜訪包鋼集團與北重集團 深化產業合作空間】6月10日，上海電氣集團黨委書記、董事長吳磊一行先後拜訪包頭鋼鐵（集團）有限責任公司和內蒙古北方重工業集團有限公司。吳磊在與包鋼（集團）公司黨委書記、董事長孟繁英會談時，雙方一致表示，將充分發揮各自產業優勢，進一步加強戰略對接，持續深化務實合作，共同探索合作新模式、新路徑，更好服務國家戰略實施和現代化產業體系建設。吳磊在與北重集團黨委書記、董事長王佔山會談時，雙方一致表示，將進一步深化互信合作，充分發揮資源、技術和產業優勢，持續拓展合作領域，推動產業協同創新，實現優勢互補、互利共贏，共同為產業高質量發展注入新動能。
-
----
-
-### 2026-06-11 08:37:15  #其他
-
-【柬埔寨安徽商會會長劉忍被押解回國】據柬埔寨《柬中時報》報道，日前被柬埔寨警方逮捕的柬埔寨安徽商會會長劉忍，6月10日已由柬方移交中國警方，並被押解返回中國。
-
----
-
-### 2026-06-11 08:35:17  #公司 #國際
-
-【雷諾集團CEO：伊朗戰爭爆發以來歐洲電動車訂單激增】雷諾集團執行長Francois Provost週三接受媒體訪談表示，自伊朗戰爭爆發以來，雷諾電動汽車在法國和德國等市場的訂單量已增長50%。Provost表示，雷諾在電池供應方面沒有問題，但正努力滿足對電動汽車的需求，公司已成立特別工作小組應對這個問題。他在布魯塞爾舉行的汽車新聞大會(Automotive News Congress)間隙表示：“由於伊朗戰爭，我們目前的訂單量已超出（供應商的）產能。”Provost指出，雷諾也考慮在今年下半年增加在法國杜埃（Douai）與莫伯日（Maubeuge），以及斯洛維尼亞新梅斯托（Novo Mesto）電動車廠的生產班次。伊朗戰爭引發燃油價格高企，歐洲電動車需求激增，消費者對新車和二手車的興趣同步增加。今年前四個月，歐洲純電動車銷量大增29%，達到近100萬輛。Provost表示，一旦伊朗戰爭結束、燃料價格回落，市場對電動車的高度興趣將會下降，但朝電動車轉型的步伐仍將持續加快。
-
----
-
-### 2026-06-11 08:34:09  #MKT News
-
-IRNA reports explosions heard in Karaj, Iran.
-
----
-
-### 2026-06-11 08:33:58  #國際
-
-據伊朗伊斯蘭共和國通訊社（IRNA）：伊朗卡拉季傳出爆炸聲。
-
----
-
-### 2026-06-11 08:33:45  #市場 #觀點 #國際
-
-在美國對伊朗發動新一輪襲擊後，金價連續第三個交易日下跌。金價較2月底伊朗戰爭爆發前的水平低約23%。摩根大通諮詢顧問、前貴金屬交易員Robert Gottlieb發文稱：“接踵而至的矛盾訊息頭條正加劇市場不確定性，促使投資者在各類資產中降低風險敞口並提高流動性。”他寫道，此輪最新跌勢“更多是出於去槓桿和投資組合再平衡，而非對黃金作為避險資產的基本面重新評估”。
-
----
-
-### 2026-06-11 08:33:37  #其他
-
-【暑期出行預訂火熱 機構預測7股營收高增長】日前，多個旅遊平臺釋出2026年暑期出遊趨勢報告。總體來看，暑期旅遊產品預訂已進入高峰期，出遊人次顯著增長，旅遊產品供給更為豐富多元。據證券時報·資料寶統計，A股中佈局旅遊、酒店板塊的個股共有35只。暑期出遊高峰即將到來，部分個股獲機構密集關注。統計顯示，有21股獲得機構評級，其中14股評級機構數量在5家及以上，錦江酒店、首旅酒店、宋城演藝數量居前，分別為25家、24家、17家。上述5家及以上機構評級的個股中，有7股獲機構一致預測2026年營收增幅在10%以上，三峽旅遊、君亭酒店、長白山居前，分別為30.3%、19.36%、14.06%。
-
----
-
-### 2026-06-11 08:31:49  #市場 #國際
-
-【金價連跌三日 此前美國對伊朗實施新一輪打擊】在美國對伊朗發動新一輪襲擊後，金價連續第三個交易日下跌，此舉可能威脅這場已導致全球市場動盪並推高通脹的戰爭繼續。金價一度下跌1.2%至每盎司4,024美元附近，延續了週三4.4%的跌幅，隨後在震盪交投中收窄跌幅。此前，美國總統唐納德·特朗普指責伊朗拖延臨時和平協議的談判，美軍隨後向伊朗境內的“多個”目標發射了導彈。德黑蘭方面則以關閉霍爾木茲海峽、禁止所有船隻通行作為回應。
-
----
-
-### 2026-06-11 08:31:16  #其他
-
-巴林內政部：巴林響起警報。
-
----
-
-### 2026-06-11 08:30:59  #MKT News
-
-Bahrain Interior Ministry says an alarm has been sounded; citizens and residents urged to remain calm and move to the nearest safe location.
-
----
-
-### 2026-06-11 08:30:35  #國際
-
-【伊朗多地再傳出爆炸聲】據伊朗國家電視臺報道，當地時間今天（6月11日）凌晨3點50分（北京時間早上8點20分）左右，據當地居民反饋，伊朗北部厄爾布林士省的西部地區傳出爆炸聲。目前尚不清楚爆炸來源。幾乎同一時間，伊朗南部霍爾木茲甘省的錫裡克地區再次傳出爆炸聲。
-
----
-
-### 2026-06-11 08:30:20  #MKT News
-
-【Explosions reported in two locations in Iran】Iranian media reported on the 11th that explosions were heard a few minutes earlier in western Alborz province and the Sirik area.
-
----
-
-### 2026-06-11 08:29:36  #觀點
-
-【東吳證券：預計2026年全球鋰電需求35%左右增長 看好銅箔板塊量利雙升】東吳證券研報指出，預計2026年全球鋰電需求35%左右增長，27年25%+增長，對應全球鋰電銅箔需求分別為163/197萬噸。供給端，鋰電銅箔加工費下行週期持續4年，廠商擴產意願低，26年全球鋰電銅箔有效產能175萬噸僅新增21萬噸，27年198萬噸新增23萬噸，產能利用率26年為93%，27年提升至100%，供需格局持續收緊。盈利端，年初以來二線客戶加工費已上調1500-2000元/噸，單噸利潤達到2-3k元，考慮1萬噸capex投資4-5億，廠商目標合理單噸利潤8k，仍在與下游持續議價，預計27年單噸利潤有望提升至6-8k。看好銅箔板塊量利雙升，建議增持銅箔板塊。
-
----
-
-### 2026-06-11 08:29:19  #公司
-
-【怡亞通：在MLCC和超級電容領域還沒有相關業務佈局】怡亞通(002183)6月11日在互動平臺回覆稱，目前公司在MLCC和超級電容領域還沒有相關的業務佈局。
-
----
-
-### 2026-06-11 08:28:38  #公司
-
-【格林美：與寧波東方理工大學簽署合作協議，共建固態鋰電正極材料聯合實驗室】格林美6月10日在投資者接待日上活動中表示，公司與寧波東方理工大學簽署合作協議，透過共建固態鋰電正極材料聯合實驗室，依託寧波東方理工大學以孫學良院士為核心的創新團隊、前沿技術研究實驗室與公司的工程技術人才產業化創新技術團隊、產業化技術創新平臺，形成院士—教授—工程師三級人才體系以及高校基礎創新—企業中試技術平臺—產業化創新三級創新平臺，聚焦固態電池全鏈條關鍵技術原始創新與產業化落地，快速攻克固態電池用正極材料、電極介面改性、固態模具電池組裝及固態電池迴圈再生等關鍵技術瓶頸，構建從基礎研究、中試開發到量產落地的全鏈條創新架構，建立全球一流固態電池正極材料—固態電池介面改性—固態電池迴圈再生的全產業鏈的關鍵技術。
-
----
-
-### 2026-06-11 08:28:14  #公司 #市場 #國際
-
-【韓國Kospi指數一度跌逾4% 晶片股承壓及美國第二天打擊伊朗】投資人擔心AI榮景的穩定性以及伊朗戰爭的影響，晶片股跌幅擴大，拖累韓國Kospi指數一度下跌4.4%，跌至5月20日以來的最低水平。三星電子、SK海力士和SK Square是拖累該指數的最大因素。韓國Kospi指數連續第二天下跌，延續了本週的劇烈波動。韓國小盤股Kosdaq指數一度下跌3.2%。週四早盤，韓國股市表現遜於亞太地區其他地區，MSCI亞太指數一度下跌1.4%。截止發稿，Kospi指數縮窄跌幅至2.2%。
-
----
-
-### 2026-06-11 08:27:39  #MKT News
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) public relations unit said on the 11th that, in two waves of operations, it "hit and destroyed" 18 key U.S. military targets in the Middle East.
-
----
-
-### 2026-06-11 08:27:25  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.85噸】截至2026年06月10日，全球最大的黃金ETF SPDR Gold Trust持倉量為1013.64噸，較前一個交易日減少2.85噸。
-
----
-
-### 2026-06-11 08:26:04  #MKT News #Market Regions #Emerging Markets
-
-South Korea's KOSPI pared losses to 2%.
-
----
-
-### 2026-06-11 08:25:59  #國際
-
-伊朗軍隊表示，無人機襲擊針對巴林的美國第五艦隊，包括其描述的與愛國者防空系統相連的通訊天線和雷達設施。 報告稱，這次行動是在美國違反停火協議並對伊朗南部進行打擊後實施的。它還補充說，伊朗部隊在襲擊中使用了“各種爆炸無人機”。 宣告表示，武裝部隊與其他軍種一起保持充分準備，並將繼續行動，直到“侵略者受到懲罰”。
-
----
-
-### 2026-06-11 08:25:06  #國際
-
-【伊朗打擊18個美軍重要目標】伊朗伊斯蘭革命衛隊航空航天部隊當地時間今天（6月11日）凌晨3點45分（北京時間早上8點15分）發表宣告稱，為懲罰侵略者，並回應美軍對革命衛隊部分勤務部隊、沿海哨所、警察中心和阿巴斯港機場的襲擊，在兩波行動中，革命衛隊航空航天部隊及海軍對美國位於科威特的阿里·薩利姆空軍基地、艾哈邁德·賈比爾空軍基地和位於巴林的謝赫·伊薩空軍基地的18個美軍重要目標進行了打擊。
-
----
-
-### 2026-06-11 08:24:55  #國際
-
-【伊朗稱打擊位於伊拉克的美軍基地】據伊朗光明通訊社11日報道，伊朗對伊拉克北部哈里爾美軍基地發動導彈襲擊，並摧毀了位於伊拉克庫爾德自治區的美軍雷達。 (新華社)
-
----
-
-### 2026-06-11 08:24:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran says it struck US base in northern Iraq】A state news agency reported on 11 that Iran launched a missile strike on the US base at Harir in northern Iraq and destroyed a US radar in the Iraqi Kurdistan region.
-
----
-
-### 2026-06-11 08:24:41  #公司
-
-【豫能控股：公司目前沒有綠電直供資料中心相關業務】豫能控股(001896)6月11日在互動平臺回覆稱，公司目前沒有綠電直供資料中心相關業務。
-
----
-
-### 2026-06-11 08:24:36  #公司
-
-【北斗星通：公司沒有佈局玻璃基板業務】北斗星通(002151)6月11日在互動平臺回覆稱，公司沒有佈局玻璃基板業務，也沒有規劃佈局此類業務。
-
----
-
-### 2026-06-11 08:24:27  #國際
-
-【特朗普：若無法達成協議將“轟炸伊朗至廢墟” 萬斯稱美國正與溫和派和強硬派談判】據報道，特朗普表示，如果伊朗拒絕達成協議，“我們將在明晚（東部時間11日）轟炸他們至廢墟”，並稱停火協議是“歷史上被破壞得最嚴重的”。美國副總統萬斯表示，美國在談判中正與伊朗內部的溫和派和強硬派接觸。特朗普還表示他已直接與伊朗官員通話；伊朗否認有任何此類通話。
-
----
-
-### 2026-06-11 08:22:18  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Iran's Islamic Revolutionary Guard Corps says it has struck 18 significant U.S. military targets.
-
----
-
-### 2026-06-11 08:21:48  #公司 #市場 #國際
-
-日本能源股隨原油價格上漲而走高，國際石油開發帝石股價上漲3.7%，日本石油勘探公司股價上漲2.9%。
-
----
-
-### 2026-06-11 08:21:34  #MKT News
-
-Euro STOXX 50 futures were down 0.9%, DAX futures down 0.8% and UK FTSE futures down 0.9%.
-
----
-
-### 2026-06-11 08:21:18  #市場 #國際
-
-歐洲斯托克50指數期貨下跌0.9%，德國DAX指數期貨下滑0.8%，英國富時指數期貨走低0.9%。
-
----
-
-### 2026-06-11 08:21:09  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iranian media says drones struck US Fifth Fleet Patriot system in Bahrain】Iranian media reported on the 11th that Iran used drones to attack the US Fifth Fleet in Bahrain, saying the action was in retaliation for US strikes on southern Iran. Reports said the communications antenna and radar facilities of the Fifth Fleet’s Patriot missile system were targeted.
 
 ---
