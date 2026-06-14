@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-15 05:41:23",
-  "count": 18308,
+  "updated": "2026-06-15 05:45:22",
+  "count": 18309,
   "items": [
+    {
+      "id": "4934810",
+      "time": "2026-06-15 05:43:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗方面稱：憑藉軍隊與民眾對邪惡之敵的有力抗爭、堅定立場和英勇抵抗，美國被迫接受結束戰爭。"
+    },
+    {
+      "id": "4934809",
+      "time": "2026-06-15 05:43:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【養殖企業5月份銷售均價環比上漲 行業迎階段性暖意】截至6月14日，A股擁有生豬養殖業務的上市公司陸續釋出了5月份的銷售資料。結合資料情況來看，上述企業5月份銷售均價環比有明顯上漲，這讓持續深陷價格低谷的生豬養殖板塊迎來階段性暖意。"
+    },
     {
       "id": "4934808",
       "time": "2026-06-15 05:40:14",
@@ -168353,14 +168371,6 @@
         "MKT News"
       ],
       "text": "Al Arabiya reports Netanyahu and Trump held a 20-minute phone call."
-    },
-    {
-      "id": "mkt:019ea40c-266e-7ee0-86d4-0c16be03c37c",
-      "time": "2026-06-08 05:45:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine President ZELENSKIY said Kyiv's long-range strikes are effective, but protection against ballistic threats is \"extremely important\"."
     }
   ]
 }
