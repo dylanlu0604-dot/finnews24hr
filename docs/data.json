@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-15 06:59:58",
-  "count": 18391,
+  "updated": "2026-06-15 07:08:49",
+  "count": 18374,
   "items": [
+    {
+      "id": "te:markets:558809",
+      "time": "2026-06-15 07:02:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Hits Over 2-Month High Amid US-Iran Deal Optimism — The NZX 50 rose 85 points, or 0.6%, to 13,479 in early Monday trading, extending gains from the previous session after news that the US and Iran had reached a peace deal, with the signing set for Friday. The broader index hovered near its highest level since March 6, mainly supported by consumer staples, financials, and consumer discretionary stocks. The latest data also lifted sentiment, with New Zealand card spending rebounding in May. However, gains were capped after New Zealand's private sector activity contracted at the fastest pace in a year, as the services sector shrank for the fourth consecutive month while manufacturing recorded its first contraction in 11 months. Traders also awaited this week's release of New Zealand's Q1 GDP data and the Fed's monetary policy decision. Among the early gainers were A2 Milk (4.5%), Ebos Group (4.2%), AFT Pharmaceuticals (1.6%), Freightways Group (1.1%), Infratil (1.1%), and Turners Automotive Group (1.2%)."
+    },
+    {
+      "id": "4934924",
+      "time": "2026-06-15 07:02:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗最高國家安全委員會正式確認伊美諒解備忘錄達成】據伊朗媒體15日報道，伊朗最高國家安全委員會當天凌晨發表宣告，正式確認伊美停戰諒解備忘錄達成。（新華社）"
+    },
+    {
+      "id": "4934923",
+      "time": "2026-06-15 07:01:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副外長：核實美方履行承諾後將啟動60天談判】據伊朗塔斯尼姆通訊社15日凌晨報道，伊朗外交部副部長加里巴巴迪表示，伊美諒解備忘錄正式簽署儀式將於19日在瑞士舉行，待伊朗核實美方履行承諾後將啟動為期60天的談判。加里巴巴迪說，伊美雙方代表團負責人將於19日進行會談以確定後續安排。啟動60天談判的前提是美方履行關於結束戰事、解除封鎖和解凍資產的承諾。他說，60天談判將涉及解除美國對伊朗全部制裁、伊朗核問題以及經濟重建與發展問題，並確定監督雙方履行承諾的機制等。（新華社）"
+    },
+    {
+      "id": "mkt:019ec85d-0543-7dd8-aff8-c8fb08f6e981",
+      "time": "2026-06-15 06:59:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Iran's Supreme National Security Council confirms Iran-US ceasefire MOU】Iranian media reported on the 15th that Iran's Supreme National Security Council, in a statement in the early hours, formally confirmed an Iran-US ceasefire memorandum of understanding."
+    },
+    {
+      "id": "4934922",
+      "time": "2026-06-15 06:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國、法國、德國準備解除針對伊朗的相關制裁。"
+    },
     {
       "id": "mkt:019ec85b-2feb-7dd8-aff8-c69f0ceeca73",
       "time": "2026-06-15 06:57:59",
@@ -168870,247 +168920,6 @@
         "國際"
       ],
       "text": "SK電訊：計劃在韓國依託英偉達技術建設吉瓦級人工智慧雲基礎設施；首個人工智慧工廠計劃於2027年投產上線。"
-    },
-    {
-      "id": "mkt:019ea458-92e3-7ee0-86d4-f81c90072f4d",
-      "time": "2026-06-08 07:08:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "017670.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Telecom plans its first artificial intelligence factory to begin operations in 2027."
-    },
-    {
-      "id": "mkt:019ea458-7528-7ee0-86d4-f520ab82dce3",
-      "time": "2026-06-08 07:08:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "017670.KS",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "SK Telecom plans to build gigawatt-scale AI cloud facilities in South Korea using NVIDIA technology."
-    },
-    {
-      "id": "4922356",
-      "time": "2026-06-08 07:08:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部稱對以色列進行防禦性打擊 警告其停止襲擊黎巴嫩】為回應以色列擴大在黎巴嫩軍事行動並空襲黎首都貝魯特南郊，伊朗7日晚對以色列發動打擊。據以軍通報，伊朗發射至少三輪導彈，以軍“攔截所有來襲導彈”。一名以色列官員說，以方將“強力回應”。（央視）"
-    },
-    {
-      "id": "mkt:019ea458-1296-7ee0-86d4-eb4285663565",
-      "time": "2026-06-08 07:08:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "SK Hynix will use NVIDIA's digital twin technology to create virtual replicas of its chip fabs."
-    },
-    {
-      "id": "4922355",
-      "time": "2026-06-08 07:07:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：將運用英偉達的數字孿生技術，在虛擬空間重構晶片工廠。"
-    },
-    {
-      "id": "4922354",
-      "time": "2026-06-08 07:07:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【QDII基金港股打新斬獲豐厚收益 解禁考驗後續走向】依託港股IPO基石投資帶來的打新收益，已成為公募QDII基金增厚業績的重要抓手。2026年港股行情結構分化明顯，公募QDII產品成為公募中唯一可憑藉基石身份參與港股打新的品類，因此頻頻斬獲豐厚收益，業績也甩開無法參與IPO打新的港股通基金。不過，隨著7月即將迎來新股集中解禁視窗，下半年籌碼集中兌現壓力逐步顯現，QDII港股基石打新模式的後續走向也備受關注。"
-    },
-    {
-      "id": "4922353",
-      "time": "2026-06-08 07:07:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【SK海力士：將與英偉達為全球人工智慧工廠聯合開發下一代儲存器】SK海力士稱，將與英偉達為全球人工智慧工廠聯合開發下一代儲存器，將持續供應符合英偉達基礎設施路線圖要求、滿足全球人工智慧基礎設施需求的儲存晶片。考慮到高階儲存晶片漫長的開發週期，長期合作關係可保障供應穩定。SK海力士將多元化發展，進軍英偉達正在創造的新市場。"
-    },
-    {
-      "id": "mkt:019ea456-43a0-7ee0-86d4-e4186dec173e",
-      "time": "2026-06-08 07:06:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "SK Hynix will continue to supply memory products aligned with NVIDIA's infrastructure roadmap and global AI infrastructure demand."
-    },
-    {
-      "id": "4922352",
-      "time": "2026-06-08 07:06:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士將多元化發展，進軍英偉達正在創造的新市場。"
-    },
-    {
-      "id": "4922351",
-      "time": "2026-06-08 07:05:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "海力士：考慮到高階儲存晶片漫長的開發週期，長期合作關係可保障供應穩定。"
-    },
-    {
-      "id": "4922350",
-      "time": "2026-06-08 07:05:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【塔斯尼姆通訊社：伊朗擁有足夠數量的導彈 隨時可發射】半官方的塔斯尼姆通訊社援引軍方訊息人士的話報道，如果以色列採取報復行動，伊朗已準備好足夠數量的導彈，可隨時發射。訊息人士稱，伊朗下一波襲擊規模將更大，也將擴大到以色列境內的更多目標。如果以色列做出回應，伊朗已做好進入更大規模對抗的準備。"
-    },
-    {
-      "id": "mkt:019ea454-334b-7ee0-86d4-d9d023ea82a8",
-      "time": "2026-06-08 07:04:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "000660.KS",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "SK Hynix is co-developing next-generation memory with NVIDIA to supply global AI factories."
-    },
-    {
-      "id": "4922349",
-      "time": "2026-06-08 07:03:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科技“老登”重上AI牌桌 AI產業演進趨勢重新定價】近期，以戴爾、聯想集團為代表的公司“老樹發新芽”，不少傳統公司正重回行情與投資的“C位”，並頻頻現身權益類基金的核心重倉名單。有分析指出，科技“老登”重上AI牌桌，這絕非一次簡單的高低切炒作，而是機構投資者在深思熟慮後，對AI產業演進趨勢的重新定價。多位公募基金人士表示，隨著AI建設需求向更多細分領域深度轉移，科技投資正逐步從主題驅動轉向業績驅動。在這個去偽存真的過程中，擁有堅實基本面兌現能力、能切實受益於產業生態重塑的“老面孔”，正迎來中長期估值體系的系統性抬升。"
-    },
-    {
-      "id": "4922348",
-      "time": "2026-06-08 07:03:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK Telecom將與英偉達合作構建人工智慧基礎設施。"
-    },
-    {
-      "id": "mkt:019ea452-e4ef-7ee0-86d4-d574f5a39df4",
-      "time": "2026-06-08 07:02:34",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Zelenskiy said he had briefed UK Prime Minister Starmer on key matters to protect Ukraine's energy infrastructure and prepare for winter."
-    },
-    {
-      "id": "4922347",
-      "time": "2026-06-08 07:02:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基在X平臺發文稱：已就保護能源基礎設施以及為冬季做準備的相關重點事項與斯塔默進行了溝通。"
-    },
-    {
-      "id": "mkt:019ea452-af57-7ee0-86d4-cd1e9eba6300",
-      "time": "2026-06-08 07:02:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "NVIDIA said SK Hynix will co-develop memory for its Vera Rubin, Vera CPU, RTX Spark and Jetson Thor products."
-    },
-    {
-      "id": "4922346",
-      "time": "2026-06-08 07:02:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機器人行業正加速從主題驅動轉向產業落地】近期，隨著宇樹科技快速過會、特斯拉Optimus量產臨近，以及“物理AI”推動的智慧化演進，機器人行業正加速從主題驅動轉向產業落地。在資本市場、產業進展與AI技術三重共振下，人形機器人行業熱度攀升。市場資料印證了這一趨勢：中證機器人指數近一年累計上漲36.85%，相關主題基金普遍獲得可觀收益，資金持續流入推動多隻ETF規模顯著擴張。多家公募機構對證券時報記者表示，隨著量產節奏逐步明確、供應鏈能力持續成熟以及AI大模型加速迭代，人形機器人行業正逐步從主題驅動邁向產業驅動，行業競爭焦點也開始從硬體本體向智慧化能力轉移。"
-    },
-    {
-      "id": "mkt:019ea452-23fc-7ee0-86d4-c18d014686e6",
-      "time": "2026-06-08 07:01:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "NVDA.O",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "NVIDIA and SK Hynix to launch a multi-year technology collaboration to advance memory innovations for AI infrastructure, deepen HBM and custom memory development, and accelerate inference of trillion-parameter models."
-    },
-    {
-      "id": "mkt:019ea451-cc81-7ee0-86d4-b82261e4a21c",
-      "time": "2026-06-08 07:01:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA says SK Telecom will partner to build AI infrastructure and deepen cooperation to deploy GPU clusters, aiming to accelerate AI innovation in South Korea and support semiconductor manufacturing and digital-twin applications."
-    },
-    {
-      "id": "mkt:019ea451-6b23-7ee0-86d4-b555ab3ad7fb",
-      "time": "2026-06-08 07:00:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "035420.KS"
-      ],
-      "text": "South Korea's Naver will adopt NVIDIA technology to build a gigawatt-scale AI factory to meet rising global demand for AI services and physical AI."
-    },
-    {
-      "id": "4922345",
-      "time": "2026-06-08 07:00:52",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英偉達與SK海力士宣佈達成多年技術合作關係，共同升級人工智慧工廠的儲存技術。"
     }
   ]
 }
