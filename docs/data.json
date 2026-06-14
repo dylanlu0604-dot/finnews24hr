@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-14 13:03:31",
-  "count": 18307,
+  "updated": "2026-06-14 13:07:27",
+  "count": 18306,
   "items": [
+    {
+      "id": "4934184",
+      "time": "2026-06-14 13:05:07",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗銀行：世界盃或將為金融市場帶來短暫平靜】花旗銀行認為，正在進行的國際足聯世界盃有望暫時降低市場波動。 原因在於：數以百萬計的民眾（其中也包括部分交易員與投資者）將注意力投向賽事，市場交易活躍度往往隨之下降。 當大家的目光聚焦在進球、點球與紅牌之上時，市場參與度會短暫走低，交易環境也會趨於平穩。 通脹、利率、地緣政治緊張等深層問題並未消失，只是在全球觀眾觀賽期間暫時偃旗息鼓。"
+    },
+    {
+      "id": "4934183",
+      "time": "2026-06-14 13:03:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總統在特朗普80歲之際發帖：感謝特朗普對以色列安全的堅定承諾。"
+    },
     {
       "id": "mkt:019ec47e-4936-7dd8-afee-fff77a8330a2",
       "time": "2026-06-14 12:57:50",
@@ -168352,40 +168369,6 @@
         "其他"
       ],
       "text": "【英媒：“威爾士親王”號航母再次發生故障，被迫停靠挪威維修】“英國皇家海軍耗資30億英鎊的旗艦航母再次發生故障。”英國《每日電訊報》等媒體5日報道稱，英國“威爾士親王”號航母自首航以來遭遇一系列問題，日前又因“機械故障”被迫停靠挪威進行維修。（環球網）"
-    },
-    {
-      "id": "mkt:019ea079-c028-7665-8316-a99c7b7ac054",
-      "time": "2026-06-07 13:06:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【China Galaxy Macro: Strong nonfarm payrolls do not imply Fed will hike this year】China Galaxy Macro says May nonfarm payrolls beat expectations but do not imply the Fed will raise rates this year. May labor-market data remain overall stronger than expected, leaving the Fed without near-term evidence to justify a rate cut; at the same time the labor-market structure shows no clear acceleration that would trigger an inflationary spiral, so markets need not overprice an intra-year hike. Stronger nonfarm prints since March raise the bar for cuts but, in China Galaxy Macro’s view, do not create upward pressure to hike. The group considers markets have likely overestimated hike risk, though lagging economic releases cannot disprove that risk and the Fed remains data-dependent. After extreme AI-driven positioning, markets face a correction risk; liquidity normalization is expected to resume this year but timing is uncertain."
-    },
-    {
-      "id": "4921684",
-      "time": "2026-06-07 13:05:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科創板生物醫藥板塊一季報淨利翻倍，龍頭密集回購增持傳遞信心】淨利翻倍、回購潮湧，科創板生物醫藥板塊長期價值獲認可。資料顯示，2026年一季度，科創板119家生物醫藥公司合計實現營業收入327.14億元，同比增長15.21%；實現淨利潤31.41億元，同比增長109.26%，行業景氣持續回升，盈利質量明顯改善。從細分賽道看，創新藥研發成果加快兌現，商業化放量疊加BD出海共同推動板塊迎來盈利拐點，景氣度向上遊CXO等配套環節傳導，產業鏈協同效應增強；高階醫療裝置與耗材依託海外市場開啟新的增長空間；在估值處於歷史低位之際，多家龍頭密集回購增持，主動釋放看好長期發展的訊號。（澎湃）"
-    },
-    {
-      "id": "4921683",
-      "time": "2026-06-07 13:03:35",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【金價後續怎麼走】據央行資料，中國5月末黃金儲備報7496萬盎司（約2331.52噸），環比增加32萬盎司（約9.95噸），為連續第19個月增持黃金。近日，國際金價經歷“斷崖式”下跌，截至6月6日收盤，現貨黃金報4327.46美元/盎司，跌幅達3.30%，已跌至2025年12月31日4325美元/盎司的年末收盤價位。摩根士丹利在4月末將2026年下半年黃金目標價下調至5200美元/盎司，遠低於此前5700美元的預測。下調的理由是地緣摩擦導致實際利率上行、美聯儲降息延後，黃金與實際利率的經典負相關關係由此迴歸常態。摩根大通將2026年黃金平均價格預測從5708美元/盎司重估至5243美元/盎司。報告中提到，近期貴金屬市場整體陷入觀望期，投資者興趣明顯降溫，2026年第四季度目標價仍為6000美元/盎司。 業內人士建議，對於普通投資者而言，拿出大約10%的資金投資黃金會比較穩妥，配置比例控制在家庭資產的5%至15%，用長期閒置資金佈局。在金價劇烈波動的當下，應分批佈局、控制倉位。（每經）"
     }
   ]
 }
