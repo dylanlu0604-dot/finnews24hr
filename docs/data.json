@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-15 05:37:26",
-  "count": 18309,
+  "updated": "2026-06-15 05:41:23",
+  "count": 18308,
   "items": [
+    {
+      "id": "4934808",
+      "time": "2026-06-15 05:40:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲0.86%。"
+    },
+    {
+      "id": "mkt:019ec811-c72a-7dd8-aff7-35c5b03e5370",
+      "time": "2026-06-15 05:37:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reports Iranian officials will speak in a few minutes regarding reports that an agreement has been reached."
+    },
     {
       "id": "4934807",
       "time": "2026-06-15 05:35:46",
@@ -168341,33 +168361,6 @@
         "MKT News"
       ],
       "text": "Ukraine President ZELENSKIY said Kyiv's long-range strikes are effective, but protection against ballistic threats is \"extremely important\"."
-    },
-    {
-      "id": "mkt:019ea407-ee47-7ee0-86d4-04f404be417d",
-      "time": "2026-06-08 05:40:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Ukraine's president Zelenskiy said Europe's position and voice in negotiations have always been treated as priorities."
-    },
-    {
-      "id": "4922283",
-      "time": "2026-06-08 05:40:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基在與歐盟E3會晤後表示：讓歐洲在談判中保持強硬立場與話語權，一直是我們的優先要務。"
-    },
-    {
-      "id": "4922282",
-      "time": "2026-06-08 05:39:58",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果2026全球開發者大會正式開幕，本次大會重點對Siri人工智慧進行重大革新，並推出多項軟體升級。"
     }
   ]
 }
