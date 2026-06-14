@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-15 01:37:08",
-  "count": 18393,
+  "updated": "2026-06-15 01:41:07",
+  "count": 18396,
   "items": [
+    {
+      "id": "4934705",
+      "time": "2026-06-15 01:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國密蘇里州巴特勒縣發生飛機墜毀事故，造成至少12人遇難。"
+    },
+    {
+      "id": "4934704",
+      "time": "2026-06-15 01:39:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：伊朗方面釋出了與美國擬定臨時協議的多個不同版本，而美國總統特朗普仍堅持其週日簽署協議的時間表。"
+    },
+    {
+      "id": "mkt:019ec737-4ffc-7dd8-aff5-b054b3f09b41",
+      "time": "2026-06-15 01:39:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Channel 15 reported Israel will not agree to refrain from responding to Iran, even if that is U.S. President Trump's wish."
+    },
+    {
+      "id": "mkt:019ec736-60de-7dd8-aff5-adb2675e6713",
+      "time": "2026-06-15 01:38:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's Channel 15 reports Israel will not agree to halt strikes in the southern suburbs of Beirut."
+    },
+    {
+      "id": "mkt:019ec736-0f7f-7dd8-aff5-a57d4be3006d",
+      "time": "2026-06-15 01:37:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "According to Israel's Channel 15, Israel has decided it will respond militarily if Iran fires missiles at Israel."
+    },
+    {
+      "id": "4934703",
+      "time": "2026-06-15 01:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "近幾周，受美伊談判影響，油價有所回落，美國汽油價格已降至每加侖4美元附近，逼近這一關鍵價位。"
+    },
     {
       "id": "mkt:019ec735-0ae5-7dd8-aff5-98f5c989cbaf",
       "time": "2026-06-15 01:36:42",
@@ -169117,34 +169177,6 @@
         "國際"
       ],
       "text": "美國國家颶風中心（NHC）表示，墨西哥南部部分地區預計將遭遇暴雨及洪澇災害。"
-    },
-    {
-      "id": "4922126",
-      "time": "2026-06-08 01:41:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構（IAEA）：機構一支團隊已對今早無人機襲擊給切爾諾貝利場址附近的中央乏燃料儲存設施造成的影響展開核查。"
-    },
-    {
-      "id": "4922125",
-      "time": "2026-06-08 01:38:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英媒稱美考慮收購查戈斯群島】據英國《每日電訊報》當地時間6月7日報道，美國政府正考慮一項計劃，旨在繞過英國，從模里西斯手中收購查戈斯群島，從而獲取該群島主島迪戈加西亞島的控制權。查戈斯群島位於模里西斯東北方向約750公里的印度洋西南海域，1965年被割讓給英國殖民當局。英國次年把迪戈加西亞島租給美國建空軍基地。2025年5月22日，英國與模里西斯簽署協議，查戈斯群島主權被正式移交給模里西斯。根據協議，迪戈加西亞軍事基地將由模里西斯租借給英國和美國。但美國總統特朗普多次批評英國政府把查戈斯群島主權交還給模里西斯，稱其“愚蠢至極”，犯下“重大錯誤”。 迪戈加西亞軍事基地是美軍戰略轟炸機執行遠端打擊的“前哨站”，在海灣戰爭、伊拉克戰爭和阿富汗戰爭中均被投入使用。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ea329-ecb4-7ee0-86d1-7543d8527721",
-      "time": "2026-06-08 01:38:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Israel says it struck Hezbollah command centre in southern Beirut suburb】The Israel Defense Forces said on the 7th it carried out a precision strike on a Hezbollah command centre in the Dahiyeh district south of Beirut, responding to rockets fired at Israel earlier that day. The IDF said the facility was used to plan attacks on Israeli civilians and Israeli forces operating in Lebanon."
     }
   ]
 }
