@@ -1,7 +1,114 @@
 {
-  "updated": "2026-06-15 06:47:59",
-  "count": 18376,
+  "updated": "2026-06-15 06:52:01",
+  "count": 18386,
   "items": [
+    {
+      "id": "mkt:019ec854-c720-7dd8-aff8-94441fe82636",
+      "time": "2026-06-15 06:50:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK, France, Germany and Italy leaders issued a joint statement reaffirming full support for Lebanon's stability, sovereignty and territorial integrity and stressing the importance of a strong ceasefire."
+    },
+    {
+      "id": "4934913",
+      "time": "2026-06-15 06:50:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國負責人對美伊達成協議表示歡迎，稱這是邁向和平的關鍵一步。"
+    },
+    {
+      "id": "4934912",
+      "time": "2026-06-15 06:49:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英、法、德、意E4領導人聯合宣告：重申全力支援黎巴嫩的穩定、主權與領土完整，同時重申達成強有力停火的重要性。"
+    },
+    {
+      "id": "mkt:019ec853-8c48-7dd8-aff8-8a2bdba29b87",
+      "time": "2026-06-15 06:49:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Leaders of the UK, France, Germany and Italy said in a joint statement they are prepared to cooperate with the US, Iran and the IAEA."
+    },
+    {
+      "id": "mkt:019ec853-80d2-7dd8-aff8-84e413a7e041",
+      "time": "2026-06-15 06:49:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "UK, France, Germany and Italy leaders said in a joint statement there is an urgent need to reopen the Strait of Hormuz unconditionally and without restrictions."
+    },
+    {
+      "id": "4934911",
+      "time": "2026-06-15 06:49:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "英、法、德、意E4領導人聯合宣告：隨時準備與美國、伊朗及國際原子能機構合作，以實現這一（伊朗核計劃）目標。"
+    },
+    {
+      "id": "te:economy:558808",
+      "time": "2026-06-15 06:49:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Credit Card Spending",
+        "Importance 1"
+      ],
+      "text": "New Zealand Credit Card Spending Rebounds — Seasonally adjusted electronic card transactions in New Zealand grew 1.7% month-over-month in May 2026, recovering from a downwardly revised 1.2% fall in the previous month."
+    },
+    {
+      "id": "mkt:019ec852-7003-7dd8-aff8-7d574dd79f74",
+      "time": "2026-06-15 06:48:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Leaders of the UK, France, Germany and Italy said in a joint statement that Iran must never acquire nuclear weapons. They said they are prepared to lift relevant sanctions once Iran implements clear, verifiable measures on its nuclear program."
+    },
+    {
+      "id": "mkt:019ec852-69bb-7dd8-aff8-71365351b9b7",
+      "time": "2026-06-15 06:48:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Kyiv mayor says air strikes knocked out power for about 140,000 residents and damaged transmission lines."
+    },
+    {
+      "id": "4934910",
+      "time": "2026-06-15 06:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英、法、德、意E4領導人聯合宣告：霍爾木茲海峽急需重新開放，實現無條件、無限制航行自由至關重要。"
+    },
+    {
+      "id": "4934909",
+      "time": "2026-06-15 06:47:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長稱，空襲導致14萬居民斷電，電力線路受損。"
+    },
     {
       "id": "4934908",
       "time": "2026-06-15 06:47:22",
@@ -168962,16 +169069,6 @@
         "S&P500"
       ],
       "text": "【This week: US and China CPI, ECB and BOC meetings; SpaceX IPO; Apple and Huawei developer events】Tuesday — China releases May trade balance; Germany posts April seasonally adjusted trade balance and monthly industrial output; US reports April trade balance, NFIB small-business survey, ADP payrolls and May existing-home sales. Apple WWDC runs through June 13. Wednesday — US releases May CPI; API and EIA weekly crude inventories and EIA short-term energy outlook due; China slated to publish May CPI, PPI and M2 (timing TBA). BOC interest-rate decision with governor and senior deputy governor press briefing. Oracle reports quarterly results. Thursday — US initial jobless claims and May PPI; EIA weekly natural gas inventory; US 10-year Treasury auction. ECB rate decision and press conference; OPEC monthly report. Friday — Germany and France release May CPI; UK posts April three‑month GDP, manufacturing output and industrial production. US preliminary 1‑year inflation expectation and University of Michigan consumer sentiment (prelim). Friday events: Huawei developer conference; SpaceX IPO on Nasdaq. Saturday — Baker Hughes US rig count for week to June 12."
-    },
-    {
-      "id": "4922339",
-      "time": "2026-06-08 06:51:25",
-      "tags": [
-        "央行",
-        "資料",
-        "國際"
-      ],
-      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 07:50 日本一季度實際GDP終值、日本4月貿易帳；\n② 14:00 德國4月工廠訂單；\n③ 16:30 歐元區6月Sentix投資者信心指數；\n④ 23:00 美國5月紐約聯儲1年通脹預期。"
     }
   ]
 }
