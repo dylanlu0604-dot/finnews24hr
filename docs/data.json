@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-15 03:28:03",
-  "count": 18387,
+  "updated": "2026-06-15 03:32:02",
+  "count": 18382,
   "items": [
+    {
+      "id": "mkt:019ec79e-3f60-7dd8-aff6-7ce5a43f83a9",
+      "time": "2026-06-15 03:31:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry says Israeli strike on southern Beirut suburb seriously violated ceasefire】Iran’s foreign ministry strongly condemned an Israeli strike on a residential area in southern Beirut on the afternoon of June 14, saying the attack wounded multiple Lebanese civilians. Tehran said the incident violated Lebanon’s sovereignty and territorial integrity and seriously breached an April 8 ceasefire understanding with the United States. Iran reiterated that the US bears direct responsibility for Israel’s actions and repeated ceasefire violations, said it will take all necessary measures to exercise its right of self-defense, and warned that the US and Israel would be held accountable for any dangerous consequences to regional peace and security."
+    },
+    {
+      "id": "4934756",
+      "time": "2026-06-15 03:31:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部稱，在以色列襲擊貝魯特南郊後，美國對以色列在黎巴嫩違反停火協議的行為負有直接責任。"
+    },
+    {
+      "id": "mkt:019ec79d-387d-7dd8-aff6-758c003fee45",
+      "time": "2026-06-15 03:30:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Energy expert says oil may stay elevated into September even if Strait of Hormuz reopens】Rapidan Energy president Bob McNally warned that even if the Strait of Hormuz reopens soon, oil prices could remain high into September and US consumers should prepare for sustained summer fuel costs. He said market shock absorbers, including the US Strategic Petroleum Reserve, are being rapidly drawn down; EIA data show oil supplies fell by 7.9 mln barrels in the week to June 5. McNally cautioned that absent a durable US‑Iran agreement, oil could spike to around $115/bbl and US gasoline prices could reach about $5/gal, and he estimated the conflict has cost more than 1 bln barrels of oil. The Strait of Hormuz carries roughly one‑fifth of global oil flows; its reopening is viewed as key to ending the largest recorded oil disruption."
+    },
     {
       "id": "4934755",
       "time": "2026-06-15 03:25:41",
@@ -168987,88 +169016,6 @@
         "DXY"
       ],
       "text": "Israeli media, citing security sources, report Israel will respond to Iran."
-    },
-    {
-      "id": "4922184",
-      "time": "2026-06-08 03:31:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列交通部：以色列領空目前仍保持開放。"
-    },
-    {
-      "id": "4922183",
-      "time": "2026-06-08 03:31:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "全日空公司執行長表示，該公司仍預計在2027財年接收推遲已久的波音777X飛機。"
-    },
-    {
-      "id": "4922182",
-      "time": "2026-06-08 03:30:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "全日空執行長表示，如果波音777X機型交付延誤，航司將推遲現有飛機的退役計劃，因此不會對運營造成影響。"
-    },
-    {
-      "id": "mkt:019ea390-b128-7ee0-86d2-7d5d3a50ccbb",
-      "time": "2026-06-08 03:30:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Supreme Leader adviser Mohsen Rezaee said Iran has repeatedly warned it will not tolerate ceasefire violations or attacks on Lebanon, and that the aggressor received a response tonight."
-    },
-    {
-      "id": "mkt:019ea38f-7783-7ee0-86d2-7202dd2834f9",
-      "time": "2026-06-08 03:29:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "According to Axios, U.S. President Trump has been briefed on escalation in Israel‑Iran tensions."
-    },
-    {
-      "id": "mkt:019ea38e-fa5d-7ee0-86d2-681a36aadc49",
-      "time": "2026-06-08 03:28:36",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Hezbollah said it attacked Israeli forces with drones and missiles."
-    },
-    {
-      "id": "4922181",
-      "time": "2026-06-08 03:28:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊此前曾表示，若以色列襲擊貝魯特，就會重啟對以色列的打擊行動。"
-    },
-    {
-      "id": "mkt:019ea38e-845f-7ee0-86d2-674f90919ff6",
-      "time": "2026-06-08 03:28:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "A third wave of ballistic missiles was launched from Iran toward northern Israel."
     }
   ]
 }
