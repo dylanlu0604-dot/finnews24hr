@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-14 21:53:21",
-  "count": 18242,
+  "updated": "2026-06-14 21:57:20",
+  "count": 18240,
   "items": [
+    {
+      "id": "mkt:019ec669-25df-7dd8-aff2-639dca36d267",
+      "time": "2026-06-14 21:54:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Hezbollah said it used air-to-air missiles to intercept an Israeli Hermes unmanned aerial vehicle over southern Lebanon and forced it to withdraw."
+    },
     {
       "id": "4934513",
       "time": "2026-06-14 21:52:09",
@@ -167798,30 +167810,6 @@
         "MKT News"
       ],
       "text": "Saudi outlet Alhadath, citing sources, said disarmament of Hamas remains disputed in Cairo-mediated Gaza talks; mediators have demanded Hamas hand over weapons \"from pistols to missiles\" to a Gaza administrative committee in return for Israel \"seriously\" implementing the agreement."
-    },
-    {
-      "id": "4922025",
-      "time": "2026-06-07 21:54:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示：我不便透露是否知曉伊朗最高領導人的行蹤，但我極有可能掌握其位置。"
-    },
-    {
-      "id": "4922024",
-      "time": "2026-06-07 21:54:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：訊息人士稱，哈馬斯與以色列在開羅進行的談判因以色列的條件而“陷入僵局”。"
-    },
-    {
-      "id": "4922023",
-      "time": "2026-06-07 21:53:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：加沙的談判代表要求哈馬斯將其武器交給加沙政府委員會。"
     }
   ]
 }
