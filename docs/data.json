@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-15 03:52:04",
-  "count": 18364,
+  "updated": "2026-06-15 03:56:07",
+  "count": 18357,
   "items": [
+    {
+      "id": "4934760",
+      "time": "2026-06-15 03:53:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普多名助手懷疑，《紐約時報》記者瑪吉·哈伯曼與喬納森·斯旺為撰寫新書《政權更迭》，獲取了白宮戰情室會議的錄音。 該場所安保級別極高，嚴禁攜帶錄音裝置，而這本書中詳細逐字記錄了多場敏感討論內容，相關官員對此深感擔憂。"
+    },
+    {
+      "id": "mkt:019ec7b2-39a4-7dd8-aff6-91b10ab33585",
+      "time": "2026-06-15 03:53:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported that earlier today rockets fired from southern Lebanon toward Israeli forces wounded two Israeli soldiers."
+    },
+    {
+      "id": "mkt:019ec7b1-9c53-7dd8-aff6-8a71437f33ef",
+      "time": "2026-06-15 03:52:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli news site YNet reported President Trump warned Iran he would hold Tehran responsible if it launched an attack that provoked an Israeli response, escalated the situation and derailed talks."
+    },
     {
       "id": "mkt:019ec7af-a482-7dd8-aff6-8045f5ce20d5",
       "time": "2026-06-15 03:50:37",
@@ -168766,95 +168797,6 @@
         "Impact bearish"
       ],
       "text": "President Trump said the US military is on alert."
-    },
-    {
-      "id": "mkt:019ea3a7-5ab2-7ee0-86d2-c6741cf8a87d",
-      "time": "2026-06-08 03:55:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said the US is close to reaching a deal and that a signing he had expected on Monday, Tuesday or Wednesday is now taking place."
-    },
-    {
-      "id": "4922207",
-      "time": "2026-06-08 03:54:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗為黎巴嫩對以色列發動打擊】伊朗伊斯蘭革命衛隊當地時間6月7日深夜發宣告稱，為回應以色列在黎巴嫩南部犯下的罪行、以軍對黎巴嫩南部提爾等地和包括首都貝魯特南郊在內的其他地區人民的大規模殺戮，革命衛隊航空航天部隊對以色列北部的拉馬特·大衛空軍基地發動了彈道導彈襲擊。革命衛隊表示，這僅僅是一次警告，如果以色列的侵略行為再次發生，伊朗回應的範圍將更加廣泛，並將涵蓋該地區所有美以目標。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ea3a6-e5c4-7ee0-86d2-bb1538034019",
-      "time": "2026-06-08 03:54:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he had told Iran its missile launches were sufficient and urged Tehran to return to the negotiating table to reach an agreement."
-    },
-    {
-      "id": "4922206",
-      "time": "2026-06-08 03:54:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "慕尼黑機場：德國空中交通管制局（DFS）已暫停所有航班運營，恢復時間另行通知。"
-    },
-    {
-      "id": "4922205",
-      "time": "2026-06-08 03:54:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：美軍已處於戒備狀態。"
-    },
-    {
-      "id": "4922204",
-      "time": "2026-06-08 03:54:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗高階訊息人士：如果以色列發動襲擊，美國在該地區的所有軍事基地都將被德黑蘭視為合法打擊目標。"
-    },
-    {
-      "id": "4922203",
-      "time": "2026-06-08 03:53:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "慕尼黑機場：因檢測到煙霧異味，慕尼黑機場塔臺於當晚8點33分完成人員疏散。"
-    },
-    {
-      "id": "4922202",
-      "time": "2026-06-08 03:53:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我原本就說和平協議會在週一、週二或週三簽署，現在這事（指伊朗局勢突變）就發生了。"
-    },
-    {
-      "id": "4922201",
-      "time": "2026-06-08 03:52:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "慕尼黑機場：航班運營臨時暫停。"
-    },
-    {
-      "id": "4922200",
-      "time": "2026-06-08 03:52:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元兌日元大致持穩，週一悉尼盤初報價160.30日元，此前低開至160.04日元。"
     }
   ]
 }
