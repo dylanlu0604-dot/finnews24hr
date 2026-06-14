@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-14 20:17:46",
-  "count": 18279,
+  "updated": "2026-06-14 20:21:54",
+  "count": 18280,
   "items": [
+    {
+      "id": "4934460",
+      "time": "2026-06-14 20:20:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：貴州燃氣兩融餘額：2.6億元，餘額增幅：81.68%；中化國際兩融餘額：9.7億元，餘額增幅：75.62%"
+    },
+    {
+      "id": "4934459",
+      "time": "2026-06-14 20:19:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列軍方在空襲貝魯特前已通知美軍中央司令部。"
+    },
+    {
+      "id": "mkt:019ec612-cfac-7dd8-aff1-85252e3f0511",
+      "time": "2026-06-14 20:19:41",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios reporter: Israeli and US officials say the Israeli military notified CENTCOM shortly before an airstrike on Beirut, Lebanon."
+    },
+    {
+      "id": "4934458",
+      "time": "2026-06-14 20:19:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國城市事務大臣將於週一與各大銀行高管舉行會談。"
+    },
+    {
+      "id": "mkt:019ec611-dba2-7dd8-aff1-79b912a1fb5d",
+      "time": "2026-06-14 20:18:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran lawmaker says some criticisms of U.S.-Iran memorandum exaggerated】A member of the Iranian parliament's Economic Committee said the current U.S.-Iran memorandum draft contains defects and ambiguities, but calling it worse than the nuclear deal or a capitulation by Iran is inaccurate. He added the circulated text still has many problems and disputes, yet some critics' language is clearly exaggerated and does not reflect the draft's actual content and meaning."
+    },
+    {
+      "id": "4934457",
+      "time": "2026-06-14 20:17:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議員：對伊美諒解備忘錄的部分批評失實】據伊朗學生通訊社14日報道，伊朗議會經濟委員會委員祖胡裡揚表示，當前討論的伊美諒解備忘錄文字確實存在“缺陷和不明確之處”，但將其描述為“比伊核協議更糟糕的協議”或“伊朗投降”並不準確。他說，目前流傳的諒解備忘錄文字仍存在不少問題和爭議，然而部分批評者的措辭明顯誇張，不能準確反映其實際內容和意義。（新華社）"
+    },
     {
       "id": "4934456",
       "time": "2026-06-14 20:16:50",
@@ -168113,46 +168165,6 @@
         "其他"
       ],
       "text": "【遼寧：推進丹東邊境經濟合作區、邊民互市貿易區高質量發展】近日，《遼寧省“十五五”海洋經濟發展規劃（徵求意見稿）》。其中提到，提升對外開放能級。利用好大連夏季達沃斯論壇、中國遼寧國際投資貿易洽談會等平臺，拓展海洋產業經貿合作。舉辦中國（大連）國際海洋商貿博覽會、中國大連國際海事展覽會等活動。高水平建設中國（遼寧）自由貿易試驗區。提升大連和營口綜合保稅區開放水平，加強大連、丹東、營口、盤錦跨境電子商務綜合試驗區建設。推進丹東邊境經濟合作區、邊民互市貿易區高質量發展。"
-    },
-    {
-      "id": "4921934",
-      "time": "2026-06-07 20:20:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 羅馬尼亞十家銀行遭反壟斷監管機構處罰，罰款總額達37.3億列伊。"
-    },
-    {
-      "id": "4921933",
-      "time": "2026-06-07 20:20:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週兩融餘額增幅最大：大有能源兩融餘額：1.71億元，餘額增幅：147.36%；兗礦能源兩融餘額：7.18億元，餘額增幅：89.34%"
-    },
-    {
-      "id": "4921932",
-      "time": "2026-06-07 20:19:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 英偉達、SK 海力士擬於週一召開媒體會。"
-    },
-    {
-      "id": "4921931",
-      "time": "2026-06-07 20:18:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長：軍方打擊了貝魯特達希耶區的恐怖分子指揮中心。"
-    },
-    {
-      "id": "4921930",
-      "time": "2026-06-07 20:17:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列：此次襲擊是對真主黨向以方開火的回應。"
     }
   ]
 }
