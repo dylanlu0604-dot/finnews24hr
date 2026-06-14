@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-15 06:40:08",
+  "updated": "2026-06-15 06:44:01",
   "count": 18371,
   "items": [
+    {
+      "id": "te:economy:558806",
+      "time": "2026-06-15 06:40:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Composite PMI",
+        "Importance 0"
+      ],
+      "text": "New Zealand Composite PMI Hits 1-Year Low — The BusinessNZ Performance of Composite Index dropped to 48.4 in May 2026 from a downwardly revised 49.2 in the previous month. It marked the third straight contraction and the steepest pace since May 2025, as the services sector contracted for the fourth consecutive month, while manufacturing registered its first contraction in 11 months."
+    },
     {
       "id": "mkt:019ec849-6ba3-7dd8-aff8-66285ad9afe1",
       "time": "2026-06-15 06:38:35",
@@ -168914,14 +168926,6 @@
         "國際"
       ],
       "text": "伊朗表示，其針對以色列目標的防禦性打擊屬於《聯合國憲章》規定的合法自衛行為。"
-    },
-    {
-      "id": "4922337",
-      "time": "2026-06-08 06:41:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI執行長奧特曼表示，在企業普遍收緊預算的背景下，企業端人工智慧token使用量大幅激增。"
     }
   ]
 }
