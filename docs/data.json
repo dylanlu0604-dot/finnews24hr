@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-15 04:46:34",
-  "count": 18322,
+  "updated": "2026-06-15 04:50:39",
+  "count": 18320,
   "items": [
+    {
+      "id": "4934784",
+      "time": "2026-06-15 04:49:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱美國應對以色列最新襲擊事件的後果負責】根據伊朗外交部發表的宣告，伊朗表示，對於以色列行動給地區和平與安全造成的任何“危險後果”，美國和以色列都將承擔責任。伊朗強烈譴責以色列週日對貝魯特發動襲擊，稱襲擊造成多名黎巴嫩公民死傷。伊朗稱，以色列的襲擊“嚴重違反停火協議”。"
+    },
     {
       "id": "4934783",
       "time": "2026-06-15 04:45:40",
@@ -168451,35 +168459,6 @@
         "其他"
       ],
       "text": "剛果方面表示，埃博拉確診病例已升至515例，其中包含91例死亡病例。"
-    },
-    {
-      "id": "mkt:019ea3d8-e586-7ee0-86d3-7d6011fe8e18",
-      "time": "2026-06-08 04:49:21",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "The UK government said leaders urged Russian President Putin to agree to an immediate, comprehensive ceasefire. It said that, once in effect, the ceasefire must be accompanied by strong, legally binding security guarantees for Ukraine, and that current contacts should serve as the starting point for negotiations."
-    },
-    {
-      "id": "4922257",
-      "time": "2026-06-08 04:49:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：E3領導人稱當前接觸線應作為談判的起點。"
-    },
-    {
-      "id": "4922256",
-      "time": "2026-06-08 04:48:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府：E3領導人表示，一旦停火生效，烏克蘭必須得到穩固且具有法律約束力的安全保障。"
     }
   ]
 }
