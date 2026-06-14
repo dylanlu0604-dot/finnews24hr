@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-14 16:38:50",
-  "count": 18276,
+  "updated": "2026-06-14 16:42:59",
+  "count": 18274,
   "items": [
+    {
+      "id": "mkt:019ec549-8b83-7dd8-afef-f64d03116da9",
+      "time": "2026-06-14 16:39:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said preliminary reports showed multiple locations in northern Israel sounded alerts for suspected aerial incursions; details are being verified."
+    },
+    {
+      "id": "4934340",
+      "time": "2026-06-14 16:39:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：北部地區多個空域已啟動敵對飛行器入侵警報，詳情正在調查中。"
+    },
     {
       "id": "4934339",
       "time": "2026-06-14 16:36:46",
@@ -168076,38 +168092,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：俄羅斯蓄意襲擊核燃料儲存設施，此次行徑惡劣。"
-    },
-    {
-      "id": "4921805",
-      "time": "2026-06-07 16:42:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列警方：以色列中部襲擊事件的疑似槍擊者已被“制服”。"
-    },
-    {
-      "id": "4921804",
-      "time": "2026-06-07 16:39:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：槍擊事件後正在研判局勢。"
-    },
-    {
-      "id": "mkt:019ea13c-d131-7665-8317-f2adc0566cc1",
-      "time": "2026-06-07 16:39:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister's Office said the prime minister is monitoring developments in shootings in Kokhav Ya'ir and Tzur."
-    },
-    {
-      "id": "mkt:019ea13c-3c05-7665-8317-efc7ab0f4ee1",
-      "time": "2026-06-07 16:38:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Armenia holds parliamentary election】Armenia held parliamentary elections on the 7th, with voters choosing at least 101 MPs from 18 parties and party alliances. Voting took place at 2,005 polling stations; more than 2.48 million voters were registered. Polling ran from 08:00 to 20:00 local time. The Central Election Commission will release preliminary counts within 24 hours and final results within a week. The new parliament will elect the next prime minister."
     }
   ]
 }
