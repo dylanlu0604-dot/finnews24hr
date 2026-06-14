@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-15 03:32:02",
-  "count": 18382,
+  "updated": "2026-06-15 03:36:05",
+  "count": 18376,
   "items": [
+    {
+      "id": "4934757",
+      "time": "2026-06-15 03:32:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部稱，美國和以色列應對地區局勢升級的後果負責。"
+    },
     {
       "id": "mkt:019ec79e-3f60-7dd8-aff6-7ce5a43f83a9",
       "time": "2026-06-15 03:31:37",
@@ -168951,71 +168959,6 @@
         "國際"
       ],
       "text": "以色列軍方表示，迄今為止已攔截所有從伊朗發射的導彈。"
-    },
-    {
-      "id": "mkt:019ea395-0455-7ee0-86d2-99c5e757f86f",
-      "time": "2026-06-08 03:35:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jordanian state television reported alarms sounding in parts of the country."
-    },
-    {
-      "id": "mkt:019ea394-55a9-7ee0-86d2-907c3d27764c",
-      "time": "2026-06-08 03:34:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "According to Walla reporter Adamker, Israel is reportedly seeking US permission to strike Iranian energy facilities."
-    },
-    {
-      "id": "4922187",
-      "time": "2026-06-08 03:34:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦國家電視臺：約旦部分地區已拉響警報。"
-    },
-    {
-      "id": "4922186",
-      "time": "2026-06-08 03:33:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列緊急救援部門：目前尚無人員傷亡。"
-    },
-    {
-      "id": "4922185",
-      "time": "2026-06-08 03:33:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列尋求美國批准對伊朗能源設施發動襲擊。"
-    },
-    {
-      "id": "mkt:019ea392-99ee-7ee0-86d2-8e3c3107d6c0",
-      "time": "2026-06-08 03:32:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Transport Ministry says Israeli airspace remains open."
-    },
-    {
-      "id": "mkt:019ea392-6f0a-7ee0-86d2-85312d2a3f31",
-      "time": "2026-06-08 03:32:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israeli media, citing security sources, report Israel will respond to Iran."
     }
   ]
 }
