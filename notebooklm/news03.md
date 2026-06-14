@@ -1,7 +1,168 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-14 08:04:08_
-_本檔包含 3724 則快訊，約 667321 字_
+_更新時間：2026-06-14 08:27:35_
+_本檔包含 3723 則快訊，約 665562 字_
+
+---
+
+### 2026-06-11 07:01:56  #MKT News #GBPUSD #Impact bearish
+
+UK May three-month RICS house price balance -35, vs -31 expected and -34 prior.
+
+---
+
+### 2026-06-11 07:01:48  #MKT News #Economic Calendar #Important
+
+United Kingdom | RICS House Price Balance (May) | actual -35 | consensus -31 | previous -34.00
+
+---
+
+### 2026-06-11 07:01:44  #國際
+
+【伊朗革命衛隊稱打擊兩艘非法透過霍爾木茲海峽的船隻】‌當地時間11日，伊朗伊斯蘭革命衛隊海軍稱，兩艘試圖非法透過霍爾木茲海峽的船隻遭到打擊。目前，伊朗暫未就該事件公佈更多細節。（央視新聞）
+
+---
+
+### 2026-06-11 07:01:37  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、5月居民消費市場執行總體平穩 工業生產者出廠價格指數同比上漲3.9%
+2、產品碳足跡核查機構認可制度實施
+3、我國基金行業服務投資者超8.6億人
+4、我國規模最大光氫儲一體化專案全面建成
+5、第四屆鏈博會首批進境展品順利通關
+6、總營收連續3年超千億元 科幻產業激盪新活力（大資料觀察）
+7、中國海洋經濟發展指數釋出 去年全國海洋生產總值達十一萬億元
+8、安徽多舉措最佳化營商環境
+9、前5月京津冀區域進出口增長14.4%
+10、探訪河北雄安新區創新鏈 在未來之城看見“未來場景”（經濟聚焦）
+11、新疆和田縣去年漁業產值同比增長超百分之一百四十 沙漠“海鮮”遊向百姓餐桌（高質量發展在一線·小城寶藏）
+12、工業和資訊化部印發意見 推動“人工智慧+資訊通訊”創新發展
+13、全國夏糧小麥收穫過七成 已收穫二點四八億畝
+14、八部門促鐵路與旅遊融合發展 打造160列以上鐵路旅遊列車專用車組
+15、雞蛋價格為何逆勢上漲（有問有答）
+16、海南自貿港推出“掌上通關”服務
+17、築造通江達海新通道 描繪長江發展新圖景 三峽水運新通道工程開工建設
+18、從“算力金屬”看傳統產業新機遇（每週經濟評論）
+19、江蘇南京軟體業務收入規模超萬億元，從業人員約90萬人 嵌入千行百業，軟體越來越“硬”（產經視野·推動生產性服務業高質量發展）
+20、世界盃訂單裡的“義烏答案”（環球走筆）。
+
+---
+
+### 2026-06-11 07:01:26  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、讓中朝傳統友誼之樹更加根深葉茂——習近平總書記對朝鮮進行國事訪問紀實
+2、弘揚優良傳統，密切團結協作——習近平總書記對朝鮮進行國事訪問在中朝關係發展史上具有重要里程碑意義
+3、江西吉安市大力弘揚井岡山精神——老區人民日子越過越好（牢記初心使命 奮進復興征程）
+4、李希在河南調研時強調 牢固樹立和踐行正確政績觀 推進新徵程紀檢監察工作高質量發展
+5、樹立和踐行正確政績觀學習教育繼續派出的4箇中央指導組完成進駐
+6、雲南厚植高質量發展的綠色底色。
+
+---
+
+### 2026-06-11 07:01:12  #其他
+
+英國5月三個月RICS房價指數 -35，預期 -32，前值 -34。
+
+---
+
+### 2026-06-11 07:00:27  #國際
+
+韓國5月失業率 2.8%，前值2.80%。
+
+---
+
+### 2026-06-11 07:00:21  #MKT News
+
+South Korea May unemployment rate unchanged at 2.8% (prior 2.8%).
+
+---
+
+### 2026-06-11 07:00:14  #MKT News #Economic Calendar #Important
+
+South Korea | Unemployment Rate (May) | actual 2.8% | previous 2.80%
+
+---
+
+### 2026-06-11 06:59:48  #MKT News
+
+IRAN'S NOUR reports air-defense activity in Robat Karim, Tehran province.
+
+---
+
+### 2026-06-11 06:59:20  #國際
+
+伊朗努爾新聞網：德黑蘭省羅巴特卡里姆市出現防空部隊行動。
+
+---
+
+### 2026-06-11 06:56:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Krasnodar regional governor said drones struck the southern Russian region and the Afipsky refinery caught fire afterward.
+
+---
+
+### 2026-06-11 06:56:25  #其他
+
+俄地方當局通報：阿菲普斯基煉油廠遭無人機襲擊後起火。
+
+---
+
+### 2026-06-11 06:56:09  #其他
+
+【引江補漢工程8號檢修交通洞順利貫通】6月10日，南水北調中線後續工程首個開工建設的重大專案——引江補漢工程再獲進展，全線重難點控制性工程8號檢修交通洞順利貫通。8號檢修交通洞位於湖北保康縣馬良鎮，全長2959米，工程採用國內引水隧洞工程直徑最大的單護盾硬巖掘進機，開挖直徑12.23米，整合超前地質預報等智慧監測系統，可提前識別斷層、湧水等風險。（央視新聞）
+
+---
+
+### 2026-06-11 06:55:53  #國際
+
+俄地方當局稱，俄羅斯南部克拉斯諾達爾邊疆區遭遇無人機襲擊。
+
+---
+
+### 2026-06-11 06:55:37  #公司 #國際
+
+【6月11日隔夜要聞一覽】
+1、美軍中央司令部稱，美軍開始對伊朗境內多個目標展開所謂“自衛打擊”。
+2、訊息人士稱，現階段以色列未參與美國對伊朗的打擊行動。
+3、伊朗對所有船隻關閉霍爾木茲海峽。
+4、美國總統特朗普於當地時間6月10日下午在白宮戰情室召開會議，討論針對伊朗可能採取的新一輪打擊行動。此前，特朗普威脅將對伊朗發動“猛烈打擊”。
+5、部分美國大銀行因涉嫌非法終止服務面臨聯邦調查。
+6、美國5月退還近220億美元關稅，基本抵消當月關稅收入。
+7、Anthropic執行長：政府有權叫停存在風險的人工智慧。
+8、微軟旗下的Xbox計劃進行大規模裁員。
+9、SpaceX獲得三大債券評級機構的投資級評級。
+
+---
+
+### 2026-06-11 06:55:25  #國際
+
+【美媒：美軍發動新一輪打擊之際，卡達談判人員仍滯留伊朗】一名知情外交訊息人士向CNN透露，卡達代表團於週三上午前往德黑蘭與伊朗談判人員會晤，目前該團隊仍停留在伊朗境內，而美軍此時正對伊朗展開新一輪打擊行動。 該訊息人士此前表示，卡達方面是在與美方溝通協商後前往伊朗，旨在同伊方洽談，彌合雙方尚存的分歧。
+
+---
+
+### 2026-06-11 06:53:49  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude rose 1.0% intraday to $93.68/bbl.
+
+---
+
+### 2026-06-11 06:53:38  #市場 #焦點
+
+WTI原油突破93美元/桶，日內漲3.31%。
+
+---
+
+### 2026-06-11 06:53:10  #焦點 #國際
+
+伊朗革命衛隊：兩艘試圖非法穿越霍爾木茲海峽的違規船隻被擊中。
+
+---
+
+### 2026-06-11 06:53:06  #MKT News #Important #WTI #Impact bullish #Brent
+
+Iran's Islamic Revolutionary Guard Corps said it struck two vessels attempting to illegally transit the Strait of Hormuz.
 
 ---
 
@@ -22311,137 +22472,5 @@ Agricultural Commodities Updates: Butter Falls by 3.07% — Top commodity losers
 ### 2026-06-10 02:20:39  #MKT News #Important #XAUUSD #Impact bullish #Brent #WTI
 
 Iran's foreign minister said the armed forces have gone on alert in response to airspace incursions.
-
----
-
-### 2026-06-10 02:20:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Falls by 4.09% — Top commodity losers are Silver (-4.09%), Silicon (-1.75%), Platinum (-1.52%) and Gold (-1.17%).
-
----
-
-### 2026-06-10 02:19:20  #MKT News #Important
-
-Sources said investor demand for SpaceX's IPO is approaching fourfold oversubscription.
-
----
-
-### 2026-06-10 02:19:10  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
-
-Iran's foreign minister said foreign forces operating near Iranian territory are continuously at risk — from human error, accidents or being drawn into crossfire during a conflict — and that the best way to reduce that risk is for those external forces to withdraw from the region.
-
----
-
-### 2026-06-10 02:18:07  #公司 #焦點 #國際
-
-市場訊息：SpaceX美國IPO 的認購需求已接近四倍超額認購。
-
----
-
-### 2026-06-10 02:16:44  #國際
-
-伊朗外長：想要降低風險，最好的辦法就是撤離。我們傾向於透過外交方式溝通，但也做好了其他應對準備。
-
----
-
-### 2026-06-10 02:16:43  #Trading Economics #Markets #commodity #Importance 0
-
-Cotton Hits 8-week Low — Cotton decreased to 75.41 USd/Lbs, the lowest since April 2026. Over the past 4 weeks, Cotton lost 14.01%, and in the last 12 months, it increased 15.44%.
-
----
-
-### 2026-06-10 02:16:26  #國際
-
-伊朗外長：臨近我國領土的外國駐軍，始終面臨風險，隱患源於人為失誤、意外事故，亦或是捲入交火衝突。
-
----
-
-### 2026-06-10 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Crude Oil WTI Falls by 3.28% — Top commodity losers are Crude Oil WTI (-3.28%), Natural Gas UK (-3.11%) and Brent Crude Oil (-2.68%). Gains are led by Methanol (1.91%) and Natural gas (0.50%).
-
----
-
-### 2026-06-10 02:12:38  #公司
-
-黑石集團買入特別風險轉移（SRT），銀行業正急於對沖貸款風險。
-
----
-
-### 2026-06-10 02:09:11  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOG.O #Impact bullish
-
-Google (GOOG.O) GEMINI launches AI-agent risk monitoring feature.
-
----
-
-### 2026-06-10 02:07:52  #公司
-
-谷歌 Gemini 推出智慧體風險監測功能。
-
----
-
-### 2026-06-10 01:57:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Abu Dhabi National Oil Company (ADNOC) CEO said ADNOC subsidiary XRG is highly interested in opportunities in Canada’s upstream oil sector and liquefied natural gas (LNG).
-
----
-
-### 2026-06-10 01:56:00  #國際
-
-【以色列重開一處加沙地帶過境點 聯合國呼籲開放全部通道】聯合國秘書長副發言人法爾漢·哈克在例行記者會上透露，以色列已重新開放加沙地帶的凱雷姆沙洛姆過境點，但聯合國及人道主義夥伴需要開放更多過境點，以滿足日益增加的人道主義需求。聯合國秘書長古特雷斯也呼籲以色列開放所有過境點。 (央視新聞)
-
----
-
-### 2026-06-10 01:55:20  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Israeli media reported two suspected aerial targets launched from Lebanon were intercepted before entering Israeli airspace.
-
----
-
-### 2026-06-10 01:54:48  #公司
-
-阿布扎比國家石油公司CEO：  旗下 XRG 部門對加拿大上游油氣及液化天然氣領域的合作機遇抱有濃厚興趣。
-
----
-
-### 2026-06-10 01:53:42  #MKT News #Brent #WTI
-
-Russia’s Emergency Situations Ministry reported three explosions on a major trunk gas pipeline in Dagestan.
-
----
-
-### 2026-06-10 01:49:38  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Falls on Mining and Energy Losses — The S&P/TSX Composite Index fell more than 0.5% to trade below 34,500 on Tuesday, weighed down by losses in the mining, energy, and technology sectors. Mining shares retreated as gold prices declined amid expectations that the Federal Reserve will maintain a hawkish stance. Agnico Eagle and WPM lost about 3%, while Franco-Nevada and Barrick shed around 2.5%. Energy stocks also weakened as oil prices pulled back after Israel and Iran agreed to halt attacks following a renewed flare-up in hostilities. Canadian Natural and Suncor dropped 3%. In the tech sector, Shopify fell 1.5%, while Celestica plunged 7% as investors took profits after the recent AI-driven rally. Investors also looked ahead to the BoC's policy decision on Wednesday, with policymakers expected to leave interest rates unchanged. Meanwhile, prospects for progress in US-Iran negotiations deteriorated after President Trump said Iran had shot down a US helicopter patrolling the Strait of Hormuz and vowed to retaliate.
-
----
-
-### 2026-06-10 01:49:36  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
-
-Amazon (AMZN.O): Claude Fable 5 is now available on Amazon Web Services (AWS).
-
----
-
-### 2026-06-10 01:43:47  #公司
-
-亞馬遜雲科技（AWS）： Claude Fable 5 模型已上線 AWS 平臺的 Claude 專區。
-
----
-
-### 2026-06-10 01:43:14  #公司
-
-亞馬遜雲科技（AWS）：Claude Fable 5 模型現已登陸亞馬遜 Bedrock 平臺。
-
----
-
-### 2026-06-10 01:42:02  #MKT News
-
-Abu Dhabi National Oil Company (ADNOC) upstream CEO Al Kaabi said exiting OPEC gives the UAE flexibility.
-
----
-
-### 2026-06-10 01:41:43  #MKT News
-
-【NYT: Four core US‑Iran nuclear negotiation items — 15‑year enrichment pause, dilution of stockpile, facility dismantling, snap inspections】The New York Times reports US and Iranian officials have a tentative framework for a nuclear deal that US aides say would stall Iran’s nuclear programme for roughly 15 years, contingent on the IRGC and hardliners not ousting Iran’s chief negotiator or derailing planned deeper talks in Switzerland this summer. Four principal items under discussion: 1) Long pause to uranium enrichment — US sought ≥20 years, Iran proposed 10 years, US officials say Iran may accept ~15 years. 2) Dilution of Iran’s existing enriched‑uranium stockpile — US would work with the IAEA; Iran says the US would be limited to observer status. 3) Dismantling nuclear facilities — US seeks removal of Natanz, Fordow and Isfahan; Iran has discussed dismantling two sites but insists on retaining one to demonstrate an asserted right to enrichment, a potential sticking point. 4) Acceptance of snap inspections — US seeks IAEA ability to carry out unannounced inspections anywhere in Iran; Iran’s willingness is unclear.
 
 ---

@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-14 08:04:08_
-_本檔包含 3665 則快訊，約 667004 字_
+_更新時間：2026-06-14 08:27:35_
+_本檔包含 3662 則快訊，約 665644 字_
+
+---
+
+### 2026-06-14 08:26:59  #國際
+
+特朗普將於歐洲中部夏令時間6月17日下午2點45分（北京時間17日20:45）會見印度總理。
+
+---
+
+### 2026-06-14 08:26:45  #國際
+
+特朗普將於歐洲中部夏令時間6月17日上午11:30（北京時間17日17:30）會見埃及總統。
+
+---
+
+### 2026-06-14 08:26:25  #國際
+
+特朗普將於歐洲中部夏令時間6月16日上午11點15分（北京時間16日17:15）會見阿聯酋總統。
+
+---
+
+### 2026-06-14 08:25:02  #國際
+
+特朗普將於歐洲中部夏令時間6月16日上午10:30會見卡達埃米爾。
+
+---
+
+### 2026-06-14 08:24:49  #國際
+
+特朗普將於歐洲中部夏令時間6月15日下午5:30（北京時間15日23:30）在埃維昂會見法國總統馬克龍。
+
+---
+
+### 2026-06-14 08:19:35  #其他
+
+【暴雨黃色預警持續，交通運輸部維持強降雨三級防禦響應】6月14日，交通運輸部影片排程廣東、廣西、福建、江西、雲南、內蒙古、吉林、遼寧省（區）交通運輸主管部門和廣東、廣西海事局，要求保持高度警惕，緊盯強降雨密集地區和連續降雨高風險區域，加強排程，完善工作機制，壓實各方責任，督促“響應、巡查、管控”主動防禦措施落實，堅決防範遏制重特大事故發生。要切實做好連續降雨防範應對工作，落實排查、巡查措施，確保力量預置、主動管控到位。交通運輸部將根據暴雨預警變化，及時調整防禦響應等級。
+
+---
+
+### 2026-06-14 08:06:24  #其他
+
+【巴西戰平摩洛哥】世界盃小組賽C組第1輪，巴西對陣摩洛哥。上半場比賽，摩洛哥率先取得進球，隨後維尼修斯內切爆射得分，巴西1-1追平比分。下半場，雙方均未進球，打成平手。（央視新聞）
+
+---
+
+### 2026-06-14 08:05:15  #MKT News #XAUUSD #Impact bullish #WTI
+
+【US military drafted May plan to seize Iran's enriched uranium; Trump declined】US military drew up in May a plan to send ground forces into Iran to seize enriched uranium stocks buried in underground tunnels at nuclear sites including Isfahan and Natanz. The plan stalled and the military began drafting a new removal option. Chairman of the Joint Chiefs of Staff Dan Keane returned urgently to U.S. Central Command on May 19 for a briefing and later reported the plan to President Trump. After warnings the operation could prompt strong Iranian retaliation, prolong conflict and exacerbate global economic disruption, Trump did not approve it. U.S. military assessment rated the operation's acceptable risk as "high" to "very high," indicating substantial U.S. casualties even if the mission succeeded.
 
 ---
 
@@ -22048,71 +22096,5 @@ China A-share PV equipment sector opened higher; Jingang PV rose more than 5%, w
 ### 2026-06-12 09:29:07  #市場
 
 【科創50指數高開3.82%】科創50指數高開3.82%，成分股中僅4股低開，中科飛測、佰維儲存、盛美上海、瀾起科技、拓荊科技領漲。
-
----
-
-### 2026-06-12 09:29:00  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內漲1%，現報4650.00點。
-
----
-
-### 2026-06-12 09:29:00  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內漲1%，現報8250.00點。
-
----
-
-### 2026-06-12 09:29:00  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲1%，現報8130.00點。
-
----
-
-### 2026-06-12 09:28:51  #其他
-
-【今年以來廣東外貿進出口連續5個月保持兩位數增長】從海關總署廣東分署瞭解到，今年前5個月，廣東進出口4.44萬億元人民幣，增長18.8%，連續5個月保持兩位數增長。其中，出口2.61萬億元，增長10.8%；進口1.83萬億元，增長32.4%。5月，廣東進出口9481.9億元，達歷史月度規模最高值，增長20.3%；其中，出口5491.3億元，增長8.6%；進口3990.6億元，增長41.2%。從出口商品看，“綠色”和“新質”產品雙輪驅動。前5個月，廣東出口機電產品1.84萬億元，增長15.1%，佔廣東出口總值的比重較去年同期提升2.7個百分點至70.5%。其中，鋰電池、電動汽車等綠色產品出口規模持續擴大，分別增長50.3%、17%；3D印表機、數字照相機、無人機等新質產品出口增長更快，分別增長1.2倍、70.7%、27.7%。從進口商品看，前5個月，廣東進口增速顯著高於出口。其中，進口積體電路7099.7億元，增長42.8%，佔廣東進口總值的38.9%；進口電腦及其零部件2542.6億元，增長49.5%。同期，進口食用植物油、牛肉、乳品、食用水產品等優質生活用品分別增長1.3倍、70.9%、8.4%、6.9%。
-
----
-
-### 2026-06-12 09:28:39  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
-
-Chinese shares opened higher on Friday, June 12: China's Shanghai Composite Index up 30.85 points (0.77%) at 4,017.86; Shenzhen Composite Index up 297.54 points (2.00%) at 15,149.52; CSI 300 Index up 62.23 points (1.32%) at 4,784.64; ChiNext Index up 109.84 points (2.88%) at 3,921.09; STAR 50 Index up 63.57 points (3.82%) at 1,726.01.
-
----
-
-### 2026-06-12 09:28:36  #公司 #市場
-
-【深交所：“盛德轉債”盤中臨時停牌】深交所公告，“盛德轉債”（123270）盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，本所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
-
----
-
-### 2026-06-12 09:28:00  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share semiconductor sector opened sharply higher; Lanjian Electronics, Jiangfeng Electronics and Fuchuang Precision rose over 10%, Kangqiang Electronics opened nearly 10% higher. Juguang Technology, Zhongke Feice and Shengong Co. also opened higher.
-
----
-
-### 2026-06-12 09:27:55  #央行 #美聯儲
-
-【沃什“FOMC首秀”在即 美聯儲6月維持利率不變機率升至98.5%】據CME“美聯儲觀察”，美聯儲到6月維持利率不變的機率為98.5%，累計降息25個基點的機率為1.5%。美聯儲到7月維持利率不變的機率為91.3%，累計加息25個基點的機率7.4%，累計降息25個基點的機率為1.4%。
-
----
-
-### 2026-06-12 09:27:52  #其他
-
-【全國最大半潛式綜合性網箱養殖平臺將投產】今天（12日）下午，全國規模最大的半潛式綜合性網箱養殖平臺將在海南三亞正式投產，並投放首批魚苗。該平臺的養殖水體總量達到6.4萬立方米，相當於約20個標準奧運游泳池的水量。全年可以產出800萬斤魚，同時還可以發展休閒漁業和垂釣觀光等農旅融合新業態。
-
----
-
-### 2026-06-12 09:27:39  #公司 #市場
-
-【半導體板塊大幅高開】半導體板塊大幅高開，藍箭電子、江豐電子、富創精密漲超10%，康強電子高開近10%，炬光科技、中科飛測、神功股份紛紛高開。
-
----
-
-### 2026-06-12 09:27:27  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-Australia 10Y Yield Holds at 3-Month Low — Australia’s 10-year government bond yield held its recent decline to around 4.8%, staying near a three-month low as markets widely expect the Reserve Bank will hold policy rates next week. A series of softer economic releases, from GDP to housing prices, reinforced signs that the central bank’s three rate hikes earlier this year began to filter through the economy. Market pricing now ruled out a move at the June 16 meeting, while expectations for an August rate hike have eased sharply to around 35%, down from more than 80% a month ago. The May CPI report due on June 24, will be pivotal after an unexpectedly soft April inflation reading, as policymakers look for clearer evidence that price pressures remain strong. Meanwhile, growing optimism over an imminent US–Iran peace deal eased concerns about persistent inflation, after US President Donald Trump said an agreement could be reached as early as this weekend following his decision to postpone planned strikes on Iran.
 
 ---

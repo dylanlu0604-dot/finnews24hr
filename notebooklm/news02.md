@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-14 08:04:08_
-_本檔包含 3614 則快訊，約 665412 字_
+_更新時間：2026-06-14 08:27:35_
+_本檔包含 3604 則快訊，約 665678 字_
+
+---
+
+### 2026-06-12 09:29:00  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內漲1%，現報4650.00點。
+
+---
+
+### 2026-06-12 09:29:00  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內漲1%，現報8250.00點。
+
+---
+
+### 2026-06-12 09:29:00  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲1%，現報8130.00點。
+
+---
+
+### 2026-06-12 09:28:51  #其他
+
+【今年以來廣東外貿進出口連續5個月保持兩位數增長】從海關總署廣東分署瞭解到，今年前5個月，廣東進出口4.44萬億元人民幣，增長18.8%，連續5個月保持兩位數增長。其中，出口2.61萬億元，增長10.8%；進口1.83萬億元，增長32.4%。5月，廣東進出口9481.9億元，達歷史月度規模最高值，增長20.3%；其中，出口5491.3億元，增長8.6%；進口3990.6億元，增長41.2%。從出口商品看，“綠色”和“新質”產品雙輪驅動。前5個月，廣東出口機電產品1.84萬億元，增長15.1%，佔廣東出口總值的比重較去年同期提升2.7個百分點至70.5%。其中，鋰電池、電動汽車等綠色產品出口規模持續擴大，分別增長50.3%、17%；3D印表機、數字照相機、無人機等新質產品出口增長更快，分別增長1.2倍、70.7%、27.7%。從進口商品看，前5個月，廣東進口增速顯著高於出口。其中，進口積體電路7099.7億元，增長42.8%，佔廣東進口總值的38.9%；進口電腦及其零部件2542.6億元，增長49.5%。同期，進口食用植物油、牛肉、乳品、食用水產品等優質生活用品分別增長1.3倍、70.9%、8.4%、6.9%。
+
+---
+
+### 2026-06-12 09:28:39  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
+
+Chinese shares opened higher on Friday, June 12: China's Shanghai Composite Index up 30.85 points (0.77%) at 4,017.86; Shenzhen Composite Index up 297.54 points (2.00%) at 15,149.52; CSI 300 Index up 62.23 points (1.32%) at 4,784.64; ChiNext Index up 109.84 points (2.88%) at 3,921.09; STAR 50 Index up 63.57 points (3.82%) at 1,726.01.
+
+---
+
+### 2026-06-12 09:28:36  #公司 #市場
+
+【深交所：“盛德轉債”盤中臨時停牌】深交所公告，“盛德轉債”（123270）盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，本所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
+
+---
+
+### 2026-06-12 09:28:00  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share semiconductor sector opened sharply higher; Lanjian Electronics, Jiangfeng Electronics and Fuchuang Precision rose over 10%, Kangqiang Electronics opened nearly 10% higher. Juguang Technology, Zhongke Feice and Shengong Co. also opened higher.
+
+---
+
+### 2026-06-12 09:27:55  #央行 #美聯儲
+
+【沃什“FOMC首秀”在即 美聯儲6月維持利率不變機率升至98.5%】據CME“美聯儲觀察”，美聯儲到6月維持利率不變的機率為98.5%，累計降息25個基點的機率為1.5%。美聯儲到7月維持利率不變的機率為91.3%，累計加息25個基點的機率7.4%，累計降息25個基點的機率為1.4%。
+
+---
+
+### 2026-06-12 09:27:52  #其他
+
+【全國最大半潛式綜合性網箱養殖平臺將投產】今天（12日）下午，全國規模最大的半潛式綜合性網箱養殖平臺將在海南三亞正式投產，並投放首批魚苗。該平臺的養殖水體總量達到6.4萬立方米，相當於約20個標準奧運游泳池的水量。全年可以產出800萬斤魚，同時還可以發展休閒漁業和垂釣觀光等農旅融合新業態。
+
+---
+
+### 2026-06-12 09:27:39  #公司 #市場
+
+【半導體板塊大幅高開】半導體板塊大幅高開，藍箭電子、江豐電子、富創精密漲超10%，康強電子高開近10%，炬光科技、中科飛測、神功股份紛紛高開。
+
+---
+
+### 2026-06-12 09:27:27  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+Australia 10Y Yield Holds at 3-Month Low — Australia’s 10-year government bond yield held its recent decline to around 4.8%, staying near a three-month low as markets widely expect the Reserve Bank will hold policy rates next week. A series of softer economic releases, from GDP to housing prices, reinforced signs that the central bank’s three rate hikes earlier this year began to filter through the economy. Market pricing now ruled out a move at the June 16 meeting, while expectations for an August rate hike have eased sharply to around 35%, down from more than 80% a month ago. The May CPI report due on June 24, will be pivotal after an unexpectedly soft April inflation reading, as policymakers look for clearer evidence that price pressures remain strong. Meanwhile, growing optimism over an imminent US–Iran peace deal eased concerns about persistent inflation, after US President Donald Trump said an agreement could be reached as early as this weekend following his decision to postpone planned strikes on Iran.
 
 ---
 
@@ -21635,166 +21701,5 @@ South Korea's Jobless Rate Holds at 2.8% — South Korea’s seasonally adjusted
 ### 2026-06-11 07:02:58  #市場
 
 【A股寬基指數樣本即將大調整 近9000億元規模指數基金同步調倉】本週五（6月12日），滬深300、中證A500、科創50等十多隻指數將迎來新一輪樣本股調整。截至6月10日，跟蹤這些指數的指數基金規模接近9000億元，滬深300ETF規模在4000億元以上，中證A500ET、科創50指數ETF的規模均超過1000億元。證券時報記者發現，個別指數的樣本調整比例達到10%，在新易盛、兆易創新、江波龍等科技股調入指數之後，A股重要寬基指數的“含科量”明顯提升。受訪的公募人士認為，樣本股隨產業經濟和技術變遷持續煥發新機，符合我國新質生產力的發展方向，也是保持指數有效性的應有之義。寬基指數調整從傳統核心資產進一步向“硬科技”與高階製造傾斜，會更加完整對映出中國經濟高質量發展和產業升級主線。
-
----
-
-### 2026-06-11 07:01:56  #MKT News #GBPUSD #Impact bearish
-
-UK May three-month RICS house price balance -35, vs -31 expected and -34 prior.
-
----
-
-### 2026-06-11 07:01:48  #MKT News #Economic Calendar #Important
-
-United Kingdom | RICS House Price Balance (May) | actual -35 | consensus -31 | previous -34.00
-
----
-
-### 2026-06-11 07:01:44  #國際
-
-【伊朗革命衛隊稱打擊兩艘非法透過霍爾木茲海峽的船隻】‌當地時間11日，伊朗伊斯蘭革命衛隊海軍稱，兩艘試圖非法透過霍爾木茲海峽的船隻遭到打擊。目前，伊朗暫未就該事件公佈更多細節。（央視新聞）
-
----
-
-### 2026-06-11 07:01:37  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、5月居民消費市場執行總體平穩 工業生產者出廠價格指數同比上漲3.9%
-2、產品碳足跡核查機構認可制度實施
-3、我國基金行業服務投資者超8.6億人
-4、我國規模最大光氫儲一體化專案全面建成
-5、第四屆鏈博會首批進境展品順利通關
-6、總營收連續3年超千億元 科幻產業激盪新活力（大資料觀察）
-7、中國海洋經濟發展指數釋出 去年全國海洋生產總值達十一萬億元
-8、安徽多舉措最佳化營商環境
-9、前5月京津冀區域進出口增長14.4%
-10、探訪河北雄安新區創新鏈 在未來之城看見“未來場景”（經濟聚焦）
-11、新疆和田縣去年漁業產值同比增長超百分之一百四十 沙漠“海鮮”遊向百姓餐桌（高質量發展在一線·小城寶藏）
-12、工業和資訊化部印發意見 推動“人工智慧+資訊通訊”創新發展
-13、全國夏糧小麥收穫過七成 已收穫二點四八億畝
-14、八部門促鐵路與旅遊融合發展 打造160列以上鐵路旅遊列車專用車組
-15、雞蛋價格為何逆勢上漲（有問有答）
-16、海南自貿港推出“掌上通關”服務
-17、築造通江達海新通道 描繪長江發展新圖景 三峽水運新通道工程開工建設
-18、從“算力金屬”看傳統產業新機遇（每週經濟評論）
-19、江蘇南京軟體業務收入規模超萬億元，從業人員約90萬人 嵌入千行百業，軟體越來越“硬”（產經視野·推動生產性服務業高質量發展）
-20、世界盃訂單裡的“義烏答案”（環球走筆）。
-
----
-
-### 2026-06-11 07:01:26  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、讓中朝傳統友誼之樹更加根深葉茂——習近平總書記對朝鮮進行國事訪問紀實
-2、弘揚優良傳統，密切團結協作——習近平總書記對朝鮮進行國事訪問在中朝關係發展史上具有重要里程碑意義
-3、江西吉安市大力弘揚井岡山精神——老區人民日子越過越好（牢記初心使命 奮進復興征程）
-4、李希在河南調研時強調 牢固樹立和踐行正確政績觀 推進新徵程紀檢監察工作高質量發展
-5、樹立和踐行正確政績觀學習教育繼續派出的4箇中央指導組完成進駐
-6、雲南厚植高質量發展的綠色底色。
-
----
-
-### 2026-06-11 07:01:12  #其他
-
-英國5月三個月RICS房價指數 -35，預期 -32，前值 -34。
-
----
-
-### 2026-06-11 07:00:27  #國際
-
-韓國5月失業率 2.8%，前值2.80%。
-
----
-
-### 2026-06-11 07:00:21  #MKT News
-
-South Korea May unemployment rate unchanged at 2.8% (prior 2.8%).
-
----
-
-### 2026-06-11 07:00:14  #MKT News #Economic Calendar #Important
-
-South Korea | Unemployment Rate (May) | actual 2.8% | previous 2.80%
-
----
-
-### 2026-06-11 06:59:48  #MKT News
-
-IRAN'S NOUR reports air-defense activity in Robat Karim, Tehran province.
-
----
-
-### 2026-06-11 06:59:20  #國際
-
-伊朗努爾新聞網：德黑蘭省羅巴特卡里姆市出現防空部隊行動。
-
----
-
-### 2026-06-11 06:56:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Krasnodar regional governor said drones struck the southern Russian region and the Afipsky refinery caught fire afterward.
-
----
-
-### 2026-06-11 06:56:25  #其他
-
-俄地方當局通報：阿菲普斯基煉油廠遭無人機襲擊後起火。
-
----
-
-### 2026-06-11 06:56:09  #其他
-
-【引江補漢工程8號檢修交通洞順利貫通】6月10日，南水北調中線後續工程首個開工建設的重大專案——引江補漢工程再獲進展，全線重難點控制性工程8號檢修交通洞順利貫通。8號檢修交通洞位於湖北保康縣馬良鎮，全長2959米，工程採用國內引水隧洞工程直徑最大的單護盾硬巖掘進機，開挖直徑12.23米，整合超前地質預報等智慧監測系統，可提前識別斷層、湧水等風險。（央視新聞）
-
----
-
-### 2026-06-11 06:55:53  #國際
-
-俄地方當局稱，俄羅斯南部克拉斯諾達爾邊疆區遭遇無人機襲擊。
-
----
-
-### 2026-06-11 06:55:37  #公司 #國際
-
-【6月11日隔夜要聞一覽】
-1、美軍中央司令部稱，美軍開始對伊朗境內多個目標展開所謂“自衛打擊”。
-2、訊息人士稱，現階段以色列未參與美國對伊朗的打擊行動。
-3、伊朗對所有船隻關閉霍爾木茲海峽。
-4、美國總統特朗普於當地時間6月10日下午在白宮戰情室召開會議，討論針對伊朗可能採取的新一輪打擊行動。此前，特朗普威脅將對伊朗發動“猛烈打擊”。
-5、部分美國大銀行因涉嫌非法終止服務面臨聯邦調查。
-6、美國5月退還近220億美元關稅，基本抵消當月關稅收入。
-7、Anthropic執行長：政府有權叫停存在風險的人工智慧。
-8、微軟旗下的Xbox計劃進行大規模裁員。
-9、SpaceX獲得三大債券評級機構的投資級評級。
-
----
-
-### 2026-06-11 06:55:25  #國際
-
-【美媒：美軍發動新一輪打擊之際，卡達談判人員仍滯留伊朗】一名知情外交訊息人士向CNN透露，卡達代表團於週三上午前往德黑蘭與伊朗談判人員會晤，目前該團隊仍停留在伊朗境內，而美軍此時正對伊朗展開新一輪打擊行動。 該訊息人士此前表示，卡達方面是在與美方溝通協商後前往伊朗，旨在同伊方洽談，彌合雙方尚存的分歧。
-
----
-
-### 2026-06-11 06:53:49  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-WTI crude rose 1.0% intraday to $93.68/bbl.
-
----
-
-### 2026-06-11 06:53:38  #市場 #焦點
-
-WTI原油突破93美元/桶，日內漲3.31%。
-
----
-
-### 2026-06-11 06:53:10  #焦點 #國際
-
-伊朗革命衛隊：兩艘試圖非法穿越霍爾木茲海峽的違規船隻被擊中。
-
----
-
-### 2026-06-11 06:53:06  #MKT News #Important #WTI #Impact bullish #Brent
-
-Iran's Islamic Revolutionary Guard Corps said it struck two vessels attempting to illegally transit the Strait of Hormuz.
 
 ---

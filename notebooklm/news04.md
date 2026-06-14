@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-14 08:04:08_
-_本檔包含 3678 則快訊，約 665459 字_
+_更新時間：2026-06-14 08:27:35_
+_本檔包含 3673 則快訊，約 665577 字_
+
+---
+
+### 2026-06-10 02:20:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Falls by 4.09% — Top commodity losers are Silver (-4.09%), Silicon (-1.75%), Platinum (-1.52%) and Gold (-1.17%).
+
+---
+
+### 2026-06-10 02:19:20  #MKT News #Important
+
+Sources said investor demand for SpaceX's IPO is approaching fourfold oversubscription.
+
+---
+
+### 2026-06-10 02:19:10  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
+
+Iran's foreign minister said foreign forces operating near Iranian territory are continuously at risk — from human error, accidents or being drawn into crossfire during a conflict — and that the best way to reduce that risk is for those external forces to withdraw from the region.
+
+---
+
+### 2026-06-10 02:18:07  #公司 #焦點 #國際
+
+市場訊息：SpaceX美國IPO 的認購需求已接近四倍超額認購。
+
+---
+
+### 2026-06-10 02:16:44  #國際
+
+伊朗外長：想要降低風險，最好的辦法就是撤離。我們傾向於透過外交方式溝通，但也做好了其他應對準備。
+
+---
+
+### 2026-06-10 02:16:43  #Trading Economics #Markets #commodity #Importance 0
+
+Cotton Hits 8-week Low — Cotton decreased to 75.41 USd/Lbs, the lowest since April 2026. Over the past 4 weeks, Cotton lost 14.01%, and in the last 12 months, it increased 15.44%.
+
+---
+
+### 2026-06-10 02:16:26  #國際
+
+伊朗外長：臨近我國領土的外國駐軍，始終面臨風險，隱患源於人為失誤、意外事故，亦或是捲入交火衝突。
+
+---
+
+### 2026-06-10 02:15:07  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Crude Oil WTI Falls by 3.28% — Top commodity losers are Crude Oil WTI (-3.28%), Natural Gas UK (-3.11%) and Brent Crude Oil (-2.68%). Gains are led by Methanol (1.91%) and Natural gas (0.50%).
+
+---
+
+### 2026-06-10 02:12:38  #公司
+
+黑石集團買入特別風險轉移（SRT），銀行業正急於對沖貸款風險。
+
+---
+
+### 2026-06-10 02:09:11  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOG.O #Impact bullish
+
+Google (GOOG.O) GEMINI launches AI-agent risk monitoring feature.
+
+---
+
+### 2026-06-10 02:07:52  #公司
+
+谷歌 Gemini 推出智慧體風險監測功能。
+
+---
+
+### 2026-06-10 01:57:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Abu Dhabi National Oil Company (ADNOC) CEO said ADNOC subsidiary XRG is highly interested in opportunities in Canada’s upstream oil sector and liquefied natural gas (LNG).
+
+---
+
+### 2026-06-10 01:56:00  #國際
+
+【以色列重開一處加沙地帶過境點 聯合國呼籲開放全部通道】聯合國秘書長副發言人法爾漢·哈克在例行記者會上透露，以色列已重新開放加沙地帶的凱雷姆沙洛姆過境點，但聯合國及人道主義夥伴需要開放更多過境點，以滿足日益增加的人道主義需求。聯合國秘書長古特雷斯也呼籲以色列開放所有過境點。 (央視新聞)
+
+---
+
+### 2026-06-10 01:55:20  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Israeli media reported two suspected aerial targets launched from Lebanon were intercepted before entering Israeli airspace.
+
+---
+
+### 2026-06-10 01:54:48  #公司
+
+阿布扎比國家石油公司CEO：  旗下 XRG 部門對加拿大上游油氣及液化天然氣領域的合作機遇抱有濃厚興趣。
+
+---
+
+### 2026-06-10 01:53:42  #MKT News #Brent #WTI
+
+Russia’s Emergency Situations Ministry reported three explosions on a major trunk gas pipeline in Dagestan.
+
+---
+
+### 2026-06-10 01:49:38  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Falls on Mining and Energy Losses — The S&P/TSX Composite Index fell more than 0.5% to trade below 34,500 on Tuesday, weighed down by losses in the mining, energy, and technology sectors. Mining shares retreated as gold prices declined amid expectations that the Federal Reserve will maintain a hawkish stance. Agnico Eagle and WPM lost about 3%, while Franco-Nevada and Barrick shed around 2.5%. Energy stocks also weakened as oil prices pulled back after Israel and Iran agreed to halt attacks following a renewed flare-up in hostilities. Canadian Natural and Suncor dropped 3%. In the tech sector, Shopify fell 1.5%, while Celestica plunged 7% as investors took profits after the recent AI-driven rally. Investors also looked ahead to the BoC's policy decision on Wednesday, with policymakers expected to leave interest rates unchanged. Meanwhile, prospects for progress in US-Iran negotiations deteriorated after President Trump said Iran had shot down a US helicopter patrolling the Strait of Hormuz and vowed to retaliate.
+
+---
+
+### 2026-06-10 01:49:36  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O): Claude Fable 5 is now available on Amazon Web Services (AWS).
+
+---
+
+### 2026-06-10 01:43:47  #公司
+
+亞馬遜雲科技（AWS）： Claude Fable 5 模型已上線 AWS 平臺的 Claude 專區。
+
+---
+
+### 2026-06-10 01:43:14  #公司
+
+亞馬遜雲科技（AWS）：Claude Fable 5 模型現已登陸亞馬遜 Bedrock 平臺。
+
+---
+
+### 2026-06-10 01:42:02  #MKT News
+
+Abu Dhabi National Oil Company (ADNOC) upstream CEO Al Kaabi said exiting OPEC gives the UAE flexibility.
+
+---
+
+### 2026-06-10 01:41:43  #MKT News
+
+【NYT: Four core US‑Iran nuclear negotiation items — 15‑year enrichment pause, dilution of stockpile, facility dismantling, snap inspections】The New York Times reports US and Iranian officials have a tentative framework for a nuclear deal that US aides say would stall Iran’s nuclear programme for roughly 15 years, contingent on the IRGC and hardliners not ousting Iran’s chief negotiator or derailing planned deeper talks in Switzerland this summer. Four principal items under discussion: 1) Long pause to uranium enrichment — US sought ≥20 years, Iran proposed 10 years, US officials say Iran may accept ~15 years. 2) Dilution of Iran’s existing enriched‑uranium stockpile — US would work with the IAEA; Iran says the US would be limited to observer status. 3) Dismantling nuclear facilities — US seeks removal of Natanz, Fordow and Isfahan; Iran has discussed dismantling two sites but insists on retaining one to demonstrate an asserted right to enrichment, a potential sticking point. 4) Acceptance of snap inspections — US seeks IAEA ability to carry out unannounced inspections anywhere in Iran; Iran’s willingness is unclear.
 
 ---
 
@@ -21986,167 +22118,5 @@ FITCH assigned a "AA-" rating to Amazon.com Inc (AMZN.O)'s proposed bond issuanc
 ### 2026-06-08 21:07:36  #MKT News
 
 【Tongcheng Travel to join WeChat AI agent ecosystem】June 8 — Tongcheng Travel said it will fully integrate into the WeChat AI agent ecosystem and will be among the first online travel agencies (OTAs) to access WeChat’s AI platform.
-
----
-
-### 2026-06-08 21:06:34  #公司
-
-【電投產融：中國人壽持股比例因定增被動稀釋至24.09%】電投產融公告稱，公司向13名特定物件發行9.43億股，發行規模49.99億元，新增股份於2026年6月10日上市，總股本由173.73億股增至183.17億股。持股5%以上股東中國人壽未參與認購，持股數量不變，比例從25.39%被動稀釋至24.09%，觸及1%整數倍。本次權益變動不觸及要約收購，控股股東、實際控制人未變。
-
----
-
-### 2026-06-08 21:05:29  #公司
-
-亞馬遜：消費者如今可透過亞歷克莎設計定製商品，在亞馬遜平臺進行選購。
-
----
-
-### 2026-06-08 21:04:46  #MKT News #Important #Market Themes #Chip Wars #AI Revolution #INTC.O #Impact bullish
-
-Intel (INTC.O) premarket gains widened to about 10% after reports that Google placed an order with Intel for more than 3 mln TPUs.
-
----
-
-### 2026-06-08 21:04:45  #公司
-
-全球商務旅行集團：第一季度交易量同比增長3%。
-
----
-
-### 2026-06-08 21:04:38  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #NVIDIA #INTC.O #Impact bullish #NVDA.O
-
-Google and NVIDIA (NVDA.O) are considering Intel (INTC.O) as a backup chip-manufacturing partner, The Information reports.
-
----
-
-### 2026-06-08 21:04:32  #公司 #市場
-
-【英特爾美股盤前漲超10%，訊息面上谷歌向英特爾下達了超過300萬個TPU的訂單】英特爾美股盤前漲超10%，訊息面上谷歌向英特爾下達了超過300萬個TPU的訂單。
-
----
-
-### 2026-06-08 21:04:16  #MKT News #Important #Market Themes #Chip Wars #INTC.O #Impact bullish
-
-The Information reports Google has ordered more than 3 million TPU chips from Intel (INTC.O).
-
----
-
-### 2026-06-08 21:03:59  #其他
-
-【世界首臺630℃二次再熱超超臨界百萬千瓦煤電機組正式投入商業運營】據東方電氣訊息，6月8日，世界首臺630℃二次再熱超超臨界百萬千瓦煤電機組——大唐鄆城630℃國家電力示範專案1號機組順利完成168小時滿負荷試執行，正式投入商業運營。大唐鄆城專案是全球引數最高的百萬千瓦二次再熱機組，入選國家能源局第四批能源領域首臺（套）重大技術裝備名單。機組核心引數全面重新整理全球紀錄：再熱汽溫631攝氏度、主蒸汽壓力35.5兆帕、發電效率50.05%、發電煤耗低至245.74克/千瓦時。
-
----
-
-### 2026-06-08 21:03:44  #宏觀
-
-【佛山一汙水管網工程發生坍塌事故致3死 廣東省安委會掛牌督辦】廣東省應急管理廳網站6月8日釋出《廣東省安全生產委員會關於佛山三水大塘鎮工業園區汙水管網建設工程“6·2”較大坍塌事故調查處理工作掛牌督辦的函》。6月2日，佛山市三水區大塘鎮工業園區汙水管網建設工程（潦南片區）工地發生坍塌事故，造成3人死亡。根據《國務院辦公廳關於加強安全生產監管執法的通知》（國辦發〔2015〕20號）和《廣東省安全生產委員會關於印發〈廣東省較大生產安全事故調查處理掛牌督辦辦法〉的通知》（粵安〔2011〕7號）要求，省安委會決定對該起事故查處實行掛牌督辦。
-
----
-
-### 2026-06-08 21:03:22  #公司
-
-谷歌近期已向英特爾下達訂單，要求英特爾在2028年為其生產超過300萬顆張量處理單元。
-
----
-
-### 2026-06-08 21:03:16  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-The Information reports NVIDIA (NVDA.O) is evaluating Intel's (INTC.O) advanced packaging technology and 18A process for future chip production.
-
----
-
-### 2026-06-08 21:03:06  #公司
-
-惠譽將亞馬遜擬發行債券的評級定為“AA-”。
-
----
-
-### 2026-06-08 21:03:05  #市場 #焦點
-
-焦煤連續主力合約日內跌2%，現報1427.50元。
-
----
-
-### 2026-06-08 21:02:48  #其他
-
-英偉達正在評估將英特爾先進封裝工藝與18A製程用於未來晶片生產。
-
----
-
-### 2026-06-08 21:02:41  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Rebounds from Over Two-Month Low — Silver erased earlier losses to rebound toward $69 an ounce on Monday, recovering from an over two-month low of $67.3 hit on Friday, as investors assessed the latest Middle East developments. Israel agreed to halt strikes on Iran at US President Donald Trump’s request but vowed to continue heavy bombing in Lebanon. Meanwhile, tensions escalated along the Israel-Lebanon border, with mutual shelling reported. Earlier, Trump had called for an immediate ceasefire, and Tehran paused its operations against Israel while warning against strikes on southern Lebanon. Rising oil prices and last week’s strong US jobs report boosted expectations of a Federal Reserve rate hike, with markets pricing in a 70% chance of a December hike, up from 45% a week ago, according to the CME FedWatch tool. Investors now await key inflation data, including Wednesday’s CPI and Thursday’s PPI, for further monetary policy clues.
-
----
-
-### 2026-06-08 21:02:23  #公司
-
-【港股IPO：贛州和美藥業股份有限公司-B遞表港交所】利弗莫爾證券顯示，贛州和美藥業股份有限公司-B向港交所提交上市申請書，獨家保薦人為國投證券國際。
-
----
-
-### 2026-06-08 21:02:13  #其他
-
-【威剛：今年前5月營收已達2025全年93% 明年缺貨可能加劇】威剛5月份合併營收達129.4億新臺幣，環比增長22.6%，同比大幅增長210.4%，連續三個月重新整理單月曆史紀錄。累計1-5月營收達496.1億新臺幣，同比增長175.8%，已達到其2025年全年營收的93%。針對市場前景，威剛董事長陳立白表示，隨著全球AI資料中心建設的加速，高容量、高頻寬儲存產品的需求正快速攀升。特別是在新一代Vera Rubin平臺中，儲存配置呈倍數級增長。全球儲存市場不僅在今年將維持供不應求的狀態，明年的缺貨態勢甚至可能進一步加劇。
-
----
-
-### 2026-06-08 21:02:00  #公司
-
-谷歌與英偉達考慮將英特爾列為備用晶片製造商。
-
----
-
-### 2026-06-08 21:01:51  #其他
-
-SAVOX 將認購價格定為每股 10.72 歐元。
-
----
-
-### 2026-06-08 21:01:32  #市場
-
-【英特爾美股盤前漲超7%】英特爾美股盤前漲超7%，現報106.8美元。
-
----
-
-### 2026-06-08 21:01:17  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) expands investment in Spring and Java ecosystem security to help customers counter AI-driven security threats.
-
----
-
-### 2026-06-08 21:00:36  #MKT News #Important #Commodities #WTI #Impact bearish #Brent
-
-Night-session open: China’s main futures contracts mixed. Caustic soda down >2%, coking coal down nearly 2%, Shanghai crude (SC) down nearly 1%. Gainers: LPG, asphalt, methanol, ethylene glycol (EG) and propylene up >1%; bottle-grade PET chips, plastics and p-xylene up about 1%.
-
----
-
-### 2026-06-08 21:00:23  #其他
-
-博通擴大對Spring與Java生態系統安全領域的投資，助力客戶做好應對人工智慧賦能型威脅的準備。
-
----
-
-### 2026-06-08 21:00:03  #市場
-
-【國內期貨夜盤開盤】集運指數歐線期貨連續漲9.23%，鈀連續跌5.89%，鉑連續跌5.49%，膠合板連續跌4.38%，尿素連續漲3.96%。
-
----
-
-### 2026-06-08 20:59:32  #央行 #國際
-
-美聯儲資料顯示，6月5日美國有效聯邦基金利率為3.62%，當日成交規模為1170億美元；6月4日有效聯邦基金利率同樣為3.62%，當日成交規模為1210億美元。
-
----
-
-### 2026-06-08 20:59:11  #公司
-
-【中國電建董事長丁焰章與沙特國際電力和水務公司執行長塞爾翰會談】據中國電建訊息，6月8日，中國電建黨委書記、董事長丁焰章在總部與沙特國際電力和水務公司（ACWA）執行長薩米爾·塞爾翰舉行會談，雙方就加強更高層次、更廣領域務實合作進行深入交流。丁焰章表示，ACWA是全球領先的清潔能源和海水淡化開發商、沙特綠氫產業先行者，中國電建始終視ACWA為全球重要的戰略合作伙伴和中沙能源合作的重要橋樑。希望雙方發揮各自優勢，建立更加完善的協同與對接機制，增強戰略互信，將務實合作推向更高層次、更廣領域、更高質量、更可持續，在全球綠色轉型發展中實現互利共贏。
-
----
-
-### 2026-06-08 20:57:59  #國際
-
-【中國除溼機在美國賣斷貨 企業開足馬力趕訂單】近日南京、杭州、蘇州、無錫等多地空氣相對溼度也頻頻突破90%，商場除溼類家電需求激增。記者在浙江走訪多家生產企業發現，車間裡機器轟鳴，產線正開足馬力，應對這場突如其來的“防潮大考”。在浙江慈溪的一家除溼機生產企業，記者走近看到，一臺臺除溼機正被推入測試區，通電、開機，再打包準備發往市場。不同功能和價位的產品源源不斷供應國內外市場，負責人表示：“中國市場和美國市場都有斷貨現象，特別是近期，國內潮溼天氣很嚴重，銷售量同比有60%以上增長。”而在浙江慈溪的另一家除溼機企業的生產車間內，每小時就有超過100臺家用除溼機組裝下線，一天總產能超過1000臺。企業負責人表示，除了國內迎來大量訂單，近期歐洲地區受氣候影響，同樣需要交付大量產品。業內預計，2026年全國家用除溼機市場規模將達18億元-19億元，同比增長約17%。 (央視財經)
 
 ---

@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-14 08:04:08_
-_本檔包含 3739 則快訊，約 665828 字_
+_更新時間：2026-06-14 08:27:35_
+_本檔包含 3751 則快訊，約 665514 字_
+
+---
+
+### 2026-06-08 21:06:34  #公司
+
+【電投產融：中國人壽持股比例因定增被動稀釋至24.09%】電投產融公告稱，公司向13名特定物件發行9.43億股，發行規模49.99億元，新增股份於2026年6月10日上市，總股本由173.73億股增至183.17億股。持股5%以上股東中國人壽未參與認購，持股數量不變，比例從25.39%被動稀釋至24.09%，觸及1%整數倍。本次權益變動不觸及要約收購，控股股東、實際控制人未變。
+
+---
+
+### 2026-06-08 21:05:29  #公司
+
+亞馬遜：消費者如今可透過亞歷克莎設計定製商品，在亞馬遜平臺進行選購。
+
+---
+
+### 2026-06-08 21:04:46  #MKT News #Important #Market Themes #Chip Wars #AI Revolution #INTC.O #Impact bullish
+
+Intel (INTC.O) premarket gains widened to about 10% after reports that Google placed an order with Intel for more than 3 mln TPUs.
+
+---
+
+### 2026-06-08 21:04:45  #公司
+
+全球商務旅行集團：第一季度交易量同比增長3%。
+
+---
+
+### 2026-06-08 21:04:38  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #NVIDIA #INTC.O #Impact bullish #NVDA.O
+
+Google and NVIDIA (NVDA.O) are considering Intel (INTC.O) as a backup chip-manufacturing partner, The Information reports.
+
+---
+
+### 2026-06-08 21:04:32  #公司 #市場
+
+【英特爾美股盤前漲超10%，訊息面上谷歌向英特爾下達了超過300萬個TPU的訂單】英特爾美股盤前漲超10%，訊息面上谷歌向英特爾下達了超過300萬個TPU的訂單。
+
+---
+
+### 2026-06-08 21:04:16  #MKT News #Important #Market Themes #Chip Wars #INTC.O #Impact bullish
+
+The Information reports Google has ordered more than 3 million TPU chips from Intel (INTC.O).
+
+---
+
+### 2026-06-08 21:03:59  #其他
+
+【世界首臺630℃二次再熱超超臨界百萬千瓦煤電機組正式投入商業運營】據東方電氣訊息，6月8日，世界首臺630℃二次再熱超超臨界百萬千瓦煤電機組——大唐鄆城630℃國家電力示範專案1號機組順利完成168小時滿負荷試執行，正式投入商業運營。大唐鄆城專案是全球引數最高的百萬千瓦二次再熱機組，入選國家能源局第四批能源領域首臺（套）重大技術裝備名單。機組核心引數全面重新整理全球紀錄：再熱汽溫631攝氏度、主蒸汽壓力35.5兆帕、發電效率50.05%、發電煤耗低至245.74克/千瓦時。
+
+---
+
+### 2026-06-08 21:03:44  #宏觀
+
+【佛山一汙水管網工程發生坍塌事故致3死 廣東省安委會掛牌督辦】廣東省應急管理廳網站6月8日釋出《廣東省安全生產委員會關於佛山三水大塘鎮工業園區汙水管網建設工程“6·2”較大坍塌事故調查處理工作掛牌督辦的函》。6月2日，佛山市三水區大塘鎮工業園區汙水管網建設工程（潦南片區）工地發生坍塌事故，造成3人死亡。根據《國務院辦公廳關於加強安全生產監管執法的通知》（國辦發〔2015〕20號）和《廣東省安全生產委員會關於印發〈廣東省較大生產安全事故調查處理掛牌督辦辦法〉的通知》（粵安〔2011〕7號）要求，省安委會決定對該起事故查處實行掛牌督辦。
+
+---
+
+### 2026-06-08 21:03:22  #公司
+
+谷歌近期已向英特爾下達訂單，要求英特爾在2028年為其生產超過300萬顆張量處理單元。
+
+---
+
+### 2026-06-08 21:03:16  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+The Information reports NVIDIA (NVDA.O) is evaluating Intel's (INTC.O) advanced packaging technology and 18A process for future chip production.
+
+---
+
+### 2026-06-08 21:03:06  #公司
+
+惠譽將亞馬遜擬發行債券的評級定為“AA-”。
+
+---
+
+### 2026-06-08 21:03:05  #市場 #焦點
+
+焦煤連續主力合約日內跌2%，現報1427.50元。
+
+---
+
+### 2026-06-08 21:02:48  #其他
+
+英偉達正在評估將英特爾先進封裝工藝與18A製程用於未來晶片生產。
+
+---
+
+### 2026-06-08 21:02:41  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Rebounds from Over Two-Month Low — Silver erased earlier losses to rebound toward $69 an ounce on Monday, recovering from an over two-month low of $67.3 hit on Friday, as investors assessed the latest Middle East developments. Israel agreed to halt strikes on Iran at US President Donald Trump’s request but vowed to continue heavy bombing in Lebanon. Meanwhile, tensions escalated along the Israel-Lebanon border, with mutual shelling reported. Earlier, Trump had called for an immediate ceasefire, and Tehran paused its operations against Israel while warning against strikes on southern Lebanon. Rising oil prices and last week’s strong US jobs report boosted expectations of a Federal Reserve rate hike, with markets pricing in a 70% chance of a December hike, up from 45% a week ago, according to the CME FedWatch tool. Investors now await key inflation data, including Wednesday’s CPI and Thursday’s PPI, for further monetary policy clues.
+
+---
+
+### 2026-06-08 21:02:23  #公司
+
+【港股IPO：贛州和美藥業股份有限公司-B遞表港交所】利弗莫爾證券顯示，贛州和美藥業股份有限公司-B向港交所提交上市申請書，獨家保薦人為國投證券國際。
+
+---
+
+### 2026-06-08 21:02:13  #其他
+
+【威剛：今年前5月營收已達2025全年93% 明年缺貨可能加劇】威剛5月份合併營收達129.4億新臺幣，環比增長22.6%，同比大幅增長210.4%，連續三個月重新整理單月曆史紀錄。累計1-5月營收達496.1億新臺幣，同比增長175.8%，已達到其2025年全年營收的93%。針對市場前景，威剛董事長陳立白表示，隨著全球AI資料中心建設的加速，高容量、高頻寬儲存產品的需求正快速攀升。特別是在新一代Vera Rubin平臺中，儲存配置呈倍數級增長。全球儲存市場不僅在今年將維持供不應求的狀態，明年的缺貨態勢甚至可能進一步加劇。
+
+---
+
+### 2026-06-08 21:02:00  #公司
+
+谷歌與英偉達考慮將英特爾列為備用晶片製造商。
+
+---
+
+### 2026-06-08 21:01:51  #其他
+
+SAVOX 將認購價格定為每股 10.72 歐元。
+
+---
+
+### 2026-06-08 21:01:32  #市場
+
+【英特爾美股盤前漲超7%】英特爾美股盤前漲超7%，現報106.8美元。
+
+---
+
+### 2026-06-08 21:01:17  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) expands investment in Spring and Java ecosystem security to help customers counter AI-driven security threats.
+
+---
+
+### 2026-06-08 21:00:36  #MKT News #Important #Commodities #WTI #Impact bearish #Brent
+
+Night-session open: China’s main futures contracts mixed. Caustic soda down >2%, coking coal down nearly 2%, Shanghai crude (SC) down nearly 1%. Gainers: LPG, asphalt, methanol, ethylene glycol (EG) and propylene up >1%; bottle-grade PET chips, plastics and p-xylene up about 1%.
+
+---
+
+### 2026-06-08 21:00:23  #其他
+
+博通擴大對Spring與Java生態系統安全領域的投資，助力客戶做好應對人工智慧賦能型威脅的準備。
+
+---
+
+### 2026-06-08 21:00:03  #市場
+
+【國內期貨夜盤開盤】集運指數歐線期貨連續漲9.23%，鈀連續跌5.89%，鉑連續跌5.49%，膠合板連續跌4.38%，尿素連續漲3.96%。
+
+---
+
+### 2026-06-08 20:59:32  #央行 #國際
+
+美聯儲資料顯示，6月5日美國有效聯邦基金利率為3.62%，當日成交規模為1170億美元；6月4日有效聯邦基金利率同樣為3.62%，當日成交規模為1210億美元。
+
+---
+
+### 2026-06-08 20:59:11  #公司
+
+【中國電建董事長丁焰章與沙特國際電力和水務公司執行長塞爾翰會談】據中國電建訊息，6月8日，中國電建黨委書記、董事長丁焰章在總部與沙特國際電力和水務公司（ACWA）執行長薩米爾·塞爾翰舉行會談，雙方就加強更高層次、更廣領域務實合作進行深入交流。丁焰章表示，ACWA是全球領先的清潔能源和海水淡化開發商、沙特綠氫產業先行者，中國電建始終視ACWA為全球重要的戰略合作伙伴和中沙能源合作的重要橋樑。希望雙方發揮各自優勢，建立更加完善的協同與對接機制，增強戰略互信，將務實合作推向更高層次、更廣領域、更高質量、更可持續，在全球綠色轉型發展中實現互利共贏。
+
+---
+
+### 2026-06-08 20:57:59  #國際
+
+【中國除溼機在美國賣斷貨 企業開足馬力趕訂單】近日南京、杭州、蘇州、無錫等多地空氣相對溼度也頻頻突破90%，商場除溼類家電需求激增。記者在浙江走訪多家生產企業發現，車間裡機器轟鳴，產線正開足馬力，應對這場突如其來的“防潮大考”。在浙江慈溪的一家除溼機生產企業，記者走近看到，一臺臺除溼機正被推入測試區，通電、開機，再打包準備發往市場。不同功能和價位的產品源源不斷供應國內外市場，負責人表示：“中國市場和美國市場都有斷貨現象，特別是近期，國內潮溼天氣很嚴重，銷售量同比有60%以上增長。”而在浙江慈溪的另一家除溼機企業的生產車間內，每小時就有超過100臺家用除溼機組裝下線，一天總產能超過1000臺。企業負責人表示，除了國內迎來大量訂單，近期歐洲地區受氣候影響，同樣需要交付大量產品。業內預計，2026年全國家用除溼機市場規模將達18億元-19億元，同比增長約17%。 (央視財經)
 
 ---
 
@@ -22418,95 +22580,5 @@ U.S. military said U.S. forces shot down two Iranian attack drones in the Strait
 ### 2026-06-07 08:28:28  #公司 #國際
 
 印度石油公司上調國內民用液化氣價格，每罐液化石油氣漲價 29 印度盧比。
-
----
-
-### 2026-06-07 08:25:30  #其他
-
-【海南首個全流程智慧採血工作站落地省中醫院】近日，海南省內首個全流程智慧採血工作站在廣東省中醫院海南醫院（海南省中醫院）揭牌啟用。工作站涵蓋智慧採血系統、全自動樣本分揀系統、單樣本氣動物流傳輸系統和全實驗室智慧化流水線，具有人性化、智慧化、整合化的優點，能夠極大提高採血檢驗的效率。
-
----
-
-### 2026-06-07 08:24:41  #MKT News
-
-【China achieves major breakthrough in clean low-carbon hydrogen–coal co-firing technology】National Energy Group says a domestically developed hydrogen–coal co-firing system has for the first time achieved 50% green-hydrogen co-firing by heat share and 100% pure-hydrogen combustion on a test rig. The project uses an indigenous low‑NOx hydrogen–coal burner and a full-process safety protection system from hydrogen transport to furnace; with green hydrogen blended, coal savings and CO2 reductions can reach up to 50%, and NOx formation was effectively controlled.
-
----
-
-### 2026-06-07 08:24:14  #市場
-
-【加密貨幣全線下跌】6月7日早間，加密貨幣市場全線下跌。截至發稿，比特幣跌0.48%報60757美元；以太坊跌1.29%；艾達幣微跌0.04%。CoinGlass資料顯示，過去24小時，加密貨幣市場超13萬人爆倉，爆倉總金額4.25億美元。
-
----
-
-### 2026-06-07 08:23:38  #公司
-
-【晶片製造有新突破 光晶片壓印，成本僅DUV的1/10】6月5日，璞璘科技釋出訊息稱，公司與深圳力策合作採用真空氣壓式奈米壓印方案實現8英寸光晶片量產突破：依託璞璘科技自主研發的PL-AS真空氣壓式晶圓級奈米壓印光刻裝置，配合定製化雙層壓印膠材料體系與核心工藝，完全繞開深紫外（DUV）光刻路線，成功實現8英寸光晶片晶圓可規模化量產，並將晶片製造成本壓縮至傳統DUV方案的十分之一。A股中，奈米壓印相關概念股主要有蘇大維格、美迪凱、利和興、晶方科技、京華鐳射、水晶光電等。（證券時報）
-
----
-
-### 2026-06-07 08:23:17  #公司
-
-【海南公積金將集中清理 繳存人“一人多戶”賬戶】記者6月6日從海南省住房公積金管理局獲悉，為規範住房公積金個人賬戶管理，提升資料質量，該局將開展繳存人“一人多戶”賬戶清理工作。 據介紹，省住房公積金管理局在開展專項排查中發現部分繳存人存在“一人多戶”（同一證件號碼開設多個不同姓名賬戶）的情況，根據《住房公積金管理條例》規定，每個職工只能有一個住房公積金賬戶。 省住房公積金管理局已釋出公告提醒，6月6日至6月20日，相關繳存單位及繳存人要主動核實賬戶明細資訊。個人賬戶資訊有誤的，由繳存單位或繳存人持本人身份證件材料、社保繳費記錄、勞動合同、單位出具的繳存情況說明等相關證明材料，前往住房公積金繳存地辦事大廳辦理賬戶資訊變更手續。符合銷戶提取條件的，可同步申請辦理。（海南日報）
-
----
-
-### 2026-06-07 08:22:32  #MKT News #Market Themes #Chip Wars
-
-【Pulin Technology says nanoimprint enables 8‑inch photonic wafer mass production; manufacturing cost cut to 1/10 of DUV】June 5 — Pulin Technology said it and Shenzhen Lice used a vacuum air‑pressure wafer‑level nanoimprint (PL‑AS) plus a custom dual‑layer imprint resist and core process to achieve scalable 8‑inch photonic‑chip wafer production, fully bypassing deep‑UV (DUV) lithography and reducing chip manufacturing cost to one‑tenth of comparable DUV routes. A‑share nanoimprint‑related names cited include Suda Weige, Medikai, Lihexing, Jingfang Technology, Jinghua Laser and Crystal Optoelectronics.
-
----
-
-### 2026-06-07 08:20:30  #其他
-
-【首批13家龍頭企業入駐前海深港匯】日前，首批13家聚焦新質生產力賽道的龍頭企業正式入駐前海深港匯雙向總部基地，依託前海香港雙總部架構，開啟深港協同、全球佈局的全新發展模式。前海深港彙總部基地由深港共建，憑藉優質的辦公配套、暢通的跨境要素和共享的產業資源，成為企業深耕創新、佈局全球的重要平臺。
-
----
-
-### 2026-06-07 08:20:09  #國際
-
-【美以伊衝突百日，海灣國家加速戰略轉向】當地時間6月7日，本輪美以伊衝突進入第100天。過去100天裡，從美伊博弈持續升級到霍爾木茲海峽局勢升溫，從全球能源市場劇烈波動到傳統安全架構面臨全新考驗，中東地區經歷了一輪劇烈動盪。這場危機的影響早已超出軍事層面，開始深刻影響海灣阿拉伯國家的發展戰略和地區秩序演變。對於長期依賴穩定環境和能源財富實現經濟發展的海灣國家而言，這100天不僅是一場安全危機，更促使他們重新思考自身未來的發展模式和戰略定位的重大考驗，並推動這些國家加速戰略轉向。（央視新聞）
-
----
-
-### 2026-06-07 08:19:44  #其他
-
-【靳磊會見中國農業銀行行長王志恆】6月5日，深圳市委書記靳磊會見中國農業銀行黨委副書記、行長王志恆一行。靳磊感謝中國農業銀行長期以來對深圳發展作出的重要貢獻，表示深圳正深入貫徹落實習近平總書記、黨中央決策部署，堅定不移深化改革開放、推進創新發展，加快建設中國特色社會主義先行示範區，建立社會主義現代化強國的城市範例。深圳經濟社會發展保持穩中有進、向新向優向好的態勢，與農行發展有許多契合點。面向未來，希望進一步深化在科技金融、普惠金融、涉農金融、跨境金融、金融資產投資、城市更新、新型基礎設施等領域務實合作，推動取得更多豐碩成果，實現互利共贏。（深圳特區報）
-
----
-
-### 2026-06-07 08:18:22  #公司 #市場 #國際
-
-【擔憂韓國股市過熱 多頭尋求持倉對沖】市場對韓股的樂觀情緒逐漸消退，謹慎心態抬頭。部分投資者擔憂本輪漲勢過熱過快，開始對沖持倉、減持扎堆交易標的。 對沖基金Golden Horse已降低風險敞口，並增配衍生品對沖工具；英國保誠投資則減持儲存晶片與晶圓製造企業個股，向人工智慧產業鏈下游佈局。對安碩MSCI韓國指數ETF期權的分析顯示，投資者紛紛買入看跌避險合約。該ETF上週五在美國市場大跌14%。 上述操作反映出全球資管機構面臨的困境。三星電子、SK海力士兩大晶片巨頭推動韓國綜合股價指數年內漲幅超90%，投資者雖依舊看好兩家企業，但在新增資金佈局上日趨謹慎，並預留現金伺機佈局其他市場。 受加息預期影響，美股科技股上週五遭遇拋售，可見市場情緒轉向後，熱門交易頭寸會迅速瓦解。這一風險或將在韓國股市開盤後傳導至當地市場。 Golden Horse執行合夥人Yi Ling Ong表示：“過去數週，我們已小幅削減整體持倉，併疊加衍生品對沖。”她還稱，本月SpaceX等多起大型IPO將促使機構套現參與新股申購，因此保留部分備用資金實屬穩妥之舉。
-
----
-
-### 2026-06-07 08:16:13  #MKT News
-
-【Egg prices surge nearly 80% YoY】Wholesale egg prices at Beijing’s Xinfadi hit 5.5 yuan per jin in early June, about 26% higher than early May and nearly 80% year‑on‑year — the strongest same‑period rise in roughly five years. Market officials attributed the jump to Dragon Boat Festival seasonal demand and a temporary tightening of supply. The Ministry of Agriculture and Rural Affairs said higher prices restored profitability for layer farms: most were profitable in May, earning about 0.5–1.2 yuan per jin.
-
----
-
-### 2026-06-07 08:15:12  #公司
-
-【深圳市委書記靳磊到大疆、邁瑞、優必選等企業調研】據深圳特區報訊息，近日，深圳市委書記靳磊先後到大疆創新科技有限公司、深圳邁瑞生物醫療電子股份有限公司、深圳市優必選科技股份有限公司調研，與企業負責人深入交流，詳細瞭解企業生產經營和創新發展情況，並就進一步做好服務保障，最佳化創新環境和產業生態等聽取意見建議。靳磊表示，深圳是一座創新氛圍濃厚、創新活力澎湃的城市，一批批創新企業茁壯成長，創新產品不斷湧現，成為這座城市的寶貴財富和活力之源，誠摯感謝大家為深圳經濟社會發展作出的重要貢獻。當前，新一輪科技革命和產業變革加速演進，為城市和企業創新發展都帶來了新機遇。深圳正加快打造具有全球影響力的產業科技創新中心，希望大家聚力創新突破，持續提升核心競爭力，開拓更加廣闊的國內外市場，實現更好更大發展。我們將始終與大家同向同行、相互成就，攜手創造新的更大奇蹟。
-
----
-
-### 2026-06-07 08:13:24  #國際
-
-市場訊息：一名聯邦法官叫停了特朗普政府的相關舉措，該舉措要求各州達標後才能領取數十億美元的食品券補助資金。
-
----
-
-### 2026-06-07 08:09:15  #其他
-
-【廣州花都推出“賣舊買新”專項購房補貼 購買單套新房最高補2萬元】6月5日，花都區住房和城鄉建設局釋出通知，針對居民個人在區內“賣舊買新”推出專項購房補貼，單套新建商品住宅最高可獲2萬元補貼。 根據《花都區進一步促進房地產市場平穩健康發展若干措施》，2026年5月5日至12月31日，居民在花都區內購買新建商品住宅並完成網籤，且在網籤日前後1年內出售名下本區二手住宅的，可按所購新房貸款總額的1%申領補貼。貸款總額不足200萬元的，按實際貸款額1%計算；達到或超過200萬元的，按每套2萬元上限補貼。補貼總規模3000萬元，先到先得，用完即止。
-
----
-
-### 2026-06-07 08:07:43  #其他
-
-馬斯克：最新版 Grok Build 已修復 Grep 超時問題。
 
 ---
