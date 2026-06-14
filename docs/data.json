@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-14 18:20:54",
-  "count": 18328,
+  "updated": "2026-06-14 18:25:05",
+  "count": 18326,
   "items": [
+    {
+      "id": "mkt:019ec5a7-81d2-7dd8-aff0-d36a8b3197cf",
+      "time": "2026-06-14 18:22:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US reportedly agrees to unfreeze $25 billion in Iranian assets】Refinitiv cited Iranian senior officials saying a draft memorandum of understanding would have Iran agree not to develop or acquire nuclear weapons and to maintain the nuclear status quo — including no uranium enrichment or expansion of nuclear facilities — until a final agreement. Iran would dilute its high‑enriched uranium stockpile; mechanisms to implement dilution would be discussed within 60 days. The US would grant temporary waivers on oil sanctions for specified periods, allowing Iranian oil sales and revenue flows. Iran would immediately reopen the Strait of Hormuz to all commercial shipping and the US would lift its maritime blockade. The US would unfreeze $25 billion of Iranian assets via direct cash transfers, regional cooperation and credit lines. Under the draft, the US would not impose new sanctions on Iran before a final agreement is reached."
+    },
     {
       "id": "4934416",
       "time": "2026-06-14 18:18:43",
@@ -168534,30 +168546,6 @@
         "國際"
       ],
       "text": "美國地質調查局：普羅科皮西北偏西 5 公里處發生 5.1 級地震。"
-    },
-    {
-      "id": "4921849",
-      "time": "2026-06-07 18:24:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【本輪巴以衝突已造成加沙地帶72971人死亡】當地時間7日，加沙地帶衛生部門釋出最新通報稱，過去24小時，加沙地帶各醫院共接收了10名遇難者遺體和36名傷員。據統計，自2025年10月11日停火以來，加沙地帶共記錄遇難者961人、傷者3020人。自2023年10月7日新一輪巴以大規模衝突爆發以來，加沙地帶的累計遇難人數已達72971人，累計受傷人數超17.3萬人。（央視新聞）"
-    },
-    {
-      "id": "4921848",
-      "time": "2026-06-07 18:24:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英媒披露伊朗收取的海峽通行費用大幅下降】據英國《勞埃德船舶日報》日前報道，通行霍爾木茲海峽的部分船隻，每艘船需繳納十多萬美元以換取伊朗的通行許可，相關費用較戰事初期大幅下降。報道援引航運安全運營商方面的訊息說，目前散貨船單次通行費最高可達12萬美元，油輪最高可達16萬美元，具體費率根據船型、貨物及船東國籍等因素有所浮動，較與戰事初期每艘船100萬至200萬美元的收費相比顯著下降。報道說，美國所謂疏導船舶透過霍爾木茲海峽的“自由計劃”上月破產後，美方的安保承諾變得更不可靠。多數船東仍認為透過該海峽過於危險，寧可繼續滯留。但由於看不到任何可信的和平協議，業界預計對峙還將持續。（新華社）"
-    },
-    {
-      "id": "4921847",
-      "time": "2026-06-07 18:24:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西南寧釋出暴雨紅色預警】6月7日，記者從廣西南寧市氣象部門瞭解到，今天17時40分，南寧市氣象臺將興寧區暴雨橙色預警訊號提升為紅色，併發布西鄉塘區暴雨紅色預警訊號、青秀區及良慶區暴雨橙色預警訊號：16時以來，興寧區三塘鎮及西鄉塘區老虎嶺水庫一帶已出現30—50毫米的強降雨，預計未來3小時西鄉塘區、興寧區、青秀區、良慶區仍將有20—40毫米，局地50毫米以上的強降雨，並伴有雷電、短時大風，山洪地質災害和城區積澇氣象風險很大，請防範。（央視新聞）"
     }
   ]
 }
