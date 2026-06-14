@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-14 13:51:26",
-  "count": 18302,
+  "updated": "2026-06-14 13:55:24",
+  "count": 18297,
   "items": [
+    {
+      "id": "mkt:019ec4b1-c032-7dd8-afef-2d35307ffdf1",
+      "time": "2026-06-14 13:54:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【UK, Japan expected to sign £18 bln clean energy investment deal】Prime Minister Starmer's office said on Saturday the UK and Japan are expected to agree a £18 billion (about $24.1 billion) investment package focused on offshore wind, infrastructure and financial services. The deal would include up to £9 billion of Japanese investment to develop 5.9 GW of floating offshore wind in the UK, ultimately generating enough clean power for about 8 million households and creating new jobs in the sectors named."
+    },
     {
       "id": "4934229",
       "time": "2026-06-14 13:41:18",
@@ -168293,57 +168306,6 @@
         "國際"
       ],
       "text": "【日本兩大航司擬再上調國際航線燃油附加費】據日本方面近日訊息，因中東局勢惡化，航空燃料價格持續高漲。全日空航空公司和日本航空公司已基本決定大幅上調7月至8月出票的國際航線燃油附加費。5月至6月出票的北美、歐洲航線單程燃油附加費已高達5.6萬日元（約合人民幣2363元），預計將進一步上調並重新整理最高紀錄，可能升至6.5萬至7萬日元（約合人民幣2743至2954元區間）。具體上調幅度正與日本國土交通省等部門協調，近期將敲定。據悉，全日空和日航6月的國際航線燃油附加費已經大幅上調，與4月和5月的價格相比漲幅超過70%。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ea0a4-73ed-7665-8316-da17f6f09625",
-      "time": "2026-06-07 13:53:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "APK-Inform raised its 2026 Ukraine wheat forecast to 21.7 mln tonnes from 19.9 mln tonnes and lifted its 2026 total grain forecast to 58.7 mln tonnes from 56.9 mln tonnes."
-    },
-    {
-      "id": "mkt:019ea0a3-f163-7665-8316-d5919552117d",
-      "time": "2026-06-07 13:52:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "APK-Inform raised its 2026/27 forecast for Ukraine's grain exports to 42.8 mln tonnes from 42.0 mln tonnes."
-    },
-    {
-      "id": "4921701",
-      "time": "2026-06-07 13:52:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東方A回應儲存漲價對顯示行業的影響】關於“儲存漲價對顯示行業的影響”的問題，京東方A在機構調研時表示，受儲存漲價對消費電子衝擊的影響，根據諮詢機構預計，終端廠商與面板廠商在部分產品類別將承受一定壓力。分產品類別來看，對膝上型電腦和智慧手機終端需求有可能產生一定程度的影響；綜合考慮TV面積需求增長等因素，對電視終端需求影響有限。"
-    },
-    {
-      "id": "4921700",
-      "time": "2026-06-07 13:52:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "APK-Inform諮詢公司將烏克蘭2026年穀物收成預測從5690萬噸上調至5870萬噸。"
-    },
-    {
-      "id": "4921699",
-      "time": "2026-06-07 13:52:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭農產品諮詢公司APK-INFORM將烏克蘭2026/27年度穀物出口預測從4200萬噸上調至4280萬噸。"
-    },
-    {
-      "id": "4921698",
-      "time": "2026-06-07 13:52:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭農業諮詢公司APK-INFORM將烏克蘭2026年小麥產量預測從此前的1990萬噸上調至2170萬噸。"
     }
   ]
 }
