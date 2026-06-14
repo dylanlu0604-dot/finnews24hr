@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-14 14:39:31",
+  "updated": "2026-06-14 14:43:19",
   "count": 18293,
   "items": [
+    {
+      "id": "4934263",
+      "time": "2026-06-14 14:41:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月13日北京新房網籤272套、二手房網籤792套】北京市住建委官網資料顯示，6月13日北京新房網籤272套，網籤面積20865.64平方米，其中住宅網籤131套，網籤面積15926.54平方米；二手房網籤209套，網籤面積18876.14平方米，其中住宅網籤193套，網籤面積18287.1平方米。"
+    },
+    {
+      "id": "4934262",
+      "time": "2026-06-14 14:40:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音上線AI反網暴智慧體】針對網路暴力呈現的新形態，抖音推出AI反網暴行動，上線AI反網暴Agent（智慧體），讓網暴識別模型、研判模型與人工協同工作，並最佳化外呼救助機制，覆蓋風險發現、事件研判、主動治理到外呼救助。系統升級後，平臺日均識別出的潛在被網暴風險人群擴大 91.5%，每天有數千名使用者收到預警後主動開啟防網暴功能，因風險等級高而被人工外呼援助的受害者數量增長147%。"
+    },
     {
       "id": "4934261",
       "time": "2026-06-14 14:34:20",
@@ -168248,22 +168264,6 @@
         "國際"
       ],
       "text": "【黃仁勳會見韓國兩大遊戲商代表共商遊戲AI合作方案】英偉達執行長（CEO）黃仁勳7日在首爾江南區的網咖先後會見韓國遊戲公司KRAFTON創始人兼董事長蔣柄圭和遊戲開發商NCSOFT代表金澤辰。下午1時20分許，黃仁勳抵達網咖入口，首先向在路邊等待的市民們致意，之後與蔣柄圭以及KRAFTON公司的多名高管一一握手問候併合影。據悉，當天黃仁勳和蔣柄圭可能就物理AI等人形機器人，以及基於英偉達近期釋出的首款AI膝上型電腦系列“RTX Spark”的遊戲領域合作等進行討論。在結束與KRAFTON高管的會面後，黃仁勳移步附近的另一家網咖，同金澤辰以及NCSOFT高層會面。黃仁勳同在網咖的玩家們寒暄問候，並親自了解了NCSOFT的新作《永恆之塔2》（《AION2》）。英偉達已為《永恆之塔2》提供圖形最新技術支援（DLSS深度渲染技術）。黃仁勳還同金澤辰“閃現”網路直播，就遊戲產業和AI技術的發展方向等交換意見。"
-    },
-    {
-      "id": "mkt:019ea0cf-a307-7665-8317-17ce1389c254",
-      "time": "2026-06-07 14:40:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli military said on Tuesday it killed Sakr Abu Karim, a commander of an operational unit in Hamas's elite Nukhba force and the leader of the Oct. 7, 2023 attack on the Kissufim area."
-    },
-    {
-      "id": "mkt:019ea0cf-2260-7665-8317-089a6b4e542d",
-      "time": "2026-06-07 14:39:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The IDF and Shin Bet told The Times of Israel that a Hamas operative who took part in the October 7 attacks and planned operations against Israeli forces was killed in an IDF strike in Gaza last week."
     }
   ]
 }
