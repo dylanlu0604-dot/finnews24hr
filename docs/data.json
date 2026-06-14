@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-14 08:23:33",
-  "count": 18412,
+  "updated": "2026-06-14 08:27:35",
+  "count": 18413,
   "items": [
+    {
+      "id": "4934080",
+      "time": "2026-06-14 08:26:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於歐洲中部夏令時間6月17日下午2點45分（北京時間17日20:45）會見印度總理。"
+    },
+    {
+      "id": "4934079",
+      "time": "2026-06-14 08:26:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於歐洲中部夏令時間6月17日上午11:30（北京時間17日17:30）會見埃及總統。"
+    },
+    {
+      "id": "4934078",
+      "time": "2026-06-14 08:26:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於歐洲中部夏令時間6月16日上午11點15分（北京時間16日17:15）會見阿聯酋總統。"
+    },
+    {
+      "id": "4934077",
+      "time": "2026-06-14 08:25:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於歐洲中部夏令時間6月16日上午10:30會見卡達埃米爾。"
+    },
+    {
+      "id": "4934076",
+      "time": "2026-06-14 08:24:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於歐洲中部夏令時間6月15日下午5:30（北京時間15日23:30）在埃維昂會見法國總統馬克龍。"
+    },
     {
       "id": "4934075",
       "time": "2026-06-14 08:19:35",
@@ -169278,38 +169318,6 @@
         "國際"
       ],
       "text": "印度石油公司上調國內民用液化氣價格，每罐液化石油氣漲價 29 印度盧比。"
-    },
-    {
-      "id": "4921528",
-      "time": "2026-06-07 08:25:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南首個全流程智慧採血工作站落地省中醫院】近日，海南省內首個全流程智慧採血工作站在廣東省中醫院海南醫院（海南省中醫院）揭牌啟用。工作站涵蓋智慧採血系統、全自動樣本分揀系統、單樣本氣動物流傳輸系統和全實驗室智慧化流水線，具有人性化、智慧化、整合化的優點，能夠極大提高採血檢驗的效率。"
-    },
-    {
-      "id": "mkt:019e9f77-b0cc-7665-8315-48342f503ea4",
-      "time": "2026-06-07 08:24:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China achieves major breakthrough in clean low-carbon hydrogen–coal co-firing technology】National Energy Group says a domestically developed hydrogen–coal co-firing system has for the first time achieved 50% green-hydrogen co-firing by heat share and 100% pure-hydrogen combustion on a test rig. The project uses an indigenous low‑NOx hydrogen–coal burner and a full-process safety protection system from hydrogen transport to furnace; with green hydrogen blended, coal savings and CO2 reductions can reach up to 50%, and NOx formation was effectively controlled."
-    },
-    {
-      "id": "4921527",
-      "time": "2026-06-07 08:24:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【加密貨幣全線下跌】6月7日早間，加密貨幣市場全線下跌。截至發稿，比特幣跌0.48%報60757美元；以太坊跌1.29%；艾達幣微跌0.04%。CoinGlass資料顯示，過去24小時，加密貨幣市場超13萬人爆倉，爆倉總金額4.25億美元。"
-    },
-    {
-      "id": "4921526",
-      "time": "2026-06-07 08:23:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶片製造有新突破 光晶片壓印，成本僅DUV的1/10】6月5日，璞璘科技釋出訊息稱，公司與深圳力策合作採用真空氣壓式奈米壓印方案實現8英寸光晶片量產突破：依託璞璘科技自主研發的PL-AS真空氣壓式晶圓級奈米壓印光刻裝置，配合定製化雙層壓印膠材料體系與核心工藝，完全繞開深紫外（DUV）光刻路線，成功實現8英寸光晶片晶圓可規模化量產，並將晶片製造成本壓縮至傳統DUV方案的十分之一。A股中，奈米壓印相關概念股主要有蘇大維格、美迪凱、利和興、晶方科技、京華鐳射、水晶光電等。（證券時報）"
     }
   ]
 }
