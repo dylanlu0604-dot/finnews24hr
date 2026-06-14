@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-14 08:04:08",
-  "count": 18420,
+  "updated": "2026-06-14 08:08:01",
+  "count": 18421,
   "items": [
+    {
+      "id": "4934074",
+      "time": "2026-06-14 08:06:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西戰平摩洛哥】世界盃小組賽C組第1輪，巴西對陣摩洛哥。上半場比賽，摩洛哥率先取得進球，隨後維尼修斯內切爆射得分，巴西1-1追平比分。下半場，雙方均未進球，打成平手。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ec372-6aea-7dd8-afee-61ca0cf4ce0c",
+      "time": "2026-06-14 08:05:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【US military drafted May plan to seize Iran's enriched uranium; Trump declined】US military drew up in May a plan to send ground forces into Iran to seize enriched uranium stocks buried in underground tunnels at nuclear sites including Isfahan and Natanz. The plan stalled and the military began drafting a new removal option. Chairman of the Joint Chiefs of Staff Dan Keane returned urgently to U.S. Central Command on May 19 for a briefing and later reported the plan to President Trump. After warnings the operation could prompt strong Iranian retaliation, prolong conflict and exacerbate global economic disruption, Trump did not approve it. U.S. military assessment rated the operation's acceptable risk as \"high\" to \"very high,\" indicating substantial U.S. casualties even if the mission succeeded."
+    },
     {
       "id": "4934073",
       "time": "2026-06-14 08:02:55",
@@ -169367,14 +169386,6 @@
         "其他"
       ],
       "text": "【廣州花都推出“賣舊買新”專項購房補貼 購買單套新房最高補2萬元】6月5日，花都區住房和城鄉建設局釋出通知，針對居民個人在區內“賣舊買新”推出專項購房補貼，單套新建商品住宅最高可獲2萬元補貼。 根據《花都區進一步促進房地產市場平穩健康發展若干措施》，2026年5月5日至12月31日，居民在花都區內購買新建商品住宅並完成網籤，且在網籤日前後1年內出售名下本區二手住宅的，可按所購新房貸款總額的1%申領補貼。貸款總額不足200萬元的，按實際貸款額1%計算；達到或超過200萬元的，按每套2萬元上限補貼。補貼總規模3000萬元，先到先得，用完即止。"
-    },
-    {
-      "id": "4921517",
-      "time": "2026-06-07 08:07:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：最新版 Grok Build 已修復 Grep 超時問題。"
     }
   ]
 }
