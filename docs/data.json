@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-14 21:32:45",
-  "count": 18242,
+  "updated": "2026-06-14 21:36:47",
+  "count": 18240,
   "items": [
+    {
+      "id": "4934499",
+      "time": "2026-06-14 21:35:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾茨稱，各方全力爭取在週日敲定伊美相關協議。"
+    },
+    {
+      "id": "4934498",
+      "time": "2026-06-14 21:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華南有持續性強降雨】@中國氣象局 6月14日釋出提醒，未來三天，廣西、廣東等地強降雨持續時間長、累計降雨量大、暴雨致災風險高，需加強雨情和水情監測，防範山洪、地質災害、中小河流洪水和城市暴雨積澇。儘量避免前往山區、河谷等地質災害隱患點，注意防範強降雨和局地短時雷暴大風的不利影響。"
+    },
     {
       "id": "4934497",
       "time": "2026-06-14 21:32:09",
@@ -167785,41 +167801,6 @@
         "國際"
       ],
       "text": "特朗普：伊朗民眾堅韌且自尊，如今被迫做出諸多始料未及的舉動。"
-    },
-    {
-      "id": "4922009",
-      "time": "2026-06-07 21:36:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，伊朗經濟正瀕臨崩潰，其所要承受的代價難以為繼。"
-    },
-    {
-      "id": "4922008",
-      "time": "2026-06-07 21:36:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，戰爭結束後美國民眾將會鬆一口氣。"
-    },
-    {
-      "id": "mkt:019ea24a-4b29-7ee0-86cf-fcf8f27c7dbc",
-      "time": "2026-06-07 21:33:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【OPEC+ seven nations to raise July production targets by 188,000 bpd】Under the OPEC+ framework, seven members—Russia, Saudi Arabia, Iraq, Kazakhstan, Kuwait, Algeria and Oman—agreed to raise their crude production cap by 188,000 barrels per day from July. The statement said members reaffirmed the need for caution and retain full flexibility to increase, pause or reverse voluntary output adjustments. The seven will meet again on July 5."
-    },
-    {
-      "id": "4922007",
-      "time": "2026-06-07 21:33:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普表示希望大幅擴充軍事力量。"
     }
   ]
 }
