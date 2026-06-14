@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-14 10:38:41_
-_本檔包含 3588 則快訊，約 661430 字_
+_更新時間：2026-06-14 12:06:38_
+_本檔包含 3566 則快訊，約 659311 字_
+
+---
+
+### 2026-06-12 10:01:13  #市場 #國際
+
+印尼股市基準指數開盤上漲1.3%，至5960.42點。
+
+---
+
+### 2026-06-12 10:01:00  #其他
+
+【廣東進入“龍舟水”關鍵期 12日夜間至14日有強對流天氣】6月12日，廣東省預警中心釋出強降雨防禦提醒。廣東省三防辦、廣東省氣象局提醒：6月12日夜間—14日，廣東省大部分市縣將有大雨到暴雨，區域性（特）大暴雨，伴有雷暴大風等強對流天氣。目前正值“龍舟水”關鍵期，未來一週強降雨頻繁，請民眾注意防禦山洪、地質災害、城鄉積澇等災害；龍舟競渡等戶外活動需防範雷擊、短時大風帶來的不利影響。
+
+---
+
+### 2026-06-12 10:00:43  #市場
+
+【公安部：我國電詐案件發案已連續8個月同比下降】從公安部今天（12日）召開的新聞釋出會上獲悉，從2025年10月以來，我國電詐案件發案已連續8個月實現同比下降。從詐騙手法來看，當前最高發的詐騙型別有10類，分別是：刷單返利、虛假購物服務、虛假網路投資理財、冒充電商物流客服、貸款徵信、網路遊戲虛假交易、網路婚戀交友、冒充公檢法、冒充領導熟人和機票退改簽詐騙。這10類案件就佔了全部電詐案件的85%。其中，刷單返利詐騙發案最高，佔所有電詐案件的25%；虛假網路投資理財詐騙損失最高，約佔全部電詐案件損失的40%，損失百萬、千萬以上的案件大多是這種型別。另外，當前電信網路詐騙出現一些新特點和新手法：一是犯罪分子主要透過網路平臺尋找作案目標；二是犯罪分子大量使用小眾通聯軟體對被害人進行深度洗腦；三是犯罪分子使用專門詐騙App實施遠端盜刷；四是犯罪分子大量利用現金或者黃金等貴重物品獲取、轉移涉詐資金。
+
+---
+
+### 2026-06-12 10:00:25  #其他
+
+【第48屆世界技能大賽將於9月22日至27日舉辦】國新辦舉行釋出會，人力資源社會保障部有關負責人介紹，第48屆世界技能大賽將於9月22日至27日在國家會展中心（上海）舉辦。作為全球最高層級的職業技能競賽，本屆設定64個比賽專案，覆蓋製造、交通、建築、資訊、創意、服務六大領域。目前，所有比賽場地規劃和佈局方案，均已透過世界技能組織稽核。
+
+---
+
+### 2026-06-12 10:00:12  #MKT News #Market Regions #Greater China
+
+【Guangzhou targets annual specialized-market turnover above 2 trillion yuan by 2030】Guangzhou released its Commerce Development 15th Five-Year Plan (public consultation draft), targeting annual transaction volume in specialized markets to exceed 2 trillion yuan by 2030 to consolidate its role as a core platform of an international trade center. The draft aims to establish 30 public-service platforms for specialized markets by 2030 and estimates direct and indirect employment effects of about 2.2 million across trade services, innovation and entrepreneurship, cultural-tourism consumption and logistics support.
+
+---
+
+### 2026-06-12 10:00:11  #MKT News
+
+Xinhua reported South Korean President Yoon Suk-yeol was sentenced to 30 years in prison in a first-instance trial over the "drone incident".
+
+---
+
+### 2026-06-12 10:00:06  #其他
+
+【廣州：到2030年，全市專業市場年交易額突破2萬億元】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，到2030年，全市專業市場年交易額突破2萬億元，較基期年實現跨越式提升，鞏固國際商貿中心核心載體地位。到2030年，建設服務於專業市場的公共服務平臺30家；就業帶動效應持續放大，覆蓋商貿服務、創新創業、文旅消費、物流配套等多個領域，直接與間接帶動就業220萬人。
+
+---
+
+### 2026-06-12 09:59:30  #焦點 #國際
+
+據韓聯社12日報道，韓國前總統尹錫悅因“製造平壤上空無人機入侵事件”一審被判處有期徒刑30年。（新華社）
+
+---
+
+### 2026-06-12 09:59:19  #MKT News #Important
+
+Coke futures contract 2609 spiked intraday, up about 4% to probe 2,087 yuan/tonne; trading value roughly CNY 6.365 bln. Open interest rose nearly 7,300 contracts on the day, with volume and position activity increasing in tandem.
+
+---
+
+### 2026-06-12 09:58:46  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時放量1951億元。
+
+---
+
+### 2026-06-12 09:58:39  #市場 #焦點
+
+焦炭連續主力合約日內漲4%，現報2087.00元。
+
+---
+
+### 2026-06-12 09:58:38  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+China A-share maritime equipment sector rose on volatile trade; Zhongke Haixun gained over 7%, while Songfa, Jianglong Shipbuilding, Tianhai Defense and Hailanxin also advanced.
+
+---
+
+### 2026-06-12 09:57:49  #MKT News #Commodities #Precious Metals #XAUUSD
+
+【China Merchants Bank raises Zhaocaijin precious‑metals maintenance margin to 120% from June 16】China Merchants Bank said it will raise the margin maintenance ratio for margin calls on its Zhaocaijin precious‑metals business to 120%, effective at settlement on the close of Tuesday, June 16, 2026, citing heightened domestic and international precious‑metals price volatility. Affected contracts: Ag(T+D), Au(T+D), mAu(T+D), Au(T+N1), Au(T+N2), NYAuTN06 and NYAuTN12.
+
+---
+
+### 2026-06-12 09:57:28  #其他
+
+周大福港股漲幅超15%。
+
+---
+
+### 2026-06-12 09:57:18  #MKT News #Important #Market Themes #AI Revolution #Chip Wars #CSI300 #Impact bullish #Hang Seng Index
+
+【Guangzhou draft commerce plan prioritises intelligent connected vehicles, NEVs, AI, semiconductors and low‑altitude economy for major project deployment】Guangzhou’s public consultation draft of the Commerce Development 15th Five‑Year Plan calls for accelerated landing of major projects in intelligent connected vehicles and new‑energy vehicles (NEVs), ultrahigh‑definition video and new displays, green petrochemicals and new materials, smart equipment and robotics, artificial intelligence, semiconductors and integrated circuits, and the low‑altitude economy, and for cultivation of high‑tech, manufacturing 'single champion' and specialized‑and‑innovative leading intermediate‑goods firms. The draft directs faster development of intermediate‑goods trade bases and cultivation of well‑known brands and chain‑leading enterprises, and supports firms’ digital transformation using industrial internet, big data and AI to raise production efficiency and product quality and to upgrade intermediate‑goods trade toward higher‑end, digital and intelligent segments.
+
+---
+
+### 2026-06-12 09:57:11  #其他
+
+【廣州：全力推進智慧網聯與新能源汽車、人工智慧、半導體及積體電路、低空經濟等重大專案的落地】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，全力推進智慧網聯與新能源汽車、超高畫質影片與新型顯示、綠色石化與新材料、智慧裝備與機器人、人工智慧、半導體及積體電路、低空經濟等重大專案的落地，培育一批高新技術、製造業單項冠軍、專精特新等龍頭中間品企業。推動外貿轉型升級基地加快發展中間品貿易，培育一批知名品牌、“鏈主”企業。支援企業利用工業網際網路、大資料、人工智慧等技術進行數字化改造，提升生產效率和產品質量，推動中間品貿易向高階化、數智化方向躍升。
+
+---
+
+### 2026-06-12 09:57:08  #其他
+
+【水利部：受強降雨影響 烏江、贛江等將有明顯漲水過程】從水利部瞭解到，據預報，今天（6月12日）至14日，西南東部南部、江南大部、華南大部等地將有一次移動性強降雨過程。長江上游支流烏江，洞庭湖水系沅江中游、湘江上中游，鄱陽湖水系贛江、撫河、信江、饒河；珠江流域西江及支流鬱江、柳江、桂江、賀江，北江，東江，韓江；福建閩江、甌江；松花江流域松花江吉林段、牡丹江等河流將出現明顯漲水過程；暴雨區內福建閩江支流富屯溪、建溪及貴州烏江支流野紀河、江西信江支流瀘溪水等中小河流可能發生超警以上洪水。水利部要求相關省份水利部門和流域管理機構密切關注天氣變化，科學精準排程骨幹水庫等防洪工程，全力保障人民群眾生命財產安全。
+
+---
+
+### 2026-06-12 09:56:53  #市場
+
+【招商銀行調整“招財金”業務合約追保保證金比例】6月12日，招商銀行釋出關於調整“招財金”業務合約追保保證金比例的通告。鑑於近期國內外貴金屬價格波動加劇，為防範市場風險、保護投資者權益，該行對招財金業務進行相關調整，具體通告如下：2026年6月16日（星期二）收盤清算時起，Ag(T+D)、Au(T+D)、mAu(T+D)、Au(T+N1)、Au(T+N2)、NYAuTN06、NYAuTN12等合約的追保保證金比例調整為120%。請投資者做好風險防範工作，合理控制倉位，理性投資。
+
+---
+
+### 2026-06-12 09:56:04  #MKT News #Market Regions #Greater China
+
+China A-share low-altitude economy sector rose; Zongshen Power and CITIC Offshore Helicopter hit the daily limit; Wanfeng Aowei, Chuangyuan Xinke and Suochen Technology also advanced.
+
+---
+
+### 2026-06-12 09:55:34  #公司 #市場
+
+【通用航空概念持續走強，宗申動力、晨曦航空等多股漲停】通用航空概念持續走強，宗申動力、晨曦航空、中信海直漲停，中航高科、應流股份、萬豐奧威、安達維爾、洪都航空、天成自控等跟漲。
+
+---
+
+### 2026-06-12 09:55:26  #MKT News #Important #Market Regions #Greater China
+
+Localized moves in Guangdong: Zhujiang Piano jumped >7% intraday; Zhujiang Co. rose >3%. Guangzhou’s draft 15th Five-Year commerce development plan, published for public comment, proposes to support the Hong Kong Jockey Club’s Conghua racecourse and the Guangzhou International Horse Racing Development Center and to back regular racing schedules.
+
+---
+
+### 2026-06-12 09:55:24  #公司 #市場
+
+廣東板塊區域性異動，珠江鋼琴短線拉昇漲超7%，珠江股份漲超3%。
+
+---
+
+### 2026-06-12 09:55:10  #MKT News
+
+【Guangzhou: total retail sales of consumer goods to grow 5% annually during 15th Five-Year Plan】Guangzhou has released a draft commerce development plan for public consultation, aligning with national and provincial plans and setting four areas with 18 specific business-development targets through 2030. Key numeric targets: total retail sales of consumer goods to rise 5% a year during the 15th Five-Year Plan period; goods trade import‑export scale to grow 6% a year; service outsourcing contract execution to reach $24bn by 2030. The draft also defines 15 focused indicators tied to consumption, foreign trade, exhibitions, two‑way investment and ports — including online retail sales of above‑scale wholesale and retail firms, number of world‑class commercial districts, service trade import‑export, exhibition area of key venues and added foreign‑funded functional institutions — and sets qualitative mid‑to‑long‑term goals toward 2035.
+
+---
+
+### 2026-06-12 09:55:00  #其他
+
+【廣州：“十五五”期間社會消費品零售總額年均增長5%】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，本規劃充分銜接國家以及省市規劃建議、綱要，立足廣州增強國際商貿中心功能的現實路徑和需要，制定了到2030年的4方面18項具體商務發展指標。其中，社會消費品零售總額（“十五五”期間年均增長5%）、貨物貿易進出口規模（年均增長6%）、服務外包合同執行額（2030年達240億美元）等3個指標，納入市規劃綱要。此外，本規劃根據消費、外貿、會展、雙向投資、口岸等發展趨勢，制定了包括限上批零業網上零售額、世界級商圈數量、服務貿易進出口、重點展館展覽面積、新增外資功能性機構數量等15個重點、特色指標。同時，參照上位規劃做法，對2035年中遠期提出定性目標。
+
+---
+
+### 2026-06-12 09:53:47  #Trading Economics #Markets #Commodity #Importance 1
+
+Platinum Rises Over 4% — Platinum futures rose more than 4% to above $1,730 an ounce, attempting to rebound from a six-month low as precious metals broadly advanced after renewed hopes for a Middle East peace deal eased inflation concerns. US President Donald Trump said a deal could be reached as early as this weekend after postponing planned attacks against Iran. This could potentially reopen the Strait of Hormuz and would likely push oil prices lower, reducing inflation pressures from energy and easing pressure on central banks to raise rates. Still, traders remained cautious, as even a breakthrough would take time to fully restore oil flows. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026. Output from major producers South Africa and Russia remains constrained by aging mines, high costs, and sanctions-related disruptions, while industrial demand from the automotive sector remains resilient.
+
+---
+
+### 2026-06-12 09:53:26  #MKT News #Important #Commodities #Precious Metals
+
+Platinum main contract rose more than 4.00% intraday to 433.10 yuan/gram.
+
+---
+
+### 2026-06-12 09:53:12  #MKT News #Important
+
+【Guangzhou draft commerce plan backs Hong Kong Jockey Club Conghua racecourse, Greater Bay Area cross-border smart clearance for racing】Guangzhou’s draft 15th Five-Year commerce development plan, released for public comment, backs construction of an international events center and seeks to host international and national sporting events including horse and auto racing. The draft explicitly supports the Hong Kong Jockey Club’s Conghua racecourse and the Guangzhou Conghua International Racecourse development center and endorses running a regular racing calendar to spur local consumption. It calls for advancing Greater Bay Area cross-border intelligent customs clearance for horse racing, including use of "horse-face" intelligent recognition to strengthen smart supervision and promote healthy development of the GBA equine industry.
+
+---
+
+### 2026-06-12 09:53:07  #市場
+
+富時中國A50指數期貨漲幅擴大至1%。
+
+---
+
+### 2026-06-12 09:53:00  #市場 #焦點
+
+鉑連續主力合約日內漲4%，現報433.10元。
+
+---
+
+### 2026-06-12 09:52:58  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
+
+FTSE China A50 index futures rise over 1%.
+
+---
+
+### 2026-06-12 09:52:54  #MKT News #Commodities #Industrial Metals #00358.HK #Impact bullish #03993.HK #02899.HK
+
+Hong Kong non-ferrous metals sector strengthened; Jiangxi Copper (00358.HK) rose more than 5%, with Lingbao Gold (03330.HK), China Molybdenum (03993.HK), Minmetals Resources (01208.HK), China Nonferrous Mining (01258.HK) and Zijin Mining (02899.HK) also higher.
+
+---
+
+### 2026-06-12 09:52:50  #國際
+
+日本政府據悉將挑選船隻派遣至霍爾木茲海峽。
+
+---
+
+### 2026-06-12 09:52:14  #公司
+
+【科大訊飛成立詞元星火科技公司，含AI業務】企查查APP顯示，近日，合肥詞元星火科技有限公司成立，註冊資本10億元，經營範圍包含：人工智慧通用應用系統；資訊科技諮詢服務；資料處理服務；人工智慧行業應用系統整合服務；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由科大訊飛全資持股。
 
 ---
 
@@ -21265,345 +21463,5 @@ Euro STOXX 50 futures were down 0.9%, DAX futures down 0.8% and UK FTSE futures 
 ### 2026-06-11 08:21:09  #MKT News #XAUUSD #Impact bullish #WTI #DXY
 
 【Iranian media says drones struck US Fifth Fleet Patriot system in Bahrain】Iranian media reported on the 11th that Iran used drones to attack the US Fifth Fleet in Bahrain, saying the action was in retaliation for US strikes on southern Iran. Reports said the communications antenna and radar facilities of the Fifth Fleet’s Patriot missile system were targeted.
-
----
-
-### 2026-06-11 08:21:04  #Trading Economics #Markets #Japan #stocks #Importance 1
-
-Hitachi Stock Price Hits 10-week Low — Hitachi shares decreased to 4639.00 JPY, the lowest since March 2026. Over the past 4 weeks, Hitachi lost 2.11%, and in the last 12 months, it increased 15.95%.
-
----
-
-### 2026-06-11 08:20:45  #國際
-
-【特朗普：我們的攻擊很猛烈 伊朗捱打不知所以】據福克斯新聞報道，特朗普稱，美軍今晚的打擊“猛烈而兇狠”，伊朗根本不知道是什麼襲擊了他們，以色列沒有參與今晚的打擊行動，但確實與以方進行了簡短通話。
-
----
-
-### 2026-06-11 08:20:42  #市場 #國際
-
-30年期日本國債收益率上升1.5個基點，至3.865%。
-
----
-
-### 2026-06-11 08:20:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Trump: U.S. strike 'fierce'; Iran 'didn't know what hit them'】Fox News reported Trump said the US military's strike tonight was "fierce and brutal" and that Iran "didn't know what hit them." He said Israel did not participate in the strike but had a brief call with Israeli officials.
-
----
-
-### 2026-06-11 08:20:15  #宏觀
-
-【中辦、國辦印發《全國檔案事業發展“十五五”規劃》】近日，中共中央辦公廳、國務院辦公廳印發《全國檔案事業發展“十五五”規劃》。主要目標是：到2030年，檔案工作數字轉型取得新突破，檔案治理效能更加彰顯，檔案資源更加豐富，檔案利用服務更加高效，檔案安全基礎更加鞏固，檔案教育科技人才支撐更加有力。
-
----
-
-### 2026-06-11 08:19:39  #市場 #央行 #國際
-
-【金價在通脹擔憂和利率預期之際下跌】金價在亞洲早盤交易中下跌。XS.com的Antonio Di Giacomo在一封電子郵件中表示，儘管美國5月份消費者價格漲幅符合預期，但投資者仍對持續的中東衝突導致能源價格大幅上漲所帶來的通脹效應感到擔憂。該分析師表示，目前很大一部分市場人士認為，美聯儲下一次加息可能會在年底前進行，這可能正在拖累貴金屬的價格。現貨黃金下跌0.3%，至每盎司4,057.60美元。
-
----
-
-### 2026-06-11 08:19:09  #公司 #市場 #國際
-
-【日經指數下跌2.7%，受科技和機械股拖累】日本股市走低，受對伊朗衝突的再度擔憂和能源成本上升拖累。科技股和機械股領跌。軟銀集團下跌6.7%，石川島播磨重工業下跌7.4%。在美國對伊朗發動新一輪攻擊後，投資者正密切關注中東局勢的發展。日經指數下跌2.7%，至62472.10點。
-
----
-
-### 2026-06-11 08:18:36  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-【Trump: will "bomb Iran to rubble" if no deal; Vance says US negotiating with moderates and hardliners; Iran denies call】Fox News reported Trump said if Iran refuses an agreement "we'll bomb them to rubble tomorrow night (EDT on the 11th)", calling the ceasefire "the most violated in history." Vice President Vance said the US is engaging both moderates and hardliners inside Iran during negotiations. Trump also said he had spoken directly with Iranian officials; Iran denied any such call.
-
----
-
-### 2026-06-11 08:18:17  #國際
-
-【伊朗再襲美軍第五艦隊】據伊朗官方媒體當地時間今天（6月11日）凌晨3點40分左右報道稱，伊朗發射無人機，連續第二天襲擊位於巴林的美軍第五艦隊。
-
----
-
-### 2026-06-11 08:18:05  #央行 #美聯儲
-
-【美國5月CPI爆了 特朗普語出驚人：我愛通脹！】週三，美國總統特朗普似乎對通脹率突破4%的資料表示歡迎，他告訴記者自己“熱愛通脹”，並重申了他的觀點：一旦伊朗戰爭結束，物價就會下跌。
-
----
-
-### 2026-06-11 08:17:40  #公司 #市場 #國際
-
-日本晶片相關股票大幅下跌，軟銀集團股價下跌4.7%，瑞薩電子下跌6.0%，Lasertec下跌5.0%。
-
----
-
-### 2026-06-11 08:15:47  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-TASNIM NEWS reported multiple explosions were heard at U.S. bases in Kuwait and Bahrain.
-
----
-
-### 2026-06-11 08:15:40  #資料 #市場 #觀點
-
-【中信建投：6月行業配置建議採用“槓鈴結構”】中信建投研報指出，6月行業配置建議採用“槓鈴結構”：一端保留AI、半導體和出口製造等高景氣底倉，另一端配置高股息、現金流穩定資產控制組合波動，中間用週期漲價、新能源修復和政策訂單主題做彈性倉位。5月市場主線高度集中在通訊、電子、AI硬體鏈，說明資金仍圍繞產業景氣和業績兌現定價，但AI鏈短期漲幅較大、交易擁擠度上升，6月不宜繼續提升AI總倉位，內部應從高漲幅環節切向半導體材料、裝置零部件、PCB材料、國產算力配套等滯漲且基本面改善方向。若PPI繼續修復、收入—庫存差改善，則週期漲價鏈權重可適度提高，從煤炭、有色逐步擴散至化工、機械、交運等方向，但前提是價格上漲能夠傳導至收入和毛利率。
-
----
-
-### 2026-06-11 08:15:10  #Trading Economics #Economy #Argentina #Credit Rating #Importance 1
-
-S&P Raises Argentina's Credit Rating to B- — Credit ratings agency S&P Global upgraded Argentina's long-term sovereign credit rating to 'B-' from 'CCC+' on Wednesday, citing easing economic vulnerabilities and gradually improving external liquidity. However, the agency warned that the rating remains constrained by still-low net foreign-currency reserves, a history of policy volatility, and high levels of government debt relative to peers. S&P expects Argentina's economy to continue recovering after emerging from recession, supported by lower inflation, rising real wages, and a gradual recovery in domestic demand. Meanwhile, improved access to external financing, including multilateral funding and a gradual return to capital markets, should support foreign-exchange reserve accumulation and debt repayments. Moody's credit rating for Argentina was last set at Caa1 with a stable outlook. DBRS' credit rating for Argentina was last reported at B (low) with a stable outlook.
-
----
-
-### 2026-06-11 08:13:42  #國際
-
-【特朗普威脅6月11日再轟炸伊朗】美國福克斯新聞記者當地時間6月10日晚（北京時間今天清晨）表示，他與美國總統特朗普進行了通話——當時特朗普正身處白宮戰情室，與副總統萬斯以及總統特使威特科夫、賈裡德·庫什納在一起。據稱在通話時，美軍已經發射了49枚“戰斧”導彈打擊伊朗，同時還有戰鬥機的轟炸行動，距離伊朗首都德黑蘭最近的目標位於城外60多公里處。特朗普稱，“美國對伊朗的轟炸即將停止，但如果仍未能達成協議，轟炸行動將於（美東時間）6月11日繼續。”
-
----
-
-### 2026-06-11 08:12:45  #焦點 #國際
-
-伊朗官方媒體：伊朗軍隊動用無人機襲擊了駐紮在巴林的美國第五艦隊，以回應美國對伊朗南部的襲擊。
-
----
-
-### 2026-06-11 08:12:35  #公司 #國際
-
-美國汽車工人聯盟(UAW)主席：經過10天罷工，工會與通用汽車車橋供應商道奇公司（Dauch Corp）達成協議。
-
----
-
-### 2026-06-11 08:12:30  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-According to Iranian media, in response to U.S. strikes on southern Iran, Iran’s military used drones to attack the U.S. Fifth Fleet based in Bahrain.
-
----
-
-### 2026-06-11 08:11:37  #市場 #國際
-
-日本東證股價指數(TOPIX)擴大跌幅，最新下跌2%。
-
----
-
-### 2026-06-11 08:11:27  #市場
-
-【申萬宏源：A股在6至7月可能快速調整，下半年還有上漲行情】“目前，A股結構性上漲行情演繹已接近高位區域，而全面上漲空間尚待開啟。6月至7月可能是快速調整視窗。”6月10日，申萬宏源研究A股策略首席分析師傅靜濤表示。傅靜濤是在申萬宏源2026資本市場夏季策略會上作出的上述表述。但與此同時，傅靜濤認為，從宏觀環境、AI產業趨勢、增量資金流入格局三個角度看，當前A股還不具備大週期上行出現大級別波折的條件。傅靜濤表示，雖然6月至7月可能是快速調整視窗，但隨著後續全面上漲開啟空間，更多結構融入大週期上行行情，需要行情拉長時間，拓展大週期上行的邏輯縱深，2026年下半年還有新一輪上漲行情的判斷不變。（澎湃）
-
----
-
-### 2026-06-11 08:10:11  #MKT News #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
-
-Australia's S&P/ASX 200 opened down 89.8 points (-1.04%) at 8,563.50 on Thursday, June 11.
-
----
-
-### 2026-06-11 08:09:56  #市場 #國際
-
-日本日經平均指數擴大跌幅，最新下跌2.5%，報62,549.24點。
-
----
-
-### 2026-06-11 08:09:50  #公司 #市場
-
-軟銀集團股價下跌7%。
-
----
-
-### 2026-06-11 08:08:53  #公司 #市場
-
-三星電子股價下跌4.6%，至288,500韓元。
-
----
-
-### 2026-06-11 08:08:41  #其他
-
-澳大利亞西太平洋銀行表示，自澳大利亞政府宣佈稅收調整以來，過去三週該行抵押貸款申請量下降了10%。
-
----
-
-### 2026-06-11 08:07:27  #市場 #國際
-
-日本東證股價指數（TOPIX）延續跌勢，最新下跌1.7%，報3783.49點。
-
----
-
-### 2026-06-11 08:07:19  #市場
-
-澳大利亞S&P/ASX 200指數早盤下跌1%，報8566.80點。
-
----
-
-### 2026-06-11 08:06:08  #國際
-
-美軍中央司令部10日在社交媒體上稱，伊朗媒體有關伊朗在霍爾木茲海峽襲擊一艘美國軍艦的訊息是“假新聞”。美軍稱，“沒有美國軍艦遭到襲擊”。（新華社）
-
----
-
-### 2026-06-11 08:06:06  #MKT News
-
-Wall Street Journal reports Canada is proposing a ban on social-media use by children under 16.
-
----
-
-### 2026-06-11 08:05:33  #國際
-
-日本日經平均股指延續跌勢，跌幅達2%。
-
----
-
-### 2026-06-11 08:05:20  #央行 #美聯儲
-
-【中金：維持美聯儲年內不降息、不加息的基準判斷】中金認為，當前通脹仍以能源衝擊等結構性因素為主，週期性通脹尚不明顯，但需警惕AI資本開支擴張與就業改善帶來的總需求回升風險。貨幣政策上，中金維持美聯儲年內不降息、不加息的基準判斷。預計聯儲態度將保持鷹派，沃什上任後首要任務是重建政策公信力，更可能透過強化縮表預期而非暗示加息來展示決心。
-
----
-
-### 2026-06-11 08:05:12  #資料 #觀點
-
-【中信證券：上游漲價正在逐漸向下擴散】中信證券指出，5月PPI同比回升至3.9%，再次超出市場預期。雖然原油價格邊際上有所回落，但化工、有色、電子、鋼鐵、煤炭行業的價格貢獻了較強的向上動能。5月CPI同比持平於前置的1.2%，略低於市場預期，核心CPI同比有所回落，“能源”與“服務”價格偏弱或為主要驅動因素。相關分項中，能源、交通工具租賃、飛機票CPI表現偏弱；旅行社及其他旅遊服務、衣著、通訊工具CPI表現較強。當前市場普遍關注國內輸入型通脹對經濟的影響路徑。向後看，6月PPI-CPI剪刀差可能持續保持高位，下半年伴隨PPI高基數效應顯現PPI斜率或有所放緩，高景氣行業的順價能力或較強，但需求偏弱行業的順價不暢問題或將逐漸顯現。若國際原油價格持續高位，我國規模以上工業企業利潤增速或將呈現出“先上升、後下降”的走勢特徵。債市策略方面，在資金寬鬆的大背景下，債市近期整體偏強執行。消費端政策增量明確前，預計市場對本輪通脹上行的定價可能更多停留在輸入性、成本端的視角上，長債利率趨勢性回升風險也較為有限。
-
----
-
-### 2026-06-11 08:04:42  #資料 #市場 #觀點 #央行 #國際
-
-【中金：維持美聯儲年內不降息、不加息的基準判斷】中金指出，美國5月CPI季調環比上漲0.5%，同比上漲4.2%，漲幅為2023年以來最高水平；核心CPI環比上漲0.2%，同比上漲2.9%。本次通脹上行主要由能源分項推動，汽油、燃油領漲，機票、快遞服務等傳導效應繼續顯現，但未廣泛擴散。核心通脹整體溫和，汽車等對油價敏感領域的需求受到擠壓，房租漲幅亦明顯收窄。中金認為，當前通脹仍以能源衝擊等結構性因素為主，週期性通脹尚不明顯，但需警惕AI資本開支擴張與就業改善帶來的總需求回升風險。貨幣政策上，中金維持美聯儲年內不降息、不加息的基準判斷。預計聯儲態度將保持鷹派，沃什上任後首要任務是重建政策公信力，更可能透過強化縮表預期而非暗示加息來展示決心。不排除出現“縮表先行、降息推遲”的格局，對與沃什的理念格格不入、依賴流動性驅動、受益於美元超發的資產構成持續壓力。
-
----
-
-### 2026-06-11 08:04:34  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-【South Korea's KOSPI falls 4%】South Korea's KOSPI fell 4.00% intraday to 7,412.30 points. Japan's Nikkei 225 slipped below 63,000, its lowest level since May 22, down 1.91% intraday.
-
----
-
-### 2026-06-11 08:04:16  #市場
-
-MSCI亞太指數下跌1%至262.81點。
-
----
-
-### 2026-06-11 08:04:00  #國際
-
-【韓國綜指跌幅擴大至4%】韓國綜指跌幅擴大至4%，現報7412.3點。
-
----
-
-### 2026-06-11 08:03:47  #國際
-
-【中國代表就推進中東和平提出四點主張】中國常駐聯合國代表傅聰10日在安理會“推進中東和平：斡旋與對話促進持久和平”公開辯論會上發言，就推進中東和平提出四點主張。
-
-傅聰說，當前中東局勢持續緊張，不僅衝擊地區和平穩定，也直接影響世界經濟和能源安全，損害各國共同利益。國際社會應當秉持公正立場，匯聚促和努力，早日還中東以穩定，還人民以安寧，還世界以和平。他就此提出四點主張。
-
-一是堅持政治解決，以和平方式化解爭端。各方應當恪守聯合國憲章宗旨和原則，堅持透過對話協商彌合分歧，避免使用或威脅使用武力。安理會要履行維護國際和平與安全的首要職責，採取積極和負責任的行動，推動熱點問題政治解決。中方呼籲伊朗局勢相關各方保持冷靜剋制，停止可能激化衝突的對抗行動，堅持透過政治外交途徑化解爭端。中方敦促黎以局勢有關各方立即停止敵對行動，真正實現停火止戰。
-
-二是堅持公平正義，以國際法治維護地區穩定。中東熱點問題延宕不決，重要原因就在於公道正義沒有得到伸張，安理會相關決議沒有得到落實，國際法治沒有得到遵守。必須維護安理會和國際法權威，不能“合則用、不合則棄”，不能讓世界退回叢林法則。國際社會要匯聚更大努力落實“兩國方案”，拒絕任何吞併巴勒斯坦領土的企圖，支援巴勒斯坦早日獨立建國併成為聯合國正式會員國。
-
-三是堅持獨立自主，以團結合作構建共同安全。中東由亂向治的根本出路，在於擺脫大國地緣爭奪，以獨立自主精神，秉持共同、綜合、合作、可持續的安全觀，透過包容和解方式，構建兼顧各方合理關切的地區安全框架。敘利亞應堅持“敘人主導、敘人所有”原則，持續推進包容性政治過渡，堅決打擊恐怖主義。戈蘭高地是國際社會公認的敘利亞被佔領土，以色列應儘早完全撤出。中方呼籲葉門各方展現政治決斷，推動重啟和平程序，爭取早日實現和解。
-
-四是堅持標本兼治，以發展振興促進長治久安。國際社會要持續深化同中東國家互利合作，結合中東國家不同資源稟賦，助力中東實現可持續發展。要幫助衝突後國家開展重建，支援人道機構開展援助行動，推動早日恢復經濟、改善民生，為培育和平的種子創造有利土壤。必須旗幟鮮明反對保護主義和單邊行徑，堅決拒絕任何超出安理會決議範疇的非法單邊制裁。霍爾木茲海峽航道受阻衝擊全球產供鏈暢通、國際貿易秩序和能源供應穩定，當事方應回應國際社會呼聲，採取積極行動，儘快推動國際通行海峽恢復正常通航。
-
----
-
-### 2026-06-11 08:03:19  #國際
-
-【中國代表就推進中東和平提出四點主張】 中國常駐聯合國代表傅聰10日在安理會“推進中東和平：斡旋與對話促進持久和平”公開辯論會上發言，就推進中東和平提出四點主張。 傅聰說，當前中東局勢持續緊張，不僅衝擊地區和平穩定，也直接影響世界經濟和能源安全，損害各國共同利益。國際社會應當秉持公正立場，匯聚促和努力，早日還中東以穩定，還人民以安寧，還世界以和平。他就此提出四點主張。 一是堅持政治解決，以和平方式化解爭端。各方應當恪守聯合國憲章宗旨和原則，堅持透過對話協商彌合分歧，避免使用或威脅使用武力。安理會要履行維護國際和平與安全的首要職責，採取積極和負責任的行動，推動熱點問題政治解決。中方呼籲伊朗局勢相關各方保持冷靜剋制，停止可能激化衝突的對抗行動，堅持透過政治外交途徑化解爭端。中方敦促黎以局勢有關各方立即停止敵對行動，真正實現停火止戰。 二是堅持公平正義，以國際法治維護地區穩定。中東熱點問題延宕不決，重要原因就在於公道正義沒有得到伸張，安理會相關決議沒有得到落實，國際法治沒有得到遵守。必須維護安理會和國際法權威，不能“合則用、不合則棄”，不能讓世界退回叢林法則。國際社會要匯聚更大努力落實“兩國方案”，拒絕任何吞併巴勒斯坦領土的企圖，支援巴勒斯坦早日獨立建國併成為聯合國正式會員國。 三是堅持獨立自主，以團結合作構建共同安全。中東由亂向治的根本出路，在於擺脫大國地緣爭奪，以獨立自主精神，秉持共同、綜合、合作、可持續的安全觀，透過包容和解方式，構建兼顧各方合理關切的地區安全框架。敘利亞應堅持“敘人主導、敘人所有”原則，持續推進包容性政治過渡，堅決打擊恐怖主義。戈蘭高地是國際社會公認的敘利亞被佔領土，以色列應儘早完全撤出。中方呼籲葉門各方展現政治決斷，推動重啟和平程序，爭取早日實現和解。 四是堅持標本兼治，以發展振興促進長治久安。國際社會要持續深化同中東國家互利合作，結合中東國家不同資源稟賦，助力中東實現可持續發展。要幫助衝突後國家開展重建，支援人道機構開展援助行動，推動早日恢復經濟、改善民生，為培育和平的種子創造有利土壤。必須旗幟鮮明反對保護主義和單邊行徑，堅決拒絕任何超出安理會決議範疇的非法單邊制裁。霍爾木茲海峽航道受阻衝擊全球產供鏈暢通、國際貿易秩序和能源供應穩定，當事方應回應國際社會呼聲，採取積極行動，儘快推動國際通行海峽恢復正常通航。（新華社）
-
----
-
-### 2026-06-11 08:02:19  #MKT News #000660.KS #Impact bearish #005930.KS
-
-South Korean equities: SK Hynix fell 3.5%, Samsung Electronics fell 4%.
-
----
-
-### 2026-06-11 08:02:13  #市場 #國際
-
-韓國綜合股價指數下跌3.2%，至7487.07點。
-
----
-
-### 2026-06-11 08:01:51  #市場
-
-SK海力士股價下跌逾3%。
-
----
-
-### 2026-06-11 08:01:39  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-【Japan, South Korea stocks open lower】On Thursday, June 11, South Korea's KOSPI opened down 225.62 points (-2.92%) at 7,505.20, while Japan's Nikkei 225 opened down 737.82 points (-1.15%) at 63,441.45.
-
----
-
-### 2026-06-11 08:01:12  #公司 #市場
-
-三星電子股價下跌逾3%。
-
----
-
-### 2026-06-11 08:00:50  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤下跌2.9%，至7509.62點。
-
----
-
-### 2026-06-11 08:00:40  #國際
-
-韓國6月1日至10日的出口額同比增長85.9%，進口額同比增長35.6%。
-
----
-
-### 2026-06-11 08:00:33  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Nikkei 225
-
-South Korea customs data: imports June 1-10 up 35.6% YoY; exports June 1-10 up 85.9% YoY.
-
----
-
-### 2026-06-11 08:00:18  #公司
-
-【谷歌推出DiffusionGemma開源模型】谷歌當地時間6月10日釋出實驗性開源模型DiffusionGemma，採用文字擴散架構，在專用GPU上文字生成速度較傳統自迴歸大語言模型最高提升4倍，模型以Apache 2.0許可證釋出。谷歌稱，DiffusionGemma定位為面向研究者和開發者的實驗性模型，整體輸出質量低於標準Gemma 4，生產環境仍建議使用後者。該模型的速度優勢主要體現於本地及低併發推理場景，在高併發雲端部署中優勢有限。
-
----
-
-### 2026-06-11 08:00:14  #市場
-
-日經225指數上午開盤報63329.17點，跌幅1.32%。
-
----
-
-### 2026-06-11 08:00:03  #市場
-
-布倫特原油日內漲2%，現報95.19美元/桶。
-
----
-
-### 2026-06-11 07:59:55  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-【China International Capital Co: Energy shock persists; Fed to neither cut nor hike this year】China International Capital Co says US inflation remains driven mainly by structural factors such as energy shocks; cyclical inflation is not yet evident. Rising AI-driven capex and improving employment pose upside aggregate-demand risks. Baseline: the Fed will neither cut nor raise rates this year and is expected to keep a hawkish stance. After Wosh takes office his priority will be rebuilding policy credibility; he is more likely to demonstrate resolve by reinforcing expectations for balance-sheet reduction (QT) rather than signaling rate hikes. A 'QT first, delayed cuts' outcome cannot be ruled out and would continue to pressure liquidity-dependent assets and those that benefited from excess dollar liquidity or are misaligned with his policy stance.
-
----
-
-### 2026-06-11 07:59:47  #央行 #美聯儲
-
-【中信證券：預計美聯儲今年全年維持目標利率不變】中信證券指出，美國5月CPI大致符合預期，高油價繼續推升總體通脹率，核心通脹則表現溫和。中信證券認為美國二次通脹風險小，總體CPI同比可能已到達本輪高點，未來將大致先緩慢下行至9月、此後再小幅反彈，直至明年3月快速回落。
-
----
-
-### 2026-06-11 07:58:45  #觀點
-
-【華泰證券：AI伺服器測試電源或迎國產替代機遇】華泰證券指出，AIDC建設推動供電架構加速升級，測試電源有望迎來發展機遇。華泰證券認為隨資料中心供電架構由UPS向HVDC、SST持續演進，帶動測試物件由單一PSU向Power Shelf、BBU及整機架系統延伸；同時機櫃功率等級持續提升，有望推動測試電源量價齊升。看好國內廠商憑藉大功率技術積累及國產替代機遇，在行業擴容與技術升級背景下實現快速成長。
-
----
-
-### 2026-06-11 07:58:37  #資料 #觀點 #央行 #國際
-
-【中信證券：預計美聯儲今年全年維持目標利率不變】中信證券指出，美國5月CPI大致符合預期，高油價繼續推升總體通脹率，核心通脹則表現溫和。中信證券認為美國二次通脹風險小，總體CPI同比可能已到達本輪高點，未來將大致先緩慢下行至9月、此後再小幅反彈，直至明年3月快速回落。預計美聯儲今年全年維持目標利率不變、衍生品市場定價的加息預期有下修空間，下週美聯儲議息會議的看點主要在於新主席沃什對目前通脹形勢與利率水平的表述。美債目前更適合把握交易型而非配置型機會、短債比長債更好，美元指數有支撐，金價或需等待寬鬆預期重啟時再走出困局。
-
----
-
-### 2026-06-11 07:58:25  #市場 #國際
-
-【美銀：客戶上週拋售美國科技股規模創2008年以來最大】美銀證券援引截至6月5日當週的客戶資金流向資料，稱隨著標普500指數創下2025年4月以來最大單週跌幅，上週該行客戶撤出美國科技股的規模達到紀錄最大。從市值佔比來看，當週科技股的資金流出規模創下2014年初以來最高紀錄。個股拋售規模也創下歷史新高。其補充道：“資金流出完全集中在大盤股，客戶轉而買入了中小盤股。”
-
----
-
-### 2026-06-11 07:57:24  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Slide as Iran Strikes Escalate — US stock futures declined on Thursday after the US military launched additional strikes against Iran as President Donald Trump accused Tehran of dragging out talks on an interim peace deal. The latest escalation sent oil prices higher, keeping traders cautious about inflationary risks and potential central bank interest rate hikes. In corporate news, Oracle shares plunged more than 10% in extended trading after the company unveiled plans to raise an additional $20 billion through equity and debt offerings to support its artificial intelligence expansion. In regular trading on Wednesday, the Dow fell 1.87%, the S&P 500 lost 1.62%, and the Nasdaq Composite slid 1.98%. Eight of the 11 S&P sectors finished in negative territory, with industrials, materials, and technology stocks leading the declines. Tech and chip stocks also faced renewed selling pressure amid lingering concerns over lofty AI-related valuations and growing investor caution ahead of SpaceX's closely watched IPO on Friday.
 
 ---
