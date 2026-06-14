@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-15 05:17:41",
-  "count": 18302,
+  "updated": "2026-06-15 05:21:37",
+  "count": 18301,
   "items": [
+    {
+      "id": "4934800",
+      "time": "2026-06-15 05:20:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【巴總理：美國與伊朗已達成和平協議】巴基斯坦總理謝謝里夫表示：“經過多輪密集談判，我們欣然宣佈，美國與伊朗已達成和平協議。雙方宣佈立即、永久停止所有戰線的軍事行動，黎巴嫩境內戰事亦同步終止。協議正式簽署儀式將於6月19日（週五）在瑞士舉行。感謝美國與伊朗伊斯蘭共和國致力於透過外交途徑化解衝突。同時，誠摯感謝參與斡旋的卡達領導層，為這份協議的達成提供了大力支援。也特別感謝沙烏地阿拉伯王國與土耳其共和國富有遠見的領導層，各方為此作出了巨大貢獻。協議現已敲定，斡旋方本週將牽頭開展一系列會談。這些落地前的預備磋商，將為後續技術性談判以及正式簽署儀式築牢基礎。”"
+    },
+    {
+      "id": "4934799",
+      "time": "2026-06-15 05:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理夏巴茲：隨著協議現已達成，調解人將在本週促成一系列會議。"
+    },
+    {
+      "id": "4934798",
+      "time": "2026-06-15 05:17:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理夏巴茲：雙方已宣佈立即並永久停止所有前線的軍事行動，包括在黎巴嫩境內。官方簽約儀式將於6月19日週五在瑞士舉行。"
+    },
     {
       "id": "mkt:019ec7ff-124a-7dd8-aff7-0c1e0e8a9398",
       "time": "2026-06-15 05:17:22",
@@ -168260,42 +168285,6 @@
         "國際"
       ],
       "text": "一名美國官員：美國並未參與相關行動，目前尚不清楚特朗普是否會叫停對以色列打擊伊朗的軍事支援。"
-    },
-    {
-      "id": "mkt:019ea3f4-9a3c-7ee0-86d3-f93f5331d044",
-      "time": "2026-06-08 05:19:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli media report the U.S. has told Israel to wait a few days to see if a deal can be reached; if no agreement emerges, the U.S. will proceed under a joint operations plan."
-    },
-    {
-      "id": "mkt:019ea3f3-7a42-7ee0-86d3-f12de71d1688",
-      "time": "2026-06-08 05:18:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Hadas reported a phone call between Trump and Netanyahu has ended."
-    },
-    {
-      "id": "mkt:019ea3f2-f068-7ee0-86d3-ee605160292f",
-      "time": "2026-06-08 05:17:47",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli military chief of staff said the military will decisively strike the 'enemy' once orders are issued."
-    },
-    {
-      "id": "mkt:019ea3f2-e917-7ee0-86d3-e7a25477d6c2",
-      "time": "2026-06-08 05:17:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA: Iran has suspended flights at Imam Khomeini International Airport until further notice."
     }
   ]
 }
