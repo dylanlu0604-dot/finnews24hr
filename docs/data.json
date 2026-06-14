@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-15 03:16:00",
-  "count": 18395,
+  "updated": "2026-06-15 03:19:58",
+  "count": 18394,
   "items": [
+    {
+      "id": "4934752",
+      "time": "2026-06-15 03:18:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局就密蘇里州墜機事件表示，事發時，該局未提供空中交通管制服務。"
+    },
+    {
+      "id": "4934751",
+      "time": "2026-06-15 03:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：初步資訊顯示，一架太平洋航空航天P750飛機於當地時間上午11:35從密蘇里州巴特勒紀念機場起飛時墜毀，機上有12人。"
+    },
+    {
+      "id": "4934750",
+      "time": "2026-06-15 03:15:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：美國國家運輸安全委員會將主導密蘇里州跳傘飛機墜毀事故的調查工作。"
+    },
     {
       "id": "mkt:019ec78e-0ca0-7dd8-aff6-6d6f0d24c8f0",
       "time": "2026-06-15 03:13:55",
@@ -169110,46 +169134,6 @@
         "XAUUSD"
       ],
       "text": "Iran's Islamic Revolutionary Guard Corps said the Israeli military must stop attacks on Lebanon and warned that any expansion of strikes or any Israeli response to Iranian actions would face \"more destructive and more regrettable strikes.\""
-    },
-    {
-      "id": "4922171",
-      "time": "2026-06-08 03:18:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "針對以色列襲擊黎巴嫩首都貝魯特的行為，伊朗當晚發射彈道導彈予以反擊。此後，伊朗外交部長阿拉格齊發布了一張伊朗與黎巴嫩兩國國旗的拼接圖片。"
-    },
-    {
-      "id": "mkt:019ea385-a834-7ee0-86d2-4ca22780ca02",
-      "time": "2026-06-08 03:18:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【IDF says it detected Iranian missile launches; air defenses activated, sirens across Israel】Local time on the evening of the 7th, the Israel Defense Forces said it detected missiles launched from Iran toward Israel. Israeli air-defence systems have been activated and are intercepting the threats; air-raid sirens sounded across multiple regions. The IDF said its rear command sent precautionary safety instructions to civilians’ mobile phones within minutes. Explosions were reported in central Israel. Iran has not yet commented."
-    },
-    {
-      "id": "mkt:019ea384-3b90-7ee0-86d2-471c183a3efc",
-      "time": "2026-06-08 03:16:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The Israeli military said it detected a second wave of missiles launched from Iran toward Israel."
-    },
-    {
-      "id": "4922170",
-      "time": "2026-06-08 03:16:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體稱，初步訊息顯示第二波導彈已射向以色列。"
     }
   ]
 }
