@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-15 00:11:44_
-_本檔包含 3923 則快訊，約 661047 字_
+_更新時間：2026-06-15 00:15:52_
+_本檔包含 3923 則快訊，約 661746 字_
+
+---
+
+### 2026-06-09 07:43:34  #市場
+
+【證券日報：住房租賃市場釋放企穩訊號】根據中指研究院50城住宅租賃價格指數，5月份，50個城市住宅平均租金為33.94元/平方米/月，環比下降0.11%，同比下降3.17%。從市場表現來看，5月份住宅租賃市場缺乏明顯季節性需求支撐，租金小幅回落符合歷年市場執行規律。不過，與近兩年同期相比，今年租金表現明顯更穩定。資料顯示，2024年5月份和2025年5月份，50城住宅平均租金環比跌幅均超過0.3%，而今年同期環比跌幅僅為0.11%。 中指研究院指數研究部總經理曹晶晶表示，今年5月份租金跌幅顯著低於過去兩年同期水平，表明市場深度調整態勢正在減弱，住房租賃市場已進入調整後半程，整體下行空間持續收窄。 從城市層面來看，核心城市正成為本輪租賃市場修復的主要力量。中指研究院監測資料顯示，5月份50個重點城市中，共有11個城市住宅租金環比上漲，包括上海、深圳、北京、天津、蘇州、大連、福州等。
+
+---
+
+### 2026-06-09 07:41:42  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Steadies as Iran and Israel Halt Strikes — Brent steadied near $94 per barrel on Tuesday after surrendering most of the previous session’s gains, as Iran and Israel agreed to halt attacks against each other, boosting hopes that peace negotiations could move forward. The two countries exchanged strikes over the weekend, threatening a fragile ceasefire and fueling fears of a broader escalation. President Donald Trump urged both sides to deescalate and said talks with Tehran are continuing, adding that oil prices should ease once the conflict ends. While the ceasefire remains intact, the Strait of Hormuz is still effectively closed under a dual blockade by the US and Iran, severely disrupting shipments of crude, refined fuels, and natural gas to global markets.
 
 ---
 
@@ -23624,17 +23636,5 @@ Iran's parliament speaker said the armed forces remain, as before, free to take 
 ### 2026-06-08 00:16:14  #其他
 
 南非總統拉馬福薩：南非將嚴厲打擊違反移民及勞工法的行為，整治移民系統腐敗問題。南非還將強化移民相關法規。
-
----
-
-### 2026-06-08 00:12:55  #國際
-
-【加沙停火談判重啟 哈馬斯移交管理權成談判重點】埃及安全部門訊息人士7日表示，當天在埃及首都開羅，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）領導層代表團同埃及、卡達和土耳其等停火斡旋方重啟加沙地帶停火談判。（新華社）
-
----
-
-### 2026-06-08 00:12:08  #MKT News
-
-【Gaza ceasefire talks resume; Hamas handover of administrative control becomes negotiation focus】Egyptian security sources told Xinhua on the 7th that a Hamas leadership delegation met in Cairo with mediators Egypt, Qatar and Turkey to resume Gaza ceasefire talks; the handover of Gaza’s administrative control by Hamas has become a central issue in the negotiations.
 
 ---
