@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-15 00:03:25",
-  "count": 18369,
+  "updated": "2026-06-15 00:07:38",
+  "count": 18368,
   "items": [
+    {
+      "id": "4934654",
+      "time": "2026-06-15 00:05:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普接受福克斯新聞採訪：與伊朗的相關協議大機率將在未來兩至三小時內簽署。"
+    },
+    {
+      "id": "4934653",
+      "time": "2026-06-15 00:04:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：將在中期選舉後決定是否參加2028年總統競選。"
+    },
+    {
+      "id": "4934652",
+      "time": "2026-06-15 00:02:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京與特朗普通話期間，談及了伊朗局勢以及烏克蘭戰事。"
+    },
     {
       "id": "mkt:019ec6de-d67c-7dd8-aff4-a5f0ebba2c0b",
       "time": "2026-06-15 00:02:33",
@@ -168892,47 +168917,6 @@
         "MKT News"
       ],
       "text": "【Gaza ceasefire talks resume; Hamas handover of administrative control becomes negotiation focus】Egyptian security sources told Xinhua on the 7th that a Hamas leadership delegation met in Cairo with mediators Egypt, Qatar and Turkey to resume Gaza ceasefire talks; the handover of Gaza’s administrative control by Hamas has become a central issue in the negotiations."
-    },
-    {
-      "id": "mkt:019ea2d6-a4ea-7ee0-86d0-db8dae6d51f2",
-      "time": "2026-06-08 00:07:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's parliament speaker Ghalibaf said they neither respect the ceasefire nor trust dialogue; by imposing a maritime blockade and breaching agreements with Lebanon they have shown they only understand the language of force."
-    },
-    {
-      "id": "4922088",
-      "time": "2026-06-08 00:06:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡里巴夫：（對方）既不承諾停火，也不相信對話，他們透過海上封鎖以及違反涉黎巴嫩的各項協議表明，他們只聽得懂實力說話。"
-    },
-    {
-      "id": "mkt:019ea2d4-ddb5-7ee0-86d0-d4bd34bf81bd",
-      "time": "2026-06-08 00:05:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Iran’s chief negotiator Ghalibaf said a maritime blockade of Iran and the US’s \"green light\" to Israel today render US and Israeli regime bases and assets in the region legitimate targets, and that Iran’s armed forces remain ready to strike at any time."
-    },
-    {
-      "id": "4922087",
-      "time": "2026-06-08 00:04:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡里巴夫：針對伊朗的海上封鎖，以及美國今日給以色列開綠燈，使得美國以及（以色列）政權在該地區的基地與資產都成為合法目標。我國武裝力量一如既往，隨時做好行動準備。"
     }
   ]
 }
