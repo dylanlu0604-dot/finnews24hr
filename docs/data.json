@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-15 23:07:41",
-  "count": 18323,
+  "updated": "2026-06-15 23:11:51",
+  "count": 18321,
   "items": [
+    {
+      "id": "4936884",
+      "time": "2026-06-15 23:09:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯政府資料：該國 4 月國內生產總值同比增長 3.73%。"
+    },
+    {
+      "id": "mkt:019ecbd4-20a0-7dd8-b011-804a4421ad2b",
+      "time": "2026-06-15 23:08:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. government officials said ANTHROPIC and U.S. Commerce Department officials will meet on Monday to seek resolution of a dispute over export restrictions."
+    },
+    {
+      "id": "4936883",
+      "time": "2026-06-15 23:08:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國政府官員：Anthropic 公司代表與美方官員週一將在商務部會面，試圖解決出口管制相關爭端。"
+    },
     {
       "id": "mkt:019ecbd2-381f-7dd8-b011-7eed084b7a48",
       "time": "2026-06-15 23:06:52",
@@ -168453,59 +168478,6 @@
         "國際"
       ],
       "text": "【紐約聯儲：5月一年期通脹預期中位數下降0.1個百分點】紐約聯邦儲備銀行微觀經濟資料中心今日釋出2026年5月消費者預期調查結果。5月，一年期通脹預期中位數下降0.1個百分點，至3.5%；三年期、五年期通脹預期中位數維持不變，分別為3.1%和3.0%。所有周期下，受訪者通脹預期的分歧度（通脹預期第75百分位與第25百分位差值）均有所收窄。民眾對未來通脹走勢的不確定性方面，一年期、三年期不確定性有所上升，五年期不確定性則出現下降。房價漲幅預期中位數上升0.5個百分點，至3.5%，創下2022年7月以來新高。美國西部和中西部地區的房價上漲預期增幅最為明顯。一年後汽油價格漲幅預期下降0.1個百分點，至5.0%。各類生活商品價格預期分化：食品價格漲幅預期上調0.6個百分點至5.8%，房租漲幅預期上調1.4個百分點至7.4%；醫療費用漲幅預期下調0.7個百分點至8.9%，大學教育費用漲幅預期下調0.8個百分點至8.0%。"
-    },
-    {
-      "id": "4924411",
-      "time": "2026-06-08 23:11:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受中東局勢緊張影響，原油價格上漲4.8%，美國汽油價格較5月高點回落10.5%。"
-    },
-    {
-      "id": "te:markets:557336",
-      "time": "2026-06-08 23:10:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cotton Futures Hover Near 1-Week Low — Cotton futures traded around 78 cents per pound, near the lowest in a week, as the dollar held firm and improved weather conditions boosted crop prospects. Local reports indicated that recent rainfall across parts of the US Cotton Belt improved soil moisture and crop prospects, reinforcing expectations of a stronger supply outlook. Favourable conditions were noted across northern West Texas, the Coastal Bend, the Delta and the Southeast. Overall, US cotton supply fundamentals remain relatively comfortable, despite some demand support from India. The latest US Weekly Crop Progress report showed cotton planting had reached 66%, up from 53% a week earlier and 64% a year ago, broadly in line with the five-year average of 67%. Meanwhile, New Delhi has suspended cotton import duties for five months to help textile mills secure cheaper raw materials and support garment exports. The move is expected to boost imports from Australia, Brazil, the United States and African producers."
-    },
-    {
-      "id": "4924410",
-      "time": "2026-06-08 23:10:35",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國家庭財務預期轉弱，短期通脹預期回落】紐約聯邦儲備銀行微觀經濟資料中心今日釋出2026年5月消費者預期調查結果。資料顯示，家庭短期通脹預期有所下降，中長期通脹預期保持不變；房價上漲預期走高。勞動力市場預期整體走弱，民眾失業擔憂上升、求職信心下降。此外，民眾對未來信貸獲取、家庭財務狀況及債務逾期情況的預期均趨於惡化。"
-    },
-    {
-      "id": "4924409",
-      "time": "2026-06-08 23:08:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至2.5%。"
-    },
-    {
-      "id": "mkt:019ea7c7-2b6a-7226-8cb7-972de1469331",
-      "time": "2026-06-08 23:08:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "MRVL.O",
-        "Impact bullish",
-        "INTC.O",
-        "SNDK.O"
-      ],
-      "text": "Nasdaq 100's intraday gain widened to 2.5%. Marvell (MRVL.O) rose 13.56%, Intel (INTC.O) rose 12.6% and SanDisk (SNDK.O) rose 7.25%."
     }
   ]
 }
