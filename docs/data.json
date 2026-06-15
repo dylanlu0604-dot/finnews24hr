@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-16 00:18:06",
-  "count": 18358,
+  "updated": "2026-06-16 00:22:23",
+  "count": 18355,
   "items": [
+    {
+      "id": "4936975",
+      "time": "2026-06-16 00:18:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體稱美伊諒解備忘錄細節將在一到兩天內公佈】據美國阿克西奧斯新聞網站15日報道，美伊諒解備忘錄細節將在未來24至48小時內公佈。報道還說，雙方將於本週晚些時候啟動技術性討論，解凍資金和放鬆制裁與履約掛鉤。美方計劃在下一階段談判期間保持當前美軍在該地區的軍事力量。 (新華社)"
+    },
+    {
+      "id": "4936974",
+      "time": "2026-06-16 00:18:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦空軍一教練機墜毀致2人死亡】巴基斯坦三軍新聞局15日發表宣告稱，巴空軍一架教練機當天在例行飛行訓練時於該國西北部開伯爾-普什圖省馬爾丹地區墜毀，2名飛行員遇難。宣告說，巴空軍總部已成立調查委員會，以查明事故原因。宣告說，巴基斯坦總統扎爾達里、總理夏巴茲、陸軍參謀長穆尼爾均對此次墜機深感悲痛，並向遇難者家屬致以深切慰問。（新華社）"
+    },
     {
       "id": "mkt:019ecc12-74c3-7dd8-b013-cebd3f537d32",
       "time": "2026-06-16 00:17:01",
@@ -168761,49 +168777,6 @@
         "Brent"
       ],
       "text": "【CENTCOM says US forces disabled unladen tanker in Gulf of Oman】CENTCOM said on June 8 US forces disabled an unladen tanker in the Gulf of Oman after it attempted to sail to an Iranian port in breach of an ongoing blockade of Iran. Since the blockade began on April 13, CENTCOM said its forces have disabled seven non-compliant vessels, directed 134 vessels to alter course and allowed 42 vessels carrying humanitarian aid to proceed."
-    },
-    {
-      "id": "mkt:019ea809-e913-733a-9231-64e3b536d1ad",
-      "time": "2026-06-09 00:21:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "PEP.O"
-      ],
-      "text": "PepsiCo (PEP.O) and autonomous vehicle firm Gatik announced a multi-year agreement to deploy autonomous freight services across North America."
-    },
-    {
-      "id": "4924486",
-      "time": "2026-06-09 00:21:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：美軍於6月8日在阿曼灣截停一艘空載油輪並使其喪失航行能力。"
-    },
-    {
-      "id": "4924485",
-      "time": "2026-06-09 00:19:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "百事公司與Gatik宣佈達成多年協議，將在北美部署自動駕駛貨運業務。"
-    },
-    {
-      "id": "mkt:019ea807-cc92-733a-9231-58ee120a276a",
-      "time": "2026-06-09 00:19:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SpaceX IPO reportedly heavily oversubscribed】SpaceX’s IPO is reportedly heavily oversubscribed. Lead underwriters expect to stop taking institutional orders after the New York market close at 4:00pm ET on Wednesday to assess demand and advise on pricing. The deal is set to price on June 11 and begin trading June 12. The company will offer 555.6 million shares at $135 each, raising about $75bn and implying an equity value near $1.8tn. Retail investors may still submit orders on some platforms after the Wednesday cutoff; up to 30% of the offering is reportedly reserved for retail."
-    },
-    {
-      "id": "4924484",
-      "time": "2026-06-09 00:18:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【FTX聯合創始人Bankman-Fried正式申請特朗普特赦】加密貨幣交易所FTX聯合創始人Sam Bankman-Fried正式提交了總統特赦申請。兩年多前，他因這一盛極一時的加密貨幣帝國崩盤案而被定罪。美國司法部特赦律師辦公室網站顯示，現年34歲的Bankman-Fried已向該辦公室遞交了申請，請求獲得“服刑期滿後的特赦”。"
     }
   ]
 }
