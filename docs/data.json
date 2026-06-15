@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-16 01:07:33",
-  "count": 18347,
+  "updated": "2026-06-16 01:11:38",
+  "count": 18346,
   "items": [
+    {
+      "id": "4936995",
+      "time": "2026-06-16 01:11:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗將 7 月銷往亞洲的伊朗輕質原油定價為阿曼 / 迪拜原油基準價上浮 7.15 美元每桶。"
+    },
+    {
+      "id": "mkt:019ecc42-02f7-7dd8-b014-472d3956fc43",
+      "time": "2026-06-16 01:08:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. official says substantive technical talks with Iran will begin this week."
+    },
+    {
+      "id": "mkt:019ecc41-d56e-7dd8-b014-3fafd476de21",
+      "time": "2026-06-16 01:08:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. officials say Iran's hardliners oppose the agreement but have offered no viable alternative."
+    },
+    {
+      "id": "mkt:019ecc41-5f01-7dd8-b014-36cd5cb19efb",
+      "time": "2026-06-16 01:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A US official said it will soon be clear whether the consensus reached with Iran can be converted into an agreement that would change the regional situation."
+    },
     {
       "id": "mkt:019ecc3f-8e90-7dd8-b014-2f217de1d029",
       "time": "2026-06-16 01:06:17",
@@ -168676,58 +168711,6 @@
         "其他"
       ],
       "text": "蘋果：顯著提升了產品響應速度。iPhone和iPad app的啟動速度最高提升30%，新照片的顯示速度最高提升了70%，傳輸速度最高可提升80%。"
-    },
-    {
-      "id": "mkt:019ea837-73bd-733a-9231-fd02e934e85e",
-      "time": "2026-06-09 01:11:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) will integrate a multi-layer Liquid Glass effect directly into app icon design."
-    },
-    {
-      "id": "4924513",
-      "time": "2026-06-09 01:09:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：將額外多層液態玻璃直接整合到應用圖示設計本身當中。"
-    },
-    {
-      "id": "4924512",
-      "time": "2026-06-09 01:09:24",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：世界盃將拉動就業與經濟增長】高盛估算，受酒店、零售及交通行業招工帶動，2026年世界盃將在6月為美國新增4萬個就業崗位。隨著大量球迷前往主辦城市，該行預計零售銷售額、國內生產總值增速及通脹水平也將小幅上行。不過賽事相關臨時崗位與消費熱潮消退後，多數增長效應料在後續月份逐步回落。"
-    },
-    {
-      "id": "mkt:019ea834-e2c1-733a-9231-f44737ae7203",
-      "time": "2026-06-09 01:08:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla (TSLA.O) shares rose 4.13%."
-    },
-    {
-      "id": "4924511",
-      "time": "2026-06-09 01:07:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "特斯拉股價上漲4.1%。"
     }
   ]
 }
