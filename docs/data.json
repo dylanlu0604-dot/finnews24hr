@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-15 18:46:36",
-  "count": 18249,
+  "updated": "2026-06-15 18:50:41",
+  "count": 18247,
   "items": [
+    {
+      "id": "4936407",
+      "time": "2026-06-15 18:49:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金安國紀：公司股價4月以來漲幅達223.65% 存非理性炒作情形】金安國紀(002636)6月15日公告，公司股票價格自4月份以來漲幅達到223.65%，短期累計漲幅較大，期間多次觸及股票交易異常波動情形，公司市盈率指標偏離行業平均估值水平，存在市場情緒過熱及非理性炒作情形，可能存在快速下跌的風險。公司覆銅板主要客戶為PCB廠商，未發現在AI伺服器及算力領域的應用。公司目前高頻高速覆銅板產品尚在實驗室研發及客戶送樣階段，尚未形成收入，其中一款介電常數Dk3.81（10GHz）及介質損耗Df0.0047（10GHz）的高速覆銅板正在向境內客戶送樣中，能否透過客戶認證存在不確定性；其他產品處於初期研發階段，未有相應樣品，相關的研發進展及成果存在不確定性。"
+    },
+    {
+      "id": "4936406",
+      "time": "2026-06-15 18:48:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外交部：希望韓國船隻能夠儘快恢復在霍爾木茲海峽的安全作業。"
+    },
+    {
+      "id": "4936405",
+      "time": "2026-06-15 18:48:52",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【分析：美伊達成協議後，美國加息押注遏制美元跌勢】裕信投資研究所的策略師表示，在美國和伊朗達成臨時和平協議後，市場降低了但並未完全消除美聯儲加息的預期，從而限制了美元的跌勢。倫敦證券交易所集團資料顯示，市場認為12月加息25個基點的可能性為68%，並且完全反映了到3月份採取行動的預期。這些策略師在一份報告中表示，加息仍有可能，這應會使美元的跌勢與其他資產（主要是油價）相比不那麼劇烈。他們表示，這只是一項臨時協議，為就伊朗核計劃的命運進行新一輪為期60天的談判奠定了基礎。DXY美元指數下跌0.2%，至99.517。"
+    },
+    {
+      "id": "4936404",
+      "time": "2026-06-15 18:48:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常鋁股份：控股股東齊魯財金擬協議轉讓公司22.38%股份】常鋁股份公告，公司控股股東齊魯財金投資集團有限公司與山東濟新產業發展有限公司簽署了《股份轉讓協議》，齊魯財金擬透過協議轉讓方式轉讓公司股份2.31億股，佔公司總股本的22.38%。轉讓價格為5.79元/股，總價款為人民幣13.38億元。此次轉讓完成後，濟新產發將成為公司的控股股東，實際控制人將由濟南市人民政府國有資產監督管理委員會變更為濟南新舊動能轉換起步區管理委員會。"
+    },
+    {
+      "id": "4936403",
+      "time": "2026-06-15 18:48:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常山北明：董事長張瑋揚因組織安排、工作調動辭職】常山北明公告，公司董事長張瑋揚因組織安排、工作調動原因，申請辭去公司第九屆董事會董事長、董事、董事會各專門委員會委員職務。公司董事會已收到其辭職報告，辭職報告自送達公司董事會時生效。張瑋揚辭職後將不再擔任公司及子公司任何職務，且截至公告披露日，張瑋揚未持有公司股票。為保證公司董事會各項工作順利開展，公司於2026年6月15日召開董事會九屆十二次會議，審議透過了補選王勇為公司第九屆董事會非獨立董事候選人的議案。"
+    },
+    {
+      "id": "4936402",
+      "time": "2026-06-15 18:48:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【成渝中線高鐵樂至聯絡線雙隧道貫通】記者6月15日從中鐵二十一局集團瞭解到，成渝中線高鐵樂至聯絡線宋家灣隧道和蒲家溝隧道順利貫通，這標誌著成達萬高鐵與成渝中線高鐵互聯互通工程取得重大節點突破。（新華社）"
+    },
+    {
+      "id": "4936401",
+      "time": "2026-06-15 18:47:30",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利：美伊局勢緩和推動週期股輪動，美股漲勢將進一步擴散】摩根士丹利策略師表示，美股可能會從資金輪動至週期性、對經濟敏感行業的過程中獲得額外提振，這些行業在伊朗戰爭期間表現落後。由邁克爾·威爾遜領導的團隊指出，霍爾木茲海峽通行量增加的相關報道，以及利率、油價和美元對股市拖累或趨於緩和的跡象，有望推動估值偏低的股票躋身市場領漲陣營，此前市場漲勢高度集中於高成長科技股。標普500指數目前距離歷史高點僅約2%。威爾遜表示，近期美國股市的回撥主要由儲存晶片股票領跌，原因是盈利動能放緩，而非基本面惡化。在由盈利增長推動的牛市中，在經歷一段強勁上漲後出現這類回撥是常見現象。威爾遜表示：“未來幾周市場或許仍會出現更多波動，但我們對當前牛市的信心依然完好無損。”"
+    },
+    {
+      "id": "mkt:019ecae4-580e-7dd8-b009-5b024ea528da",
+      "time": "2026-06-15 18:47:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU Council approves Ukraine's entry into EU cyber emergency reserve】June 15 — The EU Council approved Ukraine's entry into the EU cyber emergency reserve, enabling Ukraine to trigger the EU emergency cybersecurity support mechanism for major or large-scale incidents. The reserve, managed by the EU Agency for Cybersecurity (ENISA), consolidates incident-response services from vetted private providers to assist responses to significant cyber events."
+    },
+    {
+      "id": "4936400",
+      "time": "2026-06-15 18:46:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭加入歐盟網路安全儲備機制】當地時間6月15日，歐盟理事會批准烏克蘭加入歐盟網路安全儲備機制。烏克蘭現可啟動歐盟緊急網路安全支援機制，以應對重大和大規模網路安全事件。據瞭解，該儲備機制由歐盟網路安全域性（ENISA）負責管理，整合來自可信私營服務提供商的網路事件響應服務資源，旨在協助應對重大或大規模網路安全事件。歐盟方面表示，這一決定是為確保歐盟及其合作伙伴能夠透過充分準備、快速響應和共享專業知識來應對不斷演變的網路威脅而採取的更廣泛舉措的一部分。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ecae3-b6c7-7dd8-b009-537f865c220a",
+      "time": "2026-06-15 18:46:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【MORGAN STANLEY: U.S.-Iran tensions easing to spur rotation into cyclicals; U.S. rally likely to broaden】MORGAN STANLEY strategists say easing U.S.-Iran tensions could trigger a rotation into cyclical, economically sensitive sectors that underperformed during the Iran conflict. The team led by Michael Wilson points to increased Strait of Hormuz traffic and signs that the drag from rates, oil and the dollar on equities is easing, which could push undervalued stocks into market leadership after a rally concentrated in high-growth tech. The S&P 500 sits about 2% below its record high. Wilson says the recent pullback was driven by memory-chip stocks on slowing earnings momentum rather than weakening fundamentals; such retracements are common in profit-driven bull markets after strong advances. Volatility may persist in the coming weeks, but confidence in the current bull market remains intact."
+    },
     {
       "id": "mkt:019ecae3-5848-7dd8-b009-4ad78fe352a0",
       "time": "2026-06-15 18:45:57",
@@ -167659,110 +167749,6 @@
         "JD.com"
       ],
       "text": "【JD.com among first to pilot WeChat AI integration across e‑commerce, delivery and logistics】WeChat is offering developers access to its AI ecosystem; developers must enable access via the Mini Program management backend under AI capabilities. JD.com is among the first internal test teams to integrate a WeChat AI Agent, initially covering e‑commerce, food delivery and logistics, with additional services possible later."
-    },
-    {
-      "id": "4923922",
-      "time": "2026-06-08 18:50:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華蘭股份：擬註冊發行科技創新債券】華蘭股份公告，公司擬向中國銀行間市場交易商協會（以下簡稱“交易商協會”）申請註冊發行總額度不超過人民幣 10 億元（含 10 億元）的科技創新債券（基礎品種為中期票據），發行期限不超過 5 年（含 5 年）。上述議案尚需提交公司 2026 年第一次臨時股東會審議。"
-    },
-    {
-      "id": "4923921",
-      "time": "2026-06-08 18:49:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江東日：擬回購登出974.55萬股限制性股票】浙江東日公告，擬終止2023年限制性股票激勵計劃並回購登出974.55萬股限制性股票，佔公司股本總額的2.31%，回購價格為3.29元/股，預計支付回購資金總額約人民幣3206.27萬元。"
-    },
-    {
-      "id": "4923920",
-      "time": "2026-06-08 18:49:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞穗對Cerebras系統公司啟動覆蓋，給予跑贏大盤評級，目標價為300美元。"
-    },
-    {
-      "id": "4923919",
-      "time": "2026-06-08 18:49:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【唯特偶：股票連續3日漲幅偏離值超30% 提示投資風險】唯特偶公告稱，公司股票2026年6月4日、6月5日、6月8日連續3個交易日收盤價格漲幅偏離值累計超過30%，屬於股票價格異常波動情形。截至公告披露日，公司前期披露資訊無更正、補充，未發現對股價有較大影響的未公開重大資訊，生產經營正常，內外部環境無重大變化。控股股東、實控人無應披露未披露重大事項，異常波動期間未買賣公司股票。公司提醒投資者注意股價過高、短期漲幅大等風險。"
-    },
-    {
-      "id": "4923918",
-      "time": "2026-06-08 18:48:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【博通美股盤前漲超2%】博通美股盤前漲超2%，現報393.57美元。"
-    },
-    {
-      "id": "4923917",
-      "time": "2026-06-08 18:48:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際原子能機構總幹事格羅西：伊朗需要履行其承諾，停止非法活動。我們自去年以來未能訪問伊朗的核設施。"
-    },
-    {
-      "id": "4923916",
-      "time": "2026-06-08 18:47:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中船特氣：近期部分下游客戶就六氟化鎢產品與公司業務洽談增加】中船特氣釋出股價異動公告，公司關注到近期媒體報道及市場傳聞涉及“日本六氟化鎢供應商因原材料供應問題計劃削減下半年產量或停產”及“公司可能受益於境外廠商停產”等事項。經核實，近期部分下游客戶就六氟化鎢產品與公司業務洽談增加，但目前尚未簽署新的長期或大額實質性訂單協議，後續合作能否達成、訂單規模、產品單價及對公司經營業績的影響存在不確定性。同時，公司關注到個別網路平臺存在涉及公司六氟化鎢產品產能、產品價格、產品規格等不實內容，公司提醒廣大投資者以正式公告為準。"
-    },
-    {
-      "id": "4923915",
-      "time": "2026-06-08 18:47:36",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團啟動對黑石數字基礎設施信託公司的覆蓋研究，給予中性評級，目標價為23美元。"
-    },
-    {
-      "id": "mkt:019ea6d8-4dc9-777a-abbe-125b7f4ed2b2",
-      "time": "2026-06-08 18:47:33",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "IAEA director general Grossi said the agency has been unable to access Iran's nuclear facilities since last year."
-    },
-    {
-      "id": "4923914",
-      "time": "2026-06-08 18:47:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天邦食品：5月商品豬銷售收入環比增長10.24%】天邦食品(002124)6月8日公告，公司2026年5月份銷售商品豬73.72萬頭，銷售收入5.78億元，銷售均價10.18元/公斤（商品肥豬均價為9.42元/公斤），環比變動分別為10.30%、10.24%、5.57%。1—5月銷售商品豬321.33萬頭，銷售收入28.32億元，銷售均價11.22元/公斤（商品肥豬均價為10.41元/公斤），同比變動分別為31.06%、-18.36%、-31.00%。"
-    },
-    {
-      "id": "mkt:019ea6d7-da20-777a-abbe-0f6194780fb0",
-      "time": "2026-06-08 18:47:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA Director General Grossi said Iran must fulfill its commitments and cease illicit activities."
-    },
-    {
-      "id": "4923913",
-      "time": "2026-06-08 18:46:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【14部門“亮劍”醫藥購銷領域和醫療服務不正之風】從國家衛生健康委獲悉，國家衛生健康委等14個部門近日印發通知，部署2026年糾正醫藥購銷領域和醫療服務中不正之風工作要點，旨在透過多部門聯動，清除醫藥購銷領域風險隱患，積極營造風清氣正行業環境。（新華社）"
     }
   ]
 }
