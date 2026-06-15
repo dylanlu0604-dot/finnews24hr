@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-16 01:11:38",
-  "count": 18346,
+  "updated": "2026-06-16 01:15:46",
+  "count": 18343,
   "items": [
+    {
+      "id": "4936996",
+      "time": "2026-06-16 01:12:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩： 與加拿大總理卡尼進行了富有成效的會談。 雙方正圍繞數字貿易、關鍵原材料及防務領域開展合作。 同時我們也在深化能源層面的協作。 下一屆加歐峰會將於 10 月 29 日至 30 日在加拿大舉辦，此次峰會將成為雙邊夥伴關係持續向縱深、更廣維度發展的重要里程碑。"
+    },
+    {
+      "id": "mkt:019ecc44-c22e-7dd8-b014-491e9627da75",
+      "time": "2026-06-16 01:11:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iran set July light crude sales to Asia at a premium of $7.15/bbl to the Oman/Dubai average."
+    },
     {
       "id": "4936995",
       "time": "2026-06-16 01:11:03",
@@ -168665,52 +168686,6 @@
         "Impact bearish"
       ],
       "text": "Fitch revised the outlook for global sovereign credit ratings to 'deteriorating', citing the impact of the Iran war."
-    },
-    {
-      "id": "mkt:019ea83a-af67-733a-9232-053a65ff2f49",
-      "time": "2026-06-09 01:14:38",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O): Apple devices will support on-device content search indexing."
-    },
-    {
-      "id": "4924517",
-      "time": "2026-06-09 01:14:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽因伊朗戰爭的影響將全球主權債務行業前景下調至“惡化”。"
-    },
-    {
-      "id": "4924516",
-      "time": "2026-06-09 01:14:11",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果：蘋果裝置將新增端側內容搜尋索引。"
-    },
-    {
-      "id": "4924515",
-      "time": "2026-06-09 01:13:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：iOS 27系統將支援至iPhone 11系列機型。"
-    },
-    {
-      "id": "4924514",
-      "time": "2026-06-09 01:13:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：顯著提升了產品響應速度。iPhone和iPad app的啟動速度最高提升30%，新照片的顯示速度最高提升了70%，傳輸速度最高可提升80%。"
     }
   ]
 }
