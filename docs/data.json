@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-16 03:43:07",
-  "count": 18228,
+  "updated": "2026-06-16 03:47:05",
+  "count": 18226,
   "items": [
+    {
+      "id": "4937076",
+      "time": "2026-06-16 03:44:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部副總檢察長斯坦利·伍德沃德已受命掌管司法部反壟斷部門。"
+    },
+    {
+      "id": "4937075",
+      "time": "2026-06-16 03:44:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美方官員：美方此前對伊朗實施的打擊提升了達成相關協議的可能性；若外交談判最終失敗，特朗普手中仍握有各類反制手段。"
+    },
+    {
+      "id": "4937074",
+      "time": "2026-06-16 03:44:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：除非美國與伊朗達成核協議，否則部署在中東地區的美軍不會撤離。"
+    },
+    {
+      "id": "4937072",
+      "time": "2026-06-16 03:42:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "辛巴威央行將政策利率從35%下調至30%。"
+    },
     {
       "id": "4937070",
       "time": "2026-06-16 03:40:12",
@@ -167521,65 +167554,6 @@
         "國際"
       ],
       "text": "路透社與益普索聯合民調顯示，特朗普支援率維持在其政治生涯低位附近，多數美國人預計油價將會上漲。"
-    },
-    {
-      "id": "4924655",
-      "time": "2026-06-09 03:46:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普“勸和”幕後：內塔尼亞胡需要戰爭繼續 特朗普則相反】據Axios網站報道，特朗普在過去24小時裡一直努力避免戰爭全面重啟。他陷入兩難境地：一方面他明白內塔尼亞胡幾乎不可能對伊朗的導彈襲擊置之不理；另一方面他擔心這種報復迴圈會演變成全面戰爭。內塔尼亞胡的邏輯是，如果不對伊朗展開報復，就將向外界傳遞伊朗佔據上風、並能夠威懾美國和以色列採取軍事行動的訊號。特朗普勸阻內塔尼亞胡不要反擊的通話結束時，後者並未作出明確決定。一些參與通話的美方官員認為，特朗普成功爭取到了更多時間。但內塔尼亞胡認為，雖然特朗普反對報復性打擊，但“這並不是一個明確的‘不要這樣做’的表態”。美以訊息人士表示，過去24小時發生的事件進一步證明，美國與以色列的戰略利益，以及特朗普與內塔尼亞胡的政治利益，正日益出現分化。一名美國官員表示：“內塔尼亞胡需要戰爭持續下去，才能在以色列維持政治生命；而特朗普需要戰爭結束，才能在美國維持政治生命。”"
-    },
-    {
-      "id": "4924654",
-      "time": "2026-06-09 03:46:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國交通部長達菲：正與美國國家鐵路客運公司合作制定賓夕法尼亞車站安保方案。"
-    },
-    {
-      "id": "4924653",
-      "time": "2026-06-09 03:45:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部（USDA）將在飼料中試驗使用伊維菌素，以控制野生動物中的螺旋蠅疫情。"
-    },
-    {
-      "id": "mkt:019ea8c4-7315-733a-9235-332e5f780b75",
-      "time": "2026-06-09 03:45:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Behind Trump's push for peace: Netanyahu needs war to continue, Trump needs it to end】Axios reports Trump spent the past 24 hours pressing Israel to avoid a full-scale restart of war after Iranian missile strikes. U.S. officials say Netanyahu is unlikely to ignore the strikes because failing to retaliate would signal Iranian ascendancy and deter U.S. and Israeli military action. The call ended without a clear decision; some U.S. participants said Trump bought time, while Netanyahu said he viewed Trump's opposition as not an explicit 'do-not-retaliate' instruction. U.S. and Israeli sources say strategic and political incentives are diverging: Netanyahu needs the conflict to continue to preserve his political position in Israel, while Trump needs it to end to preserve his political standing in the U.S."
-    },
-    {
-      "id": "mkt:019ea8c4-2a1f-733a-9235-2a49abb63429",
-      "time": "2026-06-09 03:44:48",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "GBPUSD"
-      ],
-      "text": "【Dollar index edges down on 8th】The dollar index, which measures the US dollar against six major currencies, slipped 0.03% to 100.042 at the New York close on the 8th. EUR/USD rose to 1.1528 from 1.1523; GBP/USD to 1.3339 from 1.3337. USD/JPY was 160.26 versus 160.17 prior close; USD/CHF 0.7979 from 0.7962; USD/CAD 1.3956 from 1.3949. USD/SEK fell to 9.4401 from 9.4735."
-    },
-    {
-      "id": "4924652",
-      "time": "2026-06-09 03:43:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數8日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.03%，在匯市尾市收於100.042。截至紐約匯市尾市，1歐元兌換1.1528美元，高於前一交易日的1.1523美元；1英鎊兌換1.3339美元，高於前一交易日的1.3337美元。1美元兌換160.26日元，高於前一交易日的160.17日元；1美元兌換0.7979瑞士法郎，高於前一交易日的0.7962瑞士法郎；1美元兌換1.3956加元，高於前一交易日的1.3949加元；1美元兌換9.4401瑞典克朗，低於前一交易日的9.4735瑞典克朗。"
     }
   ]
 }
