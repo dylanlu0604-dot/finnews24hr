@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-16 04:19:24",
-  "count": 18209,
+  "updated": "2026-06-16 04:23:20",
+  "count": 18215,
   "items": [
+    {
+      "id": "mkt:019eccf3-3539-7dd8-b016-8fa4b6a368c6",
+      "time": "2026-06-16 04:22:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【California governor says Trump instructed DOJ to investigate him】California Governor Gavin Newsom said on the 15th that President Trump, viewing him as a \"political enemy,\" instructed the DOJ to open an investigation. Newsom said Trump placed him and his wife on a \"hit list\" and that investigators have knocked on doors of family friends and former employees; he said this was not prompted by evidence of criminal conduct but by an effort to find charges. He called the probe politically motivated, noting he has publicly criticized Trump and is considering a presidential run."
+    },
+    {
+      "id": "4937111",
+      "time": "2026-06-16 04:21:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通宣佈將於2027年舉辦投資者日。"
+    },
+    {
+      "id": "mkt:019eccf2-0788-7dd8-b016-82fd970af153",
+      "time": "2026-06-16 04:21:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources: Multiple studios within Microsoft's (MSFT.O) Xbox division, including Compulsion Games and Double Fine, are in active talks to be spun off or divested."
+    },
+    {
+      "id": "mkt:019eccf1-73ac-7dd8-b016-7fbfe9804e8a",
+      "time": "2026-06-16 04:20:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israeli military said no casualties were reported after Hezbollah fired anti-tank missiles and multiple mortar rounds at its troops in southern Lebanon."
+    },
+    {
+      "id": "mkt:019eccf0-ef3a-7dd8-b016-7705065c96d4",
+      "time": "2026-06-16 04:20:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "ISRAELI MILITARY said it intercepted multiple rockets fired by HEZBOLLAH at forces in southern Lebanon."
+    },
+    {
+      "id": "4937108",
+      "time": "2026-06-16 04:19:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，在真主黨對在黎巴嫩南部開展行動的以軍士兵發射一枚反坦克導彈和多枚迫擊炮彈後，目前尚無人員傷亡報告。"
+    },
+    {
+      "id": "4937105",
+      "time": "2026-06-16 04:19:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列軍方稱，攔截了多枚真主黨向黎巴嫩南部以軍部隊發射的火箭彈。"
+    },
     {
       "id": "4937103",
       "time": "2026-06-16 04:18:14",
@@ -167373,14 +167441,6 @@
         "其他"
       ],
       "text": "Perrigo預計全財年調整後持續經營每股收益2美元至2.30美元。"
-    },
-    {
-      "id": "4924676",
-      "time": "2026-06-09 04:22:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司：將採用標準評估方法處理SpaceX的首次公開募股事宜。"
     }
   ]
 }
