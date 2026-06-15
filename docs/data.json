@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-16 04:11:11",
+  "updated": "2026-06-16 04:15:18",
   "count": 18210,
   "items": [
+    {
+      "id": "te:markets:559112",
+      "time": "2026-06-16 04:14:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rally as Oil Slumps on US-Iran Deal — US stocks rallied Monday after the US and Iran reached a preliminary agreement to end the Middle East conflict and reopen the Strait of Hormuz, easing inflation concerns and sending oil prices lower. The S&P 500 rose 1.7%, the Dow Jones gained 469 points to a record high, and the Nasdaq surged 3.1%, its best day since March 31. US crude prices fell 5%, boosting shares of fuel-sensitive companies, with United Airlines climbing 3.9%, Norwegian Cruise Line adding 3.7%, and Carnival Corp rising 3.2%. The drop in oil prices also improved broader market sentiment, supporting gains across growth-oriented sectors, particularly technology stocks. On the corporate front, SpaceX shares soared 15%, extending gains after jumping 19% in their public market debut on Friday. Meanwhile, Fox Corp. tumbled 17% after unveiling plans to acquire Roku in a $22 billion transaction. Investors are now focused on the Federal Reserve’s upcoming policy meeting, where rates are expected to remain unchanged."
+    },
+    {
+      "id": "4937097",
+      "time": "2026-06-16 04:14:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝萊德將於明日推出比特幣收益增強型交易所交易基金。"
+    },
     {
       "id": "mkt:019ecce8-42b6-7dd8-b016-692b70d978f1",
       "time": "2026-06-16 04:10:33",
@@ -167378,23 +167398,6 @@
         "公司"
       ],
       "text": "聖地亞哥燃氣電力公司、高通公司與加州大學聖地亞哥分校攜手開展邊緣人工智慧合作，助力提升野火及極端天氣應對能力。"
-    },
-    {
-      "id": "4924673",
-      "time": "2026-06-09 04:14:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社援引訊息稱，伊拉克北部的蘇萊曼尼亞地區傳出爆炸聲。"
-    },
-    {
-      "id": "4924672",
-      "time": "2026-06-09 04:12:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Applied Digital在Delta Forge 2簽署新的資料中心租賃協議，該公司股價盤後漲9%。"
     }
   ]
 }
