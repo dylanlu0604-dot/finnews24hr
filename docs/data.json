@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-15 20:16:23",
+  "updated": "2026-06-15 20:20:20",
   "count": 18235,
   "items": [
+    {
+      "id": "4936586",
+      "time": "2026-06-15 20:19:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯恩斯坦給予東鵬飲料A股“與大盤一致”的初始評級，目標價138元。"
+    },
+    {
+      "id": "4936585",
+      "time": "2026-06-15 20:18:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英派斯：特定股東擬減持不超152,975股公司股份】英派斯公告稱，特定股東青島青英持有公司股份611,900股，佔公司剔除回購專用證券賬戶持股數量的總股本比例0.4176%。其計劃在2026年7月8日至10月7日，以集中競價交易或大宗交易方式減持不超152,975股，佔比0.1044%。減持原因是各合夥人資金需求，股份來源為首次公開發行前股份。本次減持計劃存在不確定性，不會對公司治理等產生重大影響。"
+    },
+    {
+      "id": "4936584",
+      "time": "2026-06-15 20:18:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【分析：美伊和平協議推動油價走低】在美國和伊朗達成結束中東衝突並重新開放霍爾木茲海峽通航的協議後，原油期貨跌至3月初以來的最低水平。Spartan Capital的Peter Cardillo在一份報告中表示，這一下跌“主要與投機頭寸平倉有關，這顯然是一個積極的進展“。他補充說，該海峽可能需要一個多月的時間才能恢復正常的運營狀態。“因此，一旦最初的狂熱情緒消退，我們預計現貨價格將在85美元至90美元之間徘徊，特別是由於目前供應依然緊俏。“西得州中質油下跌5.3%，報每桶80.41美元；布倫特原油下跌4.8%，報83.11美元。"
+    },
+    {
+      "id": "4936583",
+      "time": "2026-06-15 20:17:40",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【荷蘭國際：伊朗協議消除英國基準利率加息可能性】荷蘭國際集團的James Smith在一份報告中表示，如果美國和伊朗之間的和平協議得以維持，英國央行今年夏天應該能夠避免加息。在能源價格目前下跌的背景下，通脹率可能會保持在4%以下——這是該央行的一條重要底線。Smith說：“市場目前反映的7月份加息預期機率僅為25%，且今年僅有一次加息，低於此前最高三次的預期。“他補充說，此外，第二輪通脹效應的風險依然有限。“這最終是我們預計2027年將重新降息的原因——這是市場目前尚未反映的預期。”Smith說，不過，如果美伊協議破裂，或者未能阻止夏季能源價格再次飆升，這種情況可能會發生改變。"
+    },
+    {
+      "id": "mkt:019ecb36-a047-7dd8-b00c-04d1a81c70e0",
+      "time": "2026-06-15 20:16:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "BAGHAEI said Tehran will coordinate with Oman and other countries to take measures to ensure safe passage through the Strait of Hormuz; the measures will be targeted at specific times and correspond to US commitments."
+    },
+    {
+      "id": "4936582",
+      "time": "2026-06-15 20:16:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃表示，德黑蘭將協同阿曼及其他國家採取措施，確保霍爾木茲海峽的安全通行，此舉將限定在特定時間內，並與美方自身承諾相對應。"
+    },
+    {
+      "id": "4936581",
+      "time": "2026-06-15 20:16:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【知情人士：騰訊入股阿里通義大模型前首席研究員林俊暘創立的全新人工智慧實驗室】據兩名知情投資人士透露，騰訊控股已入股由阿里巴巴通義大模型前首席研究員林俊暘創立的全新人工智慧實驗室。 知情人士表示，該實驗室首輪融資總規模達數億美元，投後估值約20億美元；其中騰訊出資2000萬美元。此輪融資由高榕資本、紅杉中國兩家本土風投領投，兩家機構各出資1億美元。 訊息人士補充稱，本輪融資剛完成交割，林俊暘團隊已著手籌備下一輪募資。"
+    },
     {
       "id": "4936580",
       "time": "2026-06-15 20:15:30",
@@ -167649,68 +167714,6 @@
         "Greater China"
       ],
       "text": "【Cross-border broker remediation underway; some Hong Kong brokers still accepting accounts, intermediaries continue soliciting mainland clients】After Chinese regulators launched a centralized remediation of cross‑border broker practices, the Futu NiuNiu app shows divergent trading statuses across accounts held by the same investor. Some existing mainland China investors’ Futu Securities (Hong Kong) accounts are blocked from buy orders and require updated overseas ID, while Moomoo accounts run by a U.S.-licensed provider can still place orders. Separately, several locally licensed Hong Kong brokers’ account‑opening channels remain operable and intermediaries continue recruiting mainland clients on social platforms with cashback incentives."
-    },
-    {
-      "id": "4924137",
-      "time": "2026-06-08 20:20:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜啟動五部分高評級加元債券發行計劃。"
-    },
-    {
-      "id": "4924136",
-      "time": "2026-06-08 20:19:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：以色列北部警報解除，相關事件已結束。"
-    },
-    {
-      "id": "4924135",
-      "time": "2026-06-08 20:19:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩總理強烈譴責以色列頻繁違反停火協議 造成大批人員傷亡】據黎巴嫩國家通訊社（NNA）報道，黎巴嫩總理納瓦夫·薩拉姆（Nawaf Salam）週一（8日）公開表示，自今年4月黎以停火協議生效以來，以色列軍隊頻繁違反停火規定，對黎巴嫩實施了近3500次空襲及400多次轟炸行動，導致大批平民傷亡，部分邊境村莊被完全夷為平地。薩拉姆詳細列舉了最新統計資料並指出，從2026年4月17日至6月7日期間，以色列方面針對黎巴嫩的違規軍事行動已累計達到3491次空襲、407次轟炸以及6次推土機跨境破壞作業。這一系列持續的軍事行動已導致黎方3526人死亡、10733人受傷，邊境部分地區的生態與基礎設施遭到毀滅性打擊。薩拉姆強烈呼籲國際社會採取切實行動阻止違規襲擊。他強調，停火協議的全面落實必須建立在相互尊重的基礎上，以方的持續越境打擊正使該地區脆弱的和平局勢面臨崩潰邊緣。截至目前，以色列軍方尚未就黎方的具體指控作出官方回應。"
-    },
-    {
-      "id": "mkt:019ea72b-4066-799c-b571-1e5f86707fd4",
-      "time": "2026-06-08 20:18:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Israel's Channel 14 cites Israeli sources saying operations against Lebanese Hezbollah are continuing."
-    },
-    {
-      "id": "4924134",
-      "time": "2026-06-08 20:18:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【溫氏股份：董事梁志雄擬減持0.2831%】溫氏股份公告，董事梁志雄持股1.04億股，佔1.5633%，擬自公告披露日起十五個交易日後的2026年7月1日至2026年9月30日，透過大宗交易向其女兒梁晴雯、梁晴斐及其兄弟梁志強轉讓不超過1883.41萬股，佔0.2831%，受讓方六個月內不得減持。"
-    },
-    {
-      "id": "4924133",
-      "time": "2026-06-08 20:17:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美元走低，受以色列和伊朗停火希望影響】在美國總統特朗普表示以色列和伊朗在交火後正尋求達成即刻停火協議後，美元走低。他在Truth Social的一篇帖子中還表示，邁向和平協議的談判正在進行中，“除非受到無知或愚蠢的阻礙“。他說，關於最終協議，“事情應該會進展迅速“，但在達成最終協議之前，美國將維持對伊朗港口的封鎖。DXY美元指數下跌0.2%，至99.888，此前曾觸及100.214的兩個月高點。"
-    },
-    {
-      "id": "te:economy:557289",
-      "time": "2026-06-08 20:16:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "US 10-Year Yield Off Session Highs — The yield on the US 10-year Treasury note edged up to 4.54% on Monday, but retreating from highs of 4.58% earlier in the session, as traders continued to assess the back-and-forth situation in the Middle East. Reports indicated that Iran’s military had ceased strikes against Israel but warned it would resume hostilities if Jerusalem continues operations in Lebanon. In addition, President Trump said that Iran and Israel were looking to agree on a ceasefire, and that negotiations with Iran on a final deal were progressing. As a result, oil prices trimmed some gains. However, concerns about persistent inflation stemming from a prolonged conflict with Iran continued to weigh on sentiment, with the odds of a Fed rate hike as soon as October currently standing near 52%. CPI and PPI data in the US are due this week and will provide further insight into evolving price pressures."
     }
   ]
 }
