@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-16 02:33:31",
-  "count": 18240,
+  "updated": "2026-06-16 02:37:25",
+  "count": 18238,
   "items": [
+    {
+      "id": "4937019",
+      "time": "2026-06-16 02:33:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【鋁價大跌 伊朗和平協議緩解供應危機衝擊】倫敦期鋁跌至逾兩個月低點，因美國和伊朗達成臨時協議，為恢復途徑霍爾木茲海峽的金屬運輸奠定基礎。倫敦金屬交易所(LME)鋁價下跌4.4%，結算價報每噸3,379.50美元，為3月27日以來最低。美伊達成一項協議，預計該協議將於週五簽署，屆時海峽將重新開放。該計劃的細節仍在磋商中。伊朗戰爭導致供應大幅減少，中東鋁冶煉廠遭到導彈襲擊，這一關鍵水道關閉也阻斷了原材料輸入和金屬外運。生產商採取物流變通方案以維持工廠運轉，但這場戰爭仍令該行業面臨重大供應缺口。"
+    },
     {
       "id": "4937018",
       "time": "2026-06-16 02:32:07",
@@ -167688,40 +167697,6 @@
         "國際"
       ],
       "text": "禮來：口服GLP-1藥物Founadayo在三項關鍵糖尿病臨床試驗中，療效優於口服司美格魯肽。使用17.2毫克劑量時，該藥糖化血紅蛋白降幅高出57.1%，減重效果高出73.6%；安全性表現與既往試驗一致，公司計劃於第二季度末向美國食品藥品監督管理局提交上市申請。"
-    },
-    {
-      "id": "mkt:019ea884-25ae-733a-9234-6ca34363a1fd",
-      "time": "2026-06-09 02:34:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "Apple (AAPL.O) widened losses to over 1%."
-    },
-    {
-      "id": "4924621",
-      "time": "2026-06-09 02:33:36",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：針對伊朗的海上封鎖將持續至雙方達成協議為止。在伊朗履行相關承諾前，其被凍結資產不會予以解凍。"
-    },
-    {
-      "id": "mkt:019ea883-02b1-733a-9234-65f0eadaa872",
-      "time": "2026-06-09 02:33:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【U.S. forces strike tanker in Gulf of Oman】U.S. Central Command said on social media on the 8th that U.S. forces fired on an unladen tanker in the Gulf of Oman bound for an Iranian port, disabling it after the crew refused orders. The Palau-flagged tanker was transiting international waters toward Iran, CENTCOM said; an F/A-18 Super Hornet from the carrier Lincoln fired precision-guided weapons to render the vessel inoperable. CENTCOM said it has enforced a blockade of maritime traffic to Iranian ports since April 13 and has disabled seven merchant vessels and forced 134 ships to change course."
     }
   ]
 }
