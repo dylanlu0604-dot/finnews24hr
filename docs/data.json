@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-16 07:23:40",
-  "count": 18219,
+  "updated": "2026-06-16 07:27:32",
+  "count": 18215,
   "items": [
+    {
+      "id": "4937244",
+      "time": "2026-06-16 07:23:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中證報：信用卡權益上線AI大模型套餐 信用卡行業洗牌將加速】近日，招商銀行運通工程師信用卡推出專屬AI權益，創新將Token納入新戶首刷禮。專家認為，這是信用卡行業從生活消費權益向生產力權益跨界的標誌性嘗試。未來，信用卡權益載體會從實物、服務向數字權益、算力額度、模型許可權延伸。 專家預計，未來信用卡權益將告別普惠式大水漫灌，走向分層定製、場景跨界、虛實融合三大方向。權益載體從實物、服務向數字權益、算力額度、模型許可權延伸，積分可與AI Token、數字會員互通流轉。同時，銀行會依託使用者行為資料，用AI動態匹配權益，實現一人一策精準投放。國家金融與發展實驗室副主任曾剛表示，風控、算力對接、權益供應鏈整合能力成為新壁壘，缺乏科技協同與場景資源的中小銀行權益迭代節奏會持續落後，市場份額進一步向頭部銀行集中，行業洗牌加速。"
+    },
     {
       "id": "4937243",
       "time": "2026-06-16 07:22:22",
@@ -167401,48 +167409,6 @@
         "Brent"
       ],
       "text": "【CITIC Securities: Stalled talks accelerate inventory draws, oil to rise this week】CITIC Securities research note said markets underappreciate near- and mid-term upside risk to oil. Near term, the Strait of Hormuz has been closed for weeks and more wells have been forced offline; prolonged outages risk permanent capacity loss. Over the medium term, low capex has pushed US drilled‑but‑uncompleted inventories and new drilling to multi‑year lows, making sustained US high output unlikely and shifting residual supply and pricing power toward Middle East producers. Markets were overly optimistic on a quick end to the Middle East conflict; forward oil is being repriced higher and potential upside to inflation merits monitoring."
-    },
-    {
-      "id": "4924769",
-      "time": "2026-06-09 07:27:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭：根據楚胡伊夫市長的報告，五人在俄羅斯導彈襲擊後死亡，另外三人受傷。"
-    },
-    {
-      "id": "4924768",
-      "time": "2026-06-09 07:26:46",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：火箭降本開啟商業航天新週期，柔性化引領太陽翼技術新趨勢】中信建投研報指出，低軌資源稀缺且先到先得，全球衛星組網競賽白熱化。SpaceX規劃超百萬顆衛星，中國星網/千帆/鴻擎合計規劃近4萬顆，ITU時限約束下各方加速搶佔頻軌資源。可回收火箭是產業提速核心催化：國內多款火箭密集衝刺複用試驗，SpaceX V3星艦發射成本有望大幅下降。太陽翼是產業鏈確定性最強的通脹環節，單星功率提升驅動面積增長。砷化鎵為目前主流方案，但由於鎵、鍺相對稀缺且受出口管制，供需關係緊張將推動價格高漲，將採用P型HJT晶矽/鈣鈦礦路線作為補充，目前北美Space X採用晶矽方案已顯現經濟性，矽材料充裕且不受專利限制，更適合海外大規模生產。"
-    },
-    {
-      "id": "4924767",
-      "time": "2026-06-09 07:25:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟內部圍繞推動俄烏談判存在分歧】歐盟外交與安全政策高階代表卡拉斯8日表示，必須做出一切努力，以便俄羅斯和烏克蘭能夠進行對話，同時歐洲的核心安全利益也需要得到尊重。但卡拉斯認為現在不是與俄羅斯就烏克蘭問題展開談判的合適時機。總檯記者獲悉，目前歐盟內部對於如何推動談判以及何時啟動實質性接觸仍存在不同看法，一些國家認為目前尚不具備與俄方開展嚴肅談判的條件。英法德三國領導人7日在倫敦與烏克蘭總統澤連斯基會晤並發表聯合宣告，表示支援烏克蘭和俄羅斯直接對話。（央視）"
-    },
-    {
-      "id": "mkt:019ea98c-cd37-733a-9237-16f36828b721",
-      "time": "2026-06-09 07:23:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【EU divided over push for Russia-Ukraine talks】EU member states are divided on how and when to press for talks between Russia and Ukraine, EU high representative for foreign affairs and security policy Kallas said on the 8th, urging all efforts to enable dialogue while stressing Europe’s core security interests must be respected but adding now is not the right time for negotiations. Some members say conditions for serious talks with Moscow are not yet in place. Separately, leaders of the UK, France and Germany met Ukraine President Zelenskiy in London on the 7th and issued a joint statement backing direct dialogue between Kyiv and Moscow."
-    },
-    {
-      "id": "4924766",
-      "time": "2026-06-09 07:23:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【蘋果升級版Siri姍姍來遲但終亮相 主打實用並強調隱私保護】在加利福尼亞州庫比蒂諾舉行的年度全球開發者大會上，蘋果釋出了“Siri AI”，這是一款對話能力更強的助手，擁有獨立的應用程式，並具備分析使用者螢幕內容以及從網路中提取資訊的能力。此時距蘋果首次承諾進行重大升級已過去兩年，而升級計劃此前曾多次推遲。TECHnalysis Research總裁兼首席分析師Bob O’Donnell表示，“這是面向大眾的AI；它並不是真正意義上的智慧體式AI。對許多人來說，這正是他們所期待的那種智慧。”不過，分析師們的初步反應較為謹慎。MoffettNathanson分析師Craig Moffett表示，這些升級雖非“顛覆性”，但應能使Siri成為“一個可信的聊天機器人，甚至可能成為一個可信的智慧體”。蘋果股價週一在納斯達克收盤下跌1.9%，報301.54美元。"
     }
   ]
 }
