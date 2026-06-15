@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-16 01:15:46",
-  "count": 18343,
+  "updated": "2026-06-16 01:19:57",
+  "count": 18333,
   "items": [
+    {
+      "id": "mkt:019ecc4b-6978-7dd8-b014-5e568dd319d8",
+      "time": "2026-06-16 01:19:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials say they will approach negotiations with Iran with an open mind and acknowledge the talks' complexity."
+    },
+    {
+      "id": "mkt:019ecc49-8ea1-7dd8-b014-54141bdcc671",
+      "time": "2026-06-16 01:17:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $581 mln from eight counterparties in a fixed‑rate reverse repo operation."
+    },
+    {
+      "id": "4936997",
+      "time": "2026-06-16 01:15:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（6月15日），美聯儲隔夜逆回購協議（RRP）使用規模為5.81億美元（交易對手8家），上個交易日報4.54億美元。"
+    },
     {
       "id": "4936996",
       "time": "2026-06-16 01:12:43",
@@ -168553,139 +168580,6 @@
         "焦點"
       ],
       "text": "納斯達克中國金龍指數跌超0.5%，中進醫療跌8.10%，大全新能源跌6.50%，聲網跌5.30%，新氧跌5.18%，海天網路跌5.12%。"
-    },
-    {
-      "id": "4924525",
-      "time": "2026-06-09 01:19:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩總統：在達成終止戰爭的協議前，我不會與內塔尼亞胡會面。"
-    },
-    {
-      "id": "4924524",
-      "time": "2026-06-09 01:19:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "黎巴嫩總統：目前我們正與以色列就一項互不侵犯協議進行談判。"
-    },
-    {
-      "id": "4924523",
-      "time": "2026-06-09 01:19:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評全球主權信用：能源價格走高正拖累發達經濟體的增長與通脹前景，給公共財政帶來額外壓力。"
-    },
-    {
-      "id": "4924522",
-      "time": "2026-06-09 01:18:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國一名聯邦法官裁定，特朗普時期設立的每項10萬美元H-1B簽證費用屬於對企業的違規徵稅，該收費規定必須予以撤銷。"
-    },
-    {
-      "id": "mkt:019ea83d-de8e-733a-9232-2ad6d92b82a5",
-      "time": "2026-06-09 01:18:02",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "A federal judge ruled the $100,000 fee on H-1B visas introduced under Trump amounts to an unauthorized corporate tax and must be vacated."
-    },
-    {
-      "id": "4924521",
-      "time": "2026-06-09 01:17:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘋果macOS全新版本代號“Golden Gate”，多設計變化】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。會上，蘋果公佈了全新macOS版本——macOS Golden Gate。該版本在設計方面作出大量最佳化，例如，為了讓使用者看得更清楚，蘋果精調了Liquid Glass，新增了新的滑塊和設定選項來調節Liquid Glass，從超通透到飽滿色調；邊欄現在擴充套件到視窗邊緣，下層內容滾動的時候能呈現出同樣精美的折射效果；macOS中的每個視窗都統一採用半徑小的圓設計，疊層之間會產生折射效果，為圖示帶來獨特的美感。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ea83d-4bd8-733a-9232-26c3ff74d588",
-      "time": "2026-06-09 01:17:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $1.832 bln from 16 counterparties in a fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "mkt:019ea83d-1379-733a-9232-1b2c48dab2a6",
-      "time": "2026-06-09 01:17:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. tech reporter Gurman says Apple (AAPL.O) is detailing, one by one, long‑awaited performance improvements many users have expected for years."
-    },
-    {
-      "id": "4924520",
-      "time": "2026-06-09 01:16:59",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "土耳其財政部長：伊朗戰爭至少給土耳其通貨膨脹帶來5個百分點的壓力。"
-    },
-    {
-      "id": "4924519",
-      "time": "2026-06-09 01:16:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週一（6月8日），美聯儲隔夜逆回購協議（RRP）使用規模為18.32億美元（交易對手16家），上個交易日（非農日）報7.61億美元。"
-    },
-    {
-      "id": "mkt:019ea83c-8a27-733a-9232-12100fc09189",
-      "time": "2026-06-09 01:16:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FITCH expects the US-Iran conflict to drag on GDP growth, push up inf and government bond yields, and heighten geopolitical risk for sovereigns globally."
-    },
-    {
-      "id": "4924518",
-      "time": "2026-06-09 01:16:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：預計美伊衝突將削弱全球主權經濟體GDP增長，推高通脹與債券收益率，並加劇地緣政治風險。"
-    },
-    {
-      "id": "mkt:019ea83c-1907-733a-9232-0c3ed6d9b368",
-      "time": "2026-06-09 01:16:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fitch revised the outlook for global sovereign credit ratings to 'deteriorating', citing the impact of the Iran war."
     }
   ]
 }
