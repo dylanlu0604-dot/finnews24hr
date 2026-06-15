@@ -1,7 +1,280 @@
 {
-  "updated": "2026-06-16 00:09:43",
-  "count": 18330,
+  "updated": "2026-06-16 00:13:54",
+  "count": 18349,
   "items": [
+    {
+      "id": "4936966",
+      "time": "2026-06-16 00:13:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員： 美國及其他任何國家均未向伊朗解凍並釋放任何資產。"
+    },
+    {
+      "id": "mkt:019ecc0e-f5a5-7dd8-b013-a4c9c9a3a575",
+      "time": "2026-06-16 00:13:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump said he may or may not participate in the signing of the Iran agreement; Vice President Vance will attend to sign it."
+    },
+    {
+      "id": "4936965",
+      "time": "2026-06-16 00:13:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將於週五之後擇機公佈伊朗協議文字。"
+    },
+    {
+      "id": "4936964",
+      "time": "2026-06-16 00:12:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗相關協議簽署事宜，我可能會參與，也可能不參與。萬斯將前來出席簽署儀式。"
+    },
+    {
+      "id": "4936963",
+      "time": "2026-06-16 00:12:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為伊朗諒解備忘錄文字“很快”就會公佈。"
+    },
+    {
+      "id": "te:markets:559095",
+      "time": "2026-06-16 00:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.66% Higher — The FTSE MIB Index went up by 339 points or 0.66 percent on Monday to close at 51836 points. The rise was led by Ferrari NV (4.36%), Stellantis N.V. (3.58%) and Buzzi Unicem (3.46%). On the downside, the weakerst performers were Avio (-5.13%), Eni (-4.69%) and Leonardo SpA (-2.70%)."
+    },
+    {
+      "id": "4936962",
+      "time": "2026-06-16 00:12:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談週五是否出席伊朗簽字儀式：視情況而定。"
+    },
+    {
+      "id": "4936961",
+      "time": "2026-06-16 00:11:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：美國現在知道所有水雷的位置。"
+    },
+    {
+      "id": "mkt:019ecc0d-5453-7dd8-b013-9c109959b860",
+      "time": "2026-06-16 00:11:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said on the Russia-Ukraine war he is looking to see whether action can be taken and that both leaders appear open to it."
+    },
+    {
+      "id": "4936959",
+      "time": "2026-06-16 00:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談：我將嘗試推動相關解決方案，兩國領導人似乎都持開放態度。"
+    },
+    {
+      "id": "mkt:019ecc0d-1440-7dd8-b013-9159d2c36f6e",
+      "time": "2026-06-16 00:11:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he held constructive talks with Ukrainian President Zelenskiy and Russian President Putin on the Russia-Ukraine war."
+    },
+    {
+      "id": "te:markets:559094",
+      "time": "2026-06-16 00:11:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.05% Higher — The DAX Index rose 259 points or 1.05 percent on Monday to close at 24894 points. Leading the gains are Deutsche Bank (4.31%), MTU Aero Engines AG (4.26%) and Fresenius (3.13%)."
+    },
+    {
+      "id": "4936958",
+      "time": "2026-06-16 00:10:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及俄烏衝突：已與澤連斯基、普京開展富有成效的溝通。"
+    },
+    {
+      "id": "4936957",
+      "time": "2026-06-16 00:10:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望我們能與伊朗保持良好關係。"
+    },
+    {
+      "id": "mkt:019ecc0c-5c94-7dd8-b013-88928bd18e6f",
+      "time": "2026-06-16 00:10:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A senior US official said the US expects freedom of navigation through the Strait of Hormuz to be included in the final agreement."
+    },
+    {
+      "id": "te:markets:559093",
+      "time": "2026-06-16 00:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.49% Higher — The CAC 40 Index gained 41 points or 0.49 percent on Monday to close at 8392 points. Gains were led by Societe Generale (3.96%), Renault (3.87%) and STMicroelectronics (3.58%). Biggest losers were TotalEnergies SE (-4.60%), Orange (-1.88%) and Kering (-1.79%)."
+    },
+    {
+      "id": "mkt:019ecc0c-1e9a-7dd8-b013-81ae449178a1",
+      "time": "2026-06-16 00:10:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "President Trump said he hopes to build a good relationship with Iran."
+    },
+    {
+      "id": "4936956",
+      "time": "2026-06-16 00:10:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：預計不久後每天將有40-50艘船隻透過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019ecc0b-ef81-7dd8-b013-78b7d59c13e8",
+      "time": "2026-06-16 00:09:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said on Iran he will implement strong oversight."
+    },
+    {
+      "id": "4936955",
+      "time": "2026-06-16 00:09:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗完全同意不擁有核武器。"
+    },
+    {
+      "id": "mkt:019ecc0b-ae32-7dd8-b013-75662bcc7318",
+      "time": "2026-06-16 00:09:37",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Trump says Iran will not possess nuclear weapons."
+    },
+    {
+      "id": "4936954",
+      "time": "2026-06-16 00:09:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗事宜：將實施強有力的管控措施。"
+    },
+    {
+      "id": "4936953",
+      "time": "2026-06-16 00:09:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：美方預期霍爾木茲海峽免費通航條款也將納入最終協議。"
+    },
+    {
+      "id": "4936952",
+      "time": "2026-06-16 00:09:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：中東將會發生很多美好的事情。"
+    },
+    {
+      "id": "4936951",
+      "time": "2026-06-16 00:09:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：伊朗不會擁有核武器。"
+    },
+    {
+      "id": "mkt:019ecc0b-2016-7dd8-b013-6c7563118f66",
+      "time": "2026-06-16 00:09:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "President Trump said oil prices have fallen sharply while the stock market is rising."
+    },
+    {
+      "id": "4936950",
+      "time": "2026-06-16 00:08:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：與伊朗簽署的諒解備忘錄明確規定，霍爾木茲海峽將免費通航 60 天。"
+    },
+    {
+      "id": "4936949",
+      "time": "2026-06-16 00:08:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：油價正大幅暴跌。"
+    },
+    {
+      "id": "mkt:019ecc0a-c44e-7dd8-b013-65a9aed03f8e",
+      "time": "2026-06-16 00:08:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said the Strait of Hormuz was fully reopened on Friday and that all agreements have been signed."
+    },
     {
       "id": "4936948",
       "time": "2026-06-16 00:07:59",
@@ -93,6 +366,14 @@
         "國際"
       ],
       "text": "特朗普與馬克龍舉行會晤。"
+    },
+    {
+      "id": "4936942",
+      "time": "2026-06-16 00:06:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門附近海域集裝箱貨船遇襲】英國海上貿易行動辦公室15日釋出通報稱，一艘小船當日在葉門海岸以南14海里處接近一艘集裝箱船，小船上的人員向集裝箱貨船開火，並企圖登船。（新華社）"
     },
     {
       "id": "4936941",
@@ -168443,119 +168724,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Rises as Banking M&A Fuels Rally — The FTSE MIB gained 0.6% to close at 50,208 on Monday, lifted by strong gains in the banking sector. MPS surged 13%, while Mediobanca, which is set to merge with MPS, soared 12% after Intesa Sanpaolo launched a competing €30.6 billion takeover bid for MPS, just one day after Banco BPM (+0.8%) proposed a merger offer. Intesa Sanpaolo, however, fell 1.4% following the announcement. Luxury stocks also advanced alongside their European peers, with Ferrari gaining 1.8% and Moncler rising 1.1%. Meanwhile, STMicroelectronics climbed 4%, tracking global technology shares higher amid persistent optimism surrounding artificial intelligence. On the downside, UniCredit lost 2%, while Enel fell 0.7% and Stellantis declined 1.1%."
-    },
-    {
-      "id": "4924481",
-      "time": "2026-06-09 00:13:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前副總統卡瑪拉·哈里斯稱正考慮參選2028年美國總統。"
-    },
-    {
-      "id": "mkt:019ea802-86e7-733a-9231-55e5af82e5d9",
-      "time": "2026-06-09 00:13:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Italy's finance ministry will sell up to EUR 4 bln of bonds at an auction on June 11."
-    },
-    {
-      "id": "te:markets:557355",
-      "time": "2026-06-09 00:12:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.63% Higher — The FTSE MIB Index went up by 315 points or 0.63 percent on Monday to close at 50208 points. The rise was led by Banca Monte dei Paschi di Siena (12.96%), Mediobanca (12.03%) and Bper Banca (5.18%). On the downside, the weakerst performers were Hera (-1.88%), Buzzi Unicem (-1.74%) and Avio (-1.67%)."
-    },
-    {
-      "id": "mkt:019ea801-6daa-733a-9231-4e9d93fb3cc4",
-      "time": "2026-06-09 00:12:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Israeli government agency COGAT said it will reopen the Kerem Shalom crossing from Tuesday to allow humanitarian aid to be gradually delivered to the Gaza Strip. The Rafah crossing will reopen to permit limited two-way movement of people."
-    },
-    {
-      "id": "4924480",
-      "time": "2026-06-09 00:11:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列政府領土活動協調局表示，拉法口岸將重新開放，允許人員在雙向有限通行。"
-    },
-    {
-      "id": "te:markets:557354",
-      "time": "2026-06-09 00:11:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.58% Lower — The DAX Index fell 143 points or 0.58 percent on Monday to close at 24616 points. Leading the losses are BASF (-4.18%), Brenntag (-3.45%) and HeidelbergCement (-2.93%). Top gainers were Infineon (2.19%), Adidas (1.92%) and Daimler Truck Holding AG (1.12%)."
-    },
-    {
-      "id": "mkt:019ea800-6568-733a-9231-44458e4b4380",
-      "time": "2026-06-09 00:10:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) said effective immediately it is rolling out a web-based update globally for users of Google AI Ultra and Workspace Business customers using AI Ultra, expanding the feature's availability."
-    },
-    {
-      "id": "4924479",
-      "time": "2026-06-09 00:10:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列政府領土活動協調局表示，決定自週二起重新開放凱雷姆沙洛姆口岸，逐步向加沙地帶運送人道主義援助物資。"
-    },
-    {
-      "id": "4924478",
-      "time": "2026-06-09 00:10:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：面向谷歌AI Ultra使用者及開通AI Ultra的Workspace企業客戶的網路端更新自今日起在全球範圍推送，訪問許可權範圍已擴大。"
-    },
-    {
-      "id": "te:markets:557353",
-      "time": "2026-06-09 00:10:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.02% Higher — The CAC 40 Index gained 2 points or 0.02 percent on Monday to close at 8220 points. Gains were led by STMicroelectronics (3.77%), Orange (1.98%) and Hermes International (1.30%). Biggest losers were Saint-Gobain (-3.82%), Bouygues (-1.91%) and Sanofi (-1.33%)."
-    },
-    {
-      "id": "4924477",
-      "time": "2026-06-09 00:09:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度證實維扎格帕特南鋼廠火災已造成8人遇難。"
     }
   ]
 }
