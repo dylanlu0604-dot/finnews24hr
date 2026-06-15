@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-15 22:18:23",
+  "updated": "2026-06-15 22:22:37",
   "count": 18338,
   "items": [
+    {
+      "id": "mkt:019ecba9-2547-7dd8-b010-d3e0eeaaee76",
+      "time": "2026-06-15 22:22:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Underwriters exercise greenshoe, SpaceX IPO proceeds rise to $85.7 billion】Underwriters for SpaceX (SPCX.O) have exercised the IPO greenshoe, lifting total proceeds to $85.7 billion from the $75.0 billion initially raised last Thursday. The greenshoe size exceeds that of nearly all previously recorded technology IPOs. Underwriters typically exercise a greenshoe when the share price rises."
+    },
+    {
+      "id": "4936826",
+      "time": "2026-06-15 22:21:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX漲超8%，市值達2.28萬億美元。"
+    },
+    {
+      "id": "4936825",
+      "time": "2026-06-15 22:21:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：美國未來有可能再次違背自身承諾，我方軍隊時刻保持戒備，一切應對方案均在考量範圍內。"
+    },
+    {
+      "id": "4936824",
+      "time": "2026-06-15 22:19:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方警告稱，受封鎖影響的船舶在接到“明確指令”前不得嘗試通行。"
+    },
+    {
+      "id": "4936823",
+      "time": "2026-06-15 22:19:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍事顧問團表示，在定於6月19日完成與伊朗的協議之前，美國對伊朗港口的封鎖將繼續生效。"
+    },
+    {
+      "id": "te:economy:559082",
+      "time": "2026-06-15 22:18:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Nahb Housing Market Index",
+        "Importance 2"
+      ],
+      "text": "US Homebuilder Confidence Weakens in June — The NAHB/Wells Fargo Housing Market Index (HMI), which tracks US homebuilder confidence in the market for newly built single-family homes, fell to 35 in June 2026, down from 37 in May and slightly below market expectations of 36. Within the report, current sales conditions declined by two points to 38, while sales expectations for the next six months remained unchanged at 45. Buyer traffic also held steady at a weak level of 25, signaling persistently soft demand. The survey also highlighted continued reliance on pricing strategies. 35% of builders reported cutting prices in June, up from 32% in May. The average price reduction remained at 6%, unchanged month-over-month. In addition, the use of sales incentives ticked up to 62% from 61%, marking the 15th consecutive month that more than 60% of builders have offered incentives to attract buyers."
+    },
+    {
+      "id": "mkt:019ecba5-f049-7dd8-b010-cf3979a987c6",
+      "time": "2026-06-15 22:18:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【US June homebuilder confidence falls to 35; South drives largest decline】NAHB and Wells Fargo data released Monday showed the housing market index fell 2 points in June to 35, below consensus. The South, the largest U.S. residential-construction region, recorded the biggest drop since Nov. 2023. The index has stayed below 40 for a 14th consecutive month, the longest stretch since 2011–12. By component, the current-sales gauge slipped 2 points to 38 while future-sales expectations and buyer-traffic measures were unchanged. NAHB said rising mortgage rates, higher building-material costs, increased financing costs and permitting/regulatory headwinds are weighing on builders."
+    },
+    {
+      "id": "4936821",
+      "time": "2026-06-15 22:18:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國6月住宅建築商信心降至低位 南部地區拖累明顯】美國住宅建築商信心在6月進一步下滑，原因是抵押貸款利率和建築材料成本上升，同時美國南部地區信心大幅惡化。美國全國住宅建築商協會（NAHB）與富國銀行週一公佈的資料顯示，衡量整體市場狀況的房產市場指數本月下降2點至35，低於市場預期。作為美國最大的住宅建設區域，南部地區信心創下自2023年11月以來最大跌幅。NAHB表示，6月已是該指數連續第14個月低於40，創下2011年至2012年以來最長持續低迷紀錄。從分項指標來看，當前銷售狀況指數下降2點至38，而未來銷售預期和潛在購房者到訪量指標均持平。住宅建築商協會認為，整體指數下滑部分歸因於建築材料價格上漲、融資成本增加以及阻礙住宅建設的監管因素。"
+    },
+    {
+      "id": "mkt:019ecba5-d06f-7dd8-b010-c2929394aef8",
+      "time": "2026-06-15 22:18:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese security sources and state media said an Israeli drone struck a car in southern Lebanon, killing the driver."
+    },
+    {
+      "id": "4936820",
+      "time": "2026-06-15 22:18:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩安全部門訊息人士及官方媒體稱，以色列無人機空襲黎巴嫩南部一輛汽車，司機當場身亡。"
+    },
+    {
+      "id": "4936819",
+      "time": "2026-06-15 22:18:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【海峽重新開放訊息傳出後加密貨幣大漲】與伊朗達成和平協議的訊息在前市提振了加密貨幣，比特幣上漲3.7%，至66,304美元；以太幣上漲8.2%，至1,807美元；XRP上漲8.6%，至1.23美元；solana上漲8.4%，至73.46美元。這一大漲是對和平協議及其對通貨膨脹可能產生的影響，以及被稱為“賣家疲竭“現象的反應。Bitfinex的分析師在一份報告中說：“美元走強和實際收益率上升令黃金和比特幣雙雙承壓，這強化了這樣一種觀點，即流動性狀況仍是比傳統避險敘事更重要的驅動因素。“他們還表示：“能源價格的持續下跌可能會逆轉這些壓力，併為包括加密貨幣在內的風險資產創造更具支援性的環境。”"
+    },
     {
       "id": "4936818",
       "time": "2026-06-15 22:17:36",
@@ -168588,97 +168691,6 @@
         "公司"
       ],
       "text": "加拿大財政部：利用加拿大新增貸款計劃的航空公司必須限制高管薪酬，並維持在加拿大的業務運營。"
-    },
-    {
-      "id": "4924352",
-      "time": "2026-06-08 22:22:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "Cantor Fitzgerald將Sandisk評級維持在增持。"
-    },
-    {
-      "id": "mkt:019ea79c-e895-7226-8cb6-84ad07777fe2",
-      "time": "2026-06-08 22:22:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Department of Finance said a new loan program will provide eligible Canadian airlines with up to C$150 million of repayable liquidity support."
-    },
-    {
-      "id": "4924351",
-      "time": "2026-06-08 22:22:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "Cantor Fitzgerald將Sandisk目標價從1800.00美元上調至2900.00美元。"
-    },
-    {
-      "id": "4924350",
-      "time": "2026-06-08 22:21:45",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "加拿大財政部：新貸款計劃將向符合資格的加拿大航空公司提供最高1.5億加元的可償還流動性支援。"
-    },
-    {
-      "id": "4924349",
-      "time": "2026-06-08 22:21:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微信公佈AI生態佈局新進展，肯德基作為首批餐飲企業接入】6月8日，微信公開課釋出《關於開發者接入微信AI生態的指引》。指引稱，微信開放平臺在充分尊重開發者權益和自主選擇的基礎上，面向開發者提供了便捷接入微信AI生態的能力，開發者可主動授權接入微信AI。據瞭解，肯德基已作為首批入駐的餐飲企業率先接入。後續使用者透過自然口語隨心下達點餐指令，系統均可精準識別訴求，智慧匹配套餐、優選門店並同步展示距離與可取餐時段，大幅簡化點餐取餐全流程。"
-    },
-    {
-      "id": "4924348",
-      "time": "2026-06-08 22:21:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家電投集團與黑龍江省舉行工作會談】6月7日，國家電投集團總經理徐樹彪在哈爾濱拜會黑龍江省委副書記、省長梁惠玲，就深化能源領域合作，共同推動黑龍江振興發展進行交流。梁惠玲說，希望國家電投集團加大“十五五”時期在黑投資力度，深化與駐黑央企、高校產學研用創新協同聯動，佈局建設重型燃機專案，深度參與黑龍江算電協同試點、零碳園區建設，積極開發生物質秸稈和畜禽糞汙資源化利用專案，推動新能源整合融合發展，助力黑龍江加快能源綠色低碳轉型。"
-    },
-    {
-      "id": "mkt:019ea79b-0294-7226-8cb6-7881ef0bfc6b",
-      "time": "2026-06-08 22:20:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Finance Ministry will launch a new loan program to help airlines cope with high fuel prices."
-    },
-    {
-      "id": "4924347",
-      "time": "2026-06-08 22:19:52",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "加拿大財政部：加拿大將推出新貸款計劃，協助航空公司應對高油價問題。"
-    },
-    {
-      "id": "4924346",
-      "time": "2026-06-08 22:19:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【滙豐：隨著不確定性持續，英國央行將維持利率不變】滙豐經濟學家Elizabeth Martins和Emma Wilks表示，鑑於中東地區的不確定性、第二輪效應的跡象有限以及活動資料疲軟，大多數英國央行利率制定者將傾向於在下週的會議上觀望。她們在一份報告中表示，如果決策者之前希望在4月和6月的會議之間情況會變得明朗，那麼他們將會感到失望。調查顯示，價格壓力廣泛得令人擔憂，企業預計將透過壓縮利潤率和提價相結合的方式來應對。不過，這些經濟學家表示，到目前為止，工資預期仍受到控制。她們補充說，如果7月份有可能加息25個基點，那麼在6月份會議的隨附宣告中可能會有相關的訊號。"
-    },
-    {
-      "id": "4924345",
-      "time": "2026-06-08 22:18:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "坎託·菲茨傑拉德維持美光科技“增持”評級。"
-    },
-    {
-      "id": "4924344",
-      "time": "2026-06-08 22:18:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "坎託·菲茨傑拉德將美光科技的目標股價從每股700.00美元上調至1500.00美元。"
     }
   ]
 }
