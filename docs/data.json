@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-16 04:27:30",
-  "count": 18215,
+  "updated": "2026-06-16 04:31:36",
+  "count": 18219,
   "items": [
+    {
+      "id": "mkt:019eccfa-a74f-7dd8-b016-918c2610a2d0",
+      "time": "2026-06-16 04:30:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon Web Services (AWS) launched the GEMMA 4 model on Amazon Bedrock."
+    },
+    {
+      "id": "4937124",
+      "time": "2026-06-16 04:30:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技（AWS）：在亞馬遜Bedrock平臺推出Gemma 4模型。"
+    },
+    {
+      "id": "4937122",
+      "time": "2026-06-16 04:29:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗方面：美國已開始解除海上封鎖。"
+    },
+    {
+      "id": "4937120",
+      "time": "2026-06-16 04:27:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "富士康與施耐德電氣達成合作，共同佈局人工智慧資料中心裝置業務。"
+    },
     {
       "id": "4937113",
       "time": "2026-06-16 04:23:18",
