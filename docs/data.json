@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-15 13:52:23",
-  "count": 18194,
+  "updated": "2026-06-15 13:56:13",
+  "count": 18197,
   "items": [
+    {
+      "id": "mkt:019ec9d9-cac9-7dd8-b000-1d5a4dfa34a3",
+      "time": "2026-06-15 13:55:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Myanmar president Min Aung Hlaing arrives in Beijing】Myanmar President Min Aung Hlaing arrived in Beijing on June 15 for a five-day state visit, his first state visit to China since being elected president."
+    },
+    {
+      "id": "4935606",
+      "time": "2026-06-15 13:55:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【緬甸總統敏昂萊抵達北京】今天（6月15日）下午，緬甸總統敏昂萊抵達北京，開啟為期五天的訪華行程。這也是敏昂萊當選總統以來首次對中國進行國事訪問。（央視新聞）"
+    },
+    {
+      "id": "4935605",
+      "time": "2026-06-15 13:55:20",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中國股市新一輪上升視窗期開啟，A500ETF南方（159352）大漲2.21%】6月15日，A股三大指數集體上漲，截至發稿，A500ETF南方（159352）漲2.21%，成交額21億元。國泰海通證券表示，在過去一兩週，部分投資人對海外局勢、通脹形勢以及美聯儲是否加息存有疑慮，這些不確定因素會在中國端午節前逐步落地，中國股市新一輪上升視窗期開啟，中國市場三季度會有不錯的表現，有望走出新高。華泰證券認為，短期流動性預期變化（美聯儲加息預期、大型IPO分流資金）驅動風格再平衡，當前科技交易擁擠度仍待消化，霍爾木茲海峽放開預期下傳統行業或迎來修復視窗，但產業邏輯剪刀差和業績剪刀差並未反轉，後續隨著中報交易開啟，市場或重回科技主線。資料顯示，A500ETF南方（159352）緊密跟蹤的中證A500指數覆蓋A股大中盤優質龍頭企業，重點佈局新質生產力，憑藉規模、流動性等方面優勢，或是助力資金佈局後市機會的有力工具。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
+    },
+    {
+      "id": "mkt:019ec9d8-af97-7dd8-b000-121c9ce8ccb7",
+      "time": "2026-06-15 13:54:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Egypt's Foreign Ministry welcomed a US-Iran agreement to end the war, saying it could help restore regional and global security and stability."
+    },
+    {
+      "id": "mkt:019ec9d8-8f12-7dd8-b000-0da2625be9e2",
+      "time": "2026-06-15 13:54:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President VON DER LEYEN said the agreement should end Iran's nuclear program, its ballistic-missile program and its destabilizing activities in the region."
+    },
+    {
+      "id": "4935604",
+      "time": "2026-06-15 13:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及外交部發表宣告稱，埃及歡迎美伊達成終止戰爭的協議，稱該協議有助於恢復地區與全球的安全穩定。"
+    },
+    {
+      "id": "mkt:019ec9d8-6377-7dd8-b000-072ff57b2ba9",
+      "time": "2026-06-15 13:54:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "EU Commission President VON DER LEYEN said that with the conflict in Lebanon ongoing, peace in the Middle East cannot be achieved."
+    },
+    {
+      "id": "mkt:019ec9d8-4a37-7dd8-afff-fedc5fc5d8c0",
+      "time": "2026-06-15 13:54:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's National Security Minister Itamar Ben-Gvir said Israel loves the United States and thanks President Trump, but added it is not a country that can be manipulated at will by foreign powers."
+    },
+    {
+      "id": "4935603",
+      "time": "2026-06-15 13:53:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙特政府資料顯示，該國5月消費者物價指數環比上漲0.2%。"
+    },
+    {
+      "id": "4935601",
+      "time": "2026-06-15 13:53:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：對烏克蘭的軍事工業設施進行了大規模打擊。"
+    },
+    {
+      "id": "mkt:019ec9d7-50d0-7dd8-afff-f164cd244b29",
+      "time": "2026-06-15 13:53:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President von der Leyen said the agreement opens the door to broader negotiations on Middle East peace and security."
+    },
+    {
+      "id": "mkt:019ec9d7-4078-7dd8-afff-ec9672bd8286",
+      "time": "2026-06-15 13:53:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said it carried out large-scale strikes on Ukraine's military-industrial facilities."
+    },
+    {
+      "id": "4935600",
+      "time": "2026-06-15 13:52:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馮德萊恩：現在首要任務是各方迅速全面執行美伊協議】歐盟委員會主席馮德萊恩：歡迎美國與伊朗在多方夥伴持續外交努力下達成的協議。 現在首要任務是各方迅速全面執行該協議。 這項協議應允許霍爾木茲海峽立即重新開放。 必須恢復免通航費用的航行自由。 這對地區穩定和全球經濟至關重要。 它為中東和平與安全更廣泛的談判開啟了大門。"
+    },
+    {
+      "id": "mkt:019ec9d6-d082-7dd8-afff-e703a156de7d",
+      "time": "2026-06-15 13:52:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "European Commission President Von der Leyen said any Iran–US agreement should allow the Strait of Hormuz to reopen immediately."
+    },
     {
       "id": "4935599",
       "time": "2026-06-15 13:50:34",
@@ -167250,115 +167381,6 @@
         "Impact bearish"
       ],
       "text": "【SEB economists: ECB may pre-emptively hike this week】SEB economists Pia Fromet and Markus Weiden say the ECB could raise its policy rate by 25bps at Thursday’s meeting. Rising energy prices present upside inflation risk and may prompt a pre-emptive move because indirect and second‑round effects have not yet appeared in the data. They expect LAGARDE to spend substantial time at the press conference on updated staff forecasts and risk assessment. Elevated uncertainty will be the focal point, supporting a wait‑and‑see bias thereafter, and the ECB is unlikely to pre‑commit to further hikes."
-    },
-    {
-      "id": "mkt:019ea5cd-854c-700a-8482-447e2e41fe7f",
-      "time": "2026-06-08 13:56:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "00568.HK",
-        "Impact bullish",
-        "02178.HK",
-        "01033.HK"
-      ],
-      "text": "Hong Kong-listed oil & gas equipment and services shares rallied in the afternoon: Shandong Molong (00568.HK) jumped over 30%, Baiqin Oilfield Services (02178.HK) rose over 9%, while Sinopec Oilfield Service (01033.HK) and MI Energy (01555.HK) also gained."
-    },
-    {
-      "id": "mkt:019ea5cd-72d1-700a-8482-3a7f17378024",
-      "time": "2026-06-08 13:56:05",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Mehr News Agency reported that air-defence systems in Kermanshah, western Iran, were activated Monday morning."
-    },
-    {
-      "id": "4923156",
-      "time": "2026-06-08 13:54:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗威脅打擊持續一週，以國家安全部長放狠話：德黑蘭今晚必須燃燒】6月7日晚，伊朗向以色列發射三波導彈，以回應以色列不斷升級對黎巴嫩的軍事行動。伊朗還警告以色列，若不停止“罪行”，伊朗的打擊會持續一週。以色列極右翼國家安全部長本-格維爾表在社交平臺上寫道：“德黑蘭今晚必須燃燒！”（參考訊息）"
-    },
-    {
-      "id": "mkt:019ea5cc-4b99-700a-8482-3301335b99e6",
-      "time": "2026-06-08 13:54:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Israeli military radio reported the Israel Defense Forces are preparing a large-scale mobilization of reservists."
-    },
-    {
-      "id": "4923155",
-      "time": "2026-06-08 13:54:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌1%，現報1429.50元。"
-    },
-    {
-      "id": "4923154",
-      "time": "2026-06-08 13:54:21",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【石油概念港股逆勢走強 山東墨龍一度漲超30%】石油概念港股午後逆勢走強。截至發稿，山東墨龍(00568.HK)漲28%，百勤油服(02178.HK)漲9%，中國海洋石油(00883.HK)漲2%。相關市場上，布倫特原油期貨漲超5%，報97.5美元/桶，WTI原油期貨現漲4.5%。此前伊朗一石化公司遭以軍空襲。"
-    },
-    {
-      "id": "4923153",
-      "time": "2026-06-08 13:54:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：亞美尼亞執政黨“公民契約黨”以49.81%的得票率贏得議會選舉。"
-    },
-    {
-      "id": "4923152",
-      "time": "2026-06-08 13:53:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "梅爾通訊社訊息：伊朗西部城市克爾曼沙赫的防空系統於週一凌晨啟動。"
-    },
-    {
-      "id": "4923151",
-      "time": "2026-06-08 13:53:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列國防軍（IDF）擬大規模動員預備役。"
-    },
-    {
-      "id": "4923150",
-      "time": "2026-06-08 13:52:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燒鹼連續主力合約日內跌4%，現報1857.00元。"
-    },
-    {
-      "id": "4923149",
-      "time": "2026-06-08 13:52:33",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【經濟學家：歐洲央行本週料將進行預防性加息】SEB經濟學家Pia Fromlet和Marcus Widen在一份報告中表示，歐洲央行料將在週四的會議上將政策利率上調25個基點。他們表示：“由於間接和第二輪通脹效應尚未在資料中顯現，能源價格上漲帶來的通脹風險將導致預防性加息。“他們預計歐洲央行行長克里斯蒂娜·拉加德將在新聞釋出會上花“大量時間”討論更新後的工作人員預測和風險評估。“不確定性將成為焦點，從而支援未來採取‘觀望’策略，”這些經濟學家說；他們預計歐洲央行不會對進一步加息作出預先承諾。"
     }
   ]
 }
