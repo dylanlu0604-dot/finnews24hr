@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-16 02:13:53",
+  "updated": "2026-06-16 02:17:57",
   "count": 18231,
   "items": [
+    {
+      "id": "mkt:019ecc80-27b9-7dd8-b015-6d1d3da74116",
+      "time": "2026-06-16 02:16:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said no one can predict when the Iranian regime will collapse, but other authoritarian regimes have fallen in similar circumstances."
+    },
+    {
+      "id": "te:economy:559108",
+      "time": "2026-06-16 02:15:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Brazil Industrial Confidence Falls Further in June — Brazil’s Industrial Business Confidence Index fell 0.5 point to 46.7 in June 2026 from the previous month, marking its 18th consecutive reading below the 50-point threshold. The Current Conditions Index declined 0.6 point to 42.3, driven mainly by a 0.9-point drop in assessments of companies’ own conditions to 45.4. Meanwhile, the indicator for the broader Brazilian economy slipped 0.1 point to 36.0, signaling a perception of worsening economic conditions. The Expectations Index also weakened, falling 0.4 point to 48.9. While expectations for the Brazilian economy edged up 0.1 point to 41.0, the indicator for companies’ own prospects declined 0.7 point to 52.8."
+    },
+    {
+      "id": "4937005",
+      "time": "2026-06-16 02:15:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡： 我們在加沙採取的行動，也會在北部地區復刻，並且我們已經對真主黨實施了決定性打擊。"
+    },
+    {
+      "id": "te:markets:559107",
+      "time": "2026-06-16 02:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Tumbles by 10.62% — Top commodity losers are Natural Gas UK (-10.62%), Natural Gas EU (-9.07%), Germany Natural Gas THE (-8.81%), Crude Oil WTI (-5.35%) and Brent Crude Oil (-4.90%). Gains are led by Natural gas (0.81%)."
+    },
+    {
+      "id": "4937004",
+      "time": "2026-06-16 02:14:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：無論是否達成協議，伊朗都不會擁有核武器。最重要的是，我們拯救了以色列，免受核武器毀滅的威脅。為了保護我們的國家，我們將在安全區駐留必要長的時間。"
+    },
+    {
+      "id": "mkt:019ecc7d-2e9a-7dd8-b015-6432a6e2807e",
+      "time": "2026-06-16 02:13:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Prime Minister Netanyahu said the situation has improved since Oct. 7, 2023, and that Gaza no longer poses a threat to Israel."
+    },
     {
       "id": "mkt:019ecc7c-0f75-7dd8-b015-5ad6b849d88a",
       "time": "2026-06-16 02:12:22",
@@ -167573,67 +167633,6 @@
         "Impact mixed"
       ],
       "text": "US tech reporter Mark Gurman said Apple (AAPL.O)'s latest release fell short of disruptive innovation but rebuilt the foundations of its major platforms with practical AI features, a markedly improved Siri and performance upgrades. Gurman said that is crucial because a slate of flagship devices running these operating systems will arrive over the next three years, and called the move the right decision."
-    },
-    {
-      "id": "mkt:019ea874-2543-733a-9234-0dc9f6cb3a4b",
-      "time": "2026-06-09 02:17:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) WWDC26 has concluded."
-    },
-    {
-      "id": "te:markets:557359",
-      "time": "2026-06-09 02:14:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Rises by 3.81% — Top commodity gainers are Natural Gas UK (3.81%), Natural Gas EU (3.68%), Germany Natural Gas THE (3.08%), Brent Crude Oil (1.32%) and Crude Oil WTI (0.95%). Biggest loser is Natural gas (-2.49%)."
-    },
-    {
-      "id": "4924609",
-      "time": "2026-06-09 02:14:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊聖城旅指揮官：從霍爾木茲海峽到曼德海峽，從波斯灣到紅海，將形成一條新的抵抗安全帶。"
-    },
-    {
-      "id": "4924608",
-      "time": "2026-06-09 02:14:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Siri AI推出自動校正功能】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。據介紹，在macOS 27、iOS 27 系統中，基於Siri AI推出系統級別的AI自動校正功能。該功能可以檢查當前文件中表述是否存在拼寫和語法錯誤，並提供最佳化和改進。公開資訊顯示，“Siri AI ”比之前的智慧助手版本更具對話性，功能也更強大。在對話中，“Siri AI”的聲音更加富有表現力，使用者可以自定義語速、語氣和口音。另外，“Siri AI”支援在系統範圍內使用，能夠讀取螢幕上的內容並與應用程式互動。同時，“Siri AI”配有獨立App，螢幕頂部的靈動島會冒出很大的氣泡。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ea871-5219-733a-9234-02d5c0836bea",
-      "time": "2026-06-09 02:14:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O): new operating system will launch this autumn."
-    },
-    {
-      "id": "4924607",
-      "time": "2026-06-09 02:13:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗指揮官卡阿尼宣佈，在主要航運航道沿線組建全新抵抗安全防線。"
     }
   ]
 }
