@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-15 08:49:15",
-  "count": 18335,
+  "updated": "2026-06-15 08:53:04",
+  "count": 18333,
   "items": [
+    {
+      "id": "4935087",
+      "time": "2026-06-15 08:52:39",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通：下調MiniMax至中性並下調目標價】 摩根大通稱，相比同行，自M2模型之後MiniMax尚未推出新的國產SOTA(最先進)模型，且從純模型能力角度，MiniMax仍在追趕階段。將公司評級下調至中性，並將其目標價從1100港元降至400港元。分析師Olivia Xu等在報告中指出，MiniMax對M3進行降價，向DeepSeek價格區間靠攏，而智譜今年以來API(應用程式介面)的價格漲了一倍，同時銷量保持增長。隨著行業變現路徑逐漸收斂至API、編碼、智慧體和企業工作流，模型能力領先性變得越來越關鍵，因為定價權將更多取決於能力，而不僅僅是產品覆蓋廣度或使用規模。將公司2026-2027年的營收預測上調34%-74%，但將2028-2030年的預測下調5%-21%。仍維持對智譜的超配評級，因其持續推出SOTA模型，商業價值兌現更加明確。"
+    },
+    {
+      "id": "mkt:019ec8c3-6f81-7dd8-aff9-fcdf9ae2c9a3",
+      "time": "2026-06-15 08:51:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 jumped 5.00% intraday to 69,348.55 points."
+    },
+    {
+      "id": "4935086",
+      "time": "2026-06-15 08:51:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濰柴動力：5月份重卡市場需求仍然強勁，行業銷量保持同比增長態勢】 濰柴動力(000338)在機構調研中表示，5月份重卡市場需求仍然強勁，行業銷量保持同比增長態勢。根據中汽協統計資料，2026年1-5月份重卡行業銷量54.4萬輛，同比增長23%。預計在國內外需求的雙重推動下，全年重卡行業銷量將保持穩定增長。在此背景下，公司精準突破細分市場，穩固行業領先優勢，著力最佳化產品與業務結構，重卡發動機銷量實現同比穩定提升。"
+    },
+    {
+      "id": "4935085",
+      "time": "2026-06-15 08:51:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲5%，至69322.76點，續創新高。"
+    },
+    {
+      "id": "te:markets:558843",
+      "time": "2026-06-15 08:50:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Prices Hit 8-Week Low — US gasoline prices declined to about $2.90 per gallon, the lowest since April 17, following reports that the US and Iran had reached a peace deal that could gradually normalize Middle East energy exports. President Donald Trump said on social media the deal was “now complete,” with the Strait of Hormuz to reopen without transit fees and the Iran blockade lifted once signed on June 19. Iranian Deputy Foreign Minister Kazem Gharibabadi also confirmed an agreement had been reached but said details would remain confidential until the signing ceremony. While the deal has eased supply concerns for Gulf producers and shippers, key hurdles remain before flows through Hormuz can fully resume, including mine clearance and uncertainty over Iran’s plans to tighten control over shipping. Producers also warned that full recovery could take months due to technical and geological challenges and infrastructure damage."
+    },
+    {
+      "id": "te:markets:558842",
+      "time": "2026-06-15 08:49:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Surge to Fresh Record Highs — The Nikkei 225 Index jumped nearly 5% to above 69,000 on Monday, setting new record highs as investors cheered a breakthrough agreement to end the conflict between the US and Iran that would reopen the Strait of Hormuz. Oil prices dropped to a two-month low following the announcement, easing inflation concerns and reducing cost pressures for major energy importers such as Japan. Meanwhile, the Bank of Japan is widely expected to raise interest rates this week to contain inflation and support the yen. Broader market sentiment was also lifted by SpaceX’s strong debut on Friday, reinforcing investor appetite for high-profile growth stories. Technology and AI-related shares led the advance, with Kioxia up 7.5%, Murata Manufacturing gaining 14.3%, SoftBank Group rising 9.4%, Advantest adding 7.1%, and Tokyo Electron climbing 7.5%."
+    },
+    {
+      "id": "4935084",
+      "time": "2026-06-15 08:49:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞 S&P/ASX 200 指數 上漲多達 1.5%，至 8,935.10 點，為 4 月 22 日以來最高。"
+    },
     {
       "id": "4935083",
       "time": "2026-06-15 08:48:28",
@@ -168399,94 +168468,6 @@
         "國際"
       ],
       "text": "菲律賓總統馬科斯：已下令棉蘭老島受影響地區各級別學校停課，復課時間另行通知。"
-    },
-    {
-      "id": "4922528",
-      "time": "2026-06-08 08:53:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓總統馬科斯：已指示所有政府官員在地震發生後立即採取行動。"
-    },
-    {
-      "id": "4922527",
-      "time": "2026-06-08 08:52:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "官方計票顯示：在秘魯總統選舉中，已完成近10%的選票統計，藤森慶子得票率為52.694%，暫居領先。"
-    },
-    {
-      "id": "4922526",
-      "time": "2026-06-08 08:52:20",
-      "tags": [
-        "市場",
-        "焦點",
-        "原創"
-      ],
-      "text": "【酒價內參6月8日價格釋出：茅臺系三連漲 總價創五天新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月8日整體繼續大幅回升。如果主要單品各取一瓶整體打包售賣，今日總售價為9918元，較昨日大幅上漲21元，創下近五天以來最高。市場已連續三日反彈，終端交投情緒回暖修復。今日除國窖1573與習酒君品價格下跌外，其餘品種全線上漲或持平。\n\n今日11大白酒單品八漲兩跌一平，贏家佔據絕對優勢。上漲方面，青花郎漲幅居前，上漲7元/瓶，重返690元上方；精品茅臺與古井貢古20均上漲6元/瓶，前者收穫三連陽，價格快速回升至月內次高位；水晶劍南春上漲5元/瓶，創下近一週最大漲幅，價格亦平近一月最高紀錄；洋河夢之藍M6+上漲4元/瓶；飛天茅臺上漲2元/瓶，連續三天上漲昨日漲幅尤為強勁；五糧液普五八代與青花汾20均小幅上漲1元/瓶。下跌方面，國窖1573跌幅居前，下跌6元/瓶，遭遇五連陰，再創月內新低；習酒君品下跌5元/瓶，近一個月其價格中樞持續下移。五糧液1618價格環比保持不變，近一月價格走勢頗為平穩。"
-    },
-    {
-      "id": "4922525",
-      "time": "2026-06-08 08:51:50",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本第一季度經濟增速下修但維持穩健 伊朗局勢致企業削減投資】儘管伊朗局勢動盪導致企業削減投資，今年年初日本經濟仍實現了穩健增長。日本內閣週一公佈的資料顯示，第一季度實際國內生產總值按年率計算增長1.8%，低於初步公佈的2.1%。企業投資按季環比增速從之前的0.3%下調至-0.7%。經濟學家曾預測GDP資料將下修，上週有報告顯示1月至3月期間日本大型企業削減了資本支出。伊朗衝突於該季度末開始升級，3月初油價飆升。修正後的資料仍表明，在穩健的消費支出和貿易支撐下，日本經濟總體保持韌性，其中人工智慧相關產品的需求為出口提供了重要推動力。週一的報告顯示，私人需求和出口資料維持不變，消費較上一季度增長0.3%。淨出口為經濟增長做出了貢獻。總體而言，這份報告應能使日本央行按計劃於下週加息，因為政策制定者已表示，只要保持經濟增長，就將繼續推進政策正常化。隨著伊朗戰爭的深入，企業投資表現如何仍有待觀察，這可能會對未來的經濟增長構成壓力。"
-    },
-    {
-      "id": "4922524",
-      "time": "2026-06-08 08:51:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將於6月19日發行1萬億韓元（6.451 億美元）1年期債券。"
-    },
-    {
-      "id": "mkt:019ea4b6-6d0b-7338-95ad-c1bf3f7aab99",
-      "time": "2026-06-08 08:51:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "Japan 30-year government bond yield rose 3 bps to 3.920%."
-    },
-    {
-      "id": "mkt:019ea4b6-4762-7338-95ad-be04edebdf7c",
-      "time": "2026-06-08 08:51:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's 5-year bond yield rose 2.0 bps to 1.940%."
-    },
-    {
-      "id": "4922523",
-      "time": "2026-06-08 08:50:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通鼎互聯等成立光學新公司，註冊資本8億元】企查查APP顯示，近日，通鼎光學（韶關）有限公司成立，註冊資本8億元，經營範圍包含：技術玻璃製品製造；光學玻璃製造；光纖製造；光纜製造；新材料技術推廣服務。企查查股權穿透顯示，該公司由通鼎互聯等共同持股。"
-    },
-    {
-      "id": "4922522",
-      "time": "2026-06-08 08:50:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部發布《2025年全國海水利用報告》】今天（6月8日），自然資源部發布的《2025年全國海水利用報告》顯示，我國海水利用產業實現穩步發展。《報告》顯示，2025年全國現有海水淡化工程167個，工程規模307.7萬噸/日，比2024年增加了22.1萬噸/日，分佈在遼寧、天津、河北、山東、江蘇、浙江、福建、廣東、廣西、海南10個沿海省份。2025年全國海水冷卻用水量1933.6億噸，比2024年增加了50.2億噸。遼寧、山東、江蘇、浙江、福建、廣東、廣西年海水冷卻用水量均超過百億噸。《報告》指出，“十四五”我國海水利用產業穩步發展，工程建設、裝備研發、標準體系建設成效突出。2025年全國海水淡化產業聯盟落地天津。沿海淡化工程有力保障重大工業、海島民生、海島旅遊用水。各地提速海水提鉀、提溴技術改造，海水提鋰、提氘、提鈾技術接連攻關，海水提鈾已實現近海真實環境下公斤級量產，海洋資源開發再獲新突破。"
     }
   ]
 }
