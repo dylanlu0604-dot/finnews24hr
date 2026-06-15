@@ -1,7 +1,152 @@
 {
-  "updated": "2026-06-15 14:24:43",
-  "count": 18206,
+  "updated": "2026-06-15 14:29:04",
+  "count": 18214,
   "items": [
+    {
+      "id": "4935683",
+      "time": "2026-06-15 14:28:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威統計局：預計2026年挪威本土國內生產總值增長1.7%，3月預估增幅為2.0%。"
+    },
+    {
+      "id": "te:economy:558926",
+      "time": "2026-06-15 14:27:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Saudi Arabia Wholesale Inflation Highest Since 2022 — Saudi Arabia’s annual wholesale price inflation accelerated to 4.6% in May 2026 from 3.3% in each of the previous two months. This marked the highest reading since October 2022, as price growth picked up mainly for other transportable goods, excluding metal products, machinery, and equipment (9.1% vs 6.4% in April), driven by a 59.0% increase in basic chemical prices and a 3.9% rise in refined petroleum product prices. Inflation also accelerated for agriculture and fishery products (3.0% vs 1.7%), reflecting higher prices for agricultural products (2.8%) and live animals and animal products (4.9%). Costs also rose faster for metal products, machinery, and equipment (1.5% vs 1.1%). Meanwhile, prices for ores and minerals continued to decline, though at a slower pace (-0.6% vs -0.3%), while food products, beverages, tobacco, and textiles slipped into deflation (-0.1% vs 0.8%). On a monthly basis, wholesale prices jumped 1.2%, following a 0.2% increase in April."
+    },
+    {
+      "id": "mkt:019ec9f6-cc4b-7dd8-b000-fc00d10dab4f",
+      "time": "2026-06-15 14:27:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Germany's foreign minister said Iran must no longer pose a threat."
+    },
+    {
+      "id": "4935682",
+      "time": "2026-06-15 14:27:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本研發出新型磁性儲存材料：資料切換速度可提升1000倍】據報道，日本量子科學技術研究開發機構的研究團隊開發出一種可由鐳射直接寫入的新型磁性儲存材料。其資料切換速度可達傳統電流驅動磁儲存器的約1000倍。該成果有望用於未來AI晶片和高速資訊系統，同時降低資料中心能耗。"
+    },
+    {
+      "id": "mkt:019ec9f6-854a-7dd8-b000-f66d8872edb3",
+      "time": "2026-06-15 14:27:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "German foreign minister on Iran: the Strait of Hormuz must be reopened to navigation and be free of any restrictions."
+    },
+    {
+      "id": "te:economy:558925",
+      "time": "2026-06-15 14:27:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Swedish Jobless Rate Rises to 9.4% — Sweden’s unemployment rate rose to 9.4% in May 2026 from 8.7% in the same month a year earlier. The total number of unemployed people increased by 48,700 from May 2025 to 548,800, including 274,500 men and 274,300 women, corresponding to unemployment rates of 9% and 9.8%, respectively. Among people aged 15-24, 206,500 were unemployed, corresponding to a youth unemployment rate of 28%, of whom 173,000 were full-time students. The number of long-term unemployed, defined as those jobless for at least 27 weeks, reached 178,000, including 84,000 women and 94,000 men. The average total number of hours worked per week stood at 163.1 million. Meanwhile, employment among people aged 15-74 rose by 73,100 from a year earlier to 5.3 million, including 2.784 million men and 2.515 million women. The average total number of hours worked per week stood at 155.9 million. On a seasonally adjusted basis, the unemployment rate was 8.7%, while the youth unemployment stood at 24.4%."
+    },
+    {
+      "id": "4935681",
+      "time": "2026-06-15 14:27:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長談及伊朗問題：霍爾木茲海峽必須恢復通航，不得設定任何限制。"
+    },
+    {
+      "id": "mkt:019ec9f6-5772-7dd8-b000-e9db8c31e55b",
+      "time": "2026-06-15 14:27:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde intends to remain in post amid turmoil at the ECB."
+    },
+    {
+      "id": "4935678",
+      "time": "2026-06-15 14:27:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：我認為完成我的任務是我的職責。"
+    },
+    {
+      "id": "4935677",
+      "time": "2026-06-15 14:26:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行行長：高企的能源價格正開始向經濟其他領域傳導】歐洲央行行長克里斯蒂娜・拉加德表示，高企的能源價格正開始向經濟其他領域傳導。她於週一接受採訪時稱：“近幾周，我們幾乎在各個領域都明顯感受到了通脹的間接影響。”受中東局勢推升物價壓力影響，歐洲央行上週開啟加息，這也是該行自 2023 年以來首次加息。央行官員不排除最早在 7 月議息會議上再度加息。德國聯邦銀行行長約阿希姆・納格爾等政策制定者認為，即便伊朗相關衝突很快結束，物價也可能在更長一段時間裡維持高位。借貸成本上升，令部分歐洲央行觀察人士擔憂經濟將受到衝擊。拉加德表示：“我聽到不少批評聲音，其中很多來自法國，我對此表示理解。有人認為加息舉措會扼殺經濟增長。但一旦通脹抬頭，我必須加以遏制。因為通脹一旦失控，想要再度管控，難度和代價都會大幅增加。長期高通脹對消費者和企業而言都無法承受，而我也將失職。”此番講話發表數小時前，美國與伊朗宣佈達成臨時協議，計劃重新開放霍爾木茲海峽。"
+    },
+    {
+      "id": "4935676",
+      "time": "2026-06-15 14:25:40",
+      "tags": [
+        "央行"
+      ],
+      "text": "拉加德：歐央行身陷風暴，我將留任。"
+    },
+    {
+      "id": "mkt:019ec9f4-fd6d-7dd8-b000-e794cb2ef70d",
+      "time": "2026-06-15 14:25:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The International Maritime Organization secretary-general said the agreement marks a return to peace, dialogue, multilateralism and diplomacy and is an important step toward restoring security in the Strait of Hormuz."
+    },
+    {
+      "id": "4935675",
+      "time": "2026-06-15 14:25:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股期貨走高，道瓊斯指數期貨漲1.05%，標普500指數期貨漲1.28%，納斯達克100指數期貨漲1.96%。"
+    },
+    {
+      "id": "4935674",
+      "time": "2026-06-15 14:24:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【匈牙利最大儲能專案投運 比亞迪提供魔方電池儲能系統】6月15日記者從比亞迪獲悉，由GreenvoltPower投資建設的匈牙利最大電池儲能專案近日正式投運。專案投運後，將顯著提升當地電網的調節能力和供電可靠性，助力匈牙利及中東歐地區可再生能源大規模併網。比亞迪儲能為該專案提供了288.6MWh魔方電池儲能系統，能夠滿足電網調頻、削峰填谷等多種應用需求。（新京報）"
+    },
+    {
+      "id": "mkt:019ec9f4-3e41-7dd8-b000-db83cc74a898",
+      "time": "2026-06-15 14:24:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IMO secretary-general welcomed the peace agreement reached among parties in the Strait of Hormuz conflict."
+    },
     {
       "id": "4935673",
       "time": "2026-06-15 14:23:29",
@@ -167365,67 +167510,6 @@
         "MKT News"
       ],
       "text": "【7.8 magnitude quake in southern Philippines kills 15, injures 134】The Philippine disaster agency said a magnitude-7.8 earthquake struck southern Philippines on the morning of the 8th, killing 15 people and injuring 134."
-    },
-    {
-      "id": "4923218",
-      "time": "2026-06-08 14:28:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓減災部門8日通報說，當天早上菲南部發生的7.8級地震已造成15人死亡、134人受傷。（新華社）"
-    },
-    {
-      "id": "te:markets:557154",
-      "time": "2026-06-08 14:27:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Ends at 2-Week Low, Down 3.5% — The TAIEX, Taiwan’s benchmark stock index, slumped 1,568 points, or 3.5%, to close at 43,503 on Monday, retreating for the third straight session and touching its lowest level since May 22. The decline tracked losses on Wall Street on Friday, where a tech selloff weighed on sentiment. Traders were also concerned that high interest rates could weigh on AI-related stocks. Caution also built amid escalating tensions in the Middle East after Israel launched retaliatory strikes on Iran following Tehran's attacks on northern Israel. All sectors traded in negative territory, with electronic technology plunging 3.7%, technology services slumping 5.1%, and energy minerals falling sharply by 4.9%. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, shed 3.0%. Other sharp losers included United Microelectronics (-8.0%), ASE Technology (-6.4%), Hon Hai Precision (-5.3%), MediaTek (-5.4%), and Delta Electronics (-2.0%)"
-    },
-    {
-      "id": "mkt:019ea5ea-503c-7cc3-8413-9b6433bb0e58",
-      "time": "2026-06-08 14:27:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【June 8: China agricultural wholesale price 200 index 113.23, down 0.27 points vs last Friday】Ministry of Agriculture and Rural Affairs monitoring: June 8 Agricultural Products Wholesale Price 200 Index 113.23, down 0.27 points vs last Friday; \"vegetable basket\" wholesale price index 113.28, down 0.31 points vs last Friday. As of 14:00 nationwide wholesale market average prices: pork 14.64 yuan/kg (-0.6% vs last Friday); beef 66.55 yuan/kg (-0.3%); mutton 63.89 yuan/kg (-0.5%); eggs 10.61 yuan/kg (+0.5%); dressed chicken 16.97 yuan/kg (-2.0%)."
-    },
-    {
-      "id": "4923217",
-      "time": "2026-06-08 14:27:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1845億元。"
-    },
-    {
-      "id": "4923216",
-      "time": "2026-06-08 14:27:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【閒魚變更負責人】天眼查App顯示，近日，浙江阿里巴巴閒魚網路科技有限公司發生工商變更，丁健卸任法定代表人、經理、董事，由王程遠接任，同時，財務負責人發生變更。該公司成立於2019年12月，註冊資本1000萬人民幣，經營範圍包括營業性演出、演出經紀、出版物網際網路銷售等，由浙江淘寶網路有限公司全資持股。"
-    },
-    {
-      "id": "4923215",
-      "time": "2026-06-08 14:26:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月8日：“農產品批發價格200指數”比上週五下降0.27個點】據農業農村部監測，6月8日“農產品批發價格200指數”為113.23，比上週五下降0.27個點，“菜籃子”產品批發價格指數為113.28，比上週五下降0.31個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.64元/公斤，比上週五下降0.6%；牛肉66.55元/公斤，比上週五下降0.3%；羊肉63.89元/公斤，比上週五下降0.5%；雞蛋10.61元/公斤，比上週五上升0.5%；白條雞16.97元/公斤，比上週五下降2.0%。重點監測的28種蔬菜平均價格為4.24元/公斤，比上週五下降0.9%；重點監測的6種水果平均價格為7.53元/公斤，比上週五下降0.4%。鯽魚20.17元/公斤，比上週五下降1.3%；鯉魚14.82元/公斤，比上週五下降0.7%；白鰱魚10.28元/公斤，比上週五下降2.0%；大帶魚40.18元/公斤，比上週五下降1.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與上週五相比價格升幅前五名的是冬瓜、洋白菜、巨峰葡萄、蔥頭和韭菜，幅度分別為4.9%、4.1%、1.3%、0.9%和0.8%；價格降幅前五名的是黃瓜、白蘿蔔、萵筍、西瓜和菠蘿，幅度分別為4.5%、3.4%、3.4%、3.1%和3.1%。"
-    },
-    {
-      "id": "4923213",
-      "time": "2026-06-08 14:25:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國機電商會副會長石永紅會見太陽能管理倡議執行長Rachel Owens一行】6月5日上午，中國機電商會副會長石永紅在北京會見了太陽能管理倡議（Solar Stewardship Initiative, SSI）執行長Rachel Owens一行。雙方圍繞光伏行業ESG標準合作等議題進行了深入交流並達成多項共識。太陽能管理倡議（SSI）是全球光伏領域首家專注於提供ESG認證解決方案的機構。截至2025年底，該倡議已覆蓋全球約70%的太陽能製造產能，其認證體系獲得世界銀行、亞洲開發銀行等國際機構及全球主流光伏採購商的認可。會談中，雙方介紹了各自機構情況，重點圍繞推動光伏行業ESG標準落地實施、共建可持續供應鏈合規體系、助力中國光伏企業適應國際市場準入要求等合作事宜進行了探討。商會機械行業部、國際聯絡部派員陪同會見。"
     }
   ]
 }
