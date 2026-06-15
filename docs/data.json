@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-15 20:45:26",
-  "count": 18271,
+  "updated": "2026-06-15 20:49:39",
+  "count": 18270,
   "items": [
+    {
+      "id": "te:markets:559067",
+      "time": "2026-06-15 20:48:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise on US-Iran Peace Deal — Futures tracking the S&P/TSX Composite Index moved higher on Monday after the US and Iran announced a preliminary peace agreement. The two countries reached an interim deal aimed at ending the conflict. US President Donald Trump said the agreement would halt hostilities and reopen the Strait of Hormuz. Oil prices fell, easing concerns that an energy-driven inflation spike could trigger a hawkish shift by global central banks. Bond yields declined, supporting banking stocks and the broader market as worries over higher borrowing costs faded. Meanwhile, gold prices advanced, providing support to mining shares. Investors are now focused on the US Federal Reserve's policy meeting, which concludes on Wednesday, with markets increasingly expecting policymakers to leave interest rates unchanged."
+    },
+    {
+      "id": "mkt:019ecb53-bc91-7dd8-b00d-d70f5a39fe40",
+      "time": "2026-06-15 20:48:43",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【Convera: sterling shows long-term structural shift since Brexit】Convera's George Vessey said the 2016 Brexit referendum has had a lasting impact on sterling. Since the vote, GBP/EUR has averaged 1.16 versus 1.27 in the prior decade, and GBP/USD has averaged 1.30 versus 1.60 previously. Vessey says sterling's market behaviour has structurally changed: it is now more sensitive to global risk appetite, protection against sterling moves has become more expensive, and the currency exhibits a persistent downside tilt."
+    },
+    {
+      "id": "4936643",
+      "time": "2026-06-15 20:48:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平潭發展：擬向東陽光出售東數一號1.30%股權 交易對價1.5億元】平潭發展(000592.SZ)公告稱，公司擬向廣東東陽光科技控股股份有限公司出售所持宜昌東數一號投資有限責任公司1.30%股權，交易對價1.5億元，東陽光以發行股份方式支付，發行價格為19.68元/股，公司獲配762.2萬股。本次交易屬於財務性投資，不會對公司日常經營造成重大影響。"
+    },
+    {
+      "id": "4936642",
+      "time": "2026-06-15 20:47:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙塔食品：對全資子公司絲源食品增資4500萬元】雙塔食品公告，煙臺雙塔絲源食品有限公司為煙臺雙塔食品股份有限公司全資子公司，現註冊資本500萬元人民幣。為滿足絲源食品業務開展及未來經營發展需要，公司擬使用自有資金向絲源食品增資4500萬元人民幣，增資後絲源註冊資本為5000萬元人民幣。公司本次對絲源食品增資完成後，不會導致公司合併報表範圍的變動。"
+    },
+    {
+      "id": "4936641",
+      "time": "2026-06-15 20:47:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技盤前漲7.63%，現報1056.50美元】美光科技盤前漲7.63%，現報1056.50美元。訊息面上，多家券商上調美光科技目標價並看好CPU需求帶動儲存晶片價格強勢延續至2027年下半年。"
+    },
+    {
+      "id": "4936640",
+      "time": "2026-06-15 20:47:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：智利央行購入2500萬美元。"
+    },
+    {
+      "id": "mkt:019ecb50-e528-7dd8-b00d-cffe9316575e",
+      "time": "2026-06-15 20:45:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China launches first national-level AI pilot testbed for metallurgy in Nanjing】China has launched its first national-level AI pilot testbed for the metallurgical sector in Nanjing, Jiangsu, to support transformation of the steel industry. The National AI-Enabled Steel Industry Application Pilot Base will act as a nationwide industry innovation and shared-application platform, focusing on high-quality industry datasets, proof-of-concept and pilot systems, AI toolkits and industry-scale models. The base is intended to tackle common barriers to deep AI adoption in steel by improving data quality, cutting model-training costs, scaling pilot trials and scenario validation, and lowering application thresholds."
+    },
+    {
+      "id": "te:economy:559066",
+      "time": "2026-06-15 20:45:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing Sales",
+        "Importance 1"
+      ],
+      "text": "Canadian Factory Sales Climb in April — Canada’s manufacturing sales rose 4.2% month-over-month to a record C$77.1 billion in April 2026, following a 3.4% increase in March and marking the strongest growth since February 2022. Sales increased in 17 of 21 subsectors. Petroleum and coal product sales surged 22.6% to another record high as several refineries ramped up production after maintenance shutdowns in March, while the closure of the Strait of Hormuz continued to support energy prices. Food product sales also reached a record high, rising 2.9%, led by higher grain and oilseed milling activity. In contrast, primary metal sales fell 4.6%, the largest decline among subsectors. Manufacturing sales rose in seven provinces, led by Alberta (16.7%) and Quebec (4.2%). Excluding petroleum and coal products, total manufacturing sales increased 1.4%."
+    },
+    {
+      "id": "mkt:019ecb50-3cac-7dd8-b00d-c4aa9ec995a2",
+      "time": "2026-06-15 20:44:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian officials will meet with the U.S. president during the G7 summit."
+    },
+    {
+      "id": "4936639",
+      "time": "2026-06-15 20:44:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭官員與美國總統將在七國集團峰會期間舉行會晤。"
+    },
     {
       "id": "4936638",
       "time": "2026-06-15 20:44:24",
@@ -167967,101 +168061,6 @@
         "公司"
       ],
       "text": "【太陽紙業：推出2026年限制性股票激勵計劃】6月8日，太陽紙業(002078)披露2026年限制性股票激勵計劃。公司擬定向發行A股普通股，向合計1489名激勵物件授予6300萬股第一類限制性股票，佔當前公司總股本的2.25%，首次授予價格為6.79元/股。本次激勵計劃有效期最長不超過60個月，將分三期解鎖，考核週期覆蓋2026至2028年。"
-    },
-    {
-      "id": "4924201",
-      "time": "2026-06-08 20:48:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "天娛數科：公司關注到近期有部分媒體對公司業務相關討論涉及“物理AI”概念，截至目前，公司沒有物理AI業務，未形成相關業務收入。"
-    },
-    {
-      "id": "4924200",
-      "time": "2026-06-08 20:48:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國電信加入Anthropic的“玻璃翼”計劃。"
-    },
-    {
-      "id": "4924199",
-      "time": "2026-06-08 20:48:10",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大指數期貨齊漲，道指期貨漲0.31%，標普500指數期貨漲0.85%，納指期貨漲1.60%。\n②德國DAX指數跌0.36%，英國富時100指數漲0.10%，法國CAC40指數跌0.19%，歐洲斯托克50指數跌0.05%。\n③WTI原油漲1.22%，報91.64美元/桶。布倫特原油漲1.62%，報94.61美元/桶。\n④從當地時間6月7日晚（北京時間6月8日凌晨）起，截至目前，伊朗和以色列已進行了數輪相互打擊。\n⑤摩根士丹利策略師表示，上週五美股因倉位調整引發的拋售是一次良性回撥。在企業盈利增長與經濟資料韌性的支撐下，團隊對股市整體仍持樂觀態度。而高盛集團指出，多項歷史指標顯示當前美國股市的樂觀情緒已明顯高於歷史平均水平，市場出現一定程度的過熱跡象，\n⑥石油輸出國組織（歐佩克）7日發表宣告說，7個“歐佩克+”主要產油國決定7月日均增產原油18.8萬桶。至此，主要產油國已連續四個月宣佈增產。\n⑦英偉達美股盤前漲超2%，此前公司宣佈與SK海力士與SK Telecom達成合作。\n⑧AMD美股盤前漲超4%，市調機構稱，AMD今年一季度的伺服器處理器銷量增長尤其強勁，拿到了33.2%的伺服器處理器市場份額。\n⑨康寧股價盤前上漲9%，此前亞馬遜宣佈達成協議。"
-    },
-    {
-      "id": "mkt:019ea746-9544-7886-8258-0eb28be4af54",
-      "time": "2026-06-08 20:48:01",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Tasnim News reported all flights in Iran have been cancelled until further notice."
-    },
-    {
-      "id": "4924198",
-      "time": "2026-06-08 20:47:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴克萊：Robotaxi成特斯拉AI戰略核心 但規模化拐點仍未到來】巴克萊在最新研報中指出，自動駕駛計程車（Robotaxi）是特斯拉AI戰略中最關鍵的一環。報告指出，特斯拉目前主要有三大增長引擎：FSD（完全自動駕駛）、Robotaxi和Optimus人形機器人。其中，Optimus擁有最大的潛在市場空間，但仍處於原型機階段；FSD已經開始創造收入，但市場空間相對有限。相比之下，Robotaxi既擁有巨大的潛在市場，又已經開始商業化運營，因此被巴克萊視為特斯拉當前最重要的AI業務。巴克萊給予特斯拉“等權重”評級，目標價360美元。"
-    },
-    {
-      "id": "4924197",
-      "time": "2026-06-08 20:47:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盈方微：交易方案調整構成重大調整】盈方微公告，公司於2026年6月8日召開董事會會議，審議透過了《關於本次交易方案調整構成重大調整的議案》《關於及其摘要的議案》等有關議案。對本次交易方案進行了調整，具體為：標的資產由上海肖克利100%股份和富士德中國100%股份調整為上海肖克利100%股權，交易對方由陶濤等8名交易對方和RJM Co. Limited等2名交易對方調整為陶濤等8名交易對方。定價基準日調整為2026年6月8日，發行股份的價格為6.85元/股。"
-    },
-    {
-      "id": "4924196",
-      "time": "2026-06-08 20:46:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗境內所有航班取消，直至另行通知。"
-    },
-    {
-      "id": "mkt:019ea745-6f88-7886-8258-074a9c743f07",
-      "time": "2026-06-08 20:46:45",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Banking sources said the Central Bank of the Republic of Turkey bought US$4.5 bln of foreign exchange last week. The central bank's gross reserves rose US$1.0 bln to US$160.0 bln and net reserves increased US$1.5 bln to US$47.5 bln."
-    },
-    {
-      "id": "4924195",
-      "time": "2026-06-08 20:45:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "銀行業人士稱，土耳其央行上週買入了45億美元的外匯。"
-    },
-    {
-      "id": "4924194",
-      "time": "2026-06-08 20:45:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "據銀行人士透露，土耳其中央銀行外匯淨儲備上週增加15億美元，升至475億美元。"
-    },
-    {
-      "id": "4924193",
-      "time": "2026-06-08 20:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "銀行人士稱，土耳其中央銀行總儲備上週增加10億美元，達到1600億美元。"
     }
   ]
 }
