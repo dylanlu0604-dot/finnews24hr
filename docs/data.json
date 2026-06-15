@@ -1,7 +1,327 @@
 {
-  "updated": "2026-06-15 20:28:14",
-  "count": 18257,
+  "updated": "2026-06-15 20:32:25",
+  "count": 18275,
   "items": [
+    {
+      "id": "mkt:019ecb44-2c5e-7dd8-b00d-3ad5ecbd3492",
+      "time": "2026-06-15 20:31:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Unfilled Orders (MoM) (Apr) | actual 1.3% | previous 2.4%"
+    },
+    {
+      "id": "mkt:019ecb44-1ee1-7dd8-b00d-36f6dbb3326a",
+      "time": "2026-06-15 20:31:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada April manufacturing inventory-to-shipments ratio 1.62% vs 1.69% prior."
+    },
+    {
+      "id": "mkt:019ecb44-0072-7dd8-b00d-2fa2d9132b2a",
+      "time": "2026-06-15 20:31:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Inventory-To-Sales Ratio (Apr) | actual 1.62% | previous 1.69%"
+    },
+    {
+      "id": "mkt:019ecb43-b12a-7dd8-b00d-20e4e0beaab2",
+      "time": "2026-06-15 20:31:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US New York Fed manufacturing new-orders index for June 3.5; prior 22.7."
+    },
+    {
+      "id": "mkt:019ecb43-843b-7dd8-b00d-1a0f2ccc8ba9",
+      "time": "2026-06-15 20:30:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed New Orders Index (Jun) | actual 3.5 | previous 22.7"
+    },
+    {
+      "id": "4936618",
+      "time": "2026-06-15 20:30:54",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大4月批發銷售月率 0.6%，預期0.1%，前值1.90%。"
+    },
+    {
+      "id": "te:economy:559062",
+      "time": "2026-06-15 20:30:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Housing Starts",
+        "Importance 1"
+      ],
+      "text": "Canada Housing Starts Fall 6.1% in May — Housing starts in Canada fell 6.1% from the previous month to a seasonally adjusted annual rate of 261.4 thousand in May 2026, well above market forcasts of 255.1 thousand units. Urban housing starts in centers with populations over 10,000 people fell to 247 thousand. In turn, rural starts were estimated to increase to 14,357 units."
+    },
+    {
+      "id": "mkt:019ecb43-4f1b-7dd8-b00d-145c6f75c0b2",
+      "time": "2026-06-15 20:30:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US New York Fed Empire State manufacturing prices received index 31.4 in June, down from 31.8 previously."
+    },
+    {
+      "id": "4936617",
+      "time": "2026-06-15 20:30:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國6月紐約聯儲製造業指數 5.7，預期14，前值19.6。\n美國6月紐約聯儲製造業就業指數 9.6，前值8.3。"
+    },
+    {
+      "id": "mkt:019ecb43-2731-7dd8-b00d-0a41eb58adcc",
+      "time": "2026-06-15 20:30:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Prices Received Index (Jun) | actual 31.4 | previous 31.8"
+    },
+    {
+      "id": "mkt:019ecb43-102b-7dd8-b00d-057e114a1be2",
+      "time": "2026-06-15 20:30:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US New York Fed manufacturing employment index (June) 9.6, up from 8.3 in May."
+    },
+    {
+      "id": "mkt:019ecb42-f278-7dd8-b00c-ff366c5289b2",
+      "time": "2026-06-15 20:30:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Employment Index (Jun) | actual 9.6 | previous 8.3"
+    },
+    {
+      "id": "4936616",
+      "time": "2026-06-15 20:30:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨：伊朗協議是以色列完全撤退的前奏。"
+    },
+    {
+      "id": "mkt:019ecb42-c526-7dd8-b00c-f4a6b66bff23",
+      "time": "2026-06-15 20:30:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada April manufacturing shipments m/m +4.2% (consensus +4.5%; prior +3.0%)."
+    },
+    {
+      "id": "mkt:019ecb42-c3fe-7dd8-b00c-eb51de2952ed",
+      "time": "2026-06-15 20:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Canada wholesale sales rose 0.6% MoM in April, stronger than the 0.1% consensus; prior month 1.9%."
+    },
+    {
+      "id": "mkt:019ecb42-c332-7dd8-b00c-e48b2deb270c",
+      "time": "2026-06-15 20:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US New York Fed manufacturing index for June 5.7, versus 14 expected and 19.6 prior."
+    },
+    {
+      "id": "mkt:019ecb42-a5ef-7dd8-b00c-dfde66d3d583",
+      "time": "2026-06-15 20:30:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "HEZBOLLAH says Iran accord is a prelude to Israel's complete withdrawal."
+    },
+    {
+      "id": "mkt:019ecb42-a553-7dd8-b00c-d1f0399dc17b",
+      "time": "2026-06-15 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (MoM) (Apr) | actual 0.6% | consensus 0.1% | previous 1.90%"
+    },
+    {
+      "id": "mkt:019ecb42-a1b8-7dd8-b00c-c8dcea4041f2",
+      "time": "2026-06-15 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Sales (MoM) (Apr) | actual 4.2% | consensus 4.50% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019ecb42-9c18-7dd8-b00c-c57cf10c750f",
+      "time": "2026-06-15 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Manufacturing Index (Jun) | actual 5.7 | consensus 14 | previous 19.6"
+    },
+    {
+      "id": "mkt:019ecb42-7a14-7dd8-b00c-bc1e17b5993b",
+      "time": "2026-06-15 20:29:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said Israel will have a voice."
+    },
+    {
+      "id": "mkt:019ecb42-6e06-7dd8-b00c-b4e8948f2bab",
+      "time": "2026-06-15 20:29:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said on Iran that Israel will certainly have a place in the new Middle East order."
+    },
+    {
+      "id": "mkt:019ecb42-2d61-7dd8-b00c-afba4608fd7b",
+      "time": "2026-06-15 20:29:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran to charge for shipping services related to Strait of Hormuz】Iranian media reported on the 15th that foreign ministry spokesman Baghaei said Iran will, during 'specific periods', assume responsibility for managing safe passage through the Strait of Hormuz and will charge for related shipping services."
+    },
+    {
+      "id": "4936615",
+      "time": "2026-06-15 20:29:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗：將對霍爾木茲海峽相關航運服務收費】據伊朗媒體15日報道，伊朗外交部發言人巴加埃當天表示，伊朗將在“特定時期內”負責霍爾木茲海峽安全通行管理，並將對相關航運服務收取費用。（新華社）"
+    },
+    {
+      "id": "4936614",
+      "time": "2026-06-15 20:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談及伊朗問題：以色列肯定會在新中東格局中佔有一席之地。"
+    },
+    {
+      "id": "4936613",
+      "time": "2026-06-15 20:29:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：希望本週公佈協議文字。"
+    },
+    {
+      "id": "4936612",
+      "time": "2026-06-15 20:28:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【七國集團宣告草案呼籲加強協調 應對人工智慧的“潛在風險”】根據媒體看到的一份可能會加以修改的宣告草案，七國集團領導人將“進一步討論人工智慧帶來的新興機遇和潛在風險，尤其是在金融領域”。法國總統馬克龍本週將在法國阿爾卑斯山小鎮Evian主持七國集團領導人會議。鑑於與美國在貿易、氣候等問題上存在分歧，就公報達成共識不再是優先事項。焦點反而一直是讓美國總統唐納德·特朗普能夠出席。這份草案基本上擱置了有爭議的話題，不過確實著重談到了人工智慧，呼籲加強協調。七國集團展開這場討論之際，美國政府已表示，願意動用非常權力，迫使人工智慧開發商按其要求處理潛在安全威脅，但6月份的一項行政令宣佈不會強制要求遵守。"
+    },
+    {
+      "id": "mkt:019ecb41-7ae9-7dd8-b00c-a1cfe39ab52d",
+      "time": "2026-06-15 20:28:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance hopes to release the agreement text this week."
+    },
+    {
+      "id": "mkt:019ecb41-3fe7-7dd8-b00c-99e91c9912c5",
+      "time": "2026-06-15 20:28:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Macron rejects repeal of French digital services tax after Trump threatens wine tariffs】French President Emmanuel Macron said France will not repeal its digital services tax, noting it has been adopted by several European countries and is part of French law: \"This digital tax is a policy that several European countries have already decided and implemented, and it is part of our law. It is not for the United States to decide European or French law — that's normal. At least as long as I remain in office, that will not change.\" The comments came at the G7 in Evian after former U.S. President Donald Trump warned he would impose 100% tariffs on French wine if France does not cancel the levy."
+    },
+    {
+      "id": "mkt:019ecb41-3428-7dd8-b00c-9132432e3743",
+      "time": "2026-06-15 20:28:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said some people in Israel welcome the agreement."
+    },
+    {
+      "id": "4936611",
+      "time": "2026-06-15 20:28:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：認為以色列內部有部分勢力支援該協議。"
+    },
+    {
+      "id": "4936610",
+      "time": "2026-06-15 20:27:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【加拿大支付服務商Nuvei以27.5億美元收購Payoneer派安盈】加拿大支付服務商Nuvei與Payoneer派安盈宣佈，雙方已達成最終協議，Nuvei將收購Payoneer派安盈。根據協議條款，Nuvei將以每股7.40美元現金收購Payoneer Global Inc.全部已發行且流通在外的普通股，本次交易的股權價值總額約為27.5億美元。據瞭解，合併後的公司將為企業提供一個統一的平臺，支援在190多個國家和地區接收、持有並管理資金。隨著交易完成，合併後的公司年收入將達到30億美元左右，年處理支付交易總額超過5000億美元，併為240多萬客戶提供服務。"
+    },
     {
       "id": "4936609",
       "time": "2026-06-15 20:27:20",
@@ -167782,141 +168102,6 @@
         "公司"
       ],
       "text": "【鼎龍股份：擬3000萬元擴建潛江CMP軟拋光墊生產線】鼎龍股份公告稱，旗下湖北鼎龍匯盛新材料有限公司擬近期啟動潛江園區第三條軟拋光墊生產線建設專案，重點佈局玻璃基板CMP拋光墊與大尺寸拋光墊兩大高階產品方向，規劃年產能30萬片，專案總投資3000萬元，預計2026年年底建成投產。該專案投資未達審議標準，不構成關聯交易和重大資產重組。此次投資將豐富產品矩陣，提升競爭力，但存在市場、經營和實施風險。"
-    },
-    {
-      "id": "4924159",
-      "time": "2026-06-08 20:32:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【杭州首個eVTOL整機總部落戶蕭山】據蕭山釋出，日前，國內混動傾轉旋翼eVTOL（電動垂直起降飛行器）企業追夢空天科技總部專案正式簽約落戶蕭山經濟技術開發區。這是杭州首個eVTOL整機總部專案。此次落戶的追夢空天總部園區專案，將重點打造生產製造、試飛交付、立體出行樞紐起降三大核心場景，並聚焦兩大核心主力機型——載人旗艦機型DF3000與載貨主力機型DF600，構建覆蓋研發、測試、適航審定、智慧製造、市場銷售、專業培訓、整機交付的全鏈條、閉環式產業體系。"
-    },
-    {
-      "id": "mkt:019ea737-ce49-799c-b571-6c2d1f7d93bf",
-      "time": "2026-06-08 20:31:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "Nasdaq-100 futures extend gains to 1.5%."
-    },
-    {
-      "id": "4924158",
-      "time": "2026-06-08 20:31:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印度航空與泰國國際航空擬簽署程式碼共享協議。"
-    },
-    {
-      "id": "mkt:019ea737-9674-799c-b571-6692cd455928",
-      "time": "2026-06-08 20:31:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Chile's international reserves totaled $52.2 billion in May."
-    },
-    {
-      "id": "mkt:019ea737-82b6-799c-b571-5f833434042d",
-      "time": "2026-06-08 20:31:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Chile posted a US$2.435 bln trade surplus in May; exports fell to US$9.54 bln and imports to US$7.11 bln."
-    },
-    {
-      "id": "4924157",
-      "time": "2026-06-08 20:31:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利5月份錄得24.35億美元的貿易順差。5月出口額降至95.4億美元，進口額降至71.1億美元。"
-    },
-    {
-      "id": "4924156",
-      "time": "2026-06-08 20:30:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST 國中：股票交易異常波動 基本面無重大變化】*ST 國中公告稱，公司股票於2026年6月4日、6月5日、6月8日連續三個交易日內收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司生產經營正常，控股股東及其一致行動人無籌劃重大事項，近期註冊的子公司未開展業務。公司擬回購股份用於員工持股或股權激勵。公司已被實施退市風險及其他風險警示，提醒投資者注意交易風險，理性投資。"
-    },
-    {
-      "id": "4924155",
-      "time": "2026-06-08 20:30:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨漲幅擴大至1.5%。"
-    },
-    {
-      "id": "mkt:019ea736-7f12-799c-b571-5357505c2ba6",
-      "time": "2026-06-08 20:30:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The IDF said sirens sounded and artillery was fired from Lebanon toward Israeli forces; rounds were intercepted before crossing the border into Israel."
-    },
-    {
-      "id": "4924154",
-      "time": "2026-06-08 20:30:08",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根士丹利：如果風險偏好改善且美聯儲避免加息，美元料將下跌】摩根士丹利策略師在一份報告中表示，如果風險偏好回暖且美聯儲避免加息，美元未來幾個月可能會走弱。他們表示，在美國利率沒有走高的情況下，積極的風險偏好對美元是不利的。不過他們表示，如果美國經濟表現優於其他國家導致美國利率升幅超過同行，結果將對美元更為有利。“在歐洲央行和日本央行預計都將於本月加息的背景下，利差收窄應會導致積極的風險情緒拖累美元。”DXY美元指數下跌0.2%，至99.921，摩根士丹利預計該指數將達到94.000。"
-    },
-    {
-      "id": "4924153",
-      "time": "2026-06-08 20:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【拉夫羅夫：當前很難評論烏克蘭問題的談判前景】俄羅斯外交部長拉夫羅夫6月8日表示，俄方願意遵循2025年俄美安克雷奇峰會達成的諒解，但遺憾的是，美國對重返這些諒解不感興趣。拉夫羅夫還提到，美國國務卿魯比奧日前在國會聽證會上稱“美國不能充當調解人，因為美國支援烏克蘭”，俄方對此感到擔憂。他同時指出，英國、法國、德國領導人日前在倫敦與澤連斯基簽署了一份檔案，約定向烏克蘭提供更多遠端武器，用於打擊俄羅斯領土，包括深入俄腹地。他說：“在這種情況下，我不知道還怎麼能談什麼談判。”拉夫羅夫認為，當前很難評論烏克蘭問題的談判前景。他同時強調，必須認真對待普京日前的表態：“目前一切不取決於談判，而取決於特別軍事行動。”（央視）"
-    },
-    {
-      "id": "4924152",
-      "time": "2026-06-08 20:29:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部確認美國境內新增兩起新大陸螺旋蠅案例。"
-    },
-    {
-      "id": "4924151",
-      "time": "2026-06-08 20:28:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列第12頻道電視臺8日援引以色列高階官員的話說，以色列應美國總統特朗普要求，暫停對伊朗的襲擊。(新華社）"
-    },
-    {
-      "id": "te:markets:557291",
-      "time": "2026-06-08 20:28:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Edges Down Below 100 — The dollar index edged lower below the 100 mark on Monday after climbing as high as 100.2 earlier in the session, as traders continued to assess the evolving situation in the Middle East. Reports indicated that Iran’s military had halted strikes against Israel but warned it would resume hostilities if Jerusalem continues operations in Lebanon. Meanwhile, President Trump said that Iran and Israel were seeking to reach a ceasefire agreement and that negotiations with Iran on a final deal were progressing. As a result, oil prices pared some of their earlier gains. However, concerns that a prolonged conflict with Iran could fuel inflationary pressures continued to weigh on sentiment, with the probability of a Fed rate hike as soon as October currently standing near 52%. Investors now await this week's US CPI and PPI reports for further clues on the inflation outlook. The dollar weakened across the board, with the largest declines recorded against the Australian dollar and the Japanese yen."
     }
   ]
 }
