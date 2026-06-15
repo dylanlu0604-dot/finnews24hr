@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-16 03:26:54",
-  "count": 18233,
+  "updated": "2026-06-16 03:30:59",
+  "count": 18228,
   "items": [
+    {
+      "id": "4937058",
+      "time": "2026-06-16 03:27:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "穆迪評級確認惠普公司Baa2評級，展望穩定。"
+    },
+    {
+      "id": "4937057",
+      "time": "2026-06-16 03:27:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美軍一架B-52轟炸機墜毀】據美國媒體15日報道，美國空軍一架B-52轟炸機當天上午從加利福尼亞州愛德華茲空軍基地起飛後不久墜毀。（新華社）"
+    },
     {
       "id": "4937056",
       "time": "2026-06-16 03:25:52",
@@ -167576,69 +167592,6 @@
         "公司"
       ],
       "text": "據NBC： 英偉達CEO黃仁勳拒絕沃倫本週的出庭作證邀請。"
-    },
-    {
-      "id": "mkt:019ea8b7-76d6-733a-9235-050e93b03deb",
-      "time": "2026-06-09 03:30:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Southwest Airlines (LUV.N) and Singapore Airlines have launched an interline partnership for through-transport services."
-    },
-    {
-      "id": "4924648",
-      "time": "2026-06-09 03:30:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國西南航空與新加坡航空啟動聯運合作。"
-    },
-    {
-      "id": "mkt:019ea8b6-f71a-733a-9234-fd0d8189307e",
-      "time": "2026-06-09 03:30:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil edges higher on the 8th】At the close, NYMEX July light crude (WTI) futures rose $0.76 to $91.30 a barrel, up 0.84%. ICE Brent August futures rose $1.16 to $94.25 a barrel, up 1.25%."
-    },
-    {
-      "id": "4924647",
-      "time": "2026-06-09 03:30:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "華納兄弟股價漲幅擴大至盤中高點2.1%。"
-    },
-    {
-      "id": "mkt:019ea8b6-87f8-733a-9234-f62ff363adea",
-      "time": "2026-06-09 03:29:55",
-      "tags": [
-        "MKT News",
-        "PSKY.O",
-        "Impact bullish"
-      ],
-      "text": "Paramount (PSKY.O) has made concessions to avoid state antitrust lawsuits."
-    },
-    {
-      "id": "4924646",
-      "time": "2026-06-09 03:29:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價8日微漲】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲76美分，收於每桶91.30美元，漲幅為0.84%；8月交貨的倫敦布倫特原油期貨價格上漲1.16美元，收於每桶94.25美元，漲幅為1.25%。"
-    },
-    {
-      "id": "4924645",
-      "time": "2026-06-09 03:28:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：派拉蒙作出讓步，以此規避美國各州提起的反壟斷訴訟。"
     }
   ]
 }
