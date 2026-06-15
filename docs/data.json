@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-16 00:30:31",
+  "updated": "2026-06-16 00:34:37",
   "count": 18350,
   "items": [
+    {
+      "id": "mkt:019ecc20-18b8-7dd8-b013-ddad1f39a9d2",
+      "time": "2026-06-16 00:31:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Trump: US-Iran pact text to be released after Friday signing; oil sharply lower, stocks higher】Speaking with Macron, Trump said the Strait of Hormuz will be fully open on Friday and the US-Iran agreement has been electronically signed. He said the agreement text will be released after Friday and that sanctions will not be lifted until Iran fulfills its obligations. Vice President Vance will sign the agreement; Trump said he may or may not sign. He said he seeks good relations with Iran under robust oversight and reiterated that Iran will not possess nuclear weapons. He added he hopes to resolve the Lebanon issue and noted oil prices are sharply lower while equities are rising."
+    },
+    {
+      "id": "4936979",
+      "time": "2026-06-16 00:31:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌：7 月 1 日，谷歌廣告將更新適用於美國地區的博彩及遊戲專項政策條款。"
+    },
     {
       "id": "mkt:019ecc1c-1b70-7dd8-b013-d7adf13be884",
       "time": "2026-06-16 00:27:34",
@@ -168707,26 +168731,6 @@
         "MKT News"
       ],
       "text": "CDC Foundation launches emergency response fund to support Ebola response in the Democratic Republic of the Congo and Uganda."
-    },
-    {
-      "id": "4924490",
-      "time": "2026-06-09 00:33:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心基金會：啟動應急響應基金，支援剛果民主共和國與烏干達的埃博拉疫情應對工作。"
-    },
-    {
-      "id": "mkt:019ea814-820b-733a-9231-9f641fcd3d80",
-      "time": "2026-06-09 00:32:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Former US defense secretary: US can reopen Strait of Hormuz but sustaining it would be costly and require allies】Former US defense secretary Lloyd Austin said the US Navy can reopen the Strait of Hormuz, a key oil and gas shipping route, but that keeping it open long term would be costly and would require allied participation. Austin said if the US takes action to restore passage, it would seek partners to share the burden because freedom of navigation matters globally. He added that Israel’s ongoing strikes on HEZBOLLAH are a major obstacle to broader diplomatic efforts to end the war and urged de‑escalation so negotiations can proceed."
     }
   ]
 }
