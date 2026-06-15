@@ -1,7 +1,365 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-15 08:05:52_
-_本檔包含 3580 則快訊，約 662596 字_
+_更新時間：2026-06-15 08:56:52_
+_本檔包含 3548 則快訊，約 662694 字_
+
+---
+
+### 2026-06-10 14:24:20  #Trading Economics #Economy #Egypt #Inflation Rate #Importance 1
+
+Egypt Inflation Rate at 3-Month Low of 14.6% — Egypt’s annual urban inflation slowed to 14.6% in May 2026 from 14.9% in April, slightly above market expectations of 14.5%. It was the lowest inflation rate since February, as the impact of higher fuel prices continued to fade. Egypt raised fuel prices in early March by about 14% to 17% across a wide range of petroleum products, the first increase this year, amid a surge in oil prices. On a monthly basis, the CPI rose 1.6%, accelerating from a 1.1% increase in the previous month.
+
+---
+
+### 2026-06-10 14:23:47  #其他
+
+【“網上反映一水泥經銷店有殘障人員長期從事搬運作業”，當地通報】經初步調查，該殘障人員系外市村民丁某某（男，66歲），約二十年前到我區臧村鎮劉莊村，後與水泥經銷店經營者安某某（男，57歲）同處居住，為其幹活。事件發生後，我區於6月7日下午為丁某某安排了全面體檢，體檢結果未見異常，並對其妥善安置。同時，公安機關對丁某某開展DNA資訊比對工作，6月9日已為其找到親屬。目前，公安機關已對安某某依法採取刑事拘留強制措施，案件正在進一步偵辦中。
+
+---
+
+### 2026-06-10 14:23:08  #公司
+
+【西門子電氣傳動公司變更法定代表人】天眼查App顯示，近日，西門子電氣傳動有限公司發生工商變更，王海濱卸任法定代表人，由杜春嶺接任。該公司成立於1995年2月，註冊資本約2814萬歐元，經營範圍包括電機制造、機械電氣裝置製造、通用裝置製造等，由西門子（中國）有限公司、天津百利機械裝備集團有限公司、天津電氣科學研究院有限公司共同持股。
+
+---
+
+### 2026-06-10 14:23:01  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share electronic chemicals sector rallied; CSSC Special Gas jumped over 18%, Zhongjuxin rose about 12%, and Tongyu New Materials, Hongchang Electronics and Fangbang Co. also gained.
+
+---
+
+### 2026-06-10 14:22:26  #公司
+
+【奕東電子成立智算技術公司，含AI及積體電路晶片業務】企查查APP顯示，近日，奕東智算技術（深圳）有限公司成立，經營範圍包含：積體電路設計；積體電路銷售；積體電路晶片設計及服務；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由奕東電子全資持股。
+
+---
+
+### 2026-06-10 14:22:14  #Trading Economics #Economy #Sweden #Industrial Production #Importance 1
+
+Sweden Industrial Output Growth at 7-Month High — Industrial production in Sweden grew by 7.1% year-on-year in April 2026, accelerating from an upwardly revised 3.4% rise in the previous month. This marked the strongest growth in industrial activity since last September, driven largely by a rebound in mining output, which rose 2.3% after falling 6.4% in March, as metal ore mining returned to growth (0.6% vs -7.2%), while contractions in other mining and quarrying activities eased (-1.1% vs -1.2%). Additionally, manufacturing production climbed by 7.2% (vs 3.8%), marking its fastest rise in seven months, supported mainly by higher output for coke and refined petroleum products (18.9% vs 19.4%), chemical and pharmaceutical products (12.6% vs 20.8%), and other non-metallic mineral products (8.9% vs 1.9%). On a seasonally adjusted monthly basis, industrial output rose by 4.2% in April, rebounding from a downwardly revised 1.6% drop in the preceding period.
+
+---
+
+### 2026-06-10 14:22:05  #公司 #市場
+
+【電子化學品板塊震盪拉昇，中船特氣漲超18%】電子化學品板塊震盪拉昇，中船特氣漲超18%，中巨芯漲超12%，同宇新材、宏昌電子、方邦股份跟漲。
+
+---
+
+### 2026-06-10 14:21:49  #Trading Economics #Economy #Saudi Arabia #Industrial Production #Importance 1
+
+Saudi Industrial Output Tumbles Most Since 2021 — Industrial production in Saudi Arabia plunged 19.1% year-on-year in April 2026, slipping further from an upwardly revised 15.8% drop in the previous month. It marked the steepest annual decline since April 2021, as oil-related activities slumped 27.8%, weighed down by sharp contractions in crude petroleum and natural gas extraction (-29.9%) and in coke and refined petroleum products (-18.7%). Meanwhile, non-oil activities expanded 2.1%, supported by growth in manufacturing (0.3%), particularly in the manufacture of non-metallic mineral products (5.7%) and basic metals (10.4%). Output also increased in other economic activities (4.1%), driven by gains in electricity, gas, steam and air-conditioning supply (20.8%) and water supply, sewerage, waste management and remediation activities (8.8%). On a monthly basis, industrial output fell 6.8%, easing sharply from an upwardly revised 23.8% slump in March.
+
+---
+
+### 2026-06-10 14:21:07  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude was down 1.0% intraday at $90.19/bbl.
+
+---
+
+### 2026-06-10 14:20:49  #公司
+
+【美銀：上調甲骨文目標價至240美元，重申“買入”評級】美銀證券發表報告指，自第三財季業績公佈以來，甲骨文已上漲逾30%，自該行3月重新覆蓋以來上漲了逾45%，這主要與更廣泛的軟體市場走強以及近期500億美元的債務和股權融資後資金壓力減輕有關。在最新業績公佈前，該行預期市場關注的關鍵領域將集中在：(1)資料中心建設及收入確認的速度，(2)與資料中心建設相關的資本支出和融資需求，以及(3)核心業務的持續強勢。該行重申甲骨文“買入”評級，並將目標價從200美元上調至240美元，基於該行明年5月底止2027財年每股盈利預估的26.5倍(此前為22倍)，因為雲端基礎設施和資料庫工作負載的潛在需求趨勢依然強勁。
+
+---
+
+### 2026-06-10 14:20:34  #MKT News
+
+Korea Daily News reports South Korea's deputy finance minister will visit the United States.
+
+---
+
+### 2026-06-10 14:20:19  #MKT News
+
+Australia's S&P/ASX 200 closed up 37.40 points (+0.43%) at 8,641.60 on June 10 (Wednesday).
+
+---
+
+### 2026-06-10 14:20:06  #公司
+
+【深城交攜手南科大海洋高等研究院 共築“AI+海洋低空”科教融合新正規化】6月9日上午，南方科技大學海洋高等研究院（簡稱“海高院”）與深城交科技集團股份有限公司（簡稱“深城交”）在深城交龍華總部大樓正式簽署戰略合作協議，併為共建的創新平臺“人工智慧和數字孿生聯合實驗室”“海洋低空經濟產學研用聯合實驗室”揭牌。根據協議，雙方將以人工智慧為核心驅動力，深化近海、深海低空技術、精準氣象、智慧校園無人智慧系統等領域合作；依託深城交大鵬低空測試基地和深圳海洋大學校園等場景，共建具身機器人等聯合實驗室及工程訓練中心，聯合培養國際化人才，加快科技成果轉化，著力打造智慧海洋科教融匯與產教融合的示範樣板。
+
+---
+
+### 2026-06-10 14:19:23  #市場 #焦點
+
+布倫特原油失守91美元/桶，日內跌0.51%。
+
+---
+
+### 2026-06-10 14:18:52  #公司 #國際
+
+【中東海灣地區緊張局勢再度升級，中國駐科威特大使館提醒在科中國公民加強安全防範】據“中國駐科威特大使館”公眾號訊息，近期，中東海灣地區緊張局勢再度升級，科威特多次遭受空襲，造成人員傷亡和財產損失。6月10日凌晨，科再次遭到襲擊，防空系統進行了攔截。
+中國駐科威特大使館再次提醒在科中國公民和中資機構：
+密切關注安全形勢和科有關部門釋出的公告和警報，提高安全防範意識，減少非必要出行和跨區域流動，遠離軍事基地和可能遭受打擊的敏感設施，並嚴格遵守當地法律法規，切勿拍攝釋出涉軍事行動或機場、港口、軍事設施等敏感區域的影像。
+聽到空襲警報後，迅速進入地下室等安全掩體或遠離窗戶的房間避險。如發現任何疑似由攔截行動產生的墜落物，請勿靠近或觸碰，不要在現場周圍聚集，不要對現場進行攝影攝像,更不要在社交媒體上傳播。
+如遇緊急情況，請第一時間報警並與中國駐科使館聯絡。
+
+---
+
+### 2026-06-10 14:18:47  #Trading Economics #Economy #Denmark #Inflation Rate #Importance 1
+
+Denmark Inflation Rises to 1.9% in May — The annual inflation rate in Denmark increased to 1.9% in May 2026 from 1.4% in April, marking the highest level since last December. Transportation costs remained the main driver of the increase (5.3% vs 3.3% in April), led by petrol (20.4% vs 14.6%). Additional upward pressure came from higher prices for housing and utilities (0.4% vs 0%), information and communication (4.2% vs 4.0%) and recreation, sport and culture (3.5% vs 0.7%), as well as a sharp rebound in prices for restaurants and hotels declined (4.9% vs -0.9%). In contrast, food prices decreased (-0.3% vs 2.7%), while inflation eased mainly for personal care and miscellaneous goods and services (1.9% vs 2.1%). On a monthly basis, the CPI rose 0.6%, following a 0.2% increase in April. Meanwhile, core inflation, which excludes energy and unprocessed food, picked up to 2.1% in May from a thirteen-month low of 1.6% in April.
+
+---
+
+### 2026-06-10 14:17:51  #國際
+
+市場訊息：韓國副財長將出訪美國。
+
+---
+
+### 2026-06-10 14:17:11  #MKT News
+
+【Xian Hui leads CPPCC delegation to Vietnam】CPPCC Vice Chairman Xian Hui led a delegation to Vietnam from June 8-10, meeting Vietnam Politburo member and Secretariat standing secretary Chen Jinxiu, Politburo member and Vietnam Fatherland Front chair Pei Shiminghuai, and Vietnam Fatherland Front vice chair Huang Gongshui. Xian said CHINA and Vietnam’s general secretary and president Su Lin recently held in-depth talks on broad strategic issues and outlined a blueprint for a higher-level, strategic China–Vietnam community of shared destiny. China, he said, will follow top leaders’ strategic guidance to deepen mutually beneficial cooperation and advance construction of the China–Vietnam community; the CPPCC stands ready to contribute.
+
+---
+
+### 2026-06-10 14:16:25  #宏觀 #國際 #兩會
+
+【鹹輝率全國政協代表團訪問越南】6月8日至10日，全國政協副主席鹹輝率團訪問越南，分別會見越共中央政治局委員、中央書記處常務書記陳錦繡，越共中央政治局委員、祖國陣線中央委員會主席裴氏明懷，與祖國陣線副主席黃功水會談。 鹹輝表示，不久前中共中央總書記、國家主席習近平同訪華的越共中央總書記、國家主席蘇林就共同關心的全域性性、戰略性問題深入溝通，為構建更高水平具有戰略意義的中越命運共同體擘畫藍圖。中方願同越方一道，遵照兩黨兩國最高領導人戰略指引，深化互利合作，推動中越命運共同體建設走深走實。中國全國政協願為此作出貢獻。 越方表示，願與中方共同落實好兩黨兩國最高領導人共識，深化治黨治國理政經驗交流，加強經貿、科技、基礎設施等領域務實合作。(新華社)
+
+---
+
+### 2026-06-10 14:16:15  #MKT News
+
+【Tsinghua University (Computer Science)–iSoftStone AI Systems Joint Research Center established】Tsinghua University’s Department of Computer Science and iSoftStone Co., Ltd. have launched an AI systems joint research center to build a high-level, integrated industry–academia–research innovation platform focused on core AI foundational software and hardware technologies, aimed at advancing autonomous, China-controlled foundational AI infrastructure and supporting high-quality development of China’s AI industry.
+
+---
+
+### 2026-06-10 14:15:56  #公司
+
+【諾德股份等投資成立能源管理新公司】企查查APP顯示，近日，深圳時宜能源管理有限公司成立，註冊資本1000萬元，經營範圍包含：合同能源管理；節能管理服務；太陽能發電技術服務；光伏發電裝置租賃等。企查查股權穿透顯示，該公司由諾德股份旗下諾德智慧能源管理有限公司等共同持股。
+
+---
+
+### 2026-06-10 14:15:15  #國際
+
+【韓國曝出AI眼鏡作弊案 考慮高考禁用同類用品】韓國考試機構10日說，兩名考生近日在託業(TOEIC)英語能力考試中利用AI智慧眼鏡作弊，受到嚴肅處理。這一新型作弊方式引起重視，韓國教育部門考慮高考禁用這類用品。韓聯社10日以考試機構為訊息源報道，這兩名考生分別在5月10日、5月31日的考試中被監考人員發現形跡可疑，經查兩人佩戴AI眼鏡進行作弊。依據考試相關規定，兩人本次考試成績作廢，且今後4年內不得再次參加託業考試。（新華社）
+
+---
+
+### 2026-06-10 14:13:56  #Trading Economics #Economy #Norway #Inflation Rate #Importance 1
+
+Norway Inflation Rate Hits 3-Month Low — Norway’s annual inflation rate eased to 3.1% in May 2026 from 3.4% in the previous month, pointing to the lowest reading since February. Price growth slowed for food and non-alcoholic beverages (3.4% vs 6.6% in April), alcoholic beverages and tobacco (3.0% vs 3.5%), housing and utilities (2.8% vs 3.6%), and recreation and culture (3.8% vs 4.0%). Meanwhile, inflation held steady for education services (at 2.4%). Simultaneously, prices for personal care and miscellaneous goods remained in deflation (-1.5% vs -1.3%). In contrast, costs accelerated for clothing (1.8% vs 1.5%), furnishings and household equipment (2.3% vs 0.3%), health (4.1% vs 3.4%), transport (2.6% vs 2.4%), and restaurants and accommodation services (6.2% vs 5.8%). Meanwhile, the CPI-ATE, which excludes energy and tax effects, increased 3.4% year-on-year, marking the highest level in four months and accelerating from April's 3.2%. On a monthly basis, the CPI rose 0.2%, slowing from a 0.2% gain in April.
+
+---
+
+### 2026-06-10 14:13:42  #MKT News
+
+UKMTO received a report of an incident 88 nautical miles southwest of Balhaf, Yemen. A cargo ship reported a small craft carrying six armed personnel approached, shots were exchanged, and the small craft then turned away.
+
+---
+
+### 2026-06-10 14:13:39  #市場
+
+澳大利亞S&P/ASX 200指數收盤上漲0.6%，至8,653.30點。
+
+---
+
+### 2026-06-10 14:13:38  #MKT News #Market Themes #AI Revolution #China Tech Giants
+
+【ByteDance launches carve-out and fundraising for AI drug unit as AI4S enters industrialization】ByteDance has launched a carve-out and independent financing process for its AI drug unit while retaining a controlling stake. The new entity will take the unit's core team, AI4S algorithms, technology platform and existing pipeline assets and will continue to receive compute from Volcano Engine. The unit, founded in 2021 and led by Liu Kai, comprises about 50 core members of AI4S algorithm engineers and senior pharmaceutical experts. The team has handled work from foundational model research through industrialization.
+
+---
+
+### 2026-06-10 14:13:22  #其他
+
+英國海上貿易行動辦公室（UKMTO）表示，在葉門巴爾哈夫西南88海里處發生一起事件。一艘貨船報告稱，一艘載有6名武裝人員的小船曾試圖靠近該船。小型船隻與貨船武裝安保團隊發生交火，最終小型船隻駛離。
+
+---
+
+### 2026-06-10 14:12:59  #公司
+
+【位元組 AI 製藥開啟拆分融資，AI4S 進入產業化階段】據悉，位元組跳動AI製藥業務線已啟動拆分與獨立融資程序。據悉，拆分後位元組仍將控股新公司，AI製藥核心團隊、核心演算法、技術平臺和已有管線資產將整體進入新主體。同時，該業務也將繼續從火山引擎獲得算力支援。新公司將由位元組跳動AI製藥團隊主導負責。位元組AI製藥團隊成立於2021年，由劉凱負責，據悉核心成員約50人，由AI4S演算法人才和資深製藥領域專家構成。該團隊自成立起便承擔著從基礎模型研究到產業化的核心職能。此前位元組內部負責蛋白結構預測模型的相關團隊，也已併入由劉凱負責的AI製藥團隊，相關演算法模型團隊已完成整合，將繼續推進該領域的基礎模型研究，少數人員離職。位元組AI製藥的業務進展，是這次拆分融資的重要基礎。位元組跳動在AI製藥方向有多個技術成果，2025年，位元組AI4S團隊釋出了分子結構預測模型Protenix和Seedfold，並在2026年迭代Protenix-v1/v2，構建面向蛋白、配體等生物複合體系的高精度開源結構預測能力。在蛋白質設計和預測方面，團隊則推出了PXDesign等蛋白binder（結合蛋白）設計工具。(36氪)
+
+---
+
+### 2026-06-10 14:12:51  #MKT News #TSM.O #Impact bullish
+
+【TSMC CFO says inflation may prompt chip price increases but rejects sudden 4–5x jump】TSMC CFO Huang Jen-hao said inflation is raising the company’s operating costs and he did not rule out raising chip prices to offset higher costs, but he rejected the prospect of a sudden 4–5x price increase.
+
+---
+
+### 2026-06-10 14:12:10  #公司 #市場
+
+【派安盈回應收購傳聞：投資方關注增加是正常現象】6月9日，有市場訊息稱，加拿大支付企業Nuvei洽談以27億美元收購美股上市支付公司Payoneer（派安盈）。當日，Payoneer Global股價大漲24%。針對收購的市場傳聞，Payoneer方面獨家回應記者稱，在當前金融科技及支付行業的環境下，戰略及財務投資方對具備差異化優勢的優質資產關注增加是正常的現象。Payoneer方面強調，目前運營一切正常，會繼續圍繞既定戰略把事情做好，並始終致力於支援客戶發展，並將持續投入人才建設，服務客戶，深化與合作伙伴的協同，推動穩健、可持續的增長，並持續為股東創造價值。（介面新聞）
+
+---
+
+### 2026-06-10 14:11:57  #其他
+
+英國海事技術辦公室收到報告稱，在葉門巴爾哈夫西南88海里處發生一起事件。
+
+---
+
+### 2026-06-10 14:11:45  #公司
+
+【臺積電CFO：不排除調漲晶片價格 但不會突然暴漲四、五倍】臺積電首席財務官(CFO)黃仁昭近日在接受採訪時表示，通貨膨脹正在推高該公司的運營成本，並表示不排除對晶片提價的可能性。不過，黃仁昭同時也表示，臺積電不會突然漲價“四、五倍”。
+
+---
+
+### 2026-06-10 14:10:45  #公司
+
+【勤上股份成立晶躍科技公司，含半導體相關業務】企查查APP顯示，近日，廣東晶躍科技有限公司成立，經營範圍包含：半導體照明器件銷售；照明器具銷售；光電子器件銷售；節能管理服務等。企查查股權穿透顯示，該公司由勤上股份全資持股。
+
+---
+
+### 2026-06-10 14:09:14  #MKT News #Market Themes #AI Revolution #Chip Wars #TSM.O #Impact bullish #Nasdaq100
+
+【TSMC May sales up 30% as AI chip demand stays strong】Benefiting from global AI infrastructure build-out, TSMC reported May revenue of NT$416.98bn (USD13.2bn), up about 30% YoY. April–May combined revenue rose roughly 24% YoY. Analysts expect Q2 sales to increase about 35%. Chairman C.C. Wei said earlier this month global chip supply will be unable to meet demand for years. In April TSMC raised its full-year sales guidance and said capex will trend toward the top of its current range, with 2026 capex potentially reaching up to USD56bn.
+
+---
+
+### 2026-06-10 14:08:31  #Trading Economics #Economy #Sweden #Monthly GDP MoM #Importance 1
+
+Swedish Economic Activity Eases in April — The Swedish economy advanced 0.5% month-on-month in April 2026, following a downwardly revised 1.5% expansion in the previous month, marking the second consecutive month of GDP growth. “The Swedish economy saw continued growth in April, although at a somewhat more modest pace compared to the strong figures we saw in March. Growth was relatively broad-based, with increases in production in general government as well as across both goods- and service-producing industries, with particularly high growth rates seen in industrial production,” said Mattias Kain Wyatt, economist at Statistics Sweden. On a yearly basis, the economy grew 2.4% in April, easing from an upwardly revised 2.8% expansion in March.
+
+---
+
+### 2026-06-10 14:08:09  #國際
+
+以色列國防軍稱在加沙擊斃了哈馬斯關鍵的資金轉移人員。
+
+---
+
+### 2026-06-10 14:07:33  #其他
+
+【北京延慶、房山、豐臺釋出冰雹黃色預警】延慶慶區氣象臺2026年6月10日12時25分發布冰雹黃色預警訊號：受雷雨雲團影響，目前延慶區已出現冰雹天氣。預計當前至傍晚，延慶區仍有分散性冰雹天氣，請注意防範。房山區氣象臺2026年6月10日12時55分發布冰雹黃色預警訊號：預計當前至傍晚，受雷雨雲團影響，房山區將出現分散冰雹天氣，可能造成一定的損失，請注意防範。豐臺區氣象臺2026年6月10日13時40分發布冰雹黃色預警訊號：預計當前至傍晚，受雷雨雲團影響，豐臺區將出現分散冰雹天氣，可能造成一定的損失，請注意防範。
+
+---
+
+### 2026-06-10 14:06:13  #其他
+
+【北京釋出雷電黃色預警：預計當前至傍晚，自西向東將有分散性雷陣雨，局地有6級以上短時大風或冰雹】剛剛，北京市釋出雷電黃色預警：預計當前至傍晚，我市自西向東將出現分散性雷陣雨，局地伴有6級以上短時大風或小冰雹，請注意防範。
+
+---
+
+### 2026-06-10 14:05:40  #其他
+
+【中汽協：國內車市呈現“燃油車冷、新能源車熱”的特點】近期，國內車市呈現“燃油車冷、新能源車熱”的特點，針對這一趨勢，中汽協會副秘書長陳士華分析稱，高油價抬升燃油車使用成本，凸顯新能源車經濟屬性；同時國內車企深耕創新研發，新能源新車型快速迭代，以差異化產品滿足多元需求，不斷啟用市場潛力。陳士華表示，新能源汽車出海表現亮眼，是我國汽車產業轉型升級、綜合實力提升的集中體現，這離不開政策引導與產業協同等多重優勢的共同支撐。“我國擁有完整且高效的新能源汽車產業鏈，規模效應突出，供應鏈抗風險能力強。同時，車機系統、智慧駕駛、座艙互動等智慧化功能快速迭代，持續適配海外使用者需求，推動產品核心競爭力不斷提升。”
+
+---
+
+### 2026-06-10 14:05:28  #MKT News #Market Themes #China EV Leaders #Copper #Impact bullish #CNH #WTI
+
+【Industry Association: China car market showing weak ICEs, strong NEVs】The China car market is seeing weaker internal-combustion engine (ICE) sales and stronger new-energy vehicle (NEV) demand, Industry Association deputy secretary-general Chen Shihua said. She said higher oil prices are raising ICE operating costs and enhancing NEV economics, while domestic automakers’ intensive R&D and rapid NEV model iteration—plus differentiated products—are reactivating market potential. NEV exports are strong, reflecting industrial upgrading and rising competitiveness supported by policy guidance and industry coordination. China has a complete, efficient NEV supply chain with scale economies and resilient suppliers; rapid iteration of vehicle OS, advanced driver assistance and cockpit interaction features is more closely matching overseas user needs and boosting product competitiveness.
+
+---
+
+### 2026-06-10 14:05:01  #公司 #市場
+
+半導體材料板塊持續走強，電子特氣、封裝材料方向領漲，有研粉材20%漲停，此前康強電子、雅克科技、中晶科技等漲停，中船特氣、華海誠科、強一股份、歐萊新材均漲超10%。
+
+---
+
+### 2026-06-10 14:04:45  #公司
+
+港股市場兩倍做多海力士一度跌超17%，兩倍做多三星電子一度跌超16%。
+
+---
+
+### 2026-06-10 14:04:23  #焦點
+
+【5月我國新能源汽車產銷量同比兩位數增長】中國汽車工業協會10日釋出資料顯示，2026年5月，我國新能源汽車市場企穩回升，產銷分別完成155.4萬輛和149.6萬輛，同比分別增長22.4%和14.4%，新能源汽車新車銷量佔汽車新車總銷量的比例進一步提升，達到56.9%。5月，我國汽車產銷分別完成261.6萬輛和262.9萬輛，環比增長、同比小幅下降，但降幅進一步收窄。整體來看，前5個月，汽車產銷分別完成1223.5萬輛和1220.7萬輛，其中，新能源汽車產銷分別完成584.1萬輛和580.2萬輛，同比分別增長2.5%和3.5%。
+
+---
+
+### 2026-06-10 14:03:57  #MKT News #Important #CSI300 #Impact bullish #CNH #Copper
+
+【China May NEV production and sales rise double-digits YoY】The China Association of Automobile Manufacturers (CAAM) said on the 10th that in May 2026 China’s new-energy vehicle (NEV) market stabilized and recovered. NEV production was 1.554 million units and sales were 1.496 million units, up 22.4% and 14.4% YoY respectively. NEVs accounted for 56.9% of new-car sales.
+
+---
+
+### 2026-06-10 14:03:35  #市場
+
+超微電腦在Tradegate平臺下跌8.9%。
+
+---
+
+### 2026-06-10 14:02:39  #其他
+
+【自然資源部：2025年中國海洋經濟發展指數為128.8】自然資源部今天釋出的《2026中國海洋經濟發展指數》顯示，去年，中國海洋經濟發展指數為128.8，比上年增長2.2%，海洋經濟發展向新向優。
+
+---
+
+### 2026-06-10 14:01:22  #其他
+
+【5月我國汽車出口量同比增長68.7% 延續快速增長態勢】從中國汽車工業協會獲悉，5月份，我國汽車出口延續快速增長態勢。 最新資料顯示，5月份，我國汽車出口量為93萬輛，同比增長68.7%，已連續兩個月出口量保持在90萬輛以上水平。其中，新能源汽車出口同比呈現較高幅度的增長，出口44.6萬輛，同比增長1.1倍。中國汽車工業協會相關負責人表示，我國擁有全球最完整的新能源汽車產業鏈，從鋰礦加工、電池製造、電機電控到整車組裝，產能充足、成本可控，供應鏈抗風險能力強。 中國汽車工業協會副秘書長陳士華表示，我國新能源汽車的車機系統、智慧駕駛、座艙互動適配海外使用者需求，本土化智慧功能快速迭代，相較於海外傳統車企智慧化短板，形成核心競爭力。 今年1至5月份，我國汽車已累計出口405.9萬輛，同比增長63%。其中，新能源汽車出口183.3萬輛，佔整個汽車出口的比例超過了45%。
+
+---
+
+### 2026-06-10 14:01:22  #MKT News #Market Themes #China EV Leaders #Copper #Impact bullish #CNH #CSI300
+
+【Industry Association: China has world’s most complete new-energy vehicle supply chain】The Industry Association said China possesses the world’s most complete new-energy vehicle (NEV) supply chain—from lithium processing and battery manufacturing to motor/electronic control and vehicle assembly—capacity is ample, costs are controllable and the supply chain has strong risk resilience. Deputy secretary-general Chen Shihua said Chinese in‑vehicle systems, intelligent driving and cabin interaction are adapting to overseas user needs; rapid local iteration of smart features has become a core competitive edge against legacy foreign automakers’ intelligence shortcomings. January–May auto exports totaled 4.059 million vehicles, up 63% YoY; NEV exports were 1.833 million, accounting for over 45% of total auto exports.
+
+---
+
+### 2026-06-10 14:00:36  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #CNH
+
+【China May auto exports up 68.7% YoY; NEV exports surge】China's auto exports in May rose to 930,000 vehicles, up 68.7% YoY and marking a second consecutive month above 900,000 units, data from the China Association of Automobile Manufacturers showed. New energy vehicle exports reached 446,000 units, up 1.1x YoY.
+
+---
+
+### 2026-06-10 14:00:03
+
+A股券商股震盪走高，華安證券漲超5％，國聯民生、國泰海通、華泰證券、華西證券、東北證券等個股跟漲。
+
+---
+
+### 2026-06-10 14:00:01  #觀點
+
+A股券商股震盪走高，華安A股券商股震盪走高，華安證券漲超5%，國聯民生、國泰海通、華泰證券、華西證券、東北證券等個股跟漲。證券漲超5%，國聯民生、國泰海通、華泰證券、華西證券、東北證券等個股跟漲。
+
+---
+
+### 2026-06-10 13:59:48  #Trading Economics #Markets #India #stocks #Importance 0
+
+ICICI Bank Stock Price Hits 6-week High — ICICI Bank shares increased to 1302.00 INR, the highest since April 2026. Over the past 4 weeks, ICICI Bank gained 2.76%, and in the last 12 months, it decreased 9.06%.
+
+---
+
+### 2026-06-10 13:59:43  #MKT News #Important #Market Regions #Greater China #600909.SS #Impact bullish
+
+A-share broker stocks rose amid choppy trading; Huaan Securities jumped over 5%, while Guolian Minsheng Securities, Guotai Haitong, Huatai Securities, Huaxi Securities and Northeast Securities also advanced.
+
+---
+
+### 2026-06-10 13:59:43  #MKT News #Market Themes #Chip Wars #AI Revolution #005930.KS #Impact bullish
+
+【Samsung considers advanced chip-packaging plant in Gwangju, expands HBM push】Samsung Electronics is considering building an advanced semiconductor packaging plant in Gwangju, South Korea, to meet global chip demand. The company is expanding its HBM (high-bandwidth memory) footprint to bolster its position in the AI chip supply chain. Samsung is expected to announce an investment plan at a June 29 meeting between the South Korean president and corporate leaders.
+
+---
+
+### 2026-06-10 13:57:58  #公司 #國際
+
+【三星考慮新建先進晶片封裝廠 以滿足全球晶片需求】三星電子考慮在韓國光州建設先進半導體封裝工廠，以滿足全球晶片需求。三星正擴大HBM市場佈局，以加強其在AI晶片供應鏈中的地位。預計三星將在6月29日韓國總統與企業集團負責人會議上公佈投資計劃。
+
+---
+
+### 2026-06-10 13:57:30  #MKT News
+
+【Johannesburg shooting kills at least 12】South African police said a shooting in Johannesburg on June 10 killed at least 12 people and injured nine.
+
+---
+
+### 2026-06-10 13:56:32  #公司 #市場
+
+光纖概念持續走弱，通鼎互聯觸及跌停，中天科技逼近跌停，永鼎股份、特發資訊、長飛光纖、兆龍互連均跌超7%。
+
+---
+
+### 2026-06-10 13:56:11  #市場 #國際
+
+【世界糧食計劃署：中東衝突的連鎖反應將威脅糧食安全】聯合國世界糧食計劃署（WFP）營運長卡爾·斯考日前接受媒體採訪時表示，中東衝突引發的連鎖反應正嚴重威脅全球數百萬弱勢群體的糧食安全，地緣政治動盪導致燃料、食品及化肥價格飆升，或將使更多人口陷入嚴重飢餓危機。斯考指出，霍爾木茲海峽的關閉導致燃料成本呈指數級增長，大幅抬高了糧食計劃署的全球救援人道主義運營成本。同時，海灣地區關鍵航道受阻，直接切斷了面向蘇丹等危機地區的化肥供應，導致當地農作物種植面臨嚴重困境。斯考強調，即便霍爾木茲海峽立即重新開放，其對全球供應鏈產生的滯後與長期負面影響仍將持續。斯考解釋稱，在高度依賴外部援助的貧困國家和地區，食品價格每上漲20%至30%，底層民眾的食物攝入量就會被迫減少同等比例。世界糧食計劃署此前已釋出預警指出，若國際油價持續保持在每桶100美元以上，到今年7月，全球面臨嚴重飢餓的人口規模預計將擴大至4500萬人。
+
+---
+
+### 2026-06-10 13:55:49  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share banking sector climbed in choppy trade; Xiamen Bank rose nearly 7%, Qingdao Bank gained over 5%, and China CITIC Bank, Qilu Bank and Chengdu Bank also advanced.
 
 ---
 
@@ -21010,551 +21368,5 @@ WTI原油日內跌1%，現報90.38美元/桶。
 ### 2026-06-09 11:01:42  #Trading Economics #Markets #Commodity #Importance 1
 
 Platinum Holds at 6-Month Low — Platinum futures held around $1,760 an ounce, staying at their lowest level since December 2025, pressured by broader weakness across precious metals despite a halt in Middle East tensions. Israel and Iran both agreed to halt mutual attacks after an earlier escalation in hostilities, raising hopes of a possible restart of talks toward a broader ceasefire agreement in the region. However, the crucial Strait of Hormuz remained effectively closed, keeping energy supplies constrained and global inflation risks in focus. A stronger dollar and elevated Treasury yields also weighed on non-yielding metals after robust US jobs data reinforced bets that the Federal Reserve could raise interest rates by year-end. Meanwhile, platinum’s downside was partly cushioned by a widening supply deficit, with the World Platinum Investment Council projecting a fourth consecutive annual shortfall in 2026, driven by constrained production from major producers, while industrial demand remained resilient.
-
----
-
-### 2026-06-09 11:01:29  #其他
-
-【海關總署：前5個月我國出口機電產品7.58萬億元，增長18.4%】據海關資料顯示，出口方面，前5個月，我國出口機電產品7.58萬億元，增長18.4%；勞密產品1.61萬億元，下降3.1%；農產品3007.9億元，增長1.6%。進口方面，前5個月，我國進口機電產品3.54萬億元，增長25.3%；原油2.18億噸，減少4.8%；農產品6181.6億元，增長7.6%。
-
----
-
-### 2026-06-09 11:00:53  #MKT News #Macro & Rates #AUDUSD #Impact bullish #DXY #Impact bearish
-
-【Macquarie: Reserve Bank of Australia to hold in June but signal hawkish tilt】Macquarie analysts say the Reserve Bank of Australia will keep the cash rate unchanged at next week’s meeting but will deliver a hawkish signal to reinforce market bets on an August rate hike. Recent RBA communications show no sign of contemplating rate cuts. Macquarie’s AI analysis of official wording under the past three governors finds the current tone closely mirrors prior pre-hike periods. Analysts judge the RBA intends to keep the prospect that "further rate hikes remain on the table" until inflation risks are resolved.
-
----
-
-### 2026-06-09 11:00:17  #其他
-
-【美團外賣店鋪分新規：門店驗真、後廚核驗不透過該項計零分】6月9日訊息，美團外賣將在多個城市試行商家“店鋪分”新規則，新增“門店真實性驗證”和“後廚環境核驗”兩項食品安全指標，兩項合計佔店鋪分總權重20%，6月下旬正式上線並逐步覆蓋全國。根據規則，店鋪分滿分仍為100分，由資質、營業、資訊、服務四大維度9個指標加權計算。此外，美團對差評回覆、線上聯絡回覆、不接單等重複性指標做下線處理。
-
----
-
-### 2026-06-09 11:00:03  #其他
-
-【古巴附近海域發生6.2級地震】古巴國家地震研究中心8日說，古巴附近海域當日發生6.2級地震。首都哈瓦那、比那爾德里奧省等多地有震感，暫無人員傷亡報告。 地震發生於當地時間8日14時（北京時間9日2時），震中位於比那爾德里奧省曼圖亞市西北約100公里處，震源深度10公里。報告有震感的地區還包括阿特米薩省、馬亞韋克省、馬坦薩斯省及青年島。 古巴共產黨中央機關報《格拉瑪報》報道說，這是古巴西部有地震記錄以來最強的一次地震。1880年，該地區曾發生6級地震。(新華社)
-
----
-
-### 2026-06-09 10:59:45  #國際
-
-【印度一鋼鐵廠發生事故致8名工人死亡，莫迪發聲：感到悲痛】據《印度時報》報道，印度一鋼鐵廠當地時間8日發生事故，導致8名工人死亡，另有6名工人嚴重燒傷。印度總理莫迪隨後在社交媒體上發文，對此表示“感到悲痛”。（環球網）
-
----
-
-### 2026-06-09 10:59:07  #公司
-
-【欣旺達、大連理工大學等成立智測科技公司】企查查APP顯示，近日，大連大觀智測科技有限公司成立，註冊資本為1250萬元，經營範圍包含：特種裝置銷售；特種裝置出租；機械電氣裝置製造；機械電氣裝置銷售；專用裝置修理等。企查查股權穿透顯示，該公司由欣旺達全資子公司深圳市前海弘盛創業投資服務有限公司、大連理工大學旗下大連理工資產經營有限公司等共同持股。
-
----
-
-### 2026-06-09 10:58:51  #公司 #市場
-
-【元件板塊震盪走高，風華高科觸及漲停】元件板塊震盪走高，風華高科觸及漲停，華正新材、生益科技、江海股份、中富電路、勝宏科技跟漲。
-
----
-
-### 2026-06-09 10:58:35  #市場
-
-藥明康德港股盤中一度跌超8%，藥明聯合、藥明生物跌超4%。
-
----
-
-### 2026-06-09 10:55:31  #其他
-
-【知情人士回應賽豆科技供應商：智駕元戎啟行，智艙弋途】近日，位元組跳動與賽力斯合作的“賽豆汽車”首款新車引發市場熱議。針對“智駕方案採用元戎啟行方案”“弋途科技負責座艙能力”網傳訊息，有知情人士向新浪科技確認了此事。 “此次賽豆科技首款新車智駕方案確為元戎啟行，它們歷史上只做爆款，方案值得期待，弋途也是此次智艙技術夥伴。”該人士直言。不過，對於這一合作訊息，截至發稿元戎啟行及塞力斯方面均未公開回應。 （新浪科技）
-
----
-
-### 2026-06-09 10:54:42  #國際
-
-魯比奧與墨西哥外交部長貝拉斯科通話。
-
----
-
-### 2026-06-09 10:54:36  #MKT News
-
-【China's imports and exports with African countries total 1.14 tln yuan in first five months, first time over 1 tln】Customs statistics director Lu Daliang said China implemented a comprehensive zero-tariff measure for African diplomatic partners from May. In the first five months, China’s imports and exports with African countries totaled 1.14 tln yuan, up 18.2% YoY — the first time the period has exceeded 1 tln yuan. Monthly imports and exports have exceeded 4 tln yuan for three consecutive months through May. In May alone, China’s imports from Africa were 95.13 bln yuan, up 15% YoY and marking a ninth consecutive month of growth.
-
----
-
-### 2026-06-09 10:54:33  #Trading Economics #Markets #New Zealand #Currency #Importance 1
-
-New Zealand Dollar Attempts to Rise — The New Zealand dollar traded around $0.581, attempting to rise from a two-month low, as risk sentiment improved following a recent concession of strikes in the Middle East. Israel and Iran both agreed to halt mutual attacks after an earlier escalation in violence, raising hopes of a possible restart of talks toward a broader ceasefire agreement in the region. Meanwhile, the Kiwi dollar remained supported by expectations of central bank tightening, as the Reserve Bank has recently taken a more hawkish turn. Following the central bank’s split decision to hold rates in late May, policymakers signaled that interest rates could rise earlier and by a larger-than-expected margin to offset the impact of the energy shock. Markets now imply a chance that the RBNZ will lift its 2.25% cash rate by a quarter point at its next meeting on July 8 and peak around 3.50% late next year.
-
----
-
-### 2026-06-09 10:54:30  #市場 #國際
-
-印尼5年期國債收益率上升7個基點，債券拋售潮持續。
-
----
-
-### 2026-06-09 10:54:22  #MKT News #Market Themes #China EV Leaders #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-CUSTOMS: China exported 988,000 vehicles (including chassis) in May, up from 939,000 in April.
-
----
-
-### 2026-06-09 10:54:19  #MKT News
-
-【Israeli ambassador to US says there was no 'sharp exchange' between Israel and US】Israeli ambassador to the United States Yehiel Leiter said on the 8th he disagreed with reports that US President Trump pressured Prime Minister Netanyahu and said there was no 'sharp exchange' between Israel and the US.
-
----
-
-### 2026-06-09 10:53:45  #MKT News #Market Regions #Greater China #CNH
-
-China exported 4.238 mln vehicles, including chassis, in Jan-May, China Customs said.
-
----
-
-### 2026-06-09 10:53:20  #MKT News #Market Regions #Greater China
-
-Customs: China exported 53.436 mln mobile phones in May, up from 53.242 mln in April.
-
----
-
-### 2026-06-09 10:53:10  #MKT News #Market Themes #Chip Wars #CSI300 #Impact mixed #CNH #S&P500
-
-【CUSTOMS: China May integrated circuit exports 30.73 bln units, up 2.1% YoY】China CUSTOMS reported May exports: integrated circuits 30.73 bln units (+2.1% YoY); rare earths 5,490.4 tonnes (-6.4%); mobile phones 53.436 mln units (-3.5%); household appliances 419.892 mln units (+8.8%); ships 577 vessels (-2.2%).
-
----
-
-### 2026-06-09 10:53:04  #國際
-
-【以色列駐美大使：以美之間沒有“惡言相向”】以色列駐美國大使耶希埃爾·萊特8日表示，不認同關於美國總統特朗普對以色列總理內塔尼亞胡施壓的報道，以美之間沒有“惡言相向”。
-
----
-
-### 2026-06-09 10:52:35  #MKT News #Commodities #Industrial Metals
-
-CUSTOMS: China exported 632,000 tonnes of unwrought aluminum and aluminum products in May, up from 598,000 tonnes in April.
-
----
-
-### 2026-06-09 10:52:01  #公司
-
-【寧德時代在雲南普洱成立儲能科技公司】企查查APP顯示，近日，普洱普合儲能科技有限公司成立，法定代表人為姚天明，經營範圍包含：儲能技術服務；電池零配件銷售；人工智慧基礎軟體開發；人工智慧應用軟體開發；發電機及發電機組銷售等。企查查股權穿透顯示，該公司由寧德時代間接全資持股。
-
----
-
-### 2026-06-09 10:51:42  #MKT News #Commodities #Industrial Metals
-
-China Customs: steel exports 10.341 mln mt in May, up from 9.498 mln mt in April.
-
----
-
-### 2026-06-09 10:51:23  #經濟數據 #中國
-
-【中國5月積體電路出口307.3億個 同比增長2.1%】據海關資料顯示，中國5月積體電路出口307.3億個，同比增長2.1%；稀土出口5490.4噸，同比下降6.4%；手機出口5343.6萬部，同比下降3.5%；家用電器出口41989.2萬臺，同比增長8.8%；船舶出口577艘，同比下降2.2%。
-
----
-
-### 2026-06-09 10:50:30  #MKT News #Market Regions #Greater China
-
-China Customs said May rare-earth imports were 6,770.2 tonnes, down from 8,780.7 tonnes in April.
-
----
-
-### 2026-06-09 10:50:30  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #S&P500
-
-China–South Korea semiconductor ETF up more than 5% intraday.
-
----
-
-### 2026-06-09 10:50:18  #MKT News
-
-Customs: China imported 47,628 tonnes of rare earths in Jan-May.
-
----
-
-### 2026-06-09 10:50:06  #MKT News #Commodities #Energy #CNH #Impact bullish #Brent #WTI
-
-China Customs: May natural gas imports 10.108 mln tonnes, compared with 8.418 mln tonnes in April.
-
----
-
-### 2026-06-09 10:50:01  #MKT News #Commodities #Industrial Metals
-
-China Customs said steel exports in Jan-May totaled 44.554 million tonnes.
-
----
-
-### 2026-06-09 10:49:52  #MKT News #Commodities #Energy
-
-CUSTOMS: China imported 46.6 mln tonnes of natural gas in Jan-May.
-
----
-
-### 2026-06-09 10:49:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Customs: China's refined oil product imports 1.304 mln tonnes in May versus 1.809 mln tonnes in April.
-
----
-
-### 2026-06-09 10:49:28  #MKT News #Commodities #Industrial Metals
-
-China Customs: May rare earth exports 5,490.4 tonnes; April 5,308.6 tonnes.
-
----
-
-### 2026-06-09 10:49:23  #MKT News #Commodities #Energy
-
-China Customs: Jan-May refined oil imports 15.78 mln tonnes.
-
----
-
-### 2026-06-09 10:49:19  #MKT News
-
-【DRC Ebola outbreak death toll tops 100】The Democratic Republic of Congo health ministry said in an 8th report the Ebola outbreak remains on the rise. As of the 7th there are 550 confirmed cases, 101 deaths and 19 recoveries. The ministry cautioned a recent slight fall in new cases may reflect testing-data delays and does not indicate transmission is waning.
-
----
-
-### 2026-06-09 10:49:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Customs: China crude oil imports 33.081 mln tonnes in May, down 14.0% MoM from 38.471 mln tonnes in April.
-
----
-
-### 2026-06-09 10:48:35  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-CUSTOMS: China imported 33.081 mln tonnes of crude oil in Jan-May.
-
----
-
-### 2026-06-09 10:48:28  #其他
-
-【中國5月積體電路出口307.3億個，同比增長2.1%】據海關資料顯示，中國5月積體電路出口307.3億個，同比增長2.1%；稀土出口5490.4噸，同比下降6.4%；手機出口5343.6萬部，同比下降3.5%；家用電器出口41989.2萬臺，同比增長8.8%；船舶出口577艘，同比下降2.2%。
-
----
-
-### 2026-06-09 10:48:28  #MKT News #Commodities #Energy
-
-CUSTOMS: China imported 33.265 mln mt of coal and lignite in May, up from 33.083 mln mt in April.
-
----
-
-### 2026-06-09 10:48:17  #MKT News #Market Regions #Greater China #Commodities #Energy
-
-Customs: China's coal and lignite imports Jan–May 182.623 mln tonnes.
-
----
-
-### 2026-06-09 10:48:11  #公司 #國際
-
-【特朗普民調支援率接近最低水平】路透社和益普索集團8日釋出的一項民意調查顯示，約35%的調查物件對特朗普執政表現滿意，與5月中旬的民調結果一樣，僅略高於4月份的34%，那是他開啟第二個總統任期以來支援率的最低水平。大約59%的調查物件預計美國汽油價格明年會更高，僅17%預計情況會好轉。（新華社）
-
----
-
-### 2026-06-09 10:48:04  #MKT News #Commodities #Industrial Metals #CNH #Impact bearish #Copper #DXY #Impact bullish
-
-Customs: China imported 97.711 mln tonnes of iron ore and concentrates in May, down from 103.854 mln tonnes in April.
-
----
-
-### 2026-06-09 10:48:02  #MKT News #Commodities #Industrial Metals
-
-CUSTOMS: China exported 25,378 tonnes of rare earths in Jan-May.
-
----
-
-### 2026-06-09 10:47:36  #公司 #國際
-
-【雲頂新耀：與威凱爾醫藥達成維卡格雷亞太多個國家與地區獨家授權許可協議】6月9日，雲頂新耀宣佈與江蘇威凱爾醫藥科技股份有限公司達成獨家授權許可協議，獲得維卡格雷（Sumecigrel，曾用名：Vicagrel）在亞太多個國家與地區（東南亞、韓國、澳大利亞、中國香港、中國澳門及中國臺灣地區）臨床開發、註冊和商業化的獨家許可。根據協議，雲頂新耀將向威凱爾醫藥支付人民幣2,000萬元的首付款，以及後續里程碑款和合作產品商業供貨款項。維卡格雷屬於抗血小板聚集藥物，是一款全新一代口服P2Y12受體拮抗劑，臨床開發用於治療並預防急性冠脈綜合徵（ACS）、缺血性腦卒中（IS）以及外周動脈性疾病（PAD）等動脈粥樣硬化血栓形成事件。該藥物為威凱爾醫藥自研1類抗血栓新藥，目前正在推進中、美、歐等多國新藥上市許可申請（NDA）準備工作。
-
----
-
-### 2026-06-09 10:47:24  #其他
-
-【剛果（金）本輪埃博拉疫情死亡病例過百】剛果（金）衛生部8日釋出的疫情報告顯示，該國埃博拉疫情總體仍呈上升趨勢，截至7日，本輪疫情累計確診病例已升至550例，其中101例死亡。
-
----
-
-### 2026-06-09 10:47:14  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-CUSTOMS: China exported 3.368 mln tonnes of refined oil in May, up from 3.119 mln tonnes in April.
-
----
-
-### 2026-06-09 10:47:05  #Trading Economics #Economy #China #Balance of Trade #Importance 1
-
-China Trade Surplus Largest in 4 Months — China’s trade surplus widened to USD 105.43 billion in May 2026 from USD 102.72 billion in the same period of 2025, surpassing expectations of USD 92.1 billion. It was the largest trade surplus since January, as both exports and imports surged. Export growth accelerated to 19.4%, reaching a record high of USD 376.78 billion, up from April’s 14.1% rise and exceeding forecasts of 15%, as companies continued to build inventories to pre-empt energy price pressures stemming from the ongoing war in the Middle East. Meanwhile, imports jumped 27.4% yoy to USD 271.35 billion, above expectations of 25%, and accelerated from 25.3% growth in April amid the government's efforts to boost domestic consumption. China’s trade surplus with the US increased to USD 26.02 billion in May. For the first five months of 2026, China’s trade surplus reached USD 451.71 billion, down from USD 471.9 billion in the same period of 2025, as exports increased 15.5% while imports rose at a faster pace of 24.5%.
-
----
-
-### 2026-06-09 10:47:04  #MKT News #Commodities #Industrial Metals #Market Regions #Greater China
-
-China Customs said iron ore and concentrates imports in January-May totaled 97.711 million tonnes.
-
----
-
-### 2026-06-09 10:46:26  #經濟數據 #中國
-
-中國5月原油進口3308.1萬噸，同比下降29.0%；大豆進口1179.1萬噸，同比下降15.3%；鐵礦砂及其精礦進口9771.1萬噸，同比下降0.4%。
-
----
-
-### 2026-06-09 10:46:13  #資料
-
-【前5個月我國貨物貿易進出口增長15.3%】海關總署今天公佈統計資料顯示，今年前5個月，我國貨物貿易進出口同比增長15.3%，延續穩定增長態勢。據海關統計，今年前5個月，我國貨物貿易進出口總值20.68萬億元，同比增長15.3%。其中，對東盟、歐盟、非洲進出口分別增長16.6%、10.3%、18.2%；對共建“一帶一路”國家進出口10.57萬億元，增長13.6%。5月當月，我國外貿進出口4.45萬億元，同比增長16.9%，其中出口、進口分別增長13.8%、21.5%。海關總署統計分析司司長呂大良表示，今年以來，在元首外交戰略引領下，我國積極深化和全球經貿夥伴的務實合作，為國際經貿執行注入穩定力量。截至5月，月度進出口已連續3個月超過4萬億元，保持良好執行態勢。從5月份開始，我國對非洲建交國全面實施“零關稅”舉措，前5個月，我國對非洲國家進出口1.14萬億元，歷史同期首次突破1萬億元，同比增長18.2%。5月當月，我國自非洲進口951.3億元，同比增長15%，連續9個月增長。今年是APEC“中國年”，前5個月，我與APEC其他經濟體進出口12.31萬億元，同比增長17.4%，進出口規模佔我外貿整體近六成，亞太經貿合作持續活躍。（央視新聞）
-
----
-
-### 2026-06-09 10:45:22  #市場 #焦點
-
-現貨黃金突破4340美元/盎司，日內漲0.25%。
-
----
-
-### 2026-06-09 10:45:19  #經濟數據 #中國
-
-【前5個月我國貨物貿易進出口增長15.3%】海關總署6月9日釋出資料顯示，2026年前5個月，我國外貿延續穩定增長態勢，貨物貿易進出口總值20.68萬億元，同比增長15.3%。其中，出口11.91萬億元，同比增長11.8%；進口8.77萬億元，同比增長20.5%。
-
----
-
-### 2026-06-09 10:45:13  #市場
-
-鈀金期貨日內漲1%，現報1228.50美元/盎司。
-
----
-
-### 2026-06-09 10:45:06  #其他 #焦點
-
-【前5個月我國貨物貿易進出口增長15.3%】海關總署6月9日釋出資料顯示，2026年前5個月，我國外貿延續穩定增長態勢，貨物貿易進出口總值20.68萬億元，同比增長15.3%。其中，出口11.91萬億元，同比增長11.8%；進口8.77萬億元，同比增長20.5%。5月當月，我國進出口4.45萬億元，已連續3個月超過4萬億元，同比增速進一步擴大至16.9%。（新華社）
-
----
-
-### 2026-06-09 10:44:57  #MKT News
-
-China Customs reported Jan-May refined petroleum product exports of 19.233 mln tonnes.
-
----
-
-### 2026-06-09 10:44:52  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #Copper #DXY #Impact bearish
-
-China's goods imports and exports rose 15.3% YoY in the first five months, Xinhua reported.
-
----
-
-### 2026-06-09 10:44:50  #公司
-
-據港交所檔案：深圳小闊日化股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-09 10:44:44  #MKT News
-
-Customs: China imported 3.775 mln tonnes of soybeans Jan-May.
-
----
-
-### 2026-06-09 10:44:43  #其他
-
-【藥明康德港股跌超8%】藥明康德港股跌8.24%，報111.30港元。
-
----
-
-### 2026-06-09 10:44:43  #經濟數據 #中國
-
-中國5月份對美國出口同比增長35.6%至390.3億美元。
-
----
-
-### 2026-06-09 10:43:17  #公司
-
-【華爾街正想盡一切辦法為AI熱潮提供資金】科技公司極度渴望現金來投資資料中心，而投資者則在全球各地透過一切可能的方式慷慨解囊。這股融資熱潮主要透過推動技術進步支撐了市場，儘管它也在考驗市場吸收所有這些資金的能力。Alphabet宣佈將進行850億美元股票增發只是最新的一例。SpaceX、Anthropic和OpenAI料將公開上市，這可能使今年成為有史以來IPO融資規模最大的一年。與此同時，Dealogic的資料顯示，Alphabet、亞馬遜(Amazon.com)、Meta、微軟(Microsoft)和甲骨文公司(Oracle)等所謂的AI超大規模雲服務提供商今年已在全球發行了1,590億美元債券，高於去年的1,080億美元和2024年的僅170億美元。資料中心開發商在高收益債券市場籌集了數十億美元資金，而新興的AI雲公司則向銀行和私募信貸公司借款，以資助晶片購買。
-
----
-
-### 2026-06-09 10:42:23  #MKT News #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-China May exports in US dollar terms rose 19.4% YoY, vs 15.0% expected and 14.1% prior.
-
----
-
-### 2026-06-09 10:42:16  #MKT News #Economic Calendar #Important
-
-China | Exports in USD (YoY) (May) | actual 19.4% | consensus 15% | previous 14.10%
-
----
-
-### 2026-06-09 10:42:14  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #WTI
-
-China's May imports in USD terms rose 27.4% YoY, versus a 25.0% forecast and 25.3% prior.
-
----
-
-### 2026-06-09 10:42:08  #其他
-
-中國5月出口同比(按人民幣計) 13.8%，前值 9.8%。中國5月進口同比(按人民幣計) 21.5%，前值 20.6%。
-
----
-
-### 2026-06-09 10:42:04  #MKT News #Economic Calendar #Important
-
-China | Imports in USD (YoY) (May) | actual 27.4% | consensus 25% | previous 25.30%
-
----
-
-### 2026-06-09 10:41:49  #其他
-
-中國5月以美元計價進口同比增長27.4%，出口同比增長19.4%。
-
----
-
-### 2026-06-09 10:41:33  #其他
-
-【國產GPU首次全棧支撐世界模型原生訓練】近日，北京大學EvoPhys團隊推出5D世界模型EvoPhys-World。據斯坦福大學WorldScore公開評測榜單，截至發稿時，EvoPhys-World在世界生成評測中位列第一。這一國際前沿成果全程在摩爾執行緒MTT S5000全功能GPU上完成原生訓練，這也是國產GPU首次全棧支撐世界模型原生訓練。
-
----
-
-### 2026-06-09 10:41:31  #MKT News #Market Regions #Greater China #Copper #Impact bullish #WTI #CNH
-
-China May imports YoY 21.5% vs prior 20.6%.
-
----
-
-### 2026-06-09 10:41:24  #MKT News #Economic Calendar #Important
-
-China | Imports in CNY (YoY) (May) | actual 21.5% | previous 20.60%
-
----
-
-### 2026-06-09 10:41:23  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper
-
-China May exports YoY 13.8%, prior 9.80%.
-
----
-
-### 2026-06-09 10:41:14  #MKT News #Economic Calendar #Important
-
-China | Exports in CNY (YoY) (May) | actual 13.8% | previous 9.80%
-
----
-
-### 2026-06-09 10:41:10  #Trading Economics #Economy #China #Imports YoY #Importance 1
-
-China Imports Rise More than Expected — China’s imports soared 27.4% yoy to USD 271.35 billion in May 2026, accelerating from a 25.3% growth in the prior month and topping market forecasts of 25%. It was the 12th straight month of growth in purchases, boosted by solid domestic demand despite rising inflationary pressures from supply chain disruptions and elevated energy costs due to the war in the Middle East. Over the first six months of the year, imports jumped 24.5% to USD 1,261.69 billion, boosted by higher demand from the ASEAN countries (21.0%), the EU (8.6%), Japan (27.8%), Hong Kong (173.2%), and South Korea (56.5%), but fell from the U.S. (-5.5%). Imports of data processing equipment surged 65.1%, while purchases of semiconductors and integrated circuits each rose by 11.5% and 52.1%, respectively. Volume increases were seen for edible oils (24.2%), copper ore (36.7%), refined oil (6.74%), rare earths (40.6%), and unwrought copper (26.1%), but declined for natural gas (-10.1%), coal (-2.9%), and steel (-8.5%).
-
----
-
-### 2026-06-09 10:40:54  #MKT News #Market Regions #Greater China #Copper #Impact bearish #WTI #Brent
-
-China May imports 1.864 tln yuan, down from 1.896 tln yuan in the prior month.
-
----
-
-### 2026-06-09 10:40:45  #MKT News #Economic Calendar #Important
-
-China | Imports in CNY (May) | actual 1863800000000B | previous 1896030000000B
-
----
-
-### 2026-06-09 10:40:38  #MKT News #CNH #Impact bullish
-
-China May exports CNY 2.588 tln, previous CNY 2.482 tln.
-
----
-
-### 2026-06-09 10:38:01  #Trading Economics #Economy #China #Exports YoY #Importance 3
-
-China Exports Hit New Record High — China’s exports surged 19.4% year-on-year to a record high of USD 376.78 billion in May 2026, far exceeding forecasts of 15% and accelerating sharply from April’s 14.1% rise. It was the fastest increase since February, as companies continued to build inventories to pre-empt energy price pressures stemming from the ongoing war in the Middle East. For the first five months of the year, total exports still rose 15.5% year-on-year to USD 1.71 trillion. During the period, exports increased to ASEAN countries (20.3%), the EU (16.4%), Hong Kong (45.5%), South Korea (28.5%), and Japan (7.1%), but declined to the US (-2.7%).
-
----
-
-### 2026-06-09 10:37:46
-
-中國5月出口（以人民幣計價）同比增13.8％，前值增9.8％；進口增21.5％，前值增20.6％；貿易順差7239.8億元，前值5856.9億元。
-
----
-
-### 2026-06-09 10:37:29  #公司 #市場
-
-【半導體矽片概念震盪拉昇 TCL中環漲停】半導體矽片概念震盪拉昇，TCL中環漲停，西安奕材、滬矽產業漲超10%，立昂微、中晶科技、神工股份、晶盛機電跟漲。
-
----
-
-### 2026-06-09 10:37:13  #其他
-
-【DeepSeek開招土木老哥：自建GW級資料中心】“你將有機會參與從MW（兆瓦）到GW（吉瓦）級基礎設施的規劃與建設。”DeepSeek官網最新上線了“IDC設計規劃工程師”這個崗位。IDC設計規劃工程師，全稱網際網路資料中心設計規劃工程師，屬於算力基建、通訊基建核心技術崗，負責資料中心從前期選址、方案、佈局到施工圖、落地配套的全流程規劃設計，是機房建設前期核心技術負責人。（量子位）
-
----
-
-### 2026-06-09 10:36:09  #Trading Economics #Markets #South Korea #Currency #Importance 1
-
-South Korean Won Strengthens on Dollar Selling — The South Korean won strengthened to around 1,518 per dollar, recovering further after touching its weakest level since March 2009 near 1,560, as authorities and large institutional players stepped up dollar supply to stabilise the currency. State-run National Pension Service reportedly conducted FX hedging, boosting onshore dollar selling, while policymakers continued verbal warnings against excessive volatility and closely monitored market activity. Additional support came from improved risk sentiment after Israel and Iran agreed to a ceasefire, easing demand for safe-haven assets. Continued strength in semiconductor exports and an upward revision to first-quarter GDP growth to 1.8% further supported the won through improved growth and external balance expectations. However, gains were tempered by a firm US dollar as markets reassessed expectations for Federal Reserve easing amid resilient US economic data.
-
----
-
-### 2026-06-09 10:35:46  #其他
-
-【第九屆中國—亞歐博覽會6月在烏魯木齊舉行】商務部今天舉行新聞釋出會，有關負責人介紹，第九屆中國—亞歐博覽會將於6月25日至29日在新疆烏魯木齊舉行，主題為“絲路新機遇 亞歐新活力”。第九屆中國—亞歐博覽會立足新疆，服務全國，輻射亞歐，聚焦高水平開放、高質量創新和深層次合作。目前，已有27個國家、地區和國際組織，2000多家企業和機構確認參展。
-
----
-
-### 2026-06-09 10:34:20  #市場
-
-【最新一期儲蓄國債將於6月10日發售】6月起，電子式儲蓄國債正式納入個人養老金產品範圍，這也意味著，加入了個人養老金制度的市民，可以在賬戶裡直接購買電子式儲蓄國債。根據發行安排，6月最新一期儲蓄國債將於6月10日發售。目前，多家銀行已經在手機App個人養老金專區增設了國債購買入口。此外，市民也可以帶著銀行卡和身份證件前往銀行櫃面，辦理個人養老金儲蓄國債業務。
-
----
-
-### 2026-06-09 10:32:06  #MKT News #Market Regions #Japan & APAC
-
-【JAXA postpones H3 No.6 launch】JAXA said on June 8 it has postponed the H3 rocket No.6 launch originally scheduled for June 10, citing potential adverse weather near the Tanegashima Space Center in Kagoshima prefecture. A new launch date has not been set.
-
----
-
-### 2026-06-09 10:31:17  #公司 #市場
-
-【軟體開發板塊震盪走高，索辰科技盤中創新高】軟體開發板塊震盪走高，索辰科技盤中創新高，漢王科技2連板，博思軟體漲超10%，星環科技、四維圖新、科創資訊、漢儀股份、致遠互聯跟漲。
-
----
-
-### 2026-06-09 10:30:57  #MKT News #Important #Commodities #Industrial Metals
-
-Polysilicon most-active contract fell 4.00% intraday to 34,115 yuan/ton.
-
----
-
-### 2026-06-09 10:30:53  #MKT News #Market Regions #Greater China #0066.HK
-
-【Hong Kong to stage July 1 events; MTR to distribute 71,000 free tickets, chief executive says】Hong Kong Chief Executive John Lee said the Hong Kong SAR government will hold events on July 1 to mark the 29th anniversary of the territory’s return to China, including a flag-raising ceremony, marching displays and sports matches. The government will also offer one-day promotions: MTR will distribute 71,000 free tickets and tram rides will be free. Further details will be announced later.
-
----
-
-### 2026-06-09 10:30:44  #其他
-
-【李家超：為慶祝香港迴歸祖國29週年，香港將於7月1日推出多項活動及優惠】香港特區行政長官李家超今日（9日）表示，為慶祝香港迴歸祖國29週年，香港特區政府將於7月1日推出多項活動，包括升旗儀式、步操表演、球類比賽等。此外，多項優惠將於7月1日當天面向市民推出，港鐵將送出7.1萬張車票，市民將可免費乘搭電車等。李家超表示，活動及優惠詳情將於稍後公佈。（大灣區之聲）
-
----
-
-### 2026-06-09 10:30:44  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-Australia 10Y Yield Stays at 2-Week High — Australia’s 10-year government bond yield held above 4.9%, trading near a two-week high as markets weighed easing Middle East tensions while persistent cost-of-living pressures weighed on domestic sentiment. Household confidence deteriorated further into deep pessimism, with the Westpac–Melbourne Institute Consumer Sentiment Index falling about 3% to 80.6 in June, marking the fourth decline this year and among the weakest in decades. Elevated living costs remain a key drag on household finances, while a temporary fuel tax cut provided only limited and short-lived support. Attention is now focused on the upcoming policy decision from the Reserve Bank of Australia next week, with markets broadly expecting rates to be left unchanged. Meanwhile, global risk sentiment got a minor lift after Iran and Israel announced a halt in fighting. However, a peace deal has yet to be reached and the Strait of Hormuz remains effectively closed, keeping global inflation risks in focus.
-
----
-
-### 2026-06-09 10:30:35  #市場 #焦點
-
-多晶矽連續主力合約日內跌4%，現報34115.00元。
-
----
-
-### 2026-06-09 10:30:15  #市場 #國際
-
-【日本H3火箭6號機將推遲發射】日本宇宙航空研究開發機構（JAXA）6月8日宣佈，主力火箭“H3”6號機的發射日期將從10日推後。原因是發射場所在的鹿兒島縣種子島宇宙中心附近可能出現惡劣天氣。新的日程未定。
-
----
-
-### 2026-06-09 10:30:04  #市場 #焦點
-
-尿素連續主力合約日內跌3%，現報1785.00元。
-
----
-
-### 2026-06-09 10:30:01  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Shares Rebound from Near 6-Year Low — Indonesia’s IDX Composite bounced back 64 points or 1.2% to 5,405 in early Tuesday trade, halting a five-session slide as bargain hunters stepped in after the index touched its weakest level since November 2020 in the prior session. The recovery came despite lingering geopolitical tensions, domestic macro pressures, and concerns over external buffers. Sentiment brightened after reports showed that tax revenue surged in the first five months of 2026, a development the government hailed as evidence of economic recovery. Meanwhile, Bank Indonesia also noted strong growth in adjusted base money (M0), which expanded by over 14% for a second straight month. Gains were broad-based, led by basic materials, infrastructure, and industry. Standout movers included Telkom Indonesia (10.2%), Sumber Alfaria Trijaya (6.9%), Aneka Tambang (4.0%), and Bank Tabungan Negara (2.4%). Traders now look to May trade data from China, Indonesia's largest trading partner, due later today, for further cues.
 
 ---
