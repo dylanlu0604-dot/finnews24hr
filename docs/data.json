@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-16 02:01:58",
-  "count": 18252,
+  "updated": "2026-06-16 02:05:49",
+  "count": 18245,
   "items": [
+    {
+      "id": "mkt:019ecc75-7ca7-7dd8-b015-05f12735bdff",
+      "time": "2026-06-16 02:05:12",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Prime Minister Netanyahu said Israel has been saved from the threat of nuclear annihilation."
+    },
+    {
+      "id": "mkt:019ecc74-55c4-7dd8-b014-fc8658a1e2f3",
+      "time": "2026-06-16 02:03:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Iran will not possess nuclear weapons whether or not an agreement is reached."
+    },
+    {
+      "id": "mkt:019ecc74-4b99-7dd8-b014-f12d1078d6ec",
+      "time": "2026-06-16 02:03:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "HEZBOLLAH fired rockets and launched drones at Israeli forces attempting to advance in southern Lebanon."
+    },
+    {
+      "id": "mkt:019ecc74-4af5-7dd8-b014-e9a6267033f8",
+      "time": "2026-06-16 02:03:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) is expected to raise $25 billion via an investment-grade bond offering."
+    },
     {
       "id": "mkt:019ecc70-add0-7dd8-b014-e38159c2995b",
       "time": "2026-06-16 01:59:56",
@@ -167708,118 +167754,6 @@
         "其他"
       ],
       "text": "阿曼國家通訊社：阿曼公共經濟特區與自由區管理局已簽署十項協議與諒解備忘錄，將在杜庫姆經濟特區內建設新專案，預計總投資額為75億美元。"
-    },
-    {
-      "id": "mkt:019ea869-438e-733a-9233-a7299f8c550f",
-      "time": "2026-06-09 02:05:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI opens applications for its Economic Research Exchange program; application deadline July 5, 2026."
-    },
-    {
-      "id": "mkt:019ea868-de8a-733a-9233-9ab154684aa0",
-      "time": "2026-06-09 02:05:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "Apple (AAPL.O) shares turned lower after earlier gains of more than 3%."
-    },
-    {
-      "id": "4924592",
-      "time": "2026-06-09 02:04:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：經濟研究交流計劃申請通道現已開啟，申請將於2026年7月5日截止。"
-    },
-    {
-      "id": "mkt:019ea868-5c6d-733a-9233-94fb8830dd2c",
-      "time": "2026-06-09 02:04:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Nikkei reports Japan will assist in drafting intellectual property rules for Southeast Asia and other emerging markets."
-    },
-    {
-      "id": "mkt:019ea868-54a9-733a-9233-8caedaef9023",
-      "time": "2026-06-09 02:04:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) said its \"Image Generation\" feature will now support producing photorealistic images, including generating images based on people in users' Apple device photo libraries."
-    },
-    {
-      "id": "mkt:019ea868-4291-733a-9233-81131b7ff0a0",
-      "time": "2026-06-09 02:04:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "French presidential office said France will continue to encourage companies and the military to seek cooperation and jointly advance European projects that serve national security."
-    },
-    {
-      "id": "mkt:019ea868-3977-733a-9233-7ec8e885ff10",
-      "time": "2026-06-09 02:04:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "The French presidential office said German authorities have determined the relevant company cannot continue operating."
-    },
-    {
-      "id": "mkt:019ea868-3911-733a-9233-7776d78578ee",
-      "time": "2026-06-09 02:04:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI launches Economic Research Exchange platform."
-    },
-    {
-      "id": "4924591",
-      "time": "2026-06-09 02:04:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果“AI”由谷歌Gemini提供技術，可在雲端伺服器執行】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果宣佈Apple Intelligence與谷歌達成合作，引入Gemini大模型，並帶來全新的AI架構。新版蘋果AI將由Gemini提供技術，能在裝置端執行，也可以在雲端伺服器執行。（新浪科技）"
-    },
-    {
-      "id": "4924590",
-      "time": "2026-06-09 02:03:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "蘋果股價在上漲3.3%後轉跌。"
-    },
-    {
-      "id": "4924589",
-      "time": "2026-06-09 02:03:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：推出OpenAI經濟研究交流平臺。"
     }
   ]
 }
