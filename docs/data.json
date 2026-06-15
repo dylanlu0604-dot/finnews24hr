@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-15 13:09:19",
-  "count": 18248,
+  "updated": "2026-06-15 13:13:21",
+  "count": 18244,
   "items": [
+    {
+      "id": "mkt:019ec9b2-1c06-7dd8-afff-11a3cd96398c",
+      "time": "2026-06-15 13:12:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Ukrainian military says Russia launched 70 missiles and 611 drones overnight."
+    },
+    {
+      "id": "4935552",
+      "time": "2026-06-15 13:12:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱，俄羅斯夜間發射了70枚導彈和611架無人機。"
+    },
+    {
+      "id": "4935551",
+      "time": "2026-06-15 13:12:20",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【大摩：特朗普關稅實施一年 美製造業迴流效果微乎其微】自去年美國總統特朗普宣佈所謂“解放日”以來，美國對全球貿易伙伴實施廣泛關稅時間已經超過一年時間。而摩根士丹利分析師發現，特朗普所聲稱的透過貿易推動美國製造業迴流的目的似乎並沒有實現——美國製造商將生產重新遷回本土的跡象有限，而同時海外供應鏈的調整速度遠遠超過了美國本土實際產能擴張的速度。"
+    },
+    {
+      "id": "mkt:019ec9b0-8df6-7dd8-afff-096aa8297256",
+      "time": "2026-06-15 13:10:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "The New York Post reported Trump threatened to impose a 100% tariff on French wine over France's digital services tax."
+    },
+    {
+      "id": "4935550",
+      "time": "2026-06-15 13:10:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【矽能源板塊衝高，合盛矽業觸及漲停】矽能源板塊衝高，合盛矽業觸及漲停，有研矽、東嶽矽材、興發集團、孚日股份、矽寶科技跟漲。"
+    },
+    {
+      "id": "4935549",
+      "time": "2026-06-15 13:10:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普因數字稅問題威脅對法國葡萄酒加徵 100% 關稅。（紐約郵報）"
+    },
+    {
+      "id": "mkt:019ec9af-df75-7dd8-afff-0337f7c692a8",
+      "time": "2026-06-15 13:10:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-shares silicon energy sector rose in afternoon trade; Youyan Silicon surged over 13% on a straight rally, Hoshine Silicon Industry hit the daily limit, and Silane Technology and Dongyue Silicon Materials also gained."
+    },
+    {
+      "id": "mkt:019ec9ae-e5cc-7dd8-affe-f8f581046165",
+      "time": "2026-06-15 13:09:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Japan extends temporary easing of mandatory private oil reserve requirements."
+    },
     {
       "id": "4935548",
       "time": "2026-06-15 13:08:10",
@@ -167719,124 +167803,6 @@
         "CSI300"
       ],
       "text": "MSCI Asia Pacific Index fell 3%."
-    },
-    {
-      "id": "mkt:019ea5a6-202d-700a-8481-6657cd4b9f2e",
-      "time": "2026-06-08 13:13:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "【European equity index futures fall over 1%】Euro STOXX 50 futures fell 1.2%, FTSE 100 futures slipped 0.56% and DAX futures dropped 1.3%."
-    },
-    {
-      "id": "4923051",
-      "time": "2026-06-08 13:13:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【滬電股份盤中漲超5%】A股滬電股份盤中漲5.04%，現報139.87元。"
-    },
-    {
-      "id": "mkt:019ea5a5-944d-700a-8481-59a2b116c223",
-      "time": "2026-06-08 13:12:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CHINA to attend welcome ceremony for N. KOREA's Kim at Kim Il-sung Square】Local time June 8, CHINA will attend a welcome ceremony hosted by N. KOREA Workers' Party General Secretary and State Affairs Commission chairman Kim Jong Un at Kim Il-sung Square."
-    },
-    {
-      "id": "mkt:019ea5a5-32a4-7aa7-87da-c6a93e4d18a5",
-      "time": "2026-06-08 13:12:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Fars News reported the Islamic Revolutionary Guard Corps said it struck Israel's Nevatim and Tel Nof air bases in retaliation for attacks on radar installations inside Iran, and said it is prepared for any scenario and capable of large-scale operations on all fronts."
-    },
-    {
-      "id": "4923050",
-      "time": "2026-06-08 13:11:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌1.2%；富時指數期貨下跌0.56%；德國DAX指數期貨下跌1.3%。"
-    },
-    {
-      "id": "te:economy:557135",
-      "time": "2026-06-08 13:11:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Economy Watchers Survey",
-        "Importance 1"
-      ],
-      "text": "Japan Services Sentiment Rises to 3-Month Peak — Japan’s services sector sentiment index rose to 43.6 in May 2026 from 40.8 in the previous month, reaching its highest level since February and signaling an improvement in business confidence. The gain was driven mainly by stronger household-related activity, particularly in the food and beverage sector, as consumer demand remained relatively resilient. Corporate sentiment also improved, supported largely by strength in manufacturing-related activity, while labor market conditions continued to firm, contributing to the overall rise in confidence. Looking ahead, the economic outlook index, which gauges sentiment for the coming months, climbed to 43.8 from 40.8 in April, marking its highest reading in three months. The improvement suggests businesses expect conditions to stabilize despite lingering challenges from the Middle East conflict."
-    },
-    {
-      "id": "4923049",
-      "time": "2026-06-08 13:11:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊表示，已做好應對任何局勢、在各戰線開展全面行動的準備。"
-    },
-    {
-      "id": "4923048",
-      "time": "2026-06-08 13:10:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【印度股市跌至兩個月低點，科技股和汽車股下跌】印度股指跌至兩個月低位，科技股與汽車股領跌。印度國家證券交易所 NIFTY 50 指數最大跌幅達 1.3%，隨後跌幅有所收窄。該指數表現強於MSCI 亞太指數，後者跌幅達 3%。油價走高，加之市場押注美國或將加息，令亞太股市整體承壓。伊朗發動導彈襲擊後，以色列宣佈打擊伊朗境內軍事目標，中東脆弱的停火局勢岌岌可危，相關和談也陷入停滯，受此影響油價大幅飆升。自伊朗相關衝突爆發以來，印度政府第二次上調民用液化氣價格，以此緩解國有零售企業因燃料折價銷售產生的虧損。而上月印度已先後四次上調柴油和汽油售價。NIFTY 50 成分股中，11 只個股上漲，39 只個股下跌。"
-    },
-    {
-      "id": "mkt:019ea5a4-0964-7ee0-94cb-4edd99cf9af4",
-      "time": "2026-06-08 13:10:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Pakistan's interior minister departed Iran at dawn local time."
-    },
-    {
-      "id": "4923047",
-      "time": "2026-06-08 13:10:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊稱，其已對以色列內瓦蒂姆空軍基地和泰勒諾夫空軍基地發動襲擊，以此回應伊朗境內雷達站遭襲。"
-    },
-    {
-      "id": "mkt:019ea5a3-aed7-7aa7-87da-bf5862a6eff2",
-      "time": "2026-06-08 13:10:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vietnam deputy central bank governor said monetary policy space is narrowing and expansionary fiscal policy will be required."
-    },
-    {
-      "id": "4923046",
-      "time": "2026-06-08 13:09:18",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【麥格理：印尼市場復甦取決於投資者信心】麥格理資本的Ari Jahja在一份報告中表示，在政府參與度不斷提高的情況下，如果投資者對印尼盾的穩定性、財政紀律、經濟改善和政策執行充滿信心，印尼市場的復甦可能會持續下去。進口走強、通脹升溫和成本壓力加大，正開始蓋過出口的韌性。政策方向已經發生演變，央行的目標已擴大至包括實體部門增長，議會也被賦予了評估貨幣當局表現的權力。市場還在關注Danantara Sumberdaya Indonesia，這是一家負責監督戰略自然資源出口的國有企業。這位印尼研究主管表示：“由於對[Danantara Sumberdaya Indonesia的]運營方案缺乏清晰瞭解，業內人士正處於觀望狀態。”"
     }
   ]
 }
