@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-16 02:05:49",
-  "count": 18245,
+  "updated": "2026-06-16 02:09:43",
+  "count": 18241,
   "items": [
+    {
+      "id": "mkt:019ecc79-046b-7dd8-b015-40ca45803d78",
+      "time": "2026-06-16 02:09:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel has established deep security zones around Lebanon, the Gaza Strip and Syria."
+    },
+    {
+      "id": "mkt:019ecc78-d4a1-7dd8-b015-3c17928fd83f",
+      "time": "2026-06-16 02:08:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Netanyahu said Israel killed Nasrallah and prevented an incursion into the Galilee region."
+    },
+    {
+      "id": "mkt:019ecc78-b4a2-7dd8-b015-3234a2e7670a",
+      "time": "2026-06-16 02:08:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Netanyahu said Israel carried out a Pager operation that eliminated thousands of Hezbollah terrorists."
+    },
+    {
+      "id": "mkt:019ecc77-feef-7dd8-b015-2ae93c806a13",
+      "time": "2026-06-16 02:07:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the military operation is not over and Israel must continue to bolster its forces."
+    },
+    {
+      "id": "mkt:019ecc76-9b55-7dd8-b015-2561d3bde64e",
+      "time": "2026-06-16 02:06:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's Prime Minister NETANYAHU said without action by the U.S. and Israel, Iran would possess nuclear weapons."
+    },
+    {
+      "id": "mkt:019ecc76-7970-7dd8-b015-1f49378cfd31",
+      "time": "2026-06-16 02:06:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Prime Minister Netanyahu said Iran will need years to recover."
+    },
+    {
+      "id": "mkt:019ecc76-567a-7dd8-b015-14c155d209a2",
+      "time": "2026-06-16 02:06:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Prime Minister NETANYAHU said Israel has inflicted massive damage on Iran's economy, with some estimates as high as US$1 trillion."
+    },
+    {
+      "id": "mkt:019ecc75-e560-7dd8-b015-0e17ca8499d8",
+      "time": "2026-06-16 02:05:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel's prime minister Benjamin Netanyahu said fighting Iran's nuclear program is his life's mission and that Iran will not be allowed to acquire nuclear weapons whether or not a deal is reached. He said Israel has removed a direct threat to its survival."
+    },
     {
       "id": "mkt:019ecc75-7ca7-7dd8-b015-05f12735bdff",
       "time": "2026-06-16 02:05:12",
@@ -167644,116 +167728,6 @@
         "Impact bullish"
       ],
       "text": "Apple (AAPL.O) said it will roll out Siri AI and a user beta later this year."
-    },
-    {
-      "id": "4924599",
-      "time": "2026-06-09 02:09:34",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果股價跌幅擴大至1.2%。"
-    },
-    {
-      "id": "4924598",
-      "time": "2026-06-09 02:09:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：將面向使用者在今年晚些時候推出SIRI人工智慧功能及測試版。"
-    },
-    {
-      "id": "mkt:019ea86c-d1de-733a-9233-c9a8624bbbfa",
-      "time": "2026-06-09 02:09:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "Apple (AAPL.O): Siri AI will not be available on iOS and iPadOS in the EU at launch."
-    },
-    {
-      "id": "4924597",
-      "time": "2026-06-09 02:08:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：06月09日02時00分在古巴地區附近（北緯22.82度，西經85.23度）發生6.0級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4924596",
-      "time": "2026-06-09 02:08:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "蘋果全球開發者大會主題演講顯示，SIRI人工智慧最初不會在歐盟地區的iOS及iPadOS系統上線。"
-    },
-    {
-      "id": "mkt:019ea86b-facf-733a-9233-c492f2922fef",
-      "time": "2026-06-09 02:08:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Researchers will partner with OpenAI's economic research team to produce empirical analysis on how AI affects workers, firms, institutions and the broader economy."
-    },
-    {
-      "id": "mkt:019ea86b-d194-733a-9233-bca8e4012c2a",
-      "time": "2026-06-09 02:08:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O): Some Apple Intelligence features, including image generation, are subject to daily usage limits."
-    },
-    {
-      "id": "4924595",
-      "time": "2026-06-09 02:07:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：研究人員將與OpenAI經濟研究部門合作，就人工智慧對勞動者、企業、機構及整體經濟的影響提供實證依據。"
-    },
-    {
-      "id": "4924594",
-      "time": "2026-06-09 02:07:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：蘋果Intelligence的部分功能，包括影象生成功能，設有每日使用限額。"
-    },
-    {
-      "id": "mkt:019ea86b-6988-733a-9233-b33138cfce8f",
-      "time": "2026-06-09 02:07:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Oman News Agency, the Public Authority for Special Economic Zones and Free Zones signed 10 agreements and memoranda of understanding to launch new projects in the Duqm Special Economic Zone, with combined expected investment of $7.5 billion."
-    },
-    {
-      "id": "mkt:019ea86a-b024-733a-9233-ae15dc525896",
-      "time": "2026-06-09 02:06:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GFZ reports a magnitude 6.12 earthquake in the Cuba region."
-    },
-    {
-      "id": "4924593",
-      "time": "2026-06-09 02:05:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼國家通訊社：阿曼公共經濟特區與自由區管理局已簽署十項協議與諒解備忘錄，將在杜庫姆經濟特區內建設新專案，預計總投資額為75億美元。"
     }
   ]
 }
