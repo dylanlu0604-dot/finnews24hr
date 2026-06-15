@@ -1,7 +1,134 @@
 {
-  "updated": "2026-06-15 09:45:53",
-  "count": 18323,
+  "updated": "2026-06-15 09:50:03",
+  "count": 18322,
   "items": [
+    {
+      "id": "mkt:019ec8f6-f640-7dd8-affb-b3a945f29162",
+      "time": "2026-06-15 09:48:08",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share electronic-chemicals sector rallied after volatile trading; Guanghua Technology hit the limit-up, Tiancheng Technology and Fangbang rose over 15%, Tongyu New Materials climbed more than 10%. Hongchang Electronics, Guoci Materials, Sanfu Xinke, Aolaide and Tiantong also advanced."
+    },
+    {
+      "id": "4935245",
+      "time": "2026-06-15 09:47:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美團旗下基金入股核聚變技術研發商諾瓦聚變】企查查APP顯示，近日，諾瓦聚變能源科技（上海）有限公司發生工商變更，新增美團關聯公司北京龍珠股權投資基金合夥企業（有限合夥）、福建省龍珠文旅數創股權投資基金合夥企業（有限合夥）等為股東，同時註冊資本增至234.48萬元。企查查資訊顯示，該公司成立於2025年4月，經營範圍包含：自然科學研究和試驗發展；專業設計服務；工業工程設計服務；人工智慧應用軟體開發等。公開資訊顯示，諾瓦聚變是國內首家專注小型化可控核聚變技術（FRC-SMR）研發與產業化的企業。"
+    },
+    {
+      "id": "mkt:019ec8f6-8c78-7dd8-affb-adf8c34eda83",
+      "time": "2026-06-15 09:47:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China A-shares: ChiNext Index and Sci‑Tech Innovation Board 50 (STAR 50) rose over 2%; Shenzhen Composite Index up nearly 2%; Shanghai Composite Index up 1.27%. More than 4,600 stocks across the Shanghai and Shenzhen markets advanced."
+    },
+    {
+      "id": "4935244",
+      "time": "2026-06-15 09:47:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.05%，成分股中，國航遠洋漲15.44%，戈碧迦漲5.77%，艾融軟體漲5.46%，則成電子漲3.75%。"
+    },
+    {
+      "id": "4935243",
+      "time": "2026-06-15 09:46:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股工業金屬震盪上漲，金誠信、和勝股份封板漲停，洛陽鉬業、新威凌漲超8%，馳宏鋅鍺、銅陵有色等跟漲。"
+    },
+    {
+      "id": "mkt:019ec8f5-9692-7dd8-affb-a0a082012e97",
+      "time": "2026-06-15 09:46:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "A-share industrial metals stocks edged higher on choppy trade. Jinchengxin and Hesheng hit daily limit-up; China Molybdenum and Xinweiling climbed over 8%. Chihong Zinc & Germanium, Tongling Nonferrous and others also advanced."
+    },
+    {
+      "id": "4935242",
+      "time": "2026-06-15 09:46:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內跌7%，現報8176.00元。"
+    },
+    {
+      "id": "4935241",
+      "time": "2026-06-15 09:46:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股黃金板塊走強 紫金黃金國際漲11%】截至發稿，紫金黃金國際(02259.HK)漲11%，紫金礦業(02899.HK)漲8%，靈寶黃金(03330.HK)漲7%。相關市場上，現貨黃金漲幅擴大至3%。"
+    },
+    {
+      "id": "4935239",
+      "time": "2026-06-15 09:46:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻璃概念持續走強，北玻股份漲停】玻璃概念持續走強，北玻股份漲停，三峽新材、彩虹股份、戈碧迦、旗濱集團、耀皮玻璃等跟漲。"
+    },
+    {
+      "id": "4935238",
+      "time": "2026-06-15 09:46:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2.04%，現報3908.363點；上證指數漲1.28%，現報4083.236點；深證成指漲1.92%，現報15250.986點。"
+    },
+    {
+      "id": "4935237",
+      "time": "2026-06-15 09:45:55",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "【港股中遠海能漲逾20%】6月15日，中遠海能(01138.HK)暴漲逾20%，截至發稿，漲20.87%，報17.2港元，成交額2.95億港元。"
+    },
+    {
+      "id": "4935236",
+      "time": "2026-06-15 09:45:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.06%，成分股中，盛科通訊漲7.37%，華潤微漲4.82%，海光資訊漲4.18%，思特威漲3.99%。"
+    },
+    {
+      "id": "4935235",
+      "time": "2026-06-15 09:45:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶合整合新設科技公司 含積體電路晶片業務】企查查APP顯示，近日，合肥晶為科技有限公司成立，註冊資本約9.18億元，經營範圍包含：積體電路晶片及產品製造；積體電路晶片及產品銷售；積體電路晶片設計及服務；電子專用材料研發。企查查股權穿透顯示，該公司由晶合整合全資持股。"
+    },
     {
       "id": "4935233",
       "time": "2026-06-15 09:45:02",
@@ -168358,152 +168485,6 @@
         "焦點"
       ],
       "text": "北證50日內漲幅達2.03%，成分股中，民士達漲14.85%，華密新材漲9.29%，天力複合漲7.28%，戈碧迦漲7.14%。"
-    },
-    {
-      "id": "mkt:019ea4ec-10ed-7ee0-94c7-a6779bd0d51f",
-      "time": "2026-06-08 09:49:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "Beijing Stock Exchange 50 Index extended gains to 1%; constituents Minshida and Fengguang Precision each rallied more than 16%."
-    },
-    {
-      "id": "4922685",
-      "time": "2026-06-08 09:49:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "天數智芯(09903.HK)漲超17%，壁仞科技(06082.HK)漲超11%；二者獲納入港股通標的證券名單生效。"
-    },
-    {
-      "id": "4922684",
-      "time": "2026-06-08 09:49:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國際能源價格持續波動 泰國旅遊業受衝擊】旅遊業是泰國經濟的重要支柱產業。然而，受國際能源價格波動影響，航空運輸、酒店經營以及旅遊服務成本不斷攀升，這給泰國旅遊業帶來新的挑戰。隨著國際燃油價格持續上漲，泰國旅遊業正在感受到越來越明顯的壓力。機票價格上漲、旅遊交通成本增加，影響著遊客的出行選擇和消費習慣。對此，泰國旅遊局下調了2026年外國遊客預期人數，預計前往泰國旅遊的人數將下跌5%至10%。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ea4eb-21e6-7ee0-94c7-9eda2bb17c73",
-      "time": "2026-06-08 09:48:53",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share fluorochemicals sector spiked intraday; Haohua Technology hit the daily limit. Jinshi Resources, Do-Fluoride, Juhua Co., Sanmei Co. and Yongtai Technology also advanced."
-    },
-    {
-      "id": "4922683",
-      "time": "2026-06-08 09:48:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.32%，成分股中，民士達漲12.49%，華密新材漲8.96%，吉岡精密漲5.96%，戈碧迦漲5.15%。"
-    },
-    {
-      "id": "mkt:019ea4ea-d478-7ee0-94c7-90c3c81600a1",
-      "time": "2026-06-08 09:48:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "09903.HK",
-        "Impact bullish",
-        "06082.HK"
-      ],
-      "text": "Tianshu Zhixin (09903.HK) rose over 17% and Biren Technology (06082.HK) gained over 11% after both were added to the Stock Connect eligible securities list, effective immediately."
-    },
-    {
-      "id": "4922682",
-      "time": "2026-06-08 09:48:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4922681",
-      "time": "2026-06-08 09:48:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【工業氣體概念震盪回升 中船特氣漲超10%續創歷史新高】早盤工業氣體概念震盪回升，六氟化鎢方向領漲，中船特氣漲超10%，續創歷史新高，總市值突破1300億，昊華科技漲超8%，和遠氣體、巨化股份、南大光電快速衝高。"
-    },
-    {
-      "id": "4922680",
-      "time": "2026-06-08 09:47:55",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【研究：KOSPI指數暴跌或對韓元、經濟增長及央行產生深遠影響】上週開始的韓國股市暴跌或許不僅僅是資產價格的修正——可能會給韓國經濟帶來深遠影響。股市上漲期間，股票融資交易增加、槓桿資金大量湧入。此次逆轉可能會加劇負財富效應，進而打擊消費。市場情緒的降溫還可能會促使半導體企業推遲投資計劃。與此同時，外資流出規模擴大將給韓元帶來貶值壓力。這些因素給韓國經濟增長帶來了下行風險，加劇了外部對韓國金融穩定性的擔憂——這會壓縮韓國央行的政策空間。"
-    },
-    {
-      "id": "4922679",
-      "time": "2026-06-08 09:47:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統： 韓國房產持有稅水平相對偏低。"
-    },
-    {
-      "id": "mkt:019ea4e8-b62a-7ee0-94c7-8cb394ac868f",
-      "time": "2026-06-08 09:46:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli media report Israel is preparing to respond to imminent Iranian retaliation."
-    },
-    {
-      "id": "te:markets:557075",
-      "time": "2026-06-08 09:46:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Advantest Stock Price Hits 8-week Low — Advantest shares decreased to 24860.00 JPY, the lowest since April 2026. Over the past 4 weeks, Advantest lost 13.53%, and in the last 12 months, it increased 199.31%."
-    },
-    {
-      "id": "mkt:019ea4e8-a1d1-7ee0-94c7-81e5fa95eae9",
-      "time": "2026-06-08 09:46:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "00100.HK",
-        "Impact bearish",
-        "02513.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong AI large-model stocks diverged: MINIMAX-W (00100.HK) fell over 6% while Zhipu (02513.HK) rose more than 8%. Both were officially added to the Hang Seng Tech Index today."
-    },
-    {
-      "id": "4922678",
-      "time": "2026-06-08 09:46:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺根據《海洋災害應急預案》釋出海浪黃色警報】受今年第6號颱風“薔薇”（颱風級）的影響，預計6月1日上午，東海東南部將出現4到7米的巨浪到狂浪區，近海海域海浪預警級別為黃色。"
     }
   ]
 }
