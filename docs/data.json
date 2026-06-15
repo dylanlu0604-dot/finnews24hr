@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-16 02:49:27",
-  "count": 18238,
+  "updated": "2026-06-16 02:53:17",
+  "count": 18240,
   "items": [
+    {
+      "id": "mkt:019ecc9f-73a5-7dd8-b016-09f8b5c774bd",
+      "time": "2026-06-16 02:51:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Abbas: Palestinian presidential election to follow in 2027】Palestinian President Abbas told Indonesian President Prabowo in a phone call on the 15th that parliamentary elections are scheduled for November and a presidential vote will follow in 2027. Abbas said he will push a comprehensive national reform plan to strengthen the democratic process."
+    },
+    {
+      "id": "mkt:019ecc9e-82bb-7dd8-b016-00214a915f32",
+      "time": "2026-06-16 02:50:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to a Refinitiv/Ipsos poll, Trump’s support rose to 36% as public dissatisfaction with the cost of living eased."
+    },
+    {
+      "id": "mkt:019ecc9e-3e6e-7dd8-b015-fd08a241652d",
+      "time": "2026-06-16 02:49:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll: 24% of US adults approve of Trump’s handling of the cost of living, up from 22% a week earlier and 20% a month earlier."
+    },
     {
       "id": "4937026",
       "time": "2026-06-16 02:46:45",
@@ -167689,14 +167713,6 @@
         "MKT News"
       ],
       "text": "The White House said the U.S. government will appeal a court ruling that struck down H-1B visa fees."
-    },
-    {
-      "id": "4924627",
-      "time": "2026-06-09 02:49:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶94.25美元，上漲1.16美元，漲幅1.25%。"
     }
   ]
 }
