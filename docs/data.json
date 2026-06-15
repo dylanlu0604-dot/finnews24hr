@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-16 01:03:20",
+  "updated": "2026-06-16 01:07:33",
   "count": 18347,
   "items": [
+    {
+      "id": "mkt:019ecc3f-8e90-7dd8-b014-2f217de1d029",
+      "time": "2026-06-16 01:06:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Commerce Secretary Lutnick noted in a letter to ANTHROPIC that its latest MYTHOS and Fable models risk being repurposed for foreign military or intelligence users."
+    },
+    {
+      "id": "4936994",
+      "time": "2026-06-16 01:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX股價漲幅超過12%。"
+    },
+    {
+      "id": "mkt:019ecc3e-9778-7dd8-b014-25e28578210d",
+      "time": "2026-06-16 01:05:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said they are cooperating with Iranian parties seeking to change the situation."
+    },
+    {
+      "id": "te:economy:559105",
+      "time": "2026-06-16 01:05:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Venezuela",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Venezuela Economic Activity Slows in Q1 2026 — Venezuela's economy expanded by 2.51% year-on-year in the first quarter of 2026, easing sharply from a 7.19% advance in the last quarter of 2025. The deceleration was driven primarily by the oil sector, which contracted 2.12% after expanding 13.8% in the previous quarter. Meanwhile, non-oil activity grew 3.11%, supported by financial and insurance activities, which recorded the largest increase, at 13.5%, followed by retail and motor repair (8.7%), restaurants and hotels (7.5%), manufacturing (6.4%), agriculture (5.4%), transports (4.9%), information and communication (4.8%), education, health, training, and other service activities (2.9%), entertainment activities (2.6%) mining (1.9%) and general government services (1.5%). In contrast, construction activities plunged by 18.3% and utilities declined by 1%."
+    },
+    {
+      "id": "mkt:019ecc3e-21c4-7dd8-b014-1c673572f93d",
+      "time": "2026-06-16 01:04:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "A US official said talks with Iran rank among the most difficult in history."
+    },
+    {
+      "id": "mkt:019ecc3d-e11d-7dd8-b014-11feab3a456c",
+      "time": "2026-06-16 01:04:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. officials said they will work over the coming days and weeks to try to ensure a successful outcome in negotiations with Iran."
+    },
     {
       "id": "4936993",
       "time": "2026-06-16 01:00:49",
@@ -168669,65 +168728,6 @@
         "市場"
       ],
       "text": "特斯拉股價上漲4.1%。"
-    },
-    {
-      "id": "mkt:019ea832-79e9-733a-9231-ef070fbe39f6",
-      "time": "2026-06-09 01:05:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) names its next macOS release Golden Gate."
-    },
-    {
-      "id": "4924510",
-      "time": "2026-06-09 01:05:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：下一代macOS系統名為“金門”。"
-    },
-    {
-      "id": "mkt:019ea831-f8f1-733a-9231-e7d6f4254087",
-      "time": "2026-06-09 01:05:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple software chief Craig Federighi said Apple plans to update child-safety features."
-    },
-    {
-      "id": "4924509",
-      "time": "2026-06-09 01:04:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅收窄至1.8%。"
-    },
-    {
-      "id": "4924508",
-      "time": "2026-06-09 01:04:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數漲幅收窄至0.5%。"
-    },
-    {
-      "id": "4924507",
-      "time": "2026-06-09 01:03:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：確認新墨西哥州利縣發現首例犬類新大陸螺旋蠅感染病例，得克薩斯州已出現第四例病例。"
     }
   ]
 }
