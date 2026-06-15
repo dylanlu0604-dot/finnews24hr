@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-16 00:26:25",
-  "count": 18352,
+  "updated": "2026-06-16 00:30:31",
+  "count": 18350,
   "items": [
+    {
+      "id": "mkt:019ecc1c-1b70-7dd8-b013-d7adf13be884",
+      "time": "2026-06-16 00:27:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says US-Iran agreement details to be released after signing on 19th】US President Trump said on the 15th, while attending the G7 summit in Evian-les-Bains, France, that the details of a US-Iran agreement will be made public after the agreement is formally signed on the 19th."
+    },
+    {
+      "id": "4936978",
+      "time": "2026-06-16 00:27:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普：美伊協議內容將在19日簽署後公佈】美國總統特朗普15日在法國埃維昂萊班出席七國集團峰會期間表示，美伊協議內容將在19日正式簽署後對外公佈。（新華社）"
+    },
+    {
+      "id": "4936977",
+      "time": "2026-06-16 00:26:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西班牙國腳庫庫雷利亞加盟皇馬】皇家馬德里俱樂部15日宣佈，西班牙國腳庫庫雷利亞加盟。皇馬當日發表官方公告稱，俱樂部與英超球隊切爾西就庫庫雷利亞轉會達成協議。庫庫雷利亞與皇馬簽約六個賽季，其合同到期日為2032年6月30日。"
+    },
     {
       "id": "4936976",
       "time": "2026-06-16 00:22:23",
@@ -168702,53 +168727,6 @@
         "XAUUSD"
       ],
       "text": "【Former US defense secretary: US can reopen Strait of Hormuz but sustaining it would be costly and require allies】Former US defense secretary Lloyd Austin said the US Navy can reopen the Strait of Hormuz, a key oil and gas shipping route, but that keeping it open long term would be costly and would require allied participation. Austin said if the US takes action to restore passage, it would seek partners to share the burden because freedom of navigation matters globally. He added that Israel’s ongoing strikes on HEZBOLLAH are a major obstacle to broader diplomatic efforts to end the war and urged de‑escalation so negotiations can proceed."
-    },
-    {
-      "id": "mkt:019ea811-e166-733a-9231-926e0e82814c",
-      "time": "2026-06-09 00:29:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Egypt signed an investment, operations and power‑purchase agreement with Alcazar Energy for the Gabal El Zeit wind farm in the Red Sea region; deal value $420 mln."
-    },
-    {
-      "id": "4924489",
-      "time": "2026-06-09 00:29:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及與阿爾卡扎能源（Alcazar Energy）就紅海加巴爾扎伊特風電場簽署投資、運營及購電協議，交易總額為4.2億美元。"
-    },
-    {
-      "id": "mkt:019ea811-15cf-733a-9231-8af9beab7dc3",
-      "time": "2026-06-09 00:29:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Ukraine's first deputy prime minister and energy minister said Ukraine received €2.8 bln today under the Ukraine Fund. He welcomed the EU's decision to allocate €920 mln for Ukraine's winter preparations and said he expects the funds to be disbursed quickly."
-    },
-    {
-      "id": "mkt:019ea80f-d4d8-733a-9231-846cf5113aa4",
-      "time": "2026-06-09 00:27:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Former U.S. defense secretary Austin said the U.S. Navy can reopen the Strait of Hormuz, but sustaining long-term openness would be costly and require allied participation."
-    },
-    {
-      "id": "mkt:019ea80e-ee27-733a-9231-7c5812b166ca",
-      "time": "2026-06-09 00:26:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China foreign minister Wang Yi delivers video address to 2026 International Day for Dialogue of Civilizations event】China foreign minister Wang Yi delivered a video address to the global event marking the 2026 International Day for Dialogue of Civilizations, proposing four measures to advance civilizational dialogue: uphold mutual respect to promote harmonious coexistence and reject notions of civilizational superiority or inevitable clash; adopt a people‑centred approach to deepen cultural exchanges so outcomes more directly benefit citizens and help jointly address global challenges; support preservation plus innovation to enable creative transformation and development of traditional cultures and leverage technology to power cultural exchange and transmission; and strengthen dialogue mechanisms, backing greater use of the UN Alliance of Civilizations and similar platforms."
     }
   ]
 }
