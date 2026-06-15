@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-16 01:57:51",
-  "count": 18260,
+  "updated": "2026-06-16 02:01:58",
+  "count": 18252,
   "items": [
+    {
+      "id": "mkt:019ecc70-add0-7dd8-b014-e38159c2995b",
+      "time": "2026-06-16 01:59:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's military spokesman said Iran will bolster defenses while negotiating an agreement with the US and maintain a higher state of combat readiness."
+    },
     {
       "id": "mkt:019ecc6d-d3c0-7dd8-b014-de7f2075ffb1",
       "time": "2026-06-16 01:56:50",
@@ -167807,88 +167820,6 @@
         "其他"
       ],
       "text": "OpenAI：推出OpenAI經濟研究交流平臺。"
-    },
-    {
-      "id": "4924588",
-      "time": "2026-06-09 02:01:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本將協助東南亞及其他新興市場制定智慧財產權規則。"
-    },
-    {
-      "id": "4924587",
-      "time": "2026-06-09 02:00:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：蘋果裝置端“影象生成”應用現已支援生成照片級寫實影象，包括生成基於蘋果裝置照片庫中人物的影象。"
-    },
-    {
-      "id": "mkt:019ea864-a90f-733a-9233-69ed3ccbf205",
-      "time": "2026-06-09 02:00:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O): Shortcuts app will allow users to describe and create shortcuts using natural-language input."
-    },
-    {
-      "id": "4924586",
-      "time": "2026-06-09 02:00:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘋果推出Siri AI：設獨立App，使用時靈動島將浮出“大氣泡”】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。會上，蘋果釋出“Siri AI ”，其比之前的智慧助手版本更具對話性，功能也更強大。在對話中，“Siri AI”的聲音更加富有表現力，使用者可以自定義語速、語氣和口音。另外，“Siri AI”支援在系統範圍內使用，能夠讀取螢幕上的內容並與應用程式互動。同時，“Siri AI”配有獨立App，螢幕頂部的靈動島會冒出很大的氣泡。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ea864-4375-733a-9233-62682d1d519e",
-      "time": "2026-06-09 02:00:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The French presidency said President Macron and German Chancellor Merz expressed regret that they were unable to continue advancing the Franco-German joint fighter-jet project."
-    },
-    {
-      "id": "4924585",
-      "time": "2026-06-09 01:59:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛麗捨宮：法國總統馬克龍與德國總理默茨對法德未來空戰系統（FCAS）戰鬥機專案無法繼續推進表示遺憾。"
-    },
-    {
-      "id": "4924584",
-      "time": "2026-06-09 01:59:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：快捷指令應用現已支援使用者用自然語言描述建立快捷指令。"
-    },
-    {
-      "id": "mkt:019ea863-bb33-733a-9233-5b35d66be84b",
-      "time": "2026-06-09 01:59:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O): The Home app can use Apple Intelligence to analyze video clips from compatible cameras and generate concise summary descriptions."
-    },
-    {
-      "id": "4924583",
-      "time": "2026-06-09 01:58:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：主螢幕App可利用Apple Intelligence分析相容攝像頭錄製的片段，生成摘要描述。"
     }
   ]
 }
