@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-15 21:03:02",
-  "count": 18274,
+  "updated": "2026-06-15 21:07:20",
+  "count": 18271,
   "items": [
+    {
+      "id": "mkt:019ecb63-fe6b-7dd8-b00e-484a6dca054e",
+      "time": "2026-06-15 21:06:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Amazon Web Services deepens strategic partnership with quantum computing firm QuEra to bring fault-tolerant quantum computing to Amazon Braket."
+    },
+    {
+      "id": "mkt:019ecb63-5397-7dd8-b00e-45f670d6216c",
+      "time": "2026-06-15 21:05:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "IMF completes third review of the Republic of Serbia; all reform targets met on schedule."
+    },
+    {
+      "id": "4936675",
+      "time": "2026-06-15 21:05:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS：AWS深化與QuEra的戰略合作，將容錯量子計算引入Amazon Braket。"
+    },
+    {
+      "id": "4936674",
+      "time": "2026-06-15 21:05:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：所有改革目標均按計劃完成。"
+    },
+    {
+      "id": "mkt:019ecb62-b8b1-7dd8-b00e-3eccec3efaf7",
+      "time": "2026-06-15 21:05:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US May industrial production MoM due in 10 minutes."
+    },
+    {
+      "id": "4936673",
+      "time": "2026-06-15 21:04:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特資本市場管理局（CMA）批准利雅得銀行債務融資計劃的公開發行。"
+    },
+    {
+      "id": "4936672",
+      "time": "2026-06-15 21:04:47",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【分析：美聯儲即將作出的決定對加密貨幣至關重要】IG分析師Chris Beauchamp在一份報告中表示，美聯儲週三的政策決定將對加密貨幣至關重要。他表示，臨時的美伊和平協議和較低的油價改變了凱文·沃什作為美聯儲新任主席首次會議的局面。“他現在可以在會議上提出，能源成本上升的衝擊將繼續消退，從而支援他降息的理由。“他表示，即使今年看來仍不太可能降息，這也將為加密貨幣在近期拋售之後提供急需的喘息機會。倫敦證券交易所集團的資料顯示，比特幣升至12天高點66,463美元，此前曾在6月5日觸及20個月低點59,125美元。"
+    },
+    {
+      "id": "4936671",
+      "time": "2026-06-15 21:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織完成對塞爾維亞共和國的第三次審查。"
+    },
+    {
+      "id": "mkt:019ecb61-f1d0-7dd8-b00e-37108eb49818",
+      "time": "2026-06-15 21:04:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's CMA approved Riyad Bank's public issuance under its debt financing program."
+    },
+    {
+      "id": "4936670",
+      "time": "2026-06-15 21:01:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃：國際原子能機構必須改進其行為，以便在伊朗核相關問題上發揮建設性作用。"
+    },
     {
       "id": "4936669",
       "time": "2026-06-15 21:01:14",
@@ -167982,138 +168073,6 @@
         "MKT News"
       ],
       "text": "【Tongcheng Travel to join WeChat AI agent ecosystem】June 8 — Tongcheng Travel said it will fully integrate into the WeChat AI agent ecosystem and will be among the first online travel agencies (OTAs) to access WeChat’s AI platform."
-    },
-    {
-      "id": "4924237",
-      "time": "2026-06-08 21:06:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電投產融：中國人壽持股比例因定增被動稀釋至24.09%】電投產融公告稱，公司向13名特定物件發行9.43億股，發行規模49.99億元，新增股份於2026年6月10日上市，總股本由173.73億股增至183.17億股。持股5%以上股東中國人壽未參與認購，持股數量不變，比例從25.39%被動稀釋至24.09%，觸及1%整數倍。本次權益變動不觸及要約收購，控股股東、實際控制人未變。"
-    },
-    {
-      "id": "4924236",
-      "time": "2026-06-08 21:05:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：消費者如今可透過亞歷克莎設計定製商品，在亞馬遜平臺進行選購。"
-    },
-    {
-      "id": "mkt:019ea755-ec68-7226-8cb5-0de07c5bd7ec",
-      "time": "2026-06-08 21:04:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O) premarket gains widened to about 10% after reports that Google placed an order with Intel for more than 3 mln TPUs."
-    },
-    {
-      "id": "4924235",
-      "time": "2026-06-08 21:04:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "全球商務旅行集團：第一季度交易量同比增長3%。"
-    },
-    {
-      "id": "mkt:019ea755-cd28-7226-8cb5-03a9e1592cb8",
-      "time": "2026-06-08 21:04:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "INTC.O",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "Google and NVIDIA (NVDA.O) are considering Intel (INTC.O) as a backup chip-manufacturing partner, The Information reports."
-    },
-    {
-      "id": "4924234",
-      "time": "2026-06-08 21:04:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【英特爾美股盤前漲超10%，訊息面上谷歌向英特爾下達了超過300萬個TPU的訂單】英特爾美股盤前漲超10%，訊息面上谷歌向英特爾下達了超過300萬個TPU的訂單。"
-    },
-    {
-      "id": "mkt:019ea755-78c7-7226-8cb4-feabc020b6bc",
-      "time": "2026-06-08 21:04:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "The Information reports Google has ordered more than 3 million TPU chips from Intel (INTC.O)."
-    },
-    {
-      "id": "4924233",
-      "time": "2026-06-08 21:03:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界首臺630℃二次再熱超超臨界百萬千瓦煤電機組正式投入商業運營】據東方電氣訊息，6月8日，世界首臺630℃二次再熱超超臨界百萬千瓦煤電機組——大唐鄆城630℃國家電力示範專案1號機組順利完成168小時滿負荷試執行，正式投入商業運營。大唐鄆城專案是全球引數最高的百萬千瓦二次再熱機組，入選國家能源局第四批能源領域首臺（套）重大技術裝備名單。機組核心引數全面重新整理全球紀錄：再熱汽溫631攝氏度、主蒸汽壓力35.5兆帕、發電效率50.05%、發電煤耗低至245.74克/千瓦時。"
-    },
-    {
-      "id": "4924232",
-      "time": "2026-06-08 21:03:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【佛山一汙水管網工程發生坍塌事故致3死 廣東省安委會掛牌督辦】廣東省應急管理廳網站6月8日釋出《廣東省安全生產委員會關於佛山三水大塘鎮工業園區汙水管網建設工程“6·2”較大坍塌事故調查處理工作掛牌督辦的函》。6月2日，佛山市三水區大塘鎮工業園區汙水管網建設工程（潦南片區）工地發生坍塌事故，造成3人死亡。根據《國務院辦公廳關於加強安全生產監管執法的通知》（國辦發〔2015〕20號）和《廣東省安全生產委員會關於印發〈廣東省較大生產安全事故調查處理掛牌督辦辦法〉的通知》（粵安〔2011〕7號）要求，省安委會決定對該起事故查處實行掛牌督辦。"
-    },
-    {
-      "id": "4924231",
-      "time": "2026-06-08 21:03:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌近期已向英特爾下達訂單，要求英特爾在2028年為其生產超過300萬顆張量處理單元。"
-    },
-    {
-      "id": "mkt:019ea754-8c77-7226-8cb4-f1bd5c204ef9",
-      "time": "2026-06-08 21:03:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "The Information reports NVIDIA (NVDA.O) is evaluating Intel's (INTC.O) advanced packaging technology and 18A process for future chip production."
-    },
-    {
-      "id": "4924230",
-      "time": "2026-06-08 21:03:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠譽將亞馬遜擬發行債券的評級定為“AA-”。"
-    },
-    {
-      "id": "4924229",
-      "time": "2026-06-08 21:03:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌2%，現報1427.50元。"
     }
   ]
 }
