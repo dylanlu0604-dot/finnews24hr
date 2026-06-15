@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-16 04:15:18",
-  "count": 18210,
+  "updated": "2026-06-16 04:19:24",
+  "count": 18209,
   "items": [
+    {
+      "id": "4937103",
+      "time": "2026-06-16 04:18:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國共和黨參議員克魯茲在信函中對私募股權公司Grain Management計劃從T-Mobile美國收購800兆赫茲無線頻譜一事提出質疑。"
+    },
+    {
+      "id": "4937102",
+      "time": "2026-06-16 04:17:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡尼：真主黨在近期戰事中表現十分出色。哈馬斯將會重建。整個抵抗軸心在此次衝突中展現出強大力量。"
+    },
+    {
+      "id": "4937099",
+      "time": "2026-06-16 04:16:12",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "加拿大將針對部分個人資訊推出“刪除權”法規。"
+    },
+    {
+      "id": "4937098",
+      "time": "2026-06-16 04:16:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本衛材將向英國工廠投入6400萬美元，用於注射劑藥品分裝業務。"
+    },
     {
       "id": "te:markets:559112",
       "time": "2026-06-16 04:14:30",
@@ -167347,57 +167381,6 @@
         "公司"
       ],
       "text": "明晟公司：將採用標準評估方法處理SpaceX的首次公開募股事宜。"
-    },
-    {
-      "id": "mkt:019ea8e2-fe7c-733a-9235-bb203f2aedb6",
-      "time": "2026-06-09 04:18:28",
-      "tags": [
-        "MKT News",
-        "AZN.O",
-        "Impact bullish"
-      ],
-      "text": "AstraZeneca (AZN.O) said its oral obesity drug reduced patients' body weight by 10.5% in a trial."
-    },
-    {
-      "id": "mkt:019ea8e2-f133-733a-9235-b027e1c4802a",
-      "time": "2026-06-09 04:18:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish",
-        "CDNS.O"
-      ],
-      "text": "Cadence said it will partner with Intel's foundry (INTC.O) to accelerate optimization for the Intel 14A process, focusing on high-performance computing and mobile designs."
-    },
-    {
-      "id": "mkt:019ea8e2-12b0-733a-9235-a9fc9c16432c",
-      "time": "2026-06-09 04:17:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "TASNIM News, citing sources, reports explosions heard in Sulaymaniyah in northern Iraq."
-    },
-    {
-      "id": "4924675",
-      "time": "2026-06-09 04:16:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯利康減肥藥臨床試驗結果顯示，受試者體重平均下降 10.5%。"
-    },
-    {
-      "id": "4924674",
-      "time": "2026-06-09 04:15:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "聖地亞哥燃氣電力公司、高通公司與加州大學聖地亞哥分校攜手開展邊緣人工智慧合作，助力提升野火及極端天氣應對能力。"
     }
   ]
 }
