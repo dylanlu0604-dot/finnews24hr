@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-15 08:05:52",
-  "count": 18340,
+  "updated": "2026-06-15 08:09:47",
+  "count": 18342,
   "items": [
+    {
+      "id": "mkt:019ec89c-5db8-7dd8-aff9-6d3e47ff41d2",
+      "time": "2026-06-15 08:09:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 breached 68,000, rising 3.05% intraday."
+    },
+    {
+      "id": "4935028",
+      "time": "2026-06-15 08:08:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【銀河證券：科技高景氣賽道仍是市場中長期的配置主線】銀河證券研報稱，A股短期大機率延續震盪蓄勢的執行態勢，市場以結構性行情為主，關注美聯儲議息會議對市場預期的邊際影響，以及中報業績前瞻的結構性指引。從配置角度而言，成長板塊的階段性調整，屬於健康的回撥過程，短期行情波動不改行業中長期景氣趨勢，科技高景氣賽道仍是市場中長期的配置主線。依託本輪調整，重點挖掘估值相對合理、基本面具備支撐的硬科技細分領域，以低位績優藍籌作為底倉配置，適配輪動節奏。配置機會：聚焦“科技輪動+防禦配置”佈局策略。關注一，科技景氣與產業趨勢未改，本輪科技行情背後具備產業趨勢驅動和業績支撐邏輯，具備業績支撐的細分領域或將持續受益。短期或呈現輪動特徵，關注半導體、其他電子、商業航天、通訊裝置、算力、儲存、人形機器人、儲能等細分方向。關注二，受益於產品漲價及業績修復邏輯的方向，重點佈局基礎化工、有色金屬（小金屬）、建築材料、鋼鐵板塊等。關注三，重視防禦性底倉的配置價值，涉及煤炭、煤化工、金融（銀行）、公用事業、新能源等。"
+    },
+    {
+      "id": "4935027",
+      "time": "2026-06-15 08:07:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長稱，俄羅斯對烏克蘭基輔的空襲造成10人受傷。"
+    },
+    {
+      "id": "4935026",
+      "time": "2026-06-15 08:07:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經225指數上漲3%，至68005.58。"
+    },
+    {
+      "id": "mkt:019ec89a-adca-7dd8-aff9-66b126c00247",
+      "time": "2026-06-15 08:07:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange (KRX) activated a sidecar on the KOSPI index after KOSPI 200 futures rose 5%, pausing program trading for 5 minutes."
+    },
+    {
+      "id": "4935025",
+      "time": "2026-06-15 08:06:28",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動KOSPI 側車機制，此前KOSPI 200期貨上漲5%，程式交易暫停5分鐘。"
+    },
+    {
+      "id": "4935024",
+      "time": "2026-06-15 08:06:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：商業不動產REITs元年 把握下半年供需格局改善機遇】中信建投研報稱，一級市場方面，商業不動產REITs元年啟動，成為市場擴容最大變數，專案定價分歧擴大，投資應聚焦資產質地與運營能力。二級市場板塊分化格局顯著加劇，產權類資產受供給衝擊壓力更大，當前估值處於歷史低位。展望2026年全年，市場節奏或將由此前的上半年配置下半年止盈，轉向上半年觀望下半年配置，看好下半年REITs市場供給側壓力逐步釋放，增量資金政策落地，迎來企穩復甦。"
+    },
+    {
+      "id": "4935023",
+      "time": "2026-06-15 08:06:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲2%，至3959.99點。"
+    },
+    {
+      "id": "4935022",
+      "time": "2026-06-15 08:05:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：需看到可回收技術突破後商業航天產業能夠實現指數級別增長的潛力】中信證券研報指出，6月12日SpaceX在納斯達克上市，首日大漲約19%，本次IPO募資約750億美元，成為全球有史以來規模最大的IPO，料將有力支撐SpaceX火箭和衛星迭代，並開拓包括太空算力在內的AI廣闊空間。儘管由於商業火箭客觀特點，國內可回收等發射節奏時有波動，但更需看到可回收技術突破後產業能夠實現指數級別增長的潛力，以及太空算力更廣闊的產業空間，聚焦“核心資產”及“通脹環節”。"
+    },
     {
       "id": "mkt:019ec898-d8c2-7dd8-aff9-5bb6290ab15e",
       "time": "2026-06-15 08:05:20",
@@ -168491,76 +168571,6 @@
         "國際"
       ],
       "text": "日本東證指數下跌2%，至3869.74點。"
-    },
-    {
-      "id": "4922463",
-      "time": "2026-06-08 08:09:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門聯合印發《網路測評活動規範》】近日，國家網信辦、市場監管總局聯合印發《網路測評活動規範》（以下簡稱《規範》）。國家網信辦有關負責人表示，《規範》旨在規範網路測評活動，維護公平市場競爭秩序，保護公民、法人和其他組織合法權益。《規範》明確，從事網路測評活動，應當遵守法律、行政法規和國家有關規定，遵循商業道德、公序良俗，堅持客觀、公正、全面、準確原則。《規範》要求，從事網路測評活動，涉及對產品功能、效能等專案測試，應當委託具有法定檢驗檢測資質許可的檢驗檢測機構按照相關標準以及技術規範開展測試。對食品開展檢驗檢測的，測試方應當具備相應資質，不得使用非標方法，不得測評無國家標準檢驗方法的專案。不得采取不同標準、不同方法對同類產品進行橫向、縱向比較。《規範》提出，未對產品開展測試，僅憑主觀感受對產品進行評價，應當進行說明。網站平臺要加強對網路測評資訊內容管理，及時受理處置相關投訴舉報。國家網信辦有關負責人表示，網路測評活動要對照《規範》要求，自覺規範自身行為，維護公平競爭市場秩序和第三方合法權益，維護清朗網路空間。下一步，網信部門、市場監管部門將加強對網路測評活動監管，依法查處違法違規行為。"
-    },
-    {
-      "id": "4922462",
-      "time": "2026-06-08 08:08:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國創業板市場觸發熔斷機制】韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化交易暫停5分鐘。"
-    },
-    {
-      "id": "te:markets:557037",
-      "time": "2026-06-08 08:08:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Edge Lower After Tech-Led Rout — US stock futures edged lower on Monday after Wall Street suffered a sharp selloff in the previous session, led by heavy losses in semiconductor and other technology stocks. Investors also weighed geopolitical risks after Iran launched several rounds of missiles toward Israel in a warning against further military actions in Lebanon, adding uncertainty as ceasefire efforts remain fragile and peace talks show little progress. During Friday's regular session, the tech-heavy Nasdaq Composite plunged 4.18%, marking its worst performance since April 2025, while the S&P 500 and Dow Jones fell 2.64% and 1.35%, respectively. Chipmakers were among the hardest hit, including Micron (-13.3%), Nvidia (-6.2%), Marvel (-16.7%), Advanced Micro Devices (-10.9%) and Sandisk (-11.4%). The downturn was also fueled by a stronger-than-expected May jobs report, which pushed Treasury yields higher and reinforced expectations that the Federal Reserve could raise interest rates later this year."
-    },
-    {
-      "id": "mkt:019ea48e-d11e-7338-95ad-0be96d923e41",
-      "time": "2026-06-08 08:07:58",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange (KRX) activated the Kosdaq market temporary suspension mechanism after Kosdaq150 index futures fell 6%, triggering a five-minute pause in program trading."
-    },
-    {
-      "id": "4922461",
-      "time": "2026-06-08 08:07:47",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美駐約旦使館要求就地避難】約旦當地時間今天（6月8日）凌晨，美國國務院通報稱，有導彈、無人機或火箭彈已進入約旦領空。美國美國駐約旦大使館提示，請立即尋找掩護並就地避難，待在室內並密切關注當地釋出的公告和警報。美國大使館表示，將繼續密切關注局勢，並根據需要提供更多資訊。"
-    },
-    {
-      "id": "mkt:019ea48d-adee-7338-95ad-049336bb3510",
-      "time": "2026-06-08 08:06:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Japan's Nikkei 225 fell back below 65,000, down 2.68% on the day."
-    },
-    {
-      "id": "4922460",
-      "time": "2026-06-08 08:06:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【日本日經225指數跌破65000點】日經225指數下跌超過2.7%，一度跌至64819.47點。"
     }
   ]
 }
