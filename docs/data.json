@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-15 08:13:45",
-  "count": 18338,
+  "updated": "2026-06-15 08:17:45",
+  "count": 18344,
   "items": [
+    {
+      "id": "mkt:019ec8a3-8052-7dd8-aff9-8b04c5fe6d16",
+      "time": "2026-06-15 08:16:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Carry-trade revival lifts yen short bets to nine-year high】Leveraged funds raised net short positions in the yen to over 115,000 contracts in the week to June 9, the largest level since November 2017, the U.S. Commodity Futures Trading Commission (CFTC) showed. The positioning build comes with the yen trading around JPY160 per dollar, keeping traders alert to government intervention risk, and occurs despite the prospect of Bank of Japan rate hikes — indicating carry-trade activity may be reviving."
+    },
+    {
+      "id": "4935042",
+      "time": "2026-06-15 08:16:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：未來汽車消費稅改革可能由單一排量導向逐步轉向價格、重量及資源佔用等角度】中信證券研報稱，新能源汽車快速發展正在改變汽車消費稅傳統徵稅基礎。現行汽車消費稅以發動機排量為核心依據，在燃油車時代兼具節能導向與消費結構調節功能。透過梳理我國汽車消費稅制度演變、燃油車稅基變化及新能源汽車背景下的改革趨勢發現，燃油車市場持續向中小排量集中，汽車消費稅稅基逐步集中於3%和5%稅率區間，新能源汽車滲透率提升則導致傳統稅基持續收縮。中信證券認為未來汽車消費稅改革可能由單一排量導向逐步轉向價格、重量及資源佔用等角度，以適應新能源汽車時代新的產業格局。"
+    },
+    {
+      "id": "4935041",
+      "time": "2026-06-15 08:16:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證股價指數（TOPIX）上漲4.3%，報68846.24點。"
+    },
+    {
+      "id": "mkt:019ec8a2-6400-7dd8-aff9-85089d7ef59d",
+      "time": "2026-06-15 08:15:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 climbed to a record high, extending gains to 4%."
+    },
+    {
+      "id": "4935040",
+      "time": "2026-06-15 08:15:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本日經指數升至紀錄高位。"
+    },
+    {
+      "id": "4935039",
+      "time": "2026-06-15 08:15:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50期貨上漲1.3%，德國DAX期貨上漲1.4%，富時期貨上漲0.5%。"
+    },
+    {
+      "id": "4935038",
+      "time": "2026-06-15 08:15:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：2026年下半年有望迎來房地產市場的長週期底部】中信證券研報稱，2026年下半年有望迎來房地產市場的長週期底部。今年以來一線城市二手房掛牌量下降，完整改善鏈條的多梯級復甦，顯著超越存款利率的租金回報率和企穩的租金表現，品質遠勝二手的新房供給，多方面因素提供了房價回升的基礎。中信證券認為，從上海開始，越來越多的城市將實現房價止跌回升。更重要的是，房企的經營困境料將緩解。融資不再和規模掛鉤，地產開發企業總部對區域的掌控力會顯著提升，聯合開發明顯變少，企業卷品質可以獲得合理的產品溢價。當然，經營性不動產相關營收的提升，也對企業意義重大。"
+    },
+    {
+      "id": "4935037",
+      "time": "2026-06-15 08:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲2%至277.21點。"
+    },
+    {
+      "id": "mkt:019ec8a0-8d74-7dd8-aff9-79dce4614de6",
+      "time": "2026-06-15 08:13:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Kyiv struck by Russian drones and missiles hours after Putin-Trump call】Russian drones and missiles struck Ukrainian cities, including Kyiv, early on Monday, hours after Putin and Trump spoke by phone. Kyiv's mayor said apartment blocks in multiple districts caught fire from \"enemy\" strikes and the central Pechersk Lavra monastery was hit; about 140,000 households lost power. Ukraine's second-largest city Kharkiv, the central city Dnipro and locations in Crimea were also struck."
+    },
     {
       "id": "4935036",
       "time": "2026-06-15 08:13:06",
@@ -168506,31 +168595,6 @@
         "國際"
       ],
       "text": "【英偉達宣佈與韓國SK海力士、Naver和斗山達成合作，共同建設人工智慧資料中心】英偉達週一宣佈與韓國的SK海力士、Naver以及斗山集團達成協議，將共同建設AI資料中心並採用這家美國晶片公司的技術，旨在繼續推動AI熱潮。這些協議是在英偉達執行長黃仁勳備受矚目的韓國之行期間達成的。此次行程於上週五開始，迄今為止，他已與韓國頂尖企業高管共進炸雞大餐、投出棒球第一球，並會見了知名遊戲玩家。英偉達及其合作伙伴未披露這些協議的具體金額。SK海力士和英偉達表示，雙方已簽署了一項為期多年的技術合作協議，旨在推動面向全球AI資料中心的下一代記憶體技術發展。這家韓國記憶體晶片製造商表示，將透過此次合作進軍個人AI和物理AI等新興AI領域，並稱儘管先進記憶體半導體的開發週期較長，但該協議將有助於維持記憶體晶片的穩定供應。其姊妹公司SK電訊表示，將利用英偉達技術在韓國建設一個千兆瓦級的人工智慧雲，首個人工智慧資料中心將於2027年投入運營。英偉達還表示，將與韓國網際網路巨頭Naver及綜合企業斗山（Doosan）展開合作，這兩家企業都將利用其技術建設AI資料中心。斗山集團正在研發機器人，並生產用於英偉達最強大Blackwell晶片的材料。該公司表示，預計其能源解決方案將被應用於英偉達的資料中心平臺，同時也將採用這家美國公司的物理AI技術。"
-    },
-    {
-      "id": "mkt:019ea496-fb23-7338-95ad-36a1ab37263a",
-      "time": "2026-06-08 08:16:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tsunami warning for southern Philippines; waves about 1m above tide】The Philippine Institute of Volcanology and Seismology issued a tsunami warning after a southern Philippines earthquake at about 07:37 local time on June 8. Waves are expected to be about 1m above normal tide; the first wave is forecast to arrive between 07:37 and 09:37 LT and the tsunami may persist for several hours."
-    },
-    {
-      "id": "4922474",
-      "time": "2026-06-08 08:16:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓海嘯預計浪高1米】菲律賓火山地震研究所釋出海嘯預警稱，今天（6月8日）早上7點37分左右，菲律賓南部地震引發海嘯預警，浪高預計將超過正常潮位1米左右，第一波海嘯預計將在7點37分至9點37分之間抵達，海嘯可能持續數小時。菲律賓火山地震研究所建議南部多個沿海地區的居民立即撤離至地勢較高的地方或向內陸轉移。這些地區的港口、河口或淺海沿岸水域的船隻應固定好並遠離水域。已在海上航行的船隻應在深水區停留，直至另行通知。"
-    },
-    {
-      "id": "4922473",
-      "time": "2026-06-08 08:16:20",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【韓元跑贏亞洲新興市場貨幣 韓國出臺舉措提振本幣】韓元表現優於亞洲新興市場貨幣，上週韓元跌至2009年以來最低水平後，當局採取措施提振本幣。美元/韓元跌0.4%至1554。"
     }
   ]
 }
