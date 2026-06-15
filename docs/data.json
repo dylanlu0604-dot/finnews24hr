@@ -1,7 +1,122 @@
 {
-  "updated": "2026-06-15 20:36:53",
-  "count": 18273,
+  "updated": "2026-06-15 20:41:05",
+  "count": 18271,
   "items": [
+    {
+      "id": "mkt:019ecb4c-1c92-7dd8-b00d-a3c582b939e8",
+      "time": "2026-06-15 20:40:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada wholesale sales YoY +6.3% in April vs +3.3% previously."
+    },
+    {
+      "id": "mkt:019ecb4b-fb62-7dd8-b00d-9aa2274621cb",
+      "time": "2026-06-15 20:40:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (YoY) (Apr) | actual 6.3% | previous 3.3%"
+    },
+    {
+      "id": "te:economy:559065",
+      "time": "2026-06-15 20:39:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "NY Empire State Manufacturing Index",
+        "Importance 2"
+      ],
+      "text": "New York Manufacturing Growth Slows in June — The New York Fed’s Empire State Manufacturing Index fell to 5.7 in June 2026, down from 19.6 in the previous month and well below market expectations of 14, indicating a notable slowdown in regional manufacturing activity, according to firms surveyed in the Empire State Manufacturing Survey. Despite the weaker headline reading, several underlying indicators showed continued expansion. New orders and shipments both rose, while unfilled orders also increased. However, supply chain pressures persisted, with delivery times lengthening and supply availability continuing to deteriorate. Labor market conditions remained firm, with employment expanding for a fifth consecutive month and the average workweek also increasing. Meanwhile, inflationary pressures remained elevated, as both input and selling price increases stayed strong. Looking ahead, firms maintained a broadly optimistic outlook for business conditions over the coming months, despite near-term moderation in activity."
+    },
+    {
+      "id": "4936629",
+      "time": "2026-06-15 20:38:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮盛發展旗下榮萬家設立合資公司 佈局物業場景智慧機器人業務】記者獲悉，榮盛發展旗下港股物業平臺榮萬家與北京可安可智慧科技簽署合作協議，雙方將共同出資設立合資公司，聚焦物業場景智慧機器人業務佈局。根據規劃，相關機器人產品將率先應用於安保巡邏、保潔清掃等物業服務場景。"
+    },
+    {
+      "id": "mkt:019ecb49-bdd5-7dd8-b00d-9462bf71b8f0",
+      "time": "2026-06-15 20:37:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "TASNIM NEWS, citing informed sources, said U.S. forces must withdraw from areas near Iran within 30 days of a final agreement being reached."
+    },
+    {
+      "id": "mkt:019ecb49-6e69-7dd8-b00d-8a01b796472c",
+      "time": "2026-06-15 20:37:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran: nuclear talks and sanctions relief to begin within 60 days】Iran's foreign ministry spokesman told Iranian media on the 15th that nuclear talks and sanctions relief will begin within 60 days."
+    },
+    {
+      "id": "4936628",
+      "time": "2026-06-15 20:37:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：最終協議達成後，美軍須在 30 天內撤離伊朗周邊區域。"
+    },
+    {
+      "id": "te:economy:559064",
+      "time": "2026-06-15 20:37:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Wholesale Sales",
+        "Importance 1"
+      ],
+      "text": "Canadian Wholesale Sales Grow for 3rd Month — Wholesale sales in Canada expanded by 0.6% from the previous month to C$89.3 billion in April of 2026, revised higher from the preliminary estimate of a 0.1% growth rate, to reflect the third consecutive increase in the sector. The figure excludes wholesale sales of petroleum, petroleum products, and other hydrocarbons, which surged 7.2% on the period due to the higher prices for fuel as the continuation of the war in the Middle East shut off energy exports from the region. Sales were firmly higher for building materials and supplies (4.3% to C$12.7 billion), miscellaneous goods (1.4% to C$11.5 billion), motor vehicles and parts (0.9% to C$14.7 billion), and personal and household goods (0.5% to C$13.2 billion). In turn, sales fell for food and beverage (-1.4% to C$16.2 billion) and machinery and equipment (-1.2% to $19.3 billion)."
+    },
+    {
+      "id": "4936627",
+      "time": "2026-06-15 20:36:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗：核談判和解除制裁將在60天內開始】據伊朗媒體15日報道，伊朗外交部發言人當天表示，核談判和解除制裁將在60天內開始。（新華社）"
+    },
+    {
+      "id": "mkt:019ecb48-cfed-7dd8-b00d-86ac6b6ffa23",
+      "time": "2026-06-15 20:36:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada wholesale inventories rose 1.1% MoM in April; prior +0.3%."
+    },
+    {
+      "id": "mkt:019ecb48-b193-7dd8-b00d-7f6f7199d556",
+      "time": "2026-06-15 20:36:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Inventories (MoM) (Apr) | actual 1.1% | previous 0.3%"
+    },
+    {
+      "id": "4936626",
+      "time": "2026-06-15 20:36:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩當局提醒逃難者：以軍沒撤，彆著急回家】美國和伊朗15日達成關於停戰談判的諒解備忘錄，但以色列對黎巴嫩南部的佔領和襲擊並未終止。黎巴嫩地方當局當天發表宣告，呼籲那些先前為躲避戰火被迫離家的民眾先彆著急回家，因為以軍還未撤出黎南部。據黎巴嫩國家通訊社15日報道，以色列當天上午對黎南部奈拜提耶、賓特朱拜勒、邁爾季歐雲等地區發動襲擊，造成人員受傷。南部地方當局紛紛發出提醒：雖然美伊達成諒解備忘錄，但以色列已表示不會從黎巴嫩南部佔領區撤軍，先前被迫離家的民眾先彆著急回家。（新華社）"
+    },
     {
       "id": "4936625",
       "time": "2026-06-15 20:34:55",
@@ -167945,146 +168060,6 @@
         "其他"
       ],
       "text": "【上海：深入建設全球領先的集裝箱樞紐港 加快建設門戶複合型國際航空樞紐】據上海釋出，上海市委副書記、市長龔正今天（6月8日）主持召開市政府常務會議，會議原則同意《上海市加快國際航運中心建設“十五五”規劃》並指出，“十五五”時期，上海國際航運中心建設要接續奮鬥，緊盯關鍵環節持續提升航運資源全球配置能力，進一步提升國際航運中心能級。要聚焦擴能增效，深入建設全球領先的集裝箱樞紐港，加快建設門戶複合型國際航空樞紐，鞏固海空樞紐地位。要聚焦高階引領，做強航運保險，做優海事法務，做大航運交易，提升航運服務水平。要聚焦轉型升級，加快綠色轉型，強化數智賦能，打造綠色燃料加註中心和交易中心，做實做強航運貿易數字化平臺，增強航運創新動能。"
-    },
-    {
-      "id": "te:economy:557295",
-      "time": "2026-06-08 20:41:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Auto Exports",
-        "Importance 1"
-      ],
-      "text": "Mexico Auto Exports Rise 1.7% YoY — Mexico’s car exports edged up 1.7% year-over-year to 306,288 units in May 2026, following an 11.42% surge in April. Exports rose for Stellantis (63.6%), VW (52.5%), Mercedes (5.4%) and Mazda (72.5%). In contrast, exports fell for GM (-0.9%), Ford (-18.3%), Nissan (-19.6%), Toyota (-1%) and Audi (-23.8%). In the first five months of the year, Mexico’s vehicle exports totalled 1,388,236 units, 4% higher than in the same period of 2025, with the US accounting for 75.4% of total exports while Canada and Germany followed with 12.5% and 3% respectively."
-    },
-    {
-      "id": "4924182",
-      "time": "2026-06-08 20:40:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華夏香港完成離岸公募基金首單“互換通”人民幣利率互換交易】日前，華夏基金（香港）旗下華夏精選人民幣投資級別收益基金成功完成首筆人民幣利率互換（IRS）交易，這是“互換通”機制推出以來離岸公募基金行業落地的第一單。據悉，北向“互換通”於2023年5月正式啟動，截至2026年4月末，已有119家境內外機構參與，市場累計交易合約超22000筆，累計清算量約12萬億元。"
-    },
-    {
-      "id": "mkt:019ea73f-7e94-799c-b571-a6f53e9d2f8a",
-      "time": "2026-06-08 20:40:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Israeli Prime Minister Netanyahu has ordered the military to halt preparations for a new round of strikes on Iran."
-    },
-    {
-      "id": "4924181",
-      "time": "2026-06-08 20:39:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧本海默將甲骨文目標價從235美元上調至275美元。"
-    },
-    {
-      "id": "mkt:019ea73f-0cf4-799c-b571-9e14f308f494",
-      "time": "2026-06-08 20:39:45",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oppenheimer raised its PT for Oracle (ORCL.N) to $275 from $235."
-    },
-    {
-      "id": "4924180",
-      "time": "2026-06-08 20:39:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國人對就業市場擔憂加劇，認為就業崗位充足的民眾佔比跌至三年低點。"
-    },
-    {
-      "id": "4924179",
-      "time": "2026-06-08 20:38:57",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家郵政局：深入整治“內卷式”競爭，指導企業規範內部考核機制】6月8日，國家郵政局召開黨組會議，會議強調，要充分認清做好行業安全穩定工作的重要性，統籌好發展和安全，將安全穩定工作要求貫穿快遞市場監管、安全監管全過程。要聚焦重點領域，全面排查化解各類風險，深入整治“內卷式”競爭，指導企業規範內部考核機制。要壓實各方責任，督促總部規範經營管理，從源頭化解矛盾糾紛。要持續強化行業執行監測和指揮排程，健全全鏈條風險防控閉環機制，推動解決具體問題，營造規範有序、穩定健康的行業發展生態。"
-    },
-    {
-      "id": "4924178",
-      "time": "2026-06-08 20:38:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航空：印度航空與泰國航空簽署諒解備忘錄，拓展泰國、印度及其他地區間的出行選擇。"
-    },
-    {
-      "id": "4924177",
-      "time": "2026-06-08 20:38:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員：敵對國家的軍艦及作戰艦艇無權駛入和通行霍爾木茲海峽。”"
-    },
-    {
-      "id": "4924176",
-      "time": "2026-06-08 20:37:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐洲推進數字主權，各國棄用美國軟體、雲服務及人工智慧產品，大型科技企業拆分程序加快。"
-    },
-    {
-      "id": "mkt:019ea73d-4334-7886-8257-ff7840c845d2",
-      "time": "2026-06-08 20:37:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "GLW.N",
-        "Impact bullish",
-        "AMZN.O"
-      ],
-      "text": "Corning (GLW.N) shares rose 9% premarket after the company reached a collaboration agreement with Amazon (AMZN.O)."
-    },
-    {
-      "id": "mkt:019ea73c-fd47-7886-8257-f3b16b40832b",
-      "time": "2026-06-08 20:37:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "HKO issued the first Black Rainstorm Warning of the year."
-    },
-    {
-      "id": "4924175",
-      "time": "2026-06-08 20:37:28",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【強生將以10億美元現金收購生物技術公司Firefly Bio】6月8日，強生公司發表宣告稱，已達成最終協議，將以10億美元現金收購生物技術公司Firefly Bio。該交易尚需獲得監管批准，預計於今年晚些時候完成。"
-    },
-    {
-      "id": "mkt:019ea73c-b705-7886-8257-edd6ed4825bb",
-      "time": "2026-06-08 20:37:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "GLW.O",
-        "Impact bullish",
-        "AMZN.O"
-      ],
-      "text": "Amazon (AMZN.O) said it reached an agreement with Corning Inc. (GLW) to expand U.S. optical-fiber manufacturing and create 1,000 advanced manufacturing jobs in North Carolina."
     }
   ]
 }
