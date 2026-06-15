@@ -1,7 +1,174 @@
 {
-  "updated": "2026-06-15 08:02:02",
-  "count": 18345,
+  "updated": "2026-06-15 08:05:52",
+  "count": 18340,
   "items": [
+    {
+      "id": "mkt:019ec898-d8c2-7dd8-aff9-5bb6290ab15e",
+      "time": "2026-06-15 08:05:20",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan shipping index falls more than 2%."
+    },
+    {
+      "id": "4935021",
+      "time": "2026-06-15 08:04:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本航空運輸指數上漲3.6%。"
+    },
+    {
+      "id": "4935020",
+      "time": "2026-06-15 08:04:45",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：未來汽車消費稅改革可能由單一排量導向逐步轉向價格、重量及資源佔用等角度】中信證券研報指出，新能源汽車快速發展正在改變汽車消費稅傳統徵稅基礎。現行汽車消費稅以發動機排量為核心依據，在燃油車時代兼具節能導向與消費結構調節功能。透過梳理我國汽車消費稅制度演變、燃油車稅基變化及新能源汽車背景下的改革趨勢發現，燃油車市場持續向中小排量集中，汽車消費稅稅基逐步集中於3%和5%稅率區間，新能源汽車滲透率提升則導致傳統稅基持續收縮。中信證券認為未來汽車消費稅改革可能由單一排量導向逐步轉向價格、重量及資源佔用等角度，以適應新能源汽車時代新的產業格局。"
+    },
+    {
+      "id": "4935019",
+      "time": "2026-06-15 08:04:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數(TOPIX)延續漲勢，最新上漲1.8%，報3,950.35點。"
+    },
+    {
+      "id": "te:markets:558834",
+      "time": "2026-06-15 08:04:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Jump on Iran Peace Breakthrough — US stock futures rallied on Monday after investors welcomed a breakthrough agreement to end the conflict between the US and Iran, paving the way for the reopening of the Strait of Hormuz. The deal, which is set to be signed in Switzerland on June 19, reportedly includes the lifting of blockades, sanctions relief for Iran, and the dismantling of Tehran’s nuclear program. Oil prices fell to a two-month low following the announcement, easing worries about rising inflation and the risk of interest rate hikes. Dow and S&P 500 futures climbed more than 1%, while Nasdaq 100 futures advanced over 2%. The major indexes are also coming off a strong week, with sentiment boosted by SpaceX’s record-breaking IPO on Friday. The company finished the session with a market capitalization above $2 trillion after soaring more than 19%, highlighting robust investor appetite for high-profile growth stocks."
+    },
+    {
+      "id": "4935018",
+      "time": "2026-06-15 08:04:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【渣打考慮在香港設立其首個黃金金庫】據《信報》報道，渣打香港、大中華及北亞區市場金融及戰略客戶主管曾繼志稱，該行正考慮在香港自建黃金金庫。 曾繼志稱，計劃仍處於早期階段；如果建成，它將成為該集團首個實體黃金金庫。該設施可以幫助機構客戶交易黃金及相關衍生品，從而增強該行的黃金交易生態系統。"
+    },
+    {
+      "id": "4935017",
+      "time": "2026-06-15 08:03:58",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：CPO節奏放慢意味著NPO可能加速推進 持續看好光通訊板塊】中信建投證券研報稱，近日，美國半導體研究機構SemiAnalysis釋出報告認為：銅纜和可插拔光模組兩條產品線需求長期向好，CPO的規模量產時間可能推遲至2028年乃至2029年，CPO節奏放慢意味著NPO可能加速推進。中信建投認為，不論是CPO還是NPO，主要面向Scale Up市場，這對可插拔光模組供應商而言都是增量市場，傳統可插拔光模組公司可以深度參與這塊增量市場。近期，光通訊板塊由於前期漲幅較大、情緒擾動等而出現調整，中信建投認為並不會動搖行業基本面向好的基本趨勢，依然對整個光通訊及CPO/NPO產業鏈的景氣度保持樂觀與看好的態度。"
+    },
+    {
+      "id": "4935016",
+      "time": "2026-06-15 08:03:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲1%，報8,894.30點。"
+    },
+    {
+      "id": "mkt:019ec897-8d92-7dd8-aff9-53a9c88424f5",
+      "time": "2026-06-15 08:03:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500"
+      ],
+      "text": "Japan's Nikkei 225 index breached 67,000 points, up 2.17% intraday."
+    },
+    {
+      "id": "4935015",
+      "time": "2026-06-15 08:03:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數擴大漲幅，最新上漲2.2%，報67,450.70點。"
+    },
+    {
+      "id": "4935014",
+      "time": "2026-06-15 08:03:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "澳大利亞伍德賽德能源股價下跌1.8%，報30.68澳元；此前該公司表示，並不知曉所謂與埃克森美孚的收購相關提案。"
+    },
+    {
+      "id": "4935013",
+      "time": "2026-06-15 08:02:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本海運指數下跌2.4%。"
+    },
+    {
+      "id": "te:markets:558833",
+      "time": "2026-06-15 08:01:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "TTF Gas Hits 5-week Low — TTF Gas decreased to 44.24 EUR/MWh, the lowest since May 2026. Over the past 4 weeks, Natural Gas EU lost 0.31%, and in the last 12 months, it increased 24.59%."
+    },
+    {
+      "id": "te:markets:558832",
+      "time": "2026-06-15 08:01:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 34-week Low — Corn decreased to 410.25 USd/BU, the lowest since October 2025. Over the past 4 weeks, Corn lost 13.99%, and in the last 12 months, it decreased 5.63%."
+    },
+    {
+      "id": "mkt:019ec895-a46b-7dd8-aff9-48b095d6d050",
+      "time": "2026-06-15 08:01:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "SK Hynix and Samsung Electronics shares rose more than 6%."
+    },
+    {
+      "id": "4935012",
+      "time": "2026-06-15 08:01:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.2%至275.06點。"
+    },
+    {
+      "id": "4935011",
+      "time": "2026-06-15 08:01:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元在岸交易開盤報1美元兌1511.4韓元，前收盤價為1美元兌1518.3韓元。"
+    },
     {
       "id": "mkt:019ec895-61ae-7dd8-aff9-47d632bd23dc",
       "time": "2026-06-15 08:01:33",
@@ -168394,228 +168561,6 @@
         "焦點"
       ],
       "text": "【日本日經225指數跌破65000點】日經225指數下跌超過2.7%，一度跌至64819.47點。"
-    },
-    {
-      "id": "4922459",
-      "time": "2026-06-08 08:05:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長擴大了與SK集團的合作範圍，合作領域從人工智慧超級計算機延伸至中央處理器、個人電腦和機器人技術。"
-    },
-    {
-      "id": "te:economy:557036",
-      "time": "2026-06-08 08:05:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "GDP Growth Annualized",
-        "Importance 1"
-      ],
-      "text": "Japan Economy Expands at Annualized 1.8% in Q1 — Japan’s economy grew at an annualized rate of 1.8% in Q1 2026, below the preliminary estimate of 2.1% but above market expectations of 1.3%. The pace also accelerated from a downwardly revised 0.7% expansion in Q4, marking the strongest annualized growth in four quarters."
-    },
-    {
-      "id": "mkt:019ea48c-67e4-7338-95ac-fd0e8a4f3925",
-      "time": "2026-06-08 08:05:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesia issues tsunami warning for northeast coastal areas."
-    },
-    {
-      "id": "4922458",
-      "time": "2026-06-08 08:05:20",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家網信辦、市場監管總局聯合印發《網路測評活動規範》】近日，國家網信辦、市場監管總局聯合印發《網路測評活動規範》（以下簡稱《規範》）。國家網信辦有關負責人表示，《規範》旨在規範網路測評活動，維護公平市場競爭秩序，保護公民、法人和其他組織合法權益。《規範》明確，從事網路測評活動，應當遵守法律、行政法規和國家有關規定，遵循商業道德、公序良俗，堅持客觀、公正、全面、準確原則。《規範》要求，從事網路測評活動，涉及對產品功能、效能等專案測試，應當委託具有法定檢驗檢測資質許可的檢驗檢測機構按照相關標準以及技術規範開展測試。對食品開展檢驗檢測的，測試方應當具備相應資質，不得使用非標方法，不得測評無國家標準檢驗方法的專案。不得采取不同標準、不同方法對同類產品進行橫向、縱向比較。《規範》提出，未對產品開展測試，僅憑主觀感受對產品進行評價，應當進行說明。網站平臺要加強對網路測評資訊內容管理，及時受理處置相關投訴舉報。"
-    },
-    {
-      "id": "4922457",
-      "time": "2026-06-08 08:05:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英偉達執行長：已與SK海力士達成長期協議；沒有哪個國家在機器人產業的準備比韓國更充分。"
-    },
-    {
-      "id": "mkt:019ea48c-0757-7338-95ac-f533d12485e0",
-      "time": "2026-06-08 08:04:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc said it measured a magnitude 7.9 earthquake in the Philippine Islands region at 07:37 on June 8, with a hypocenter depth of 40 km."
-    },
-    {
-      "id": "mkt:019ea48b-de39-7338-95ac-e84393c9c50e",
-      "time": "2026-06-08 08:04:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said South Korea's readiness in robotics technology is unparalleled."
-    },
-    {
-      "id": "4922456",
-      "time": "2026-06-08 08:04:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度尼西亞地球物理局：已對印度尼西亞東北部沿海地區釋出海嘯預警。"
-    },
-    {
-      "id": "mkt:019ea48b-ad24-7338-95ac-e19d6e096916",
-      "time": "2026-06-08 08:04:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said NVIDIA has reached a long-term agreement with SK Hynix."
-    },
-    {
-      "id": "4922455",
-      "time": "2026-06-08 08:04:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【韓國KOSPI指數大跌觸發熔斷機制 交易暫停】韓國交易所因KOSPI指數跌幅達8%觸發熔斷機制，交易暫停20分鐘。"
-    },
-    {
-      "id": "mkt:019ea48b-4306-7338-95ac-da2c7515ef85",
-      "time": "2026-06-08 08:04:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Korea Exchange triggered a market-wide circuit breaker after the KOSPI fell 8%, suspending trading for 20 minutes."
-    },
-    {
-      "id": "4922454",
-      "time": "2026-06-08 08:03:44",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【韓國KOSPI指數大跌8.8% 三星和SK海力士領跌】韓國首爾股市綜合股價指數（KOSPI）下跌超8%，報7445.1點。三星電子股價下跌10%。SK海力士股價下跌11%。"
-    },
-    {
-      "id": "mkt:019ea48a-ced7-7338-95ac-d65eb37822f4",
-      "time": "2026-06-08 08:03:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said its AI business is already profitable."
-    },
-    {
-      "id": "mkt:019ea48a-a4bf-7338-95ac-ce18180fdd32",
-      "time": "2026-06-08 08:03:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "000660.KS",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said SK is NVIDIA's largest memory partner and that the two have established a significant, long-term partnership."
-    },
-    {
-      "id": "4922453",
-      "time": "2026-06-08 08:03:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌10%。"
-    },
-    {
-      "id": "4922452",
-      "time": "2026-06-08 08:03:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價下跌11%."
-    },
-    {
-      "id": "mkt:019ea48a-3791-7338-95ac-c3002f07e5ca",
-      "time": "2026-06-08 08:03:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI early losses widened to 8.4%; Samsung and SK Hynix each down 10%."
-    },
-    {
-      "id": "4922451",
-      "time": "2026-06-08 08:02:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌1.7%至268.84點。"
-    },
-    {
-      "id": "4922450",
-      "time": "2026-06-08 08:02:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：06月08日07時37分在菲律賓群島地區（北緯5.55度，東經125.10度）發生7.9級地震，震源深度40千米。"
-    },
-    {
-      "id": "4922449",
-      "time": "2026-06-08 08:02:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳：SK海力士是我們最大的儲存晶片合作伙伴。"
-    },
-    {
-      "id": "4922448",
-      "time": "2026-06-08 08:02:11",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：預計二季度保險公司業績表現搶眼 保險板塊正處於長期機遇期中的重要配置視窗】中信證券指出，資產端，債券收益率曲線陡峭化帶來無風險配置機會，股市調整提供高股息資產的加倉視窗；負債端，銀保市場與高客市場構成核心增量，頭部險企資產負債表擴張具有高盈利確定性。未來三到五年，投資能力將形成市場口碑並拉動保單銷售，而養老、醫療、護理等低頻剛需服務將成為大型險企真實的核心競爭力與準公用事業壁壘。隨著2026年二季度創業板大漲，滬深300企穩向上，預計二季度保險公司業績表現搶眼，保險板塊正處於長期機遇期中的重要配置視窗。"
-    },
-    {
-      "id": "4922447",
-      "time": "2026-06-08 08:02:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經波動率指數升至40以上，為自4月7日以來的首次。"
     }
   ]
 }
