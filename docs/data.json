@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-16 03:01:41",
-  "count": 18243,
+  "updated": "2026-06-16 03:05:35",
+  "count": 18238,
   "items": [
+    {
+      "id": "mkt:019ecca9-37eb-7dd8-b016-1a3e47b5b501",
+      "time": "2026-06-16 03:01:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.13% at 24,799, trading 44 points below the cash index."
+    },
     {
       "id": "4937034",
       "time": "2026-06-16 03:00:03",
@@ -167695,54 +167707,6 @@
         "國際"
       ],
       "text": "【韓元脫離2009年以來最低位】週一（6月8日），韓元兌美元最終漲2%，報1526.98韓元，全天持續上揚。上週五（非農日）曾跌至1562.29韓元，創2009年3月以來最低位。"
-    },
-    {
-      "id": "4924631",
-      "time": "2026-06-09 03:05:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：執董會批准向盧安達提供 2.5 億美元擴充套件信貸安排，並當即撥付 3570 萬美元。"
-    },
-    {
-      "id": "mkt:019ea89e-6c85-733a-9234-9e694bfaeb94",
-      "time": "2026-06-09 03:03:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF Executive Board approved Rwanda's request to extend its credit arrangements."
-    },
-    {
-      "id": "mkt:019ea89e-349b-733a-9234-9796524a682f",
-      "time": "2026-06-09 03:03:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNN reports Iranian officials said Tehran \"has no problem\" holding talks with the US, but that Washington must change its behavior."
-    },
-    {
-      "id": "4924630",
-      "time": "2026-06-09 03:03:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7842元，較上週五夜盤收盤漲36點。成交量467.76億美元。"
-    },
-    {
-      "id": "mkt:019ea89d-59b6-733a-9234-8c442a9e5f34",
-      "time": "2026-06-09 03:02:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios, citing sources, said Ukrainian President Zelenskiy spoke by phone on Monday with Witkoff and Kushner."
-    },
-    {
-      "id": "mkt:019ea89c-eb6c-733a-9234-86e2215c3c65",
-      "time": "2026-06-09 03:01:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hang Seng Index futures night session closed down 0.04% at 24,555, trading 102 points below the spot index."
     }
   ]
 }
