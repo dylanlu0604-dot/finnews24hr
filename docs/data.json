@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-15 07:58:04",
-  "count": 18343,
+  "updated": "2026-06-15 08:02:02",
+  "count": 18345,
   "items": [
+    {
+      "id": "mkt:019ec895-61ae-7dd8-aff9-47d632bd23dc",
+      "time": "2026-06-15 08:01:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Asian indices open higher; South Korea's KOSPI jumps 5%】South Korea's KOSPI opened June 15 up 425.23 points (+5.23%) at 8,548.85. Japan's Nikkei 225 opened June 15 up 858.13 points (+1.30%) at 66,878.17."
+    },
+    {
+      "id": "4935010",
+      "time": "2026-06-15 08:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價漲幅超6%。"
+    },
+    {
+      "id": "4935009",
+      "time": "2026-06-15 08:01:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子股價漲幅超6%。"
+    },
+    {
+      "id": "4935008",
+      "time": "2026-06-15 08:00:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體15日報道，伊朗武裝部隊哈塔姆安比亞中央總部當天凌晨發表宣告說，伊朗人民以及武裝部隊和地區抵抗力量在最高領袖指揮體系領導下，成功使美國及以色列等敵人“承認失敗並接受投降”。（新華社）"
+    },
+    {
+      "id": "4935007",
+      "time": "2026-06-15 08:00:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏當局稱，俄羅斯襲擊烏克蘭哈爾科夫造成5人死亡，至少5人受傷。"
+    },
+    {
+      "id": "te:markets:558830",
+      "time": "2026-06-15 08:00:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Australia Hit 5-week High — ASX200 increased to 8852.00 Index Points, the highest since May 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) gained 3.51%, and in the last 12 months, it increased 2.99%."
+    },
+    {
+      "id": "4935006",
+      "time": "2026-06-15 08:00:38",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲5%，至8526.12點。"
+    },
+    {
+      "id": "4935005",
+      "time": "2026-06-15 08:00:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報66783.22點，漲幅1.16％。韓國綜合股價指數（KOSPI）開盤上漲5％，至8526.12點。"
+    },
+    {
+      "id": "te:markets:558828",
+      "time": "2026-06-15 08:00:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Chinese Yuan Hits 3-year High — The Chinese Yuan touched 6.76 against the USD, the highest since February 2023. Over the past 4 weeks, US Dollar Chinese Yuan lost 0.83%, and in the last 12 months, it decreased 5.91%."
+    },
+    {
+      "id": "mkt:019ec893-73e2-7dd8-aff9-3a42ff595761",
+      "time": "2026-06-15 07:59:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "AUDUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Strategist: oil unlikely to return to $70 soon】ATFX global chief market strategist Nick Twida said the USD may weaken over the next few trading sessions. Risk currencies such as AUD and JPY could see modest gains but large moves are unlikely. Significant uncertainty remains over when the strait will fully reopen and how long oil flows will take to normalize; normalization could take months, not weeks. He does not expect oil to return to $70 soon."
+    },
+    {
+      "id": "4935004",
+      "time": "2026-06-15 07:58:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【達力普控股：獲埃及通用石油公司萬噸油井管訂單】達力普控股在港交所公告，集團近日獲埃及國家石油公司之核心子公司-埃及通用石油公司（GPC）採購油井管訂單。GPC將向集團採購油井管產品，訂單採購量約為1萬噸，較去年同期大增超過43%。GPC為埃及及北非地區重要的石油勘探生產企業之一。"
+    },
     {
       "id": "mkt:019ec891-011f-7dd8-aff9-37f59789be2f",
       "time": "2026-06-15 07:56:46",
@@ -168511,94 +168616,6 @@
         "其他"
       ],
       "text": "日經波動率指數升至40以上，為自4月7日以來的首次。"
-    },
-    {
-      "id": "mkt:019ea489-3d96-7338-95ac-bff7cecd37a0",
-      "time": "2026-06-08 08:01:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "【Japan, South Korea stocks open lower】Japan's Nikkei 225 opened down 604.51 pts (-0.91%) at 65,983.61 on Monday, June 8. South Korea's KOSPI opened down 120.21 pts (-1.47%) at 8,040.38. The moves follow a more than 4% drop in the U.S. Nasdaq on Friday."
-    },
-    {
-      "id": "4922446",
-      "time": "2026-06-08 08:01:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：協議暫未達成是因為伊朗“實力不俗”且“態度強硬”】特朗普總統表示，伊朗目前尚未同意達成停戰協議，原因是伊朗“實力不俗”且“態度強硬”，同時民族自尊心較強，但他也指出，伊朗最終“別無選擇”，只能接受談判締約。 這段採訪錄製於週五，完整內容於週日上午播出。特朗普在採訪中稱：“他們實力強勁、自尊心強，有些事他們原本絕不願做，但如今不得不妥協。” 他補充道：“他們沒有別的選擇，只是談判還需要一些時間。”"
-    },
-    {
-      "id": "4922445",
-      "time": "2026-06-08 08:01:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國公佈提振貨幣措施，韓元兌美元上漲0.3%。"
-    },
-    {
-      "id": "4922444",
-      "time": "2026-06-08 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.4%，至8048.09點。"
-    },
-    {
-      "id": "4922443",
-      "time": "2026-06-08 08:00:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報65947.56點，跌幅0.96%。"
-    },
-    {
-      "id": "te:economy:557035",
-      "time": "2026-06-08 07:59:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "GDP Growth Rate",
-        "Importance 2"
-      ],
-      "text": "Japan Confirms Faster Q1 GDP Growth — Japan’s GDP expanded by 0.5% qoq in Q1 2026, matching flash data and accelerating from a 0.2% increase in Q4. The latest result was also above market estimates of a 0.3% growth, marking the strongest quarterly expansion since Q1 2025."
-    },
-    {
-      "id": "4922442",
-      "time": "2026-06-08 07:59:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所週一表示，已召開緊急會議，評估不斷上升的市場波動，並討論確保市場穩定執行的措施。"
-    },
-    {
-      "id": "te:economy:557034",
-      "time": "2026-06-08 07:59:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Loan Growth",
-        "Importance 1"
-      ],
-      "text": "Japan Bank Lending Growth Strongest Since 2021 — Japan’s bank lending rose 5.7% year-on-year in May 2026, exceeding market forecasts for a 5.6% increase and accelerating from a 5.4% gain in the previous month. The latest figure also marked the fastest growth since March 2021, with the total outstanding loans at major, regional, and shinkin banks reaching JPY 670.8 trillion. Major banks continued to drive lending growth, with outstanding loans rising 8.7% year-on-year, up from 7.9% in April. Lending by regional banks also increased 4.3%, slightly faster than 4.2% in the previous month, as Regional Banks I accelerated to 4.7% from 4.5%, while Regional Banks II slowed to 2.4% from 3.0%. Shinkin banks, which mainly serve small businesses and local communities, also saw lending growth pick up to 1.7% from 1.5%."
-    },
-    {
-      "id": "4922441",
-      "time": "2026-06-08 07:58:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "開山股份表示，其美國子公司Open Mountain Energy將與Power Planet Inc合作開發增強型地熱系統。"
     }
   ]
 }
