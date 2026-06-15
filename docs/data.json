@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-16 04:23:20",
+  "updated": "2026-06-16 04:27:30",
   "count": 18215,
   "items": [
+    {
+      "id": "4937113",
+      "time": "2026-06-16 04:23:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美加州州長稱特朗普指示司法部對其展開調查】美國加利福尼亞州州長紐森15日指責總統特朗普將他視為“政治敵人”，並“指示司法部”對其展開調查。紐森在社交媒體上稱，特朗普將他和妻子一起列入“打擊名單”。“調查人員敲響了我們家族朋友和前僱員的家門。他們這麼做並不是因為發現了什麼犯罪行為，而是試圖找出一個罪名。”紐森表示，這項調查帶有政治動機，因為他一直公開批評特朗普，同時也在考慮競選下屆美國總統。（新華社）"
+    },
     {
       "id": "mkt:019eccf3-3539-7dd8-b016-8fa4b6a368c6",
       "time": "2026-06-16 04:22:31",
@@ -167433,14 +167441,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.16% Lower — The Dow Jones Index decreased 81 points or 0.16 percent on Monday to close at 50786 points. The decline was led by Travelers Companies (-2.16%), Apple (-1.95%) and Sherwin-Williams (-1.87%). On the upside, the strongest performers were Cisco Systems (1.99%), Nvidia (1.71%) and UnitedHealth (1.69%)."
-    },
-    {
-      "id": "4924677",
-      "time": "2026-06-09 04:27:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "Perrigo預計全財年調整後持續經營每股收益2美元至2.30美元。"
     }
   ]
 }
