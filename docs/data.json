@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-15 22:59:19",
-  "count": 18320,
+  "updated": "2026-06-15 23:03:26",
+  "count": 18317,
   "items": [
+    {
+      "id": "mkt:019ecbce-61ac-7dd8-b011-5bcd72d01f65",
+      "time": "2026-06-15 23:02:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI commits $50 mln to support nonprofit organizations working in artificial intelligence."
+    },
+    {
+      "id": "mkt:019ecbce-212f-7dd8-b011-521f53d10963",
+      "time": "2026-06-15 23:02:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC holds talks with Trump administration over new model dispute】CNBC reported senior ANTHROPIC executives met in Washington on Monday with Trump administration officials after a U.S. export-control directive on Friday ordered the company to suspend access to its newest AI models, Fable 5 and MYTHOS 5, for any foreign national whether inside or outside the United States. ANTHROPIC said it disabled customer access to comply. The company said it had tested the models with government agencies and received deployment clearance before release. The U.S. government called ANTHROPIC at 1:00 p.m. ET on Friday requesting the shutdown and followed with a formal letter around 5:30 p.m. ET; ANTHROPIC said it had received no prior notice of a national-security concern before the directive."
+    },
+    {
+      "id": "mkt:019ecbcd-8475-7dd8-b011-4bd2f046047d",
+      "time": "2026-06-15 23:01:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) said it will invest $1.5 billion to expand its data center campus in Jackson County, Alabama, with work scheduled for 2026 and 2027."
+    },
+    {
+      "id": "mkt:019ecbcd-19a3-7dd8-b011-46e56cd9b9f7",
+      "time": "2026-06-15 23:01:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources said Russia's TANECO refinery suspended operations after a drone strike on June 12."
+    },
+    {
+      "id": "4936876",
+      "time": "2026-06-15 23:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃對美伊停火協議表示歡迎，並警告稱衝突升級將給全球增長帶來明確風險。"
+    },
+    {
+      "id": "te:markets:559083",
+      "time": "2026-06-15 23:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Increases by 0.87% — Top currency gainers are Swedish Krona (0.87%), Indian Rupee (0.80%), Brazilian Real (0.71%), Euro (0.34%), British Pound (0.27%) and Japanese Yen (0.06%). Biggest loser is Dollar Index (-0.25%)."
+    },
+    {
+      "id": "4936875",
+      "time": "2026-06-15 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續跌3.13%，PTA連續跌2.84%，甲醇連續跌2.81%，瀝青連續跌2.73%，聚丙烯連續跌2.65%。"
+    },
+    {
+      "id": "4936874",
+      "time": "2026-06-15 22:59:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "格陵蘭資源公司：將開展鎂及稀土元素回收的冶金專案。"
+    },
+    {
+      "id": "4936873",
+      "time": "2026-06-15 22:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室表示，有關當局正在展開調查。"
+    },
+    {
+      "id": "4936872",
+      "time": "2026-06-15 22:59:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室表示，一艘油輪報告稱遭到一艘小型摩托艇逼近，該摩托艇還對船隻開火。"
+    },
     {
       "id": "4936871",
       "time": "2026-06-15 22:58:29",
@@ -168374,151 +168472,6 @@
         "國際"
       ],
       "text": "【英國海上貿易行動辦公室：阿曼附近一艘油輪起火 船員撤離】英國海上貿易行動辦公室(UKMTO)表示，一艘油輪起火，導致船員撤離。事件發生在阿曼馬西拉島東北15海里處，阿曼和印度當局正在協調處置，目前尚未收到任何環境影響報告。"
-    },
-    {
-      "id": "mkt:019ea7c2-2271-7226-8cb7-7277a22d1ab8",
-      "time": "2026-06-08 23:02:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "New York Fed: May median expected gasoline price increase over the next 12 months 5.0%, down from 5.1% in April."
-    },
-    {
-      "id": "mkt:019ea7c1-c85a-7226-8cb7-6a38425cfd7a",
-      "time": "2026-06-08 23:02:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "New York Fed: expected quits rate rose to its highest level since February 2023."
-    },
-    {
-      "id": "4924407",
-      "time": "2026-06-08 23:02:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【俄外交部發言人：俄將根據亞美尼亞實際舉措調整政策】據俄羅斯塔斯社8日報道，俄外交部發言人扎哈羅娃表示，俄方將根據亞美尼亞領導層的實際舉措來調整對其政策。亞美尼亞國民會議（議會）選舉7日舉行。亞美尼亞中央選舉委員會8日公佈的初步計票結果顯示，現任總理帕什尼揚領導的公民合約黨獲得超過72.7萬張選票，得票率49.81%，排名第一。（新華社）"
-    },
-    {
-      "id": "mkt:019ea7c1-7e63-7226-8cb7-60faee24d3c4",
-      "time": "2026-06-08 23:02:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "New York Fed: Survey respondents' assessments of both current and future financial conditions deteriorated in May."
-    },
-    {
-      "id": "mkt:019ea7c1-3170-7226-8cb7-5a3039b4531e",
-      "time": "2026-06-08 23:01:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "CNH"
-      ],
-      "text": "China's main futures contracts closed mixed at 23:00. Coking coal fell over 6%, coke dropped more than 3%, caustic soda and fuel oil were down over 2%, low-sulfur fuel oil (LU) was nearly 2% lower, LPG fell over 1% and glass slipped about 1%; PTA, starch, paraxylene and ethylene glycol (EG) rose over 1%, while bitumen, PET flakes and corn gained around 1%."
-    },
-    {
-      "id": "mkt:019ea7c0-ead1-7226-8cb7-530fb0efceb3",
-      "time": "2026-06-08 23:01:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York Fed: US 3-year inflation expectations unchanged at 3.1%; 5-year unchanged at 3.0%."
-    },
-    {
-      "id": "mkt:019ea7c0-6826-7226-8cb7-4d65614468e7",
-      "time": "2026-06-08 23:01:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "New York Fed: respondents say the probability of unemployment will rise over the next 12 months."
-    },
-    {
-      "id": "em:qqyh_mlc:202606083763951225",
-      "time": "2026-06-08 23:00:47",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美國5月紐約聯儲1年通脹預期報3.46%，前值3.64%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606083763951225",
-      "time": "2026-06-08 23:00:47",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國5月紐約聯儲1年通脹預期報3.46%，前值3.64%。"
-    },
-    {
-      "id": "mkt:019ea7bf-c8fd-7226-8cb7-4041fc141f0c",
-      "time": "2026-06-08 23:00:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "New York Fed 1-year inflation expectation for May 3.46%, down from 3.64% previously."
-    },
-    {
-      "id": "te:markets:557333",
-      "time": "2026-06-08 23:00:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Appreciates by 2.04% — Top currency gainers are South Korean Won (2.04%), New Zealand Dollar (0.44%), Swedish Krona (0.29%), Euro (0.18%) and Japanese Yen (0.14%). Biggest loser is Dollar Index (-0.13%). Meanwhile British Pound was little changed."
-    },
-    {
-      "id": "4924406",
-      "time": "2026-06-08 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】焦煤連續跌6.01%，焦炭連續跌3.13%，低硫燃料油連續跌2.01%，燃料油連續跌1.87%，PTA連續漲1.20%。"
-    },
-    {
-      "id": "mkt:019ea7bf-76ac-7226-8cb7-3e561bb525d4",
-      "time": "2026-06-08 23:00:03",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bearish"
-      ],
-      "text": "Germany confirmed it has agreed to terminate the Future Combat Air System (FCAS) joint fighter program."
     }
   ]
 }
