@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-15 12:37:10",
-  "count": 18252,
+  "updated": "2026-06-15 12:41:13",
+  "count": 18254,
   "items": [
+    {
+      "id": "mkt:019ec994-d824-7dd8-affe-99b5c3984b40",
+      "time": "2026-06-15 12:40:35",
+      "tags": [
+        "MKT News",
+        "02615.HK",
+        "Impact bullish"
+      ],
+      "text": "【Baili Tianheng says NMPA accepts MAA for iza-bren in TNBC】Baili Tianheng (02615.HK) said its in-house bispecific ADC iza-bren (BL-B01D1) has had a marketing application for triple-negative breast cancer accepted by the National Medical Products Administration’s Center for Drug Evaluation. The filing covers treatment of unresectable locally advanced or metastatic TNBC in patients who progressed on prior taxane therapy. This is the drug’s third MAA acceptance by the CDE, after submissions for nasopharyngeal carcinoma and esophageal squamous cell carcinoma."
+    },
+    {
+      "id": "4935515",
+      "time": "2026-06-15 12:40:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天齊鋰業：今年以來公司主要鋰產品的銷售均價較上年同期均明顯增長】天齊鋰業(002466)6月15日在互動平臺表示，受益於新能源產業發展與下游需求增長等多重利好因素驅動，今年以來公司主要鋰產品的銷售均價較上年同期均明顯增長。"
+    },
+    {
+      "id": "4935514",
+      "time": "2026-06-15 12:40:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴基斯坦財政部長：預算為出口導向型增長指明方向。"
+    },
+    {
+      "id": "4935513",
+      "time": "2026-06-15 12:39:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其汽車工業協會：5 月國內汽車產量同比下滑 32.8%。"
+    },
+    {
+      "id": "4935512",
+      "time": "2026-06-15 12:38:40",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【巴基斯坦預算案出爐  水泥、紡織板塊領漲股市】巴基斯坦政府下調水泥、紡織等部分行業稅費，此舉有望提振相關個股行情。該國當前力求在經濟增長與履行對國際貨幣基金組織的承諾之間取得平衡。財政部長穆罕默德・奧朗則布在國會發表預算演講時表示，新財年預算整體上調稅負，同時在部分領域減稅讓利，並推出產業激勵政策。資料預估，截至今年6月的本財年經濟增速達3.7%，創下四年新高；政府定下下一財年經濟增長目標為4%。為實現上述目標，巴基斯坦優先為關聯產業眾多的房地產業以及工薪階層減稅，同時取消了針對中小企業的超級稅。"
+    },
+    {
+      "id": "4935511",
+      "time": "2026-06-15 12:37:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY汽車指數上漲2.62%。"
+    },
     {
       "id": "te:markets:558902",
       "time": "2026-06-15 12:35:24",
@@ -167859,51 +167910,6 @@
         "國際"
       ],
       "text": "【法爾斯通訊社：以色列再次襲擊伊朗石化設施】據半官方的法爾斯通訊社報道，以色列週一襲擊了位於伊朗西南部馬赫沙赫爾的卡倫石化公司，這是新一輪襲擊。法爾斯通訊社稱，該設施在以色列空襲中被炮彈擊中，遭受部分損壞。"
-    },
-    {
-      "id": "te:markets:557131",
-      "time": "2026-06-08 12:39:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Starts Week at 9-Week Low — India’s BSE Sensex dropped about 0.9% to 73,585 at Monday’s open, hitting its lowest level since April 2, as investors reacted to a sharp rise in crude oil prices and a broader risk-off mood across Asian markets. Stronger-than-expected US economic data also fueled worries that the Federal Reserve could keep interest rates higher for longer, adding pressure on emerging-market assets. Meanwhile, support emerged from the Reserve Bank of India’s latest measures aimed at attracting foreign capital inflows. The central bank announced steps to encourage non-resident deposits and external commercial borrowings, helping lift the rupee and government bonds. The downturn was led by losses in technology and financial stocks. Among individual stocks, notable decliners were HSCL, Wipro, MTAR, IFCI, GE Vernova, and E2E Networks, losing between 4.4% and 5.1%. On the upside, EMS (+14%), Thomas Cook (+10.2%), and NRB Bearings (+7.8%) were among the top gainers."
-    },
-    {
-      "id": "mkt:019ea586-cf01-7ee0-94ca-dd018cb16ea0",
-      "time": "2026-06-08 12:38:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran fires missiles at Israel, Israeli military says】Israeli military says Iran has launched missiles at Israel and that Israeli forces are attempting to intercept them."
-    },
-    {
-      "id": "4923013",
-      "time": "2026-06-08 12:38:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：識別到從伊朗發射的更多導彈，以方正開展攔截行動。"
-    },
-    {
-      "id": "mkt:019ea585-6364-7ee0-94ca-d660a54be852",
-      "time": "2026-06-08 12:37:22",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "An Iranian provincial official confirmed an Israeli missile strike damaged the Karun petrochemical plant."
     }
   ]
 }
