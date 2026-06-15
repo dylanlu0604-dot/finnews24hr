@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-15 08:25:44",
-  "count": 18333,
+  "updated": "2026-06-15 08:29:41",
+  "count": 18336,
   "items": [
+    {
+      "id": "mkt:019ec8ae-6b13-7dd8-aff9-bd55f9fd450f",
+      "time": "2026-06-15 08:28:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index touched 69,000 points for the first time on record, rising 4.52% intraday."
+    },
+    {
+      "id": "4935058",
+      "time": "2026-06-15 08:28:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數首次突破69000點大關，創下盤中新高。"
+    },
+    {
+      "id": "4935057",
+      "time": "2026-06-15 08:27:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金上漲3%，報每盎司1769.45美元。"
+    },
+    {
+      "id": "4935056",
+      "time": "2026-06-15 08:27:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【亞洲貨幣大多走強，受美伊臨時和平協議影響】早盤交易中，受美伊就臨時和平協議達成一致影響，亞洲貨幣兌美元大多走強。德國商業銀行研究部分析師在一份研究報告中表示，市場的主基調一直是風險追逐。這些分析師補充說，對美伊協議的樂觀情緒和油價下跌提振了投資者情緒。美元兌日元下跌0.2%，至159.93日元；美元兌韓元下跌0.8%，至1,505.60韓元；而美元兌澳元上漲0.5%，至0.7079美元。"
+    },
+    {
+      "id": "4935055",
+      "time": "2026-06-15 08:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本石油協會：我們將繼續盡一切可能確保和平協議簽署後石油供應穩定。"
+    },
+    {
+      "id": "4935054",
+      "time": "2026-06-15 08:27:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本建築股大幅上漲，大成建設股價上漲9.3%，清水建設上漲8.6%，鹿島建設上漲7.4%。"
+    },
+    {
+      "id": "4935053",
+      "time": "2026-06-15 08:26:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東證指數在交易時段內三天來首次突破4000點】日本東證指數在交易時段內突破4000點，創3天來新高，漲幅超3%。"
+    },
+    {
+      "id": "mkt:019ec8ab-951e-7dd8-aff9-b7ab34a762a7",
+      "time": "2026-06-15 08:25:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: information on US-Iran memorandum of understanding inaccurate】A CBS reporter said reporting on a US-Iran memorandum of understanding is inaccurate, citing false claims that Iran would receive $12bn in unfrozen funds. An official said each step of the agreement is contingent on Iran's performance: if Iran meets commitments it would receive benefits; if it fails to comply it would receive no assistance."
+    },
+    {
+      "id": "te:economy:558838",
+      "time": "2026-06-15 08:25:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Bond Yield Hits 4-week Low — US 10 Year Government Bond Yield decreased to 4.42%, the lowest since May 2026. Over the past 4 weeks, US 10 Year Note Bond Yield lost 16.60 basis points, and in the last 12 months, it decreased 2.90 basis points."
+    },
     {
       "id": "mkt:019ec8aa-e812-7dd8-aff9-acc8395f6174",
       "time": "2026-06-15 08:25:04",
@@ -168420,67 +168501,6 @@
         "Chip Wars"
       ],
       "text": "【Shenghong Technology: ASIC-related business progressing smoothly, could become core earnings driver】Shenghong Technology said it will consolidate core customer relationships, deepen strategic cooperation with technology giants and expand supply of GPU accelerator cards and TPU support boards. Its business with ASIC-related customers is progressing smoothly and could become a core driver of future earnings."
-    },
-    {
-      "id": "mkt:019ea4a2-3a76-7338-95ad-83d1a9d826a6",
-      "time": "2026-06-08 08:29:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Japan 10-year government bond yield rose 3.5 bps to 2.70%."
-    },
-    {
-      "id": "mkt:019ea4a1-2538-7338-95ad-7bb01957a0f0",
-      "time": "2026-06-08 08:28:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "SK Group chairman said shortages extend beyond semiconductors to water and other components, and he said he hopes to build a long-term ecosystem."
-    },
-    {
-      "id": "4922496",
-      "time": "2026-06-08 08:27:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團會長崔泰源：除晶片外，水和其他零部件也處於短缺狀態，我希望我們能夠構建一個長期生態體系。"
-    },
-    {
-      "id": "mkt:019ea4a0-0e97-7338-95ad-7243705d6239",
-      "time": "2026-06-08 08:26:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said everyone will have an opportunity to buy the stock at a lower price."
-    },
-    {
-      "id": "4922495",
-      "time": "2026-06-08 08:26:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長：所有人都有機會以更低的價格購入股票。"
-    },
-    {
-      "id": "4922494",
-      "time": "2026-06-08 08:26:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓群島地區強震後 多國地震監測機構釋出海嘯預警】6月8日，菲律賓火山地震研究所以及印尼氣象、氣候和地球物理局和日本方面在當天菲律賓群島地區附近發生強震後釋出海嘯預警。菲律賓火山地震研究所稱，該地震引發海嘯預警，浪高將超過正常潮位1米左右，海嘯可能持續數小時。菲火山地震研究所建議南部多個沿海地區的居民立即撤離至地勢較高的地方或向內陸轉移。在菲律賓火山地震研究所釋出海嘯預警後，印尼氣象、氣候和地球物理局也釋出海嘯預警。日本方面也針對太平洋沿岸等廣大地區釋出海嘯注意警報。"
     }
   ]
 }
