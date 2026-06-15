@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-16 03:14:32",
-  "count": 18243,
+  "updated": "2026-06-16 03:18:43",
+  "count": 18239,
   "items": [
+    {
+      "id": "4937051",
+      "time": "2026-06-16 03:17:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價15日顯著下跌】國際油價15日顯著下跌。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌4.13美元，收於每桶80.75美元，跌幅為4.87%；8月交貨的倫敦布倫特原油期貨價格下跌4.16美元，收於每桶83.17美元，跌幅為4.76%。"
+    },
+    {
+      "id": "4937050",
+      "time": "2026-06-16 03:17:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普伊核臨時協議遺留八大未解問題】週一特朗普、美國副總統萬斯與伊朗議會議長卡利巴夫已於週日線上簽署美伊臨時協議。這份臨時協議正考驗美伊兩國能否將戰場停火轉化為全面和解：第一步管控霍爾木茲海峽局勢，後續再推進更為棘手的伊朗核計劃議題。以下為圍繞這份協議尚存的八大核心問題：\n1. 這份協議是否已經正式生效；\n2. 霍爾木茲海峽能否實現真正“全面開放”；\n3. 伊朗能從中獲得哪些好處；\n4. 美伊雙方對協議條款的解讀是否達成統一；\n5. 協議完整文字是否會對外公開；\n6. 以色列是否會遵守這份協議；\n7. 美伊能否最終達成正式核協議；\n8. 若核談判破裂，戰火是否會再度燃起。"
+    },
+    {
+      "id": "4937049",
+      "time": "2026-06-16 03:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國空軍 B-52 戰略堡壘式轟炸機於當地時間上午 11:20 在愛德華茲機場起飛後不久墜毀。"
+    },
+    {
+      "id": "mkt:019eccb6-122a-7dd8-b016-3707c1fba420",
+      "time": "2026-06-16 03:15:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A US Air Force B-52 bomber crashed shortly after takeoff from Edwards Air Force Base at 11:20 a.m. local time."
+    },
     {
       "id": "mkt:019eccb3-4ade-7dd8-b016-2da9700e30a5",
       "time": "2026-06-16 03:12:42",
@@ -167674,79 +167708,6 @@
         "其他"
       ],
       "text": "蘋果：蘋果基礎大模型已迭代至第三代。"
-    },
-    {
-      "id": "mkt:019ea8ab-c6d4-733a-9234-bfd2a580b004",
-      "time": "2026-06-09 03:18:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Apple"
-      ],
-      "text": "Apple software chief Craig Federighi said Apple’s private cloud will run three in-house AI models that Apple developed based on collaborative work with Google."
-    },
-    {
-      "id": "mkt:019ea8ab-724b-733a-9234-b62f32f8e177",
-      "time": "2026-06-09 03:17:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Apple software chief Craig Federighi said Apple has built a \"world knowledge service\" that runs on its private cloud platform."
-    },
-    {
-      "id": "mkt:019ea8ab-3736-733a-9234-addaf3beb0c3",
-      "time": "2026-06-09 03:17:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Apple software chief Craig Federighi said many Apple Intelligence requests are processed on-device, while more complex requests are routed to Apple's proprietary private cloud for processing."
-    },
-    {
-      "id": "4924638",
-      "time": "2026-06-09 03:17:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果軟體主管克雷格・費德里吉： 蘋果已搭建專屬知識服務體系，該服務執行於公司自有私有云計算平臺。"
-    },
-    {
-      "id": "4924637",
-      "time": "2026-06-09 03:16:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果軟體主管克雷格・費德里吉：蘋果專屬雲將採用三款自研 AI 模型，這些模型由蘋果與谷歌合作打造。"
-    },
-    {
-      "id": "4924636",
-      "time": "2026-06-09 03:16:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果軟體主管克雷格・費德里吉： 蘋果智慧的多項指令均在裝置端處理，更復雜的請求則交由蘋果自有專屬雲端計算平臺處理。"
-    },
-    {
-      "id": "4924635",
-      "time": "2026-06-09 03:15:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：受美國封鎖影響，托克暫停部分古巴鋅貨運業務。"
-    },
-    {
-      "id": "4924634",
-      "time": "2026-06-09 03:15:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數漲幅收窄至0.3%，重新整理日低。"
     }
   ]
 }
