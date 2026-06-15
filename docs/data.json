@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-15 09:54:00",
-  "count": 18325,
+  "updated": "2026-06-15 09:58:09",
+  "count": 18323,
   "items": [
+    {
+      "id": "mkt:019ec8ff-4437-7dd8-affb-f34249ca5f53",
+      "time": "2026-06-15 09:57:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "China A-share internet finance names remained active: Tianli Technology hit the 20% daily limit, Liandi Information jumped >20%, Yingshisheng and Huaxin Yongdao rose >10%, and Zhinanzhen, Caifu Qushi, Yinzhijie and HITHINK ROYALFLUSH each gained >5%."
+    },
+    {
+      "id": "mkt:019ec8fe-aa0c-7dd8-affb-ec89f188745b",
+      "time": "2026-06-15 09:56:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "China's SSE 50 index futures (IH) front-month contract rose over 2.00% intraday, trading at 2,950.8 points."
+    },
+    {
+      "id": "4935262",
+      "time": "2026-06-15 09:56:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量339億元。"
+    },
+    {
+      "id": "mkt:019ec8fe-554c-7dd8-affb-e06dda9f14f9",
+      "time": "2026-06-15 09:56:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) says the Iranian people and armed forces have shown the enemy has no option but defeat and surrender."
+    },
+    {
+      "id": "mkt:019ec8fe-484a-7dd8-affb-d864c7209bc0",
+      "time": "2026-06-15 09:56:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share securities sector extended gains mid-session. Bank of China Securities posted a second consecutive daily limit-up; Changjiang Securities and Huaan Securities hit the limit, Caida Securities touched the limit. Tianfeng Securities, China Merchants Securities and GF Securities also rose."
+    },
+    {
+      "id": "4935261",
+      "time": "2026-06-15 09:55:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念港股走強 建滔積層板漲14%續創歷史新高】截至發稿，建滔積層板(01888.HK)漲14%，建滔集團(00148.HK)漲9%，廣合科技(01989.HK)漲4%。此前，建滔積層板已連續5日出現南向資金成交淨買入，累計淨買入金額為30.59億港元。"
+    },
+    {
+      "id": "4935260",
+      "time": "2026-06-15 09:54:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【互聯金融概念反覆活躍 天利科技20cm漲停】證券板塊持續走高，帶動互聯金融概念再度活躍，天利科技20cm漲停，聯迪資訊超20%，贏時勝、華信永道漲超10%，指南針、財富趨勢、銀之傑、同花順均漲超5%。"
+    },
+    {
+      "id": "mkt:019ec8fc-f310-7dd8-affb-d59a185dcc60",
+      "time": "2026-06-15 09:54:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "CSI500"
+      ],
+      "text": "【Multiple A-share index reconstitutions take effect today】Today (15th) constituent changes for multiple A-share indices took effect, including the Shenzhen Composite Index, ChiNext Index, SSE 50, SSE 180, CSI 300, CSI 500, STAR 50 and STAR 100. Index compilers updated and replaced constituent stocks per standard rules; the reconstitutions are notable for a concentrated inclusion of hard‑tech/deep‑technology names."
+    },
+    {
+      "id": "4935259",
+      "time": "2026-06-15 09:53:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【證券板塊再度拉昇，長江證券漲停】證券板塊再度拉昇，中銀證券2連板，長江證券、華安證券漲停，財達證券、天風證券、招商證券、廣發證券跟漲。相關ETF方面，證券ETF易方達（512570）漲4.48%，成交額7538.37萬元，證券ETF天弘（159841）漲4.66%，成交額2.91億元。"
+    },
     {
       "id": "4935258",
       "time": "2026-06-15 09:53:30",
@@ -9,6 +100,15 @@
         "A股"
       ],
       "text": "【A股多個指數樣本今天調整生效】今天（15日），A股多個指數樣本調整生效。包括深證成指、創業板指、上證50、上證180、滬深300、中證500、科創50、科創100等指數樣本股都進行了調整。指數樣本股調整簡單來說就是指數編制機構根據一定的標準和規則，對組成指數的股票進行更換和更新。總的來看，調整後，硬科技相關標的密集入選成為重要特徵。（央視新聞）"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606153771011954",
+      "time": "2026-06-15 09:53:15",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展6000億元買斷式逆回購操作】為保持銀行體系流動性充裕，今天（15日），中國人民銀行以固定數量、利率招標、多重價位中標方式開展6000億元買斷式逆回購操作，期限為183天，約6個月。買斷式逆回購是中國人民銀行推出的公開市場操作工具，是指央行從一級交易商（如大型商業銀行）手中購買債券，並約定未來由交易商回購相同數量同種債券的交易行為，以此實現向市場投放流動性。"
     },
     {
       "id": "4935257",
@@ -168401,109 +168501,6 @@
         "MKT News"
       ],
       "text": "South Korea's Lee said the rapid stock-market rebound has had an abnormal effect on the FX market."
-    },
-    {
-      "id": "4922703",
-      "time": "2026-06-08 09:57:27",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【英國企業2-4月薪資漲幅持平於3.5%，儘管最低工資上調】一項調查顯示，儘管英國最低工資標準上調，但截至4月的三個月內，英國企業薪資漲幅保持穩定。薪資研究機構IDR週一表示，2-4月期間大型僱主的薪資漲幅中值為3.5%，與1-3月持平。市場普遍預期英國央行下週將把利率維持在3.75%不變。該行正密切關注薪資增長情況，以評估通脹壓力。投資者認為，英國經濟極易受到伊朗戰爭引發的能源價格上漲影響。"
-    },
-    {
-      "id": "4922702",
-      "time": "2026-06-08 09:57:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國總統： 全體韓國民眾均從股市上漲中獲益。"
-    },
-    {
-      "id": "mkt:019ea4f2-a7ff-7ee0-94c7-d80f247c11f0",
-      "time": "2026-06-08 09:57:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's President Lee said the South Korean stock market remains undervalued."
-    },
-    {
-      "id": "4922701",
-      "time": "2026-06-08 09:57:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "現代重工集團簽署價值 3607 億韓元的合同。"
-    },
-    {
-      "id": "4922700",
-      "time": "2026-06-08 09:56:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國總統： 我認為韓國股市目前仍被低估。"
-    },
-    {
-      "id": "4922699",
-      "time": "2026-06-08 09:56:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智元機器人、傑克科技成立具身智慧科技公司】企查查APP顯示，近日，艾圖智元具身智慧科技（杭州）有限公司成立，法定代表人為張瀚文，經營範圍包含：智慧機器人的研發；智慧機器人銷售；工業機器人銷售；工業機器人制造；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由智元創新（上海）科技股份有限公司、傑克科技旗下艾圖（浙江）智慧縫製科技有限公司共同持股。"
-    },
-    {
-      "id": "4922698",
-      "time": "2026-06-08 09:55:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國總統： 股市急速上漲對外匯市場造成異常影響。"
-    },
-    {
-      "id": "4922697",
-      "time": "2026-06-08 09:55:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統： 股市出現波動在所難免。"
-    },
-    {
-      "id": "4922696",
-      "time": "2026-06-08 09:55:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "菲律賓民航局今天（6月8日）表示，受強震及海嘯預警影響，菲律賓南部桑托斯將軍城機場已暫時關閉。民航局稱，相關飛航公告自當地時間8時45分生效，預計持續至下午3時。（CCTV國際時訊）"
-    },
-    {
-      "id": "4922695",
-      "time": "2026-06-08 09:54:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【非金屬材料板塊持續拉昇，天馬新材漲超8%】非金屬材料板塊持續拉昇，天馬新材漲超8%，粵桂股份此前漲停，坤彩科技、寧新新材、石英股份、聯瑞新材跟漲。"
-    },
-    {
-      "id": "4922694",
-      "time": "2026-06-08 09:54:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗關閉德黑蘭霍梅尼國際機場周邊領空。"
-    },
-    {
-      "id": "mkt:019ea4ef-fcf2-7ee0-94c7-d6bca5769721",
-      "time": "2026-06-08 09:54:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Lee said the stock market is moving toward reasonable valuation levels."
     }
   ]
 }
