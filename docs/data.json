@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-16 06:26:18",
-  "count": 18212,
+  "updated": "2026-06-16 06:30:25",
+  "count": 18214,
   "items": [
+    {
+      "id": "4937197",
+      "time": "2026-06-16 06:29:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體行業高景氣延續可期 39家公司業績預期獲機構上調】今年一季度，半導體行業177家公司合計實現淨利潤近254億元，同比增長（可比口徑）近180%，增幅較上一年同期增加140個百分點以上。上述177家半導體公司中，2025年實現盈利，並且機構最新一致預測的2026年淨利潤增幅超過今年3月31日預測目標值的公司有39家。 從細分行業來看，這39家公司主要分佈於模擬晶片設計、半導體裝置及半導體材料等行業。 根據機構預測，39家公司中，最新一致預測2026年淨利潤增幅超過100%的公司有16家，較3月31日增加了7家。（證券時報）"
+    },
+    {
+      "id": "4937196",
+      "time": "2026-06-16 06:28:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【6月以來機構調研338家公司 電子行業最受關注】6月以來，共有338家上市公司獲機構調研，其中，傑瑞股份、大金重工、上海瀚訊、TCL科技、容大感光等15家公司獲得50家及以上機構調研。從調研內容來看，上市公司全球化佈局情況備受機構關注。從行業分佈來看，電子行業最受機構關注，6月以來獲調研的公司共有52家。此外，機械裝置、基礎化工行業獲機構調研公司數量靠前，分別有39家、30家；電力裝置、醫藥生物、計算機行業也均有20家以上公司獲機構調研。（證券時報）"
+    },
+    {
+      "id": "4937195",
+      "time": "2026-06-16 06:26:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚已為蓋亞那近海斯塔布魯克區塊的35口井勘探專案申請環境許可。"
+    },
+    {
+      "id": "mkt:019ecd64-3de3-7dd8-b017-67f1f13aa3d1",
+      "time": "2026-06-16 06:25:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios reports sources say the CIA director is skeptical of an Iran deal, believing Iran is unwilling to make the nuclear concessions the US seeks in a final agreement."
+    },
     {
       "id": "4937194",
       "time": "2026-06-16 06:25:19",
@@ -167396,25 +167432,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Platinum Falls by 2.31% — Top commodity losers are Platinum (-2.31%), Iron Ore (-0.93%), Iron Ore CNY (-0.91%) and Gold (-0.13%). Gains are led by Silver (1.23%) and Copper (0.69%)."
-    },
-    {
-      "id": "te:markets:557373",
-      "time": "2026-06-09 06:30:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Rises by 3.83% — Top commodity gainers are Natural Gas UK (3.83%), Natural Gas EU (3.69%), Germany Natural Gas THE (3.08%), Brent Crude Oil (1.45%) and Crude Oil WTI (0.91%). Biggest losers are Natural gas (-2.88%) and Propane (-2.40%)."
-    },
-    {
-      "id": "4924735",
-      "time": "2026-06-09 06:28:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "據AXIOS：美國白宮正協商推動聯邦法律優先於各州人工智慧相關法規實施。"
     }
   ]
 }
