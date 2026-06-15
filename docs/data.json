@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-15 12:33:18",
-  "count": 18256,
+  "updated": "2026-06-15 12:37:10",
+  "count": 18252,
   "items": [
+    {
+      "id": "te:markets:558902",
+      "time": "2026-06-15 12:35:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Hits 5-Week High — India’s BSE Sensex rose about 1.6% to 76,670 at the open on Monday, reaching its highest level since early May, as investors joined a broad global risk rally following reports of a breakthrough peace agreement between the US and Iran. The development boosted risk appetite ahead of a memorandum of understanding set to be signed in Switzerland on Friday, raising hopes of easing geopolitical tensions and reducing risks to global energy supplies. Brent crude prices also fell more than 4% to around $83 per barrel, the lowest since March. Meanwhile, investors are also monitoring the upcoming US Federal Reserve policy decision for signals on the future path of interest rates. Financials, technology, and consumer durables were among the top-performing sectors. Among individual stocks, HDFC (+2.3%), BSE (+3.5%), Billionbrains (+2.5%), IFCI (+2.9%), L&T (+3.5%), and Ashok (+5.2%) were notable gainers, while MTAR (-0.7%), Data Patterns (-2.9%), and Paras (-1.7%) declined"
+    },
+    {
+      "id": "4935510",
+      "time": "2026-06-15 12:35:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "理想汽車：理想汽車軟體與具身智慧釋出會，今天16:30，我們不見不散。"
+    },
     {
       "id": "4935509",
       "time": "2026-06-15 12:32:34",
@@ -167884,59 +167904,6 @@
         "XAUUSD"
       ],
       "text": "An Iranian provincial official confirmed an Israeli missile strike damaged the Karun petrochemical plant."
-    },
-    {
-      "id": "4923012",
-      "time": "2026-06-08 12:37:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社引述伊朗地方官員訊息：馬赫沙赫爾的卡倫石化工廠遭以色列炮彈擊中受損。"
-    },
-    {
-      "id": "4923011",
-      "time": "2026-06-08 12:36:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "據洲際交易所（ICE）資料，荷蘭近月天然氣合約上漲近5%，至50.90歐元/兆瓦時。"
-    },
-    {
-      "id": "4923010",
-      "time": "2026-06-08 12:36:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列再次襲擊伊朗石化設施。（法爾斯通訊社）"
-    },
-    {
-      "id": "mkt:019ea583-237f-7ee0-94ca-cc141cd617f1",
-      "time": "2026-06-08 12:34:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【A- and H-shares slide; Shenghong Technology says viral video unrelated to operations】On the morning of June 8 Shenghong Technology said company staff were \"unaware of it\" regarding circulating reports about senior management. The firm said it has noted the information but the viral video and related material are unrelated to its production and operations, do not constitute company-level matters, and do not involve corporate governance, internal control or any disclosure obligations; it added the matter will not affect daily operations, production is normal and orders remain ample."
-    },
-    {
-      "id": "mkt:019ea583-0173-7ee0-94ca-c783b81d027f",
-      "time": "2026-06-08 12:34:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【TrendForce: Global satellite industry to reach $447bn by 2027 at 14% annual growth; SpaceX expanding into phone-to-satellite, space AI, SBSP】TrendForce projects the global satellite industry will reach $447 billion by 2027, with annual growth of about 14%, driven by satellite broadband, direct-to-phone connectivity, space-based AI compute and space-based solar power (SBSP). TrendForce says SpaceX—whose IPO prospects are being watched by markets—is expanding beyond satellite broadband into phone-to-satellite services, space AI compute and SBSP, and is enlarging its in-house space AI chip fab Terafab to strengthen vertical integration and shift low‑Earth‑orbit offerings from communications toward compute services as satellite networks, AI infrastructure and space applications converge."
-    },
-    {
-      "id": "4923009",
-      "time": "2026-06-08 12:34:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【集邦諮詢：預估2027年全球衛星產業產值將達4470億美元 年增長率達14%】隨著全球衛星寬頻、手機直連衛星及AI運算需求快速增長，SpaceX未來IPO動向備受市場關注，TrendForce集邦諮詢表示，SpaceX除持續擴大衛星寬頻服務版圖外，也積極佈局手機直連衛星、AI太空運算及太空太陽能(Space-Based Solar Power, SBSP)等新興領域，並透過擴建自有太空AI運算晶片廠Terafab，強化垂直整合能力，推動低軌衛星產業由通訊服務邁向運算服務新階段。隨著衛星網路、AI基礎設施與太空應用加速融合，全球太空經濟正進入新一輪成長週期，預估2027年全球衛星產業產值將達4470億美元，年增長率達14%。"
     }
   ]
 }
