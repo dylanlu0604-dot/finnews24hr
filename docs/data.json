@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-16 02:21:48",
-  "count": 18235,
+  "updated": "2026-06-16 02:25:39",
+  "count": 18242,
   "items": [
+    {
+      "id": "te:markets:559110",
+      "time": "2026-06-16 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rises by 3.36% — Top commodity gainers are Cocoa (3.36%), Coffee (2.26%) and Lumber (1.21%). Biggest losers are Oat (-2.78%) and Rice (-1.90%)."
+    },
+    {
+      "id": "4937013",
+      "time": "2026-06-16 02:24:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州州長紐森： 特朗普針對我，是因為我有意參選總統。"
+    },
+    {
+      "id": "mkt:019ecc86-f1e6-7dd8-b015-c880e7d26d08",
+      "time": "2026-06-16 02:24:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Prime Minister Netanyahu said on Lebanon he would maintain freedom of action to thwart attacks."
+    },
+    {
+      "id": "4937012",
+      "time": "2026-06-16 02:24:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡： 我方將保留行動自由，以挫敗各類襲擊。"
+    },
+    {
+      "id": "mkt:019ecc86-950c-7dd8-b015-c1a0a344ad5c",
+      "time": "2026-06-16 02:23:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Terror attack in northern Syria kills one security officer, wounds three】Syria’s interim government Interior Ministry said on the 15th that security forces in Raqqa province foiled an Islamic State suicide attack targeting a security command center in Raqqa city. Forces engaged two suicide attackers, killing one; the second detonated after being surrounded, killing one security officer and wounding three."
+    },
+    {
+      "id": "4937011",
+      "time": "2026-06-16 02:23:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州州長紐森：司法部尚未發現犯罪行為，特朗普此前下令司法部調查他和他的妻子。"
+    },
+    {
+      "id": "4937010",
+      "time": "2026-06-16 02:23:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：撒哈拉以南非洲各國主權信用抵禦伊朗地緣衝擊的基礎更為穩固。"
+    },
+    {
+      "id": "mkt:019ecc85-7a35-7dd8-b015-bd76a30a69ef",
+      "time": "2026-06-16 02:22:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Lebanon wants Israel to withdraw from the security zone, but that will not happen."
+    },
+    {
+      "id": "mkt:019ecc84-f6a4-7dd8-b015-b332587113fa",
+      "time": "2026-06-16 02:22:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said that during a war with Iran a total of 14,000 sorties were flown, roughly half by the U.S. and half by Israel."
+    },
+    {
+      "id": "4937009",
+      "time": "2026-06-16 02:21:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡： 只要有必要，我們就會持續駐守 “緩衝地帶”。"
+    },
+    {
+      "id": "mkt:019ecc84-c407-7dd8-b015-afeb6b3a86c0",
+      "time": "2026-06-16 02:21:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel will take all necessary measures to prevent Iran from acquiring nuclear weapons and that the objective remains unchanged."
+    },
     {
       "id": "4937008",
       "time": "2026-06-16 02:21:14",
@@ -167631,43 +167739,6 @@
         "公司"
       ],
       "text": "淡水河谷執行長稱，關鍵礦產的需求形勢極為向好。"
-    },
-    {
-      "id": "mkt:019ea87b-6ec3-733a-9234-2f97e57968fd",
-      "time": "2026-06-09 02:25:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said she was installed by then-Senate Majority Leader Harry Reid and former President Obama and asked if he needed to say more."
-    },
-    {
-      "id": "te:markets:557361",
-      "time": "2026-06-09 02:24:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Butter Rises by 1.88% — Top commodity gainers are Butter (1.88%) and Cocoa (1.51%)."
-    },
-    {
-      "id": "mkt:019ea87a-9222-733a-9234-215465eae0fa",
-      "time": "2026-06-09 02:24:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said Senate majority leader John Thune should immediately fire the Senate parliamentarian."
-    },
-    {
-      "id": "4924614",
-      "time": "2026-06-09 02:23:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘋果官宣新OS系統開發者Beta版今天推出，今秋提供給所有使用者】6月9日凌晨，蘋果召開 WWDC26 全球開發者大會。蘋果表示，為孩子的需求著想，其也陸續推出更多實用功能及新功能，比如SiriAI等。另外，新OS系統的開發者Beta版今天推出，並將於今秋正式提供給所有使用者。（新浪科技）"
     }
   ]
 }
