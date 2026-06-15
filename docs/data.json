@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-16 06:42:34",
-  "count": 18222,
+  "updated": "2026-06-16 06:46:36",
+  "count": 18219,
   "items": [
+    {
+      "id": "mkt:019ecd76-3341-7dd8-b017-91895991fbd8",
+      "time": "2026-06-16 06:45:36",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand May food price index YoY 3.2% vs 2.6% prior."
+    },
+    {
+      "id": "mkt:019ecd76-1b03-7dd8-b017-8a20f4217275",
+      "time": "2026-06-16 06:45:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (YoY) (May) | actual 3.2% | previous 2.6%"
+    },
+    {
+      "id": "4937207",
+      "time": "2026-06-16 06:45:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭統計局資料：紐西蘭5月食品通脹指數較上月上漲1.0%。"
+    },
+    {
+      "id": "mkt:019ecd75-c2be-7dd8-b017-875b93fdae8c",
+      "time": "2026-06-16 06:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand May food price index MoM 1.0% (prior 0.0%)."
+    },
+    {
+      "id": "te:markets:559126",
+      "time": "2026-06-16 06:45:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Increases by 4.68% — Top crypto gainers are XRP (4.68%), Ether (3.89%) and Bitcoin (0.81%)."
+    },
+    {
+      "id": "mkt:019ecd75-ad95-7dd8-b017-7a882cade9a3",
+      "time": "2026-06-16 06:45:01",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "MSNBC: U.S. Vice President Vance said under a memorandum of understanding nuclear inspectors will return to Iran. A core element of the agreement is that the IAEA and the U.S. will assist Iran in destroying its stockpile of highly enriched uranium."
+    },
+    {
+      "id": "mkt:019ecd75-a96f-7dd8-b017-70acd66a780e",
+      "time": "2026-06-16 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (MoM) (May) | actual 1% | previous 0.00%"
+    },
+    {
+      "id": "4937206",
+      "time": "2026-06-16 06:44:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：核核查人員“絕對”會按照結束戰爭的條款重返伊朗。"
+    },
     {
       "id": "te:markets:559125",
       "time": "2026-06-16 06:40:04",
@@ -167408,105 +167486,6 @@
         "資料"
       ],
       "text": "紐西蘭第一季度製造業活動量季率 3.6%，前值-0.50%。\n紐西蘭第一季度季調後製造業活動季率 6.6%，前值0.60%。"
-    },
-    {
-      "id": "4924743",
-      "time": "2026-06-09 06:46:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓地震已致37人死亡】據菲律賓民防部門今天（6月9日）訊息，菲律賓南部6月8日發生的地震已造成37人死亡。（ CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ea96a-5001-733a-9236-b05d0d3b5e37",
-      "time": "2026-06-09 06:46:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand seasonally adjusted manufacturing activity rose 6.6% q/q in Q1, versus 0.6% in the prior quarter."
-    },
-    {
-      "id": "mkt:019ea96a-2854-733a-9236-a9ecf41c482f",
-      "time": "2026-06-09 06:46:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Manufacturing Sales (Value) (QoQ) (Q1) | actual 6.6% | previous 0.60%"
-    },
-    {
-      "id": "4924742",
-      "time": "2026-06-09 06:45:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【村鎮銀行改革持續推進，年內已有近百家機構退出】當前，村鎮銀行改革持續推進。據國家金融監督管理總局金融許可證資訊查詢結果，截至6月1日，今年已有97家村鎮銀行出現在“機構退出列表”一欄中。上海金融與法律研究院研究員楊海平表示，政策層面大力推動中小銀行改革化險，將減量提質作為主要思路。而兼併重組能夠在短期內壓降高風險金融機構數量，因此成為村鎮銀行改革化險主流模式。（證券日報）"
-    },
-    {
-      "id": "4924741",
-      "time": "2026-06-09 06:45:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀行業多措並舉加快處置不良資產】近期，銀行業不良資產處置節奏明顯加快，行業形成差異化處置格局：國有大行、股份制銀行依託銀行業信貸資產登記流轉中心有限公司，對零售、對公不良資產開展常態化批次掛牌轉讓；部分中小銀行推行“全員推介、全員清收”模式，重點化解大額不良債權。受訪專家表示，下一階段，多措並舉處置不良資產依然是商業銀行防控經營風險、提升服務實體經濟質效的重點任務之一。（證券日報）"
-    },
-    {
-      "id": "mkt:019ea969-5ba5-733a-9236-a03db31f3638",
-      "time": "2026-06-09 06:45:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Israeli airstrikes in southern Lebanon kill at least 17】On the 8th, Israeli airstrikes on multiple sites in southern Lebanon killed at least 17 people and wounded several."
-    },
-    {
-      "id": "te:markets:557376",
-      "time": "2026-06-09 06:45:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Rises by 1.76% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.76% increase."
-    },
-    {
-      "id": "mkt:019ea969-482f-733a-9236-9cb1a5aa581d",
-      "time": "2026-06-09 06:45:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Q1 manufacturing activity volume QoQ +3.6% (prior -0.5%)."
-    },
-    {
-      "id": "mkt:019ea969-254a-733a-9236-95825e9a4c78",
-      "time": "2026-06-09 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Manufacturing Sales (Volume) (QoQ) (Q1) | actual 3.6% | previous -0.50%"
-    },
-    {
-      "id": "4924739",
-      "time": "2026-06-09 06:44:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：任天堂因 Switch 手柄問題在法國被罰 3500 萬歐元。"
-    },
-    {
-      "id": "4924738",
-      "time": "2026-06-09 06:43:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲黎巴嫩南部致至少17人死亡 】據黎巴嫩衛生部及國家通訊社8日訊息，以色列當天對黎巴嫩南部多地發動空襲，造成至少17人死亡、多人受傷。黎巴嫩衛生部表示，以色列軍隊當天凌晨對奈拜提耶地區濟夫塔鎮發動空襲，造成7人死亡、8人受傷。以軍還對提爾市紅十字會中心附近區域發動空襲，造成5人死亡、8人受傷，其中包括4名紅十字會急救人員。（新華社）"
     }
   ]
 }
