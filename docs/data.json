@@ -1,7 +1,220 @@
 {
-  "updated": "2026-06-15 09:37:43",
+  "updated": "2026-06-15 09:41:47",
   "count": 18323,
   "items": [
+    {
+      "id": "mkt:019ec8f0-8f92-7dd8-affb-7b5bedcc6bf9",
+      "time": "2026-06-15 09:41:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said he congratulated Iran, the United States, Pakistan, which served as mediator, and other countries involved, especially Qatar."
+    },
+    {
+      "id": "mkt:019ec8f0-7c11-7dd8-affb-734abc3c4c62",
+      "time": "2026-06-15 09:41:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Ankara hopes follow-up supplementary negotiations will proceed constructively."
+    },
+    {
+      "id": "mkt:019ec8f0-74c5-7dd8-affb-6b85ed947203",
+      "time": "2026-06-15 09:41:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000300.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-share securities sector extended gains; Zhongyin Securities locked at the daily limit-up, Huaan Securities touched the limit-up, while Changjiang Securities, Caida Securities, GF Securities and Guojin Securities rose."
+    },
+    {
+      "id": "mkt:019ec8f0-6cea-7dd8-affb-615dba58ba20",
+      "time": "2026-06-15 09:41:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Turkey's foreign minister said the agreement between Iran and the United States is a turning point in the regional peace process."
+    },
+    {
+      "id": "mkt:019ec8f0-5ec1-7dd8-affb-586d56d7bd54",
+      "time": "2026-06-15 09:40:56",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "CSI 500 index futures (IC) main contract intraday gains widened to 2.00%, now at 8,273.6 points."
+    },
+    {
+      "id": "4935227",
+      "time": "2026-06-15 09:40:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均漲超1%】上證指數漲1.01%，現報4072.301點；深證成指漲1.44%，現報15178.139點；創業板指漲1.34%，現報3881.830點。"
+    },
+    {
+      "id": "mkt:019ec8ef-7f7f-7dd8-affb-5636e13ffc6b",
+      "time": "2026-06-15 09:39:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "CSI 1000 index futures (IM) most-active contract rose 2.00% intraday to 8,357.6 pts."
+    },
+    {
+      "id": "4935226",
+      "time": "2026-06-15 09:39:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多元金融板塊走高，南華期貨漲停】多元金融板塊走高，南華期貨漲停，華金資本、渤海租賃、永安期貨、新力金融、翠微股份等紛紛走高。"
+    },
+    {
+      "id": "4935225",
+      "time": "2026-06-15 09:39:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本國債10年期收益率下跌7個基點，至2.565%，創6月2日以來新低。"
+    },
+    {
+      "id": "mkt:019ec8ef-3f7a-7dd8-affb-4bfe81281a9e",
+      "time": "2026-06-15 09:39:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share auto OEM sector rose amid choppy trading; Zotye Auto and Hanma Technology both hit daily trading limits, while King Long, Haima Automobile, Shuguang Co., Foton Motor and Sinotruk advanced more than 6%."
+    },
+    {
+      "id": "4935224",
+      "time": "2026-06-15 09:39:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報8119.00點。"
+    },
+    {
+      "id": "4935223",
+      "time": "2026-06-15 09:39:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民營企業再貸款餘額已超6000億元】從中國人民銀行瞭解到，今年人民銀行新設立1萬億元民營企業再貸款後，民營企業再貸款政策在各地落地見效，截至4月末，民營企業再貸款餘額已超6000億元。（央視新聞）"
+    },
+    {
+      "id": "4935222",
+      "time": "2026-06-15 09:39:01",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【證券板塊拉昇，中銀證券漲停】證券板塊拉昇，中銀證券漲停，華安證券、長江證券、財達證券、廣發證券、國金證券跟漲。相關ETF方面，證券ETF易方達（512570）漲3.14%，成交額2042.41萬元，證券ETF天弘（159841）漲3.39%，成交額1.16億元。"
+    },
+    {
+      "id": "mkt:019ec8ee-9c32-7dd8-affb-414647ab0707",
+      "time": "2026-06-15 09:39:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Outstanding re-loans for private firms exceed 600 bln yuan】The People’s Bank of China said after it established a 1 tln yuan re-loan facility for private enterprises earlier this year the measure has been implemented across regions; outstanding re-loans to private firms exceeded 600 bln yuan as of end-April."
+    },
+    {
+      "id": "4935221",
+      "time": "2026-06-15 09:38:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念快速拉昇 宏景科技漲超10%】算力租賃概念快速拉昇，宏景科技漲超10%，利通電子、潤建股份、二六三、優刻得、城地香江跟漲。訊息面上，高質量Token服務研討會將於6月16日在北京召開，論壇將成立“高質量Token服務特別研究組”。"
+    },
+    {
+      "id": "4935219",
+      "time": "2026-06-15 09:38:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量151億元。"
+    },
+    {
+      "id": "4935218",
+      "time": "2026-06-15 09:38:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員否認美伊談判前解凍120億美元資金】據美國媒體14日報道，關於美伊60天談判開始前，伊朗將無條件獲得120億美元解凍資金的說法，一名美國高階官員予以否認，稱這是“一種曲解”。這名官員說：“這完全不屬實。這是一項按表現付款的協議，只有在伊朗履行其承諾後，才會解凍被凍結的資金。”（新華社）"
+    },
+    {
+      "id": "mkt:019ec8ed-ab91-7dd8-affb-3cf93afdeac5",
+      "time": "2026-06-15 09:37:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600115.SS",
+        "Impact bullish",
+        "601021.SS"
+      ],
+      "text": "A-share airport and aviation sector rallied after choppy trading; China Eastern Airlines, Spring Airlines and Huaxia Airlines rose over 7%, while Air China, China Southern and Juneyao Airlines also advanced."
+    },
+    {
+      "id": "4935217",
+      "time": "2026-06-15 09:37:45",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛：港股市場料迎2740億美元解禁潮 強勁需求有望吸納供應】高盛稱，隨著IPO限售陸續到期，香港市場未來12個月可能迎來約2740億美元的新增股份供給，預計強勁的股票需求能夠吸收這一流入的供應。"
+    },
+    {
+      "id": "4935216",
+      "time": "2026-06-15 09:37:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲4.1%，至6153.56點。"
+    },
+    {
+      "id": "4935215",
+      "time": "2026-06-15 09:37:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【好想你：目前已經在和主流渠道合作開展出海相關動作】好想你近日在券商策略會上表示，海外市場佈局一直在推進，目前已經在和主流渠道合作開展出海相關動作，與Costco、京東出海等合作，同時依託跨境電商平臺，將公司核心產品銷往東南亞、北美、歐洲等多個國家和地區。"
+    },
     {
       "id": "4935214",
       "time": "2026-06-15 09:36:53",
@@ -168274,191 +168487,6 @@
         "國際"
       ],
       "text": "韓國總統： 加快住宅供應。"
-    },
-    {
-      "id": "4922668",
-      "time": "2026-06-08 09:41:40",
-      "tags": [
-        "央行",
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國宣佈針對性措施遏制韓元跌勢 並抑制投機行為】韓元跌至2009年以來最低水平後，韓國政府公佈針對性措施來支撐韓元，承諾對投機交易和其他被視為加劇近期波動性的活動採取有力行動。韓國財政部在與央行行長和金融監管機構負責人舉行緊急會議後周日表示，首爾制定了一項應對計劃，其中包括加強對離岸貨幣衍生品的監管、對涉嫌市場不當行為進行檢查，以及調查潛在的非法外匯交易等。這些措施似乎在週一給匯率帶來了一些緩解，韓元一度上漲0.8%，至1美元兌1547.25韓元。儘管政府前一天進行了口頭干預，但韓元上週五仍一度下跌2%，觸及2009年3月以來最低水平。過去一年多數時間，韓元持續承壓，主要原因是與美國潛在貿易協議的不確定性以及全球基金持續流出當地股市，伊朗衝突導致能源成本上升加劇了壓力，韓元成為亞洲表現最差的貨幣之一。“未來12小時至關重要，尤其考慮根據外國投資者可能持續拋售以及美元走強，韓元必須得到強有力的捍衛，這些口頭上的論調才會有可信度，”紐約銀行亞太區高階市場策略師Wee Khoon Chong表示。"
-    },
-    {
-      "id": "4922667",
-      "time": "2026-06-08 09:40:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "中國鋁業股份港股下跌5.8%，A股滬市下跌3.9%。"
-    },
-    {
-      "id": "4922666",
-      "time": "2026-06-08 09:40:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【無人機專業學生太搶手】目前，不少職業院校透過課程改革，提升學生的就業實力。杭州技師學院首批無人機應用專業的畢業生，還未畢業就已經全部被企業提前錄用。（央視財經）"
-    },
-    {
-      "id": "4922665",
-      "time": "2026-06-08 09:40:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.93%，成分股中，生益電子跌7.43%，佰維儲存跌5.92%，華潤微跌5.36%，思特威跌5.15%。"
-    },
-    {
-      "id": "4922664",
-      "time": "2026-06-08 09:39:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東旅行上線“寵物出行”專區】京東旅行正式上線“寵物出行”專區，成為國內首家寵物機酒門票一站式預訂平臺。使用者開啟京東App搜尋“寵物出行”，即可一站式預訂寵物進客艙機票、寵物友好酒店、寵物友好景區服務。"
-    },
-    {
-      "id": "mkt:019ea4e2-e86b-7ee0-94c7-70cfc14626fb",
-      "time": "2026-06-08 09:39:53",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Malaysian ringgit fell 0.9% to 4.063 per U.S. dollar, its weakest level since Jan. 13."
-    },
-    {
-      "id": "mkt:019ea4e2-c665-7ee0-94c7-69878b5c120d",
-      "time": "2026-06-08 09:39:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share coal sector firmed: Dayou Energy hit limit-up, Zhengzhou Coal & Power rose over 4%, with Antai Group, Yankuang Energy, Pingmei and Jinkong Coal also advancing."
-    },
-    {
-      "id": "mkt:019ea4e2-e2a7-7221-bb31-83fdb1956ad6",
-      "time": "2026-06-08 09:39:39",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact mixed",
-        "SSE Composite"
-      ],
-      "text": "China A-share coal sector firmed: Dayou Energy hit limit-up, Zhengzhou Coal & Power rose over 4%, with Antai Group, Yankuang Energy, Pingmei and Jinkong Coal also advancing."
-    },
-    {
-      "id": "4922663",
-      "time": "2026-06-08 09:39:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗努爾新聞網援引訊息來源稱：伊朗卡拉季附近聽到爆炸聲。"
-    },
-    {
-      "id": "4922662",
-      "time": "2026-06-08 09:39:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓政府：目前暫無地震造成人員傷亡報告。"
-    },
-    {
-      "id": "4922661",
-      "time": "2026-06-08 09:39:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東昇聚變完成新一輪1億美元融資】6月8日，據珠海科技產業集團訊息，近日，東昇聚變（上海）技術有限公司宣佈完成1億美元新一輪融資。本輪融資由珠海科技產業集團（華金資本）、啟明創投、工銀資本和CMC資本聯合領投，眾多產業資本和老股東等跟投及加註。資金將用於公司第一代“晨光”實驗裝置的建設。"
-    },
-    {
-      "id": "4922660",
-      "time": "2026-06-08 09:39:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量22億元。"
-    },
-    {
-      "id": "4922659",
-      "time": "2026-06-08 09:38:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統：韓國必須擺脫依賴房地產的經濟發展模式。"
-    },
-    {
-      "id": "4922658",
-      "time": "2026-06-08 09:38:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "百度股價下跌7.3%。"
-    },
-    {
-      "id": "4922657",
-      "time": "2026-06-08 09:38:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數跌超2%，現報24459.881點；恒生科技指數現跌3.094%。"
-    },
-    {
-      "id": "4922656",
-      "time": "2026-06-08 09:38:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "北證50指數轉漲。"
-    },
-    {
-      "id": "mkt:019ea4e1-648c-7ee0-94c7-6022477f7fd8",
-      "time": "2026-06-08 09:38:12",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "Beijing Stock Exchange 50 Index turned positive."
-    },
-    {
-      "id": "4922655",
-      "time": "2026-06-08 09:38:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股光通訊股集體走低 長飛光纖光纜跌超7%】截至發稿，長飛光纖光纜(06869.HK)跌7.36%，曦智科技-P(01879.HK)跌6.44%，劍橋科技(06066.HK)跌5.25%。"
-    },
-    {
-      "id": "4922654",
-      "time": "2026-06-08 09:38:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭板塊反覆活躍 大有能源6連板】煤炭板塊反覆活躍，大有能源6連板，鄭州煤電、平煤股份、山西焦煤、寶泰隆、兗礦能源跟漲。訊息面上，6月8日，生意社煉焦煤基準價為1712.50元/噸，與本月初(1620.00元/噸)相比，上漲了5.71%。"
-    },
-    {
-      "id": "4922653",
-      "time": "2026-06-08 09:37:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞林吉特下跌0.9%，報1美元兌4.063林吉特，創1月13日以來新低。"
-    },
-    {
-      "id": "4922652",
-      "time": "2026-06-08 09:37:53",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "6月8日，黃金珠寶指數盤中跌超3%，成分股多數下挫，招金黃金、西部黃金、豫光金鉛、赤峰黃金、中金黃金跌幅居前。"
     }
   ]
 }
