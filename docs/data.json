@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-15 22:39:18",
-  "count": 18335,
+  "updated": "2026-06-15 22:43:25",
+  "count": 18334,
   "items": [
+    {
+      "id": "4936856",
+      "time": "2026-06-15 22:41:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國住宅建築商信心下滑 受抵押貸款利率及材料成本走高拖累】美國6月住宅建築商信心下滑，拖累因素包括抵押貸款利率上升、材料成本上漲，以及南部信心急劇的下降。美國全國住宅建築商協會(NAHB)和富國週一聯合釋出的資料顯示，6月市場狀況指數下跌2點至35點，低於接受彭博調查經濟學家的預期37點。作為美國最大的住宅建築區域，南部地區指數出現自2023年11月以來的最大跌幅。該指數低於50意味著認為市場狀況不佳的建築商多於認為良好的建築商。NAHB表示，6月的讀數標誌著該指數連續第14個月低於40，這是自2011-2012年以來持續時間最長的一次。NAHB的資料顯示，衡量當前銷售的指標下跌2點至38點，而衡量銷售預期和潛在買家客流的指標並無變動。住宅建築商協會將整體指數的下降部分歸咎於材料價格上漲、融資成本上升以及阻礙房屋建設的法規。“在全國住房缺口約為120萬套的情況下，在障礙消除、住宅建設環境改善之前，建築商的信心將持續低迷，”NAHB主席、俄亥俄州建築商Bill Owens在一份宣告中表示。聯邦政府將於週二釋出住宅建設報告，更新5月份的新屋開工數。"
+    },
+    {
+      "id": "4936855",
+      "time": "2026-06-15 22:40:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國夏糧小麥收穫已近九成】記者從農業農村部獲悉，截至6月15日17時，全國已收穫夏糧小麥3.04億畝，收穫進度89.48%。山東近九成，河北過八成，陝西近八成，山西過七成，新疆近三成，甘肅零星收穫。（新華社）"
+    },
+    {
+      "id": "4936854",
+      "time": "2026-06-15 22:39:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列媒體：在與伊朗的協議簽署前夕，以色列國內批評聲浪日益高漲，以色列總理內塔尼亞胡預計將於今晚就此發表首份公開宣告。"
+    },
+    {
+      "id": "mkt:019ecbb8-db0c-7dd8-b011-19ccd0498f15",
+      "time": "2026-06-15 22:39:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Specialty electronic gas prices volatile as plants run two shifts but supply remains tight】Tungsten hexafluoride (WF6), a key deposition gas for memory and advanced logic chips, has seen sharp price gains as some overseas capacity exited and downstream memory-chip expansion widened the supply gap. An analyst expects 5N-grade WF6 to average roughly 1,760 yuan/kg in June, up about 236% YoY, and cites sustained memory demand as the core support. A Shanghai specialty-gas producer reported a surge in helium demand; factories are running two shifts yet remain undersupplied, and buyers report prices moving daily with risk of immediate unavailability."
+    },
+    {
+      "id": "4936853",
+      "time": "2026-06-15 22:38:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匹克成為愛知·名古屋亞殘運會中國代表團官方合作伙伴】中國殘奧委員會與匹克集團戰略合作簽約儀式15日在福建泉州舉行，匹克集團成為2026年愛知·名古屋亞殘運會中國體育代表團官方合作伙伴，為代表團提供訓練、比賽、領獎等全方位運動裝備，為殘奧運動員打造定製化鞋服和護具產品。匹克集團同時為2026年全國殘疾人輪椅籃球錦標賽、全國聾人籃球錦標賽等賽事提供支援保障。匹克集團董事長許景南表示，支援中國殘奧代表團不僅是對匹克“奧運發展計劃”的延伸，也是希望以此激勵包括殘障人士在內的運動愛好者勇敢走上競技場。（新華社）"
+    },
     {
       "id": "4936852",
       "time": "2026-06-15 22:38:30",
@@ -168608,65 +168651,6 @@
         "其他"
       ],
       "text": "【Kimi估值飆升至300億美元，半年猛增6倍】6月8日，《每日經濟新聞》記者從知情人士處獲悉，國內AGI企業月之暗面旗下AI助手Kimi已開啟新一輪融資，投前估值達300億美元，較上月大幅躍升。（每經）"
-    },
-    {
-      "id": "4924382",
-      "time": "2026-06-08 22:42:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列防長：拒絕伊朗的威脅 將繼續對抗真主黨】以色列國防部長卡茨表示，對以色列北部定居點的任何攻擊都將導致對貝魯特南郊達希耶的攻擊。以色列國防軍將繼續在黎巴嫩境內打擊恐怖組織真主黨。我們堅決拒絕伊朗的威脅。任何伊朗企圖將黎巴嫩和伊朗聯絡起來並攻擊以色列的行為，都將像昨天一樣遭到強力回擊。"
-    },
-    {
-      "id": "4924381",
-      "time": "2026-06-08 22:41:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數漲超2%，標普漲超0.8%，納指漲超1.4%，半導體指數漲超6.1%。"
-    },
-    {
-      "id": "mkt:019ea7ad-8345-7226-8cb6-eb7d0ab291c1",
-      "time": "2026-06-08 22:40:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "Nasdaq-100 gains widened to 2%."
-    },
-    {
-      "id": "mkt:019ea7ad-32ca-7226-8cb6-e07460ff691d",
-      "time": "2026-06-08 22:40:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israel defense minister Katz: rejects Iran's threats, will continue to confront Hezbollah】Israel's defense minister Katz said any attack on settlements in northern Israel would prompt strikes on Beirut's southern suburb of Dahiyeh. The Israel Defense Forces will continue operations against Hezbollah inside Lebanon. Katz rejected Iranian threats and warned any Iranian attempt to link Lebanon to Iran to attack Israel would be met with a strong response, as it was yesterday."
-    },
-    {
-      "id": "4924380",
-      "time": "2026-06-08 22:39:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至2%。"
-    },
-    {
-      "id": "4924379",
-      "time": "2026-06-08 22:39:29",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【東興證券：吸收合併事項通知債權人】東興證券公告，公司擬被中金公司透過換股方式吸收合併（同時信達證券亦被合併），中金公司將承繼公司全部資產、負債、業務等。公司於2026年6月8日召開2026年第一次臨時股東會，審議透過了本次交易相關議案，尚待有權機構批准。根據《公司法》，公司債權人自本公告披露之日起45日內有權要求公司清償債務或提供相應擔保。"
     }
   ]
 }
