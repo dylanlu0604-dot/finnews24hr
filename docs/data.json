@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-16 00:22:23",
-  "count": 18355,
+  "updated": "2026-06-16 00:26:25",
+  "count": 18352,
   "items": [
+    {
+      "id": "4936976",
+      "time": "2026-06-16 00:22:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國2/10年期國債收益率跌超4個基點】週一（6月15日）歐市尾盤，德國10年期國債收益率跌4.2個基點，報2.954%，日內交投於2.980%-2.944%區間，跳空低開之後，持續低位窄幅震盪——交投於2.950%附近，整體呈現出長尾L形走勢。兩年期德債收益率跌4.5個基點，報2.572%，日內交投於2.578%-2.547%區間；30年期德債收益率跌2.3個基點，報3.526%。2/10年期德債收益率利差漲0.539個基點，報+38.097個基點。"
+    },
     {
       "id": "4936975",
       "time": "2026-06-16 00:18:47",
@@ -168741,42 +168749,6 @@
         "MKT News"
       ],
       "text": "【China foreign minister Wang Yi delivers video address to 2026 International Day for Dialogue of Civilizations event】China foreign minister Wang Yi delivered a video address to the global event marking the 2026 International Day for Dialogue of Civilizations, proposing four measures to advance civilizational dialogue: uphold mutual respect to promote harmonious coexistence and reject notions of civilizational superiority or inevitable clash; adopt a people‑centred approach to deepen cultural exchanges so outcomes more directly benefit citizens and help jointly address global challenges; support preservation plus innovation to enable creative transformation and development of traditional cultures and leverage technology to power cultural exchange and transmission; and strengthen dialogue mechanisms, backing greater use of the UN Alliance of Civilizations and similar platforms."
-    },
-    {
-      "id": "mkt:019ea80d-ebe3-733a-9231-73171f8fbe95",
-      "time": "2026-06-09 00:25:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reports Russia has decided to allocate all profits of hydropower company RusHydro for 2023–2029 to the firm's investment program."
-    },
-    {
-      "id": "4924488",
-      "time": "2026-06-09 00:24:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯已決定將俄羅斯水電集團2023-2029年的全部利潤劃撥給其投資計劃。"
-    },
-    {
-      "id": "4924487",
-      "time": "2026-06-09 00:24:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍在阿曼灣攔截一艘違規油輪】美軍中央司令部表示，6月8日，一艘油輪無視針對伊朗的現行封鎖措施，試圖駛往伊朗港口，美軍隨後在阿曼灣將這艘空載油輪逼停並使其失去航行能力。該船為馬紹爾群島籍的“馬裡韋克斯”號油輪，當時正航行在阿曼灣國際水域，航向直指伊朗。在美國軍方多次發出指令後，船員拒不配合，亞伯拉罕·林肯號航空母艦搭載的一架F/A-18“超級大黃蜂”戰機，向該船的機艙與操控區域發射精確彈藥。目前“馬裡韋克斯”號已無法繼續駛向伊朗。自4月13日實施封鎖行動以來，美軍中央司令部已迫使7艘違規船隻停航，引導134艘配合管控的船舶改變航線，並放行42艘執行人道主義援助任務的船隻。"
-    },
-    {
-      "id": "mkt:019ea80b-257f-733a-9231-685a42dda56a",
-      "time": "2026-06-09 00:22:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【CENTCOM says US forces disabled unladen tanker in Gulf of Oman】CENTCOM said on June 8 US forces disabled an unladen tanker in the Gulf of Oman after it attempted to sail to an Iranian port in breach of an ongoing blockade of Iran. Since the blockade began on April 13, CENTCOM said its forces have disabled seven non-compliant vessels, directed 134 vessels to alter course and allowed 42 vessels carrying humanitarian aid to proceed."
     }
   ]
 }
