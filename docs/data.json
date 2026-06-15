@@ -1,7 +1,207 @@
 {
-  "updated": "2026-06-15 09:33:28",
-  "count": 18322,
+  "updated": "2026-06-15 09:37:43",
+  "count": 18323,
   "items": [
+    {
+      "id": "4935214",
+      "time": "2026-06-15 09:36:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "汽車整車股早盤拉昇，眾泰汽車、漢馬科技雙雙漲停，金龍汽車、海馬汽車、曙光股份、福田汽車、中國重汽漲超5%。"
+    },
+    {
+      "id": "mkt:019ec8ec-9c34-7dd8-affb-3125f66fb55e",
+      "time": "2026-06-15 09:36:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing Stock Exchange approves first private-placement corporate bond】The Beijing Stock Exchange (BSE) approved its first private-placement corporate bond. Shijiazhuang Transportation Investment Development Group Co. Ltd.'s 2026 non-public offering targeted at professional investors received a 1.0 bln yuan no-objection letter, the exchange's issuance review updates showed. This is the BSE's first non-public corporate bond to obtain a no-objection letter."
+    },
+    {
+      "id": "4935213",
+      "time": "2026-06-15 09:36:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所首單私募債正式透過】近日，北交所網站發行稽核動態欄目披露的資訊顯示，北交所受理的首單私募債券專案“石家莊交通投資發展集團有限責任公司2026年面向專業投資者非公開發行公司債券”已經正式透過，取得10億元無異議函。這是北交所首單獲得無異議函的非公開發行公司債券專案。"
+    },
+    {
+      "id": "4935212",
+      "time": "2026-06-15 09:36:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鈦白粉概念持續走強，金浦鈦業漲停】鈦白粉概念持續走強，金浦鈦業漲停，安納達、惠雲鈦業、國城礦業、釩鈦股份、安寧股份、鈦能化學等跟漲。"
+    },
+    {
+      "id": "mkt:019ec8ec-64be-7dd8-affb-2c0339bb5d03",
+      "time": "2026-06-15 09:36:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Zhipu (02513.HK) surged as much as 45% intraday, but has pared gains to about 29% higher."
+    },
+    {
+      "id": "4935211",
+      "time": "2026-06-15 09:36:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4935210",
+      "time": "2026-06-15 09:35:56",
+      "tags": [
+        "其他",
+        "焦點",
+        "A股"
+      ],
+      "text": "【機場航運板塊衝高，中國東航漲超7%】機場航運板塊衝高，中國東航、春秋航空、華夏航空漲超7%，中國國航、南方航空、吉祥航空跟漲。"
+    },
+    {
+      "id": "te:markets:558855",
+      "time": "2026-06-15 09:35:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Rally on US-Iran Deal — The benchmark KOSPI climbed more than 5% to around 8,540 on Monday, extending gains for a third straight session as a US-Iran peace agreement boosted risk appetite. Washington and Tehran reached a deal to end their monthslong conflict and reopen the Strait of Hormuz, with a formal signing ceremony expected later this week, easing concerns over global energy supplies and sending oil prices sharply lower. The rally was broad-based, with technology and cyclical stocks leading gains as investors returned to risk assets. Samsung Electronics (5.2%) and SK Hynix (7.4%) led the advance, along with Hyundai Motor (7.1%), LG Energy Solution (4.1%), HD Hyundai Heavy Industries (7.4%), Doosan Enerbility (7.3%), and KB Financial Group (7.3%). Additional support came from strong domestic fundamentals, with South Korea's ICT exports reaching a record high in May, driven by surging semiconductor shipments and sustained AI-related demand."
+    },
+    {
+      "id": "4935209",
+      "time": "2026-06-15 09:35:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗7月亞洲市場輕質原油定價：每桶溢價7.15美元】伊朗國家石油公司官網公佈的定價表顯示，該公司將7月銷往亞洲的伊朗輕質原油官方售價定為較阿曼-迪拜原油均價每桶溢價7.15美元，較6月每桶13美元的溢價有所下調。"
+    },
+    {
+      "id": "te:economy:558854",
+      "time": "2026-06-15 09:35:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "AUS 10Y Yield Hits Over 3-Month Low — Australia’s 10-year government bond yield dropped below 4.8%, hitting over a three-month low after a US–Iran interim peace deal eased global inflation concerns, while markets widely expect the Reserve Bank will hold policy rates this week. A series of softer economic releases, from GDP to housing prices, reinforced signs that the central bank’s three rate hikes earlier this year began to filter through the economy. Market pricing now ruled out a move at the June meeting, while bets for an August rate hike have eased sharply to around 35%, down from more than 80% a month ago. The May CPI report due on June 24, will be pivotal as policymakers look for clearer evidence that price pressures remain strong. Meanwhile, the US and Iran reportedly reached a peace agreement, sending oil prices lower, easing inflation and rate-hike expectations. The deal, set to be signed in Switzerland on June 19, includes sanctions relief for Iran, lifting blockades, and dismantling Tehran’s nuclear program."
+    },
+    {
+      "id": "mkt:019ec8eb-4e51-7dd8-affb-25bb7d148e2f",
+      "time": "2026-06-15 09:35:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share PET copper-foil sector advanced in early trade; Fangbang and Taijin New Energy jumped more than 11%. Dadongnan, Guanghua Technology and Nuode hit daily limit-up; Tongguan Copper Foil and Shuangxing New Materials also rallied."
+    },
+    {
+      "id": "4935208",
+      "time": "2026-06-15 09:34:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股PET銅箔板塊盤初上漲，方邦股份、太金新能均漲超11%，大東南、光華科技、諾德股份均封板漲停，銅冠銅箔、雙星新材等跟漲。"
+    },
+    {
+      "id": "4935207",
+      "time": "2026-06-15 09:33:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌6%，現報4367.00元。"
+    },
+    {
+      "id": "4935206",
+      "time": "2026-06-15 09:33:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4310美元/盎司，日內漲2.23%。"
+    },
+    {
+      "id": "4935205",
+      "time": "2026-06-15 09:33:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌8%，現報2781.00元。"
+    },
+    {
+      "id": "4935204",
+      "time": "2026-06-15 09:32:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內跌4%，現報7613.00元。"
+    },
+    {
+      "id": "mkt:019ec8e9-1974-7dd8-affb-1fdc2971de79",
+      "time": "2026-06-15 09:32:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,310/oz, an intraday gain of 2.21%."
+    },
+    {
+      "id": "mkt:019ec8e9-0bd8-7dd8-affb-13cefd2d3441",
+      "time": "2026-06-15 09:32:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share coal mining and processing sector opened sharply lower, with Dayou Energy hitting its daily down limit; Shanxi Coking Coal, Guanghui Energy and Shaanxi Energy also fell."
+    },
+    {
+      "id": "4935203",
+      "time": "2026-06-15 09:32:54",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點"
+      ],
+      "text": "智譜股價飆升48%，此前摩根大通上調該公司目標價。"
+    },
+    {
+      "id": "4935202",
+      "time": "2026-06-15 09:32:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4330美元/盎司，日內漲2.15%。"
+    },
     {
       "id": "mkt:019ec8e8-72f4-7dd8-affb-0d1c19b3572a",
       "time": "2026-06-15 09:32:17",
@@ -168259,185 +168459,6 @@
         "觀點"
       ],
       "text": "6月8日，黃金珠寶指數盤中跌超3%，成分股多數下挫，招金黃金、西部黃金、豫光金鉛、赤峰黃金、中金黃金跌幅居前。"
-    },
-    {
-      "id": "mkt:019ea4e0-afa4-7ee0-94c7-59d8ac34046c",
-      "time": "2026-06-08 09:37:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share retail sector spiked intraday; Zhongbai Group hit the daily limit, with Central Department Store, Baida Group, Dongbai Group, China Tourism Group Duty Free and Guofang Group also rising."
-    },
-    {
-      "id": "mkt:019ea4e0-56f4-7ee0-94c7-56e5a2f0dd78",
-      "time": "2026-06-08 09:37:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share livestock sector rallied: Xiangjia hit the daily trading limit, Xiaoming rose over 10%, and Minhe, Yisheng, Lihua, Xiantan and Jingji Zhinong also advanced."
-    },
-    {
-      "id": "4922651",
-      "time": "2026-06-08 09:36:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【零售板塊短線衝高，中百集團觸及漲停】零售板塊短線衝高，中百集團觸及漲停，中央商場、百大集團、東百集團、中國中免、國芳集團跟漲。"
-    },
-    {
-      "id": "4922650",
-      "time": "2026-06-08 09:36:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股商業航天板塊回升，創遠信科漲超18%，神劍股份觸達漲停，能科科技、七豐精工、中天火箭、華體科技等個股跟漲。訊息面上，SpaceX首次公開募股（IPO）獲得的認購訂單已超過可供發行的股票數量。"
-    },
-    {
-      "id": "4922649",
-      "time": "2026-06-08 09:36:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗德黑蘭西部的卡拉季市傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:019ea4df-7737-7ee0-94c7-490f761e8ece",
-      "time": "2026-06-08 09:36:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share commercial space sector rebounded; Chuangyuan Xinke jumped more than 18% and Shenjian shares hit the daily trading limit, with Nengke Technology, Qifeng Precision, Zhongtian Rocket and Huati Technology also advancing. Separately, subscriptions for SpaceX's IPO have exceeded the shares on offer."
-    },
-    {
-      "id": "te:markets:557072",
-      "time": "2026-06-08 09:35:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "TTF Prices Hit Near 3-Week High — European natural gas jumped more than 3% to around €50 per MWh, the highest in nearly three weeks, after Iran fired missiles at Israel, diminishing hopes for a resolution to the conflict. The attack followed Israeli strikes in Beirut, with Iran warning of further attacks if Israel expands its military operations in Lebanon or retaliates against Iran’s actions. Israel reportedly intercepted all missiles fired in the three Iranian barrages so far. President Donald Trump said the US was close to reaching a final agreement with Iran but cautioned that escalating hostilities could jeopardize ongoing diplomatic efforts. The lack of clear progress in negotiations, coupled with rising regional tensions, has heightened fears that disruptions to energy shipments through the Persian Gulf could persist. A prolonged disruption could intensify competition for LNG cargoes, fueling concerns in Europe as the region races to secure fuel this summer to refill storage facilities ahead of winter."
-    },
-    {
-      "id": "4922648",
-      "time": "2026-06-08 09:35:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【養雞板塊拉昇，湘佳股份漲停】養雞板塊拉昇，湘佳股份漲停，曉鳴股份漲超10%，民和股份、益生股份、立華股份、仙壇股份、京基智農跟漲。相關ETF方面，養殖ETF匯添富（159172）漲0.89%，成交額89.84萬元。"
-    },
-    {
-      "id": "4922647",
-      "time": "2026-06-08 09:35:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【新股N彩客漲超236% 觸發臨停】早盤新股N彩客漲幅擴大至236%，觸發臨停，成交超1.3億元。資料顯示，公司專門從事精細化工產品研發、生產和銷售，現有主要產品包括DMSS、DATA、DMAS、DMS等。"
-    },
-    {
-      "id": "4922646",
-      "time": "2026-06-08 09:35:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓股指跌1%。"
-    },
-    {
-      "id": "4922645",
-      "time": "2026-06-08 09:34:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "尿素連續主力合約日內漲5%，現報1857.00元。"
-    },
-    {
-      "id": "4922644",
-      "time": "2026-06-08 09:34:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上升4.5個基點，至2.710%。"
-    },
-    {
-      "id": "mkt:019ea4de-3667-7ee0-94c7-415281f55700",
-      "time": "2026-06-08 09:34:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippine benchmark stock index fell 1%."
-    },
-    {
-      "id": "4922643",
-      "time": "2026-06-08 09:34:43",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美債跌幅擴大 油價上漲加劇通脹擔憂】美債繼續下跌，油價上漲加劇通脹擔憂，並推升市場對美聯儲加息的預期。2年期國債收益率上漲4個基點至4.19%。5年期國債收益率上升5個基點至4.31%。10年期國債收益率上漲4個基點至4.57%，30年期國債收益率上漲3個基點至5.03%。"
-    },
-    {
-      "id": "mkt:019ea4de-23a7-7ee0-94c7-3e40941c4092",
-      "time": "2026-06-08 09:34:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's 10-year government bond yield rose 4.5 bps to 2.710%."
-    },
-    {
-      "id": "mkt:019ea4de-1022-7ee0-94c7-318179104499",
-      "time": "2026-06-08 09:34:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "N Caike shares surged 236.86%, triggering an intraday trading halt."
-    },
-    {
-      "id": "4922642",
-      "time": "2026-06-08 09:34:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4922641",
-      "time": "2026-06-08 09:33:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "江波龍跌近7%。"
-    },
-    {
-      "id": "te:markets:557069",
-      "time": "2026-06-08 09:33:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Slump on Tech Selloff — The benchmark KOSPI declined 8% to around 7,500 on Monday, extending losses for a third straight session to an over two-week low, as a sharp selloff in global technology stocks and renewed geopolitical tensions fueled risk aversion. Sentiment was pressured by heavy losses on Wall Street, where semiconductor shares led a broad market decline following stronger-than-expected US jobs data that reinforced concerns the Federal Reserve may keep interest rates higher for longer. Additional pressure came from escalating Middle East tensions after reports that Iran launched missiles at Israel, raising fears that a fragile ceasefire could unravel. Samsung Electronics (-8.1%) and SK hynix (-3.9%) led the retreat, alongside SK Square (-8.0%), Hyundai Motor (-8.9%), and LG Energy Solution (-5.7%). However, Nvidia announced a multi-year AI partnership with SK hynix and expanded AI ties in Korea, reinforcing expectations for sustained demand for advanced memory chips."
     }
   ]
 }
