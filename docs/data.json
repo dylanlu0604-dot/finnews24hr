@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-15 09:58:09",
-  "count": 18323,
+  "updated": "2026-06-15 10:02:07",
+  "count": 18319,
   "items": [
+    {
+      "id": "4935268",
+      "time": "2026-06-15 10:01:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達3.06%，成分股中，盛科通訊漲9.80%，華潤微漲7.19%，思特威漲7.17%，華海清科漲7.10%。"
+    },
+    {
+      "id": "4935267",
+      "time": "2026-06-15 10:01:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4320美元/盎司，日內漲2.48%。"
+    },
+    {
+      "id": "4935266",
+      "time": "2026-06-15 10:01:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股指開盤上漲1.8%，至6118.73點。"
+    },
+    {
+      "id": "mkt:019ec902-b5ae-7dd8-affb-faa2e59f8a63",
+      "time": "2026-06-15 10:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share CPO concept stocks rallied. Hongda Electronics hit the 20% daily limit; Guangda Tongchuang gained over 19%. Taichen Guang and Shengna Technology rose more than 16%; Juguang Technology and Jiayuan Technology climbed over 15%, with Changxin Bochuang and others also higher."
+    },
+    {
+      "id": "4935265",
+      "time": "2026-06-15 10:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受賄數額特別巨大 檢察機關依法對倪強涉嫌受賄案提起公訴】記者今天（15日）從最高人民檢察院獲悉，海南省委原常委、秘書長倪強涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對倪強作出逮捕決定，並指定由廣西壯族自治區柳州市人民檢察院審查起訴。近日，柳州市人民檢察院已向柳州市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人倪強享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人倪強利用擔任海南省洋浦經濟開發區工委副書記、管委會主任兼海南省洋浦開發建設控股有限公司董事長，海口市委副書記、副市長，海口市委副書記、市長，海南省政府黨組成員、秘書長，海南省政府黨組成員、副省長，海南省委常委、秘書長等職務上的便利，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。（央視新聞）"
+    },
+    {
+      "id": "te:markets:558861",
+      "time": "2026-06-15 10:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Decline — US natural gas prices fell 2% to around $3.0 per MMBtu, their lowest level in nearly three weeks, tracking broader declines across energy markets following a US–Iran peace deal. Both sides confirmed they have reached an agreement to end their war, with President Donald Trump stating that Washington will end its naval blockade of Iranian ports and that the Strait of Hormuz, a key chokepoint for a fifth of the world’s oil and LNG supplies, will reopen once the agreement is formally signed on Friday. Additional downward pressure came from strong domestic supply conditions. US gas inventories have risen to 2.686 trillion cubic feet, around 6% above the five-year seasonal average, signaling a well-supplied market. However, losses may be limited by improving demand prospects, with a recovery in LNG exports, along with forecasts for higher cooling demand as temperatures rise into early July."
+    },
+    {
+      "id": "4935264",
+      "time": "2026-06-15 09:59:32",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【分析師：隨著厄爾尼諾風險增加，棕櫚油價格或將保持堅挺】RHB IB分析師Hoe Lee Leng在一份報告中表示，儘管存在地緣政治風險，但預計毛棕櫚油價格將在目前水平獲得支撐，如果正在發展的厄爾尼諾現象增強，價格可能會進一步上漲。她指出，美國國家海洋與大氣管理局釋出了厄爾尼諾預警，並預測到2026年底發生強厄爾尼諾事件的可能性很高。從歷史上看，強厄爾尼諾現象會降低棕櫚油產量並推高毛棕櫚油價格。她補充說，印尼更嚴格的出口治理框架可能會提供額外支撐，這可能會限制供應並增加出口商的合規成本。RHB將東南亞種植業板塊的評級從中性上調至增持，並將Johor Plantations、Sarawak Oil Palms、IOI Corp.、Hap Seng Plantations、London Sumatra Indonesia和SD Guthrie列為首選股。"
+    },
+    {
+      "id": "te:markets:558860",
+      "time": "2026-06-15 09:59:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Climb in Asian Upswing — The Shanghai Composite climbed 1.1% to 4,076 on Monday, while the Shenzhen Component gained 1.8% to 15,226, tracking gains across Asian peers as market sentiment improved on optimism over a tentative US–Iran diplomatic thaw. The agreement is said to include the reopening of the Strait of Hormuz, an end to hostilities, and a framework for renewed negotiations over Iran’s nuclear program. Iranian Deputy Foreign Minister Kazem Gharibabadi confirmed the deal, with officials from both countries expected to meet in Switzerland on Friday to formally sign it. However, key details remain unresolved, and no official text has yet been released. Domestically, investors are awaiting a fresh batch of economic indicators, including industrial production, retail sales, and unemployment data. Notable movers included Zijin Mining Group (5%), CATL (1.8%), and Zhongji Innolight (2.3%). In contrast, energy stocks underperformed amid lower oil prices, particularly PetroChina (-1.1%) and CNOOC (-4%)."
+    },
+    {
+      "id": "te:markets:558857",
+      "time": "2026-06-15 09:58:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Extends Fall to 9-Month Low — Corn futures dropped further below $4.1 per bushel, reaching their lowest level since early September 2025, after a tentative US-Iran peace agreement triggered a sharp decline in oil prices. Oil prices fell after US President Donald Trump and Iran’s deputy foreign minister said a deal had been reached to halt hostilities and resume traffic through the Strait of Hormuz. Agricultural goods often track crude oil prices due to their link to biofuel demand from grains and oilseeds. Favourable US crop weather and higher South American production forecasts added further pressure on prices. Last week, the USDA raised its forecasts for corn output in Argentina and Brazil, projecting 61 million metric tons and 138 million tons respectively. The USDA also lifted its estimate for global corn inventories at the end of 2026/27 to above trade expectations. Weak Chinese demand for US agricultural exports has further weighed on sentiment despite earlier expectations of large-scale purchases."
+    },
+    {
+      "id": "4935263",
+      "time": "2026-06-15 09:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【應對AI編造虛假判例，韓國研發AI系統輔助庭審】韓國司法部門計劃引入罰款機制，並研發內部AI庭審輔助系統，以應對律師在法庭檔案中引用AI編造的虛假判例問題。法官近來飽受AI生成“幽靈判例”的困擾，韓國律師在法庭檔案中頻繁引用AI生成的虛假判決書或法律條款，不加核實便提交至法庭。法官為此耗費大量時間逐一核查，嚴重影響庭審效率。（新華社）"
+    },
+    {
+      "id": "te:markets:558856",
+      "time": "2026-06-15 09:57:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Weakens Past 160 as Carry Trades Dominate — The Japanese yen depreciated past 160 per dollar on Monday, reversing gains from earlier in the session as traders piled on short bets against the currency amid persistent carry trades, where investors are borrowing against the low-yielding yen and investing in other currencies. The move reflects the continued interest rate gap between Japan and the US, which has outweighed efforts by the Bank of Japan to gradually tighten policy and repeated currency intervention by Tokyo. Still, the Bank of Japan is widely expected to raise interest rates this week in an effort to contain inflation and stabilize the currency. Meanwhile, the yen found some support after the US and Iran reached a peace agreement to reopen the Strait of Hormuz. Oil prices subsequently fell to a two-month low, easing inflation pressures and reducing import costs for energy-dependent economies such as Japan."
+    },
     {
       "id": "mkt:019ec8ff-4437-7dd8-affb-f34249ca5f53",
       "time": "2026-06-15 09:57:12",
@@ -168365,142 +168474,6 @@
         "MKT News"
       ],
       "text": "【China releases nine new Chinese typhoon names】China Meteorological Administration on the 8th released nine new Chinese typhoon names — Gaoji, Jianguwei, Dianxin, Xibi, Chuanwei, Tilu, Nani, Bulapa and Huaban — jointly agreed with the Hong Kong Observatory and the Macao Meteorological and Geophysical Bureau to replace nine names removed in 2024."
-    },
-    {
-      "id": "4922714",
-      "time": "2026-06-08 10:02:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾下跌 0.5%，創歷史新低，股市同步大幅下挫。"
-    },
-    {
-      "id": "4922713",
-      "time": "2026-06-08 10:01:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "機器人概念日內震盪回暖，寧波東力漲停，豐光精密漲近20%，斯菱智驅、貝斯特、秦川機床、鼎智科技、三協電機等衝高。"
-    },
-    {
-      "id": "4922712",
-      "time": "2026-06-08 10:01:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【空調進入消費和使用高峰期 安全提醒必看】夏季來臨，空調作為防暑降溫的必備家電，已進入消費和使用高峰期。《2026年第一季度全國消協組織受理投訴情況分析》顯示，2026年第一季度，全國消協組織共受理空調器投訴1705件，其中涉及安全類投訴17件。中國消費者協會、中國家用電器服務維修協會與中國市場監督管理學會提醒消費者："
-    },
-    {
-      "id": "mkt:019ea4f6-bff0-7ee0-94c7-fee92a1d386f",
-      "time": "2026-06-08 10:01:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【CHINA departs Beijing for state visit to N. KOREA】On the morning of June 8, CHINA departed Beijing by special aircraft to begin a state visit to N. KOREA at the invitation of N. KOREA leader Kim Jong Un. The delegation includes Foreign Minister Wang Yi."
-    },
-    {
-      "id": "mkt:019ea4f6-97fc-7ee0-94c7-f0d212de8a81",
-      "time": "2026-06-08 10:01:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share optical and optoelectronics sector rose amid choppy trade. Kaisheng Technology hit the daily limit; Jingwei Huikai and Jufei Photonics surged over 10%. Guangzhi Technology, Gebijia, Leiman Optoelectronics, Rainbow Co and Leyard also advanced."
-    },
-    {
-      "id": "4922711",
-      "time": "2026-06-08 10:01:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼股指跌近2%。"
-    },
-    {
-      "id": "4922710",
-      "time": "2026-06-08 10:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯7月份連續第二個月下調對亞洲的石油價格。"
-    },
-    {
-      "id": "4922709",
-      "time": "2026-06-08 10:00:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光學光電子板塊震盪走高，凱盛科技觸及漲停】光學光電子板塊震盪走高，凱盛科技觸及漲停，經緯輝開、聚飛光電漲超10%，光智科技、戈碧迦、雷曼光電、彩虹股份、利亞德跟漲。"
-    },
-    {
-      "id": "4922708",
-      "time": "2026-06-08 10:00:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“摩羯”等9個致災颱風被除名 新名接棒啟用】記者今天（6月8日）從中國氣象局獲悉，在韓國濟州島舉行的聯合國亞洲及太平洋經濟社會委員會/世界氣象組織（WMO）颱風委員會（以下簡稱“颱風委員會”）第58次屆會，審議透過9個新臺風名稱，替換2024年被除名的“摩羯”等9個颱風。（央視新聞）"
-    },
-    {
-      "id": "4922707",
-      "time": "2026-06-08 10:00:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部發布《第二批海洋資料開放共享目錄》】今日（6月8日），自然資源部面向社會公開發布《第二批海洋資料開放共享目錄》，為海洋領域經濟發展、防災減災、資源開發利用和科學研究提供重要資料支撐。自然資源部《第二批海洋資料開放共享目錄》在首批37項產品基礎上，更新了2024至2025年中國海洋觀測標準資料集，全球海洋水文氣象、水深地形整合資料集等產品；新增了10項全球海洋三維溫鹽、海流、海浪、氣壓等融合資料集和7項全球海洋水文氣象統計分析產品。使用者可透過國家海洋大資料服務平臺（海洋雲）獲取目錄中的各類資料產品。"
-    },
-    {
-      "id": "4922706",
-      "time": "2026-06-08 10:00:22",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【習近平離京對朝鮮進行國事訪問】6月8日上午，中共中央總書記、國家主席習近平乘專機離開北京，應朝鮮勞動黨總書記、朝鮮民主主義人民共和國國務委員長金正恩邀請，對朝鮮進行國事訪問。陪同出訪的有：習近平總書記、國家主席夫人彭麗媛，中共中央政治局常委、中央辦公廳主任蔡奇，中共中央政治局委員、外交部部長王毅等。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ea4f5-2b9f-7ee0-94c7-ef34530bd77f",
-      "time": "2026-06-08 09:59:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "Beijing Stock Exchange 50 Index rose more than 3% after sliding as much as 2.6% earlier in the session."
-    },
-    {
-      "id": "4922705",
-      "time": "2026-06-08 09:59:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達3.00%，成分股中，民士達漲14.43%，萬通液壓漲12.19%，吉岡精密漲9.24%，華密新材漲8.46%。"
-    },
-    {
-      "id": "4922704",
-      "time": "2026-06-08 09:59:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列對伊朗發動襲擊，伊朗伊斯蘭革命衛隊發聲：以方使用了“空射彈道導彈”】美國有線電視新聞網（CNN）8日援引伊朗媒體訊息稱，伊朗伊斯蘭革命衛隊稱，伊朗首都德黑蘭及大不里士、伊斯法罕均傳出了爆炸聲。伊朗伊斯蘭革命衛隊稱，以色列軍方在此次襲擊中使用了“空射彈道導彈”。稍早前，以色列國防軍稱已對伊朗西部和中部地區的軍事目標發動了打擊。（環球網）"
-    },
-    {
-      "id": "mkt:019ea4f4-2e85-7ee0-94c7-e368c9b44973",
-      "time": "2026-06-08 09:58:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Lee said the rapid stock-market rebound has had an abnormal effect on the FX market."
     }
   ]
 }
