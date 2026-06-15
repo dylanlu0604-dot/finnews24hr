@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-15 10:10:13",
-  "count": 18321,
+  "updated": "2026-06-15 10:14:19",
+  "count": 18313,
   "items": [
+    {
+      "id": "4935293",
+      "time": "2026-06-15 10:13:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：希望美伊協議能夠降低全球經濟風險。"
+    },
+    {
+      "id": "mkt:019ec90d-9781-7dd8-affc-3f2c5486a90b",
+      "time": "2026-06-15 10:12:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【US-Iran deal trims Fed hike odds, US Treasuries rally】A US-Iran agreement prompted traders to pare Federal Reserve tightening expectations and sent US Treasury yields lower across the curve, with the short end—most sensitive to policy—falling the most. Interest-rate swaps price roughly a 60% chance of a 25bp Fed hike before December, down from about 80% last Friday. The move reflects market optimism that resolving the Iran conflict will help reopen the Strait of Hormuz and put downward pressure on oil. Some rate-market shorts are likely being covered, said Matthew Haupt, hedge fund manager at Wilson Asset Management in Sydney. Central banks, he added, can afford a more patient stance and may look through near-term inflation."
+    },
+    {
+      "id": "mkt:019ec90d-46f4-7dd8-affc-3657ea7d5d63",
+      "time": "2026-06-15 10:12:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "02577.HK",
+        "Impact bullish",
+        "01347.HK",
+        "00981.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor stocks extended intraday gains: 02577.HK rose over 12%, 01347.HK rose over 10%; 02676.HK, 00981.HK (SMIC), 03986.HK and 01385.HK each gained more than 6%."
+    },
+    {
+      "id": "4935292",
+      "time": "2026-06-15 10:11:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾在早盤交易中走強，1美元兌17740。"
+    },
+    {
+      "id": "4935291",
+      "time": "2026-06-15 10:11:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受伊朗核協議提振，新興亞洲貨幣上漲，菲律賓比索和印尼盾領漲。"
+    },
+    {
+      "id": "mkt:019ec90b-0252-7dd8-affc-2c6b2f40a073",
+      "time": "2026-06-15 10:10:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "01888.HK",
+        "Impact bullish",
+        "00148.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong PCB-related stocks continued to rally: 01888.HK rose more than 16.5%, 00148.HK gained over 11%, 01989.HK and 02476.HK climbed over 6% each, and 03200.HK advanced about 5.5%."
+    },
+    {
+      "id": "te:markets:558863",
+      "time": "2026-06-15 10:09:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Shares Rally After US-Iran Accord — The Hang Seng Index climbed 220 points, or 0.9%, to 24,935 on Monday, kicking off the week on a positive note and extending gains from the previous session as investor sentiment improved after the US and Iran reached an interim agreement to reopen the Strait of Hormuz, with a formal signing ceremony expected later this week, easing concerns over disruptions to global energy supplies and reducing geopolitical risks. The deal triggered a sharp decline in oil prices, helping alleviate inflation worries and boosting appetite for risk assets across global markets. Investors also returned to large-cap technology and growth stocks as improving risk sentiment encouraged bargain hunting following recent market weakness. Gains were broad-based, led by finance, technology, and retail trade shares. Notable gainers included included AIA (1.8%), Tencent Holdings (1.0%), Kingboard Laminates (7.2%), Lenovo (5.6%), and Semiconductor Manufacturing International Corporation (2.6%)."
+    },
     {
       "id": "4935290",
       "time": "2026-06-15 10:09:25",
@@ -168345,141 +168429,6 @@
         "國際"
       ],
       "text": "伊朗伊斯蘭共和國通訊社：截至目前，以色列襲擊未針對德黑蘭城區。"
-    },
-    {
-      "id": "4922743",
-      "time": "2026-06-08 10:13:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【粵港澳大灣區車展“賣”出近4萬輛車】據深圳特區報，6月7日，2026（第三十屆）粵港澳大灣區車展在深圳國際會展中心落下帷幕。展期內吸引81萬人次觀展，預定成交車輛39253輛，預定成交金額約82.5億元。"
-    },
-    {
-      "id": "4922742",
-      "time": "2026-06-08 10:13:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯合創始人退出小米電子軟體技術公司】天眼查App顯示，近日，北京小米電子軟體技術有限公司發生工商變更，原股東小米聯合創始人洪鋒退出，新增劉凌迪為股東。 該公司成立於2014年7月，法定代表人為嶽凱，註冊資本約20.7億人民幣，經營範圍包括貨物進出口、技術進出口、代理進出口等，現由雷軍及上述新增股東共同持股。"
-    },
-    {
-      "id": "4922741",
-      "time": "2026-06-08 10:13:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "沙烏地阿拉伯國家石油公司（阿美）將7月銷往亞洲的阿拉伯輕質原油官方售價設定為較阿曼/迪拜均價每桶升水9.50美元。"
-    },
-    {
-      "id": "4922740",
-      "time": "2026-06-08 10:13:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統：選票短缺問題需展開調查。"
-    },
-    {
-      "id": "4922739",
-      "time": "2026-06-08 10:13:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲2%，現報6372.00元。"
-    },
-    {
-      "id": "4922738",
-      "time": "2026-06-08 10:12:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼雅加達綜合指數下跌 4.4%，創 2020 年 11 月以來新低。"
-    },
-    {
-      "id": "4922737",
-      "time": "2026-06-08 10:12:28",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "報道稱，以色列已襲擊伊朗境內至少15處目標。目前遭打擊的目標包括一座無人機製造廠、德黑蘭國際機場以及多處戰略石油設施。"
-    },
-    {
-      "id": "4922736",
-      "time": "2026-06-08 10:12:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒：以色列發動襲擊，伊朗關閉德黑蘭伊瑪目霍梅尼國際機場周邊空域】據《以色列時報》8日最新訊息，在以色列對伊朗發動襲擊後，伊朗關閉了德黑蘭伊瑪目霍梅尼國際機場周邊空域。（環球網）"
-    },
-    {
-      "id": "te:economy:557084",
-      "time": "2026-06-08 10:11:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Rises Over 2-Week High — Australia’s 10-year government bond yield rose above 4.9%, reaching more than a two-week high as rising Middle East tensions and a fragile US-Iran peace deal fueled inflation concerns. Iran launched multiple missile waves toward Israel over the weekend as a warning against further military actions in Lebanon, casting doubt on a fragile ceasefire as peace talks remain stalled. The prolonged conflict and the continued near-closure of the Strait of Hormuz have disrupted energy supplies from the Persian Gulf, pushing oil prices higher and intensifying global inflation concerns. In Australia, RBA Governor Michele Bullock reiterated last week that the central bank remains firmly focused on bringing inflation down, following three rate hikes earlier this year that lifted the cash rate to 4.35%. She also noted that inflation remains too elevated, stressing that the board will take whatever measures it deems necessary to fulfill its mandate of achieving price stability and full employment."
-    },
-    {
-      "id": "4922735",
-      "time": "2026-06-08 10:11:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道， 伊朗境內十餘處目標遭襲，其中包括防空系統與彈道導彈設施。"
-    },
-    {
-      "id": "4922734",
-      "time": "2026-06-08 10:10:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥概念逆勢活躍 百花醫藥、津藥藥業雙雙漲停】創新藥概念盤中逆勢活躍，百花醫藥、津藥藥業漲停，賽倫生物、魯抗醫藥、萊美藥業、三元基因等衝高。"
-    },
-    {
-      "id": "te:markets:557082",
-      "time": "2026-06-08 10:10:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Shanghai Stocks Hit 2-Month Low — The Shanghai Composite tumbled 2.2% to 3,944 on Monday, its lowest level in two months, while the Shenzhen Component fell 1.8% to 15,033, marking a more than one-month low, as a broad selloff in technology stocks weighed heavily on mainland markets. The sector came under pressure after a sharp retreat in Wall Street's AI-related stocks, as stronger-than-expected US jobs data fueled concerns about a prolonged period of high interest rates. Leading decliners included Zhongji Innolight (-7.8%), Eoptolink Technology (-3.6%), and NAURA Technology (-3.8%). Sentiment was also hit after Iran framed its latest missile launch as a warning to Israel about its operations in Lebanon, even as Israeli defense systems apparently intercepted all projectiles. Domestically, investors now await China's trade and inflation data later this week for fresh clues on the strength of China's economy amid external and domestic headwinds."
-    },
-    {
-      "id": "4922733",
-      "time": "2026-06-08 10:10:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "益普索快速計票結果：羅伯託·桑切斯以50.3%的得票率領先秘魯選舉。"
-    },
-    {
-      "id": "te:markets:557081",
-      "time": "2026-06-08 10:10:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Weakens Past Key 160 per Dollar Level — The Japanese yen weakened beyond the 160-per-dollar mark on Monday, crossing a level widely seen by markets as a potential trigger for another round of currency intervention by Japanese authorities. The currency remained under pressure as a stronger US dollar gained support from a better-than-expected US jobs report, which reinforced expectations that the Federal Reserve could raise interest rates later this year. Escalating tensions in the Middle East also boosted demand for the greenback after Iran launched several rounds of missiles toward Israel. Meanwhile, data released on Friday showed Japan’s foreign reserves recorded a record monthly decline in May as the government sold foreign assets to finance its largest-ever currency intervention a month earlier. On the monetary policy front, the Bank of Japan is widely expected to raise interest rates later this month as policymakers contend with persistent inflationary pressures driven by higher energy costs."
-    },
-    {
-      "id": "4922732",
-      "time": "2026-06-08 10:10:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東方證券：國產創新藥開啟NSCLC一線治療正規化革新】東方證券釋出研報稱，在免疫治療2.0時代，行業分化為兩大技術路線：1)路線1為二代雙抗(PD1/VEGF、PD-1/IL2)聯合化療，以依沃西單抗、IBI363為代表，優勢覆蓋全PD-L1分層人群，尤其在PD-L1陰性患者實現顯著獲益;2)路線2為ADC聯合PD-1，其中以Sac-TMT+K藥為標杆，在PD-L1陽性人群實現療效跨越式提升。本次ASCO大會上國產創新藥取得了重要突破，展現了強大競爭力，建議關注具備國際競爭優勢的創新藥企業。相關標的：康方生物(09926，未評級)、科倫博泰生物-B(06990，未評級)、信達生物(01801，未評級)等。"
     }
   ]
 }
