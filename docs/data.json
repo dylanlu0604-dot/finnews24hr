@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-15 08:29:41",
+  "updated": "2026-06-15 08:33:39",
   "count": 18336,
   "items": [
+    {
+      "id": "mkt:019ec8b2-0733-7dd8-aff9-d435c73ccc01",
+      "time": "2026-06-15 08:32:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Graham says US, Iran differ on understanding of deal】U.S. Republican Senator Lindsey Graham, an ally of Trump, said he welcomed Iran's agreement to a memorandum of understanding on reopening the Strait of Hormuz but warned Tehran's interpretation appears to differ from that of the U.S. negotiating team. He said he will monitor talks on Iran's nuclear program and other issues, and noted that under U.S. law any nuclear agreement with Iran must be submitted to Congress for review and a vote. He expects to review the final draft and said Vice President Vance and the negotiating team should be involved in submitting the accord to Congress."
+    },
+    {
+      "id": "4935063",
+      "time": "2026-06-15 08:32:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本郵船：希望根據和平協議實現霍爾木茲海峽航行正常化。"
+    },
+    {
+      "id": "mkt:019ec8b1-3b04-7dd8-aff9-cf8780ee8e4c",
+      "time": "2026-06-15 08:31:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index climbed to 8,600, up 5.91% intraday."
+    },
+    {
+      "id": "4935062",
+      "time": "2026-06-15 08:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國外匯交易中心（CFETS）：6月12日人民幣匯率指數按周漲0.16至101.49。"
+    },
+    {
+      "id": "4935061",
+      "time": "2026-06-15 08:30:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率下跌1.5個基點，至1.395%。"
+    },
+    {
+      "id": "4935060",
+      "time": "2026-06-15 08:30:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澳大利亞LNG出口商伍德賽德能源稱未與埃克森美孚就潛在收購進行討論】澳大利亞最大的液化天然氣(LNG)出口商伍德賽德能源表示，公司沒有與埃克森美孚就潛在收購進行討論，也不知悉這家美國能源巨頭即將提出任何收購要約。此前，知情人士稱，埃克森美孚正在研究伍德賽德等潛在收購目標，內部對此展開初步討論。"
+    },
+    {
+      "id": "4935059",
+      "time": "2026-06-15 08:29:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍：法英牽頭的霍爾木茲海峽護航行動隨時啟動】法國總統馬克龍15日在社交媒體上發文，歡迎美國和伊朗達成諒解備忘錄，並表示法國和英國牽頭組建的霍爾木茲海峽多國護航行動隨時啟動。（新華社）"
+    },
+    {
+      "id": "mkt:019ec8af-26ad-7dd8-aff9-c2aa288714eb",
+      "time": "2026-06-15 08:29:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Macron: France, UK-led Strait of Hormuz escort operation ready to start at any time】President Macron welcomed a US-Iran memorandum of understanding and said the France- and UK-led multinational escort operation in the Strait of Hormuz is ready to start at any time."
+    },
     {
       "id": "mkt:019ec8ae-6b13-7dd8-aff9-bd55f9fd450f",
       "time": "2026-06-15 08:28:54",
@@ -168430,77 +168501,6 @@
         "國際"
       ],
       "text": "【美國紐約一車站發生持刀傷人事件 5人受傷】當地時間6月7日晚間，美國紐約賓夕法尼亞車站發生一系列持刀傷人事件，造成5人受傷，目前一名嫌疑人已被拘留。紐約市消防局在一份宣告中表示，急救人員於19時左右趕到現場，發現一名受害者傷勢嚴重，兩人中度受傷，其餘人員受輕傷。所有傷者均被送往醫院救治。宣告確認嫌疑人已被拘留，但未透露更多細節。"
-    },
-    {
-      "id": "4922502",
-      "time": "2026-06-08 08:33:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SpaceX等鉅額AI融資潮來襲 新股洪流考驗美股承接能力】隨著企業為推進人工智慧(AI)戰略紛紛籌資，新股供應洪流正令華爾街開始質疑：市場是否有足夠資金消化這些股票，以及新增股權供應將如何影響更廣泛的股價表現。風險在上週五開始顯現——有報道稱Meta Platforms Inc.正考慮透過增發股票籌集數百億美元，訊息公佈後其股價下跌5.5%。納斯達克100指數重挫4.8%，創下一年多來最大單日跌幅；標普500指數下跌2.6%，為去年10月以來最差表現。問題在於，Meta只是冰山一角。根據媒體彙編的資料，未來數月SpaceX、Anthropic和OpenAI的IPO可能為美股市場新增近4萬億美元市值。目前，SpaceX的發行需求已出現超額認購。與此同時，Alphabet Inc.計劃於下一季度籌資850億美元，主要透過在公開市場出售股票，其他需要資金建設AI資料中心的科技巨頭也可能效仿。“這是我們以往從未見過的，在如此短時間內、如此大規模的供給事件，”安聯貿易的企業研究主管Ano Kuhanathan表示，“這是一場巨大的供給衝擊。”"
-    },
-    {
-      "id": "te:economy:557040",
-      "time": "2026-06-08 08:32:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Government Bond Korea",
-        "Importance 1"
-      ],
-      "text": "South Korea 10Y Bond Yield Hits 31-month High — South Korea 10 Year Government Bond Yield increased to 4.31%, the highest since November 2023. Over the past 4 weeks, South Korea 10Y Bond Yield gained 30.80 basis points, and in the last 12 months, it increased 137.50 basis points."
-    },
-    {
-      "id": "4922501",
-      "time": "2026-06-08 08:31:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勝宏科技：在ASIC相關客戶的業務進展順利 未來有望成為公司業績增長的核心動力之一】勝宏科技近日在機構現場參觀和券商策略會中指出，公司將鞏固現有核心客戶合作基礎，深化與科技巨頭的戰略合作，持續擴大GPU加速卡、TPU配套板等核心產品供應規模。目前公司在ASIC相關客戶的業務進展順利，未來有望成為公司業績增長的核心動力之一。"
-    },
-    {
-      "id": "4922500",
-      "time": "2026-06-08 08:31:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊副外長：伊朗海外資產不是美國的戰利品】伊朗外交部副部長加里巴巴迪7日在社交媒體發文，回應有關美國可能動用伊朗被凍結資產補償部分地區盟友損失的報道，稱此舉“不可接受”，強調伊朗海外資產“既不是華盛頓的戰爭戰利品，也不是支付給其盟友的資金”。美國作為針對伊朗軍事行動的主要參與方，如果真正討論賠償問題，美方應承擔自身責任及其盟友在當前地區衝突中的責任。那些向針對伊朗的軍事行動提供領土或設施支援的地區國家，無權要求賠償。他還表示，伊朗海外資產屬於伊朗國家財產。任何未經伊朗政府同意而對相關資產進行扣押、轉移或重新分配的行為，都將被伊方視為新的國際不法行為，並可能引發相應後果。（央視新聞）"
-    },
-    {
-      "id": "4922499",
-      "time": "2026-06-08 08:31:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "CFETS：6月5日人民幣匯率指數按周漲0.67至101.33。"
-    },
-    {
-      "id": "4922498",
-      "time": "2026-06-08 08:31:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【因特朗普到場觀賽 NBA總決賽安檢升級】因美國總統特朗普宣佈8日將現場觀看在紐約舉行的美國男子職業籃球聯賽(NBA)總決賽第三場，屆時場館周邊道路將封閉。美國特勤局呼籲球迷提前至少兩小時到達場館，現場人員將接受嚴格安全檢查，禁止帶包入場。 據路透社報道，特朗普重返白宮後經常到場觀看各類體育比賽。他去年9月出席美國網球公開賽男單決賽時，因相關安全檢查導致入場緩慢並引發混亂，數千名觀眾錯過比賽開場。"
-    },
-    {
-      "id": "4922497",
-      "time": "2026-06-08 08:30:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本國債期貨下跌，追隨美國國債市場跌勢。日本10年期國債收益率上漲3.5個基點，至2.700%；30年期日本國債收益率上升2個基點，至3.910%。"
-    },
-    {
-      "id": "mkt:019ea4a2-c83f-7338-95ad-8ff7f0443ade",
-      "time": "2026-06-08 08:29:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Shenghong Technology: ASIC-related business progressing smoothly, could become core earnings driver】Shenghong Technology said it will consolidate core customer relationships, deepen strategic cooperation with technology giants and expand supply of GPU accelerator cards and TPU support boards. Its business with ASIC-related customers is progressing smoothly and could become a core driver of future earnings."
     }
   ]
 }
