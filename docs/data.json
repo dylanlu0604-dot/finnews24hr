@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-16 01:53:57",
-  "count": 18257,
+  "updated": "2026-06-16 01:57:51",
+  "count": 18260,
   "items": [
+    {
+      "id": "mkt:019ecc6d-d3c0-7dd8-b014-de7f2075ffb1",
+      "time": "2026-06-16 01:56:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) extended gains, with intraday advance reaching 15%."
+    },
+    {
+      "id": "mkt:019ecc6b-d014-7dd8-b014-d1980e41cc49",
+      "time": "2026-06-16 01:54:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Citigroup raises its 3-month gold price forecast to $4,500/oz and its silver forecast to $70/oz."
+    },
+    {
+      "id": "mkt:019ecc6b-543a-7dd8-b014-caa49084d296",
+      "time": "2026-06-16 01:54:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Citigroup cut its oil price outlook to its prior bearish-scenario level, now forecasting $75/bbl in 3Q26 and $70/bbl in 4Q26."
+    },
+    {
+      "id": "mkt:019ecc6a-f2f5-7dd8-b014-c6de5ed22bc5",
+      "time": "2026-06-16 01:53:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister discussed the U.S.-Iran agreement in separate phone calls with Lebanese President Aoun and Speaker Berri."
+    },
     {
       "id": "4937003",
       "time": "2026-06-16 01:44:39",
@@ -167843,21 +167889,6 @@
         "公司"
       ],
       "text": "蘋果公司：主螢幕App可利用Apple Intelligence分析相容攝像頭錄製的片段，生成摘要描述。"
-    },
-    {
-      "id": "mkt:019ea85f-88ee-733a-9233-567c8a7b20ef",
-      "time": "2026-06-09 01:54:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "【Apple unveils next‑generation AI platform, including AI Siri】Apple (AAPL.O) unveiled a next‑generation AI platform at WWDC that includes an upgraded, AI version of Siri. Craig Federighi said the new Apple Intelligence is underpinned by Google technology and is designed to improve contextual understanding of user requests. Apple positioned the Siri overhaul as central to its AI revival after the initial Apple Intelligence rollout two years ago saw slow feature deployment and lagged rivals. The software update will emphasize AI, performance and security; Apple also named the next macOS Golden Gate and tweaked last year’s Liquid Glass interface by adding a slider to adjust visual effect intensity."
     }
   ]
 }
