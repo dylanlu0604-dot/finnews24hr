@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-15 13:56:13",
+  "updated": "2026-06-15 14:00:24",
   "count": 18197,
   "items": [
+    {
+      "id": "4935617",
+      "time": "2026-06-15 13:59:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500指數期貨上漲1.3%，納斯達克100指數期貨上漲1.9%，道指期貨上漲1%。"
+    },
+    {
+      "id": "4935616",
+      "time": "2026-06-15 13:58:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工業金屬板塊走高，江西銅業漲停】工業金屬板塊走高，江西銅業漲停，金誠信、洛陽鉬業、馳宏鋅鍺、銅陵有色跟漲。"
+    },
+    {
+      "id": "4935615",
+      "time": "2026-06-15 13:58:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：不能讓通貨膨脹這隻潘多拉魔盒開啟。"
+    },
+    {
+      "id": "4935614",
+      "time": "2026-06-15 13:58:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及外交部宣告：美國與伊朗達成協議是埃及聯合地區及國際合作夥伴歷經數月努力促成停火的成果。"
+    },
+    {
+      "id": "4935613",
+      "time": "2026-06-15 13:58:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：如果通貨膨脹復甦，我必須扼殺它。"
+    },
+    {
+      "id": "4935612",
+      "time": "2026-06-15 13:57:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "澳大利亞海上聯盟：生產中斷協議將延續，今日下午將向INPEX（日本國際石油開發帝石公司）傳送關於將協議期限延長至6月23日之後的進一步通知。"
+    },
+    {
+      "id": "4935611",
+      "time": "2026-06-15 13:57:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞海上聯盟：國際石油開發帝石（INPEX）未能遵守公平工作委員會（FWC）昨晚商定的最後期限。"
+    },
+    {
+      "id": "4935610",
+      "time": "2026-06-15 13:57:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量944億元。"
+    },
+    {
+      "id": "mkt:019ec9da-bd40-7dd8-b000-22a8c9a57eb1",
+      "time": "2026-06-15 13:56:56",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President LAGARDE said the central bank has begun to see second-round effects of inf."
+    },
+    {
+      "id": "4935609",
+      "time": "2026-06-15 13:56:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：需要努力解決歐洲的結構性問題。"
+    },
+    {
+      "id": "4935608",
+      "time": "2026-06-15 13:56:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五糧液旗下宜賓環球集團增資至約8.8億】天眼查App顯示，近日，四川省宜賓環球集團有限公司發生工商變更，註冊資本由約8.4億人民幣增至約8.8億人民幣。該公司成立於2004年7月，法定代表人為劉興，經營範圍包括企業管理、貨物進出口、玻璃製造、普通玻璃容器製造、日用玻璃製品製造等，由四川省宜賓五糧液集團有限公司全資持股。"
+    },
     {
       "id": "mkt:019ec9d9-cac9-7dd8-b000-1d5a4dfa34a3",
       "time": "2026-06-15 13:55:54",
@@ -9,6 +107,14 @@
         "MKT News"
       ],
       "text": "【Myanmar president Min Aung Hlaing arrives in Beijing】Myanmar President Min Aung Hlaing arrived in Beijing on June 15 for a five-day state visit, his first state visit to China since being elected president."
+    },
+    {
+      "id": "4935607",
+      "time": "2026-06-15 13:55:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市分割槽暴雨黃色預警訊號升級為橙色】過去3小時，大鵬新區、大鵬灣和大亞灣已出現強降雨，預計未來2小時還將出現30毫米左右降水，深圳市氣象臺2026年06月15日13時53分在上述區域釋出暴雨橙色預警訊號，全市進入暴雨防禦狀態。"
     },
     {
       "id": "4935606",
@@ -167267,120 +167373,6 @@
         "其他"
       ],
       "text": "【“黑土糧倉”科技會戰系列科技成果釋出】今天（6月8日），中國科學院“黑土糧倉”科技會戰系列科技成果釋出，包括五年來在黑土地保護與利用領域的理論突破、技術創新、模式構建及裝備研發等多方面取得的成果。（央視新聞）"
-    },
-    {
-      "id": "4923162",
-      "time": "2026-06-08 14:00:10",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國4月季調後製造業訂單月率 -3.8%，預期-2%，前值5.00%。"
-    },
-    {
-      "id": "mkt:019ea5d1-48cc-700a-8482-74e25d83a77f",
-      "time": "2026-06-08 14:00:09",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany April seasonally adjusted manufacturing orders m/m -3.8% (consensus -2.0%, prior +5.0%)."
-    },
-    {
-      "id": "4923161",
-      "time": "2026-06-08 14:00:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：歐佩克+增產難抵中東局勢升級影響】安聯首席經濟學家埃裡安表示，歐佩克+已將其產量提高18.8萬桶/日，但分析師認為其中絕大部分是“紙面數量”，由於霍爾木茲海峽持續中斷，這些增產的石油不太可能真正進入市場。事實上，今日早間油價上漲了5%。儘管特朗普表示和平協議即將達成，且以色列必須與美國指令保持一致，但交易員們正在對伊朗與以色列之間的軍事升級以及以色列對黎巴嫩不斷擴大的襲擊做出反應。"
-    },
-    {
-      "id": "mkt:019ea5d1-46b0-700a-8482-6c05fd847801",
-      "time": "2026-06-08 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Manufacturing Orders (Seasonally Adjusted) (MoM) (Apr) | actual -3.8% | consensus -2% | previous 5.00%"
-    },
-    {
-      "id": "4923160",
-      "time": "2026-06-08 13:59:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【IMF總裁出言警示 全球尚未做好應對接連不斷衝擊的準備】國際貨幣基金組織(IMF)總裁格奧爾基耶娃稱，在經歷了近年來接連不斷的危機後，全球需要建立起能抵禦日益頻繁衝擊的根基。“我們最有力的武器就是客觀分析，”她說。AI的急速發展及其對勞動力市場和經濟的影響，正在引發一場重大變革。格奧爾基耶娃表示，包括IMF在內的許多機構未能認識到全球化帶來的不平等問題，她希望確保AI不會也導致這種情況。"
-    },
-    {
-      "id": "mkt:019ea5d0-beb1-700a-8482-6485979eae01",
-      "time": "2026-06-08 13:59:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Institution: OPEC+ output rise unlikely to offset escalating Middle East tensions】Allianz chief economist El-Erian said OPEC+ has raised output by 188,000 b/d, but analysts call most of the increase \"paper barrels\" and say persistent disruptions to the Strait of Hormuz make it unlikely the additional oil will reach markets. Oil prices rose about 5% this morning as traders priced in military escalation between Iran and Israel and Israel’s widening strikes in Lebanon, despite Trump saying a peace deal is imminent and urging Israel to align with US directives."
-    },
-    {
-      "id": "mkt:019ea5d0-bbe7-700a-8482-5f449e20cbf3",
-      "time": "2026-06-08 13:59:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSDAQ resumed trading after an earlier suspension triggered by a circuit breaker."
-    },
-    {
-      "id": "mkt:019ea5cf-70ca-700a-8482-53ad0647051c",
-      "time": "2026-06-08 13:58:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EU foreign policy chief Kallas warned that Iran and Israel should not further escalate following air strikes and urged both sides to return to talks."
-    },
-    {
-      "id": "4923159",
-      "time": "2026-06-08 13:57:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國科斯達克（KOSDAQ）：熔斷解除，恢復交易。"
-    },
-    {
-      "id": "4923158",
-      "time": "2026-06-08 13:57:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安納智芯完成新一輪數億元融資】近日，成立僅半年的高精度現代模擬計算晶片公司——北京安納智芯科技有限公司宣佈完成新一輪數億元融資，本輪由經緯創投領投，峰瑞資本、阿爾法公社跟投，老股東訊飛創投、中贏創投持續加碼。安納智芯開創性地建立了“現代模擬計算”這一新型計算正規化——不再把矩陣方程拆解為一連串數字邏輯閘執行的離散指令，而是把矩陣方程本身直接對映到物理電路中，由電壓、電流、電導等物理量以類比的方式完成求解。（21世紀經濟報道）"
-    },
-    {
-      "id": "4923157",
-      "time": "2026-06-08 13:57:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【分析：美聯儲加息可能不會在2027年初之前到來】經濟學主管David Doyle表示，在週五強勁的就業報告發布後，麥格理維持對美聯儲利率路徑的基準預期。“正如我們一段時間以來一直強調的那樣，我們認為下一步行動將是加息，我們的基準時間是在2027年第一季度，”他說。他說，這種預期的風險已偏向於更早加息，市場目前已消化了2026年第四季度加息的預期。“未來幾周，美國聯邦公開市場委員會的言論可能會繼續從降息傾向轉向加息傾向。”"
-    },
-    {
-      "id": "mkt:019ea5cd-d1f2-700a-8482-49361ac11ef9",
-      "time": "2026-06-08 13:56:29",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【SEB economists: ECB may pre-emptively hike this week】SEB economists Pia Fromet and Markus Weiden say the ECB could raise its policy rate by 25bps at Thursday’s meeting. Rising energy prices present upside inflation risk and may prompt a pre-emptive move because indirect and second‑round effects have not yet appeared in the data. They expect LAGARDE to spend substantial time at the press conference on updated staff forecasts and risk assessment. Elevated uncertainty will be the focal point, supporting a wait‑and‑see bias thereafter, and the ECB is unlikely to pre‑commit to further hikes."
     }
   ]
 }
