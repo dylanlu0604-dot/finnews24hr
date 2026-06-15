@@ -1,7 +1,192 @@
 {
-  "updated": "2026-06-15 10:14:19",
-  "count": 18313,
+  "updated": "2026-06-15 10:18:25",
+  "count": 18317,
   "items": [
+    {
+      "id": "4935304",
+      "time": "2026-06-15 10:17:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4350美元/盎司，日內漲2.62%。"
+    },
+    {
+      "id": "mkt:019ec911-738c-7dd8-affc-72ef432cfb0d",
+      "time": "2026-06-15 10:17:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Indonesian rupiah extended gains, strengthening to 17,700 per USD, the strongest since May 25."
+    },
+    {
+      "id": "4935303",
+      "time": "2026-06-15 10:17:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "4935302",
+      "time": "2026-06-15 10:16:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼盾<IDR=>漲幅擴大，升值至1美元兌17700印尼盾，創5月25日以來新高。"
+    },
+    {
+      "id": "4935301",
+      "time": "2026-06-15 10:16:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【知情人士：談判最後時段 伊朗爭取到海峽管理、黎巴嫩相關條款】伊朗伊斯蘭革命衛隊旗下的塔斯尼姆通訊社援引知情人士訊息稱，在與美國磋商諒解備忘錄的最後階段，伊朗爭取到對霍爾木茲海峽管理相關條款的修改，並新增了保障黎巴嫩主權與領土完整的內容。該知情人士表示，針對這條戰略水道的管理條款是協議文字最後修訂的內容之一，伊朗方面提出相關提議後，協議草案相應作出調整。這名人士還稱，談判進入最後時段時，備忘錄中加入了 “保障黎巴嫩主權和領土完整” 的表述。報道指出，黎巴嫩相關條款的增設，是伊朗決定暫緩實施軍事反擊的重要原因。此前以色列襲擊貝魯特南郊，伊朗原本計劃就此展開軍事行動。報道稱，伊朗認為該條款是一項有利於黎巴嫩的讓步，也藉此避免了事態進一步升級。"
+    },
+    {
+      "id": "mkt:019ec910-daf4-7dd8-affc-6c5aaffc5168",
+      "time": "2026-06-15 10:16:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "688256.SS",
+        "Impact bullish",
+        "600460.SS",
+        "CSI300"
+      ],
+      "text": "China A-share semiconductor sector extended gains: Cambricon rose more than 7%. Juguang Technology hit the daily limit; Silan Micro had earlier hit its limit-up. Xingchen Technology, Biyi Micro, Dongwei Semiconductor, Huahong Hongli and China Resources Microelectronics also rallied."
+    },
+    {
+      "id": "4935300",
+      "time": "2026-06-15 10:16:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【理想汽車擬發行20億元3年期科創債 部分募資擬補充子公司流動資金】理想汽車公告，公司將在全國銀行間債券市場公開發行2026年度第一期科技創新債券，發行規模為人民幣20億元，期限3年。本期債務融資工具按面值發行，申購區間為1.5%-2.1%。發行日期為6月16日。據募集說明書顯示，在扣除首年發行費用75萬元人民幣後，募集資金9.9925億元用於補充下屬子公司北京勵鼎汽車銷售有限公司流動資金。剩餘10億元中，8億元用於上海理想汽車科技有限公司、2億元用於北京車和家汽車科技有限公司，支援上述科技型子公司正常經營及中長期發展。"
+    },
+    {
+      "id": "4935299",
+      "time": "2026-06-15 10:16:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年度工業和資訊化質量提升與品牌建設典型案例名單公佈】工業和資訊化部辦公廳釋出關於公佈2025年度工業和資訊化質量提升與品牌建設典型案例名單的通知，根據《工業和資訊化部辦公廳關於集中組織開展典型案例徵集工作的通知》，經企業申報、有關單位推薦、專家評審、徵求意見、社會公示，工業和資訊化部確定了90項工業和資訊化質量提升與品牌建設典型案例，現予以公佈。"
+    },
+    {
+      "id": "mkt:019ec910-656c-7dd8-affc-6647fa5e9bf0",
+      "time": "2026-06-15 10:15:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Meixinsheng launches dual-channel high-sensitivity gear sensor GH1836】Meixinsheng has launched the new-generation GH1836, a dual-channel, high-sensitivity, cost-effective general-purpose gear sensor intended as a domestically produced solution for industrial motor encoders, sprocket speed measurement and chain conveyor applications."
+    },
+    {
+      "id": "mkt:019ec910-4cc8-7dd8-affc-580d2d5c6ef2",
+      "time": "2026-06-15 10:15:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Japan's Chief Cabinet Secretary KIHARA said he hopes a U.S.-Iran agreement will reduce global economic risk."
+    },
+    {
+      "id": "4935298",
+      "time": "2026-06-15 10:15:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國農業發展銀行原政策研究室主任吳飈被“雙開”】經查，吳飈喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，違規接受可能影響公正執行公務的宴請及旅遊活動，無償接受他人提供的車輛接送等服務；違反組織原則，在職工錄用等工作中為他人謀取利益並收受財物；廉潔底線失守，違規收受可能影響公正執行公務的禮品禮金，默許親屬利用本人職權或者職務上的影響謀取私利，違規借用管理和服務物件的錢款；毫無紀法底線，將公權力異化為謀取私利的工具，利用職務便利為他人在貸款審批發放、工程專案承攬、工程款結算等方面謀利，非法收受鉅額財物。"
+    },
+    {
+      "id": "mkt:019ec910-29f5-7dd8-affc-5266e7b961fb",
+      "time": "2026-06-15 10:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KIHARA Minoru, Japan's Chief Cabinet Secretary, declined to comment on market moves."
+    },
+    {
+      "id": "4935297",
+      "time": "2026-06-15 10:15:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體板塊持續走高，寒武紀漲超7%】半導體板塊持續走高，寒武紀漲超7%，炬光科技觸及漲停，士蘭微此前漲停，星宸科技、必易微、東微半導、華宏宏力、華潤微跟漲。"
+    },
+    {
+      "id": "mkt:019ec910-122f-7dd8-affc-4e8be78e2a28",
+      "time": "2026-06-15 10:15:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine benchmark stock index rose 5.7% to 6,253.19 points, its highest level since March 6."
+    },
+    {
+      "id": "4935296",
+      "time": "2026-06-15 10:15:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓基準股指上漲5.7％，報6253.19點，創3月6日以來新高。"
+    },
+    {
+      "id": "te:markets:558865",
+      "time": "2026-06-15 10:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indian Rupee Rises by 0.56% — Top currency gainers are Indian Rupee (0.56%), South Korean Won (0.39%), Australian Dollar (0.35%) and Chinese Yuan (0.08%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "mkt:019ec90f-95a6-7dd8-affc-442471f3b1b3",
+      "time": "2026-06-15 10:15:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "02259.HK",
+        "Impact bullish",
+        "01258.HK",
+        "00358.HK"
+      ],
+      "text": "Hong Kong non-ferrous metals stocks rallied intraday: Zijin Gold International (02259.HK) up over 14%, China Nonferrous Mining (01258.HK) up over 9%, Minmetals Resources (01208.HK), Zhaojin Mining (01818.HK) and Jiangxi Copper (00358.HK) each up over 7%, while China Molybdenum (03993.HK), Chifeng Gold (06693.HK) and Lingbao Gold (03330.HK) rose more than 6%."
+    },
+    {
+      "id": "4935295",
+      "time": "2026-06-15 10:14:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美芯晟推出雙通道高靈敏度通用齒輪感測器GH1836】美芯晟正式推出新一代雙通道、高靈敏度、高價效比通用齒輪感測器GH1836，為工業電機編碼器、鏈輪測速、鏈條輸送機等應用提供可靠的國產化解決方案。GH1836是一款高靈敏度、雙路正交輸出的霍爾感測晶片，具備佔空比穩定、抗抖動抗電磁干擾能力強、有效檢測距離寬等優點。晶片具備-40°C~150°C車規級工作溫度範圍，可廣泛應用於智慧工控、工程車輛（叉車、場景車等）、醫療裝置等領域的交流非同步電機中齒輪或磁環的轉速和方向檢測。"
+    },
+    {
+      "id": "4935294",
+      "time": "2026-06-15 10:13:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：對市場走勢不予置評。"
+    },
     {
       "id": "4935293",
       "time": "2026-06-15 10:13:37",
@@ -168299,136 +168484,6 @@
         "公司"
       ],
       "text": "【方大集團與中國醫科大學簽署戰略合作協議】2026年6月5日，遼寧方大集團實業有限公司（簡稱“方大集團”）與中國醫科大學簽約戰略合作。雙方將依託高校科研實力和人才沃土，結合企業的產業實力和靈活機制優勢，尤其是醫藥板塊優勢，在科技創新與成果轉化、醫療健康服務、人才培養、師資學習交流與培訓、文化建設與交流等領域開展合作，推動更多優質科研成果走出實驗室、走向臨床一線，賦能區域醫藥健康產業及地方經濟社會高質量發展。"
-    },
-    {
-      "id": "4922752",
-      "time": "2026-06-08 10:18:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【元件板塊跌幅收窄，華正新材觸及漲停】元件板塊跌幅收窄，華正新材觸及漲停，金安國紀此前漲停，麥捷科技、格利爾、寶鼎科技、鵬鼎控股、順絡電子跟漲。"
-    },
-    {
-      "id": "4922751",
-      "time": "2026-06-08 10:18:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長：正與LG就電機、人形機器人、資料中心業務展開合作。"
-    },
-    {
-      "id": "4922750",
-      "time": "2026-06-08 10:17:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "道達爾能源與日本能源（ENEOS）延續和塞雷斯（CERES）的太陽能合作關係。"
-    },
-    {
-      "id": "4922749",
-      "time": "2026-06-08 10:17:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股票指數收回早盤跌幅，最新持平，報5941.21點。"
-    },
-    {
-      "id": "mkt:019ea504-2daf-7ee0-94c8-571b10144a05",
-      "time": "2026-06-08 10:16:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA (Islamic Republic News Agency) reports that, so far, Israeli strikes have not targeted Tehran's urban area."
-    },
-    {
-      "id": "mkt:019ea504-1b35-7ee0-94c8-496614b7c030",
-      "time": "2026-06-08 10:16:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share PCB sector rebounds: Beisite up >12%, Jin'an Guoji hits limit-up, Huazheng New Materials up >9%; Baoding Technology, Lifang Holdings, Zecheng Electronics and Pengding Holdings also gained."
-    },
-    {
-      "id": "4922748",
-      "time": "2026-06-08 10:15:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數開盤微幅波動，報 1838.90 點。"
-    },
-    {
-      "id": "4922747",
-      "time": "2026-06-08 10:15:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Seesaw咖啡被申請破產】近日，記者查詢發現，精品咖啡品牌Seesaw的運營主體上海西舍咖啡有限公司新增多例破產審查案件，申請人分別是上海琉璃工房玻璃藝術品有限公司與上海瑪露實業有限公司。申請人均以上海西舍咖啡有限公司不能清償到期債務且明顯缺乏清償能力為由，向法院申請對上海西舍咖啡有限公司進行破產清算。"
-    },
-    {
-      "id": "te:markets:557088",
-      "time": "2026-06-08 10:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Rises by 0.59% — Top currency gainer is South Korean Won (0.59%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
-    },
-    {
-      "id": "te:markets:557086",
-      "time": "2026-06-08 10:14:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Stocks Fall as Global Tech Rout Deepens — Asian equity markets moved sharply lower on Monday, led by South Korea’s benchmark KOSPI Index, which plunged as much as 8.8%, as investors reacted to a tech-driven selloff on Wall Street that heavily impacted semiconductor and artificial intelligence-related stocks. Stronger-than-expected US jobs data further weighed on sentiment by reinforcing expectations that the Federal Reserve will raise interest rates later this year, pushing Treasury yields higher and reducing the appeal of equities. Meanwhile, geopolitical tensions intensified after Iran launched several rounds of missiles toward Israel as a warning against further military actions in Lebanon, raising concerns over the stability of a fragile ceasefire as peace talks remain stalled. Other major regional markets also came under pressure, with shares in Australia, Japan, China, and Hong Kong posting significant declines."
-    },
-    {
-      "id": "4922746",
-      "time": "2026-06-08 10:14:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼3處監測點記錄到海嘯波】今天（6月8日），印尼氣象、氣候和地球物理局舉行影片釋出會表示，菲律賓發生強烈地震後，印尼已對北部17個地區釋出海嘯預警。截至目前，相關地區未報告人員傷亡和財產損失。監測資料顯示，印尼境內3處監測點記錄到9釐米至18釐米高的海嘯波。該機構呼籲沿海地區居民遠離海岸，並關注最新預警資訊。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ea502-b468-7ee0-94c8-47d54353905f",
-      "time": "2026-06-08 10:14:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Greater Bay Area auto show books nearly 40,000 cars】June 7 — The 2026 (30th) Guangdong‑Hong Kong‑Macao Greater Bay Area Auto Show ended at the Shenzhen International Convention and Exhibition Center, recording attendance of 810,000 and 39,253 vehicle bookings totaling about 8.25 bln yuan."
-    },
-    {
-      "id": "mkt:019ea502-a303-7ee0-94c8-38d44e968a57",
-      "time": "2026-06-08 10:14:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Aramco set the July official selling price for Arab Light crude to Asia at a $9.50/barrel premium to the Oman/Dubai average."
-    },
-    {
-      "id": "4922745",
-      "time": "2026-06-08 10:14:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里巴巴、中微公司等成立私募投資基金，出資額39.1億元】企查查APP顯示，近日，長智瀚海（上海）私募投資基金合夥企業（有限合夥）成立，出資額39.1億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由長鑫芯聚股權投資（安徽）有限公司、阿里巴巴關聯公司杭州灝月企業管理有限公司、中微半導體（上海）有限公司等共同持股。"
-    },
-    {
-      "id": "4922744",
-      "time": "2026-06-08 10:14:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社：截至目前，以色列襲擊未針對德黑蘭城區。"
     }
   ]
 }
