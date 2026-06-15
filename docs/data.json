@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-15 10:39:06",
-  "count": 18314,
+  "updated": "2026-06-15 10:43:16",
+  "count": 18311,
   "items": [
+    {
+      "id": "4935352",
+      "time": "2026-06-15 10:42:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華是科技等成立互娛國際科技公司】企查查APP顯示，近日，杭州華是互娛國際科技有限公司成立，註冊資本1000萬元，經營範圍包含：廣播電視節目製作經營；第二類增值電信業務；網際網路資訊服務；廣播電視影片點播業務；網路文化經營等。企查查股權穿透顯示，該公司由華是科技等共同持股。"
+    },
+    {
+      "id": "4935351",
+      "time": "2026-06-15 10:41:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美防長：伊朗履行承諾後才會解凍資金】美國國防部長赫格塞思14日稱，只有在核實伊朗履行承諾後，伊朗被凍結的資金才會解凍。赫格塞思當天在接受哥倫比亞廣播公司採訪時說：“在伊朗沒有履行承諾之前，一分錢也別想得到……（我們之間）沒有信任，美方會核實一切。”他說，伊朗的核材料將被銷燬並運走，核專案將被拆除；霍爾木茲海峽將保持開放且不收取通行費。（新華社）"
+    },
+    {
+      "id": "4935350",
+      "time": "2026-06-15 10:40:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本富士新聞網：日本高市內閣支援率下降2.7個百分點至65.3%。"
+    },
+    {
+      "id": "4935349",
+      "time": "2026-06-15 10:39:52",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【前央行經濟學家：伊美和平協議不會改變日本央行加息計劃】日本央行前首席經濟學家龜田清作週一表示，美伊達成和平協議，大機率不會動搖日本央行年內兩次加息的既定安排。龜田清作稱，當前物價上漲壓力加劇，日本央行定於週二將短期政策利率從0.75%上調至1%。若不是中東戰事影響，此次加息原本計劃在4月落地。美伊雙方表示已達成停火框架協議，約定解除美國對伊朗的封鎖、重新開放霍爾木茲海峽。這份初步協議推動國際油價走低。他認為，若和平協議能讓霍爾木茲海峽順利恢復通航，或會緩解日本央行的壓力，使其不必被迫以超預期的激進加息節奏來抑制通脹。"
+    },
+    {
+      "id": "te:markets:558872",
+      "time": "2026-06-15 10:39:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Rally on Iran Peace Deal — Asian equity markets rallied on Monday after reports that the US and Iran reached an agreement to end the conflict and reopen the Strait of Hormuz. Oil prices fell to a two-month low following the announcement, easing inflation concerns and reducing cost pressures for oil-importing economies across the region. Investors are also positioning ahead of key central bank decisions this week, with the Reserve Bank of Australia expected to keep policy unchanged, while the Bank of Japan is widely seen raising interest rates to curb inflation and support the yen. Japan’s Nikkei and South Korea’s Kospi both jumped more than 5%, leading gains across regional markets. Shares in Australia, China, and Hong Kong also moved higher in tandem."
+    },
     {
       "id": "4935348",
       "time": "2026-06-15 10:38:31",
@@ -168377,88 +168424,6 @@
         "國際"
       ],
       "text": "印尼央行副行長：央行將引導外匯市場，確保匯率不會出現過度波動。"
-    },
-    {
-      "id": "mkt:019ea51c-2387-7ee0-94c8-e836564f1368",
-      "time": "2026-06-08 10:42:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China State Planner to deploy ultra‑long special treasury bond funds for urban underground pipeline upgrades】Guan Peng, director of the Fixed‑Asset Investment Department at the China State Planner, said at a State Council briefing on June 8 that the agency, together with the Ministry of Housing and Urban‑Rural Development, has been using ultra‑long special treasury bond funds to support renovation of aging urban gas, water supply, drainage, sewage and district heating networks. He said the China State Planner will continue to allocate ultra‑long special treasury bond funds to step up support for urban underground pipeline construction and upgrade projects."
-    },
-    {
-      "id": "mkt:019ea51c-060d-7ee0-94c8-e4d07d2e2b09",
-      "time": "2026-06-08 10:42:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact mixed",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "Pricing document shows Saudi OSP for July sales of Arab Light to northwest Europe set at $15.85/bbl above ICE Brent settlement; July OSP for U.S. sales set at $12.60/bbl above the Argus Sour crude benchmark."
-    },
-    {
-      "id": "4922802",
-      "time": "2026-06-08 10:41:29",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【國家發改委：將安排超長期特別國債資金對城市地下管網建設改造專案予以加力支援】6月8日，國家發展改革委固定資產投資司負責人關鵬在國務院政策例行吹風會上表示，近年來，國家發改委大力支援城市地下管網建設改造，按照“兩重”建設工作部署，國家發改委聯合住建部透過超長期特別國債，支援城市氣、供水、排水、汙水、熱力等老舊管網建設改造。後續在“兩重”建設中，繼續安排超長期特別國債資金，對城市地下管網建設改造專案予以加力支援。"
-    },
-    {
-      "id": "te:economy:557103",
-      "time": "2026-06-08 10:41:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Yield Tracks US Treasury Yields Higher — Japan’s 10-year government bond yield climbed to around 2.7% on Monday, hitting over one-week highs and tracking US Treasury yields higher as robust US jobs data reinforced expectations for a Federal Reserve interest rate hike this year. Rising geopolitical tensions in the Middle East also added to the move, after Iran launched several rounds of missiles toward Israel as a warning against further military actions in Lebanon, lifting oil prices and stoking inflation concerns. Domestically, the Bank of Japan is widely expected to raise interest rates later this month as policymakers respond to persistent inflation pressures driven by elevated energy costs. Meanwhile, final data showed Japan’s economy expanded 0.5% quarter-on-quarter in Q1 2026, up from 0.2% in the previous quarter. The country also posted a stronger-than-expected current account surplus in April, supported by faster export growth relative to imports."
-    },
-    {
-      "id": "4922801",
-      "time": "2026-06-08 10:41:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴勒斯坦各派別同埃及等停火斡旋方討論落實加沙停火】巴勒斯坦各派別代表7日在埃及首都開羅同埃及、卡達和土耳其等停火斡旋方舉行會議，商議推動加沙停火第一階段協議落實和轉入第二階段談判事宜。埃及開羅新聞電視臺7日報道，埃及情報總局局長哈桑·拉沙德、卡達首相兼外交大臣穆罕默德、土耳其國家情報局局長卡林以及巴勒斯坦各派別領導人和代表出席會議。各方在會上達成共識，應全面落實加沙停火第一階段協議，並一致同意為加沙地帶重建、實現持久和平和結束巴勒斯坦人民苦難承擔應盡責任。（新華社）"
-    },
-    {
-      "id": "4922800",
-      "time": "2026-06-08 10:40:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西平容高速今日建成通車】今天，廣西全州至容縣高速公路（平南至容縣段）專案（簡稱“平容高速”）全線建成通車。平容高速是廣西高速公路網規劃“縱2線”的核心組成部分，全長87公里，採用雙向四車道標準建設，設計時速120公里。專案全線橋隧比22.72%，含特大橋1座、大橋42座、隧道3座，設樞紐互通3處、落地互通6處、服務區2處。（央視新聞）"
-    },
-    {
-      "id": "4922799",
-      "time": "2026-06-08 10:40:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "以色列媒體稱，此次襲擊命中德黑蘭邁赫拉巴德機場以及一處攻擊型無人機倉庫。報道指出，戰機在伊拉克領空上空發射導彈，另有訊息稱部分打擊行動來自地中海海域的軍艦。"
-    },
-    {
-      "id": "4922798",
-      "time": "2026-06-08 10:40:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列海軍也參與了週一對伊朗的襲擊。"
     }
   ]
 }
