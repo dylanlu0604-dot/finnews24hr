@@ -1,7 +1,518 @@
 {
-  "updated": "2026-06-16 04:31:36",
-  "count": 18219,
+  "updated": "2026-06-16 05:37:22",
+  "count": 18214,
   "items": [
+    {
+      "id": "mkt:019ecd35-ce9a-7dd8-b017-3b814661fa92",
+      "time": "2026-06-16 05:35:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Three explosions heard south of Iran's Qeshm Island】An agency reported in the early hours of the 16th that three explosions were heard south of Iran's Qeshm Island and nearby areas. Initial reports indicate the blasts may have been intended to divert shipping traffic in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019ecd35-c405-7dd8-b017-3766ef6b6286",
+      "time": "2026-06-16 05:35:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela signed a cooperation agreement with General Electric's Venezuelan unit, state TV reported."
+    },
+    {
+      "id": "4937176",
+      "time": "2026-06-16 05:35:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒：伊朗格什姆島以南等地傳出爆炸聲】伊朗邁赫爾通訊社16日凌晨報道，伊朗格什姆島以南等地傳出三聲爆炸聲。初步報告顯示，爆炸可能是為了疏導霍爾木茲海峽的交通。（新華社）"
+    },
+    {
+      "id": "4937175",
+      "time": "2026-06-16 05:34:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯會見通用電氣韋諾瓦公司高管。"
+    },
+    {
+      "id": "4937174",
+      "time": "2026-06-16 05:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉國家電力公司與通用電氣韋諾瓦簽署合作協議。"
+    },
+    {
+      "id": "4937173",
+      "time": "2026-06-16 05:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員蒂利斯表示，將於下週與代理司法部長布蘭奇會面。"
+    },
+    {
+      "id": "mkt:019ecd31-dfae-7dd8-b017-2c3350145848",
+      "time": "2026-06-16 05:30:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "SEC filing shows NVIDIA (NVDA.O) has applied to issue up to $25 billion of notes across seven tranches."
+    },
+    {
+      "id": "mkt:019ecd31-9634-7dd8-b017-23bbee27ae95",
+      "time": "2026-06-16 05:30:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US spot petrochemical prices retreat as Iran risk premium fades】US spot petrochemical prices softened last week as the Iran risk premium unwound, reducing export demand; Gulf Coast operational issues limited further downside. Ethylene fell 4.1% and polymer‑grade propylene dropped 9.8%; both remain above pre‑war levels after Middle East shipment disruptions via the Strait of Hormuz tightened global supply and supported earlier US export flows. The price of para‑phenylene di‑n‑butyl ether, more than 70% used in synthetic rubber tires, held at 63.5 cents/lb, making it one of the most price‑resilient petrochemical products this year."
+    },
+    {
+      "id": "4937172",
+      "time": "2026-06-16 05:29:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：擬發行最高250億美元的七分制票據。"
+    },
+    {
+      "id": "te:markets:559118",
+      "time": "2026-06-16 05:25:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Rising Inflation Expectations — The Ibovespa fell 0.4% to close at 170,415 on Monday after the latest Focus survey showed inflation expectations continuing to rise. The median forecast for annual inflation in 2026 increased for the 14th consecutive week, from 5.11% to 5.30%, moving further above the BCB's upper target limit of 4.5%. Meanwhile, the median forecast for the Selic rate at the end of 2026 rose from 13.5% to 13.75%. Concerns over a more hawkish BCB weighed on banks, with Bradesco falling 0.8% and Itaú losing 0.5%. Petrobras also dragged on the index, dropping 5.1% as oil prices fell after the US and Iran announced a preliminary peace agreement that would reopen the Strait of Hormuz. In contrast, Vale climbed 2.5% as iron ore prices rose on supply concerns linked to a potential strike by BHP workers in Australia. Embraer jumped 7.1% after Azorra finalized a deal to acquire 15 aircraft."
+    },
+    {
+      "id": "4937171",
+      "time": "2026-06-16 05:25:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：與伊朗達成的諒解備忘錄篇幅大約一頁半，是一份非常寬泛的檔案。"
+    },
+    {
+      "id": "mkt:019ecd29-1dcd-7dd8-b017-181fc5ef0d2b",
+      "time": "2026-06-16 05:21:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vance: U.S.-Iran memorandum roughly one-and-a-half pages】CNN reported U.S. Vice President Vance said the U.S.-Iran memorandum is roughly one-and-a-half pages and is therefore very vague."
+    },
+    {
+      "id": "mkt:019ecd26-e73a-7dd8-b017-1119e4346d5a",
+      "time": "2026-06-16 05:18:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Mehr news agency reported three explosions heard south of Qeshm Island in the Strait of Hormuz; explosions may be related to maritime traffic management."
+    },
+    {
+      "id": "4937170",
+      "time": "2026-06-16 05:18:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社表示，霍爾木茲海峽地區發生的爆炸事件可能與通航管控有關。"
+    },
+    {
+      "id": "4937169",
+      "time": "2026-06-16 05:18:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社表示，霍爾木茲海峽格什姆島南部傳出三聲爆炸聲響。"
+    },
+    {
+      "id": "4937168",
+      "time": "2026-06-16 05:17:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國得州瓦哈樞紐的現貨交割價格為每百萬英熱單位35美分，為自2月以來首次轉正，結束了此前連續131天價格低於零的紀錄。"
+    },
+    {
+      "id": "mkt:019ecd24-ba96-7dd8-b017-0834c40aaaa7",
+      "time": "2026-06-16 05:16:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DVN.O",
+        "Impact bullish",
+        "PR.O"
+      ],
+      "text": "【West Texas natural gas prices turn positive for first time in four months】Spot delivery at the Waha hub in West Texas was $0.35/MMBtu on Monday, the first positive print since February and ending a 131-day streak of subzero prices. Hot weather, capacity gains after pipeline maintenance and signs of pipeline expansions pushed the rally. The move relieves pressure on regional producers such as Permian Resources and Devon Energy, which had idled high gas-to-oil-ratio wells to avoid further cash burn."
+    },
+    {
+      "id": "4937167",
+      "time": "2026-06-16 05:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.08%，報15780點。"
+    },
+    {
+      "id": "4937166",
+      "time": "2026-06-16 05:14:55",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克如今的財富比全球第二富豪高出近一萬億美元。"
+    },
+    {
+      "id": "4937165",
+      "time": "2026-06-16 05:11:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：計劃向密蘇里州投資數十億美元。"
+    },
+    {
+      "id": "mkt:019ecd1f-f391-7dd8-b017-04c9f550c09a",
+      "time": "2026-06-16 05:11:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said the memorandum of understanding is a very general document."
+    },
+    {
+      "id": "4937164",
+      "time": "2026-06-16 05:11:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：美伊諒解備忘錄是一份框架性極強的檔案。"
+    },
+    {
+      "id": "4937163",
+      "time": "2026-06-16 05:10:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局最新公佈的資料顯示，特斯拉自動駕駛計程車自今年2月以來未發生任何一起己方全責事故。"
+    },
+    {
+      "id": "mkt:019ecd1f-8b0d-7dd8-b016-fee7d00001fe",
+      "time": "2026-06-16 05:10:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【PGIM expects three Fed hikes this year, then policy reversal in 2027】PGIM, in a dissenting view, expects the Fed to raise rates three times this year to curb an overheating US economy, then reverse course with three cuts in 2027 and a further cut in 2028, bringing the policy rate to 3.375% — below current levels and near neutral. The firm, which in April had forecast cuts this year, cites an \"unusually strong\" US economy, persistently high inflation and five years of missing the Fed's 2% target as the rationale for pre-emptive hikes to shore up credibility and anchor inflation expectations. PGIM adds that framing hikes as preventive against supply-side inflation and recent long-term Treasury volatility would help secure political support."
+    },
+    {
+      "id": "te:markets:559117",
+      "time": "2026-06-16 05:10:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Rise as Oil Prices Retreat — The S&P/TSX Composite Index rose 1% to close at a record 35,276 on Monday after the US and Iran announced a preliminary peace agreement aimed at ending the conflict. US President Donald Trump said the deal would halt hostilities and reopen the Strait of Hormuz. Oil prices fell, easing concerns that an energy-driven inflation spike could trigger a hawkish shift by global central banks. Bond yields also declined, reducing worries over higher borrowing costs. Financial stocks traded higher, with Brookfield gaining 1.2%. Meanwhile, higher gold prices fueled a rally in mining shares, with Agnico Eagle rising 5.6%, WPM advancing 6.8%, and Barrick adding 4.2%. In contrast, energy stocks tumbled on lower oil prices, with Canadian Natural down 2.7% and Suncor losing 3%. Investors are now focused on the Federal Reserve's policy meeting, which concludes on Wednesday, with markets widely expecting interest rates to remain unchanged."
+    },
+    {
+      "id": "4937162",
+      "time": "2026-06-16 05:09:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "真主黨：用火箭彈和炮彈襲擊了黎巴嫩南部的以色列軍隊，衝突仍在繼續。"
+    },
+    {
+      "id": "4937161",
+      "time": "2026-06-16 05:09:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：不打算透過財經通訊社釋出季度、年度財務業績及其他重大事項公告，將主要透過公司官網投資者關係板塊以及旗下X平臺賬號向公眾釋出重大資訊。"
+    },
+    {
+      "id": "mkt:019ecd1c-41e3-7dd8-b016-f346eca25109",
+      "time": "2026-06-16 05:07:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) said it will not distribute quarterly or annual earnings or other material announcements via Telegram; it will publish material information primarily on its investor-relations webpage and its X account."
+    },
+    {
+      "id": "4937160",
+      "time": "2026-06-16 05:06:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "英國金融時報：若伊核協議得到維持，特朗普政府正考慮設立規模3000億美元的基金供伊朗使用。"
+    },
+    {
+      "id": "4937159",
+      "time": "2026-06-16 05:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍最新一艘阿利·伯克級導彈驅逐艦即將命名為“泰德·史蒂文斯”號（DDG-128），已駛離弗吉尼亞州諾福克海軍基地，前往佛羅里達州梅波特海軍基地，開展包含衝擊試驗在內的驗收流程。"
+    },
+    {
+      "id": "mkt:019ecd17-b5ec-7dd8-b016-ead4e3476761",
+      "time": "2026-06-16 05:02:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Multiple Iranian vessels pass US maritime blockade】Iranian sources said on the 16th (local time) that three oil tankers and two ships carrying essential supplies have breached a US maritime blockade. Ship-tracking data show an ultra-large crude carrier is sailing from international waters to an Iranian port after clearing the blockade. A vessel carrying livestock feed has also transited and is en route to Iran. Separately, a fully laden Iranian crude tanker has passed the Gulf of Oman and the blockade line and is heading to its export destination."
+    },
+    {
+      "id": "mkt:019ecd17-b3da-7dd8-b016-e04f2b1f03a3",
+      "time": "2026-06-16 05:02:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea May export price index YoY posted its largest increase since March 1998; import price index YoY logged its biggest rise since July 2022."
+    },
+    {
+      "id": "4937158",
+      "time": "2026-06-16 05:01:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "歐萊雅加拿大公司：旗下SalonCentric Canada收購Cantin Beauté全部資產。"
+    },
+    {
+      "id": "4937157",
+      "time": "2026-06-16 05:01:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【比利時1-1戰平埃及】美加墨世界盃小組賽G組首輪，比利時1比1戰平埃及，兩隊各收穫一分。"
+    },
+    {
+      "id": "mkt:019ecd15-a7cb-7dd8-b016-d9c3b15a3b40",
+      "time": "2026-06-16 05:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea May export price index YoY 46.9%; prior reading revised to 41.3% from 40.8%."
+    },
+    {
+      "id": "mkt:019ecd15-a39b-7dd8-b016-d10b0f56a132",
+      "time": "2026-06-16 05:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea May import price index YoY 24.8%; prior value revised from 20.20% to 20.5%."
+    },
+    {
+      "id": "mkt:019ecd15-8607-7dd8-b016-c378d8372a10",
+      "time": "2026-06-16 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Export Price Index (YoY) (May) | actual 46.9% | previous 40.80%"
+    },
+    {
+      "id": "mkt:019ecd15-8636-7dd8-b016-cb89f985fafd",
+      "time": "2026-06-16 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Import Price Index (YoY) (May) | actual 24.8% | previous 20.20%"
+    },
+    {
+      "id": "4937156",
+      "time": "2026-06-16 04:59:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【多艘伊朗船隻順利透過美方海上封鎖區】據伊朗方面當地時間16日訊息，3艘油輪和2艘載有伊朗基本物資的船隻已突破美國方面實施的海上封鎖。另有訊息稱，多艘伊朗船隻順利穿過封鎖區。根據船舶航行資料，一艘伊朗超大型原油運輸船正從國際水域駛向伊朗港口，並已透過封鎖區域。一艘運載牲畜飼料的船隻也已穿過封鎖區域，正在駛往伊朗。此外，另一艘滿載原油的伊朗油輪已透過阿曼灣及封鎖線，正駛向其出口目的地。"
+    },
+    {
+      "id": "mkt:019ecd10-d884-7dd8-b016-bbc52e81ae5a",
+      "time": "2026-06-16 04:54:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US B-52 strategic bomber crashes in California】The U.S. military confirmed on the 15th that a B-52 strategic bomber crashed in the southern Mojave Desert in California. The aircraft departed Edwards Air Force Base at about 11:20 a.m. local time and crashed shortly thereafter; rescue teams are en route. Local media place the crash site roughly 160 km north of Los Angeles. Casualties are unknown. The B-52, nicknamed the Stratofortress, typically has a five-person crew and can carry nuclear weapons and various precision-guided munitions; it has been in service since 1955."
+    },
+    {
+      "id": "mkt:019ecd0e-dadd-7dd8-b016-b2c55a8530c1",
+      "time": "2026-06-16 04:52:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Zimbabwe cuts policy rate 500bps to 30%; first central bank to ease after U.S.-Iran peace agreement】Zimbabwe central bank cut its policy rate on Monday from 35% to 30% (500bps), the first rate cut since April 2024 when the bank reset rates after introducing the new ZiG currency. Headline inflation slowed to 4.4% YoY in May from 4.8% the prior month. The central bank noted that if the U.S.-Iran peace agreement restores oil and fertilizer supplies fully, price pressures could ease further, helping lower energy and food costs."
+    },
+    {
+      "id": "4937144",
+      "time": "2026-06-16 04:47:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本泰拉無人機公司收購兩家烏克蘭無人機製造商，推進全球業務佈局。"
+    },
+    {
+      "id": "4937141",
+      "time": "2026-06-16 04:45:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "億滋國際：盧卡·扎拉梅拉將繼續擔任執行副總裁兼營運長。"
+    },
+    {
+      "id": "4937140",
+      "time": "2026-06-16 04:45:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "億滋國際任命阿米特·巴納蒂為執行副總裁兼首席財務官，自2026年7月1日起生效。"
+    },
+    {
+      "id": "4937139",
+      "time": "2026-06-16 04:45:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "億滋國際任命阿米特·巴納蒂為執行副總裁兼首席財務官。"
+    },
+    {
+      "id": "4937137",
+      "time": "2026-06-16 04:44:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國泰晤士水務距離國有化又近了一步，英國大臣已正式否決一項100億英鎊的紓困方案。"
+    },
+    {
+      "id": "4937136",
+      "time": "2026-06-16 04:42:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高通洽談收購Tenstorrent，補強人工智慧晶片研發實力】高通正洽談收購人工智慧晶片設計初創企業Tenstorrent。雙方商討的收購對價區間至少在80億至100億美元，相較於Tenstorrent上一輪估值存在大幅溢價。目前尚不清楚這筆交易價款是否會包含與業績目標掛鉤的浮動支付款項，以往半導體初創企業收購案通常會設定此類條款。雙方談判仍在進行中，交易金額存在變動可能，洽談也有破裂風險。若完成收購，高通將大幅擴充自身人工智慧與資料中心晶片產品線實力。"
+    },
+    {
+      "id": "4937133",
+      "time": "2026-06-16 04:40:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通與Tenstorrent已就80億至100億美元的潛在交易價格展開討論。"
+    },
+    {
+      "id": "4937132",
+      "time": "2026-06-16 04:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體稱，三艘油輪及兩艘裝載伊朗必需物資的船舶“突破”了美國海上封鎖。"
+    },
+    {
+      "id": "4937128",
+      "time": "2026-06-16 04:37:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟與摩爾多瓦正式啟動首個入盟談判議題】歐盟理事會15日釋出公告稱，歐盟與摩爾多瓦當天就摩爾多瓦加入歐盟談判程序中的“基本原則”議題正式啟動談判。公告表示，“基本原則”議題涵蓋歐盟法律體系中與法治和基本權利、民主制度運作、公共行政改革以及經濟標準相關的關鍵要素。公告指出，在入盟談判程序中，“基本原則”議題是最先啟動、最後結束的核心議題，其進展將決定整個入盟談判的節奏。談判期間，歐盟將持續評估摩爾多瓦在對接歐盟法律體系以及落實相關標準方面的進展情況。"
+    },
+    {
+      "id": "mkt:019eccff-1b10-7dd8-b016-aeb88d1f24b6",
+      "time": "2026-06-16 04:35:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "HEZBOLLAH fired rockets and artillery at Israeli forces in southern Lebanon; clashes are ongoing."
+    },
+    {
+      "id": "te:markets:559116",
+      "time": "2026-06-16 04:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.92% Higher — The Dow Jones Index went up by 469 points or 0.92 percent on Monday to close at 51671 points. The rise was led by Boeing (4.66%), Nvidia (3.40%) and Amazon (3.12%). On the downside, the weakerst performers were Chevron (-3.60%), Merck (-3.37%) and Verizon (-2.06%)."
+    },
+    {
+      "id": "4937126",
+      "time": "2026-06-16 04:34:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨表示，其在黎巴嫩南部地區以多輪火箭彈和炮彈打擊了以色列軍隊，目前衝突仍在持續。"
+    },
+    {
+      "id": "mkt:019eccfc-b654-7dd8-b016-a5f066588480",
+      "time": "2026-06-16 04:32:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian state television reported three oil tankers and two vessels carrying essential goods have broken through a US maritime blockade."
+    },
+    {
+      "id": "mkt:019eccfb-8ccc-7dd8-b016-9fc8b6a74dc3",
+      "time": "2026-06-16 04:31:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian state television reported the US has begun lifting its maritime blockade of Iran."
+    },
     {
       "id": "mkt:019eccfa-a74f-7dd8-b016-918c2610a2d0",
       "time": "2026-06-16 04:30:39",
@@ -166918,568 +167429,6 @@
         "公司"
       ],
       "text": "市場訊息：OpenAI計劃在首次公開募股（IPO）之前啟動員工/股東股票要約收購案（Tender Sale）。據知情人士透露，該公司將在未來幾周內正式舉行該股票要約收購（Tender）。"
-    },
-    {
-      "id": "4924713",
-      "time": "2026-06-09 05:37:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：OpenAI 將於未來數週開展股份要約收購。"
-    },
-    {
-      "id": "4924712",
-      "time": "2026-06-09 05:35:29",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美法官裁定特朗普政府抬高H-1B簽證費違法】美國一名聯邦法官8日裁定，特朗普政府將H-1B簽證申請費用提高至10萬美元的政策違法，認定此款項屬於未經國會授權的稅收。美國馬薩諸塞州聯邦地區法院法官利奧·索羅金裁定，H-1B簽證申請費具有稅收性質，特朗普政府的“漲價”政策未經國會授權，美國務院和美國公民及移民服務局不得執行這一政策。裁決說，“從這筆10萬美元款項的實質和用途來看，無論它叫什麼名字，都是稅款的一種”。裁決還說，聯邦移民法賦予總統限制部分外國人入境的權力，但並未授權總統以此徵稅。（新華社）"
-    },
-    {
-      "id": "4924711",
-      "time": "2026-06-09 05:33:14",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通、美國銀行因為網路安全威脅問題而被美國國會山成員質詢。"
-    },
-    {
-      "id": "mkt:019ea927-0927-733a-9236-5f13354b2fa8",
-      "time": "2026-06-09 05:32:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli military said it intercepted a \"suspicious aerial target\" from Yemen after an alert for hostile aircraft sounded in the Eilat area."
-    },
-    {
-      "id": "mkt:019ea926-a844-733a-9236-53c2550329c5",
-      "time": "2026-06-09 05:32:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA, citing Iran's UN representative, said Iran is exchanging views with the US via Pakistan to reach a final text."
-    },
-    {
-      "id": "4924710",
-      "time": "2026-06-09 05:31:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，埃拉特地區響起防空警報後，己方攔截了一架來自葉門的可疑空中目標。"
-    },
-    {
-      "id": "4924709",
-      "time": "2026-06-09 05:31:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜：向美國證交會提交申請，擬分五檔發行加元債券，總規模最高 140 億加元。"
-    },
-    {
-      "id": "4924708",
-      "time": "2026-06-09 05:30:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：提交檔案擬分五檔發行加元計價債券，總額最高 140 億加元。"
-    },
-    {
-      "id": "mkt:019ea924-f67b-733a-9236-4a551aeadf55",
-      "time": "2026-06-09 05:30:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Amazon (AMZN.O) filed with the U.S. Securities and Exchange Commission to issue five tranches of Canadian dollar‑denominated bonds, for a total of up to C$14 billion."
-    },
-    {
-      "id": "4924707",
-      "time": "2026-06-09 05:25:31",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【對沖基金對賭日本央行6月加息孤掌難鳴，難阻日元繼續沉淪】在6月份日本央行政策會議召開前夕，對沖基金正嚴陣以待日元的進一步走軟。他們認為，即便再次加息，也幾乎無法扭轉日元所面臨的結構性貶值壓力。鑑於市場目前已幾乎完全消化了本月加息 25 個基點的預期，這些追求快進快出的“敏捷資金”正愈發將核心焦點轉向：日本央行究竟是否有能力開啟一輪具備持續性的緊縮週期。五星資產管理公司（Fivestar Asset Management Co.）和Palinuro Capital目前均持有日元空頭頭寸；而Simplex資產管理公司則計劃在日元反彈突破1美元兌159日元后，階段性地反向建立做空日元的戰術期權。"
-    },
-    {
-      "id": "4924706",
-      "time": "2026-06-09 05:25:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：預計捷藍航空至少未來 12 個月的經營業績將承受巨大壓力。"
-    },
-    {
-      "id": "4924705",
-      "time": "2026-06-09 05:25:08",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美銀警告美股危險訊號增多 是時候“獲利了結”】美銀證券（Bank of America Securities）表示，隨著越來越多熊市訊號指向市場頂部將近，投資者應謹慎對待美國股市。Savita Subramanian為首的策略師在6月5日的報告中寫道，“危險訊號太多”。他們建議“獲利了結”。策略師表示，這些熊市訊號中約70%近期已被觸發，與以往市場見頂時觀察到的平均水平一致。Subramanian表示，基準標普500指數“從20項指標中的17項來看，在統計上處於高估值水平，且8項指標顯示其估值高於科技股泡沫時期”。相關指標包括消費者信心資料、增長預期、併購評分和信貸壓力，以及收緊狀況指標，例如美聯儲高階信貸員意見調查(SLOOS)。5月釋出的SLOOS顯示，消費者需求繼續走軟。此外，策略師表示，高市盈率股票大幅跑贏低市盈率股票，這是“過度投機的跡象”。"
-    },
-    {
-      "id": "4924704",
-      "time": "2026-06-09 05:24:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：因燃油成本走高、槓桿率持續處於高位，捷藍航空評級從 B - 下調至 CCC+，評級展望穩定。"
-    },
-    {
-      "id": "mkt:019ea91e-5304-733a-9236-4781af64fc09",
-      "time": "2026-06-09 05:23:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI says it confidentially filed an S-1 and disclosed it after expecting a leak】OpenAI said it confidentially filed an S-1 registration and preemptively published the document after anticipating a leak. The company said IPO timing is uncertain; the filing preserves the option to accelerate a public listing when it judges the timing right. The statement indicates OpenAI is positioning to capture investor demand from the AI boom; competitor Anthropic is also advancing toward a public listing."
-    },
-    {
-      "id": "mkt:019ea91c-b16d-733a-9236-3f4e6fcebc06",
-      "time": "2026-06-09 05:21:30",
-      "tags": [
-        "MKT News",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) said its U.S. Workforce Academy is a no-cost program open to all participants and offers employment guarantees for all graduates."
-    },
-    {
-      "id": "4924703",
-      "time": "2026-06-09 05:20:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta ：美國勞動力學院（AWA）為免費專案，學員學習期間可獲得相關支援，所有結業學員均能獲得就業保障。"
-    },
-    {
-      "id": "mkt:019ea91b-9b8e-733a-9236-36f52b013495",
-      "time": "2026-06-09 05:20:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) launched a U.S. Workforce Academy with $115 million in first-year funding; pilots are scheduled for 2026 in Louisiana, Ohio, Indiana and Texas."
-    },
-    {
-      "id": "4924702",
-      "time": "2026-06-09 05:20:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "OpenAI：“預估相關資訊會外洩”，因此官宣已向美國證券交易委員會秘密提交 S-1 招股書草案。"
-    },
-    {
-      "id": "4924701",
-      "time": "2026-06-09 05:19:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果：將對用於私有云計算的谷歌硬體建立臺賬管理，本月晚些時候，蘋果將在一場峰會上公佈更多關於谷歌雲私有云計算的技術細節。"
-    },
-    {
-      "id": "4924700",
-      "time": "2026-06-09 05:18:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta 宣佈推出美國勞動力學院，首年投入 1.15 億美元啟動資金。"
-    },
-    {
-      "id": "mkt:019ea919-2572-733a-9236-29d2151c40e2",
-      "time": "2026-06-09 05:17:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said an IPO may take time, noting some initiatives are easier to pursue as a private company."
-    },
-    {
-      "id": "mkt:019ea919-1609-733a-9236-257c19b7015d",
-      "time": "2026-06-09 05:17:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish",
-        "GOOGL.O",
-        "Impact mixed"
-      ],
-      "text": "Apple (AAPL.O) said it will retain full control of its Private Cloud Compute software regardless of where infrastructure is hosted. Apple devices will only trust Private Cloud Compute software cryptographically signed by Apple. The Private Cloud Compute service running on Google Cloud will progressively deploy full protections during the summer preview."
-    },
-    {
-      "id": "4924699",
-      "time": "2026-06-09 05:17:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：上市程序或需時日，因為部分規劃事項在非上市階段推進更為順利。"
-    },
-    {
-      "id": "4924698",
-      "time": "2026-06-09 05:15:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果：部署在谷歌雲的私有云計算服務，將在整個夏季預覽階段逐步完善全套安全防護機制。"
-    },
-    {
-      "id": "4924697",
-      "time": "2026-06-09 05:15:42",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "OpenAI：尚未確定 IPO 時間表。"
-    },
-    {
-      "id": "4924696",
-      "time": "2026-06-09 05:15:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.10%，報15206點。"
-    },
-    {
-      "id": "4924695",
-      "time": "2026-06-09 05:15:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果：無論基礎設施部署於何處，蘋果始終全權掌控私有云計算軟體。蘋果裝置僅信任經本公司加密認證的私有云計算軟體。"
-    },
-    {
-      "id": "te:economy:557370",
-      "time": "2026-06-09 05:15:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "El Salvador",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "El Salvador Inflation Rises to 20-Month High — Consumer prices in El Salvador rose 2.5% year-over-year in May 2026, the highest reading since October 2023, up from 2.2% in April. Inflation picked up for transport (6.4% vs 3.3%), recreation and culture (1.8% vs 1.1%), healthcare (2.8% vs 2.7%), housing and utilities (1.1% vs 1.1%), restaurants and hotels (4.4% vs 4.2%), and miscellaneous goods and services (1.8% vs 1.6%). Meanwhile, food and non-alcoholic beverages inflation eased slightly (2.9% vs 3.0%), as did prices for alcoholic beverages and tobacco (2.4% vs 2.5%). Communication costs fell at a faster pace (-0.9% vs -0.7%), while education inflation was unchanged at 0.5%. Clothing and footwear prices rebounded by 0.03% after falling 0.05% in April, and furniture and household goods prices increased 0.4% following a 0.02% decline in the previous month."
-    },
-    {
-      "id": "mkt:019ea917-0d12-733a-9236-1a42c94f68a9",
-      "time": "2026-06-09 05:15:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said it has not yet decided on the timing of an IPO."
-    },
-    {
-      "id": "mkt:019ea916-bfe0-733a-9236-119fd4c9ee94",
-      "time": "2026-06-09 05:15:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "OpenAI confidentially filed a draft S-1 registration statement with the U.S. Securities and Exchange Commission."
-    },
-    {
-      "id": "4924694",
-      "time": "2026-06-09 05:14:32",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "OpenAI：向美國證券交易委員會秘密提交 S-1 招股說明書草案。"
-    },
-    {
-      "id": "mkt:019ea914-c8db-733a-9236-0c6822f5be46",
-      "time": "2026-06-09 05:12:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "i24 News reported Eilat in southern Israel issued a red alert for a suspected drone threat; the IDF intercepted the threat."
-    },
-    {
-      "id": "4924693",
-      "time": "2026-06-09 05:11:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI首席科學家：OpenAI致力追求的各項核心目標，均圍繞著這一使命：確保通用人工智慧造福全人類。人工智慧應當增強人類的主體性，而非削弱人類在塑造未來中的作用與意義。"
-    },
-    {
-      "id": "mkt:019ea913-94eb-733a-9236-01f5a36bac55",
-      "time": "2026-06-09 05:11:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI chief scientist says OpenAI’s core objectives center on ensuring AGI benefits all humanity; AI should enhance human agency, not diminish humans’ role in shaping the future."
-    },
-    {
-      "id": "4924692",
-      "time": "2026-06-09 05:10:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列i24新聞臺： 以色列南部埃拉特地區因無人機來襲拉響紅色警報，以色列國防軍已攔截該來襲目標。"
-    },
-    {
-      "id": "mkt:019ea910-c963-733a-9235-f9ce06116aec",
-      "time": "2026-06-09 05:08:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) rolled out new intelligent features and expanded productivity capabilities in Xcode."
-    },
-    {
-      "id": "4924691",
-      "time": "2026-06-09 05:07:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：為 Xcode 新增智慧功能，並升級多項高效辦公特性。"
-    },
-    {
-      "id": "4924690",
-      "time": "2026-06-09 05:06:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "週一（6月8日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7847元，較上週五紐約尾盤漲60點，日內整體交投於6.7924-6.7804元區間。"
-    },
-    {
-      "id": "mkt:019ea90d-ceff-733a-9235-f514c73bafdf",
-      "time": "2026-06-09 05:05:14",
-      "tags": [
-        "MKT News",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) U.S. shares rose nearly 8% in after-hours trading."
-    },
-    {
-      "id": "4924689",
-      "time": "2026-06-09 05:04:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "高通美股盤後上漲 7.7%。"
-    },
-    {
-      "id": "4924688",
-      "time": "2026-06-09 05:02:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部司令布拉德・庫珀海軍上將今日在華盛頓向眾議院撥款委員會國防小組委員會彙報了美軍在中東的作戰重點。他明日還將向參議院相關委員會進行彙報。此前，其已於上月向參眾兩院軍事委員會作公開簡報。"
-    },
-    {
-      "id": "mkt:019ea90a-b5dd-733a-9235-ea17f1e4d492",
-      "time": "2026-06-09 05:01:51",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces said it activated an air-defense alert after enemy aircraft entered the airspace over Even Menachem and Shomera; the situation is under investigation."
-    },
-    {
-      "id": "4924687",
-      "time": "2026-06-09 05:00:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：因敵方飛行器侵入埃文・梅納赫姆與肖梅拉空域，已拉響防空警報，目前相關情況正在調查中。"
-    },
-    {
-      "id": "4924686",
-      "time": "2026-06-09 04:59:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列i24新聞臺：以色列北部拉響紅色警報。"
-    },
-    {
-      "id": "mkt:019ea908-f458-733a-9235-e605fcc878dc",
-      "time": "2026-06-09 04:59:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israeli i24 news reports a red alert has been sounded in northern Israel."
-    },
-    {
-      "id": "mkt:019ea907-f285-733a-9235-dc2ab6489d1f",
-      "time": "2026-06-09 04:58:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera reported Hezbollah said it struck Israeli forces in southern Lebanon."
-    },
-    {
-      "id": "te:markets:557369",
-      "time": "2026-06-09 04:52:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Ibovespa Falls on Banking and Vale Losses — The Ibovespa fell 0.2% to close at 168,669 on Monday, pressured by losses in Vale and major banks in a session marked by low trading volumes. Investors remained cautious as they awaited fresh catalysts after the benchmark retreated sharply from its record highs reached in April. Vale lost 0.8%, tracking lower iron ore futures in China. Financial stocks were mostly weaker, with Bradesco down 1.6%, Itaú falling 0.8%, and Banco do Brasil losing 0.4%. Petrobras rose about 0.8%, supported by higher oil prices, although crude pared earlier gains after Iran and Israel signaled they had halted attacks on each other following an appeal from US President Donald Trump. WEG jumped 3.6% after HSBC initiated coverage with a buy rating. Elsewhere, Embraer gained 1.5% on expectations of progress in an Indian military aircraft tender, while MRV dropped 4.6% and Marfrig fell 1.5%."
-    },
-    {
-      "id": "4924685",
-      "time": "2026-06-09 04:52:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "週一（6月8日）紐約尾盤，現貨黃金大致持平，報4326.91美元/盎司，整體呈現出V形走勢，交投於4353.37-4268.80美元。COMEX黃金期貨跌0.34%，報4350.30美元/盎司，北京時間13:37曾重新整理日低至4293美元。"
-    },
-    {
-      "id": "mkt:019ea901-c04f-733a-9235-d1eb5f767946",
-      "time": "2026-06-09 04:52:04",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "【India seeks preferential U.S. tariffs to clinch interim trade deal】India is seeking new preferential tariff terms from the U.S. to finalize an interim trade agreement, a senior Indian trade official told foreign media. New Delhi and Washington reached a preliminary accord in February, but talks slowed after the U.S. Supreme Court struck down broad tariff measures. The U.S. has proposed an additional 12.5% tariff on imports from India and other countries and is considering another levy targeting alleged textile overcapacity. The Indian official said a deal hinges on clarity over those tariffs, that rates be competitive with direct rivals, and that India secure U.S. assurances no further tariffs will be imposed after an agreement."
-    },
-    {
-      "id": "4924684",
-      "time": "2026-06-09 04:48:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國秘書長：對中東局勢再次升級深感擔憂】當地時間6月8日，聯合國秘書長古特雷斯發表宣告，對中東地區近期局勢再次升級深感擔憂；他呼籲所有相關方立即停止襲擊，保持最大限度剋制，並避免採取任何可能進一步加劇本已高度緊張局勢的行動。"
-    },
-    {
-      "id": "4924683",
-      "time": "2026-06-09 04:46:48",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【6月9日美股成交額前20：英特爾獲谷歌300萬顆TPU大單】第6名英特爾收高11.19%，成交148.7億美元。週一該股股價創一個月來最大漲幅，此前有報道稱，Alphabet旗下谷歌將2028年逾300萬顆專用AI晶片訂單交給英特爾。據兩名未具名知情人士透露，在經過數月技術測試後，谷歌決定選擇英特爾生產部分張量處理器（TPU）。訊息人士稱，隨著臺積電難以滿足市場強勁需求，英特爾正從谷歌等公司獲得訂單。"
-    },
-    {
-      "id": "te:markets:557368",
-      "time": "2026-06-09 04:46:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises as Energy and Tech Stocks Lead Gains — The S&P/TSX Composite Index gained 0.2% to close at 34,479 on Monday, recovering modestly after posting its biggest decline in nearly four months on Friday, with energy and technology shares leading gains. Energy stocks advanced as oil prices moved higher amid persistent geopolitical risks near the Strait of Hormuz. Iran and Israel said they had halted attacks on each other following an appeal from US President Donald Trump, although Iran warned it would resume strikes if Israel continued targeting Hezbollah in Lebanon. Canadian Natural rose 1.4%, Suncor gained 1.5%, and Cenovus added 1.7%. Technology shares also outperformed, tracking gains on Wall Street after reports that Alphabet had placed a major chip order with Intel. Shopify advanced 1.2%, while Celestica climbed 3.8%. Investors also looked ahead to the Bank of Canada's policy decision on Wednesday, with rates expected to remain unchanged at 2.25%."
-    },
-    {
-      "id": "mkt:019ea8fb-87fd-733a-9235-ccb6b0778144",
-      "time": "2026-06-09 04:45:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "EEM",
-        "Impact bearish",
-        "VWO"
-      ],
-      "text": "MSCI Emerging Markets Index closed down 3.6%, its steepest one-day decline since March."
-    },
-    {
-      "id": "4924682",
-      "time": "2026-06-09 04:44:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【MSCI稱將對SpaceX IPO採用標準方法】MSCI稱，打算對SpaceX的首次公開募股（IPO）採用針對大型IPO的標準方法。MSCI表示，SpaceX必須符合指數成份股資格規則，才會被考慮提前納入指數，有關提前納入的決定將於第十個交易日收盤時生效。"
-    },
-    {
-      "id": "4924681",
-      "time": "2026-06-09 04:39:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【非洲疾控中心：本輪埃博拉疫情確診病例升至563例】當地時間6月8日，非洲疾控中心釋出統計資料，截至6月7日，本輪埃博拉疫情累計確診病例數升至563例。其中，剛果（金）確診病例544例，確診死亡病例88例；烏干達確診病例19例，確診死亡病例2例。"
-    },
-    {
-      "id": "4924680",
-      "time": "2026-06-09 04:38:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "據法爾斯通訊社：訊息稱葉門方面向以色列發動無人機襲擊。"
-    },
-    {
-      "id": "4924679",
-      "time": "2026-06-09 04:36:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI新興市場股票指數收盤下跌3.6%，創3月以來最大單日跌幅。"
-    },
-    {
-      "id": "mkt:019ea8f2-aadf-733a-9235-c4f632462db7",
-      "time": "2026-06-09 04:35:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reports Lebanon's justice minister said Hezbollah's campaign is unrelated to Lebanon's national interest and is pursuing an external agenda. He said Lebanon does not intend to remain at war, that ending the fighting requires negotiations, and that Hezbollah's stance has weakened Lebanon's negotiating leverage."
-    },
-    {
-      "id": "4924678",
-      "time": "2026-06-09 04:35:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "吉利德與默克宣佈，兩項評估每週口服一次的艾滋病治療藥物Islatravir/lenacapavir的三期臨床試驗取得積極主要終點結果。"
-    },
-    {
-      "id": "te:markets:557367",
-      "time": "2026-06-09 04:35:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.16% Lower — The Dow Jones Index decreased 81 points or 0.16 percent on Monday to close at 50786 points. The decline was led by Travelers Companies (-2.16%), Apple (-1.95%) and Sherwin-Williams (-1.87%). On the upside, the strongest performers were Cisco Systems (1.99%), Nvidia (1.71%) and UnitedHealth (1.69%)."
     }
   ]
 }
