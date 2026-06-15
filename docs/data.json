@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-16 07:51:17",
-  "count": 18220,
+  "updated": "2026-06-16 07:55:15",
+  "count": 18211,
   "items": [
+    {
+      "id": "4937273",
+      "time": "2026-06-16 07:53:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五礦資源：根據一般授權配售新股份，籌資62.68億港元】6月16日早間，五礦資源在港交所公告，公司與配售代理訂立配售協議，據此，本公司同意發行及配發配售股份，配售股份將根據一般授權予以配發及發行。配售價為8.88港元。假設所有配售股份均獲悉數配售，配售事項合計所得款項總額預計約為6,268百萬港元，配售事項合計所得款項淨額（扣除佣金及其他估計費用後）預計約為6,253百萬港元。按此基準，每股配售股份之淨價約為8.86港元。本公司擬將配售事項所得款項用於為現有貸款進行再融資、支援現有專案發展及擴張計劃、為戰略收購及投資提供資金，以及補充營運資金及一般公司用途。"
+    },
+    {
+      "id": "te:markets:559138",
+      "time": "2026-06-16 07:52:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gains as US-Iran Deal Eyed — Silver traded near $70 an ounce on Tuesday after rising almost 3% in the previous session, as expectations that a US-Iran peace agreement would reopen the Strait of Hormuz eased fears of an energy-driven inflation shock that had fueled interest rate hike expectations. The interim accord is expected to be signed by both sides in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving investors cautious. Markets also looked ahead to a series of central bank policy decisions this week, with the Federal Reserve set to hold its first meeting under new chair Kevin Warsh and widely expected to leave interest rates unchanged."
+    },
+    {
+      "id": "te:markets:559137",
+      "time": "2026-06-16 07:51:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Advance as US-Iran Deal Eyed — Gold traded above $4,300 an ounce on Tuesday after rising more than 2% in the previous session, as expectations that a US-Iran peace agreement would reopen the Strait of Hormuz eased fears of an energy-driven inflation shock that had fueled interest rate hike expectations. The interim accord is expected to be signed by both sides in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving investors cautious. Markets also looked ahead to a series of central bank policy decisions this week, with the Federal Reserve set to hold its first meeting under new chair Kevin Warsh and widely expected to leave interest rates unchanged."
+    },
     {
       "id": "4937272",
       "time": "2026-06-16 07:50:46",
@@ -167339,121 +167369,6 @@
         "國際"
       ],
       "text": "【特朗普曾警告以總理勿再攻伊朗 否則將遭孤立】美國總統特朗普8日表示，他曾警告以色列總理內塔尼亞胡，如果與伊朗再開戰，以色列可能陷入孤立無援境地。特朗普當天在接受電話採訪時說，以色列7日對伊朗實施打擊的計劃“很晚才通知我們”，“他們（以軍）已經開始行動了，但我最終設法限制了（以軍行動）”。他稱，中東有5個國家曾致電請他施壓內塔尼亞胡停止軍事行動。美國官員稱，特朗普7日晚致電內塔尼亞胡，要求他“不要採取報復行動”。（央視）"
-    },
-    {
-      "id": "4924799",
-      "time": "2026-06-09 07:54:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列機場航班減少 乘客滯留當地】當地時間6月7日晚至6月8日，因以色列升級對黎巴嫩的軍事行動，伊朗和以色列衝突再起。目前雙方都已表示暫停襲擊對方。而在6月8日當天，雖然以色列維持著領空開放，但是根據以軍本土守備司令部要求，以色列最主要機場——特拉維夫附近的本-古裡安國際機場被限制聚集人數。這也導致航班數量減少，部分乘客長時間滯留機場。由於防空警報不時響起，一些航班的起降受到影響。(CCTV國際時訊)"
-    },
-    {
-      "id": "4924798",
-      "time": "2026-06-09 07:53:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黃河實業就Agentic AI金融科技業務的潛在投資在進行深入討論】根據香港交易所公告，黃河實業正與獨立第三方就一項自主智慧式人工智慧(Agentic AI)金融科技業務的潛在投資進行深入討論。公司尚未就潛在投資訂立任何協議。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202606093764196577",
-      "time": "2026-06-09 07:52:19",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本5月貨幣供應M2同比增長2.5%，前值2.30%。"
-    },
-    {
-      "id": "mkt:019ea9a6-73eb-733a-9237-6bff22cfde45",
-      "time": "2026-06-09 07:51:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "CSI300",
-        "Brent"
-      ],
-      "text": "【CITIC Securities: Macro indicators favor central SOEs and energy】CITIC Securities says macro factors have gained explanatory power for sector relative returns this year. The firm’s three-dimensional macro-state monitoring system, which maps index performance across macro regimes to drive an industry-themed ETF rotation strategy, has improved returns and stability versus prior iterations — annualized 15.6% since 2020 and 22% YTD. As of May 31, 2026, its high-frequency macro factors show growth and inflation marginally retreating while financial conditions continue to marginally improve. The model recommends shifting into sectors offering both growth sensitivity and dividend-defense; on macroeconomic metrics it favors central SOEs and energy, while macro-financial and international-finance signals point to media, cloud computing and telecoms."
-    },
-    {
-      "id": "mkt:019ea9a6-66b6-733a-9237-61652b24fe94",
-      "time": "2026-06-09 07:51:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan broad money growth 4.7% YoY in May, up from 2.8% in April."
-    },
-    {
-      "id": "4924797",
-      "time": "2026-06-09 07:51:48",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：鋰價在2026年下半年仍有望走強】中信證券指出，2026年一季度，海外主要鋰資源專案產量小幅下滑，售價漲幅擴大。受到鋰價大漲刺激，海外鋰礦開啟復產擴產潮，但產能爬坡以及非洲多國強化鋰資源開發管制給供應增長帶來不確定性。2026年5月以來，需求擔憂和庫存變動壓制鋰價表現，但預計供需緊張格局短期內不會逆轉，鋰價在2026年下半年仍有望走強，維持25萬元/噸的目標價預測。建議關注板塊調整後的配置機遇。"
-    },
-    {
-      "id": "mkt:019ea9a6-640f-733a-9237-59016f5037c5",
-      "time": "2026-06-09 07:51:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan M3 money supply YoY 1.7% in May, versus 1.6% previously."
-    },
-    {
-      "id": "mkt:019ea9a6-3ade-733a-9237-57add46ef506",
-      "time": "2026-06-09 07:51:43",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Broadest Liquidity (YoY) (May) | actual 4.7% | previous 2.8%"
-    },
-    {
-      "id": "mkt:019ea9a6-3a81-733a-9237-496485e3b6b8",
-      "time": "2026-06-09 07:51:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan May M2 money supply YoY 2.5% (prev. 2.3%)."
-    },
-    {
-      "id": "mkt:019ea9a6-39c2-733a-9237-446448d3092a",
-      "time": "2026-06-09 07:51:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | M3 Money Supply (YoY) (May) | actual 1.7% | previous 1.60%"
-    },
-    {
-      "id": "mkt:019ea9a6-135b-733a-9237-3ee93c752146",
-      "time": "2026-06-09 07:51:33",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | M2 Money Supply (YoY) (May) | actual 2.5% | previous 2.30%"
-    },
-    {
-      "id": "4924796",
-      "time": "2026-06-09 07:51:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產GPU全棧支撐原生訓練，北大5D世界模型登頂斯坦福WorldScore榜單】6月8日，北京大學EvoPhys團隊推出的5D世界模型EvoPhys-World，在斯坦福大學WorldScore公開評測中位列“世界生成（World Generation）”賽道第一。該模型以人為中心，實現場景級萬物可控。其原生訓練全程基於摩爾執行緒MTT S5000 GPU及MUSA軟體棧完成。（介面新聞）"
     }
   ]
 }
