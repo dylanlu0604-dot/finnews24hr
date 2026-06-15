@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-16 03:59:02",
-  "count": 18211,
+  "updated": "2026-06-16 04:02:59",
+  "count": 18209,
   "items": [
+    {
+      "id": "4937088",
+      "time": "2026-06-16 04:01:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SpaceX股價上漲20%，市值增加4120億美元。"
+    },
+    {
+      "id": "mkt:019ecce0-2a04-7dd8-b016-53d1e34126e5",
+      "time": "2026-06-16 04:01:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "SPCX.O",
+        "Impact bullish",
+        "NVDA.O",
+        "ORCL.N"
+      ],
+      "text": "【US close: Nasdaq up 3%; SpaceX valuation tops $2.5 trillion】US stocks closed higher Monday: Dow Jones +0.9%, S&P 500 +1.66%, Nasdaq Composite +3.07%. SpaceX (SPCX.O) jumped nearly 20%, pushing its market value above $2.5 trillion. NVIDIA (NVDA.O) rose >3%; Oracle (ORCL.N) gained >4%. Nasdaq Golden Dragon China Index +0.3%; iQiyi (IQ.O) up ~2%."
+    },
+    {
+      "id": "4937087",
+      "time": "2026-06-16 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.92%，標普500指數漲1.66%，納指漲3.08%。西部資料漲16.10%，DoorDash漲11.63%，美光漲10.88%，邁威爾科技漲10.49%。“七姐妹”方面：Meta Platforms漲4.72%，英偉達漲3.54%，亞馬遜漲3.16%，谷歌漲2.48%，微軟漲2.30%，蘋果漲1.83%，特斯拉漲1.16%。"
+    },
+    {
+      "id": "4937086",
+      "time": "2026-06-16 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.37%】億航漲14.40%，嘉楠科技漲8.40%，逸仙電商漲7.07%，汽車之家漲6.77%，金山雲漲5.73%。"
+    },
     {
       "id": "4937084",
       "time": "2026-06-16 03:50:07",
@@ -167348,67 +167392,6 @@
         "Impact bearish"
       ],
       "text": "Axios reports US President Trump said he warned Israeli Prime Minister Netanyahu that if he were to go to war with Iran again he could find himself isolated."
-    },
-    {
-      "id": "4924668",
-      "time": "2026-06-09 04:01:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數收盤上漲5.6%。"
-    },
-    {
-      "id": "mkt:019ea8d3-4123-733a-9235-834a7f591346",
-      "time": "2026-06-09 04:01:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish",
-        "MRVL.O",
-        "MU.O"
-      ],
-      "text": "【U.S. stocks close mixed; Intel jumps 11%】U.S. stocks closed mixed on Monday: the Dow Jones Industrial Average fell 0.16%, the S&P 500 rose 0.29% and the Nasdaq Composite gained 0.86%. MARVELL (MRVL.O) jumped 9.6%, Intel (INTC.O) rose 11% and Micron (MU.O) gained nearly 10%. The Nasdaq Golden Dragon China Index fell 0.6%; Alibaba (BABA.N) slipped about 1%."
-    },
-    {
-      "id": "4924667",
-      "time": "2026-06-09 04:01:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：截至上週，美國大豆播種進度達 92%，長勢優良至極佳的比例為 65%。"
-    },
-    {
-      "id": "4924666",
-      "time": "2026-06-09 04:00:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.16%，標普500指數漲0.29%，納指漲0.86%。英特爾漲11.10%，美光漲9.83%，阿克邁跌4.99%，好時跌4.75%，Ciena科技跌4.41%。“七姐妹”方面：特斯拉漲4.59%，英偉達漲1.73%，亞馬遜跌0.33%，微軟跌1.18%，谷歌跌1.22%，Meta Platforms跌1.31%，蘋果跌1.89%。"
-    },
-    {
-      "id": "4924665",
-      "time": "2026-06-09 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.57%】中進醫療跌10.93%，復朗集團跌7.19%，陸金所控股跌5.17%，新氧跌4.92%，大全新能源跌4.87%。"
-    },
-    {
-      "id": "mkt:019ea8d1-55ab-733a-9235-7ff29d6278c4",
-      "time": "2026-06-09 03:59:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRNA cites Iraqi media reporting multiple loud explosions in Erbil province; US military aircraft conducting large-scale patrols over Erbil."
     }
   ]
 }
