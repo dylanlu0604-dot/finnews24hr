@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-16 00:59:11",
-  "count": 18354,
+  "updated": "2026-06-16 01:03:20",
+  "count": 18347,
   "items": [
+    {
+      "id": "4936993",
+      "time": "2026-06-16 01:00:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油儲備降至 43 年新低，特朗普力求平抑汽油價格。"
+    },
+    {
+      "id": "4936992",
+      "time": "2026-06-16 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收平，滬銅收跌0.14%，滬鋁收跌1.80%，滬鋅收漲0.34%，滬鉛收漲0.62%，滬鎳收漲0.17%，滬錫收漲1.52%。氧化鋁夜盤收跌1.50%，鋁合金收跌1.41%。不鏽鋼夜盤收漲1.11%。"
+    },
+    {
+      "id": "4936991",
+      "time": "2026-06-16 00:59:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯： 烏克蘭與摩爾多瓦今日邁出加入歐盟的決定性一步。開啟入盟談判首批章節是一座重要里程碑。兩國在極其艱難的環境下完成了多項艱鉅改革。兩國若成功入盟，歐洲將更加強大。"
+    },
     {
       "id": "4936990",
       "time": "2026-06-16 00:55:19",
@@ -168704,93 +168728,6 @@
         "國際"
       ],
       "text": "美國農業部：確認新墨西哥州利縣發現首例犬類新大陸螺旋蠅感染病例，得克薩斯州已出現第四例病例。"
-    },
-    {
-      "id": "4924506",
-      "time": "2026-06-09 01:03:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果軟體工程主管克雷格·費德里吉稱蘋果計劃更新兒童安全功能。"
-    },
-    {
-      "id": "4924505",
-      "time": "2026-06-09 01:02:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "蒂姆·庫克稱蘋果全球開發者大會（WWDC）的釋出內容將聚焦蘋果智慧（Apple Intelligence）與Siri。"
-    },
-    {
-      "id": "mkt:019ea82f-d181-733a-9231-db95ffc41091",
-      "time": "2026-06-09 01:02:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TASS reports the Russian Energy Ministry said a rise in airstrikes on energy facilities has caused temporary fuel supply disruptions in southern Russia."
-    },
-    {
-      "id": "mkt:019ea82f-b8ea-733a-9231-d45e684d2167",
-      "time": "2026-06-09 01:02:40",
-      "tags": [
-        "MKT News",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) WWDC 2026 developer conference has begun."
-    },
-    {
-      "id": "4924504",
-      "time": "2026-06-09 01:02:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：目前已有超180萬美國人失業時長超過六個月。"
-    },
-    {
-      "id": "4924503",
-      "time": "2026-06-09 01:01:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯能源部：對能源行業設施的空襲頻次增加，正導致俄羅斯南部地區出現臨時燃料供應困難。"
-    },
-    {
-      "id": "4924502",
-      "time": "2026-06-09 01:01:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫要求委員會就人工智慧議題舉行更多聽證會，傳喚貝森特與盧特尼克出席。"
-    },
-    {
-      "id": "4924501",
-      "time": "2026-06-09 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.27%，滬銅收漲0.31%，滬鋁收漲0.15%，滬鋅收漲0.30%，滬鉛收跌1.19%，滬鎳收跌0.77%，滬錫收跌0.79%。氧化鋁夜盤收漲0.22%，鋁合金收漲0.15%。不鏽鋼夜盤收跌1.16%。"
-    },
-    {
-      "id": "mkt:019ea82d-2e3c-733a-9231-c9b98d78f580",
-      "time": "2026-06-09 00:59:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "LEBANESE HEALTH MINISTRY says an Israeli strike on Zefta in southern Nabatieh governorate killed at least seven people, including a Syrian child and a woman, and wounded at least eight."
-    },
-    {
-      "id": "mkt:019ea82c-8b75-733a-9231-c3f151ce1ca6",
-      "time": "2026-06-09 00:59:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mercuria's 1H profit rose 88% as commodity-market volatility boosted results."
     }
   ]
 }
