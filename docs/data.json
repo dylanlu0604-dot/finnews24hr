@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-15 12:53:28",
-  "count": 18259,
+  "updated": "2026-06-15 12:57:25",
+  "count": 18262,
   "items": [
+    {
+      "id": "4935534",
+      "time": "2026-06-15 12:56:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港首份五年規劃展開公眾諮詢：擬有序取締劣質“劏房” 加快土地發展及舊區更新】香港特別行政區政府今日就香港特別行政區經濟和社會發展第一個五年規劃（2026—2030）展開公眾諮詢。其中提到，增加房屋供應，持續推進公營房屋發展，包括興建更多出租公屋和資助出售單位，以及提供“簡約公屋”，滿足不同收入家庭的住屋需要。有序取締劣質“劏房”，保障基層租戶有安全、衛生和適切的住房環境。加快土地發展及舊區更新，提升用地效率和房屋供應的可持續性，改善住屋環境及居住素質。"
+    },
+    {
+      "id": "4935533",
+      "time": "2026-06-15 12:56:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國建築成立供應鏈科技公司】企查查APP顯示，近日，中建八局（廣東）供應鏈科技有限公司成立，法定代表人為張廣韜，註冊資本為9000萬元，經營範圍包含：新材料技術研發；保溫材料銷售；建築用金屬配件銷售；再生資源加工；供應鏈管理服務等。企查查股權穿透顯示，該公司由中國建築間接全資持股。"
+    },
+    {
+      "id": "mkt:019ec9a3-0e3d-7dd8-affe-d7323050c5d4",
+      "time": "2026-06-15 12:56:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's finance minister says rising fertilizer price volatility poses a challenge to India."
+    },
+    {
+      "id": "4935532",
+      "time": "2026-06-15 12:56:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鈞崴電子：公司是英偉達電流感測精密電阻方面的核心供應商之一】鈞崴電子(301458)6月15日在互動平臺表示，公司是英偉達電流感測精密電阻方面的核心供應商之一。公司電流感測精密電阻主要應用在英偉達GPU主機板上，實現GPU的高精度的電流取樣，供電閉環控制與過流保護；公司在AI伺服器領域提供高精度、高可靠性的元器件產品，定製化解決方案與技術支援服務。"
+    },
+    {
+      "id": "4935530",
+      "time": "2026-06-15 12:54:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部長：印度面臨外匯、原油價格不確定性以及今年降雨不足的挑戰。"
+    },
+    {
+      "id": "mkt:019ec9a1-56b1-7dd8-affe-c803c832beb2",
+      "time": "2026-06-15 12:54:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "WTI",
+        "Brent"
+      ],
+      "text": "India's finance minister said the country faces uncertainty in foreign exchange and crude oil prices, and inadequate rainfall this year."
+    },
+    {
+      "id": "4935529",
+      "time": "2026-06-15 12:54:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迅策科技攜手三大國產GPU！打造“算力+資料”一體化解決方案，驅動企業AI規模化落地】6月15日，深圳迅策科技股份有限公司（03317.HK，下稱“迅策科技”）宣佈，公司近期分別與沐曦積體電路（上海）股份有限公司（下稱“沐曦股份”）、上海天數智芯半導體股份有限公司（以下簡稱“天數智芯”）及上海壁仞科技股份有限公司（以下簡稱“壁仞科技”）正式簽署三份戰略合作協議。此次戰略合作標誌著迅策科技首次系統性攜手國產算力供應鏈，在“算力+資料”融合方向邁出關鍵一步，是公司資料基礎設施平臺與資料Token化能力深度協同國產算力、加速企業級AI規模化落地的重要里程碑。"
+    },
     {
       "id": "4935528",
       "time": "2026-06-15 12:52:50",
@@ -167916,43 +167977,6 @@
         "國際"
       ],
       "text": "地方當局表示，俄羅斯襲擊烏克蘭敖德薩地區導致超1000名使用者斷電。"
-    },
-    {
-      "id": "mkt:019ea597-8b35-7ee0-94ca-fc4ec069a375",
-      "time": "2026-06-08 12:57:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ByteDance says Gu Quanquan not head of Seed AI drug discovery or LLM pretraining; departure unconfirmed】ByteDance's Seed unit said recent market reports that former Seed member Gu Quanquan had left to found a startup are unconfirmed. The company said Gu participated in biomolecular structure prediction and LLM pretraining work but was not Seed's head of AI drug discovery or pretraining, and it is unaware of his entrepreneurial plans."
-    },
-    {
-      "id": "4923026",
-      "time": "2026-06-08 12:56:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【位元組Seed相關人士回應顧全全離職傳聞：並非AI製藥及預訓練負責人】近期，市場有傳聞稱，原位元組跳動 Seed 團隊成員顧全全已離職創業。部分訊息將其描述為 Seed 團隊 AI 製藥及大模型（LLM）預訓練業務的負責人。對此，記者採訪到位元組Seed相關人士。該人士稱：“顧全全在公司參與過生物分子結構預測和LLM預訓練的部分工作，但並不是位元組Seed的AI製藥和預訓練負責人，對其創業事宜不瞭解。”（介面新聞）"
-    },
-    {
-      "id": "4923025",
-      "time": "2026-06-08 12:53:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【印尼市場三殺：股市挫4%、匯率跌至紀錄低點、10年債收益率升33個基點】印尼金融市場週一跌勢加劇，該國債券、股票和貨幣同步下挫。該國10年期政府公債收益率躍升33個基點，創一年多來新高。基準股指一度暴跌4%，之後跌幅收窄，印尼盾一度下跌0.8%，跌至紀錄低點。面對持續惡化的市場賣壓，印尼正面臨愈來愈多要求，呼籲政府除了口頭保證之外，應提出更具體措施以遏止拋售；投資人正尋求更強烈訊號，以確認當局將維持政策紀律並支撐市場。外界越來越擔心政府治理經濟的能力，新的大宗商品出口規則引發的混亂，以及印尼主權信用狀況再次受到審查，都打擊了投資者的信心。"
-    },
-    {
-      "id": "mkt:019ea594-4d9c-7ee0-94ca-f4464270682a",
-      "time": "2026-06-08 12:53:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israeli media N12 reports Israeli officials confirmed Israel struck an Iranian petrochemical facility."
     }
   ]
 }
