@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-15 20:49:39",
-  "count": 18270,
+  "updated": "2026-06-15 20:53:50",
+  "count": 18263,
   "items": [
+    {
+      "id": "4936648",
+      "time": "2026-06-15 20:52:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場訊息：土耳其財政部 2028 年期債券認購投標額達 227.7 億里拉  。"
+    },
+    {
+      "id": "4936647",
+      "time": "2026-06-15 20:50:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國電池材料公司完成 333 萬股股份登記。"
+    },
+    {
+      "id": "4936646",
+      "time": "2026-06-15 20:50:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4370美元/盎司，日內漲3.10%。"
+    },
+    {
+      "id": "mkt:019ecb55-3cb3-7dd8-b00d-e579d3ed0960",
+      "time": "2026-06-15 20:50:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's He meets U.S. Representative Correa】China's He, Politburo member and vice premier, met U.S. Representative Correa and his delegation on June 15. He said China is willing to work with the U.S. to fully and accurately implement the leaders' important consensus and, under principles of mutual respect, peaceful coexistence and win‑win cooperation, to strengthen dialogue, expand cooperation and promote healthy, stable and sustainable development of bilateral economic and trade relations."
+    },
+    {
+      "id": "mkt:019ecb55-090b-7dd8-b00d-dc1a15eb8515",
+      "time": "2026-06-15 20:50:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran says asset unfreezing, war reparations are priorities in Iran‑US ceasefire memorandum】Iran Foreign Ministry spokesperson Baghaei said on the 15th that details of an Iran‑US ceasefire memorandum will be published shortly and that the signing method and related mechanisms will be decided within a day. He said unfreezing Iran's frozen assets and securing war reparations are the memorandum's two economic priorities and that the US has committed to implement them. Under the memorandum the US is required to lift all primary and secondary sanctions, relevant UN Security Council resolutions and IAEA‑related measures; nuclear and economic specifics will be finalised within 60 days of signing the final agreement. Baghaei said that with the memorandum's signing on the 19th, all sales restrictions on Iranian crude, oil products and petrochemicals would be lifted immediately."
+    },
+    {
+      "id": "4936645",
+      "time": "2026-06-15 20:50:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：資產解凍和戰爭賠償是諒解備忘錄優先事項】當地時間15日，伊朗外交部發言人巴加埃在當天舉行的新聞釋出會上表示，伊美停戰諒解備忘錄的細節將很快公佈。諒解備忘錄的簽署方式和相關機制也將在今天或明天作出決定，並正式宣佈。巴加埃表示，解凍伊朗被凍結的資產和戰爭賠償是諒解備忘錄中的兩個重要經濟優先事項，美國承諾執行這些內容。伊朗認為，獲得伊朗資產的訪問權是其合法權利，並堅決繼續要求賠償這場非法戰爭的損失。根據該諒解備忘錄，美國必須取消所有一級和二級制裁、安理會相關決議以及國際原子能機構的相關制裁。這些核問題和經濟事項的細節將在最終協議簽署後60天內確定。此外，隨著19日該諒解備忘錄的簽署，伊朗石油、石油衍生品及石化產品的所有銷售限制將立即取消。（央視）"
+    },
+    {
+      "id": "4936644",
+      "time": "2026-06-15 20:49:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【何立峰會見美國聯邦眾議員科雷亞】中共中央政治局委員、國務院副總理何立峰6月15日下午在人民大會堂會見美國聯邦眾議員科雷亞及其一行。 何立峰表示，習近平主席同特朗普總統共同確定了中美建設性戰略穩定關係的新定位，為下階段中美關係作出了戰略指引。中方願同美方一道，全面、準確落實好兩國元首達成的重要共識，按照相互尊重、和平共處、合作共贏的原則加強對話、拓展合作，努力推動雙邊經貿關係健康穩定可持續發展。(新華社)"
+    },
     {
       "id": "te:markets:559067",
       "time": "2026-06-15 20:48:44",
@@ -167936,131 +167998,6 @@
         "其他"
       ],
       "text": "非洲疾控中心與世界衛生組織（WHO）發起非洲大陸埃博拉疫情聯合應對計劃。"
-    },
-    {
-      "id": "4924212",
-      "time": "2026-06-08 20:53:16",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通警示，若霍爾木茲海峽封鎖狀態持續至六月之後，或將爆發石油危機。"
-    },
-    {
-      "id": "te:economy:557299",
-      "time": "2026-06-08 20:52:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Chile Inflation Stays Near One-Year High — Chile's annual inflation rate was little changed at 3.9% in May 2026, compared with 4.0% in April. The strongest price pressures continued to come from transport (10.1%), followed by restaurants and lodging (6.5%), education (5.9%), healthcare (5.6%), and housing and utilities (4.2%). In contrast, prices declined for clothing and footwear (-4.9%) and insurance and financial services (-4.4%). On a monthly basis, consumer prices rose 0.2%, easing sharply from the 1.3% increase recorded in April. In the first five months of the year, inflation accumulated to 2.8%, indicating that price growth remained moderate despite persistent pressures in transportation and services."
-    },
-    {
-      "id": "te:markets:557298",
-      "time": "2026-06-08 20:52:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Pare Losses — The DAX 40 pared early losses to trade slightly down around 24,670 on Monday, the lowest since May 21, as traders closely monitored developments in the Middle East. Iran announced the end of its military operation against Israel after a day of retaliatory strikes between the two countries, while warning it could resume operations if Israel continues actions in Lebanon. This helped curb the increase in oil prices."
-    },
-    {
-      "id": "4924211",
-      "time": "2026-06-08 20:52:46",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【*ST元道：公司股票可能被實施重大違法強制退市】*ST元道公告稱，公司於2025年7月11日因涉嫌年報等資訊披露檔案財務資料存在虛假記載等違法行為被中國證監會立案。2026年5月8日，公司收到《行政處罰事先告知書》，可能觸及重大違法強制退市情形。公司尚未收到正式處罰決定，最終結果以正式處罰決定為準。如觸及相關情形，公司股票將被終止上市，提醒投資者注意風險。"
-    },
-    {
-      "id": "4924210",
-      "time": "2026-06-08 20:52:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST嶺南：股價異常波動 多項風險待解】*ST嶺南公告稱，公司股票於2026年6月5日、6月8日連續兩個交易日收盤價格漲幅偏離值累計超12%，屬異常波動。經核查，公司、實控人及相關股東、董高在異常波動期間未買賣股票，不存在應披露未披露重大事項。公司股票因多項問題被實施退市及其他風險警示，包括業績不佳、內控審計否定、財務報告無法表示意見、主要銀行賬戶凍結等。此外，公司及相關當事人擬被行政處罰，原實控人尚有1.49億元佔用資金未歸還，且有多筆債務逾期。"
-    },
-    {
-      "id": "4924209",
-      "time": "2026-06-08 20:52:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中銳股份：1元轉讓重慶華宇99.5%股權 最佳化資產結構】中銳股份公告稱，公司與上海全昂簽署《股權轉讓協議》，以1元轉讓重慶華宇99.5%股權。上海全昂為公司關聯方，本次交易構成關聯交易，但不構成重大資產重組。重慶華宇長期虧損，2025年淨利潤-2.08億元。本次交易完成後，公司不再持有其股權，也不再納入合併報表範圍，可減輕經營和財務負擔，聚焦優勢業務。該交易尚需公司股東會批准。"
-    },
-    {
-      "id": "4924208",
-      "time": "2026-06-08 20:52:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深桑達A：擬對子公司中國電子雲增資不超10億元】深桑達A(000032.SZ)公告稱，公司控股子公司中電雲端計算技術有限公司擬增資不超過10億元，其中公司以自有資金增資1億元，關聯方中電金投增資1億元，其餘由外部戰略投資人增資。"
-    },
-    {
-      "id": "4924207",
-      "time": "2026-06-08 20:52:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東中銳：擬轉讓重慶華宇園林股權 股東權益評估值為-1.93億元】山東中銳產業發展股份有限公司公告稱，擬轉讓重慶華宇園林有限公司股權，北京中天華對其股東全部權益價值進行評估。評估基準日為2025年（日期缺失），採用資產基礎法評估。重慶華宇園林總資產賬面值4.92億元，評估值5.07億元，增值率3.23%；總負債評估值7.00億元，無增減值；淨資產賬面值-2.09億元，評估值-1.93億元，增值率7.59%。評估結論有效期至2026年（日期缺失）。"
-    },
-    {
-      "id": "4924206",
-      "time": "2026-06-08 20:51:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國雞蛋價格跌至十年低位，在食品通脹持續數年後，為消費者帶來難得的緩解。"
-    },
-    {
-      "id": "4924205",
-      "time": "2026-06-08 20:51:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天汽模：擬發行股份及支付現金收購東實股份60%股權，交易對價18.3億元】天汽模公告，公司擬透過發行股份及支付現金方式購買德盛拾陸號企業管理（天津）合夥企業（有限合夥）持有的東實汽車科技集團股份有限公司60.00%股份，交易對價18.3億元，其中發行股份支付7.32億元，現金支付10.98億元。同時，公司擬向控股股東新疆建發梵宇產業投資基金合夥企業（有限合夥）發行股份募集配套資金不超過7.32億元，用於支付現金對價。本次交易構成關聯交易，不構成重組上市。標的資產採用收益法評估，100%股權評估值30.51億元，增值率10.51%。本次交易尚需經股東會審議、國資批准、反壟斷審查、深交所稽核及證監會註冊等程式。"
-    },
-    {
-      "id": "mkt:019ea749-bfa3-7226-8cb4-df886f9d4f54",
-      "time": "2026-06-08 20:51:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Sources: Russia plans to cut June crude exports】Market sources said Russia plans to cut crude exports in June to divert barrels to higher refinery runs amid seasonal fuel demand and reported regional shortages. Preliminary data show shipments from western ports Primorsk, Ust-Luga and Novorossiysk could fall from 2.5 mln b/d in May to about 1.7 mln b/d in June; sources said part of the reduction reflects lower crude output. Deputy Prime Minister Novak has said Russian oil output has fallen since the start of the year due to unplanned refinery maintenance. Sources estimate refiners will seek to lift crude processing by 250–400 kb/d in June, but restoring crude output will take considerable time."
-    },
-    {
-      "id": "4924204",
-      "time": "2026-06-08 20:51:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士：俄羅斯計劃削減6月石油出口量】市場訊息人士稱，鑑於燃料短缺的陰雲籠罩，俄羅斯計劃在6月提高煉油廠開工率，因此將減少原油出口。訊息人士提供的初步資料顯示，俄羅斯西部港口普里莫爾斯克、烏斯季盧加和新羅西斯克的原油裝船量可能從5月份的250萬桶/日降至6月份的170萬桶/日。訊息人士稱，這一下降部分可能是由於原油產量水平下降所致。俄羅斯副總理諾瓦克此前表示，自今年年初以來，俄羅斯石油產量有所下降，並將此歸咎於煉油廠的計劃外檢修。訊息人士稱，隨著檢修工作的完成，在季節性燃料需求增長以及部分地區報告供應短缺的背景下，俄羅斯煉油廠將能夠提高加工量，但產量下降意味著必須從出口中調撥額外的原料用於加工。他們估計，俄羅斯將在6月尋求將原油加工量增加25萬至40萬桶/日，而恢復原油產量則需要相當長的時間。"
-    },
-    {
-      "id": "4924203",
-      "time": "2026-06-08 20:51:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭最高法院判處前最高法院院長五年監禁。"
-    },
-    {
-      "id": "4924202",
-      "time": "2026-06-08 20:50:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【太陽紙業：推出2026年限制性股票激勵計劃】6月8日，太陽紙業(002078)披露2026年限制性股票激勵計劃。公司擬定向發行A股普通股，向合計1489名激勵物件授予6300萬股第一類限制性股票，佔當前公司總股本的2.25%，首次授予價格為6.79元/股。本次激勵計劃有效期最長不超過60個月，將分三期解鎖，考核週期覆蓋2026至2028年。"
     }
   ]
 }
