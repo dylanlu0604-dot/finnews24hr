@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-15 22:10:18",
-  "count": 18344,
+  "updated": "2026-06-15 22:14:22",
+  "count": 18338,
   "items": [
+    {
+      "id": "mkt:019ecba1-b64f-7dd8-b010-b6a3dab008c0",
+      "time": "2026-06-15 22:13:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH says inf and interest-rate headwinds are weighing on the US mid-year credit outlook."
+    },
+    {
+      "id": "4936812",
+      "time": "2026-06-15 22:12:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【6月15日增減持彙總】據統計，6月15日盤後，愛迪特、新迅達、吉大正元、英派斯4家A股上市公司披露擬減持情況，當日暫無A股公司披露增持情況。"
+    },
+    {
+      "id": "4936811",
+      "time": "2026-06-15 22:11:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國能建：江蘇電建一公司組成的聯合體中標約42.93億元壓縮空氣儲能專案】據中國能建訊息，6月15日，中國能建江蘇電建一公司作為聯合體牽頭單位中標深能錫林郭勒西烏珠穆沁旗電網側壓縮空氣儲能專案地面電站工程EPC總承包專案，中標金額約42.93億元。"
+    },
+    {
+      "id": "4936810",
+      "time": "2026-06-15 22:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國安理會投票決定將聯合國阿富汗特派團的授權延長一年。"
+    },
+    {
+      "id": "4936809",
+      "time": "2026-06-15 22:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希基揚表示：相關諒解備忘錄的具體內容將擇機對外公佈。未來兩個月內，各方將針對備忘錄細則展開磋商。伊朗方面派出的談判代表，絕不會偏離最高領袖為我們劃定的價值準則與談判框架。"
+    },
     {
       "id": "mkt:019ecb9d-ff0e-7dd8-b010-a8ecdd520fac",
       "time": "2026-06-15 22:09:49",
@@ -168637,112 +168678,6 @@
         "市場"
       ],
       "text": "現貨鈀金下跌3%，至每盎司1194.49美元。"
-    },
-    {
-      "id": "4924336",
-      "time": "2026-06-08 22:14:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐約證券交易所美國分部宣佈自助交易，與納斯達克PHLX期權交易所競爭。"
-    },
-    {
-      "id": "mkt:019ea794-c480-7226-8cb6-6bfe31b61760",
-      "time": "2026-06-08 22:13:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Dalian Commodity Exchange coking coal 2607 and 2608 contracts hit daily limit-downs, falling 7.99% to 1,302 yuan/ton and 8.00% to 1,334 yuan/ton, respectively."
-    },
-    {
-      "id": "4924335",
-      "time": "2026-06-08 22:13:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "大商所焦煤2607、2608合約均觸及跌停，分別跌幅7.99%，報1302元/噸；跌幅8%，報1334元/噸。"
-    },
-    {
-      "id": "4924334",
-      "time": "2026-06-08 22:13:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【釘釘副總裁、AI產品負責人馬銳拉宣佈離職】釘釘副總裁、AI產品負責人馬銳拉今日在個人公眾號上宣佈，他已於5月15日辦完離職手續，結束三年阿里生涯、離開釘釘。資料顯示，馬銳拉本名汪佳敏，曾創辦中文音樂星空、互聯影庫(Mtime時光網前身）及我來房產網。2020年創立協同辦公平臺“我來wolai”，該平臺於2023年被釘釘全資收購，隨後他加入釘釘團隊，負責智慧化協作文件及個人版產品的研發。（新浪科技）"
-    },
-    {
-      "id": "4924333",
-      "time": "2026-06-08 22:13:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "渣打：市場對強勁非農做出負面反應是錯誤的。"
-    },
-    {
-      "id": "mkt:019ea793-cea2-7226-8cb6-60b9800dc3c4",
-      "time": "2026-06-08 22:12:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Israel again struck the southern Lebanese city of Tyre."
-    },
-    {
-      "id": "4924332",
-      "time": "2026-06-08 22:12:20",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【港股IPO：廣東真健康醫療科技遞表港交所】廣東真健康醫療科技開發股份有限公司向港交所提交上市申請書，聯席保薦人為中金公司、星展銀行（DBS）。"
-    },
-    {
-      "id": "4924331",
-      "time": "2026-06-08 22:11:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "殼牌公司啟動註冊交換要約，以交換此前殼牌融資美國公司私募交換要約發行的票據。"
-    },
-    {
-      "id": "te:markets:557328",
-      "time": "2026-06-08 22:11:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Brazilian Equities Trade Mixed — The Ibovespa traded gains and losses near the 168,500 mark on Monday as oil prices retreated from earlier highs. The rally in crude eased after signals that weekend strikes between Iran and Israel were unlikely to trigger a broader escalation of the conflict. Banks supported the index, with Itaú up 0.5% and Bradesco gaining 0.3%. WEG jumped 3% despite concerns over US tariffs after BTG Pactual reiterated its buy recommendation on the stock. Petrobras also advanced nearly 1%, tracking the softer increase in crude oil prices. In contrast, Vale fell about 1% amid lower iron ore prices. Elsewhere, meatpackers came under pressure after the European Union removed Brazil from the list of countries authorized to export certain animal products, citing concerns over controls on antimicrobial use in livestock. Minerva and JBS lost more than 2%, while Marfrig declined nearly 3%."
-    },
-    {
-      "id": "4924330",
-      "time": "2026-06-08 22:11:17",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【日本學者：“國家情報會議”設立法案或將日本引上危險道路 】8日下午，日本關東學院大學名譽教授足立昌勝圍繞“國家情報會議”設立法案在東京舉行演講會。他指出，這一法案缺乏充分依據，未來可能被用於強化情報監控和推動軍事擴張，將對日本發展道路帶來深遠影響。足立擔憂，未來“國家情報會議”可能與國家安全保障會議等機構形成彼此強化的運作機制，不斷擴大情報收集範圍，並以此為依據推動新的安保和軍事政策出臺，為日本軍事擴張提供所謂“正當性”，進而將日本引向一條危險的道路。（新華社）"
-    },
-    {
-      "id": "mkt:019ea792-159b-788b-9433-cd9927ee9c73",
-      "time": "2026-06-08 22:10:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "BVN.O",
-        "Impact bearish",
-        "BAP.O"
-      ],
-      "text": "US-listed Peruvian shares fell after a conservative candidate took a lead in a tight presidential race. Buenaventura down 2.4%, Intercorp Financial down 2.6%, Credicorp down 5.1%."
     }
   ]
 }
