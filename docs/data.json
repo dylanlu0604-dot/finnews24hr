@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-15 22:22:37",
-  "count": 18338,
+  "updated": "2026-06-15 22:26:50",
+  "count": 18335,
   "items": [
+    {
+      "id": "4936831",
+      "time": "2026-06-15 22:25:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：波蘭暫停向烏克蘭移交米格 - 29 戰鬥機，直至雙方達成無人機技術相關協議。波蘭國防部副部長表示，華沙方面希望借鑑烏克蘭在無人機蜂群與攔截型無人機領域的實戰經驗。"
+    },
+    {
+      "id": "4936830",
+      "time": "2026-06-15 22:25:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩真主黨歡迎美伊達成諒解備忘錄】黎巴嫩真主黨15日發表宣告，對美伊達成諒解備忘錄表示歡迎，稱其有助於包括黎巴嫩在內的各條戰線實現全面停火。真主黨在宣告中說，達成諒解備忘錄是一項“重大成就”，並讚揚伊朗在談判中始終注重維護黎巴嫩權益、推動結束衝突。宣告還表示，真主黨武裝力量將繼續捍衛黎巴嫩主權，不會接受針對黎巴嫩的任何新襲擊。 (新華社)"
+    },
+    {
+      "id": "4936829",
+      "time": "2026-06-15 22:24:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "野村控股策略師：霍爾木茲海峽預計將於週五重新開放，因此從現在到那時可能會有一段令人焦慮的等待期。以色列在此期間的舉動也可能成為變數。"
+    },
+    {
+      "id": "4936828",
+      "time": "2026-06-15 22:24:24",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通：投資者認為，油價下跌將降低發達市場央行採取更激進加息措施的必要性】摩根大通跨資產策略主管Fabio Bassi：投資者認為，油價下跌將降低發達市場央行採取更激進加息措施的必要性。市場參與者已經習慣中東局勢訊息反覆帶來的影響，因此對當前局勢仍保持一定程度的懷疑。預計10年期美國國債收益率將在年底時接近4.70%。如果收益率升破該水平，將為長期投資者提供買入機會。"
+    },
+    {
+      "id": "4936827",
+      "time": "2026-06-15 22:22:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奈及利亞霍亂疫情持續蔓延】奈及利亞近來的霍亂疫情持續蔓延，該國高原州衛生部門14日報告5例死亡病例，此前博爾諾州已報告85例死亡病例。高原州衛生部門14日報告，該州目前累計確診病例11例，疑似病例53例，死亡病例5例。據博爾諾州衛生部門統計的資料，今年5月1日至6月7日期間，該州報告85例死亡病例，累計確診病例達8457例。（新華社）"
+    },
     {
       "id": "mkt:019ecba9-2547-7dd8-b010-d3e0eeaaee76",
       "time": "2026-06-15 22:22:00",
@@ -43,6 +86,18 @@
         "國際"
       ],
       "text": "美國軍事顧問團表示，在定於6月19日完成與伊朗的協議之前，美國對伊朗港口的封鎖將繼續生效。"
+    },
+    {
+      "id": "4936822",
+      "time": "2026-06-15 22:19:01",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美債全線上揚 伊朗協議促使交易員削減對美聯儲的加息押注】美債上漲，伊朗臨時協議達成的訊息傳出後，投資者降低對美聯儲加息的預期。各期限美債收益率均下降，對貨幣政策變化最為敏感的短期債券收益率領跌。互換市場交易員預計，美聯儲12月前加息25個基點的可能性約為70%，低於上週五的約80%。布倫特原油價格下跌約5%，緩解了市場對通脹的擔憂。美元走低。美債價格上漲，因投資者樂觀預期伊朗衝突的解決將有助於重新開放霍爾木茲海峽並降低油價。這一走勢的影響遠不止於規模31萬億美元的美債市場，鑑於美國債券是全球借貸成本的基準，對從公司債、新興市場資產等諸多市場都有影響。而美元的下跌則與避險需求下降有關。“投資者認為，油價下跌將降低發達市場央行採取更激進加息措施的必要性，”摩根大通跨資產策略主管Fabio Bassi表示。“市場參與者已經習慣中東局勢訊息反覆帶來的影響，因此對當前局勢仍保持一定程度的懷疑。”Bassi預計，10年期美國國債收益率將在年底時接近4.70%。他認為，如果收益率升破該水平，將為長期投資者提供買入機會。"
     },
     {
       "id": "te:economy:559082",
@@ -168606,91 +168661,6 @@
         "觀點"
       ],
       "text": "花旗集團首次覆蓋 Cerebras 系統公司，給予買入評級。"
-    },
-    {
-      "id": "4924358",
-      "time": "2026-06-08 22:26:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【禮來股價上漲4%續刷記錄新高 Foundayo減重效果顯著】禮來股價上漲4%，報1176.650美元/股，續刷記錄新高，總市值報1.11萬億美元。訊息面上，6月7日，禮來在美國糖尿病協會年度科學會議上公佈其實驗性減肥藥Foundayo的最新分析資料，顯示在接受最高劑量治療的ATTAIN-1試驗中，超重或肥胖女性在72周內體重減輕了12.8%至14.4%，且減重效果不受絕經過渡狀態影響，有望擴大其肥胖症產品線的潛在市場。"
-    },
-    {
-      "id": "te:markets:557330",
-      "time": "2026-06-08 22:24:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Canadian Stocks Rebound After Sharp Selloff — The S&P/TSX Composite Index gained nearly 1% to trade above 34,500 on Monday, recovering part of Friday’s decline, when the benchmark posted its largest drop since February 12th. Stable bond yields supported financial stocks and the broader market as investors took comfort from signs that weekend strikes between Iran and Israel were unlikely to trigger a broader escalation of the conflict. Banks led gains, with RBC, TD Bank, and BMO all rising around 1%. Energy shares also advanced as oil prices remained elevated despite retreating from earlier highs, with Canadian Natural gaining more than 2% and Suncor up nearly 3%. Meanwhile, gold prices were little changed, easing pressure on mining stocks. Barrick and Franco-Nevada added more than 0.6%."
-    },
-    {
-      "id": "mkt:019ea79e-b552-7226-8cb6-94e88ac19772",
-      "time": "2026-06-08 22:24:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said no known casualties have been reported after sirens sounded in northern Israel."
-    },
-    {
-      "id": "4924356",
-      "time": "2026-06-08 22:23:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列北部響起警報後，以國防軍作出回應，目前暫無人員傷亡報告。"
-    },
-    {
-      "id": "mkt:019ea79e-378f-7226-8cb6-8d4250297a9a",
-      "time": "2026-06-08 22:23:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "The Israel Defense Forces said it detected a projectile that landed near its troops in southern Lebanon."
-    },
-    {
-      "id": "4924355",
-      "time": "2026-06-08 22:23:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“空天地海”一體化監測網路 繪就經略海洋新“藍”圖】6月8日，是第18個世界海洋日，也是我國第19個全國海洋宣傳日。中國擁有總長約3.2萬公里的海岸線，海域遼闊，接近陸地領土面積的三分之一。推進中國式現代化，必須高效開發利用海洋，推動海洋經濟高質量發展，走出一條具有中國特色的向海圖強之路。那麼，該如何守護好我們身邊的這片蔚藍、向海圖強，推動海洋經濟高質量發展呢？周智是海南大學珊瑚礁保護團隊核心成員。從事珊瑚礁保護和研究10多年，2025年開始，周智博士和他的團隊在三亞珊瑚礁國家級自然保護區，有了一整套對珊瑚礁生態系統全方位實時監測的網路。（央視新聞）"
-    },
-    {
-      "id": "4924354",
-      "time": "2026-06-08 22:23:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：偵測到1枚發射物，墜落在黎巴嫩南部以軍駐地附近。"
-    },
-    {
-      "id": "te:markets:557329",
-      "time": "2026-06-08 22:23:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index at Over 1-Month Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, retreated for the seventh consecutive session on Monday, dropping about 2.2% to the lowest since May 5 at 2,916 points, pressured by the larger vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slipped 3.6% to 4,719 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, decreased 18 points to 2,218 points. On the other hand, the supramax index rose 8 points to 1,596 points."
-    },
-    {
-      "id": "4924353",
-      "time": "2026-06-08 22:22:47",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "加拿大財政部：利用加拿大新增貸款計劃的航空公司必須限制高管薪酬，並維持在加拿大的業務運營。"
     }
   ]
 }
