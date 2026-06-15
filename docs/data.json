@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-16 02:25:39",
-  "count": 18242,
+  "updated": "2026-06-16 02:29:31",
+  "count": 18239,
   "items": [
+    {
+      "id": "mkt:019ecc89-cac4-7dd8-b015-d52382d6094f",
+      "time": "2026-06-16 02:27:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【NVIDIA to issue investment-grade bonds for first time in five years; subscription demand hits $85bn】NVIDIA is expected to raise about $25bn through an investment-grade bond offering, with subscription demand said to exceed three times the planned size and reach roughly $85bn, people familiar with the matter said. The sale will be split into seven tranches maturing from two to 30 years. The longest-dated tranche was priced at about 65bps over U.S. Treasury yields, the sources said. Proceeds will be used to refinance existing debt and for other corporate purposes. This would be NVIDIA’s first investment-grade bond issue in five years."
+    },
+    {
+      "id": "4937014",
+      "time": "2026-06-16 02:26:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加駐美大使：對美貿易談判中聚焦於尋求高額的特定行業關稅減免】加拿大駐美大使表示，加拿大在與華盛頓的貿易談判中的首要任務是，尋求減免美國對鋼鐵、鋁和汽車等關鍵工業行業徵收的高額關稅。 曾任養老基金和貝萊德高管的馬克·懷斯曼表示，加拿大人不應過度關注將於7月1日開始的、有關現有美國墨西哥加拿大貿易協議（USMCA）的正式審議程式。懷斯曼對商界聽眾表示，以美國貿易代表賈米森·格里爾為首的特朗普政府高階官員已表示，他們希望保留該協定，但會作出修改。即使7月1日之後沒有達成續簽協議，美墨加協定的條款也將在未來十年內繼續有效，直至2036年。"
+    },
     {
       "id": "te:markets:559110",
       "time": "2026-06-16 02:25:13",
@@ -167693,52 +167715,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: XRP Increases by 1.97% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.97% increase."
-    },
-    {
-      "id": "4924617",
-      "time": "2026-06-09 02:29:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "淡水河谷執行長稱，公司計劃依託自有資產發展，而非開展併購活動。"
-    },
-    {
-      "id": "mkt:019ea87e-e37c-733a-9234-3ce289ff9c39",
-      "time": "2026-06-09 02:29:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【6.1-magnitude earthquake offshore western Cuba】USGS reported a 6.1-magnitude earthquake at 18:00 GMT on June 8 (02:00 Beijing time on June 9) about 104 km northwest of Mantua, Cuba; epicenter 22.80°N, 85.14°W, depth 10 km."
-    },
-    {
-      "id": "mkt:019ea87e-555f-733a-9234-3779f9cbaaa4",
-      "time": "2026-06-09 02:28:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israeli media: Trump pressured Netanyahu to stop escalating strikes on Iran】Israel Channel 12 reported President Trump told Prime Minister Netanyahu not to let clashes with Iran escalate into a full-scale war, warning “you may soon have to face Iran alone.” Trump said he urged Netanyahu not to carry out retaliatory strikes after Iran’s recent missile attack; the call ended without a clear agreement and Netanyahu did not disclose a final decision. Netanyahu then consulted defence officials and informed US Secretary of State Rubio he had decided to strike Iran, Trump said, adding Israel notified the US very late and was already en route to strike; Trump said he managed to reduce the scale of the attack. Trump said five regional mediation partners had asked him to press Netanyahu to halt the strikes and advance a peace accord, and he remains willing to reach an agreement with Iran, which he said also wants one."
-    },
-    {
-      "id": "4924616",
-      "time": "2026-06-09 02:27:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "淡水河谷執行長表示，東南亞、美國及歐洲地區需求走強；其預計印度鋼鐵產量十年內將翻番。"
-    },
-    {
-      "id": "4924615",
-      "time": "2026-06-09 02:26:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "淡水河谷執行長稱，關鍵礦產的需求形勢極為向好。"
     }
   ]
 }
