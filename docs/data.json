@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-16 00:46:51",
-  "count": 18352,
+  "updated": "2026-06-16 00:50:59",
+  "count": 18354,
   "items": [
+    {
+      "id": "4936987",
+      "time": "2026-06-16 00:49:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌加強在美國阿拉巴馬州的存在，2026-27年將投資15億美元。"
+    },
+    {
+      "id": "mkt:019ecc30-4f80-7dd8-b014-02b25c600bec",
+      "time": "2026-06-16 00:49:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "N12 reports Israeli Prime Minister Netanyahu will hold a press conference at 2:00 p.m. EDT (02:00 Beijing time today)."
+    },
+    {
+      "id": "te:markets:559101",
+      "time": "2026-06-16 00:46:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Extend Rise on US-Iran Deal — US equities rose further on Monday after the US and Iran said they agreed to a deal that ends their war and restores energy exports from the Middle East. The Dow gained 700 points to a new record, while the S&P 500 gained 2% and the Nasdaq rose 3%. The deal was set to be signed on Friday, with reports indicating it includes Iran cleaning the Strait of Hormuz from mines and naval blockades being lifted for all exports from the Persian Gulf. Energy prices and bond yields fell, improving macroeconomic conditions and boosting risk demand in the heavyweight tech sector. Oracle and Meta surged 4% while Nvidia and Amazon gained 3%. Meanwhile, SpaceX was 10% higher following its 20% surge on its IPO day last session after CEO Musk signaled it may have $1 trillion in revenue in 2031. Chip producers continued to rally on more cash being raised by AI developers and the influx of orders that translates for AI infrastructure companies. In turn, Fox sank 15% after buying Roku for $22 billion."
+    },
     {
       "id": "4936986",
       "time": "2026-06-16 00:43:54",
@@ -168756,14 +168785,6 @@
         "國際"
       ],
       "text": "【美國代表團將出訪委內瑞拉，推動當地修改石油相關法律】知情人士稱，美國官員代表團將於近日前往委內瑞拉，推動該國修訂油氣相關法律。此次出訪旨在回應國際石油企業的相關訴求，美方暫無高層官員隨行。"
-    },
-    {
-      "id": "mkt:019ea821-80d0-733a-9231-bee205045cfb",
-      "time": "2026-06-09 00:47:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran Civil Aviation Organization says nationwide air traffic restored】Iran's Civil Aviation Organization said on the evening of the 8th local time that flight restrictions have been lifted and nationwide air traffic restored after ensuring safety conditions and coordinating with relevant agencies."
     }
   ]
 }
