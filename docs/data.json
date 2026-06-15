@@ -1,7 +1,166 @@
 {
-  "updated": "2026-06-15 16:04:00",
-  "count": 18272,
+  "updated": "2026-06-15 16:07:52",
+  "count": 18267,
   "items": [
+    {
+      "id": "4935968",
+      "time": "2026-06-15 16:06:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊創業基地公司退出葡萄子傳媒】天眼查App顯示，近日，葡萄子（北京）傳媒科技有限公司發生工商變更，原股東深圳市騰訊創業基地發展有限公司退出。該公司成立於2015年2月，註冊資本約3333萬人民幣，法定代表人為李華霖，經營範圍包括網路技術研發、計算機技術研發、技術服務等，現由葡萄子媒體娛樂製作公司、李華霖共同持股。"
+    },
+    {
+      "id": "4935967",
+      "time": "2026-06-15 16:06:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創源股份：與米格斯合作推出的世界盃系列產品已陸續在酷樂潮玩門店上線】創源股份今日在互動平臺表示，公司與米格斯合作推出的世界盃系列產品已陸續在酷樂潮玩門店上線，本次合作以世界盃主題抱枕為核心品類。公司子公司禾源紡織品的產品也覆蓋球類比賽周邊產品，主要包含：旗幟，圍巾，球迷帽，束口袋等。"
+    },
+    {
+      "id": "4935966",
+      "time": "2026-06-15 16:06:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，巴里克礦業股價上漲3.5%，紐蒙特礦業股價上漲4%。"
+    },
+    {
+      "id": "4935965",
+      "time": "2026-06-15 16:06:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "中東地區國際主權債券全線上漲，部分沙特債券漲幅超1美分，巴林、卡達、阿曼的債券漲幅均在0.5至0.7美分之間。"
+    },
+    {
+      "id": "4935964",
+      "time": "2026-06-15 16:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將意法半導體評級從“中性”下調至“賣出”。"
+    },
+    {
+      "id": "te:markets:559002",
+      "time": "2026-06-15 16:05:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 3.90% — Top commodity gainers are Platinum (3.90%), Silver (3.78%) and Gold (2.52%). Biggest loser is Silicon (-0.87%)."
+    },
+    {
+      "id": "4935963",
+      "time": "2026-06-15 16:04:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "中信證券維持蘋果“增持”評級，目標價300美元。"
+    },
+    {
+      "id": "4935962",
+      "time": "2026-06-15 16:04:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甘源食品：世界盃期間推出的創意產品“玩啤豆”已逐步進入終端市場】甘源食品今日在互動平臺表示，公司於2026年世界盃期間推出的創意產品“玩啤豆”，旨在實現品牌與體育消費場景的契合，提升消費者對公司豆類產品的認知與互動。目前該產品已逐步進入終端市場，現階段該業務在公司營收佔比較低，對公司業績貢獻較小，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "mkt:019eca4f-8a5a-7dd8-b004-d6c8f10b6b2b",
+      "time": "2026-06-15 16:04:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "The German Shipowners' Association said it is cautiously optimistic about the US‑Iran agreement but that it remains to be seen whether the deal will secure safe passage through the Strait of Hormuz."
+    },
+    {
+      "id": "4935961",
+      "time": "2026-06-15 16:04:29",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "派拉蒙天空之舞股價盤前上漲5.8%，此前美國司法部已批准該公司收購華納兄弟。"
+    },
+    {
+      "id": "4935960",
+      "time": "2026-06-15 16:04:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，達美航空股價上漲4.5%，聯合航空股價上漲4.7%。"
+    },
+    {
+      "id": "4935959",
+      "time": "2026-06-15 16:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國航運公司協會：美伊協議能否保障霍爾木茲海峽航行安全仍待觀察。"
+    },
+    {
+      "id": "mkt:019eca4f-37a4-7dd8-b004-cf5eec60951d",
+      "time": "2026-06-15 16:04:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Emails show Tesla (TSLA.O) provided European regulators with misleading data on its Full Self-Driving system."
+    },
+    {
+      "id": "4935958",
+      "time": "2026-06-15 16:04:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前，半導體股普漲】美股盤前，半導體股普漲，美光科技漲超5%，超微電腦漲超5%，AMD漲近5%，英特爾漲近4%，阿斯麥漲近3%。"
+    },
+    {
+      "id": "4935957",
+      "time": "2026-06-15 16:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴姆勒卡車：計劃未來數年投入數億歐元（規模介於兩三億歐元之間）。"
+    },
+    {
+      "id": "4935956",
+      "time": "2026-06-15 16:03:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，埃克森美孚股價下跌1.9%，雪佛龍股價下跌1.8%。"
+    },
+    {
+      "id": "4935955",
+      "time": "2026-06-15 16:03:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊宣佈元寶接入ima知識庫】記者瞭解到，騰訊宣佈元寶接入ima知識庫。使用者在元寶內搜尋時，可直接呼叫ima公開知識庫中沉澱的海量專業知識庫內容，獲得更精準、可溯源的AI回答。同時，點選信源引用卡片，還可直接跳轉至ima原文，並一鍵加入個人知識庫。目前，ima知識號已覆蓋金融、法律、醫療、教育等20餘個行業，沉澱海量專業檔案，知識內容被應用超過1.4億次。(科創板日報)"
+    },
+    {
+      "id": "4935954",
+      "time": "2026-06-15 16:03:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國黨建工作座談會在京召開】全國黨建工作座談會15日在京召開，中共中央政治局常委、中央書記處書記蔡奇出席會議並講話，中共中央政治局常委、中央紀律檢查委員會書記李希出席會議。會議認為，黨的十八大以來，以習近平同志為核心的黨中央圍繞建設什麼樣的長期執政的馬克思主義政黨、怎樣建設長期執政的馬克思主義政黨的重大時代課題，提出一系列新理念新思想新戰略，形成習近平黨建思想。習近平黨建思想是習近平新時代中國特色社會主義思想的重要組成部分，為發展馬克思主義建黨學說作出重大原創性貢獻，對強黨強國具有重大現實意義和長遠指導意義。（新華社）"
+    },
     {
       "id": "mkt:019eca4e-642b-7dd8-b004-c7c4f3c6fe28",
       "time": "2026-06-15 16:03:15",
@@ -167702,235 +167861,6 @@
         "市場"
       ],
       "text": "【乘聯分會：5月全國乘用車市場零售151萬輛，同比下降22.1%】乘聯分會公佈資料顯示，5月1-31日，全國乘用車市場零售151.0萬輛，同比下降22.1%，環比增長9.2%；今年以來累計零售709.9萬輛，同比下降19.5%。2026年5月國內乘用車市場呈現總量承壓、環比走強、結構極致分化的執行態勢，整體未實現實質性復甦。本月小幅回暖主要得益於車市“反內卷”成效凸顯，車企促銷力度趨於穩定，淡化了消費者降價觀望預期，疊加北京車展的熱度提振，釋放了部分滯留購車需求，形成階段性終端回暖。"
-    },
-    {
-      "id": "4923452",
-      "time": "2026-06-08 16:07:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【大秦鐵路：5月貨物運輸量3885萬噸，同比增長17.87%】大秦鐵路公告，2026年5月大秦線完成貨物運輸量3885萬噸，同比增長17.87%；日均運量125.32萬噸，日均開行重車88.4列，其中日均開行2萬噸列車63.5列；2026年1-5月累計完成貨物運輸量1.67億噸，同比增長6.76%。"
-    },
-    {
-      "id": "mkt:019ea645-ffb1-7ccd-aaa4-69ff351083e8",
-      "time": "2026-06-08 16:07:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CPCA: BYD exported 155,944 vehicles in May."
-    },
-    {
-      "id": "mkt:019ea645-9e44-7ccd-aaa4-60353073d3ff",
-      "time": "2026-06-08 16:07:18",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "【LME daily on-warrants and canceled warrants】LME on-warrants and canceled warrants: Copper on-warrants 230,975 t (-9,075 t); canceled warrants 145,800 t (+6,625 t). Aluminium on-warrants 254,625 t (no change); canceled warrants 76,325 t (-2,250 t). Zinc on-warrants 92,450 t (-200 t); canceled warrants 18,200 t (-100 t). Nickel on-warrants 262,350 t (-306 t); canceled warrants 11,868 t (+288 t). Lead on-warrants 284,825 t (-2,375 t); canceled warrants 24,425 t (+1,275 t). Tin on-warrants 8,340 t (-25 t); canceled warrants 680 t (+25 t)."
-    },
-    {
-      "id": "mkt:019ea645-55f5-7ccd-aaa4-5a842a186f89",
-      "time": "2026-06-08 16:07:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【LME non-ferrous metals inventory daily】LME stocks — copper 376,775 t (-2,450 t); aluminium 330,950 t (-2,250 t); zinc 110,650 t (-300 t); nickel 274,218 t (-18 t); lead 309,250 t (-1,100 t); tin 9,020 t (unchanged)."
-    },
-    {
-      "id": "4923451",
-      "time": "2026-06-08 16:06:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠通科技：暫無核電相關裝置設計、製造及配套資質】惠通科技6月8日在互動平臺表示，公司目前暫無核電相關裝置設計、製造及配套資質，不具備生產核電類裝置。"
-    },
-    {
-      "id": "4923450",
-      "time": "2026-06-08 16:06:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【隧道股份在廣東成立新公司 註冊資本4000萬】天眼查App顯示，近日，廣東城更建設有限公司成立，法定代表人為陳偉，註冊資本4000萬人民幣，經營範圍包括工程管理服務、對外承包工程、園林綠化工程施工等，由隧道股份（600820）旗下上海城建市政工程（集團）有限公司全資持股。"
-    },
-    {
-      "id": "4923449",
-      "time": "2026-06-08 16:06:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博納影業：將於近日開展2026年股東回饋活動】博納影業(001330)6月8日公告，公司將於近日開展“博納影業2026年股東回饋”活動，符合條件的股東可以透過微信小程式【博納影票】進行股東身份認證，認證透過的公司股東可以根據持股數量區間獲得對應電子觀影券禮包。本次活動時間為2026年6月15日（星期一）9:30至2026年6月24日（星期三）24:00，為期10天。"
-    },
-    {
-      "id": "4923448",
-      "time": "2026-06-08 16:06:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【瑞士寶盛對原油維持謹慎看法】以色列和伊朗最新的敵對行動威脅到過去幾周的衝突平衡，但瑞士寶盛堅持其謹慎觀點，並預計夏季過後油價將走低。經濟學和下一代研究主管Norbert Rucker表示，拋開地緣政治噪音不談，石油市場具有韌性，且目前已很好地消化了供應衝擊。Rucker在一份報告中稱，週末有幾艘船隻透過了霍爾木茲海峽。他說，更大程度的貿易務實主義體現在困在海灣地區的賣家和主要為亞洲的買家與伊朗達成的不同雙邊協議中。他補充道，儘管目前的敵對行動可能會在短期內加劇觀望情緒，但共同利益，尤其是利潤機會，應該會使這些過境活動隨著時間的推移而不斷增加。"
-    },
-    {
-      "id": "mkt:019ea645-0a9c-7ccd-aaa4-548e7f24e26d",
-      "time": "2026-06-08 16:06:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Syrian state TV reported an Iranian missile, intercepted by Israel, fell near Quneitra in Syria."
-    },
-    {
-      "id": "mkt:019ea644-badb-7ccd-aaa4-4e8de633f2f4",
-      "time": "2026-06-08 16:06:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "NIO.O",
-        "Impact bullish",
-        "XPEV.O",
-        "Impact bearish",
-        "LI.O"
-      ],
-      "text": "【CPCA: May car-market rebound structural; electrification upgrades and exports now core long-term supports】CPCA data: May retail sales of passenger vehicles 1.510 mln units (May 1-31), down 22.1% YoY and up 9.2% MoM; YTD retail 7.099 mln, down 19.5% YoY. Market-characteristics: inventory-led competition intensifying and industry divergence widening. NEV growth is no longer broad-based—high-end electric models are surging while low-end, budget models and county/township and entry-level segments are contracting sharply. The short-lived new-car stimulus is weakening market pull. Channel stress is rising: accelerated, often forced, destocking; dealers generally loss-making and operational risks increasing. Conclusion: May improvement reflects only a structural repair; product-level electrification upgrades and overseas exports have become the primary long-term growth supports for the sector."
-    },
-    {
-      "id": "4923447",
-      "time": "2026-06-08 16:06:05",
-      "tags": [
-        "行業"
-      ],
-      "text": "乘聯分會：5月特斯拉中國出口38,701輛；比亞迪5月份出口汽車155,944輛。"
-    },
-    {
-      "id": "mkt:019ea644-85c9-7ccd-aaa4-47b567419aca",
-      "time": "2026-06-08 16:06:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "CPCA: Tesla's China exports totaled 38,701 vehicles in May."
-    },
-    {
-      "id": "4923446",
-      "time": "2026-06-08 16:05:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞國家電視臺表示，一枚伊朗導彈遭以色列攔截後，墜落於敘利亞庫奈特拉附近。"
-    },
-    {
-      "id": "mkt:019ea644-5428-7ccd-aaa4-3a1786bfcbd7",
-      "time": "2026-06-08 16:05:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "CPCA said China's May new-energy vehicle domestic retail penetration was 62.9%, a record high."
-    },
-    {
-      "id": "mkt:019ea644-20a6-7ccd-aaa4-30db8fab9498",
-      "time": "2026-06-08 16:05:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "NIO.O",
-        "Impact bearish",
-        "LI.O",
-        "XPEV.O"
-      ],
-      "text": "CPCA: China new-energy vehicle retail sales in May 950,000 units, down 7.5% YoY."
-    },
-    {
-      "id": "4923445",
-      "time": "2026-06-08 16:05:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【埃尼與馬石油成立印尼、馬來西亞業務合資企業Searah】6月8日，義大利埃尼公司和馬來西亞國家石油公司在一份宣告中表示，新成立的獨立合資企業Searah已正式成立，雙方各持50%股份，該企業整合了雙方在印尼和馬來西亞的關鍵業務。宣告顯示，Searah將以日產量超過30萬桶油當量的初始產能起步，目標是在未來三年內突破50萬桶油當量。"
-    },
-    {
-      "id": "mkt:019ea643-d8b9-7ccd-aaa4-2f8e42b5f28a",
-      "time": "2026-06-08 16:05:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "CPCA: China passenger vehicle retail sales rose 9.2% MoM in May."
-    },
-    {
-      "id": "4923444",
-      "time": "2026-06-08 16:05:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：自昨晚以來，伊朗最高領袖穆傑塔巴與伊朗高階官員之間的溝通已被中斷。"
-    },
-    {
-      "id": "4923443",
-      "time": "2026-06-08 16:05:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡辦公室：我們將在必要時繼續在黎巴嫩各地區開展行動。"
-    },
-    {
-      "id": "te:markets:557218",
-      "time": "2026-06-08 16:05:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 2.21% — Top commodity losers are Platinum (-2.21%), Iron Ore CNY (-0.98%) and Gold (-0.79%)."
-    },
-    {
-      "id": "mkt:019ea643-9d05-7ccd-aaa4-22bb52faa572",
-      "time": "2026-06-08 16:05:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Since last night, communications between Iran's Supreme Leader Mujtaba and senior Iranian officials have been severed."
-    },
-    {
-      "id": "4923442",
-      "time": "2026-06-08 16:04:58",
-      "tags": [
-        "行業"
-      ],
-      "text": "【乘聯分會：5月新能源乘用車生產達到139.4萬輛，同比增長18.6%】據乘聯分會，5月新能源乘用車生產達到139.4萬輛，同比增長18.6%，環比增長15.3%。1-5月累計新能源乘用車生產達到530.8萬輛，同比增長0.9%。5月新能源乘用車批發銷量達到135.2萬輛，同比增長10.6%，環比增長10.3%；1-5月新能源乘用車批發銷量達到530.6萬輛，同比增長1.7%。5月常規燃油乘用車批發銷量達到86萬輛，同比下降21%，環比下降2%。5月新能源乘用車市場零售95.0萬輛，同比下降7.5%，環比增長12.4%；1-5月新能源乘用車市場零售369.7萬輛，同比下降15.1%。5月常規燃油乘用車零售56萬輛，同比下降39%，環比增長5%。5月新能源乘用車廠商出口42.4萬輛，同比增長112.6%，環比增長4.4%；1-5月新能源乘用車廠商出口173.2萬輛，同比增長117.3%，5月常規燃油乘用車出口36.1萬輛，同比增長46%，環比增長0.3%。"
-    },
-    {
-      "id": "4923441",
-      "time": "2026-06-08 16:04:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將保時捷目標價從40歐元上調至60歐元。"
     }
   ]
 }
