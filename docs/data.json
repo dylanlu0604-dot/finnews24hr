@@ -1,7 +1,223 @@
 {
-  "updated": "2026-06-15 16:07:52",
-  "count": 18267,
+  "updated": "2026-06-15 16:12:07",
+  "count": 18265,
   "items": [
+    {
+      "id": "4935982",
+      "time": "2026-06-15 16:11:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立華股份：實控人及其一致行動人持股比例降至57.99%】立華股份公告稱，2026年3月10日至4月3日，實控人之一致行動人昊鳴技術減持312.26萬股；6月15日，2022年限制性股票激勵計劃第二期歸屬完成致總股本增加。上述減持與被動稀釋，使實控人及其一致行動人合計持股比例從58.99%降至57.99%，觸及1%整數倍。本次權益變動不觸及要約收購，不影響控股股東、實控人及公司治理與經營。"
+    },
+    {
+      "id": "mkt:019eca55-89ec-7dd8-b005-0dbf7a666028",
+      "time": "2026-06-15 16:11:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "S&P data show Bahrain's five-year CDS tightened 11 bps to 217 bps from last Friday's close; Egypt's five-year CDS fell 7 bps; Dubai's, Qatar's and Saudi Arabia's five-year CDS each fell 1 bp."
+    },
+    {
+      "id": "mkt:019eca55-81a9-7dd8-b005-03a5b16944ba",
+      "time": "2026-06-15 16:11:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Research firm: Qianwen AI glasses top-selling nationwide Jan-May 2026】Huaxinren Consulting sales data show Qianwen AI glasses were the best-selling AI glasses in China from January to May 2026. AVC online retail monitoring reported Qianwen’s full series, including Quark AI glasses, held a 30.4% online retail sales value share in March–April, nearly one-third of the market and the largest online share. Qianwen is scheduled to roll out an upgraded model in July to expand everyday and workplace use cases."
+    },
+    {
+      "id": "4935981",
+      "time": "2026-06-15 16:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：千問AI眼鏡1-5月全國銷量第一】根據華信人諮詢出具的市場銷量資料，2026年1-5月期間，千問AI眼鏡在AI眼鏡品類中銷量位居全國第一。此前，奧維雲網（AVC）線上零售監測資料顯示，2026年3月至4月，千問AI眼鏡全系列（含夸克AI眼鏡）線上市場零售額份額達30.4%，接近整體市場的三分之一，位居線上市場第一。據瞭解，7月千問AI眼鏡還將迎來新一輪升級釋出，進一步拓展AI眼鏡在日常生活和工作場景中的應用體驗。"
+    },
+    {
+      "id": "4935980",
+      "time": "2026-06-15 16:10:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【分析師：美伊協議並非完全迴歸衝突前世界】Tickmill Group分析師Patrick Munnelly在一份報告中表示，美伊和平協議並非完全迴歸衝突前的世界。他指出，儘管該協議是一個利好風險的發展，並引發了全球股市的強勁反彈，但油價仍高於2月份的水平，通脹風險也沒有一夜之間消失。他指出，即使在該協議之後，市場仍反映美聯儲加息約15個基點的預期。“這表明投資者並未將該協議視為一次全面的宏觀重置，”Munnelly說，並補充道，投資者對通脹、勞動力市場韌性和央行決策保持著更為謹慎的看法。"
+    },
+    {
+      "id": "4935979",
+      "time": "2026-06-15 16:10:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "巴林五年期信用違約互換利差較上週五收盤收窄11個基點，至217個基點；埃及收窄7個基點；迪拜、卡達和沙特各收窄1個基點。"
+    },
+    {
+      "id": "4935978",
+      "time": "2026-06-15 16:10:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【巴克萊稱，隨著供應復甦遇上需求變化，油價處於十字路口】巴克萊表示，在美國和伊朗達成協議後，隨著地緣政治風險緩解，石油市場面臨三種可能的路徑。在看漲的情境下，透過霍爾木茲海峽的貿易供應正常化可能會推動消費反彈並引發補充庫存，而物流瓶頸會延遲供應的全面復甦，從而推高油價。該行的分析師表示，第二種更平衡的結果是，隨著市場適應供應增加的預期和較低的風險溢價，油價在最初下跌後企穩。伊朗的出口只會逐步恢復，這有助於將油價穩定在衝突前的水平之上。在更看跌的情境下，隨著交易員預期來自伊朗的更多原油以及沙烏地阿拉伯和阿聯酋的產量增加，原油價格將繼續下跌。巴克萊表示，即使現貨數量增長緩慢，單是對未來供應的預期就會推低原油價格。"
+    },
+    {
+      "id": "te:markets:559008",
+      "time": "2026-06-15 16:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Falls by 2.29% — Top commodity losers are Oat (-2.29%), Wheat (-2.02%) and Canola (-1.57%)."
+    },
+    {
+      "id": "mkt:019eca54-738e-7dd8-b004-fc6333ccb738",
+      "time": "2026-06-15 16:09:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "06658.HK",
+        "Impact bullish",
+        "02513.HK",
+        "01888.HK"
+      ],
+      "text": "Hong Kong close: Hang Seng Index up 0.5%, Hang Seng Tech Index up 1.28%. New listing Liuliumei (06658.HK) jumped 193% on debut; Zhipu (02513.HK) rose >32.5%; Huiju Technology (01729.HK) and Kingboard Laminates (01888.HK) both climbed >22%."
+    },
+    {
+      "id": "4935977",
+      "time": "2026-06-15 16:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍對黎南部多地發動襲擊】據黎巴嫩國家通訊社15日報道，以色列當天上午對黎南部多地發動襲擊，造成人員受傷。 報道說，以色列無人機對黎南部奈拜提耶地區一輛汽車實施空襲，有人員在襲擊中受傷。奈拜提耶地區兩座城鎮也遭到以軍炮擊。 此外，以色列無人機在黎南部賓特朱拜勒地區哈里斯村上空投下一枚震爆彈。以軍還在黎南部邁爾季歐雲地區希亞姆鎮實施了爆破行動。(新華社)"
+    },
+    {
+      "id": "4935976",
+      "time": "2026-06-15 16:09:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王府井：針對世界盃賽事消費熱潮統一策劃部署了專項營銷方案】王府井6月15日在互動平臺表示，公司針對世界盃賽事消費熱潮統一策劃部署了專項營銷方案，開展專題系列活動，活動自5月底至7月持續推動。公司作為FIFA國際足聯全球授權計劃的經銷商之一，落地2026世界盃線下零售快閃店。同期還將開展運動主題市集等線下體驗活動，同時集團開展全國會員抽獎等福利活動，聯動零售、餐飲、休閒全業態引流獲客。"
+    },
+    {
+      "id": "4935975",
+      "time": "2026-06-15 16:09:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國藥現代：他氟前列素滴眼液獲批，2025年銷售額1.25億元】國藥現代公告，控股子公司國藥集團三益藥業（蕪湖）有限公司收到國家藥品監督管理局核准簽發的他氟前列素滴眼液《藥品註冊證書》，劑型為眼用製劑，規格0.0015%（2.5ml:37.5μg），註冊分類為化學藥品4類。該藥品適用於降低開角型青光眼和高眼壓症患者升高的眼壓。根據米內網資料庫，他氟前列素滴眼液2025年全國公立醫療機構及城市藥店銷售額為人民幣1.25億元。目前國內還有瀋陽興齊眼藥、揚子江藥業、浙江尖峰藥業等企業獲得該藥品註冊證書並透過一致性評價。截止目前，國藥三益用於開展該專案的累計研發投入約人民幣805.83萬元（未經審計）。"
+    },
+    {
+      "id": "4935974",
+      "time": "2026-06-15 16:09:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【LME有色金屬庫存日報】倫敦金屬交易所（LME）有色金屬庫存及變化如下：1. 銅庫存361600噸，減少2500噸。2. 鋁庫存319500噸，減少425噸。3. 鋅庫存107150噸，減少600噸。4. 鎳庫存274932噸，減少6噸。5. 鉛庫存304850噸，減少1025噸。6. 錫庫存8775噸，減少75噸。"
+    },
+    {
+      "id": "4935973",
+      "time": "2026-06-15 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.457%，恒生科技指數漲1.331%】智譜漲34.002%，華虹宏力漲10.273%，聯想集團漲9.579%，極兔速遞-W漲7.176%，中芯國際漲6.909%，舜宇光學科技漲6.779%，MINIMAX-W漲6.768%。"
+    },
+    {
+      "id": "mkt:019eca53-a54d-7dd8-b004-f4cdcd386a67",
+      "time": "2026-06-15 16:08:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "ALK.O",
+        "Impact bullish",
+        "UAL.O"
+      ],
+      "text": "Following a U.S.-Iran peace agreement, oil prices fell and U.S. airline stocks climbed in premarket trading: Alaska Air +3.3%, JetBlue +4.2%, United Airlines +4.7%, Delta Air Lines +4.5%, American Airlines +3.7%."
+    },
+    {
+      "id": "mkt:019eca53-81de-7dd8-b004-eca73561dfa3",
+      "time": "2026-06-15 16:08:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Institution: US-Iran deal lifts gold over 2%】Spot and futures gold rose more than 2% after a tentative US-Iran agreement to end hostilities and reopen the Strait of Hormuz; oil fell and markets pared some concerns about upward pressure on interest rates. XTB analyst Kathleen Brooks said, \"The peace deal puts downward pressure on oil, easing inflation fears — its timing is notable as a busy week of central bank meetings begins.\" Traders will watch Fed Chair KEVIN WARSH at Wednesday's FOMC meeting for clues on the policy path, as the chance of rate hikes later this year may have diminished."
+    },
+    {
+      "id": "4935972",
+      "time": "2026-06-15 16:08:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美伊達成和平協議後油價下跌，美國航空股盤前交易上漲。阿拉斯加航空股價上漲3.3%，捷藍航空股價上漲4.2%，聯合航空股價上漲4.7%，達美航空股價上漲4.5%，美國航空股價上漲3.7%。"
+    },
+    {
+      "id": "4935971",
+      "time": "2026-06-15 16:08:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【退市華嶸：股票退市整理期剩餘4個交易日，期滿將摘牌】退市華嶸公告稱，公司股票於2026年6月1日進入退市整理期，為期15個交易日，預計最後交易日期為6月22日。截至6月15日已交易11個交易日，剩餘4個交易日，期滿後5個交易日內上交所將對公司股票予以摘牌。退市整理期首個交易日無漲跌幅限制，此後每日漲跌幅限制為10%。期間公司不籌劃或實施重大資產重組。公司提醒投資者及時了結相關業務，司法凍結提前辦續凍。"
+    },
+    {
+      "id": "mkt:019eca52-f480-7dd8-b004-e51c49d4fe8c",
+      "time": "2026-06-15 16:08:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Nickel",
+        "Aluminium"
+      ],
+      "text": "【LME daily on warrants and canceled warrants】LME on warrants and canceled warrants: copper on warrants 222,350 t, down 1,425 t; canceled 139,250 t, down 1,075 t. Aluminium on warrants 250,300 t, down 225 t; canceled 69,200 t, down 200 t. Zinc on warrants 91,050 t, down 850 t; canceled 16,100 t, up 250 t. Nickel on warrants 263,004 t, down 1,242 t; canceled 11,928 t, up 1,236 t. Lead on warrants 284,050 t, unchanged; canceled 20,800 t, down 1,025 t. Tin on warrants 7,795 t, down 155 t; canceled 980 t, up 80 t."
+    },
+    {
+      "id": "mkt:019eca52-ecf7-7dd8-b004-d80996b85fee",
+      "time": "2026-06-15 16:08:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【LME daily base metals stocks】LME stocks — copper 361,600 t (-2,500 t); aluminium 319,500 t (-425 t); zinc 107,150 t (-600 t); nickel 274,932 t (-6 t); lead 304,850 t (-1,025 t); tin 8,775 t (-75 t)."
+    },
+    {
+      "id": "4935970",
+      "time": "2026-06-15 16:08:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家郵政局釋出2026年5月中國快遞發展指數報告】經測算，2026年5月中國快遞發展指數為472.9，同比提升3.1%。其中發展規模指數為644.5，同比提升7%；服務質量指數為676.8，與去年同期基本持平；發展能力指數為234.7，同比提升3.3%；發展趨勢指數為60.6。5月，行業規模持續擴容，服務體系日趨多元，設施網路最佳化升級，對實體經濟支撐保障作用日益凸顯。"
+    },
+    {
+      "id": "4935969",
+      "time": "2026-06-15 16:07:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【顧家家居：調整定增發行價格由19.15元/股改為不低於基準日前20日均價80%】顧家家居公告，公司調整2025年度向特定物件發行股票方案，定價基準日由“第五屆董事會第十次會議決議公告日”調整為“發行期首日”，發行價格由“19.15元/股”調整為“不低於定價基準日前二十個交易日公司股票交易均價的80%”，發行數量由“不超過104,281,493股”調整為“按照募集資金總額除以發行價格確定，且不超過本次變更前的擬發行數量，即不超過104,281,493股（含本數），亦不超過本次發行前公司已發行總股本的30%”。本次發行方案的變更不構成重大變化，無需提交股東會審議。"
+    },
     {
       "id": "4935968",
       "time": "2026-06-15 16:06:52",
@@ -167637,230 +167853,6 @@
         "國際"
       ],
       "text": "印度石油部長表示：我國當前石油天然氣總儲備可供應76至80天。"
-    },
-    {
-      "id": "4923469",
-      "time": "2026-06-08 16:12:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【滬指失守4000點，紅利低波ETF華泰柏瑞（512890）逆市吸金！近20個交易日淨流入27億，機構：銀行板塊攻守兼備】6月8日，市場全天震盪調整，創業板指跌超3％，滬指跌超1％失守4000點。在此背景下，紅利低波ETF華泰柏瑞（512890）逆市漲0.52％，報1.165元，換手率2.54％，成交額8.37億元，居同類標的ETF首位。資金流向上，紅利低波ETF華泰柏瑞（512890）長期受資金青睞。近5個交易日資金淨流入7.5億元，近20個交易日資金淨流入27億元，近60個交易日資金淨流入31億元。截至2026年6月5日，紅利低波ETF華泰柏瑞（512890）流通規模為329.40億元。國信策略表示，往後看，短期A股整固不改中期向上趨勢，牛市依然延續。行業配置注重均衡配置，科技內部可能熱點切換，關注地產白酒等消費，以及供求改善的資源品。 銀河證券認為，銀行基本面拐點基本確立，2026年業績進入改善通道。國盛證券指出，當前銀行板塊投資核心聚焦核心營收恢復性增長帶來的估值修復主線，銀行板塊具備盈利修復的強確定性與高股息屬性，進一步凸顯了其攻守兼備的配置價效比。重點推薦兩條主線：一是基本面確定性強、業績增速彈性突出的優質區域城商行。優先選擇景氣度領先的經濟強省，在區域經濟紅利加持下，具備更強的資產擴表動能與信貸投放優勢。二是股息價效比高的國股行。關注估值較低，實現正增的股份行，隨著地產逐步企穩，後續經濟持續修復，預計優質股份行有較大估值修復空間。投資者可將紅利低波ETF華泰柏瑞（512890）作為底倉配置，無股票賬戶的投資者也可透過其場外聯接基金進行配置（A類：007466；C類：007467；I類：022678；Y類：022951）。"
-    },
-    {
-      "id": "4923468",
-      "time": "2026-06-08 16:11:58",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "歐盟理事會：這項新的鋼材市場監管規定引入了經修訂的關稅配額（TRQ）制度。"
-    },
-    {
-      "id": "4923467",
-      "time": "2026-06-08 16:11:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會：這些（鋼鐵）新規將取代將於6月30日到期的現行歐盟鋼鐵保障措施。"
-    },
-    {
-      "id": "4923466",
-      "time": "2026-06-08 16:10:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會：已透過一項新規，旨在建立全新框架，以保護歐盟鋼鐵市場免受全球鋼鐵產能過剩帶來的與貿易相關的負面影響。"
-    },
-    {
-      "id": "4923465",
-      "time": "2026-06-08 16:10:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破98美元/桶，日內漲5.30%。"
-    },
-    {
-      "id": "mkt:4e0e7167-d792-4f0a-b71d-8ac8c6d80099",
-      "time": "2026-06-08 16:10:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian media reported explosions heard in eastern and southern Tehran."
-    },
-    {
-      "id": "4923464",
-      "time": "2026-06-08 16:10:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗媒體報道稱，德黑蘭傳出爆炸聲。"
-    },
-    {
-      "id": "4923463",
-      "time": "2026-06-08 16:10:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲5%，現報95.08美元/桶。"
-    },
-    {
-      "id": "te:markets:557222",
-      "time": "2026-06-08 16:10:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Sugar Gains by 1.07% — Top commodity gainers are Sugar (1.07%), Cotton (1.01%) and Palm Oil (0.77%)."
-    },
-    {
-      "id": "mkt:019ea648-4977-7ccd-aaa4-85b90804700b",
-      "time": "2026-06-08 16:09:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong stocks closed lower: HSI down 1.22%, Hang Seng Tech Index down 2.71%. Oil & gas equipment and services, heavy machinery and PCB names outperformed; semiconductors, optical communications, OLED and precious metals lagged. MINIMAX-W (00100.HK) and Shenghong Technology (02476.HK) fell more than 8%."
-    },
-    {
-      "id": "4923462",
-      "time": "2026-06-08 16:09:48",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【草案顯示：歐盟計劃調整稅收以降低電費】一份提案草案顯示，歐盟計劃調整能源稅及電網相關收費，擬將電力稅率設定為低於天然氣稅率，以此減輕民眾的電費負擔。這份歐盟委員會提案，是歐盟針對地區衝突引發能源市場震盪出臺的應對舉措。受局勢影響，國際油氣價格走高，而歐盟高度依賴進口化石燃料，居民與企業用能成本隨之上漲。新規要求各成員國對電力征收低於天然氣的稅費，旨在推動交通、工業、供暖領域加快從化石燃料向電力轉型 —— 目前這些領域仍以油氣為主要能源。此舉透過降低電力相對使用成本，將提升電動汽車、熱泵等相關技術的市場競爭力。草案指出，歐盟需迅速採取行動，一方面降低用電開支，另一方面減少對化石燃料的依賴。"
-    },
-    {
-      "id": "4923461",
-      "time": "2026-06-08 16:09:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【以縣域基層為重點 我國繼續開展國家醫療隊巡迴醫療工作】為落實醫療衛生強基工程要求，按照常態化巡迴醫療制度安排，國家衛生健康委、國家中醫藥局今天發出通知，繼續開展2026年國家醫療隊巡迴醫療工作。2026年，國家衛生健康委屬（管）醫院、國家中醫藥局直屬（管）醫院、國家醫學中心（含中醫類）、國家區域醫療中心以及高水平中醫醫院共組建89支國家醫療隊。國家醫療隊隊長應當具備較強的政治素質、組織協調能力和管理經驗，隊員應當選派醫德醫風端正、技術水平良好、身體心理健康的醫務人員，以中高階職稱為主，每支隊伍不少於8人。國家醫療隊按照《2026年國家醫療隊巡迴醫療地區分佈表》深入中西部醫療服務能力薄弱縣、國家鄉村振興重點幫扶縣、少數民族聚居縣、邊境地區和革命老區，開展為期不少於3周的巡迴醫療，並可根據實際需求增加巡迴醫療頻次和時間。（央視新聞）"
-    },
-    {
-      "id": "4923460",
-      "time": "2026-06-08 16:09:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【俞義方卸任中興新能源科技公司董事長】天眼查App顯示，近日，中興新能源科技有限公司發生工商變更，俞義方卸任董事長，由彭愛光接任。該公司成立於2014年7月，註冊資本約2.3億人民幣，經營範圍包括充電系統運營、新能源行業諮詢、光伏發電等，由中興通訊（000063）全資持股。"
-    },
-    {
-      "id": "4923459",
-      "time": "2026-06-08 16:09:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【道生天合：公司及參股公司道宜半導體均未有產品應用於玻璃基板領域】投資者問“公司理論上是有能力研發料產光纖棒的？半導體子公司應關注玻璃基板用膠研發與合作產銷？”道生天合(601026)6月8日在互動平臺回覆稱，公司主營高效能熱固性樹脂材料，目前未開展光纖預製棒相關的研發與生產業務；公司參股的上海道宜半導體材料有限公司（簡稱“道宜半導體”），其主營常規環氧塑封材料，截至目前，公司及該參股公司均未有產品應用於玻璃基板領域。"
-    },
-    {
-      "id": "te:economy:557221",
-      "time": "2026-06-08 16:09:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Czech Jobless Rate Hits 5-Month Low — The Czech unemployment rate edged down to 4.8% in May 2026 from 4.9% in the previous month, in line with market expectations. It marked the lowest level since December 2025, driven by continued seasonal hiring and the ongoing economic recovery. The number of unemployed persons fell by 5,620 month-on-month to 358,852, though it remained 42,792 higher than in the same month a year earlier. Meanwhile, nearly 42% of newly employed job seekers started their own businesses, with men accounting for 76.5% of the total and women for 23.5%. The number of registered job vacancies declined by 103 from the previous month to 94,380."
-    },
-    {
-      "id": "4923458",
-      "time": "2026-06-08 16:09:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.280%，恒生科技指數跌2.757%】快手-W跌6.103%，洛陽鉬業跌6.195%，舜宇光學科技跌6.277%，藥明生物跌7.208%，百度集團-SW跌7.484%，MINIMAX-W跌8.409%，老鋪黃金跌8.920%。"
-    },
-    {
-      "id": "4923457",
-      "time": "2026-06-08 16:08:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破95美元/桶，日內漲4.93%。"
-    },
-    {
-      "id": "te:economy:557220",
-      "time": "2026-06-08 16:08:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Bund Yields at Over Two-Week High on Inflation Fears — German 10-year Bund yields climbed above 3.05%, reaching their highest since May 21, as traders nearly fully priced in three European Central Bank rate hikes this year. Fading hopes for a swift reopening of the Strait of Hormuz, combined with a over 4% surge in Brent crude after Iran and Israel exchanged missile strikes, fueled the shift. This occurred despite President Trump’s calls for de-escalation. With the ECB policy meeting approaching, a 25 basis point rate increase is widely expected. The move follows euro-area inflation rising to 3.2% in May, its highest in over two and a half years. However, uncertainty remains after Eurozone GDP figures were revised to show a contraction in Q1 2026, the first since late 2022 and the steepest since mid-2020. Money markets now price the ECB deposit rate at around 2.7% by December, up from the current 2%, and indicate a near-certain first rate rise this month, followed by a second in September."
-    },
-    {
-      "id": "4923456",
-      "time": "2026-06-08 16:08:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【臺積電美股盤前漲超2%】臺積電美股盤前漲超2%，現報423.8美元。"
-    },
-    {
-      "id": "mkt:019ea646-f2d1-7ccd-aaa4-799dec872002",
-      "time": "2026-06-08 16:08:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "India's oil minister said the widening Iran crisis is worrying."
-    },
-    {
-      "id": "4923455",
-      "time": "2026-06-08 16:08:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度石油部長：伊朗危機升級令人擔憂。"
-    },
-    {
-      "id": "4923454",
-      "time": "2026-06-08 16:08:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安凱客車：5月產量643輛，銷量865輛】安凱客車公告，2026年5月產量643輛，銷量865輛；本年累計產量3718輛，累計同比增13.53%；本年累計銷量3406輛，累計同比增22.61%。分車型：大型客車5月產量273輛、銷量302輛，中型客車產量288輛、銷量499輛，輕型客車產量82輛、銷量64輛。"
-    },
-    {
-      "id": "mkt:019ea646-506a-7ccd-aaa4-744520bbba54",
-      "time": "2026-06-08 16:08:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CPCA said BYD sold 376,990 vehicles in China in May."
-    },
-    {
-      "id": "4923453",
-      "time": "2026-06-08 16:07:56",
-      "tags": [
-        "行業",
-        "市場"
-      ],
-      "text": "【乘聯分會：5月全國乘用車市場零售151萬輛，同比下降22.1%】乘聯分會公佈資料顯示，5月1-31日，全國乘用車市場零售151.0萬輛，同比下降22.1%，環比增長9.2%；今年以來累計零售709.9萬輛，同比下降19.5%。2026年5月國內乘用車市場呈現總量承壓、環比走強、結構極致分化的執行態勢，整體未實現實質性復甦。本月小幅回暖主要得益於車市“反內卷”成效凸顯，車企促銷力度趨於穩定，淡化了消費者降價觀望預期，疊加北京車展的熱度提振，釋放了部分滯留購車需求，形成階段性終端回暖。"
     }
   ]
 }
