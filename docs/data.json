@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-16 05:57:24",
-  "count": 18210,
+  "updated": "2026-06-16 06:02:05",
+  "count": 18213,
   "items": [
+    {
+      "id": "4937185",
+      "time": "2026-06-16 06:00:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破70美元/盎司，日內漲0.07%。"
+    },
+    {
+      "id": "4937184",
+      "time": "2026-06-16 06:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "康菲石油料將與敘利亞簽署協議，從而恢復天然氣生產。"
+    },
+    {
+      "id": "4937183",
+      "time": "2026-06-16 05:58:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺6月16日06時繼續釋出暴雨橙色預警。"
+    },
+    {
+      "id": "4937182",
+      "time": "2026-06-16 05:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺6月16日06時繼續釋出強對流天氣黃色預警。"
+    },
     {
       "id": "4937181",
       "time": "2026-06-16 05:57:00",
@@ -167396,15 +167429,6 @@
         "DXY"
       ],
       "text": "【Iran's UN envoy says hopes US-Iran talks will reach agreement before end-June】Iran's UN envoy Amir Saeid Iravani said on Monday Tehran and Washington are still negotiating a peace agreement, expressed optimism a final deal could be reached \"soon,\" and replied \"we hope so\" when asked if an agreement might be concluded before the end of June. Iravani said the current ceasefire is comprehensive and applies across the region, including Lebanon — a characterization Israel disputes. Israel's Prime Minister Netanyahu said Israel has decided not to take further action against Iran but will continue strikes against Hezbollah."
-    },
-    {
-      "id": "4924723",
-      "time": "2026-06-09 06:00:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲6月維持利率不變的機率為98.1%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.1%，累計降息25個基點的機率為1.9%。美聯儲到7月維持利率不變的機率為84.7%，累計加息25個基點的機率13.6%，累計降息25個基點的機率為1.6%。"
     }
   ]
 }
