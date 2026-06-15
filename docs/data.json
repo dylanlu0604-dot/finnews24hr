@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-16 00:42:44",
-  "count": 18351,
+  "updated": "2026-06-16 00:46:51",
+  "count": 18352,
   "items": [
+    {
+      "id": "4936986",
+      "time": "2026-06-16 00:43:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列 N12 電視臺訊息：內塔尼亞胡將於美國東部時間下午 2 點召開新聞釋出會。"
+    },
+    {
+      "id": "mkt:019ecc2b-0a00-7dd8-b013-fb30d2f5f7ca",
+      "time": "2026-06-16 00:43:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O): Project expected to create more than 400 full-time data-center jobs and thousands of construction jobs."
+    },
+    {
+      "id": "te:economy:559100",
+      "time": "2026-06-16 00:43:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Pullback — The yield on the 10-year US Treasury note held losses at the 4.46% level on Monday as the US and Iran agreed to a deal that softened inflationary risks in the US and global economy. President Trump and Iranian authorities stated that concessions for an memorandum of understanding were agreed and will be signed on Friday, with reports indicating that energy exports through the Strait of Hormuz will be restored. Pro-inflationary risks dropped as oil and fuel prices retreated further. The Federal Reserve is due hold its rates unchanged on Wednesday following the FOMC's first meeting with Chairman Kevin Warsh, set to give signals on potential overhauls to the current monetary framework that he has criticized. Rate traders continued to slightly favor one rate hike by the central bank this year. Meanwhile, the BoJ is due to raise rates this week, as done by the ECB this month, although the BoE, SNB, Riksbank, and RBA are set to hold rates unchanged."
+    },
+    {
+      "id": "4936985",
+      "time": "2026-06-16 00:43:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：該專案預計創造 400 餘個資料中心全職崗位，以及數千個建築施工崗位。"
+    },
+    {
+      "id": "mkt:019ecc2a-3820-7dd8-b013-f47b56cbd6b4",
+      "time": "2026-06-16 00:42:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) partners with Arable Labs to boost irrigation efficiency for farmers in northeast Missouri."
+    },
+    {
+      "id": "mkt:019ecc29-d340-7dd8-b013-eb3c6cf88d4b",
+      "time": "2026-06-16 00:42:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O) will make multiple immediate investment commitments in Montgomery County, Missouri, as part of its Missouri data-center investment plan."
+    },
+    {
+      "id": "4936984",
+      "time": "2026-06-16 00:42:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜與Arable實驗室合作，提升密蘇里州東北部農民的灌溉效率。"
+    },
     {
       "id": "4936983",
       "time": "2026-06-16 00:41:55",
@@ -168687,64 +168764,6 @@
         "MKT News"
       ],
       "text": "【Iran Civil Aviation Organization says nationwide air traffic restored】Iran's Civil Aviation Organization said on the evening of the 8th local time that flight restrictions have been lifted and nationwide air traffic restored after ensuring safety conditions and coordinating with relevant agencies."
-    },
-    {
-      "id": "4924497",
-      "time": "2026-06-09 00:46:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗民航組織：全國航空活動恢復正常】當地時間8日晚，伊朗民航組織表示，在確保安全條件並與相關機構進行必要協調後，飛行限制已解除，全國航空活動恢復正常。"
-    },
-    {
-      "id": "mkt:019ea820-8dbe-733a-9231-b180962b0188",
-      "time": "2026-06-09 00:46:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon (AMZN.O) will issue C$14 bln of senior bonds, the largest Canadian-dollar bond offering on record."
-    },
-    {
-      "id": "4924496",
-      "time": "2026-06-09 00:45:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩科瑞上半年利潤受大宗商品市場波動影響大增88%。"
-    },
-    {
-      "id": "mkt:019ea81f-fb3f-733a-9231-ae32cce2b75d",
-      "time": "2026-06-09 00:45:28",
-      "tags": [
-        "MKT News",
-        "9432.T",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "Nikkei reports NTT will raise capital from US and South Korean investors to establish a $500m optical-network fund. Around 20 firms are expected to participate, including Samsung Electronics."
-    },
-    {
-      "id": "4924495",
-      "time": "2026-06-09 00:43:18",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "亞馬遜將發行規模達140億加元的高階債券，創加元債券發行規模新高。"
-    },
-    {
-      "id": "4924494",
-      "time": "2026-06-09 00:43:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "預計約有20家企業參與日本電信電話集團（NTT）的募資，其中包括三星電子。"
     }
   ]
 }
