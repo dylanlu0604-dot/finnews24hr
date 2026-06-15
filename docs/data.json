@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-15 18:19:13",
-  "count": 18272,
+  "updated": "2026-06-15 18:23:09",
+  "count": 18266,
   "items": [
+    {
+      "id": "4936359",
+      "time": "2026-06-15 18:21:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華豐科技：發行726.21萬股募集9.72億元】華豐科技公告，向特定物件發行726.21萬股，發行價格為133.9元/股，募集資金總額為9.72億元，淨額為9.69億元。新增股份為有限售條件流通股，將於限售期滿後在上海證券交易所科創板上市流通。本次發行不會導致公司控制權變化，控股股東為四川長虹電子控股集團有限公司，實際控制人為綿陽市國資委。"
+    },
+    {
+      "id": "4936358",
+      "time": "2026-06-15 18:21:05",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將ADOBE目標股價從264美元下調至228美元。"
+    },
+    {
+      "id": "mkt:019ecacc-4a4a-7dd8-b008-da946211a43d",
+      "time": "2026-06-15 18:20:46",
+      "tags": [
+        "MKT News",
+        "ADBE.O",
+        "Impact bearish"
+      ],
+      "text": "Citigroup lowered its PT for Adobe (ADBE.O) to $228 from $264."
+    },
+    {
+      "id": "4936357",
+      "time": "2026-06-15 18:20:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽分科技：擬投資3億元建設規模化蛋白生產和色譜填料擴產專案】賽分科技公告，公司子公司揚州賽分擬投資約3億元建設規模化蛋白生產和色譜填料擴產專案，預計建設期24個月。專案設計產能為年產蛋白3000公斤與矽膠基質填料18噸，位於揚州高新技術產業開發區生物健康產業園。"
+    },
+    {
+      "id": "4936356",
+      "time": "2026-06-15 18:20:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華英農業：收到《經營者集中反壟斷審查不實施進一步審查決定書》】華英農業公告，2026 年 6 月 15 日，公司收到信陽產投的通知，獲悉其已收到國家市場監督管理總局出具的《經營者集中反壟斷審查不實施進一步審查決定書》（反執二審查決定〔2026〕304 號），主要審查意見如下：“根據《中華人民共和國反壟斷法》第三十條規定，經初步審查，現決定，對信陽市產業投資集團有限公司收購河南華英農業發展股份有限公司股權案不實施進一步審查。你公司從即日起可以實施集中。該案涉及經營者集中反壟斷審查之外的其他事項，依據相關法律辦理。”"
+    },
+    {
+      "id": "mkt:019ecacb-8d49-7dd8-b008-d17daa10dd35",
+      "time": "2026-06-15 18:19:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese military urged residents in southern Lebanon to \"slow down\" before returning to border towns."
+    },
+    {
+      "id": "4936355",
+      "time": "2026-06-15 18:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MLCC缺貨範圍擴散 供應商預計短缺或延續至2027年甚至2028年】渠道商訊息稱，目前MLCC缺貨規格已經不僅侷限在AI用MLCC，主要規格產品都供不應求。被動元件廠華新科指出，目前最短缺的規格為47μF，由於AI相關高階訂單擠壓日韓廠產能，連手機、PC用量龐大的高容10uF、22uF及X5R都受到影響；本次MLCC缺貨將延續至2027年甚至2028年，或將超過2018年被動元件缺貨潮。（臺灣工商時報）"
+    },
+    {
+      "id": "4936354",
+      "time": "2026-06-15 18:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩軍方在一份宣告中呼籲黎巴嫩南部居民在返回邊境城鎮前暫緩行動。"
+    },
+    {
+      "id": "mkt:019ecacb-167f-7dd8-b008-ccda31c754f7",
+      "time": "2026-06-15 18:19:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【MLCC shortages widen; suppliers see tightness into 2027–28】Channel sources say MLCC shortages have expanded beyond AI-specific parts to mainstream specifications, with major SKUs now undersupplied. Walsin Technology identifies 47uF as the tightest SKU and says AI-driven high-end orders have crowded out Japanese and Korean capacity, spilling over to high-volume mobile/PC parts including 10uF, 22uF and X5R. Suppliers expect the shortage to continue into 2027 or 2028 and warn it could exceed the 2018 passive-component crunch."
+    },
+    {
+      "id": "4936353",
+      "time": "2026-06-15 18:19:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沃頓科技：與中車環境簽署高鹽水資源化系統銷售合同】沃頓科技6月15日公告，公司當日與中車環境科技有限公司（簡稱“中車環境”）簽署《高鹽水資源化系統採購合同》，公司向中車環境銷售高鹽水裝備資源化系統一套，合同總額788萬元。中車環境為公司控股股東中車產業投資有限公司控股子公司。"
+    },
+    {
+      "id": "4936352",
+      "time": "2026-06-15 18:19:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【五方光電：股票交易異常波動 不存在應披露未披露事項】五方光電公告稱，公司股票於2026年6月11日、12日、15日連續三個交易日收盤價格跌幅偏離值累計超20%，屬於股票交易異常波動情形。經核查，公司前期披露資訊無更正補充；未發現媒體報道影響股價的未公開重大資訊；經營情況及環境未變；公司、控股股東和實控人無應披露未披露重大事項；控股股東和實控人在異動期間未買賣公司股票。公司提醒投資者注意交易風險。"
+    },
+    {
+      "id": "4936351",
+      "time": "2026-06-15 18:18:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【廣東未來五天降雨持續 需注意洪水風險】據廣東省氣象臺訊息，15日白天，茂名西部、廣州中南部、深圳、惠州、佛山、汕尾、中山、梅州等市縣出現大到暴雨，區域性大暴雨，其餘市縣多雲間陰天。未來五天，廣東和廣西均有明顯降水，需注意洪水氣象風險，確保河流、山塘水庫安全，關注廣西等地上游來水的疊加影響。本次強降水已導致部分市縣土壤含水量增大、中小河流水位上漲，強降水還將持續，局地累計雨量大，需重點防禦山洪、地質災害、城鄉積澇等災害，謹防災害疊加。龍舟競渡、戶外作業、海島和濱海旅遊需防範強降水和強對流天氣帶來的不利影響。（央視新聞）"
+    },
     {
       "id": "4936350",
       "time": "2026-06-15 18:18:30",
@@ -167796,165 +167898,6 @@
         "其他"
       ],
       "text": "【中國創新藥進入領跑快車道 新版規範9月起實施】新修訂的《藥物臨床試驗質量管理規範》今天正式釋出，將於9月1日起正式實施。此次修訂對藥物臨床試驗提出了“質量源於設計”“符合目的”和“風險相稱”的理念，並對這些理念在臨床試驗的應用提出原則性要求。更重要的是，監管理念，從“發現問題後糾正”轉變為“在設計階段預防問題的發生”。相關資料顯示，去年我國新開展的創新藥臨床試驗數量，約佔全球總量的一半。我國臨床試驗數量全球第一、質量效率全球領先，可以說在全球創新藥版圖中保持強勁的增量產出動能。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ea6c1-a88b-777a-abbd-8de032128ab9",
-      "time": "2026-06-08 18:22:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Ministry of Defence said supporting Ukraine is supporting the UK."
-    },
-    {
-      "id": "mkt:019ea6c1-92c3-777a-abbd-820a4291d922",
-      "time": "2026-06-08 18:22:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Ministry of Defence says Sweden is leading a new agreement to supply Gripen fighters to Ukraine. The MoD says more than 30% of each aircraft's components are made in the UK, and the deal is expected to support over 5,000 jobs and add about £500 million to the economy."
-    },
-    {
-      "id": "4923859",
-      "time": "2026-06-08 18:22:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天士力：棗仁寧心滴丸獲得藥品註冊證書】天士力6月8日公告，公司收到國家藥品監督管理局核准簽發的中藥1.1類創新藥棗仁寧心滴丸（曾用名：安神滴丸）《藥品註冊證書》。目前公司已著手進行生產前的準備工作，由於醫藥產品具有高科技、高風險、高附加值的特點，藥品投產後的未來市場銷售情況可能受到市場環境變化、招投標開展等因素影響，存在不確定性，敬請廣大投資者謹慎決策，注意防範投資風險。"
-    },
-    {
-      "id": "4923858",
-      "time": "2026-06-08 18:22:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【衢州發展：完成回購0.7442%公司股份】衢州發展公告，公司於2026年3月6日召開董事會並透過了股份回購方案，回購資金總額為不低於人民幣1億元且不超過人民幣2億元，回購股份價格不超過5.68元/股。2026年6月5日，公司回購股份期限屆滿，回購股份方案已實施完畢，累計回購股份6332.28萬股，佔公司總股本的0.7442%，累計已回購金額2億元，回購價格區間為2.84元/股至3.96元/股。"
-    },
-    {
-      "id": "mkt:019ea6c1-19ef-777a-abbd-7946e40e31ca",
-      "time": "2026-06-08 18:22:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Price, Cost and Certification Center holds talks at China Academy of Information and Communications Technology】Deputy director Cheng Gang led the Price, Cost and Certification Center delegation to the China Academy of Information and Communications Technology to discuss construction and application of an emergency location service auxiliary platform. Representatives from the center’s New Energy Price and Cost Department attended."
-    },
-    {
-      "id": "4923857",
-      "time": "2026-06-08 18:21:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國國防部：瑞典牽頭達成一項重大新協議，向烏克蘭供應 “鷹獅” 戰鬥機。該機型超三成零部件在英國生產，預計將為英國創造 5000 餘個就業崗位、惠及國內 50 餘家企業，併為經濟帶來 5 億英鎊提振。 支援烏克蘭，助力英國本土發展。"
-    },
-    {
-      "id": "mkt:019ea6c0-d148-777a-abbd-729c0b4422f4",
-      "time": "2026-06-08 18:21:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Industry sources say Bharat Petroleum (BPCL) plans to shut its 120,000 bpd crude unit and associated secondary processing units at the Mumbai refinery for 3-4 weeks in September–October for maintenance."
-    },
-    {
-      "id": "4923856",
-      "time": "2026-06-08 18:21:30",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委價格成本和認證中心赴中國信通院開展座談交流】近日，國家發改委價格成本和認證中心副主任成鋼同志帶隊赴中國資訊通訊研究院開展座談交流。雙方圍繞緊急位置服務輔助平臺建設、應用等有關問題展開交流。"
-    },
-    {
-      "id": "4923855",
-      "time": "2026-06-08 18:21:03",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【德國商業銀行：美國加息押注推高歐元兌美元隱含波動率】德國商業銀行的Thu Lan Nguyen表示，在期權市場對沖歐元兌美元可能出現的波動的成本（即隱含波動率）隨著美國加息預期的升溫而上升。倫敦證券交易所集團的資料顯示，隨著市場完全反映了年底前美國加息的預期，歐元兌美元的一個月隱含波動率隔夜觸及5.833%的兩週高點。Nguyen在一份報告中說，相當長一段時間以來，市場預計美聯儲將維持利率不變，這使得外匯波動率保持在低位。她表示，未來的波動率取決於美聯儲是否預計會更激進地加息以應對能源價格衝擊，考慮到美國經濟充滿韌性，這是有可能的。"
-    },
-    {
-      "id": "4923854",
-      "time": "2026-06-08 18:20:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【步長製藥：房克瑞擬轉讓濟南步長馳騁2%股權】步長製藥公告，公司控股子公司濟南步長馳騁的股東房克瑞擬將其所持有的濟南步長馳騁1.00%股權以人民幣5942元的價格轉讓給曾令明慧；將其所持有的濟南步長馳騁1.00%股權以人民幣5942元的價格轉讓給何宇。公司同意放棄優先受讓權。本次股權轉讓完成後，公司持有濟南步長馳騁91.00%股權比例不變。"
-    },
-    {
-      "id": "4923853",
-      "time": "2026-06-08 18:20:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【倍輕鬆：二審上訴金額為4451.49萬元】倍輕鬆公告，公司作為一審被告（反訴原告）、二審上訴人涉及的訴訟案件已進入二審程式。一審本訴初始請求金額為人民幣183.12萬元，公司一審反訴最終請求金額為人民幣4451.49萬元。二審上訴請求金額為人民幣4451.49萬元。公司已就一審判決不服提起上訴，本次訴訟二審審理結果、最終責任認定及後續進展、執行情況存在不確定性，最終的判決結果尚不確定。"
-    },
-    {
-      "id": "4923852",
-      "time": "2026-06-08 18:20:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【退市觀典：上交所將在6月10日對公司股票予以摘牌】退市觀典公告，截至2026年6月8日，公司股票已於退市整理期交易滿15個交易日，退市整理期已結束。上海證券交易所將在2026年6月10日對公司股票予以摘牌，公司股票終止上市。"
-    },
-    {
-      "id": "4923851",
-      "time": "2026-06-08 18:20:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【螞蟻國際推移動智慧體協議 破解AI智慧體購物支付難題】螞蟻國際近日面向全球推出移動智慧體協議（AMP），統一解決AI智慧體購物中的支付、認證與信任難題，實現商戶\"一次構建、全球運營\"。該協議首次將智慧體身份、授權、支付、結算及信任納入統一框架，填補了全球智慧體商業基礎設施空白。目前螞蟻國際已連結全球20億消費者賬戶及1.5億商戶，並與千問、Gemini等主流AI平臺打通接入。"
-    },
-    {
-      "id": "mkt:019ea6bf-10db-777a-abbd-6e1403015dd6",
-      "time": "2026-06-08 18:19:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Han Zheng visits Belarus】Vice President Han Zheng visited Belarus from June 6-8, 2026 (local time) at the invitation of the Government of the Republic of Belarus. In Minsk he met separately with President Lukashenko, Prime Minister Turchin and First Deputy Prime Minister Snopkov."
-    },
-    {
-      "id": "4923850",
-      "time": "2026-06-08 18:19:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓正訪問白俄羅斯】當地時間2026年6月6日至8日，應白俄羅斯共和國政府邀請，國家副主席韓正訪問白俄羅斯，在明斯克分別會見白俄羅斯總統盧卡申科、總理圖爾欽、第一副總理斯諾普科夫。（新華社）"
-    },
-    {
-      "id": "mkt:019ea6be-f844-777a-abbd-629f8cb18c30",
-      "time": "2026-06-08 18:19:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The Israel Defense Forces said the Iranian facilities that were struck produced specialized materials used to develop ballistic missiles that pose a direct threat to Israel and its citizens. The facilities are key components of Iran's existing missile-production infrastructure."
-    },
-    {
-      "id": "mkt:019ea6be-f213-777a-abbd-5f3ddcf9b680",
-      "time": "2026-06-08 18:19:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said the strike was one of multiple attacks on the complex carried out under Operation \"Roaring Lion\"."
-    },
-    {
-      "id": "4923849",
-      "time": "2026-06-08 18:19:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "名創優品：預計截至2026年3月31日止年度淨利潤將增長約145%。"
     }
   ]
 }
