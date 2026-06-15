@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-16 03:18:43",
-  "count": 18239,
+  "updated": "2026-06-16 03:22:48",
+  "count": 18233,
   "items": [
+    {
+      "id": "mkt:019eccb9-5e47-7dd8-b016-49f5cbea708d",
+      "time": "2026-06-16 03:19:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fall sharply on 15th】NYMEX July light sweet crude futures closed down $4.13 at $80.75 per barrel, a 4.87% decline; ICE August Brent futures closed down $4.16 at $83.17 per barrel, a 4.76% decline."
+    },
+    {
+      "id": "mkt:019eccb9-4a7c-7dd8-b016-43e0555fbc93",
+      "time": "2026-06-16 03:19:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index falls 0.12% to 99.631 at New York close on 15th】The dollar index (DXY), measuring the U.S. currency against six major peers, fell 0.12% to 99.631 at the New York close on the 15th. EUR/USD rose to 1.1595 from 1.1575; GBP/USD to 1.3419 from 1.3416. USD/JPY was 160.31 versus 160.24; USD/CHF fell to 0.7940 from 0.7968; USD/CAD rose to 1.3987 from 1.3980; USD/SEK dropped to 9.3913 from 9.4215."
+    },
+    {
+      "id": "4937052",
+      "time": "2026-06-16 03:18:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數15日下跌】美元指數15日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於99.631。截至紐約匯市尾市，1歐元兌換1.1595美元，高於前一交易日的1.1575美元；1英鎊兌換1.3419美元，高於前一交易日的1.3416美元。1美元兌換160.31日元，高於前一交易日的160.24日元；1美元兌換0.7940瑞士法郎，低於前一交易日的0.7968瑞士法郎；1美元兌換1.3987加元，高於前一交易日的1.3980加元；1美元兌換9.3913瑞典克朗，低於前一交易日的9.4215瑞典克朗。"
+    },
+    {
+      "id": "mkt:019eccb8-ae61-7dd8-b016-3cc5f0e3975a",
+      "time": "2026-06-16 03:18:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reports there is currently no information on the crew of the crashed B-52 bomber."
+    },
     {
       "id": "4937051",
       "time": "2026-06-16 03:17:49",
@@ -167598,116 +167640,6 @@
         "其他"
       ],
       "text": "蘋果：除 AFM Cloud Pro 外，蘋果其餘四款模型仍將依託蘋果自研晶片執行。"
-    },
-    {
-      "id": "mkt:019ea8af-eef0-733a-9234-e1fc3b3c995a",
-      "time": "2026-06-09 03:22:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish",
-        "AAPL.O"
-      ],
-      "text": "Apple software chief Craig Federighi said Apple's largest model, \"AFM Cloud Pro\", will run on Google Cloud infrastructure."
-    },
-    {
-      "id": "4924643",
-      "time": "2026-06-09 03:22:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果：蘋果旗下最大模型 AFM Cloud Pro 將執行於谷歌雲基礎設施之上。"
-    },
-    {
-      "id": "mkt:019ea8af-1d55-733a-9234-db875cd86780",
-      "time": "2026-06-09 03:21:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "NVIDIA",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "Apple software head Craig Federighi said Apple is working with Google and NVIDIA to integrate its private cloud computing solution into Google Cloud infrastructure."
-    },
-    {
-      "id": "4924642",
-      "time": "2026-06-09 03:21:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果：蘋果聯合谷歌、英偉達，依託谷歌雲基礎設施落地自有私有云計算方案。"
-    },
-    {
-      "id": "mkt:019ea8ae-8f7f-733a-9234-d24f355cb2ac",
-      "time": "2026-06-09 03:21:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Vale CEO says global metals demand shows no war-related damage】Vale CEO Gustavo Pimenta said he sees no signs that the Iran conflict has damaged global metals demand and that the company’s margins have widened despite shipment disruptions. He said Vale is focused on unlocking asset value rather than pursuing acquisitions and described global demand for critical minerals as very constructive. Disruptions in the Strait of Hormuz raised fuel costs and freight rates, but higher prices and volumes have largely offset the impact on miners. Vale has raised full-year free cash flow guidance for its core iron-ore business by $1.5bn and now expects average iron-ore prices of $112/tonne for the year versus a $102/tonne pre-conflict scenario."
-    },
-    {
-      "id": "4924641",
-      "time": "2026-06-09 03:20:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統辦公室顧問證實，澤連斯基與維特科夫、庫什納進行了通話。"
-    },
-    {
-      "id": "4924640",
-      "time": "2026-06-09 03:19:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "安全訊息人士：無人機襲擊了伊拉克埃爾比勒北部的伊朗庫爾德反對派營地。"
-    },
-    {
-      "id": "mkt:019ea8ad-2ff1-733a-9234-c8bdd7351aea",
-      "time": "2026-06-09 03:19:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Security sources said a drone struck an Iranian-Kurdish opposition camp north of Erbil, Iraq."
-    },
-    {
-      "id": "mkt:019ea8ac-9d00-733a-9234-c6e92e60034e",
-      "time": "2026-06-09 03:19:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "Apple software chief Craig Federighi said Apple has entered the third generation of its foundation models."
-    },
-    {
-      "id": "4924639",
-      "time": "2026-06-09 03:18:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：蘋果基礎大模型已迭代至第三代。"
     }
   ]
 }
