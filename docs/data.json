@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-16 02:41:18",
-  "count": 18239,
+  "updated": "2026-06-16 02:45:22",
+  "count": 18237,
   "items": [
+    {
+      "id": "4937023",
+      "time": "2026-06-16 02:44:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "洛克希德・馬丁公司拿下美國太空部隊價值 5.14 億美元合同，負責建造第 23、24 顆 GPS IIIF 衛星，提升未來衛星導航星座的抗毀能力。"
+    },
     {
       "id": "4937022",
       "time": "2026-06-16 02:40:23",
@@ -167680,30 +167689,6 @@
         "其他"
       ],
       "text": "【非洲疾控中心：本輪埃博拉疫情確診病例升至563例】當地時間6月8日，非洲疾控中心釋出統計資料，截至6月7日，本輪埃博拉疫情累計確診病例數升至563例。其中，剛果（金）確診病例544例，確診死亡病例88例；烏干達確診病例19例，確診死亡病例2例。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ea88d-5bc5-733a-9234-7552419d9c86",
-      "time": "2026-06-09 02:44:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Africa CDC: confirmed cases in current Ebola outbreak rise to 563】Africa CDC said on June 8 that as of June 7 the current Ebola outbreak had 563 confirmed cases, including 544 in the Democratic Republic of Congo with 88 confirmed deaths and 19 in Uganda with 2 confirmed deaths."
-    },
-    {
-      "id": "4924624",
-      "time": "2026-06-09 02:42:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果方面表示，埃博拉確診病例已升至550例，其中死亡病例101例。"
-    },
-    {
-      "id": "4924623",
-      "time": "2026-06-09 02:41:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮表示，將對H-1B簽證費的裁決提出上訴。"
     }
   ]
 }
