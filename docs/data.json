@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-15 22:26:50",
-  "count": 18335,
+  "updated": "2026-06-15 22:31:04",
+  "count": 18337,
   "items": [
+    {
+      "id": "mkt:019ecbb0-cdf5-7dd8-b010-f46e1de964e4",
+      "time": "2026-06-15 22:30:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Electronic specialty gas producers report surge in orders】As AI and high-end memory chip demand rises, electronic specialty gases — electronic-grade gases with purity above 99.99% used in semiconductor manufacturing — are in short supply for several core products. Several producers say orders have jumped and production lines are running at high load. Since the start of the year wafer fabs’ transport demand for these often flammable/explosive, zero-inventory chemicals has surged, pushing delivery schedules and logistics to full capacity."
+    },
+    {
+      "id": "4936840",
+      "time": "2026-06-15 22:29:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "銀行人士表示，土耳其央行上週不包含互換的淨儲備減少5億美元，降至290億美元。"
+    },
+    {
+      "id": "4936838",
+      "time": "2026-06-15 22:29:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "銀行業人士表示，土耳其央行淨儲備上週減少20億美元，降至450億美元。"
+    },
+    {
+      "id": "4936837",
+      "time": "2026-06-15 22:29:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "據銀行人士透露，土耳其央行上週總儲備減少75億美元，降至1520億美元。"
+    },
+    {
+      "id": "4936836",
+      "time": "2026-06-15 22:29:12",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【山姆就食品安全問題致歉 成立專項工作組啟動整改】15日，山姆會員商店就近期多發的食品安全問題向公眾及會員致歉，並稱已啟動自查整改。針對一段時期以來發現的山姆線下門店及線上網店多發的食品安全問題，市場監管總局近日依法對沃爾瑪（中國）投資有限公司（即山姆總部）負責人進行了責任約談，山姆相關負責人回應稱，針對約談中監管部門所指出的問題與整改要求，完全認可、深刻反思並誠懇接受。對於相關問題給會員帶來的困擾與不便，深表歉意。山姆相關負責人表示，目前，公司已由管理層牽頭成立專項整改工作組，第一時間啟動全渠道、全鏈路專項自查整改。公司將嚴格遵照相關法規及監管要求，全面最佳化食安管控和商品品控，嚴守食品安全底線、提升會員體驗。將定期向監管部門報送整改進展，主動接受社會各界監督。（新華社）"
+    },
+    {
+      "id": "4936835",
+      "time": "2026-06-15 22:28:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體血液爆單 電子特氣生產企業爆單】隨著人工智慧產業景氣度不斷攀升，AI晶片、高階儲存晶片的需求旺盛。而這些晶片的生產中，離不開一種特殊的耗材——電子特種氣體。電子特種氣體，是純度高於‌99.99%‌的電子級氣體，屬於電子化學品領域的核心材料，也被稱為半導體產業的血液。在下游強勁需求的推動下，電子特氣市場多款核心產品目前供不應求。多家特氣生產企業負責人告訴央視財經記者，在手訂單大幅增加，產線處於高負荷運轉狀態。在上海浦東新區一家特種氣體物流運輸企業，身穿專業防護服的工人，正嚴格按照操作規範，完成上百種電子特氣的卸車、檢驗與入庫作業。企業負責人表示，這些產品的最終去向很多是半導體晶圓廠，由於部分電子特氣屬於易燃易爆高危化學品，客戶通常零庫存。據企業負責人介紹，今年以來半導體晶圓廠商的電子特氣運輸需求爆發式增長，幾乎把企業的配送節奏拉至滿負荷。（央視財經）"
+    },
+    {
+      "id": "mkt:019ecbae-4b1a-7dd8-b010-ec28971ead24",
+      "time": "2026-06-15 22:27:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $82/bbl for the first time since March 10, sliding 4.76% on the day."
+    },
+    {
+      "id": "mkt:019ecbae-09fc-7dd8-b010-e1949eea2afc",
+      "time": "2026-06-15 22:27:21",
+      "tags": [
+        "MKT News",
+        "BLK.O",
+        "Impact bearish",
+        "BX.O"
+      ],
+      "text": "AXIOS reports Democratic Senator Elizabeth Warren has questioned BlackRock and Blackstone."
+    },
+    {
+      "id": "4936834",
+      "time": "2026-06-15 22:27:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國民主黨參議員沃倫質詢貝萊德、黑石集團。 質詢布魯克斯通與 KKR 集團。"
+    },
+    {
+      "id": "4936833",
+      "time": "2026-06-15 22:26:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度儲備銀行：印度央行已釋出支付系統運營授權相關主指令。"
+    },
+    {
+      "id": "4936832",
+      "time": "2026-06-15 22:26:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國民主黨參議員沃倫要求獲取有關資料中心私募股權交易的資訊。"
+    },
+    {
+      "id": "mkt:019ecbad-2385-7dd8-b010-db79d19e70c8",
+      "time": "2026-06-15 22:26:22",
+      "tags": [
+        "MKT News",
+        "EQIX.O",
+        "DLR.O",
+        "CONE.O"
+      ],
+      "text": "Axios reports U.S. Democratic Senator Elizabeth Warren has requested information on private-equity transactions involving data centers."
+    },
     {
       "id": "4936831",
       "time": "2026-06-15 22:25:39",
@@ -168573,94 +168687,6 @@
         "MKT News"
       ],
       "text": "Two sources said the core of the Future Combat Air System (FCAS) should continue to be advanced as a European system."
-    },
-    {
-      "id": "4924366",
-      "time": "2026-06-08 22:30:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩位訊息人士稱，未來FCAS（未來空中作戰系統）核心專案仍將作為歐洲自研體系繼續推進。"
-    },
-    {
-      "id": "4924365",
-      "time": "2026-06-08 22:30:06",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其財政部發行了11.8億美元計價美元債券（原誤報為180億美元），以及2.06億美元計價伊斯蘭債券（蘇庫克）。"
-    },
-    {
-      "id": "mkt:019ea7a3-cbbb-7226-8cb6-a593a3b07544",
-      "time": "2026-06-08 22:29:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Two sources said German chancellor Merz advised French president Macron not to pursue further development of a joint fighter aircraft."
-    },
-    {
-      "id": "mkt:019ea7a3-8f23-7226-8cb6-99b31d405684",
-      "time": "2026-06-08 22:29:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Two sources said French President Macron and German Chancellor Merz agreed that companies involved in the joint fighter-jet project cannot reach an agreement."
-    },
-    {
-      "id": "4924364",
-      "time": "2026-06-08 22:28:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩名訊息人士透露，法國總統馬克龍與德國總理默茨已達成共識：參與聯合研發下一代戰鬥機的相關企業未能達成協議。"
-    },
-    {
-      "id": "4924363",
-      "time": "2026-06-08 22:28:05",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【港股IPO：杭州高光製藥股份有限公司-B遞表港交所】杭州高光製藥股份有限公司-B向港交所提交上市申請書，聯席保薦人為中金公司、招銀國際。"
-    },
-    {
-      "id": "4924362",
-      "time": "2026-06-08 22:27:49",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團宣佈，黑石數字基礎設施公司目標股價為每股23.00美元。"
-    },
-    {
-      "id": "4924361",
-      "time": "2026-06-08 22:27:18",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【戰爭重創供應，G7在首腦峰會前尋求化肥聯合應對行動】七國集團（G7）目前正考慮採取聯合行動，以保護農民並加強糧食安全，因為中東的戰爭已經導致全球化肥供應陷入混亂。根據法國政府6月8日發表的一份宣告，來自法國、加拿大、德國、義大利、日本、英國和美國的農業部長當日舉行會晤，討論旨在緩解農作物營養素（化肥）成本上漲影響的應對措施。宣告並未透露具體將採取哪些步驟。"
-    },
-    {
-      "id": "4924360",
-      "time": "2026-06-08 22:27:10",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團宣佈對Cerebras系統公司的目標股價為每股340.00美元。"
-    },
-    {
-      "id": "4924359",
-      "time": "2026-06-08 22:27:02",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團首次覆蓋 Cerebras 系統公司，給予買入評級。"
     }
   ]
 }
