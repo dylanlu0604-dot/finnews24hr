@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-16 00:13:54",
-  "count": 18349,
+  "updated": "2026-06-16 00:18:06",
+  "count": 18358,
   "items": [
+    {
+      "id": "mkt:019ecc12-74c3-7dd8-b013-cebd3f537d32",
+      "time": "2026-06-16 00:17:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said he is willing to assist an observation mission and will deploy frigates."
+    },
+    {
+      "id": "mkt:019ecc12-175e-7dd8-b013-c703ec73b72f",
+      "time": "2026-06-16 00:16:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "French President Macron said Iran's enriched uranium should be neutralized."
+    },
+    {
+      "id": "4936973",
+      "time": "2026-06-16 00:15:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：法國軍隊已做好馳援霍爾木茲海峽的準備，前提是美方願意接受我方的援助提議。"
+    },
+    {
+      "id": "4936972",
+      "time": "2026-06-16 00:15:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗核協議：不解除制裁。"
+    },
+    {
+      "id": "mkt:019ecc10-5d61-7dd8-b013-bde064347446",
+      "time": "2026-06-16 00:14:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the United States does want to straighten out the situation in Lebanon."
+    },
+    {
+      "id": "4936971",
+      "time": "2026-06-16 00:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員結束了關於伊朗核協議的記者簡報。"
+    },
+    {
+      "id": "4936970",
+      "time": "2026-06-16 00:14:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗及盟友相關事宜：我認為我們不太需要大量支援，但尋求盟友協助也不失為一個好主意。"
+    },
+    {
+      "id": "mkt:019ecc10-0721-7dd8-b013-b40672fa7633",
+      "time": "2026-06-16 00:14:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said on Iran and its allies he believes the U.S. does not need much help but that it would not be a bad idea."
+    },
+    {
+      "id": "4936969",
+      "time": "2026-06-16 00:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：想把黎巴嫩問題理順，必須和真主黨進行一次真正的對話。"
+    },
+    {
+      "id": "mkt:019ecc0f-ada5-7dd8-b013-a930d3eb4f07",
+      "time": "2026-06-16 00:13:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said he will release the Iran deal text sometime after Friday and will not lift sanctions on Iran until it fulfils its obligations."
+    },
+    {
+      "id": "4936968",
+      "time": "2026-06-16 00:13:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國高階官員：簽署諒解備忘錄後不會對伊朗撥付任何資金。"
+    },
+    {
+      "id": "4936967",
+      "time": "2026-06-16 00:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗只有履行其應盡義務，美方才會解除對其制裁。"
+    },
     {
       "id": "4936966",
       "time": "2026-06-16 00:13:13",
@@ -168695,35 +168804,6 @@
         "國際"
       ],
       "text": "【FTX聯合創始人Bankman-Fried正式申請特朗普特赦】加密貨幣交易所FTX聯合創始人Sam Bankman-Fried正式提交了總統特赦申請。兩年多前，他因這一盛極一時的加密貨幣帝國崩盤案而被定罪。美國司法部特赦律師辦公室網站顯示，現年34歲的Bankman-Fried已向該辦公室遞交了申請，請求獲得“服刑期滿後的特赦”。"
-    },
-    {
-      "id": "4924483",
-      "time": "2026-06-09 00:17:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普向最高法院表示，計劃請求法官重啟其針對美國有線電視新聞網的誹謗訴訟，索賠金額4.75億美元。"
-    },
-    {
-      "id": "4924482",
-      "time": "2026-06-09 00:14:34",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅向2026年“文明對話國際日”全球主題活動發表影片致辭】6月8日，在2026年“文明對話國際日”來臨之際，中共中央政治局委員、外交部長王毅以影片方式向全球主題活動發表致辭。王毅表示，3年前，習近平主席鄭重提出全球文明倡議，為不同文明和合共生指明方向。設立“文明對話國際日”就是落實這一倡議的重要舉措。我們要不斷夯實構建人類命運共同體的人文基礎。中方主張從四方面促進文明對話。一是堅持相互尊重，推動不同文明和諧相處。二是堅持以人為本，厚植文明交流根基。三是堅持傳承創新，增強文明進步動力。四是堅持交流互鑑，完善文明對話機制。（新華社）"
-    },
-    {
-      "id": "te:markets:557356",
-      "time": "2026-06-09 00:14:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rises as Banking M&A Fuels Rally — The FTSE MIB gained 0.6% to close at 50,208 on Monday, lifted by strong gains in the banking sector. MPS surged 13%, while Mediobanca, which is set to merge with MPS, soared 12% after Intesa Sanpaolo launched a competing €30.6 billion takeover bid for MPS, just one day after Banco BPM (+0.8%) proposed a merger offer. Intesa Sanpaolo, however, fell 1.4% following the announcement. Luxury stocks also advanced alongside their European peers, with Ferrari gaining 1.8% and Moncler rising 1.1%. Meanwhile, STMicroelectronics climbed 4%, tracking global technology shares higher amid persistent optimism surrounding artificial intelligence. On the downside, UniCredit lost 2%, while Enel fell 0.7% and Stellantis declined 1.1%."
     }
   ]
 }
