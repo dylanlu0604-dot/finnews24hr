@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-15 08:41:30",
+  "updated": "2026-06-15 08:45:29",
   "count": 18333,
   "items": [
+    {
+      "id": "4935075",
+      "time": "2026-06-15 08:44:50",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本衛星殘骸清除公司Astroscale Holdings股價下跌21%，此前該公司預計財年淨虧損擴大。"
+    },
+    {
+      "id": "mkt:019ec8bc-e15e-7dd8-aff9-e6d12587b985",
+      "time": "2026-06-15 08:44:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Japan's TOPIX hit a record high."
+    },
+    {
+      "id": "mkt:019ec8ba-de52-7dd8-aff9-dadba52f6232",
+      "time": "2026-06-15 08:42:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Daxiao Robotics completes angel-plus funding round】Daxiao Robotics said it has completed an angel-plus financing round with participation from Geely Capital, Dachen Caizhi, Shenzhen Capital Group, Shanghai Sci-Tech Innovation Fund and Muxi Co. The company has raised several hundred million dollars in total in 1H 2026."
+    },
+    {
+      "id": "4935074",
+      "time": "2026-06-15 08:41:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌7.5個基點，至3.445%。"
+    },
+    {
+      "id": "4935073",
+      "time": "2026-06-15 08:41:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際首臺800千伏/80千安大容量斷路器投運】6月11日，由國網陝西電科院牽頭，聯合西安交通大學、中國電科院、河南平高電氣等單位研製的國際首臺800千伏/80千安大容量斷路器日前在國網陝西電力750千伏秦道開關站投運。（陝西釋出）"
+    },
+    {
+      "id": "4935071",
+      "time": "2026-06-15 08:41:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大曉機器人完成天使+輪融資，累計融資數億美元】近日，大曉機器人已完成天使+輪融資。天使+輪吸引吉利資本、達晨財智、深創投、上海科創基金、沐曦股份、盛宇投資、復星銳正、華控基金、臨港新片區基金、豫資漲泉等眾多投資方支援，老股東商湯國香資本持續增資，告捷資本擔任長期財務顧問。至此，大曉機器人2026年上半年已累計融資數億美元。(第一財經)"
+    },
+    {
+      "id": "4935070",
+      "time": "2026-06-15 08:40:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數擴大漲幅，最新上漲4.8%，報69,182.27點。"
+    },
     {
       "id": "4935069",
       "time": "2026-06-15 08:40:05",
@@ -168407,73 +168474,6 @@
         "Importance 0"
       ],
       "text": "Silver Holds Losses on Middle East Tensions — Silver traded near $68 an ounce on Monday after tumbling nearly 10% last week to its lowest level in more than two months, as renewed tensions in the Middle East drove oil prices higher and fueled concerns about inflation and interest rates. Iran launched several rounds of missiles toward Israel in a warning against further military actions in Lebanon, though Israel's military said all the projectiles were intercepted and no casualties were reported. The prolonged conflict and the continued near-closure of the Strait of Hormuz have disrupted energy supplies from the Persian Gulf, supporting higher oil prices and intensifying inflation concerns. At the same time, stronger-than-expected US employment data weighed on precious metals last week by reinforcing expectations that the Federal Reserve could raise interest rates later this year. Markets are now pricing in roughly a 70% chance of a Fed rate hike in December, up from around 50% before the jobs report."
-    },
-    {
-      "id": "4922515",
-      "time": "2026-06-08 08:44:37",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團：將美的集團H股目標價從119.3港元上調至126.3港元，A股目標價從108.5元人民幣上調至114.8元人民幣。"
-    },
-    {
-      "id": "te:markets:557046",
-      "time": "2026-06-08 08:44:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Track Wall Street Lower — The Nikkei 225 Index fell more than 3% to below 64,500, while the broader Topix Index declined 2.2% to 3,862 on Monday, marking a third consecutive session of losses for Japanese equities. The downturn mirrored Friday’s sharp selloff on Wall Street, where semiconductor and other technology stocks came under significant pressure. Stronger-than-expected US jobs data also reinforced expectations that the Federal Reserve will raise interest rates this year, driving Treasury yields higher and adding to pressure on equity markets. Meanwhile, geopolitical concerns intensified after Iran launched several rounds of missiles toward Israel as a warning against further military actions in Lebanon, casting doubt on a fragile ceasefire as peace negotiations remain stalled. Japanese chipmakers and other tech firms led the declines, including Kioxia Holdings (-8%), Renesas Electronics (-5.6%), SoftBank Group (-9.3%), Advantest (-5.1%) and Tokyo Electron (-6.1%)."
-    },
-    {
-      "id": "4922514",
-      "time": "2026-06-08 08:43:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局對舊金山機場實施航班地面延誤管控。"
-    },
-    {
-      "id": "te:markets:557044",
-      "time": "2026-06-08 08:43:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mitsui Stock Price Hits 20-week Low — Mitsui shares decreased to 4926.00 JPY, the lowest since January 2026. Over the past 4 weeks, Mitsui lost 11.65%, and in the last 12 months, it increased 66.63%."
-    },
-    {
-      "id": "4922513",
-      "time": "2026-06-08 08:41:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【金價上漲 長期觀點依然樂觀】亞洲早盤金價上漲。現貨黃金上漲0.5%，報每盎司4,349.71美元。大華研究團隊在其第三季度展望報告中指出，在能源價格高企導致通脹風險上升的情況下，隨著美債收益率攀升，金價已從每盎司5,000美元的水平回落。該團隊補充道，隨著投資者權衡高收益環境帶來的更高機會成本，金價可能需要進一步盤整。儘管如此，該行重申對這種貴金屬的長期樂觀看法。大華預計第三季度金價將在每盎司4,600美元左右，第四季度在每盎司4,800美元左右，隨後在明年第一季度升至每盎司5,000美元。"
-    },
-    {
-      "id": "4922512",
-      "time": "2026-06-08 08:41:49",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【燃油成本上升 多國航司面臨成本危機】第82屆國際航空運輸協會年度大會暨世界航空運輸峰會6日至8日在巴西里約熱內盧舉行，多國航司在年會上表示，美以伊戰事引發中東局勢持續緊張，能源運輸通道受阻，燃油價格大漲特漲，民航公司普遍面臨成本危機。國際航協旗下有370多家航空運營商會員，承載大約85%的全球航空運力，其年度大會是航空業最重要的盛會之一。國際航協原先預測，今年航空業淨利潤將達到創紀錄的410億美元。美以伊戰事爆發後，航空燃油成本大漲，運力隨之萎縮。航空業分析人士說，國際航協預計將在本次大會期間調低今年利潤預測資料。"
-    },
-    {
-      "id": "4922511",
-      "time": "2026-06-08 08:41:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國小麥收穫進度過六】農業農村部最新小麥機收進度顯示，目前，全國小麥收穫進度已過六成。山西夏糧小麥即將進入集中收穫。據農業農村部最新小麥機收進度，截至6月7日17時，全國已收穫夏糧小麥2.1億畝，收穫進度61.82%。安徽麥收基本完成，河南過九成半，江蘇過六成半，山東過三成，陝西過兩成半，山西過一成，河北近一成。"
     }
   ]
 }
