@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-16 02:29:31",
-  "count": 18239,
+  "updated": "2026-06-16 02:33:31",
+  "count": 18240,
   "items": [
+    {
+      "id": "4937018",
+      "time": "2026-06-16 02:32:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院批准擬向科威特出售 KC-130J 運輸機後續後勤保障配套服務，交易金額 2.359 億美元。"
+    },
+    {
+      "id": "mkt:019ecc8d-73f3-7dd8-b015-f239c43cce5f",
+      "time": "2026-06-16 02:31:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】As of the 02:30 night-session close, Shanghai gold main contract rose 1.77% to 943 yuan/gram, Shanghai silver main contract rose 2.49% to 16,854 yuan/kg, and SC crude oil main contract fell 1.96% to 531 yuan/barrel."
+    },
+    {
+      "id": "mkt:019ecc8d-6d76-7dd8-b015-e9a28ae6f0db",
+      "time": "2026-06-16 02:31:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 1.03% at 941.0 yuan/gram in the evening session on June 15 (Monday); Shanghai Gold Exchange silver T+D closed up 0.3% at 16,786.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019ecc8d-4dd7-7dd8-b015-e3f74687b376",
+      "time": "2026-06-16 02:31:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【European retail allocated under 1% in SpaceX record IPO】European retail investors received under 1% of allocations in SpaceX's record IPO, with roughly $600m of stock set aside for retail in the EU, Norway and Switzerland. Orders from that group were about four times the allocation, near $2.5bn, sources said."
+    },
+    {
+      "id": "4937017",
+      "time": "2026-06-16 02:31:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 7月原油期貨收跌4.13美元，跌幅4.87%，報80.75美元/桶。NYMEX 7月天然氣期貨收報3.1470美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9472美元/加侖，NYMEX 7月取暖油期貨收報3.2665美元/加侖。"
+    },
+    {
+      "id": "te:markets:559111",
+      "time": "2026-06-16 02:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Surges by 7.62% — Top crypto gainers are XRP (7.62%), Ether (6.01%) and Bitcoin (1.65%)."
+    },
+    {
+      "id": "mkt:019ecc8c-596a-7dd8-b015-df70b4b1a6f9",
+      "time": "2026-06-16 02:30:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran FM briefs Lebanese leaders on Iran–US MoU, urges end to attacks on Lebanon】Iran’s foreign minister Araghchi phoned Lebanese president Aoun and parliamentary speaker Berri on the 15th to brief them on Lebanon-specific clauses in the Iran–US memorandum of understanding (MoU). He said Iran is committed to ending the war and aggression against Lebanon and urged the United States to ensure the MoU’s terms are properly implemented, including a full end to Israeli attacks on Lebanon. Lebanese officials welcomed the MoU, said Lebanon’s security is integral to regional stability and endorsed the inclusion of a clause calling for an end to the war against Lebanon."
+    },
+    {
+      "id": "4937016",
+      "time": "2026-06-16 02:30:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長與黎巴嫩官員通話 通報伊美諒解備忘錄細節】伊朗外交部當地時間15日表示，伊朗外交部長阿拉格齊當天分別與黎巴嫩總統奧恩和黎巴嫩議會議長貝里通電話。阿拉格齊向黎巴嫩官員通報了伊美諒解備忘錄各項條款的細節，特別是與黎巴嫩相關的內容。阿拉格齊指出，伊朗致力於結束針對黎巴嫩的戰爭和侵略，並強調美國有責任確保諒解備忘錄條款得到妥善執行，同時必須徹底結束以色列針對黎巴嫩的一切襲擊。黎巴嫩官員對最近達成的諒解備忘錄條款表示歡迎，並強調，黎巴嫩的穩定與安全是任何實現地區穩定的切實努力中不可分割的一部分。他們同時對在諒解備忘錄文字中納入“結束針對黎巴嫩的戰爭”這一議題表示讚賞。（央視新聞）"
+    },
+    {
+      "id": "4937015",
+      "time": "2026-06-16 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.96%，報531.20元人民幣/桶。滬金夜盤收漲1.77%，滬銀收漲2.49%。"
+    },
     {
       "id": "mkt:019ecc89-cac4-7dd8-b015-d52382d6094f",
       "time": "2026-06-16 02:27:22",
@@ -167633,88 +167722,6 @@
         "Brent"
       ],
       "text": "【U.S. forces strike tanker in Gulf of Oman】U.S. Central Command said on social media on the 8th that U.S. forces fired on an unladen tanker in the Gulf of Oman bound for an Iranian port, disabling it after the crew refused orders. The Palau-flagged tanker was transiting international waters toward Iran, CENTCOM said; an F/A-18 Super Hornet from the carrier Lincoln fired precision-guided weapons to render the vessel inoperable. CENTCOM said it has enforced a blockade of maritime traffic to Iranian ports since April 13 and has disabled seven merchant vessels and forced 134 ships to change course."
-    },
-    {
-      "id": "mkt:019ea881-e7cc-733a-9234-5fb4d19aa3ac",
-      "time": "2026-06-09 02:32:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. State Department said the maritime blockade of Iran will remain in place until an agreement is reached. Frozen Iranian assets will not be unfrozen or released until Iran fulfills its commitments."
-    },
-    {
-      "id": "4924620",
-      "time": "2026-06-09 02:32:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "淡水河谷執行長表示，公司在阿曼的投資具備重要戰略意義。"
-    },
-    {
-      "id": "mkt:019ea881-2035-733a-9234-51836028fc82",
-      "time": "2026-06-09 02:31:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Democratic U.S. senator wrote to the inspector general seeking an investigation into Transportation Secretary Duffy’s road trip that was paid for by corporate donors."
-    },
-    {
-      "id": "mkt:019ea880-fe4f-733a-9234-4d51d2fbbd30",
-      "time": "2026-06-09 02:31:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 night-session close, SHFE most-active gold contract rose 0.06% to 952 yuan/gram; SHFE most-active silver contract fell 0.65% to 16,506 yuan/kg; SC crude most-active contract fell 1.12% to 590 yuan/barrel."
-    },
-    {
-      "id": "4924619",
-      "time": "2026-06-09 02:30:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨收於每桶91.30美元，上漲76美分，漲幅0.84%。"
-    },
-    {
-      "id": "mkt:019ea880-4df6-733a-9234-406628a85b87",
-      "time": "2026-06-09 02:30:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange evening session June 8: gold T+D closed up 0.3% at 950.0 yuan/gram; silver T+D closed up 0.66% at 16,444 yuan/kg."
-    },
-    {
-      "id": "4924618",
-      "time": "2026-06-09 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌1.12%，報590.00元人民幣/桶。滬金夜盤收漲0.06%，滬銀收跌0.65%。"
-    },
-    {
-      "id": "te:markets:557362",
-      "time": "2026-06-09 02:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Increases by 1.97% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.97% increase."
     }
   ]
 }
