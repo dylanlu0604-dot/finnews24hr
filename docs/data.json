@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-15 14:12:44",
-  "count": 18207,
+  "updated": "2026-06-15 14:16:47",
+  "count": 18203,
   "items": [
+    {
+      "id": "4935657",
+      "time": "2026-06-15 14:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“遇見小面”創始人致歉】6月15日，“遇見小面”創始人宋奇釋出致“渝見小面”的一封信，就“商標風波”致歉。信中稱，“這兩天，我閉門思過，想著除了道歉我到底還能做點什麼。於是，我和團隊決定將我們已註冊的第35類‘渝見小面’商標無償贈予你們，你們可以不用改換招牌而放心使用。如果你們還需要繼續申請第43類商標（目前可以申請註冊）或者還有其他方面的需要，我們也很願意提供必要的幫助。”"
+    },
+    {
+      "id": "4935656",
+      "time": "2026-06-15 14:15:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【光大期貨：本週關注美聯儲議息會議，謹慎對待黃金波動】上週黃金波動加劇，倫敦現貨周內跌幅超過2%，SHFE黃金週跌超3%。本週為超級央行周，全球主要央行將召開議息會議，重點關注美聯儲議息會議，季度點陣圖調整以及會後沃什首秀是關鍵；另外美伊協議談判取得關鍵進展，14日晚雙方完成《伊斯蘭堡諒解備忘錄》談判，伊朗於15日凌晨確認，後續將於19日舉辦簽字儀式，週一早盤國際油價大幅低開，現貨黃金高開超1%，若通脹預期緩解，黃金關注底部支撐。（光大期貨）"
+    },
+    {
+      "id": "mkt:019ec9eb-300b-7dd8-b000-be87bc6d7a08",
+      "time": "2026-06-15 14:14:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Marubeni Corp: aluminium stocks at major Japanese ports 238,900 t at end-May, down from 249,500 t at end-April."
+    },
+    {
+      "id": "4935655",
+      "time": "2026-06-15 14:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "丸紅（Marubeni）資料顯示：截至五月末，日本主要港口鋁庫存為23.89萬噸，四月末庫存為24.95萬噸。"
+    },
+    {
+      "id": "mkt:019ec9ea-dbd3-7dd8-b000-b61984819cb9",
+      "time": "2026-06-15 14:14:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "ICE data showed front-month UK wholesale gas prices fell 5.6% to 105.7 pence/therm."
+    },
+    {
+      "id": "4935654",
+      "time": "2026-06-15 14:14:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）資料顯示，英國近月批發天然氣價格下跌5.6%，至每特姆105.7便士。"
+    },
+    {
+      "id": "4935653",
+      "time": "2026-06-15 14:13:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行批准向土耳其可再生能源市場發放 4 億歐元貸款。"
+    },
+    {
+      "id": "4935652",
+      "time": "2026-06-15 14:13:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國與伊朗達成臨時協議 油價下挫】在美國與伊朗達成臨時協議、結束持續數月的戰爭後，油價應聲下跌。該協議有望重開霍爾木茲海峽，緩解一度震動全球能源市場的供應緊張局面。布倫特原油暴跌超 4%，跌破每桶 84 美元，上週收盤已創三個月新低；西得克薩斯輕質原油（WTI）則逼近 81 美元 / 桶。美國總統特朗普在社交媒體發文稱，他已授權霍爾木茲海峽“免費通行開放”，並解除對伊朗的封鎖；協議將於本週五簽署，屆時海峽將正式恢復通航。儘管特朗普宣稱此舉旨在“讓石油自由流動！”，交易員與分析師卻持更為謹慎的態度。他們指出：協議文字缺乏細則、航運業重啟航道通行仍存多重障礙、油田恢復開採尚需漫長週期。"
+    },
+    {
+      "id": "te:economy:558920",
+      "time": "2026-06-15 14:13:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Wholesale Prices YoY",
+        "Importance 2"
+      ],
+      "text": "Germany Wholesale Prices Rise at Softer Pace — Germany's wholesale prices increased 5.9% year-on-year in May 2026, easing from a 6.3% rise in April, which had marked the strongest annual increase since February 2023. Despite the slowdown, wholesale inflation extended its upward trend for an 18th consecutive month, largely reflecting the impact of Middle East hostilities on commodity markets. Prices continued to surge for petroleum products (30.5%) and non-ferrous ores, metals, and related semi-finished products (36.1%). Further increases were seen in chemical products (13.3%), flowers and plants (8.5%), and iron, steel, and semi-finished products (6.7%). Meanwhile, prices fell for coffee, tea, cocoa, and spices (-10.7%), live animals (-10.1%), and milk, dairy products, eggs, edible oils, and fats (-8.1%). On a monthly basis, wholesale prices dropped 0.6%, reversing April's 2.0% increase and marking the first monthly decline since December, compared with market expectations for a 0.8% rise."
+    },
+    {
+      "id": "4935651",
+      "time": "2026-06-15 14:12:48",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗上調韓國KOSPI指數目標點位至10000點】花旗集團在最新研究報告中將韓國KOSPI指數目標點位從8500點上調至10000點。理由是記憶體晶片獲利持續增長，以及韓國政府推出強力財政刺激措施。"
+    },
+    {
+      "id": "4935650",
+      "time": "2026-06-15 14:12:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受暴雨影響 國鐵廣州局持續調整列車執行】記者從國鐵廣州局瞭解到，未來三天，廣東大部有一次大雨到暴雨區域性大暴雨的降水過程，對鐵路運輸帶來一定影響。為確保旅客列車執行安全，國鐵廣州局持續調整列車執行，今天（15日）凌晨至明天（16日）16時，京九鐵路部分列車採取停運措施，具體停運車次可在12306網站查詢，後續將根據雨情動態調整列車執行秩序，提醒有出行需求的旅客密切關注鐵路12306網站及車站公告，及時掌握相關資訊。"
+    },
     {
       "id": "mkt:019ec9e8-0f7f-7dd8-b000-ad45375a078f",
       "time": "2026-06-15 14:11:29",
@@ -167312,152 +167415,6 @@
         "005380.KS"
       ],
       "text": "NVIDIA CEO Jensen Huang said NVIDIA is discussing with Hyundai Motor how to integrate AI into future manufacturing systems."
-    },
-    {
-      "id": "mkt:019ea5e0-6368-7aa4-8928-a346950e1fb9",
-      "time": "2026-06-08 14:16:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tehran's two civilian airports suspend operations】Mehrabad Airport in Tehran announced on June 8 that all flights are suspended until further notice. Both civilian airports in the Iranian capital are currently out of service."
-    },
-    {
-      "id": "mkt:019ea5e0-4a00-7ccd-9e37-346bae8b196c",
-      "time": "2026-06-08 14:16:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said the company will collaborate with Hyundai across mobility sectors."
-    },
-    {
-      "id": "mkt:019ea5e0-142c-7aa4-8928-94716a81d311",
-      "time": "2026-06-08 14:16:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "005380.KS"
-      ],
-      "text": "Hyundai Motor Group executive chair briefed NVIDIA CEO Jensen Huang on South Korea's AI and robotics projects."
-    },
-    {
-      "id": "4923202",
-      "time": "2026-06-08 14:16:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗首都兩個民用機場暫停運營】伊朗首都德黑蘭梅赫拉巴德機場今天（6月8日）宣佈所有航班暫停運營，直至另行通知。目前，德黑蘭的兩個民用機場全都進入暫停運營狀態。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ea5df-bb6e-7ccd-9e37-2cdafdaefbad",
-      "time": "2026-06-08 14:16:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA CEO Jensen Huang said the industry is now very close to achieving industrial robotization."
-    },
-    {
-      "id": "te:economy:557151",
-      "time": "2026-06-08 14:16:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Factory Orders",
-        "Importance 2"
-      ],
-      "text": "German Factory Orders Fall More than Estimated — Germany’s factory orders dropped 3.8% mom in April 2026, reversing a downwardly revised 4.5% increase in the prior month and missing market expectations for a 1.2% decline. The decrease marked the second monthly fall so far this year, reflecting weaker demand in the automotive industry (-5.3%), electrical equipment (-16.3%), and mechanical engineering (-7.4%). Orders declined across all major categories, including consumer goods (-6.7%), intermediate goods (-4.4%), and capital goods (-2.9%). Foreign demand weakened 4.2%, largely due to an 11.1% plunge in orders from the euro area, while orders from non-euro area countries grew 0.8%. Domestic orders also contracted by 2.9%. Excluding large-scale contracts, factory orders fell 3.8%. On a less volatile basis, new orders in the February-April period were 3.1% lower than in the previous three months. However, excluding large orders, new business rose 3.5%, suggesting underlying demand remained somewhat more resilient."
-    },
-    {
-      "id": "4923201",
-      "time": "2026-06-08 14:15:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國際航協：2026年全球SAF產量依舊令人失望】國際航空運輸協會（IATA）釋出最新估算資料顯示，2026年全球SAF（可持續航空燃料）產量預計將達到約240萬噸，僅佔航空燃料總用量的0.8%，航空公司支出成本為43億美元。國際航協理事長威利·沃爾什（Willie Walsh）表示：“對於SAF生產而言，又是令人失望的一年。由於政策缺乏有效統籌，加之石油公司缺乏興趣，實現2050年SAF滿足65%燃料需求目標的難度正逐年增加。當前的能源危機本應進一步凸顯發展可再生能源，包括SAF的緊迫性。然而，無論是能源危機、實現能源獨立與創造就業的需求，還是緩解氣候變化的緊迫性，都尚未轉化為建立成熟SAF市場所需的市場激勵措施。”"
-    },
-    {
-      "id": "4923200",
-      "time": "2026-06-08 14:15:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【布油一度飆升逾5% 伊朗和以色列交火令停火協議面臨考驗】油價飆升，此前伊朗和以色列交火，威脅到中東地區本已脆弱的停火局面，而旨在結束這場戰爭的談判也陷入僵局。布倫特原油價格一度飆升5%至每桶97.77美元，WTI原油價格升至近94美元水平。以色列表示已對伊朗境內的軍事目標實施了打擊，以此報復德黑蘭此前發動的導彈襲擊，儘管美國總統唐納德·特朗普曾呼籲以色列總理本雅明·內塔尼亞胡不要進行反擊。據半官方的法爾斯通訊社援引伊朗伊斯蘭革命衛隊的一份宣告報道，伊朗革命衛隊週一對以色列內瓦提姆和特爾諾夫空軍基地的關鍵設施發動襲擊，此次空襲是對週一早些時候以色列針對伊朗境內多個城市的導彈襲擊採取的報復措施。"
-    },
-    {
-      "id": "4923199",
-      "time": "2026-06-08 14:14:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英偉達執行長黃仁勳：很高興能在韓國新萬金建設英偉達工廠。"
-    },
-    {
-      "id": "4923198",
-      "time": "2026-06-08 14:14:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳：英偉達與現代集團正探討如何將人工智慧整合至未來製造體系。"
-    },
-    {
-      "id": "4923197",
-      "time": "2026-06-08 14:13:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達執行長黃仁勳：我們將與現代汽車在各類移動出行領域展開合作。"
-    },
-    {
-      "id": "4923196",
-      "time": "2026-06-08 14:13:38",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點"
-      ],
-      "text": "英偉達執行長黃仁勳：機器人技術實現產業化已近在眼前。"
-    },
-    {
-      "id": "4923195",
-      "time": "2026-06-08 14:13:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【胡塞武裝禁止以色列船隻在紅海航行】葉門胡塞武裝發言人葉海亞·薩雷亞今天（6月8日）釋出影片宣告，證實稍早前向以色列發射導彈。宣告還稱，將禁止以色列船隻在紅海航行。（CCTV國際時訊）"
-    },
-    {
-      "id": "4923193",
-      "time": "2026-06-08 14:13:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【網易有道在海南成立新公司】天眼查App顯示，近日，網易有道靈智（海南）資訊科技有限公司成立，法定代表人為金磊，註冊資本1000萬人民幣，經營範圍包括網際網路資訊服務、演出經紀、出版物零售、出版物批發等。股東資訊顯示，該公司由北京網易有道計算機系統有限公司全資持股。"
-    },
-    {
-      "id": "4923192",
-      "time": "2026-06-08 14:13:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Nebius宣佈在英國投資17億英鎊擴建AI雲基礎設施】6月8日，AI雲公司Nebius宣佈，將投資約17億英鎊在英國新建三處英偉達基礎設施部署站點，並持續擴大其倫敦商業及AI研發中心規模。三處新站點均將部署英偉達最新全棧AI工廠平臺技術，合計裝機容量預計於2027年全面達產後達到65兆瓦。此前，Nebius已於2025年11月完成在英國的首個英偉達Blackwell Ultra基礎設施部署。"
     }
   ]
 }
