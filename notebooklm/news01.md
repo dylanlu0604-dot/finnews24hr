@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-16 05:37:22_
-_本檔包含 3670 則快訊，約 667286 字_
+_更新時間：2026-06-16 06:26:18_
+_本檔包含 3645 則快訊，約 667377 字_
+
+---
+
+### 2026-06-16 06:25:19  #國際
+
+美國中央情報局局長約翰·拉特克利夫告訴特朗普和其他高階官員，美國收集到的情報對伊朗是否願意在最終協議中做出美國所尋求的核讓步提出了嚴重質疑。
+
+---
+
+### 2026-06-16 06:20:03  #國際
+
+【美一B52轟炸機墜毀8人死】據美國加利福尼亞州愛德華茲空軍基地通報，當地時間6月15日上午，一架隸屬於美國空軍的B-52“同溫層堡壘”轟炸機於在加州南部莫哈韋沙漠墜毀。事發時這架轟炸機剛從該基地起飛不久。據美國有線電視新聞網最新報道，機上8名機組人員據信已全部死亡。（CCTV國際時訊）
+
+---
+
+### 2026-06-16 06:19:55  #MKT News
+
+【US B-52 bomber crashes in California; eight believed dead】Edwards Air Force Base said a US Air Force B-52 Stratofortress crashed in the Mojave Desert in southern California on the morning of June 15, shortly after taking off from the base. CNN reported all eight crew members are believed to have died.
+
+---
+
+### 2026-06-16 06:18:06  #國際
+
+美國交通部：特朗普政府關閉對2024年達美航空CrowdStrike系統宕機事件的調查，未尋求處罰，該事件曾導致超130萬名旅客出行受阻。
+
+---
+
+### 2026-06-16 06:16:06  #國際
+
+英國宣佈將對俄羅斯實施新一輪制裁，並進一步向烏克蘭提供能源援助。英國首相斯塔默及其盟友正試圖加大對普京的施壓力度，同時勸說特朗普推動重啟新一輪和平談判。
+
+---
+
+### 2026-06-16 06:15:04  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Indian Rupee Rises by 0.75% — Top currency gainers are Indian Rupee (0.75%), Swedish Krona (0.60%), Brazilian Real (0.40%) and Euro (0.16%). Biggest losers are Japanese Yen (-0.06%) and Dollar Index (-0.06%). Meanwhile British Pound was little changed.
+
+---
+
+### 2026-06-16 06:14:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish #DXY #Impact bullish
+
+【BARCLAYS: Geopolitical 'reset' fading; spot gold near $4,150 fair value, 2027 target $4,900】BARCLAYS says the gold sell-off tied to the Middle East conflict is a market reset rather than a structural reversal. The bank attributes the drop to three factors: a sharp dollar rally, a 10% rise in the S&P 500 that pulled risk capital out of defensive assets, and concentrated positions that accelerated liquidations. Barclays estimates the combined impact of dollar strength and a 10% S&P rally explained about a 10% fall in gold; the remainder reflects position unwinds. Spot gold is trading near Barclays' fair-value estimate of $4,150/oz. The bank retains $4,791/oz for 2026 and $4,900/oz for 2027 but warns of near-term downside risk relative to fair value. Structural bullish drivers—persistent inflation, policy uncertainty and central-bank reserve diversification—are slow-moving and did not support prices during the acute phase. Barclays estimates each 1ppt rise in inflation raises gold by roughly 5% and says a sustained rebound hinges on renewed dollar weakness and the resumption of steady central-bank purchases.
+
+---
+
+### 2026-06-16 06:13:50  #公司 #市場 #焦點 #國際
+
+【中東追蹤：美伊協議已電子簽署 霍爾木茲海峽前景未明 市場積極反應】美國和伊朗簽署了諒解備忘錄的電子版，雙方計劃週五在瑞士舉行正式簽署儀式，此舉有望重新開放霍爾木茲海峽，並進一步推動結束這場持續15周的戰爭。全球領導人對這一進展表示歡迎。美國總統特朗普週一表示，該關鍵水道將於週五“完全開放”。不過據伊朗媒體報道，德黑蘭將僅在60天內允許船隻免費透過海峽。歐洲盟友似乎也並不認同特朗普的樂觀判斷。大型船東和船舶管理公司對該地區航運形勢仍然態度謹慎。不過，華盛頓和德黑蘭迄今未公佈諒解備忘錄文字，美國副總統萬斯稱這份約一頁半的檔案“非常籠統”。以色列與黎巴嫩真主黨的對抗也繼續為和平前景增添變數。中東緊張局勢緩解在本週伊始推動全球股市和債市上漲，而此前因海峽航運受阻而飆升的原油和天然氣價格下挫。
+
+---
+
+### 2026-06-16 06:08:46  #國際
+
+美國加州愛德華茲空軍基地一架B-52轟炸機墜毀，機組人員推定全部遇難。
+
+---
+
+### 2026-06-16 06:06:11  #市場
+
+鈀金期貨日內跌1%，現報1347.50美元/盎司。
+
+---
+
+### 2026-06-16 06:05:46  #Trading Economics #Economy #South Korea #Import Prices YoY #Importance 1
+
+South Korea Import Prices Rise in May — South Korea’s import prices rose 24.8% year-on-year in May 2026, accelerating from a 20.2% increase in April. Price gains were led by raw materials, which climbed 38.9%, driven by a 42.4% increase in mining product prices. Intermediate goods prices rose 26.8%, reflecting sharp increases in coal and petroleum products (73.1%), basic metal products (32.8%), chemical products (26.1%), and computers, electronic and optical equipment (23.2%). Meanwhile, prices of capital goods increased 4.8%, while consumer goods prices rose 6.3%.
+
+---
+
+### 2026-06-16 06:04:16  #央行 #國際
+
+【美聯儲6月維持利率不變的機率為98.5%】據CME“美聯儲觀察”：美聯儲6月維持利率不變的機率為98.5%，累計降息25個基點的機率為1.5%。美聯儲到7月維持利率不變的機率為91.3%，累計加息25個基點的機率7.4%，累計降息25個基點的機率為1.4%。
+
+---
+
+### 2026-06-16 06:02:40  #國際
+
+國際足聯維持禁令：世界盃賽事前禁止使用伊朗君主制舊旗幟。
+
+---
+
+### 2026-06-16 06:02:16  #MKT News #SPCX.O
+
+【Musk's net worth jumps about $139bn in one day】Bloomberg data showed Musk's net worth rose $139bn in one day to above $1.11tn after SpaceX (SPCX.O) closed up nearly 20%.
+
+---
+
+### 2026-06-16 06:00:42  #市場 #焦點
+
+現貨白銀突破70美元/盎司，日內漲0.07%。
+
+---
+
+### 2026-06-16 06:00:09  #國際
+
+康菲石油料將與敘利亞簽署協議，從而恢復天然氣生產。
+
+---
+
+### 2026-06-16 05:58:21  #其他
+
+中央氣象臺6月16日06時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-06-16 05:58:08  #其他
+
+中央氣象臺6月16日06時繼續釋出強對流天氣黃色預警。
+
+---
+
+### 2026-06-16 05:57:00  #其他
+
+玻利維亞向投資者表示，該國即將與國際貨幣基金組織敲定一項融資計劃，且大機率會先推行浮動匯率制度，以此廢除已實施超過15年的美元釘住匯率機制。
+
+---
+
+### 2026-06-16 05:56:38  #其他
+
+玻利維亞告知投資者：外匯統一政策、國際貨幣基金組織協議即將落地。
+
+---
+
+### 2026-06-16 05:55:04  #國際
+
+伊朗軍方宣告：任何違反諒解備忘錄的行為都將遭到迅速反擊。
+
+---
+
+### 2026-06-16 05:54:48  #Trading Economics #Economy #South Korea #Export Prices YoY #Importance 1
+
+South Korea Export Inflation at 28-Year High — South Korea’s export prices surged 46.9% year-on-year in May of 2026, the largest rise since March 1998 . he increase was mainly driven by manufactured goods, which rose 46.9%, with computers, electronic and optical equipment surging 104%. Prices also rose for coal products and petroleum products (88.6%), basic metal products (31.6%), and chemical products (28.3%). Meanwhile, prices of aagricultural, forestry and marine products increased 32.4%.
+
+---
+
+### 2026-06-16 05:49:19  #MKT News #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish
+
+【Economists: If Iran deal holds, worst of US inflation may be over】Economists say even if an Iran agreement is implemented, normalising shipping through the Strait of Hormuz and gas prices returning to pre‑conflict levels could take time. US inflation accelerated in May to the fastest pace in more than three years, but the rise likely has peaked. Andrew Hollenhorst, Citigroup’s chief US economist, cautioned that short‑term energy and oil market forecasts are difficult but that the broader trajectory appears downward. News of a provisional Iran‑US agreement pushed oil prices lower and lifted equities; Stephen Stanley, chief US economist at Santander US Capital Markets, said markets are treating the deal as done and largely reverting toward pre‑conflict conditions.
+
+---
+
+### 2026-06-16 05:42:06  #國際
+
+【霍爾木茲海峽地區傳出爆炸聲】據伊朗邁赫爾通訊社報道，霍爾木茲海峽地區以及位於該海峽的伊朗最大島嶼格什姆島南部傳出三次爆炸聲：前兩次爆炸聲發生在當地時間6月15日深夜，第三次爆炸聲發生在今天（6月16日）凌晨。據初步報告，爆炸很可能與該海峽的航運交通管理有關。截至目前，伊朗伊斯蘭革命衛隊和當地官方機構，尚未就此次事件的具體細節作出回應。
+
+---
+
+### 2026-06-16 05:40:57  #市場 #國際
+
+【新興市場股票逼近紀錄高點，美伊協議帶動油價下跌】新興市場貨幣、股票和債券週一加入全球風險資產漲勢，此前美國和伊朗達成一項臨時協議，旨在恢復霍爾木茲海峽通行。MSCI新興市場股票指數上漲2.8%，逼近本月早些時候觸及的紀錄高位。隨著布倫特原油跌至3月份以來最低水平，依賴石油進口的國家資產受到的提振最大。菲律賓和印尼貨幣在同類貨幣中領漲；固定收益市場方面，埃及和斯里蘭卡美元債漲幅居前。印度盧比、印尼盾和菲律賓比索反彈；這些貨幣均來自石油進口國，在衝突期間兌美元曾跌至紀錄低點。
+
+---
+
+### 2026-06-16 05:37:04  #Trading Economics #Economy #Uruguay #GDP Annual Growth Rate #Importance 1
+
+Uruguay GDP Growth Accelerates in Q1 — Uruguay’s GDP grew 0.9% year-on-year in the first quarter of 2026, accelerating from a 0.1% increase in the previous quarter. Nine of the twelve major sectors recorded growth. Financial services posted the strongest expansion, rising 3.1%, followed by transport and warehousing and information and communications (2.2%), commerce, restaurants and food services (1.4%), and manufacturing (1.3%). In contrast, agriculture, fishing and mining contracted 3.7%, while construction fell 3.4% and public administration activities declined 0.8%.
 
 ---
 
@@ -21858,311 +22014,5 @@ Iran state media quoted the Supreme Joint Military Command saying Iran's militar
 ### 2026-06-15 00:53:30  #MKT News
 
 Saudi state television, citing sources, says a Qatari delegation is currently en route to Islamabad.
-
----
-
-### 2026-06-15 00:53:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's Supreme Joint Military Command said it was 'ready to fire at any time, aiming at the enemy's heart'.
-
----
-
-### 2026-06-15 00:51:29  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Israel Defense Forces: Hezbollah rockets, drones strike northern Israel】The Israel Defense Forces said Hezbollah fired a rocket from Lebanon that struck near the Neot Mordechai community close to Kiryat Shmona. Several other rockets landed near Israeli forces in southern Lebanon, and suspected Hezbollah drones struck areas inside Israel near the Lebanese border earlier, the IDF said.
-
----
-
-### 2026-06-15 00:50:06  #國際
-
-以色列國防軍：一枚來自黎巴嫩的射彈落入以色列北部的內奧特·莫迪凱地區，以軍行動區域所在的黎巴嫩南部也出現多處被擊中的情況。此外，還有多架無人機在邊境附近墜落。
-
----
-
-### 2026-06-15 00:49:54  #國際
-
-伊朗國家廣播電視臺：伊朗聯合軍事指揮官阿里·阿卜杜拉希少將將於數分鐘內向民眾發表講話，回顧過去一年的局勢變化，內容涵蓋去年六月為期十二天的戰事，以及近期同美國、以色列之間的衝突。
-
----
-
-### 2026-06-15 00:42:45  #國際
-
-特朗普：這份逐步成型的伊朗協議將為以色列帶來利好。協議會阻斷伊朗研發核武器的程序，要求伊朗轉移核材料，並允許相關場所接受核查。
-
----
-
-### 2026-06-15 00:41:47  #國際
-
-【特朗普通話中提議以軍撤軍方案 內塔尼亞胡拒絕】在美國總統特朗普與以色列總理內塔尼亞胡最近一次通話中，特朗普提出了以色列官員口中的最壞情況方案：作為與伊朗達成更廣泛諒解的一部分，以色列需從黎巴嫩南部的五個據點及敘利亞赫爾蒙山撤軍。內塔尼亞胡當場斷然拒絕了這一提議。
-
----
-
-### 2026-06-15 00:39:04  #MKT News
-
-【Joint communiqué on talks between the foreign ministers of China and Mongolia】Chinese Politburo member and Foreign Minister Wang Yi visited Mongolia June 13-15 at the invitation of State Great Khural member and Foreign Minister Batmunkh Battsetseg. The ministers held talks and agreed, guided by the leaders' consensus, to advance the China-Mongolia comprehensive strategic partnership.
-
----
-
-### 2026-06-15 00:38:16  #其他
-
-南非內政部長：自拉馬福薩總統宣誓將加大力度整治非法移民後一週內，南非已遣返2745名外籍人員。
-
----
-
-### 2026-06-15 00:37:57  #MKT News
-
-Axios reporter says Iranian officials have not yet confirmed they will sign an agreement today.
-
----
-
-### 2026-06-15 00:36:01  #宏觀 #國際
-
-【中華人民共和國和蒙古國外交部長會談聯合新聞公報】應蒙古國國家大呼拉爾委員、外交部長巴特蒙赫·巴特策策格邀請，中共中央政治局委員、中華人民共和國外交部長王毅於2026年6月13日至15日對蒙古國進行訪問。雙方在友好的氛圍中舉行會談，確認以兩國元首達成的共識為引領，推動中蒙全面戰略伙伴關係不斷向前發展。（新華社）
-
----
-
-### 2026-06-15 00:28:34  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
-
-Trump told Fox News a deal with Iran will be signed remotely first, with a possible in-person signing in Europe about a week later.
-
----
-
-### 2026-06-15 00:27:52  #其他
-
-【瑞士選民投票否決了人口上限提案】瑞士否決了一項將人口上限設定在1,000萬的提議。對這項激進措施如果獲透過將造成經濟損害的警告聲音蓋過了對移民問題的擔憂。瑞士政府稱，在週日的全國性投票中，54%的瑞士選民反對這一想法。約46%的人支援該倡議。週日的投票是數月以來造勢活動的高潮。在此期間，右翼團體稱，瑞士人口快速增長正在導致過度擁擠，並給該國資源造成壓力。瑞士人口距離他們提議的上限並不太遠，本世紀以來已增加近200萬，達到910萬。
-
----
-
-### 2026-06-15 00:25:25  #焦點 #國際
-
-【特朗普稱伊朗協議預計將在兩到三小時內簽署】美國總統特朗普對福克斯新聞表示，他預計與伊朗的協議將在未來兩到三個小時內簽署。特朗普稱，協議將以電子方式簽署，預計一週內將在歐洲某地舉行另一場面對面的簽字儀式。
-
----
-
-### 2026-06-15 00:24:15  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-USHAKOV said Trump told Putin an Iran agreement is imminent, and Putin said he was pleased the conflict was about to end.
-
----
-
-### 2026-06-15 00:23:57  #MKT News
-
-Swiss police in Geneva fired tear gas at anti-G7 protesters.
-
----
-
-### 2026-06-15 00:23:39  #國際
-
-俄總統助理烏沙科夫：特朗普告知普京伊朗協議接近達成，普京對沖突將結束表示滿意。
-
----
-
-### 2026-06-15 00:23:24  #MKT News
-
-Ushakov said Trump informed Putin that U.S. presidential envoy Witkoff and Trump’s son-in-law Kushner will visit Russia soon.
-
----
-
-### 2026-06-15 00:23:19  #其他
-
-瑞士警方在日內瓦的反G7抗議活動現場發射催淚瓦斯。
-
----
-
-### 2026-06-15 00:22:42  #國際
-
-特朗普：我將要求伊朗不要向以色列發射導彈。
-
----
-
-### 2026-06-15 00:22:17  #MKT News
-
-Russian presidential aide USHAKOV said US President Trump told President Putin that ending the war in Ukraine is vital and that Trump was prepared to offer help.
-
----
-
-### 2026-06-15 00:21:49  #MKT News
-
-【Ushakov: Trump told Russian side US-Iran talks produced an acceptable outcome】Russian presidential aide Ushakov said on the 14th that President Trump told President Putin in a phone call that, although US-Iran talks were very difficult, they had produced an acceptable outcome.
-
----
-
-### 2026-06-15 00:21:47  #國際
-
-俄總統助理烏沙科夫：特朗普告訴普京，結束俄烏衝突至關重要，且特朗普已準備好提供協助。
-
----
-
-### 2026-06-15 00:20:50  #國際
-
-【俄總統助理：特朗普告知俄方美伊談判取得可接受結果】俄羅斯總統助理烏沙科夫14日說，美國總統特朗普在與俄總統普京進行電話交談時表示，儘管美伊談判過程非常艱難，但取得了可以接受的結果。（新華社）
-
----
-
-### 2026-06-15 00:19:44  #市場
-
-【亞美尼亞公民合約黨贏得議會選舉】亞美尼亞中央選舉委員會主席霍瓦基米揚14日宣佈議會選舉的最終結果，由現任總理帕什尼揚領導的執政黨公民合約黨以49.745%的得票率贏得議會選舉。（新華社）
-
----
-
-### 2026-06-15 00:19:20  #國際
-
-特朗普： 我們原定今早簽署協議，以色列對貝魯特的襲擊導致簽署工作推遲。我認為協議今日仍會在接下來數小時內完成簽署。
-
----
-
-### 2026-06-15 00:18:52  #國際
-
-特朗普：內塔尼亞胡在美國原定與伊朗簽署協議的一小時前，下令襲擊了貝魯特的達希耶區。
-
----
-
-### 2026-06-15 00:17:44  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-The chair of Iran's parliamentary National Security Committee said a "strong response is imminent" following an Israeli strike on Beirut's southern suburbs.
-
----
-
-### 2026-06-15 00:16:44  #國際
-
-福克斯新聞：特朗普與內塔尼亞胡談話時使用了髒話。
-
----
-
-### 2026-06-15 00:16:13  #國際
-
-【俄方證實烏無人機被擊落，無人傷亡】俄羅斯雅羅斯拉夫爾州和圖拉州州長14日表示，自當天凌晨以來，有部分烏克蘭無人機在被俄方擊落後墜落至兩州的工業設施內，但未造成人員傷亡。烏克蘭總統澤連斯基14日在社交媒體發文稱，作為對俄方拒絕停火的回應，13日晚至14日凌晨，烏克蘭對俄羅斯雅羅斯拉夫爾州、圖拉州等地的石油設施、化工廠等發動遠端打擊。（新華社）
-
----
-
-### 2026-06-15 00:16:01  #國際
-
-伊朗議會國家安全委員會主席：“今天，以色列在貝魯特達希耶犯下的罪行再次證明，美國軟弱無能，毫無信譽可言，甚至連這個都管不了。我們將做出強有力的回應。
-
----
-
-### 2026-06-15 00:13:50  #國際
-
-特朗普：內塔尼亞胡缺乏判斷力，我已向他表達了強烈不滿。
-
----
-
-### 2026-06-15 00:13:46  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
-
-【Trump criticizes Netanyahu after Israeli strike on Beirut delays US-Iran deal signing】President Trump sharply criticized Israeli Prime Minister Netanyahu after an Israeli strike on Beirut hours before a planned US-Iran agreement signing, saying the attack showed "no judgment" and left him "very angry." Trump said he was told about the strike roughly one hour before the scheduled signing and that rockets earlier fired by Hezbollah landed in open areas with no injuries, yet Israel struck Beirut. The strike delayed the signing that was due that morning; Trump said he still expected the deal to be signed within hours. He described the agreement as preventing Iran from obtaining nuclear weapons, allowing inspections with 24-hour notice and eliminating Iran's stock of highly enriched uranium.
-
----
-
-### 2026-06-15 00:13:06  #國際
-
-福克斯新聞：特朗普告訴內塔尼亞胡不要在黎巴嫩進行進一步的打擊，警告說這可能會危及美伊協議。
-
----
-
-### 2026-06-15 00:12:29  #國際
-
-特朗普接受阿克西奧斯新聞網採訪：伊朗相關協議仍計劃於週日簽署。
-
----
-
-### 2026-06-15 00:11:53  #國際
-
-【俄總統助理：特朗普與普京通話 美伊談判結果將公佈】俄羅斯總統助理烏沙科夫14日說，美國總統特朗普當天在與俄羅斯總統普京的通話中表示，美國和伊朗之間的協議已接近達成，談判結果可能於當天公佈。（新華社）
-
----
-
-### 2026-06-15 00:11:41  #MKT News #Important
-
-According to Israel's Channel 12, US President Trump said he told Netanyahu on a call, "What are you doing?"
-
----
-
-### 2026-06-15 00:10:58  #焦點 #國際
-
-福克斯新聞：若協議簽署，特朗普將立即下令解除封鎖。
-
----
-
-### 2026-06-15 00:10:35  #國際
-
-特朗普接受福克斯新聞採訪：將要求伊朗不要對以色列展開反擊。
-
----
-
-### 2026-06-15 00:10:19  #國際
-
-特朗普：我和內塔尼亞胡通了電話，我質問他“你到底在做什麼”？
-
----
-
-### 2026-06-15 00:09:52  #國際
-
-特朗普接受福克斯新聞採訪：伊朗相關協議或將在一週內舉行現場簽署儀式。
-
----
-
-### 2026-06-15 00:09:24  #國際
-
-美國中央司令部：6月14日，美國海軍一架搜救直升機在阿拉伯海北部救助了14名印度船員。
-
----
-
-### 2026-06-15 00:08:57  #國際
-
-特朗普接受福克斯新聞採訪：伊朗相關協議將在數小時內以電子形式簽署。
-
----
-
-### 2026-06-15 00:08:21  #MKT News
-
-US Vice President Vance said he will decide after the midterm elections whether to run in the 2028 presidential race.
-
----
-
-### 2026-06-15 00:08:14  #國際
-
-特朗普對福克斯新聞表示：伊朗核協議可能在歐洲面對面簽署。
-
----
-
-### 2026-06-15 00:05:35  #焦點 #國際
-
-特朗普接受福克斯新聞採訪：與伊朗的相關協議大機率將在未來兩至三小時內簽署。
-
----
-
-### 2026-06-15 00:04:21  #國際
-
-美國副總統萬斯：將在中期選舉後決定是否參加2028年總統競選。
-
----
-
-### 2026-06-15 00:02:57  #國際
-
-普京與特朗普通話期間，談及了伊朗局勢以及烏克蘭戰事。
-
----
-
-### 2026-06-15 00:02:33  #MKT News #Important
-
-An official involved in the talks told Refinitiv that mediators are optimistic a US-Iran deal is "about to be reached" and that negotiations are progressing smoothly.
-
----
-
-### 2026-06-15 00:01:25  #焦點 #國際
-
-參與談判的官員表示，調解方對美國與伊朗達成協議持樂觀態度，認為“已接近達成”，且談判進展順利。
-
----
-
-### 2026-06-14 23:58:53  #焦點 #國際
-
-以色列表示，在以色列空襲黎巴嫩貝魯特之後，伊朗可能在未來幾小時內發動襲擊。
-
----
-
-### 2026-06-14 23:58:50  #MKT News
-
-【Israeli finance minister signs West Bank settlement expansion agreement】On the 14th local time, Israeli Finance Minister Smotrich signed a framework agreement committing NIS 2 billion (about $685m) to build 6,000 apartments and related infrastructure in an Israeli settlement in the West Bank. Settlement expansion is a principal obstacle to Israeli-Palestinian peace talks.
 
 ---

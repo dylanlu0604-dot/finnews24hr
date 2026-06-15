@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-16 05:37:22_
-_本檔包含 3633 則快訊，約 666532 字_
+_更新時間：2026-06-16 06:26:18_
+_本檔包含 3621 則快訊，約 666746 字_
+
+---
+
+### 2026-06-12 14:20:14  #其他
+
+【北汽新能源1-5月上險量增速 主流車企TOP1】中汽中心上險量資料顯示：2026年5月，北汽新能源上險量18712臺，同比增長71.4%。1-5月，北汽新能源上險量達78909臺，同比增長80.1%，增速居銷量排名前30車企TOP1。
+
+---
+
+### 2026-06-12 14:18:57  #MKT News
+
+【World Cup 'LaBuBu' plush sells out after livestream】Following their appearance at the June 11, 2026 opening ceremony of the 2026 US‑Canada‑Mexico World Cup, the World Cup co-branded 'LaBuBu' plush, priced at 599 yuan, sold more than 10,000 units and quickly sold out after being listed in a livestream.
+
+---
+
+### 2026-06-12 14:18:43  #Trading Economics #Economy #Germany #Inflation Rate #Importance 1
+
+Germany Inflation Confirmed at 2.6% in May — Germany’s annual inflation rate rose 2.6% in May 2026, easing from a two-year high of 2.9% in the previous month and confirming preliminary estimates. Price growth moderated across several categories, including food and non-alcoholic beverages (0.7% vs. 1.5% in April), alcoholic beverages and tobacco (3.8% vs. 4.3%), housing and utilities (1.4% vs. 1.6%), and restaurants and hotels (2.7% vs. 3.4%). In contrast, energy prices remained elevated, rising 6.6% amid the US-Iran war, although the increase eased from 10.1% in the previous month due to the temporary reduction of the energy tax on gasoline and diesel. Additionally, inflation accelerated in health (2.3% vs. 2.0%) and recreation and culture (2.1% vs. 1.1%). On a monthly basis, consumer prices fell 0.2% in May, following a 0.6% increase in the previous month, in line with preliminary estimates. Meanwhile, the annual HICP edged down to 2.7% from 2.9% in April, remaining well above the European Central Bank’s 2% target.
+
+---
+
+### 2026-06-12 14:18:07  #Trading Economics #Economy #United Kingdom #Manufacturing Production MoM #Importance 1
+
+UK Manufacturing Output Unexpectedly Rises in April — Manufacturing production in the UK rose by 0.4% month-over-month in April 2026, defying market expectations for a 0.2% decline but slowing from a 1.2% increase in the previous month. Output increased in eight of the thirteen manufacturing subsectors, led by gains in basic pharmaceutical products and preparations (4.2% vs 2.1% in March), rubber and plastic products (1.7% vs 1.8%), wood and paper products (0.7% vs 1.2%), food, beverages and tobacco (0.1% vs 1.1%), and basic metals and metal products (0.1% vs 2.1%). Electrical equipment also rose by 1.0%, reversing a 3.3% gain in March.
+
+---
+
+### 2026-06-12 14:17:11  #其他
+
+【世界盃同款拉布布售價為599元，已售出上萬件】當地時間6月11日，2026美加墨世界盃正式拉開帷幕。開幕式中段，一棕一藍兩隻醜萌拉布布人偶登臺亮相，別緻可愛的形象，成為直擊人心的賽事趣味彩蛋。據悉，世界盃聯名款“拉布布”售價為599元，已售出上萬件，直播間上架後很快被搶光。
+
+---
+
+### 2026-06-12 14:15:21  #MKT News
+
+【MOFCOM: 12th China‑Latin America and Caribbean Infrastructure Cooperation Forum held in Macau】MOFCOM said the 12th China‑Latin America and Caribbean Infrastructure Cooperation Forum took place in Macau. Li Chenggang said China, guided by the five major initiatives Xi announced at the China‑CELAC forum’s fourth ministerial meeting, will prioritize green, low‑carbon and digital technology upgrades to China‑Latin America trade and investment. China will deepen strategic alignment, defend the multilateral trade system, and steer infrastructure cooperation toward digitalization, greening and smart infrastructure to enhance sustainability.
+
+---
+
+### 2026-06-12 14:15:18  #國際
+
+【美國北加州一倉庫起火 濃煙直衝天際】11日，美國北加州一個醫療設施倉庫起火，可以看到現場被黑色煙霧籠罩，滾滾濃煙直衝天際，附近設施的人員被緊急疏散，消防人員正在展開滅火。據當地消防部門透露，由於該設施內噴淋系統可能發生故障，且消防栓水壓不足，滅火工作進展緩慢。目前沒有人員傷亡的報告。據瞭解，這個倉庫位於一個工業園區內，尚不清楚起火原因。政府官員向公眾釋出空氣質量不佳的警告，建議居民避免前往該區域。（央視新聞）
+
+---
+
+### 2026-06-12 14:14:59  #MKT News #Market Themes #Chip Wars
+
+【China's first Loongson‑architecture agricultural SoC completes tape‑out】Jiangsu University and Loongson Technology have taped out Nongxin‑1, billed as China’s first agricultural SoC based on the Loongson architecture. The chip is targeted at precision agriculture, smart greenhouses and intelligent farm machinery and is designed to reduce reliance on imported chips, improve environmental adaptability and interface compatibility, supporting stable operation under high‑intensity and harsh conditions.
+
+---
+
+### 2026-06-12 14:14:52  #Trading Economics #Economy #United Kingdom #Balance of Trade #Importance 2
+
+UK Trade Deficit Narrows in April — The United Kingdom trade deficit declined to £8.44 billion in April 2026, down from £9.66 billion in the previous month. Exports grew 1.1% month-on-month to a three-month high of £79.97 billion, while imports fell 0.4% to £88.41 billion. Goods exports rose 2.4% to £33.11 billion, driven by higher shipments to both EU and non-EU countries, which rose 2.6% each. Exports to the EU increased due to a £0.4 billion rise in machinery and transport equipment and aircraft to Germany. Services exports ticked up 0.2% to £46.86 billion. On the import side, goods imports fell 0.7% to £59.16 billion.
+
+---
+
+### 2026-06-12 14:14:42  #MKT News
+
+Germany's 10-year bond yield fell 4 bps to 2.985%.
+
+---
+
+### 2026-06-12 14:14:27  #其他
+
+【全國首款基於龍架構的農業專用SoC晶片流片成功】近日，江蘇大學與龍芯中科聯手推出全國首款基於龍架構的農業專用SoC晶片——“農芯一號”。“農芯一號”可全面適配精準農業、智慧溫室、智慧農機等各類場景，有效破解智慧農業晶片依賴進口、環境適應性差及介面不匹配等行業痛點，保障農機在高強度、高環境要求下的穩定執行。
+
+---
+
+### 2026-06-12 14:13:20  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Set for Strong Open — European equity markets were poised for a sharp advance on Friday after President Donald Trump scrapped plans for further strikes on Iran and said a peace agreement could be signed as soon as this weekend in Europe. Trump also said the Strait of Hormuz would reopen once the deal is finalized and that Iran would commit to not pursuing a nuclear weapon. In Europe, data showed the UK's economy contracted 0.1% in April after expanding over the previous two months, as the effects of the Middle East conflict began to weigh on activity. Meanwhile, the European Central Bank raised interest rates on Thursday for the first time in nearly three years and signaled that restrictive policy is likely to remain in place through 2027. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were up 1.5% and 1.3%, respectively.
 
 ---
 
@@ -21721,149 +21793,5 @@ D.A.戴維森將甲骨文目標股價從200美元上調至225美元。
 ### 2026-06-11 11:51:37  #其他
 
 【上海道路停車收費最佳化方案公開徵求意見：15分鐘內免費，每自然日享受2次】據“上海發展改革”微信公眾號2026年6月10日訊息，為進一步提升上海市道路停車資源利用效率和超大城市精細化管理水平，市發展改革委會同市交通、財政、公安交管等部門對現行道路停車收費政策進行了最佳化完善並形成初步方案，公開徵求社會公眾意見，公示時間為2026年6月10日至6月19日。此次政策最佳化的最大變化是新增了短時免費停放規定。車輛在上海市道路停車場（同一路段內）停放時長15分鐘（含）以內免費，超出15分鐘的，自開始停放時間起計費；單臺車輛在全市範圍內每自然日可享受2次短時免費停車政策。同時，最佳化方案將智慧道路停車場收費的計費單位統一調整為15分鐘，有效提升計費精細化程度；對採取人工收費的道路停車場，以30分鐘為一個計費單位。
-
----
-
-### 2026-06-11 11:49:33  #公司
-
-極兔速遞股價跌超4%。此前國家郵政局依法對極兔速遞有限公司立案調查。
-
----
-
-### 2026-06-11 11:48:41  #MKT News #Important #Market Regions #Greater China #01519.HK #Impact bearish
-
-Hong Kong-listed J&T Express (01519.HK) shares dropped more than 4% intraday.
-
----
-
-### 2026-06-11 11:47:29  #MKT News
-
-【IDC: Q1 2026 global smartwatch shipments 37.03 mln, up 4.8% YoY】IDC reports global wrist-worn device shipments totaled 47.05 mln in Q1 2026, up 2.2% YoY. Smartwatch shipments were 37.03 mln, up 4.8% YoY; band shipments were 10.02 mln, down 6.1% YoY.
-
----
-
-### 2026-06-11 11:47:24  #國際
-
-印尼4月零售銷售同比下降3.7%。
-
----
-
-### 2026-06-11 11:46:45  #公司
-
-【IDC：第一季度全球智慧手錶市場出貨量3703萬臺 同比增長4.8%】根據國際資料公司（IDC）最新發布的《全球可穿戴裝置市場季度跟蹤報告》，2026年第一季度全球腕戴裝置市場出貨量為4705萬臺，同比增長2.2%。腕戴裝置市場包含智慧手錶和手環產品。其中，全球智慧手錶市場出貨量3703萬臺，同比增長4.8%。手環市場出貨量1002萬臺，同比下滑6.1%。
-
----
-
-### 2026-06-11 11:46:39  #其他
-
-【再添新平臺 上海浦東啟動人工智慧文創產業基地建設】6月10日，上海浦東正式啟動人工智慧文創產業基地建設，一期專案面積約15000平方米，預計7月投入使用。該基地旨在探索人工智慧與國產優質文學IP內容的創新轉化，樹立可複製的“上海樣本”和行業標杆。（央視新聞）
-
----
-
-### 2026-06-11 11:45:01  #國際
-
-【中國黃巖島出現的“新建築物”究竟是什麼？更多資訊公開】近日，菲方接連炒作中國黃巖島潟湖內出現的“新建築物”。當地時間6月10日，菲律賓海岸警衛隊還舉行了一場簡報會，公佈在中國黃巖島發現所謂漂浮結構物的“詳情”，並公開相關航拍圖片，妄言中方在黃巖島的正常活動。據記者瞭解，菲方近期不斷炒作的所謂的黃巖島“新建築物”，實際上為中國科學院南海海洋研究所在黃巖島搭建的一種臨時科研設施，這種科研設施為漂浮式原位取樣與實驗平臺，可用於深化黃巖島生態認知與預測。中方早已公開黃巖島新設施的科考屬性，但菲方選擇無視中方保護南海島礁生態的努力，持續開展抹黑活動。（環球網）
-
----
-
-### 2026-06-11 11:43:39  #市場
-
-東方甄選(01797.HK)盤中跌超5%。
-
----
-
-### 2026-06-11 11:43:37  #MKT News #01797.HK #Impact bearish
-
-Dongfang Zhenxuan (01797.HK) shares slid more than 5% intraday.
-
----
-
-### 2026-06-11 11:42:06  #其他
-
-【中國氣象局：積極推動公共氣象資料要素配置改革 推動在低空經濟、能源生產等場景中發揮效益】國家資料局今日舉行2026年“資料要素×”首場釋出會。釋出會上，中國氣象局資料資源司副司長沈利峰在回答記者提問時表示，根據國家“十五五”規劃綱要要求，中國氣象局牽頭多方協同加快建設基於氣象的地球系統資料平臺，積極推動公共氣象資料要素配置改革，開展授權運營，進一步強化氣象資料賦能經濟社會發展和民生福祉。今年的賽題中，增加了“強化氣象資料身份標識應用”內容，旨在進一步深化氣象資料身份標識技術研發，嵌入資料流通利用全生命週期，融入可信空間建設等新型資料基礎設施，支援氣象資料身份標識延伸至各類流通服務機構平臺，推動在低空經濟、能源生產、金融保險、智慧城市等場景中發揮效益。
-
----
-
-### 2026-06-11 11:41:15  #MKT News #Market Regions #Greater China
-
-【12th China (Shanghai) International Technology Import and Export Fair opens】The 12th China (Shanghai) International Technology Import and Export Fair opened in Shanghai on June 11. Exhibitor participation topped 1,000 for the first time, with 15 projects debuting. Twenty-six overseas trade-promotion agencies and 74 foreign firms from countries including Germany and France are attending. Displays focus on robotics, precision manufacturing and digital solutions. The fair will issue more than 80 technology cooperation requests.
-
----
-
-### 2026-06-11 11:41:13  #其他
-
-【第十二屆中國（上海）國際技術進出口交易會開幕】以“打造技術貿易新生態共繪全球合作新篇章”為主題的第十二屆中國（上海）國際技術進出口交易會6月11日在上海開幕。本屆上交會參展企業首次突破1000家，首發首展專案15項。德國、法國等國家和地區的26家境外貿易促進機構、商協會組織的74家企業參展，展示機器人、精密製造、數字化解決方案等創新成果，將釋出80餘項技術合作需求。（上觀新聞）
-
----
-
-### 2026-06-11 11:40:50  #MKT News #Market Regions #Japan & APAC
-
-Japan 20-year government bond yield rose 2.0 bps to 3.575%.
-
----
-
-### 2026-06-11 11:39:39  #公司
-
-【北京電控等投資成立電子科技公司，註冊資本20億元】企查查APP顯示，近日，北京鴻晟融信電子科技有限公司成立，法定代表人為呂景瀟，註冊資本為20億元，經營範圍包含：積體電路設計；積體電路製造；積體電路銷售；技術進出口；進出口代理等。企查查股權穿透顯示，該公司由北京御極科技有限公司、北京電子控股有限責任公司共同持股。
-
----
-
-### 2026-06-11 11:39:26  #MKT News
-
-【U.S. State Department urges U.S. citizens in Jordan to 'shelter in place' amid reported strikes】The U.S. State Department said there are reports of missiles, drones or rockets in Jordanian airspace and urged U.S. citizens in Jordan to "immediately seek shelter, remain indoors and monitor local notices and alerts," Xinhua reported.
-
----
-
-### 2026-06-11 11:38:35  #宏觀 #國際
-
-美國國務院發表宣告說，有報道顯示，約旦領空內正發生導彈、無人機或者火箭彈襲擊，美國公民應“立即尋找掩護並就地躲避，留在室內並留意當地的通知和警報”。（新華社）
-
----
-
-### 2026-06-11 11:38:17  #MKT News
-
-【China's State Post Bureau opens case against J&T Express Co., Ltd.】China's State Post Bureau has opened a formal investigation into J&T Express Co., Ltd. after year-to-date multiple production-safety incidents at firms operating under the "J&T Express" trademark, trade name and waybills. Inspections repeatedly found on-site safety hazards; the regulator said J&T failed to oversee safety management across related companies and did not implement mandated unified safety protections.
-
----
-
-### 2026-06-11 11:37:15  #公司
-
-【世紀恆通新設科技公司，含遊藝用品銷售業務】企查查APP顯示，近日，陝西鏈合持恆科技有限公司成立，法定代表人為朱明理，經營範圍包含：資訊系統整合服務；體育用品及器材零售；家用電器銷售；玩具銷售；玩具、動漫及遊藝用品銷售等。企查查股權穿透顯示，該公司由世紀恆通間接全資持股。
-
----
-
-### 2026-06-11 11:37:12  #公司
-
-【惠科股份在成都成立半導體研發公司，註冊資本1億】天眼查App顯示，6月10日，成都惠芯半導體研發有限公司成立，法定代表人為盧集暉，註冊資本1億人民幣，經營範圍包括光電子器件製造、光電子器件銷售、電子專用材料製造等，由惠科股份有限公司全資持股。
-
----
-
-### 2026-06-11 11:36:51  #公司
-
-【國家郵政局依法對極兔速遞有限公司立案調查】今年以來，使用“極兔速遞”商標、字號、快遞運單經營快遞業務的企業多發生產安全事故，場所內多次被檢查發現生產安全事故隱患。極兔速遞有限公司對極兔速遞相關企業安全生產管理缺位，未按規定實行安全保障統一管理，國家郵政局依法對極兔速遞有限公司進行立案調查。
-
----
-
-### 2026-06-11 11:34:50  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300
-
-【A-shares midday: Shanghai Composite -0.73%; helium names extend gains】Chinese stocks opened lower and weakened into the midday session; the Shanghai Composite fell 0.73% at the break, the Shenzhen Composite Index was down 1.32% and the ChiNext Index fell 1.79%. Small metals led gains with tungsten names strong — Xianglu Tungsten and Zhangyuan Tungsten both hit limit up. Helium plays extended multi-day strength: Huate Gas surged about 17% and Heyuan Gas hit limit up. Semiconductor-equipment names rallied, with Juguang Technology, Shengjian Technology and Xuguang Electronics hitting limit up. Home appliances recovered; Hisense Home Appliances hit limit up. Early strength also in oilfield services/engineering, lithium mining, agriculture/livestock, broader semiconductor, glass/fiberglass and coal sectors. Film circuits, lottery, AI training-data and blind-box/AI-agent themes underperformed. Turnover across Shanghai and Shenzhen was about 1.59 trillion yuan at midday, down roughly 135.6 billion yuan versus the same period yesterday; roughly 1,000 stocks advanced and about 4,500 declined.
-
----
-
-### 2026-06-11 11:33:33  #市場 #國際
-
-泰國SET指數上漲1%至1579.23。
-
----
-
-### 2026-06-11 11:33:22  #市場 #國際
-
-印尼基準股指再次下跌，最新報5,850.798點，下跌0.9%。
-
----
-
-### 2026-06-11 11:31:55  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-【Stock index futures early-session close】CSI 300 index futures (IF) main contract fell 0.90 pct; SSE 50 index futures (IH) main contract fell 0.49 pct; CSI 500 index futures (IC) main contract fell 0.99 pct; CSI 1000 index futures (IM) main contract fell 1.09 pct at the early-session close.
 
 ---

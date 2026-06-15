@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-16 05:37:22_
-_本檔包含 3701 則快訊，約 667794 字_
+_更新時間：2026-06-16 06:26:18_
+_本檔包含 3740 則快訊，約 668261 字_
+
+---
+
+### 2026-06-15 00:53:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's Supreme Joint Military Command said it was 'ready to fire at any time, aiming at the enemy's heart'.
+
+---
+
+### 2026-06-15 00:51:29  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Israel Defense Forces: Hezbollah rockets, drones strike northern Israel】The Israel Defense Forces said Hezbollah fired a rocket from Lebanon that struck near the Neot Mordechai community close to Kiryat Shmona. Several other rockets landed near Israeli forces in southern Lebanon, and suspected Hezbollah drones struck areas inside Israel near the Lebanese border earlier, the IDF said.
+
+---
+
+### 2026-06-15 00:50:06  #國際
+
+以色列國防軍：一枚來自黎巴嫩的射彈落入以色列北部的內奧特·莫迪凱地區，以軍行動區域所在的黎巴嫩南部也出現多處被擊中的情況。此外，還有多架無人機在邊境附近墜落。
+
+---
+
+### 2026-06-15 00:49:54  #國際
+
+伊朗國家廣播電視臺：伊朗聯合軍事指揮官阿里·阿卜杜拉希少將將於數分鐘內向民眾發表講話，回顧過去一年的局勢變化，內容涵蓋去年六月為期十二天的戰事，以及近期同美國、以色列之間的衝突。
+
+---
+
+### 2026-06-15 00:42:45  #國際
+
+特朗普：這份逐步成型的伊朗協議將為以色列帶來利好。協議會阻斷伊朗研發核武器的程序，要求伊朗轉移核材料，並允許相關場所接受核查。
+
+---
+
+### 2026-06-15 00:41:47  #國際
+
+【特朗普通話中提議以軍撤軍方案 內塔尼亞胡拒絕】在美國總統特朗普與以色列總理內塔尼亞胡最近一次通話中，特朗普提出了以色列官員口中的最壞情況方案：作為與伊朗達成更廣泛諒解的一部分，以色列需從黎巴嫩南部的五個據點及敘利亞赫爾蒙山撤軍。內塔尼亞胡當場斷然拒絕了這一提議。
+
+---
+
+### 2026-06-15 00:39:04  #MKT News
+
+【Joint communiqué on talks between the foreign ministers of China and Mongolia】Chinese Politburo member and Foreign Minister Wang Yi visited Mongolia June 13-15 at the invitation of State Great Khural member and Foreign Minister Batmunkh Battsetseg. The ministers held talks and agreed, guided by the leaders' consensus, to advance the China-Mongolia comprehensive strategic partnership.
+
+---
+
+### 2026-06-15 00:38:16  #其他
+
+南非內政部長：自拉馬福薩總統宣誓將加大力度整治非法移民後一週內，南非已遣返2745名外籍人員。
+
+---
+
+### 2026-06-15 00:37:57  #MKT News
+
+Axios reporter says Iranian officials have not yet confirmed they will sign an agreement today.
+
+---
+
+### 2026-06-15 00:36:01  #宏觀 #國際
+
+【中華人民共和國和蒙古國外交部長會談聯合新聞公報】應蒙古國國家大呼拉爾委員、外交部長巴特蒙赫·巴特策策格邀請，中共中央政治局委員、中華人民共和國外交部長王毅於2026年6月13日至15日對蒙古國進行訪問。雙方在友好的氛圍中舉行會談，確認以兩國元首達成的共識為引領，推動中蒙全面戰略伙伴關係不斷向前發展。（新華社）
+
+---
+
+### 2026-06-15 00:28:34  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #Brent #XAUUSD
+
+Trump told Fox News a deal with Iran will be signed remotely first, with a possible in-person signing in Europe about a week later.
+
+---
+
+### 2026-06-15 00:27:52  #其他
+
+【瑞士選民投票否決了人口上限提案】瑞士否決了一項將人口上限設定在1,000萬的提議。對這項激進措施如果獲透過將造成經濟損害的警告聲音蓋過了對移民問題的擔憂。瑞士政府稱，在週日的全國性投票中，54%的瑞士選民反對這一想法。約46%的人支援該倡議。週日的投票是數月以來造勢活動的高潮。在此期間，右翼團體稱，瑞士人口快速增長正在導致過度擁擠，並給該國資源造成壓力。瑞士人口距離他們提議的上限並不太遠，本世紀以來已增加近200萬，達到910萬。
+
+---
+
+### 2026-06-15 00:25:25  #焦點 #國際
+
+【特朗普稱伊朗協議預計將在兩到三小時內簽署】美國總統特朗普對福克斯新聞表示，他預計與伊朗的協議將在未來兩到三個小時內簽署。特朗普稱，協議將以電子方式簽署，預計一週內將在歐洲某地舉行另一場面對面的簽字儀式。
+
+---
+
+### 2026-06-15 00:24:15  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+USHAKOV said Trump told Putin an Iran agreement is imminent, and Putin said he was pleased the conflict was about to end.
+
+---
+
+### 2026-06-15 00:23:57  #MKT News
+
+Swiss police in Geneva fired tear gas at anti-G7 protesters.
+
+---
+
+### 2026-06-15 00:23:39  #國際
+
+俄總統助理烏沙科夫：特朗普告知普京伊朗協議接近達成，普京對沖突將結束表示滿意。
+
+---
+
+### 2026-06-15 00:23:24  #MKT News
+
+Ushakov said Trump informed Putin that U.S. presidential envoy Witkoff and Trump’s son-in-law Kushner will visit Russia soon.
+
+---
+
+### 2026-06-15 00:23:19  #其他
+
+瑞士警方在日內瓦的反G7抗議活動現場發射催淚瓦斯。
+
+---
+
+### 2026-06-15 00:22:42  #國際
+
+特朗普：我將要求伊朗不要向以色列發射導彈。
+
+---
+
+### 2026-06-15 00:22:17  #MKT News
+
+Russian presidential aide USHAKOV said US President Trump told President Putin that ending the war in Ukraine is vital and that Trump was prepared to offer help.
+
+---
+
+### 2026-06-15 00:21:49  #MKT News
+
+【Ushakov: Trump told Russian side US-Iran talks produced an acceptable outcome】Russian presidential aide Ushakov said on the 14th that President Trump told President Putin in a phone call that, although US-Iran talks were very difficult, they had produced an acceptable outcome.
+
+---
+
+### 2026-06-15 00:21:47  #國際
+
+俄總統助理烏沙科夫：特朗普告訴普京，結束俄烏衝突至關重要，且特朗普已準備好提供協助。
+
+---
+
+### 2026-06-15 00:20:50  #國際
+
+【俄總統助理：特朗普告知俄方美伊談判取得可接受結果】俄羅斯總統助理烏沙科夫14日說，美國總統特朗普在與俄總統普京進行電話交談時表示，儘管美伊談判過程非常艱難，但取得了可以接受的結果。（新華社）
+
+---
+
+### 2026-06-15 00:19:44  #市場
+
+【亞美尼亞公民合約黨贏得議會選舉】亞美尼亞中央選舉委員會主席霍瓦基米揚14日宣佈議會選舉的最終結果，由現任總理帕什尼揚領導的執政黨公民合約黨以49.745%的得票率贏得議會選舉。（新華社）
+
+---
+
+### 2026-06-15 00:19:20  #國際
+
+特朗普： 我們原定今早簽署協議，以色列對貝魯特的襲擊導致簽署工作推遲。我認為協議今日仍會在接下來數小時內完成簽署。
+
+---
+
+### 2026-06-15 00:18:52  #國際
+
+特朗普：內塔尼亞胡在美國原定與伊朗簽署協議的一小時前，下令襲擊了貝魯特的達希耶區。
+
+---
+
+### 2026-06-15 00:17:44  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+The chair of Iran's parliamentary National Security Committee said a "strong response is imminent" following an Israeli strike on Beirut's southern suburbs.
+
+---
+
+### 2026-06-15 00:16:44  #國際
+
+福克斯新聞：特朗普與內塔尼亞胡談話時使用了髒話。
+
+---
+
+### 2026-06-15 00:16:13  #國際
+
+【俄方證實烏無人機被擊落，無人傷亡】俄羅斯雅羅斯拉夫爾州和圖拉州州長14日表示，自當天凌晨以來，有部分烏克蘭無人機在被俄方擊落後墜落至兩州的工業設施內，但未造成人員傷亡。烏克蘭總統澤連斯基14日在社交媒體發文稱，作為對俄方拒絕停火的回應，13日晚至14日凌晨，烏克蘭對俄羅斯雅羅斯拉夫爾州、圖拉州等地的石油設施、化工廠等發動遠端打擊。（新華社）
+
+---
+
+### 2026-06-15 00:16:01  #國際
+
+伊朗議會國家安全委員會主席：“今天，以色列在貝魯特達希耶犯下的罪行再次證明，美國軟弱無能，毫無信譽可言，甚至連這個都管不了。我們將做出強有力的回應。
+
+---
+
+### 2026-06-15 00:13:50  #國際
+
+特朗普：內塔尼亞胡缺乏判斷力，我已向他表達了強烈不滿。
+
+---
+
+### 2026-06-15 00:13:46  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
+
+【Trump criticizes Netanyahu after Israeli strike on Beirut delays US-Iran deal signing】President Trump sharply criticized Israeli Prime Minister Netanyahu after an Israeli strike on Beirut hours before a planned US-Iran agreement signing, saying the attack showed "no judgment" and left him "very angry." Trump said he was told about the strike roughly one hour before the scheduled signing and that rockets earlier fired by Hezbollah landed in open areas with no injuries, yet Israel struck Beirut. The strike delayed the signing that was due that morning; Trump said he still expected the deal to be signed within hours. He described the agreement as preventing Iran from obtaining nuclear weapons, allowing inspections with 24-hour notice and eliminating Iran's stock of highly enriched uranium.
+
+---
+
+### 2026-06-15 00:13:06  #國際
+
+福克斯新聞：特朗普告訴內塔尼亞胡不要在黎巴嫩進行進一步的打擊，警告說這可能會危及美伊協議。
+
+---
+
+### 2026-06-15 00:12:29  #國際
+
+特朗普接受阿克西奧斯新聞網採訪：伊朗相關協議仍計劃於週日簽署。
+
+---
+
+### 2026-06-15 00:11:53  #國際
+
+【俄總統助理：特朗普與普京通話 美伊談判結果將公佈】俄羅斯總統助理烏沙科夫14日說，美國總統特朗普當天在與俄羅斯總統普京的通話中表示，美國和伊朗之間的協議已接近達成，談判結果可能於當天公佈。（新華社）
+
+---
+
+### 2026-06-15 00:11:41  #MKT News #Important
+
+According to Israel's Channel 12, US President Trump said he told Netanyahu on a call, "What are you doing?"
+
+---
+
+### 2026-06-15 00:10:58  #焦點 #國際
+
+福克斯新聞：若協議簽署，特朗普將立即下令解除封鎖。
+
+---
+
+### 2026-06-15 00:10:35  #國際
+
+特朗普接受福克斯新聞採訪：將要求伊朗不要對以色列展開反擊。
+
+---
+
+### 2026-06-15 00:10:19  #國際
+
+特朗普：我和內塔尼亞胡通了電話，我質問他“你到底在做什麼”？
+
+---
+
+### 2026-06-15 00:09:52  #國際
+
+特朗普接受福克斯新聞採訪：伊朗相關協議或將在一週內舉行現場簽署儀式。
+
+---
+
+### 2026-06-15 00:09:24  #國際
+
+美國中央司令部：6月14日，美國海軍一架搜救直升機在阿拉伯海北部救助了14名印度船員。
+
+---
+
+### 2026-06-15 00:08:57  #國際
+
+特朗普接受福克斯新聞採訪：伊朗相關協議將在數小時內以電子形式簽署。
+
+---
+
+### 2026-06-15 00:08:21  #MKT News
+
+US Vice President Vance said he will decide after the midterm elections whether to run in the 2028 presidential race.
+
+---
+
+### 2026-06-15 00:08:14  #國際
+
+特朗普對福克斯新聞表示：伊朗核協議可能在歐洲面對面簽署。
+
+---
+
+### 2026-06-15 00:05:35  #焦點 #國際
+
+特朗普接受福克斯新聞採訪：與伊朗的相關協議大機率將在未來兩至三小時內簽署。
+
+---
+
+### 2026-06-15 00:04:21  #國際
+
+美國副總統萬斯：將在中期選舉後決定是否參加2028年總統競選。
+
+---
+
+### 2026-06-15 00:02:57  #國際
+
+普京與特朗普通話期間，談及了伊朗局勢以及烏克蘭戰事。
+
+---
+
+### 2026-06-15 00:02:33  #MKT News #Important
+
+An official involved in the talks told Refinitiv that mediators are optimistic a US-Iran deal is "about to be reached" and that negotiations are progressing smoothly.
+
+---
+
+### 2026-06-15 00:01:25  #焦點 #國際
+
+參與談判的官員表示，調解方對美國與伊朗達成協議持樂觀態度，認為“已接近達成”，且談判進展順利。
+
+---
+
+### 2026-06-14 23:58:53  #焦點 #國際
+
+以色列表示，在以色列空襲黎巴嫩貝魯特之後，伊朗可能在未來幾小時內發動襲擊。
+
+---
+
+### 2026-06-14 23:58:50  #MKT News
+
+【Israeli finance minister signs West Bank settlement expansion agreement】On the 14th local time, Israeli Finance Minister Smotrich signed a framework agreement committing NIS 2 billion (about $685m) to build 6,000 apartments and related infrastructure in an Israeli settlement in the West Bank. Settlement expansion is a principal obstacle to Israeli-Palestinian peace talks.
 
 ---
 
@@ -22296,77 +22602,5 @@ Australia's S&P/ASX 200 closed up 159.70 points, or 1.85%, at 8,792.90 on Friday
 ### 2026-06-12 14:21:59  #Trading Economics #Economy #Romania #Inflation Rate #Importance 1
 
 Romania Inflation Rate Hits Over 3-Year High — The inflation rate in Romania rose 10.9% year-on-year in May 2026 from 10.7% in the previous month, hitting the highest level since April 2023. Prices rose for non-food goods (12.5% vs 12% in April), particularly household products, furniture (5.3% vs 5.2%), chemicals (8.2% vs 7.6%), cultural and sporting products (8.5% vs 8.1%), hygiene, cosmetic and medical items (6.2% vs 5.9%), and fuels (19.2% vs 15.7%), while costs also increased for services (13.5% vs 13%). Conversely, inflation slowed for food products (6.8% vs 7.4%), weighed down by slower increases in milling and bakery products (7.3% vs 7.8%), fruit and canned fruit (5.5% vs 9.6%), sugar, confectionery and honey (10.6% vs 11.1%), cocoa and coffee (21.1% vs 22.5%), and alcoholic beverages (7.7% vs 7.9%). On a monthly basis, consumer prices eased 0.6% in May from 0.8% increase in the previous month. Meanwhile, the HICP-based annual inflation rate rose to 9.7% from 9.5% in April.
-
----
-
-### 2026-06-12 14:20:14  #其他
-
-【北汽新能源1-5月上險量增速 主流車企TOP1】中汽中心上險量資料顯示：2026年5月，北汽新能源上險量18712臺，同比增長71.4%。1-5月，北汽新能源上險量達78909臺，同比增長80.1%，增速居銷量排名前30車企TOP1。
-
----
-
-### 2026-06-12 14:18:57  #MKT News
-
-【World Cup 'LaBuBu' plush sells out after livestream】Following their appearance at the June 11, 2026 opening ceremony of the 2026 US‑Canada‑Mexico World Cup, the World Cup co-branded 'LaBuBu' plush, priced at 599 yuan, sold more than 10,000 units and quickly sold out after being listed in a livestream.
-
----
-
-### 2026-06-12 14:18:43  #Trading Economics #Economy #Germany #Inflation Rate #Importance 1
-
-Germany Inflation Confirmed at 2.6% in May — Germany’s annual inflation rate rose 2.6% in May 2026, easing from a two-year high of 2.9% in the previous month and confirming preliminary estimates. Price growth moderated across several categories, including food and non-alcoholic beverages (0.7% vs. 1.5% in April), alcoholic beverages and tobacco (3.8% vs. 4.3%), housing and utilities (1.4% vs. 1.6%), and restaurants and hotels (2.7% vs. 3.4%). In contrast, energy prices remained elevated, rising 6.6% amid the US-Iran war, although the increase eased from 10.1% in the previous month due to the temporary reduction of the energy tax on gasoline and diesel. Additionally, inflation accelerated in health (2.3% vs. 2.0%) and recreation and culture (2.1% vs. 1.1%). On a monthly basis, consumer prices fell 0.2% in May, following a 0.6% increase in the previous month, in line with preliminary estimates. Meanwhile, the annual HICP edged down to 2.7% from 2.9% in April, remaining well above the European Central Bank’s 2% target.
-
----
-
-### 2026-06-12 14:18:07  #Trading Economics #Economy #United Kingdom #Manufacturing Production MoM #Importance 1
-
-UK Manufacturing Output Unexpectedly Rises in April — Manufacturing production in the UK rose by 0.4% month-over-month in April 2026, defying market expectations for a 0.2% decline but slowing from a 1.2% increase in the previous month. Output increased in eight of the thirteen manufacturing subsectors, led by gains in basic pharmaceutical products and preparations (4.2% vs 2.1% in March), rubber and plastic products (1.7% vs 1.8%), wood and paper products (0.7% vs 1.2%), food, beverages and tobacco (0.1% vs 1.1%), and basic metals and metal products (0.1% vs 2.1%). Electrical equipment also rose by 1.0%, reversing a 3.3% gain in March.
-
----
-
-### 2026-06-12 14:17:11  #其他
-
-【世界盃同款拉布布售價為599元，已售出上萬件】當地時間6月11日，2026美加墨世界盃正式拉開帷幕。開幕式中段，一棕一藍兩隻醜萌拉布布人偶登臺亮相，別緻可愛的形象，成為直擊人心的賽事趣味彩蛋。據悉，世界盃聯名款“拉布布”售價為599元，已售出上萬件，直播間上架後很快被搶光。
-
----
-
-### 2026-06-12 14:15:21  #MKT News
-
-【MOFCOM: 12th China‑Latin America and Caribbean Infrastructure Cooperation Forum held in Macau】MOFCOM said the 12th China‑Latin America and Caribbean Infrastructure Cooperation Forum took place in Macau. Li Chenggang said China, guided by the five major initiatives Xi announced at the China‑CELAC forum’s fourth ministerial meeting, will prioritize green, low‑carbon and digital technology upgrades to China‑Latin America trade and investment. China will deepen strategic alignment, defend the multilateral trade system, and steer infrastructure cooperation toward digitalization, greening and smart infrastructure to enhance sustainability.
-
----
-
-### 2026-06-12 14:15:18  #國際
-
-【美國北加州一倉庫起火 濃煙直衝天際】11日，美國北加州一個醫療設施倉庫起火，可以看到現場被黑色煙霧籠罩，滾滾濃煙直衝天際，附近設施的人員被緊急疏散，消防人員正在展開滅火。據當地消防部門透露，由於該設施內噴淋系統可能發生故障，且消防栓水壓不足，滅火工作進展緩慢。目前沒有人員傷亡的報告。據瞭解，這個倉庫位於一個工業園區內，尚不清楚起火原因。政府官員向公眾釋出空氣質量不佳的警告，建議居民避免前往該區域。（央視新聞）
-
----
-
-### 2026-06-12 14:14:59  #MKT News #Market Themes #Chip Wars
-
-【China's first Loongson‑architecture agricultural SoC completes tape‑out】Jiangsu University and Loongson Technology have taped out Nongxin‑1, billed as China’s first agricultural SoC based on the Loongson architecture. The chip is targeted at precision agriculture, smart greenhouses and intelligent farm machinery and is designed to reduce reliance on imported chips, improve environmental adaptability and interface compatibility, supporting stable operation under high‑intensity and harsh conditions.
-
----
-
-### 2026-06-12 14:14:52  #Trading Economics #Economy #United Kingdom #Balance of Trade #Importance 2
-
-UK Trade Deficit Narrows in April — The United Kingdom trade deficit declined to £8.44 billion in April 2026, down from £9.66 billion in the previous month. Exports grew 1.1% month-on-month to a three-month high of £79.97 billion, while imports fell 0.4% to £88.41 billion. Goods exports rose 2.4% to £33.11 billion, driven by higher shipments to both EU and non-EU countries, which rose 2.6% each. Exports to the EU increased due to a £0.4 billion rise in machinery and transport equipment and aircraft to Germany. Services exports ticked up 0.2% to £46.86 billion. On the import side, goods imports fell 0.7% to £59.16 billion.
-
----
-
-### 2026-06-12 14:14:42  #MKT News
-
-Germany's 10-year bond yield fell 4 bps to 2.985%.
-
----
-
-### 2026-06-12 14:14:27  #其他
-
-【全國首款基於龍架構的農業專用SoC晶片流片成功】近日，江蘇大學與龍芯中科聯手推出全國首款基於龍架構的農業專用SoC晶片——“農芯一號”。“農芯一號”可全面適配精準農業、智慧溫室、智慧農機等各類場景，有效破解智慧農業晶片依賴進口、環境適應性差及介面不匹配等行業痛點，保障農機在高強度、高環境要求下的穩定執行。
-
----
-
-### 2026-06-12 14:13:20  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Set for Strong Open — European equity markets were poised for a sharp advance on Friday after President Donald Trump scrapped plans for further strikes on Iran and said a peace agreement could be signed as soon as this weekend in Europe. Trump also said the Strait of Hormuz would reopen once the deal is finalized and that Iran would commit to not pursuing a nuclear weapon. In Europe, data showed the UK's economy contracted 0.1% in April after expanding over the previous two months, as the effects of the Middle East conflict began to weigh on activity. Meanwhile, the European Central Bank raised interest rates on Thursday for the first time in nearly three years and signaled that restrictive policy is likely to remain in place through 2027. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were up 1.5% and 1.3%, respectively.
 
 ---

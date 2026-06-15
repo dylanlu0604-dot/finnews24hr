@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-16 05:37:22_
-_本檔包含 3635 則快訊，約 667301 字_
+_更新時間：2026-06-16 06:26:18_
+_本檔包含 3628 則快訊，約 667113 字_
+
+---
+
+### 2026-06-11 11:49:33  #公司
+
+極兔速遞股價跌超4%。此前國家郵政局依法對極兔速遞有限公司立案調查。
+
+---
+
+### 2026-06-11 11:48:41  #MKT News #Important #Market Regions #Greater China #01519.HK #Impact bearish
+
+Hong Kong-listed J&T Express (01519.HK) shares dropped more than 4% intraday.
+
+---
+
+### 2026-06-11 11:47:29  #MKT News
+
+【IDC: Q1 2026 global smartwatch shipments 37.03 mln, up 4.8% YoY】IDC reports global wrist-worn device shipments totaled 47.05 mln in Q1 2026, up 2.2% YoY. Smartwatch shipments were 37.03 mln, up 4.8% YoY; band shipments were 10.02 mln, down 6.1% YoY.
+
+---
+
+### 2026-06-11 11:47:24  #國際
+
+印尼4月零售銷售同比下降3.7%。
+
+---
+
+### 2026-06-11 11:46:45  #公司
+
+【IDC：第一季度全球智慧手錶市場出貨量3703萬臺 同比增長4.8%】根據國際資料公司（IDC）最新發布的《全球可穿戴裝置市場季度跟蹤報告》，2026年第一季度全球腕戴裝置市場出貨量為4705萬臺，同比增長2.2%。腕戴裝置市場包含智慧手錶和手環產品。其中，全球智慧手錶市場出貨量3703萬臺，同比增長4.8%。手環市場出貨量1002萬臺，同比下滑6.1%。
+
+---
+
+### 2026-06-11 11:46:39  #其他
+
+【再添新平臺 上海浦東啟動人工智慧文創產業基地建設】6月10日，上海浦東正式啟動人工智慧文創產業基地建設，一期專案面積約15000平方米，預計7月投入使用。該基地旨在探索人工智慧與國產優質文學IP內容的創新轉化，樹立可複製的“上海樣本”和行業標杆。（央視新聞）
+
+---
+
+### 2026-06-11 11:45:01  #國際
+
+【中國黃巖島出現的“新建築物”究竟是什麼？更多資訊公開】近日，菲方接連炒作中國黃巖島潟湖內出現的“新建築物”。當地時間6月10日，菲律賓海岸警衛隊還舉行了一場簡報會，公佈在中國黃巖島發現所謂漂浮結構物的“詳情”，並公開相關航拍圖片，妄言中方在黃巖島的正常活動。據記者瞭解，菲方近期不斷炒作的所謂的黃巖島“新建築物”，實際上為中國科學院南海海洋研究所在黃巖島搭建的一種臨時科研設施，這種科研設施為漂浮式原位取樣與實驗平臺，可用於深化黃巖島生態認知與預測。中方早已公開黃巖島新設施的科考屬性，但菲方選擇無視中方保護南海島礁生態的努力，持續開展抹黑活動。（環球網）
+
+---
+
+### 2026-06-11 11:43:39  #市場
+
+東方甄選(01797.HK)盤中跌超5%。
+
+---
+
+### 2026-06-11 11:43:37  #MKT News #01797.HK #Impact bearish
+
+Dongfang Zhenxuan (01797.HK) shares slid more than 5% intraday.
+
+---
+
+### 2026-06-11 11:42:06  #其他
+
+【中國氣象局：積極推動公共氣象資料要素配置改革 推動在低空經濟、能源生產等場景中發揮效益】國家資料局今日舉行2026年“資料要素×”首場釋出會。釋出會上，中國氣象局資料資源司副司長沈利峰在回答記者提問時表示，根據國家“十五五”規劃綱要要求，中國氣象局牽頭多方協同加快建設基於氣象的地球系統資料平臺，積極推動公共氣象資料要素配置改革，開展授權運營，進一步強化氣象資料賦能經濟社會發展和民生福祉。今年的賽題中，增加了“強化氣象資料身份標識應用”內容，旨在進一步深化氣象資料身份標識技術研發，嵌入資料流通利用全生命週期，融入可信空間建設等新型資料基礎設施，支援氣象資料身份標識延伸至各類流通服務機構平臺，推動在低空經濟、能源生產、金融保險、智慧城市等場景中發揮效益。
+
+---
+
+### 2026-06-11 11:41:15  #MKT News #Market Regions #Greater China
+
+【12th China (Shanghai) International Technology Import and Export Fair opens】The 12th China (Shanghai) International Technology Import and Export Fair opened in Shanghai on June 11. Exhibitor participation topped 1,000 for the first time, with 15 projects debuting. Twenty-six overseas trade-promotion agencies and 74 foreign firms from countries including Germany and France are attending. Displays focus on robotics, precision manufacturing and digital solutions. The fair will issue more than 80 technology cooperation requests.
+
+---
+
+### 2026-06-11 11:41:13  #其他
+
+【第十二屆中國（上海）國際技術進出口交易會開幕】以“打造技術貿易新生態共繪全球合作新篇章”為主題的第十二屆中國（上海）國際技術進出口交易會6月11日在上海開幕。本屆上交會參展企業首次突破1000家，首發首展專案15項。德國、法國等國家和地區的26家境外貿易促進機構、商協會組織的74家企業參展，展示機器人、精密製造、數字化解決方案等創新成果，將釋出80餘項技術合作需求。（上觀新聞）
+
+---
+
+### 2026-06-11 11:40:50  #MKT News #Market Regions #Japan & APAC
+
+Japan 20-year government bond yield rose 2.0 bps to 3.575%.
+
+---
+
+### 2026-06-11 11:39:39  #公司
+
+【北京電控等投資成立電子科技公司，註冊資本20億元】企查查APP顯示，近日，北京鴻晟融信電子科技有限公司成立，法定代表人為呂景瀟，註冊資本為20億元，經營範圍包含：積體電路設計；積體電路製造；積體電路銷售；技術進出口；進出口代理等。企查查股權穿透顯示，該公司由北京御極科技有限公司、北京電子控股有限責任公司共同持股。
+
+---
+
+### 2026-06-11 11:39:26  #MKT News
+
+【U.S. State Department urges U.S. citizens in Jordan to 'shelter in place' amid reported strikes】The U.S. State Department said there are reports of missiles, drones or rockets in Jordanian airspace and urged U.S. citizens in Jordan to "immediately seek shelter, remain indoors and monitor local notices and alerts," Xinhua reported.
+
+---
+
+### 2026-06-11 11:38:35  #宏觀 #國際
+
+美國國務院發表宣告說，有報道顯示，約旦領空內正發生導彈、無人機或者火箭彈襲擊，美國公民應“立即尋找掩護並就地躲避，留在室內並留意當地的通知和警報”。（新華社）
+
+---
+
+### 2026-06-11 11:38:17  #MKT News
+
+【China's State Post Bureau opens case against J&T Express Co., Ltd.】China's State Post Bureau has opened a formal investigation into J&T Express Co., Ltd. after year-to-date multiple production-safety incidents at firms operating under the "J&T Express" trademark, trade name and waybills. Inspections repeatedly found on-site safety hazards; the regulator said J&T failed to oversee safety management across related companies and did not implement mandated unified safety protections.
+
+---
+
+### 2026-06-11 11:37:15  #公司
+
+【世紀恆通新設科技公司，含遊藝用品銷售業務】企查查APP顯示，近日，陝西鏈合持恆科技有限公司成立，法定代表人為朱明理，經營範圍包含：資訊系統整合服務；體育用品及器材零售；家用電器銷售；玩具銷售；玩具、動漫及遊藝用品銷售等。企查查股權穿透顯示，該公司由世紀恆通間接全資持股。
+
+---
+
+### 2026-06-11 11:37:12  #公司
+
+【惠科股份在成都成立半導體研發公司，註冊資本1億】天眼查App顯示，6月10日，成都惠芯半導體研發有限公司成立，法定代表人為盧集暉，註冊資本1億人民幣，經營範圍包括光電子器件製造、光電子器件銷售、電子專用材料製造等，由惠科股份有限公司全資持股。
+
+---
+
+### 2026-06-11 11:36:51  #公司
+
+【國家郵政局依法對極兔速遞有限公司立案調查】今年以來，使用“極兔速遞”商標、字號、快遞運單經營快遞業務的企業多發生產安全事故，場所內多次被檢查發現生產安全事故隱患。極兔速遞有限公司對極兔速遞相關企業安全生產管理缺位，未按規定實行安全保障統一管理，國家郵政局依法對極兔速遞有限公司進行立案調查。
+
+---
+
+### 2026-06-11 11:34:50  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300
+
+【A-shares midday: Shanghai Composite -0.73%; helium names extend gains】Chinese stocks opened lower and weakened into the midday session; the Shanghai Composite fell 0.73% at the break, the Shenzhen Composite Index was down 1.32% and the ChiNext Index fell 1.79%. Small metals led gains with tungsten names strong — Xianglu Tungsten and Zhangyuan Tungsten both hit limit up. Helium plays extended multi-day strength: Huate Gas surged about 17% and Heyuan Gas hit limit up. Semiconductor-equipment names rallied, with Juguang Technology, Shengjian Technology and Xuguang Electronics hitting limit up. Home appliances recovered; Hisense Home Appliances hit limit up. Early strength also in oilfield services/engineering, lithium mining, agriculture/livestock, broader semiconductor, glass/fiberglass and coal sectors. Film circuits, lottery, AI training-data and blind-box/AI-agent themes underperformed. Turnover across Shanghai and Shenzhen was about 1.59 trillion yuan at midday, down roughly 135.6 billion yuan versus the same period yesterday; roughly 1,000 stocks advanced and about 4,500 declined.
+
+---
+
+### 2026-06-11 11:33:33  #市場 #國際
+
+泰國SET指數上漲1%至1579.23。
+
+---
+
+### 2026-06-11 11:33:22  #市場 #國際
+
+印尼基準股指再次下跌，最新報5,850.798點，下跌0.9%。
+
+---
+
+### 2026-06-11 11:31:55  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【Stock index futures early-session close】CSI 300 index futures (IF) main contract fell 0.90 pct; SSE 50 index futures (IH) main contract fell 0.49 pct; CSI 500 index futures (IC) main contract fell 0.99 pct; CSI 1000 index futures (IM) main contract fell 1.09 pct at the early-session close.
 
 ---
 
@@ -21727,191 +21871,5 @@ According to Iranian media, the Islamic Revolutionary Guard Corps said strike ta
 ### 2026-06-10 10:03:27  #其他
 
 【聯想全品類產品7月將再漲價，有經銷商已收到備貨通知】從知情人士處獲悉，聯想已於今年5月的工作會議上敲定一項重要決策：今年618大促結束後，自7月起，旗下全品類產品將統一漲價，調價漲幅與上一輪基本持平。該知情人士還透露：“結合全線漲價的行情，聯想已經建議經銷商如有裝置採購計劃，儘快敲定方案、提前備貨鎖價。本月底會向經銷商發出正式漲價函。”（藍鯨新聞）
-
----
-
-### 2026-06-10 10:03:20  #國際
-
-伊朗伊斯蘭革命衛隊稱擊中該地區21個美國空中和海上目標。
-
----
-
-### 2026-06-10 10:03:10  #央行 #市場 #國際
-
-印尼盾兌美元上漲0.8%，在印尼央行意外加息後連續第二天走強。
-
----
-
-### 2026-06-10 10:02:41  #國際
-
-訊息人士稱，星巴克也可能考慮讓其日本業務上市。
-
----
-
-### 2026-06-10 10:02:27  #公司 #市場
-
-【燃氣輪機概念震盪下挫 萬澤股份跌停】燃氣輪機概念盤中震盪下挫，萬澤股份跌停，此前傑瑞股份觸及跌停，濰柴動力、中國動力、應流股份、東方電氣等跟跌。
-
----
-
-### 2026-06-10 10:02:12  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Iranian state media quoted the Islamic Revolutionary Guard Corps as saying it struck four targets at the U.S. Al-Azraq base in Jordan.
-
----
-
-### 2026-06-10 10:02:10  #國際
-
-訊息人士稱，星巴克已與多家銀行就日本業務進行初步洽談。
-
----
-
-### 2026-06-10 10:01:49  #國際
-
-星巴克據悉正在為其日本業務考慮包括股權出售在內的方案，
-
----
-
-### 2026-06-10 10:01:00  #國際
-
-伊朗革命衛隊稱，他們襲擊了位於約旦的美國阿茲拉克基地內的四個目標。
-
----
-
-### 2026-06-10 10:00:55  #其他
-
-陳茂波：香港2026年IPO市場“當然”比2025年更好。
-
----
-
-### 2026-06-10 10:00:41  #MKT News #Important #Market Regions #Greater China #XAUUSD #Impact bullish #DXY #WTI
-
-Iranian media reported the Islamic Revolutionary Guard Corps launched a missile strike on a US base in Jordan. On the A-share market, oilfield-services and engineering stocks rebounded: Keli rose more than 9%, with Tongyuan Petroleum, Huibopu, Qianneng Hengxin, Zhongman Petroleum and Beken Energy also gaining.
-
----
-
-### 2026-06-10 10:00:11  #市場 #焦點
-
-南向資金淨買入額達40億港元。
-
----
-
-### 2026-06-10 10:00:07  #其他
-
-【黑龍江省農業農村廳原黨組書記王金會接受審查調查】中央紀委國家監委網站6月10日通報，據黑龍江省紀委監委訊息：黑龍江省農業農村廳原黨組書記、廳長王金會涉嫌嚴重違紀違法，目前正接受黑龍江省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-10 10:00:01  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Edges Higher — The yield on the US 10-year Treasury note climbed to around 4.54% on Wednesday after facing pressure in the previous session, as renewed hostilities in the Middle East that threatened a fragile ceasefire and the prospects for a lasting peace agreement heightened concerns about inflation and interest rates. The US launched “self-defense strikes” against Iran in response to the downing of an American helicopter, while Iranian Foreign Minister Abbas Araghchi warned that Iran’s armed forces would leave no attack or threat unanswered. Rising energy prices fueled by the regional conflict added to worries about persistent inflation and the possibility of further central bank rate hikes. Investors also awaited the latest US inflation data for additional clues on the Federal Reserve’s policy outlook, after stronger-than-expected jobs figures last week reinforced expectations of an interest rate increase before the end of the year.
-
----
-
-### 2026-06-10 10:00:00  #MKT News #Market Regions #Greater China
-
-【China cold-chain logistics market seen topping 585 bln yuan in 2026】The China Federation of Logistics and Purchasing's China Cold-Chain Logistics Development Report (2026) forecasts China's cold-chain logistics market will exceed 585 bln yuan in 2026. It estimates the global cold-chain logistics services market at about 2.75 tln yuan in 2025, up 12.11% YoY, and projects a roughly 13.8% CAGR over the next decade, with Asia-Pacific the largest and fastest-growing region. The report flags steady domestic demand, stronger supply-chain resilience and risk capacity, and the maturing of business models including central-kitchen+cold-chain, pharma+cold-chain and instant-retail+cold-chain.
-
----
-
-### 2026-06-10 09:59:51  #國際
-
-【黎軍總司令訪巴基斯坦 或關聯美伊談判】巴基斯坦軍方9日說，巴陸軍參謀長穆尼爾當天在伊斯蘭堡會見來訪的黎巴嫩軍隊總司令魯道夫·海卡爾，雙方同意加強防務合作。據知情人士披露，海卡爾此訪可能與美國和伊朗正在進行的談判有關。(新華社)
-
----
-
-### 2026-06-10 09:59:41  #其他
-
-【今年我國冷鏈物流市場規模有望超5850億元】中國物流與採購聯合會今天（10日）釋出《中國冷鏈物流發展報告（2026）》。根據報告，當前，我國冷鏈供應鏈發展底盤堅實，綜合實力不斷提升，今年我國冷鏈物流市場規模有望超過5850億元。據介紹，2025年全球冷鏈物流服務市場規模約2.75萬億元，同比增長12.11%，未來十年複合增長率約13.8%。其中，亞太地區預計是規模最大、增速最快的市場。近年來，我國冷鏈物流市場需求保持穩健增長，產業鏈供應鏈韌性與抗風險能力顯著提升。“中央廚房+冷鏈”“醫藥+冷鏈”“即時零售+冷鏈”等模式逐步進入成熟發展期。另外，我國跨境冷鏈生態持續升級，跨境需求強勁。今年1—4月份，鮮活農產品進出口總額約3238.91億元，同比增長7.5%。重點監測跨境電商進口平臺全球商品銷售額增長4.3%，跨境電商從“產品輸出”升級為“技術、模式、生態”全方位出海。
-
----
-
-### 2026-06-10 09:59:26  #公司
-
-【新疆生產建設兵團建設工程（集團）有限責任公司原黨委書記陳少敏被查】中央紀委國家監委網站6月10日通報，據新疆生產建設兵團紀委監委訊息：新疆生產建設兵團建設工程（集團）有限責任公司原黨委書記、董事長陳少敏涉嫌嚴重違紀違法，目前正接受新疆生產建設兵團紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-10 09:59:17  #市場
-
-【算力租賃概念快速拉昇 美利雲、拓維資訊雙雙漲停】算力租賃概念快速拉昇，美利雲、拓維資訊雙雙漲停，此前中貝通訊漲停，資料港、雲賽智聯、二六三、銅牛資訊、首都線上跟漲。
-
----
-
-### 2026-06-10 09:58:28  #公司
-
-【軟銀尋求60億美元OpenAI保證金貸款的計劃陷入停滯】據媒體週三援引訊息人士報道，軟銀集團正與潛在債權人就透過其持有的OpenAI股份作為抵押的保證金貸款籌集至少60億美元一事進行的談判，已陷入僵局。報道稱，該公司正在考慮多種融資方案，並補充稱，未來仍可能推進該保證金貸款計劃。
-
----
-
-### 2026-06-10 09:58:11  #MKT News
-
-China A-share gas stocks rallied in short-term trading: Shuifa Gas surged to the daily limit, Zhongtai Co. rose over 8%, and Kaitian Gas, Guizhou Gas and Delong Huineng also advanced.
-
----
-
-### 2026-06-10 09:57:19  #市場
-
-【燃氣板塊短線拉昇，水發燃氣漲停】燃氣板塊短線拉昇，水發燃氣漲停，貴州燃氣、德龍匯能、凱添燃氣、九豐能源、天壕能源跟漲。
-
----
-
-### 2026-06-10 09:57:13  #MKT News #Market Themes #Chip Wars #09903.HK #Impact bullish #06082.HK #00981.HK
-
-Hong Kong-listed chip stocks showed pockets of strength; Tianshu Zhixin (09903.HK) rose more than 12%, while Biren Technology (06082.HK), Huahong Hongli (01347.HK), SMIC (00981.HK) and ZTE (00763.HK) also gained.
-
----
-
-### 2026-06-10 09:55:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【U.S. media say U.S. military struck 20 targets inside Iran】Fox News on the 9th, citing a senior U.S. official, reported U.S. forces struck 20 targets inside Iran that day. U.S. Central Command said the strikes had ended but the situation remains "dynamic." U.S. forces said they are prepared to respond if Iran retaliates.
-
----
-
-### 2026-06-10 09:55:38  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share chemical raw materials sector rallied intraday; Sanfu Shares hit the daily limit, while Jinniu Chemical, Jinmei Technology, Hengguang Shares, Hongxing Development and Chlor‑Alkali Chemical also advanced.
-
----
-
-### 2026-06-10 09:55:06  #國際
-
-【美媒稱美軍打擊了伊朗境內20個目標】美國福克斯新聞網9日報道說，一名美國高階官員表示，美軍當天對伊朗境內20個目標實施了打擊。雖然美軍中央司令部宣佈美軍的打擊行動已經結束，但局勢仍“處於動態變化中”。如果伊朗進行報復，美軍已做好應對準備。稍早前，美軍中央司令部發表宣告稱，已完成對伊朗的“自衛性打擊”。此次打擊是對8日一架美軍直升機被擊落的回應。（新華社）
-
----
-
-### 2026-06-10 09:54:52  #公司 #市場
-
-【化學原料板塊短線拉昇，三孚股份漲停】化學原料板塊短線拉昇，三孚股份漲停，金牛化工、金煤科技、恆光股份、紅星發展、氯鹼化工等紛紛走高。
-
----
-
-### 2026-06-10 09:53:34  #Trading Economics #Markets #Hong Kong #stocks #Importance 1
-
-AIA Stock Price Hits 32-week Low — AIA shares decreased to 70.75 HKD, the lowest since October 2025. Over the past 4 weeks, AIA Group lost 17.78%, and in the last 12 months, it increased 2.15%.
-
----
-
-### 2026-06-10 09:53:00  #其他
-
-【中際旭創成交額超100億元】截至發稿，中際旭創成交額超100億元，現跌超1%。
-
----
-
-### 2026-06-10 09:52:56  #MKT News #Star Stocks #Tencent #01024.HK #Impact bullish #00700.HK #09888.HK
-
-Select Hong Kong tech names showed pockets of strength; Kuaishou (01024.HK) rose over 5%, while NetEase-S (09999.HK), Tencent Holdings (00700.HK) and Baidu (09888.HK) also advanced.
-
----
-
-### 2026-06-10 09:52:43  #國際
-
-伊朗伊斯蘭革命衛隊襲擊科威特阿里·薩利姆空軍基地。
-
----
-
-### 2026-06-10 09:52:30  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-【IRGC launches missile strike on U.S. base in Jordan】Iranian media reported on the 10th that the Islamic Revolutionary Guard Corps (IRGC) has just launched a missile strike against a U.S. military base in Jordan.
 
 ---

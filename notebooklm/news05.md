@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-16 05:37:22_
-_本檔包含 3575 則快訊，約 666988 字_
+_更新時間：2026-06-16 06:26:18_
+_本檔包含 3578 則快訊，約 667232 字_
+
+---
+
+### 2026-06-10 10:03:20  #國際
+
+伊朗伊斯蘭革命衛隊稱擊中該地區21個美國空中和海上目標。
+
+---
+
+### 2026-06-10 10:03:10  #央行 #市場 #國際
+
+印尼盾兌美元上漲0.8%，在印尼央行意外加息後連續第二天走強。
+
+---
+
+### 2026-06-10 10:02:41  #國際
+
+訊息人士稱，星巴克也可能考慮讓其日本業務上市。
+
+---
+
+### 2026-06-10 10:02:27  #公司 #市場
+
+【燃氣輪機概念震盪下挫 萬澤股份跌停】燃氣輪機概念盤中震盪下挫，萬澤股份跌停，此前傑瑞股份觸及跌停，濰柴動力、中國動力、應流股份、東方電氣等跟跌。
+
+---
+
+### 2026-06-10 10:02:12  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Iranian state media quoted the Islamic Revolutionary Guard Corps as saying it struck four targets at the U.S. Al-Azraq base in Jordan.
+
+---
+
+### 2026-06-10 10:02:10  #國際
+
+訊息人士稱，星巴克已與多家銀行就日本業務進行初步洽談。
+
+---
+
+### 2026-06-10 10:01:49  #國際
+
+星巴克據悉正在為其日本業務考慮包括股權出售在內的方案，
+
+---
+
+### 2026-06-10 10:01:00  #國際
+
+伊朗革命衛隊稱，他們襲擊了位於約旦的美國阿茲拉克基地內的四個目標。
+
+---
+
+### 2026-06-10 10:00:55  #其他
+
+陳茂波：香港2026年IPO市場“當然”比2025年更好。
+
+---
+
+### 2026-06-10 10:00:41  #MKT News #Important #Market Regions #Greater China #XAUUSD #Impact bullish #DXY #WTI
+
+Iranian media reported the Islamic Revolutionary Guard Corps launched a missile strike on a US base in Jordan. On the A-share market, oilfield-services and engineering stocks rebounded: Keli rose more than 9%, with Tongyuan Petroleum, Huibopu, Qianneng Hengxin, Zhongman Petroleum and Beken Energy also gaining.
+
+---
+
+### 2026-06-10 10:00:11  #市場 #焦點
+
+南向資金淨買入額達40億港元。
+
+---
+
+### 2026-06-10 10:00:07  #其他
+
+【黑龍江省農業農村廳原黨組書記王金會接受審查調查】中央紀委國家監委網站6月10日通報，據黑龍江省紀委監委訊息：黑龍江省農業農村廳原黨組書記、廳長王金會涉嫌嚴重違紀違法，目前正接受黑龍江省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-10 10:00:01  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Edges Higher — The yield on the US 10-year Treasury note climbed to around 4.54% on Wednesday after facing pressure in the previous session, as renewed hostilities in the Middle East that threatened a fragile ceasefire and the prospects for a lasting peace agreement heightened concerns about inflation and interest rates. The US launched “self-defense strikes” against Iran in response to the downing of an American helicopter, while Iranian Foreign Minister Abbas Araghchi warned that Iran’s armed forces would leave no attack or threat unanswered. Rising energy prices fueled by the regional conflict added to worries about persistent inflation and the possibility of further central bank rate hikes. Investors also awaited the latest US inflation data for additional clues on the Federal Reserve’s policy outlook, after stronger-than-expected jobs figures last week reinforced expectations of an interest rate increase before the end of the year.
+
+---
+
+### 2026-06-10 10:00:00  #MKT News #Market Regions #Greater China
+
+【China cold-chain logistics market seen topping 585 bln yuan in 2026】The China Federation of Logistics and Purchasing's China Cold-Chain Logistics Development Report (2026) forecasts China's cold-chain logistics market will exceed 585 bln yuan in 2026. It estimates the global cold-chain logistics services market at about 2.75 tln yuan in 2025, up 12.11% YoY, and projects a roughly 13.8% CAGR over the next decade, with Asia-Pacific the largest and fastest-growing region. The report flags steady domestic demand, stronger supply-chain resilience and risk capacity, and the maturing of business models including central-kitchen+cold-chain, pharma+cold-chain and instant-retail+cold-chain.
+
+---
+
+### 2026-06-10 09:59:51  #國際
+
+【黎軍總司令訪巴基斯坦 或關聯美伊談判】巴基斯坦軍方9日說，巴陸軍參謀長穆尼爾當天在伊斯蘭堡會見來訪的黎巴嫩軍隊總司令魯道夫·海卡爾，雙方同意加強防務合作。據知情人士披露，海卡爾此訪可能與美國和伊朗正在進行的談判有關。(新華社)
+
+---
+
+### 2026-06-10 09:59:41  #其他
+
+【今年我國冷鏈物流市場規模有望超5850億元】中國物流與採購聯合會今天（10日）釋出《中國冷鏈物流發展報告（2026）》。根據報告，當前，我國冷鏈供應鏈發展底盤堅實，綜合實力不斷提升，今年我國冷鏈物流市場規模有望超過5850億元。據介紹，2025年全球冷鏈物流服務市場規模約2.75萬億元，同比增長12.11%，未來十年複合增長率約13.8%。其中，亞太地區預計是規模最大、增速最快的市場。近年來，我國冷鏈物流市場需求保持穩健增長，產業鏈供應鏈韌性與抗風險能力顯著提升。“中央廚房+冷鏈”“醫藥+冷鏈”“即時零售+冷鏈”等模式逐步進入成熟發展期。另外，我國跨境冷鏈生態持續升級，跨境需求強勁。今年1—4月份，鮮活農產品進出口總額約3238.91億元，同比增長7.5%。重點監測跨境電商進口平臺全球商品銷售額增長4.3%，跨境電商從“產品輸出”升級為“技術、模式、生態”全方位出海。
+
+---
+
+### 2026-06-10 09:59:26  #公司
+
+【新疆生產建設兵團建設工程（集團）有限責任公司原黨委書記陳少敏被查】中央紀委國家監委網站6月10日通報，據新疆生產建設兵團紀委監委訊息：新疆生產建設兵團建設工程（集團）有限責任公司原黨委書記、董事長陳少敏涉嫌嚴重違紀違法，目前正接受新疆生產建設兵團紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-06-10 09:59:17  #市場
+
+【算力租賃概念快速拉昇 美利雲、拓維資訊雙雙漲停】算力租賃概念快速拉昇，美利雲、拓維資訊雙雙漲停，此前中貝通訊漲停，資料港、雲賽智聯、二六三、銅牛資訊、首都線上跟漲。
+
+---
+
+### 2026-06-10 09:58:28  #公司
+
+【軟銀尋求60億美元OpenAI保證金貸款的計劃陷入停滯】據媒體週三援引訊息人士報道，軟銀集團正與潛在債權人就透過其持有的OpenAI股份作為抵押的保證金貸款籌集至少60億美元一事進行的談判，已陷入僵局。報道稱，該公司正在考慮多種融資方案，並補充稱，未來仍可能推進該保證金貸款計劃。
+
+---
+
+### 2026-06-10 09:58:11  #MKT News
+
+China A-share gas stocks rallied in short-term trading: Shuifa Gas surged to the daily limit, Zhongtai Co. rose over 8%, and Kaitian Gas, Guizhou Gas and Delong Huineng also advanced.
+
+---
+
+### 2026-06-10 09:57:19  #市場
+
+【燃氣板塊短線拉昇，水發燃氣漲停】燃氣板塊短線拉昇，水發燃氣漲停，貴州燃氣、德龍匯能、凱添燃氣、九豐能源、天壕能源跟漲。
+
+---
+
+### 2026-06-10 09:57:13  #MKT News #Market Themes #Chip Wars #09903.HK #Impact bullish #06082.HK #00981.HK
+
+Hong Kong-listed chip stocks showed pockets of strength; Tianshu Zhixin (09903.HK) rose more than 12%, while Biren Technology (06082.HK), Huahong Hongli (01347.HK), SMIC (00981.HK) and ZTE (00763.HK) also gained.
+
+---
+
+### 2026-06-10 09:55:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【U.S. media say U.S. military struck 20 targets inside Iran】Fox News on the 9th, citing a senior U.S. official, reported U.S. forces struck 20 targets inside Iran that day. U.S. Central Command said the strikes had ended but the situation remains "dynamic." U.S. forces said they are prepared to respond if Iran retaliates.
+
+---
+
+### 2026-06-10 09:55:38  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share chemical raw materials sector rallied intraday; Sanfu Shares hit the daily limit, while Jinniu Chemical, Jinmei Technology, Hengguang Shares, Hongxing Development and Chlor‑Alkali Chemical also advanced.
+
+---
+
+### 2026-06-10 09:55:06  #國際
+
+【美媒稱美軍打擊了伊朗境內20個目標】美國福克斯新聞網9日報道說，一名美國高階官員表示，美軍當天對伊朗境內20個目標實施了打擊。雖然美軍中央司令部宣佈美軍的打擊行動已經結束，但局勢仍“處於動態變化中”。如果伊朗進行報復，美軍已做好應對準備。稍早前，美軍中央司令部發表宣告稱，已完成對伊朗的“自衛性打擊”。此次打擊是對8日一架美軍直升機被擊落的回應。（新華社）
+
+---
+
+### 2026-06-10 09:54:52  #公司 #市場
+
+【化學原料板塊短線拉昇，三孚股份漲停】化學原料板塊短線拉昇，三孚股份漲停，金牛化工、金煤科技、恆光股份、紅星發展、氯鹼化工等紛紛走高。
+
+---
+
+### 2026-06-10 09:53:34  #Trading Economics #Markets #Hong Kong #stocks #Importance 1
+
+AIA Stock Price Hits 32-week Low — AIA shares decreased to 70.75 HKD, the lowest since October 2025. Over the past 4 weeks, AIA Group lost 17.78%, and in the last 12 months, it increased 2.15%.
+
+---
+
+### 2026-06-10 09:53:00  #其他
+
+【中際旭創成交額超100億元】截至發稿，中際旭創成交額超100億元，現跌超1%。
+
+---
+
+### 2026-06-10 09:52:56  #MKT News #Star Stocks #Tencent #01024.HK #Impact bullish #00700.HK #09888.HK
+
+Select Hong Kong tech names showed pockets of strength; Kuaishou (01024.HK) rose over 5%, while NetEase-S (09999.HK), Tencent Holdings (00700.HK) and Baidu (09888.HK) also advanced.
+
+---
+
+### 2026-06-10 09:52:43  #國際
+
+伊朗伊斯蘭革命衛隊襲擊科威特阿里·薩利姆空軍基地。
+
+---
+
+### 2026-06-10 09:52:30  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+【IRGC launches missile strike on U.S. base in Jordan】Iranian media reported on the 10th that the Islamic Revolutionary Guard Corps (IRGC) has just launched a missile strike against a U.S. military base in Jordan.
 
 ---
 
@@ -21394,182 +21580,5 @@ Energy Commodities Updates: Natural Gas UK Rises by 3.83% — Top commodity gain
 ### 2026-06-09 06:28:56  #國際
 
 據AXIOS：美國白宮正協商推動聯邦法律優先於各州人工智慧相關法規實施。
-
----
-
-### 2026-06-09 06:23:19  #公司 #市場
-
-【從電力管家到散熱高手，碳化矽全產業鏈供需兩旺】高品質襯底片供應緊張、價格漲幅明顯，襯底片大廠產能利用率普遍超過了90%，晶片模組公司產能供不應求、交付週期大幅拉長，上游裝置公司訂單旺盛、客戶還往往要求緊急交付……記者近日調研國內碳化矽（SiC）產業鏈獲悉，整個產業景氣度高漲。記者瞭解到，自2025年第四季度以來，碳化矽行業新增晶圓產能擴張節奏有所放緩，而汽車、光儲、充電樁等三大主力應用市場均持續處於高景氣執行週期，對國產SiC MOSFET器件的需求持續快速增長；同時，消費電子、AI等新興應用場景需求集中爆發，疊加半導體行業整體漲價預期，拉高終端廠商的備庫存需求，共同推動碳化矽行業景氣度持續上升。（上證報）
-
----
-
-### 2026-06-09 06:23:05  #公司
-
-【A股回撥觸發風格切換預期 券商密集上調十餘隻個股評級】週一，A股出現回撥，市場圍繞“世界盃效應”、市場風格切換的討論熱度驟增。多家券商分析師火速解讀市場，一部分觀點將科技股籌碼高度擁擠視作本次調整內在誘因，還有分析師提出投資佈局可從“矽基”賽道轉向“碳基”賽道。此外，較受關注的還有券商分析師近日密集更新對上市公司的研報及觀點內容。資料顯示，十餘家上市公司獲上調評級，集中在OLED、半導體、新能源配套等領域，主要邏輯是行業高景氣與新業務放量；同時，有多家上市公司評級遭下調，誘因普遍是短期業績不及預期、下游需求存在不確定性。（證券時報）
-
----
-
-### 2026-06-09 06:21:54  #宏觀
-
-【全鏈條補齊制度短板 私募基金迎規範發展新階段 】23萬億元規模的私募基金行業迎來了頂層設計。國務院辦公廳日前印發《國務院辦公廳關於加強監管防範風險促進私募投資基金高質量發展的指導意見》（以下簡稱《指導意見》），全面調整最佳化監管理念，對私募基金行業未來一段時期監管工作作出全面部署。證監會主席吳清要求，私募基金要把《指導意見》和配套規則全面落實到展業全過程各環節，切實在理念、模式、行動上來一個大轉變、大提升。頂層部署與監管落地的雙向聯動，為私募行業高質量發展劃定了提質增效的新賽道。國泰海通非銀金融團隊分析師劉欣琦認為，這對私募基金行業格局將產生深遠影響，偽私募、空殼機構會面臨更嚴格的監管約束和退出壓力，行業資源有望向頭部合規機構集中，耐心資本和硬科技投資方向的機構將獲得更多政策支援。（證券時報）
-
----
-
-### 2026-06-09 06:20:02  #其他
-
-【上市券商逾400億元分紅集中落地】2025年度分紅進入集中兌現視窗期，多家上市券商相繼完成除權派息安排。總的來看，行業分紅呈現兩大鮮明特徵：一是頭部、中小券商同步抬升分紅比例，現金回饋力度顯著增強；二是中期分紅機制大範圍鋪開，2026年年內多次分紅有望成為行業常規操作。規模擴容、頻次升級、機制完善三重突破，正在啟用券商板塊投資價值，吸引長期資金佈局。（上證報）
-
----
-
-### 2026-06-09 06:17:19  #公司 #國際
-
-【6月9日隔夜要聞一覽】
-1、特朗普：將在未來兩週內宣佈對伊戰爭取得全面勝利。
-2、美法官裁定特朗普政府抬高H-1B簽證費違法，白宮稱將提起上訴。
-3、蘋果WWDC26：庫克謝幕，系統提速，Siri終於聰明瞭。
-4、繼Anthropic之後，OpenAI也提交了美國IPO申請。
-5、Alphabet旗下谷歌將2028年逾300萬顆專用AI晶片訂單交給英特爾。
-6、Meta宣佈推出美國勞動力學院，首年投入1.15億美元啟動資金。
-7、SpaceX首次公開募股認購大幅超額，將於週三結束申購。
-8、以色列總理內塔尼亞胡表示，鑑於伊朗已停止襲擊，他決定對伊朗“暫不還擊”
-9、穆迪：美國壽險公司持有8070億美元流動性最差信貸資產。
-
----
-
-### 2026-06-09 06:15:42  #國際
-
-委內瑞拉代總統Delcy Rodriguez會見土耳其總統埃爾多安。雙方討論實現30億美元貿易額的措施。雙方側重於推進貿易、能源、礦業合作。Rodriguez此前結束了對印度持續五天的行程。
-
----
-
-### 2026-06-09 06:15:09  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Rises by 2.10% — Top currency gainers are South Korean Won (2.10%), Euro (0.10%) and Japanese Yen (0.08%). Biggest losers are Brazilian Real (-0.29%), Indian Rupee (-0.25%) and Dollar Index (-0.07%). Meanwhile British Pound was little changed.
-
----
-
-### 2026-06-09 06:11:50  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #Treasury Yields #XAUUSD #Impact bearish #DXY #Impact bullish #US10Y
-
-【Gold erases most YTD gains; near-term to remain rangebound】Gold has fallen since a late‑January peak and accelerated lower in June as Fed rate‑hike expectations firmed, erasing almost all year‑to‑date gains. Global central bank buying remains robust and gold’s share of official reserves continues to rise. Market participants say the US‑Israel‑Iran conflict drove energy prices higher but lifted inflation expectations rather than triggering a safe‑haven bid, weighing on bullion. Near term a stronger dollar and rising US Treasury yields raise the opportunity cost of holding gold and should keep prices under pressure; medium‑to‑long‑term support comes from sustained official buying, shifts in international reserve allocations and lasting safe‑haven demand.
-
----
-
-### 2026-06-09 06:10:22  #資料 #央行 #國際
-
-【流動性壓力擾動市場 震盪中機構建議均衡配置 】美國最新非農就業資料再超預期引發全球權益市場巨震，科技板塊調整尤為明顯。就在本週，備受關注的美國5月CPI資料將出爐，歐洲央行也將公佈最新利率決議，其或成為年內首家重啟加息的主要經濟體央行，市場流動性邊際收緊風雨欲來。在業內機構看來，在流動性收緊的環境下，需警惕大盤高擁擠度帶來的短期風格反轉，可在適度參與科技主線的同時，關注中小市值及順週期等方向。就A股而言，海外風險造成的衝擊更多體現為短期影響，建議投資者均衡配置，公用事業、銀行等板塊有望受到關注。（中證報）
-
----
-
-### 2026-06-09 06:10:01  #市場 #央行 #國際
-
-【今年以來黃金漲幅幾乎悉數回吐 短期仍以震盪為主 】自今年1月下旬創下歷史新高以來，國際金價持續震盪下行。進入6月，隨著美聯儲加息預期升溫，黃金跌勢明顯加快，今年以來漲幅幾乎全部回吐。6月8日，截至記者發稿時，倫敦金現貨價格失守4300美元/盎司關口，市場情緒明顯降溫。值得關注的是，在金價持續調整之際，全球央行購金熱情並未減弱，黃金在全球官方儲備資產中的佔比也不斷提升。機構人士認為，美以伊衝突引發的能源價格飆升並未啟用黃金傳統避險功能，反而因推升通脹預期而對金價形成壓制。短期來看，美元走強和美債收益率攀升令持有黃金的機會成本上升，金價仍將承壓。但從中長期來看，全球央行持續增持黃金、國際儲備體系重構以及長期存在的避險需求等因素，仍將為金價提供支撐。（中證報）
-
----
-
-### 2026-06-09 06:08:18  #市場 #國際
-
-【全球科技股共振下跌 機構稱中期積極配置成長板塊 】全球科技股共振下跌。在美股科技股當地時間6月5日大跌後，6月8日，日經225指數跌近4%，韓國綜合指數跌逾8%。A股市場調整，大盤科技股帶動三大指數下跌，深證成指、創業板指均跌逾3%。銀行、減速器、雞產業等板塊逆勢上漲，整個A股市場超4500只股票下跌。市場成交額為2.82萬億元，較前一交易日縮量。資金面上，槓桿資金在連續8周淨買入後出現淨賣出，上週A股融資餘額減少超50億元，電力裝置、電子行業融資淨賣出額均超30億元。6月8日，滬深兩市主力資金淨流出超750億元，資金情緒謹慎。分析人士認為，A股短期仍處在震盪消化、結構再平衡的執行階段，板塊輪動加速，短期盤面波動或加大。中期在基本面及產業趨勢支撐下，市場有望逐漸震盪上行。短期關注防禦板塊，中期則積極配置成長板塊。（中證報）
-
----
-
-### 2026-06-09 06:07:24  #其他
-
-【量質齊升 6月地方債發行有望提速 】今年前5個月，地方債發行交出一份“量質齊升”的成績單，1至5月全國累計發行地方債47219億元，同比增長超9%，體現出更加積極的財政政策靠前發力。新增專項債受“自審自發”等多項利好政策支援，超七成資金投向基礎設施和專案建設等領域。進入6月，專家預期地方債發行有望放量。（中證報）
-
----
-
-### 2026-06-09 06:04:48  #MKT News
-
-Iranian media, citing airport officials, reported flights have resumed at Tehran's Imam Khomeini International Airport.
-
----
-
-### 2026-06-09 06:04:07  #國際
-
-伊朗媒體援引機場官員訊息：德黑蘭伊瑪目霍梅尼機場航班已恢復執行。
-
----
-
-### 2026-06-09 06:02:49  #MKT News #XAUUSD #Impact mixed #WTI #DXY
-
-【Iran's UN envoy says hopes US-Iran talks will reach agreement before end-June】Iran's UN envoy Amir Saeid Iravani said on Monday Tehran and Washington are still negotiating a peace agreement, expressed optimism a final deal could be reached "soon," and replied "we hope so" when asked if an agreement might be concluded before the end of June. Iravani said the current ceasefire is comprehensive and applies across the region, including Lebanon — a characterization Israel disputes. Israel's Prime Minister Netanyahu said Israel has decided not to take further action against Iran but will continue strikes against Hezbollah.
-
----
-
-### 2026-06-09 06:00:24  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為98.1%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.1%，累計降息25個基點的機率為1.9%。美聯儲到7月維持利率不變的機率為84.7%，累計加息25個基點的機率13.6%，累計降息25個基點的機率為1.6%。
-
----
-
-### 2026-06-09 05:49:08  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-Trump said Israel will not reopen hostilities with Iran.
-
----
-
-### 2026-06-09 05:49:06  #國際
-
-特朗普：伊朗相關局勢平息後，油價將會回落。
-
----
-
-### 2026-06-09 05:48:43  #國際
-
-特朗普：勝利很快就會到來。
-
----
-
-### 2026-06-09 05:48:31  #MKT News #Market Themes #The Trump Trade
-
-Trump says U.S. is negotiating with Iran.
-
----
-
-### 2026-06-09 05:48:25  #國際
-
-特朗普：我們將在兩週內宣佈“全面”勝利。
-
----
-
-### 2026-06-09 05:47:43  #國際
-
-特朗普談及伊朗：兩週之內局勢定會迎來轉機。
-
----
-
-### 2026-06-09 05:47:10  #國際
-
-特朗普談伊朗：我們正在談判。
-
----
-
-### 2026-06-09 05:46:41  #國際
-
-特朗普談伊朗：我們已經摧毀了他們的軍事力量和領導層。
-
----
-
-### 2026-06-09 05:46:27  #國際
-
-美國總統特朗普出席線上競選集會並發表講話。
-
----
-
-### 2026-06-09 05:44:03  #MKT News
-
-Iranian media reported a magnitude-5 earthquake in southern Hormozgan province.
-
----
-
-### 2026-06-09 05:43:50  #國際
-
-伊朗媒體報道，伊朗南部霍爾木茲甘省發生 5 級地震。
-
----
-
-### 2026-06-09 05:40:45  #公司
-
-市場訊息：OpenAI計劃在首次公開募股（IPO）之前啟動員工/股東股票要約收購案（Tender Sale）。據知情人士透露，該公司將在未來幾周內正式舉行該股票要約收購（Tender）。
 
 ---
