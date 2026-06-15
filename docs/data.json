@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-16 04:02:59",
+  "updated": "2026-06-16 04:07:06",
   "count": 18209,
   "items": [
+    {
+      "id": "mkt:019ecce3-a09f-7dd8-b016-67addc68b70d",
+      "time": "2026-06-16 04:05:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed higher on Monday, June 15: the Dow Jones Industrial Average rose 468.77 points (+0.92%) to 51,671.03; the S&P 500 gained 123.00 points (+1.66%) to 7,554.46; the Nasdaq Composite added 795.10 points (+3.07%) to 26,683.94."
+    },
+    {
+      "id": "4937091",
+      "time": "2026-06-16 04:05:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國多名參議員聯合致函埃克森美孚、雪佛龍、殼牌、英國石油以及康菲石油，就戰爭爆發以來各家企業的高額利潤問題提出質詢。"
+    },
+    {
+      "id": "4937090",
+      "time": "2026-06-16 04:04:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國愛德華茲空軍基地通告：機場跑道已關閉，所有進港飛機全部備降其他機場。 基地暫停發放所有非公務訪客通行許可，恢復時間另行通知，保障基地全力開展應急處置工作。"
+    },
+    {
+      "id": "4937089",
+      "time": "2026-06-16 04:03:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "福克斯股價收盤下跌17%，創歷史新低。"
+    },
+    {
+      "id": "mkt:019ecce2-1d7a-7dd8-b016-5c6f4040fc43",
+      "time": "2026-06-16 04:03:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Toronto Stock Exchange index closed at a record high, surpassing its June 4 peak."
+    },
     {
       "id": "4937088",
       "time": "2026-06-16 04:01:46",
@@ -167342,56 +167388,6 @@
         "Impact bullish"
       ],
       "text": "Applied Digital (APLD.O) signed a 210 MW lease for the Delta Forge2 project, extending its \"AI factory\" franchise model to a fifth campus."
-    },
-    {
-      "id": "mkt:019ea8d7-286d-733a-9235-99576236939e",
-      "time": "2026-06-09 04:05:33",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US equities at close June 8 (Monday): Dow Jones Industrial Average down 80.77 points (-0.16%) to 50,786.01; S&P 500 up 21.94 points (+0.30%) to 7,405.68; Nasdaq Composite up 220.23 points (+0.86%) to 25,929.66."
-    },
-    {
-      "id": "mkt:019ea8d6-649e-733a-9235-9275fa71cd46",
-      "time": "2026-06-09 04:04:43",
-      "tags": [
-        "MKT News",
-        "CRM.N"
-      ],
-      "text": "Salesforce (CRM.N) signed a definitive agreement to acquire M3ter; the deal is expected to close in Salesforce's fiscal 2027 Q2."
-    },
-    {
-      "id": "4924670",
-      "time": "2026-06-09 04:04:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "據CNN：肯尼迪藝術中心官網已撤下特朗普相關標識。"
-    },
-    {
-      "id": "4924669",
-      "time": "2026-06-09 04:03:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios：特朗普稱，他曾對內塔尼亞胡發出警告，若再度與伊朗開戰，對方或將陷入孤軍作戰的境地。"
-    },
-    {
-      "id": "mkt:019ea8d5-28dd-733a-9235-8db80c0e0ffb",
-      "time": "2026-06-09 04:03:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Axios reports US President Trump said he warned Israeli Prime Minister Netanyahu that if he were to go to war with Iran again he could find himself isolated."
     }
   ]
 }
