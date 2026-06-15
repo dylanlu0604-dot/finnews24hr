@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-16 03:05:35_
-_本檔包含 3621 則快訊，約 667476 字_
+_更新時間：2026-06-16 04:19:24_
+_本檔包含 3591 則快訊，約 666812 字_
+
+---
+
+### 2026-06-10 09:40:52  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時放量349億元。
+
+---
+
+### 2026-06-10 09:40:49  #資料 #市場
+
+【國家統計局：算力需求增長等帶動有色金屬、電氣機械和計算機相關行業價格上漲】從環比看，5月份全國PPI上漲0.5%，漲幅比上月回落1.2個百分點。本月PPI環比執行的主要特點：一是產業結構最佳化升級帶動部分行業價格上行。製造業裝置更新持續推進，黑色金屬冶煉和壓延加工業價格環比上漲1.2%。電氣化程序加快，人工智慧與各領域深度融合，算力需求增長等帶動有色金屬、電氣機械和計算機相關行業價格上漲，有色金屬冶煉和壓延加工業價格上漲1.1%，其中錫冶煉、銅冶煉價格分別上漲4.8%和3.1%；計算機通訊和其他電子裝置製造業價格上漲0.6%，其中積體電路封裝測試系列、外儲存裝置及部件價格分別上漲2.9%和1.9%；電氣機械和器材製造業價格上漲0.5%，其中光纖製造、電線電纜製造價格分別上漲8.0%和1.2%。
+
+---
+
+### 2026-06-10 09:40:38  #國際
+
+巴林內政部10日發表宣告說，巴林全國拉響防空警報，請民眾前往安全地點。 稍早前，伊朗伊斯蘭革命衛隊說，伊朗對位於巴林的美軍第五艦隊設施發動了無人機襲擊。（新華社）
+
+---
+
+### 2026-06-10 09:40:17
+
+【美官員稱最新對伊打擊不會阻礙雙方談判】據美國方面9日訊息稱，一名美國官員表示，美軍最新發動的報復性打擊是為了警告伊朗，美方認為此次打擊不會阻礙關於結束戰爭的談判。（央視新聞）
+
+---
+
+### 2026-06-10 09:40:08  #國際
+
+巴林國王媒體顧問在X平臺表示：巴林防空系統擊退了伊朗的襲擊。
+
+---
+
+### 2026-06-10 09:39:55  #經濟數據 #中國
+
+【國家統計局：5月份CPI總體平穩 PPI繼續上漲】國家統計局城市司首席統計師董莉娟解讀2026年5月份CPI和PPI資料。5月份，居民消費市場執行總體平穩，居民消費價格指數（CPI）環比下降0.1%，同比上漲1.2%，扣除食品和能源價格的核心CPI同比上漲1.1%。受國內部分行業需求增加以及國際大宗商品價格波動傳導等因素影響，工業生產者出廠價格指數（PPI）環比上漲0.5%，同比上漲3.9%。
+
+---
+
+### 2026-06-10 09:39:25  #Trading Economics #Economy #China #Food Inflation #Importance 1
+
+China Food Prices Extend Decline — China’s food prices fell 1.7% year-on-year in May 2026, following a 1.6% decline in the previous month. It was the second straight month of decrease and the steepest pace since last October.
+
+---
+
+### 2026-06-10 09:39:25  #MKT News #Important #CSI300 #Impact bullish #SZSE Component #CNH
+
+Sci‑Tech Innovation 50 Index (STAR 50) rose more than 2% intraday as the semiconductor sector rallied; constituents included China's CPU maker Haiguang, up over 10%, Shanghai Silicon Industry, up over 7%, and Cambricon, up over 4%.
+
+---
+
+### 2026-06-10 09:39:22  #Trading Economics #Economy #China #Producer Prices Change #Importance 2
+
+China Producer Inflation Nears 4-Year High — China’s producer prices increased 3.9% year-on-year in May 2026, accelerating from a 2.8% rise in the previous month and surpassing market forecasts of 3.8%. It was the second consecutive monthly increase and the fastest pace since July 2022, driven by soaring global commodity and energy prices amid supply disruptions stemming from the war in Iran.
+
+---
+
+### 2026-06-10 09:39:07  #MKT News #Important
+
+【U.S. official says latest strike on Iran will not impede talks to end the war】A U.S. official said the recent retaliatory strike was intended as a warning to Iran and that U.S. officials do not believe it will impede negotiations to end the war.
+
+---
+
+### 2026-06-10 09:38:46  #市場
+
+【兵裝重組概念板塊拉昇，湖南天雁漲停】兵裝重組概念板塊拉昇，湖南天雁漲停，東安動力、長城軍工、建設工業、華強科技跟漲。
+
+---
+
+### 2026-06-10 09:38:32  #市場 #焦點
+
+雞蛋連續主力合約日內漲2%，現報4789.00元。
+
+---
+
+### 2026-06-10 09:38:18  #MKT News #Commodities #Energy #Industrial Metals #CSI300 #Impact bullish #Copper
+
+China A-share energy and metals sector strengthened in early trade; Zhongkuang Resources and Shengxin Lithium Energy rose over 4%, while Yongxing Materials, Ganfeng Lithium, Tibet Mining and TTANQT LITHIUM also gained.
+
+---
+
+### 2026-06-10 09:38:07  #公司 #市場
+
+【工業氣體概念震盪反彈，昊華科技、和遠氣體雙雙漲停】工業氣體概念震盪反彈，昊華科技、和遠氣體雙雙漲停，中船特氣、凱美特氣、中泰股份、杭氧股份、金宏氣體、廣鋼氣體等跟漲。
+
+---
+
+### 2026-06-10 09:38:03  #MKT News
+
+President Trump will sign the Secure America Act tomorrow at 10:00 a.m. local time (22:00 Beijing time) in the Oval Office; the ceremony will be open to the White House press pool.
+
+---
+
+### 2026-06-10 09:38:01  #公司 #市場
+
+【食品飲料行業板塊異動拉昇，元祖股份漲停】食品飲料行業板塊異動拉昇，元祖股份漲停，金字火腿、惠泉啤酒、百潤股份、歐福蛋業、迎駕貢酒、安井食品等跟漲。
+
+---
+
+### 2026-06-10 09:37:55  #公司 #市場
+
+【環氧丙烷板塊走高，紅寶麗漲停】環氧丙烷板塊走高，中化國際2連板，紅寶麗漲停，美邦科技、紅牆股份、國恩股份、石大勝華、維遠股份跟漲。
+
+---
+
+### 2026-06-10 09:37:50  #其他
+
+【物理AI概念反覆活躍 天娛數科4連板】物理AI概念反覆活躍，天娛數科4連板，能科科技、凡拓數創、索辰科技跟漲。
+
+---
+
+### 2026-06-10 09:37:44  #公司
+
+【測繪股份成立地理資訊公司，含AI及衛星相關業務】企查查APP顯示，近日，南京江新地理資訊有限公司成立，經營範圍包含：地理遙感資訊服務；衛星遙感應用系統整合；智慧水務系統開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由測繪股份全資持股。
+
+---
+
+### 2026-06-10 09:37:27  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-06-10 09:37:26  #MKT News #Important #Market Themes #Chip Wars
+
+Baiwei Storage shares rose more than 5% after the company signed a $1.861 billion contract to purchase enterprise-grade flash memory chips.
+
+---
+
+### 2026-06-10 09:37:15  #市場
+
+【鐳射雷達板塊大幅調整，XD美湖股跌停】鐳射雷達板塊大幅調整，XD美湖股跌停，天孚通訊、騰景科技、光庫科技、長光華芯、炬光科技、美迪凱等跟跌。
+
+---
+
+### 2026-06-10 09:37:04  #國際
+
+【美官員稱最新對伊打擊不會阻礙雙方談判】據美國方面9日訊息稱，一名美國官員表示，美軍最新發動的報復性打擊是為了警告伊朗，美方認為此次打擊不會阻礙關於結束戰爭的談判。美軍中央司令部9日在社交媒體發文稱，美軍當天對伊朗實施打擊，以回應美軍一架“阿帕奇”武裝直升機被伊朗擊落事件。（央視）
+
+---
+
+### 2026-06-10 09:36:48  #市場
+
+【金飾價格集體跳水，跌破1300元】6月10日亞洲早盤，黃金白銀盤中持續下挫，均跌超1.4%。國際金價跌破4200美元關口。前一日，金銀油亦全線下跌。現貨黃金、COMEX黃金期貨均跌超1%；現貨白銀、COMEX白銀期貨均跌超4%。6月10日，國內多家品牌金飾價格大幅下調，集體跌破1300元/克。周生生足金飾品報1277元/克，較前一日1322元/克大跌45元；老廟黃金足金飾品報1283元/克，相較前一日1317元/克大跌34元；老鳳祥足金飾品報1276元/克，相較前一日1316/克大跌40元。
+
+---
+
+### 2026-06-10 09:36:39  #市場
+
+【農林牧漁板塊開盤快速拉昇，京基智農漲停】農林牧漁板塊開盤快速拉昇，京基智農漲停，賢豐控股、眾興菌業、天康生物等跟漲。
+
+---
+
+### 2026-06-10 09:36:20  #資料 #市場
+
+【國家統計局：5月份CPI環比下降主要是受能源和服務價格變動影響】國家統計局城市司首席統計師董莉娟解讀2026年5月份CPI資料，從環比看，全國CPI下降0.1%，上月為上漲0.3%，主要是受能源和服務價格變動影響。受國際油價傳導影響，國內汽油價格由上月上漲12.6%轉為下降0.3%，帶動能源價格由上月上漲5.7%轉為下降0.1%，對CPI環比的影響由上月上拉0.39個百分點轉為下拉0.01個百分點。受“五一”節後出行季節性回落影響，服務價格由上月上漲0.5%轉為下降0.1%，對CPI環比的影響由上月上拉0.22個百分點轉為下拉0.03個百分點。其中，交通工具租賃和飛機票價格分別由上月上漲8.6%和29.2%轉為下降6.8%和6.3%，合計影響CPI環比下降約0.04個百分點。夏裝換季上新帶動服裝價格上漲0.6%，AI相關需求旺盛帶動行動電話機和平板電腦價格分別上漲1.6%和1.1%，上述三項合計影響CPI環比上漲約0.05個百分點。食品價格下降0.4%，降幅比上月收窄1.2個百分點，影響CPI環比下降約0.07個百分點。食品中，應季蔬菜大量上市，鮮菜價格下降3.6%，影響CPI環比下降約0.06個百分點；豬肉供應充足，價格下降1.6%，降幅比上月收窄4.1個百分點，影響CPI環比下降約0.03個百分點；階段性供給偏緊疊加夏季高溫產蛋率下降、端午節前集中備貨等因素影響，雞蛋價格上漲6.1%，影響CPI環比上漲約0.03個百分點。
+
+---
+
+### 2026-06-10 09:36:13  #MKT News #Commodities #Energy #Market Regions #Greater China #CNH #Impact mixed #CSI300 #Impact bullish
+
+【NBS: China CPI -0.1% MoM in May vs +0.3% in April; energy and services drove move】China's national CPI fell 0.1% MoM in May, after a 0.3% MoM rise in April, NBS urban statistics chief Dong Lijuan said. Domestic gasoline swung from +12.6% to -0.3% on international oil-price pass-through; energy CPI moved from +5.7% to -0.1%, shifting its MoM contribution from +0.39 percentage points to -0.01 percentage points. Services prices eased from +0.5% to -0.1% as post-May Day travel declined, with the services contribution to MoM CPI moving from +0.22ppt to -0.03ppt; vehicle rental and airfares alone flipped from +8.6% and +29.2% to -6.8% and -6.3%, together reducing MoM CPI by ~0.04ppt. Seasonal summer clothing (+0.6%) and stronger AI-related demand boosting mobile phones (+1.6%) and tablets (+1.1%) added roughly +0.05ppt to May MoM CPI.
+
+---
+
+### 2026-06-10 09:36:12  #市場
+
+半導體板塊盤初拉昇，中晶科技2連板，海光資訊漲超10%，氣派科技、富滿微、康強電子、傑華特跟漲。
+
+---
+
+### 2026-06-10 09:35:50  #MKT News #300347.SZ #Impact bullish #603259.SS
+
+China A-share CRO sector gained in early trade; Tigermed rose over 6%, with Baihua Pharmaceutical, Kailaiying, WuXi AppTec, Weilan Bio, Haoyuan Pharma and Nuosige also advancing.
+
+---
+
+### 2026-06-10 09:35:46  #Trading Economics #Economy #China #Inflation Rate #Importance 3
+
+China Inflation Slightly Below Forecasts — China’s consumer inflation held steady at 1.2% year-on-year in May 2026, unchanged from April and slightly below market expectations of 1.3%. On a monthly basis, consumer prices fell 0.1%, reversing a 0.3% increase in the previous month. However, the decline was milder than market forecasts of a 0.2% drop.
+
+---
+
+### 2026-06-10 09:35:35  #市場
+
+大盤主力淨流出超100億。
+
+---
+
+### 2026-06-10 09:35:19  #公司
+
+模組化電源系統公司EROCK透過IPO籌集了6億美元。
+
+---
+
+### 2026-06-10 09:35:01  #公司 #市場
+
+【AI智慧體概念盤初走強 南興股份一字漲停】早盤AI智慧體概念走強，南興股份一字漲停，南威軟體觸及漲停，宇信科技、天娛數科、思特奇、返利科技跟漲。
+
+---
+
+### 2026-06-10 09:34:56  #市場
+
+【長飛光纖股價創歷史新高】長飛光纖盤中股價創歷史新高，現漲0.14%，報485.00元，總市值為2904.27億元。
+
+---
+
+### 2026-06-10 09:34:54  #MKT News #CNH #Impact mixed #CSI300 #Copper #Impact bullish
+
+【NBS Urban Department chief statistician Dong Lijuan interprets May 2026 CPI and PPI data】NBS Urban Department chief statistician Dong Lijuan said May 2026 CPI fell 0.1% MoM and rose 1.2% YoY; core CPI excluding food and energy rose 1.1% YoY. Producer prices (PPI) rose 0.5% MoM and 3.9% YoY, driven by firmer domestic industrial demand and pass-through from international commodity price volatility.
+
+---
+
+### 2026-06-10 09:34:44  #資料 #市場
+
+【國家統計局城市司首席統計師董莉娟解讀2026年5月份CPI和PPI資料】5月份，居民消費市場執行總體平穩，居民消費價格指數（CPI）環比下降0.1%，同比上漲1.2%，扣除食品和能源價格的核心CPI同比上漲1.1%。受國內部分行業需求增加以及國際大宗商品價格波動傳導等因素影響，工業生產者出廠價格指數（PPI）環比上漲0.5%，同比上漲3.9%。
+
+---
+
+### 2026-06-10 09:34:16  #其他
+
+【剛果（金）埃博拉確診病例升至598例】剛果（金）衛生部9日釋出報告說，截至8日，剛果（金）本輪埃博拉疫情累計確診病例升至598例，其中115例死亡。報告顯示，目前共有297名患者處於隔離或住院治療狀態，累計治癒人數升至22人。
+
+---
+
+### 2026-06-10 09:33:59  #市場
+
+【半導體板塊迅速拉昇，海光資訊漲超10%】半導體板塊迅速拉昇，海光資訊漲超10%，中晶科技、氣派科技、富滿微、康強電子、傑華特跟漲。
+
+---
+
+### 2026-06-10 09:33:58  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Slide on Middle East Tensions — The benchmark KOSPI fell more than 2% to around 7,880 on Wednesday, reversing gains from the previous session and tracking overnight losses on Wall Street as escalating tensions between the US and Iran weighed on investor sentiment. Risk appetite deteriorated after the US launched new strikes against Iran in response to the downing of an American military helicopter, raising concerns over broader regional instability and pushing oil prices higher. Technology shares also came under pressure after a selloff in US chipmakers, with investors locking in profits following the market's recent AI-driven rally as concerns over stretched valuations resurfaced. Samsung Electronics (-4.9%) and SK hynix (-4.3%) led the decline, while losses were also recorded in SK Square (-3.9%) and Hyundai Motor (-2.8%). In contrast, Hanwha Aerospace (1.9%) outperformed on expectations of increased defense spending amid heightened geopolitical uncertainty.
+
+---
+
+### 2026-06-10 09:33:55  #MKT News #Market Regions #Greater China
+
+【National Bureau of Statistics: May chemical raw material prices up 11.8%】China's National Bureau of Statistics said in May producer purchase prices rose for non-ferrous metal materials and wire (+22.0%), chemical raw materials (+11.8%), fuel and power (+10.0%), textile raw materials (+2.5%) and ferrous metal materials (+0.3%); building materials and non‑metallics fell 5.5% and agricultural products fell 1.6%.
+
+---
+
+### 2026-06-10 09:33:51  #公司
+
+【林洋能源成立新能源算力技術公司，含多項AI業務】企查查APP顯示，近日，雄安林洋新能源算力技術有限公司成立，註冊資本2億元，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧硬體銷售；量子計算技術服務等。企查查股權穿透顯示，該公司由林洋能源全資持股。
+
+---
+
+### 2026-06-10 09:33:42  #其他
+
+【電子特氣概念反覆活躍 和遠氣體5天3板】電子特氣概念反覆活躍，和遠氣體走出5天3板，中船特氣漲超10%，續創歷史新高，昊華科技、凱美特氣、廣鋼氣體等衝高。
+
+---
+
+### 2026-06-10 09:33:23  #市場 #國際
+
+日本30年期國債收益率下跌1.5個基點至3.850%。
+
+---
+
+### 2026-06-10 09:33:11  #MKT News #Market Regions #Greater China #CNH #Impact bearish #SSE Composite #Impact mixed
+
+【China NBS: May food, tobacco, alcohol and dining-out prices down 0.2% MoM】China's National Bureau of Statistics said in May food, tobacco, alcohol and dining-out prices fell 0.2% MoM, shaving about 0.06 percentage points off CPI. Fresh vegetables fell 3.6% MoM (≈‑0.06 ppt impact); livestock meat fell 0.8% (≈‑0.03 ppt), with pork down 1.6% (≈‑0.03 ppt). Eggs rose 5.0% (≈+0.03 ppt) and fresh fruit rose 0.6% (≈+0.01 ppt). Of the other seven major categories, one rose, two were flat and four fell: clothing +0.6%; education, culture & entertainment and healthcare flat; household goods & services and other goods & services ‑0.4%; transport & communications ‑0.3%; housing ‑0.1%.
+
+---
+
+### 2026-06-10 09:33:04  #MKT News #CSI300 #Impact bullish #SZSE Component
+
+A-share poultry sector spiked intraday; Jingji Zhinong hit the daily limit, Yike Food, Xiangjia and Yisheng also rose.
+
+---
+
+### 2026-06-10 09:32:56  #公司 #市場
+
+【養雞板塊短線拉昇，京基智農漲停】養雞板塊短線拉昇，京基智農漲停，益客食品、湘佳股份、益生股份跟漲。
+
+---
+
+### 2026-06-10 09:32:56  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish #SSE Composite
+
+China's Sci‑Tech Innovation 50 Index rose over 1%, led by sharp rallies in aerospace equipment, memory chips and photolithography (photoresist) stocks.
+
+---
+
+### 2026-06-10 09:32:42  #MKT News #CNH #Impact mixed
+
+【National Bureau of Statistics: May pork down 16.1%, cuts CPI by about 0.31 percentage points】The National Bureau of Statistics said food, tobacco & alcohol and catering prices fell 0.9% YoY in May, reducing CPI by about 0.26 percentage points. Meat prices were down 7.4% YoY, trimming CPI by roughly 0.31ppt; pork plunged 16.1% YoY and accounted for most of that reduction (~0.31ppt). Fresh fruit -2.2% YoY (-0.04ppt); eggs +6.6% (+0.03ppt); fresh vegetables +1.6% (+0.02ppt); aquatic products +0.6% (+0.01ppt). Of the seven other major CPI categories, six rose YoY and one fell: other goods and services +9.9%, transport & communications +5.4%, healthcare +2.1%, household goods & services +1.8%, clothing +1.4%, education/culture/recreation +1.3%; housing -0.2%.
+
+---
+
+### 2026-06-10 09:32:07  #市場
+
+【機器人板塊大幅調整，*ST聯翔等跌停】機器人板塊大幅調整，*ST聯翔、*ST寶馨跌停，瑞晟智慧、麥格米特、XD美湖股、中重科技、商絡電子、雅創電子等跟跌。
+
+---
+
+### 2026-06-10 09:32:03  #市場 #焦點
+
+科創50日內漲幅達1.09%，成分股中，海光資訊漲9.38%，盛科通訊漲5.52%，滬矽產業漲4.63%，佰維儲存漲4.54%。
+
+---
+
+### 2026-06-10 09:32:01  #公司 #國際
+
+【力諾藥包與Changjiang Investment Holding就埃及專案建設簽署協議】6月9日，力諾藥包與Changjiang Investment Holding在埃及蘇伊士省中埃·泰達蘇伊士經貿合作區就埃及專案建設事項簽署相關協議。此次簽約將顯著提升公司在全球醫藥包裝、耐熱玻璃及高階特種玻璃材料市場的海外供應、區域服務與國際市場響應效率。力諾藥包埃及專案依託埃及連線亞非歐三大市場的區位優勢，以及中埃·泰達蘇伊士經貿合作區成熟的平臺和產業服務能力，打造面向區域市場的先進製造基地和全球化供應支點，為力諾藥包進一步拓展國際市場、最佳化全球供應鏈佈局提供重要支撐。
 
 ---
 
@@ -21361,491 +21667,5 @@ Perrigo預計全財年調整後持續經營每股收益2美元至2.30美元。
 ### 2026-06-09 04:22:54  #公司
 
 明晟公司：將採用標準評估方法處理SpaceX的首次公開募股事宜。
-
----
-
-### 2026-06-09 04:18:28  #MKT News #AZN.O #Impact bullish
-
-AstraZeneca (AZN.O) said its oral obesity drug reduced patients' body weight by 10.5% in a trial.
-
----
-
-### 2026-06-09 04:18:25  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bullish #CDNS.O
-
-Cadence said it will partner with Intel's foundry (INTC.O) to accelerate optimization for the Intel 14A process, focusing on high-performance computing and mobile designs.
-
----
-
-### 2026-06-09 04:17:28  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-TASNIM News, citing sources, reports explosions heard in Sulaymaniyah in northern Iraq.
-
----
-
-### 2026-06-09 04:16:08  #其他
-
-阿斯利康減肥藥臨床試驗結果顯示，受試者體重平均下降 10.5%。
-
----
-
-### 2026-06-09 04:15:39  #公司
-
-聖地亞哥燃氣電力公司、高通公司與加州大學聖地亞哥分校攜手開展邊緣人工智慧合作，助力提升野火及極端天氣應對能力。
-
----
-
-### 2026-06-09 04:14:27  #國際
-
-伊朗塔斯尼姆通訊社援引訊息稱，伊拉克北部的蘇萊曼尼亞地區傳出爆炸聲。
-
----
-
-### 2026-06-09 04:12:07  #公司 #市場
-
-Applied Digital在Delta Forge 2簽署新的資料中心租賃協議，該公司股價盤後漲9%。
-
----
-
-### 2026-06-09 04:09:49  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-S&P and Nasdaq Climb on Strength in Chip Stocks — The Nasdaq rose 0.9% and the S&P 500 gained 0.3% on Monday, supported by a rebound in chip stocks after sharp losses in previous session and renewed optimism surrounding AI. Investor sentiment was also boosted after reports indicated that Iran and Israel had halted their exchanges of strikes, while President Trump said negotiations were continuing despite the attacks. As a result, oil prices gave back most of their earlier gains. Among semiconductor stocks, Nvidia advanced 1.7%, Broadcom climbed 2.8%, AMD surged 5.1%, and Micron Technology jumped 9.9%. Tesla also posted a strong gain, rising 4.6%. In contrast, the Dow Jones fell by 81 points. Apple declined 1.9% after its next-generation AI platform failed to impress investors. Microsoft and Visa also underperformed, each losing 1.2%.
-
----
-
-### 2026-06-09 04:08:31  #公司 #市場
-
-西捷航空：反對政府在燃油成本上漲之際向航空公司提供貸款的提案， 加拿大不應採取國內外及加美邊境相關舉措擾亂市場秩序。
-
----
-
-### 2026-06-09 04:07:17  #MKT News #APLD.O #Impact bullish
-
-Applied Digital (APLD.O) signed a 210 MW lease for the Delta Forge2 project, extending its "AI factory" franchise model to a fifth campus.
-
----
-
-### 2026-06-09 04:05:33  #MKT News #Dow #Impact bearish #S&P500 #Impact bullish
-
-US equities at close June 8 (Monday): Dow Jones Industrial Average down 80.77 points (-0.16%) to 50,786.01; S&P 500 up 21.94 points (+0.30%) to 7,405.68; Nasdaq Composite up 220.23 points (+0.86%) to 25,929.66.
-
----
-
-### 2026-06-09 04:04:43  #MKT News #CRM.N
-
-Salesforce (CRM.N) signed a definitive agreement to acquire M3ter; the deal is expected to close in Salesforce's fiscal 2027 Q2.
-
----
-
-### 2026-06-09 04:04:17  #國際
-
-據CNN：肯尼迪藝術中心官網已撤下特朗普相關標識。
-
----
-
-### 2026-06-09 04:03:34  #國際
-
-據Axios：特朗普稱，他曾對內塔尼亞胡發出警告，若再度與伊朗開戰，對方或將陷入孤軍作戰的境地。
-
----
-
-### 2026-06-09 04:03:22  #MKT News #WTI #Impact bullish #DXY #S&P500 #Impact bearish
-
-Axios reports US President Trump said he warned Israeli Prime Minister Netanyahu that if he were to go to war with Iran again he could find himself isolated.
-
----
-
-### 2026-06-09 04:01:30  #市場
-
-費城半導體指數收盤上漲5.6%。
-
----
-
-### 2026-06-09 04:01:17  #MKT News #Important #Market Themes #Chip Wars #INTC.O #Impact bullish #MRVL.O #MU.O
-
-【U.S. stocks close mixed; Intel jumps 11%】U.S. stocks closed mixed on Monday: the Dow Jones Industrial Average fell 0.16%, the S&P 500 rose 0.29% and the Nasdaq Composite gained 0.86%. MARVELL (MRVL.O) jumped 9.6%, Intel (INTC.O) rose 11% and Micron (MU.O) gained nearly 10%. The Nasdaq Golden Dragon China Index fell 0.6%; Alibaba (BABA.N) slipped about 1%.
-
----
-
-### 2026-06-09 04:01:07  #國際
-
-美國農業部：截至上週，美國大豆播種進度達 92%，長勢優良至極佳的比例為 65%。
-
----
-
-### 2026-06-09 04:00:46  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指跌0.16%，標普500指數漲0.29%，納指漲0.86%。英特爾漲11.10%，美光漲9.83%，阿克邁跌4.99%，好時跌4.75%，Ciena科技跌4.41%。“七姐妹”方面：特斯拉漲4.59%，英偉達漲1.73%，亞馬遜跌0.33%，微軟跌1.18%，谷歌跌1.22%，Meta Platforms跌1.31%，蘋果跌1.89%。
-
----
-
-### 2026-06-09 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收跌0.57%】中進醫療跌10.93%，復朗集團跌7.19%，陸金所控股跌5.17%，新氧跌4.92%，大全新能源跌4.87%。
-
----
-
-### 2026-06-09 03:59:11  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-IRNA cites Iraqi media reporting multiple loud explosions in Erbil province; US military aircraft conducting large-scale patrols over Erbil.
-
----
-
-### 2026-06-09 03:58:41  #國際
-
-據伊朗伊斯蘭共和國通訊社：伊拉克媒體稱，伊拉克埃爾比勒省傳來多起劇烈爆炸聲，美軍戰鬥機正在該區域上空大規模巡邏。
-
----
-
-### 2026-06-09 03:56:19  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Honeywell International Stock Price Hits 4-week Low — Honeywell International shares decreased to 211.48 USD, the lowest since May 2026. Over the past 4 weeks, Honeywell International lost 3.44%, and in the last 12 months, it decreased 6.85%.
-
----
-
-### 2026-06-09 03:55:33  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran parliament speaker Ghalibaf said Iran need not choose between war and negotiations; it will fight or negotiate as timing warrants.
-
----
-
-### 2026-06-09 03:53:09  #MKT News
-
-ZELENSKIY said he spoke today with U.S. presidential envoy Witkoff and Kushner; the talks were very positive.
-
----
-
-### 2026-06-09 03:52:34  #國際
-
-伊朗議會議長卡利巴夫：伊朗無需在戰爭與談判之間二選一，時機成熟便會應戰，時機合適則展開談判。
-
----
-
-### 2026-06-09 03:51:54  #MKT News #RIO.N
-
-Rio Tinto (RIO.N) said its Canada fund will raise community investment to CAD13 mln to better meet Canadians' needs.
-
----
-
-### 2026-06-09 03:51:45  #公司 #國際
-
-烏克蘭總統澤連斯基： 感謝二人願意在未來數週積極行動，推動外交斡旋，以求結束俄烏衝突。我們清楚，當前全球目光大多聚焦伊朗局勢，但實現歐洲和平仍是我們共同的目標。雙方結合七國集團峰會及六月其他相關活動，探討了後續前景。
-
----
-
-### 2026-06-09 03:50:42  #國際
-
-烏克蘭總統澤連斯基：今日已與維特科夫、庫什納進行交談， 會談氛圍十分積極。
-
----
-
-### 2026-06-09 03:49:56  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple software chief Craig Federighi said Apple (AAPL.O) will not serve ads based on the new Siri AI system's screen-sensing capability.
-
----
-
-### 2026-06-09 03:49:36  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【IRGC Quds Force commander says "new security belt" forming from Strait of Hormuz to Bab al‑Mandeb】IRNA quoted IRGC Quds Force commander Esmail Qaani saying a "new security belt" is forming from the Strait of Hormuz to the Bab al‑Mandeb. Qaani warned the United States and Israel that any further aggression would trigger a coordinated regional response, and said coordination among allied groups has deepened, especially after Yemen's recent timely and forceful action. He added allied armed units have been deployed near key sea lanes linking the Persian Gulf and the Red Sea and accused US and Israeli moves of pushing the region toward broader confrontation.
-
----
-
-### 2026-06-09 03:49:25  #MKT News
-
-Refinitiv/Ipsos poll shows 22% approve of Trump's handling of cost-of-living issues; 70% disapprove.
-
----
-
-### 2026-06-09 03:49:24  #市場 #央行 #國際
-
-【城堡證券認為通脹壓力或迫使美聯儲很快加息】城堡證券認為，投資者面臨的下一個重大風險是金融環境的收緊，因為美聯儲可能“很快”需要加息，以遏制日益加劇的通脹壓力。該機構的歐洲、中東和非洲(EMEA)固定收益銷售主管Nohshad Shah在客戶報告中寫道，大規模人工智慧投資週期、能源市場趨緊以及勞動力市場走強共同推高了經濟增長和通脹的上行風險。“美聯儲的下一步行動很可能是加息……也許很快，”Shah表示。上週五，強於預期的美國就業報告引發全球股債市場大跌，投資者擔心美國經濟韌性過強，令決策者難以繼續維持利率不變。該資料推動市場押注美聯儲將在年底前加息25個基點，而最早9月加息的機率目前達到五成。
-
----
-
-### 2026-06-09 03:49:24  #MKT News
-
-Reuters/Ipsos survey shows Trump approval at 35%, unchanged from mid‑May and marginally above his 34% term low.
-
----
-
-### 2026-06-09 03:48:41  #其他
-
-蘋果軟體主管克雷格・費德里吉： 新版 Siri 人工智慧系統不會基於螢幕感知資訊投放廣告。
-
----
-
-### 2026-06-09 03:48:32  #MKT News #WTI #Impact bullish #Brent
-
-Refinitiv/Ipsos poll shows Trump’s approval remains near the lowest levels of his political career, and a majority of Americans expect gasoline prices to rise.
-
----
-
-### 2026-06-09 03:47:53  #國際
-
-路透社與益普索聯合民調顯示，特朗普支援率為 35%，與五月中旬持平，僅高於本屆任期 34% 的最低值。僅 22% 民眾認可特朗普應對生活成本問題的舉措，70% 表示不認可。
-
----
-
-### 2026-06-09 03:47:29  #市場 #國際
-
-路透社與益普索聯合民調顯示，特朗普支援率維持在其政治生涯低位附近，多數美國人預計油價將會上漲。
-
----
-
-### 2026-06-09 03:46:16  #國際
-
-【特朗普“勸和”幕後：內塔尼亞胡需要戰爭繼續 特朗普則相反】據Axios網站報道，特朗普在過去24小時裡一直努力避免戰爭全面重啟。他陷入兩難境地：一方面他明白內塔尼亞胡幾乎不可能對伊朗的導彈襲擊置之不理；另一方面他擔心這種報復迴圈會演變成全面戰爭。內塔尼亞胡的邏輯是，如果不對伊朗展開報復，就將向外界傳遞伊朗佔據上風、並能夠威懾美國和以色列採取軍事行動的訊號。特朗普勸阻內塔尼亞胡不要反擊的通話結束時，後者並未作出明確決定。一些參與通話的美方官員認為，特朗普成功爭取到了更多時間。但內塔尼亞胡認為，雖然特朗普反對報復性打擊，但“這並不是一個明確的‘不要這樣做’的表態”。美以訊息人士表示，過去24小時發生的事件進一步證明，美國與以色列的戰略利益，以及特朗普與內塔尼亞胡的政治利益，正日益出現分化。一名美國官員表示：“內塔尼亞胡需要戰爭持續下去，才能在以色列維持政治生命；而特朗普需要戰爭結束，才能在美國維持政治生命。”
-
----
-
-### 2026-06-09 03:46:02  #公司 #國際
-
-美國交通部長達菲：正與美國國家鐵路客運公司合作制定賓夕法尼亞車站安保方案。
-
----
-
-### 2026-06-09 03:45:12  #國際
-
-美國農業部（USDA）將在飼料中試驗使用伊維菌素，以控制野生動物中的螺旋蠅疫情。
-
----
-
-### 2026-06-09 03:45:07  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
-
-【Behind Trump's push for peace: Netanyahu needs war to continue, Trump needs it to end】Axios reports Trump spent the past 24 hours pressing Israel to avoid a full-scale restart of war after Iranian missile strikes. U.S. officials say Netanyahu is unlikely to ignore the strikes because failing to retaliate would signal Iranian ascendancy and deter U.S. and Israeli military action. The call ended without a clear decision; some U.S. participants said Trump bought time, while Netanyahu said he viewed Trump's opposition as not an explicit 'do-not-retaliate' instruction. U.S. and Israeli sources say strategic and political incentives are diverging: Netanyahu needs the conflict to continue to preserve his political position in Israel, while Trump needs it to end to preserve his political standing in the U.S.
-
----
-
-### 2026-06-09 03:44:48  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #GBPUSD
-
-【Dollar index edges down on 8th】The dollar index, which measures the US dollar against six major currencies, slipped 0.03% to 100.042 at the New York close on the 8th. EUR/USD rose to 1.1528 from 1.1523; GBP/USD to 1.3339 from 1.3337. USD/JPY was 160.26 versus 160.17 prior close; USD/CHF 0.7979 from 0.7962; USD/CAD 1.3956 from 1.3949. USD/SEK fell to 9.4401 from 9.4735.
-
----
-
-### 2026-06-09 03:43:13  #市場
-
-【美元指數8日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.03%，在匯市尾市收於100.042。截至紐約匯市尾市，1歐元兌換1.1528美元，高於前一交易日的1.1523美元；1英鎊兌換1.3339美元，高於前一交易日的1.3337美元。1美元兌換160.26日元，高於前一交易日的160.17日元；1美元兌換0.7979瑞士法郎，高於前一交易日的0.7962瑞士法郎；1美元兌換1.3956加元，高於前一交易日的1.3949加元；1美元兌換9.4401瑞典克朗，低於前一交易日的9.4735瑞典克朗。
-
----
-
-### 2026-06-09 03:39:56  #MKT News
-
-White House: US President Trump submitted Todd Blanche's nomination to the US Senate for attorney general.
-
----
-
-### 2026-06-09 03:39:47  #國際
-
-美國白宮：特朗普向美國參議院提名託德・布蘭奇出任司法部長。
-
----
-
-### 2026-06-09 03:38:09  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NBC reports NVIDIA (NVDA.O) CEO said he would welcome hosting Warren and speaking with her.
-
----
-
-### 2026-06-09 03:37:30  #MKT News #Commodities #Industrial Metals #X.O #Impact bullish #5401.T
-
-Nippon Steel will invest up to $2.5 bln in U.S. Steel's integrated facility in Pennsylvania, Nikkei reports.
-
----
-
-### 2026-06-09 03:36:36  #公司
-
-據NBC：英偉達CEO表示，樂意接待沃倫當面交談。
-
----
-
-### 2026-06-09 03:36:11  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NBC reports NVIDIA (NVDA.O) CEO declined Sen. Warren's invitation to testify at a hearing this week.
-
----
-
-### 2026-06-09 03:35:08  #公司
-
-據NBC： 英偉達CEO黃仁勳拒絕沃倫本週的出庭作證邀請。
-
----
-
-### 2026-06-09 03:30:56  #MKT News
-
-Southwest Airlines (LUV.N) and Singapore Airlines have launched an interline partnership for through-transport services.
-
----
-
-### 2026-06-09 03:30:29  #國際
-
-美國西南航空與新加坡航空啟動聯運合作。
-
----
-
-### 2026-06-09 03:30:23  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil edges higher on the 8th】At the close, NYMEX July light crude (WTI) futures rose $0.76 to $91.30 a barrel, up 0.84%. ICE Brent August futures rose $1.16 to $94.25 a barrel, up 1.25%.
-
----
-
-### 2026-06-09 03:30:09  #市場
-
-華納兄弟股價漲幅擴大至盤中高點2.1%。
-
----
-
-### 2026-06-09 03:29:55  #MKT News #PSKY.O #Impact bullish
-
-Paramount (PSKY.O) has made concessions to avoid state antitrust lawsuits.
-
----
-
-### 2026-06-09 03:29:11  #市場
-
-【國際油價8日微漲】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲76美分，收於每桶91.30美元，漲幅為0.84%；8月交貨的倫敦布倫特原油期貨價格上漲1.16美元，收於每桶94.25美元，漲幅為1.25%。
-
----
-
-### 2026-06-09 03:28:31  #國際
-
-市場訊息：派拉蒙作出讓步，以此規避美國各州提起的反壟斷訴訟。
-
----
-
-### 2026-06-09 03:24:58  #MKT News #AAPL.O
-
-Apple software chief Craig Federighi said that, aside from AFM Cloud Pro, Apple’s other four models will continue to run on Apple-designed chips.
-
----
-
-### 2026-06-09 03:22:51  #其他
-
-蘋果：除 AFM Cloud Pro 外，蘋果其餘四款模型仍將依託蘋果自研晶片執行。
-
----
-
-### 2026-06-09 03:22:42  #MKT News #Star Stocks #Apple #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish #AAPL.O
-
-Apple software chief Craig Federighi said Apple's largest model, "AFM Cloud Pro", will run on Google Cloud infrastructure.
-
----
-
-### 2026-06-09 03:22:05  #公司
-
-蘋果：蘋果旗下最大模型 AFM Cloud Pro 將執行於谷歌雲基礎設施之上。
-
----
-
-### 2026-06-09 03:21:48  #MKT News #Star Stocks #Apple #NVIDIA #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish #NVDA.O
-
-Apple software head Craig Federighi said Apple is working with Google and NVIDIA to integrate its private cloud computing solution into Google Cloud infrastructure.
-
----
-
-### 2026-06-09 03:21:41  #公司
-
-蘋果：蘋果聯合谷歌、英偉達，依託谷歌雲基礎設施落地自有私有云計算方案。
-
----
-
-### 2026-06-09 03:21:12  #MKT News
-
-【Vale CEO says global metals demand shows no war-related damage】Vale CEO Gustavo Pimenta said he sees no signs that the Iran conflict has damaged global metals demand and that the company’s margins have widened despite shipment disruptions. He said Vale is focused on unlocking asset value rather than pursuing acquisitions and described global demand for critical minerals as very constructive. Disruptions in the Strait of Hormuz raised fuel costs and freight rates, but higher prices and volumes have largely offset the impact on miners. Vale has raised full-year free cash flow guidance for its core iron-ore business by $1.5bn and now expects average iron-ore prices of $112/tonne for the year versus a $102/tonne pre-conflict scenario.
-
----
-
-### 2026-06-09 03:20:47  #國際
-
-烏克蘭總統辦公室顧問證實，澤連斯基與維特科夫、庫什納進行了通話。
-
----
-
-### 2026-06-09 03:19:48  #國際
-
-安全訊息人士：無人機襲擊了伊拉克埃爾比勒北部的伊朗庫爾德反對派營地。
-
----
-
-### 2026-06-09 03:19:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Security sources said a drone struck an Iranian-Kurdish opposition camp north of Erbil, Iraq.
-
----
-
-### 2026-06-09 03:19:04  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O #Impact bullish #Nasdaq100 #S&P500
-
-Apple software chief Craig Federighi said Apple has entered the third generation of its foundation models.
-
----
-
-### 2026-06-09 03:18:48  #其他
-
-蘋果：蘋果基礎大模型已迭代至第三代。
-
----
-
-### 2026-06-09 03:18:10  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Apple
-
-Apple software chief Craig Federighi said Apple’s private cloud will run three in-house AI models that Apple developed based on collaborative work with Google.
-
----
-
-### 2026-06-09 03:17:48  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
-
-Apple software chief Craig Federighi said Apple has built a "world knowledge service" that runs on its private cloud platform.
-
----
-
-### 2026-06-09 03:17:33  #MKT News
-
-Apple software chief Craig Federighi said many Apple Intelligence requests are processed on-device, while more complex requests are routed to Apple's proprietary private cloud for processing.
-
----
-
-### 2026-06-09 03:17:29  #公司
-
-蘋果軟體主管克雷格・費德里吉： 蘋果已搭建專屬知識服務體系，該服務執行於公司自有私有云計算平臺。
-
----
-
-### 2026-06-09 03:16:55  #公司
-
-蘋果軟體主管克雷格・費德里吉：蘋果專屬雲將採用三款自研 AI 模型，這些模型由蘋果與谷歌合作打造。
-
----
-
-### 2026-06-09 03:16:38  #其他
-
-蘋果軟體主管克雷格・費德里吉： 蘋果智慧的多項指令均在裝置端處理，更復雜的請求則交由蘋果自有專屬雲端計算平臺處理。
-
----
-
-### 2026-06-09 03:15:25  #國際
-
-市場訊息：受美國封鎖影響，托克暫停部分古巴鋅貨運業務。
-
----
-
-### 2026-06-09 03:15:13  #市場
-
-標普500指數漲幅收窄至0.3%，重新整理日低。
-
----
-
-### 2026-06-09 03:14:02  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish #GOOGL.O #Impact bearish
-
-Apple software chief Craig Federighi said Apple's new intelligence features do not rely on Google Search.
-
----
-
-### 2026-06-09 03:13:03  #公司
-
-蘋果軟體主管談及全新蘋果智慧功能時表示：我們的系統並未採用谷歌搜尋作為底層支撐。
-
----
-
-### 2026-06-09 03:05:38  #市場 #國際
-
-【韓元脫離2009年以來最低位】週一（6月8日），韓元兌美元最終漲2%，報1526.98韓元，全天持續上揚。上週五（非農日）曾跌至1562.29韓元，創2009年3月以來最低位。
 
 ---
