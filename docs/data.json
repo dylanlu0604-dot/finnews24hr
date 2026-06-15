@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-15 18:23:09",
-  "count": 18266,
+  "updated": "2026-06-15 18:26:59",
+  "count": 18252,
   "items": [
+    {
+      "id": "4936362",
+      "time": "2026-06-15 18:25:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST仕淨：釋出預重整債權申報通知 後續重整存不確定性】*ST仕淨公告稱，2026年6月5日蘇州中院決定對公司啟動預重整，指定清算組擔任臨時管理人。債權人需在30日內（截至7月9日）透過“破栗子”網路平臺申報債權，不接收紙質材料。若後續進入破產重整程式，預重整已申報債權無需另行申報。目前法院是否受理重整、公司能否進入重整程式均不確定，若受理重整，公司股票將被實施退市風險警示；若重整失敗，公司存在被宣告破產及股票終止上市風險。"
+    },
+    {
+      "id": "4936361",
+      "time": "2026-06-15 18:24:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國產超級單體感測器明年量產】天津市德安特感測技術有限公司董事長郭佔成表示，精度達千萬分之一克的國產超級單體感測器明年年底前可以完成量產。（科技日報）"
+    },
+    {
+      "id": "mkt:019ecacf-4cc8-7dd8-b008-e782562fd784",
+      "time": "2026-06-15 18:24:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Domestic high-precision single-element sensor to enter mass production by end of next year】Tianjin Deante Sensor Technology Chairman Guo Zhancheng said a domestically produced \"super\" single-element sensor with precision of one ten‑millionth of a gram (0.1 microgram/100 nanograms) is expected to enter mass production by end of next year."
+    },
+    {
+      "id": "4936360",
+      "time": "2026-06-15 18:23:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【從92%到99.99%國產高純矽量產 量子計算不再受制於人】中核集團核工業理化工程研究院15日介紹，我國科學家在穩定同位素富集與高純矽製備領域取得關鍵性突破，首次成功實現丰度超過99.99%的矽-28同位素自主量產，產品關鍵指標達到國際先進水平。科研團隊介紹，這項科研突破，將為我國矽基量子計算晶片的自主研製，以及先進製程半導體、精確導航、計量基準等前沿科技領域高質量發展提供堅實支撐。（央視新聞）"
+    },
     {
       "id": "4936359",
       "time": "2026-06-15 18:21:38",
@@ -395,6 +427,14 @@
         "MKT News"
       ],
       "text": "RIA quoted the Russian embassy as saying the tanker seized by the UK had no Russian crew aboard."
+    },
+    {
+      "id": "4936326",
+      "time": "2026-06-15 18:07:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【企業持續重組 新加坡裁員人數升至近三年高位】由於企業在更具不確定性的經濟環境下持續進行業務重組，新加坡第一季度裁員人數升至近三年來最高水平。 根據新加坡人力部週一釋出的報告，今年1月至3月期間，裁員人數從前一季度的3,690人增至3,830人。這是自2023年第三季度以來的最高水平，當時共有4,110名員工被裁撤。報告指出，企業重組和業務調整仍然是裁員的主要原因。與此同時，製造業、金融與保險服務業以及專業服務業等多個行業的裁員人數均有所增加。裁員人數上升之際，僱主對經濟前景正變得愈發謹慎。一家行業組織4月進行的調查顯示，超過一半的新加坡企業表示對勞動力成本感到擔憂。新加坡金融管理局此前也警告稱，由於不確定性增加，今年勞動力需求可能趨於疲軟。"
     },
     {
       "id": "4936325",
@@ -167724,180 +167764,6 @@
         "公司"
       ],
       "text": "【宏盛華源：子公司預中標國家電網專案，金額約21.35億元】宏盛華源公告稱，近日國家電網公示2026年特高壓專案第二次招標採購中標候選人，公司下屬子公司為18個標包的中標候選人，預中標金額約21.35億元，約佔公司2025年經審計營業收入的22.30%。目前專案處於評標結果公示階段，公司未收到中標通知書，最終能否形成實際訂單並完成交貨存在不確定性。"
-    },
-    {
-      "id": "mkt:019ea6c5-5543-777a-abbd-bfc462bf9b2b",
-      "time": "2026-06-08 18:26:49",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "The Kremlin said France, the UK and Germany talk about peace while supplying weapons to Kyiv to continue the war."
-    },
-    {
-      "id": "4923871",
-      "time": "2026-06-08 18:26:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：俄羅斯正在採取措施保障自身安全，以應對北約軍事基礎設施逼近其邊境。"
-    },
-    {
-      "id": "mkt:019ea6c5-3db8-777a-abbd-b3605005b5cb",
-      "time": "2026-06-08 18:26:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese Vice President Han Zheng meets Belarusian President Lukashenko】Chinese Vice President Han Zheng met Belarusian President Lukashenko in Minsk on June 8, 2026. Han said both sides will maintain leader-driven diplomacy and close high-level exchanges to keep China-Belarus relations on the correct course amid a complex international environment. China voiced support for Belarus pursuing a development path suited to its national conditions and said it is willing to jointly implement four global initiatives to protect developing countries' common interests. The two sides agreed to strengthen alignment of development strategies, deepen cooperation in traditional sectors, expand win-win development space and consolidate bilateral public support."
-    },
-    {
-      "id": "mkt:019ea6c5-3c23-777a-abbd-aa661940df35",
-      "time": "2026-06-08 18:26:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USGS reported a magnitude-5.6 earthquake 56 km south-southwest of Sarangani, Philippines."
-    },
-    {
-      "id": "mkt:019ea6c5-3b11-777a-abbd-a6bcb4ecd805",
-      "time": "2026-06-08 18:26:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says it has noted reports on Armenia's election and multiple violations."
-    },
-    {
-      "id": "4923870",
-      "time": "2026-06-08 18:26:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓正會見白俄羅斯總統盧卡申科】當地時間2026年6月8日，國家副主席韓正在明斯克會見白俄羅斯總統盧卡申科。韓正表示，雙方要堅持元首外交領航定向，密切高層交往，確保中白關係在複雜國際形勢下保持正確發展方向。要弘揚相互支援優良傳統，中方支援白俄羅斯走符合本國國情的發展道路，願同白方共同踐行四大全球倡議，維護廣大發展中國家共同利益。要加強發展戰略對接，深化傳統領域合作，開闢共贏發展新的空間，夯實兩國友好民意基礎。（新華社）"
-    },
-    {
-      "id": "mkt:019ea6c4-cd98-777a-abbd-9e24578ea4e6",
-      "time": "2026-06-08 18:26:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The Kremlin said President Putin has said it is difficult to reach an agreement with Kyiv, responding to European leaders' calls to end the war in Ukraine."
-    },
-    {
-      "id": "4923869",
-      "time": "2026-06-08 18:26:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宿遷聯盛：擬共同出資1000萬元設立合資公司】宿遷聯盛公告，公司擬與自然人股東朱蓉輝、匯智光芯人工智慧科技（蘇州）有限公司共同簽訂《合資意向協議》，擬共同出資1000萬元人民幣合資設立合資公司，主要從事磷化銦襯底的研發和生產銷售。"
-    },
-    {
-      "id": "4923868",
-      "time": "2026-06-08 18:25:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "克里姆林宮：此類行徑會給推進和平解決的努力製造障礙。"
-    },
-    {
-      "id": "4923867",
-      "time": "2026-06-08 18:25:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "克里姆林宮譴責針對從克里米亞出發的客運列車的襲擊事件。"
-    },
-    {
-      "id": "4923866",
-      "time": "2026-06-08 18:25:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：法國、英國和德國嘴上談和平，同時卻向基輔提供武器以延續戰事。"
-    },
-    {
-      "id": "4923865",
-      "time": "2026-06-08 18:25:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮就歐洲領導人呼籲結束烏克蘭戰爭發聲：普京已明確表示，很難與基輔方面達成協議。"
-    },
-    {
-      "id": "4923864",
-      "time": "2026-06-08 18:24:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "合肥晶合積體電路股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
-    },
-    {
-      "id": "te:economy:557256",
-      "time": "2026-06-08 18:24:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Credit Rating",
-        "Importance 0"
-      ],
-      "text": "Fitch Lifts South Africa Credit Rating to BB — Fitch Ratings raised on June 5, 2026, South Africa’s foreign currency long-term sovereign credit rating by one notch to ‘BB’ from ‘BB-’, while maintaining a stable outlook. The agency cited prudent fiscal management and progress on fiscal consolidation, despite weak economic growth and persistent domestic and external shocks. The move marked the country’s first credit rating upgrade since 2005, aligning with other rating agencies, although it remains two notches below investment grade. Fitch pointed to the country’s transition from primary fiscal deficits to consistent and widening primary surpluses, improved revenue collection, disciplined expenditure management and signs that government debt is stabilising. Ongoing reforms in the energy and logistics sectors were also mentioned as likely to support economic growth in the years ahead. S&P's credit rating for South Africa stands at BB with a positive outlook. Moody's credit rating was last set at Ba2 with a positive outlook."
-    },
-    {
-      "id": "4923863",
-      "time": "2026-06-08 18:24:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天邦食品：5月份銷售商品豬73.72萬頭，銷售收入5.78億元】天邦食品公告，公司2026年5月份銷售商品豬73.72萬頭（其中仔豬銷售28.40萬頭），銷售收入5.78億元，銷售均價10.18元/公斤（商品肥豬均價為9.42元/公斤），環比變動分別為10.30%、10.24%、5.57%。2026年1-5月銷售商品豬321.33萬頭（其中仔豬銷售121.44萬頭），銷售收入28.32億元，銷售均價11.22元/公斤（商品肥豬均價為10.41元/公斤），同比變動分別為31.06%、-18.36%、-31.00%。"
-    },
-    {
-      "id": "4923862",
-      "time": "2026-06-08 18:24:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【創力集團：與銓億科技簽署附條件生效股份認購補充協議三】創力集團公告稱，鑑於公司對向特定物件銓億科技發行A股股票方案進行調整，於2026年6月8日與其簽署《附生效條件的股份認購協議之補充協議三》。銓億科技由公司實控人石良希100%持股，本次交易構成關聯交易，但不構成重大資產重組。銓億科技擬以不超1.60億元認購本次發行股票，發行數量不超4081.63萬股，不超發行前總股本30%。公司稱，此次發行將增強資本實力，提升實控權，推動公司發展。"
-    },
-    {
-      "id": "4923861",
-      "time": "2026-06-08 18:24:12",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【滙豐：若美國通脹資料超預期，美元或進一步走高】滙豐的Paul Mackel在一份報告中表示，如果即將公佈的美國通脹資料高於預期，美元可能會擴大漲幅。他表示，如果分別於週三和週四公佈的消費者物價和批發物價資料超出預期，這可能會支撐有關美聯儲今年將加息的預期。他說，近期資料挑戰了新任美聯儲主席沃什是一個支援在6月17日會議上降息的“令人信服的鴿派“的觀點。繼週五強勁的美國非農就業人數報告以及以色列和伊朗再度發生衝突之後，DXY美元指數升至100.214的兩個月高點。"
-    },
-    {
-      "id": "mkt:019ea6c2-e617-777a-abbd-927721ee73dd",
-      "time": "2026-06-08 18:24:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran warns enemies will face harsher punishment if aggression continues】Hatam al-Anbiya Central Command of the Iranian Armed Forces said today Iran has fulfilled its commitments and that its forces, including the Islamic Revolutionary Guard Corps and the regular army, acted swiftly and precisely at peak readiness to make the US and Israel pay. The command warned regional resistance forces will stand firm against any threat and that continued enemy aggression would be met with harsher punishment."
-    },
-    {
-      "id": "4923860",
-      "time": "2026-06-08 18:24:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國創新藥進入領跑快車道 新版規範9月起實施】新修訂的《藥物臨床試驗質量管理規範》今天正式釋出，將於9月1日起正式實施。此次修訂對藥物臨床試驗提出了“質量源於設計”“符合目的”和“風險相稱”的理念，並對這些理念在臨床試驗的應用提出原則性要求。更重要的是，監管理念，從“發現問題後糾正”轉變為“在設計階段預防問題的發生”。相關資料顯示，去年我國新開展的創新藥臨床試驗數量，約佔全球總量的一半。我國臨床試驗數量全球第一、質量效率全球領先，可以說在全球創新藥版圖中保持強勁的增量產出動能。（央視新聞）"
     }
   ]
 }
