@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-16 04:07:06",
-  "count": 18209,
+  "updated": "2026-06-16 04:11:11",
+  "count": 18210,
   "items": [
+    {
+      "id": "mkt:019ecce8-42b6-7dd8-b016-692b70d978f1",
+      "time": "2026-06-16 04:10:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRIB: IRGC Quds Force commander said the Bab al-Mandeb Strait is one of the resistance front's trump cards and other options would be used if necessary."
+    },
+    {
+      "id": "4937094",
+      "time": "2026-06-16 04:07:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊聖城旅指揮官：曼德海峽是抵抗陣線的一張王牌，如果有必要，其他王牌也將被打出。"
+    },
+    {
+      "id": "4937093",
+      "time": "2026-06-16 04:07:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司KKR：即便美伊達成終止衝突的最終協議，當前市場仍低估了未來12至18個月的油價走勢，低估幅度最高可達每桶10美元。"
+    },
+    {
+      "id": "4937092",
+      "time": "2026-06-16 04:07:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司KKR：伊朗衝突將促使市場加大對替代性物資運輸通道的投資，以此保障在傳統運輸路線受戰事影響時，區域內貨物運輸能夠持續運轉。"
+    },
     {
       "id": "mkt:019ecce3-a09f-7dd8-b016-67addc68b70d",
       "time": "2026-06-16 04:05:30",
@@ -167357,37 +167395,6 @@
         "市場"
       ],
       "text": "Applied Digital在Delta Forge 2簽署新的資料中心租賃協議，該公司股價盤後漲9%。"
-    },
-    {
-      "id": "te:markets:557366",
-      "time": "2026-06-09 04:09:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P and Nasdaq Climb on Strength in Chip Stocks — The Nasdaq rose 0.9% and the S&P 500 gained 0.3% on Monday, supported by a rebound in chip stocks after sharp losses in previous session and renewed optimism surrounding AI. Investor sentiment was also boosted after reports indicated that Iran and Israel had halted their exchanges of strikes, while President Trump said negotiations were continuing despite the attacks. As a result, oil prices gave back most of their earlier gains. Among semiconductor stocks, Nvidia advanced 1.7%, Broadcom climbed 2.8%, AMD surged 5.1%, and Micron Technology jumped 9.9%. Tesla also posted a strong gain, rising 4.6%. In contrast, the Dow Jones fell by 81 points. Apple declined 1.9% after its next-generation AI platform failed to impress investors. Microsoft and Visa also underperformed, each losing 1.2%."
-    },
-    {
-      "id": "4924671",
-      "time": "2026-06-09 04:08:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "西捷航空：反對政府在燃油成本上漲之際向航空公司提供貸款的提案， 加拿大不應採取國內外及加美邊境相關舉措擾亂市場秩序。"
-    },
-    {
-      "id": "mkt:019ea8d8-c03c-733a-9235-a05af1740765",
-      "time": "2026-06-09 04:07:17",
-      "tags": [
-        "MKT News",
-        "APLD.O",
-        "Impact bullish"
-      ],
-      "text": "Applied Digital (APLD.O) signed a 210 MW lease for the Delta Forge2 project, extending its \"AI factory\" franchise model to a fifth campus."
     }
   ]
 }
