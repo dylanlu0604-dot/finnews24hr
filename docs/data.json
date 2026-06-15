@@ -1,7 +1,30 @@
 {
-  "updated": "2026-06-16 06:38:35",
+  "updated": "2026-06-16 06:42:34",
   "count": 18222,
   "items": [
+    {
+      "id": "te:markets:559125",
+      "time": "2026-06-16 06:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rises by 3.31% — Top commodity gainers are Cocoa (3.31%), Coffee (2.23%) and Barley (2.01%). Biggest losers are Oat (-2.94%) and Rice (-2.16%)."
+    },
+    {
+      "id": "mkt:019ecd70-14bb-7dd8-b017-6aac058d90ee",
+      "time": "2026-06-16 06:38:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CIA director tells Trump intelligence suggests Iran unlikely to accept US nuclear demands】Axios reports three sources say CIA Director John Ratcliffe told Trump and other senior officials that, based on collected intelligence, Iran is unlikely to make the nuclear concessions the US is seeking in any final deal. Ratcliffe was not the only skeptic: Secretary of State Rubio and Defense Secretary Hegseth privately raised concerns, while Vice President Pence and envoys Witkoff and Kushner supported the agreement. Ahead of a Sunday announcement, senior officials reviewed intelligence showing discrepancies between Iranian internal discussions and their statements to mediators and the US, leading Ratcliffe and Rubio to conclude Iran probably would not accept the US’s demanded nuclear measures."
+    },
     {
       "id": "4937205",
       "time": "2026-06-16 06:37:49",
@@ -167484,26 +167507,6 @@
         "國際"
       ],
       "text": "【以軍空襲黎巴嫩南部致至少17人死亡 】據黎巴嫩衛生部及國家通訊社8日訊息，以色列當天對黎巴嫩南部多地發動空襲，造成至少17人死亡、多人受傷。黎巴嫩衛生部表示，以色列軍隊當天凌晨對奈拜提耶地區濟夫塔鎮發動空襲，造成7人死亡、8人受傷。以軍還對提爾市紅十字會中心附近區域發動空襲，造成5人死亡、8人受傷，其中包括4名紅十字會急救人員。（新華社）"
-    },
-    {
-      "id": "te:markets:557375",
-      "time": "2026-06-09 06:40:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Butter Gains by 1.88% — Top commodity gainers are Butter (1.88%) and Cocoa (1.46%). Biggest loser is Soybeans (-0.50%)."
-    },
-    {
-      "id": "4924737",
-      "time": "2026-06-09 06:38:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【週二重要財經資訊提醒（以下均為北京時間）】\n① 可能釋出 中國5月M2等貨幣供應；\n② 時間待定 中國5月進出口與貿易帳；\n③ 19:00 法國央行行長Emmanuel Moulin講話；\n④ 20:30 美國4月貿易帳，加拿大4月貿易帳；\n⑤ 22:00 美國5月成屋銷售總數年化；\n⑥ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）。"
     }
   ]
 }
