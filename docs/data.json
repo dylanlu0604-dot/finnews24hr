@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-15 10:22:33",
+  "updated": "2026-06-15 10:26:45",
   "count": 18307,
   "items": [
+    {
+      "id": "4935316",
+      "time": "2026-06-15 10:25:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報70.69美元/盎司。"
+    },
+    {
+      "id": "mkt:019ec918-fbdd-7dd8-affc-97bdfac7dd16",
+      "time": "2026-06-15 10:25:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share-listed MLS Co. jumped sharply, up over 8.5% with turnover above CNY 600 mln, after the company announced a 20% price increase across its entire PCB product line."
+    },
+    {
+      "id": "4935315",
+      "time": "2026-06-15 10:25:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股木林森直線拉昇，現漲超8.5%，成交額超6億元；訊息面上，公司宣佈對全線PCB產品價格進行上調20%。"
+    },
+    {
+      "id": "te:markets:558866",
+      "time": "2026-06-15 10:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Pressured at 4-Month Lows — Soybean futures traded below $11.2 per bushel, hovering near four-month lows as a tentative US-Iran peace agreement sent oil prices sharply lower. Oil prices dropped after US President Donald Trump and Iran’s deputy foreign minister said they had reached a tentative deal to halt hostilities and resume traffic through the Strait of Hormuz. Agricultural goods often track crude oil prices due to their link to biofuel demand from grains and oilseeds. Favourable US crop weather and higher South American production forecasts added pressure on prices, with the USDA last week raising its soybean production forecasts for Argentina to 50 million metric tons. Weak Chinese demand for US agricultural exports has further weighed on sentiment despite earlier expectations of large-scale purchases. Meanwhile, US soybean crush pace likely slowed for a third straight month in May as some processing plants were idled for seasonal maintenance and repairs despite historically large crush margins."
+    },
+    {
+      "id": "4935314",
+      "time": "2026-06-15 10:24:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4330美元/盎司，日內漲2.69%。"
+    },
+    {
+      "id": "mkt:019ec917-6cef-7dd8-affc-8e7393482bc6",
+      "time": "2026-06-15 10:23:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share copper-cable and high-speed connector sector edged higher amid choppy trading; Xinya Electronics touched the daily limit-up, Yihua Co. earlier hit limit-up, Taichen Guang neared limit-up, while Changxin Bochuang, Ruikeda, Kabeiyi and Zhongfu Circuit also rallied."
+    },
+    {
+      "id": "mkt:019ec916-91fc-7dd8-affc-81c9c57893cc",
+      "time": "2026-06-15 10:22:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite",
+        "CSI300"
+      ],
+      "text": "China A-share ChiNext Index rose over 3% intraday, Shenzhen Composite Index +2.3%, Shanghai Composite Index +1.2%; Sci-Tech Innovation Board 50 Index (STAR 50) up over 3.7%. Gains were led by PET copper foil, PCB-related stocks and advanced packaging."
+    },
+    {
+      "id": "4935313",
+      "time": "2026-06-15 10:22:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大國工程再添新進展！拉哇水電站大壩二期面板澆築完成】今天，位於四川省巴塘縣金沙江上游的華電金上拉哇水電站大壩二期面板澆築任務順利完成。該專案是金沙江上游清潔能源基地重點工程之一，也是國家“十五五”規劃重大工程，總裝機容量200萬千瓦，最大壩高242.5米。此次施工節點的完成，標誌著該水電站主體工程進入收尾衝刺階段。（央視新聞）"
+    },
+    {
+      "id": "4935312",
+      "time": "2026-06-15 10:22:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銅纜高速連線板塊走高，新亞電子觸及漲停】銅纜高速連線板塊走高，新亞電子觸及漲停，意華股份此前漲停，太辰光逼近漲停，長芯博創、瑞可達、卡倍乙、中富電路跟漲。"
+    },
     {
       "id": "4935311",
       "time": "2026-06-15 10:21:40",
@@ -168291,83 +168381,6 @@
         "市場"
       ],
       "text": "中天科技觸達漲停，市值突破1700億元創歷史新高。"
-    },
-    {
-      "id": "4922771",
-      "time": "2026-06-08 10:26:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東啟動防汛Ⅳ級應急響應】據氣象部門監測預報，6月8至9日，廣東省有大雨到暴雨，其中粵東、珠江三角洲南部、粵西的部分市縣有暴雨區域性大暴雨或特大暴雨，雷雨時伴有短時強降水和局地8-10級短時大風等強對流天氣，發生中小河流洪水、山洪和地質災害、城鄉內澇等災害風險較大。根據有關規定，廣東省防汛防旱防風總指揮部已於6月8日10時啟動防汛Ⅳ級應急響應。各地各部門要加強會商研判，及時啟動應急響應，落實各項防禦措施，全力保障人民群眾生命財產安全，最大程度降低災害損失。當前正值高考期間，各地及教育、交通、電力、公安、消防等部門要做好洪澇災害應急處突準備，在高考考點、城市易澇點、重要電力設施等重點部位提前預置消防救援、應急排澇、電力搶修、交通保暢等專業應急隊伍，第一時間處置突發險情災情，全力保障高考順利進行。"
-    },
-    {
-      "id": "4922770",
-      "time": "2026-06-08 10:25:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓強震致多地基礎設施嚴重受損】菲律賓國家減災委今天（6月8日）釋出訊息，當天發生的強烈地震已造成多地基礎設施嚴重受損，電力和通訊服務受到影響，受災沿海地區正在開展大規模疏散行動。該機構表示，有關人員傷亡情況的報告正在持續收集和核實中，截至目前尚未釋出正式傷亡資料。機構呼籲民眾暫時不要返回住宅或其他建築物，特別是已出現受損跡象的建築和高層建築，以防餘震引發進一步危險。此外，該機構還表示，各地方減災部門已被要求統籌轄區內應急響應工作，救援人員也已進入高度戒備狀態，隨時準備投入救援行動。 與此同時，菲律賓多個相關機構均已進入最高階別“紅色警戒”狀態，並與各地方災害管理機構保持密切協調。（CCTV國際時訊）"
-    },
-    {
-      "id": "4922769",
-      "time": "2026-06-08 10:24:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鄭濬將出任大華銀行中國行長兼執行長】6月8日，大華銀行宣佈，現任大華銀行香港分行行政總裁鄭濬女士將出任大華銀行中國行長兼執行長，接替在大華銀行任職15年、今年榮休的符懋贊先生。"
-    },
-    {
-      "id": "4922768",
-      "time": "2026-06-08 10:24:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "Moonshot AI 擬融資至多 20 億美元，投後估值達 300 億美元。"
-    },
-    {
-      "id": "mkt:019ea50b-d937-7ee0-94c8-8743655034d5",
-      "time": "2026-06-08 10:24:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "CSI300"
-      ],
-      "text": "【Ministry of Housing and Urban‑Rural Development says to build/upgrade about 770,000 km of urban underground pipelines during 15th Five‑Year Plan】MOHURD told a State Council briefing on June 8 that China’s urban underground pipeline network totals about 3.9 mln km, with roughly 7,700 km of underground utility corridors completed. During the 15th Five‑Year Plan period the ministry said it will build or renovate about 770,000 km of urban underground pipelines – including ~200,000 km of gas, ~175,000 km of drainage, ~175,000 km of water supply, ~100,000 km of sewage and ~120,000 km of heating pipelines – a programme the ministry said will strengthen urban resilience and support investment demand."
-    },
-    {
-      "id": "4922767",
-      "time": "2026-06-08 10:24:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列回擊伊朗的導彈襲擊 停火協議岌岌可危】以色列表示對伊朗多個軍事目標實施了打擊，以報復德黑蘭的導彈襲擊。美國總統唐納德·特朗普此前呼籲以色列總理本傑明·內塔尼亞胡不要將局勢升級。以色列國防軍表示襲擊了伊朗中西部目標。伊朗官方媒體報道稱，德黑蘭傳出多起爆炸聲。以色列國防軍此前表示，已識別並攔截了從伊朗發射的導彈，並稱緊急救援部門報告稱沒有人員傷亡。伊朗最高領袖的軍事顧問Mohsen Rezaee向半官方的伊朗學生通訊社表示，向以色列發射導彈是“警告以色列停止在黎巴嫩的敵對行動”。"
-    },
-    {
-      "id": "4922764",
-      "time": "2026-06-08 10:23:48",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【住建部：“十五五”時期將繼續建設改造城市地下管網約77萬公里】6月8日，住房城鄉建設部建築節能與科技司司長陳少鵬在國務院政策例行吹風會上表示，目前我國城市地下管網總長度約390萬公里，累計建成地下綜合管廊約7700公里。“十五五”時期將繼續建設改造城市地下管網約77萬公里，其中燃氣管網約20萬公里、排水管網約17.5萬公里、供水管網約17.5萬公里、汙水管網約10萬公里、供熱管網約12萬公里。在增強城市安全韌性的同時，也將帶動有效的投資。"
-    },
-    {
-      "id": "4922763",
-      "time": "2026-06-08 10:23:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，黎巴嫩首都貝魯特傳出爆炸聲。目前暫無爆炸原因及具體地點的相關詳情。"
-    },
-    {
-      "id": "4922762",
-      "time": "2026-06-08 10:23:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黃仁勳警告儲存供應短缺將持續數年，英偉達與SK海力士達成合作】北京時間6月8日，英偉達宣佈與SK海力士（000660.KS）達成多年期的技術合作協議，將合作推動全球AI資料中心下一代記憶體發展。英偉達在一篇部落格中表示，該協議將保障先進記憶體供應，並應對較長開發週期以及先進製造、資本投資方面的挑戰，以推動全球人工智慧工廠建設。SK海力士將與英偉達共同開發Vera Rubin AI超級計算機、Vera CPU、RTX Spark驅動的個人電腦、Jetson Thor機器人計算平臺所用的記憶體。黃仁勳表示，儲存的供應短缺沒有結束。整個行業供應鏈從晶圓到封裝到矽光等環節，都陷入供應短缺，因為需求太多了，這種狀況還將持續數年。SK海力士董事長崔泰源（Chey Tae-won）上週也談到儲存供應短缺，稱供應瓶頸可能持續到2030年。他表示，預計SK海力士未來五年內整體產能將翻倍。（第一財經）"
     }
   ]
 }
