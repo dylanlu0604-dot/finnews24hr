@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-15 09:50:03",
-  "count": 18322,
+  "updated": "2026-06-15 09:54:00",
+  "count": 18325,
   "items": [
+    {
+      "id": "4935258",
+      "time": "2026-06-15 09:53:30",
+      "tags": [
+        "A股"
+      ],
+      "text": "【A股多個指數樣本今天調整生效】今天（15日），A股多個指數樣本調整生效。包括深證成指、創業板指、上證50、上證180、滬深300、中證500、科創50、科創100等指數樣本股都進行了調整。指數樣本股調整簡單來說就是指數編制機構根據一定的標準和規則，對組成指數的股票進行更換和更新。總的來看，調整後，硬科技相關標的密集入選成為重要特徵。（央視新聞）"
+    },
+    {
+      "id": "4935257",
+      "time": "2026-06-15 09:52:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其外長：向伊朗、美國、巴基斯坦、卡達表示祝賀】土耳其外長：伊朗與美國之間的協議是地區和平程序中的一個轉折點。土耳其希望後續補充談判也能以建設性方式繼續推進。向伊朗、美國，以及擔任調解角色的巴基斯坦，還有參與此程序的其他國家尤其是卡達，表示祝賀。"
+    },
+    {
+      "id": "4935256",
+      "time": "2026-06-15 09:52:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖昊光電：將聚焦光晶片產業釋出國產化自研高階光譜儀 打破海外長期壟斷】6月16日，國產高階光譜儀暨光芯後道數智產線交流會將舉辦。據悉，算力需求持續攀升，推動光晶片產業高速發展，國際供應鏈短板凸顯，測試儀器儀表國產化已然迫在眉睫。會上，聖昊光電將推出全鏈路國產化自研高階光譜儀。具體而言，聖昊光電聯合中電科思儀在裸片測試領域重點突破了窄脈衝同步與瞬態光譜捕捉技術，有效規避測試積熱，精準還原晶片本徵特性。該定製裝備已在真實量產線上透過硬核驗證並開啟批次匯入，打破海外長期壟斷。另外，基於聖昊光電在光晶片後道產線的整體解決方案交付能力，公司將展示如何以自動化裝置和數字中樞為基礎，將後道核心工藝裝備與MES/EAP等業務系統進行深度融合。"
+    },
+    {
+      "id": "4935255",
+      "time": "2026-06-15 09:52:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華寶股份：2026年公司奈米乳化技術等陸續成果轉化 有望形成行業新的爆品】華寶股份近日在接受機構調研及現場參觀時表示，2026年公司將加速相關技術研究及成果轉化，脂質體技術、奈米晶技術、微囊包埋技術、奈米乳化技術等陸續成果轉化，有望形成行業新的爆品；同時，持續深化“大客戶、大單品”策略，同步構建功能配料B2B與功能食品ODM的核心能力。"
+    },
+    {
+      "id": "4935254",
+      "time": "2026-06-15 09:51:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會：伊朗感謝巴基斯坦和卡達政府所做出的努力。"
+    },
+    {
+      "id": "mkt:019ec8fa-2894-7dd8-affb-c8e60e3c2d51",
+      "time": "2026-06-15 09:51:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council said Tehran thanked the governments of Pakistan and Qatar for their efforts."
+    },
+    {
+      "id": "4935253",
+      "time": "2026-06-15 09:50:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊部分衝高，中央商場觸及漲停】零售板塊部分衝高，中央商場觸及漲停，茂業商業此前漲停，合百集團、步步高、百大集團跟漲。"
+    },
+    {
+      "id": "mkt:019ec8f9-185d-7dd8-affb-c72bff3d47bc",
+      "time": "2026-06-15 09:50:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Ningde nuclear Unit 5 dome lifted】At 08:02 on June 15, China General Nuclear (CGN) completed the dome lift for Ningde Nuclear Power Unit 5, marking the Hualong One unit's transition from civil construction to equipment installation and paving the way for subsequent installation, commissioning and grid connection."
+    },
+    {
+      "id": "4935252",
+      "time": "2026-06-15 09:50:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲2%，現報4765.80點。"
+    },
+    {
+      "id": "4935251",
+      "time": "2026-06-15 09:50:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲3%，現報8197.80點。"
+    },
+    {
+      "id": "4935250",
+      "time": "2026-06-15 09:49:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數期貨上漲2.0%至4,762.60點。"
+    },
+    {
+      "id": "4935249",
+      "time": "2026-06-15 09:49:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【又一臺“華龍一號”有新進展 福建寧德核電5號機組穹頂完成吊裝】6月15日8時2分，中廣核寧德核電5號機組穹頂高質量完成吊裝，標誌著該臺“華龍一號”核電機組從土建施工階段全面轉入裝置安裝階段，為後續安裝除錯及併網發電奠定堅實基礎。（央視新聞）"
+    },
+    {
+      "id": "4935248",
+      "time": "2026-06-15 09:49:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.00%，現報15262.814點；上證指數漲1.29%，現報4083.456點；創業板指漲2.22%，現報3915.454點。"
+    },
+    {
+      "id": "mkt:019ec8f8-5181-7dd8-affb-b9737e7751de",
+      "time": "2026-06-15 09:49:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Where to park spare cash? Short-term fund yield snapshot】Tencent Licaitong (current + 7-day annualized yield) ranged 0.6980%–1.6020%. WeChat Lingqian Tong 7-day annualized yield ranged 1.0000%–1.0090%. Alipay Yu'e Bao 7-day annualized yield ranged 1.0010%–1.0280%."
+    },
     {
       "id": "mkt:019ec8f6-f640-7dd8-affb-b3a945f29162",
       "time": "2026-06-15 09:48:08",
@@ -85,6 +205,16 @@
       "text": "【港股黃金板塊走強 紫金黃金國際漲11%】截至發稿，紫金黃金國際(02259.HK)漲11%，紫金礦業(02899.HK)漲8%，靈寶黃金(03330.HK)漲7%。相關市場上，現貨黃金漲幅擴大至3%。"
     },
     {
+      "id": "4935240",
+      "time": "2026-06-15 09:46:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【油市太“折騰”投資者受夠，資金撤離速度創下紀錄】全球油價今年以來劇烈波動，導致市場流動性以有記錄以來最快的速度枯竭，投資者越來越不願將資金投入到這一被美國總統特朗普圍繞伊朗戰爭的頻繁社交媒體表態所左右的資產中。流動性即買方與賣方的數量匹配程度，是由多個因素決定的，包括交易量和未平倉合約。根據倫敦證券交易所集團LCOTOT的資料，未平倉合約（即投資者持有的布蘭特原油期貨合約數量）今年以來已下降近17%，為至少2009年以來的最快降幅。交易員稱，特朗普不斷對德黑蘭升級威脅、但數小時後又宣稱和平協議即將達成，加上當前難以追蹤現實世界中的石油供需基本面，已使投資者產生一定程度的疲憊感。"
+    },
+    {
       "id": "4935239",
       "time": "2026-06-15 09:46:08",
       "tags": [
@@ -128,6 +258,15 @@
         "公司"
       ],
       "text": "【晶合整合新設科技公司 含積體電路晶片業務】企查查APP顯示，近日，合肥晶為科技有限公司成立，註冊資本約9.18億元，經營範圍包含：積體電路晶片及產品製造；積體電路晶片及產品銷售；積體電路晶片設計及服務；電子專用材料研發。企查查股權穿透顯示，該公司由晶合整合全資持股。"
+    },
+    {
+      "id": "4935234",
+      "time": "2026-06-15 09:45:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行勢將加息至1995年來的最高水平 行長植田和男將缺席】市場普遍預計日本央行將在首次行長缺席的例行政策會議上，將基準利率上調至1995年以來的最高水平。調查顯示，幾乎所有日本央行觀察人士都預計，在週二結束的會議上，決策者將把基準利率上調0.25個百分點至1%。日本央行表示，行長植田和男因治療肝囊腫感染近日住院，他將以書面形式向政策委員會提交意見，但不會參與投票。"
     },
     {
       "id": "4935233",
@@ -387,6 +526,15 @@
         "市場"
       ],
       "text": "【算力租賃概念快速拉昇 宏景科技漲超10%】算力租賃概念快速拉昇，宏景科技漲超10%，利通電子、潤建股份、二六三、優刻得、城地香江跟漲。訊息面上，高質量Token服務研討會將於6月16日在北京召開，論壇將成立“高質量Token服務特別研究組”。"
+    },
+    {
+      "id": "4935220",
+      "time": "2026-06-15 09:38:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【策略師：若美伊協議簽署，澳元應能守住0.6979美元的臨時底部】西太平洋銀行策略部門的Richard Franulovich在評論中表示，如果美伊和平協議正式簽署，澳元應能守住0.6979美元的重要臨時底部。這位外匯策略主管表示，此外，如果正式協議為布倫特原油“結算價比如說接近每桶80美元鋪平道路，澳元可能會有更多上漲空間，邁向0.7100美元“。Franulovich表示，未來1-3周澳元的預期區間為0.6980-0.7150美元。倫敦證券交易所集團資料顯示，澳元上漲0.4%，報0.7171美元。"
     },
     {
       "id": "4935219",
@@ -168356,135 +168504,6 @@
         "MKT News"
       ],
       "text": "South Korea's Lee said the stock market is moving toward reasonable valuation levels."
-    },
-    {
-      "id": "4922693",
-      "time": "2026-06-08 09:53:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "聯發科股價下跌7.3%。"
-    },
-    {
-      "id": "4922692",
-      "time": "2026-06-08 09:52:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統：股市正逐步邁向合理估值水平。"
-    },
-    {
-      "id": "4922691",
-      "time": "2026-06-08 09:52:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺積電下跌3.4%；鴻海科技下跌7.2%。"
-    },
-    {
-      "id": "4922690",
-      "time": "2026-06-08 09:52:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【iPhone 18 Pro Max電池或突破5000mAh】2026年秋季的首發陣容是三款重磅旗艦，分別是iPhone 18 Pro、iPhone 18 Pro Max以及果粉盼了多年的摺疊屏機型iPhone Ultra；而定位更親民的基礎款iPhone 18和iPhone 18e則會延後到2027年春季才正式上市。 據產業鏈最新爆料，iPhone 18 Pro Max的全版本電池容量都突破了5000mAh大關，其中國行版的電池容量落在5000到5100mAh區間，美版的規格更高，達到5100到5200mAh的水平。"
-    },
-    {
-      "id": "mkt:019ea4ed-fffb-7ee0-94c7-ca02f8c68b18",
-      "time": "2026-06-08 09:51:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "600522.SS",
-        "Impact bullish"
-      ],
-      "text": "Zhongtian Technology shares rose more than 7% intraday after the company won an approximately 1.518 bln yuan contract to supply MPO fiber jumpers and accessories for data centers."
-    },
-    {
-      "id": "te:markets:557076",
-      "time": "2026-06-08 09:51:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Pressured at 2-Month Low — The Australian dollar held below $0.71 after dropping nearly 2% in the previous week to hit a two-month low, pressured by a stronger US dollar. A robust US labor market report reinforced expectations that the Federal Reserve will raise interest rates this year, boosting the greenback more than 1% last week. Rising tensions in the Middle East and a fragile peace deal between the US and Iran also supported the safe-have currency, which also weighed on the risk-sensitive Aussie. Meanwhile, a slightly hawkish tone from the Reserve Bank of Australia could help cushion further losses in the AUD. RBA Governor Michele Bullock reiterated last week that the central bank remains firmly focused on bringing inflation down, following three rate hikes earlier this year that lifted the cash rate to 4.35%. She also noted that inflation remains too elevated, stressing that the board will take whatever measures it deems necessary to fulfill its mandate of achieving price stability and full employment."
-    },
-    {
-      "id": "mkt:019ea4ed-e43d-7ee0-94c7-c07457ac2ccb",
-      "time": "2026-06-08 09:51:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China Trade Remedy Information Net reported on June 5 that the U.S. International Trade Commission voted to initiate a Section 337 investigation into certain smart devices."
-    },
-    {
-      "id": "mkt:019ea4ed-d3b1-7ee0-94c7-bb335219532f",
-      "time": "2026-06-08 09:51:49",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "AP reported Iran closed airspace around Tehran's Imam Khomeini International Airport after an Israeli strike; the airport is the country's main aviation hub."
-    },
-    {
-      "id": "4922689",
-      "time": "2026-06-08 09:51:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國ITC正式對智慧裝置啟動337調查】6月5日，美國國際貿易委員會（ITC）投票決定對特定智慧裝置啟動337調查。"
-    },
-    {
-      "id": "4922688",
-      "time": "2026-06-08 09:51:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士日內跌幅收窄至4.1%。"
-    },
-    {
-      "id": "mkt:019ea4ec-ea3f-7ee0-94c7-b77601dc8f55",
-      "time": "2026-06-08 09:50:47",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "SK Hynix shares pared losses to 4.1% after earlier sliding more than 10%."
-    },
-    {
-      "id": "4922687",
-      "time": "2026-06-08 09:50:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "智譜漲超10%。"
-    },
-    {
-      "id": "mkt:019ea4ec-40ba-7ee0-94c7-abad8325641a",
-      "time": "2026-06-08 09:50:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02513.HK"
-      ],
-      "text": "Zhipu (02513.HK) shares rose over 10% intraday on the Hong Kong market."
-    },
-    {
-      "id": "4922686",
-      "time": "2026-06-08 09:50:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達2.03%，成分股中，民士達漲14.85%，華密新材漲9.29%，天力複合漲7.28%，戈碧迦漲7.14%。"
     }
   ]
 }
