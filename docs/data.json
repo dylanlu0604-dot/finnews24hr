@@ -1,7 +1,125 @@
 {
-  "updated": "2026-06-15 16:48:39",
-  "count": 18271,
+  "updated": "2026-06-15 16:52:35",
+  "count": 18276,
   "items": [
+    {
+      "id": "mkt:019eca7a-b866-7dd8-b006-6d8a5713e9c3",
+      "time": "2026-06-15 16:51:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media Fars News, citing an informed source, reports that in the final stage of talks the memorandum of understanding was amended to explicitly and unequivocally affirm Iran's and Oman's sovereignty claims over the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019eca7a-b1ff-7dd8-b006-6126b5f10a95",
+      "time": "2026-06-15 16:51:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Euro CDS costs fall after reported US-Iran peace accord】After reports that the US and Iran reached an agreement to end the war, the cost of insuring euro-denominated credit fell to near four-month lows. S&P GLOBAL MARKET INTELLIGENCE showed the iTraxx Europe Crossover index slid 5bps to 248bps, its lowest since Feb 20; ActivTrades' Frank Sohlleder said investors were upbeat because the accord is expected to immediately normalize traffic through the Strait of Hormuz and sharply reduce prices in an already competitive energy market."
+    },
+    {
+      "id": "4936093",
+      "time": "2026-06-15 16:51:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度 4-5 月商品出口同比增長 16.09%。"
+    },
+    {
+      "id": "mkt:019eca7a-637e-7dd8-b006-5963bede7d2d",
+      "time": "2026-06-15 16:51:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An LDP official said the party is discussing cutting the food tax rate to 0% rather than 1%."
+    },
+    {
+      "id": "4936091",
+      "time": "2026-06-15 16:51:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度 4 至 5 月出口額同比增長 16.09%。"
+    },
+    {
+      "id": "4936090",
+      "time": "2026-06-15 16:50:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "凱投宏觀經濟學家Neil Shearing：即使船隻現在可以安全通行，油輪的位置也不對，石油生產/煉油設施需要達到滿負荷運轉，而且關於穿越該海峽的船隻的保險成本和可用性的問題依然存在。"
+    },
+    {
+      "id": "4936089",
+      "time": "2026-06-15 16:50:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "凱投宏觀的Neil Shearing表示，預計到第三季度末，能源供應將恢復到中斷前水平的80%左右。"
+    },
+    {
+      "id": "4936088",
+      "time": "2026-06-15 16:50:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中南傳媒在長沙成立新文化傳媒公司 註冊資本3500萬】天眼查App顯示，近日，湖南中南百景文化傳媒有限公司成立，法定代表人為謝清風，註冊資本3500萬人民幣，經營範圍包括廣播電視節目製作經營、出版物零售、出版物批發、出版物網際網路銷售、第二類增值電信業務等。股東資訊顯示，該公司由中南傳媒（601098）全資持股。"
+    },
+    {
+      "id": "4936087",
+      "time": "2026-06-15 16:50:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本自民黨官員：正商討將食品相關稅費降至零稅率，並非下調至1%。"
+    },
+    {
+      "id": "mkt:019eca79-4888-7dd8-b006-5266c470661b",
+      "time": "2026-06-15 16:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Euro area April seasonally adjusted trade balance and industrial production (MoM) due in 10 minutes."
+    },
+    {
+      "id": "mkt:019eca79-3e50-7dd8-b006-4bee475e31c5",
+      "time": "2026-06-15 16:50:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Capital Economics: Oil flows via Strait of Hormuz will lag even if safe passage resumes】Capital Economics chief economist Neil Shearing said he expects energy supply to recover to roughly 80% of pre-disruption levels by end‑Q3. He warned oil flows through the Strait of Hormuz may take longer to return to pre‑conflict levels because tankers are out of position, production and refining need time to ramp to full output, and insurance costs and availability for transits remain a constraint. Gas supply could take longer to normalize after Iranian attacks on Qatari facilities knocked about 17% of capacity offline."
+    },
+    {
+      "id": "4936086",
+      "time": "2026-06-15 16:49:36",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "中國央行：5月末境外機構持有銀行間市場債券3.21萬億元。"
+    },
     {
       "id": "4936085",
       "time": "2026-06-15 16:47:06",
@@ -167820,65 +167938,6 @@
         "DXY"
       ],
       "text": "Israeli Channel 12 reports attacks at multiple locations across Iran, including Hamadan province, targeting security posts. Iranian opposition sources say some Basij members have withdrawn from certain positions citing fear of being targeted."
-    },
-    {
-      "id": "4923576",
-      "time": "2026-06-08 16:51:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡5月底外匯儲備為4301.4億美元。"
-    },
-    {
-      "id": "4923575",
-      "time": "2026-06-08 16:51:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度石油部長：預計油價不會長時間維持在當前高位。"
-    },
-    {
-      "id": "4923574",
-      "time": "2026-06-08 16:50:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康恩貝：擬不低於4978.27萬元掛牌轉讓東陽康恩貝100%股權】康恩貝公告稱，為盤活存量資產、聚焦核心業務，公司擬透過浙江產權交易所以不低於4978.27萬元的掛牌價轉讓東陽康恩貝100%股權。截至2025年12月31日，東陽康恩貝股東全部權益評估價值為5278.27萬元，2026年5月已實施2025年度現金分紅300萬元。若順利徵集到受讓方並完成轉讓，預計實現轉讓收益800餘萬元。若掛牌期滿未徵集到合格受讓方，存在轉讓無法完成的風險。"
-    },
-    {
-      "id": "4923573",
-      "time": "2026-06-08 16:50:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【家聯科技：持股5%以上股東張三雲減持股份至10.07%】家聯科技公告稱，因可轉換公司債券“家聯轉債”持有人轉股，公司總股本由223,103,418股增加至240,881,531股。持股5%以上股東張三雲於2026年6月5日透過大宗交易減持248萬股，佔總股本1.0296%。本次權益變動後，其持股比例由11.9810%降至10.0672%，觸及1%整數倍，減持在計劃範圍內且未實施完畢。"
-    },
-    {
-      "id": "4923572",
-      "time": "2026-06-08 16:50:29",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【荷蘭國際：若英國央行遲遲不加息，英鎊或將下跌】荷蘭國際集團的Chris Turner在一份報告中表示，由於英國央行今年可能避免加息，英鎊面臨下跌風險。Turner表示，英國央行在收緊政策上可能拖延，正值歐洲央行預計將於週四加息，且目前預計美聯儲將在年底前加息之際。他說，在避險時期，英鎊往往表現不佳，並指出伊朗和以色列之間重新發生衝突。倫敦證券交易所集團的資料顯示，英鎊在隔夜觸及1.3308美元的三週低點後下跌0.1%，至1.3333美元，荷蘭國際集團預計英鎊將跌破1.3300美元。歐元兌英鎊持平於0.8638英鎊，荷蘭國際集團預計其將升至0.8680英鎊。"
-    },
-    {
-      "id": "4923571",
-      "time": "2026-06-08 16:48:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【G217莎塔公路全線最長隧道順利掘進】記者從中鐵十一局集團瞭解到，在G217線莎車至塔什庫爾幹縣公路建設現場，全線最長隧道宗塔什隧道順利掘進，將穿越崑崙山脈無人區。 G217莎塔公路是新疆南疆路網建設重點工程，線路全長約223.9公里，貫穿喀什地區莎車縣、塔什庫爾干塔吉克自治縣和克州阿克陶縣。專案沿葉爾羌河、塔什庫爾幹河兩岸佈設，途經阿爾塔什水利樞紐、下坂地水利樞紐、阿拉爾國家溼地公園等重要區域。（新華社）"
-    },
-    {
-      "id": "4923570",
-      "time": "2026-06-08 16:48:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【好上好：回覆向特定物件發行股票稽核問詢函並更新申請檔案】好上好公告稱，公司於2026年5月20日收到深交所關於向特定物件發行股票的稽核問詢函。公司會同相關中介機構對問詢函進行回覆說明，並對募集說明書等申請檔案進行補充更新，內容已在巨潮資訊網披露。本次發行尚需透過深交所稽核，並獲中國證監會同意註冊，能否透過及時間存在不確定性，公司將及時披露進展。"
     }
   ]
 }
