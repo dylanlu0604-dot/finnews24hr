@@ -1,7 +1,94 @@
 {
-  "updated": "2026-06-15 23:03:26",
-  "count": 18317,
+  "updated": "2026-06-15 23:07:41",
+  "count": 18323,
   "items": [
+    {
+      "id": "mkt:019ecbd2-381f-7dd8-b011-7eed084b7a48",
+      "time": "2026-06-15 23:06:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vance: Iran could receive $300 billion Gulf-funded reconstruction fund if conditions met】U.S. Vice President Vance said Iran could receive a $300 billion reconstruction fund financed by Gulf states, but only if Iran fulfils specified obligations. He said the U.S. is willing to discuss multiple proposals but denied that releasing $24 billion in frozen Iranian assets is part of any agreement. The agreement text has not been published; Vance said further technical details would be negotiated after any signature. He reiterated funds would be permitted only after Iran commits not to develop or acquire nuclear weapons."
+    },
+    {
+      "id": "mkt:019ecbd2-32cd-7dd8-b011-7127e1c55747",
+      "time": "2026-06-15 23:06:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says parts of Iran-US MoU to take effect on 15th】Iranian Foreign Minister Araghchi said \"we have completed the memorandum of understanding\"; some provisions will take effect on the 15th, with the remainder to be implemented after the MoU is signed on the 19th."
+    },
+    {
+      "id": "4936882",
+      "time": "2026-06-15 23:06:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗：伊美諒解備忘錄部分條款15日就開始執行 】伊朗外交部長阿拉格齊說，“我們已經完成了諒解備忘錄”，其中部分條款15日就會執行，其餘部分將在19日諒解備忘錄簽署後執行。（新華社）"
+    },
+    {
+      "id": "4936881",
+      "time": "2026-06-15 23:05:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨官員： 反對將以色列撤出黎巴嫩一事與黎巴嫩國內事務掛鉤，尤其是真主黨武裝裝備問題。"
+    },
+    {
+      "id": "4936880",
+      "time": "2026-06-15 23:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩真主黨官員：只要佔領與侵略行為持續存在，該組織自衛權就始終有效。"
+    },
+    {
+      "id": "mkt:019ecbd0-71dd-7dd8-b011-6caf59fa2536",
+      "time": "2026-06-15 23:04:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Hezbollah official Mahmoud Kammati said the right to self‑defense remains in force so long as occupation and aggression continue."
+    },
+    {
+      "id": "4936879",
+      "time": "2026-06-15 23:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合海上資訊中心證實美軍仍在封鎖伊朗港口】英國海上貿易行動辦公室15日轉發聯合海上資訊中心的一份通報，提醒船隻注意美軍仍在實施針對伊朗港口的封鎖。通報說，美國和伊朗的停戰諒解備忘錄正式執行之前，對伊朗港口的封鎖持續有效。未接到明確指令前，嚴禁擅自通行。受封鎖影響，霍爾木茲海峽海上安全威脅等級維持嚴重級別。通報說，所有船隻進出伊朗港口的航行均受到限制。與違反封鎖的船隻進行船對船貨物轉運，同樣視作違反禁令。對於拒不立即服從指令的船隻，美軍將開火打擊。（新華社）"
+    },
+    {
+      "id": "4936878",
+      "time": "2026-06-15 23:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI承諾在2026年對與AI相關的非營利問題投資5000萬美元。"
+    },
+    {
+      "id": "mkt:019ecbcf-3390-7dd8-b011-64a379380795",
+      "time": "2026-06-15 23:03:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Google said it will pay for all the electricity it consumes and cover infrastructure costs directly arising from its operations."
+    },
+    {
+      "id": "4936877",
+      "time": "2026-06-15 23:03:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：宣佈將投資15億美元，用於在2026年和2027年擴建位於阿拉巴馬州傑克遜縣的資料中心園區。公司將全額承擔自身用電費用，並直接支付由其運營產生的配套基礎設施成本。"
+    },
     {
       "id": "mkt:019ecbce-61ac-7dd8-b011-5bcd72d01f65",
       "time": "2026-06-15 23:02:40",
@@ -168419,59 +168506,6 @@
         "SNDK.O"
       ],
       "text": "Nasdaq 100's intraday gain widened to 2.5%. Marvell (MRVL.O) rose 13.56%, Intel (INTC.O) rose 12.6% and SanDisk (SNDK.O) rose 7.25%."
-    },
-    {
-      "id": "mkt:019ea7c5-000f-7226-8cb7-8d4bdae9e3f6",
-      "time": "2026-06-08 23:05:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "New York Fed said U.S. household concern about personal finances intensified in May; the share saying their finances are much worse than a year ago rose to the highest level in nearly four years."
-    },
-    {
-      "id": "mkt:019ea7c3-b093-7226-8cb7-844c54f5c229",
-      "time": "2026-06-08 23:04:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "New York Fed: May survey respondents' year‑ahead U.S. house‑price expectation rose to 3.5%, the highest since July 2022."
-    },
-    {
-      "id": "mkt:019ea7c3-05e3-7226-8cb7-7a06e3f50661",
-      "time": "2026-06-08 23:03:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "New York Fed: In May, the ratio of optimistic to pessimistic financial outlooks fell to its lowest level since October 2022."
-    },
-    {
-      "id": "4924408",
-      "time": "2026-06-08 23:03:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國海上貿易行動辦公室：阿曼附近一艘油輪起火 船員撤離】英國海上貿易行動辦公室(UKMTO)表示，一艘油輪起火，導致船員撤離。事件發生在阿曼馬西拉島東北15海里處，阿曼和印度當局正在協調處置，目前尚未收到任何環境影響報告。"
     }
   ]
 }
