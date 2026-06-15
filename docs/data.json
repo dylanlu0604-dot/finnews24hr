@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-15 12:17:05",
-  "count": 18250,
+  "updated": "2026-06-15 12:21:10",
+  "count": 18253,
   "items": [
+    {
+      "id": "mkt:019ec982-9b7f-7dd8-affe-5af0f3e83a4e",
+      "time": "2026-06-15 12:20:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 30-year government bond yield fell 3.5bps to 3.760%."
+    },
+    {
+      "id": "mkt:019ec982-50f8-7dd8-affe-520cb693efa8",
+      "time": "2026-06-15 12:20:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jingtai Technology launches AI autonomous experiment workstation at Sinopec】Jingtai Technology said its jointly developed intelligent physical/chemical adsorption analysis autonomous experimental workstation, built with Sinopec (Shanghai) Research Institute of Petrochemical Technology and Beijing Jingwei Gaobo Instruments, has entered operation. The system represents the first industry‑scale integration of high‑throughput materials‑characterization data collection with autonomous experimental decision‑making into an AI+robot+multi‑agent architecture, which the company called a key step toward physical AI."
+    },
+    {
+      "id": "4935493",
+      "time": "2026-06-15 12:20:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱遭俄大規模襲擊 基輔4人死亡】烏克蘭空軍15日凌晨稱，烏克蘭多地有俄羅斯導彈和無人機來襲風險。烏克蘭首都基輔市軍事管理局稱，基輔拉響警報，當地防空系統啟動應對威脅。基輔市軍事管理局局長特卡琴科稱，截至當地時間15日清晨5時40分，襲擊導致基輔市4人死亡、23人受傷。基輔市長克利奇科稱，基輔遭遇大規模襲擊，供電受到襲擊影響，基輔北部有約14萬使用者斷電。對於以上訊息，俄羅斯方面目前暫無回應。"
+    },
+    {
+      "id": "4935492",
+      "time": "2026-06-15 12:19:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦外長：我們期待6月19日在日內瓦舉行的正式簽署儀式】巴基斯坦外長：巴基斯坦熱烈歡迎美國與伊朗伊斯蘭共和國之間達成的諒解。這一重大突破體現了持續外交接觸的力量，以及友好國家集體決心選擇對話而非對抗。它也向國際社會傳遞了令人安心的資訊，併為全球市場和世界經濟提供了急需的信心與穩定，特別是對最容易受到地區不穩定影響的發展中國家而言。在此期間，巴基斯坦始終與所有相關方保持積極接觸，並一貫倡導剋制與建設性參與，堅持認為對話與外交仍是解決所有問題的唯一可行途徑。我們感謝美國和伊朗兩國領導人對巴基斯坦的信任，並讚揚他們致力於持續參與，以追求和平與談判解決的成果。隨著談判在未決事項上繼續進行，巴基斯坦隨時準備支援旨在鞏固這一進展的每一項努力。我們期待6月19日在日內瓦舉行的正式簽署儀式，並堅信這一積極發展將為該地區及更廣泛範圍鋪平通往持久和平、穩定與共同繁榮的道路。"
+    },
+    {
+      "id": "mkt:019ec97f-f007-7dd8-affe-4c85495e6314",
+      "time": "2026-06-15 12:17:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign minister said Pakistan looks forward to a formal signing ceremony in Geneva on June 19 and believes the step would help pave the way for lasting peace, stability and shared prosperity in the region and beyond."
+    },
+    {
+      "id": "mkt:019ec97f-aa61-7dd8-affe-4774409a4b67",
+      "time": "2026-06-15 12:17:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign minister said Pakistan stands ready to support every effort to consolidate the progress as negotiations on remaining matters continue."
+    },
+    {
+      "id": "mkt:019ec97f-7ba7-7dd8-affe-3f3eba79bf50",
+      "time": "2026-06-15 12:17:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Pakistan's foreign minister said Islamabad appreciates the trust shown by US and Iranian leaders and welcomes their commitment to remain engaged to seek peace and a negotiated outcome."
+    },
     {
       "id": "4935491",
       "time": "2026-06-15 12:16:25",
@@ -167835,44 +167896,6 @@
         "國際"
       ],
       "text": "印度市場監管機構主席：正稽核針對券商的可變淨資產要求框架。"
-    },
-    {
-      "id": "4922989",
-      "time": "2026-06-08 12:20:47",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【住建部：各地要系統推進“好房子”等“四好”建設】在今天上午舉行的國務院政策例行吹風會上，住房城鄉建設部有關負責人表示，《城市更新“十五五”規劃》從建設好房子、好小區、好社群、好城區四個方面，對提高居民居住和生活品質作出部署。下一步，各地要系統推進“四好”建設，解決好群眾身邊的一樁樁關鍵小事。住房城鄉建設部表示，聚焦好房子，各地將提高新建房屋品質，全鏈條提升住房標準、設計、材料、建造、運維水平，落實《住宅專案規範》，最佳化住房設計，完善戶型功能，提高隔聲效能等。同時，抓好老舊房屋更新改造，鼓勵居民對住房進行裝修和改造，推廣裝配式裝修和適老化、無障礙改造，支援老舊住房自主更新、原拆原建。"
-    },
-    {
-      "id": "mkt:019ea575-76c9-7ee0-94ca-9ce47ec1d765",
-      "time": "2026-06-08 12:19:59",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【OCBC: Tech pullback signals volatility after frothy rally】Vasu Menon, OCBC investment strategy MD, said the long-term outlook for AI-driven gains remains constructive, but the sharp US and Asian tech sell-off shows volatility is inevitable after an extraordinary rally. May’s outsized tech gains make the current healthy correction reasonable; near-term caution is warranted given the inflation trajectory, rising US Treasury yields and uncertainty over Fed policy under the new chair. Planned high-valuation IPOs from SpaceX and ANTHROPIC add short-term concern as markets question AI/tech premia and whether mega-IPOs will siphon liquidity from other tech sectors. Over the longer term, these listings would reinforce AI as a core investment theme."
-    },
-    {
-      "id": "mkt:019ea573-9ba4-7ee0-94ca-9329a369210b",
-      "time": "2026-06-08 12:17:57",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Societe Generale: Market extremely sensitive to tech earnings】Frank Benzimra, head of Asia equity strategy at Societe Generale, says markets are currently extremely sensitive to tech-company earnings. The recent rally was driven by repeated upward revisions to profit expectations; if investors question the persistence of those revisions, sentiment can turn quickly. Prior purchases of leveraged ETFs by some investors will amplify losses in a downturn and increase market volatility."
-    },
-    {
-      "id": "4922988",
-      "time": "2026-06-08 12:17:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓美半導體株式會社：獲得規模440億韓元訂單。"
     }
   ]
 }
