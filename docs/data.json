@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-15 23:15:48",
-  "count": 18316,
+  "updated": "2026-06-15 23:19:45",
+  "count": 18308,
   "items": [
+    {
+      "id": "4936889",
+      "time": "2026-06-15 23:18:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "出口商預估資料顯示：截至 6 月 14 日，象牙海岸 2025/26 年度可可到貨量達 185.4 萬噸，去年同期為 165.9 萬噸。"
+    },
+    {
+      "id": "4936888",
+      "time": "2026-06-15 23:15:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "加密貨幣交易所 Kraken ：Kraken 已上架 Anthropic與 OpenAI的 IPO 前永續權證產品。"
+    },
+    {
+      "id": "4936887",
+      "time": "2026-06-15 23:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷藍航空：中大西洋及東北部地區預計出現惡劣天氣。"
+    },
     {
       "id": "mkt:019ecbd9-de9c-7dd8-b011-892e6365de9e",
       "time": "2026-06-15 23:15:13",
@@ -168325,111 +168349,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：我和美國總統進行了很好的會談。"
-    },
-    {
-      "id": "4924424",
-      "time": "2026-06-08 23:19:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：以色列目前暫不對伊朗採取軍事行動。"
-    },
-    {
-      "id": "4924423",
-      "time": "2026-06-08 23:19:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：伊朗絕不會擁有核武器。"
-    },
-    {
-      "id": "4924422",
-      "time": "2026-06-08 23:19:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我方針對真主黨的軍事行動仍在繼續。"
-    },
-    {
-      "id": "mkt:019ea7d0-eb3e-788c-8151-686b2c4ab871",
-      "time": "2026-06-08 23:19:06",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel is currently exercising restraint toward Iran."
-    },
-    {
-      "id": "mkt:019ea7d0-c7fb-788c-8151-60c845cc2603",
-      "time": "2026-06-08 23:18:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said military operations against Hezbollah in Lebanon are not over and warned that if Iran makes another mistake Israel will respond with overwhelming force."
-    },
-    {
-      "id": "mkt:019ea7d0-678a-788c-8151-5a617ecfd3fb",
-      "time": "2026-06-08 23:18:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel is stronger than ever."
-    },
-    {
-      "id": "4924421",
-      "time": "2026-06-08 23:18:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：過去24小時內，伊朗與真主黨試圖強行定下一套新規則，在我看來這套規則既無法接受也絕不能容忍。他們從黎巴嫩境內向以色列發動襲擊，卻指望我們不予反擊。我絕不會任由這種情況發生。"
-    },
-    {
-      "id": "mkt:019ea7cf-e11b-788c-8151-53fe8ba1bcb5",
-      "time": "2026-06-08 23:17:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Iran and Hezbollah are weaker than ever, but the war with them is not over."
-    },
-    {
-      "id": "4924420",
-      "time": "2026-06-08 23:17:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡稱，伊朗與真主黨實力已跌至最低點，但以色列與二者的“戰爭尚未結束”。"
-    },
-    {
-      "id": "4924419",
-      "time": "2026-06-08 23:17:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗稱，在停火以來首次交火後，已停止對以色列的襲擊。"
-    },
-    {
-      "id": "4924418",
-      "time": "2026-06-08 23:17:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：伊朗企圖用導彈襲擊我們。如果我們沒有及時採取行動，後果很嚴重。"
     }
   ]
 }
