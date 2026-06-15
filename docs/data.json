@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-15 20:03:53",
+  "updated": "2026-06-15 20:08:05",
   "count": 18230,
   "items": [
+    {
+      "id": "4936562",
+      "time": "2026-06-15 20:06:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "福克斯執行長表示，與Roku的交易將擴大本集團在媒體增長最快板塊、聯網電視廣告以及訂閱聚合領域的佈局。"
+    },
+    {
+      "id": "4936561",
+      "time": "2026-06-15 20:06:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特銳德：控股股東部分股份質押及解除質押】特銳德公告稱，近日控股股東德銳投資將其持有的公司部分股份辦理了質押及解除質押業務。本次質押2900萬股，佔其所持股份比例8.70%，佔公司總股本比例2.75%，用於置換前期融資；解除質押4000萬股，佔其所持股份比例12.00%，佔公司總股本比例3.79%。截至公告日，德銳投資累計質押1.20億股，佔其所持公司股份總數的36.04%，佔公司總股本的11.38%。目前控股股東總體質押風險可控。"
+    },
+    {
+      "id": "4936560",
+      "time": "2026-06-15 20:06:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英聯股份：財務總監黃詠松減持28,800股股份計劃實施完成】英聯股份公告稱，公司財務總監黃詠松曾持有公司股份115,200股，佔剔除回購專用賬戶股份後總股本的0.03%，計劃在2026年4月28日至7月27日期間，透過集中競價方式減持不超28,800股，佔比不超0.01%。截至6月12日，減持計劃已實施完成，減持均價12.98元/股，減持價格區間為11.36 - 15.56元/股。減持後，黃詠松持股86,400股，佔比0.02%。此次減持未違反相關規定，不會對公司治理和經營產生重大影響。"
+    },
+    {
+      "id": "mkt:019ecb2b-db6d-7dd8-b00b-a96e16e09623",
+      "time": "2026-06-15 20:05:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SAMR director Luo Wen meets Mongolian deputy prime minister Nomtoibayar】On June 12, SAMR director Luo Wen met visiting Mongolian Deputy Prime Minister Nomtoibayar to discuss cooperation on metrology, standardization and conformity assessment. Both sides agreed to advance legal metrology cooperation, coordinate standards for key traded goods, phase in mutual recognition of conformity assessment, and run proficiency testing and personnel training to facilitate bilateral trade. They signed a metrology cooperation action plan; relevant SAMR department officials attended."
+    },
+    {
+      "id": "4936559",
+      "time": "2026-06-15 20:05:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【儒意電影：擬以8000萬元-1.5億元回購公司股份】儒意電影公告，擬以8000萬元-1.5億元回購公司股份，回購價格不超過13.8元/股。"
+    },
+    {
+      "id": "4936558",
+      "time": "2026-06-15 20:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【羅文會見蒙古國副總理諾木泰巴亞爾】6月12日，國家市場監督管理總局局長羅文會見來訪的蒙古國副總理諾木泰巴亞爾。雙方就計量、標準化和合格評定領域合作進行交流，一致同意推進法制計量合作，加強重點貿易商品標準協調，分階段建立健全合格評定互認機制，組織檢驗檢測能力驗證計劃及人員培訓等，以促進雙邊貿易便利化，為兩國經貿關係發展作出更多貢獻。會後，雙方簽署計量合作行動計劃。總局相關司局負責同志參加會見。（國家市場監督管理局）"
+    },
+    {
+      "id": "4936557",
+      "time": "2026-06-15 20:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列航空（EL AL）宣佈已與星鏈（Starlink）簽署協議。"
+    },
+    {
+      "id": "4936556",
+      "time": "2026-06-15 20:03:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度阿達尼企業（Adani Enterprises）與捷普（Jabil）合作，將建設人工智慧資料中心。"
+    },
+    {
+      "id": "4936555",
+      "time": "2026-06-15 20:03:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國經濟部長計劃於 6 月下旬前往哈薩克進行訪問。"
+    },
     {
       "id": "mkt:019ecb2a-15fa-7dd8-b00b-a76119c55bab",
       "time": "2026-06-15 20:03:13",
@@ -17,6 +89,14 @@
         "MKT News"
       ],
       "text": "Russian Foreign Intelligence Service director Naryshkin said Russian and US intelligence services are maintaining contact on Ukraine."
+    },
+    {
+      "id": "4936554",
+      "time": "2026-06-15 20:03:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨指數下跌0.33%，至2720點。"
     },
     {
       "id": "4936552",
@@ -167574,96 +167654,6 @@
         "Impact bearish"
       ],
       "text": "【Japan SESC recommends penalties for Futu unit moomoo】Japan's Securities and Exchange Surveillance Commission on June 5 published inspection findings recommending the Financial Services Agency and other regulators impose administrative penalties on moomoo Securities Co., a unit of Futu Holdings. The SESC identified shortcomings in NISA sales practices, customer asset transfers, anti‑money‑laundering checks and systems risk management."
-    },
-    {
-      "id": "4924117",
-      "time": "2026-06-08 20:07:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：無人機襲擊襲擊了伊拉克埃爾比勒以東的伊朗庫爾德反對派營地。"
-    },
-    {
-      "id": "4924116",
-      "time": "2026-06-08 20:07:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "交易商稱，韓國麵粉廠上週晚些時候從美國購入約19,500噸制粉小麥，自加拿大購入10,500噸小麥。"
-    },
-    {
-      "id": "4924115",
-      "time": "2026-06-08 20:07:42",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "義大利財政部：原定於6月11日進行的7年期及10年期以上BTP國債拍賣將取消。"
-    },
-    {
-      "id": "mkt:019ea720-8e83-799c-b570-d9920b74058f",
-      "time": "2026-06-08 20:06:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Reportedly, the Israeli Defense Forces launched strikes in southern Lebanon."
-    },
-    {
-      "id": "4924114",
-      "time": "2026-06-08 20:05:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西2025/26年度第二季玉米產量預估為1.082億噸，低於此前預估的1.091億噸。"
-    },
-    {
-      "id": "4924113",
-      "time": "2026-06-08 20:05:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報68.55美元/盎司。"
-    },
-    {
-      "id": "mkt:019ea71f-3ffc-799c-b570-d0a4075b3e6d",
-      "time": "2026-06-08 20:05:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Baltic Dry Index fell 2.18% to 2,916."
-    },
-    {
-      "id": "4924112",
-      "time": "2026-06-08 20:04:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "拜耳任命特雷弗・特倫為美國消費品健康業務總裁。"
-    },
-    {
-      "id": "mkt:019ea71e-8ab4-799c-b570-cacce29ec1d4",
-      "time": "2026-06-08 20:04:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli i24 News reported Netanyahu spoke with Trump today; Trump later posted on social media saying both want a ceasefire."
-    },
-    {
-      "id": "mkt:019ea71e-4c8d-799c-b570-c1c815948b1b",
-      "time": "2026-06-08 20:04:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D slipped 0.12% to 946.0 yuan/gram in early Monday evening trade on June 8; Silver T+D rose 0.72% to 16,453.0 yuan/kg in the same session."
     }
   ]
 }
