@@ -1,7 +1,126 @@
 {
-  "updated": "2026-06-16 21:02:49",
-  "count": 18321,
+  "updated": "2026-06-16 21:06:56",
+  "count": 18318,
   "items": [
+    {
+      "id": "4938879",
+      "time": "2026-06-16 21:05:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報4001.00元。"
+    },
+    {
+      "id": "4938878",
+      "time": "2026-06-16 21:05:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港科技園與商湯科技聯手打造大規模智算中心】香港科技園公司16日與商湯科技在港簽訂合作備忘錄，啟動在人工智慧算力基建及AI產業生態方面的策略合作。雙方將攜手在香港打造大規模智算中心，目標於2030年前建設具備4萬P+（P為算力單位，即PetaFLOPs，1P為每秒千萬億次浮點運算）的算力規模。 據介紹，該專案將作為支撐大模型時代的核心AI基礎設施，為各行各業提供高效能算力支援，加快推動香港AI產業落地，進一步提升香港在全球創科及AI發展中的競爭力。 簽署儀式上，特區政府創新科技及工業局副局長張曼莉致辭表示，香港科技園公司與商湯的合作，不僅推動香港智算叢集建設，更體現香港“產、研”的結合，進一步支援香港建設國際創科中心。相信沙嶺資料園區與科學園及商湯國產智慧算力叢集的落成，將進一步提升香港在全球AI領域的競爭力，共同支援香港成為AI創新高地。 香港科技園公司行政總裁黃秉修表示，商湯科技由科學園起步，發展成在國際具領導地位的人工智慧企業，更在科技園公司培育下成為獨角獸企業，足證香港創科生態圈的活力與實力。本次合作不但加速技術創新及本地應用落地，更推動香港“AI+”創科生態圈的蓬勃發展。 商湯科技董事長兼執行長徐立表示，商湯將以“算力+模型+應用”三位一體能力為支撐，助力建設全港最大國產智算中心，讓算力切實轉化為“數字水電”，進一步推動香港建設國際創科中心。 (新華社)"
+    },
+    {
+      "id": "4938877",
+      "time": "2026-06-16 21:04:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "ATOM COMPUTING融資逾3億美元，加速部署容錯中性原子量子計算機。"
+    },
+    {
+      "id": "4938876",
+      "time": "2026-06-16 21:04:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京津冀首個萬臺級具身智慧機器人超級工廠在北京亦莊規模投用】6月16日，領益智造北京具身智慧超級工廠，具身智慧機器人整機總裝自動流水線持續生產中。近日，京津冀首個萬臺級具身智慧機器人超級工廠在北京亦莊規模投用。根據規劃，工廠年產能將逐步爬坡，2026年實現1萬臺套，2027年達2萬臺套，2030年達到50萬臺套。（新京報）"
+    },
+    {
+      "id": "mkt:019ed088-782f-7dd8-b032-4394befccc26",
+      "time": "2026-06-16 21:04:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【First 10,000-unit-scale embodied-intelligent robot super factory in Beijing–Tianjin–Hebei begins large-scale operation in Beijing Yizhuang】June 16 — Lingyi Zhizao’s Beijing embodied-intelligence super factory in Yizhuang has started continuous production on its automated final-assembly line for embodied intelligent robots. The facility, described as the first 10,000-unit-scale super factory in the Beijing–Tianjin–Hebei region, is planned to ramp annual capacity to 10,000 units by 2026, 20,000 units by 2027 and 500,000 units by 2030."
+    },
+    {
+      "id": "4938875",
+      "time": "2026-06-16 21:03:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬克龍澤連斯基被曝商討應對特朗普】七國集團峰會當地時間6月16日在法國埃維昂萊班進入第二天。據美國“政治新聞網”爆料，烏克蘭總統澤連斯基當天抵達埃維昂萊班參會時，被麥克風捕捉到他與法國總統馬克龍商討如何應對美國總統特朗普。 (環球網)"
+    },
+    {
+      "id": "4938874",
+      "time": "2026-06-16 21:03:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，莫斯科煉油廠在6月16日遭烏克蘭無人機襲擊後停產。"
+    },
+    {
+      "id": "mkt:019ed087-6c88-7dd8-b032-3da9f789d8bd",
+      "time": "2026-06-16 21:03:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A Moscow refinery suspended operations after a Ukrainian drone strike on June 16, sources said."
+    },
+    {
+      "id": "4938873",
+      "time": "2026-06-16 21:02:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：英國衛生安全域性正從英國公共衛生快速支援小組部署7名公共衛生專家，前往剛果民主共和國及周邊地區應對埃博拉疫情。"
+    },
+    {
+      "id": "4938872",
+      "time": "2026-06-16 21:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST惠程：全資子公司7144萬元訴訟案被裁定移送審理】ST惠程公告稱，2025年4月，其全資子公司重慶惠程未來智慧電氣有限公司就與高斯新能源汽車科技(江蘇)有限公司等的買賣合同糾紛，向重慶市璧山區人民法院提起訴訟，涉案金額7144萬元。2025年12月，該案被裁定移送重慶市第一中級人民法院審理。近日，重慶市第一中級人民法院裁定將本案移送重慶自由貿易試驗區人民法院處理。截至公告披露日，受移送法院尚未開庭審理，對公司利潤的影響存在不確定性。"
+    },
+    {
+      "id": "4938871",
+      "time": "2026-06-16 21:02:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍芯中科：兩股東詢價轉讓425.74萬股 中科百孚持股降至5%以下】龍芯中科公告稱，2026年6月15日，中科百孚、利禾博投資透過詢價轉讓分別減持341.68萬股、84.06萬股，佔總股本比例分別為0.85%、0.21%。本次轉讓後，中科百孚持股比例由5.73%降至4.88%，利禾博投資持股比例由3.69%降至3.48%。轉讓價格為120元/股，受讓方為28家機構投資者，限售期6個月。"
+    },
+    {
+      "id": "4938870",
+      "time": "2026-06-16 21:01:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美股AMKOR盤前拉昇，漲超6%。臺積電與AMKOR宣佈建立長期合作伙伴關係，以加速美國先進封裝發展。"
+    },
+    {
+      "id": "mkt:019ed085-f331-7dd8-b032-320c352a65bc",
+      "time": "2026-06-16 21:01:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMKR.O",
+        "Impact bullish",
+        "TSM.N"
+      ],
+      "text": "AMKOR shares jumped over 6% in U.S. premarket trading after TSMC (TSM.N) and AMKOR announced a long-term partnership to accelerate advanced packaging development in the United States."
+    },
     {
       "id": "4938869",
       "time": "2026-06-16 21:01:26",
@@ -168637,146 +168756,6 @@
         "其他"
       ],
       "text": "ZipRecruiter整合claude AI，拓展人工智慧求職搜尋服務。"
-    },
-    {
-      "id": "mkt:019eac7e-26a8-7ddc-a5f4-8a7a90a3aed0",
-      "time": "2026-06-09 21:06:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Strategist: US May CPI seen at 4.2% YoY, highest since March 2023; housing and services pose sticky risk】Jay Woods, chief global strategist at Free Capital Markets, expects US May headline CPI to rise to 4.2% YoY from 3.8%, a level not seen since March 2023. He warned that sticky components — housing, insurance and services — could keep inflation above the Fed’s comfort zone for longer, while gasoline-driven inflation is less concerning."
-    },
-    {
-      "id": "mkt:019eac7d-f5c8-7ddc-a5f4-800ddc5fe93c",
-      "time": "2026-06-09 21:06:35",
-      "tags": [
-        "MKT News",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) has introduced AI-powered experiences across multiple services."
-    },
-    {
-      "id": "mkt:019eac7d-706d-7ddc-a5f4-7cf1b0382bc0",
-      "time": "2026-06-09 21:06:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "APO.N",
-        "Impact bullish"
-      ],
-      "text": "Apollo Global said its strategic platform aims to provide more than 20 GW of computing capacity to leading frontier AI labs by 2028."
-    },
-    {
-      "id": "4926311",
-      "time": "2026-06-09 21:05:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：蘋果地圖新增功能包括改進後的俯視檢視與本地地點列表，“查詢”APP新增靈活共享選項。"
-    },
-    {
-      "id": "4926310",
-      "time": "2026-06-09 21:05:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國航空達成協議，將依託現有基礎設施採購並提取芝加哥奧黑爾國際機場的實體燃油。"
-    },
-    {
-      "id": "4926309",
-      "time": "2026-06-09 21:04:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通：我們對消費板塊保持極高警惕。"
-    },
-    {
-      "id": "mkt:019eac7c-4dfc-7ddc-a5f4-759caf4232a9",
-      "time": "2026-06-09 21:04:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said Ukraine has signed a drone agreement with Latvia."
-    },
-    {
-      "id": "4926308",
-      "time": "2026-06-09 21:04:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度二三線城市ATM無錢可取】據印度媒體8日報道，印度多座二線和三線城市的自動取款機近期遭遇“現金荒”，當地民眾取現困難。印度自動取款機行業聯合會說，造成這一情況的主要原因是主要銀行優先將現金調配至大城市。行業資料顯示，印度全國自動取款機今年3月和4月的現金需求均為9400億盧比，實際供應量分別為6100億盧比和5400億盧比。印度自動取款機行業聯合會表示，如果自動取款機不能提現，就無法收取相關交易費用，其業務因此損失高達10億盧比（約合7088萬元人民幣），相關銀行應予以賠償。如果中小城市自動取款機現金短缺的情況持續，相關業務將面臨萎縮甚至中斷。近年來，印度自動取款機數量呈下降趨勢，從2023財年的超過25.3萬臺減少至2024財年的約25.1萬臺，其中機器減少主要集中在鄉村和城郊地區。 （央視財經）"
-    },
-    {
-      "id": "4926307",
-      "time": "2026-06-09 21:04:34",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【國金證券：擬1.5億元-3億元回購公司股份】國金證券6月9日公告，擬以集中競價交易方式回購公司股份，回購總金額不低於1.5億元且不超過3億元。回購價格不超過13元/股。回購股份將用於維護公司市場價值及股東權益。回購期限為自董事會審議透過本次回購方案之日起3個月內。"
-    },
-    {
-      "id": "mkt:019eac7c-022c-7ddc-a5f4-6de71ae9aae7",
-      "time": "2026-06-09 21:04:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "American Airlines agreed to release 35 mln gallons of sustainable aviation fuel over three years, cutting nearly 300,000 tonnes of CO2e."
-    },
-    {
-      "id": "4926306",
-      "time": "2026-06-09 21:04:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST新元：與財務投資人簽署重整投資協議】*ST新元(300472)6月9日公告，公司與財務投資人撫州市臨川區區屬國有資產投資控股集團有限公司（簡稱“臨川國控”）簽署《重整投資協議》。若後續撫州中院裁定受理債權人對公司的重整申請，臨川國控將透過公司重整程式中的出資人權益調整，有條件受讓公司轉增股票，擬受讓股份數量為1000萬股，認購轉增股份的價格為4.55元/股。6月8日，公司與財務投資人臨川國控簽署《重整投資協議》。"
-    },
-    {
-      "id": "4926305",
-      "time": "2026-06-09 21:04:12",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通：如果通脹持續更長時間處於高位，則可能存在一定風險。"
-    },
-    {
-      "id": "4926304",
-      "time": "2026-06-09 21:03:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "博通(AVGO.O)：首期350億美元將用於支援Anthropic此前宣佈的超過1吉瓦計算基礎設施的產能擴建。"
-    },
-    {
-      "id": "mkt:019eac7b-7187-7ddc-a5f4-66ef0b08bf6a",
-      "time": "2026-06-09 21:03:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) said a first tranche of $35 bln will support Anthropic's previously announced expansion of more than 1 GW of compute infrastructure capacity."
-    },
-    {
-      "id": "mkt:019eac7b-1d44-7ddc-a5f4-5e7a4c7bdfbb",
-      "time": "2026-06-09 21:03:29",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) premarket gains widen to 3%."
-    },
-    {
-      "id": "4926303",
-      "time": "2026-06-09 21:03:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國航空：達成協議將在三年內釋放3500萬加侖可持續航空燃料（SAF），可減少近30萬噸二氧化碳當量排放。"
     }
   ]
 }
