@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-17 01:15:20",
-  "count": 18390,
+  "updated": "2026-06-17 01:19:19",
+  "count": 18393,
   "items": [
+    {
+      "id": "mkt:019ed170-3738-7dd8-b038-0873c9602813",
+      "time": "2026-06-17 01:17:32",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "Moderna (MRNA.O) shares rose more than 8% after the FDA said data on Moderna’s influenza vaccine may support its use in older adults."
+    },
+    {
+      "id": "4939230",
+      "time": "2026-06-17 01:16:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局稱莫德納新冠流感聯合疫苗資料或支援其用於老年人後，莫德納股價上漲8.6%。"
+    },
+    {
+      "id": "4939229",
+      "time": "2026-06-17 01:16:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（6月16日），美聯儲隔夜逆回購協議（RRP）使用規模為107.21億美元（交易對手5家），上個交易日報5.81億美元。"
+    },
+    {
+      "id": "mkt:019ed16f-32c9-7dd8-b038-04191efd6fe9",
+      "time": "2026-06-17 01:16:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $10.721 billion from five counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019ed16e-1876-7dd8-b037-fc05cfed49e9",
+      "time": "2026-06-17 01:15:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Emerging Markets",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Argentina's economy minister said the Vicuna copper mine project, valued at $9.7 billion, was approved under the RIGI investment program."
+    },
     {
       "id": "mkt:019ed16b-7758-7dd8-b037-f3e687ac7be3",
       "time": "2026-06-17 01:12:21",
@@ -169208,25 +169260,6 @@
         "其他"
       ],
       "text": "微軟：Anthropic 最新前沿模型 Claude Fable 5 現已登陸微軟 Foundry 平臺。"
-    },
-    {
-      "id": "mkt:019ead63-4f55-7225-91a9-9b5beed56444",
-      "time": "2026-06-10 01:17:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $577 million from five counterparties in a fixed-rate reverse repo operation."
-    },
-    {
-      "id": "4926598",
-      "time": "2026-06-10 01:16:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（6月9日），美聯儲隔夜逆回購協議（RRP）使用規模為5.77億美元（交易對手13家），上個交易日報18.32億美元。"
     }
   ]
 }
