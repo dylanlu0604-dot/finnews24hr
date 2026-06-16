@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-16 11:44:25",
-  "count": 18350,
+  "updated": "2026-06-16 11:48:33",
+  "count": 18344,
   "items": [
+    {
+      "id": "mkt:019ece8a-a0a7-7dd8-b01e-fe15eae51a59",
+      "time": "2026-06-16 11:47:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "159971.SZ",
+        "Impact bearish"
+      ],
+      "text": "【Fullgoal ChiNext ETF (159971) down 10.5% after resuming trade】Fullgoal ChiNext ETF (159971) resumed trading at 10:30 a.m. and was down 10.52% at midday. The ETF was sharply bought late yesterday with about 1.172 mln yuan, closing at the daily limit up (+20.03%) and carrying a secondary-market premium of 14.18%."
+    },
+    {
+      "id": "4937693",
+      "time": "2026-06-16 11:45:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "日經225指數上漲1%至70014.31點，首次突破7000點。"
+    },
+    {
+      "id": "mkt:019ece88-3360-7dd8-b01e-f495efdc108e",
+      "time": "2026-06-16 11:44:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Japan's Nikkei 225 index rose above 70,000 for the first time."
+    },
+    {
+      "id": "mkt:019ece87-ef39-7dd8-b01e-eac384007df3",
+      "time": "2026-06-16 11:44:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "【Bank of Japan raises policy rate 25bps to 1.00%, will halt bond-purchase taper from Apr 2027】The Bank of Japan raised its policy rate by 25bps to 1.00% at this month's policy meeting, the highest level since 1995, and signalled further normalization of monetary policy. The central bank said it will keep monthly government bond purchase volumes unchanged from April 2027, effectively stopping its tapering plan. The moves were widely expected by economists and market participants. The decision passed 7-1, with Toichiro Asada casting the lone dissent; the meeting was held without the governor in attendance."
+    },
     {
       "id": "mkt:019ece86-a91b-7dd8-b01e-e232afb4b275",
       "time": "2026-06-16 11:43:12",
@@ -168709,97 +168757,6 @@
         "市場"
       ],
       "text": "【6月9日午間漲停分析】創業板指半日漲近2%，科創50指數漲近3%，半導體、算力硬體股集體反彈。泰和新材、天娛數科3連板，一圖看懂>>"
-    },
-    {
-      "id": "mkt:019eaa7e-a61e-7eec-b847-f1ef0bce4af0",
-      "time": "2026-06-09 11:48:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Zhiyuan launches industry’s first open, full-stack embodied intelligence ecosystem AIMA (AI Machine Architecture)】On June 9 Zhiyuan said in an open letter to developers it has launched AIMA (AI Machine Architecture), which it describes as the industry’s first open, full-stack embodied-intelligence ecosystem tech architecture to underpin industrial-scale deployment and ecosystem development."
-    },
-    {
-      "id": "4925129",
-      "time": "2026-06-09 11:48:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曉鳴股份：5月雞產品銷售收入8784.62萬元，環比減少16.76%】曉鳴股份公告,公司2026年5月銷售雞產品2351.04萬羽，銷售收入8784.62萬元，環比變動分別為-12.64%、-16.76%，同比變動分別為1.13%、-12.90%。"
-    },
-    {
-      "id": "4925128",
-      "time": "2026-06-09 11:47:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華金資本：現有產品暫不涉及超級電容業務】華金資本(000532)6月9日在互動平臺回覆稱，截至目前，公司現有產品暫不涉及超級電容業務。"
-    },
-    {
-      "id": "4925127",
-      "time": "2026-06-09 11:47:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智元推出行業首個開放且完整的具身智慧生態技術體系——智元AIMA】6月9日，智元釋出《致全體開發者夥伴的一封信》中指出，智元推出行業首個開放且完整的具身智慧生態技術體系——智元AIMA（AI Machine Architecture），為產業規模化、生態化發展築牢底層根基。未來五年，智元將投入20億元專項資金，用於科研創新、人才培養、夥伴發展及社群運營。今年，率先投入超1億元賦能生態發展，賦能每一位AIMA開發者。"
-    },
-    {
-      "id": "4925126",
-      "time": "2026-06-09 11:46:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曉程科技：暫無併購晶片、電路板或晶圓企業的計劃】曉程科技6月9日在互動平臺表示，截至目前，公司暫無併購晶片、電路板或晶圓企業的計劃。"
-    },
-    {
-      "id": "te:economy:557482",
-      "time": "2026-06-09 11:45:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "China 10Y Yield Rebounds After Trade Data — China’s 10-year government bond yield rose toward 1.74% on Tuesday, rebounding from the previous session as investors remained cautious about the broader economic outlook despite stronger-than-expected trade data. Exports surged 19.4% year-on-year to a record USD 376.8 billion in May, supported by inventory accumulation to offset higher shipping and energy costs stemming from the Gulf conflict, and by AI-related product booms. While the conflict in the Middle East has not yet materially disrupted exports, signs of domestic economic slowdown continue to leave the country exposed to a global downturn. Imports rose 27.4% to USD 271.4 billion, beating forecasts of 25% as companies ramped up purchases of foreign chips and equipment. Consequently, China's trade surplus widened to USD 105.4 billion, its highest level since January. Meanwhile, China is due to launch a third tranche of 15 billion yuan-denominated bonds in Hong Kong on June 16."
-    },
-    {
-      "id": "4925125",
-      "time": "2026-06-09 11:45:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【斯迪克：目前公司暫無BOPP產品生產】斯迪克(300806)6月9日在互動平臺回覆稱，目前公司暫無BOPP（雙向拉伸聚丙烯薄膜）產品的生產。"
-    },
-    {
-      "id": "4925124",
-      "time": "2026-06-09 11:44:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲2%至269.92點。"
-    },
-    {
-      "id": "mkt:019eaa7b-808e-7eec-b847-eca5436086f7",
-      "time": "2026-06-09 11:44:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell below $91/bbl, down 1.50% on the day."
-    },
-    {
-      "id": "4925123",
-      "time": "2026-06-09 11:44:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄宣佈擊落95架無人機 摧毀烏多處軍事基礎設施】俄羅斯國防部8日釋出戰報說，俄防空兵當天在多地擊落95架烏克蘭無人機，俄軍還摧毀烏方多處軍事基礎設施。根據俄國防部透過社交媒體釋出的這份戰報，莫斯科時間8日14時至20時，俄防空兵在俄西部別爾哥羅德州、布良斯克州、卡盧加州、庫爾斯克州等多地及黑海上空攔截並摧毀95架烏方固定翼無人機。俄國防部還說，俄軍摧毀了烏克蘭武裝力量使用的多處彈藥庫、燃料庫、運輸及電力設施，以及烏軍部隊和外國僱傭兵的139個臨時部署點。此外，俄南部集團軍部隊當天採取行動，佔據頓涅茨克地區一處城鎮。（新華社）"
     }
   ]
 }
