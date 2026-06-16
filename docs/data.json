@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-16 23:23:43",
-  "count": 18384,
+  "updated": "2026-06-16 23:27:51",
+  "count": 18385,
   "items": [
+    {
+      "id": "te:economy:559395",
+      "time": "2026-06-16 23:26:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Global Dairy Trade Price Index",
+        "Importance 1"
+      ],
+      "text": "Global Dairy Prices Fall Sharply in Mid-June — The Global Dairy Trade Price Index fell 2.8% in the two weeks ending June 16, 2026, after a 0.6% drop in the prior period, marking the largest decline since April. Mozzarella led the decreases (-5.0%), followed by skim milk powder (-3.6%), cheddar (-3.4%), whole milk powder (-3.1%), butter (-2.4%), and anhydrous milk fat (-1.0%). Lactose was the sole gainer, rising 4.2%."
+    },
+    {
+      "id": "mkt:019ed10a-701b-7dd8-b035-a56fd8fb7b02",
+      "time": "2026-06-16 23:26:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O"
+      ],
+      "text": "A presidential memorandum shows Trump invoked the Defense Production Act, citing limited production capacity and fragile supply chains."
+    },
+    {
+      "id": "4939107",
+      "time": "2026-06-16 23:25:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在總統備忘錄中援引國防生產法時指出（彈藥工業）產能有限、供應鏈脆弱。"
+    },
+    {
+      "id": "mkt:019ed109-f2e3-7dd8-b035-992f8f644d1f",
+      "time": "2026-06-16 23:25:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "A presidential memorandum shows President Trump has invoked the Defense Production Act to address \"systemic constraints\" in the ammunition industry."
+    },
+    {
+      "id": "te:markets:559394",
+      "time": "2026-06-16 23:25:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Futures Hover Around $14 — Sugar futures in the US have been trading around 14 US cents since late May, as supportive fundamentals from ample global supply keep prices subdued despite climate risks. Also, the announcement of a preliminary agreement to end the Middle East conflict and reopen the Strait of Hormuz improved the outlook for agricultural commodities. According to the consulting firm Covrig Analytics, the closure of the Strait of Hormuz restricted approximately 6% of the world's sugar trade. Oil prices also fell sharply, making ethanol less competitive and potentially prompting mills to shift more sugarcane to sugar production. However, concerns over the impact of an emerging El Niño pattern on key producing regions of Brazil and India limited the downside. Meanwhile, consulting firm Czarnikow. now projects a deficit of 100,000 tons in the 2026/27 harvest, reversing its previous estimate of a surplus of 1.4 million tons."
+    },
+    {
+      "id": "mkt:019ed109-3ffa-7dd8-b035-93c8fb5a7e52",
+      "time": "2026-06-16 23:25:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【Russian warship fires warning shot at UK yacht in English Channel】A Russian frigate fired a warning shot at a British-flagged yacht in the English Channel after a close-range encounter, the UK Coastguard said. The vessel, Admiral Grigorovich, part of Russia's Black Sea Fleet, has been operating near UK waters for weeks and was previously observed escorting shadow-fleet tankers and loitering near an offshore wind farm off Suffolk. Two Royal Navy River-class patrol vessels had been tracking the frigate in the Channel prior to the incident. The episode follows Prime Minister Starmer's order to deploy Royal Marines to board the shadow-fleet tanker Smyrtos on Sunday; the tanker is detained off England's south coast and some crew are under investigation for alleged sanctions breaches."
+    },
+    {
+      "id": "4939106",
+      "time": "2026-06-16 23:24:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普簽署總統備忘錄，動用《國防生產法》應對彈藥工業的“系統性制約”。"
+    },
+    {
+      "id": "mkt:019ed107-b4e5-7dd8-b035-8ddd30451c04",
+      "time": "2026-06-16 23:23:23",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq 100 futures losses widened to 1%."
+    },
     {
       "id": "4939105",
       "time": "2026-06-16 23:23:00",
@@ -169173,70 +169258,6 @@
         "QCOM.O"
       ],
       "text": "Nasdaq Composite intraday losses widened to over 1.5%; S&P 500 down 1%. Philadelphia Semiconductor Index fell 3.7%; Qualcomm (QCOM.O) -7.5%, Intel (INTC.O) -3.6%, Micron Technology (MU.O) -4%."
-    },
-    {
-      "id": "4926497",
-      "time": "2026-06-09 23:27:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟反壟斷負責人表示，針對Meta的臨時裁定將持續至調查結束，最晚至 2029 年 6 月。"
-    },
-    {
-      "id": "4926496",
-      "time": "2026-06-09 23:27:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克指數跌幅擴大至1.5%。"
-    },
-    {
-      "id": "4926495",
-      "time": "2026-06-09 23:26:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【摩根資管：美股將挺過任何短暫且劇烈的回撥】摩根資產管理的Jack Caffrey表示，儘管一些訊號顯示美股可能漲幅過大，但企業盈利增長支撐了市場情緒，美股仍有進一步上漲空間。Caffrey週二指出，即便經濟擴張已持續多年，但企業盈利仍有望在2026年實現22%或更高的增長。他還提到，去年的盈利增長率在10%-20%區間的中段，預計2027年也將保持這一水平。“這確實是一個由盈利驅動的故事，”他說，“我仍然看好當前的股市。”"
-    },
-    {
-      "id": "4926494",
-      "time": "2026-06-09 23:25:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體報道：克爾曼沙阿機場總負責人宣佈，該國西部地區航班限制已解除，克爾曼沙阿空域重新開放。"
-    },
-    {
-      "id": "te:markets:557733",
-      "time": "2026-06-09 23:25:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Tech Stocks Come Under Fresh Selling — US equity indices swung lower on Tuesday as the pivot out of the heavyweight tech sector was resumed following yesterday's respite. The S&P 500 and the Nasdaq 100 fell 1% and 2%, respectively, as the more defensive Dow dropped 0.5%. The fresh pressure on companies in the AI space reflected the lingering skepticism that part of the rally for chips and datacenter producers in recent quarters may have been overblown, despite sustained signals from hyperscalers that infrastructure is need to run models. The latest moves were from OpenAI, which filed for an IPO, and Anthropic, raising more cash through private credit. Nvidia, Oracle, and AMD lost between 3% and 1%. Meanwhile, Apple lost 3% as its new Siri AI assistant will not be launched in the EU due to antitrust laws from Brussels. Meanwhile, broader sectors were higher as lower energy prices added some respite for Treasuries. Asset managers led the pace with Blackstone and KKR adding 2%."
-    },
-    {
-      "id": "mkt:019eacfc-6e2e-7dd1-a397-710f0c111451",
-      "time": "2026-06-09 23:24:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "JPM.O",
-        "Impact bullish"
-      ],
-      "text": "【JP Morgan to deploy more capable AI agents later this year】JP Morgan plans to deploy more capable AI agents later this year, CNBC reports. Chief Analytics Officer Derek Waldron told CNBC the agents are evolving from single-task tools into digital workers that can manage multi-step workflows across different software and run autonomously for one to two hours rather than just two to three minutes. The bank says AI is already lifting results—private bank total sales are up about 20%—and could ultimately allow bankers to expand client coverage by as much as 50%."
-    },
-    {
-      "id": "4926493",
-      "time": "2026-06-09 23:24:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "5 月，外國投資者在伊斯坦布林證券交易所明星板及主機板股票市場淨賣出 8.504 億美元。"
     }
   ]
 }
