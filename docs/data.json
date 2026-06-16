@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-16 14:40:35",
-  "count": 18332,
+  "updated": "2026-06-16 14:44:34",
+  "count": 18335,
   "items": [
+    {
+      "id": "mkt:019ecf2c-407b-7dd8-b023-437231e4c523",
+      "time": "2026-06-16 14:44:04",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "BOJ Deputy Governor UCHIDA said inflation trends are gradually converging toward 2%."
+    },
+    {
+      "id": "4937914",
+      "time": "2026-06-16 14:43:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿曼5月消費者價格同比上漲3.76%。"
+    },
+    {
+      "id": "4937913",
+      "time": "2026-06-16 14:43:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "意法半導體15億美元雙期可轉換債券 全發行規模已獲足額認購（指示需求超出發行規模）。"
+    },
+    {
+      "id": "mkt:019ecf2b-8ce3-7dd8-b023-39c5fd243226",
+      "time": "2026-06-16 14:43:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "BANK OF JAPAN Deputy Governor UCHIDA said the material recession risk from the Middle East conflict is waning."
+    },
+    {
+      "id": "mkt:019ecf2a-524c-7dd8-b023-35fd48cc24c7",
+      "time": "2026-06-16 14:41:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan Deputy Governor UCHIDA: keeping core inflation stable at the 2% level is crucial."
+    },
+    {
+      "id": "mkt:019ecf29-acae-7dd8-b023-2be2938d98e4",
+      "time": "2026-06-16 14:41:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Uchida, deputy governor of the Bank of Japan, said when asked about the pace of future rate hikes he will continue to monitor developments in the Middle East and closely watch how they affect financial and FX markets, Japan’s economy and prices."
+    },
+    {
+      "id": "4937912",
+      "time": "2026-06-16 14:41:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OKKI AiReach釋出社媒人脈圖譜，幫出海企業挖掘潛在買家】6月16日，外貿營銷智慧體OKKI AiReach釋出首個社媒人脈圖譜：只需輸入一個理想客戶的社媒賬號，就能順著社媒關係挖出一串帶有采購訊號、相互關聯的全球潛在買家。去年6月，阿里國際站旗下智慧工作臺OKKI釋出OKKI AiReach。資料顯示，過去一年其已幫助超1萬家出海企業多找出1.18億潛客。"
+    },
+    {
+      "id": "4937911",
+      "time": "2026-06-16 14:40:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年以來公募申購旗下基金達3341次，淨申購金額達75.99億元】公募排排網資料顯示，截至2026年6月16日，今年以來公募申購旗下基金達3341次，淨申購金額達75.99億元。"
+    },
+    {
+      "id": "mkt:019ecf29-0a38-7dd8-b023-23a48143576b",
+      "time": "2026-06-16 14:40:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "CBK.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany rejected UniCredit's proposal to swap shares in Commerzbank, saying that from a financial perspective accepting UniCredit's offer is no longer an option. The government said UniCredit's bid failed to offer an adequate premium to Commerzbank's current share price."
+    },
+    {
+      "id": "4937910",
+      "time": "2026-06-16 14:39:57",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【油價下跌，霍爾木茲海峽重新開放前景削弱風險溢價】隨著人們對霍爾木茲海峽將於本週重新開放的預期繼續消除市場中的地緣政治風險溢價，油價下跌。在歐洲市場早盤交易中，布倫特原油下跌0.5%，至每桶82.75美元，而西得州中質油期貨下跌0.3%，至每桶80.52美元。隨著船東和交易員等待定於週五簽署的美伊協議的進一步細節，期貨價格儘管出現回撥，但仍遠高於衝突前的水平。不過，這兩大基準原油本週均下跌了約9%。高盛分析師表示：“雖然協議的全部細節尚不清楚，但我們現在假設波斯灣的出口到7月底將恢復到戰前水平。“該行下調了油價預測，目前預計第四季度布倫特原油均價為每桶85美元，低於先前公佈的每桶90美元的預測。"
+    },
+    {
+      "id": "4937909",
+      "time": "2026-06-16 14:39:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華峰化學旗下上海公司增資至10億 增幅100%】天眼查 App 顯示，近日，上海華峰科技發展有限公司發生工商變更，註冊資本由5億人民幣增至10億人民幣，增幅100%。該公司成立於2021年4月，法定代表人為尤飛煌，經營範圍包括針紡織品及原料銷售、紡織專用裝置銷售、新材料技術研發等，由華峰化學（002064）全資持股。"
+    },
     {
       "id": "mkt:019ecf28-3a92-7dd8-b023-18ed4a9d5498",
       "time": "2026-06-16 14:39:40",
@@ -168519,72 +168624,6 @@
         "國際"
       ],
       "text": "【涉嫌虐待及綁架 意檢方調查以色列極右翼部長】據訊息人士透露，義大利檢方已啟動對以色列國家安全部長伊塔馬爾·本-格維爾的調查，理由是這名代表極右翼勢力的以色列部長涉嫌在5月中旬虐待和綁架向加沙地帶運送人道主義物資的義大利公民。（新華社）"
-    },
-    {
-      "id": "mkt:019eab1f-f9fc-7ee8-a201-2cde55ea3d2f",
-      "time": "2026-06-09 14:44:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【June 9: Farm Produce Wholesale Price 200 Index up 0.08 points】Ministry of Agriculture and Rural Affairs monitoring: June 9 Farm Produce Wholesale Price 200 Index 113.31, up 0.08 points vs. previous day; staple produce wholesale price index 113.37, up 0.09 points. As of 14:00 national wholesale average prices: pork 14.70 yuan/kg (+0.4%); beef 66.55 yuan/kg (unchanged); mutton 63.79 yuan/kg (-0.2%); eggs 10.85 yuan/kg (+2.3%); dressed chicken 17.12 yuan/kg (+0.9%)."
-    },
-    {
-      "id": "4925373",
-      "time": "2026-06-09 14:44:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月9日：“農產品批發價格200指數”比昨天上升0.08個點】據農業農村部監測，6月9日“農產品批發價格200指數”為113.31，比昨天上升0.08個點，“菜籃子”產品批發價格指數為113.37，比昨天上升0.09個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.70元/公斤，比昨天上升0.4%；牛肉66.55元/公斤，與昨天持平；羊肉63.79元/公斤，比昨天下降0.2%；雞蛋10.85元/公斤，比昨天上升2.3%；白條雞17.12元/公斤，比昨天上升0.9%。重點監測的28種蔬菜平均價格為4.30元/公斤，比昨天上升1.4%；重點監測的6種水果平均價格為7.58元/公斤，比昨天上升0.7%。鯽魚20.74元/公斤，比昨天上升2.8%；鯉魚14.74元/公斤，比昨天下降0.5%；白鰱魚10.42元/公斤，比昨天上升1.4%；大帶魚41.21元/公斤，比昨天上升2.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠蘿、蓮藕、菠菜、豆角和鯽魚，幅度分別為5.2%、4.6%、4.2%、3.5%和2.8%；價格降幅前五名的是西瓜、巨峰葡萄、蔥頭、大黃花魚和大白菜，幅度分別為2.2%、1.0%、0.9%、0.8%和0.7%。"
-    },
-    {
-      "id": "4925372",
-      "time": "2026-06-09 14:43:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王傳福回應股價被低估：要對比亞迪有信心、做價值投資，當前瓶頸是二代刀片電池產能】比亞迪今日舉行2025年度股東會，比亞迪董事長王傳福等高管出席。被問及當前比亞迪股價和市值被低估一事，王傳福表示，感謝股東支援，完全理解大家對股價的關切，要對比亞迪有信心，要做價值投資。他透露， 比亞迪當前銷量的最大瓶頸是二代刀片電池產能爬坡，目前正在夜以繼日攻堅。2026年銷量取決於電池產量，2027年電池產能大規模釋放後，國內、國際市場將同時發力，預計會有很大提升。（新浪科技）"
-    },
-    {
-      "id": "mkt:019eab1f-1a1b-7ee8-a201-2299bc1ac181",
-      "time": "2026-06-09 14:43:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China holds meeting of central safety-assessment inspection team leaders】Ahead of planned Q2–Q3 overt and covert inspections, Beijing hosted a June 8 meeting of leaders from the central safety-production assessment and inspection teams. Teams were ordered to conduct on-site, in-depth checks and to refer identified major accident hazards in key sectors — mining, chemicals, fireworks, construction, firefighting, industry and trade, and special equipment — to provincial party and government authorities. Provinces are to be urged to verify rectifications, trace responsibility and impose strict sanctions. The meeting also mandated special inspections of regulatory enforcement, combining inspection with remediation, and strict action against illegal safety practices, falsification and corruption in the safety sector."
-    },
-    {
-      "id": "4925371",
-      "time": "2026-06-09 14:43:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央安全生產考核巡查組組長工作座談會召開】在即將開展第二、三季度明查暗訪之際，6月8日，中央安全生產考核巡查組組長工作座談會在京召開。會議強調，中央安全生產考核巡查組開展明查暗訪期間，要直奔現場、深挖細查，對發現的礦山、化工、煙花爆竹、建築施工、消防、工貿、特種裝置等重點行業領域典型重大事故隱患，移交省級黨委和政府，督促地方組織核查整改、倒查責任、嚴肅處理。要開展監管執法問題專項檢查，堅持查治一體，嚴肅查處安全生產非法違法和弄虛作假等行為，以及安全生產領域風腐等突出問題。（應急管理部）"
-    },
-    {
-      "id": "4925370",
-      "time": "2026-06-09 14:43:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【氫能關注度再升溫，國內氫能相關專利已超8600件，去年申請超1300件】氫能作為國家明確的未來產業，2026年熱度持續攀升，政策與產業落地同步提速。截至2026年3月底，全國建成在建可再生能源制氫產能規模超過100萬噸/年，其中，建成投運超25萬噸/年，較2024年底增長超1倍。政策端，3月三部門啟動氫能綜合應用試點，目標2030年終端用氫價降至25元/千克以下。FCVC2026氫能大會（6月10日—12日）將至，行業關注度再升溫。綠氫規模化、重卡等多場景滲透加速，氫能正從示範走向規模化發展關鍵期。企查查資料顯示，我國現有超8600件氫能相關專利，2025年全年，我國累計申請1314件氫能相關專利，創近五年氫能相關專利申請量新高。截至6月9日，2026年我國已申請204件氫能相關專利。企業存量方面，截至2026年6月9日，我國現存3986家氫能相關企業。區域分佈上，華東地區最多，佔比34.0%，其次是華北地區，佔比20.5%。"
-    },
-    {
-      "id": "4925369",
-      "time": "2026-06-09 14:43:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普在過去數月內至少37次公開宣稱美伊雙方“即將達成協議”】自美國總統唐納德·特朗普宣佈美伊停火以來，時間已過去兩個多月。儘管特朗普在過去數月內至少37次公開宣稱美伊雙方“即將達成協議”，但截至目前，雙邊談判仍未取得實質性進展，協議依舊未能簽署。分析人士指出，儘管美伊停火已持續兩月有餘，但由於雙方缺乏戰略互信，加之中東地區局勢錯綜複雜，雙邊關係走向仍存在高度不確定性。特朗普頻繁宣稱“接近達成協議”，或意在安撫國際金融市場並提振國內政治支援率，實際談判程序並未取得根本性突破。"
-    },
-    {
-      "id": "4925368",
-      "time": "2026-06-09 14:41:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【桃李麵包旗下海南桃李麵包公司增資至1.3億 增幅約86%】天眼查App顯示，近日，海南桃李麵包有限公司發生工商變更，註冊資本由7000萬人民幣增至1.3億人民幣，增幅約86%。該公司成立於2019年3月，法定代表人為朱迪，經營範圍包括食品生產、糧食加工食品生產、食品經營等，由桃李麵包（603866）全資持股。"
     }
   ]
 }
