@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-17 00:30:17",
-  "count": 18375,
+  "updated": "2026-06-17 00:34:26",
+  "count": 18382,
   "items": [
+    {
+      "id": "4939194",
+      "time": "2026-06-17 00:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "DoorDash 表示已修復一項技術故障。"
+    },
+    {
+      "id": "mkt:019ed146-8c69-7dd8-b037-0acd351e7512",
+      "time": "2026-06-17 00:32:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Huiyu Technology partners with NVIDIA (NVDA.O) to deploy agent-based AI into production environments."
+    },
+    {
+      "id": "4939193",
+      "time": "2026-06-17 00:31:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與（HPE）：與英偉達聯合研發的HPE私有云人工智慧可將token吞吐量最高提升20%"
+    },
+    {
+      "id": "4939192",
+      "time": "2026-06-17 00:31:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與（HPE）：搭載英偉達技術的HPE AI工廠新增英偉達Vera CPU、英偉達智慧體工具包與英偉達機密計算技術。"
+    },
+    {
+      "id": "4939191",
+      "time": "2026-06-17 00:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與（HPE）：攜手英偉達將智慧體AI投入生產應用。"
+    },
+    {
+      "id": "4939190",
+      "time": "2026-06-17 00:31:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與（HPE）：HPE資料編織軟體將擴大智慧體工作流的資料可用性，預計於2026年10月正式推出。"
+    },
+    {
+      "id": "4939189",
+      "time": "2026-06-17 00:31:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與（HPE）：配備英偉達技術的HPE人工智慧工廠將於2026年第四季度支援英偉達保密計算服務。"
+    },
+    {
+      "id": "4939188",
+      "time": "2026-06-17 00:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與科技（HPE）：西門子能源已從公有云遷移至HPE GreenLake Flex按需付費私有云。"
+    },
+    {
+      "id": "4939187",
+      "time": "2026-06-17 00:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "慧與（HPE）：GreenLake Flex已在美國和德國落地部署，美國站點已投入運營；德國站點按計劃將於2026年年中完成全面部署。"
+    },
+    {
+      "id": "4939186",
+      "time": "2026-06-17 00:30:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與科技攜手英偉達，將智慧體AI投入商用落地，覆蓋安全、治理、規模化部署與資料主權能力。"
+    },
+    {
+      "id": "4939185",
+      "time": "2026-06-17 00:29:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：微軟考慮與DeepSeek合作開發Copilot。"
+    },
     {
       "id": "mkt:019ed143-7d5a-7dd8-b037-02dedd06cb65",
       "time": "2026-06-17 00:28:41",
@@ -169074,40 +169169,6 @@
         "國際"
       ],
       "text": "伊朗伊斯蘭共和國廣播電視臺（IRIB）： 以色列對黎巴嫩南部的庫夫拉、賽吉德及賈布希特三座城鎮發動空襲。"
-    },
-    {
-      "id": "4926569",
-      "time": "2026-06-10 00:33:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥基建夥伴房地產投資信託基金（Fibra E）釋出宣告，其後續證券發行募資 43 億比索。"
-    },
-    {
-      "id": "4926568",
-      "time": "2026-06-10 00:31:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "星巴克CEO：公司海外門店數量有望實現翻倍。"
-    },
-    {
-      "id": "mkt:019ead39-d8e6-7cc9-8dc0-342f7addf5f2",
-      "time": "2026-06-10 00:31:49",
-      "tags": [
-        "MKT News",
-        "MS.N"
-      ],
-      "text": "Morgan Stanley (MS.N) CEO Ted Pick said the firm will closely monitor M&A activity in the industry."
-    },
-    {
-      "id": "mkt:019ead39-1690-7992-a4a6-c63497137f9e",
-      "time": "2026-06-10 00:31:00",
-      "tags": [
-        "MKT News",
-        "MS.N"
-      ],
-      "text": "MORGAN STANLEY (MS.N) CEO Ted Pick said banking-sector M&A is challenging and the firm wants to ensure it makes the right decisions."
     }
   ]
 }
