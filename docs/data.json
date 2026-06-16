@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-16 23:15:01",
-  "count": 18380,
+  "updated": "2026-06-16 23:19:25",
+  "count": 18384,
   "items": [
+    {
+      "id": "mkt:019ed101-b59c-7dd8-b035-7685ed853a7f",
+      "time": "2026-06-16 23:16:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Serbian President Aleksandar Vucic said US Treasury sanctions office OFAC may grant MOL and Gazprom an additional 15 days to complete the NIS refinery transaction."
+    },
+    {
+      "id": "4939101",
+      "time": "2026-06-16 23:16:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：以色列必須從黎巴嫩撤軍。"
+    },
+    {
+      "id": "4939100",
+      "time": "2026-06-16 23:16:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本丸紅株式會社收購美國德克薩斯州天然氣生產商Eagle Ridge Energy II。"
+    },
+    {
+      "id": "4939099",
+      "time": "2026-06-16 23:15:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "富國銀行投資研究所將摩根士丹利資本國際新興市場指數2026年年末目標區間從原先預測的1500-1700點上調至1700-1900點。"
+    },
+    {
+      "id": "mkt:019ed100-635f-7dd8-b035-6e30ab84f4bf",
+      "time": "2026-06-16 23:15:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi-backed Riyadh Air approved to operate flights to the United States."
+    },
+    {
+      "id": "mkt:019ed100-0384-7dd8-b035-65ff6fdd2163",
+      "time": "2026-06-16 23:14:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Global Dairy Trade price index to June 9: -2.8% (prior -0.6%)."
+    },
+    {
+      "id": "4939098",
+      "time": "2026-06-16 23:14:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【委內瑞拉再次調整內閣人員】委內瑞拉代總統德爾西·羅德里格斯15日再次調整委內閣，宣佈內爾松·羅德里格斯出任生態部長。除生態部長外，委代總統還任命葆拉·波薩尼為住房部長。1月3日凌晨，美國對委內瑞拉發動大規模軍事打擊，強行控制委總統馬杜羅及其妻子並將他們帶到美國。這一軍事行動造成至少100人死亡。德爾西·羅德里格斯當月5日在委全國代表大會宣誓就任代總統。此後，她多次對委內閣進行調整。"
+    },
+    {
+      "id": "mkt:019ed0ff-df1a-7dd8-b035-5e3b2621dc4a",
+      "time": "2026-06-16 23:14:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (Jun.9) | actual -2.8% | previous -0.6%"
+    },
+    {
+      "id": "4939097",
+      "time": "2026-06-16 23:14:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預計，巴西6月豆粕出口量將達到224萬噸，低於此前預估的231萬噸。"
+    },
+    {
+      "id": "4939096",
+      "time": "2026-06-16 23:14:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預計，巴西6月大豆出口量將達到1531萬噸，高於前次預估的1438萬噸。"
+    },
+    {
+      "id": "4939095",
+      "time": "2026-06-16 23:14:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運輸部：沙特支援的利雅得航空獲批運營美國航線。"
+    },
     {
       "id": "4939094",
       "time": "2026-06-16 23:14:11",
@@ -169171,77 +169263,6 @@
         "國際"
       ],
       "text": "Meta： 將對歐盟的裁決提起上訴， 歐盟此項裁決屬於監管越界，背後有歐洲付費企業暗中推動。"
-    },
-    {
-      "id": "mkt:019eacf7-0781-7dd1-a397-4fd1ae2e151c",
-      "time": "2026-06-09 23:18:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Echo reports the European Union has ordered Meta Platforms (META.O) to allow rival AI chatbots free access to WhatsApp."
-    },
-    {
-      "id": "4926490",
-      "time": "2026-06-09 23:18:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟勒令Meta允許競品 AI 聊天機器人免費接入 WhatsApp。"
-    },
-    {
-      "id": "mkt:019eacf6-4924-7dd1-a397-45f8692376f1",
-      "time": "2026-06-09 23:18:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google will begin rolling out a private-preview update to select enterprise Google Workspace customers this month, with a broader release planned later this year."
-    },
-    {
-      "id": "4926489",
-      "time": "2026-06-09 23:16:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：本月起面向部分谷歌辦公套件企業客戶開放新版功能專屬預覽，今年晚些時候全面推送。"
-    },
-    {
-      "id": "te:markets:557726",
-      "time": "2026-06-09 23:16:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Plunges as Investors Await US Inflation — Silver prices tumbled to $66 per ounce on Tuesday, retracing to levels last seen in December 2025, as investors turned their attention to the upcoming US inflation report. The report, due Wednesday, is expected to show inflation climbing to 4.2% in May, its highest in nearly three years, fueled by soaring energy prices. The inflation outlook follows last week’s stronger-than-expected US jobs data, which revealed 172,000 jobs added in May, surpassing forecasts. This has led investors to ramp up bets on Federal Reserve rate hikes this year, with traders now pricing in a 70% chance of a December increase. Meanwhile, signs of a potential Middle East deal emerged after Iran and Israel halted attacks following a US appeal, pushing oil prices lower and temporarily easing inflation concerns, though uncertainty lingers."
-    },
-    {
-      "id": "mkt:019eacf4-0743-7dd1-a397-3bc9d8b1cd35",
-      "time": "2026-06-09 23:15:34",
-      "tags": [
-        "MKT News",
-        "AMAT.O"
-      ],
-      "text": "U.S. Trade Representative Greer will visit Applied Materials (AMAT.O) research and development facility in Sunnyvale, California on Friday."
-    },
-    {
-      "id": "4926488",
-      "time": "2026-06-09 23:15:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：Gemini 3.5 模型現已在全球安卓及 iOS 端的谷歌翻譯應用中逐步上線。"
     }
   ]
 }
