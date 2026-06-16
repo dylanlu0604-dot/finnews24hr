@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-17 01:07:16",
-  "count": 18387,
+  "updated": "2026-06-17 01:11:26",
+  "count": 18389,
   "items": [
+    {
+      "id": "4939227",
+      "time": "2026-06-17 01:10:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通推出驍龍啟航專案。"
+    },
+    {
+      "id": "4939226",
+      "time": "2026-06-17 01:09:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨談及美伊協議： 從伊朗釋放的所有訊號都能看出，伊朗也會接受這份協議，在美國佔據絕對軍事優勢的局面下，它根本別無選擇。 我昨晚已向特朗普總統表明，從這件事就能看出，強大的軍事實力同樣能夠促成外交層面的解決方案。倘若這套邏輯同樣適用於烏克蘭局勢，那麼全球兩處關鍵衝突地區或許都能更快迎來和平。"
+    },
+    {
+      "id": "4939225",
+      "time": "2026-06-17 01:07:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特王儲主持內閣會議，重申恢復霍爾木茲海峽通航自由、使其迴歸戰前常態的重要性。"
+    },
+    {
+      "id": "mkt:019ed166-c8b3-7dd8-b037-ecaaa5c38af8",
+      "time": "2026-06-17 01:07:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The Saudi cabinet reiterated the importance of restoring freedom of navigation in the Strait of Hormuz and called for its return to pre-war status."
+    },
     {
       "id": "mkt:019ed166-0b24-7dd8-b037-e5675360b8f2",
       "time": "2026-06-17 01:06:26",
@@ -169185,29 +169219,6 @@
         "國際"
       ],
       "text": "【自IPO以來，CoreWeave創始人已瘋狂套現23億美元】自這家人工智慧（AI）資料中心運營商於2025年3月美國IPO以來，CoreWeave Inc.股價已飆升一倍以上。與此同時，公司高管層已高位減持了價值超過23億美元的個人股票。減持大頭主要來自該公司的三位億萬富翁聯合創始人——Michael Intrator、Brannin McBee、以及Brian Venturo。其中，自2025年8月公司IPO禁售期屆滿後，Venturo一人便拋售了價值超過11億美元的股票。上述所有減持均透過合規的10b5-1交易計劃自動執行。目前，創始團隊手中依然握有極具分量的籌碼，其中Intrator仍按10.4%的持股比例穩居公司第一大個人股東。"
-    },
-    {
-      "id": "mkt:019ead5c-7902-7225-91a9-94810adab542",
-      "time": "2026-06-10 01:09:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "According to Axios, a senior U.S. official said investigators concluded an Iranian drone struck the helicopter and caused it to crash. The official said the probe has not yet determined whether the strike was deliberate and remains ongoing."
-    },
-    {
-      "id": "mkt:019ead5b-119a-7225-91a9-8dac0f9adc84",
-      "time": "2026-06-10 01:08:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Anthropic releases public Mythos version without cybersecurity capability】Anthropic launched a public version of its Mythos model but prohibits its use in cybersecurity and other high-risk areas. The company also introduced Claude Fable 5, which it called its most capable model for broader use, citing strong performance in software engineering and data analysis. Anthropic said Mythos previously uncovered thousands of software vulnerabilities and had earlier restricted access to about 200 institutions, including the US government, under a Glasswing program. It said it conducted extensive testing to prevent users from manipulating Claude Fable 5 to bypass safeguards. Early customers reported Fable 5 carries a higher price per unit but uses fewer tokens per task, lowering total task cost. Users with access to the unprotected Claude Mythos preview can upgrade to Claude Mythos 5. Both models are priced at $10 per mln input tokens and $50 per mln output tokens."
     }
   ]
 }
