@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-17 03:56:49",
-  "count": 18433,
+  "updated": "2026-06-17 04:00:53",
+  "count": 18425,
   "items": [
+    {
+      "id": "4939320",
+      "time": "2026-06-17 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.42%】海天網路跌13.94%，水滴公司跌9.28%，禾賽科技跌8.47%，復朗集團跌7.84%，BOSS直聘跌7.08%。"
+    },
     {
       "id": "4939319",
       "time": "2026-06-17 03:55:02",
@@ -169496,88 +169505,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：伊朗核協議可能在一週內達成，也可能在幾個月內達成。"
-    },
-    {
-      "id": "4926667",
-      "time": "2026-06-10 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.15%，標普500指數跌0.27%，納指跌0.99%。Coherent Corp跌11.44%，Lumentum Holdings Inc. Common Stock When Issued跌8.23%，Strategy跌7.92%，斯馬克漲10.34%，安費諾漲7.33%，Pool Corporation漲6.34%。“七姐妹”方面：谷歌漲0.31%，Meta Platforms跌0.08%，英偉達跌0.22%，亞馬遜跌0.49%，微軟跌2.01%，特斯拉跌3.00%，蘋果跌3.67%。"
-    },
-    {
-      "id": "4926666",
-      "time": "2026-06-10 04:00:44",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果股價收跌3.6%，創2月12日以來最大跌幅。"
-    },
-    {
-      "id": "4926665",
-      "time": "2026-06-10 04:00:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：壓力測試結果不會影響資本要求。"
-    },
-    {
-      "id": "4926664",
-      "time": "2026-06-10 04:00:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲將於6月24日公佈華爾街銀行壓力測試結果。"
-    },
-    {
-      "id": "4926663",
-      "time": "2026-06-10 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.37%】億航跌23.54%，海天網路跌11.98%，金生遊樂跌9.49%，復朗集團跌8.45%，大全新能源跌7.64%。"
-    },
-    {
-      "id": "4926662",
-      "time": "2026-06-10 03:59:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林常駐聯合國代表稱，伊朗針對海灣國家的襲擊行為威脅地區安全，並呼籲伊朗緩和局勢。"
-    },
-    {
-      "id": "4926661",
-      "time": "2026-06-10 03:59:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，該國並非蓄意襲擊美軍直升機。"
-    },
-    {
-      "id": "4926660",
-      "time": "2026-06-10 03:58:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "KALSHI計劃要求使用者披露工作單位方可進行特定交易。"
-    },
-    {
-      "id": "mkt:019eadf6-a924-7225-91aa-e40f6b9e0fb6",
-      "time": "2026-06-10 03:58:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Iran deputy foreign minister: IAEA must not be used to whitewash military aggression】Al Jazeera reported Iran’s deputy foreign minister for legal and international affairs, Gharibabadi, called a US-drafted IAEA board resolution — which seeks Iran’s explanation for recent bombings of nuclear sites and the disposition of enriched uranium stored there — an attempt to whitewash the attackers’ responsibility. He said IAEA inspectors have left Iran after strikes by Israel and the US, accused those strikes of undermining nuclear safety and verification of safeguarded facilities, and warned the board must not be used to shift the cost of military aggression onto the victim."
     }
   ]
 }
