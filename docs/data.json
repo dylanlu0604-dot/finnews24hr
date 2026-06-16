@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-16 13:38:36",
-  "count": 18318,
+  "updated": "2026-06-16 13:42:47",
+  "count": 18315,
   "items": [
+    {
+      "id": "4937800",
+      "time": "2026-06-16 13:41:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國部長：泰國石油基金赤字將因美伊協議而緩解。"
+    },
+    {
+      "id": "4937799",
+      "time": "2026-06-16 13:41:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平同緬甸總統敏昂萊會談】6月16日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的緬甸總統敏昂萊舉行會談。習近平指出，中緬胞波情誼深厚，建交76年來，始終風雨同舟、守望相助，共同倡導並踐行和平共處五項原則，樹立了國與國平等相待、互利共贏的典範。中國秉持親誠惠容理念，將發展對緬關係置於周邊外交重要位置。中國堅持不干涉內政原則，對緬友好政策面向緬甸全體人民，堅定支援緬方維護主權和領土完整，支援緬甸新政府統籌發展和安全，找到符合國情、人民擁護的正確發展道路。今年是中國“十五五”開局之年，中方願同緬方分享發展經驗，共同打造政治上友好互信、發展上互利互惠、安全上協調互促、人文上交融互鑑的中緬命運共同體，為兩國人民帶來更多福祉，為地區和平與發展作出更多貢獻。習近平強調，中國是緬甸共享邊界最長的鄰居，是可以信賴的朋友和夥伴。面對變亂交織的國際形勢，雙方要保持戰略清醒和定力，加強團結協作。中緬經濟走廊是兩國共建“一帶一路”的旗艦專案，雙方要在確保安全前提下，穩步推進重點專案建設，助力緬甸發展經濟、改善民生。中方願加力支援緬甸震後重建，落實更多“小而美”援助，共同講好中緬互利合作故事。雙方要持續嚴打網賭電詐、毒品走私等犯罪活動，切實維護兩國人民利益和安全。中方支援緬甸各方透過和談推進和平和解，實現緬北長治久安，這符合緬甸國家和人民的根本和長遠利益。（新華社）"
+    },
+    {
+      "id": "mkt:019ecef1-b10b-7dd8-b021-25e94f1a8098",
+      "time": "2026-06-16 13:40:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said demand needs to slow for inf to fall."
+    },
+    {
+      "id": "4937798",
+      "time": "2026-06-16 13:39:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳儲行行長布洛克：需求需要放緩才能降低通脹。"
+    },
+    {
+      "id": "mkt:019ecef1-37ea-7dd8-b021-1b0bc8f38e6f",
+      "time": "2026-06-16 13:39:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the bank is not forecasting an economic contraction this quarter."
+    },
+    {
+      "id": "mkt:019ecef1-0fc1-7dd8-b021-16038c91d346",
+      "time": "2026-06-16 13:39:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moscow mayor says a refinery was damaged in a Ukrainian drone strike."
+    },
+    {
+      "id": "4937797",
+      "time": "2026-06-16 13:38:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科市長稱，莫斯科煉油廠遭無人機襲擊受損。"
+    },
+    {
+      "id": "4937796",
+      "time": "2026-06-16 13:38:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：如果油價穩定下來，將有助於確保消費者物價指數不會受到刺激。"
+    },
     {
       "id": "4937795",
       "time": "2026-06-16 13:37:16",
@@ -35,6 +104,15 @@
         "其他"
       ],
       "text": "臺灣證交所加權股價指數收高0.9%報45,809.19。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202606163772892093",
+      "time": "2026-06-16 13:35:18",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "澳洲聯儲主席布洛克表示，今天的決議沒有排除進一步緊縮的可能性。"
     },
     {
       "id": "4937792",
@@ -168433,121 +168511,6 @@
         "其他"
       ],
       "text": "【滴滴宣佈接入微信AI生態，未來可直接喚起快車、專車、特惠等服務】隨著微信正式面向開發者提供AI生態接入能力，滴滴作為首批合作伙伴，已與微信團隊合作將核心網約車服務融入微信AI Agent。未來，使用者透過微信內AI互動，即可直接喚起滴滴快車、專車、特惠等服務。（新浪科技）"
-    },
-    {
-      "id": "4925274",
-      "time": "2026-06-09 13:42:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1665億元。"
-    },
-    {
-      "id": "4925273",
-      "time": "2026-06-09 13:42:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甬矽電子等在寧波新設智創創投合夥企業】企查查APP顯示，近日，甬聯智創（寧波）創業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由甬矽電子等共同出資。"
-    },
-    {
-      "id": "4925272",
-      "time": "2026-06-09 13:42:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃蘭特董明：新一輪融資和IPO計劃尚未決策】沃蘭特航空創始人、CEO董明日前接受證券時報記者採訪時表示，暫無明確的上市時間、地點和方案。經過多輪融資後，當前沃蘭特資金儲備充足，暫未確定下一輪融資計劃。"
-    },
-    {
-      "id": "mkt:019eaae6-e4c6-7eec-b849-a0fce3155c79",
-      "time": "2026-06-09 13:41:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "【Sources: BOJ weighing pause in JGB taper from next fiscal year, may lift short-term rate to 1% next week】Sources say the Bank of Japan is considering keeping its current JGB purchase volume unchanged from the next fiscal year rather than continuing scheduled reductions. Policy board views are split between members prioritizing market calm and those pushing steady tapering to shrink the central bank's balance sheet. At the June meeting the BOJ will review the current taper program (running through next March) and set policy for FY2027 and beyond. Four people familiar with the bank's thinking said, given progress in shrinking its balance sheet and upcoming bond maturities that will lower holdings, internal sentiment has shifted toward pausing further tapering. The BOJ could abandon its practice of an annual taper plan and adopt an open-ended framework committing to monthly purchases of JPY 2.1 tln. Markets expect the BOJ to raise the short-term policy rate from 0.75% to 1% at next week’s meeting."
-    },
-    {
-      "id": "mkt:019eaae6-663f-7eec-b849-9c320e4ae102",
-      "time": "2026-06-09 13:41:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix shares rose more than 15%."
-    },
-    {
-      "id": "4925271",
-      "time": "2026-06-09 13:41:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士漲超15%。"
-    },
-    {
-      "id": "4925270",
-      "time": "2026-06-09 13:41:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4370美元/盎司，日內漲0.15%。"
-    },
-    {
-      "id": "te:economy:557505",
-      "time": "2026-06-09 13:41:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Estonia Trade Deficit Widens in April — Estonia’s trade deficit widened to EUR 365 million in April 2026 from EUR 347 million in the same month last year. Exports climbed 13% year-on-year to EUR 1,786 million, boosted by higher sales to both EU countries (+16%) and non-EU countries (+17%). Exports rose for mineral products (+76%), raw materials and products of the chemical industry (+23%), machinery and mechanical appliances (+21%), miscellaneous manufactured articles (+15%), electrical equipment (+13%), and transport equipment (+11%). Imports jumped 12% to EUR 2,151 million on higher purchases from both EU (+11%) and non-EU (+10%) countries. Among commodities, notable increases were seen in mineral products (+69%), optical, measuring and precision instruments (+33%), machinery and mechanical appliances (+14%), and electrical equipment (+14%). Over the first four months of the year, the country recorded a trade shortfall of EUR 1,268 million, marginally higher than the EUR 1,259 million recorded in the same period of 2025."
-    },
-    {
-      "id": "mkt:019eaae6-3238-7eec-b849-95a6b9d70026",
-      "time": "2026-06-09 13:41:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 20-year bond yield fell 3.0 bps to 3.605%."
-    },
-    {
-      "id": "4925269",
-      "time": "2026-06-09 13:41:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【復星醫藥等在濟南成立新合夥企業 出資額7501萬】天眼查App顯示，近日，濟南市復惠星未來醫療投資管理合夥企業（有限合夥）成立，執行事務合夥人為上海復星平耀投資管理有限公司，出資額7501萬人民幣，經營範圍為以自有資金從事投資活動、企業管理、資訊諮詢服務。合夥人資訊顯示，該合夥企業由復星醫藥（600196）旗下蘇州君明致遠創業投資合夥企業（有限合夥）、濟南星未來創業投資基金合夥企業（有限合夥）、上海復星平耀投資管理有限公司共同出資。"
-    },
-    {
-      "id": "4925267",
-      "time": "2026-06-09 13:39:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼中央銀行：該協議還涵蓋透過管理政府在中央銀行的現金來確保銀行業和貨幣市場流動性充足的計劃。"
-    },
-    {
-      "id": "4925266",
-      "time": "2026-06-09 13:38:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行：該協議涵蓋透過市場機制提高印度儲備銀行和政府債券資產收益率的計劃。"
     }
   ]
 }
