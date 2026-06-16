@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-16 22:01:34",
-  "count": 18315,
+  "updated": "2026-06-16 22:05:37",
+  "count": 18316,
   "items": [
+    {
+      "id": "4938974",
+      "time": "2026-06-16 22:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府已通知北約盟國，美國將削減其劃撥至北約危機應對體系（北約部隊模式）的軍事裝備。作為配套舉措，美方正向歐洲盟國及加拿大施壓，要求其增派戰機、無人機、偵察平臺、空中加油機與海軍艦艇，填補由此產生的軍力缺口。"
+    },
+    {
+      "id": "te:markets:559380",
+      "time": "2026-06-16 22:04:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HSBC Holdings Stock Price Hits 22-year High — HSBC Holdings shares increased to 1417.00 GBp, the highest since May 2004. Over the past 4 weeks, HSBC Holdings gained 5.8%, and in the last 12 months, it increased 63.91%."
+    },
+    {
+      "id": "mkt:019ed0bf-7df4-7dd8-b033-968b3e97aba8",
+      "time": "2026-06-16 22:04:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Switzerland says US-Iran interim pact may be signed Friday at Burgenstock】Switzerland's government said on Tuesday an interim US-Iran agreement aimed at ending the Middle East war may be signed on Friday at the Burgenstock resort in central Switzerland. The Swiss foreign ministry said it has been in close contact with the US, Iran, Pakistan and Qatar on the draft memorandum of understanding, and that, at this stage, the signing ceremony is planned for June 19 (Friday) in Burgenstock, Nidwalden; the site was proposed by Pakistani and Qatari mediators and jointly by the US and Iran."
+    },
+    {
+      "id": "4938973",
+      "time": "2026-06-16 22:03:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "高知特與Rubrik擴大合作，助力企業掌控生產環境中的自主人工智慧。"
+    },
+    {
+      "id": "4938972",
+      "time": "2026-06-16 22:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "賽富時公司：面向Databricks的Data 360功能增強計劃於2026年下半年及以後推出。"
+    },
+    {
+      "id": "mkt:019ed0be-2395-7dd8-b033-88fc42727265",
+      "time": "2026-06-16 22:03:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) extended gains to 15%, lifting its market capitalization above Microsoft (MSFT.O) and making it the world's fourth-largest company by market value."
+    },
+    {
+      "id": "4938971",
+      "time": "2026-06-16 22:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時(CRM.N)：MuleSoft針對Databricks的代理掃描器及基礎資料360零複製功能今日正式全面上市。"
+    },
+    {
+      "id": "4938970",
+      "time": "2026-06-16 22:01:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "盛諾集團：最終發售價定為每股H股18.36港元。"
+    },
+    {
+      "id": "te:markets:559378",
+      "time": "2026-06-16 22:01:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on US-Iran Deal Optimism — The S&P/TSX Composite Index gained nearly 0.5% to trade above 35,000 on Tuesday amid optimism over a pending US-Iran peace deal. US President Donald Trump said at the G7 summit that negotiations with Iran had entered a second stage. Oil prices slid as markets weighed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, with RBC up more than 0.6%, TD Bank adding 0.5%, and BMO advancing nearly 1%. Higher gold prices boosted mining shares, with Agnico Eagle and WPM rising more than 1.5% and Barrick gaining over 1%. In contrast, lower oil prices weighed on energy stocks, with Canadian Natural shedding 1.5% and Suncor losing nearly 2%. Meanwhile, home sales rose 5.5% in May while home prices edged lower. Investors are awaiting the US Fed's policy decision on Wednesday, with markets widely expecting interest rates to remain unchanged."
+    },
+    {
+      "id": "4938969",
+      "time": "2026-06-16 22:01:38",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX市值超越微軟，成為全球第四大市值企業。"
+    },
+    {
+      "id": "4938968",
+      "time": "2026-06-16 22:01:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX股價繼續上漲至15%。"
+    },
     {
       "id": "mkt:019ed0bb-afea-7dd8-b033-809937cd4790",
       "time": "2026-06-16 22:00:21",
@@ -168620,103 +168723,6 @@
         "國際"
       ],
       "text": "歐盟外交與安全政策高階代表卡拉斯：在下一輪對俄羅斯制裁方案中需要發揮創造性。"
-    },
-    {
-      "id": "4926410",
-      "time": "2026-06-09 22:05:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "路勁基建：英屬維爾京群島法院將聆訊延期至不早於2026年6月8日起計12周後舉行。"
-    },
-    {
-      "id": "4926409",
-      "time": "2026-06-09 22:03:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "PAYONEER全球股價飆升，上漲16%。"
-    },
-    {
-      "id": "4926408",
-      "time": "2026-06-09 22:03:47",
-      "tags": [
-        "觀點"
-      ],
-      "text": "據市場訊息：摩根大通將在今年部署更強大的人工智慧代理。"
-    },
-    {
-      "id": "mkt:019eacb1-e81c-7332-b09b-930e74e5cd94",
-      "time": "2026-06-09 22:03:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "JPM.O",
-        "Impact bullish"
-      ],
-      "text": "CNBC reports JP Morgan will deploy more powerful AI agents this year."
-    },
-    {
-      "id": "mkt:019eacb1-aff5-7332-b09b-8a8788837ec8",
-      "time": "2026-06-09 22:03:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "US Energy Secretary Wright said vessel traffic through the Strait of Hormuz is rising very significantly."
-    },
-    {
-      "id": "4926407",
-      "time": "2026-06-09 22:02:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "閃迪(SNDK.US)股價漲近8%，美銀、瑞穗兩大投行大幅上調目標價。"
-    },
-    {
-      "id": "te:markets:557707",
-      "time": "2026-06-09 22:02:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Slips as Middle East Risks Ease and China Demand Falls — Brent fell more than 3% to around $91 per barrel on Tuesday after Israel and Iran agreed to halt attacks following a renewed escalation in hostilities. Israeli Prime Minister Benjamin Netanyahu said Israel would pause strikes but warned it would respond to any further attacks from Tehran, while Iranian media reported a similar position. President Donald Trump said this week that negotiations were entering the final stage and that a clearer outcome could emerge within days. He also said the US could declare “total victory” in the conflict within two weeks. Meanwhile, China’s crude imports dropped to around 7.8 million barrels per day last month, the lowest level in more than eight years and nearly 4 million barrels per day below the 2025 average. Weaker demand from the world’s largest oil importer, combined with record US exports and emergency reserve releases, has helped limit the price impact of the conflict. Oil remains above prewar levels but well below recent highs."
-    },
-    {
-      "id": "4926406",
-      "time": "2026-06-09 22:01:50",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國5月二手房銷量折年率升至417萬套；預估為407萬套。"
-    },
-    {
-      "id": "mkt:019eacb0-bf22-7339-9918-4e27271b8a7e",
-      "time": "2026-06-09 22:01:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold, after rising to an intraday high, reversed sharply and is trading at $4,332/oz."
-    },
-    {
-      "id": "4926405",
-      "time": "2026-06-09 22:01:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特表示，霍爾木茲海峽的船隻通行量正\"非常顯著地\"增長。"
     }
   ]
 }
