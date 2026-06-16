@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-17 04:04:56",
-  "count": 18425,
+  "updated": "2026-06-17 04:08:53",
+  "count": 18421,
   "items": [
+    {
+      "id": "4939324",
+      "time": "2026-06-17 04:07:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "SpaceX收漲4.77%，報201.68美元，收盤市值2.65萬億美元，超過亞馬遜、成為全球第五大上市公司。"
+    },
+    {
+      "id": "mkt:019ed20a-1148-7dd8-b039-dc76810f4e96",
+      "time": "2026-06-17 04:05:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks on Tuesday, June 16: Dow Jones Industrial Average closed up 331.17 points (+0.64%) at 52,002.20; S&P 500 closed down 42.86 points (-0.57%) at 7,511.43; Nasdaq Composite closed down 307.60 points (-1.15%) at 26,376.34."
+    },
     {
       "id": "mkt:019ed207-d5ef-7dd8-b039-d3767851a886",
       "time": "2026-06-17 04:03:09",
@@ -169437,71 +169462,6 @@
         "Dow"
       ],
       "text": "Citigroup CFO says US economy and consumers have shown resilience."
-    },
-    {
-      "id": "4926672",
-      "time": "2026-06-10 04:06:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "美光科技任命亞歷克西斯·布萊克·比約林進入董事會。"
-    },
-    {
-      "id": "mkt:019eadfd-effa-7225-91ab-07d191624d94",
-      "time": "2026-06-10 04:06:00",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities on Tuesday, June 9: Dow Jones Industrial Average closed up 86.04 points (+0.17%) at 50,872.05; S&P 500 closed down 19.20 points (-0.26%) at 7,386.53; Nasdaq Composite closed down 250.84 points (-0.97%) at 25,678.82."
-    },
-    {
-      "id": "te:markets:557772",
-      "time": "2026-06-10 04:05:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P 500 and Nasdaq Close Lower — The S&P 500 and Nasdaq closed 0.25% and 1% lower respectivelly on Tuesday despite a retreat in oil prices, as the recent rebound in semiconductor shares lost steam. Semiconductor stocks came under renewed pressure, with the iShares Semiconductor ETF dropping more than 3% after rallying 6% on Monday. The fund had plunged 10% on Friday, its worst single-day decline in six years, as investors worried that the AI-fueled surge in chip stocks had become overheated. Micron Technology fell nearly 5%, giving back part of Monday’s 10% recovery. The stock had already lost about 20% over two trading sessions last week, including a steep 13% decline on Friday. Broadcom, which also suffered a sharp two-day selloff last week, slipped more than 2%. In contrast, the Dow Jones gained 0.2% boosed by J&J, Visa and JP Morgan."
-    },
-    {
-      "id": "4926671",
-      "time": "2026-06-10 04:05:54",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團首席財務官表示，美國經濟與民眾消費展現出韌性。"
-    },
-    {
-      "id": "mkt:019eadfd-d8cd-7225-91aa-f979eeade6d2",
-      "time": "2026-06-10 04:05:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran denies deliberate strike on US military helicopter】Iran's deputy foreign minister told Al Jazeera the US Apache helicopter that crashed in the Strait of Hormuz yesterday was not deliberately targeted by Iran and Tehran denies responsibility, but he warned that, amid heightened regional tensions, such incidents could be \"intentionally provoked\"."
-    },
-    {
-      "id": "4926670",
-      "time": "2026-06-10 04:05:29",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "高盛在5月就業資料向好後，取消對美聯儲2026年降息的預判，將降息預期調整至2027年。"
     }
   ]
 }
