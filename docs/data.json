@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-17 01:19:19",
-  "count": 18393,
+  "updated": "2026-06-17 01:23:27",
+  "count": 18398,
   "items": [
+    {
+      "id": "mkt:019ed174-eb92-7dd8-b038-2565fa1cdc03",
+      "time": "2026-06-17 01:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said that after warning shots were fired, the yacht immediately changed course and continued to move away from the Russian warship."
+    },
+    {
+      "id": "4939236",
+      "time": "2026-06-17 01:22:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：警告性射擊後，該遊艇立即改變航向，繼續駛離俄羅斯軍艦。"
+    },
+    {
+      "id": "mkt:019ed174-9f46-7dd8-b038-1cbad711bf7a",
+      "time": "2026-06-17 01:22:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said a Russian frigate fired warning shots at a yacht that did not respond to signals."
+    },
+    {
+      "id": "mkt:019ed174-342e-7dd8-b038-1603060c37b9",
+      "time": "2026-06-17 01:21:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said on June 16 that the frigate Grigorovich, in the English Channel, encountered a yacht flying the British flag that approached on a dangerous route; the frigate made repeated attempts to contact the yacht but received no response."
+    },
+    {
+      "id": "4939235",
+      "time": "2026-06-17 01:21:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：護衛艦向未回應訊號的遊艇鳴槍示警。"
+    },
+    {
+      "id": "4939234",
+      "time": "2026-06-17 01:20:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總統塞西周二在法國出席G7峰會期間，敦促以色列放棄控制加沙地帶70%區域的計劃。"
+    },
+    {
+      "id": "4939233",
+      "time": "2026-06-17 01:20:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯護衛艦多次嘗試與該遊艇取得聯絡，但未獲回應。"
+    },
+    {
+      "id": "4939232",
+      "time": "2026-06-17 01:20:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：6月16日，俄羅斯護衛艦“格里戈羅維奇海軍上將”號在英吉利海峽發現一艘懸掛英國國旗的遊艇，該遊艇正以危險航向靠近這艘俄軍艦。"
+    },
+    {
+      "id": "4939231",
+      "time": "2026-06-17 01:19:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：我們已聯合澤連斯基告知特朗普，我方願意開啟和平談判，但談判必須在合適的契機下啟動。 俄方要求烏克蘭放棄頓巴斯現有控制區，這一點我們無法接受。"
+    },
     {
       "id": "mkt:019ed170-3738-7dd8-b038-0873c9602813",
       "time": "2026-06-17 01:17:32",
@@ -169222,44 +169296,6 @@
         "Impact bearish"
       ],
       "text": "【US officials say Iranian drone struck US helicopter that crashed; intent unconfirmed】Axios reports Trump said US forces have concluded Iran shot down the US helicopter that crashed in the Strait of Hormuz and he pledged a military response. A US official said investigators determined an Iranian drone struck the helicopter, but officials have not confirmed whether the strike was deliberate and the probe remains ongoing. The incident occurred amid US–Iran talks and one day after Trump helped broker a renewed Israel–Iran ceasefire. CENTCOM said two crew were rescued around 7:30 p.m. ET, roughly two hours after the crash near the Omani coast; the personnel were recovered after a prolonged search by a US Navy unmanned surface vessel, the first at-sea rescue by such a system."
-    },
-    {
-      "id": "4926601",
-      "time": "2026-06-10 01:23:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "據紐約時報： 美方認為伊朗將同意暫停鈾濃縮活動十五年。"
-    },
-    {
-      "id": "4926600",
-      "time": "2026-06-10 01:20:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "據紐約時報：美伊談判聚焦四大核議題。"
-    },
-    {
-      "id": "mkt:019ead66-2dc6-7225-91a9-a74203be4102",
-      "time": "2026-06-10 01:20:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O): ANTHROPIC's latest frontier model Claude Fable 5 is now available on Microsoft Foundry."
-    },
-    {
-      "id": "4926599",
-      "time": "2026-06-10 01:19:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Anthropic 最新前沿模型 Claude Fable 5 現已登陸微軟 Foundry 平臺。"
     }
   ]
 }
