@@ -1,7 +1,200 @@
 {
-  "updated": "2026-06-17 04:35:52",
-  "count": 18393,
+  "updated": "2026-06-17 04:39:51",
+  "count": 18402,
   "items": [
+    {
+      "id": "4939329",
+      "time": "2026-06-17 04:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西最高法院裁定愛德華多·博索納羅因尋求美國干預其父政變案審判罪名成立】巴西最高法院合議庭多數法官投票裁定，愛德華多·博索納羅（Eduardo Bolsonaro）因在其父親（前總統）的政變陰謀案審判期間尋求美國干預，罪名成立。該合議庭的四名法官中，已有三人投票裁定愛德華多·博索納羅罪名成立。合議庭中僅剩最後一名法官尚未進行投票。"
+    },
+    {
+      "id": "te:markets:559443",
+      "time": "2026-06-17 04:38:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazil Shares Fall Ahead of BCB Decision — The Ibovespa fell 0.4% to close at 169,648 on Tuesday as investors assessed fresh election polls and rising inflation expectations. A BTG/Nexus survey released on Monday showed President Lula holding a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation increased for the 14th consecutive week, prompting markets to reassess how long the BCB may keep interest rates elevated. Most sectors ended lower. Financial stocks traded mixed amid concerns that higher borrowing costs could weigh on lending activity, with Bradesco falling 0.7%. Petrobras also pressured the index, declining 1.3% as optimism surrounding a preliminary US-Iran peace agreement raised the prospect of the Strait of Hormuz remaining open."
+    },
+    {
+      "id": "mkt:019ed226-9549-7dd8-b03a-7227f09cbdb0",
+      "time": "2026-06-17 04:36:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API crude oil production change for week to June 12: -17,000 b/d, prior +262,000 b/d."
+    },
+    {
+      "id": "mkt:019ed226-6c08-7dd8-b03a-6ee6864badd8",
+      "time": "2026-06-17 04:36:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Jun.12) | actual -17000M | previous 262000M"
+    },
+    {
+      "id": "mkt:019ed226-5f89-7dd8-b03a-629d0a366204",
+      "time": "2026-06-17 04:36:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API petroleum product imports for week to June 12: -121,000 b/d, prior -51,000 b/d."
+    },
+    {
+      "id": "4939328",
+      "time": "2026-06-17 04:36:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "KBRA指數顯示，私人信用市場違約率創2023年3月份以來最高。"
+    },
+    {
+      "id": "mkt:019ed226-3e3f-7dd8-b03a-5eab79828e04",
+      "time": "2026-06-17 04:36:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API crude oil imports for the week ended June 12: -276,000 bbl; prior -358,000 bbl."
+    },
+    {
+      "id": "mkt:019ed226-3ccb-7dd8-b03a-54181f6b305f",
+      "time": "2026-06-17 04:36:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Jun.12) | actual -121000M | previous -51000M"
+    },
+    {
+      "id": "mkt:019ed226-1ec8-7dd8-b03a-4a1039d7e57f",
+      "time": "2026-06-17 04:36:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Jun.12) | actual -276000M | previous -358000M"
+    },
+    {
+      "id": "4939327",
+      "time": "2026-06-17 04:36:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至6月12日當週API原油庫存 -833萬桶，預期-451.5萬桶，前值-911.9萬桶。"
+    },
+    {
+      "id": "mkt:019ed225-f5b2-7dd8-b03a-47d9add0befe",
+      "time": "2026-06-17 04:36:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. heating oil inventories fell 125,000 barrels in the week to June 12, versus a 407,000‑barrel draw the prior week."
+    },
+    {
+      "id": "mkt:019ed225-db55-7dd8-b03a-3b7fb9b38a76",
+      "time": "2026-06-17 04:35:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US API Cushing crude stocks -1.523 mln barrels in week to June 12; prior -1.125 mln barrels."
+    },
+    {
+      "id": "mkt:019ed225-d8aa-7dd8-b03a-34fdfcb64a25",
+      "time": "2026-06-17 04:35:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Jun.12) | actual -125000M | previous -407000M"
+    },
+    {
+      "id": "mkt:019ed225-b72b-7dd8-b03a-2d20ff9a0079",
+      "time": "2026-06-17 04:35:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Jun.12) | actual -1523000M | previous -1125000M"
+    },
+    {
+      "id": "mkt:019ed225-b657-7dd8-b03a-25d1bda0199a",
+      "time": "2026-06-17 04:35:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API weekly refined-product inventories fell 461,000 barrels in the week to June 12, versus an expected decline of 198,000 barrels; prior was an increase of 1.316 million barrels."
+    },
+    {
+      "id": "mkt:019ed225-94eb-7dd8-b03a-1def6661d6dd",
+      "time": "2026-06-17 04:35:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API gasoline stocks rose 2.479 mln barrels in the week to June 12, versus an expected draw of 1.401 mln and a prior draw of 1.191 mln."
+    },
+    {
+      "id": "mkt:019ed225-8a1d-7dd8-b03a-1010af7cb8dc",
+      "time": "2026-06-17 04:35:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Jun.12) | actual -461000M | consensus -198000M | previous 1316000M"
+    },
+    {
+      "id": "mkt:019ed225-67bd-7dd8-b03a-0f6f04fe9d8a",
+      "time": "2026-06-17 04:35:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Jun.12) | actual 2479000M | consensus -1401000M | previous -1191000M"
+    },
     {
       "id": "mkt:019ed225-5106-7dd8-b03a-02ceefc5d2a4",
       "time": "2026-06-17 04:35:21",
@@ -169089,100 +169282,6 @@
         "國際"
       ],
       "text": "伊朗警告：若美方以阿帕奇直升機墜落為藉口重啟敵對行動，伊方將予以堅決回擊。"
-    },
-    {
-      "id": "mkt:019eae1a-74ec-7225-91ab-cddb68d696ef",
-      "time": "2026-06-10 04:36:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "US API weekly crude oil imports for the week ended June 5: 358,000 barrels, down from 543,000 barrels the prior week."
-    },
-    {
-      "id": "mkt:019eae1a-5eb0-7225-91ab-c18c0b4004ae",
-      "time": "2026-06-10 04:36:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: U.S. refinery crude runs rose 262,000 b/d in the week to June 5, prior increase 185,000 b/d."
-    },
-    {
-      "id": "mkt:019eae1a-49f3-7225-91ab-bbe24eca2fd1",
-      "time": "2026-06-10 04:36:48",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Imports Change (Jun.5) | actual -358000M | previous 543000M"
-    },
-    {
-      "id": "mkt:019eae1a-2bf5-7225-91ab-b0e5563b0f20",
-      "time": "2026-06-10 04:36:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Runs (Jun.5) | actual 262000M | previous 185000M"
-    },
-    {
-      "id": "4926691",
-      "time": "2026-06-10 04:36:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官方媒體援引軍方訊息人士稱，過去24小時內霍爾木茲海峽未進行任何進攻性空中軍事行動。"
-    },
-    {
-      "id": "mkt:019eae1a-287e-7225-91ab-ac5ae98ff68b",
-      "time": "2026-06-10 04:36:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US API product imports for week to June 5: -51,000 b/d; prior 334,000 b/d."
-    },
-    {
-      "id": "mkt:019eae19-dbe5-7225-91ab-a6302e908e9b",
-      "time": "2026-06-10 04:36:22",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Petroleum Products Imports Change (Jun.5) | actual -51000M | previous 334000M"
-    },
-    {
-      "id": "mkt:019eae19-a24d-7225-91ab-9b4bc2e9556d",
-      "time": "2026-06-10 04:36:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US heating oil inventories (API) week to Jun 5: -407,000 barrels; prior +498,000 barrels."
-    },
-    {
-      "id": "mkt:019eae19-9b00-7225-91ab-9581fe6131e6",
-      "time": "2026-06-10 04:35:56",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Heating Oil Stocks Change (Jun.5) | actual -407000M | previous 498000M"
     }
   ]
 }
