@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-17 02:32:31",
-  "count": 18430,
+  "updated": "2026-06-17 02:36:24",
+  "count": 18429,
   "items": [
+    {
+      "id": "4939283",
+      "time": "2026-06-17 02:32:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部表示，如果以色列不停止對黎巴嫩南部的進攻，伊朗武裝部隊將對其作出強硬回應。"
+    },
     {
       "id": "4939282",
       "time": "2026-06-17 02:31:14",
@@ -169514,30 +169523,6 @@
         "其他"
       ],
       "text": "【超160艘油輪滯留波斯灣 海事組織警告勿涉險闖關】據英國《勞埃德船舶日報》9日報道，自2月底地區衝突爆發以來，仍有超160艘主流油輪滯留波斯灣水域，時間已超100天。國際海事組織秘書長多明格斯當天警告，不能為了商業利益讓海員冒險透過霍爾木茲海峽。《勞埃德船舶日報》說，儘管戰事初期位於波斯灣的約四分之一油輪已陸續駛離，但近期駛離進度明顯放緩。霍爾木茲海峽附近區域安全風險仍居高不下，多數船東繼續保持高度謹慎態度，不願貿然安排船舶透過相關海域。（新華社）"
-    },
-    {
-      "id": "mkt:019eada9-d7a8-7225-91aa-3ce3a9bcbe0d",
-      "time": "2026-06-10 02:34:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "US stocks recovered intraday; the Dow turned positive first as the S&P 500's decline narrowed to 0.5% and the Nasdaq's to 1.2%."
-    },
-    {
-      "id": "mkt:019eada8-cb4b-7225-91aa-321e2d2547af",
-      "time": "2026-06-10 02:32:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Google (GOOG.O) is providing backstop support for Anthropic’s $35 billion chip deal. With Google’s assistance, Anthropic will lease chips at five data centers."
     }
   ]
 }
