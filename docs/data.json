@@ -1,7 +1,149 @@
 {
-  "updated": "2026-06-16 10:09:15",
+  "updated": "2026-06-16 10:13:14",
   "count": 18282,
   "items": [
+    {
+      "id": "te:economy:559183",
+      "time": "2026-06-16 10:12:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "China Jobless Rate Hits 5-Month Low — China's surveyed urban unemployment rate edged lower to 5.1% in May 2026, compared with both market expectations and the previous month's 5.2%. It marked the lowest reading since December 2025. Among the locally registered labor force, the unemployment rate edged down to 5.2% from 5.3% in April, while the rate for the migrant labor force slipped to 4.9% from 5%. Within the migrant workforce, those holding agricultural household registration recorded an unemployment rate that edged lower to 4.9% from 5%. Across 31 major cities, the surveyed urban unemployment rate also eased to 5.1% in May 2026 from 5.2% in the previous month. Meanwhile, enterprise employees nationwide worked an average of 48.2 hours per week. For the January–May period, the average surveyed urban unemployment rate stood at 5.2%."
+    },
+    {
+      "id": "4937522",
+      "time": "2026-06-16 10:12:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧省瀋陽市人大常委會副主任曹鵬接受審查調查】據遼寧省紀委監委訊息：遼寧省瀋陽市人大常委會黨組成員、副主任，市總工會黨組書記、主席曹鵬涉嫌嚴重違紀違法，目前正接受遼寧省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4937521",
+      "time": "2026-06-16 10:12:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內跌5%，現報36275.00元。"
+    },
+    {
+      "id": "4937520",
+      "time": "2026-06-16 10:12:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MiniMax M3接入支付寶Token Pay】MiniMax最新大模型M3，全面接入支付寶TokenPay，使用者透過支付寶AI付，將在MiniMax Agent提供的Mix Claw服務中說句話即可完成應用內結賬。MiniMax是全球首批將Token Pay支付能力融入核心訂閱體系的大模型廠商，這也標誌著，由支付寶釋出的國內首個面向MaaS（模型即服務）支付解決方案投入規模化應用。據悉，MiniMax還將於近日全線接入支付寶全棧AI支付產品。"
+    },
+    {
+      "id": "4937519",
+      "time": "2026-06-16 10:11:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【年內翻倍基達26只 金梓才、張明昕包攬業績前八】昨日科技股大漲，帶動多隻主動權益基金實現業績突破。Choice資料顯示，截至6月15日，今年以來收益超100%的基金數量已達26只。其中，金梓才管理的財通福鑫定開混合的年內收益為150.10%，在全部主動權益基金中排名第一，業績第二名至第五名也均為金梓才所管產品。張明昕管理的華商均衡成長混合A和華商致遠回報混合A的今年以來回報分別為123.66%和117.89%，分列主動權益基金年內回報第七和第八。此外，廣發基金唐曉斌、平安基金俞瑤和要文強、宏利基金孫碩、華泰柏瑞基金陳文凱、方正富邦基金吳昊等基金經理旗下也有產品實現年內回報超100%。"
+    },
+    {
+      "id": "mkt:019ece32-cc88-7dd8-b01b-97560eda269d",
+      "time": "2026-06-16 10:11:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Bosera Fund's Tang Yibing: STAR Market earnings entering acceleration】Bosera Fund manager Tang Yibing said the STAR Market is positioned as \"hard tech\", targeting high‑tech and strategic emerging companies that deliver national development objectives and breakthroughs in core technologies. He said A‑share Q1 corporate earnings overall beat expectations and, structurally, growth sectors led by the STAR Market are entering an acceleration phase. With China accelerating construction of a new power system, Tang said competition in the energy‑storage industry is likely to shift from single‑device contests to integrated capabilities—hardware, software and operations—and that digitalization in B2B energy‑storage applications offers broad commercial prospects."
+    },
+    {
+      "id": "mkt:019ece32-a315-7dd8-b01b-8c0cf67ad95d",
+      "time": "2026-06-16 10:11:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "300059.SZ",
+        "Impact bullish",
+        "000300.SS",
+        "000001.SS"
+      ],
+      "text": "China A-share securities sector jumped; Jinlong Co. hit the daily limit, Bank of China Securities rose over 5%, with Guosheng Securities, East Money and GF Securities also advancing."
+    },
+    {
+      "id": "4937518",
+      "time": "2026-06-16 10:11:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【火山引擎釋出Seedance 2.0 mini API將於近期上線】據悉，火山引擎旗下火山方舟體驗中心上線 Seedance 2.0 mini 影片生成模型，並將於近期上線 API 服務。價格梯度為，Seedance 2.0 mini 圖生影片定價為 0.023 元/千 tokens，影片生影片定價為 0.014 元/千 tokens。按 720P 規格折算，Seedance 2.0 mini 單秒生成成本約為 0.5 元，相較 Seedance 2.0 的生成成本降低約 50%。目前Seedance 2.0 mini適用於電商內容生產、營銷素材批次生成、UGC 內容創作、特效玩法生成等高頻、規模化影片生成場景。 (科創板日報)"
+    },
+    {
+      "id": "4937517",
+      "time": "2026-06-16 10:10:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "券商股異動拉昇，錦龍股份觸及漲停，中銀證券漲超5%，國盛證券、東方財富、廣發證券跟漲。"
+    },
+    {
+      "id": "4937516",
+      "time": "2026-06-16 10:10:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.01%，成分股中，戈碧迦漲6.29%，民士達漲4.70%，富士達漲3.25%，則成電子漲2.80%。"
+    },
+    {
+      "id": "4937515",
+      "time": "2026-06-16 10:09:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股文遠知行-W(00800.HK)盤中一度漲超20%，現收窄至15.5%；訊息面上，日前文遠知行正在嘗試分拆其Robovan（自動駕駛貨運車）業務進行獨立融資，該業務估值已達4億美元。"
+    },
+    {
+      "id": "mkt:019ece30-b479-7dd8-b01b-81c78a8f4855",
+      "time": "2026-06-16 10:09:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00800.HK",
+        "Impact bullish"
+      ],
+      "text": "CHINA'S WERIDE-W (00800.HK) rose more than 20% intraday, now up 15.5%, after reports it is seeking to spin off its Robovan autonomous freight-vehicle unit for separate financing; the unit is valued at about $400m."
+    },
+    {
+      "id": "4937514",
+      "time": "2026-06-16 10:09:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "te:markets:559182",
+      "time": "2026-06-16 10:09:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Retreat From Two-Day Rally — The Hang Seng Index fell 250 points, or 1.0%, to 24,590 on Tuesday, snapping a two-session rally as investors locked in recent gains following the market's strong advance at the start of the week. Sentiment was also subdued ahead of key Chinese economic data releases, including industrial production, retail sales, house prices and the unemployment figures, which could offer fresh insights into the strength of the country's economic recovery. Meanwhile, weakness in finance and technology stocks added pressure to the benchmark, with both sectors pulling back after leading gains in the previous session. Knowledge Atlas fell to 2.9% as investors took profits following its nearly 33% surge in the previous session. Among notable laggards included Tencent Holdings (-1.4%), Semiconductor Manufacturing International Corporation (-0.4%), AIA (-1.0%), MMG (-10.3%), and China Hongqiao Group (-4.0%)."
+    },
     {
       "id": "mkt:019ece30-2ab7-7dd8-b01b-7c09aa2d7f26",
       "time": "2026-06-16 10:08:43",
@@ -168023,135 +168165,6 @@
         "AI Revolution"
       ],
       "text": "【xAI seconded SpaceX Starlink engineer to lead Grok training】An internal memo shows Elon Musk's xAI has seconded Jack Garabedian from SpaceX’s Starlink unit to lead model training for the Grok chatbot, replacing engineer Diego Pasini. Garabedian, a Starlink engineer at SpaceX since 2021, will head the 'human data team' of several hundred specialists training Grok across domains including finance and science. Pasini and Garabedian did not respond to requests for comment; SpaceX and xAI representatives also did not reply."
-    },
-    {
-      "id": "mkt:019eaa2f-4707-7997-8099-b6a91bfa85b7",
-      "time": "2026-06-09 10:13:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hainan targets 50 billion yuan commercial space revenue by 2030】Hainan provincial government issued its '15th Five‑Year' high‑tech industry development plan, making support for China’s 'space‑power' strategy a core objective. The plan accelerates construction of commercial launch sites to seed a full‑chain industry cluster covering commercial launches, launch‑vehicle and satellite manufacturing and satellite applications, and aims to build rocket, satellite and data chains plus a 'space+' industry system, targeting 50 billion yuan in commercial space revenue by 2030."
-    },
-    {
-      "id": "4925014",
-      "time": "2026-06-09 10:12:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省發展和改革委員會原副主任彭顯華接受審查調查】據貴州省紀委監委訊息：貴州省發展和改革委員會原黨組成員、副主任、一級巡視員，省糧食和物資儲備局原黨組書記、局長彭顯華涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019eaa27-6f22-7997-8099-a5ea0f9885da",
-      "time": "2026-06-09 10:12:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Mineral Resources chairman meets Zimbabwe mines minister】Wang Pingwei, chairman and CEO of China Mineral Resources Group Co., Ltd., met with Zimbabwe’s mines minister to discuss progress and future plans for the company’s projects in Zimbabwe and bilateral mining cooperation; both sides said they reached broad agreement."
-    },
-    {
-      "id": "4925013",
-      "time": "2026-06-09 10:12:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月汽車銷量前十已無燃油車】燃油車在剛剛過去的5月徹底退出了乘用車零售銷量前十的舞臺。 懂車帝釋出的5月乘用車零售銷量排行榜顯示，排名前十的車型全部為新能源車。 排名第一的是微型電動車星願，月銷38751輛；特斯拉Model Y以28911輛位居第二；小米SU7、零跑A10、理想i6分列第三至第五位。前十榜單中，純電、增程、插混各佔一席之地，唯獨不見燃油車的身影。 而在一個月前的4月，前十榜單中還有吉利繽越這一款燃油車“獨苗”；3月則有5款燃油車入圍；今年1月這一數字為7款。從佔據大半江山到徹底歸零，僅用了不到半年時間。（一財）"
-    },
-    {
-      "id": "mkt:019eaa27-218a-7997-8099-9ee2248b4894",
-      "time": "2026-06-09 10:12:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hainan aims for high‑tech value‑added to reach about 20% of GDP by 2030】Hainan provincial government office issued the province’s \"15th Five-Year\" high‑tech industry development plan, targeting by 2030 high‑tech industry value‑added at about 20% of GDP and industry revenues above 1 tln yuan. The plan seeks core digital-economy value‑added near 9% of GDP and calls for substantial output expansion in commercial space and deep‑sea technology sectors."
-    },
-    {
-      "id": "4925012",
-      "time": "2026-06-09 10:12:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1207億元。"
-    },
-    {
-      "id": "4925011",
-      "time": "2026-06-09 10:12:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南：力爭到2030年全省高新技術產業增加值佔GDP比重達20%左右】海南省人民政府辦公廳印發《海南省“十五五”高新技術產業發展規劃》，其中提到，力爭到2030年全省高新技術產業增加值佔GDP比重達20%左右，營收規模突破1萬億元。其中，數字經濟核心產業增加值佔GDP比重達9%左右，商業航天、深海科技等領域實現產值規模大幅提升。"
-    },
-    {
-      "id": "mkt:019eaa26-9830-7997-8099-957d76987cf5",
-      "time": "2026-06-09 10:11:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【PCB sector rallies as compute-driven demand lifts electronic-cloth prices】China A-share PCB sector rallied; Tongyu New Materials hit the daily limit, with Shengquan Group, Hongchang Electronics and Jin'an Guoji also limit-up. Aike Optoelectronics rose over 9%, while Jiangnan New Materials, Nanya New Materials and Defu Technology gained. Market sources say a surge in computing-power demand has driven electronic-cloth prices sharply higher: as of early June commonly used specifications have seen five rounds of price increases year-to-date, average price about 7.4 yuan/m, roughly 100% above last year’s Q3 trough."
-    },
-    {
-      "id": "4925010",
-      "time": "2026-06-09 10:11:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元跌至18170。"
-    },
-    {
-      "id": "4925009",
-      "time": "2026-06-09 10:10:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【麥格米特股價創歷史新高】麥格米特盤中股價創歷史新高，現漲9.79%，報163.59元，總市值為933.05億元。"
-    },
-    {
-      "id": "4925008",
-      "time": "2026-06-09 10:10:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元走強，一度觸及1514.50，"
-    },
-    {
-      "id": "4925007",
-      "time": "2026-06-09 10:10:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中礦資源集團董事長王平衛拜會辛巴威礦業部長】據中礦資源訊息，中礦資源集團股份有限公司董事長、總裁王平衛近日拜會了辛巴威礦業部長波萊特·坎巴穆拉。雙方就中礦資源在津專案進展、未來發展規劃及雙邊礦業合作等議題進行了深入交流。"
-    },
-    {
-      "id": "te:markets:557431",
-      "time": "2026-06-09 10:09:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Stays at 2-Month Low — The Australian dollar rose above $0.705, but stayed at a two-month low as investors assessed easing Middle East tensions while persistent cost-of-living pressures weighed on domestic sentiment. Household confidence deteriorated further into deep pessimism, with the Westpac–Melbourne Institute Consumer Sentiment Index falling about 3% to 80.6 in June, marking the fourth decline this year and among the weakest in decades. Households reported ongoing strain from elevated living costs, while a temporary fuel tax cut offered only limited and short-lived relief. Against this backdrop, investors are turning their attention to the upcoming policy decision from the Reserve Bank of Australia next week, where rates are widely expected to be held steady. Meanwhile, global risk sentiment got a minor lift after Iran and Israel announced a halt in fighting. However, the safe-haven US dollar remained stronger amid uncertainty over a US-Iran peace deal and hawkish Fed bets after a robust US jobs data."
-    },
-    {
-      "id": "4925006",
-      "time": "2026-06-09 10:09:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【公交板塊再度拉昇，大眾交通觸及漲停】公交板塊再度拉昇，大眾交通觸及漲停，錦江線上、申通地鐵、富臨運業、海汽集團、江西長運等跟漲。"
     }
   ]
 }
