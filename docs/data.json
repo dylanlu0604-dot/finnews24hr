@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-16 12:46:30",
-  "count": 18334,
+  "updated": "2026-06-16 12:50:34",
+  "count": 18328,
   "items": [
+    {
+      "id": "mkt:019ecec3-b93a-7dd8-b020-25eaa887437a",
+      "time": "2026-06-16 12:49:53",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Analyst: Watch BOJ press conference; possible MOF intervention on weak yen】Tohru Sasaki, chief strategist at Fukuoka Financial Group and former BOJ official, said markets were surprised by a slight reduction in JGB purchase size for the period after April next year—markets had expected no change—and that the BOJ then held volumes steady. He said focus should be on how BOJ Deputy Governor Uchida frames future policy at the press conference; Uchida is unlikely to signal any major shift and markets may interpret his remarks as dovish. Sasaki warned the Finance Ministry could intervene if the yen stays weak, including on the day of a BOJ rate hike. He added Governor Ueda’s health is a key variable: if Ueda were replaced for health reasons, the successor would likely be dovish."
+    },
+    {
+      "id": "4937747",
+      "time": "2026-06-16 12:47:41",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【網約車應用Go掛牌首日大漲，創日本年內最大規模IPO】週二，網約車應用Go Inc.的股票在東京掛牌首日大漲，這是日本今年迄今為止規模最大的首次公開募股(IPO)。這突顯出在日本國內股市持續上漲之際，投資者對新上市股票的需求強勁。Go在IPO中募資886億日元（相當於5.526億美元）。在早盤交易中，該股較2,400日元的發行價一度大漲23%，隨後回吐部分漲幅。午盤休息後，該股最新上漲8.8%。這家計程車公司得到了高盛和日本電信巨頭NTT Docomo關聯投資工具的支援。該公司表示，貝萊德、Wellington Management Company和M&G Investment Management已承諾按發行價認購股份。Go計劃將淨募資所得用於為其無人駕駛計程車業務的研發提供資金，並支援擴張計劃，包括在計程車和網約車行業內外的併購。Go成立於1977年，最初是一家計程車運營商，現已發展成為日本最大的計程車叫車應用。"
+    },
+    {
+      "id": "4937746",
+      "time": "2026-06-16 12:46:34",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "【機構：澳洲聯儲可能已完成加息週期】據Barrenjoey Markets Pty Ltd稱，澳大利亞聯儲採取了不同尋常的做法，明確表達了其政策傾向，特別加入了“如有需要，仍可進一步提高現金利率”這一顯而易見的表述。 該機構首席利率策略師安德魯·利利（ Andrew Lilley,）表示：“我們認為央行已經完成加息週期，但他們希望將8月再次加息的可能性保留在考慮範圍內。”"
+    },
     {
       "id": "mkt:019ecebc-ad76-7dd8-b020-1f4e3eeee8b7",
       "time": "2026-06-16 12:42:12",
@@ -168622,88 +168653,6 @@
         "市場"
       ],
       "text": "聯發科股價上漲9.95%，報每股新臺幣4475元。"
-    },
-    {
-      "id": "mkt:019eaab7-3c57-7eec-b848-d818b01dfeb9",
-      "time": "2026-06-09 12:49:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said after a call with Israeli Prime Minister Netanyahu that they had a good conversation and that Netanyahu retaliated after being attacked, which Trump said he could not blame."
-    },
-    {
-      "id": "te:economy:557496",
-      "time": "2026-06-09 12:49:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Personal Spending",
-        "Importance 1"
-      ],
-      "text": "Dutch Household Spending Rises the Most in 6 Months — Household consumption in the Netherlands grew by 1% year-on-year in April 2026, following a 0.9% rise in the previous month. This marked the fastest growth since last October, driven largely by durable goods, which households purchased 4.9% more than a year earlier (vs 4.7% in March). Consumers primarily bought more cars, electrical appliances, and household furnishings. Households also consumed more food and beverages (0.9% vs -0.5%) and other goods, such as energy and personal care products (0.5% vs -1.4%). Meanwhile, expenditure on services, which accounts for more than half of total household consumption, edged down 0.1% (vs 0.4%), reflecting lower spending on accommodation and food services despite gains in transport and communication. Looking ahead, conditions for household spending appeared somewhat less unfavorable in May, supported largely by a stronger year-on-year increase in share prices."
-    },
-    {
-      "id": "4925204",
-      "time": "2026-06-09 12:49:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國基準股票指數上漲至多1.4%，報1583.30點。"
-    },
-    {
-      "id": "4925203",
-      "time": "2026-06-09 12:49:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯泰蘭蒂斯集團表示，將在全球範圍內召回超過130萬輛Jeep品牌運動型多用途汽車（SUV）。"
-    },
-    {
-      "id": "mkt:019eaab6-506a-7eec-b848-d51189a67ae7",
-      "time": "2026-06-09 12:48:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Singapore's benchmark Straits Times Index rose more than 1%."
-    },
-    {
-      "id": "4925202",
-      "time": "2026-06-09 12:48:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡基準股指海峽時報指數漲幅一度達1.1%，報5017.57點。"
-    },
-    {
-      "id": "4925201",
-      "time": "2026-06-09 12:48:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指上漲5%，報5610.681點。"
-    },
-    {
-      "id": "4925200",
-      "time": "2026-06-09 12:48:13",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓股大漲8% 晶片板塊在AI相關拋售後反彈】儲存晶片製造商股票引領韓國股市反彈，表明投資者尚未完全放棄人工智慧熱潮。韓國綜合股價指數盤中一度大漲8%。此前該指數連續三日下跌，較歷史高點累計回落15%。三星電子股價最高反彈9.1%，SK海力士漲幅超14%。此前受人工智慧熱潮推動，該指數年內漲幅一度超100%，但這輪強勢行情在週一快速逆轉，市場觸發熔斷機制，交易一度短暫暫停。槓桿型交易所交易基金放大了個股波動，進一步加劇了下跌。"
-    },
-    {
-      "id": "4925199",
-      "time": "2026-06-09 12:47:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普證實美軍直升機墜毀霍爾木茲】美國東部時間今天（6月9日）凌晨，美國總統特朗普向媒體證實，一架美軍直升機在霍爾木茲海峽墜毀，機組人員平安。特朗普稱，美方將於今天晚些時候就此事發布報告。據《紐約時報》稍早前援引兩名知情人士訊息報道，美軍一架AH-64“阿帕奇”武裝直升機在霍爾木茲海峽附近墜毀，機上兩名機組人員安全獲救。報道稱，目前還不清楚這架直升機是被炮火擊落，還是發生機械故障或遇到了其他問題。"
     }
   ]
 }
