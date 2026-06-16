@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-16 21:15:23",
-  "count": 18314,
+  "updated": "2026-06-16 21:19:37",
+  "count": 18325,
   "items": [
+    {
+      "id": "4938894",
+      "time": "2026-06-16 21:18:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：食品、商品及服務業將受到間接影響。"
+    },
+    {
+      "id": "4938893",
+      "time": "2026-06-16 21:18:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "白俄羅斯 5 月工業產值同比增長 3%。"
+    },
+    {
+      "id": "4938892",
+      "time": "2026-06-16 21:17:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲理事會主席科斯塔：將於7月22日在布魯塞爾舉行歐盟-英國峰會。"
+    },
+    {
+      "id": "4938891",
+      "time": "2026-06-16 21:17:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SpaceX(SPCX.O)盤前漲幅收窄至不足3%，此前一度漲超10%。"
+    },
+    {
+      "id": "mkt:019ed094-060e-7dd8-b032-9b8799d3975a",
+      "time": "2026-06-16 21:17:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) pre-market gains narrowed to under 3% after an earlier surge of more than 10%."
+    },
+    {
+      "id": "4938890",
+      "time": "2026-06-16 21:16:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【埃博拉病毒病防控方案發布 明確密接者判定範圍】6月16日，國家疾病預防控制局釋出《埃博拉病毒病防控方案（2026年版）》。《方案》圍繞“早發現、早報告、早診斷、早隔離、早處置”原則，對埃博拉病毒病防範應對提出了具體要求，明確了病例發現報告、實驗室檢測、病例和密切接觸者管理、疫區來華人員健康監測等防控措施要求。（央視新聞）"
+    },
+    {
+      "id": "4938889",
+      "time": "2026-06-16 21:16:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：加息是一項 “簡單明確的決定”。"
+    },
+    {
+      "id": "mkt:019ed093-3b47-7dd8-b032-931b4e847554",
+      "time": "2026-06-16 21:16:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues Ebola prevention plan, clarifies close-contact definition】On June 16, China’s National Disease Control Bureau issued the Ebola Virus Disease Prevention and Control Plan (2026 edition), reiterating the principle of early detection, reporting, diagnosis, isolation and handling and setting specific requirements for case reporting, laboratory testing, management of cases and close contacts, and health monitoring of arrivals from Ebola-affected areas."
+    },
+    {
+      "id": "mkt:019ed093-2be9-7dd8-b032-8b9b72aa6571",
+      "time": "2026-06-16 21:16:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Rwanda Q1 GDP grew 10.0% YoY."
+    },
+    {
+      "id": "mkt:019ed093-1ab0-7dd8-b032-80512966abdc",
+      "time": "2026-06-16 21:16:01",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB chief economist Lane said the economy is resilient."
+    },
+    {
+      "id": "mkt:019ed093-0cc7-7dd8-b032-7e52d5a87c9c",
+      "time": "2026-06-16 21:15:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President COSTA said an EU-UK summit will be held in Brussels on July 22."
+    },
+    {
+      "id": "mkt:019ed093-0c00-7dd8-b032-759598b711e6",
+      "time": "2026-06-16 21:15:57",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB chief economist Lane said a rate hike is a clear-cut decision."
+    },
+    {
+      "id": "4938888",
+      "time": "2026-06-16 21:15:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：經濟具備韌性。"
+    },
+    {
+      "id": "mkt:019ed092-7f42-7dd8-b032-6af055399a39",
+      "time": "2026-06-16 21:15:22",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB chief economist LANE said inf pressures are clearly building."
+    },
+    {
+      "id": "4938887",
+      "time": "2026-06-16 21:15:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行首席經濟學家連恩：可見通脹壓力正在積聚。"
+    },
     {
       "id": "te:markets:559367",
       "time": "2026-06-16 21:14:12",
@@ -168681,42 +168825,6 @@
         "公司"
       ],
       "text": "【東安動力：AHT22航空專用混動變速器首臺樣機點火成功】據東安動力訊息，6月2日，哈爾濱東安汽車動力股份有限公司‌航空專用第二代AHT22混動變速器首臺樣機完成裝配併成功點火。目前，適配配套的轉子發動機產品迭代工作穩步推進，多家飛行器整機客戶已與東安動力開展深度技術對接，專案有望年內完成實機搭載驗證。"
-    },
-    {
-      "id": "4926327",
-      "time": "2026-06-09 21:18:47",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【法國外長：禁止以色列財長斯莫特里赫等人入境】據法新社、半島電視臺網站等媒體報道，法國外長巴羅9日在社交媒體發文透露，法國已禁止以色列極右翼政客、財政部長斯莫特里赫、4名定居者組織負責人以及21名暴力定居者入境法國。 (環球網)"
-    },
-    {
-      "id": "4926326",
-      "time": "2026-06-09 21:18:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "富國銀行策略師稱，日本在央行政策會議前不太可能干預日元匯率。"
-    },
-    {
-      "id": "mkt:019eac88-720d-7ddc-a5f4-c21b39600163",
-      "time": "2026-06-09 21:18:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Prime Minister MODI will visit France and Slovakia from June 13-18, the Indian government said."
-    },
-    {
-      "id": "4926325",
-      "time": "2026-06-09 21:18:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：印度總理莫迪將於6月13日至18日訪問法國和斯洛伐克。"
     }
   ]
 }
