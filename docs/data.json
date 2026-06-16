@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-16 14:28:02",
-  "count": 18314,
+  "updated": "2026-06-16 14:32:03",
+  "count": 18311,
   "items": [
+    {
+      "id": "mkt:019ecf20-e748-7dd8-b022-6fc713036f12",
+      "time": "2026-06-16 14:31:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Uchida, deputy governor of the Bank of Japan, said Japan's economy has moderately recovered, though some sectors are showing weakness."
+    },
+    {
+      "id": "mkt:019ecf20-5235-7dd8-b022-629f89095554",
+      "time": "2026-06-16 14:31:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China Maritime Safety Administration website: Shanwei Maritime Safety Administration issued a navigation warning that live-fire exercises will take place in parts of the South China Sea on June 17-18, daily 06:00-20:00 local time; entry to the designated areas is prohibited."
+    },
+    {
+      "id": "4937885",
+      "time": "2026-06-16 14:30:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數收盤價創歷史新高。"
+    },
+    {
+      "id": "4937884",
+      "time": "2026-06-16 14:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航旅縱橫：受大面積降雨影響，深圳寶安、廣州白雲、廈門高崎等超18個機場釋出天氣預警】航旅縱橫民航官方直銷平臺大資料顯示，受到大面積降雨影響，截至6月16日14時，深圳寶安國際機場、廣州白雲國際機場、湛江吳川國際機場、廈門高崎國際機場、揭陽潮汕國際機場等超18個機場釋出天氣預警，其中，深圳寶安國際機場、廣州白雲國際機場的延誤航班量居全國前列，建議旅客出行前密切關注航班動態，靈活調整出行計劃。"
+    },
+    {
+      "id": "4937883",
+      "time": "2026-06-16 14:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 南海海域實彈射擊】據中國海事局網站訊息，汕尾海事局釋出航行警告，6月17日至18日，每天6時至20時，南海部分海域進行實彈射擊，禁止進入。"
+    },
+    {
+      "id": "mkt:019ecf1e-d8ce-7dd8-b022-59da095ebda5",
+      "time": "2026-06-16 14:29:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "00857.HK",
+        "Impact bullish",
+        "00883.HK",
+        "00386.HK"
+      ],
+      "text": "【Lyon Securities: H2 oil likely to stay above $80; assigns OUTPERFORM to China's three oil majors】Lyon Securities said easing Middle East tensions pushed oil down to $85/bbl but, despite market expectations of a return to ~$70, damage to production facilities and infrastructure bottlenecks mean global supply is unlikely to recover to pre-conflict levels within 6–12 months. The bank now expects H2 oil to remain above $80/bbl (1H average $94). It forecasts Chinese oil producers will post their strongest earnings and cash flow in years, with PetroChina (00857.HK) and CNOOC (00883.HK) Q2 EPS seen rising about 50% YoY. Lyon views PetroChina and CNOOC as relatively defensive amid volatility given solid fundamentals and roughly 7% dividend yields. Lyon assigns OUTPERFORM to the three state oil majors, preferring PetroChina, then CNOOC, then Sinopec (00386.HK); price targets: PetroChina HK$12, CNOOC HK$36, Sinopec HK$4.9. The bank says CNOOC's removal from a US-related list could trigger re-rating, while Sinopec's Q2 profit may face headwinds."
+    },
+    {
+      "id": "4937882",
+      "time": "2026-06-16 14:29:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【瑞穗：日本央行暫停縮減購債規模不太可能造成重大市場影響】瑞穗證券經濟學家Yusuke Matsuo表示，日本央行暫停縮減國債購買規模的決定，不太可能對債券收益率造成持續的下行壓力。“日本央行將以合理的速度推進資產負債表縮減，這一事實沒有改變，“他說。日本央行週二決定，從2027年4月起，將其月度購債步伐維持在2萬億日圓。Matsuo說，在該央行不打算對該計劃進行進一步審查的背景下，預計購債規模將穩定在該水平。"
+    },
+    {
+      "id": "4937881",
+      "time": "2026-06-16 14:28:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【標普全球市場財智：日本央行預計將在12月再次加息】標普全球市場財智的Harumi Taguchi表示，預計日本央行將在12月再次加息，儘管美伊達成和平協議，但通脹壓力可能持續存在。該經濟學家表示，儘管油價因和平協議的訊息而回落，但能源供應鏈恢復正常仍需要時間。Taguchi表示：“對美國貨幣政策的持續不確定性以及日圓的持續疲軟，也可能增加價格壓力。“日圓兌美元最新報160.25左右。"
+    },
+    {
+      "id": "4937880",
+      "time": "2026-06-16 14:28:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內跌7%，現報35515.00元。"
+    },
+    {
+      "id": "4937879",
+      "time": "2026-06-16 14:27:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國輿論稱全球能源危機緩解仍需時間】美國方面15日訊息稱，全球能源危機恢復的速度，取決於航運企業對美伊諒解備忘錄是否可以維持並延期抱有多大的信心。雖然美伊諒解備忘錄使國際油價顯著下跌，但要實現大量的石油和天然氣輸送，仍需很長時間。訊息稱，當前考驗美伊協議的首要因素是，航運企業是否有足夠的信心派遣船隻透過霍爾木茲海峽；其次，是這些企業對霍爾木茲海峽開放時間的預期；另一個重要問題則是，海灣地區的石油和天然氣生產商是否有信心開始恢復生產。訊息還稱，受油輪運輸以及成品油加工和分銷等因素影響，能源價格不會在短時間內恢復到衝突前的水平。（央視新聞）"
+    },
     {
       "id": "4937878",
       "time": "2026-06-16 14:26:37",
@@ -168282,136 +168380,6 @@
         "Importance 1"
       ],
       "text": "ASX 200 Pares Losses at Finish — The ASX 200 edged down 21 points or 0.2% to end at 8,604 on Tuesday, down for the third session after fresh data showed Australia's consumer confidence fell in June following May's rise and marking its fourth decline this year amid lingering cost-of-living pressures. Separately, business sentiment in May improved but remained firmly negative, due to concerns over the impact of elevated borrowing costs. Still, local markets trimmed early declines after solid May trade data in top trading partner China, as exports hit a record high while imports accelerated. Meanwhile, the Reserve Bank of Australia will hold a policy meeting next week, with traders expecting a pause following three rate hikes since January. In the U.S., stock futures strengthened, following a rebound in chip stocks on Wall Street Monday. Among today's decliners were Lynas Rare Earths(-4.5%), Evolution Mining (-4.2%), Fortescue (-3.5%), and heavyweight BHP Group (-1.7%). Two of four big banks fell between 0.5% and 1%."
-    },
-    {
-      "id": "4925350",
-      "time": "2026-06-09 14:31:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼加息後，JCI指數漲幅收窄至3.8%。"
-    },
-    {
-      "id": "mkt:019eab14-797f-7ee8-a201-024855376e28",
-      "time": "2026-06-09 14:31:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【South Korea's KOSPI closes up 8%】South Korea's KOSPI closed up 612.51 points, +8.18%, at 8,096.92, after falling more than 8% yesterday. Japan's Nikkei 225 closed up 2.17%, led by electronics stocks."
-    },
-    {
-      "id": "4925349",
-      "time": "2026-06-09 14:31:28",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲2.17%，報65416.63點。韓國綜指收漲8.18%，報8096.92點。"
-    },
-    {
-      "id": "mkt:019eab13-cd39-7ee8-a200-fa8047c1c345",
-      "time": "2026-06-09 14:31:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Industrial Metals",
-        "002460.SZ",
-        "Impact bullish",
-        "LAC.O",
-        "ALB.O"
-      ],
-      "text": "China A-share energy metals sector rallied in the afternoon; Shengxin Lithium Energy hit the daily limit-up, while Yongshan Lithium, Rongjie, Yongxing Materials, Ganfeng Lithium, TTANQT LITHIUM and Zhongkuang Resources also rose."
-    },
-    {
-      "id": "4925348",
-      "time": "2026-06-09 14:30:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利福林兌歐元匯率在5月通脹資料低於預期後，從354.7跌至355.6。"
-    },
-    {
-      "id": "te:markets:557533",
-      "time": "2026-06-09 14:30:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 2.09% Higher — The Nikkei 225 Index gained 1335 points or 2.09 percent on Tuesday to close at 65360 points. Gains were led by Taiyo Yuden (18.33%), Panasonic (9.49%) and Tokyo Electron (9.29%)."
-    },
-    {
-      "id": "4925347",
-      "time": "2026-06-09 14:29:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【樂奇Rokid成為中央廣播電視總檯2026年美加墨世界盃轉播AI眼鏡獨家合作伙伴】樂奇Rokid成為中央廣播電視總檯2026年美加墨世界盃轉播AI眼鏡獨家合作伙伴。世界盃期間，球迷佩戴樂奇AI眼鏡，即可獲得賽程查詢、技術統計、隊伍陣容、球員資訊、比分預測、看球輔助等豐富內容和服務。"
-    },
-    {
-      "id": "4925346",
-      "time": "2026-06-09 14:29:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想集團(00992.HK)漲超5%。"
-    },
-    {
-      "id": "mkt:019eab12-4ccf-7ee8-a200-f2539384d6ab",
-      "time": "2026-06-09 14:29:23",
-      "tags": [
-        "MKT News",
-        "00992.HK",
-        "Impact bullish"
-      ],
-      "text": "Lenovo Group (00992.HK) shares rose over 5%."
-    },
-    {
-      "id": "4925345",
-      "time": "2026-06-09 14:28:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鋰礦概念震盪反彈 盛新鋰能漲停】午後鋰礦概念震盪反彈，盛新鋰能漲停，天華新能、國城礦業、永杉鋰業、融捷股份、贛鋒鋰業、永興材料跟漲。"
-    },
-    {
-      "id": "4925344",
-      "time": "2026-06-09 14:28:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬達商業轉讓泉州浦西萬達廣場】天眼查App顯示，近日，泉州浦西萬達廣場投資有限公司發生工商變更，原股東萬達商業旗下大連萬銳企業管理有限公司、大連萬達銳馳企業管理有限公司退出，新增上海安埡企業管理合夥企業（有限合夥）為全資股東，吳華卸任法定代表人，由宋敏接任。該公司成立於2010年5月，註冊資本約4.8億人民幣，經營範圍包括商鋪出租及管理、物業管理、房屋租賃服務等。"
-    },
-    {
-      "id": "4925343",
-      "time": "2026-06-09 14:28:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬達商業轉讓泉州浦西萬達廣場】天眼查App顯示，近日，泉州浦西萬達廣場投資有限公司發生工商變更，原股東萬達商業旗下大連萬銳企業管理有限公司、大連萬達銳馳企業管理有限公司退出，新增上海安埡企業管理合夥企業（有限合夥）為全資股東，吳華卸任法定代表人，由宋敏接任。該公司成立於2010年5月，註冊資本約4.8億人民幣，經營範圍包括商鋪出租及管理、物業管理、房屋租賃服務等。"
-    },
-    {
-      "id": "4925342",
-      "time": "2026-06-09 14:28:03",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【三星擬全面部署人工智慧，以重塑工作流程和企業文化】三星電子公司週二表示，將透過在其運營中全面整合人工智慧（AI），從根本上變革工作流程和企業文化，以爭取在人工智慧時代佔據領先地位，並抓住新的增長機遇。根據該計劃，三星旗下各子公司的執行長將直接領導管理創新，將人工智慧應用於八大核心業務職能。作為第一步，三星將於本月在其所有子公司正式推出外部生成式人工智慧服務，例如Gemini和ChatGPT。該公司表示，計劃將人工智慧不僅作為提升運營效率的工具，更將其作為推動根本性管理創新的關鍵驅動力。為支援這項計劃，三星將制定針對不同職能和組織需求的詳細操作指南，同時部署先進的安全系統來管理潛在風險。"
     }
   ]
 }
