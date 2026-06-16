@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-17 02:04:23",
-  "count": 18418,
+  "updated": "2026-06-17 02:08:25",
+  "count": 18425,
   "items": [
+    {
+      "id": "mkt:019ed19e-3bda-7dd8-b038-b65ea3e66d5e",
+      "time": "2026-06-17 02:07:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google begins rolling out Wear OS 7 to eligible Pixel Watch devices today; the update is intended to provide a reliable platform for all‑day everyday use."
+    },
+    {
+      "id": "mkt:019ed19d-0557-7dd8-b038-abb6509efe06",
+      "time": "2026-06-17 02:06:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google says its US digital health fund has increased to over $50 mln."
+    },
+    {
+      "id": "mkt:019ed19c-a8a8-7dd8-b038-a149e9ea41c6",
+      "time": "2026-06-17 02:06:05",
+      "tags": [
+        "MKT News",
+        "GOOGL.O"
+      ],
+      "text": "Google will extend Android parental-control features to all devices upgraded to Android 17."
+    },
+    {
+      "id": "mkt:019ed19b-b3e1-7dd8-b038-9bcfe2f95fab",
+      "time": "2026-06-17 02:05:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US cargo Dragon undocks from ISS, returns to Earth】SpaceX’s cargo Dragon undocked from the International Space Station on the 16th at 12:25 US Eastern Time (00:25 Beijing, 17th), carrying scientific experiment samples and supplies for return. It is scheduled to splash down off the coast of California at 05:08 US Pacific Time on the 17th (20:08 Beijing)."
+    },
+    {
+      "id": "4939266",
+      "time": "2026-06-17 02:05:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌：已將美國數字健康基金規模增至逾5000萬美元。"
+    },
+    {
+      "id": "4939265",
+      "time": "2026-06-17 02:04:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：將安卓家長控制功能擴充套件至所有升級至安卓17系統的安卓裝置。"
+    },
+    {
+      "id": "mkt:019ed19b-88a7-7dd8-b038-9624ee286739",
+      "time": "2026-06-17 02:04:51",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of France expects 2026 inf at 2.5% (previously 1.7%) and sees Q2 GDP flat after a contraction in Q1."
+    },
+    {
+      "id": "mkt:019ed19b-8871-7dd8-b038-8b3d56793e51",
+      "time": "2026-06-17 02:04:51",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of France cuts its 2026 GDP growth forecast to 0.5% from 0.9%."
+    },
     {
       "id": "4939264",
       "time": "2026-06-17 02:02:58",
@@ -169438,14 +169518,6 @@
         "Impact bullish"
       ],
       "text": "Google (GOOG.O) GEMINI launches AI-agent risk monitoring feature."
-    },
-    {
-      "id": "4926612",
-      "time": "2026-06-10 02:07:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌 Gemini 推出智慧體風險監測功能。"
     }
   ]
 }
