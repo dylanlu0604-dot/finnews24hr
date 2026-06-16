@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-16 13:50:54",
-  "count": 18328,
+  "updated": "2026-06-16 13:54:56",
+  "count": 18333,
   "items": [
+    {
+      "id": "4937822",
+      "time": "2026-06-16 13:53:57",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲行長布洛克：通脹活動與5月份的預測一致。"
+    },
+    {
+      "id": "4937821",
+      "time": "2026-06-16 13:53:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順絡電子成立新公司 含積體電路相關業務】企查查APP顯示，近日，珠海順絡電子有限公司成立，註冊資本5000萬元，經營範圍包含：電子元器件與機電元件裝置銷售；積體電路製造；積體電路銷售；電子專用裝置製造等。企查查股權穿透顯示，該公司由順絡電子全資持股。"
+    },
+    {
+      "id": "mkt:019ecefc-796f-7dd8-b021-7148fa26ae78",
+      "time": "2026-06-16 13:51:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said current oil prices are consistent with the bank's baseline forecast."
+    },
+    {
+      "id": "4937820",
+      "time": "2026-06-16 13:51:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：服務消費增勢良好 帶動消費提質升級】國家統計局今天釋出的資料顯示，1—5月份社會消費商品和服務零售總額增長2.8%，保持平穩增長，其中，服務消費增勢良好，帶動消費結構呈現新亮點。國家統計局新聞發言人表示，今年以來，各方面深入實施提振消費專項行動，創新消費場景，激發消費潛力，促進消費提質升級，我國商品和服務銷售規模總體繼續擴大。從5月當月看，商品零售額出現了一定下降，主要是受去年同期基數較高等因素影響。國家統計局新聞發言人付凌暉表示，對於消費的情況，要全面看待，不僅是商品消費，還有服務消費。1—5月份，服務零售額同比增長5.4%，這個速度持續高於商品零售額增速。這種變化是經濟發展規律所決定的，也是消費升級的重要體現。國家統計局新聞發言人表示，服務消費增勢良好，具體體現在，旅遊消費較快發展，文化體育賽事消費升溫，對消費的帶動不斷顯現。1—5月份，文體休閒服務類零售額同比增長超過10%。“五一”期間，全國舉辦營業性演出收入增長超過10%。與此同時，新型消費潛能釋放。網上消費、數字消費、綠色消費成為消費的新增長點。1—5月份，通訊資訊服務類零售額增長超過10%，可穿戴智慧裝置零售額大幅增長，限額以上單位中高能效等級家電零售額增長超過30%。付凌暉表示，居民消費的能力和意願還有待進一步增強，一些領域的市場供給還不能完全滿足消費升級的需要，對此要深入實施提振消費專項行動，多措並舉促進居民就業增收，不斷創新消費場景，最佳化消費環境，更好地釋放消費潛力，改善人民生活。"
+    },
+    {
+      "id": "mkt:019ecefb-a12e-7dd8-b021-6d66055700e0",
+      "time": "2026-06-16 13:50:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 40-year government bond yield rose 3.5 bps to 3.685%."
+    },
+    {
+      "id": "4937819",
+      "time": "2026-06-16 13:50:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金證股份：金證A8中標浙商銀行國產化債券交易系統專案】據金證股份訊息，近日，金證A8新一代投資交易系統中標浙商銀行國產化債券交易系統專案，現一期已平穩上線。浙商銀行與金證股份的本次合作主要聚焦於場內債券交易場景，助力浙商銀行實現現有交易所債券交易系統與管理平臺功能全量遷移，同時滿足國產信創化要求。"
+    },
+    {
+      "id": "4937818",
+      "time": "2026-06-16 13:50:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴克萊將保時捷評級從\"減持\"上調至\"中性\"。"
+    },
     {
       "id": "4937817",
       "time": "2026-06-16 13:50:05",
@@ -168581,24 +168642,6 @@
         "其他"
       ],
       "text": "沙烏地阿拉伯第一季度GDP同比增長3%。"
-    },
-    {
-      "id": "mkt:019eaaf1-eb21-7eec-b849-d23e1c7f14f1",
-      "time": "2026-06-09 13:54:01",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "South Korean won up 1% against the US dollar."
-    },
-    {
-      "id": "mkt:019eaaf0-b84f-7eec-b849-cfb16aa56f26",
-      "time": "2026-06-09 13:52:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UN issues third World Ocean Assessment, urges stronger cooperation to protect marine ecosystems】The United Nations’ third World Ocean Assessment says human and natural factors are increasingly stressing marine ecosystems and calls for translating scientific findings into concrete action and greater international cooperation to protect oceans. The report finds global ocean warming and sea level rise are accelerating: about 16% of the total increase in ocean heat content since 1955 occurred after 2018, with the Atlantic, southern Indian Ocean and South Pacific warming most markedly. Mean sea level rise accelerated from under 2 mm/yr before 2015 to 4.3 mm/yr in 2023, with tropical regions rising faster due to thermal expansion."
     }
   ]
 }
