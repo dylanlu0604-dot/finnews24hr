@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-16 10:29:08",
-  "count": 18292,
+  "updated": "2026-06-16 10:33:14",
+  "count": 18290,
   "items": [
+    {
+      "id": "mkt:019ece45-b219-7dd8-b01c-16ec62958530",
+      "time": "2026-06-16 10:32:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan raises Zhipu AI (02513.HK) PT to HKD1,400, reiterates overweight】JP Morgan raised its price target on Zhipu AI (02513.HK) to HKD1,400 from HKD950 and reiterated an overweight rating in a sector note on Chinese large AI models. The bank said monetization is shifting to enterprise workflows, API consumption, code generation and agents, and that investors will focus increasingly on model capability, task completion rates and pricing power. JP Morgan flagged Zhipu's pricing-power evidence—doubling API prices this year while maintaining volume growth—then raised its revenue forecasts for FY2026–FY2030 by 26–42% and cut its adjusted net-loss estimates."
+    },
+    {
+      "id": "4937545",
+      "time": "2026-06-16 10:32:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數跌0.1%，東證指數跌0.3%。"
+    },
+    {
+      "id": "4937544",
+      "time": "2026-06-16 10:31:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "騰訊港股下跌3%。"
+    },
+    {
+      "id": "4937543",
+      "time": "2026-06-16 10:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平舉行儀式歡迎緬甸總統敏昂萊訪華】6月16日上午，國家主席習近平在北京人民大會堂北大廳舉行儀式，歡迎緬甸總統敏昂萊訪華。應國家主席習近平邀請，緬甸總統敏昂萊於6月15日至19日對中國進行國事訪問。（央視新聞）"
+    },
+    {
+      "id": "4937542",
+      "time": "2026-06-16 10:30:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利預計原油產量將從 7 月中旬開始逐步恢復，到 9 月份將恢復 50% 的損失產量，到 12 月份將恢復 80%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202606163772716477",
+      "time": "2026-06-16 10:30:18",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：裝備製造業對工業生產的支撐作用比較明顯】國家統計局新聞發言人付凌暉6月16日在國新辦新聞釋出會上表示，裝備製造業對工業生產的支撐作用比較明顯，成為工業生產加快的重要支撐力量。5月份，裝備製造業增加值同比增長9.5%，對規模以上工業增加值增長貢獻率接近8成。"
+    },
+    {
+      "id": "4937541",
+      "time": "2026-06-16 10:30:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利預計第三季度布倫特原油均價為每桶 90 美元。"
+    },
+    {
+      "id": "4937540",
+      "time": "2026-06-16 10:28:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利因美伊達成和平協議將第四季度布倫特原油價格預期下調至每桶80美元。"
+    },
     {
       "id": "mkt:019ece42-362a-7dd8-b01c-0febc7a03e4f",
       "time": "2026-06-16 10:28:26",
@@ -168204,106 +168273,6 @@
         "市場"
       ],
       "text": "【最新一期儲蓄國債將於6月10日發售】6月起，電子式儲蓄國債正式納入個人養老金產品範圍，這也意味著，加入了個人養老金制度的市民，可以在賬戶裡直接購買電子式儲蓄國債。根據發行安排，6月最新一期儲蓄國債將於6月10日發售。目前，多家銀行已經在手機App個人養老金專區增設了國債購買入口。此外，市民也可以帶著銀行卡和身份證件前往銀行櫃面，辦理個人養老金儲蓄國債業務。"
-    },
-    {
-      "id": "mkt:019eaa39-0e9c-7997-8099-d0a77bb21364",
-      "time": "2026-06-09 10:32:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【JAXA postpones H3 No.6 launch】JAXA said on June 8 it has postponed the H3 rocket No.6 launch originally scheduled for June 10, citing potential adverse weather near the Tanegashima Space Center in Kagoshima prefecture. A new launch date has not been set."
-    },
-    {
-      "id": "4925040",
-      "time": "2026-06-09 10:31:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【軟體開發板塊震盪走高，索辰科技盤中創新高】軟體開發板塊震盪走高，索辰科技盤中創新高，漢王科技2連板，博思軟體漲超10%，星環科技、四維圖新、科創資訊、漢儀股份、致遠互聯跟漲。"
-    },
-    {
-      "id": "mkt:019eaa38-011e-7997-8099-cdde6d707b64",
-      "time": "2026-06-09 10:30:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Polysilicon most-active contract fell 4.00% intraday to 34,115 yuan/ton."
-    },
-    {
-      "id": "mkt:019eaa37-f065-7997-8099-c4dc89c551a1",
-      "time": "2026-06-09 10:30:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "0066.HK"
-      ],
-      "text": "【Hong Kong to stage July 1 events; MTR to distribute 71,000 free tickets, chief executive says】Hong Kong Chief Executive John Lee said the Hong Kong SAR government will hold events on July 1 to mark the 29th anniversary of the territory’s return to China, including a flag-raising ceremony, marching displays and sports matches. The government will also offer one-day promotions: MTR will distribute 71,000 free tickets and tram rides will be free. Further details will be announced later."
-    },
-    {
-      "id": "4925039",
-      "time": "2026-06-09 10:30:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李家超：為慶祝香港迴歸祖國29週年，香港將於7月1日推出多項活動及優惠】香港特區行政長官李家超今日（9日）表示，為慶祝香港迴歸祖國29週年，香港特區政府將於7月1日推出多項活動，包括升旗儀式、步操表演、球類比賽等。此外，多項優惠將於7月1日當天面向市民推出，港鐵將送出7.1萬張車票，市民將可免費乘搭電車等。李家超表示，活動及優惠詳情將於稍後公佈。（大灣區之聲）"
-    },
-    {
-      "id": "te:economy:557443",
-      "time": "2026-06-09 10:30:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Stays at 2-Week High — Australia’s 10-year government bond yield held above 4.9%, trading near a two-week high as markets weighed easing Middle East tensions while persistent cost-of-living pressures weighed on domestic sentiment. Household confidence deteriorated further into deep pessimism, with the Westpac–Melbourne Institute Consumer Sentiment Index falling about 3% to 80.6 in June, marking the fourth decline this year and among the weakest in decades. Elevated living costs remain a key drag on household finances, while a temporary fuel tax cut provided only limited and short-lived support. Attention is now focused on the upcoming policy decision from the Reserve Bank of Australia next week, with markets broadly expecting rates to be left unchanged. Meanwhile, global risk sentiment got a minor lift after Iran and Israel announced a halt in fighting. However, a peace deal has yet to be reached and the Strait of Hormuz remains effectively closed, keeping global inflation risks in focus."
-    },
-    {
-      "id": "4925038",
-      "time": "2026-06-09 10:30:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內跌4%，現報34115.00元。"
-    },
-    {
-      "id": "4925037",
-      "time": "2026-06-09 10:30:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本H3火箭6號機將推遲發射】日本宇宙航空研究開發機構（JAXA）6月8日宣佈，主力火箭“H3”6號機的發射日期將從10日推後。原因是發射場所在的鹿兒島縣種子島宇宙中心附近可能出現惡劣天氣。新的日程未定。"
-    },
-    {
-      "id": "4925036",
-      "time": "2026-06-09 10:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "尿素連續主力合約日內跌3%，現報1785.00元。"
-    },
-    {
-      "id": "te:markets:557442",
-      "time": "2026-06-09 10:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Shares Rebound from Near 6-Year Low — Indonesia’s IDX Composite bounced back 64 points or 1.2% to 5,405 in early Tuesday trade, halting a five-session slide as bargain hunters stepped in after the index touched its weakest level since November 2020 in the prior session. The recovery came despite lingering geopolitical tensions, domestic macro pressures, and concerns over external buffers. Sentiment brightened after reports showed that tax revenue surged in the first five months of 2026, a development the government hailed as evidence of economic recovery. Meanwhile, Bank Indonesia also noted strong growth in adjusted base money (M0), which expanded by over 14% for a second straight month. Gains were broad-based, led by basic materials, infrastructure, and industry. Standout movers included Telkom Indonesia (10.2%), Sumber Alfaria Trijaya (6.9%), Aneka Tambang (4.0%), and Bank Tabungan Negara (2.4%). Traders now look to May trade data from China, Indonesia's largest trading partner, due later today, for further cues."
     }
   ]
 }
