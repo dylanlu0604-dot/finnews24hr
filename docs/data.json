@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-16 20:16:56",
-  "count": 18294,
+  "updated": "2026-06-16 20:21:11",
+  "count": 18298,
   "items": [
+    {
+      "id": "4938781",
+      "time": "2026-06-16 20:20:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "據Kpler分析師Amena Bakr：截至6月15日，經由受監測的霍爾木茲海峽區域的確認通行量（涵蓋商業及非商業船隻）保持在5艘，與前一日持平。"
+    },
+    {
+      "id": "mkt:019ed05f-efa2-7dd8-b02f-82cb9a9cfbaa",
+      "time": "2026-06-16 20:20:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude down 4.00% intraday at $79.63/bbl."
+    },
+    {
+      "id": "mkt:019ed05f-ec1f-7dd8-b02f-7a48f511d398",
+      "time": "2026-06-16 20:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "U.S. May housing starts (total, annualized), building permits (total) and import price index MoM due in 10 minutes."
+    },
+    {
+      "id": "mkt:019ed05f-e9c7-7dd8-b02f-70d33aed607c",
+      "time": "2026-06-16 20:20:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kpler analyst Amena Bakr said confirmed transits through the monitored Strait of Hormuz region, covering commercial and non-commercial vessels, stood at 5 on June 15, unchanged from the previous day."
+    },
+    {
+      "id": "4938780",
+      "time": "2026-06-16 20:19:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守80美元/桶，日內跌3.83%。"
+    },
+    {
+      "id": "te:economy:559345",
+      "time": "2026-06-16 20:19:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "ADP Employment Change Weekly",
+        "Importance 0"
+      ],
+      "text": "US Private Sector Job Growth Eases Again — US private employers added an average of 25,500 jobs per week in the four weeks ending May 30, 2026, per the ADP Research Institute, a slight dip from the previous period’s 29,000 weekly gain. This marks the fourth straight week of slowing job growth. Yet, ADP’s May report released earlier this month revealed private businesses added a net 122,000 jobs, the largest increase since January 2025."
+    },
+    {
+      "id": "4938779",
+      "time": "2026-06-16 20:19:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI重構電商消費新模式】今年上半年電商行業正式進入“AI原生+即時零售”的深水整合期，AI技術全面滲透選品、營銷、客服、直播等電商全鏈路。AI電商能幹啥？ 在京東，“全場景AI大促”，24小時待命的數字人表現亮眼，一出場帶貨成交額破7000萬元，AI客服服務量同比增長14倍。營業打烊，數字人不打烊。 在天貓，用千問大模型，使用者一句話就能完成挑貨、比價、下單，AI試穿、優惠測算，網購也有了“售貨員”。 抖音、拼多多也上線了AI搜尋、AI導購，用自然語言對話匹配需求，從“人找貨”轉向“貨找人”。 在美團，利用“AI驅動”打造分鐘級配送，“618”大促首日整體成交額同比增長2倍，酒類品類暴漲18倍，白酒成交額更是12小時破3億元，同比激增70倍。（央視財經）"
+    },
+    {
+      "id": "4938778",
+      "time": "2026-06-16 20:18:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和遠氣體：持股5%以上股東減持至5%以下 未來擬繼續減持】和遠氣體公告稱，截至2026年6月16日，持股5%以上股東乾圖私募已透過集中競價交易減持103,500股，持股比例降至4.999%，不再是公司5%以上股東。本次減持計劃尚未完成，乾圖私募將在2026年6月16日-9月13日，繼續以集中競價減持不超2,106,250股（佔總股本1%）。其減持不會導致公司控制權變更。"
+    },
+    {
+      "id": "4938777",
+      "time": "2026-06-16 20:17:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國國防採購局(DGA)表示，空客防務與航天公司已獲得合同，將為A400M運輸機開發新的多工能力。"
+    },
+    {
+      "id": "4938776",
+      "time": "2026-06-16 20:17:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行Escriva：儘管達成和平協議 能源供應的複雜局面仍將持續】歐洲央行管委會成員Jose Luis Escriva警告稱，儘管達成了重開霍爾木茲海峽的協議，但能源供應方面的複雜局面可能仍將持續。美伊協議已推動油價下跌，因為投資者認為這場持續逾3個月的衝突即將結束。但法蘭克福的歐洲央行決策者並不認為危險已經過去，市場預計其仍將進一步加息。“目前尚不確定市場能否充分反映供應中斷的影響程度、規模以及恢復生產所需的時間，”Escriva週二在馬德里表示。“這仍然不確定，仍有疑問，而且將是一個在一段時間內伴隨我們的因素。”"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606163773281215",
+      "time": "2026-06-16 20:16:58",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國至5月30日當週ADP就業人數週度增加2.55萬人，前值2.9萬人。"
+    },
+    {
+      "id": "4938775",
+      "time": "2026-06-16 20:16:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "百勝中國：該交易預計將在2026年攤薄後每股收益產生正向增益，2027至2028年將為中個位數正向增益。"
+    },
     {
       "id": "4938774",
       "time": "2026-06-16 20:16:18",
@@ -168339,93 +168453,6 @@
         "Brent"
       ],
       "text": "Wells Fargo estimates consumer spending on gasoline may be about 45-50% higher than previously."
-    },
-    {
-      "id": "4926216",
-      "time": "2026-06-09 20:21:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國稀土集團與南開大學簽署戰略合作協議】6月8日，中國稀土集團與南開大學在天津簽署戰略合作協議。中國稀土集團黨委書記、董事長劉雷雲表示，期待雙方聚焦稀土在介入式腦機介面、介入支架靶向藥物釋放、渦噴動力低空飛行器等新興應用場景，在基礎研究、科研攻關、成果轉化、人才培養等方面加強合作。"
-    },
-    {
-      "id": "4926215",
-      "time": "2026-06-09 20:21:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【原華林證券CEO秦湘新去向落地 出任行雲科技非獨立董事】原華林證券CEO秦湘新去向落地。行雲科技今日公告，公司董事會同意提名秦湘為公司第七屆董事會非獨立董事候選人。本次提名旨在進一步推動公司董事會治理結構最佳化，引入更多科技領域背景的董事及金融管理高階人才，更好地支援公司新業務的拓展。履歷顯示，秦湘原為華林證券CEO，IT背景出身並深耕證券行業多年，在資產管理、機構業務、科技應用、實業運作等方面都有建樹。"
-    },
-    {
-      "id": "mkt:019eac53-5d15-7ffd-b5f5-dc3c94475e6a",
-      "time": "2026-06-09 20:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "EURUSD",
-        "XAUUSD"
-      ],
-      "text": "U.S. April trade balance due in 10 minutes."
-    },
-    {
-      "id": "4926214",
-      "time": "2026-06-09 20:19:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委穆蘭：歐洲需進一步強化貨幣與支付領域自主權；提升歐元地位存在明顯機遇。不宜對法國GDP疲弱下過多結論。法國央行將上調通脹預測。"
-    },
-    {
-      "id": "mkt:019eac52-af94-7ffd-b5f5-d0938c5dabd8",
-      "time": "2026-06-09 20:19:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB executive board member Moulin said Europe could issue common debt to finance certain projects."
-    },
-    {
-      "id": "4926213",
-      "time": "2026-06-09 20:19:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委穆蘭：歐洲可發行聯合債券為部分專案提供資金。"
-    },
-    {
-      "id": "4926212",
-      "time": "2026-06-09 20:17:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【半導體庫存回升 機構：銷售增長遠遠快於庫存增長 整個AI產業鏈仍處於快速擴張階段】今年一季度，全球半導體企業庫存重新出現上升跡象。德意志銀行在最新發布的行業報告指出，半導體行業這輪庫存增長更可能反映企業正在為未來需求擴張提前備貨，而非需求轉弱。今年一季度行業庫存週轉天數環比增長約4%，而從歷史上來看，一季度的季節性增長通常在5%至7%之間。換句話說，儘管庫存有所增加，但需求對新增供給的消化速度依然快於正常年份。報告顯示，2026年一季度，半導體銷售同比增長54%，庫存同比增長23%。這是半導體銷售增速連續第十個季度超過庫存增速。展望未來幾個季度，德銀分析師持樂觀態度。從需求結構看，半導體行業當前同時受到兩股力量支撐。首先，AI相關需求依然是行業最重要的增長引擎。從AI伺服器、GPU、HBM高頻寬儲存到先進封裝，整個AI產業鏈仍處於快速擴張階段。其次，此前相對低迷的工業、汽車等領域開始改善，使半導體需求不再只依賴AI單一主線。隨著傳統終端需求恢復，行業復甦的覆蓋面正在擴大。"
-    },
-    {
-      "id": "mkt:019eac50-eec4-7ffd-b5f5-cbd7344e90b3",
-      "time": "2026-06-09 20:17:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "ADP weekly data show U.S. job growth slowed for a third consecutive week."
     }
   ]
 }
