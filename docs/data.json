@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-17 00:13:43",
-  "count": 18387,
+  "updated": "2026-06-17 00:18:07",
+  "count": 18381,
   "items": [
+    {
+      "id": "4939174",
+      "time": "2026-06-17 00:17:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：霍爾木茲海峽護航行動的國際授權尚存諸多待解問題。"
+    },
+    {
+      "id": "4939173",
+      "time": "2026-06-17 00:16:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "塔塔集團表示，印度泰米爾納德邦汙染控制委員會已終止對蘋果iPhone元件工廠的水汙染調查。"
+    },
+    {
+      "id": "4939172",
+      "time": "2026-06-17 00:16:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：對美伊協議的永續性充滿信心。"
+    },
+    {
+      "id": "mkt:019ed137-4f43-7dd8-b036-bca6434b4314",
+      "time": "2026-06-17 00:15:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israeli Defense Forces said its air force intercepted rockets launched from Lebanon."
+    },
+    {
+      "id": "mkt:019ed136-c534-7dd8-b036-b08600d8378a",
+      "time": "2026-06-17 00:14:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average extends gains as intraday advance widens to 1.0%; S&P 500 down 0.08%, Nasdaq down 0.38%."
+    },
+    {
+      "id": "4939171",
+      "time": "2026-06-17 00:14:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase Global：已知部分使用者在轉賬和接收Axelar網路資產時出現延遲；買入、賣出以及法幣提款/存款業務未受影響。"
+    },
+    {
+      "id": "4939170",
+      "time": "2026-06-17 00:14:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市延續漲勢，道瓊斯指數上漲1.00%。"
+    },
+    {
+      "id": "mkt:019ed135-630e-7dd8-b036-ad5b6a179d69",
+      "time": "2026-06-17 00:13:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "German Chancellor Merz said the G7 agreed pressure on Russia must be stepped up."
+    },
+    {
+      "id": "mkt:019ed135-3191-7dd8-b036-a490b20a733c",
+      "time": "2026-06-17 00:13:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "OpenAI developers said this week more CODEX features are rolling out across Europe. CODEX users in the European Economic Area, the UK and Switzerland are being given computer-control capabilities, a CODEX Chrome extension, personalized memory and Chronicle."
+    },
     {
       "id": "4939169",
       "time": "2026-06-17 00:12:34",
@@ -169094,155 +169184,6 @@
         "國際"
       ],
       "text": "【紐約梅隆銀行首席投資官預計通脹持續高企將拖累債券】紐約梅隆銀行首席投資官Jason Granet表示，即便當前由戰爭引發的能源價格飆升消退之後，通脹率仍可能在更長時間內保持高位，推高利率，並在未來幾年拖累債券。Granet上月被任命為美國財政部借款諮詢委員會(TBAC)主席。他表示，經由霍爾木茲海峽的石油和天然氣運輸不太可能恢復到戰前狀態。再加上其他因素，包括人工智慧基礎設施支出激增，可能會令通脹承受上行壓力的時間長於市場預期。“遠期通脹預期顯示，全球通脹都會回落。我的看法是，各地通脹可能都會持續更久一點，”Granet在接受採訪時表示，“總體而言，這應該意味著利率會更高。”"
-    },
-    {
-      "id": "mkt:019ead2d-2893-7cc9-8dc0-030fe07d9a90",
-      "time": "2026-06-10 00:17:48",
-      "tags": [
-        "MKT News",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Tesla (TSLA.O) shares fell as much as 5%."
-    },
-    {
-      "id": "4926551",
-      "time": "2026-06-10 00:17:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署：經合組織原油庫存預計將跌至 2003 年以來最低水平。"
-    },
-    {
-      "id": "mkt:019ead2c-ed1c-7cc9-8dbf-fb5459f020aa",
-      "time": "2026-06-10 00:17:37",
-      "tags": [
-        "MKT News",
-        "MS.N",
-        "Impact bullish"
-      ],
-      "text": "MORGAN STANLEY (MS.N) CEO Ted Pick said core investment-banking activity is very active."
-    },
-    {
-      "id": "mkt:019ead2c-6281-7cc9-8dbf-f35b10b22a16",
-      "time": "2026-06-10 00:16:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA expects some Middle East oil production outages to persist through end-2027, extending beyond the forecast horizon of its Short-Term Energy Outlook."
-    },
-    {
-      "id": "4926550",
-      "time": "2026-06-10 00:16:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局確定阿爾忒彌斯三號地月軌道任務乘組，成員包括三名美國宇航員和一名義大利宇航員。"
-    },
-    {
-      "id": "te:markets:557752",
-      "time": "2026-06-10 00:16:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Corning Stock Price Hits 5-week Low — Corning shares decreased to 169.11 USD, the lowest since May 2026. Over the past 4 weeks, Corning lost 18.41%, and in the last 12 months, it increased 234.34%."
-    },
-    {
-      "id": "4926549",
-      "time": "2026-06-10 00:16:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署：受霍爾木茲海峽運輸受阻影響，中東產油國 5 月原油日產量較戰前水平削減超 1100 萬桶。"
-    },
-    {
-      "id": "te:markets:557750",
-      "time": "2026-06-10 00:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Finishes in the Red — The DAX 40 reversed course to close about 0.7% lower at 24,418 on Tuesday, the lowest since May 19, amid renewed weakness in the tech sector and geopolitical uncertainties. Concerns about the valuation levels of US tech giants resurfaced amid growing nervousness ahead of SpaceX’s IPO on Friday. Regarding Middle East developments, Israel and Iran agreed to halt strikes following an appeal by US President Trump, who said a deal with Tehran was close to being finalized. Also, US Energy Secretary Chris Wright said that shipping traffic through the Strait of Hormuz is increasing ‘very meaningfully.’” The tech sector was the hardest hit, with Infineon Technologies and SAP down 3.4% and 2.2%, respectively. Siemens Energy also saw pressure, dropping nearly 6%."
-    },
-    {
-      "id": "mkt:019ead2a-95e6-7cc9-8dbf-ed78eb0ad9cb",
-      "time": "2026-06-10 00:15:04",
-      "tags": [
-        "MKT News",
-        "MS.N",
-        "Impact bullish"
-      ],
-      "text": "Morgan Stanley (MS.N) CEO Ted Pick said sponsor activity that had been quiet has become active again."
-    },
-    {
-      "id": "4926548",
-      "time": "2026-06-10 00:14:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利CEO：核心投行業務活躍度顯著提升 。"
-    },
-    {
-      "id": "mkt:019ead2a-305b-7cc9-8dbf-e5ec1de88287",
-      "time": "2026-06-10 00:14:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slipped below $4,260/oz, down 1.62% on the day."
-    },
-    {
-      "id": "4926547",
-      "time": "2026-06-10 00:14:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署預計，部分中東地區石油產量的中斷情況，將持續至其 2027 年底版短期能源展望預測區間之後。"
-    },
-    {
-      "id": "4926546",
-      "time": "2026-06-10 00:14:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4260美元/盎司，日內跌1.61%。"
-    },
-    {
-      "id": "4926545",
-      "time": "2026-06-10 00:14:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利財長：我們將調整公共財政發展方向，將持續把智利總債務佔國內生產總值比重控制在 45% 以內， 工作重心為充實財政儲備， 將著力提升管理效率。"
-    },
-    {
-      "id": "te:markets:557749",
-      "time": "2026-06-10 00:14:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Inches Up on Easing Middle East Tensions — The CAC 40 edged up to close at 8,203 on Tuesday on fragile hopes of easing tensions in the Middle East. The White House suggested that a deal to end the more than three-month-old conflict with Iran could be reached within days, improving risk sentiment. Oil prices and bond yields declined, easing concerns about inflation and higher interest rates. However, the situation remained fragile, with the Strait of Hormuz effectively closed and Israel continuing strikes in Lebanon. In Europe, attention also turned to the ECB’s policy meeting on Thursday. While a quarter-point rate cut is expected, markets are focused on signals regarding the policy outlook as elevated energy prices continue to pose inflation risks. Luxury stocks rose, with LVMH rising 2%, L'Oréal adding 1.6%, and Hermès gaining 1.3%, while AXA added 1.2%. In contrast, TotalEnergies fell 1.1% as oil prices fell. STMicroelectronics shed 5.8%, tracking weakness in tech shares as investors took profits following recent rallies."
     }
   ]
 }
