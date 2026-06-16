@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-16 21:23:47",
+  "updated": "2026-06-16 21:28:02",
   "count": 18328,
   "items": [
+    {
+      "id": "4938904",
+      "time": "2026-06-16 21:26:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅博特科旗下ficonTEC：正攜手英偉達開發下一代CPO及光互連技術】據ficonTEC官方公告，羅博特科旗下全資子公司 ficonTEC（集團持股比例100%）宣佈其與英偉達的合作持續取得進展，雙方正攜手開發面向下一代共封裝光學（CPO）及 AI 驅動光互連基礎設施的規模化製造與測試解決方案。雙方正攜手推進製造與測試方法論的進步，旨在加速下一代矽光子器件及光引擎的工業化程序，以滿足超大規模AI部署的需求。"
+    },
+    {
+      "id": "4938903",
+      "time": "2026-06-16 21:25:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻蒙智行全面引入電池二供，國軒高科將上車問界】今年以來，市場競爭進一步加劇，記憶體等供應鏈成本大幅攀升，尋求供應鏈降本、使產品定價更具競爭力，成了汽車行業更為迫切的課題。在這樣的背景下，穩居中高階市場的鴻蒙智行也開始全面引入多家動力電池供應商。“除了尊界短期內規模支撐不了第二家，其他界可能都會引入多元電池供應商。”有知情人士透露。其中，長期由寧德時代獨供的問界品牌，將引入中創新航、國軒高科兩家二線電池供應商，問界M6現已定點了國軒高科的81度電池包，有知情人士透露，去年國軒高科便已收到了鴻蒙智行的定點信，中創新航也將進入問界的供應體系。（36氪）"
+    },
+    {
+      "id": "mkt:019ed09c-010b-7dd8-b032-c2fb1725e700",
+      "time": "2026-06-16 21:25:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "002074.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Hongmeng Zhixing diversifies battery suppliers; Gotion to supply AITO M6】Rising competition and higher supply‑chain costs have pushed Hongmeng Zhixing to diversify power‑battery sourcing beyond CATL, sources said. AITO (Wenjie), long single‑sourced to CATL, will add second‑tier suppliers Zhongchuang Xinhang and Gotion; the AITO M6 has been slated to use Gotion’s 81 kWh battery pack. Sources said Gotion received an allocation notice from Hongmeng Zhixing last year and Zhongchuang Xinhang will join AITO’s supplier roster."
+    },
+    {
+      "id": "mkt:019ed09a-00af-7dd8-b032-bffa8e175585",
+      "time": "2026-06-16 21:23:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "ECB chief economist Lane expects oil prices to hover between the baseline and a mild scenario."
+    },
+    {
+      "id": "4938902",
+      "time": "2026-06-16 21:23:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Databricks即將推出工具，助力企業控制人工智慧成本。"
+    },
     {
       "id": "4938901",
       "time": "2026-06-16 21:22:55",
@@ -168808,48 +168857,6 @@
         "Brent"
       ],
       "text": "Three sources said US Energy Secretary wright met them before a closed-door meeting of House Republicans. Wright said he expects fuel prices to eventually fall."
-    },
-    {
-      "id": "4926336",
-      "time": "2026-06-09 21:27:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【玻璃期貨維持窄幅震盪 關注需求復甦情況以及原燃料成本變動對價格的支撐力度】今日玻璃期貨維持窄幅震盪走勢，空頭資金已連續四日主動增倉施壓，期價跌破1000元整數關口，並創出該合約上市以來新低。目前市場對玻璃基本面整體信心不足，多頭僅依靠環保政策等有限利好支撐盤面。短期或繼續偏弱執行，還需關注需求復甦情況以及原燃料成本變動對價格的支撐力度。短期來看，浮法玻璃市場預計呈現弱勢震盪態勢，下游需求端復甦動能不足，市場觀望情緒較濃。 (玻多多)"
-    },
-    {
-      "id": "4926335",
-      "time": "2026-06-09 21:27:12",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通股價小幅上漲，上漲0.8%，此前管理層在會議上發表了講話。"
-    },
-    {
-      "id": "4926334",
-      "time": "2026-06-09 21:25:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【谷歌與美國航空簽署SAF協議】谷歌與美國航空6月9日宣佈簽署迄今航空公司與企業終端使用者之間規模最大的可持續航空燃料（SAF）公開協議。根據這項多年期合作，雙方將共同解鎖3500萬加侖SAF，預計減少近30萬噸二氧化碳當量排放。該協議同時帶動美國航空與燃料生產商Valero簽署了長期SAF供應合同。谷歌透過購買SAF證書抵消員工商務出行產生的碳排放，美國航空則採購實物SAF用於降低航班排放。"
-    },
-    {
-      "id": "mkt:019eac8e-92d7-7ddc-a5f4-dca8a245b74a",
-      "time": "2026-06-09 21:24:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister said a meeting with U.S. Trade Representative Greer is expected to take place within the next few days."
-    },
-    {
-      "id": "4926333",
-      "time": "2026-06-09 21:24:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西財長：巴西方面將於近日與美國貿易代表格里爾舉行會談。"
     }
   ]
 }
