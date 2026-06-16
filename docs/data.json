@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-17 04:16:33",
-  "count": 18417,
+  "updated": "2026-06-17 04:20:27",
+  "count": 18414,
   "items": [
+    {
+      "id": "mkt:019ed217-62de-7dd8-b039-e8823ac9a61c",
+      "time": "2026-06-17 04:20:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. API weekly crude inventories for the week to June 12 due in 10 minutes."
+    },
     {
       "id": "te:markets:559439",
       "time": "2026-06-17 04:15:21",
@@ -169383,48 +169392,6 @@
         "國際"
       ],
       "text": "美聯儲：（壓力測試）假設情景包括全球經濟嚴重衰退，商業和住宅房地產市場以及公司債市場壓力加劇。"
-    },
-    {
-      "id": "mkt:019eae0a-d606-7225-91ab-347f9d6bec96",
-      "time": "2026-06-10 04:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "API weekly U.S. crude stocks for the week to June 5 due in 10 minutes."
-    },
-    {
-      "id": "4926676",
-      "time": "2026-06-10 04:18:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "芝商所宣佈推出納斯達克芝商所加密貨幣指數期貨。"
-    },
-    {
-      "id": "te:markets:557775",
-      "time": "2026-06-10 04:17:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips as Mining and Energy Losses Weigh — The S&P/TSX Composite Index fell 0.2% to close at 34,412 on Tuesday, weighed down by losses in the mining, energy, and technology sectors. Mining shares retreated as gold prices declined amid expectations that the Federal Reserve will maintain a hawkish stance. Agnico Eagle shed 1.9%, Barrick lost 1.4%, and Wheaton Precious Metals fell 2.6%. Energy stocks also weakened as oil prices pulled back after Israel and Iran agreed to halt attacks following a renewed flare-up in hostilities. Canadian Natural dropped 3.6%, while Suncor lost 3%. In the tech sector, Shopify fell 0.5% and Celestica lost 4.9% as a wave of equity offerings by companies seeking capital to fund AI ambitions raised concerns about whether demand will be sufficient to absorb the new supply and what that could mean for valuations. Investors also looked ahead to the Bank of Canada's policy decision on Wednesday, with policymakers widely expected to leave interest rates unchanged."
-    },
-    {
-      "id": "4926675",
-      "time": "2026-06-10 04:17:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普淡化直升機遇襲事件，稱這“算不上什麼大事”。"
     }
   ]
 }
