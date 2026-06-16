@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16 11:56:45",
+  "updated": "2026-06-16 12:01:22",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -22,124 +22,8 @@
       "dates": [
         {
           "date": "2026-06-15",
-          "count": 45,
+          "count": 43,
           "events": [
-            {
-              "id": "capital:1175513",
-              "fid": "1175513",
-              "interval": "this_week",
-              "date": "2026-06-15",
-              "time": "00:00",
-              "datetime": "2026-06-15 00:00:00",
-              "display_time": "06/15 00:00",
-              "country": "中國",
-              "title": "中國5月全社會用電量(億千瓦時)",
-              "importance": 2,
-              "previous": "8205",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175513",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "05/19",
-                  "actual": "8205",
-                  "forecast": "-",
-                  "previous": "8595"
-                },
-                {
-                  "date": "04/20",
-                  "actual": "8595",
-                  "forecast": "-",
-                  "previous": "-"
-                },
-                {
-                  "date": "12/24",
-                  "actual": "8356",
-                  "forecast": "-",
-                  "previous": "8572"
-                },
-                {
-                  "date": "11/21",
-                  "actual": "8572",
-                  "forecast": "-",
-                  "previous": "8886"
-                },
-                {
-                  "date": "10/23",
-                  "actual": "8886",
-                  "forecast": "-",
-                  "previous": "10154"
-                },
-                {
-                  "date": "09/23",
-                  "actual": "10154",
-                  "forecast": "-",
-                  "previous": "10226"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-06-14 12:02:31"
-            },
-            {
-              "id": "capital:1175512",
-              "fid": "1175512",
-              "interval": "this_week",
-              "date": "2026-06-15",
-              "time": "00:00",
-              "datetime": "2026-06-15 00:00:00",
-              "display_time": "06/15 00:00",
-              "country": "中國",
-              "title": "中國5月全社會用電量同比",
-              "importance": 3,
-              "previous": "6 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175512",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "05/19",
-                  "actual": "6",
-                  "forecast": "-",
-                  "previous": "3.5"
-                },
-                {
-                  "date": "04/20",
-                  "actual": "3.5",
-                  "forecast": "-",
-                  "previous": "-"
-                },
-                {
-                  "date": "12/24",
-                  "actual": "6.2",
-                  "forecast": "-",
-                  "previous": "10.4"
-                },
-                {
-                  "date": "11/21",
-                  "actual": "10.4",
-                  "forecast": "-",
-                  "previous": "4.5"
-                },
-                {
-                  "date": "10/23",
-                  "actual": "4.5",
-                  "forecast": "-",
-                  "previous": "5"
-                },
-                {
-                  "date": "09/23",
-                  "actual": "5",
-                  "forecast": "-",
-                  "previous": "8.6"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-06-14 12:02:31"
-            },
             {
               "id": "capital:1168110",
               "fid": "1168110",
@@ -2638,8 +2522,124 @@
         },
         {
           "date": "2026-06-16",
-          "count": 51,
+          "count": 53,
           "events": [
+            {
+              "id": "capital:1175513",
+              "fid": "1175513",
+              "interval": "this_week",
+              "date": "2026-06-16",
+              "time": "00:00",
+              "datetime": "2026-06-16 00:00:00",
+              "display_time": "06/16 00:00",
+              "country": "中國",
+              "title": "中國5月全社會用電量(億千瓦時)",
+              "importance": 2,
+              "previous": "8205",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175513",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/19",
+                  "actual": "8205",
+                  "forecast": "-",
+                  "previous": "8595"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "8595",
+                  "forecast": "-",
+                  "previous": "-"
+                },
+                {
+                  "date": "12/24",
+                  "actual": "8356",
+                  "forecast": "-",
+                  "previous": "8572"
+                },
+                {
+                  "date": "11/21",
+                  "actual": "8572",
+                  "forecast": "-",
+                  "previous": "8886"
+                },
+                {
+                  "date": "10/23",
+                  "actual": "8886",
+                  "forecast": "-",
+                  "previous": "10154"
+                },
+                {
+                  "date": "09/23",
+                  "actual": "10154",
+                  "forecast": "-",
+                  "previous": "10226"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-06-14 12:02:31"
+            },
+            {
+              "id": "capital:1175512",
+              "fid": "1175512",
+              "interval": "this_week",
+              "date": "2026-06-16",
+              "time": "00:00",
+              "datetime": "2026-06-16 00:00:00",
+              "display_time": "06/16 00:00",
+              "country": "中國",
+              "title": "中國5月全社會用電量同比",
+              "importance": 3,
+              "previous": "6 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175512",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/19",
+                  "actual": "6",
+                  "forecast": "-",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "3.5",
+                  "forecast": "-",
+                  "previous": "-"
+                },
+                {
+                  "date": "12/24",
+                  "actual": "6.2",
+                  "forecast": "-",
+                  "previous": "10.4"
+                },
+                {
+                  "date": "11/21",
+                  "actual": "10.4",
+                  "forecast": "-",
+                  "previous": "4.5"
+                },
+                {
+                  "date": "10/23",
+                  "actual": "4.5",
+                  "forecast": "-",
+                  "previous": "5"
+                },
+                {
+                  "date": "09/23",
+                  "actual": "5",
+                  "forecast": "-",
+                  "previous": "8.6"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-06-14 12:02:31"
+            },
             {
               "id": "capital:1168174",
               "fid": "1168174",
@@ -25112,122 +25112,6 @@
   ],
   "items": [
     {
-      "id": "capital:1175513",
-      "fid": "1175513",
-      "interval": "this_week",
-      "date": "2026-06-15",
-      "time": "00:00",
-      "datetime": "2026-06-15 00:00:00",
-      "display_time": "06/15 00:00",
-      "country": "中國",
-      "title": "中國5月全社會用電量(億千瓦時)",
-      "importance": 2,
-      "previous": "8205",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175513",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "05/19",
-          "actual": "8205",
-          "forecast": "-",
-          "previous": "8595"
-        },
-        {
-          "date": "04/20",
-          "actual": "8595",
-          "forecast": "-",
-          "previous": "-"
-        },
-        {
-          "date": "12/24",
-          "actual": "8356",
-          "forecast": "-",
-          "previous": "8572"
-        },
-        {
-          "date": "11/21",
-          "actual": "8572",
-          "forecast": "-",
-          "previous": "8886"
-        },
-        {
-          "date": "10/23",
-          "actual": "8886",
-          "forecast": "-",
-          "previous": "10154"
-        },
-        {
-          "date": "09/23",
-          "actual": "10154",
-          "forecast": "-",
-          "previous": "10226"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-06-14 12:02:31"
-    },
-    {
-      "id": "capital:1175512",
-      "fid": "1175512",
-      "interval": "this_week",
-      "date": "2026-06-15",
-      "time": "00:00",
-      "datetime": "2026-06-15 00:00:00",
-      "display_time": "06/15 00:00",
-      "country": "中國",
-      "title": "中國5月全社會用電量同比",
-      "importance": 3,
-      "previous": "6 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175512",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "05/19",
-          "actual": "6",
-          "forecast": "-",
-          "previous": "3.5"
-        },
-        {
-          "date": "04/20",
-          "actual": "3.5",
-          "forecast": "-",
-          "previous": "-"
-        },
-        {
-          "date": "12/24",
-          "actual": "6.2",
-          "forecast": "-",
-          "previous": "10.4"
-        },
-        {
-          "date": "11/21",
-          "actual": "10.4",
-          "forecast": "-",
-          "previous": "4.5"
-        },
-        {
-          "date": "10/23",
-          "actual": "4.5",
-          "forecast": "-",
-          "previous": "5"
-        },
-        {
-          "date": "09/23",
-          "actual": "5",
-          "forecast": "-",
-          "previous": "8.6"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-06-14 12:02:31"
-    },
-    {
       "id": "capital:1168110",
       "fid": "1168110",
       "interval": "this_week",
@@ -27720,6 +27604,122 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-06-12 17:06:05"
+    },
+    {
+      "id": "capital:1175513",
+      "fid": "1175513",
+      "interval": "this_week",
+      "date": "2026-06-16",
+      "time": "00:00",
+      "datetime": "2026-06-16 00:00:00",
+      "display_time": "06/16 00:00",
+      "country": "中國",
+      "title": "中國5月全社會用電量(億千瓦時)",
+      "importance": 2,
+      "previous": "8205",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175513",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/19",
+          "actual": "8205",
+          "forecast": "-",
+          "previous": "8595"
+        },
+        {
+          "date": "04/20",
+          "actual": "8595",
+          "forecast": "-",
+          "previous": "-"
+        },
+        {
+          "date": "12/24",
+          "actual": "8356",
+          "forecast": "-",
+          "previous": "8572"
+        },
+        {
+          "date": "11/21",
+          "actual": "8572",
+          "forecast": "-",
+          "previous": "8886"
+        },
+        {
+          "date": "10/23",
+          "actual": "8886",
+          "forecast": "-",
+          "previous": "10154"
+        },
+        {
+          "date": "09/23",
+          "actual": "10154",
+          "forecast": "-",
+          "previous": "10226"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-06-14 12:02:31"
+    },
+    {
+      "id": "capital:1175512",
+      "fid": "1175512",
+      "interval": "this_week",
+      "date": "2026-06-16",
+      "time": "00:00",
+      "datetime": "2026-06-16 00:00:00",
+      "display_time": "06/16 00:00",
+      "country": "中國",
+      "title": "中國5月全社會用電量同比",
+      "importance": 3,
+      "previous": "6 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175512",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/19",
+          "actual": "6",
+          "forecast": "-",
+          "previous": "3.5"
+        },
+        {
+          "date": "04/20",
+          "actual": "3.5",
+          "forecast": "-",
+          "previous": "-"
+        },
+        {
+          "date": "12/24",
+          "actual": "6.2",
+          "forecast": "-",
+          "previous": "10.4"
+        },
+        {
+          "date": "11/21",
+          "actual": "10.4",
+          "forecast": "-",
+          "previous": "4.5"
+        },
+        {
+          "date": "10/23",
+          "actual": "4.5",
+          "forecast": "-",
+          "previous": "5"
+        },
+        {
+          "date": "09/23",
+          "actual": "5",
+          "forecast": "-",
+          "previous": "8.6"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-06-14 12:02:31"
     },
     {
       "id": "capital:1168174",

@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-16 11:56:39",
-  "count": 18338,
+  "updated": "2026-06-16 12:01:17",
+  "count": 18337,
   "items": [
+    {
+      "id": "4937708",
+      "time": "2026-06-16 11:59:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳剛會見科大訊飛董事長劉慶峰】據廣西日報，6月15日，自治區黨委書記、自治區人大常委會主任陳剛在南寧會見科大訊飛董事長劉慶峰一行。陳剛表示，廣西與科大訊飛合作取得了基礎性成果，希望科大訊飛在雙方良好合作基礎上，圍繞AI+醫療、AI+教育、AI+金融等領域持續深化合作，共同辦好全國醫保影像AI識圖大賽，積極謀劃在廣西打造人工智慧應用生態體系，攜手共建面向東盟的人工智慧示範應用合作高地，更好服從服務於構建更為緊密的中國—東盟命運共同體。"
+    },
+    {
+      "id": "mkt:019ece95-566f-7dd8-b01f-1a32584398f1",
+      "time": "2026-06-16 11:59:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Saxo Bank: BOJ hike met expectations but stance appears insufficient to boost yen】Saxo Bank chief investment strategist Charu Chanana said the Bank of Japan delivered an expected rate hike, but its stance is not forceful enough to drive a sustained yen rally. The BOJ is focused on inflation—core inflation remains persistently above the 2% target—but policy adjustments are slow and it continues to signal loose financial conditions, leaving USD/JPY around 160 vulnerable. The hike gives the yen marginal support but does not close the large US–Japan yield gap, particularly if the Fed remains cautious. A 7–1 vote weakens the hawkish signal, reflecting BOJ concern about tightening’s impact on growth and employment. The move offers mild support to Japanese equities without threatening liquidity or corporate profits. Intervention risk remains if USD/JPY holds above 160; a softer dollar ahead of the Fed decision would give Japanese authorities a better window to act."
+    },
+    {
+      "id": "4937707",
+      "time": "2026-06-16 11:59:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：此次升息雖然對日元有一定支撐作用，但並不足以縮小美日之間巨大的利差】新加坡盛寶首席投資策略師Charu Chanana：日本央行採取了市場預期的舉措，但市場反應顯示其立場還不夠鷹派，尚不足以引發日元的大幅重新定價。關鍵在於，日本央行顯然更加擔憂通脹，尤其是核心通脹率持續高於2%的目標，但其政策調整仍非常漸進，並繼續表示金融環境將保持寬鬆。這使得美元兌日元在160附近變得相當脆弱。此次升息雖然對日元有一定支撐作用，但並不足以縮小美日之間巨大的利差，尤其是如果美聯儲保持謹慎的話。7比1的投票結果也略微削弱了政策訊號，因為這表明日本央行內部仍對緊縮政策對經濟增長和就業的影響存在一定擔憂。這對日本股市構成溫和支撐，因為日本央行雖在收緊政策，但目前尚未威脅到流動性或企業盈利。就外匯市場而言，更大的問題在於日元能否守住漲幅。如果美元兌日元在加息後仍維持在160上方，干預風險將持續存在——尤其是考慮到美聯儲即將做出的決定，美元走軟的背景可能為日本當局提供更好的行動視窗。"
+    },
+    {
+      "id": "4937706",
+      "time": "2026-06-16 11:58:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森霸感測：公司產品暫無應用於AI手機、AI眼鏡、AIPC】森霸感測6月16日在互動平臺表示，公司產品暫無應用於AI手機、AI眼鏡、AIPC。"
+    },
+    {
+      "id": "4937705",
+      "time": "2026-06-16 11:57:06",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日經指數首次突破70000點，日元在日本央行公佈決議後走弱】在日本央行決定從2027年4月開始暫停減少政府債券購買後，日本的日經指數首次突破70000點，日元走弱。該央行還上調了政策利率。這些舉措之前已被廣泛預期。日經指數收復了早些時候的失地，並一度上漲1.0%，創下70020.68點的盤中歷史新高。在日本央行公佈決議後，美元從160.11日元升至160.22日元。投資者將關注副行長內田真一週二晚些時候舉行的新聞釋出會。"
+    },
+    {
+      "id": "4937704",
+      "time": "2026-06-16 11:56:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【6月16日午間漲停分析】創業板指半日漲超2%，股指再度超越滬指，算力硬體概念持續爆發。深桑達A、盛龍股份4連板，安德利3連板，一圖看懂>>"
+    },
+    {
+      "id": "4937703",
+      "time": "2026-06-16 11:56:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼中蘇拉威西省發生6.7級地震】印度尼西亞氣象、氣候和地球物理局16日說，該國中蘇拉威西省當天發生6.7級地震。震源深度10公里。該機構說，目前暫無海嘯風險。（新華社）"
+    },
     {
       "id": "4937702",
       "time": "2026-06-16 11:55:26",
@@ -168629,85 +168695,6 @@
         "市場"
       ],
       "text": "【港股午評：恒生指數跌0.15%，恒生科技指數漲0.62%】港股午間收盤，恒生指數跌0.15%，恒生科技指數漲0.62%。恒指港股通ETF銀華（159318）漲0.16%，港股通科技ETF鵬華（159751）漲0.68%。板塊方面，工業集團企業、半導體產品與裝置板塊漲幅靠前；能源裝置與服務、生物科技板塊跌幅靠前。個股方面，建滔集團漲21.95%，赤子城科技漲16.76%，建滔積層板漲14.39%，廣合科技漲13.53%，天辰生物-B漲12.26%；耀才證券金融跌11.53%，精鋒醫療-B跌9.63%，智譜跌8.22%，高鑫零售跌7.26%，首鋼朗澤跌7.25%。"
-    },
-    {
-      "id": "mkt:019eaa89-f4e8-7eec-b848-305cb73d0eae",
-      "time": "2026-06-09 12:00:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "UBSG.SW",
-        "Impact mixed"
-      ],
-      "text": "People familiar with the matter said Swiss lawmakers are considering a new compromise on UBS Group's capital rules."
-    },
-    {
-      "id": "4925148",
-      "time": "2026-06-09 11:59:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【斯迪克：目前公司暫無BOPP（雙向拉伸聚丙烯薄膜）產品的生產】斯迪克在互動平臺表示，目前公司暫無BOPP（雙向拉伸聚丙烯薄膜）產品的生產。"
-    },
-    {
-      "id": "4925147",
-      "time": "2026-06-09 11:59:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南建設投資集團黨委書記、董事長蔡典維被查】據湖南省紀檢委6月9日通報，湖南建設投資集團有限責任公司黨委書記、董事長蔡典維涉嫌嚴重違紀違法，目前正接受湖南省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4925146",
-      "time": "2026-06-09 11:58:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞半導體集團：馬來西亞2026年半導體出口額有望達到8000億林吉特。"
-    },
-    {
-      "id": "4925145",
-      "time": "2026-06-09 11:58:02",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗：騰訊微信AI智慧體開發似乎進展順利】花旗分析師在一份研究報告中表示，騰訊微信AI智慧體的開發似乎進展順利。這款中國的全能應用週一邀請開發者將小程式整合到該應用的人工智慧生態系統中。花旗的分析師指出，初始測試階段包括美團、Tongcheng和攜程集團等關鍵合作伙伴，這將使使用者能夠直接透過嵌入該應用的AI智慧體獲取外賣等本地服務。他們表示，一旦完全整合，小程式將有資格被微信AI推薦和使用。他們指出：“我們認為，此次測試疊加來自Hy3模型的持續反饋，將為騰訊的下一次模型迭代提供寶貴資料。“"
-    },
-    {
-      "id": "4925144",
-      "time": "2026-06-09 11:57:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國媒體報道，一架美國陸軍“阿帕奇”武裝直升機8日在霍爾木茲海峽附近墜毀，兩名機組人員安全獲救。"
-    },
-    {
-      "id": "mkt:019eaa86-c27d-7eec-b848-2ab667bd1735",
-      "time": "2026-06-09 11:56:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【DeepSeek surges ~799% at listing; IDC job posting sparks GW-scale data center speculation】On June 9 morning DeepSeek opened at 63.65 yuan/share, up 799.01% at listing. The company’s BMS products are deployed in utility-scale high-voltage energy storage (power-side and grid-side), commercial and residential storage, and in backup-power BMS for data centers, telecom base stations and rail transit, linking it to AI infrastructure demand. AI-infrastructure names broadly rallied today (PCBs, electronic materials, silicon wafers). DeepSeek has posted an IDC design/planning engineer role on its website, prompting market speculation it may self-build a GW-scale data center."
-    },
-    {
-      "id": "mkt:019eaa86-b5e6-7eec-b848-2235d35774e0",
-      "time": "2026-06-09 11:56:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "BABA.N",
-        "Impact bullish",
-        "9988.HK"
-      ],
-      "text": "【Tmall: number of new products surpassing 10 million yuan in 618 rises 60% YoY】Tmall data showed the number of new products launched during the 618 sale that rapidly exceeded 10 million yuan in sales rose 60% YoY. New products accounted for one-third of the top 100 selling SKUs in the sale’s opening phase."
     }
   ]
 }
