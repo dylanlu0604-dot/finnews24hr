@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-16 16:13:08",
-  "count": 18384,
+  "updated": "2026-06-16 16:17:08",
+  "count": 18377,
   "items": [
+    {
+      "id": "4938135",
+      "time": "2026-06-16 16:16:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中美航線10月再增班】達美航空今日宣佈將於2026年10月7日起增加上海至洛杉磯的直飛航班，由現在的每週三班加密至每週五班。相比疫情前，目前中美航線的恢復率不到三成，中方航司已將中美航權用滿，美國航司並不急於大幅增加中美航班。（第一財經）"
+    },
+    {
+      "id": "mkt:019ecf80-5305-7dd8-b027-3a59693f1102",
+      "time": "2026-06-16 16:15:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "UBS now expects the Federal Reserve to cut rates by 25bps in March and June 2027, versus its prior forecast of 25bps cuts in December 2026 and March 2027."
+    },
+    {
+      "id": "4938134",
+      "time": "2026-06-16 16:15:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "瑞銀全球財富管理預計美聯儲將在2027年3月和6月各降息25個基點，先前預測為2026年12月和2027年3月各降息25個基點。"
+    },
+    {
+      "id": "mkt:019ecf7e-cea9-7dd8-b027-35f0e817ba4a",
+      "time": "2026-06-16 16:14:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's foreign minister Wang Yi meets UN secretary-general candidate Rebeca Grynspan】June 16, Beijing — China's foreign minister Wang Yi met Rebeca Grynspan, UNCTAD secretary-general and former vice-president of Costa Rica. Wang said Beijing — marking 55 years since the PRC regained its UN seat — reiterated support for multilateralism and adherence to the UN Charter after chairing the UN Security Council last month and presiding over a high-level Council meeting in New York. He said the next UN secretary-general should uphold the Charter, be capable, impartial and accountable. China, as a responsible major power and a UNSC permanent member, will take a constructive stance in the next secretary-general selection and work with others to defend and strengthen the UN."
+    },
+    {
+      "id": "4938131",
+      "time": "2026-06-16 16:13:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見下任聯合國秘書長候選人格林斯潘】6月16日，中共中央政治局委員、外交部長王毅在北京會見下任聯合國秘書長候選人、聯合國貿發會議秘書長、哥斯大黎加前副總統格林斯潘。格林斯潘全面介紹其競選主張，表示聯合國地位不可替代，但需要與時俱進推動改革，更加聚焦和平、發展和未來，發揮作為國際體系中心的應有作用。我堅定奉行一箇中國原則，讚賞中方始終支援多邊主義、支援聯合國憲章，願同中方和國際社會一道，加強聯合國權威，開創人類共同未來。王毅表示，你的闡述體現了對聯合國事業的堅定信念、對人類和平的不懈追求和對全球南方國家的充分理解。聯合國是國際社會投入巨大心血的世紀工程。新中國恢復聯合國合法席位55年來，我們始終是聯合國事業的支持者、建設者。上個月中國擔任安理會輪值主席，我赴紐約主持安理會高階別會議，各方共同發出弘揚多邊主義、遵守聯合國憲章、重振聯合國權威的一致聲音。聯合國秘書長責任重大，具有國際影響，應當恪守憲章、能力出眾、公道正派、履職擔當。中國作為負責任大國和安理會常任理事國，將秉持建設性態度參與下任秘書長選舉，同各方一道維護聯合國、重振聯合國、壯大聯合國。（新華社）"
+    },
+    {
+      "id": "te:markets:559297",
+      "time": "2026-06-16 16:12:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Aluminum Drops Further — Aluminum futures in the UK dropped further to $3,350 per tonne, the lowest since March 27, amid easing supply risks and persistent demand concerns. The US and Iran have agreed on a framework to end their three-month conflict, with the Strait of Hormuz expected to reopen after the agreement is formally signed on June 19. The reopening of the waterway would restore metal export flows from the Persian Gulf, which accounts for roughly 9% of global aluminum production. However, uncertainty remains over how quickly supply chains can normalize, particularly as key Gulf producers continue to face operational disruptions following earlier Iranian attacks. Additional downside risks stem from rising output in China, the world’s largest producer, as well as increasing supply from smelters in Indonesia. At the same time, disappointing economic data from China has raised fresh concerns about global demand, given that the country is also one of the biggest importers of the metal."
+    },
     {
       "id": "mkt:019ecf7d-5f5b-7dd8-b027-29ab80d84957",
       "time": "2026-06-16 16:12:40",
@@ -169103,131 +169165,6 @@
         "國際"
       ],
       "text": "【中國南方電網首個跨境跨單位聯合研究柔性團隊成立】據南方電網訊息，5月21日，南網能源院與南網瀾湄國際公司在雲南昆明簽署《服務集團國際化全方位合作框架協議》，共同成立中國南方電網公司首個跨境跨單位聯合研究柔性團隊。據南方電網介紹，此次合作將更好落實中國南方電網公司作為大湄公河次區域電力合作中方執行單位的職責，深化內部協同，助力中國南方電網公司國際化業務穩步推進。"
-    },
-    {
-      "id": "4925583",
-      "time": "2026-06-09 16:16:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海思科：創新藥HSK51155片IND申請獲受理】海思科公告稱，公司近日收到國家藥監局下發的創新藥HSK51155片《受理通知書》。該藥品為公司自主研究的口服小分子非阿片類創新鎮痛藥物，屬化學藥品1類。2026年4月，公司就HSK51155及相關專案與艾伯維達成合作，授予其全球（除中國大陸、港澳）開發、生產和商業化獨家權利，潛在交易總額超7億美元。創新藥研發風險高，公司將及時披露後續進展。"
-    },
-    {
-      "id": "4925582",
-      "time": "2026-06-09 16:16:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三湘印象：控股股東6700萬股解除質押 佔總股本5.67%】三湘印象公告稱，近日收到控股股東三湘控股告知函，其持有的公司6700萬股於2026年6月8日解除質押，佔其所持股份比例30.76%，佔公司總股本比例5.67%。截至公告披露日，三湘控股及其一致行動人黃輝累計質押股份2.12億股，佔其所持股份比例55.07%，佔公司總股本比例17.91%。本次解除質押不會對公司生產經營等產生影響。"
-    },
-    {
-      "id": "te:markets:557605",
-      "time": "2026-06-09 16:16:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Edges Up as ECB Rate Hike Looms — The euro rose slightly to $1.154, attempting to rebound from over two-month lows, as easing Israel-Iran tensions temporarily reduced fears that weekend attacks could derail US-led Middle East peace efforts. Attention now turns to the European Central Bank’s Thursday policy meeting, where a 25-basis-point rate hike, the first move in a year, is widely anticipated, following the conflict’s impact on energy prices and inflation. Markets will also parse President Lagarde’s press conference for clues on further action. This expected hike follows euro-area inflation reaching its highest level in over two and a half years. Money markets are pricing in about 70 basis points of tightening by year-end, implying one more quarter-point increase and a greater than 70% chance of a third."
-    },
-    {
-      "id": "4925581",
-      "time": "2026-06-09 16:15:29",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "【習近平結束對朝鮮國事訪問回到北京】6月9日下午，中共中央總書記、國家主席習近平在圓滿結束對朝鮮國事訪問後回到北京。習近平總書記、國家主席夫人彭麗媛，中共中央政治局常委、中央辦公廳主任蔡奇，中共中央政治局委員、外交部部長王毅等陪同人員同機返回。（新華社）"
-    },
-    {
-      "id": "4925580",
-      "time": "2026-06-09 16:15:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳市長覃偉中會見哈薩克副總理博祖姆巴耶夫】6月9日，深圳市長覃偉中會見來深訪問的哈薩克副總理博祖姆巴耶夫一行。覃偉中對博祖姆巴耶夫一行的來訪表示熱烈歡迎，並介紹了深圳經濟社會發展情況。他說，中哈兩國地緣相近、人文相通、民心相親，中哈友誼源遠流長，習近平主席和託卡耶夫總統的戰略引領為兩國關係發展指明瞭新方向，為雙方各領域合作注入新動力。深圳將認真落實兩國元首重要共識，在高質量共建“一帶一路”框架下，加強與哈薩克各方面友好交流，持續拓展經貿投資、數字經濟、能源、文化旅遊等領域務實合作，為構建中哈命運共同體貢獻深圳力量。博祖姆巴耶夫對深圳改革發展取得的成就表示祝賀。他說，哈方高度重視發展哈中永久全面戰略伙伴關係，此次訪深希望建立更緊密的經貿合作關係，拓展智慧城市、數字能源、人工智慧、機器人等新興領域合作，借鑑深圳經濟特區發展經驗，在哈薩克打造“快速發展城市”。歡迎更多深圳高新技術企業到哈投資佈局、拓展業務，哈薩克將提供優質服務保障，實現更高水平的互利共贏。（深圳特區報）"
-    },
-    {
-      "id": "mkt:019eab73-2a7b-7cc2-9c82-d6b7a0ba4ce2",
-      "time": "2026-06-09 16:15:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【HKMA chief Yue Mon says no timeline for Wealth Management Connect 3.0】On June 8 in Beijing, Hong Kong Monetary Authority chief Yue Mon said the HKMA is continuing discussions with mainland financial authorities to further optimize and expand Wealth Management Connect. Potential extensions include quotas, product categories and eligible investor types, but no concrete timeline for a 3.0 rollout has been set."
-    },
-    {
-      "id": "mkt:019eab72-b34c-7cc2-9c82-cab3bef38f6b",
-      "time": "2026-06-09 16:14:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong HSI closed down 91.16 points (-0.37%) at 24,565.9 on June 9. Hang Seng Tech Index closed up 13.70 points (+0.29%) at 4,769.61. Hang Seng China Enterprises (H‑share) Index closed down 16.77 points (-0.20%) at 8,324.59, and the Red Chip Index closed up 3.66 points (+0.08%) at 4,339.05."
-    },
-    {
-      "id": "4925579",
-      "time": "2026-06-09 16:13:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【物產環能等在浙江成立新供應鏈公司 註冊資本1億】天眼查App顯示，近日，浙物聚能供應鏈（浙江）有限公司成立，法定代表人為王竹青，註冊資本1億人民幣，經營範圍包括供應鏈管理服務、電子產品銷售、機械裝置銷售、計算機軟硬體及輔助裝置批發等，由物產環能（603071）、浙江馳儲能源科技合夥企業（有限合夥）共同持股。"
-    },
-    {
-      "id": "4925578",
-      "time": "2026-06-09 16:13:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港金管局總裁餘偉文：跨境理財通3.0暫無落地時間表 額度、產品等多維度拓展空間可期】6月8日，香港金融管理局在北京舉行媒體見面會。香港金融管理局總裁餘偉文在見面會上回答上海證券報記者提問時表示，香港金融管理局持續與內地金融管理部門探討跨境理財通的進一步最佳化和拓展，其在額度、產品類別、參與投資者類別等方面均有拓展空間。目前，跨境理財通3.0的具體落地時間表尚未確定。（上證報）"
-    },
-    {
-      "id": "4925577",
-      "time": "2026-06-09 16:13:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【富時中國A50指數期貨漲1%】富時中國A50指數期貨漲幅擴大至1%。"
-    },
-    {
-      "id": "te:economy:557603",
-      "time": "2026-06-09 16:13:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Bund Yields Steady at Over Two-Week High — German 10-year Bund yields held just above 3.05%, their highest level since May 21, as easing tensions between Israel and Iran temporarily soothed concerns that weekend attacks could disrupt US-led peace efforts in the Middle East. Investors are also focused on the European Central Bank’s policy meeting on Thursday, where policymakers are widely expected to deliver a 25-basis-point rate hike, the first in a year, after the Israel-Iran conflict triggered an energy crisis and fueled inflationary pressures. Markets will closely watch President Lagarde’s press conference for signals on future moves. The anticipated hike comes as euro-area inflation climbed to the highest in over two and a half years. Money markets are pricing in around 70 basis points of tightening by year-end, suggesting one additional quarter-point increase and a more than 70% probability of a third."
-    },
-    {
-      "id": "4925576",
-      "time": "2026-06-09 16:13:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平離開平壤 各界群眾夾道歡送】當地時間6月9日下午，中共中央總書記、國家主席習近平結束對朝鮮的國事訪問離開平壤。前往機場途中，平壤各界群眾聚集在道路兩旁，揮舞中朝兩國國旗和鮮花，高呼中朝友好口號，熱烈歡送。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eab71-5c65-7cc2-9c82-c2be0f64b493",
-      "time": "2026-06-09 16:13:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "00148.HK",
-        "Impact bullish",
-        "06869.HK"
-      ],
-      "text": "【Hong Kong close: HSI down 0.37%; PCB stocks surge】HSI closed down 0.37%; Hang Seng Tech Index closed up 0.29% after an intraday rally of over 1%. PCB-related stocks led gains: Kingboard Holdings (00148.HK) +25%, Kingboard Laminates (01888.HK) +12%, Shenghong Technology (02476.HK) +12%. Building materials/cement outperformed: China National Building Material (03323.HK) +14%. Optical-communications names rose; Yangtze Optical Fibre & Cable (06869.HK) +9%. Lithium names strengthened in the afternoon; TTANQT LITHIUM (09696.HK) +4%. Internet mega-caps, Chinese brokerages, airlines, solar PV and AI names also outperformed. Lagging sectors included film, oil, ports, coal, innovative drugs and gold. Large-model AI stocks fell: Zhipu (02513.HK) -13%, MINIMAX-W (00100.HK) -8%."
     }
   ]
 }
