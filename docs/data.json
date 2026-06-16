@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-17 01:23:27",
-  "count": 18398,
+  "updated": "2026-06-17 01:27:24",
+  "count": 18397,
   "items": [
+    {
+      "id": "mkt:019ed178-6f27-7dd8-b038-3204fb27cf4b",
+      "time": "2026-06-17 01:26:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Financial Times reports that after controversy over an Anthropic model, U.S. and European policymakers are discussing access rules for AI models."
+    },
+    {
+      "id": "4939239",
+      "time": "2026-06-17 01:25:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國和歐洲就人工智慧模型准入問題進行商談，此前Anthropic引發爭議。"
+    },
+    {
+      "id": "4939238",
+      "time": "2026-06-17 01:24:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美伊協議簽署後 伊朗即可出口石油】據美國《華爾街日報》16日報道，在美國與伊朗本週簽署諒解備忘錄後，伊朗即可對外銷售其石油和燃料。報道援引匿名知情人士的話說，針對銀行、運輸和保險等伊朗石油出口相關行業的制裁也將同時獲得豁免。據報道，一艘載有原油的伊朗超級油輪當天離開伊朗恰巴哈爾港，穿過美國先前實施封鎖的區域後駛離阿曼灣。該油輪沒有關閉定位追蹤器。（新華社）"
+    },
+    {
+      "id": "mkt:019ed176-1f1f-7dd8-b038-2dc350d6d1a9",
+      "time": "2026-06-17 01:23:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Russian Defence Ministry said Russian warships acted in accordance with international navigation rules and took all measures to prevent accidents."
+    },
+    {
+      "id": "4939237",
+      "time": "2026-06-17 01:23:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯軍艦符合國際航行規則開展行動，並已採取一切措施避免這起事故。"
+    },
     {
       "id": "mkt:019ed174-eb92-7dd8-b038-2565fa1cdc03",
       "time": "2026-06-17 01:22:41",
@@ -169234,68 +169276,6 @@
         "市場"
       ],
       "text": "週二（6月9日），韓元兌美元最終跌0.26%，報1530.87韓元，全天衝高回落、北京時間14:00曾重新整理日高至1509.58韓元。"
-    },
-    {
-      "id": "4926603",
-      "time": "2026-06-10 01:27:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：美伊核談判接近達成框架協議】據紐約時報援引瞭解美伊談判情況的美國官員及外交人士訊息，美伊雙方在四大核心議題上的分歧逐步縮小：暫停鈾濃縮活動十五年、稀釋伊朗現有濃縮鈾庫存、拆除大部分核設施，以及擴大國際核查範圍。受美軍直升機遭擊落等新一輪軍事緊張局勢影響，談判前景仍存變數。雙方談判人員還在商討解凍約 250 億美元伊朗凍結資產事宜。美方官員對後續細節談判有望儘快重啟持謹慎樂觀態度，但雙方內部的政治與軍事反對聲音，依舊構成重大風險。"
-    },
-    {
-      "id": "mkt:019ead6b-6624-7225-91a9-c06fbafa5d15",
-      "time": "2026-06-10 01:25:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The New York Times reports the US believes Iran will agree to suspend uranium enrichment for 15 years."
-    },
-    {
-      "id": "mkt:019ead6a-686d-7225-91a9-bf81bb777f37",
-      "time": "2026-06-10 01:24:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the New York Times, the United States and Iran are focusing on four nuclear issues in their negotiations."
-    },
-    {
-      "id": "4926602",
-      "time": "2026-06-10 01:24:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗稱以色列最新襲擊導致兩名防空部隊士兵身亡。"
-    },
-    {
-      "id": "mkt:019ead69-fd1c-7225-91a9-b793717a1491",
-      "time": "2026-06-10 01:24:24",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "According to the Financial Times, UK Prime Minister Starmer plans to require cabinet ministers who backed Andy Burnham or other challengers in the Labour leadership contest to resign; the move could destabilize his government."
-    },
-    {
-      "id": "mkt:019ead69-c0d6-7225-91a9-a971b1eac5a3",
-      "time": "2026-06-10 01:24:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【US officials say Iranian drone struck US helicopter that crashed; intent unconfirmed】Axios reports Trump said US forces have concluded Iran shot down the US helicopter that crashed in the Strait of Hormuz and he pledged a military response. A US official said investigators determined an Iranian drone struck the helicopter, but officials have not confirmed whether the strike was deliberate and the probe remains ongoing. The incident occurred amid US–Iran talks and one day after Trump helped broker a renewed Israel–Iran ceasefire. CENTCOM said two crew were rescued around 7:30 p.m. ET, roughly two hours after the crash near the Omani coast; the personnel were recovered after a prolonged search by a US Navy unmanned surface vessel, the first at-sea rescue by such a system."
     }
   ]
 }
