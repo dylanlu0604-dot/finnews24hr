@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-17 00:46:41",
-  "count": 18379,
+  "updated": "2026-06-17 00:50:47",
+  "count": 18385,
   "items": [
+    {
+      "id": "4939212",
+      "time": "2026-06-17 00:50:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "Snap執行長在2026增強現實世界博覽會上表示，該公司即將推出Specs增強現實眼鏡。"
+    },
+    {
+      "id": "4939211",
+      "time": "2026-06-17 00:49:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國方面已通知以色列，伊朗承諾就高丰度濃縮鈾外運事宜尋求解決方案。"
+    },
+    {
+      "id": "4939210",
+      "time": "2026-06-17 00:48:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行馬赫盧夫：即便伊美達成協議，物價壓力仍將持續】歐洲央行管委加布裡埃爾·馬赫盧夫認為，美伊和平協議並不會迅速扭轉歐元區通脹走勢。這位愛爾蘭央行行長週二在都柏林表示：“衝突落幕，並不等同於市場衝擊會立刻消散。供應鏈恢復常態、能源價格完成調整所需時長仍有待觀察。”馬赫盧夫的觀點與歐洲央行其他政策制定者口徑一致。此前美伊宣佈達成臨時協議、重啟霍爾木茲海峽通航，能源價格應聲大跌，但一眾央行官員仍為上週加息舉措辯護，並警示通脹壓力不會就此消退。他指出：“戰爭造成基礎設施損毀，原油產能復甦存在滯後性，因此直接推升物價的壓力或許難以快速緩解。另外霍爾木茲海峽航運局勢依舊不明朗，這也是一大變數。”"
+    },
+    {
+      "id": "4939209",
+      "time": "2026-06-17 00:47:52",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛併購交易規模突破1萬億美元，創下史上最快達成該規模紀錄。"
+    },
+    {
+      "id": "4939208",
+      "time": "2026-06-17 00:47:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "聯合太平洋公司：7月4日美國獨立日假期期間，路網運營預計將維持正常開展，所有主要換裝站均保持開放。"
+    },
+    {
+      "id": "mkt:019ed154-7d84-7dd8-b037-7e0acda5e814",
+      "time": "2026-06-17 00:47:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose more than 3% intraday to $3.242/MMBtu."
+    },
+    {
+      "id": "4939207",
+      "time": "2026-06-17 00:47:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員馬克魯夫：直接通脹壓力難以快速緩解。"
+    },
+    {
+      "id": "mkt:019ed154-1f88-7dd8-b037-77e0a455f1f1",
+      "time": "2026-06-17 00:46:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude's intraday decline widened to 7%, trading at $75.68/bbl."
+    },
+    {
+      "id": "4939206",
+      "time": "2026-06-17 00:46:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員馬克魯夫：伊朗戰事落幕並不意味著衝擊就此終結，能源價格調整速度仍有待觀察。"
+    },
     {
       "id": "mkt:019ed153-1589-7dd8-b037-6c517c0ce03a",
       "time": "2026-06-17 00:45:43",
@@ -169103,34 +169186,6 @@
         "Brent"
       ],
       "text": "【EIA says OECD oil stocks could fall to lowest since 2003】The U.S. Energy Information Administration said on Tuesday that a conflict involving Iran has cut Middle East crude output by more than 11 mln bpd, and major consuming countries are drawing inventories at an unprecedented pace to plug the supply gap. Under EIA's current assumptions — including that maritime traffic through the Strait of Hormuz is unlikely to return to pre-conflict levels before early 2027 — OECD total oil stocks are projected to fall to just under 2.3 bln barrels by December."
-    },
-    {
-      "id": "mkt:019ead49-cbd4-7992-a4a7-1232df678213",
-      "time": "2026-06-10 00:49:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israeli chief of staff says strikes on Iran were preparation for larger, more forceful attack; vows intensified action against Hezbollah】IDF Chief of Staff Zamir said on the 9th that recent strikes on Iran were intended to prepare for a larger, more forceful attack and that the IDF remains ready to resume operations against Iran. He said the military has conducted rapid, forceful strikes and will continue to intensify action against Hezbollah, carrying out operations along the southern Lebanon frontline to destroy Hezbollah personnel infrastructure."
-    },
-    {
-      "id": "4926587",
-      "time": "2026-06-10 00:47:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍襲擊黎巴嫩已致3666人死亡】據黎巴嫩公共衛生部緊急行動中心9日訊息，3月2日至6月9日期間，以色列在黎巴嫩發動的襲擊已造成3666人死亡，11321人受傷。（央視）"
-    },
-    {
-      "id": "4926586",
-      "time": "2026-06-10 00:47:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "彭博美元指數抹去早盤跌幅，觸及日內高點。"
     }
   ]
 }
