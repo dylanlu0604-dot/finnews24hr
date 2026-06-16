@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-16 10:21:16",
-  "count": 18283,
+  "updated": "2026-06-16 10:25:15",
+  "count": 18287,
   "items": [
+    {
+      "id": "mkt:019ece3e-0d2e-7dd8-b01b-f1b515abb36c",
+      "time": "2026-06-16 10:23:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share panel stocks briefly rallied; Helitai locked at limit-up. Caihong, Kaisheng Technology, Guanjie Technology, Bayi Shikong and Hehui Optoelectronics also advanced."
+    },
+    {
+      "id": "mkt:019ece3d-e462-7dd8-b01b-efe66766570f",
+      "time": "2026-06-16 10:23:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "【Deutsche Securities: Bank of Japan may halt tapering of monthly bond purchases】Deutsche Securities chief economist Kentaro Koyama said the Bank of Japan would need to fully explain any decision to halt tapering of its monthly bond purchases, particularly after media reports that the government might tacitly permit further rate hikes only if tapering is stopped. He warned that if the BOJ both raises rates and stops tapering, markets and the public could interpret it as a political deal with the government, creating a serious risk of questions over the BOJ's independence."
+    },
+    {
+      "id": "mkt:019ece3d-a7fb-7dd8-b01b-e2d80755973e",
+      "time": "2026-06-16 10:23:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share lab-grown diamond sector strengthened again; Boyun New Materials rose over 8.5%, while Liliang Diamond, Huifeng Diamond, Huanghe Xuanfeng and Sifangda each gained more than 3%."
+    },
+    {
+      "id": "4937531",
+      "time": "2026-06-16 10:22:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍思科技在長沙成立新企業管理諮詢公司  註冊資本1000萬】天眼查App顯示，近日，長沙藍思企業管理諮詢有限公司成立，法定代表人為周群飛，註冊資本1000萬人民幣，經營範圍為企業管理諮詢、社會經濟諮詢服務。股東資訊顯示，該公司由藍思科技（300433）全資持股。"
+    },
+    {
+      "id": "4937530",
+      "time": "2026-06-16 10:22:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜港股漲超9%】智譜港股漲9.06%，報1588.00港元。"
+    },
+    {
+      "id": "4937529",
+      "time": "2026-06-16 10:22:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【面板板塊短線拉昇，合力泰漲停】面板板塊短線拉昇，合力泰漲停，彩虹股份、凱盛科技、冠捷科技、八億時空、和輝光電等跟漲。"
+    },
+    {
+      "id": "mkt:019ece3c-71c5-7dd8-b01b-da538d5ab825",
+      "time": "2026-06-16 10:22:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share storage-chip sector extended gains; Dapuwei rose over 10% after Yachuang Electronics earlier hit the 20% daily limit. Tongyou Technology, Chengdu Huawi Micro, Shenke Technology and GigaDevice also advanced."
+    },
+    {
+      "id": "4937528",
+      "time": "2026-06-16 10:21:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國一汽集團投資成立汽車生態科技公司 含AI及機器人業務】企查查APP顯示，近日，一汽（海南）汽車生態科技有限公司成立，經營範圍包含：智慧無人飛行器銷售；智慧機器人銷售；人工智慧硬體銷售；電動汽車充電基礎設施運營等。企查查股權穿透顯示，該公司由中國第一汽車集團有限公司旗下一汽出行科技有限公司、一汽富華生態股份有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019ece3b-8cec-7dd8-b01b-d0285b9a664e",
+      "time": "2026-06-16 10:21:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01208.HK",
+        "Impact bearish",
+        "01378.HK",
+        "02600.HK"
+      ],
+      "text": "Hong Kong-listed non-ferrous metals stocks pulled back sharply intraday. Minmetals Resources (01208.HK) fell nearly 12%, China Hongqiao (01378.HK) dropped over 5%, China Nonferrous Metal Mining (01258.HK) and Rusal (00486.HK) were down more than 4.5% each, Chalco (02600.HK) and Luoyang Molybdenum (03993.HK) slid over 3%, while Ganfeng Lithium (01772.HK) and Lingbao Gold (03330.HK) also declined."
+    },
     {
       "id": "4937527",
       "time": "2026-06-16 10:19:41",
@@ -168159,51 +168258,6 @@
         "其他"
       ],
       "text": "【海南：到2030年現代生物醫藥產業營收力爭達到500億元】海南省人民政府辦公廳印發《海南省“十五五”高新技術產業發展規劃》，其中指出，依託海南自由貿易港和博鰲樂城政策疊加優勢，加快生物藥創新突破、化學藥高階轉型、現代中藥品牌特色化、醫療器械數智一體化等融合發展，推動生物醫藥產業“高階化、智慧化、國際化”，以海口、瓊海、三亞、儋州“四區聯動”為重點，構建“研發+製造+服務+貿易”全鏈條生態體系，打造全球創新藥械引進和中國創新藥械出海的國際合作平臺，到2030年，現代生物醫藥產業營收力爭達到500億元。"
-    },
-    {
-      "id": "4925031",
-      "time": "2026-06-09 10:25:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百奧幾何完成新一輪數億元戰略融資】近日，百奧幾何（BioGeometry）完成新一輪數億元戰略融資。本輪融資由上海生物醫藥創新轉化基金、國科投資、達晨財智、星連資本聯合領投，高榕資本、指數人工智慧產業創新基金跟投，指數資本擔任獨家財務顧問。據百奧幾何介紹，本輪融資將用於自研生命科學微觀世界模型GeoFlow的持續迭代，並全力加速公司高通量自動化實驗室建設和多元化創新藥物管線推進。"
-    },
-    {
-      "id": "te:markets:557439",
-      "time": "2026-06-09 10:23:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hang Seng Falls for Fifth Straight Session — The Hang Seng Index slipped 64 points, or 0.3%, to 24,600 on Tuesday, extending losses for a fifth straight session and hovering near its lowest level since late March. Sentiment remained fragile despite reports that tensions in the Middle East eased following a halt in hostilities between Israel and Iran and as optimism surrounding AI-related stocks improved. Finance, retail trade and energy minerals posted losses while selected technology stocks gained. Notable decliners included AIA (-1.6%), Lenovo (-0.3%), Knowledge Atlas Technology (-7.8%), and Xiaomi (-1.2%). In contrast, Tencent advanced 3.4% and Semiconductor Manufacturing International Corporation gained 0.9%, helping the benchmark recover from earlier losses. Investors also remained cautious amid persistent concerns over the pace of China's economic recovery and ahead of the country's trade balance data due later."
-    },
-    {
-      "id": "4925030",
-      "time": "2026-06-09 10:22:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電力板塊持續拉昇，深南電A觸及漲停】電力板塊持續拉昇，深南電A觸及漲停，大連熱電此前漲停，華電遼能、亨通股份、大唐發電、上海電力、粵電力A跟漲。"
-    },
-    {
-      "id": "4925029",
-      "time": "2026-06-09 10:22:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥概念震盪拉昇 常山藥業漲超13%】創新藥概念震盪拉昇，常山藥業漲超13%，維康藥業漲超9%，貝達藥業、眾生藥業、榮昌生物、成都先導跟漲。"
-    },
-    {
-      "id": "4925028",
-      "time": "2026-06-09 10:21:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南：探索浮動核反應堆基地建設 建成“大、中、小、浮”兼備的核電能源樞紐】海南省人民政府辦公廳印發《海南省“十五五”高新技術產業發展規劃》，其中提到，加快推動昌江核電二期（3、4號機組）和“玲龍一號”核電小堆建成投產，積極推進核電5、6號機組建設，探索浮動核反應堆基地建設，建成“大、中、小、浮”兼備的核電能源樞紐，在確保安全穩妥的前提下，進一步擴大核電生產能力。支援核技術在醫學診療、環境治理、材料改性、食品保鮮等領域的非動力應用。"
     }
   ]
 }
