@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-16 11:48:33",
-  "count": 18344,
+  "updated": "2026-06-16 11:52:39",
+  "count": 18338,
   "items": [
+    {
+      "id": "4937696",
+      "time": "2026-06-16 11:51:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森霸感測：公司的火焰紅外感測器已應用於消防機器人】森霸感測(300701)6月16日在互動平臺表示，公司的火焰紅外感測器已應用於消防機器人，主要用於火情探測。未來公司會緊跟行業前沿，努力發掘發展契機，力求多方位發展。"
+    },
+    {
+      "id": "4937695",
+      "time": "2026-06-16 11:50:59",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：鋰市場料將保持緊俏】摩根士丹利預計，鋰市場在短期內將保持緊俏。該行表示，中國5月份純電動汽車銷量大幅反彈，環比增長13%。摩根士丹利還強調了全球儲能系統出貨量的強勁增長以及中國卡車電動化的勢頭。不過，在價格上漲的支撐下，預計鋰供應也將回升。摩根士丹利強調了辛巴威鋰出口的恢復以及澳大利亞一些礦山的重啟，同時補充說，棕地擴建專案也開始出現。該行對澳大利亞PLS維持中性評級，相比同行IGO，該行更青睞PLS。摩根士丹利對IGO給予減持評級，理由是Greenbushes礦山壽命計劃和CGP3產能爬坡存在風險。"
+    },
+    {
+      "id": "mkt:019ece8b-2375-7dd8-b01f-0286fd0b9de6",
+      "time": "2026-06-16 11:48:05",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Sumitomo Mitsui: BOJ dissent surprised but didn’t move FX; large hikes unlikely】Sumitomo Mitsui chief FX strategist Hirofumi Suzuki said the BOJ’s lone dissent was unexpected but came from long‑standing moderate policy board member Asada, so it did not materially move the FX market. Market focus had been on whether a 50bp hike would be proposed; no such motion was raised. Suzuki said the outcome is supportive for risk assets, signaling the BOJ is unlikely to pursue large hikes and will probably raise rates gradually roughly every 6–12 months, with a faster timeline only if inflation accelerates or the yen weakens further."
+    },
     {
       "id": "mkt:019ece8a-a0a7-7dd8-b01e-fe15eae51a59",
       "time": "2026-06-16 11:47:31",
@@ -168673,90 +168702,6 @@
         "國際"
       ],
       "text": "【IDC：第一季度全球家用清潔機器人市場出貨893.6萬臺 同比增長36.7%】國際資料公司（IDC）最新追蹤報告資料顯示，2026年第一季度，全球家用清潔機器人市場出貨893.6萬臺，同比增長36.7%。其中掃地機器人市場出貨656.3萬臺，同比增長29.4%，頭部廠商在歐洲市場佈局力度持續加大。"
-    },
-    {
-      "id": "4925136",
-      "time": "2026-06-09 11:51:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "40年期日本國債收益率上升2個基點，升至3.820%."
-    },
-    {
-      "id": "4925135",
-      "time": "2026-06-09 11:51:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達40億港元。"
-    },
-    {
-      "id": "mkt:019eaa81-81c0-7eec-b848-0e15becffae9",
-      "time": "2026-06-09 11:51:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "Japan 40-year government bond yield rises 2.0 bps to 3.820%."
-    },
-    {
-      "id": "mkt:019eaa81-426a-7eec-b848-0630787f0874",
-      "time": "2026-06-09 11:50:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NYT, citing sources, reported a U.S. Army Apache helicopter crashed near the Strait of Hormuz on Monday; two crew members were rescued."
-    },
-    {
-      "id": "4925134",
-      "time": "2026-06-09 11:50:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "根據備案檔案，資本研究管理公司(CAPITAL RESEARCH AND MANAGEMENT)將其在SK海力士的持股比例從5.05%減持至3.53%。"
-    },
-    {
-      "id": "te:markets:557483",
-      "time": "2026-06-09 11:49:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupee Rises on Softer Crude, Easing Tensions — The Indian rupee firmed to around 95.4 per dollar, pausing losses as easing geopolitical tensions and softer crude oil prices improved sentiment across Asian markets. A drop in global energy prices to about $91 per barrel eased concerns over India's import bill, while a weaker dollar supported the domestic currency. Investors also assessed the Reserve Bank of India's recent measures aimed at attracting foreign currency inflows. Demand for dollars from importers remained firm, but the rupee's rebound from recent lows and lower hedging costs reduced aggressive dollar buying, easing short-term pressure on the currency. Regional currencies advanced as reports of a pause in hostilities between Iran and Israel lifted risk appetite. However, investors remained cautious as elevated US Treasury yields, supported by expectations of prolonged restrictive Federal Reserve policy, could limit gains in emerging-market currencies."
-    },
-    {
-      "id": "4925131",
-      "time": "2026-06-09 11:49:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國一架直升機在霍爾木茲海峽附近墜毀，機組人員全部獲救。"
-    },
-    {
-      "id": "mkt:019eaa7f-5d76-7eec-b847-fa29e2a7f173",
-      "time": "2026-06-09 11:48:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "BMD front-month palm oil contract on Bursa Malaysia fell more than 2% intraday to 4,483 Ringgit/tonne."
-    },
-    {
-      "id": "4925130",
-      "time": "2026-06-09 11:48:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【6月9日午間漲停分析】創業板指半日漲近2%，科創50指數漲近3%，半導體、算力硬體股集體反彈。泰和新材、天娛數科3連板，一圖看懂>>"
     }
   ]
 }
