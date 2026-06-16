@@ -1,7 +1,523 @@
 {
-  "updated": "2026-06-16 22:05:37",
-  "count": 18316,
+  "updated": "2026-06-16 22:32:54",
+  "count": 18322,
   "items": [
+    {
+      "id": "4939013",
+      "time": "2026-06-16 22:32:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將召開G20埃博拉問題外長會議。"
+    },
+    {
+      "id": "4939012",
+      "time": "2026-06-16 22:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默的發言人：英國在泰晤士水務問題上已做好應對各種可能性準備。英國政府備選方案包含必要時臨時國有化泰晤士水務。"
+    },
+    {
+      "id": "mkt:019ed0d8-496d-7dd8-b034-14806a955014",
+      "time": "2026-06-16 22:31:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. to convene G20 foreign ministers' meeting on Ebola."
+    },
+    {
+      "id": "mkt:019ed0d7-fff9-7dd8-b034-09d385da7ac5",
+      "time": "2026-06-16 22:31:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A spokesperson for British Prime Minister Starmer said the UK is prepared to respond to all contingencies over the Thames Water situation."
+    },
+    {
+      "id": "4939011",
+      "time": "2026-06-16 22:31:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人呼籲對埃博拉疫情采取強有力和協調一致的應對措施。"
+    },
+    {
+      "id": "4939010",
+      "time": "2026-06-16 22:30:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受石腦油短缺影響 日本多行業遭受衝擊】受中東局勢不確定性所帶來的影響，油墨和塑膠包裝等石化產品的重要原料石腦油在全球範圍內的供應仍然緊俏。在大量依賴進口原材料的日本，部分企業開始透過減少包裝印刷顏色、簡化設計等方式來節約原材料。不少日本民眾在採訪中表示，多種原材料的短缺已經波及日本的諸多行業，其影響可遠比食品包裝變成黑白色要嚴重得多。他們同時也表示，幾個月以來，日本政府仍然沒有拿出有力的舉措來應對當前國內企業生產和民生保障方面的種種問題。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ed0d7-94fb-7dd8-b034-0499f6558fb4",
+      "time": "2026-06-16 22:30:49",
+      "tags": [
+        "MKT News",
+        "HO.PA",
+        "Impact bullish"
+      ],
+      "text": "Renault and Thales signed a cooperation agreement to produce drones as early as next year."
+    },
+    {
+      "id": "mkt:019ed0d7-7ecd-7dd8-b033-f8d7c3d79aaa",
+      "time": "2026-06-16 22:30:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese researchers develop large-area all‑perovskite tandem PV module; JET-certified PCE a world record 26.2%】Nanjing University said Professor Tan Hairen’s team, together with the RenShuo Photonics industrialization research team and Professor Wang Yuanyuan’s chemistry group at Nanjing University, developed a large-area all‑perovskite tandem photovoltaic module that achieved a Japan Electrical Safety and Environment Technology Laboratory (JET)‑certified power conversion efficiency of 26.2%, a world record."
+    },
+    {
+      "id": "mkt:019ed0d7-6d1c-7dd8-b033-f174964c6234",
+      "time": "2026-06-16 22:30:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G7 leaders called for a strong, coordinated response to the Ebola outbreak."
+    },
+    {
+      "id": "4939009",
+      "time": "2026-06-16 22:30:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：雷諾與泰雷茲合作製造無人機 以支援法國國防工業。"
+    },
+    {
+      "id": "4939008",
+      "time": "2026-06-16 22:29:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克個人財富飆升至1.4萬億美元】據《福布斯》最新發布的全球富豪榜，特斯拉與SpaceX掌門人埃隆·馬斯克的個人財富一度飆升至驚人的1.4萬億美元，重新整理歷史紀錄。"
+    },
+    {
+      "id": "4939007",
+      "time": "2026-06-16 22:28:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅業機構Cochilco預計將於9月釋出關於Codelco產量審計的初步報告。"
+    },
+    {
+      "id": "4939006",
+      "time": "2026-06-16 22:28:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "中國恒大新能源汽車集團：若停牌時間超過截至2026年9月30日屆滿的18個月期限，港交所可能會將其除牌。"
+    },
+    {
+      "id": "4939005",
+      "time": "2026-06-16 22:28:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "中國恒大新能源汽車集團：港交所發出第三份復牌指引，要求集團重新符合上市規則要求。"
+    },
+    {
+      "id": "4939004",
+      "time": "2026-06-16 22:27:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱美伊備忘錄細節即將公佈】據美國阿克西奧斯新聞網站6月15日報道，美伊諒解備忘錄細節將在未來24到48小時內公佈。報道還說，雙方將於本週晚些時候啟動技術性討論，解凍資金和放鬆制裁與履約掛鉤。美方計劃在下一階段談判期間保持當前美軍在該地區的軍事力量。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019ed0d4-d511-7dd8-b033-ecce2d961cba",
+      "time": "2026-06-16 22:27:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SAMR approves National Standard Reference Data Metrology Technical Committee (MTC48)】China’s State Administration for Market Regulation has approved the establishment of the National Standard Reference Data Metrology Technical Committee (code MTC48). The committee is intended to accelerate construction of a self-reliant, authoritative and trustworthy standard reference data system and to strengthen independent assurance of key foundational datasets. MTC48 will address common foundational issues in standard reference data, promote an authoritative, interoperable technical framework, and coordinate development and application of urgently needed baseline datasets for AI, quantum technology, advanced materials, life and health, green low-carbon and advanced manufacturing to support scientific discovery, R&D, industrial development and governance modernization."
+    },
+    {
+      "id": "4939003",
+      "time": "2026-06-16 22:27:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國標準參考資料計量技術委員會獲批成立】記者今天瞭解到，市場監管總局近日批准成立全國標準參考資料計量技術委員會（代號MTC48）。這是我國加快構建自主可控、權威可信的標準參考資料體系，提升關鍵基礎資料自主保障能力的重要舉措。標準參考資料是科學研究、產業創新和質量評價中具有“標尺”作用的高質量資料。小到一個材料效能引數，大到生命健康、碳達峰碳中和、先進製造等領域的關鍵資料，都需要標準參考資料作為判斷依據。它就像資料世界裡的“標準砝碼”，用來回答資料“準不準”、結果“可不可信”、方法“能不能復現”等基礎問題。在數智化轉型的當下，可信資料基礎的重要性更加凸顯。標準參考資料不僅服務傳統計量、檢測和質量控制，也正在成為數字化、智慧化條件下的新質生產力，為人工智慧模型訓練、智慧製造過程控制、數字孿生系統建設、重大科學工程驗證等提供可信的資料基座。近年來，我國持續推進標準參考資料建設，但在部分關鍵領域仍存在高質量資料資源不足、技術體系不夠完善、自主供給能力有待提升等問題，與發達國家存在較大差距。全國標準參考資料計量技術委員會成立後，將聚焦標準參考資料建設中的基礎共性問題，推動形成權威可信、協同高效的技術體系，面向人工智慧、量子科技、先進材料、生命健康、綠色低碳、先進製造等重點領域，統籌推進一批急需、關鍵、基礎的標準參考資料建設和應用，為科學發現、技術攻關、產業發展和治理現代化提供有力可信資料支撐。（央視新聞）"
+    },
+    {
+      "id": "4939002",
+      "time": "2026-06-16 22:26:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【我國成功研製出大面積全鈣鈦礦疊層光伏元件 光電轉換效率重新整理世界紀錄達26.2%】據南京大學訊息，該校教授譚海仁團隊聯合仁爍光能（蘇州）有限公司團隊成功研製出大面積全鈣鈦礦疊層光伏元件，經日本電氣安全環境研究所（JET）認證，該元件的光電轉換效率高達26.2%，重新整理了該面積等級全鈣鈦礦疊層光伏元件的世界紀錄。相關研究成果15日以快速預覽的形式線上發表於國際學術期刊《自然》。團隊此次製備出一種65平方釐米的無空穴傳輸層的隧穿複合結結構的光伏元件，該結構採用奈米晶功能層替代傳統超薄金屬複合層，並去除PEDOT:PSS空穴傳輸層，實現了介面連線層的結構重構。 (科技日報)"
+    },
+    {
+      "id": "mkt:019ed0d2-932d-7dd8-b033-e2d5973197e5",
+      "time": "2026-06-16 22:25:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX options traded over 500,000 contracts in the first hour after trading opened."
+    },
+    {
+      "id": "mkt:019ed0d1-1ed4-7dd8-b033-ddbdc8bbf4ed",
+      "time": "2026-06-16 22:23:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) shares pared gains to below 10%."
+    },
+    {
+      "id": "4939001",
+      "time": "2026-06-16 22:23:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX 期權交易開盤首小時內，成交超 50 萬張期權合約。"
+    },
+    {
+      "id": "4939000",
+      "time": "2026-06-16 22:23:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數觸及盤中低點，下跌0.1%。"
+    },
+    {
+      "id": "te:economy:559386",
+      "time": "2026-06-16 22:23:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sri Lanka",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Sri Lanka Manufacturing Activity Rebounds in May — Sri Lanka’s Manufacturing PMI rose to 56.6 in May 2026 from 42.6 in the previous month, signaling a rebound in manufacturing activity. All sub-indices moved above the neutral threshold. Stocks of purchases increased to 52.6 from 44.0, in line with gains in new orders (52.6 vs 36.4) and production (54.6 vs 30.5). The rise in new orders and output was mainly driven by the food and beverages and textiles and wearing apparel sectors. Production also benefited from a higher number of working days in May compared to April. Meanwhile, suppliers' delivery times remained lengthened, though the index eased to 66.3 from 68.7. Respondents continued to cite the Middle East conflict as a source of operating challenges."
+    },
+    {
+      "id": "4938999",
+      "time": "2026-06-16 22:22:50",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX股價漲幅收窄至不足10%。"
+    },
+    {
+      "id": "4938998",
+      "time": "2026-06-16 22:22:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌至當日低點，下跌0.5%。"
+    },
+    {
+      "id": "4938997",
+      "time": "2026-06-16 22:22:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：作為華盛頓與德黑蘭之間的關鍵調解方，卡達表示，美伊會談的調解人正與伊朗探討互不侵犯條約、非國家武裝組織及核問題，這揭示了談判範圍正在不斷擴大。"
+    },
+    {
+      "id": "mkt:019ed0cf-b3cb-7dd8-b033-d2c8068a99c6",
+      "time": "2026-06-16 22:22:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Qatar told CNN that mediators between Washington and Tehran are discussing a mutual non‑aggression pact, non‑state armed groups and nuclear issues, indicating the talks' scope is expanding."
+    },
+    {
+      "id": "4938996",
+      "time": "2026-06-16 22:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "管理規模達 14 萬億美元的貝萊德正式推出比特幣收益增強型 ETF。"
+    },
+    {
+      "id": "4938995",
+      "time": "2026-06-16 22:20:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美銀：裕信或憑藉德國商業銀行大獲成功】美國銀行的Antonio Reale和Rohan Datta在一份報告中表示，裕信對德國商業銀行的追求有可能帶來盈利的大幅增長，而這一前景似乎被錯誤定價。美國銀行表示，如果該義大利銀行獲得德國商業銀行50%的控制權，它將能夠把該德國銀行的業績併入自己的賬戶。他們估計，如果裕信最終獲得德國商業銀行的完全所有權，到2030年，其調整後淨利潤可能會較去年的101億歐元增至205億歐元。美國銀行將裕信股票的目標價從92歐元上調至100歐元，並稱其為歐盟銀行業中的首選股票。裕信股價上漲4.1%，至77.66歐元。"
+    },
+    {
+      "id": "4938994",
+      "time": "2026-06-16 22:19:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "塞爾維亞總統：匈牙利MOL石油公司與俄羅斯天然氣石油工業公司、俄羅斯天然氣工業股份公司，就收購受美國製裁的塞爾維亞石油工業公司51.56%股權的談判，應獲得15天延期。"
+    },
+    {
+      "id": "4938993",
+      "time": "2026-06-16 22:18:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美伊達成旨在結束雙方衝突的框架協議後，美軍計劃從以色列本・古裡安機場撤走約 20% 的空中加油機。美軍目前在該機場部署了 72 架加油機，佔用了機場近一半的停機位。目前尚不清楚這批戰機是會撤離以色列本土，還是轉場至以色列空軍基地。"
+    },
+    {
+      "id": "4938992",
+      "time": "2026-06-16 22:17:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗代理國防部長：相比此前同美國、以色列及其盟友爆發的第二場強加戰爭，伊朗在本次衝突中的作戰效率大幅提升。"
+    },
+    {
+      "id": "4938991",
+      "time": "2026-06-16 22:17:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗代理國防部長：儘管在第三場強加戰爭期間國防需求持續攀升，但導彈、無人機及戰略武器的生產工作從未中斷。"
+    },
+    {
+      "id": "mkt:019ed0c9-ef36-7dd8-b033-cde95b703175",
+      "time": "2026-06-16 22:15:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【ECB chief economist Lane: inflationary pressures still building; oil unlikely to fall sharply】ECB chief economist Lane said inflationary pressures from the Middle East conflict have not yet fully shown up and the bank must prepare. Despite a US‑Iran deal to reopen the Strait of Hormuz, oil has not returned to pre-crisis paths. Four months of elevated energy prices mean inflation is likely to exceed 3% in the transmission chain, with energy this year and next feeding indirectly into food, goods and services. Investors and economists broadly expect at least another 25bp ECB hike to about 2.5% and for inflation to remain above the 2% target for a period. Even if shipping normalizes, oil supply normalization will take months, so high energy costs are likely to increasingly pass through to consumer prices; oil is unlikely to fall sharply from around $80–81 a barrel."
+    },
+    {
+      "id": "mkt:019ed0c9-7edf-7dd8-b033-c1eb060b382b",
+      "time": "2026-06-16 22:15:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filings show Growatt Technology Co., Ltd has submitted a listing application to HKEX."
+    },
+    {
+      "id": "te:markets:559382",
+      "time": "2026-06-16 22:15:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Netflix Stock Price Hits 15-week Low — Netflix shares decreased to 79.27 USD, the lowest since February 2026. Over the past 4 weeks, Netflix lost 11.21%, and in the last 12 months, it decreased 35.04%."
+    },
+    {
+      "id": "4938990",
+      "time": "2026-06-16 22:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列前總理：伊朗與美國達成的協議只是臨時性的，以色列必須確保該協議拆除德黑蘭的導彈專案，並阻止伊朗獲取核武器。"
+    },
+    {
+      "id": "mkt:019ed0c6-f071-7dd8-b033-bc6abf0e944c",
+      "time": "2026-06-16 22:12:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Kpler: Strait of Hormuz reopening could trigger temporary surge in transit volumes】Kpler analysts say reopening of the Strait of Hormuz could produce an initial rapid spike in tanker activity. About 118 laden vessels currently trapped inside the Persian Gulf could depart first, driving a marked but short-lived rise in transits over the first 10–15 days. The key uncertainty is how quickly additional ships will re-enter the corridor. In an upside scenario, if security concerns are fully lifted, flows could rebound rapidly and briefly exceed pre-war levels, though that is judged unlikely. In the base case, recovery is gradual: transits rise from roughly 15 vessels per day initially to about 40 per day by month-end, with tankers making up about 60%."
+    },
+    {
+      "id": "4938989",
+      "time": "2026-06-16 22:12:25",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美伊諒解備忘錄簽署儀式擬於19日在瑞士中部舉行】瑞士外交部16日表示，美國與伊朗可能舉行的諒解備忘錄簽署儀式將於6月19日在瑞士中部的布林根斯托克，而非日內瓦舉行。（央視新聞）"
+    },
+    {
+      "id": "4938988",
+      "time": "2026-06-16 22:11:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐洲對掃雷任務心存顧慮 霍爾木茲海峽開放時間仍存變數】歐洲官員擔心，特朗普希望儘快重開霍爾木茲海峽，可能會迫使盟友派遣海軍艦艇參與行動，面臨安全風險。一名參與相關閉門討論的歐洲高階官員表示，美國與盟友之間圍繞如何清除伊朗在這條關鍵水道佈設的水雷展開的討論變得極其複雜，原因在於各方對於具體作業方式仍存在諸多不確定性。特朗普設定的嚴格時間表——本週末前完成——進一步加劇了歐洲方面的猶豫。該官員表示，執行掃雷任務的專業艦艇通常航速較慢，且缺乏防禦武器，因此容易成為攻擊目標。另一名歐洲官員表示，美國目前缺乏足夠可部署至中東的掃雷能力，因此在這一特定領域需要盟友協助。在七國集團峰會上，歐洲國家就協議具體內容提出了一系列問題，希望在承諾參與掃雷和巡邏任務前獲得明確說明。但迄今為止，他們得到的答覆並不多。"
+    },
+    {
+      "id": "mkt:019ed0c5-9a9d-7dd8-b033-b31d7fc5ddf4",
+      "time": "2026-06-16 22:11:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Europe wary of mine‑clearing operation; Strait of Hormuz reopening timeline uncertain】European officials warn President Trump’s push to reopen the Strait of Hormuz quickly could pressure allies to deploy naval vessels for mine‑clearing and patrols, raising security risks. Closed‑door talks on removing Iranian‑laid mines are politically and operationally complex, with major uncertainty over specific tactics and responsibilities. Trump’s tight deadline — to complete operations by the end of this weekend — has heightened European hesitation. Mine‑countermeasure vessels are typically slow and lightly armed and therefore vulnerable to attack, and the US lacks sufficient deployable MCM capacity in the Middle East, officials said, creating a need for allied assistance. At the G7, European states pressed for concrete details and rules of engagement before committing to participation but have received few answers to date."
+    },
+    {
+      "id": "4938987",
+      "time": "2026-06-16 22:11:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "SL Science股價在SPAC業務合併後，前一交易日暴跌42%後，今日飆升逾兩倍。"
+    },
+    {
+      "id": "mkt:019ed0c5-7634-7dd8-b033-ad2e2d48b3db",
+      "time": "2026-06-16 22:11:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CRM.N",
+        "Impact bullish"
+      ],
+      "text": "Salesforce and Databricks to expand partnership in data and AI."
+    },
+    {
+      "id": "mkt:019ed0c4-ab31-7dd8-b033-a7840f72e78b",
+      "time": "2026-06-16 22:10:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish",
+        "YPF.O"
+      ],
+      "text": "Argentina's YPF signed a letter of intent with Tesla to explore cooperation on fast-charging stations and energy-storage infrastructure."
+    },
+    {
+      "id": "4938986",
+      "time": "2026-06-16 22:09:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷YPF與特斯拉簽署意向書，探索包括快速充電站和儲能基礎設施在內的合作。"
+    },
+    {
+      "id": "4938984",
+      "time": "2026-06-16 22:09:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Kpler：霍爾木茲海峽重新開放可能引發通行量短暫激增】Kpler的分析師表示，隨著被困在海灣內的約118艘滿載船隻可能率先駛出，霍爾木茲海峽的重新開放可能會迎來油輪活動的早期激增，從而在最初的10-15天內引發通行量急劇但短暫的飆升。主要的不確定性在於新船隻重新進入該地區的速度有多快。Matt Wright和Panagiotis Krontiras表示，在快速回歸的情境下，如果安全擔憂完全消除，流量可能會迅速反彈，甚至短暫超過戰前水平，儘管這種結果被認為是不太可能的。在基準情境下，復甦將更加漸進，通行量將從最初的每天約15艘增加到月底的40艘，其中油輪約佔60%。"
+    },
+    {
+      "id": "4938983",
+      "time": "2026-06-16 22:08:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空釋出宣告，推出不含免費餐食的基礎票價產品。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606163773381964",
+      "time": "2026-06-16 22:08:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲表示，聯邦公開市場委員會會議按計劃於東部時間上午10點開始。"
+    },
+    {
+      "id": "4938982",
+      "time": "2026-06-16 22:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方資料顯示，截至6月14日，歐盟2025/26年度玉米進口量為1722萬噸，去年同期為1908萬噸。"
+    },
+    {
+      "id": "4938981",
+      "time": "2026-06-16 22:07:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方資料顯示，截至6月14日，歐盟2025/26年度大麥出口量為861萬噸，去年同期出口量為469萬噸。"
+    },
+    {
+      "id": "4938980",
+      "time": "2026-06-16 22:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方資料顯示，截至6月14日，歐盟2025/26年度軟小麥出口量為2238萬噸，去年同期出口量為2094萬噸。"
+    },
+    {
+      "id": "4938979",
+      "time": "2026-06-16 22:07:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "民調顯示，在巴西總統大選潛在的第二輪投票中，盧拉支援率為49.3%，弗拉維奧·博索納羅為36.8%。"
+    },
+    {
+      "id": "4938978",
+      "time": "2026-06-16 22:07:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "古瑞瓦特股份有限公司在港交所提交IPO申請，保薦人為華泰國際。"
+    },
+    {
+      "id": "4938977",
+      "time": "2026-06-16 22:06:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲表示聯邦公開市場委員會會議已按計劃於美國東部時間上午 10 時召開。"
+    },
+    {
+      "id": "mkt:019ed0c1-7bd6-7dd8-b033-999e897e5204",
+      "time": "2026-06-16 22:06:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve said the Federal Open Market Committee meeting will begin as scheduled at 10:00 a.m. ET."
+    },
+    {
+      "id": "4938976",
+      "time": "2026-06-16 22:06:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【必和必拓與力拓押注印度 瞄準“全球南方”新紅利】全球兩大礦業巨頭必和必拓與力拓正日益將目光投向印度，視其為全球鍊鋼業的下一個重大增長引擎。兩家礦業公司的高階商業高管均表示，印度不斷增長的需求和新增的產能，有助於抵消其他地區增速放緩的影響。"
+    },
+    {
+      "id": "4938975",
+      "time": "2026-06-16 22:06:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德意志銀行：美國新屋開工數受多戶型住宅波動打擊】德意志銀行證券美國首席經濟學家Matthew Luzzetti表示，近期新屋開工數的下滑可能是由於多戶型住宅開工數這一波動性較大的部分出現了接近創紀錄的降幅。Luzzetti告訴《華爾街日報》：“建築許可作為房地產市場一個相對更穩定的指標，其資料非常接近預期。“雖然他表示房地產市場一直未能成為該國經濟重要的增長來源，但他“也不想根據今天上午的資料就得出房地產市場正在斷崖式下跌的結論。”"
+    },
     {
       "id": "4938974",
       "time": "2026-06-16 22:04:57",
@@ -168245,484 +168761,6 @@
         "Brent"
       ],
       "text": "U.S. Energy Secretary Wright said oil exports from the Strait of Hormuz and the Persian Gulf will increase."
-    },
-    {
-      "id": "4926444",
-      "time": "2026-06-09 22:32:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "資料中心開發商Crusoe暫停位於美國懷俄明州（Wyoming）的AI專案。"
-    },
-    {
-      "id": "te:markets:557713",
-      "time": "2026-06-09 22:32:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Sugar Futures at Over 1-Week Low — Sugar futures in the US eased to just below 14.1 US cents, the lowest since late May, partly influenced by falling oil prices and the ongoing weakness in the Brazilian real. The strong performance of the 2026/27 sugarcane harvest is also putting pressure on prices, due to increased supply and growing inventories. The Brazilian Sugarcane and Bioenergy Industry Association (UNICA) reported that sugar production in Brazil's Center-South region reached 2.475 million tons in April of the 2026/27 crop year, a volume 55.3% higher than that recorded in the same period of the previous cycle. Strength in Thailand’s sugar exports, the world’s second-largest, also reinforced the perception of a comfortable supply.. However, concerns persisted about the impact of the El Niño weather phenomenon on the upcoming global sugarcane harvest, particularly in Brazil, India and Thailand."
-    },
-    {
-      "id": "4926443",
-      "time": "2026-06-09 22:30:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報66.75美元/盎司。"
-    },
-    {
-      "id": "4926442",
-      "time": "2026-06-09 22:30:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "PAYONEER股價漲幅擴大至 25%。"
-    },
-    {
-      "id": "4926441",
-      "time": "2026-06-09 22:30:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守67美元/盎司，日內跌2.39%。"
-    },
-    {
-      "id": "te:markets:557712",
-      "time": "2026-06-09 22:30:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Hits 7-week Low — Gasoline decreased to 2.99 USD/Gal, the lowest since April 2026. Over the past 4 weeks, Gasoline lost 16.62%, and in the last 12 months, it increased 44.06%."
-    },
-    {
-      "id": "4926440",
-      "time": "2026-06-09 22:29:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守67美元/盎司，日內跌1.70%。"
-    },
-    {
-      "id": "te:economy:557711",
-      "time": "2026-06-09 22:28:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Wholesale Inventories",
-        "Importance 1"
-      ],
-      "text": "US Wholesale Inventories Rise for Third Straight Month — US wholesale inventories rose 0.6% month-over-month to $940.3 billion in April 2026, following an upwardly revised 1.5% increase in March and slightly exceeding forecasts for a 0.5% gain. The increase marked the third consecutive monthly rise in wholesale stockpiles, although the pace slowed from March's increase, which was the strongest since August 2022. Compared with April 2025, total inventories were up 3.6%. The monthly increase for March was revised up from an initial estimate of 0.5% to 0.6%. Meanwhile, the inventory-to-sales ratio for merchant wholesalers stood at 1.19 in April, unchanged from the previous month."
-    },
-    {
-      "id": "4926439",
-      "time": "2026-06-09 22:27:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【六國制裁參與約旦河西岸暴力事件的定居者】英國外交部9日發表宣告說，英國、法國、澳大利亞、紐西蘭、加拿大和挪威六國將協同制裁在約旦河西岸參與暴力襲擊巴勒斯坦平民的猶太定居者。宣告說，英國此次對涉嫌資助、協助或實施有關暴力活動的6家實體和1名個人實施制裁，這些制裁物件涉及向以色列定居者農場和前哨站提供募集資金、輸送捐款、組織支援以及拆除建築等服務。宣告說，英方將首次在官方海外商業指引中明確建議企業避免在以色列定居點開展經濟和金融活動，還將追加100萬英鎊用於加沙人道主義排雷工作，並於2026年向巴勒斯坦民族權力機構提供至少1000萬英鎊的財政和技術支援。（新華社）"
-    },
-    {
-      "id": "4926438",
-      "time": "2026-06-09 22:27:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍參謀長：我們將繼續行動，並進一步打擊黎巴嫩真主黨。我們的部隊處於警戒狀態，將對任何檢測到的威脅採取行動。我們隨時準備立即重返與伊朗的戰鬥。近期對伊朗的襲擊是更強大、更嚴重打擊的前奏。"
-    },
-    {
-      "id": "mkt:019eacc8-0bb8-7dd1-a396-a7a282a775c3",
-      "time": "2026-06-09 22:27:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli military chief of staff said the IDF is ready at any time to immediately return to combat with Iran, and that recent strikes on Iran are a prelude to stronger, more severe attacks."
-    },
-    {
-      "id": "mkt:019eacc7-b04b-7dd1-a396-9f2621663c9c",
-      "time": "2026-06-09 22:27:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israel Defense Forces chief of staff says forces are on alert and will act on any detected threats."
-    },
-    {
-      "id": "mkt:019eacc7-6c68-7dd1-a396-91200b724e46",
-      "time": "2026-06-09 22:26:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces chief of staff said the military will continue operations and further strike HEZBOLLAH."
-    },
-    {
-      "id": "mkt:019eacc6-efa5-7dd1-a396-8fa505fbd12d",
-      "time": "2026-06-09 22:26:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "IDF chief of staff said the military continues to operate and conduct strikes on the southern Lebanon front."
-    },
-    {
-      "id": "4926437",
-      "time": "2026-06-09 22:26:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍參謀長：我們繼續在黎巴嫩南部前線作戰並進行攻擊。"
-    },
-    {
-      "id": "4926436",
-      "time": "2026-06-09 22:26:14",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【道明證券：美國5月CPI料降溫但仍然高企，年核心心通脹下行空間有限】道明證券預計，即將公佈的美國5月CPI報告將確認通脹正在放緩，但仍頑固地處於高位。該機構預計美國5月核心CPI月率將降至0.23%，年率持平於2.8%；整體CPI月率降至0.4%，年率升至4.2%。從細分項來看，預計5月商品價格環比上漲0.13%，與三個月均值持平。其中，除汽車外的核心商品貢獻了大部分漲幅，家居用品、服裝等類別均出現上漲。預計二手車價格再次下跌將部分抵消這一漲幅。此外，預計油價衝擊和關稅影響的持續傳導將在6月將核心通脹推至同比3.0%左右，若航空燃油成本以超出預期的幅度傳導至機票價格，則存在上行風險。展望2026年下半年，預計核心通脹不會出現有意義的下降。除汽車外的核心商品價格將繼續顯示強勢，而住房成本將在高位趨於正常化。"
-    },
-    {
-      "id": "4926435",
-      "time": "2026-06-09 22:25:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【凱投宏觀：推動加拿大出口走強的不僅僅是油價】凱投宏觀的阿麗亞娜·柯蒂斯表示，4月份加拿大出口的走強不僅僅是因為油價。油價上漲繼續支撐能源出口，但加拿大的出口量也出現了廣泛增長。柯蒂斯說，自伊朗戰爭爆發以來，加拿大貿易條件的改善表明，未來幾個月貿易順差應會進一步增加。隨著出口額創下歷史新高，4月份商品貿易順差從3月份的18億加元擴大至約27億加元。該經濟學家表示，貿易資料似乎與4月份GDP環比強勁增長0.4%的初步估計相符。"
-    },
-    {
-      "id": "mkt:019eacc6-4a2b-7dd1-a396-8365f5c55fab",
-      "time": "2026-06-09 22:25:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "XAUUSD"
-      ],
-      "text": "【TD Securities: US May CPI expected to cool but remain elevated; limited downside for core inflation this year】TD Securities expects US May CPI to show slowing inflation but remain stubbornly high. Forecasts: core CPI MoM 0.23%, YoY 2.8%; headline CPI MoM 0.4%, YoY 4.2%. Goods prices are seen rising 0.13% MoM, matching the three-month average, with non-auto core goods (furniture, apparel) providing most of the gain; used-car prices are expected to fall again, partly offsetting the rise. Continued pass-through from the oil shock and tariffs is projected to push core CPI toward about 3.0% YoY in June; upside risk if jet-fuel costs transmit to airfares more than expected. Looking to H2 2026, TD sees little scope for a meaningful decline in core inflation: non-auto core goods should stay firm while housing costs normalize at an elevated level."
-    },
-    {
-      "id": "4926434",
-      "time": "2026-06-09 22:24:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產商業火箭複用技術迎來新進展】6月9日16點23分，朱雀二號改進型遙六運載火箭在東風商業航天創新試驗區發射升空，將搭載的千帆DTC 01星和中國移動02星順利送入預定軌道，飛行試驗任務取得圓滿成功。在這次任務中，朱雀二號完成了一項重要的技術改進，火箭的一二級分離換了一種全新的方式。 過去火箭分家，全靠類似炸藥的火工品炸開連線部位，這種方式有明顯短板，火工品是一次性用品，裝好沒法提前測試，用完就徹底報廢。而這一次，朱雀二號使用了氣動推杆代替火工品，靠高壓氣體推動活塞，頂開二級箭體，輕輕鬆鬆完成分離。朱雀二號改進型運載火箭副總師尚明友表示：“首先是取消了火工品；第二是地面可測，隨時都可以加上氣源，看一下它的推力；第三是相對安全一些，這是我們自主研製的，自主可控性也更高了。”此外，尚明友告訴記者，這項新技術還有更大的潛力——助力火箭重複使用。以往的火工品用一次就報廢，可氣動推杆能反覆工作。這套技術和可重複使用的朱雀三號火箭一脈相承，既能共享技術經驗，也能帶動配套產業升級，讓火箭整體效能越來越穩定。 （央視財經）"
-    },
-    {
-      "id": "4926433",
-      "time": "2026-06-09 22:23:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南非多地發生針對外籍人員的遊行、示威，中使館提醒中國公民、企業和機構防範安全風險】6月9日，中國駐南非使館提醒中國公民、企業和機構防範安全風險。近期，南非多地發生針對外籍人員的遊行、示威、請願等活動，部分演變為滋擾衝擊和“打砸搶”，造成人員傷亡和財產損失，有僑胞店鋪受到波及。當地民間組織要求非法移民6月30日前離開南非，並策劃抗議活動。有分析認為，此類活動可能持續蔓延升級，甚至引發嚴重暴力和騷亂事件。南非總統拉馬福薩近日表示，將加大檢查和驅逐、遣返非法移民，打擊非法務工力度，對非法用工的僱主採取監禁等更嚴厲懲處措施。中國駐南非使館要求廣大在南非中國公民、企業和機構，嚴格依法合規經營，高度重視防範上述活動安全風險。"
-    },
-    {
-      "id": "mkt:019eacc3-c52d-7dd1-a396-7faa0e2dd622",
-      "time": "2026-06-09 22:22:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Energy Secretary Wright said natural gas will become the largest source of incremental power for AI."
-    },
-    {
-      "id": "te:markets:557710",
-      "time": "2026-06-09 22:22:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Hold Broadly Higher — US equities held their broad gains on Tuesday as energy prices pulled back and improved the outlook on credit conditions. The S&P 500 and the Dow were 0.5% higher, while the Nasdaq 100 was near the flatline to hold yesterday's rebound. Oil and fuel prices eased as signs of de-escalation since the weekend paved the way for negotiations between Tehran and Washington for a potential agreement that restores energy exports. Equities were supported by a rebound for Treasuries as markets gauged whether the Fed will deliver a rate hike this year. Pressure on fixed-income will be tested again tomorrow with May's inflation rate, set to rise further. Asset managers were sharply higher as markets reconsidered risks on private credit redemptions, with Blackstone and KKR adding 5%. Alphabet and Meta added 2% each to make up for recently-lost ground. OpenAI confidentially filed for an IPO and Anthropic raised more cash, pointing to more spending on AI infrastructure, although chip producers stalled."
-    },
-    {
-      "id": "4926432",
-      "time": "2026-06-09 22:22:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特： 天然氣將成為支撐人工智慧算力的第一大新增能源來源。"
-    },
-    {
-      "id": "4926431",
-      "time": "2026-06-09 22:21:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聚傑微纖：電子布產品正在進行測試 高階紗線已有合作供應商】聚傑微纖在電話會議上表示，電子布產品正在進行測試，會根據測試進度送樣檢測，客戶認證可能需反覆除錯引數，所以時間上存在不確定。電子布業務原材料供應方面，常規紗線採購正常；高階紗線已有合作供應商，現階段僅用於產品測試，使用的量不是很大。"
-    },
-    {
-      "id": "4926430",
-      "time": "2026-06-09 22:20:42",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "高盛股價迅速轉跌。"
-    },
-    {
-      "id": "4926429",
-      "time": "2026-06-09 22:19:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "白俄羅斯反對派領袖表示，美國告知她釋放更多政治犯的計劃已推遲。"
-    },
-    {
-      "id": "mkt:019eacc0-753b-7dd1-a396-75874e9e3c3c",
-      "time": "2026-06-09 22:19:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Belarus opposition leader said the U.S. told her plans to release additional political prisoners have been delayed."
-    },
-    {
-      "id": "4926428",
-      "time": "2026-06-09 22:19:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "PAYONEER股價飆升17.5%，此前路透報道其與NUVEI進行深入收購談判。"
-    },
-    {
-      "id": "4926427",
-      "time": "2026-06-09 22:18:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報67.20美元/盎司。"
-    },
-    {
-      "id": "4926426",
-      "time": "2026-06-09 22:18:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4330美元/盎司，日內跌0.77%。"
-    },
-    {
-      "id": "4926425",
-      "time": "2026-06-09 22:18:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4310美元/盎司，日內跌0.51%。"
-    },
-    {
-      "id": "4926424",
-      "time": "2026-06-09 22:17:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：全自動駕駛（FSD）監督版現已在丹麥獲批。"
-    },
-    {
-      "id": "te:markets:557709",
-      "time": "2026-06-09 22:17:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Apple Stock Price Hits 4-week Low — Apple shares decreased to 293.19 USD, the lowest since May 2026. Over the past 4 weeks, Apple gained 0.23%, and in the last 12 months, it increased 44.74%."
-    },
-    {
-      "id": "4926423",
-      "time": "2026-06-09 22:17:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌。"
-    },
-    {
-      "id": "4926422",
-      "time": "2026-06-09 22:17:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【業內人士看好工程機械和船舶龍頭企業】近期，不少工程機械開始漲價，全球市場造船訂單也持續攀升。對此，浙商證券研究所所長助理、機械行業首席分析師王華君在做客央視財經大型融媒體直播節目《財訪》時認為，在傳統裝備製造業裡，從確定性的角度來看，工程機械和船舶的龍頭企業值得重視。（央視財經）"
-    },
-    {
-      "id": "4926421",
-      "time": "2026-06-09 22:16:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院多數黨黨鞭：眾議院議長正在白宮與特朗普敲定《外國情報監視法》相關協議。"
-    },
-    {
-      "id": "4926419",
-      "time": "2026-06-09 22:16:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破62000美元，日內跌1.78%。"
-    },
-    {
-      "id": "4926418",
-      "time": "2026-06-09 22:16:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國專家組同國際機構代表座談埃博拉防控】援剛果（金）中國抗疫醫療首批專家組9日在剛果（金）首都金沙薩同紅十字會與紅新月會國際聯合會代表座談，就埃博拉疫情形勢、防控需求以及下一步合作方向等交換意見。專家組領隊陸明說，中方專家組願同剛方衛生部門、醫療和疾控機構以及包括紅十字會與紅新月會國際聯合會在內的國際夥伴加強合作，結合一線實際儘快明確防控和救治需求，在疫情研判、病例救治、實驗室檢測、防控培訓等方面提供支援，為早日控制疫情貢獻力量。（新華社）"
-    },
-    {
-      "id": "mkt:019eacbb-e482-7332-b09b-b984b67072ae",
-      "time": "2026-06-09 22:14:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "The S&P 500 and Nasdaq-100 hit intraday lows after giving back earlier gains."
-    },
-    {
-      "id": "4926417",
-      "time": "2026-06-09 22:13:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數和納斯達克100指數漲幅收窄，觸及盤中低點。"
-    },
-    {
-      "id": "mkt:019eacbb-1f23-7dd1-a396-65ed3651e1a4",
-      "time": "2026-06-09 22:13:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US Energy Secretary Wright said restoring normal energy flows will take months."
-    },
-    {
-      "id": "4926416",
-      "time": "2026-06-09 22:12:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "美國能源部長賴特：迴歸正常能源流動將需要“數月時間”。"
-    },
-    {
-      "id": "4926415",
-      "time": "2026-06-09 22:10:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "美國能源部長賴特：其他國家也出現了“需求破壞”現象。"
-    },
-    {
-      "id": "mkt:019eacb7-c79d-7dd1-a396-5c714cb4e3ab",
-      "time": "2026-06-09 22:09:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "Copper"
-      ],
-      "text": "U.S. Energy Secretary Wright said other countries have already experienced 'demand destruction'."
-    },
-    {
-      "id": "te:economy:557708",
-      "time": "2026-06-09 22:09:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Existing Home Sales",
-        "Importance 3"
-      ],
-      "text": "US Existing Home Sales Rise More than Expected — Existing home sales in the United States rose by 3.2% from the previous month to an annualized rate of 4.17 million, extending the rebound from the seven-month low in March. The result surpassed market expectations of a softer rebound to 4.07 million despite the elevated levels of mortgage rates in the period, as high energy prices and a robust labor market drove long-maturity Treasury yields to rise. Sales were firmly higher in the South (3.2% to 1.96 million) and the Midwest (6.4% to 1.0 million), while the increase was lower in the Northeast (2.2% to 0.46 million) and sales were unchanged at the West (0.75 million). Inventory grew by 3.3% on the month, the highest in 10 months, equivalent to 4.5 months of supply at the latest sales rate."
-    },
-    {
-      "id": "4926414",
-      "time": "2026-06-09 22:08:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國教育部發布學生貸款情況說明書，特朗普政府正在簡化學生貸款償還流程。"
-    },
-    {
-      "id": "4926413",
-      "time": "2026-06-09 22:07:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：應關注對金屬和石油精煉產品的制裁。"
-    },
-    {
-      "id": "mkt:019eacb5-9fb2-7332-b09b-a039c9950b7c",
-      "time": "2026-06-09 22:07:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "kallas, the EU high representative for foreign affairs and security policy, said sanctions on metals and refined oil products should be monitored."
-    },
-    {
-      "id": "4926412",
-      "time": "2026-06-09 22:07:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局：時隔 20 年，該局首次擴充防曬產品品類。"
-    },
-    {
-      "id": "mkt:019eacb4-ec74-7339-9918-5604501a4138",
-      "time": "2026-06-09 22:06:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU foreign policy chief Kallas said the next round of sanctions on Russia needs to be creative."
-    },
-    {
-      "id": "4926411",
-      "time": "2026-06-09 22:06:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：在下一輪對俄羅斯制裁方案中需要發揮創造性。"
     }
   ]
 }
