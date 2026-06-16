@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17 04:08:53",
-  "count": 18421,
+  "updated": "2026-06-17 04:12:50",
+  "count": 18415,
   "items": [
     {
       "id": "4939324",
@@ -169400,68 +169400,6 @@
         "其他"
       ],
       "text": "納斯達克資料顯示，5月下旬空頭頭寸較5月中旬增加1.5%。"
-    },
-    {
-      "id": "mkt:019eae03-f1c6-7225-91ab-2c7507258d4b",
-      "time": "2026-06-10 04:12:34",
-      "tags": [
-        "MKT News",
-        "C.O",
-        "Impact bullish",
-        "XLF"
-      ],
-      "text": "CITIGROUP CFO expects Q2 investment banking revenue to increase about 15%."
-    },
-    {
-      "id": "mkt:019eae02-d7ee-7225-91ab-21c8a9347d47",
-      "time": "2026-06-10 04:11:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nasdaq data show short positions rose 1.5% in late May versus mid-May."
-    },
-    {
-      "id": "mkt:019eae02-8afa-7225-91ab-198f9887c655",
-      "time": "2026-06-10 04:11:02",
-      "tags": [
-        "MKT News",
-        "C.O",
-        "Impact bullish"
-      ],
-      "text": "Citigroup CFO expects second-quarter trading revenue to grow in the high single digits to low double digits."
-    },
-    {
-      "id": "4926673",
-      "time": "2026-06-10 04:10:42",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團首席財務官預計，第二季度投行業收入將實現百分之十幾的增長。"
-    },
-    {
-      "id": "mkt:019eae00-a542-7225-91ab-10916abd483e",
-      "time": "2026-06-10 04:08:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Fed to release annual bank stress test results on June 25】The Federal Reserve said it will release annual bank stress test results on June 25 at 04:00 Beijing time. Thirty-two large banks were tested. Scenarios include a severe global recession with intensified stress in commercial and residential real estate and corporate debt markets. The results will not change large banks' capital requirements. The Fed in February said it will maintain current stress-test capital buffer requirements through 2027, after which new requirements may be calculated using loss-estimation models that incorporate public feedback."
-    },
-    {
-      "id": "mkt:019eae00-9cd5-7225-91ab-0c1df81f07a1",
-      "time": "2026-06-10 04:08:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Citigroup CFO says US economy and consumers have shown resilience."
     }
   ]
 }
