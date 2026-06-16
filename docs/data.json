@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-17 07:38:05",
-  "count": 18344,
+  "updated": "2026-06-17 07:42:07",
+  "count": 18346,
   "items": [
+    {
+      "id": "4939428",
+      "time": "2026-06-17 07:41:22",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【印尼金礦商Merdeka Gold尋求透過香港上市籌資至多23.9億港元】據港交所公告，印尼金礦企業Merdeka Gold Resources在香港上市交易中提議按每份至多26.60港元的價格，發行8970萬份香港存託憑證(HDR)。 據計算，該公司勢將籌集至多23.9億港元（3.05億美元）資金。基石投資者包括平安資管（3000萬美元）、萬國黃金（2000萬美元）、嘉能可（2000萬美元）、摩科瑞（2000萬美元）和托克（2000萬美元）。料將於6月26日掛牌上市。瑞銀和中信證券是聯席保薦行。"
+    },
+    {
+      "id": "4939427",
+      "time": "2026-06-17 07:41:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【與26家直接參與者簽約 數字人民幣全天候跨境支付來了】昨天（16日），中國人民銀行所屬數字人民幣國際運營中心與26家直接參與者簽約。境內外金融機構簽約接入後，可依託該中心執行的“數幣達”跨境結算綜合服務平臺實現7×24小時的人民幣跨境數字支付業務，結算效率更高，成本更低，參與方式更多元。據瞭解，首批26家直接參與者業務可覆蓋中國香港、中國澳門、新加坡、寮國、泰國、阿聯酋、卡達、巴西等國家和地區。（央視）"
+    },
+    {
+      "id": "4939426",
+      "time": "2026-06-17 07:40:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛首席中國股票策略師劉勁津：中國AI硬體盈利可見度更高】過去幾年，流動性寬鬆推動成長資產普漲。如今，在全球利率維持相對高位的背景下，資金追求的是盈利確定性。“如果你要投資AI的能源和基礎設施，中國的優勢非常明顯。”高盛首席中國股票策略師劉勁津表示，當前全球資金最看重的是誰能夠將AI投入轉化為利潤。而從這一角度看，中國市場的AI硬體產業鏈，是盈利確定性的重要落腳點。"
+    },
+    {
+      "id": "4939425",
+      "time": "2026-06-17 07:39:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：重點關注能源安全、數字基建、區域戰略、產業升級、民生補短板五大投資主線】中信建投研報稱，全國31個省區市“十五五”規劃已全部發布，各地錨定2035年遠景目標，確立質效優先、新質生產力引領的發展共識。各省GDP年均增速目標均值為5.06%，經濟大省挑大樑作用凸顯。各大重點領域佈局清晰：現代化產業與科技創新形成差異化區域格局；擴大內需側重消費升級與民間投資擴容；綠色低碳領域各地加速構建新型能源體系；深化改革領域各地同步推進統一大市場建設，最佳化民營經濟發展環境；民生領域“一老一小”產業成為經濟新增長點；資本市場和金融領域加快培育耐心資本、完善上市培育體系。重大工程專案聚焦新基建，重心轉向算力升級與算電協同。綜合規劃與專案佈局，可重點關注能源安全、數字基建、區域戰略、產業升級、民生補短板五大投資主線。"
+    },
+    {
+      "id": "4939424",
+      "time": "2026-06-17 07:39:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東將人工智慧技術融入供應鏈 把算力熱度轉化為產業厚度】為將人工智慧技術融入供應鏈，今年一季度，京東研發投入同比增長近60%，推進人工智慧驅動的物理世界運營中心建設。“透過算力、模型、資料等，驅動海量智慧設施更高效運轉，把算力的熱度轉化為產業的厚度，用更好的新產品開啟更大的新市場。”京東集團技術委員會主席曹鵬說。人工智慧與供應鏈的深度融合，正持續為傳統產業注入新動能。京東物流在全球佈局3600座倉庫及雲倉，依託自研超腦大模型，系統可在數秒內完成貨物最優運輸路徑規劃，機器人廣泛應用於儲存、揀選、搬運、分揀、場內轉運等全流程場景。（人民日報）"
+    },
+    {
+      "id": "te:markets:559463",
+      "time": "2026-06-17 07:38:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Decline on Supply Optimism — Brent traded near three-month lows below $80 per barrel on Wednesday after falling for four straight sessions, pressured by expectations of increased supply following the anticipated peace agreement between the US and Iran. The two nations are set to sign an interim deal in Switzerland on Friday, granting Tehran broad economic incentives, including the immediate resumption of its oil exports. Tankers from other countries are also expected to resume transit through the Strait of Hormuz once the agreement takes effect, although shipping firms remain cautious about its long-term stability. Additional supplies from the region are expected to boost refinery inventories worldwide, alongside higher OPEC+ export quotas and increased production from the UAE, which exited the cartel during the conflict. Meanwhile, industry data indicated that US crude inventories fell by 8.3 million barrels last week."
+    },
+    {
+      "id": "te:markets:559462",
+      "time": "2026-06-17 07:37:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Decline on Supply Optimism — Crude oil traded near three-month lows below $77 per barrel on Wednesday after falling for four straight sessions, pressured by expectations of increased supply following the anticipated peace agreement between the US and Iran. The two nations are set to sign an interim deal in Switzerland on Friday, granting Tehran broad economic incentives, including the immediate resumption of its oil exports. Tankers from other countries are also expected to resume transit through the Strait of Hormuz once the agreement takes effect, although shipping firms remain cautious about its long-term stability. Additional supplies from the region are expected to boost refinery inventories worldwide, alongside higher OPEC+ export quotas and increased production from the UAE, which exited the cartel during the conflict. Meanwhile, industry data indicated that US crude inventories fell by 8.3 million barrels last week."
+    },
     {
       "id": "4939423",
       "time": "2026-06-17 07:37:25",
@@ -168698,48 +168763,6 @@
         "公司"
       ],
       "text": "【卡特彼勒：資料中心備電需求激增，訂單維持高位】“目前AI算力爆發正帶動全球資料中心用電激增，這對全球的發電機組及發動機行業都是重大利好。”在國際基礎設施投資與建設高峰論壇（IIICF）開幕前夕，卡特彼勒全球高階副總裁楊程建表示， “從功率區間來看，當前資料中心備用電源需求主要集中在1600千瓦至3000千瓦範圍，而這一功率段恰好被卡特彼勒位於天津的兩家工廠全面覆蓋。”楊程建介紹，其中一座天津工廠是卡特彼勒在亞太地區規模最大的單體投資專案，同時也是在中國唯一生產3500系列大型發動機和發電機組的生產基地，其3516系列發電機組已成為全球資料中心備用電源領域的標杆產品，能夠充分滿足各類大型、超大型資料中心的供電保障需求。“憑藉完整的功率譜系、過硬的產品可靠性以及本土化產能優勢，該工廠目前相關產品訂單維持高位。”（澎湃新聞）"
-    },
-    {
-      "id": "4926820",
-      "time": "2026-06-10 07:41:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【海外央行將密集議息，加息預期擾動資產走勢】本週起，海外多家央行進入議息視窗期。6月9日，距例行會議尚有一週多時間，印尼央行宣佈加息25個基點——這已是該央行繼5月20日超預期加息50個基點後的再度行動。 同日，有報道稱，日本央行預計將在本月15日至16日的會議上將政策利率從0.75%上調至1.0%。與此同時，市場普遍預期歐洲央行本週將加息25個基點；美聯儲雖然大機率在本月按兵不動，但年內加息的預期正在持續升溫。 展望後續，分析人士認為，海外各類資產走勢或將繼續圍繞“加息定價”展開。財通證券宏觀首席分析師張偉在一份報告中寫道，當前市場對美元流動性緊縮的擔憂是過度的。不過，在美聯儲議息會議結果公佈之前，市場對流動性的擔憂並不會解除，因此市場可能還處在高波動狀態下，甚至會有繼續調整的風險。（上海證券報）"
-    },
-    {
-      "id": "4926819",
-      "time": "2026-06-10 07:40:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，特朗普支援的共和黨人史蒂夫·希爾頓預計將晉級11月加州州長決選。"
-    },
-    {
-      "id": "4926818",
-      "time": "2026-06-10 07:39:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普稱對伊朗作出強硬回應 伊方說將堅決回擊】美國總統特朗普9日在接受媒體採訪時說，美軍正對伊朗擊落美方一架直升機作出“非常強硬、非常有力”的回應。據美國廣播公司報道，就在美軍對伊朗採取“報復性”打擊行動之際，特朗普正在接受該媒體電話採訪。特朗普說，他認為作出回應至關重要。據伊朗塔斯尼姆通訊社報道，當地時間10日凌晨，伊朗霍爾木茲甘省東部地區，包括錫裡克、米納卜等地傳出爆炸聲，爆炸確切地點尚不清楚。當地訊息人士稱，該省部分地區有防空活動。伊朗外交部長阿拉格齊當地時間10日在社交媒體發文說，伊朗武裝力量絕不會對任何攻擊或威脅置之不理，並警告美國“若想安全，就撤出我們這個地區”。阿拉格齊還表示，美國在戰場上屢次失敗，但仍執意試探伊朗的決心。（新華社）"
-    },
-    {
-      "id": "4926817",
-      "time": "2026-06-10 07:39:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：超快鐳射裝置潛在市場空間達千億以上】華泰證券研報表示，AI算力晶片需求快速增長與原有封裝材料供給緊缺，正加速推動先進封裝材料轉向玻璃、陶瓷、M8/M9級PCB等新材料。玻璃、陶瓷及M8/M9級PCB均屬硬脆或超高硬度體系，傳統機械鑽孔、溼法刻蝕及普通鐳射加工效果不佳，而超快鐳射憑藉冷加工特性成為精密加工的解決方案。基於玻璃中介層、載板層、M9材料、類載板小孔的潛在應用推導超快鐳射裝置市場空間，潛在空間達千億以上。具備產品解決方案提供能力的裝置廠商或將持續受益，看好超快鐳射裝置行業。"
-    },
-    {
-      "id": "4926816",
-      "time": "2026-06-10 07:38:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國信證券：目前基本面改善擴散中 增量資金逐漸入場 這輪牛市有望出現輪漲】國信證券釋出研報稱，從漲跌幅和成交結構看，這輪牛市分化已經很極致。分化後是否輪漲看基本面和資金面，12-15、19-21年有輪漲，16-18年沒有。目前基本面改善擴散中，增量資金逐漸入場，這輪牛市有望出現輪漲。可能路徑：科技硬體-AI應用、智慧製造、創新藥-地產白酒券商等。"
     }
   ]
 }
