@@ -1,7 +1,248 @@
 {
-  "updated": "2026-06-16 12:30:01",
-  "count": 18319,
+  "updated": "2026-06-16 12:34:21",
+  "count": 18341,
   "items": [
+    {
+      "id": "mkt:019eceb4-88d0-7dd8-b01f-f63755407f1d",
+      "time": "2026-06-16 12:33:18",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia says signs of economic slowing have emerged after 2026 rate hikes, as expected."
+    },
+    {
+      "id": "4937735",
+      "time": "2026-06-16 12:33:14",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數在央行維持利率不變後基本持平，最新下跌0.2%，報8,892.50點。"
+    },
+    {
+      "id": "mkt:019eceb4-6d4b-7dd8-b01f-eba23c90741e",
+      "time": "2026-06-16 12:33:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 was largely unchanged after the Reserve Bank of Australia held rates, closing down 0.2% at 8,892.50."
+    },
+    {
+      "id": "em:qqyh_ozlc:202606163772828287",
+      "time": "2026-06-16 12:32:51",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "澳洲聯儲將利率維持在4.35%不變，符合市場預期。"
+    },
+    {
+      "id": "4937734",
+      "time": "2026-06-16 12:32:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行表示，有跡象顯示更高的燃油價格正傳導至商品和服務領域。"
+    },
+    {
+      "id": "mkt:019eceb3-88db-7dd8-b01f-e3672fa9310c",
+      "time": "2026-06-16 12:32:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Reserve Bank of Australia says higher oil prices are beginning to feed through into prices for goods and services."
+    },
+    {
+      "id": "4937733",
+      "time": "2026-06-16 12:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼蘇拉威西島強震暫無人員傷亡】印尼氣象、氣候和地球物理局稍早前釋出的訊息說，本次地震暫無引發海嘯的風險。目前暫未收到人員傷亡或財產損失的報告。"
+    },
+    {
+      "id": "mkt:019eceb3-452e-7dd8-b01f-d87775a365b8",
+      "time": "2026-06-16 12:31:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "RESERVE BANK OF AUSTRALIA: Global oil supply issues will take time to resolve and will continue to put upward pressure on global energy prices and inf."
+    },
+    {
+      "id": "mkt:019eceb3-071d-7dd8-b01f-d5559c2fa897",
+      "time": "2026-06-16 12:31:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia board remains focused on ensuring inflation does not become entrenched once the high oil-price shock abates."
+    },
+    {
+      "id": "4937732",
+      "time": "2026-06-16 12:31:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）：全球石油供應問題需要一段時間才能解決，這將持續給全球能源價格和通脹帶來上行壓力。"
+    },
+    {
+      "id": "4937731",
+      "time": "2026-06-16 12:31:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）：理事會仍重點關注，在高油價的衝擊傳導完畢後，確保通脹不會持續生根。"
+    },
+    {
+      "id": "4937730",
+      "time": "2026-06-16 12:31:25",
+      "tags": [
+        "資料",
+        "央行",
+        "焦點"
+      ],
+      "text": "澳洲聯儲：今天的利率決議是一致透過的。最新資料顯示，整體和核心通脹仍然過高。委員會將關注資料及不斷變化的前景和風險評估，以指導其決策。短期通脹預期有所緩解，但仍高於年初水平。將採取必要措施以實現該目標，包括在必要時進一步提高現金利率目標。"
+    },
+    {
+      "id": "mkt:019eceb2-a9e5-7dd8-b01f-ce11bad06610",
+      "time": "2026-06-16 12:31:15",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia says inf may remain elevated for some time."
+    },
+    {
+      "id": "mkt:019eceb2-9086-7dd8-b01f-c73255241260",
+      "time": "2026-06-16 12:31:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia says financial conditions have tightened this year due to three increases in the cash rate target."
+    },
+    {
+      "id": "mkt:019eceb2-8fb7-7dd8-b01f-bc156ff4b17b",
+      "time": "2026-06-16 12:31:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia: Domestic economic activity and inf outlook remain subject to significant uncertainty."
+    },
+    {
+      "id": "mkt:019eceb2-7691-7dd8-b01f-b616b43b46ad",
+      "time": "2026-06-16 12:31:02",
+      "tags": [
+        "MKT News",
+        "AUDUSD"
+      ],
+      "text": "AUD/USD saw little short-term movement, trading at 0.7051 after the Reserve Bank of Australia rate decision."
+    },
+    {
+      "id": "mkt:019eceb2-6e82-7dd8-b01f-adb33dfe2f76",
+      "time": "2026-06-16 12:31:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia says it will take necessary measures to achieve the objective, including further raising the cash rate target if necessary."
+    },
+    {
+      "id": "mkt:019eceb2-5523-7dd8-b01f-a26030fda9e2",
+      "time": "2026-06-16 12:30:54",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia: Short-term inflation expectations have eased somewhat but remain above levels at the start of the year."
+    },
+    {
+      "id": "mkt:019eceb2-4648-7dd8-b01f-9918dfa870da",
+      "time": "2026-06-16 12:30:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia said the board will monitor incoming data and the evolving economic outlook and risk assessment to guide its policy decisions."
+    },
+    {
+      "id": "mkt:019eceb2-2004-7dd8-b01f-95e8ff2a2a40",
+      "time": "2026-06-16 12:30:40",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia says latest data show both headline and core inflation remain too high."
+    },
+    {
+      "id": "mkt:019eceb1-f762-7dd8-b01f-88a98c519aaa",
+      "time": "2026-06-16 12:30:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Reserve Bank of Australia said its decision today was unanimous."
+    },
+    {
+      "id": "4937729",
+      "time": "2026-06-16 12:30:14",
+      "tags": [
+        "資料",
+        "央行",
+        "焦點"
+      ],
+      "text": "澳大利亞聯儲現金利率目標維持在4.35%，預估為4.35%。"
+    },
+    {
+      "id": "mkt:019eceb1-ba13-7dd8-b01f-83aa50562434",
+      "time": "2026-06-16 12:30:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "【Reserve Bank of Australia holds rate at 4.35% as expected】The Reserve Bank of Australia held the cash rate at 4.35% in line with market expectations; the move follows three consecutive meetings in which the RBA raised rates."
+    },
+    {
+      "id": "mkt:019eceb1-b365-7dd8-b01f-79b0d5ce6564",
+      "time": "2026-06-16 12:30:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD"
+      ],
+      "text": "Reserve Bank of Australia kept the cash rate at 4.35% on June 16; market expected 4.35% and the prior rate was 4.35%."
+    },
+    {
+      "id": "mkt:019eceb1-9368-7dd8-b01f-7613265281a8",
+      "time": "2026-06-16 12:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | RBA Interest Rate Decision (Jun.16) | actual 4.35% | consensus 4.35% | previous 4.35%"
+    },
     {
       "id": "4937728",
       "time": "2026-06-16 12:29:04",
@@ -168518,32 +168759,6 @@
         "公司"
       ],
       "text": "豐田通商株式會社：已在寮國設立整車組裝公司，計劃於2028年4月投產。"
-    },
-    {
-      "id": "4925186",
-      "time": "2026-06-09 12:33:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：紐約州州長阻礙了Constitution 輸油管道專案。"
-    },
-    {
-      "id": "4925185",
-      "time": "2026-06-09 12:33:05",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "哈薩克央行：五月哈薩克黃金與外匯儲備淨額為655.37億美元，環比變動為0.0%。"
-    },
-    {
-      "id": "4925184",
-      "time": "2026-06-09 12:30:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本政府國債（JGB）收益率下跌1個基點，至3.625%。"
     }
   ]
 }
