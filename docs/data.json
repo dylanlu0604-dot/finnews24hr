@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-16 23:02:27",
-  "count": 18368,
+  "updated": "2026-06-16 23:06:40",
+  "count": 18376,
   "items": [
+    {
+      "id": "mkt:019ed0f7-42a1-7dd8-b035-2cf1ea59d36c",
+      "time": "2026-06-16 23:05:25",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "VIX fell to a more-than-one-week low, down 0.27 points at 15.93."
+    },
+    {
+      "id": "te:economy:559392",
+      "time": "2026-06-16 23:05:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ecuador",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Ecuador Trade Balance Swings to Deficit in April — Ecuador's trade balance swung to a deficit of $283.9 million in April 2026 from a surplus of $382.2 million in the same month a year earlier. Imports surged 38.8% year-on-year to $3.48 billion, driven by a 127.9% jump in purchases of fuels and lubricants. Imports of raw materials rose 19.1%, while those of consumer goods and capital goods increased 15.2% and 16.3%, respectively. Meanwhile, exports rose 10.6% to $3.19 billion. Shipments of primary products increased 13.0%, while exports of industrialized goods edged down 0.2%."
+    },
+    {
+      "id": "mkt:019ed0f6-d146-7dd8-b035-2420112409a0",
+      "time": "2026-06-16 23:04:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported Iran and Oman's foreign ministers held a phone call and pledged, amid recent understandings with the US, to abide by international law and ensure safe, free passage of vessels through the Strait of Hormuz."
+    },
+    {
+      "id": "4939082",
+      "time": "2026-06-16 23:04:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其國防部：義大利SAMP-T防空系統將部署至科尼亞第三主力空軍基地指揮部。"
+    },
+    {
+      "id": "4939081",
+      "time": "2026-06-16 23:03:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "芝加哥期權交易所波動率指數處於一週多低位；最新下跌0.27點，報15.93。"
+    },
+    {
+      "id": "4939080",
+      "time": "2026-06-16 23:03:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "經過數週緊張密集的談判，卡達最終作為斡旋方促成了美伊雙方達成協議。"
+    },
+    {
+      "id": "mkt:019ed0f5-825b-7dd8-b035-1a57daeab0c7",
+      "time": "2026-06-16 23:03:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX options surge to become one of US market's most active contracts】SpaceX options were among the most actively traded U.S. contracts on Tuesday, helping the stock jump as much as 17% in early trade on its third trading day. By 10:35 a.m. New York time, options volume exceeded 600,000 contracts, making SpaceX the third-largest single-stock options by volume in the U.S. Susquehanna International co-head of derivatives strategy Chris Murphy said option volatility skew is clearly tilted higher and investors are willing to pay up to participate in further post-listing squeezes; 3-month implied volatility opened around 110%–115%. The busiest contract was the $220 calls expiring Thursday, with 25,000 contracts traded (2.5 mln shares). Optiver U.S. head of single-stock options Jake Taylor said unusually high investor interest should keep institutional and retail participation, trading activity and volatility elevated as the market forms views on the company's valuation and outlook."
+    },
+    {
+      "id": "4939079",
+      "time": "2026-06-16 23:02:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮官員稱，普京與特朗普在最新一通電話中，並未商討普京與澤連斯基赴美會晤的相關事宜。"
+    },
+    {
+      "id": "mkt:019ed0f4-cd72-7dd8-b035-141c3557038f",
+      "time": "2026-06-16 23:02:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Putin will meet Turkey's foreign minister on Wednesday."
+    },
+    {
+      "id": "4939078",
+      "time": "2026-06-16 23:02:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "克里姆林宮針對歐盟遊說特朗普在七國集團峰會上強化對俄強硬立場一事作出表態：我們拭目以待；美伊協議簽署後，威特科夫與庫什納將獲得出訪莫斯科的契機。"
+    },
+    {
+      "id": "mkt:019ed0f4-1703-7dd8-b035-0d102eba84a1",
+      "time": "2026-06-16 23:01:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Kremlin aide said no one has proposed holding such a meeting to Russia at present."
+    },
     {
       "id": "mkt:019ed0f3-f8eb-7dd8-b035-0222a6935ffb",
       "time": "2026-06-16 23:01:50",
@@ -169105,36 +169207,6 @@
         "MKT News"
       ],
       "text": "【Hamas spokesman says \"acceptable solutions\" reached on multiple ceasefire issues】On the 9th (local time) Hamas spokesman Hazem Qassem said Palestinian factions and mediators in Cairo have reached \"acceptable solutions\" on several contentious items in a ceasefire agreement. He said movement to a second phase depends on whether mediators, guarantors and the \"peace committee\" can effectively restrain Israel, halt its breaches and secure Israel's acceptance of the current plan and consensus."
-    },
-    {
-      "id": "4926479",
-      "time": "2026-06-09 23:06:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本首相與到訪的馬來西亞總理計劃發表聯合宣告，其中包含液化天然氣及石腦油相關合作承諾。"
-    },
-    {
-      "id": "mkt:019eace8-fc1f-7dd1-a397-12a339f8df44",
-      "time": "2026-06-09 23:03:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) will use data businesses have already shared with the company to tailor ads; the update does not collect any new data."
-    },
-    {
-      "id": "4926478",
-      "time": "2026-06-09 23:02:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta： 透過拓展 “來自其他商戶的活動” 設定，簡化平臺管控功能。"
     }
   ]
 }
