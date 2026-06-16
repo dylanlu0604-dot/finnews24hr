@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-17 02:20:19",
-  "count": 18425,
+  "updated": "2026-06-17 02:24:22",
+  "count": 18428,
   "items": [
+    {
+      "id": "mkt:019ed1aa-7edf-7dd8-b038-ddc606489d68",
+      "time": "2026-06-17 02:21:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli public broadcaster reported that a senior UAE security official secretly visited Israel in March at the outset of US-led strikes on Iran and held high-level security talks."
+    },
+    {
+      "id": "4939273",
+      "time": "2026-06-17 02:20:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：今年3月以美聯合開展針對伊朗的行動之初，阿聯酋多名高階安全官員曾秘密出訪以色列，舉行高層安全會談。"
+    },
+    {
+      "id": "4939272",
+      "time": "2026-06-17 02:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "迦納總統：迦納與象牙海岸將於9月1日啟動2026/27可可季，至次年8月31日結束。"
+    },
+    {
+      "id": "te:markets:559436",
+      "time": "2026-06-17 02:20:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 2.81% — Top commodity gainers are Platinum (2.81%) and Gold (0.70%). Biggest losers are Iron Ore CNY (-1.23%), Lithium Carbonate (-0.88%) and Steel Rebar (-0.76%)."
+    },
     {
       "id": "4939271",
       "time": "2026-06-17 02:17:26",
@@ -169488,19 +169527,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Butter Falls by 3.07% — Top commodity losers are Butter (-3.07%), Cotton (-2.68%) and Rubber (-2.30%). Gains are led by Lumber (1.23%) and Oat (0.75%)."
-    },
-    {
-      "id": "mkt:019ead9d-7b92-7225-91aa-14e10fd8ac36",
-      "time": "2026-06-10 02:20:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Iran's foreign minister said the armed forces have gone on alert in response to airspace incursions."
     }
   ]
 }
