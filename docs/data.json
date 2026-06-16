@@ -1,7 +1,141 @@
 {
-  "updated": "2026-06-17 00:59:04",
-  "count": 18391,
+  "updated": "2026-06-17 01:03:11",
+  "count": 18389,
   "items": [
+    {
+      "id": "mkt:019ed162-3262-7dd8-b037-deaa352cc41e",
+      "time": "2026-06-17 01:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 20-year Treasury auction on June 16 bid-cover ratio 2.75; prior 2.55."
+    },
+    {
+      "id": "mkt:019ed162-324f-7dd8-b037-d5eef8691631",
+      "time": "2026-06-17 01:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 20-year Treasury auction on June 16: 56.57% of the award was allocated at the stop-out yield, versus 1.67% previously."
+    },
+    {
+      "id": "mkt:019ed162-2352-7dd8-b037-cd52efd21e0c",
+      "time": "2026-06-17 01:02:10",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 20-year Treasury auction on June 16: stop-out yield 4.927% vs 5.12% previously."
+    },
+    {
+      "id": "4939221",
+      "time": "2026-06-17 01:02:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德·馬丁：通用汽車防務部門總裁表示，未來數週內，雙方將協同梳理首批聯合推進專案。"
+    },
+    {
+      "id": "mkt:019ed162-0b9e-7dd8-b037-b92e6faa2241",
+      "time": "2026-06-17 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Bid/Cover Ratio (Jun.16) | actual 2.75 | previous 2.55"
+    },
+    {
+      "id": "mkt:019ed162-0bf4-7dd8-b037-c015b751ee44",
+      "time": "2026-06-17 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Accepted at High (Jun.16) | actual 56.57% | previous 1.67%"
+    },
+    {
+      "id": "mkt:019ed162-0b9b-7dd8-b037-b2d17f8d4943",
+      "time": "2026-06-17 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction High Yield Rate (Jun.16) | actual 4.927% | previous 5.12%"
+    },
+    {
+      "id": "mkt:019ed161-64a7-7dd8-b037-a8e2dbbd3515",
+      "time": "2026-06-17 01:01:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DR Congo reports 837 confirmed Ebola cases, including 196 deaths."
+    },
+    {
+      "id": "4939220",
+      "time": "2026-06-17 01:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果表示，埃博拉確診病例數升至837例，其中包括196例死亡病例。"
+    },
+    {
+      "id": "te:economy:559432",
+      "time": "2026-06-17 01:00:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Paraguay Consumer Confidence Weakens in May — Paraguay’s Consumer Confidence Index fell to 38.21 in May 2026 from 40.17 in April, remaining below the neutral threshold. The Economic Situation Index declined by 2.29 points from the previous month to 27.04, reflecting weaker assessments of current conditions. Meanwhile, the Economic Expectations Index eased by 1.62 points to 49.38. Regarding saving intentions, 11.0% of respondents reported being willing to save, down 4.5 percentage points from April. Willingness to purchase durable goods weakened across all categories, with the exception of household appliances, which remained unchanged."
+    },
+    {
+      "id": "4939219",
+      "time": "2026-06-17 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.24%，滬銅收漲0.23%，滬鋁收漲0.27%，滬鋅收跌0.40%，滬鉛收漲0.77%，滬鎳收漲0.07%，滬錫收跌0.53%。氧化鋁夜盤收漲0.73%，鋁合金收漲0.39%。不鏽鋼夜盤收漲0.80%。"
+    },
+    {
+      "id": "te:markets:559429",
+      "time": "2026-06-17 00:59:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Falls to 3-Month Low — Brent crude prices fell over 5% to below $80 per barrel on Tuesday, the lowest since the first week of March, erasing the bulk of the surge from the conflict in the Middle East amid expectations that exports from GCC countries will be restored imminently. The US and Iran continued to signal they will sign a memorandum of understanding this Friday. The deal reportedly has both countries allowing tankers to cross the Strait of Hormuz upon the agreement, with the US unopposed of Tehran deploying tankers immediately. The fresh supply from the region is due to replenish refineries across the globe with the higher export quotas from OPEC+ and higher output from the UAE, which left the cartel during the conflict. The US Strategic Petroleum Reserves had fallen to a 43-year low. In turn, Iranian output will likely refill Chinese oil stockpiles, which were depleted in the last months as the world's largest importer refrained from purchasing oil to prop up prices further."
+    },
+    {
+      "id": "mkt:019ed15f-c9a0-7dd8-b037-a5f6d18f694e",
+      "time": "2026-06-17 00:59:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. intelligence: Iran retains ability to again close Strait of Hormuz】A U.S. intelligence assessment says Iran retains the ability to again close the Strait of Hormuz after demonstrating related capabilities during the conflict. The assessment expects an agreement to reopen the waterway, but Tehran still fields missiles, drones, fast boats and sea mines that could disrupt global energy shipments. Intelligence officials say Iran has gained leverage over the route and could use regional energy infrastructure as a pressure tool."
+    },
     {
       "id": "te:markets:559427",
       "time": "2026-06-17 00:56:32",
@@ -169088,160 +169222,6 @@
         "MKT News"
       ],
       "text": "ANTHROPIC priced MYTHOS 5 and FABLE 5 at $10 per 1 million input tokens and $50 per 1 million output tokens."
-    },
-    {
-      "id": "4926594",
-      "time": "2026-06-10 01:02:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Anthropic推出限制網路安全能力的“解耦版”新模型Fable 5，同步釋出Mythos 5】Anthropic公司發強力大模型Mythos的特殊衍生版本，命名為Fable 5。該模型內建了極其嚴格的安全護欄，將無法響應涉及網路安全和生物風險等特定領域的敏感查詢。Fable 5在程式設計以及其他專業核心任務上的表現實現了質的飛躍，尤其擅長在更長的時間跨度內攻堅並解決極其複雜的系統性難題。與此同時，Anthropic仍將同步推出保留完整網路安全能力、未作上述安全限制的完全體新模型Mythos 5。該模型將透過名為“翼蝶計劃”（Project Glasswing）的專項倡議，僅向少數經過嚴格稽核的特定信任群體開放。"
-    },
-    {
-      "id": "mkt:019ead56-5139-7992-a4a7-827d96f1576b",
-      "time": "2026-06-10 01:02:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC plans to expand access to Claude MYTHOS 5 through a broader 'Trusted Access Program'."
-    },
-    {
-      "id": "mkt:019ead56-50ea-7992-a4a7-78e96344c25b",
-      "time": "2026-06-10 01:02:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC: Claude MYTHOS 5 will be initially deployed via the \"Glasswing\" project in partnership with the US government, as an upgrade to the Claude MYTHOS preview."
-    },
-    {
-      "id": "4926593",
-      "time": "2026-06-10 01:02:28",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣580億美元三年期國債，得標利率4.192%（4月7日為3.897%），投標倍數2.64（前次為2.54）。"
-    },
-    {
-      "id": "mkt:019ead55-feaf-7992-a4a7-76a9c1b1d9b0",
-      "time": "2026-06-10 01:02:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC released Claude Fable 5, a MYTHOS-level model safety-tuned for general-public use."
-    },
-    {
-      "id": "mkt:019ead55-c958-7992-a4a7-6cf9c6e7fcde",
-      "time": "2026-06-10 01:02:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US 3-year Treasury auction as of June 9 — BID-COVER RATIO 2.64, prior 2.54."
-    },
-    {
-      "id": "mkt:019ead55-c94d-7992-a4a7-63c956e4533e",
-      "time": "2026-06-10 01:02:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "U.S. 3-year Treasury auction on June 9: percentage awarded at the stop-out yield 42.92%, prior 37.53%."
-    },
-    {
-      "id": "mkt:019ead55-c82b-7992-a4a7-5d998f80646f",
-      "time": "2026-06-10 01:02:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US 3-year Treasury auction on June 9 - stop-out yield 4.192%, prior 3.97%."
-    },
-    {
-      "id": "mkt:019ead55-87ad-7992-a4a7-549f8783ffbf",
-      "time": "2026-06-10 01:02:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Year Note Auction Bid/Cover Ratio (Jun.9) | actual 2.64 | previous 2.54"
-    },
-    {
-      "id": "mkt:019ead55-87ab-7992-a4a7-4ff6ca741183",
-      "time": "2026-06-10 01:02:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Year Note Auction Accepted at High (Jun.9) | actual 42.92% | previous 37.53%"
-    },
-    {
-      "id": "mkt:019ead55-86fb-7992-a4a7-41b40e3d6279",
-      "time": "2026-06-10 01:02:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Year Note Auction High Yield Rate (Jun.9) | actual 4.192% | previous 3.97%"
-    },
-    {
-      "id": "4926592",
-      "time": "2026-06-10 01:00:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "達飛海運執行長： 2026 年上半年，集團繞行霍爾木茲海峽、改走替代航線的成本預計約 3 億美元。"
-    },
-    {
-      "id": "mkt:019ead53-b8fb-7992-a4a7-3a7989f47e9e",
-      "time": "2026-06-10 01:00:05",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "CMA CGM's CEO said it is 'not wise' to assume the situation in the Strait of Hormuz will fully return to pre-war conditions."
-    },
-    {
-      "id": "mkt:019ead53-b76d-7992-a4a7-328f3ec30193",
-      "time": "2026-06-10 01:00:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "【Canadian dollar hits YTD low as markets bet BoC will lag global peers on tightening】The Canadian dollar tumbled to its weakest since December, with USD/CAD reaching 1.3969 on Tuesday, marking a year-to-date low. Brent crude, a key Canadian export, slid below $90/barrel, adding downside pressure on the currency. Markets widely expect the Bank of Canada to hold its policy rate at Wednesday’s decision, pricing a slower hiking path than other major central banks. JP Morgan FX strategist Pat Locke flagged a mildly dovish risk from the BoC and said his team favors short CAD/USD positions. After the April 29 meeting the BoC said current rates “appear appropriate.” Since that meeting the loonie has fallen more than 2%, the weakest G10 currency. CFTC data show speculators increased bearish CAD bets for a third consecutive week."
-    },
-    {
-      "id": "4926591",
-      "time": "2026-06-10 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.37%，滬銅收跌0.34%，滬鋁收跌0.67%，滬鋅收漲0.14%，滬鉛收跌0.40%，滬鎳收跌1.34%，滬錫收跌1.10%。氧化鋁夜盤收漲0.68%，鋁合金收平。不鏽鋼夜盤收跌0.69%。"
     }
   ]
 }
