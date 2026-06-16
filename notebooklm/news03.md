@@ -1,7 +1,143 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-17 04:35:52_
-_本檔包含 3686 則快訊，約 672415 字_
+_更新時間：2026-06-17 05:34:56_
+_本檔包含 3688 則快訊，約 672233 字_
+
+---
+
+### 2026-06-14 16:58:00  #其他
+
+雷軍曬賴斯送的簽名球衣。
+
+---
+
+### 2026-06-14 16:52:07  #國際
+
+伊朗東亞塞拜然省危機管理部門：已通知Sardroud及周邊地區的民眾，幾分鐘前在該地區聽到的爆炸聲，是源自“齋月戰爭”中未爆炸的彈藥所致。
+
+---
+
+### 2026-06-14 16:50:20  #公司 #國際
+
+【外媒曝螞蟻集團正秘密測試AI 版支付寶】近日，外媒曝螞蟻集團正秘密測試 AI 版支付寶，新版本顛覆原有使用者互動，可一鍵切入原生AI介面，實現從服務到資金管理的智慧化。訊息稱，新版本上線時間未定。對此，螞蟻集團拒絕評論。（新浪科技）
+
+---
+
+### 2026-06-14 16:49:43  #國際
+
+【UFO檔案曝光 美軍目擊巨型“太空土豆”懸浮空中】美國政府最新公開的一批不明飛行物（UFO）檔案披露，一組駐紮在科羅拉多州卡森堡的美軍人員曾在2022年目擊一個形似巨型“不規則土豆”的神秘物體懸浮於山體上空，其真實身份至今未明。據報道，特朗普政府於6月12日公佈新一批UFO檔案。其中最受關注的案例之一發生在2022年2月中旬。當時，一名美國陸軍情報官員與四名所屬部隊成員看見一個神秘物體懸浮在距離夏延山（Cheyenne Mountain）上方約27至46米處。根據解密檔案，目擊者形容該物體“大致相當於一架大型噴氣式飛機的大小”，外形像一個“稜角分明、不對稱、由不規則面板構成的土豆”。檔案稱，這個物體完全靜止，但外觀似乎會緩慢變化，呈現半透明、閃爍的白色外觀，邊緣清晰，並帶有反射陽光的乳白色光澤，隨後突然消失。
+
+---
+
+### 2026-06-14 16:49:00  #國際
+
+【英國軍方攔截一艘俄“影子艦隊”油輪】英國國防部當天發表宣告說，在一次持續約6小時的行動中，英國軍方人員登上該油輪。巡邏機、直升機、軍艦等在行動中提供支援。油輪將被臨時轉移至英格蘭南部海岸附近一處錨地，並在調查期間接受監控。斯塔默在社交媒體上說，此舉“再次打擊了俄羅斯”。英國國防部透露，此次行動是在與法國密切協調下實施的。（新華社）
+
+---
+
+### 2026-06-14 16:45:53  #MKT News #Brent #Impact mixed #WTI
+
+【US‑Iran timing could determine G7 summit dynamics, analyst says】Li Zixin, assistant researcher at the China Institute of International Studies, said a US‑Iran memorandum signed before or during the G7 summit would let Trump present as a peacemaker, shift the agenda from crisis management to implementation, and could move a France‑ and UK‑led maritime escort coalition into technical discussions, easing summit tensions. If signing is delayed, Strait of Hormuz transit will become the summit’s sharpest flashpoint and a focal point for pressuring the US, potentially preventing a joint communique and deepening the transatlantic rift. Li said the White House will push to finalise a memorandum with Iran.
+
+---
+
+### 2026-06-14 16:45:38  #公司 #央行 #國際
+
+【美聯儲領銜央行超級周，沃什將迎首秀】美聯儲將於週三公佈利率決議，新任美聯儲主席凱文·沃什的政策表態被認為是本次會議的核心看點。倫敦證券交易所集團的市場定價資料顯示，美聯儲本週加息的機率極低。不過，受近期就業資料和美國經濟韌性及中東衝突引發能源價格衝擊等因素影響，市場對美聯儲年內後續加息的預期有所升溫。最新資料顯示，美國5月整體通脹同比升至4.2%，但核心通脹環比回落至0.2%，降幅超出市場預期。惠譽評級美國經濟主管奧盧·索諾拉在研報中表示，美聯儲新任主席履職之際，居高不下的整體通脹無疑帶來挑戰，但目前尚不會觸發緊急加息。核心通脹整體仍處於可控區間，美聯儲仍有空間在較長一段時間內維持利率不變。資料方面，週一（15日）將公佈5月工業產出資料、紐約聯儲6月製造業指數，週二（16日）將釋出5月新屋開工資料，週三（17日）公佈5月零售銷售、5月成屋待完成銷售資料，週四（18日）公佈當週初請失業金人數。
+
+---
+
+### 2026-06-14 16:44:28  #公司 #國際
+
+【美伊“臨門一腳”不同調 協議進展牽動G7峰會走向】中國國際問題研究院助理研究員李子昕表示：對於即將召開的七國集團的峰會，一方面，如果美伊在峰會期間或峰會之前能夠簽署備忘錄，特朗普將以和平締造者的姿態來主導整個議程，中東議題也會從危機管控轉為協議的落實，而法英等國推動的海上護航聯盟也有可能進入技術性討論的階段，峰會的氣氛將會顯著緩和。另一方面，如果協議簽署繼續拖延，霍爾木茲海峽的通行問題將會成為本次峰會最尖銳的痛點，以及各方對美國施壓的關鍵議題。這有可能會導致本年度的七國集團峰會再次無法發表共同宣告，跨大西洋關係也會迎來更深刻的裂痕。從這個維度上來講，白宮也會大力促成當前與伊朗簽訂諒解備忘錄。（央視新聞）
+
+---
+
+### 2026-06-14 16:43:07  #公司
+
+法國人工智慧初創公司LightOn透過定向訓練將其光學字元識別（OCR）模型適配至阿拉伯語，以此展示該模型的靈活性。
+
+---
+
+### 2026-06-14 16:42:54  #MKT News #Copper #Impact mixed #CNH #CSI300
+
+【Cui Dongshu: China’s power and other battery output 192 GWh in May, +38% YoY】CPCA’s Cui Dongshu said in a WeChat post China’s combined power and other battery production was 192 GWh in May, up 38% YoY; Jan–May output totaled 863 GWh, up 30% YoY. He said annual battery growth has slowed from over 69% to ~30% as power-battery demand weakens. May 2026 lithium battery vehicle installations were 72 GWh, up 26% YoY; Jan–May 2026 installations were 259 GWh, up 7% YoY. The share of power-battery production going into vehicles was 44% in 2025 and fell to 38% in May 2026. In May 2026 installation mix was roughly ternary (NCM) 38% and lithium iron phosphate (LFP) 37%. Main BEV battery energy density currently clusters at 125–160; in Apr–May 2026 batteries in the 140–160 band accounted for 46%, +14 percentage points YoY.
+
+---
+
+### 2026-06-14 16:41:51  #其他
+
+【重慶首筆“鑑證快貸”落地】“這筆貸款來得太及時了！”近日，江津區石蟆鎮大同村老羅緊鎖多日的眉頭終於舒展開來。就在農耕最吃勁的節骨眼上，一筆45萬元的信貸資金打到了他的賬上。與以往貸款不同，這次幫他敲開銀行大門的“敲門磚”，不是房產抵押，也不是熟人擔保，而是一張《農村產權流轉交易鑑證書》。 這是重慶土交所聯合郵儲銀行重慶分行創新推出的“鑑證快貸”首筆落地案例。以平臺官方交易鑑證為信用背書，構建“農村產權流轉交易+金融服務”協同模式，讓原本“沉睡”的土地經營權，首次透過一紙鑑證順利轉化為銀行授信。（重慶日報）
+
+---
+
+### 2026-06-14 16:39:51  #MKT News
+
+Israel Defense Forces said preliminary reports showed multiple locations in northern Israel sounded alerts for suspected aerial incursions; details are being verified.
+
+---
+
+### 2026-06-14 16:39:19  #國際
+
+以色列國防軍：北部地區多個空域已啟動敵對飛行器入侵警報，詳情正在調查中。
+
+---
+
+### 2026-06-14 16:36:46  #其他
+
+【廣東汕尾紅海灣疑似發生龍捲風？官方通報】廣東省汕尾市氣象公共服務中心6月14日訊息，6月13日23時02分前後，在汕尾市紅海灣海上公路附近發生水龍捲上岸影響。汕尾市氣象局與佛山市龍捲風研究中心進行了分析研判，確認此次水龍捲於13日23時00分前後形成並影響。目前已進入龍舟水季節，汕尾市易發短時強降水、短時大風等強對流天氣，需注意防禦。
+
+---
+
+### 2026-06-14 16:35:05  #公司
+
+【海南“十五五”高新技術產業發展規劃出爐，構建“345X”高新技術產業體系】近日，《海南省“十五五”高新技術產業發展規劃》（以下簡稱《規劃》）正式釋出。未來5年，海南省將圍繞建設“三區一中心”戰略定位和“45432”發展架構，分層打造多級產業叢集，實施科技創新引領、人工智慧＋等六大工程，加快構建“345X”高新技術產業體系，力爭到2030年高新技術產業營收規模突破1萬億元。
+
+《規劃》提出，依託海南自貿港政策制度、資源稟賦和地理區位等優勢，因地制宜打造數字經濟、石化新材料、高階消費品加工等3大千億級產業叢集，壯大現代生物醫藥、商業航天、深海科技、節能環保等4個五百億級產業叢集，做優清潔能源、新能源汽車、維修和再製造、低空經濟、南繁種業等5個百億級產業叢集，前瞻佈局生物製造、氫能、腦機介面、具身智慧等X個未來產業叢集，培育發展新產業新動能。
+
+其中，明確對3大千億級產業叢集提質升級。到2030年，數字經濟核心產業營收力爭突破4000億元。積極探索人工智慧時代數字經濟新業態新模式，構建以先進封裝為重點的電子資訊製造產業叢集，融合AI技術的行業垂類模型研發、大模型出海、AIGC（人工智慧生成內容）、OPC（一人公司）創新等新興業態。
+
+---
+
+### 2026-06-14 16:34:22  #MKT News
+
+【Zelenskiy urges tougher sanctions, expanded drone and long-range strike support】Ukrainian President Zelenskiy said Russia is carrying out hundreds of attacks on Ukrainian cities daily and, in the past week, deployed 1,920 drones, fired 1,790 guided bombs and launched 17 missiles. He called on upcoming G7, EU and NATO summits to adopt concrete measures, urging stepped-up sanctions on Russia, expanded drone trade cooperation, and increased support for air-defence and long-range strike capabilities.
+
+---
+
+### 2026-06-14 16:32:10  #公司
+
+【7只A股即將“摘帽”】除了ST名家匯，A股市場還有6家公司“摘帽”：其中，*ST蘭黃、*ST立航、*ST原尚和ST聯創4家公司將於6月15日停牌一天，自6月16日起正式復牌並撤銷*ST或ST；而*ST海源、*ST威爾則於6月12日停牌1天，6月15日開市起復牌並撤銷*ST。（證券時報）
+
+---
+
+### 2026-06-14 16:30:49  #公司
+
+【陽穀華泰：廠區發生火災事故 預計影響2026年業績】陽穀華泰公告稱，2026年6月13日17時30分左右，公司陽穀縣廠區原材料倉庫發生火災，致3人受傷且無生命危險。目前火情已撲滅，事故原因正在調查。經初步核查，部分裝置和原材料倉庫受損，陽穀工廠已暫時停產，其他子公司正常。陽穀廠區2025年營收22.75億元，佔公司66.07%；淨利潤1.38億元，佔70.02%。預計事故會對2026年業績產生一定影響，公司將採取措施降低損失。
+
+---
+
+### 2026-06-14 16:29:50  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Ukrainian President ZELENSKIY said Russia is carrying out hundreds of strikes daily on Ukrainian cities and communities, targeting civilian infrastructure. Over the past week Russia launched 1,920 attack drones, 1,790 guided aerial bombs and 17 missiles of various types.
+
+---
+
+### 2026-06-14 16:28:48  #國際
+
+澤連斯基： 我們需要防空裝備與遠端作戰能力方面的支援，擴大無人機合作專案的規模，並進一步加大對俄羅斯的制裁力度。
+
+---
+
+### 2026-06-14 16:28:26  #國際
+
+澤連斯基： 俄羅斯正對烏克蘭多地城鎮發動數百次襲擊，每日持續打擊我方民用基礎設施。僅過去一週，俄方就向烏克蘭投放了 1920 架攻擊型無人機、1790 枚航空制導炸彈以及 17 枚各類導彈。我們必須加大反制力度，應對這些襲擊。
+
+---
+
+### 2026-06-14 16:25:00  #國際
+
+【日媒：日本航空自衛隊將更名“航空宇宙自衛隊”】據《日本經濟新聞》6月14日報道，日本政府計劃在2026財年將航空自衛隊改編為“航空宇宙自衛隊”。這是自1954年日本陸上自衛隊、海上自衛隊及航空自衛隊成立以來首次更名。《日本經濟新聞》認為，此舉旨在將太空明確列為自衛隊的作戰領域之一，這不僅是名稱變更，而是日本安全保障理念擴充套件的一個節點性事件。據報道，為推進此次組織架構重組而提交的《自衛隊法》修正案目前正在國會審議。一旦法案獲得透過，該部隊的主要作戰領域將隨之擴充套件至太空。（參考訊息）
 
 ---
 
@@ -22140,125 +22276,5 @@ China-South Korea semiconductor ETF rose more than 7%; global chips LOF rose mor
 ### 2026-06-12 10:35:34  #公司 #國際
 
 【黃仁勳做客韓國綜藝節目】黃仁勳近日在韓國綜藝節目《You Quiz on the Block》中回顧了自己的成長經歷。 他表示，9歲移民美國後，曾在餐廳從事洗碗和打掃廁所等工作。“無論做什麼事情，我都會付出100%的努力”。 他說，“工作本身並不重要，重要的是完成工作後的成果，因為那代表著你自己”。 對於成功所需要具備的品質，黃仁勳認為最重要的是面對失敗的能力。 他說，“如果想變得偉大，就必須經歷痛苦和失敗。經歷失敗、重新站起來的過程，會塑造一個人的韌性和人格”。 談及AI時代時，黃仁勳表示，人工智慧將大幅降低技術門檻。 “AI很簡單，而計算機本身很複雜。過去只有學習過程式設計的人才能使用計算機，但現在計算機已經變得足夠聰明，人們只需要告訴它自己想要什麼即可”。 他認為，AI將縮小技術差距。 不過，他同時強調，“智慧如今已經變得普遍。藉助人工智慧和網際網路，人們可以輕易獲得知識，但人格和韌性依然是最難獲得的東西”。 在節目中，黃仁勳還公開談及與韓國企業界人士的關係。當被問及曾於去年參加“炸雞聚會”的三星電子董事長李在鎔、現代汽車集團董事長鄭義宣和SK集團董事長崔泰源三人之中與誰關係最鐵時，黃仁勳沒有直接作答，而是表示，“我希望他們所有人都能成功”。 他進一步評價稱，“這三位都是令人難以置信的傑出世界級領導者。對於這三家公司來說，能夠擁有這樣的領導者是一件非常幸運的事情”。（中國僑網）
-
----
-
-### 2026-06-12 10:35:16  #MKT News #Commodities #Precious Metals #Market Regions #Greater China #XAUUSD #Impact bullish #CSI300
-
-China A-share precious metals sector strengthened, led by Zhaojin Gold (up >6%) and Hunan Silver (up >5%); Xiaocheng Technology, Hengbang, Sichuan Gold and Xingye Silver & Tin also advanced.
-
----
-
-### 2026-06-12 10:34:32  #MKT News
-
-【Three high-frequency fraud types targeting the elderly】At a press briefing on the 12th, the Ministry of Public Security said frauds targeting the elderly fall into three high-frequency types. First, pension-investment schemes that lure seniors with supposedly guaranteed high-yield wealth products, collectibles or pre-IPO shares, senior apartments, or retirement/healthcare project investments. Second, health-product scams using free clinics or health talks to exaggerate efficacy or fabricate illnesses to sell overpriced supplements and therapy devices. Third, impersonation scams where callers pose as police, prosecutors, medical-insurance, social-security or civil‑affairs staff — alleging the elder is implicated in a case, that insurance is frozen, or there are pension-subsidy issues — to request cooperation and induce transfers to “verify” funds; or impersonate relatives to claim emergencies or request urgent transfers.
-
----
-
-### 2026-06-12 10:34:29  #其他
-
-【養老投資、推銷保健品、冒充身份 涉老年人詐騙犯罪3種高發型別】從公安部今天（12日）召開的新聞釋出會上獲悉，涉老年人詐騙違法犯罪主要有3種高發型別：一是養老投資類，以保本高息理財產品、收藏品或原始股、養老公寓、康養專案等為誘餌，誘騙老人投資。二是推銷保健品類，打著專家義診、健康講座旗號，誇大藥效、虛構病情，推銷高價保健品、理療器械。三是冒充身份類，冒充公檢法、醫保、社保、民政等工作人員，謊稱老年人涉案、醫保凍結、養老補貼申領等，要求配合調查，誘導轉賬驗資；或者冒充老人的子女、親友等，以出事急需用錢、代繳費等為由借錢轉賬。（央視新聞）
-
----
-
-### 2026-06-12 10:33:58  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #DXY #Impact bearish
-
-【January–May China railway fixed-asset investment 248.5 bln yuan, +2.6% YoY】China's national railway fixed-asset investment totaled 248.5 billion yuan in January–May, up 2.6% YoY, supporting expansion of domestic demand and reinforcing domestic growth momentum.
-
----
-
-### 2026-06-12 10:33:56  #其他
-
-【1至5月全國鐵路完成固定資產投資2485億元 同比增長2.6%】今年1至5月，全國鐵路完成固定資產投資2485億元，同比增長2.6%，有效發揮了鐵路建設投資帶動作用，為全方位擴大內需、增強經濟社會發展內生動力提供了有力支撐。（中國鐵路）
-
----
-
-### 2026-06-12 10:33:10  #市場
-
-【黃金概念持續走強，潮宏基漲停】黃金概念持續走強，潮宏基漲停，寶鼎科技、洛陽鉬業、豫光金鉛、江西銅業、招金黃金、盛屯礦業等跟漲。
-
----
-
-### 2026-06-12 10:33:08  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時放量2987億元。
-
----
-
-### 2026-06-12 10:32:41  #其他
-
-佰維儲存成交額達100億元，現漲6.02%。
-
----
-
-### 2026-06-12 10:32:21  #MKT News #Market Regions #Greater China #Market Themes #China Tech Giants
-
-【DJI sues Insta360 alleging wholesale copying; Insta360 files U.S. counterclaims】DJI and its Osmo unit filed patent-infringement suits on June 10–11 in the U.S. District Court for the Eastern District of Texas against Insta360 and affiliates, alleging the Luna handheld gimbal camera infringes DJI patents. On June 12 Insta360 filed patent counterclaims in the U.S. against DJI covering five invention patents related to gimbal and panoramic cameras.
-
----
-
-### 2026-06-12 10:31:23  #市場
-
-日經225指數早盤收盤上漲3.5%，至66442.95點。東證指數早盤收盤上漲1.6%，至3893.47點。
-
----
-
-### 2026-06-12 10:30:37  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10Y Yield Falls Ahead of BOJ Meeting — Japan's 10-year government bond yield slipped to around 2.65% on Friday, hitting a one-week low as investors looked ahead to the Bank of Japan's policy meeting next week, where it is are widely expected to raise interest rates amid persistent inflation and a weak yen. The central bank is expected to lift its policy rate by 25 basis points to 1%, marking the first increase since December last year and the highest level since 1995. Meanwhile, BOJ Governor Kazuo Ueda has been hospitalized with a hepatic cyst infection and will miss the meeting. Japanese bond yields also followed US Treasury yields lower after President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe. His comments sent oil prices sharply lower, easing market concerns about stubborn inflation and the need for furtherinterest rate hikes.
-
----
-
-### 2026-06-12 10:30:33  #公司
-
-【愛心人壽1.5億股股份被公開轉讓】據北京產權交易所網站的資訊顯示，愛心人壽保險股份有限公司1.5億股股份（佔總股本的6.47%）被公開轉讓，轉讓方為五方天雅集團有限公司（以下簡稱“五方天雅”），該筆股權轉讓底價約為2.5億元。據瞭解，五方天雅集團此次屬於“清倉式”轉讓，如果股權轉讓順利，將不再持有愛心人壽股權。
-
----
-
-### 2026-06-12 10:28:43  #MKT News #Market Regions #Japan & APAC #DXY #Impact bearish #Copper #Impact bullish #XAUUSD
-
-Australia's S&P/ASX 200 index rose 2% to 8,803.9.
-
----
-
-### 2026-06-12 10:27:36  #市場 #焦點
-
-科創50日內漲幅達1.98%，成分股中，晶合整合漲14.14%，盛美上海漲11.61%，中控技術漲10.53%，生益電子漲9.42%。
-
----
-
-### 2026-06-12 10:27:28  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Stocks Poised for First Weekly Gain in Eight — Indonesian shares climbed 91 points, or 1.6%, to 5,977 in Friday morning trade, marking gains for a fourth session after Wall Street rallied overnight on optimism that a U.S.–Iran deal could be reached as early as this weekend. Locally, officials signaled the 2027 fiscal strategy will prioritize growth through coordination across fiscal and monetary policy, the financial sector, and Danantara-backed investment. All major sectors advanced, led by basic materials, industrials, energy, and transport. Gains were tempered, however, by April retail sales data showing a 3.7% yoy decline, the first drop in a year, underscoring the drag from higher non-subsidized fuel prices on household spending. Standout movers included Darma Henwa (5.4%), Indofood Sukses Makmur (4.4%), Telkom Indonesia (3.1%), and Aneka Tambang (2.2%). For the week, the IDX Composite is on track for its first weekly rise in eight weeks, up around 6.6% so far, buoyed by bargain hunting after recently hitting a six-year low.
-
----
-
-### 2026-06-12 10:26:15  #公司 #觀點
-
-訊息人士稱， 眾擎機器人正與中金公司、中信合作安排香港IPO事宜。
-
----
-
-### 2026-06-12 10:25:07  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Holds Decline — The yield on the US 10-year Treasury note hovered around 4.47% on Friday after dropping about 10 basis points in the previous session, as President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe. His comments sparked a sharp fall in oil prices, easing concerns over persistent inflation and the prospect of central bank interest rate hikes. Meanwhile, data released on Thursday showed US producer prices rose 6.5% year-on-year in May, the highest level since November 2022 and slightly above expectations of 6.4%, highlighting the growing impact of the Middle East energy shock. Coupled with earlier figures showing consumer inflation accelerated to a three-year high, the latest PPI data is likely to reinforce expectations that the Federal Reserve could raise interest rates this year.
-
----
-
-### 2026-06-12 10:25:06  #其他
-
-眾擎機器人據悉將向港交所提交IPO申請。
-
----
-
-### 2026-06-12 10:25:06  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-China A-share copper-clad laminate sector firmed; Yihao New Material rose over 19%, Tongguan Copper Foil gained more than 12%, Jin'an Guoji hit the daily trading limit. Fangbang Co., Baoding Technology, Nanya New Material, Huazheng New Material and Shengyi Technology also advanced.
-
----
-
-### 2026-06-12 10:23:33  #公司 #市場
-
-【電網裝置板塊震盪反彈 華明裝備漲停】電網裝置板塊盤中震盪反彈，華明裝備漲停，此前泰永長征漲停，科林電氣、中熔電氣、三星電氣、安靠智電等跟漲。
 
 ---

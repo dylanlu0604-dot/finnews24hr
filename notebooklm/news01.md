@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-17 04:35:52_
-_本檔包含 3676 則快訊，約 672542 字_
+_更新時間：2026-06-17 05:34:56_
+_本檔包含 3681 則快訊，約 672500 字_
+
+---
+
+### 2026-06-17 05:28:48  #其他
+
+【姆巴佩梅開二度，法國3-1塞內加爾】2026年美加墨世界盃I組首輪比賽中，法國隊對陣塞內加爾隊。姆巴佩表現出色，梅開二度，幫助法國隊以3-1戰勝塞內加爾隊。比賽預告顯示，今天還將進行多場激烈角逐，包括伊拉克VS挪威、阿根廷VS阿爾及利亞和奧地利VS約旦。（央視新聞）
+
+---
+
+### 2026-06-17 05:27:41  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
+
+US Crude Inventories Fall More Than Expected — US crude oil inventories fell by 8.33 million barrels in the week ended June 12, exceeding expectations for a 4.5 million-barrel draw. This followed a 9.12 million-barrel decline in the previous week. Despite inventories falling by about 52 million barrels over the past nine weeks, US crude stockpiles are down just 1.4 million barrels since the start of the year. Inventories in the SPR also continued to decline, dropping by 8.9 million barrels to 340.3 million, leaving stocks 385 million barrels below maximum capacity. Meanwhile, inventories at the Cushing hub fell by 1.52 million barrels after declining by 1.13 million barrels the previous week. US crude production rose to 13.80 million barrels per day in the week ended June 5, up from 13.71 million bpd a week earlier. Gasoline inventories rose by 2.48 million barrels, reversing the prior week's 1.19 million-barrel decline, while distillate stockpiles fell by 461,000 barrels after rising by 1.3 million barrels in the previous week.
+
+---
+
+### 2026-06-17 05:17:58  #MKT News
+
+【FBI foils plot targeting fight on White House South Lawn】On the 16th U.S. law enforcement said the FBI and partner agencies thwarted an alleged plot to attack a fight held on the White House South Lawn on the 14th. As of the 15th five people had been detained and investigators had identified 23 suspected participants. Authorities say the suspects allegedly planned to use explosive‑laden drones against buildings near the event to force a mass evacuation and funnel the crowd toward pre‑positioned sniper teams, and had plotted a second‑wave assault on the White House gates.
+
+---
+
+### 2026-06-17 05:17:26  #MKT News #Market Themes #AI Revolution
+
+According to The Information, OpenAI told the Trump administration that foreign talent is vital to U.S. AI development.
+
+---
+
+### 2026-06-17 05:15:36  #市場
+
+富時A50期指連續夜盤收跌0.24%，報15623點。
+
+---
+
+### 2026-06-17 05:11:58  #國際
+
+【共和黨警告特朗普政府或面臨“停擺”，因民主黨反對五角大樓大幅增支】美國參議院共和黨人指責民主黨人拒絕為9月30日之後的政府機構提供資金，藉此施壓以推動在中期選舉前推進陷入停滯的年度支出法案。參議院多數黨領袖約翰·圖恩（John Thune，南達科他州共和黨人）說：“參議院民主黨領導人舒默和民主黨人最想要的就是再次政府停擺。民主黨人不想在正常的撥款程式上配合。”
+
+---
+
+### 2026-06-17 05:09:36  #市場
+
+【現貨黃金漲約0.5%，白銀持平，鉑金漲2%】週二（6月16日）紐約尾盤，現貨黃金漲0.48%，報4332.23美元/盎司，亞太盤初以來持續走高，北京時間20:59重新整理日高至4354.88美元，隨後在22:34回落至逼近4313美元。COMEX黃金期貨漲0.08%，報4355.20美元/盎司。現貨白銀大致持平，報69.9850美元/盎司，日內交投區間為69.0730-71.1951美元，21:00重新整理日高。COMEX白銀期貨大致持平，報70.160美元/盎司，21:00曾達到71.310美元。COMEX銅期貨跌0.11%，報6.5510美元/磅。現貨鉑金漲2.02%，現貨鈀金漲0.75%。
+
+---
+
+### 2026-06-17 05:09:26  #其他
+
+西太平洋銀行：紐西蘭二季度消費者信心下滑至80.4，創三年新低。
+
+---
+
+### 2026-06-17 05:09:21  #市場
+
+週二（6月16日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7566元，較週一紐約尾盤漲27點，日內整體交投於6.7635-6.7551元區間。
+
+---
+
+### 2026-06-17 04:56:11  #市場
+
+【現貨黃金漲約0.5%，白銀持平，鉑金漲2%】週二（6月16日）紐約尾盤，現貨黃金漲0.48%，報4332.23美元/盎司，亞太盤初以來持續走高，北京時間20:59重新整理日高至4354.88美元，隨後在22:34回落至逼近4313美元。COMEX黃金期貨漲0.08%，報4355.20美元/盎司。現貨白銀大致持平，報69.9850美元/盎司，日內交投區間為69.0730-71.1951美元，21:00重新整理日高。COMEX白銀期貨大致持平，報70.160美元/盎司，21:00曾達到71.310美元。COMEX銅期貨跌0.11%，報6.5510美元/磅。現貨鉑金漲2.02%，現貨鈀金漲0.75%。
+
+---
+
+### 2026-06-17 04:55:29  #公司
+
+Kalshi因向谷歌、LinkedIn披露使用者活動而被起訴。
+
+---
+
+### 2026-06-17 04:48:31  #MKT News #Commodities #Energy
+
+Sources say ExxonMobil will supply LNG to South Africa to help reduce South Africa's dependence on coal.
+
+---
+
+### 2026-06-17 04:44:37  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O) may be sued by the US Federal Trade Commission for allegedly misleading advertisers and could face multibillion-dollar civil fines, sources said.
+
+---
+
+### 2026-06-17 04:38:28  #國際
+
+【巴西最高法院裁定愛德華多·博索納羅因尋求美國干預其父政變案審判罪名成立】巴西最高法院合議庭多數法官投票裁定，愛德華多·博索納羅（Eduardo Bolsonaro）因在其父親（前總統）的政變陰謀案審判期間尋求美國干預，罪名成立。該合議庭的四名法官中，已有三人投票裁定愛德華多·博索納羅罪名成立。合議庭中僅剩最後一名法官尚未進行投票。
+
+---
+
+### 2026-06-17 04:38:00  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Brazil Shares Fall Ahead of BCB Decision — The Ibovespa fell 0.4% to close at 169,648 on Tuesday as investors assessed fresh election polls and rising inflation expectations. A BTG/Nexus survey released on Monday showed President Lula holding a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation increased for the 14th consecutive week, prompting markets to reassess how long the BCB may keep interest rates elevated. Most sectors ended lower. Financial stocks traded mixed amid concerns that higher borrowing costs could weigh on lending activity, with Bradesco falling 0.7%. Petrobras also pressured the index, declining 1.3% as optimism surrounding a preliminary US-Iran peace agreement raised the prospect of the Strait of Hormuz remaining open.
+
+---
+
+### 2026-06-17 04:36:44  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API crude oil production change for week to June 12: -17,000 b/d, prior +262,000 b/d.
+
+---
+
+### 2026-06-17 04:36:33  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Jun.12) | actual -17000M | previous 262000M
+
+---
+
+### 2026-06-17 04:36:30  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US API petroleum product imports for week to June 12: -121,000 b/d, prior -51,000 b/d.
+
+---
+
+### 2026-06-17 04:36:23  #其他
+
+KBRA指數顯示，私人信用市場違約率創2023年3月份以來最高。
+
+---
+
+### 2026-06-17 04:36:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US API crude oil imports for the week ended June 12: -276,000 bbl; prior -358,000 bbl.
+
+---
+
+### 2026-06-17 04:36:21  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports Change (Jun.12) | actual -121000M | previous -51000M
+
+---
+
+### 2026-06-17 04:36:14  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports Change (Jun.12) | actual -276000M | previous -358000M
+
+---
+
+### 2026-06-17 04:36:05  #焦點 #國際
+
+美國至6月12日當週API原油庫存 -833萬桶，預期-451.5萬桶，前值-911.9萬桶。
+
+---
+
+### 2026-06-17 04:36:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API: U.S. heating oil inventories fell 125,000 barrels in the week to June 12, versus a 407,000‑barrel draw the prior week.
+
+---
+
+### 2026-06-17 04:35:56  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+US API Cushing crude stocks -1.523 mln barrels in week to June 12; prior -1.125 mln barrels.
+
+---
+
+### 2026-06-17 04:35:56  #MKT News #Economic Calendar
+
+United States | API Weekly Heating Oil Stocks Change (Jun.12) | actual -125000M | previous -407000M
+
+---
+
+### 2026-06-17 04:35:47  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Jun.12) | actual -1523000M | previous -1125000M
+
+---
+
+### 2026-06-17 04:35:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US API weekly refined-product inventories fell 461,000 barrels in the week to June 12, versus an expected decline of 198,000 barrels; prior was an increase of 1.316 million barrels.
+
+---
+
+### 2026-06-17 04:35:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. API gasoline stocks rose 2.479 mln barrels in the week to June 12, versus an expected draw of 1.401 mln and a prior draw of 1.191 mln.
+
+---
+
+### 2026-06-17 04:35:35  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Distillate Stocks Change (Jun.12) | actual -461000M | consensus -198000M | previous 1316000M
+
+---
+
+### 2026-06-17 04:35:27  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Gasoline Stocks Change (Jun.12) | actual 2479000M | consensus -1401000M | previous -1191000M
 
 ---
 
@@ -22002,161 +22188,5 @@ ANTHROPIC今日將與特朗普政府就MYTHOS問題會面。
 ### 2026-06-15 22:41:13  #市場 #國際
 
 【美國住宅建築商信心下滑 受抵押貸款利率及材料成本走高拖累】美國6月住宅建築商信心下滑，拖累因素包括抵押貸款利率上升、材料成本上漲，以及南部信心急劇的下降。美國全國住宅建築商協會(NAHB)和富國週一聯合釋出的資料顯示，6月市場狀況指數下跌2點至35點，低於接受彭博調查經濟學家的預期37點。作為美國最大的住宅建築區域，南部地區指數出現自2023年11月以來的最大跌幅。該指數低於50意味著認為市場狀況不佳的建築商多於認為良好的建築商。NAHB表示，6月的讀數標誌著該指數連續第14個月低於40，這是自2011-2012年以來持續時間最長的一次。NAHB的資料顯示，衡量當前銷售的指標下跌2點至38點，而衡量銷售預期和潛在買家客流的指標並無變動。住宅建築商協會將整體指數的下降部分歸咎於材料價格上漲、融資成本上升以及阻礙房屋建設的法規。“在全國住房缺口約為120萬套的情況下，在障礙消除、住宅建設環境改善之前，建築商的信心將持續低迷，”NAHB主席、俄亥俄州建築商Bill Owens在一份宣告中表示。聯邦政府將於週二釋出住宅建設報告，更新5月份的新屋開工數。
-
----
-
-### 2026-06-15 22:40:27  #其他
-
-【我國夏糧小麥收穫已近九成】記者從農業農村部獲悉，截至6月15日17時，全國已收穫夏糧小麥3.04億畝，收穫進度89.48%。山東近九成，河北過八成，陝西近八成，山西過七成，新疆近三成，甘肅零星收穫。（新華社）
-
----
-
-### 2026-06-15 22:39:43  #國際
-
-據以色列媒體：在與伊朗的協議簽署前夕，以色列國內批評聲浪日益高漲，以色列總理內塔尼亞胡預計將於今晚就此發表首份公開宣告。
-
----
-
-### 2026-06-15 22:39:09  #MKT News #Commodities #Industrial Metals
-
-【Specialty electronic gas prices volatile as plants run two shifts but supply remains tight】Tungsten hexafluoride (WF6), a key deposition gas for memory and advanced logic chips, has seen sharp price gains as some overseas capacity exited and downstream memory-chip expansion widened the supply gap. An analyst expects 5N-grade WF6 to average roughly 1,760 yuan/kg in June, up about 236% YoY, and cites sustained memory demand as the core support. A Shanghai specialty-gas producer reported a surge in helium demand; factories are running two shifts yet remain undersupplied, and buyers report prices moving daily with risk of immediate unavailability.
-
----
-
-### 2026-06-15 22:38:47  #公司
-
-【匹克成為愛知·名古屋亞殘運會中國代表團官方合作伙伴】中國殘奧委員會與匹克集團戰略合作簽約儀式15日在福建泉州舉行，匹克集團成為2026年愛知·名古屋亞殘運會中國體育代表團官方合作伙伴，為代表團提供訓練、比賽、領獎等全方位運動裝備，為殘奧運動員打造定製化鞋服和護具產品。匹克集團同時為2026年全國殘疾人輪椅籃球錦標賽、全國聾人籃球錦標賽等賽事提供支援保障。匹克集團董事長許景南表示，支援中國殘奧代表團不僅是對匹克“奧運發展計劃”的延伸，也是希望以此激勵包括殘障人士在內的運動愛好者勇敢走上競技場。（新華社）
-
----
-
-### 2026-06-15 22:38:30  #其他
-
-【德國勞動年齡人口十年後或減少430萬】德國經濟研究所15日釋出的一項研究報告預測，由於二戰後出生的“嬰兒潮”一代即將退休、生育率下降以及更嚴格移民政策阻礙外國勞工流入等因素，德國勞動年齡人口10年後將比現在減少430萬人。報告說，由於進入勞動力市場的年輕人口不足以填補“嬰兒潮”一代退休留下的空缺，德國勞動年齡人口到2036年將降至5100萬人，比現在少430萬，降幅約7%。報告指出，德國勞動年齡人口的萎縮速度較先前預測更快，原因是德國總人口比預期更早開始下降。2025年資料顯示，德國人口時隔多年後首次萎縮，降至8350萬，比前一年減少大約10萬。經濟研究所預測，到2040年，德國總人口將降至8200萬以下。（新華社）
-
----
-
-### 2026-06-15 22:38:11  #其他
-
-【安理會透過決議 將聯阿援助團授權延長一年】當地時間6月15日，聯合國安理會投票全票透過決議，同意將聯合國阿富汗援助團（聯阿援助團）授權延期一年，至2027年6月17日。（央視新聞）
-
----
-
-### 2026-06-15 22:37:45  #公司 #國際
-
-【七國集團峰會在抗議聲中開幕】七國集團峰會15日在法國埃維昂萊班開幕，會場之外抗議聲不絕。根據議程，本次峰會為期3天，將圍繞俄烏衝突、中東局勢、經濟的平衡、共享和可持續增長以及人工智慧等議題進行討論。除七國集團領導人，巴西、韓國、印度、肯亞、埃及和烏克蘭等10餘個國家和國際組織的領導人也受邀與會。（新華社）
-
----
-
-### 2026-06-15 22:37:00  #行業
-
-【電子特氣熱門產品一天一個價 電子特氣行情爆發】六氟化鎢是製造儲存晶片和先進邏輯晶片時的關鍵沉積材料，也是本輪電子特氣需求景氣度高漲的熱門品種。受海外部分產能退出、下游儲存晶片持續擴產等因素影響，供需缺口擴大，直接推動產品價格進入上行通道。分析師表示：“以市場價格漲幅明顯的六氟化鎢為例，5N級6月份月均價有望達到1760元/千克，同比增長236%。儲存晶片的需求放量是貫穿的核心支撐。”在上海一家特種氣體生產企業，工廠正在加班加點趕製訂單，負責人告訴央視財經記者，近期氦氣需求大幅攀升，工廠雙班倒執行生產仍然供不應求。負責人介紹：“半導體行業對氦氣需求量非常大。好多客戶都在問，現在是一天一個價。有可能今天的價格，明天就買不到了。”行業的景氣度也傳遞到資本市場。今年以來，A股電子特氣板塊表現強勢，中船特氣、和遠氣體、昊華科技、雅克科技等多隻個股漲幅居前，萬得資訊工業氣體指數今年以來的漲幅超40%。多位業內分析人士告訴記者，2025年以來，中國電子特氣市場規模快速擴張，景氣度有望持續提升。（央視財經）
-
----
-
-### 2026-06-15 22:34:08  #央行 #公司 #國際
-
-【機構：英國央行利率決議公佈前，伊朗和平協議降低通脹風險】XTB的Kathleen Brooks在一份報告中表示，旨在結束中東衝突並重新開放霍爾木茲海峽的美伊和平協議對油價構成下行壓力，緩解了通脹擔憂。這一事態發展發生在週四英國央行利率決議公佈前，投資者普遍預計屆時英國基準利率將維持在3.75%不變。市場可能會關注投票分歧以及英國央行的溝通，以尋找未來利率決議可能走向的線索。倫敦證券交易所集團資料顯示，投資者已完全反映了對12月份英國央行加息25個基點的預期。
-
----
-
-### 2026-06-15 22:33:57  #MKT News
-
-A suicide attack on an Interior Ministry camp in Raqqa killed at least two Interior Ministry personnel, a Syrian Interior Ministry spokesman said.
-
----
-
-### 2026-06-15 22:33:39  #國際
-
-敘利亞內政部發言人表示：至少兩名敘內政部人員在針對拉卡一處內政部營地的襲擊中身亡。
-
----
-
-### 2026-06-15 22:33:25  #公司
-
-【安德利：擬6 - 8億元收購甬強科技控制權】安德利公告稱，6月15日公司與JIANGQI HE等簽署《股權轉讓框架協議》，擬以自有或自籌資金收購寧波甬強科技有限公司部分股權以實現取得控制權。交易總對價初步預計6 - 8億元，以最終評估值為準。目前交易處於前期盡職調查階段，後續需各方履行內部審批程式，能否推進存在不確定性。公司提示存在交易不確定、收購整合和財務現金流風險。
-
----
-
-### 2026-06-15 22:33:04  #公司 #市場
-
-【馬斯克身家達1.2萬億美元 SpaceX市值反超臺積電】根據《福布斯》最新發布的全球富豪榜，特斯拉與SpaceX掌門人埃隆·馬斯克（Elon Musk）的個人財富已飆升至驚人的1.2萬億美元，重新整理歷史紀錄，上一交易日，他成為全球首位“萬億富豪”。這一財富神話的背後，主要得益於其旗下兩家王牌企業的強勁表現。最新行情資料顯示，SpaceX（SPCX）的總市值已達到2.28萬萬億元（約合2.28萬億美元），日內大漲8%，正式超越晶圓代工巨頭臺積電（TSM，市值2.26萬億美元），躋身美股頂級市值梯隊，位列第六。目前，美股總市值榜前三名分別由英偉達（5.05萬億美元）、谷歌及蘋果佔據。SpaceX憑藉在商業航天和星鏈領域的絕對統治力，市值持續狂飆，成為馬斯克萬億身家的核心支柱。
-
----
-
-### 2026-06-15 22:31:57  #MKT News
-
-Marine Traffic reported vessel activity concentrated on June 11–12 and a pronounced two-way imbalance: 23 west-to-east transits through the strait into the gulf versus six east-to-west departures leaving the gulf.
-
----
-
-### 2026-06-15 22:31:52  #公司
-
-【齊心集團中標中國大唐集團2026年—2029年度辦公用品和MRO工業品長協專案】據齊心集團訊息，近日，齊心集團成功中標中國大唐集團有限公司2026年—2029年度辦公用品和MRO工業品長協專案。
-
----
-
-### 2026-06-15 22:31:47  #國際
-
-【烏克蘭稱攔截俄50枚導彈582架無人機】據烏通社15日援引烏克蘭空軍訊息稱，在俄軍自14日晚間發起的大規模襲擊中，烏方共攔截了50枚導彈和582架無人機。 報道說，自當地時間14日18時起，俄軍動用各類導彈以及攻擊型無人機，對烏克蘭實施大規模打擊，襲擊的主要目標是基輔。 基輔市市長克利奇科15日在社交媒體發文稱，俄軍對基輔的大規模襲擊造成5人死亡、35人受傷。克利奇科稱，空襲導致該市9個區的多處建築物受損，基輔洞窟修道院的一座大教堂的屋頂起火。 另據俄羅斯國防部15日上午釋出的通報，前一日夜間至當日凌晨，俄軍對烏克蘭基輔等地的國防工業設施進行了打擊，但否認打擊目標有包括基輔一處修道院在內的民用設施。 聯合國教科文組織15日發表宣告，譴責針對基輔洞窟修道院的襲擊。該修道院與聖索菲亞大教堂於1990年被一同列入《世界遺產名錄》，是烏克蘭地標之一。（新華社）
-
----
-
-### 2026-06-15 22:31:31  #公司
-
-據船舶追蹤公司Marine Traffic：霍爾木茲海峽的船舶通行仍在持續，但航運流量分佈依然不均衡，且可見度仍然有限。6月10日至14日期間，共記錄到29艘經核實船舶穿越霍爾木茲海峽，涉及原油、成品油、液化石油氣（LPG）、化學品、甲醇以及普通貨物運輸。船舶活動主要集中在6月11日和12日，而雙向通行流量明顯失衡：其中23次航行由西向東，透過海峽駛向海灣內部；僅有6次航行由東向西，駛離海灣地區。
-
----
-
-### 2026-06-15 22:31:06  #公司 #市場 #國際
-
-【沃倫參議員要求獲取私募股權投資資料中心交易的相關資料】美國民主黨聯邦參議員沃倫於週五致函四家大型基建投資機構，要求其提供旗下資料中心相關交易的詳細資料。她重點關注資料中心與公用事業企業之間可能存在的所有權重疊問題，但並未指控相關企業存在任何不法行為。支撐人工智慧產業變革的資料中心正引發越來越多政界人士的擔憂；疊加能源價格持續上漲的背景，私募資本大舉入局該領域，進一步激化了民眾層面的不滿情緒。身為參議院銀行委員會資深委員的沃倫，此次致函物件包括貝萊德、黑石集團、布魯克斯通基建合夥公司以及 KKR 集團。信函要求企業提供其對資料中心企業投資的相關材料，涵蓋企業財務架構、運營模式發生的所有調整，以及資料中心產業鏈上下游其他相關企業的投資資訊。同時還要求企業提交兩類材料：一是 “能夠證明貴司為降低持有資料中心所伴隨監管風險而採取相關舉措的檔案”；二是作出說明，闡釋企業如何保證自身同時深度佈局能源供給與能源需求端的業務佈局，不會藉此抬高電價、損害美國民眾利益。上述四家機構要麼拒絕置評，要麼尚未回應阿克西奧斯的採訪問詢。
-
----
-
-### 2026-06-15 22:31:00  #MKT News #Commodities #Energy #WTI #Brent
-
-MarineTraffic recorded 29 verified vessel transits of the Strait of Hormuz from June 10-14, carrying crude oil, refined products, LPG, chemicals, methanol and general cargo.
-
----
-
-### 2026-06-15 22:30:46  #MKT News
-
-Ship-tracking company Marine Traffic reports vessel transits through the Strait of Hormuz continue, but traffic distribution remains uneven and visibility of movements is limited.
-
----
-
-### 2026-06-15 22:30:22  #MKT News #Important
-
-【Electronic specialty gas producers report surge in orders】As AI and high-end memory chip demand rises, electronic specialty gases — electronic-grade gases with purity above 99.99% used in semiconductor manufacturing — are in short supply for several core products. Several producers say orders have jumped and production lines are running at high load. Since the start of the year wafer fabs’ transport demand for these often flammable/explosive, zero-inventory chemicals has surged, pushing delivery schedules and logistics to full capacity.
-
----
-
-### 2026-06-15 22:29:34  #央行 #其他
-
-銀行人士表示，土耳其央行上週不包含互換的淨儲備減少5億美元，降至290億美元。
-
----
-
-### 2026-06-15 22:29:32  #其他
-
-銀行業人士表示，土耳其中央銀行上週買入了30億美元外匯。
-
----
-
-### 2026-06-15 22:29:23  #央行 #其他
-
-銀行業人士表示，土耳其央行淨儲備上週減少20億美元，降至450億美元。
-
----
-
-### 2026-06-15 22:29:20  #央行 #其他
-
-據銀行人士透露，土耳其央行上週總儲備減少75億美元，降至1520億美元。
-
----
-
-### 2026-06-15 22:29:12  #宏觀 #公司
-
-【山姆就食品安全問題致歉 成立專項工作組啟動整改】15日，山姆會員商店就近期多發的食品安全問題向公眾及會員致歉，並稱已啟動自查整改。針對一段時期以來發現的山姆線下門店及線上網店多發的食品安全問題，市場監管總局近日依法對沃爾瑪（中國）投資有限公司（即山姆總部）負責人進行了責任約談，山姆相關負責人回應稱，針對約談中監管部門所指出的問題與整改要求，完全認可、深刻反思並誠懇接受。對於相關問題給會員帶來的困擾與不便，深表歉意。山姆相關負責人表示，目前，公司已由管理層牽頭成立專項整改工作組，第一時間啟動全渠道、全鏈路專項自查整改。公司將嚴格遵照相關法規及監管要求，全面最佳化食安管控和商品品控，嚴守食品安全底線、提升會員體驗。將定期向監管部門報送整改進展，主動接受社會各界監督。（新華社）
 
 ---

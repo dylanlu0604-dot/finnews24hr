@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-17 04:35:52_
-_本檔包含 3636 則快訊，約 672768 字_
+_更新時間：2026-06-17 05:34:56_
+_本檔包含 3618 則快訊，約 672406 字_
+
+---
+
+### 2026-06-12 10:35:16  #MKT News #Commodities #Precious Metals #Market Regions #Greater China #XAUUSD #Impact bullish #CSI300
+
+China A-share precious metals sector strengthened, led by Zhaojin Gold (up >6%) and Hunan Silver (up >5%); Xiaocheng Technology, Hengbang, Sichuan Gold and Xingye Silver & Tin also advanced.
+
+---
+
+### 2026-06-12 10:34:32  #MKT News
+
+【Three high-frequency fraud types targeting the elderly】At a press briefing on the 12th, the Ministry of Public Security said frauds targeting the elderly fall into three high-frequency types. First, pension-investment schemes that lure seniors with supposedly guaranteed high-yield wealth products, collectibles or pre-IPO shares, senior apartments, or retirement/healthcare project investments. Second, health-product scams using free clinics or health talks to exaggerate efficacy or fabricate illnesses to sell overpriced supplements and therapy devices. Third, impersonation scams where callers pose as police, prosecutors, medical-insurance, social-security or civil‑affairs staff — alleging the elder is implicated in a case, that insurance is frozen, or there are pension-subsidy issues — to request cooperation and induce transfers to “verify” funds; or impersonate relatives to claim emergencies or request urgent transfers.
+
+---
+
+### 2026-06-12 10:34:29  #其他
+
+【養老投資、推銷保健品、冒充身份 涉老年人詐騙犯罪3種高發型別】從公安部今天（12日）召開的新聞釋出會上獲悉，涉老年人詐騙違法犯罪主要有3種高發型別：一是養老投資類，以保本高息理財產品、收藏品或原始股、養老公寓、康養專案等為誘餌，誘騙老人投資。二是推銷保健品類，打著專家義診、健康講座旗號，誇大藥效、虛構病情，推銷高價保健品、理療器械。三是冒充身份類，冒充公檢法、醫保、社保、民政等工作人員，謊稱老年人涉案、醫保凍結、養老補貼申領等，要求配合調查，誘導轉賬驗資；或者冒充老人的子女、親友等，以出事急需用錢、代繳費等為由借錢轉賬。（央視新聞）
+
+---
+
+### 2026-06-12 10:33:58  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #DXY #Impact bearish
+
+【January–May China railway fixed-asset investment 248.5 bln yuan, +2.6% YoY】China's national railway fixed-asset investment totaled 248.5 billion yuan in January–May, up 2.6% YoY, supporting expansion of domestic demand and reinforcing domestic growth momentum.
+
+---
+
+### 2026-06-12 10:33:56  #其他
+
+【1至5月全國鐵路完成固定資產投資2485億元 同比增長2.6%】今年1至5月，全國鐵路完成固定資產投資2485億元，同比增長2.6%，有效發揮了鐵路建設投資帶動作用，為全方位擴大內需、增強經濟社會發展內生動力提供了有力支撐。（中國鐵路）
+
+---
+
+### 2026-06-12 10:33:10  #市場
+
+【黃金概念持續走強，潮宏基漲停】黃金概念持續走強，潮宏基漲停，寶鼎科技、洛陽鉬業、豫光金鉛、江西銅業、招金黃金、盛屯礦業等跟漲。
+
+---
+
+### 2026-06-12 10:33:08  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量2987億元。
+
+---
+
+### 2026-06-12 10:32:41  #其他
+
+佰維儲存成交額達100億元，現漲6.02%。
+
+---
+
+### 2026-06-12 10:32:21  #MKT News #Market Regions #Greater China #Market Themes #China Tech Giants
+
+【DJI sues Insta360 alleging wholesale copying; Insta360 files U.S. counterclaims】DJI and its Osmo unit filed patent-infringement suits on June 10–11 in the U.S. District Court for the Eastern District of Texas against Insta360 and affiliates, alleging the Luna handheld gimbal camera infringes DJI patents. On June 12 Insta360 filed patent counterclaims in the U.S. against DJI covering five invention patents related to gimbal and panoramic cameras.
+
+---
+
+### 2026-06-12 10:31:23  #市場
+
+日經225指數早盤收盤上漲3.5%，至66442.95點。東證指數早盤收盤上漲1.6%，至3893.47點。
+
+---
+
+### 2026-06-12 10:30:37  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10Y Yield Falls Ahead of BOJ Meeting — Japan's 10-year government bond yield slipped to around 2.65% on Friday, hitting a one-week low as investors looked ahead to the Bank of Japan's policy meeting next week, where it is are widely expected to raise interest rates amid persistent inflation and a weak yen. The central bank is expected to lift its policy rate by 25 basis points to 1%, marking the first increase since December last year and the highest level since 1995. Meanwhile, BOJ Governor Kazuo Ueda has been hospitalized with a hepatic cyst infection and will miss the meeting. Japanese bond yields also followed US Treasury yields lower after President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe. His comments sent oil prices sharply lower, easing market concerns about stubborn inflation and the need for furtherinterest rate hikes.
+
+---
+
+### 2026-06-12 10:30:33  #公司
+
+【愛心人壽1.5億股股份被公開轉讓】據北京產權交易所網站的資訊顯示，愛心人壽保險股份有限公司1.5億股股份（佔總股本的6.47%）被公開轉讓，轉讓方為五方天雅集團有限公司（以下簡稱“五方天雅”），該筆股權轉讓底價約為2.5億元。據瞭解，五方天雅集團此次屬於“清倉式”轉讓，如果股權轉讓順利，將不再持有愛心人壽股權。
+
+---
+
+### 2026-06-12 10:28:43  #MKT News #Market Regions #Japan & APAC #DXY #Impact bearish #Copper #Impact bullish #XAUUSD
+
+Australia's S&P/ASX 200 index rose 2% to 8,803.9.
+
+---
+
+### 2026-06-12 10:27:36  #市場 #焦點
+
+科創50日內漲幅達1.98%，成分股中，晶合整合漲14.14%，盛美上海漲11.61%，中控技術漲10.53%，生益電子漲9.42%。
+
+---
+
+### 2026-06-12 10:27:28  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Stocks Poised for First Weekly Gain in Eight — Indonesian shares climbed 91 points, or 1.6%, to 5,977 in Friday morning trade, marking gains for a fourth session after Wall Street rallied overnight on optimism that a U.S.–Iran deal could be reached as early as this weekend. Locally, officials signaled the 2027 fiscal strategy will prioritize growth through coordination across fiscal and monetary policy, the financial sector, and Danantara-backed investment. All major sectors advanced, led by basic materials, industrials, energy, and transport. Gains were tempered, however, by April retail sales data showing a 3.7% yoy decline, the first drop in a year, underscoring the drag from higher non-subsidized fuel prices on household spending. Standout movers included Darma Henwa (5.4%), Indofood Sukses Makmur (4.4%), Telkom Indonesia (3.1%), and Aneka Tambang (2.2%). For the week, the IDX Composite is on track for its first weekly rise in eight weeks, up around 6.6% so far, buoyed by bargain hunting after recently hitting a six-year low.
+
+---
+
+### 2026-06-12 10:26:15  #公司 #觀點
+
+訊息人士稱， 眾擎機器人正與中金公司、中信合作安排香港IPO事宜。
+
+---
+
+### 2026-06-12 10:25:07  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Holds Decline — The yield on the US 10-year Treasury note hovered around 4.47% on Friday after dropping about 10 basis points in the previous session, as President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe. His comments sparked a sharp fall in oil prices, easing concerns over persistent inflation and the prospect of central bank interest rate hikes. Meanwhile, data released on Thursday showed US producer prices rose 6.5% year-on-year in May, the highest level since November 2022 and slightly above expectations of 6.4%, highlighting the growing impact of the Middle East energy shock. Coupled with earlier figures showing consumer inflation accelerated to a three-year high, the latest PPI data is likely to reinforce expectations that the Federal Reserve could raise interest rates this year.
+
+---
+
+### 2026-06-12 10:25:06  #其他
+
+眾擎機器人據悉將向港交所提交IPO申請。
+
+---
+
+### 2026-06-12 10:25:06  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+China A-share copper-clad laminate sector firmed; Yihao New Material rose over 19%, Tongguan Copper Foil gained more than 12%, Jin'an Guoji hit the daily trading limit. Fangbang Co., Baoding Technology, Nanya New Material, Huazheng New Material and Shengyi Technology also advanced.
+
+---
+
+### 2026-06-12 10:23:33  #公司 #市場
+
+【電網裝置板塊震盪反彈 華明裝備漲停】電網裝置板塊盤中震盪反彈，華明裝備漲停，此前泰永長征漲停，科林電氣、中熔電氣、三星電氣、安靠智電等跟漲。
 
 ---
 
@@ -21655,233 +21775,5 @@ apanese Shares Sink to 3-Week Lows — The Nikkei 225 Index fell 2.1% to below 6
 ### 2026-06-11 08:37:45  #公司
 
 【上海電氣集團董事長吳磊一行拜訪包鋼集團與北重集團 深化產業合作空間】6月10日，上海電氣集團黨委書記、董事長吳磊一行先後拜訪包頭鋼鐵（集團）有限責任公司和內蒙古北方重工業集團有限公司。吳磊在與包鋼（集團）公司黨委書記、董事長孟繁英會談時，雙方一致表示，將充分發揮各自產業優勢，進一步加強戰略對接，持續深化務實合作，共同探索合作新模式、新路徑，更好服務國家戰略實施和現代化產業體系建設。吳磊在與北重集團黨委書記、董事長王佔山會談時，雙方一致表示，將進一步深化互信合作，充分發揮資源、技術和產業優勢，持續拓展合作領域，推動產業協同創新，實現優勢互補、互利共贏，共同為產業高質量發展注入新動能。
-
----
-
-### 2026-06-11 08:37:15  #其他
-
-【柬埔寨安徽商會會長劉忍被押解回國】據柬埔寨《柬中時報》報道，日前被柬埔寨警方逮捕的柬埔寨安徽商會會長劉忍，6月10日已由柬方移交中國警方，並被押解返回中國。
-
----
-
-### 2026-06-11 08:35:17  #公司 #國際
-
-【雷諾集團CEO：伊朗戰爭爆發以來歐洲電動車訂單激增】雷諾集團執行長Francois Provost週三接受媒體訪談表示，自伊朗戰爭爆發以來，雷諾電動汽車在法國和德國等市場的訂單量已增長50%。Provost表示，雷諾在電池供應方面沒有問題，但正努力滿足對電動汽車的需求，公司已成立特別工作小組應對這個問題。他在布魯塞爾舉行的汽車新聞大會(Automotive News Congress)間隙表示：“由於伊朗戰爭，我們目前的訂單量已超出（供應商的）產能。”Provost指出，雷諾也考慮在今年下半年增加在法國杜埃（Douai）與莫伯日（Maubeuge），以及斯洛維尼亞新梅斯托（Novo Mesto）電動車廠的生產班次。伊朗戰爭引發燃油價格高企，歐洲電動車需求激增，消費者對新車和二手車的興趣同步增加。今年前四個月，歐洲純電動車銷量大增29%，達到近100萬輛。Provost表示，一旦伊朗戰爭結束、燃料價格回落，市場對電動車的高度興趣將會下降，但朝電動車轉型的步伐仍將持續加快。
-
----
-
-### 2026-06-11 08:34:09  #MKT News
-
-IRNA reports explosions heard in Karaj, Iran.
-
----
-
-### 2026-06-11 08:33:58  #國際
-
-據伊朗伊斯蘭共和國通訊社（IRNA）：伊朗卡拉季傳出爆炸聲。
-
----
-
-### 2026-06-11 08:33:45  #市場 #觀點 #國際
-
-在美國對伊朗發動新一輪襲擊後，金價連續第三個交易日下跌。金價較2月底伊朗戰爭爆發前的水平低約23%。摩根大通諮詢顧問、前貴金屬交易員Robert Gottlieb發文稱：“接踵而至的矛盾訊息頭條正加劇市場不確定性，促使投資者在各類資產中降低風險敞口並提高流動性。”他寫道，此輪最新跌勢“更多是出於去槓桿和投資組合再平衡，而非對黃金作為避險資產的基本面重新評估”。
-
----
-
-### 2026-06-11 08:33:37  #其他
-
-【暑期出行預訂火熱 機構預測7股營收高增長】日前，多個旅遊平臺釋出2026年暑期出遊趨勢報告。總體來看，暑期旅遊產品預訂已進入高峰期，出遊人次顯著增長，旅遊產品供給更為豐富多元。據證券時報·資料寶統計，A股中佈局旅遊、酒店板塊的個股共有35只。暑期出遊高峰即將到來，部分個股獲機構密集關注。統計顯示，有21股獲得機構評級，其中14股評級機構數量在5家及以上，錦江酒店、首旅酒店、宋城演藝數量居前，分別為25家、24家、17家。上述5家及以上機構評級的個股中，有7股獲機構一致預測2026年營收增幅在10%以上，三峽旅遊、君亭酒店、長白山居前，分別為30.3%、19.36%、14.06%。
-
----
-
-### 2026-06-11 08:31:49  #市場 #國際
-
-【金價連跌三日 此前美國對伊朗實施新一輪打擊】在美國對伊朗發動新一輪襲擊後，金價連續第三個交易日下跌，此舉可能威脅這場已導致全球市場動盪並推高通脹的戰爭繼續。金價一度下跌1.2%至每盎司4,024美元附近，延續了週三4.4%的跌幅，隨後在震盪交投中收窄跌幅。此前，美國總統唐納德·特朗普指責伊朗拖延臨時和平協議的談判，美軍隨後向伊朗境內的“多個”目標發射了導彈。德黑蘭方面則以關閉霍爾木茲海峽、禁止所有船隻通行作為回應。
-
----
-
-### 2026-06-11 08:31:16  #其他
-
-巴林內政部：巴林響起警報。
-
----
-
-### 2026-06-11 08:30:59  #MKT News
-
-Bahrain Interior Ministry says an alarm has been sounded; citizens and residents urged to remain calm and move to the nearest safe location.
-
----
-
-### 2026-06-11 08:30:35  #國際
-
-【伊朗多地再傳出爆炸聲】據伊朗國家電視臺報道，當地時間今天（6月11日）凌晨3點50分（北京時間早上8點20分）左右，據當地居民反饋，伊朗北部厄爾布林士省的西部地區傳出爆炸聲。目前尚不清楚爆炸來源。幾乎同一時間，伊朗南部霍爾木茲甘省的錫裡克地區再次傳出爆炸聲。
-
----
-
-### 2026-06-11 08:30:20  #MKT News
-
-【Explosions reported in two locations in Iran】Iranian media reported on the 11th that explosions were heard a few minutes earlier in western Alborz province and the Sirik area.
-
----
-
-### 2026-06-11 08:29:36  #觀點
-
-【東吳證券：預計2026年全球鋰電需求35%左右增長 看好銅箔板塊量利雙升】東吳證券研報指出，預計2026年全球鋰電需求35%左右增長，27年25%+增長，對應全球鋰電銅箔需求分別為163/197萬噸。供給端，鋰電銅箔加工費下行週期持續4年，廠商擴產意願低，26年全球鋰電銅箔有效產能175萬噸僅新增21萬噸，27年198萬噸新增23萬噸，產能利用率26年為93%，27年提升至100%，供需格局持續收緊。盈利端，年初以來二線客戶加工費已上調1500-2000元/噸，單噸利潤達到2-3k元，考慮1萬噸capex投資4-5億，廠商目標合理單噸利潤8k，仍在與下游持續議價，預計27年單噸利潤有望提升至6-8k。看好銅箔板塊量利雙升，建議增持銅箔板塊。
-
----
-
-### 2026-06-11 08:29:19  #公司
-
-【怡亞通：在MLCC和超級電容領域還沒有相關業務佈局】怡亞通(002183)6月11日在互動平臺回覆稱，目前公司在MLCC和超級電容領域還沒有相關的業務佈局。
-
----
-
-### 2026-06-11 08:28:38  #公司
-
-【格林美：與寧波東方理工大學簽署合作協議，共建固態鋰電正極材料聯合實驗室】格林美6月10日在投資者接待日上活動中表示，公司與寧波東方理工大學簽署合作協議，透過共建固態鋰電正極材料聯合實驗室，依託寧波東方理工大學以孫學良院士為核心的創新團隊、前沿技術研究實驗室與公司的工程技術人才產業化創新技術團隊、產業化技術創新平臺，形成院士—教授—工程師三級人才體系以及高校基礎創新—企業中試技術平臺—產業化創新三級創新平臺，聚焦固態電池全鏈條關鍵技術原始創新與產業化落地，快速攻克固態電池用正極材料、電極介面改性、固態模具電池組裝及固態電池迴圈再生等關鍵技術瓶頸，構建從基礎研究、中試開發到量產落地的全鏈條創新架構，建立全球一流固態電池正極材料—固態電池介面改性—固態電池迴圈再生的全產業鏈的關鍵技術。
-
----
-
-### 2026-06-11 08:28:14  #公司 #市場 #國際
-
-【韓國Kospi指數一度跌逾4% 晶片股承壓及美國第二天打擊伊朗】投資人擔心AI榮景的穩定性以及伊朗戰爭的影響，晶片股跌幅擴大，拖累韓國Kospi指數一度下跌4.4%，跌至5月20日以來的最低水平。三星電子、SK海力士和SK Square是拖累該指數的最大因素。韓國Kospi指數連續第二天下跌，延續了本週的劇烈波動。韓國小盤股Kosdaq指數一度下跌3.2%。週四早盤，韓國股市表現遜於亞太地區其他地區，MSCI亞太指數一度下跌1.4%。截止發稿，Kospi指數縮窄跌幅至2.2%。
-
----
-
-### 2026-06-11 08:27:39  #MKT News
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) public relations unit said on the 11th that, in two waves of operations, it "hit and destroyed" 18 key U.S. military targets in the Middle East.
-
----
-
-### 2026-06-11 08:27:25  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.85噸】截至2026年06月10日，全球最大的黃金ETF SPDR Gold Trust持倉量為1013.64噸，較前一個交易日減少2.85噸。
-
----
-
-### 2026-06-11 08:26:04  #MKT News #Market Regions #Emerging Markets
-
-South Korea's KOSPI pared losses to 2%.
-
----
-
-### 2026-06-11 08:25:59  #國際
-
-伊朗軍隊表示，無人機襲擊針對巴林的美國第五艦隊，包括其描述的與愛國者防空系統相連的通訊天線和雷達設施。 報告稱，這次行動是在美國違反停火協議並對伊朗南部進行打擊後實施的。它還補充說，伊朗部隊在襲擊中使用了“各種爆炸無人機”。 宣告表示，武裝部隊與其他軍種一起保持充分準備，並將繼續行動，直到“侵略者受到懲罰”。
-
----
-
-### 2026-06-11 08:25:06  #國際
-
-【伊朗打擊18個美軍重要目標】伊朗伊斯蘭革命衛隊航空航天部隊當地時間今天（6月11日）凌晨3點45分（北京時間早上8點15分）發表宣告稱，為懲罰侵略者，並回應美軍對革命衛隊部分勤務部隊、沿海哨所、警察中心和阿巴斯港機場的襲擊，在兩波行動中，革命衛隊航空航天部隊及海軍對美國位於科威特的阿里·薩利姆空軍基地、艾哈邁德·賈比爾空軍基地和位於巴林的謝赫·伊薩空軍基地的18個美軍重要目標進行了打擊。
-
----
-
-### 2026-06-11 08:24:55  #國際
-
-【伊朗稱打擊位於伊拉克的美軍基地】據伊朗光明通訊社11日報道，伊朗對伊拉克北部哈里爾美軍基地發動導彈襲擊，並摧毀了位於伊拉克庫爾德自治區的美軍雷達。 (新華社)
-
----
-
-### 2026-06-11 08:24:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran says it struck US base in northern Iraq】A state news agency reported on 11 that Iran launched a missile strike on the US base at Harir in northern Iraq and destroyed a US radar in the Iraqi Kurdistan region.
-
----
-
-### 2026-06-11 08:24:41  #公司
-
-【豫能控股：公司目前沒有綠電直供資料中心相關業務】豫能控股(001896)6月11日在互動平臺回覆稱，公司目前沒有綠電直供資料中心相關業務。
-
----
-
-### 2026-06-11 08:24:36  #公司
-
-【北斗星通：公司沒有佈局玻璃基板業務】北斗星通(002151)6月11日在互動平臺回覆稱，公司沒有佈局玻璃基板業務，也沒有規劃佈局此類業務。
-
----
-
-### 2026-06-11 08:24:27  #國際
-
-【特朗普：若無法達成協議將“轟炸伊朗至廢墟” 萬斯稱美國正與溫和派和強硬派談判】據報道，特朗普表示，如果伊朗拒絕達成協議，“我們將在明晚（東部時間11日）轟炸他們至廢墟”，並稱停火協議是“歷史上被破壞得最嚴重的”。美國副總統萬斯表示，美國在談判中正與伊朗內部的溫和派和強硬派接觸。特朗普還表示他已直接與伊朗官員通話；伊朗否認有任何此類通話。
-
----
-
-### 2026-06-11 08:22:18  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Iran's Islamic Revolutionary Guard Corps says it has struck 18 significant U.S. military targets.
-
----
-
-### 2026-06-11 08:21:48  #公司 #市場 #國際
-
-日本能源股隨原油價格上漲而走高，國際石油開發帝石股價上漲3.7%，日本石油勘探公司股價上漲2.9%。
-
----
-
-### 2026-06-11 08:21:34  #MKT News
-
-Euro STOXX 50 futures were down 0.9%, DAX futures down 0.8% and UK FTSE futures down 0.9%.
-
----
-
-### 2026-06-11 08:21:18  #市場 #國際
-
-歐洲斯托克50指數期貨下跌0.9%，德國DAX指數期貨下滑0.8%，英國富時指數期貨走低0.9%。
-
----
-
-### 2026-06-11 08:21:09  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iranian media says drones struck US Fifth Fleet Patriot system in Bahrain】Iranian media reported on the 11th that Iran used drones to attack the US Fifth Fleet in Bahrain, saying the action was in retaliation for US strikes on southern Iran. Reports said the communications antenna and radar facilities of the Fifth Fleet’s Patriot missile system were targeted.
-
----
-
-### 2026-06-11 08:21:04  #Trading Economics #Markets #Japan #stocks #Importance 1
-
-Hitachi Stock Price Hits 10-week Low — Hitachi shares decreased to 4639.00 JPY, the lowest since March 2026. Over the past 4 weeks, Hitachi lost 2.11%, and in the last 12 months, it increased 15.95%.
-
----
-
-### 2026-06-11 08:20:45  #國際
-
-【特朗普：我們的攻擊很猛烈 伊朗捱打不知所以】據福克斯新聞報道，特朗普稱，美軍今晚的打擊“猛烈而兇狠”，伊朗根本不知道是什麼襲擊了他們，以色列沒有參與今晚的打擊行動，但確實與以方進行了簡短通話。
-
----
-
-### 2026-06-11 08:20:42  #市場 #國際
-
-30年期日本國債收益率上升1.5個基點，至3.865%。
-
----
-
-### 2026-06-11 08:20:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Trump: U.S. strike 'fierce'; Iran 'didn't know what hit them'】Fox News reported Trump said the US military's strike tonight was "fierce and brutal" and that Iran "didn't know what hit them." He said Israel did not participate in the strike but had a brief call with Israeli officials.
-
----
-
-### 2026-06-11 08:20:15  #宏觀
-
-【中辦、國辦印發《全國檔案事業發展“十五五”規劃》】近日，中共中央辦公廳、國務院辦公廳印發《全國檔案事業發展“十五五”規劃》。主要目標是：到2030年，檔案工作數字轉型取得新突破，檔案治理效能更加彰顯，檔案資源更加豐富，檔案利用服務更加高效，檔案安全基礎更加鞏固，檔案教育科技人才支撐更加有力。
-
----
-
-### 2026-06-11 08:19:39  #市場 #央行 #國際
-
-【金價在通脹擔憂和利率預期之際下跌】金價在亞洲早盤交易中下跌。XS.com的Antonio Di Giacomo在一封電子郵件中表示，儘管美國5月份消費者價格漲幅符合預期，但投資者仍對持續的中東衝突導致能源價格大幅上漲所帶來的通脹效應感到擔憂。該分析師表示，目前很大一部分市場人士認為，美聯儲下一次加息可能會在年底前進行，這可能正在拖累貴金屬的價格。現貨黃金下跌0.3%，至每盎司4,057.60美元。
-
----
-
-### 2026-06-11 08:19:09  #公司 #市場 #國際
-
-【日經指數下跌2.7%，受科技和機械股拖累】日本股市走低，受對伊朗衝突的再度擔憂和能源成本上升拖累。科技股和機械股領跌。軟銀集團下跌6.7%，石川島播磨重工業下跌7.4%。在美國對伊朗發動新一輪攻擊後，投資者正密切關注中東局勢的發展。日經指數下跌2.7%，至62472.10點。
-
----
-
-### 2026-06-11 08:18:36  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-【Trump: will "bomb Iran to rubble" if no deal; Vance says US negotiating with moderates and hardliners; Iran denies call】Fox News reported Trump said if Iran refuses an agreement "we'll bomb them to rubble tomorrow night (EDT on the 11th)", calling the ceasefire "the most violated in history." Vice President Vance said the US is engaging both moderates and hardliners inside Iran during negotiations. Trump also said he had spoken directly with Iranian officials; Iran denied any such call.
 
 ---

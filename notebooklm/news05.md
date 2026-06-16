@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-17 04:35:52_
-_本檔包含 3751 則快訊，約 672041 字_
+_更新時間：2026-06-17 05:34:56_
+_本檔包含 3738 則快訊，約 672316 字_
+
+---
+
+### 2026-06-11 08:37:15  #其他
+
+【柬埔寨安徽商會會長劉忍被押解回國】據柬埔寨《柬中時報》報道，日前被柬埔寨警方逮捕的柬埔寨安徽商會會長劉忍，6月10日已由柬方移交中國警方，並被押解返回中國。
+
+---
+
+### 2026-06-11 08:35:17  #公司 #國際
+
+【雷諾集團CEO：伊朗戰爭爆發以來歐洲電動車訂單激增】雷諾集團執行長Francois Provost週三接受媒體訪談表示，自伊朗戰爭爆發以來，雷諾電動汽車在法國和德國等市場的訂單量已增長50%。Provost表示，雷諾在電池供應方面沒有問題，但正努力滿足對電動汽車的需求，公司已成立特別工作小組應對這個問題。他在布魯塞爾舉行的汽車新聞大會(Automotive News Congress)間隙表示：“由於伊朗戰爭，我們目前的訂單量已超出（供應商的）產能。”Provost指出，雷諾也考慮在今年下半年增加在法國杜埃（Douai）與莫伯日（Maubeuge），以及斯洛維尼亞新梅斯托（Novo Mesto）電動車廠的生產班次。伊朗戰爭引發燃油價格高企，歐洲電動車需求激增，消費者對新車和二手車的興趣同步增加。今年前四個月，歐洲純電動車銷量大增29%，達到近100萬輛。Provost表示，一旦伊朗戰爭結束、燃料價格回落，市場對電動車的高度興趣將會下降，但朝電動車轉型的步伐仍將持續加快。
+
+---
+
+### 2026-06-11 08:34:09  #MKT News
+
+IRNA reports explosions heard in Karaj, Iran.
+
+---
+
+### 2026-06-11 08:33:58  #國際
+
+據伊朗伊斯蘭共和國通訊社（IRNA）：伊朗卡拉季傳出爆炸聲。
+
+---
+
+### 2026-06-11 08:33:45  #市場 #觀點 #國際
+
+在美國對伊朗發動新一輪襲擊後，金價連續第三個交易日下跌。金價較2月底伊朗戰爭爆發前的水平低約23%。摩根大通諮詢顧問、前貴金屬交易員Robert Gottlieb發文稱：“接踵而至的矛盾訊息頭條正加劇市場不確定性，促使投資者在各類資產中降低風險敞口並提高流動性。”他寫道，此輪最新跌勢“更多是出於去槓桿和投資組合再平衡，而非對黃金作為避險資產的基本面重新評估”。
+
+---
+
+### 2026-06-11 08:33:37  #其他
+
+【暑期出行預訂火熱 機構預測7股營收高增長】日前，多個旅遊平臺釋出2026年暑期出遊趨勢報告。總體來看，暑期旅遊產品預訂已進入高峰期，出遊人次顯著增長，旅遊產品供給更為豐富多元。據證券時報·資料寶統計，A股中佈局旅遊、酒店板塊的個股共有35只。暑期出遊高峰即將到來，部分個股獲機構密集關注。統計顯示，有21股獲得機構評級，其中14股評級機構數量在5家及以上，錦江酒店、首旅酒店、宋城演藝數量居前，分別為25家、24家、17家。上述5家及以上機構評級的個股中，有7股獲機構一致預測2026年營收增幅在10%以上，三峽旅遊、君亭酒店、長白山居前，分別為30.3%、19.36%、14.06%。
+
+---
+
+### 2026-06-11 08:31:49  #市場 #國際
+
+【金價連跌三日 此前美國對伊朗實施新一輪打擊】在美國對伊朗發動新一輪襲擊後，金價連續第三個交易日下跌，此舉可能威脅這場已導致全球市場動盪並推高通脹的戰爭繼續。金價一度下跌1.2%至每盎司4,024美元附近，延續了週三4.4%的跌幅，隨後在震盪交投中收窄跌幅。此前，美國總統唐納德·特朗普指責伊朗拖延臨時和平協議的談判，美軍隨後向伊朗境內的“多個”目標發射了導彈。德黑蘭方面則以關閉霍爾木茲海峽、禁止所有船隻通行作為回應。
+
+---
+
+### 2026-06-11 08:31:16  #其他
+
+巴林內政部：巴林響起警報。
+
+---
+
+### 2026-06-11 08:30:59  #MKT News
+
+Bahrain Interior Ministry says an alarm has been sounded; citizens and residents urged to remain calm and move to the nearest safe location.
+
+---
+
+### 2026-06-11 08:30:35  #國際
+
+【伊朗多地再傳出爆炸聲】據伊朗國家電視臺報道，當地時間今天（6月11日）凌晨3點50分（北京時間早上8點20分）左右，據當地居民反饋，伊朗北部厄爾布林士省的西部地區傳出爆炸聲。目前尚不清楚爆炸來源。幾乎同一時間，伊朗南部霍爾木茲甘省的錫裡克地區再次傳出爆炸聲。
+
+---
+
+### 2026-06-11 08:30:20  #MKT News
+
+【Explosions reported in two locations in Iran】Iranian media reported on the 11th that explosions were heard a few minutes earlier in western Alborz province and the Sirik area.
+
+---
+
+### 2026-06-11 08:29:36  #觀點
+
+【東吳證券：預計2026年全球鋰電需求35%左右增長 看好銅箔板塊量利雙升】東吳證券研報指出，預計2026年全球鋰電需求35%左右增長，27年25%+增長，對應全球鋰電銅箔需求分別為163/197萬噸。供給端，鋰電銅箔加工費下行週期持續4年，廠商擴產意願低，26年全球鋰電銅箔有效產能175萬噸僅新增21萬噸，27年198萬噸新增23萬噸，產能利用率26年為93%，27年提升至100%，供需格局持續收緊。盈利端，年初以來二線客戶加工費已上調1500-2000元/噸，單噸利潤達到2-3k元，考慮1萬噸capex投資4-5億，廠商目標合理單噸利潤8k，仍在與下游持續議價，預計27年單噸利潤有望提升至6-8k。看好銅箔板塊量利雙升，建議增持銅箔板塊。
+
+---
+
+### 2026-06-11 08:29:19  #公司
+
+【怡亞通：在MLCC和超級電容領域還沒有相關業務佈局】怡亞通(002183)6月11日在互動平臺回覆稱，目前公司在MLCC和超級電容領域還沒有相關的業務佈局。
+
+---
+
+### 2026-06-11 08:28:38  #公司
+
+【格林美：與寧波東方理工大學簽署合作協議，共建固態鋰電正極材料聯合實驗室】格林美6月10日在投資者接待日上活動中表示，公司與寧波東方理工大學簽署合作協議，透過共建固態鋰電正極材料聯合實驗室，依託寧波東方理工大學以孫學良院士為核心的創新團隊、前沿技術研究實驗室與公司的工程技術人才產業化創新技術團隊、產業化技術創新平臺，形成院士—教授—工程師三級人才體系以及高校基礎創新—企業中試技術平臺—產業化創新三級創新平臺，聚焦固態電池全鏈條關鍵技術原始創新與產業化落地，快速攻克固態電池用正極材料、電極介面改性、固態模具電池組裝及固態電池迴圈再生等關鍵技術瓶頸，構建從基礎研究、中試開發到量產落地的全鏈條創新架構，建立全球一流固態電池正極材料—固態電池介面改性—固態電池迴圈再生的全產業鏈的關鍵技術。
+
+---
+
+### 2026-06-11 08:28:14  #公司 #市場 #國際
+
+【韓國Kospi指數一度跌逾4% 晶片股承壓及美國第二天打擊伊朗】投資人擔心AI榮景的穩定性以及伊朗戰爭的影響，晶片股跌幅擴大，拖累韓國Kospi指數一度下跌4.4%，跌至5月20日以來的最低水平。三星電子、SK海力士和SK Square是拖累該指數的最大因素。韓國Kospi指數連續第二天下跌，延續了本週的劇烈波動。韓國小盤股Kosdaq指數一度下跌3.2%。週四早盤，韓國股市表現遜於亞太地區其他地區，MSCI亞太指數一度下跌1.4%。截止發稿，Kospi指數縮窄跌幅至2.2%。
+
+---
+
+### 2026-06-11 08:27:39  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) public relations unit said on the 11th that, in two waves of operations, it "hit and destroyed" 18 key U.S. military targets in the Middle East.
+
+---
+
+### 2026-06-11 08:27:25  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.85噸】截至2026年06月10日，全球最大的黃金ETF SPDR Gold Trust持倉量為1013.64噸，較前一個交易日減少2.85噸。
+
+---
+
+### 2026-06-11 08:26:04  #MKT News #Market Regions #Emerging Markets
+
+South Korea's KOSPI pared losses to 2%.
+
+---
+
+### 2026-06-11 08:25:59  #國際
+
+伊朗軍隊表示，無人機襲擊針對巴林的美國第五艦隊，包括其描述的與愛國者防空系統相連的通訊天線和雷達設施。 報告稱，這次行動是在美國違反停火協議並對伊朗南部進行打擊後實施的。它還補充說，伊朗部隊在襲擊中使用了“各種爆炸無人機”。 宣告表示，武裝部隊與其他軍種一起保持充分準備，並將繼續行動，直到“侵略者受到懲罰”。
+
+---
+
+### 2026-06-11 08:25:06  #國際
+
+【伊朗打擊18個美軍重要目標】伊朗伊斯蘭革命衛隊航空航天部隊當地時間今天（6月11日）凌晨3點45分（北京時間早上8點15分）發表宣告稱，為懲罰侵略者，並回應美軍對革命衛隊部分勤務部隊、沿海哨所、警察中心和阿巴斯港機場的襲擊，在兩波行動中，革命衛隊航空航天部隊及海軍對美國位於科威特的阿里·薩利姆空軍基地、艾哈邁德·賈比爾空軍基地和位於巴林的謝赫·伊薩空軍基地的18個美軍重要目標進行了打擊。
+
+---
+
+### 2026-06-11 08:24:55  #國際
+
+【伊朗稱打擊位於伊拉克的美軍基地】據伊朗光明通訊社11日報道，伊朗對伊拉克北部哈里爾美軍基地發動導彈襲擊，並摧毀了位於伊拉克庫爾德自治區的美軍雷達。 (新華社)
+
+---
+
+### 2026-06-11 08:24:45  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Iran says it struck US base in northern Iraq】A state news agency reported on 11 that Iran launched a missile strike on the US base at Harir in northern Iraq and destroyed a US radar in the Iraqi Kurdistan region.
+
+---
+
+### 2026-06-11 08:24:41  #公司
+
+【豫能控股：公司目前沒有綠電直供資料中心相關業務】豫能控股(001896)6月11日在互動平臺回覆稱，公司目前沒有綠電直供資料中心相關業務。
+
+---
+
+### 2026-06-11 08:24:36  #公司
+
+【北斗星通：公司沒有佈局玻璃基板業務】北斗星通(002151)6月11日在互動平臺回覆稱，公司沒有佈局玻璃基板業務，也沒有規劃佈局此類業務。
+
+---
+
+### 2026-06-11 08:24:27  #國際
+
+【特朗普：若無法達成協議將“轟炸伊朗至廢墟” 萬斯稱美國正與溫和派和強硬派談判】據報道，特朗普表示，如果伊朗拒絕達成協議，“我們將在明晚（東部時間11日）轟炸他們至廢墟”，並稱停火協議是“歷史上被破壞得最嚴重的”。美國副總統萬斯表示，美國在談判中正與伊朗內部的溫和派和強硬派接觸。特朗普還表示他已直接與伊朗官員通話；伊朗否認有任何此類通話。
+
+---
+
+### 2026-06-11 08:22:18  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Iran's Islamic Revolutionary Guard Corps says it has struck 18 significant U.S. military targets.
+
+---
+
+### 2026-06-11 08:21:48  #公司 #市場 #國際
+
+日本能源股隨原油價格上漲而走高，國際石油開發帝石股價上漲3.7%，日本石油勘探公司股價上漲2.9%。
+
+---
+
+### 2026-06-11 08:21:34  #MKT News
+
+Euro STOXX 50 futures were down 0.9%, DAX futures down 0.8% and UK FTSE futures down 0.9%.
+
+---
+
+### 2026-06-11 08:21:18  #市場 #國際
+
+歐洲斯托克50指數期貨下跌0.9%，德國DAX指數期貨下滑0.8%，英國富時指數期貨走低0.9%。
+
+---
+
+### 2026-06-11 08:21:09  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Iranian media says drones struck US Fifth Fleet Patriot system in Bahrain】Iranian media reported on the 11th that Iran used drones to attack the US Fifth Fleet in Bahrain, saying the action was in retaliation for US strikes on southern Iran. Reports said the communications antenna and radar facilities of the Fifth Fleet’s Patriot missile system were targeted.
+
+---
+
+### 2026-06-11 08:21:04  #Trading Economics #Markets #Japan #stocks #Importance 1
+
+Hitachi Stock Price Hits 10-week Low — Hitachi shares decreased to 4639.00 JPY, the lowest since March 2026. Over the past 4 weeks, Hitachi lost 2.11%, and in the last 12 months, it increased 15.95%.
+
+---
+
+### 2026-06-11 08:20:45  #國際
+
+【特朗普：我們的攻擊很猛烈 伊朗捱打不知所以】據福克斯新聞報道，特朗普稱，美軍今晚的打擊“猛烈而兇狠”，伊朗根本不知道是什麼襲擊了他們，以色列沒有參與今晚的打擊行動，但確實與以方進行了簡短通話。
+
+---
+
+### 2026-06-11 08:20:42  #市場 #國際
+
+30年期日本國債收益率上升1.5個基點，至3.865%。
+
+---
+
+### 2026-06-11 08:20:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Trump: U.S. strike 'fierce'; Iran 'didn't know what hit them'】Fox News reported Trump said the US military's strike tonight was "fierce and brutal" and that Iran "didn't know what hit them." He said Israel did not participate in the strike but had a brief call with Israeli officials.
+
+---
+
+### 2026-06-11 08:20:15  #宏觀
+
+【中辦、國辦印發《全國檔案事業發展“十五五”規劃》】近日，中共中央辦公廳、國務院辦公廳印發《全國檔案事業發展“十五五”規劃》。主要目標是：到2030年，檔案工作數字轉型取得新突破，檔案治理效能更加彰顯，檔案資源更加豐富，檔案利用服務更加高效，檔案安全基礎更加鞏固，檔案教育科技人才支撐更加有力。
+
+---
+
+### 2026-06-11 08:19:39  #市場 #央行 #國際
+
+【金價在通脹擔憂和利率預期之際下跌】金價在亞洲早盤交易中下跌。XS.com的Antonio Di Giacomo在一封電子郵件中表示，儘管美國5月份消費者價格漲幅符合預期，但投資者仍對持續的中東衝突導致能源價格大幅上漲所帶來的通脹效應感到擔憂。該分析師表示，目前很大一部分市場人士認為，美聯儲下一次加息可能會在年底前進行，這可能正在拖累貴金屬的價格。現貨黃金下跌0.3%，至每盎司4,057.60美元。
+
+---
+
+### 2026-06-11 08:19:09  #公司 #市場 #國際
+
+【日經指數下跌2.7%，受科技和機械股拖累】日本股市走低，受對伊朗衝突的再度擔憂和能源成本上升拖累。科技股和機械股領跌。軟銀集團下跌6.7%，石川島播磨重工業下跌7.4%。在美國對伊朗發動新一輪攻擊後，投資者正密切關注中東局勢的發展。日經指數下跌2.7%，至62472.10點。
+
+---
+
+### 2026-06-11 08:18:36  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+【Trump: will "bomb Iran to rubble" if no deal; Vance says US negotiating with moderates and hardliners; Iran denies call】Fox News reported Trump said if Iran refuses an agreement "we'll bomb them to rubble tomorrow night (EDT on the 11th)", calling the ceasefire "the most violated in history." Vice President Vance said the US is engaging both moderates and hardliners inside Iran during negotiations. Trump also said he had spoken directly with Iranian officials; Iran denied any such call.
 
 ---
 
@@ -22344,311 +22572,5 @@ Iranian state media reports an attack on Qeshm Island.
 ### 2026-06-10 05:36:05  #焦點 #國際
 
 伊朗國家媒體稱格什姆島遭到襲擊。
-
----
-
-### 2026-06-10 05:33:46  #公司 #國際
-
-美國聯邦存款保險公司主席特拉維斯·希爾：要求銀行審查人員重點關注重大金融風險。
-
----
-
-### 2026-06-10 05:32:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran state media confirmed a missile strike on the Sirik region.
-
----
-
-### 2026-06-10 05:32:23  #其他
-
-澳航推出境內經濟艙票價：190餘條航線、近60個航點的單程票價低至105澳元。
-
----
-
-### 2026-06-10 05:32:10  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #WTI #DXY
-
-Trump told ABC News that a U.S. response to Iran is important, saying, "They shot down a helicopter and we are responding. This is in response to what they did to our helicopter last night, and I believe the response should be very strong, very forceful."
-
----
-
-### 2026-06-10 05:32:03  #國際
-
-伊朗國家媒體稱，錫裡克鎮證實遭一枚炮彈擊中。
-
----
-
-### 2026-06-10 05:31:21  #MKT News
-
-Iranian media outlet Fars News reported explosions were heard in eastern Hormozgan province.
-
----
-
-### 2026-06-10 05:30:55  #公司 #國際
-
-特朗普接受美國廣播公司採訪時表示：美方對伊朗的反擊行動力度十足、攻勢強勁。
-
----
-
-### 2026-06-10 05:30:51  #國際
-
-伊朗法爾斯通訊社稱霍爾木茲甘省東部地區傳出爆炸聲。
-
----
-
-### 2026-06-10 05:30:35  #公司 #國際
-
-特朗普向美國廣播公司表示：美國當下正在對伊朗採取應對行動。
-
----
-
-### 2026-06-10 05:30:01  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-The US retaliatory strike against Iran began about 30 minutes ago, the New York Post reports. A US military statement said the action maintained "proportionality", which may indicate it was not intended to escalate into full-scale war.
-
----
-
-### 2026-06-10 05:29:55  #焦點 #國際
-
-特朗普稱，必須對伊朗擊落美軍直升機一事作出回應。
-
----
-
-### 2026-06-10 05:28:22  #國際
-
-【美副總統稱美伊協議或在一週至數月內達成】美國副總統萬斯表示，美國“非常接近”與伊朗達成一項能夠長期解決伊朗核問題的協議。萬斯表示，協議可能在未來一週內達成，也可能需要數月時間，但“絕對”會在11月中期選舉前取得結果。他稱，美國“希望達成一項既符合美國經濟利益，又能從長期確保伊朗無法獲得核武器的協議”。
-
----
-
-### 2026-06-10 05:28:13  #MKT News #WTI #Impact bearish #Brent #DXY
-
-【Vance says U.S.-Iran deal could be reached within a week to several months】U.S. Vice President Vance said the U.S. is "very close" to a long-term agreement to resolve Iran's nuclear issue. He said the deal could be reached within a week or may take several months, but will "absolutely" be finalised before mid-November elections. Vance said the U.S. seeks an agreement that aligns with U.S. economic interests and ensures Iran cannot obtain nuclear weapons over the long term.
-
----
-
-### 2026-06-10 05:27:10  #MKT News #Star Stocks
-
-A term sheet shows Tencent Holdings (00700.HK) raised $4.66 billion via issuance of US dollar and offshore renminbi bonds.
-
----
-
-### 2026-06-10 05:26:04  #市場
-
-富時中國A50指數期貨收跌0.41%。
-
----
-
-### 2026-06-10 05:24:52  #MKT News
-
-U.S. House passes $70 billion bill to fund immigration enforcement.
-
----
-
-### 2026-06-10 05:24:39  #國際
-
-美國眾議院透過了一項總額700億美元的移民執法撥款法案。
-
----
-
-### 2026-06-10 05:22:36  #國際
-
-【美軍開始對伊朗發動報復性打擊】當地時間6月9日，美國中央司令部表示，在總統特朗普指示下，美軍於美國東部時間17時開始對伊朗發動自衛性打擊，以回應前一天美軍“阿帕奇”直升機被擊落事件。美國中央司令部稱，此次行動是對伊朗“無端侵略行為”的回應。（央視新聞）
-
----
-
-### 2026-06-10 05:21:34  #國際
-
-【伊朗南部錫裡克市發生爆炸】據當地居民反饋，當地時間10日凌晨，伊朗南部港口城市錫裡克市發生爆炸。目前伊朗官方暫未就爆炸發表評論。（央視新聞）
-
----
-
-### 2026-06-10 05:18:43  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-CENTCOM said its forces launched a defensive strike against Iran at 5:00 p.m. ET today in response to the downing of a U.S. Army Apache helicopter yesterday, describing the operation as a proportionate response to unprovoked Iranian aggression.
-
----
-
-### 2026-06-10 05:18:35  #焦點 #國際
-
-美國中央司令部：應總統指令，美國中央司令部部隊於美國東部時間今日下午5時，針對伊朗發起自衛打擊，以此回應昨日美軍阿帕奇直升機遭擊落事件。此次行動是針對伊朗無端挑釁採取的對等反擊。
-
----
-
-### 2026-06-10 05:17:37  #市場 #焦點
-
-超微電腦盤後股價跌10%。
-
----
-
-### 2026-06-10 05:15:56  #MKT News #Important
-
-Iranian media, citing local residents, reported explosions in the Sirik area; cause unknown.
-
----
-
-### 2026-06-10 05:14:47  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
-
-US Oil Stockpiles Fall More Than Expected — US crude oil inventories fell by 9.1 million barrels in the week ended June 5, far exceeding forecasts for a 3.4 million-barrel draw, after declining by 6.7 million barrels in the previous week. Despite a cumulative decline of roughly 44 million barrels over the past eight weeks, crude inventories remain nearly 7 million barrels above year-end levels. The Strategic Petroleum Reserve also continued to shrink, with another 7.9 million barrels withdrawn during the week. Inventories at Cushing, Oklahoma, fell by 1.125 million barrels, following a 279,000-barrel decline a week earlier. US crude production eased to 13.707 million barrels per day from 13.715 million. Gasoline inventories declined by 1.191 million barrels after a 3.45 million-barrel increase in the prior week, while distillate stocks rose by 1.3 million barrels after falling 214,000 barrels previously.
-
----
-
-### 2026-06-10 05:14:45  #國際
-
-伊朗邁赫爾通訊社援引當地居民訊息稱，錫裡克地區聽到爆炸聲，爆炸原因尚不明確。
-
----
-
-### 2026-06-10 05:13:20  #其他
-
-超微電腦宣佈擬進行70億美元股權及股權掛鉤融資交易，為人工智慧訂單提供資金。
-
----
-
-### 2026-06-10 05:07:02  #國際
-
-【伊朗外長敦促地區外國軍隊撤離】伊朗外長阿拉格齊當地時間6月9日晚在社交媒體平臺發文指出，“靠近我國領土的外國軍隊時刻面臨著因自身人為失誤、純粹意外或可能被捲入交火而產生的風險。為降低風險，最佳方案就是撤離。我們更傾向於使用外交辭令，但也懂得其他‘語言’。
-
----
-
-### 2026-06-10 05:06:00  #MKT News
-
-DRC reported confirmed Ebola cases rose to 598, including 115 deaths.
-
----
-
-### 2026-06-10 05:04:29  #MKT News
-
-Israel Defense Forces said it detected projectiles launched from Lebanon toward multiple settlements in northern Israel; the IDF Home Front Command issued precautionary orders and authorities instructed residents to enter shelters or safe rooms when alarms sound.
-
----
-
-### 2026-06-10 05:04:24  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Lebanese state media reported Israeli airstrikes on the Lebanese towns of Touline, Srifa and Kafra.
-
----
-
-### 2026-06-10 05:03:28  #公司 #資料 #市場 #觀點 #其他
-
-【6月10日美股成交額前20：Nuvalent獲GSK收購，股價飆升逾39%】週二美股成交額第17名Nuvalent收高39.28%，股價創歷史新高，成交63.54億美元。訊息面上，葛蘭素史克宣佈同意以106億美元的價值收購Nuvalent。宣告指，GSK將以每股124美元現金收購Nuvalent，較後者週一（8日）收市價溢價40%。交易尚待監管部門批准，預計將於第三季度完成。Nuvalant專為腫瘤患者（包括肺癌）設計小分子及精準靶向療法。
-
----
-
-### 2026-06-10 05:01:55  #其他
-
-通用汽車風投部門擬收購初創企業皮克能源股權，聯合研發儲能電池。
-
----
-
-### 2026-06-10 05:01:31  #其他
-
-剛果方面表示，埃博拉確診病例數已升至598例，其中死亡病例115例。
-
----
-
-### 2026-06-10 05:00:48  #國際
-
-美國國防部發布宣告，防長赫格塞思將出行考察。赫格塞思明日啟程，前往關塔那摩基地及中央司令部慰問駐軍。
-
----
-
-### 2026-06-10 04:59:29  #國際
-
-以色列國防軍：針對黎巴嫩向以色列北部發動襲擊一事下達作戰指令。
-
----
-
-### 2026-06-10 04:57:03  #國際
-
-黎巴嫩官方媒體報道，以色列空襲了黎巴嫩的圖林、斯里法、卡夫拉三座城鎮。
-
----
-
-### 2026-06-10 04:54:08  #國際
-
-【伊朗否認24小時內於霍爾木茲動武】當地時間今天（6月10日）凌晨，伊朗國家媒體援引軍方訊息人士報道稱，“過去24小時內伊朗未在霍爾木茲海峽開展任何進攻性空中軍事行動。”報道稱，“如果美方以‘阿帕奇‘直升機墜毀為藉口，重啟敵對行動，伊朗將予以決定性回應。”美國總統特朗普稍早前在社交媒體平臺發帖稱，美軍一架“阿帕奇”直升機“被伊朗擊落”。特朗普稱，儘管機上2人安全獲救，但美軍“必將對此作出回應”。（CCTV國際時訊）
-
----
-
-### 2026-06-10 04:46:45  #其他
-
-馬斯克旗下xAI與SpaceX因資料中心引發擾民問題，遭到集體訴訟。
-
----
-
-### 2026-06-10 04:44:53  #MKT News
-
-White House AI policy advisor Thomas Lind is set to depart imminently, market sources said.
-
----
-
-### 2026-06-10 04:42:05  #MKT News #Important
-
-【Iran says no offensive air operations in Strait of Hormuz in past 24 hours】Iranian state media, citing a military source, said Tehran conducted no offensive air operations in the Strait of Hormuz in the past 24 hours. The source warned Iran would respond firmly if the United States used a military helicopter crash as a pretext to provoke further action.
-
----
-
-### 2026-06-10 04:40:34  #MKT News #WTI #Impact bullish #Brent
-
-API reported US crude inventories fell 9.119 mln barrels in the week to June 5, the largest weekly draw since the week of Jan. 30, 2026.
-
----
-
-### 2026-06-10 04:40:31  #國際
-
-伊朗警告：若美方以阿帕奇直升機墜落為藉口重啟敵對行動，伊方將予以堅決回擊。
-
----
-
-### 2026-06-10 04:36:57  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-US API weekly crude oil imports for the week ended June 5: 358,000 barrels, down from 543,000 barrels the prior week.
-
----
-
-### 2026-06-10 04:36:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-API: U.S. refinery crude runs rose 262,000 b/d in the week to June 5, prior increase 185,000 b/d.
-
----
-
-### 2026-06-10 04:36:48  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (Jun.5) | actual -358000M | previous 543000M
-
----
-
-### 2026-06-10 04:36:36  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (Jun.5) | actual 262000M | previous 185000M
-
----
-
-### 2026-06-10 04:36:33  #焦點 #國際
-
-伊朗官方媒體援引軍方訊息人士稱，過去24小時內霍爾木茲海峽未進行任何進攻性空中軍事行動。
-
----
-
-### 2026-06-10 04:36:31  #MKT News #WTI #Impact bullish #Brent
-
-US API product imports for week to June 5: -51,000 b/d; prior 334,000 b/d.
-
----
-
-### 2026-06-10 04:36:22  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Jun.5) | actual -51000M | previous 334000M
-
----
-
-### 2026-06-10 04:36:05  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US heating oil inventories (API) week to Jun 5: -407,000 barrels; prior +498,000 barrels.
-
----
-
-### 2026-06-10 04:35:56  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Jun.5) | actual -407000M | previous 498000M
 
 ---
