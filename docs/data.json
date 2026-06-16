@@ -1,7 +1,181 @@
 {
-  "updated": "2026-06-16 15:20:34",
+  "updated": "2026-06-16 15:24:35",
   "count": 18380,
   "items": [
+    {
+      "id": "te:economy:559268",
+      "time": "2026-06-16 15:23:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Steady on Peace Optimism — The yield on India’s 10-year G-Sec hovered around 6.8%, little changed from the previous session as investors balanced optimism over easing geopolitical risks against uncertainty surrounding the preliminary US-Iran peace agreement and fresh debt supply. Market participants also monitored a scheduled sale of INR 216 billion worth of state government bonds. Sentiment remained supported by a sharp drop in crude oil prices after US President Donald Trump announced a memorandum of understanding to end the conflict. Brent crude had fallen nearly 5% in the previous session to its lowest close since March 4, although prices edged higher in Asian trading as investors awaited further details of the agreement. Meanwhile, foreign investors have poured more than $1.75 billion into Indian bonds over the past seven sessions following the Reserve Bank of India's measures to attract dollar inflows, further underpinning demand for government debt."
+    },
+    {
+      "id": "4937999",
+      "time": "2026-06-16 15:23:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長阿拉格齊：我們將在談判的最後階段討論核問題】伊朗外長阿拉格齊：我們將在談判的最後階段討論核問題。宣佈戰爭結束是協議第一階段最重要的事件，此事已於週一上午宣佈。黎巴嫩戰爭的結束是與伊朗戰爭結束的必要條件。 以色列對黎巴嫩的任何襲擊或領土佔領都是對伊美協議的違反。  諒解備忘錄的甲方是美國和以色列，乙方是伊朗和真主黨。"
+    },
+    {
+      "id": "4937998",
+      "time": "2026-06-16 15:22:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長內田真一：ETF拋售速度可能會在某個時候發生變化；中東局勢可能推遲或加快價格展望會議的召開。"
+    },
+    {
+      "id": "mkt:019ecf4f-7bd6-7dd8-b025-c392f671d415",
+      "time": "2026-06-16 15:22:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said the memorandum of understanding names the US and Israel as Party A and Iran and Hezbollah as Party B."
+    },
+    {
+      "id": "mkt:019ecf4e-ff56-7dd8-b025-b8cd65d524c1",
+      "time": "2026-06-16 15:22:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China Central Depository & Clearing Co., Ltd. has launched a public consultation to further lower market-maker settlement service fees, cutting the settlement fee for cash bond trades executed by market-makers via market-making from 80% to 75% of the standard rate."
+    },
+    {
+      "id": "4937997",
+      "time": "2026-06-16 15:22:00",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "中央國債登記結算有限責任公司就進一步降低做市商結算服務費用公開徵求意見，決定將做市商透過做市成交的現券交易結算服務費由8折進一步降低至7.5折。"
+    },
+    {
+      "id": "mkt:019ecf4e-da7d-7dd8-b025-b07e49e662ae",
+      "time": "2026-06-16 15:21:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister Araghchi said any Israeli military attack on Lebanon, or continued occupation, would constitute a violation of the memorandum of understanding."
+    },
+    {
+      "id": "4937996",
+      "time": "2026-06-16 15:21:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報82.31美元/桶。"
+    },
+    {
+      "id": "4937995",
+      "time": "2026-06-16 15:21:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "CIPS高管：人民幣正在全球支付領域發揮更大作用。"
+    },
+    {
+      "id": "4937994",
+      "time": "2026-06-16 15:21:37",
+      "tags": [
+        "央行",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本央行副行長內田真一：目前不考慮改變ETF購買的節奏，也不考慮改變ETF減持步伐。"
+    },
+    {
+      "id": "mkt:019ecf4e-969c-7dd8-b025-a8b8b281d367",
+      "time": "2026-06-16 15:21:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bank of Japan Deputy Governor Uchida said the central bank is not currently considering changing the pace of ETF purchases or sales."
+    },
+    {
+      "id": "4937993",
+      "time": "2026-06-16 15:21:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "法蘭克福檢察官證實，已針對德國商業銀行與裕信銀行收購風波中可能存在的市場操縱行為展開初步調查。"
+    },
+    {
+      "id": "mkt:019ecf4e-4590-7dd8-b025-a6e25cd7ac0c",
+      "time": "2026-06-16 15:21:13",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Iran's foreign minister Araghchi said the formal activation of the memorandum of understanding will begin on Friday and will immediately end the wars on all fronts, including in Lebanon."
+    },
+    {
+      "id": "te:economy:559266",
+      "time": "2026-06-16 15:20:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Czechia Producer Prices Rise for Second Month — Producer prices in the Czech Republic rose 1.5% year-on-year in May 2026, following a 1% rise in the previous month, though remaining below market expectations of 2.3% rise. This marked the second consecutive month of annual growth after fourteen months of contraction, as prices continued to increase for manufactured products (3.6% vs 3.1% in April), particularly basic metals (3% vs 2.6%). Costs also rose at a faster pace for mining and quarrying (2.3% vs 1.7%), while prices for water supply, sewerage, waste management and remediation services remained steady at 3.9%. Meanwhile, deflation softened for electricity, gas, steam and air conditioning supply (-6% vs -6.4%). On a monthly basis, producer prices fell 0.1%, reversing a 1.4% increase in April and missing market expectations of a 0.6% growth."
+    },
+    {
+      "id": "mkt:019ecf4d-8172-7dd8-b025-98f1e6972f85",
+      "time": "2026-06-16 15:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said ending the war in Lebanon is a necessary condition for ending the war with Iran."
+    },
+    {
+      "id": "4937992",
+      "time": "2026-06-16 15:19:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“信用數智創新發展”總觀摩會在北京召開】6月5日，“信用數智創新發展”總觀摩會在北京召開，北京、上海、江蘇、湖南、廣東等5個省份和濱海新區、蘇州、杭州、寧波、廈門、開封、南陽、廣州、深圳、蘭州、石河子等11個城市圍繞公共信用資料開發利用、“信用+”應用場景、“信用+AI大模型”進行了現場展示。國家發展改革委黨組成員、副主任李春臨同志出席會議並講話。 會議指出，資訊化建設是實現社會信用體系建設高質量發展的技術支撐，各地方把握數字化、網路化、智慧化發展大勢，形成了一批成效突出、值得推廣的信用資訊化建設成果。（發改委）"
+    },
+    {
+      "id": "mkt:019ecf4c-f13c-7dd8-b025-919b434d61c6",
+      "time": "2026-06-16 15:19:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Qatar plans rapid LNG capacity recovery once Strait of Hormuz reopens】QatarEnergy, which operates the country’s LNG facilities, told buyers it plans to rapidly ramp output after safe passage through the Strait of Hormuz is restored, targeting roughly 50% of capacity within one month and about 80% within two months. The remaining capacity — equivalent to two liquefaction trains damaged by Iranian missile strikes in March — will take years to fully restore. The guidance is conditional on resumption of secure shipping through the strait."
+    },
+    {
+      "id": "mkt:019ecf4c-e2f9-7dd8-b025-8dd7380eaab2",
+      "time": "2026-06-16 15:19:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Iranian Foreign Minister Araghchi said declaring an end to the war is the most important event in the agreement’s first phase; the declaration was issued Monday morning."
+    },
     {
       "id": "4937991",
       "time": "2026-06-16 15:19:21",
@@ -38,6 +212,15 @@
         "Nikkei 225"
       ],
       "text": "Bank of Japan Deputy Governor UCHIDA said today's decision factored in the risk that delayed policy adjustment could require substantial rate hikes."
+    },
+    {
+      "id": "em:qqyh_mlc:202606163772991647",
+      "time": "2026-06-16 15:18:45",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【羅素投資：機構普遍預期美聯儲不會再度加息】羅素投資策略師指出，美國經濟韌性充足、用工需求回暖，美聯儲釋放降息訊號的難度顯著加大。機構普遍預期美聯儲不會再度加息。"
     },
     {
       "id": "4937989",
@@ -168955,180 +169138,6 @@
         "市場"
       ],
       "text": "【6月9日滬深兩市漲停分析】創業板指高開高走漲近4%、滬指重回4000點，算力硬體、晶片產業鏈集體反彈。泰和新材、天娛數科均3連板，一圖看懂>>"
-    },
-    {
-      "id": "4925452",
-      "time": "2026-06-09 15:24:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達40億港元。"
-    },
-    {
-      "id": "te:economy:557566",
-      "time": "2026-06-09 15:23:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Austria Trade Deficit Narrows in March — Austria’s trade deficit narrowed to EUR 563.3 billion in March 2026 from a EUR 892 billion deficit in the same month of the previous year. Exports increased 9.5% year-on-year to EUR 18.17 billion. The growth was led by increased sales of machinery and vehicles, processed goods, chemical products and other manufactured goods. Intra-EU and extra-EU exports surged by 8.2% and 2.5%, respectively. In addition, imports increased 7.1% to EUR 18.73 billion, mainly due to stronger purchases of machinery and vehicles and processed goods. Intra-EU imports rose by 5.8%, while imports from non-EU countries increased by 9.7%."
-    },
-    {
-      "id": "4925451",
-      "time": "2026-06-09 15:23:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東方日升：在立陶宛完成18個工商業儲能專案的部署投運】據東方日升訊息，近日，東方日升在立陶宛完成18個工商業儲能專案的部署投運，累計安裝25臺iCon系列工商業儲能液冷一體機, 共計5.56兆瓦時，由東方日升與立陶宛當地合作伙伴聯合實施，應用於光儲充一體化場景，為使用者提供專業的儲能充放電及頻率調節服務。"
-    },
-    {
-      "id": "4925450",
-      "time": "2026-06-09 15:23:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【追覓旗下南京重點產業投資合夥企業擬登出】天眼查經營風險資訊顯示，近日，南京追創重點產業投資合夥企業（有限合夥）新增一則簡易登出公告，公告期自6月9日至6月28日。該合夥企業成立於2025年3月，執行事務合夥人為廈門追創企業管理合夥企業（有限合夥），出資額21.42億人民幣，經營範圍為創業投資、股權投資、以自有資金從事投資活動，由追覓科技（蘇州）有限公司、南京潤科產業投資有限公司、廈門追創企業管理合夥企業（有限合夥）共同出資。"
-    },
-    {
-      "id": "4925449",
-      "time": "2026-06-09 15:23:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：印度研究收購俄羅斯焦煤資產與進口鎳的可能性】據印度訊息人士透露，印度國有鋼鐵管理局和NMDC公司正在研究收購俄羅斯焦煤資產的可能性。印度正尋求確保關鍵原材料的供應安全。三位熟悉情況的訊息人士表示，印度上個月派了一個代表團前往俄羅斯，與俄方政府及企業高管進行了初步磋商。其中一位訊息人士稱，鋼鐵管理局和NMDC都在探索原材料採購渠道，正在與俄方接觸。他還補充說，鋼鐵管理局已經成立了一個內部小組來研究此事。兩位印度訊息人士和一位俄羅斯訊息人士表示，印度還希望增加從俄羅斯進口鎳。兩位印度訊息人士稱，雙方已於4月在新德里進行了初步會談。"
-    },
-    {
-      "id": "mkt:019eab43-6935-7005-988c-42320c01ebaf",
-      "time": "2026-06-09 15:22:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Sources: India studies purchase of Russian coking coal assets and increased nickel imports】State-owned Steel Authority of India (SAIL) and NMDC Ltd are studying acquisitions of Russian coking coal assets, sources said. A delegation visited Russia last month for preliminary talks with Russian government officials and corporate executives. SAIL has formed an internal team to evaluate the opportunity. India is also seeking to increase nickel imports from Russia; preliminary talks on nickel were held in New Delhi in April, sources added."
-    },
-    {
-      "id": "4925448",
-      "time": "2026-06-09 15:22:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度塔塔諮詢服務公司高管：人工智慧驅動營收規模可觀，預計年化口徑下該營收將實現同比翻倍增長。"
-    },
-    {
-      "id": "mkt:019eab43-377a-7229-817f-8e6c929bc32c",
-      "time": "2026-06-09 15:22:33",
-      "tags": [
-        "MKT News",
-        "DXY"
-      ],
-      "text": "South Korea's finance ministry said authorities will soon carry out on-site foreign exchange inspections."
-    },
-    {
-      "id": "4925447",
-      "time": "2026-06-09 15:22:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【深圳水貝商家：近期金價持續走低，很多消費者只看不買】有深圳水貝市場的黃金商家表示，在金價上漲時一天能賣2公斤，銷售額約200萬，然而近期金價持續走低，很多消費者“只看不買”，有商家透露不少同行已將黃金庫存賣出後轉行。（第一財經）"
-    },
-    {
-      "id": "mkt:019eab43-2cf7-7229-817f-86853803bf78",
-      "time": "2026-06-09 15:22:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Shenzhen Shuibei merchants report weak retail gold demand as prices fall】Merchants at Shenzhen's Shuibei gold market said that when prices were rising they could sell about 2 kg a day, generating roughly 2 million yuan in daily sales. With gold prices falling recently, many consumers are \"looking but not buying\", and a number of peers have sold inventories and exited the business."
-    },
-    {
-      "id": "4925446",
-      "time": "2026-06-09 15:22:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿達尼能源解決方案公司簽署協議，收購IntelliSmart 100%股權。"
-    },
-    {
-      "id": "mkt:019eab42-5943-7005-988c-3eef72b2ce0c",
-      "time": "2026-06-09 15:21:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance ministry said it is closely monitoring the FX market and will impose strict measures against speculative trading and market disruption."
-    },
-    {
-      "id": "4925445",
-      "time": "2026-06-09 15:21:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊回應微信開放AI生態接入能力：為給使用者提供更智慧的互動體驗】昨日，微信釋出《關於開發者接入微信AI生態的指引》，面向開發者提供接入微信AI（人工智慧）生態的能力。據悉，平臺提供自動模式與開發模式兩種接入選項，以滿足不同規模團隊的開發需求。其中，自動模式需授權平臺提審時讀取小程式原始碼，無需投入額外開發。平臺將分析開發者的小程式頁面，讓微信AI能直接操作；開發模式中，開發者可基於小程式業務特性，自主個性化開發。透過平臺評測與稽核後，可被微信Al呼叫。微信釋出後，京東、美團、滴滴、攜程、同程、得物和肯德基等都宣佈作為首批內測團隊接入微信AI。對此，騰訊回應表示，“為給使用者提供更智慧的互動體驗，微信開放平臺在充分尊重開發者權益和自主選擇的基礎上，面向開發者提供了便捷接入微信AI生態的能力。目前該能力正在內測階段，請開發者留意小程式後臺訊息提醒。”（新浪科技）"
-    },
-    {
-      "id": "4925444",
-      "time": "2026-06-09 15:21:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "加沙衛生部：譴責以色列佔領軍於今晨在加沙逮捕七名巴勒斯坦紅新月會救護人員的事件，當時他們正在薩拉赫丁街執行人道主義職責。 衛生部指出，五名團隊成員在接受審訊後已被釋放，而兩名仍被拘留。"
-    },
-    {
-      "id": "mkt:019eab41-9cf1-7229-817f-7443e19b8f9a",
-      "time": "2026-06-09 15:20:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia governor said the central bank is optimistic about GDP growth this year and expects further improvement next year."
-    },
-    {
-      "id": "mkt:019eab41-99d2-7229-817f-6b65c168fa4a",
-      "time": "2026-06-09 15:20:50",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "Bank Indonesia governor said the central bank will continue in 2027 to prioritize stabilizing the rupiah, including intervening in onshore and offshore FX markets."
-    },
-    {
-      "id": "4925443",
-      "time": "2026-06-09 15:20:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天潤工業：大缸徑曲軸、連桿產品訂單充足 生產及交付工作均按計劃有序推進】天潤工業6月9日在互動平臺表示，公司大缸徑曲軸、連桿產品訂單充足，生產及交付工作均按計劃有序推進，整體運營狀況良好。公司正抓緊推進新增產能專案建設，持續提升供給能力，積極匹配客戶需求。"
-    },
-    {
-      "id": "mkt:019eab41-7d0a-7005-988c-2e08be0a752e",
-      "time": "2026-06-09 15:20:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Indonesia governor said through 2027 the central bank will continue to focus on stabilizing the rupiah, including FX interventions in onshore and offshore markets."
-    },
-    {
-      "id": "4925442",
-      "time": "2026-06-09 15:20:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度NIFTY IT指數<.NIFTYIT>下跌1%。"
     }
   ]
 }
