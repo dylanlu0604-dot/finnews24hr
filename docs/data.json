@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-17 02:08:25",
-  "count": 18425,
+  "updated": "2026-06-17 02:12:31",
+  "count": 18428,
   "items": [
+    {
+      "id": "4939269",
+      "time": "2026-06-17 02:11:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長表示，美國與伊朗的談判將在雙方簽署諒解備忘錄的當日啟動。"
+    },
+    {
+      "id": "mkt:019ed1a1-869f-7dd8-b038-ba2ee597c972",
+      "time": "2026-06-17 02:11:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign minister said negotiations with the United States will begin on the day the two countries sign a memorandum of understanding."
+    },
+    {
+      "id": "4939268",
+      "time": "2026-06-17 02:08:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭空軍通報： 一架蘇-24M戰鬥轟炸機墜毀，兩名飛行員全部遇難。"
+    },
+    {
+      "id": "4939267",
+      "time": "2026-06-17 02:07:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：今日起向符合條件的Pixel Watch推送Wear OS 7，該版本將為全天日常使用提供可靠平臺。"
+    },
     {
       "id": "mkt:019ed19e-3bda-7dd8-b038-b65ea3e66d5e",
       "time": "2026-06-17 02:07:48",
@@ -169503,21 +169536,6 @@
         "公司"
       ],
       "text": "黑石集團買入特別風險轉移（SRT），銀行業正急於對沖貸款風險。"
-    },
-    {
-      "id": "mkt:019ead92-fadf-7225-91a9-fa2f4302f100",
-      "time": "2026-06-10 02:09:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O) GEMINI launches AI-agent risk monitoring feature."
     }
   ]
 }
