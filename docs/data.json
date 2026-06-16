@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-17 00:26:16",
-  "count": 18372,
+  "updated": "2026-06-17 00:30:17",
+  "count": 18375,
   "items": [
+    {
+      "id": "mkt:019ed143-7d5a-7dd8-b037-02dedd06cb65",
+      "time": "2026-06-17 00:28:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada said Prime Minister Carney and Indian Prime Minister Modi agreed to launch negotiations on an information-security agreement."
+    },
+    {
+      "id": "4939184",
+      "time": "2026-06-17 00:28:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大宣告：卡尼與莫迪同意啟動《全面資訊保安協議》談判。"
+    },
+    {
+      "id": "mkt:019ed143-4e13-7dd8-b036-fb12945d9ede",
+      "time": "2026-06-17 00:28:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada said Prime Minister Carney and Indian Prime Minister Modi expressed satisfaction with progress in negotiations on a Comprehensive Economic Partnership Agreement."
+    },
+    {
+      "id": "4939183",
+      "time": "2026-06-17 00:28:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大宣告：加拿大總理卡尼與印度總理莫迪重申，雙方共同目標是在2026年完成全面經濟夥伴關係協定（CEPA）談判。"
+    },
+    {
+      "id": "4939182",
+      "time": "2026-06-17 00:27:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大宣告：卡尼與莫迪對全面經濟夥伴關係協定談判取得的進展表示滿意。"
+    },
+    {
+      "id": "mkt:019ed142-4882-7dd8-b036-f60d6f30f416",
+      "time": "2026-06-17 00:27:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada said Prime Minister Carney met Indian Prime Minister Modi on the sidelines of the G7 summit to review progress in bilateral economic cooperation."
+    },
+    {
+      "id": "4939181",
+      "time": "2026-06-17 00:26:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "加拿大總理卡尼與印度總理莫迪在七國集團峰會場外會晤期間，回顧了雙邊經濟合作的進展。"
+    },
+    {
+      "id": "mkt:019ed141-b40b-7dd8-b036-ea4f313f50f7",
+      "time": "2026-06-17 00:26:44",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "Trade-alert data show more than 1 million SpaceX (SPCX.O) options contracts traded on their first day of trading."
+    },
     {
       "id": "4939180",
       "time": "2026-06-17 00:25:38",
@@ -169042,53 +169108,6 @@
         "MS.N"
       ],
       "text": "MORGAN STANLEY (MS.N) CEO Ted Pick said banking-sector M&A is challenging and the firm wants to ensure it makes the right decisions."
-    },
-    {
-      "id": "4926567",
-      "time": "2026-06-10 00:30:08",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利 CEO：銀行業併購難度不小，我們力求穩妥推進。"
-    },
-    {
-      "id": "te:markets:557760",
-      "time": "2026-06-10 00:28:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Higher Ahead of ECB Decision — The FTSE MIB climbed 0.1% to close at 50,263, supported by gains in heavyweight financial stocks as markets looked ahead to the European Central Bank’s policy decision later this week. The ECB is widely expected to deliver a 25-basis-point rate cut, while investors are focused on guidance for clues about the future path of monetary policy. Risk sentiment also improved as oil prices eased amid hopes for de-escalation in the Middle East. BPER (+2.9%), Mediobanca (+3%), MPS (+2.6%), and Unipol (+4.7%) led gains in the financial sector. Utilities and luxury stocks also advanced, with Enel up 1.4% and Ferrari adding 0.9%. In contrast, Eni fell 1.6% on lower oil prices, while STMicroelectronics lost 5.9% as investors took profits following the recent rally in global technology shares."
-    },
-    {
-      "id": "4926566",
-      "time": "2026-06-10 00:28:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "秘魯索爾兌美元漲超3%。"
-    },
-    {
-      "id": "mkt:019ead35-7c96-7992-a4a6-b80fe1243d16",
-      "time": "2026-06-10 00:27:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Bulgaria to stop military aid to Ukraine, defense minister says】In Sofia on June 9, Bulgaria’s defense minister Stoianov said Bulgaria will halt military assistance to Ukraine, arguing the Russia-Ukraine conflict cannot be resolved on the battlefield and requires negotiation. Bulgaria has delivered 13 arms shipments to Ukraine since 2022; Stoianov said policy changed after the Radev government took office this year."
-    },
-    {
-      "id": "4926565",
-      "time": "2026-06-10 00:26:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【保加利亞防長稱將停止對烏克蘭軍事援助】當地時間6月9日，保加利亞國防部長斯托亞諾夫在索菲亞表示，保加利亞將停止對烏克蘭的軍事援助。他認為，俄烏衝突無法在戰場上解決，現在俄烏雙方需要透過談判尋求和平。自2022年俄烏衝突爆發以來，保加利亞已向烏克蘭提供了13批武器援助。但今年拉德夫政府上臺後，對烏政策發生了轉變。（央視新聞）"
     }
   ]
 }
