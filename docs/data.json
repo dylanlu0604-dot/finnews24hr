@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-17 03:05:22",
-  "count": 18442,
+  "updated": "2026-06-17 03:09:14",
+  "count": 18441,
   "items": [
+    {
+      "id": "4939306",
+      "time": "2026-06-17 03:07:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思明日將前往比利時出席北約部長級會議。"
+    },
+    {
+      "id": "mkt:019ed1d4-6cb4-7dd8-b039-72d2fefb6cdc",
+      "time": "2026-06-17 03:07:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Serbian state television said NIS, Serbia's oil company majority-owned by Russia and subject to U.S. sanctions, has had its sanctions waiver extended to July 1."
+    },
+    {
+      "id": "4939305",
+      "time": "2026-06-17 03:05:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥大豆期貨漲超0.9%，咖啡豆漲超5.5%，紐約可可漲超6.5%】週二（6月16日）紐約尾盤，彭博穀物分類指數漲0.38%，報29.5554點。CBOT玉米期貨漲0.34%，報4.4325美元/蒲式耳。CBOT小麥期貨漲0.62%，報6.0425美元/蒲式耳。CBOT大豆期貨漲0.95%，報11.4550美元/蒲式耳，北京時間21:30美股開盤時拉昇、日內整體瞬間轉漲，豆粕期貨漲0.52%，豆油期貨跌1.83%。CBOT瘦肉豬期貨跌0.73%，活牛期貨漲2.40%，飼牛期貨漲1.68%。ICE原糖期貨漲0.80%，ICE白糖期貨漲1.40%。ICE阿拉比卡咖啡期貨漲5.74%，咖啡“C”期貨漲5.56%。羅布斯塔咖啡期貨漲2.04%。紐約可可期貨漲6.55%，報4232美元/噸。倫敦可可期貨漲6.31%。芝加哥WCE雙低油菜籽期貨跌0.79%。ICE棉花期貨漲1.24%。"
+    },
+    {
+      "id": "4939304",
+      "time": "2026-06-17 03:05:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "塞爾維亞國家廣播電視臺報道，塞爾維亞由俄羅斯控股、遭美國製裁的尼什石油公司獲得制裁豁免，有效期至 7 月 1 日。"
+    },
     {
       "id": "4939303",
       "time": "2026-06-17 03:04:23",
@@ -169609,59 +169642,6 @@
         "MA.N"
       ],
       "text": "U.S. judge preliminarily approved a $38 billion settlement between Visa (V.N) and Mastercard (MA.N) and merchants over interchange (swipe) fees."
-    },
-    {
-      "id": "4926639",
-      "time": "2026-06-10 03:09:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國法官初步批准Visa和萬事達卡與商戶達成的380億美元刷卡費和解協議。"
-    },
-    {
-      "id": "mkt:019eadc8-d803-7225-91aa-90b167364ec8",
-      "time": "2026-06-10 03:08:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures night session closed down 0.74% at 24,441, trading 125 points below the cash index."
-    },
-    {
-      "id": "4926638",
-      "time": "2026-06-10 03:06:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院推進700億美元移民執法相關法案。"
-    },
-    {
-      "id": "mkt:019eadc7-7c21-7225-91aa-884f8c385620",
-      "time": "2026-06-10 03:06:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran official Rezaei says armed forces ready to respond to any aggression】On the 9th, Rezaei, spokesman for the Iranian parliament's National Security and Foreign Policy Committee, said Iran's armed forces have repaired damage, reached peak combat and defensive readiness, and are prepared to respond at the highest level to any aggression."
-    },
-    {
-      "id": "mkt:019eadc7-253a-7225-91aa-82bea50fae80",
-      "time": "2026-06-10 03:06:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign minister reiterates Strait of Hormuz is not international waters】Iran's foreign minister Araghchi reiterated Tehran's position that the Strait of Hormuz is not international waters but falls within the joint territorial seas of Iran and Oman. He said the strait's narrowest point is 21 nautical miles (about 39 km) and that, from a legal standpoint, Iran and Oman therefore have the right to regulate passage through the strait."
     }
   ]
 }
