@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-16 12:38:32",
-  "count": 18339,
+  "updated": "2026-06-16 12:42:26",
+  "count": 18338,
   "items": [
+    {
+      "id": "mkt:019ecebc-12ef-7dd8-b020-14699469b962",
+      "time": "2026-06-16 12:41:32",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Reserve Bank of Australia holds cash rate at 4.35% after three hikes; unanimous 9-0 pause】The Reserve Bank of Australia left the cash rate at 4.35% in a unanimous 9-0 vote, marking its first pause after three increases this year that have begun to weigh on the economy. Chair Bullock will hold a press conference; markets will watch for guidance on whether the bank is entering a prolonged pause or will maintain a restrictive stance. The RBA said: \"Since the start of the year the cash rate target has been increased three times; the current financial environment is tighter than before, and signs of economic slowing have appeared as expected.\" The pause signals a pullback from earlier aggressive tightening that made the RBA an outlier among major central banks. Policymakers said inflation remains too high and energy cost upside from the Iran war is a risk, but recent soft data gives scope to hold rates steady and reassess."
+    },
+    {
+      "id": "4937745",
+      "time": "2026-06-16 12:41:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲7.0個基點，至3.815%。"
+    },
+    {
+      "id": "mkt:019ecebb-f3a3-7dd8-b020-0e598324b34f",
+      "time": "2026-06-16 12:41:24",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Japan 30-year government bond yield rose 7 bps to 3.815%."
+    },
+    {
+      "id": "mkt:019ecebb-e142-7dd8-b020-030792b80624",
+      "time": "2026-06-16 12:41:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 20-year government bond yield rose 8.5 bps to 3.545%."
+    },
+    {
+      "id": "4937744",
+      "time": "2026-06-16 12:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：石油儲備的全面補充可能一直持續到2027年】隆奧認為，全面補充石油儲備需要時間，將一直持續到2027年。首席經濟學家Samy Chaar和投資戰略主管Luca Bindelli在一份研究報告中表示，他們的基準情境仍然是，大約一半的儲備將在未來幾周內恢復，足以避免進一步的破壞性短缺。他們預計，自衝突開始以來的六個月內，布倫特原油平均價格為每桶90美元，12個月內的平均價格為每桶78美元。他們表示，中東衝突的持續降溫將為股市反彈的擴大創造條件，而通脹預期的下降應會改善債券的回報前景。隆奧維持透過新興市場股票超配股票的立場，並對固定收益資產持中性看法。"
+    },
+    {
+      "id": "4937743",
+      "time": "2026-06-16 12:39:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率上升8.5個基點至3.545%。"
+    },
+    {
+      "id": "4937742",
+      "time": "2026-06-16 12:38:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【澳大利亞聯儲維持利率不變】澳大利亞聯儲在連續三次加息後維持利率不變，該行希望藉此更清晰地瞭解通脹的可能路徑以及油市波動的影響。這家聯儲週二將官方隔夜拆款利率維持在4.35%不變，這與經濟學家和交易員的普遍預期一致。澳大利亞聯儲重申，希望看到更多經濟資料，以體現自2月份以來三次、每次25個基點的加息對通貨膨脹造成的影響。澳大利亞聯儲政策制定委員會的全部九名成員都投票贊成維持利率不變。"
+    },
     {
       "id": "4937741",
       "time": "2026-06-16 12:37:08",
@@ -168667,77 +168737,6 @@
         "公司"
       ],
       "text": "檔案顯示，豐田發明合夥公司持有自動駕駛初創企業Tier IV 1.0%的股份。"
-    },
-    {
-      "id": "mkt:019eaaaf-cb19-7eec-b848-b888f0f60cb4",
-      "time": "2026-06-09 12:41:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions"
-      ],
-      "text": "South Korea's KOSPI index surged 8.00% intraday to 8,084.10 points."
-    },
-    {
-      "id": "4925196",
-      "time": "2026-06-09 12:41:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲8%，至8084.10。"
-    },
-    {
-      "id": "mkt:019eaaae-b539-7eec-b848-b4c35f936281",
-      "time": "2026-06-09 12:40:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesia's stock index jumped 4.9%, its largest daily gain since April 2025."
-    },
-    {
-      "id": "4925195",
-      "time": "2026-06-09 12:39:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市漲幅擴大至4.9%，創2025年4月以來最大漲幅。"
-    },
-    {
-      "id": "4925194",
-      "time": "2026-06-09 12:39:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【提醒】特朗普對記者講話結束。"
-    },
-    {
-      "id": "4925193",
-      "time": "2026-06-09 12:39:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不能把反擊的責任歸咎於內塔尼亞胡。"
-    },
-    {
-      "id": "4925192",
-      "time": "2026-06-09 12:39:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：事實證明，封鎖比轟炸更有效。"
-    },
-    {
-      "id": "mkt:019eaaad-084e-7eec-b848-ada639b41000",
-      "time": "2026-06-09 12:38:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump says Iran's economy is under strain and must reach an agreement."
     }
   ]
 }
