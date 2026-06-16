@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-16 13:26:19",
-  "count": 18330,
+  "updated": "2026-06-16 13:30:16",
+  "count": 18333,
   "items": [
+    {
+      "id": "4937786",
+      "time": "2026-06-16 13:29:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上交所：暫停景順長城全球半導體晶片LOF、財通多策略福鑫基金交易至收市】上交所公告，6月16日盤中即時起至收市暫停景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）、財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金交易業務。"
+    },
+    {
+      "id": "mkt:019ecee7-c075-7dd8-b020-c9195d3a770e",
+      "time": "2026-06-16 13:29:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai foreign minister said Thailand has appointed two representatives to participate in UN-framework arbitration proceedings with Cambodia over a maritime dispute."
+    },
+    {
+      "id": "4937785",
+      "time": "2026-06-16 13:29:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外交部長表示，泰國已任命兩名代表參與泰國與柬埔寨海事爭端的聯合國仲裁程式。"
+    },
+    {
+      "id": "4937784",
+      "time": "2026-06-16 13:28:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "商船三井社長表示，霍爾木茲海峽復航可能需要花上數週時間。"
+    },
+    {
+      "id": "mkt:019ecee6-2726-7dd8-b020-c4a4860a92d6",
+      "time": "2026-06-16 13:27:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share silicone sector rose again in afternoon trade; Hoshine Silicon locked at the daily limit. Dongyue Silicones, Jinhua New Materials, Hongbo New Materials and Runhe Materials also advanced."
+    },
+    {
+      "id": "mkt:019ecee6-2077-7dd8-b020-be374bc254ee",
+      "time": "2026-06-16 13:27:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell 1.00% intraday, trading at $82.08/bbl."
+    },
+    {
+      "id": "4937783",
+      "time": "2026-06-16 13:26:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【伊朗央行行長率團前往莫斯科】據伊朗學生通訊社：伊朗央行行長赫馬提於今日上午率團前往莫斯科，旨在發展伊朗與俄羅斯之間的貨幣和銀行關係。"
+    },
+    {
+      "id": "mkt:019ecee4-f3ab-7dd8-b020-b6bede069882",
+      "time": "2026-06-16 13:26:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran central bank governor Hemmati leads delegation to Moscow】Iran central bank governor Hemmati led a delegation to Moscow this morning to expand monetary and banking ties with Russia."
+    },
     {
       "id": "4937782",
       "time": "2026-06-16 13:25:45",
@@ -168630,51 +168704,6 @@
         "MKT News"
       ],
       "text": "Bank Indonesia will raise its benchmark policy rate by 25 bps to 5.50%."
-    },
-    {
-      "id": "4925246",
-      "time": "2026-06-09 13:30:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞央行在6月9日的會議上將基準利率上調25個基點，至5.50%。"
-    },
-    {
-      "id": "4925245",
-      "time": "2026-06-09 13:30:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌4%，現報3742.00元。"
-    },
-    {
-      "id": "4925244",
-      "time": "2026-06-09 13:28:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債<JP10YTN=JBTC>收益率下跌1.5個基點，至2.700%。"
-    },
-    {
-      "id": "mkt:019eaada-8cfa-7eec-b849-39aa4f93d05f",
-      "time": "2026-06-09 13:28:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Wuhan aims to incubate more than 10 unicorns by 2028】Hubei provincial government office issued a Wuhan Special Action Plan to boost industrial innovation with targets to 2028: sharply raise in‑city commercialization of university R&D and complete over 10,000 technology transfers; attract and retain 1 million university graduates for employment and entrepreneurship in Wuhan; incubate more than 10 unicorns; build several world‑class innovation-driven industrial clusters; materially improve government service efficiency for industry innovation and produce replicable reform models."
-    },
-    {
-      "id": "4925243",
-      "time": "2026-06-09 13:27:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武漢市激發產業創新活力專項行動方案：到2028年培育獨角獸企業10家以上】湖北省人民政府辦公廳印發《武漢市激發產業創新活力專項行動方案》，到2028年，在漢高校科技成果就地轉化率大幅提高，科技成果轉化超過10000項；新增留漢來漢就業創業大學畢業生100萬人，培育獨角獸企業10家以上，形成一批世界級創新型產業叢集；政府服務產業創新的效率大幅提高，形成一批可複製可推廣的改革經驗和典型案例。"
     }
   ]
 }
