@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-16 15:56:57",
-  "count": 18388,
+  "updated": "2026-06-16 16:00:50",
+  "count": 18380,
   "items": [
+    {
+      "id": "te:markets:559286",
+      "time": "2026-06-16 16:00:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Falls by 1.75% — Top commodity losers are Heating Oil (-1.75%), Crude Oil WTI (-1.69%) and Brent Crude Oil (-1.54%). Gains are led by Natural gas (0.84%)."
+    },
+    {
+      "id": "4938088",
+      "time": "2026-06-16 16:00:04",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "SpaceX美股盤前漲超10%。此前兩個交易日，該公司均收漲19%。"
+    },
+    {
+      "id": "te:markets:559285",
+      "time": "2026-06-16 15:59:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX on Cautious Note — The DAX 40 hovered just above the flatline near 24,900 on Tuesday, maintaining levels not seen since early June, amid cautious optimism around the pending US-Iran peace deal and ahead of key central bank decisions, including the Federal Reserve. The memorandum of understanding is expected to be formally signed on Friday, which could pave the way for the Strait of Hormuz reopening as early as this week; however, the full details of the agreement will only be known thereafter. GEA Group led gains after Deutsche Bank raised its rating from Neutral to Buy and revised the target price from €70 to €64. Industrials giant Rheinmetall advanced 2%, with Qiagen NV, MTU Aero Engines, Siemens and Airbus adding around 1% each."
+    },
+    {
+      "id": "4938086",
+      "time": "2026-06-16 15:58:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎勝新材：鋁業務發展前景樂觀 未來產能與分紅有望提升】鼎勝新材公告稱，公司在投資者關係活動中表示，當前訂單充足，結合經營及行業情況對未來鋁價樂觀，海外訂單穩步增長。公司堅守高階化轉型戰略，重點佈局新能源等領域，規劃建設氣墊爐、輥底爐等，新增高階熱處理產能50萬噸。2026年全球鋁材供需缺口或擴大，公司總體產能將爆發式增長，3年內產銷規模將突破200萬噸。2025年度現金分紅比例達20%，2026年度承諾不低於30%，未來分紅比例有望進一步提高。"
+    },
+    {
+      "id": "4938085",
+      "time": "2026-06-16 15:58:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【報告：英國領導權之爭或拖累企業和消費者信心】RSM UK的Thomas Pugh在一份報告中表示，取代基爾·斯塔默成為英國首相的爭奪戰可能會打擊企業和家庭的信心。他說，民意調查機構認為，他的潛在繼任者安迪·伯納姆在即將舉行的特別選舉中獲勝的機率約為75%，從而有可能發起領導權挑戰。“一場聚焦於增稅或發債想法的領導權之爭，可能會削弱企業和消費者信心，並引發金融市場恐慌，從而拖累經濟增長，其方式與前兩份預算案實際上導致該國經濟停滯的情況類似。“雖然安迪·伯納姆承諾遵守財政規則，但他已表示希望增加支出。“這意味著更多的稅收和發債，並且未來幾年英國國債收益率可能會更高，”Pugh說。"
+    },
+    {
+      "id": "mkt:019ecf6f-de2d-7dd8-b026-97f2f660c07b",
+      "time": "2026-06-16 15:57:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【Bank of Japan rate decision: policy rate raised to 31-year high; JGB taper paused from Apr 2027】The Bank of Japan raised its policy rate 25bp to 1.00%, the highest level in 31 years, in a 7–1 vote; the same vote approved pausing further reductions in JGB purchases from April 2027. The BoJ will continue the current plan to cut JGB purchases by ¥200bn/month through Jan–Mar 2027, then suspend tapering from Apr 2027 and keep monthly JGB purchases at about ¥2.0trn. The BoJ will stop conducting a mid-term review of the taper plan and said it can respond flexibly to a rapid rise in long-term yields—including boosting JGB purchases and executing fixed-rate operations—and may revise the taper at future meetings if needed. Forward guidance: financial conditions remain accommodative; the BoJ will continue to raise the policy rate as economic activity, prices and financial conditions evolve. Real rates are mainly negative in the short-to-medium term. Inflation: oil pass-through is accelerating and could push CPI well above 2% YoY; core CPI is expected to rise gradually and reach the price target between H2 FY2026 and FY2027, with wages and prices moving up moderately in tandem. Market operations and other policy settings: ETF purchase pace and ETF sell-down plans unchanged; the BoJ said annual JGB purchases of ¥2.0trn remain sufficient to adjust the balance sheet but acknowledged JGB purchase pace could change if market participants can replace the BoJ as a major buyer. FX and geopolitics: policy is not aimed at controlling the exchange rate but FX moves can affect underlying inflation and will be discussed at each policy meeting; the committee noted reduced risk of a major global downturn from Middle East tensions but will assess how peace negotiations affect the economy and prices. Market reaction: USD/JPY ticked higher, Topix recovered losses, Nikkei 225 turned positive and breached 70,000, and JGB yields rose. Governor Ueda is temporarily absent for hospitalization; the bank says his views are unchanged and implementation of policy will not be affected."
+    },
     {
       "id": "4938084",
       "time": "2026-06-16 15:56:20",
@@ -17,6 +78,14 @@
         "其他"
       ],
       "text": "【天合光能鈣鈦礦/晶體矽疊層元件產品獲全球高階分散式客戶首單簽約】近日，天合光能憑藉自主研發的高效鈣鈦礦/晶體矽疊層光伏元件，成功獲得全球高階分散式客戶首單簽約。本次訂單是落地海外高階分散式場景的商業化首單，也是中國疊層技術產品成功打入高階戶用市場的全球首單。本次交付的鈣鈦礦/晶體矽疊層元件，依託天合光能900+W世界紀錄級疊層技術體系，完成了標準化工業元件產品設計及開發，完全適配戶用光伏規範，實現了由實驗室研發樣品向可批次交付的元件產品的躍遷。"
+    },
+    {
+      "id": "4938082",
+      "time": "2026-06-16 15:55:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“足球不應只是一門生意”，外媒：墨西哥總統稱，國際足聯應反思世界盃票價過高問題】據美聯社報道，墨西哥總統辛鮑姆當地時間15日表示，國際足聯應該反思2026年美加墨世界盃門票價格過高的問題，因為大量民眾反映這一價格遠超絕大多數墨西哥人的承受範圍。報道稱，儘管辛鮑姆承認“可以”將世界盃作為一項商業活動來運營，但她同時表示，足球也應“像所有體育運動專案一樣”，將大家凝聚在一起。辛鮑姆還對記者說，足球不應只是一門生意。“足球必須有其他更多（意義），這一切都應引發反思，在國際足聯內部也是如此”。美聯社稱，國際足聯尚未對上述言論作出公開回應。（環球網）"
     },
     {
       "id": "4938081",
@@ -169068,147 +169137,6 @@
         "其他"
       ],
       "text": "倫敦金屬交易所(LME)：鉛庫存減少1200噸，鎳庫存增加630噸，鋁庫存減少3200噸，鋅庫存減少250噸，錫庫存減少50噸，銅庫存減少4125噸。"
-    },
-    {
-      "id": "4925529",
-      "time": "2026-06-09 16:00:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Applied Digital美股盤前漲超10%】Applied Digital美股盤前漲超10%。公司在Delta Forge 2簽署新的資料中心租賃協議。"
-    },
-    {
-      "id": "mkt:019eab65-e5c1-7bb0-a8d3-caf1de32f415",
-      "time": "2026-06-09 16:00:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan May trade balance US$17.91 bln, versus expected US$15.2 bln and prior US$14.35 bln."
-    },
-    {
-      "id": "te:markets:557595",
-      "time": "2026-06-09 16:00:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Gains by 1.84% — Top commodity gainer is Natural gas (1.84%). Biggest losers are Crude Oil WTI (-1.80%), Brent Crude Oil (-1.43%) and Natural Gas EU (-0.66%)."
-    },
-    {
-      "id": "mkt:019eab65-a288-7bb0-a8d3-c3dee37f3f71",
-      "time": "2026-06-09 16:00:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan May imports YoY 54.9% vs expected 37.4%; prior 29.2%."
-    },
-    {
-      "id": "mkt:019eab65-a1c1-7bb0-a8d3-b954dc8a704f",
-      "time": "2026-06-09 16:00:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Taiwan | Trade Balance (May) | actual 17910000000B | consensus 15200000000B | previous 14350000000B"
-    },
-    {
-      "id": "mkt:019eab65-a1c0-7bb0-a8d3-b320ca005283",
-      "time": "2026-06-09 16:00:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan's May exports rose 51.7% YoY, versus consensus 37.9% and the prior 39.0%."
-    },
-    {
-      "id": "mkt:019eab65-6d56-7bb0-a8d3-aa31861dd297",
-      "time": "2026-06-09 16:00:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Taiwan | Imports (YoY) (May) | actual 54.9% | consensus 37.4% | previous 29.20%"
-    },
-    {
-      "id": "mkt:019eab65-6bdd-7bb0-a8d3-a49c75b8b55a",
-      "time": "2026-06-09 16:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fliggy: Dragon Boat Festival inbound travel bookings more than sixfold YoY】Fliggy's 2025 Dragon Boat Festival travel report: inbound travel bookings for the holiday are up more than sixfold YoY to date. Family travel accounts for over 50% of bookings; destination activity packages (dining, performances, attractions) are up 83% YoY. Student travel is the fastest-growing segment: booked traveler counts rose over 70% YoY and booking volume rose 97% YoY."
-    },
-    {
-      "id": "mkt:019eab65-51d3-7bb0-a8d3-9e2f7cc2781f",
-      "time": "2026-06-09 16:00:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Taiwan | Exports (YoY) (May) | actual 51.7% | consensus 37.9% | previous 39.00%"
-    },
-    {
-      "id": "4925528",
-      "time": "2026-06-09 16:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【飛豬：端午假期入境遊預訂量同比增長超6倍】來自飛豬《2025年端午假期出遊風向標》的資料顯示，親子家庭是端午假期出遊主力軍，佔比超五成，截至目前包含餐飲、演出、遊樂專案等在內的目的地玩樂組合商品預訂量同比去年增長83%。另外，學生人群出遊增速最快，預訂人次同比提升超70%，預訂量同比增長97%。另一方面，入境遊持續保持高位增速。飛豬資料顯示，截至目前端午假期的入境遊預訂量同比增長超6倍。"
-    },
-    {
-      "id": "mkt:019eab64-d91a-7bb0-a8d3-926fdc1ee74f",
-      "time": "2026-06-09 15:59:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SHL.DE",
-        "Impact bullish"
-      ],
-      "text": "【Siemens Healthineers' first China-made dual-source photon-counting CT approved by NMPA】Siemens Healthineers said on June 9 its first China-made dual-source photon-counting CT, the NAEOTOM Alpha.Pro, received marketing approval from the National Medical Products Administration (NMPA). Production will take place at Siemens Healthineers' Shanghai R&D and manufacturing base; the company expects a second China-made photon-counting CT to gain approval in 2026."
-    },
-    {
-      "id": "4925527",
-      "time": "2026-06-09 15:59:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【成都至廣州快捷物流產品示範線班列累計發運量破百列】6月9日8時48分，伴隨著清脆的汽笛聲響，X8658次貨運班列緩緩駛出成都城廂站，奔赴廣州。至此，成都至廣州快捷物流產品示範線班列累計發運量突破100列。（新華社）"
-    },
-    {
-      "id": "4925526",
-      "time": "2026-06-09 15:59:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西門子醫療首款國產雙源光子計數CT產品獲批上市】6月9日，西門子醫療首款國產雙源光子計數CT NAEOTOM Alpha.Pro獲得國家藥品監督管理局（NMPA）上市批准。國產雙源光子計數CT未來將在西門子醫療上海研發與生產基地生產。預計2026年內，西門子醫療第二款國產光子計數CT產品也將獲批上市。"
-    },
-    {
-      "id": "te:markets:557592",
-      "time": "2026-06-09 15:58:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Sets New Record High — The FTSE MIB climbed over 1% to around 50,700 on Tuesday, scaling a fresh record and outperforming its regional peers, propelled by strength in heavyweight financials as markets braced ahead of the European Central Bank’s monetary policy decision later this week. The central bank is widely expected to raise interest rates by 25 bps, while investors are also awaiting guidance for clues on the future path of monetary policy. Sentiment also improved as oil prices eased following commitments by Iran and Israel to scale back hostilities after a recent flare in violence. Leading gains in financials were UniCredit (+1.7%), Intesa Sanpaolo (+1.4%), Banco BPM (+2%), BPER Banca (+3.6%), Mediobanca (+1.3%), Unipol Gruppo (+4.6%), Poste Italiane (+3.2%) and FinecoBank (+1.5%)."
-    },
-    {
-      "id": "4925525",
-      "time": "2026-06-09 15:57:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【以色列和伊朗停止威脅和談的襲擊後，油價下跌】在以色列和伊朗停止相互攻擊後，油價回吐了前一交易日的大部分漲幅。此前兩國衝突一度升溫，威脅到了旨在結束戰爭的地區談判。歐洲市場早盤，布倫特原油下跌1.2%，至93.08美元/桶；西得州中質油期貨下跌1.8%，至89.68美元/桶。盛寶銀行分析師表示：“美國出口激增、戰略石油儲備釋放以及一定程度的需求破壞，這些因素有助於解釋為何在上個月供應受擾期間，油價未能出現更強勁的上漲。"
     }
   ]
 }
