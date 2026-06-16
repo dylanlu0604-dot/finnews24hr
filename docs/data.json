@@ -1,7 +1,518 @@
 {
-  "updated": "2026-06-16 23:52:58",
-  "count": 18393,
+  "updated": "2026-06-17 00:13:43",
+  "count": 18387,
   "items": [
+    {
+      "id": "4939169",
+      "time": "2026-06-17 00:12:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "德國總理默茨：七國集團達成共識，必須加大對俄羅斯施壓力度。"
+    },
+    {
+      "id": "te:markets:559417",
+      "time": "2026-06-17 00:12:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.15% Higher — The FTSE MIB Index gained 597 points or 1.15 percent on Tuesday to close at 52433 points. Gains were led by UniCredit (4.47%), Intesa Sanpaolo (2.72%) and Azimut Holding (2.04%)."
+    },
+    {
+      "id": "4939168",
+      "time": "2026-06-17 00:12:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署(EIA)稱，2026年前五個月，加州獨立系統運營商(CAISO)區域太陽能發電量超過天然氣。"
+    },
+    {
+      "id": "4939167",
+      "time": "2026-06-17 00:11:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "意法半導體：完成15億美元兩檔可轉換債券發行定價。"
+    },
+    {
+      "id": "mkt:019ed133-cc9e-7dd8-b036-9f8c2d40866e",
+      "time": "2026-06-17 00:11:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "German Chancellor Merz said he told U.S. President Trump that Germany is willing to contribute to a mission in the Strait of Hormuz."
+    },
+    {
+      "id": "te:markets:559416",
+      "time": "2026-06-17 00:11:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.07% Higher — The DAX Index went up by 16 points or 0.07 percent on Tuesday to close at 24910 points. The rise was led by Gea Group (3.61%), Qiagen NV (1.53%) and Munich RE (1.36%). On the downside, the weakerst performers were Infineon (-1.81%), RWE (-1.67%) and Brenntag (-1.64%)."
+    },
+    {
+      "id": "4939166",
+      "time": "2026-06-17 00:11:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：已告知特朗普，德國願意參與霍爾木茲海峽護航行動。"
+    },
+    {
+      "id": "4939165",
+      "time": "2026-06-17 00:10:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：今日（週二）早些時候，黎巴嫩真主黨向以軍在黎巴嫩南部的行動區域發射多枚火箭彈，以色列空軍對其實施了攔截。按照處置規程，當地未拉響防空警報。攔截行動結束後不久，以色列空軍發動打擊，摧毀了部分射向黎南部以軍陣地火箭彈的發射裝置。另外在今日（週二）早些時候，以軍在黎巴嫩南部己方行動區域發現一輛可疑車輛，先對該車鳴槍示警，隨後對該區域實施打擊以消除威脅。"
+    },
+    {
+      "id": "te:markets:559415",
+      "time": "2026-06-17 00:10:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.75% Higher — The CAC 40 Index rose 63 points or 0.75 percent on Tuesday to close at 8447 points. Leading the gains are Publicis (2.65%), Safran (2.35%) and Schneider Electric (2.27%). Top losers were STMicroelectronics (-4.74%), Renault (-3.07%) and Edenred (-2.80%)."
+    },
+    {
+      "id": "mkt:019ed130-e0d4-7dd8-b036-96cc481d4746",
+      "time": "2026-06-17 00:08:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google introduces Brazos liquid-cooling system for data centers."
+    },
+    {
+      "id": "te:markets:559414",
+      "time": "2026-06-17 00:08:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Extend Record — European stock indices closed higher to extend their records on Tuesday amid confidence over an imminent deal between the US and Iran. The Euro STOXX 50 added 0.4% to 6,255 and the STOXX Europe 600 rose 0.2% to 636. Energy prices retreated further after Iran and the US maintained their plan to sign a memorandum of understanding on Friday, which US authorities claimed will restore tanker flows through the Strait of Hormuz. Banking stocks rose as bond yields dropped and improved credit conditions, with BBVA and Intesa Sanpaolo adding more than 2%. Meanwhile, UniCredit jumped 4% after the German government rejected its bid for Commerzbank. Industrials were also sharply higher with Safran and Schneider adding 2.5%."
+    },
+    {
+      "id": "mkt:019ed130-5483-7dd8-b036-8b79691a4421",
+      "time": "2026-06-17 00:07:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran temporarily bars IAEA inspections of its nuclear facilities】Iranian sources said on the 16th it will not allow IAEA personnel into its nuclear facilities for inspections while it is negotiating with the United States."
+    },
+    {
+      "id": "te:markets:559413",
+      "time": "2026-06-17 00:07:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.72% Higher — The FTSE 100 Index gained 75 points or 0.72 percent on Tuesday to close at 10506 points. Gains were led by Endeavour (2.90%), Convatec Group (2.89%) and Rolls-Royce (2.68%). Biggest losers were Frasers Group (-4.78%), BT (-2.25%) and B&M European Value (-1.87%)."
+    },
+    {
+      "id": "4939164",
+      "time": "2026-06-17 00:06:55",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【劉國中出席非洲應對埃博拉疫情特別影片峰會並致辭】6月16日，中共中央政治局委員、國務院副總理劉國中應邀出席非洲應對埃博拉疫情特別影片峰會並致辭。劉國中表示，習近平主席提出構建人類命運共同體重要理念，倡導構建人類衛生健康共同體，為國際抗疫合作指明瞭方向。中非從來都是命運共同體。中方已向剛果（金）和非洲聯盟提供緊急人道主義援助，向剛果（金）派遣醫療專家組，近千名醫療隊專業人員會同非洲民眾並肩抗疫。中方將在中非合作論壇框架內，落實好中非衛生健康夥伴行動，呼籲國際社會加強團結合作、向非洲提供更多支援。峰會由非盟輪值主席、蒲隆地總統恩達伊施米耶主持，南非、赤道幾內亞、辛巴威等十餘個非洲國家元首和政府首腦，以及世界衛生組織等國際和地區組織、非洲域外夥伴代表等參會。（新華社）"
+    },
+    {
+      "id": "mkt:019ed12f-26b3-7dd8-b036-8460d1f1b7de",
+      "time": "2026-06-17 00:06:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple to launch camera-equipped AirPods by 2027; smart glasses could arrive as early as year-end next year】Apple plans to launch camera-equipped AirPods by end-2027, alongside multiple new products including a next-generation foldable iPhone and a 20th‑anniversary iPhone. The AirPods would be Apple’s first AI-focused wearable, integrating a computer-vision camera to feed Siri with real-world visual input. Apple is also developing chips for follow-on devices on next-generation process nodes, and is targeting its first smart glasses as early as year-end next year."
+    },
+    {
+      "id": "4939163",
+      "time": "2026-06-17 00:05:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "智利比索和波蘭茲羅提飆升至日內高點，油價下跌。"
+    },
+    {
+      "id": "4939162",
+      "time": "2026-06-17 00:04:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國眾議院民主黨小組質詢谷歌、蘋果公司。"
+    },
+    {
+      "id": "4939161",
+      "time": "2026-06-17 00:04:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：為資料中心推出布拉佐斯液冷系統。"
+    },
+    {
+      "id": "4939160",
+      "time": "2026-06-17 00:04:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗暫不允許國際原子能機構檢查其核設施】據伊朗塔斯尼姆通訊社16日報道，伊朗此後在與美國談判期間將不會允許國際原子能機構人員進入其核設施進行檢查。（新華社）"
+    },
+    {
+      "id": "4939159",
+      "time": "2026-06-17 00:03:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普：美方可能近期恢復對俄羅斯石油制裁】美國總統特朗普16日稱，美國可能很快重新實施對俄羅斯石油的制裁。特朗普當天在法國埃維昂萊班出席七國集團峰會期間對媒體稱：“（恢復制裁）很快就能落實，因為目前石油已在正常流通……我們此前之所以暫緩制裁，顯然是不希望影響石油供應。目前條件已經具備，可以儘快採取行動。”（新華社）"
+    },
+    {
+      "id": "4939158",
+      "time": "2026-06-17 00:03:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瑞士外交部確認美伊框架協議簽署地點】據瑞士廣播電視公司報道，瑞士外交部向這家媒體證實美國和伊朗的框架協議將於19日在瑞士中部盧塞恩附近的比爾根山簽署。瑞士廣播電視公司還說，簽署地是比爾根山的一家豪華度假村。報道援引瑞士外交部的說法稱，會談地點是由巴基斯坦、卡達、美國、伊朗共同提議的。瑞士正在為會談提供便利，併為此創造外交條件。美國總統特朗普14日宣佈與伊朗達成停戰諒解備忘錄，正式簽字儀式將於19日在瑞士舉行。（新華社）"
+    },
+    {
+      "id": "mkt:019ed12c-55c3-7dd8-b036-7971eccfe46b",
+      "time": "2026-06-17 00:03:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) plans to launch new AirPods with built-in cameras at end-2027."
+    },
+    {
+      "id": "4939157",
+      "time": "2026-06-17 00:02:54",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【蘋果2027年將推出帶攝像頭AirPods與新一代摺疊iPhone】蘋果公司計劃在2027年末推出全新搭載攝像頭的AirPods，同期還有多款新品一同亮相，包括新一代摺疊手機以及全新紀念款iPhone。這款全新AirPods是蘋果首款主打人工智慧的可穿戴裝置，配備計算機視覺攝像頭作為感測元件，為Siri提供實景視覺資訊。蘋果還在為旗下後續裝置研發多款新一代製程工藝打造的晶片，並最早計劃於明年年末推出首款智慧眼鏡。"
+    },
+    {
+      "id": "mkt:019ed12b-acf6-7dd8-b036-74aba6be20e0",
+      "time": "2026-06-17 00:02:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) will launch a 20th anniversary iPhone at the end of 2027."
+    },
+    {
+      "id": "4939156",
+      "time": "2026-06-17 00:02:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團任命保羅·史密斯為全球化學品業務主席。"
+    },
+    {
+      "id": "te:markets:559411",
+      "time": "2026-06-17 00:02:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Gains for Fourth Straight Session — The CAC 40 gained 0.7% to close at 8,447 on Tuesday, extending gains for a fourth straight session and reaching its highest level in two months amid optimism over a preliminary US-Iran deal. President Donald Trump said at the G7 summit that negotiations with Iran had entered a second stage. Oil prices slid as markets weighed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, with BNP Paribas advancing 1.3% and Crédit Agricole gaining 1.8%. Luxury shares benefited from improved risk sentiment, with LVMH rising 1.5% and Hermès adding 2.2%. Industrial stocks also posted gains, with Safran up 2.4% and Schneider Electric advancing 2.5%. In contrast, STMicroelectronics fell 4% after announcing plans to issue $1.5 billion in convertible bonds."
+    },
+    {
+      "id": "4939155",
+      "time": "2026-06-17 00:01:52",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果計劃2027年末推出搭載攝像頭的全新AirPods，該款AirPods將與第二代摺疊iPhone同步首發；蘋果還將在2027年末推出iPhone二十週年紀念機型。"
+    },
+    {
+      "id": "4939154",
+      "time": "2026-06-17 00:01:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：客戶目前可在Frontier模型服務中使用GPT-5.5，CoWork 1即將推出。"
+    },
+    {
+      "id": "4939153",
+      "time": "2026-06-17 00:01:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "強生CEO稱特朗普稅收政策推動公司在美國加碼550億美元投資，其中佛羅里達州投資額達10億美元。"
+    },
+    {
+      "id": "mkt:019ed129-b4c1-7dd8-b036-6e29e18b6fb6",
+      "time": "2026-06-17 00:00:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O): Copilot CoWork is now fully rolled out."
+    },
+    {
+      "id": "4939152",
+      "time": "2026-06-16 23:59:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Copilot協作功能現已全面推出。"
+    },
+    {
+      "id": "4939151",
+      "time": "2026-06-16 23:59:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "法國國內情報局（DGSI）將停用Palantir公司產品，總理勒科爾尼稱此舉是出於對本國戰略層面依賴美國的擔憂。"
+    },
+    {
+      "id": "4939150",
+      "time": "2026-06-16 23:59:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "鮑勃·奧登柯克再度化身索爾·古德曼，拍攝一則主題為“知曉自身合法權利”的公益宣傳片，以此紀念美國建國250週年。"
+    },
+    {
+      "id": "te:markets:559407",
+      "time": "2026-06-16 23:58:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Futures at Over 1-Week High — Cotton futures rose toward 78 cents per pound, near the highest in over a week, amid a subdued dollar and as traders weighed weather concerns in key cotton-growing regions of the US. Beneficial rainfall was reported along the Texas coast, while dry conditions are forecast for West Texas. In the meantime, India is expected to receive below-average rainfall over the next two weeks, especially in central and northern regions that could delay planting of summer-sown crops, including cotton. Meanwhile, the June US agricultural supply and demand report pointed to a tighter global cotton balance in 2026/27, with lower beginning and ending stocks and slightly higher consumption. Easing geopolitical tensions also lent support, as lower crude oil prices may ease pressure on textile production by reducing costs."
+    },
+    {
+      "id": "te:markets:559406",
+      "time": "2026-06-16 23:58:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rebounds on Tuesday — The FTSE 100 rose 0.7% on Tuesday, recovering from a 0.4% loss in the previous session, as oil prices fall further on growing hopes that this deal between the US and Iran could stick. Among major index constituents, Rolls-Royce added 2.7% and submarine contractor Babcock gained more than 2%, while banks including HSBC Holdings, Lloyds Banking Group and Barclays rose between 1.4% to 1.8%. Markets are also focused on a busy UK data calendar this week, with inflation, employment and retail sales figures due, alongside the Bank of England interest rate decision and the Makerfield by-election on Thursday."
+    },
+    {
+      "id": "mkt:019ed127-9a1a-7dd8-b036-65221ba5dbbf",
+      "time": "2026-06-16 23:58:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "SC crude main contract fell 4.00% intraday to 508.40 yuan/barrel."
+    },
+    {
+      "id": "4939149",
+      "time": "2026-06-16 23:57:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社16日報道，伊朗此後在與美國談判期間將不會允許國際原子能機構人員進入其核設施進行檢查。"
+    },
+    {
+      "id": "mkt:019ed126-95e2-7dd8-b036-5cc5c8a0afcf",
+      "time": "2026-06-16 23:57:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil dropped below $76/bbl to its lowest since March 5, down 6.63% intraday."
+    },
+    {
+      "id": "4939148",
+      "time": "2026-06-16 23:56:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守75美元/桶，日內跌5.59%。"
+    },
+    {
+      "id": "4939147",
+      "time": "2026-06-16 23:56:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報508.40元。"
+    },
+    {
+      "id": "4939146",
+      "time": "2026-06-16 23:55:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以媒：以色列在“最後一刻”取消大規模空襲伊朗計劃】據《以色列時報》16日報道，以色列空軍司令奧默·蒂施勒當天在一封給以軍的內部信件中證實，以空軍原計劃本月8日對伊朗發動的大規模空襲在“最後一刻”被取消。（新華社）"
+    },
+    {
+      "id": "te:markets:559405",
+      "time": "2026-06-16 23:55:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise for 3rd Day — US natural gas prices climbed more than 2% to $3.2 per MMBtu, extending gains for a third consecutive session, on expectations of stronger demand from warmer weather and improving LNG export activity. Forecasts indicate temperatures will remain above normal through July 1, likely increasing gas consumption from power generators as air conditioning demand rises. Also, flows to LNG export terminals rose 13.2% week-on-week on Monday, reaching a six-week high of 19.3 billion cubic feet per day. However, average gas deliveries to the nine major US LNG export facilities slipped to 17.0 bcfd so far in June due to seasonal maintenance at several sites, including ExxonMobil and QatarEnergy’s Golden Pass facility and Freeport LNG in Texas. US Lower 48 gas production has also eased, averaging 109.3 bcfd so far in June compared with 109.7 bcfd in May."
+    },
+    {
+      "id": "4939145",
+      "time": "2026-06-16 23:55:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統助理：期待美代表在美伊諒解備忘錄簽署後訪俄】俄羅斯總統助理烏沙科夫16日對媒體表示，俄羅斯期待美伊諒解備忘錄簽署後，美國談判代表、美總統特朗普特使威特科夫和女婿庫什納能夠前往莫斯科與俄方就烏克蘭問題進行會談。烏沙科夫還表示，俄總統普京與特朗普並未討論在美國舉行俄烏會晤的可能性，俄方也未收到相關提議。（新華社）"
+    },
+    {
+      "id": "4939144",
+      "time": "2026-06-16 23:55:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人週二呼籲針對剛果民主共和國的埃博拉疫情采取強有力、協同統一的應對舉措，並敦促各國投入資源，力求將病毒限制在儘可能小的區域內。"
+    },
+    {
+      "id": "4939143",
+      "time": "2026-06-16 23:54:32",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【貴州省政協人口資源環境委員會原主任李光榮一審被判十一年】貴州省黔東南苗族侗族自治州中級人民法院16日一審公開宣判貴州省政協人口資源環境委員會原主任李光榮受賄、利用影響力受賄案，對被告人李光榮以受賄罪判處有期徒刑十年二個月，並處罰金人民幣六十萬元；以利用影響力受賄罪，判處有期徒刑三年，並處罰金人民幣二十萬元；決定執行有期徒刑十一年，並處罰金人民幣八十萬元；對被告人李光榮犯罪所得財物及孳息依法予以追繳，上繳國庫。（新華社）"
+    },
+    {
+      "id": "4939142",
+      "time": "2026-06-16 23:54:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "布倫特原油價格觸及日內低點，交易價格接近每桶79美元。"
+    },
+    {
+      "id": "4939141",
+      "time": "2026-06-16 23:53:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美伊協議允許伊朗立即對外出售原油 WTI原油跌5%】知情人士透露，美國將依據停戰協議允許伊朗立刻對外出售石油與燃油。本週協議一經簽署，針對石油銷售的制裁豁免條款即刻生效，豁免範圍還包含促成石油交易所需的配套服務，涵蓋金融結算、運輸及保險業務。知情人士透露，根據這份旨在結束衝突的協議，美國將准許伊朗立即出口原油與成品油，以此向德黑蘭提供先期經濟利好，推動其緩和戰事。WTI原油日內跌5%，現報75.46美元/桶。"
+    },
+    {
+      "id": "4939140",
+      "time": "2026-06-16 23:53:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌5%，現報78.98美元/桶。"
+    },
+    {
+      "id": "4939139",
+      "time": "2026-06-16 23:53:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守79美元/桶，日內跌5.04%。"
+    },
+    {
+      "id": "te:markets:559404",
+      "time": "2026-06-16 23:53:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil is down by 5.02% — Brent Crude Oil decreased 5.02% to 78.996 USD/Bbl"
+    },
+    {
+      "id": "mkt:019ed122-9adf-7dd8-b036-5489b0d288f5",
+      "time": "2026-06-16 23:52:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【WSJ: U.S. to allow Iran to immediately resume oil exports under deal】Wall Street Journal, citing people familiar with the matter, reports the U.S. will allow Iran to immediately resume oil and fuel exports under a deal, with sanctions waivers on oil sales taking effect upon the agreement’s expected signing this week. Waivers will extend to banking, shipping and insurance to ensure transactions can proceed. Anti-nuclear group UANI said a supertanker loaded with Iranian crude left Chabahar, crossed the U.S. blockade line and exited the Gulf of Oman with AIS on — the first such movement since the U.S. maritime blockade in April. A U.S. senior official said the waivers are an upfront economic incentive to cool the conflict, but longer-term, sustained sanction relief will depend on Iranian compliance with U.S. demands, including reopening the straits and nuclear-related commitments; Iran will not immediately regain billions frozen overseas."
+    },
     {
       "id": "4939138",
       "time": "2026-06-16 23:51:48",
@@ -168732,591 +169243,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Inches Up on Easing Middle East Tensions — The CAC 40 edged up to close at 8,203 on Tuesday on fragile hopes of easing tensions in the Middle East. The White House suggested that a deal to end the more than three-month-old conflict with Iran could be reached within days, improving risk sentiment. Oil prices and bond yields declined, easing concerns about inflation and higher interest rates. However, the situation remained fragile, with the Strait of Hormuz effectively closed and Israel continuing strikes in Lebanon. In Europe, attention also turned to the ECB’s policy meeting on Thursday. While a quarter-point rate cut is expected, markets are focused on signals regarding the policy outlook as elevated energy prices continue to pose inflation risks. Luxury stocks rose, with LVMH rising 2%, L'Oréal adding 1.6%, and Hermès gaining 1.3%, while AXA added 1.2%. In contrast, TotalEnergies fell 1.1% as oil prices fell. STMicroelectronics shed 5.8%, tracking weakness in tech shares as investors took profits following recent rallies."
-    },
-    {
-      "id": "mkt:019ead29-3911-7cc9-8dbf-df48a4bf59ed",
-      "time": "2026-06-10 00:13:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "EIA now assumes oil shipments through the Strait of Hormuz will resume in Q3 2026. It expects traffic through the Strait will not return to pre-Iran-war levels before early 2027."
-    },
-    {
-      "id": "4926544",
-      "time": "2026-06-10 00:13:32",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利CEO：沉寂已久的投資方已開始重新開展業務。"
-    },
-    {
-      "id": "mkt:019ead28-88e0-7cc9-8dbf-d589fe7be247",
-      "time": "2026-06-10 00:12:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "EIA: US oil production is forecast to average 13.83 mln b/d in June, up from 13.71 mln b/d in May; July is forecast at 13.82 mln b/d."
-    },
-    {
-      "id": "4926543",
-      "time": "2026-06-10 00:12:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署：預計霍爾木茲海峽航運量要到 2027 年初才能恢復至伊朗局勢動盪前的水平。"
-    },
-    {
-      "id": "mkt:019ead28-361b-7448-ac08-2b88f7656640",
-      "time": "2026-06-10 00:12:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EIA forecasts U.S. natural gas production will average 122.3 billion cubic feet per day (bcf/d) in June, up slightly from May's 122.1 bcf/d; July is forecast at 122.5 bcf/d."
-    },
-    {
-      "id": "te:markets:557748",
-      "time": "2026-06-10 00:12:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.11% Higher — The FTSE MIB Index gained 55 points or 0.11 percent on Tuesday to close at 50263 points. Gains were led by Unipol Gruppo (4.40%), Mediobanca (3.10%) and Bper Banca (2.90%). Biggest losers were STMicroelectronics (-5.75%), Prysmian (-4.46%) and Tenaris (-3.09%)."
-    },
-    {
-      "id": "mkt:019ead27-c518-7448-ac08-22b9872bd7fe",
-      "time": "2026-06-10 00:11:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "MRVL.O",
-        "Impact bearish",
-        "ARM.O",
-        "QCOM.O"
-      ],
-      "text": "Philadelphia Semiconductor Index fell more than 6%; Marvell (MRVL.O) and Arm (ARM.O) dropped over 10%, Qualcomm (QCOM.O) fell over 9%, AMD (AMD.O) and Micron Technology (MU.O) declined over 7%."
-    },
-    {
-      "id": "4926542",
-      "time": "2026-06-10 00:11:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源資訊署：目前預估霍爾木茲海峽石油運輸將於 2026 年第三季度恢復。"
-    },
-    {
-      "id": "4926541",
-      "time": "2026-06-10 00:11:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守86美元/桶，日內跌5.81%。"
-    },
-    {
-      "id": "te:markets:557747",
-      "time": "2026-06-10 00:11:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.74% Lower — The DAX Index decreased 183 points or 0.74 percent on Tuesday to close at 24433 points. The decline was led by Siemens Energy (-5.92%), SAP (-2.11%) and Infineon (-2.03%). On the upside, the strongest performers were Symrise (7.46%), Henkel (2.66%) and Beiersdorf (2.47%)."
-    },
-    {
-      "id": "te:markets:557745",
-      "time": "2026-06-10 00:10:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.05% Higher — The CAC 40 Index rose 4 points or 0.05 percent on Tuesday to close at 8203 points. Leading the gains are Essilor (3.49%), Kering (2.93%) and Pernod Ricard (2.45%). Top losers were STMicroelectronics (-6.96%), ArcelorMittal (-3.98%) and Schneider Electric (-2.38%)."
-    },
-    {
-      "id": "mkt:019ead26-3b85-7448-ac08-19cf2258a7c5",
-      "time": "2026-06-10 00:09:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude slid below $89/bbl, down 4.74% intraday."
-    },
-    {
-      "id": "te:markets:557744",
-      "time": "2026-06-10 00:09:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Hits 7-week Low — Brent decreased to 89.68 USD/Bbl, the lowest since April 2026. Over the past 4 weeks, Brent Crude Oil lost 13.85%, and in the last 12 months, it increased 34.25%."
-    },
-    {
-      "id": "4926540",
-      "time": "2026-06-10 00:09:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利財長：2026 年將把結構性財政缺口控制在 GDP 的 2.6% 。"
-    },
-    {
-      "id": "mkt:019ead24-fc60-7448-ac08-12f9432c2374",
-      "time": "2026-06-10 00:08:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "EIA now forecasts global oil demand at 102.9 mln b/d in 2026, down from a prior 104.2 mln b/d; it sees 2027 demand at 105.3 mln b/d, versus 105.6 mln b/d previously."
-    },
-    {
-      "id": "mkt:019ead24-fb46-7448-ac08-0edbdfad0360",
-      "time": "2026-06-10 00:08:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "EIA June Short‑Term Energy Outlook projects U.S. crude oil production at 14.15 mln b/d next year, versus 14.10 mln b/d previously."
-    },
-    {
-      "id": "mkt:019ead24-afbc-7448-ac08-0145be1a0fcb",
-      "time": "2026-06-10 00:08:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "June EIA Short-Term Energy Outlook: US crude oil production forecast for the year 13.72 mln b/d, prior 13.65 mln b/d."
-    },
-    {
-      "id": "mkt:019ead24-af55-7448-ac07-fc5fbbc5e759",
-      "time": "2026-06-10 00:08:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Crude Oil Production Estimate (Next Year) (Jun) | actual 14150000M | previous 14100000M"
-    },
-    {
-      "id": "mkt:019ead24-9852-7448-ac07-f56ff78fe93a",
-      "time": "2026-06-10 00:08:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Crude Oil Production Estimate (Current Year) (Jun) | actual 13720000M | previous 13650000M"
-    },
-    {
-      "id": "mkt:019ead24-86bd-7448-ac07-e893ecf9a3c5",
-      "time": "2026-06-10 00:08:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EIA's June forecast for U.S. natural gas production next year: 113.6 bcf/d, down from 115.0 bcf/d previously."
-    },
-    {
-      "id": "te:markets:557742",
-      "time": "2026-06-10 00:08:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The US 100 Tech Index Hit 4-week Low — US100 decreased to 28567.00 Index Points, the lowest since May 2026. Over the past 4 weeks, US 100 Tech Index lost 2.47%, and in the last 12 months, it increased 30.32%."
-    },
-    {
-      "id": "mkt:019ead24-5883-7448-ac07-e35a54076ab1",
-      "time": "2026-06-10 00:08:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EIA June forecast for U.S. natural gas production this year: 111.0 bcf/d, up from 110.6 bcf/d previously."
-    },
-    {
-      "id": "mkt:019ead24-587d-7448-ac07-df3d58abbf3a",
-      "time": "2026-06-10 00:08:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Natural Gas Production Estimate (Next Year) (Jun) | actual 113600000000B | previous 115000000000B"
-    },
-    {
-      "id": "mkt:019ead24-28b0-7448-ac07-d51da2150ddd",
-      "time": "2026-06-10 00:08:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Natural Gas Production Estimate (Current Year) (Jun) | actual 111000000000B | previous 110600000000B"
-    },
-    {
-      "id": "4926539",
-      "time": "2026-06-10 00:07:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "隨著油價進一步下跌，美國國債收益率延續下滑趨勢。"
-    },
-    {
-      "id": "mkt:019ead23-a078-7448-ac07-cb572d3c977c",
-      "time": "2026-06-10 00:07:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EIA projects U.S. natural gas production of 111.0 Bcf/d in 2026, up from a prior 110.6 Bcf/d forecast; it now foresees 2027 demand at 113.6 Bcf/d, down from 115.0 Bcf/d previously."
-    },
-    {
-      "id": "mkt:019ead23-7f71-7448-ac07-c68c0802a88c",
-      "time": "2026-06-10 00:07:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "U.S. EIA June estimate for this year’s average Brent price: $95.39/bbl, versus $94.85/bbl previously."
-    },
-    {
-      "id": "4926538",
-      "time": "2026-06-10 00:07:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價推動加拿大出口創新高 順差額達到特朗普加關稅前以來最大】由於原油價格上漲推動出口創歷史新高，加拿大4月貿易順差進一步擴大。加拿大統計局週二公佈的資料顯示，該國4月貿易順差從3月的17.5億加元增至27.2億加元。這是加拿大連續第二個月實現貿易順差，也是2025年1月以來的最大順差額。加拿大對美國的貿易順差也創下2025年2月以來的最高水平，當時美國總統特朗普尚未對加拿大加徵關稅。加拿大4月出口總額增長1.6%，達到752億加元，增長範圍涉及多個領域。能源出口增長貢獻最大，價格上漲推動4月原油出口增長7%。"
-    },
-    {
-      "id": "mkt:019ead23-6012-7448-ac07-bfa2db5c3113",
-      "time": "2026-06-10 00:07:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "EIA's June forecast for this year's U.S. WTI average price: $88.32/bbl, prior $85.68/bbl."
-    },
-    {
-      "id": "te:markets:557741",
-      "time": "2026-06-10 00:07:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 1.25% Lower — The FTSE 100 Index dropped 130 points or 1.25 percent on Tuesday to close at 10243 points. Losses were led by Standard Chartered (-5.48%), Glencore (-4.12%) and HSBC Holdings (-4.05%)."
-    },
-    {
-      "id": "mkt:019ead22-e841-7448-ac07-b3b195eefe9c",
-      "time": "2026-06-10 00:06:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "EIA projects US crude oil production at 13.72 mln bbl/d in 2026, up from its prior 13.65 mln bbl/d forecast; 2027 output is seen at 14.15 mln bbl/d (prior 14.10)."
-    },
-    {
-      "id": "4926537",
-      "time": "2026-06-10 00:06:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局正式公佈阿爾忒彌斯三號任務四名宇航員名單。"
-    },
-    {
-      "id": "4926536",
-      "time": "2026-06-10 00:05:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗國家通訊社（IRNA）：伊朗國防部表示將加快武器生產。"
-    },
-    {
-      "id": "te:markets:557740",
-      "time": "2026-06-10 00:05:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Swing Lower — European stock indices closed lower after having spent most of the session higher, tracking the afternoon slump for US stocks as the aggressive rotation out of tech stocks rippled through demand for risk globally. The Euro STOXX 50 fell 0.2% to 6,050 and the STOXX Europe 600 dropped 0.4% to 619. Companies with exposure to software services and datacenter infrastructure dropped sharply as skepticism over the sector's rally sustainability was reignited. Infineon, SAP, Schneider, and Siemens Energy slumped between 2% and 5.5%. banks also closed lower ahead of the expected rate hike by the European Central Bank this week, denting the outlook for fragile credit activity. Santander, ING, and Nordea dropped around 1%. In London, GSK eased 0.5% mid reports that the company is in talks to acquire oncology biotech Nuvalent."
-    },
-    {
-      "id": "4926535",
-      "time": "2026-06-10 00:05:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破61000美元，日內跌3.31%。"
-    },
-    {
-      "id": "te:markets:557739",
-      "time": "2026-06-10 00:05:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "J&J Stock Price Hits 7-week High — J&J shares increased to 235.50 USD, the highest since April 2026. Over the past 4 weeks, Johnson & Johnson gained 6.31%, and in the last 12 months, it increased 50.47%."
-    },
-    {
-      "id": "4926534",
-      "time": "2026-06-10 00:04:18",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "布倫特原油價格跌破每桶 90 美元，創下 4 月 17 日以來新低。"
-    },
-    {
-      "id": "mkt:019ead20-a25f-7448-ac07-aac7400f50e5",
-      "time": "2026-06-10 00:04:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "EIA projects 2026 average Brent crude at $95.39/bbl, up from a prior $94.85/bbl; 2027 forecast unchanged at $79.39/bbl."
-    },
-    {
-      "id": "4926533",
-      "time": "2026-06-10 00:03:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守90美元/桶，日內跌4.51%。"
-    },
-    {
-      "id": "4926532",
-      "time": "2026-06-10 00:03:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署預計，2026 年美國天然氣日需求量為 921 億立方英尺，此前預測值為 912 億立方英尺；2027 年日需求量預計為 950 億立方英尺，此前預測值為 944 億立方英尺。"
-    },
-    {
-      "id": "4926531",
-      "time": "2026-06-10 00:02:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署預測，2026 年全球石油日需求量為 1.029 億桶，此前預期為 1.042 億桶；2027 年全球石油日需求量為 1.053 億桶，此前預期為 1.056 億桶。"
-    },
-    {
-      "id": "4926530",
-      "time": "2026-06-10 00:02:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署：預計2026 年全球石油日產量為 9900 萬桶，此前預測值為 1.016 億桶；2027 年全球石油日產量預計達 1.093 億桶，此前預測值為 1.095 億桶。"
-    },
-    {
-      "id": "4926529",
-      "time": "2026-06-10 00:02:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國兩年期國債收益率跌超4個基點，追隨國際油價下跌的表現】週二（6月9日）歐市尾盤，英國10年期國債收益率跌3.4個基點，報4.909%，全天處於下跌狀態，北京時間21:49重新整理日低至4.891%。兩年期英債收益率跌4.4個基點，報4.335%，一度重新整理日低至4.315%。30年期英債收益率跌2.9個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差漲0.677個基點，報+57.142個基點。"
-    },
-    {
-      "id": "mkt:019ead1e-260e-7448-ac07-a3eada1924d1",
-      "time": "2026-06-10 00:01:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX executive Jessica Jensen said the company plans to use Starship for a space-resupply demonstration in 2026."
-    },
-    {
-      "id": "4926528",
-      "time": "2026-06-10 00:01:30",
-      "tags": [
-        "資料",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國能源部維持2026-27年布油價格預期不變，上調美國產量預期】美國能源資訊署（STEO）釋出短期能源（STEO）：預計2026年布倫特原油價格95美元/桶（此前預計95美元/桶），預計2027年79美元/桶（此前預計79美元/桶）。\n預計2026年美國石油產量1370萬桶/日（此前預計1360萬桶/日），預計2027年生產1420萬桶/日（此前預計1410萬桶/日）。\n預計2026年美國液化天然氣（LNG）出口172億立方英尺/日（此前預計170億立方英尺/日），預計2027年出口186億立方英尺/日（此前預計182億立方英尺/日）。"
-    },
-    {
-      "id": "4926527",
-      "time": "2026-06-10 00:01:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX計劃在 2026 年利用星艦開展太空燃料補給演示試驗。"
-    },
-    {
-      "id": "4926526",
-      "time": "2026-06-10 00:00:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌4%，現報563.90元。"
-    },
-    {
-      "id": "te:markets:557738",
-      "time": "2026-06-09 23:58:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "P&G Stock Price Hits 4-week High — P&G shares increased to 148.57 USD, the highest since May 2026. Over the past 4 weeks, Procter & Gamble gained 3.54%, and in the last 12 months, it decreased 8.85%."
-    },
-    {
-      "id": "4926525",
-      "time": "2026-06-09 23:58:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌5%，現報86.73美元/桶。"
-    },
-    {
-      "id": "mkt:019ead1a-7e0c-7448-ac07-9e73062a2a1c",
-      "time": "2026-06-09 23:57:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Fitch said it is keeping its gold-price assumptions unchanged."
-    },
-    {
-      "id": "4926524",
-      "time": "2026-06-09 23:57:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "惠譽：黃金價格相關假設維持不變。"
-    },
-    {
-      "id": "4926523",
-      "time": "2026-06-09 23:57:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，億航跌22.39%，海天網路跌15.73%，大全新能源跌8.35%，金生遊樂跌7.72%，阿特斯跌7.28%。"
-    },
-    {
-      "id": "4926522",
-      "time": "2026-06-09 23:56:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守87美元/桶，日內跌4.72%。"
-    },
-    {
-      "id": "mkt:019ead18-6a97-7448-ac07-93a1becf27b7",
-      "time": "2026-06-09 23:55:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Fitch raises near-term metals and mining price forecasts."
-    },
-    {
-      "id": "te:markets:557737",
-      "time": "2026-06-09 23:54:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls to Over 3-Week Low — The FTSE 100 dropped more than 1% on Tuesday to its lowest level in over three weeks, pressured by broad declines across banks, healthcare and energy stocks. HSBC Holdings fell around 4%, while Standard Chartered declined more than 5%. Oil majors also weakened, with Shell down 1.8% and BP lower by 2.6%. Healthcare stocks were mixed, with AstraZeneca losing 1.1% and GSK slipping 0.3% after concerns following its $10.6 billion acquisition of cancer drug developer Nuvalent. BT shares fell more than 3% after reports that VodafoneThree is among bidders for TalkTalk’s consumer business, which serves around 1.75 million customers. On the positive side, WPP gained more than 5% after receiving a broker upgrade. Meanwhile, UK retail sales performed better than expected in May, supported by warmer weather that boosted demand for summer and outdoor products. Like-for-like sales increased 3.4%, beating forecasts of 0.8% growth."
-    },
-    {
-      "id": "4926521",
-      "time": "2026-06-09 23:54:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Salesforce啟動新一輪裁員計劃。"
-    },
-    {
-      "id": "mkt:019ead16-b8d2-7448-ac07-8c006a6b75f2",
-      "time": "2026-06-09 23:53:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "U.S. and Brent crude losses widened; Brent crude down 4% intraday, WTI crude down 4.6%."
     }
   ]
 }
