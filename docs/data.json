@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-16 12:42:26",
-  "count": 18338,
+  "updated": "2026-06-16 12:46:30",
+  "count": 18334,
   "items": [
+    {
+      "id": "mkt:019ecebc-ad76-7dd8-b020-1f4e3eeee8b7",
+      "time": "2026-06-16 12:42:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Analyst: Japan inflationary pressure persists; focus on BOJ signals for further hikes】Daiwa Institute economist Kanako Nakamura said the BOJ cited accelerated cost pass-through as a reason to tighten, noting import-cost increases from Middle East tensions, combined with an ongoing wage–price cycle, are pushing up inflation. She warned that even if oil stabilizes with progress on peace talks, cost increases have spread from plastics and ethylene into power, gas and transport, implying persistent price pressure. Markets will watch whether the BOJ issues stronger signals for further hikes; Nakamura said continued rate increases may be needed to prevent further yen depreciation amid persistent Japan–US rate differentials."
+    },
     {
       "id": "mkt:019ecebc-12ef-7dd8-b020-14699469b962",
       "time": "2026-06-16 12:41:32",
@@ -168691,52 +168704,6 @@
         "國際"
       ],
       "text": "【特朗普證實美軍直升機墜毀霍爾木茲】美國東部時間今天（6月9日）凌晨，美國總統特朗普向媒體證實，一架美軍直升機在霍爾木茲海峽墜毀，機組人員平安。特朗普稱，美方將於今天晚些時候就此事發布報告。據《紐約時報》稍早前援引兩名知情人士訊息報道，美軍一架AH-64“阿帕奇”武裝直升機在霍爾木茲海峽附近墜毀，機上兩名機組人員安全獲救。報道稱，目前還不清楚這架直升機是被炮火擊落，還是發生機械故障或遇到了其他問題。"
-    },
-    {
-      "id": "te:markets:557494",
-      "time": "2026-06-09 12:46:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Remains Vulnerable — The Indonesian rupiah weakened to a near-record low of around IDR 18,170 per U.S. dollar on Tuesday, extending its losing streak to a sixth consecutive session. The drop came even as the U.S. dollar eased from a nine-week peak after Iran and Israel agreed to halt attacks, calming geopolitical tensions. Domestic strains kept pressure on the local currency, with May’s foreign reserves falling further, bond yields climbing, and import costs rising, underscoring external vulnerabilities. Concerns also deepened after reports that Washington may phase in an 18% tariff on Indonesian goods from July 24, threatening export competitiveness and capital flows. Traders largely shrugged off a sharp rise in tax revenue in the first five months of 2026, which officials touted as evidence of a stronger economy. The rupiah has now lost nearly 9% year-to-date, cementing its position as Asia’s weakest currency despite Bank Indonesia’s surprise 50bp rate hike to 5.25% in May, its first increase since 2022."
-    },
-    {
-      "id": "4925198",
-      "time": "2026-06-09 12:44:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "全球晶片LOF、財通福鑫定開混合將於2026年6月9日下午開市起停牌至當日收市。"
-    },
-    {
-      "id": "mkt:019eaab1-94b9-7eec-b848-c9fb9776bbfe",
-      "time": "2026-06-09 12:43:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Caitong Fuxin fixed-open mixed fund suspended from the afternoon open on June 9, 2026 until market close."
-    },
-    {
-      "id": "mkt:019eaab1-588d-7eec-b848-c15053a889fd",
-      "time": "2026-06-09 12:43:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Global Chip LOF will suspend trading from the opening of the afternoon session on June 9, 2026 through that day’s close; redemptions will be processed as normal during the suspension."
-    },
-    {
-      "id": "4925197",
-      "time": "2026-06-09 12:42:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "檔案顯示，豐田發明合夥公司持有自動駕駛初創企業Tier IV 1.0%的股份。"
     }
   ]
 }
