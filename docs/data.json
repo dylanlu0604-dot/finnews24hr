@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-16 16:33:34",
-  "count": 18385,
+  "updated": "2026-06-16 16:37:39",
+  "count": 18381,
   "items": [
+    {
+      "id": "mkt:019ecf93-5f82-7dd8-b027-d66c9aab0d99",
+      "time": "2026-06-16 16:36:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said the next round of talks will address uranium enrichment, Iran's nuclear stockpiles and its nuclear requirements."
+    },
+    {
+      "id": "mkt:019ecf93-232d-7dd8-b027-ce19efa8f730",
+      "time": "2026-06-16 16:36:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "EIB president says the EU is discussing measures to give the European Investment Bank a major role in Ukraine's post-war reconstruction."
+    },
+    {
+      "id": "te:economy:559307",
+      "time": "2026-06-16 16:36:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Azerbaijan",
+        "Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "Azerbaijan Monthly Inflation Rate at 10-Month Low — Azerbaijan's monthly inflation eased to 0.1% in May 2026, slowing for a fourth consecutive month and marking the lowest level in ten months, down from 0.3% in April. Contributing to the slowdown was a cooling in food inflation, which declined by 0.1% after a 0.3% increase in the prior month, namely buckwheat, beef and mutton, sausage and cheese products. Inflation for alcoholic beverages stood at 0.2% and tobacco prices remained unchanged. Non-food products also moderated, increasing 0.1% following 0.2% increase, mainly for paint, plastic pipes, detergents and personal hygiene products. Meanwhile, paid services prices eased to 0.2% from 0.3%, despite price increases for international passenger transportation services by air. On an annual basis, consumer prices increased 5.6%, slightly up from 5.5% in April."
+    },
+    {
+      "id": "4938185",
+      "time": "2026-06-16 16:35:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長塔赫特-拉萬奇表示，下一階段談判將討論的核問題包括鈾濃縮、庫存以及伊朗的核需求。"
+    },
+    {
+      "id": "4938183",
+      "time": "2026-06-16 16:35:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱賽生物：董事會秘書變更 臧慧卿離任鄭倩接任】凱賽生物公告稱，因公司戰略發展需要，副董事長、副總裁、董事會秘書臧慧卿於2026年6月16日申請辭去董事會秘書職務，仍繼續擔任公司副董事長等職務。公司於6月16日召開會議，審議透過聘任鄭倩為公司董事會秘書，任期與第三屆董事會一致。鄭倩已取得相關資格證書，符合任職條件。"
+    },
+    {
+      "id": "4938182",
+      "time": "2026-06-16 16:35:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲投資銀行：歐盟層面正在討論相關倡議，擬讓歐洲投資銀行在烏克蘭戰後重建中發揮重要作用。"
+    },
+    {
+      "id": "4938181",
+      "time": "2026-06-16 16:34:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗副外長：卡利巴夫將出席伊美諒解備忘錄簽署儀式】據伊朗塔斯尼姆通訊社16日報道，伊朗副外長拉萬奇當天表示，伊朗伊斯蘭議會議長卡利巴夫和美國副總統萬斯將出席伊美諒解備忘錄的簽署儀式。（新華社）"
+    },
+    {
+      "id": "4938180",
+      "time": "2026-06-16 16:34:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優信集團：一季度零售交易量16530輛 同比增長119.1%】北京時間6月16日，二手車零售商優信集團（納斯達克：UXIN）釋出截至2026年3月31日的未經審計季度業績報告。財報顯示，公司2026年第一季度實現總收入10.74億元，同比增長112.9%；二手車總交易量為18211輛，同比增長120.4%，其中零售交易量為16530輛，同比增長119.1%，連續八個季度同比增速超過110%。"
+    },
+    {
+      "id": "4938179",
+      "time": "2026-06-16 16:34:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國聯合工會：成功為普雷斯特威克機場員工談判達成薪酬協議，避免了罷工行動的威脅。"
+    },
+    {
+      "id": "4938178",
+      "time": "2026-06-16 16:33:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數漲幅擴大至0.6%，創盤中新高。"
+    },
     {
       "id": "mkt:019ecf8f-ac7f-7dd8-b027-c0cf499e00be",
       "time": "2026-06-16 16:32:39",
@@ -169139,121 +169231,6 @@
         "公司"
       ],
       "text": "【金龍魚等在上海成立食品公司 註冊資本1000萬】\n天眼查App顯示，近日，豐廚金誠（上海）食品有限公司成立，法定代表人為任世俊，註冊資本1000萬人民幣，經營範圍包括食品銷售、供應鏈管理服務、國際貨物運輸代理等，由金龍魚（300999）、上海得泰途供應鏈管理有限公司、上海世妍金信商務諮詢合夥企業（有限合夥）共同持股。"
-    },
-    {
-      "id": "4925637",
-      "time": "2026-06-09 16:37:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空總裁：目前替代燃料已實現商業化應用，但推廣普及速度需要大幅加快。"
-    },
-    {
-      "id": "4925636",
-      "time": "2026-06-09 16:37:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美伊談判進入“最後關頭”】美國總統特朗普9日說，美國與伊朗的談判已進入“最後關頭”，將在“兩到三天內”達成協議。特朗普9日在紐約肯尼迪國際機場接受記者採訪時說，以色列和伊朗此前“來回交鋒”，如今“同意停火”，“我們正處在最後關頭，將達成一份非常、非常棒的協議”。當被問及談判還需耗時多久，特朗普回答：“兩到三天。”當地時間7日晚至8日，伊朗與以色列爆發自4月上旬美以伊宣佈停火以來最大規模交火。8日晚些時候，伊朗與以色列先後宣佈停止對對方的襲擊。特朗普近期多次表示即將與伊朗達成協議，但截至目前都沒有達成。（新華社）"
-    },
-    {
-      "id": "4925635",
-      "time": "2026-06-09 16:37:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【空客計劃組建德企主導聯盟，替代瀕臨夭折的戰鬥機專案】由空客牽頭的一個由八家航空航天和國防公司組成的集團，正計劃組建一個聯盟，以開發一個由德國主導的歐洲替代方案，取代瀕臨夭折的下一代法德戰鬥機。據市場訊息，空客防務與航天公司（Airbus Defence and Space）、Autoflug、迪爾防務公司（Diehl Defence）、亨索爾特公司（Hensoldt）、利勃海爾公司（Liebherr）、歐洲導彈集團（MBDA）、MTU航空發動機公司（MTU Aero Engines）和羅德與施瓦茨公司（Rohde & Schwarz）於本週早些時候向德國總理弗里德里希·默茨的辦公室和國防部長鮑里斯·皮斯托裡烏斯致信，提出了這一設想。據知情人士透露，該集團將於本週晚些時候在柏林國際航空航天展覽會上宣佈成立名為\"第六代團隊\"的聯盟。"
-    },
-    {
-      "id": "4925634",
-      "time": "2026-06-09 16:36:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空總裁：如果這場危機持續太久，將會出現行業洗牌出局者，廉價航空領域很可能會首當其衝。"
-    },
-    {
-      "id": "mkt:019eab86-feb0-7cc2-9c83-339e70b1597c",
-      "time": "2026-06-09 16:36:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Palestinian sources say Hamas may sign an agreement in Cairo to transfer weapons to Palestinian security forces in Gaza."
-    },
-    {
-      "id": "4925633",
-      "time": "2026-06-09 16:36:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小紅書世界盃預約人數達3000萬】6月9日下午訊息，資料顯示，小紅書上線世界盃專屬頻道後，平臺已有3000萬使用者完成觀賽預約，足球相關內容釋出量同比增長超2倍。（新浪科技）"
-    },
-    {
-      "id": "4925632",
-      "time": "2026-06-09 16:36:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴勒斯坦方面訊息：一份協議檔案或將在開羅簽署，根據該協議，哈馬斯同意向加沙地帶的巴勒斯坦安全機構移交武器。"
-    },
-    {
-      "id": "4925631",
-      "time": "2026-06-09 16:36:41",
-      "tags": [
-        "行業"
-      ],
-      "text": "乘聯分會：一汽-大眾與上汽大眾5月在中國市場合計銷量為139,450輛乘用車。"
-    },
-    {
-      "id": "4925630",
-      "time": "2026-06-09 16:36:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科拓生物：首次回購0.2467%公司股份，成交總金額為人民幣989.4萬元】科拓生物公告，2026年6月8日，公司首次透過回購專用證券賬戶以集中競價交易方式回購公司股份65萬股，佔公司當前總股本的0.2467%，最高成交價為15.54元/股，最低成交價為15.01元/股，成交總金額為人民幣989.4萬元（不含交易費用）。"
-    },
-    {
-      "id": "4925629",
-      "time": "2026-06-09 16:35:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【赫美集團：公司無鵬飛重卡業務】赫美集團6月9日在互動平臺表示，公司無鵬飛重卡業務。"
-    },
-    {
-      "id": "4925628",
-      "time": "2026-06-09 16:34:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空總裁：由於額外加註了燃油，我們的飛機在偏離目的地後最多仍可額外飛行五小時，以防萬一。"
-    },
-    {
-      "id": "4925627",
-      "time": "2026-06-09 16:34:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST華誼：控股股東2800萬股股份司法拍賣完成 結果存不確定性】ST華誼公告稱，控股股東王忠軍持有的2800萬股公司股票於6月8 - 9日在京東網路司法拍賣平臺公開拍賣，已完成拍賣，成交金額5654.80萬元，競買人為疆北星辰（上海）企業管理合夥企業（有限合夥）。此次拍賣尚涉及餘款繳納、法院裁定、股權過戶等環節，結果不確定。若王忠軍所持6800萬股股份拍賣成功並過戶，公司實控人及其一致行動人持股佔比5.41%，仍是第一大股東，但存在控制權不穩定風險。"
-    },
-    {
-      "id": "mkt:019eab84-a475-7cc2-9c83-2d79740c054f",
-      "time": "2026-06-09 16:34:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【CSSC Special Gas: 47L cylinders of 6N-grade tungsten hexafluoride quoted at about 2,000-2,500 yuan/kg】Upstream tungsten raw-material tightening has continued to push high-purity tungsten hexafluoride (WF6) prices higher. CSSC Special Gas said its 6N-grade WF6 for semiconductor use, packaged in 47L cylinders, is being quoted at roughly 2,000-2,500 yuan/kg; the company reported capacity and orders are at full utilization while fulfilling domestic and overseas customer orders."
-    },
-    {
-      "id": "4925626",
-      "time": "2026-06-09 16:34:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華爾街基金巨鱷直言：英偉達市值仍被低估】億萬富翁投資者、華爾街對沖基金大鱷Dan Loeb認為英偉達的估值被低估了，其盈利能力被投資者忽視。他進一步解釋稱，英偉達的龐大規模已經成為投資者心中的一道心理障礙，尤其是對於對沖基金以及多空策略投資者而言。由於其巨大的估值，他們本能地認為該股“順理成章”就應該成為做空目標。"
     }
   ]
 }
