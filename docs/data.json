@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-17 03:52:55",
-  "count": 18430,
+  "updated": "2026-06-17 03:56:49",
+  "count": 18433,
   "items": [
+    {
+      "id": "4939319",
+      "time": "2026-06-17 03:55:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 出於安全考量，微軟放棄了一份價值 30 億美元、租賃甲骨文雲算力的合作協議。"
+    },
+    {
+      "id": "mkt:019ed200-498b-7dd8-b039-c0e6cfdec733",
+      "time": "2026-06-17 03:54:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Equatorial Guinea cabinet submits collective resignation】Equatorial Guinea Vice-President Mangue said on social media on the evening of the 16th that Prime Minister Manuel Osa Nsue Nsua submitted a collective resignation of all cabinet members to the president that day. Mangue said a review found the government's completion rate of its set targets was \"barely 10%\". He said the state had committed substantial human, material and financial resources to meet public needs but execution fell well short of expectations and promises, and called for a more dynamic, efficient and people-focused administration."
+    },
+    {
+      "id": "4939318",
+      "time": "2026-06-17 03:54:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【赤道幾內亞內閣集體辭職】赤道幾內亞副總統曼格16日晚在社交媒體發文說，赤幾總理曼努埃爾·奧薩·恩蘇埃·恩蘇阿當天向總統提交了所有內閣成員的集體辭呈。曼格表示，此前經評估確認，本屆政府既定目標的完成率僅“勉強達到10%”。他說：“國家為政府配置了大量人力、物力和財力資源以滿足民眾需求，但目前的執行程度與預期及所作承諾相比差距較大。”曼格表示，赤道幾內亞需要一個更具活力、更高效、更貼近民眾需求的行政機構。（新華社）"
+    },
+    {
+      "id": "mkt:019ed200-0c19-7dd8-b039-bd0a750a6852",
+      "time": "2026-06-17 03:54:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish",
+        "ORCL.N"
+      ],
+      "text": "Business Insider reports Microsoft (MSFT.O) abandoned a $3 billion cloud capacity lease with Oracle (ORCL.N) over security concerns."
+    },
     {
       "id": "4939317",
       "time": "2026-06-17 03:48:24",
@@ -169539,15 +169578,6 @@
         "Impact bearish"
       ],
       "text": "【Iran deputy foreign minister: IAEA must not be used to whitewash military aggression】Al Jazeera reported Iran’s deputy foreign minister for legal and international affairs, Gharibabadi, called a US-drafted IAEA board resolution — which seeks Iran’s explanation for recent bombings of nuclear sites and the disposition of enriched uranium stored there — an attempt to whitewash the attackers’ responsibility. He said IAEA inspectors have left Iran after strikes by Israel and the US, accused those strikes of undermining nuclear safety and verification of safeguarded facilities, and warned the board must not be used to shift the cost of military aggression onto the victim."
-    },
-    {
-      "id": "mkt:019eadf2-f23d-7225-91aa-de52d0395f8b",
-      "time": "2026-06-10 03:54:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "According to Al Jazeera, Iran’s deputy foreign minister said Tehran was not behind the attack over the Strait of Hormuz that targeted a US Apache helicopter."
     }
   ]
 }
