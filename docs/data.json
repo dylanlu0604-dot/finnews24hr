@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-16 23:36:17",
-  "count": 18373,
+  "updated": "2026-06-16 23:40:27",
+  "count": 18376,
   "items": [
+    {
+      "id": "te:markets:559401",
+      "time": "2026-06-16 23:39:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "US Stocks Trade Mixed — US equities were mixed on Tuesday as broad-based support from the deal between the US and Iran offset a fresh pullback for the AI infrastructure sector. The S&P 500 edged below the flatline. The Dow rose 400 points to a new record, but losses in tech drove the Nasdaq to fall 1.3%. Despite inconsistencies in the terms of the deal, the US and Iran were still due to sign the agreement on Friday, with US authorities stating the Strait of Hormuz will reopen. Bond yields pulled back further as the development softened pro-inflationary concerns ahead of the Fed's likely rate hold tomorrow, although Chairman Warsh may continue to push for monetary framework overhauls and a lower balance sheet. JPMorgan jumped 3.2% and Visa gained 2%. SpaceX gained 8% to rise 40% since its IPO on Friday following news it will acquire Cursor for $60 billion. On the other hand, markets took profits from speculative positions in chip producers. Broadcom, Micron, AMD, and Intel lost up to 6%, while Nvidia fell 2%."
+    },
+    {
+      "id": "mkt:019ed116-8272-7dd8-b035-ee093412abe5",
+      "time": "2026-06-16 23:39:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "CNN, citing three people familiar with U.S. intelligence assessments, reports that U.S. agencies have recently concluded Iran can now, at any time, effectively close the Strait of Hormuz to shipping. The assessment says the war has given Iran a powerful new capability to affect the global economy."
+    },
+    {
+      "id": "mkt:019ed116-1f0e-7dd8-b035-e4b0be847f40",
+      "time": "2026-06-16 23:39:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equity indices closed higher on June 16: Germany's DAX rose 7.74 points (0.03%) to 24,911.16; the UK's FTSE 100 gained 63.75 points (0.61%) to 10,494.37; France's CAC 40 added 63.26 points (0.75%) to 8,447.27; STOXX Europe 50 advanced 26.72 points (0.43%) to 6,256.15; Spain's IBEX 35 rose 121.66 points (0.64%) to 19,153.66; Italy's FTSE MIB climbed 595.55 points (1.15%) to 52,431.50."
+    },
+    {
+      "id": "4939118",
+      "time": "2026-06-16 23:38:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【第十七屆夏季達沃斯論壇準備就緒 主題聚焦“規模化創新”】6月16日訊息，世界經濟論壇第十七屆新領軍者年會（2026大連夏季達沃斯論壇）新聞釋出會在北京舉辦。釋出會公佈了本屆論壇舉辦安排：2026大連夏季達沃斯論壇將於6月23日至25日在大連國際會議中心舉行，目前各項籌備工作已基本就緒。國家發改委國際合作司副司長高瑋琪介紹，今年年會以“規模化創新”為主題，將共同探索應對全球性挑戰、推動創新發展的路徑與方法，期待透過年會向國際社會展示中國經濟高質量發展的顯著成效，傳遞中國開放合作的堅定信心。"
+    },
+    {
+      "id": "mkt:019ed115-42cf-7dd8-b035-dc58cd02ad51",
+      "time": "2026-06-16 23:38:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A statement said extremist group Islamic State claimed responsibility for an attack on a Syrian Interior Ministry camp in Raqqa."
+    },
+    {
+      "id": "4939117",
+      "time": "2026-06-16 23:37:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌擬重組其在阿根廷瓦卡穆爾塔的業務。"
+    },
+    {
+      "id": "4939116",
+      "time": "2026-06-16 23:36:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊斯蘭國宣稱對敘利亞拉卡的內政部營地襲擊事件負責。"
+    },
+    {
+      "id": "4939115",
+      "time": "2026-06-16 23:36:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Databricks達成收購Panther AI安全運營平臺的協議。"
+    },
     {
       "id": "mkt:019ed111-a7b3-7dd8-b035-d3e82b7ac473",
       "time": "2026-06-16 23:34:15",
@@ -169071,55 +169151,6 @@
         "Impact bearish"
       ],
       "text": "Airbus Defence CEO said the Future Combat Air System fighter project is deadlocked."
-    },
-    {
-      "id": "te:markets:557736",
-      "time": "2026-06-09 23:39:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "GSCI Hits 7-week Low — GSCI decreased to 681.25 Index Points, the lowest since April 2026. Over the past 4 weeks, GSCI Commodity Index lost 8.3%, and in the last 12 months, it increased 25.6%."
-    },
-    {
-      "id": "mkt:019ead09-33c6-7448-ac07-4d8cd04e796e",
-      "time": "2026-06-09 23:38:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equities on June 9: Germany's DAX fell 218.10 points (-0.89%) to 24,423.75; UK's FTSE 100 declined 141.59 points (-1.36%) to 10,231.61; France's CAC 40 rose 4.14 points (0.05%) to 8,203.43; Euro STOXX 50 dropped 10.84 points (-0.18%) to 6,051.45; Spain's IBEX 35 slipped 44.77 points (-0.25%) to 18,178.33; Italy's FTSE MIB gained 68.37 points (0.14%) to 50,276.50."
-    },
-    {
-      "id": "4926511",
-      "time": "2026-06-09 23:38:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌2.01%，現報25408.876點；道指跌0.62%，現報50469.352點；標普500指數跌1.15%，現報7320.590點。"
-    },
-    {
-      "id": "mkt:019ead08-8f6d-7448-ac07-47fe69602034",
-      "time": "2026-06-09 23:37:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NASA says the Artemis III mission will not take place before this time next year."
-    },
-    {
-      "id": "4926510",
-      "time": "2026-06-09 23:37:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局：阿爾忒彌斯三號任務最早也要到明年此時才能實施。"
     }
   ]
 }
