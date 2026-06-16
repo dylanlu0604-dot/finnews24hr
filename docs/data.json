@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-17 06:49:39",
-  "count": 18339,
+  "updated": "2026-06-17 06:53:31",
+  "count": 18342,
   "items": [
+    {
+      "id": "4939375",
+      "time": "2026-06-17 06:52:59",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽重開後卡達擬快速恢復天然氣生產】美國方面16日訊息顯示，經營卡達最大液化天然氣設施的卡達能源公司已經告知其客戶，準備在霍爾木茲海峽重開後一個月內把產能恢復至戰前的五成，兩個月內提升至八成。（央視）"
+    },
+    {
+      "id": "4939374",
+      "time": "2026-06-17 06:52:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、五月經濟執行總體平穩向新向優（權威釋出）\n2、2026中美地方合作對話會在鄭州舉行\n3、封關以來，新增經營主體17.21萬家，同比增長61.07% 三個場景看海南自貿港新變化（探訪）\n4、探訪湖北宜昌迴圈全鏈條一體化產業園——一塊廢舊電池的“再生”（經濟聚焦·關注迴圈經濟）\n5、從採出液到合格成品原油，全鏈條自動調控——油田生產“算”出來\n6、前5月綜保區進出口值3.5萬億元 佔全國進出口總值的16.9%\n7、端午節假期全國口岸日均出入境人員將達220萬人次\n8、京東將人工智慧技術融入供應鏈 把算力熱度轉化為產業厚度\n9、雄安空天資訊創新技術大賽決賽啟動\n10、融入光伏發電、透水磚、雨水收集等多項技術——新加坡百年店屋煥發綠色新生機\n11、燃油價格上漲 供應鏈條不穩 全球航空業增長面臨挑戰\n12、給汽車“捲尺寸”降降溫（小經說汽車）\n13、擦亮“中國服務”品牌（產經視野）\n14、全球規模最大四季低溫汽車試驗場即將在黑龍江黑河市實現整體運營 “一季”向“四季”，“凍”能變“動”能（探訪全球第一）。"
+    },
+    {
+      "id": "4939373",
+      "time": "2026-06-17 06:51:59",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平同緬甸總統敏昂萊會談\n2、加強新時代黨的建設的根本遵循——論學習貫徹習近平黨建思想\n3、鍛造更加堅強有力的馬克思主義執政黨——習近平黨建思想為深入推進新時代黨的建設新的偉大工程指明方向\n4、李強趙樂際分別會見緬甸總統敏昂萊\n5、趙樂際主持召開十四屆全國人大常委會第六十八次委員長會議 決定十四屆全國人大常委會第二十三次會議6月23日至26日在京舉行\n6、王滬寧會見尼泊爾外交部長希西爾\n7、韓正出席第七屆跨國公司領導人青島峰會開幕式並致辭。"
+    },
+    {
+      "id": "te:economy:559452",
+      "time": "2026-06-17 06:51:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Current Account",
+        "Importance 2"
+      ],
+      "text": "New Zealand Q1 Current Account Deficit Close to Estimates — New Zealand posted a current account deficit of NZD 1.01 billion in the first quarter of 2026, narrowing from a downwardly revised NZD 5.64 billion in the previous quarter but widening from a NZD 0.71 billion deficit a year earlier. The figure was slightly smaller than market expectations of a NZD 1.03 billion gap."
+    },
+    {
+      "id": "mkt:019ed2a1-f309-7dd8-b03a-ec0ba993a975",
+      "time": "2026-06-17 06:51:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Russia says it seized Donetsk settlement; Ukraine says it struck Moscow refinery】Russian defence ministry said over the past day its forces struck Ukrainian energy and transport infrastructure and sites used to assemble, store and launch long-range drones. It said Russian air defences shot down 12 guided aerial bombs, two \"Flamingo\" missiles and 491 fixed-wing drones, and that Russian forces seized a settlement in Donetsk region. The Ukrainian General Staff said there were 228 engagements on the front over the past day and that Ukrainian forces shot down 2,062 Russian drones. It said Ukrainian long-range strikes hit a Moscow refinery, the Tula Instrument Design Bureau and other Russian targets."
+    },
     {
       "id": "4939372",
       "time": "2026-06-17 06:46:19",
@@ -168656,24 +168709,6 @@
         "焦點"
       ],
       "text": "今天《人民日報》頭版的主要內容有：\n1、習近平和彭麗媛參謁中朝友誼塔\n2、結束對朝鮮國事訪問 習近平回到北京 離開前出席金正恩舉行的歡送儀式\n3、習近平夫婦出席金正恩夫婦舉行的小範圍午宴\n4、習近平參訪朝鮮勞動黨中央幹部學校\n5、習近平同喬治亞總統卡韋拉什維利就中格建交34週年互致賀電並共同宣佈將雙邊關係提升為全面戰略伙伴關係\n6、習近平向加拿大新任總督路易絲·阿伯致賀電。"
-    },
-    {
-      "id": "4926771",
-      "time": "2026-06-10 06:53:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【戰火重燃 美軍報復性打擊伊朗 伊南部多地發生爆炸】美國東部時間9日17時，美軍對伊朗發動“自衛性”打擊，以回應前一天美軍“阿帕奇”直升機被擊落事件。伊朗霍爾木茲甘省多地發生爆炸，部分地區防空系統啟動，但伊朗官方目前暫無回應。與此同時，美官員釋放訊息稱，此次打擊旨在向伊朗發出警告訊號，行動不會干擾美伊談判程序。（央視新聞）"
-    },
-    {
-      "id": "4926770",
-      "time": "2026-06-10 06:51:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4260美元/盎司，日內跌0.62%。"
     }
   ]
 }
