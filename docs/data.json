@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-16 12:25:59",
-  "count": 18321,
+  "updated": "2026-06-16 12:30:01",
+  "count": 18319,
   "items": [
+    {
+      "id": "4937728",
+      "time": "2026-06-16 12:29:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【分析師：除非日本央行釋放出近期再次加息的強烈訊號，否則日元可能維持160附近波動】ING駐首爾的日本及韓國高階經濟學家MIN JOO KANG：市場對日本央行此次決定公佈後的初步反應有限，這可以理解，因為25個基點的加息已被廣泛預期並已計入市場價格。不過值得注意的是(雖然也並非完全出乎意料)，此次出現了反對票，這將使市場持續關注下一次加息的時點。目前，多數市場參與者都在等待央行副行長內田真一的講話，以更清晰地判斷未來的加息路徑；日元的短期走勢將取決於內田言論的鷹派程度。我們認為，除非內田釋放出近期再次加息的強烈訊號，否則日元可能維持160附近波動。"
+    },
+    {
+      "id": "mkt:019eceaf-46cf-7dd8-b01f-6b3d6cfdb8ff",
+      "time": "2026-06-16 12:27:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【ING: Market reaction to BOJ decision muted; dissent keeps watchers cautious】ING senior economist for Japan and Korea Min Joo Kang said market reaction to the Bank of Japan's decision was limited because a 25bp hike was widely priced. The appearance of a dissenting vote, though not unexpected, will keep observers cautious on the timing of the next move. Market participants are awaiting remarks from BOJ deputy governor Uchida Shinichi for clearer signals on the tightening path; the yen's near-term direction will depend on how hawkish Uchida sounds. ING sees the yen likely to hover around the 160 level unless Uchida signals a near-term follow-up rate increase."
+    },
+    {
+      "id": "4937727",
+      "time": "2026-06-16 12:27:15",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "澳元兌美元在澳洲聯儲政策決議前下跌0.29%至0.7051美元。"
+    },
+    {
+      "id": "mkt:019eceaf-00af-7dd8-b01f-66e7553625ee",
+      "time": "2026-06-16 12:27:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK"
+      ],
+      "text": "【Alibaba launches first embodied large-model Qwen‑Robot series】Alibaba (09988.HK) released the Qwen‑Robot series, the Qianwen family's first complete embodied-intelligence large models. The suite includes Qwen‑RobotManip (VLA operation model), Qwen‑RobotNav (VLN navigation model) and Qwen‑RobotWorld (world model). Alibaba says the three models — described as a dexterous 'hand', navigational 'foot' and cognitive 'brain' — can be deployed individually or together to provide a common foundation for real-world robot applications."
+    },
     {
       "id": "4937726",
       "time": "2026-06-16 12:24:27",
@@ -168502,64 +168544,6 @@
         "國際"
       ],
       "text": "20年期日本政府國債（JGB）收益率下跌1個基點，至3.625%。"
-    },
-    {
-      "id": "mkt:019eaaa4-d1dd-7eec-b848-88f00b43ec8f",
-      "time": "2026-06-09 12:29:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI index extended intraday gains to 7%, trading at 8,010.40."
-    },
-    {
-      "id": "4925183",
-      "time": "2026-06-09 12:28:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數上漲3.9%，至5552.90點。"
-    },
-    {
-      "id": "4925182",
-      "time": "2026-06-09 12:28:19",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數飆升7%，收復8000點關口。"
-    },
-    {
-      "id": "mkt:019eaaa3-3a43-7eec-b848-832502ab073e",
-      "time": "2026-06-09 12:28:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI index returned above the 8,000 level, rising nearly 7% intraday."
-    },
-    {
-      "id": "4925181",
-      "time": "2026-06-09 12:27:12",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【機構稱市場上漲大方向不變，有望再創新高，A500ETF南方（159352）獲淨申購1.13億元】6月9日，A股主要指數上漲，截止午盤，A500ETF南方（159352）漲幅0.7%，成交額21億元。資金流向方面，昨日資金逆勢逢低佈局，A500ETF南方（159352）獲得淨申購1.13億元，最新規模286億元。國泰海通表示，雖然海外局勢反覆或對國內交易側產生擾動，但夏日“陣雨”的衝擊不會太長，二三季度中國股市還會有不錯的表現，有望走出新高，四季度需要更穩健。光大證券認為，A股短線或有再平衡壓力，但是市場大方向仍然有望上行，一方面，基本面仍然是背後最為穩健的支撐，另一方面，AI產業趨勢方興未艾，在基本面未有明顯擾動背景下，股價仍有上行空間，宏觀因素衝擊反而將創造出更好的買入機會。國信證券指出，從市場層面來看，市場交易擁擠度已處於相對高位，不排除部分資金獲利了結、投資者分歧加大的可能，市場或進入“震盪整固+內部分化”階段。但交易擁擠僅為階段性情緒特徵，並非行情反轉的核心訊號，行情走向仍取決於產業景氣能否持續。資料顯示，A500ETF南方（159352）緊密跟蹤的中證A500指數覆蓋A股大中盤優質龍頭企業，重點佈局新質生產力，憑藉規模、流動性等方面優勢，或是助力資金佈局後市機會的有力工具。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
-    },
-    {
-      "id": "te:markets:557488",
-      "time": "2026-06-09 12:27:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Coal Jumps as Indonesia Tightens Export Curbs — Thermal coal futures climbed above $150 per ton, reaching their highest level since September 2023 after Indonesia tightened export controls on commodities, a move expected to delay coal shipments from the country. The decision came amid stronger seasonal demand, with summer heat boosting electricity consumption for air conditioning. Ongoing disruptions linked to the Middle East conflict also continued to support coal prices, as the prolonged closure of the Strait of Hormuz forced Asian and European energy importers to seek alternatives to natural gas supplies from the Persian Gulf. Japan and South Korea, in particular, have increased their consumption of coal since the outbreak of the war. Qatar’s Ras Laffan facility has declared force majeure, removing nearly 10.2 Mtpa of LNG supply to Asia, with the partial shutdown expected to last through late summer."
     }
   ]
 }
