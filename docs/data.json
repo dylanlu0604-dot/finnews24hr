@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-16 23:44:36",
-  "count": 18377,
+  "updated": "2026-06-16 23:48:43",
+  "count": 18387,
   "items": [
+    {
+      "id": "4939131",
+      "time": "2026-06-16 23:47:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶馬集團2026年展望：預計汽車業務板塊交付量較上年小幅下降（此前預期為與上年持平）。"
+    },
+    {
+      "id": "4939130",
+      "time": "2026-06-16 23:47:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：投資者大舉加槓桿押注SpaceX，該股上市首日槓桿交易成交額突破10億美元，市場爭相放大對這宗史上最大IPO的押注規模，凸顯散戶投資者極高的參與熱情。"
+    },
+    {
+      "id": "mkt:019ed11d-e1ce-7dd8-b036-23f372df8d22",
+      "time": "2026-06-16 23:47:36",
+      "tags": [
+        "MKT News",
+        "BMW.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "BMW expects pre-tax profit to decline sharply YoY."
+    },
+    {
+      "id": "mkt:019ed11d-a501-7dd8-b036-1d8d2693ffea",
+      "time": "2026-06-16 23:47:21",
+      "tags": [
+        "MKT News",
+        "BMW.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "BMW now expects automotive EBIT margin of 1–3% for the current financial year, down from a prior 4–6% forecast."
+    },
+    {
+      "id": "4939129",
+      "time": "2026-06-16 23:47:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶馬集團：預計稅前利潤較去年大幅下滑。"
+    },
+    {
+      "id": "4939128",
+      "time": "2026-06-16 23:46:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶馬集團：汽車業務全年息稅前利潤率預期調整至1%-3%，此前預期為4%-6%。"
+    },
+    {
+      "id": "mkt:019ed11c-ca00-7dd8-b036-1752341a75b8",
+      "time": "2026-06-16 23:46:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iran's Press TV, President PEZESHKIAN said a consensus with the US is a key step toward a ceasefire and negotiations, but a final agreement has yet to be reached."
+    },
+    {
+      "id": "4939127",
+      "time": "2026-06-16 23:46:08",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "寶馬集團：下調2026年度業績預期。"
+    },
+    {
+      "id": "te:markets:559402",
+      "time": "2026-06-16 23:46:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Progressive Stock Price Hits 4-week High — Progressive shares increased to 206.29 USD, the highest since May 2026. Over the past 4 weeks, Progressive gained 1.07%, and in the last 12 months, it decreased 22.61%."
+    },
+    {
+      "id": "4939126",
+      "time": "2026-06-16 23:45:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5月份俄羅斯盧布實際有效匯率環比上漲4.8%。"
+    },
+    {
+      "id": "4939125",
+      "time": "2026-06-16 23:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基與美、德領導人會晤討論防務合作】烏克蘭總統澤連斯基16日分別與美國總統特朗普和德國總理默茨舉行會晤，重點討論了防務合作事宜，尤其是加強對烏反導、防空方面的支援。"
+    },
+    {
+      "id": "4939124",
+      "time": "2026-06-16 23:45:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗總統：與美方達成的共識是邁向停火與談判的關鍵一步，最終協議仍有待敲定。"
+    },
+    {
+      "id": "mkt:019ed11b-b9b2-7dd8-b036-084a8cf43332",
+      "time": "2026-06-16 23:45:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "The Russian ruble's real effective exchange rate rose 4.8% MoM in May."
+    },
+    {
+      "id": "mkt:019ed11b-75ae-7dd8-b036-03c91684b75c",
+      "time": "2026-06-16 23:44:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Politico, citing two people familiar with the matter, reports organizers of the 2028 Los Angeles Olympics are coordinating with the Trump administration to hold a tournament at Trump National Golf Club Los Angeles on the eve of the Games. Organizers view maintaining good relations with the White House as crucial to delivering the event."
+    },
     {
       "id": "4939123",
       "time": "2026-06-16 23:42:26",
@@ -169123,42 +169256,6 @@
         "Brent"
       ],
       "text": "EIA to release monthly Short-Term Energy Outlook (STEO) in 10 minutes."
-    },
-    {
-      "id": "mkt:019ead12-0b8a-7448-ac07-769ee33d519d",
-      "time": "2026-06-09 23:48:21",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Cboe Volatility Index (VIX) rose 1.1 points to 20.02."
-    },
-    {
-      "id": "4926515",
-      "time": "2026-06-09 23:46:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍總參謀長稱襲擊伊朗是為更大打擊做準備】以色列國防軍總參謀長扎米爾9日說，此前對伊朗的襲擊是為“更大規模、更有力的打擊”做準備，同時以軍將繼續加大對黎巴嫩真主黨的打擊力度。扎米爾當天在以色列北部觀摩一場演習時說，以軍始終保持並將繼續保持“隨時恢復對伊朗作戰”的戰備狀態，以軍已對伊朗進行“迅速而有力的打擊”，這是為“更大規模、更有力的”打擊做準備。扎米爾說，以軍正繼續在黎巴嫩南部“前沿防線”一帶展開軍事行動，摧毀黎真主黨武裝人員的基礎設施。（新華社）"
-    },
-    {
-      "id": "4926514",
-      "time": "2026-06-09 23:46:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：FSD現已在丹麥獲得批准。"
-    },
-    {
-      "id": "4926513",
-      "time": "2026-06-09 23:44:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴西部海域發生5.8級地震 加勒比地區罕見】當地時間8日14時，北京時間9日凌晨2時，古巴西部海域發生5.8級地震，古巴首都哈瓦那、美國佛羅里達州及墨西哥部分地區均有震感。地震學家表示，此次地震發生在板塊內部，在加勒比地區較為罕見。（央視新聞）"
     }
   ]
 }
