@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-17 03:36:57",
-  "count": 18434,
+  "updated": "2026-06-17 03:40:51",
+  "count": 18432,
   "items": [
+    {
+      "id": "mkt:019ed1f1-bd04-7dd8-b039-b695506e15cd",
+      "time": "2026-06-17 03:39:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran vice president: Tehran will retain control of Strait of Hormuz】Press TV quoted First Vice President Mohammad Reza Aref on Tuesday saying Tehran will retain control and management of the Strait of Hormuz and that vessels using the waterway should pay for security services provided by Iran, the presidential office said. Aref said Iran has made major sacrifices to protect its rights in the strait and that without Iranian security services vessels could face risks including sea mines and environmental damage."
+    },
     {
       "id": "mkt:019ed1eb-beb7-7dd8-b039-ae914fb055e0",
       "time": "2026-06-17 03:32:28",
@@ -169560,35 +169571,6 @@
         "國際"
       ],
       "text": "美國地質調查局：俄羅斯千島群島東南偏東 120 公里處發生5.1 級地震。"
-    },
-    {
-      "id": "4926656",
-      "time": "2026-06-10 03:40:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級下調美國住宅建築行業及北美建築產品行業展望。"
-    },
-    {
-      "id": "4926655",
-      "time": "2026-06-10 03:38:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國外國情報監視法即將於週五到期】美國外國情報監視法即將於週五到期。據訊息人士透露，特朗普今日在白宮與眾議長約翰遜會面時表示，他無意向民主黨妥協，也不會為推動該法案延期而迅速提名新任國家情報總監接替比爾·普爾特。共和黨方面認為此次會談進展不順，目前對法案能否取得突破持悲觀態度。民主黨表態，除非特朗普撤換普爾特，否則將阻撓法案延期。部分共和黨人原本希望眾議長能勸說特朗普提名新的國家情報總監，以此化解僵局。"
-    },
-    {
-      "id": "mkt:019eade3-ed1d-7225-91aa-c289686be0db",
-      "time": "2026-06-10 03:37:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Trump says US may help rebuild Iran if infrastructure is destroyed, adds \"we'll take half their oil\"】ABC reported President Trump said if the US destroys Iran’s infrastructure, Washington may ultimately have to participate in reconstruction, citing new bridges, power plants and an estimated cost “around $1 trillion, maybe more.” When asked if it would be like a Marshall Plan, Trump said yes and then added the US would “take half” of Iran’s oil."
     }
   ]
 }
