@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-17 03:24:46",
+  "updated": "2026-06-17 03:28:56",
   "count": 18436,
   "items": [
+    {
+      "id": "4939313",
+      "time": "2026-06-17 03:27:39",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛今年提供諮詢的併購交易總額已破萬億美元 創史上最快達成紀錄】根據Dealogic資料，高盛今年以來提供諮詢服務的併購交易總額已突破1萬億美元，成為有史以來達到這一里程碑速度最快的銀行。資料顯示，今年迄今已宣佈的併購交易總額約為1.7萬億美元，不包括SpaceX與xAI的合併。這與併購高峰期2021年同期的水平基本持平。不過，在2021年的併購熱潮中，高盛直到7月中旬才達到1萬億美元的門檻。根據Dealogic資料，今年高盛最接近的競爭對手距離這一水平仍相差約3,000億美元。"
+    },
+    {
+      "id": "mkt:019ed1e6-0f89-7dd8-b039-9e80e18af5cb",
+      "time": "2026-06-17 03:26:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia bars 103 Canadians from entry in response to Canadian sanctions】Russia's Foreign Ministry said on its website on the evening of the 16th that, in response to Canadian sanctions against Russia, it has banned 103 Canadian nationals from entering the country. The ministry accused some Canadian politicians of harming Russian rights and interests and damaging bilateral ties, and said it respects the Canadian people but opposes the Canadian government's current hostile stance. The travel ban list includes several Canadian MPs and former Canadian ambassadors to Russia and Ukraine."
+    },
+    {
+      "id": "4939312",
+      "time": "2026-06-17 03:25:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯禁止103名加拿大人入境以回應加方制裁】俄羅斯外交部16日晚在官網釋出通報稱，作為對加拿大對俄製裁措施的回應，俄方禁止103名加拿大籍人員入境。俄外交部表示，加拿大一些政治人物損害俄方權利和利益，破壞兩國關係。俄方一貫尊重加拿大人民，但反對加政府當前的敵對立場。根據俄外交部公佈的名單，此次被禁止入境的包括多名加拿大議員、加拿大前駐俄羅斯與烏克蘭大使等人員。（新華社）"
+    },
     {
       "id": "mkt:019ed1df-a34b-7dd8-b039-9028bc8ea41e",
       "time": "2026-06-17 03:19:14",
@@ -169573,30 +169597,6 @@
         "MKT News"
       ],
       "text": "Security sources said three drones attacked an Iranian Kurdish opposition camp northeast of Erbil, Iraq."
-    },
-    {
-      "id": "4926651",
-      "time": "2026-06-10 03:28:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價9日顯著下跌】國際油價9日顯著下跌。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌3.10美元，收於每桶88.20美元，跌幅為3.4%；8月交貨的倫敦布倫特原油期貨價格下跌2.80美元，收於每桶91.45美元，跌幅為2.97%。"
-    },
-    {
-      "id": "4926650",
-      "time": "2026-06-10 03:26:30",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "英國財政部依舊反對加快提高國防開支的提議，該國擱置已久的軍事投資計劃即將於數日後公佈。"
-    },
-    {
-      "id": "4926649",
-      "time": "2026-06-10 03:26:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "航班追蹤網站Flightradar24資料顯示，目前中東上空至少有8架美國空軍KC-135R同溫層加油機與KC-46A飛馬加油機。這些空中加油機大機率配有戰鬥機和攻擊機護航，正活動於以色列、約旦、沙烏地阿拉伯、波斯灣及阿曼灣上空。"
     }
   ]
 }
