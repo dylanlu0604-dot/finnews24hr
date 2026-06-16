@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-17 04:31:51",
-  "count": 18405,
+  "updated": "2026-06-17 04:35:52",
+  "count": 18393,
   "items": [
+    {
+      "id": "mkt:019ed225-5106-7dd8-b03a-02ceefc5d2a4",
+      "time": "2026-06-17 04:35:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US API weekly crude inventories fell 8.33 mln barrels in the week to June 12 vs market-expected draw of 4.52 mln; prior week draw 9.12 mln."
+    },
+    {
+      "id": "mkt:019ed225-26d3-7dd8-b039-f81900874638",
+      "time": "2026-06-17 04:35:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Jun.12) | actual -8330000M | consensus -4515000M | previous -9119000M"
+    },
+    {
+      "id": "te:markets:559442",
+      "time": "2026-06-17 04:35:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.64% Higher — The Dow Jones Index gained 332 points or 0.64 percent on Tuesday to close at 52003 points. Gains were led by JPMorgan (3.72%), Visa (2.83%) and 3M (2.15%). Biggest losers were Nvidia (-2.17%), Salesforce (-1.74%) and Microsoft (-1.46%)."
+    },
     {
       "id": "te:markets:559441",
       "time": "2026-06-17 04:30:13",
@@ -169152,159 +169183,6 @@
         "Economic Calendar"
       ],
       "text": "United States | API Weekly Heating Oil Stocks Change (Jun.5) | actual -407000M | previous 498000M"
-    },
-    {
-      "id": "mkt:019eae19-4b3c-7225-91ab-8ba90cd3389a",
-      "time": "2026-06-10 04:35:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: Cushing crude stocks fell 1.125 mln barrels in the week ended June 5; prior week draw 279k barrels."
-    },
-    {
-      "id": "mkt:019eae19-1d8a-7225-91ab-80e7c0770110",
-      "time": "2026-06-10 04:35:41",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Jun.5) | actual -1125000M | previous -279000M"
-    },
-    {
-      "id": "mkt:019eae19-1cc2-7225-91ab-7a818e0a3e21",
-      "time": "2026-06-10 04:35:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US API refined product stocks rose 1.316 mln barrels in the week to June 5; market had expected a 215k-barrel draw, prior was a 214k-barrel draw."
-    },
-    {
-      "id": "mkt:019eae19-0318-7225-91ab-707c54c773b2",
-      "time": "2026-06-10 04:35:29",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Distillate Stocks Change (Jun.5) | actual 1316000M | consensus -215000M | previous -214000M"
-    },
-    {
-      "id": "mkt:019eae18-d559-7225-91ab-6c931cf67f42",
-      "time": "2026-06-10 04:35:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US API weekly gasoline inventories fell 1.191 mln bbl in the week to June 5, vs an expected draw of 614k bbl; prior was a 3.454 mln bbl build."
-    },
-    {
-      "id": "4926690",
-      "time": "2026-06-10 04:35:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 -911.9萬桶，之前一週 -675.7萬桶。"
-    },
-    {
-      "id": "te:markets:557777",
-      "time": "2026-06-10 04:35:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.17% Higher — The Dow Jones Index gained 85 points or 0.17 percent on Tuesday to close at 50871 points. Gains were led by Home Depot (3.71%), Sherwin-Williams (3.70%) and Nike (3.25%). Biggest losers were Salesforce (-3.96%), Apple (-3.61%) and Cisco Systems (-3.07%)."
-    },
-    {
-      "id": "mkt:019eae18-a283-7225-91ab-64c1c81c8c3e",
-      "time": "2026-06-10 04:35:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Gasoline Stocks Change (Jun.5) | actual -1191000M | consensus -614000M | previous 3454000M"
-    },
-    {
-      "id": "mkt:019eae18-94dd-7225-91ab-5e63756d39eb",
-      "time": "2026-06-10 04:35:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US API crude stocks drew 9.119 mln barrels in the week to June 5, versus an expected draw of 3.421 mln and a prior draw of 6.757 mln."
-    },
-    {
-      "id": "mkt:019eae18-658b-7225-91ab-506940c1f800",
-      "time": "2026-06-10 04:34:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Crude Oil Stocks Change (Jun.5) | actual -9119000M | consensus -3421000M | previous -6757000M"
-    },
-    {
-      "id": "4926689",
-      "time": "2026-06-10 04:34:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮人工智慧政策顧問托馬斯·林德即將離職。"
-    },
-    {
-      "id": "4926688",
-      "time": "2026-06-10 04:33:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國的封鎖使伊朗變得極其貧窮，並將持續到必要之時。"
-    },
-    {
-      "id": "4926687",
-      "time": "2026-06-10 04:33:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，熱帶風暴克里斯蒂娜在尼加拉瓜西北部海岸附近飄移不定，預計未來幾天中美洲部分地區將出現暴雨。"
-    },
-    {
-      "id": "4926686",
-      "time": "2026-06-10 04:32:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "凱西百貨預計本財年內部可比同店銷售額增長2%-5%。"
-    },
-    {
-      "id": "4926685",
-      "time": "2026-06-10 04:32:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "凱西百貨第四財季內部同店銷售額增長5.5%。"
     }
   ]
 }
