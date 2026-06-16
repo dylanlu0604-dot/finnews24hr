@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-16 19:27:09",
-  "count": 18286,
+  "updated": "2026-06-16 19:31:12",
+  "count": 18285,
   "items": [
+    {
+      "id": "4938679",
+      "time": "2026-06-16 19:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國服務外包產業20年間合同執行額增長220倍】第十五屆中國國際服務外包交易博覽會6月16日在湖北武漢開幕。會上釋出的《中國數字服務暨服務外包發展報告（2026年度）》顯示，20年間，中國服務外包產業合同執行額從13.8億美元增長至3032.4億美元，增長約220倍；企業數量從約500家增至9萬多家，從業人員從不足6萬人增至1765.5萬人。（新華社）"
+    },
+    {
+      "id": "mkt:019ed032-16fa-7dd8-b02e-0ec0537930d9",
+      "time": "2026-06-16 19:30:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said the G7 discussed sanctions targeting Russia's energy, banking and military sectors."
+    },
+    {
+      "id": "4938678",
+      "time": "2026-06-16 19:29:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "澤連斯基：七國集團已討論針對俄羅斯能源、銀行業及軍事領域的制裁。"
+    },
+    {
+      "id": "mkt:019ed030-c42d-7dd8-b02e-03e2f62aa100",
+      "time": "2026-06-16 19:28:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "ZELENSKIY said the G7 discussed imposing additional sanctions on Russia."
+    },
+    {
+      "id": "4938677",
+      "time": "2026-06-16 19:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行雲科技：深圳行雲簽訂算力服務協議，金額10.14億元】行雲科技公告，公司全資子公司深圳市行雲控股有限責任公司近日與VB客戶簽署《算力服務協議》，深圳行雲向其提供算力服務，服務期限5年，含稅總金額10.14億元。該合同已獲公司第七屆董事會第二十次會議審議透過，無需股東會審議，不涉及關聯交易，亦不構成重大資產重組。合同若能順利履行，預計將對公司經營成果產生一定影響。"
+    },
+    {
+      "id": "mkt:019ed030-4744-7dd8-b02d-f913cef5aa22",
+      "time": "2026-06-16 19:28:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【BofA survey: majority of investors expect Fed hawkish hold】BofA's June global fund manager survey showed about 55% expect a \"hawkish hold\"—rates unchanged with new Federal Reserve chair Kevin Warsh signaling higher-for-longer—while 33% expect a \"dovish hold\", i.e. Warsh leaving the door open to future cuts."
+    },
+    {
+      "id": "4938676",
+      "time": "2026-06-16 19:28:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "澤連斯基：七國集團討論了對俄羅斯實施更多制裁。"
+    },
+    {
+      "id": "4938675",
+      "time": "2026-06-16 19:27:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣深港高鐵香港段直達內地站點7月1日起增至113個】由香港鐵路有限公司（港鐵）營運的高速鐵路（香港段）7月1日起新增廣州北、義烏、福清西三個站點。至此，香港西九龍站直達內地站點增至113個，相關車票將於6月17日起發售。根據安排，往返西九龍站與張家界西站的G6080/G6079次列車、天津西站開往西九龍站的G903次列車，新增停靠廣州北站；往返西九龍站與上海虹橋站的臥鋪列車G896/G895次，加停義烏站；往返西九龍站與福州站的G924/G923次列車，加停福清西站。（新華社）"
+    },
+    {
+      "id": "te:economy:559341",
+      "time": "2026-06-16 19:27:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "North Macedonia Lifts Key Policy Rate to 4.25% — The National Bank of North Macedonia raised its key interest rate by 25 bps to 4.25% at its June 2026 meeting, the first hike since September 2023, citing lingering risks from geopolitical tensions. Policymakers said the current stance together with previous adjustments to other instruments including reserve requirements and macroprudential measures will help maintain exchange rate stability and anchor inflation expectations They noted that the annual inflation rate slowed to 4.8% in May from 5.7% in April, but remains elevated, indicating persistent inflationary pressures and a slower return to historical averages. Meanwhile, the central bank said the domestic economy remains resilient despite an uncertain external environment. Real GDP increased by 3.1% in Q1 2026, close to early projections, while available high-frequency indicators for Q2 remain scarce, though April data point to stronger industrial output and softer trade turnover."
+    },
     {
       "id": "mkt:019ed02e-f485-7dd8-b02d-f558bf8a8178",
       "time": "2026-06-16 19:26:38",
@@ -168238,92 +168333,6 @@
         "Impact mixed"
       ],
       "text": "Airbus CEO says the company aims to reach a 75-aircraft-per-month production rate by 2027; whether that target is achievable depends on engine deliveries."
-    },
-    {
-      "id": "4926114",
-      "time": "2026-06-09 19:30:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【有研矽：擬參與收購晶隆半導體60%股權，掛牌底價4.51億元】有研矽公告，公司擬透過公開競價摘牌方式參與收購滁州市南譙區國有資產運營有限公司掛牌轉讓的安徽晶隆半導體科技有限公司60%股權，掛牌轉讓底價為4.51億元。若成功摘牌，公司將持有晶隆半導體60%股權，並納入合併報表範圍。本次交易不構成重大資產重組，不構成關聯交易。該事項已獲公司董事會審議透過，將提交至股東會審議。公司提示，本次交易存在摘牌不確定性和收購後盈利不及預期的風險。"
-    },
-    {
-      "id": "4926113",
-      "time": "2026-06-09 19:30:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【崔東樹：2026年5月國內乘用車市場呈現總量承壓、環比走強、結構極致分化的執行態勢】崔東樹發文稱，5月全國乘用車市場零售151.0萬輛，同比下降22%，環比增長10%；今年以來累計零售711萬輛，同比下降19%。2026年5月國內乘用車市場呈現總量承壓、環比走強、結構極致分化的執行態勢，整體未實現實質性復甦。本月小幅回暖主要得益於車市“反內卷”成效凸顯，車企促銷力度趨於穩定，淡化了消費者降價觀望預期，疊加北京車展的熱度提振，釋放了部分滯留購車需求，形成階段性終端回暖。"
-    },
-    {
-      "id": "4926112",
-      "time": "2026-06-09 19:29:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【亞馬遜英偉達下場搶光纖，儲存之後光纖成最緊缺AI硬通貨】繼Meta、英偉達之後，亞馬遜再度出手鎖定光纖核心供應，全球AI算力軍備競賽正從算力層向底層物理傳輸介質全面蔓延。6月8日晚，亞馬遜宣佈與康寧簽下數十億美元長期光纖採購協議，用於連線美國快速擴張的資料中心。 海外巨頭的接連鎖單動作點燃了A股資金熱度，6月9日，光纖板塊掀起漲停潮，太辰光、長芯博創分別大漲18.07%、12.13%，長飛光纖、亨通光電、中天科技等股漲停。 繼儲存之後，AI浪潮掀起了一個又一個電子細分賽道的熱潮，如今，被視為AI算力“血管”的光纖，正在迎來一輪歷史性週期。 AI大模型帶來的全球資料中心建設狂潮，正在把光纖需求推向新的高峰，一邊是需求爆發式增長，一邊是光棒產能18至24個月的長週期約束，全球光纖供需缺口持續拉大，現貨價格一路上行，行業景氣度進入全面上升通道。而隨著6月中旬A股中報業績視窗臨近，年內股價已實現翻倍甚至數倍上漲的光纖板塊，即將迎來行業景氣度的集中業績驗證。（一財）"
-    },
-    {
-      "id": "4926111",
-      "time": "2026-06-09 19:29:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗駐聯合國使團警告稱，國際原子能機構理事會的決議可能為另一次襲擊鋪平道路。"
-    },
-    {
-      "id": "mkt:019eac24-a9bf-7ffd-b5f4-b9c222653289",
-      "time": "2026-06-09 19:29:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran's mission to the United Nations warned that a resolution by the IAEA Board of Governors could pave the way for another attack."
-    },
-    {
-      "id": "4926110",
-      "time": "2026-06-09 19:28:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中恆集團：控股子公司減少私募股權投資基金出資6000萬元】中恆集團公告稱，公司控股子公司萊美藥業擬不再向重慶比鄰星私募股權投資基金合夥企業繳納剩餘6000萬元的認繳出資。截至2025年12月31日，該基金總認繳規模4.70億元，累計實繳3.83億元，萊美藥業已實際繳納4000萬元。本次減資後，萊美藥業認繳出資額由1億元降至4000萬元，佔比由21.28%降至10.44%。本次減資預計不會對公司及萊美藥業產生重大不利影響。"
-    },
-    {
-      "id": "4926109",
-      "time": "2026-06-09 19:28:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客執行長：我對普惠感到失望，但現在取決於我們從普惠獲得多少發動機，我們可能無法達成生產目標。"
-    },
-    {
-      "id": "4926108",
-      "time": "2026-06-09 19:28:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客與普惠就 2027 年飛機交付事宜產生糾紛。"
-    },
-    {
-      "id": "4926107",
-      "time": "2026-06-09 19:27:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘇大維格：陳林森等擬協議轉讓5%股份】蘇大維格公告稱，6月9日，陳林森及5%以上股東虞樟星與寧波和德投資管理有限公司簽署《股份轉讓協議》，擬透過協議轉讓方式將合計持有的1298.48萬股（佔總股本5%）轉讓給受讓方。轉讓單價41.84元/股，轉讓價款共計5.43億元。本次權益變動前，陳林森直接持股18.35%，變動後降至13.77%。本次權益變動不影響公司控股股東及實際控制人，且陳林森未來12個月暫無增減持計劃。"
-    },
-    {
-      "id": "4926106",
-      "time": "2026-06-09 19:27:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國建築中標萊州至青島高速公路青島段特許經營專案】據中國建築訊息，近日，中建股份聯合中建一局、中建二局、中建三局中標萊州至青島高速公路青島段特許經營專案，本專案估算總投資約159.10億元。本專案起點位於山東省平度市舊店鎮西上夼村北的平度萊州界，北接萊青高速萊州段，終點位於在建的藍谷至膠東國際機場快速通道工程，向南透過一體化建設的雙埠連線線至春陽路，由北向南共跨越平度、萊西、即墨、城陽四個區（市），同步建設雙埠、舊店、日莊三條連線線。高速主線全長83.12公里。"
     }
   ]
 }
