@@ -1,7 +1,200 @@
 {
-  "updated": "2026-06-16 14:32:03",
-  "count": 18311,
+  "updated": "2026-06-16 14:36:19",
+  "count": 18314,
   "items": [
+    {
+      "id": "4937892",
+      "time": "2026-06-16 14:34:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利對油市看法：自第四季度起，我們預計布倫特原油將錨定在每桶80美元附近，此前預估為每桶95美元。"
+    },
+    {
+      "id": "4937891",
+      "time": "2026-06-16 14:34:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行內田真一：存在基礎通脹加速上升並超過央行2%目標的風險。"
+    },
+    {
+      "id": "mkt:019ecf23-9fe6-7dd8-b022-cf6ef7e58c81",
+      "time": "2026-06-16 14:34:38",
+      "tags": [
+        "MKT News",
+        "01138.HK",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan reiterates overweight on COSCO SHIPPING Energy (01138.HK); sees Strait of Hormuz reopening as positive catalyst, PT HKD27】JP Morgan says a US‑Iran peace deal would significantly raise the probability of the Strait of Hormuz reopening, a positive catalyst for tanker names by increasing chances of normalized crude purchases and inventory rebuilds. The bank reiterates an overweight on COSCO SHIPPING Energy Transportation (01138.HK) with a PT of HKD27, noting the market has lost about 1.3 billion barrels of supply since the Middle East conflict and that trade will likely shift to longer‑haul sources (US, West Africa, Brazil), pushing VLCC freight above historical averages. JP Morgan says recent weakness in tanker shares reflects reduced confidence in panic restocking rather than a deterioration in industry fundamentals."
+    },
+    {
+      "id": "mkt:019ecf23-7241-7dd8-b022-c6da0c865894",
+      "time": "2026-06-16 14:34:27",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Bank of Japan Deputy Governor Uchida said he will assess the probability of achieving the baseline scenario and related risks when considering the timing and pace of policy adjustments."
+    },
+    {
+      "id": "mkt:019ecf23-4857-7dd8-b022-be051aee7a34",
+      "time": "2026-06-16 14:34:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "BANK OF JAPAN Deputy Governor UCHIDA said the central bank will continue to raise the policy rate based on developments in economic activity, prices and financial conditions."
+    },
+    {
+      "id": "4937890",
+      "time": "2026-06-16 14:34:05",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本央行內田真一：將繼續根據經濟活動、物價與金融狀況的發展調整政策利率上調幅度。"
+    },
+    {
+      "id": "mkt:019ecf22-a74e-7dd8-b022-b59bae0becd1",
+      "time": "2026-06-16 14:33:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan deputy governor UCHIDA said real interest rates are mainly negative over the short-to-medium term."
+    },
+    {
+      "id": "4937889",
+      "time": "2026-06-16 14:33:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行內田真一：實際利率主要在短期和中期區間維持負值。"
+    },
+    {
+      "id": "mkt:019ecf22-78b5-7dd8-b022-ac9cba26ed2b",
+      "time": "2026-06-16 14:33:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN Deputy Governor UCHIDA said underlying inflation risks are tilted to the upside and could lead inflation to deviate above the price target."
+    },
+    {
+      "id": "mkt:019ecf22-69e7-7dd8-b022-a18669acdfca",
+      "time": "2026-06-16 14:33:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan Deputy Governor UCHIDA said financial conditions have remained accommodative."
+    },
+    {
+      "id": "4937888",
+      "time": "2026-06-16 14:33:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月16日：“農產品批發價格200指數”比昨天下降0.31個點】據農業農村部監測，6月16日“農產品批發價格200指數”為112.82，比昨天下降0.31個點，“菜籃子”產品批發價格指數為112.76，比昨天下降0.36個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.57元/公斤，比昨天下降0.1%；牛肉66.73元/公斤，比昨天下降0.3%；羊肉63.75元/公斤，比昨天上升0.3%；雞蛋10.66元/公斤，比昨天下降0.7%；白條雞17.21元/公斤，比昨天上升1.1%。重點監測的28種蔬菜平均價格為4.29元/公斤，比昨天下降0.9%；重點監測的6種水果平均價格為7.43元/公斤，比昨天下降2.1%。鯽魚20.06元/公斤，比昨天下降0.2%；鯉魚14.58元/公斤，比昨天下降0.5%；白鰱魚10.28元/公斤，比昨天上升0.4%；大帶魚41.35元/公斤，比昨天下降3.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是洋白菜、南瓜、蔥頭、冬瓜和白條雞，幅度分別為2.2%、1.5%、1.3%、1.3%和1.1%；價格降幅前五名的是菠蘿、西葫蘆、大帶魚、平菇和鴨梨，幅度分別為4.7%、4.1%、3.9%、3.2%和2.9%。"
+    },
+    {
+      "id": "4937887",
+      "time": "2026-06-16 14:33:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行內田真一：金融環境一直保持寬鬆。"
+    },
+    {
+      "id": "mkt:019ecf22-1605-7dd8-b022-98990df0c91a",
+      "time": "2026-06-16 14:32:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index closed up 180.62 points, or 2.11%, at 8,726.6 on Tuesday, June 16."
+    },
+    {
+      "id": "mkt:019ecf22-0ae0-7dd8-b022-9772afe84d16",
+      "time": "2026-06-16 14:32:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225"
+      ],
+      "text": "On Tuesday, June 16, Japan's Nikkei 225 closed up 87.00 points, or 0.13%, at 69,404.50."
+    },
+    {
+      "id": "mkt:019ecf21-d9c3-7dd8-b022-88737bb93c74",
+      "time": "2026-06-16 14:32:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【June 16: China Agricultural Products Wholesale Price 200 Index down 0.31 points】China's Ministry of Agriculture and Rural Affairs said the \"Agricultural Products Wholesale Price 200 Index\" was 112.82 on June 16, down 0.31 points day-on-day. The \"vegetable basket\" wholesale price index was 112.76, down 0.36 points. As of 14:00 Beijing time nationwide wholesale pork averaged 14.57 yuan/kg, down 0.1% from the previous day."
+    },
+    {
+      "id": "mkt:019ecf21-d0bd-7dd8-b022-84343208660b",
+      "time": "2026-06-16 14:32:40",
+      "tags": [
+        "MKT News",
+        "01276.HK",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan upgrades Hengrui Medicine to Overweight; cuts target to HK$68】JP Morgan upgraded Hengrui Medicine (01276.HK) from Hold to Overweight and trimmed its target price to HK$68 from HK$70. The bank said the sharp share-price decline reflects macro headwinds—notably heightened U.S.-China geopolitical tensions and broad institutional de-risking of H-share healthcare—rather than a material weakening of fundamentals. At current levels, JP Morgan sees valuation as understating an improving earnings trajectory, rapidly expanding pipeline value and BD-related revenue, but warned U.S. rules could constrain future China-origin licensing deals and increase volatility."
+    },
+    {
+      "id": "mkt:019ecf21-9417-7dd8-b022-7e45da881304",
+      "time": "2026-06-16 14:32:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan Deputy Governor UCHIDA said Japan's economy is broadly in line with the BOJ's baseline scenario."
+    },
+    {
+      "id": "mkt:019ecf21-7201-7dd8-b022-73eb99a833c7",
+      "time": "2026-06-16 14:32:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "UCHIDA, Bank of Japan deputy governor, said the risk of a significant economic slowdown appears reduced compared with earlier."
+    },
+    {
+      "id": "4937886",
+      "time": "2026-06-16 14:32:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：沃什領導下不同的美聯儲體制或引發更高波動性】普徠仕的Arif Husain表示，投資者可能需要為新任主席凱文·沃什領導下不同的美聯儲體制做好準備，其特點是更大的不確定性、更高的波動性，以及資產價格對經濟資料和政策動態更加敏感。縮減美聯儲資產負債表的願望可能與儘可能保持低利率的偏好難以契合。這位全球固定收益主管在一份報告中表示：“縮減資產負債表、減少前瞻性指引以及貨幣和財政目標之間潛在緊張關係的疊加效應，可能會在中期及以後引發更高的波動性。”Husain說，波動性可能首先出現在利率市場，然後蔓延到信用債市場，最終波及股市。"
+    },
     {
       "id": "mkt:019ecf20-e748-7dd8-b022-6fc713036f12",
       "time": "2026-06-16 14:31:40",
@@ -168218,168 +168411,6 @@
         "其他"
       ],
       "text": "【機構：透過與英偉達的AI合作，Naver的價值可能增長兩倍】Kyobo Securities的Kim Dong-woo表示，透過與英偉達合作運營吉瓦級全球人工智慧資料中心，Naver的企業價值可能增長兩倍。該分析師預計，Naver的估值將從目前的2.3萬億韓元升至6.9萬億韓元，這部分得益於AI工廠收入預計將在2027年達到4,750億韓元，在2028年達到2.5萬億韓元。他對Naver的計劃持樂觀態度，即作為英偉達主導的吉瓦級倡議的一部分，到2027年上半年將其AI資料中心算力擴大至55兆瓦，到2027年底擴大至100兆瓦，並在2028年擴大至200兆瓦。"
-    },
-    {
-      "id": "4925361",
-      "time": "2026-06-09 14:35:57",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【韓國準備開展現場外匯檢查以抑制韓元投機交易】韓國財政部表示，將打擊投機性外匯交易，監管機構計劃進行現場檢查，並對涉嫌擾亂市場的活動展開調查。韓國財政部負責國際事務的副部長Moon Ji-sung在一份宣告中表示，當局將重點打擊旨在扭曲市場的交易，並於本週進行現場檢查，調查參與者是否參與投機性交易。宣告還補充說，政府認為當前形勢嚴峻，正與其他機構協調密切關注市場趨勢和主要訂單流向。該計劃是在財政部與外匯市場參與者和專家舉行會議後製定的，此前在週末進行了緊急市場評估。"
-    },
-    {
-      "id": "4925360",
-      "time": "2026-06-09 14:35:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華海清科獲得國內首臺全自動板級CMP量產裝備訂單】據華海清科訊息，近日，華海清科自主研發的國內首臺510*515mm尺寸全自動板級CMP量產裝備Master-P510APEX成功獲得先進封裝領域重要客戶訂單，將按計劃進入客戶端產線投入量產應用。公司表示，該裝備將成為國內首臺進入產線的國產全自動板級CMP裝備，為我國先進封裝乃至半導體產業自主可控補齊關鍵一環。此次突破也是華海清科CMP裝備技術從晶圓級向板級延伸的重要里程碑。"
-    },
-    {
-      "id": "4925359",
-      "time": "2026-06-09 14:35:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【商務部：支援中亞各國擴大對華出口非資源商品和農產品】6月9日，第九屆中國—亞歐博覽會新聞釋出會在北京舉辦。商務部歐亞司副司長張棟介紹了接下來商務部將整體推進中國—中亞經貿合作的措施。一是加強發展戰略對接。我們將推動共建“一帶一路”倡議同中亞各國發展戰略對接，落實好與中亞各國簽署的政府間經貿合作規劃，探討建立貿易投資自由化便利化制度性安排，推動構建更緊密的經濟夥伴關係。二是推動貿易提質增效。我們將繼續鞏固能源、礦產等大宗商品貿易，支援中亞各國積極參加“共享大市場 出口中國”系列活動，擴大對華出口非資源商品和農產品。拓展服務貿易、數字貿易、跨境電商等新業態，加快中國—中亞貿易暢通合作平臺建設，打造中國—中亞貿易新的增長點。三是持續深化產供鏈合作。我們將加強綠色礦產合作，推進“探產供儲銷”全產業鏈協同。深化新能源、數字經濟、人工智慧、裝備製造、現代農業等領域合作，促進貿易投資一體化發展。我們將用好中國—中亞股權投資合作基金等投融資工具，助力中亞國家產業升級，共同打造可持續、有韌性、更暢通的區域產供鏈體系。（澎湃新聞）"
-    },
-    {
-      "id": "te:economy:557539",
-      "time": "2026-06-09 14:35:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Lithuania",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Lithuania Trade Gap Biggest in 9 Months — Lithuania posted a trade deficit of EUR 606.9 million in April 2026, widening from EUR 567.7 million in the same month last year. This marked the biggest trade shortfall since July last year, as exports rose more than imports. Exports climbed by 18.2% year-on-year to an over three-year high of EUR 3,613.9 million, driven largely by higher sales of mineral fuels, mineral oils and products of their distillation (88.7%), machinery and mechanical appliances (38.3%), and plastics and articles thereof (23.6%). Meanwhile, imports grew at a slightly softer 16.4% but to also a more than three-year high of EUR 4,220.8 million, due to increased purchases of mineral fuels, mineral oils and products of their distillation (49.8%), and electrical machinery and equipment and parts thereof (46.5%). In the January–April period, the country’s trade deficit narrowed to EUR 1,958 million from EUR 2,219.6 million in the same period a year ago, as exports (3.4%) rose faster than imports (1.1%)."
-    },
-    {
-      "id": "mkt:019eab17-49fa-7ee8-a201-1ba10a12b2a0",
-      "time": "2026-06-09 14:34:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "【German industrial output rises for first time since outbreak of war in Iran】DESTATIS said on Tuesday Germany's industrial production rose 0.4% MoM in April, the first increase since the outbreak of the war in Iran, largely driven by construction. March was revised to a -0.1% decline from a preliminary -0.7%. April exports and imports unexpectedly rose. The data contrast with earlier weak prints: April factory orders fell more than expected on Monday, with notable declines in autos and electrical equipment. The production uptick offers limited relief to Europe’s largest economy amid surging energy prices."
-    },
-    {
-      "id": "te:economy:557538",
-      "time": "2026-06-09 14:34:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Manufacturing Production MoM",
-        "Importance 1"
-      ],
-      "text": "Danish Manufacturing Output Falls in April — Denmark’s manufacturing production fell 1.1% month-on-month in April 2026, following a downwardly revised 8.3% growth in the previous month. Output declined in food, beverages, and tobacco (-2.7% vs 5.5% in March), wood and paper products (-2.1% vs 2.1%), pharmaceutical products (-2.5% vs 15%), electronics (-15.8% vs 37%), rubber, plastic, glass, and concrete products (-1% vs 15.5%), and transportation (-2.2% vs 19.5%). At the same time, activity moderated for textile, clothing, and leather products (2.4% vs 9.5%). Meanwhile, production increased for metal and metal products (5% vs 0.4%), while production recovered for petroleum and chemical products (1.3% vs -0.9%). On a seasonally adjusted annual basis, manufacturing activity jumped 13% in April, easing from a revised 21.1% gain in the preceding period."
-    },
-    {
-      "id": "4925358",
-      "time": "2026-06-09 14:34:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天陽科技、首都線上在甘肅合資成立智雲科技公司】企查查APP顯示，近日，甘肅天陽數金智雲科技有限公司成立，註冊資本1億元，經營範圍包含：計算機系統服務；資料處理服務；計算機軟硬體及輔助裝置批發；計算機軟硬體及輔助裝置零售等。企查查股權穿透顯示，該公司由天陽科技、首都線上共同持股。"
-    },
-    {
-      "id": "4925357",
-      "time": "2026-06-09 14:34:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty銀行指數<.NSEBANK>上漲1.5%。"
-    },
-    {
-      "id": "mkt:019eab16-f518-7ee8-a201-15926ac4bb72",
-      "time": "2026-06-09 14:34:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israeli military ordered evacuations in the southern Lebanese city of Tyre, including the Christian quarter."
-    },
-    {
-      "id": "4925356",
-      "time": "2026-06-09 14:34:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英偉達Blackwell“一芯難求”？ 機構：從來未見如此供應緊張局面】韋德布什證券（Wedbush Securities）最新報告稱，英偉達的Grace Blackwell系統（包括GB300和B300）的需求還在持續高漲，因為一些客戶表示這些產品越來越難採購。“自Ampere/Hopper以來，我們不記得英偉達加速器週期後期出現過如此嚴重的供應緊張狀況，這一結果表明需求增長速度比之前預期的要快。”他們寫道。韋德布什還補充稱，儘管供應限制，尤其是記憶體方面的供應限制，仍然是造成供貨問題的主要原因，但就目前的供應鏈定位而言，英偉達“在整個技術生態系統中處於最佳地位”。"
-    },
-    {
-      "id": "4925355",
-      "time": "2026-06-09 14:33:37",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【首創期貨：保供政策出臺，焦煤期價盤中跌停】供應方面，陝西省發改委釋出關於做好迎峰度夏能源保供工作的通知，督促煤炭企業在安全前提下依法合規釋放先進產能。該訊息引發多頭獲利了結，焦煤主力09合約兩個交易日累計減倉超11萬手。近日煤礦復產進度有所加快，截至6月8日，復產煤礦共計70座，產能8515萬噸，仍在停產煤礦共計65座，產能共計6975萬噸。進口方面蒙煤通關車輛維持高位。保供政策疊加市場情緒擾動下，預計短期焦煤期價震盪調整為主，關注國內煤礦開工及鐵水產量變動情況。（首創期貨）"
-    },
-    {
-      "id": "4925353",
-      "time": "2026-06-09 14:33:23",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "中韓半導體ETF觸達漲停。"
-    },
-    {
-      "id": "4925352",
-      "time": "2026-06-09 14:33:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列要求泰爾鎮居民在可能發生襲擊前撤離。"
-    },
-    {
-      "id": "mkt:019eab15-daf5-7ee8-a201-0c24f95cf357",
-      "time": "2026-06-09 14:33:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China-South Korea semiconductor ETF hit daily limit-up."
-    },
-    {
-      "id": "4925351",
-      "time": "2026-06-09 14:32:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【伊朗和以色列停止襲擊後，美元下跌】伊朗和以色列週一暫停襲擊後，隨著油價回落以及對避險資產的需求減弱，美元下跌。伊朗和以色列表示將停止交火，但承諾如果戰鬥再次爆發將進行報復。美國總統特朗普介入了衝突，稱伊朗和以色列必須停止射擊，並宣佈兩國都希望立即停火。德意志銀行分析師在一份報告中表示：“感覺至少在目前，週末爆發的敵對行動已經停止，和平談判仍有繼續的途徑。”DXY美元指數下跌0.2%，至99.838。"
-    },
-    {
-      "id": "te:markets:557535",
-      "time": "2026-06-09 14:32:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Pares Losses at Finish — The ASX 200 edged down 21 points or 0.2% to end at 8,604 on Tuesday, down for the third session after fresh data showed Australia's consumer confidence fell in June following May's rise and marking its fourth decline this year amid lingering cost-of-living pressures. Separately, business sentiment in May improved but remained firmly negative, due to concerns over the impact of elevated borrowing costs. Still, local markets trimmed early declines after solid May trade data in top trading partner China, as exports hit a record high while imports accelerated. Meanwhile, the Reserve Bank of Australia will hold a policy meeting next week, with traders expecting a pause following three rate hikes since January. In the U.S., stock futures strengthened, following a rebound in chip stocks on Wall Street Monday. Among today's decliners were Lynas Rare Earths(-4.5%), Evolution Mining (-4.2%), Fortescue (-3.5%), and heavyweight BHP Group (-1.7%). Two of four big banks fell between 0.5% and 1%."
     }
   ]
 }
