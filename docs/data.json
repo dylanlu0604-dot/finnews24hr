@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-17 06:57:31",
-  "count": 18338,
+  "updated": "2026-06-17 07:06:02",
+  "count": 18337,
   "items": [
+    {
+      "id": "4939377",
+      "time": "2026-06-17 07:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月路透短觀製造業景氣判斷指數 13，前值8。\n日本6月路透短觀非製造業景氣判斷指數 32，前值29。"
+    },
+    {
+      "id": "mkt:019ed2a9-e406-7dd8-b03b-0b455ca17fb8",
+      "time": "2026-06-17 07:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan Jun Refinitiv Tankan manufacturing sentiment index rose to 13 from 8 previously."
+    },
+    {
+      "id": "mkt:019ed2a9-e38b-7dd8-b03b-05d1b5349a6a",
+      "time": "2026-06-17 07:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan June Refinitiv Tankan non-manufacturing business conditions index 32, up from 29 in May."
+    },
+    {
+      "id": "mkt:019ed2a9-bf8e-7dd8-b03a-feb64d4d4f74",
+      "time": "2026-06-17 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Non-manufacturing Index (Jun) | actual 32 | previous 29"
+    },
+    {
+      "id": "mkt:019ed2a9-bf8c-7dd8-b03a-f53977e8b699",
+      "time": "2026-06-17 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Manufacturing Index (Jun) | actual 13 | previous 8"
+    },
+    {
+      "id": "te:markets:559453",
+      "time": "2026-06-17 06:58:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Trades Lower in Morning Deals — The NZX 50 dropped 55 points, or 0.4%, to 13,372 in Wednesday morning deals, erasing gains from the previous session, mainly weighed down by the materials, financials, communication services, and healthcare sectors. The broader index declined from its highest level since March 6, tracking a fall in Wall Street's Nasdaq and S&P 500 indexes amid a pullback in AI-related stocks. Fresh data pressured sentiment, as New Zealand's consumer confidence fell to its lowest level since 2023 in Q2, weighed by rising fuel and other living costs, while the Q1 current account gap widened from the same period a year earlier. Traders also anticipated this week's release of New Zealand's Q1 GDP data and the Fed's monetary policy decision. Among early losers were Briscoe Group (-0.9%), Henderson Far East Income (-0.6%), Fisher & Paykel (-0.4%), Contact Energy (-0.4%), and Ebos Group (-0.3%)."
+    },
     {
       "id": "4939376",
       "time": "2026-06-17 06:53:15",
@@ -168611,67 +168679,6 @@
         "國際"
       ],
       "text": "【光纖巨頭再籤億級大單 中國光纖光纜廠商開始系統性出海】6月9日，光纖概念持續走強，亨通光電午後秒漲停，斬獲6天3板，股價續創歷史新高，市值突破2500億元。長飛光纖再度漲停，收於484.33元/股，股價相較一年前已經實現超10倍漲幅。此外，中天科技、烽火通訊等漲超8%。訊息面上，當地時間6月8日，亞馬遜宣佈與康寧公司簽署數十億美元協議，採購光纖、光纜及連線解決方案，以支援其全美資料中心擴張。協議將為康寧北卡羅來納州工廠新增1000個高技能崗位及數百個建築崗位。此舉系亞馬遜去年宣佈在該州追加100億美元雲基建投資的延續。有行業資深分析師向證券時報記者表示，光纖正在被賦予類似光模組和PCB的AI屬性，正從傳統通訊傳輸介質，升級為支撐AI算力網路的關鍵部件，這種底層需求驅動力的重構支撐了本輪行業景氣程度。國盛證券在研報中指出，美國本土光纖產能高度集中於康寧等少數廠商，本輪行情的核心變數之一是海外需求正在成為核心驅動力，中國光纖光纜廠商開始系統性出海。與過去依賴“單一市場+單一客戶型別”的純粹內需驅動週期不同，此輪週期光纖漲價來自全球多主體需求共振，價格的持續性和彈性均將優於以往。"
-    },
-    {
-      "id": "4926781",
-      "time": "2026-06-10 07:05:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥農業部稱，因美國出現螺旋蠅病例，暫停進口美國牲畜。"
-    },
-    {
-      "id": "4926780",
-      "time": "2026-06-10 07:03:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報鐘聲：升級情報體系，日本加速成為東亞“禍源”】日前，日本高市早苗政府主推的“國家情報會議”設立法案，於一片爭議聲中在國會參議院透過。儘管日方將這場情報體系改革包裝成適配複雜安全域性勢的“常規調整”，但透過官方話術的濾鏡不難發現，此番制度重構絕非簡單的機構最佳化，而是日本收緊社會管控、鬆動戰後安保底線、加速軍事擴張的關鍵一步，暴露出日本右翼勢力日益膨脹的軍國主義野心。亞洲各國和國際社會對此必須保持高度警惕。高市早苗政府上臺後，日本“再軍事化”野心更加膨脹，從部署具備“對敵基地攻擊能力”的導彈，到派遣大規模戰鬥人員參加聯合軍演，再到透過內閣決議允許殺傷性武器對外出口，一系列危險動向早已戳穿其“和平國家”和“專守防衛”的自我標榜。如今，高市早苗政府重拾強化情報機構的歷史劇本，加速日本成為東亞“禍源”的危險態勢，地區國家必須高度警惕。日本應立即停止一切破壞地區和平穩定的危險行徑，真正回到和平發展的正確軌道上來。"
-    },
-    {
-      "id": "4926779",
-      "time": "2026-06-10 07:02:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際金價持續震盪走低 銀行加大積存金攬客力度】近一個月國際金價持續震盪走低，截至6月9日證券時報記者發稿時，倫敦金現報價4328美元/盎司；對比年初年內高點5598.75美元/盎司，累計下跌超千美元。受國際金價走弱帶動，國內銀行積存金價格回落至1000元/克下方。多位購買了銀行積存金產品的受訪者向記者表示，5月以來金價回落迅速，此前高位購入的積存金現在處於虧損狀態，目前不會繼續補倉。記者注意到，金價下跌後，銀行的積存金業務有所降溫，不少銀行選擇加大積存金的攬客力度，推出立減金、費率優惠等活動吸引客源。"
-    },
-    {
-      "id": "4926778",
-      "time": "2026-06-10 07:00:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國或要求企業就利潤掛鉤獎金舉行股東投票。"
-    },
-    {
-      "id": "4926777",
-      "time": "2026-06-10 06:59:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我國規模最大光氫儲一體化專案全面建成】記者今天（10日）從國家能源集團獲悉，國華投資江蘇如東光氫儲一體化專案全面建成。這也是全國規模最大的光氫儲一體化海上光伏示範專案。專案坐落在江蘇如東沿海灘塗區域，光伏總容量40萬千瓦，新建一座220千伏岸基升壓站、一座制氫能力達到每小時1500標準立方米的制氫站和一座電化學儲能電站。作為國內首個融合發電、制氫、儲能，兼顧綜合能源利用與濱海生態治理的專案，它實現了“電—儲—氫”的複合高效利用。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eae9c-b0cc-7ff4-a102-442276d4fe23",
-      "time": "2026-06-10 06:59:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "National Energy Group said the Guohua-backed Jiangsu Rudong integrated solar-hydrogen-storage project is fully completed. It is China's largest offshore PV demonstration project integrating solar generation, hydrogen production and energy storage."
-    },
-    {
-      "id": "4926776",
-      "time": "2026-06-10 06:58:36",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "三星、海力士或將公佈在韓投資計劃。"
     }
   ]
 }
