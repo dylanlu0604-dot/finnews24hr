@@ -1,7 +1,157 @@
 {
-  "updated": "2026-06-16 20:58:01",
-  "count": 18319,
+  "updated": "2026-06-16 21:02:49",
+  "count": 18321,
   "items": [
+    {
+      "id": "4938869",
+      "time": "2026-06-16 21:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "(HYDRA HOST：完成由Kindred Ventures領投，英偉達(NVIDIA)、方舟投資(ARK Invest)、Sply Capital等參投的融資輪。"
+    },
+    {
+      "id": "4938868",
+      "time": "2026-06-16 21:00:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌4%，現報4859.00元。"
+    },
+    {
+      "id": "mkt:019ed084-da06-7dd8-b032-299495f0b242",
+      "time": "2026-06-16 21:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the start of China’s night session, main domestic front-month futures were mixed. 20# rubber and Shanghai silver rose more than 1%. Low-sulfur fuel oil (LU), fuel oil and LPG fell over 4%; SC crude oil and asphalt dropped over 3%; methanol and styrene were down nearly 3%."
+    },
+    {
+      "id": "mkt:019ed084-d0a6-7dd8-b032-276a71c8bfec",
+      "time": "2026-06-16 21:00:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum rose over 3% to $1,825.20/oz."
+    },
+    {
+      "id": "4938867",
+      "time": "2026-06-16 21:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【去哪兒：6月16日18:30前預訂的青海海西大柴旦地區三天內的酒店訂單可免費取消】據中國地震臺網正式測定，2026年6月16日17時6分在青海海西州（北緯37.80度，東經95.56度）發生6.3級地震，震源深度10公里。震中10公里範圍內平均海拔約4302米。線上旅遊平臺去哪兒旅行宣佈啟動應急保障：預訂時間在6月16日18:30前，入住日期為6月16日至6月18日的青海海西大柴旦地區的訂單，去哪兒已開啟兜底保障措施，使用者可免費取消。同時，去哪兒將密切關注當地交通的政策，按照要求為廣大使用者辦理退改服務。"
+    },
+    {
+      "id": "4938866",
+      "time": "2026-06-16 21:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5732.00元。"
+    },
+    {
+      "id": "4938865",
+      "time": "2026-06-16 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2644.00元。"
+    },
+    {
+      "id": "4938864",
+      "time": "2026-06-16 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報5738.00元。"
+    },
+    {
+      "id": "4938863",
+      "time": "2026-06-16 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報7862.00元。"
+    },
+    {
+      "id": "4938862",
+      "time": "2026-06-16 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌2%，現報4015.00元。"
+    },
+    {
+      "id": "4938861",
+      "time": "2026-06-16 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】多晶矽連續跌7.25%，燃料油連續跌4.29%，液化石油氣連續跌3.87%，低硫燃料油連續跌3.16%，上海原油連續跌3.15%。"
+    },
+    {
+      "id": "4938860",
+      "time": "2026-06-16 20:59:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普表示，他相信其他阿拉伯國家將加入亞伯拉罕協議。當被問及其他阿拉伯和中東國家是否加入亞伯拉罕協議以建立與以色列的關係時，特朗普說：“我很樂意有這樣的安排。”"
+    },
+    {
+      "id": "mkt:019ed083-e841-7dd8-b032-1b1c852a4d19",
+      "time": "2026-06-16 20:59:26",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Al Jazeera reported President Trump said he believes additional Arab states will join the Abraham Accords and, when asked whether other Arab and Middle Eastern countries would establish relations with Israel, said \"I'd love to see that.\""
+    },
+    {
+      "id": "4938859",
+      "time": "2026-06-16 20:58:38",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國5月份新屋開工降至2020年以來最低水平】由於公寓專案開工數大跌，美國新建住宅建設速度放緩至六年來的最低水平。週二公佈的聯邦資料顯示，5月份美國新屋開工數下降15.4%，降至摺合年率118萬套。這一數字低於彭博調查的所有經濟學家的預期。單戶住宅開工數下降1.9%，降至摺合年率88.2萬套，多戶住宅開工數暴跌40.2%。週二的報告顯示，在需求低迷之際，建築商仍保持克制，努力消化待售新房供應。許多建築商透過降價併為客戶的抵押貸款利率提供補貼以尋找買家，同時也放慢了手頭沒有已簽署合同的房屋的建設。反映未來住宅建設的建築許可在5月份下降0.7%，摺合年率141萬套。單戶住宅建築許可輕微上升。"
+    },
+    {
+      "id": "te:markets:559363",
+      "time": "2026-06-16 20:58:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise on US-Iran Deal Optimism — Futures tracking the S&P/TSX Composite Index edged higher on Tuesday amid optimism over a pending US-Iran peace deal. US President Donald Trump said at the G7 summit that negotiations with Iran were moving into a second stage. Oil prices slid as markets weighed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, while higher gold prices provided support for mining shares. Meanwhile, Canadian home sales rose 5.5% in May, while home prices edged lower. Investors are now focused on the Federal Reserve's policy decision on Wednesday, with markets widely expecting interest rates to remain unchanged."
+    },
+    {
+      "id": "4938858",
+      "time": "2026-06-16 20:57:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：談及“無人機襲擊白宮UFC比賽的陰謀被挫敗”的訊息時，特朗普表示，“沒聽說過這事，沒有。但我看了——我看到的攻擊，是關於那些格鬥選手的……”。"
+    },
     {
       "id": "mkt:019ed082-157c-7dd8-b032-11a1d5fe47f6",
       "time": "2026-06-16 20:57:26",
@@ -168627,131 +168777,6 @@
         "國際"
       ],
       "text": "美國航空：達成協議將在三年內釋放3500萬加侖可持續航空燃料（SAF），可減少近30萬噸二氧化碳當量排放。"
-    },
-    {
-      "id": "4926302",
-      "time": "2026-06-09 21:02:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "博通盤前股價漲幅擴大至3%。"
-    },
-    {
-      "id": "4926301",
-      "time": "2026-06-09 21:02:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆鋒資訊：實際控制人歐霖傑解除留置並取保候審】恆鋒資訊公告，公司收到控股子公司福建微尚生活服務有限公司通知，相關監察機關已解除對該公司法定代表人、公司實際控制人兼副董事長、總裁歐霖傑的留置措施，相關公安機關決定對其取保候審。同日，歐霖傑已返回工作崗位。"
-    },
-    {
-      "id": "4926300",
-      "time": "2026-06-09 21:02:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基稱其已與拉脫維亞簽署無人機協議。"
-    },
-    {
-      "id": "mkt:019eac79-87b5-7ddc-a5f4-527e4bea710d",
-      "time": "2026-06-09 21:01:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Broadcom (AVGO.O), Apollo and Blackstone (BX.N) have launched a strategic platform to accelerate deployment of more than 20 GW of global AI infrastructure."
-    },
-    {
-      "id": "4926299",
-      "time": "2026-06-09 21:01:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通(AVGO.O)、阿波羅、黑石集團(BX.N)成立戰略平臺，以加速超過20吉瓦的全球人工智慧部署。"
-    },
-    {
-      "id": "4926298",
-      "time": "2026-06-09 21:01:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌1%，現報1360.00元。"
-    },
-    {
-      "id": "mkt:019eac78-5fb5-7ddc-a5f4-4b9e3c803b75",
-      "time": "2026-06-09 21:00:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF says Nigeria's central bank should maintain tight monetary policy."
-    },
-    {
-      "id": "mkt:019eac78-56bf-7ddc-a5f4-463819ba3366",
-      "time": "2026-06-09 21:00:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Industrial Metals",
-        "WTI",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Night session open: China's domestic commodity futures main contracts were mostly lower. SC crude oil, fuel oil and styrene (EB) fell about 2%; synthetic rubber, PET bottle flake, PTA, paraxylene (PX) and short fiber dropped over 1%. On the upside, SHFE tin rose nearly 2%, alumina gained more than 1%, and SHFE copper and zinc were up about 1%."
-    },
-    {
-      "id": "4926297",
-      "time": "2026-06-09 21:00:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：奈及利亞應保持緊縮貨幣政策以抑制通貨膨脹。"
-    },
-    {
-      "id": "4926296",
-      "time": "2026-06-09 21:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌1%，現報6244.00元。"
-    },
-    {
-      "id": "4926295",
-      "time": "2026-06-09 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】多晶矽連續跌3.55%，碳酸鋰連續漲3.45%，集運指數歐線期貨連續漲3.08%，雞蛋連續漲2.78%，菜籽連續跌2.40%。"
-    },
-    {
-      "id": "4926294",
-      "time": "2026-06-09 20:59:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英法澳等五國發布新制裁追究以色列定居者責任，警告以政府採取緊急措施】據半島電視臺網站6月9日報道，英國、澳大利亞、加拿大、法國和挪威五國當地時間8日發表宣告，稱已採取協同行動追究以色列強硬派定居者的責任，以回應被佔領約旦河西岸日益惡化的局勢。報道稱，上述五國在釋出新制裁措施後警告稱，如果以色列政府未能採取緊急措施解決當地局勢，他們準備隨時採取進一步行動。（環球網）"
-    },
-    {
-      "id": "4926293",
-      "time": "2026-06-09 20:58:12",
-      "tags": [
-        "資料"
-      ],
-      "text": "【美銀：5月CPI料創2023年4月以來最高水平】美銀的一份報告顯示，定於週三公佈的5月CPI同比增幅料升至4.2%，為2023年4月以來的最高水平。這一增幅符合接受《華爾街日報》調查的經濟學家的預期。該報告稱，對於政策前景，焦點可能會放在對核心個人消費支出價格指數(PCE)通脹的影響上，因為自去年11月以來，該指數一直高於CPI。"
-    },
-    {
-      "id": "mkt:019eac76-1a1e-7ddc-a5f4-384d53f70900",
-      "time": "2026-06-09 20:58:01",
-      "tags": [
-        "MKT News",
-        "NVO",
-        "Impact bullish",
-        "LLY"
-      ],
-      "text": "【Goldman Sachs lifts global obesity-drug forecast to $114bn by 2030 as oral GLP-1s go mainstream】Goldman Sachs raised its forecast for the global obesity-drug market to $114bn by 2030, up roughly 13% from a $101bn projection in December, citing rapid adoption of oral GLP-1 obesity drugs and a shift from a niche, high-price segment to a mass-consumer market."
     }
   ]
 }
