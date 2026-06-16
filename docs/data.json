@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-17 02:12:31",
-  "count": 18428,
+  "updated": "2026-06-17 02:16:28",
+  "count": 18430,
   "items": [
+    {
+      "id": "te:markets:559435",
+      "time": "2026-06-17 02:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Slumps by 6.21% — Top commodity losers are Crude Oil WTI (-6.21%), Brent Crude Oil (-5.32%) and Heating Oil (-3.06%). Gains are led by Natural gas (2.46%)."
+    },
+    {
+      "id": "mkt:019ed1a4-bc23-7dd8-b038-d0d8102b65d3",
+      "time": "2026-06-17 02:14:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran central bank governor says Iran‑US MOU obliges US to unfreeze Iranian assets】Iran central bank governor Abdolnaser Hemmati said on the 16th (local time) that the Iran‑US memorandum of understanding explicitly obliges the United States to unfreeze Iranian assets. He said the MOU’s clauses were drafted with reference to past cases to build enforceable mechanisms that ensure secure access and use of funds, and that the US will be required to meet its commitments. Hemmati added that once the MOU is signed and implemented, technical and banking‑level checks will be carried out to verify assets are genuinely unfrozen and usable."
+    },
+    {
+      "id": "mkt:019ed1a4-0213-7dd8-b038-ca044a6a9033",
+      "time": "2026-06-17 02:14:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Equatorial Guinea government resigns after failing to meet policy goals】On 16 June local time Vice‑President Teodoro Obiang Mangue announced the government has formally resigned, citing failure to meet established policy objectives. No new cabinet list or formation timetable has been released."
+    },
+    {
+      "id": "mkt:019ed1a2-b42c-7dd8-b038-c66d2341a331",
+      "time": "2026-06-17 02:12:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister said negotiations will continue for 60 days after the first phase to reach a final agreement covering nuclear issues and sanctions relief."
+    },
+    {
+      "id": "4939270",
+      "time": "2026-06-17 02:12:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部長：第一階段談判結束後，各方將繼續展開為期60天的談判，以達成最終協議，協議內容將涵蓋核問題以及解除制裁。"
+    },
     {
       "id": "4939269",
       "time": "2026-06-17 02:11:24",
@@ -169509,33 +169555,6 @@
         "Importance 0"
       ],
       "text": "Cotton Hits 8-week Low — Cotton decreased to 75.41 USd/Lbs, the lowest since April 2026. Over the past 4 weeks, Cotton lost 14.01%, and in the last 12 months, it increased 15.44%."
-    },
-    {
-      "id": "4926614",
-      "time": "2026-06-10 02:16:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：臨近我國領土的外國駐軍，始終面臨風險，隱患源於人為失誤、意外事故，亦或是捲入交火衝突。"
-    },
-    {
-      "id": "te:markets:557766",
-      "time": "2026-06-10 02:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Falls by 3.28% — Top commodity losers are Crude Oil WTI (-3.28%), Natural Gas UK (-3.11%) and Brent Crude Oil (-2.68%). Gains are led by Methanol (1.91%) and Natural gas (0.50%)."
-    },
-    {
-      "id": "4926613",
-      "time": "2026-06-10 02:12:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石集團買入特別風險轉移（SRT），銀行業正急於對沖貸款風險。"
     }
   ]
 }
