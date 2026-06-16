@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-17 00:22:16",
-  "count": 18368,
+  "updated": "2026-06-17 00:26:16",
+  "count": 18372,
   "items": [
+    {
+      "id": "4939180",
+      "time": "2026-06-17 00:25:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "交易警報資料顯示，SpaceX期權合約首日成交超100萬張。"
+    },
+    {
+      "id": "te:markets:559423",
+      "time": "2026-06-17 00:25:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Orange Juice Hits 26-week Low — Orange Juice decreased to 149.00 USd/Lbs, the lowest since December 2025. Over the past 4 weeks, Orange Juice lost 6.69%, and in the last 12 months, it decreased 41.01%."
+    },
+    {
+      "id": "mkt:019ed140-08c3-7dd8-b036-e03f0fea9566",
+      "time": "2026-06-17 00:24:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Uganda's vice president urged countries that have imposed \"undue restrictions\" in response to the Ebola outbreak to lift those measures."
+    },
+    {
+      "id": "mkt:019ed13f-c15b-7dd8-b036-deab8608ed85",
+      "time": "2026-06-17 00:24:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Senior U.S. official said Iran may sell oil only if it complies with all terms of any agreement reached, including refraining from disrupting freedom of navigation in the Strait of Hormuz and from acquiring nuclear weapons."
+    },
+    {
+      "id": "4939179",
+      "time": "2026-06-17 00:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏干達副總統呼籲因埃博拉實施“不當限制措施”的各國取消相關限制。"
+    },
+    {
+      "id": "4939178",
+      "time": "2026-06-17 00:24:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：伊朗只能在遵守所有已達成協議條款的前提下出售石油，這些條款包括不得干擾霍爾木茲海峽的通航自由，以及不得獲取核武器。"
+    },
+    {
+      "id": "mkt:019ed13f-3848-7dd8-b036-d70cc5ee9c0f",
+      "time": "2026-06-17 00:24:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Apple (AAPL.O) is preparing a new series of iPhone chips, including an A22 Pro that could use a 1.4nm process and is expected to debut in 2028, US tech reporter Gurman says."
+    },
+    {
+      "id": "4939177",
+      "time": "2026-06-17 00:23:13",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克當前個人財富總值已超越比特幣整體市值。\n馬斯克淨資產：1.4萬億美元。\n比特幣總市值：1.3萬億美元。"
+    },
+    {
+      "id": "mkt:019ed13e-27bb-7dd8-b036-cf9a00c02ccb",
+      "time": "2026-06-17 00:22:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A senior U.S. official said Iran could begin selling oil and fuel immediately once an agreement is signed this week."
+    },
     {
       "id": "4939176",
       "time": "2026-06-17 00:21:09",
@@ -169003,54 +169089,6 @@
         "國際"
       ],
       "text": "【保加利亞防長稱將停止對烏克蘭軍事援助】當地時間6月9日，保加利亞國防部長斯托亞諾夫在索菲亞表示，保加利亞將停止對烏克蘭的軍事援助。他認為，俄烏衝突無法在戰場上解決，現在俄烏雙方需要透過談判尋求和平。自2022年俄烏衝突爆發以來，保加利亞已向烏克蘭提供了13批武器援助。但今年拉德夫政府上臺後，對烏政策發生了轉變。（央視新聞）"
-    },
-    {
-      "id": "4926564",
-      "time": "2026-06-10 00:25:54",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛和巴克萊警示：上週五美股的急挫不應被輕易視作一次性的異常波動】上週五的拋售讓習慣於動量股只漲不跌的投資者措手不及。但投資者不應輕易將其視為一次性的異常波動。巴克萊和高盛集團的交易部門發出上述警告，認為持倉擁擠、市場廣度狹窄以及利率將在更長時間維持高位的前景，使得股市更容易出現突然的回撥。高盛交易員Lee Coppersmith等人在致客戶的報告中寫道：“這些因素共同營造出一種環境，使得因子交易平倉的衝擊可能遠比指數層面波動率所顯示的水平更加劇烈。”上週五讓投資者見識到，一旦市場情緒逆轉，股市中漲幅最大的股票走勢可能多快掉頭。"
-    },
-    {
-      "id": "4926563",
-      "time": "2026-06-10 00:25:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【武磊完成第101次國家隊出場 國足0-0戰平泰國】北京時間6月9日晚，2026中國之隊國際足球邀請賽，中國男足在浙江金華主場0-0戰平泰國男足。賽前，中國足協為武磊舉辦了國家隊百場紀念儀式。此役登場，是武磊代表國家隊的第101次出戰。"
-    },
-    {
-      "id": "mkt:019ead32-0f30-7cc9-8dc0-1d6c2446b3ca",
-      "time": "2026-06-10 00:23:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "QatarEnergy said the Merlin-1X exploration well delivered 'encouraging' subsurface results, showing good reservoir quality, light crude and low associated gas."
-    },
-    {
-      "id": "mkt:019ead31-70f9-7fff-91b5-c9ba9e7af6df",
-      "time": "2026-06-10 00:22:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "EIA now expects global oil demand to decline in 2026, reversing its prior forecast of modest growth."
-    },
-    {
-      "id": "4926562",
-      "time": "2026-06-10 00:22:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【IRNA：伊朗國防部稱將加快武器生產】據官方的伊朗通訊社(IRNA)援引宣告報道稱，伊朗國防部將調動該國“全部的科研、工業和國防能力，以加快研發和生產武裝部隊所需的裝備、武器和系統”。伊朗國防部在宣告中表示，此舉將確保伊朗軍隊保持“充分準備，並有能力捍衛國家的安全、獨立和領土完整”。"
     }
   ]
 }
