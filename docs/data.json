@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-16 23:31:55",
-  "count": 18381,
+  "updated": "2026-06-16 23:36:17",
+  "count": 18373,
   "items": [
+    {
+      "id": "mkt:019ed111-a7b3-7dd8-b035-d3e82b7ac473",
+      "time": "2026-06-16 23:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK investigating alleged warning shot by Russian warship at British yacht】The UK is investigating whether a Russian warship fired a warning shot at a British-registered yacht outside UK territorial waters, the government said. The yacht reported the warship fired from about 500 yards (457m) away; the incident occurred roughly 20 nautical miles (37km) south of the Isle of Wight. There were no injuries or damage. The government described the episode as isolated and said it was not linked to a Sunday military action against a sanctioned tanker. The Ministry of Defence said: \"We are investigating reports of an incident in the English Channel.\""
+    },
+    {
+      "id": "mkt:019ed111-4911-7dd8-b035-cf8cbe126cbb",
+      "time": "2026-06-16 23:33:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 6-week Treasury bill auction to June 16 — stop-out yield 3.60%; previous 3.60%."
+    },
+    {
+      "id": "mkt:019ed110-f189-7dd8-b035-c2184f8ab325",
+      "time": "2026-06-16 23:33:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 6-week Treasury auction through June 16: 35.89% of awards at the stop-out yield, vs 26.63% previously."
+    },
+    {
+      "id": "4939114",
+      "time": "2026-06-16 23:33:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守76美元/桶，日內跌4.36%。"
+    },
+    {
+      "id": "mkt:019ed110-82ee-7dd8-b035-bab8847dc202",
+      "time": "2026-06-16 23:33:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 6-week Treasury bill auction on June 16: bid-cover ratio 3.12, prior 3.25."
+    },
+    {
+      "id": "4939113",
+      "time": "2026-06-16 23:32:31",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.6%，投標倍數3.12。"
+    },
+    {
+      "id": "mkt:019ed10f-bb31-7dd8-b035-b7baa35e73b6",
+      "time": "2026-06-16 23:32:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "Nikkei reports that after the US and Iran announced a peace agreement, Japan is exploring dispatching its Self-Defense Forces to carry out mine-clearing and escort operations in the Strait of Hormuz, but the government is facing difficulty securing support for such missions."
+    },
+    {
+      "id": "te:economy:559398",
+      "time": "2026-06-16 23:31:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Retail Sales Growth Accelerates in April — Retail sales in Colombia rose 14.9% year-on-year in April 2026, beating forecasts of 11.4% and accelerating from a 13.4% increase in March. Retail activity was broadly positive, with 18 merchandise categories posting higher real sales and only one recording a decline. The strongest contributions came from motor vehicles and motorcycles mainly for household use (49.8%), other motor vehicles and motorcycles (43.8%), and information technology and telecommunications equipment for personal or household use (20.9%). In contrast, sales of fuels for motor vehicles fell 0.3%. Excluding fuel sales, real retail sales increased 18.5%."
+    },
+    {
+      "id": "4939112",
+      "time": "2026-06-16 23:31:41",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲股指收盤普漲】歐洲斯托克600指數上漲0.26%，歐洲斯托克指數上漲0.25%，歐元區藍籌股指數上漲0.42%。法國CAC 40指數上漲0.75%，西班牙IBEX指數上漲0.59%，英國富時100指數上漲0.71%，德國DAX指數上漲0.08%。"
+    },
     {
       "id": "mkt:019ed10e-8242-7dd8-b035-a815f76a1286",
       "time": "2026-06-16 23:30:49",
@@ -169024,188 +169120,6 @@
         "國際"
       ],
       "text": "美國國家航空航天局：阿爾忒彌斯三號任務最早也要到明年此時才能實施。"
-    },
-    {
-      "id": "mkt:019ead06-dca3-7dd1-a397-dbc267cbeca7",
-      "time": "2026-06-09 23:35:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bulgaria's new government said it will not supply weapons to Ukraine."
-    },
-    {
-      "id": "mkt:019ead05-a425-7dd1-a397-d34b154d0c36",
-      "time": "2026-06-09 23:34:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold, after reaching an intraday high of $4,363.66/oz, has weakened and slipped below $4,270/oz, down 1.40% on the day."
-    },
-    {
-      "id": "4926509",
-      "time": "2026-06-09 23:34:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部在得州La Salle County新發現一例螺旋蠅（Screwworm）病例。"
-    },
-    {
-      "id": "4926508",
-      "time": "2026-06-09 23:34:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟反壟斷負責人：Meta為化解歐盟競爭監管顧慮所提出的方案缺乏說服力。"
-    },
-    {
-      "id": "mkt:019ead04-623f-7dd1-a397-c955bdbfe442",
-      "time": "2026-06-09 23:33:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "U.S. 6-week Treasury bill auction to June 9: 26.63% of the allocation awarded at the stop-out yield, versus 63.21% previously."
-    },
-    {
-      "id": "mkt:019ead04-32b5-7dd1-a397-c62275878cd9",
-      "time": "2026-06-09 23:33:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US 6-week Treasury auction on June 9: bid-cover ratio 3.25, prior 3.28."
-    },
-    {
-      "id": "4926507",
-      "time": "2026-06-09 23:33:02",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣六週期國債，得標利率3.6%，投標倍數3.25。拍賣52週期國債，得標利率3.750%，投標倍數3.34。"
-    },
-    {
-      "id": "mkt:019ead03-dcba-7dd1-a397-b8fadf9a4136",
-      "time": "2026-06-09 23:32:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US 6-week Treasury auction to June 9 — stop-out yield 3.60% vs 3.63% prior."
-    },
-    {
-      "id": "mkt:019ead03-764f-7dd1-a397-b31c76301ee7",
-      "time": "2026-06-09 23:32:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. 1-year Treasury auction to June 9: bid-cover ratio 3.34, prior 3.41."
-    },
-    {
-      "id": "mkt:019ead03-7334-7dd1-a397-ad60f85f5c96",
-      "time": "2026-06-09 23:32:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US 1-year Treasury auction June 9: stop-out yield 3.75%, up 10 bps from 3.65% prior."
-    },
-    {
-      "id": "mkt:019ead03-72b8-7dd1-a397-a3fb89c036f3",
-      "time": "2026-06-09 23:32:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US 1-year Treasury auction to June 9 — share of awards at the stop-out yield 70.95%, versus 4.56% previously."
-    },
-    {
-      "id": "mkt:019ead03-727a-7dd1-a397-9a3d9e21d704",
-      "time": "2026-06-09 23:32:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's Supreme Leader said Tehran has never sought war and does not seek it, but will never relinquish its legitimate rights."
-    },
-    {
-      "id": "4926506",
-      "time": "2026-06-09 23:32:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高領袖：我們從未尋求戰爭，也不尋求戰爭，但我們絕不會放棄我們的合法權利。"
-    },
-    {
-      "id": "mkt:019ead03-25ff-7dd1-a397-92c1d7e1cede",
-      "time": "2026-06-09 23:32:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 12-Month Bill Auction Bid/Cover Ratio (Jun.9) | actual 3.34 | previous 3.41"
-    },
-    {
-      "id": "mkt:019ead03-259e-7dd1-a397-89d9c01de708",
-      "time": "2026-06-09 23:32:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 12-Month Bill Auction Accepted at High (Jun.9) | actual 70.95% | previous 4.56%"
-    },
-    {
-      "id": "mkt:019ead03-259b-7dd1-a397-82d0b70c21c1",
-      "time": "2026-06-09 23:32:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 12-Month Bill Auction High Yield Rate (Jun.9) | actual 3.75% | previous 3.65%"
-    },
-    {
-      "id": "4926505",
-      "time": "2026-06-09 23:32:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4270美元/盎司，日內跌1.49%。"
     }
   ]
 }
