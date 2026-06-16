@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-17 03:40:51",
-  "count": 18432,
+  "updated": "2026-06-17 03:44:53",
+  "count": 18429,
   "items": [
+    {
+      "id": "4939315",
+      "time": "2026-06-17 03:41:10",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委：英國可助力歐盟打破資本市場停滯局面】歐洲央行管理委員會成員兼荷蘭央行行長Olaf Sleijpen表示，英國可以幫助歐盟整合該集團的資本市場。歐盟與英國之間更緊密的合作，有助於推動深化資本市場和儲蓄聯盟的程序。他呼籲與英國展開合作，表示互相借鑑經驗、改善市場準入可以支援金融穩定與經濟增長。"
+    },
     {
       "id": "mkt:019ed1f1-bd04-7dd8-b039-b695506e15cd",
       "time": "2026-06-17 03:39:01",
@@ -169529,48 +169539,6 @@
         "國際"
       ],
       "text": "法國總統馬克龍邀請沙特王儲、卡達埃米爾出席七國集團峰會。"
-    },
-    {
-      "id": "4926658",
-      "time": "2026-06-10 03:44:46",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【大摩G10外匯策略主管：美聯儲將維持利率不變 美元將走弱】摩根士丹利的G10外匯策略主管David Adams表示，隨著美聯儲達不到市場預期並且在今年維持利率不變，美元可能走弱。“從風險平衡來看，美元未來會下跌，”Adams在紐約接受採訪時表示，“我們看空美元”。他認為，歐元將在第三季度升至1.23美元，因為歐洲央行今年將加息兩次，而美聯儲則會按兵不動。"
-    },
-    {
-      "id": "mkt:019eade9-2b48-7225-91aa-d330c57ea066",
-      "time": "2026-06-10 03:43:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "According to CBS, U.S. Vice President Vance said an Iran nuclear deal could be reached within a week or in several months, but he said it would \"absolutely\" be concluded before the November midterm elections."
-    },
-    {
-      "id": "mkt:019eade8-8fc2-7225-91aa-c923f6dc13da",
-      "time": "2026-06-10 03:42:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump says he told Netanyahu \"don't harm the agreement, use your own judgment\"】ABC News reporter Jonathan Karl said Trump, in an interview, gave a slightly different account of his call with Benjamin Netanyahu. Trump said he directly asked Netanyahu to delay an attack on Iran and told him, \"I don't want to do anything that will damage the agreement, but I told him, 'You must use your own judgment.' Do what you think is best, but I don't want this agreement harmed.\""
-    },
-    {
-      "id": "4926657",
-      "time": "2026-06-10 03:42:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：俄羅斯千島群島東南偏東 120 公里處發生5.1 級地震。"
     }
   ]
 }
