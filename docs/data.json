@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-17 02:16:28",
-  "count": 18430,
+  "updated": "2026-06-17 02:20:19",
+  "count": 18425,
   "items": [
+    {
+      "id": "4939271",
+      "time": "2026-06-17 02:17:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達埃米爾表示，與特朗普討論了加強合作的方式。"
+    },
     {
       "id": "te:markets:559435",
       "time": "2026-06-17 02:15:18",
@@ -169493,68 +169501,6 @@
         "WTI"
       ],
       "text": "Iran's foreign minister said the armed forces have gone on alert in response to airspace incursions."
-    },
-    {
-      "id": "te:markets:557768",
-      "time": "2026-06-10 02:20:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 4.09% — Top commodity losers are Silver (-4.09%), Silicon (-1.75%), Platinum (-1.52%) and Gold (-1.17%)."
-    },
-    {
-      "id": "mkt:019ead9c-4601-7225-91aa-0bdaebd98443",
-      "time": "2026-06-10 02:19:20",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Sources said investor demand for SpaceX's IPO is approaching fourfold oversubscription."
-    },
-    {
-      "id": "mkt:019ead9c-1eb6-7225-91aa-02511aad7bca",
-      "time": "2026-06-10 02:19:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's foreign minister said foreign forces operating near Iranian territory are continuously at risk — from human error, accidents or being drawn into crossfire during a conflict — and that the best way to reduce that risk is for those external forces to withdraw from the region."
-    },
-    {
-      "id": "4926616",
-      "time": "2026-06-10 02:18:07",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：SpaceX美國IPO 的認購需求已接近四倍超額認購。"
-    },
-    {
-      "id": "4926615",
-      "time": "2026-06-10 02:16:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：想要降低風險，最好的辦法就是撤離。我們傾向於透過外交方式溝通，但也做好了其他應對準備。"
-    },
-    {
-      "id": "te:markets:557767",
-      "time": "2026-06-10 02:16:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Cotton Hits 8-week Low — Cotton decreased to 75.41 USd/Lbs, the lowest since April 2026. Over the past 4 weeks, Cotton lost 14.01%, and in the last 12 months, it increased 15.44%."
     }
   ]
 }
