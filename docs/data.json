@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-16 23:19:25",
+  "updated": "2026-06-16 23:23:43",
   "count": 18384,
   "items": [
+    {
+      "id": "4939105",
+      "time": "2026-06-16 23:23:00",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%。"
+    },
+    {
+      "id": "mkt:019ed106-06d6-7dd8-b035-874946e48ea7",
+      "time": "2026-06-16 23:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A British yacht reported that Russian naval vessels fired warning shots. The yacht reported no casualties or damage."
+    },
+    {
+      "id": "4939104",
+      "time": "2026-06-16 23:21:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防部就英國遊艇稱遭到俄海軍艦艇鳴槍示警事件表態：涉事英國遊艇未上報人員受傷或船體受損情況。"
+    },
+    {
+      "id": "4939103",
+      "time": "2026-06-16 23:20:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "Spotify 表示應用故障已全部修復。"
+    },
+    {
+      "id": "mkt:019ed104-98bb-7dd8-b035-7c1da80c9edc",
+      "time": "2026-06-16 23:19:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK Ministry of Defence said it viewed the incident involving a Russian warship in the English Channel as an isolated event."
+    },
+    {
+      "id": "4939102",
+      "time": "2026-06-16 23:19:22",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "美國新墨西哥州調查人員就愛潑斯坦案向包括摩根大通與谷歌的二十四家企業傳送調查函件，要求調取相關資料。"
+    },
     {
       "id": "mkt:019ed101-b59c-7dd8-b035-7685ed853a7f",
       "time": "2026-06-16 23:16:50",
@@ -169185,84 +169237,6 @@
         "其他"
       ],
       "text": "5 月，外國投資者在伊斯坦布林證券交易所明星板及主機板股票市場淨賣出 8.504 億美元。"
-    },
-    {
-      "id": "mkt:019eacf9-b33b-7dd1-a397-681afcd16af0",
-      "time": "2026-06-09 23:21:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "The European Commission has ordered Meta Platforms (META.O) to comply within five working days."
-    },
-    {
-      "id": "mkt:019eacf9-8e68-7dd1-a397-667f7f9f41dd",
-      "time": "2026-06-09 23:21:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "EU: orders related to Meta Platforms (META.O) will remain in effect until the EU investigation concludes."
-    },
-    {
-      "id": "mkt:019eacf9-53fe-7dd1-a397-5c90977de2ad",
-      "time": "2026-06-09 23:21:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "EU says its order against Meta Platforms (META.O) is intended to protect competition among AI chatbots and to prevent irreversible market harm."
-    },
-    {
-      "id": "4926492",
-      "time": "2026-06-09 23:21:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟：該裁決將持續生效，直至針對Meta的調查結束。該裁決旨在維護 AI 聊天機器人領域的市場競爭，避免市場遭受無法挽回的損害。 需在五個工作日內遵守該裁決。"
-    },
-    {
-      "id": "mkt:019eacf9-02a7-7dd1-a397-54947f892f1a",
-      "time": "2026-06-09 23:21:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O) said it will appeal the EU order, calling the measure regulatory overreach."
-    },
-    {
-      "id": "4926491",
-      "time": "2026-06-09 23:20:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta： 將對歐盟的裁決提起上訴， 歐盟此項裁決屬於監管越界，背後有歐洲付費企業暗中推動。"
     }
   ]
 }
