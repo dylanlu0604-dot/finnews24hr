@@ -1,7 +1,22 @@
 {
-  "updated": "2026-06-17 03:17:18",
-  "count": 18442,
+  "updated": "2026-06-17 03:24:46",
+  "count": 18436,
   "items": [
+    {
+      "id": "mkt:019ed1df-a34b-7dd8-b039-9028bc8ea41e",
+      "time": "2026-06-17 03:19:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Industry: China-US shipping routes fully booked】Industry sources say China-US routes are at full capacity. Since May, East and South China slots have tightened with frequent cargo rollovers and June space largely sold out, reverting the trade to peak-season scarcity. In late April a 40-foot box from Ningbo to the US West Coast was quoted about $2,900 and to the US East Coast about $3,900; after several rounds of increases current rates are roughly $6,300 to the West Coast and $7,500 to the East Coast. Demand is supported by low US goods inventories and restocking; supply is constrained by Middle East tensions—more than 300,000 TEU tied up in the Persian Gulf—delayed Red Sea resumptions, vessel rerouting, slower turnaround and reduced speeds, which have lowered effective capacity and intensified the supply-demand imbalance."
+    },
     {
       "id": "mkt:019ed1dd-6b0c-7dd8-b039-881584c7b737",
       "time": "2026-06-17 03:16:49",
@@ -169582,70 +169597,6 @@
         "國際"
       ],
       "text": "航班追蹤網站Flightradar24資料顯示，目前中東上空至少有8架美國空軍KC-135R同溫層加油機與KC-46A飛馬加油機。這些空中加油機大機率配有戰鬥機和攻擊機護航，正活動於以色列、約旦、沙烏地阿拉伯、波斯灣及阿曼灣上空。"
-    },
-    {
-      "id": "mkt:019eadd7-5593-7225-91aa-a916de391424",
-      "time": "2026-06-10 03:23:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "【Dollar index falls 0.13% to 99.909 on the 9th】The dollar index, measuring the USD against six major currencies, fell 0.13% to 99.909 at the New York close on the 9th. At the NY FX close: EUR/USD 1.1550, up from 1.1528; GBP/USD 1.3388, up from 1.3339; USD/JPY 160.36, up from 160.26; USD/CHF 0.7979, unchanged; USD/CAD 1.3952, down from 1.3956; USD/SEK 9.4603, up from 9.4401."
-    },
-    {
-      "id": "4926648",
-      "time": "2026-06-10 03:23:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【汽車遠洋運輸需求增長 帶動運輸船造船市場火熱】今年前5個月，我國汽車出口的貨量和貨值同比增長均超過四成。汽車出口持續繁榮，也帶動了汽車遠洋運輸需求的增長，這使得汽車運輸船造船市場格外火爆。據統計，今年前5個月，經廣州南沙汽車碼頭出口汽車約19.2萬輛，同比增長約二成，其中新能源汽車約9.4萬輛，同比增長超過八成。距離南沙汽車碼頭十幾分鍾車程的一家造船廠裡，工人們正在建造一艘大型汽車運輸船。單艘運輸船的運輸量就超過了一萬輛車。"
-    },
-    {
-      "id": "4926647",
-      "time": "2026-06-10 03:23:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本飛行汽車初創公司SkyDrive計劃2028年正式推出飛行汽車。"
-    },
-    {
-      "id": "4926646",
-      "time": "2026-06-10 03:22:09",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛表示，西方核電行業發展放緩，俄羅斯則加快相關建設步伐。"
-    },
-    {
-      "id": "4926645",
-      "time": "2026-06-10 03:21:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數9日下跌】美元指數9日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.13%，在匯市尾市收於99.909。截至紐約匯市尾市，1歐元兌換1.1550美元，高於前一交易日的1.1528美元；1英鎊兌換1.3388美元，高於前一交易日的1.3339美元。1美元兌換160.36日元，高於前一交易日的160.26日元；1美元兌換0.7979瑞士法郎，與前一交易日持平；1美元兌換1.3952加元，低於前一交易日的1.3956加元；1美元兌換9.4603瑞典克朗，高於前一交易日的9.4401瑞典克朗。"
-    },
-    {
-      "id": "4926644",
-      "time": "2026-06-10 03:19:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普：美國可能會出資幫助伊朗重建基礎設施】美國廣播公司新聞援引對美國總統的採訪報道稱，特朗普表示，如果美國摧毀伊朗的基礎設施，美國可能會出資幫助其重建。“總得有人去修建所有這些基礎設施，新建橋樑、新建各類設施、新建發電廠，”特朗普說，“這需要一萬億美元，可能更多。你們明白，這就是我們可能會參與重建的原因，對吧，幫助他們重建。”當被問及這是否會是針對伊朗的馬歇爾計劃時，特朗普回應“是的”，並補充道：“但我們會拿走他們一半的石油。”"
-    },
-    {
-      "id": "4926643",
-      "time": "2026-06-10 03:18:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗並未向美國提交任何新方案】伊朗談判團隊相關知情人士向法爾斯通訊社表示，伊朗並未向美國提交任何新方案。今日天空新聞報道稱，伊朗已向美方遞交新版和平方案草案，有初步訊息顯示美方認為該方案可以接受。此前阿拉伯電視臺曾報道，伊朗同意將濃縮鈾轉移至第三國，該說法同樣遭到伊朗方面否認。"
     }
   ]
 }
