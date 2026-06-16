@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-16 21:52:59",
-  "count": 18330,
+  "updated": "2026-06-16 21:57:12",
+  "count": 18327,
   "items": [
+    {
+      "id": "mkt:019ed0b8-31f0-7dd8-b033-7bf85cae961a",
+      "time": "2026-06-16 21:56:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filings show Shenzhen Kubo Energy Co. has submitted a listing application."
+    },
+    {
+      "id": "te:markets:559377",
+      "time": "2026-06-16 21:56:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Political and Inflation Concerns — The Ibovespa fell about 0.5% to hover near the 169,500 mark on Tuesday as investors digested fresh election polls and rising inflation expectations. According to a BTG/Nexus survey released on Monday, President Lula holds a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation rose for the 14th consecutive week, prompting markets to reassess the duration of the BCB’s easing cycle. Most sectors traded lower. Financial stocks were pressured by concerns over higher borrowing costs, with Bradesco and Itaúsa losing around 0.5%. Petrobras weighed on the index, falling nearly 2% on optimism surrounding a preliminary US-Iran peace agreement that could reopen the Strait of Hormuz. In contrast, Sabesp gained more than 1.5% after announcing that Claudio Kawa Hermolin had assumed leadership of the newly created Customer Experience Division."
+    },
+    {
+      "id": "4938964",
+      "time": "2026-06-16 21:56:16",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "【6月16日增減持彙總】據不完全統計，6月16日盤後，盛泰集團、新里程披露增持情況，播恩集團、福達合金、和遠氣體、百合花4家A股上市公司披露擬減持情況。"
+    },
+    {
+      "id": "te:markets:559376",
+      "time": "2026-06-16 21:55:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures traded slightly above $2.60 per pound, the highest since late May, amid concerns about weather conditions in Brazil's producing regions and the progress of the 2025/26 harvest. Local farmers said that several days of rain hindered harvesting and drying of the beans, especially in areas where operations are more advanced. A cold front remains active across southeastern Brazil’s coffee belt, with rain in parts of São Paulo, Minas Gerais, Rio de Janeiro, and Espírito Santo. Although rainfall is expected to ease in some areas over the week, renewed instability is expected thereafter."
+    },
+    {
+      "id": "4938963",
+      "time": "2026-06-16 21:54:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所股價下跌 3.9%。"
+    },
+    {
+      "id": "4938962",
+      "time": "2026-06-16 21:54:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股雲端計算服務商延續漲勢】美股雲端計算服務商延續漲勢，CoreWeave大漲近10%，Nebius漲近4%，Hut 8、IREN漲約2%。"
+    },
+    {
+      "id": "4938961",
+      "time": "2026-06-16 21:53:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：高盛高管魯姆勒將留任高階顧問一職。"
+    },
+    {
+      "id": "te:economy:559375",
+      "time": "2026-06-16 21:52:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Hungary 10Y Bond Yield Hits 4-year Low — Hungary 10 Year Government Bond Yield decreased to 5.14%, the lowest since February 2022. Over the past 4 weeks, Hungary 10Y Bond Yield lost 51.69 basis points, and in the last 12 months, it decreased 189.69 basis points."
+    },
     {
       "id": "4938959",
       "time": "2026-06-16 21:51:47",
@@ -168770,111 +168846,6 @@
         "其他"
       ],
       "text": "【馬裡暫停全國淘金活動以保障從業者安全】馬裡礦業部9日釋出新聞公報說，馬裡將於6月15日至9月30日暫停全國範圍內的淘金活動。"
-    },
-    {
-      "id": "4926397",
-      "time": "2026-06-09 21:57:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯主要股指跌幅超6.5%。"
-    },
-    {
-      "id": "4926396",
-      "time": "2026-06-09 21:56:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：與格里爾的會晤應該會在未來幾天舉行。"
-    },
-    {
-      "id": "4926395",
-      "time": "2026-06-09 21:56:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中非農業科技產業合作論壇聚焦農業現代化合作】為期3天的2026中非農業科技產業合作論壇暨展覽會9日在肯亞首都內羅畢開幕。來自中非政府部門、國際組織、科研機構、高校、商協會及企業的100多名代表共同探討中非農業現代化合作新路徑。 中國駐肯亞大使郭海燕在論壇開幕式致辭中表示，在中非合作論壇框架下，農業現代化已成為中非互利合作的重要領域。中國的成功經驗為非洲國家推進農業現代化提供有益借鑑，中國農業技術、裝備和產品能夠助力非洲加快農業轉型，實現糧食和營養安全，中國的零關稅政策則為非洲農產品出口創造黃金機遇。非洲豐富的農業資源和年輕人口優勢同中國發展經驗、先進技術和廣闊市場相結合，將為雙方推進農業現代化、提升糧食安全水平和實現共同繁榮注入強勁動力。（新華社）"
-    },
-    {
-      "id": "te:markets:557704",
-      "time": "2026-06-09 21:55:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Advances on Hopes for US-Iran Deal — The S&P/TSX Composite Index gained 0.5% to trade above 34,500 on Tuesday amid signs of easing tensions in the Middle East. The White House suggested that a deal to end the more than three-month-old conflict with Iran could be reached within days, improving risk sentiment. Oil prices and bond yields declined, supporting financial stocks and the broader market. RBC and BMO rose about 1%, while TD Bank added more than 0.5%. Meanwhile, higher gold prices provided support to mining shares, with Barrick advancing more than 1%. Elsewhere, Shopify extended its rally with a nearly 5% gain as persistent optimism surrounding artificial intelligence boosted technology stocks. Investors also looked ahead to the Bank of Canada's policy decision on Wednesday, with policymakers widely expected to leave interest rates unchanged."
-    },
-    {
-      "id": "4926394",
-      "time": "2026-06-09 21:55:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨白銀站上69美元/盎司】現貨白銀站上69美元/盎司，日內漲1.25%。"
-    },
-    {
-      "id": "4926393",
-      "time": "2026-06-09 21:55:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【泰國前總理他信獲特赦】泰國獄政廳6月9日釋出公告說，泰國前總理他信·西那瓦9日被摘除電子監控裝置，獲得特赦。泰國司法部長魯塔蓬3日接受媒體採訪時表示，根據泰國國王瑪哈·哇集拉隆功2日頒佈的特赦令，他信符合特赦條件，屬於獲得赦免的人員之一。（新華社）"
-    },
-    {
-      "id": "mkt:019eaca9-e918-7339-9918-08e9f0091142",
-      "time": "2026-06-09 21:54:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK and German government bonds rose; 10-year UK gilt yield fell 5bp to 4.89%."
-    },
-    {
-      "id": "4926392",
-      "time": "2026-06-09 21:54:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國和德國國債上漲，10年期英國國債收益率下跌5個基點至4.89%。"
-    },
-    {
-      "id": "mkt:019eaca8-a519-7ddc-a5f5-5c1b64026b08",
-      "time": "2026-06-09 21:53:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "EKHBARIYA, citing a White House official, reported talks on an agreement to prevent Iran from obtaining nuclear weapons are making positive progress."
-    },
-    {
-      "id": "te:markets:557703",
-      "time": "2026-06-09 21:53:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Hermes International Stock Price Hits 4-week High — Hermes International shares increased to 1675.00 EUR, the highest since May 2026. Over the past 4 weeks, Hermes International gained 4.16%, and in the last 12 months, it decreased 28.71%."
-    },
-    {
-      "id": "4926391",
-      "time": "2026-06-09 21:53:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "ROBLOX股價上漲5%。"
     }
   ]
 }
