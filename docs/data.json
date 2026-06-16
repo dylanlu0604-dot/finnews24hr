@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-17 02:52:28",
-  "count": 18435,
+  "updated": "2026-06-17 02:56:31",
+  "count": 18439,
   "items": [
+    {
+      "id": "4939296",
+      "time": "2026-06-17 02:54:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗警告以色列停止黎南部軍事行動】當地時間6月16日晚，伊朗武裝部隊哈塔姆·安比亞中央司令部發布宣告稱，在美國總統特朗普宣佈戰爭結束後的兩天裡，以色列軍隊在黎巴嫩南部違反停火協議84次，繼續對黎巴嫩無辜民眾實施犯罪和屠殺。伊朗武裝部隊鄭重警告：如果以色列不停止對黎巴嫩南部的侵略和挑釁行為，等待它的將是伊朗武裝力量的強力回應。"
+    },
+    {
+      "id": "mkt:019ed1c9-4504-7dd8-b039-45440b47d320",
+      "time": "2026-06-17 02:54:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude-3.7 earthquake at 02:50 on June 17 in Haixi Prefecture, Qinghai; hypocenter depth 10 km."
+    },
+    {
+      "id": "mkt:019ed1c9-131f-7dd8-b039-3f8766fbf54d",
+      "time": "2026-06-17 02:54:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Sources said US Commerce Secretary Lutnick warned in a letter to ANTHROPIC that Washington would impose restrictions on advanced AI models, prompting ANTHROPIC to disable features of its MYTHOS model."
+    },
+    {
+      "id": "4939294",
+      "time": "2026-06-17 02:53:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊哈塔姆·安比亞中央總部：儘管美國總統宣稱戰事已經結束，但以色列軍隊過去兩天內已84次破壞黎巴嫩南部停火協議，持續對毫無防禦能力的黎巴嫩民眾實施暴行。以色列若不停止在黎巴嫩南部的侵略行徑，就應當做好準備，迎接伊朗武裝力量堅決、果斷的反擊。"
+    },
+    {
+      "id": "4939293",
+      "time": "2026-06-17 02:52:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國國防部長赫格塞思今日現身國會山，有人剛剛看到他在參議院區域，隨行有安保團隊。"
+    },
     {
       "id": "mkt:019ed1c5-f687-7dd8-b039-32f345621ed2",
       "time": "2026-06-17 02:51:12",
@@ -169576,14 +169618,6 @@
         "國際"
       ],
       "text": "美國最大電網運營商PJM針對其大西洋中部及南部服務區釋出了6月11日至12日的高溫天氣預警。"
-    },
-    {
-      "id": "mkt:019eadbe-41a8-7225-91aa-712518b023bb",
-      "time": "2026-06-10 02:56:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PJM, the largest U.S. grid operator, issued heat alerts for its Mid-Atlantic and Southern service areas for June 11-12."
     }
   ]
 }
