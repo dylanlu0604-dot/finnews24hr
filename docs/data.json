@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-17 00:38:29",
-  "count": 18381,
+  "updated": "2026-06-17 00:42:36",
+  "count": 18372,
   "items": [
+    {
+      "id": "mkt:019ed14f-bade-7dd8-b037-4f36e828dae5",
+      "time": "2026-06-17 00:42:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ said the U.S. MILITARY's advantage has left Iran with no options."
+    },
+    {
+      "id": "mkt:019ed14f-97e0-7dd8-b037-44a02d341f79",
+      "time": "2026-06-17 00:41:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "German Chancellor Merz said he is willing to participate, is confident the deal will succeed, and said Iran will accept the terms because it must."
+    },
+    {
+      "id": "4939202",
+      "time": "2026-06-17 00:41:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "德國總理默茨：美國軍事優勢不會給伊朗選擇餘地。"
+    },
+    {
+      "id": "4939201",
+      "time": "2026-06-17 00:41:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國默茨談及伊朗問題：我們已準備好參與，我相信該協議是可行的，伊朗必將接受相關條件。"
+    },
+    {
+      "id": "4939200",
+      "time": "2026-06-17 00:40:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：無論有協議還是沒有協議——只要我是以色列總理，伊朗就不會擁有核武器。"
+    },
+    {
+      "id": "mkt:019ed14d-046a-7dd8-b037-3c594df70194",
+      "time": "2026-06-17 00:39:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "On new sanctions targeting Russia, German Chancellor Merz said he sees Trump taking a cooperative stance and is somewhat optimistic that Europe and the US will do everything to end the war."
+    },
+    {
+      "id": "4939199",
+      "time": "2026-06-17 00:38:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨談及對俄新制裁時表示：我看到特朗普目前持合作態度，我對歐美將竭盡全力結束這場衝突持一定樂觀態度。"
+    },
     {
       "id": "mkt:019ed14b-9d7e-7dd8-b037-302584cdd3a6",
       "time": "2026-06-17 00:37:34",
@@ -168997,169 +169063,6 @@
         "市場"
       ],
       "text": "彭博美元指數抹去早盤跌幅，觸及日內高點。"
-    },
-    {
-      "id": "mkt:019ead43-4cae-7992-a4a7-0e4d4169f3c5",
-      "time": "2026-06-10 00:42:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "US stock benchmarks fell sharply in an intra-session sell-off, with the Nasdaq extending losses to 3.5%."
-    },
-    {
-      "id": "4926585",
-      "time": "2026-06-10 00:41:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "VIX 指數自 4 月 7 日以來首次升至 23 以上。"
-    },
-    {
-      "id": "4926584",
-      "time": "2026-06-10 00:41:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱美國必須對伊朗襲擊美國直升機事件作出回應】美國總統特朗普在社交媒體“真相社交”發文稱， 我方精銳軍方剛剛通報，昨晚伊朗方面在霍爾木茲海峽上空擊落了我方一架先進的阿帕奇直升機。機上兩名飛行員均安然無恙、未受損傷。 即便如此，美國必然會對此次襲擊作出回應。"
-    },
-    {
-      "id": "mkt:019ead42-5fbc-7992-a4a7-07ecf0347992",
-      "time": "2026-06-10 00:41:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude rose about $3/bbl intraday after Trump said Iran shot down a US Apache helicopter and that Washington would respond."
-    },
-    {
-      "id": "mkt:019ead41-8ba3-7992-a4a6-f972a155596e",
-      "time": "2026-06-10 00:40:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said Iran shot down a U.S. Apache helicopter in the Strait of Hormuz and the United States must respond."
-    },
-    {
-      "id": "4926583",
-      "time": "2026-06-10 00:39:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指跌1.03%，現報50261.430點；納指跌3.55%，現報25008.261點；標普500指數跌2.13%，現報7247.980點。"
-    },
-    {
-      "id": "mkt:019ead40-fe50-7992-a4a6-f0c03f09b749",
-      "time": "2026-06-10 00:39:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish"
-      ],
-      "text": "The Dow Jones Industrial Average fell as much as 1%."
-    },
-    {
-      "id": "4926582",
-      "time": "2026-06-10 00:39:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4240美元/盎司，日內跌2.11%。"
-    },
-    {
-      "id": "4926581",
-      "time": "2026-06-10 00:39:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌2%，現報4240.12美元/盎司。"
-    },
-    {
-      "id": "mkt:019ead40-b2e0-7992-a4a6-e98da748996d",
-      "time": "2026-06-10 00:39:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot silver dropped 5% intraday to $64.71/oz. New York gold futures fell 2% intraday to $4,276.10/oz. Spot gold slipped below $4,250/oz, down nearly 2% on the day."
-    },
-    {
-      "id": "4926580",
-      "time": "2026-06-10 00:39:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌5%，現報64.69美元/盎司。"
-    },
-    {
-      "id": "4926579",
-      "time": "2026-06-10 00:39:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨下跌1%。"
-    },
-    {
-      "id": "4926578",
-      "time": "2026-06-10 00:39:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：美國將對伊朗擊落直升機事件作出回應。"
-    },
-    {
-      "id": "4926577",
-      "time": "2026-06-10 00:38:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：伊朗方面昨晚擊落了我方一架直升機。"
-    },
-    {
-      "id": "mkt:019ead40-2f8b-7992-a4a6-e23197f1dd1e",
-      "time": "2026-06-10 00:38:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "S&P 500 fell more than 2% intraday."
-    },
-    {
-      "id": "4926576",
-      "time": "2026-06-10 00:38:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數跌2.01%，現報7256.780點；道指跌0.92%，現報50320.430點；納指跌3.35%，現報25060.305點。"
     }
   ]
 }
