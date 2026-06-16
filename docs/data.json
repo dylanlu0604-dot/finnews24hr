@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-17 04:00:53",
+  "updated": "2026-06-17 04:04:56",
   "count": 18425,
   "items": [
+    {
+      "id": "mkt:019ed207-d5ef-7dd8-b039-d3767851a886",
+      "time": "2026-06-17 04:03:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD",
+        "XAUUSD"
+      ],
+      "text": "【Dollar index down 0.09% to 99.540 on June 16】The dollar index, measuring the U.S. dollar against six major currencies, fell 0.09% to 99.540 at the New York close on June 16. EUR/USD rose to 1.1610 from 1.1595; GBP/USD 1.3429 from 1.3419; USD/JPY 160.44 from 160.31; USD/CHF 0.7931 from 0.7940; USD/CAD 1.3993 from 1.3987; USD/SEK 9.3618 from 9.3913."
+    },
+    {
+      "id": "mkt:019ed206-ee64-7dd8-b039-c975342cfbc9",
+      "time": "2026-06-17 04:02:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "MRVL.O",
+        "Impact bearish",
+        "MU.O",
+        "XPEV.N"
+      ],
+      "text": "【US close: Dow +0.6%; S&P -0.57%, Nasdaq -1.15%; SpaceX ends up 4.8% after intraday spike】US equities closed mixed Tuesday. Dow Jones Industrial Average rose 0.6% at the close, the S&P 500 fell 0.57% and the Nasdaq Composite declined 1.15%. SpaceX (SPCX.O) jumped roughly 17% intraday before finishing up 4.8%. MARVELL (MRVL.O) slid nearly 10%; Micron Technology (MU.O) dropped about 6%. The Nasdaq Golden Dragon China Index fell 2.5%; Xpeng (XPEV.N) was down more than 4%."
+    },
+    {
+      "id": "4939322",
+      "time": "2026-06-17 04:01:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數16日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.09%，在匯市尾市收於99.540。截至紐約匯市尾市，1歐元兌換1.1610美元，高於前一交易日的1.1595美元；1英鎊兌換1.3429美元，高於前一交易日的1.3419美元。1美元兌換160.44日元，高於前一交易日的160.31日元；1美元兌換0.7931瑞士法郎，低於前一交易日的0.7940瑞士法郎；1美元兌換1.3993加元，高於前一交易日的1.3987加元；1美元兌換9.3618瑞典克朗，低於前一交易日的9.3913瑞典克朗"
+    },
+    {
+      "id": "4939321",
+      "time": "2026-06-17 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.65%，標普500指數跌0.56%，納指跌1.14%。邁威爾科技跌9.72%，芝加哥期權交易所跌9.48%，Monolithic Power Systems跌9.34%，Take-Two Interactive漲6.36%，Moderna漲6.27%。“七姐妹”方面：Meta Platforms漲1.08%，谷歌漲1.08%，蘋果漲0.93%，亞馬遜漲0.06%，微軟跌1.52%，特斯拉跌1.56%，英偉達跌2.38%。"
+    },
     {
       "id": "4939320",
       "time": "2026-06-17 04:00:03",
@@ -169458,53 +169502,6 @@
         "國際"
       ],
       "text": "高盛在5月就業資料向好後，取消對美聯儲2026年降息的預判，將降息預期調整至2027年。"
-    },
-    {
-      "id": "mkt:019eadfb-1fdf-7225-91aa-f7b534113bfe",
-      "time": "2026-06-10 04:02:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact mixed",
-        "US10Y",
-        "DXY"
-      ],
-      "text": "The Federal Reserve will release results of its annual bank stress tests on June 24 at 4:00 p.m. ET."
-    },
-    {
-      "id": "mkt:019eadfa-008e-7225-91aa-e9cb2242c871",
-      "time": "2026-06-10 04:01:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "MRVL.O",
-        "Impact bearish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【US close: indexes mixed; Marvell drops more than 7%】US stocks closed mixed on Tuesday: the Dow rose 0.17%, the S&P 500 fell 0.26% and the Nasdaq dropped 0.97%. Marvell (MRVL.O) slid 7.6%, Qualcomm (QCOM.O) fell 5.6% and Tesla (TSLA.O) lost about 3%. The Nasdaq Golden Dragon China Index dropped 0.39%; Li Auto (LI.O) and NIO (NIO.N) each fell roughly 3%."
-    },
-    {
-      "id": "4926669",
-      "time": "2026-06-10 04:01:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：伊朗核協議肯定會在中期選舉前達成。"
-    },
-    {
-      "id": "4926668",
-      "time": "2026-06-10 04:01:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：伊朗核協議可能在一週內達成，也可能在幾個月內達成。"
     }
   ]
 }
