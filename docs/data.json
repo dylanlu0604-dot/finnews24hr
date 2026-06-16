@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-17 03:13:17",
-  "count": 18441,
+  "updated": "2026-06-17 03:17:18",
+  "count": 18442,
   "items": [
+    {
+      "id": "mkt:019ed1dd-6b0c-7dd8-b039-881584c7b737",
+      "time": "2026-06-17 03:16:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Nasdaq's decline widened to 1%; SpaceX (SPCX.O) gain narrowed to 5%."
+    },
+    {
+      "id": "4939311",
+      "time": "2026-06-17 03:16:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.01%，現報26414.720點；道指漲0.67%，現報52015.289點；標普500指數跌0.51%，現報7515.690點。"
+    },
+    {
+      "id": "4939310",
+      "time": "2026-06-17 03:16:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅杉資本看好SpaceX太空資料中心與AI實力，長期持有者稱其願景“永恆”】紅杉資本合夥人Shaun Maguire對SpaceX將資料中心送入太空的能力及其在人工智慧領域的實力表達了信心。Maguire概述了SpaceX的五層業務模式，並表示計劃“永遠”持有其股份，稱埃隆·馬斯克為公司描繪的願景是“史上使命最宏大、市場潛力最大的公司”。“我不明白為什麼SpaceX不能在星艦首次有效載荷飛行後的六個月內，就發射一顆軌道計算衛星。”關於人工智慧領域，他表示，SpaceX在地球上構建下一代AI雲基礎設施的能力已經比競爭對手“高出一個數量級”。"
+    },
+    {
+      "id": "mkt:019ed1db-9161-7dd8-b039-8278c7a6fa1f",
+      "time": "2026-06-17 03:14:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CNN: U.S. refused Israel’s request to review U.S.-Iran memorandum】CNN on June 16 quoted an Israeli source saying Washington refused Israel’s request to review the text of a U.S.-Iran memorandum. The source said the Trump administration partly declined because it feared Prime Minister Netanyahu would leak the text before formal release. At a June 15 news conference Netanyahu barely mentioned the memorandum and said he and Trump “are not always of one mind,” adding “we still do not know what this memorandum actually is.”"
+    },
     {
       "id": "4939309",
       "time": "2026-06-17 03:12:08",
@@ -169612,35 +169646,6 @@
         "國際"
       ],
       "text": "【伊朗並未向美國提交任何新方案】伊朗談判團隊相關知情人士向法爾斯通訊社表示，伊朗並未向美國提交任何新方案。今日天空新聞報道稱，伊朗已向美方遞交新版和平方案草案，有初步訊息顯示美方認為該方案可以接受。此前阿拉伯電視臺曾報道，伊朗同意將濃縮鈾轉移至第三國，該說法同樣遭到伊朗方面否認。"
-    },
-    {
-      "id": "te:economy:557771",
-      "time": "2026-06-10 03:16:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Argentina Industrial Output Falls in April — Argentina's industrial production fell 2.8% year-on-year in April 2026, reversing a 5% increase in the previous month. Twelve of the 16 manufacturing sectors posted annual declines. The largest drags came from machinery and equipment (-20.2%), textiles (-22.2%), apparel, leather and footwear (-15.9%), basic metals (-11.2%), motor vehicles and auto parts (-10.7%), and food and beverages (-2.4%). Smaller declines were recorded in other equipment and instruments (-11.4%), non-metallic minerals (-6.4%), rubber and plastics (-5.1%), furniture and other manufacturing (-5.1%), metal products (-1.4%), and other transport equipment (-2.1%). Partly offsetting the weakness, output rose in chemicals (16.7%), petroleum refining (5.6%), tobacco products (6.5%), and wood, paper and printing (4.1%)."
-    },
-    {
-      "id": "mkt:019eadcf-e1e0-7225-91aa-a3ff3d4ebbc3",
-      "time": "2026-06-10 03:15:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fars News, citing informed sources, said Iran has not yet submitted a new proposal to the US."
-    },
-    {
-      "id": "4926642",
-      "time": "2026-06-10 03:14:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社否認天空新聞有關伊朗向美國提出新方案的報道。"
     }
   ]
 }
