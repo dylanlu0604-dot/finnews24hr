@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-16 10:13:14",
+  "updated": "2026-06-16 10:17:08",
   "count": 18282,
   "items": [
+    {
+      "id": "mkt:019ece37-3ec5-7dd8-b01b-b10e113b9707",
+      "time": "2026-06-16 10:16:27",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Deutsche Securities: BOJ may revise description of policy looseness】Deutsche Securities says the BOJ faces a communications crossroads: it must choose to keep current forward‑guidance wording or recharacterize the degree of monetary ease. If wording is unchanged, a move to a 1.25% policy rate would create a new challenge in justifying further hikes; with the BOJ’s estimated lower bound of the nominal neutral rate at about 1.1% and the policy rate already near 1.0%, policy above ~1.1% would be difficult to describe as accommodative."
+    },
+    {
+      "id": "4937525",
+      "time": "2026-06-16 10:16:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼能源部設定6月下半月4100大卡等級煤炭的基準價格為每噸60.19美元。"
+    },
+    {
+      "id": "4937524",
+      "time": "2026-06-16 10:15:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼能源部宣佈，6月下半月5300千卡級煤炭基準價格為每公噸88.40美元。"
+    },
+    {
+      "id": "4937523",
+      "time": "2026-06-16 10:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金屬新材料板塊持續拉昇，寧波韻升漲停】金屬新材料板塊持續拉昇，寧波韻升漲停，中科三環此前漲停，有研粉材漲超10%，有研復材、雲路股份、金力永磁跟漲。"
+    },
+    {
+      "id": "te:economy:559185",
+      "time": "2026-06-16 10:14:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Rises Ahead of BOJ Decision — Japan’s 10-year government bond yield rose to around 2.6% on Tuesday, rebounding from a one-month low as investors looked ahead to the Bank of Japan’s upcoming policy decision. The central bank is widely expected to raise its benchmark interest rate by 25 basis points to 1% in an effort to contain inflation and support the currency. The yen has remained under pressure due to persistent carry trade activity and the still-wide interest rate gap with the US, overshadowing the BOJ’s gradual policy tightening and repeated currency intervention efforts by Tokyo. Investors also continued to monitor geopolitical developments amid expectations that the US and Iran will sign a peace agreement in Switzerland on Friday, a move that could lead to the reopening of the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019ece35-31c7-7dd8-b01b-ae824e3f939f",
+      "time": "2026-06-16 10:14:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MiniMax M3 integrates Alipay TokenPay for voice in-app checkout】MiniMax’s new large model M3 has fully integrated Alipay TokenPay, allowing users paying with Alipay AI Pay to complete in-app checkout by voice via MiniMax Agent’s Mix Claw service. MiniMax says it is among the first global model vendors to embed TokenPay into its core subscription system. The move marks the first scaled deployment in China of an Alipay-issued MaaS (model-as-a-service) payment solution. MiniMax also plans to roll out full integration with Alipay’s full-stack AI payment products shortly."
+    },
+    {
+      "id": "mkt:019ece34-eac9-7dd8-b01b-a4058209e461",
+      "time": "2026-06-16 10:13:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "【Barclays: Bank of Japan may tweak forward guidance wording】Barclays economists say the Bank of Japan will likely retain its forward guidance but slightly adjust the wording. Current guidance states that, given real rates are significantly low, the central bank will continue to raise policy rates and adjust the degree of monetary easing to respond to developments in economic activity, prices and financial conditions; Barclays expects the BOJ to soften “real rates are significantly low” to “real rates remain low” or to specify “real rates are still negative, particularly at the short- and mid-ends of the curve.”"
+    },
+    {
+      "id": "em:jjsj_zgsj:202606163772679476",
+      "time": "2026-06-16 10:13:53",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—5月份全國網上商品和服務零售額83177億元 同比增長5.9%】國家統計局資料顯示，1—5月份，全國網上商品和服務零售額83177億元，同比增長5.9%。其中，網上商品零售額52718億元，增長5.0%；在網上商品零售額中，吃類、穿類、用類商品分別增長15.5%、7.2%、1.6%。網上服務零售額30459億元，增長7.6%。"
+    },
+    {
+      "id": "mkt:019ece34-ac38-7dd8-b01b-9f878e109655",
+      "time": "2026-06-16 10:13:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "06030.HK",
+        "Impact bullish",
+        "01776.HK",
+        "06099.HK"
+      ],
+      "text": "Hong Kong-listed Chinese broker stocks jumped: CITIC Securities (06030.HK) rose over 2.5%; GF Securities (01776.HK), China Merchants Securities (06099.HK) and Everbright Securities (06178.HK) rebounded from intraday losses to gain more than 1%."
+    },
     {
       "id": "te:economy:559183",
       "time": "2026-06-16 10:12:41",
@@ -168087,84 +168183,6 @@
         "公司"
       ],
       "text": "【蘋果、谷歌、英偉達合作開發新一代AI模型】據報道，蘋果、谷歌、英偉達正合作開發新一代人工智慧模型Apple Foundation Model Cloud Pro，旨在實現高效能與隱私保護並重。蘋果人工智慧業務負責人阿馬爾·蘇布拉馬尼亞表示，該模型效能可與谷歌Gemini等尖端模型比肩，將基於英偉達GPU執行並納入蘋果私有云計算（Private Cloud Compute）體系。"
-    },
-    {
-      "id": "4925021",
-      "time": "2026-06-09 10:16:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【石油板塊大幅調整，ST洲際盤中跌停】石油板塊大幅調整，ST洲際盤中跌停，中曼石油、上海石化、中國石油、泰山石油、廣匯能源、新錦動力等跟跌。"
-    },
-    {
-      "id": "4925020",
-      "time": "2026-06-09 10:16:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南：支援建設國際智算中心 探索詞元（Token）出海服務新模式】海南省人民政府辦公廳印發《海南省“十五五”高新技術產業發展規劃》，其中提到，充分發揮資料安全有序流動制度優勢，建設國際海底光纜、國際通訊業務出入口局等跨境資料基礎設施，發展具有獨特應用場景的資料跨境與人工智慧融合產業，支援基於人工智慧的OPC社群建設運營，創新賦能新興業態。加速數字內容出海，以遊戲出海為切入口，推動“AIGC+數字內容”融合創新，引育內容創作、版本迭代、活動運營、市場投放等全鏈條服務商，利用人工智慧生成技術推動遊戲、動漫、短劇等精品化、國際化。著力發展來數加工，支援建設特色數字加工貿易區，推廣AI輔助標註、超級智慧體等技術，提升跨境資料加工效率。面向海外人工智慧場景需求，充分依託海南自由貿易港高效便捷安全的資料跨境機制，支援企業拓展主權大模型研發應用、AI演算法訓練、垂類高質量資料集建設等業務。拓展行業資料跨境應用，建設汽車行業資料可信空間，推動智慧網聯汽車資料跨境服務落地；支援文昌國際航天城依託海南自由貿易港跨境資料通道建立國際衛星資料加工貿易區，加速高解析度衛星遙感資料的國際化應用。大力發展跨境直播電商，融合虛擬主播、多語言實時翻譯、智慧選品推薦等AI技術，完善“主播孵化－選品對接－流量運營－跨境履約”服務體系；最佳化海南EF賬戶功能，促進中國（海南）跨境電子商務綜合試驗區建設。結合國家政策進一步深化增值電信業務對外開放，適時擴大業務規模，支援建設國際智算中心，發展離岸資料業務，探索詞元（Token）出海服務新模式。"
-    },
-    {
-      "id": "4925019",
-      "time": "2026-06-09 10:15:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【MLCC概念震盪反彈 雙星新材4天2板】MLCC概念盤中震盪反彈，雙星新材反包漲停，走出4天2板，博遷新材、利和興、昀冢科技、風華高科、宏明電子跟漲。"
-    },
-    {
-      "id": "4925018",
-      "time": "2026-06-09 10:15:02",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【商務部推進“新三樣”固廢回收利用體系建設】從商務部瞭解到，當前我國新能源汽車動力電池正在進入規模化退役階段，光伏元件和風機裝置也將相繼迎來退役高峰期。“新三樣”固廢回收利用事關綠色發展、能源資源安全和群眾福祉。商務部將研究建立“1+N”工作體系，加快完善頂層制度設計，推動出臺相關政策檔案。針對動力電池、光伏元件、風機裝置等不同領域分類施策，同時促進人工智慧在回收利用環節的融合與運用，繼續開展再生資源回收體系建設試點工作。（央視新聞）"
-    },
-    {
-      "id": "te:markets:557435",
-      "time": "2026-06-09 10:15:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Appreciates by 0.77% — Top currency gainers are South Korean Won (0.77%), Indian Rupee (0.29%), Australian Dollar (0.26%) and Chinese Yuan (0.09%). Meanwhile Japanese Yen was little changed."
-    },
-    {
-      "id": "4925017",
-      "time": "2026-06-09 10:14:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【麥當勞以1.1億港元賣出香港一個舖位】據報道，麥當勞以約1.1億港元的價格出售了位於香港鰂魚涌的一個舖位，面積約7799平方英尺（約合725平方米）。據訊息人士稱，買家是本地投資者。"
-    },
-    {
-      "id": "4925016",
-      "time": "2026-06-09 10:14:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "*ST美芝盤中跌停，上演“天地板”，現報25.64元，成交額3.14億元。"
-    },
-    {
-      "id": "4925015",
-      "time": "2026-06-09 10:14:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南：加快構建“晶片設計帶動、先進封測突破、維修製造延伸”協同發展的電子資訊製造產業生態】海南省人民政府辦公廳印發《海南省“十五五”高新技術產業發展規劃》，其中提到，加快構建“晶片設計帶動、先進封測突破、維修製造延伸”協同發展的電子資訊製造產業生態。上游夯實積體電路設計，招引高階顯示、智慧感測、智慧算力等領域晶片設計企業，銜接本地封測產能，謀劃建設積體電路設計公共服務平臺，提升EDA工具、IP設計、AI輔助等基礎服務能力。中游做強先進封裝測試，擴大半導體器件與功率模組製造產能，發展智慧功率模組、高階感測器等高附加值產品。支援企業積極應用2.5D/3D、晶圓級、系統級等先進封裝技術，引進封裝測試裝置製造企業和第三方檢測機構，提升本地化封裝、測試、驗證能力，匹配上游晶片設計和下游終端製造。以市場需求為驅動，積極佈局第三代半導體，深化碳化矽、氮化鎵、磷化銦等半導體材料的研究應用，謀劃開拓高速儲存、光通訊、AI運算等領域封測新賽道。下游拓展產品維修製造，著力保障高效能伺服器、信創整機、顯示終端、數字能源等製造產線達產擴產，支援企業開展智慧化、柔性化升級改造，逐步形成本地化產能協同。依託海南自由貿易港開放政策優勢，面向國際市場拓展半導體裝備、儲存產品、手機終端等維修、檢測、再製造業態。"
-    },
-    {
-      "id": "mkt:019eaa28-424b-7997-8099-a8f5da154680",
-      "time": "2026-06-09 10:13:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【xAI seconded SpaceX Starlink engineer to lead Grok training】An internal memo shows Elon Musk's xAI has seconded Jack Garabedian from SpaceX’s Starlink unit to lead model training for the Grok chatbot, replacing engineer Diego Pasini. Garabedian, a Starlink engineer at SpaceX since 2021, will head the 'human data team' of several hundred specialists training Grok across domains including finance and science. Pasini and Garabedian did not respond to requests for comment; SpaceX and xAI representatives also did not reply."
     }
   ]
 }
