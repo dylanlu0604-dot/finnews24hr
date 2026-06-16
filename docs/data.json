@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-17 00:54:56",
+  "updated": "2026-06-17 00:59:04",
   "count": 18391,
   "items": [
+    {
+      "id": "te:markets:559427",
+      "time": "2026-06-17 00:56:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 3"
+      ],
+      "text": "Crude Oil Extends Plunge on Deal Hopes — Crude oil prices fell over 6% to $75.5 per barrel on Tuesday, the lowest since the first week of March, erasing the bulk of the surge from the conflict in the Middle East amid expectations that exports from GCC countries will be restored imminently. The US and Iran continued to signal they will sign a memorandum of understanding this Friday. The deal reportedly has both countries allowing tankers to cross the Strait of Hormuz upon the agreement, with the US unopposed of Tehran deploying tankers immediately. The fresh supply from the region is due to replenish refineries across the globe with the higher export quotas from OPEC+ and higher output from the UAE, which left the cartel during the conflict. The US Strategic Petroleum Reserves had fallen to a 43-year low. In turn, Iranian output will likely refill Chinese oil stockpiles, which were depleted in the last months as the world's largest importer refrained from purchasing oil to prop up prices further."
+    },
+    {
+      "id": "4939218",
+      "time": "2026-06-17 00:54:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "一架烏克蘭軍用飛機（據稱是米格-29戰鬥機）在烏克蘭赫梅利尼茨基州墜毀。 事故原因及飛行員狀況相關細節尚未得到證實。"
+    },
+    {
+      "id": "mkt:019ed15b-3cb9-7dd8-b037-9edaa8f58a5e",
+      "time": "2026-06-17 00:54:37",
+      "tags": [
+        "MKT News",
+        "SNAP.N",
+        "Impact bullish"
+      ],
+      "text": "Snap (SNAP.N) shares rose more than 2% after the company launched AR glasses priced at $2,195."
+    },
     {
       "id": "4939217",
       "time": "2026-06-17 00:54:08",
@@ -169213,33 +169242,6 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】國際銅夜盤收跌0.37%，滬銅收跌0.34%，滬鋁收跌0.67%，滬鋅收漲0.14%，滬鉛收跌0.40%，滬鎳收跌1.34%，滬錫收跌1.10%。氧化鋁夜盤收漲0.68%，鋁合金收平。不鏽鋼夜盤收跌0.69%。"
-    },
-    {
-      "id": "mkt:019ead52-a136-7992-a4a7-2f1d4bb64fac",
-      "time": "2026-06-10 00:58:53",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Dollar index DXY turned higher after U.S. President Trump accused Iran of shooting down a helicopter; DXY +0.01% at 100.01. EUR/USD pared gains to +0.03% at 1.1537."
-    },
-    {
-      "id": "4926590",
-      "time": "2026-06-10 00:58:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "達飛海運執行長：若認為霍爾木茲海峽局勢能恢復至戰前狀態，這種想法並不明智。"
-    },
-    {
-      "id": "4926589",
-      "time": "2026-06-10 00:55:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗擊落一架美軍阿帕奇直升機】美國總統特朗普9日在社交媒體上稱，伊朗在霍爾木茲海峽擊落一架美軍阿帕奇直升機，機上兩名飛行員安然無恙，但美國必須對此次襲擊作出回應。 (新華社)"
     }
   ]
 }
