@@ -1,7 +1,176 @@
 {
-  "updated": "2026-06-16 22:58:11",
-  "count": 18359,
+  "updated": "2026-06-16 23:02:27",
+  "count": 18368,
   "items": [
+    {
+      "id": "mkt:019ed0f3-f8eb-7dd8-b035-0222a6935ffb",
+      "time": "2026-06-16 23:01:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Kremlin aide said Putin and Trump did not discuss a possible meeting between Putin and Zelensky in the United States during their most recent call."
+    },
+    {
+      "id": "mkt:019ed0f3-db76-7dd8-b034-fea0cf5d23b4",
+      "time": "2026-06-16 23:01:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "As of 23:00 local time, China's most-active futures contracts were mixed. Fuel oil and liquefied petroleum gas (LPG) fell more than 3%, low-sulfur fuel oil (LU) dropped over 2%, and propylene, methanol, asphalt, styrene (EB) and ethylene glycol (EG) lost over 1%. Cotton rose nearly 2%; cotton yarn, rubber, 20# rubber and palm oil gained more than 1%."
+    },
+    {
+      "id": "mkt:019ed0f3-c7e5-7dd8-b034-f48f942a7cdc",
+      "time": "2026-06-16 23:01:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An IMF official said Bosnia and Herzegovina's economic growth will slow to 2.0% in 2026 and is expected to recover to 2.7% in 2027."
+    },
+    {
+      "id": "4939077",
+      "time": "2026-06-16 23:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其國防部：將部署防空系統以強化北約聯盟防空體系。"
+    },
+    {
+      "id": "mkt:019ed0f3-9f69-7dd8-b034-eaf5e8751ef0",
+      "time": "2026-06-16 23:01:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's Defense Ministry said it will deploy air defense systems under NATO's standing defense plan."
+    },
+    {
+      "id": "mkt:019ed0f3-7d20-7dd8-b034-e266983038f2",
+      "time": "2026-06-16 23:01:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's defense ministry said it will deploy one Italian-made SAMP-T air-defense system to the Third Main Air Base in Konya."
+    },
+    {
+      "id": "mkt:019ed0f3-6097-7dd8-b034-dbc853aceac6",
+      "time": "2026-06-16 23:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin: On the EU’s bid to persuade Trump at the G7 to adopt a tougher line on Russia, we will wait and see; the signing of the Iran agreement has opened an opportunity for Witkoff and Kushner to visit Moscow."
+    },
+    {
+      "id": "mkt:019ed0f2-8088-7dd8-b034-d58fddfc8255",
+      "time": "2026-06-16 23:00:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS: In a phone call Iran and Oman's foreign ministers reviewed bilateral ties and said that, after recent understandings between Tehran and Washington, it is necessary to maintain maritime security and foster a favorable diplomatic atmosphere."
+    },
+    {
+      "id": "te:markets:559391",
+      "time": "2026-06-16 23:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Rises by 0.59% — Top currency gainers are Norwegian Krone (0.59%), Polish Zloty (0.42%), South Korean Won (0.34%), Euro (0.14%) and British Pound (0.09%). Biggest losers are Brazilian Real (-0.27%) and Dollar Index (-0.07%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "4939076",
+      "time": "2026-06-16 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】液化石油氣連續跌4.03%，燃料油連續跌3.87%，低硫燃料油連續跌2.99%，棉花連續漲1.87%，瀝青連續跌1.67%。"
+    },
+    {
+      "id": "4939075",
+      "time": "2026-06-16 23:00:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行麥凱預計加拿大下一季度國內生產總值資料將向好。"
+    },
+    {
+      "id": "4939074",
+      "time": "2026-06-16 22:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行：人工智慧正給軟體企業帶來估值層面的挑戰。"
+    },
+    {
+      "id": "mkt:019ed0f1-fac1-7dd8-b034-cc458b2bf7d1",
+      "time": "2026-06-16 22:59:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported Iran and Oman stressed security of the Strait of Hormuz and referred to a recently reached agreement."
+    },
+    {
+      "id": "4939073",
+      "time": "2026-06-16 22:59:33",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國股市早盤基本持穩 市場人士依舊看好科技和晶片股】美國股市週二早盤持穩，市場對於美伊協議的信心增強，推動油價走弱。SpaceX擴大漲幅，整體市場情緒維持強勁。紐約時間10:19，標普500指數基本持平，納斯達克100指數跌0.3%，道指走高0.8%。費城半導體指數下跌0.6%。隨著美國和伊朗準備於週五正式簽署臨時和平協議，交易員正在尋找來自政策制定者的有關戰爭影響的線索。日本央行如預期加息，但包括美聯儲在內的大多數發達經濟體央行本週普遍預計將維持政策不變。德意志銀行Henry Allen等策略師在一份報告中寫道，美伊協議“在多個資產類別中推動了一波樂觀情緒”。他們表示，通脹擔憂正在緩解，投資者正在“排除滯脹的可能性”。Allen特別提到科技股上漲，尤其是費城半導體指數，該指數週一收於紀錄高位。美國銀行一項調查顯示，多數投資者認為，害怕錯失潛在收益的心理仍在推動AI股票交易，這意味著AI股熱潮料將持續。Wedbush分析師Dan Ives在一份報告中寫道，“SpaceX上市是整個科技行業的一個重要分水嶺”，並且對OpenAI和Anthropic即將到來的上市具有積極意義。他表示：“科技行業和晶片交易在未來數月仍有很大上行空間。我們最近在亞洲調研中看到的強勁需求趨勢，進一步增強了我們在2026年下半年繼續持有科技股的信心，未來增長軌跡將更加強勁。”市場注意力正轉向凱文·沃什擔任美聯儲主席後的首次會議。沃什不太可能在備受關注的點陣圖中提交自己的利率預測點，打破傑羅姆·鮑威爾、珍妮特·耶倫和本·伯南克任內的慣例，美聯儲與市場溝通的方式或出現變化。"
+    },
+    {
+      "id": "4939072",
+      "time": "2026-06-16 22:58:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多家日企簡化產品包裝應對成本壓力】受中東局勢不確定性所帶來的影響，油墨和塑膠包裝等石化產品的重要原料石腦油在全球範圍內的供應仍然緊俏。在大量依賴進口原材料的日本，部分企業開始透過減少包裝印刷顏色等方式來節約原材料。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019ed0f1-37cf-7dd8-b034-c4f949c01eb8",
+      "time": "2026-06-16 22:58:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TASNIM NEWS reports Iran's foreign minister held a phone call with Oman's foreign minister to discuss the Strait of Hormuz."
+    },
+    {
+      "id": "4939071",
+      "time": "2026-06-16 22:58:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗、阿曼國防部長通話討論霍爾木茲海峽局勢。"
+    },
+    {
+      "id": "mkt:019ed0f0-d754-7dd8-b034-bff7ea666a6b",
+      "time": "2026-06-16 22:58:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "RBC CEO McKay said AI is creating valuation challenges for software companies."
+    },
+    {
+      "id": "4939070",
+      "time": "2026-06-16 22:57:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德商銀行：匈牙利福林漲勢或將失去動力，因政治風險猶存】德國商業銀行的Tatha Ghose在一份報告中表示，匈牙利福林可能會逆轉部分漲勢，隨著總理毛焦爾·彼得在消除其前任歐爾班留下的政治遺產方面面臨挑戰。此前，在匈牙利議員投票決定將總理任期限制在八年、從而阻止歐爾班迴歸之後，福林兌歐元觸及2021年9月以來的最高水平。“不過，隨著時間的推移，毛焦爾將不得不在一個更具挑戰性的空間中周旋，該空間包括根深蒂固的右翼網路和司法系統，這在法律上將是複雜且耗時的。“歐元上漲0.1%，至349.52，此前一度跌至347.71，德國商業銀行預計其在未來一個季度的交易區間將在350-360之間。"
+    },
     {
       "id": "4939069",
       "time": "2026-06-16 22:57:16",
@@ -178,6 +347,15 @@
         "公司"
       ],
       "text": "【明陽集團與國航遠洋深化戰略合作】據明陽集團訊息，6月15日，國航遠洋運輸（集團）股份有限公司（簡稱“國航遠洋”）董事長、總裁王炎平一行到訪明陽集團，與明陽集團創始人、董事長張傳衛座談交流。雙方圍繞綠色能源產業鏈協同、海上風電物流保障、智慧運維創新等領域深度交流，達成全方位深化戰略合作共識，並簽署戰略合作協議，共同探索“新能源+航運”融合發展新路徑。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606163773416962",
+      "time": "2026-06-16 22:50:13",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行首席經濟學家：儘管美伊達成協議 通脹仍將持續】歐洲央行首席經濟學家PhilipLane表示，必須為中東衝突已引發但尚未顯現的通脹做好準備。儘管美國和伊朗宣佈達成重新開放霍爾木茲海峽的協議，但油價走勢尚未簡單地恢復到危機前的路徑。“能源價格連續四個月高企，這意味著我們可以預見，未來通脹率將超過3%，”他說道，“這將對今年乃至明年的食品、商品和服務產生間接影響。”Lane表示，原油價格不太可能從目前每桶80至81美元的水平大幅下降，並稱遠期曲線“在未來幾年內基本上相當平緩”。他說：“基於市場定價，我們不會大幅回落至戰前水平。但也不會出現像我們之前設想的不利情境或嚴重情境下那樣高得多的價格。”"
     },
     {
       "id": "4939052",
@@ -168957,115 +169135,6 @@
         "其他"
       ],
       "text": "Meta： 透過拓展 “來自其他商戶的活動” 設定，簡化平臺管控功能。"
-    },
-    {
-      "id": "4926477",
-      "time": "2026-06-09 23:02:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta：今後將利用企業已向該公司提供的資料，最佳化資訊流、人工智慧回覆及廣告等內容的個性化推送。"
-    },
-    {
-      "id": "mkt:019eace7-9d14-7dd1-a397-0a51825f4d44",
-      "time": "2026-06-09 23:01:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "By the 23:00 close China's main futures contracts were mostly lower: LPG fell about 4%, fuel oil dropped nearly 3%; low-sulfur fuel oil (LU), propylene and polypropylene declined more than 2%; PET bottle chips, styrene (EB) and ethylene glycol (EG) were down around 2%. Caustic soda rose about 1%."
-    },
-    {
-      "id": "mkt:019eace6-d64f-7dd1-a397-01c02a87a822",
-      "time": "2026-06-09 23:01:09",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "U.S. Embassy in Jerusalem said the shelter-in-place order for U.S. government employees and their families has been lifted."
-    },
-    {
-      "id": "mkt:019eace6-c457-7dd1-a396-f91689c3505e",
-      "time": "2026-06-09 23:01:05",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Boeing (BA.N) had 295 net aircraft orders through May after cancellations."
-    },
-    {
-      "id": "te:markets:557722",
-      "time": "2026-06-09 23:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Rises by 0.66% — Top currency gainers are Brazilian Real (0.66%), Indian Rupee (0.48%), British Pound (0.47%) and Euro (0.29%). Biggest loser is Dollar Index (-0.23%). Meanwhile Japanese Yen was little changed."
-    },
-    {
-      "id": "te:markets:557721",
-      "time": "2026-06-09 23:00:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Home Depot Stock Price Hits 4-week High — Home Depot shares increased to 322.12 USD, the highest since May 2026. Over the past 4 weeks, Home Depot gained 3.29%, and in the last 12 months, it decreased 12.57%."
-    },
-    {
-      "id": "4926476",
-      "time": "2026-06-09 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】液化石油氣連續跌3.99%，燃料油連續跌2.95%，低硫燃料油連續跌2.65%，聚丙烯連續跌2.02%，苯乙烯連續跌1.77%。"
-    },
-    {
-      "id": "4926475",
-      "time": "2026-06-09 22:59:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "波音公司：截至5月31日官方訂單積壓量為6,178架，截至4月30日為6,216架。截至5月，在計入取消訂單後，共獲得295架飛機訂單。5月交付60架飛機，包括51架737 MAX和6架787客機。"
-    },
-    {
-      "id": "mkt:019eace5-b1a6-7dd1-a396-f30d7ac02277",
-      "time": "2026-06-09 22:59:54",
-      "tags": [
-        "MKT News",
-        "BA.N"
-      ],
-      "text": "Boeing (BA.N) delivered 60 aircraft in May, including 51 737 MAX aircraft and six 787 jets."
-    },
-    {
-      "id": "te:economy:557720",
-      "time": "2026-06-09 22:59:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yields Edge Down — The yield on the US 10-year Treasury note fell to 4.54% on Tuesday, retreating from near three-week highs reached in the previous session. The decline was supported by lower oil prices after Israel and Iran agreed to halt attacks, while President Trump signalled that a deal with Tehran could be reached within days. Investors are also focused on Wednesday’s US CPI report for fresh clues on the inflation outlook. Recent economic indicators have continued to point to a resilient US economy and labour market, following last week's stronger-than-expected jobs report. Also, existing home sales increased more than anticipated, while the trade deficit narrowed as exports climbed to a record high. Markets continue to price an increase in borrowing costs by the Fed this year, with the probability of a rate hike as early as October currently estimated at around 51%. Meanwhile, the yield on the more policy-sensitive 2-year Treasury note fell by 2bps to 4.15%."
-    },
-    {
-      "id": "4926474",
-      "time": "2026-06-09 22:58:45",
-      "tags": [
-        "宏觀",
-        "行業"
-      ],
-      "text": "【蘇州：堅定不移招大引強、培優育強，充分釋放服務業發展潛能】6月9日，蘇州市服務業大會召開。蘇州市委書記範波強調，要突出需求牽引，推進生產性服務業向專業化和價值鏈高階延伸，促進生活性服務業高品質多樣化便利化發展，啟用文旅體消費新活力，堅定不移招大引強、培優育強，充分釋放服務業發展潛能。要突出改革攻堅，強化要素保障，最佳化營商環境，深化區域協調，不斷激發內生動力。要突出科技賦能，將數字技術、綠色技術運用於服務全鏈條，實施“人工智慧+”行動，推動智慧經濟、平臺經濟、綠色經濟加快發展。要突出開放合作，主動對接國際高標準經貿規則，有序推進服務市場開放、服務貿易發展，培育外貿新動能、開拓引資新空間、提升樞紐新功能。要全面加強黨的領導，牢固樹立和踐行正確政績觀，充分調動各方面積極性主動性創造性，不斷提高謀劃和推進服務業發展的能力本領，改革創新、真抓實幹，奮力開創蘇州服務業高質量發展新局面。（蘇州釋出）"
     }
   ]
 }
