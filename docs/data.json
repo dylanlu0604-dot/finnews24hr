@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-16 12:13:54",
-  "count": 18332,
+  "updated": "2026-06-16 12:17:51",
+  "count": 18330,
   "items": [
+    {
+      "id": "mkt:019ecea5-817c-7dd8-b01f-3997633fc331",
+      "time": "2026-06-16 12:16:53",
+      "tags": [
+        "MKT News",
+        "9304.T",
+        "Impact bearish"
+      ],
+      "text": "Mitsui O.S.K. Lines CEO Jotaro Tamura told the Financial Times that, despite a US-Iran agreement to reopen the strait, many operators will wait before resuming transit."
+    },
+    {
+      "id": "4937720",
+      "time": "2026-06-16 12:16:33",
+      "tags": [
+        "宏觀",
+        "國際",
+        "兩會"
+      ],
+      "text": "【王滬寧會見尼泊爾外交部長希西爾】中共中央政治局常委、全國政協主席王滬寧16日在京會見尼泊爾外交部長希西爾。 王滬寧表示，2019年，習近平主席對尼泊爾進行歷史性國事訪問，中尼關係提升為面向發展與繁榮的世代友好的戰略合作伙伴關係。中方願同尼方一道，在兩國領導人戰略引領下，保持高層交往，增進政治互信，深化務實合作，推動中尼關係不斷向前發展，更好造福兩國人民。中國全國政協願為此作出積極貢獻。 希西爾祝賀中國“十五五”成功開局，表示相信在習近平主席領導下，中國必將成為社會主義現代化強國。尼中友好建立在和平共處五項原則基礎上，尼方堅定恪守一箇中國原則，決不允許任何勢力利用尼領土從事反華活動，期待同中方拓展合作，共享發展繁榮。 王東峰等參加會見。(新華社)"
+    },
+    {
+      "id": "4937719",
+      "time": "2026-06-16 12:15:08",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通正考慮將大通銀行業務拓展至歐洲最大市場】媒體援引知情人士報道，摩根大通希望其數字銀行在未來五年內至少在包括法國、西班牙和義大利在內的五個歐洲國家開展業務。"
+    },
     {
       "id": "4937718",
       "time": "2026-06-16 12:11:41",
@@ -168603,51 +168632,6 @@
         "公司"
       ],
       "text": "【英國石油投資者要求就董事長遭罷免一事給出明確說法】據英國《金融時報》報道，英國石油公司投資者要求就董事長遭解職一事作出說明。\n該報週二報道稱，英國石油多位主要投資者及前高管表示，他們仍不清楚前董事長艾伯特・馬尼福德離職的具體緣由。"
-    },
-    {
-      "id": "4925166",
-      "time": "2026-06-09 12:17:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國駐塔吉克大使館提醒我在塔公民避免前往塔南部邊境地區工作及旅行】 當前，塔吉克南部邊境地區安全域性勢依然複雜，加之自5月份以來極端天氣頻發，給當地民眾及我在該地區公民人身安全造成威脅。鑑此，駐塔使館提醒在塔中國公民，避免前往塔南部邊境地區工作及旅行，確保生命和財產安全。"
-    },
-    {
-      "id": "4925165",
-      "time": "2026-06-09 12:16:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "蔚來汽車： 本公司注意到美國國防部將本公司列入其 “中國軍事企業” 清單（簡稱 CMC 清單）。 本公司認為，將我方列入該清單缺乏合理依據。本公司既非中國軍事企業，也並未參與國防工業領域的軍民融合相關工作。 該清單不屬於制裁清單。清單附帶的美國政府採購限制不會對本公司業務產生影響，同時清單也未限制本公司證券交易。"
-    },
-    {
-      "id": "te:markets:557486",
-      "time": "2026-06-09 12:15:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Under Pressure Ahead of Monthly Data — Malaysian palm oil futures plunged by nearly 2% to below MYR 4,500 per tonne, reversing prior gains amid a firmer ringgit and weaker edible oils on the Dalian and Chicago markets. Traders also turned cautious ahead of the Malaysian Palm Oil Board’s monthly report due later this week, with expectations pointing to another inventory build in May. A Reuters survey suggested softer exports outweighed lower production, while cargo surveyors estimated shipments dropped 8.8%–15.5% from April. Demand from India, the world’s largest buyer, recovered modestly from April’s four-month low but remained below historical norms. Still, losses were cushioned by upbeat Chinese trade data, with exports hitting a record and imports accelerating in May, signaling resilient demand in a key market. Additional support came from top grower Indonesia, where new technical rules tightened oversight of strategic commodity exports, including palm oil, potentially shifting some demand toward Malaysian supplies."
-    },
-    {
-      "id": "4925164",
-      "time": "2026-06-09 12:14:59",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【世界盃或分散交易員注意力 花旗稱賽期歐美債市波動通常減弱】 花旗表示，在世界盃舉行期間，美國和歐洲債券市場的波動往往減弱。隨著首場比賽將於週四開賽，該行重申其押注收益率曲線波動性下降的建議。“從歷史資料來看，世界盃期間美元和歐元短期利率波動率往往保持在低位，甚至進一步走低，支援了我們近期看跌波動率的預期，”其在6月8日的報告中寫道。"
-    },
-    {
-      "id": "4925163",
-      "time": "2026-06-09 12:14:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平和彭麗媛參謁中朝友誼塔 】 當地時間6月9日上午，正在朝鮮進行國事訪問的中共中央總書記、國家主席習近平和夫人彭麗媛參謁中朝友誼塔。朝鮮勞動黨總書記、國務委員長金正恩和夫人李雪主陪同。10時40分許，習近平和彭麗媛乘車抵達坐落於牡丹峰麓的中朝友誼塔，金正恩和李雪主迎接。朝鮮軍樂隊奏響中朝兩國國歌。禮兵緩緩將花籃抬上平臺。花籃緞帶上寫著“中國人民志願軍烈士永垂不朽”。習近平緩步走上平臺，整理花籃緞帶。全體人員向中國人民志願軍烈士默哀。默哀畢，習近平和金正恩觀看儀仗隊分列式。習近平夫婦在金正恩夫婦陪同下步入友誼塔紀念廳。金正恩向習近平介紹了友誼塔內展現中國人民志願軍同朝鮮人民並肩浴血戰鬥、共同重建家園的史料、照片和油畫作品。習近平駐足良久，仔細觀看。習近平認真翻閱志願軍烈士名冊，向金正恩介紹犧牲的志願軍將士有關情況。習近平和金正恩一致認為，上世紀50年代中朝共同戰鬥的歲月是雙方永恆的歷史記憶，雙方要共同維護好志願軍烈士紀念設施，開展富有特色的革命傳統教育、青少年思想道德教育，讓偉大的抗美援朝精神發揚光大，讓偉大的中朝傳統友誼世代傳承。蔡奇、王毅等參加。（新華社）"
     }
   ]
 }
