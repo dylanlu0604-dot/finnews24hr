@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-17 02:48:25",
-  "count": 18433,
+  "updated": "2026-06-17 02:52:28",
+  "count": 18435,
   "items": [
+    {
+      "id": "mkt:019ed1c5-f687-7dd8-b039-32f345621ed2",
+      "time": "2026-06-17 02:51:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Peru's central bank bought USD 221 mln in the spot FX market."
+    },
+    {
+      "id": "mkt:019ed1c5-d0d8-7dd8-b039-2fc39fb3dd7a",
+      "time": "2026-06-17 02:51:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's central bank conducted FX swap operations totaling 1.1 million soles."
+    },
+    {
+      "id": "4939292",
+      "time": "2026-06-17 02:50:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士透露：美國商務部長盧特尼克致信人工智慧公司Anthropic，警告政府將對高階人工智慧模型實施管制，受此影響Anthropic關停了Mythos相關功能。"
+    },
+    {
+      "id": "4939291",
+      "time": "2026-06-17 02:49:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "幣安表示將持續服務歐洲使用者，在有報道稱其可能失去歐盟經營許可後，平臺仍會依法合規運營。"
+    },
     {
       "id": "mkt:019ed1c1-e88b-7dd8-b039-27641789cf8b",
       "time": "2026-06-17 02:46:46",
@@ -169549,22 +169584,6 @@
         "MKT News"
       ],
       "text": "PJM, the largest U.S. grid operator, issued heat alerts for its Mid-Atlantic and Southern service areas for June 11-12."
-    },
-    {
-      "id": "mkt:019eadba-6253-7225-91aa-68430612cdfa",
-      "time": "2026-06-10 02:52:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Semi-official Mehr news agency cited an Iranian lawmaker saying Iran's military is on full alert in response to threats from Trump."
-    },
-    {
-      "id": "4926628",
-      "time": "2026-06-10 02:50:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議員：軍方對美國總統特朗普的威脅保持全面警惕。（MEHR）"
     }
   ]
 }
