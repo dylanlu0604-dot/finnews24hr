@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-17 06:29:30",
-  "count": 18348,
+  "updated": "2026-06-17 06:33:34",
+  "count": 18341,
   "items": [
+    {
+      "id": "4939364",
+      "time": "2026-06-17 06:31:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "領益智造在港交所公告，擬全球發售8.118億股H股，發售價格將不高於每股H股10.18港元，預期將於2026年6月26日(星期五)上午九時正在聯交所開始買賣。"
+    },
+    {
+      "id": "4939363",
+      "time": "2026-06-17 06:31:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首尾相差超過700個百分點，股票策略私募業績大分化】私募排排網最新資料顯示，截至5月底，全市場12795只有業績記錄的私募證券投資基金年內平均收益為7.78%，其中9299只產品錄得正收益，佔比為72.68%。股票策略業績實現領跑。值得一提的是，股票策略私募內部分化顯著加劇。私募排排網資料顯示，今年前5個月，股票策略私募基金中5%分位數的產品收益率達49.19%，居各策略首位。與此同時，表現最好的股票策略私募今年前5個月收益率超過600%，但同期表現最差的股票策略私募基金則跌逾60%，首尾業績差距高達753.47個百分點。另外，多位渠道人士透露，截至6月12日，部分知名百億級私募年內收益仍為負數，某深圳百億級價值派私募旗下多隻產品更是回撤超過10%。（上證報）"
+    },
+    {
+      "id": "4939362",
+      "time": "2026-06-17 06:30:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：通用汽車正與多家國防承包商展開洽談， 已與雷神技術公司、L3 哈里斯公司洽談擴大彈藥產能相關事宜。"
+    },
+    {
+      "id": "te:markets:559448",
+      "time": "2026-06-17 06:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Falls by 4.89% — Top commodity losers are Crude Oil WTI (-4.89%), Brent Crude Oil (-4.23%) and Methanol (-3.58%). Gains are led by Natural gas (3.46%)."
+    },
     {
       "id": "4939361",
       "time": "2026-06-17 06:27:41",
@@ -168643,116 +168678,6 @@
         "國際"
       ],
       "text": "美軍打擊目標為（伊朗的）雷達設施與炮兵陣地。"
-    },
-    {
-      "id": "mkt:019eae84-2de1-7ff4-a102-233d386c9462",
-      "time": "2026-06-10 06:32:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Iranian foreign minister Alaghaqi said foreign forces should leave the region if they want security, adding the Persian Gulf's history is full of examples of foreign invaders meeting tragic fates."
-    },
-    {
-      "id": "mkt:019eae83-dfce-7ff4-a102-1bdb1c09fefb",
-      "time": "2026-06-10 06:32:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian Foreign Minister Araghchi said Iran's powerful armed forces will not ignore any attack or threat."
-    },
-    {
-      "id": "mkt:019eae83-9bff-7ff4-a102-101592006a87",
-      "time": "2026-06-10 06:32:01",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iranian foreign minister Araghchi said that despite repeated battlefield setbacks for the US, Washington continues to test Iran’s resolve."
-    },
-    {
-      "id": "4926756",
-      "time": "2026-06-10 06:31:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外長表示：美軍在戰場屢屢受挫，卻仍試圖試探我們的決心。我方強大的武裝力量必將對任何襲擊與威脅予以回擊。若想保全自身，就請撤出我們的地區。波斯灣的歷史中，外來入侵者落得悲慘下場的事例比比皆是。"
-    },
-    {
-      "id": "4926755",
-      "time": "2026-06-10 06:31:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：儘管在戰場上遭遇挫敗，美國仍選擇試探我們的決心。"
-    },
-    {
-      "id": "4926754",
-      "time": "2026-06-10 06:30:52",
-      "tags": [
-        "央行",
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 日本航天局將發射H3火箭；\n② 09:30 中國5月CPI與PPI；\n③ 20:00 歐盟領導人在布魯塞爾會見到訪的韓國總統李在明；\n④ 20:30 美國5月CPI；\n⑤ 21:45 加拿大央行公佈利率決定；\n⑥ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；加拿大央行行長麥克勒姆和高階副行長羅傑斯召開貨幣政策新聞釋出會；\n⑦ 次日02:00 美國5月政府預算；\n⑧ 美股盤後 甲骨文釋出業績報告。"
-    },
-    {
-      "id": "4926753",
-      "time": "2026-06-10 06:30:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "與傳聞不符，伊朗德黑蘭、米納布及阿巴斯港目前均未出現受襲相關情況。"
-    },
-    {
-      "id": "te:markets:557781",
-      "time": "2026-06-10 06:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Falls by 3.11% — Top commodity losers are Natural Gas UK (-3.11%), Crude Oil WTI (-2.75%), Natural Gas EU (-2.47%) and Brent Crude Oil (-2.35%). Gains are led by Methanol (1.91%)."
-    },
-    {
-      "id": "4926752",
-      "time": "2026-06-10 06:29:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，SpaceX告知投資者，計劃在2027年開始軌道人工智慧計算測試。"
-    },
-    {
-      "id": "mkt:019eae81-5ea0-7ff4-a102-0986a391d9c9",
-      "time": "2026-06-10 06:29:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Sources said SpaceX told investors it aims to begin orbital AI compute testing in 2027."
-    },
-    {
-      "id": "4926751",
-      "time": "2026-06-10 06:29:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國眾議院議長：本次對伊行動規模適度、範圍有限】眾議院議長邁克·約翰遜表示，美軍對伊朗發起此次自衛性質打擊行動前，他曾與特朗普總統及多名高層官員一同身處白宮戰情室。約翰遜稱本次行動規模適度、範圍有限，打擊目標為雷達、導彈以及指揮控制設施。"
     }
   ]
 }
