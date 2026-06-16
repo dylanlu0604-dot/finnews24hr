@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-16 12:05:24",
-  "count": 18337,
+  "updated": "2026-06-16 12:09:45",
+  "count": 18335,
   "items": [
+    {
+      "id": "mkt:019ece9d-ee24-7dd8-b01f-2f3ca585705a",
+      "time": "2026-06-16 12:08:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "AUDUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Investment banks preview RBA decision; June pause expected, views diverge on next moves】Westpac: expects the Reserve Bank of Australia (RBA) to pause hikes in June but forecasts two further hikes in August and September as inflation remains elevated. Macquarie Group: expects a June pause while signalling the RBA will deliver a hawkish message to reinforce market expectations for an August hike. ANZ: expects rates unchanged in June and no further hikes this year, but says an upside inflation surprise could still prompt a move in August. Commonwealth Bank of Australia: expects a June hold and no further tightening through the remainder of the year, with rate cuts only beginning in 2027. National Australia Bank: expects a June pause and a steady policy stance for the rest of the year, with the next action likely to be a cut."
+    },
+    {
+      "id": "4937717",
+      "time": "2026-06-16 12:07:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "必和必拓高管：印度焦煤需求將從2025年的5500萬噸增至2050年的1.16億噸。"
+    },
+    {
+      "id": "4937716",
+      "time": "2026-06-16 12:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴釋出幫助機器人理解現實世界的人工智慧模型。"
+    },
+    {
+      "id": "mkt:019ece9c-185c-7dd8-b01f-2768e59fdc6f",
+      "time": "2026-06-16 12:06:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zibianliang Robot, Digua Robot strike strategic partnership to advance domestic edge deployment of embodied foundation model】Zibianliang Robot announced a strategic partnership with Digua Robot to adapt and deploy Zibianliang’s next‑generation embodied intelligence foundation model on Digua’s high‑performance domestic edge platform for household service scenarios, and to jointly develop integrated hardware‑software embodied intelligence solutions."
+    },
+    {
+      "id": "4937715",
+      "time": "2026-06-16 12:05:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自變數與地瓜機器人達成戰略合作，推動具身大模型國產端側部署】近日，自變數機器人宣佈與地瓜機器人達成戰略合作，雙方將圍繞家庭服務場景，共同推進自變數新一代具身智慧基礎模型在地瓜機器人高效能端側平臺的適配與部署，聯合打造軟硬一體化的具身智慧解決方案。"
+    },
     {
       "id": "4937714",
       "time": "2026-06-16 12:03:00",
@@ -168631,69 +168678,6 @@
         "國際"
       ],
       "text": "韓國綜合股價指數（KOSPI）上漲6%，至7933.49點。"
-    },
-    {
-      "id": "4925159",
-      "time": "2026-06-09 12:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民間團體人士：必須阻止日本強軍擴武程序】據日本方面9日訊息，日本自民黨當天將在黨總部召開總務會。會上將審議有關修改“安保三檔案”的建議草案。對於日本推動修改“安保三檔案”的動向，日本民間團體人士表示，日本近年來持續強軍擴武，相關動向值得警惕，必須阻止這一程序。（央視）"
-    },
-    {
-      "id": "4925158",
-      "time": "2026-06-09 12:08:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國信證券：COUPE引領光電共封裝新紀元 具製造能力廠商將率先迎來業績爆發】國信證券釋出研報稱，目前以COUPE為代表的3D光電共封裝技術正處於產業化加速落地的關鍵拐點。隨著頭部算力客戶訂單的持續匯入，掌握極微間距三維鍵合裝置、亞微米級主動對準裝置以及具備CPO先進封裝與精密無源器件製造能力的廠商將率先迎來業績爆發。"
-    },
-    {
-      "id": "4925157",
-      "time": "2026-06-09 12:07:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【泰銖或將跌至兩個多月低點】泰銖連續第三天走弱，而國內股市上漲。美元/泰銖上漲0.2%至32.8760；有望創下自2026年3月31日以來的最高收盤價。該國SET指數上漲0.9%，至1576.15點，有望結束連續兩日的下跌趨勢。"
-    },
-    {
-      "id": "mkt:019eaa90-4a7f-7eec-b848-41a62c43f906",
-      "time": "2026-06-09 12:07:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "00148.HK",
-        "Impact bullish",
-        "01912.HK"
-      ],
-      "text": "【Hong Kong midday: HSI down 0.15%, PCB names extend gains】By midday Hong Kong stocks slipped after an early recovery; the HSI was down 0.15% while the Hang Seng Tech Index rose 0.62%. PCB-related names led gains: 00148.HK +21%+, 01888.HK +14%+, 02476.HK +8%+. Chip stocks advanced: 09903.HK +11%+, 00981.HK +4%+. Optical-communications names outperformed, with 06869.HK and 01729.HK both >5% higher. Other outperforming themes included brain–computer interface, artificial intelligence, internet large-caps, household appliances, retail and OLED. Weak sectors: biotech, ports & shipping, oil & gas services, coal and logistics. Notable stock moves: 01912.HK resumed trading +144% after receiving a full takeover offer at roughly a 34.82% discount; 00700.HK +3%; 00568.HK -17%."
-    },
-    {
-      "id": "4925156",
-      "time": "2026-06-09 12:05:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子股價延續漲勢；最新報312000韓元，漲幅5.6%。"
-    },
-    {
-      "id": "4925155",
-      "time": "2026-06-09 12:05:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價漲幅進一步擴大；最新報價報213.3萬韓元，漲幅為12%。"
-    },
-    {
-      "id": "4925154",
-      "time": "2026-06-09 12:05:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【隆基綠能成立綠儲新能源科技公司】企查查APP顯示，近日，深州市隆深綠儲新能源科技有限公司成立，法定代表人為汪小斌，經營範圍包含：發電技術服務；儲能技術服務；光伏發電裝置租賃；太陽能發電技術服務；風力發電技術服務等。企查查股權穿透顯示，該公司由隆基綠能間接全資持股。"
     }
   ]
 }
