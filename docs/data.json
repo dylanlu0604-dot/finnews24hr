@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-16 12:17:51",
-  "count": 18330,
+  "updated": "2026-06-16 12:21:58",
+  "count": 18329,
   "items": [
+    {
+      "id": "mkt:019ecea8-6c75-7dd8-b01f-576ca6886989",
+      "time": "2026-06-16 12:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD",
+        "Impact mixed"
+      ],
+      "text": "Reserve Bank of Australia to announce policy rate decision in 10 minutes."
+    },
+    {
+      "id": "mkt:019ecea8-00c3-7dd8-b01f-4eeb2e34064d",
+      "time": "2026-06-16 12:19:37",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Copper",
+        "01208.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng down 1.25%; tech, nonferrous metals retreat】U.S. and Iran confirmed a ceasefire memorandum overnight, lifting risk appetite — Wall Street rallied and the Golden Dragon China index ticked up. After a two-day rebound investors turned cautious; Hang Seng opened down 16 pts at 24,826 and slid as much as 350 pts to 24,492. By mid-session the Hang Seng was down 1.25% and the Hang Seng Tech index down 1.61%; turnover HKD133.73bn. Sector moves: rare-earths, computer hardware and recent AI listings held up; commercial space, solar PV and road transport led gains; coal and mainland brokers bounced. Weakness in nonferrous metals, online education and alcoholic beverages persisted; tea-drink, internet healthcare and sporting-goods names extended declines. Notable stock moves: Andeli Juice (02218.HK) +35%; CHINA'S WERIDE‑W (00800.HK) and Lead Intelligent (00470.HK) >+10%; Zhipu (02513.HK) +9%. Minmetals Resources (01208.HK) -10%; China Hongqiao (01378.HK) and Laopu Gold (06181.HK) -~6%; China Resources Mixc Lifestyle (01209.HK) -~6%. Internet names Kuaishou (01024.HK) -4.2%; Bilibili (09626.HK), Meituan (03690.HK), SenseTime (00020.HK) and Baidu (09888.HK) each down >3%."
+    },
+    {
+      "id": "mkt:019ecea6-9dce-7dd8-b01f-470d66f2189c",
+      "time": "2026-06-16 12:18:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Wang Huning meets Nepal foreign minister in Beijing】Beijing, June 16 — Wang Huning, member of the CCP Politburo Standing Committee and chairman of the CPPCC, met Nepal’s foreign minister in Beijing. Wang cited Xi’s 2019 state visit that upgraded China–Nepal ties to a strategic cooperative partnership focused on development, and said China will work with Nepal under bilateral leadership to maintain high-level exchanges, deepen political trust and pragmatic cooperation to advance ties and benefit both countries’ peoples; the CPPCC said it stands ready to support this. The Nepalese minister reaffirmed Nepal’s adherence to the One China principle, pledged not to allow Nepali territory to be used for anti‑China activities, and expressed interest in expanding cooperation. Wang Dongfeng attended the meeting."
+    },
+    {
+      "id": "4937721",
+      "time": "2026-06-16 12:17:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富奧股份：物理AI機器人相關合資公司正籌備設立 暫未形成規模化訂單】富奧股份(000030)6月16日在互動平臺表示，飛行汽車方面，公司相關配套產品已完成可靠性驗證，即將進入量產供貨階段，目前該業務對公司整體營收貢獻有限。物理AI機器人相關合資公司正籌備設立，前期商務對接工作穩步開展，暫未形成規模化訂單。"
+    },
     {
       "id": "mkt:019ecea5-817c-7dd8-b01f-3997633fc331",
       "time": "2026-06-16 12:16:53",
@@ -168588,50 +168629,6 @@
         "公司"
       ],
       "text": "晶泰控股： 擬進行最高1億美元的股份回購。 將於6月10日起回購股份，回購截止至下屆年度股東大會結束。"
-    },
-    {
-      "id": "mkt:019eaa9d-70de-7eec-b848-66390a5dd4ba",
-      "time": "2026-06-09 12:21:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Huawei Cloud plans to cease sales of Distributed Cache Service (DCS) v4.0 at 10:00 Beijing time on Dec 15, 2026."
-    },
-    {
-      "id": "4925169",
-      "time": "2026-06-09 12:19:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本日經股價平均指數漲幅擴大至2%。"
-    },
-    {
-      "id": "mkt:019eaa9b-9bad-7eec-b848-5f5081835fe2",
-      "time": "2026-06-09 12:19:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 rose 2%."
-    },
-    {
-      "id": "4925168",
-      "time": "2026-06-09 12:18:47",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【習近平參訪朝鮮勞動黨中央幹部學校】當地時間6月9日上午，中共中央總書記、國家主席習近平在朝鮮勞動黨總書記、國務委員長金正恩陪同下，參訪位於平壤的朝鮮勞動黨中央幹部學校。 11時許，習近平乘車抵達。金正恩在學校標誌性建築朝鮮勞動黨象徵塔前迎接。數百名師生夾道歡迎，師生代表向習近平獻上鮮花。 在金正恩陪同下，習近平步入學校階梯教室。教室內學員整齊端坐，教員正在講授朝鮮對外關係課程中有關中朝關係的內容。中朝兩黨總書記到來時，師生們一起站立，向兩黨總書記報以熱烈的掌聲。習近平和金正恩駐足觀摩授課，不時頷首讚許。 離開階梯教室後，習近平和金正恩乘坐電瓶車參觀校園，沿途聽取有關學校基礎設施、教學安排等介紹。 來到教學樓之間的林地上，習近平和金正恩共同執鍬培土、提水澆灌，種下一株樅樹。樅樹四季常綠，象徵中朝友誼生生不息。隨後，在兩黨兩國最高領導人見證下，蔡奇和朝鮮勞動黨中央政治局常委、中央書記金才龍共同為植樹標識碑揭幕。碑身正面，用中朝雙語鐫刻著“中朝友誼萬古長青”幾個大字。在雙方陪同人員和朝方學員們的熱烈掌聲中，習近平和金正恩在植樹標識碑前握手合影。 蔡奇、王毅等參加上述活動。"
-    },
-    {
-      "id": "4925167",
-      "time": "2026-06-09 12:18:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英國石油投資者要求就董事長遭罷免一事給出明確說法】據英國《金融時報》報道，英國石油公司投資者要求就董事長遭解職一事作出說明。\n該報週二報道稱，英國石油多位主要投資者及前高管表示，他們仍不清楚前董事長艾伯特・馬尼福德離職的具體緣由。"
     }
   ]
 }
