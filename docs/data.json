@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-16 13:58:58",
-  "count": 18337,
+  "updated": "2026-06-16 14:03:07",
+  "count": 18324,
   "items": [
+    {
+      "id": "mkt:019ecf05-edb6-7dd8-b021-a3c1d5319be1",
+      "time": "2026-06-16 14:02:12",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-share shipping and ports sector extended losses in the afternoon session; COSCO Shipping Energy slid about 9%, China Merchants Energy Shipping fell over 6%, with Nanjing Port, Ningbo Ocean Shipping and China Merchants Nanyou also trading lower."
+    },
+    {
+      "id": "4937836",
+      "time": "2026-06-16 14:02:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "據LSEG資料，迪拜股指在早盤交易中上漲2%；阿布扎比股指在早盤交易中上漲1.4%。"
+    },
+    {
+      "id": "4937835",
+      "time": "2026-06-16 14:01:59",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【三星電子本週將開會討論下半年全球戰略】據業內人士透露，三星電子將於週二開始召開全球戰略會議，討論下半年的關鍵業務戰略。三星每年6月和12月都會召開全球戰略會議，匯聚各業務部門領導下的高管和海外子公司負責人。訊息人士稱，三星將於週二開始與移動業務部門召開為期三天的會議，預計將討論中東衝突結束後供應鏈狀況和全球需求前景，以應對外界對下半年盈利可能走軟的擔憂。週四，備受矚目的晶片部門會議將由三星電子裝置解決方案部門負責人全永鉉主持召開，預計該部門將審查高效能儲存產品的供應情況，包括計劃於下半年交付給主要客戶的高頻寬記憶體（HBM）晶片。"
+    },
+    {
+      "id": "4937834",
+      "time": "2026-06-16 14:01:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣：曾與軟銀的孫正義、OpenAI高管進行過會談。"
+    },
+    {
+      "id": "mkt:019ecf05-6fc7-7dd8-b021-997999600538",
+      "time": "2026-06-16 14:01:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Stoxx Europe 50 futures down 0.02%, DAX futures down 0.10%, FTSE 100 futures down 0.10%."
+    },
+    {
+      "id": "mkt:019ecf05-2775-7dd8-b021-9288dee6cd5b",
+      "time": "2026-06-16 14:01:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LSEG data showed the Dubai index rose 2% in early trading; the Abu Dhabi index rose 1.4%."
+    },
+    {
+      "id": "4937833",
+      "time": "2026-06-16 14:00:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠城集團在杭州成立新置業公司 註冊資本12億】天眼查App顯示，近日，杭州綠鈞置業有限公司成立，法定代表人為姜晗，註冊資本12億人民幣，經營範圍包括房地產開發經營、酒店管理、以自有資金從事投資活動等。股東資訊顯示，該公司由綠城房地產集團有限公司全資持股。"
+    },
+    {
+      "id": "4937832",
+      "time": "2026-06-16 13:59:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德執行長：就口服款Wegovy而言，在中國市場，我們受到該片劑額外配方以及分子周邊吸附載體的專利保護。"
+    },
+    {
+      "id": "mkt:019ecf03-9695-7dd8-b021-8f4b17e231f8",
+      "time": "2026-06-16 13:59:39",
+      "tags": [
+        "MKT News",
+        "NVO.O",
+        "Impact bullish"
+      ],
+      "text": "NOVO NORDISK CEO said semaglutide's regulatory data protection runs through Q2 next year; generics are expected to begin entering the market thereafter."
+    },
+    {
+      "id": "4937831",
+      "time": "2026-06-16 13:59:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量139億元。"
+    },
+    {
+      "id": "mkt:019ecf02-c4f2-7dd8-b021-87dfce77ce64",
+      "time": "2026-06-16 13:58:45",
+      "tags": [
+        "MKT News",
+        "NVO.N",
+        "Impact bullish"
+      ],
+      "text": "Novo Nordisk (NVO.N) CEO: UBT-251 will play a very important role in the company's future assets."
+    },
+    {
+      "id": "mkt:019ecf02-a7f0-7dd8-b021-7a76f7a660fd",
+      "time": "2026-06-16 13:58:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDC: Global smart eyewear shipments 3.566 mln in Q1 2026, up 130.1% YoY】IDC reports Q1 2026 global smart eyewear shipments totaled 3.566 mln units, up 130.1% YoY. Audio and audio‑capture glasses shipments were 2.248 mln units, up 167.4% YoY; AR/VR shipments were 1.318 mln units, up 85.9% YoY."
+    },
     {
       "id": "4937830",
       "time": "2026-06-16 13:57:49",
@@ -168424,258 +168535,6 @@
         "其他"
       ],
       "text": "【航行警告 北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，6月10日至12日每天8時至15時，北部灣部分海域進行軍事訓練，禁止船舶駛入。"
-    },
-    {
-      "id": "4925297",
-      "time": "2026-06-09 14:02:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "葛蘭素史克同意以每股124美元的現金價格收購Nuvalent公司。"
-    },
-    {
-      "id": "mkt:019eaafa-362b-7eec-b84a-4c92c03ea015",
-      "time": "2026-06-09 14:02:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Germany April industrial production, working-day adjusted YoY -0.5% (prior -2.8%)."
-    },
-    {
-      "id": "4925296",
-      "time": "2026-06-09 14:02:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：結束與伊朗衝突的協議可能在“兩到三天內達成”】特朗普向記者表示，旨在結束與伊朗衝突的協議可能在“兩到三天內達成”，並補充說，這一結果將阻止伊朗擁有核武器，並促使霍爾木茲海峽立即重新開放。他在登上空軍一號前向記者表示：“雙方此前就襲擊事宜反覆僵持，如今經我從中協調，雙方都已同意停手。” “這份協議即將進入最後敲定階段，最終會是一份十分利好的協議。協議將徹底禁止伊朗以任何形式、任何方式研發和擁有核武器。” 他補充道：“海峽航道會即刻恢復通行。協議一旦簽署，航道馬上開放，而簽約流程預計兩三天內就能完成。”"
-    },
-    {
-      "id": "mkt:019eaaf9-9a95-7eec-b84a-4255d243ed25",
-      "time": "2026-06-09 14:01:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Japanese government bond yields accelerate decline】Japan 10-year government bond yield fell 5 bps to 2.665%; 20-year fell 7 bps to 3.565%; 30-year fell 6.5 bps to 3.870%."
-    },
-    {
-      "id": "mkt:019eaaf9-4d52-7eec-b84a-3fe0de7327b1",
-      "time": "2026-06-09 14:01:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CHINA, Georgia upgrade ties to comprehensive strategic partnership on 34th anniversary】On June 9 CHINA and Georgia exchanged congratulatory messages marking the 34th anniversary of diplomatic relations. CHINA said it will view bilateral ties from a strategic, long-term perspective and, jointly with the Georgian president, announced the elevation of relations to a comprehensive strategic partnership."
-    },
-    {
-      "id": "4925295",
-      "time": "2026-06-09 14:01:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債<JP20YTN=JBTC>收益率下跌7.0個基點，至3.565%。"
-    },
-    {
-      "id": "4925294",
-      "time": "2026-06-09 14:01:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債<JP10YTN=JBTC>收益率下跌5個基點，至2.665%。"
-    },
-    {
-      "id": "4925293",
-      "time": "2026-06-09 14:01:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PEEK材料概念震盪反彈，寧波華翔漲停】PEEK材料概念震盪反彈，寧波華翔漲停，韓建河山、中國巨石此前漲停，唯科科技、凱盛新材、百合花、會通股份、同益股份、泰和科技等跟漲。"
-    },
-    {
-      "id": "4925292",
-      "time": "2026-06-09 14:01:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報6218.00元。"
-    },
-    {
-      "id": "mkt:019eaaf8-8e50-7eec-b84a-3739dbbf6c9a",
-      "time": "2026-06-09 14:01:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Industrial Production (Workday Adjusted) (YoY) (Apr) | actual -0.5% | previous -2.80%"
-    },
-    {
-      "id": "4925291",
-      "time": "2026-06-09 14:01:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾進一步走強，美元兌印尼盾下跌0.66%至18050。"
-    },
-    {
-      "id": "4925290",
-      "time": "2026-06-09 14:00:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平同喬治亞總統卡韋拉什維利就中格建交34週年互致賀電並共同宣佈將雙邊關係提升為全面戰略伙伴關係】6月9日，國家主席習近平同喬治亞總統卡韋拉什維利互致賀電，慶祝兩國建交34週年。習近平強調，無論國際形勢如何變化，中方始終從戰略高度和長遠角度看待中格關係。藉此機會，我願同卡韋拉什維利總統共同宣佈，將中格關係提升為全面戰略伙伴關係。相信這將為中格關係發展開闢新前景，為兩國傳統友誼續寫新篇章，為雙方互利合作注入強勁動力，為中格人民創造更多福祉。（新華社）"
-    },
-    {
-      "id": "em:jjsj_oyqsj:202606093765006296",
-      "time": "2026-06-09 14:00:35",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "德國4月季調後貿易帳145億歐元，預期153億歐元，前值由143億歐元修正為141億歐元。"
-    },
-    {
-      "id": "mkt:019eaaf8-15f2-7eec-b84a-2a3bd07e2079",
-      "time": "2026-06-09 14:00:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Germany April seasonally adjusted imports MoM +1.2% (consensus -1.8%); March revised to +5.20% from +5.10%."
-    },
-    {
-      "id": "4925289",
-      "time": "2026-06-09 14:00:19",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國4月季調後出口月率 0.9%，預期-0.5%，前值0.50%。德國4月季調後進口月率 1.2%，預期-1.8%，前值由5.10%修正為5.20%。"
-    },
-    {
-      "id": "mkt:019eaaf7-aed8-7eec-b84a-2137a12536d2",
-      "time": "2026-06-09 14:00:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany April seasonally adjusted trade surplus EUR14.5bln vs EUR15.3bln expected; prior revised down to EUR14.1bln from EUR14.3bln."
-    },
-    {
-      "id": "mkt:019eaaf7-aed3-7eec-b84a-1b01357ee2d3",
-      "time": "2026-06-09 14:00:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Germany April seasonally adjusted exports MoM +0.9%; expected -0.5%; prior +0.5%."
-    },
-    {
-      "id": "mkt:019eaaf7-aed0-7eec-b84a-155c28eb8ae0",
-      "time": "2026-06-09 14:00:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany April seasonally adjusted industrial production MoM +0.4% (exp. +0.5%); prior -0.7%."
-    },
-    {
-      "id": "4925288",
-      "time": "2026-06-09 14:00:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國4月季調後貿易帳 145億歐元，預期153億歐元，前值由143億歐元修正為141億歐元。"
-    },
-    {
-      "id": "mkt:019eaaf7-9127-7eec-b84a-08ff83960b57",
-      "time": "2026-06-09 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Trade Balance SA (Apr) | actual 14500000000B | consensus 15300000000B | previous 14300000000B"
-    },
-    {
-      "id": "mkt:019eaaf7-9054-7eec-b849-fcc2f5231c2b",
-      "time": "2026-06-09 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Imports SA (MoM) (Apr) | actual 1.2% | consensus -1.8% | previous 5.10%"
-    },
-    {
-      "id": "mkt:019eaaf7-904e-7eec-b849-f7ee7536a0b7",
-      "time": "2026-06-09 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Exports SA (MoM) (Apr) | actual 0.9% | consensus -0.5% | previous 0.50%"
-    },
-    {
-      "id": "mkt:019eaaf7-7768-7eec-b849-efb78322214a",
-      "time": "2026-06-09 14:00:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Industrial Production (Seasonally Adjusted) (MoM) (Apr) | actual 0.4% | consensus 0.5% | previous -0.70%"
-    },
-    {
-      "id": "mkt:019eaaf6-b61b-7eec-b849-e7bd61fb0372",
-      "time": "2026-06-09 13:59:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "1211.HK",
-        "Impact bullish",
-        "002594.SZ"
-      ],
-      "text": "【Wang Chuanfu: BYD expects overseas sales to exceed 1.6 mln units this year】At its June 9 AGM, BYD Co. chairman and president Wang Chuanfu said the company now expects overseas sales to exceed the previously targeted 1.6 mln units this year. He cited BYD’s established overseas presence, reputation, technology, products and service network as supporting stronger export performance. Wang said current AI advances make earlier deployment of L3 and L4 autonomous driving likely. He added the company expects substantial growth by 2030 and aims to be the global leader in scale within five years."
-    },
-    {
-      "id": "4925287",
-      "time": "2026-06-09 13:59:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【王傳福：根據現在AI技術的發展 大家可以看到未來L3、L4一定會提前落地】比亞迪股份有限公司召開2025年度股東會。圍繞智慧駕駛，王傳福在會上表示，整車智慧就是具身智慧，比亞迪率先提出全民智駕，就是希望AI的技術成果能夠在汽車上快速落地。比亞迪現在有315萬臺智駕車型在全球落地，每天有兩億公里行駛里程的資料，為比亞迪未來更高階別智慧駕駛落地提供了很好的基礎。“根據現在AI技術的發展，大家可以看到，未來L3、L4一定會提前落地。”他判斷。他提到，比亞迪已經從晶片、演算法、資料、生態等多方面為此做好充分準備，一旦法規落地，比亞迪就將推出全新的、符合L3相關（要求）產品，並從中國走向全球，包括在歐洲、南美洲、東南亞、中東等地區的訓練中心都已做好準備。他說，“一旦法規落地，比亞迪將快速騰飛。”"
     }
   ]
 }
