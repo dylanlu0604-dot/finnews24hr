@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-17 06:41:37",
-  "count": 18337,
+  "updated": "2026-06-17 06:45:42",
+  "count": 18340,
   "items": [
+    {
+      "id": "mkt:019ed29c-313d-7dd8-b03a-e216e7b767da",
+      "time": "2026-06-17 06:45:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q1 current account deficit NZD1.008bn, narrower than expected NZD1.11bn and improved from NZD5.984bn in the prior quarter."
+    },
+    {
+      "id": "te:markets:559451",
+      "time": "2026-06-17 06:45:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Drops by 1.89% — Top crypto losers are Binance (-1.89%), XRP (-1.54%), Bitcoin (-0.96%) and Ether (-0.22%)."
+    },
+    {
+      "id": "mkt:019ed29c-25ce-7dd8-b03a-dc722df10271",
+      "time": "2026-06-17 06:45:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand current account deficit was -3.6% of GDP (annualized) in Q1, versus -3.7% expected and -3.7% previously."
+    },
+    {
+      "id": "4939370",
+      "time": "2026-06-17 06:45:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公募熱議主題投資新規：約束“漂移”衝動，重塑競爭邏輯】中國證券投資基金業協會日前釋出《公開募集證券投資基金主題投資風格管理指引》，定於今年12月1日起施行，併為行業預留了17個月的整改過渡期。多位公募人士認為，“新規直指公募產品‘名不副實’與‘押賽道、博排名’等問題”，在多項硬約束疊加之下，基金經理依靠漂移熱門賽道博取短期收益的操作空間將被大幅壓縮。據瞭解，大部分公募機構已著手對所有在執行的主題投資基金進行梳理。目前，部分公司整改已經落地。“新規短期對市場衝擊有限，中長期將系統性重塑公募行業生態。”一位公募基金高管表示。（中證報）"
+    },
+    {
+      "id": "mkt:019ed29c-062c-7dd8-b03a-d4e3230280de",
+      "time": "2026-06-17 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Current Account to GDP Ratio (YoY) (Q1) | actual -3.6% | consensus -3.70% | previous -3.70%"
+    },
+    {
+      "id": "mkt:019ed29c-05f4-7dd8-b03a-ce3d1d6bac1e",
+      "time": "2026-06-17 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Current Account (Q1) | actual -1008000000B | consensus -1110000000B | previous -5984000000B"
+    },
+    {
+      "id": "4939369",
+      "time": "2026-06-17 06:44:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防長赫格塞思將在本週北約防長會議上力促防務責任分擔】美國國防部長赫格塞思本週將前往比利時參加北約防長會議，力推責任分擔理念；這已成為特朗普政府國防政策的標誌。“國防部長將重點強調，北約盟友迫切需要承擔歐洲大陸常規防務的主要責任，具體措施包括將國防開支提高至國內生產總值（GDP）的5%、提升國防工業基礎產能，以及部署具備可靠戰鬥力的部隊，”美國國防部週二在宣告中稱。歐洲盟友一直在為美國願意投入歐洲大陸戰時行動的軍事資產可能遭到大幅削減作準備，尤其是在政府官員就美國海外基地削減駐軍問題釋放矛盾訊號之際。"
+    },
+    {
+      "id": "mkt:019ed299-920f-7dd8-b03a-c43bb2370a25",
+      "time": "2026-06-17 06:42:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Options traders split on Fed rate path; focus on Walsh press conference】Options traders are increasingly divided on the Fed's near-term rate path, running the gamut from bets on cuts in coming months to wagers on varying sizes of hikes. FED SWAPS pricing implies markets largely expect the Fed to hold rates at Wednesday's meeting; all eyes are on Chair Walsh's first post-meeting press conference for guidance. Separately, reports that the US and Iran are preparing to sign a temporary peace accord sent oil to a three-month low, easing near-term infary pressure, though implications for longer-term policy remain unclear."
+    },
     {
       "id": "te:markets:559450",
       "time": "2026-06-17 06:40:09",
@@ -168603,54 +168681,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera reported Iranian media, citing sources, that two reservoirs in Iran’s Sirik region were bombed, disrupting the area’s drinking water supply."
-    },
-    {
-      "id": "4926767",
-      "time": "2026-06-10 06:45:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方媒體表示，美軍此次襲擊並未擊中格什姆島的任何商用港口設施。錫裡克地區兩座儲水罐遭襲，當地飲用水供應隨之中斷。"
-    },
-    {
-      "id": "te:markets:557784",
-      "time": "2026-06-10 06:45:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 2.68% — Top crypto losers are Ether (-2.68%), XRP (-2.60%) and Bitcoin (-2.05%)."
-    },
-    {
-      "id": "mkt:019eae8f-8285-7ff4-a102-3579f9ac86d6",
-      "time": "2026-06-10 06:45:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says it fired missiles and drones at US targets in region】CNN reported local time on the 10th that the Islamic Revolutionary Guard Corps (IRGC) posted on social media 'has fired missiles and drones at US targets in the region'."
-    },
-    {
-      "id": "4926766",
-      "time": "2026-06-10 06:44:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長警告美國若想安全最好離開】當地時間今天（6月10日）凌晨，伊朗外長阿拉格齊在社交媒體平臺發文警告稱，儘管在戰場上戰敗，美國卻再次試圖試探伊朗的決心，伊朗強大的武裝力量絕對不會放過任何攻擊或威脅。阿拉格齊說，“若想要安全，最好離開本地區，波斯灣的歷史充滿了外國入侵者覆滅的故事。”"
-    },
-    {
-      "id": "4926765",
-      "time": "2026-06-10 06:42:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部長羅林斯：美國首例感染螺旋蠅的牛犢目前健康狀況良好，正在康復中。將在幾個月後開始根除螺旋蠅。"
     }
   ]
 }
