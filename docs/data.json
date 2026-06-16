@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-16 21:11:17",
-  "count": 18313,
+  "updated": "2026-06-16 21:15:23",
+  "count": 18314,
   "items": [
+    {
+      "id": "te:markets:559367",
+      "time": "2026-06-16 21:14:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lithium Rebounds from 2-Month Low — Lithium carbonate prices in China rose to CNY 169,000 per tonne from the near two-month low of CNY 163,000 as seasonal inventory rebuilding drove consumers to place bids on the metal. Still, futures remained well below the two-and-a-half year high of CNY 200,00 from mid-May amid easing concerns of tight supply and signs of softening demand. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere. Zimbabwe imposed export quotas for lithium concentrates and a full export ban to start next year, and stated exports would be allowed for processed lithium to stimulate the investment in local processing. Meanwhile, new data painted a mixed picture for electric vehicle demand. New energy vehicle sales in China fell by 7.5% annually to 950,000 units in May, although the market share for the sector rose to 62.9% in the period."
+    },
+    {
+      "id": "4938886",
+      "time": "2026-06-16 21:12:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列媒體：以色列曾要求檢視美伊諒解備忘錄檔案，但遭到拒絕。"
+    },
+    {
+      "id": "mkt:019ed08f-f591-7dd8-b032-61e7bcb2a1a7",
+      "time": "2026-06-16 21:12:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Israeli media reported Israel requested access to US‑Iran memorandum of understanding documents but was denied."
+    },
+    {
+      "id": "4938885",
+      "time": "2026-06-16 21:12:27",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【曝微信支付正測試AI支付功能，騰訊客服：暫未查詢到相關資訊】有媒體報道，微信支付正聯合騰訊智慧體產品WorkBuddy測試Al支付功能，計劃在微信錢包中上線“AI專屬卡”。據報道，該卡消費上限由使用者充值金額決定，支付授權範圍可隨時管控，資金專款專用，智慧體發起支付須經使用者驗密確認。有訊息人士稱，該功能最快於本週上線。對此，新浪科技向騰訊官方進行求證，騰訊方面未予回應。騰訊客服則表示，“目前暫未查詢到相關資訊，無法確認該內容的準確性。”（新浪科技）"
+    },
+    {
+      "id": "4938884",
+      "time": "2026-06-16 21:11:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯塔默稱，特朗普並未就英國社交媒體禁令提出異議。"
+    },
+    {
+      "id": "mkt:019ed08f-3f26-7dd8-b032-5a8795930f9d",
+      "time": "2026-06-16 21:11:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Starmer said US President Trump did not express concern about the UK's social media ban."
+    },
+    {
+      "id": "mkt:019ed08e-9699-7dd8-b032-50a3e6360af4",
+      "time": "2026-06-16 21:11:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China protests UK sanctions on four Chinese entities】On June 16 the UK announced sanctions on entities and individuals it said supplied critical military equipment to Russia, including four Chinese entities. The Chinese embassy in London said it strongly opposes the UK's unilateral sanctions, has lodged formal representations and urged the UK to revoke the measures. The embassy reiterated China's efforts to promote peace talks on Ukraine and its strict controls on exports of military and dual-use items, said normal China-Russia exchanges and cooperation should not be disrupted, and warned Beijing will take necessary measures to safeguard the lawful rights and interests of Chinese firms."
+    },
     {
       "id": "4938883",
       "time": "2026-06-16 21:10:17",
@@ -168655,60 +168717,6 @@
         "國際"
       ],
       "text": "印度政府：印度總理莫迪將於6月13日至18日訪問法國和斯洛伐克。"
-    },
-    {
-      "id": "4926323",
-      "time": "2026-06-09 21:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國4月國際貿易逆差為559億美元】當地時間9日，根據美國經濟分析局和美國人口普查局公佈的資料，美國今年4月國際貿易逆差為559億美元，略低於3月份經修訂後的566億美元。4月份的出口額為3271億美元，進口額為3830億美元。（央視新聞）"
-    },
-    {
-      "id": "4926322",
-      "time": "2026-06-09 21:14:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國代表團完成國際電信聯盟無線電通訊部門5D工作組會議參會任務】工信部訊息，2026年5月27日至6月5日，國際電信聯盟無線電通訊部門第五研究組（SG5）下設5D工作組（WP5D）會議在瑞士日內瓦召開。本次會議是2027年世界無線電通訊大會（WRC-27）研究週期WP5D的第八次會議。      會議聚焦WRC-27議題1.7（研究為國際行動通訊新增頻段劃分）、議題1.13（研究為手機直連衛星新增頻段劃分）、未來6G無線技術效能評估等內容，就議題1.7世界無線電通訊大會籌備會議文字，議題1.13涉及的手機直連衛星系統對地面國際行動通訊（IMT）系統的干擾保護規則措施、保護限值計算方法以及WP5D的聯絡函等內容展開深入討論。我國提交的關於議題1.7、議題1.13的文稿內容均被會議採納並寫入工作檔案。此外，會議編制完成《IMT-2030無線空口技術評估指導》新報告草案並提交下次SG5會議審議，我國專家分別擔任評估子組、通道模型起草組主席，有力推動了6G技術評估方法制定工作。"
-    },
-    {
-      "id": "mkt:019eac84-31e6-7ddc-a5f4-be1fc17929eb",
-      "time": "2026-06-09 21:13:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Shanghai Stock Exchange queries Suqian Liansheng on feasibility of completing 120,000 4-6-inch InP wafer line in 10 months】Shanghai Stock Exchange issued an inquiry to Suqian Liansheng Technology Co. after the company proposed to jointly invest 10 mln yuan to establish a JV for R&D, production and sales of indium phosphide (InP) substrates. The exchange asked the company to disclose detailed construction arrangements and to explain whether it is feasible to complete an annual 120,000 4-6-inch InP wafer production line within 10 months, taking into account progress on pre-approvals, planning and construction permits, and supply of core equipment."
-    },
-    {
-      "id": "4926321",
-      "time": "2026-06-09 21:12:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上交所向宿遷聯盛下發問詢函 要求說明在10個月內建成年產12萬片4-6英寸磷化銦襯底產線是否具備可行性】上交所釋出《關於對宿遷聯盛科技股份有限公司有關對外投資事項的問詢函》，其中指出，公司擬共同出資1000萬元設立合資公司從事磷化銦襯底的研發和生產銷售。上交所要求公司補充披露：1、專案建設的具體安排，結合前置建設審批進展、規劃施工許可、核心裝置供給等，說明在10個月內建成年產12萬片4-6英寸磷化銦襯底產線是否具備可行性；2、公司及相關股東後續資金投入的具體安排，合資公司相關股東是否有足夠資金實力保障專案建設順利開展，公司是否制定相關防控預案以防範合資公司少數股東出現出資違約等相關風險；3、結合公司主營業務經營情況和發展戰略，說明公司進行大額跨行業投資的必要性與合理性，如何保障合資公司的資金安全、管理控制以及與公司現有業務的整合，是否對公司持續經營能力存在不利影響。請充分提示風險，並請獨立董事發表意見。此外，結合股東減持計劃的具體減持節奏和進展，說明是否存在利用資訊披露配合股東減持的情形；結合內幕資訊知情人登記管理制度，說明公司就該筆投資的內幕資訊登記及保密措施執行情況，自查相關資訊是否存在提前洩露情形。"
-    },
-    {
-      "id": "mkt:019eac83-3e86-7ddc-a5f4-b70ba0a339d6",
-      "time": "2026-06-09 21:12:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Sources said July and August Urals crude cargoes delivered to India were priced at a $2–$3/bbl discount to Brent."
-    },
-    {
-      "id": "4926320",
-      "time": "2026-06-09 21:11:30",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通CEO：我們在小企業和信用卡業務領域的市場份額正在提升。"
     }
   ]
 }
