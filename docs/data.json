@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-17 02:36:24",
-  "count": 18429,
+  "updated": "2026-06-17 02:40:18",
+  "count": 18432,
   "items": [
+    {
+      "id": "mkt:019ed1bb-8aa6-7dd8-b039-0c6709cdf247",
+      "time": "2026-06-17 02:39:49",
+      "tags": [
+        "MKT News",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Brazilian oil regulator ANP approved payment of 740 million reais to Petrobras for the first tranche of a diesel subsidy program."
+    },
+    {
+      "id": "mkt:019ed1ba-4da2-7dd8-b039-00d133163d44",
+      "time": "2026-06-17 02:38:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iran's Supreme Joint Military Command warned that if Israel does not cease attacks on southern Lebanon, it should expect a strong response from Iran's armed forces."
+    },
+    {
+      "id": "mkt:019ed1ba-1fe2-7dd8-b038-fe3531bcef7e",
+      "time": "2026-06-17 02:38:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold front-month contract fell 0.06% to 945 yuan/gram; SHFE silver front-month contract fell 0.07% to 16,847 yuan/kg; SC crude oil front-month contract fell 3.93% to 509 yuan/barrel."
+    },
+    {
+      "id": "mkt:019ed1ba-0d17-7dd8-b038-f6b9770037e4",
+      "time": "2026-06-17 02:38:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed the June 16 (Tuesday) night session up 0.06% at 941.78 yuan/gram; Silver T+D closed up 0.47% at 16,770 yuan/kg."
+    },
+    {
+      "id": "4939284",
+      "time": "2026-06-17 02:37:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部阿拉格齊透露，伊朗與美國代表團定於週五在瑞士舉行會晤，兩國代表團團長將先簽署一份諒解備忘錄，隨後開啟首輪後續談判，此次瑞士會晤的具體地點將另行公佈。"
+    },
     {
       "id": "4939283",
       "time": "2026-06-17 02:32:21",
@@ -169507,22 +169564,6 @@
         "Brent"
       ],
       "text": "【Over 160 tankers stranded in Persian Gulf; IMO warns against risky Hormuz transits】Lloyd’s List reported on May 9 that more than 160 mainstream oil tankers have been stranded in Persian Gulf waters since the regional conflict began in late February, some for over 100 days. IMO Secretary-General Domingues warned on May 9 that vessels should not attempt passages through the Strait of Hormuz without credible security assurances and that the region remains highly volatile, saying safe navigation cannot be guaranteed. He urged masters and shipowners to carry out full risk assessments under international safety and security management frameworks and said commercial or operational factors must not justify exposing crews to high risk; protecting seafarer lives must be the priority."
-    },
-    {
-      "id": "4926624",
-      "time": "2026-06-10 02:38:24",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【報道：SpaceX總裁與CFO參加週二的大摩閉門午餐會，馬斯克曾短暫參與視訊會議】知情人士表示，SpaceX目前仍處於緊鑼密鼓的市場推介和吸金階段。紐約時間週二中午，SpaceX總裁Gwynne Shotwell與首席財務官Bret Johnsen悉數出席了在曼哈頓中城摩根士丹利總部舉行的一場閉門午餐會。據瞭解，在漫長的跨國路演期間，馬斯克曾短暫接入部分投資者的Zoom視訊會議親自站臺。"
-    },
-    {
-      "id": "4926623",
-      "time": "2026-06-10 02:38:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【超160艘油輪滯留波斯灣 海事組織警告勿涉險闖關】據英國《勞埃德船舶日報》9日報道，自2月底地區衝突爆發以來，仍有超160艘主流油輪滯留波斯灣水域，時間已超100天。國際海事組織秘書長多明格斯當天警告，不能為了商業利益讓海員冒險透過霍爾木茲海峽。《勞埃德船舶日報》說，儘管戰事初期位於波斯灣的約四分之一油輪已陸續駛離，但近期駛離進度明顯放緩。霍爾木茲海峽附近區域安全風險仍居高不下，多數船東繼續保持高度謹慎態度，不願貿然安排船舶透過相關海域。（新華社）"
     }
   ]
 }
