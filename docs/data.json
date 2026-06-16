@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-17 00:34:26",
-  "count": 18382,
+  "updated": "2026-06-17 00:38:29",
+  "count": 18381,
   "items": [
+    {
+      "id": "mkt:019ed14b-9d7e-7dd8-b037-302584cdd3a6",
+      "time": "2026-06-17 00:37:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor Merz said in today’s discussion on Ukraine that European participation in negotiations was never in dispute."
+    },
+    {
+      "id": "4939198",
+      "time": "2026-06-17 00:37:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨：在今天有關烏克蘭的討論中，歐洲人參與談判這一點從未引發爭議。"
+    },
+    {
+      "id": "mkt:019ed14a-c055-7dd8-b037-2a8f6ec74ca5",
+      "time": "2026-06-17 00:36:37",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact mixed"
+      ],
+      "text": "Wall Street Journal reports US electric-vehicle startup Rivian (RIVN.O) has cut several hundred jobs in its service and customer operations, reducing headcount by less than 2%."
+    },
+    {
+      "id": "4939197",
+      "time": "2026-06-17 00:36:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海岸警衛隊聲稱，運輸伊朗、俄羅斯受制裁原油的油輪（即“影子船隊”）正在使用各類數字工具，此舉會對船舶、船員安全及海洋環境構成隱患。"
+    },
+    {
+      "id": "4939196",
+      "time": "2026-06-17 00:35:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "電動汽車公司Rivian裁員數百人。"
+    },
+    {
+      "id": "mkt:019ed149-3cbc-7dd8-b037-2694112fd5cf",
+      "time": "2026-06-17 00:34:58",
+      "tags": [
+        "MKT News",
+        "HPE.O"
+      ],
+      "text": "HPE's data fabric software will expand data availability for AI agent workflows and is scheduled to launch in October 2026."
+    },
+    {
+      "id": "4939195",
+      "time": "2026-06-17 00:34:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與（HPE）：慧與資料編織軟體拓寬智慧體工作流的資料可用範圍，產品將於2026年10月上市；慧與AI工廠將在2026年第四季度搭載英偉達機密計算技術。"
+    },
+    {
+      "id": "mkt:019ed148-86e1-7dd8-b037-1e3ff99b7b77",
+      "time": "2026-06-17 00:34:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Huiyu Technology said new private-cloud AI features will launch in July 2026."
+    },
+    {
+      "id": "mkt:019ed148-53cd-7dd8-b037-128c066b643d",
+      "time": "2026-06-17 00:33:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Huiyu Technology said its Huiyu private-cloud AI, co-designed with NVIDIA (NVDA.O), can boost token throughput by up to 20%."
+    },
     {
       "id": "4939194",
       "time": "2026-06-17 00:33:09",
@@ -169074,101 +169160,6 @@
         "焦點"
       ],
       "text": "標普500指數跌2.01%，現報7256.780點；道指跌0.92%，現報50320.430點；納指跌3.35%，現報25060.305點。"
-    },
-    {
-      "id": "4926575",
-      "time": "2026-06-10 00:38:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4250美元/盎司，日內跌1.85%。"
-    },
-    {
-      "id": "te:markets:557762",
-      "time": "2026-06-10 00:38:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Solar Energy Index Hits 4-week Low — Solar Energy Index decreased to 59.76 USD, the lowest since May 2026. Over the past 4 weeks, Solar Energy Index lost 6.08%, and in the last 12 months, it increased 75.36%."
-    },
-    {
-      "id": "mkt:019ead3f-be35-7992-a4a6-da9977973192",
-      "time": "2026-06-10 00:38:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said he prefers resolving disputes through diplomacy but warned that if counterparts fail to honor commitments Iran will respond by other means it considers most effective."
-    },
-    {
-      "id": "4926574",
-      "time": "2026-06-10 00:38:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4270美元/盎司，日內跌2.16%。"
-    },
-    {
-      "id": "4926573",
-      "time": "2026-06-10 00:38:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守65美元/盎司，日內跌5.24%。"
-    },
-    {
-      "id": "4926572",
-      "time": "2026-06-10 00:38:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌2%，現報4274.76美元/盎司。"
-    },
-    {
-      "id": "te:markets:557761",
-      "time": "2026-06-10 00:35:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "ProLogis Stock Price Hits 4-year High — ProLogis shares increased to 147.93 USD, the highest since May 2022. Over the past 4 weeks, ProLogis gained 2.48%, and in the last 12 months, it increased 34.85%."
-    },
-    {
-      "id": "4926571",
-      "time": "2026-06-10 00:35:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫： 我們更傾向於以外交方式溝通，但我們也深諳其他應對手段。若你們背棄承諾，我們便會拿出最擅長的方式予以回應。"
-    },
-    {
-      "id": "mkt:019ead3d-0fa6-7992-a4a6-d04f4571c969",
-      "time": "2026-06-10 00:35:20",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "VIX hit its highest level since April 7, rising 2.72 points to 21.64."
-    },
-    {
-      "id": "4926570",
-      "time": "2026-06-10 00:34:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國廣播電視臺（IRIB）： 以色列對黎巴嫩南部的庫夫拉、賽吉德及賈布希特三座城鎮發動空襲。"
     }
   ]
 }
