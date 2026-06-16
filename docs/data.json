@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-17 02:44:25",
-  "count": 18431,
+  "updated": "2026-06-17 02:48:25",
+  "count": 18433,
   "items": [
+    {
+      "id": "mkt:019ed1c1-e88b-7dd8-b039-27641789cf8b",
+      "time": "2026-06-17 02:46:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Fitch: Brazil general government gross debt-to-GDP rises to 78.6% in 2025; expected to exceed 80% in 2026."
+    },
+    {
+      "id": "mkt:019ed1c0-e092-7dd8-b039-1ada18449460",
+      "time": "2026-06-17 02:45:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch expects Brazil’s general government deficit-to-GDP ratio to widen from 8.1% in 2025 to 8.6% in 2026."
+    },
+    {
+      "id": "4939290",
+      "time": "2026-06-17 02:45:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭空軍蘇-24轟炸機墜毀 兩人遇難】烏克蘭空軍16日晚在社交媒體發文說，當天19時許，烏空軍一架蘇-24轟炸機在赫梅利尼茨基州執行任務時墜毀，機上兩人遇難。初步資訊顯示，墜機未造成平民傷亡。墜機原因正在調查中。（新華社）"
+    },
+    {
+      "id": "4939289",
+      "time": "2026-06-17 02:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：美方必須停止針對黎巴嫩的軍事行動、嚴格履行協議全部條款】伊朗議會國家安全與外交政策委員會主席易卜拉欣·阿齊茲表示，美方必須停止針對黎巴嫩的軍事行動、嚴格履行協議全部條款，以此證明其恪守美伊諒解備忘錄的誠意。美方若違背協議任何條款，伊朗都將予以堅決、毀滅性的回擊。單方面向伊朗施壓的時代已經落幕。"
+    },
+    {
+      "id": "4939288",
+      "time": "2026-06-17 02:43:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受青海海西州6.3級地震影響 大柴旦轄區多個景區景點臨時關停】青海海西州文體旅遊廣電局17日釋出通告，為保障人民群眾生命財產安全，嚴防地震次生災害引發安全事故，大柴旦轄區全部文旅經營場所及旅遊點位實施臨時關停管控。"
+    },
     {
       "id": "4939287",
       "time": "2026-06-17 02:42:47",
@@ -169523,30 +169565,6 @@
         "國際"
       ],
       "text": "伊朗議員：軍方對美國總統特朗普的威脅保持全面警惕。（MEHR）"
-    },
-    {
-      "id": "mkt:019eadb4-a444-7225-91aa-60a7d3ddd4e8",
-      "time": "2026-06-10 02:45:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US names crew for Artemis III mission】NASA on the 9th named four astronauts for the Artemis III mission — three Americans and one Italian. Artemis III is scheduled for 2027 and will validate key technologies, including spacecraft rendezvous and docking with a commercial human landing system in low Earth orbit (LEO), ahead of the crewed Artemis IV lunar mission planned for 2028."
-    },
-    {
-      "id": "mkt:019eadb4-486d-7225-91aa-58f4952c75af",
-      "time": "2026-06-10 02:45:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. Africa Command says U.S.-Nigerian raids kill about 200 Islamic State-linked fighters in Nigeria】U.S. Africa Command said on June 9 local time that U.S.-Nigerian operations in Nigeria have killed about 200 fighters linked to the Islamic State. The command said the joint operations also dismantled militant checkpoints and destroyed multiple logistics hubs."
-    },
-    {
-      "id": "4926627",
-      "time": "2026-06-10 02:44:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美軍稱在奈及利亞打死約200名“伊斯蘭國”關聯武裝人員】當地時間6月9日， 美軍非洲司令部表示，自在奈及利亞開展行動以來，美尼聯合行動已打死約200名與極端組織“伊斯蘭國”有關聯的武裝人員。美軍非洲司令部公共事務主管表示，雙方聯合行動還拆除了武裝人員設立的檢查站，並摧毀了多個後勤補給樞紐。（央視新聞）"
     }
   ]
 }
