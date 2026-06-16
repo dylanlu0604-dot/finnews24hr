@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-16 14:03:07",
-  "count": 18324,
+  "updated": "2026-06-16 14:07:25",
+  "count": 18318,
   "items": [
+    {
+      "id": "mkt:019ecf09-fb0e-7dd8-b021-c728f944294b",
+      "time": "2026-06-16 14:06:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia governor Bullock said she still regards the labor market as somewhat tight at a 4.5% unemployment rate."
+    },
+    {
+      "id": "mkt:019ecf09-f23f-7dd8-b021-bfca1fcc3513",
+      "time": "2026-06-16 14:06:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "In a Reuters survey of 25 economists, 20 expect the Philippine central bank to raise its benchmark policy rate by 25 bps to 4.75% at its June 18 meeting; five forecast a 50 bps hike."
+    },
+    {
+      "id": "mkt:019ecf09-cc4e-7dd8-b021-b37444204dd1",
+      "time": "2026-06-16 14:06:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Alibaba's QoderWork launches 'Consciousness' feature】Alibaba's desktop AI assistant QoderWork has launched a 'Consciousness' feature combining memory, reflection and skill-evolution modules. In addition to saving conversations, the feature can proactively organize and purge redundant information and convert high-frequency tasks into reusable skills."
+    },
+    {
+      "id": "4937844",
+      "time": "2026-06-16 14:06:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣：在日本央行副行長髮言前，不會對央行決策置評。"
+    },
+    {
+      "id": "4937843",
+      "time": "2026-06-16 14:05:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "路透調查：預估中值顯示，菲律賓央行將在2026年底前將關鍵政策利率上調至5.25%。"
+    },
+    {
+      "id": "4937842",
+      "time": "2026-06-16 14:05:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Salesforce宣佈在義大利投資10億美元，以加速自主式人工智慧轉型與增長。"
+    },
+    {
+      "id": "4937841",
+      "time": "2026-06-16 14:05:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：上半年合約價漲幅皆破100% 2026年下半年結構性缺貨將帶動NOR Flash、SLC NAND價格持續上漲】根據TrendForce集邦諮詢最新儲存器產業研究，由於儲存器大廠的產能規劃持續傾向HBM、高層數3D NAND等高附加價值產品，擠壓NOR Flash、SLC NAND依賴的成熟製程產能，然而因需求穩定，已推動2026上半年NOR Flash、SLC NAND累積合約價漲幅分別突破100%。由於供應商未有大規模擴產計劃，預估下半年兩項產品的價格將隨供需緊張而繼續調升。"
+    },
+    {
+      "id": "4937840",
+      "time": "2026-06-16 14:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里QoderWork上線“意識”功能】據阿里雲訊息，6月16日，阿里桌面AI助理QoderWork上線“意識”功能，整合記憶、反思、技能進化三個模組。該功能在儲存對話的基礎上，可主動整理和淘汰冗餘資訊，並將高頻任務沉澱為可複用的技能。"
+    },
+    {
+      "id": "mkt:019ecf08-725a-7dd8-b021-ac996afdf569",
+      "time": "2026-06-16 14:04:57",
+      "tags": [
+        "MKT News",
+        "NVO.O",
+        "Impact bullish"
+      ],
+      "text": "NOVO NORDISK CEO said the company is producing an oral form of Wegovy in Denmark and the US and will continue to evaluate additional manufacturing locations."
+    },
+    {
+      "id": "4937839",
+      "time": "2026-06-16 14:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甬金股份在浙江成立精密新材料公司】企查查APP顯示，近日，浙江甬金精密新材料有限公司成立，註冊資本2億元，經營範圍包含：電子專用材料製造；新材料技術研發；新材料技術推廣服務；新型金屬功能材料銷售等。企查查股權穿透顯示，該公司由甬金股份全資持股。"
+    },
+    {
+      "id": "4937838",
+      "time": "2026-06-16 14:03:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.02%，德國DAX30指數期貨下跌0.1%，英國富時100指數期貨下跌0.1%。"
+    },
+    {
+      "id": "4937837",
+      "time": "2026-06-16 14:03:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滴滴領投 深樸智慧完成數億元Pre-A輪融資】據深樸智慧訊息，近日，通用具身智慧機器人公司深樸智慧（Simple AI）宣佈完成數億元Pre-A輪融資。本輪融資由滴滴領投，梅花創投、柯力感測跟投，老股東創世夥伴創投、線性資本、普華資本持續加碼。"
+    },
     {
       "id": "mkt:019ecf05-edb6-7dd8-b021-a3c1d5319be1",
       "time": "2026-06-16 14:02:12",
@@ -168368,173 +168469,6 @@
         "其他"
       ],
       "text": "【香港電影人黃百鳴被判入獄5個月】據多家港媒報道，現年80歲的天馬影視（現稱傳遞娛樂）前主席、香港電影人黃百鳴涉及於2017年天馬影視公佈賣盤前慫使胞妹購入公司股票一事，早前被裁定內幕交易罪罪成，6月9日於香港西九龍裁判法院判決。西九龍裁判處裁判官高偉雄宣佈，黃百鳴涉內幕交易罪罪成，裁定黃百鳴監禁5個月，並裁定罰款99720港元，以及涉及香港證監會的調查費用37.4萬港元。高偉雄指出，儘管黃百鳴對香港電影業奉獻一生，且胞妹獲得的實際利益不算大，但其作為天馬影視的股東，其舉動會令公眾對香港證券市場的信心造成影響，黃百鳴因本案聲譽受損及影響身心健康不能成為減刑理由。黃百鳴申請保釋等候上訴獲批。"
-    },
-    {
-      "id": "mkt:019eaafe-1af0-7ee8-a200-971736fd03d0",
-      "time": "2026-06-09 14:07:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "000001.SS",
-        "Impact bullish",
-        "000300.SS"
-      ],
-      "text": "【STAR 50 Index up over 4%】STAR 50 Index rose more than 4% intraday, led by a strong rally in the semiconductor sector. Components: Shanghai Silicon Industry hit a 20% limit-up; Shengyi Electronics, Advanced Micro‑Fabrication Equipment (AMEC) and Montage Technology were among the top gainers."
-    },
-    {
-      "id": "4925307",
-      "time": "2026-06-09 14:07:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達4％，成分股中，滬矽產業漲20.01％，生益電子漲12.12％，天嶽先進漲11.76％，華潤微漲7.22％。"
-    },
-    {
-      "id": "mkt:019eaafd-c4b0-7ee8-a200-8823289eaa7f",
-      "time": "2026-06-09 14:06:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zhongji Xuchuang turnover reached CNY 40 bln; stock up 2.94%."
-    },
-    {
-      "id": "te:markets:557509",
-      "time": "2026-06-09 14:06:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Muted Open — European equity markets were poised to open little changed on Tuesday, snapping a recent slide as traders assessed a fragile ceasefire between Iran and Israel after the two countries agreed to halt attacks against each other. Investors also looked ahead to the European Central Bank’s upcoming policy decision, where policymakers are widely expected to raise interest rates amid mounting inflationary pressures from elevated energy costs. Meanwhile, market participants will monitor Germany’s April trade and industrial production data for fresh signals on the region’s economic outlook. In corporate news, British pharmaceutical company GSK is reportedly in talks to acquire oncology biotech Nuvalent for more than $9 billion, according to the Financial Times. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were flat to slightly lower."
-    },
-    {
-      "id": "4925306",
-      "time": "2026-06-09 14:06:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創成交額達400億元】6月9日下午，中際旭創成交額達400億元，現漲2.94%。"
-    },
-    {
-      "id": "4925305",
-      "time": "2026-06-09 14:05:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：與布魯克菲爾德合作在越南開展能源專案。"
-    },
-    {
-      "id": "4925304",
-      "time": "2026-06-09 14:04:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "迪拜主要股指在早盤交易中上漲1%。阿布扎比指數在早盤交易中上漲1.1%。"
-    },
-    {
-      "id": "4925303",
-      "time": "2026-06-09 14:04:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【知名科技記者爆料：Anthropic明天將釋出“公開版本Mythos”】科技記者Alex Heath發文稱，Anthropic計劃於明天釋出Mythos的公開版本，他們將對Mythos進行更名和小幅調整，並以“Fable 5”的名稱釋出。該版本將設有嚴格的安全防護措施，不會像Project Glasswing合作伙伴所能訪問的版本那樣對網路操作過於寬鬆，同時，其在長週期、多輪任務方面表現將大幅提升。"
-    },
-    {
-      "id": "mkt:8f55eb90-6c42-44f9-a7a2-20844dddae46",
-      "time": "2026-06-09 14:04:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Abu Dhabi index rose 1.1% in early trade."
-    },
-    {
-      "id": "4925302",
-      "time": "2026-06-09 14:04:19",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【中國與共建“一帶一路”國家食品檢驗能力驗證計劃圓滿收官】為深入踐行“一帶一路”倡議，推進食品安全國際協同治理，近日，由市場監管總局（國家認監委）與聯合國工業發展組織（UNIDO）聯合實施的中國與共建“一帶一路”國家食品檢驗能力驗證計劃圓滿收官。該專案是雙方“加強中國食品檢驗檢測機構能力 提升‘一帶一路’貿易互信”合作專案的核心舉措，聚焦鉛、鎘、鉻重金屬及氯黴素等重點檢驗檢測引數，精準回應相關國家食品安全領域的關切。專案自2025年6月啟動以來，嚴格對標國際技術規範，克服跨境協調、國際物流中轉等難題，成功吸引國內外285家實驗室積極參與。其中，國內實驗室252家，境外共有阿爾巴尼亞、衣索比亞、哥倫比亞、辛巴威、肯亞、馬達加斯加、馬拉維、秘魯、莫三比克、日本、斯里蘭卡、坦尚尼亞、亞美尼亞、印度尼西亞、越南等15個國家的33家實驗室參加，參與機構主要為各國官方監管部門及權威檢測機構。專案累計完成329項次指標比對，回收有效資料279份，參與規模與國際代表性均創歷史新高。"
-    },
-    {
-      "id": "mkt:019eaafb-80fe-7eec-b84a-6b11970d1bc1",
-      "time": "2026-06-09 14:04:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Reporter says Anthropic to release public version of Mythos tomorrow】Tech reporter Alex Heath posted that Anthropic plans to release a public version of Mythos tomorrow, renaming and making minor adjustments to ship it as Fable 5. The build will include strict safety protections, will be less permissive for web operations than the version available to Project Glasswing partners, and will substantially improve performance on long‑horizon, multi‑turn tasks."
-    },
-    {
-      "id": "4925301",
-      "time": "2026-06-09 14:04:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.05%，成分股中，民士達漲29.64%，矽烷科技漲12.55%，戈碧迦漲8.80%，則成電子漲7.27%。"
-    },
-    {
-      "id": "4925300",
-      "time": "2026-06-09 14:03:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守93美元/桶，日內跌1.34%。"
-    },
-    {
-      "id": "mkt:019eaafb-3465-7eec-b84a-67b2633ee45a",
-      "time": "2026-06-09 14:03:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Navigation warning — Beibu Gulf military training】China Maritime Safety Administration website says the Beihai Maritime Safety Administration issued a navigation warning: June 10–12, daily 08:00–15:00 (local time), parts of the Beibu Gulf (Gulf of Tonkin) will conduct military training and vessels are prohibited from entering the specified areas."
-    },
-    {
-      "id": "mkt:019eaafb-3320-7eec-b84a-5ca5b4a3320c",
-      "time": "2026-06-09 14:03:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Dubai's main stock index rose 1% in early trade."
-    },
-    {
-      "id": "4925299",
-      "time": "2026-06-09 14:03:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【半導體板塊掀漲停潮】半導體板塊掀漲停潮，大唐電信、晶豐明源、滬矽產業、立昂微、中晶科技、華亞智慧等十餘股封漲停板。相關ETF方面，科創晶片ETF匯添富（588750）漲5.22%，成交額1.99億元，晶片ETF廣發（159801）漲4.66%，成交額1.73億元。"
-    },
-    {
-      "id": "mkt:019eaafb-2339-7eec-b84a-5571c3d19b62",
-      "time": "2026-06-09 14:03:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Germany's seasonally adjusted industrial production rose 0.4% MoM in April, the largest monthly gain since October 2025."
-    },
-    {
-      "id": "4925298",
-      "time": "2026-06-09 14:03:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告 北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，6月10日至12日每天8時至15時，北部灣部分海域進行軍事訓練，禁止船舶駛入。"
     }
   ]
 }
