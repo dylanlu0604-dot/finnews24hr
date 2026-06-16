@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-16 08:03:08",
-  "count": 18203,
+  "updated": "2026-06-16 08:07:09",
+  "count": 18204,
   "items": [
+    {
+      "id": "4937282",
+      "time": "2026-06-16 08:05:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞股市S&P/ASX 200指數早盤下跌0.9%，至8,834.80點。"
+    },
+    {
+      "id": "4937281",
+      "time": "2026-06-16 08:05:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英國將宣佈對俄羅斯實施新的制裁 並向烏克蘭提供能源支援】英國表示將對俄羅斯實施新的制裁，並進一步向烏克蘭提供能源支援；英國首相基爾·斯塔默及其歐洲盟友尋求加大對俄羅斯的壓力，並鼓勵美國總統唐納德·特朗普推動啟動新的和平談判，以結束衝突。唐寧街10號在宣告中表示，英國將“直接打擊俄羅斯用於規避西方制裁的非法影子船隊和金融網路”，並補充說將制裁幾艘液化天然氣(LNG)運輸船。制裁細節將於週二上午公佈。英國加大對俄行動力度之際，英國首相斯塔默本週將在法國出席七國集團(G7)峰會，與其他歐洲領導人會晤。斯塔默計劃在峰會上發起外交攻勢，爭取特朗普的支援。英國、法國和德國認為，戰爭的局勢已經向烏克蘭傾斜，這為重啟談判創造了機會。"
+    },
+    {
+      "id": "te:markets:559140",
+      "time": "2026-06-16 08:03:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Drift Ahead of Fed Meeting — US stock futures drifted flat to slightly lower on Tuesday as investors awaited the Federal Reserve’s first policy meeting under new chair Kevin Warsh, with the central bank widely expected to keep interest rates unchanged. Markets also remained focused on geopolitical developments amid expectations that the US and Iran will sign a peace agreement in Switzerland on Friday, a move that could lead to the reopening of the Strait of Hormuz. In regular trading on Monday, the Dow advanced 0.92%, the S&P 500 climbed 1.65%, and the Nasdaq Composite surged 3.07%. Seven of the 11 S&P sectors ended higher, with technology, communication services, and consumer discretionary stocks leading the gains. Sentiment was boosted after President Donald Trump announced that the US and Iran had reached an agreement to end the war in the Middle East."
+    },
+    {
+      "id": "te:economy:559139",
+      "time": "2026-06-16 08:03:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Total Vehicle Sales",
+        "Importance 1"
+      ],
+      "text": "India Car Sales Jump 25.3% in May — Passenger vehicle sales in India grew 25.3% year-on-year in May 2026, accelerating sharply from a 2.5% rise in the previous month to 379,764 units. It was the highest-ever sales figure for May, according to data from the Society of Indian Automobile Manufacturers (SIAM). The surge in car sales was boosted by a low base effect from May last year and stronger demand driven by reduced Goods and Services Tax rates as well as easier financing. Last month, SIAM stated that the positive momentum seen in the second half of FY 2025–26 continued into the first month of FY 2026–27."
+    },
     {
       "id": "4937280",
       "time": "2026-06-16 08:01:42",
@@ -167262,32 +167303,6 @@
         "市場"
       ],
       "text": "澳大利亞標普/澳證200指數早盤下跌1.5%，報8499.20點。"
-    },
-    {
-      "id": "4924814",
-      "time": "2026-06-09 08:06:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "藥明康德公告：本公司留意到，美國當地時間 2026 年 6 月 8 日，美國國防部在依據第 1260H 條款更新 “中國軍工企業” 名單時，錯誤將藥明康德納入其中。我方認為，此番認定及相關所謂依據明顯失實，藥明康德將即刻採取行動，對此錯誤認定提出異議並予以糾正。藥明康德並不滿足被列為 “中國軍工企業” 的法定標準。理由如下：一、本公司並非由中國任何軍事機構或政府實體所有、控制，也不存在隸屬關係；二、本公司從未向中國軍隊提供任何服務；三、本公司與中國國防工業體系及軍民融合專案均無關聯。因此，將本公司列入第 1260H 條款名單的相關說法，完全與事實相悖。"
-    },
-    {
-      "id": "4924813",
-      "time": "2026-06-09 08:04:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證股價指數（TOPIX）上漲1.1%。"
-    },
-    {
-      "id": "4924812",
-      "time": "2026-06-09 08:04:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓南部強震已致逾百人傷亡 水電中斷影響災民生活】據菲律賓民防部門9日訊息，菲律賓南部8日發生的地震已造成37人遇難，百餘人受傷。目前救援工作仍在進行中，仍有部分人員被埋在廢墟下。同時，水電的中斷給當地災民的生活帶來了影響，而此次經歷也給他們帶來了嚴重的心理創傷。（央視）"
     }
   ]
 }
