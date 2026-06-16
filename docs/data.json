@@ -1,7 +1,187 @@
 {
-  "updated": "2026-06-16 09:41:41",
-  "count": 18204,
+  "updated": "2026-06-16 09:45:36",
+  "count": 18207,
   "items": [
+    {
+      "id": "te:economy:559170",
+      "time": "2026-06-16 09:44:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Steadies Ahead of Fed Meeting — The yield on the 10-year US Treasury note held around 4.47% on Tuesday after easing in the previous session, as investors shifted their focus from the US-Iran peace deal announcement to the Federal Reserve’s upcoming policy meeting. The central bank is widely expected to keep interest rates unchanged at its first meeting under new chair Kevin Warsh. Still, the Fed faces a challenging backdrop, with recent inflation data coming in hotter than expected as the conflict with Iran pushed energy prices higher. Investors also awaited policy decisions from central banks in Japan, Australia, the UK, and other major economies this week. On Monday, Treasury yields declined after President Donald Trump announced that the US had reached a peace agreement with Iran that would restore access through the Strait of Hormuz, allaying inflation and rate hike worries."
+    },
+    {
+      "id": "te:markets:559169",
+      "time": "2026-06-16 09:44:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Gain on Hormuz Reopening — The benchmark KOSPI rose more than 1% to around 8,640 on Tuesday, extending gains for a fourth straight session as easing tensions in the Middle East and lower oil prices supported sentiment. The move came after the US and Iran signed a preliminary agreement aimed at ending their conflict, with the Strait of Hormuz set to reopen later this week and remain toll-free during a 60-day ceasefire period, easing concerns over global energy supplies and shipping disruptions. Oil prices fell sharply on the news, reducing inflation concerns for South Korea, with data showing import prices fell for a second straight month in May amid lower crude oil costs. Semiconductor shares tracked overnight gains on Wall Street, supporting chipmakers. Among individual stocks, SK hynix rose 1.7%, while Hanwha Aerospace gained 7.1%, KB Financial Group added 4.5%,Shinhan Financial Group climbed 2.0%, and Doosan Enerbility advanced 2.8%."
+    },
+    {
+      "id": "mkt:019ece1a-22f4-7dd8-b019-ead41a35e309",
+      "time": "2026-06-16 09:44:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share industrial gas sector rallied in choppy trade; Zhongchuan Teqi rose more than 10% and Heyuan Gas gained over 8%, both hitting record highs. Peers Haohua Technology, Huate Gas, Jinhong Gas and Guanggang Gas also advanced."
+    },
+    {
+      "id": "4937446",
+      "time": "2026-06-16 09:44:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電網裝置板塊異動拉昇 中國西電2連板】早盤電網裝置板塊異動拉昇，中國西電2連板，長城電工漲停，安科瑞、金盤科技、泰永長征、新特電氣、保變電氣跟漲。"
+    },
+    {
+      "id": "4937445",
+      "time": "2026-06-16 09:44:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【夏季達沃斯論壇6月23日至25日召開 超1700人參會】今天（16日），世界經濟論壇第十七屆新領軍者年會，即“夏季達沃斯論壇”會前新聞釋出會將在北京舉行。2026夏季達沃斯論壇定於6月23日至25日在遼寧大連召開，參會嘉賓來自全球90多個國家和地區，總註冊人數突破1700人，規模創下新高。論壇以“規模化創新”為主題，圍繞全球創新發展趨勢、產業轉型升級設定系列議題，匯聚各界智慧，將為推動世界經濟復甦與持續增長注入動能。"
+    },
+    {
+      "id": "4937444",
+      "time": "2026-06-16 09:44:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌4%，現報5820.00元。"
+    },
+    {
+      "id": "mkt:019ece19-ba26-7dd8-b019-e5112f6ff820",
+      "time": "2026-06-16 09:44:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share Guosheng Technology hit its daily limit down, with turnover of 568 million yuan, after the company received a warning letter from the Beijing Securities Regulatory Bureau; the Shanghai Stock Exchange also issued regulatory warnings to the company and related responsible persons."
+    },
+    {
+      "id": "4937443",
+      "time": "2026-06-16 09:43:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內跌4%，現報7060.00元。"
+    },
+    {
+      "id": "mkt:019ece19-6f24-7dd8-b019-def83c9e1b1b",
+      "time": "2026-06-16 09:43:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "600549.SS",
+        "Impact bullish",
+        "600392.SS"
+      ],
+      "text": "China A-share rare-earth permanent magnet sector rallied in early trade. Xiamen Tungsten and Zhongke Sanhuan were locked at the daily limit; Youyan New Materials climbed over 8%; Huicheng Environmental and Shenghe Resources rose over 7%; Benlang New Materials and Zhongxi Rare Metals also advanced."
+    },
+    {
+      "id": "4937442",
+      "time": "2026-06-16 09:43:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光通訊概念再度活躍 太辰光漲超10%續創歷史新高】光通訊概念反覆走強，MPO方向領漲，太辰光、長芯博創漲超10%續創歷史新高，光庫科技、富信科技、蘅東光、智立方漲幅靠前。"
+    },
+    {
+      "id": "4937441",
+      "time": "2026-06-16 09:43:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【部分港股商業航天股走強 藍思科技漲近4%】截至發稿，藍思科技(06613.HK)漲3.87%，鈞達股份(02865.HK)漲3.28%，亞太衛星(01045.HK)漲1.15%。"
+    },
+    {
+      "id": "4937440",
+      "time": "2026-06-16 09:43:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工業氣體概念震盪拉昇 中船特氣漲超10%續創歷史新高】工業氣體概念震盪拉昇，中船特氣漲超10%，和遠氣體漲超8%，均續創歷史新高，中船特氣、昊華科技、華特氣體、金宏氣體、廣鋼氣體跟漲。"
+    },
+    {
+      "id": "4937439",
+      "time": "2026-06-16 09:42:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國晟科技觸及跌停】國晟科技觸及跌停，成交額5.68億元，封單8414手。訊息面上，公司收到北京證監局警示函，同時上交所也對公司及相關責任人予以監管警示。"
+    },
+    {
+      "id": "4937438",
+      "time": "2026-06-16 09:42:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理稱不會從黎巴嫩撤軍】以色列總理內塔尼亞胡在6月15日舉行的新聞釋出會上說，以軍將繼續駐紮在其於黎巴嫩南部、敘利亞和加沙地帶設立的所謂“安全緩衝區”內，直至以色列“國家安全得到保障”。 內塔尼亞胡稱，阻止伊朗擁有核武器是他“畢生的使命”，無論美伊是否達成協議，只要他還是以色列總理，“伊朗就不會擁有核武器”。 他還稱“已將以色列從毀滅中拯救出來”，但“鬥爭還沒有結束，以色列必須繼續保持警戒，繼續保持強大，並在必要時堅定地自衛。”"
+    },
+    {
+      "id": "4937437",
+      "time": "2026-06-16 09:42:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報24589.969點；恒生科技指數現跌1.660%。"
+    },
+    {
+      "id": "4937436",
+      "time": "2026-06-16 09:42:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代成立新能源公司 含儲能技術服務業務】企查查APP顯示，近日，宜陽縣潤永新能源有限公司成立，經營範圍包含：工程和技術研究和試驗發展；儲能技術服務；電氣安裝服務等。企查查股權穿透顯示，該公司由寧德時代間接全資持股。"
+    },
+    {
+      "id": "4937435",
+      "time": "2026-06-16 09:42:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4937434",
+      "time": "2026-06-16 09:42:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "有色板塊再度拉昇，盛龍股份4連板，廈門鎢業2連板，中鎢高新、盛和資源、翔鷺鎢業、東方鉭業漲超5%。"
+    },
+    {
+      "id": "4937433",
+      "time": "2026-06-16 09:41:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗國足獲准世界盃比賽時在美國過夜】伊朗足協15日向德新社證實，伊朗國足參加2026美加墨世界盃期間可以在美國過夜。觀察人士說，美伊達成諒解備忘錄或許起到了推動作用。依據此前訊息，伊朗隊僅可在比賽日前往美國，賽後需立即返回位於墨西哥蒂華納的駐地。此次伊朗足協證實，伊朗國足可以在適當情況下在美國過夜。"
+    },
     {
       "id": "mkt:019ece16-91ba-7dd8-b019-d21dbf44af04",
       "time": "2026-06-16 09:40:45",
@@ -167160,162 +167340,6 @@
         "其他"
       ],
       "text": "Oatly中國業務管理層據悉正在考慮收購該業務。"
-    },
-    {
-      "id": "mkt:019eaa0e-4cea-7997-8099-1e699ee257a2",
-      "time": "2026-06-09 09:45:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Tencent",
-        "00700.HK",
-        "Impact bullish",
-        "09888.HK",
-        "09999.HK"
-      ],
-      "text": "Hong Kong internet and tech stocks rose, with Tencent Holdings (00700.HK) up over 3%; JD Health (06618.HK), Baidu (09888.HK), Tencent Music (01698.HK) and NetEase-S (09999.HK) also advanced."
-    },
-    {
-      "id": "4924967",
-      "time": "2026-06-09 09:45:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊加速下探，長源電力跌停】電力板塊加速下探，長源電力跌停，豫能控股、京能電力、立新能源跌幅居前。"
-    },
-    {
-      "id": "4924966",
-      "time": "2026-06-09 09:45:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "騰訊港股漲幅超3%。"
-    },
-    {
-      "id": "4924965",
-      "time": "2026-06-09 09:44:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經225指數震盪回升，漲幅重新擴大至1%。"
-    },
-    {
-      "id": "te:markets:557425",
-      "time": "2026-06-09 09:44:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Rebound on AI Optimism — The benchmark KOSPI rose more than 3% to around 7,720 on Tuesday, recovering part of the previous session's selloff, as technology stocks rebounded and investors remained optimistic about the long-term outlook for artificial intelligence. Nvidia CEO Jensen Huang called the recent semiconductor selloff a buying opportunity, while Nvidia deepened partnerships with major South Korean firms and SK hynix moved to expand HBM4 production capacity. Samsung Electronics (2.5%) and SK Hynix (5.9%) led the advance, alongside SK Square (4.2%), Kia Corporation (7.9%), and Doosan Enerbility (3.9%). Additional support came from improved risk sentiment after Israel and Iran agreed to a ceasefire. South Korea's first-quarter GDP growth was also revised higher to 1.8%, supported by robust semiconductor exports and solid investment. However, gains were limited by expectations that strong growth and inflation pressures could keep interest rates higher for longer."
-    },
-    {
-      "id": "4924964",
-      "time": "2026-06-09 09:44:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【物產環能等成立聚能供應鏈公司】企查查APP顯示，近日，浙物聚能供應鏈（浙江）有限公司成立，註冊資本1億元，經營範圍包含：軟體開發；大資料服務；儲能技術服務；貨物進出口等。企查查股權穿透顯示，該公司由物產環能等共同持股。"
-    },
-    {
-      "id": "4924963",
-      "time": "2026-06-09 09:44:12",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【博睿康完成IPO輔導】證監會官網IPO輔導公示系統顯示，腦機介面企業博睿康技術（上海）股份有限公司IPO輔導狀態變更為“輔導工作完成”，輔導機構為中信證券。"
-    },
-    {
-      "id": "mkt:019eaa0c-e241-7997-8099-12c7eb4ea1cd",
-      "time": "2026-06-09 09:43:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Three Gorges Reservoir completes annual drawdown ahead of schedule】Water level at the Three Gorges Reservoir has fallen to 147.78 m, completing the scheduled drawdown ahead of plan. The current drawdown began in late October 2025, lowering levels by about 27 m and releasing roughly 20.8 bln cubic metres of flood-control storage."
-    },
-    {
-      "id": "mkt:019eaa0c-baea-7997-8099-0f89813e893f",
-      "time": "2026-06-09 09:43:41",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "China A-share property sector extended losses: Nanshan Holdings and Huali Family traded near limit-down; Rongan Real Estate fell over 9%; Rongfeng Holdings, Joy City and Everbright Jiabao also slid."
-    },
-    {
-      "id": "4924962",
-      "time": "2026-06-09 09:43:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三峽水庫提前完成年度消落任務】從水利部長江水利委員會瞭解到，近日，三峽水庫水位消落至147.78米，提前完成消落任務。三峽水庫本輪消落自2025年10月下旬開始，共消落水位約27米，騰出防洪庫容約208億立方米。"
-    },
-    {
-      "id": "mkt:019eaa0c-85b5-7997-8099-038f1d3f19b4",
-      "time": "2026-06-09 09:43:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "00568.HK",
-        "Impact bearish",
-        "01555.HK",
-        "00857.HK"
-      ],
-      "text": "Hong Kong-listed oil & gas shares tumbled: Shandong Molong (00568.HK) fell over 15%, MI Energy (01555.HK) declined about 6%; PetroChina (00857.HK), Shanghai Petrochemical (00338.HK), CNOOC (00883.HK) and Sinopec Corp (00386.HK) also slipped."
-    },
-    {
-      "id": "te:economy:557423",
-      "time": "2026-06-09 09:42:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Business Confidence",
-        "Importance 2"
-      ],
-      "text": "Australia Business Sentiment Improves — Australia’s NAB Business Confidence Index rose to -14 in May from -24 in the prior month, marking its highest print since February and signaling modest improvement from very weak levels. Confidence, however, remained firmly negative, underscoring concerns over the economic outlook. Business conditions held at 3, halting a four-month slide as activity stabilized despite softer demand. Profitability stayed the weakest component relative to long-run norms, reflecting margin strain from elevated costs. Cost growth eased but remained historically high, while capacity utilisation slipped below 82% for the first time since early 2025, pointing to softer momentum. NAB economist Michael Hayes noted sentiment was negative across industries amid global uncertainty, a weakening domestic backdrop, and persistent cost pressures. Firms also face high borrowing costs after the central bank lifted rates to 4.35% to curb sticky inflation and prevent rising energy costs from feeding into consumer prices."
-    },
-    {
-      "id": "4924961",
-      "time": "2026-06-09 09:42:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【房地產板塊持續走低，南山控股、華麗家族逼近跌停】房地產板塊持續走低，南山控股、華麗家族逼近跌停，榮安地產跌超9%，榮豐控股、大悅城、光大嘉寶紛紛下挫。"
-    },
-    {
-      "id": "4924960",
-      "time": "2026-06-09 09:42:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【徐工集團等成立新能源公司，含AI業務】企查查APP顯示，近日，徐州徐工力高新能源有限公司成立，註冊資本5000萬元，經營範圍包含：智慧控制系統整合；汽車零部件研發；新能源汽車電附件銷售；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由徐州工程機械集團有限公司全資子公司徐工集團產業投資發展（徐州）有限公司等共同持股。"
-    },
-    {
-      "id": "4924959",
-      "time": "2026-06-09 09:42:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【番茄小說啟動院線電影徵集計劃】番茄小說日前正式官宣院線電影徵集計劃，面向影視、動畫創作團隊、片方及個人創作者開放長期徵集通道。本次徵集計劃設定真人、動畫雙獨立賽道，面向各類專業影視機構、動畫團隊及個人創作者。徵集的參賽作品，均要求基於番茄小說自有原創IP改編。在創作定位上，真人賽道重點徵集現實向、情感向、喜劇向、輕懸疑、青春向、奇幻向等適配大眾審美的題材內容；動畫賽道聚焦高創意、高視覺性、高延展性，覆蓋都市腦洞、玄幻仙俠、科幻末世、懸疑、國風傳統文化等題材。截至2025年底，番茄小說平臺上擁有70萬簽約作者，超100萬部簽約作品。（國是直通車）"
-    },
-    {
-      "id": "4924958",
-      "time": "2026-06-09 09:42:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量1150億元。"
     }
   ]
 }
