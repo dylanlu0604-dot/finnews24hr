@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-17 00:50:47",
-  "count": 18385,
+  "updated": "2026-06-17 00:54:56",
+  "count": 18391,
   "items": [
+    {
+      "id": "4939217",
+      "time": "2026-06-17 00:54:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Snap股價上漲2.2%，此前該公司推出售價2195美元的增強現實眼鏡Specs。"
+    },
+    {
+      "id": "mkt:019ed15a-b44f-7dd8-b037-9343c2c0a0e5",
+      "time": "2026-06-17 00:54:02",
+      "tags": [
+        "MKT News",
+        "RIVN.O"
+      ],
+      "text": "Rivian (RIVN.O) will cut under 2% of its workforce, a company spokesperson said."
+    },
+    {
+      "id": "4939216",
+      "time": "2026-06-17 00:53:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使邁克·哈克比表示，國務卿魯比奧已明確真主黨不在美伊協議相關範疇內，以色列無需獲得德黑蘭許可即可開展自衛行動。"
+    },
+    {
+      "id": "4939215",
+      "time": "2026-06-17 00:53:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "Rivian發言人：公司將裁員約2%。"
+    },
+    {
+      "id": "mkt:019ed158-9f22-7dd8-b037-8b500aff4719",
+      "time": "2026-06-17 00:51:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Saudi foreign minister said Saudi Arabia welcomes the US-Iran agreement and hopes it will help restore stability."
+    },
+    {
+      "id": "te:markets:559425",
+      "time": "2026-06-17 00:51:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Futures at 1-Month High — Cocoa futures traded above $4,200 per tonne, the highest since mid-May, amid increasing concerns about El Niño’s impact on upcoming harvest. Dealers said the market has been supported by indications that the 2026/27 main crops in the key producing region of West Africa may be significantly below this season. partly due to weather-related risks. StoneX recently reduced its forecast for the global cocoa surplus in the 2026/27 season to 149,000 tons, compared to the 267,000 tons projected in January. The revision was largely due to growing concerns about the potential impact of El Niño on cocoa production in West Africa. At the same time, it reduced its surplus estimate for 2025/26 from the previously projected 287,000 tons to 247,000 tons. A similar trend was seen in ICCO’s projections, which at the end of May revised its 2024/25 surplus estimate down from 75,000 tons to 48,000 tons."
+    },
+    {
+      "id": "mkt:019ed158-3e03-7dd8-b037-849bb1244972",
+      "time": "2026-06-17 00:51:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Oman, Iran foreign ministers discuss Strait of Hormuz shipping security】On June 16, Omani and Iranian foreign ministers held a phone call and reiterated both countries’ commitment to international law on maritime security and freedom of navigation in the Strait of Hormuz. They called for continued practical diplomatic efforts to foster a constructive diplomatic environment, said they will work to maintain regional security and stability, and agreed to deepen bilateral cooperation across sectors on a good‑neighborly basis."
+    },
+    {
+      "id": "4939214",
+      "time": "2026-06-17 00:51:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨日內漲超3%，現報3.242美元/百萬英熱。"
+    },
+    {
+      "id": "4939213",
+      "time": "2026-06-17 00:51:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿曼與伊朗外長討論霍爾木茲海峽航運安全等問題】當地時間16日，阿曼外交大臣巴德爾與伊朗外長阿拉格齊通電話。雙方重申，兩國將遵守有關霍爾木茲海峽海上航運安全與自由通行的國際法規定。雙方表示，希望各方繼續開展積極、務實的努力，為推進富有成效和建設性外交程序營造有利環境，共同維護地區安全與穩定。此外，雙方強調，將在睦鄰友好原則基礎上，持續深化兩國各領域合作。（央視新聞）"
+    },
     {
       "id": "4939212",
       "time": "2026-06-17 00:50:01",
@@ -169157,35 +169240,6 @@
         "國際"
       ],
       "text": "【特朗普稱伊朗擊落一架美軍阿帕奇直升機】美國總統特朗普9日在社交媒體上稱，伊朗在霍爾木茲海峽擊落一架美軍阿帕奇直升機，機上兩名飛行員安然無恙，但美國必須對此次襲擊作出回應。 (新華社)"
-    },
-    {
-      "id": "mkt:019ead4d-b98f-7992-a4a7-24e814f7893f",
-      "time": "2026-06-10 00:53:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Microsoft (MSFT.O) fell 3%, pushing its market capitalization below $3 trillion."
-    },
-    {
-      "id": "4926588",
-      "time": "2026-06-10 00:52:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收平，報13615美元/噸。LME期鋁收跌56美元，報3548美元/噸。LME期鋅收漲18美元，報3556美元/噸。LME期鉛收跌6美元，報1984美元/噸。LME期鎳收跌277美元，報18064美元/噸。LME期錫收漲223美元，報52502美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:019ead4b-b1bf-7992-a4a7-19fab3e55f78",
-      "time": "2026-06-10 00:51:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【EIA says OECD oil stocks could fall to lowest since 2003】The U.S. Energy Information Administration said on Tuesday that a conflict involving Iran has cut Middle East crude output by more than 11 mln bpd, and major consuming countries are drawing inventories at an unprecedented pace to plug the supply gap. Under EIA's current assumptions — including that maritime traffic through the Strait of Hormuz is unlikely to return to pre-conflict levels before early 2027 — OECD total oil stocks are projected to fall to just under 2.3 bln barrels by December."
     }
   ]
 }
