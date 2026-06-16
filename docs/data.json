@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-16 08:27:06",
-  "count": 18196,
+  "updated": "2026-06-16 08:31:08",
+  "count": 18191,
   "items": [
+    {
+      "id": "4937313",
+      "time": "2026-06-16 08:30:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "受有關光通訊半導體材料產量增加的報道影響，JX金屬在東京股價大漲17%。"
+    },
+    {
+      "id": "4937312",
+      "time": "2026-06-16 08:30:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河證券：AI算力建設需求爆發推動儲存長週期漲價 HBM投片比重將持續提升】銀河證券釋出電子行業2026年中期策略稱，AI算力建設需求爆發推動儲存長週期漲價，HBM投片比重將持續提升。隨著NVIDIA新一代Rubin Ultra平臺即將推出，單顆GPU配置HBM容量將進一步提升至384GB，加上AI ASIC出貨量持續增加，將帶動HBM需求再度躍升。TrendForce預估，HBM投片量佔整體DRAM投片比重將由2025年的18％提升至2027年約30％；HBM位元供給佔比也將由8％提高至約13％。此外，隨著端側AI技術的爆發式增長，3D堆疊DRAM方案正成為突破傳統儲存瓶頸的關鍵技術路徑。"
+    },
+    {
+      "id": "4937311",
+      "time": "2026-06-16 08:27:39",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：預期 “新能源非電消納”及“算電協同”市場潛力有望逐漸兌現】中信建投研報指出，2026年以來，電力指數表現處於各行業較好水平。截至2026年6月9日，Wind電力板塊今年以來上漲12.5%；同期滬深300指數上漲3.7%，電力板塊累計跑贏大盤8.8個百分點。伴隨“雙碳”考核的頂層設計逐步完善，地方政府的碳排放管控有望持續收緊。在此基礎上，綠色燃料及綠色原料的需求有望持續增長，綠色電力的非電利用市場將加速拓展。火電方面，目前在可再生能源出力政策的情況下，動力煤價格大幅上漲可能較小，火電燃料成本漲幅可控。同時，火電26年年度長協電價同比下降，後續月度交易存在漲價空間。新能源方面，在新能源消納壓力增長且裝機規模有望持續增長的大背景下，預期 “新能源非電消納”及“算電協同”市場潛力有望逐漸兌現。"
+    },
+    {
+      "id": "4937310",
+      "time": "2026-06-16 08:27:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【揚傑科技：擬變更部分募集資金投資專案】揚傑科技(300373)早間公告，鑑於公司越南工廠一期已滿產，海外研發中心、渠道均已佈局到位，為切實提高募集資金使用效率，公司擬將2023年發行的全球存託憑證募集資金投資專案“發展功率元件業務，包括建設小訊號產品、矽基及碳化矽SBD、MOSFET等產品的封裝”專案、“海外研發中心和全球銷售及售後服務網點建設”專案結項，剩餘的募集資金用於公司正在實施的投資專案“車規級功率半導體模組封裝專案”和“AI基礎設施用功率器件生產線技術改造專案”。變更用途的募集資金截至2026年5月31日共計1.25億美元（含利息和現金管理收益）。"
+    },
+    {
+      "id": "4937309",
+      "time": "2026-06-16 08:27:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國泰海通：Anthropic上線新模型 有望推動主權AI佈局發展】國泰海通釋出研報稱，Anthropic釋出Claude Fable 5，其效能在軟體工程、知識工作、視覺和科學研究等幾乎所有基準測試中全面超越此前所有公開發布模型，是迄今為止人類最強AI模型；同時推出面向安全防禦的前沿模型Mythos 5與防蒸餾安全限制，提供6月10日至22日免費體驗視窗，定價每百萬輸入token 10美元、輸出50美元；隨後受美國出口管制及安全相關要求影響，兩款模型全球下線，該事件直接阻礙海外先進模型的海外使用，短期促使需求迴流國內大模型，中長期也將進一步帶動本土算力、自研模型及AI私有化、主權模型建設的需求增長。"
+    },
     {
       "id": "4937308",
       "time": "2026-06-16 08:26:34",
@@ -167124,104 +167165,6 @@
         "MKT News"
       ],
       "text": "Japan's finance minister Katayama said a balance can be struck between fiscal sustainability and measures to support the economy."
-    },
-    {
-      "id": "mkt:019ea9ca-2989-733a-9237-e2a7537007ba",
-      "time": "2026-06-09 08:30:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Exchange activated a temporary buy-side suspension mechanism on the KOSDAQ; program trading halted for five minutes."
-    },
-    {
-      "id": "mkt:019ea9c9-c30b-733a-9237-d9bee7e60e8a",
-      "time": "2026-06-09 08:30:24",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia June Westpac/Melbourne consumer confidence index 80.6, previous 83.0."
-    },
-    {
-      "id": "mkt:019ea9c9-8af9-733a-9237-d3262e271094",
-      "time": "2026-06-09 08:30:17",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (Jun) | actual 80.6 | previous 83"
-    },
-    {
-      "id": "mkt:019ea9c9-6d44-733a-9237-cd0114a4532a",
-      "time": "2026-06-09 08:30:06",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish"
-      ],
-      "text": "Australia Westpac–Melbourne Institute consumer confidence (MoM) -2.9% in June; prior +3.5%."
-    },
-    {
-      "id": "mkt:019ea9c9-4431-733a-9237-c2afd04214b2",
-      "time": "2026-06-09 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Jun) | actual -2.9% | previous 3.50%"
-    },
-    {
-      "id": "te:markets:557399",
-      "time": "2026-06-09 08:29:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Edge Lower After Tech-Led Rebound — US stock futures eased on Tuesday after the S&P 500 and Nasdaq Composite opened the week higher, supported by a rebound in technology shares. In regular trading on Monday, the S&P 500 and Nasdaq Composite gained 0.3% and 0.86%, respectively, recovering part of the previous session’s losses, while the Dow slipped 0.16%. Technology, energy, and consumer discretionary stocks led the advance, whereas utilities, real estate, and materials underperformed. Chipmakers drove much of the rally, with shares of Micron Technology (+9.9%), Nvidia (+1.7%), Marvell Technology (+9.6%), Intel (+11.2%), and Advanced Micro Devices (+5.1%) posting solid gains. Investors are now awaiting earnings reports from Casey’s General Stores, J.M. Smucker, and Designer Brands, among others, due Tuesday. Later this week, the latest US CPI and PPI data will offer further insight into the Federal Reserve’s interest rate outlook."
-    },
-    {
-      "id": "4924844",
-      "time": "2026-06-09 08:29:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動科斯達克（KOSDAQ）買入側車機制，程式交易暫停5分鐘。"
-    },
-    {
-      "id": "4924843",
-      "time": "2026-06-09 08:28:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電子布價格持續飆高 8家上市公司佈局電子布業務】據央視財經報道，今年以來，算力需求爆發，帶動電子布價格大幅上漲。截至6月初，市場上常用規格的電子布已經完成年內5輪提價，均價達7.4元/米，與去年三季度的低點相比，漲幅達到100%。由於電子布對生產裝置和工藝控制要求很高，客觀上制約了產能的擴張節奏。據證券時報·資料寶統計，A股市場約有8家上市公司佈局電子布相關業務。二季度以來（截至6月5日），融資資金加倉多隻電子布概念股，中國巨石、菲利華、中材科技、國際復材融資淨買入額依次為19.45億元、7.03億元、5.15億元、3.98億元。"
-    },
-    {
-      "id": "mkt:019ea9c7-5198-733a-9237-bf6503cff271",
-      "time": "2026-06-09 08:27:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Euro Stoxx 50 futures fell 0.6%, DAX futures fell 0.5% and FTSE 100 futures fell 0.3%."
-    },
-    {
-      "id": "4924842",
-      "time": "2026-06-09 08:27:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河證券：利空落地 佈局REIT修復視窗】銀河證券指出，5月末4只商業不動產REITs集中認購進入尾聲，機構打新的資金騰挪行為基本落地，前期壓制價格的短期利空充分反映在估值中，市場拋壓收斂後估值修復機會直接驅動二級市場觸底反彈。截至6月4日，中證REITs全收益指數連續五個交易日震盪上行，較5月28日回升達到1.9%，募資落地帶來的資金衝擊基本兌現，短期基本面邊際改善支撐修復行情。同時，4只產品距離正式上市仍有2周左右間隔，上市前暫無新增集中募資擠佔流動性，市場或迎來階段性估值修復視窗期。而後續持續的修復向好行情仍要看長線增量資金入市配套政策落地的情況，一是關注險資入市增持商業不動產REITs時點、二是5月中旬申報的REITs指數基金獲批落地時點，7月前後或可期待。"
     }
   ]
 }
