@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-16 09:49:34",
-  "count": 18209,
+  "updated": "2026-06-16 09:53:28",
+  "count": 18214,
   "items": [
+    {
+      "id": "4937460",
+      "time": "2026-06-16 09:52:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債<JP10YTN=JBTC>收益率上升3.5個基點，報2.610%。"
+    },
+    {
+      "id": "4937459",
+      "time": "2026-06-16 09:52:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【稀土永磁概念持續走強 盛和資源等多股漲停】稀土永磁概念持續走強，盛和資源、中科三環、廈門鎢業漲停，華宏科技、中稀有色、中國稀土、北方稀土漲幅靠前。"
+    },
+    {
+      "id": "4937458",
+      "time": "2026-06-16 09:52:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指站上4100點，日內漲1.66%。"
+    },
+    {
+      "id": "mkt:019ece20-f7d2-7dd8-b01a-27866c5570a9",
+      "time": "2026-06-16 09:52:07",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "A-share ChiNext Index rose above 4,100, gaining 1.66% intraday."
+    },
+    {
+      "id": "4937457",
+      "time": "2026-06-16 09:51:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度提高柴油和航空燃油出口關稅。"
+    },
+    {
+      "id": "mkt:019ece20-8f6a-7dd8-b01a-1c489dec4038",
+      "time": "2026-06-16 09:51:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "06613.HK",
+        "Impact bullish",
+        "06869.HK",
+        "02382.HK"
+      ],
+      "text": "Hong Kong optical communications sector extended yesterday’s gains: Lens Technology (06613.HK) rose nearly 7%; Junzhi Group (01300.HK) and Huiju Technology (01729.HK) each climbed over 4%; Yangtze Optical Fibre and Cable (06869.HK) gained more than 3%; Sunny Optical Technology (02382.HK) and peers also advanced."
+    },
+    {
+      "id": "mkt:019ece20-5074-7dd8-b01a-1380cdb18ac3",
+      "time": "2026-06-16 09:51:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 30-year government bond yield rose 1.5 bps to 3.760%."
+    },
+    {
+      "id": "4937456",
+      "time": "2026-06-16 09:50:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小牛自動化啟動IPO輔導】證監會網站披露，寧夏小牛自動化裝置股份有限公司（簡稱“小牛自動化”）於2026年6月15日在寧夏證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國信證券。股東方面，王小牛為公司控股股東、實際控制人。截至2026年6月12日，王小牛直接持有公司30.50%股權，透過上海小牛韶光企業管理有限公司、上海小牛琚偉企業管理有限公司間接控制公司19.99%股權；此外，王小牛與股東王方白、股東王一勤構成一致行動關係，且王一勤將其直接持有的全部公司股份以及公司直接、間接股東股權對應的表決權等權利委託王小牛代為行使；因此，王小牛合計控制公司58.11%表決權（含表決權委託），王小牛與其一致行動人合計控制公司65.74%表決權。"
+    },
+    {
+      "id": "mkt:019ece1f-15dc-7dd8-b01a-0d4fd525e57f",
+      "time": "2026-06-16 09:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China's May industrial output (enterprises above designated size, YoY) and May retail sales (YoY) due in 10 minutes."
+    },
+    {
+      "id": "4937455",
+      "time": "2026-06-16 09:49:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻纖概念震盪走強 山東玻纖6天3板創歷史新高】早盤玻纖概念震盪走強，山東玻纖6天3板，國際復材漲超10%，創歷史新高，中材科技、宏和科技、中國巨石、長海股份跟漲。"
+    },
+    {
+      "id": "mkt:019ece1e-cfb9-7dd8-b01a-0419b54779a7",
+      "time": "2026-06-16 09:49:46",
+      "tags": [
+        "MKT News",
+        "02865.HK",
+        "Impact bullish",
+        "06613.HK",
+        "01725.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong commercial-space stocks diverged: Junda (02865.HK) up nearly 8%, Lens Technology (06613.HK) up over 6.5%, Asia Pacific Satellite (01045.HK) up nearly 3%; China Technology Group (01725.HK) down more than 3%, 02357.HK and 07688.HK each down over 1.3%."
+    },
     {
       "id": "4937454",
       "time": "2026-06-16 09:49:00",
@@ -167303,58 +167416,6 @@
         "SSE Composite"
       ],
       "text": "China A-share robotics theme reactivated after the Ministry of Industry and Information Technology (MIIT) and the State-owned Assets Supervision and Administration Commission (SASAC) launched a 2026 special initiative on humanoid robots and embodied-intelligence real-scene training. Estun posted a second consecutive daily limit-up; Jintuo hit the limit; Jingye Intelligent rallied over 12%; Haon Auto Electric, Zhongke Sanhuan, Qinchuan Machine Tool and Zhenghe Industrial also advanced."
-    },
-    {
-      "id": "4924977",
-      "time": "2026-06-09 09:53:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【源傑科技股價創歷史新高】源傑科技盤中股價創歷史新高，現漲3.13%，報1433.43元，總市值為1782.26億元。"
-    },
-    {
-      "id": "4924976",
-      "time": "2026-06-09 09:51:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【儲存晶片概念表現活躍 金太陽漲超12%】儲存晶片概念表現活躍，金太陽漲超12%，德明利、江波龍、大為股份、神工股份、普冉股份跟漲。"
-    },
-    {
-      "id": "4924975",
-      "time": "2026-06-09 09:50:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊持續走強，傑華特觸及漲停】半導體板塊持續走強，傑華特觸及漲停，晶豐明源、富創精密、宏微科技、星宸科技、滬矽產業、東芯股份等跟漲。"
-    },
-    {
-      "id": "mkt:019eaa13-239d-7997-8099-388e0141a5be",
-      "time": "2026-06-09 09:50:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shenghong Technology's A- and H-shares both rose more than 7% after the company said it plans to introduce an employee shareholding plan capped at 700 mln yuan."
-    },
-    {
-      "id": "4924974",
-      "time": "2026-06-09 09:50:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元漲幅擴大至0.7%，跑贏新興市場亞洲貨幣。"
-    },
-    {
-      "id": "4924973",
-      "time": "2026-06-09 09:49:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒生科技指數轉漲；最新報4766.61點，上漲0.2%。"
     }
   ]
 }
