@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-17 04:12:50",
-  "count": 18415,
+  "updated": "2026-06-17 04:16:33",
+  "count": 18417,
   "items": [
+    {
+      "id": "te:markets:559439",
+      "time": "2026-06-17 04:15:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stock Market Closes Mixed — US equities closed mixed on Tuesday amid a pullback in AI-related stocks. The S&P 500 lost 0.6%, while weakness in technology shares drove the Nasdaq down 1.9%. Investors took profits in semiconductor names after their recent rally, with Nvidia (-2%), Broadcom (-4.2%), Micron (-5.6%), AMD (-6.8%), and Intel (-7.9%) all posting losses. In contrast, SpaceX gained 4.8%, extending its advance since Friday's IPO, after reports that it would acquire Cursor for $60 billion. Meanwhile, the Dow Jones rose 0.6%, supported by optimism surrounding the preliminary US-Iran agreement. Both countries are expected to sign the deal on Friday, with US officials stating that the Strait of Hormuz will reopen. Bond yields continued to ease as lower oil prices softened inflation concerns ahead of the Fed's expected rate hold on Wednesday, although Chairman Warsh is still expected to advocate changes to the monetary framework and a smaller balance sheet. JPMorgan rose 3.7%, while Visa gained 2.8%."
+    },
+    {
+      "id": "mkt:019ed210-bfda-7dd8-b039-e50e3d7e91c4",
+      "time": "2026-06-17 04:12:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices tumble on 16th close】As of the close on the 16th, NYMEX light sweet crude (July delivery) fell $4.70 to $76.05/bl, down 5.82%; ICE Brent (August delivery) fell $4.21 to $78.96/bl, down 5.06%."
+    },
+    {
+      "id": "4939325",
+      "time": "2026-06-17 04:12:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價16日大幅下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌4.70美元，收於每桶76.05美元，跌幅為5.82%；8月交貨的倫敦布倫特原油期貨價格下跌4.21美元，收於每桶78.96美元，跌幅為5.06%。"
+    },
     {
       "id": "4939324",
       "time": "2026-06-17 04:07:25",
@@ -169392,14 +169425,6 @@
         "國際"
       ],
       "text": "特朗普淡化直升機遇襲事件，稱這“算不上什麼大事”。"
-    },
-    {
-      "id": "4926674",
-      "time": "2026-06-10 04:12:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克資料顯示，5月下旬空頭頭寸較5月中旬增加1.5%。"
     }
   ]
 }
