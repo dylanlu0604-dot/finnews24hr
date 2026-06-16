@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-17 01:27:24",
-  "count": 18397,
+  "updated": "2026-06-17 01:31:33",
+  "count": 18399,
   "items": [
+    {
+      "id": "mkt:019ed17a-a5ef-7dd8-b038-3bc17d08fe95",
+      "time": "2026-06-17 01:28:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Financial Times reports U.S. Commerce Secretary Lutnick discussed establishing a \"trusted partners\" program with European diplomats."
+    },
+    {
+      "id": "4939240",
+      "time": "2026-06-17 01:27:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長霍華德·盧特尼克曾與歐洲外交官討論建立“可信夥伴”計劃。"
+    },
     {
       "id": "mkt:019ed178-6f27-7dd8-b038-3204fb27cf4b",
       "time": "2026-06-17 01:26:31",
