@@ -1,7 +1,139 @@
 {
-  "updated": "2026-06-16 09:21:27",
-  "count": 18200,
+  "updated": "2026-06-16 09:25:31",
+  "count": 18201,
   "items": [
+    {
+      "id": "mkt:019ece06-cebf-7dd8-b018-eb736c76183f",
+      "time": "2026-06-16 09:23:33",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "U.S. Vice President Vance said a new Iran agreement would succeed where the previous deal failed, as regional allies support the framework."
+    },
+    {
+      "id": "mkt:019ece06-6641-7dd8-b018-e0f98a996dba",
+      "time": "2026-06-16 09:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said Gulf Arab states opposed Obama’s earlier agreement."
+    },
+    {
+      "id": "mkt:019ece06-3af1-7dd8-b018-deaadc91a766",
+      "time": "2026-06-16 09:22:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【7th Qingdao Summit of Multinational Company Leaders opens; 105 Fortune Global 500 firms attend】The 7th Qingdao Summit of Multinational Company Leaders opened at Qingdao International Convention Center on June 15, attracting 357 multinationals from 44 countries and regions, including 105 Fortune Global 500 companies and 252 industry leaders. Organizers will run more than 20 events — opening ceremony and main forum, bilateral meetings and parallel forums — and will publish a Multinational Companies in China research report. The summit promotes China’s ‘15th Five-Year’ opening policies, market opportunities and innovation space, and seeks deeper integration of multinationals into China’s industrial, supply and innovation chains; modern services firms made up a record 20% of participants."
+    },
+    {
+      "id": "4937400",
+      "time": "2026-06-16 09:22:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【第七屆跨國公司領導人青島峰會開幕 105家世界500強參會】6月15日，第七屆跨國公司領導人青島峰會在青島國際會議中心舉行。本屆峰會圍繞“跨國公司與中國——攜手‘十五五’向新向未來”主題，設定開幕式及主論壇、會見會談、平行論壇等3大板塊共20多場活動，還將繼續釋出《跨國公司在中國》研究報告，全面宣介中國“十五五”開放政策、市場機遇與創新空間，推動跨國公司深度融入中國產業鏈供應鏈創新鏈，共享中國大市場紅利、共享創新發展成果、共享制度型開放紅利。在延續前六屆優質嘉賓資源、保持峰會高規格的基礎上，本屆峰會緊扣“十五五”時期跨國公司對華合作新趨勢，持續拓展峰會“朋友圈”，吸引了來自44個國家和地區的357家跨國公司參會，其中世界500強企業105家，行業領軍企業252家，參會的現代服務業企業佔比達20%，創歷史新高。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ece05-d5d3-7dd8-b018-d188ee3b6a84",
+      "time": "2026-06-16 09:22:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said if Iran does not fulfill its commitments, the U.S. will revert to previous options."
+    },
+    {
+      "id": "mkt:019ece05-7feb-7dd8-b018-cebdae6d824e",
+      "time": "2026-06-16 09:22:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Hang Seng Tech",
+        "HSCEI"
+      ],
+      "text": "Hong Kong's HSI opened down 16.48 points (-0.07%) at 24,826.19 on Tuesday, June 16. The Hang Seng Tech index opened down 0.09 points (-0.0%) at 4,765.49. The HSCEI opened down 3.07 points (-0.04%) at 8,372.67. The Red Chip index opened down 9.76 points (-0.23%) at 4,311.17."
+    },
+    {
+      "id": "mkt:019ece05-7306-7dd8-b018-c5a76176fb69",
+      "time": "2026-06-16 09:22:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY296.5 billion injection via seven-day reverse repos】The PBOC conducted CNY449.5 billion of seven-day reverse repos today; CNY153.0 billion matured, leaving a net injection of CNY296.5 billion."
+    },
+    {
+      "id": "4937399",
+      "time": "2026-06-16 09:21:57",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.07％，國企指數跌0.04％，科指平開。"
+    },
+    {
+      "id": "mkt:019ece05-13be-7dd8-b018-bfbc73320652",
+      "time": "2026-06-16 09:21:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meituan",
+        "Hang Seng Index",
+        "03690.HK",
+        "Impact bearish",
+        "00100.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong shares opened: Hang Seng Index down 0.07%, Hang Seng Tech Index flat. Meituan (03690.HK) down 1.6%; MINIMAX-W (00100.HK) up 2.6%."
+    },
+    {
+      "id": "mkt:019ece04-bcc8-7dd8-b018-b2da6da20404",
+      "time": "2026-06-16 09:21:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY 449.5 bln 7-day reverse repo today; bid and accepted amounts both CNY 449.5 bln; operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "4937398",
+      "time": "2026-06-16 09:21:09",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行今日開展4495億元人民幣7天期逆回購操作，操作利率1.40% 。"
+    },
+    {
+      "id": "mkt:019ece04-83e5-7dd8-b018-ad9ef6cf0b98",
+      "time": "2026-06-16 09:21:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. carried out a very successful operation in Iran."
+    },
     {
       "id": "mkt:019ece04-61de-7dd8-b018-a64fc7e3719b",
       "time": "2026-06-16 09:20:54",
@@ -167141,112 +167273,6 @@
         "A股"
       ],
       "text": "三大股指高開，滬指漲0.46％，深成指漲1.16％，創業板漲1.41％。"
-    },
-    {
-      "id": "mkt:019ea9fb-e82c-733a-9238-b1bf46bd77ed",
-      "time": "2026-06-09 09:25:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Apollo, Blackstone agree $35bn private credit package to fund Anthropic growth】Financial Times reports Apollo Global Management and Blackstone have agreed a $35bn private credit package to finance Anthropic’s growth plans. Proceeds will be used to help Anthropic purchase chips developed by Alphabet. The deal, led by the two private-equity firms, is among the largest private-credit financings to date and underscores investor willingness to fund AI-related data‑centre infrastructure and compute for firms including Anthropic, OpenAI and Meta. Apollo and Blackstone did not respond to requests for comment."
-    },
-    {
-      "id": "4924921",
-      "time": "2026-06-09 09:24:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安寧股份：年產5萬噸磷酸鐵專案正在裝置除錯階段】安寧股份6月9日在互動平臺回覆稱，年產6萬噸能源級鈦（合金）材料全產業鏈專案正在全力推進建設中，年產5萬噸磷酸鐵專案正在裝置除錯階段。"
-    },
-    {
-      "id": "mkt:019ea9fb-2bdd-733a-9238-acfaec382ce8",
-      "time": "2026-06-09 09:24:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "MSCI Asia-Pacific index rose 1%."
-    },
-    {
-      "id": "4924920",
-      "time": "2026-06-09 09:23:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲1%至267.27點。"
-    },
-    {
-      "id": "4924919",
-      "time": "2026-06-09 09:22:56",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股開盤，恒生指數低開0.43％，恒生科技指數低開0.26％。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606093764446227",
-      "time": "2026-06-09 09:22:40",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行今日開展1530億元7天逆回購操作】央行今日開展1530億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019ea9f9-6cee-733a-9238-a2964bbb4e9c",
-      "time": "2026-06-09 09:22:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong's HSI opened down 105.13 points (-0.43%) at 24,551.93 on Tuesday, June 9; the Hang Seng Tech Index opened down 12.39 points (-0.26%) at 4,743.52; the HSCEI opened down 27.80 points (-0.33%) at 8,313.56; the Red Chip Index opened down 21.48 points (-0.50%) at 4,313.91."
-    },
-    {
-      "id": "4924918",
-      "time": "2026-06-09 09:22:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放1,528.0億元人民幣。"
-    },
-    {
-      "id": "4924917",
-      "time": "2026-06-09 09:21:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天振股份：公司尚未發生因關稅原因導致壓價、縮減採購訂單計劃】天振股份6月9日在互動平臺回覆稱，公司尚未發生因關稅原因導致的壓價、縮減採購訂單計劃。"
-    },
-    {
-      "id": "mkt:019ea9f8-7b1a-733a-9238-9a5daf464d97",
-      "time": "2026-06-09 09:21:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "PBOC conducted CNY153 bln 7-day reverse repo today; bids CNY153 bln, allotment CNY153 bln; rate 1.40%, unchanged."
-    },
-    {
-      "id": "4924916",
-      "time": "2026-06-09 09:21:31",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展1530億元7天逆回購操作，投標量1530億元，中標量1530億元，操作利率為1.40%，與此前持平。"
     }
   ]
 }
