@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-16 19:19:10",
-  "count": 18281,
+  "updated": "2026-06-16 19:23:09",
+  "count": 18283,
   "items": [
+    {
+      "id": "te:markets:559339",
+      "time": "2026-06-16 19:22:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Recent Rally — US equity futures were muted on Tuesday, holding their three-session rally after the US and Iran said they agreed to a deal that ends the conflict and reestablishes energy exports from the Persian Gulf. Contracts for the S&P 500, Nasdaq 100, and Dow were mostly flat with the latter hovering at a record high. Despite lingering inconsistencies in the terms of the deal per different reports, the US and Iran were still due to sign the agreement on Friday, with US authorities stating the Strait of Hormuz will reopen. Bond yields pulled back further as the development softened pro-inflationary concerns ahead of the Fed's likely rate hold tomorrow, although Chairman Warsh may continue to push for monetary framework overhauls in his first meeting. SpaceX was 10% higher premarket to gain 40% since its IPO on Friday following news it will aquire Cursor for $60 billion. In turn, tech heavyweights trimmed their gains following their rallies earlier, with Microsoft, Meta, and Alphabet edging down."
+    },
+    {
+      "id": "4938666",
+      "time": "2026-06-16 19:20:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST航圖：6月17日起股票疊加實施其他風險警示】*ST航圖公告稱，因公司資金緊張無法償債，被法院強制執行，主要銀行賬戶被凍結，截至公告披露日累計凍結1.35億元，佔最近一期經審計貨幣資金的108.93%，觸及相關規定。公司股票自2026年6月17日起被疊加實施其他風險警示，不停牌，漲跌幅限制仍為20%。公司將積極化解債務，盤活資產，籌措資金。"
+    },
+    {
+      "id": "4938665",
+      "time": "2026-06-16 19:19:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【矽片企業整體供應呈增量 電池片企業周度庫存呈去庫】據SMM最新調研反饋，預期6月矽片排產在54-55GW之間，除一家企業減產外，其餘多家企業有序提產，整體矽片供應小幅超過需求。6月電池片實際產出基本貼合前期排產預期，整體產出規模較5月實現環比提升；行業依舊維持以銷定產模式，開工節奏隨下游訂單落地靈活微調。企業出貨較上週有所改善，行業整體庫存總量較上週小幅回落。"
+    },
+    {
+      "id": "4938664",
+      "time": "2026-06-16 19:19:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月16日19時14分在青海海西州直轄區（北緯37.90度，東經95.61度）發生3.9級地震，震源深度10千米。"
+    },
+    {
+      "id": "4938663",
+      "time": "2026-06-16 19:19:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【均勝電子：參股公司光模組業務已進入量產階段】均勝電子今日在互動平臺表示，公司看好光模組市場前景，參股公司新菲光通訊技術有限公司面向全球市場拓展新業務機會，其光模組業務已進入量產階段，目前公司也正密切關注其業務發展情況。具體業務進展請以公司公告及定期報告為準，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "4938662",
+      "time": "2026-06-16 19:18:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST利源：間接控股股東變更名稱並完成工商登記】*ST利源公告稱，近日收到間接控股股東通知，自2026年6月16日起，其公司名稱由“江蘇步步高置業有限公司”變更為“蘇州百勝置業有限公司”，工商登記變更手續已完成。該公司註冊資本176162.46萬元，法定代表人為居茜。此次變更不涉及公司股權變動，對公司治理及生產經營無影響，不會導致直接控股股東、間接控股股東及實際控制人變化。"
+    },
+    {
+      "id": "4938661",
+      "time": "2026-06-16 19:18:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：請求美國總統特朗普提供製造防空系統和導彈的許可證。烏克蘭正與加拿大洽談無人機交易。七國集團支援烏克蘭加入歐盟，重申所有談判叢集將會開放。"
+    },
     {
       "id": "4938660",
       "time": "2026-06-16 19:18:31",
@@ -168234,47 +168295,6 @@
         "公司"
       ],
       "text": "【Wolfspeed推出低導通電阻碳化矽MOSFET】Wolfspeed公司6月9日宣佈推出第五代（Gen 5）碳化矽（SiC）MOSFET技術。據該公司介紹，與目前市售的競品1200-V解決方案相對比，其最高可降低27%的比導通電阻RSP，顯著改善了系統級導通損耗。目前，QEM50120-025D10和QEM50075-025D10的樣品透過Wolfspeed的直接銷售代表向特定客戶提供。隨著市場需求和客戶要求最終確定，預計從2026年至2027年初將陸續推出更多750V至1200V的新產品。"
-    },
-    {
-      "id": "4926099",
-      "time": "2026-06-09 19:23:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "最新訊息顯示，日本央行6月會議將迎來去年12月以來首次加息，政策利率有望自1995年以來首次回到1%。"
-    },
-    {
-      "id": "4926098",
-      "time": "2026-06-09 19:22:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "殼牌：明確了推進天然氣利用的戰略路徑。"
-    },
-    {
-      "id": "4926097",
-      "time": "2026-06-09 19:22:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客執行長：我們下半年將面臨交付量創紀錄的考驗。"
-    },
-    {
-      "id": "4926096",
-      "time": "2026-06-09 19:22:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李家超：6月15日起將展開香港五年規劃公眾諮詢】香港特區行政長官李家超9日出席行政會議前會見傳媒表示，特區政府將於6月15日起展開為期兩個月的香港五年規劃公眾諮詢，當日將發表公眾諮詢檔案。李家超說，香港編制第一個五年規劃有重大意義。五年規劃將鞏固提升香港在國際金融、航運、貿易、創科等領域的優勢地位，讓香港可以抓緊更多國家戰略和發展所帶來的機遇，有助香港更好融入和服務國家發展大局，有利於“一國兩制”的成功實踐。李家超表示，五年規劃將貫徹和堅守“一國兩制”方針，堅持“愛國者治港”，落實“發展經濟、改善民生”的施政目標，聚焦的策略方向包括：以民為本，把改善民生作為出發點和落腳點；更好把有為政府和高效市場結合起來；以及強化治理效能。他說，規劃將是具前瞻性、策略性和可操作性的指導檔案，每年發表的施政報告將更有效對接和回應五年規劃的發展方向和要求。（新華社）"
-    },
-    {
-      "id": "4926095",
-      "time": "2026-06-09 19:22:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "AIX-AYFIE簽署擴大協議，將人工智慧嵌入客戶的工作流程和專案中。"
     }
   ]
 }
