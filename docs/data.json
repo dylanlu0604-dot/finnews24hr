@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-16 19:43:16",
-  "count": 18288,
+  "updated": "2026-06-16 19:47:22",
+  "count": 18291,
   "items": [
+    {
+      "id": "4938715",
+      "time": "2026-06-16 19:46:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【南向資金今年以來淨流入超3000億港元】今年以來，南向資金明顯加倉港股市場，是港股市場最大的增量資金來源，年內累計淨流入超3000億港元。具體來看，Wind資料顯示，截至6月16日，南向資金今年以來累計淨流入3065.76億港元。在今年以來南向資金交易的104個交易日中，南向資金出現淨流入的交易日有64個，佔比超六成。其中，3月9日單日淨流入372.13億港元，創單日淨流入紀錄。從南向資金持倉情況來看，Wind資料顯示，截至6月15日，南向資金持股數量達5884.91億股，較2026年初增加257.98億股；持倉市值為5.98萬億港元，較2026年初減少0.16萬億港元。行業方面，南向資金對金融業、資訊科技業、非必需性消費持倉市值居前，分別為16846.04億港元、11220.77億港元、7982.48億港元。此外，南向資金對能源業、醫療保健業持倉市值均超4200億港元。（中證金牛座）"
+    },
+    {
+      "id": "4938714",
+      "time": "2026-06-16 19:46:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文OPERA雲平臺新增人工智慧功能，大幅提升酒店運營效率。"
+    },
+    {
+      "id": "mkt:019ed041-1833-7dd8-b02e-948ba8da7329",
+      "time": "2026-06-16 19:46:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine needs creative solutions to join the EU quickly, or Russia will find ways to block it."
+    },
+    {
+      "id": "mkt:019ed040-d770-7dd8-b02e-8c6163203c7f",
+      "time": "2026-06-16 19:46:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Southbound Stock Connect net inflows HKD 306.6 bln YTD】Southbound flows via Stock Connect have been the largest incremental funding source for the Hong Kong market this year, with cumulative net inflows of HKD 306.576 billion as of June 16, Wind data show. Southbound posted net inflows on 64 of 104 trading days so far this year. The single-day record came on March 9 with a net inflow of HKD 37.213 billion. As of June 15, southbound holdings totaled 588.491 billion shares, up 25.798 billion shares since the start of 2026, with a market value of HKD 5.98 trillion, down HKD 0.16 trillion versus the start of 2026. Sector exposure by market value is led by financials HKD 1,684.604 billion, information technology HKD 1,122.077 billion and consumer discretionary HKD 798.248 billion; energy and healthcare holdings each exceed HKD 420 billion."
+    },
+    {
+      "id": "4938712",
+      "time": "2026-06-16 19:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：德國總理默茨理解烏克蘭正寄望於快速加入歐盟。烏克蘭需要創新方案以快速加入歐盟，否則俄羅斯會想方設法阻撓該程序。"
+    },
+    {
+      "id": "mkt:019ed040-2bcb-7dd8-b02e-8450d678e501",
+      "time": "2026-06-16 19:45:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Zelenskiy said German Chancellor Merz understands that Ukraine is seeking rapid EU accession."
+    },
+    {
+      "id": "4938711",
+      "time": "2026-06-16 19:44:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：二級市場交易價格溢價 6月17日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月16日收盤價為2.776元，收盤時基金份額參考淨值為2.3175元。為保護投資者利益，基金於6月17日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月17日溢價幅度未有效回落，基金有權採取臨時停牌等措施。"
+    },
+    {
+      "id": "4938710",
+      "time": "2026-06-16 19:43:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "四川騰盾科創股份有限公司創業板IPO獲受理，預計融資金額30.2121億元。"
+    },
+    {
+      "id": "4938709",
+      "time": "2026-06-16 19:43:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受地震影響 途經青藏鐵路西格段部分列車晚點執行】記者從國鐵青藏鐵路公司瞭解到，今天（16日）17時06分，青海海西州直轄區發生6.3級地震，波及青藏鐵路西格段部分割槽間。為確保旅客列車安全，鐵路部門立即啟動應急預案，扣停了以上區段的7列普速客車，並封鎖區間進行裝置全面巡檢，旅客列車無人員傷亡。鐵路部門提醒旅客，及時透過鐵路12306網站或車站公告關注列車時刻變化，以免耽誤行程。（央視新聞）"
+    },
+    {
+      "id": "4938708",
+      "time": "2026-06-16 19:43:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張江高科：擬向張江集團轉讓張江科學之門16.51%股權】張江高科公告，擬以經資產評估機構出具並經上海市浦東新區國資委備案的評估結果為基礎，透過非公開協議轉讓方式向上海張江（集團）有限公司轉讓上海張江科學之門科技發展有限公司16.51%的股權，轉讓價格人民幣12.8億元。"
+    },
+    {
+      "id": "4938707",
+      "time": "2026-06-16 19:43:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【船企預計霍爾木茲海峽航運恢復正常仍需數週】日本海運企業商船三井株式會社社長在英國媒體《金融時報》16日刊出的一份報道中說，美國和伊朗簽訂協議並承諾重新開放霍爾木茲海峽後，大部分商船的船東會先觀望數週，等確認協議落實後才會放心啟航。商船三井社長田村城太郎接受《金融時報》採訪時說，霍爾木茲海峽通航不會一蹴而就，大部分船東會持謹慎觀望態度，只有在看到美伊協議“落到實處、轉化為海峽內的真實場景”後，他們才有信心讓船穿越海峽。（新華社）"
+    },
+    {
+      "id": "mkt:019ed03d-fcc5-7dd8-b02e-7d19dd7427a0",
+      "time": "2026-06-16 19:43:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he had seen positive signals on aid from IMF managing director Georgieva."
+    },
     {
       "id": "4938706",
       "time": "2026-06-16 19:42:42",
@@ -168283,84 +168384,6 @@
         "國際"
       ],
       "text": "塞爾維亞政府：正尋求美國合作伙伴，共建大型水電站。"
-    },
-    {
-      "id": "4926153",
-      "time": "2026-06-09 19:46:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【介面晶片公司沁恆微IPO輔導完成】6月9日，中國證監會官網顯示，南京沁恆微電子股份有限公司（簡稱“沁恆微”）IPO狀態顯示為輔導驗收。"
-    },
-    {
-      "id": "4926152",
-      "time": "2026-06-09 19:46:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐銀行將其對2026-2030年全球人工智慧產業營收的預測上調至約25萬億美元，此前預測為約18萬億美元。"
-    },
-    {
-      "id": "4926151",
-      "time": "2026-06-09 19:46:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【澤連斯基：烏方將與歐洲方面磋商對俄談判時間及代表人選】當地時間9日，烏克蘭總統澤連斯基在與愛沙尼亞總統卡里斯的聯合新聞釋出會上表示，烏方將於近日與歐洲方面對接，磋商對俄談判的啟動時間與談判代表人選。澤連斯基提及，美國已準備好參與相關談判程序，同時他強調歐洲需在相關事務中擁有獨立且關鍵的話語權。（央視新聞）"
-    },
-    {
-      "id": "4926150",
-      "time": "2026-06-09 19:45:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：鼓勵銀行機構針對二手車出口企業開發金融產品】廣東省商務廳等11部門印發《廣東省加強二手車出口管理若干措施》，其中提出，加大金融支援力度。鼓勵銀行機構針對二手車出口企業開發金融產品，用好中小微企業貸款貼息、民間投資專項擔保計劃等財政支援政策，加大金融支援力度，進一步提高二手車出口結算便利化水平。鼓勵保險機構推出週期靈活、費用優惠的二手車出口保險產品，最佳化出口二手車交強險退保流程，降低二手車出口風險。"
-    },
-    {
-      "id": "4926149",
-      "time": "2026-06-09 19:44:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：將二手車出口企業備案稽核時間由15個工作日縮短為5個工作日】廣東省商務廳等11部門印發《廣東省加強二手車出口管理若干措施》，其中提出，提高出口通關和退稅效率。將二手車出口企業備案稽核時間由15個工作日縮短為5個工作日，出口許可證辦理時間嚴格控制在3個工作日內。提升口岸通關效率，在南沙等港口開展“抵港直裝”試點等通關便利化措施，支援符合條件的企業申請成為海關AEO（經認證的經營者）企業。在加強退稅管理和風險可控的前提下，將正常出口退稅平均辦理時間壓縮在5個工作日內，將出口退稅管理類別為一類、二類的企業正常出口退稅平均辦理時間壓縮在3個工作日內。在出口許可證申領、預約通關等環節為大批次車次出口企業開闢便捷通道。"
-    },
-    {
-      "id": "4926148",
-      "time": "2026-06-09 19:44:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【AIVA宣佈攜手火山引擎共同打造AI汽車體驗，火山引擎提供豆包大模型、智慧座艙等技術服務】在賽豆科技AIVA品牌釋出會上，賽豆科技正式官宣AIVA攜手火山引擎，聯合定義、聯合設計、共同打造AI汽車體驗。據悉，火山引擎為AIVA品牌提供豆包大模型、智慧座艙等技術服務，幫助AIVA品牌提升車載智慧互動體驗。（新浪科技）"
-    },
-    {
-      "id": "4926147",
-      "time": "2026-06-09 19:43:49",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "法國外交部長巴羅：法國已將以色列財政部長、四名定居點組織領導人以及21名暴力定居者列入入境禁令名單。"
-    },
-    {
-      "id": "4926146",
-      "time": "2026-06-09 19:43:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國稱以色列官方參與定居者暴行】聯合國“巴勒斯坦被佔領土調查委員會”今天（6月9日）釋出報指出，以色列政府直接參與了猶太人定居者對巴勒斯坦人的襲擊——這些襲擊導致約旦河西岸被佔領土上的巴勒斯坦人死傷和流離失所。這份報告顯示，以色列政府透過財政和軍事支援助長了定居者的襲擊，以色列軍警為定居者提供保護，司法和執法機構所營造的有罪不罰氛圍則進一步縱容了定居者的暴行。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019eac31-d5c5-7ffd-b5f5-0509088a7979",
-      "time": "2026-06-09 19:43:27",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Natixis IM: Lagarde likely to frame ECB rate rise as \"dovish hike\"】Mabrouk Chetouane, global market strategist at Natixis IM, said markets have fully priced an ECB rate increase this week but Lagarde will be cautious at the press conference and seek to present the tightening as a \"dovish hike\". He said the absence of clear evidence that rising energy prices are spilling into the real economy, plus a weak euro-area cycle, supports a milder inflation response; nevertheless, in line with its duty to anchor market expectations the ECB Governing Council will still raise rates to bolster credibility and demonstrate its ability to act."
     }
   ]
 }
