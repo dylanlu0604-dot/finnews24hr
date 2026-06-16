@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-16 23:48:43",
-  "count": 18387,
+  "updated": "2026-06-16 23:52:58",
+  "count": 18393,
   "items": [
+    {
+      "id": "4939138",
+      "time": "2026-06-16 23:51:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬：額外措施將在2026年下半年產生一次性負面影響。"
+    },
+    {
+      "id": "4939137",
+      "time": "2026-06-16 23:51:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬：將透過深化並加速結構調整與效率提升措施，擴大2026年現有降成本計劃的規模。"
+    },
+    {
+      "id": "te:markets:559403",
+      "time": "2026-06-16 23:51:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Advances on Financial Sector Strength — The FTSE MIB gained 1.1% to close at 52,421 on Tuesday, supported by strength in the financial sector as UniCredit's buyout offer for Commerzbank reached its final day. The 12.41% take-up of Commerzbank's capital lifted UniCredit's overall holding to 42.4%, including a previously built 26.77% equity stake and another 3.22% in share-settled derivatives. The bank also holds 13.19% through cash-settled derivatives. The German government reiterated its opposition and formally rejected the offer. Although the bid officially ended on June 16, investors have an additional two weeks to tender their shares, with final results due on July 8. ECB approval remains necessary for the process to conclude. UniCredit surged 4.2%, while peers Intesa Sanpaolo (+2.9%) and Generali (+1.8%) also advanced. Financial stocks and the broader index were further supported by lower bond yields, as falling oil prices and optimism over a US-Iran peace agreement eased inflation concerns."
+    },
+    {
+      "id": "4939136",
+      "time": "2026-06-16 23:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國多家情報機構：伊朗可隨時有效封鎖霍爾木茲海峽】美國多家情報機構近期評估認為，伊朗可隨時有效封鎖霍爾木茲海峽。這意味著受戰事影響，伊朗手握了一項能夠重創全球經濟的全新強力手段。訊息人士表示：“我們如今等於把海峽的實際控制權交到了伊朗手中，這是一件比任何核武器都更具威懾力的武器。”一名美國高階官員透露，只有霍爾木茲海峽保持通航、伊朗履行協議其餘條款，該國才能獲得這份框架協議帶來的全部利好。該官員稱，美方將根據伊朗恢復海峽通航的進度，同步解除相關封鎖措施。另一名訊息人士表示，伊朗此前試圖擾亂海峽能源自由流通，此舉已引發各國不滿。伊朗這麼做必將付出相應代價。”"
+    },
+    {
+      "id": "mkt:019ed121-2973-7dd8-b036-4b7b137d5b5c",
+      "time": "2026-06-16 23:51:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell 5.00% intraday to $78.79/barrel."
+    },
+    {
+      "id": "mkt:019ed120-ed83-7dd8-b036-436ab4d6f8e2",
+      "time": "2026-06-16 23:50:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude plunged 6.00% intraday to $76.50 per barrel. Brent crude touched $79.00 per barrel, down 4.76% intraday."
+    },
+    {
+      "id": "4939135",
+      "time": "2026-06-16 23:50:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內跌5%，現報75.46美元/桶。"
+    },
+    {
+      "id": "mkt:019ed120-1db4-7dd8-b036-3cac33d5a998",
+      "time": "2026-06-16 23:50:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Wall Street Journal: Sanctions waivers for Iranian oil sales will take effect immediately upon signing of an agreement expected this week and will cover essential services including banking, shipping and insurance to facilitate sales."
+    },
+    {
+      "id": "4939134",
+      "time": "2026-06-16 23:49:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美伊協議允許伊朗立即對外出售原油。"
+    },
+    {
+      "id": "mkt:019ed11f-2fb4-7dd8-b036-31b09ff11d95",
+      "time": "2026-06-16 23:49:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Wall Street Journal reports a U.S.-Iran agreement would allow Tehran to immediately sell oil."
+    },
+    {
+      "id": "4939133",
+      "time": "2026-06-16 23:48:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬2026/2027財年展望：預計汽車業務自由現金流將高於25億歐元。"
+    },
+    {
+      "id": "mkt:019ed11e-ca97-7dd8-b036-2bbb1db960fc",
+      "time": "2026-06-16 23:48:36",
+      "tags": [
+        "MKT News",
+        "BMW.DE",
+        "Impact bearish"
+      ],
+      "text": "BMW now expects 2026 vehicle deliveries in its automotive segment to be slightly below 2025, revising down from prior guidance of year-on-year flat deliveries."
+    },
+    {
+      "id": "4939132",
+      "time": "2026-06-16 23:48:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬2026年展望：汽車業務部門已動用資本回報率（ROCE）處於1%-5%區間（此前為6%-10%區間）。"
+    },
     {
       "id": "4939131",
       "time": "2026-06-16 23:47:57",
@@ -169186,76 +169317,6 @@
         "WTI"
       ],
       "text": "U.S. and Brent crude losses widened; Brent crude down 4% intraday, WTI crude down 4.6%."
-    },
-    {
-      "id": "4926520",
-      "time": "2026-06-09 23:51:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌4%，現報90.44美元/桶。"
-    },
-    {
-      "id": "4926519",
-      "time": "2026-06-09 23:51:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國使館提醒在南非中國公民和企業防範安全風險】中國駐南非大使館9日釋出安全提示，提醒在南非中國公民、企業和機構嚴格依法合規經營，高度重視防範安全風險。提示說，近期，南非多地發生針對外籍人員的遊行、示威、請願等活動，部分演變為滋擾衝擊和“打砸搶”，造成人員傷亡和財產損失，有僑胞店鋪受到波及。使館提醒在南非中國公民、企業和機構密切關注有關情況，不途經或前往活動區域和治安不靖、人群密集地區；全面加強安保措施，遊行示威活動前後和期間採取縮短營業和辦公時間、歇業停工、分散避險等必要措施；堅持依法合規經營特別是合法務工、用工，避免成為遊行示威活動目標；遇突發事件冷靜理性應對，在確保自身安全情況下及時向當地警方報案並向駐南非使領館、警民中心求助。（新華社）"
-    },
-    {
-      "id": "4926518",
-      "time": "2026-06-09 23:51:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據報道，美國梧桐投資公司（Sycamore）正就以100億美元出售Boots進行談判。"
-    },
-    {
-      "id": "mkt:019ead14-be52-7448-ac07-82ccb4942df2",
-      "time": "2026-06-09 23:51:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Gold weakens after feeble rebound as rate‑hike bets weigh】On Tuesday, amid a broader equity sell-off and rising US rate‑hike expectations, gold weakened after an initial rebound as investors shifted attention to key US inflation data due later this week. Both spot and futures gold slipped below $4,300 intraday, with spot gold down just over 1% on the day. RJO Futures senior market strategist Bob Haberkor said traders were nervous and a broad move into risk‑off had driven the decline, adding that gold and silver are likely to remain under downward pressure until the Fed provides clearer guidance."
-    },
-    {
-      "id": "4926517",
-      "time": "2026-06-09 23:51:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【劉偉在上海調研】6月8日至9日，交通運輸部黨組書記、部長劉偉在上海市就深入學習貫徹黨的二十屆四中全會精神和習近平總書記關於交通強國的重要論述，圍繞紮實推動“十五五”規劃任務落地見效，調研海事監管與服務保障一體化建設、交通運輸領域新質生產力發展、綜合交通樞紐建設、大飛機事業發展等工作。（交通運輸部）"
-    },
-    {
-      "id": "4926516",
-      "time": "2026-06-09 23:50:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通將海爾智家A股、美的集團A股評級上調至超配。"
-    },
-    {
-      "id": "mkt:019ead13-9fd7-7448-ac07-7aea324b3e2f",
-      "time": "2026-06-09 23:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "EIA to release monthly Short-Term Energy Outlook (STEO) in 10 minutes."
     }
   ]
 }
