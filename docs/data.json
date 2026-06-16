@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-16 09:25:31",
-  "count": 18201,
+  "updated": "2026-06-16 09:29:32",
+  "count": 18195,
   "items": [
+    {
+      "id": "4937404",
+      "time": "2026-06-16 09:28:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋰電池板塊高開，諾德股份一字漲停】鋰電池板塊高開，諾德股份一字漲停，億緯鋰能高開超13%，銅冠銅箔、中瑞股份、鵬輝能源漲幅居前。"
+    },
+    {
+      "id": "4937403",
+      "time": "2026-06-16 09:28:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【會通股份與清研高分子達成戰略合作 將圍繞高階液晶聚合物（LCP）材料展開合作】據會通股份訊息，6月15日，會通股份與南京清研高分子新材料有限公司正式簽署戰略合作協議。雙方將圍繞高階液晶聚合物（LCP）材料的研發、生產及市場化應用展開深度合作。"
+    },
+    {
+      "id": "mkt:019ece0a-e50e-7dd8-b019-1193c50d68bd",
+      "time": "2026-06-16 09:28:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "At the open on Tuesday June 16, China's Shanghai Composite Index fell 2.26 points (-0.06%) to 4,094.21; Shenzhen Composite Index rose 53.26 points (+0.34%) to 15,584.37; CSI 300 Index rose 3.17 points (+0.06%) to 4,894.88; ChiNext Index rose 31.74 points (+0.79%) to 4,065.27; STAR 50 Index rose 3.38 points (+0.19%) to 1,751.71."
+    },
+    {
+      "id": "mkt:019ece0a-bfc3-7dd8-b019-0d6b84886f35",
+      "time": "2026-06-16 09:27:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "A-share PET copper-foil names saw active auction trading; Guanghua Technology and Nuode Co. opened locked at the daily limit, Shuangxing New Materials rose >8%, Tongguan Copper Foil rose >7%, and Jiemei Technology and Tongfeng Electronics opened sharply higher."
+    },
+    {
+      "id": "mkt:019ece0a-3230-7dd8-b019-032f6072f958",
+      "time": "2026-06-16 09:27:15",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【BANK OF JAPAN and RESERVE BANK OF AUSTRALIA start Asia-Pacific central bank decision week】A busy Asia-Pacific central bank week opens as the BANK OF JAPAN and the RESERVE BANK OF AUSTRALIA hold policy meetings; markets will watch how authorities view Middle East risk after the recent US–Iran ceasefire. Markets largely price a BOJ rate hike as a done deal; focus is on the yen’s behaviour at intervention-risk levels. TD Securities says a hike alone is unlikely to support the yen — the BOJ would need more hawkish guidance, faster tightening and a higher terminal rate to stem yen weakness. The RBA is expected to pause after three consecutive hikes. Nomura says the RBA is unlikely to declare victory on inflation or provide meaningful forward guidance; any signs of weakening growth could pressure the AUD."
+    },
+    {
+      "id": "mkt:019ece09-e666-7dd8-b018-f81a2e1e5e80",
+      "time": "2026-06-16 09:26:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said Iran has now agreed to eliminate its enriched-uranium stockpile; if it later refuses to stop enrichment, it will not receive other benefits under the agreement."
+    },
+    {
+      "id": "4937402",
+      "time": "2026-06-16 09:26:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）表示，哈薩克應維持緊縮貨幣政策，以使通脹回落至目標水平。"
+    },
+    {
+      "id": "4937401",
+      "time": "2026-06-16 09:25:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.06％，深成指漲0.34％，創業板漲0.79％。"
+    },
+    {
+      "id": "mkt:019ece08-821c-7dd8-b018-f3854f29490d",
+      "time": "2026-06-16 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "At the A-share open, the Shanghai Composite fell 0.06%, the Shenzhen Composite Index rose 0.34% and the ChiNext Index rose 0.79%."
+    },
     {
       "id": "mkt:019ece06-cebf-7dd8-b018-eb736c76183f",
       "time": "2026-06-16 09:23:33",
@@ -84,6 +181,15 @@
         "焦點"
       ],
       "text": "港股恒指低開跌0.07％，國企指數跌0.04％，科指平開。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606163772408390",
+      "time": "2026-06-16 09:21:53",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展4495億元7天逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:019ece05-13be-7dd8-b018-bfbc73320652",
@@ -167111,168 +167217,6 @@
         "Important"
       ],
       "text": "Australia | NAB Business conditions Index (May) | actual 3 | previous 3"
-    },
-    {
-      "id": "mkt:019ea9ff-bd91-733a-9238-e55bd280a290",
-      "time": "2026-06-09 09:29:28",
-      "tags": [
-        "MKT News",
-        "000001.SS",
-        "Impact bullish",
-        "000300.SS"
-      ],
-      "text": "A-shares PCB concept stocks opened higher. Jin'an Guoji, Shengquan Group and Kangda New Materials hit limit-up; Yinxikeji, Tongyu New Materials and Ruihuatai rose over 10%. Dongcai Technology, Meilian New Materials, Shiming Technology, International Composite and Yabaoxuan also gained."
-    },
-    {
-      "id": "mkt:019ea9ff-832e-733a-9238-df6e65caa0a1",
-      "time": "2026-06-09 09:29:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "At the open on Tuesday June 9, China's Shanghai Composite Index rose 18.2 points, or 0.46%, to 3,977.54; Shenzhen Composite was up 171.36 points, or 1.16%, at 14,992.55. The CSI 300 index advanced 29.81 points, or 0.63%, to 4,743.45. ChiNext gained 53.91 points, or 1.41%, to 3,865.69, while the STAR 50 Index rose 33.66 points, or 2.11%, to 1,630.23."
-    },
-    {
-      "id": "4924930",
-      "time": "2026-06-09 09:29:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4360美元/盎司，日內跌0.07%。"
-    },
-    {
-      "id": "4924929",
-      "time": "2026-06-09 09:28:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "N高特電子首日上市高開近800%，公司主要從事新型儲能電池管理系統產品的研發、生產和銷售。"
-    },
-    {
-      "id": "mkt:019ea9ff-02a1-733a-9238-d7ea306327f8",
-      "time": "2026-06-09 09:28:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "N Gaote Electronics opened nearly 800% higher on its first trading day. The company develops, manufactures and sells new energy-storage battery management systems."
-    },
-    {
-      "id": "mkt:019ea9fe-f5b3-733a-9238-cf6f48160aad",
-      "time": "2026-06-09 09:28:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share MLCC-related stocks surged, with Kangda Xincai hitting the daily trading limit and Dongcai Technology rising more than 8%; Shangluo Electronics, Liyuan Information, Guoci Materials and Wanwei Gaoxin also advanced. Shenzhen Huaqiang said multiple components — including memory, power-management chips, analog chips and multilayer ceramic capacitors (MLCCs) — are experiencing shortages and price increases."
-    },
-    {
-      "id": "4924928",
-      "time": "2026-06-09 09:28:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曹操出行計劃組建獨立AI事業部 擬全面轉型為AI原生公司】記者獲悉，曹操出行計劃組建獨立AI事業部，全面推進公司AI戰略落地，完成從移動網際網路公司到AI原生公司的關鍵轉型。同時，記者注意到，該公司近期已在招聘平臺上線“首席AI官”崗位，崗位職責包括：制定AI戰略與技術路線、構建AI核心能力體系、推動業務全鏈路AI賦能等。（科創板日報）"
-    },
-    {
-      "id": "4924927",
-      "time": "2026-06-09 09:28:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念板塊高開，金安國紀漲停】PCB概念板塊高開，金安國紀、聖泉集團、康達新材漲停，銀禧科技、同宇新材、瑞華泰漲超10%，東材科技、美聯新材、世名科技、國際復材、雅葆軒跟漲。"
-    },
-    {
-      "id": "4924926",
-      "time": "2026-06-09 09:28:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股人工智慧概念股走強 海致科技集團漲超8%】截至發稿，海致科技集團(02706.HK)漲8.30%，瀾起科技(06809.HK)漲6.22%，兆易創新(03986.HK)漲4.32%，壁仞科技(06082.HK)漲2.19%。"
-    },
-    {
-      "id": "4924925",
-      "time": "2026-06-09 09:27:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股AI應用股走強 微盟集團漲近9%】截至發稿，微盟集團(02013.HK)漲8.97%，赤子城科技(09911.HK)漲8.73%，諾比坎(02718.HK)漲4.58%。"
-    },
-    {
-      "id": "mkt:019ea9fd-9cfd-733a-9238-c54d7f7018a0",
-      "time": "2026-06-09 09:27:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【Israel-Iran ceasefire; A-share oil services and engineering sector slides】A-share oilfield services and engineering stocks slid after Israeli Prime Minister Netanyahu said on the 8th Israel would temporarily halt strikes on Iran after Iran stopped firing. Keli fell over 11%, Tongyuan Petroleum dropped more than 4%; Qianeng Hengxin, Zhongman Petroleum, Bekan Energy and China Oil Engineering also declined."
-    },
-    {
-      "id": "4924924",
-      "time": "2026-06-09 09:27:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "油服工程板塊大幅回撥，科力股份跌超11%，通源石油跌超4%，潛能恆信、中曼石油、貝肯能源、中油工程等個股跟跌。"
-    },
-    {
-      "id": "4924923",
-      "time": "2026-06-09 09:26:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片板塊高開，聖泉集團漲停】儲存晶片板塊高開，聖泉集團漲停，盈方微、東芯股份、商絡電子、華特氣體、博敏電子跟漲。"
-    },
-    {
-      "id": "te:economy:557415",
-      "time": "2026-06-09 09:26:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "Philippines Jobless Rate Falls to 4.7% — The unemployment rate in the Philippines fell to 4.7% in April 2026, the lowest level in four months, from 5.0% in March. The number of unemployed persons fell to 2.41 million from 2.58 million in the previous month. Meanwhile, the employment rate rose to 95.3% from 95.0%, with total employment reaching 48.89 million. The labor force participation rate declined to 62.7% from 63.3% in March. On a sectoral basis, employment gains were led by agriculture and forestry, wholesale and retail trade, and accommodation and food service activities, while job losses were recorded in other service activities, public administration and defense, and administrative and support services. By share of total employment, services accounted for 62.3%, followed by agriculture at 19.4% and industry at 18.3%. Wage and salary workers made up 64.4% of total employment, mostly in private establishments. Average weekly hours worked increased to 40.2 from 39.9."
-    },
-    {
-      "id": "mkt:019ea9fc-52f2-733a-9238-bd15a49008a4",
-      "time": "2026-06-09 09:25:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-shares opened higher: Shanghai Composite +0.46%, Shenzhen Composite +1.16%, ChiNext Index +1.41%. MLCC, memory chips, semiconductors and optical fiber sectors led gains; oilfield services/engineering and coal underperformed."
-    },
-    {
-      "id": "4924922",
-      "time": "2026-06-09 09:25:45",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指高開，滬指漲0.46％，深成指漲1.16％，創業板漲1.41％。"
     }
   ]
 }
