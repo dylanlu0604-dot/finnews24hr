@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-16 11:52:39",
+  "updated": "2026-06-16 11:56:39",
   "count": 18338,
   "items": [
+    {
+      "id": "4937702",
+      "time": "2026-06-16 11:55:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲智庫：石油市場供需失衡將延續至2027年】歐洲智庫布魯蓋爾研究所15日釋出研究報告說，即使霍爾木茲海峽短期內重新開放，全球石油市場供需失衡也將延續至2027年。報告指出，中東戰事引發霍爾木茲海峽實際關閉，造成史上最大規模能源供應衝擊。2025年，每天約有1500萬桶原油和500萬桶石油產品途經霍爾木茲海峽運輸，佔全球供應量約20%。國際能源署估計，自海峽航運受阻以來，全球石油供應缺口達日均1280萬桶。報告認為，即使霍爾木茲海峽在短期內重新開放，重啟油田、調配油輪等也需要數月時間，全球石油市場供需失衡預計將延續至2027年。（新華社）"
+    },
+    {
+      "id": "4937701",
+      "time": "2026-06-16 11:54:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲5.0個基點，至2.625%。"
+    },
+    {
+      "id": "4937700",
+      "time": "2026-06-16 11:53:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州2宗宅地合計18.18億元成交 1宗溢價率超33%】6月16日，杭州2宗宅地出讓，最終1宗底價成交、1宗溢價超33%成交，總成交金額18.18億元。其中，蕭山區宅地由杭州金恆房地產開發有限公司（金帝聯合控股）以總價15.12億元競得，成交樓面價21369元/㎡，溢價率33.56%。臨安區宅地由杭州臨安西子房地產開發有限公司（西子聯合）以底價3.06億元競得，成交樓面價5294元/㎡。"
+    },
+    {
+      "id": "4937699",
+      "time": "2026-06-16 11:53:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "富士通：董事會獲悉董事長古田英範存在不當行為後，古田英範提請辭職，辭職今日生效。"
+    },
+    {
+      "id": "4937698",
+      "time": "2026-06-16 11:52:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海康威視7月1日上調硬碟價，知情人士：原廠三季度硬碟成本漲幅超50%】從知情人士處獲悉，海康威視近日已向經銷商下發硬碟調價函，自今年7月1日起，公司硬碟產品價格將進行同步上調。此外，7月1日之前，海康威視旗下其他產品也將先行完成一輪漲價，而此次硬碟價格上調主要針對經銷商渠道。面對當前供應與價格波動較大的形勢，海康威視已建議經銷商儘快鎖定訂單與價格。實際上，這並非海康威視首次調價，也並非其個例行為。對於本次調價的原因，知情人士表示，核心在於AI需求的“爆發式”增長所帶來的持續性擠兌效應。硬碟採購成本持續攀升，相比今年二季度，原廠三季度的硬碟成本報價上漲幅度已超過50%，基於當前市場形勢，未來一段時間內產品價格仍存在持續上調的可能性。（藍鯨財經）"
+    },
+    {
+      "id": "mkt:019ece8f-63d0-7dd8-b01f-10be15f160ce",
+      "time": "2026-06-16 11:52:44",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 10-year government bond yield rose 5 bps to 2.625%."
+    },
+    {
+      "id": "4937697",
+      "time": "2026-06-16 11:52:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本富士通董事長因“不當行為”辭職。"
+    },
+    {
+      "id": "mkt:019ece8f-485a-7dd8-b01f-0e6f5f570828",
+      "time": "2026-06-16 11:52:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "002415.SZ",
+        "Impact bullish",
+        "WDC.O",
+        "STX.O"
+      ],
+      "text": "【Hikvision to raise HDD prices from July 1; sources say OEM HDD costs up over 50% in Q3】Hikvision has notified dealers it will raise prices for its hard-disk drive (HDD) products effective July 1, with the increase aimed at the dealer channel, sources said. The company is also implementing earlier price increases across other product lines ahead of July 1 and has urged dealers to lock orders and prices amid volatile supply and pricing. Sources said the move reflects explosive AI-driven demand; OEM HDD procurement quotes for Q3 are more than 50% higher than in Q2, and further product price hikes remain possible."
+    },
     {
       "id": "4937696",
       "time": "2026-06-16 11:51:56",
@@ -168631,77 +168708,6 @@
         "9988.HK"
       ],
       "text": "【Tmall: number of new products surpassing 10 million yuan in 618 rises 60% YoY】Tmall data showed the number of new products launched during the 618 sale that rapidly exceeded 10 million yuan in sales rose 60% YoY. New products accounted for one-third of the top 100 selling SKUs in the sale’s opening phase."
-    },
-    {
-      "id": "4925143",
-      "time": "2026-06-09 11:56:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯：美將推動同伊朗達成核協議 不管以色列是否願意】美國副總統萬斯8日表示，不管以色列是否願意，美國將繼續推動同伊朗達成協議。萬斯當天接受美國福克斯新聞頻道採訪時說，以色列和美國之間確實存在許多共同利益，“但我們也存在利益不一致的情況……以色列顯然有自己的目標，但美國對伊朗的首要目標是確保伊朗不擁有核武器”。他說，美國總統特朗普相信“能夠就伊朗核問題達成一項長期解決方案”，“以色列可能會喜歡這個方案，也可能不喜歡，但從根本上講，我們認為這最符合美國的利益”，“華盛頓將繼續追求這一目標”。（新華社）"
-    },
-    {
-      "id": "4925142",
-      "time": "2026-06-09 11:56:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓南部強震已致37人死亡 】菲律賓民防局9日統計資料顯示，菲南部棉蘭老島附近海域8日發生的7.8級強震已造成至少37人死亡、約500人受傷。菲民防局說，地震引發的山體滑坡、建築坍塌和墜落物導致人員傷亡。據當地媒體報道，在受災嚴重的薩蘭加尼省，一處山體滑坡掩埋房屋，導致14人死亡。"
-    },
-    {
-      "id": "4925140",
-      "time": "2026-06-09 11:55:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：2026年第一季度全球智慧手機銷量同比下滑5%，iOS市場份額達22%創歷年一季度新高】據Counterpoint諮詢，在市場環境持續承壓的背景下，2026年第一季度全球智慧手機銷量同比下滑5%。從作業系統層面的表現來看，能夠更深入地反映市場的底層變化趨勢。2026年第一季度，安卓系統全球市場份額降至73%，低於去年同期的76%，創下歷年第一季度份額新低。iOS市場份額達到22%，創下歷年一季度新高。HarmonyOS在中國市場份額回升至19%，扭轉了上季度的回落態勢，份額超越iOS。得益於Mate80系列與暢享90系列的市場表現，華為市場份額達到20%，創下自2020年第四季度以來的季度新高。"
-    },
-    {
-      "id": "4925139",
-      "time": "2026-06-09 11:54:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST豆神：AI算力中心等新型業務正在籌備階段中，目前無實際在手訂單】ST豆神6月9日在互動平臺表示，AI算力中心等新型業務正在籌備階段中，目前無實際在手訂單，存在無法實現或不達預期的風險 。後續如有進展，公司將按規定及時披露 。"
-    },
-    {
-      "id": "4925138",
-      "time": "2026-06-09 11:53:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：伊朗不排斥推進談判 但美必須拿出誠意】據美國方面8日訊息，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲在接受採訪時說，原則上，伊朗並不排斥與美國推進和談，但美國必須改變目前的行事方式，拿出自己的誠意。阿齊茲說，伊美雙方在伊朗核計劃、鈾濃縮等主要問題上仍存在分歧，雙方之間仍缺乏信任。此外，美國最初承諾即刻解凍伊朗的被凍結資產，但時至今日，伊朗仍未看到美方有兌現承諾的動向。當被問及伊美兩國最終是否有可能達成和平協議時，阿齊茲說，答案取決於美方後續的實際行動。"
-    },
-    {
-      "id": "mkt:019eaa83-2093-7eec-b848-1a7387737021",
-      "time": "2026-06-09 11:52:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran says talks possible if US shows sincerity】According to US reports, Ebrahim Azizi, chair of Iran’s parliamentary national security and foreign policy committee, said in an interview that Iran does not in principle rule out advancing talks with the US but Washington must change its current approach and demonstrate sincerity. He said major differences remain on Iran’s nuclear programme and uranium enrichment and that mutual trust is lacking. Azizi said the US originally promised to immediately unfreeze Iranian assets but Tehran has seen no sign of that; whether a peace agreement is possible depends on subsequent US actions."
-    },
-    {
-      "id": "mkt:019eaa82-f89c-7eec-b848-139f4fead16a",
-      "time": "2026-06-09 11:52:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【IDC: Q1 2026 global household cleaning-robot shipments 8.936 mln, +36.7% YoY】IDC tracking report: Q1 2026 global household cleaning-robot shipments totaled 8.936 mln units, up 36.7% YoY. Robotic vacuum shipments were 6.563 mln units, up 29.4% YoY. Leading vendors are increasing deployment in European markets."
-    },
-    {
-      "id": "4925137",
-      "time": "2026-06-09 11:52:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【IDC：第一季度全球家用清潔機器人市場出貨893.6萬臺 同比增長36.7%】國際資料公司（IDC）最新追蹤報告資料顯示，2026年第一季度，全球家用清潔機器人市場出貨893.6萬臺，同比增長36.7%。其中掃地機器人市場出貨656.3萬臺，同比增長29.4%，頭部廠商在歐洲市場佈局力度持續加大。"
     }
   ]
 }
