@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-16 22:49:48",
-  "count": 18342,
+  "updated": "2026-06-16 22:53:54",
+  "count": 18343,
   "items": [
+    {
+      "id": "4939055",
+      "time": "2026-06-16 22:52:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行：人工智慧培訓加拿大皇家銀行員工的速度快得 “令人難以置信”。"
+    },
+    {
+      "id": "4939053",
+      "time": "2026-06-16 22:50:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明陽集團與國航遠洋深化戰略合作】據明陽集團訊息，6月15日，國航遠洋運輸（集團）股份有限公司（簡稱“國航遠洋”）董事長、總裁王炎平一行到訪明陽集團，與明陽集團創始人、董事長張傳衛座談交流。雙方圍繞綠色能源產業鏈協同、海上風電物流保障、智慧運維創新等領域深度交流，達成全方位深化戰略合作共識，並簽署戰略合作協議，共同探索“新能源+航運”融合發展新路徑。"
+    },
+    {
+      "id": "4939052",
+      "time": "2026-06-16 22:50:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：北京雲中融信網路科技股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "mkt:019ed0e9-26b5-7dd8-b034-9517d811343a",
+      "time": "2026-06-16 22:50:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "According to an HKEX filing, Beijing Yunzhong Rongxin Network Technology Co. filed a listing application with HKEX."
+    },
     {
       "id": "mkt:019ed0e8-91cf-7dd8-b034-896c7ceb4431",
       "time": "2026-06-16 22:49:23",
@@ -9,6 +43,14 @@
         "MKT News"
       ],
       "text": "Lebanese army says it is operating in areas under Israeli aggression, removing unexploded aerial bombs, detecting and disposing of munitions and suspicious items, and clearing rubble to reopen roads."
+    },
+    {
+      "id": "4939051",
+      "time": "2026-06-16 22:49:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行：人工智慧助力團隊工作，大幅提升處理效率。"
     },
     {
       "id": "4939050",
@@ -168885,46 +168927,6 @@
         "Impact bullish"
       ],
       "text": "Stoxx Europe 600 turned negative after earlier gains of up to 0.8%."
-    },
-    {
-      "id": "te:economy:557716",
-      "time": "2026-06-09 22:53:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kenya",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Kenya Holds Key Policy Rate for 2nd Meeting — The Central Bank of Kenya left its benchmark interest rate at 8.75% on June 9, 2026, a second straight hold, saying policy remains appropriate to anchor inflation expectations and support exchange rate stability. Inflation rose for a third month to 6.7% in May, the highest since January 2024, driven by higher energy costs but remaining within the 5±2.5% target band. It is expected to stay within target in the near term, assuming the de-escalation of the Middle East conflict. The central bank said that support for the outlook will come from monetary policy actions, government measures such as fuel VAT cuts and subsidies, stable food prices driven by favorable weather, and exchange rate stability."
-    },
-    {
-      "id": "4926472",
-      "time": "2026-06-09 22:51:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "斯托克歐洲600指數抹去漲幅。"
-    },
-    {
-      "id": "4926471",
-      "time": "2026-06-09 22:50:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國銀行執行長：美國銀行市場業務趨勢好於15%的預期。"
-    },
-    {
-      "id": "mkt:019eacdd-1b4d-7dd1-a396-e214f00cfa57",
-      "time": "2026-06-09 22:50:31",
-      "tags": [
-        "MKT News",
-        "BAC.O",
-        "Impact bullish"
-      ],
-      "text": "BofA says its investment banking business is in good shape."
     }
   ]
 }
