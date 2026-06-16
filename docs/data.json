@@ -1,7 +1,284 @@
 {
-  "updated": "2026-06-16 09:57:33",
-  "count": 18222,
+  "updated": "2026-06-16 10:01:33",
+  "count": 18241,
   "items": [
+    {
+      "id": "mkt:019ece29-0fc2-7dd8-b01a-be40cc49fabc",
+      "time": "2026-06-16 10:00:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "National Bureau of Statistics: China's total retail sales of consumer goods rose 1.4% YoY in Jan-May 2026."
+    },
+    {
+      "id": "4937481",
+      "time": "2026-06-16 10:00:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家統計局：5月份國民經濟執行總體平穩 向新向優】今天上午十點，國務院新聞辦舉行新聞釋出會，國家統計局相關負責人表示，今年5月份，我國生產供給穩中有升，就業物價總體穩定，外貿韌性持續彰顯，新動能成長壯大，國民經濟延續總體平穩、向新向優的發展態勢。具體來看，工業生產加快，裝備製造業和高技術製造業較快增長。5月份，全國規模以上工業增加值同比增長4.5%，比上月加快0.4個百分點。服務業平穩增長，現代服務業發展向好。5月份，全國服務業生產指數同比增長4.4%，比上月加快0.1個百分點。市場銷售持續增長，服務零售增勢良好。1—5月份，社會消費商品和服務零售總額同比增長2.8%，其中，服務零售額增長5.4%，商品零售額增長1.2%。貨物進出口較快增長，貿易結構繼續最佳化。5月份，貨物進出口總額44516億元，同比增長16.9%，比上月加快2.7個百分點。"
+    },
+    {
+      "id": "mkt:019ece28-f21c-7dd8-b01a-b045a7508695",
+      "time": "2026-06-16 10:00:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "China National Bureau of Statistics: industrial value added for enterprises above designated size rose 4.5% in May 2026."
+    },
+    {
+      "id": "mkt:019ece28-d816-7dd8-b01a-a8101b3353b9",
+      "time": "2026-06-16 10:00:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "China's National Bureau of Statistics said Jan-May fixed-asset investment (excluding rural households) totaled 17.85 trillion yuan, down 4.1% YoY; investment in intellectual property products rose 9.3% YoY."
+    },
+    {
+      "id": "4937480",
+      "time": "2026-06-16 10:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【端午節假期全國口岸日均出入境人員將達220萬人次】端午佳節將至，預計全國口岸將迎來出入境客流高峰。據國家移民管理局預測，端午節假期全國口岸日均出入境人員將達220萬人次，較去年端午節假期增長11.7%，單日最高通關量將突破235萬人次。大型空港口岸出入境客流小幅增長，上海浦東、北京首都、廣州白雲、深圳寶安、北京大興、成都天府等國際機場日均出入境人員預計分別為10.4萬、5.2萬、5.2萬、2.1萬、1.9萬、1.7萬人次。"
+    },
+    {
+      "id": "mkt:019ece28-abbb-7dd8-b01a-a4d1da826189",
+      "time": "2026-06-16 10:00:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "China's National Bureau of Statistics said the economy in May remained broadly stable and showed a shift toward new drivers and higher-quality growth."
+    },
+    {
+      "id": "4937479",
+      "time": "2026-06-16 10:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國5月今年迄今城鎮固定資產投資同比 -4.1%，預期-2%，前值-1.60%。"
+    },
+    {
+      "id": "4937478",
+      "time": "2026-06-16 10:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國5月城鎮調查失業率 5.1%，預期5.20%，前值5.20%。"
+    },
+    {
+      "id": "mkt:019ece28-5bd5-7dd8-b01a-9b16aba4077a",
+      "time": "2026-06-16 10:00:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China's industrial output of enterprises above designated size rose 4.5% YoY in May, versus 4.3% expected and 4.1% in April."
+    },
+    {
+      "id": "4937477",
+      "time": "2026-06-16 10:00:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國5月規模以上工業增加值同比 4.5%，預期4.30%，前值4.10%。"
+    },
+    {
+      "id": "mkt:019ece28-4d31-7dd8-b01a-907c4571e477",
+      "time": "2026-06-16 10:00:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China May urban surveyed unemployment rate 5.1% (expected 5.2%; prior 5.2%)."
+    },
+    {
+      "id": "mkt:019ece28-4c08-7dd8-b01a-8f23d5fc1a09",
+      "time": "2026-06-16 10:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China May retail sales of consumer goods -0.6% YoY; consensus 0.0%, April +0.2%."
+    },
+    {
+      "id": "mkt:019ece28-4ba7-7dd8-b01a-8683b5e73172",
+      "time": "2026-06-16 10:00:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "China YTD through May urban fixed-asset investment -4.1% YoY, vs -2.0% expected and -1.6% prior."
+    },
+    {
+      "id": "4937476",
+      "time": "2026-06-16 10:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國5月社會消費品零售總額同比 -0.6%，預期0.00%，前值0.20%。"
+    },
+    {
+      "id": "mkt:019ece28-2ff3-7dd8-b01a-78a15bb6f2ee",
+      "time": "2026-06-16 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Output (YoY) (May) | actual 4.5% | consensus 4.30% | previous 4.10%"
+    },
+    {
+      "id": "mkt:019ece28-2f80-7dd8-b01a-68f5fc0d5370",
+      "time": "2026-06-16 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Survey Unemployment Rate (May) | actual 5.1% | consensus 5.20% | previous 5.20%"
+    },
+    {
+      "id": "mkt:019ece28-2f81-7dd8-b01a-71a8803affd8",
+      "time": "2026-06-16 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (YoY) (May) | actual -0.6% | consensus 0.00% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019ece28-2f7e-7dd8-b01a-60ed29d68a3b",
+      "time": "2026-06-16 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Fixed Asset Investment YTD (YoY) (May) | actual -4.1% | consensus -2% | previous -1.60%"
+    },
+    {
+      "id": "te:markets:559176",
+      "time": "2026-06-16 09:59:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Strengthens Ahead of BOJ Decision — The Japanese yen strengthened toward 160 per dollar on Tuesday, recovering from the previous session’s losses as investors awaited the Bank of Japan’s policy decision. The central bank is widely expected to raise its benchmark interest rate by 25 basis points to 1% in an effort to contain inflation and support the currency. The yen had faced sustained selling pressure in recent weeks as traders increased short positions amid persistent carry trades, borrowing in the low-yielding Japanese currency to invest in higher-yielding alternatives. The trend has reflected the wide interest rate differential between Japan and the US, which has largely offset the BOJ’s gradual policy tightening and repeated currency intervention efforts by Tokyo. Investors also continued to monitor geopolitical developments amid expectations that the US and Iran will sign a peace agreement in Switzerland on Friday, a move that could lead to the reopening of the Strait of Hormuz."
+    },
+    {
+      "id": "4937475",
+      "time": "2026-06-16 09:59:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理：不知美伊協議條款，有無協議伊朗都不得擁核】以色列總理內塔尼亞胡15日說，以色列“並不知道”美國和伊朗達成的協議具體包含哪些內容。內塔尼亞胡說，無論是否達成協議，“伊朗都不會擁有核武器”。他還說，以方襲擊給伊朗造成“巨大損失”。（新華社）"
+    },
+    {
+      "id": "4937474",
+      "time": "2026-06-16 09:59:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【非金屬材料板塊持續拉昇，金戈新材30cm漲停】非金屬材料板塊持續拉昇，金戈新材30cm漲停，聯瑞新材、三祥新材、東方碳素跟漲。"
+    },
+    {
+      "id": "4937473",
+      "time": "2026-06-16 09:58:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【滬鋁期價暴跌，中原鋁市成交價居高】昨日夜盤及今日早盤滬鋁期貨價格暴跌，中原市場下游加工企業接貨情緒有多回暖，備貨意願提升。期現貿易商傾向於快速賺取價差，挺價惜售情緒顯著，帶動市場報價居高不下。最終中原市場實際成交價格區間圍繞在對滬鋁07合約貼水120-140元/噸之間。（SMM）"
+    },
+    {
+      "id": "4937472",
+      "time": "2026-06-16 09:58:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【清微智慧IPO輔導狀態變更為“輔導驗收”】證監會網站顯示，近日，北京清微智慧科技股份有限公司IPO輔導狀態變更為“輔導驗收”，輔導券商為華泰聯合證券。"
+    },
+    {
+      "id": "4937471",
+      "time": "2026-06-16 09:58:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量583億元。"
+    },
+    {
+      "id": "mkt:019ece25-d253-7dd8-b01a-5de08f133433",
+      "time": "2026-06-16 09:57:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share electronic components sector rallied again; Yihao New Materials jumped more than 16%, Benchuan Intelligent rose over 12%; Baoding Technology and Chaoying Electronics closed at the daily limit, Fenghua High-Tech touched the limit, while Xianfeng Holdings and Fara Electronics also gained."
+    },
+    {
+      "id": "mkt:019ece25-a6de-7dd8-b01a-5258c783b8d7",
+      "time": "2026-06-16 09:57:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【China comprehensive bonded zones' goods trade up 27.1% in first five months】At a policy briefing on measures to expand and upgrade comprehensive bonded zones, officials said goods import‑export through China’s comprehensive bonded zones totaled 3.5 trillion yuan in the first five months, up 27.1% YoY and representing 16.9% of national import‑export value. The zones cover just 0.005% of China’s land area but account for roughly one‑sixth of the country’s foreign trade, the briefing added."
+    },
     {
       "id": "4937470",
       "time": "2026-06-16 09:56:29",
@@ -167436,73 +167713,6 @@
         "MKT News"
       ],
       "text": "Indonesia's benchmark stock index rose 1.4% in early trade."
-    },
-    {
-      "id": "mkt:019eaa1c-ed5a-7997-8099-5b91cf6abb5e",
-      "time": "2026-06-09 10:01:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact mixed",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share controlled nuclear fusion concept stocks spiked intraday; Aikesaibo jumped over 16%, with Hongwei Technology, Juguang Technology, Rongfa Nuclear Power and Binglun Environment also higher. Media reported Alibaba has held talks with central nuclear power SOEs to explore using small reactors to power data centres."
-    },
-    {
-      "id": "4924988",
-      "time": "2026-06-09 10:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【檢察機關依法對韓松涉嫌受賄案提起公訴】從最高人民檢察院獲悉，陝西省西安市人大常委會原黨組書記、主任韓松涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對韓松作出逮捕決定，並指定由甘肅省蘭州市人民檢察院審查起訴。近日，蘭州市人民檢察院已向蘭州市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人韓松享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人韓松利用擔任原國家工商行政管理總局宣傳中心主任兼辦公廳副主任，陝西省西安市委常委、副市長，西安國際港務區管委會黨工委書記、主任，西安市委副書記、政法委書記，西安市人大常委會黨組書記、主任等職務上的便利，為他人謀取利益，以及利用本人職權或者地位形成的便利條件，透過其他國家工作人員職務上的行為，為他人謀取不正當利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。"
-    },
-    {
-      "id": "4924987",
-      "time": "2026-06-09 09:59:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【烏克蘭獲得歐盟28億歐元金融援助】烏克蘭財政部8日在官網釋出訊息稱，烏方獲得歐盟28億歐元金融援助。算上此次援助，烏方已從歐盟獲得295億歐元援助。烏財政部稱，這28億歐元援助將優先用於國家財政支出，尤其是滿足社會和人道主義需求。（新華社）"
-    },
-    {
-      "id": "4924986",
-      "time": "2026-06-09 09:58:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【靈心巧手、繼峰股份合資成立智慧機器人公司】企查查APP顯示，近日，寧波繼巧智慧機器人有限公司成立，註冊資本5000萬元，經營範圍包含：智慧機器人的研發；智慧機器人銷售；特殊作業機器人制造；智慧基礎製造裝備製造等。企查查股權穿透顯示，該公司由繼峰股份、靈心巧手（北京）科技股份有限公司共同持股。"
-    },
-    {
-      "id": "4924985",
-      "time": "2026-06-09 09:58:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【德媒：德法決定停止聯合研發戰鬥機】據多家德國媒體8日報道，因合作企業間分歧難以彌合，德國和法國已決定停止“未來空中作戰系統”框架下的戰鬥機聯合研發專案。 德國電視一臺《今日新聞》欄目網站援引政府知情人士的話說，德國總理默茨與法國總統馬克龍已達成共識，專案合作方法國達索公司與代表德國、西班牙兩國利益的空中客車公司未能在聯合研製戰鬥機問題上達成一致。默茨向馬克龍提議叫停該戰鬥機研發計劃。 報道說，雖然聯合研發被叫停，但德法兩國仍計劃繼續推進該框架下的“戰鬥雲”系統開發。該系統旨在透過網路將各種武器系統、平臺和感測器進行連線。 德法兩國於2017年宣佈將聯合研發包括下一代戰機等在內的“未來空中作戰系統”，西班牙之後加入。該專案曾被視為歐洲防務合作的標誌性專案，然而，達索與空客在專案主導權等方面存在嚴重分歧，專案進展受阻。(新華社)"
-    },
-    {
-      "id": "4924984",
-      "time": "2026-06-09 09:57:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【模擬晶片概念震盪走高 傑華特20cm漲停】早盤模擬晶片概念震盪走高，傑華特20cm漲停，晶豐明源漲超10%，芯朋微、賽微微電、納芯微、南芯科技等跟漲。"
-    },
-    {
-      "id": "mkt:019eaa19-c449-7997-8099-547822245620",
-      "time": "2026-06-09 09:57:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba"
-      ],
-      "text": "【Alibaba in talks with central nuclear power SOE to explore small modular reactors for data-center power】A source at a central nuclear power state-owned enterprise said Alibaba has approached them to discuss building small modular reactors (SMRs) to supply power to its Hangzhou Renhe data center, which has substantial electricity demand. The Renhe site, Zhejiang's first cloud computing data center, supplies compute capacity for AI workloads."
     }
   ]
 }
