@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-17 02:28:26",
-  "count": 18428,
+  "updated": "2026-06-17 02:32:31",
+  "count": 18430,
   "items": [
+    {
+      "id": "4939282",
+      "time": "2026-06-17 02:31:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶76.05美元，下跌4.70美元，跌幅5.82%。"
+    },
+    {
+      "id": "4939281",
+      "time": "2026-06-17 02:31:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾基亞：將把基站產能提升至當前水平的十倍，新增產能將於第三季度末前投產。"
+    },
+    {
+      "id": "4939280",
+      "time": "2026-06-17 02:30:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院共和黨領袖圖恩：（針對克萊頓缺乏情報領域從業背景一事）紐約南區聯邦檢察官本身就需要處理各類情報相關事務。"
+    },
+    {
+      "id": "4939279",
+      "time": "2026-06-17 02:30:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院共和黨領袖圖恩談及國家情報總監提名候選人傑伊·克萊頓：我們期待本週完成對他的相關稽核流程，想要在本週完成他的提名確認，需要各方配合，目前這一結果尚無法保證。"
+    },
+    {
+      "id": "te:markets:559438",
+      "time": "2026-06-17 02:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Drops by 1.66% — Top crypto losers are Binance (-1.66%), XRP (-1.22%), Bitcoin (-0.66%) and Ether (-0.09%)."
+    },
+    {
+      "id": "4939278",
+      "time": "2026-06-17 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌3.93%，報508.90元人民幣/桶。滬金夜盤收跌0.06%，滬銀收跌0.07%。"
+    },
+    {
+      "id": "4939277",
+      "time": "2026-06-17 02:29:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院共和黨領袖圖恩：住房法案的落地事宜已 “近在咫尺”。"
+    },
+    {
+      "id": "mkt:019ed1b1-ebdf-7dd8-b038-ede62aaa694e",
+      "time": "2026-06-17 02:29:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senate Republican leader Thune said the Senate will hold a procedural vote today on a bipartisan housing bill, but there are still unresolved issues in the measure."
+    },
+    {
+      "id": "mkt:019ed1b1-a859-7dd8-b038-e632443a3bff",
+      "time": "2026-06-17 02:29:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Senate Republican leader John Thune said he believes Senate Minority Leader Chuck Schumer and Democrats appear to want another government shutdown."
+    },
+    {
+      "id": "4939276",
+      "time": "2026-06-17 02:28:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【法國央行新行長稱無鷹派或鴿派傾向 決策將以資料為依據】法國央行行長Emmanuel Moulin表示，他在歐洲央行的政策選擇將以資料為依據，並沒有預先傾向加息或降息。Moulin上週首次出席歐洲央行貨幣政策會議，當時決策者一致決定上調借貸成本，以遏制通脹在經濟中蔓延。"
+    },
     {
       "id": "4939275",
       "time": "2026-06-17 02:26:47",
@@ -169446,88 +169538,6 @@
         "MKT News"
       ],
       "text": "Google (GOOG.O) is providing backstop support for Anthropic’s $35 billion chip deal. With Google’s assistance, Anthropic will lease chips at five data centers."
-    },
-    {
-      "id": "4926622",
-      "time": "2026-06-10 02:31:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 7月原油期貨收跌3.10美元，跌幅3.40%，報88.20美元/桶。NYMEX 7月天然氣期貨收報3.14美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0211美元/加侖，NYMEX 7月取暖油期貨收報3.5418美元/加侖。"
-    },
-    {
-      "id": "mkt:019eada7-417b-7225-91aa-29de5c4d1701",
-      "time": "2026-06-10 02:31:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Night session main contracts close】As of 02:30 close, Shanghai gold main contract fell 1.51% to 935 yuan/gram; Shanghai silver main contract fell 4.06% to 15,758 yuan/kg; SC crude oil main contract fell 2.11% to 575 yuan/barrel."
-    },
-    {
-      "id": "mkt:019eada6-9dd2-7225-91aa-27f3fcb9110e",
-      "time": "2026-06-10 02:30:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 1.54% to 932.0 yuan/gram in Tuesday evening trade (June 9); Silver T+D fell 3.64% to 15,750.0 yuan/kg."
-    },
-    {
-      "id": "4926621",
-      "time": "2026-06-10 02:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX首次公開募股已吸引超 2500 億美元投資意向資金。"
-    },
-    {
-      "id": "mkt:019eada6-36b0-7225-91aa-1d37644b4ee2",
-      "time": "2026-06-10 02:30:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O): ANTHROPIC's latest frontier model Claude Fable 5 is now generally available on Google Cloud."
-    },
-    {
-      "id": "te:markets:557770",
-      "time": "2026-06-10 02:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 2.51% — Top crypto losers are Ether (-2.51%), Bitcoin (-2.22%) and Binance (-1.43%)."
-    },
-    {
-      "id": "4926620",
-      "time": "2026-06-10 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌2.11%，報575.00元人民幣/桶。滬金夜盤收跌1.51%，滬銀收跌4.06%。"
-    },
-    {
-      "id": "4926619",
-      "time": "2026-06-10 02:28:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：Anthropic 最新前沿模型 Claude Fable 5 現已在谷歌雲全面上線。"
     }
   ]
 }
