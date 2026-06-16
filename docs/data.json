@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-16 14:19:54",
-  "count": 18323,
+  "updated": "2026-06-16 14:23:56",
+  "count": 18319,
   "items": [
+    {
+      "id": "4937873",
+      "time": "2026-06-16 14:22:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度取消在農村地區銷售止咳糖漿的豁免政策。"
+    },
+    {
+      "id": "4937872",
+      "time": "2026-06-16 14:22:10",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【報告：紐商所黃金期貨料將測試每盎司4,400美元阻力位】RHB Retail Research的Joseph Chai在一份研究報告中表示，根據日線圖，紐商所黃金期貨料將測試每盎司4,400美元的阻力位。該分析師表示，該期貨週一連續第二個交易日反彈，最新價格走勢表明市場情緒已轉為樂觀。不過Chai表示，50日簡單移動平均線呈下降趨勢，對該大宗商品構成下行壓力。該分析師補充說，如果該大宗商品未能升破這一阻力位，可能會導致價格恢復下行趨勢，跌向每盎司4,000美元的初步支撐位。現貨黃金上漲0.2%，報每盎司4,316.78美元。"
+    },
+    {
+      "id": "4937871",
+      "time": "2026-06-16 14:21:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度就擬建中東管道的報道作出澄清：目前沒有與海灣國家就該專案進行積極磋商。"
+    },
+    {
+      "id": "4937869",
+      "time": "2026-06-16 14:21:11",
+      "tags": [
+        "央行",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通2026年下半年展望：AI仍是主引擎 看好風險資產】摩根大通近日釋出2026年下半年展望，認為屆時全球宏觀經濟仍將高度不確定，主要取決於中東衝突的走向。AI浪潮、地緣分裂、通脹頑固、就業改善和央行加息，將共同影響全球金融市場。該機構指出，強勁的基本面將使AI上游主題繼續成為增長主引擎，資本支出週期將進一步擴充套件和深化。美國依然是核心，憑藉領先的私人資本投資佔據中心位置，但部分新興市場也表現出對AI超級週期的高度敏感。（上證報）"
+    },
+    {
+      "id": "4937868",
+      "time": "2026-06-16 14:20:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美銀：受益於全球科技週期上行 中國出口持續保持強勁】美銀證券日前釋出研究報告，資料顯示，中國5月出口同比增速加快至19.4%，繼續超出市場預期。進口增速也保持高位，5月同比增長27.4%。報告預計全球半導體上升週期將保持完整，繼續支撐高技術產品和中間零部件的進出口。該機構對中國的短期出口前景維持建設性看法。（上證報）"
+    },
+    {
+      "id": "mkt:019ecf16-73b4-7dd8-b022-43701d444dae",
+      "time": "2026-06-16 14:20:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P/ASX 200 closed up 0.5 points (+0.01%) at 8,914.50 on Tuesday, June 16."
+    },
+    {
+      "id": "mkt:019ecf16-5755-7dd8-b022-3a32bae8e7cb",
+      "time": "2026-06-16 14:20:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "BANK OF JAPAN Deputy Governor UCHIDA will hold a monetary policy press conference in ten minutes."
+    },
+    {
+      "id": "4937867",
+      "time": "2026-06-16 14:19:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度方面表示，沒有修建深水管道的提議。"
+    },
     {
       "id": "4937866",
       "time": "2026-06-16 14:19:10",
@@ -168385,121 +168459,6 @@
         "國際"
       ],
       "text": "根據倫敦證券交易所集團（LSEG）資料，印尼10年期政府債券收益率<ID10YT=RR>躍升20.4個基點，至7.517%。"
-    },
-    {
-      "id": "mkt:019eab0c-ad47-7ee8-a200-db8e2f975a45",
-      "time": "2026-06-09 14:23:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 closed down 14.6 pts (-0.17%) at 8,610.50 on Tuesday, June 9."
-    },
-    {
-      "id": "4925334",
-      "time": "2026-06-09 14:23:13",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【印尼國債拋售潮持續 五年期收益率飆升】印尼國債市場的拋售潮加劇，其五年期國債收益率升至六年多來的高位。印尼五年期國債收益率上漲17個基點至7.5%以上，為2020年5月以來的最高水平，投資者因擔憂總統普拉博沃的干預主義經濟議程及支出計劃而紛紛拋售國債。與此同時，在印尼央行為維護本幣匯率而舉行非常規會議並加息後，印尼盾從接近紀錄低位的水平回升。股市也從近期跌勢中反彈，基準股指創下逾一年來的最大盤中漲幅。隨著海外投資者對該國經濟監管失去信心，其國債市場仍深陷下行趨勢。“政府提振市場信心的努力未能緩解市場對經濟管理的謹慎，”駐新加坡的Skandinaviska Enskilda Banken亞洲策略主管Eugenia Victorino表示。“印尼資產不太可能反彈，除非這些擔憂得到令人信服的解決。”"
-    },
-    {
-      "id": "4925333",
-      "time": "2026-06-09 14:23:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【諶貽琴訪問保加利亞】應保加利亞政府邀請，6月6日至8日，國務委員諶貽琴率團訪保，同保總統約託娃、總理拉德夫分別會見，同副總理多內夫舉行會談。 諶貽琴介紹了中國經濟社會發展成就和“十五五”規劃民生領域重點工作，表示中方高度重視中保關係發展，願同保方密切政治、經濟、民生、人文等各領域交流合作，加強多邊對話協調，推動中保戰略伙伴關係實現更大發展。保方領導人高度評價保中關係，表示兩國各領域合作潛力很大，願同中方攜手持續豐富兩國戰略伙伴關係內涵，推動兩國互利合作結出更多碩果。 訪保期間，諶貽琴同多內夫副總理共同見證中國人力資源和社會保障部與保加利亞勞動和社會政策部簽署部門間合作意向書，並調研保加利亞職業技能培訓情況。(新華社)"
-    },
-    {
-      "id": "4925332",
-      "time": "2026-06-09 14:22:47",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "斯特蘭蒂斯、Bolt與小馬智行啟動自動駕駛出行測試。"
-    },
-    {
-      "id": "4925331",
-      "time": "2026-06-09 14:22:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲2%，現報8235.00點。"
-    },
-    {
-      "id": "4925330",
-      "time": "2026-06-09 14:21:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本40年期國債收益率下降4個基點，報3.760%。"
-    },
-    {
-      "id": "te:economy:557525",
-      "time": "2026-06-09 14:21:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "German Trade Surplus Smallest in 5 Months — Germany’s trade surplus narrowed to €14.5 billion in April 2026 from an upwardly revised €14.7 billion in March, falling short of market expectations of €15.0 billion. It was the smallest trade surplus since November, as imports grew faster than exports. Exports unexpectedly increased by 0.9% month-on-month to a near 3½-year high of €136.6 billion, accelerating from a downwardly revised 0.3% gain in March and easily beating expectations of a 0.3% decline. Shipments to EU member states increased 1.0%, while those to third countries rose 0.7%. Meanwhile, imports climbed 1.2% month-on-month to €122.1 billion, the highest level since November 2022, though easing from a downwardly revised 4.5% increase in March."
-    },
-    {
-      "id": "mkt:019eab0a-b822-7ee8-a200-d4f490b9288e",
-      "time": "2026-06-09 14:21:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China private funds with AUM ≥ CNY10 bln post YTD average return above 10%】Of 97 private funds with disclosed performance, YTD average return is 10.60%; 92 funds (94.85%) reported positive returns."
-    },
-    {
-      "id": "mkt:019eab0a-89a4-7ee8-a200-ce4c4dbcc355",
-      "time": "2026-06-09 14:20:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's 40-year bond yield fell 4 bps to 3.760%."
-    },
-    {
-      "id": "4925329",
-      "time": "2026-06-09 14:20:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債<JP30YTN=JBTC>收益率下跌8個基點，至3.855%。"
-    },
-    {
-      "id": "te:economy:557522",
-      "time": "2026-06-09 14:20:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Danish Trade Surplus Widens in April — Denmark’s seasonally adjusted trade surplus widened to DKK 32.8 billion in April 2026 from a downwardly revised DKK 31.4 billion in March. Exports edged up 0.4% month-over-month to DKK 188.9 billion, led by a 3.3% rise in services exports more than offset a 1.5% decline in goods exports. Meanwhile, imports fell 0.4% to DKK 156.1 billion, reflecting a 1.7% drop in goods imports despite a 1.0% rise in services imports. For the first four months of 2026, Denmark recorded a trade surplus of DKK 114.9 billion, up from DKK 100.1 billion over the same period in the previous year."
-    },
-    {
-      "id": "4925328",
-      "time": "2026-06-09 14:19:56",
-      "tags": [
-        "市場",
-        "其他"
-      ],
-      "text": "【百億私募年內平均收益率超10%】私募排排網資料顯示，有業績展示的97家百億私募，今年以來平均收益率達10.60%，其中92家實現正收益，佔比高達94.85%。"
     }
   ]
 }
