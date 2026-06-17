@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-18 02:27:14",
-  "count": 18577,
+  "updated": "2026-06-18 02:31:17",
+  "count": 18581,
   "items": [
+    {
+      "id": "4941645",
+      "time": "2026-06-18 02:30:40",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什召開新聞釋出會。"
+    },
+    {
+      "id": "mkt:019ed6d9-4d2e-7dd8-b05e-c72b1e8917b8",
+      "time": "2026-06-18 02:30:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.82% at 933.0 yuan/gram in the evening session on June 17 (Wed); silver T+D closed down 1.28% at 16,567.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:559803",
+      "time": "2026-06-18 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 1.39% — Top crypto losers are XRP (-1.39%), Ether (-1.37%) and Bitcoin (-0.32%)."
+    },
+    {
+      "id": "4941644",
+      "time": "2026-06-18 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.80%，報517.00元人民幣/桶。滬金夜盤收跌0.84%，滬銀收跌1.36%。"
+    },
+    {
+      "id": "4941643",
+      "time": "2026-06-18 02:29:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【七國集團峰會閉幕 連續兩年無聯合公報】為期3天的七國集團峰會17日在法國埃維昂萊班閉幕，沒有釋出七國領導人聯合公報。這是繼2025年加拿大卡納納斯基斯峰會後，七國集團再一次未能達成聯合公報。峰會期間陸續釋出了9份聚焦具體議題的成果檔案，涵蓋領域包括地緣政治、經濟增長、公共衛生等。 (新華社)"
+    },
+    {
+      "id": "mkt:019ed6d8-ad3a-7dd8-b05e-bf050ededb1d",
+      "time": "2026-06-18 02:29:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "XAUUSD"
+      ],
+      "text": "【Goldman Sachs: Fed can barely avoid a hike; inflation is the key variable】Goldman Sachs Asset Management analyst Kay Haigh said today's Fed decision confirms the recent hawkish shift is not solely driven by higher oil. Despite a pullback in oil, half of FOMC participants expect a rate increase as early as this year, reflecting a strong labor market and inflation prints. Goldman’s base case remains that the Fed can narrowly avoid raising rates, but the path is tight and incoming inflation data will carry high weight."
+    },
+    {
+      "id": "mkt:019ed6d7-91cf-7dd8-b05e-b6354ed177cc",
+      "time": "2026-06-18 02:28:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Middle East conflict reshapes Fed expectations: nearly half of policymakers shift toward rate-hike outlook; inflation forecasts revised up】Nearly half of Federal Reserve policymakers no longer believe that holding borrowing costs steady would be sufficient to bring inflation back to 2% if oil prices spike after a war involving Iran. The Fed's latest dot plot shows views on the rate path shifting from how long to hold rates before cuts to growing concern about the need for additional hikes; some officials now expect rate increases. Wednesday's projections revised inflation sharply higher since March: median PCE YoY is now seen at 3.6% by year-end (March: 2.7%), median core PCE YoY at 3.3% (March: 2.7%). Median year-end unemployment is 4.3% — matching May's reading and below March's 4.4% — indicating policymakers increasingly see the labor market as not weakening and reducing the case for rate cuts."
+    },
+    {
+      "id": "em:qqyh_mlc:202606183775041186",
+      "time": "2026-06-18 02:26:48",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "利率期貨定價美聯儲到年底將加息30個基點，較美聯儲利率決議前上升約9個基點。"
+    },
     {
       "id": "mkt:019ed6d5-896b-7dd8-b05e-ab9930cc973b",
       "time": "2026-06-18 02:26:18",
@@ -170985,44 +171073,6 @@
         "Impact bullish"
       ],
       "text": "【Night session main contracts close】At the night session close at 02:30, SHFE gold main contract fell 3.37% to 899 yuan/gram, SHFE silver main contract fell 1.08% to 15,604 yuan/kg, and Shanghai crude (SC) main contract rose 1.94% to 584 yuan/barrel."
-    },
-    {
-      "id": "mkt:019eb2cd-8853-7dd8-afaa-85c0c1541fd7",
-      "time": "2026-06-11 02:31:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 2.19% at 896.69 yuan/gram in Wednesday evening trade on June 10; silver T+D closed up 0.17% at 15,564.0 yuan/kg."
-    },
-    {
-      "id": "4928890",
-      "time": "2026-06-11 02:30:50",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國原油期貨收於每桶90.03美元，上漲1.83美元，漲幅2.07%。"
-    },
-    {
-      "id": "4928889",
-      "time": "2026-06-11 02:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲1.94%，報584.20元人民幣/桶。滬金夜盤收跌3.37%，滬銀收跌1.08%。"
-    },
-    {
-      "id": "4928888",
-      "time": "2026-06-11 02:29:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：特朗普因伊朗拖延兩週未回應相關提議心生不滿。"
     }
   ]
 }
