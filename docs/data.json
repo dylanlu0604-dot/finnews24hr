@@ -1,7 +1,134 @@
 {
-  "updated": "2026-06-18 00:04:47",
-  "count": 18397,
+  "updated": "2026-06-18 00:08:54",
+  "count": 18403,
   "items": [
+    {
+      "id": "te:markets:559783",
+      "time": "2026-06-18 00:07:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.10% Higher — The FTSE 100 Index rose 10 points or 0.10 percent on Wednesday to close at 10504 points. Leading the gains are Endeavour (4.48%), Barclays (3.40%) and Persimmon (3.25%). Top losers were Entain (-4.45%), Marks & Spencer (-3.28%) and Halma (-3.13%)."
+    },
+    {
+      "id": "mkt:019ed656-2c0b-7dd8-b058-83f9c43e6c1a",
+      "time": "2026-06-18 00:07:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump praised French President Macron."
+    },
+    {
+      "id": "4941460",
+      "time": "2026-06-18 00:06:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普讚揚馬克龍。"
+    },
+    {
+      "id": "mkt:019ed655-06b7-7dd8-b058-7f1c25b4fbc6",
+      "time": "2026-06-18 00:05:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump: The stock market understands matters better than anyone."
+    },
+    {
+      "id": "4941459",
+      "time": "2026-06-18 00:05:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：股市表現遠超所有人預期。"
+    },
+    {
+      "id": "mkt:019ed654-4a2c-7dd8-b058-76168d325166",
+      "time": "2026-06-18 00:05:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump says he does not want to see an economic disaster."
+    },
+    {
+      "id": "mkt:019ed654-350d-7dd8-b058-6b16138e40c6",
+      "time": "2026-06-18 00:05:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says he believes Iran's behavior will change significantly."
+    },
+    {
+      "id": "4941458",
+      "time": "2026-06-18 00:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不願目睹經濟災難發生。"
+    },
+    {
+      "id": "4941457",
+      "time": "2026-06-18 00:04:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為伊朗今後的行事作風將會大為改觀。"
+    },
+    {
+      "id": "mkt:019ed653-fcc7-7dd8-b058-6179c11cf139",
+      "time": "2026-06-18 00:04:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister Durigan said he is highly concerned about inflation. Recent fuel measures underscore the government's focus on inflation."
+    },
+    {
+      "id": "4941455",
+      "time": "2026-06-18 00:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：過去兩天提供了與盟友討論伊朗問題的機會，與盟友討論了伊朗協議的細節，各方對我們達成協議感到非常高興。"
+    },
+    {
+      "id": "mkt:019ed653-1895-7dd8-b058-5c8b5d5a9c13",
+      "time": "2026-06-18 00:03:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump: They are very excited about the deal we reached."
+    },
+    {
+      "id": "mkt:019ed652-ea6e-7dd8-b058-50a0942e5d1e",
+      "time": "2026-06-18 00:03:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he discussed details of the Iran deal with allies."
+    },
+    {
+      "id": "mkt:019ed652-deb1-7dd8-b058-4c811cc200ed",
+      "time": "2026-06-18 00:03:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said bombing would continue for weeks if no deal is reached with Iran."
+    },
     {
       "id": "mkt:019ed652-a87d-7dd8-b058-4225220dd287",
       "time": "2026-06-18 00:03:21",
@@ -169094,88 +169221,6 @@
         "MKT News"
       ],
       "text": "Trump signed a $70 billion bill to provide funding for U.S. Immigration and Customs Enforcement (ICE) and Border Patrol."
-    },
-    {
-      "id": "mkt:019eb24a-c951-7dd8-afa8-c918d01ff05e",
-      "time": "2026-06-11 00:08:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TRUMP on Iran said the U.S. has obtained millions of barrels of oil."
-    },
-    {
-      "id": "4928781",
-      "time": "2026-06-11 00:07:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我們每晚截獲數百萬桶石油。"
-    },
-    {
-      "id": "mkt:019eb249-bf76-7dd8-afa8-c1958b456974",
-      "time": "2026-06-11 00:07:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said the situation in Iran does not appear as smooth as the Venezuela operation."
-    },
-    {
-      "id": "te:markets:558135",
-      "time": "2026-06-11 00:07:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.30% Higher — The FTSE 100 Index rose 30 points or 0.30 percent on Wednesday to close at 10258 points. Leading the gains are Frasers Group (3.91%), Entain (3.19%) and Land Securities (3.10%). Top losers were Endeavour (-4.02%), Vistry Group (-3.21%) and Mondi (-2.33%)."
-    },
-    {
-      "id": "4928780",
-      "time": "2026-06-11 00:06:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為伊朗會希望達成協議。"
-    },
-    {
-      "id": "mkt:019eb249-550b-7dd8-afa8-bf329908d751",
-      "time": "2026-06-11 00:06:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O) launches DiffusionGemma."
-    },
-    {
-      "id": "4928779",
-      "time": "2026-06-11 00:06:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌推出DiffusionGemma。\n注：DiffusionGemma是谷歌開發的基於擴散模型的生成式AI開源模型，由其Gemma大語言模型系列衍生而來。"
-    },
-    {
-      "id": "4928778",
-      "time": "2026-06-11 00:05:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞調查與指控委員會成員否認暫停總統佩特羅職務】當地時間10日，哥倫比亞眾議員、調查與指控委員會成員亞歷杭德羅·奧坎波表示，該委員會並未作出暫停總統佩特羅職務的決定。奧坎波說：“我希望向公眾說明，目前並沒有針對總統佩特羅作出任何決定。一些媒體所稱‘調查與指控委員會已暫停佩特羅總統職務’的說法並不屬實。”（央視新聞）"
     }
   ]
 }
