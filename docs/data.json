@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-17 12:46:18",
-  "count": 18336,
+  "updated": "2026-06-17 12:50:21",
+  "count": 18334,
   "items": [
+    {
+      "id": "mkt:019ed3e9-b383-7dd8-b042-1e3b9a54ccd9",
+      "time": "2026-06-17 12:49:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Al Jazeera reported Israeli forces launched 10 missiles toward southern Lebanon's Nebetiyeh region."
+    },
+    {
+      "id": "4939971",
+      "time": "2026-06-17 12:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交媒體發文： 昨晚我取得了許多重大的選舉勝利。感謝大家。注：在剛剛過去的週二（6月16日），美國佐治亞州（Georgia）、俄克拉荷馬州（Oklahoma）等地舉行了關鍵的國會議員和州長初選決選。在這幾場選舉中，特朗普公開背書的幾位黨內親信取得了勝利。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202606173774298427",
+      "time": "2026-06-17 12:47:07",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本5月出口增速創三年半最快 晶片出口激增61%】本週三，日本財政部門公佈的初步貿易資料顯示，日本5月份貿易逆差達3786億日元（約合人民幣159.55億元），這是四個月來首次出現逆差。"
+    },
+    {
+      "id": "4939970",
+      "time": "2026-06-17 12:46:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快手：持續打擊劇情演繹黑灰產，配合有關部門抓獲34名犯罪嫌疑人】近日，快手安全中心在直播治理中發現，一些不法分子虛構富豪、法師、高官等人設，以劇情演繹方式向中老年使用者高價售賣低價值商品，並承諾高價回收，誘騙中老年使用者下單購買，實施詐騙行為。對此，快手安全中心不斷升級風控策略，提升違規線索識別、研判和處置能力，嚴肅處理違規內容及賬號，針對查實詐騙線索，依法固定證據並移交有關部門處理。今年以來，快手安全中心協助有關部門抓獲劇情演繹詐騙犯罪嫌疑人共34名。（快手黑板報）"
+    },
     {
       "id": "te:markets:559573",
       "time": "2026-06-17 12:45:10",
@@ -168643,62 +168680,6 @@
         "Importance 1"
       ],
       "text": "Dutch Manufacturing Growth Eases — Manufacturing production in the Netherlands increased by 1.4% month-on-month in April 2026, slowing from a more than two-year high of 2.8% in the previous month. Growth slowed across several industries, including food (1.1% vs 1.4% in March), petroleum (2.3% vs 10.7%), chemicals (0.2% vs 1.9%), building materials (0.4% vs 2.2%), and machinery (3.9% vs 4.4%). In contrast, output rebounded in textiles (4.7% vs -2.1%), leather and footwear (5.3% vs -10.1%), and basic metals (0.2% vs -2.3%). On a yearly basis, manufacturing production climbed to 4.7% from 1.9% in March, marking its strongest annual gain since October 2022."
-    },
-    {
-      "id": "4927307",
-      "time": "2026-06-10 12:50:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本氣象廳：厄爾尼諾現象似乎自2026年春季起已經形成。"
-    },
-    {
-      "id": "4927306",
-      "time": "2026-06-10 12:49:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "日韓晶片股延續早盤跌勢，軟銀集團跌超10%，三星電子跌7%。"
-    },
-    {
-      "id": "4927305",
-      "time": "2026-06-10 12:47:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數進一步下跌，最新跌6.5%；SK海力士股價下跌9%。"
-    },
-    {
-      "id": "mkt:019eafdb-9f37-799a-b41c-30c825da1509",
-      "time": "2026-06-10 12:47:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "9984.T",
-        "Impact bearish"
-      ],
-      "text": "SoftBank Group shares fell 10%."
-    },
-    {
-      "id": "mkt:019eafda-720f-799a-b41c-2b95bde99ad5",
-      "time": "2026-06-10 12:46:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Kazakhstan's energy minister says maintenance at the Kashagan oilfield in 2027 will last 35-40 days."
-    },
-    {
-      "id": "4927304",
-      "time": "2026-06-10 12:46:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【火山方舟版權商業化平臺上線，周星馳經典影視IP入駐】6月10日，火山方舟版權商業化平臺正式上線。同期，火山引擎與周星馳旗下比高集團達成版權合作，周星馳經典影視IP首批入駐平臺。透過與周星馳旗下比高集團合作，火山引擎已正式獲得《喜劇之王》《食神》《長江七號》三部影片在AI影片創作場景下的版權使用許可權，並依託Seedance 2.0技術能力，打造出影片經典橋段AI創作模板。"
     }
   ]
 }
