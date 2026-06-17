@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-17 11:32:17",
-  "count": 18329,
+  "updated": "2026-06-17 11:36:18",
+  "count": 18322,
   "items": [
+    {
+      "id": "4939879",
+      "time": "2026-06-17 11:34:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【深圳成為全國資本市場科技金融實踐樣本】據深圳特區報，6月17日，2026上海陸家嘴金融論壇正式公佈全國首批五家資本市場科技金融實踐樣本市區名單，深圳成功入列。"
+    },
+    {
+      "id": "4939878",
+      "time": "2026-06-17 11:32:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "鐵礦石期貨價格自3月以來首次跌破每噸100美元。"
+    },
+    {
+      "id": "mkt:019ed3a3-4db1-7dd8-b040-8658535761e6",
+      "time": "2026-06-17 11:32:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "SSE Composite"
+      ],
+      "text": "【PBOC deputy governor Zhu Hexin: China to shift from transaction-level to entity-level facilitation, favoring well‑run, creditworthy firms】PBOC deputy governor and SAFE head Zhu Hexin said at the 2026 Lujiazui Forum that China will further move from single-transaction convenience toward facilitation for operating entities, and will grant greater convenience to firms that are well-run and creditworthy."
+    },
     {
       "id": "mkt:019ed3a2-97bf-7dd8-b040-7ff7f943beaa",
       "time": "2026-06-17 11:31:48",
@@ -168534,103 +168564,6 @@
         "Nikkei 225"
       ],
       "text": "Japan's 30-year government bond auction bid-cover ratio was 2.94, down from 3.49 at the previous auction."
-    },
-    {
-      "id": "mkt:019eaf9a-0df7-7444-ba07-6340f1bc9389",
-      "time": "2026-06-10 11:36:09",
-      "tags": [
-        "MKT News",
-        "02563.HK",
-        "Impact bullish",
-        "01093.HK",
-        "02359.HK"
-      ],
-      "text": "Hong Kong-listed biopharma stocks active: 02563.HK up over 40%, 01530.HK up more than 5%; 06990.HK, CSPC PHARMA (01093.HK) and WuXi AppTec (02359.HK) also gained."
-    },
-    {
-      "id": "4927219",
-      "time": "2026-06-10 11:35:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債拍賣的投標倍數為2.94，上一次拍賣該指標為3.49。"
-    },
-    {
-      "id": "mkt:019eaf98-7dc5-7444-ba07-5a875b02d124",
-      "time": "2026-06-10 11:34:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact mixed",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "【China A-shares midday: Shanghai Composite down 0.58%, chemicals lead gains】China A-shares opened lower and weakened; STAR 50 bucked the trend, rising over 3% intraday. By mid-session the Shanghai Composite was down 0.58%, the Shenzhen Composite down 1.94% and the ChiNext (growth) index down 2.29%. Chemicals rallied with multiple names hitting daily limit-ups; helium-related stocks, including Heyuan Gas and Hangyang, also hit limit-ups. Banks rallied intraday—Qingdao Bank rose over 4% and China Construction Bank hit a record intraday high. Travel and hotels, photolithography/photoresist, liquor, insurance and aquaculture were active. Lagging sectors included coal, commercial space, components, reducers, PV equipment and smart grid. Combined Shanghai-Shenzhen turnover at mid-session was about CNY1.73 trillion, roughly CNY116.4 billion higher than the same period yesterday; about 1,100 stocks advanced and 4,300 declined."
-    },
-    {
-      "id": "4927218",
-      "time": "2026-06-10 11:34:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股生物醫藥股活躍 華昊中天醫藥暴漲逾40%】港股生物醫藥股活躍，華昊中天醫藥暴漲逾40%，邁威生物大漲逾23%，銀諾醫藥、宜明昂科漲逾7%，泰格醫藥、科倫博泰生物漲逾4%，藥明康德漲近3%。"
-    },
-    {
-      "id": "4927217",
-      "time": "2026-06-10 11:34:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【法拍交易升溫：1-5月成交折價率73.2%，住宅成交佔比超五成】據中指研究院，2026年1-5月全國法拍市場成交整體回升。全國355城累計掛拍房源39.5萬套，同比上漲19.6%，成交8.4萬套，同比增長26.6%，平均清倉率21.2%、成交折價率73.2%。住宅為交易主力，成交佔比過半。"
-    },
-    {
-      "id": "4927216",
-      "time": "2026-06-10 11:33:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞總理：協議將於2028年生效，為期20年。"
-    },
-    {
-      "id": "mkt:019eaf97-cac3-7444-ba07-570e8a5f1d88",
-      "time": "2026-06-10 11:33:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Prime Minister Anwar said Malaysia has reached a sale-and-purchase agreement with Japan's JERA to supply 2 million tonnes of LNG."
-    },
-    {
-      "id": "4927215",
-      "time": "2026-06-10 11:33:27",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【午評：創業板指半日跌2.29%，貴金屬、銅纜高速連線、電網裝置板塊跌幅居前】A股三大指數早盤集體下跌，截至午盤，上證指數跌0.58%，深證成指跌1.94%，創業板指跌2.29%，北證50跌2.24%，科創50指數跌0.02%。全市場成交額17478億元，較上日放量1168億元，全市場超4300只個股下跌。板塊題材上，兵裝重組概念、環氧丙烷、保險、旅遊及酒店、銀行板塊漲幅居前；貴金屬、銅纜高速連線、電網裝置、培育鑽石、減速器跌幅居前。盤面上，兵裝重組概念低開高走，東安動力、湖南天雁漲停，長城軍工、建設工業、華強科技跟漲。環氧丙烷板塊表現活躍，美邦科技盤中一度漲超25%，怡達股份、中化國際、紅寶麗、濱化股份漲停，惠通科技、一諾威、紅牆股份跟漲。旅遊及酒店板塊盤中直線拉昇，大連聖亞、天府文旅漲停，西藏旅遊、長白山、雲南旅遊漲幅居前。銅纜高速連線持續下挫，鑫科材料盤中觸及跌停，寶勝股份、精達股份、中天科技跌幅居前。減速器板塊表現疲軟，斯萊克跌超10%，美湖股份、三瑞智慧、藍思科技跌幅居前。"
-    },
-    {
-      "id": "4927214",
-      "time": "2026-06-10 11:32:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞總理：馬來西亞國家石油公司（PETRONAS）與日本JERA公司簽署了液化天然氣銷售和購買協議，將供應200萬噸液化天然氣。"
-    },
-    {
-      "id": "4927213",
-      "time": "2026-06-10 11:32:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國進出口銀行考慮發行15億至20億美元美元債券。"
     }
   ]
 }
