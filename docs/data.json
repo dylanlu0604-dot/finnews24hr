@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-18 00:12:55",
-  "count": 18404,
+  "updated": "2026-06-18 00:16:51",
+  "count": 18408,
   "items": [
+    {
+      "id": "mkt:019ed65d-e963-7dd8-b058-c1dc5d0bc07e",
+      "time": "2026-06-18 00:15:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Interior Department says Invenergy will voluntarily terminate four offshore wind leases held by its subsidiaries in New York, California and the Gulf of Maine."
+    },
+    {
+      "id": "4941468",
+      "time": "2026-06-18 00:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "內部備忘錄顯示， Meta 新任負責 “職場人工智慧” 轉型業務的產品主管即將離職。"
+    },
+    {
+      "id": "mkt:019ed65c-9f0b-7dd8-b058-bb3207d18662",
+      "time": "2026-06-18 00:14:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said if an Iran deal is not reached within 60 days the U.S. will resume bombing, adding he does not want to bomb Iran again but may have to."
+    },
+    {
+      "id": "4941467",
+      "time": "2026-06-18 00:13:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不想再次轟炸伊朗，但可能不得不這麼做。"
+    },
+    {
+      "id": "mkt:019ed65c-0885-7dd8-b058-b22ab10c1761",
+      "time": "2026-06-18 00:13:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will publish the memorandum of understanding for review."
+    },
+    {
+      "id": "4941466",
+      "time": "2026-06-18 00:13:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：若 60 天內無法敲定伊朗協議，將恢復轟炸行動。"
+    },
+    {
+      "id": "4941465",
+      "time": "2026-06-18 00:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將釋出與伊朗相關的諒解備忘錄（MoU），從而讓你們可以瞭解情況。"
+    },
+    {
+      "id": "mkt:019ed65b-2fe6-7dd8-b058-a9a049990740",
+      "time": "2026-06-18 00:12:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said his working relationship with Netanyahu is excellent."
+    },
     {
       "id": "te:markets:559787",
       "time": "2026-06-18 00:12:16",
@@ -169186,46 +169260,6 @@
         "WTI"
       ],
       "text": "【Israeli president: Lebanon must rid itself of HEZBOLLAH and Iranian influence】Israeli President Isaac Herzog said on the 10th he wants peace with Lebanon but that Beirut must remove HEZBOLLAH and Iranian influence. Speaking in a video after inspecting Israel’s northern border, he said HEZBOLLAH violated the Israel-Lebanon ceasefire and that Israel \"cannot accept attacks on its citizens, cross-border strikes or any terrorist attacks.\" He added that without clear arrangements guaranteeing Israel’s security, bilateral relations cannot improve."
-    },
-    {
-      "id": "te:markets:558139",
-      "time": "2026-06-11 00:16:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Slides Amid Rising Geopolitical Risks — The FTSE MIB fell 0.5% to close at 50,029 on Wednesday, weighed down by escalating tensions in the Middle East. Iran launched attacks against several Gulf nations after US retaliatory strikes following the downing of an American helicopter. Oil prices rose, renewing inflation fears and pushing bond yields higher. Financials traded mixed, with UniCredit down 1.3% and Intesa Sanpaolo losing 0.9%, while Generali gained 0.7% and Banco BPM rose 3.7%. Earlier this week, Intesa Sanpaolo, together with Unipol (+1.5%), launched a public exchange offer for MPS (-0.9%), a move that will also affect affiliate BPER (+0.2%). Banco BPM had proposed a friendly merger with MPS on Sunday. Luxury shares weakened amid higher risk aversion, with Ferrari down 1.5% and Moncler losing 0.9%. In contrast, Eni gained 1.6% on rising oil prices."
-    },
-    {
-      "id": "4928787",
-      "time": "2026-06-11 00:15:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：6月9日，帛琉籍油輪塞特貝洛號不服從指令被美軍攻擊而失去航行能力。"
-    },
-    {
-      "id": "4928786",
-      "time": "2026-06-11 00:14:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：伊朗一直把我們當傻瓜耍】美國總統特朗普表示：“和伊朗的協議已近在咫尺，但對方卻一再敷衍拖延。他們一直把我們當傻瓜耍。不得不說，此前幾任總統實在缺乏手腕，想到這點我都覺得難堪。”"
-    },
-    {
-      "id": "mkt:019eb24f-831c-7dd8-afa8-f399531c076f",
-      "time": "2026-06-11 00:13:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CENTCOM said US forces on June 9 disabled an oil tanker in the Gulf of Oman after the vessel violated blockade measures."
     }
   ]
 }
