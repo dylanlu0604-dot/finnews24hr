@@ -1,7 +1,274 @@
 {
-  "updated": "2026-06-17 16:02:57",
-  "count": 18490,
+  "updated": "2026-06-17 16:07:10",
+  "count": 18495,
   "items": [
+    {
+      "id": "mkt:019ed49d-f84b-7dd8-b048-31dab88cf50d",
+      "time": "2026-06-17 16:06:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: high crude prices and product-supply disruptions are expected to reduce Q2 oil demand by about 5 mln b/d."
+    },
+    {
+      "id": "4940383",
+      "time": "2026-06-17 16:06:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際能源署：投產計劃普遍推遲，2027 年全球煉油產能將迎來擴張】國際能源署表示，受俄羅斯及中東地緣衝突影響，本年度大部分煉油產能增量已延後至 2027 年落地。國際能源署在月度《石油市場報告》中指出：“明年煉油市場的核心看點並非新增產能投產，而是行業能否維護、修復受損設施，恢復此前流失的原油加工量。”機構預測，2027 年全球原油一次加工產能將增加 70 萬桶 / 日，總產能達到 1.072 億桶 / 日。"
+    },
+    {
+      "id": "mkt:019ed49d-9b60-7dd8-b048-28a76b2a3edc",
+      "time": "2026-06-17 16:05:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report says that following a US-Iran agreement, operational and political constraints pose downside risks to the Middle East economic outlook."
+    },
+    {
+      "id": "4940382",
+      "time": "2026-06-17 16:05:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國合署：中方向非洲再次提供埃博拉疫情緊急人道主義援助】6月17日，國家國際發展合作署新聞發言人湯瑛表示，針對非洲部分地區和國家埃博拉疫情持續蔓延的嚴峻形勢，中國政府決定在前期對非抗疫援助基礎上，再次提供緊急人道主義援助，包括繼續向剛果（金）提供援助，向烏干達提供一批防疫抗疫物資，繼續支援非洲疾控中心發揮作用等，助力非洲早日戰勝疫情。"
+    },
+    {
+      "id": "4940381",
+      "time": "2026-06-17 16:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟反壟斷事務負責人裡貝拉表示，歐洲大型銀行亟需進行跨境合併，以助力完成單一市場建設。"
+    },
+    {
+      "id": "mkt:019ed49c-f980-7dd8-b048-22340c932103",
+      "time": "2026-06-17 16:05:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report forecasts global oil supply in 2026 will be 920,000 b/d below demand, narrowing from a prior estimated shortfall of 1.7 mln b/d."
+    },
+    {
+      "id": "te:markets:559662",
+      "time": "2026-06-17 16:05:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore CNY Falls by 1.71% — Top commodity losers are Iron Ore CNY (-1.71%), Platinum (-1.27%) and Gold (-0.12%)."
+    },
+    {
+      "id": "4940380",
+      "time": "2026-06-17 16:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋁庫存減少1475噸，鋅庫存減少2175噸，鉛庫存減少25噸，鎳庫存增加528噸，錫庫存增加315噸，銅庫存增加525噸。"
+    },
+    {
+      "id": "4940379",
+      "time": "2026-06-17 16:04:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟官員裡韋拉稱，歐盟各國應為符合整體利益的此類交易鼓掌叫好。"
+    },
+    {
+      "id": "4940378",
+      "time": "2026-06-17 16:04:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中信銀行被罰80萬元！一人遭9年禁業】6月17日訊息，因違規發放流動資金貸款、違規辦理無真實貿易背景的銀行承兌匯票，雲南金融監管局對中信銀行罰款80萬元；對相關責任人解鵬取消終身銀行業高階管理人員任職資格，禁止9年從事銀行業工作；對展翀、劉靜警告。"
+    },
+    {
+      "id": "mkt:019ed49c-3d3a-7dd8-b048-1ce6a42c988d",
+      "time": "2026-06-17 16:04:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "ECB: wage tracker shows negotiated wage growth steady at about 2.6% through end-2026."
+    },
+    {
+      "id": "4940377",
+      "time": "2026-06-17 16:04:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IEA月報：霍爾木茲海峽的逐步恢復將令明年油儲出現顯著盈餘】國際能源署（IEA）在週三釋出的月度石油市場報告中表示，全球石油市場將逐步從霍爾木茲海峽關閉的影響中恢復，隨後在2027年出現顯著的供應過剩。IEA稱，美國和伊朗已達成協議，結束持續近三個月的戰爭。協議內容包括伊朗重新開放霍爾木茲海峽，美國解除海上封鎖，這可能會終結歷史上最大的石油供應中斷，此前該中斷導致中東每天石油產量減少超過1400萬桶。"
+    },
+    {
+      "id": "4940376",
+      "time": "2026-06-17 16:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際能源署：阿聯酋全年石油日產量明年將增加 73 萬桶】國際能源署在月度石油市場報告中稱，阿聯酋全年石油日產量明年將增加 73 萬桶，升至 520 萬桶 / 日，該國將成為非歐佩克 + 原油供應增量的主要來源國之一。國際能源署預測，阿聯酋今年原油日均產量為 360 萬桶，此外天然氣凝析油與天然氣液日產量達 84 萬桶。阿聯酋已於 5 月退出歐佩克。該國 5 月產能及出口變動：原油日產量上調 23 萬桶，至 280 萬桶 / 日，仍較衝突前 360 萬桶 / 日以上的峰值低約 83.5 萬桶；石油總出口量環比增加 26 萬桶，達 310 萬桶 / 日，原因是 “阿曼沿岸海峽的隱秘原油運輸活動大幅增多”。報告指出：“儘管阿聯酋 5 月 1 日退出歐佩克，為後續進一步擴產創造了空間，但現階段恢復出口與產量常態是其首要任務。”"
+    },
+    {
+      "id": "mkt:019ed49b-c553-7dd8-b048-13cead5f91ec",
+      "time": "2026-06-17 16:03:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: since the war began, global monitored oil inventories have declined by an average 3.8 mln bpd."
+    },
+    {
+      "id": "mkt:019ed49b-86c3-7dd8-b048-0d2f212014cb",
+      "time": "2026-06-17 16:03:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【IEA monthly: gradual reopening of Strait of Hormuz to create significant oil surplus in 2027】The IEA said in its monthly oil market report on Wednesday that the global oil market will gradually recover from the Strait of Hormuz closure and that a significant supply surplus is likely in 2027. The agency said the US and Iran have reached an agreement to end nearly three months of hostilities under which Iran would reopen the strait and the US would lift its maritime blockade; the disruption had cut Middle East production by more than 14 mln barrels a day and the deal could end the largest oil supply disruption in history."
+    },
+    {
+      "id": "mkt:019ed49b-66c3-7dd8-b048-01463c3c414f",
+      "time": "2026-06-17 16:03:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report says the US-Iran agreement is an encouraging step forward."
+    },
+    {
+      "id": "4940375",
+      "time": "2026-06-17 16:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯泰蘭蒂斯：此次合作將整合斯泰蘭蒂斯L4級自動駕駛就緒平臺、Wayve人工智慧技術與優步全球平臺。"
+    },
+    {
+      "id": "mkt:019ed49b-39e0-7dd8-b047-fc506067d192",
+      "time": "2026-06-17 16:03:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report projects OPEC output will rise by 5.5 mln b/d in 2027."
+    },
+    {
+      "id": "4940374",
+      "time": "2026-06-17 16:03:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯泰蘭蒂斯NV與Wayve、優步達成合作，共同加速自動駕駛打車服務的全球落地。"
+    },
+    {
+      "id": "mkt:019ed49a-f7e6-7dd8-b047-f3afc854b694",
+      "time": "2026-06-17 16:03:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "IEA monthly report: supply losses in the Gulf region will be partly offset by output from non-OPEC+ producers."
+    },
+    {
+      "id": "4940373",
+      "time": "2026-06-17 16:02:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500迷你股指期貨上漲0.27%，納斯達克100股指期貨上漲0.84%，道瓊斯股指期貨持平。"
+    },
+    {
+      "id": "4940372",
+      "time": "2026-06-17 16:02:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行薪資追蹤器：含未平滑處理一次性支付項的歐洲央行薪資增速顯示，2025年為3.0%，2026年為2.6%。"
+    },
+    {
+      "id": "4940371",
+      "time": "2026-06-17 16:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非統計局資料顯示，南非5月核心消費者通脹同比達3.8%。"
+    },
+    {
+      "id": "mkt:019ed49a-8797-7dd8-b047-ec088dbd2622",
+      "time": "2026-06-17 16:02:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report forecasts non-OPEC+ countries' production will rise by 2.5 mln bpd in 2027."
+    },
+    {
+      "id": "4940370",
+      "time": "2026-06-17 16:02:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代在洛陽成立新能源公司 註冊資本1000萬】天眼查App顯示，近日，宜陽縣潤永新能源有限公司成立，法定代表人為劉和軒，註冊資本1000萬人民幣，經營範圍包括工程和技術研究和試驗發展、儲能技術服務等。股東資訊顯示，該公司由寧德時代（300750）旗下時代綠色能源有限公司全資持股。"
+    },
+    {
+      "id": "4940369",
+      "time": "2026-06-17 16:02:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY國防指數因2026財年產量與出口額創紀錄上漲3%。"
+    },
+    {
+      "id": "4940368",
+      "time": "2026-06-17 16:02:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行預計 2026 年第三、四季度薪資增速為 2.6%。"
+    },
     {
       "id": "mkt:019ed49a-327c-7dd8-b047-e163f0624815",
       "time": "2026-06-17 16:02:15",
@@ -169960,202 +170227,6 @@
         "公司"
       ],
       "text": "【鵬輝能源在廣州成立智飛動能科技公司 註冊資本500萬】天眼查App顯示，近日，廣州鵬輝智飛動能科技有限公司成立，法定代表人為方李一凡，註冊資本500萬人民幣，經營範圍包括電池銷售、蓄電池租賃、電池零配件銷售、電力電子元器件銷售等。股東資訊顯示，該公司由鵬輝能源（300438）全資持股。"
-    },
-    {
-      "id": "4927642",
-      "time": "2026-06-10 16:06:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易官員：印度正考慮徵收反傾銷稅及採取其他貿易救濟措施，以遏制鋼鐵傾銷。"
-    },
-    {
-      "id": "4927641",
-      "time": "2026-06-10 16:06:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【蘋果盤前微漲 美銀仍看好該股】美股盤前，蘋果微漲超0.2%，前一交易日收跌3.67%。美國銀行維持蘋果股票買入評級，目標價定為380美元。 分析師Wamsi Mohan在研報中寫道，2026年全球開發者大會公佈了蘋果人工智慧戰略的重要進展。依託豐厚的股東回報、龐大的存量使用者基數，以及未來產品與服務帶來的增長空間，該行繼續看好蘋果股價表現。"
-    },
-    {
-      "id": "4927640",
-      "time": "2026-06-10 16:06:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【知情人士：螞蟻國際擬融資 10 億美元助力業務擴張】知情人士透露，螞蟻集團旗下國際業務正考慮融資約 10 億美元，以加快發展步伐。知情人士表示，此次融資或將為該業務板塊最快於今年在香港籌備上市鋪路。目前本輪融資仍在商議階段，尚未作出最終決定。"
-    },
-    {
-      "id": "mkt:019eb091-4e61-7aad-8122-72d564fcb2d3",
-      "time": "2026-06-10 16:06:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hefei team advances efficiency and stability of inverted perovskite solar cells】A team led by Chen Chong at the Institute of Solid State Physics, Hefei Institutes of Physical Science, Chinese Academy of Sciences reported a reduced glutathione (GSH)–based multifunctional additive and a 'dynamic regulation + static protection' synergistic stabilization strategy that improves both efficiency and stability in inverted perovskite solar cells, addressing the longstanding efficiency–stability trade-off. Results published in Advanced Materials."
-    },
-    {
-      "id": "4927639",
-      "time": "2026-06-10 16:06:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陝建股份：子公司中標5.57億元建設專案】陝建股份(600248)6月10日公告，近期下屬子公司中標彬州市開元中學建設專案，中標金額5.57億元。"
-    },
-    {
-      "id": "4927638",
-      "time": "2026-06-10 16:05:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "蒂森克虜伯計劃在其布達佩斯基地的全球化業務支援部門新增約60個崗位。"
-    },
-    {
-      "id": "4927637",
-      "time": "2026-06-10 16:05:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司表示，道達爾能源、雷普索爾、OMV、利比亞阿卡卡斯石油與Equinor已簽署穆祖克盆地I/R油田運營協議。"
-    },
-    {
-      "id": "4927636",
-      "time": "2026-06-10 16:05:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【合肥科學島團隊在高效穩定倒置型鈣鈦礦太陽能電池研究方面取得新進展】近期，中國科學院合肥物質院固體所陳沖研究員團隊在鈣鈦礦太陽能電池效率與穩定性協同提升研究方面取得重要進展。研究團隊創新性地提出了一種基於還原型谷胱甘肽（GSH）多功能新增劑的“動態調控+靜態防護”協同穩定策略，有效緩解了倒置型鈣鈦礦太陽能電池長期存在的效率與穩定性難以兼顧的核心難題。相關研究成果發表在Advanced Materials上。"
-    },
-    {
-      "id": "te:markets:557980",
-      "time": "2026-06-10 16:05:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silicon Rises by 3.21% — Top commodity gainers are Silicon (3.21%), Iron Ore CNY (2.30%) and Lithium Carbonate (1.22%). Biggest losers are Platinum (-2.72%), Silver (-2.42%) and Gold (-2.29%)."
-    },
-    {
-      "id": "4927635",
-      "time": "2026-06-10 16:05:00",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【中東局勢影響外溢 日本物流行業面臨挑戰】日本能源與基礎化工原料高度依賴進口。隨著中東局勢持續緊張，石腦油供應趨緊、價格上漲的壓力加劇，並逐步向產業鏈下游傳導。受此影響，日本物流行業正面臨包裝耗材短缺、運營成本上升等多重挑戰。這家總部位於東京都港區的綜合物流企業，其業務涵蓋倉儲、商品分揀包裝、國內外運輸等多種物流服務。該公司表示，隨著中東局勢緊張，物流環節中固定、防護貨物的重要耗材之一纏繞膜進貨價格明顯上漲。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb090-0a63-7aad-8122-6a03c234daf0",
-      "time": "2026-06-10 16:04:50",
-      "tags": [
-        "MKT News",
-        "SMCI.O",
-        "Impact bearish"
-      ],
-      "text": "Super Micro Computer (SMCI.O) shares fell 7.85% in pre-market trading after the company said it plans to raise $7.0 billion through an equity offering."
-    },
-    {
-      "id": "4927634",
-      "time": "2026-06-10 16:04:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克預計2026年石油產量將達到9800萬噸。"
-    },
-    {
-      "id": "4927633",
-      "time": "2026-06-10 16:04:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "越南石油集團：越南與泰國企業聯合體將在越南投資19.5億美元建設液化天然氣發電廠。"
-    },
-    {
-      "id": "mkt:019eb08f-a891-7aad-8122-64bcead98d95",
-      "time": "2026-06-10 16:04:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vietnam National Oil Company said a Vietnamese-Thai corporate consortium will build a $1.95 billion LNG-fired power plant in Vietnam."
-    },
-    {
-      "id": "4927632",
-      "time": "2026-06-10 16:04:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【甲骨文股價盤前跌超2% 盤後將釋出業績報告】美股盤前，甲骨文跌超2%，公司盤後將釋出業績報告。美銀證券報告稱，自第三財季業績公佈以來，甲骨文已上漲逾30%，該機構重申甲骨文“買入”評級，並將目標價從200美元上調至240美元。"
-    },
-    {
-      "id": "mkt:019eb08f-47e7-7aad-8122-5f60ac1683bc",
-      "time": "2026-06-10 16:04:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【SFC: Hong Kong licensed firms may continue serving existing mainland clients but cannot provide services inside mainland China】On June 10 the SFC clarified its May 22 circular. It said Hong Kong licensed firms may open new accounts for mainland China investors (identified by PRC ID and/or passport) provided they meet all account‑opening requirements. Firms may continue servicing existing mainland clients only if the services are not provided within mainland China and the firms comply with all applicable Hong Kong and other jurisdictional laws and regulations. The SFC noted a May 22, 2026 joint notice from mainland authorities whose requirements also apply to financial institutions in jurisdictions beyond Hong Kong when serving mainland investors."
-    },
-    {
-      "id": "4927631",
-      "time": "2026-06-10 16:03:54",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【香港證監會：香港持牌公司可繼續為存量內地客戶提供服務，但不能在內地境內提供】6月10日，香港證監會就5月22日通函進一步進行解讀。通函中的常見問題（九）提到，香港持牌公司可繼續為中國內地投資者（即以中國居民身份證及/或中國護照作為身份證明檔案的投資者）開立新賬戶，但必須符合所有開立賬戶規定。香港證監會對此表示，香港持牌公司可繼續為現有的中國內地客戶提供服務，前提是有關服務並非在中國內地境內提供，且其已遵守香港及適用司法管轄區的一切相關法律及監管規定。香港證監會還表示，其注意到中國內地當局於2026年5月22日聯合釋出的通知，其相關要求亦適用於其他司法管轄區（即不限於香港）的金融機構在向中國內地投資者提供服務時的相關活動。"
-    },
-    {
-      "id": "mkt:019eb08e-f32b-7aad-8122-534fca251645",
-      "time": "2026-06-10 16:03:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slid $20 intraday to $4,170/oz, down 2.12% on the day."
-    },
-    {
-      "id": "4927630",
-      "time": "2026-06-10 16:03:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST寧視：非獨立董事宋孟因個人原因辭職】*ST寧視公告稱，公司董事會近日收到非獨立董事宋孟的書面辭職報告，其因個人原因申請辭去第八屆董事會非獨立董事職務，辭職後不再擔任公司任何職務。截至公告披露日，宋孟未持有公司股份，不存在應履行而未履行的承諾事項。其辭職報告自送達董事會之日起生效，不會導致董事會成員人數低於法定人數，也不影響董事會運作。公司將按法定程式儘快補選董事。"
-    },
-    {
-      "id": "4927629",
-      "time": "2026-06-10 16:03:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4190美元/盎司，日內跌2.25%。"
-    },
-    {
-      "id": "4927628",
-      "time": "2026-06-10 16:03:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南僑食品：2026年5月合併營收2.25億元，同比減少11.92%】南僑食品公告，2026年5月合併營業收入為人民幣2.25億元，同比減少11.92%。"
-    },
-    {
-      "id": "4927627",
-      "time": "2026-06-10 16:03:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4170美元/盎司，日內跌2.13%。"
     }
   ]
 }
