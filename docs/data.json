@@ -1,7 +1,218 @@
 {
-  "updated": "2026-06-17 15:50:25",
-  "count": 18461,
+  "updated": "2026-06-17 15:54:28",
+  "count": 18475,
   "items": [
+    {
+      "id": "mkt:019ed492-626c-7dd8-b047-787904f801fb",
+      "time": "2026-06-17 15:53:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【PBOC's Wang Xin says monitor stablecoins' impact on international monetary system and cross-border payments】June 17 — Wang Xin, director of the PBOC Research Bureau, told the Lujiazui Forum plenary session II that China needs to further safeguard the safety, neutrality and efficiency of the international payments system, strengthen interoperability between central bank payment systems and retail payment rails, and prudently explore the potential of new payment tools. He said regulators will closely monitor stablecoins' effects on the international monetary system and cross-border payments, refine regulatory frameworks, and promote more inclusive, efficient and resilient cross-border payments to better support sustainable development and global growth."
+    },
+    {
+      "id": "4940329",
+      "time": "2026-06-17 15:53:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家超算網際網路上線GLM-5.2模型服務】6月17日訊息，智譜全新旗艦大模型GLM-5.2今日正式開源，當日國家超算網際網路同步上線GLM-5.2模型API呼叫服務及模型檔案。使用者無需繁瑣環境配置，進入「Chat」→「模型API」即可一鍵呼叫GLM-5.2。企業和開發者還可在AI社群「模型庫」下載模型檔案，依託平臺Notebook開發環境，一站式完成部署、微調、最佳化等全流程開發。"
+    },
+    {
+      "id": "4940328",
+      "time": "2026-06-17 15:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷豹路虎：重申截至2029財年對未來技術、汽車平臺與業務轉型投資180億英鎊的現有五年投資承諾不變。"
+    },
+    {
+      "id": "4940327",
+      "time": "2026-06-17 15:53:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃森哲收購西門子數字化工業合作伙伴IndX，強化製造業數字化能力】埃森哲6月17日宣佈，已就收購Industries eXcellence Group（IndX）達成協議。IndX是Engineering Group旗下部門，長期深耕西門子數字化工業軟體與自動化解決方案生態。此次收購將強化埃森哲協助製造業客戶透過軟體、資料及AI技術推進產品研發、生產及供應鏈運營現代化的能力，並將進一步推動埃森哲西門子業務集團的持續增長。"
+    },
+    {
+      "id": "4940326",
+      "time": "2026-06-17 15:53:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光峰科技與怡境文旅集團達成戰略合作】日前，深圳光峰科技股份有限公司（簡稱“光峰科技”）與怡境文旅集團舉行戰略合作簽約儀式及交流會。本次戰略合作將聚焦於文旅產業，特別是“文旅夜經濟”與“沉浸式體驗”場景的開拓與深耕。"
+    },
+    {
+      "id": "te:markets:559654",
+      "time": "2026-06-17 15:52:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB edged lower to around 52,200 on Wednesday, taking a breather after reaching record highs in the previous session, while investors awaited further details on the US-Iran agreement to reopen the Strait of Hormuz. Market participants also kept a close watch on the Federal Reserve’s monetary policy decision scheduled for later in the day. Losses were seen in energy and utilities stocks, including Enel (-1%), Eni (-2.2%), Tenaris (-1%), Snam (-1%), and Terna Rete Elettrica Nazionale (-1%). Some financials were also in the red, including Intesa Sanpaolo (-0.9%), Mediobanca (-1.1%), and Banca Monte dei Paschi di Siena (-1.1%). Meanwhile, STMicroelectronics was barely changed after it announced plans to raise $1.5 billion via a bond sale, offering investors exposure to shares that have nearly tripled this year amid AI-driven market enthusiasm."
+    },
+    {
+      "id": "4940325",
+      "time": "2026-06-17 15:52:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷豹路虎：未來兩年將透過企業專案削減17億英鎊成本，將盈虧平衡點降至30萬輛。"
+    },
+    {
+      "id": "mkt:019ed490-ff58-7dd8-b047-7267ee8f6e4d",
+      "time": "2026-06-17 15:52:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's Foreign Ministry said its foreign minister spoke with Egypt's foreign minister to consult on the recent US-Iran consensus. The ministers exchanged views on the consensus and on an MoU due to be signed Friday in Bürgenstock, Switzerland."
+    },
+    {
+      "id": "te:markets:559652",
+      "time": "2026-06-17 15:52:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Trade Flat — The CAC 40 traded flat around 8,450 on Wednesday as investors took a breather following recent gains driven by the US-Iran peace agreement. The deal is expected to be signed on Friday in Switzerland, paving the way for the reopening of the Strait of Hormuz and the end of hostilities. Meanwhile, with the Federal Reserve widely expected to leave interest rates unchanged, investors will closely scrutinize the central bank’s signals on the future path of monetary policy. Among individual stocks, luxury giant LVMH gained 0.8%, while Schneider Electric rose 1.1% and Legrand added 1.3%. On the downside, TotalEnergies fell 1.0%, Sanofi slipped 0.7%, and EssilorLuxottica declined 1.3%."
+    },
+    {
+      "id": "4940324",
+      "time": "2026-06-17 15:51:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷豹路虎（JLR）：路虎攬勝、衛士和發現車系將提供輕度混合動力（MHEV）、混合動力（HEV）、插電式混合動力（PHEV）或純電動（BEV）動力選擇，捷豹品牌將全線轉型純電動。"
+    },
+    {
+      "id": "mkt:019ed490-8efe-7dd8-b047-6927981ddbb3",
+      "time": "2026-06-17 15:51:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Japan's Fair Trade Commission will investigate pass-through of petroleum product prices."
+    },
+    {
+      "id": "4940323",
+      "time": "2026-06-17 15:51:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷豹路虎：透過提升動力系統靈活性、加大對北美市場佈局，捷豹路虎明確實現兩位數營收增長的路徑。"
+    },
+    {
+      "id": "4940322",
+      "time": "2026-06-17 15:51:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐家彙成立酒店管理公司】企查查APP顯示，近日，上海新六百酒店管理有限公司成立，法定代表人為孫浩然，註冊資本為5000萬元，經營範圍包含：酒店管理；物業管理；企業管理；商業綜合體管理服務；停車場服務；餐飲管理；品牌管理等。企查查股權穿透顯示，該公司由徐家彙全資持股。"
+    },
+    {
+      "id": "4940321",
+      "time": "2026-06-17 15:51:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部週三通報，巴外交部長與埃及外交部長通電話，雙方就美伊近期達成的共識展開磋商。 兩位外長就美伊近期達成的共識，以及本週五將於瑞士比爾根施托克簽署諒解備忘錄一事交換了意見。"
+    },
+    {
+      "id": "4940320",
+      "time": "2026-06-17 15:50:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國鐵建等在新疆成立新材料科技公司】企查查APP顯示，近日，鐵建興材（新疆）新材料科技有限公司成立，法定代表人為袁憲燦，註冊資本為8000萬元，經營範圍包含：非金屬礦物製品製造；新材料技術研發；新材料技術推廣服務；玻璃纖維及製品製造等。企查查股權穿透顯示，該公司由中國鐵建旗下中鐵二十一局集團有限公司、西藏中馳集團股份有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019ed48f-9573-7dd8-b047-65f46d1f973c",
+      "time": "2026-06-17 15:50:40",
+      "tags": [
+        "MKT News",
+        "BMW.DE",
+        "Impact bullish"
+      ],
+      "text": "BMW India executive says MINI sales are rising and the brand's dealer network in India is expanding."
+    },
+    {
+      "id": "4940319",
+      "time": "2026-06-17 15:50:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃森哲：本次收購將強化其在義大利的醫療業務能力。"
+    },
+    {
+      "id": "4940318",
+      "time": "2026-06-17 15:50:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【寧夏寶廷新材料科技股份有限公司啟動上市輔導】據證監會官網顯示，寧夏寶廷新材料科技股份有限公司於2026年6月17日正式啟動上市輔導，中信建投證券擔任輔導機構。"
+    },
+    {
+      "id": "mkt:019ed48f-3f94-7dd8-b047-5ea934e9b378",
+      "time": "2026-06-17 15:50:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【ZDNet Korea: Samsung targets first mass production of next‑gen 1d DRAM by year‑end】ZDNet Korea reports Samsung Electronics is co-developing production equipment with multiple partners for seventh‑generation 10nm‑class (1d) DRAM, targeting equipment introduction as early as Q2 next year and first mass production by year‑end. 1d denotes a linewidth of roughly 10–11 nm; the current commercial 10nm‑class 1c generation uses about 11–12 nm. Further linewidth shrinkage should improve DRAM performance and energy efficiency."
+    },
+    {
+      "id": "4940317",
+      "time": "2026-06-17 15:50:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "寶馬印度高管表示MINI品牌銷量持續增長，印度經銷商網路正持續擴張。"
+    },
+    {
+      "id": "4940316",
+      "time": "2026-06-17 15:50:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本公平交易委員會將調查成品油價格轉嫁情況。"
+    },
+    {
+      "id": "mkt:019ed48f-0f35-7dd8-b047-52c38e84516d",
+      "time": "2026-06-17 15:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "IEA to release its monthly oil market report in 10 minutes."
+    },
+    {
+      "id": "4940315",
+      "time": "2026-06-17 15:49:51",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行官員Simkus預計至少還會有一次加息】歐洲央行決策者Gediminas Simkus預測，官員們至少還會再加息一次。“一週前進行了25個基點的加息，如果你問我這是否足夠、是否就此結束，我當然認為這次加息幅度太小，不足以解決通脹上升問題，”這位立陶宛央行行長週三表示。“至於下一次加息何時到來，我可能無法回答，但我認為至少再加息一次的可能性顯然更大。”他在維爾紐斯舉行的新聞釋出會上還表示：“能源和其他原材料價格上漲的影響已經傳導至市場。我還想補充一點，短期通脹預期已經上升，人們對價格上漲的預期也顯而易見，因此必須確保短期預期的變化不會演變為長期通脹預期的變化。”他表示：“目前油價仍然很高。沒錯，油價有所回落，但依舊很高，比以前高得多。”"
+    },
     {
       "id": "te:markets:559651",
       "time": "2026-06-17 15:49:46",
@@ -169809,84 +170020,6 @@
         "其他"
       ],
       "text": "【天津自貿區管委會主任調整】近日，中國（天津）自由貿易試驗區管理委員會（以下簡稱“天津自貿區管委會”）迎來新任主任。據天津政務網訊息，天津市政府6月1日釋出《關於王秀峰、李文海任免職務的通知》稱，王秀峰任中國（天津）自由貿易試驗區管理委員會主任；李文海不再擔任中國（天津）自由貿易試驗區管理委員會主任職務。天津自貿區官網顯示，王秀峰目前擔任天津市副市長、天津自貿區管委會主任。"
-    },
-    {
-      "id": "4927600",
-      "time": "2026-06-10 15:54:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦資訊部長稱，阿富汗邊境遭襲至少26名武裝分子喪生。"
-    },
-    {
-      "id": "4927598",
-      "time": "2026-06-10 15:54:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易官員：印度紡織、鋼鐵製造業產出相對於人均消費水平仍然偏低。"
-    },
-    {
-      "id": "4927597",
-      "time": "2026-06-10 15:53:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府訊息人士：莫迪或於 G7 峰會會晤特朗普，討論貿易、簽證等議題。"
-    },
-    {
-      "id": "4927596",
-      "time": "2026-06-10 15:53:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿特斯：首次回購0.14%公司股份，支付的資金總額為人民幣5491.46萬元】阿特斯公告，2026年6月10日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購公司股份500萬股，佔公司總股本36.43億股的比例為0.14%，回購成交的最高價為11.14元/股，最低價為10.87元/股，支付的資金總額為人民幣5491.46萬元（不含印花稅、交易佣金等交易費用）。"
-    },
-    {
-      "id": "4927595",
-      "time": "2026-06-10 15:53:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通策醫療：董事長等5人已增持0.042%】通策醫療公告，董事長王毅等5名增持主體已透過上交所集中競價累計增持公司A股18.87萬股，佔總股本0.042%，合計耗資775.78萬元。本次增持計劃披露於2026年2月24日，增持主體包括王毅、黃浴華、張華、徐國喜、趙敏，已完成全部計劃。"
-    },
-    {
-      "id": "4927594",
-      "time": "2026-06-10 15:53:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦資訊部長稱，巴基斯坦軍方在阿富汗邊境對武裝分子藏身點發動了打擊。"
-    },
-    {
-      "id": "mkt:019eb085-11d1-7aad-8121-f491a5a1684a",
-      "time": "2026-06-10 15:52:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan information minister said the military struck militant hideouts on the Afghan border."
-    },
-    {
-      "id": "4927593",
-      "time": "2026-06-10 15:52:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【道通科技：員工持股平臺稅務問題與公司無關，近期無相關合夥人大量減持】針對“公司股價前期大幅下跌是由於49位員工補稅而賣出大量股票導致”的傳言，道通科技6月10日在互動平臺表示，河南達合為原道通科技員工持股平臺，已於2021年登出，相關股份於2021年透過非交易過戶方式登記到各合夥人的個人賬戶。此次提及的稅務問題為該平臺合夥人的個人所得稅事宜，與上市公司稅負無關，不會對公司業務經營及財務報表產生影響。據公司目前掌握的資訊，近期不存在該持股平臺相關合夥人大量賣出公司股票的情況。二級市場股價受宏觀環境、行業週期、市場情緒等多重因素影響，公司將進一步加強投資者關係工作，持續聚焦主業，提升經營業績、提高公司治理水平、強化投資者溝通、提升股東回報。"
-    },
-    {
-      "id": "mkt:019eb083-133e-7aad-8121-ed9b114c7811",
-      "time": "2026-06-10 15:50:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "0700.HK",
-        "Impact bullish",
-        "2357.TW"
-      ],
-      "text": "【Tencent Cloud, ASUS sign strategic cooperation to deploy personal cloud drives on notebooks】Tencent Cloud and ASUS signed a strategic cooperation to jointly launch a personal cloud drive for millions of notebook users, based on Tencent Cloud’s self-developed AgentBucket intelligent storage. The deal is the first large-scale commercial roll-out of Tencent Cloud’s enterprise-grade, scenario-based storage capability on a leading PC brand and signals cloud storage shifting from an optional PC add-on to core infrastructure supporting the AI‑PC trend."
     }
   ]
 }
