@@ -1,7 +1,225 @@
 {
-  "updated": "2026-06-18 03:29:20",
-  "count": 18779,
+  "updated": "2026-06-18 03:33:31",
+  "count": 18798,
   "items": [
+    {
+      "id": "mkt:019ed712-6788-7dd8-b063-c48d6f0b993a",
+      "time": "2026-06-18 03:32:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Emerging-market stock index erased gains as the Fed turned hawkish."
+    },
+    {
+      "id": "4941806",
+      "time": "2026-06-18 03:32:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元匯率跌至2024年7月以來的最低水平。"
+    },
+    {
+      "id": "mkt:019ed712-116a-7dd8-b063-b8ab8a59b12b",
+      "time": "2026-06-18 03:32:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Asked if cuts were discussed, Kevin Warsh said 'only one proposal on the table'】Asked whether Fed officials had discussed rate cuts at the meeting through Wednesday, Fed Chair Kevin Warsh said \"there was only one proposal on the table\" and \"no discussion of any other proposals.\" He said officials debated a single core issue vigorously and ultimately reached agreement. The Federal Reserve left the federal funds target range unchanged at 3.50%-3.75% in a unanimous vote."
+    },
+    {
+      "id": "4941805",
+      "time": "2026-06-18 03:32:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗公佈美伊臨時協議完整文字】伊朗公佈美伊臨時協議完整文字，具體內容如下：\n1. 伊朗與美國承諾互不干涉對方內政；\n2. 雙方約定60日內達成最終協議，談判期限可延長；\n3. 伊朗重申絕不研發、獲取核武器；\n4. 美伊雙方同意透過共同認可的機制解決濃縮核材料庫存處置問題；\n5. 所有濃縮核材料的稀釋處理工作均在國際原子能機構監督下開展；\n6. 談判期間伊朗維持現有核計劃規模不變；\n7. 美方承諾談判期間不對伊朗新增制裁，不在該地區增派軍事力量；\n8. 美方承諾在最終協議框架內，按照約定時間表全面解除對伊所有制裁；\n9. 美方立即解除對伊朗海上封鎖，計劃30日內完全撤銷封鎖措施；\n10. 霍爾木茲海峽商業航運即刻恢復，運力迴歸戰前水平；\n11. 伊朗將與阿曼合作，共同負責霍爾木茲海峽後續管理與海事服務事務；\n12. 伊朗保障波斯灣至阿曼灣之間商業船舶安全通行；\n13. 前60天內商業船舶通行免收相關費用；\n14. 航運常態化推進工作同步開展水雷清除及各類航道技術障礙清理作業；\n15. 協議簽署後美方立刻發放豁免許可，允許伊朗出口原油、石化產品、衍生品及配套相關服務；\n16. 根據本諒解備忘錄，美方解凍伊朗被凍結資產並允許伊朗動用該筆資金；\n17. 美伊將在談判期間商定解凍凍結資產的執行機制；\n18. 美國聯合地區合作伙伴推出總額至少3000億美元的伊朗經濟重建計劃；\n19. 上述3000億美元重建計劃的落地細則，將作為60日內最終協議的組成部分敲定；\n20. 本協議有望促成數十年來美伊規模最大的外交與經濟關係重啟。"
+    },
+    {
+      "id": "mkt:019ed711-4938-7dd8-b063-b68ea5148740",
+      "time": "2026-06-18 03:31:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 2-year Treasury yield rose to 4.20%, the highest since February 2025."
+    },
+    {
+      "id": "4941804",
+      "time": "2026-06-18 03:31:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率升至4.20%，為2025年2月以來最高水平。"
+    },
+    {
+      "id": "mkt:019ed710-a2ce-7dd8-b063-aee2a290a591",
+      "time": "2026-06-18 03:30:52",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "EUR/USD is down 1.00% intraday at 1.1492."
+    },
+    {
+      "id": "mkt:019ed710-5518-7dd8-b063-a47940cfa0aa",
+      "time": "2026-06-18 03:30:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold plunged $100 intraday to $4,230.52/oz, down 2.32%."
+    },
+    {
+      "id": "4941803",
+      "time": "2026-06-18 03:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4240美元/盎司，日內跌2.63%。"
+    },
+    {
+      "id": "4941802",
+      "time": "2026-06-18 03:30:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什：希望市場依據真實經濟狀況定價 而非追隨美聯儲解讀】美聯儲主席沃什週三表示，他希望金融市場能夠基於自身對經濟的判斷來定價證券，而不是試圖根據其對央行官員如何解讀資料的預期來進行定價。他表示：“市場越是關注真實經濟的變化，越能夠自行判斷哪些資料更重要、哪些相對不那麼重要，就越能形成自身認為最可能發生的定價。”他補充說，這樣可以避免出現一種情況，即“金融市場只是在不斷反映我們說過的話”。"
+    },
+    {
+      "id": "mkt:019ed710-1baa-7dd8-b063-9982c054051a",
+      "time": "2026-06-18 03:30:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Kevin Warsh urges markets to price on economic fundamentals, not Fed interpretations】Federal Reserve Chair Kevin Warsh said on Wednesday he wants markets to price securities based on their own read of the economy rather than on expectations of how Fed officials will interpret data. \"The more markets focus on real economic changes and can judge which data are more or less important, the more they will form pricing they consider most likely,\" he said, adding this would avoid a situation in which \"financial markets are merely echoing what we have said.\""
+    },
+    {
+      "id": "4941801",
+      "time": "2026-06-18 03:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守68美元/盎司，日內跌3.60%。"
+    },
+    {
+      "id": "4941800",
+      "time": "2026-06-18 03:29:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美伊60天談判期並非硬性截止日期】美國總統特朗普表示，與伊朗協議中提及的60天期限並非硬性截止日期。特朗普在法國對記者表示：“我不認為這是硬性的，只要他們表現良好就行。”"
+    },
+    {
+      "id": "4941799",
+      "time": "2026-06-18 03:29:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4230美元/盎司，日內跌2.36%。"
+    },
+    {
+      "id": "mkt:019ed70e-d437-7dd8-b063-97896ed58b46",
+      "time": "2026-06-18 03:28:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Republic News Agency reports the United States has pledged to grant Iran access to its frozen funds during implementation of a memorandum of understanding. The two sides will agree an asset-unfreezing mechanism during negotiations."
+    },
+    {
+      "id": "4941798",
+      "time": "2026-06-18 03:28:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4250美元/盎司，日內跌2.42%。"
+    },
+    {
+      "id": "4941797",
+      "time": "2026-06-18 03:28:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院委員會將於6月24日就精神航空破產後的航空業競爭問題舉行聽證會。"
+    },
+    {
+      "id": "4941796",
+      "time": "2026-06-18 03:28:21",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國利率市場定價顯示，美聯儲在10月會議前加息的機率為72%。"
+    },
+    {
+      "id": "4941795",
+      "time": "2026-06-18 03:28:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債價格跌幅進一步擴大；兩年期收益率上漲15個基點，報4.197%。"
+    },
+    {
+      "id": "mkt:019ed70e-2587-7dd8-b063-8d25dacb364d",
+      "time": "2026-06-18 03:28:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Kevin Warsh declined to disclose whether he had communicated with Trump】Federal Reserve Chair Kevin Warsh declined to say whether he has communicated with President Trump since formally taking office last month, but confirmed meetings with Treasury Secretary Bessent. Warsh said Bessent posted a social-media photo of their breakfast and noted the long-standing practice of weekly meetings between the Fed chair and the treasury secretary; they have met three times so far. He added Bessent is overseas this week, so a meeting this week would be an exception."
+    },
+    {
+      "id": "4941793",
+      "time": "2026-06-18 03:28:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率上升5個基點，報4.481%。"
+    },
+    {
+      "id": "4941792",
+      "time": "2026-06-18 03:27:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "KBW銀行指數轉負，抹去了高達1.6%的漲幅。"
+    },
     {
       "id": "4941791",
       "time": "2026-06-18 03:27:53",
@@ -989,6 +1207,15 @@
         "The Fed (FOMC)"
       ],
       "text": "Fed Chair Kevin Warsh said more information will be available at the meeting in six weeks."
+    },
+    {
+      "id": "4941740",
+      "time": "2026-06-18 03:11:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4280美元/盎司，日內跌1.71%。"
     },
     {
       "id": "mkt:019ed6fe-919c-7dd8-b062-321a6b92eba8",
@@ -173082,43 +173309,6 @@
         "公司"
       ],
       "text": "智利國家銅業委員會：智利國家銅業公司 4 月銅產量同比下降 14%。"
-    },
-    {
-      "id": "mkt:019eb306-5ceb-7dd8-afab-63d019fb6f2a",
-      "time": "2026-06-11 03:33:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Iran parliament security chief says war will not be confined to region】After Trump’s comments about possible further strikes on Iran, Ibrahim Aziz, head of the Iranian parliament’s National Security Committee, posted on social media saying US casualties are already far higher than Trump has acknowledged and will continue to rise, and that the war \"will not be confined to the region.\""
-    },
-    {
-      "id": "4928938",
-      "time": "2026-06-11 03:33:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議會要員：戰爭將不會侷限於本地區】在特朗普發表有關可能進一步打擊伊朗的言論後，伊朗議會國家安全委員會負責人易卜拉欣·阿齊茲在社交媒體上釋出了一則強硬表態。他表示：“我們不懼怕與失敗者作戰。美國的傷亡人數已經遠遠高於特朗普所承認的數字，而且還會繼續上升。這一次，戰爭將不會侷限於本地區。我們拭目以待！”"
-    },
-    {
-      "id": "4928937",
-      "time": "2026-06-11 03:32:31",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行行長：墨西哥信用評級下調不會對金融業造成影響。"
-    },
-    {
-      "id": "mkt:019eb305-257f-7dd8-afab-5c0b2304a122",
-      "time": "2026-06-11 03:31:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Washington Post reports the White House supports child online-safety legislation."
     }
   ]
 }
