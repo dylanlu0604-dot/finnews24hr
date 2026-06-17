@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-18 06:47:51",
+  "updated": "2026-06-18 06:51:55",
   "count": 18781,
   "items": [
+    {
+      "id": "4941951",
+      "time": "2026-06-18 06:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交大臣表示，過去該地區爆發的緊張局勢與各類襲擊事件嚴重損耗了雙方互信，想要理性商討經濟合作、相互投資及其他同類合作安排，必須先重建沙特與伊朗之間的信任。"
+    },
+    {
+      "id": "4941950",
+      "time": "2026-06-18 06:49:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔多次傳出爆炸聲】當地時間18日凌晨，新華社記者在烏克蘭首都基輔市聽到兩輪防空警報，以及多次強烈爆炸聲。此前，烏空軍釋出預警稱，烏克蘭面臨彈道導彈威脅。"
+    },
+    {
+      "id": "4941949",
+      "time": "2026-06-18 06:46:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元小幅走強，因為同比GDP增長超過預期。"
+    },
+    {
+      "id": "4941947",
+      "time": "2026-06-18 06:45:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭第一季度GDP環比增長0.8%；預估0.8%。紐西蘭第一季度 GDP 同比增長 1.5%；預計+1.0%。"
+    },
     {
       "id": "te:markets:559833",
       "time": "2026-06-18 06:45:14",
@@ -173079,47 +173111,6 @@
         "國際"
       ],
       "text": "據華爾街日報：批准對伊朗實施打擊後，特朗普透過卡達傳話，強調此次行動是針對阿帕奇直升機事件的報復，並非全面戰爭的開端。"
-    },
-    {
-      "id": "te:markets:558167",
-      "time": "2026-06-11 06:51:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Drop, Tracking Wall Street Lower — The NZX 50 fell 45 points, or 0.3%, to 13,208 in Thursday morning deals, erasing gains from the previous two sessions and retreating from its highest level since May 7, reached a day earlier, tracking a fall on Wall Street overnight as renewed tensions in the Middle East drove oil prices higher. US inflation data also pressured sentiment, as inflation accelerated to its highest level in three years in May, reinforcing expectations that the Fed will hold interest rates steady at its upcoming meeting. Investors remained wary ahead of the release of New Zealand's business PMI for May, due on Friday, after the index recorded its slowest growth in seven months in April. Most sectors traded in the red, including financials, healthcare, and utility stocks. Among early losers were Mainfreight (-1.5%), Fisher & Paykel Healthcare (-0.9%), Freightways Group (-0.8%), ANZ Group (-0.7%), Infratil (-0.5%), and Ebos Group (-0.4%)."
-    },
-    {
-      "id": "4929079",
-      "time": "2026-06-11 06:49:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗對所有船隻關閉霍爾木茲海峽】當地時間今天（6月11日）凌晨，伊朗武裝部隊哈塔姆·安比亞中央司令部發布宣告稱，鑑於本地區安全域性勢動盪，霍爾木茲海峽即日起對包括油輪和商船在內的所有型別船隻關閉，任何試圖透過該海峽的船隻“都將受到攻擊”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019eb3b9-9d6c-7dd8-afad-fb77b6e9c1fa",
-      "time": "2026-06-11 06:49:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran military command says Strait of Hormuz closed; vessels attempting transit will be struck】Iran’s Supreme Joint Military Command said, citing continued US aggression and attacks on multiple areas in southern Hormozgan province, it is closing the Strait of Hormuz to all vessel types — including tankers and merchant ships — effective immediately and that any vessel attempting to transit will be struck."
-    },
-    {
-      "id": "4929078",
-      "time": "2026-06-11 06:48:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗紅新月會進入全面戒備狀態】當地時間今天（6月11日）凌晨，由於美國空襲伊朗部分地區，為提高應對任何突發事件的行動準備，伊朗紅新月會全國所有應急行動中心已進入全面戒備狀態。（CCTV國際時訊）"
     }
   ]
 }
