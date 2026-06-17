@@ -1,7 +1,169 @@
 {
-  "updated": "2026-06-18 00:25:04",
-  "count": 18429,
+  "updated": "2026-06-18 00:29:06",
+  "count": 18444,
   "items": [
+    {
+      "id": "mkt:019ed669-b28d-7dd8-b059-6e103d7f2ff6",
+      "time": "2026-06-18 00:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the agreement offers Iran a historic opportunity."
+    },
+    {
+      "id": "4941489",
+      "time": "2026-06-18 00:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將增購一批 F-22 戰機。"
+    },
+    {
+      "id": "mkt:019ed669-9b7c-7dd8-b059-6284c178ce15",
+      "time": "2026-06-18 00:28:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said keeping the Strait of Hormuz open is far less important than preventing Iran from possessing nuclear weapons."
+    },
+    {
+      "id": "4941488",
+      "time": "2026-06-18 00:28:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：相比霍爾木茲海峽，阻止伊朗擁有核武器更為重要。"
+    },
+    {
+      "id": "4941487",
+      "time": "2026-06-18 00:27:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情外交官稱流傳的美伊備忘錄非最終簽署文字】一名瞭解美伊備忘錄細節的地區外交官表示，目前流傳的14點備忘錄文字，並非美伊雙方於上週末簽署的正式文字。該外交官稱，相關媒體報道的內容實際上是一份5月形成的備忘錄草案。美國總統特朗普14日宣佈與伊朗達成停戰諒解備忘錄，正式簽字儀式將於19日在瑞士比爾根山舉行。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019ed668-e5ec-7dd8-b059-5fa70904c185",
+      "time": "2026-06-18 00:27:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the agreement makes clear Iran will not possess nuclear weapons."
+    },
+    {
+      "id": "4941486",
+      "time": "2026-06-18 00:27:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們在某些事情上達成了共識，儘管沒有書面記錄。協議明確表明伊朗不會擁有核武器。"
+    },
+    {
+      "id": "mkt:019ed668-b594-7dd8-b059-5215a77927f9",
+      "time": "2026-06-18 00:27:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said they had reached a consensus on certain matters, though there was no written record."
+    },
+    {
+      "id": "4941485",
+      "time": "2026-06-18 00:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：感謝以色列及內塔尼亞胡為伊朗相關事務付出的努力。 如果伊朗不遵守協議，我們大機率會恢復轟炸，直到他們履約為止。"
+    },
+    {
+      "id": "mkt:019ed668-8f3b-7dd8-b059-4b5892695530",
+      "time": "2026-06-18 00:27:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the breakthrough would not have been possible without U.S. pressure."
+    },
+    {
+      "id": "mkt:019ed668-7943-7dd8-b059-4106f9401484",
+      "time": "2026-06-18 00:27:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump thanked Israel and Israeli Prime Minister Netanyahu for their efforts on Iran."
+    },
+    {
+      "id": "mkt:019ed668-4f2a-7dd8-b059-3e1bfda1413d",
+      "time": "2026-06-18 00:27:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US President TRUMP said if they do not comply with the agreement, we may resume bombing them until they comply."
+    },
+    {
+      "id": "te:markets:559789",
+      "time": "2026-06-18 00:26:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Rises for 5th Day — The DAX 40 ended marginally higher at 24,932 on Wednesday after a volatile session, its highest in nearly two weeks and marking a fifth straight gain. Market sentiment remained supported by optimism over a US-Iran interim peace deal, despite renewed threats from President Donald Trump toward Iran. Meanwhile, traders turned more cautious ahead of the Fed's policy announcement. While the US central bank is widely expected to hold rates steady, remarks from new Fed Chair Kevin Warsh will be closely scrutinized for clues on the policy outlook. Banks were the standout performers, with Commerzbank and Deutsche Bank surging 4.9% and 2.3%, respectively."
+    },
+    {
+      "id": "te:economy:559788",
+      "time": "2026-06-18 00:26:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Russia GDP Contracts for 1st Time in 3 Years — The Russian GDP contracted by 0.2% from the previous year in the first quarter of 2026, aligned with the preliminary estimate to confirm the first annual decline since the first quarter of 2023. Output contracted for manufacturing (-1.5%), professional, scientific, and technical activities (-6.1%), and transportation and storage (-1.8%). The data was aligned with the government's downgrade of the year's expected GDP to 0.4% from an earlier estimate of 1.3%. The downturn occurred despite a sharp rise in the prices of key Russian exports, including oil, natural gas, coal, industrial metals, and grains, following disruptions to Middle Eastern shipping routes caused by the war. Economic activity also weakened even as the Duma ramped up deficit spending in an effort to support an economy still constrained by Western sanctions, which continue to isolate Russian producers and financial institutions from international markets."
+    },
+    {
+      "id": "mkt:019ed667-2291-7dd8-b059-346fe59bdf1a",
+      "time": "2026-06-18 00:25:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump thanked Pakistan and Qatar for their assistance in reaching the agreement."
+    },
+    {
+      "id": "mkt:019ed666-8acb-7dd8-b059-28dc64491374",
+      "time": "2026-06-18 00:25:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will discuss ballistic missiles and terrorist proxies."
+    },
+    {
+      "id": "4941484",
+      "time": "2026-06-18 00:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將商討彈道導彈、代理人相關議題。"
+    },
+    {
+      "id": "4941483",
+      "time": "2026-06-18 00:24:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷藍航空：計劃裁撤紐瓦克機場空乘人員駐地，以及紐瓦克機場與拉瓜迪亞機場兩處技術運營基地。"
+    },
     {
       "id": "4941482",
       "time": "2026-06-18 00:24:03",
@@ -169429,34 +169591,6 @@
         "Impact bullish"
       ],
       "text": "【ASML to cut fewer jobs than planned after union talks】ASML (ASML.O) said after negotiations with Dutch unions it will cut fewer jobs than previously planned and that dismissals will not take effect until after May 1 next year. A union spokesperson said employees will be notified next month after consultation with the works council; affected staff have until May 2027 to secure new roles and may receive up to €400,000 in compensation. ASML said the final headcount will be set once the process is complete and the company aims to reduce the overall scale of the cuts; in January it had announced plans to cut about 1,700 roles, roughly 4% of its workforce."
-    },
-    {
-      "id": "4928793",
-      "time": "2026-06-11 00:28:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【法官敦促特朗普政府撤回上訴 政府稱上訴涉及114億美元IEEPA關稅退款】一名法官敦促特朗普政府撤回對其命令的上訴。該命令要求全額退還1660億美元被美國最高法院推翻的關稅。法官稱，上訴沒有必要，只會讓進口商拿回退款的時間進一步推遲。美國海關和邊境保護局一個多月來一直透過新的線上門戶處理退款申請，然而，在如何處理政府認為已成最終狀態的關稅繳款方面出現了爭議。政府主張，若沒有針對每家受影響進口商的法院命令，就無法退還這部分款項。週二，在美國國際貿易法院的聽證會上，一名海關官員首次證實，政府認為有爭議的金額約為114億美元。司法部一名律師隨後稱，相關金額約為100億美元，暗示爭議範圍有限。“就連我都覺得那也是真金白銀，”法官Richard Eaton在座無虛席的曼哈頓法庭上反駁道，現場一片笑聲。"
-    },
-    {
-      "id": "4928792",
-      "time": "2026-06-11 00:28:02",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "OpenAI執行長奧特曼淡化人工智慧帶來的就業風險，而高盛報告稱美國每月有1.1萬個崗位因人工智慧被取代。"
-    },
-    {
-      "id": "mkt:019eb25a-d17d-7dd8-afa9-03d872cde413",
-      "time": "2026-06-11 00:25:56",
-      "tags": [
-        "MKT News",
-        "ASML.O"
-      ],
-      "text": "ASML (ASML.O) will implement smaller-than-previously-planned headcount reductions; the layoffs are expected to take effect on May 1 next year."
     }
   ]
 }
