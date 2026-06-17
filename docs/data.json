@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-17 09:14:35",
-  "count": 18323,
+  "updated": "2026-06-17 09:18:35",
+  "count": 18320,
   "items": [
+    {
+      "id": "4939560",
+      "time": "2026-06-17 09:16:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報3656.00點。"
+    },
+    {
+      "id": "mkt:019ed326-007e-7dd8-b03c-8aac2a69e466",
+      "time": "2026-06-17 09:15:43",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.16% at 24,512, trading a 6-point premium to the cash index."
+    },
+    {
+      "id": "4939559",
+      "time": "2026-06-17 09:15:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8096，較上日調高12點】人民幣兌美元中間價報6.8096，較上日調高12點。"
+    },
+    {
+      "id": "4939558",
+      "time": "2026-06-17 09:15:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8096元。"
+    },
+    {
+      "id": "4939557",
+      "time": "2026-06-17 09:15:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證股價指數(TOPIX)上漲0.5%，報4,011.90點。"
+    },
+    {
+      "id": "4939556",
+      "time": "2026-06-17 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.11%，報24509.76點，高水15.81點。"
+    },
+    {
+      "id": "4939555",
+      "time": "2026-06-17 09:14:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加拿大總理卡尼證實他已看到了美伊協議：加拿大支援執行該協議的努力】加拿大總理馬克·卡尼表示，美伊結束戰爭的諒解備忘錄是一個“遊戲規則改變者”，並稱加拿大支援執行該協議的努力。“我們對達成的協議非常滿意。它為確保伊朗不擁有核武器奠定了基礎，並且可能隨著時間的推移促進該地區經濟的重新融合，以及在黎巴嫩實現和解的進展，”卡尼說。卡尼證實他已經看到了該協議，該協議尚未由美國正式釋出，並表示他“絕對”支援它，補充說在法國舉行的七國集團峰會上“每個人都是如此”。"
+    },
     {
       "id": "4939554",
       "time": "2026-06-17 09:13:49",
@@ -168441,96 +168502,6 @@
         "公司"
       ],
       "text": "谷歌雲：第三方資料中心發生火災，導致德里區域網路裝置被迫緊急斷電，網路容量下降。正在研究額外的流量緩解措施。已將受影響德里設施的大量流量重新路由，以解決本地服務能力下降問題。"
-    },
-    {
-      "id": "mkt:019eaf1b-b609-7ff4-a104-54d55c31ab73",
-      "time": "2026-06-10 09:18:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Google Cloud said a fire at a third-party data center in Delhi forced emergency shutdowns of network equipment, reducing regional network capacity."
-    },
-    {
-      "id": "mkt:019eaf1b-6451-7ff4-a104-48a6be58d578",
-      "time": "2026-06-10 09:17:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【GigaDevice launches GD32E512 and GD32E252 MCUs for optical modules】June 10 — China’s GigaDevice launched two MCUs, GD32E512 and GD32E252, for optical modules, covering applications from legacy low‑speed to next‑generation high‑speed ports. The launch expands GigaDevice’s optical-communications product lineup and will provide hardware support for AI compute centers and next‑generation network high‑speed optical interconnect upgrades."
-    },
-    {
-      "id": "4926963",
-      "time": "2026-06-10 09:17:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兆易創新推出全新光模組專用MCU】6月10日，兆易創新（GigaDevice）推出全新GD32E512和GD32E252系列光模組專用MCU，精準覆蓋從傳統低速到新一代高速光模組的多元應用場景。這兩款新品的釋出，將進一步拓寬兆易創新在光通訊領域的產品矩陣，並將為AI算力中心及下一代網路基礎設施的高速光互聯產業升級提供強有力的底層硬體支撐。"
-    },
-    {
-      "id": "mkt:019eaf1a-d27a-7ff4-a104-42b0d9947a95",
-      "time": "2026-06-10 09:17:11",
-      "tags": [
-        "MKT News",
-        "GOOGL.O"
-      ],
-      "text": "Google Cloud reports intermittent high-latency network traffic in and around Delhi, Chennai and Mumbai, India."
-    },
-    {
-      "id": "4926962",
-      "time": "2026-06-10 09:16:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌雲：源自德里、金奈、孟買及周邊地區的網路流量正間歇性出現延遲升高的情況。"
-    },
-    {
-      "id": "4926961",
-      "time": "2026-06-10 09:16:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8130，較上日調高17點】人民幣兌美元中間價報6.8130，較上日調高17點。"
-    },
-    {
-      "id": "mkt:019eaf19-67c0-7ff4-a104-3c08e0d3bf83",
-      "time": "2026-06-10 09:15:38",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures opened the day session down 0.98% at 24,382, trading 184 points below the spot index."
-    },
-    {
-      "id": "4926960",
-      "time": "2026-06-10 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌1.06%，報24362.77點，低水203.13點。"
-    },
-    {
-      "id": "mkt:019eaf18-cc10-7ff4-a104-3603f11c9aa7",
-      "time": "2026-06-10 09:14:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "A Fox News reporter cited a senior U.S. official saying 20 targets inside Iran were struck."
-    },
-    {
-      "id": "4926959",
-      "time": "2026-06-10 09:14:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌2%，現報1346.50元。"
     }
   ]
 }
