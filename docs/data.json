@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-18 05:34:18",
-  "count": 18762,
+  "updated": "2026-06-18 05:38:19",
+  "count": 18756,
   "items": [
+    {
+      "id": "4941872",
+      "time": "2026-06-18 05:35:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：美伊已簽署諒解備忘錄】伊朗外交部發言人巴加埃當地時間18日表示，目前伊朗與美國的諒解備忘錄文字已最終正式敲定，雙方已經簽署。（央視新聞）"
+    },
     {
       "id": "4941871",
       "time": "2026-06-18 05:33:22",
@@ -172901,84 +172909,6 @@
         "焦點"
       ],
       "text": "布倫特原油突破95美元/桶，日內漲3.88%。"
-    },
-    {
-      "id": "mkt:019eb378-9256-7dd8-afad-3f9cca6076ad",
-      "time": "2026-06-11 05:38:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "CENTCOM said it began additional self-defense strikes against multiple targets inside Iran at 5:15 p.m. ET today, saying the strikes were in response to Iran’s unprovoked and sustained acts of aggression."
-    },
-    {
-      "id": "4929018",
-      "time": "2026-06-11 05:37:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國中央司令部： 美軍中央司令部部隊於美國東部時間今日 17 時 15 分，對伊朗境內多處目標實施新一輪自衛打擊。此次行動是為回應伊朗無端且持續的挑釁行為。"
-    },
-    {
-      "id": "4929017",
-      "time": "2026-06-11 05:37:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "有訊息稱阿巴斯港發生兩起爆炸。"
-    },
-    {
-      "id": "mkt:019eb376-a186-7dd8-afad-30c6a4b2372c",
-      "time": "2026-06-11 05:35:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Mehr news agency reported Iran activated an air-defence system in the Asaluyeh area."
-    },
-    {
-      "id": "mkt:019eb376-0bec-7dd8-afad-2cb4ac892203",
-      "time": "2026-06-11 05:35:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Axios cites U.S. officials saying U.S. strikes against Iran have begun."
-    },
-    {
-      "id": "4929016",
-      "time": "2026-06-11 05:35:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據AXIOS：美國官員稱，美國對伊朗的打擊已經開始。"
-    },
-    {
-      "id": "mkt:019eb375-4c54-7dd8-afad-241aa3472b60",
-      "time": "2026-06-11 05:34:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "TASNIM NEWS reports no explosions on Kish Island or Qeshm Island; local noises heard were linked to the conflict in the Gulf region."
     }
   ]
 }
