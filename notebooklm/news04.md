@@ -1,7 +1,363 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-18 07:09:22_
-_本檔包含 3813 則快訊，約 695846 字_
+_更新時間：2026-06-18 07:45:39_
+_本檔包含 3817 則快訊，約 697013 字_
+
+---
+
+### 2026-06-14 20:20:01  #市場
+
+本週兩融餘額增幅最大：貴州燃氣兩融餘額：2.6億元，餘額增幅：81.68%；中化國際兩融餘額：9.7億元，餘額增幅：75.62%
+
+---
+
+### 2026-06-14 20:19:43  #國際
+
+市場訊息：以色列軍方在空襲貝魯特前已通知美軍中央司令部。
+
+---
+
+### 2026-06-14 20:19:41  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Axios reporter: Israeli and US officials say the Israeli military notified CENTCOM shortly before an airstrike on Beirut, Lebanon.
+
+---
+
+### 2026-06-14 20:19:12  #其他
+
+市場訊息：英國城市事務大臣將於週一與各大銀行高管舉行會談。
+
+---
+
+### 2026-06-14 20:18:39  #MKT News
+
+【Iran lawmaker says some criticisms of U.S.-Iran memorandum exaggerated】A member of the Iranian parliament's Economic Committee said the current U.S.-Iran memorandum draft contains defects and ambiguities, but calling it worse than the nuclear deal or a capitulation by Iran is inaccurate. He added the circulated text still has many problems and disputes, yet some critics' language is clearly exaggerated and does not reflect the draft's actual content and meaning.
+
+---
+
+### 2026-06-14 20:17:53  #國際
+
+【伊朗議員：對伊美諒解備忘錄的部分批評失實】據伊朗學生通訊社14日報道，伊朗議會經濟委員會委員祖胡裡揚表示，當前討論的伊美諒解備忘錄文字確實存在“缺陷和不明確之處”，但將其描述為“比伊核協議更糟糕的協議”或“伊朗投降”並不準確。他說，目前流傳的諒解備忘錄文字仍存在不少問題和爭議，然而部分批評者的措辭明顯誇張，不能準確反映其實際內容和意義。（新華社）
+
+---
+
+### 2026-06-14 20:16:50  #其他
+
+【無視國家標準和監管禁令 小哈等多家換電站違規租賃超標電池】總檯《財經調查》接到消費者反映，一些商家為了吸引消費者，謀一己私利。被總檯3·15晚會曝光整頓後，依舊無視國家標準和監管禁令，在市場上繼續非法改裝，並對外租賃銷售所謂“超長續航、動力強勁”的超標鋰電池，為消費者的生命財產安全埋下隱患。（央視財經）
+
+---
+
+### 2026-06-14 20:16:08  #國際
+
+【韓國與沙烏地阿拉伯簽署協議 將在能源領域開展合作】韓國產業部週日表示，受近期全球供應鏈波動影響，韓國與沙烏地阿拉伯簽署協議，雙方將在原油、天然氣等能源資源領域開展合作。 韓國產業部長官金正官於週六啟程對沙特展開為期兩天的訪問，期間與沙特能源大臣阿卜杜勒-阿齊茲・本・薩勒曼簽署諒解備忘錄，為雙方關鍵能源資源的長期供應合作搭建框架。 韓國產業部稱，這份合作檔案涵蓋多個領域，包括原油儲備、輸油管道基建建設，以及運用人工智慧與數字技術推動能源產業創新等。
+
+---
+
+### 2026-06-14 20:08:27  #公司 #國際
+
+【福島核電站乏燃料池冷卻系統故障】日本東京電力公司今天（6月14日）釋出訊息稱，福島第一核電站5號、6號機組的乏燃料池，6月13日下午“冷卻系統發生故障，一度停止執行”。據稱經調查“未發現裝置存在異常情況”，冷卻系統“在停止約一個半小時後恢復執行”。東電方面表示，此次故障期間，乏燃料池水溫及周邊區域的輻射水平“均未出現變化”。 (CCTV國際時訊)
+
+---
+
+### 2026-06-14 20:07:51  #國際
+
+市場訊息：以色列五月貿易逆差收窄至32.99億美元。
+
+---
+
+### 2026-06-14 20:07:29  #公司 #國際
+
+【日本公司請求阻止LNG罷工、宣稱將危害澳洲經濟，被澳大利亞法庭駁回】澳大利亞一家勞工法庭週日駁回了日本天然氣公司Inpex的申請，拒絕叫停其Ichthys液化天然氣（LNG）專案約400名油氣工人的罷工行動。澳大利亞公平工作委員會（FWC）駁回了Inpex的說法，即停工將因出口收入損失而損害澳大利亞經濟，並可能引發危險的停電事故。
+
+---
+
+### 2026-06-14 20:02:54  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Expert: Israeli strike on Beirut a "strategic probe" into US‑Iran deal】Sami Nader, director of the Levant Institute for Strategic Affairs, called Israel’s strike on Beirut’s southern suburbs a "very strategic probe" into a potential US‑Iran agreement. He said Israel is seeking to decouple a Hezbollah front from US‑Iran negotiations while Iran insists on linking them, and warned the strike could “possibly destroy” the deal. Nader added domestic politics are a driver—the far right accuses Netanyahu of being too weak on Hezbollah and of failing to escalate Lebanon—raising the key market risk of how Iran might retaliate.
+
+---
+
+### 2026-06-14 20:02:40  #其他
+
+市場訊息：安聯將牽頭競購滙豐新加坡保險業務。
+
+---
+
+### 2026-06-14 20:01:23  #MKT News
+
+【Israeli minister warns US military aircraft occupying large share of civilian airport stands】On the 14th Israeli transport minister Miri Regev sent an emergency letter to Prime Minister Netanyahu warning that prolonged US military use of civilian parking stands could, if unresolved by the 16th, force cancellation of more than 2.4 mln summer and holiday air tickets and severely damage Israel’s aviation and tourism sectors. Regev said about 72 US tanker aircraft are deployed at Ben-Gurion International Airport, occupying over half of civilian stands, and some 26 US aircraft are at Ramon Airport, using nearly 90% of its parking capacity. The Israeli Airports Authority has set the 16th as a final deadline and said it will formally notify airlines to reduce or cancel affected flights if the US aircraft are not moved. The prime minister’s office and affected airlines have not responded.
+
+---
+
+### 2026-06-14 20:01:22  #其他
+
+【致8人死亡2人失蹤 遼綏漁35261船重大傾覆事故調查報告公佈】遼寧省應急管理廳公佈遼寧葫蘆島遼綏漁35261船“10·18”重大傾覆事故調查報告：事故造成8人死亡、2人失蹤。（央視新聞）
+
+---
+
+### 2026-06-14 20:01:00  #國際
+
+【以官員警告美軍機佔用大量民用機場空間】總檯記者當地時間14日獲悉，以色列交通部長米里·雷格夫已向總理內塔尼亞胡發出緊急信函警告，大量美軍飛機長期佔用以色列民用機場停機位，若各方無法在16日前解決這一問題，將導致該國超過240萬張夏季及假期機票被強制取消，並重創該國航空與旅遊業。（央視新聞）
+
+---
+
+### 2026-06-14 19:55:01  #市場 #國際
+
+【大量日本民眾抗議高市早苗政府軍事擴張政策】14日下午，大量日本民眾在東京都內舉行遊行示威活動，抗議高市早苗政府及自民黨近期的一系列軍事擴張政策。活動現場，許多民眾頭戴寫有“反戰和平”字樣的頭盔，高喊“反對修憲”“阻止戰爭”等口號。活動發起方在主題報告中指出，日本政府一方面以“和平國家”自居，另一方面卻不斷強化日美安保體制、推動自衛隊擴大規模和國家軍事化程序，這是一條通往戰爭的道路。抗議者樫村在現場接受記者採訪時說：“當前日本物價持續上漲、稅負不斷加重，社會保障支出也在增加。與此同時，政府還試圖推動限制言論自由和壓制反戰聲音的立法，人們將失去自由表達的空間。”（新華社）
+
+---
+
+### 2026-06-14 19:54:24  #MKT News #Market Regions #Japan & APAC
+
+【Mass protest in Tokyo against Sanae Takaichi government military-expansion policies】On the afternoon of the 14th, large numbers of demonstrators marched in Tokyo to protest the Sanae Takaichi government's recent military-expansion measures. Protesters wearing helmets marked anti-war/peace chanted against constitutional revision and to prevent war; organizers accused the government of strengthening the US-Japan security framework, expanding the Self-Defense Forces and accelerating national militarization, calling it a path to war. A protester surnamed Kashimura told reporters that persistent price rises, heavier tax burdens and higher social-security spending, together with proposed laws to curb speech and suppress anti-war voices, threaten freedom of expression.
+
+---
+
+### 2026-06-14 19:51:46  #國際
+
+【以色列總理下令打擊黎巴嫩首都的真主黨目標】以色列總理內塔尼亞胡14日說，他當天下令以軍對黎巴嫩首都貝魯特南郊代希耶地區的黎真主黨目標發動打擊。 內塔尼亞胡和以國防部長卡茨當天在一份聯合宣告中說，他們指示以軍發動了本輪襲擊，以回應黎真主黨向以色列領土開火的行為。同日，以軍在一份宣告中稱已“精準打擊”了位於代希耶的黎真主黨基礎設施目標。 以軍當天稍早時通報說，以色列北部多個地區拉響防空警報，警告有“敵機入侵”，隨後兩架“可疑空中目標”落入以黎臨時邊界以色列一側境內。 以軍近期在黎巴嫩南部持續開展軍事行動。以軍13日發表宣告說，過去24小時，以軍在黎南部打擊了70多個真主黨軍事目標，同時打死多名武裝人員。(新華社)
+
+---
+
+### 2026-06-14 19:47:24  #MKT News
+
+【Palestinian factions present unified response to US 20-point plan phase two】On June 14, Hamas said it submitted on June 13 a unified Palestinian response to the US-proposed Gaza 20-point plan phase-two arrangements to relevant parties. Factions said they will review and respond with high responsibility and a positive attitude. They emphasized strict, full implementation of the phase-one ceasefire agreement, particularly comprehensive humanitarian measures and an immediate halt to all forms of aggression against Gaza’s population. Hamas said its delegation will remain in Cairo to continue meetings with mediators and Palestinian factions to advance implementation of agreed items.
+
+---
+
+### 2026-06-14 19:46:33  #國際
+
+【巴勒斯坦各派別達成統一立場 回應“20點計劃”第二階段安排】當地時間6月14日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發表宣告稱，哈馬斯已於13日正式向相關方面遞交了巴勒斯坦各派別對美方所提加沙衝突“20點計劃”第二階段安排的回應。
+
+宣告表示，相關方案由美國發起的所謂“和平委員會”加沙高階代表尼古拉·姆拉德諾夫於今年4月19日提交。過去一週裡，哈馬斯、巴勒斯坦各派別以及埃及、卡達、土耳其等停火斡旋方在埃及首都開羅舉行了多場會晤。經過密集溝通，巴勒斯坦各派別最終達成了“統一的國家立場”，並於13日完成遞交。
+
+宣告指出，巴勒斯坦各派別表示，將以“高度的責任感和積極態度”審議並回應美方所提上述計劃第二階段安排。各派別在回應中強調，必須不折不扣地執行停火第一階段協議，特別是要全面落實人道主義協議、立即停止針對加沙地帶巴勒斯坦人民的一切形式的侵略行為。
+
+宣告還強調，必須完全遵守相關方案中闡明的核心條款，包括過渡性的巴勒斯坦技術官僚委員會進駐管理加沙地帶、以色列軍隊從加沙地帶全面撤軍、災後重建，並最終實現巴勒斯坦人民建立獨立國家和獲得自決權的合法目標。
+
+哈馬斯在宣告最後表示，哈馬斯代表團目前仍將在開羅繼續與各斡旋方及巴勒斯坦內部各派別舉行會晤，以進一步推進落實各方已達成一致的相關協議內容。（央視新聞）
+
+---
+
+### 2026-06-14 19:43:03  #焦點 #國際
+
+【6月14日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【牢記初心使命 奮進復興征程】賡續紅色血脈 走好新時代長征路； 2.王滬寧出席兩岸融合發展示範區建設專題推進會； 3.【在希望的田野上】各地做好搶收搶種 築牢豐收基礎； 4.前5個月鐵路客貨運量多項指標創新高； 5.各地積極調整最佳化住房公積金政策； 6.建設“清水”北京 享受“親水”生活； 7.【黨旗在基層一線高高飄揚】侯貴：從沙海一棵樹 到綠洲一片林； 8.【美麗中國行】泥巴山上架起“熊貓廊道”； 9.【文化中國行】薪火相傳 秦腔不老； 10.國內聯播快訊： （1）《金融資訊服務資料分類分級指南》印發； （2）我國首次開展蔬菜純電農機實地綜合測評； （3）各地各部門舉行世界獻血者日主題活動； （4）第28屆上海國際電影節開幕； （5）首屆中國AI創業者大會暨《贏在AI+》第二季啟動； 11.美稱14日與伊朗籤協議 伊朗稱簽署時間待定 以媒稱美伊協議危及以色列安全利益； 12.國際聯播快訊： （1）以稱打擊黎首都貝魯特達希耶地區； （2）美軍一架“大黃蜂”戰機墜毀 引發火災。
+
+---
+
+### 2026-06-14 19:33:06  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israeli airstrike on Beirut's Dahieh kills one, wounds at least four】An Israeli airstrike on Dahieh, a southern suburb of Beirut, earlier on the 14th killed one and wounded at least four. Prime Minister Netanyahu said on social media that Israel struck Hezbollah targets in Dahieh.
+
+---
+
+### 2026-06-14 19:32:46  #國際
+
+【以軍空襲黎巴嫩首都貝魯特南郊已致1死4傷】總檯記者當地時間14日獲悉，當天早些時候以軍對黎巴嫩首都貝魯特南郊達希耶地區的空襲，已造成1人死亡，另有至少4人受傷。此外，在以軍空襲貝魯特之後，以總理內塔尼亞胡14日透過社交媒體發文表示，以色列襲擊了位於貝魯特達希耶地區的真主黨目標。（央視新聞）
+
+---
+
+### 2026-06-14 19:31:49  #國際
+
+據伊朗方面訊息：巴基斯坦外長與土耳其外長進行了通話，雙方討論了美伊和平談判。
+
+---
+
+### 2026-06-14 19:31:40  #MKT News
+
+Tasnim News reported Pakistan's foreign minister held a phone call with Turkey's foreign minister to discuss U.S.-Iran peace talks.
+
+---
+
+### 2026-06-14 19:31:29  #國際
+
+【伊朗官員稱以色列政權為“瘋狗”，必須加以控制】據以色列方面訊息：伊朗議會國家安全與外交政策委員會發言人雷扎伊表示，如果我們尋求達成協議或共識，其必經之路是要管束猶太復國主義政權。這隻瘋狗必須被控制。
+
+---
+
+### 2026-06-14 19:30:11  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Iranian official calls Israeli regime 'mad dog', says it must be controlled】i24News reported that Rezai, spokesman for the Iranian parliament's National Security and Foreign Policy Commission, said any route to an agreement or consensus requires reining in the Zionist regime. 'This mad dog must be controlled.'
+
+---
+
+### 2026-06-14 19:28:35  #公司
+
+【吉林回應組建本土客運航空公司提案：主管部門原則上不再新批】近日，吉林省交通運輸廳在答覆有關組建吉林航空公司的提案時透露，現階段直接新組建獨立客運航空公司暫不具備審批條件。吉林省交通運輸廳提到，組建本土基地客運航空公司，對於完善吉林省干支航空網路、提升長春龍嘉機場區域樞紐能級、帶動冰雪旅遊與邊境旅遊提質升級、服務新時代吉林全面振興具有重要戰略意義。當前，該省“一主多輔”機場格局基本形成，航空客流穩步恢復，文旅市場持續升溫，航線網路覆蓋面不斷擴大，具備培育地方骨幹航空市場主體的現實基礎。對此，省委省政府高度重視，相關部門已圍繞組建本土航空公司、打造基地航司、提升航線自主可控能力開展多輪專題調研與可行性論證。從國家現行政策層面看，民航主管部門對新設客運航空公司實施嚴格總量調控，從嚴控制新增籌建主體，原則上不再新批客運航空公司，僅支援依規新設貨運航空主體。綜合國家政策導向與吉林省實際，現階段直接新組建獨立客運航空公司暫不具備審批條件。（澎湃）
+
+---
+
+### 2026-06-14 19:26:51  #公司
+
+【禮邦醫藥（江蘇）股份有限公司-B透過港交所上市聆訊】禮邦醫藥（江蘇）股份有限公司-B更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-14 19:24:59  #公司
+
+【安克創新科技股份有限公司透過港交所上市聆訊】安克創新科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-14 19:22:17  #公司
+
+【浙江來福諧波傳動股份有限公司透過港交所上市聆訊】浙江來福諧波傳動股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-14 19:21:44  #其他
+
+杭州千島湖鱘龍科技更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-06-14 19:20:39  #公司
+
+【港股IPO：華院計算技術(上海)股份有限公司遞表港交所】華院計算技術(上海)股份有限公司向港交所提交上市申請書，聯席保薦人為中國銀河國際、建銀國際。
+
+---
+
+### 2026-06-14 19:20:06  #國際
+
+據黎巴嫩國家通訊社：初步統計顯示，以色列空襲貝魯特南郊造成1人死亡、4人受傷。
+
+---
+
+### 2026-06-14 19:19:23  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Lebanese National News Agency says preliminary figures show an Israeli airstrike on Beirut's southern suburbs killed one and wounded four.
+
+---
+
+### 2026-06-14 19:18:15  #MKT News
+
+Visual (China) Cultural Development Co., Ltd. has filed a listing application with HKEX; sole sponsor is Huatai International.
+
+---
+
+### 2026-06-14 19:17:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israel's Channel 12 said the target of an Israeli strike on the southern suburbs of Beirut was a Hezbollah communications-system official.
+
+---
+
+### 2026-06-14 19:16:59  #國際
+
+以色列方面訊息：突襲貝魯特南部郊區目標是一名真主黨通訊系統官員。
+
+---
+
+### 2026-06-14 19:15:29  #MKT News #Market Regions #Greater China
+
+【Guangdong raises flood-control emergency response to Level III】Under the provincial flood/drought/wind/freeze emergency plan and related rules, Guangdong province’s flood-control command upgraded its emergency response from Level IV to Level III at 19:00 on June 14. Provincial meteorological and hydrological monitoring projects heavy rain will continue; soils are highly saturated and river baseflows elevated, raising risks of flash floods, geological hazards and urban and rural waterlogging.
+
+---
+
+### 2026-06-14 19:14:59  #其他
+
+【廣東將防汛應急響應提升至Ⅲ級】根據廣東省氣象、水文部門監測預報，未來幾天廣東省強降雨過程仍將持續。目前廣東省土壤含水量高度飽和，江河底水高，發生山洪、地質災害、城鄉內澇風險高，安全風險進一步加大。鑑於目前防汛形勢，根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防汛防旱防風總指揮部已於6月14日19時將防汛Ⅳ級應急響應提升至Ⅲ級。（央視新聞）
+
+---
+
+### 2026-06-14 19:11:46  #公司 #國際
+
+【港股IPO：視覺（中國）文化發展股份有限公司遞表港交所】視覺（中國）文化發展股份有限公司向港交所提交上市申請書，獨家保薦人為華泰國際。
+
+---
+
+### 2026-06-14 19:08:21  #國際
+
+以色列國防軍：打擊目標為貝魯特達希耶地區的一處真主黨指揮中心，此舉是針對該組織向以色列發射空中目標的回應。在以方實施打擊之前，已採取措施以減輕對平民的傷害。
+
+---
+
+### 2026-06-14 19:08:08  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel Defense Forces said it struck a Hezbollah command center in Beirut’s Dahiyeh district in response to the group launching aerial targets toward Israel, and that measures were taken before the strike to limit civilian harm.
+
+---
+
+### 2026-06-14 19:07:07  #MKT News #WTI #Impact bearish #Brent
+
+【Iran negotiator adviser outlines proposed US-Iran memorandum details】Mehdi Mohammadi, strategic adviser to Iran’s negotiating team, disclosed proposed elements of a draft US‑Iran memorandum that would: halt military operations against Iran and Lebanon and provide US security assurances to prevent renewed strikes; partially unfreeze Iranian frozen assets and suspend selected economic restrictions and sanctions to enable expanded economic ties and oil sales; and lift maritime and trade restrictions to restore Iranian seaborne commerce, facilitate merchant shipping and remove barriers on international shipping routes. These items were described as proposals in the draft memorandum.
+
+---
+
+### 2026-06-14 19:03:33  #焦點 #國際
+
+【伊朗談判團隊顧問披露擬議諒解備忘錄細節】據伊朗法爾斯通訊社14日報道，伊朗談判團隊負責人戰略顧問邁赫迪·穆罕默迪披露了擬議中的伊朗與美國諒解備忘錄部分細節，涉及停火安排、資產解凍、制裁解除以及後續核問題談判等議題。
+報道說，第一是停止衝突與安全保障。要全面停止針對伊朗和黎巴嫩的軍事行動，並防止任何新的軍事行動。同時美方必須提供必要保證，以防止再次出現緊張局勢。
+第二，解凍部分伊朗被凍結資產，同時暫停部分經濟限制和制裁的程序將啟動，以便為擴大經濟往來和石油銷售創造條件。
+第三，解除海運和貿易限制，使伊朗海上貿易恢復正常狀態，為伊朗商船通行提供便利並減少海上限制，並消除國際運輸路線上的現有障礙。
+第四，核問題談判將在後續階段展開。根據當前談判文字，核問題不屬於協議第一階段內容。對方兌現初步承諾後，有關核問題的談判才會進入下一階段。
+第五，解除制裁與重建。在最終階段，將重點討論取消美國一級和二級制裁以及建立相關機制，對戰爭損失進行賠償並進行重建。這是伊朗最重要的訴求之一。
+截至目前，伊朗官方仍表示伊朗尚未就諒解備忘錄作出最終決定，相關審議工作仍在繼續。（新華社）
+
+---
+
+### 2026-06-14 19:00:28  #國際
+
+【喬治亞議長：大力支援共建“一帶一路”倡議】喬治亞議長帕普阿什維利日前接受總檯《高階訪談》欄目專訪，在談到共建“一帶一路”倡議時，他表示，喬治亞是連線歐洲與亞洲的通道，也是共建“一帶一路”倡議的堅定支持者之一。（央視新聞）
+
+---
+
+### 2026-06-14 18:59:35  #國際
+
+以色列軍方：對貝魯特的一個真主黨指揮中心實施了精準打擊。
+
+---
+
+### 2026-06-14 18:59:18  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Israeli military says it conducted a precision strike on a Hezbollah command center in Beirut, Lebanon.
+
+---
+
+### 2026-06-14 18:54:17  #國際
+
+【專家：以色列攔不住美伊簽字 但可能製造摩擦】中國國際問題研究院助理研究員李子昕表示，就諒解備忘錄的簽字本身來說，以色列肯定是攔不住的。以色列不是美伊諒解備忘錄的直接當事方，也沒有任何的否決權，在當前白宮面臨巨大國內政治壓力的背景下，更是難以左右特朗普總統本人的意志。所以，以色列攔不住美伊簽字，但以色列從來不需要正式的否決來攪局，而是慣常以製造既成事實的方式來破壞停火的條件。以色列能夠對局勢產生多大的影響，一方面是要看美國的影響，另外一方面是伊朗的反應。考慮到美伊都有很大的動力來實現停火，以色列恐怕難以完全破壞當前態勢，但以軍仍然可以不斷地在低烈度的層面製造摩擦，客觀上來提高美伊達成最終停火協議的難度。（央視新聞）
+
+---
+
+### 2026-06-14 18:54:04  #MKT News
+
+【Expert: Israel cannot stop US-Iran signing but can create friction】Li Zixin, assistant researcher at the China Institute of International Studies, said Israel cannot prevent the signing of a US‑Iran memorandum of understanding — it is not a direct party and has no veto, and with the White House under heavy domestic political pressure Israel is unlikely to sway President Trump. Israel is more likely to disrupt ceasefire conditions through faits accomplis than formal vetoes. Israel’s actual impact will hinge on US leverage and Iran’s response; because both the US and Iran have strong incentives to secure a ceasefire, Israel is unlikely to fully derail the process, but its military can continue low‑intensity actions that objectively raise the difficulty of reaching a final ceasefire agreement.
+
+---
+
+### 2026-06-14 18:43:16  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Israeli military strikes Beirut's southern suburbs again】On June 14 the Israeli military carried out another airstrike on the southern suburbs of Beirut, Lebanon.
+
+---
+
+### 2026-06-14 18:42:59  #國際
+
+以色列國防軍14日發表宣告稱，已對黎巴嫩首都貝魯特的黎真主黨目標發動襲擊。（新華社）
+
+---
+
+### 2026-06-14 18:41:26  #MKT News #XAUUSD #Impact bullish #DXY
+
+The Israel Defense Forces said it carried out precision strikes on Hezbollah infrastructure in Beirut’s Dahiyeh; further details will be released later.
+
+---
+
+### 2026-06-14 18:40:39  #其他
+
+【多部門釋出氣象風險預警 局地最大小時雨量可超90毫米】多部門釋出氣象風險預警，預計6月14日20時至15日20時，我國多地雨勢明顯，部分地區伴有短時強降水，局地有雷暴大風等強對流天氣，請注意防範。中央氣象臺繼續釋出暴雨黃色預警，廣東、廣西、福建、臺灣、雲南等地有大到暴雨，部分地區有大暴雨或特大暴雨，最大小時降雨量可達90毫米。同時，自然資源部與中國氣象局聯合釋出黃色地質災害氣象風險預警，廣東、廣西、雲南等地發生地質災害的氣象風險較高。中央氣象臺還發布中小河流洪水氣象風險預警和山洪災害氣象風險預警，廣東、廣西、雲南等地需防範中小河流洪水和山洪災害。（央視新聞）
+
+---
+
+### 2026-06-14 18:37:43  #MKT News #Important #XAUUSD #Impact bullish #DXY #Brent
+
+Israeli military said it struck Hezbollah targets in the southern suburbs of Beirut, Lebanon, in response to Hezbollah firing into Israeli territory.
+
+---
+
+### 2026-06-14 18:35:25  #國際
+
+市場訊息：以色列軍方宣告稱，以軍襲擊貝魯特南郊，以此回應真主黨向以色列境內開火。
 
 ---
 
@@ -22708,323 +23064,5 @@ Hong Kong-listed new-energy vehicle stocks rose amid choppy trading; Great Wall 
 ### 2026-06-12 10:49:11  #其他
 
 【工信部：核查處置涉詐高風險電話卡近2億張】從公安部今天（12日）召開的新聞釋出會上獲悉，截至2025年底，資訊通訊行業累計核查處置涉詐高風險電話卡近2億張、網際網路賬號超4億個，協助公安機關繳獲用於撥打詐騙電話的“插卡叢集裝置”，也就是俗稱的“貓池”裝置21萬個，打擊非法架設“貓池”裝置的犯罪窩點11.7萬個，從源頭斬斷詐騙通訊鏈條，與200餘家電信和網際網路企業實現技術對接，構建起快速、實時、有效的技防體系，2025年累計攔截詐騙電話、簡訊64.8億次，處置涉詐域名網址超1100萬個。
-
----
-
-### 2026-06-12 10:48:38  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
-
-China CSI 300 index futures main contract (IF) rose 2.00% intraday to 4,771.0 points.
-
----
-
-### 2026-06-12 10:48:23  #公司
-
-【巴西對涉中企尼龍長絲作出反傾銷終裁】據中國貿易救濟資訊網，6月9日，巴西外貿委員會管理執行委員會(GECEX)釋出2026年第908號決議，對原產於或進口自中國生產商/出口商義烏華鼎錦綸股份有限公司（Yiwu Huading Nylon Co., Ltd.）的尼龍長絲（葡萄牙語：fios têxteis de filamentos contínuos de náilon）作出反傾銷肯定性終裁，決定對該公司及其關聯生產商/出口商均徵收2192.48美元/噸的反傾銷稅，有效期為5年，其關聯生產商/出口商如下：江西集好新材料有限公司（Jiangxi Jihao New Material Co., Ltd.）、浙江亞特新材料有限公司（Zhejiang Yate New Material Co., Ltd.）、義烏市鼎特新材料有限公司（Yiwu Dingte New Material Co., Ltd.）。但出於公共利益考慮，該措施暫停實施。涉案產品的南共市稅號為5402.31.11、5402.31.19和5402.45.20。本決議自發布之日起生效。
-
----
-
-### 2026-06-12 10:48:21  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index #CNH
-
-China's CSI 500 index futures (IC) most-active contract rose 3.00% intraday to 8,204.6 points.
-
----
-
-### 2026-06-12 10:47:54  #MKT News
-
-【CPCA's Cui Dongshu: May average price of new-energy passenger cars 169,000 yuan, up 7,000 yuan YoY】Cui Dongshu, secretary-general of the CPCA, said price moves are driven chiefly by model mix and sales volume; slower sales growth tends to push market-average prices higher. He reported May average price for new-energy passenger cars at 169,000 yuan, up 7,000 yuan YoY. Broader passenger-car retail averages were 165,000 yuan in 2021, rose to 184,000 yuan in 2024, fell to 168,000 yuan in 2025 (down 16,000 yuan vs 2024), and stood at 173,000 yuan in May 2026, up 4,000 yuan YoY.
-
----
-
-### 2026-06-12 10:47:23  #其他
-
-東山精密成交額達100億元，現漲6%。
-
----
-
-### 2026-06-12 10:47:21  #MKT News #Macro & Rates #DXY #Impact bearish
-
-Westpac expects the Reserve Bank of Australia to hold rates at its June 15-16 meeting but says further hikes remain possible.
-
----
-
-### 2026-06-12 10:47:01  #市場
-
-滬深300指數期貨上漲2.0%至4,668.60點。
-
----
-
-### 2026-06-12 10:46:43  #其他
-
-Piper Sandler將Adobe目標價格從280美元下調至240美元。
-
----
-
-### 2026-06-12 10:45:49  #公司
-
-【科力遠成立雲芯智慧科技公司，含AI業務】企查查APP顯示，近日，廣東科力遠雲芯智慧科技有限公司成立，法定代表人為薛永忠，註冊資本3000萬元，經營範圍包括人工智慧應用軟體開發、人工智慧行業應用系統整合服務、積體電路設計等。企查查股權穿透顯示，該公司由科力遠全資持股。
-
----
-
-### 2026-06-12 10:45:45  #公司 #市場
-
-【金屬新材料板塊走高】金屬新材料板塊走高，新萊福漲停，安泰科技此前封板，屹通新材、惠同新材、鉑科新材、天力複合、春光集團等跟漲。
-
----
-
-### 2026-06-12 10:45:40  #MKT News #Market Regions #Greater China
-
-【BGI Group says US DoD CMC listing lacks factual basis, will seek to defend rights】BGI Group said being added to the US Department of Defense’s Chinese Military-Linked Companies (CMC) list is without basis, calling the DoD’s action “completely contrary to objective facts and lacking factual basis.” The company said it will pursue all channels of engagement and communication to protect its lawful rights.
-
----
-
-### 2026-06-12 10:45:38  #國際
-
-【美媒：多國官員致電勸說特朗普擱置軍事行動】據Politico，在特朗普於當地時間週四早上警告將“今晚對伊朗採取非常強硬措施”後，卡達、阿聯酋和巴基斯坦的領導人進行了最後一搏，試圖改變他的想法。 他們向他保證，初步協議觸手可及。根據政府官員和一位外交官的說法，這些電話幫助說服特朗普暫時擱置軍事行動。
-
----
-
-### 2026-06-12 10:45:37  #MKT News #Important #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-【US media: Qatar, UAE and Pakistan leaders phoned Trump to urge shelving Iran military action】Politico reports that after Trump warned on Thursday morning he would take "very tough measures" against Iran "tonight", leaders of Qatar, the UAE and Pakistan phoned to urge him to hold off, saying a preliminary agreement was within reach; government officials and a diplomat say the calls helped persuade Trump to temporarily shelve military action.
-
----
-
-### 2026-06-12 10:44:04  #經濟數據 #中國
-
-【乘聯分會崔東樹：5月新能源乘用車均價16.9萬元 同比上漲0.7萬元】6月12日，乘聯分會秘書長崔東樹發文表示，影響價格變化的主要是結構變化和銷量變化。銷量增長慢則車市均價呈現持續上升的態勢，2021年乘用車零售均價是16.5萬元，一路上升到2024年均價是18.4萬元。2025年乘用車均價是16.8萬元，較2024年均價下降1.6萬元。2026年5月乘用車均價17.3萬元，均價較同期提升0.4萬元。
-
----
-
-### 2026-06-12 10:43:56  #公司 #觀點
-
-【眾擎機器人據悉秘密提交香港IPO申請】據知情人士稱，總部位於深圳的眾擎機器人已以保密方式申請在香港IPO，加入競爭對手之列尋求上市融資。不願具名的知情人士表示，眾擎機器人正與中金公司和中信證券合作，推進潛在的股票發行。知情人士稱，相關討論仍在進行中，IPO的規模和時間等細節尚未確定。
-
----
-
-### 2026-06-12 10:43:30  #市場 #焦點
-
-低硫燃料油連續主力合約日內跌4%，現報4398.00元。
-
----
-
-### 2026-06-12 10:42:37  #央行 #美聯儲
-
-【加息有可能嗎？珍妮特·耶倫：我的答案是“yes”】珍妮特·耶倫（JanetYellen）認為，美國正在遭遇三重截然不同的供給衝擊，包括關稅推高物價、能源衝擊以及AI推升電價及半導體價格。在她看來，降息的可能性已經消失，市場已經開始定價加息的機率。
-
----
-
-### 2026-06-12 10:42:33  #公司 #國際
-
-【華大集團回應被列入美方CMC清單：缺乏事實依據 將採取措施維權】針對被美國戰爭部列入“中國軍事企業清單（CMC清單）”一事，華大集團今日釋出宣告稱，公司被列入該清單“毫無依據”，美國戰爭部將公司及相關企業列入CMC清單“完全違背客觀事實、缺乏事實依據”，公司將採取一切交涉溝通手段，維護自身合法權益。
-
----
-
-### 2026-06-12 10:42:17  #行業 #市場
-
-【乘聯分會崔東樹：5月新能源乘用車均價16.9萬元，同比上漲0.7萬元】6月12日，乘聯分會秘書長崔東樹發文表示，影響價格變化的主要是結構變化和銷量變化。銷量增長慢則車市均價呈現持續上升的態勢，2021年乘用車零售均價是16.5萬元，一路上升到2024年均價是18.4萬元。2025年乘用車均價是16.8萬元，較2024年均價下降1.6萬元。2026年5月乘用車均價17.3萬元，均價較同期提升0.4萬元。常規燃油車價格持續上升，市場萎縮在中低端很明顯，而高階萎縮慢，因此從2021年的16.6萬元上升到2024年的18.8萬元。2025年隨著高階燃油車的較快萎縮，2025年的均價降低到17.7萬元，2026年5月均價18萬元，燃油車購買群體買車逐步穩定。而新能源車的均價近期逐步下降，從2023年的均價18.4萬元，下降到2024年的均價18.0萬元，2025年的均價16.0萬元，價格下降明顯。2026年5月是16.9萬元，漲價0.7萬元，量跌價升，體現新能源車消費的結構性變化。
-
----
-
-### 2026-06-12 10:41:37  #市場
-
-上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報170150元/噸，較上日16:30價格上漲2250元/噸。
-
----
-
-### 2026-06-12 10:41:26  #市場
-
-港股大模型概念股走弱，MINIMAX跌近8%，創1月底以來新低。智譜轉跌，盤初一度漲超13%。
-
----
-
-### 2026-06-12 10:40:42  #MKT News #Important #Market Themes #AI Revolution #00100.HK #Impact bearish #02513.HK
-
-Hong Kong large-model AI stocks weakened: MINIMAX-W (00100.HK) fell over 7%; Zhipu (02513.HK) turned negative after an early intraday gain of more than 12%.
-
----
-
-### 2026-06-12 10:40:23  #其他
-
-亨通光電成交額達100億元，現跌0.58%。
-
----
-
-### 2026-06-12 10:40:10  #國際
-
-【日本多地今日將舉行反對修憲等集會活動】近期，不斷有日本民眾舉行不同規模的集會，抗議高市早苗政府一系列擴軍備武危險動向。當地時間今日（12日）下午至傍晚，日本東京、大阪、宮城等地民眾將組織集會活動，表達“反對修憲”“守護和平憲法”的呼聲。（央視）
-
----
-
-### 2026-06-12 10:36:59  #國際
-
-印尼主權財富基金DANANTARA：將監控出口價格，而非充當中間商。
-
----
-
-### 2026-06-12 10:36:14  #MKT News #Important #Market Themes #Chip Wars #Market Regions #Greater China #SOXX.O #Impact bullish #SMH.O
-
-China-South Korea semiconductor ETF rose more than 7%; global chips LOF rose more than 3%.
-
----
-
-### 2026-06-12 10:36:04  #公司 #市場
-
-【工業金屬板塊走高，銅陵有色漲停】工業金屬板塊走高，銅陵有色、鋅業股份、中色股份、馳宏鋅鍺、金田股份漲停，焦作萬方、洛陽鉬業、豫光金鉛、北方銅業、雲南銅業跟漲。
-
----
-
-### 2026-06-12 10:35:34  #公司 #國際
-
-【黃仁勳做客韓國綜藝節目】黃仁勳近日在韓國綜藝節目《You Quiz on the Block》中回顧了自己的成長經歷。 他表示，9歲移民美國後，曾在餐廳從事洗碗和打掃廁所等工作。“無論做什麼事情，我都會付出100%的努力”。 他說，“工作本身並不重要，重要的是完成工作後的成果，因為那代表著你自己”。 對於成功所需要具備的品質，黃仁勳認為最重要的是面對失敗的能力。 他說，“如果想變得偉大，就必須經歷痛苦和失敗。經歷失敗、重新站起來的過程，會塑造一個人的韌性和人格”。 談及AI時代時，黃仁勳表示，人工智慧將大幅降低技術門檻。 “AI很簡單，而計算機本身很複雜。過去只有學習過程式設計的人才能使用計算機，但現在計算機已經變得足夠聰明，人們只需要告訴它自己想要什麼即可”。 他認為，AI將縮小技術差距。 不過，他同時強調，“智慧如今已經變得普遍。藉助人工智慧和網際網路，人們可以輕易獲得知識，但人格和韌性依然是最難獲得的東西”。 在節目中，黃仁勳還公開談及與韓國企業界人士的關係。當被問及曾於去年參加“炸雞聚會”的三星電子董事長李在鎔、現代汽車集團董事長鄭義宣和SK集團董事長崔泰源三人之中與誰關係最鐵時，黃仁勳沒有直接作答，而是表示，“我希望他們所有人都能成功”。 他進一步評價稱，“這三位都是令人難以置信的傑出世界級領導者。對於這三家公司來說，能夠擁有這樣的領導者是一件非常幸運的事情”。（中國僑網）
-
----
-
-### 2026-06-12 10:35:16  #MKT News #Commodities #Precious Metals #Market Regions #Greater China #XAUUSD #Impact bullish #CSI300
-
-China A-share precious metals sector strengthened, led by Zhaojin Gold (up >6%) and Hunan Silver (up >5%); Xiaocheng Technology, Hengbang, Sichuan Gold and Xingye Silver & Tin also advanced.
-
----
-
-### 2026-06-12 10:34:32  #MKT News
-
-【Three high-frequency fraud types targeting the elderly】At a press briefing on the 12th, the Ministry of Public Security said frauds targeting the elderly fall into three high-frequency types. First, pension-investment schemes that lure seniors with supposedly guaranteed high-yield wealth products, collectibles or pre-IPO shares, senior apartments, or retirement/healthcare project investments. Second, health-product scams using free clinics or health talks to exaggerate efficacy or fabricate illnesses to sell overpriced supplements and therapy devices. Third, impersonation scams where callers pose as police, prosecutors, medical-insurance, social-security or civil‑affairs staff — alleging the elder is implicated in a case, that insurance is frozen, or there are pension-subsidy issues — to request cooperation and induce transfers to “verify” funds; or impersonate relatives to claim emergencies or request urgent transfers.
-
----
-
-### 2026-06-12 10:34:29  #其他
-
-【養老投資、推銷保健品、冒充身份 涉老年人詐騙犯罪3種高發型別】從公安部今天（12日）召開的新聞釋出會上獲悉，涉老年人詐騙違法犯罪主要有3種高發型別：一是養老投資類，以保本高息理財產品、收藏品或原始股、養老公寓、康養專案等為誘餌，誘騙老人投資。二是推銷保健品類，打著專家義診、健康講座旗號，誇大藥效、虛構病情，推銷高價保健品、理療器械。三是冒充身份類，冒充公檢法、醫保、社保、民政等工作人員，謊稱老年人涉案、醫保凍結、養老補貼申領等，要求配合調查，誘導轉賬驗資；或者冒充老人的子女、親友等，以出事急需用錢、代繳費等為由借錢轉賬。（央視新聞）
-
----
-
-### 2026-06-12 10:33:58  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #DXY #Impact bearish
-
-【January–May China railway fixed-asset investment 248.5 bln yuan, +2.6% YoY】China's national railway fixed-asset investment totaled 248.5 billion yuan in January–May, up 2.6% YoY, supporting expansion of domestic demand and reinforcing domestic growth momentum.
-
----
-
-### 2026-06-12 10:33:56  #其他
-
-【1至5月全國鐵路完成固定資產投資2485億元 同比增長2.6%】今年1至5月，全國鐵路完成固定資產投資2485億元，同比增長2.6%，有效發揮了鐵路建設投資帶動作用，為全方位擴大內需、增強經濟社會發展內生動力提供了有力支撐。（中國鐵路）
-
----
-
-### 2026-06-12 10:33:10  #市場
-
-【黃金概念持續走強，潮宏基漲停】黃金概念持續走強，潮宏基漲停，寶鼎科技、洛陽鉬業、豫光金鉛、江西銅業、招金黃金、盛屯礦業等跟漲。
-
----
-
-### 2026-06-12 10:33:08  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時放量2987億元。
-
----
-
-### 2026-06-12 10:32:41  #其他
-
-佰維儲存成交額達100億元，現漲6.02%。
-
----
-
-### 2026-06-12 10:32:21  #MKT News #Market Regions #Greater China #Market Themes #China Tech Giants
-
-【DJI sues Insta360 alleging wholesale copying; Insta360 files U.S. counterclaims】DJI and its Osmo unit filed patent-infringement suits on June 10–11 in the U.S. District Court for the Eastern District of Texas against Insta360 and affiliates, alleging the Luna handheld gimbal camera infringes DJI patents. On June 12 Insta360 filed patent counterclaims in the U.S. against DJI covering five invention patents related to gimbal and panoramic cameras.
-
----
-
-### 2026-06-12 10:31:23  #市場
-
-日經225指數早盤收盤上漲3.5%，至66442.95點。東證指數早盤收盤上漲1.6%，至3893.47點。
-
----
-
-### 2026-06-12 10:30:37  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10Y Yield Falls Ahead of BOJ Meeting — Japan's 10-year government bond yield slipped to around 2.65% on Friday, hitting a one-week low as investors looked ahead to the Bank of Japan's policy meeting next week, where it is are widely expected to raise interest rates amid persistent inflation and a weak yen. The central bank is expected to lift its policy rate by 25 basis points to 1%, marking the first increase since December last year and the highest level since 1995. Meanwhile, BOJ Governor Kazuo Ueda has been hospitalized with a hepatic cyst infection and will miss the meeting. Japanese bond yields also followed US Treasury yields lower after President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe. His comments sent oil prices sharply lower, easing market concerns about stubborn inflation and the need for furtherinterest rate hikes.
-
----
-
-### 2026-06-12 10:30:33  #公司
-
-【愛心人壽1.5億股股份被公開轉讓】據北京產權交易所網站的資訊顯示，愛心人壽保險股份有限公司1.5億股股份（佔總股本的6.47%）被公開轉讓，轉讓方為五方天雅集團有限公司（以下簡稱“五方天雅”），該筆股權轉讓底價約為2.5億元。據瞭解，五方天雅集團此次屬於“清倉式”轉讓，如果股權轉讓順利，將不再持有愛心人壽股權。
-
----
-
-### 2026-06-12 10:28:43  #MKT News #Market Regions #Japan & APAC #DXY #Impact bearish #Copper #Impact bullish #XAUUSD
-
-Australia's S&P/ASX 200 index rose 2% to 8,803.9.
-
----
-
-### 2026-06-12 10:27:36  #市場 #焦點
-
-科創50日內漲幅達1.98%，成分股中，晶合整合漲14.14%，盛美上海漲11.61%，中控技術漲10.53%，生益電子漲9.42%。
-
----
-
-### 2026-06-12 10:27:28  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Stocks Poised for First Weekly Gain in Eight — Indonesian shares climbed 91 points, or 1.6%, to 5,977 in Friday morning trade, marking gains for a fourth session after Wall Street rallied overnight on optimism that a U.S.–Iran deal could be reached as early as this weekend. Locally, officials signaled the 2027 fiscal strategy will prioritize growth through coordination across fiscal and monetary policy, the financial sector, and Danantara-backed investment. All major sectors advanced, led by basic materials, industrials, energy, and transport. Gains were tempered, however, by April retail sales data showing a 3.7% yoy decline, the first drop in a year, underscoring the drag from higher non-subsidized fuel prices on household spending. Standout movers included Darma Henwa (5.4%), Indofood Sukses Makmur (4.4%), Telkom Indonesia (3.1%), and Aneka Tambang (2.2%). For the week, the IDX Composite is on track for its first weekly rise in eight weeks, up around 6.6% so far, buoyed by bargain hunting after recently hitting a six-year low.
-
----
-
-### 2026-06-12 10:26:15  #公司 #觀點
-
-訊息人士稱， 眾擎機器人正與中金公司、中信合作安排香港IPO事宜。
-
----
-
-### 2026-06-12 10:25:07  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Holds Decline — The yield on the US 10-year Treasury note hovered around 4.47% on Friday after dropping about 10 basis points in the previous session, as President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe. His comments sparked a sharp fall in oil prices, easing concerns over persistent inflation and the prospect of central bank interest rate hikes. Meanwhile, data released on Thursday showed US producer prices rose 6.5% year-on-year in May, the highest level since November 2022 and slightly above expectations of 6.4%, highlighting the growing impact of the Middle East energy shock. Coupled with earlier figures showing consumer inflation accelerated to a three-year high, the latest PPI data is likely to reinforce expectations that the Federal Reserve could raise interest rates this year.
-
----
-
-### 2026-06-12 10:25:06  #其他
-
-眾擎機器人據悉將向港交所提交IPO申請。
-
----
-
-### 2026-06-12 10:25:06  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-China A-share copper-clad laminate sector firmed; Yihao New Material rose over 19%, Tongguan Copper Foil gained more than 12%, Jin'an Guoji hit the daily trading limit. Fangbang Co., Baoding Technology, Nanya New Material, Huazheng New Material and Shengyi Technology also advanced.
-
----
-
-### 2026-06-12 10:23:33  #公司 #市場
-
-【電網裝置板塊震盪反彈 華明裝備漲停】電網裝置板塊盤中震盪反彈，華明裝備漲停，此前泰永長征漲停，科林電氣、中熔電氣、三星電氣、安靠智電等跟漲。
-
----
-
-### 2026-06-12 10:23:27  #公司
-
-【國新證券4000萬股股權因無人出價流拍】6月12日，阿里司法拍賣平臺顯示，深圳市科銘實業有限公司名下持有的華融證券（現名“國新證券”）4000萬股股份拍賣於上午十時結束，因無人出價流拍。該筆股權起拍價為8652萬元，相對評估價，打了約七折。
-
----
-
-### 2026-06-12 10:23:08  #其他
-
-【公安部：警惕“高考特招”類詐騙】從公安部今天（12日）召開的新聞釋出會上獲悉，近年來，未成年人及學生群體已然成為電信網路詐騙分子重點瞄準的詐騙物件。以上海為例，25歲以下青少年群體遭遇詐騙的情況已佔到全部電詐案件的15%，其中最小受害者僅7歲。當前針對中小學生群體的常見詐騙型別主要有虛假遊戲交易、追星以及直播間誘導打賞類詐騙等3種；針對大學生群體的主要有虛假遊戲交易、購買演唱會門票、刷單返利類以及網戀交友類詐騙等；涉及留學生的常見詐騙手法有冒充公檢法類、虛擬綁架以及換匯詐騙等。釋出會上介紹，高考特招升學詐騙，一般是以虛構“特招通道”“內部名額”“加分保送”等名義實施詐騙，犯罪分子謊稱考生和家長交錢就能進入理想大學，實則交錢以後便杳無音信。今年全國高考剛剛結束，廣大考生很快就要面臨志願填報和升學，公安機關提醒，考生和家長一定要提高警惕、擦亮雙眼，從教育部門官方網站查詢成績，從正規渠道瞭解招生資訊，切勿輕信“熟人朋友”、社交媒體或自稱招辦領導介紹的神秘通道，嚴防上當受騙。
-
----
-
-### 2026-06-12 10:22:20  #其他
-
-【半導體材料板塊短線走低，凱華材料跌超6%】半導體材料板塊短線走低，凱華材料跌超6%，歐萊新材、滬矽產業、凱德石英、有研矽等跟跌。
-
----
-
-### 2026-06-12 10:22:07  #市場 #國際
-
-印尼盾兌美元最新報17952，漲0.1%。
-
----
-
-### 2026-06-12 10:22:00  #MKT News
-
-【JD MALL opens first Shanghai store in Minhang】JD MALL opened its first Shanghai outlet, the Qibao store, in the Minhang Qibao commercial district. The roughly 50,000 sq m store hosts about 200 global premium brands, over 200,000 JD.com self-operated SKUs, and features Zhiyuan Robotics' first global offline experience store. JD MALL will have 30 operating stores nationwide by this year’s 618 shopping festival, and its first Hong Kong store is due to open shortly.
 
 ---
