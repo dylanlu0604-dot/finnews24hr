@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-18 04:14:18",
-  "count": 18796,
+  "updated": "2026-06-18 04:18:23",
+  "count": 18794,
   "items": [
+    {
+      "id": "4941834",
+      "time": "2026-06-18 04:15:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：談判帶來的收益，遠超我們透過針對黎巴嫩實施報復打擊所能取得的成效。"
+    },
     {
       "id": "te:markets:559819",
       "time": "2026-06-18 04:11:07",
@@ -173274,36 +173282,6 @@
         "MKT News"
       ],
       "text": "Al Arabiya cited Pakistani sources saying a US-Israel agreement is currently far from being reached."
-    },
-    {
-      "id": "4928963",
-      "time": "2026-06-11 04:18:19",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【部分美國大銀行因涉嫌非法終止服務面臨聯邦調查】據一位知情人士透露，美國聯邦檢察官正在調查華爾街一些大型銀行是否出於政治原因，非法終止了與部分客戶的業務往來。知情人士表示，針對這些“銀行單方面終止服務”(debanking)指控的調查正由華盛頓特區聯邦檢察官 Jeanine Pirro負責。《華爾街日報》週三早些時候報道稱，Pirro已向包括摩根大通和美國銀行在內的多家銀行發出傳票。"
-    },
-    {
-      "id": "mkt:019eb32e-60a4-7dd8-afab-fefb1bc2ae8a",
-      "time": "2026-06-11 04:17:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Sources: Trump war room weighing large, short strike to pressure Iran】Axios, citing two US sources, says Trump convened a war‑room meeting Wednesday afternoon to discuss possible new strikes on Iran after telling reporters earlier he would strike them again today. One option under consideration is a large but short‑duration operation aimed at pressuring Iran to shift its negotiating position. Attendees reportedly included Vance, Senator Rubio, the CIA director, Joint Chiefs chair Dan Kain, White House envoy Witkoff and other senior officials; Defense Secretary Heggses participated by video."
-    },
-    {
-      "id": "4928962",
-      "time": "2026-06-11 04:16:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "甲骨文股價盤後一度下跌8.6%後轉漲。"
     }
   ]
 }
