@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-18 02:23:14",
-  "count": 18574,
+  "updated": "2026-06-18 02:27:14",
+  "count": 18577,
   "items": [
+    {
+      "id": "mkt:019ed6d5-896b-7dd8-b05e-ab9930cc973b",
+      "time": "2026-06-18 02:26:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Interest-rate futures price a cumulative 30bp of Fed tightening by year-end, about 9bp higher than immediately before the Fed policy decision."
+    },
+    {
+      "id": "te:markets:559802",
+      "time": "2026-06-18 02:25:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Rallies After Fed — The dollar Index rose above 100 on Wednesday as traders digested the latest FOMC decision. The Federal Reserve left interest rates unchanged, as widely expected, in Kevin Warsh’s first meeting as Fed Chair. However, policymakers’ projections were interpreted as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also sharply revised upward its inflation forecasts. The 2026 PCE inflation projection was raised to 3.6% from 2.7% in the March forecast, while core PCE inflation is now expected to reach 3.3%, up from 2.7% previously. Traders have now fully priced in a quarter-point Fed rate hike by the end of the year. The greenback strengthened broadly, posting its largest gains against the British pound and the euro."
+    },
+    {
+      "id": "te:economy:559801",
+      "time": "2026-06-18 02:25:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Rebounds After Fed — The yield on the 10-year US Treasury note erased losses to hover at the 4.46% mark on Wednesday after the Federal Reserve held interest rates unchanged and projected the possibility of a rate hike this year. The Summary of Economic Projections showed that nearly half of the FOMC projected that at least one rate hike may be warranted this year, aligned with the upward revision to core inflation and lower expectations of unemployment. The pivot followed a batch of data pointing to higher underlying price growth following the war in the Middle East and its impact on energy prices, although labor market gauges remained robust. Notably, new Chairman Kevin Warsh refrained from penciling in his projections, reflecting continuity to his pushback against forward guidance by the Fed. The Chairman had also called for a smaller balance sheet for the central bank, particularly regarding longer term Treasury notes and bonds."
+    },
+    {
+      "id": "te:markets:559800",
+      "time": "2026-06-18 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Gains by 2.95% — Top commodity gainers are Wheat (2.95%), Cotton (2.46%) and Corn (1.80%). Biggest losers are Canola (-1.12%) and Cocoa (-0.71%)."
+    },
+    {
+      "id": "4941642",
+      "time": "2026-06-18 02:24:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "德意志銀行經濟學家LUZZETTI：（美聯儲）在預期的鷹派範圍內。宣告中有大量多餘內容。明確訊號顯示需要提高利率以遏制通脹。"
+    },
+    {
+      "id": "mkt:019ed6d2-dd56-7dd8-b05e-a16867416155",
+      "time": "2026-06-18 02:23:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Deutsche Bank US chief economist Luzzetti said clear signals indicate interest rates need to be raised to curb inf."
+    },
+    {
+      "id": "4941641",
+      "time": "2026-06-18 02:22:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：美必須在30天內結束海上封鎖】據伊朗方面6月17日訊息，伊朗外交部發言人巴加埃表示，如果以色列繼續佔領黎巴嫩，將被視為違反諒解備忘錄，伊方將採取必要措施。巴加埃說，美伊雙方已達成一致，將在未來60天內就最終協議展開談判。美國必須在30天內結束海上封鎖。巴加埃表示，關於霍爾木茲海峽，已商定在特定期限內使海上交通恢復正常。這是伊朗自身的職責，將完全由伊朗負責執行，不需要其他方面的參與或干預。在制定霍爾木茲海峽管理機制方面，伊朗將與阿曼開展合作。在有需要的情況下，也會與本地區其他國家交換意見。（央視新聞）"
+    },
     {
       "id": "mkt:019ed6d2-10bc-7dd8-b05e-9bbac4525f2f",
       "time": "2026-06-18 02:22:31",
@@ -170940,48 +171023,6 @@
         "國際"
       ],
       "text": "美國官員：特朗普因伊朗拖延兩週未回應相關提議心生不滿。"
-    },
-    {
-      "id": "te:markets:558147",
-      "time": "2026-06-11 02:26:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises Above $93 — Brent extended gains and rose more than 2% to $93 a barrel on Wednesday as traders weighed escalating tensions in the Middle East. President Trump vowed to attack Iran very hard again and said that Iran had taken too long to negotiate a deal and would now “have to pay the price”. The comments follow Iranian attacks on several Gulf nations, including Bahrain, Jordan, and Kuwait, after US “self-defense strikes” in response to the downing of an American helicopter. Traffic through the Strait of Hormuz remains significantly disrupted, with Iran blocking most shipping through the key waterway, while the US has imposed its own restrictions on Iranian ports. However, US Energy Secretary Wright said vessel traffic in the Gulf and oil exports through the Strait are rising despite ongoing disruptions. Meanwhile, EIA data showed US crude inventories fell by 7.228 million barrels last week, a seventh consecutive weekly decline and surpassing expectations for a 4 million barrel draw."
-    },
-    {
-      "id": "te:markets:558146",
-      "time": "2026-06-11 02:25:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Prices extend Gains — Crude oil extended gains and rose more than 2% to approach $91 a barrel on Wednesday as traders weighed escalating tensions in the Middle East. President Trump vowed to attack Iran very hard again and said that Iran had taken too long to negotiate a deal and would now “have to pay the price”. The comments follow Iranian attacks on several Gulf nations, including Bahrain, Jordan, and Kuwait, after US “self-defense strikes” in response to the downing of an American helicopter. Traffic through the Strait of Hormuz remains significantly disrupted, with Iran blocking most shipping through the key waterway, while the US has imposed its own restrictions on Iranian ports. However, US Energy Secretary Wright said vessel traffic in the Gulf and oil exports through the Strait are rising despite ongoing disruptions. Meanwhile, EIA data showed US crude inventories fell by 7.228 million barrels last week, a seventh consecutive weekly decline and surpassing expectations for a 4 million barrel draw."
-    },
-    {
-      "id": "4928887",
-      "time": "2026-06-11 02:25:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會主席：我們從不畏懼與手下敗將交手。 美軍實際傷亡人數遠高於特朗普公佈的資料，且傷亡數字還會繼續攀升。 這一次，戰火不會侷限於該區域。 我們拭目以待！"
-    },
-    {
-      "id": "te:markets:558145",
-      "time": "2026-06-11 02:25:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Falls by 2.27% — Top commodity losers are Cocoa (-2.27%) and Sugar (-1.21%). Gains are led by Butter (1.90%), Coffee (1.74%) and Rapeseed (1.54%)."
     }
   ]
 }
