@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-18 05:30:15",
-  "count": 18759,
+  "updated": "2026-06-18 05:34:18",
+  "count": 18762,
   "items": [
+    {
+      "id": "4941871",
+      "time": "2026-06-18 05:33:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國空軍授予通用原子公司安杜里爾工業公司無人機僚機生產合同，未披露合同訂購數量。"
+    },
+    {
+      "id": "mkt:019ed780-27b3-7dd8-b064-9558389eaa8b",
+      "time": "2026-06-18 05:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran Foreign Ministry spokesman said the negotiating delegation will still attend the scheduled talks in Geneva, Switzerland."
+    },
+    {
+      "id": "4941870",
+      "time": "2026-06-18 05:32:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：談判團隊按計劃仍將前往日內瓦。"
+    },
+    {
+      "id": "4941869",
+      "time": "2026-06-18 05:32:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗議長卡利巴夫稱沒有禁止美國在伊朗投資】伊朗首席談判代表卡利巴夫在電視採訪中表示，自伊斯蘭革命以來，伊朗從未禁止美國公司投資其經濟基礎設施、石油、天然氣或礦業領域。“美國人制裁了他們自己的公司，不讓它們在伊朗運營，同時還阻止其他公司進入伊朗市場。”卡利巴夫稱，伊朗在與美國達成的協議中獲得了一項3000億美元投資條款，“其中一部分將用於彌補我們的損失和重建”。"
+    },
+    {
+      "id": "mkt:019ed77f-5e4e-7dd8-b064-8ef9486bf182",
+      "time": "2026-06-18 05:31:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry spokesman says Iran and US have signed memorandum of understanding】Iran’s foreign ministry spokesman Baghaei said on the 18th (local time) that the text of a memorandum of understanding between Iran and the US has been finalized and signed by both sides."
+    },
+    {
+      "id": "mkt:019ed77d-9fe9-7dd8-b064-81d04b95432b",
+      "time": "2026-06-18 05:29:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign ministry spokesman said Friday's meeting in Switzerland is not intended to result in a signed agreement; a decision on whether the meeting will proceed is expected within the next few hours."
+    },
     {
       "id": "4941868",
       "time": "2026-06-18 05:29:01",
@@ -172928,30 +172979,6 @@
         "Impact mixed"
       ],
       "text": "TASNIM NEWS reports no explosions on Kish Island or Qeshm Island; local noises heard were linked to the conflict in the Gulf region."
-    },
-    {
-      "id": "4929015",
-      "time": "2026-06-11 05:34:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社表示，基什島與格什姆島並未發生爆炸，當地聽到的聲響源自海灣地區的交火。"
-    },
-    {
-      "id": "4929014",
-      "time": "2026-06-11 05:32:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗南部多地傳爆炸聲】據伊朗邁赫爾通訊社報道，當地時間今天（6月11日）凌晨，伊朗南部錫裡克、米納卜傳出爆炸聲，位於波斯灣的基什島遠處傳來“不明聲響”。目前沒有官方說法。（ CCTV國際時訊）"
-    },
-    {
-      "id": "4929012",
-      "time": "2026-06-11 05:30:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：武力無法達成可持續協議 特朗普應停止威脅】伊朗常駐聯合國代表10日就美國總統特朗普威脅打擊伊朗回應稱，威脅、恐嚇或訴諸武力無法達成可持續協議，特朗普應停止威脅伊朗。據伊朗伊斯蘭共和國通訊社報道，伊朗常駐聯合國代表伊拉瓦尼於當地時間10日在聯合國安理會會議上說，特朗普應停止對伊朗反覆威脅，包括他當天再次發出訴諸武力的威脅。特朗普當天早些時候稱，美國將對伊朗再次發起打擊，而且會“非常猛烈”。 (新華社)"
     }
   ]
 }
