@@ -1,7 +1,149 @@
 {
-  "updated": "2026-06-17 11:20:29",
-  "count": 18310,
+  "updated": "2026-06-17 11:24:22",
+  "count": 18319,
   "items": [
+    {
+      "id": "4939853",
+      "time": "2026-06-17 11:23:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌3%，現報7774.00元。"
+    },
+    {
+      "id": "mkt:019ed39a-a16b-7dd8-b040-2742fbd6c3c9",
+      "time": "2026-06-17 11:23:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【CSRC chairman Wu Qing backs Hong Kong launch of 5-year RMB government bond futures】At the 2026 Lujiazui Forum on the 17th, CSRC chairman Wu Qing said he supports Hong Kong launching 5-year RMB government bond futures for trading in the near term to improve convenience for foreign long-term allocation to Chinese assets. He said the CSRC will actively support foreign investors establishing wholly foreign‑owned or joint‑venture securities, fund and futures firms onshore, and will encourage licensed foreign firms to participate in an expanded fund‑advisory pilot."
+    },
+    {
+      "id": "mkt:019ed39a-3de8-7dd8-b040-1b269e8be828",
+      "time": "2026-06-17 11:22:41",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【CITIC Securities H2 outlook: Hong Kong stocks reversal likely; favor high‑growth tech and dividend‑diffusion trades】CITIC Securities says a reversal in Hong Kong stocks is likely and recommends five positioning themes: 1) high‑growth tech — Hong Kong has advantages in the token economy ecosystem and robotics, plus exposure to batteries, commercial space and brain‑computer interfaces; 2) dividend‑diffusion trades — defensive, bond‑like high‑dividend sectors (property management, telecoms, power) and ‘broad dividend + high growth’ names (cyclical energy on an upcycle, high‑yield food & beverage, diversified financials); 3) industrial metals with constrained supply, state strategic stockpiling and demand support from AI deployment and electrification; 4) exporters and overseas‑expansion chains that could see margin recovery if China‑US relations stabilize and trade frictions ease; 5) healthcare — innovation drugs entering a data‑intensive catalytic phase and CXO (contract service providers) benefiting from reinforcing competitive barriers."
+    },
+    {
+      "id": "4939852",
+      "time": "2026-06-17 11:22:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌4%，現報4192.00元。"
+    },
+    {
+      "id": "4939851",
+      "time": "2026-06-17 11:22:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌3%，現報7816.00元。"
+    },
+    {
+      "id": "mkt:019ed399-a8cf-7dd8-b040-175f6eaf8d08",
+      "time": "2026-06-17 11:22:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【CSRC chairman Wu Qing says Shanghai to pilot major equity, debt, M&A, institutional and offshore finance reforms】CSRC chairman Wu Qing said he supports Shanghai as a financial-innovation \"testing ground\" and will promote piloting major reform and opening measures there covering equity and bond financing, M&A and restructuring, institutional development and offshore finance."
+    },
+    {
+      "id": "4939850",
+      "time": "2026-06-17 11:21:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吳清：推動股債融資等方面重大改革開放措施在上海先行先試】6月17日，在2026陸家嘴論壇開幕式上，中國證監會主席吳清表示，支援上海打造金融創新“試驗田”，推動股債融資、併購重組、機構發展、離岸金融等方面重大改革開放措施在上海先行先試。"
+    },
+    {
+      "id": "4939849",
+      "time": "2026-06-17 11:21:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【證監會主席吳清：支援香港於近期推出5年期人民幣國債期貨上市交易】中國證監會主席吳清17日在2026陸家嘴論壇上表示，支援香港近期推出5年期人民幣國債期貨上市交易，不斷提升外資長期配置中國資產的便利化水平。積極支援外資在華新設獨資或合資證券基金期貨機構，鼓勵外資持牌機構參與基金投顧業務擴大試點。"
+    },
+    {
+      "id": "mkt:019ed399-1116-7dd8-b040-0df592ed53c5",
+      "time": "2026-06-17 11:21:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Wu Qing: CSRC to create first batch of capital-market tech-finance pilots】CSRC Chairman Wu Qing said the regulator will establish a first batch of capital-market tech-finance pilot projects in Shanghai Pudong, Beijing Haidian, Shenzhen (Guangdong), Suzhou (Jiangsu) and Hangzhou (Zhejiang)."
+    },
+    {
+      "id": "4939848",
+      "time": "2026-06-17 11:20:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大曉機器人聯合港中文開源新模型ACE-Ego】6月17日，介面新聞獲悉，大曉機器人聯合香港中文大學多媒體實驗室（CUHK MMLab）正式釋出全新“一腦多型”具身操作VLA模型ACE-Ego，並向行業開源。該模型在RoboCasa GR1 TableTop與RoboTwin 2.0兩大國際具身智慧基準上取得SOTA成績，成功率分別達72.8%和90.62%。"
+    },
+    {
+      "id": "mkt:019ed398-8cce-7dd8-b040-028254a01240",
+      "time": "2026-06-17 11:20:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Wu Qing: Smoothly advance listing of LNG futures and options】At the June 17 opening of the 2026 Lujiazui Forum, CSRC Chair Wu Qing said the commission will enhance the international influence of \"Shanghai price\", smoothly promote the listing of liquefied natural gas (LNG) futures and options, and support development of foundational and strategic futures such as power."
+    },
+    {
+      "id": "mkt:019ed398-4297-7dd8-b03f-fe55dd60fb4e",
+      "time": "2026-06-17 11:20:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "CSI300",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities H2 Outlook: AI and Energy/Chemicals Form a New Barbell】CITIC Securities says global economic resilience is being tested by the Middle East conflict; H2 will be dominated by coexisting supply shocks, policy constraints and investment support, with the persistence of oil-price shocks the primary variable for the global macro path. For China, policymakers are likely to shift H2 focus toward structural reform—curbing domestic over-competition (anti-involution) and enforcing carbon assessments to optimize supply, while using fiscal and tax reform to steer demand. In China’s A-share market, AI plus energy/chemicals form a new barbell. Investment stance: keep a global lens on China and adopt K-shaped positioning rather than simple bull/bear views; move from “building AI” to “adapting to AI” in technology exposure. The long-term investment case remains a re-rating of China’s advantaged manufacturing pricing power; priority sectors are new energy, chemicals, nonferrous metals and power equipment. On the offensive side, monitor domestic AI progress and overweight the domestic compute chain and cloud platforms. Continue selective overweight of low-valuation names, notably brokers and insurers."
+    },
+    {
+      "id": "4939847",
+      "time": "2026-06-17 11:20:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【吳清：平穩推動液化天然氣期貨期權上市】6月17日，在2026陸家嘴論壇開幕式上，中國證監會主席吳清表示，將增強“上海價格”國際影響力，平穩推動液化天然氣期貨期權上市，支援推進電力等基礎性、戰略性期貨品種研發。"
+    },
+    {
+      "id": "4939846",
+      "time": "2026-06-17 11:20:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【證監會主席吳清：支援上海打造金融創新“試驗田” 打造首批資本市場科技金融實踐樣本】2026陸家嘴論壇今日上午開幕，中國證券監督管理委員會主席吳清在發表主題演講時表示，助力加快建設上海國際金融中心。增強“上海價格”國際影響力，支援上海打造金融創新“試驗田”，打造首批資本市場科技金融實踐樣本，助力上海國際金融中心軟實力提升。"
+    },
     {
       "id": "4939845",
       "time": "2026-06-17 11:19:40",
@@ -168381,49 +168523,6 @@
         "原創"
       ],
       "text": "【OpenAI據悉談判租賃俄亥俄州一座資料中心，獲英偉達支援】據The Information援引兩名直接知情人士的訊息報道，OpenAI正就租賃俄亥俄州一個擬建的10吉瓦資料中心園區進行談判，該交易可能包含英偉達的資金支援。報道稱，根據當前晶片、勞動力、電力及其他投入成本，該園區的建設費用可能至少達到5000億美元 。報道補充稱，OpenAI將透過一份為期20年的租賃協議控制該設施的裝置，租金將在運營開始後支付；第一階段預計於2028年啟動。該設施將是同類設施中規模最大的之一，將由軟銀旗下子公司SB Energy在俄亥俄州南部的美國能源部土地上開發。據報道，英偉達預計將為該設施提供硬體，併為OpenAI的租賃協議及SB Energy的融資提供財務擔保。"
-    },
-    {
-      "id": "4927203",
-      "time": "2026-06-10 11:23:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌3%，現報1332.50元。"
-    },
-    {
-      "id": "4927202",
-      "time": "2026-06-10 11:22:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【日照國資、中國建築成立產業投資公司，含海洋服務業務】企查查APP顯示，近日，日照市東港區港產城產業投資有限公司成立，法定代表人為李濤，註冊資本為5.7億元，經營範圍包含：以自有資金從事投資活動；園區管理服務；海洋服務；海洋環境服務；水資源管理；休閒觀光活動等。企查查股權穿透顯示，該公司由日照市東港區海洋產業發展有限公司、中國建築全資子公司中國建設基礎設施有限公司共同持股。"
-    },
-    {
-      "id": "4927201",
-      "time": "2026-06-10 11:21:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【仙琚製藥到訪中國藥科大學洽談產學研深度合作】2026年6月8日，浙江仙琚製藥股份有限公司董事長張宇松帶領高管團隊到訪中國藥科大學，開展校企合作專項洽談對接。雙方就建立常態化溝通交流機制、探索制定針對甾體藥物研發的戰略規劃，聯合開展課題攻關、共建研發平臺、聯合開發創新藥物等多元化合作模式達成初步共識。"
-    },
-    {
-      "id": "mkt:019eaf8c-a665-7444-ba07-2b571b0b6e47",
-      "time": "2026-06-10 11:21:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【AGIBOT launches 2026 Yuansheng ecosystem plan, pledges 100 mln yuan in 2026 and 2 bln over five years】June 10 — China AI firm AGIBOT launched its 2026 Yuansheng ecosystem co-construction action plan, committing 100 mln yuan of ecosystem support in 2026 and planning a total 2 bln yuan investment over the next five years. The program targets research and academic innovation, education and talent development, ecosystem partner growth and developer community operations to systematically support industry‑academia‑research collaboration and build an open, collaborative embodied intelligence ecosystem with global partners."
-    },
-    {
-      "id": "4927200",
-      "time": "2026-06-10 11:21:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智元釋出“2026元苼生態共建行動計劃” 先行落地1億元共建具身智慧生態】6月10日，智元（AGIBOT）釋出“2026元苼生態共建行動計劃”，宣佈2026年先行落地1億元生態扶持資金，未來五年規劃投入20億元專項資金，圍繞科研學術創新、教育人才培養、生態夥伴發展、開發社群運營四大維度，系統賦能產學研及開發者群體，攜手全球夥伴共建開放、協同、共生的具身智慧生態。"
     }
   ]
 }
