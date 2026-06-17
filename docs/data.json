@@ -1,7 +1,130 @@
 {
-  "updated": "2026-06-17 15:46:19",
-  "count": 18466,
+  "updated": "2026-06-17 15:50:25",
+  "count": 18461,
   "items": [
+    {
+      "id": "te:markets:559651",
+      "time": "2026-06-17 15:49:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Underperforms Peers — The DAX 40 edged down to trade around 24,800 on Wednesday, halting a four-day advance and lagging behind its peers. A profit warning from BMW weighed on the heavyweight auto sector. Meanwhile, caution prevailed ahead of the Federal Reserve’s policy announcement and the formal signing of an interim US-Iran peace agreement. While the US central bank is widely expected to hold rates steady, remarks from new Fed Chair Kevin Warsh will be closely scrutinized for clues on the policy outlook."
+    },
+    {
+      "id": "4940314",
+      "time": "2026-06-17 15:49:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：消費環境走軟將拖累歐美包裝食品企業的營收增長與盈利能力。"
+    },
+    {
+      "id": "4940313",
+      "time": "2026-06-17 15:48:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浩辰軟體：目前暫未涉及物理AI或AI技術在模擬領域的應用】浩辰軟體6月17日在互動平臺稱，公司目前暫未涉及物理AI或AI技術在模擬領域的應用。"
+    },
+    {
+      "id": "4940311",
+      "time": "2026-06-17 15:48:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃森哲將收購阿爾法健康（AlfaHealth），拓展數字健康能力，助力加速義大利醫療轉型。"
+    },
+    {
+      "id": "4940310",
+      "time": "2026-06-17 15:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家發展改革委6月份新聞釋出會將於6月18日10:00召開。（國家發改委）"
+    },
+    {
+      "id": "mkt:019ed48d-86e2-7dd8-b047-4a90cc942f1a",
+      "time": "2026-06-17 15:48:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's National Development and Reform Commission (NDRC) will hold its June press briefing on June 18 at 10:00."
+    },
+    {
+      "id": "4940309",
+      "time": "2026-06-17 15:48:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "mkt:019ed48c-9848-7dd8-b047-437c3c7898da",
+      "time": "2026-06-17 15:47:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Xinyichang said its glass-substrate die-bonding equipment has been delivered in batches to the display-panel sector, and its die-bonder order book remains healthy."
+    },
+    {
+      "id": "4940308",
+      "time": "2026-06-17 15:47:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【央行王信：密切關注穩定幣對國際貨幣體系、對跨境支付的影響】6月17日下午，中國人民銀行研究局（參事室）局長（主任）王信在2026陸家嘴論壇 “ 全體大會二：全球金融治理改革與合作”上談及跨境支付體系表示，下一步，需要進一步保障國際支付體系的安全、中立、高效，央行之間的支付系統，還有零售的支付系統進一步加強互聯互通。審慎穩健探索新支付工具的潛力，密切關注穩定幣對國際貨幣體系、對跨境支付的影響，完善監管的規則，促進國際支付更加包容、高效、韌性，才能更好支援可持續發展和世界經濟的增長。（澎湃）"
+    },
+    {
+      "id": "4940307",
+      "time": "2026-06-17 15:47:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "廣期所品種倉單及變化如下：碳酸鋰期貨倉單52685手，環比上個交易日減少600手；多晶矽期貨倉單12310手，環比上個交易日增加160手；工業矽期貨倉單30839手，環比上個交易日增加200手。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606173774526335",
+      "time": "2026-06-17 15:47:02",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行官員Simkus預計至少還會有一次加息。"
+    },
+    {
+      "id": "4940306",
+      "time": "2026-06-17 15:46:49",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【利和興：鑑於當前市場環境變化 公司MLCC產品已實施價格調整】有投資者問利和興，6月8日地震導致日本村田菲律賓工廠停產，當前mlcc供應是否短缺，市場價格是否上漲，公司的產品調價了嗎？利和興在互動平臺表示，鑑於當前市場環境變化，公司的MLCC產品已實施價格調整。"
+    },
+    {
+      "id": "4940305",
+      "time": "2026-06-17 15:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿聯酋成立人工智慧與資料管理局，“90後”AI部長領導】6月14日，阿聯酋宣佈成立人工智慧與資料聯邦管理局，新機構將直接向阿聯酋內閣彙報工作，並由阿聯酋“90後”人工智慧、數字經濟和遠端工作應用國務部長奧馬爾·蘇丹·奧拉瑪（Omar Sultan Al Olama）領導。據阿聯酋《海灣新聞》（Gulf News）報道，該機構整合了阿聯酋人工智慧辦公室、阿聯酋電信與數字政府監管局下屬的資訊與數字政府板塊以及阿聯酋資料辦公室的職責，負責監督人工智慧、資料治理和數字政府事務，成立新機構意在將阿聯酋的技術議程整合到統一的國家框架之下。（澎湃）"
+    },
+    {
+      "id": "4940304",
+      "time": "2026-06-17 15:45:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金髮科技：新一代LCP已大批次應用於AI伺服器用高速聯結器、儲存聯結器等部件】金髮科技在互動平臺表示，公司LCP材料廣泛應用於AI、大資料中心等新一代資訊通訊、新能源、消費電子及電子電氣等領域。公司研發的新一代低介電常數、低介電損耗LCP已大批次應用於AI伺服器用高速聯結器、儲存聯結器等部件，傳輸速率高達224Gbps； 公司改性LCP材料已在商業航天領域中的聯結器部件上實現批次供貨，目前商業航天應用領域材料業務佔公司整體營收比例極小，該行業的發展在短期內不會對公司業績產生重大影響，敬請注意投資風險。當前公司LCP材料產能1.1萬噸/年，現有產能利用率較高，另有LCP在建產能1萬噸/年，預計2027年投產。"
+    },
     {
       "id": "4940303",
       "time": "2026-06-17 15:45:42",
@@ -79,12 +202,28 @@
       "text": "【Cainiao to open European fulfilment centre in the Netherlands with 100+ in‑house climbing robots】Cainiao will build a European supply‑chain fulfilment centre in the Netherlands and deploy more than 100 self‑developed climbing robots to serve both B2B shipments and B2C order fulfilment. The company has signed a 10‑year lease on a recently completed 26,000 sq m site built by a local major developer; the facility includes warehousing and office space and has direct links to Rotterdam port and the European hinterland."
     },
     {
+      "id": "4940300",
+      "time": "2026-06-17 15:43:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【預測市場借世界盃熱度又火一把 與全球監管打壓的角力仍在繼續】今年舉辦的世界盃，是Kalshi和Polymarket作為體育博彩新渠道爆紅以來的第一屆。雖然美國球迷能不受限制地就這一賽事整體下注數十億美元，但越來越多國家正在提高這些可“賭球”平臺的訪問難度。能否就基利安·姆巴佩的進球數或者冠軍獎盃歸屬下注，可能取決於球迷所在地區。在某些地方，球迷們可能根本沒法參與。Bernstein分析師估計，本屆世界盃可能帶來約30億美元的額外下注，推動體育博彩和預測市場平臺的總押注規模至多達到100億美元。包括歐盟多數成員和亞洲大片地區在內，越來越多的國家已經採取臨時或長期措施，阻止對Kalshi和Polymarket網站及應用程式的訪問。就在最近幾周，西班牙、印度尼西亞和印度也加入了它們的行列。"
+    },
+    {
       "id": "mkt:019ed489-27f9-7dd8-b047-193b035990c0",
       "time": "2026-06-17 15:43:38",
       "tags": [
         "MKT News"
       ],
       "text": "Ruihuatai said its PI film for semiconductor processing passed evaluation by a South Korean semiconductor firm, is being shipped in small volumes, and currently represents a small share of revenue."
+    },
+    {
+      "id": "4940299",
+      "time": "2026-06-17 15:43:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中方已向剛果（金）和非洲聯盟提供緊急人道主義援助】6月17日，外交部發言人林劍主持例行記者會。有記者提問就非洲聯盟於6月16日召開非洲應對埃博拉疫情特別影片峰會。林劍表示，習近平主席提出人類命運共同體重要理念，倡導構建人類衛生健康共同體，為國際抗疫合作指明瞭方向。中非從來都是命運共同體。中方已向剛果（金）和非洲聯盟提供緊急人道主義援助，向剛派遣醫療專家組，近千名醫療隊專業人員同非洲民眾並肩抗疫。中方將在中非合作論壇框架內，落實好中非衛生健康夥伴行動，提供力所能及的抗疫支援，呼籲國際社會加強團結合作，幫助非洲早日戰勝疫情。（央視新聞）"
     },
     {
       "id": "4940298",
@@ -169748,195 +169887,6 @@
         "2357.TW"
       ],
       "text": "【Tencent Cloud, ASUS sign strategic cooperation to deploy personal cloud drives on notebooks】Tencent Cloud and ASUS signed a strategic cooperation to jointly launch a personal cloud drive for millions of notebook users, based on Tencent Cloud’s self-developed AgentBucket intelligent storage. The deal is the first large-scale commercial roll-out of Tencent Cloud’s enterprise-grade, scenario-based storage capability on a leading PC brand and signals cloud storage shifting from an optional PC add-on to core infrastructure supporting the AI‑PC trend."
-    },
-    {
-      "id": "mkt:019eb082-b46a-7aad-8121-e05a0058c748",
-      "time": "2026-06-10 15:50:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Indian trade official said India does not possess the excess manufacturing capacity in textiles and steel alleged in the US Section 301 investigation."
-    },
-    {
-      "id": "4927592",
-      "time": "2026-06-10 15:50:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴林稱其攔截了來自伊朗的導彈和無人機】巴林國防軍10日在宣告中表示，攔截了“多次”伊朗空襲，並譴責伊朗“用導彈和無人機襲擊巴林平民”。"
-    },
-    {
-      "id": "4927591",
-      "time": "2026-06-10 15:50:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易官員：印度並不像美國貿易代表辦公室301調查所指控的那樣，擁有過剩的紡織、鋼鐵製造業產能。"
-    },
-    {
-      "id": "4927590",
-      "time": "2026-06-10 15:49:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊雲與華碩電腦簽署戰略合作協議】6月9日，騰訊雲與華碩電腦正式簽署戰略合作協議：雙方將基於騰訊雲自研的Agent Bucket智慧儲存能力，共同打造面向百萬級筆記本使用者的“個人空間盤”。這是騰訊雲端儲存的企業級雲端儲存場景化能力，首次在頭部PC品牌側實現大規模的商用落地；也意味著雲端儲存正在從過去PC的可選配件，正式升級為擁抱AI PC趨勢的基礎設施之一。"
-    },
-    {
-      "id": "4927588",
-      "time": "2026-06-10 15:49:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構稱800VDC與CPO落地時間都將延後 預計Scale-up CPO大規模匯入時間將在2029年】AI產業鏈明星分析機構SemiAnalysis最新發布的一篇報告稱800VDC與CPO落地時間都將延後。800VDC方面，該報告指出，這一架構遭到超大規模雲廠商質疑，部署進度正在放緩，相關產品量產出貨時間已延遲至2028年以後，同時400VDC方案仍在按計劃推進下半年落地。CPO方面，該報告直言2027年落地的市場預期過於樂觀，實際部署進度將晚於華爾街當前普遍預測。報告計劃下調2026年和2027年的Scale-out CPO出貨預測，預計Scale-up CPO大規模匯入時間將在2029年，而市場此前普遍預期在2027-2028年。相較之下，未來幾年更多將是NPO專案進入量產。"
-    },
-    {
-      "id": "4927587",
-      "time": "2026-06-10 15:49:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【蘋果延遲“上新”賴歐盟？歐委會拒“背鍋”】歐盟委員會9日指責美國蘋果公司把在歐盟地區延遲上線語音助手Siri的人工智慧(AI)升級版歸咎於歐盟《數字市場法》，稱這是蘋果單方面決定，與歐盟法律法規無關。（新華社）"
-    },
-    {
-      "id": "4927586",
-      "time": "2026-06-10 15:49:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超聲電子旗下汕頭印製板公司增資至8.6億 增幅約88%】天眼查App顯示，近日，汕頭超聲印製板（三廠）有限公司發生工商變更，註冊資本由約4.6億人民幣增至約8.6億人民幣，增幅約88%。該公司成立於2019年9月，法定代表人為莫翊斌，經營範圍包括生產經營雙面及多層印製板、高密度互連積層板、封裝載板。股東資訊顯示，該公司由超聲電子（000823）、汕華髮展有限公司共同持股。"
-    },
-    {
-      "id": "te:markets:557971",
-      "time": "2026-06-10 15:49:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE MIB Rises for 3rd Session — The FTSE MIB rose 0.6% to around 50,585 in early trading on Wednesday, marking a third consecutive session of gains, with most heavyweight stocks supporting the advance despite new US strikes against Iran. Investors appeared to shrug off persistent Middle East tensions after the US launched retaliatory strikes on Iran following the crash of a US Army helicopter. Market participants are now awaiting key US inflation data later in the day for further clues on the Federal Reserve’s policy path. Attention is also on the ECB’s policy decision on Thursday, where policymakers are widely expected to deliver a 25-basis-point rate hike. Among the index’s top performers were Unicredit (+1.4%), Poste Italiane (+1.4%), Leonardo (+1.6%), STMicroelectronics (+2.2%), and Banca Monte dei Paschi di Siena (+1.9%)."
-    },
-    {
-      "id": "mkt:019eb081-af73-7aad-8121-daa62ac9341b",
-      "time": "2026-06-10 15:49:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Mehr News Agency reports explosions heard near Qeshm Island, Iran; cause unclear."
-    },
-    {
-      "id": "4927585",
-      "time": "2026-06-10 15:49:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中電鑫龍：蘇州算力中心專案正按計劃正常推進】中電鑫龍6月10日在互動平臺表示，蘇州算力中心專案目前正按合同約定與既定計劃正常推進，公司將嚴格遵循企業會計準則和會計政策，根據專案實際完工進度進行相關財務核算。有關專案及業績情況，敬請關注公司相關公告。"
-    },
-    {
-      "id": "4927584",
-      "time": "2026-06-10 15:49:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紫燕食品：實際控制人鍾懷軍提前全部購回質押股票】紫燕食品公告稱，2026年6月9日，實際控制人鍾懷軍提前全部購回質押股票，本次解除質押346.88萬股，佔其所持股份比例5.07%，佔公司總股本比例0.84%。解除質押後，鍾懷軍剩餘累計質押股份為0股。截至公告披露日，實際控制人及其一致行動人合計持股3.22億股，佔公司總股本比例78.19%，累計質押3830.29萬股，佔所持公司股份總數的11.89%，佔公司總股本的9.30%。"
-    },
-    {
-      "id": "4927583",
-      "time": "2026-06-10 15:48:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：義大利聯盟黨考慮重組以結束危機。"
-    },
-    {
-      "id": "4927582",
-      "time": "2026-06-10 15:48:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【凱投宏觀：AI可能對美國就業產生輕微的正面影響】凱投宏觀的Stephen Brown在一份報告中表示，根據最新的就業資料，AI的發展可能對美國就業產生了適度的正面影響。他說：“我們現在開始看到資料中心建設對製造業和非住宅建築業就業人數產生更明顯的正面影響。”Brown說，自今年年初以來，與資料中心建設相關的非住宅建築和製造行業的就業崗位顯著增加。“在微觀層面上，美聯儲最近的幾篇論文未能找到證據表明AI的使用正在導致勞動力市場出現任何明顯的疲軟。”"
-    },
-    {
-      "id": "te:markets:557970",
-      "time": "2026-06-10 15:48:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX on Cautious Note — The DAX 40 traded near the flatline around 24,400 on Wednesday, as caution prevailed amid renewed US attacks on Iran following the downing of a helicopter in the Strait of Hormuz. However, the latest developments had a limited effect on oil prices, as hopes for a peace deal remained alive. Meanwhile, traders looked ahead to the ECB's policy decision scheduled for tomorrow. Infineon Technologies topped the index along with Qiagen NV, both adding around 2%."
-    },
-    {
-      "id": "4927581",
-      "time": "2026-06-10 15:48:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社報道，格什姆島附近發生爆炸，目前爆炸原因尚不清楚。"
-    },
-    {
-      "id": "4927580",
-      "time": "2026-06-10 15:47:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新華醫療：子公司產品獲二類醫療器械註冊證】新華醫療公告稱，子公司山東新華醫用環保裝置有限公司近日收到山東省藥監局頒發的《中華人民共和國醫療器械註冊證》，產品為醫用分子篩製氧系統，批准日期為2026年6月3日，有效期至2031年6月2日。該產品整合多項技術，具備多種優勢，可與現有產品線形成協同效應。不過，產品上市後實際銷售情況取決於市場推廣效果，目前無法預測對公司未來經營業績的具體影響。"
-    },
-    {
-      "id": "4927579",
-      "time": "2026-06-10 15:47:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【擔心閣員“變節” 斯塔默強勢“守位”】多名知情人士9日披露，英國首相斯塔默打算警告其內閣成員，如果他們在工黨黨首競選中支援他的對手，就辭職走人。大曼徹斯特市市長安迪·伯納姆被認為有望替代斯塔默，但目前尚未明確表態是否對後者發起挑戰，工黨內部不少人擔心這場黨首之爭愈演愈烈，可能引發政壇動盪。（新華社）"
-    },
-    {
-      "id": "4927578",
-      "time": "2026-06-10 15:47:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美圖CPO 陳劍毅：面向垂直場景 影像節將推出8款產品】2026美圖影像節將於6月17日在廈門舉辦。會前，美圖首席產品官陳劍毅透露，今年的影像節將推出8款產品，其中包括一款“AI時代的美圖秀秀或美顏相機”。陳劍毅表示，當前AI行業正從單Agent模式向多Agent模式演進，共同向使用者交付結果。他進一步解釋說，美圖將面向垂直場景推出全新產品，“不是做大而全的產品。（新浪科技）"
-    },
-    {
-      "id": "4927577",
-      "time": "2026-06-10 15:47:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【DeepWay深向向馬士基交付10臺新能源重卡】6月10日，DeepWay深向與馬士基在上海臨港完成交付儀式，10臺智慧新能源重卡正式落地投運。這批車輛將專職承擔馬士基臨港綜合物流旗艦倉與上海洋山深水港之間的集裝箱專線運輸任務。"
-    },
-    {
-      "id": "mkt:019eb07f-c179-7aad-8121-d6b7a4361a53",
-      "time": "2026-06-10 15:47:03",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【US CPI preview: inflation drivers extend beyond oil; stickiness likely to persist】Markets expect US May headline CPI 4.2% YoY (Apr 2.4%), 0.5% MoM — the first print above 4% since May 2023 and the highest since Apr 2023. The headline rise is driven primarily by energy after the Iran-related Middle East conflict; core CPI ex-food and energy is seen at 2.9% YoY, 0.3% MoM. Charles Schwab Wealth Management chief strategist Sanders says inflation is not just an oil problem but also reflects monetary supply and factors increasingly linked to AI, raising the risk of persistent inflation; she warns a stronger-than-expected print would pressure equities. The Trump administration expects inflation to fall once Middle East fighting eases, but Sanders cautions supply damage may prevent oil from reverting quickly to prior lows even if the conflict ends."
-    },
-    {
-      "id": "4927576",
-      "time": "2026-06-10 15:46:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【引江補漢工程建設取得重要進展】記者從中鐵十八局集團瞭解到，10日，引江補漢工程建設取得重要進展，全線重難點控制性工程8號檢修交通洞順利貫通，為加快主隧洞施工奠定堅實基礎。引江補漢工程是加快構建國家水網主骨架和大動脈的標誌性工程。此次貫通的8號檢修交通洞全長2959米，承擔硬巖掘進機（TBM）進場、通風排水、材料轉運及後期檢修等核心功能。（新華社）"
     }
   ]
 }
