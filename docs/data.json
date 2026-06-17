@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-17 21:26:09",
-  "count": 18466,
+  "updated": "2026-06-17 21:30:15",
+  "count": 18471,
   "items": [
+    {
+      "id": "4941176",
+      "time": "2026-06-17 21:29:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長杜裡甘：我們將很快宣佈一項針對按時還款的良好信用者制定的消費者債務重新協商計劃。"
+    },
+    {
+      "id": "4941175",
+      "time": "2026-06-17 21:29:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談及伊朗問題：有些人一味主張持續實施轟炸，全然不顧此舉能否給美國帶來任何實質收益，而特朗普並不打算採取這種做法。 他並非有意讓伊朗民眾陷入苦難，其核心目標是阻止伊朗擁有核武器。"
+    },
+    {
+      "id": "4941174",
+      "time": "2026-06-17 21:29:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【梁鳳儀：“新能源人民幣”值得期待 香港要扮演更核心的角色】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。香港證券及期貨事務監察委員會行政總裁梁鳳儀表示，隨著全球能源轉型與供應鏈重塑，新能源貿易有望成為人民幣國際化征程的新動力。經濟學家提出了“新能源人民幣”的戰略新途徑，核心是以高效新能源為支點，將太陽能、風能、電動汽車等低碳供應鏈產品打造成為新的出口增長點，透過推動國家優勢產業在全球貿易中採取人民幣計價和結算，進而帶動人民幣對實際資產的需求。梁鳳儀表示：“人民幣是否能發展成為‘新能源貨幣’，為時尚早，但千里之行始於足下。香港作為全球離岸人民幣業務樞紐，必須扮演更核心的角色。”"
+    },
+    {
+      "id": "4941173",
+      "time": "2026-06-17 21:28:35",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【分析師：金價有望反彈至每盎司5,000美元】關注金價的分析師認為，今年金價仍有可能重返每盎司5,000美元左右的水平，但去年金價大漲鼎盛時期所預測的每盎司6,000美元左右的高點可能已無法實現。The Gold Bullion Company的Rick Kanda在一份報告中表示：“我認為每盎司6,000美元的預測可能有點遙不可及。”“但如果全球央行保持購買黃金的勢頭，金價很有可能觸及每盎司5,000美元的價值關口。”Kanda還指出，宏觀經濟因素已經發生變化，使得黃金作為避險資產的吸引力不如去年。前市黃金期貨持平於每盎司4,353.50美元。"
+    },
+    {
+      "id": "mkt:019ed5c4-a22d-7dd8-b052-41ec84a2c0d1",
+      "time": "2026-06-17 21:28:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell 3.0% intraday to $3.141 per MMBtu."
+    },
+    {
+      "id": "mkt:019ed5c4-9476-7dd8-b052-39d1f12ead45",
+      "time": "2026-06-17 21:28:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sharon AI to issue $700 mln 4.75% convertible senior notes."
+    },
+    {
+      "id": "mkt:019ed5c4-6c54-7dd8-b052-30be09feb453",
+      "time": "2026-06-17 21:27:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Dongshan Precision: optical-chip profit levels meet expectations; margins to expand】At an investor meeting on June 17, Dongshan Precision said profit levels from its optical-chip business are in line with expectations and that profitability will expand as capacity continues to ramp and yields improve."
+    },
+    {
+      "id": "mkt:019ed5c4-68f0-7dd8-b052-2c1c02c24780",
+      "time": "2026-06-17 21:27:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Sharon AI to raise funds to support a compute agreement with NVIDIA."
+    },
+    {
+      "id": "4941172",
+      "time": "2026-06-17 21:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：基礎設施管理局將實心牆體保溫工程維修保障額度從2萬英鎊上調至2.5萬英鎊。"
+    },
+    {
+      "id": "mkt:019ed5c3-f8b4-7dd8-b052-237e3fe441f5",
+      "time": "2026-06-17 21:27:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Analyst: Gold could still rally toward $5,000/oz】Rick Kanda of The Gold Bullion Company said gold could still return to around $5,000/oz this year, while last year's $6,000/oz target now looks out of reach. He said if global central banks keep buying, gold has a good chance of hitting $5,000/oz, but recent macroeconomic shifts have reduced gold's safe-haven appeal versus last year."
+    },
+    {
+      "id": "4941171",
+      "time": "2026-06-17 21:27:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東山精密：目前光晶片業務相關利潤水平符合預期 盈利空間會進一步提升】東山精密6月17日在機構投資者會議表示，目前光晶片業務相關利潤水平符合預期，隨著產能持續爬坡、良率提升，盈利空間會進一步提升。"
+    },
+    {
+      "id": "4941169",
+      "time": "2026-06-17 21:25:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西財長杜裡甘：如果戰爭導致油價上漲，而政府的收入增加，我會與國家分享利潤，以便家庭不必支付更多。儘管巴西利率高企，我們仍設法使經濟產生了良好成果。"
+    },
     {
       "id": "4941168",
       "time": "2026-06-17 21:25:33",
@@ -169800,63 +169911,6 @@
         "市場"
       ],
       "text": "多倫多證券交易所指數.GSPTSE開盤下跌177.47點，跌幅0.52%，報34,234.22點。"
-    },
-    {
-      "id": "4928482",
-      "time": "2026-06-10 21:28:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西航空工業公司執行長表示，公司沒有研發戰鬥機的計劃，對與薩博合作在巴西組裝鷹獅戰鬥機感到滿意。"
-    },
-    {
-      "id": "mkt:019eb1b7-ed9f-7dd8-afa2-702b9481ce0a",
-      "time": "2026-06-10 21:28:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian central bank: analysts expect 2026 GDP growth of 0.7%."
-    },
-    {
-      "id": "4928481",
-      "time": "2026-06-10 21:27:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯分析師預計2026年GDP增長0.7% 。"
-    },
-    {
-      "id": "4928480",
-      "time": "2026-06-10 21:27:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯分析師預計2026年平均關鍵利率為14.1%。"
-    },
-    {
-      "id": "4928479",
-      "time": "2026-06-10 21:26:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞調查與指控委員會已暫時暫停總統古斯塔沃·佩特羅的職務，直至6月21日。"
-    },
-    {
-      "id": "mkt:019eb1b6-511d-7dd8-afa2-6f8b9d776723",
-      "time": "2026-06-10 21:26:15",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Colombia's Committee on Investigations and Accusations said it has suspended President Petro from his duties until June 21."
-    },
-    {
-      "id": "4928478",
-      "time": "2026-06-10 21:26:10",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【李希在河南調研時強調 牢固樹立和踐行正確政績觀 推進新徵程紀檢監察工作高質量發展】中共中央政治局常委、中央紀委書記李希8日至10日到河南調研。他強調，紀檢監察機關要深入學習貫徹習近平新時代中國特色社會主義思想，深刻領悟“兩個確立”的決定性意義、堅決做到“兩個維護”，認真落實中央紀委五次全會部署，紮實開展樹立和踐行正確政績觀學習教育，持續加強紀檢監察工作規範化法治化正規化建設，以紀檢監察工作高質量發展新成效服務保障“十五五”開好局起好步。（新華社）"
     }
   ]
 }
