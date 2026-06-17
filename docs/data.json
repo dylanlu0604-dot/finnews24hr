@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-17 23:55:57",
-  "count": 18417,
+  "updated": "2026-06-17 23:59:58",
+  "count": 18407,
   "items": [
+    {
+      "id": "4941447",
+      "time": "2026-06-17 23:59:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫： 烏克蘭武裝部隊蓄意襲擊載有兒童的巴士，意圖製造恐慌。"
+    },
+    {
+      "id": "4941446",
+      "time": "2026-06-17 23:58:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨：與以色列敵方談判的底線是雙方共同安全，任何解除我方武裝的方案都絕不會接受。"
+    },
+    {
+      "id": "4941445",
+      "time": "2026-06-17 23:57:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：決定為旗下波音 737-800、737-900ER 機隊加裝鰭片裝置，體現航司持續致力於降低燃油消耗。"
+    },
+    {
+      "id": "4941444",
+      "time": "2026-06-17 23:57:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "達美航空：公司將為旗下全部波音 737-800 與 737-900ER 機隊加裝渦流控制技術公司研發的 Finlet 改裝套件。"
+    },
     {
       "id": "4941443",
       "time": "2026-06-17 23:54:53",
@@ -169236,130 +169268,6 @@
         "MKT News"
       ],
       "text": "President Trump praised FHFA Director Pulte's performance overseeing Fannie Mae and Freddie Mac."
-    },
-    {
-      "id": "mkt:019eb242-fca4-7dd8-afa8-7e9ba562d059",
-      "time": "2026-06-10 23:59:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "On the USMCA, President Trump said he is in talks with the other parties and will wait and see."
-    },
-    {
-      "id": "mkt:019eb242-f391-7dd8-afa8-723b4c043a0e",
-      "time": "2026-06-10 23:59:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump: US will resume \"heavy\" strikes on Iran; says Tehran should sign deal】President Trump said the United States would take a very tough line and resume heavy strikes on Iran if a peaceful agreement cannot be reached. Speaking at the White House, he said we will hit them and resume bombing, and cited Iran’s downing of an Apache helicopter in the Strait of Hormuz. Trump said the US has the right to resume strikes and that he wants a meaningful agreement which Iran should sign. A Fox News report earlier said he was close to ordering strikes on Iranian infrastructure; Trump said he would not specify whether bridges or power plants would be targeted."
-    },
-    {
-      "id": "4928764",
-      "time": "2026-06-10 23:59:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談房利美和房地美：我有權出售它們。"
-    },
-    {
-      "id": "4928763",
-      "time": "2026-06-10 23:59:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普讚揚普爾特在房利美和房地美的工作。"
-    },
-    {
-      "id": "4928762",
-      "time": "2026-06-10 23:59:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就美墨加協定表態：我們正與他們溝通，靜觀其變。"
-    },
-    {
-      "id": "mkt:019eb241-f8a7-7dd8-afa8-681d569fed06",
-      "time": "2026-06-10 23:58:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump: the US does not need Mexico or Canada for anything; Mexico and Canada must treat the US better."
-    },
-    {
-      "id": "4928761",
-      "time": "2026-06-10 23:58:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：墨西哥和加拿大必須給美國更好待遇。"
-    },
-    {
-      "id": "4928760",
-      "time": "2026-06-10 23:58:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：墨西哥和加拿大必須更好地對待我們。"
-    },
-    {
-      "id": "4928759",
-      "time": "2026-06-10 23:57:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國不需要墨西哥或加拿大擁有的任何東西。"
-    },
-    {
-      "id": "4928758",
-      "time": "2026-06-10 23:57:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及《美墨加協定》：我不知道是否會重啟該協定。"
-    },
-    {
-      "id": "mkt:019eb240-10cb-7dd8-afa8-64cc0c4e1872",
-      "time": "2026-06-10 23:56:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he does not intend to renew the US-Mexico-Canada Agreement (USMCA)."
-    },
-    {
-      "id": "4928757",
-      "time": "2026-06-10 23:56:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談美墨加協定：不打算續簽。"
-    },
-    {
-      "id": "mkt:019eb23f-faa7-7dd8-afa8-59f6bed45cda",
-      "time": "2026-06-10 23:56:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump praised Turkish President Erdogan."
-    },
-    {
-      "id": "mkt:019eb23f-c655-7dd8-afa8-551d99804bf1",
-      "time": "2026-06-10 23:56:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "US President Trump said he will meet AI industry leaders to discuss corporate giving. He said he expects executives to return gains to the public and that AI will make the public very wealthy."
     }
   ]
 }
