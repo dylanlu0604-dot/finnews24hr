@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-17 09:22:43",
-  "count": 18320,
+  "updated": "2026-06-17 09:26:37",
+  "count": 18323,
   "items": [
+    {
+      "id": "4939577",
+      "time": "2026-06-17 09:25:35",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指低開，滬指跌0.43％，深成指跌0.67％，創業板跌1.02％。"
+    },
+    {
+      "id": "mkt:019ed32e-d53a-7dd8-b03c-d5bd16c91f65",
+      "time": "2026-06-17 09:25:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-shares opened lower: Shanghai Composite down 0.43%, Shenzhen Composite Index down 0.67%, ChiNext down 1.01%."
+    },
+    {
+      "id": "4939576",
+      "time": "2026-06-17 09:24:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西電電力電子成功斬獲海外資料中心專用固態變壓器訂單】日前，西電電力電子成功斬獲海外資料中心專用固態變壓器訂單，本次專案共簽約4臺13.8kV AC/800V DC固態變壓器，助力海外資料中心打造新型供電體系。此次海外訂單的成功落地，是國產固態變壓器技術走向國際主流市場的關鍵一步。"
+    },
+    {
+      "id": "4939575",
+      "time": "2026-06-17 09:24:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【舍溫·加查利安當選菲律賓參議長】6月17日，菲律賓參議院召開特別會議，選舉舍溫·加查利安擔任參議長。"
+    },
+    {
+      "id": "mkt:019ed32d-1eaa-7dd8-b03c-c9cf42617dcb",
+      "time": "2026-06-17 09:23:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "1605.T",
+        "Impact bullish"
+      ],
+      "text": "Australian unions have reached an agreement with INPEX on the Ichthys LNG facility."
+    },
+    {
+      "id": "4939574",
+      "time": "2026-06-17 09:23:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【抖音啟動反詐活動 平臺“長輩模式”新增預警功能】“2026抖音反詐萬里行”活動日前在京啟動。活動現場，抖音相關負責人介紹，針對老年人的高發網路詐騙，平臺升級了“長輩模式”，新增反詐風險預警功能。當60歲及以上老年人開啟該功能，遭遇詐騙高風險時，系統將向其繫結的緊急聯絡人傳送通知，為子女勸阻提供“黃金時間”。同時，平臺進一步升級“驗證助手”，並依託AI大模型與Agent風控體系，系統提升對新型詐騙的識別與阻斷能力。據瞭解，今年以來抖音已協助公安機關成功落地打擊涉詐案件34起，抓獲165人；日均攔截投稿、評論等場景異常請求1500萬次，透過多種渠道向使用者提醒700萬次。（國是直通車）"
+    },
+    {
+      "id": "mkt:019ed32c-5c1e-7dd8-b03c-c798dc91d858",
+      "time": "2026-06-17 09:22:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "Impact bearish",
+        "HSCEI"
+      ],
+      "text": "Hang Seng Index (HSI) opened up 1.9 pts (+0.01%) at 24,495.85 on June 17. Hang Seng Tech Index opened down 21.87 pts (-0.47%) at 4,636.78. Hang Seng China Enterprises Index (HSCEI) opened down 5.35 pts (-0.06%) at 8,234.70. Red Chip Index opened down 9.28 pts (-0.22%) at 4,240.87."
+    },
+    {
+      "id": "4939572",
+      "time": "2026-06-17 09:22:20",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【山東省發改委通報“某新基建專案問題”：成立聯合調查組進駐現場核查】據“山東發改”微信公眾號，針對媒體反映山東高速資訊集團有限公司承建的某新基建專案問題，山東省發展改革委、山東省住房城鄉建設廳、山東省交通運輸廳、山東省國資委已組成聯合調查組進駐現場核查，並委託第三方專業機構對專案施工質量開展全面檢測。相關調查結果將及時向社會公佈。"
+    },
+    {
+      "id": "4939571",
+      "time": "2026-06-17 09:22:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航宇科技與Baker Hughes簽署長期SSA戰略供貨協議】據航宇科技訊息，6月16日，航宇科技與全球能源裝備巨頭Baker Hughes舉行高層戰略會談，雙方針對LT16機型及多項核心重點機型，正式簽署長期SSA（(Strategic Supply Agreement)）戰略供貨協議，鎖定未來五年各主力型號增量。航宇科技與Baker Hughes已攜手合作15年，是其燃機高溫合金包含冷端及熱端，靜止及轉動件核心戰略供應商。"
+    },
     {
       "id": "mkt:019ed32b-e377-7dd8-b03c-ba4fe95f346f",
       "time": "2026-06-17 09:22:09",
@@ -18,6 +110,15 @@
         "國際"
       ],
       "text": "菲律賓參議院選舉SHERWIN GATCHALIAN為新議長。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606173773932331",
+      "time": "2026-06-17 09:22:03",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展4203億元7天逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "4939569",
@@ -168437,69 +168538,6 @@
         "SSE Composite"
       ],
       "text": "A-share 5G names outperformed: Zhongbei Communications rose more than 7%, Dongcai Technology gained over 4%; Shiyida, Datang Telecom, Hytera and Jingwang Electronics also advanced. Media reported the new-generation communications network could generate about 7 trillion yuan in upstream/downstream output and add roughly 1.5 percentage points to GDP over the next five years."
-    },
-    {
-      "id": "4926973",
-      "time": "2026-06-10 09:26:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡基準股指下跌1.2%，至4961.89點。"
-    },
-    {
-      "id": "mkt:019eaf23-47dc-7ff4-a104-9b27ed5117a2",
-      "time": "2026-06-10 09:26:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore's benchmark stock index fell more than 1%."
-    },
-    {
-      "id": "mkt:019eaf22-e62a-7ff4-a104-91e1e44a171a",
-      "time": "2026-06-10 09:26:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Novokuybyshevsk in Russia's Samara region was hit by a drone strike, the local governor said."
-    },
-    {
-      "id": "mkt:019eaf22-95b2-7ff4-a104-8e1e75596e54",
-      "time": "2026-06-10 09:25:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "A-shares opened: Shanghai Composite down 0.62%, Shenzhen Composite Index down 1.35%, ChiNext down 1.62%. CRO and tax-refund-store concepts led gains; precious metals, CPO and storage-chip sectors pulled back."
-    },
-    {
-      "id": "4926972",
-      "time": "2026-06-10 09:25:28",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指低開，滬指跌0.62％，深成指跌1.35％，創業板跌1.62％。"
-    },
-    {
-      "id": "4926971",
-      "time": "2026-06-10 09:25:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿富汗聲稱巴基斯坦昨晚侵犯了其領空。"
-    },
-    {
-      "id": "4926970",
-      "time": "2026-06-10 09:24:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯薩馬拉州諾伏庫比舍夫斯克遭無人機襲擊。"
     }
   ]
 }
