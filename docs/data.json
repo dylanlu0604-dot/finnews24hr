@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-17 23:34:57",
-  "count": 18463,
+  "updated": "2026-06-17 23:39:13",
+  "count": 18456,
   "items": [
+    {
+      "id": "mkt:019ed63a-d01a-7dd8-b057-f62039ea4ee8",
+      "time": "2026-06-17 23:37:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities on June 17: Germany's DAX closed up 38.22 pts (+0.15%) at 24,952.98; UK's FTSE 100 closed up 14.02 pts (+0.13%) at 10,508.23; France's CAC 40 closed down 16.48 pts (-0.20%) at 8,430.79; STOXX Europe 50 closed up 44.38 pts (+0.71%) at 6,301.80; Spain's IBEX 35 closed up 266.56 pts (+1.39%) at 19,430.16; Italy's FTSE MIB closed up 187.94 pts (+0.36%) at 52,620.50."
+    },
     {
       "id": "mkt:019ed637-11e1-7dd8-b057-ede734c2ab38",
       "time": "2026-06-17 23:33:13",
@@ -169701,83 +169714,6 @@
         "國際"
       ],
       "text": "【以色列總統：黎巴嫩應擺脫真主黨和伊朗影響】以色列總統赫爾佐格10日表示，希望以色列與黎巴嫩實現和平，但黎方有責任擺脫黎巴嫩真主黨和伊朗的影響。赫爾佐格當天視察以色列北部邊境地區期間透過社交媒體釋出影片講話。他說，黎巴嫩真主黨違反黎以停火協議，以方“不能接受針對本國公民的襲擊、越境襲擊以及任何恐怖襲擊”。他同時表示，只要沒有能夠保障以色列安全的明確安排，以黎雙方就難以進一步改善關係。近期在美國斡旋下，以色列和黎巴嫩就邊界安全等問題舉行直接接觸和談判，但雙方圍繞真主黨武裝問題及停火安排仍存在較大分歧。（新華社）"
-    },
-    {
-      "id": "mkt:019eb22f-49a5-7dd8-afa7-d496d3f9cedd",
-      "time": "2026-06-10 23:38:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "European equity benchmarks closed mixed on Wednesday, June 10: Germany's DAX 30 fell 217.10 points (-0.89%) to 24,200.97; the UK's FTSE 100 rose 22.61 points (+0.22%) to 10,249.94; France's CAC 40 fell 41.60 points (-0.51%) to 8,161.83; the Euro Stoxx 50 fell 35.18 points (-0.58%) to 6,014.56; Spain's IBEX 35 fell 47.63 points (-0.26%) to 18,139.07; Italy's FTSE MIB fell 252.26 points (-0.50%) to 50,010.50."
-    },
-    {
-      "id": "4928719",
-      "time": "2026-06-10 23:38:21",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【OpenAI籌備全新人工智慧模型，預計一年內啟動上市】OpenAI執行長奧特曼於週一向員工透露，公司預計一年內完成上市。他稱，諸多因素會導致上市時間在此區間內提前或延後，而當下提交相關檔案，能為儘早上市保留選擇空間。公司另一位高管也透露，OpenAI正準備推出一款全新人工智慧模型。"
-    },
-    {
-      "id": "mkt:019eb22e-ed3a-7dd8-afa7-cfd740927539",
-      "time": "2026-06-10 23:38:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The Information reports Altman expects OpenAI to go public within the next year."
-    },
-    {
-      "id": "4928718",
-      "time": "2026-06-10 23:37:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧特曼預計OpenAI將在一年內上市。"
-    },
-    {
-      "id": "mkt:019eb22d-d72e-7dd8-afa7-c6fc44aa964d",
-      "time": "2026-06-10 23:36:49",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said it would be unwise for Iran to further challenge the United States."
-    },
-    {
-      "id": "4928717",
-      "time": "2026-06-10 23:35:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱一空軍基地在伊朗導彈襲擊中受損】當地時間10日自以軍方面獲悉，本週早些時候伊朗向以色列發射彈道導彈，以色列的拉馬特戴維空軍基地出現受損情況。此前公佈的低解析度衛星影象顯示，該基地一處倉庫疑遭擊中。"
-    },
-    {
-      "id": "4928716",
-      "time": "2026-06-10 23:35:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思表示，伊朗進一步挑釁美國是“不智之舉”。"
-    },
-    {
-      "id": "mkt:019eb22c-5505-7dd8-afa7-b8f3a44dbed3",
-      "time": "2026-06-10 23:35:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Matsumoto, nominee to head the U.S. Bureau of Labor Statistics, said she believes the CPI data are accurate."
     }
   ]
 }
