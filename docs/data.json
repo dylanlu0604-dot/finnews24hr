@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-18 04:06:09",
-  "count": 18805,
+  "updated": "2026-06-18 04:10:12",
+  "count": 18799,
   "items": [
+    {
+      "id": "4941833",
+      "time": "2026-06-18 04:07:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗將於7月初訪問印度阿薩姆邦，同行人員包括五十多家日本企業及機構的負責人。"
+    },
+    {
+      "id": "mkt:019ed731-9292-7dd8-b064-104e32eb9832",
+      "time": "2026-06-18 04:06:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "On Wednesday, June 17, the Dow Jones Industrial Average closed down 506.51 points, or 0.97%, at 51,493.16; the S&P 500 closed down 91.22 points, or 1.21%, at 7,420.13; the Nasdaq Composite closed down 354.69 points, or 1.34%, at 26,021.66."
+    },
     {
       "id": "4941832",
       "time": "2026-06-18 04:04:54",
@@ -173312,86 +173334,6 @@
         "市場"
       ],
       "text": "現貨白銀日內跌3%，現報63.33美元/盎司。"
-    },
-    {
-      "id": "mkt:019eb328-050a-7dd8-afab-ed9b4d8e377c",
-      "time": "2026-06-11 04:10:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell $2.00 intraday to $63.35/oz, down 3.06%."
-    },
-    {
-      "id": "mkt:019eb327-5937-7dd8-afab-e389b0e0a95f",
-      "time": "2026-06-11 04:09:20",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) expects total cloud revenue to grow 57–63% YoY on a constant-currency basis in the first fiscal quarter."
-    },
-    {
-      "id": "mkt:019eb327-218d-7dd8-afab-d8e45d5f6e55",
-      "time": "2026-06-11 04:09:06",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) expects fiscal Q1 total revenue to rise 27%–29% on both a constant-currency basis and in U.S. dollars."
-    },
-    {
-      "id": "4928959",
-      "time": "2026-06-11 04:08:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據日經新聞：SK 集團將在日本新建資料中心。"
-    },
-    {
-      "id": "mkt:019eb326-3259-7dd8-afab-d2592dd03cc6",
-      "time": "2026-06-11 04:08:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) targets FY2027 revenue of $90 bln."
-    },
-    {
-      "id": "mkt:019eb325-4d69-7dd8-afab-cdf2d4539113",
-      "time": "2026-06-11 04:07:06",
-      "tags": [
-        "MKT News",
-        "ORCL.O",
-        "Impact mixed"
-      ],
-      "text": "Oracle (ORCL.N) said it expects to raise about $40 billion in fiscal 2027 through a mix of debt and equity financing."
-    },
-    {
-      "id": "mkt:019eb324-ebb5-7dd8-afab-c296cce61f9d",
-      "time": "2026-06-11 04:06:41",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bearish"
-      ],
-      "text": "Oracle (ORCL.N) shares fell more than 5% in U.S. after-hours trading."
-    },
-    {
-      "id": "mkt:019eb324-aabe-7dd8-afab-bd8ad0f0acb6",
-      "time": "2026-06-11 04:06:25",
-      "tags": [
-        "MKT News",
-        "ORCL.N"
-      ],
-      "text": "ORACLE (ORCL.N) reported cloud revenue of $9.9 bln in FY2026 Q4."
     }
   ]
 }
