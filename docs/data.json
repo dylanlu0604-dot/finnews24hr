@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-17 14:12:38",
+  "updated": "2026-06-17 14:16:35",
   "count": 18384,
   "items": [
+    {
+      "id": "4940088",
+      "time": "2026-06-17 14:15:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼與特朗普交談時被收音麥克風意外錄下對話。 錄音中能聽到他說道：“我方產品佔比不足3%”、“4.9萬輛汽車”、“設定上限”以及“我本以為你會認可這個方案”，說話時他做出終止談判的手勢，隨後便轉身離開。"
+    },
+    {
+      "id": "4940087",
+      "time": "2026-06-17 14:15:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商蛇口在深圳成立租賃公司】天眼查App顯示，近日，深圳市山前住房租賃有限公司成立，法定代表人為羅雯，註冊資本500萬人民幣，經營範圍包括住房租賃、非居住房地產租賃、企業管理諮詢、創業空間服務等。股東資訊顯示，該公司由招商蛇口（001979）旗下深圳市招商公寓發展有限公司全資持股。"
+    },
+    {
+      "id": "4940086",
+      "time": "2026-06-17 14:14:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：美聯儲本月的會議正被視為年內最重要的會議之一】儘管投資者對美聯儲將聯邦基金利率目標區間維持在3.50%–3.75%的決定毫無疑問，但法國外貿銀行的分析師Mabrouk Chetouane在一份報告中指出，此次貨幣政策會議仍是今年最重要的會議之一。“自上任以來，凱文·沃什作為FOMC主席出席的首場會議，將面臨艱鉅的任務，”這位全球市場策略主管表示。他指出，這位新任美聯儲主席不僅需要評估經濟形勢，還可能推動變革，特別是在央行溝通策略方面。“他上任後的首項舉措及其初期表態將受到密切關注，因為在這個全球最具影響力的貨幣機構中，過渡期通常會給資本市場帶來壓力。”"
+    },
+    {
+      "id": "4940085",
+      "time": "2026-06-17 14:14:21",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "英國5月剔除能源、食品、菸酒後的核心CPI同比上漲2.6%，路透調查預期為同比上漲2.7%。"
+    },
+    {
+      "id": "4940084",
+      "time": "2026-06-17 14:14:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國5月零售物價指數（RPI）同比上漲3.1%，調查預期為上漲3.3%。"
+    },
+    {
+      "id": "4940083",
+      "time": "2026-06-17 14:13:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳交所200指數收盤上漲0.5%，報8966.30點。"
+    },
+    {
+      "id": "4940082",
+      "time": "2026-06-17 14:13:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛：首予零跑汽車“買入”評級及目標價50港元】高盛發表研報，首予零跑汽車“買入”評級，12個月目標價為50港元，預期公司在未來三個季度推出的具競爭力新車型將推動內地市場增長加速。該行指出，零跑汽車2026年海外目標銷量為12.5萬輛，而該行預計其海外銷量有60%的上行空間，這使該行對公司2026年至2028年的淨利潤預測較市場共識高出7%至12%。該行預測，零跑汽車在2025年至2027年將實現行業領先的48%收入複合年增長率和143%的盈利複合年增長率。"
+    },
+    {
+      "id": "mkt:019ed436-3e39-7dd8-b044-8a117d20825e",
+      "time": "2026-06-17 14:13:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【WeChat Pay launches AI-specific card】WeChat Pay has launched an AI-specific card that lets users submit purchase requests within an Agent chat; it handles smart recommendations through order placement and payment. The card is currently supported in WorkBuddy."
+    },
+    {
+      "id": "mkt:019ed435-d266-7dd8-b044-80d5b6e345c5",
+      "time": "2026-06-17 14:12:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Institution: This month’s Fed meeting is being viewed as one of the year’s most important】Investors widely expect the Fed to hold the federal funds target range at 3.50%–3.75% at this month’s meeting, but Natixis global markets strategist Mabrouk Chetouane says the meeting remains one of the year’s most important. He notes this will be Kevin Walsh’s first FOMC meeting as chair and that Walsh faces a difficult task: assessing the economy and possibly driving change, particularly in the Fed’s communication strategy. Chetouane says Walsh’s initial actions and early remarks will be closely watched, since leadership transitions at the world’s most influential central bank often create pressure on capital markets."
+    },
+    {
+      "id": "4940081",
+      "time": "2026-06-17 14:12:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "立陶宛央行下調2026年國內生產總值增速預期，從此前3.1%降至2.7%。"
+    },
+    {
+      "id": "4940080",
+      "time": "2026-06-17 14:12:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國紅十字會總會向青海地震災區調撥救災物資】2026年6月16日，青海海西州直轄區發生6.3級地震。根據青海省紅十字會上報的災情及需求，中國紅十字會總會啟動應急響應，向受災地區調撥摺疊床、棉被、衝鋒衣等救災物資共8000件（套），用於支援當地救災救助工作。"
+    },
     {
       "id": "4940079",
       "time": "2026-06-17 14:11:18",
@@ -169088,105 +169188,6 @@
         "MKT News"
       ],
       "text": "【Xian Hui leads CPPCC delegation to Vietnam】CPPCC Vice Chairman Xian Hui led a delegation to Vietnam from June 8-10, meeting Vietnam Politburo member and Secretariat standing secretary Chen Jinxiu, Politburo member and Vietnam Fatherland Front chair Pei Shiminghuai, and Vietnam Fatherland Front vice chair Huang Gongshui. Xian said CHINA and Vietnam’s general secretary and president Su Lin recently held in-depth talks on broad strategic issues and outlined a blueprint for a higher-level, strategic China–Vietnam community of shared destiny. China, he said, will follow top leaders’ strategic guidance to deepen mutually beneficial cooperation and advance construction of the China–Vietnam community; the CPPCC stands ready to contribute."
-    },
-    {
-      "id": "4927410",
-      "time": "2026-06-10 14:16:25",
-      "tags": [
-        "宏觀",
-        "國際",
-        "兩會"
-      ],
-      "text": "【鹹輝率全國政協代表團訪問越南】6月8日至10日，全國政協副主席鹹輝率團訪問越南，分別會見越共中央政治局委員、中央書記處常務書記陳錦繡，越共中央政治局委員、祖國陣線中央委員會主席裴氏明懷，與祖國陣線副主席黃功水會談。 鹹輝表示，不久前中共中央總書記、國家主席習近平同訪華的越共中央總書記、國家主席蘇林就共同關心的全域性性、戰略性問題深入溝通，為構建更高水平具有戰略意義的中越命運共同體擘畫藍圖。中方願同越方一道，遵照兩黨兩國最高領導人戰略指引，深化互利合作，推動中越命運共同體建設走深走實。中國全國政協願為此作出貢獻。 越方表示，願與中方共同落實好兩黨兩國最高領導人共識，深化治黨治國理政經驗交流，加強經貿、科技、基礎設施等領域務實合作。(新華社)"
-    },
-    {
-      "id": "mkt:019eb02c-a18f-799a-b41d-30aed48e0d3d",
-      "time": "2026-06-10 14:16:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tsinghua University (Computer Science)–iSoftStone AI Systems Joint Research Center established】Tsinghua University’s Department of Computer Science and iSoftStone Co., Ltd. have launched an AI systems joint research center to build a high-level, integrated industry–academia–research innovation platform focused on core AI foundational software and hardware technologies, aimed at advancing autonomous, China-controlled foundational AI infrastructure and supporting high-quality development of China’s AI industry."
-    },
-    {
-      "id": "4927409",
-      "time": "2026-06-10 14:15:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾德股份等投資成立能源管理新公司】企查查APP顯示，近日，深圳時宜能源管理有限公司成立，註冊資本1000萬元，經營範圍包含：合同能源管理；節能管理服務；太陽能發電技術服務；光伏發電裝置租賃等。企查查股權穿透顯示，該公司由諾德股份旗下諾德智慧能源管理有限公司等共同持股。"
-    },
-    {
-      "id": "4927407",
-      "time": "2026-06-10 14:15:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國曝出AI眼鏡作弊案 考慮高考禁用同類用品】韓國考試機構10日說，兩名考生近日在託業(TOEIC)英語能力考試中利用AI智慧眼鏡作弊，受到嚴肅處理。這一新型作弊方式引起重視，韓國教育部門考慮高考禁用這類用品。韓聯社10日以考試機構為訊息源報道，這兩名考生分別在5月10日、5月31日的考試中被監考人員發現形跡可疑，經查兩人佩戴AI眼鏡進行作弊。依據考試相關規定，兩人本次考試成績作廢，且今後4年內不得再次參加託業考試。（新華社）"
-    },
-    {
-      "id": "te:economy:557904",
-      "time": "2026-06-10 14:13:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Norway Inflation Rate Hits 3-Month Low — Norway’s annual inflation rate eased to 3.1% in May 2026 from 3.4% in the previous month, pointing to the lowest reading since February. Price growth slowed for food and non-alcoholic beverages (3.4% vs 6.6% in April), alcoholic beverages and tobacco (3.0% vs 3.5%), housing and utilities (2.8% vs 3.6%), and recreation and culture (3.8% vs 4.0%). Meanwhile, inflation held steady for education services (at 2.4%). Simultaneously, prices for personal care and miscellaneous goods remained in deflation (-1.5% vs -1.3%). In contrast, costs accelerated for clothing (1.8% vs 1.5%), furnishings and household equipment (2.3% vs 0.3%), health (4.1% vs 3.4%), transport (2.6% vs 2.4%), and restaurants and accommodation services (6.2% vs 5.8%). Meanwhile, the CPI-ATE, which excludes energy and tax effects, increased 3.4% year-on-year, marking the highest level in four months and accelerating from April's 3.2%. On a monthly basis, the CPI rose 0.2%, slowing from a 0.2% gain in April."
-    },
-    {
-      "id": "mkt:019eb02a-4c9f-799a-b41d-2fc949ee5bd2",
-      "time": "2026-06-10 14:13:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UKMTO received a report of an incident 88 nautical miles southwest of Balhaf, Yemen. A cargo ship reported a small craft carrying six armed personnel approached, shots were exchanged, and the small craft then turned away."
-    },
-    {
-      "id": "4927406",
-      "time": "2026-06-10 14:13:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.6%，至8,653.30點。"
-    },
-    {
-      "id": "mkt:019eb02a-3e53-799a-b41d-227a809058b3",
-      "time": "2026-06-10 14:13:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "China Tech Giants"
-      ],
-      "text": "【ByteDance launches carve-out and fundraising for AI drug unit as AI4S enters industrialization】ByteDance has launched a carve-out and independent financing process for its AI drug unit while retaining a controlling stake. The new entity will take the unit's core team, AI4S algorithms, technology platform and existing pipeline assets and will continue to receive compute from Volcano Engine. The unit, founded in 2021 and led by Liu Kai, comprises about 50 core members of AI4S algorithm engineers and senior pharmaceutical experts. The team has handled work from foundational model research through industrialization."
-    },
-    {
-      "id": "4927405",
-      "time": "2026-06-10 14:13:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）表示，在葉門巴爾哈夫西南88海里處發生一起事件。一艘貨船報告稱，一艘載有6名武裝人員的小船曾試圖靠近該船。小型船隻與貨船武裝安保團隊發生交火，最終小型船隻駛離。"
-    },
-    {
-      "id": "4927404",
-      "time": "2026-06-10 14:12:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【位元組 AI 製藥開啟拆分融資，AI4S 進入產業化階段】據悉，位元組跳動AI製藥業務線已啟動拆分與獨立融資程序。據悉，拆分後位元組仍將控股新公司，AI製藥核心團隊、核心演算法、技術平臺和已有管線資產將整體進入新主體。同時，該業務也將繼續從火山引擎獲得算力支援。新公司將由位元組跳動AI製藥團隊主導負責。位元組AI製藥團隊成立於2021年，由劉凱負責，據悉核心成員約50人，由AI4S演算法人才和資深製藥領域專家構成。該團隊自成立起便承擔著從基礎模型研究到產業化的核心職能。此前位元組內部負責蛋白結構預測模型的相關團隊，也已併入由劉凱負責的AI製藥團隊，相關演算法模型團隊已完成整合，將繼續推進該領域的基礎模型研究，少數人員離職。位元組AI製藥的業務進展，是這次拆分融資的重要基礎。位元組跳動在AI製藥方向有多個技術成果，2025年，位元組AI4S團隊釋出了分子結構預測模型Protenix和Seedfold，並在2026年迭代Protenix-v1/v2，構建面向蛋白、配體等生物複合體系的高精度開源結構預測能力。在蛋白質設計和預測方面，團隊則推出了PXDesign等蛋白binder（結合蛋白）設計工具。(36氪)"
-    },
-    {
-      "id": "mkt:019eb029-847c-799a-b41d-1c5a42eccb57",
-      "time": "2026-06-10 14:12:51",
-      "tags": [
-        "MKT News",
-        "TSM.O",
-        "Impact bullish"
-      ],
-      "text": "【TSMC CFO says inflation may prompt chip price increases but rejects sudden 4–5x jump】TSMC CFO Huang Jen-hao said inflation is raising the company’s operating costs and he did not rule out raising chip prices to offset higher costs, but he rejected the prospect of a sudden 4–5x price increase."
     }
   ]
 }
