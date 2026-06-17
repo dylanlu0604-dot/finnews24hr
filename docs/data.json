@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-17 21:34:18",
-  "count": 18481,
+  "updated": "2026-06-17 21:38:29",
+  "count": 18470,
   "items": [
+    {
+      "id": "4941199",
+      "time": "2026-06-17 21:37:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【凌瑋科技：股票交易異常波動 提示多項投資風險】凌瑋科技公告稱，公司股票2026年6月15 - 17日收盤價漲幅偏離值累計達39.28%，屬異常波動。經核查，公司、控股股東和實控人不存在應披露未披露重大事項，異常波動期間實控人無買賣公司股票情形。公司提示多項風險，如相關產品未透過下游客戶認證、未獲訂單，研發不確定；市盈率顯著高於行業水平，估值偏高；外部流通盤小，或存非理性炒作風險等。"
+    },
+    {
+      "id": "4941198",
+      "time": "2026-06-17 21:37:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "芝加哥商品交易所集團盤中股價下跌5.8%，此前執行長宣佈辭職。"
+    },
+    {
+      "id": "mkt:019ed5cc-f03a-7dd8-b052-9f824b3e0c30",
+      "time": "2026-06-17 21:37:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "CME.O",
+        "Impact bearish"
+      ],
+      "text": "CME Group shares fell 5.8% after CEO Terry Duffy said he will resign."
+    },
+    {
+      "id": "4941197",
+      "time": "2026-06-17 21:36:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱倫股份：收到政府補助1973.88萬元 佔最近一期歸母淨利潤96.77%】凱倫股份(300715)6月17日公告，公司近日收到政府補助資金1973.88萬元，上述政府補助與收益相關，補助金額佔公司最近一期經審計歸屬於上市公司股東淨利潤的96.77%。"
+    },
+    {
+      "id": "4941196",
+      "time": "2026-06-17 21:36:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紹興銀行嘉興分行因貸款管理不審慎等被罰150萬元】6月17日，國家金融監督管理總局嘉興監管分局公佈的行政處罰資訊顯示，紹興銀行股份有限公司嘉興分行因貸款管理不審慎等被罰款150萬元。"
+    },
+    {
+      "id": "mkt:019ed5cb-ad7b-7dd8-b052-97d6d26c6cb9",
+      "time": "2026-06-17 21:35:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02601.HK",
+        "Impact bullish"
+      ],
+      "text": "【China Pacific Insurance's Fu Fan: Shanghai and Hong Kong to build complementary reinsurance 'offshore hub + onshore center'】Fu Fan, chairman and executive director of China Pacific Insurance (Group) Co., Ltd., said Shanghai and Hong Kong should coordinate to establish a complementary reinsurance model of an offshore hub plus an onshore center. Shanghai will leverage its large domestic direct-insurance market and Lingang institutional innovations to accelerate an onshore reinsurance center; Hong Kong will serve as the offshore hub with a mature reinsurance ecosystem, international-aligned rules and cross-border service experience. He said integrating the two markets is a key step from one-way opening to two-way opening for China’s reinsurance sector, helping build independent risk-pricing capacity and strengthening the risk-resilience of Chinese firms’ global expansion."
+    },
+    {
+      "id": "4941195",
+      "time": "2026-06-17 21:35:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：將 X 平臺作為官方資訊披露渠道，不再依託傳統新聞通訊社釋出公告"
+    },
+    {
+      "id": "4941194",
+      "time": "2026-06-17 21:34:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國太保傅帆：滬港協同打造再保險“離岸樞紐+在岸中心”互補格局】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。中國太平洋保險（集團）股份有限公司董事長、執行董事傅帆表示，滬港協同築牢跨境風險保障，要打造再保險“離岸樞紐+在岸中心”的互補格局。上海立足境內龐大的直保市場和臨港製度創新，正加快建設在岸再保險中心。香港作為離岸再保險樞紐，再保生態成熟、制度規則與國際接軌、跨境服務經驗豐富。推動兩地再保險融合發展，是我國再保險市場從“單向開放”邁向“雙向開放”的關鍵路徑，有助於形成自主風險定價能力，增強中資企業全球化發展的抗風險能級。"
+    },
+    {
+      "id": "4941193",
+      "time": "2026-06-17 21:34:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股盤初，主要行業ETF漲跌不一，半導體ETF漲近3%，全球科技股指數ETF、科技行業ETF漲超1%，醫療業ETF跌近1%。"
+    },
     {
       "id": "4941192",
       "time": "2026-06-17 21:33:35",
@@ -169803,194 +169885,6 @@
         "其他"
       ],
       "text": "【美股部分光通訊股盤初反彈】美股部分光通訊股盤初反彈，AAOI漲超10%，Credo漲超6%，Lumentum漲超4%。"
-    },
-    {
-      "id": "mkt:019eb1c1-4789-7dd8-afa2-bc176250d21f",
-      "time": "2026-06-10 21:38:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "BOT says foreign capital is returning to Thailand's equities and long-term bonds."
-    },
-    {
-      "id": "4928507",
-      "time": "2026-06-10 21:37:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破62000美元，日內漲0.50%。"
-    },
-    {
-      "id": "4928506",
-      "time": "2026-06-10 21:37:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲2%，現報1255.00美元/盎司。"
-    },
-    {
-      "id": "4928505",
-      "time": "2026-06-10 21:37:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "APOTEX HEALTH CORP在多倫多證券交易所首日上市，開盤價為28加元。"
-    },
-    {
-      "id": "4928504",
-      "time": "2026-06-10 21:37:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：外資重新流入泰國股市和長期債券市場。"
-    },
-    {
-      "id": "4928503",
-      "time": "2026-06-10 21:36:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "SWITCH將企業迴圈信貸和信用證融資規模擴大至近100億美元。"
-    },
-    {
-      "id": "4928502",
-      "time": "2026-06-10 21:36:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李佳琦直播間首度開售賓士新車】6月10日晚，李佳琦直播間舉辦梅賽德斯-賓士專場直播，上架全新賓士純電GLCSUV與長軸距C級轎車。這是李佳琦直播間與賓士的首次合作，也是賓士兩款新車自發布以來首次進入達人直播間。當晚連結開售後，多款車型共計40輛車訂金鍊接秒售罄，另有近千名使用者透過直播間預約線下試駕。"
-    },
-    {
-      "id": "mkt:019eb1bf-2e8d-7dd8-afa2-b2a553d43b2b",
-      "time": "2026-06-10 21:35:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Nasdaq-100 index early losses widened to 1%."
-    },
-    {
-      "id": "4928501",
-      "time": "2026-06-10 21:35:43",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【國家資料局：劉烈宏一行在京調研資料市場建設情況】6月2日，國家資料局黨組書記、局長劉烈宏帶隊在北京市開展資料市場建設專題調研。調研組先後到首都醫科大學附屬北京友誼醫院、北京高階資料標註基地、北京國際大資料交易所、北京資料集團、醫渡科技公司開展實地調研，在友誼醫院聽取了北京市衛生健康委、同仁醫院、胸科醫院、安貞醫院等單位的介紹，深入瞭解資料資源開發利用進展情況。調研期間，北京市政務服務和資料管理局等有關單位介紹了建設國家資料要素綜合試驗區、推進資料要素市場化配置改革的有關情況。在醫療健康領域，北京市資料管理部門和衛生健康部門協同推進，建設了統一的醫學影像雲平臺，推進檢查檢驗資訊互通互認，北京市二級及以上醫療機構的影像共享壁壘已全面打通，並正推動影像雲平臺接入所有社群衛生服務機構，實現電子膠片服務全域覆蓋，打破了醫療檢查資料“孤島”，改變了患者帶著膠片跑醫院的傳統就醫模式；開展醫療健康行業高質量資料集建設，在以高質量醫療健康資料賦能智慧診療與藥企研發等方面取得積極進展。在培育資料流通服務機構方面，北京國際大資料交易所加快轉型，在制度建設和生態培育方面持續用力，北京資料集團創新發展模式，在公共資料資源開發利用和行業高質量資料集建設方面探索創新，取得積極進展。關於下一步工作，大家一致表示，要深入貫徹落實黨中央、國務院關於推進資料要素市場化配置改革有關決策部署，更大力度推進資料要素綜合試驗區建設，深化醫療健康資料資源開發利用，更好地釋放資料要素價值；要加快培育資料流通服務機構，充分發揮資料集團的作用，促進公共資料資源開發利用，加快建設開放共享安全的全國一體化資料市場。"
-    },
-    {
-      "id": "4928500",
-      "time": "2026-06-10 21:35:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "IRSA以1350萬美元收購洛斯加列戈斯購物中心。"
-    },
-    {
-      "id": "mkt:019eb1be-cc77-7dd8-afa2-ad0fcc738896",
-      "time": "2026-06-10 21:35:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOT says the baht is weak but remains stable."
-    },
-    {
-      "id": "4928499",
-      "time": "2026-06-10 21:35:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市延續跌勢，納斯達克指數下跌1.00%。"
-    },
-    {
-      "id": "4928498",
-      "time": "2026-06-10 21:35:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行表示，泰銖匯率保持穩定。"
-    },
-    {
-      "id": "mkt:019eb1be-5e29-7dd8-afa2-a21b4518f047",
-      "time": "2026-06-10 21:35:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "BOC to announce interest rate decision in 10 minutes."
-    },
-    {
-      "id": "4928497",
-      "time": "2026-06-10 21:34:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "CRACKER BARREL OLD COUNTRY STORE 上調全年營收預測後股價上漲27%。"
-    },
-    {
-      "id": "4928496",
-      "time": "2026-06-10 21:34:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌1.00%，現報25421.950點；道指跌0.63%，現報50553.250點；標普500指數跌0.68%，現報7336.340點。"
-    },
-    {
-      "id": "4928495",
-      "time": "2026-06-10 21:34:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "CIFD將要約收購的最終接受金額定為9860萬歐元。"
-    },
-    {
-      "id": "mkt:019eb1bd-e65c-7dd8-afa2-9de7783eaa94",
-      "time": "2026-06-10 21:34:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【B. Riley strategist: CPI unlikely to alter Fed's path for next meeting】Art Hogan, chief market strategist at B. Riley Financial, said the latest CPI was mixed — broadly in line with expectations but skewed negative overall — and is unlikely to change the Federal Reserve's policy trajectory at the next meeting. Market consensus remains for a steady Fed; fed funds futures currently price just one additional rate hike. After pronounced profit-taking in chip names and the broader tech sector, those factors likely helped markets recover some early-session losses."
-    },
-    {
-      "id": "4928494",
-      "time": "2026-06-10 21:34:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "JJILL股價下跌約6%，此前公司公佈季度銷售下滑。"
-    },
-    {
-      "id": "te:markets:558081",
-      "time": "2026-06-10 21:34:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Adobe Systems Stock Price Hits 8-week Low — Adobe Systems shares decreased to 231.74 USD, the lowest since April 2026. Over the past 4 weeks, Adobe Systems lost 5.39%, and in the last 12 months, it decreased 44.03%."
     }
   ]
 }
