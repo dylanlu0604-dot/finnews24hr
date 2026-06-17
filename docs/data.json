@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-17 09:26:37",
-  "count": 18323,
+  "updated": "2026-06-17 09:30:39",
+  "count": 18310,
   "items": [
+    {
+      "id": "mkt:019ed333-3448-7dd8-b03c-f2fcd0689ee1",
+      "time": "2026-06-17 09:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former U.S. Vice President Pence said a U.S.-Iran agreement clearly amounted to appeasement."
+    },
+    {
+      "id": "4939584",
+      "time": "2026-06-17 09:29:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東跨境電商十年規模增長55倍】6月16日，中國（廣州）跨境電商交易會啟動儀式在廣州舉辦，超過50家跨境電商平臺企業、全國近40個產業帶、200多家跨境電商服務商和1000多家供應鏈企業參加；展覽規模、展商、展位分別增長24.6%、8.7%和15.7%；參展電商平臺首次突破50家，增長21.4%。廣東省商務廳副廳長姚林指出，廣東省跨境電商進出口規模從2015年的113億元躍升至2025年的6230億元，10年擴大55倍、年均增長49.3%，在全國佔比超過1/3，規模穩居全國第一。"
+    },
+    {
+      "id": "4939583",
+      "time": "2026-06-17 09:29:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【簽署35.57億元算力服務合同 高樂股份開盤一字漲停】6月17日，高樂股份開盤一字漲停，訊息面上，高樂股份6月16日公告，公司全資子公司哈爾濱智浩科技有限公司與客戶簽署《服務採購協議》，由公司按照客戶要求提供算力服務，合同總金額為35.57億元（含稅）。"
+    },
+    {
+      "id": "4939582",
+      "time": "2026-06-17 09:29:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛旭股份中標京能庫布齊沙漠基地一期專案】據愛旭股份訊息，近日，愛旭股份成功中標庫布齊沙漠基地京能準旗光伏專案（一期），獨家供應全部240MW N型BC光伏元件。"
+    },
+    {
+      "id": "mkt:019ed332-4647-7dd8-b03c-e8c5a78c183b",
+      "time": "2026-06-17 09:29:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 extended gains to 0.5%, trading at 69,752.22 points."
+    },
+    {
+      "id": "4939581",
+      "time": "2026-06-17 09:29:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛下調MiniMax目標價】高盛將MiniMax目標價從從1000港元下調至860港元，因其更激進的降價策略導致基礎文字模型API（應用程式程式設計介面）毛利率預期受損，進而擴大了對公司的淨虧損預測。"
+    },
+    {
+      "id": "4939580",
+      "time": "2026-06-17 09:28:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“通合轉債”盤中臨時停牌】深交所公告，“通合轉債”（123271）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "4939579",
+      "time": "2026-06-17 09:28:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲0.5%，報69752.22點。"
+    },
+    {
+      "id": "4939578",
+      "time": "2026-06-17 09:28:24",
+      "tags": [
+        "市場",
+        "觀點",
+        "原創"
+      ],
+      "text": "【摩根大通將MSCI新興市場指數年底目標位上調27%】摩根大通將新興市場股票的年底目標位上調27%，稱霍爾木茲海峽的重新開放有助於新興市場交易回暖，同時科技板塊仍將是市場主線。該行將MSCI新興市場指數2026年底目標位從1575點上調至2000點，意味著較週二收盤水平約有13%的上漲空間。摩根大通策略師預計，油價走低將利好石油進口國，並預計2026年布倫特原油均價為每桶96美元，2027年將降至每桶75美元。"
+    },
+    {
+      "id": "mkt:019ed330-b39e-7dd8-b03c-e7251bf27f49",
+      "time": "2026-06-17 09:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the open on Wednesday June 17, China equity benchmarks fell: Shanghai Composite down 17.6 pts (-0.43%) to 4,074.29; Shenzhen Composite down 105.32 pts (-0.67%) to 15,569.92; CSI 300 index down 24.53 pts (-0.50%) to 4,859.70; ChiNext index down 41.65 pts (-1.01%) to 4,061.30; STAR 50 index down 29.19 pts (-1.66%) to 1,729.23."
+    },
+    {
+      "id": "mkt:019ed330-99f1-7dd8-b03c-df54e0f690e4",
+      "time": "2026-06-17 09:27:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600115.SS",
+        "Impact bullish",
+        "600029.SS",
+        "601111.SS"
+      ],
+      "text": "A-share airport and airlines sector active in the opening call auction; Huaxia Airlines opened over 3% higher, with China Eastern, China Southern, Air China, Juneyao Airlines and Spring Airlines also rising."
+    },
     {
       "id": "4939577",
       "time": "2026-06-17 09:25:35",
@@ -168307,237 +168416,6 @@
         "Important"
       ],
       "text": "China consumer price index (CPI) rose 1.2% YoY in May 2026, the National Bureau of Statistics said."
-    },
-    {
-      "id": "4926985",
-      "time": "2026-06-10 09:30:38",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國5月CPI月率 -0.1%，預期-0.2%，前值0.3%。"
-    },
-    {
-      "id": "4926984",
-      "time": "2026-06-10 09:30:34",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國5月PPI年率 3.9%，預期3.8%，前值2.80%。"
-    },
-    {
-      "id": "4926983",
-      "time": "2026-06-10 09:30:30",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國5月CPI年率 1.2%，預期1.30%，前值1.20%。"
-    },
-    {
-      "id": "mkt:019eaf26-fc04-7ff4-a104-f13f1326683d",
-      "time": "2026-06-10 09:30:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "China May CPI MoM -0.1% vs -0.2% expected; April +0.3% prior."
-    },
-    {
-      "id": "mkt:019eaf26-fb17-7ff4-a104-eb518e61d58e",
-      "time": "2026-06-10 09:30:23",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "DXY",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "China May PPI YoY 3.9% vs expected 3.8%; April 2.8%."
-    },
-    {
-      "id": "mkt:019eaf26-fade-7ff4-a104-e2912ab35e8f",
-      "time": "2026-06-10 09:30:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "China May CPI YoY 1.2% vs consensus 1.3%; prior 1.2%."
-    },
-    {
-      "id": "mkt:019eaf26-f93a-7ff4-a104-dfa342235d38",
-      "time": "2026-06-10 09:30:17",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | CPI (MoM) (May) | actual -0.1% | consensus -0.2% | previous 0.3%"
-    },
-    {
-      "id": "mkt:019eaf26-caac-7ff4-a104-d1ab49526f8a",
-      "time": "2026-06-10 09:30:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | PPI (YoY) (May) | actual 3.9% | consensus 3.8% | previous 2.80%"
-    },
-    {
-      "id": "mkt:019eaf26-caa7-7ff4-a104-ceb280e38930",
-      "time": "2026-06-10 09:30:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | CPI (YoY) (May) | actual 1.2% | consensus 1.30% | previous 1.20%"
-    },
-    {
-      "id": "em:jjsj_zgsj:202606103766000048",
-      "time": "2026-06-10 09:30:13",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：5月CPI同比上漲1.2% PPI同比上漲3.9%】2026年5月份，全國居民消費價格同比上漲1.2%。其中，城市上漲1.3%，農村上漲1.1%；食品價格下降1.7%，非食品價格上漲1.9%；消費品價格上漲1.6%，服務價格上漲0.8%。1--—5月平均，全國居民消費價格比上年同期上漲1.0%。2026年5月份，全國工業生產者出廠價格同比上漲3.9%，環比上漲0.5%。工業生產者購進價格同比上漲5.8%，環比上漲1.3%。1—5月平均，工業生產者出廠價格比上年同期上漲1.0%，工業生產者購進價格上漲1.6%。"
-    },
-    {
-      "id": "4926982",
-      "time": "2026-06-10 09:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.15%，成分股中，戈碧迦跌4.98%，則成電子跌4.66%，矽烷科技跌3.52%，華嶺股份跌2.67%。"
-    },
-    {
-      "id": "4926981",
-      "time": "2026-06-10 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.57%， 滬深300指數期貨連續跌0.62%， 中證500指數期貨連續跌0.71%， 上證50指數期貨連續跌0.30%。"
-    },
-    {
-      "id": "4926980",
-      "time": "2026-06-10 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約基本持平， 10年期主力合約漲0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "4926979",
-      "time": "2026-06-10 09:29:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴西對涉華酸式焦磷酸鈉作出第二次反傾銷日落複審終裁】近日，巴西外貿委員會管理執行委員會(GECEX)釋出2026年第903號決議，對原產於加拿大、中國和美國的酸式焦磷酸鈉[葡萄牙語：pirofosfato ácido de sódio(SAPP)]作出第二次反傾銷日落複審終裁，決定繼續對加拿大和美國徵收為期5年的反傾銷稅，分別為加拿大546.30－1066.30美元/噸，美國418.13－734.28美元/噸；決定不再繼續對中國涉案徵收反傾銷稅。本案涉及南共市稅號2835.39.20項下的產品。本決議自發布之日起生效。"
-    },
-    {
-      "id": "mkt:019eaf26-4692-7ff4-a104-c0b645ed96f8",
-      "time": "2026-06-10 09:29:41",
-      "tags": [
-        "MKT News",
-        "02178.HK",
-        "Impact bullish",
-        "00568.HK"
-      ],
-      "text": "Hong Kong-listed oil and gas equipment and services sector showed pockets of strength; 02178.HK jumped over 14%, 00568.HK rose more than 4%."
-    },
-    {
-      "id": "4926978",
-      "time": "2026-06-10 09:28:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿富汗官員：巴基斯坦襲擊了庫納爾省和霍斯特省。"
-    },
-    {
-      "id": "mkt:019eaf25-27d9-7ff4-a104-ba123ce98302",
-      "time": "2026-06-10 09:28:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share components sector opened lower; Baoding Technology neared its daily limit-down, with Zhongfu Circuit, Zecheng Technology, Jingsai Technology, Sunlord Electronics and Hudian Co. among the largest decliners."
-    },
-    {
-      "id": "4926977",
-      "time": "2026-06-10 09:28:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股油氣裝置股走強 百勤油服漲近15%】截至發稿，百勤油服(02178.HK)漲14.67%，山東墨龍(00568.HK)漲4.16%，達力普控股(01912.HK)漲0.32%。"
-    },
-    {
-      "id": "4926976",
-      "time": "2026-06-10 09:28:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西對原產於中國的聚酯纖維織物作出反傾銷終裁】近日，巴西外貿委員會管理執行委員會(GECEX)釋出2026年第909號決議，對原產於中國的聚酯纖維織物（葡萄牙語：malhasde poliéster）作出反傾銷肯定性終裁，決定徵收1.74－4.81美元/千克的反傾銷稅，有效期為5年，但出於公共利益考慮，該措施暫停實施。涉案產品的南共市稅號為6004.10.31、6004.10.32、6004.10.33、6004.10.34、6004.90.30、6006.31.20、6006.32.20、6006.33.20和6006.34.20。本決議自發布之日起生效。"
-    },
-    {
-      "id": "mkt:019eaf24-976b-7ff4-a104-b485febc8d41",
-      "time": "2026-06-10 09:27:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "At Wednesday open (June 10), CHINA'S SHANGHAI COMPOSITE INDEX opened down 24.91 pts (-0.62%) at 3,985.12; Shenzhen Composite opened down 206.21 pts (-1.35%) at 15,062.51; CSI 300 INDEX opened down 48.70 pts (-1.01%) at 4,753.12; ChiNext Index opened down 64.02 pts (-1.62%) at 3,897.73; CHINA SCI-TECH INNOVATION 50 INDEX opened down 0.26 pts (-0.02%) at 1,662.85."
-    },
-    {
-      "id": "mkt:019eaf24-93ad-7ff4-a104-a87a22daa9b1",
-      "time": "2026-06-10 09:27:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Precious metals-themed LOFs weaken】China precious metals-themed LOFs weakened: SDIC Silver LOF fell more than 5%; gold-themed LOF, Gold LOF and Harvest Gold LOF each dropped over 2%. Earlier, spot gold slipped below $4,200/oz, a near three-month low."
-    },
-    {
-      "id": "4926975",
-      "time": "2026-06-10 09:27:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【元件板塊低開，寶鼎科技逼近跌停】元件板塊低開，寶鼎科技逼近跌停。中富電路、則成科技、晶賽科技、順絡電子、滬電股份跌幅居前。"
-    },
-    {
-      "id": "4926974",
-      "time": "2026-06-10 09:27:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華媒控股：最佳化業務架構聚焦主業 數字化應用尚處探索階段】華媒控股6月10日在互動平臺表示，公司將圍繞“聚焦、瘦身、提效、轉型”對低效、虧損業務及子公司進行梳理整合，透過業務調整、組織最佳化、降本減支、關停並轉等方式最佳化架構，聚焦主責主業，提升經營質量。部分傳媒子公司正擴大媒體數字化應用，但相關技術應用與專案實踐尚處初步探索階段，暫未體現業績貢獻。"
-    },
-    {
-      "id": "mkt:019eaf23-8bdf-7ff4-a104-a521db4b1d43",
-      "time": "2026-06-10 09:26:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share 5G names outperformed: Zhongbei Communications rose more than 7%, Dongcai Technology gained over 4%; Shiyida, Datang Telecom, Hytera and Jingwang Electronics also advanced. Media reported the new-generation communications network could generate about 7 trillion yuan in upstream/downstream output and add roughly 1.5 percentage points to GDP over the next five years."
     }
   ]
 }
