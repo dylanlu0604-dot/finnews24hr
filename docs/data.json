@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-17 12:30:00",
-  "count": 18345,
+  "updated": "2026-06-17 12:34:00",
+  "count": 18344,
   "items": [
+    {
+      "id": "4939959",
+      "time": "2026-06-17 12:33:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.5%，至181,356.90點。"
+    },
+    {
+      "id": "4939958",
+      "time": "2026-06-17 12:32:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔資本：董事會批准透過發行不可轉換債券籌集高達3600億盧比資金。"
+    },
+    {
+      "id": "4939957",
+      "time": "2026-06-17 12:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【大眾汽車要求各方提交發動機業務密封最終報價】英國金融時報援引不願具名知情人士訊息稱，大眾汽車已通知三家收購財團，於下週提交密封最終報價，競購其估值100億美元的發動機業務板塊。上述收購財團背後投資方包括歐洲富豪家族，以及卡達、加拿大資本。此前EQT聯合保時捷控股、卡達投資局參與競標，市場擔憂EQT具備不公平競爭優勢，大眾此舉意在化解相關顧慮。大眾汽車、保時捷控股及EQT均不予置評。"
+    },
     {
       "id": "mkt:019ed3d7-44e8-7dd8-b041-d1f0b0bde9c7",
       "time": "2026-06-17 12:29:20",
@@ -168723,47 +168747,6 @@
         "國際"
       ],
       "text": "【美稱完成對伊打擊 雙方對抗會否升級引關注】當地時間9日，美軍中央司令部稱完成了對伊朗的“自衛性打擊”。此次打擊是對8日一架美軍直升機被擊落的回應。值得關注的是，就在軍事行動發生前，特朗普政府仍在推動與伊朗達成新的和平協議。特朗普此前還表示，美伊談判距離取得突破可能只剩數天時間。有分析認為，此次軍事打擊雖然規模有限，但無疑給原本脆弱的外交程序增添了新的不確定性。也有分析稱，從美軍最新表態來看，中央司令部強調將繼續保持高度警戒狀態，並維持必要兵力部署，以應對可能出現的進一步威脅。這也意味著，雖然美方將此次行動定義為“有限且自衛性質的回應”，但未來幾天雙方是否會進一步升級軍事對抗，仍將是外界關注的焦點。（央視）"
-    },
-    {
-      "id": "te:markets:557888",
-      "time": "2026-06-10 12:33:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Rises on Second Day — India’s BSE Sensex rose about 0.7% to 74,402 at the open on Wednesday, extending gains from the previous session despite mounting geopolitical tensions in the Middle East that continued to cloud investor sentiment. The benchmark index advanced despite broader weakness across Asian markets, as investors balanced support from the Reserve Bank of India's recent liquidity and forex measures against renewed concerns over escalating Middle East tensions, which drove oil prices higher. The index was driven higher by gains in consumer non-durables, with top performers including Hindustan (+2.9%), Cupid (+2.7%), Nestle (+2.8%), COLPAL (+2.9%), and Varun (+1.0%). Other notable gainers across sectors included Meesho (+1.7%), Himadri (+1.6%), Reliance (+2.1%), Afcons (+5.9%), and TCS (+1.2%). Meanwhile, investors will continue to monitor developments in the Middle East, movements in crude oil prices, foreign portfolio flows, and the rupee for further direction throughout the session."
-    },
-    {
-      "id": "mkt:019eafcd-6b5f-799a-b41b-bd6cad3736e2",
-      "time": "2026-06-10 12:32:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry said it shot down 326 Ukrainian drones overnight."
-    },
-    {
-      "id": "4927287",
-      "time": "2026-06-10 12:30:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市跌幅擴大】日經平均指數跌幅擴大，目前下跌2%，報64100.27點。韓國綜合股價指數(Kospi)跌幅擴大，最新報7660.74點，下跌5.4%。"
-    },
-    {
-      "id": "mkt:019eafcb-a38f-799a-b41b-b18ae8cc00ec",
-      "time": "2026-06-10 12:30:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 fell as much as 2.00% intraday."
     }
   ]
 }
