@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-18 00:16:51",
-  "count": 18408,
+  "updated": "2026-06-18 00:20:56",
+  "count": 18415,
   "items": [
+    {
+      "id": "mkt:019ed661-aec4-7dd8-b058-f73dd7185c09",
+      "time": "2026-06-18 00:19:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump: Iran's behavior has been very appropriate."
+    },
+    {
+      "id": "mkt:019ed661-6192-7dd8-b058-e95ffb96f00a",
+      "time": "2026-06-18 00:19:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he was very saddened by Lebanon."
+    },
+    {
+      "id": "4941472",
+      "time": "2026-06-18 00:19:16",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：我很同情黎巴嫩。"
+    },
+    {
+      "id": "mkt:019ed661-1fe8-7dd8-b058-e06f965b7008",
+      "time": "2026-06-18 00:19:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Israel could do better in dealing with Hezbollah."
+    },
+    {
+      "id": "mkt:019ed660-d283-7dd8-b058-ddab3f422cd8",
+      "time": "2026-06-18 00:18:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "President Trump said Iran has agreed not to produce or acquire nuclear weapons."
+    },
+    {
+      "id": "4941471",
+      "time": "2026-06-18 00:18:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：以色列在對待真主黨問題上可以做得更好。"
+    },
+    {
+      "id": "mkt:019ed660-b454-7dd8-b058-d21f0a44ae19",
+      "time": "2026-06-18 00:18:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump has sent a copy of a memorandum of understanding to Israel."
+    },
+    {
+      "id": "4941470",
+      "time": "2026-06-18 00:18:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：向以色列傳送了一份伊朗核協議副本。"
+    },
+    {
+      "id": "mkt:019ed660-46bc-7dd8-b058-c9a08ad32fa1",
+      "time": "2026-06-18 00:18:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said a deal with Iran will be signed tomorrow or the day after; it could be signed on Friday."
+    },
+    {
+      "id": "4941469",
+      "time": "2026-06-18 00:17:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗協議：該協議很快將簽署，或許是週五。"
+    },
     {
       "id": "mkt:019ed65d-e963-7dd8-b058-c1dc5d0bc07e",
       "time": "2026-06-18 00:15:39",
@@ -169232,34 +169330,6 @@
         "公司"
       ],
       "text": "烏干達國家廣播公司（UBC）稱，烏干達總統穆塞韋尼見證了烏干達航空與波音公司簽署10架新飛機的採購協議。"
-    },
-    {
-      "id": "4928789",
-      "time": "2026-06-11 00:20:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯政府獲授權，可不經過公開聽證調整債務及支出計劃。"
-    },
-    {
-      "id": "4928788",
-      "time": "2026-06-11 00:18:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：過去24小時內，以軍對黎巴嫩南部的提爾地區及其他區域的真主黨設施發動打擊，並擊斃多名武裝人員。 其中一次襲擊命中真主黨一處武器庫，打擊過後現場發生二次爆炸，證實該地點存有大量武器。"
-    },
-    {
-      "id": "mkt:019eb252-a7b4-7dd8-afa8-fc311426b659",
-      "time": "2026-06-11 00:17:01",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Israeli president: Lebanon must rid itself of HEZBOLLAH and Iranian influence】Israeli President Isaac Herzog said on the 10th he wants peace with Lebanon but that Beirut must remove HEZBOLLAH and Iranian influence. Speaking in a video after inspecting Israel’s northern border, he said HEZBOLLAH violated the Israel-Lebanon ceasefire and that Israel \"cannot accept attacks on its citizens, cross-border strikes or any terrorist attacks.\" He added that without clear arrangements guaranteeing Israel’s security, bilateral relations cannot improve."
     }
   ]
 }
