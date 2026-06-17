@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-17 23:59:58",
-  "count": 18407,
+  "updated": "2026-06-18 00:04:47",
+  "count": 18397,
   "items": [
+    {
+      "id": "mkt:019ed652-a87d-7dd8-b058-4225220dd287",
+      "time": "2026-06-18 00:03:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the past two days provided an opportunity to consult with allies on Iran."
+    },
+    {
+      "id": "4941454",
+      "time": "2026-06-18 00:03:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若未與伊朗達成協議，他會持續轟炸伊朗數週。"
+    },
+    {
+      "id": "mkt:019ed652-3455-7dd8-b058-3b7a4e26fd44",
+      "time": "2026-06-18 00:02:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump defended the Iran deal at the conclusion of the G7 summit."
+    },
+    {
+      "id": "mkt:019ed651-d558-7dd8-b058-30086a5f0ad6",
+      "time": "2026-06-18 00:02:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "HEZBOLLAH leader rejects U.S.-brokered no-fly zone agreement between Lebanon and Israel."
+    },
+    {
+      "id": "4941453",
+      "time": "2026-06-18 00:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申與伊朗的協議將令霍爾木茲海峽重新開放。"
+    },
+    {
+      "id": "mkt:019ed651-31c0-7dd8-b058-2a804bbd98f0",
+      "time": "2026-06-18 00:01:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump will pay fees to Invenergy to cancel an offshore wind lease agreement."
+    },
+    {
+      "id": "4941452",
+      "time": "2026-06-18 00:01:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯一季度GDP初值同比下降0.2%。"
+    },
+    {
+      "id": "4941451",
+      "time": "2026-06-18 00:01:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普將因“取消海上風電租賃協議”而向Ivenergy支付賠償金。"
+    },
+    {
+      "id": "4941450",
+      "time": "2026-06-18 00:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨領導人拒絕接受由美國斡旋的黎以之間達成的空中禁區協議。"
+    },
+    {
+      "id": "te:markets:559780",
+      "time": "2026-06-18 00:00:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips As Luxury Stocks Weigh — The CAC 40 edged down 0.2% to close at 8,431 on Wednesday as investors paused after recent gains tied to the US-Iran peace agreement. The deal is expected to be signed on Friday, paving the way for the reopening of the Strait of Hormuz and an end to hostilities. With the Federal Reserve widely expected to keep interest rates unchanged, investors are now focused on the central bank’s signals for the future path of monetary policy. Luxury stocks led losses, with LVMH down 1.8% and Hermès falling 1.3%. STMicroelectronics lost 0.8%, trimming earlier gains after announcing a $1.5 billion convertible bond sale. Financials moved higher as bond yields eased on lower energy-driven inflation concerns, with BNP Paribas up 1.2% and Crédit Agricole adding 1.6%. Industrial stocks also advanced, led by Schneider Electric, up 2.1%, and Airbus, which gained 0.9%."
+    },
+    {
+      "id": "mkt:019ed64f-ac7b-7dd8-b058-25e1514beed3",
+      "time": "2026-06-18 00:00:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said the strait will be fully opened soon."
+    },
+    {
+      "id": "4941449",
+      "time": "2026-06-17 23:59:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗協議是一項非常強有力的交易，海峽很快將全面開放。"
+    },
+    {
+      "id": "mkt:019ed64f-2c9b-7dd8-b058-1b63ccc2f8ca",
+      "time": "2026-06-17 23:59:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the Iran deal is a very strong deal."
+    },
+    {
+      "id": "4941448",
+      "time": "2026-06-17 23:59:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【法意西希四國主權債週三大致持穩】週三（6月17日）歐市尾盤，法國10年期國債收益率漲0.4個基點，報3.666%，日內整體持穩於3.665%附近，在一波瞬間衝高回落行情中、北京時間22:47達到3.686%。\n兩年期法債收益率漲1.8個基點，報2.749%，22:47曾達到2.761%；30年期法債收益率跌0.9個基點，報4.454%。\n義大利10年期國債收益率跌0.3個基點，報3.624%。\n西班牙10年期國債收益率跌0.3個基點，報3.344%。\n希臘10年期國債收益率跌0.4個基點，報3.587%。"
+    },
     {
       "id": "4941447",
       "time": "2026-06-17 23:59:07",
@@ -169046,228 +169176,6 @@
         "其他"
       ],
       "text": "【哥倫比亞調查與指控委員會成員否認暫停總統佩特羅職務】當地時間10日，哥倫比亞眾議員、調查與指控委員會成員亞歷杭德羅·奧坎波表示，該委員會並未作出暫停總統佩特羅職務的決定。奧坎波說：“我希望向公眾說明，目前並沒有針對總統佩特羅作出任何決定。一些媒體所稱‘調查與指控委員會已暫停佩特羅總統職務’的說法並不屬實。”（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb246-fe5a-7dd8-afa8-b5d7f4528bf2",
-      "time": "2026-06-11 00:04:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Trump said the U.S. has seized 22 Iranian vessels."
-    },
-    {
-      "id": "te:markets:558133",
-      "time": "2026-06-11 00:04:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls on Middle East Tensions Escalation — The CAC 40 fell 0.5% to close at 8,162 on Wednesday, weighed down by escalating tensions in the Middle East. Iran launched attacks against several Gulf nations after US retaliatory strikes following the downing of an American helicopter. Oil prices rose, renewing inflation fears and pushing bond yields higher. Financials traded mixed, with BNP Paribas down 1.5% and Societe Generale losing 2.3%, while AXA gained 0.9%. Luxury shares weighed on the index, with LVMH falling 0.9% and Hermes shedding 2.8%. Safran lost 1.4%. STMicroelectronics erased earlier gains despite a Bank of America upgrade to \"buy\", as enthusiasm around AI faded. Sanofi fell 1.3% after halting a late-stage trial for an experimental autoimmune treatment. Investors also awaited Thursday's ECB meeting, with markets expecting a rate hike."
-    },
-    {
-      "id": "4928777",
-      "time": "2026-06-11 00:03:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：前幾天晚上擊沉了22艘伊朗船隻。"
-    },
-    {
-      "id": "4928776",
-      "time": "2026-06-11 00:03:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普被問及通脹資料時說：資料很好。"
-    },
-    {
-      "id": "mkt:019eb246-37e5-7dd8-afa8-ae6ead449f1b",
-      "time": "2026-06-11 00:03:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said on World Cup and visa issues the U.S. is working to ensure appropriate individuals can enter the country."
-    },
-    {
-      "id": "4928775",
-      "time": "2026-06-11 00:03:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及世界盃簽證：我們正全力推進，確保符合資格的人員入境。"
-    },
-    {
-      "id": "te:markets:558132",
-      "time": "2026-06-11 00:03:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "UK Stocks Outperform — London’s FTSE 100 reversed early losses to close around 0.3% higher at 10,255 on Wednesday, recovering from the previous session’s decline and outperforming major European peers. The main support came from Tritax Big Box REIT, which jumped 4.9% after confirming it had secured a successful appeal for its £360m Heathrow data centre project, boosting sentiment across property-linked stocks. Broader gains were supported by Entain, insurer Admiral Group and grocer Tesco. Among heavyweights, Shell and BP provided key uplift, alongside defensives British American Tobacco, Unilever, GSK and Compass Group, all rising between 1%-2%. On the downside, miners such as Endeavour Mining (-4.1%), Fresnillo (-1.7%) and Glencore (-0.9%) weakened. UK lenders faced pressure too, with HSBC down 1.3% and Standard Chartered falling 1.1%, following a JP Morgan note on the impact of new Chinese regulations."
-    },
-    {
-      "id": "4928774",
-      "time": "2026-06-11 00:03:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：正在密切關注世界盃簽證事宜。"
-    },
-    {
-      "id": "te:markets:558131",
-      "time": "2026-06-11 00:02:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Cheese Hits 12-week Low — Cheese decreased to 1.60 USD/Lbs, the lowest since March 2026. Over the past 4 weeks, Cheese lost 4.19%, and in the last 12 months, it decreased 17.24%."
-    },
-    {
-      "id": "4928773",
-      "time": "2026-06-11 00:02:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談國家情報總監提名：我們正在對五名候選人進行面試。"
-    },
-    {
-      "id": "te:economy:558130",
-      "time": "2026-06-11 00:02:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kosovo",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Kosovo Inflation Eases in May — Kosovo’s inflation rate declined to 6.8% year-over-year in May 2026, down from a three-year high of 7.5% in April, as price growth slowed for transport (14.1% vs. 16.1%), housing and utilities (13.2% vs. 15.2%), and food and non-alcoholic beverages (5.1% vs. 5.6%). Month-over-month, consumer prices fell 0.4% in May, following a 1.1% increase in April."
-    },
-    {
-      "id": "4928772",
-      "time": "2026-06-11 00:01:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：很高興簽署《美國安全法案》，確保國土安全部在我的任期結束前獲得足額、持續的資金支援。"
-    },
-    {
-      "id": "4928771",
-      "time": "2026-06-11 00:01:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申房利美和房地美的估值可能達到1萬億美元。"
-    },
-    {
-      "id": "4928770",
-      "time": "2026-06-11 00:01:03",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯統計局：5月俄羅斯消費者物價指數（CPI）同比上漲5.31%，路透調查預期為同比上漲5.4%。"
-    },
-    {
-      "id": "mkt:019eb244-0612-7dd8-afa8-a21f9a22ec0a",
-      "time": "2026-06-11 00:01:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump reiterated that Fannie Mae and Freddie Mac could be worth $1 trillion."
-    },
-    {
-      "id": "4928769",
-      "time": "2026-06-11 00:00:59",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯統計局：5月俄羅斯消費者物價指數（CPI）環比上漲0.17%，路透調查預期為環比上漲0.2%。"
-    },
-    {
-      "id": "mkt:019eb243-e3de-7dd8-afa8-9c0932558249",
-      "time": "2026-06-11 00:00:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil's finance minister says inflation is under control."
-    },
-    {
-      "id": "4928768",
-      "time": "2026-06-11 00:00:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普發表講話後，房利美股價漲1.3%。"
-    },
-    {
-      "id": "4928767",
-      "time": "2026-06-11 00:00:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申，普爾特只是臨時情報總監。"
-    },
-    {
-      "id": "mkt:019eb243-8876-7dd8-afa8-97064b38a6bd",
-      "time": "2026-06-11 00:00:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the White House is interviewing five candidates for the Director of National Intelligence nomination."
-    },
-    {
-      "id": "4928766",
-      "time": "2026-06-11 00:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江門中微子實驗首個物理成果在《自然》發表】6月10日，江門中微子實驗（JUNO）首個物理成果“精確測定中微子的兩個振盪引數”以封面文章形式在國際學術期刊《自然》發表。透過對2025年8月26日至11月2日共59天有效資料的分析，科研團隊完成兩項關鍵振盪引數的高精度測量，相較於過去數十年多項實驗的綜合結果，精度提高了1.6倍。"
-    },
-    {
-      "id": "mkt:019eb243-63c1-7dd8-afa8-881660af9d0e",
-      "time": "2026-06-11 00:00:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said he has the authority to sell Fannie Mae and Freddie Mac."
-    },
-    {
-      "id": "4928765",
-      "time": "2026-06-11 00:00:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯聯邦統計局：截至6月8日當週，俄羅斯周度消費者通脹率為0.20%，前一週為0.15%。"
-    },
-    {
-      "id": "mkt:019eb243-1a35-7dd8-afa8-802bee3ab9e7",
-      "time": "2026-06-11 00:00:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump praised FHFA Director Pulte's performance overseeing Fannie Mae and Freddie Mac."
     }
   ]
 }
