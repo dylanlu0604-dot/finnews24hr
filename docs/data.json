@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-17 12:42:15",
-  "count": 18342,
+  "updated": "2026-06-17 12:46:18",
+  "count": 18336,
   "items": [
+    {
+      "id": "te:markets:559573",
+      "time": "2026-06-17 12:45:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Halts Gains — The South Korean won weakened to around 1,515 per dollar, ending its recent advance, as demand for the greenback firmed amid cautious positioning ahead of the Federal Reserve’s policy decision. Market participants focused on potential signals from the FOMC under Fed Chair Kevin Warsh regarding the future policy path, with uncertainty over the outlook keeping FX markets defensive. Broader risk-off sentiment, driven by weakness in global technology stocks and declines in US AI-related shares, supported safe-haven flows into the dollar and weighed on Asian currencies. The won also came under pressure from ongoing portfolio rebalancing flows and softer regional risk appetite. Meanwhile, expectations that the Bank of Korea will maintain a relatively tight policy stance helped limit the pace of losses. Authorities’ continued monitoring of foreign exchange volatility also provided some support, preventing sharper depreciation."
+    },
+    {
+      "id": "mkt:019ed3e5-83f4-7dd8-b042-133268f46a89",
+      "time": "2026-06-17 12:44:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Qatar reroutes LNG carriers to Middle East as Strait of Hormuz poised to reopen】Following a US-Iran deal that has the Strait of Hormuz poised to reopen, Qatar has begun repositioning LNG carriers to the Middle East to prepare for higher exports. Vessel-tracking shows at least four Qatar-owned empty LNG carriers that were idle or diverted are now turning back toward the region, with Ras Laffan listed as their next port; a Qatar-chartered ship is also en route. Separately, four Qatar-linked tankers are anchored in the Gulf of Oman and may attempt transit through Hormuz into the Persian Gulf. Qatar has not sent empty ships into the Gulf since the February outbreak of war. The moves account for only a small portion of Qatar’s roughly 70-vessel fleet but signal readiness to lift shipments if the strait reopens."
+    },
+    {
+      "id": "mkt:019ed3e5-7dfc-7dd8-b042-0d73f011a05c",
+      "time": "2026-06-17 12:44:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israeli drones strike southern Lebanese towns again】Multiple Middle East outlets reported Israeli drone strikes on Ansariyeh and operations in the Nabatieh area of southern Lebanon. Iran earlier warned that if Israel does not halt actions in southern Lebanon, it should prepare for a severe response from Iran’s powerful armed forces."
+    },
+    {
+      "id": "mkt:019ed3e4-5231-7dd8-b042-06bf0ce7d3b3",
+      "time": "2026-06-17 12:43:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he won many important elections last night."
+    },
+    {
+      "id": "4939969",
+      "time": "2026-06-17 12:42:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球主動ETF加速擴容 資產規模達2.33萬億美元】據ETFGI資料顯示，截至2026年4月底，全球主動管理ETF資產規模已達到2.33萬億美元，創下歷史新高，2026年以來淨流入達3116.6億美元，同樣重新整理同期最高紀錄。"
+    },
     {
       "id": "te:markets:559569",
       "time": "2026-06-17 12:41:21",
@@ -168645,99 +168699,6 @@
         "公司"
       ],
       "text": "【火山方舟版權商業化平臺上線，周星馳經典影視IP入駐】6月10日，火山方舟版權商業化平臺正式上線。同期，火山引擎與周星馳旗下比高集團達成版權合作，周星馳經典影視IP首批入駐平臺。透過與周星馳旗下比高集團合作，火山引擎已正式獲得《喜劇之王》《食神》《長江七號》三部影片在AI影片創作場景下的版權使用許可權，並依託Seedance 2.0技術能力，打造出影片經典橋段AI創作模板。"
-    },
-    {
-      "id": "mkt:019eafd9-7dab-799a-b41c-23cff096aa14",
-      "time": "2026-06-10 12:45:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Thai business group said government stimulus measures will boost Thailand's economy."
-    },
-    {
-      "id": "4927303",
-      "time": "2026-06-10 12:44:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本《讀賣新聞》報道，三菱重工將在2030財年末前，將燃氣輪機產能在2024財年水平基礎上翻番，以滿足資料中心需求。"
-    },
-    {
-      "id": "4927302",
-      "time": "2026-06-10 12:43:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【茅臺股東大會報到酒店多房型售罄，僅剩4999元房間可定】貴州茅臺2025年度股東會定於明日召開，會址選定茅臺會議中心大禮堂。據悉，股東們將於今日下午2點至8點，在茅臺國際大酒店大堂簽到處進行報到，並領取證件、餐券及會議相關資料。查詢發現，目前茅臺大酒店共8個房型，7個已被訂滿，僅剩“豪華別墅”一個房型可定，單晚價格為4999元。（酒業內參）"
-    },
-    {
-      "id": "mkt:019eafd7-c0b3-799a-b41c-1da14170fd50",
-      "time": "2026-06-10 12:43:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pop Mart: non‑Labubu products accounted for about 50% of US revenue last year】Pop Mart International Group COO said non‑Labubu products made roughly 50% of US revenue last year and represent the majority of sales in Japan, South Korea and Southeast Asia. While Labubu’s viral hit last year drew market attention, other IPs also recorded strong growth; the Twinkle Twinkle series is among Asia’s fastest‑growing IPs. The company expects overseas headcount to rise from about 20–30% today to roughly 50% within several years. Pop Mart operates ~80 US stores and plans to exceed 100 this year, with flagship openings in Times Square and Fifth Avenue scheduled for Q4. The company is working with Sony on a Labubu film, targeting the earliest release in summer 2028."
-    },
-    {
-      "id": "mkt:019eafd7-a04c-799a-b41c-16363f71ef97",
-      "time": "2026-06-10 12:43:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thai business group raises 2026 inf forecast to 2.5-3.0% from 2.0-3.0%."
-    },
-    {
-      "id": "mkt:019eafd7-7727-799a-b41c-0be64de64b2b",
-      "time": "2026-06-10 12:43:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thai business group says Thailand's exports are forecast to rise 8-10% in 2026, versus a prior forecast of a 0.5-1.5% decline."
-    },
-    {
-      "id": "4927301",
-      "time": "2026-06-10 12:42:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國商會預計，2026年泰國出口將增長8%至10%（此前預期為下降0.5%至1.5%）。"
-    },
-    {
-      "id": "mkt:019eafd7-1773-799a-b41c-049e1ac0a073",
-      "time": "2026-06-10 12:42:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "SK Hynix shares plunged 9%."
-    },
-    {
-      "id": "4927300",
-      "time": "2026-06-10 12:42:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國商會預測2026年泰國國內生產總值增速為1.6%至2.0%，此前預測為1.2%至1.6%。"
-    },
-    {
-      "id": "4927299",
-      "time": "2026-06-10 12:42:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗警告海灣國家不要允許領土供人發動攻擊】根據一份宣告，伊朗外交部“提醒該地區所有國家，特別是波斯灣南岸國家，它們有法律和道德責任阻止美國或以色列利用其領土對伊朗發動攻擊”。 伊朗“將毫不猶豫地行使其固有的自衛權，包括打擊襲擊源頭，以及用於策劃、執行和支援侵略行動的基地和後勤設施”。宣告稱伊朗沉重打擊了該地區發動這些侵略行為的源頭，即美國基地和資產。"
-    },
-    {
-      "id": "mkt:019eafd6-d458-799a-b41b-f8d12239cc73",
-      "time": "2026-06-10 12:42:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "A Thai business group expects Thailand's 2026 GDP growth at 1.6–2.0%, up from its prior forecast of 1.2–1.6%."
     }
   ]
 }
