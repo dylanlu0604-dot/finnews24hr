@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-17 21:42:38",
-  "count": 18478,
+  "updated": "2026-06-17 21:46:50",
+  "count": 18470,
   "items": [
+    {
+      "id": "4941218",
+      "time": "2026-06-17 21:45:47",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗上調多隻半導體裝置股目標價後，美國半導體裝置製造商股價大漲。應用材料上漲9%，泛林集團上漲6.8%，科磊上漲5.2%。"
+    },
+    {
+      "id": "mkt:019ed5d4-653a-7dd8-b052-c519289cab7f",
+      "time": "2026-06-17 21:45:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Strategist: Fed least wants 10-year Treasury yield to spike】LPL Financial chief equity strategist Jeff Buchbinder said investors are watching the Fed’s new chair’s first press conference for signals on inflation, unemployment and the economic outlook. The 10-year US Treasury yield is trading around 4.43%. Buchbinder said the Fed least wants to see a sharp rise in the 10-year yield; keeping it below 4.5% is critical, particularly with oil prices already down. He said investors should not expect the Fed to act quickly."
+    },
+    {
+      "id": "4941217",
+      "time": "2026-06-17 21:44:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海等八地電商協會發布“618”倡議：杜絕“先漲後降”“明降暗升”等套路】臨近“618”電商大促，北京、上海、安徽、浙江杭州、江蘇、廣東、山東及四川等8地的電子商務相關協會已經發布倡議書。倡議書裡都要求商家在大促期間誠信促銷、合規經營。（澎湃）"
+    },
+    {
+      "id": "te:markets:559746",
+      "time": "2026-06-17 21:43:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Comcast Stock Price Hits 14-1/2-year Low — Comcast shares decreased to 23.12 USD, the lowest since December 2011. Over the past 4 weeks, Comcast lost 6.82%, and in the last 12 months, it decreased 32.73%."
+    },
+    {
+      "id": "4941216",
+      "time": "2026-06-17 21:43:23",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利：如果霍爾木茲海峽重新開放，歐洲銀行股料將反彈】摩根士丹利分析師在一份報告中寫道，如果霍爾木茲海峽重新開放，到今年年底，歐洲銀行的股市估值應會升至其盈利的11至12倍。貸款規模的增長將快於目前的預期，同時銀行手續費的增速也快於摩根士丹利分析師的預測。摩根士丹利的分析師表示，歐洲銀行創造的利潤與金融危機前的水平相當，儘管估值尚未跟上。摩根士丹利的分析師指出，投資者青睞增長，因此風險追逐型的市場反彈將給德意志銀行和法國興業銀行等投資銀行帶來最大回報。他們表示，雖然AI可能會加劇銀行業之間的存款競爭，但該技術更廣泛的促增長效益將大於任何利潤率壓縮的影響。一項歐洲銀行指標上漲1.4%。"
+    },
+    {
+      "id": "4941215",
+      "time": "2026-06-17 21:42:39",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根士丹利高浩灃：中國市場“應流入”的資金遠未到位】在2026陸家嘴論壇上，摩根士丹利亞洲執行長兼股票部全球聯席主管高浩灃（Gokul Laroia）表示，受人工智慧等驅動，全球投資者對中國市場的興趣持續升溫，而當前已流入的資本規模，相較於“應該流入、也實際需要流入”的體量，仍只是很小一部分。"
+    },
+    {
+      "id": "4941214",
+      "time": "2026-06-17 21:42:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "SHARONAI股價飆升21%；宣佈超額認購的16億美元戰略融資，以加速在澳大利亞及亞太地區擴充套件人工智慧工廠。"
+    },
     {
       "id": "mkt:019ed5d0-7d4d-7dd8-b052-bf2976046198",
       "time": "2026-06-17 21:41:10",
@@ -169813,140 +169887,6 @@
         "國際"
       ],
       "text": "加拿大央行行長麥克勒姆：經濟正在經歷結構性變革的階段。經濟活動疲軟，不確定性異常高，風險可能發生變化；貨幣政策可能需要靈活應對。委員會將繼續關注中東戰爭對短期整體通脹的影響。官員們同意審慎看待伊朗戰爭對CPI的短期影響。委員會不會讓高能源價格成為持續性通脹。"
-    },
-    {
-      "id": "em:qqyh_jndyh:202606103766995041",
-      "time": "2026-06-10 21:46:46",
-      "tags": [
-        "央行",
-        "加拿大央行"
-      ],
-      "text": "加拿大央行重申，如果美國增加新的貿易限制，可能需要降息。"
-    },
-    {
-      "id": "4928524",
-      "time": "2026-06-10 21:45:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "據哥倫比亞媒體10日報道，哥倫比亞眾議院的調查與指控委員會當天釋出宣告宣佈，暫停總統佩特羅的職務直至6月21日。（新華社）"
-    },
-    {
-      "id": "em:qqyh_jndyh:202606103766993268",
-      "time": "2026-06-10 21:45:27",
-      "tags": [
-        "央行",
-        "加拿大央行"
-      ],
-      "text": "加拿大央行維持基準隔夜利率在2.25%不變。"
-    },
-    {
-      "id": "4928523",
-      "time": "2026-06-10 21:45:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行維持基準隔夜利率在2.25%。"
-    },
-    {
-      "id": "mkt:019eb1c7-9a68-7dd8-afa2-df6c77e6d6af",
-      "time": "2026-06-10 21:45:08",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【BOC holds policy rate at 2.25% as expected】BOC left its policy rate unchanged at 2.25% for a fifth consecutive meeting, in line with market expectations."
-    },
-    {
-      "id": "mkt:019eb1c7-7a14-7dd8-afa2-d2673cb0b4e7",
-      "time": "2026-06-10 21:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Bank of Canada Interest Rate Decision (Jun.10) | actual 2.25% | consensus 2.25% | previous 2.25%"
-    },
-    {
-      "id": "4928522",
-      "time": "2026-06-10 21:44:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中創新航簽約日本220MWh儲能專案】據中創新航訊息，近日，中創新航與日本GRF株式會社正式簽署220MWh儲能系統採購協議，雙方強強聯合，深耕日本高階儲能市場，拓展全球綠電儲能版圖。"
-    },
-    {
-      "id": "4928521",
-      "time": "2026-06-10 21:44:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，海天網路漲47.77%，億航漲9.58%，億咖通科技漲7.66%，再鼎醫藥漲6.19%，360數科漲5.14%。"
-    },
-    {
-      "id": "4928520",
-      "time": "2026-06-10 21:44:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲股市抹去跌幅，斯托克歐洲600指數上漲0.2%。"
-    },
-    {
-      "id": "4928519",
-      "time": "2026-06-10 21:44:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "SALLIE MAE 的降幅擴大至 6.5%，此前管理層在會議上發表了講話。"
-    },
-    {
-      "id": "4928518",
-      "time": "2026-06-10 21:43:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄國家杜馬譴責美國對古巴實施侵略性政策】俄羅斯國家杜馬（議會下院）10日發表宣告譴責說，圍繞古巴的緊張局勢急劇升級，這源於美國對古巴施加“前所未有、毫無道理、不符合國際法準則”的壓力。據俄新社報道，俄國家杜馬10日在全體會議上透過一份致聯合國、國際議會組織和世界各國議會的宣告，旨在批評美國對古巴實施的日益加劇的侵略性政策。宣告說，美國當下對古巴實施的經濟、金融封鎖和能源禁運是對主權國家內政的公然干涉，嚴重違背《聯合國憲章》原則。美方妄圖透過經濟、軍事訛詐逼迫古巴領導層作出無理讓步，伺機推動古巴政權更迭，最終實現對古巴的全面掌控。宣告說，俄方要求立即停止對古巴的所有政治與經濟施壓，終止美國借訛詐、威脅開展政治交易的新殖民主義行徑。宣告呼籲各方譴責美方相關做法，敦促美方立即解除對古巴的貿易、經濟、金融及能源封鎖。（新華社）"
-    },
-    {
-      "id": "te:markets:558087",
-      "time": "2026-06-10 21:43:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Holds Near Two-Month Low — The Brazilian real traded near 5.19 per USD in June, remaining close to its weakest level in two months as broad dollar strength prevailed amid heightened tensions in the Middle East. Concerns intensified after a US helicopter was shot down near the Strait of Hormuz, prompting retaliatory US strikes and boosting demand for safe-haven assets. Meanwhile, elevated US inflation and a tight labor market reinforced expectations of a hawkish Federal Reserve. In Brazil, investors also monitored a poll showing President Lula widening his lead over Senator Flávio Bolsonaro. Economic data remained resilient, with GDP expanding 1.1% in the first quarter, above expectations, while annual inflation accelerated to 4.39% in April. Market pricing now suggests a pause in the central bank's easing cycle at next week's meeting, with investors increasingly betting that the next move in interest rates will be upward."
-    },
-    {
-      "id": "4928517",
-      "time": "2026-06-10 21:43:43",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "市場訊息：美國商品期貨交易委員會（CFTC）擬出臺預測市場規則，打擊戰爭賭局。"
-    },
-    {
-      "id": "4928516",
-      "time": "2026-06-10 21:43:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內轉漲，此前一度跌超3%。"
-    },
-    {
-      "id": "4928515",
-      "time": "2026-06-10 21:43:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“磁吸”效應顯著 香港登頂全球最大財富管理中心】波士頓諮詢公司近期釋出的報告顯示，香港已超越瑞士，成為全球最大跨境財富管理中心，比此前的市場預計提前兩年左右。金融業界人士認為，排名的變化體現了全球財富格局的重組，而香港正處於這一轉變的中心，能憑藉其獨特優勢保持對跨境財富的“磁吸”效應。（新華社）"
     }
   ]
 }
