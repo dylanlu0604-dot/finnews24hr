@@ -1,7 +1,147 @@
 {
-  "updated": "2026-06-18 00:29:06",
-  "count": 18444,
+  "updated": "2026-06-18 00:33:08",
+  "count": 18458,
   "items": [
+    {
+      "id": "mkt:019ed66d-21d0-7dd8-b059-b87df29866fb",
+      "time": "2026-06-18 00:32:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Lebanon has been treated worse than any other country."
+    },
+    {
+      "id": "4941495",
+      "time": "2026-06-18 00:32:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沙烏地阿拉伯若在各項協議上發揮領導作用，將對自身有利。"
+    },
+    {
+      "id": "mkt:019ed66c-c94c-7dd8-b059-b02898c2dca4",
+      "time": "2026-06-18 00:31:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Saudi Arabia would benefit if it took a leading role in the agreement."
+    },
+    {
+      "id": "4941494",
+      "time": "2026-06-18 00:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：黎巴嫩總統將在未來一兩週內訪問美國。 黎巴嫩遭受的不公待遇遠超其他任何一方，希望擴大《亞伯拉罕協議》的覆蓋範圍。"
+    },
+    {
+      "id": "mkt:019ed66b-fa7a-7dd8-b059-a88a2807f468",
+      "time": "2026-06-18 00:31:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the Lebanese president will visit the United States within the next one to two weeks."
+    },
+    {
+      "id": "mkt:019ed66b-a292-7dd8-b059-a33818f2e246",
+      "time": "2026-06-18 00:30:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said the agreement will end Iran's aggression and bring peace to Lebanon."
+    },
+    {
+      "id": "4941493",
+      "time": "2026-06-18 00:30:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：黎巴嫩和平只是拼圖中的一小部分。需要在黎巴嫩和平問題上多做一些工作。"
+    },
+    {
+      "id": "mkt:019ed66b-25ff-7dd8-b059-99ce1f46261c",
+      "time": "2026-06-18 00:30:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said more needs to be done on the Lebanon peace issue."
+    },
+    {
+      "id": "mkt:019ed66b-1258-7dd8-b059-967dd4c1008b",
+      "time": "2026-06-18 00:30:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump: Lebanon peace is only a small piece of the puzzle."
+    },
+    {
+      "id": "mkt:019ed66b-0003-7dd8-b059-8e5ee6ec6088",
+      "time": "2026-06-18 00:29:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says the US must work to address the Lebanon issue."
+    },
+    {
+      "id": "4941492",
+      "time": "2026-06-18 00:29:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：黎巴嫩問題需要加以解決。"
+    },
+    {
+      "id": "mkt:019ed66a-b067-7dd8-b059-87734236b9e4",
+      "time": "2026-06-18 00:29:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he will seek to disarm Hamas."
+    },
+    {
+      "id": "mkt:019ed66a-9763-7dd8-b059-7d9bf0d60fb6",
+      "time": "2026-06-18 00:29:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he hopes the peace agreement will mark the start of broader peace in the Middle East."
+    },
+    {
+      "id": "4941491",
+      "time": "2026-06-18 00:29:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望這份和平協議能成為中東大範圍和平的開端。"
+    },
+    {
+      "id": "4941490",
+      "time": "2026-06-18 00:29:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：試圖解除哈馬斯的武裝。"
+    },
+    {
+      "id": "mkt:019ed66a-0009-7dd8-b059-7120d8b87866",
+      "time": "2026-06-18 00:28:51",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said he is ordering additional F-22 fighters."
+    },
     {
       "id": "mkt:019ed669-b28d-7dd8-b059-6e103d7f2ff6",
       "time": "2026-06-18 00:28:31",
@@ -169567,30 +169707,6 @@
         "國際"
       ],
       "text": "【特朗普稱將與人工智慧公司高管討論回饋公眾】美國總統特朗普在白宮向記者表示，他在與人工智慧企業高管討論“向公眾回饋一些東西”。特朗普稱，他將“很快”與12至15位AI領域主要高管會面。"
-    },
-    {
-      "id": "te:economy:558141",
-      "time": "2026-06-11 00:32:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Russia Inflation Rate at Near 3-Year Low — Russia's headline annual inflation rate fell for the second month to 5.3% in May 2026, down from 5.6% in April and below market estimates of 5.4%. This was the lowest reading since August 2023, but it remains well above the CBR’s target of 4%. Food price growth slowed to 2.9%, compared to 4% in April, as fruit and vegetable prices continued to decline (-10.4% vs -6.6%). Meanwhile, prices advanced faster for services (10.1% vs 9.9%) and non-food products (4.2% vs 3.9%). The core rate edged down to 4.9% in May from 5% in the previous month. On a monthly basis, the CPI rose by 0.2%, after a 0.1% increase in the prior month, in line with forecasts."
-    },
-    {
-      "id": "mkt:019eb25e-66cd-7dd8-afa9-0f49dec3c238",
-      "time": "2026-06-11 00:29:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "ASML.O",
-        "Impact bullish"
-      ],
-      "text": "【ASML to cut fewer jobs than planned after union talks】ASML (ASML.O) said after negotiations with Dutch unions it will cut fewer jobs than previously planned and that dismissals will not take effect until after May 1 next year. A union spokesperson said employees will be notified next month after consultation with the works council; affected staff have until May 2027 to secure new roles and may receive up to €400,000 in compensation. ASML said the final headcount will be set once the process is complete and the company aims to reduce the overall scale of the cuts; in January it had announced plans to cut about 1,700 roles, roughly 4% of its workforce."
     }
   ]
 }
