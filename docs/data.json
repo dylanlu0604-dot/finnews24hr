@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-18 02:15:09",
-  "count": 18571,
+  "updated": "2026-06-18 02:19:09",
+  "count": 18572,
   "items": [
+    {
+      "id": "mkt:019ed6ce-7239-7dd8-b05e-6233931c8199",
+      "time": "2026-06-18 02:18:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Michelle, head of global fixed income at JP Morgan, said the Federal Reserve has told us we have not yet reached the neutral rate."
+    },
+    {
+      "id": "mkt:019ed6cd-ec58-7dd8-b05e-5eef8eed5cc9",
+      "time": "2026-06-18 02:17:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Prime Minister Magyar said Hungary will remove its fuel price cap."
+    },
+    {
+      "id": "4941637",
+      "time": "2026-06-18 02:17:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍及猶太定居者在約旦河西岸襲擊巴居民】當地時間17日，約旦河西岸多地當天發生以色列軍隊拆除房屋、推平土地以及猶太定居者襲擊巴勒斯坦居民事件，造成大量農業設施和建築受損，多名巴勒斯坦居民受到嚴重影響。（央視）"
+    },
+    {
+      "id": "mkt:019ed6cd-1947-7dd8-b05e-53222d2d0917",
+      "time": "2026-06-18 02:17:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dot-plot read: One Fed participant backs three hikes in 2026】Fed dot plot for 2026: 1 participant expects three hikes (March: 0), 5 expect two hikes (March: 0), 3 expect one hike (March: 0), 8 expect rates unchanged (March: 7), 1 expects one cut (March: 7), 0 expect two cuts (March: 2), 0 expect three cuts (March: 2), 0 expect four cuts (March: 1). Overall, supporters of 2026 rate increases rose to 9 participants — including one who favors an aggressive 75bp tightening — while supporters of cuts fell to 1."
+    },
+    {
+      "id": "mkt:019ed6cc-1791-7dd8-b05e-4ff491933cbc",
+      "time": "2026-06-18 02:15:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Treasury yields rose after Fed officials signaled the next move could be a rate hike. The 10-year Treasury yield traded at 4.465%; the 2-year, which is more sensitive to short-term rate expectations, traded at 4.138%."
+    },
+    {
+      "id": "te:markets:559798",
+      "time": "2026-06-18 02:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Drops by 2.46% — Top commodity losers are Natural gas (-2.46%), Methanol (-1.81%) and Natural Gas EU (-0.55%). Gains are led by Crude Oil WTI (0.67%), Gasoline (0.59%) and Brent Crude Oil (0.51%)."
+    },
     {
       "id": "te:markets:559797",
       "time": "2026-06-18 02:14:07",
@@ -170866,52 +170937,6 @@
         "其他"
       ],
       "text": "小米MiMo：MiMo Code V0.1現已正式釋出並開源，內建MiMo V2.5多模態模型，限時免費開放使用，具備100萬Token上下文視窗。"
-    },
-    {
-      "id": "4928881",
-      "time": "2026-06-11 02:18:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西聖保羅州一小型飛機墜毀致兩死一傷】巴西聖保羅州內陸城市馬裡利亞10日發生一起小型飛機墜毀事故，造成兩人死亡、一人受傷。 據當地政府部門和機場運營方釋出的訊息，失事飛機為一架私人飛機。當天11時左右從該市機場起飛後不久墜毀，墜落地點位於機場附近區域。事故原因正在調查中。 巴西消防部門說，機上載有三人，其中兩人當場死亡，另一人獲救後被送醫治療。 巴西國家民航局稱，據巴西航空器登記系統記錄，該飛機適航狀態正常。"
-    },
-    {
-      "id": "mkt:019eb2c1-e4ce-7dd8-afaa-6321dec495c3",
-      "time": "2026-06-11 02:18:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi"
-      ],
-      "text": "Xiaomi MiMo announced MiMo Code V0.1 is officially released and open-sourced. It integrates the MiMo V2.5 multimodal model, is available free for a limited time and supports a 1,000,000-token context window."
-    },
-    {
-      "id": "4928880",
-      "time": "2026-06-11 02:18:08",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "Anthropic：只有當美國國會出臺至少與科羅拉多州先進人工智慧框架監管力度相當的聯邦法律時，才應優先於州級法律適用。"
-    },
-    {
-      "id": "4928879",
-      "time": "2026-06-11 02:17:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：新型高階AI監管框架提議按企業全球年度營收設定民事處罰標準，屢犯者處罰力度逐級加重。"
-    },
-    {
-      "id": "te:markets:558143",
-      "time": "2026-06-11 02:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Gains by 4.19% — Top commodity gainers are Natural Gas UK (4.19%), Natural Gas EU (3.76%), Gasoline (3.20%), Crude Oil WTI (2.69%) and Brent Crude Oil (2.36%)."
     }
   ]
 }
