@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-17 11:36:18",
-  "count": 18322,
+  "updated": "2026-06-17 11:40:19",
+  "count": 18316,
   "items": [
+    {
+      "id": "4939885",
+      "time": "2026-06-17 11:39:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "丸紅：構建以北美為核心的天然氣價值鏈是本公司核心戰略之一。"
+    },
+    {
+      "id": "4939884",
+      "time": "2026-06-17 11:38:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍印太司令部複用原名太平洋司令部】美國國防部16日宣佈，美軍印太司令部將正式恢復其原名，即美軍太平洋司令部。美國國防部在一份宣告中稱，該司令部的所謂責任區域保持不變，即從美國西海岸沿岸海域延伸至印度西部邊界。美軍太平洋司令部1947年1月1日設立，以美軍太平洋司令部的名義運作長達70餘年，2018年更名為美軍印太司令部。（新華社）"
+    },
+    {
+      "id": "4939883",
+      "time": "2026-06-17 11:38:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯：由於烏克蘭無人機活動，已對莫斯科兩座機場實施限制。"
+    },
+    {
+      "id": "4939882",
+      "time": "2026-06-17 11:38:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中油工程等在成都成立科技公司】天眼查App顯示，近日，成都崑崙新能科技有限公司成立，法定代表人為杜通林，註冊資本4500萬人民幣，經營範圍包括石油天然氣技術服務、工程技術服務、新興能源技術研發等。股東資訊顯示，該公司由崑崙北工（北京）綠色創業投資基金（有限合夥）、中油工程（600339）旗下中國石油工程建設有限公司共同持股。"
+    },
+    {
+      "id": "4939881",
+      "time": "2026-06-17 11:37:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東釋出山洪災害風險預警】廣東省水利廳6月17日9時釋出山洪災害風險預警：根據氣象降雨預報分析，預計未來24小時，茂名高州市、化州市、信宜市，陽江陽東區，湛江廉江市，局地發生山洪災害可能性大（橙色預警）。肇慶高要區、懷集縣，惠州博羅縣、龍門縣，雲浮云城區、雲安區、新興縣、羅定市，汕尾陸豐市，江門台山市、開平市、鶴山市、恩平市，廣州增城區，湛江遂溪縣，清遠佛岡縣、連山壯族瑤族自治縣，茂名電白區，陽江陽春市，佛山高明區，局地發生山洪災害可能性較大（黃色預警）。其他地區也可能因局地短歷時強降水引發山洪災害。請各地密切關注天氣預報及雨水情變化，結合實際加強研判，做好實時監測、防汛預警和轉移避險等防範工作。請相關地區公眾留意預報預警資訊，增強災害防範避險意識，儘量避免前往山丘區溝溪、河灘地等低窪區域，確保自身生命財產安全。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ed3a7-f771-7dd8-b040-8cf2cffb0769",
+      "time": "2026-06-17 11:37:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SAFE head Zhu Hexin says near-term package to overhaul cross-border FDI, ease ODI and foreign-debt FX rules】At the opening of the 2026 Lujiazui Forum, Zhu Hexin, vice governor of the People’s Bank of China and head of the State Administration of Foreign Exchange (SAFE), said authorities will shortly roll out a package of incremental measures: comprehensively reform cross-border FDI policy; further simplify FX procedures for outbound direct investment (ODI) and external debt; optimize rules for foreign-exchange loans and cross-border equity-incentive arrangements; and issue a new tranche of QDII quotas."
+    },
+    {
+      "id": "4939880",
+      "time": "2026-06-17 11:37:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【朱鶴新：近期將新增推出“一攬子”增量政策】在2026陸家嘴論壇開幕式上，國家外匯管理局局長朱鶴新表示，近期將新增推出“一攬子”增量政策，全面改革FDI跨境政策，進一步簡化ODI、外債等匯兌管理，最佳化外匯貸款、跨境股權激勵等制度，發放新一批QDII額度。"
+    },
     {
       "id": "4939879",
       "time": "2026-06-17 11:34:01",
@@ -168445,125 +168505,6 @@
         "國際"
       ],
       "text": "日本30年期國債拍賣投標倍數為2.94，為2025年6月以來最低水平。"
-    },
-    {
-      "id": "4927229",
-      "time": "2026-06-10 11:40:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【友訊達：公司暫不涉及算力業務】友訊達(300514)6月10日在互動平臺回覆稱，公司暫不涉及算力業務。"
-    },
-    {
-      "id": "4927228",
-      "time": "2026-06-10 11:40:04",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【世界盃獎盃價值較上屆世界盃飆升157%】根據倫敦證券交易所集團（LSEG）的分析，本屆世界盃的純金獎盃按今日金價計算價值約71.3萬美元。自2022年以來，該世界盃獎盃的價值飆升了157%。按熔化價值計算，國際足聯的世界盃獎盃位居世界體育獎盃榜首，遠遠超過歐洲冠軍聯賽、歐羅巴聯賽和超級碗獎盃。具體而言，國際足聯世界盃獎盃由6.175公斤18K純金打造，相當於4.93公斤純金。LSEG金屬研究部首席分析師德薩哈表示：“儘管金價已從近期高點回落，但其價值的長期趨勢依然引人注目。對於舉起世界盃獎盃的球員來說，它的價值無可估量，但其黃金含量也令人深思，它展現了這種貴金屬價值近年來驚人的增長。”（第一財經）"
-    },
-    {
-      "id": "4927227",
-      "time": "2026-06-10 11:39:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公元股份：暫未涉及銅箔的試產或小樣生產】公元股份(002641)6月10日在互動平臺回覆稱，公司專注於塑膠管道及太陽能光伏業務，目前暫未涉及銅箔的試產或小樣生產。"
-    },
-    {
-      "id": "4927226",
-      "time": "2026-06-10 11:39:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東鵬飲料增資至約5.6億】天眼查App顯示，近日，東鵬飲料發生工商變更，註冊資本由約5.2億人民幣增至約5.6億人民幣。該公司成立於1994年6月，法定代表人為林木勤，經營範圍包括計算機軟體、資訊系統軟體的開發、銷售，資訊系統設計、整合、執行維護，資訊科技諮詢等，由林木勤、香港中央結算有限公司、林戴欽等共同持股。"
-    },
-    {
-      "id": "4927225",
-      "time": "2026-06-10 11:39:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【CleanMax將為Meta在印度進行900兆瓦綠色電力產能建設】6月10日 ，據報道，可再生能源開發商CleanMax在一份宣告中表示，該公司已與Meta達成合作，將在印度進行約900兆瓦的綠色能源產能建設。CleanMax將在拉賈斯坦邦和卡納塔克邦開發並運營837兆瓦的新增太陽能和風能專案，此外還將推進一些此前已公佈的專案。Meta將購買這些新專案所產生的全部環境權益。"
-    },
-    {
-      "id": "4927224",
-      "time": "2026-06-10 11:39:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【稅務總局：超1.1億人獲得個稅退稅】稅務總局公開相關資訊顯示，2025年度綜合所得個稅彙算將於6月30日結束，前期彙算申報辦理量穩步增長。截至5月底，超過1.6億人完成彙算申報，超過1.1億人辦理了退稅，退稅金額也明顯增大，退稅規模較去年同比增加超過17%，政策紅利持續釋放。"
-    },
-    {
-      "id": "4927223",
-      "time": "2026-06-10 11:39:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年前5月居民境外收入補稅約130億元】6月10日，稅務總局公開相關資訊顯示，稅務機關不斷加強對居民個人境外所得的宣傳引導和政策輔導，取得境外收入的納稅人遵從度明顯提高，1—5月份累計補繳稅款約130億元。"
-    },
-    {
-      "id": "4927222",
-      "time": "2026-06-10 11:39:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "安巴尼支援的機器人初創公司ADDVERB尋求1億美元融資。"
-    },
-    {
-      "id": "mkt:019eaf9c-0406-7444-ba07-747b16e42338",
-      "time": "2026-06-10 11:38:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【Over 110 million received personal income tax refunds】China's State Taxation Administration says the 2025 annual settlement of comprehensive individual income tax closes on June 30; filings have risen steadily. As of end-May, more than 160 mln people completed filings and over 110 mln received refunds; refund amounts have increased and total refunds are up over 17% YoY, signaling continued release of policy benefits."
-    },
-    {
-      "id": "te:markets:557874",
-      "time": "2026-06-10 11:38:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Hovers Near 2-Month Low — The New Zealand dollar traded near a two-month low at around $0.581, as traders remained wary following US retaliatory strikes against Iran. Washington said it completed self-defense strikes against Tehran in response to the downing of a US helicopter that was patrolling over the Strait of Hormuz, further complicating prospects for a peace deal between the two countries and adding strain to an already fragile ceasefire. Meanwhile, investors are now awaiting key US inflation data for further clues on the Federal Reserve’s rate path. Supporting the kiwi, however, is the prospect of higher interest rates following a hawkish outlook from the Reserve Bank of New Zealand. Markets continue to price in a potential rate hike as early as July, with the OCR seen to peak around 3.50% late next year."
-    },
-    {
-      "id": "4927221",
-      "time": "2026-06-10 11:36:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞總理表示，馬來西亞和日本正在探索更多地使用林吉特和日元進行貿易。"
-    },
-    {
-      "id": "4927220",
-      "time": "2026-06-10 11:36:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿富汗稱遭巴基斯坦空襲致13死14傷】阿富汗政府發言人穆賈希德10日在社交媒體上說，巴基斯坦軍隊當天凌晨空襲阿巴邊境的庫納爾省、霍斯特省和帕克提卡省，造成13人死亡，另有14人受傷。穆賈希德表示，死者包含11名兒童和一名女性，阿富汗政府強烈譴責此次襲擊。"
-    },
-    {
-      "id": "mkt:019eaf9a-42e8-7444-ba07-6d9c69e6baa9",
-      "time": "2026-06-10 11:36:22",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "Japan's 30-year government bond auction bid-cover ratio was 2.94, down from 3.49 at the previous auction."
     }
   ]
 }
