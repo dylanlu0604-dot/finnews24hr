@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-18 01:50:57",
-  "count": 18525,
+  "updated": "2026-06-18 01:54:57",
+  "count": 18518,
   "items": [
+    {
+      "id": "mkt:019ed6b7-8075-7dd8-b05d-0ce8bf0c1ab7",
+      "time": "2026-06-18 01:53:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Analyst: Wash faces major credibility test at first Fed rate decision】Analyst Marte said this week's Fed meeting is Wash's first major credibility test as Fed chair; investors, policymakers and the public are watching whether he will defend the Fed's political independence. Trump has publicly urged independence on rate-setting but continues to signal a preference for lower borrowing costs. Some investors warn that if Wash fails to send a strong inflation signal he risks losing control of the bond market. April CPI rose 4.2% YoY, the fastest in over three years. Any impression the new chair intends to alter the Fed's 2% inflation target could push yields higher and further restrain the economy, running counter to Trump's objectives. A US–Iran peace deal could ease some fuel-price pressure, but pass-through to consumers would likely be delayed."
+    },
+    {
+      "id": "mkt:019ed6b6-4ff4-7dd8-b05d-025191ec7486",
+      "time": "2026-06-18 01:52:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Societe Generale head of US research Rajappa said core inflation will become the Fed's real concern."
+    },
+    {
+      "id": "mkt:019ed6b5-b391-7dd8-b05c-fb3fd976c0b9",
+      "time": "2026-06-18 01:51:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "JP Morgan global fixed income head Michelle said the oil-price shock is to some extent temporary."
+    },
+    {
+      "id": "4941602",
+      "time": "2026-06-18 01:50:47",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲6月決議宣告和新聞釋出會關注點】\n1、美聯儲是否會維持聯邦基金利率目標區間不變。\n2、美聯儲官員們對利率預測的點陣圖是否會有變化。\n3、美聯儲對美國經濟形勢（通脹和就業等）的看法。\n4、美聯儲主席凱文·沃什將在新聞釋出會上釋放哪些資訊。"
+    },
     {
       "id": "mkt:019ed6b4-5e82-7dd8-b05c-f3ddc3cbc789",
       "time": "2026-06-18 01:50:05",
@@ -170203,113 +170253,6 @@
         "Macro & Rates"
       ],
       "text": "Chile's finance minister expects GDP to grow 3% in 2027 and 2028, rising to 3.5% by 2030."
-    },
-    {
-      "id": "4928860",
-      "time": "2026-06-11 01:54:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美媒稱特朗普因協議無進展打擊伊朗】當地時間6月10日，據美國“阿克西奧斯新聞網站（Axios）”報道，美軍對伊朗發動打擊的直接導火索是美軍直升機墜毀事件，但美國總統特朗普實際上已因伊朗近兩週未回應美國就協議所作提議而越來越不滿。報道稱，美方認為此次打擊有助於恢復美國在談判中的籌碼，同時又不至於徹底關閉外交解決的大門。據披露，特朗普在5月29日白宮戰情室會議後，要求修改原本已接近達成的美伊諒解備忘錄。根據其新增要求，伊朗需在60天內對濃縮鈾進行稀釋處理，並承諾不對透過霍爾木茲海峽的船隻徵收通行費。作為交換，美方同意相關核材料可留在伊朗境內處理，並接受國際原子能機構的監督。 報道指出，目前在卡達的斡旋下，美伊仍在繼續間接接觸。美國官員表示，協議依然擺在桌面上，但如果伊朗繼續拖延，特朗普已準備讓伊朗“付出代價”。"
-    },
-    {
-      "id": "mkt:019eb2ab-f0a0-7dd8-afaa-21ea16c49488",
-      "time": "2026-06-11 01:54:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "DOE is soliciting proposals for swaps of up to 40 mln barrels of crude from the Strategic Petroleum Reserve sites Bryan Mound and Big Hill."
-    },
-    {
-      "id": "mkt:019eb2ab-8c61-7dd8-afaa-18c06ffde262",
-      "time": "2026-06-11 01:54:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "JPM.N",
-        "Impact bearish",
-        "BAC.N"
-      ],
-      "text": "The Wall Street Journal reports U.S. federal prosecutors in Washington, D.C. have subpoenaed JPMorgan and Bank of America, among others, as part of a probe into alleged 'debanking' practices."
-    },
-    {
-      "id": "4928859",
-      "time": "2026-06-11 01:53:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：美軍護航行動使得超過1億桶石油透過霍爾木茲海峽】美國總統特朗普稱：“上月，我下令強大的美軍執行秘密任務，為通行霍爾木茲海峽的油輪及其他商船提供護航。如今我很高興地宣佈，已有超過1億桶原油經該海峽運往公開市場，200餘艘商船安全通行。此次行動大獲成功，這證明掌控霍爾木茲海峽的是美國，而非伊朗。伊朗軍隊已然落敗，經濟陷入困境，伊朗大勢已去！”"
-    },
-    {
-      "id": "mkt:019eb2aa-c02b-7dd8-afaa-10283ce171a9",
-      "time": "2026-06-11 01:53:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says U.S. military escort enabled over 100 million barrels of oil to reach open market via Strait of Hormuz】Trump posted on social media saying he ordered the U.S. military last month to carry out a secret mission to support tankers and other commercial vessels transiting the Strait of Hormuz. He said the operation has enabled more than 100 million barrels of oil to pass through the Strait and enter the open market, and that over 200 commercial vessels have transited safely. He added the action shows the United States, not Iran, controls the Strait of Hormuz."
-    },
-    {
-      "id": "4928858",
-      "time": "2026-06-11 01:52:53",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "作為針對所謂“取消銀行服務”調查的一部分，美國哥倫比亞特區聯邦檢察官辦公室已向摩根大通、美國銀行及其他相關機構發出傳票。"
-    },
-    {
-      "id": "4928857",
-      "time": "2026-06-11 01:52:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗問題：上月，我命令我方精銳美軍執行一項秘密任務，為經霍爾木茲海峽航行的油輪及其他商船提供護航。"
-    },
-    {
-      "id": "4928856",
-      "time": "2026-06-11 01:51:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：相關舉措已促使超過1億桶石油透過霍爾木茲海峽運輸。"
-    },
-    {
-      "id": "4928855",
-      "time": "2026-06-11 01:51:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已有超過200艘商船透過了霍爾木茲海峽。"
-    },
-    {
-      "id": "4928854",
-      "time": "2026-06-11 01:51:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：超過1億桶石油正透過霍爾木茲海峽。"
-    },
-    {
-      "id": "4928853",
-      "time": "2026-06-11 01:51:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國正在控制霍爾木茲海峽。"
     }
   ]
 }
