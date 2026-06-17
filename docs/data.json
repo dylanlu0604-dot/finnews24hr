@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-17 10:52:29",
-  "count": 18272,
+  "updated": "2026-06-17 10:56:31",
+  "count": 18274,
   "items": [
+    {
+      "id": "4939760",
+      "time": "2026-06-17 10:55:48",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【中國人民銀行創設境外央行類機構回購工具】為支援我國金融市場高水平對外開放，便利境外央行類機構人民幣流動性管理，中國人民銀行將透過境外央行類機構回購工具（FIMA RMB Repo），向符合條件的境外央行類機構提供人民幣流動性。境外央行類機構指境外央行或貨幣當局、國際金融組織、主權財富基金。回購工具的操作方式包括質押式和買斷式。回購債券種類包括中國國債、央行票據、政策性金融債等人民銀行認可的高等級人民幣債券。回購期限包括7天、1個月、3個月。回購利率在公開市場7天期逆回購操作利率上加點確定。"
+    },
+    {
+      "id": "mkt:019ed381-3b7e-7dd8-b03f-25a6f66fe953",
+      "time": "2026-06-17 10:55:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC establishes an offshore repo facility for overseas central‑bank‑type institutions."
+    },
+    {
+      "id": "4939759",
+      "time": "2026-06-17 10:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國人民銀行最佳化公開市場臨時隔夜正、逆回購操作機制】為靈活高效運用公開市場臨時隔夜正、逆回購工具，中國人民銀行決定即日起最佳化操作要素，將操作時間調整為工作日15:00-15:30，操作利率分別調整為公開市場7天期逆回購操作利率減點25bp和加點25bp。進一步明確工具使用規則，在貨幣市場隔夜利率（DR001）持續低於或高於相應工具操作利率時，中國人民銀行將結合一級交易商需求啟動相應操作。"
+    },
+    {
+      "id": "4939758",
+      "time": "2026-06-17 10:54:01",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【潘功勝：持續建設規範、開放、有活力、有韌性的現代化金融市場】中國人民銀行行長潘功勝在2026陸家嘴論壇表示，進一步建設現代化金融市場，是“十五五”時期的一項重要任務。站在新的歷史起點，中國金融市場將堅持市場化、法治化、國際化的發展方向，持續建設規範、開放、有活力、有韌性的現代化金融市場。重點聚焦以下五個方向。第一，建設和發展多類別、多層次的金融市場體系，進一步豐富金融市場業態。第二，持續深化市場化改革，進一步發揮金融市場價格發現和資源配置作用。第三，健全法治規則體系，進一步培育良好的市場生態。第四，完善金融市場宏觀審慎管理框架和監管體系，進一步提升金融市場執行穩定性和韌性。第五，穩步推進金融領域制度型開放，進一步提升中國金融市場的國際化水平。人民銀行將加強開放條件下金融穩定保障體系和能力建設，守住不發生系統性風險的底線。（金融一線）"
+    },
+    {
+      "id": "te:markets:559549",
+      "time": "2026-06-17 10:54:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palladium Steadies After 8-Month Low — Palladium hovered near $1,350 per ounce, steadying after an eight-month low as easing Middle East tensions boosted risk appetite across commodity markets. Brent crude futures fell below $80 a barrel after dropping nearly 5% in the previous session following the announcement of an interim US-Iran peace deal. Falling oil prices led investors to scale back expectations for further Fed tightening, with the probability of a December rate hike dropping to about 60% from roughly 70% a week earlier. Lower rate expectations weighed on Treasury yields and supported precious metals. Additional support came from short covering, while investors continued to monitor supply risks and the outlook for automotive demand. Market participants are awaiting a series of central bank meetings this week, including the Fed's rate decision on Wednesday, the first under new Chair Kevin Warsh. Over the past month, palladium has fallen 3.84%, but remains 30.39% higher than a year ago."
+    },
+    {
+      "id": "mkt:019ed37f-d701-7dd8-b03f-1cce2d9f3fad",
+      "time": "2026-06-17 10:53:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Europe & UK"
+      ],
+      "text": "Japanese Prime Minister Takaichi said she held a summit with French President Macron and urged deeper cooperation across areas discussed in April, notably economic-security measures for critical minerals and collaboration on advanced technologies."
+    },
+    {
+      "id": "4939757",
+      "time": "2026-06-17 10:53:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國人民銀行最佳化公開市場臨時隔夜正、逆回購操作機制。（中國人民銀行）"
+    },
+    {
+      "id": "mkt:019ed37f-8eb9-7dd8-b03f-159ac002f6ff",
+      "time": "2026-06-17 10:53:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC optimizes mechanism for temporary overnight open-market repo and reverse-repo operations."
+    },
+    {
+      "id": "mkt:019ed37f-59d3-7dd8-b03f-0e54a5f6f961",
+      "time": "2026-06-17 10:53:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Japanese Prime Minister Takaichi said she welcomed the US-Iran agreement and urged its rapid, practical implementation to ensure free and secure navigation through the Strait of Hormuz. She said reaching a final agreement as soon as possible is essential and that Japan will continue diplomatic efforts, including engagement with Iran."
+    },
+    {
+      "id": "mkt:019ed37f-2274-7dd8-b03f-06a9c4a43445",
+      "time": "2026-06-17 10:53:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "USDJPY",
+        "DXY"
+      ],
+      "text": "Takaichi said she met with President Trump, welcomed the U.S.-Iran agreement, and reconfirmed the importance of fully implementing the tariff agreement between Japan and the U.S."
+    },
+    {
+      "id": "mkt:019ed37f-1149-7dd8-b03e-f8ee14134410",
+      "time": "2026-06-17 10:53:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese Prime Minister Takaichi said she held in-depth talks with Ukrainian President Zelenskiy and they confirmed the G7 will continue cooperating to support Ukraine and work toward achieving peace."
+    },
+    {
+      "id": "4939756",
+      "time": "2026-06-17 10:52:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：決不為任何形式的“臺獨”分裂行徑留下任何空間】國務院臺辦舉行例行新聞釋出會。針對臺陸委會負責人近日有關“臺灣始終維持現狀”的言論，發言人陳斌華表示，世界上只有一箇中國，臺灣是中國的一部分，是不容置疑的歷史和法理事實，也是真正的臺海現狀。民進黨當局想要“維持”的是其臆想的“分裂現狀”。其為此大肆進行謀“獨”挑釁，渲染“大陸威脅”，操弄“反中抗中”，是臺海現狀的破壞者，是臺海和平穩定的最大亂源。“臺獨”與臺海和平水火不容，我們決不為任何形式的“臺獨”分裂行徑留下任何空間。民進黨當局應當徹底放棄“臺獨”立場，停止謀“獨”挑釁，回到“九二共識”的政治基礎上來。"
+    },
     {
       "id": "4939755",
       "time": "2026-06-17 10:51:28",
@@ -167946,95 +168068,6 @@
         "國際"
       ],
       "text": "【伊朗國足將在世界盃首戰前一日飛抵美國】伊朗足協9日說，參加2026美加墨世界盃的伊朗國足將在小組賽首戰對陣紐西蘭的前一天、即14日飛抵美國洛杉磯。根據世界盃賽程，伊朗隊三場小組賽將在美國境內進行，分別是6月15日和21日在洛杉磯對陣紐西蘭、比利時，6月26日在西雅圖對陣埃及。（新華社）"
-    },
-    {
-      "id": "4927164",
-      "time": "2026-06-10 10:56:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌2%，現報4173.64美元/盎司。"
-    },
-    {
-      "id": "4927163",
-      "time": "2026-06-10 10:56:30",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "黃金股震盪走弱，招金黃金跌超6%，赤峰黃金跌超5%，湖南黃金、中金黃金、四川黃金、曉程科技、西部黃金跌幅居前。"
-    },
-    {
-      "id": "te:markets:557861",
-      "time": "2026-06-10 10:56:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "CNOOC Stock Price Hits 8-week Low — CNOOC shares decreased to 25.88 HKD, the lowest since April 2026. Over the past 4 weeks, CNOOC lost 2.56%, and in the last 12 months, it increased 37.29%."
-    },
-    {
-      "id": "mkt:019eaf73-e918-7444-ba06-db276a463459",
-      "time": "2026-06-10 10:54:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【EU Copernicus: May was second-warmest on record globally】The Copernicus Climate Change Service said in a June 10 bulletin that May was the second-warmest May on record. Global mean surface temperature for May was 15.81 C, 0.55 C above the 1991–2020 average and 1.42 C above pre-industrial levels, trailing only May 2024. An El Nifio expected to form in coming months could trigger extreme weather across multiple regions."
-    },
-    {
-      "id": "4927162",
-      "time": "2026-06-10 10:54:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量1192億元。"
-    },
-    {
-      "id": "4927161",
-      "time": "2026-06-10 10:54:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國臺辦回應島內有明顯赴大陸旅遊需求】國臺辦舉行例行新聞釋出會。有記者問：臺媒報道，島內旅行業協會近期紛紛表示，島內有明顯的赴大陸旅遊需求，喊話民進黨當局解除赴大陸旅遊“禁團令”及所謂“橙色警戒”，讓民眾與業者一起把旅遊市場做好，對此有何評論？ 國臺辦發言人張晗表示，有關報道充分反映了島內業界對恢復兩岸旅遊交流的強烈願望，表明民進黨當局推行的赴大陸旅遊“禁團令”等限制做法不得人心。據統計，2025年臺灣居民來大陸高達489萬人次。民進黨當局出於謀“獨”政治私利，對島內業者和民眾的呼聲充耳不聞，不僅損害了臺灣旅遊業者的生計，更剝奪了臺灣青年瞭解大陸真實面貌的機會。我們始終秉持兩岸一家親理念，推動恢復大陸居民赴臺旅遊並持續釋放善意，2024年以來先後恢復福建、上海居民赴金門、馬祖旅遊。希望民進黨當局正視民意，撤除政治藩籬，為兩岸人員往來和旅遊交流恢復正常創造有利條件。（中新網）"
-    },
-    {
-      "id": "4927160",
-      "time": "2026-06-10 10:53:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國會透過預算案為聯邦移民執法機構提供資金】美國國會眾議院9日以微弱優勢透過一項總額近700億美元的預算案，該預算案將為美國國土安全部下屬移民與海關執法局和邊境巡邏隊提供資金。美國會參議院已於本月5日透過該預算案。 眾議院當天的表決結果為214票贊成、212票反對，投票幾乎完全按照黨派劃分，民主黨人都投了反對票。該法案隨後將提交總統特朗普簽署。 根據該預算案，未來三年將為移民與海關執法局和邊境巡邏隊撥款近700億美元。民主黨人對該預算案表示強烈反對。眾議院少數黨領袖哈基姆·傑弗里斯8日在社交媒體上發帖稱：“納稅人的錢應該用來改善普通美國人的生活。共和黨人卻想給移民與海關執法局開一張700億美元的空白支票，讓他們繼續對民眾施以暴行。眾議院民主黨人堅決反對。” 今年1月，兩名美國公民在明尼蘇達州最大城市明尼阿波利斯被聯邦執法人員槍殺，引發全美多地抗議，民主黨人一直要求對移民與海關執法局運作進行重大改革，但共和黨人予以拒絕，導致兩黨關於國土安全部撥款的談判陷入僵局，使該機構“停擺”兩個多月。 參議院多數黨領袖、共和黨人約翰·圖恩隨後提出一項獲特朗普支援的“雙軌”策略：先與民主黨達成兩黨協議，為國土安全部提供大部分資金撥款，然後利用所謂“預算協調程式”自行解決移民執法資金問題，確保移民與海關執法局、邊境巡邏隊的運作資金。該策略幫助破解了撥款法案無法獲透過的僵局。(新華社)"
-    },
-    {
-      "id": "mkt:019eaf72-9f8c-7444-ba06-d75374818046",
-      "time": "2026-06-10 10:53:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【China says UN Security Council has ceased consideration of Iran nuclear issue】China’s deputy UN ambassador Sun Lei said on the 9th the Security Council never agreed that the E3 (UK, France, Germany) are entitled to trigger a snapback of sanctions. He said UNSC Resolution 2231 expired on Oct. 18 last year and the Council has therefore ceased consideration of the Iran nuclear issue, accused some states of forcing meetings to restore sanctions under a terminated agenda item, and urged members to implement measures tied to Resolution 2231’s \"termination day\", safeguard Council authority and multilateral credibility, and create conditions for a political settlement."
-    },
-    {
-      "id": "4927159",
-      "time": "2026-06-10 10:52:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國代表強調安理會已終止審議伊朗核問題】中國常駐聯合國副代表孫磊9日在俄羅斯就安理會伊朗核問題公開會提出程式性表決時發言說，安理會從未就“歐三”（英國、法國、德國）是否有資格啟動“快速恢復制裁”機制達成一致，安理會第2231號決議已於去年10月18日到期終止，安理會已終止審議伊朗核問題。孫磊說，個別國家刻意忽視安理會成員分歧和關切、強行推動安理會恢復對伊朗制裁，強推安理會在已被終止的議題下舉行會議，對安理會的困難局面負有全部責任。當前形勢下，安理會應當發揮建設性作用，而不是一味強推制裁、對伊朗施壓，更不能成為個別國家推進自身政治議程的工具。中方呼籲安理會成員切實落實第2231號決議“終止日”有關措施，維護安理會權威和多邊外交信譽，為政治解決伊朗核問題創造有利條件。（新華社）"
-    },
-    {
-      "id": "4927158",
-      "time": "2026-06-10 10:52:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林內政部10日發表宣告說，巴林再次拉響防空警報。 一小時前，巴林全國響起防空警報。伊朗伊斯蘭革命衛隊當時說，伊朗對位於巴林的美軍第五艦隊設施發動了無人機襲擊。（新華社）"
     }
   ]
 }
