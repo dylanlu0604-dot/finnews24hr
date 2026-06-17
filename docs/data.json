@@ -1,7 +1,134 @@
 {
-  "updated": "2026-06-17 21:09:50",
-  "count": 18448,
+  "updated": "2026-06-17 21:13:57",
+  "count": 18451,
   "items": [
+    {
+      "id": "mkt:019ed5b6-f7a0-7dd8-b051-cb3629a70019",
+      "time": "2026-06-17 21:13:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President LAGARDE warned AI poses a huge risk to financial stability."
+    },
+    {
+      "id": "te:markets:559741",
+      "time": "2026-06-17 21:13:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Prices Fall to 2-Month Low — UK natural gas prices fell to around 98 pence a therm, the lowest since April 17, as markets awaited further details on a US-Iran deal that could lead to the reopening of the Strait of Hormuz. The interim accord is set to be signed in Switzerland on June 19, though the memorandum of understanding has not yet been released. President Donald Trump reiterated on Monday that the strategic waterway would be fully accessible by Friday and operate \"toll-free.\" The prospect of restored maritime traffic through the strait has significantly eased concerns about prolonged disruptions to oil and gas flows from the Persian Gulf. However, uncertainty remains over how quickly regional production can recover, particularly after extensive damage to Qatar's Ras Laffan complex, the world's largest LNG export facility. Meanwhile, forecasts of hot weather across Europe next week are expected to boost gas consumption."
+    },
+    {
+      "id": "4941143",
+      "time": "2026-06-17 21:12:47",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【在沃什領導下的美聯儲首次利率決議公佈前，美債收益率走高】在美聯儲主席凱文·沃什領導下的首次利率決議公佈前，美債收益率小幅走高。預計利率將維持不變。投資者對沃什將如何改變該央行與公眾的溝通及其前瞻性指引感到好奇。在源於伊朗戰爭的通脹壓力下，今年至少加息一次的機率依然很高。和平協議的主要細節仍處於保密狀態。原油期貨小幅走高，但仍低於80美元。5月零售額增速從修正後的0.4%加快至0.9%，高於《華爾街日報》0.5%的平均預期。10年期美債收益率報4.443%，高於昨日的4.427%。兩年期美債收益率從4.046%升至4.068%。"
+    },
+    {
+      "id": "4941142",
+      "time": "2026-06-17 21:12:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "GENSPARK.AI：本輪融資獲SOZO VENTURES、韓國未來資產、UPHONEST CAPITAL支援。"
+    },
+    {
+      "id": "4941141",
+      "time": "2026-06-17 21:11:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "GENSPARK.AI：宣佈完成1億美元B輪擴充套件融資，投後估值達26億美元。"
+    },
+    {
+      "id": "4941140",
+      "time": "2026-06-17 21:11:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌3%，現報1308.50元。"
+    },
+    {
+      "id": "4941139",
+      "time": "2026-06-17 21:11:34",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "報道稱：馬克龍敦促七國集團領導人與科技企業執行長尋找變通方案，規避美國針對Claude人工智慧模型出臺的限制措施。"
+    },
+    {
+      "id": "mkt:019ed5b4-eb2b-7dd8-b051-c5ce559964ba",
+      "time": "2026-06-17 21:11:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Genspark.ai expands Series B to $485m; post-money valuation $2.6bn."
+    },
+    {
+      "id": "4941138",
+      "time": "2026-06-17 21:10:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀行開始下架2年期定存】 記者發現，重慶富民銀行近日釋出關於2年期及以上整存整取及續存系列產品暫停受理新增存入的公告。公告顯示：自6月15日起，該行手機銀行APP、微信小程式等線上渠道的個人整存整取及續存系列產品中2年期及以上存款產品暫停受理新的存入申請。這也意味著，重慶富民銀行線上渠道的中長期存款全部階段性停售。融360數字科技研究院高階分析師艾亞文分析，銀行下架中長期定期存款，主要因優質信貸資產增長乏力，疊加高息攬存模式難以為繼，機構主動壓降高成本、長期限負債。（一財）"
+    },
+    {
+      "id": "mkt:019ed5b3-c83c-7dd8-b051-be81e0d22542",
+      "time": "2026-06-17 21:09:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dubai Media Office said the Dubai Financial Market's total market capitalization surpassed 1 trillion dirhams."
+    },
+    {
+      "id": "4941137",
+      "time": "2026-06-17 21:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【汽油短缺風險加劇，俄羅斯據悉將透過海運進口汽油】業內訊息人士表示，在煉油廠遭受大規模無人機襲擊後，俄羅斯正試圖應對汽油短缺問題，並計劃於本月透過海運進口燃料。對於全球最大石油和成品油出口國之一的俄羅斯而言，這是一次罕見舉動。俄羅斯預計將在6月透過其西部一座港口接收一船汽油貨物。俄羅斯今年的國內供應受到持續數月烏克蘭無人機襲擊的制約，烏克蘭持續打擊俄羅斯煉油廠、輸油管道和燃料儲存設施。最近遭襲的設施包括塔涅科煉油廠和莫斯科煉油廠，兩家工廠均因此暫停加工業務。訊息人士表示，由於物流問題和價格高企，透過海運進口可能也只是臨時措施，不太可能提供大量供應。"
+    },
+    {
+      "id": "4941136",
+      "time": "2026-06-17 21:09:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪拜媒體辦公室：迪拜金融市場總市值突破1萬億迪拉姆。"
+    },
+    {
+      "id": "mkt:019ed5b3-7dbe-7dd8-b051-b039d64a3b68",
+      "time": "2026-06-17 21:09:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Gasoline shortage risk rises as Russia plans sea import】Russia, hit by months of Ukrainian drone strikes on refineries, pipelines and storage, plans to receive a cargo of gasoline by sea at a western port in June, industry sources said. The move is rare for one of the world’s largest crude and refined-product exporters. Recent strikes forced the TANECO and Moscow refineries to suspend processing. Sources said sea imports are likely a temporary, limited fix due to logistics constraints and elevated prices."
+    },
+    {
+      "id": "4941135",
+      "time": "2026-06-17 21:09:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫光國微：實施權益分派期間“國微轉債”將暫停轉股】紫光國微公告稱，公司於2026年5月11日透過《2025年度利潤分配方案》，近日將實施權益分派。“國微轉債”轉股期為2021年12月17日至2027年6月9日，自2026年6月22日起至本次權益分派股權登記日止，可轉債將暫停轉股，股權登記日後的第一個交易日起恢復轉股。暫停轉股期間，可轉債正常交易。"
+    },
     {
       "id": "4941134",
       "time": "2026-06-17 21:09:03",
@@ -169626,112 +169753,6 @@
         "Importance 0"
       ],
       "text": "Ghana Economy Gains Traction in Q1 — The economy of Ghana expanded by 6.4% year-on-year in Q1 2026, faster than 5.8% in the previous three-month period and marking the strongest performance since Q2 2025. Growth continued to be driven mainly by non-oil activities, particularly the services sector. Additional support came from the industrial and agricultural sectors."
-    },
-    {
-      "id": "4928467",
-      "time": "2026-06-10 21:13:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金盾股份：籌劃控制權變更事項，股票停牌】金盾股份6月10日公告，公司大股東王淼根、5%以上股東陳根榮正在籌劃重大事項，該事項可能導致公司控制權發生變動。經公司向深圳證券交易所申請，公司股票自2026年6月11日（星期四）開市起停牌，預計停牌時間不超過2個交易日。"
-    },
-    {
-      "id": "mkt:019eb1aa-8d13-7dd8-afa2-3a473485b5dc",
-      "time": "2026-06-10 21:13:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Apple",
-        "QCOM.O",
-        "Impact bearish",
-        "AAPL.O",
-        "2454.TW"
-      ],
-      "text": "【Q1 2026 global smartphone SoC shipments down 8% YoY, Counterpoint says】Counterpoint Research reports Q1 2026 global smartphone SoC shipments fell 8% YoY; analysts cite persistent memory supply shortages as the main driver. Market share: MediaTek 32%, Qualcomm 23%, Apple 19%, UNISOC 14%, Samsung 7%, HiSilicon 4%."
-    },
-    {
-      "id": "4928466",
-      "time": "2026-06-10 21:13:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國參議員沃倫呼籲美國證券交易委員會推遲SpaceX的IPO】美國參議員沃倫在週二致美國證券交易委員會主席保羅・阿特金斯的信函中提出，希望監管機構暫緩 SpaceX 的上市程序。她表示，此次 IPO “似乎會給普通投資者及其退休儲蓄帶來巨大風險”。這位參議員擔憂，華爾街正熱烈追捧此次上市，納斯達克與富時羅素指數公司還計劃加快將 SpaceX 納入旗下指數，這會倒逼指數基金被動買入該公司股票，一夜之間讓數百萬美國民眾的投資組合都被迫持倉 SpaceX。這封信函大機率無法達到暫緩上市的目的，但其中提出了多項風險顧慮。沃倫對 SpaceX 的估值尤為質疑。該估值參考了馬斯克旗下人工智慧實驗室 xAI 的收購交易，相當於這位億萬富豪同時身兼交易買賣雙方。沃倫在接受《交易錄》採訪時表示：“正常情況下，美國證券交易委員會會要求企業拿出更詳實嚴謹的依據，證明估值資料的來源，以及外部佐證材料。讓埃隆・馬斯克自己和自己交易，還定下一個高得離譜的估值，這一幕讓市場分析師啼笑皆非。”"
-    },
-    {
-      "id": "4928465",
-      "time": "2026-06-10 21:13:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【佰維儲存：全資子公司海南南佰算參與臻寶科技戰略配售，獲配金額2086.06萬元】佰維儲存公告，公司的全資子公司海南南佰算擬以自有資金參與認購臻寶科技首次公開發行人民幣普通股（A股）並在上海證券交易所科創板上市的戰略投資者配售。海南南佰算擬獲配股數為46.81萬股，獲配金額為人民幣2086.06萬元。本次交易構成關聯交易，因為公司關聯方國家積體電路基金二期持有臻寶科技3.94%股權。"
-    },
-    {
-      "id": "4928464",
-      "time": "2026-06-10 21:13:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "Zito預測，隨著投資回報率壓力增大，人工智慧牛市將出現洗牌。"
-    },
-    {
-      "id": "4928463",
-      "time": "2026-06-10 21:11:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗方面訊息：卡達代表團已抵達德黑蘭，以就美伊局勢進行調解。"
-    },
-    {
-      "id": "mkt:019eb1a8-e181-7dd8-afa2-32ceaa13c8fd",
-      "time": "2026-06-10 21:11:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【U.S. May core inflation unexpectedly cools; traders still price Fed hike by year-end】U.S. May core CPI rose 0.2% MoM, below the 0.3% consensus. U.S. Treasuries strengthened; yields mostly fell by under 1bp, with the two‑year at 4.11% versus about 4.13% earlier. Bond traders continue to price a Federal Reserve rate increase before year‑end. The print was seen as easing some pressure ahead of Kevin Walsh's first meeting as Fed chair next week. Dan Carter, senior portfolio manager at Fort Washington Investment Advisors, said: \"This gives the Fed a bit of breathing room.\""
-    },
-    {
-      "id": "mkt:019eb1a8-c9f3-7dd8-afa2-2c30f6ec9869",
-      "time": "2026-06-10 21:11:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRIB reports a Qatari delegation has arrived in Tehran to mediate U.S.-Iran tensions."
-    },
-    {
-      "id": "4928462",
-      "time": "2026-06-10 21:10:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國衛生安全域性：特里斯坦-達庫尼亞群島的一例個案此前已被世衛組織列為可能病例，並非新增病例。"
-    },
-    {
-      "id": "mkt:019eb1a8-2f53-7dd8-afa2-241706221080",
-      "time": "2026-06-10 21:10:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【US data in line with expectations eases pressure on German Bunds】US data broadly matched expectations; core CPI MoM was slightly softer. That allowed German Bunds to retrace earlier losses and return to roughly pre-release levels after an oil-price spike — triggered by Trump saying talks with Iran were taking too long and Iran would \"have to pay a price\" — had pushed Bunds lower. High-beta markets remained under pressure: 10-year French bond futures fell more than 6 bps and 10-year Italian futures fell over 12 bps."
-    },
-    {
-      "id": "4928461",
-      "time": "2026-06-10 21:10:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智象未來登上Artificial Analysis文生圖榜單中國第一】6月10日訊息，智象未來（HiDream.ai） 最新推出的商用版影象生成模型HiDream-O1-Image-1.5，在獨立AI模型評測與分析平臺 Artificial Analysis的文生圖榜單（Text to Image Leaderboard）登上中國影象生成模型第一，評分僅次於OpenAI，超過Google Nano Banana 2（Gemini 3.1 Flash Image Preview）、NVIDIA Cosmos3-Super-Text2Image和位元組跳動Seedream 4.0等。"
     }
   ]
 }
