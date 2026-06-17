@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-17 14:28:27",
-  "count": 18399,
+  "updated": "2026-06-17 14:32:28",
+  "count": 18403,
   "items": [
+    {
+      "id": "mkt:019ed447-5422-7dd8-b045-0fc93cc0233f",
+      "time": "2026-06-17 14:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan and South Korea stocks rise; Nikkei 225 hits fresh closing high】June 17 — Japan's Nikkei 225 closed up 497.75 points (+0.72%) at 69,902.25, marking a new closing high. South Korea's KOSPI closed up 137.64 points (+1.58%) at 8,864.24."
+    },
+    {
+      "id": "4940120",
+      "time": "2026-06-17 14:31:33",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市低開高走 日經225指數續創新高】日經225指數6月17日（週三）收盤上漲497.75點，漲幅0.72%，報69902.25點，續創收盤新高。韓國KOSPI指數6月17日（週三）收盤上漲137.64點，漲幅1.58%，報8864.24點。"
+    },
+    {
+      "id": "4940119",
+      "time": "2026-06-17 14:31:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "拜耳完成對Perfuse Therapeutics的收購，交易總價值最高達24.5億美元，預付款為3億美元。"
+    },
+    {
+      "id": "4940118",
+      "time": "2026-06-17 14:29:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【埃及擬擴建液化天然氣儲存設施 應對進口需求峰值】據知情人士透露，埃及國有天然氣企業埃及天然氣控股公司（EGAS）計劃引進一座浮式液化天然氣儲存裝置，以保障夏季用電高峰期的液化天然氣運輸接收能力。不願具名的知情人士表示，埃及天然氣控股公司計劃在 6、7 月至 9 月底期間租賃該儲存船，投放在艾因蘇赫納港或達米埃塔港，同時保留續租選擇權；相關人員未獲公開發言授權。"
+    },
+    {
+      "id": "mkt:019ed445-ad06-7dd8-b045-0682c06fd987",
+      "time": "2026-06-17 14:29:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said a trade agreement with India will be completed before the November G20 summit."
+    },
+    {
+      "id": "4940117",
+      "time": "2026-06-17 14:29:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：積極推動人工智慧、機器人、自動駕駛等新技術新產品在物流場景中的示範應用】北京市經濟和資訊化局印發《北京市關於支援工業企業提質增效若干措施》，其中提出，提升物流數智化水平。積極推動人工智慧、機器人、自動駕駛等新技術新產品在物流場景中的示範應用，有效降低物流成本。圍繞精密電子、生物醫藥、高階快消等產品專業倉儲需求，加快重點物流基地升級改造，擴大高標準倉庫、智慧立體倉儲有效供給。"
+    },
+    {
+      "id": "4940116",
+      "time": "2026-06-17 14:29:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【基石藥業：舒格利單抗定量藥理學研究成果獲國際期刊與歐洲監管認可】6月17日，基石藥業宣佈，圍繞公司自研PD-L1抗體舒格利單抗的模型引導藥物開發（Model-Informed Drug Development，MIDD）及歐洲劑量橋接研究成果，已分別從企業實踐和監管視角發表於國際權威臨床藥理學期刊，並被歐洲監管機構作為MIDD支援審評決策的高影響力典型案例引用。該成果驗證了MIDD方法在支援差異化全球開發策略中的科學價值，併為後續管線的海外註冊提供了可復現的方法論路徑。"
+    },
+    {
+      "id": "4940115",
+      "time": "2026-06-17 14:29:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【端午假期西安口岸預計出入境旅客1.5萬人次】6月15日，從陝西出入境邊防檢查總站（以下簡稱“陝西邊檢總站”）獲悉：端午假期，西安口岸預計出入境客運航班約90架次、出入境旅客1.5萬人次。 陝西邊檢總站預測，端午假期，西安口岸出境高峰時段集中在每天11時至11時30分、23時30分至0時30分；入境高峰時段集中在每天1時至1時30分、5時至5時30分、7時至7時30分。"
+    },
+    {
+      "id": "mkt:019ed444-5eb7-7dd8-b044-fc99dc392ca0",
+      "time": "2026-06-17 14:28:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Carney said Canada is expected to produce 150 mln t of LNG by year-end."
+    },
+    {
+      "id": "4940113",
+      "time": "2026-06-17 14:28:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大年底前液化天然氣產量將達1.5億噸，目前進展符合預期。"
+    },
+    {
+      "id": "4940112",
+      "time": "2026-06-17 14:27:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞降低對前往海灣和中東地區的旅行警告級別。"
+    },
     {
       "id": "4940111",
       "time": "2026-06-17 14:25:57",
@@ -169252,79 +169349,6 @@
         "國際"
       ],
       "text": "【美能源資訊局下調今年美石油庫存預期】美國能源部下屬能源資訊局9日釋出報告，下調今年美國石油庫存預期。報告說，到今年年底美國商業原油庫存量預計為4.19億桶，比上月預測少1200萬桶。報告還顯示，在截至5月29日的一週，美國商業原油庫存量為4.34億桶，與4月中旬4.66億桶的階段高點相比減少約3200萬桶。報告說，由於霍爾木茲海峽航運受阻，5月中東地區日均原油產量比2月衝突爆發前減少超1100萬桶，全球石油市場依然充滿高度波動性，預計三季度石油運輸將開始恢復，但到2027年初才會恢復到衝突爆發前水平。（新華社）"
-    },
-    {
-      "id": "mkt:019eb03a-e61a-799a-b41d-6962c9fc546e",
-      "time": "2026-06-10 14:31:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "【Asian stocks lower; South Korea KOSPI drops over 4%】On Wednesday June 10, South Korea's KOSPI closed down 366.11 points, or 4.52%, at 7,730.82. Japan's Nikkei 225 closed down 1.89%, weighed by technology and electronics shares."
-    },
-    {
-      "id": "4927428",
-      "time": "2026-06-10 14:31:20",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【薛建峰出任中國人民銀行寧夏回族自治區分行黨委書記、行長】中國人民銀行寧夏回族自治區分行官網近日更新顯示，薛建峰已出任中國人民銀行寧夏回族自治區分行黨委書記、行長，國家外匯管理局寧夏回族自治區分局局長。據瞭解，薛建峰曾任中國人民銀行青海省分行副行長、天津市分行紀委書記等職。"
-    },
-    {
-      "id": "4927427",
-      "time": "2026-06-10 14:31:09",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收跌】日經225指數收跌1.89%，報64179.27點。韓國綜指收跌4.52%，報7730.82點。"
-    },
-    {
-      "id": "4927426",
-      "time": "2026-06-10 14:30:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "氧化鋁連續主力合約日內漲4%，現報2919.00元。"
-    },
-    {
-      "id": "te:markets:557914",
-      "time": "2026-06-10 14:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 1.95% Lower — The Nikkei 225 Index fell 1273 points or 1.95 percent on Wednesday to close at 64144 points. Leading the losses are Taiyo Yuden (-11.79%), Furukawa Electric (-11.46%) and Sumitomo Electric (-11.09%)."
-    },
-    {
-      "id": "mkt:019eb037-e539-799a-b41d-60d40a0dbed9",
-      "time": "2026-06-10 14:28:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Oil-themed LOFs open higher then retreat】Oil-themed LOFs reversed early gains. Oil fund LOFs, HuaBao Oil & Gas LOF and Global Oil & Gas Energy LOF fell over 1%. Harvest Crude Oil LOF and E Fund Crude Oil LOF turned negative in the afternoon. Southern Crude Oil LOF’s gain narrowed to 1.31%."
-    },
-    {
-      "id": "4927425",
-      "time": "2026-06-10 14:28:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【石油主題LOF高開低走】石油主題LOF高開低走，石油基金LOF、華寶油氣LOF、全球油氣能源LOF均跌超1%，嘉實原油LOF、原油LOF易方達午後轉跌，南方原油LOF漲幅收窄至1.31%。"
     }
   ]
 }
