@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-17 23:13:19",
-  "count": 18495,
+  "updated": "2026-06-17 23:17:52",
+  "count": 18487,
   "items": [
+    {
+      "id": "4941423",
+      "time": "2026-06-17 23:16:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【盧浮宮館長稱該博物館已“不堪重負” 】法國盧浮宮博物館館長克里斯托夫·勒裡博17日就博物館內設施裝置老化問題發出警告，坦言該博物館已“不堪重負”，且修繕老化設施裝置所需鉅額資金存在缺口。"
+    },
+    {
+      "id": "4941422",
+      "time": "2026-06-17 23:16:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京會見汶萊蘇丹哈桑納爾。"
+    },
+    {
+      "id": "te:economy:559770",
+      "time": "2026-06-17 23:14:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Colombia Consumer Confidence Improves In May — Colombia’s Consumer Confidence Index rose 4.1 percentage points to 17.8% in May 2026 from April, supported by a 6.8 percentage point increase in the Consumer Expectations Index to 26.7%. Households’ economic outlook improved to 42.1% from 40.2%. Expectations for the general economy rose to 21.1% from 10.2%, while expectations for the country’s future economic conditions increased to 16.8% from 9.2%. Meanwhile, the Economic Conditions Index fell 0.1 percentage point. Assessments of households’ current economic situation weakened to 3.1% from 5.7%, while willingness to purchase durable goods rose to 5.8% from 3.3%. Compared to May 2025, the Consumer Confidence Index was up 21.6 percentage points."
+    },
     {
       "id": "te:markets:559766",
       "time": "2026-06-17 23:11:46",
@@ -169966,101 +169994,6 @@
         "Impact bullish"
       ],
       "text": "【Changan Automobile denies discounted sale of 40% stake in Changan Ford New Energy】June 10 — Changan Automobile denied reports it was selling a 40% stake in Changan Ford New Energy at 40% of value. The company said it directly holds 40% of the JV; the planned transfer is priced at the appraised value for that 40% stake and represents a shareholder-level structural adjustment, not a distressed or steeply discounted sale."
-    },
-    {
-      "id": "4928689",
-      "time": "2026-06-10 23:17:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4140美元/盎司，日內跌3.42%。"
-    },
-    {
-      "id": "te:markets:558116",
-      "time": "2026-06-10 23:17:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Lead Hits 4-week Low — Lead decreased to 1962.00 USD/T, the lowest since May 2026. Over the past 4 weeks, Lead lost 1.29%, and in the last 12 months, it decreased 1.33%."
-    },
-    {
-      "id": "4928688",
-      "time": "2026-06-10 23:17:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國鋁業公司首席財務官稱，受戰爭影響，其氧化鋁部門面臨“巨大壓力”。"
-    },
-    {
-      "id": "4928687",
-      "time": "2026-06-10 23:17:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國銀行董事長葛海蛟與上海交通大學校長丁奎嶺舉行工作會談】6月10日，中國銀行黨委書記、董事長葛海蛟與上海交通大學校長、中國科學院院士丁奎嶺在滬舉行工作會談，共同見證雙方簽署新一期銀校合作協議。葛海蛟表示，以此次簽約為契機，中國銀行將立足全球服務網路與全品類金融牌照優勢，圍繞科技金融、跨境金融、校園金融等領域不斷擴大合作覆蓋面，打造合作增長極，共同為教育強國、科技強國、人才強國、金融強國建設貢獻更大力量。"
-    },
-    {
-      "id": "4928686",
-      "time": "2026-06-10 23:16:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股三大指數均跌超1%】道指跌1.14%，現報50290.961點；納指跌1.43%，現報25312.809點；標普500指數跌1.01%，現報7311.910點。"
-    },
-    {
-      "id": "4928685",
-      "time": "2026-06-10 23:16:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市跌幅擴大，標普500指數下跌1.00%。"
-    },
-    {
-      "id": "4928684",
-      "time": "2026-06-10 23:15:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗法爾斯通訊社10日報道，伊朗武裝部隊發言人阿布法茲勒·謝卡爾希當天就美國總統特朗普打擊伊朗基礎設施的言論表示，伊朗將對每一個來自美國的威脅作出“比以往更嚴厲、更強力、更具毀滅性”的回應。"
-    },
-    {
-      "id": "4928683",
-      "time": "2026-06-10 23:15:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議員埃斯梅爾·科薩里警告稱，除非波斯灣沿岸的阿拉伯國家阻止美國總統特朗普並將美軍逐出該地區，否則伊朗將打擊這些國家的基礎設施。"
-    },
-    {
-      "id": "4928682",
-      "time": "2026-06-10 23:14:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【我科學家主導發現全球最深最大鯨類化石群和鯨落】在中國科學院深海科學與工程研究所主導下，“全球深淵探索計劃”科研團隊在東南印度洋迪亞曼蒂納深淵，發現全球已知最深、規模最大的鯨類化石群和鯨落生態系統，並揭示該區域自530萬年前至今一直是鯨類的“大墓地”。相關論文成果6月10日線上發表於國際學術期刊《自然》。（新華社）"
-    },
-    {
-      "id": "4928681",
-      "time": "2026-06-10 23:13:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普即將發表講話。"
-    },
-    {
-      "id": "4928680",
-      "time": "2026-06-10 23:13:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：歐洲與韓國建立了長久的夥伴關係，雙方合作空前緊密。今日我們宣佈簽署數字貿易協定並建立競爭力夥伴關係。"
     }
   ]
 }
