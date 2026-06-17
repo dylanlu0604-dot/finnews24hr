@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-18 00:08:54",
-  "count": 18403,
+  "updated": "2026-06-18 00:12:55",
+  "count": 18404,
   "items": [
+    {
+      "id": "te:markets:559787",
+      "time": "2026-06-18 00:12:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.31% Higher — The FTSE MIB Index rose 163 points or 0.31 percent on Wednesday to close at 52595 points. Leading the gains are Banco BPM SPA (2.92%), Saipem (2.87%) and Banca Mediolanum (2.31%). Top losers were Infrastrutture Wire (-3.12%), Stellantis N.V. (-3.08%) and Diasorin (-2.83%)."
+    },
+    {
+      "id": "4941464",
+      "time": "2026-06-18 00:11:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：內塔尼亞胡沒必要每次都把樓房夷為平地。"
+    },
+    {
+      "id": "mkt:019ed65a-31fe-7dd8-b058-a453c7fd491e",
+      "time": "2026-06-18 00:11:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Netanyahu does not need to blow up entire buildings every time."
+    },
+    {
+      "id": "4941463",
+      "time": "2026-06-18 00:11:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我和內塔尼亞胡的合作關係非常棒。"
+    },
+    {
+      "id": "mkt:019ed659-f0e6-7dd8-b058-9c10dea4e5ac",
+      "time": "2026-06-18 00:11:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he and Netanyahu disagree on Lebanon."
+    },
+    {
+      "id": "te:markets:559786",
+      "time": "2026-06-18 00:11:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.10% Higher — The DAX Index gained 24 points or 0.10 percent on Wednesday to close at 24935 points. Gains were led by Commerzbank (5.18%), Bayer (4.80%) and HeidelbergCement (4.06%). Biggest losers were BMW (-8.34%), Mercedes-Benz AG (-4.48%) and Volkswagen (-3.68%)."
+    },
+    {
+      "id": "4941462",
+      "time": "2026-06-18 00:10:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：內塔尼亞胡有時會有點激動， 我和內塔尼亞胡在黎巴嫩問題上存在分歧。"
+    },
+    {
+      "id": "mkt:019ed659-a59c-7dd8-b058-92ede4c2c481",
+      "time": "2026-06-18 00:10:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Israeli Prime Minister Netanyahu can sometimes appear a bit excitable."
+    },
+    {
+      "id": "mkt:019ed659-7fa3-7dd8-b058-8a38bbd0b4a9",
+      "time": "2026-06-18 00:10:49",
+      "tags": [
+        "MKT News",
+        "BA.O"
+      ],
+      "text": "Trump said Boeing's 757 is a great airplane."
+    },
+    {
+      "id": "4941461",
+      "time": "2026-06-18 00:10:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：波音 757 是一款很棒的飛機。"
+    },
+    {
+      "id": "te:markets:559785",
+      "time": "2026-06-18 00:10:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.20% Lower — The CAC 40 Index decreased 16 points or 0.20 percent on Wednesday to close at 8431 points. The decline was led by Essilor (-4.32%), Orange (-3.23%) and Stellantis NV (-3.21%). On the upside, the strongest performers were Legrand (4.33%), TP (2.48%) and Schneider Electric (1.97%)."
+    },
+    {
+      "id": "te:markets:559784",
+      "time": "2026-06-18 00:09:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rise to Fresh Records — European stock indices rose for a fifth session to new records on Wednesday with further support from softer pro-inflationary risks. The Euro STOXX 50 rose by 0.6% to 6,297 and the STOXX Europe 600 rose 0.5% to 639. Sovereign yields fell further as Iran and the US maintained their intent to sign an agreement that restores energy trade from the Middle East this Friday. Energy prices pulled back and scaled down expectations that the ECB would be forced to raise interest rates this year. Banks led the gains for another session amid the improved credit outlook, with Santander, UniCredit, and Deutsche Bank gaining 2.5%. On the other hand, BMW shares fell more than 6% after the carmaker cut its guidance, citing worsening conditions in the Chinese market and the broader impact of the Middle East conflict."
+    },
     {
       "id": "te:markets:559783",
       "time": "2026-06-18 00:07:16",
@@ -169113,114 +169226,6 @@
         "Brent"
       ],
       "text": "CENTCOM said US forces on June 9 disabled an oil tanker in the Gulf of Oman after the vessel violated blockade measures."
-    },
-    {
-      "id": "4928785",
-      "time": "2026-06-11 00:12:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美國在阿曼灣擊沉不服從指令的船隻。"
-    },
-    {
-      "id": "mkt:019eb24e-76d3-7dd8-afa8-eb85c00f3882",
-      "time": "2026-06-11 00:12:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said India lodged a \"strong protest\" with U.S. diplomat Jason Miks."
-    },
-    {
-      "id": "mkt:019eb24e-3dda-7dd8-afa8-e065938f8674",
-      "time": "2026-06-11 00:12:12",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Sources said India has summoned the US deputy chief of mission in New Delhi after an oil tanker was attacked off the coast of Oman; three Indian nationals are missing."
-    },
-    {
-      "id": "4928784",
-      "time": "2026-06-11 00:12:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士透露，因阿曼灣油輪遇襲造成三名印度人失蹤，印度召見了美國駐新德里使團副團長。印度已就此事向美國外交官賈森·米克斯提出“強烈抗議”。"
-    },
-    {
-      "id": "te:markets:558138",
-      "time": "2026-06-11 00:12:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.46% Lower — The FTSE MIB Index fell 234 points or 0.46 percent on Wednesday to close at 50029 points. Leading the losses are Prysmian (-4.35%), Stellantis N.V. (-3.83%) and Davide Campari-Milano (-1.68%). Top gainers were Banco BPM SPA (3.70%), Poste Italiane (2.36%) and Unipol Gruppo (2.15%)."
-    },
-    {
-      "id": "4928783",
-      "time": "2026-06-11 00:11:15",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【阿波羅資產管理高管：太多人工智慧支出被耗費於低智商任務】阿波羅全球管理的John Zito表示，太多公司將AI工具用於相對平常的任務，這並不足以證明高昂成本和算力投入的合理性。“我們的智商太低了，以至於竟然要用AI工具來搜尋法式吐司的做法，”阿波羅資產管理聯席總裁Zito說道，“這就是價格上漲的原因。”他表示，只有“少數”人有能力和必要使用最前沿的AI工具。談到Anthropic PBC最新的Claude AI模型，他笑稱自己的智商“沒高到能使用Mythos 2強大功能的程度”。"
-    },
-    {
-      "id": "te:markets:558137",
-      "time": "2026-06-11 00:11:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.97% Lower — The DAX Index dropped 238 points or 0.97 percent on Wednesday to close at 24195 points. Losses were led by Siemens Energy (-6.49%), SAP (-3.28%) and Commerzbank (-2.03%). Offsetting the fall, top gainers were Deutsche Telekom (3.06%), Adidas (2.84%) and Symrise (2.47%)."
-    },
-    {
-      "id": "te:markets:558136",
-      "time": "2026-06-11 00:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.51% Lower — The CAC 40 Index decreased 42 points or 0.51 percent on Wednesday to close at 8162 points. The decline was led by Edenred (-7.85%), Stellantis NV (-3.83%) and Societe Generale (-2.28%). On the upside, the strongest performers were Orange (2.07%), Veolia (1.93%) and Danone (1.59%)."
-    },
-    {
-      "id": "4928782",
-      "time": "2026-06-11 00:10:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗分析師警示，比特幣面臨的量子計算風險高於以太坊，到2028年或將有690萬枚比特幣受到影響。"
-    },
-    {
-      "id": "mkt:019eb24c-2e9b-7dd8-afa8-d858be11eb54",
-      "time": "2026-06-11 00:09:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US President Trump said the country is acquiring millions of barrels of oil each night."
-    },
-    {
-      "id": "mkt:019eb24b-9be4-7dd8-afa8-d1dbb431ce2c",
-      "time": "2026-06-11 00:09:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump signed a $70 billion bill to provide funding for U.S. Immigration and Customs Enforcement (ICE) and Border Patrol."
     }
   ]
 }
