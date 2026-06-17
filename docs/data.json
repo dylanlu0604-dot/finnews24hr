@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-18 01:46:55",
-  "count": 18523,
+  "updated": "2026-06-18 01:50:57",
+  "count": 18525,
   "items": [
+    {
+      "id": "mkt:019ed6b4-5e82-7dd8-b05c-f3ddc3cbc789",
+      "time": "2026-06-18 01:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "The Federal Reserve's FOMC will release its rate decision and the Summary of Economic Projections in 10 minutes."
+    },
+    {
+      "id": "mkt:019ed6b3-abe7-7dd8-b05c-ecaac1581927",
+      "time": "2026-06-18 01:49:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said he expects U.S. President Trump will not interfere in Brazil's election."
+    },
+    {
+      "id": "4941601",
+      "time": "2026-06-18 01:49:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：但我希望特朗普不要干涉巴西大選。"
+    },
+    {
+      "id": "4941600",
+      "time": "2026-06-18 01:48:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：我認為特朗普有權對巴西大選持有個人偏向立場。"
+    },
+    {
+      "id": "mkt:019ed6b2-950a-7dd8-b05c-e37236a41297",
+      "time": "2026-06-18 01:48:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lula said officials from the foreign and commerce ministries are negotiating with the United States."
+    },
+    {
+      "id": "mkt:019ed6b2-7a81-7dd8-b05c-de0388f89476",
+      "time": "2026-06-18 01:48:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Brazilian President Lula said Trump talks too much and listens too little."
+    },
+    {
+      "id": "4941599",
+      "time": "2026-06-18 01:47:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：倘若特朗普僅透過博索納羅家族來認識巴西，那他根本不瞭解這個國家。"
+    },
+    {
+      "id": "4941598",
+      "time": "2026-06-18 01:46:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美官員公佈美伊諒解備忘錄文字】據多家美國媒體17日報道，美國匿名高階官員當天向媒體透露了美國與伊朗達成的諒解備忘錄“正式文字”內容。伊朗方面尚未對外公佈該檔案。（新華社）"
+    },
     {
       "id": "mkt:019ed6b0-76bb-7dd8-b05c-d4e0b773cdf1",
       "time": "2026-06-18 01:45:49",
@@ -170237,62 +170310,6 @@
         "國際"
       ],
       "text": "特朗普：美國正在控制霍爾木茲海峽。"
-    },
-    {
-      "id": "4928852",
-      "time": "2026-06-11 01:50:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部：擬從戰略石油儲備的布萊恩芒德基地及比格希爾基地，共徵集最多4000萬桶原油進行置換。"
-    },
-    {
-      "id": "4928851",
-      "time": "2026-06-11 01:50:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲4%，現報91.82美元/桶。"
-    },
-    {
-      "id": "mkt:019eb2a7-c060-7dd8-afaa-0977a05dd245",
-      "time": "2026-06-11 01:49:58",
-      "tags": [
-        "MKT News",
-        "V.N",
-        "Impact bullish"
-      ],
-      "text": "Market sources: OpenAI has partnered with Visa (V.N) to enable AI agents to conduct online shopping."
-    },
-    {
-      "id": "mkt:019eb2a6-bfc0-7dd8-afaa-031dcaf33429",
-      "time": "2026-06-11 01:48:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US strike disrupts drinking water for more than 20,000 in southern Iran】U.S. strikes in the early hours of June 10 damaged drinking-water infrastructure in Sirik, Hormozgan province, cutting supply to more than 20,000 residents, local officials said. Two water-storage facilities were hit, leaving Kuhestak city and roughly 10 surrounding villages without running water; authorities supplied tankers amid high temperatures. Mehr news agency reported crews from the Hormozgan Water and Wastewater Company replaced damaged equipment and installed a new pipeline, restoring supply to affected areas within about 12 hours."
-    },
-    {
-      "id": "4928850",
-      "time": "2026-06-11 01:47:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若德·拉·埃斯普列利亞勝選，美國將向哥倫比亞提供支援。"
-    },
-    {
-      "id": "mkt:019eb2a5-1ce7-7dd8-afa9-fd74f287b426",
-      "time": "2026-06-11 01:47:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Flanders regional transport minister said Tesla (TSLA.O)'s Full Self-Driving (FSD) has been authorized for use in Belgium."
     }
   ]
 }
