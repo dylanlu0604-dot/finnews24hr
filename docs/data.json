@@ -1,7 +1,104 @@
 {
-  "updated": "2026-06-17 08:13:36",
-  "count": 18352,
+  "updated": "2026-06-17 08:17:35",
+  "count": 18356,
   "items": [
+    {
+      "id": "4939480",
+      "time": "2026-06-17 08:16:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌1.5個基點至2.630%。"
+    },
+    {
+      "id": "4939479",
+      "time": "2026-06-17 08:16:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前5個月東北地區外貿進出口超5390億元】據瀋陽海關統計，今年前5個月，東北地區外貿進出口總值達5390.4億元，同比增長8.3%，規模創歷史同期新高。其中，出口規模首次突破2600億元，達到2601.9億元，增長16.6%，快於全國出口4.8個百分點。"
+    },
+    {
+      "id": "4939478",
+      "time": "2026-06-17 08:16:16",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：日銀無加息緊迫感，仍預計其在本次加息後將在年內按兵不動】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。"
+    },
+    {
+      "id": "4939477",
+      "time": "2026-06-17 08:15:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖邦股份：H股香港公開發售今日開始 預計6月26日掛牌交易】聖邦股份(300661)6月17日早間公告，公司全球發售H股基礎發行股數為5400.12萬股。其中，初步安排香港公開發售540.02萬股（可予重新分配），約佔全球發售總數的10.00%。發行價格最高不超過每股85.20港元。公司本次H股香港公開發售於2026年6月17日開始，預計於6月23日結束，6月24日前（含當日）公佈發行價格，6月26日在香港聯交所掛牌並開始上市交易。"
+    },
+    {
+      "id": "te:markets:559475",
+      "time": "2026-06-17 08:15:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mizuho Financial Stock Price Hits All-time High — Mizuho Financial shares increased to an all-time high of 7995.00 JPY. Over the past 4 weeks, Mizuho Financial gained 18.88%, and in the last 12 months, it increased 95.44%."
+    },
+    {
+      "id": "4939476",
+      "time": "2026-06-17 08:15:00",
+      "tags": [
+        "資料",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：經濟K型分化在加速】中信證券研報指出，5月經濟資料有所分化，呈現“生產強於需求”、“外需強於內需”的格局。從生產側來看，5月工業增加值增速有所回升，主要是出口增速強勁、油價見頂回落帶動工業生產強度改善，內需疲軟使服務業生產指數低位執行。從需求側來看，受補貼資金同比錯位和端午節備貨時間差異影響，5月社零表現欠佳，增速低於預期和前值；5月固投增速整體延續回落，但製造業投資單月增速邊際有所回升。展望未來，隨著美國宣佈解除對霍爾木茲海峽的封鎖，我們提示持續關注海峽恢復通航後油價的走勢以及對國內PPI-CPI剪刀差、工業企業利潤的影響。需求端，我們認為外貿出口仍是今年經濟增長的主要抓手，外需強於內需的格局在年內或將維持。生產端，我們判斷海峽恢復通航有利於緩解高油價對國內工業生產造成的潛在壓力。"
+    },
+    {
+      "id": "mkt:019ed2ee-1cca-7dd8-b03b-fc5c755a68e9",
+      "time": "2026-06-17 08:14:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK",
+        "Impact bullish"
+      ],
+      "text": "【Hubei party secretary Guan Zhiou meets Xiaomi chairman Lei Jun】June 15, Wuhan — Hubei party secretary Guan Zhiou met Xiaomi founder-chairman and CEO Lei Jun. Guan urged Xiaomi to expand and deepen its Hubei footprint, contribute to building Wuhan as a regional tech innovation center, and said the province will optimize the business environment and provide full-service support. Lei said Xiaomi is bullish on prospects in Hubei, will increase local business deployment, and seek to attract more talent and upstream and downstream firms to the province."
+    },
+    {
+      "id": "4939475",
+      "time": "2026-06-17 08:14:20",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：AI產業進展處於早期階段，AI帶來的機遇大於挑戰】中信證券研報指出，站在當前時點，我們認為AI產業進展處於早期階段，AI帶來的機遇大於挑戰。產業層面，影片生成模型、世界模型與物理AI等新方向新正規化仍層出不窮，影片理解與生成融合、語言模型與多模態模型融合、模型持續學習等技術創新將會持續引領模型創新趨勢。我們預計模型迭代週期將持續縮短，以Anthropic為代表的模型公司ARR持續提升，並逐步向金融、法律、醫療等更多高價值的企業級場景落地。市場層面，全球科技股估值偏高，持倉偏擁擠是當前最大的挑戰，同時未來半年至一年SpaceX、Anthropic與OpenAI上市也可能給市場流動性帶來衝擊，將成為全球科技股最重磅的事件和觀察視窗。考慮到下半年宏觀流動性邊際或有所收緊，市場演繹將更加依賴業績端的持續兌現和驗證，但只要產業趨勢景氣度不變，若流動性衝擊導致估值回撥，帶來的機遇大於風險。同時國產模型與海外模型差距持續縮小，國產雲廠商相比海外亦有更充分的CAPEX加碼空間，隨著“國模國芯”生態持續完善，國產算力將有更大的彈性。"
+    },
+    {
+      "id": "4939474",
+      "time": "2026-06-17 08:13:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海海西州6.3級地震造成1死8傷 傷者已出院 】記者從大柴旦6.3級地震抗震救災現場指揮部瞭解到，經過兩輪全面人員排查，截至6月16日23時，青海海西州地震已造成1人遇難，8人受傷，受傷人員經包紮處理後已離開醫院。（新華社）"
+    },
+    {
+      "id": "te:economy:559473",
+      "time": "2026-06-17 08:13:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Exports YoY",
+        "Importance 2"
+      ],
+      "text": "Japan Export Growth at 3-1/2-Year High — Japan’s exports rose 17.0% year-on-year in May 2026, accelerating from a 14.8% growth in the prior month while marking the strongest growth since November 2022 and exceeding the consensus of 16.2%, supported by robust demand from China, the U.S., ASEAN countries, and the EU."
+    },
     {
       "id": "4939473",
       "time": "2026-06-17 08:12:20",
@@ -25,6 +122,15 @@
         "國際"
       ],
       "text": "美國南方司令部：6月16日，在南方司令部指揮官弗朗西斯·L·多諾萬將軍的指示下，聯合特遣部隊“南方之矛”對一艘由指定恐怖組織操作的船隻實施了致命動能打擊。情報確認該船隻正沿東太平洋已知毒品販運路線航行，並參與毒品販執行動。此次行動中，一名男性毒梟恐怖分子被擊斃，有兩名男性倖存者。交戰結束後，美國南方司令部立即通知美國海岸警衛隊啟動針對倖存者的搜尋與救援系統。無美軍人員受傷。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202606173773722774",
+      "time": "2026-06-17 08:11:31",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【中信證券：預計日本央行在本次加息後將維持政策利率不變於1%】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。"
     },
     {
       "id": "te:economy:559471",
@@ -168754,78 +168860,6 @@
         "MKT News"
       ],
       "text": "【Trump has said a US-Iran deal is imminent more than 30 times】CNN reports that since fighting involving Iran broke out on Feb. 28, Trump has made statements saying \"a US-Iran deal is imminent\" more than 30 times across social media, public appearances and telephone interviews with reporters."
-    },
-    {
-      "id": "4926867",
-      "time": "2026-06-10 08:16:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.3%，英國富時指數期貨上揚0.4%。"
-    },
-    {
-      "id": "mkt:019eaee1-fc32-7ff4-a103-13238e003b8f",
-      "time": "2026-06-10 08:15:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan: May yen-denominated import price index rose 25.5% YoY, the fastest pace since November 2022."
-    },
-    {
-      "id": "4926866",
-      "time": "2026-06-10 08:15:02",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗預計在推動轉型之際交易收入有望大幅增加】花旗集團首席財務官Gonzalo Luchetti表示，受各類資產交易活躍推動，該行正有望迎來一輪可觀收入增長，而且本輪增長勢頭較去年年初更加持久。Luchetti週二在由摩根士丹利主辦的一場金融會議上表示，該行市場業務收入有望實現高個位數到低兩位數百分比的同比增長，顯著高於媒體調查中分析師預計的約2%增幅。他說，與去年第二季度不同——當時美國總統唐納德·特朗普推出的“解放日”關稅引發市場動盪——當前市場表現出更為廣泛的強勁勢頭，涵蓋股票、衍生品、固定收益、外匯和大宗商品等多個領域。“我們在第二季度也看到了良好的交易量，”Luchetti表示，“這些交易量為整個業務平臺提供了更穩定的收入動能。”"
-    },
-    {
-      "id": "mkt:019eaee1-ab8a-7ff4-a103-0be62aff7ff3",
-      "time": "2026-06-10 08:14:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Axios reports US military conducting third round of airstrikes on Iran】An Axios reporter posted on social media that US military officials say the US is conducting a third round of airstrikes against Iran."
-    },
-    {
-      "id": "4926865",
-      "time": "2026-06-10 08:14:20",
-      "tags": [
-        "市場",
-        "央行",
-        "國際",
-        "原創"
-      ],
-      "text": "【受股市上漲推動，韓國家庭一季度金融支出創24年最快增速】韓國央行週三公佈的資料顯示，受股市上漲提振，今年第一季度韓國家庭在金融和保險服務（包括股票交易佣金）方面的支出總額達25.1萬億韓元（177億美元），比前一季度增加2.44萬億韓元，增幅為10.8%，創下2002年第一季度以來最大環比增幅。韓國央行表示，股票交易活動的增加導致佣金支出上升，進而推動金融和保險服務總支出大幅增長。"
-    },
-    {
-      "id": "4926864",
-      "time": "2026-06-10 08:14:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍已對伊朗進行三輪空襲 】據美國“阿克西奧斯新聞網站（Axios）”記者在社交媒體平臺發帖稱，美軍官員表示，美軍正在對伊朗進行第三輪空襲。"
-    },
-    {
-      "id": "mkt:019eaee0-9f42-7ff4-a103-01d3c721a4f3",
-      "time": "2026-06-10 08:13:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "Japan 30-year government bond yield rose 2.5 bps to 3.890%."
     }
   ]
 }
