@@ -1,7 +1,360 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-17 21:30:15_
-_本檔包含 3815 則快訊，約 686430 字_
+_更新時間：2026-06-17 21:55:08_
+_本檔包含 3754 則快訊，約 686852 字_
+
+---
+
+### 2026-06-13 16:46:36  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【IDF orders evacuation of residents in 20 Lebanese areas】On the 13th the IDF Arabic-language spokesman posted a social-media evacuation order warning of imminent airstrikes and directing residents of 20 Lebanese areas to move north of the Zahrani River. The IDF accused HEZBOLLAH of violating a ceasefire and said it was "forced" to take strong action. Air-raid sirens sounded in parts of northern Israel on the 12th-13th, and the Israeli Air Force said it repeatedly intercepted hostile airborne objects crossing from Lebanon into Israel.
+
+---
+
+### 2026-06-13 16:45:56  #行業
+
+【電車也要交養路費了？多位業內人士透露：“養路費”等稅費改革正在研究】近期，新能源汽車整車重量持續走高成為行業熱議話題，進而引發新能源汽車是否該繳納“養路費”的熱烈討論。多位業內人士向記者透露，目前，相關部門已經在研究相關政策，除養路費分攤問題，還將涉及更多汽車產業相關的稅費體制，以實現制度“與時俱進”，適配新的產業格局。這意味著從“產業扶持”到“分擔成本”，新能源汽車的免稅紅利或許將逐步退坡。同濟大學汽車與能源學院汽車產業與技術戰略研究中心主任王寧在接受記者採訪時表示，“從長期角度來講，‘油電同權’是未來趨勢。”當年率先提出養路費費改稅專項政策建議的乘聯分會秘書長崔東樹也明確表示，傳統依附於燃油消費的道路稅費體系，已出現明顯結構性失衡，稅制迭代升級勢在必行。（每經）
+
+---
+
+### 2026-06-13 16:42:18  #國際
+
+【以軍向黎巴嫩20個地區居民釋出撤離令】以色列國防軍阿拉伯語發言人13日在社交媒體上釋出撤離令，警告即將對黎巴嫩發動空襲，要求黎巴嫩20個地區的居民立即撤離。以軍在撤離令中要求上述地區居民前往宰赫拉尼河以北地區。以軍還指責黎巴嫩真主黨違反停火協議，稱以軍“被迫”對其採取強硬行動。（新華社）
+
+---
+
+### 2026-06-13 16:40:15  #其他
+
+【全新深藍S07增程版上市，搭載華為乾崑智駕ADS Pro】6月13日，全新深藍S07增程版正式上市，售價15.99萬元起。新車搭載華為乾崑智駕ADS Pro、智慧泊車輔助及全維防碰撞系統CAS 4.0，在感知硬體、決策演算法與覆蓋場景、主動安全等方面，實現系統性增強。據瞭解，採用27個高精度感知單元，包含1顆鐳射視覺雷達、3顆4D毫米波雷達、12顆超聲波雷達及11個高畫質攝像頭，構建起精準識別感知網路。
+
+---
+
+### 2026-06-13 16:39:51  #其他
+
+一圖讀懂《金融資訊服務資料分類分級指南》。（網信中國）
+
+---
+
+### 2026-06-13 16:38:45  #MKT News
+
+【Argentina says no hantavirus-carrying rodents found in Mendoza province】Argentina’s health ministry said on the 12th that no rodents carrying hantavirus were detected in Mendoza province. From the 8th to 12th a team from the national reference laboratory, the Carlos Malbrán Institute and US CDC experts set traps for long-tailed pygmy rice rats and other rodents to assess local hantavirus circulation; no infected animals were found.
+
+---
+
+### 2026-06-13 16:37:19  #公司 #國際
+
+【阿根廷說未在門多薩省發現攜帶漢坦病毒齧齒類動物】阿根廷衛生部12日說，在該國西部的門多薩省沒有發現攜帶漢坦病毒的齧齒類動物。8日至12日，阿根廷國家實驗室與衛生研究所管理局卡洛斯·馬爾夫蘭研究所、美國疾病控制和預防中心的專家團隊在門多薩省展開漢坦病毒調查。團隊佈設陷阱捕捉長尾侏儒稻鼠等齧齒類動物，以確認漢坦病毒在這裡的傳播情況。阿根廷衛生部在12日釋出的報告中說，沒有發現攜帶漢坦病毒的齧齒類動物。4月1日，荷蘭“泛海探險”公司運營的“洪迪厄斯”號郵輪從阿根廷火地島省首府烏斯懷亞出發前往非洲島國維德角，途中暴發漢坦病毒疫情，造成3人死亡。世界衛生組織官員曾表示，“洪迪厄斯”號上首個病例可能在郵輪出發之前就被感染。阿根廷專家此前在烏斯懷亞進行調查後表示，尚無證據表明在當地捕獲的齧齒類動物感染了漢坦病毒。“洪迪厄斯”號上首先發病的荷蘭夫婦在登船前曾前往門多薩省。（央視新聞）
+
+---
+
+### 2026-06-13 16:37:10  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+India's pollution regulator found a Tata Group factory supplying iPhone components to Apple (AAPL.O) contaminated groundwater beneath nearby farmland.
+
+---
+
+### 2026-06-13 16:36:51  #國際
+
+伊朗司法部門表示，此次大赦不包括涉及危害安全罪行的人員以及最近事件中的人員。
+
+---
+
+### 2026-06-13 16:36:46  #國際
+
+伊朗司法部門表示，在伊斯蘭共和國最高領袖的批准下，139名被判處死刑的囚犯獲得赦免，理由是他們表現出悔意、進行了改造並符合獲得寬恕的條件。
+
+---
+
+### 2026-06-13 16:36:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's judiciary chief said Tehran's confrontation with the United States and its allies will not end, and on the anniversary of the 12-day war warned people not to trust Washington.
+
+---
+
+### 2026-06-13 16:35:14  #公司
+
+【江豐電子：公司生產的先端儲存晶片用高純300mm矽靶已批次供貨】江豐電子(300666)在互動平臺表示，公司是全球少數幾家同時具備技術領先優勢與規模化供應能力的高純金屬濺射靶材製造商。公司生產的先端儲存晶片用高純300mm矽靶已批次供貨，超高純鎢靶、銅錳合金靶等高階品類已應用於先進儲存晶片製造中，目前只有公司及頭部跨國企業掌握了生產上述產品的核心技術。
+
+---
+
+### 2026-06-13 16:33:26  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Ebrahim Aziz, head of Iran's parliamentary National Security Committee, said the bill's official title is the Persian Gulf and Strait of Hormuz Security, Development and Progress Act and, if approved by parliament, would become a complete and comprehensive law.
+
+---
+
+### 2026-06-13 16:33:16  #MKT News #WTI #Impact bullish #Brent
+
+Ebrahim Aziz, chairman of the Iranian parliament's National Security Committee, said a proposed bill on managing the Strait of Hormuz will set transit rules and define Iran's national rights.
+
+---
+
+### 2026-06-13 16:33:14  #公司
+
+塔塔集團稱，獨立調查顯示其“完全符合所有監管規定”。
+
+---
+
+### 2026-06-13 16:33:05  #公司 #國際
+
+印度汙染監管機構發現，塔塔集團的蘋果iPhone零部件工廠汙染了附近農田的地下水。監管機構警告塔塔集團，若不就自身立場作出解釋，將面臨強制關停與斷電處罰。
+
+---
+
+### 2026-06-13 16:32:30  #國際
+
+伊朗司法總監表示，德黑蘭與美國及其盟友的對抗不會結束，他借12天戰爭週年紀念日的資訊，警告不要信任華盛頓。
+
+---
+
+### 2026-06-13 16:31:07  #國際
+
+伊朗議會國家安全與外交政策委員會主席易卜拉欣·阿齊茲表示，一項關於霍爾木茲海峽管理的法案提案將涵蓋過境規則以及他所稱的伊朗民族的權利。阿齊茲表示，該提案正式名稱為《波斯灣和霍爾木茲海峽安全、發展和進步法案》，如果獲得議會透過，將成為一部“完整而全面的”法律。
+
+---
+
+### 2026-06-13 16:30:13  #其他
+
+市場訊息：英國零售巨頭Sainsbury正在尋找董事長馬丁·西克盧納的繼任者。
+
+---
+
+### 2026-06-13 16:29:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Expert: US-Iran ceasefire memorandum likely limited in scope and effectiveness】Qin Tian, deputy director of the Middle East Institute at the China Institute of Contemporary International Relations, said that based on currently disclosed information the imminent US‑Iran ceasefire memorandum is likely to be limited in both content and effect. He said Washington and Tehran have divergent readings of the text, the memorandum leaves key bilateral disputes unresolved for later negotiations, and ongoing military risks — including US‑Iran standoffs in the Persian Gulf and Strait of Hormuz and Israeli strikes on Hezbollah in southern Lebanon — could spark wider Iran‑Israel clashes and undermine further talks.
+
+---
+
+### 2026-06-13 16:22:03  #國際
+
+【美多地遭強風暴襲擊 致多人死亡】據美國方面訊息，12日，美國東部地區的強風暴加劇，造成1人死亡。風暴覆蓋紐約、費城、華盛頓特區等地。此前一天，在美國中西部地區肆虐的風暴造成至少3人死亡。近日，強風暴持續席捲美國多地，給伊利諾伊、密蘇里、艾奧瓦等多州帶來龍捲風、雷暴、強降雨等惡劣天氣，造成房屋受損、樹木倒伏，電力中斷。（央視新聞）
+
+---
+
+### 2026-06-13 16:16:39  #MKT News
+
+【Zhipu says GLM-5.2 to open to all GLM Coding Plan users】Zhipu said GLM-5.2 will be made available today at 17:21 to all GLM Coding Plan users, covering Lite, Pro, Max and Team tiers. The GLM-5.2 API will go live next week and the model will be open-sourced under the MIT license next week.
+
+---
+
+### 2026-06-13 16:14:26  #其他
+
+【智譜：GLM-5.2將面向GLM Coding Plan全量使用者開放】據智譜訊息，今天下午5:21，GLM-5.2將面向GLM Coding Plan全量使用者開放，覆蓋Lite/Pro/Max/團隊版。GLM-5.2 API將於下週上線，模型下週正式開源，遵循MIT協議。
+
+---
+
+### 2026-06-13 16:14:06  #其他
+
+【《金融資訊服務資料分類分級指南》為什麼將一般資料進一步細分為“敏感一般資料”等？國家網信辦回應】近日，國家網際網路資訊辦公室等部門聯合印發《金融資訊服務資料分類分級指南》（以下簡稱《指南》）。國家網際網路資訊辦公室有關負責同志就《指南》回答了記者提問。問：《指南》為什麼將一般資料進一步細分為“敏感一般資料”“常規一般資料”？答：根據《金融資訊服務管理規定》，金融資訊服務是指向從事金融分析、金融交易、金融決策或者其他金融活動的使用者提供可能影響金融市場的資訊和/或者金融資料的服務。從服務的物件看，金融資訊服務面向金融相關的使用者，向使用者提供的資訊或資料可能影響金融市場穩定；從提供的資料看，金融資訊服務資料涉及金融市場資料、宏觀經濟資料、農林牧漁等行業指標資料，資料內容相對敏感。為此，《指南》結合金融資訊服務領域的特殊性和所掌握資料的敏感性，在國家資料分類分級保護制度框架下，對一般資料作了細分，將一旦被洩露或篡改、損毀，對經濟執行、社會穩定、公共利益有一定影響，或者對組織自身或者公民個體造成重要影響的資料，劃分為敏感一般資料，旨在推動金融資訊服務提供者加強對此類資料的安全保護。
+
+---
+
+### 2026-06-13 16:06:26  #其他
+
+【《金融資訊服務資料分類分級指南》印發】近日，國家網際網路資訊辦公室、中國人民銀行、國家金融監督管理總局、中國證券監督管理委員會、國家統計局、國家外匯管理局聯合印發《金融資訊服務資料分類分級指南》（以下簡稱《指南》）。《指南》銜接《金融資訊服務管理規定》，適用於在中華人民共和國境內從事金融資訊服務的金融資訊服務提供者開展資料分類分級和重要資料識別工作。《指南》不適用於涉及國家秘密的資料和軍事資料。在資料分類方面，《指南》按照金融資訊服務資料的業務屬性進行分類，其中一級分類為業務資料、使用者資料和企業資料3類，在此基礎上進一步細分二級分類9類、三級分類67類。在分級方面，《指南》參照國家標準GB/T 43697-2024《資料安全技術 資料分類分級規則》，根據金融資訊服務資料在經濟社會發展中的重要程度和敏感程度，以及一旦遭到洩露、篡改、損毀或者非法獲取、非法使用、非法共享，對國家安全、經濟執行、社會秩序、公共利益、組織權益、個人權益造成的危害程度，將資料從高到低分為四級，分別為核心資料、重要資料、敏感一般資料、常規一般資料。
+
+---
+
+### 2026-06-13 16:03:49  #MKT News
+
+Elon Musk says SpaceX could launch roughly five times as many satellites over the next ~5 years as the rest of the world combined.
+
+---
+
+### 2026-06-13 16:03:29  #MKT News #Market Regions #Greater China
+
+【China issues Guidelines on Classification and Grading of Financial Information Service Data】To guide financial information service providers on data classification, grading and identification of important data and to strengthen financial information data security, the Cyberspace Administration of China, the People’s Bank of China, the National Financial Regulatory Administration, the China Securities Regulatory Commission, the National Bureau of Statistics and the State Administration of Foreign Exchange jointly issued the Guidelines on Classification and Grading of Financial Information Service Data, under the Cybersecurity Law, Data Security Law, Personal Information Protection Law, the Regulations on Network Data Security Management and the Regulations on the Administration of Financial Information Services.
+
+---
+
+### 2026-06-13 16:03:13  #其他
+
+【《金融資訊服務資料分類分級指南》印發】為指導金融資訊服務機構開展資料分類分級和重要資料識別工作，提升金融資訊服務資料安全水平，依據《中華人民共和國網路安全法》、《中華人民共和國資料安全法》、《中華人民共和國個人資訊保護法》、《網路資料安全管理條例》、《金融資訊服務管理規定》等法律法規規章和政策規定，國家網際網路資訊辦公室、中國人民銀行、國家金融監督管理總局、中國證券監督管理委員會、國家統計局、國家外匯管理局制定了《金融資訊服務資料分類分級指南》。（網信辦）
+
+---
+
+### 2026-06-13 16:01:17  #MKT News
+
+Lithuania's State Emergency Management Centre said an object detected in Lithuanian airspace was a meteorological balloon, not a drone.
+
+---
+
+### 2026-06-13 16:01:06  #其他
+
+立陶宛國家危機管理中心：在立陶宛領空探測到的物體是氣象氣球，而非無人機。
+
+---
+
+### 2026-06-13 16:00:26  #公司 #國際
+
+馬斯克：在大約5年內，SpaceX發射的衛星數量可能比世界其他地區多約5倍。
+
+---
+
+### 2026-06-13 15:56:10  #公司
+
+【國壽資產近期落地首筆“南向通”交易】記者6月13日從國壽資產獲悉，近期公司順利落地首筆“南向通”交易。國壽資產表示，接下來將在監管部門的指導下，有序開展“南向通”業務，穩慎推進全球資產配置，不斷提升國際化發展水平。此外，記者注意到，近期泰康資產也成為首批受託開展“南向通”業務的保險資產管理公司之一，並順利完成首筆投資交易。泰康資產表示，當前宏觀新形勢下，保險資金運用面臨較大的收益匹配、久期匹配等資產配置需求，“南向通”業務亦有助於保險資金增配長期限資產，爭取改善長期投資回報水平。（中證金牛座）
+
+---
+
+### 2026-06-13 15:50:47  #其他
+
+【科大訊飛釋出星火多模態大模型X2-VL】據“無錫釋出”，6月11日，在錫舉行的2026長三角機器人及自動化展覽會暨無錫具身智慧機器人產業鏈夥伴大會上，科大訊飛釋出星火多模態大模型X2-VL。這款綜合國產多模態大模型，將為無錫具身智慧產業搭載硬核“AI大腦”。
+
+---
+
+### 2026-06-13 15:46:26  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+Lithuanian State Emergency Operations Centre said it issued an alert to residents of Vilnius after a suspicious military drone was detected in Lithuanian airspace and has scrambled NATO military jets.
+
+---
+
+### 2026-06-13 15:41:46  #其他
+
+立陶宛國家危機管理中心：因在立陶宛領空發現疑似軍用無人機，已向維爾紐斯居民發出警報，已召集北約軍機。
+
+---
+
+### 2026-06-13 15:34:34  #MKT News
+
+【Russia lodges protest with US over blocked G20 participation】Russia's special representative for G20 and APEC affairs said on the 13th that Moscow's participation in the US-hosted G20 summit in December is being obstructed after the Russian Union of Industrialists and Entrepreneurs and the Russian Academy of Sciences were added to US sanctions lists, preventing related personnel from entering the United States. Moscow has submitted diplomatic protests and warned it will not recognise a G20 summit or its outcomes held without Russian participation. The summit is scheduled for Dec. 14-15 in Miami.
+
+---
+
+### 2026-06-13 15:33:32  #公司 #國際
+
+【俄方就G20參會受阻向美方提出交涉】當地時間13日，俄羅斯外交部負責二十國集團（G20）和亞太經合組織事務的特別代表別爾德耶夫稱，俄方參加今年12月美國主辦的G20峰會受阻，原因是俄羅斯工業家和企業家聯盟、俄羅斯科學院被美國列入制裁名單，相關人員無法入境美國。別爾德耶夫表示，俄方不接受這一做法，已透過外交渠道向美方提出系列交涉，並警告不會承認沒有俄羅斯參與的G20會議及其成果。
+
+---
+
+### 2026-06-13 15:31:22  #市場 #國際
+
+【俄外交部：期望與中國在電影等人文領域加強合作】俄羅斯外交部發言人扎哈羅娃日前在例行記者會上表示，俄中在電影領域的合作在雙方人文合作中佔有特殊地位，俄方期望與中國在人文領域持續加強合作。“2026中國電影節”於6月8日至14日在莫斯科、葉卡捷琳堡、符拉迪沃斯託克舉行，電影節期間展映《長安的荔枝》《長安三萬裡》《海的盡頭是草原》等多部中國電影以及中俄合拍電影《紅絲綢》。（新華社）
+
+---
+
+### 2026-06-13 15:29:14  #國際
+
+以色列軍方電臺：24 小時內，一架與真主黨有關的無人機第二次侵犯以色列北部領空。
+
+---
+
+### 2026-06-13 15:25:29  #公司
+
+【雲南銅業：今年以來硫酸銷售價格持續處於高位】雲南銅業近日接受機構調研時表示，根據公司2026年度生產計劃，硫酸全年計劃產量為576萬噸。2026年一季度，硫酸產量按計劃有序推進。價格方面，硫酸作為銅冶煉的副產品，其售價受區域市場供需、運輸條件及行業景氣度等多重因素影響。今年以來，受下游需求旺盛、部分產區供應偏緊等影響，硫酸銷售價格持續處於高位。公司緊抓市場機遇，合理安排生產與銷售，實現了對經營業績的積極貢獻。同時，公司將持續關注價格變化，動態最佳化產銷節奏。
+
+---
+
+### 2026-06-13 15:23:32  #其他
+
+【增途資本創始合夥人張宇：未來重要的是品牌出海和本地工廠的建設】在今日“2026中國企業全球影響力對話”上，增途資本創始合夥人張宇凡在主旨演講《全球視野·本地智慧新興市場投資機遇與挑戰》中表示，中國擁有供應鏈、經驗、人才和資本等諸多優勢，此前是貿易和供應鏈出海，未來更重要的是品牌出海，以及本地工廠的建設。在具體方向上，他建議關注電商、零售、雜貨、交通運輸、日化、建材，以及醫療器械等。
+
+---
+
+### 2026-06-13 15:15:39  #其他
+
+【提升極端天氣災害防範應對能力 多部門聯合會商築牢防線】6月12日，國家防減救災委辦公室組織教育部、公安部、住房城鄉建設部、交通運輸部、文化和旅遊部、廣電總局、體育總局和中國氣象局等部門單位，召開極端天氣預警和應急響應聯動協同工作機制專題會議，進一步提升極端天氣災害防範應對能力。
+
+---
+
+### 2026-06-13 15:12:05  #公司 #國際
+
+【CEGA韓雷蒙：北非擁有多重優勢，企業應當抱團出海、集體作戰】在今日（6月13日）舉辦的“2026中國企業全球影響力對話”上，集團執行董事、CEGA中非經濟合作中心執行理事長韓雷蒙圍繞《立足地緣格局重塑出海座標——優選北非撬動歐非中東市場》發表主旨演講，他指出，北非擁有關稅、物流、渠道、貿易服務區等優勢，建議企業“抱團出海、集體作戰”，共享前倉後店、分層次本地化採購、聯合組裝線，從而降低企業成本。
+
+---
+
+### 2026-06-13 15:11:41  #公司 #國際
+
+【今日特朗普要聞】
+1、特朗普稱伊朗洩露的協議條款與事實毫無關係，並譴責伊朗襲擊霍爾木茲海峽船隻。
+2、特朗普在社交平臺轉發伊朗外長相關推文截圖，認為對方表態積極，要求伊方澄清不實的協議細節報道，並預估美伊協議或於本週末或下週一簽署。
+3、特朗普稱伊朗襲擊印度船隻的行為不可接受。
+4、特朗普政府禁止境外主體獲取 Anthropic旗下Mythos 5與Fable 5兩款人工智慧模型模型。
+5、特朗普在真實社交上發帖稱與委內瑞拉聯合打擊了阿拉瓜販毒集團頭目。
+
+---
+
+### 2026-06-13 15:10:28  #公司 #市場
+
+【美格智慧：儲存晶片價格上漲成本在合理、有序向下遊客戶傳導】美格智慧6月11日接受機構調研時表示，公司目前存貨金額較大，其中很大部分是儲存晶片備貨。在儲存晶片漲價早期，公司根據研發專案、訂單情況，及對儲存晶片行情預測，為保證客戶訂單順利交付，進行了較大金額的戰略備貨，對後續產品利潤有正面影響。儲存晶片價格上漲成本，我們在合理、有序向下遊客戶傳導，比如車載產品、海外運營商5G產品等，都進行了價格調整。
+
+---
+
+### 2026-06-13 15:08:18  #其他
+
+【湖南釋出暴雨黃色預警】湖南省氣象臺13日8時釋出暴雨黃色預警：預計13日8時至14日8時，湘東、湘南部分地區將出現暴雨，其中永州南部、郴州西南部局地有大暴雨，並伴有短時強降水、雷雨大風等強對流天氣。黃色預警區域為株洲南部、長沙東部、衡陽南部、永州、郴州。（新華社）
+
+---
+
+### 2026-06-13 15:08:02  #公司 #國際
+
+美國國家公路交通安全管理局 (NHTSA) ：福特汽車在美國召回 4,445 輛汽車，涉及部分 2017 款 F-150 皮卡，這些車輛此前曾因召回編號 17V053 的問題而進行過不當維修。在寒冷環境下首次啟動車輛後，儀表盤可能會斷電。包括變速箱檔位指示器在內的多個儀表可能無法點亮。儀表盤若無法顯示關鍵安全資訊（例如檔位或警告燈），會增加碰撞或受傷的風險。
+
+---
+
+### 2026-06-13 15:08:00  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Al Jazeera reported Israel carried out a second airstrike on the town of Mahmudiyeh in the Jezzine district of southern Lebanon.
+
+---
+
+### 2026-06-13 15:04:37  #國際
+
+【近六成美國人認為到2050年美國重要性將減弱】美國皮尤研究中心12日釋出的一項民意調查顯示，在美國獨立250週年之際，美國民眾普遍情緒悲觀，約58%受訪者認為到2050年美國在全球的重要性將減弱。這項民調結果顯示，多數美國人對美國在2050年前的發展前景持消極看法：其中三分之二的受訪者認為美國政治將愈加分裂，56%認為美國的居住環境將更加危險，55%預判美國經濟將走弱，54%擔心美國政府系統執行將惡化。（新華社）
+
+---
+
+### 2026-06-13 14:58:11  #行業 #公司 #市場
+
+【李斌：今年5月國內純電滲透率已經超過油車，純電趨勢不可逆轉只會加速】在2026中國汽車重慶論壇閉幕全體會議上，蔚來創始人、董事長、CEO李斌發表演講。他表示，汽車行業進入決賽最殘酷的競爭階段，今年的市場環境非常難，特別是國內零售市場。乘聯會資料顯示，今年1-5月，國內零售市場同比下降了19.5%。“下半年會逆勢增長嗎？我們自己認為是不會。整個行業應該做好全年國內零售量同比下跌15%-20%的心理準備。全國乘用車保有量是3.7億輛，很多人家裡面已經不止一臺車了，汽車行業開始進入到存量時代。”另外，他認為，從今年開始進入純電拐點加速爬升的階段。乘聯會資料顯示，今年5月新能源的滲透率已經到了62.9%，純電在新能源裡的滲透率到了67.1%，意味著純電在整個汽車裡的滲透率已經到了42.2%。事實上，今年5月純電在所有的動力形式裡已經是第一名，已經超過了油車。“我們認為還會進一步提速，最終終局是什麼樣？其實挪威給了很好的一個例子，已經達到了98%的新能源滲透率，98％裡面有98％是純電，大概算下來差不多96％就是純電。我們認為這個趨勢是不可逆轉的，而且它只會加速。”（新浪科技）
+
+---
+
+### 2026-06-13 14:56:46  #公司
+
+【上海網信辦：針對上海攜程商務有限公司未落實資料出境安全評估要求、違法出境個人資訊等行為，予以罰款1000萬元處罰】近期，在國家網信辦指導下，上海市網信辦針對屬地部分企業網路資料安全主體責任履行不到位、安全管理防護措施缺失、後端處理資料合規能力不足、資料出境合規審計不嚴等問題辦理了一批執法案件。其中，針對上海攜程商務有限公司未落實資料出境安全評估要求、違法出境個人資訊等行為，依據《個人資訊保護法》，予以罰款1000萬元的行政處罰，並責令企業限期改正。企業受處罰後積極配合，全面落實有關整改要求。（網信上海）
+
+---
+
+### 2026-06-13 14:54:30  #MKT News #Market Themes #AI Revolution
+
+【Seoul bans AI smart glasses for students in final exams】Seoul Metropolitan Office of Education said on the 12th it sent a notice the previous day to city primary and secondary schools and district education offices banning candidates from wearing AI-enabled smart glasses during final exams. The office listed the devices as prohibited exam items and instructed schools to notify students and parents that bringing such glasses into exam rooms will be treated as cheating.
+
+---
+
+### 2026-06-13 14:49:30  #國際
+
+印度空軍宣告：印度空軍一架安 - 32 運輸機今日在焦爾哈特降落時發生事故。我方已成立調查法庭，徹查事故原因。
+
+---
+
+### 2026-06-13 14:43:35  #公司
+
+【以科創板改革之力託舉硬科技未來】《中國證券報》13日刊發評論員文章《以科創板改革之力託舉硬科技未來》。文章稱，6月13日，科創板迎來開板七週年。七年前，這塊資本市場全面深化改革的“試驗田”正式啟動；七年後，碩果盈枝，“硬科技”的成色在時間的淬鍊中愈發鮮明——超600家上市公司、超14萬億元總市值、近萬億元首發募資，科創板已從初創時的點點星火，匯聚成培育新質生產力的廣袤“生態林”。（新華社）
+
+---
+
+### 2026-06-13 14:42:29  #國際
+
+歐洲地中海地震中心(EMSC)：秘魯與厄瓜多邊境地區發生5.5級地震。
+
+---
+
+### 2026-06-13 14:42:15  #MKT News
+
+EMSC reports a magnitude 5.5 earthquake in the Peru-Ecuador border region.
+
+---
+
+### 2026-06-13 14:40:31  #國際
+
+【首爾禁止中小學生戴AI眼鏡參加期末考試】韓國首都首爾市教育廳12日說，已於前一日向該市中小學校及轄區教育部門下發通知，禁止考生戴AI智慧眼鏡參加期末考試。據韓國《中央日報》報道，首爾市教育廳擔心學生利用AI眼鏡在期末考試中作弊，因此將其列入考場違禁物品清單。這份通知要求學校提前告知學生及家長，如攜帶這類眼鏡進入考場，將一律按作弊處理。（新華社）
+
+---
+
+### 2026-06-13 14:39:06  #MKT News #AMD.O #Impact bearish
+
+【Cathie Wood's ARK Invest buys SpaceX stock, trims AMD holdings】ARK Invest disclosed June 12, 2026 trades showing a material shift: multiple ARK ETFs bought a combined 3,291,184 shares of SpaceX for $444,309,840, while ARKQ, ARKW and ARKX sold a total of 80,536 AMD shares for $39,337,809, extending a recent reduction in AMD exposure and signaling increased interest in the space-technology sector.
 
 ---
 
@@ -22297,719 +22650,5 @@ Crypto Updates: Ether Rises by 3.65% — Top crypto gainers are Ether (3.65%), B
 ### 2026-06-12 02:28:26  #公司 #國際
 
 據倫敦證券交易所集團-理柏（LSEG Lipper）：6月10日當週，美國槓桿貸款基金獲得2.954億美元資金流入，連續十週流入。
-
----
-
-### 2026-06-12 02:25:41  #市場
-
-維珍銀河在SpaceX上市前上漲21%。
-
----
-
-### 2026-06-12 02:25:33  #MKT News #SPCE.N #Impact bullish
-
-Virgin Galactic (SPCE.N) rose 21% ahead of SpaceX's IPO.
-
----
-
-### 2026-06-12 02:25:00  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Gains by 2.72% — Top commodity gainers are Coffee (2.72%) and Cotton (1.31%). Biggest losers are Corn (-1.89%), Rubber (-1.46%) and Rice (-1.17%).
-
----
-
-### 2026-06-12 02:24:59  #MKT News #Important
-
-Fars News Agency, citing informed sources, reported Iran has not reached agreement on any documents to sign a memorandum of understanding with the United States.
-
----
-
-### 2026-06-12 02:23:42  #焦點 #國際
-
-市場訊息：知情人士表示，伊朗尚未批准任何與美國的協議文字。
-
----
-
-### 2026-06-12 02:23:22  #國際
-
-美國共和黨參議員格雷厄姆：我希望我們確實已經透過外交途徑找到了解決伊朗衝突的方案，而且該方案能夠滿足特朗普總統劃定的紅線，並且與《聯合全面行動計劃》（JCPOA）存在根本性區別。和過去一樣，任何與伊朗核計劃相關並最終達成的協議，都將提交國會審議並批准。我期待這一程式的展開。
-
----
-
-### 2026-06-12 02:23:20  #MKT News
-
-U.S. Republican Senator Lindsey Graham said he hopes a diplomatic solution has been found to the Iran conflict that meets President Trump's red lines and is fundamentally different from the JCPOA. He said any agreement on Iran's nuclear program would be submitted to Congress for review and approval, and he expects that process to proceed.
-
----
-
-### 2026-06-12 02:21:09  #MKT News #Important
-
-Al Arabiya, citing sources, says Iran's foreign minister Araghchi may visit Pakistan this Saturday (June 13).
-
----
-
-### 2026-06-12 02:20:39  #國際
-
-以色列一名官員表示，目前並未獲悉相關協議，對特朗普所稱伊朗領導層已批准協議的說法感到費解。
-
----
-
-### 2026-06-12 02:19:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Rises by 4.01% — Top commodity gainers are Silver (4.01%), Gold (2.06%) and Copper (1.61%). Biggest loser is Iron Ore CNY (-0.97%).
-
----
-
-### 2026-06-12 02:17:28  #焦點 #國際
-
-據沙烏地阿拉伯阿拉比亞電視臺：訊息人士稱，伊朗外長阿拉格齊可能於本週六（6月13日）前往巴基斯坦。
-
----
-
-### 2026-06-12 02:17:23  #Trading Economics #Economy #Uruguay #Industrial Production #Importance 1
-
-Uruguay Industrial Output Growth Slows in April — Uruguay’s industrial production increased 4.0% year-on-year in April 2026, easing from a 9.4% expansion in the previous month. Growth was driven by strong gains in pharmaceutical manufacturing (21.6%), rubber and plastic products (25.2%), and food production (1.7%). On the downside, output declined in motor vehicles (-15.9%), machinery and equipment (-36.4%), and chemical products (-4.2%). Meanwhile, labor market indicators remained weak, with the hours worked index falling 3.2% year-on-year and the occupied personnel index declining 1.5%. In the first four months of 2026, industrial production rose 3.9% compared with the same period a year earlier.
-
----
-
-### 2026-06-12 02:16:43  #其他
-
-英國國防部初級國務大臣卡恩斯：將根據國防計劃的最終結果來決定自己的立場。
-
----
-
-### 2026-06-12 02:16:06  #其他
-
-訊息人士稱，埃克森美孚全球交易主管即將退休。
-
----
-
-### 2026-06-12 02:16:06  #MKT News
-
-UK Ministry of Defence Minister of State Kearns said he will decide his stance based on the final outcome of the defence plan.
-
----
-
-### 2026-06-12 02:15:53  #MKT News #XOM.O
-
-People familiar with the matter said Exxon Mobil (XOM.N) global head of trading Tracy Gunnlaugson is set to retire.
-
----
-
-### 2026-06-12 02:15:49  #國際
-
-【特朗普宣佈提名傑伊·克萊頓出任美國家情報總監】當地時間6月11日，美國總統特朗普在社交平臺“真實社交”發文稱，他宣佈提名傑伊·克萊頓（Jay Clayton）出任下一任國家情報總監，並作為內閣成員任職。特朗普表示，克萊頓曾任美國證券交易委員會主席，曾領導蘇利文·克倫威爾律師事務所，目前擔任美國紐約南區聯邦檢察官。特朗普呼籲美國參議院儘快確認對他的任命。（央視新聞）
-
----
-
-### 2026-06-12 02:15:00  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Falls by 3.74% — Top commodity losers are Natural Gas EU (-3.74%), Natural gas (-3.04%), Brent Crude Oil (-3%) and Crude Oil WTI (-2.77%).
-
----
-
-### 2026-06-12 02:14:50  #國際
-
-據以色列i24News：以色列決策層今晚曾明確表示，以方正在為局勢升級做準備。然而僅半小時後，特朗普的宣告便令這一表態大打折扣。
-
----
-
-### 2026-06-12 02:14:30  #MKT News #WTI #Impact mixed #XAUUSD #DXY
-
-i24News reported Israeli decision-makers said tonight they were preparing for a potential escalation; roughly 30 minutes later a statement from Trump undercut that assessment.
-
----
-
-### 2026-06-12 02:13:11  #國際
-
-烏克蘭軍方稱其打擊了俄羅斯克拉斯諾達爾地區的阿菲普斯基煉油廠，以及多個與無人機生產相關的設施。
-
----
-
-### 2026-06-12 02:12:10  #MKT News #Important
-
-Israeli Channel 12 reported Israeli officials were surprised by a post from Trump; Prime Minister Netanyahu learned of it during a cabinet meeting.
-
----
-
-### 2026-06-12 02:12:08  #焦點 #國際
-
-據以色列第12頻道：以色列方面對特朗普釋出的帖文感到意外。以色列總理內塔尼亞胡是在內閣會議期間獲悉這一訊息的。
-
----
-
-### 2026-06-12 02:08:27  #市場 #國際
-
-美元指數在特朗普取消對伊朗打擊行動後下跌，最新下跌0.07%，報99.98點。
-
----
-
-### 2026-06-12 02:08:05  #公司 #市場 #觀點 #國際
-
-美國大型銀行股價在特朗普取消對伊朗打擊行動後上漲。摩根大通上漲1.3%，高盛上漲1.8%，富國銀行上漲0.6%，花旗集團上漲2.5%，美國銀行上漲1%，摩根士丹利上漲1.9%。
-
----
-
-### 2026-06-12 02:07:50  #市場 #國際
-
-歐元在特朗普取消對伊朗打擊後兌美元上漲，最新上漲0.07%，報1.15430美元。
-
----
-
-### 2026-06-12 02:07:40  #市場 #國際
-
-特朗普取消對伊朗打擊計劃後，美元兌日元走弱，最新下跌0.17%，報160.27。
-
----
-
-### 2026-06-12 02:06:52  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Maritime analytics firm says small number of vessels still transiting Strait of Hormuz】UK-based maritime analytics firm Windward said satellite and other data show a small number of vessels were still transiting the Strait of Hormuz. Windward’s multi-source analysis showed that at UTC 02:10 on the 11th (Beijing 10:10) three vessels were in the deep-water channel with AIS switched off; two were heading northwest and one north. Public AIS records showed five transits on the 10th–11th: four coastal vessels under 80m exited the Persian Gulf and one general cargo vessel entered the Gulf. Iran’s Persian Gulf Strait Administration said the strait was temporarily closed citing tensions caused by US military activity, and Iran’s armed forces warned violators would be targeted. US Central Command later said the strait remained open to navigation.
-
----
-
-### 2026-06-12 02:06:51  #公司 #焦點 #國際
-
-【海事分析公司稱仍有少量船隻透過霍爾木茲海峽】總部位於英國的海事分析公司溫沃德11日援引衛星影象等分析結果說，當天仍有少量船隻透過霍爾木茲海峽。溫沃德多源情報分析顯示，協調世界時11日2時10分（北京時間11日10時10分），三艘船舶在霍爾木茲海峽深水航道航行，它們關閉了船舶自動識別系統，其中兩艘向西北方向行駛，一艘向北行駛。與此同時，船舶自動識別系統公開資料顯示，10日至11日，共有5艘船舶完成霍爾木茲海峽通航，包括4艘船長不足80米的沿海貨船經海峽駛離波斯灣，一艘普通貨船駛入波斯灣。伊朗波斯灣海峽管理局11日說，鑑於美軍在中東地區製造的緊張局勢，霍爾木茲海峽暫時關閉。伊朗武裝部隊同日表示，違規通行者將成為打擊目標。但美軍中央司令部當天晚些時候稱，霍爾木茲海峽仍然對通航船隻開放。（新華社）
-
----
-
-### 2026-06-12 02:06:18  #MKT News #Important
-
-Iran dismissed Trump’s claim that a deal had been reached, saying he has made that claim 38 times and his statements should be treated like his past lies, Israel Today reported.
-
----
-
-### 2026-06-12 02:06:09  #焦點 #國際
-
-以色列訊息：伊朗方面回應特朗普稱，他此前已38次宣稱達成協議，其言論與過往謊言別無二致。
-
----
-
-### 2026-06-12 02:04:53  #公司
-
-【Tether核心高管離職，重返其創立的私募股權公司】穩定幣巨頭Tether首席商務官Benjamin Habbel在加入該公司僅九個月後便宣佈離職。在此期間，他主要負責推動公司業務及其投資組合的擴張。Habbel表示，他將重返自己聯合創立的私募股權公司Limestone Capital擔任管理合夥人。他指出，Tether是Limestone的投資者，後者目前管理著超過10億美元的資產。兩家公司正計劃深化合作關係。據其官網顯示，Limestone的投資組合包括房地產酒店品牌Aethos和Eterniti。
-
----
-
-### 2026-06-12 02:04:13  #焦點 #國際
-
-據以色列第12頻道記者報道，伊朗否認存在任何協議。以色列方面表示，並不存在這樣的協議。另據以色列i24News報道，兩名以色列官員稱，對特朗普的宣告感到意外，需要等待伊朗方面公佈相關內容，才能判斷這一說法是否準確。
-
----
-
-### 2026-06-12 02:04:05  #MKT News
-
-U.S. President TRUMP nominated Jay Clayton as the next Director of National Intelligence.
-
----
-
-### 2026-06-12 02:03:39  #MKT News #Important
-
-Israel’s Channel 12 reported Iran denied any agreement. Israel said no such agreement exists. i24News reported two Israeli officials were surprised by Trump’s statement and said they would wait for Iran to publish relevant material before judging the claim’s accuracy.
-
----
-
-### 2026-06-12 02:03:22  #MKT News
-
-Politico reports the Pentagon has resumed normal operations after a lockdown.
-
----
-
-### 2026-06-12 02:01:53  #國際
-
-特朗普：JAY CLAYTON將出任國家情報總監。
-
----
-
-### 2026-06-12 02:01:11  #其他
-
-市場訊息：五角大樓在封鎖後恢復正常運作。
-
----
-
-### 2026-06-12 01:58:57  #市場 #國際
-
-美國能源企業股價下跌，因特朗普宣佈取消對伊朗的打擊行動。埃克森美孚下跌1.7%，雪佛龍下滑1.4%，西方石油走低1.2%，康菲石油下挫2.5%。
-
----
-
-### 2026-06-12 01:58:33  #國際
-
-市場訊息：印度免除核電相關進口商品關稅。
-
----
-
-### 2026-06-12 01:57:31  #焦點 #國際
-
-【美媒披露美伊協議談判幕後：三大分歧已在卡達斡旋下縮小】據報道，特朗普此前已多次聲稱協議接近達成，而德黑蘭尚未證實他的最新說法。不過，三名聽取談判情況簡報的訊息人士表示，伊朗官員與卡達調解人週三會談期間，關鍵分歧已得到化解。談判在德黑蘭持續至週三深夜，卡達特使阿里·薩瓦迪與伊朗外長阿拉格齊努力彌合美國與伊朗之間剩餘的分歧。訊息人士稱，卡達方面和伊朗方面週三認為，他們已達成一份美國也會接受的協議文字。雙方在三個關鍵問題上的分歧已縮小：釋放伊朗被凍結資產的機制——這是伊朗方面最重要的問題；在60天停火期內重新開放霍爾木茲海峽的安排；在60天停火期內如何就伊朗核計劃進行談判。訊息人士稱，伊朗官員週四告訴多個國家，德黑蘭會談已產生一項原則性協議，但最高領袖穆傑塔巴仍需給予最終批准。
-
----
-
-### 2026-06-12 01:57:31  #MKT News #Important #WTI #Impact bearish #XAUUSD #DXY
-
-【Axios: Qatar mediation narrows three key U.S.-Iran differences】Axios reported three sources said Qatar-mediated talks narrowed three major U.S.-Iran differences during meetings that ran into Wednesday night. Qatar and Iranian delegations told sources they had a text they believed the U.S. would accept. The gaps narrowed on: a mechanism for releasing Iran’s frozen assets (Tehran’s top priority); arrangements to reopen the Strait of Hormuz during a 60-day ceasefire; and how to negotiate Iran’s nuclear program during that 60-day pause. Iranian officials told multiple countries on Thursday the talks in Tehran produced a principled agreement, but final sign-off from the Supreme Leader is required. Earlier, Trump publicly said a deal was near; Iran has not confirmed that claim.
-
----
-
-### 2026-06-12 01:55:54  #市場
-
-週四（6月11日），韓元兌美元最終跌0.71%，報1531.91韓元，全天持續走低。
-
----
-
-### 2026-06-12 01:55:47  #市場 #國際
-
-美國上市黃金白銀礦商股價上漲，此前特朗普取消對伊朗的打擊行動。科倫礦業上漲5.5%，赫克拉礦業上漲3.7%，奮進白銀上漲6.2%。紐蒙特礦業上漲4.2%，巴里克黃金漲4.4%，金田公司上揚5.7%。
-
----
-
-### 2026-06-12 01:53:31  #國際
-
-特朗普表示，伊朗相關協議基本敲定，伊朗方面已於昨晚向卡達調停方提交最終版諒解備忘錄。
-
----
-
-### 2026-06-12 01:52:46  #國際
-
-三位知情人士向媒體透露：伊朗官員與卡達調解人於週三的會談中解決了關鍵分歧。
-
----
-
-### 2026-06-12 01:51:33  #其他 #焦點
-
-費城半導體指數漲5.28%。
-
----
-
-### 2026-06-12 01:50:52  #MKT News #Market Regions #Wall Street (US) #CCL.O #Impact bullish #RCL.O #AAL.O
-
-U.S. airline and cruise stocks rallied after Trump called off a planned strike on Iran. Carnival Corp. rose 6.1%, Norwegian Cruise Line 5.9%, Royal Caribbean 5.3%; American Airlines 6.0%, JetBlue 6.5%, United Airlines 6.8% and Delta Air Lines 5.3%.
-
----
-
-### 2026-06-12 01:50:48  #公司 #市場 #國際
-
-美國航空公司和郵輪運營商股票在特朗普取消對伊朗的打擊後上漲，嘉年華公司上漲6.1%。挪威郵輪公司上漲5.9%，皇家加勒比海郵輪上漲5.3%，美國航空上漲6%，捷藍航空上漲6.5%，聯合航空上漲6.8%，達美航空上漲5.3%。
-
----
-
-### 2026-06-12 01:49:45  #其他
-
-【2026年美加墨世界盃正式開幕】當地時間6月11日，2026年美加墨世界盃正式開幕。當天11時30分許，2026美加墨世界盃開幕式表演在墨西哥城體育場開始。（央視新聞）
-
----
-
-### 2026-06-12 01:49:34  #MKT News
-
-【2026 US-Canada-Mexico World Cup officially opens】The 2026 US-Canada-Mexico World Cup officially opened on June 11; the opening ceremony began at about 11:30 a.m. local time at the Mexico City stadium.
-
----
-
-### 2026-06-12 01:49:18  #國際
-
-據紐約時報記者：特朗普總統剛剛告知我，與伊朗達成的協議已“基本上大功告成”。
-
----
-
-### 2026-06-12 01:49:15  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-A New York Times reporter said President Trump just told him a deal with Iran was 'basically done'.
-
----
-
-### 2026-06-12 01:46:51  #國際
-
-新興市場股指收復日內跌幅，因特朗普取消軍事打擊行動。
-
----
-
-### 2026-06-12 01:46:35  #MKT News #XAUUSD #Impact bullish
-
-Spot gold rose above $4,170/oz, gaining 2.44% on the day.
-
----
-
-### 2026-06-12 01:46:07  #市場 #焦點
-
-納指漲幅達2%，道指漲1.6%，標普500指數漲1.3%。
-
----
-
-### 2026-06-12 01:46:07  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish #S&P500 #Dow
-
-Nasdaq Composite rose 2.0%, the Dow gained 1.6% and the S&P 500 rose 1.3%.
-
----
-
-### 2026-06-12 01:45:27  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-Markets no longer fully price in a Fed interest-rate hike this year.
-
----
-
-### 2026-06-12 01:44:44  #央行 #國際
-
-交易員將美聯儲加息時間的預期從12月推後至2027年1月。
-
----
-
-### 2026-06-12 01:44:38  #市場 #焦點
-
-納指漲2.00%，現報25673.009點；道指漲1.75%，現報50794.109點；標普500指數漲1.48%，現報7374.280點。
-
----
-
-### 2026-06-12 01:44:34  #Trading Economics #Markets #commodity #Importance 0
-
-Silver is up by 5.01% — Silver increased 5.01% to 66.571 USD/t.oz
-
----
-
-### 2026-06-12 01:44:30  #市場 #焦點
-
-上海原油連續主力合約日內跌5%，現報556.30元。
-
----
-
-### 2026-06-12 01:44:29  #MKT News
-
-Kuwait's Civil Aviation Authority said it has sent a third protest note to the International Civil Aviation Organization over an attack on radar facilities at Kuwait airport.
-
----
-
-### 2026-06-12 01:44:11  #MKT News #Important
-
-Kuwait Civil Aviation Authority said radar facilities at Kuwait International Airport were attacked on Thursday morning, injuring personnel and causing severe damage to radar and air-traffic management equipment.
-
----
-
-### 2026-06-12 01:44:01  #市場
-
-墨西哥主要股指上漲2%。
-
----
-
-### 2026-06-12 01:43:51  #國際
-
-烏克蘭證實昨晚襲擊了俄羅斯阿菲普斯基煉油廠。
-
----
-
-### 2026-06-12 01:43:42  #央行 #國際
-
-交易員不再完全計入美聯儲今年加息的預期。
-
----
-
-### 2026-06-12 01:43:22  #MKT News
-
-Mexico's main stock index rose 2%.
-
----
-
-### 2026-06-12 01:43:13  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-【Spot gold up 2.20% to $4,160/oz; spot silver up 5.00% to $66.55/oz】Spot gold climbed to $4,160/oz, up 2.20% on the day. Spot silver jumped 5.00% to $66.55/oz; New York silver futures rose over 3.00% to $66.69/oz.
-
----
-
-### 2026-06-12 01:43:04  #其他
-
-科威特民航局在一份宣告中表示，已就科威特機場雷達遭針對性襲擊一事向國際民用航空組織（ICAO）發出第三份抗議函。
-
----
-
-### 2026-06-12 01:42:19  #市場 #焦點
-
-紐約期金突破4190美元/盎司，日內漲1.38%。
-
----
-
-### 2026-06-12 01:42:16  #市場 #焦點
-
-白銀連續主力合約日內漲3%，現報15958.00元。
-
----
-
-### 2026-06-12 01:42:15  #市場
-
-紐約期銀日內漲3%，現報66.70美元/盎司。
-
----
-
-### 2026-06-12 01:42:05  #市場 #焦點
-
-現貨黃金突破4160美元/盎司，日內漲2.29%。
-
----
-
-### 2026-06-12 01:41:16  #市場 #焦點
-
-紐約期金突破4180美元/盎司，日內漲1.13%。
-
----
-
-### 2026-06-12 01:41:01  #國際
-
-美國五角大樓發言人表示，大樓內暫無安全險情。
-
----
-
-### 2026-06-12 01:39:34  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-New York gold futures' intraday gain widened to 1.00%, trading at $4,174.90/oz.
-
----
-
-### 2026-06-12 01:39:31  #市場
-
-現貨黃金日內漲2%，現報4153.03美元/盎司。
-
----
-
-### 2026-06-12 01:39:24  #市場
-
-紐約期金日內漲1%，現報4175.00美元/盎司。
-
----
-
-### 2026-06-12 01:39:19  #市場 #國際
-
-巴西雷亞爾上漲 1.4%，創兩個多月最大漲幅，因特朗普取消打擊行動。
-
----
-
-### 2026-06-12 01:38:57  #Trading Economics #Markets #commodity #Importance 0
-
-Heating Oil Hits 7-week Low — Heating Oil decreased to 3.46 USD/Gal, the lowest since April 2026. Over the past 4 weeks, Heating Oil lost 16.37%, and in the last 12 months, it increased 56.68%.
-
----
-
-### 2026-06-12 01:38:53  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-Non-USD currencies gained; the dollar index fell over 30 points intraday to 99.84.
-
----
-
-### 2026-06-12 01:38:52  #市場 #焦點
-
-非美貨幣對上漲，美指短線走低逾30點，現報99.84。
-
----
-
-### 2026-06-12 01:37:56  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US Treasury yields fell after Trump called off strikes on Iran; the 10-year yield dropped 4.7 bps intraday to 4.493% and the 2-year yield fell 2.7 bps to 4.1%.
-
----
-
-### 2026-06-12 01:37:28  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish #Brent
-
-【Spot gold and silver surge; U.S. and Brent crude fall over 5%】Spot gold touched $4,150/oz, up 1.95% intraday. Spot silver breached $66/oz, up 4.13% intraday. U.S. and Brent crude both fell more than 5%, at $87.64/bbl and $89.10/bbl respectively. Trump said he canceled a planned strike on Iran tonight and will announce soon the time and location for signing the agreement.
-
----
-
-### 2026-06-12 01:36:34  #市場 #國際
-
-美國10年期國債收益率最新下跌4.7個基點，報4.493%；美國兩年期國債收益率最新下跌2.7個基點，報4.1%。
-
----
-
-### 2026-06-12 01:36:24  #市場 #焦點
-
-現貨黃金突破4150美元/盎司，日內漲1.97%。
-
----
-
-### 2026-06-12 01:36:15  #市場
-
-鈀金期貨日內漲3%，現報1284.00美元/盎司。
-
----
-
-### 2026-06-12 01:35:55  #焦點 #國際
-
-【特朗普：協議簽署的時間與地點將於近日公佈】特朗普發文稱，鑑於與伊朗伊斯蘭共和國的磋商已上報伊朗最高領導層並獲得批准，我以美國總統身份，取消原定於今晚針對伊朗開展的打擊與轟炸行動。相關磋商內容及最終條款，無論整體框架還是細節，均已獲得美國、以色列、沙烏地阿拉伯、阿聯酋、卡達、土耳其、巴基斯坦、巴林、科威特、約旦、埃及等所有相關方認可。在本次協議正式落地前，海上封鎖措施將全面持續執行。協議簽署的時間與地點將於近日公佈。
-
----
-
-### 2026-06-12 01:35:46  #MKT News #Important #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-【Trump says he has cancelled tonight's strikes on Iran; signing time and place to be announced】President Trump said discussions with the Islamic Republic of Iran were submitted to and approved by Iran’s supreme leadership, and he has cancelled the strikes and bombing planned for tonight. He said the discussions and key points, both in principle and in many details, have been approved by all relevant parties, including the United States, Israel, Saudi Arabia, the UAE, Qatar, Turkey, Pakistan, Bahrain, Kuwait, Jordan, Egypt and others. A maritime blockade will remain fully in effect until the agreement is implemented; the time and place for signing will be announced shortly.
-
----
-
-### 2026-06-12 01:35:46  #MKT News #Important
-
-Brent crude slid to $89/bbl, down 5.06% on the day.
-
----
-
-### 2026-06-12 01:35:08  #市場 #焦點
-
-現貨白銀突破66美元/盎司，日內漲4.13%。
-
----
-
-### 2026-06-12 01:34:56  #市場 #焦點
-
-紐約期金突破4170美元/盎司，日內漲0.89%。
-
----
-
-### 2026-06-12 01:34:32  #市場
-
-現貨白銀日內漲4%，現報65.98美元/盎司。
-
----
-
-### 2026-06-12 01:34:25  #市場 #焦點
-
-WTI原油失守87美元/桶，日內跌3.37%。
-
----
-
-### 2026-06-12 01:33:46  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
-
-【WTI crude down 5% intraday】WTI crude fell below $88/bbl, down 5.09% intraday.
-
----
-
-### 2026-06-12 01:33:44  #市場
-
-紐約期銀日內漲2%，現報66.05美元/盎司。
-
----
-
-### 2026-06-12 01:33:43  #市場 #焦點
-
-現貨黃金突破4140美元/盎司，日內漲1.71%。
-
----
-
-### 2026-06-12 01:33:38  #市場 #焦點
-
-紐約期金突破4160美元/盎司，日內漲0.69%。
-
----
-
-### 2026-06-12 01:33:17  #MKT News #Important #Commodities #Precious Metals
-
-Shanghai silver main contract up more than 2.0% intraday, trading at 15,819.00 yuan/kg.
-
----
-
-### 2026-06-12 01:33:02  #市場 #焦點
-
-白銀連續主力合約日內漲2%，現報15828.00元。
-
----
-
-### 2026-06-12 01:33:01  #市場 #焦點
-
-紐約期銀突破66美元/盎司，日內漲1.96%。
-
----
-
-### 2026-06-12 01:32:59  #市場 #焦點
-
-布倫特原油失守90美元/桶，日內跌3.45%。
-
----
-
-### 2026-06-12 01:32:51  #MKT News #Important #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-All three major U.S. stock indices rose, each gaining more than 1%.
-
----
-
-### 2026-06-12 01:32:48  #市場 #焦點
-
-現貨黃金突破4130美元/盎司，日內漲1.45%。
-
----
-
-### 2026-06-12 01:32:38  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish #Brent
-
-Spot gold jumped $30 intraday to above $4,130/oz, up 1.4% on the day. WTI crude eased about $1 intraday. Brent crude slid $4 to $89.74/bbl, down 4.27% on the day.
-
----
-
-### 2026-06-12 01:32:16  #市場 #國際
-
-油價在特朗普宣佈取消對伊朗打擊後大幅下跌。
-
----
-
-### 2026-06-12 01:32:16  #市場 #焦點
-
-紐約期金突破4150美元/盎司，日內漲0.45%。
-
----
-
-### 2026-06-12 01:31:18  #市場
-
-布倫特原油日內跌3%，現報90.27美元/桶。
-
----
-
-### 2026-06-12 01:31:17  #MKT News #Important #Market Themes #The Trump Trade
-
-Trump said the timing and venue for signing the agreement will be announced shortly.
-
----
-
-### 2026-06-12 01:31:09  #國際
-
-特朗普取消對伊朗的襲擊，彭博美元指數漲幅收窄。
-
----
-
-### 2026-06-12 01:30:58  #市場 #焦點
-
-現貨黃金突破4120美元/盎司，日內漲1.30%。
-
----
-
-### 2026-06-12 01:30:50  #市場 #焦點
-
-上海原油連續主力合約日內跌4%，現報562.30元。
-
----
-
-### 2026-06-12 01:30:50  #市場
-
-WTI原油日內跌3%，現報87.33美元/桶。
-
----
-
-### 2026-06-12 01:30:46  #市場
-
-美股短線拉昇，截至目前，道瓊斯指數漲1.57%，標普500指數漲1.27%，納斯達克綜合指數漲1.65%。
-
----
-
-### 2026-06-12 01:30:45  #市場
-
-現貨白銀日內漲3%，現報65.34美元/盎司。
-
----
-
-### 2026-06-12 01:30:33  #市場 #焦點
-
-【美股三大指數均漲超1%】道指漲1.57%，現報50704.719點；納指漲1.52%，現報25551.141點；標普500指數漲1.28%，現報7359.830點。
-
----
-
-### 2026-06-12 01:30:26  #國際
-
-特朗普：各方已就討論內容和最終要點，在概念和具體細節上達成一致並予以批准。
-
----
-
-### 2026-06-12 01:30:25  #市場 #焦點
-
-現貨白銀突破65美元/盎司，日內漲3.00%。
 
 ---
