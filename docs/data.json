@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-17 12:17:57",
-  "count": 18342,
+  "updated": "2026-06-17 12:21:52",
+  "count": 18345,
   "items": [
+    {
+      "id": "4939948",
+      "time": "2026-06-17 12:21:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快手：今年以來，配合有關部門抓獲34名劇情演繹詐騙犯罪嫌疑人】6月17日，快手發文透露，今年以來，快手安全中心協助有關部門抓獲劇情演繹詐騙犯罪嫌疑人共34名。"
+    },
+    {
+      "id": "4939947",
+      "time": "2026-06-17 12:20:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【司機打瞌睡全程95%靠智駕？哈囉道歉：已被平臺永久封禁】對於有使用者反映，哈囉順風車司機被指打瞌睡全程95%靠智駕，6月17日，哈囉回應記者稱，哈囉平臺收到相關舉報後已於第一時間介入調查。本次事件中車主行為已構成危險駕駛，觸及平臺安全紅線，已被平臺永久封禁。哈囉介紹，對乘客的不良體驗深表致歉，目前正在與乘客溝通補償事宜。哈囉將進一步加大對平臺註冊車主的安全駕駛宣講力度，明確獎懲規則，對涉及乘客安全的問題哈囉一直秉承零容忍的態度。如廣大乘客在行程中遇到安全隱患，可隨時撥打安全專線，平臺將第一時間介入。（新京報貝殼財經）"
+    },
+    {
+      "id": "4939946",
+      "time": "2026-06-17 12:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩爾執行緒率先完成智譜GLM-5.2適配】 6月17日，摩爾執行緒宣佈在AI訓推一體全功能GPU智算卡MTT S5000上，完成對智譜新一代開源旗艦模型GLM-5.2的Day-0適配。此次適配延續了摩爾執行緒在GLM-5.1長上下文Prefill與P/D異構分離推理場景中的最佳化積累，並面向GLM-5.2超長上下文與複雜推理負載，進一步釋放MTT S5000在長輸入Prefill階段的高吞吐優勢。"
+    },
+    {
+      "id": "4939945",
+      "time": "2026-06-17 12:19:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國難民署：2027年全球近240萬難民需安置 】 聯合國難民署16日釋出報告說，預計到2027年，全球將有近240萬難民亟需安置。這份《2027年全球重新安置需求預測報告》說，預測資料涵蓋兩類難民：一是無法安全返回原籍國的難民；二是在收容國人身安全得不到保障、或是難以獲得充足幫扶的難民。"
+    },
+    {
+      "id": "4939944",
+      "time": "2026-06-17 12:18:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快手持續打擊劇情演繹黑灰產，配合有關部門抓獲34名犯罪嫌疑人】 據“快手黑板報”，近日，快手安全中心在直播治理中發現，一些不法分子虛構富豪、法師、高官等人設，以劇情演繹方式向中老年使用者高價售賣低價值商品，並承諾高價回收，誘騙中老年使用者下單購買，實施詐騙行為。對此，快手安全中心不斷升級風控策略，提升違規線索識別、研判和處置能力，嚴肅處理違規內容及賬號，針對查實詐騙線索，依法固定證據並移交有關部門處理。今年以來，快手安全中心協助有關部門抓獲劇情演繹詐騙犯罪嫌疑人共34名。"
+    },
+    {
+      "id": "mkt:019ed3cd-32d7-7dd8-b041-b67b01604d82",
+      "time": "2026-06-17 12:18:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02382.HK",
+        "Impact bullish",
+        "09868.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng down 0.37%; PCB, newly listed AI names extend three-day rally】By the midday break the Hang Seng Index was down 0.37% after plunging more than 200 points earlier and breaching the 24,400 level. The index opened near 24,495, ran to 24,560 before heavy selling pushed an intraday low of 24,272 (-221 points); losses narrowed to under 100 points before the break. The Hang Seng Tech Index was up 0.17%. Market turnover was HKD 145.51 bln. PCB names and newly listed AI stocks rose for a third session; storage, semiconductor and domestic retail stocks staged a strong rebound. Building materials & cement, electronic components and power equipment led gains. Rare earths, property management and computer hardware pulled back; internet healthcare, autos and oil & gas fell for a third straight day; aluminum and dairy were weak. Notable movers: Sunny Optical (02382.HK) +~8.5%, MINIMAX-W (00100.HK) +6%+, Kuaishou (01024.HK) ~+6%, Huahong Hongli (01347.HK) +5%; XPeng (09868.HK), Geely Auto (00175.HK) and China Resources MixC Lifestyle (01209.HK) each down >3%, CNOOC (00883.HK) and Laopu Gold (06181.HK) near -3%."
+    },
     {
       "id": "mkt:019ed3cb-ed71-7dd8-b041-ac2b6040ed08",
       "time": "2026-06-17 12:16:57",
@@ -168715,33 +168770,6 @@
         "Important"
       ],
       "text": "Korea Exchange (KRX) activated its circuit-breaker mechanism and suspended program trading on the KOSPI."
-    },
-    {
-      "id": "te:markets:557885",
-      "time": "2026-06-10 12:20:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Remains Under Pressure — Copper futures fell below $6.3 per pound on Wednesday, giving back gains from earlier in the week as escalating tensions in the Middle East and growing expectations of central bank interest rate hikes weighed on the outlook for industrial metals. The US launched “self-defense strikes” against Iran in response to the downing of an American helicopter, threatening to undermine peace efforts while fueling concerns about inflation and higher borrowing costs. Investors also awaited the latest US inflation data after stronger-than-expected jobs figures last week reinforced expectations of a Federal Reserve rate hike later this year. Meanwhile, Jefferies expects copper prices to remain higher for longer than previously projected, pointing to an average annual supply deficit of 491,000 tons through 2030 and a slower-than-expected recovery at the Grasberg mine."
-    },
-    {
-      "id": "4927278",
-      "time": "2026-06-10 12:18:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈及利亞總統提努布9日批准成立一個特別工作組，並下令撥付100億奈拉（約合4980萬元人民幣）應急資金，嚴防埃博拉疫情傳入該國。"
-    },
-    {
-      "id": "4927277",
-      "time": "2026-06-10 12:18:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化交易5分鐘。"
     }
   ]
 }
