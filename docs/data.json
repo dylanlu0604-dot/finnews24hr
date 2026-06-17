@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-18 06:37:36",
-  "count": 18780,
+  "updated": "2026-06-18 06:41:43",
+  "count": 18783,
   "items": [
+    {
+      "id": "mkt:019ed7be-af72-7dd8-b065-ab0160a22f22",
+      "time": "2026-06-18 06:40:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said a meeting between Iran and the United States due to take place in Switzerland on Friday has not yet been confirmed."
+    },
+    {
+      "id": "4941944",
+      "time": "2026-06-18 06:40:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：目前尚未確認伊美雙方將於週五在瑞士舉行會談。"
+    },
+    {
+      "id": "te:markets:559832",
+      "time": "2026-06-18 06:40:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Gains by 2.81% — Top commodity gainers are Wheat (2.81%), Cotton (2.62%) and Corn (1.75%). Biggest losers are Canola (-0.91%) and Cocoa (-0.75%)."
+    },
+    {
+      "id": "4941943",
+      "time": "2026-06-18 06:38:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【分散化配置底層邏輯仍然有效，多資產組合急需“動態校準”】今年以來，科技主導單邊行情。無論是價值風格還是黃金等商品資產，在外部擾動因素不斷的情況下都表現不盡如人意，這給多資產投資帶來了一定衝擊。今年以來就有不少採取多資產策略的FOF產品回報率為負，FOF扎堆重倉的底層基金，比如黃金、紅利、港股通網際網路等主題ETF，普遍表現不及預期。雖然今年部分資產表現不盡如人意，但在專業投資人士看來，恰恰說明不同資產輪動具有階段性，面對這種環境，更應進行動態均衡而非靜態分散。比如，權益投資保持適度偏積極，結構上更加關注具備產業趨勢支撐的成長方向，同時兼顧部分估值具備安全邊際的優質價值資產；黃金資產在全球地緣政治、財政擴張、長期資產配置需求下，仍具有組合分散風險的價值，更適合作為戰略配置而非戰術交易工具。（中證報）"
+    },
+    {
+      "id": "4941942",
+      "time": "2026-06-18 06:38:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：與阿曼基本敲定霍爾木茲海峽管理機制】據伊朗塔斯尼姆通訊社18日報道，伊朗外交部發言人巴加埃當天表示，伊方已與阿曼基本敲定霍爾木茲海峽管理機制，將對在該海峽提供的服務收取費用。目前，相關機制安排正在起草中。（新華社）"
+    },
+    {
+      "id": "mkt:019ed7bb-ddfe-7dd8-b065-a0a8848c6d60",
+      "time": "2026-06-18 06:37:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iran says it has essentially finalized Strait of Hormuz management mechanism with Oman】Iran's foreign ministry spokesperson Baghaei said Iran and Oman have essentially finalized a management mechanism for the Strait of Hormuz that will charge fees for services provided in the waterway. Related arrangements are currently being drafted."
+    },
+    {
+      "id": "mkt:019ed7bb-891c-7dd8-b065-9aa33d458b6c",
+      "time": "2026-06-18 06:37:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran foreign ministry spokesperson said Iran must be able to sell its oil smoothly, with transport and insurance unimpeded, and must receive the proceeds from oil sales."
+    },
     {
       "id": "mkt:019ed7bb-0ad8-7dd8-b065-902b9a44a7ca",
       "time": "2026-06-18 06:36:59",
@@ -173080,41 +173142,6 @@
         "國際"
       ],
       "text": "伊朗方面訊息：阿巴斯港當地民眾目擊，數枚防禦導彈射向一架美軍戰機。"
-    },
-    {
-      "id": "4929074",
-      "time": "2026-06-11 06:41:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【券商調研青睞硬科技賽道，關注景氣週期與全球化佈局】當前，券商調研重心向硬科技賽道傾斜。梳理近一個月（5月10日至6月10日）券商調研資料發現，738家受訪上市公司普遍擁有紮實基本面與明確技術落地場景，在調研中機構關注行業週期、海外擴張等問題。Choice資料顯示，近一個月，共有131家券商調研了738家上市公司。其中：大金重工、晶科能源、耐普礦機、九號公司、精智達等公司的熱度居前；電子、機械裝置、醫藥生物等行業被重點關注。（上證報）"
-    },
-    {
-      "id": "te:markets:558165",
-      "time": "2026-06-11 06:40:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Falls by 2.32% — Top commodity losers are Cocoa (-2.32%) and Sugar (-1.21%). Gains are led by Barley (1.99%), Butter (1.83%) and Coffee (1.70%)."
-    },
-    {
-      "id": "4929073",
-      "time": "2026-06-11 06:39:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱導彈驅離F16戰機】伊朗伊斯蘭革命衛隊宣佈，當地時間今天（6月11日）凌晨，一架F-16戰機侵犯波斯灣空域後，革命衛隊防空系統發射導彈予以回擊，隨後該戰機逃離。（CCTV國際時訊 ）"
-    },
-    {
-      "id": "4929072",
-      "time": "2026-06-11 06:37:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒稱世界盃裁判因涉恐被拒入境】據美國福克斯新聞當地時間6月10日報道，美國政府一名官員聲稱，34歲的索馬利亞裁判奧馬爾·阿爾坦“因涉嫌與恐怖主義有關聯”而被拒絕入境美國。阿爾坦持有效簽證上週六乘坐從土耳其伊斯坦布林起飛的航班抵達美國邁阿密國際機場，但被美國海關與邊境保護局拒之門外。據福克斯新聞報道稱：“美國海關與邊境保護局對阿爾坦進行了進一步審查，發現包括‘與恐怖組織嫌疑成員有關聯’在內的負面資訊，因此他不符合美國《移民與國籍法》規定的入境資格。” 國際足聯主席因凡蒂諾在當地時間6月10日的世界盃賽前釋出會上回應了有關美國入境管控的問題。談及阿爾坦事件，他表示：“阿爾坦遭遇的情況令人遺憾，但我們確實無法掌控一切。我們會嘗試溝通、討論並尋求解決方案。也許有時候，大家也需要冷靜一下。我們正在處理所有問題，努力解決一切。” 阿爾坦被非洲足聯評為“2025年度最佳男裁判”，本有望成為歷史上首位執法世界盃比賽的索馬利亞裁判。他已於6月10日回到索馬利亞首都摩加迪沙。（CCTV國際時訊）"
     }
   ]
 }
