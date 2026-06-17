@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-17 20:52:39",
-  "count": 18423,
+  "updated": "2026-06-17 20:56:49",
+  "count": 18413,
   "items": [
+    {
+      "id": "mkt:019ed5a6-d934-7dd8-b050-a960f1b6b811",
+      "time": "2026-06-17 20:55:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Foreign Minister WADEPHUL said Poland and Germany must pursue extremely close cooperation on defense and security in the face of the threat from Russia."
+    },
+    {
+      "id": "4941092",
+      "time": "2026-06-17 20:53:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI創始人奧爾特曼、達里奧·阿莫迪、德米斯·哈薩比斯和阿瑟·門施將出席私人人工智慧峰會。"
+    },
+    {
+      "id": "mkt:019ed5a4-c9b3-7dd8-b050-a71e7d069b72",
+      "time": "2026-06-17 20:53:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources: OpenAI founder Altman, Dario Amodei, Demis Hassabis and Arthur Mensch will attend a private AI summit."
+    },
+    {
+      "id": "4941091",
+      "time": "2026-06-17 20:53:18",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【陳果：戰略看多中國網際網路】6月17日，國家市場監管總局釋出《外賣平臺補貼行為規範十條（徵求意見稿）》，其中指出，將明確補貼行為的合規邊界，有力遏制外賣行業“內卷式”競爭，促進行業規範健康發展。東方財富研究所副所長、首席策略官陳果表示，這是重大利好落地，有利於徹底扭轉中國網際網路企業外賣補貼內卷，從今天起恒生科技指數不應該再被戲稱之為恒生外賣指數，不能再看空了，在資金絕望的無人問津處，從今天起，我們戰略看多中國網際網路。"
+    },
+    {
+      "id": "4941090",
+      "time": "2026-06-17 20:53:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【藍天PC出貨逆勢成長 全年挑戰雙位數增幅】PC受到記憶體與處理器缺料漲價影響，市調機構普遍預估2026全年出貨將會有雙位數跌幅，走利基市場的藍天，預估2026年出貨可望較2025年成長，還有機會挑戰雙位數出貨增幅。"
+    },
     {
       "id": "mkt:019ed5a3-04e6-7dd8-b050-99961f44503f",
       "time": "2026-06-17 20:51:31",
@@ -361,6 +404,15 @@
         "公司"
       ],
       "text": "CME美股盤跌超4%，執行長Duffy將轉任執行董事長。"
+    },
+    {
+      "id": "4941063",
+      "time": "2026-06-17 20:37:29",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【張慶偉主持中白立法機構合作委員會第三次會議】全國人大常委會副委員長張慶偉17日在京以影片形式主持中國全國人大與白俄羅斯國民會議合作委員會第三次會議。白俄羅斯國民會議共和國院主席科恰諾娃共同主持。雙方就兩國關係、立法機構交往及共同關心的問題交換意見。(新華社)"
     },
     {
       "id": "4941062",
@@ -169387,172 +169439,6 @@
         "WTI"
       ],
       "text": "【US inflation accelerates; real consumer incomes continue to be eroded】May US CPI rose 4.2% YoY, the fastest since April 2023, marking the second consecutive month inflation has outpaced wage growth. May average hourly earnings rose 3.4% YoY; real wages fell 0.7% YoY and 0.1% MoM. Energy prices jumped 23.5% YoY, the largest increase since Aug 2022, with natural gas up 40.5% YoY and 7.0% MoM. Food prices rose 0.2% MoM, below the prior 0.5%. Bankrate senior economic analyst Mark Hamrick expects Middle East supply‑chain disruptions will keep inflation elevated in the near term; a ZipRecruiter economist said wages lagging inflation are squeezing middle‑income households."
-    },
-    {
-      "id": "mkt:019eb19b-0e6c-7dd8-afa1-bfc66e501d97",
-      "time": "2026-06-10 20:56:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Institution: higher energy prices pushing up US monthly inflation】An institution says energy-price gains since the Iran war began three months ago continue to boost US monthly inflation. Energy rose 3.9% last month; gasoline jumped 7.0%; airfares increased 2.7%."
-    },
-    {
-      "id": "4928434",
-      "time": "2026-06-10 20:56:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國議長約翰遜今日將與特朗普討論《外國情報監視法》（FISA）相關事宜。"
-    },
-    {
-      "id": "4928433",
-      "time": "2026-06-10 20:55:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：特朗普“接近”下令打擊伊朗發電廠和橋樑】美國福克斯新聞頻道10日報道稱，美國總統特朗普說他“接近”下令對伊朗的發電廠和橋樑發動新的打擊。報道說，特朗普表示，這是作為對伊朗在談判過程中一直“拖著美國”的回應。北京時間10日上午，伊朗多地再次傳出爆炸聲。美軍稱對伊朗實施“自衛性打擊”，以回應美軍機被擊落事件。伊朗隨後對美軍行動作出回應，“猛烈打擊”中東地區美軍基地。伊朗外交部發言人巴加埃10日在談及伊美會談相關問題時表示，9日衝突後，伊方需要重新評估局勢。巴加埃說，美國持續違反停火，破壞了外交程序。（新華社）"
-    },
-    {
-      "id": "4928432",
-      "time": "2026-06-10 20:55:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京正在與俄羅斯政府官員舉行會議。"
-    },
-    {
-      "id": "4928431",
-      "time": "2026-06-10 20:55:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國金屬工業工會（IG Metall）：奧斯納布呂克工廠工人要求管理層迅速採取行動，保障工廠未來存續。"
-    },
-    {
-      "id": "4928430",
-      "time": "2026-06-10 20:54:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【世界黃金協會：5月全球黃金ETF轉為淨流出】世界黃金協會訊息，5月，由於金價區間震盪，市場對風險資產的偏好重燃，全球投資者大多持觀望態度，黃金ETF需求受到抑制。繼4月黃金ETF需求顯著反彈之後，全球實物黃金ETF出現溫和流出，約20億美元，歐洲是唯一實現淨流入的地區。不過年初至今，全球黃金ETF仍保持淨流入態勢，累計近170億美元。"
-    },
-    {
-      "id": "4928429",
-      "time": "2026-06-10 20:54:33",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國5月通脹資料解讀：核心商品走弱 整體CPI同比升至三年高點】“美聯儲傳聲筒”Nick Timiraos發文稱：5 月消費者價格指數（CPI）資料顯示，核心商品價格環比下跌 0.11%；住房類價格環比上漲 0.32%，剔除住房後的非能源服務價格環比上漲 0.27%。從同比來看，核心商品通脹水平較去年夏末有所回落，當前同比漲幅為 1.1%，去年 9 月曾創下 1.5% 的近期峰值。整體 CPI 環比上漲 0.47%，摺合年化漲幅為 5.8%，同比漲幅隨之攀升至 4.2%，創下三年新高。CPI 三個月摺合年化漲幅達 8.2%。"
-    },
-    {
-      "id": "mkt:019eb199-24e1-7dd8-afa1-b0194fabc9bb",
-      "time": "2026-06-10 20:54:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Nick Timiraos said three-month annualized US CPI rose 8.2%."
-    },
-    {
-      "id": "4928428",
-      "time": "2026-06-10 20:54:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農行上海市分行釋出科技企業“建檔立卡”評價模型，已為走訪企業新增授信超260億元】中國農業銀行上海市分行釋出科技企業“建檔立卡”評價模型，以數智化手段破解科技企業識別難、評價難、賦能難等問題。據瞭解，去年5月起，該行啟動“123+”專項服務行動，聚合政府部門、VC、PE、國有投資平臺、主流媒體等多方主體，打造“5+N”科技金融生態圈，聯合走訪3600多家科技企業。在此基礎上，該行聯合上海財經大學，走訪調研多類主體，研發推出上述模型。"
-    },
-    {
-      "id": "4928427",
-      "time": "2026-06-10 20:53:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【保加利亞總理：將不再向烏克蘭提供武器】保加利亞總理拉德夫10日在部長會議上說，保加利亞軍方將不再向烏克蘭提供武器。 拉德夫認為烏克蘭危機的外溢影響給保加利亞造成了嚴重的社會經濟損失。他表示，保加利亞將致力於提升軍隊的防禦能力，而不是將更多資金投入衝突之中，這才是對保加利亞未來的真正投資。 拉德夫認為，各方應以全面務實的態度看待俄烏之間的衝突，並尋求外交解決途徑。 據保加利亞國家電臺報道，自烏克蘭危機升級以來，保加利亞國防部已向烏克蘭提供了13批“援助包”，但援助的型別及其價值暫未公佈。(新華社)"
-    },
-    {
-      "id": "mkt:019eb198-b4ce-7dd8-afa1-aa8a95339b8f",
-      "time": "2026-06-10 20:53:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "TIMIRAOS: Headline CPI rose 0.47% MoM (annualized 5.8%), lifting not-seasonally-adjusted CPI YoY to 4.2%, a three-year high."
-    },
-    {
-      "id": "mkt:019eb198-7fe5-7dd8-afa1-a18336a38ece",
-      "time": "2026-06-10 20:53:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【US inflation in line with expectations reinforces Fed view that rates will stay higher for longer】Wednesday’s US CPI matched forecasts: May headline CPI YoY +4.2%, core CPI YoY +2.9%. The print bolsters the view the Fed will hold policy rates at 3.50%–3.75% at the June meeting and sustain a higher-for-longer stance. Ahead of the release, CME FedWatch showed a 98% probability of a June hold; markets still price roughly one 25bp hike by year-end."
-    },
-    {
-      "id": "te:markets:558065",
-      "time": "2026-06-10 20:53:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Pare Some Losses But Remain in the Red — US stock futures pared some losses but remained in negative territory on Wednesday, with S&P 500 futures down 0.5%, Nasdaq 100 falling 0.8%, and Dow Jones losing around 250 points. Investors digested the latest CPI report, which showed annual inflation accelerating to 4.2% in May, in line with expectations, while core monthly inflation slowed more than anticipated to 0.2%. The data provided some relief that the energy shock has not yet significantly spilled over into broader price pressures. Following the release, traders slightly reduced expectations for Fed rate hikes this year, although a 25bps increase in December remains fully priced in. Meanwhile, sentiment continued to be weighed down by renewed weakness in tech stocks as concerns over elevated valuations resurfaced. Geopolitical tensions also remained in focus, with Iran and the US continuing to exchange strikes. In premarket trading, Nvidia fell 1.4%, Broadcom lost 1.3%, and Micron Technology dropped 2%."
-    },
-    {
-      "id": "4928426",
-      "time": "2026-06-10 20:53:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：第一季度全球智慧手機SoC出貨量同比下降8%】市場研究機構Counterpoint報告顯示，2026年第一季度全球智慧手機SoC出貨量同比下降8%，分析師指出，持續的記憶體供應短缺是導致整體出貨量下滑的主要因素。聯發科今年第一季度以 32% 的份額位居榜首，高通以 23% 位列第二，蘋果以 19% 排在第三，紫光展銳以 14% 佔據第四，三星以 7% 排在第五，海思以 4% 位列第六。"
-    },
-    {
-      "id": "mkt:019eb197-f6cf-7dd8-afa1-9cab49da0bf1",
-      "time": "2026-06-10 20:53:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Economist: Headline inflation points to supply-side pressure; core inflation makes overall picture less clear】PIMCO economist Tiffany Wilding said on the US CPI report the key question is whether current inflation is driven by negative supply shocks or by strong demand. She views headline inflation as more indicative of supply-side pressure, citing Middle East developments and rising gasoline prices. Core inflation, she said, raises additional questions and makes the overall outlook less clear."
-    },
-    {
-      "id": "4928425",
-      "time": "2026-06-10 20:52:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國金屬工業工會（IG Metall）：大眾汽車奧斯納布呂克工廠的未來規劃仍未確定。"
     }
   ]
 }
