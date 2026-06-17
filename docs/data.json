@@ -1,7 +1,112 @@
 {
-  "updated": "2026-06-18 06:27:42",
-  "count": 18783,
+  "updated": "2026-06-18 06:37:36",
+  "count": 18780,
   "items": [
+    {
+      "id": "mkt:019ed7bb-0ad8-7dd8-b065-902b9a44a7ca",
+      "time": "2026-06-18 06:36:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said a memorandum of understanding was finalized last Sunday, but its release was delayed until Wednesday due to routine diplomatic procedures and the need to coordinate with all parties."
+    },
+    {
+      "id": "4941941",
+      "time": "2026-06-18 06:36:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟透過銷售OpenAI模型，在中國搭建起龐大人工智慧業務，國內微軟最大的人工智慧客戶是位元組跳動，騰訊、美團、螞蟻集團也是微軟人工智慧的客戶。"
+    },
+    {
+      "id": "te:markets:559831",
+      "time": "2026-06-18 06:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Drops by 3.91% — Top commodity losers are Platinum (-3.91%), Silver (-2.92%), Copper (-1.92%) and Gold (-1.50%)."
+    },
+    {
+      "id": "4941940",
+      "time": "2026-06-18 06:34:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗必須能夠在運輸和保險不受阻礙的前提下出售石油，並且必須全額收回石油銷售收入。"
+    },
+    {
+      "id": "mkt:019ed7b6-eac4-7dd8-b065-8f9da67aaa34",
+      "time": "2026-06-18 06:32:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said the negotiating team will still attend meetings in Switzerland. The agreement has been signed electronically and no signing ceremony will be held in Switzerland."
+    },
+    {
+      "id": "te:markets:559830",
+      "time": "2026-06-18 06:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Drops by 2.37% — Top commodity losers are Natural gas (-2.37%), Methanol (-2.22%) and Natural Gas EU (-0.84%). Gains are led by Naphtha (1.18%), Gasoline (1.16%), Brent Crude Oil (0.27%) and Crude Oil WTI (0.24%)."
+    },
+    {
+      "id": "4941939",
+      "time": "2026-06-18 06:29:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 英國梅克菲爾德政治補選，伯納姆瞄準工黨黨首之位；\n② 14:00 英國4月三個月ILO就業人數、失業率；\n③ 14:30 菲律賓央行公佈利率決議；\n④ 15:00 歐洲央行管委兼德國央行行長Nagel講話，歐洲央行管委Kocher講話；\n⑤ 15:20 印尼央行公佈利率決議；\n⑥ 15:30 瑞士央行釋出政策利率；\n⑦ 16:00 瑞士央行行長Schlegel講話，挪威央行公佈利率決議；\n⑧ 19:00 英國央行公佈利率決定；\n⑨ 20:00 歐洲央行執行委員會成員Piero Cipollone講話；\n⑩ 20:15 歐洲央行首席經濟學家Lane在英國倫敦講話；\n⑪ 20:30 美國6月13日當週首次申請失業救濟人數；\n⑫ 22:00 美國4月諮商會領先指標；\n⑬ 日01:00 歐洲央行管委Jose Luis Escriva講話；\n⑭ 日04:00 美國4月國際資本流動。"
+    },
+    {
+      "id": "mkt:019ed7b3-b18b-7dd8-b065-8662dc096ea6",
+      "time": "2026-06-18 06:28:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Local authorities say Russia fired missiles at Kyiv."
+    },
+    {
+      "id": "4941938",
+      "time": "2026-06-18 06:28:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭地方當局稱，俄羅斯用導彈襲擊了基輔。"
+    },
+    {
+      "id": "mkt:019ed7b2-7b58-7dd8-b065-7a78bb18e032",
+      "time": "2026-06-18 06:27:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Witnesses reported explosions heard in Kyiv."
+    },
+    {
+      "id": "4941937",
+      "time": "2026-06-18 06:27:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "現場目擊者稱，烏克蘭基輔聽到爆炸聲。"
+    },
     {
       "id": "4941936",
       "time": "2026-06-18 06:26:42",
@@ -173010,140 +173115,6 @@
         "國際"
       ],
       "text": "【美媒稱世界盃裁判因涉恐被拒入境】據美國福克斯新聞當地時間6月10日報道，美國政府一名官員聲稱，34歲的索馬利亞裁判奧馬爾·阿爾坦“因涉嫌與恐怖主義有關聯”而被拒絕入境美國。阿爾坦持有效簽證上週六乘坐從土耳其伊斯坦布林起飛的航班抵達美國邁阿密國際機場，但被美國海關與邊境保護局拒之門外。據福克斯新聞報道稱：“美國海關與邊境保護局對阿爾坦進行了進一步審查，發現包括‘與恐怖組織嫌疑成員有關聯’在內的負面資訊，因此他不符合美國《移民與國籍法》規定的入境資格。” 國際足聯主席因凡蒂諾在當地時間6月10日的世界盃賽前釋出會上回應了有關美國入境管控的問題。談及阿爾坦事件，他表示：“阿爾坦遭遇的情況令人遺憾，但我們確實無法掌控一切。我們會嘗試溝通、討論並尋求解決方案。也許有時候，大家也需要冷靜一下。我們正在處理所有問題，努力解決一切。” 阿爾坦被非洲足聯評為“2025年度最佳男裁判”，本有望成為歷史上首位執法世界盃比賽的索馬利亞裁判。他已於6月10日回到索馬利亞首都摩加迪沙。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019eb3ae-2639-7dd8-afad-d9b024ed362b",
-      "time": "2026-06-11 06:36:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Al Jazeera, citing Iran's Bushehr provincial officials, reported the Assaluyeh gas complex has not experienced any explosions to date."
-    },
-    {
-      "id": "te:markets:558164",
-      "time": "2026-06-11 06:35:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Gold Falls by 4.92% — Top commodity losers are Gold (-4.92%), Silver (-3.81%) and Platinum (-3.25%). Gains are led by Silicon (3.21%), Iron Ore CNY (1.51%) and Lithium Carbonate (1.22%)."
-    },
-    {
-      "id": "4929071",
-      "time": "2026-06-11 06:35:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯莫斯科市長索比亞寧： 逼近莫斯科的無人機被擊落數量已增至九架。"
-    },
-    {
-      "id": "4929070",
-      "time": "2026-06-11 06:34:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊：一架 F-16 戰鬥機侵犯波斯灣領空，革命衛隊防空系統隨即發射導彈進行攔截，來犯戰機隨後逃離。"
-    },
-    {
-      "id": "mkt:019eb3ac-054e-7dd8-afad-d039c43c7525",
-      "time": "2026-06-11 06:34:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said an F-16 fighter violated Persian Gulf airspace and departed after IRGC air-defence systems fired missiles at it."
-    },
-    {
-      "id": "4929069",
-      "time": "2026-06-11 06:33:21",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券海外宏觀聯席首席分析師李翀：美聯儲貨幣政策框架迎重大調整 大類資產配置邏輯生變】當前，美國勞動力市場表現亮眼，就業資料大幅超出預期，美聯儲內部鷹派聲音持續走強，政策分歧不斷擴大，通脹風險備受警惕。中信證券海外宏觀聯席首席分析師李翀日前在接受專訪時表示，綜合經濟基本面與內部政策傾向，美聯儲今年將維持現有利率水平，暫時不會啟動降息。此外，美聯儲主席凱文·沃什推行全新貨幣政策思路，與前任時期形成根本性的路線分野，貨幣政策理念迎來深度變革，或將深刻影響全球流動性與各類金融資產走勢。（中證報）"
-    },
-    {
-      "id": "4929068",
-      "time": "2026-06-11 06:32:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【“世界盃經濟”開場哨將響 A股公司多賽道掘金 】2026年美加墨世界盃將於北京時間6月12日凌晨在墨西哥城正式拉開帷幕。作為史上首次擴軍至48隊、賽程長達39天、橫跨三國舉辦的頂級足球盛宴，本屆世界盃不僅點燃了全球球迷的觀賽熱情，更成為A股上市公司多賽道掘金的重要舞臺。Wind資料顯示，萬得世界盃概念指數近期呈現回暖態勢，6月10日上漲0.73%。分析人士表示，從賽事贊助到IP衍生品，從觀賽消費到技術賦能，多家A股公司已率先卡位，深度參與到這場橫跨三國、歷時39天的“世界盃經濟”角逐之中，試圖從供應鏈到消費端的全鏈條上掘金。（中證報）"
-    },
-    {
-      "id": "4929067",
-      "time": "2026-06-11 06:31:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【申萬宏源最新研判：全年經濟或呈“N型”走勢 A股下半年有望迎來新一輪行情】6月10日，申萬宏源在深圳召開2026資本市場夏季策略會。申萬宏源認為，2026年年初以來我國經濟延續修復態勢，全年經濟或將呈現“N型”走勢，中國資產價值重估具備了更加堅實的基礎，下半年債券市場將呈現波動上升的博弈行情，股市或將迎來新一輪上漲行情。從中期來看，AI產業有望延續景氣，建議關注光通訊、PCB、儲存、儲能、燃氣輪機、算電協同等方向。（中證報）"
-    },
-    {
-      "id": "4929066",
-      "time": "2026-06-11 06:30:52",
-      "tags": [
-        "公司",
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 15:00 商務部召開6月第2次例行新聞釋出會；\n② 19:00 土耳其央行公佈利率決議；\n③ 時間待定 石油輸出國組織（OPEC，歐佩克）公佈月度原油市場報告；\n④ 時間待定 世界盃開幕；\n⑤ 時間待定 SpaceX IPO最終正式定價，股票將開始發售，該公司計劃邀請1500名散戶投資者參加6月11日舉行的大型活動；\n⑥ 20:15 歐洲央行公佈利率決定（含主要再融資利率、存款便利利率、邊際貸款利率）；\n⑦ 20:30 美國5月PPI，6月6日當週首次申請失業救濟人數；\n⑧ 20:45 歐洲央行行長拉加德舉行新聞釋出會。"
-    },
-    {
-      "id": "te:markets:558163",
-      "time": "2026-06-11 06:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Rises by 4.74% — Top commodity gainers are Crude Oil WTI (4.74%), Natural Gas EU (4.21%), Natural Gas UK (4.19%) and Brent Crude Oil (4.09%). Biggest loser is Ethanol (-0.79%)."
-    },
-    {
-      "id": "4929065",
-      "time": "2026-06-11 06:29:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊航空航天部隊司令穆薩維： 針對阿巴斯港和布什爾的空中打擊行動仍在持續。"
-    },
-    {
-      "id": "mkt:019eb3a6-b447-7dd8-afad-ca517e19a39f",
-      "time": "2026-06-11 06:28:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "According to the New York Times, a Qatari delegation has left Iran after failing to make progress in negotiations."
-    },
-    {
-      "id": "4929064",
-      "time": "2026-06-11 06:28:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【成長賽道盤整蓄力，機構建議把握新一輪行情佈局視窗】6月10日，A股市場呈現震盪分化行情，各大主流指數悉數收跌，前期強勢的科技成長賽道集中調整，低估值權重板塊逆勢發力護盤，市場資金避險調倉特徵顯著，賺錢效應有所回落。機構認為，本輪調整或是佈局A股新一輪上升行情的視窗期，中期市場向好趨勢並未改變。（上證報）"
-    },
-    {
-      "id": "4929063",
-      "time": "2026-06-11 06:28:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【儲蓄國債入池 個人養老金產品再擴容 】2026年第三、第四期儲蓄國債（電子式）於10日發售，這是儲蓄國債被納入個人養老金產品池的首批產品。目前，工商銀行、建設銀行、中信銀行等十多家銀行已經在銀行App個人養老金專區開通了國債購買渠道。2026年第三、第四期儲蓄國債（電子式）票面年利率分別為1.63%、1.7%，均高於當前同期限個人養老金專屬存款利率。業內人士表示，儲蓄國債填補了個人養老金產品體系中高信用等級國債品類的空白，有助於緩解“開戶熱、繳費冷”等問題。同時，個人養老金也將為國債市場帶來重要的長期資金。（中證報）"
     }
   ]
 }
