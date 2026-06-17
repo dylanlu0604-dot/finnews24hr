@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-18 05:13:57",
-  "count": 18758,
+  "updated": "2026-06-18 05:18:01",
+  "count": 18760,
   "items": [
+    {
+      "id": "4941857",
+      "time": "2026-06-18 05:15:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【庫克：受儲存晶片緊缺影響，蘋果將上調產品售價】蘋果公司執行長蒂姆·庫克透露，受記憶體、儲存晶片成本飆升衝擊，蘋果計劃上調旗下產品售價以對沖成本壓力。“很遺憾，漲價已是無法避免。”他表示，“我們一直在盡力消化轉嫁而來的鉅額成本，努力不讓消費者承擔漲價壓力，但當前局面已經難以為繼。”庫克並未透露漲價的具體落地時間、上調幅度以及受影響的產品品類。蘋果下一場大型新品釋出會預計在9月，屆時將推出iPhone 18系列，其中包含全新摺疊款iPhone。"
+    },
+    {
+      "id": "4941856",
+      "time": "2026-06-18 05:15:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.48%，報15522點。"
+    },
+    {
+      "id": "4941855",
+      "time": "2026-06-18 05:14:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普戲稱若美伊沒簽成就賴萬斯】美國總統特朗普當地時間6月17日在七國集團峰會結束後的記者會上表示，他可能會繼續留在歐洲出席美國與伊朗諒解備忘錄的簽署儀式，但也可能不會，因為這畢竟“不是一份重要到必須由他來簽署的檔案”。在回答記者提問時，他還戲稱，“簽署儀式如果成了，我就把功勞攬過來；如果黃了，我就怪（出席儀式的美國副總統）萬斯。”在回答有關“設立3000億美元基金用於伊朗重建和經濟發展”的問題時，特朗普強調，“美國不出錢”，但如果伊朗“表現好、守規矩”，美國將允許其出售石油，允許別人投資伊朗。 特朗普還再次威脅“如果伊朗違約將遭美軍轟炸”。但現場有記者質疑“諒解備忘錄中並不包括相關強制執行的條款”。特朗普對此回應稱，“難道非得有（強制執行條款）不可嗎？"
+    },
+    {
+      "id": "mkt:019ed76e-b24f-7dd8-b064-5e2ce4bdab6b",
+      "time": "2026-06-18 05:13:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Apple",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【Cook says Apple will raise prices to offset surge in memory-chip costs】According to the Wall Street Journal, Apple CEO Cook said the company plans to raise product prices to offset a sharp rise in memory and storage chip costs, calling price increases \"unavoidable\"; he declined to specify timing, magnitude or which products would be affected. Cook flagged DRAM pressure in particular, saying more capacity is being allocated to AI servers and high‑bandwidth memory, tightening supply for consumer devices as vendors push prices higher. He said Apple is prepared to use its cash balance to secure additional memory supply and support more capacity but ruled out building its own memory or storage fabs."
+    },
     {
       "id": "4941854",
       "time": "2026-06-18 05:10:30",
@@ -172930,22 +172970,6 @@
         "DXY"
       ],
       "text": "Market reports: explosions heard in Tehran, Iran; air defenses activated."
-    },
-    {
-      "id": "4929002",
-      "time": "2026-06-11 05:17:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：06月11日05時10分在青海玉樹州囊謙縣（北緯32.52度，東經95.77度）發生3.0級地震，震源深度10千米。"
-    },
-    {
-      "id": "4929001",
-      "time": "2026-06-11 05:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.22%，報15187點。"
     }
   ]
 }
