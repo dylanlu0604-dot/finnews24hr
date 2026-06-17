@@ -1,7 +1,231 @@
 {
-  "updated": "2026-06-17 14:00:54",
-  "count": 18357,
+  "updated": "2026-06-17 14:04:48",
+  "count": 18371,
   "items": [
+    {
+      "id": "4940060",
+      "time": "2026-06-17 14:02:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度孟買敏感指數漲幅擴大，最新上漲0.51%。"
+    },
+    {
+      "id": "4940059",
+      "time": "2026-06-17 14:02:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華鑫證券：友升股份業績有望持續增長，予“買入”評級】華鑫證券研報指出，友升股份是鋁合金門檻樑龍頭廠商，海外業務有望放量。公司主營業務涵蓋門檻梁、電池托盤、保險槓、副車架等。深耕鋁合金擠壓件賽道，新能源客戶佔比92.7%。業績快速增長，盈利能力保持穩定。公司堅定大客戶戰略，深度繫結全球頭部新能源車企，依託工藝拓展+品類擴張，驅動國內業績增長，全球化佈局逐步完善，海外業務有望快速放量。公司深耕新能源車鋁合金零部件，穩定發展國內業務的同時持續拓展海外賽道，並積極開拓機器人領域，業績有望持續增長，給予“買入”投資評級。"
+    },
+    {
+      "id": "4940058",
+      "time": "2026-06-17 14:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國擬斥資160億歐元用於無人機防禦 】德國國防部長皮斯托裡烏斯16日說，德國計劃投資約160億歐元，用於提升聯邦國防軍的無人機防禦能力，以及加快在各軍種內組建反制無人機攻擊的快速反應部隊。皮斯托裡烏斯16日在視察德國北部一座空軍基地時說，德國將在“數日內”啟動一項無人機行動計劃，預計將在2030年前投入約160億歐元。"
+    },
+    {
+      "id": "4940057",
+      "time": "2026-06-17 14:02:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【以色列財政部長：週五不撤軍 之後也不撤】以色列財政部長：我們不會從黎巴嫩撤軍，週五不會，週五之後也不會。我們保留以色列國防軍在黎巴嫩的完全行動自由。美伊這個協議很糟糕，我認為我們可以並且應該表達我們的看法並進行辯論。"
+    },
+    {
+      "id": "mkt:019ed42c-7fc6-7dd8-b044-4d350b55d904",
+      "time": "2026-06-17 14:02:26",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Following UK data, GBP/USD dropped about 20 pips to 1.3421."
+    },
+    {
+      "id": "mkt:019ed42b-7c11-7dd8-b044-453901cf0e71",
+      "time": "2026-06-17 14:01:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israel finance minister says no troop withdrawal from Lebanon on Friday or afterward】Israel's finance minister said Israel will not withdraw troops from Lebanon on Friday or afterward and will preserve the IDF's full freedom of action there. He described the US‑Iran agreement as very bad and said Israel should voice objections and debate it."
+    },
+    {
+      "id": "4940056",
+      "time": "2026-06-17 14:01:12",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "英鎊兌美元匯率在英國CPI資料公佈後回吐漲幅，下跌0.1%至1.3418。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202606173774419458",
+      "time": "2026-06-17 14:01:02",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國5月CPI同比增長2.8%，預期3%，前值2.8%；5月CPI環比增長0.2%，預期0.4%，前值0.7%。"
+    },
+    {
+      "id": "mkt:019ed42b-156d-7dd8-b044-38130419167e",
+      "time": "2026-06-17 14:00:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【TrendForce: CSP in‑house ASIC wave concentrates MLCC specs; H2 2026 risk of structural shortage in high‑end special‑spec MLCCs】TrendForce says the AI arms race among global cloud service providers and shift to in‑house ASIC accelerator platforms are driving heavy use of small‑size, high‑capacitance, high‑temperature tolerant high‑end special‑spec MLCCs, concentrating demand on a few top specifications. Supplier capacity expansion is lagging, creating a material risk of structural shortages in these high‑end MLCCs in H2 2026."
+    },
+    {
+      "id": "4940055",
+      "time": "2026-06-17 14:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：CSP自研ASIC浪潮加速MLCC規格集中 下半年高階特規品或面臨結構性短缺】根據TrendForce集邦諮詢最新MLCC產業研究，隨著全球雲端服務供應商（CSP）AI軍備競賽持續升溫，自研ASIC加速器平臺大量採用小尺寸、高容值、耐高溫的高階特規MLCC，需求結構正快速向少數頂規品項集中，然而，因供應商擴產速度落後，2026年下半年結構性短缺風險不容小覷。（證券時報）"
+    },
+    {
+      "id": "4940054",
+      "time": "2026-06-17 14:00:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【張一鳴蟬聯新財富500首富，粵浙京滬上榜者佔六成】6月17日，每年一度的新財富500創富榜釋出。榜單顯示，43歲的張一鳴繼去年登頂之後，今年以5439億元繼續衛冕。前十名單中，幾乎都是去年的熟悉面孔，且他們的持股市值全部實現正增長。中國宏橋的張波家族，持股市值大幅上漲165%，以1888億元重回前十。至此，百億級企業家已達464位，比去年增加了123位，且已追平2022年的最高紀錄。 從創富行業看，受科技引擎與大國紅利影響，晶片、AI、新能源汽車等產業鏈強勢崛起。地域創富格局也進一步分化，廣東、浙江、北京、上海四地上榜人數佔全國六成以上。（21世紀經濟報道）"
+    },
+    {
+      "id": "mkt:019ed42a-d540-7dd8-b044-32f80a639a7e",
+      "time": "2026-06-17 14:00:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "UK May RPI MoM 0.2% vs 0.5% expected, 0.7% prior."
+    },
+    {
+      "id": "mkt:019ed42a-ce72-7dd8-b044-2e43e496f0bf",
+      "time": "2026-06-17 14:00:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK May core RPI annual 3.0%, unchanged from prior 3.0%."
+    },
+    {
+      "id": "mkt:019ed42a-c7fa-7dd8-b044-22243752bd59",
+      "time": "2026-06-17 14:00:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK May Retail Price Index (RPI) YoY 3.1% vs. consensus 3.3%; prior 3.0%."
+    },
+    {
+      "id": "mkt:019ed42a-c59e-7dd8-b044-130a191a288a",
+      "time": "2026-06-17 14:00:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK May CPI MoM 0.2% vs 0.4% expected; prior 0.70%."
+    },
+    {
+      "id": "mkt:019ed42a-c6c9-7dd8-b044-1e4cde518376",
+      "time": "2026-06-17 14:00:31",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK May unadjusted core output PPI MoM 0.8%; April revised to 0.9% from 0.7%."
+    },
+    {
+      "id": "mkt:019ed42a-c472-7dd8-b044-0b3bc159ab25",
+      "time": "2026-06-17 14:00:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK May unadjusted input PPI YoY 8.7% vs 8.8% expected; prior revised from 7.70% to 7.9%."
+    },
+    {
+      "id": "mkt:019ed42a-c40f-7dd8-b044-075e0c56fe47",
+      "time": "2026-06-17 14:00:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK May core CPI YoY 2.6% (consensus 2.7%; April 2.5%)."
+    },
+    {
+      "id": "mkt:019ed42a-bddc-7dd8-b043-fbebb45ed838",
+      "time": "2026-06-17 14:00:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK core CPI m/m for May 0.3% vs 0.4% expected; prior 0.7%."
+    },
+    {
+      "id": "mkt:019ed42a-bd9d-7dd8-b043-f21f99f96d83",
+      "time": "2026-06-17 14:00:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK May CPI YoY 2.8% (consensus 3.0%; prior 2.8%)."
+    },
+    {
+      "id": "4940053",
+      "time": "2026-06-17 14:00:28",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國5月未季調輸入PPI年率 8.7%，預期8.8%，前值由7.70%修正為7.9%。英國5月未季調輸入PPI月率 0.2%，預期0.5%，前值由2.40%修正為2.6%。英國5月未季調核心輸出PPI月率 0.8%，前值由0.7%修正為0.9%。"
+    },
     {
       "id": "mkt:019ed42a-aaa8-7dd8-b043-ec2c0fd5eddc",
       "time": "2026-06-17 14:00:20",
@@ -168866,73 +169090,6 @@
         "市場"
       ],
       "text": "半導體材料板塊持續走強，電子特氣、封裝材料方向領漲，有研粉材20%漲停，此前康強電子、雅克科技、中晶科技等漲停，中船特氣、華海誠科、強一股份、歐萊新材均漲超10%。"
-    },
-    {
-      "id": "4927394",
-      "time": "2026-06-10 14:04:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "港股市場兩倍做多海力士一度跌超17%，兩倍做多三星電子一度跌超16%。"
-    },
-    {
-      "id": "4927393",
-      "time": "2026-06-10 14:04:23",
-      "tags": [
-        "焦點"
-      ],
-      "text": "【5月我國新能源汽車產銷量同比兩位數增長】中國汽車工業協會10日釋出資料顯示，2026年5月，我國新能源汽車市場企穩回升，產銷分別完成155.4萬輛和149.6萬輛，同比分別增長22.4%和14.4%，新能源汽車新車銷量佔汽車新車總銷量的比例進一步提升，達到56.9%。5月，我國汽車產銷分別完成261.6萬輛和262.9萬輛，環比增長、同比小幅下降，但降幅進一步收窄。整體來看，前5個月，汽車產銷分別完成1223.5萬輛和1220.7萬輛，其中，新能源汽車產銷分別完成584.1萬輛和580.2萬輛，同比分別增長2.5%和3.5%。"
-    },
-    {
-      "id": "mkt:019eb021-5e05-799a-b41d-05c7873a89a9",
-      "time": "2026-06-10 14:03:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Copper"
-      ],
-      "text": "【China May NEV production and sales rise double-digits YoY】The China Association of Automobile Manufacturers (CAAM) said on the 10th that in May 2026 China’s new-energy vehicle (NEV) market stabilized and recovered. NEV production was 1.554 million units and sales were 1.496 million units, up 22.4% and 14.4% YoY respectively. NEVs accounted for 56.9% of new-car sales."
-    },
-    {
-      "id": "4927392",
-      "time": "2026-06-10 14:03:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "超微電腦在Tradegate平臺下跌8.9%。"
-    },
-    {
-      "id": "4927391",
-      "time": "2026-06-10 14:02:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部：2025年中國海洋經濟發展指數為128.8】自然資源部今天釋出的《2026中國海洋經濟發展指數》顯示，去年，中國海洋經濟發展指數為128.8，比上年增長2.2%，海洋經濟發展向新向優。"
-    },
-    {
-      "id": "4927390",
-      "time": "2026-06-10 14:01:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月我國汽車出口量同比增長68.7% 延續快速增長態勢】從中國汽車工業協會獲悉，5月份，我國汽車出口延續快速增長態勢。 最新資料顯示，5月份，我國汽車出口量為93萬輛，同比增長68.7%，已連續兩個月出口量保持在90萬輛以上水平。其中，新能源汽車出口同比呈現較高幅度的增長，出口44.6萬輛，同比增長1.1倍。中國汽車工業協會相關負責人表示，我國擁有全球最完整的新能源汽車產業鏈，從鋰礦加工、電池製造、電機電控到整車組裝，產能充足、成本可控，供應鏈抗風險能力強。 中國汽車工業協會副秘書長陳士華表示，我國新能源汽車的車機系統、智慧駕駛、座艙互動適配海外使用者需求，本土化智慧功能快速迭代，相較於海外傳統車企智慧化短板，形成核心競爭力。 今年1至5月份，我國汽車已累計出口405.9萬輛，同比增長63%。其中，新能源汽車出口183.3萬輛，佔整個汽車出口的比例超過了45%。"
-    },
-    {
-      "id": "mkt:019eb01f-0083-799a-b41c-fd6e0bfc8ebc",
-      "time": "2026-06-10 14:01:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "CSI300"
-      ],
-      "text": "【Industry Association: China has world’s most complete new-energy vehicle supply chain】The Industry Association said China possesses the world’s most complete new-energy vehicle (NEV) supply chain—from lithium processing and battery manufacturing to motor/electronic control and vehicle assembly—capacity is ample, costs are controllable and the supply chain has strong risk resilience. Deputy secretary-general Chen Shihua said Chinese in‑vehicle systems, intelligent driving and cabin interaction are adapting to overseas user needs; rapid local iteration of smart features has become a core competitive edge against legacy foreign automakers’ intelligence shortcomings. January–May auto exports totaled 4.059 million vehicles, up 63% YoY; NEV exports were 1.833 million, accounting for over 45% of total auto exports."
     }
   ]
 }
