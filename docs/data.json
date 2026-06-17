@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-17 23:51:43",
-  "count": 18434,
+  "updated": "2026-06-17 23:55:57",
+  "count": 18417,
   "items": [
+    {
+      "id": "4941443",
+      "time": "2026-06-17 23:54:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【埃克森美孚將向南非供應LNG，助其降低對煤炭的依賴】埃克森美孚公司達成一項初步協議，將向南非輸送液化天然氣（LNG），以鞏固該國高度依賴煤炭的電網，並提振工業增長。根據週三由荷蘭皇家孚寶公司（Koninklijke Vopak NV）與南非國有企業Transnet共同開發的擬建專案方釋出的宣告，這家美國公司已簽署協議要點，計劃透過位於該國東海岸工業城市理查茲灣的祖魯蘭能原始碼頭（Zululand Energy Terminal）進口LNG。"
+    },
+    {
+      "id": "4941442",
+      "time": "2026-06-17 23:53:51",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "美國大型銀行股價創下歷史新高， 摩根士丹利上漲 2.6%，高盛上漲 2.3%，花旗集團上漲 1.8% 。"
+    },
+    {
+      "id": "mkt:019ed649-f455-7dd8-b058-13eaff7c39d0",
+      "time": "2026-06-17 23:53:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "MS.O",
+        "Impact bullish",
+        "GS.O",
+        "C.O"
+      ],
+      "text": "U.S. large-bank shares rose; Morgan Stanley up 2.6%, Goldman Sachs up 2.3%, Citigroup up 1.8%."
+    },
+    {
+      "id": "te:markets:559778",
+      "time": "2026-06-17 23:53:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises on Financial Sector Strength — The FTSE MIB rose 0.3% to close at 52,595 on Wednesday as markets awaited confirmation of the US-Iran peace agreement and the US Federal Reserve’s monetary policy outlook. Iran and the US remained on track to sign the deal on Friday, despite lingering uncertainty over the terms. Oil prices hovered near a three-month low amid prospects of the reopening of the Strait of Hormuz and the International Energy Agency warning of a supply overhang next year. Bond yields edged lower as energy-driven inflation concerns eased. Financial stocks led gains, with UniCredit up 2.2%, BPER Banca rising 1%, Banco BPM gaining 2.4%, and Intesa Sanpaolo adding 0.7%. UniCredit’s buyout offer for Commerzbank officially ended on June 16, lifting its overall stake to 42.4% after a 12.41% take-up. The German government reiterated its opposition and formally rejected the offer. Investors now have two additional weeks to tender shares, with final results due on July 8. Approval from the ECB is still required."
+    },
+    {
+      "id": "te:markets:559777",
+      "time": "2026-06-17 23:53:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Futures at Over 1-Month Low — Rice futures traded below $12 per hundredweight, hovering near the lowest since May 8, amid signs of ample global supply. Latest data showed India’s rice stocks held in government warehouses surged to a record high of 68.43 million metric tonnes as of June 1, up 15% from a year earlier and more than five times the government’s buffer stock requirement of 13.5 million tonnes for July 1. The country’s rice output reached a record 154.02 million tonnes in the 2025-26 agricultural year, up from 150.18 million tonnes in the previous period. Strong rice stocks are seen supporting India, which contributes about 40% of global rice exports, allowing it to maintain robust export flows despite El Niño-driven weather risks and potential rainfall disruptions."
+    },
+    {
+      "id": "4941441",
+      "time": "2026-06-17 23:52:32",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【2026中國品牌論壇在雄安舉行 】2026中國品牌論壇6月17日在河北雄安新區舉行，全國人大常委會副委員長洛桑江村出席並致辭。（新華社）"
+    },
+    {
+      "id": "4941440",
+      "time": "2026-06-17 23:51:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【新加坡冬海集團悄然進軍美國市場，測試AI聊天機器人Migoo】新加坡網際網路領軍企業冬海集團(Sea Ltd.)正在包括美國在內的地區推出一款生成式人工智慧(AI)聊天機器人，這是該公司首次進軍競爭激烈的美國消費市場，加快AI佈局。據知情人士透露，這款名為Migoo的AI陪伴聊天機器人已經上線，可能很快會進行更大規模釋出。Migoo的網站和應用並未提及冬海為所有者。該應用直接接入蘋果iMessage等平臺，旨在充當高度個性化的陪伴型聊天機器人，能夠記住使用者的喜好和習慣。在美國，冬海的目標是利潤豐厚且競爭激烈的Z世代AI市場，該市場由OpenAI和位元組跳等公司主導"
+    },
     {
       "id": "mkt:019ed645-68b6-7dd8-b058-0d528cbf4af3",
       "time": "2026-06-17 23:48:53",
@@ -169286,234 +169360,6 @@
         "AI Revolution"
       ],
       "text": "US President Trump said he will meet AI industry leaders to discuss corporate giving. He said he expects executives to return gains to the public and that AI will make the public very wealthy."
-    },
-    {
-      "id": "4928756",
-      "time": "2026-06-10 23:55:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我希望世界迎來和平。"
-    },
-    {
-      "id": "4928755",
-      "time": "2026-06-10 23:55:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 伊朗不得擁有核武器，也絕不會擁有核武器，他們已然就此達成共識。 現在他們只需簽署協議即可，相關事宜已全部磋商完畢。"
-    },
-    {
-      "id": "te:markets:558126",
-      "time": "2026-06-10 23:55:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Milk Hits 10-week Low — Milk decreased to 16.01 USD/CWT, the lowest since March 2026. Over the past 4 weeks, Milk lost 5.7%, and in the last 12 months, it decreased 14.68%."
-    },
-    {
-      "id": "mkt:019eb23f-092f-7dd8-afa8-4a2d73cdeb1c",
-      "time": "2026-06-10 23:55:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "US President Trump said he will soon meet with executives from 12 leading artificial intelligence companies."
-    },
-    {
-      "id": "4928754",
-      "time": "2026-06-10 23:55:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚土耳其總統埃爾多安。"
-    },
-    {
-      "id": "te:markets:558125",
-      "time": "2026-06-10 23:55:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Slip Ahead of ECB — European stocks ended lower on Wednesday, with the STOXX 50 declining 0.4% and the STOXX 600 remaining flat, as investors adopted a cautious stance amid renewed Middle East tensions following US-Iran strikes and ahead of the ECB’s monetary policy decision on Thursday. The ECB is widely expected to raise interest rates by 25 basis points, with investors closely monitoring policymakers’ signals on the future path of monetary policy. In the US, the May CPI report confirmed inflation reached a three-year high of 4.2%, matching expectations and reinforcing bets on a Federal Reserve rate hike in December. Meanwhile, UK lenders extended losses from the previous session after a JP Morgan note warned of a potentially greater impact from new Chinese regulations. STMicroelectronics also closed slightly lower, despite an upgrade to \"buy\" from \"neutral\" by BofA Global Research."
-    },
-    {
-      "id": "4928753",
-      "time": "2026-06-10 23:55:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：公眾將因人工智慧行動而變得非常富有。"
-    },
-    {
-      "id": "4928752",
-      "time": "2026-06-10 23:54:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：認為人工智慧行業高管將回饋公眾。"
-    },
-    {
-      "id": "mkt:019eb23e-429f-7dd8-afa8-42a78e38c8ef",
-      "time": "2026-06-10 23:54:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. stocks extended losses: Nasdaq fell nearly 1.5%, the Dow dropped 1.2% and the S&P 500 declined 0.94%. Trump said he would resume strikes on Iran."
-    },
-    {
-      "id": "4928751",
-      "time": "2026-06-10 23:54:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗要做的就是開始簽署協議。"
-    },
-    {
-      "id": "4928750",
-      "time": "2026-06-10 23:54:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及人工智慧企業持股問題：短期內將與15家頂尖企業高管會晤。"
-    },
-    {
-      "id": "4928749",
-      "time": "2026-06-10 23:53:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：正與人工智慧行業相關人士舉行會談。"
-    },
-    {
-      "id": "4928748",
-      "time": "2026-06-10 23:53:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：一切均已協商完畢。"
-    },
-    {
-      "id": "mkt:019eb23d-1a3c-7dd8-afa8-3dca66f050cc",
-      "time": "2026-06-10 23:53:29",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said they have agreed not to possess nuclear weapons; only signing the documents remains."
-    },
-    {
-      "id": "mkt:019eb23c-d99e-7dd8-afa8-353cfb87e209",
-      "time": "2026-06-10 23:53:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump declined to say whether he would destroy Iran's bridges and power plants."
-    },
-    {
-      "id": "4928747",
-      "time": "2026-06-10 23:53:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：伊朗已同意不發展核武器，他們只需簽署協議文字即可。"
-    },
-    {
-      "id": "4928746",
-      "time": "2026-06-10 23:52:51",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普講話後，納斯達克100指數跌幅擴大至盤中低點1.6%。"
-    },
-    {
-      "id": "4928745",
-      "time": "2026-06-10 23:52:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我不會透露是否會炸掉伊朗的橋樑和發電廠。"
-    },
-    {
-      "id": "4928744",
-      "time": "2026-06-10 23:52:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油和布倫特原油期貨延續漲勢，此前特朗普表示今天將再次嚴厲打擊伊朗；布倫特原油最新上漲2.7%，WTI原油上漲3.5%。"
-    },
-    {
-      "id": "4928743",
-      "time": "2026-06-10 23:52:15",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普稱美國將恢復對伊朗的攻擊，美國國債收益率上升。"
-    },
-    {
-      "id": "mkt:019eb23b-e515-7dd8-afa8-2abc71972ae0",
-      "time": "2026-06-10 23:52:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said they continue to put pressure on us."
-    },
-    {
-      "id": "4928742",
-      "time": "2026-06-10 23:52:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4130美元/盎司，日內跌3.65%。"
-    },
-    {
-      "id": "mkt:019eb23b-bf19-7dd8-afa8-2695e5bbd27b",
-      "time": "2026-06-10 23:52:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he will see how the deal develops."
-    },
-    {
-      "id": "4928741",
-      "time": "2026-06-10 23:51:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報94.21美元/桶。"
     }
   ]
 }
