@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-18 07:05:19",
-  "count": 18772,
+  "updated": "2026-06-18 07:09:22",
+  "count": 18774,
   "items": [
+    {
+      "id": "mkt:019ed7d8-4257-7dd8-b066-04d0a15fd4fc",
+      "time": "2026-06-18 07:08:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US media: US-Iran 14-point memorandum leaves nuclear, financial details unresolved】CNN reported the English text of the US‑Iran 14‑point memorandum is under 800 words and leaves many details, including sensitive elements of Iran’s nuclear program, to be defined later. The memorandum commits to substantial financial relief: lifting sanctions would allow Iran to resume oil sales and could unlock tens of billions in frozen assets plus up to $300 billion in financing support. The Trump administration is pressing multi‑point frameworks; prior proposals included a 20‑point Gaza ceasefire plan and a failed 28‑point Russia‑Ukraine plan."
+    },
+    {
+      "id": "4941966",
+      "time": "2026-06-18 07:07:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們在凡爾賽宮簽署的。"
+    },
+    {
+      "id": "4941965",
+      "time": "2026-06-18 07:06:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普稱他剛剛簽署了與伊朗的協議。"
+    },
+    {
+      "id": "4941964",
+      "time": "2026-06-18 07:06:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "針對美聯儲主席凱文·沃爾什備受期待的首次新聞釋出會，據許多美聯儲觀察人士稱，順利、精煉且控制得當。"
+    },
+    {
+      "id": "mkt:019ed7d5-ad9e-7dd8-b065-fb88e437bfe5",
+      "time": "2026-06-18 07:06:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he signed a memorandum of understanding with Iran."
+    },
+    {
+      "id": "te:markets:559836",
+      "time": "2026-06-18 07:05:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Falls, Tracking Wall Street Lower — The NZX 50 dropped 30 points, or 0.2%, to 13,363 in Thursday morning trade, extending losses from the previous session and tracking a decline on Wall Street overnight after the Fed kept interest rates steady and signaled the possibility of rate hikes this year. Wednesday's data also continued to pressure sentiment, as New Zealand's consumer confidence fell to its lowest level since 2023 in Q2, while the Q1 current account deficit widened from the same period a year earlier. However, the latest data helped cap the fall, as New Zealand's GDP growth accelerated to 0.8% qoq in Q1, while annual growth held steady at 1.5%. Reports that the US and Iran plan to sign an agreement to end the war also limited losses, as lower oil prices eased concerns over inflationary pressures. Energy, materials, and industrial stocks mainly weighed on the index, with notable losses from Contact Energy (-1.2%), Freightways Group (-0.8%), AFT Pharmaceuticals (-0.7%), and Auckland International Airport (-0.5%)."
+    },
+    {
+      "id": "em:qqyh_mlc:202606183775079477",
+      "time": "2026-06-18 07:05:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲新掌門首秀！加息預期已拉滿】當地時間6月17日，美國聯邦儲備委員會以一份“超短”篇幅的宣告，更新了FOMC決議的開啟方式，並邁出了其溝通機制改革的第一步。在這份宣告中，美聯儲宣佈，繼續將聯邦基金利率目標區間維持在3.5%至3.75%之間不變。這一今年連續第四次維持利率不變的決定符合市場普遍預期。"
+    },
     {
       "id": "4941963",
       "time": "2026-06-18 07:04:29",
@@ -172986,56 +173058,6 @@
         "中國"
       ],
       "text": "【算力需求增長帶動多行業價格上漲 5月PPI同比漲幅創近年來新高】國家統計局6月10日公佈的資料顯示，5月，CPI同比上漲1.2%，漲幅與4月相同；環比下降0.1%。PPI同比漲幅擴大至3.9%，創近年來新高；環比上漲0.5%。產業結構最佳化升級，帶動部分行業價格環比上行。比如，人工智慧與各領域深度融合，算力需求增長等帶動有色金屬、電氣機械和計算機相關行業價格上漲。"
-    },
-    {
-      "id": "4929102",
-      "time": "2026-06-11 07:08:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新發規模創新高 低波產品迎熱潮】低利率背景下，為有效承接銀行存款等穩健資金的進階投資需求，公募行業持續加大對於中低波動風格“固收+”產品的開拓，尤其是混合債券型二級基金以及偏債混合型FOF成為產品佈局的重中之重。截至6月10日，這兩類“固收+”產品今年以來合計新發規模超1890億元。不到半年時間，就已突破2025年全年水平。其中，主打多元資產配置的偏債混合型FOF新發規模突破千億元，新品承接的資金容量較此前出現明顯提升。尤其在近期風險資產波動明顯加劇的趨勢下，權益資產投資佔比低於15%甚至低於10%的低波類“固收+”產品，已陸續成為各家公募機構爭相佈局的重點方向。業內人士表示，隨著風險資產持續上漲，其投資價效比相比固收資產較此前有所回落，低波策略在當前的市場環境下優勢得到進一步凸顯。（中國證券報）"
-    },
-    {
-      "id": "4929101",
-      "time": "2026-06-11 07:07:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊斯蘭革命衛隊海軍：鑑於美國敵人一再違反停火條件，霍爾木茲海峽將無限期關閉。我們警告說，任何船隻不得離開波斯灣和阿曼灣的停泊地。任何靠近霍爾木茲海峽的行為將被視為與敵人的合作。"
-    },
-    {
-      "id": "4929100",
-      "time": "2026-06-11 07:06:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟與韓國簽署數字貿易協議，深化雙邊經濟關係】歐盟與韓國週三簽署了一項數字貿易協定，旨在提升數字交易便利性，並進一步加強雙方的經濟聯絡。這項數字貿易協議以及峰會上達成的其他合作內容，例如交換機密安全資訊和旅客姓名記錄，是雙方在當前地緣政治不確定性加劇的背景下推動建立新聯盟並深化現有夥伴關係的一部分。該數字貿易協議是對2011年生效的自由貿易協定的補充，旨在促進跨境資料流動，承認電子合同和電子簽名，並制定消費者保護規則。該協議還將降低企業成本，促進服務貿易。歐盟是韓國第三大商品貿易伙伴，韓國則是歐盟第八大貿易伙伴。"
-    },
-    {
-      "id": "mkt:019eb3c9-d1d9-7dd8-afae-4c0f406824ca",
-      "time": "2026-06-11 07:06:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【IRGC warns vessels to avoid Strait of Hormuz, says it will be temporarily closed】Iran’s Islamic Revolutionary Guard Corps said the Strait of Hormuz will be temporarily closed until further notice, blaming repeated US violations of a ceasefire. The IRGC warned all vessels not to move from anchorages in the Persian Gulf and Gulf of Oman and said any approach to the Strait would be treated as cooperation with the enemy."
-    },
-    {
-      "id": "te:economy:558168",
-      "time": "2026-06-11 07:06:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "South Korea's Jobless Rate Holds at 2.8% — South Korea’s seasonally adjusted unemployment rate stood at 2.8% in May 2026, unchanged from April. The economy lost 40,000 jobs during the month, the first decline in employment in 17 months, amid economic uncertainty, bringing total employment to 29.120 million. A decline in employment came amid persistent weakness in mining & manufacturing and construction. Employment also dropped in agriculture, forestry & fishing, as well as wholesale & retail trade and accommodation & food services. Meanwhile, gains were recorded in electricity, transport, communication & finance, and business, personal, and public services."
     }
   ]
 }
