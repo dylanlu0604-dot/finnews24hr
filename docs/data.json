@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-18 05:22:08",
-  "count": 18757,
+  "updated": "2026-06-18 05:26:11",
+  "count": 18761,
   "items": [
+    {
+      "id": "4941864",
+      "time": "2026-06-18 05:24:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗和美國總統可能已簽署諒解備忘錄文字。"
+    },
+    {
+      "id": "mkt:019ed778-5f05-7dd8-b064-75cbea531a63",
+      "time": "2026-06-18 05:24:10",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Axios, citing two U.S. officials, reported the U.S. and Iran signed a memorandum of understanding on Wednesday to end the war; the agreement is now in effect."
+    },
+    {
+      "id": "4941863",
+      "time": "2026-06-18 05:24:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國和伊朗今天以電子方式簽署了諒解備忘錄。"
+    },
+    {
+      "id": "4941862",
+      "time": "2026-06-18 05:23:47",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美伊諒解備忘錄已完成雙方簽署，即刻生效。"
+    },
+    {
+      "id": "mkt:019ed777-eaea-7dd8-b064-6e81fa4f92f1",
+      "time": "2026-06-18 05:23:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian state broadcaster Press TV quoted an Iranian foreign ministry spokesman saying a memorandum of understanding between Iran and the United States has been finalized and signed by both parties."
+    },
+    {
+      "id": "4941861",
+      "time": "2026-06-18 05:22:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊美諒解備忘錄文字已正式敲定，雙方均已簽署該檔案。"
+    },
+    {
+      "id": "mkt:019ed776-7622-7dd8-b064-67119c3f9d75",
+      "time": "2026-06-18 05:22:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he held coordinated talks with U.S. President Trump and French President Macron, thanking Trump for help advancing the peace process and Macron for organizing a summit and their joint efforts."
+    },
+    {
+      "id": "4941860",
+      "time": "2026-06-18 05:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，他感謝特朗普助力推動和平程序，感謝馬克龍組織此次峰會並開展聯合工作。"
+    },
+    {
+      "id": "4941859",
+      "time": "2026-06-18 05:21:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，他與特朗普、馬克龍進行了“協調立場對話”。"
+    },
     {
       "id": "4941858",
       "time": "2026-06-18 05:20:15",
@@ -172892,55 +172975,6 @@
         "國際"
       ],
       "text": "【德黑蘭等地防空系統啟動】據伊朗邁赫爾通訊社報道，當地時間今天（6月11日）凌晨，伊朗首都德黑蘭西部的防空系統啟動。邁赫爾通訊社還報道稱，伊朗南部的法爾斯地區防空系統啟動。另據報道，伊朗南部錫裡克市傳出爆炸聲，位於波斯灣的基什島遠處傳來不明聲響。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019eb36c-547b-7dd8-afad-003fb2b12fb3",
-      "time": "2026-06-11 05:24:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Mehr News Agency reports explosions heard in the Sirik region of Iran."
-    },
-    {
-      "id": "4929006",
-      "time": "2026-06-11 05:24:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：錫裡克地區傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:019eb36a-8804-7dd8-afac-fcc907338d77",
-      "time": "2026-06-11 05:22:43",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) CEO said the Abilene, Texas data center has delivered 42% of its total capacity and expects to deliver a further 35% within the next 90 days."
-    },
-    {
-      "id": "mkt:019eb36a-6255-7dd8-afac-f00d7d4b5cca",
-      "time": "2026-06-11 05:22:34",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) CEO said the company signed $67 billion of AI infrastructure contracts in fiscal 2026 Q4, most of which are bundled with hardware or prepaid."
-    },
-    {
-      "id": "4929005",
-      "time": "2026-06-11 05:22:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "甲骨文CEO： 得克薩斯州阿比林資料中心已交付總容量的 42%，預計未來 90 天內還將交付 35%。"
     }
   ]
 }
