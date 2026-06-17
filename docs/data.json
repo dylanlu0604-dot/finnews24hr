@@ -1,7 +1,1518 @@
 {
-  "updated": "2026-06-18 02:55:43",
-  "count": 18664,
+  "updated": "2026-06-18 03:29:20",
+  "count": 18779,
   "items": [
+    {
+      "id": "4941791",
+      "time": "2026-06-18 03:27:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國發布與多明尼加共和國諒解備忘錄相關宣告。"
+    },
+    {
+      "id": "mkt:019ed70d-b26f-7dd8-b063-831a31123f48",
+      "time": "2026-06-18 03:27:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IRNA reports the U.S. has pledged to issue waivers for Iranian crude, petrochemical and derivative exports and all related services from the memorandum's signing until sanctions are formally lifted."
+    },
+    {
+      "id": "4941790",
+      "time": "2026-06-18 03:27:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表示：伊朗與美國將在談判期間就一項解凍資產的機制達成一致。"
+    },
+    {
+      "id": "mkt:019ed70c-c532-7dd8-b063-7a0f68fe7d3e",
+      "time": "2026-06-18 03:26:38",
+      "tags": [
+        "MKT News",
+        "CME.O"
+      ],
+      "text": "Wall Street Journal reports CME CEO Terry Duffy will step down and the exchange's CFO will succeed him."
+    },
+    {
+      "id": "mkt:019ed70c-c426-7dd8-b063-77b932ba398c",
+      "time": "2026-06-18 03:26:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Fed launches reform: Chair Wash to set five working groups to reshape policy framework】Federal Reserve Chair Wash announced at his first Washington press conference a reform push creating five special working groups to review the Fed’s policy framework. The groups will cover Fed communications; the Fed balance sheet; use and reliance on existing data sources; productivity and employment in a transition era; and the Fed’s inflation framework. Teams are being formed, expected to start in the coming weeks, deliver initial analytical frameworks in autumn, and aim to complete most or all work by year-end. The communications group is expected to propose “well-considered adjustments,” potentially including changes to the Summary of Economic Projections (SEP) and the officials’ dot plot."
+    },
+    {
+      "id": "4941789",
+      "time": "2026-06-18 03:26:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社就諒解備忘錄原文表態：美國承諾在諒解備忘錄執行框架內，允許伊朗動用其被凍結的資金。"
+    },
+    {
+      "id": "4941788",
+      "time": "2026-06-18 03:26:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指數創3月13日以來最大漲幅。"
+    },
+    {
+      "id": "mkt:019ed70c-0d74-7dd8-b063-682e9a9c12e5",
+      "time": "2026-06-18 03:25:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "According to the Islamic Republic News Agency, free passage through the Strait of Hormuz is limited to a 60-day period."
+    },
+    {
+      "id": "4941787",
+      "time": "2026-06-18 03:25:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普稱美軍將再駐紮海灣一段時間】當地時間6月17日晚，結束七國集團峰會行程的美國總統特朗普抵達巴黎後在機場接受採訪時表示，美軍將在海灣地區“再駐紮一段時間”。對於美國與伊朗簽署諒解備忘錄後要進入60天談判期以達成最終協議，特朗普表示，60天並非達成最終協議的“硬性截止日期”。 特朗普還稱，如果其他國家擁有彈道導彈，那麼不讓伊朗擁有彈道導彈就“有點不公平”。據伊朗當年此前透露的伊美諒解備忘錄內容，後續60天的談判將不涉及伊朗導彈計劃。"
+    },
+    {
+      "id": "mkt:019ed70b-a185-7dd8-b063-65f9ac4ec71f",
+      "time": "2026-06-18 03:25:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Iran's state news agency IRNA says commercial shipping transit will resume immediately and will return to normal operations within 30 days, though demining and removal of technical obstacles remain necessary."
+    },
+    {
+      "id": "4941786",
+      "time": "2026-06-18 03:25:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什稱正設立工作組 評估美聯儲通脹框架和資產負債表】美聯儲主席凱文·沃什表示，他正設立多個工作組以研究央行職能，包括溝通、資產負債表、對現有資料來源的使用和依賴、生產率與就業，以及美聯儲的通脹框架。“每個工作組都將服務於一個目標，這是系統內所有人、以及過去幾天與我同桌開會的所有人共同認可的目標，”他在宣誓就任後首次政策會議後的記者會上表示。他說，目標是打造一個“清醒認識自身使命、適應目標並聚焦未來”的美聯儲。沃什表示，央行2%的通脹目標將不在通脹工作組的評估範圍內。"
+    },
+    {
+      "id": "mkt:019ed70b-1179-7dd8-b063-5c54e999acb6",
+      "time": "2026-06-18 03:24:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Republic News Agency (IRNA) said the implementation mechanism for the US$300 billion funding plan will be finalized within 60 days as part of the final agreement."
+    },
+    {
+      "id": "4941785",
+      "time": "2026-06-18 03:24:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社就諒解備忘錄內容表示：自簽署完畢起至制裁結束止，美國承諾為伊朗石油出口、石化產品與衍生物出口，以及所有相關服務簽發豁免許可。"
+    },
+    {
+      "id": "mkt:019ed70a-5f48-7dd8-b063-526202915ff2",
+      "time": "2026-06-18 03:24:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Islamic Republic News Agency (IRNA) reported the U.S. has pledged to work with regional partners to develop a mutually agreed plan for Iran's economic reconstruction and to provide at least $300 billion in funding."
+    },
+    {
+      "id": "te:markets:559817",
+      "time": "2026-06-18 03:23:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Pulls Back After FOMC — Silver prices eased to below the $70 per ounce threshold on Wednesday after the Federal Reserve held rates unchanged and flagged the possibility of rate hikes this year. Half of the FOMC members projected it may be appropriate to raise interest rates this year they expect core inflation to remain higher and the labor market to remain at its currently strong level. The outlook pressured fixed income assets, increasing the opportunity cost of holding bullion instead of securities that carry coupons. On top of that, Fed Chairman Warsh announced multiple task forces that will investigate the need for changes to the monetary framework of the Federal Reserve, including a lower balance sheet, further pressuring bonds and precious metals. In the meantime, datacenter operators and AI infrastructure companies continued to raise cash to build more compute capacity, raising the demand outlook for industrial silver. The metal was also due to be used in Chinese expenditure for energy storage."
+    },
+    {
+      "id": "mkt:019ed70a-0fd9-7dd8-b063-4f3c8baa80b3",
+      "time": "2026-06-18 03:23:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Republic News Agency said after a memorandum was signed Iran will make every effort to take measures to ensure safe passage of commercial vessels between the Arabian Gulf and the Gulf of Oman."
+    },
+    {
+      "id": "mkt:019ed709-f355-7dd8-b063-4245e3f1096a",
+      "time": "2026-06-18 03:23:33",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDCHF"
+      ],
+      "text": "USD/CHF rose to 0.8000, up 0.87% intraday; EUR/USD slipped below 1.1500, down 0.93%."
+    },
+    {
+      "id": "mkt:019ed709-c82a-7dd8-b063-3e932dae38e9",
+      "time": "2026-06-18 03:23:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 3.00% intraday to $67.85/oz."
+    },
+    {
+      "id": "4941783",
+      "time": "2026-06-18 03:23:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報67.88美元/盎司。"
+    },
+    {
+      "id": "mkt:019ed709-a226-7dd8-b063-36f14a1a0783",
+      "time": "2026-06-18 03:23:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【KEVIN WARSH: Fed can achieve 2% inf target】Fed chair KEVIN WARSH said at a press conference the Fed can achieve a 2% inf target and that the C.BANK is \"clear and consistent\" in its commitment. He attributed current high inf to supply shocks. On forward guidance he declined to give specifics but said policy appears to have restrained the housing market. He called press conferences an effective communication tool for households and businesses but did not commit to holding one after every Fed meeting."
+    },
+    {
+      "id": "4941782",
+      "time": "2026-06-18 03:23:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守68美元/盎司，日內跌2.93%。"
+    },
+    {
+      "id": "4941781",
+      "time": "2026-06-18 03:23:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報68.39美元/盎司。"
+    },
+    {
+      "id": "mkt:019ed709-5af7-7dd8-b063-2dfd065940b7",
+      "time": "2026-06-18 03:22:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian state news agency IRNA reported the US will begin immediately lifting its maritime blockade of Iran after signing a memorandum and will fully lift the blockade within 30 days; IRNA said shipping traffic would return to pre-war levels during that period."
+    },
+    {
+      "id": "mkt:019ed709-0c7f-7dd8-b063-25a18cc64e29",
+      "time": "2026-06-18 03:22:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Warsh: Fed inspector general to publish HQ renovation cost-overrun report this summer】Fed Chair Kevin Warsh said on Wednesday he met with the Fed inspector general, who expects to publish a report this summer on cost overruns in the Federal Reserve’s Washington headquarters renovation. The project drew intense political scrutiny; the Trump administration previously opened a criminal probe into former Fed Chair Powell over the work, which was later dropped. The episode was cited as a factor in Powell’s decision to remain on the Fed’s Board of Governors after his chair term expired in May."
+    },
+    {
+      "id": "mkt:019ed708-8906-7dd8-b063-1e2865e9182e",
+      "time": "2026-06-18 03:22:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Markets have fully priced in the possibility of a Fed rate hike by October."
+    },
+    {
+      "id": "4941780",
+      "time": "2026-06-18 03:21:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數跌1.01%，現報7435.410點；道指跌0.71%，現報51629.090點；納指跌0.99%，現報26116.418點。"
+    },
+    {
+      "id": "4941779",
+      "time": "2026-06-18 03:21:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.00%，現報26112.182點；道指跌0.71%，現報51632.660點；標普500指數跌0.98%，現報7437.950點。"
+    },
+    {
+      "id": "4941778",
+      "time": "2026-06-18 03:21:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，海天網路跌17.43%，新氧跌10.40%，迅雷跌7.64%，億咖通科技跌4.92%，霧芯科技跌4.82%。"
+    },
+    {
+      "id": "4941777",
+      "time": "2026-06-18 03:21:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市跌幅擴大，標普500指數下跌1.00%。"
+    },
+    {
+      "id": "mkt:019ed708-0a13-7dd8-b063-114dd11f160f",
+      "time": "2026-06-18 03:21:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "According to documents and oilfield officials, as exports resume Iraq will raise production at the Rumaila oilfield by 300,000 b/d to 650,000 b/d."
+    },
+    {
+      "id": "4941776",
+      "time": "2026-06-18 03:21:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4240美元/盎司，日內跌2.11%。"
+    },
+    {
+      "id": "4941775",
+      "time": "2026-06-18 03:21:19",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員已完全定價美聯儲將於10月加息。"
+    },
+    {
+      "id": "te:markets:559815",
+      "time": "2026-06-18 03:21:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro Down to March-Lows — The euro fell to $1.15, its lowest level since late March, as the US dollar strengthened broadly following the Fed’s latest monetary policy decision. While the Fed left interest rates unchanged, as widely expected, policymakers’ projections were viewed as hawkish, with around half of officials anticipating at least one rate hike in 2026. In Europe, the ECB raised interest rates by 25 basis points last week, in line with expectations, as it continues to combat elevated inflation. However, following the preliminary agreement between the US and Iran, money markets have scaled back expectations for further ECB tightening, now pricing in less than 30 basis points of additional rate hikes this year. ECB policymaker Gediminas Šimkus reiterated on Wednesday that upside risks to inflation continue to justify further monetary tightening. He said he expects at least one more rate hike to help keep inflation expectations anchored."
+    },
+    {
+      "id": "mkt:019ed707-9abe-7dd8-b063-0a0d608e2a31",
+      "time": "2026-06-18 03:21:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State news agency IRNA reports Iran will consult with Oman on future management and maritime services of the Strait of Hormuz."
+    },
+    {
+      "id": "4941774",
+      "time": "2026-06-18 03:20:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社談及諒解備忘錄文字：商用船舶通航將立即啟動，考慮到清除水雷與消除技術障礙的需求，（完整通航機制）將在30日內建成。"
+    },
+    {
+      "id": "mkt:019ed706-ed43-7dd8-b063-0086af13b0a4",
+      "time": "2026-06-18 03:20:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Kevin Warsh: Trends matter more than single data points; employment continuing to improve】Federal Reserve Chair Kevin Warsh said on Wednesday many Fed colleagues view the US labor market as stable and some see the employment trend improving. He stressed the three- to six-month trend is more important than any single data release and said overall employment data has been moving in a positive direction."
+    },
+    {
+      "id": "mkt:019ed706-ea88-7dd8-b062-fe6880a16767",
+      "time": "2026-06-18 03:20:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian state news agency IRNA reported the US has pledged to lift all sanctions on Iran according to the timetable set out in the final agreement framework."
+    },
+    {
+      "id": "4941773",
+      "time": "2026-06-18 03:20:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及烏克蘭局勢： 烏克蘭目前打得相當不錯。俄羅斯的軍隊規模要龐大得多。 但烏克蘭表現亮眼，能守住自身陣線。 別忘了，他們手中精良的裝備不少都源自我方援助。"
+    },
+    {
+      "id": "mkt:019ed706-8f73-7dd8-b062-f4354380db93",
+      "time": "2026-06-18 03:19:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Iran's Islamic Republic News Agency (IRNA) said Iran will maintain the status quo of its nuclear program until a final agreement is reached, and the US will not impose new sanctions on Iran or deploy additional military forces in the region."
+    },
+    {
+      "id": "mkt:019ed706-8110-7dd8-b062-ed6833c0d32f",
+      "time": "2026-06-18 03:19:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Kevin Warsh: Fed still has 'some work to do' on curbing inflation】Federal Reserve Chair Kevin Warsh gave no forward guidance at a press conference but said he has heard FOMC members say the Fed still has \"some work to do\" to achieve price stability. On artificial intelligence, Warsh said the technology could be the most significant economic change of his adult life, bringing both opportunities and risks. He added that if the Fed \"does its job\" it can sustain strong growth, price stability and robust employment."
+    },
+    {
+      "id": "4941772",
+      "time": "2026-06-18 03:19:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1329.00美元/盎司。"
+    },
+    {
+      "id": "4941771",
+      "time": "2026-06-18 03:19:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什：就業資料正朝著好的方向發展】美聯儲主席凱文·沃什週三表示，其他央行官員普遍認為美國勞動力市場保持穩定，部分人甚至認為其走勢好於穩定水平；他還補充道，趨勢比具體資料點更為重要。“過去三到六個月的整體走勢比任何單個資料點、任何單次資料釋出都更為重要，我認為就業資料一直朝著積極的方向發展，”沃什表示。"
+    },
+    {
+      "id": "mkt:019ed705-f8ed-7dd8-b062-e66bc995b52b",
+      "time": "2026-06-18 03:19:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Gundlach said the Federal Reserve is unlikely to adjust interest rates before autumn."
+    },
+    {
+      "id": "4941770",
+      "time": "2026-06-18 03:18:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4260美元/盎司，日內跌2.18%。"
+    },
+    {
+      "id": "4941769",
+      "time": "2026-06-18 03:18:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表示：該專案的實施機制將作為最終協議的一部分，在60天內敲定。"
+    },
+    {
+      "id": "mkt:019ed705-45cf-7dd8-b062-d9945ed834ca",
+      "time": "2026-06-18 03:18:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said on the US-Mexico-Canada Agreement (USMCA) he thinks an agreement may not be reached."
+    },
+    {
+      "id": "4941768",
+      "time": "2026-06-18 03:18:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家通訊社就諒解備忘錄文字表示：美國將與地區合作伙伴共同承諾，制定一項雙方商定的伊朗經濟重建計劃，並提供至少3000億美元資金。"
+    },
+    {
+      "id": "4941767",
+      "time": "2026-06-18 03:18:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什就大樓翻新事宜與監察長舉行了會晤，預計今夏將收到報告】美聯儲主席凱文·沃什週三表示，他已與美聯儲監察長會面，後者告知沃什，關於美聯儲華盛頓總部大樓正在進行的翻新專案成本超支問題，預計將於今年夏天釋出一份報告。在特朗普政府就此事對沃什的前任傑羅姆·鮑威爾展開刑事調查後，該專案演變成了一項高度政治化的議題。儘管該調查已被撤銷，但這正是鮑威爾在5月任期屆滿後仍以理事身份留任美聯儲的關鍵原因。"
+    },
+    {
+      "id": "mkt:019ed704-f26c-7dd8-b062-d08e467d90a3",
+      "time": "2026-06-18 03:18:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Trump said the US-Mexico-Canada Agreement (USMCA) could expire immediately."
+    },
+    {
+      "id": "4941766",
+      "time": "2026-06-18 03:18:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報4242.32美元/盎司。"
+    },
+    {
+      "id": "mkt:019ed704-e421-7dd8-b062-ccc306bbcd34",
+      "time": "2026-06-18 03:18:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "President Trump said the US-Mexico-Canada Agreement (USMCA) will not continue to exist and will be terminated."
+    },
+    {
+      "id": "4941765",
+      "time": "2026-06-18 03:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克重啟西古爾納2油田，目前日產約15萬桶原油，以提升南部石油產量。"
+    },
+    {
+      "id": "mkt:019ed704-a837-7dd8-b062-c0546299fae6",
+      "time": "2026-06-18 03:17:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold plunged 2.00% intraday to $4,244.31/oz."
+    },
+    {
+      "id": "4941764",
+      "time": "2026-06-18 03:17:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家通訊社關於諒解備忘錄文字：簽署後，伊朗將盡其所能採取措施，確保海灣與阿曼灣之間商船的安全通行。"
+    },
+    {
+      "id": "4941763",
+      "time": "2026-06-18 03:17:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4250美元/盎司，日內跌1.97%。"
+    },
+    {
+      "id": "4941762",
+      "time": "2026-06-18 03:17:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4266.50美元/盎司。"
+    },
+    {
+      "id": "4941761",
+      "time": "2026-06-18 03:17:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：七國集團峰會上沒談格陵蘭，但我應該談的。"
+    },
+    {
+      "id": "4941760",
+      "time": "2026-06-18 03:17:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4270美元/盎司，日內跌1.95%。"
+    },
+    {
+      "id": "mkt:019ed704-3826-7dd8-b062-b8b3464cac8c",
+      "time": "2026-06-18 03:17:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Greenland was not discussed at the G7 but should have been."
+    },
+    {
+      "id": "mkt:019ed704-2854-7dd8-b062-b21ade0715f1",
+      "time": "2026-06-18 03:17:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Kevin Warsh: No Fed participant wants a near-term rate hike】Federal Reserve Chair Kevin Warsh said at a press conference that no one at the Fed favors a near-term rate increase. Asked about a suggestion that current data would support a hike, Warsh said the view \"is not endorsed by any of the 19 participants present. We will meet again in six weeks and revisit the matter.\""
+    },
+    {
+      "id": "4941759",
+      "time": "2026-06-18 03:17:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表示：美國將在簽署後立即開始解除對伊朗的海上封鎖，30天內全面解除封鎖。"
+    },
+    {
+      "id": "4941758",
+      "time": "2026-06-18 03:16:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：或將恢復對俄羅斯石油的制裁。"
+    },
+    {
+      "id": "4941757",
+      "time": "2026-06-18 03:16:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元下跌1%，至盤中低點1.3287。"
+    },
+    {
+      "id": "mkt:019ed703-867a-7dd8-b062-adefeb1ec56d",
+      "time": "2026-06-18 03:16:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said the 60-day deadline is not a strict final deadline if Iran behaves."
+    },
+    {
+      "id": "mkt:019ed703-77ab-7dd8-b062-a4f3a2644cec",
+      "time": "2026-06-18 03:16:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said he may reimpose sanctions on Russian oil."
+    },
+    {
+      "id": "4941756",
+      "time": "2026-06-18 03:16:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社關於諒解備忘錄文字：在此期間，船舶交通將恢復到戰前水平。"
+    },
+    {
+      "id": "mkt:019ed703-5846-7dd8-b062-9b17608232d8",
+      "time": "2026-06-18 03:16:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh's press conference has concluded."
+    },
+    {
+      "id": "te:markets:559814",
+      "time": "2026-06-18 03:16:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises Ahead of BCB Decision — The Ibovespa edged up above the 170,000 mark on Wednesday as investors focused on monetary policy decisions from the BCB and the US Federal Reserve. Markets largely expect Brazil's central bank to cut the Selic rate by 25 basis points to 14.25%, although a pause remains possible amid a worsening external backdrop, higher oil prices, and deteriorating inflation expectations. As expected, the Fed left interest rates unchanged at 3.50%-3.75% and signaled a more hawkish outlook, reinforcing expectations that borrowing costs could remain elevated for longer. However, easing concerns over energy-driven inflation and growing expectations of a dovish stance from the BCB supported sentiment. Banks posted gains, with Itaú rising 2% and Bradesco adding 1.2%. WEG advanced nearly 3% after approving R$438.1 million in interest on equity, while Vale fell more than 1% amid lower iron ore prices."
+    },
+    {
+      "id": "mkt:019ed702-f26b-7dd8-b062-9565ef58f6d3",
+      "time": "2026-06-18 03:15:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he believes employment data has been moving in a positive direction."
+    },
+    {
+      "id": "mkt:019ed702-e0bb-7dd8-b062-8a37328f4161",
+      "time": "2026-06-18 03:15:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said trends are more important than individual data points."
+    },
+    {
+      "id": "4941755",
+      "time": "2026-06-18 03:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：或將對俄羅斯重新實施制裁。"
+    },
+    {
+      "id": "4941754",
+      "time": "2026-06-18 03:15:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4260美元/盎司，日內跌1.69%。"
+    },
+    {
+      "id": "mkt:019ed702-ab05-7dd8-b062-8610fbdfe535",
+      "time": "2026-06-18 03:15:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Fed Chair Kevin Warsh said the committee regards the labor market as stable."
+    },
+    {
+      "id": "mkt:019ed702-9917-7dd8-b062-7de6b56dc21f",
+      "time": "2026-06-18 03:15:32",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "IRNA reports the memorandum text stipulates destruction of enriched nuclear material will be carried out with the agreement of both the US and Iran and under IAEA supervision."
+    },
+    {
+      "id": "te:markets:559813",
+      "time": "2026-06-18 03:15:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Muted Following Fed Meeting — The S&P/TSX Composite Index was little changed around the 35,000 mark on Wednesday as investors weighed the Fed's latest policy decision and awaited confirmation of a US-Iran peace agreement. As expected, the Fed kept interest rates unchanged at 3.50%-3.75% and signaled a more hawkish outlook, reinforcing expectations that borrowing costs could remain elevated for longer. However, easing energy-related inflation concerns helped push Canadian bond yields lower, supporting financial stocks. RBC, TD Bank, and BMO gained about 1%, while Scotiabank advanced nearly 2%. In contrast, energy shares came under pressure on expectations of a normalization in Middle East oil supplies, with Suncor and Imperial Oil losing more than 2%."
+    },
+    {
+      "id": "4941753",
+      "time": "2026-06-18 03:15:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表態：伊朗將與阿曼合作，共同確定霍爾木茲海峽未來的管理機制與海運服務安排。"
+    },
+    {
+      "id": "4941752",
+      "time": "2026-06-18 03:15:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：60天並非最終協議的硬性截止期限。"
+    },
+    {
+      "id": "4941751",
+      "time": "2026-06-18 03:15:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克魯邁拉油田日產量增產30萬桶，達到每日65萬桶，出口作業恢復。"
+    },
+    {
+      "id": "4941750",
+      "time": "2026-06-18 03:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不傾向於簽署新的《美墨加協定》，但對此持開放態度。"
+    },
+    {
+      "id": "mkt:019ed701-8726-7dd8-b062-7617aebdb0e4",
+      "time": "2026-06-18 03:14:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump said it would be \"a bit unfair\" if other countries possess ballistic missiles while Iran has none."
+    },
+    {
+      "id": "mkt:019ed700-fe56-7dd8-b062-6f2669e5c622",
+      "time": "2026-06-18 03:13:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed meeting had been a fairly cordial few days."
+    },
+    {
+      "id": "4941749",
+      "time": "2026-06-18 03:13:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社關於諒解備忘錄文字：美國承諾在最終協議框架內，按照商定時間表取消所有對伊朗制裁。"
+    },
+    {
+      "id": "4941748",
+      "time": "2026-06-18 03:13:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲委員會認為勞動力市場已趨穩定。"
+    },
+    {
+      "id": "mkt:019ed700-8050-7dd8-b062-62c69236c973",
+      "time": "2026-06-18 03:13:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said some view current conditions as acceptable, but many have expressed strong interest in substantive reform of the Fed's Summary of Economic Projections."
+    },
+    {
+      "id": "4941747",
+      "time": "2026-06-18 03:13:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若沒有《美墨加協定》，美國表現會更好。"
+    },
+    {
+      "id": "4941746",
+      "time": "2026-06-18 03:12:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談美墨加協定：我在想我們或許無法達成協議。"
+    },
+    {
+      "id": "mkt:019ed6ff-f1cf-7dd8-b062-5bdf87b0055f",
+      "time": "2026-06-18 03:12:38",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "GBP/USD fell 1.00% intraday to 1.3292."
+    },
+    {
+      "id": "4941745",
+      "time": "2026-06-18 03:12:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "日元兌美元匯率跌至日內低點160.60，為4月30日以來最低水平。"
+    },
+    {
+      "id": "mkt:019ed6ff-d478-7dd8-b062-55c984b86124",
+      "time": "2026-06-18 03:12:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he would not be surprised if a new communication framework or adjustments to the Fed’s Summary of Economic Projections emerge by year-end; until then he expects colleagues to continue submitting their forecasts."
+    },
+    {
+      "id": "mkt:019ed6ff-952a-7dd8-b062-4e7ebc315710",
+      "time": "2026-06-18 03:12:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kevin Warsh said the Federal Open Market Committee (FOMC) has committed to provide projections and is expected to honor that commitment."
+    },
+    {
+      "id": "mkt:019ed6ff-9515-7dd8-b062-46560851fb04",
+      "time": "2026-06-18 03:12:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "NZD/USD fell more than 1.00% intraday to 0.5770."
+    },
+    {
+      "id": "4941744",
+      "time": "2026-06-18 03:12:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：將全力實現價格穩定目標。"
+    },
+    {
+      "id": "4941743",
+      "time": "2026-06-18 03:11:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社就諒解備忘錄文字發表宣告：濃縮鈾的處置將在雙方達成共識、且國際原子能機構監督下開展。"
+    },
+    {
+      "id": "4941742",
+      "time": "2026-06-18 03:11:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：06月18日02時56分在中大西洋海嶺中部附近（南緯0.38度，西經20.07度）發生6.7級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "4941741",
+      "time": "2026-06-18 03:11:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們的信譽要求我們在所有領域都兌現承諾。"
+    },
+    {
+      "id": "te:markets:559811",
+      "time": "2026-06-18 03:11:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Hits 11-week High — DXY increased to 100.32, the highest since March 2026. Over the past 4 weeks, Dollar Index gained 1.13%, and in the last 12 months, it increased 1.42%."
+    },
+    {
+      "id": "te:markets:559810",
+      "time": "2026-06-18 03:11:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "British Pound Hits 10-week Low — GBPUSD decreased to 1.33, the lowest since April 2026. Over the past 4 weeks, British Pound US Dollar lost 0.92%, and in the last 12 months, it decreased 0.81%."
+    },
+    {
+      "id": "mkt:019ed6fe-a879-7dd8-b062-3f2fc52b88d0",
+      "time": "2026-06-18 03:11:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said more information will be available at the meeting in six weeks."
+    },
+    {
+      "id": "mkt:019ed6fe-919c-7dd8-b062-321a6b92eba8",
+      "time": "2026-06-18 03:11:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said that, based on his observations at the meeting (reflected in the projections), his understanding is that roughly half his colleagues favor lower interest rates and the other half favor higher rates."
+    },
+    {
+      "id": "4941739",
+      "time": "2026-06-18 03:10:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：如果其他國家擁有彈道導彈，伊朗卻一枚都沒有“有點不公平”。"
+    },
+    {
+      "id": "4941738",
+      "time": "2026-06-18 03:10:46",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談美聯儲：好吧，他們維持利率不變，隨便吧。"
+    },
+    {
+      "id": "4941737",
+      "time": "2026-06-18 03:10:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗核協議將在未來48小時內簽署。"
+    },
+    {
+      "id": "4941736",
+      "time": "2026-06-18 03:10:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗方面的簽字已成定局，但尚未最終確定。"
+    },
+    {
+      "id": "mkt:019ed6fd-fb6c-7dd8-b062-2dbaf0d1f4ec",
+      "time": "2026-06-18 03:10:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump said the United States may maintain a military presence in the Gulf region for some time."
+    },
+    {
+      "id": "4941735",
+      "time": "2026-06-18 03:10:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：可能會在海灣地區保留一段時間的軍事存在。"
+    },
+    {
+      "id": "4941734",
+      "time": "2026-06-18 03:10:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方通訊社談諒解備忘錄文字：伊朗與美國已同意透過雙方共同商定的機制解決濃縮鈾庫存的地位問題。"
+    },
+    {
+      "id": "mkt:019ed6fd-b402-7dd8-b062-27a1a9facfb1",
+      "time": "2026-06-18 03:10:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "Fed Chair Kevin Warsh said a new communications framework before year-end would not be surprising."
+    },
+    {
+      "id": "mkt:019ed6fd-a44f-7dd8-b062-1b8f077121a3",
+      "time": "2026-06-18 03:10:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the Iran agreement will be signed within the next 48 hours."
+    },
+    {
+      "id": "4941733",
+      "time": "2026-06-18 03:10:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：聯邦公開市場委員會已承諾釋出經濟預測，預計將兌現這一承諾。"
+    },
+    {
+      "id": "mkt:019ed6fd-8b58-7dd8-b062-10dc7adf29dd",
+      "time": "2026-06-18 03:10:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Trump said the Fed keeping rates unchanged is fine and that a Fed rate hike could happen."
+    },
+    {
+      "id": "4941732",
+      "time": "2026-06-18 03:09:50",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談美聯儲可能加息：這有可能發生。"
+    },
+    {
+      "id": "4941731",
+      "time": "2026-06-18 03:09:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗協議似乎正在順利推進。"
+    },
+    {
+      "id": "4941730",
+      "time": "2026-06-18 03:09:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗官方通訊社就諒解備忘錄文字表態：伊朗重申不會製造或獲取核武器。"
+    },
+    {
+      "id": "4941729",
+      "time": "2026-06-18 03:09:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：六週後會議時將瞭解更多情況。"
+    },
+    {
+      "id": "4941728",
+      "time": "2026-06-18 03:09:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：根據我在會場聽到的發言，結合預測資料來看，有一半的同事認為利率應該下調，而另一半則認為應該上調。"
+    },
+    {
+      "id": "mkt:019ed6fc-b98b-7dd8-b062-08dc3a72fd96",
+      "time": "2026-06-18 03:09:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian state news agency said, per the memorandum of understanding text, the U.S. and Iran committed to reach a final agreement within 60 days of negotiations; the period may be extended."
+    },
+    {
+      "id": "mkt:019ed6fc-48b3-7dd8-b062-04a63224497a",
+      "time": "2026-06-18 03:08:38",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Iran's state news agency reported the MoU text states the U.S. and Iran will not interfere in each other's internal affairs."
+    },
+    {
+      "id": "4941727",
+      "time": "2026-06-18 03:08:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗官方通訊社就諒解備忘錄文字表示：雙方承諾將在60天談判期內達成最終協議，該談判期限可延長。"
+    },
+    {
+      "id": "4941726",
+      "time": "2026-06-18 03:08:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗官方通訊社就諒解備忘錄文字內容稱：兩國互不干涉內政。"
+    },
+    {
+      "id": "mkt:019ed6fb-ee51-7dd8-b061-fd5c3790e27a",
+      "time": "2026-06-18 03:08:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【WSJ's Timiraos not called on during first 30 minutes of Warsh's opening press conference】Wall Street Journal reporter Nick Timiraos had not been called on for a question roughly 30 minutes into Fed Chair Kevin Warsh's first press conference. If deliberate, the omission could be a subtle signal that Warsh intends to differentiate his communication style from his predecessor."
+    },
+    {
+      "id": "4941725",
+      "time": "2026-06-18 03:08:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【“美聯儲傳聲筒”在新主席釋出會的30分鐘內未獲提問機會】在美聯儲主席沃什首場新聞釋出會開始約30分鐘後，華爾街日報記者、“美聯儲傳聲筒”Nick Timiraos仍未獲得提問機會。如果這一安排是刻意為之，這可能又是一個微妙訊號，表明美聯儲主席沃什希望在溝通方式上與其前任作出區分。"
+    },
+    {
+      "id": "4941724",
+      "time": "2026-06-18 03:08:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲監察長將於今年夏末釋出翻新工程相關報告。"
+    },
+    {
+      "id": "4941723",
+      "time": "2026-06-18 03:07:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：翻新工程方面，我們將盡己所能，妥善管理納稅人資金。"
+    },
+    {
+      "id": "4941722",
+      "time": "2026-06-18 03:07:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：（在被問及美聯儲總部大樓翻新事宜時）已經與監察長會面。"
+    },
+    {
+      "id": "4941721",
+      "time": "2026-06-18 03:06:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4270美元/盎司，日內跌1.41%。"
+    },
+    {
+      "id": "4941720",
+      "time": "2026-06-18 03:06:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守69美元/盎司，日內跌2.22%。"
+    },
+    {
+      "id": "4941719",
+      "time": "2026-06-18 03:06:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲將毫不猶豫地向行政部門機構提交統計資料方面的建議。"
+    },
+    {
+      "id": "4941718",
+      "time": "2026-06-18 03:06:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方通訊社釋出美伊臨時協議文字。"
+    },
+    {
+      "id": "4941717",
+      "time": "2026-06-18 03:06:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧領域的需求端已有考量，但我對供給端前景尚存疑慮。"
+    },
+    {
+      "id": "4941716",
+      "time": "2026-06-18 03:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：中大西洋中脊發生6.39級地震。"
+    },
+    {
+      "id": "4941715",
+      "time": "2026-06-18 03:05:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：目標並非徹底改革國民賬戶體系。"
+    },
+    {
+      "id": "4941714",
+      "time": "2026-06-18 03:05:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報69.11美元/盎司。"
+    },
+    {
+      "id": "4941713",
+      "time": "2026-06-18 03:05:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報68.56美元/盎司。"
+    },
+    {
+      "id": "4941712",
+      "time": "2026-06-18 03:05:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧需求端已被計入估值，供給端仍存在較高不確定性。"
+    },
+    {
+      "id": "4941711",
+      "time": "2026-06-18 03:03:48",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：與會的19名委員中無人認為我們今日需要收緊政策。"
+    },
+    {
+      "id": "4941710",
+      "time": "2026-06-18 03:03:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金下跌3%，至每盎司1747.51美元。"
+    },
+    {
+      "id": "4941709",
+      "time": "2026-06-18 03:03:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們在價格穩定方面仍有工作要做。"
+    },
+    {
+      "id": "4941708",
+      "time": "2026-06-18 03:02:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我認為我們並非不得不在充分就業與物價穩定之間做出殘酷取捨。"
+    },
+    {
+      "id": "4941707",
+      "time": "2026-06-18 03:02:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：除房地產領域外，很難說當前政策在其他任何領域都具有緊縮性。"
+    },
+    {
+      "id": "4941706",
+      "time": "2026-06-18 03:02:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：政策效果存在不均衡性。"
+    },
+    {
+      "id": "4941705",
+      "time": "2026-06-18 03:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葡萄牙1:1戰平剛果（金）】在剛剛結束的美加墨世界盃K組首輪比賽中，葡萄牙隊與剛果（金）隊1:1戰平。"
+    },
+    {
+      "id": "4941704",
+      "time": "2026-06-18 03:01:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲的職責是確保不會出現第二輪價格影響。"
+    },
+    {
+      "id": "4941703",
+      "time": "2026-06-18 03:01:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：委員會今天討論了生產率，人工智慧被提及。"
+    },
+    {
+      "id": "4941702",
+      "time": "2026-06-18 03:01:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌。"
+    },
+    {
+      "id": "4941701",
+      "time": "2026-06-18 03:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.28%，報24196.04點，低水116.12點。"
+    },
+    {
+      "id": "4941700",
+      "time": "2026-06-18 02:59:53",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 與財政部長每週舉行的會晤十分有價值， 迄今為止已與貝森特會面三次。美聯儲需要廣泛的視野，但職責要明確。美聯儲的職責是確保沒有二次價格效應。"
+    },
+    {
+      "id": "4941699",
+      "time": "2026-06-18 02:59:05",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 被問及是否與特朗普進行過會談時，表示暫無相關資訊可供披露。"
+    },
+    {
+      "id": "4941698",
+      "time": "2026-06-18 02:58:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 必須確保原油、雞蛋、牛肉等品類價格波動不會擴散至整體經濟。"
+    },
+    {
+      "id": "4941697",
+      "time": "2026-06-18 02:58:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲無法對特定商品價格產生顯著影響。"
+    },
+    {
+      "id": "4941696",
+      "time": "2026-06-18 02:57:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理：政府決定逐步取消燃油價格上限。"
+    },
+    {
+      "id": "4941695",
+      "time": "2026-06-18 02:57:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們為市場翻開了央行歷史的新篇章。金融市場需要消化大量變化。不會特別關注市場在最初幾分鐘和幾天的反應。市場和公眾必須知道美聯儲將實現價格穩定。"
+    },
+    {
+      "id": "4941693",
+      "time": "2026-06-18 02:56:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：今日不會就市場反應置評。"
+    },
+    {
+      "id": "4941692",
+      "time": "2026-06-18 02:56:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們不會將決策權外包。"
+    },
+    {
+      "id": "4941691",
+      "time": "2026-06-18 02:55:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴方譴責以方在約旦河西岸強推定居點擴建計劃】巴勒斯坦外交部發表宣告，強烈譴責以色列持續推進擴張性的猶太定居點政策。宣告指出，以色列民政管理局高階規劃委員會日前批准在約旦河西岸的猶太定居點新建576套住房，其中包括在希伯倫核心區域強行修建一座猶太教宗教學校，巴方對此表示“最強烈的譴責”。巴勒斯坦外交部在宣告中強調，以方的上述決定意味著以色列猶太定居點建設活動“出現嚴重升級”，這是對國際法和國際合法性決議的公然違背。宣告特別指出，此舉嚴重違反了聯合國安理會第2334號決議，該決議已明確重申以色列在巴勒斯坦被佔領土上建立定居點是非法的。 (央視新聞)"
+    },
     {
       "id": "mkt:019ed6ef-b5ac-7dd8-b061-032402c8712f",
       "time": "2026-06-18 02:54:54",
@@ -171608,361 +173119,6 @@
         "MKT News"
       ],
       "text": "Washington Post reports the White House supports child online-safety legislation."
-    },
-    {
-      "id": "mkt:019eb302-4646-7dd8-afab-5738d22d7d32",
-      "time": "2026-06-11 03:28:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says US 'secretly' helped 200+ merchant ships transit Hormuz】President Trump said on the 10th the US military secretly assisted more than 200 merchant vessels transiting the Strait of Hormuz, enabling over 100 million barrels of oil to enter the open market. He said he ordered the mission last month and asserted control of the strait rests with the US, not Iran. A US effort launched in early May to escort trapped ships, described as a \"freedom plan,\" was later suspended. US media reported the pause followed Gulf allies' objections and Saudi refusal to allow US use of Saudi bases and airspace after the mission was not coordinated. The New York Times cited anonymous US officials saying US forces quietly guided about 70 ships through the strait in the prior three weeks."
-    },
-    {
-      "id": "mkt:019eb2fe-4c14-7dd8-afab-48f08b6b24bd",
-      "time": "2026-06-11 03:24:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【40 mln barrels left under US SPR loan plan】The US Department of Energy said on Wednesday it will seek to lend up to 40 mln barrels from the Strategic Petroleum Reserve to energy firms to help lower fuel prices. The loans are part of a previously announced 172 mln-barrel SPR release; about 133 mln barrels have been lent so far. In March, after the US and Israel launched a war on Iran on Feb. 28, the US and roughly 30 IEA members agreed to jointly release about 400 mln barrels to help stabilize the oil market. US SPR stocks stood at 349.2 mln barrels, the lowest since Aug 2023. Borrowers must return an equivalent volume and pay up to a 24% premium in additional oil."
-    },
-    {
-      "id": "4928936",
-      "time": "2026-06-11 03:23:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4110美元/盎司，日內跌4.12%。"
-    },
-    {
-      "id": "mkt:019eb2fc-ea8f-7dd8-afab-43a0ce2ffa5f",
-      "time": "2026-06-11 03:22:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "Nasdaq's late-session losses widened to 2%; Dow fell 1.6% and the S&P 500 fell 1.5%."
-    },
-    {
-      "id": "4928935",
-      "time": "2026-06-11 03:22:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌2.00%，現報25165.234點；道指跌1.67%，現報50021.910點；標普500指數跌1.54%，現報7272.940點。"
-    },
-    {
-      "id": "4928934",
-      "time": "2026-06-11 03:21:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic 呼籲美國國會要求頂尖人工智慧模型接受安全測試。"
-    },
-    {
-      "id": "4928933",
-      "time": "2026-06-11 03:21:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：隨著戴維・埃利森的技術佈局日漸明晰，派拉蒙正重組流媒體業務團隊。"
-    },
-    {
-      "id": "4928932",
-      "time": "2026-06-11 03:21:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "Anthropic 呼籲美國在聯邦層面出臺統一法規前，不要叫停各州自主制定的人工智慧相關法律。"
-    },
-    {
-      "id": "4928931",
-      "time": "2026-06-11 03:18:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【蓋茨：曾遭到愛潑斯坦窒息性敲詐】微軟公司聯合創始人比爾·蓋茨在接受美國國會眾議院一個小組委員會聆訊時坦承，他此前與已故惡名昭彰的金融家傑弗裡·愛潑斯坦（Jeffrey Epstein）的多次會面是“極其嚴重的判斷錯誤”。蓋茨強調，如果他的這種過從甚密在當時客觀上為愛潑斯坦提供了政治或社會信譽背書，他對此表示“深感自責與歉意”。蓋茨在聆訊期間披露稱，在他斷絕與該金融家的一切聯絡後，愛潑斯坦曾惡意利用“刺探到的關於我個人生活的敏感隱秘資訊”（包括掌握蓋茨當年的婚外情線索），對蓋茨施加窒息性敲詐，試圖逼迫其重新回到自己的核心社交圈中。"
-    },
-    {
-      "id": "te:economy:558152",
-      "time": "2026-06-11 03:17:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "US Budget Deficit Narrows in May — The US government recorded a $293 billion budget deficit in May 2026, compared with a $316 billion gap a year earlier, but wider than forecasts of a $275 billion shortfall. Government outlays declined to $628 billion from $687 billion. The largest spending categories were Social Security ($140 billion), net interest payments ($107 billion), Medicare ($87 billion), and health programs ($82 billion). Meanwhile, receipts fell to $335 billion from $371 billion. The main sources of revenue were social insurance and retirement contributions ($157 billion), individual income taxes ($152 billion), and corporate income taxes ($11 billion). In the first eight months of fiscal year 2026, the federal budget deficit totaled $1.25 trillion."
-    },
-    {
-      "id": "mkt:019eb2f6-6659-7dd8-afab-3fd371d8cbc8",
-      "time": "2026-06-11 03:15:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times reports the European Union plans to continue granting free carbon allowances to firms into the 2040s, scrapping the current 2039 cut-off."
-    },
-    {
-      "id": "4928930",
-      "time": "2026-06-11 03:15:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "據金融時報：歐盟計劃將免費碳排放配額政策延續至 2040 年代，取消現行 2039 年的截止期限。"
-    },
-    {
-      "id": "mkt:019eb2f5-d866-7dd8-afab-325c0a65b709",
-      "time": "2026-06-11 03:15:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Financial Times reports the EU plans to shield certain sectors from future carbon costs, provided those companies invest inside the EU."
-    },
-    {
-      "id": "4928929",
-      "time": "2026-06-11 03:15:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "據金融時報：歐盟擬為在本區域投資的企業提供保障，使其免受未來碳成本上漲衝擊。"
-    },
-    {
-      "id": "mkt:019eb2f5-785d-7dd8-afab-2cd2f52dfe6f",
-      "time": "2026-06-11 03:14:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Colombian President Petro denies temporary suspension】June 10 — Colombian President Gustavo Petro denied reports he had been temporarily suspended, saying a single lawmaker had filed a request with the House Committee on Investigations and Accusations but that the committee has no authority to suspend the president. Speaking in New York at a UN Security Council meeting, Petro said any suspension would require Senate action, warned the move may breach Colombian law and could be taken to the Supreme Court, and accused the initiating lawmaker of making demands to the government amounting to extortion."
-    },
-    {
-      "id": "4928928",
-      "time": "2026-06-11 03:14:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國政府將於週一宣佈國防投資相關計劃。"
-    },
-    {
-      "id": "mkt:019eb2f4-c269-7dd8-afab-2548eef743e3",
-      "time": "2026-06-11 03:14:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said the White House meeting with defense contractors mirrored a March session; attendees included Lockheed Martin (LMT.N), Raytheon Technologies (RTX.N), Boeing (BA.N) and L3Harris."
-    },
-    {
-      "id": "4928927",
-      "time": "2026-06-11 03:13:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哥倫比亞總統佩特羅否認被“臨時停職”】當地時間6月10日，哥倫比亞總統佩特羅回應其“臨時停職”的訊息時表示，自己並未被停職，目前僅是一名議員向眾議院調查與指控委員會提出相關請求。佩特羅在美國紐約出席聯合國安理會會議期間向媒體表示，“你們面對的並不是一位被停職總統。”他強調，調查與指控委員會無權暫停共和國總統職務，總統停職應由參議院作出決定。佩特羅認為當前做法涉嫌違反哥倫比亞相關法律，並可能引發提交至最高法院的司法程式。（央視新聞）"
-    },
-    {
-      "id": "4928926",
-      "time": "2026-06-11 03:12:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士稱，此次白宮會議與今年 3 月的相關會談一脈相承，洛克希德、雷神技術、波音及 L3 哈里斯公司當時均參與其中。"
-    },
-    {
-      "id": "4928925",
-      "time": "2026-06-11 03:12:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌4%，現報4088.77美元/盎司。"
-    },
-    {
-      "id": "mkt:019eb2f3-067c-7dd8-afab-1e11e1bc3cc7",
-      "time": "2026-06-11 03:12:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold plunged 4.00% intraday to $4,089.88/oz."
-    },
-    {
-      "id": "4928924",
-      "time": "2026-06-11 03:12:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4090美元/盎司，日內跌3.98%。"
-    },
-    {
-      "id": "4928923",
-      "time": "2026-06-11 03:11:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌4%，現報4114.80美元/盎司。"
-    },
-    {
-      "id": "4928922",
-      "time": "2026-06-11 03:09:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥大豆期貨漲超0.6%】週三（6月10日）紐約尾盤，彭博穀物分類指數漲0.31%，報29.5505點，整體衝高回落，北京時間19:05曾達到29.8885點。CBOT玉米期貨漲0.39%，CBOT小麥期貨漲0.38%。CBOT大豆期貨漲0.64%，報11.3925美元/蒲式耳，豆粕期貨跌0.05%，豆油期貨漲0.41%。"
-    },
-    {
-      "id": "4928921",
-      "time": "2026-06-11 03:06:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：一架美國B-52戰略轟炸機已降落在巴林的伊薩空軍基地。"
-    },
-    {
-      "id": "4928920",
-      "time": "2026-06-11 03:05:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios ：據一位地區訊息人士透露，在過去兩天中，伊朗和美國方面分別與卡達調解人在多哈進行了單獨會談。卡達試圖在週二早上於多哈安排一次三方會議，以討論剩餘的分歧，但伊朗人拒絕了面對面會晤。"
-    },
-    {
-      "id": "4928919",
-      "time": "2026-06-11 03:04:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4120美元/盎司，日內跌3.88%。"
-    },
-    {
-      "id": "mkt:019eb2eb-b45d-7dd8-afab-1176f76527e0",
-      "time": "2026-06-11 03:04:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSNBC reports U.S. President Trump is expected to meet defense industry executives this week to press firms to raise production."
-    },
-    {
-      "id": "4928918",
-      "time": "2026-06-11 03:02:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7738元，較週二夜盤收盤跌4點。成交量363.03億美元。"
-    },
-    {
-      "id": "4928917",
-      "time": "2026-06-11 03:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱保障上億桶石油透過海峽】美國總統特朗普在社交媒體平臺發文稱，他於上個月指示美軍執行“秘密任務”，“支援油輪和其他商船透過霍爾木茲海峽”。特朗普在帖文中稱，這一行動“已促成超過一億桶石油透過霍爾木茲海峽進入公開市場，已有超過200艘商船安全透過了該海峽”。特朗普強調，“這一行動取得巨大成功，是因為美國控制著霍爾木茲海峽——而不是伊朗。他們的軍隊已被擊敗，他們的經濟已經完蛋。伊朗大勢已去！” (CCTV國際時訊)"
-    },
-    {
-      "id": "mkt:019eb2e9-4a5f-7dd8-afab-0abe76bd8139",
-      "time": "2026-06-11 03:01:33",
-      "tags": [
-        "MKT News",
-        "CG.O"
-      ],
-      "text": "Carlyle Group CFO says the firm needs to hire junior staff, noting AI cannot perform all tasks."
-    },
-    {
-      "id": "mkt:019eb2e9-3831-7dd8-afab-037e4bae519e",
-      "time": "2026-06-11 03:01:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Carlyle Group CFO said artificial intelligence will materially affect future investment processes, but it has not reached that stage yet."
-    },
-    {
-      "id": "mkt:019eb2e9-16d5-7dd8-afaa-f9d40c52d694",
-      "time": "2026-06-11 03:01:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.12% at 24,307, trading 101 points below the spot index."
-    },
-    {
-      "id": "mkt:019eb2e8-ee49-7dd8-afaa-f79b469197b5",
-      "time": "2026-06-11 03:01:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. B-52 strategic bomber has landed at Bahrain's Isa Air Base."
-    },
-    {
-      "id": "4928915",
-      "time": "2026-06-11 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.07%，報24294.22點，低水113.74點。"
-    },
-    {
-      "id": "4928914",
-      "time": "2026-06-11 02:59:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將敦促國防企業提高（導彈）產量。"
-    },
-    {
-      "id": "4928913",
-      "time": "2026-06-11 02:59:11",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic執行長：政府有權叫停存在風險的人工智慧】Anthropic執行長達里奧·阿莫迪於週三發表文章稱，政府應依法有權叫停或限制危險人工智慧的落地應用。他表示，特朗普政府出臺的人工智慧行政令力度仍需加強，應強制針對網路安全、生物武器、系統失控、自動化研發等風險開展安全測試。他還提到，若人工智慧系統未來威脅加劇，後續或將推出更為嚴格的監管舉措。Anthropic同時提出一套應對人工智慧衝擊的經濟政策框架，內容涵蓋資本賬戶、薪資保險、稅收優惠以及擴容社會保障體系等方面。"
-    },
-    {
-      "id": "4928912",
-      "time": "2026-06-11 02:58:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將會見國防企業高管，商討導彈供應事宜。"
-    },
-    {
-      "id": "4928911",
-      "time": "2026-06-11 02:56:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：預計特朗普本週將與美國國防工業領袖會面。"
     }
   ]
 }
