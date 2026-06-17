@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-18 04:34:28",
+  "updated": "2026-06-18 04:38:30",
   "count": 18797,
   "items": [
+    {
+      "id": "mkt:019ed74c-d204-7dd8-b064-37aedb921d88",
+      "time": "2026-06-18 04:36:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index rises 0.55% to 100.091 on the 17th】The dollar index, which tracks the greenback against six major currencies, rose 0.55% to 100.091 at the New York FX close on the 17th. EUR/USD 1.1539 (prior 1.1610); GBP/USD 1.3338 (prior 1.3429); USD/JPY 160.50 (prior 160.44); USD/CHF 0.7971 (prior 0.7931); USD/CAD 1.4071 (prior 1.3993); USD/SEK 9.4610 (prior 9.3618)."
+    },
+    {
+      "id": "te:markets:559823",
+      "time": "2026-06-18 04:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.99% Lower — The Dow Jones Index fell 514 points or 0.99 percent on Wednesday to close at 51486 points. Leading the losses are Salesforce (-4.16%), Microsoft (-3.80%) and Amazon (-3.48%). Top gainers were Caterpillar (1.01%), Goldman Sachs (0.77%) and JPMorgan (0.71%)."
+    },
     {
       "id": "4941841",
       "time": "2026-06-18 04:31:45",
@@ -173296,28 +173322,6 @@
         "國際"
       ],
       "text": "美國國防部長赫格塞思談及伊朗局勢：中央司令部今晚將十分忙碌，美國今晚將重擊伊朗，將轟炸伊朗關鍵設施。"
-    },
-    {
-      "id": "4928971",
-      "time": "2026-06-11 04:38:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【白宮或再與軍工企業磋商加速生產】據訊息人士當地時間6月10日透露，隨著美國對伊朗的打擊及其他近期軍事行動消耗了庫存補給，特朗普政府計劃最早於下週在白宮會見美國多家國防承包商的高管，討論加速武器生產事宜。此次會議將是白宮就該議題第二次召集美國頂級國防承包商執行長開會。路透社的報道指出，對伊朗的戰爭以及近年向烏克蘭提供的軍援，已耗盡了美國的武器儲備。目前，美國國防部正持續施壓軍工企業大幅提速，落實今年早些時候敲定的一些“框架性協議”，其中包括：與洛克希德·馬丁達成的一項多年期協議，旨在將PAC-3型“愛國者”反導系統攔截彈的產量提高兩倍，並將“薩德”系統攔截彈的產量翻兩番；與雷神公司達成的多項獨立多年期協議，以提升“戰斧”巡航導彈和先進中程空對空導彈的產量。不過據悉，這些“框架性協議”尚未轉化為正式合同。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:558157",
-      "time": "2026-06-11 04:35:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.76% Lower — The Dow Jones Index fell 898 points or 1.76 percent on Wednesday to close at 49974 points. Leading the losses are Caterpillar (-6.34%), Honeywell International (-4.57%) and Nvidia (-3.39%)."
     }
   ]
 }
