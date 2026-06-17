@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-18 06:55:57",
-  "count": 18774,
+  "updated": "2026-06-18 07:01:17",
+  "count": 18768,
   "items": [
+    {
+      "id": "4941956",
+      "time": "2026-06-18 06:59:09",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【國家外匯局：人民幣金融紐帶功能持續拓展】在2026陸家嘴論壇上，中國人民銀行副行長、國家外匯管理局局長朱鶴新表示，全球創新資本配置中國動能增強，人民幣金融紐帶功能持續拓展。朱鶴新表示，2026年一季度末，境外投資者持有境內股票市值約6000億美元，其中，持有資訊科技行業市值約900億美元。朱鶴新介紹中國與全球資本流動雙向互動中，人民幣金融紐帶功能持續拓展。中國資本項下跨境人民幣收付佔比，已上升至60%左右。（央視新聞）"
+    },
+    {
+      "id": "4941955",
+      "time": "2026-06-18 06:58:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部稱，世界盃開賽初期已有數十架無人機被攔截處置。"
+    },
+    {
+      "id": "te:economy:559835",
+      "time": "2026-06-18 06:55:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "GDP Annual Growth Rate",
+        "Importance 2"
+      ],
+      "text": "New Zealand Q1 GDP Annual Growth Beats Estimates — New Zealand’s economy expanded by 1.5% year-on-year in the three months to March 2026, matching the revised figure in the previous quarter and marking its third consecutive quarter of annual growth. The latest figure was faster than the expected 1.1% growth."
+    },
     {
       "id": "4941954",
       "time": "2026-06-18 06:55:21",
@@ -172968,84 +172997,6 @@
         "焦點"
       ],
       "text": "今天《人民日報》頭版的主要內容有：\n1、讓中朝傳統友誼之樹更加根深葉茂——習近平總書記對朝鮮進行國事訪問紀實\n2、弘揚優良傳統，密切團結協作——習近平總書記對朝鮮進行國事訪問在中朝關係發展史上具有重要里程碑意義\n3、江西吉安市大力弘揚井岡山精神——老區人民日子越過越好（牢記初心使命 奮進復興征程）\n4、李希在河南調研時強調 牢固樹立和踐行正確政績觀 推進新徵程紀檢監察工作高質量發展\n5、樹立和踐行正確政績觀學習教育繼續派出的4箇中央指導組完成進駐\n6、雲南厚植高質量發展的綠色底色。"
-    },
-    {
-      "id": "4929093",
-      "time": "2026-06-11 07:01:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國5月三個月RICS房價指數 -35，預期 -32，前值 -34。"
-    },
-    {
-      "id": "4929092",
-      "time": "2026-06-11 07:00:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國5月失業率 2.8%，前值2.80%。"
-    },
-    {
-      "id": "mkt:019eb3c3-eb33-7dd8-afae-33421db5b9f2",
-      "time": "2026-06-11 07:00:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea May unemployment rate unchanged at 2.8% (prior 2.8%)."
-    },
-    {
-      "id": "mkt:019eb3c3-ce7f-7dd8-afae-2f9cd4d23be4",
-      "time": "2026-06-11 07:00:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Unemployment Rate (May) | actual 2.8% | previous 2.80%"
-    },
-    {
-      "id": "mkt:019eb3c3-67bb-7dd8-afae-27f75e2119e6",
-      "time": "2026-06-11 06:59:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S NOUR reports air-defense activity in Robat Karim, Tehran province."
-    },
-    {
-      "id": "4929091",
-      "time": "2026-06-11 06:59:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗努爾新聞網：德黑蘭省羅巴特卡里姆市出現防空部隊行動。"
-    },
-    {
-      "id": "mkt:019eb3c0-8175-7dd8-afae-1f78238f12b6",
-      "time": "2026-06-11 06:56:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Krasnodar regional governor said drones struck the southern Russian region and the Afipsky refinery caught fire afterward."
-    },
-    {
-      "id": "4929089",
-      "time": "2026-06-11 06:56:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "俄地方當局通報：阿菲普斯基煉油廠遭無人機襲擊後起火。"
-    },
-    {
-      "id": "4929088",
-      "time": "2026-06-11 06:56:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【引江補漢工程8號檢修交通洞順利貫通】6月10日，南水北調中線後續工程首個開工建設的重大專案——引江補漢工程再獲進展，全線重難點控制性工程8號檢修交通洞順利貫通。8號檢修交通洞位於湖北保康縣馬良鎮，全長2959米，工程採用國內引水隧洞工程直徑最大的單護盾硬巖掘進機，開挖直徑12.23米，整合超前地質預報等智慧監測系統，可提前識別斷層、湧水等風險。（央視新聞）"
     }
   ]
 }
