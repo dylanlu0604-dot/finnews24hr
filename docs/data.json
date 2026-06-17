@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-18 03:33:31",
-  "count": 18798,
+  "updated": "2026-06-18 03:37:39",
+  "count": 18802,
   "items": [
+    {
+      "id": "mkt:019ed716-3370-7dd8-b063-db59b724739c",
+      "time": "2026-06-18 03:36:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Israeli military says it struck Hezbollah rocket launch site】Israeli military said it recently conducted an airstrike that destroyed a Hezbollah rocket launch site it says had been used to fire rockets at Israeli forces in southern Lebanon. The military said Hezbollah fired multiple rockets at its troops earlier; some were intercepted and the remainder fell nearby with no injuries reported."
+    },
+    {
+      "id": "4941810",
+      "time": "2026-06-18 03:36:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱空襲一處黎真主黨火箭彈陣地】當地時間17日晚間，以色列國防軍表示，不久前其空襲並摧毀了一處真主黨火箭彈發射陣地。以軍稱該陣地早些時候被用來向黎南部的以色列軍隊發射火箭彈。此前，以軍稱真主黨武裝人員向黎南部的以軍部隊發射多枚火箭彈。其中部分被以軍攔截，其餘則落入部隊附近地區，未造成人員傷亡。（央視新聞）"
+    },
+    {
+      "id": "4941809",
+      "time": "2026-06-18 03:35:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數均跌超1%】道指跌1.00%，現報51479.328點；納指跌1.21%，現報26058.257點；標普500指數跌1.23%，現報7419.210點。"
+    },
+    {
+      "id": "mkt:019ed713-eea1-7dd8-b063-d19272c9afae",
+      "time": "2026-06-18 03:34:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "Dow",
+        "S&P500"
+      ],
+      "text": "Nasdaq-100 hit an intraday low; Dow Jones Industrial Average down nearly 1%; S&P 500 down 1.2%."
+    },
+    {
+      "id": "4941808",
+      "time": "2026-06-18 03:33:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌至當日低點，下跌0.7%。"
+    },
+    {
+      "id": "4941807",
+      "time": "2026-06-18 03:33:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "達美航空股價放量小幅下跌，最新下跌1%，報每股82.18美元。"
+    },
+    {
+      "id": "mkt:019ed712-f29d-7dd8-b063-cb58b6a1d127",
+      "time": "2026-06-18 03:33:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY climbed to its strongest since July 2024, trading at 160.75."
+    },
     {
       "id": "mkt:019ed712-6788-7dd8-b063-c48d6f0b993a",
       "time": "2026-06-18 03:32:47",
@@ -173285,30 +173359,6 @@
         "國際"
       ],
       "text": "市場訊息：巴西與美國預計將於週五就關稅問題展開磋商。"
-    },
-    {
-      "id": "4928941",
-      "time": "2026-06-11 03:37:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "超微電腦跌幅擴大至26%，為自2020年3月以來的最大跌幅。"
-    },
-    {
-      "id": "4928940",
-      "time": "2026-06-11 03:35:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥反壟斷機構對至少 7 家房地產企業處以超 5 億比索罰款。"
-    },
-    {
-      "id": "4928939",
-      "time": "2026-06-11 03:34:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利國家銅業委員會：智利國家銅業公司 4 月銅產量同比下降 14%。"
     }
   ]
 }
