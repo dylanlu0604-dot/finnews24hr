@@ -1,7 +1,263 @@
 {
-  "updated": "2026-06-17 17:38:44",
-  "count": 18501,
+  "updated": "2026-06-17 17:42:50",
+  "count": 18505,
   "items": [
+    {
+      "id": "te:economy:559694",
+      "time": "2026-06-17 17:42:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malta",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Malta Inflation Slows to Over 1-Year Low — Malta’s annual inflation rate slowed to 2.1% in May 2026 from 2.5% in the previous month. This also marked the lowest reading since March 2025, mainly driven by continued price declines in clothing and footwear (-4.3% vs -5.8% in April). Prices also fell further for information and communication (-2.5% vs -2.4%) and insurance and financial services (-2.5% vs -2.4%). At the same time, inflation eased for food and non-alcoholic beverages (2.0% vs 3.8%), furnishings, household equipment and maintenance (2.4% vs 2.8%), recreation, sports and culture (3.9% vs 4.4%), restaurants and accommodation services (3.6% vs 4.0%), and miscellaneous goods and services (3.0% vs 3.1%). In contrast, prices rose further for alcoholic beverages and tobacco (1.5% vs 1.3%), housing and utilities (2.5% vs 2.3%), and transport (2.9% vs 2.5%). On a monthly basis, consumer prices rose 1.4% in May, easing from a 3.4% gain in the preceding month."
+    },
+    {
+      "id": "4940658",
+      "time": "2026-06-17 17:42:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海星股份：股票交易異常波動 不存在應披露未披露重大資訊】海星股份公告稱，公司股票於2026年6月15日至17日連續3個交易日內日收盤價格漲幅偏離值累計達20%，屬於異常波動情形。經自查及問詢控股股東和實控人，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大資訊。此外，公司董事、高管擬於6月11日至9月10日透過集中競價合計減持不超176,250股。公司提醒投資者注意投資風險。"
+    },
+    {
+      "id": "4940657",
+      "time": "2026-06-17 17:41:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據港交所檔案，騰訊6月17日回購110萬股股份，耗資5.007億港元。"
+    },
+    {
+      "id": "te:markets:559693",
+      "time": "2026-06-17 17:41:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Hits 4-week High — Cocoa increased to 4338.00 USD/T, the highest since May 2026. Over the past 4 weeks, Cocoa gained 14.1%, and in the last 12 months, it decreased 55%."
+    },
+    {
+      "id": "4940656",
+      "time": "2026-06-17 17:41:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "索馬利亞蘭國防部長：索馬利亞蘭境內不存在以色列軍事存在，也未就開設基地舉行任何談判。"
+    },
+    {
+      "id": "mkt:019ed4f4-f9b1-7dd8-b04b-6fcc557d3610",
+      "time": "2026-06-17 17:41:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A defense official from internationally unrecognized Somaliland said Israel is only training the region’s military and police."
+    },
+    {
+      "id": "mkt:019ed4f4-e23e-7dd8-b04b-67a095381581",
+      "time": "2026-06-17 17:41:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Nomura Orient: Tech to remain main driver of medium- to long-term A-share returns】June 17 — Nomura Orient International Securities said market volatility creates a window to raise defensive dividend exposure but warned overseas macro shocks could extend the adjustment. Near term it recommends boosting dividend-yielding sectors, prioritizing banks with limited capital consumption and sustainably high ROE and dividend yields, and central SOE property leaders that benefit from faster supply-side concentration. Under its base case the recent high/low rotation is temporary; medium- to long-term A-share returns will be driven mainly by the technology theme. Within tech it favors compute hardware constrained by capacity — notably storage, optical communications, AI power systems and liquid cooling — plus supporting infrastructure such as gas turbines, and domestic compute suppliers that benefit from policy support and strong demand."
+    },
+    {
+      "id": "mkt:019ed4f4-dc62-7dd8-b04b-5eef4eaf5413",
+      "time": "2026-06-17 17:41:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "Tencent Holdings (00700.HK) repurchased about HK$500 mln of stock on HKEX on June 17, buying 1.118 mln shares."
+    },
+    {
+      "id": "4940655",
+      "time": "2026-06-17 17:41:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車集團旗下電動出行解決方案子公司選定 HCL 科技為合作方。"
+    },
+    {
+      "id": "4940654",
+      "time": "2026-06-17 17:40:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【凱迪股份：機器人業務仍處開發階段】凱迪股份公告，公司股票於2026年6月15日、16日、17日連續三個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查及向控股股東、實際控制人核實，公司目前生產經營正常，不存在應披露而未披露的重大事項。市場對公司機器人相關業務關注度較高，但該業務已立項，產品仍處於開發階段，短期內暫無法形成收入，預計不會對公司業績造成重大影響。此外，公司2025年度歸母淨利潤6075.49萬元，較2024年減少29.94%；2026年第一季度歸母淨利潤為-859.1萬元，同比減少149.66%，處於虧損狀態。"
+    },
+    {
+      "id": "mkt:019ed4f4-6d82-7dd8-b04b-5690102fff7a",
+      "time": "2026-06-17 17:40:49",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "A German government spokesman said Russia must join talks with Ukraine; Berlin hopes to use current positive momentum to get negotiations underway."
+    },
+    {
+      "id": "4940653",
+      "time": "2026-06-17 17:40:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伯特利：收購豫北轉向50.9727%股份交割完成】伯特利公告，公司與豫北轉向系統（新鄉）股份有限公司之股東峻鴻實業有限公司、寧波奉元股權投資合夥企業（有限合夥）、合肥華芯雲向汽車電子投資合夥企業（有限合夥）、合肥產投高成長壹號股權投資合夥企業（有限合夥）等相關方共同簽署《關於收購豫北轉向系統（新鄉）股份有限公司控股權之股份轉讓協議》，合計收購各轉讓方所持豫北轉向50.9727%的股份。2026年6月2日，豫北轉向已完成股東名冊變更，以及本次交易涉及的法定代表人、董事、監事及章程變更等涉及的相關工商變更登記手續，並取得了河南省新鄉市市場監督管理局核發的《營業執照》。目前，公司持有豫北轉向50.9727%的股權，成為豫北轉向的控股股東，豫北轉向自2026年6月納入伯特利的合併報表範圍。"
+    },
+    {
+      "id": "4940652",
+      "time": "2026-06-17 17:40:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST百利：公司股票連續3個交易日內收盤價格漲幅偏離值累計超過12%】ST百利公告，公司股票於2026年6月12日、6月15日、6月16日連續3個交易日內收盤價格漲幅偏離值累計超過12%，觸及股票交易異常波動。2026年6月17日，公司股票收盤價格再次漲停，可能存在非理性炒作風險。經公司自查，確認不存在應披露而未披露的重大資訊。公司2025年度歸屬於上市公司股東的淨利潤為-1.54億元，2026年第一季度歸屬於上市公司股東的淨利潤為-4775.29萬元。"
+    },
+    {
+      "id": "mkt:019ed4f4-3fbf-7dd8-b04b-4e4eeb8aae3f",
+      "time": "2026-06-17 17:40:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A defense official in unrecognized Somaliland said there is no Israeli military presence and no negotiations to establish an Israeli base."
+    },
+    {
+      "id": "4940651",
+      "time": "2026-06-17 17:40:31",
+      "tags": [
+        "行業"
+      ],
+      "text": "【野村東方國際證券：中長期A股投資回報仍將主要由科技主線貢獻】6月17日，野村東方國際證券2026中期策略會在上海舉辦。野村東方國際證券在最新的研究觀點中表示，市場震盪期可透過紅利持倉提升防禦性，中長期關注科技主線。後續市場調整將帶來A股再配置的視窗期，但仍需提防海外宏觀風險衝擊導致震盪視窗期拉長的可能性，短期建議透過紅利板塊提升組合防禦性，在紅利板塊中優先關注資本金消耗有限且有望持續維持高ROE和股息率的銀行股以及受益行業供給端集中度快速提升的央企地產龍頭。考慮到當前基本面特徵，基準情形下近期市場的“高低切換”僅為短暫現象，中長期A股投資回報仍將主要由科技主線貢獻，建議在科技主線中重點關注算力硬體，尤其是受益AI需求擴張但仍受制於產能的儲存、光通訊AI電源/液冷及燃氣輪機等算力基建配套，以及受益政策和高景氣度的國產算力。"
+    },
+    {
+      "id": "4940650",
+      "time": "2026-06-17 17:40:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星光農機：董事章沈強提前離任 仍擔任研究院院長】星光農機公告稱，公司董事章沈強因個人原因，於2026年6月17日申請辭去董事及董事會專門委員會委員職務，原定任期至2026年12月15日，辭職後仍擔任公司研究院院長。其離任不會影響董事會正常運作，公司將盡快推進補選工作。截至公告披露日，章沈強直接持有公司股票23,704,200股，離任後將繼續遵守相關法規及未履行完畢的公開承諾。"
+    },
+    {
+      "id": "4940649",
+      "time": "2026-06-17 17:40:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中基協：5月私募證券投資基金新備案規模377.89億元】中基協釋出資料，2026年5月，新備案私募基金數量1,693只，新備案規模688.07億元。其中，私募證券投資基金1,101只，新備案規模377.89億元；私募股權投資基金123只，新備案規模87.72億元；創業投資基金469只，新備案規模222.46億元。截至2026年5月末，存續私募基金142,470只，存續基金規模23.53萬億元。其中，存續私募證券投資基金82,759只，存續規模7.92萬億元；存續私募股權投資基金29,713只，存續規模11.37萬億元；存續創業投資基金29,335只，存續規模3.98萬億元。"
+    },
+    {
+      "id": "4940648",
+      "time": "2026-06-17 17:40:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨賣出32.22億港元】港股通（滬）方面，建滔集團、建滔積層板分別獲淨買入14.88億港元、11.83億港元；中國海洋石油淨賣出額居首，金額為14.37億港元；港股通（深）方面，建滔積層板、智譜分別獲淨買入26.92億港元、4.17億港元；阿里巴巴-W淨賣出額居首，金額為13.39億港元。"
+    },
+    {
+      "id": "4940647",
+      "time": "2026-06-17 17:39:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方向非洲再次提供埃博拉疫情緊急人道主義援助】國家國際發展合作署新聞發言人湯瑛17日表示，針對非洲部分地區和國家埃博拉疫情持續蔓延的嚴峻形勢，中國政府決定在前期對非抗疫援助基礎上，再次提供緊急人道主義援助，包括繼續向剛果（金）提供援助，向烏干達提供一批防疫抗疫物資，繼續支援非洲疾控中心發揮作用等，助力非洲早日戰勝疫情。（新華社）"
+    },
+    {
+      "id": "4940646",
+      "time": "2026-06-17 17:39:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【煉石航空：擬3.5億元收購天科航空67.4969%股份】煉石航空公告，擬以3.5億元整體估值，以2.2億元收購天科航空62.8536%股份並同步增資5000萬元。交易完成後，煉石航空將持有天科航空67.4969%股份，成為控股股東。天科航空最近一年主要財務指標：總資產3.47億元，總負債5169.7萬元，歸屬於母公司的淨資產2.94億元，2025年度營業總收入1.14億元，淨利潤1558.06萬元。"
+    },
+    {
+      "id": "4940645",
+      "time": "2026-06-17 17:39:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨在亞丁灣附近與索馬利亞蘭總統會晤時稱，以色列與索馬利亞蘭多年來一直在暗中開展相關行動合作，相關行動資訊將持續保密。"
+    },
+    {
+      "id": "mkt:019ed4f2-ff79-7dd8-b04b-40909373ca34",
+      "time": "2026-06-17 17:39:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "0883.HK",
+        "Impact bearish",
+        "9988.HK",
+        "0700.HK"
+      ],
+      "text": "Southbound flows were net sellers CNY 3.222 bln today. Via Stock Connect (Shanghai), CNOOC and Alibaba-W saw net selling of HKD 1.437 bln and HKD 746 mln respectively; Kingboard Holdings recorded the largest net buy at HKD 1.488 bln. Via Stock Connect (Shenzhen), Alibaba-W and Tencent Holdings were net sold HKD 1.339 bln and HKD 1.045 bln respectively; Kingboard Laminates led net buys at HKD 2.692 bln."
+    },
+    {
+      "id": "4940644",
+      "time": "2026-06-17 17:39:07",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "據港交所披露，摩根大通公司所持藥明康德H股<2359.HK>的空頭頭寸於6月11日從3.50%降至2.97%。"
+    },
+    {
+      "id": "4940643",
+      "time": "2026-06-17 17:39:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞穗：Agentic AI將重估EDA市場空間 楷登電子與新思科技有望成為主要受益者】瑞穗認為，Agentic AI將改變EDA商業模式。過去EDA廠商主要按工具授權和使用量收費，而自主AI代理可以替代或增強高薪晶片設計工程師的工作，因而有望從“工具價值”轉向“勞動力價值”定價。公司層面，瑞穗認為楷登電子（Cadence）和新思科技（Synopsys）最具優勢。Cadence正透過ChipStack、AgentStack等構建端到端自主設計流程；Synopsys則以AgentEngineer推進多代理工程平臺，並借Ansys擴充套件至“晶片到系統”模擬。由於兩家公司掌握關鍵工作流、專有設計資料和籤核級計算引擎，Agentic AI更可能強化其護城河，而非削弱其地位。"
+    },
+    {
+      "id": "4940642",
+      "time": "2026-06-17 17:38:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國政府發言人：俄羅斯必須參與烏克蘭問題談判，德國希望藉助積極動能推動和談啟動。"
+    },
+    {
+      "id": "4940641",
+      "time": "2026-06-17 17:38:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【悅康藥業：子公司撤回藥品註冊申請】悅康藥業公告，子公司廣州悅康生物製藥有限公司於近日收到國家藥品監督管理局核准簽發的《藥品註冊申請終止通知書》，同意廣州悅康撤回通絡健腦片的藥品註冊申請。"
+    },
+    {
+      "id": "4940640",
+      "time": "2026-06-17 17:38:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【退市熊貓：股票退市整理期剩餘2個交易日，將被終止上市】退市熊貓公告稱，公司股票於2026年6月1日進入退市整理期，預計最後交易日期為6月22日。截至公告日已交易13個交易日，剩餘2個交易日，交易期滿將被終止上市。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。公司在退市整理期不籌劃或實施重大資產重組，提醒投資者及時了結相關業務，注意投資風險。"
+    },
+    {
+      "id": "4940639",
+      "time": "2026-06-17 17:38:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先鋒精科：股東優立佳合夥持股比例降至10.00%】先鋒精科公告，股東靖江優立佳企業管理合夥企業（有限合夥）於2026年6月17日透過集中競價交易方式減持公司股份33.31萬股，持股數量由2057.11萬股減少至2023.8萬股，佔公司總股本比例由10.16%降至10.00%。本次權益變動不違反已作出的承諾、意向、計劃，不觸發強制要約收購義務，且不導致公司控股股東及實際控制人發生變化。"
+    },
     {
       "id": "mkt:019ed4f1-b0ce-7dd8-b04b-3dbfc2b1385d",
       "time": "2026-06-17 17:37:49",
@@ -170134,221 +170390,6 @@
         "公司"
       ],
       "text": "【天富能源：控股股東首次增持55萬股 增持計劃存不確定性】天富能源公告稱，控股股東中新建電力集團計劃自2026年5月12日起12個月內，增持公司A股股份1.25億-2.50億元。6月10日，中新建電力透過集中競價交易首次增持55萬股，佔總股本0.04%，增持金額445.10萬元。本次增持計劃可能因資本市場變化等無法達到預期，公司將持續關注並及時披露進展。"
-    },
-    {
-      "id": "4927932",
-      "time": "2026-06-10 17:42:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十四五”期間我國放流水生生物苗種超1500億尾】農業農村部副部長張治禮日前在出席2026年全國水生生物同步增殖放流主場活動時表示，“十四五”期間，全國共放流各類水生生物苗種1500多億尾，取得了顯著的生態、經濟、社會效益。張治禮說，增殖放流是全球公認的水生生物資源養護和水域生態環境修復的通用手段，更是維護生物多樣性、展現負責任國家形象的重要舉措。他說，“十四五”期間，全國共放流各類水生生物苗種1500多億尾，根據監測，每年渤海捕撈的中國對蝦90%以上來自增殖放流，東海捕撈的大黃魚30%以上為人工增殖資源，長江流域放流的中華鱘，超過12%已進入海洋，時隔20餘年扁吻魚在新疆博斯騰湖再次形成種群。（新華社）"
-    },
-    {
-      "id": "4927931",
-      "time": "2026-06-10 17:42:38",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【歐盟透過鐵路運力管理新規】歐盟委員會移動與交通總局10日宣佈，歐盟已正式透過新的鐵路基礎設施運力使用條例。該法規旨在透過引入多年度、數字化及跨境協同的運力規劃機制，全面最佳化歐盟鐵路網路資源配置。新規的出臺旨在破解歐盟跨境鐵路運輸長期存在的機制性瓶頸，提升跨境客貨運輸的準點率與可靠性。"
-    },
-    {
-      "id": "4927930",
-      "time": "2026-06-10 17:42:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【德商銀行：德國經濟似乎更接近衰退而非復甦】德國商業銀行的拉爾夫·索爾文在一份報告中表示，德國的經濟前景更多地指向另一場衰退，而不是即將到來的復甦。製造業出現了一些積極訊號，其運營證明對伊朗戰爭的干擾具有韌性。索爾文說，儘管如此，該行業的景氣度依然不穩，服務業也是如此。與此同時，受新訂單下降的拖累，建築業的反彈似乎正在失去動力。零售業中企業和消費者的情緒看起來也相當低迷，銷售額呈下降趨勢。“伊朗戰爭以及由此導致的能源價格大幅上漲正在拖累企業和家庭的信心，”索爾文說。"
-    },
-    {
-      "id": "mkt:019eb0e9-5132-7aad-8124-f314a91a5667",
-      "time": "2026-06-10 17:42:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan says Governor Kazuo Ueda is expected to attend a meeting scheduled for July 30-31."
-    },
-    {
-      "id": "4927929",
-      "time": "2026-06-10 17:42:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安恆資訊：收到中國電信現金分紅款687.13萬元】安恆資訊(688023)6月10日公告，公司目前持有中國電信A股7567.5萬股股份。根據中國電信《2025年年度利潤分配方案》，公司可分得現金紅利687.129萬元。近日，公司已收到中國電信現金分紅款687.129萬元。上述款項預計將增加公司2026年度淨利潤687.129萬元，佔公司最近一個會計年度經審計的歸屬於上市公司股東淨利潤的11.95%。"
-    },
-    {
-      "id": "4927928",
-      "time": "2026-06-10 17:41:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國宏橋：控股股東增持約5.4億港元股份 持股升至62.52%】中國宏橋(01378.HK)在港交所公告稱，當日控股股東中國宏橋控股透過二級市場增持2050萬股，均價26.37港元，持股比例提升0.21個百分點至62.52%。"
-    },
-    {
-      "id": "4927927",
-      "time": "2026-06-10 17:41:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：副行長內田真一將在6月15-16日貨幣政策會議後召開新聞釋出會。行長植田和男預計將在醫院住院約兩週。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606103766791288",
-      "time": "2026-06-10 17:41:27",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行行長已入院治療】日本央行行長植田和男已入院治療，預計將缺席6月15-16日的會議。"
-    },
-    {
-      "id": "4927926",
-      "time": "2026-06-10 17:41:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【起拍價降至6.03億，雙輪酒業招募重整投資人】6月10日，京東資產交易平臺顯示，安徽雙輪酒業有限責任公司公開競價招募重整投資人。第2次拍賣將於6月16日10時開始，起始價為6.03億元，保證金為6030萬元，競價週期為1天。此次拍賣前夕，雙輪酒業曾發起首輪拍賣，公開競價招募重整投資人，起拍價6.35億元，至競價結束無意向方報名。（酒業內參）"
-    },
-    {
-      "id": "mkt:019eb0e8-1b80-7aad-8124-ee25f7e6bf9d",
-      "time": "2026-06-10 17:41:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan says Governor Ueda is expected to be hospitalized for about two weeks."
-    },
-    {
-      "id": "mkt:019eb0e7-f75e-7aad-8124-e1d9404a8a41",
-      "time": "2026-06-10 17:40:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan Deputy Governor Shinichi Uchida will hold a press conference after the June 15-16 monetary policy meeting."
-    },
-    {
-      "id": "4927925",
-      "time": "2026-06-10 17:40:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：預計行長植田和男將出席7月30日至31日的貨幣政策會議。"
-    },
-    {
-      "id": "4927924",
-      "time": "2026-06-10 17:40:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：地方當局報告稱，一艘油輪的機艙發生火災。"
-    },
-    {
-      "id": "4927923",
-      "time": "2026-06-10 17:40:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟各國大使批准對俄羅斯實施新一輪制裁。"
-    },
-    {
-      "id": "mkt:019eb0e7-78d7-7aad-8124-dc630e1c8328",
-      "time": "2026-06-10 17:40:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "UK Maritime Trade Operations said local authorities reported an engine-room fire aboard an oil tanker."
-    },
-    {
-      "id": "4927922",
-      "time": "2026-06-10 17:40:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【南向資金今日淨買入82.43億港元】港股通（滬）方面，盈富基金、騰訊控股分別獲淨買入24.22億港元、16.73億港元；阿里巴巴-W淨賣出額居首，金額為17.09億港元；港股通（深）方面，盈富基金、南方恒生科技分別獲淨買入16.34億港元、3.57億港元；阿里巴巴-W淨賣出額居首，金額為6.63億港元。"
-    },
-    {
-      "id": "4927921",
-      "time": "2026-06-10 17:39:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "騰訊於6月10日回購了價值5.01億港元的股份。"
-    },
-    {
-      "id": "mkt:019eb0e6-e419-7aad-8124-d093b0da4a09",
-      "time": "2026-06-10 17:39:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Maritime Trade Operations says it has received a report of an incident 20 nautical miles northeast of Sohar, Oman."
-    },
-    {
-      "id": "4927920",
-      "time": "2026-06-10 17:39:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST合縱：公司及子公司涉1.22億元債務逾期】ST合縱公告，公司因業務回款壓力、資金流動性等問題，導致與上海浦東發展銀行股份有限公司北京分行的1.2億元債務逾期。公司收到北京市第三中級人民法院送達的《執行通知書》，執行標的為1.22億元，執行費為18.99萬元。公司將密切關注案件後續進展，積極採取相關措施維護公司和股東利益，並根據案件進展情況及時履行資訊披露義務。"
-    },
-    {
-      "id": "4927919",
-      "time": "2026-06-10 17:39:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華統股份：5月份生豬銷售數量23.78萬頭，同比變動18.83%】華統股份公告，2026年5月份，公司生豬銷售數量23.78萬頭（其中仔豬銷售0頭），環比變動-5.64%，同比變動18.83%。生豬銷售收入2.66億元，環比變動-9.31%，同比變動-26.35%。商品豬銷售均價9.52元/公斤，比2026年4月份上升4.62%。5月份雞銷售數量125.18萬隻，環比變動13.42%，同比變動36.22%。雞銷售收入1899.3萬元，環比變動8.42%，同比變動26.68%。"
-    },
-    {
-      "id": "mkt:019eb0e6-6ffa-7aad-8124-cf18a3e0d6f1",
-      "time": "2026-06-10 17:39:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A special maritime traffic enforcement and surveying operation in waters east of Taiwan island has concluded."
-    },
-    {
-      "id": "4927917",
-      "time": "2026-06-10 17:38:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：副行長冰見野良三將主持6月15-16日的會議。"
-    },
-    {
-      "id": "mkt:019eb0e6-2a2b-7aad-8124-c0118c58a3b4",
-      "time": "2026-06-10 17:38:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan said a deputy governor will chair its June 15-16 monetary policy meeting."
-    },
-    {
-      "id": "4927916",
-      "time": "2026-06-10 17:38:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易運營局（UKMTO）表示，據涉事船隻報告，事故造成1人死亡，2名船員失蹤。"
     }
   ]
 }
