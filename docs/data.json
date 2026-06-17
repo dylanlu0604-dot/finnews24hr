@@ -1,7 +1,340 @@
 {
-  "updated": "2026-06-17 15:58:42",
-  "count": 18478,
+  "updated": "2026-06-17 16:02:57",
+  "count": 18490,
   "items": [
+    {
+      "id": "mkt:019ed49a-327c-7dd8-b047-e163f0624815",
+      "time": "2026-06-17 16:02:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: global oil supply fell 600,000 b/d in May to 94.5 mln b/d."
+    },
+    {
+      "id": "mkt:019ed49a-24c3-7dd8-b047-dc001ac55df2",
+      "time": "2026-06-17 16:02:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Zhipu's STAR Market IPO guidance status moves to \"counseling acceptance\"】The CSRC website shows Beijing Zhipu Huazhang Technology Co., Ltd.'s STAR Market IPO guidance status has moved to \"counseling acceptance\"; sponsoring broker is Guotai Haitong Securities."
+    },
+    {
+      "id": "4940367",
+      "time": "2026-06-17 16:02:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佰仁醫療：首次回購0.0109%公司股份，支付的資金總額為人民幣128萬元】佰仁醫療公告，2026年6月17日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購股份15000股，佔公司總股本1.38億股的比例為0.0109%，回購成交的最高價為85.45元/股，最低價為84.96元/股，支付的資金總額為人民幣128萬元（不含印花稅、交易佣金等交易費用）。"
+    },
+    {
+      "id": "4940366",
+      "time": "2026-06-17 16:02:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【深交所釋出主動管理ETF業務指引 推動權益類基金產品創新發展】深交所釋出主動管理ETF業務指引，一是規範主動ETF定義與產品命名，要求基金名稱與場內簡稱均需體現“主動”屬性。二是規定基金管理人和基金經理相關要求。基金管理人應當治理健全穩定、合規運作，具備豐富的主動管理經驗，以及健全有效的投資運作與風險管理制度、充足的投研人員、穩定的ETF運作團隊與技術系統等。基金經理應當具備豐富的證券投研經驗，中長期業績良好，投資風格穩定等。基金管理人首次開發主動ETF的，應當透過本所組織的專項檢查驗收。三是明確基金投資管理要求，包括投資組合分佈廣泛且流動性良好，投資策略市場容量充足，合理控制組合換手率，設定合適的業績比較基準並保持投資風格穩定等。四是明確資訊披露與風險防控要求，要求基金管理人充分披露申購贖回清單製作與指數ETF的差異，做好主動ETF的特有風險提示，建立風險監控系統，監控主動ETF執行情況，並對潛在風險進行防範、控制和處理。五是明確主動ETF基金份額的認購、交易和申購贖回，按產品類別適用《深圳證券交易所證券投資基金交易和申購贖回實施細則》等有關規定。"
+    },
+    {
+      "id": "mkt:019ed49a-06ad-7dd8-b047-d13241248a5c",
+      "time": "2026-06-17 16:02:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: OECD government oil stocks have fallen to their lowest level since 1990."
+    },
+    {
+      "id": "4940365",
+      "time": "2026-06-17 16:01:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX美股盤前上漲2.7%。"
+    },
+    {
+      "id": "mkt:019ed499-d800-7dd8-b047-cf1c4256861e",
+      "time": "2026-06-17 16:01:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: OPEC crude output fell 1.1 mln bpd in May MoM."
+    },
+    {
+      "id": "4940364",
+      "time": "2026-06-17 16:01:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）庫存：鋁減少1475噸。"
+    },
+    {
+      "id": "4940363",
+      "time": "2026-06-17 16:01:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順絡電子：新型結構鉭電容已小批次出貨】順絡電子近日在機構調研時表示，公司為客戶開發新型結構鉭電容滿足了客戶對電容產品小型化、薄型化、高容值的要求。相關產品已為客戶配套供應產品線，目前已小批次出貨。"
+    },
+    {
+      "id": "4940362",
+      "time": "2026-06-17 16:01:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署：5月石油產量較戰前水平低1360萬桶/日。"
+    },
+    {
+      "id": "4940361",
+      "time": "2026-06-17 16:01:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股晶片股盤前走強 美光科技漲近5%】美股晶片股盤前走強。美光科技漲近5%，阿斯麥漲4.5%，邁威爾科技漲4%，英特爾漲3.5%，臺積電漲近2%。"
+    },
+    {
+      "id": "4940360",
+      "time": "2026-06-17 16:01:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前漲跌互現，盛美漲8%】美股中概股盤前漲跌互現，盛美漲8%，嗶哩嗶哩漲2%，百度、網易漲1%，京東跌0.2%，理想汽車、阿里巴巴跌1%，亞瑪芬體育跌3%。"
+    },
+    {
+      "id": "4940359",
+      "time": "2026-06-17 16:01:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前漲跌互現，SpaceX漲2%】美股大型科技股盤前漲跌互現，SpaceX漲2%，英偉達漲0.5%，亞馬遜漲0.3%，Meta、微軟、特斯拉、蘋果、谷歌A持平。"
+    },
+    {
+      "id": "mkt:019ed499-4fad-7dd8-b047-c364f5c996c4",
+      "time": "2026-06-17 16:01:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report forecasts 2027 supply growth of 8 mln b/d versus demand growth of 2 mln b/d, creating a \"significant surplus\" of more than 5 mln b/d."
+    },
+    {
+      "id": "4940358",
+      "time": "2026-06-17 16:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署：預計2026年全球石油供應將每日減少390萬桶。"
+    },
+    {
+      "id": "4940357",
+      "time": "2026-06-17 16:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署（IEA）：海灣地區供應損失將被非歐佩克+產油國的增產部分抵消。"
+    },
+    {
+      "id": "4940356",
+      "time": "2026-06-17 16:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署預計，2027年石油輸出國組織與夥伴國（OPEC+）石油日產量將增加550萬桶。"
+    },
+    {
+      "id": "4940355",
+      "time": "2026-06-17 16:01:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署預測，2027年非歐佩克+產油國產量將增長250萬桶/。"
+    },
+    {
+      "id": "mkt:019ed499-167f-7dd8-b047-baf05152f6d8",
+      "time": "2026-06-17 16:01:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: stock draws averaged 3.8 mln b/d over three months of the Iran war; May draws may reach 4.6 mln b/d."
+    },
+    {
+      "id": "4940354",
+      "time": "2026-06-17 16:00:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署（IEA）：5月非歐佩克+產油國產量環比增加53萬桶/日。"
+    },
+    {
+      "id": "mkt:019ed498-e511-7dd8-b047-b4140342edeb",
+      "time": "2026-06-17 16:00:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's Shenzhen Stock Exchange issued guidelines for actively managed ETFs to promote innovation in equity fund products."
+    },
+    {
+      "id": "4940353",
+      "time": "2026-06-17 16:00:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署：自俄烏衝突爆發以來，全球觀測石油庫存平均每日減少380萬桶。"
+    },
+    {
+      "id": "mkt:019ed498-da00-7dd8-b047-a841918348fd",
+      "time": "2026-06-17 16:00:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME inventories: aluminium -1,475 t; zinc -2,175 t; lead -25 t; nickel +528 t; tin +315 t; copper +525 t."
+    },
+    {
+      "id": "4940352",
+      "time": "2026-06-17 16:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署（IEA）：經合組織（OECD）政府庫存降至1990年以來最低水平、"
+    },
+    {
+      "id": "mkt:019ed498-bada-7dd8-b047-a3ad51d9c3ca",
+      "time": "2026-06-17 16:00:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "International Energy Agency (IEA) projects the conflict involving Iran will reduce 2026 global oil demand by 1.1 mln b/d, versus a prior forecast for a 420k b/d decline."
+    },
+    {
+      "id": "4940351",
+      "time": "2026-06-17 16:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署預計，阿聯酋明年石油總產量將增至520萬桶/日。"
+    },
+    {
+      "id": "4940350",
+      "time": "2026-06-17 16:00:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署稱，5月份全球石油產量環比下降60萬桶/日。"
+    },
+    {
+      "id": "te:markets:559658",
+      "time": "2026-06-17 16:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 0.57% — Top commodity losers are Natural Gas UK (-0.57%), Crude Oil WTI (-0.50%) and Brent Crude Oil (-0.42%)."
+    },
+    {
+      "id": "4940349",
+      "time": "2026-06-17 16:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際能源署下調石油需求預測，伊朗戰爭造成更大損失。"
+    },
+    {
+      "id": "4940348",
+      "time": "2026-06-17 15:59:46",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【智譜科創板IPO輔導狀態變更為“輔導驗收”】6月17日訊息，據證監會網站披露，北京智譜華章科技股份有限公司科創板IPO輔導狀態變更為“輔導驗收”，輔導券商為國泰海通證券。"
+    },
+    {
+      "id": "mkt:019ed497-478b-7dd8-b047-9820808ad8bc",
+      "time": "2026-06-17 15:59:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Mingtai Aluminium said its recycled aluminium finished-product capacity exceeds 1 mln tonnes and is currently operating at full capacity."
+    },
+    {
+      "id": "4940347",
+      "time": "2026-06-17 15:58:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明泰鋁業：再生鋁成品產能超100萬噸 處於滿產狀態】明泰鋁業6月17日在互動平臺稱，公司再生鋁成品產能超100萬噸，目前處於滿產狀態。"
+    },
+    {
+      "id": "4940346",
+      "time": "2026-06-17 15:58:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【高市早苗在G7峰會會場“轉椅子”畫面引爭議，日本網民：真丟人】當地時間6月16日，在法國埃維昂萊班舉行的七國集團（G7）峰會進入第二天。據美國公共電視臺等多家外媒報道，現場畫面顯示，日本首相高市早苗在會議間隙獨自一人坐在座位上“轉椅子”，這一幕在日本社交媒體上熱傳引發爭議，不少日本網民批評高市早苗這個動作看起來非常幼稚，沒有作為一國首相應有的風度。（環球網）"
+    },
+    {
+      "id": "mkt:019ed496-b339-7dd8-b047-91a049c39555",
+      "time": "2026-06-17 15:58:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【UK inflation steady at 2.8% in May; BoE all but certain to hold this week】MHA analyst Joe Nellis says May annual inflation was unchanged at 2.8% YoY, below market expectations, making the Bank of England all but certain to hold rates at Thursday’s meeting. Nellis added that if the Middle East remains calm the BoE may not need to hike this year and inflation could stay below 4%, though inflation could still rise modestly in coming months even if tensions ease quickly."
+    },
+    {
+      "id": "4940345",
+      "time": "2026-06-17 15:58:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中航光電：交換機端液冷相關產品已實現批次出貨】中航光電在互動平臺表示，目前公司已在光模組液冷領域開展規模化佈局，國內率先在交換機端落地液冷散熱解決方案，並持續拓展液冷方案應用場景，相關產品現已實現批次出貨。"
+    },
     {
       "id": "4940344",
       "time": "2026-06-17 15:57:59",
@@ -169823,220 +170156,6 @@
         "焦點"
       ],
       "text": "現貨黃金失守4170美元/盎司，日內跌2.13%。"
-    },
-    {
-      "id": "4927626",
-      "time": "2026-06-10 16:02:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【群興玩具：第一大股東部分股份二次司法拍賣成交 或被動減持】群興玩具公告稱，廣東省深圳市龍崗區人民法院於6月8 - 9日對第一大股東深圳星河持有的140萬股進行二次司法拍賣，楊棟材以762.72萬元競買成功。若成交併完成過戶，深圳星河及其一致行動人持股比例將由8.82%降至8.59%，第一大股東不變。但此前流拍的3200萬股後續處置存在不確定性，若二次拍賣成功，或導致第一大股東變更。"
-    },
-    {
-      "id": "4927625",
-      "time": "2026-06-10 16:02:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【哈藥股份：達普司他片即將啟動Ⅲ期臨床研究】哈藥股份公告，全資子公司哈藥生物近日已按照國家藥品監督管理局藥品審評中心（CDE）要求完成臨床試驗登記。達普司他片是哈藥生物購買博志研新達普司他片臨床批件，並就其後續開發、上市等事項開展合作。2026年6月完成登記並公示，即將啟動Ⅲ期臨床研究（確證性臨床研究）。"
-    },
-    {
-      "id": "4927624",
-      "time": "2026-06-10 16:02:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "超微電腦股份在盤前交易中下跌7.8%，此前該公司計劃透過股票發行募資70億美元。"
-    },
-    {
-      "id": "4927623",
-      "time": "2026-06-10 16:02:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "空中客車歐洲公司：羅馬尼亞內政部訂購了七架空客H160直升機和五架空客H145直升機。"
-    },
-    {
-      "id": "4927622",
-      "time": "2026-06-10 16:02:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【全國消協組織建設現場經驗調研交流會在溫州召開】6月10日，全國消協組織建設現場經驗調研交流會在浙江省溫州市召開。市場監管總局副局長白清元出席會議並講話。浙江省人民政府副省長王釗，溫州市委副書記、市長張文傑出席會議並致辭。重慶、四川、貴州三省（市）人大常委會副主任、消協組織會長（主任）出席會議。中消協常務副會長甘霖主持會議。會議指出，40多年來，全國消協組織認真貫徹落實黨中央、國務院決策部署，始終堅持人民至上、問題導向、系統聯動、因地制宜、社會共治，在加強組織建設和提升履職能力等方面積累了寶貴的實踐經驗，取得重大成就。會議強調，組織建設是一項基礎性、戰略性、全域性性工作，關乎消保事業長遠發展，必須擺在突出位置抓緊抓實。各地要明確工作重點，加快推進消協組織應建盡建，全面提升投訴處理效能，充分發揮消費維權平臺樞紐作用，紮實推進消協組織建設高質量發展。"
-    },
-    {
-      "id": "4927621",
-      "time": "2026-06-10 16:01:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【AMD美股盤前跌超2%】AMD美股盤前跌超2%。超微電腦計劃進行70億美元的股權融資，用於購買履行客戶人工智慧(AI)伺服器訂單所需的元件。"
-    },
-    {
-      "id": "4927620",
-      "time": "2026-06-10 16:01:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前漲跌互現，百度跌3%】美股中概股盤前漲跌互現，嗶哩嗶哩漲3%，攜程、網易漲2%，京東跌0.1%，理想汽車跌0.9%，蔚來、阿里巴巴跌2%，百度跌3%。"
-    },
-    {
-      "id": "4927619",
-      "time": "2026-06-10 16:01:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前多數下跌，英偉達跌1%】美股大型科技股盤前多數下跌，Meta、蘋果持平，微軟跌0.2%，亞馬遜跌0.4%，谷歌A跌0.7%，特斯拉、英偉達跌1%。"
-    },
-    {
-      "id": "4927618",
-      "time": "2026-06-10 16:01:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拼多多新公司落戶雄安：首批招聘1000人，計劃提供5000個工作崗位】近日，拼多多集團正式成立拼多多資訊科技服務（雄安）有限公司，首期已現金注資5億元，重點佈局大資料處理、數字化運維、雲平臺服務等業務。目前，拼多多已就雄安新公司推出專項招聘計劃，首批招聘崗位數量達到1000個，整個招聘週期將為當地提供超5000個工作崗位。（介面新聞）"
-    },
-    {
-      "id": "mkt:019eb08c-e678-7aad-8122-4e9a4b848544",
-      "time": "2026-06-10 16:01:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "PDD.O",
-        "Impact bullish"
-      ],
-      "text": "【Pinduoduo launches Xiong'an tech unit with 500 mln yuan seed injection; first hiring 1,000, plans 5,000 jobs】Pinduoduo Group has established Pinduoduo Information Technology Services (Xiong'an) Co., Ltd., with an initial cash injection of 500 mln yuan. The unit will focus on big-data processing, digital operations and maintenance, and cloud platform services. Pinduoduo has opened a dedicated recruitment drive: the first batch comprises 1,000 roles and the full hiring cycle is expected to create more than 5,000 jobs in the Xiong'an area."
-    },
-    {
-      "id": "4927617",
-      "time": "2026-06-10 16:01:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500迷你股指期貨下跌0.35%，納斯達克100股指期貨下跌0.52%，道瓊斯股指期貨下跌0.31%。"
-    },
-    {
-      "id": "4927616",
-      "time": "2026-06-10 16:01:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "博世執行長：未來數年儲存晶片價格將上漲，我們都會受此影響。"
-    },
-    {
-      "id": "4927615",
-      "time": "2026-06-10 16:00:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鎳庫存減少138噸，鉛庫存減少825噸，銅庫存減少3075噸，錫庫存減少50噸，鋁庫存減少2925噸，鋅庫存減少825噸。"
-    },
-    {
-      "id": "mkt:019eb08c-7534-7aad-8122-441976bf2f73",
-      "time": "2026-06-10 16:00:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "London Metal Exchange inventories declined: nickel down 138 tonnes, lead down 825 tonnes, copper down 3,075 tonnes, tin down 50 tonnes, aluminium down 2,925 tonnes and zinc down 825 tonnes."
-    },
-    {
-      "id": "4927614",
-      "time": "2026-06-10 16:00:54",
-      "tags": [
-        "資料"
-      ],
-      "text": "義大利4月季調後工業產出月率 0.5%，預期-0.1%，前值由0.70%修正為0.6%。義大利4月調整後工業產出年率 1.3%，前值由1.50%修正為1.4%。"
-    },
-    {
-      "id": "mkt:019eb08c-5976-7aad-8122-3c790412690a",
-      "time": "2026-06-10 16:00:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Italy adjusted industrial output YoY +1.3% in April; prior reading revised to 1.4% from 1.5%."
-    },
-    {
-      "id": "mkt:019eb08c-54c8-7aad-8122-352e8ceb8d43",
-      "time": "2026-06-10 16:00:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Italy April seasonally adjusted industrial production MoM +0.5% (exp -0.1%); March revised to +0.6% from +0.7%."
-    },
-    {
-      "id": "4927613",
-      "time": "2026-06-10 16:00:39",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【上海市政府黨組成員、副市長陳宇劍被查】上海市政府黨組成員、副市長陳宇劍涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb08c-303c-7aad-8122-2f418384322b",
-      "time": "2026-06-10 16:00:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Italy | Industrial Production Index (Calendar Adjusted) (YoY) (Apr) | actual 1.3% | previous 1.50%"
-    },
-    {
-      "id": "mkt:019eb08c-302a-7aad-8122-23f2f0d8b69a",
-      "time": "2026-06-10 16:00:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Italy | Industrial Production Index (Seasonally Adjusted) (MoM) (Apr) | actual 0.5% | consensus -0.1% | previous 0.70%"
-    },
-    {
-      "id": "4927612",
-      "time": "2026-06-10 16:00:22",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "土耳其央行透過傳統方式開展1週期黃金兌里拉賣方掉期拍賣，拍賣規模為3噸。"
-    },
-    {
-      "id": "te:markets:557979",
-      "time": "2026-06-10 16:00:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Gains by 0.78% — Top commodity gainers are Natural gas (0.78%), Natural Gas UK (0.66%) and Natural Gas EU (0.65%). Biggest loser is Crude Oil WTI (-0.14%). Meanwhile Brent Crude Oil was little changed."
-    },
-    {
-      "id": "4927611",
-      "time": "2026-06-10 15:58:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【道通科技回應被列入1260H清單：與美國國防部無業務往來，未影響全球正常經營】道通科技6月10日在互動平臺表示，關於公司被美國國防部列入1260H清單事項，公司於今年2月已關注。1260H清單本身不構成制裁清單，影響主要集中於美國國防部的採購限制。截至目前，公司與美國國防部無直接採購關係，也未有業務往來。自今年2月以來，該事項未影響公司在全球市場的正常經營，公司經營業績持續穩健提升。"
     }
   ]
 }
