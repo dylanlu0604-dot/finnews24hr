@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-18 07:53:46",
-  "count": 18765,
+  "updated": "2026-06-18 07:57:46",
+  "count": 18767,
   "items": [
+    {
+      "id": "4942038",
+      "time": "2026-06-18 07:56:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【恆瑞醫藥披露口服小分子GLP-1受體激動劑HRS-7535第二項中國關鍵Ⅲ期2型糖尿病研究積極頂線結果】6月18日，恆瑞醫藥與美國Kailera Therapeutics公司（Kailera）共同宣佈，口服小分子GLP-1受體激動劑HRS-7535（大中華區外稱KAI-7535）在中國810名成人2型糖尿病受試者中開展的Ⅲ期臨床試驗（OUTSTAND-2）取得積極頂線結果。32周主要終點資料顯示，HRS-7535劑量組HbA1c降幅達1.50%~1.68%。基於OUTSTAND-1和OUTSTAND-2兩項研究的積極頂線結果，恆瑞醫藥計劃今年在中國遞交HRS-7535用於2型糖尿病治療的上市申請；HRS-7535用於超重或肥胖適應症的中國III期臨床試驗（HARBOR-1）正在進行中，並將於2026年披露相關資料。Kailera目前正在開展KAI-7535用於肥胖症的全球II期臨床試驗。（人民財訊）"
+    },
+    {
+      "id": "4942037",
+      "time": "2026-06-18 07:55:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：主要經濟體的貨幣政策出現了明顯轉變。"
+    },
+    {
+      "id": "4942036",
+      "time": "2026-06-18 07:54:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【去年我國海上風電新增併網容量佔全球78%】昨天（17日），《海上風電回顧與展望》報告在上海釋出，報告顯示，2025年，我國海上風電新增併網容量佔全球的78%，穩居全球首位。2025年，全球海上風電新增併網容量達到925.2萬千瓦，同比增長16%，其中，中國市場貢獻了719.2萬千瓦，佔比高達78%。截至2025年底，全球海上風電累計併網容量達到9247.5萬千瓦，中國以5204.2萬千瓦的累計裝機規模佔據全球總量的56%，持續領跑世界。"
+    },
+    {
+      "id": "4942035",
+      "time": "2026-06-18 07:53:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：風險包括中東局勢、石油市場和全球財政政策。"
+    },
+    {
+      "id": "mkt:019ed801-0ba9-7dd8-b066-8d1417705197",
+      "time": "2026-06-18 07:53:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea will monitor volatility in financial and foreign exchange markets."
+    },
+    {
+      "id": "4942034",
+      "time": "2026-06-18 07:53:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率<JP10YTN=JBTC>上漲3.0個基點，至2.630%。"
+    },
     {
       "id": "4942033",
       "time": "2026-06-18 07:52:57",
@@ -172881,46 +172933,6 @@
         "國際"
       ],
       "text": "【美銀：客戶上週拋售美國科技股規模創2008年以來最大】美銀證券援引截至6月5日當週的客戶資金流向資料，稱隨著標普500指數創下2025年4月以來最大單週跌幅，上週該行客戶撤出美國科技股的規模達到紀錄最大。從市值佔比來看，當週科技股的資金流出規模創下2014年初以來最高紀錄。個股拋售規模也創下歷史新高。其補充道：“資金流出完全集中在大盤股，客戶轉而買入了中小盤股。”"
-    },
-    {
-      "id": "te:markets:558186",
-      "time": "2026-06-11 07:57:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Slide as Iran Strikes Escalate — US stock futures declined on Thursday after the US military launched additional strikes against Iran as President Donald Trump accused Tehran of dragging out talks on an interim peace deal. The latest escalation sent oil prices higher, keeping traders cautious about inflationary risks and potential central bank interest rate hikes. In corporate news, Oracle shares plunged more than 10% in extended trading after the company unveiled plans to raise an additional $20 billion through equity and debt offerings to support its artificial intelligence expansion. In regular trading on Wednesday, the Dow fell 1.87%, the S&P 500 lost 1.62%, and the Nasdaq Composite slid 1.98%. Eight of the 11 S&P sectors finished in negative territory, with industrials, materials, and technology stocks leading the declines. Tech and chip stocks also faced renewed selling pressure amid lingering concerns over lofty AI-related valuations and growing investor caution ahead of SpaceX's closely watched IPO on Friday."
-    },
-    {
-      "id": "4929162",
-      "time": "2026-06-11 07:57:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列軍隊炮兵對黎巴嫩南部納巴提耶市醫院周邊進行猛烈轟炸。"
-    },
-    {
-      "id": "te:economy:558185",
-      "time": "2026-06-11 07:55:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Business Survey Index Large Manufacturing Firms",
-        "Importance 1"
-      ],
-      "text": "Japan Business Sentiment Falls to 1-Year Low — Japan’s Business Survey Index for large manufacturers unexpectedly fell to -1.8% in the second quarter of 2026 from 3.8% in Q1, the first negative reading since the second quarter of 2025. The latest reading missed market expectations of 4.2%, as businesses were weighed down by the Middle East conflict and surging oil prices."
-    },
-    {
-      "id": "4929161",
-      "time": "2026-06-11 07:55:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【玉淵譚天：該警惕日本的，不只是中國】最近的日本很不安分。6月9日，日本自民黨透過了修改“安保三檔案”的草案，試圖掙脫其所謂“專守防衛”的束縛。就在同一天，針對日本聯合菲律賓侵害我海洋權益的企圖，中國外交部、國防部兩部門接連發聲。中方的態度很清楚，日菲的行為嚴重侵害中方的海洋權益，中方絕不允許。中方將以堅決有力的行動舉措維護國家領土主權和海洋權益。說得再直白一點，如果日本一意孤行，只會求錘得錘。而這些博弈背後，是日本一個更危險的企圖：透過聯合菲律賓，日本正將東海、臺海、南海三個海域的安全議題繫結聯動，搞“三海聯動”，把更多國家拉進其安全框架。日菲還在不斷勾連炒作，企圖把其軍事化行為正常化。今天日本以“合作”之名進入南海，明天就可能把地區國家推到它軍事正常化的最前線。這不是東南亞國家需要的安全。無論如何，中方都會做好相應的準備。只是日本如果天真地以為，靠這些動作就能把中國拖進它設計的節奏裡，那恐怕是打錯了算盤。真正會被這種戰略反噬的，只會是不斷把自己推向軍事化深水區的日本。"
     }
   ]
 }
