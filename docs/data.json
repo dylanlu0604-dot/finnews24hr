@@ -1,7 +1,132 @@
 {
-  "updated": "2026-06-17 09:18:35",
+  "updated": "2026-06-17 09:22:43",
   "count": 18320,
   "items": [
+    {
+      "id": "mkt:019ed32b-e377-7dd8-b03c-ba4fe95f346f",
+      "time": "2026-06-17 09:22:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【PBOC nets CNY261.3 bln via 7-day reverse repos today】PBOC conducted CNY420.3 bln of 7-day reverse repurchase operations today; CNY159.0 bln matured, leaving a net injection of CNY261.3 bln."
+    },
+    {
+      "id": "4939570",
+      "time": "2026-06-17 09:22:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓參議院選舉SHERWIN GATCHALIAN為新議長。"
+    },
+    {
+      "id": "4939569",
+      "time": "2026-06-17 09:21:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展4203億元7天逆回購操作，投標量4203億元，中標量4203億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019ed32b-5385-7dd8-b03c-b2f8fe74dbf2",
+      "time": "2026-06-17 09:21:32",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "PBOC conducted 420.3 bln yuan of 7-day reverse repos today; bid and allotment both 420.3 bln yuan; operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "4939568",
+      "time": "2026-06-17 09:21:27",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.01％，國企指數跌0.06％，科指開跌0.47%。"
+    },
+    {
+      "id": "mkt:019ed32b-2a11-7dd8-b03c-ab57a0ff0705",
+      "time": "2026-06-17 09:21:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "09901.HK",
+        "Impact bullish",
+        "01177.HK",
+        "09988.HK"
+      ],
+      "text": "Hong Kong stocks opened mixed; the Hang Seng Index was up 0.01% while the Hang Seng Tech Index fell 0.47%. New Oriental (09901.HK) rose more than 2.6%, and China Biopharm (01177.HK) and Alibaba (09988.HK) gained over 1%."
+    },
+    {
+      "id": "mkt:019ed32a-bc52-7dd8-b03c-a2999cd63247",
+      "time": "2026-06-17 09:20:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 5-year government bond yield fell 3.0 bps to 1.880%."
+    },
+    {
+      "id": "mkt:019ed32a-7dd2-7dd8-b03c-9c8cd263fd5f",
+      "time": "2026-06-17 09:20:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 2-year bond yield fell 1.5 bps to 1.390%."
+    },
+    {
+      "id": "mkt:019ed329-eaf9-7dd8-b03c-961c79d1e8e3",
+      "time": "2026-06-17 09:20:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK"
+      ],
+      "text": "【Zhipu (02513.HK) open-sources GLM-5.2】Zhipu AI (02513.HK) launched and open-sourced GLM-5.2 under an MIT license with no geographic restrictions. The firm says GLM-5.2 ranked first among globally available models on CodeArena, a front-end evaluation system with over 1 mln users in blind tests. The model features a 1M-token context window for long-range tasks, improved coding ability, and infrastructure optimizations for Day‑0 operation on domestic compute. Zhipu completed Day‑0 inference adaptation on multiple Chinese compute platforms, citing integration with Huawei Ascend, T-Head (Pingtouge), Moore Threads, Cambricon, Kunlunxin, Muxi, Hygon (Haiguang) and Biren, and reports high throughput, low latency and large-concurrency stability on domestic chip clusters. Benchmarks cited place GLM-5.2’s long-range performance between Claude Opus 4.7 and 4.8 and flag it as the highest-ranked open-source model. Zhipu expects Huawei’s Ascend 950 supernode, slated for H2, to become an additional compute base for GLM-5.2."
+    },
+    {
+      "id": "4939566",
+      "time": "2026-06-17 09:19:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜：今天上線並開源GLM-5.2】智譜(02513.HK)今日發文稱，上線並開源GLM-5.2。在全球百萬使用者參與盲測的前端開發評估系統CodeArena上，GLM-5.2取得全球可用模型第一的表現。今天GLM-5.2專為長程任務能力而生，全新特色包括：Solid1M上下文，穩定支撐長程任務；更強體感，更實用的Coding能力；極致Infra最佳化，Day0執行在國產算力平臺；MIT開源協議，無地域限制，技術平權無國界。1M上下文構成GLM-5.2的長程交付能力，多個長程任務基準表明GLM-5.2的表現介於Claude Opus4.7與4.8之間，是排名最高的開源模型。GLM-5.2的線上推理依託多個國產算力平臺，已在Day 0完成與華為昇騰、平頭哥、摩爾執行緒、寒武紀、崑崙芯、沐曦、海光、壁仞等國產算力平臺的推理適配，在國產晶片叢集上實現高吞吐、低延遲、大併發的穩定執行。預計下半年昇騰950超節點上市後，也將成為GLM-5.2強勁的算力底座。"
+    },
+    {
+      "id": "4939565",
+      "time": "2026-06-17 09:19:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽微電子：公司亦莊MEMS量產線目前產能為1.5萬片/月】賽微電子6月17日在互動平臺表示，公司亦莊MEMS量產線目前產能為1.5萬片/月，公司將大力擴大晶圓類別及客戶領域，持續不斷推動促進公司本土FAB的建設運營、業務發展及業績增長，並將繼續適時有序的推動產能從當前的1.5萬片/月向3萬片/月產能的分階段針對性擴充。"
+    },
+    {
+      "id": "4939564",
+      "time": "2026-06-17 09:19:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美軍稱在東太平洋打擊“販毒船”致1人死亡】美軍南方司令部16日發表宣告說，美軍當天在東太平洋對一艘“販毒船”發動打擊，船上1人死亡。宣告說，根據美軍南方司令部司令弗朗西斯·多諾萬的命令，美軍“南方之矛”聯合特遣部隊對一艘由“被認定的恐怖組織”運營的船隻實施打擊，打死船上1名男性，無美軍人員傷亡。"
+    },
+    {
+      "id": "4939563",
+      "time": "2026-06-17 09:18:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率下跌5個基點至3.485%。"
+    },
     {
       "id": "4939560",
       "time": "2026-06-17 09:16:50",
@@ -168375,133 +168500,6 @@
         "國際"
       ],
       "text": "俄羅斯薩馬拉州諾伏庫比舍夫斯克遭無人機襲擊。"
-    },
-    {
-      "id": "4926969",
-      "time": "2026-06-10 09:22:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放1,590.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019eaf1f-43bb-7ff4-a104-83121c422974",
-      "time": "2026-06-10 09:21:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "At the open on Jun 10, Hong Kong's Hang Seng Index (HSI) fell 123.38 points (-0.50%) to 24,442.52. Hang Seng Tech dropped 18.11 points (-0.38%) to 4,751.50. Hang Seng China Enterprises Index (HSCEI) slipped 29.43 points (-0.35%) to 8,295.16. Hang Seng China-Affiliated Corporations (Red Chip) Index declined 27.30 points (-0.63%) to 4,311.75."
-    },
-    {
-      "id": "mkt:019eaf1e-e784-7ff4-a104-793eedc83b24",
-      "time": "2026-06-10 09:21:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "00354.HK",
-        "Impact bullish"
-      ],
-      "text": "China Software International (00354.HK) rose more than 4% after signing a RMB1 bln sales agreement for high-end AI compute equipment."
-    },
-    {
-      "id": "4926968",
-      "time": "2026-06-10 09:21:37",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.5％，國企指數跌0.35％，恒生科技指數開跌0.38%，PCB、人工智慧股走強。"
-    },
-    {
-      "id": "4926967",
-      "time": "2026-06-10 09:21:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展1590億元7天逆回購操作，投標量1590億元，中標量1590億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019eaf1e-c63d-7ff4-a104-70c33b3ae367",
-      "time": "2026-06-10 09:21:28",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC conducted a CNY159bn 7-day reverse repo today; bids and allotment both CNY159bn; operation rate 1.40%, unchanged."
-    },
-    {
-      "id": "em:qqyh_zgyh:202606103765990290",
-      "time": "2026-06-10 09:21:25",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展1590億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019eaf1e-9761-7ff4-a104-6e24cd54163d",
-      "time": "2026-06-10 09:21:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "02228.HK",
-        "Impact bullish",
-        "HSI",
-        "Impact bearish",
-        "HSTECH",
-        "Impact mixed"
-      ],
-      "text": "Hong Kong open: Hang Seng Index (HSI) down 0.50%, Hang Seng Tech Index down 0.38%. PCB and AI stocks led gains; chip, nonferrous metals and new-energy vehicle stocks lagged. JingTai Holdings (02228.HK) rose over 4% after announcing a strategic AI drug‑discovery partnership worth more than $400 mln with a global pharmaceutical company."
-    },
-    {
-      "id": "4926966",
-      "time": "2026-06-10 09:21:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華孚時尚：阿克蘇算力專案尚未正式完工】華孚時尚6月10日在互動平臺表示，1、公司各業務板塊經營穩健，現金流健康。目前不存在《深圳證券交易所股票上市規則》規定的觸發實施退市風險警示或其他風險警示的情形。2、公司堅定實行“堅持主業、共享產業、發展新業”的發展戰略，科技新業穩步推進，算力服務能力持續最佳化。阿克蘇算力專案會綜合考慮市場行情、客戶需求、裝置供貨等因素合理安排投產運營進度。專案尚未正式完工，請注意投資風險。"
-    },
-    {
-      "id": "4926965",
-      "time": "2026-06-10 09:20:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國小麥收穫進度近七成】據農業農村部最新小麥機收進度，截至6月9日17時，全國已收穫夏糧小麥2.33億畝，收穫進度68.54%。安徽麥收圓滿完成，河南基本結束，江蘇進度過八成，山東過四成半，陝西過三成，河北近兩成，山西過一成半。"
-    },
-    {
-      "id": "mkt:019eaf1d-7e23-7ff4-a104-614868034f1d",
-      "time": "2026-06-10 09:20:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's May CPI YoY due in 10 minutes."
-    },
-    {
-      "id": "mkt:019eaf1d-6e35-7ff4-a104-5af6944d4857",
-      "time": "2026-06-10 09:20:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Google Cloud said it rerouted significant traffic to other nodes after local service capacity at affected Delhi facilities degraded."
-    },
-    {
-      "id": "4926964",
-      "time": "2026-06-10 09:19:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌雲：第三方資料中心發生火災，導致德里區域網路裝置被迫緊急斷電，網路容量下降。正在研究額外的流量緩解措施。已將受影響德里設施的大量流量重新路由，以解決本地服務能力下降問題。"
     }
   ]
 }
