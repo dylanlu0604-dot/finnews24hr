@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-18 02:07:07",
-  "count": 18558,
+  "updated": "2026-06-18 02:11:07",
+  "count": 18565,
   "items": [
+    {
+      "id": "4941629",
+      "time": "2026-06-18 02:10:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部： 以色列持續佔領黎巴嫩南部地區的行為違反諒解備忘錄，我方將採取必要舉措。"
+    },
+    {
+      "id": "mkt:019ed6c6-8480-7dd8-b05e-2b86f71fc362",
+      "time": "2026-06-18 02:09:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "JP Morgan global head of fixed income Michelle said the FOMC's stance is leaning hawkish."
+    },
+    {
+      "id": "4941628",
+      "time": "2026-06-18 02:09:28",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員在點陣圖調整後押注美聯儲更大幅度收緊政策。"
+    },
+    {
+      "id": "4941627",
+      "time": "2026-06-18 02:09:02",
+      "tags": [
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "摩根大通全球固定收益主管：美聯儲正在讓市場做好加息準備， 美聯儲正關注其他央行加息動向。"
+    },
+    {
+      "id": "4941626",
+      "time": "2026-06-18 02:08:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4290美元/盎司，日內跌0.97%。"
+    },
+    {
+      "id": "4941625",
+      "time": "2026-06-18 02:08:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守69美元/盎司，日內跌1.74%。"
+    },
+    {
+      "id": "4941624",
+      "time": "2026-06-18 02:08:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4310美元/盎司，日內跌1.04%。"
+    },
+    {
+      "id": "4941623",
+      "time": "2026-06-18 02:08:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4310.40美元/盎司。"
+    },
+    {
+      "id": "4941622",
+      "time": "2026-06-18 02:08:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4320美元/盎司，日內跌0.80%。"
+    },
+    {
+      "id": "4941621",
+      "time": "2026-06-18 02:07:20",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "原美聯儲副主席、太平洋投資管理公司（PIMCO，品浩）全球經濟顧問克拉裡達：主席沃什沒有給出點陣圖看法不足為奇。"
+    },
+    {
+      "id": "mkt:019ed6c3-9346-7dd8-b05e-23fc746678aa",
+      "time": "2026-06-18 02:06:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Former Fed Vice Chair Richard Clarida said he was not surprised that Fed Chair Kevin Warsh did not submit a dot plot."
+    },
+    {
+      "id": "em:qqyh_mlc:202606183775037222",
+      "time": "2026-06-18 02:06:16",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲將美國2026年GDP增長預期中值從2.4%下調至2.2%】美聯儲將美國2026年至2028年GDP增速預期中值調整為2.2%、2.3%、2.2%，3月預期分別為2.4%、2.3%、2.1%；將2026年至2028年底PCE通脹預期中值調整為3.6%、2.3%、2.0%，3月預期分別為2.7%、2.2%、2.0%。"
+    },
     {
       "id": "4941620",
       "time": "2026-06-18 02:06:04",
@@ -170727,46 +170844,6 @@
         "國際"
       ],
       "text": "美國銀行發現，亞太地區對人工智慧驅動的資金管理及外匯解決方案需求持續增長。"
-    },
-    {
-      "id": "4928874",
-      "time": "2026-06-11 02:10:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧將在比賽間隙與巴拉圭總統會面。"
-    },
-    {
-      "id": "4928873",
-      "time": "2026-06-11 02:09:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧將率代表團前往洛杉磯觀看對陣巴拉圭的世界盃賽事。"
-    },
-    {
-      "id": "4928872",
-      "time": "2026-06-11 02:09:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：我十分欽佩特朗普總統的魄力。我從未見過有誰能接受伊朗擁有核武器。這場衝突終將落幕。但民主黨推高電價、汽油及柴油價格的政策，卻已然成為常態。"
-    },
-    {
-      "id": "mkt:019eb2b9-2dd7-7dd8-afaa-56e25621c7f1",
-      "time": "2026-06-11 02:09:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. Justice Department probes whether major U.S. banks closed customer accounts for political reasons】The U.S. Justice Department has subpoenaed several large U.S. banks, including JPMorgan and Bank of America, seeking records on whether banks improperly closed customer accounts for political reasons, the Wall Street Journal reports citing sources. The subpoenas were issued by the U.S. Attorney’s Office for the District of Columbia, led by Jeanine Pirro, and mark an escalation of a Trump-led probe into whether banks discriminated against conservatives and politically sensitive industries, including businesses linked to the Trump family. Trump has alleged JPMorgan and Bank of America closed his accounts after the Jan. 6 events; in August he signed an executive order directing bank regulators to investigate politically motivated de-banking and consider penalties."
-    },
-    {
-      "id": "4928871",
-      "time": "2026-06-11 02:07:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧將於6月12日至13日前往洛杉磯。"
     }
   ]
 }
