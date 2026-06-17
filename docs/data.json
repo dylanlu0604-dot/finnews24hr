@@ -1,7 +1,86 @@
 {
-  "updated": "2026-06-17 08:50:04",
-  "count": 18342,
+  "updated": "2026-06-17 08:54:10",
+  "count": 18346,
   "items": [
+    {
+      "id": "mkt:019ed311-3c7c-7dd8-b03c-3e6e2ffc37e1",
+      "time": "2026-06-17 08:53:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【2026 Lujiazui Forum opens today; Ding Xiangqun, PBOC Governor Pan, CSRC chair Wu Qing and SAFE head Zhu Hexin to speak】The 2026 Lujiazui Forum opens on the morning of June 17. National Financial Regulatory Administration head Ding Xiangqun will deliver opening remarks; PBOC Governor Pan, CSRC chair Wu Qing and PBOC vice governor and SAFE head Zhu Hexin will give keynote speeches."
+    },
+    {
+      "id": "4939523",
+      "time": "2026-06-17 08:52:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊稱以軍仍繼續屠殺黎巴嫩民眾】據伊朗伊斯蘭共和國通訊社16日報道，伊朗武裝部隊哈塔姆安比亞中央總部發表宣告說，在美國總統特朗普宣佈“停戰”後的兩天內，以色列軍隊在黎巴嫩南部違反停火協議84次，仍繼續屠殺黎巴嫩民眾。 哈塔姆安比亞中央總部警告，如果以色列軍隊不停止在黎巴嫩南部的罪惡行徑，必將遭到伊朗武裝力量的嚴厲回擊。 特朗普14日宣佈與伊朗達成停戰諒解備忘錄。斡旋方巴基斯坦總理夏巴茲表示，雙方同意立即永久停止包括黎巴嫩在內所有戰線的軍事行動，正式簽字儀式將於19日在瑞士舉行。（新華社）"
+    },
+    {
+      "id": "4939522",
+      "time": "2026-06-17 08:51:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬凱新材等投資成立生物科技公司】企查查APP顯示，近日，凱碧歐（浙江）生物科技有限公司成立，經營範圍包含：工業酶製劑研發；碳纖維再生利用技術研發；新材料技術研發；生物基材料技術研發等。企查查股權穿透顯示，該公司由萬凱新材等共同持股。"
+    },
+    {
+      "id": "mkt:019ed30f-dcfb-7dd8-b03c-366181436fbf",
+      "time": "2026-06-17 08:51:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【SK Hynix removes degree requirement, opens rolling hiring to boost Korean AI chip development】SK Hynix said on the 17th it will eliminate all formal degree requirements and launch rolling recruitment for entry-level technical roles. The company said future hires will be chosen on demonstrated job skills and growth potential rather than academic credentials; previous postings requiring a four‑year bachelor’s degree have been withdrawn. Applicants whose experience, role capabilities and cultural fit meet job criteria may apply regardless of educational background."
+    },
+    {
+      "id": "4939521",
+      "time": "2026-06-17 08:51:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【2026陸家嘴論壇今日將開幕 丁向群、潘功勝、吳清、朱鶴新將發聲】6月17日上午，2026陸家嘴論壇將正式開幕。記者在現場獲悉，國家金融監督管理總局局長、論壇共同輪值主席丁向群將致開幕辭，中國人民銀行行長潘功勝、中國證監會主席吳清以及中國人民銀行副行長、國家外匯管理局局長朱鶴新等金融管理部門負責人等發表主題演講。（證券時報）"
+    },
+    {
+      "id": "4939520",
+      "time": "2026-06-17 08:50:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌3.5個基點，至3.500%。"
+    },
+    {
+      "id": "4939519",
+      "time": "2026-06-17 08:50:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技賦能荒漠化治理 內蒙古首次實現林草地面積由減轉增】今天（17日）是第32個世界防治荒漠化和乾旱日。記者從國家林草局瞭解到，近年來，我國不斷加大荒漠化防治力度，取得顯著成效。我國在三北地區推廣一大批新品種、新裝備、新技術，為助力打贏“三北”工程攻堅戰三大標誌性戰役提供了新動能。內蒙古是我國荒漠化治理主戰場。據2025年度內蒙古自治區林草溼荒調查監測初步成果顯示，全區林草地淨流入206萬畝，歷史上首次實現林草地面積由減轉增。（央視）"
+    },
+    {
+      "id": "4939518",
+      "time": "2026-06-17 08:49:52",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：黃金風險平衡目前向上傾斜】馬來亞銀行分析師在一份研究報告中表示，黃金的風險平衡從目前水平向上傾斜。馬來亞銀行的分析師表示：“目前，布倫特原油較[4月]30日的高點下跌了30%以上，且美聯儲偏緊縮的重新定價已在相當大程度上對金價構成壓力，風險平衡正偏向於更看漲黃金的情境。“馬來亞銀行的分析師表示：“油價持續走低可能會緩解美國國債以及新興市場貨幣的壓力，這反過來可能會帶來黃金更持久的上漲。“他們補充說，根據圖表，阻力位在每盎司4,900美元，然後是每盎司5,020美元。"
+    },
+    {
+      "id": "4939517",
+      "time": "2026-06-17 08:49:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國銀河等在黑龍江成立創投基金】企查查APP顯示，近日，黑龍江省龍江創業投資基金合夥企業（有限合夥）成立，出資額5億元，經營範圍為創業投資。企查查股權穿透顯示，該基金由中國銀河旗下銀河創新資本管理有限公司等共同出資。"
+    },
     {
       "id": "4939516",
       "time": "2026-06-17 08:49:11",
@@ -57,6 +136,14 @@
         "FFIE.O"
       ],
       "text": "Jia Yueting said Faraday Future (FF) shipped a cumulative 157 EAI robots from March through May."
+    },
+    {
+      "id": "4939512",
+      "time": "2026-06-17 08:46:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣西南寧供電局與寮國永珍二公司成功簽署合作諒解備忘錄 】近日，在寮國國家電力公司（EDL）、中國南方電網廣西電網有限責任公司、寮國國家輸電網有限責任公司（EDL-T）見證下，中國南方電網廣西南寧供電局與寮國國家電力公司（EDL）永珍二公司正式簽署合作諒解備忘錄，搭建中老基層電力結對交流平臺，開啟兩國電力企業友好互助、互利共贏的合作新篇章。 根據簽署的合作諒解備忘錄，雙方將以提升永珍二公司供電可靠性、最佳化線損管理水平為核心切入點開展深度合作。南寧供電局將充分發揮在電網建設、運維管控、線損治理、不停電作業、人才培養等領域的成熟技術與豐富經驗，為永珍二公司提供系統化、專業化的技術指導和定製化解決方案。  （經參報）"
     },
     {
       "id": "mkt:019ed309-e003-7dd8-b03c-1a7a96ca5712",
@@ -168661,62 +168748,6 @@
         "國際"
       ],
       "text": "【伊朗革命衛隊：若美國繼續敵對行為 伊朗將作出“更強烈的回應” 】伊朗革命衛隊表示，美國的襲擊損毀了錫裡克的一座電信塔，並炸燬了兩座儲水罐。  伊朗革命衛隊稱衝突仍在持續，並警告若美國繼續敵對行為，伊朗將作出“更強烈的回應”。"
-    },
-    {
-      "id": "mkt:019eaf05-4d3f-7ff4-a103-a7de97e4cc50",
-      "time": "2026-06-10 08:53:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Montage Technology begins customer sampling of 9,200 MT/s DDR5 RCD chip】June 10 — Montage Technology said it has begun customer sampling of its sixth‑generation DDR5 registered clock driver (RCD06) for RDIMM. The RCD06 supports up to 9,200 MT/s, roughly 15% faster than the prior generation, aimed at meeting next‑generation server platform high‑bandwidth requirements."
-    },
-    {
-      "id": "4926911",
-      "time": "2026-06-10 08:52:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【攜程在上海投資成立私募基金管理公司】企查查APP顯示，近日，上海瑞程私募基金管理有限公司成立，註冊資本1000萬元，經營範圍包含：私募股權投資基金管理、創業投資基金管理服務。企查查股權穿透顯示，該公司由攜程旅行網（香港）有限公司 CTRIP.COM（HONG KONG） LIMITED、周世偉共同持股。"
-    },
-    {
-      "id": "mkt:019eaf02-dbc6-7ff4-a103-9d06d810402c",
-      "time": "2026-06-10 08:51:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran’s Islamic Revolutionary Guard Corps said fighting remains ongoing and warned it would deliver a \"harsher response\" if the United States continues hostile actions."
-    },
-    {
-      "id": "4926910",
-      "time": "2026-06-10 08:50:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗襲擊美軍第五艦隊】伊朗伊斯蘭革命衛隊宣佈，當地時間今天（6月10日）凌晨，再對位於巴林的美軍第五艦隊發動無人機襲擊。(CCTV國際時訊)"
-    },
-    {
-      "id": "mkt:019eaf02-8b6a-7ff4-a103-97a85638abc6",
-      "time": "2026-06-10 08:50:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said a previous U.S. strike damaged a communications tower in Sirik and destroyed two water storage facilities."
-    },
-    {
-      "id": "4926909",
-      "time": "2026-06-10 08:50:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌4.8%，至306,500韓元。"
     }
   ]
 }
