@@ -1,7 +1,145 @@
 {
-  "updated": "2026-06-18 02:19:09",
-  "count": 18572,
+  "updated": "2026-06-18 02:23:14",
+  "count": 18574,
   "items": [
+    {
+      "id": "mkt:019ed6d2-10bc-7dd8-b05e-9bbac4525f2f",
+      "time": "2026-06-18 02:22:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Deutsche Bank's US chief economist Luzzetti said the statement contains a large amount of redundant content."
+    },
+    {
+      "id": "mkt:019ed6d1-7465-7dd8-b05e-90e9d2201fc0",
+      "time": "2026-06-18 02:21:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Deutsche Bank US chief economist Luzzetti said the Fed is operating within the expected hawkish range."
+    },
+    {
+      "id": "4941640",
+      "time": "2026-06-18 02:21:45",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【 美聯儲利率決議關鍵要點一覽：利率前景存分歧 政策宣告措辭調整 】\n1、聯邦公開市場委員會一致投票決定維持基準利率在3.5%-3.75%的目標區間不變。\n2、反映利率預測的“點陣圖”顯示，官員們對於是否在2026年底前加息存在分歧，18位官員中有9位預計會加息，利率預測中值從3月的3.4%升至3.75%；預測中值還顯示2027年利率將降至3.6%。\n3、一位美聯儲官員沒有提交任何利率預測；另一位官員未提供2028年的利率預測。\n4、美聯儲官員預測中值顯示，到2026年底核心通脹率為3.3%，高於3月預測的2.7%；GDP增速預計為2.2%，低於此前預測的2.4%。\n5、美聯儲精簡了政策宣告，刪除有關可能進一步調整利率的措辭，並宣告“委員會將實現物價穩定”。\n6、美聯儲表示，“儘管存在因中東衝突等因素引起的高度不確定性，但經濟活動仍以穩健步伐擴張”，“生產率增長和資本投資表現強勁”。\n7、美聯儲表示，就業增長“與勞動力增長保持同步，失業率變化不大”；通脹依然高企，“部分反映了導致能源等行業價格上漲的供應衝擊”。"
+    },
+    {
+      "id": "mkt:019ed6d0-d59c-7dd8-b05e-8de63b8ab6e1",
+      "time": "2026-06-18 02:21:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Warsh influence emerging; Fed statements shift toward pre-global financial crisis lower-transparency phrasing】Analysts say Kevin Warsh's influence is apparent in the latest Fed statement, with wording moving closer to the lower-transparency style used before the global financial crisis. They caution that reduced communication may damp short-term daily market volatility but could trigger larger, jumpy market moves if the Fed's policy reaction function or incoming economic data deviate from expectations."
+    },
+    {
+      "id": "mkt:019ed6d0-971b-7dd8-b05e-8602c0e3a4d1",
+      "time": "2026-06-18 02:20:54",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Michelle, head of global fixed income at JP Morgan, said she sees a possibility of two rate hikes this year."
+    },
+    {
+      "id": "mkt:019ed6d0-7fa9-7dd8-b05e-7ba232ff239e",
+      "time": "2026-06-18 02:20:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Short-term interest-rate futures currently price a higher probability of a Fed rate hike in September than of holding policy unchanged."
+    },
+    {
+      "id": "4941639",
+      "time": "2026-06-18 02:20:27",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "短期利率期貨當前定價顯示，美聯儲 9 月加息的機率高於維持利率不變的機率。"
+    },
+    {
+      "id": "mkt:019ed6cf-d55a-7dd8-b05e-705588e74170",
+      "time": "2026-06-18 02:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh will hold a monetary policy press conference in 10 minutes."
+    },
+    {
+      "id": "te:markets:559799",
+      "time": "2026-06-18 02:20:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 2.38% — Top commodity losers are Platinum (-2.38%), Iron Ore CNY (-1.90%), Steel Rebar (-1.12%) and Gold (-0.56%)."
+    },
+    {
+      "id": "4941638",
+      "time": "2026-06-18 02:19:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部稱伊方前往瑞士會談的計劃未變】當地時間17日，總檯記者獲悉，伊朗外交部發言人巴加埃表示，截至目前，伊朗前往瑞士會談的計劃沒有變化。關於諒解備忘錄的簽署方式，其中一個設想是由伊朗和美國兩國總統出面簽署，目前該方案仍在審議之中。瑞士外交部此前表示，美伊諒解備忘錄的簽署儀式將於19日在瑞士比爾根山度假村舉行。有訊息稱，美國副總統萬斯和伊朗議會議長卡利巴夫預計將出席簽字儀式。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ed6ce-c3ce-7dd8-b05e-6c3d55b77783",
+      "time": "2026-06-18 02:18:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Fed adds wording on strong productivity and capital investment, echoing Warsh on AI investment boom】Analysts said the Fed inserted new language in its rate-decision statement noting productivity growth and capital investment remain strong. The wording mirrors Fed chair Kevin Warsh’s emphasis on an AI investment boom; Warsh and some in the Trump camp argue AI-related investment could, over time, reduce inflationary pressures."
+    },
     {
       "id": "mkt:019ed6ce-7239-7dd8-b05e-6233931c8199",
       "time": "2026-06-18 02:18:34",
@@ -170844,99 +170982,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Falls by 2.27% — Top commodity losers are Cocoa (-2.27%) and Sugar (-1.21%). Gains are led by Butter (1.90%), Coffee (1.74%) and Rapeseed (1.54%)."
-    },
-    {
-      "id": "mkt:019eb2c5-e068-7dd8-afaa-781a4b1fd894",
-      "time": "2026-06-11 02:22:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Chairman of Iran's parliamentary National Security and Foreign Policy Commission: This time the war will not be confined to the region."
-    },
-    {
-      "id": "4928886",
-      "time": "2026-06-11 02:22:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會主席：此次戰事將不會侷限於該地區。"
-    },
-    {
-      "id": "4928885",
-      "time": "2026-06-11 02:21:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲稱主席沃什將於當地時間6月17日召開FOMC新聞釋出會。"
-    },
-    {
-      "id": "mkt:019eb2c4-5acb-7dd8-afaa-7415c80bcdc1",
-      "time": "2026-06-11 02:21:13",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O"
-      ],
-      "text": "Google says Lightning Engine for its managed Apache Spark service now supports both serverless and managed-cluster deployment modes."
-    },
-    {
-      "id": "4928884",
-      "time": "2026-06-11 02:20:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：面向Apache Spark託管服務的Lightning Engine現已支援無伺服器與託管叢集兩種部署模式。"
-    },
-    {
-      "id": "mkt:019eb2c3-e9b2-7dd8-afaa-6a3dbf6ba368",
-      "time": "2026-06-11 02:20:44",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O) has made Lightning Engine for its managed Apache Spark service generally available."
-    },
-    {
-      "id": "te:markets:558144",
-      "time": "2026-06-11 02:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Gold Drops by 3.49% — Top commodity losers are Gold (-3.49%), Platinum (-1.51%) and Copper (-1.10%). Gains are led by Silicon (3.21%), Iron Ore CNY (1.51%) and Lithium Carbonate (1.22%)."
-    },
-    {
-      "id": "4928883",
-      "time": "2026-06-11 02:20:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：適用於Apache Spark託管服務的Lightning Engine現已全面可用。"
-    },
-    {
-      "id": "4928882",
-      "time": "2026-06-11 02:19:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米MiMo：MiMo Code V0.1現已正式釋出並開源，內建MiMo V2.5多模態模型，限時免費開放使用，具備100萬Token上下文視窗。"
     }
   ]
 }
