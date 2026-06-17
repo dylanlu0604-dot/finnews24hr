@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-18 00:20:56",
-  "count": 18415,
+  "updated": "2026-06-18 00:25:04",
+  "count": 18429,
   "items": [
+    {
+      "id": "4941482",
+      "time": "2026-06-18 00:24:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【風力驟降致德國電價突破400歐元，創一年來新高】隨著風力發電量驟降，迫使市場不得不依賴成本更高的化石燃料發電，德國週四高峰時段的電價飆升至近一年來的最高水平。根據Epex Spot的資料，德國日前電力合約均價為每兆瓦時140歐元，而晚高峰時段的電價已攀升至400歐元以上。彭博社的模型預測顯示，週四晚8點，德國的風力發電量預計將降至1.5吉瓦的低谷。這一時段恰逢晚間用電需求高峰，同時也是太陽能發電逐漸消退的階段。"
+    },
+    {
+      "id": "4941481",
+      "time": "2026-06-18 00:23:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與海灣國家討論非核問題。與海灣國家並行努力。"
+    },
+    {
+      "id": "mkt:019ed665-73a8-7dd8-b059-26c7bb1f0008",
+      "time": "2026-06-18 00:23:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump says he is working in parallel with Gulf states."
+    },
+    {
+      "id": "mkt:019ed665-5b24-7dd8-b059-1eac32c3e989",
+      "time": "2026-06-18 00:23:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he discussed non-nuclear issues with Gulf states."
+    },
+    {
+      "id": "mkt:019ed664-fa3a-7dd8-b059-17f4ce026928",
+      "time": "2026-06-18 00:23:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump praised Iranians as smart and skilled negotiators."
+    },
+    {
+      "id": "4941480",
+      "time": "2026-06-18 00:23:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：股市將繼續上漲。"
+    },
+    {
+      "id": "mkt:019ed664-bfeb-7dd8-b059-0fe5cef5a988",
+      "time": "2026-06-18 00:23:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said maritime traffic through the Strait of Hormuz has risen sharply and that energy flows through the strait will resume in the coming days."
+    },
+    {
+      "id": "4941479",
+      "time": "2026-06-18 00:22:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚伊朗人聰慧，是出色的談判對手。"
+    },
+    {
+      "id": "4941478",
+      "time": "2026-06-18 00:22:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽的通航流量已經有所上升，海峽的能源流動將在未來幾天恢復。"
+    },
+    {
+      "id": "4941477",
+      "time": "2026-06-18 00:21:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：認為伊朗現任領導層等同於政權更迭。"
+    },
+    {
+      "id": "mkt:019ed663-80ea-7dd8-b059-04ee36580a3c",
+      "time": "2026-06-18 00:21:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said the U.S. will provide Iran no funding or investment."
+    },
+    {
+      "id": "4941476",
+      "time": "2026-06-18 00:21:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗協議表示，在資金、投資方面，美國不會向伊朗做出任何讓步。"
+    },
+    {
+      "id": "mkt:019ed663-0667-7dd8-b058-fb49c09fff3b",
+      "time": "2026-06-18 00:21:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said technical talks on the nuclear stockpile will begin immediately."
+    },
+    {
+      "id": "4941475",
+      "time": "2026-06-18 00:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不給伊朗錢。"
+    },
+    {
+      "id": "4941474",
+      "time": "2026-06-18 00:20:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "CrowdStrike與亞馬遜旗下AWS擴大Project Quiltworks。"
+    },
+    {
+      "id": "4941473",
+      "time": "2026-06-18 00:20:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：有關核儲備的技術性磋商將即刻啟動。"
+    },
     {
       "id": "mkt:019ed661-aec4-7dd8-b058-f73dd7185c09",
       "time": "2026-06-18 00:19:46",
@@ -169313,23 +169457,6 @@
         "ASML.O"
       ],
       "text": "ASML (ASML.O) will implement smaller-than-previously-planned headcount reductions; the layoffs are expected to take effect on May 1 next year."
-    },
-    {
-      "id": "4928791",
-      "time": "2026-06-11 00:24:29",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "阿斯麥計劃裁員規模將小於原計劃，裁員預計將從5月1日起生效。"
-    },
-    {
-      "id": "4928790",
-      "time": "2026-06-11 00:23:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "烏干達國家廣播公司（UBC）稱，烏干達總統穆塞韋尼見證了烏干達航空與波音公司簽署10架新飛機的採購協議。"
     }
   ]
 }
