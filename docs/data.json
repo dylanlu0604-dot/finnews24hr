@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-17 23:47:25",
-  "count": 18454,
+  "updated": "2026-06-17 23:51:43",
+  "count": 18434,
   "items": [
+    {
+      "id": "mkt:019ed645-68b6-7dd8-b058-0d528cbf4af3",
+      "time": "2026-06-17 23:48:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Fed rate decision imminent; gold edges up】Gold ticked higher on Wednesday as markets awaited the Fed’s first policy decision under new chair Kevin Walsh and monitored details of a US‑Iran peace accord that could shift risk sentiment. Independent metals trader Tai Wong said: \"Buyers may be wagering Walsh will signal dovishness later, so gold is slowly climbing despite muted equities and firmer yields and the dollar.\" FXTM senior research analyst Lukman Otunuga said: \"If the $4,300 support holds, gold could push toward $4,350; a break below $4,300 could trigger selling toward the $4,250–$4,200/oz support band.\""
+    },
+    {
+      "id": "te:markets:559776",
+      "time": "2026-06-17 23:48:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index at Near 2-Month Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for the third session on Wednesday, falling about 0.6% to its lowest since April 21 at 2,653 points. The decline reflected lower rates across the larger vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, fell about 0.9% to an over two-month low of 3,877 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, decreased 43 points to 2,223 points. On the other hand, the supramax index rose by 1.2% to 1,705 points."
+    },
+    {
+      "id": "4941439",
+      "time": "2026-06-17 23:47:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠與（HPE）：Vultr為AI基礎設施選擇本公司和英偉達。"
+    },
+    {
+      "id": "4941438",
+      "time": "2026-06-17 23:46:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前副總統彭斯： 對美伊諒解備忘錄存有 “極大擔憂”。"
+    },
     {
       "id": "mkt:019ed643-8c88-7dd8-b058-038287754c06",
       "time": "2026-06-17 23:46:51",
@@ -169470,241 +169514,6 @@
         "市場"
       ],
       "text": "布倫特原油日內漲3%，現報94.21美元/桶。"
-    },
-    {
-      "id": "4928740",
-      "time": "2026-06-10 23:51:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破94美元/桶，日內漲2.85%。"
-    },
-    {
-      "id": "mkt:019eb23a-e720-7dd8-afa8-1b0f4e1bff16",
-      "time": "2026-06-10 23:51:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "President Trump said the US struck Iran hard yesterday and will strike again today."
-    },
-    {
-      "id": "4928739",
-      "time": "2026-06-10 23:51:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：他們一直在不斷挑釁我們。"
-    },
-    {
-      "id": "mkt:019eb23a-e266-7dd8-afa8-17d4d3eb90ba",
-      "time": "2026-06-10 23:51:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold extended losses, sliding more than $20 intraday to hit $4,110/oz, down 3.54% on the day."
-    },
-    {
-      "id": "4928738",
-      "time": "2026-06-10 23:50:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗問題：我們拭目以待伊核協議的後續走向。"
-    },
-    {
-      "id": "4928737",
-      "time": "2026-06-10 23:50:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗：今日將再次對其實施嚴厲打擊。"
-    },
-    {
-      "id": "4928736",
-      "time": "2026-06-10 23:50:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4110美元/盎司，日內跌3.51%。"
-    },
-    {
-      "id": "mkt:019eb23a-5053-7dd8-afa8-0bab326af504",
-      "time": "2026-06-10 23:50:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude oil futures jumped 3.00% intraday to $90.89 a barrel."
-    },
-    {
-      "id": "mkt:019eb23a-49ab-7dd8-afa8-05eb219a56ce",
-      "time": "2026-06-10 23:50:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said he hopes to reach a meaningful agreement with Iran."
-    },
-    {
-      "id": "mkt:019eb23a-2299-7dd8-afa7-fdfa41bd19bb",
-      "time": "2026-06-10 23:50:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude climbed more than $1 intraday, rising roughly 2% on the day to trade at $90.78/bbl and $92.77/bbl, respectively."
-    },
-    {
-      "id": "4928735",
-      "time": "2026-06-10 23:49:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望與伊朗達成一項有意義的協議。"
-    },
-    {
-      "id": "mkt:019eb239-94b4-7dd8-afa7-f70d7dd4b65f",
-      "time": "2026-06-10 23:49:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Trump says Iran fired on a US helicopter."
-    },
-    {
-      "id": "mkt:019eb239-53a8-7dd8-afa7-efce2b2313ea",
-      "time": "2026-06-10 23:49:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP said Iran should sign the agreement and called it a good deal."
-    },
-    {
-      "id": "te:markets:558122",
-      "time": "2026-06-10 23:49:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Natural Gas Prices Edge Up — US natural gas prices edged up to $3.19 per MMBtu, supported by forecasts for above-normal temperatures in the second half of June, which are expected to boost cooling demand. However, prices remain below the recent highs seen earlier in the month. According to LSEG, average gas production in the US Lower 48 has eased to 108.8 billion cubic feet per day in June, down from 109.7 bcfd in May. While the decline in output has helped narrow the storage surplus, inventories remain about 5% above the five-year seasonal average, pointing to broadly comfortable supply conditions heading into the summer. Meanwhile, net flows to major LNG export terminals have fallen to 16.3 bcfd so far in June from 17.1 bcfd in May, as seasonal maintenance at facilities including Golden Pass and Freeport LNG in Texas continues to weigh on export volumes."
-    },
-    {
-      "id": "4928734",
-      "time": "2026-06-10 23:49:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗向我們的直升機開火。"
-    },
-    {
-      "id": "4928733",
-      "time": "2026-06-10 23:49:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我不知道他們在做什麼。"
-    },
-    {
-      "id": "4928732",
-      "time": "2026-06-10 23:48:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗應該簽署這項協議，這是一項好協議。"
-    },
-    {
-      "id": "4928731",
-      "time": "2026-06-10 23:48:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "原油價格觸及日內高點，WTI原油價格接近每桶91美元。"
-    },
-    {
-      "id": "mkt:019eb238-9c44-7dd8-afa7-e0f0afdbadad",
-      "time": "2026-06-10 23:48:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said the US will carry out a powerful strike against Iran and asserted the US has the right to resume strikes against Iran."
-    },
-    {
-      "id": "4928730",
-      "time": "2026-06-10 23:48:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們有權恢復對伊朗的攻擊。"
-    },
-    {
-      "id": "4928729",
-      "time": "2026-06-10 23:48:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破91美元/桶，日內漲3.19%。"
-    },
-    {
-      "id": "4928728",
-      "time": "2026-06-10 23:48:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報90.85美元/桶。"
-    },
-    {
-      "id": "4928727",
-      "time": "2026-06-10 23:47:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：將對伊朗發起猛烈攻擊。"
-    },
-    {
-      "id": "4928726",
-      "time": "2026-06-10 23:47:46",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批准擬向韓國對外軍售AIM-120C-8先進中程空對空導彈，交易預估金額2.92億美元。"
     }
   ]
 }
