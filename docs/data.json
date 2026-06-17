@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-17 14:16:35",
-  "count": 18384,
+  "updated": "2026-06-17 14:20:32",
+  "count": 18389,
   "items": [
+    {
+      "id": "mkt:019ed43c-899f-7dd8-b044-b6d64eebfe09",
+      "time": "2026-06-17 14:19:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK May CPI unexpectedly unchanged at 2.8% YoY】ONS said May CPI rose 2.8% YoY, unchanged from April and below economists' 3.0% forecast. Food and non‑alcoholic beverages weighed on the headline, while services inflation — the domestic price‑pressure gauge — rose to 3.7%, above expectations. The data indicate inflationary pressures were smaller than expected even before a US deal to end the Iran conflict pushed energy costs sharply lower. The prints appear to reinforce a wait‑and‑see leaning among some Bank of England policymakers ahead of tomorrow's rate decision."
+    },
+    {
+      "id": "4940095",
+      "time": "2026-06-17 14:19:49",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構前瞻美聯儲SEP和點陣圖變化】\n1. 瑞銀：預計美聯儲將上調通脹預測，多數委員認為2028年前不宜降息，點陣圖中值或顯示2028年將有一次降息，但政策立場仍將保持緊縮。\n2. 高盛：沃什可能不會提交個人點陣圖預測。點陣圖中值料顯示2026年利率維持不變，最終預測仍為2027年與2028年各降息一次。2026年的經濟預測可能顯示GDP增長率和失業率微降、通脹大幅上修。\n3. 巴克萊：最新點陣圖或反映出更高的通脹預期和更謹慎的政策立場，即2026年全年維持利率不變、2027年僅降息一次、2028年繼續按兵不動。\n4. 傑富瑞：沃什在參議院聽證會上就明確表示不認同前瞻性指引。這將成為最大變化，具體表現為FOMC宣告篇幅縮短，以及SEP細節減少。\n5. 凱投宏觀：預計沃什不會提出自己的利率預測，但在新聞釋出會上仍會被問及他的看法。\n6. 摩根大通：預計沃什將會提交其個人預測，否則將顯得如同對他自己所領導的委員會表達出一種立場鮮明的異議。\n7. 道明證券：預計沃什將不提交個人點陣圖預測 ，以此作為策略性舉措，最大限度淡化6月點陣圖可能釋放的鷹派訊號。\n8. 美國銀行：預計沃什將不提交個人預測，因其不相信前瞻指引。經濟增長預測或將下調至2.1%，通脹將被明顯上調，失業率預測可能小幅下調或維持不變。\n9. 荷蘭合作銀行：預計風險偏向於通脹更頑固、降息更少甚至進行加息，而不是迅速好轉。樂觀預期已經落空。\n10. 北歐聯合銀行：預計點陣圖將不會再包含3月份時曾預期的年內降息情境，甚至可能逐出現一些加息的呼聲。\n11. 紐約梅隆銀行：預計點陣圖將出現略微偏鷹派的調整，預測中值極有可能取消此前對2026年底前降息一次的預測。\n12. 太平洋投資管理公司：預計點陣圖將出現向鷹派方向的顯著偏移。預計2026年將出現幾次加息預測，但中位數仍顯示將維持不變。"
+    },
+    {
+      "id": "4940094",
+      "time": "2026-06-17 14:19:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴克萊策略師將醫療保健類股票評級下調至減持。"
+    },
+    {
+      "id": "mkt:019ed43c-11c5-7dd8-b044-ab25a5526f2b",
+      "time": "2026-06-17 14:19:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's foreign minister said the government has downgraded its travel advisory level for the Gulf and the Middle East."
+    },
+    {
+      "id": "mkt:019ed43b-ce01-7dd8-b044-a0e86a2be479",
+      "time": "2026-06-17 14:19:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【China-US shipping routes fully booked; container space scarce】CUSTOMS data show China’s goods exports in dollar terms rose 19.4% YoY in May, the fastest pace in three months. At a Ningbo freight forwarder, staff are repeatedly refreshing carriers’ booking systems; US routes account for about 70% of the firm’s volume. Firms report China-US sailings have been fully booked since May, with space tight across East and South China and intense competition for slots and empty containers. Freight rates for a 40ft box from Ningbo have jumped from roughly $2,900 to the US West and $3,900 to the US East at end‑April to about $6,300 and $7,500 respectively after several rounds of increases."
+    },
+    {
+      "id": "4940093",
+      "time": "2026-06-17 14:18:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴克萊銀行策略師將歐洲奢侈品股評級上調至“增持”。"
+    },
+    {
+      "id": "4940092",
+      "time": "2026-06-17 14:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴克萊策略師上調歐洲股票評級至中性配置。"
+    },
+    {
+      "id": "4940091",
+      "time": "2026-06-17 14:18:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【分析師：寶馬釋出利潤預警後股價料將大幅走低】加皇資本市場分析師Tom Narayan寫道，在寶馬下調預期並警告稱業務好轉的可見度有限之後，預計該汽車製造商的股價今晨將大幅走低。他補充說，雖然寶馬正在擴大其成本削減計劃，但相關的重組費用將在下半年帶來額外的一次性不利因素。"
+    },
+    {
+      "id": "4940090",
+      "time": "2026-06-17 14:17:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中美航線全面爆艙 中美航線一艙難求】海關總署資料顯示，以美元計，今年5月份，中國貨物貿易出口金額同比增長19.4%，創下近三個月以來的最高增速。在浙江寧波一家國際貨運代理企業，工作人員正不斷重新整理著船公司的訂艙系統，緊盯最新的放艙資訊。企業負責人告訴記者，美國航線的業務佔到他們總業務的七成。近期，搶艙位、搶空箱成了他們每天最重要的工作。企業負責人表示：“到了5月份之後，中美航線已經全面爆艙，華東、華南艙位全線緊張，整體回到了旺季緊缺的行情。”記者瞭解到，4月底，寧波到美國西部港口一個40英尺集裝箱的運價約為2900美元，到美國東部港口約為3900美元；經過數輪漲價，目前美西航線運價已接近6300美元，美東航線運價接近7500美元。（央視財經）"
+    },
+    {
+      "id": "mkt:019ed43a-3024-7dd8-b044-985809088ead",
+      "time": "2026-06-17 14:17:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said Pakistan played a key role in bringing talks this far and could act as a principal mediator between the US and Iran going forward."
+    },
+    {
+      "id": "4940089",
+      "time": "2026-06-17 14:17:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【分析師：印尼料將保留MSCI明晟新興市場地位】大華繼顯印尼研究團隊在一份報告中表示，在全球指數提供商MSCI明晟定於6月進行的即將到來的評估中，印尼可能會保留其新興市場地位。1月下旬，MSCI明晟指出了可投資性問題，這可能導致印尼被重新分類為“前沿市場”，比其現有地位低一個級別。儘管印尼證券交易所一直在進行改革以提高透明度和自由流通量，但MSCI明晟仍可能繼續監測市場可及性。有利的評估也將成為重新激發外國投資者興趣的近期催化劑，並對印尼市場產生提振作用。"
+    },
+    {
+      "id": "mkt:019ed439-6153-7dd8-b044-94e5f6a628d8",
+      "time": "2026-06-17 14:16:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Preview: institutions expect Fed SEP/dot plot to tilt hawkish — Waller’s personal dot-plot status key】UBS, Goldman, Barclays, PIMCO and other institutions expect the Fed’s SEP/dot plot to show higher inflation and a more cautious policy path, pushing rate cuts later or reducing the number of cuts implied earlier this year. UBS: expects inflation forecasts to be revised up; most FOMC members see no rate cuts before 2028, though the median could still show a single 2028 cut while overall policy remains restrictive. Goldman: says Waller may not submit a personal dot plot; expects the median to show rates unchanged through 2026 with one cut in 2027 and another in 2028, and anticipates 2026 GDP and unemployment slightly lower but inflation materially higher. Barclays: expects a hawkish tilt — rates held all of 2026, only one cut in 2027, and no easing in 2028. Jefferies: flags Waller’s rejection of forward guidance as likely, implying a shorter FOMC statement and reduced SEP detail. Capital Economics: expects Waller will decline to provide a personal policy path but will still be pressed on his views at the press conference. JP Morgan: expects Waller to submit a personal forecast; not doing so would signal clear dissent from his committee leadership. TD Securities and BofA: anticipate Waller will not submit a personal dot plot; BofA expects growth forecasts to be trimmed to ~2.1% while inflation is revised up and unemployment is unchanged or slightly lower. Rabobank: sees risk skewed toward stickier inflation, fewer cuts or even upside to rates rather than a quick improvement. Nordea: expects removal of the intra-year cut scenario priced in March and even some calls for hikes. BNY Mellon: expects a modestly hawkish adjustment, likely dropping the previous expectation of a 2026 cut. PIMCO: expects a significant hawkish shift in the dot plot; several committee members may show projections for higher 2026 rates even if the median remains unchanged."
+    },
     {
       "id": "4940088",
       "time": "2026-06-17 14:15:36",
@@ -169126,68 +169243,6 @@
         "MKT News"
       ],
       "text": "Korea Daily News reports South Korea's deputy finance minister will visit the United States."
-    },
-    {
-      "id": "mkt:019eb030-5aba-799a-b41d-421f5cee5f8f",
-      "time": "2026-06-10 14:20:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 closed up 37.40 points (+0.43%) at 8,641.60 on June 10 (Wednesday)."
-    },
-    {
-      "id": "4927415",
-      "time": "2026-06-10 14:20:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深城交攜手南科大海洋高等研究院 共築“AI+海洋低空”科教融合新正規化】6月9日上午，南方科技大學海洋高等研究院（簡稱“海高院”）與深城交科技集團股份有限公司（簡稱“深城交”）在深城交龍華總部大樓正式簽署戰略合作協議，併為共建的創新平臺“人工智慧和數字孿生聯合實驗室”“海洋低空經濟產學研用聯合實驗室”揭牌。根據協議，雙方將以人工智慧為核心驅動力，深化近海、深海低空技術、精準氣象、智慧校園無人智慧系統等領域合作；依託深城交大鵬低空測試基地和深圳海洋大學校園等場景，共建具身機器人等聯合實驗室及工程訓練中心，聯合培養國際化人才，加快科技成果轉化，著力打造智慧海洋科教融匯與產教融合的示範樣板。"
-    },
-    {
-      "id": "4927414",
-      "time": "2026-06-10 14:19:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守91美元/桶，日內跌0.51%。"
-    },
-    {
-      "id": "4927413",
-      "time": "2026-06-10 14:18:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中東海灣地區緊張局勢再度升級，中國駐科威特大使館提醒在科中國公民加強安全防範】據“中國駐科威特大使館”公眾號訊息，近期，中東海灣地區緊張局勢再度升級，科威特多次遭受空襲，造成人員傷亡和財產損失。6月10日凌晨，科再次遭到襲擊，防空系統進行了攔截。\n中國駐科威特大使館再次提醒在科中國公民和中資機構：\n密切關注安全形勢和科有關部門釋出的公告和警報，提高安全防範意識，減少非必要出行和跨區域流動，遠離軍事基地和可能遭受打擊的敏感設施，並嚴格遵守當地法律法規，切勿拍攝釋出涉軍事行動或機場、港口、軍事設施等敏感區域的影像。\n聽到空襲警報後，迅速進入地下室等安全掩體或遠離窗戶的房間避險。如發現任何疑似由攔截行動產生的墜落物，請勿靠近或觸碰，不要在現場周圍聚集，不要對現場進行攝影攝像,更不要在社交媒體上傳播。\n如遇緊急情況，請第一時間報警並與中國駐科使館聯絡。"
-    },
-    {
-      "id": "te:economy:557905",
-      "time": "2026-06-10 14:18:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Denmark Inflation Rises to 1.9% in May — The annual inflation rate in Denmark increased to 1.9% in May 2026 from 1.4% in April, marking the highest level since last December. Transportation costs remained the main driver of the increase (5.3% vs 3.3% in April), led by petrol (20.4% vs 14.6%). Additional upward pressure came from higher prices for housing and utilities (0.4% vs 0%), information and communication (4.2% vs 4.0%) and recreation, sport and culture (3.5% vs 0.7%), as well as a sharp rebound in prices for restaurants and hotels declined (4.9% vs -0.9%). In contrast, food prices decreased (-0.3% vs 2.7%), while inflation eased mainly for personal care and miscellaneous goods and services (1.9% vs 2.1%). On a monthly basis, the CPI rose 0.6%, following a 0.2% increase in April. Meanwhile, core inflation, which excludes energy and unprocessed food, picked up to 2.1% in May from a thirteen-month low of 1.6% in April."
-    },
-    {
-      "id": "4927412",
-      "time": "2026-06-10 14:17:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：韓國副財長將出訪美國。"
-    },
-    {
-      "id": "mkt:019eb02d-7d2b-799a-b41d-3c58e85df8cc",
-      "time": "2026-06-10 14:17:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Xian Hui leads CPPCC delegation to Vietnam】CPPCC Vice Chairman Xian Hui led a delegation to Vietnam from June 8-10, meeting Vietnam Politburo member and Secretariat standing secretary Chen Jinxiu, Politburo member and Vietnam Fatherland Front chair Pei Shiminghuai, and Vietnam Fatherland Front vice chair Huang Gongshui. Xian said CHINA and Vietnam’s general secretary and president Su Lin recently held in-depth talks on broad strategic issues and outlined a blueprint for a higher-level, strategic China–Vietnam community of shared destiny. China, he said, will follow top leaders’ strategic guidance to deepen mutually beneficial cooperation and advance construction of the China–Vietnam community; the CPPCC stands ready to contribute."
     }
   ]
 }
