@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-18 03:58:01",
-  "count": 18809,
+  "updated": "2026-06-18 04:02:05",
+  "count": 18811,
   "items": [
+    {
+      "id": "4941829",
+      "time": "2026-06-18 04:01:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價下跌4.9%，為上市以來首次走低。"
+    },
+    {
+      "id": "mkt:019ed72c-5ed1-7dd8-b064-080cd03bd50e",
+      "time": "2026-06-18 04:01:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "【US close: Fed's hawkish tilt; all three major indexes fall】The Fed's rate-setting stance skewed hawkish, pressuring US equities. The Dow fell 0.97%, the S&P 500 dropped 1.2% and the Nasdaq slid 1.3%. SpaceX (SPCX.O) -5%, NVIDIA (NVDA.O) -1%, Western Digital (WDC.O) +4%. The Nasdaq Golden Dragon China Index fell 1.1%; Li Auto (LI.O) -3%."
+    },
+    {
+      "id": "4941828",
+      "time": "2026-06-18 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.96%，標普500指數跌1.19%，納指跌1.37%。Carvana Co.跌10.39%，回聲星通訊跌7.64%，艾可菲跌7.53%，特許通訊跌6.97%，APP AppLovin跌6.90%。“七姐妹”方面：蘋果跌1.13%，英偉達跌1.32%，特斯拉跌2.05%，谷歌跌2.43%，亞馬遜跌3.46%，微軟跌3.80%，Meta Platforms跌5.31%。"
+    },
+    {
+      "id": "4941827",
+      "time": "2026-06-18 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.21%】海天網路跌15.49%，新氧跌10.98%，迅雷跌9.46%，億咖通科技跌6.97%，逸仙電商跌5.56%。"
+    },
+    {
+      "id": "4941826",
+      "time": "2026-06-18 03:58:59",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲立場偏鷹提振加息押注 交易員認為到10月加息機率為100%】短期美國國債收益率跳升，因美聯儲官員暗示他們預計未來數月會加息，促使交易員預計10月底前加息的機率為100%。在週三決策公佈後，對央行短期政策變化尤為敏感的2年期美國國債收益率上漲14個基點，報4.19%。這是凱文·沃什擔任主席後的首次決策。貨幣市場顯示，交易員目前認為到9月加息的機率較高，到10月加息機率為100%。"
+    },
+    {
+      "id": "mkt:019ed72a-2af0-7dd8-b064-0569aef335c3",
+      "time": "2026-06-18 03:58:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) is preparing a second-generation iPhone Air for a spring 2027 release. Prototypes include a second rear camera and an upgraded battery."
+    },
+    {
+      "id": "mkt:019ed729-98eb-7dd8-b063-fb1411d64fb7",
+      "time": "2026-06-18 03:58:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "【Wosh rejects forward guidance, avoids rate-path commitments as he reshapes Fed communication】At his first press conference as Fed chair, Wosh announced reforms including multiple task forces to broaden data collection and review the Fed’s statistical indicators. He repeatedly refused to provide forward guidance and declined to answer questions on the future path of interest rates. He did not submit a personal rate projection to the dot plot and said he will not comment on any market price moves during the press conference. Core message: reduce policy signaling to markets, avoid pre-committing to a rate path, and focus on institutional, data and communication reforms at the Fed."
+    },
+    {
+      "id": "4941825",
+      "time": "2026-06-18 03:57:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果籌備第二代iPhone Air，計劃2027年春季推出。iPhone Air樣機新增後置第二顆攝像頭，電池配置同步升級。"
+    },
     {
       "id": "mkt:019ed726-9b57-7dd8-b063-f20a7e85d8f8",
       "time": "2026-06-18 03:54:51",
@@ -173375,67 +173466,6 @@
         "S&P500"
       ],
       "text": "The S&P 500 Information Technology sector index fell 2.3%, leaving it 11% below its June 2 record closing high."
-    },
-    {
-      "id": "mkt:019eb320-b29f-7dd8-afab-84ec0c4ed973",
-      "time": "2026-06-11 04:02:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "SMCI.O",
-        "Impact bearish",
-        "NVDA.O",
-        "Nasdaq100"
-      ],
-      "text": "【US close: Nasdaq down nearly 2%; Super Micro plunges 28%】US stocks closed lower Wednesday: Dow fell 1.87%, S&P 500 down 1.61% and Nasdaq Composite down 1.98%. Super Micro Computer (SMCI.O) plunged about 28%. Tesla (TSLA.O) and NVIDIA (NVDA.O) slid more than 3%. Nasdaq Golden Dragon China Index slipped 0.28%; NetEase (NTES.O) rose nearly 4% while GDS Holdings (GDS.O) dropped about 7%."
-    },
-    {
-      "id": "mkt:019eb320-2e26-7dd8-afab-7e05cade0e79",
-      "time": "2026-06-11 04:01:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's UN ambassador said the United States cannot secure a sustainable agreement through threats, intimidation or the use of force, and that Iran has never negotiated under threat and will not yield to pressure or coercion."
-    },
-    {
-      "id": "4928954",
-      "time": "2026-06-11 04:01:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4080美元/盎司，日內跌4.22%。"
-    },
-    {
-      "id": "4928953",
-      "time": "2026-06-11 04:00:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗常駐聯合國大使：依靠威脅、恐嚇或武力，無法與美國達成可持續協議。伊朗從未在威脅下談判，也絕不會屈服於壓力與脅迫。"
-    },
-    {
-      "id": "4928952",
-      "time": "2026-06-11 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌1.88%，標普500指數跌1.63%，納指跌1.99%。超微電腦跌27.89%，Generac控股跌8.40%，斑馬技術跌7.43%，Insmed跌7.23%，NRG能源跌7.15%，高通跌6.92%。“七姐妹”方面：蘋果漲0.36%，微軟跌1.48%，Meta Platforms跌2.32%，谷歌跌2.42%，亞馬遜跌2.56%，英偉達跌3.72%，特斯拉跌3.80%。"
-    },
-    {
-      "id": "4928951",
-      "time": "2026-06-11 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.27%】萬國資料跌7.26%，優品車跌5.38%，阿特斯跌5.65%，世紀互聯跌5.23%，禾賽科技跌4.66%。"
     }
   ]
 }
