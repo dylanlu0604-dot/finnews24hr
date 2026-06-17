@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-18 07:33:30",
-  "count": 18775,
+  "updated": "2026-06-18 07:37:32",
+  "count": 18767,
   "items": [
+    {
+      "id": "4942012",
+      "time": "2026-06-18 07:36:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【具身智慧一級市場升溫 17天發生11起融資】梳理發現，今年6月份以來，簡智新創（北京）機器人科技有限公司、繩驅AI機器人公司星塵智慧（深圳）有限公司等11傢俱身智慧相關公司均宣佈完成了新一輪融資——也就是說，在具身智慧賽道，6月份的17天裡共發生了11起投融資事件。"
+    },
+    {
+      "id": "4942011",
+      "time": "2026-06-18 07:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【債王岡拉克：秋季之前美國利率不太可能調整】Doubleline Capital的岡拉克(Jeffrey Gundlach)接受媒體採訪時表示，秋季之前美國利率不太可能調整。"
+    },
+    {
+      "id": "4942010",
+      "time": "2026-06-18 07:34:46",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利亞洲執行長：中國AI生態蘊含數萬億美元增量市值】“我們評估認為，中國整個AI生態系統有潛力創造三萬億至四萬億美元的增量市值，而這些還尚未進入市場。”在6月17日舉行的2026陸家嘴論壇上，摩根士丹利亞洲執行長兼股票部全球聯席主管高浩灃（Gokul Laroia）表示，受人工智慧等驅動，全球投資者對中國市場的興趣持續升溫，而當前已流入的資本規模，相較於“應該流入、也實際需要流入”的體量，仍只是很小一部分。高浩灃指出，目前全球AI年度投資已增至約1萬億至1.5萬億美元，而支撐這些AI投資浪潮的供應鏈紮根亞洲地區，並且很大程度上在中國。除美國外，中國是唯一擁有獨立且全面AI生態系統的市場，從半導體本地化，到資料中心和雲服務提供商，到大語言模型，再到應用——包括數字化應用和物理應用，即人形機器人領域都在發展，有數百家公司參與這一生態系統的創新與建設。（澎湃）"
+    },
     {
       "id": "4942009",
       "time": "2026-06-18 07:32:51",
@@ -172935,105 +172961,6 @@
         "Brent"
       ],
       "text": "CENTCOM said tonight commercial vessels continued to transit in and out of the Strait of Hormuz."
-    },
-    {
-      "id": "4929143",
-      "time": "2026-06-11 07:37:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國中央司令部：商業船隻今夜繼續進出霍爾木茲海峽。"
-    },
-    {
-      "id": "4929142",
-      "time": "2026-06-11 07:37:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國廣播電視臺（IRIB）：在伊朗武裝部隊迫使一架美國戰鬥機撤退並霍爾木茲海峽再次關閉之後，特朗普再次退縮了。 特朗普對福克斯新聞說：對伊朗的轟炸很快將停止；以色列人在這次襲擊中沒有扮演任何角色。"
-    },
-    {
-      "id": "mkt:019eb3e5-0640-7dd8-afae-df344f2359f7",
-      "time": "2026-06-11 07:36:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said the U.S. is currently engaging both moderate and extremist elements inside Iran."
-    },
-    {
-      "id": "mkt:019eb3e4-fdc4-7dd8-afae-d5e91643a98a",
-      "time": "2026-06-11 07:36:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Munitions depot explosion near Aden kills at least 11】As of local time on the 11th, a munitions depot explosion near Aden, Yemen has killed at least 11 and injured three, with casualties possibly rising. The blasts occurred between midnight and the early hours of the 10th and 11th near the Sorban military camp southeast of Aden. Sources close to the scene say the site is suspected to be a 'Giant Brigade' ammunition depot."
-    },
-    {
-      "id": "4929141",
-      "time": "2026-06-11 07:36:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗否認與特朗普接觸 】據伊朗官方媒體援引伊朗高階官員訊息報道，伊朗沒有任何官員與美國總統特朗普接觸。（ CCTV國際時訊  ）"
-    },
-    {
-      "id": "4929140",
-      "time": "2026-06-11 07:35:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門亞丁附近一彈藥庫爆炸已致11人死亡】截至當地時間11日，葉門臨時首都亞丁附近彈藥庫爆炸已造成至少11人死亡、3人受傷，傷亡人數還可能進一步上升。當地時間10日午夜至11日凌晨，位於葉門臨時首都亞丁東南部的索爾班軍營附近傳出連續爆炸聲。據接近現場的知情人士稱，發生爆炸的地點疑似是“巨人旅”彈藥庫。"
-    },
-    {
-      "id": "mkt:019eb3e3-f3da-7dd8-afae-ce9251c1321b",
-      "time": "2026-06-11 07:35:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "TASNIM NEWS: Senior Iranian officials said Trump's 'false claims' about contacts with Iranian officials are a pretext to avoid going to war with Iran."
-    },
-    {
-      "id": "4929139",
-      "time": "2026-06-11 07:34:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方媒體援引高階官員稱，特朗普關於與伊朗官員接觸的\"虛假說法\"是\"避免對伊朗開戰的幌子\"。"
-    },
-    {
-      "id": "4929138",
-      "time": "2026-06-11 07:34:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：白宮將再次會見國防承包商，商討加快武器生產】訊息人士稱，特朗普政府計劃最早於下週在白宮會見美國最大幾家國防承包商的高管，商討加快武器生產的問題。美國對伊朗的打擊，以及近年來向烏克蘭提供軍援，導致美國武器庫存減少。這將是白宮第二次召集主要防務企業高管商討提升武器產量。美國此前曾於3月舉行類似會議，與會者包括國防部長赫格塞思(Pete Hegseth)，以及BAE系統、洛克希德馬丁(Lockheed Martin) 、諾斯洛普格拉曼(Northrop Grumman)、RTX Corporation 、波音、 Honeywell Aerospace以及L3Harris Technologies的執行長及其他高管。"
-    },
-    {
-      "id": "4929137",
-      "time": "2026-06-11 07:34:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國內最大噸位石化管廊完成海上高空吊裝】記者昨天（10日）從中國石化瞭解到，國內首次大跨距大噸位跨海石化管廊模組海上高空精準吊裝作業，日前在浙江舟山順利完成。本次吊裝的管廊單體模組重達515噸、最長尺寸43米，重新整理國內同類施工噸位紀錄，成功填補我國海上大噸位管廊施工技術空白。"
-    },
-    {
-      "id": "mkt:019eb3e2-4a9f-7dd8-afae-c2dacc52ebe4",
-      "time": "2026-06-11 07:33:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Fox News reported U.S. President Trump said if Iran refuses to sign an agreement, he would order military strikes tomorrow night."
     }
   ]
 }
