@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-17 12:25:52",
-  "count": 18344,
+  "updated": "2026-06-17 12:30:00",
+  "count": 18345,
   "items": [
+    {
+      "id": "mkt:019ed3d7-44e8-7dd8-b041-d1f0b0bde9c7",
+      "time": "2026-06-17 12:29:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Foxconn is teaming with French AI firm Bull to deploy an NVIDIA Vera Rubin NVL72 platform in Europe."
+    },
+    {
+      "id": "4939956",
+      "time": "2026-06-17 12:27:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數轉升；上漲0.8%，報8793.52點。"
+    },
+    {
+      "id": "4939955",
+      "time": "2026-06-17 12:27:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所（NSE）今日將向印度證券交易委員會（SEBI）提交印度IPO申請檔案。"
+    },
+    {
+      "id": "4939954",
+      "time": "2026-06-17 12:26:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【伊朗央行稱美應履行解凍伊資產承諾】據伊朗塔斯尼姆通訊社6月16日報道，伊朗中央銀行行長阿卜杜勒納賽爾·赫馬提在接受該媒體採訪時表示，伊朗與美國簽訂的諒解備忘錄明確規定了美國在解凍伊朗資產方面的義務，且這些義務具有清晰性和可執行性，美國方面將被要求履行其承諾。赫馬提還強調，在諒解備忘錄開始執行後，伊朗將進行必要的核查，以驗證資產是否真正解凍並可實際使用。"
+    },
+    {
+      "id": "mkt:019ed3d4-e4ad-7dd8-b041-ced52a6962eb",
+      "time": "2026-06-17 12:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPIEGEL reports the German government has drafted a potential Bundestag authorization to determine Bundeswehr participation in international missions; the proposal could spark legal challenges."
+    },
+    {
+      "id": "4939953",
+      "time": "2026-06-17 12:25:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比特幣未能突破67,000美元后幾無變動】亞洲交易時段，比特幣幾無變動。Apollo Crypto基金經理Pratik Kala表示，隨著該加密貨幣未能突破67,000美元的關鍵水平且交易量低迷，市場處於冷清狀態。與此同時，比特幣ETF繼續出現溫和的淨流出。Strategy發行的在納斯達克上市的比特幣掛鉤永續優先股STRC在其除息日交投於相對疲軟的91.00美元水平附近。Kala表示，這表明這家最大的比特幣企業買家可能已經沒有餘力進一步購買比特幣。比特幣最新持平於65,760.73美元。"
+    },
     {
       "id": "4939952",
       "time": "2026-06-17 12:24:45",
@@ -168714,54 +168764,6 @@
         "Impact bearish"
       ],
       "text": "Japan's Nikkei 225 fell as much as 2.00% intraday."
-    },
-    {
-      "id": "mkt:019eafc9-a8c1-7444-ba08-0dcff441fcfb",
-      "time": "2026-06-10 12:28:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "SSE Composite",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "【East Money Securities' Chen Guo: seize rare opportunity to position for new China equity leg】East Money Securities deputy head of research Chen Guo said the Shanghai Composite has corrected from prior highs and, irrespective of external volatility, he no longer adopts a structural bearish view on A-shares. He expects index upside to materially exceed downside over the next quarter and advises actively seeking structural long opportunities. Chen says the next market phase will be more balanced; in tech he prefers selective China AI supply-chain names that meet four criteria: revenue and profit growth that won’t peak this year, market cap not overstating their industrial/economic position, H1 results likely to beat optimistic expectations, and no expected downward revision to next-year earnings. He is especially bullish on carbon-related large caps in H2 and highlights A-share and Hong Kong-listed leaders in new and legacy energy, financials and property, new consumption, and internet as candidates for systemic re-rating."
-    },
-    {
-      "id": "mkt:019eafc9-0c4a-7444-ba08-052a7664a1b4",
-      "time": "2026-06-10 12:27:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Global Chip LOF said trading will be suspended from the afternoon market open on June 10, 2026 through that day's market close; redemption services will continue to operate as normal during the suspension."
-    },
-    {
-      "id": "4927286",
-      "time": "2026-06-10 12:27:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【東方財富證券陳果：抓住難得機遇，積極佈局中國股市新一輪行情】6月10日，東方財富證券研究所副所長陳果釋出A股市場點評稱，抓住難得機遇，積極佈局中國股市新一輪行情。“當前上證指數已從前期高點有所調整，無論後續外部如何動盪，我認為戰略上都不能再看空A股。未來一個季度，指數上漲空間將遠遠大於下跌空間，後續應該先積極尋找結構做多方向。”陳果表示。陳果表示，下一輪行情風格將更加平衡。在科技股中，他傾向去偽存真，精選“營收、盈利增速今年不會見頂+市值未透支其在產業與經濟中地位+半年報有望好於市場樂觀預期+明年盈利預期不會下修”的優質中國AI產業鏈公司。同時，陳果特別看好下半年A股碳基龍頭股的表現。重點看好中國A股及港股的新老能源、金融地產、新消費和網際網路龍頭資產，認為其有望迎來系統性重估機會。"
-    },
-    {
-      "id": "4927285",
-      "time": "2026-06-10 12:27:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗告誡地區各國，勿允許美方使用其領土。"
-    },
-    {
-      "id": "4927284",
-      "time": "2026-06-10 12:26:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【現代汽車印度公司：金奈工廠將於6月22日前恢復正常生產】現代汽車印度公司週三表示，受供應商摩比斯印度工廠上週火災影響，金奈工廠生產一度中斷，該工廠預計將於 6 月 22 日全面恢復正常生產。"
     }
   ]
 }
