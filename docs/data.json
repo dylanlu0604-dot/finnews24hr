@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-17 12:50:21",
-  "count": 18334,
+  "updated": "2026-06-17 12:54:33",
+  "count": 18328,
   "items": [
+    {
+      "id": "4939974",
+      "time": "2026-06-17 12:53:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋富查伊拉5月船用燃油銷量創歷史新低】標普全球釋出的富查伊拉石油工業區最新資料顯示，受中東戰事影響霍爾木茲海峽航運受阻、船舶補給需求持續低迷，阿聯酋富查伊拉港5月船用燃油銷量持續下滑，創下歷史新低。不含潤滑油的船用燃油5月總銷量為96721立方米（約95800噸）。低硫船用燃油銷量環比下降27%，至65120立方米。高硫船用燃油銷量環比下滑15%，達31601立方米。低硫船用瓦斯油銷量微降2%，為7157立方米，其餘品類船用瓦斯油銷量合計381立方米。5月低硫船燃市場佔比由4月的71%降至67%；高硫船燃佔比由29%升至33%。"
+    },
+    {
+      "id": "4939973",
+      "time": "2026-06-17 12:51:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本國債期貨走高  10年期日本國債收益率下跌5.0個基點 】日本國債期貨走高，追隨隔夜美國國債市場的價格漲勢。日本國債價格可能也受到週二原油價格下跌的提振，這緩解了日本的通脹壓力。10年期日本國債收益率下跌5.0個基點，至2.595%。"
+    },
+    {
+      "id": "mkt:019ed3ea-3ce5-7dd8-b042-20ce1f89474a",
+      "time": "2026-06-17 12:50:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan 10-year government bond yield fell 5 bps to 2.595%."
+    },
+    {
+      "id": "4939972",
+      "time": "2026-06-17 12:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：前5月全市市場總消費額同比增長1.5%】北京市統計局釋出2026年1-5月北京經濟執行情況。1-5月，全市市場總消費額同比增長1.5%。其中，服務性消費額增長4.5%，資訊、交通等領域較快增長；實現社會消費品零售總額5469億元，下降2.5%。社會消費品零售總額中，按消費形態分，商品零售4942.7億元，下降2.8%；餐飲收入526.3億元，增長0.8%。從商品類別看，限額以上批發和零售業中，金銀珠寶類商品零售額增長23.3%，受金價下行影響增速回落；新能源汽車類商品零售額增長4.1%，智慧手錶等可穿戴智慧裝置類、高能效等級家用電器和音像器材類商品零售額均增長5成以上；與基本生活相關的飲料類、菸酒類商品零售額分別增長4.1%和11.1%；受傳統燃油車需求不足影響，汽車類商品零售額下降17.3%。（第一財經）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202606173774320267",
+      "time": "2026-06-17 12:49:39",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【北京：前5月全市市場總消費額同比增長1.5%】北京市統計局釋出2026年1-5月北京經濟執行情況。1-5月，全市市場總消費額同比增長1.5%。其中，服務性消費額增長4.5%，資訊、交通等領域較快增長；實現社會消費品零售總額5469億元，下降2.5%。社會消費品零售總額中，按消費形態分，商品零售4942.7億元，下降2.8%；餐飲收入526.3億元，增長0.8%。"
+    },
     {
       "id": "mkt:019ed3e9-b383-7dd8-b042-1e3b9a54ccd9",
       "time": "2026-06-17 12:49:28",
@@ -168582,104 +168629,6 @@
         "Impact bullish"
       ],
       "text": "【South Korean retail investors tap bank overdrafts to buy the dip】YONHAP reports South Korea's KOSPI fell for two sessions after negative US equity cues and a semiconductor rout. Over that period, overdraft balances at major commercial banks rose by more than KRW 600 billion (about CNY 2.67 bln). Analysts say retail investors, anticipating a rebound after the sell-off, have used overdrafts to finance buy-the-dip positions."
-    },
-    {
-      "id": "4927314",
-      "time": "2026-06-10 12:54:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：比亞迪土耳其工廠專案暫停，尚未開工建設。"
-    },
-    {
-      "id": "4927313",
-      "time": "2026-06-10 12:53:44",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數一度重挫逾6% 因晶片股和美國攻擊伊朗】韓國基準股指週三下跌，晶片股延續跌勢，且受美國襲擊伊朗影響，市場風險偏好減弱。Kospi指數在午後交易時段一度下跌6.5%，週二上漲8.2%。在指數期貨大跌後，韓國交易所短暫停止Kospi程式化賣單。該指數週一暴跌8.3%，導致現貨市場暫停交易20分鐘。隨著三星電子和SK海力士面臨影響AI股的動盪，這種劇烈的波動變得越來越普遍；上述兩者合計佔該指數市值的一半以上。投資者也關注週三的美國通脹報告，該報告可能會更清晰地表明利率是否會在高點維持更長時間。隨著與三星電子及SK海力士掛鉤的槓桿ETF越來越受歡迎，波動性也隨之加劇，這類基金能夠放大每日價格波動。Kospi 200波動性指數週二首度突破90，創下紀錄。"
-    },
-    {
-      "id": "mkt:019eafe0-86cd-799a-b41c-4b8a265fe511",
-      "time": "2026-06-10 12:53:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Iranian foreign ministry condemns U.S. military action; says Iranian forces struck U.S. bases, assets】On the morning of the 10th local time, the Iranian foreign ministry said the U.S. used Iran’s downing of an Apache helicopter as a pretext to strike southern Iran, calling the action a serious violation of the UN Charter. Iran said its armed forces, exercising their inherent right of self-defense, launched strikes on U.S. bases and assets in the area identified as the source of the aggression. The ministry urged regional states to prevent their territory and facilities from being used by the U.S. and Israel to plan or carry out attacks against Iran."
-    },
-    {
-      "id": "4927312",
-      "time": "2026-06-10 12:52:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【別克至境E7 5月銷量7668臺】6月10日，據別克官方訊息，旗下首款高階新能源SUV——至境E7的5月銷量為7668臺，該車提供三款配置，置換權益價15.49萬起。"
-    },
-    {
-      "id": "4927311",
-      "time": "2026-06-10 12:52:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部譴責美國對伊軍事行動 】 當地時間10日上午，伊朗外交部發表宣告稱，美國以伊朗擊落一架“阿帕奇”直升機為藉口，對伊朗南部地區發動襲擊，此行為嚴重違反《聯合國憲章》，再次暴露了美國罪惡的戰爭本性。為回應美國對伊朗的軍事侵略以及對伊朗國家主權和領土完整的公然侵犯，伊朗武裝部隊行使其固有的合法自衛權，對該地區作為侵略源頭的美國基地和資產進行了嚴厲打擊。伊朗外交部強烈譴責美國對伊朗的軍事侵略行為，並再次重申地區所有國家負有法律和道義責任，防止美國和以色列利用其領土和設施策劃、組織、實施針對伊朗的侵略行動。"
-    },
-    {
-      "id": "4927310",
-      "time": "2026-06-10 12:52:31",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【五部門：出臺多項改革舉措 便利企業辦理不動產登記】 記者今天（10日）從自然資源部獲悉，為深化政務服務改革、最佳化營商環境，自然資源部等五部門近日聯合印發通知，出臺7方面改革舉措，幫助企業高效辦理買房買地等不動產登記手續，進一步最佳化營商環境，激發市場活力。為了加強登記服務整合，《通知》明確，將企業購置不動產涉及的轉移登記、抵押登記、申報納稅、貸款辦理等事項整合為“一件事”，推動綜合視窗升級為 “一窗辦理、整合服務”，設立企業專窗，實現登記、辦稅、領證等事項一窗通辦。精簡共性材料，實行一個表格、一套材料、一次提交，同時各地要實現企業購置不動產轉移登記“一件事”“同市同標”，做到同一事項統一申請材料、統一辦理標準，並逐步向省域範圍拓展，推動實現“同省同標”。在部門協同方面，《通知》要求，深化登記稅務聯動，實行“一窗收件、後臺流轉”，一般性業務即時辦結，複雜業務限時辦結。強化登記金融協同，各地要透過不動產登記網上“一窗辦事”平臺、部門專線等多種方式，向銀行業金融機構延伸不動產登記服務網點，進一步擴大網點覆蓋面。同時，《通知》還明確要深化“帶押過戶”改革，大力推進資訊共享，讓資料“多跑路”，加快實現“全程網辦”“跨省通辦”。"
-    },
-    {
-      "id": "mkt:019eafdf-2c36-799a-b41c-45a54c1c58c0",
-      "time": "2026-06-10 12:51:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan Meteorological Agency says El Nifio has a 100% probability of persisting through autumn."
-    },
-    {
-      "id": "4927309",
-      "time": "2026-06-10 12:51:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本製鐵：將按面值發行總額461億日元、票面利率2.014%的三年期債券。"
-    },
-    {
-      "id": "mkt:019eafde-dce8-799a-b41c-3b5cb0a30ee5",
-      "time": "2026-06-10 12:51:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan Meteorological Agency says El Nifio appears to have begun developing since spring 2026."
-    },
-    {
-      "id": "4927308",
-      "time": "2026-06-10 12:50:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本氣象廳：厄爾尼諾現象持續至秋季的機率為100%。"
-    },
-    {
-      "id": "te:economy:557892",
-      "time": "2026-06-10 12:50:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Manufacturing Production MoM",
-        "Importance 1"
-      ],
-      "text": "Dutch Manufacturing Growth Eases — Manufacturing production in the Netherlands increased by 1.4% month-on-month in April 2026, slowing from a more than two-year high of 2.8% in the previous month. Growth slowed across several industries, including food (1.1% vs 1.4% in March), petroleum (2.3% vs 10.7%), chemicals (0.2% vs 1.9%), building materials (0.4% vs 2.2%), and machinery (3.9% vs 4.4%). In contrast, output rebounded in textiles (4.7% vs -2.1%), leather and footwear (5.3% vs -10.1%), and basic metals (0.2% vs -2.3%). On a yearly basis, manufacturing production climbed to 4.7% from 1.9% in March, marking its strongest annual gain since October 2022."
     }
   ]
 }
