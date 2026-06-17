@@ -1,7 +1,200 @@
 {
-  "updated": "2026-06-18 01:59:01",
-  "count": 18516,
+  "updated": "2026-06-18 02:03:05",
+  "count": 18526,
   "items": [
+    {
+      "id": "4941610",
+      "time": "2026-06-18 02:02:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲經濟預期概要（SEP）：預計2026年美國失業率4.3%，3月份預計4.4%。"
+    },
+    {
+      "id": "te:economy:559793",
+      "time": "2026-06-18 02:01:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Fed Leaves Rates Steady — The Federal Reserve kept the federal funds rate unchanged at 3.50%-3.75% for a fourth consecutive meeting on June 17th 2026, in line with market expectations."
+    },
+    {
+      "id": "4941609",
+      "time": "2026-06-18 02:01:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲FOMC宣告：委員們一致同意此次的利率決定。19名美聯儲官員中有17人提交了2028年的利率預測。"
+    },
+    {
+      "id": "4941608",
+      "time": "2026-06-18 02:01:32",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲在宣告中刪除關於進一步調整利率的表述。將隔夜逆回購利率維持在3.5%不變。18位FOMC參與者中有9位預計2026年加息。19名官員中，只有18人提交了點陣圖預測。"
+    },
+    {
+      "id": "mkt:019ed6bf-2390-7dd8-b05d-598fee6aff38",
+      "time": "2026-06-18 02:01:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "Fed's FOMC holds the interest rate on reserve balances at 3.65%."
+    },
+    {
+      "id": "4941607",
+      "time": "2026-06-18 02:01:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：生產率增長與資本投資表現強勁。"
+    },
+    {
+      "id": "4941606",
+      "time": "2026-06-18 02:00:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：委員會重申維持銀行體系充足準備金的政策，並指示公開市場操作部門在適當時機增持證券資產。"
+    },
+    {
+      "id": "4941605",
+      "time": "2026-06-18 02:00:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員預計，2028 年末聯邦基金利率中值為 3.4%。"
+    },
+    {
+      "id": "mkt:019ed6bd-f721-7dd8-b05d-52be776dd9c0",
+      "time": "2026-06-18 02:00:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "The Federal Reserve removed wording in its statement referring to further rate adjustments."
+    },
+    {
+      "id": "mkt:019ed6bd-a89e-7dd8-b05d-494b81c7cac3",
+      "time": "2026-06-18 02:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "【Fed holds policy rate at 3.50%-3.75% as expected】The Fed left the target range for the federal funds rate at 3.50%-3.75% for a fourth consecutive meeting, in line with market expectations."
+    },
+    {
+      "id": "4941604",
+      "time": "2026-06-18 02:00:09",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲決定維持基準利率在3.50%-3.75%區間不變。"
+    },
+    {
+      "id": "mkt:019ed6bd-9774-7dd8-b05d-43ae3cfc3fd7",
+      "time": "2026-06-18 02:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "US Federal Reserve held the upper bound of the Fed funds target at 3.75% on June 17; in line with expectations and the prior rate of 3.75%."
+    },
+    {
+      "id": "mkt:019ed6bd-93a3-7dd8-b05d-3a218b5b5b47",
+      "time": "2026-06-18 02:00:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "US federal funds target rate (lower bound) 3.50% as of June 17; expected 3.50%, prior 3.50%."
+    },
+    {
+      "id": "mkt:019ed6bd-924d-7dd8-b05d-31cbf049784f",
+      "time": "2026-06-18 02:00:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "US rate on reserve balances 3.65% as of June 18; expected 3.65%; prior 3.65%."
+    },
+    {
+      "id": "mkt:019ed6bd-76ab-7dd8-b05d-2141a9e10b11",
+      "time": "2026-06-18 02:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | FED‘s Federal Fund Rate (Upper Bound) (Jun.17) | actual 3.75% | consensus 3.75% | previous 3.75%"
+    },
+    {
+      "id": "mkt:019ed6bd-774d-7dd8-b05d-292ca8c618df",
+      "time": "2026-06-18 02:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Interest on Reserve Balances (Jun.18) | actual 3.65% | consensus 3.65% | previous 3.65%"
+    },
+    {
+      "id": "mkt:019ed6bd-7683-7dd8-b05d-1ec81be61550",
+      "time": "2026-06-18 02:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | FED's Federal Fund Rate (Lower Bound) (Jun.17) | actual 3.5% | consensus 3.50% | previous 3.50%"
+    },
+    {
+      "id": "mkt:019ed6bc-69fc-7dd8-b05d-13077f072cfc",
+      "time": "2026-06-18 01:58:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "JP Morgan's head of global fixed income Michelle said Fed Chair Kevin Warsh should be asked whether DISINFLATION is temporary."
+    },
     {
       "id": "4941603",
       "time": "2026-06-18 01:56:51",
@@ -170162,82 +170355,6 @@
         "國際"
       ],
       "text": "伊朗外交部：美國襲擊了重要的民用水利基礎設施。"
-    },
-    {
-      "id": "4928868",
-      "time": "2026-06-11 02:02:24",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "智利財政部表示，預計2026年至2030年期間銅均價為每磅5.50美元。"
-    },
-    {
-      "id": "4928867",
-      "time": "2026-06-11 02:02:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "L3哈里斯技術公司：將於2026年在阿拉巴馬州亨茨維爾啟動“吸血鬼”系統的量產專案。"
-    },
-    {
-      "id": "4928866",
-      "time": "2026-06-11 02:02:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "L3哈里斯技術公司：獲得美國陸軍價值最高1.06億美元的“吸血鬼”反無人機系統訂單。"
-    },
-    {
-      "id": "4928865",
-      "time": "2026-06-11 02:01:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "L3哈里斯技術公司獲美國陸軍選定，將提供“吸血鬼”反無人機系統。"
-    },
-    {
-      "id": "mkt:019eb2b0-d024-7dd8-afaa-387dfc75cd2a",
-      "time": "2026-06-11 01:59:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. May government budget deficit $292.65 bln, versus forecast deficit $275.00 bln; prior month surplus $215.00 bln."
-    },
-    {
-      "id": "mkt:019eb2b0-99c3-7dd8-afaa-351caa8db775",
-      "time": "2026-06-11 01:59:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Government Budget (May) | actual -292648000000B | consensus -275000000000B | previous 215000000000B"
-    },
-    {
-      "id": "4928864",
-      "time": "2026-06-11 01:59:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月政府預算 -2926.48億美元，預期 -2820億美元，前值 2150億美元。"
-    },
-    {
-      "id": "4928863",
-      "time": "2026-06-11 01:59:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "Visa：透過合作將提供其全球網路、資質認證能力及安全基礎設施，以支撐智慧體商務體驗。"
     }
   ]
 }
