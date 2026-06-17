@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-17 13:53:00",
-  "count": 18346,
+  "updated": "2026-06-17 13:56:54",
+  "count": 18344,
   "items": [
+    {
+      "id": "4940050",
+      "time": "2026-06-17 13:56:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【水利部發布6項水利行業標準】近日，水利部發布2026年第12號公告，批准釋出《水工金屬結構安全檢測、評價與報廢技術規範》等6項水利行業標準。相關標準將於2026年8月25日起實施。"
+    },
+    {
+      "id": "4940049",
+      "time": "2026-06-17 13:56:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股中字頭個股區域性異動，中國化學午後漲停，中紡標、中國能建、中國電建、中鐵裝配等紛紛衝高。"
+    },
+    {
+      "id": "mkt:019ed426-a591-7dd8-b043-549cb4ec84fe",
+      "time": "2026-06-17 13:56:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Rumors that Caitong Fund faced a surprise inspection are false, insiders say】Market reports claimed today Caitong Fund was subject to a surprise inspection, with staff phones and computers seized and links to PCB-sector stocks. Insiders say the reports are baseless."
+    },
+    {
+      "id": "mkt:019ed426-715c-7dd8-b043-4881c9fa9ec8",
+      "time": "2026-06-17 13:55:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Bank of Korea warns AI-driven semiconductor boom could complicate inflation outlook】The Bank of Korea said on Wednesday an AI-driven boom in the semiconductor sector — marked by exceptionally large bonus payouts at some chipmakers and major tech firms — could complicate the inflation outlook by prompting broader wage demands. If bonus-driven wage gains spill beyond tech, they would lift consumer demand and corporate costs and, together with rising energy prices, add to inflationary pressure. While broad wage acceleration has not yet materialized, the central bank urged close monitoring of outsized bonus payments and rising wage demands as policymakers work to prevent transient supply shocks from becoming persistent inflation."
+    },
+    {
+      "id": "4940048",
+      "time": "2026-06-17 13:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【MLCC大廠太陽誘電：現階段沒有計劃因供需緊繃而調漲價格】日本積層陶瓷電容（MLCC）大廠太陽誘電（Taiyo Yuden）正加快MLCC 擴產速度。社長佐瀨克表示，“在中期（2026-2030年度）運營計劃中，原先計劃是將以每年約10%的速度擴增MLCC產能，不過最終將視超大規模雲端商等客戶實際動向而定，有可能將擴產速度上修至每年15%。”關於漲價計劃，佐瀨克表示，現階段沒有計劃因供需緊繃而調漲價格。"
+    },
+    {
+      "id": "4940047",
+      "time": "2026-06-17 13:54:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網傳財通基金被突擊檢查，知情人士：純屬謠言】今日，市場有訊息稱，財通基金被突擊檢查，手機、電腦被收走，並涉及PCB板塊個股。據記者瞭解，上述傳聞純屬謠言。（每經）"
+    },
+    {
+      "id": "4940046",
+      "time": "2026-06-17 13:54:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全球首個具身互動世界模型重點實驗室獲批】6月17日，據“星源智機器人”微信公眾號訊息，北京市科學技術委員會、中關村科技園區管理委員會於近日正式釋出2026年北京市重點實驗室認定結果。由北京星源智機器人科技有限公司牽頭，聯合北京智源人工智慧研究院、北京面壁智慧科技有限責任公司共同建設的“具身互動世界模型北京市重點實驗室”正式獲批。星源智創始人兼CEO劉東擔任實驗室主任。"
+    },
     {
       "id": "4940045",
       "time": "2026-06-17 13:51:13",
@@ -168752,90 +168811,6 @@
         "MKT News"
       ],
       "text": "【Johannesburg shooting kills at least 12】South African police said a shooting in Johannesburg on June 10 killed at least 12 people and injured nine."
-    },
-    {
-      "id": "4927386",
-      "time": "2026-06-10 13:56:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "光纖概念持續走弱，通鼎互聯觸及跌停，中天科技逼近跌停，永鼎股份、特發資訊、長飛光纖、兆龍互連均跌超7%。"
-    },
-    {
-      "id": "4927385",
-      "time": "2026-06-10 13:56:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【世界糧食計劃署：中東衝突的連鎖反應將威脅糧食安全】聯合國世界糧食計劃署（WFP）營運長卡爾·斯考日前接受媒體採訪時表示，中東衝突引發的連鎖反應正嚴重威脅全球數百萬弱勢群體的糧食安全，地緣政治動盪導致燃料、食品及化肥價格飆升，或將使更多人口陷入嚴重飢餓危機。斯考指出，霍爾木茲海峽的關閉導致燃料成本呈指數級增長，大幅抬高了糧食計劃署的全球救援人道主義運營成本。同時，海灣地區關鍵航道受阻，直接切斷了面向蘇丹等危機地區的化肥供應，導致當地農作物種植面臨嚴重困境。斯考強調，即便霍爾木茲海峽立即重新開放，其對全球供應鏈產生的滯後與長期負面影響仍將持續。斯考解釋稱，在高度依賴外部援助的貧困國家和地區，食品價格每上漲20%至30%，底層民眾的食物攝入量就會被迫減少同等比例。世界糧食計劃署此前已釋出預警指出，若國際油價持續保持在每桶100美元以上，到今年7月，全球面臨嚴重飢餓的人口規模預計將擴大至4500萬人。"
-    },
-    {
-      "id": "mkt:019eb019-ed65-799a-b41c-d13dd183b018",
-      "time": "2026-06-10 13:55:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share banking sector climbed in choppy trade; Xiamen Bank rose nearly 7%, Qingdao Bank gained over 5%, and China CITIC Bank, Qilu Bank and Chengdu Bank also advanced."
-    },
-    {
-      "id": "4927384",
-      "time": "2026-06-10 13:55:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀行板塊震盪走高，廈門銀行漲近7%】銀行板塊震盪走高，廈門銀行漲近7%，青島銀行漲超5%，中信銀行、齊魯銀行、成都銀行跟漲。"
-    },
-    {
-      "id": "4927383",
-      "time": "2026-06-10 13:55:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度塔塔集團董事長納塔拉詹·錢德拉塞卡蘭預測，未來人工智慧代理將取代塔塔諮詢服務公司一半的工作崗位。"
-    },
-    {
-      "id": "4927382",
-      "time": "2026-06-10 13:54:24",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "印度市場監管機構：就修訂資產管理公司高管薪酬披露相關規定釋出諮詢檔案。"
-    },
-    {
-      "id": "4927381",
-      "time": "2026-06-10 13:53:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國據悉將重啟加入《全面與進步跨太平洋夥伴關係協定》（CPTPP）的審議。"
-    },
-    {
-      "id": "mkt:019eb017-f29b-799a-b41c-c918256e2aa0",
-      "time": "2026-06-10 13:53:39",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Bank of America raises Oracle (ORCL.N) PT to $240 from $200."
-    },
-    {
-      "id": "4927380",
-      "time": "2026-06-10 13:53:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將甲骨文目標股價從200美元上調至240美元。"
     }
   ]
 }
