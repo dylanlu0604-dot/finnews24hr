@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-17 23:43:17",
+  "updated": "2026-06-17 23:47:25",
   "count": 18454,
   "items": [
+    {
+      "id": "mkt:019ed643-8c88-7dd8-b058-038287754c06",
+      "time": "2026-06-17 23:46:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former U.S. Vice President Mike Pence said he is \"very concerned\" about a U.S.-Iran memorandum of understanding."
+    },
+    {
+      "id": "mkt:019ed641-ccc3-7dd8-b057-f988c32e5d18",
+      "time": "2026-06-17 23:44:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Timiraos flags three market takeaways from Wosh’s first Fed meeting】Nick Timiraos identifies three market-relevant points for the new Fed chair’s first meeting. 1) Will the easing-leaning language — the phrase since 2024 signaling that the next move is more likely a cut than a hike — be dropped, and if so what replaces it? Removing it would satisfy hawks and can be packaged as procedural reform rather than an overt move to a hawkish stance; Trump reportedly previewed this change at the swearing-in. 2) Will the dot plot resume as the primary forward guide, and who will signal possible hikes? The Fed will release its first rate projections since March (then 12 of 19 officials penciled in at least one 2026 cut); market focus is on how many officials now forecast hikes and whether the chair will submit a personal projection or dilute the dot plot’s weight by abstaining. 3) How will the chair communicate at the press conference? Markets move when the chair is perceived to speak for the majority; Wosh leads a divided committee not fully under his control — accurately relaying colleagues’ views would build authority, whereas failure to do so will leave dissenting members to signal policy via votes or other means, with dissents themselves becoming a source of information."
+    },
+    {
+      "id": "4941437",
+      "time": "2026-06-17 23:44:44",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根資產管理：AI熱潮料推動美股續漲 下半年宜持有高風險資產】摩根大通旗下資產管理部門正敦促投資者在2026年下半年繼續持有股票及其他高風險資產。該機構稱，儘管通脹持續且美聯儲維持利率不變，但AI投資熱潮和消費者韌性將支撐美國經濟持續擴張。市場日益擔憂今年美股的大幅上漲使其容易面臨回撥風險。而這家管理4.3萬億美元資產的機構指出，隨著企業加大對AI基礎設施的投入，經濟增長動能正在增強。與此同時，受股價和房價上漲帶來的財富效應推動，高收入消費者仍在持續消費。摩根資產管理在2026年中展望中表示，由於收益率居高不下，債券再次變得具有吸引力，而且新興市場與亞洲晶片供應鏈的聯絡日益緊密。為實現多元化投資，該機構建議投資者選擇房地產、基礎設施和交通運輸等防禦性投資標的，同時也引導投資者關注歐洲和日本市場。"
+    },
+    {
+      "id": "te:markets:559775",
+      "time": "2026-06-17 23:44:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Up Ahead Central Bank Decision — The FTSE 100 edged slightly higher on Wednesday as investors assessed UK inflation data and looked ahead to the Federal Reserve’s interest rate decision later in the day, followed by the Bank of England meeting on Thursday. UK markets reduced expectations for BoE rate hikes this year after inflation unexpectedly held steady in May, supporting a more cautious stance among some policymakers. Energy stocks remained under pressure, with Shell and BP both falling more than 1%. BAT dropped over 2%, Rio Tinto declined more than 0.9%, and Unilever slipped around 0.7%. In contrast, HSBC gained about 1.5%, while AstraZeneca rose 1.3% and GSK advanced 1.1%."
+    },
     {
       "id": "4941436",
       "time": "2026-06-17 23:38:25",
@@ -169660,43 +169705,6 @@
         "國際"
       ],
       "text": "美國國務院批准擬向韓國對外軍售AIM-120C-8先進中程空對空導彈，交易預估金額2.92億美元。"
-    },
-    {
-      "id": "mkt:019eb236-999a-7dd8-afa7-ddd949657106",
-      "time": "2026-06-10 23:46:23",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "RUSSIAN CENBANK said economic activity recovered in April–May after a Q1 GDP contraction, supported by demand for Russian exports."
-    },
-    {
-      "id": "4928725",
-      "time": "2026-06-10 23:46:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI正準備於本月釋出一款代號為5.6的新型人工智慧模型。"
-    },
-    {
-      "id": "4928724",
-      "time": "2026-06-10 23:45:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：第一季度GDP收縮後，4-5月經濟活動在俄羅斯出口需求的支撐下回升。"
-    },
-    {
-      "id": "4928723",
-      "time": "2026-06-10 23:44:24",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "OpenAI執行長奧特曼告知員工，OpenAI準備“很快”推出一項以當前股價進行的要約收購，該股價為每股687.69美元。"
     }
   ]
 }
