@@ -1,7 +1,306 @@
 {
-  "updated": "2026-06-17 21:01:40",
-  "count": 18409,
+  "updated": "2026-06-17 21:05:43",
+  "count": 18431,
   "items": [
+    {
+      "id": "mkt:019ed5af-8a92-7dd8-b051-3f4f2c19a801",
+      "time": "2026-06-17 21:05:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Federal Reserve said the FOMC will reconvene as scheduled at 9:00 a.m. on Wednesday."
+    },
+    {
+      "id": "4941123",
+      "time": "2026-06-17 21:05:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港交所集團行政總裁陳翊庭：持續最佳化拓展互聯互通機制 為境外投資者提供更豐富的投資選擇】香港交易所集團行政總裁陳翊庭6月17日在2026陸家嘴論壇上表示，在地緣政治不確定性持續上升的背景下，全球投資者必須思考如何進行分散投資。她認為，最值得討論的是如何抓住這個機會，打造一個以中國為核心的高效互聯互通亞洲資本市場生態圈。陳翊庭說，期待與上交所持續最佳化拓展互聯互通機制，為境外投資者提供更豐富的投資選擇。據悉，港交所正更積極構建股票、衍生品、固定收益、貨幣產品、大宗商品等多元化的資產生態圈。陳翊庭認為，人民幣國際化是分散風險的剛需，固定收益和大宗商品是推動人民幣國際化的抓手。她透露，未來會積極落實香港固定收益和貨幣市場發展的路線圖，從一級市場、二級市場兩方面著手。“期待人民幣國債期貨在香港儘早落地，為境外投資者提供更多管理人民幣利率風險的工具。”"
+    },
+    {
+      "id": "mkt:019ed5af-39cd-7dd8-b051-34611164f54f",
+      "time": "2026-06-17 21:04:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Chile's central bank raised its 2027 average copper price forecast to $5.20 per lb from $5.10 previously."
+    },
+    {
+      "id": "4941122",
+      "time": "2026-06-17 21:04:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲宣告：聯邦公開市場委員會會議已於週三上午 9 時如期復會。"
+    },
+    {
+      "id": "mkt:019ed5af-063c-7dd8-b051-2bae151ddd84",
+      "time": "2026-06-17 21:04:37",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Chilean central bank projects average copper price of $5.8 per lb in 2026, up from a prior estimate of $5.4 per lb."
+    },
+    {
+      "id": "mkt:019ed5ae-d437-7dd8-b051-27bfc3a6f99e",
+      "time": "2026-06-17 21:04:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G7 leaders will initially focus on lithium and nickel as priority critical minerals, aiming to avoid undermining competitiveness or imposing excessive cost burdens."
+    },
+    {
+      "id": "4941121",
+      "time": "2026-06-17 21:04:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行預計2026年銅均價為每磅5.8美元，此前預估為每磅5.4美元。"
+    },
+    {
+      "id": "4941120",
+      "time": "2026-06-17 21:04:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據訊息人士透露，俄羅斯計劃於6月開始透過海運進口汽油，以緩解國內短缺。"
+    },
+    {
+      "id": "4941119",
+      "time": "2026-06-17 21:04:07",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "七國集團領導人責成財長及央行行長討論人工智慧問題。"
+    },
+    {
+      "id": "mkt:019ed5ae-8007-7dd8-b051-1b4a3ff0b17f",
+      "time": "2026-06-17 21:04:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources say Russia plans to begin importing gasoline by sea in June to ease domestic shortages."
+    },
+    {
+      "id": "4941118",
+      "time": "2026-06-17 21:04:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞總理：我們需要在拉脫維亞和波羅的海地區部署更多地面部隊。"
+    },
+    {
+      "id": "mkt:019ed5ae-78a6-7dd8-b051-17b4d848ada4",
+      "time": "2026-06-17 21:04:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【SFE and LME sign hot-rolled coil futures settlement-price authorization, deepen cross-border cooperation】June 17 — Shanghai Futures Exchange and the London Metal Exchange signed a settlement-price authorization agreement for hot-rolled coil (HRC) futures at the Lujiazui Forum. The move furthers SFE’s cross-border cooperation and broader market-opening agenda, including international-specific futures and options, cross-border settlement-price authorizations, QFI access, trading-platform internationalization and exploration of cross-border delivery. SFE’s HRC contract is the world’s largest plate/coils futures product, averaging about 700k contracts traded daily and roughly 1.9m contracts in open interest, and serves increasingly as an import-price reference for Asia-Pacific, the Middle East, North Africa and South America."
+    },
+    {
+      "id": "4941117",
+      "time": "2026-06-17 21:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪：2026年5月15日-6月15日，比亞迪新建703座閃充站，累計建成6682座閃充站，已覆蓋全國321座城市。"
+    },
+    {
+      "id": "mkt:019ed5ad-dd95-7dd8-b051-08ec06523ae8",
+      "time": "2026-06-17 21:03:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Latvia's prime minister said more ground forces are needed in Latvia and the Baltic region."
+    },
+    {
+      "id": "4941116",
+      "time": "2026-06-17 21:03:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行預計通脹率將在2027年第二季度趨向3%的目標。"
+    },
+    {
+      "id": "4941115",
+      "time": "2026-06-17 21:03:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行預計2026年內需增長2.2%，較此前預估的2.4%下調。"
+    },
+    {
+      "id": "mkt:019ed5ad-a872-7dd8-b051-07da2fdff37c",
+      "time": "2026-06-17 21:03:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "G7 leaders tasked finance ministers and central bank governors to discuss AI-related issues."
+    },
+    {
+      "id": "4941114",
+      "time": "2026-06-17 21:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "安哥拉8月份原油出口量將增至109萬桶/日。"
+    },
+    {
+      "id": "mkt:019ed5ad-7ad1-7dd8-b050-ffca8f6c40ca",
+      "time": "2026-06-17 21:02:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "6501.T",
+        "Impact bullish"
+      ],
+      "text": "Hitachi to expand cooperation with OpenAI."
+    },
+    {
+      "id": "4941113",
+      "time": "2026-06-17 21:02:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "G7領導人：責成G7發展金融機構（DFI）及出口信貸機構，就關鍵礦產加強協調與合作。承諾協調行動，建立並發展必要的加工與工業能力，以實現關鍵礦產價值鏈的多元化。"
+    },
+    {
+      "id": "4941112",
+      "time": "2026-06-17 21:02:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行預計2026年年度通脹率為3.7%，此前預測值為3.6%。"
+    },
+    {
+      "id": "te:economy:559739",
+      "time": "2026-06-17 21:02:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Serbia",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Serbia Current Account Gap Shrinks in April — Serbia posted a current account deficit of €274 million in April 2026, narrowing from €688 million in the same month a year ago. The goods shortfall shrank to €637 million from €809 million in April 2025, while the services surplus increased to €259 million from €118 million. At the same time, the primary income gap rose to €451 million from €432 million, while the secondary income surplus went up to €555 million from €435 million."
+    },
+    {
+      "id": "mkt:019ed5ac-9fc8-7dd8-b050-f271ebe895fb",
+      "time": "2026-06-17 21:02:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shangwei New Materials unit Qiyuan Robotics to open retail experience stores in Shanghai, Shenzhen】Shangwei New Materials' unit Qiyuan Robotics will open offline retail experience stores in Shanghai and Shenzhen to provide in-person demos of consumer-grade humanoid robots. Reports say the Shenzhen site — billed as the brand's first in Asia — is under fit-out and has exterior hoardings in place."
+    },
+    {
+      "id": "4941110",
+      "time": "2026-06-17 21:01:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上期所與LME聯合釋出熱卷期貨結算價授權專案】上海期貨交易所與倫敦金屬交易所（下稱“LME”）在陸家嘴論壇期間，舉行熱軋卷板期貨結算價授權簽約儀式。依託雙方合作，上期所向LME授權熱軋卷板期貨結算價，支援其推出以該價格為基準的期貨合約。這次合作是我國期貨交易所首次在金屬類期貨合約上與國際知名交易所合作，向境外成熟期貨市場輸出“上海價格”。協議簽署後，LME計劃於今年10月在倫敦掛牌上市“LME上海熱軋卷板合約”，結算價格以上期所熱軋卷板期貨結算價為基準，便利全球投資者直接參考和使用上海熱軋卷板期貨合約價格進行投資交易和風險管理。"
+    },
+    {
+      "id": "4941109",
+      "time": "2026-06-17 21:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "日立擴大與OpenAI的合作，加速人工智慧驅動的現代化與網路安全。"
+    },
+    {
+      "id": "4941108",
+      "time": "2026-06-17 21:01:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "ADOBE推出面向商業媒體網路的GENSTUDIO。"
+    },
+    {
+      "id": "4941107",
+      "time": "2026-06-17 21:01:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌2%，現報1322.00元。"
+    },
+    {
+      "id": "4941106",
+      "time": "2026-06-17 21:01:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟領導人表示，歐盟與印度將在2026年底前正式簽署自由貿易協定。"
+    },
+    {
+      "id": "mkt:019ed5ab-b89c-7dd8-b050-eb887f215f1d",
+      "time": "2026-06-17 21:01:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "G7 leaders pledged coordinated action to build and expand processing and industrial capacity needed to diversify critical minerals value chains."
+    },
+    {
+      "id": "4941105",
+      "time": "2026-06-17 21:00:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行預計2026年國內生產總值（GDP）增長1.0%-1.75%，此前預期為增長1.5%-2.5%。"
+    },
+    {
+      "id": "mkt:019ed5ab-91d0-7dd8-b050-e4dfc897db94",
+      "time": "2026-06-17 21:00:51",
+      "tags": [
+        "MKT News",
+        "Copper"
+      ],
+      "text": "G7 leaders tasked G7 development finance institutions (DFIs) and export credit agencies to strengthen coordination and cooperation on critical minerals."
+    },
+    {
+      "id": "4941104",
+      "time": "2026-06-17 21:00:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "G7領導人：重申實現供應鏈多元化及構建集體韌性的緊迫性。將與夥伴合作減少關鍵依賴。"
+    },
     {
       "id": "mkt:019ed5ab-1df0-7dd8-b050-db818d5b2f2c",
       "time": "2026-06-17 21:00:21",
@@ -169273,99 +169572,6 @@
         "Importance 1"
       ],
       "text": "Treasury Yields Retreat from Session Highs — The yield on the US 10-year Treasury note was little changed at 4.52% on Wednesday, easing from an intraday high of 4.55% after the latest US CPI report provided some relief that the energy shock has not yet significantly spilled over into broader price pressures. Annual inflation accelerated to 4.2% in May, in line with market expectations, while core CPI rose by just 0.2% on a monthly basis, undershooting forecasts. Following the release, traders modestly pared back expectations for rate hikes by the Fed this year, although a 25bps increase in December remains fully priced in. Investors will now turn their attention to Thursday's PPI report for further clues on underlying inflationary pressures. Meanwhile, last week's labour market data pointed to a resilient and potentially reaccelerating jobs market, while other economic indicators continue to signal solid momentum in the US economy."
-    },
-    {
-      "id": "mkt:019eb1a3-6d53-7dd8-afa2-077ab4eb6f5f",
-      "time": "2026-06-10 21:05:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Senator Elizabeth Warren urged the U.S. Securities and Exchange Commission to delay SpaceX’s IPO."
-    },
-    {
-      "id": "4928454",
-      "time": "2026-06-10 21:05:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報3016.00元。"
-    },
-    {
-      "id": "4928453",
-      "time": "2026-06-10 21:05:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國參議員沃倫呼籲美國證券交易委員會推遲SpaceX的IPO。"
-    },
-    {
-      "id": "mkt:019eb1a2-f065-7dd8-afa1-ff35d5757129",
-      "time": "2026-06-10 21:05:06",
-      "tags": [
-        "MKT News",
-        "F.O",
-        "Impact bullish"
-      ],
-      "text": "Ford Motor shares rose 0.8% pre-market after the Wall Street Journal reported that Novelis, a major aluminum supplier to Ford, will restart plant operations following a fire."
-    },
-    {
-      "id": "4928451",
-      "time": "2026-06-10 21:03:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：華納音樂集團將收購SUREEL AI。"
-    },
-    {
-      "id": "4928450",
-      "time": "2026-06-10 21:03:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜表示，該筆信貸額度將用於公司日常經營週轉。"
-    },
-    {
-      "id": "mkt:019eb1a1-3274-7dd8-afa1-f44131583274",
-      "time": "2026-06-10 21:03:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Analyst: May CPI avoids worst-case overheating; dollar pressured, euro gets breathing room】Analyst Childe-Freeman said May CPI avoided the worst-case scenario of stronger-than-expected overheating, which could briefly relieve U.S. Treasury yields ahead of next week’s Fed decision and exert near-term downward pressure on the dollar. That gives EUR/USD a short window to rebound toward 1.16 ahead of tomorrow’s ECB meeting. An ECB rate hike tomorrow now appears all but certain, but Childe-Freeman cautioned that a hike alone—especially amid slowing growth—may not sustain the euro over time."
-    },
-    {
-      "id": "4928449",
-      "time": "2026-06-10 21:02:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI基礎設施初創公司TensorWave完成3.5億美元B輪融資】AI基礎設施初創公司TensorWave完成3.5億美元B輪融資，投後估值達15.5億美元，用於擴建由AMD驅動的全球AI基礎設施。"
-    },
-    {
-      "id": "mkt:019eb1a0-4018-7dd8-afa1-eacb990278b7",
-      "time": "2026-06-10 21:02:09",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【US inflation in line; Treasuries and dollar flat as Iran tensions simmer】US Treasury yields and the dollar were largely unchanged on Tuesday after May CPI broadly matched expectations and amid renewed Iran tensions. Headline CPI rose to 4.2% YoY in May from 3.8% in April; core CPI excluding food and energy ticked up to 2.9% from 2.8%. Markets expect the Fed to hold rates next week but assign high odds to further hikes thereafter. The US launched strikes on Iran; Trump said Tehran’s negotiations took too long. DXY ~99.90; 10-year yield 4.526%; 2-year yield 4.127%, little changed from Monday."
-    },
-    {
-      "id": "4928448",
-      "time": "2026-06-10 21:02:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜簽署 175 億美元定期貸款協議。"
     }
   ]
 }
