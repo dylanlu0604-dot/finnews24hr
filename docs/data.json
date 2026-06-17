@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-18 03:53:56",
-  "count": 18808,
+  "updated": "2026-06-18 03:58:01",
+  "count": 18809,
   "items": [
+    {
+      "id": "mkt:019ed726-9b57-7dd8-b063-f20a7e85d8f8",
+      "time": "2026-06-18 03:54:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Markets are fully pricing in two Federal Reserve rate hikes by end‑Q1 2027."
+    },
+    {
+      "id": "4941824",
+      "time": "2026-06-18 03:53:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "加元兌美元下跌0.9%，報1美元兌1.4122加元，創七個月新低。"
+    },
+    {
+      "id": "4941823",
+      "time": "2026-06-18 03:53:36",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員已充分預期美聯儲將在2027年第一季度末之前加息兩次。"
+    },
+    {
+      "id": "te:markets:559818",
+      "time": "2026-06-18 03:53:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Hits 7-Month Low — The Canadian dollar weakened to around 1.41 per USD following the Fed's latest policy decision, hovering near a seven-month low. As widely expected, the Federal Reserve left interest rates unchanged. However, its projections were viewed as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also sharply raised its inflation forecasts, boosting the appeal of US assets and supporting the US dollar. Meanwhile, the BoC kept its key interest rate unchanged at 2.25% at its latest meeting. The central bank said uncertainty remains elevated amid conflict in the Middle East and US tariff proposals, but reiterated that it stands ready to act if needed and will not allow high energy prices to trigger persistent inflation. Investors largely expect the BoC to raise borrowing costs by 25 basis points in December."
+    },
     {
       "id": "4941822",
       "time": "2026-06-18 03:51:31",
@@ -173390,30 +173436,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收跌0.27%】萬國資料跌7.26%，優品車跌5.38%，阿特斯跌5.65%，世紀互聯跌5.23%，禾賽科技跌4.66%。"
-    },
-    {
-      "id": "mkt:019eb31a-9d91-7dd8-afab-74acb260e7a9",
-      "time": "2026-06-11 03:55:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi state news agency SPA said the Saudi Crown Prince, at the request of Lebanon's president, ordered the resumption of Lebanese exports to Saudi Arabia."
-    },
-    {
-      "id": "4928950",
-      "time": "2026-06-11 03:55:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX告知投資者，其已敲定多家一流信用評級機構開展評級工作。"
-    },
-    {
-      "id": "4928949",
-      "time": "2026-06-11 03:54:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特官方通訊社訊息：應黎巴嫩總統請求，沙特王儲下令恢復黎巴嫩對沙特的出口貿易。"
     }
   ]
 }
