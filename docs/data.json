@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-17 21:46:50",
-  "count": 18470,
+  "updated": "2026-06-17 21:50:57",
+  "count": 18471,
   "items": [
+    {
+      "id": "4941222",
+      "time": "2026-06-17 21:50:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯泰蘭蒂斯執行長稱，正與兩家合作方洽談卡西諾工廠相關事宜。"
+    },
+    {
+      "id": "mkt:019ed5d8-a865-7dd8-b052-d4ee3b586215",
+      "time": "2026-06-17 21:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. May pending home sales index (m/m) and April business inventories (m/m) due in 10 minutes."
+    },
+    {
+      "id": "mkt:019ed5d7-f7dc-7dd8-b052-c898f346fea7",
+      "time": "2026-06-17 21:49:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "ADBE.O",
+        "CRM.N"
+      ],
+      "text": "【Polen misses NVIDIA; AUM evaporates nearly $50bn over four years】Florida-based asset manager Polen illustrates how missing a mega winner in the AI boom can reshape a firm: over four years its assets under management fell about 60%, down nearly $50bn to roughly $33bn. The firm's six equity mutual funds run concentrated portfolios; flagship Polen Growth Fund holds under 30 stocks and did not buy NVIDIA (NVDA.O), instead maintaining positions in software names Adobe (ADBE.O), Salesforce (CRM.N) and ServiceNow (NOW.N). In a June 2023 client letter Polen wrote “we believe that nearly all upside opportunities currently visible have already been priced in by the market” on NVIDIA; the stock then rose about 400% while an index tracking cloud software fell roughly 3% over the same period. Polen says it reversed its prior bearish view on AI chips at end-2025, acknowledged the misjudgment and began buying related stocks."
+    },
+    {
+      "id": "4941221",
+      "time": "2026-06-17 21:48:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲南釋出AI科研平臺 為高原優勢產業科研提速】17日，雲南省科學技術廳聯合中國移動雲南公司在昆明發布雲南AI科研平臺，將為國內外高校、科研院所、科技型企業等提供算力、資料與模型資源，推動人工智慧融入生物醫藥、新材料、高原特色農業等雲南優勢領域的科研創新。"
+    },
+    {
+      "id": "4941220",
+      "time": "2026-06-17 21:47:09",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【策略師：美聯儲最不願看到10年期美債收益率飆升】LPL Financial首席股票策略師Jeff Buchbinder表示，投資者密切關注美聯儲新任主席沃什的首次新聞釋出會，以瞭解他對通脹、失業以及經濟前景的看法。美國10年期國債收益率目前在4.43%水平波動。他認為，沃什最不希望看到的是10年期美債收益率急劇上升。對市場而言，10年期美債收益率保持在4.5%以下至關重要，尤其是現在油價已經下跌的情況下。所以，不要指望美聯儲會迅速採取相關行動。"
+    },
+    {
+      "id": "4941219",
+      "time": "2026-06-17 21:46:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首屆AI眼鏡展，行業尚在早期，資本佈局前瞻賽道】6月16日至18日，第四屆深圳國際眼鏡業博覽會暨2026首屆人工智慧眼鏡展在深圳會展中心舉辦。各類AI眼鏡產品“同臺競技”，吸引國內外客商慕名而來。業內人士分析稱，當前AI眼鏡處於早期放量階段，尚未演化成大眾剛需產品，眼鏡廠商仍需深耕技術研發創新。（中證金牛座）"
+    },
     {
       "id": "4941218",
       "time": "2026-06-17 21:45:47",
@@ -75,6 +136,14 @@
         "其他"
       ],
       "text": "SHARONAI股價飆升21%；宣佈超額認購的16億美元戰略融資，以加速在澳大利亞及亞太地區擴充套件人工智慧工廠。"
+    },
+    {
+      "id": "4941213",
+      "time": "2026-06-17 21:41:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【興業證券劉鬱：特定情景給予非銀機構支援，意在及時平抑流動性短缺】6月17日，中國人民銀行行長潘功勝在2026陸家嘴論壇上表示，將研究設立特定情景非銀流動性支援宏觀審慎工具。對此，興業證券首席經濟學家劉鬱在接受中國證券報·中證金牛座記者採訪時表示，在特定情景下給予非銀機構的支援，將能夠鼓勵機構在日常經營中嚴格遵守宏觀審慎要求。在劉鬱看來，近年來，隨著非銀產品規模快速擴張，其內部所面臨的流動性風險，也容易透過機構行為，放大為對整個市場的衝擊，典型案例包括2022年末的理財贖回負反饋和2025年三季度債基產品的集中降久期。在這兩段風波中，10年國債收益率的上行幅度均超過20bp。（中證報）"
     },
     {
       "id": "mkt:019ed5d0-7d4d-7dd8-b052-bf2976046198",
@@ -206,6 +275,14 @@
         "其他"
       ],
       "text": "【渣打禤惠儀：隨著滬港聯動不斷深化 中國金融開放的空間將進一步擴大】6月17日，渣打香港兼大中華及北亞區行政總裁禤惠儀在2026陸家嘴論壇上表示，高水平金融開放既需要創新，也需要協同。隨著滬港聯動不斷深化，中國金融開放的空間將進一步擴大，人民幣國際化也將逐步走向更廣泛的全球配置。"
+    },
+    {
+      "id": "4941204",
+      "time": "2026-06-17 21:38:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠地集團與寧德時代商討推進新能源等多領域創新合作】6月17日，記者從綠地集團獲悉，近日，寧德時代質量體系聯席總裁、後市場業務部總裁李偉一行到訪綠地集團，與綠地集團董事長、總裁張玉良進行工作會談，並達成廣泛合作共識。雙方將共同開拓在寧家服務體驗中心、零碳園區場景服務等領域的合作空間，打造集能源生產、儲存、交易、服務於一體的全鏈路創新合作平臺。"
     },
     {
       "id": "4941203",
@@ -169821,72 +169898,6 @@
         "國際"
       ],
       "text": "參議院多數黨領袖圖恩：特朗普正在尋找長期擔任國家情報總監的人選。"
-    },
-    {
-      "id": "4928530",
-      "time": "2026-06-10 21:50:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【合肥芯碁微電子裝備股份有限公司透過港交所上市聆訊】據港交所檔案：合肥芯碁微電子裝備股份有限公司透過港交所上市聆訊。"
-    },
-    {
-      "id": "te:economy:558088",
-      "time": "2026-06-10 21:49:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Interest Rate",
-        "Importance 3"
-      ],
-      "text": "BoC Leaves Rates Steady, Stands Ready to Raise if Needed — The Bank of Canada left the target for its benchmark overnight rate steady at 2.25% for a fifth consecutive meeting in June 2026, in line with expectations. Policymakers said that so far, there has been limited evidence of broad-based pass-through of higher energy prices to other consumer prices. However, the central bank is continuing to look through the war’s near-term impact on inflation and will not let higher energy prices become persistent inflation, standing ready to respond as needed. Inflation in Canada rose to 2.8% in April mostly due to energy prices, but the core rate moved down to 2.1%. The central bank expects inflation to hover around 3% before gradually easing towards the 2% target. Policymakers also noted that economic activity in Canada has been weak and uncertainty about US trade policy persists. The Bank Rate and the deposit rate were also kept at 2.5% and 2.20% respectively."
-    },
-    {
-      "id": "4928529",
-      "time": "2026-06-10 21:49:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克100指數轉漲。"
-    },
-    {
-      "id": "4928528",
-      "time": "2026-06-10 21:48:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股加密貨幣概念股拉昇】美股加密貨幣概念股盤初拉昇，Robinhood大漲超9%，Circle漲超3%，Strategy、Coinbase漲近3%。"
-    },
-    {
-      "id": "4928527",
-      "time": "2026-06-10 21:47:56",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "加元兌美元上漲0.3%，加拿大央行維持利率不變。"
-    },
-    {
-      "id": "4928526",
-      "time": "2026-06-10 21:47:16",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "加拿大央行：重申如果美國增加新的貿易限制，可能需要降息。若能源價格上漲開始引發普遍通脹，則可能需要連續加息。"
-    },
-    {
-      "id": "4928525",
-      "time": "2026-06-10 21:47:00",
-      "tags": [
-        "央行",
-        "資料",
-        "國際"
-      ],
-      "text": "加拿大央行行長麥克勒姆：經濟正在經歷結構性變革的階段。經濟活動疲軟，不確定性異常高，風險可能發生變化；貨幣政策可能需要靈活應對。委員會將繼續關注中東戰爭對短期整體通脹的影響。官員們同意審慎看待伊朗戰爭對CPI的短期影響。委員會不會讓高能源價格成為持續性通脹。"
     }
   ]
 }
