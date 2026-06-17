@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-17 11:57:26",
-  "count": 18327,
+  "updated": "2026-06-17 12:01:51",
+  "count": 18324,
   "items": [
+    {
+      "id": "mkt:019ed3bd-00e9-7dd8-b041-2155ce234609",
+      "time": "2026-06-17 12:00:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "MAS survey: 62% of respondents expect monetary policy to remain unchanged at the July policy review."
+    },
+    {
+      "id": "mkt:019ed3bb-cea7-7dd8-b041-19867b489533",
+      "time": "2026-06-17 11:59:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal reports Chinese social-commerce app Xiaohongshu plans a Hong Kong listing before year-end; investors expect a valuation above $70 billion."
+    },
+    {
+      "id": "4939919",
+      "time": "2026-06-17 11:58:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機器人持股公司在浙江成立智慧機器人公司】企查查APP顯示，近日，浙江多可智慧機器人有限公司成立，法定代表人為史緒英，註冊資本為5000萬元，經營範圍包含：工業機器人制造；工業機器人安裝、維修；智慧機器人的研發；智慧機器人銷售；軟體開發等。企查查股權穿透顯示，該公司由機器人(300024)持股的中科新松有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019ed3ba-ed19-7dd8-b041-10982ac4742d",
+      "time": "2026-06-17 11:58:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Gaoweida signs three-party strategic cooperation with Beijing Zhongke Guoguang Quantum and Guangzhou Weide Information Technology】On June 16, Gaoweida Software Co. signed a three-party strategic cooperation agreement with Beijing Zhongke Guoguang Quantum Technology, a domestic photonic quantum chip provider, and Guangzhou Weide Information Technology, a quantum cloud platform provider. The parties will build an integrated \"quantum chip + quantum cloud platform + financial security applications\" architecture to commercialize and scale quantum encryption technology across the Chinese financial sector."
+    },
+    {
+      "id": "mkt:019ed3ba-996f-7dd8-b041-0c98764c72ac",
+      "time": "2026-06-17 11:58:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose 1.00% intraday."
+    },
+    {
+      "id": "4939918",
+      "time": "2026-06-17 11:57:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：小紅書計劃年底前在香港進行首次公開募股(IPO)，投資者尋求估值超過700億美元。"
+    },
+    {
+      "id": "te:markets:559563",
+      "time": "2026-06-17 11:57:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Hit Two-Week High — Soybean futures climbed above $11.3 per bushel, hitting a two-week high on signs of renewed Chinese import demand, although favorable US crop weather limited further upside. Reports indicate Chinese buyers are looking to secure US cargoes for fourth-quarter shipment, though traders say no firm deals have been confirmed yet. Markets have been closely monitoring Chinese purchasing activity following the May announcement that China would buy $17 billion of US agricultural products annually, alongside an existing commitment of 25 million metric tons of soybeans. Meanwhile, widespread rain and warm temperatures across the US Midwest have generally benefited crop development over the past week, reinforcing expectations of adequate global supply. The USDA also rated 66% of US soybeans in good-to-excellent condition, up one percentage point from a week earlier. A sharp decline in crude oil prices after an outline US-Iran peace deal added further pressure on grain and oilseed markets."
+    },
+    {
+      "id": "mkt:019ed3b9-b5e5-7dd8-b041-0107c6d639c0",
+      "time": "2026-06-17 11:57:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CHINA STATE PLANNER says it will steer AI toward beneficial, safe and fair development】On June 17 at a press briefing on a global governance white paper, CHINA STATE PLANNER deputy director Zhou Haibing said China will balance AI development and security, pursue multilateral cooperation, and follow a people‑centered, \"intelligence‑for‑good\" principle to keep AI development beneficial, safe and fair. He said China will assume major‑power responsibilities by managing risks, strengthening prevention and exploring international AI regulatory cooperation to jointly guard against AI security risks."
+    },
+    {
+      "id": "4939917",
+      "time": "2026-06-17 11:56:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高偉達與國光量子、緯德資訊簽署三方戰略合作協議】6月16日，高偉達軟體股份有限公司（簡稱“高偉達”）與國內首家光量子晶片提供商北京中科國光量子科技有限公司（簡稱“國光量子”）、量子云平臺服務商廣東緯德資訊科技股份有限公司（簡稱“緯德資訊”）正式簽署三方戰略合作協議，共同構建“量子晶片+量子云平臺+金融安全應用”三位一體合作架構，聯合開拓量子加密技術在金融行業的規模化產業化應用。"
+    },
+    {
+      "id": "4939916",
+      "time": "2026-06-17 11:56:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Grok Imagine 1.5 現已全面釋出。"
+    },
     {
       "id": "4939915",
       "time": "2026-06-17 11:56:19",
@@ -168484,130 +168578,6 @@
         "國際"
       ],
       "text": "印尼央行重申貨幣政策重點在於穩定。"
-    },
-    {
-      "id": "4927261",
-      "time": "2026-06-10 12:01:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數跌1.1%，恒生科技指數跌1.69%】港股午間收盤，恒生指數跌1.1%，恒生科技指數跌1.69%。恒指港股通ETF銀華（159318）跌1.25%，港股通科技ETF鵬華（159751）跌2.23%。板塊方面，建築產品、通訊裝置板塊漲幅靠前；電氣裝置、客運航空公司板塊跌幅靠前。個股方面，邁威生物-B漲18.73%，智雲科技建設漲7.48%，國恩科技漲7.36%，普拉達漲7.01%，三生製藥漲5.58%；天嶽先進跌16.03%，英諾賽科跌13.24%，埃斯頓跌13.2%，FORTIOR跌12.81%，敏實集團跌11.53%。"
-    },
-    {
-      "id": "4927260",
-      "time": "2026-06-10 12:01:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：華平投資和KKR為英國寬頻業務尋找買家。"
-    },
-    {
-      "id": "mkt:019eafb0-9e36-7444-ba07-a19e925ed7e9",
-      "time": "2026-06-10 12:00:48",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【Ministry of Natural Resources: 2025 China marine economy development index 128.8】The Ministry of Natural Resources released the 2026 China Marine Economy Development Index today, showing the 2025 marine economy development index at 128.8, up 2.2% YoY, with the sector shifting toward innovation and higher-quality growth."
-    },
-    {
-      "id": "4927259",
-      "time": "2026-06-10 12:00:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車印度公司公佈火災事故最新進展：浦那工廠及金奈二號工廠生產運營基本未受影響；現代汽車印度公司金奈一號工廠預計將於2025年6月15日前恢復正常生產節奏。"
-    },
-    {
-      "id": "te:markets:557882",
-      "time": "2026-06-10 12:00:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Aluminum Drops to 1-Month Low — Aluminum futures in the UK dropped as much as 1.4% toward $3,500 per tonne in Asian trading, the lowest in a month, as fresh US strikes against Iran and prospects of higher US interest rates weighed on the demand outlook. Persistent geopolitical tensions have fueled inflation concerns and increased the likelihood of tighter monetary policy, raising fears of slower global growth and weaker demand for industrial metals. Still, prices remain more than 19% higher year-to-date amid tightening supply conditions as aluminum exports from the Persian Gulf remain constrained. Supply risks have been further exacerbated by direct attacks on major refining facilities in the region. EGA’s flagship smelter is expected to take up to a year to return to full capacity, while operations at Bahrain’s ALBA facility remain partially suspended."
-    },
-    {
-      "id": "4927258",
-      "time": "2026-06-10 12:00:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部：2025年中國海洋經濟發展指數為128.8】自然資源部今天釋出的《2026中國海洋經濟發展指數》顯示，去年，中國海洋經濟發展指數為128.8，比上年增長2.2%，海洋經濟發展向新向優。"
-    },
-    {
-      "id": "mkt:019eafaf-741b-7444-ba07-9efec591b52e",
-      "time": "2026-06-10 11:59:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "AI Revolution",
-        "XPEV.O",
-        "Impact bullish"
-      ],
-      "text": "【Xpeng CEO He Xiaopeng to personally lead humanoid robot unit; final 200-day sprint to mass production】June 10 — Xpeng CEO He Xiaopeng said in an internal memo he will personally take direct charge of the company’s humanoid robot unit and, effective immediately, will concurrently serve as the robot business “CEO”. He described the program as at a critical stage—comparable to Xpeng Auto eight years ago before the G3 launch—and said the company is on the threshold of mass production and commercialization, initiating a final 200-day sprint to ramp production."
-    },
-    {
-      "id": "4927257",
-      "time": "2026-06-10 11:59:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華金資本：未直接投資芯潮流，相關投資對公司盈利無重大影響】華金資本6月10日在互動平臺表示，公司及控股子公司未直接投資芯潮流（珠海）科技有限公司；公司子公司管理的基金參與了該公司的投資，現階段不會對公司盈利狀況構成重大影響。截至目前，公司現有電容產品不涉及AI伺服器。"
-    },
-    {
-      "id": "4927256",
-      "time": "2026-06-10 11:59:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行：仍認為印尼盾匯率與政府預期一致，維持在16,800-17,500之間。"
-    },
-    {
-      "id": "4927255",
-      "time": "2026-06-10 11:58:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【悉尼邦迪灘槍擊案嫌疑人被加控19項罪名】澳大利亞聯邦檢方10日在悉尼唐寧中心地方法院說，已提交檔案對涉嫌參與去年12月悉尼邦迪灘槍擊案嫌疑人納維德·阿克拉姆追加19項罪名指控。根據法庭記錄，這些新指控包括10項“意圖謀殺而開槍”罪名、6項“意圖拒捕而開槍”罪名以及3項“意圖謀殺而致人受傷或嚴重身體傷害”罪名。其辯護律師萊奧妮·吉塔尼表示，阿克拉姆知道他可能面臨更多指控。她表示，阿克拉姆尚未認罪。悉尼邦迪灘去年12月發生槍擊事件，造成包括1名作案嫌疑人在內的16人死亡。"
-    },
-    {
-      "id": "4927254",
-      "time": "2026-06-10 11:58:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行預計，印尼經濟增長將達到2027年目標區間的高階。"
-    },
-    {
-      "id": "te:economy:557880",
-      "time": "2026-06-10 11:58:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Indonesia Consumer Sentiment at 8-Month Low — Indonesia’s consumer confidence index fell to 120.9 in May 2026 from 123 in the previous month, marking its lowest level since September 2025. The moderation was largely driven by weaker assessments of current economic conditions, which fell by 4.3 points to 112.2. Sentiment toward durable goods purchases also declined by 4.3 points to 108.3, while perceptions of job availability over the past six months fell by 3.8 points to 105. Moreover, expectations for income over the next six months eased by 0.4 points to 136.5. In contrast, expectations regarding job availability and business activity improved marginally, with both indices rising by 0.4 points to 128.1 and 124.5, respectively. Despite the decline, overall consumer sentiment remained firmly in optimistic territory, indicating continued confidence in the economic outlook."
-    },
-    {
-      "id": "4927253",
-      "time": "2026-06-10 11:57:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【何小鵬發內部信：本人親自帶隊，最後200天衝刺機器人量產】6月10日，何小鵬發出內部信，宣告自己將親自下場直管機器人業務。何小鵬在內部信中稱，小鵬人形機器人現在所處的階段尤為關鍵，相當於8年前小鵬汽車即將完成第一款車G3釋出的階段，正站在量產交付的門檻上。"
     }
   ]
 }
