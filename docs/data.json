@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-17 12:05:54",
-  "count": 18330,
+  "updated": "2026-06-17 12:09:57",
+  "count": 18336,
   "items": [
+    {
+      "id": "4939934",
+      "time": "2026-06-17 12:09:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人就地緣政治問題發表宣告。"
+    },
+    {
+      "id": "4939931",
+      "time": "2026-06-17 12:08:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【振芯科技：公司現有產品暫不涉及電容業務】振芯科技(300101)6月17日在互動平臺表示，公司積體電路產品以處理模擬和數字訊號的數模混合積體電路為主，包括北斗基帶SOC、直接數字頻率合成器、數模/模數轉換器、鎖相環、時鐘驅動器和時鐘分配器、軟體無線電、矽基多功能MMIC、影片訊號處理SOC、高速介面等產品。截至目前，公司現有產品暫不涉及電容業務。"
+    },
+    {
+      "id": "4939930",
+      "time": "2026-06-17 12:08:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法國將為公職人員配備“主權可控”的AI工具】法國總理勒科爾尼16日在社交媒體平臺上說，法國將為公職人員配備一個主權可控的對話式人工智慧（AI）助手，避免依賴外國技術工具，確保國家資料得到保護。據介紹，這項工作將由法國政府的跨部門數字事務管理局主導。這款名為“AI助手”的工具由法國米斯特拉爾人工智慧公司協助開發，可以幫助公職人員進行對話、文件轉錄、文件分析、內容生成等。"
+    },
+    {
+      "id": "mkt:019ed3c4-6d56-7dd8-b041-76e2d4b6208f",
+      "time": "2026-06-17 12:08:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "USDCHF",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Bank wealth managers quietly cleared for interbank FX and Bond Connect Southbound access】Chinese bank wealth management firms have been granted two market access approvals. On June 16 Bank of China Wealth Management completed the first interbank FX trade by a wealth manager via the China Foreign Exchange Trade System with Bank of China, executing USD/CHF spot and forward trades. Separately, three wealth managers received first-batch qualification to participate in Bond Connect Southbound; the inaugural Southbound transaction landed at the end of last month and was executed by CMB Wealth Management with Bank of Communications’ Hong Kong branch, which said it proactively coordinated and completed preparations after the participant expansion. Industry sources say the other two initial Bond Connect-qualified firms are wealth-management arms of two state-owned banks."
+    },
+    {
+      "id": "4939929",
+      "time": "2026-06-17 12:08:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光數科與螞蟻數科達成戰略合作，共建AI保險應用聯合實驗室】據陽光保險集團訊息，6月16日，陽光保險集團旗下陽光數智科技有限責任公司與螞蟻區塊鏈科技（上海）有限公司在北京正式簽署戰略合作協議。雙方將深度融合AI技術與保險業務洞察，打造覆蓋保險全流程的智慧化解決方案，共同探索保險行業數字化轉型的新路徑。"
+    },
+    {
+      "id": "4939928",
+      "time": "2026-06-17 12:07:53",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【銀行理財兩大業務資質低調開閘】銀行理財迎利好，近日兩大業務資質低調開閘。記者獲悉，銀行理財公司近日被首度引入銀行間外幣對市場，於6月16日完成理財資金在該市場的首筆交易；同時，三家理財公司已低調獲批首批債券通“南向通”參與主體資格，首筆交易於上月末落地。具體來看，銀行理財在銀行間外幣對市場的首筆交易由，由中銀理財依託外匯交易中心平臺與中國銀行達成，業務品種是美元對瑞士法郎的即期、遠期交易。而銀行理財在債券通“南向通”的首筆交易，由招銀理財和交行香港分行達成。據交行香港分行，在債券通“南向通”參與主體擴容後，該行主動對接理財公司，並迅速完成相關交易籌備流程。另據記者獨家從業內多方確認，另外兩家獲得債券通“南向通”首批資格的理財公司，是兩家國有行理財公司。（ 證券時報  ）"
+    },
+    {
+      "id": "4939927",
+      "time": "2026-06-17 12:07:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國盾量子等取得量子通訊工程技術領域新突破】近日，國盾量子攜手國科量子，將緊湊型量子金鑰分發（QKD）模組整合至光傳輸網路（OTN）裝置，實現量子訊號與經典光訊號同機框、同光纖下的穩定執行。成果有望進一步推動量子通訊網路規模化部署，發表於國際期刊《Optical Fiber Technology》。"
+    },
+    {
+      "id": "4939926",
+      "time": "2026-06-17 12:07:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車要求各競標方下週提交發動機單元的最終報價。（英國金融時報）"
+    },
+    {
+      "id": "te:markets:559566",
+      "time": "2026-06-17 12:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Extends Decline for Fifth Straight Session — Brent fell toward $78 per barrel on Wednesday, sliding for the fifth straight session and reaching its lowest level since early March, as expectations of increased supply continued to weigh on prices ahead of the signing of a peace agreement between the US and Iran. The two countries are scheduled to sign an interim deal in Switzerland on Friday, offering Tehran broad economic incentives, including the immediate resumption of its oil exports. Tankers from other nations are also expected to resume passage through the Strait of Hormuz once the agreement takes effect, although shipping companies remain cautious about its long-term durability. Additional supplies from the region are expected to replenish refinery inventories globally, alongside higher OPEC+ export quotas and increased output from the UAE, which left the cartel during the conflict. Meanwhile, industry data showed that US crude inventories declined by 8.3 million barrels last week."
+    },
+    {
+      "id": "te:markets:559565",
+      "time": "2026-06-17 12:06:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Oil Extends Decline for Fifth Straight Session — Crude oil fell toward $75 per barrel on Wednesday, sliding for the fifth straight session and reaching its lowest level since early March, as expectations of increased supply continued to weigh on prices ahead of the signing of a peace agreement between the US and Iran. The two countries are scheduled to sign an interim deal in Switzerland on Friday, offering Tehran broad economic incentives, including the immediate resumption of its oil exports. Tankers from other nations are also expected to resume passage through the Strait of Hormuz once the agreement takes effect, although shipping companies remain cautious about its long-term durability. Additional supplies from the region are expected to replenish refinery inventories globally, alongside higher OPEC+ export quotas and increased output from the UAE, which left the cartel during the conflict. Meanwhile, industry data showed that US crude inventories declined by 8.3 million barrels last week."
+    },
+    {
+      "id": "4939925",
+      "time": "2026-06-17 12:05:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石基資訊披露發行股份購買資產報告書（草案）】石基資訊披露購買資產報告書（草案），擬透過發行股份的方式向上海雲鑫、張育宏和張偉3名交易對方購買其持有的思迅軟體13.50%股份（對應思迅軟體14,312,500股）"
+    },
     {
       "id": "mkt:019ed3c0-a10c-7dd8-b041-6fc6e8acb67c",
       "time": "2026-06-17 12:04:37",
@@ -168579,52 +168680,6 @@
         "宏觀"
       ],
       "text": "【臺灣電價調整到“史上最貴” 國臺辦：民進黨當局一心謀“獨” 罔顧民生】6月10日，國務院臺辦舉行例行新聞釋出會。有記者問：近日，隨著夏季來臨，高溫炎熱，島內民眾冷氣、冰櫃等用電量攀升，民進黨當局卻調整民生電價，堪稱“史上最貴”。對此發言人有何評論？發言人張晗表示，民進黨當局經常妄言“供電無虞”，事實是臺灣民眾早已承受了太多的停電、限電。如今夏季電價再創新高，不只門店受害，眾多從業人員、消費者的利益也連帶受損。這再一次證明民進黨當局一心謀“獨”，罔顧民生、損害民利。"
-    },
-    {
-      "id": "mkt:019eafb7-6c90-7444-ba07-d516e6fdb3ee",
-      "time": "2026-06-10 12:08:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) fell over 2%."
-    },
-    {
-      "id": "4927268",
-      "time": "2026-06-10 12:07:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌2%至43,795.47點。"
-    },
-    {
-      "id": "4927267",
-      "time": "2026-06-10 12:07:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【調查：日本央行將在6月把指標利率上調至1.00%】路透調查顯示，94%的受訪經濟學家預測，日本央行將在6月把指標利率上調至1.00%（5月調查時65%經濟學家做此預測）；預估中值顯示，日本央行第四季將把利率上調至1.25%（與5月調查相同）。預估中值顯示，日本央行2027年第二季將把利率上調至1.50%（5月調查預測2027年第三季）。"
-    },
-    {
-      "id": "mkt:019eafb5-fecb-7444-ba07-cb6baea2ff2d",
-      "time": "2026-06-10 12:06:40",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Reuters survey: respondents expect the Bank of Japan to raise its policy rate to 1.25% in Q4, unchanged from the May survey."
-    },
-    {
-      "id": "mkt:019eafb5-7874-7444-ba07-c0a6b17d1374",
-      "time": "2026-06-10 12:06:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reuters survey: 94% of economists expect the Bank of Japan to raise its key rate to 1.00% in June (May survey: 65%)."
     }
   ]
 }
