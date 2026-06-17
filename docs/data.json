@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-18 05:09:47",
-  "count": 18763,
+  "updated": "2026-06-18 05:13:57",
+  "count": 18758,
   "items": [
+    {
+      "id": "4941854",
+      "time": "2026-06-18 05:10:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO庫克拒絕透露漲價的具體時間節點。"
+    },
     {
       "id": "4941853",
       "time": "2026-06-18 05:09:11",
@@ -172938,61 +172946,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收跌0.22%，報15187點。"
-    },
-    {
-      "id": "te:economy:558160",
-      "time": "2026-06-11 05:12:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "El Salvador",
-        "Producer Prices Change",
-        "Importance 0"
-      ],
-      "text": "El Salvador Producer Prices Rise in May — Producer prices in El Salvador rose by 2.78% year-on-year in May 2026, accelerating from a 1.59% increase in the previous month. The pickup was largely driven by higher costs for electricity, gas, steam and air conditioning (10.34% vs 1.70% in April), activities of administrative and support services (5.20% vs 4.62%), healthcare and social assistance (4.44%, unchanged), transport and storage (3.22% vs 3.26%), and accommodation and food services (2.59% vs 2.20%). Producer prices continued to decline for information and telecommunications (-0.07%, unchanged), while water supply, sewerage, waste management and remediation activities also remained in negative territory (-0.15% vs 0.01%). Other notable increases were recorded in real estate activities (1.36% vs 0.81%) and other service activities (3.80% vs 2.23%)."
-    },
-    {
-      "id": "4929000",
-      "time": "2026-06-11 05:12:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普召開戰情室會議討論對伊朗軍事行動】據美國方面訊息，美國總統特朗普於當地時間6月10日下午在白宮戰情室召開會議，討論針對伊朗可能採取的新一輪打擊行動。此前，特朗普威脅將對伊朗發動“猛烈打擊”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb360-41de-7dd8-afac-dac5f0bddb5e",
-      "time": "2026-06-11 05:11:30",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact mixed"
-      ],
-      "text": "Oracle (ORCL.N) CFO said the company expects an additional 34% of remaining performance obligations to be recognized over the next 13–36 months."
-    },
-    {
-      "id": "mkt:019eb360-1f1c-7dd8-afac-d03b5b9fdf84",
-      "time": "2026-06-11 05:11:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA said fighter-jet noises heard in parts of Lorestan province, western Iran, were related to friendly aircraft operations."
-    },
-    {
-      "id": "4928999",
-      "time": "2026-06-11 05:11:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：洛雷斯坦省部分割槽域出現的戰機聲響，系己方軍機飛行所致。繼洛雷斯坦省多地傳出戰機轟鳴聲後，經核查確認，該聲響來自己方戰機執行常規巡邏與空中偵察任務。"
-    },
-    {
-      "id": "mkt:019eb35f-4ef2-7dd8-afac-cfa60a1a8f48",
-      "time": "2026-06-11 05:10:28",
-      "tags": [
-        "MKT News",
-        "ORCL.N"
-      ],
-      "text": "Oracle (ORCL.N) CFO said the company expects 12% of remaining performance obligations to be recognized over the next 12 months."
     }
   ]
 }
