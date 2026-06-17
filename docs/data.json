@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-17 23:30:43",
+  "updated": "2026-06-17 23:34:57",
   "count": 18463,
   "items": [
+    {
+      "id": "mkt:019ed637-11e1-7dd8-b057-ede734c2ab38",
+      "time": "2026-06-17 23:33:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 4-month Treasury bill auction through June 17: 11.86% of awards allocated at the stop-out yield, versus 16.25% previously."
+    },
+    {
+      "id": "mkt:019ed636-dd96-7dd8-b057-e4dea08cda47",
+      "time": "2026-06-17 23:32:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. four-month Treasury bill auction to June 17 — stop-out yield 3.67%, prior 3.67%."
+    },
+    {
+      "id": "mkt:019ed636-bfc2-7dd8-b057-dea029fad103",
+      "time": "2026-06-17 23:32:52",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Jun.17) | actual 3.67% | previous 3.67%"
+    },
+    {
+      "id": "mkt:019ed636-b736-7dd8-b057-d786110376ba",
+      "time": "2026-06-17 23:32:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 4-month Treasury auction on June 17 – bid-cover ratio 2.87; prior 2.88."
+    },
+    {
+      "id": "mkt:019ed636-92ed-7dd8-b057-ca5637c8a13e",
+      "time": "2026-06-17 23:32:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.17) | actual 2.87 | previous 2.88"
+    },
+    {
+      "id": "te:markets:559774",
+      "time": "2026-06-17 23:32:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Newmont Mining Stock Price Hits 4-week High — Newmont Mining shares increased to 111.95 USD, the highest since May 2026. Over the past 4 weeks, Newmont Mining gained 1.89%, and in the last 12 months, it increased 92.12%."
+    },
+    {
+      "id": "4941435",
+      "time": "2026-06-17 23:32:24",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.670%，投標倍數2.87。"
+    },
+    {
+      "id": "mkt:019ed635-d0cc-7dd8-b057-c72eb58cccdb",
+      "time": "2026-06-17 23:31:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Oxford Economics: Canadian core CPI to remain subdued through end-2026】Oxford Economics expects Canadian core inflation to stay below 2% for the remainder of 2026, citing spare capacity, slowing population growth and business and household uncertainty from U.S. trade policy, the Middle East conflict and AI deployment. Economist Michael Davenport said the BOC would need to see \"clear signs of broadened inflation\" across the CPI basket and a rise in long-term inflation expectations to justify rate hikes this year. Oxford's baseline anticipates a 50bp BOC policy rate increase in 1H 2027, but Davenport said that outlook depends on the outcome of U.S.-Canada trade talks."
+    },
+    {
+      "id": "4941434",
+      "time": "2026-06-17 23:31:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【軟銀縮減拉美投資佈局，當地創投熱潮消退】隨著拉美地區的科技熱潮在吸引創紀錄的風險資本後逐漸降溫，軟銀集團正難以在當地找到準備好接受大額投資的初創企業。軟銀表示，符合其5000萬美元及以上主力投資門檻的企業數量正在減少，目前正對少數潛在目標進行評估。過去兩年，軟銀僅完成了兩筆新增交易。其管理合夥人表示，由於拉美地區在硬體產能、基礎設施和人才儲備方面存在短板，很難找到能與歐洲、美國及亞洲相媲美的優質企業。"
+    },
+    {
+      "id": "4941433",
+      "time": "2026-06-17 23:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌0.08%，報24891.45點。法國股指初步收跌0.33%，義大利股指初步收漲0.09%、銀行指數漲1.29%，英國股指初步收跌0.04%。"
+    },
+    {
+      "id": "4941432",
+      "time": "2026-06-17 23:30:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.31%，報637.99點。歐元區STOXX 50指數初步收漲0.45%，報6285.79點。富時泛歐績優300指數初步收漲0.35%，報2552.28點。"
+    },
+    {
+      "id": "te:economy:559773",
+      "time": "2026-06-17 23:30:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Rises by 10 bps — Majority of government bonds yields are lower on Wednesday. Top gainers are Brazil 10Y (10bps). Biggest losers are Japan 10Y (-4.23bps), Germany 10Y (-1.48bps) and US 10Y (-1.20bps)."
+    },
     {
       "id": "4941431",
       "time": "2026-06-17 23:29:49",
@@ -169657,130 +169778,6 @@
         "Important"
       ],
       "text": "Matsumoto, nominee to head the U.S. Bureau of Labor Statistics, said she believes the CPI data are accurate."
-    },
-    {
-      "id": "4928715",
-      "time": "2026-06-10 23:34:33",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國勞工統計局局長提名人松本：我認為消費者價格指數（CPI）是準確的。"
-    },
-    {
-      "id": "mkt:019eb22b-c2dd-7dd8-afa7-b0a7ed80c82c",
-      "time": "2026-06-10 23:34:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Matsumoto, nominee to lead the US Bureau of Labor Statistics, said they do not consider it appropriate to be seen as either a cheerleader or a critic of the US economy."
-    },
-    {
-      "id": "4928714",
-      "time": "2026-06-10 23:33:14",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "OpenAI正籌備全新人工智慧模型，預計一年內完成上市。"
-    },
-    {
-      "id": "4928713",
-      "time": "2026-06-10 23:33:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國勞工統計局局長提名人松本：我認為，將我視為美國經濟的拉拉隊或批評者都不合適。"
-    },
-    {
-      "id": "mkt:019eb22a-41db-7dd8-afa7-ad9c4acc8c67",
-      "time": "2026-06-10 23:32:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. 4-month Treasury bill auction through June 10: percentage of allotment at the stop-out yield 16.25%, prior 93.35%."
-    },
-    {
-      "id": "mkt:019eb22a-1b79-7dd8-afa7-a19248c0af62",
-      "time": "2026-06-10 23:32:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US 4-month Treasury auction on June 10 — BID-COVER RATIO 2.88, prior 3.15."
-    },
-    {
-      "id": "mkt:019eb229-ee47-7dd8-afa7-99c0c4647bfa",
-      "time": "2026-06-10 23:32:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jun.10) | actual 2.88 | previous 3.15"
-    },
-    {
-      "id": "mkt:019eb229-ed4a-7dd8-afa7-92a8d1059367",
-      "time": "2026-06-10 23:32:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "US 4-month Treasury auction on Jun 10 — stop-out yield 3.665% vs 3.64% previously."
-    },
-    {
-      "id": "4928712",
-      "time": "2026-06-10 23:32:31",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四個月期國債，得標利率3.665%，投標倍數2.88。"
-    },
-    {
-      "id": "4928711",
-      "time": "2026-06-10 23:32:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中際旭創：公司被美國國防部列入1260H清單 該認定和依據均不符合客觀事實】中際旭創公告，公司注意到美國國防部將公司列入“1260H清單”。公司確認，將中際旭創列入名單的認定和依據均是不符合客觀事實的，中際旭創既非中國軍工企業，也不是軍民融合企業，公司將以充分的事實進行有效溝通並採取合適的措施以維護利益。本次事件未對公司經營產生實質性影響，公司訂單獲取、生產運營及供應鏈等情況一切正常。"
-    },
-    {
-      "id": "mkt:019eb229-ca1a-7dd8-afa7-8b77351b1dc0",
-      "time": "2026-06-10 23:32:23",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Jun.10) | actual 3.665% | previous 3.64%"
-    },
-    {
-      "id": "4928710",
-      "time": "2026-06-10 23:31:36",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數平收，歐元斯托克指數下跌0.3%，歐元區藍籌股指數下跌0.39%。法國CAC 40指數下跌0.29%，西班牙IBEX指數下跌0.08%，英國富時100指數上漲0.27%，德國DAX指數下跌0.88%。"
     }
   ]
 }
