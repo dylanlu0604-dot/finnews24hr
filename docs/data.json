@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-18 06:07:24",
+  "updated": "2026-06-18 06:11:27",
   "count": 18791,
   "items": [
+    {
+      "id": "4941923",
+      "time": "2026-06-18 06:10:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人： 若以色列政權持續襲擊黎巴嫩，該行為將構成對方違反諒解備忘錄項下承諾。 我們不會將美國與以色列政權割裂看待，儘管二者行事手段與方針的差異十分明顯。 以色列政權不願給任何外交程序一絲推進空間。但美國有責任迫使以色列政權遵守美方在本協議中對伊朗作出的承諾。"
+    },
+    {
+      "id": "4941922",
+      "time": "2026-06-18 06:09:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本製鐵副總裁：日本製鐵對美國鋼鐵的整改措施“尚未滿意”。"
+    },
+    {
+      "id": "mkt:019ed7a0-c1ae-7dd8-b065-5d271e987656",
+      "time": "2026-06-18 06:08:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry spokesman said Israel's continued attacks on Lebanon would be regarded as a breach of commitments."
+    },
+    {
+      "id": "4941921",
+      "time": "2026-06-18 06:08:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：若以色列繼續攻擊黎巴嫩，此舉將被視為違反承諾。"
+    },
     {
       "id": "mkt:019ed79f-1154-7dd8-b065-5581abcaf438",
       "time": "2026-06-18 06:06:26",
@@ -173178,41 +173215,6 @@
         "MKT News"
       ],
       "text": "WTI crude topped $93/barrel, up 0.35% intraday."
-    },
-    {
-      "id": "4929044",
-      "time": "2026-06-11 06:11:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報62.69美元/盎司。"
-    },
-    {
-      "id": "mkt:019eb396-253b-7dd8-afad-be03d89e841d",
-      "time": "2026-06-11 06:10:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell 1.00% in early trade to $62.74/oz."
-    },
-    {
-      "id": "mkt:019eb393-a2f7-7dd8-afad-b59c683a04f7",
-      "time": "2026-06-11 06:07:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian media reported that U.S. vessels near the Strait of Hormuz have been targeted by missile and drone strikes by the Iranian armed forces."
-    },
-    {
-      "id": "4929042",
-      "time": "2026-06-11 06:07:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：伊朗武裝部隊動用導彈和無人機，對霍爾木茲海峽附近的美軍艦船發起襲擊。"
     }
   ]
 }
