@@ -1,7 +1,635 @@
 {
-  "updated": "2026-06-17 13:14:37",
-  "count": 18335,
+  "updated": "2026-06-17 13:45:09",
+  "count": 18354,
   "items": [
+    {
+      "id": "4940042",
+      "time": "2026-06-17 13:44:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銳歐光電完成3000萬元戰略融資】近日，AI 感知光學玻璃新材料核心供應商——江蘇銳歐光電科技有限公司（簡稱“銳歐光電”）宣佈完成總額3000萬元戰略融資。本次融資由宿遷市蘇宿園區城發集團與上海產業智慧財產權運營投資管理有限公司聯合出資。據銳歐光電介紹，本次融資資金將投向以下三大板塊：宿遷智慧工廠產線裝置採購、智慧化產線搭建，擴充高階光學玻璃量產產能；AI感知特種光學新材料研發實驗室建設，擴充研發團隊，攻堅高折射率、低色散前沿光學配方；智慧財產權體系搭建、市場渠道拓展，全面提速上市籌備工作。"
+    },
+    {
+      "id": "4940041",
+      "time": "2026-06-17 13:43:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利通電子成立科技新公司 含雲端計算裝備技術業務】企查查APP顯示，近日，宜興雲智匯科技有限公司成立，經營範圍包含：工業網際網路資料服務；大資料服務；雲端計算裝備技術服務；工業控制計算機及系統銷售等。企查查股權穿透顯示，該公司由利通電子全資持股。"
+    },
+    {
+      "id": "mkt:019ed41b-06f7-7dd8-b043-3fc9c48cd428",
+      "time": "2026-06-17 13:43:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "A-share semiconductor sector accelerated in the afternoon: Shengmei Shanghai hit a 20% limit-up; Saiteng Co and Shengjian Technology had earlier limit-ups. Tuojing Technology jumped over 10%, while Huafeng Measurement & Control, Huahai Qingke, Jingzhida, Changchuan Technology and AMEC rose more than 6%."
+    },
+    {
+      "id": "mkt:019ed41a-b927-7dd8-b043-37603791e812",
+      "time": "2026-06-17 13:43:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Israel strikes southern Lebanon multiple times】Lebanese media reported on the 17th that Israel struck southern Lebanon multiple times."
+    },
+    {
+      "id": "mkt:019ed41a-1bdc-7dd8-b043-2f494dc0bca1",
+      "time": "2026-06-17 13:42:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bullish",
+        "06809.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong AI-themed recent listings rallied in the afternoon: Zhipu (02513.HK) and Lanqi Technology (06809.HK) rose over 11%, Zhaoyi Innovation (03986.HK) advanced more than 9%, MINIMAX-W (00100.HK) gained over 7%, and Aixin Yuanzhi (00600.HK) also climbed."
+    },
+    {
+      "id": "4940040",
+      "time": "2026-06-17 13:42:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "據黎巴嫩媒體17日報道，黎巴嫩南部遭以色列多次襲擊。"
+    },
+    {
+      "id": "mkt:019ed419-b228-7dd8-b043-21a8143259b0",
+      "time": "2026-06-17 13:41:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "G7 committed to reduce reliance on the Strait of Hormuz and to increase strategic energy reserves."
+    },
+    {
+      "id": "4940039",
+      "time": "2026-06-17 13:41:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人承諾降低對霍爾木茲海峽的依賴，增加能源儲備。"
+    },
+    {
+      "id": "4940038",
+      "time": "2026-06-17 13:40:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【覓蜂科技獲數億元天使+輪融資】近日，一站式物理AI資料服務平臺覓蜂科技完成新一輪數億元天使 + 輪戰略融資。本輪由國方創投領投，孚騰資本、上海電科基金、元啟創新等跟投，老股東均普智慧、鼎暉VGC持續追加投資。"
+    },
+    {
+      "id": "4940037",
+      "time": "2026-06-17 13:39:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達4％，成分股中，盛美上海漲20％，拓荊科技漲11.8％，華海清科漲10％，晶合整合漲8.7％。"
+    },
+    {
+      "id": "mkt:019ed417-3294-7dd8-b043-19bb09c5cd06",
+      "time": "2026-06-17 13:39:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "G7 supports an immediate, robust ceasefire in Lebanon to back Lebanese leadership's efforts to disarm Hezbollah."
+    },
+    {
+      "id": "4940036",
+      "time": "2026-06-17 13:38:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人：我們支援透過黎巴嫩立即實現強力停火，支援黎巴嫩領導層為解除真主黨武裝所做的努力。"
+    },
+    {
+      "id": "mkt:019ed416-e00d-7dd8-b043-15be431fd267",
+      "time": "2026-06-17 13:38:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: demand-driven price pressures in May exceeded prior levels."
+    },
+    {
+      "id": "mkt:019ed415-f58b-7dd8-b043-08b84e196ee8",
+      "time": "2026-06-17 13:37:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G7 supports and stands ready to contribute to implementation of the US-Iran agreement."
+    },
+    {
+      "id": "4940035",
+      "time": "2026-06-17 13:37:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人：我們支援並準備為美伊協議的落實提供助力。"
+    },
+    {
+      "id": "4940034",
+      "time": "2026-06-17 13:37:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京電動腳踏車註冊、登出、變更資訊可線上申請】從北京公安交管局獲悉，“北京交警”App正式推出電動腳踏車註冊登記、登出登記、聯絡方式變更三項高頻業務線上辦理功能。群眾可透過“北京交警”App線上申報、預約後，選擇合適的非機動車登記站或登記服務點就近辦理。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606173774381512",
+      "time": "2026-06-17 13:37:13",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【金融結構正發生深刻變化！央行最新發聲釋放了哪些訊號？】潘功勝表示，金融結構有很多衡量的維度，融資結構是其中最重要的維度。長期以來，中國的金融結構由銀行貸款主導，金融市場的規模較小。近年來，以銀行貸款為主體的間接融資佔比持續下降，包括債券、股票在內的直接融資佔比穩步上升，金融結構正在發生深刻的變化。"
+    },
+    {
+      "id": "4940033",
+      "time": "2026-06-17 13:37:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三人行投資成立未來數字科技公司】企查查APP顯示，近日，南京三人行未來數字科技有限公司成立，經營範圍包含：資訊系統整合服務；計算機系統服務；數字技術服務；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由三人行全資持股。"
+    },
+    {
+      "id": "4940032",
+      "time": "2026-06-17 13:36:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人重申，不受限制、不徵收通行費的過境通行權是國際貿易的基石。"
+    },
+    {
+      "id": "4940031",
+      "time": "2026-06-17 13:36:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "寶馬股價在Tradegate平臺上下跌6.9%。"
+    },
+    {
+      "id": "mkt:019ed414-d43f-7dd8-b043-07c3def0fb3e",
+      "time": "2026-06-17 13:36:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G7: Freedom of navigation without restrictions or charges is a cornerstone of international trade."
+    },
+    {
+      "id": "mkt:019ed414-cd12-7dd8-b042-fd2e5a107433",
+      "time": "2026-06-17 13:36:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) closed up 68.2 points, or 0.15%, at 45,877.39 on Wednesday, June 17."
+    },
+    {
+      "id": "mkt:019ed414-9523-7dd8-b042-f4312d63bcdc",
+      "time": "2026-06-17 13:36:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC governor Pan to narrow temporary overnight repo band, expand overnight reverse repos】At the Lujiazui Forum on June 17, PBOC governor Pan Gongsheng said the central bank will narrow the temporary overnight repo rate corridor from 70bps to a symmetric 50bps and will add overnight reverse-repo instruments as needed. Pan said the PBOC will move the timing of temporary repo operations earlier and disclosed trigger conditions: DR001 persistently below or above the corresponding temporary repo operation rate would activate the tool to better anchor market expectations. The measures are presented as accelerating the shift to a price-based monetary framework to strengthen transmission from policy rates to market rates. DR001 has traded about ±20bps around policy rates this year; the PBOC said specific overnight reverse-repo operational details will be set by market demand and implemented progressively."
+    },
+    {
+      "id": "4940030",
+      "time": "2026-06-17 13:36:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【專家解讀兩大舉措完善短端利率調控機制】中國人民銀行行長潘功勝6月17日在2026陸家嘴論壇上提出，完善短端利率調控機制的兩項舉措，一是將臨時隔夜正/逆回購的操作利率區間由此前的70bp收窄為對稱的50bp；二是將適時增加公開市場隔夜逆回購操作品種。專家表示，這是持續推動貨幣政策框架向價格型轉型，使政策利率向市場利率傳導不斷增強的重要舉措。今年以來，隔夜利率DR001基本在政策利率上下20bp的區間執行，央行順勢收窄臨時回購利率區間，也體現了穩中求進的總體原則。上述專家表示，央行此次還將臨時回購的操作時間適當提前，並披露了工具的觸發條件，即DR001持續低於或高於臨時回購相應操作利率，能更好穩定市場預期。專家表示，此次央行宣佈將適時增加隔夜逆回購品種，既是順應市場需求，也有利於增強短端利率調控的精準性和有效性。隔夜逆回購的具體操作安排將結合市場需求確定，也體現了循序漸進的改革思路。（中證金牛座）"
+    },
+    {
+      "id": "4940029",
+      "time": "2026-06-17 13:35:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "七國集團領導人歡迎美國與伊朗達成協議。"
+    },
+    {
+      "id": "4940028",
+      "time": "2026-06-17 13:35:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高0.1%報45,877.39。"
+    },
+    {
+      "id": "mkt:019ed413-6447-7dd8-b042-ebaaef159675",
+      "time": "2026-06-17 13:35:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "G7 says now is the appropriate time to take further measures against Russia."
+    },
+    {
+      "id": "4940027",
+      "time": "2026-06-17 13:34:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "七國集團領導人：此刻正是對俄羅斯推出額外措施的適當時機。"
+    },
+    {
+      "id": "4940026",
+      "time": "2026-06-17 13:34:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伯恩斯坦將理想汽車美國存託憑證目標價從19美元下調至15.50美元。"
+    },
+    {
+      "id": "4940025",
+      "time": "2026-06-17 13:34:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行申鉉松：五月份需求端價格壓力高於此前水平。"
+    },
+    {
+      "id": "4940024",
+      "time": "2026-06-17 13:34:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "七國集團領導人同意向烏克蘭增加空運防空能力、額外防空系統與攔截彈以及遠端作戰能力的供應。"
+    },
+    {
+      "id": "mkt:019ed412-9023-7dd8-b042-e1f063643932",
+      "time": "2026-06-17 13:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G7 agreed to boost Ukraine's air-defence capacity by supplying additional systems and interceptors and delivering long-range capabilities."
+    },
+    {
+      "id": "mkt:019ed412-50bf-7dd8-b042-d9dbc3239537",
+      "time": "2026-06-17 13:33:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "TASNIM NEWS reported Iran's Armed Forces Command issued a stern warning over Israel's breach of the Lebanon ceasefire."
+    },
+    {
+      "id": "4940023",
+      "time": "2026-06-17 13:33:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長申鉉松：應該關注基本面，而不是每日市場波動。"
+    },
+    {
+      "id": "mkt:019ed40f-c2d2-7dd8-b042-d43258aa8a57",
+      "time": "2026-06-17 13:31:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "LPG main contract plunged 8.00% intraday to 4,781.00 yuan/ton; fuel oil main contract fell 6.00% intraday to 3,122.00 yuan/ton."
+    },
+    {
+      "id": "mkt:019ed40f-bfcd-7dd8-b042-cd4cd2f3f586",
+      "time": "2026-06-17 13:31:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share Sci-Tech Innovation 50 Index rose more than 3% in afternoon trade; Shengmei Shanghai jumped over 19% and Tuojing Technology rose over 10%."
+    },
+    {
+      "id": "mkt:019ed40f-8c86-7dd8-b042-c5877454a409",
+      "time": "2026-06-17 13:30:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan plans to cut the food tax rate to 1% from April 2027, NHK says."
+    },
+    {
+      "id": "4940022",
+      "time": "2026-06-17 13:30:34",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓股上漲 SK海力士創下歷史新高】韓國綜指抹去早盤跌勢，漲幅擴大至1%，現報8817.86點。SK海力士上漲逾4%，創下歷史新高。三星電子下跌0.6%。電池廠商LG新能源上漲1.2%。美國股市納斯達克指數和標普500指數週二收低，受科技股拖累；而道瓊斯工業指數則連續第二日創下收盤歷史新高，SpaceX股價大漲，成為美國市值排名第五的公司。"
+    },
+    {
+      "id": "4940021",
+      "time": "2026-06-17 13:30:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將寶馬目標價從92歐元下調至70歐元。"
+    },
+    {
+      "id": "mkt:019ed40e-fa01-7dd8-b042-bff6c7040fed",
+      "time": "2026-06-17 13:30:11",
+      "tags": [
+        "MKT News",
+        "BMW.DE",
+        "Impact bearish"
+      ],
+      "text": "Jefferies cuts BMW target price to €70 from €92."
+    },
+    {
+      "id": "mkt:019ed40e-f67a-7dd8-b042-b064a5eaccc3",
+      "time": "2026-06-17 13:30:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000300.SS",
+        "Impact bearish",
+        "000001.SS"
+      ],
+      "text": "Onshore A-share prepackaged food sector plunged; Shuangqiang Technology hit intraday limit-down. Tiandi Online, Bubugao, Yike Foods, Shuangta Food, Tianma Technology and Haixin Food also declined."
+    },
+    {
+      "id": "4940020",
+      "time": "2026-06-17 13:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌6%，現報3134.00元。"
+    },
+    {
+      "id": "4940019",
+      "time": "2026-06-17 13:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5720.00元。"
+    },
+    {
+      "id": "4940018",
+      "time": "2026-06-17 13:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌4%，現報2603.00元。"
+    },
+    {
+      "id": "4940017",
+      "time": "2026-06-17 13:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌5%，現報3872.00元。"
+    },
+    {
+      "id": "4940016",
+      "time": "2026-06-17 13:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌8%，現報4655.00元。"
+    },
+    {
+      "id": "4940015",
+      "time": "2026-06-17 13:29:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【預製菜板塊大幅調整，雙槍科技盤中觸及跌停】預製菜板塊大幅調整，雙槍科技盤中觸及跌停，天地線上、步步高、益客食品、雙塔食品、天馬科技、海欣食品等跟跌。"
+    },
+    {
+      "id": "4940014",
+      "time": "2026-06-17 13:29:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達3.08%，成分股中，盛美上海漲18.27%，拓荊科技漲9.91%，華海清科漲7.66%，芯聯整合漲7.65%。"
+    },
+    {
+      "id": "4940013",
+      "time": "2026-06-17 13:29:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股期指上漲，標普500指數期貨上漲0.3%，納斯達克指數期貨上揚0.6%，布倫特原油期貨下跌1%。"
+    },
+    {
+      "id": "mkt:019ed40d-74fb-7dd8-b042-acd6ffd8c24a",
+      "time": "2026-06-17 13:28:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 futures rose 0.3%; Nasdaq futures rose 0.6%."
+    },
+    {
+      "id": "4940012",
+      "time": "2026-06-17 13:27:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報74.51美元/桶。"
+    },
+    {
+      "id": "4940011",
+      "time": "2026-06-17 13:26:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將馬士基的目標股價從14600丹麥克朗上調至15500丹麥克朗。"
+    },
+    {
+      "id": "mkt:019ed408-9f18-7dd8-b042-a17f9fc621e9",
+      "time": "2026-06-17 13:23:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Institution forecasts for Fed rate path: pause expected; views diverge on timing of cuts and upside risk】Most institutions expect the Fed to hold at the upcoming meeting and to remove dovish forward guidance; views diverge on timing and direction of the next move. MOODY'S: hold; cuts unlikely short-term, baseline no cut this year; could hike if inflation expectations rise. Nomura: hold; near-term cuts unlikely, possibly unchanged through 2026. JP Morgan: hold; rates to remain unchanged for the rest of the year, policy shifting from easing toward neutral. Wells Fargo: hold; would only hike if clear labour-market overheating or worse inflation. BNY MELLON: hold; statement likely to signal two-way risks and drop 2026 cut expectations; no moves this year. Goldman Sachs: hold; expects removal of easing guidance and two 25bp cuts in Jun and Dec 2027. UBS: hold; expects abandonment of dovish wording and 25bp cuts in Mar and Jun 2027. CITIGROUP: hold; expects three 25bp cuts in Sep, Oct and Dec. Commerzbank: hold; may begin cuts mid-next year, cumulative -75bp by end-2027. Capital Economics: hold but sees high probability of two “insurance” hikes in Dec and early next year. BNP Paribas: hold; little chance of pre-midterm hike, earliest hike in Dec, pace milder than 2022. Deutsche Bank: hold; baseline unchanged long-term but upside risk rising. PGIM: hold; expects three hikes this year, then three cuts in 2027 and one in 2028, terminal rate ~3.375%. Barclays, BofA, ANZ and Mitsubishi UFJ: expect hold and likely deletion of dovish phrasing; BofA may adjust employment wording and ANZ expects reaffirmed 2% inflation commitment. MFS: hold; may signal a neutral stance and consider dropping the dot-plot and reducing press-conference time."
+    },
+    {
+      "id": "4940010",
+      "time": "2026-06-17 13:23:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報8817.86點。"
+    },
+    {
+      "id": "mkt:019ed408-431b-7dd8-b042-983d2202a382",
+      "time": "2026-06-17 13:22:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI up 1.00% intraday."
+    },
+    {
+      "id": "4940009",
+      "time": "2026-06-17 13:22:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西班牙睿爍能源與委內瑞拉政府簽署協議，將勘探該國Horcon地區石油】西班牙睿爍能源(Repsol)表示，已與委內瑞拉政府簽署協議，將在馬拉開波湖(Lake Maracaibo)東南部的Horcon地區勘探並可能開發一處油藏。在經歷了多年的動盪之後，這份與委內瑞拉政府和國家石油公司PDVSA簽署的諒解備忘錄擴大了睿爍能源在該國的業務。今年4月，該公司表示將重新獲得Petroquiriquire油田的運營控制權。睿爍能源表示，還計劃對委內瑞拉近海的潛在機會進行可行性研究。"
+    },
+    {
+      "id": "mkt:019ed407-0508-7dd8-b042-963f999bb12b",
+      "time": "2026-06-17 13:21:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Indonesia's Trade Ministry said demand-side indicators show global gold buying activity has slowed amid ongoing volatility in international financial markets."
+    },
+    {
+      "id": "4940008",
+      "time": "2026-06-17 13:20:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦實際匯率為106.2 創近8年來新高】根據巴基斯坦中央銀行——巴基斯坦國家銀行的資料，實際有效匯率（REER）自3月份以來一直在上升。注：實際有效匯率（REER）是衡量一國一籃子商品價格相對於該國主要貿易伙伴國同類商品價格的指數。"
+    },
+    {
+      "id": "4940007",
+      "time": "2026-06-17 13:20:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行將西門子醫療目標價從60歐元下調至45歐元。"
+    },
+    {
+      "id": "4940006",
+      "time": "2026-06-17 13:19:07",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【麥格理：美伊達成臨時和平協議後，市場歡迎“常態“迴歸】麥格理的Thierry Wizman在一份報告中表示，在傳出美國和伊朗達成臨時和平協議及諒解備忘錄的訊息後，本週“常態“似乎已降臨市場。他說，這種“常態“在原油價格上表現得最為明顯。這位全球外匯和利率策略師表示：“這種某種程度上的常態恢復意味著，交易員本週可能會改為關注央行決議。“週三，美聯儲將公佈利率決議，這是新任主席凱文·沃什上任以來的首次決議。倫敦證券交易所集團的資料顯示，貨幣市場反映了維持利率不變的高機率預期。他說，麥格理也不想忽視原油價格持續下跌對外匯市場的重要性。"
+    },
+    {
+      "id": "4940005",
+      "time": "2026-06-17 13:18:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【麥記牛奶總經理謝永亮回應“品牌團隊跑路”“有罰款KPI”等傳聞：惡意誹謗】針對近期關於品牌團隊跑路、總部對加盟商有罰款KPI等一系列傳聞，糖水連鎖品牌麥記牛奶總經理謝永亮表示，是惡意誹謗。他對介面新聞稱，食品安全衛生是核心要素，對於違反食品安全的門店確實有適當處罰，這也是必須手段，同時也是所有連鎖品牌的常規管理措施，不存在不恰當之處。麥記牛奶目前門店數量在1000家左右。謝永亮對介面新聞稱，2026年3-4月整體業績確實下滑20%多，有淡季和大環境的影響因素。（介面新聞）"
+    },
+    {
+      "id": "4940004",
+      "time": "2026-06-17 13:17:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "快手科技股價上漲5.1%，報46.72港元。"
+    },
+    {
+      "id": "mkt:019ed403-2061-7dd8-b042-8dc3c353e2c5",
+      "time": "2026-06-17 13:17:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude slipped below $78/bbl, down 1.57% intraday."
+    },
+    {
+      "id": "4940003",
+      "time": "2026-06-17 13:17:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報78.17美元/桶。"
+    },
+    {
+      "id": "mkt:019ed401-307f-7dd8-b042-82d0cf43a62e",
+      "time": "2026-06-17 13:15:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reported a magnitude-3.6 earthquake at 13:11 on June 17 in Haixi prefecture, Qinghai (37.86N, 95.54E); hypocenter depth 10 km."
+    },
+    {
+      "id": "4939999",
+      "time": "2026-06-17 13:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月17日13時11分在青海海西州直轄區（北緯37.86度，東經95.54度）發生3.6級地震，震源深度10千米。"
+    },
     {
       "id": "4939998",
       "time": "2026-06-17 13:13:30",
@@ -168270,434 +168898,6 @@
         "公司"
       ],
       "text": "應用材料公司執行長：只要我們有八個季度的提前期，就有很高的信心能夠響應客戶需求。"
-    },
-    {
-      "id": "te:economy:557900",
-      "time": "2026-06-10 13:44:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Finnish Industrial Output Growth Slows in April — Industrial production in Finland grew by 1.9% year-on-year in April 2026, easing from a downwardly revised eleven-month high of 7.1% in the previous month. Production growth slowed in the manufacturing sector (1.1% vs. 5.7%), driven by lower output in the manufacture of beverages (-10.6% vs. 13.3%), paper and paper products (-4.0% vs. 4.5%), basic metals (-4.5% vs. 8.9%), and machinery and equipment n.e.c. (-0.3% vs. 3.2%), along with softer growth in wood and wood products (0.3% vs. 5.5%), the chemical industry (5.5% vs. 20.7%), other non-metallic mineral products (6.7% vs. 10.6%), and fabricated metal products, except machinery and equipment (1.2% vs. 6.3%). Electricity, gas, steam, and air-conditioning supply also moderated (8.6% vs. 15.5%), while output in mining and quarrying contracted (-4.5% vs. 12.9%). On a seasonally adjusted monthly basis, industrial output fell 2.6% in April, marking the steepest decline since March 2024 and reversing a 2.8% gain in the preceding period."
-    },
-    {
-      "id": "4927367",
-      "time": "2026-06-10 13:44:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "交易員稱：印度央行可能在開展一年期以上期限的美元/盧比買賣掉期交易。"
-    },
-    {
-      "id": "4927366",
-      "time": "2026-06-10 13:43:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電美股夜盤跌幅收窄至1.3%，此前一度跌超2.3%。"
-    },
-    {
-      "id": "4927365",
-      "time": "2026-06-10 13:43:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行將耐克股票評級從“跑贏大盤”下調至“與大盤持平”，並將目標股價從70美元下調至50美元。"
-    },
-    {
-      "id": "te:markets:557899",
-      "time": "2026-06-10 13:42:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Recovers Losses to Finish 0.4% Higher — The NZX 50 advanced 50 points, or 0.4%, to close at 13,254 on Wednesday, reversing morning weakness, extending gains from the previous session, and reaching its highest level since May 7, mainly buoyed by communication services, energy, and consumer discretionary stocks. The latest data from China also lifted sentiment, as consumer inflation remained steady, albeit slightly below expectations, while producer prices rose at their fastest pace in nearly four years amid rising oil prices. However, traders remained cautious ahead of US inflation data, which could guide the Federal Reserve's monetary policy at its upcoming meeting. Meanwhile, accelerating oil prices limited gains after the US military reportedly launched strikes against Iran in retaliation for the downing of an American helicopter. Among the top performers were A2 Milk (2.9%), Skellerup Holdings (2.3%), South Port NZ (2.3%), Freightways Group (2.2%), Fisher & Paykel (1.0%), Chorus (0.9%), and Port of Tauranga (0.9%)."
-    },
-    {
-      "id": "mkt:019eb00d-00c0-799a-b41c-c3261ee1172f",
-      "time": "2026-06-10 13:41:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Traders say the Reserve Bank of India may be selling dollars to support the rupee."
-    },
-    {
-      "id": "4927364",
-      "time": "2026-06-10 13:41:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "交易員稱，印度央行可能正在出售美元以提振盧比匯率。"
-    },
-    {
-      "id": "mkt:019eb00c-6f72-799a-b41c-b87eb8db796e",
-      "time": "2026-06-10 13:41:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell more than 1% intraday, trading at $88.78/bbl."
-    },
-    {
-      "id": "4927363",
-      "time": "2026-06-10 13:40:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光通訊板塊大幅調整，金時科技等跌停】光通訊板塊大幅調整，金時科技、三安光電、ST美克、ST得潤、寶勝股份、鑫科材料跌停，唯特偶、長進光子、騰景科技、紅板科技、環旭電子、精達股份等跟跌。"
-    },
-    {
-      "id": "4927362",
-      "time": "2026-06-10 13:39:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【越南允許煤礦企業提高產能以確保電力供應】據報道，越南允許煤礦企業在其現有采礦許可證規定的產量基礎上增加至多15%，以確保國家能源安全，多餘的煤炭產量只能用於發電。包括額外部分在內的煤炭總產量必須在核定儲量範圍內。該決定自6月9日起生效，至明年12月31日止。"
-    },
-    {
-      "id": "mkt:019eb00a-f304-799a-b41c-b594b3028e44",
-      "time": "2026-06-10 13:39:28",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "South Korean won (KRW) rose against the dollar after reports that FX buying tied to a SpaceX IPO had been absorbed."
-    },
-    {
-      "id": "mkt:019eb00a-268d-799a-b41c-aa037b3aeded",
-      "time": "2026-06-10 13:38:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shenzhen Fengyi Technology Group Co., Ltd. has filed a listing application with HKEX, per HKEX documents."
-    },
-    {
-      "id": "mkt:019eb00a-14b5-799a-b41c-a7974b82c2cc",
-      "time": "2026-06-10 13:38:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【TAIEX closes at three-week low】On Wednesday, June 10 the Taiwan Stock Exchange Weighted Index (TAIEX) fell 1,478.9 points, or 3.31%, to 43,225.54 at the close, a three-week low."
-    },
-    {
-      "id": "4927361",
-      "time": "2026-06-10 13:38:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：深圳市豐宜科技集團股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4927360",
-      "time": "2026-06-10 13:35:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣加權股價指數收低3.3%報43,225.54。"
-    },
-    {
-      "id": "4927359",
-      "time": "2026-06-10 13:34:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時放量533億元。"
-    },
-    {
-      "id": "4927358",
-      "time": "2026-06-10 13:34:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼氣象機構表示，該國已做好應對旱季森林火災風險升高的準備。"
-    },
-    {
-      "id": "4927357",
-      "time": "2026-06-10 13:34:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電5月銷售額環比增長1.5%。"
-    },
-    {
-      "id": "mkt:019eb005-8e7d-799a-b41c-9ec60a559858",
-      "time": "2026-06-10 13:33:34",
-      "tags": [
-        "MKT News",
-        "02583.HK",
-        "Impact bullish"
-      ],
-      "text": "Xipuni (02583.HK) rallies more than 70%."
-    },
-    {
-      "id": "mkt:019eb004-a7a3-799a-b41c-9343061d5d22",
-      "time": "2026-06-10 13:32:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O",
-        "Impact bullish"
-      ],
-      "text": "TSMC reported sales of NT$1.96 trillion in the first five months of the year, up 30% YoY."
-    },
-    {
-      "id": "4927356",
-      "time": "2026-06-10 13:32:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "佰維儲存成交額達100億元，現漲3.41%。"
-    },
-    {
-      "id": "4927355",
-      "time": "2026-06-10 13:32:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內跌4%，現報5477.00元。"
-    },
-    {
-      "id": "4927354",
-      "time": "2026-06-10 13:31:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電今年前5月銷售額1.96萬億臺幣，同比增長30%。"
-    },
-    {
-      "id": "mkt:019eb003-47a3-799a-b41c-8a10960680ad",
-      "time": "2026-06-10 13:31:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "2330.TW",
-        "Impact bullish"
-      ],
-      "text": "TSMC reported May revenue of NT$416.98 billion, versus NT$410.73 billion in April."
-    },
-    {
-      "id": "4927353",
-      "time": "2026-06-10 13:30:30",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "臺積電 5月銷售額4,169.8億元臺幣，同比增長30.1%。"
-    },
-    {
-      "id": "te:markets:557897",
-      "time": "2026-06-10 13:30:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Drops by 1.13% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.13% decrease."
-    },
-    {
-      "id": "4927352",
-      "time": "2026-06-10 13:29:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：韓國已消化約15億美元與SPACEX IPO相關的購匯需求。"
-    },
-    {
-      "id": "mkt:019eb001-ab6f-799a-b41c-86c11842d80f",
-      "time": "2026-06-10 13:29:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Sources say South Korea has absorbed about $1.5 bln of FX demand tied to the SpaceX IPO; once that demand was absorbed, downward pressure on the won eased."
-    },
-    {
-      "id": "4927351",
-      "time": "2026-06-10 13:27:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "南方兩倍做多海力士午後下跌17%，成交額近80億港元。"
-    },
-    {
-      "id": "4927350",
-      "time": "2026-06-10 13:27:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【現代汽車印度公司：供應商工廠將於6月22日前全面恢復運營】6月10日，現代汽車印度公司表示，預計供應商現代摩比斯印度製造工廠的全面生產將於6月22日前恢復。此前位於印度金奈的一家工廠因火災事故導致運營中斷，現代汽車印度公司預計，大部分產量損失將在下個季度內得到彌補。"
-    },
-    {
-      "id": "4927349",
-      "time": "2026-06-10 13:24:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，在部分員工離崗罷工後， KAKAO工會將於6月29日舉行全面罷工，預計約5000名員工參與此次行動。"
-    },
-    {
-      "id": "4927348",
-      "time": "2026-06-10 13:23:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓聯社報道：KAKAO工會稱將於6月29日再次罷工。"
-    },
-    {
-      "id": "4927347",
-      "time": "2026-06-10 13:23:27",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【印度儲備銀行出臺相關舉措後 Yes銀行上調非居民外幣存款利率】印度Yes銀行發言人透過簡訊表示，該行將3至5年期外幣非居民（銀行）存款利率上調300至335個基點。印度儲備銀行宣佈在2026年9月前為銀行全額承擔對沖成本後，Yes銀行成為首批上調存款利率的銀行之一。"
-    },
-    {
-      "id": "4927346",
-      "time": "2026-06-10 13:22:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創成交額達200億元，現跌2.46%】6月10日下午，中際旭創成交額達200億元，現跌2.46%。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606103766527645",
-      "time": "2026-06-10 13:21:17",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【美銀：6月加息後日本央行10月再次加息的機率約為50%】美銀全球研究的外匯及利率策略師ShusukeYamada表示，若日本央行在下週會議上採取鷹派立場加息，預計將對日元構成支撐；目前市場定價顯示，本次加息之後，10月會議再次加息的機率約為50%。"
-    },
-    {
-      "id": "4927345",
-      "time": "2026-06-10 13:20:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【無需簽證、說走就走！全國首個“無目的地海上游”航線完成首航】近日，首艘國產大型郵輪“愛達·魔都號”完成了首次3天2晚的海上巡遊之旅，與以往不同的是，遊客體驗的是全國首個“無目的地海上游”航線。在上海吳淞口國際郵輪港，4000多名遊客分批次有序下船。與此前傳統郵輪航線的模式截然不同，此次3天2晚週末遊，全程不靠岸，沒有指定的目的地，郵輪本身就是旅行的目的地，精準匹配上班族、年輕家庭週末短途休閒需求。從“有目的地”航線到“無目的地”海上巡遊，看似是產品煥新，這背後卻涉及方方面面的政策創新和綜合協調。交通、文旅、公安、海關、邊檢等多部門協同配合，打通了航線審批、證件辦理、口岸查驗等關鍵環節。（央視）"
-    },
-    {
-      "id": "4927344",
-      "time": "2026-06-10 13:19:44",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本企業物價指數同比漲幅創三年多來新高】據新華社，日本央行10日公佈的初步統計結果顯示，5月日本企業物價指數同比上漲6.3%至134.5，漲幅較4月進一步擴大，創2023年3月以來新高，也明顯高於市場機構預測。資料顯示，納入統計範圍的23類商品中，有22類商品價格同比上漲。其中，由於中東戰事推高國際原油價格，石油和煤炭製品價格同比上漲13.8%，較4月漲幅擴大8.5個百分點。石腦油價格上漲進一步傳導至下游，帶動聚乙烯、聚丙烯等產品價格走高，化學制品價格同比上漲13.4%，較4月漲幅擴大3.3個百分點。此外，有色金屬價格同比大漲42.2%。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202606103766525982",
-      "time": "2026-06-10 13:19:02",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "【日本企業物價指數同比漲幅創三年多來新高】日本央行10日公佈的初步統計結果顯示，5月日本企業物價指數同比上漲6.3%至134.5，漲幅較4月進一步擴大，創2023年3月以來新高，也明顯高於市場機構預測。資料顯示，納入統計範圍的23類商品中，有22類商品價格同比上漲。其中，由於中東戰事推高國際原油價格，石油和煤炭製品價格同比上漲13.8%，較4月漲幅擴大8.5個百分點。"
-    },
-    {
-      "id": "4927343",
-      "time": "2026-06-10 13:18:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨下跌0.5%，納斯達克指數期貨下跌0.8%。"
-    },
-    {
-      "id": "4927342",
-      "time": "2026-06-10 13:18:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨回吐早盤漲幅，下跌0.1%，德國DAX指數期貨下跌0.1%，英國富時指數期貨下跌0.1%。"
-    },
-    {
-      "id": "4927341",
-      "time": "2026-06-10 13:17:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東山精密成交額達100億元】6月10日下午，東山精密成交額達100億元，現跌4.6%。"
-    },
-    {
-      "id": "4927340",
-      "time": "2026-06-10 13:16:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【談判愈加困難 專家稱美伊爆發全面大規模衝突風險增大】北京時間10日凌晨，美國再次對伊朗發動襲擊，雙方產生新一輪交火。寧夏大學中國阿拉伯國家研究院教授牛新春：美國和伊朗在霍爾木茲海峽不斷爆發小規模的軍事衝突，在談判期間形成了邊打邊談，打打談談的危險局面。這種局面對目前的談判、對中東地區的形勢有兩個影響。第一個影響，是有可能徹底破壞目前的停火局面。從4月8日停火以來，美國和伊朗之間雖然沒有爆發全面的大規模衝突，但是小規模衝突最近一週時間內大約隔兩天就有一次。這樣的衝突很有可能演變成大規模衝突。另一方面的影響是，邊打邊談的局面讓伊朗與美國之間的信任完全喪失。尤其是對伊朗來說，最近幾年伊朗有兩次在與美國談判時，最終都被美國發動了大規模軍事打擊。因此，伊朗國內領導人認為，談判沒有取得進展，最重要的原因是美國缺乏誠意。目前的這種局面，一方面讓談判變得更加困難，另一方面也大大提升了大規模衝突的可能性。（央視）"
-    },
-    {
-      "id": "4927339",
-      "time": "2026-06-10 13:16:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗公佈打擊地區內美目標影片】今天（6月10日），伊朗公佈了打擊地區美國目標的影片。伊朗表示，為回應美國襲擊，伊朗向該地區的美國目標發射了“卡德爾”、 “伊馬德”和“海巴爾·謝坎”導彈。 當天，伊朗外交部發表宣告稱，美國以伊朗擊落一架“阿帕奇”直升機為藉口，對伊朗南部地區發動了殘酷的襲擊，這些襲擊嚴重違反《聯合國憲章》。伊朗稱美國再次暴露其罪惡戰爭本性，為回應美國對伊朗的軍事侵略以及對伊朗國家主權和領土完整的公然侵犯，伊朗武裝部隊行使其固有的合法自衛權，對該地區作為侵略源頭的美國基地和資產進行了嚴厲打擊。"
-    },
-    {
-      "id": "4927338",
-      "time": "2026-06-10 13:15:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌3%至43,361.47點。"
-    },
-    {
-      "id": "te:markets:557895",
-      "time": "2026-06-10 13:15:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Indian Rupee Appreciates by 0.26% — Top currency gainers are Indian Rupee (0.26%), Euro (0.10%) and British Pound (0.08%). Meanwhile, Dollar Index and Japanese Yen were little changed."
-    },
-    {
-      "id": "mkt:019eaff4-4c2e-799a-b41c-780ab988c116",
-      "time": "2026-06-10 13:14:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Warning signal returns as KOSPI 200 hedge indicator nears historical threshold】The ratio of protective puts to speculative calls on KOSPI 200 has climbed toward 2.5x as of the last close, a five‑year high and near levels that historically presaged sharp declines. Prior breaches of the 2.5 threshold (July 2007 and January 2021) were followed by roughly a 17% fall in one month and a >5% drop in three weeks, respectively. The shift reflects cooling momentum in the Korean market and rising investor caution on AI-related names amid concern that sticky inflation could keep rates higher for longer. Arun Singh, CEO of Indicus Capital, said the put/call move signals global momentum trading is cooling and that modest hedging is reasonable while rates and inflation expectations are being repriced."
-    },
-    {
-      "id": "mkt:019eaff4-385d-799a-b41c-72420e20e1da",
-      "time": "2026-06-10 13:14:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【QingCloud Technology, Jiangyuan Technology sign pact to build China-based AI compute token factory】QingCloud Technology said it recently signed an ecosystem cooperation agreement with Jiangyuan Technology. The partners will leverage software-hardware coordination to jointly develop a token-factory solution using China-based compute and co-build a standardized, commercially deployable China AI compute service system."
     }
   ]
 }
