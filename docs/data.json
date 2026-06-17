@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-17 12:54:33",
-  "count": 18328,
+  "updated": "2026-06-17 12:58:45",
+  "count": 18329,
   "items": [
+    {
+      "id": "mkt:019ed3ef-e239-7dd8-b042-3470b5e0006a",
+      "time": "2026-06-17 12:56:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian MP Ruhollah said Iran's negotiating team, aware of years of US insidious tactics, has pursued a step-by-step, reciprocal and action-for-action approach in diplomacy and talks."
+    },
+    {
+      "id": "4939976",
+      "time": "2026-06-17 12:55:45",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：日本央行的加息理由標誌著政策邏輯的轉向】索尼金融集團經濟學家Tetsuya Inoue表示，日本央行決定將通脹上行風險作為加息理由，這標誌著其政策邏輯出現了明顯的轉向。這一轉變與先前的加息形成鮮明對比，當時該央行強調調整貨幣政策是為了以穩定和可持續的方式實現其2%的通脹目標。Inoue表示，如果該央行在採取政策行動方面落後於形勢，可能會引發長期債券收益率激增，進一步削弱日元，並加速通脹。"
+    },
+    {
+      "id": "4939975",
+      "time": "2026-06-17 12:54:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯生視界近日完成近億元人民幣種子輪融資】侵入式腦機介面公司芯生視界近日完成近億元人民幣種子輪融資。本輪融資由經緯創投領投，星連資本、燕緣創投、水木創投跟投。"
+    },
+    {
+      "id": "mkt:019ed3ed-d56e-7dd8-b042-2f603e003760",
+      "time": "2026-06-17 12:53:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index rose above 8,800 points, up 0.85% on the day."
+    },
     {
       "id": "4939974",
       "time": "2026-06-17 12:53:23",
@@ -168601,34 +168635,6 @@
         "國際"
       ],
       "text": "【三星電子考慮在光州興建先進半導體封裝廠】韓國經濟新聞報道，三星電子正考慮在韓國西南部城市光州建設一座先進半導體封裝工廠。報道引述匿名行業訊息人士稱，三星預計在6月29日韓國總統李在明與國內大型企業負責人會晤時，公佈該項投資計劃。此次會議將在總統府舉行，主題為“增長戰略的重大轉型”，預計三星電子會長李在鎔和SK集團會長崔泰源將出席。此外，東亞日報週三報道稱，SK海力士也正考慮在西南地區興建新的晶片封裝生產設施，地點可能位於全羅南道。三星與SK海力士均不予置評。韓國總統府表示，企業投資決策由企業自行決定。 韓國經濟新聞表示，三星的這項投資被視為該公司希望在外界普遍預期AI需求將帶動半導體產業回升之前，加速資本支出的訊號。"
-    },
-    {
-      "id": "4927316",
-      "time": "2026-06-10 12:58:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【旅韓大熊貓“愛寶”“樂寶”夫婦三胎女兒出生】據韓國愛寶樂園方面10日通報，當地時間6月3日10時53分，旅居愛寶樂園的大熊貓“樂寶”“愛寶”夫婦的三胎女兒出生。這是“樂寶”“愛寶”繼2020年誕下“福寶”、2023年誕下雙胞胎熊貓“睿寶”“輝寶”之後，第三次透過自然受孕誕下的大熊貓寶寶。（央視新聞）"
-    },
-    {
-      "id": "4927315",
-      "time": "2026-06-10 12:57:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雙飛集團收到77.34萬元業績承諾補償款】雙飛集團6月10日午間公告，公司近日收到業績承諾方浙江搏樂液壓科技有限公司原股東徐惠良、賴龍城向公司支付的業績承諾補償款77.34萬元。"
-    },
-    {
-      "id": "mkt:019eafe2-e96f-799a-b41c-5162c6ce22be",
-      "time": "2026-06-10 12:55:44",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【South Korean retail investors tap bank overdrafts to buy the dip】YONHAP reports South Korea's KOSPI fell for two sessions after negative US equity cues and a semiconductor rout. Over that period, overdraft balances at major commercial banks rose by more than KRW 600 billion (about CNY 2.67 bln). Analysts say retail investors, anticipating a rebound after the sell-off, have used overdrafts to finance buy-the-dip positions."
     }
   ]
 }
