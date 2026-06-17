@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-17 20:56:49",
-  "count": 18413,
+  "updated": "2026-06-17 21:01:40",
+  "count": 18409,
   "items": [
+    {
+      "id": "mkt:019ed5ab-1df0-7dd8-b050-db818d5b2f2c",
+      "time": "2026-06-17 21:00:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G7 leaders committed to coordinate, within the G7 and with partners, policy measures for technology controls."
+    },
+    {
+      "id": "mkt:019ed5ab-1676-7dd8-b050-d78e6d02c0cc",
+      "time": "2026-06-17 21:00:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's night session opened with main futures contracts mixed. Low-sulfur fuel oil (LU) rose >2%; SC crude, PX, PTA and styrene gained around 1%. Butadiene rubber, coking coal, caustic soda and glass fell over 1%."
+    },
+    {
+      "id": "mkt:019ed5aa-e477-7dd8-b050-cc46091d3c5f",
+      "time": "2026-06-17 21:00:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G7 leaders said they will work with partners to reduce critical dependencies."
+    },
+    {
+      "id": "4941103",
+      "time": "2026-06-17 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】尿素連續漲3.85%，生豬連續跌2.16%，低硫燃料油連續漲1.63%，集運指數歐線期貨連續跌1.61%，丁二烯橡膠連續跌1.47%。"
+    },
+    {
+      "id": "4941102",
+      "time": "2026-06-17 20:59:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航新科技：現有業務不涉及商業航天領域】航新科技今日在互動平臺上表示，公司現有業務不涉及商業航天領域。"
+    },
+    {
+      "id": "4941101",
+      "time": "2026-06-17 20:59:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊方訊息人士：彭博社所刊美伊備忘錄內容不準確】伊朗塔斯尼姆通訊社17日援引一名接近伊朗談判團隊訊息人士的話報道稱，彭博社此前釋出的美伊諒解備忘錄全文“並不準確”，存在“諸多缺陷”。 這名訊息人士說，諒解備忘錄包含14點內容，媒體此前已多次就此進行了報道，但彭博社對每點內容具體細節的描述“相當不完整”。他以備忘錄第一點及涉及霍爾木茲海峽的相關內容為例，指稱彭博社的報道明顯不準確，且其中遺漏了一些重要的關鍵詞。 該訊息人士還說，伊美雙方約定，諒解備忘錄文字將在19日正式簽署後公佈。(新華社)"
+    },
+    {
+      "id": "4941100",
+      "time": "2026-06-17 20:59:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人：我們對非市場政策與做法的使用以及經濟脅迫行為表示嚴重關切。"
+    },
+    {
+      "id": "4941099",
+      "time": "2026-06-17 20:59:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人：確認關鍵礦產價值鏈對各國經濟繁榮與安全具有戰略作用。"
+    },
+    {
+      "id": "mkt:019ed5aa-0ed6-7dd8-b050-c12c56d382ee",
+      "time": "2026-06-17 20:59:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G7 leaders reiterated the urgency of diversifying supply chains and strengthening collective resilience."
+    },
+    {
+      "id": "mkt:019ed5a9-b5f2-7dd8-b050-baf3fd4747da",
+      "time": "2026-06-17 20:58:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "G7 leaders recognize the strategic role of critical mineral value chains for national economic prosperity and security."
+    },
+    {
+      "id": "4941098",
+      "time": "2026-06-17 20:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組跳動的AI賬本：豆包每天不足百萬收入、Seedance的ARR已達143億元】據LatePost，截至上半年，每天2億多人使用的豆包應用每天收入不足百萬元，主要來自電商佣金。位元組Seedance當前年化收入（ARR）已達20億美元（約143億元），單月超10億元——差不多抵消豆包的算力成本。Seedance絕大多數收入來自企業客戶。"
+    },
+    {
+      "id": "4941097",
+      "time": "2026-06-17 20:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外長瓦德富爾：面對俄羅斯的威脅，波蘭與德國必須在防務和安全領域開展極其密切的合作。"
+    },
+    {
+      "id": "4941096",
+      "time": "2026-06-17 20:56:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【名臣健康：實控人及部分高管擬合計減持公司不超3.24%股份】名臣健康公告，公司控股股東、實控人陳勤發以及董事、高管彭小青、陳東松計劃分別減持公司股份不超過790萬股（不超過公司總股本的3%）、39萬股（不超過公司總股本的0.15%）、25萬股（不超過公司總股本的0.09%）。"
+    },
+    {
+      "id": "4941095",
+      "time": "2026-06-17 20:56:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【常山藥業股價跌超15%，減肥藥指數下跌近2%，多家概念股回應】6月17日，常山藥業股價大跌。Wind資料顯示，截至收盤，股價報24.92元/股，收盤跌幅為15.15%。減肥藥指數收盤跌幅達到1.82%。訊息面上，常山藥業旗下GLP-1類減肥藥艾本那肽剛走完上一輪發補，再次收到CDE第二輪發補通知書，市場對於艾本那肽上市預期降溫。對於股價大跌，常山藥業董秘劉中英稱，目前，公司不接受媒體採訪。對此，多家減肥藥上市公司回應稱，艾本那肽屬於常山藥業自主研發的創新藥，是GLP-1類減肥藥中的單靶點類藥物。目前，競爭最為激烈的就是單靶點類產品，司美格魯肽、利拉魯肽均屬於這類產品。很多上市公司已經開始佈局雙靶點以及三靶點GLP-1類減肥藥。艾本那肽若推遲上市，只對常山藥業自身有影響，不會影響其他減肥藥概念股相關業務。另有不願具名的上市公司高管表示，單靶點是一代GLP-1類減肥藥，常山藥業研發的艾本那肽上市程序和市場上主流的單靶點減肥仿製藥上市程序沒有任何關聯，單靶點減肥仿製藥預計2027年可以上市。（中證金牛座）"
+    },
+    {
+      "id": "mkt:019ed5a7-6d7b-7dd8-b050-b14e055bce10",
+      "time": "2026-06-17 20:56:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Changshan Pharma shares tumble 15% after CDE issues second-round supplement notice for GLP-1 candidate】Changshan Pharmaceutical shares fell 15.15% to 24.92 yuan at close on June 17. A China weight-loss drug index dropped 1.82%. The move followed a report that Changshan’s GLP-1 obesity candidate Aibennatide, having just completed a prior round of supplementary submissions, received a second-round supplementary-data notice from the CDE, cooling near-term上市 expectations. Changshan said it is not accepting media interviews. Several listed weight-loss companies said Aibennatide is Changshan’s independently developed single-target GLP-1; competition is most intense among single-target products such as semaglutide and liraglutide, while many firms are developing dual- and triple-target GLP-1s. Firms added a delay to Aibennatide would primarily affect Changshan, not peer concept stocks; an unnamed executive said single-target generics are expected around 2027 and are unrelated to Changshan’s approval timeline."
+    },
     {
       "id": "mkt:019ed5a6-d934-7dd8-b050-a960f1b6b811",
       "time": "2026-06-17 20:55:41",
@@ -169240,205 +169366,6 @@
         "公司"
       ],
       "text": "亞馬遜簽署 175 億美元定期貸款協議。"
-    },
-    {
-      "id": "mkt:019eb19f-bb9c-7dd8-afa1-e08ab3b64883",
-      "time": "2026-06-10 21:01:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "China night session open: main futures contracts mostly higher. Coke jumped over 2%; caustic soda, alumina, ethylene glycol (EG), methanol and coking coal rose more than 1%; propylene and SC crude were up about 1%. On the downside, Shanghai gold fell over 2%; Shanghai silver, zinc, nickel and synthetic rubber dropped more than 1%; international copper, styrene (EB) and Shanghai copper were down around 1%."
-    },
-    {
-      "id": "mkt:019eb19f-b9f3-7dd8-afa1-dbceb9172026",
-      "time": "2026-06-10 21:01:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【US inflation jumps to 4.2% YoY in May from 2.4% in February in three months】US not-seasonally-adjusted CPI rose to 4.2% YoY in May from 2.4% in February, a 1.8 percentage-point increase over three months."
-    },
-    {
-      "id": "4928447",
-      "time": "2026-06-10 21:01:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "張雪稱“用房卡刷開地鐵閘機”，北京地鐵客服：正常來說不可能，將反饋至裝置單位。（澎湃）"
-    },
-    {
-      "id": "mkt:019eb19f-837c-7dd8-afa1-d29f9ace2678",
-      "time": "2026-06-10 21:01:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "【Goldman Sachs Asset Management: Inflation surge a headwind but three forces support growth】Goldman Sachs Asset Management strategist Tim Urbanowicz said the recent surge in headline and core inflation is a significant headwind for the economy and cyclical sectors, but three factors continue to provide strong support: an AI-driven investment cycle, potential upside from a large U.S. fiscal bill, and the lagged supportive effect of eventual Fed rate cuts."
-    },
-    {
-      "id": "4928446",
-      "time": "2026-06-10 21:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "BEREN THERAPEUTICS獲得 3 億美元融資。"
-    },
-    {
-      "id": "4928445",
-      "time": "2026-06-10 21:00:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "道明證券美國利率策略師Molly Brooks指出，市場將能源衝擊視為一個“何時而非是否”傳導的故事，在美聯儲定價相對保持不變的情況下，市場對石油向未來通脹資料傳導的預期已被推後。"
-    },
-    {
-      "id": "4928444",
-      "time": "2026-06-10 21:00:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南京1宗宅地3.77億元底價成交】南京出讓1宗龍王山風景區東側宅地，土地出讓面積27152.53㎡，規劃建築面積48874.00㎡，容積率1.8，起始價3.77億元，起始樓面價7708元/㎡。最終南京新高市政工程有限公司以底價價3.77億元競得該地塊。"
-    },
-    {
-      "id": "4928443",
-      "time": "2026-06-10 21:00:06",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "【中東緊張局勢加劇之際，投資者上調對英國基準利率上調的押注】在美國和伊朗敵對行動再次浮現後，投資者上調了對英國央行在2026年加息的預期。兩國之間的談判未能達成協議，導致美國總統特朗普警告稱，伊朗將“付出代價”。市場擔心，長期的衝突可能會使能源價格保持高位，並推高全球通貨膨脹。倫敦證券交易所集團資料顯示，投資者反映了2026年英國基準利率總計上調47個基點的預期，較一週前反映的39個基點的預期有所上升。"
-    },
-    {
-      "id": "4928442",
-      "time": "2026-06-10 21:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲1%，現報1376.00元。"
-    },
-    {
-      "id": "4928441",
-      "time": "2026-06-10 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】多晶矽連續漲4.96%，鉑連續跌4.24%，工業矽連續漲3.17%，集運指數歐線期貨連續漲2.66%，黃金連續跌2.51%。"
-    },
-    {
-      "id": "4928440",
-      "time": "2026-06-10 20:59:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉林省：要將吉林祥雲公司納入國有企業監管範疇】據吉林省政府官網訊息，6月9日，吉林省委副書記、省長鬍玉亭就推動數字政府建設、發展數字經濟等工作，到省政數局、吉林祥雲公司調研。其中，在吉林祥雲資訊科技有限公司，胡玉亭實地察看政務服務體系建設、人工智慧技術賦能等有關情況。他強調，要用好人工智慧、大模型等先進技術，匯聚資料資源、強化資料運營，加快數字產業化，推動資料資源在數字政府、智慧城市等領域擴大應用、釋放價值。加強網路安全體系和能力建設，打造安全可靠的資料生態環境。胡玉亭主持召開座談會，研究討論祥雲公司治理結構、核心功能、經營管理等情況，部署下步重點工作。"
-    },
-    {
-      "id": "mkt:019eb19d-bf19-7dd8-afa1-cc355263bf87",
-      "time": "2026-06-10 20:59:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact mixed",
-        "US10Y"
-      ],
-      "text": "【TD Securities: energy shock transmission is 'when not if'; market delays expected oil pass-through to inflation】After US CPI, Fed rate expectations were little changed; traders still price roughly 40bps of tightening over the next 12 months. TD Securities US rates strategist Molly Brooks said markets view the energy shock as a 'when-not-if' transmission; with Fed pricing broadly stable, markets have pushed out the expected timing for oil to feed through into future inflation data."
-    },
-    {
-      "id": "4928439",
-      "time": "2026-06-10 20:59:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國通脹升溫 消費者實際收入持續遭侵蝕】紐約消費金融公司Bankrate高階經濟分析師 Mark Hamrick 預計，由於中東供應鏈中斷，短期內通脹將保持高位，這意味著通脹超過工資增長的趨勢可能會持續下去。Zip Recruiter的經濟學家妮可·巴肖德表示，工資增長低於通脹水平，給中等收入家庭帶來了經濟壓力。"
-    },
-    {
-      "id": "4928438",
-      "time": "2026-06-10 20:58:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州茅臺年度股東會會前晚宴不供酒 有股東自帶四川濃香白酒】貴州茅臺(600519)2025年度股東會將於6月11日召開，來自全國千餘名茅臺股東、機構投資者與分析師齊聚茅臺鎮。6月10日晚間，貴州茅臺為參會投資者準備了自助餐晚宴，沿襲去年模式，整場餐會不提供酒品，去年“大放異彩”的茅臺生態農業旗下藍莓複合果汁也不再，轉而是僅供應可樂、雪碧、橙汁等常見飲料。現場，有部分股東吐槽酒企不提供品鑑酒，另有股東自帶茅臺酒就餐，甚至有股東帶來了四川濃香型白酒。"
-    },
-    {
-      "id": "4928437",
-      "time": "2026-06-10 20:57:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【分析師：亞馬遜貨運擴張料將推動長期競爭】Raymond James的分析師表示，亞馬遜週三推出的擴大後的零擔貨運業務可能會為貨執行業帶來更嚴峻的競爭環境。這些分析師表示，亞馬遜擁有令人印象深刻的拖車和集裝箱規模，並且已經改變了包裹運輸領域的格局。他們表示，其持續的擴張努力表明該公司對這項業務有多麼重視。不過，這些分析師指出，老牌承運商在場站密度和提貨/送貨執行等領域仍佔據上風。這些分析師表示：“我們認為，這不會立即造成根本性的干擾，但隨著時間的推移，來自亞馬遜的更重大競爭威脅的風險正在上升。”"
-    },
-    {
-      "id": "te:markets:558067",
-      "time": "2026-06-10 20:57:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Fall on Iran War Escalation — Futures tracking the S&P/TSX Composite Index fell on Wednesday, weighed down by escalating tensions in the Middle East. The US struck targets in Iran in retaliation for an attack on a helicopter near the Strait of Hormuz, while Iran launched attacks on US bases in Kuwait and Bahrain. The renewed exchange of strikes threatened prospects for a deal to end the conflict and reopen the Strait. Oil prices rose in response, fueling concerns about inflation and a more hawkish Bank of Canada, weighing on banks and the broader index. Meanwhile, gold prices fell on expectations of tighter US monetary policy, pressuring mining shares. Technology stocks also remained under pressure amid fading enthusiasm for AI. Investors are awaiting the Bank of Canada's policy decision, with the central bank expected to keep rates unchanged."
-    },
-    {
-      "id": "4928436",
-      "time": "2026-06-10 20:57:05",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構分析：通脹料將繼續挑戰債券市場】百達資產管理表示，通脹仍然是債券市場面臨的挑戰，該公司對目前許多主權債券提供的具吸引力的收益率持懷疑態度。該機構在一份報告中表示：“例如，美國和德國的收益率水平是合理的，因為通脹風險增加，進而導致貨幣緊縮和流動性下降的可能性增加。”總體而言，百達對美國國債和其他主要主權債券保持中立。然而，該機構認為新興市場本幣債務的前景要樂觀得多，這類債務提供更高的收益率，並在百達資產管理的模型中被列為估值最具吸引力的固定收益資產類別。"
-    },
-    {
-      "id": "4928435",
-      "time": "2026-06-10 20:56:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新易盛：實際控制人調整一致行動協議 若審議事項存在不一致情形以黃曉雷表決意向為準】新易盛(300502.SZ)公告稱，公司實際控制人高光榮與黃曉雷調整一致行動協議，並於2026年6月9日簽署《一致行動協議之補充協議》。調整後，雙方在股東會審議事項中若存在不一致情形，以黃曉雷表決意向為準。本次調整不會導致公司實際控制人發生變化，不涉及控制權變更。"
-    },
-    {
-      "id": "mkt:019eb19b-6f07-7dd8-afa1-c021b38ee0cb",
-      "time": "2026-06-10 20:56:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【US inflation accelerates; real consumer incomes continue to be eroded】May US CPI rose 4.2% YoY, the fastest since April 2023, marking the second consecutive month inflation has outpaced wage growth. May average hourly earnings rose 3.4% YoY; real wages fell 0.7% YoY and 0.1% MoM. Energy prices jumped 23.5% YoY, the largest increase since Aug 2022, with natural gas up 40.5% YoY and 7.0% MoM. Food prices rose 0.2% MoM, below the prior 0.5%. Bankrate senior economic analyst Mark Hamrick expects Middle East supply‑chain disruptions will keep inflation elevated in the near term; a ZipRecruiter economist said wages lagging inflation are squeezing middle‑income households."
     }
   ]
 }
