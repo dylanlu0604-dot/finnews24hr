@@ -1,7 +1,183 @@
 {
-  "updated": "2026-06-17 08:58:04",
-  "count": 18341,
+  "updated": "2026-06-17 09:02:28",
+  "count": 18334,
   "items": [
+    {
+      "id": "mkt:019ed318-b79d-7dd8-b03c-6ec8030f604b",
+      "time": "2026-06-17 09:01:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened down 565.37 points, or 1.23%, at 45,243.82 points on June 17 (Wednesday)."
+    },
+    {
+      "id": "mkt:019ed318-6a76-7dd8-b03c-678e34da5cbb",
+      "time": "2026-06-17 09:00:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures opened down 0.2%."
+    },
+    {
+      "id": "4939538",
+      "time": "2026-06-17 09:00:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國金融市場監管機構呼籲投資者避免進行高風險或過度槓桿投資。將加強監測風險因素，以應對市場波動加劇。"
+    },
+    {
+      "id": "mkt:019ed318-2c02-7dd8-b03c-5a58994afb30",
+      "time": "2026-06-17 09:00:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's market regulator will step up monitoring of risk factors to address heightened market volatility."
+    },
+    {
+      "id": "4939537",
+      "time": "2026-06-17 09:00:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "尿素連續主力合約日內漲4%，現報1839.00元。"
+    },
+    {
+      "id": "mkt:019ed318-0b40-7dd8-b03c-509d4b84234a",
+      "time": "2026-06-17 09:00:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's market regulator urged investors to avoid high-risk investments and excessive leverage."
+    },
+    {
+      "id": "mkt:019ed317-f5a9-7dd8-b03c-49bbf735b7b4",
+      "time": "2026-06-17 09:00:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Cotton",
+        "Impact bullish",
+        "Soybean No.2",
+        "Palm Oil"
+      ],
+      "text": "At the open, major Chinese futures were mostly lower. LPG and fuel oil slid over 4%; Shanghai crude (SC) and low-sulfur fuel oil (LU) dropped more than 3%; Asia‑Europe container freight fell nearly 3%; benzene was down over 2%; bitumen declined about 2%; methanol fell just over 1%. On the upside, urea and cotton rose nearly 2%; cotton yarn, No.20 rubber, broader rubber contracts, stainless steel (SS) and Soybean No.2 gained more than 1%; palm oil advanced about 1%."
+    },
+    {
+      "id": "4939536",
+      "time": "2026-06-17 09:00:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1.1%至45,318.32點。"
+    },
+    {
+      "id": "4939535",
+      "time": "2026-06-17 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.3%報45,685.27。"
+    },
+    {
+      "id": "4939534",
+      "time": "2026-06-17 09:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報5790.00元。"
+    },
+    {
+      "id": "4939533",
+      "time": "2026-06-17 09:00:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英矽智慧：ISM8969Ⅰ期臨床試驗完成首例人體給藥】英矽智慧在港交所公告，公司與深圳衡泰生物科技有限公司共同開發的ISM8969已達成首個臨床里程碑，在Ⅰ期研究中完成首例人體給藥。ISM8969為一種具有潛在同類最佳潛力的口服、小分子NLRP3炎症小體抑制劑，具備穿透血腦屏障能力，擬用於治療慢性神經炎症及中樞神經系統(CNS)疾病，包括帕金森病。"
+    },
+    {
+      "id": "4939532",
+      "time": "2026-06-17 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報2665.00元。"
+    },
+    {
+      "id": "4939531",
+      "time": "2026-06-17 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】燃料油連續跌4.23%，液化石油氣連續跌4.19%，低硫燃料油連續跌3.46%，上海原油連續跌3.30%，集運指數歐線期貨連續跌3.12%。"
+    },
+    {
+      "id": "4939530",
+      "time": "2026-06-17 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.16%。"
+    },
+    {
+      "id": "4939529",
+      "time": "2026-06-17 08:59:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【農發行與華潤集團簽訂戰略合作協議】6月16日，中國農業發展銀行（簡稱“農發行”）與華潤股份有限公司（簡稱“華潤集團”）在廣東深圳簽訂戰略合作協議，就雙方進一步深化合作開展會談。根據協議，雙方一致同意建立深度融合、互利共贏的戰略合作關係，雙方將聚焦大消費、綜合能源、大健康、產業金融、科技與新興產業等重點業務領域進一步加大合作力度。"
+    },
+    {
+      "id": "4939528",
+      "time": "2026-06-17 08:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國媒體16日報道，美國特拉華州威爾明頓市一所醫院當天發生槍擊事件，造成1人死亡、1人受傷。目前，槍手在逃。（新華社）"
+    },
+    {
+      "id": "te:markets:559496",
+      "time": "2026-06-17 08:58:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rise on Robust Trade Data — The Nikkei 225 Index gained 0.2% to trade above 69,500 on Wednesday, remaining near record highs as stronger-than-expected trade data improved sentiment toward Japan’s corporate outlook. Official figures showed exports jumped 17% year-on-year in May, the fastest pace of growth since November 2022, supported by solid demand for automobiles and semiconductors. The data followed the Bank of Japan’s decision on Tuesday to raise its policy rate by 25 basis points to 1%, aiming to contain inflationary pressures and support the yen. Investors also awaited the signing of the US-Iran peace agreement on Friday, which is expected to reopen the Strait of Hormuz and help restore oil flows from the Middle East. Among individual stocks, notable advances were recorded by Lasertec (7.1%), Tokyo Electron (1.3%), Advantest (1.9%), Disco Corp (1.7%), and Mitsubishi UFJ (1.2%)."
+    },
+    {
+      "id": "4939527",
+      "time": "2026-06-17 08:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月16日642股獲融資買入超億元 中際旭創穫買入50.46億元居首】6月16日共有3465只個股獲融資資金買入，有642股買入金額超億元。其中，中際旭創、兆易創新、東山精密融資買入金額排名前三，分別獲買入50.46億元、38.52億元、38.27億元。"
+    },
+    {
+      "id": "4939526",
+      "time": "2026-06-17 08:57:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【劉國中出席非洲應對埃博拉疫情特別影片峰會並致辭】2026年6月16日，中共中央政治局委員、國務院副總理劉國中應邀出席非洲應對埃博拉疫情特別影片峰會並致辭。劉國中表示，習近平主席提出構建人類命運共同體重要理念，倡導構建人類衛生健康共同體，為國際抗疫合作指明瞭方向。中非從來都是命運共同體。中方已向剛果（金）和非洲聯盟提供緊急人道主義援助，向剛果（金）派遣醫療專家組，近千名醫療隊專業人員會同非洲民眾並肩抗疫。中方將在中非合作論壇框架內，落實好中非衛生健康夥伴行動，呼籲國際社會加強團結合作、向非洲提供更多支援。峰會由非盟輪值主席、蒲隆地總統恩達伊施米耶主持，南非、赤道幾內亞、辛巴威等十餘個非洲國家元首和政府首腦，以及世界衛生組織等國際和地區組織、非洲域外夥伴代表等參會。（外交部）"
+    },
     {
       "id": "4939525",
       "time": "2026-06-17 08:57:09",
@@ -168455,251 +168631,6 @@
         "市場"
       ],
       "text": "MSCI亞太指數下跌1%至268.65點。"
-    },
-    {
-      "id": "mkt:019eaf0d-3e7e-7ff4-a103-f9434e208187",
-      "time": "2026-06-10 09:02:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell 2.00% intraday to $64.05/oz."
-    },
-    {
-      "id": "4926932",
-      "time": "2026-06-10 09:02:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鋁集團董事長段向東與蒙古國副總理諾木泰巴亞爾舉行會談】6月8日，中鋁集團董事長段向東在集團總部與來訪的蒙古國副總理諾木泰巴亞爾一行舉行會談，雙方就進一步加強合作進行深入交流。段向東表示，中鋁集團與蒙古國相關企業合作源遠流長、根基深厚，近年來持續擴大貿易規模、創新物流模式，推動合作不斷邁上新臺階。下一步希望在做深做實焦煤貿易合作的同時，在更多領域開展更深層次合作。諾木泰巴亞爾表示，當前蒙古國政府持續最佳化外商投資環境，推進物流通道建設，努力為區域產業鏈與供應鏈合作創造更加高效、穩定的發展條件。中鋁集團在資源開發、工程建設等方面實力雄厚，希望進一步深化合作，實現更高水平的互利共贏。"
-    },
-    {
-      "id": "4926931",
-      "time": "2026-06-10 09:02:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參6月10日價格釋出：習酒君品領跌 總價連續回撥創五天來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月10日整體繼續走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9881元，較昨日下跌14元，連續兩日回撥創五天來最低，已回落至近30天以來次低位，僅高於6月5日的9876元月低點。市場在6月8日階段性反彈後再度承壓，終端交投情緒仍偏謹慎，核心單品的漲跌分化度依然顯著。今日11大白酒單品四漲七跌，輸家佔據明顯上風。上漲方面，國窖1573漲幅居前，上漲7元/瓶，連續兩日反彈，但價格仍處於近30天低位區間；古井貢古20上漲3元/瓶；飛天茅臺與五糧液1618均上漲2元/瓶，其中前者收穫五連陽，價格升至近30天次高位，後者回補了昨日全部跌幅，自昨日的近一月最低點小幅反彈。下跌方面，習酒君品跌幅居前，下跌6元/瓶，連續三日大幅下探，創近30天最低價，近一個月其價格中樞持續下移；青花汾20與青花郎均下跌5元/瓶，其中前者平近30天最低價，後者終結此前兩日連續反彈強勢；精品茅臺與五糧液普五八代均下跌4元/瓶，其中前者連續兩日回撥，此前快速反彈勢頭消退，後者連續兩日回落，今日價格804元僅略高於6月5日創下的近一月最低點801元；洋河夢之藍M6+與水晶劍南春均下跌2元/瓶，其中前者創近30天最低價。"
-    },
-    {
-      "id": "mkt:019eaf0c-f5ca-7ff4-a103-f3e43d1206d0",
-      "time": "2026-06-10 09:01:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Russia says it struck Ukrainian ammunition depots; Ukraine says it hit Russian fuel facilities】On the 9th local time, the Russian Defence Ministry said Russian forces struck Ukrainian ammunition and fuel depots and targeted Ukrainian transport and energy infrastructure over the previous 24 hours; Russian air-defence units intercepted nine precision-guided aerial bombs, two HIMARS rockets and hundreds of drones. Ukraine's general staff said overnight from the 8th into the early hours of the 9th its forces struck Russian ammunition depots, command posts and logistics hubs, and confirmed recent strikes on Russian fuel storage and transfer facilities."
-    },
-    {
-      "id": "mkt:019eaf13-4240-7ff4-a104-223048520ede",
-      "time": "2026-06-10 09:01:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Stock Exchange weighted index (TAIEX) opened down 453.03 points, or 1.01%, at 44,251.41 on Wednesday, June 10."
-    },
-    {
-      "id": "mkt:019eaf0c-8409-7ff4-a103-eab0fa01d738",
-      "time": "2026-06-10 09:01:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Platinum main contract fell as much as 4.00% intraday to 417.85 yuan/gram."
-    },
-    {
-      "id": "4926930",
-      "time": "2026-06-10 09:01:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內跌4%，現報417.85元。"
-    },
-    {
-      "id": "4926929",
-      "time": "2026-06-10 09:01:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦和黎巴嫩軍方高層討論地區局勢】巴基斯坦軍方9日表示，巴基斯坦陸軍參謀長穆尼爾當天在伊斯蘭堡會見來訪的黎巴嫩軍隊總司令魯道夫·海卡爾，雙方同意加強防務合作。據知情人士披露，海卡爾此訪可能與美國和伊朗之間進行的談判有關。巴基斯坦軍方發表宣告稱，穆尼爾與海卡爾討論了“共同關心的問題、不斷演變的地區安全形勢、防務合作以及加強雙邊軍事關係的前景”。宣告援引穆尼爾的話說，巴方致力於擴大與黎武裝部隊的防務合作。"
-    },
-    {
-      "id": "mkt:019eaf0b-ff44-7ff4-a103-e2604513a1e2",
-      "time": "2026-06-10 09:00:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "SHFE front-month silver contract plunged 6.00% intraday to 15,436.00 yuan/kg."
-    },
-    {
-      "id": "4926928",
-      "time": "2026-06-10 09:00:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱打擊烏軍彈藥庫 烏稱襲擊俄燃料設施】當地時間9日，俄羅斯國防部通報稱，過去24小時，俄軍打擊了烏軍彈藥庫、油料庫以及其使用的交通和能源基礎設施等目標。俄軍防空部隊則攔截了烏軍9枚制導航空炸彈、2枚“海馬斯”火箭彈和數百架無人機。同一天，烏克蘭武裝部隊總參謀部釋出戰報稱，8日夜間到9日凌晨，烏軍打擊了俄軍彈藥庫、指揮所、物流樞紐等多個軍事目標。另外，烏軍還確認，其部隊於近期打擊了俄軍燃料儲存和轉運設施等目標。"
-    },
-    {
-      "id": "mkt:019eaf12-f560-7ff4-a104-1dd665f37dbc",
-      "time": "2026-06-10 09:00:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D fell 2.98% in early trade on Wednesday, June 10, to 918.42 yuan/gram; silver T+D dropped 6.04% to 15,358.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019eaf0b-98ef-7ff4-a103-da033d3e9ffe",
-      "time": "2026-06-10 09:00:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "At the morning open, China’s most-active domestic futures were mostly lower: Shanghai silver futures tumbled over 5%, palladium futures fell more than 3% and LPG dropped nearly 3%. Shanghai gold, propylene and fuel oil futures lost over 2%; monthly-average polypropylene and PET bottle-chip contracts slipped about 2%, and polypropylene futures eased just over 1%. On the upside, container-shipping (Europe route) futures rose over 4%, while lithium carbonate and egg contracts gained around 2%."
-    },
-    {
-      "id": "4926927",
-      "time": "2026-06-10 09:00:31",
-      "tags": [],
-      "text": "國內期貨主力合約跌多漲少，滬銀跌超5％，鈀跌超3％，液化石油氣（LPG）跌近3％，滬金、丙烯、燃料油跌超2％，聚丙烯月均、瓶片跌近2％，聚丙烯跌超1％。漲幅方面，集運歐線漲超4％，碳酸鋰、雞蛋漲近2％。"
-    },
-    {
-      "id": "4926926",
-      "time": "2026-06-10 09:00:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.3%報44,581.45。"
-    },
-    {
-      "id": "mkt:019eaf0b-4a69-7ff4-a103-d5ec5f8f1417",
-      "time": "2026-06-10 09:00:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude slid intraday, erasing more than 1% of earlier gains to trade at $89.71/bbl."
-    },
-    {
-      "id": "mkt:019eaf0b-3eae-7ff4-a103-cb2ed9bcddde",
-      "time": "2026-06-10 09:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FTSE China A50 index futures opened down 0.58%."
-    },
-    {
-      "id": "4926925",
-      "time": "2026-06-10 09:00:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌6%，現報15436.00元。"
-    },
-    {
-      "id": "4926924",
-      "time": "2026-06-10 09:00:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1217.04美元/盎司。"
-    },
-    {
-      "id": "4926923",
-      "time": "2026-06-10 09:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】白銀連續跌5.67%，集運指數歐線期貨連續漲5.01%，鉑連續跌2.85%，黃金連續跌2.81%，液化石油氣連續跌2.77%。"
-    },
-    {
-      "id": "4926922",
-      "time": "2026-06-10 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報4063.00點。"
-    },
-    {
-      "id": "4926921",
-      "time": "2026-06-10 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.63%。"
-    },
-    {
-      "id": "4926920",
-      "time": "2026-06-10 08:59:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊公共關係部門10日釋出宣告說，伊朗在布什爾省“攔截並摧毀”了一架MQ－9型“死神”無人機。"
-    },
-    {
-      "id": "mkt:019eaf0a-a79b-7ff4-a103-c1536c8838de",
-      "time": "2026-06-10 08:59:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【CENTCOM says U.S. completed defensive strikes on Iran】CENTCOM said U.S. forces completed defensive strikes on Iran on June 9 in response to the previous day’s downing of a U.S. Army Apache helicopter. Using precision munitions from U.S. Air Force and Navy aircraft, forces struck Iranian air-defense systems, ground-control nodes and surveillance radar sites near the Strait of Hormuz. CENTCOM said the action was a proportionate response to recent attacks on U.S. forces and international merchant shipping transiting the area and that U.S. forces remain vigilant and prepared to defend against further Iranian aggression."
-    },
-    {
-      "id": "4926919",
-      "time": "2026-06-10 08:59:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗武裝部隊稱“猛烈打擊”中東地區美軍基地】據伊朗媒體10日報道，伊朗武裝部隊哈塔姆安比亞中央總部發表宣告稱，為回應美軍以其直升機墜毀為藉口對伊朗南部地區的“侵略”，伊朗軍隊和伊朗伊斯蘭革命衛隊對中東地區美軍基地進行了“猛烈打擊”。（新華社）"
-    },
-    {
-      "id": "4926918",
-      "time": "2026-06-10 08:58:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國完成就阿帕奇直升機被擊落事件對伊朗實施的打擊。"
-    },
-    {
-      "id": "mkt:019eaf09-f30c-7ff4-a103-bd952bfc7d0c",
-      "time": "2026-06-10 08:58:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says it launched heavy strikes on US bases in Middle East】Iranian media on the 10th quoted the Khatam al-Anbiya Central Headquarters as saying Iran's army and the Islamic Revolutionary Guard Corps carried out heavy strikes on US bases in the Middle East in retaliation for what Tehran called US \"aggression\" against southern Iran, which it says the US justified using a helicopter crash."
     }
   ]
 }
