@@ -1,7 +1,444 @@
 {
-  "updated": "2026-06-18 02:03:05",
-  "count": 18526,
+  "updated": "2026-06-18 02:07:07",
+  "count": 18558,
   "items": [
+    {
+      "id": "4941620",
+      "time": "2026-06-18 02:06:04",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲點陣圖：有9位官員預計2026年應採取加息行動】美聯儲點陣圖顯示，19名官員中，只有18人提交了點陣圖預測。在18位官員中，有1位官員認為2026年剩餘時間應累計加息75個基點，有5位官員認為應累計加息50個基點，有3位官員認為應累計加息25個基點，有8位官員認為應維持利率不變，有1位官員認為應累計降息25個基點。"
+    },
+    {
+      "id": "mkt:019ed6c2-c0f7-7dd8-b05e-1e6116dd6756",
+      "time": "2026-06-18 02:05:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "FOMC median unemployment projections: 4.3% for end-2026, 4.3% for end-2027 and 4.2% for end-2028; March medians were 4.4%, 4.3%, 4.2%."
+    },
+    {
+      "id": "4941619",
+      "time": "2026-06-18 02:05:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4310美元/盎司，日內跌0.61%。"
+    },
+    {
+      "id": "4941618",
+      "time": "2026-06-18 02:05:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，海天網路跌18.25%，新氧跌9.83%，迅雷跌6.45%，億咖通科技跌4.92%，霧芯科技跌3.81%。"
+    },
+    {
+      "id": "4941617",
+      "time": "2026-06-18 02:05:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報69.19美元/盎司。"
+    },
+    {
+      "id": "mkt:019ed6c2-b2c5-7dd8-b05e-14b0a2bb1ad6",
+      "time": "2026-06-18 02:05:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed FOMC projections: median core PCE inflation at 3.3% for end-2026, 2.5% for end-2027 and 2.1% for end-2028, versus March medians of 2.7%, 2.2% and 2.0%."
+    },
+    {
+      "id": "4941616",
+      "time": "2026-06-18 02:05:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1342.95美元/盎司。"
+    },
+    {
+      "id": "4941615",
+      "time": "2026-06-18 02:05:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報69.78美元/盎司。"
+    },
+    {
+      "id": "mkt:019ed6c2-a0b6-7dd8-b05e-0eefa61aca46",
+      "time": "2026-06-18 02:05:39",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "GBPUSD",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Non-dollar currencies were broadly weaker: EUR/USD slid nearly 50 pips intra-session, GBP/USD fell over 40 pips and USD/JPY jumped more than 20 pips."
+    },
+    {
+      "id": "4941614",
+      "time": "2026-06-18 02:05:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4330美元/盎司，日內跌0.58%。"
+    },
+    {
+      "id": "mkt:019ed6c2-9ac8-7dd8-b05e-010dedaa2054",
+      "time": "2026-06-18 02:05:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed dot plot: nine officials project rate hikes in 2026】The Fed dot plot covered 19 officials; 18 submitted projections. Among those 18, 1 projects a cumulative 75 bps increase in 2026, 5 project 50 bps, 3 project 25 bps, 8 project unchanged rates, and 1 projects a cumulative 25 bps cut."
+    },
+    {
+      "id": "te:markets:559795",
+      "time": "2026-06-18 02:05:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Union Pacific Stock Price Hits 7-week Low — Union Pacific shares decreased to 258.52 USD, the lowest since April 2026. Over the past 4 weeks, Union Pacific lost 5.93%, and in the last 12 months, it increased 16.58%."
+    },
+    {
+      "id": "mkt:019ed6c2-3e10-7dd8-b05d-f895966cb37a",
+      "time": "2026-06-18 02:05:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "FOMC median PCE inflation projections for end-2026, end-2027 and end-2028 are 3.6%, 2.3% and 2.0%, versus March medians of 2.7%, 2.2% and 2.0%."
+    },
+    {
+      "id": "4941613",
+      "time": "2026-06-18 02:05:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲FOMC經濟預期： 2026 年至 2028 年GDP增速預期中值分別為 2.2%、2.3%、2.2%。（3月預期分別為2.4%、2.3%、2.1%）\n 2026、2027、2028年底和長期聯邦基金利率預期中值分別為3.8%、3.6%、3.4%、3.1%。（3月預期分別為3.4%、3.1%、3.1%、3.1%）\n2026年至2028年底PCE通脹預期中值分別為3.6%、2.3%、2.0%。（3月預期分別為2.7%、2.2%、2.0%）"
+    },
+    {
+      "id": "mkt:019ed6c2-1768-7dd8-b05d-f3c3d82b14fe",
+      "time": "2026-06-18 02:05:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve FOMC statement reiterated it will maintain ample reserves in the banking system and directed the Open Market Trading Desk to increase securities holdings as appropriate."
+    },
+    {
+      "id": "mkt:019ed6c1-edc8-7dd8-b05d-eadf6301ef0e",
+      "time": "2026-06-18 02:04:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Markets now fully price a 25bp Fed rate hike before year-end."
+    },
+    {
+      "id": "mkt:019ed6c1-d494-7dd8-b05d-e2308afa9f5c",
+      "time": "2026-06-18 02:04:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "FOMC median federal funds rate projections for end-2026, end-2027, end-2028 and the longer run are 3.8%, 3.6%, 3.4% and 3.1%, respectively; March projections were 3.4%, 3.1%, 3.1% and 3.1%."
+    },
+    {
+      "id": "mkt:019ed6c1-91a8-7dd8-b05d-dcb0d900099a",
+      "time": "2026-06-18 02:04:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed FOMC median GDP growth projections for 2026–28 are 2.2%, 2.3% and 2.2% respectively (March projections: 2.4%, 2.3%, 2.1%)."
+    },
+    {
+      "id": "mkt:019ed6c1-74cd-7dd8-b05d-d4fdf59b0dd2",
+      "time": "2026-06-18 02:04:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Federal Reserve FOMC projections: median 2026 GDP growth forecast lowered to 2.2% from 2.4%."
+    },
+    {
+      "id": "mkt:019ed6c1-5590-7dd8-b05d-c82bb2c4aa54",
+      "time": "2026-06-18 02:04:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "Following the Fed rate decision, US equity indices slipped in a brief selloff: Dow -0.1%, S&P 500 -0.44%, Nasdaq -0.47%."
+    },
+    {
+      "id": "mkt:019ed6c1-4e77-7dd8-b05d-c73c48b79edf",
+      "time": "2026-06-18 02:04:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Markets priced in further Fed tightening after the dot plot release."
+    },
+    {
+      "id": "mkt:019ed6c1-4df4-7dd8-b05d-bedb58c1b430",
+      "time": "2026-06-18 02:04:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "FOMC statement said productivity growth and capital investment have been strong."
+    },
+    {
+      "id": "mkt:019ed6c1-4bc6-7dd8-b05d-b70e7baf90d9",
+      "time": "2026-06-18 02:04:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "FOMC statement: Despite elevated uncertainty from the Middle East conflict, economic activity continues to expand at a solid pace."
+    },
+    {
+      "id": "mkt:019ed6c1-4a71-7dd8-b05d-ad2c0c866eb6",
+      "time": "2026-06-18 02:04:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve officials project the median federal funds rate at 3.8% at end-2026, up from a 3.4% projection in March."
+    },
+    {
+      "id": "mkt:019ed6c1-4660-7dd8-b05d-8ea73ea5c152",
+      "time": "2026-06-18 02:04:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "FOMC statement: keeps overnight reverse repurchase rate unchanged at 3.50%."
+    },
+    {
+      "id": "mkt:019ed6c1-492b-7dd8-b05d-a301d5df1d85",
+      "time": "2026-06-18 02:04:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "After the Fed's rate decision, WTI and Brent crude saw limited short-term volatility, trading at $76.40/bbl and $79.20/bbl respectively."
+    },
+    {
+      "id": "mkt:019ed6c1-48c0-7dd8-b05d-9ee531b8b4d5",
+      "time": "2026-06-18 02:04:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve FOMC statement: employment growth has kept pace with labor force growth."
+    },
+    {
+      "id": "mkt:019ed6c1-46ca-7dd8-b05d-95684a4e91b5",
+      "time": "2026-06-18 02:04:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "After the Federal Reserve's rate decision, spot gold plunged more than $40 intraday and the dollar index (DXY) rallied about 35 points."
+    },
+    {
+      "id": "mkt:019ed6c1-30d8-7dd8-b05d-79b1b2de55bd",
+      "time": "2026-06-18 02:04:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve FOMC statement: members unanimously agreed on the Committee's rate decision."
+    },
+    {
+      "id": "mkt:019ed6c1-388b-7dd8-b05d-8515393fa2d1",
+      "time": "2026-06-18 02:04:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed dot plot shows 18 of 19 officials submitted projections; one official did not submit."
+    },
+    {
+      "id": "mkt:019ed6c1-119f-7dd8-b05d-7780d0ecb7dc",
+      "time": "2026-06-18 02:03:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "FOMC statement: nine of 18 participants expect a rate hike in 2026."
+    },
+    {
+      "id": "mkt:019ed6c1-094c-7dd8-b05d-699830a5b4bd",
+      "time": "2026-06-18 02:03:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FOMC statement: 17 of 19 Fed officials submitted interest-rate projections for 2028."
+    },
+    {
+      "id": "mkt:019ed6c0-bfe8-7dd8-b05d-614d88f78f3b",
+      "time": "2026-06-18 02:03:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FOMC statement: the Committee will achieve price stability."
+    },
+    {
+      "id": "4941612",
+      "time": "2026-06-18 02:03:16",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲表示，委員會將實現價格穩定。"
+    },
+    {
+      "id": "4941611",
+      "time": "2026-06-18 02:03:01",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲宣告發布後，美國 10 年期美債收益率走高，收益率上漲 4.5 個基點，報 4.47%。 美國 2 年期美債收益率上行，收益率上漲 8 個基點，報 4.13%。"
+    },
     {
       "id": "4941610",
       "time": "2026-06-18 02:02:08",
@@ -31,6 +468,15 @@
         "國際"
       ],
       "text": "美聯儲FOMC宣告：委員們一致同意此次的利率決定。19名美聯儲官員中有17人提交了2028年的利率預測。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606183775036553",
+      "time": "2026-06-18 02:01:44",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲FOMC宣告顯示，18位FOMC參與者中有9位預計2026年加息。"
     },
     {
       "id": "4941608",
@@ -170321,40 +170767,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧將於6月12日至13日前往洛杉磯。"
-    },
-    {
-      "id": "4928870",
-      "time": "2026-06-11 02:05:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社調查顯示，美國能源資訊署（EIA）週四公佈的報告料顯示，上週美國天然氣庫存增加990億立方英尺。"
-    },
-    {
-      "id": "mkt:019eb2b5-eeb9-7dd8-afaa-4c17828a65f7",
-      "time": "2026-06-11 02:05:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry said the US military, as part of its aggressive operations against Iran, deliberately struck civilian water infrastructure in Sirik, Hormozgan province, destroying two reservoirs with a combined capacity of 2,500 cubic meters that supply drinking water to more than 20,000 residents across 10 villages."
-    },
-    {
-      "id": "mkt:019eb2b5-18fd-7dd8-afaa-47a79c527cca",
-      "time": "2026-06-11 02:04:33",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US Treasury data: FY2026-to-date cumulative budget deficit $1.246 tln, versus $1.364 tln in the same period of the prior fiscal year. May customs net receipts were -$42 mln."
-    },
-    {
-      "id": "4928869",
-      "time": "2026-06-11 02:04:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：美國襲擊了重要的民用水利基礎設施。"
     }
   ]
 }
