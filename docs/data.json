@@ -1,7 +1,206 @@
 {
-  "updated": "2026-06-18 02:51:44",
-  "count": 18646,
+  "updated": "2026-06-18 02:55:43",
+  "count": 18664,
   "items": [
+    {
+      "id": "mkt:019ed6ef-b5ac-7dd8-b061-032402c8712f",
+      "time": "2026-06-18 02:54:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he believes discussions ultimately produced a better outcome."
+    },
+    {
+      "id": "mkt:019ed6ef-84e0-7dd8-b060-f93d82f64528",
+      "time": "2026-06-18 02:54:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said policymakers held a constructive internal discussion on the matter."
+    },
+    {
+      "id": "mkt:019ed6ef-2223-7dd8-b060-f7f6d1b15a2a",
+      "time": "2026-06-18 02:54:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said only one policy proposal is on the table today."
+    },
+    {
+      "id": "4941690",
+      "time": "2026-06-18 02:54:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：今日議程上僅提出一項政策提議，我們內部為此進行了一番充分的討論交鋒。"
+    },
+    {
+      "id": "mkt:019ed6ee-85a9-7dd8-b060-efef1668cf11",
+      "time": "2026-06-18 02:53:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry spokesman said the United States has pledged to lift all types of sanctions on Iran in connection with upcoming negotiations, SNN reported."
+    },
+    {
+      "id": "4941689",
+      "time": "2026-06-18 02:53:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：目前僅有一項提案被納入討論議程，針對該提案的探討寥寥無幾，其餘提案更是完全未展開商議。"
+    },
+    {
+      "id": "4941688",
+      "time": "2026-06-18 02:53:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國水電裝機十年增長40% 水風光互補模式加速新型能源體系構建】我國水電裝機容量已突破4億千瓦，居世界首位。白鶴灘水電站攻克特高拱壩世界級難題，年均發電量624.43億千瓦時，可滿足約7500萬人一年的生活用電需求。我國在長江流域建成全球最大“清潔能源走廊”，六座大型水電站總裝機容量達7169.5萬千瓦，每年可提供綠色電能約3000億千瓦時。水風光互補模式加速新型能源體系構建，抽水蓄能補齊新能源調峰短板。（央視新聞）"
+    },
+    {
+      "id": "4941687",
+      "time": "2026-06-18 02:53:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國新聞網（SNN）訊息：伊朗外交部發言人表示，美國承諾按照後續談判擬定的時間表取消針對伊朗的各類制裁。"
+    },
+    {
+      "id": "mkt:019ed6ee-173f-7dd8-b060-e7a2f8b5d7ca",
+      "time": "2026-06-18 02:53:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Waller's first policy statement: rate cuts off the table, hikes still uncertain】Carson Group chief market strategist Ryan Detrick said Waller's first meeting he chaired produced little market reaction. Markets see inf clearly picking up while the economy remains resilient, reinforcing that rate cuts are unlikely this year. The open question is whether the Fed will hike again or remain on pause for the rest of the year."
+    },
+    {
+      "id": "mkt:019ed6ed-ecba-7dd8-b060-df77022127c3",
+      "time": "2026-06-18 02:52:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said markets’ excessive focus on the Fed’s reaction mechanism will reduce efficiency."
+    },
+    {
+      "id": "mkt:019ed6ed-cd99-7dd8-b060-d245402cdf67",
+      "time": "2026-06-18 02:52:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said financial market prices are central bankers' most important source of information."
+    },
+    {
+      "id": "4941686",
+      "time": "2026-06-18 02:52:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 金融市場價格是指引央行官員的核心資訊來源。"
+    },
+    {
+      "id": "mkt:019ed6ed-829b-7dd8-b060-c9b640deda65",
+      "time": "2026-06-18 02:52:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said financial markets perform best when they react to data."
+    },
+    {
+      "id": "4941685",
+      "time": "2026-06-18 02:52:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：若市場擔憂美聯儲將如何針對資料採取行動，金融市場執行效率會有所下降。"
+    },
+    {
+      "id": "mkt:019ed6ed-4556-7dd8-b060-c2460d922389",
+      "time": "2026-06-18 02:52:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "The US 2-year/10-year Treasury yield spread is expected to narrow to its tightest level since April 2025."
+    },
+    {
+      "id": "4941684",
+      "time": "2026-06-18 02:51:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 金融市場在根據經濟資料作出反應時表現最為平穩。 我們獲取的部分經濟資料或許只是 “過往經濟情況的滯後反映”。"
+    },
+    {
+      "id": "te:markets:559804",
+      "time": "2026-06-18 02:51:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Pulls Back After Fed — Gold prices pared gains to trade flat at $4,315 per ounce on Wednesday, halting a four session rally after the Federal Reserve held rates unchanged, as expected, and signaled the possibility of a rate hike this year. Half of the FOMC projected that it may be necessary to raise interest rates this year, consistent with the expectations that core inflation will be higher than expected due to impacts of the war in the Middle East. The Fed previously signaled it has leeway to prioritized price stability as the latest labor market data. Precious metal prices fell as shorter term Treasury yields surged, raising the opportunity cost to allocate in bullion instead of interest-bearing securities. Meanwhile, safe-haven demand was lower as both the US and Iran maintained their intention to sign an agreement to suspend hostilities and restore energy trade on Friday. Meanwhile, major central banks in Europe maintained their rates unchanged, although BoJ raised rates as expected."
+    },
+    {
+      "id": "mkt:019ed6ec-9a5f-7dd8-b060-bc196b5397fa",
+      "time": "2026-06-18 02:51:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he is open to new data sources."
+    },
+    {
+      "id": "4941683",
+      "time": "2026-06-18 02:51:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 對於新型分析技術、私營部門新增資料以及官方統計資料改革，我均持開放態度。"
+    },
+    {
+      "id": "mkt:019ed6ec-722f-7dd8-b060-b2ba36cf9ee6",
+      "time": "2026-06-18 02:51:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said some incoming economic data may only be echoes of the past."
+    },
     {
       "id": "mkt:019ed6ec-08e2-7dd8-b060-aedf50645b1b",
       "time": "2026-06-18 02:50:53",
@@ -171764,28 +171963,6 @@
         "國際"
       ],
       "text": "市場資訊：預計特朗普本週將與美國國防工業領袖會面。"
-    },
-    {
-      "id": "mkt:019eb2e3-e78c-7dd8-afaa-eda312708fb5",
-      "time": "2026-06-11 02:55:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【ANTHROPIC CEO says government should be able to block deployment of new AI models】ANTHROPIC CEO Dario Amodei said in a long post Wednesday that governments should have the authority to block deployment of new AI models that pose specific or \"unacceptable\" risks. He called for mandatory third-party testing to assess models' risks across multiple domains and compared the current phase of AI development to cars, planes and drugs — critical to the economy but capable of causing mass harm if misdesigned or misused. Amodei's remarks are his strongest to date in favor of tighter AI regulation. Anthropic had warned its MYTHOS model could find and exploit critical software vulnerabilities and limited access to a small set of partners; this week the company released an updated version that removes the model's cyber-attack capabilities."
-    },
-    {
-      "id": "te:markets:558150",
-      "time": "2026-06-11 02:54:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "CVS Health Stock Price Hits 3-1/2-year High — CVS Health shares increased to 98.44 USD, the highest since December 2022. Over the past 4 weeks, CVS Health gained 6.71%, and in the last 12 months, it increased 49.74%."
     }
   ]
 }
