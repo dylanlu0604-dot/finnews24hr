@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-17 23:22:15",
-  "count": 18484,
+  "updated": "2026-06-17 23:26:27",
+  "count": 18471,
   "items": [
+    {
+      "id": "4941428",
+      "time": "2026-06-17 23:24:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部安排部署新一輪強降雨防範應對工作】記者從水利部獲悉，未來幾天我國將有新一輪強降雨過程。水利部17日組織會商，分析研判雨情汛情形勢，針對性安排部署強降雨防範應對工作。 記者瞭解到，6月18日至22日，受冷暖空氣共同影響，江淮、江南北部西部、華南中部西部、西南東部南部及湖北大部等地將有一次強降雨過程，以大到暴雨為主。廣西南部和西北部、雲南東南部、湖北東部、安徽南部、江蘇中部南部、江西東北部等地部分地區將有大暴雨，並伴有短時強降雨。受其影響，珠江流域西江干流及支流柳江、桂江、鬱江，長江中下游幹流及洞庭湖水系沅江澧水、鄱陽湖水系昌江樂安河、漢江中下游及鄂東四水，淮河上中游幹流及支流史灌河、淠河，太湖及錢塘江等河流將出現明顯漲水過程，暴雨區內部分中小河流可能發生超警以上洪水。 為應對可能出現的汛情，水利部指導督促落實落細各項防禦措施。一是密切監視雨情水情汛情發展態勢，滾動預測預報，及時釋出預警資訊；二是科學精準排程水工程攔洪削峰錯峰，有效減輕防洪壓力；三是強化水庫安全度汛，嚴格落實水庫“三個責任人”和“三個重點環節”，特別要做好中小水庫、病險水庫巡查防守，病險水庫原則上一律空庫執行；四是突出抓好強降雨區中小河流洪水和山洪災害防禦，加強山洪災害監測預警，嚴格落實“誰組織、轉移誰、何時轉、轉何處、不擅返”五個關鍵環節責任和措施。(新華社)"
+    },
+    {
+      "id": "4941427",
+      "time": "2026-06-17 23:22:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：美國與伊朗商議提前簽署相關協議】據AXIOS援引一名斡旋國外交官以及另一位訊息人士訊息， 美國、伊朗及各方斡旋方正在商議，將原定於週五簽署的諒解備忘錄，最早提前至週三完成簽署。若簽署時間提前，本次諒解備忘錄將以電子方式簽署；協議中涉及霍爾木茲海峽的條款將即刻生效，美國或將最終對外公佈協議完整文字。 這名外交官表示，各方商議縮短流程、提前簽約，核心目的是比原定週五更早打通霍爾木茲海峽通道，美伊雙方在此訴求上立場一致。另一重推動因素，或是白宮面臨要求公開諒解備忘錄文字的國內政治壓力。但訊息人士表示，是伊朗方面要求正式簽署前不得對外披露協議全文，並否認白宮此舉是為應對國內政治壓力。"
+    },
     {
       "id": "mkt:019ed62b-d36a-7dd8-b057-ae7e35b21630",
       "time": "2026-06-17 23:20:56",
@@ -169833,145 +169850,6 @@
         "國際"
       ],
       "text": "伊朗國家安全委員會成員表示，霍爾木茲海峽相關預案已準備就緒。"
-    },
-    {
-      "id": "mkt:019eb224-435e-7dd8-afa7-587311aee4cb",
-      "time": "2026-06-10 23:26:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Precious metals futures extended losses. SHFE gold main contract dropped over 3%, briefly trading below 900 yuan/gram and now at 902.16 yuan/gram. SHFE silver main contract fell just over 1%, at 15,568 yuan/kg."
-    },
-    {
-      "id": "mkt:019eb224-3fc8-7dd8-afa7-53d0b912d82a",
-      "time": "2026-06-10 23:26:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Bureau of Labor Statistics commissioner nominee Matsumoto said officials should study ways to integrate alternative data, saying survey-based data systems will eventually be phased out."
-    },
-    {
-      "id": "mkt:019eb223-e5d9-7dd8-afa7-4876fac7d0e6",
-      "time": "2026-06-10 23:25:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bureau of Labor Statistics director nominee Matsumoto said there may be ways to incentivize responses to labor-market surveys."
-    },
-    {
-      "id": "4928702",
-      "time": "2026-06-10 23:25:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Anthropic執行長稱，他並不清楚旗下人工智慧模型在伊朗一所小學遭導彈襲擊、約120名兒童遇難這起事件中扮演了何種角色。"
-    },
-    {
-      "id": "4928701",
-      "time": "2026-06-10 23:24:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國勞工統計局局長提名人松本：我們應當研究整合替代資料的方法，基於調查的資料體系最終會退出歷史舞臺。"
-    },
-    {
-      "id": "4928700",
-      "time": "2026-06-10 23:24:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國勞工統計局局長提名人松本：或可採取多種激勵措施，提高勞動力市場調查的回覆率。"
-    },
-    {
-      "id": "mkt:019eb222-4981-7dd8-afa7-447fafb04566",
-      "time": "2026-06-10 23:24:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BLS commissioner nominee Matsumoto said the impact of declining survey response rates needs to be determined."
-    },
-    {
-      "id": "4928699",
-      "time": "2026-06-10 23:24:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "斯泰蘭蒂斯米蘭上市股票停牌後恢復交易，股價下跌3.8%。"
-    },
-    {
-      "id": "te:economy:558118",
-      "time": "2026-06-10 23:24:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mozambique",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Mozambique Inflation Rate Hits 2023-Peak — The annual inflation rate in Mozambique picked up to 7.22% in May 2026, accelerating from 4.41% in the prior month and marking the steepest rise since May 2023. The increase was largely driven by a fuel shock, following supply disruptions in April tied to geopolitical tensions in the Middle East, which led to sharp adjustments in diesel and gasoline prices earlier in May. On a monthly basis, the CPI climbed by 2.32% in May, the steepest increase since February 2019, after a 0.63% rise in the prior month."
-    },
-    {
-      "id": "te:economy:558117",
-      "time": "2026-06-10 23:24:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Yield Steady After BoC Rate Hold — Canada’s 10-year government bond yield held steady near 3.5% after the Bank of Canada left its benchmark interest rate unchanged at 2.25%, in line with expectations. The central bank noted that uncertainty remains elevated amid escalating tensions in the Middle East and new US tariff proposals, while reiterating that it stands ready to act if necessary and will not allow higher energy prices to feed persistent inflation. Markets continue to price in a 25bps rate hike by December. However, the 10-year yield remains below its May highs, tracking a decline in US Treasury yields as investors speculate that a potential US–Iran agreement could help ease geopolitical tensions."
-    },
-    {
-      "id": "4928698",
-      "time": "2026-06-10 23:23:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽關於北美中游能源展望：預計2026年資本支出將高於此前預期。"
-    },
-    {
-      "id": "4928697",
-      "time": "2026-06-10 23:23:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯確認已解除對美國元宇宙遊戲平臺Roblox的封禁。"
-    },
-    {
-      "id": "mkt:019eb221-2d9c-7dd8-afa7-392a4430b5db",
-      "time": "2026-06-10 23:22:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "FITCH says commodity price rises and export growth linked to the Iran conflict are largely temporary."
-    },
-    {
-      "id": "4928696",
-      "time": "2026-06-10 23:22:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國鋁業表示，伊朗局勢推高燃料成本，氧化鋁業務遭受衝擊。"
-    },
-    {
-      "id": "4928695",
-      "time": "2026-06-10 23:22:23",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "惠譽：認為伊朗局勢衝突帶來的大宗商品價格上漲與出口提振效應基本為暫時性。"
     }
   ]
 }
