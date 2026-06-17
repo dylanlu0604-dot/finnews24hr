@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-18 06:41:43",
-  "count": 18783,
+  "updated": "2026-06-18 06:47:51",
+  "count": 18781,
   "items": [
+    {
+      "id": "te:markets:559833",
+      "time": "2026-06-18 06:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 2.72% — Top crypto losers are Ether (-2.72%), XRP (-2.62%) and Bitcoin (-2.08%)."
+    },
+    {
+      "id": "mkt:019ed7c2-7fdd-7dd8-b065-ccd5ea6dcd30",
+      "time": "2026-06-18 06:45:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "New Zealand Q1 GDP YoY 1.5% (exp. 1.1%); prior revised from 1.3% to 1.5%."
+    },
+    {
+      "id": "mkt:019ed7c2-7ec9-7dd8-b065-c223dbf4d684",
+      "time": "2026-06-18 06:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q1 GDP QoQ 0.8% (consensus 0.8%); prior quarter revised up to 0.5% from 0.2%."
+    },
+    {
+      "id": "mkt:019ed7c2-60e0-7dd8-b065-bc7e7c5962a7",
+      "time": "2026-06-18 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | GDP (YoY) (Q1) | actual 1.5% | consensus 1.10% | previous 1.30%"
+    },
+    {
+      "id": "mkt:019ed7c2-60d0-7dd8-b065-b13db8c124e7",
+      "time": "2026-06-18 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | GDP (QoQ) (Q1) | actual 0.8% | consensus 0.8% | previous 0.20%"
+    },
     {
       "id": "mkt:019ed7be-af72-7dd8-b065-ab0160a22f22",
       "time": "2026-06-18 06:40:58",
@@ -173068,80 +173120,6 @@
         "國際"
       ],
       "text": "【伊朗紅新月會進入全面戒備狀態】當地時間今天（6月11日）凌晨，由於美國空襲伊朗部分地區，為提高應對任何突發事件的行動準備，伊朗紅新月會全國所有應急行動中心已進入全面戒備狀態。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019eb3b6-801e-7dd8-afad-f052f75f1ce8",
-      "time": "2026-06-11 06:45:42",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Iran's Supreme Joint Military Command said the order covers oil tankers and merchant vessels."
-    },
-    {
-      "id": "4929077",
-      "time": "2026-06-11 06:45:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗聯合最高軍事指揮部表示，封鎖令適用於油輪及所有民用商船。"
-    },
-    {
-      "id": "mkt:019eb3b5-f8a1-7dd8-afad-eb2d6667eb7c",
-      "time": "2026-06-11 06:45:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Iran's Supreme Joint Military Command said any vessel attempting to pass will become a target."
-    },
-    {
-      "id": "te:markets:558166",
-      "time": "2026-06-11 06:45:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Depreciates by 1.17% — Top crypto losers are Binance (-1.17%), Ether (-1.08%) and Bitcoin (-0.32%)."
-    },
-    {
-      "id": "mkt:019eb3b5-d16a-7dd8-afad-e15623709fb9",
-      "time": "2026-06-11 06:44:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Iran's Supreme Joint Military Command said it will close the Strait of Hormuz and ban all vessel transits."
-    },
-    {
-      "id": "4929076",
-      "time": "2026-06-11 06:44:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗聯合最高軍事指揮部宣佈，霍爾木茲海峽禁止所有船隻通行，任何試圖通行的船隻都將遭到打擊。"
-    },
-    {
-      "id": "4929075",
-      "time": "2026-06-11 06:42:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：阿巴斯港當地民眾目擊，數枚防禦導彈射向一架美軍戰機。"
     }
   ]
 }
