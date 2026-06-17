@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-18 07:17:25",
-  "count": 18772,
+  "updated": "2026-06-18 07:21:27",
+  "count": 18768,
   "items": [
+    {
+      "id": "mkt:019ed7e2-5012-7dd8-b066-127a73399e4b",
+      "time": "2026-06-18 07:19:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【China social security fund opens first futures account to enable hedging】June 15 — The China Futures Market Monitoring Center said a futures account has been opened for special pension assets (state-owned equity and cash-income) used to top up the social security fund; Galaxy Futures opened the account. The account may conduct hedging within existing rules. Under a strict risk-management framework, this is the first formal introduction of futures hedging tools for pension assets, expanding the social security fund’s risk-management toolkit and providing an institutional safeguard for long-term preservation and appreciation of pension assets."
+    },
+    {
+      "id": "4941991",
+      "time": "2026-06-18 07:19:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月18日07時11分在青海海西州直轄區（北緯37.87度，東經95.48度）發生3.0級地震，震源深度10千米。"
+    },
+    {
+      "id": "te:economy:559837",
+      "time": "2026-06-18 07:18:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Brazil Cuts Rates Despite Rising Inflation — Brazil's central bank lowered its benchmark rate by 25 basis points to 14.25% at its June meeting, in line with market expectations and marking a third consecutive quarter-point rate cut. Policymakers said the decision was taken amid heightened uncertainty and aims to support economic activity without compromising their commitment to price stability. The central bank highlighted persistent inflationary pressures despite easing energy costs following the interim Iran-US peace agreement. Annual inflation accelerated to 4.72% in May, remaining above the target range, while inflation expectations continued to exceed the 3% target. At the same time, domestic economic activity remained resilient, supported by a strong labor market, with GDP expanding 1.1% in the first quarter and the central bank’s activity index rising 0.51% in April. The Copom emphasized that risks to inflation remain elevated and that future policy decisions will depend on incoming economic data."
+    },
+    {
+      "id": "4941990",
+      "time": "2026-06-18 07:18:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渤健將以最高10億美元收購RayThera】渤健(Biogen)計劃以最高10億美元收購RayThera，此舉將擴大渤健在免疫學領域的在研產品管線。這家生物技術公司週三表示，該交易價值包括一筆預付款以及在達成臨床和監管里程碑後支付的款項。渤健表示，RayThera是一家總部位於加州聖迭戈的未上市公司，擁有一個抗炎資產組合，這些資產可能用於治療多種適應症的免疫介導性疾病。RayThera的主要候選藥物預計將在第三季度初進入1期開發階段。渤健表示，該交易將幫助其拓展到新的疾病領域。這家總部位於馬薩諸塞州劍橋的公司計劃在該交易完成後，主導RayThera資產的開發、生產和商業化。"
+    },
+    {
+      "id": "4941989",
+      "time": "2026-06-18 07:18:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電解液賽道掀起長協鎖單潮 一體化佈局成行業共識】6月份以來，電解液賽道迎來密集簽約潮。寧德時代接連與新宙邦、永太科技敲定長協大單，楚能新能源亦大幅上調與天賜材料的合作規模，兩家電池廠累計鎖單量逼近180萬噸。若將時間拉長，近一年來行業官宣的電解液長單總量已超400萬噸。記者在採訪中瞭解到，頭部電池廠加速鎖定長期產能，核心目的是確保供應鏈安全，以應對下游需求攀升及原材料價格波動。在此過程中，具備原材料自給能力的供應商明顯更受青睞。"
+    },
+    {
+      "id": "4941988",
+      "time": "2026-06-18 07:18:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中小公募迎差異化發展新契機 產品佈局、業務准入將獲適當傾斜】6月17日，在2026陸家嘴論壇上，證監會主席吳清在主題演講中表示，將推出支援中小基金公司規範健康發展一攬子措施；堅持分類監管、突出特色，在產品佈局、業務准入等方面給予適當傾斜，積極支援中小基金公司差異化發展。多家中小公募人士指出，監管層相關表態有望打破中小公募長期面臨的通道壁壘，也將從源頭引導中小公募告別全能型“規模戰”，加速向差異化、精品化路線轉型。對於中小公募基金公司發展的痛點，華北某公募人士指出，當前中小公募在新發產品上面臨不少壓力，過去大公司憑藉規模、合規評級和品牌優勢，在新品類、新工具（如REITs、跨境QDII、熱門指數ETF）的獲批上佔盡先機。中小公司常常面臨“想創新沒資格，常規產品難獲批”的窘境。如果在產品佈局上獲得適當傾斜，有望幫助中小公募打破產品佈局受限的壁壘。"
+    },
+    {
+      "id": "4941987",
+      "time": "2026-06-18 07:17:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【我國養老資金投資運營再迎重要突破 社保基金首例期貨賬戶完成開立】我國養老資金投資運營再迎重要突破。6月15日，中國期貨市場監控中心釋出《社保基金拓展投資業務範圍助力養老資產保值增值》一文稱，近期，用於補充社保基金的國有股權及現金收益類專項養老資產完成首例期貨賬戶開立，可依規開展套期保值業務。證券時報記者獲悉，此次社保基金首例期貨賬戶由銀河期貨完成開立。這意味著，在嚴格風險管理框架下，養老資金正式引入期貨市場套期保值工具，進一步豐富了社保基金風險管理手段，為養老資產長期保值增值增添新的制度保障。"
+    },
+    {
+      "id": "4941986",
+      "time": "2026-06-18 07:17:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀行業迎資料安全合規大考 行業合規監管全面趨嚴】步入2026年，資料安全監管的態勢明顯升級。6月13日，國家網際網路資訊辦公室、中國人民銀行、國家金融監督管理總局等六部門聯合印發《金融資訊服務資料分類分級指南》，指導金融機構開展資料分類分級和重要資料識別工作。隨著金融行業數字化轉型進一步深化，資料已然成為銀行業發展的關鍵要素，而資料分類分級則是資料安全工作的基礎。“如果要讓資料發揮作用，就不能忽視資料安全。”某城商行資料管理部門一位業務人士表示。"
+    },
+    {
+      "id": "4941985",
+      "time": "2026-06-18 07:16:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銀行理財多項跨境投資新業務落地 參與全球化資產配置渠道拓寬】銀行理財公司參與全球化資產配置的渠道正在進一步拓寬。證券時報記者從行業內獨家獲悉，作為首批3家銀行理財公司的中銀理財、工銀理財和招銀理財，已在去年末正式獲得債券通“南向通”交易資格，這一資格實際上也趕在了保險機構之前。另外，銀行理財公司跨境投資業務近日又傳來利好——被首度引入銀行間外幣對市場，並於6月16日完成了理財資金在該市場的首筆交易。某銀行理財公司一位資深人士對證券時報記者表示，在當前低利率環境下，資管機構全球化配置的熱情升高，但目前資金“出海”渠道受限。理財資金全球化配置渠道的進一步拓寬，不僅有助於豐富理財產品種類，同時也可助力人民幣國際化。"
+    },
     {
       "id": "4941984",
       "time": "2026-06-18 07:16:32",
@@ -172897,142 +172979,6 @@
         "DXY"
       ],
       "text": "Fox News reported that Trump is open to the possibility of further strikes against Iran."
-    },
-    {
-      "id": "4929124",
-      "time": "2026-06-11 07:21:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：仍保留對伊朗實施更多打擊的可能性。"
-    },
-    {
-      "id": "te:economy:558174",
-      "time": "2026-06-11 07:20:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "RICS House Price Balance",
-        "Importance 1"
-      ],
-      "text": "UK Housing Market Remains Subdued — The RICS UK Residential Market Survey showed that the house price balance remained at -35% in May 2026, unchanged from a slightly upwardly revised April reading. This came in above market expectations of -31% and still marked the weakest level since November 2023, despite emerging signs of stabilization. New buyer enquiries steadied at -34%, marking the first month since January in which demand did not deteriorate further, while the agreed sales balance was unchanged at -37%, suggesting the recent slowdown in transactions may be losing momentum rather than accelerating. Regionally, the South East and East Anglia continued to experience greater downward pressure on prices, while Northern Ireland remained a notable outperformer with prices still rising firmly. Looking ahead, the near-term house price expectations index fell to a net balance of -45% in May at the UK-wide level, down sharply from -39%, pointing to further softness over the coming months."
-    },
-    {
-      "id": "mkt:019eb3d6-935e-7dd8-afae-909b53fee8f4",
-      "time": "2026-06-11 07:20:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said Iran has asked him to stop the bombing and that the bombing will stop soon."
-    },
-    {
-      "id": "4929123",
-      "time": "2026-06-11 07:20:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：轟炸很快就會停止。"
-    },
-    {
-      "id": "4929122",
-      "time": "2026-06-11 07:20:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗已經請求我停止轟炸，已與伊朗官員直接對話。"
-    },
-    {
-      "id": "mkt:019eb3d6-07ea-7dd8-afae-8f8cecbdb122",
-      "time": "2026-06-11 07:20:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "Trump said he has held direct talks with Iranian officials."
-    },
-    {
-      "id": "4929121",
-      "time": "2026-06-11 07:20:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普接受福克斯新聞採訪表示：美國戰機正在伊朗上空執行飛行任務。"
-    },
-    {
-      "id": "mkt:019eb3d5-d9e8-7dd8-afae-81e4fcdafee2",
-      "time": "2026-06-11 07:19:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Trump says U.S. fighter jets are flying over Iran."
-    },
-    {
-      "id": "mkt:019eb3d5-815b-7dd8-afae-7d7a04438b22",
-      "time": "2026-06-11 07:19:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Nasdaq futures extended losses to 1%; S&P 500 futures fell 0.6% after reports said U.S. military strikes on Iran are ongoing."
-    },
-    {
-      "id": "4929120",
-      "time": "2026-06-11 07:19:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲4%，現報93.64美元/桶。"
-    },
-    {
-      "id": "4929119",
-      "time": "2026-06-11 07:18:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，標普500指數期貨跌0.63%，道瓊斯指數期貨跌0.46%。"
-    },
-    {
-      "id": "mkt:019eb3d4-5876-7dd8-afae-720799aa64ee",
-      "time": "2026-06-11 07:18:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fox News reported U.S. officials said Iran's South Pars gas field was not a target of strikes."
-    },
-    {
-      "id": "4929118",
-      "time": "2026-06-11 07:17:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺稱，在德黑蘭西南的Robat Karim，防空系統已被啟用，原因是持續的地區軍事緊張局勢。"
     }
   ]
 }
