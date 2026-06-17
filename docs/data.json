@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-17 09:10:34",
+  "updated": "2026-06-17 09:14:35",
   "count": 18323,
   "items": [
+    {
+      "id": "4939554",
+      "time": "2026-06-17 09:13:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2657.00元。"
+    },
+    {
+      "id": "mkt:019ed324-112f-7dd8-b03c-86654bbe66b9",
+      "time": "2026-06-17 09:13:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Canadian Prime Minister Carney said Trump informed him of a US-Iran memorandum of understanding that Canada supports and that the MoU paves the way to resolving the crisis in Lebanon."
+    },
+    {
+      "id": "te:markets:559509",
+      "time": "2026-06-17 09:12:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Near Lowest in 3 Months — US gasoline prices held below $2.90 per gallon, the lowest since early March, as the US-Iran deal is expected to reopen the Strait of Hormuz and support a return of energy exports from the Middle East. The interim pact, due to be signed on Friday, states that Tehran would receive broad financial incentives, including the immediate right to sell its oil. Still, markets are assessing the durability of the agreement and the timeline for shipping through the Strait to normalize, as many operators may wait several weeks before resuming tanker transits. Producers have also warned that a full recovery could take months, citing technical and geological constraints as well as infrastructure damage. Meanwhile, industry data showed that gasoline inventories rose by 2.48 million barrels in mid-June, reversing the previous week's 1.19 million-barrel decline."
+    },
+    {
+      "id": "mkt:019ed323-537c-7dd8-b03c-7e60023a2ba1",
+      "time": "2026-06-17 09:12:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Harbin Jiuzhou Group, Xinfengguang Sign Strategic Cooperation Agreement】Harbin Jiuzhou Group Co., Ltd. and Xinfengguang Electronic Technology Co., Ltd. signed a strategic cooperation agreement in Harbin to collaborate on power‑electronics equipment, power‑quality remediation and integrated energy services, leveraging complementary core capabilities for coordinated development."
+    },
+    {
+      "id": "4939553",
+      "time": "2026-06-17 09:11:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊伯泰科耗材連續五年中標廣電計量集中採購專案】據萊伯泰科訊息，近日，廣電計量2026-2028年度試劑耗材集中採購專案中標結果公告：萊伯泰科成功中標專案第三包組。本次中標是萊伯泰科連續五年成功入選該專案。"
+    },
+    {
+      "id": "4939552",
+      "time": "2026-06-17 09:11:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九洲集團與新風光簽署戰略合作協議】6月15日，哈爾濱九洲集團股份有限公司（簡稱“九洲集團”）與新風光電子科技股份有限公司（簡稱“新風光”）戰略合作簽約儀式在哈爾濱舉行。本次合作聚焦電力電子裝備、電能質量治理、綜合能源服務領域，依託各自核心優勢互補共進、協同發展。"
+    },
+    {
+      "id": "4939551",
+      "time": "2026-06-17 09:10:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺6月17日06時繼續釋出暴雨橙色預警，交通運輸部維持強降雨二級防禦響應。"
+    },
     {
       "id": "4939550",
       "time": "2026-06-17 09:09:17",
@@ -168468,68 +168531,6 @@
         "焦點"
       ],
       "text": "焦煤連續主力合約日內跌2%，現報1346.50元。"
-    },
-    {
-      "id": "4926958",
-      "time": "2026-06-10 09:13:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國空軍對波音KC-46空中加油機的修復方案充滿信心】美國空軍部長特洛伊·明克週二向參議院一個小組委員會表示，美國空軍確信已找到解決波音公司 BA.N KC-46空中加油機關鍵系統長期存在問題的辦法。多年來，波音公司和美國空軍一直致力於解決該加油機遠端視覺系統的問題，該系統對於使用飛機加油探管（一種用於輸送燃油的剛性管道）進行空中加油至關重要。“好訊息是，我們相信已經修復並測試了新的2.0版視覺系統，預計將於2028年將其投入生產線，”明克在週二的國防撥款小組委員會聽證會上表示。這比最初計劃晚了五年。"
-    },
-    {
-      "id": "4926957",
-      "time": "2026-06-10 09:13:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【翻倍基增至15只 同一基金經理批次上榜】Wind資料統計，截至6月9日，僅統計主程式碼口徑下，主動權益類基金中年內復權單位淨值增長率超過100%的產品已增至15只。財通多策略福鑫、財通匠心優選一年持有、華商均衡成長、財通景氣甄選一年持有等產品年內收益均超過115%。從基金經理維度看，榜單集中度較高，15只翻倍基中，金梓才管理的財通基金產品佔據6席；張明昕、陳文凱、孫碩旗下也分別有2只產品進入翻倍名單。持倉方面，金梓才管理的6只翻倍基前十大重倉股中，有9只股票重複出現，部分同一基金經理旗下上榜產品也存在較高持倉重合度，持倉方向多集中在光通訊、PCB等AI算力鏈環節。業內人士認為，多隻產品同時上榜，未必對應多套差異化策略，若底層組合相近，淨值表現同步衝高並不意外。"
-    },
-    {
-      "id": "4926956",
-      "time": "2026-06-10 09:12:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【490股獲融資買入超億元，中際旭創穫買入70.93億元居首】Wind資料顯示，A股6月9日共有3775只個股獲融資資金買入，有490股買入金額超億元。其中，中際旭創、京東方A、兆易創新融資買入金額排名前三，分別獲買入70.93億元、40.89億元、38.62億元。從融資買入額佔當日總成交金額比重來看，有10只個股融資買入額佔比超30%。其中龍利得、海能技術、宗申動力融資買入額佔成交額比重排名前三，分別為40.82%、36.39%、33.64%。從融資淨買入金額來看，有59只個股獲融資淨買入超億元。其中，滬電股份、勝宏科技、兆易創新融資淨買入金額排名前三，分別獲淨買入9.64億元、9.41億元、9.03億元。"
-    },
-    {
-      "id": "mkt:019eaf16-3712-7ff4-a104-2a9c344c84ef",
-      "time": "2026-06-10 09:12:09",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 5-year government bond yield rose 2 bps to 1.945%."
-    },
-    {
-      "id": "4926955",
-      "time": "2026-06-10 09:10:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上漲2.0個基點，至1.945%。"
-    },
-    {
-      "id": "4926954",
-      "time": "2026-06-10 09:10:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【經緯輝開：與吉利無業務合作及參股關係，銥加科技1.6T光模組尚未取得重大突破】針對“是否存在與吉利業務合作計劃、吉利是否參股、丁總入職是否代表進一步合作可能、銥加科技光模組業務研發進展”的問詢，經緯輝開6月10日在互動平臺表示，1、公司當前未與吉利開展業務合作，亦不存在吉利參股事項。董事候選人系董事個人兼職事項，與其就職公司不存在關聯。2、銥加科技當前1.6T光模組尚在研發中，未取得重大突破。公司僅透過子公司持有銥加科技7%股權，本公司合併範圍內不存在光晶片和光模組業務。"
-    },
-    {
-      "id": "4926953",
-      "time": "2026-06-10 09:10:34",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【三菱HC Capital與博楓組建可再生能源合資企業】6月10日，一份宣告顯示，三菱HC Capital與博楓資產管理公司共同組建了一家合資企業，用於收購和運營歐洲的可再生能源資產，初始資產組合估值約為4億歐元。該初始資產組合涵蓋英國、西班牙、瑞典、芬蘭、法國和愛爾蘭，總裝機容量約570兆瓦。相關資產均簽訂了長期購電協議，剩餘加權平均合約期約為10年。該合資企業正在評估未來對歐洲及澳大利亞可再生能源資產的收購計劃。博楓將負責合資企業的運營，並派駐一支經驗豐富的管理團隊。該合資企業預計於2026年下半年正式啟動。"
     }
   ]
 }
