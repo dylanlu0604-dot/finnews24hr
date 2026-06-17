@@ -1,7 +1,212 @@
 {
-  "updated": "2026-06-17 13:56:54",
-  "count": 18344,
+  "updated": "2026-06-17 14:00:54",
+  "count": 18357,
   "items": [
+    {
+      "id": "mkt:019ed42a-aaa8-7dd8-b043-ec2c0fd5eddc",
+      "time": "2026-06-17 14:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK May unadjusted core output PPI y/y 2.3%; prior revised to 2.6% from 2.4%."
+    },
+    {
+      "id": "mkt:019ed42a-aa47-7dd8-b043-e13543795a2e",
+      "time": "2026-06-17 14:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK unadjusted output PPI YoY 4.0% in May, matching forecasts; April revised up to 4.1% from 4.0%."
+    },
+    {
+      "id": "mkt:019ed42a-96be-7dd8-b043-d817b99b24e6",
+      "time": "2026-06-17 14:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK May unadjusted Output PPI MoM 0.5% (expected 0.5%); April revised to 1.5% from 1.4%."
+    },
+    {
+      "id": "mkt:019ed42a-96bc-7dd8-b043-d20142cd9d43",
+      "time": "2026-06-17 14:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK May non-seasonally adjusted input PPI m/m +0.2% (forecast +0.5%); April revised up to +2.6% from +2.4%."
+    },
+    {
+      "id": "mkt:019ed42a-74c9-7dd8-b043-cea843af66b3",
+      "time": "2026-06-17 14:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Retail Price Index (YoY) (May) | actual 3% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019ed42a-7318-7dd8-b043-ba37ce5ad36b",
+      "time": "2026-06-17 14:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Price Index (MoM) (May) | actual 0.2% | consensus 0.5% | previous 0.70%"
+    },
+    {
+      "id": "mkt:019ed42a-7318-7dd8-b043-c60963bf807e",
+      "time": "2026-06-17 14:00:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Price Index (YoY) (May) | actual 3.1% | consensus 3.3% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019ed42a-7184-7dd8-b043-b00b97013d63",
+      "time": "2026-06-17 14:00:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core CPI (MoM) (May) | actual 0.3% | consensus 0.4% | previous 0.7%"
+    },
+    {
+      "id": "mkt:019ed42a-7180-7dd8-b043-ac04eaf34de4",
+      "time": "2026-06-17 14:00:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CPI (MoM) (May) | actual 0.2% | consensus 0.4% | previous 0.70%"
+    },
+    {
+      "id": "mkt:019ed42a-717f-7dd8-b043-a608cd2cac69",
+      "time": "2026-06-17 14:00:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core CPI (YoY) (May) | actual 2.6% | consensus 2.7% | previous 2.50%"
+    },
+    {
+      "id": "mkt:019ed42a-70db-7dd8-b043-9c805808dbe5",
+      "time": "2026-06-17 14:00:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CPI (YoY) (May) | actual 2.8% | consensus 3% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019ed42a-5b81-7dd8-b043-8325b740243e",
+      "time": "2026-06-17 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Input PPI (Unadjusted) (YoY) (May) | actual 8.7% | consensus 8.8% | previous 7.70%"
+    },
+    {
+      "id": "mkt:019ed42a-5b86-7dd8-b043-8d51649303e1",
+      "time": "2026-06-17 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Output PPI (Unadjusted) (MoM) (May) | actual 0.8% | previous 0.7%"
+    },
+    {
+      "id": "mkt:019ed42a-5b8d-7dd8-b043-9369cbc6912c",
+      "time": "2026-06-17 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Input PPI (Unadjusted) (MoM) (May) | actual 0.2% | consensus 0.5% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019ed42a-5b75-7dd8-b043-76c08b935930",
+      "time": "2026-06-17 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Output PPI (Unadjusted) (YoY) (May) | actual 2.3% | previous 2.4%"
+    },
+    {
+      "id": "mkt:019ed42a-5b7c-7dd8-b043-7bb900584ef3",
+      "time": "2026-06-17 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Output PPI (Unadjusted) (MoM) (May) | actual 0.5% | consensus 0.5% | previous 1.40%"
+    },
+    {
+      "id": "mkt:019ed42a-5b62-7dd8-b043-6a901dbca376",
+      "time": "2026-06-17 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Output PPI (Unadjusted) (YoY) (May) | actual 4% | consensus 4% | previous 4.00%"
+    },
+    {
+      "id": "mkt:019ed429-6e4c-7dd8-b043-649c3595f11e",
+      "time": "2026-06-17 13:59:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Sony economist: Bank of Japan's inflation-risk rationale signals policy shift】Sony Financial Group economist Tetsuya Inoue said the Bank of Japan's decision to cite upside inflation risk as the rationale for a rate increase marks a clear shift in policy logic. Previously the BOJ framed tightening as a means to achieve the 2% inflation target in a stable, sustainable manner. Inoue warned that if the BOJ lags developments, long-term government bond yields could spike, the yen could weaken further, and inflation could accelerate."
+    },
+    {
+      "id": "mkt:019ed429-40c5-7dd8-b043-5ffa5a64dd17",
+      "time": "2026-06-17 13:58:53",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Selective strength in A-share China-prefixed stocks: China Chemical and COSCO Shipping Energy hit limit-up; peers including Zhongfangbiao, China Energy Engineering, PowerChina and China Railway Assembly also rose."
+    },
+    {
+      "id": "4940052",
+      "time": "2026-06-17 13:57:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量66億元。"
+    },
+    {
+      "id": "4940051",
+      "time": "2026-06-17 13:57:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇州2宗宅地11.1億元底價成交】6月17日，蘇州2宗宅地出讓，最終均底價成交，總成交金額11.1億元。其中，吳中經開區宅地由蘇州天鴻偉業置地有限公司以底價7.08億元競得，成交樓面價13500元/㎡；吳中區宅地由蘇州吳城置業有限公司以底價4.02億元競得，成交樓面價12500元/㎡。"
+    },
     {
       "id": "4940050",
       "time": "2026-06-17 13:56:17",
@@ -168728,89 +168933,6 @@
         "CSI300"
       ],
       "text": "【Industry Association: China has world’s most complete new-energy vehicle supply chain】The Industry Association said China possesses the world’s most complete new-energy vehicle (NEV) supply chain—from lithium processing and battery manufacturing to motor/electronic control and vehicle assembly—capacity is ample, costs are controllable and the supply chain has strong risk resilience. Deputy secretary-general Chen Shihua said Chinese in‑vehicle systems, intelligent driving and cabin interaction are adapting to overseas user needs; rapid local iteration of smart features has become a core competitive edge against legacy foreign automakers’ intelligence shortcomings. January–May auto exports totaled 4.059 million vehicles, up 63% YoY; NEV exports were 1.833 million, accounting for over 45% of total auto exports."
-    },
-    {
-      "id": "mkt:019eb01e-4fa5-799a-b41c-f03957cc91fb",
-      "time": "2026-06-10 14:00:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【China May auto exports up 68.7% YoY; NEV exports surge】China's auto exports in May rose to 930,000 vehicles, up 68.7% YoY and marking a second consecutive month above 900,000 units, data from the China Association of Automobile Manufacturers showed. New energy vehicle exports reached 446,000 units, up 1.1x YoY."
-    },
-    {
-      "id": "4927389",
-      "time": "2026-06-10 14:00:03",
-      "tags": [],
-      "text": "A股券商股震盪走高，華安證券漲超5％，國聯民生、國泰海通、華泰證券、華西證券、東北證券等個股跟漲。"
-    },
-    {
-      "id": "4927388",
-      "time": "2026-06-10 14:00:01",
-      "tags": [
-        "觀點"
-      ],
-      "text": "A股券商股震盪走高，華安A股券商股震盪走高，華安證券漲超5%，國聯民生、國泰海通、華泰證券、華西證券、東北證券等個股跟漲。證券漲超5%，國聯民生、國泰海通、華泰證券、華西證券、東北證券等個股跟漲。"
-    },
-    {
-      "id": "te:markets:557902",
-      "time": "2026-06-10 13:59:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "ICICI Bank Stock Price Hits 6-week High — ICICI Bank shares increased to 1302.00 INR, the highest since April 2026. Over the past 4 weeks, ICICI Bank gained 2.76%, and in the last 12 months, it decreased 9.06%."
-    },
-    {
-      "id": "mkt:019eb01d-82cc-799a-b41c-ecab50a323d6",
-      "time": "2026-06-10 13:59:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "600909.SS",
-        "Impact bullish"
-      ],
-      "text": "A-share broker stocks rose amid choppy trading; Huaan Securities jumped over 5%, while Guolian Minsheng Securities, Guotai Haitong, Huatai Securities, Huaxi Securities and Northeast Securities also advanced."
-    },
-    {
-      "id": "mkt:019eb01d-7ea6-799a-b41c-e4b16cac46b3",
-      "time": "2026-06-10 13:59:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "【Samsung considers advanced chip-packaging plant in Gwangju, expands HBM push】Samsung Electronics is considering building an advanced semiconductor packaging plant in Gwangju, South Korea, to meet global chip demand. The company is expanding its HBM (high-bandwidth memory) footprint to bolster its position in the AI chip supply chain. Samsung is expected to announce an investment plan at a June 29 meeting between the South Korean president and corporate leaders."
-    },
-    {
-      "id": "4927387",
-      "time": "2026-06-10 13:57:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星考慮新建先進晶片封裝廠 以滿足全球晶片需求】三星電子考慮在韓國光州建設先進半導體封裝工廠，以滿足全球晶片需求。三星正擴大HBM市場佈局，以加強其在AI晶片供應鏈中的地位。預計三星將在6月29日韓國總統與企業集團負責人會議上公佈投資計劃。"
-    },
-    {
-      "id": "mkt:019eb01b-7837-799a-b41c-dd0ebecff562",
-      "time": "2026-06-10 13:57:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Johannesburg shooting kills at least 12】South African police said a shooting in Johannesburg on June 10 killed at least 12 people and injured nine."
     }
   ]
 }
