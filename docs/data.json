@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-18 04:38:30",
-  "count": 18797,
+  "updated": "2026-06-18 04:42:34",
+  "count": 18796,
   "items": [
+    {
+      "id": "4941843",
+      "time": "2026-06-18 04:39:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫稱沒有禁止美國在伊朗投資。"
+    },
+    {
+      "id": "4941842",
+      "time": "2026-06-18 04:38:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨領導人稱讚伊朗在與美國達成諒解備忘錄後取得了“重大勝利”。"
+    },
+    {
+      "id": "te:markets:559824",
+      "time": "2026-06-18 04:38:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Hawkish Fed Outlook — The Ibovespa fell 0.7% to close at 168,454 on Wednesday as investors assessed monetary policy decisions from the BCB and the Federal Reserve. Markets had largely expected Brazil's central bank to cut the Selic rate by 25 basis points to 14.25%, although a pause remained possible amid a worsening external backdrop, higher oil prices, and deteriorating inflation expectations. As expected, the Fed left interest rates unchanged at 3.50%-3.75% but signaled a more hawkish outlook, reinforcing expectations that borrowing costs could remain elevated for longer and weighing on risk sentiment. Banks traded mixed, with Itaú rising 0.9% while Bradesco slipped 0.6%. Utilities also posted losses, with Axia down 1.4%. Vale fell 2% amid lower iron ore prices, while WEG advanced 2.3% after approving R$438.1 million in interest on equity."
+    },
     {
       "id": "mkt:019ed74c-d204-7dd8-b064-37aedb921d88",
       "time": "2026-06-18 04:36:36",
@@ -173281,47 +173309,6 @@
         "國際"
       ],
       "text": "美國國防部長赫格塞思： 伊朗大部分導彈均未命中目標。"
-    },
-    {
-      "id": "mkt:019eb344-f700-7dd8-afac-177bec2d3beb",
-      "time": "2026-06-11 04:41:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Defense Minister Hegseth said the U.S., not Iran, controls the Strait of Hormuz."
-    },
-    {
-      "id": "4928973",
-      "time": "2026-06-11 04:41:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思： 今晚的打擊行動將力度十足、立場明確。"
-    },
-    {
-      "id": "mkt:019eb342-3cf6-7dd8-afac-0f3111867325",
-      "time": "2026-06-11 04:38:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. defense secretary Hegseth on Iran said Central Command (CENTCOM) will be very busy tonight and the United States will carry out heavy strikes tonight, bombing key Iranian facilities."
-    },
-    {
-      "id": "4928972",
-      "time": "2026-06-11 04:38:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思談及伊朗局勢：中央司令部今晚將十分忙碌，美國今晚將重擊伊朗，將轟炸伊朗關鍵設施。"
     }
   ]
 }
