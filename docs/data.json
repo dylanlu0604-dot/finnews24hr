@@ -1,7 +1,169 @@
 {
-  "updated": "2026-06-18 05:58:40",
-  "count": 18768,
+  "updated": "2026-06-18 06:03:20",
+  "count": 18775,
   "items": [
+    {
+      "id": "4941901",
+      "time": "2026-06-18 06:01:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：應該能夠順利出售石油。"
+    },
+    {
+      "id": "4941900",
+      "time": "2026-06-18 06:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：石油制裁必須從今天起解除。"
+    },
+    {
+      "id": "mkt:019ed79a-bc83-7dd8-b065-3c9abc91fd97",
+      "time": "2026-06-18 06:01:42",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "US equity index futures edged higher; Nasdaq futures rose nearly 0.5% after the US and Iran signed an electronic memorandum."
+    },
+    {
+      "id": "4941899",
+      "time": "2026-06-18 06:01:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：貨幣政策累積的緊縮程度，允許政策利率採取不同路徑，且均符合通脹向目標收斂的要求。"
+    },
+    {
+      "id": "mkt:019ed79a-b2f2-7dd8-b065-3229c13feb06",
+      "time": "2026-06-18 06:01:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Brazil central bank said its committee reiterated the need to remain calm and cautious in implementing monetary policy."
+    },
+    {
+      "id": "mkt:019ed79a-36c2-7dd8-b065-2bc42bf1a1ff",
+      "time": "2026-06-18 06:01:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude opened about 1% lower on Thursday; the US and Iran signed an electronic memorandum of understanding."
+    },
+    {
+      "id": "4941898",
+      "time": "2026-06-18 06:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美伊簽署諒解備忘錄，標普500期貨上漲0.3%，納斯達克期貨上漲0.5%。"
+    },
+    {
+      "id": "4941897",
+      "time": "2026-06-18 06:00:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報68.50美元/盎司。"
+    },
+    {
+      "id": "mkt:019ed799-ae69-7dd8-b065-20066b399d0e",
+      "time": "2026-06-18 06:00:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank cut its benchmark interest rate by 25 bps to 14.25% in a unanimous decision."
+    },
+    {
+      "id": "4941896",
+      "time": "2026-06-18 06:00:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：本次決策為全票透過。"
+    },
+    {
+      "id": "4941895",
+      "time": "2026-06-18 06:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破75美元/桶，日內跌1.46%。"
+    },
+    {
+      "id": "4941894",
+      "time": "2026-06-18 06:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報74.92美元/桶。"
+    },
+    {
+      "id": "mkt:019ed799-3603-7dd8-b065-18c75b0fb8cb",
+      "time": "2026-06-18 06:00:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "An Iranian Foreign Ministry spokesman said Iran's oil sanctions should be lifted and the country should immediately begin a 60-day period of oil exports."
+    },
+    {
+      "id": "4941893",
+      "time": "2026-06-18 05:59:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行將基準利率下調至14.25%（路透調查預期為14.25%）。"
+    },
+    {
+      "id": "mkt:019ed798-b9c5-7dd8-b065-1028e08ff3fe",
+      "time": "2026-06-18 05:59:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Selic rate 14.25% as of June 17; forecast 14.25%; prior 14.50%."
+    },
+    {
+      "id": "mkt:019ed798-98ad-7dd8-b065-09b8675c0d4c",
+      "time": "2026-06-18 05:59:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Brazil | Selic Interest Rate (Jun.17) | actual 14.25% | consensus 14.25% | previous 14.50%"
+    },
+    {
+      "id": "4941892",
+      "time": "2026-06-18 05:59:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：向國外轉移濃縮材料是不可接受的。"
+    },
+    {
+      "id": "4941891",
+      "time": "2026-06-18 05:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗石油制裁應當解除，伊朗應當從今日起即可恢復石油出口，並維持六十天。"
+    },
     {
       "id": "mkt:019ed797-91bd-7dd8-b065-0138fdee3e9d",
       "time": "2026-06-18 05:58:15",
@@ -172909,112 +173071,6 @@
         "國際"
       ],
       "text": "【美伊發生海上衝突】據伊朗邁赫爾通訊社當地時間今天（6月11日）凌晨最新報道，伊朗與美軍在海上發生衝突。（CCTV國際時訊）"
-    },
-    {
-      "id": "4929036",
-      "time": "2026-06-11 06:02:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價10日上漲】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲1.83美元，收於每桶90.03美元，漲幅為2.07%；8月交貨的倫敦布倫特原油期貨價格上漲1.65美元，收於每桶93.10美元，漲幅為1.8%。"
-    },
-    {
-      "id": "mkt:019eb38e-6cc3-7dd8-afad-a16f8244ff1f",
-      "time": "2026-06-11 06:01:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude opened slightly higher on Thursday as U.S. forces are carrying out strikes on Iran."
-    },
-    {
-      "id": "4929034",
-      "time": "2026-06-11 06:00:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4091.95美元/盎司。"
-    },
-    {
-      "id": "mkt:019eb38d-0612-7dd8-afad-9c861b782248",
-      "time": "2026-06-11 06:00:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state TV reported a cruise missile was intercepted in Asaluyeh, Bushehr province in southern Iran."
-    },
-    {
-      "id": "te:markets:558161",
-      "time": "2026-06-11 06:00:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Copper is down by 2.2% — Copper decreased 2.2% to 6.1641 USD/Lbs"
-    },
-    {
-      "id": "4929033",
-      "time": "2026-06-11 06:00:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為89.1%，累計加息25個基點的機率9.5%，累計降息25個基點的機率為1.5%。"
-    },
-    {
-      "id": "4929032",
-      "time": "2026-06-11 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報92.17美元/桶。"
-    },
-    {
-      "id": "mkt:019eb38c-ab19-7dd8-afad-979a235f5df8",
-      "time": "2026-06-11 06:00:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRNA reports multiple explosions heard near Iran's Bandar Abbas airport and an adjacent air force base."
-    },
-    {
-      "id": "4929031",
-      "time": "2026-06-11 05:59:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）： 阿巴斯港機場及空軍基地附近傳出多聲爆炸。"
-    },
-    {
-      "id": "4929030",
-      "time": "2026-06-11 05:59:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社報道，伊朗與美方部隊在海上發生交火。"
-    },
-    {
-      "id": "mkt:019eb38b-9807-7dd8-afad-8d432bf5be7f",
-      "time": "2026-06-11 05:58:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran and U.S. forces clashed at sea, Iran's Mehr news agency reported."
     }
   ]
 }
