@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-18 05:38:19",
-  "count": 18756,
+  "updated": "2026-06-18 05:42:23",
+  "count": 18757,
   "items": [
+    {
+      "id": "mkt:019ed788-9374-7dd8-b064-98a68739f0ef",
+      "time": "2026-06-18 05:41:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US, Iran presidents sign electronic memorandum of understanding】US officials said the US and Iranian presidents signed an electronic memorandum of understanding Wednesday night; both sides said a formal memorandum will be signed later. Al Jazeera reported Trump signed the electronic MoU while visiting France and Iranian President Pezeshkian signed in Iran."
+    },
+    {
+      "id": "4941875",
+      "time": "2026-06-18 05:40:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "4941874",
+      "time": "2026-06-18 05:39:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以媒：在美施壓下以色列將與敘利亞恢復談判】據以色列公共廣播公司電視臺17日晚報道，在美國施壓下，以色列與敘利亞預計將於近期恢復談判。 報道說，在經歷數月停滯後，以敘雙方預計將重啟對話。這將是今年2月底美以伊爆發衝突以來，以敘雙方首次恢複相關談判。（新華社）"
+    },
+    {
+      "id": "4941873",
+      "time": "2026-06-18 05:38:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普今日在晚宴上與馬克龍一同簽署伊朗相關協議。"
+    },
     {
       "id": "4941872",
       "time": "2026-06-18 05:35:09",
@@ -172884,31 +172920,6 @@
         "XAUUSD"
       ],
       "text": "Al Jazeera reports Israel has launched strikes against Iran."
-    },
-    {
-      "id": "mkt:019eb37b-c670-7dd8-afad-43eb783f2994",
-      "time": "2026-06-11 05:41:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state TV reports explosions heard at Abbas port."
-    },
-    {
-      "id": "4929020",
-      "time": "2026-06-11 05:41:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍開始空襲伊朗】美軍中央司令部稱，美軍開始對伊朗境內多個目標展開所謂“自衛打擊”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4929019",
-      "time": "2026-06-11 05:41:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破95美元/桶，日內漲3.88%。"
     }
   ]
 }
