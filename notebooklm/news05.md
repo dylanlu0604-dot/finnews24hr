@@ -1,7 +1,331 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-18 03:29:20_
-_本檔包含 3848 則快訊，約 695321 字_
+_更新時間：2026-06-18 04:26:28_
+_本檔包含 3849 則快訊，約 696324 字_
+
+---
+
+### 2026-06-12 09:35:07  #公司
+
+A股工業氣體概念盤初調整，中船特氣跌超15%，廣鋼氣體、金宏氣體、華特氣體、三孚股份、蜀道裝備跌幅居前。
+
+---
+
+### 2026-06-12 09:35:02  #央行 #國際
+
+印尼央行：將繼續對外匯市場進行持續、有控制的干預。
+
+---
+
+### 2026-06-12 09:34:47  #市場 #焦點
+
+紐約期金失守4200美元/盎司，日內漲2.08%。
+
+---
+
+### 2026-06-12 09:34:29  #MKT News #Market Regions #Greater China #SZSE Component #Impact bearish #CSI300
+
+【Shenzhen securities regulator warns of illegal activity under guise of RWA investment】Tokenization of real-world assets (RWA) has grown recently. Some illicit actors are using "financial innovation" and "tech dividend" as cover, exploiting hype and buzzwords to carry out illegal fundraising, fraud, pyramid schemes, money laundering and unauthorized business operations, disrupting economic and financial order and endangering public property.
+
+---
+
+### 2026-06-12 09:34:17  #其他
+
+【深圳證監局：警惕以投資RWA名義從事非法活動】近年來，現實世界資產（RWA）代幣化概念逐漸興起。一些不法分子趁機以“金融創新”“科技紅利”為幌子，透過蹭熱度、套概念等方式從事非法集資、詐騙、傳銷、洗錢、非法經營等違法犯罪活動，擾亂經濟金融秩序，危害人民群眾財產安全。（深圳證監局）
+
+---
+
+### 2026-06-12 09:34:05  #MKT News #Important #Market Themes #Chip Wars
+
+China's STAR 50 index rose over 4% as semiconductor stocks rallied; constituents Zhongke Feice jumped over 13%, Shengmei Shanghai climbed about 11% and Shanghai Silicon Industry gained about 7%.
+
+---
+
+### 2026-06-12 09:33:57  #央行 #國際
+
+印尼央行：將繼續密切監控全球及國內金融市場動態，維持國內金融工具的吸引力，以支援外資流入。
+
+---
+
+### 2026-06-12 09:33:41  #市場
+
+【華為海思概念持續走強，泰晶科技漲停】華為海思概念持續走強，泰晶科技漲停，盛劍科技、芯源微、北方華創、吳通控股、力源資訊、德龍鐳射等跟漲。
+
+---
+
+### 2026-06-12 09:33:41  #市場 #焦點
+
+現貨黃金失守4180美元/盎司，日內跌0.74%。
+
+---
+
+### 2026-06-12 09:33:15  #央行 #國際
+
+印尼央行：資金流入也已開始重返政府債券市場，尤其是在短期和中期債券領域。
+
+---
+
+### 2026-06-12 09:33:03  #市場 #焦點
+
+科創50日內漲幅達4％，成分股中，中科飛測漲14.21％，芯聯整合漲12.85％，盛美上海漲12.66％，滬矽產業漲9.85％。
+
+---
+
+### 2026-06-12 09:32:57  #市場
+
+【元件板塊走高，泰晶科技漲停】元件板塊走高，泰晶科技漲停，金安國紀、中京電子、博敏電子、明陽電路跟漲。
+
+---
+
+### 2026-06-12 09:32:55  #公司 #市場
+
+【稀土永磁板塊走高，安泰科技漲停】稀土永磁板塊走高，安泰科技漲停，杭華股份漲超10%，中鋼天源、金田股份、中航泰達、大地熊、爭光股份等跟漲。
+
+---
+
+### 2026-06-12 09:32:47  #MKT News #Commodities #Industrial Metals #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-share rare-earth permanent magnet sector rose. Antai Technology hit the daily limit; Hanghua Co surged over 10%. Zhonggang Tianyuan, Jintian, AVIC Taida, Dadi Xiong and Zhengguang also gained.
+
+---
+
+### 2026-06-12 09:32:37  #央行 #國際
+
+印尼央行：在6月10日印尼央行逆回購工具（SRBI）拍賣結束後，外資流入印尼央行發行的印尼盧比計價證券的規模有所提升，這一現象反映出市場作出了積極回應。
+
+---
+
+### 2026-06-12 09:32:31  #MKT News #Important #Commodities #Energy #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
+
+【Oil-focused LOFs open sharply lower; Trump says he will sign Iran peace deal in coming days】Oil-themed LOFs opened broadly lower: Southern Crude LOF, E Fund Crude LOF and Harvest Crude LOF fell over 4%; Petroleum LOF and HuaBao Oil & Gas LOF dropped ~3%; Petroleum Fund LOF down just over 1%. US President Trump said he has reached an agreement with Iran to end the war but that final details remain to be completed and expects to sign a peace agreement in the coming days.
+
+---
+
+### 2026-06-12 09:32:27  #市場
+
+石油主題LOF全線低開，南方原油LOF、原油LOF易方達、嘉實原油LOF均跌超4%，石油LOF、華寶油氣LOF跌近3%，石油基金LOF跌超1%。
+
+---
+
+### 2026-06-12 09:32:17  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-06-12 09:32:11  #市場 #焦點
+
+上海原油連續主力合約日內跌5%，現報556.70元。
+
+---
+
+### 2026-06-12 09:32:00  #央行 #市場 #國際
+
+印尼央行：外國投資者對印尼央行加息以及印尼央行逆回購工具（SRBI）、國債（SBN）收益率上行已作出積極回應。
+
+---
+
+### 2026-06-12 09:31:51  #市場
+
+【半導體裝置板塊走強 耐科裝備漲超15%】早盤半導體裝置板塊大幅走強，耐科裝備漲超15%，富創精密、中科飛測、盛美上海、拓荊科技等漲幅靠前。
+
+---
+
+### 2026-06-12 09:31:30  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+【China stock index futures open morning session】China stock index futures opened higher in the morning session: CSI 300 futures (IF) main contract +1.42%, SSE 50 futures (IH) main contract +0.67%, CSI 500 futures (IC) main contract +2.00%, CSI 1000 futures (IM) main contract +1.79%.
+
+---
+
+### 2026-06-12 09:31:27  #MKT News #Macro & Rates
+
+【China government bond futures open marginally higher】At the morning open, China government bond futures main contracts: 2-year (TS) +0.01%, 5-year (TF) +0.03%, 10-year (T) +0.05%, 30-year (TL) +0.19%.
+
+---
+
+### 2026-06-12 09:31:08  #央行 #國際
+
+印尼央行稱加息後資本流入增加。
+
+---
+
+### 2026-06-12 09:30:18  #MKT News #Market Regions #Greater China #01929.HK #Impact bullish
+
+Chow Tai Fook (01929.HK) shares opened more than 5% higher after reporting annual profit attributable to shareholders of HK$9.004 billion, up 52.2% YoY.
+
+---
+
+### 2026-06-12 09:30:03  #市場
+
+【國債期貨開盤】 30年期主力合約漲0.18%， 10年期主力合約漲0.05%， 5年期主力合約漲0.02%， 2年期主力合約基本持平。
+
+---
+
+### 2026-06-12 09:30:02  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲1.84%， 滬深300指數期貨連續漲1.52%， 中證500指數期貨連續漲1.94%， 上證50指數期貨連續漲0.74%。
+
+---
+
+### 2026-06-12 09:30:02  #市場 #焦點
+
+科創50日內漲幅達3.82%，成分股中，中科飛測漲8.11%，佰維儲存漲7.59%，盛美上海漲6.82%，瀾起科技漲6.69%。
+
+---
+
+### 2026-06-12 09:30:02  #市場 #焦點
+
+北證50日內漲幅達1.15%，成分股中，同惠電子漲5.32%，星圖測控漲4.92%，華嶺股份漲3.76%，萬源通漲3.68%。
+
+---
+
+### 2026-06-12 09:30:02  #MKT News #Important #DQ.N #Impact bullish #002129.SZ
+
+China A-share PV equipment sector opened higher; Jingang PV rose more than 5%, with Maiwei, Jingsheng Electromechanical, Daqo New Energy, Mingguan New Materials and TCL Zhonghuan also up. Media reports say the draft Energy Efficiency Limits and Energy Efficiency Grades for Crystalline Silicon PV Modules and Inverters has entered final pre-release approval and is expected to be published soon.
+
+---
+
+### 2026-06-12 09:29:39  #市場 #國際
+
+【港股人工智慧股走強，智譜漲超7%】智譜漲超7%，瀾起科技漲超6%，劍橋科技漲超5%。
+
+---
+
+### 2026-06-12 09:29:15  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper
+
+【Guangdong imports and exports post five consecutive months of double-digit YoY growth】Through May, Guangdong goods trade totaled 4.44 tln yuan, up 18.8% YoY; exports 2.61 tln yuan, up 10.8%; imports 1.83 tln yuan, up 32.4%. In May alone, trade hit a record monthly high of 948.19 bln yuan, up 20.3% YoY; exports 549.13 bln, up 8.6%; imports 399.06 bln, up 41.2%.
+
+---
+
+### 2026-06-12 09:29:07  #市場
+
+【科創50指數高開3.82%】科創50指數高開3.82%，成分股中僅4股低開，中科飛測、佰維儲存、盛美上海、瀾起科技、拓荊科技領漲。
+
+---
+
+### 2026-06-12 09:29:00  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內漲1%，現報4650.00點。
+
+---
+
+### 2026-06-12 09:29:00  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內漲1%，現報8250.00點。
+
+---
+
+### 2026-06-12 09:29:00  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲1%，現報8130.00點。
+
+---
+
+### 2026-06-12 09:28:51  #其他
+
+【今年以來廣東外貿進出口連續5個月保持兩位數增長】從海關總署廣東分署瞭解到，今年前5個月，廣東進出口4.44萬億元人民幣，增長18.8%，連續5個月保持兩位數增長。其中，出口2.61萬億元，增長10.8%；進口1.83萬億元，增長32.4%。5月，廣東進出口9481.9億元，達歷史月度規模最高值，增長20.3%；其中，出口5491.3億元，增長8.6%；進口3990.6億元，增長41.2%。從出口商品看，“綠色”和“新質”產品雙輪驅動。前5個月，廣東出口機電產品1.84萬億元，增長15.1%，佔廣東出口總值的比重較去年同期提升2.7個百分點至70.5%。其中，鋰電池、電動汽車等綠色產品出口規模持續擴大，分別增長50.3%、17%；3D印表機、數字照相機、無人機等新質產品出口增長更快，分別增長1.2倍、70.7%、27.7%。從進口商品看，前5個月，廣東進口增速顯著高於出口。其中，進口積體電路7099.7億元，增長42.8%，佔廣東進口總值的38.9%；進口電腦及其零部件2542.6億元，增長49.5%。同期，進口食用植物油、牛肉、乳品、食用水產品等優質生活用品分別增長1.3倍、70.9%、8.4%、6.9%。
+
+---
+
+### 2026-06-12 09:28:39  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #CSI300
+
+Chinese shares opened higher on Friday, June 12: China's Shanghai Composite Index up 30.85 points (0.77%) at 4,017.86; Shenzhen Composite Index up 297.54 points (2.00%) at 15,149.52; CSI 300 Index up 62.23 points (1.32%) at 4,784.64; ChiNext Index up 109.84 points (2.88%) at 3,921.09; STAR 50 Index up 63.57 points (3.82%) at 1,726.01.
+
+---
+
+### 2026-06-12 09:28:36  #公司 #市場
+
+【深交所：“盛德轉債”盤中臨時停牌】深交所公告，“盛德轉債”（123270）盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，本所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
+
+---
+
+### 2026-06-12 09:28:00  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share semiconductor sector opened sharply higher; Lanjian Electronics, Jiangfeng Electronics and Fuchuang Precision rose over 10%, Kangqiang Electronics opened nearly 10% higher. Juguang Technology, Zhongke Feice and Shengong Co. also opened higher.
+
+---
+
+### 2026-06-12 09:27:55  #央行 #美聯儲
+
+【沃什“FOMC首秀”在即 美聯儲6月維持利率不變機率升至98.5%】據CME“美聯儲觀察”，美聯儲到6月維持利率不變的機率為98.5%，累計降息25個基點的機率為1.5%。美聯儲到7月維持利率不變的機率為91.3%，累計加息25個基點的機率7.4%，累計降息25個基點的機率為1.4%。
+
+---
+
+### 2026-06-12 09:27:52  #其他
+
+【全國最大半潛式綜合性網箱養殖平臺將投產】今天（12日）下午，全國規模最大的半潛式綜合性網箱養殖平臺將在海南三亞正式投產，並投放首批魚苗。該平臺的養殖水體總量達到6.4萬立方米，相當於約20個標準奧運游泳池的水量。全年可以產出800萬斤魚，同時還可以發展休閒漁業和垂釣觀光等農旅融合新業態。
+
+---
+
+### 2026-06-12 09:27:39  #公司 #市場
+
+【半導體板塊大幅高開】半導體板塊大幅高開，藍箭電子、江豐電子、富創精密漲超10%，康強電子高開近10%，炬光科技、中科飛測、神功股份紛紛高開。
+
+---
+
+### 2026-06-12 09:27:27  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+Australia 10Y Yield Holds at 3-Month Low — Australia’s 10-year government bond yield held its recent decline to around 4.8%, staying near a three-month low as markets widely expect the Reserve Bank will hold policy rates next week. A series of softer economic releases, from GDP to housing prices, reinforced signs that the central bank’s three rate hikes earlier this year began to filter through the economy. Market pricing now ruled out a move at the June 16 meeting, while expectations for an August rate hike have eased sharply to around 35%, down from more than 80% a month ago. The May CPI report due on June 24, will be pivotal after an unexpectedly soft April inflation reading, as policymakers look for clearer evidence that price pressures remain strong. Meanwhile, growing optimism over an imminent US–Iran peace deal eased concerns about persistent inflation, after US President Donald Trump said an agreement could be reached as early as this weekend following his decision to postpone planned strikes on Iran.
+
+---
+
+### 2026-06-12 09:27:26  #MKT News #Important #Commodities #Industrial Metals
+
+【Tungsten names lead gains as about 25% of global WF6 capacity set for permanent shutdown next month】China A-share small-metals sector opened higher, with tungsten plays leading: Xianglu Tungsten rose over 5%, and Zhangyuan Tungsten, China Tungsten High-Tech and Xiamen Tungsten also advanced. Japanese production representing roughly 25% of global tungsten hexafluoride (WF6) capacity will be permanently halted from July 1. WF6 is the only commercial precursor gas for tungsten CVD in semiconductor manufacturing and no substitute is currently available.
+
+---
+
+### 2026-06-12 09:27:21  #市場
+
+小金屬板塊高開，鎢概念領漲，翔鷺鎢業漲超5%，章源鎢業、中鎢高新、廈門鎢業等個股跟漲。
+
+---
+
+### 2026-06-12 09:26:56  #市場 #國際
+
+赤澤亮正表示，日本政府決定擴大對受中東衝突和原油價格上漲影響的中小企業的現金流支援，自7月1日起，將為總共583個類別的企業提供額外支援。
+
+---
+
+### 2026-06-12 09:25:44  #國際
+
+日本經濟產業大臣赤澤亮正稱，日本預計能夠確保石油穩定供應至2028年3月，比政府最初估計的時間長一年。
+
+---
+
+### 2026-06-12 09:25:40  #MKT News #Commodities #Precious Metals
+
+Spot silver fell 1.00% intraday to $66.66/oz.
+
+---
+
+### 2026-06-12 09:25:39  #焦點
+
+三大股指高開，滬指漲0.77％，深成指漲2％，創業板漲2.88％。
+
+---
+
+### 2026-06-12 09:25:33  #市場
+
+現貨白銀日內跌1%，現報66.62美元/盎司。
+
+---
+
+### 2026-06-12 09:25:33  #MKT News #Important #Market Regions #Greater China #Market Themes #Chip Wars #Commodities #Precious Metals #SSE Composite #Impact bullish #SZSE Component
+
+A-shares opened higher: Shanghai Composite rose 0.77%, Shenzhen Composite Index rose 2.00%, ChiNext rose 2.88%. Semiconductors, minor metals, precious metals, advanced packaging, components and optical fiber led gains.
+
+---
+
+### 2026-06-12 09:24:50  #市場
+
+【原料暴漲驅動六氟化鎢漲價潮 業內判斷：後續行情將轉由供需邏輯主導】中船特氣董秘辦人士近日向記記者表示，此輪六氟化鎢行情最初由上游原材料漲價引爆，鎢粉價格上行直接推高生產成本，進而帶動終端售價上調。另有業內人士稱：“今年一季度，鎢粉價格達到階段性高點，市場掛牌交易價格最高達到230萬元一噸，相比往期價格已翻了數倍，隨後有所回落。”受此影響，有部分企業稱“不再承接零散新訂單”，選擇保障存量客戶穩定供貨。業內普遍判斷，後續產品價格的驅動邏輯，將逐步從單一成本上漲，轉向供需格局變化主導。（科創板日報）
+
+---
+
+### 2026-06-12 09:24:36  #MKT News #Commodities #Precious Metals #03330.HK #Impact bullish #01818.HK #02899.HK
+
+Hong Kong-listed gold stocks strengthened. Lingbao Gold (03330.HK) gained over 7%; peers Zhaojin Mining (01818.HK), Chifeng Gold (06693.HK), Tongguan Gold (00340.HK), China Gold International (02099.HK), Zijin Mining (02899.HK) and Zijin Gold International (02259.HK) also advanced.
 
 ---
 
@@ -22890,327 +23214,5 @@ Humana將出售其在Gentiva所持的少數股權。
 ### 2026-06-11 04:28:29  #宏觀
 
 加拿大官員稱，加政府擬出臺法案，禁止 16 歲以下兒童使用社交媒體，同時設定部分豁免情形。
-
----
-
-### 2026-06-11 04:21:59  #其他
-
-甲骨文預計2027財年透過債務和股權融資約400億美元。甲骨文2027財年融資包括已宣佈的200億美元按市價發行計劃。
-
----
-
-### 2026-06-11 04:21:50  #公司
-
-【國際機構看多中國科技資產】今年以來，中國經濟保持穩中有進的發展態勢。對此，海內外多家權威機構近期也密集釋出研究報告，研判中國經濟的發展潛力和新動能。普華永道今年上半年釋出的一系列研報顯示，中國經濟韌性凸顯，新質生產力加速形成，成為全球資本的重要錨點。《全球CEO調研中國報告》發現，將中國內地列為前三大投資目的地的全球CEO比例明顯提升。普華永道宏觀經濟研報指出，一系列資料展現出中國經濟強勁的新動能：今年一季度，中國高技術產業實際使用外資同比增長30.7%，其中，研發與設計服務、計算機及辦公裝置製造業實際使用外資增幅分別達127.8%和88.1%。中國AI領域也表現亮眼，內地企業AI應用能力領跑全球，17%的企業實現AI降本增收。（央視新聞）
-
----
-
-### 2026-06-11 04:21:45  #國際
-
-美國證券交易委員會檔案顯示，戴爾科技於 2026 年 6 月 10 日簽署優先無擔保迴圈信貸協議。  本次信貸協議包含60 億美元迴圈授信額度及5 億美元信用證分項額度，到期日為 2031 年 6 月 10 日。
-
----
-
-### 2026-06-11 04:19:55  #國際
-
-【以色列防長稱針對伊朗的軍事行動“遠未結束”】當地時間10日，以色列國防部長卡茨表示，以色列針對伊朗的軍事行動“遠未結束”，以色列國防軍已準備好在必要時對伊朗實施“強有力的打擊”。卡茨在以色列國防部一項頒獎活動上表示，以軍近期在黎巴嫩南部對真主黨實施多次打擊。在談及與伊朗的緊張局勢時，卡茨稱“不能認為戰爭已經結束”。他強調，如果伊朗發動攻擊，以色列將予以“沉重回擊”。（央視）
-
----
-
-### 2026-06-11 04:18:58  #MKT News
-
-Al Arabiya cited Pakistani sources saying a US-Israel agreement is currently far from being reached.
-
----
-
-### 2026-06-11 04:18:19  #觀點 #國際
-
-【部分美國大銀行因涉嫌非法終止服務面臨聯邦調查】據一位知情人士透露，美國聯邦檢察官正在調查華爾街一些大型銀行是否出於政治原因，非法終止了與部分客戶的業務往來。知情人士表示，針對這些“銀行單方面終止服務”(debanking)指控的調查正由華盛頓特區聯邦檢察官 Jeanine Pirro負責。《華爾街日報》週三早些時候報道稱，Pirro已向包括摩根大通和美國銀行在內的多家銀行發出傳票。
-
----
-
-### 2026-06-11 04:17:01  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Sources: Trump war room weighing large, short strike to pressure Iran】Axios, citing two US sources, says Trump convened a war‑room meeting Wednesday afternoon to discuss possible new strikes on Iran after telling reporters earlier he would strike them again today. One option under consideration is a large but short‑duration operation aimed at pressuring Iran to shift its negotiating position. Attendees reportedly included Vance, Senator Rubio, the CIA director, Joint Chiefs chair Dan Kain, White House envoy Witkoff and other senior officials; Defense Secretary Heggses participated by video.
-
----
-
-### 2026-06-11 04:16:12  #市場
-
-甲骨文股價盤後一度下跌8.6%後轉漲。
-
----
-
-### 2026-06-11 04:14:15  #Trading Economics #Economy #Paraguay #Balance of Trade #Importance 1
-
-Paraguay Posts Trade Surplus in May — Paraguay’s trade balance swung to a $98.1 million surplus in May 2026 from a $201.3 million deficit in the same month a year earlier. Exports rose 22.6% year-on-year to $1.70 billion, driven mainly by a 58.4% increase in primary goods shipments. Exports of industrial manufactures advanced 33.4%, while exports of agricultural manufactures fell 7.5%. Shipments of fuels and energy declined 19.6%. Meanwhile, imports increased 0.8% to $1.60 billion. Purchases of consumer goods rose 6.4%, while imports of intermediate goods increased 20.4%. In contrast, imports of capital goods fell 13.7%.
-
----
-
-### 2026-06-11 04:13:59  #焦點 #國際
-
-【美媒：特朗普在戰情室召開會議，研討針對伊朗的打擊方案】據AXIOS報道，兩名美國訊息人士透露，美國總統特朗普於週三下午在白宮戰情室召開會議，商討對伊朗實施新一輪打擊的相關方案。數小時前，他剛向記者表態，美國 “今日將再度對其發動強力打擊”。 訊息人士稱，特朗普正考慮一項規模大、用時短的軍事行動，意圖迫使伊朗在相關談判中轉變立場，具體細節並未披露。
-
----
-
-### 2026-06-11 04:13:18  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-Axios reported that Trump convened a Situation Room meeting this afternoon local time to discuss possible new strikes on Iran.
-
----
-
-### 2026-06-11 04:11:42  #市場
-
-現貨白銀日內跌3%，現報63.33美元/盎司。
-
----
-
-### 2026-06-11 04:10:04  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell $2.00 intraday to $63.35/oz, down 3.06%.
-
----
-
-### 2026-06-11 04:09:20  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) expects total cloud revenue to grow 57–63% YoY on a constant-currency basis in the first fiscal quarter.
-
----
-
-### 2026-06-11 04:09:06  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) expects fiscal Q1 total revenue to rise 27%–29% on both a constant-currency basis and in U.S. dollars.
-
----
-
-### 2026-06-11 04:08:59  #公司 #國際
-
-據日經新聞：SK 集團將在日本新建資料中心。
-
----
-
-### 2026-06-11 04:08:05  #MKT News #Important #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) targets FY2027 revenue of $90 bln.
-
----
-
-### 2026-06-11 04:07:06  #MKT News #ORCL.O #Impact mixed
-
-Oracle (ORCL.N) said it expects to raise about $40 billion in fiscal 2027 through a mix of debt and equity financing.
-
----
-
-### 2026-06-11 04:06:41  #MKT News #ORCL.N #Impact bearish
-
-Oracle (ORCL.N) shares fell more than 5% in U.S. after-hours trading.
-
----
-
-### 2026-06-11 04:06:25  #MKT News #ORCL.N
-
-ORACLE (ORCL.N) reported cloud revenue of $9.9 bln in FY2026 Q4.
-
----
-
-### 2026-06-11 04:06:06  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) fiscal 2026 Q4 revenue $19.20 bln; market expected $19.095 bln.
-
----
-
-### 2026-06-11 04:06:01  #公司 #其他 #焦點 #國際
-
-甲骨文第四財季調整後營收191.8億美元，預期190.9億美元。
-第四財季軟體營收68.2億美元，預期68.8億美元；
-軟體租賃營收18.8億美元，預期19.3億美元；
-軟體支援營收49.4億美元，預期49.8億美元。
-第四財季雲基建營收57.9億美元，預期57.2億美元。
-
----
-
-### 2026-06-11 04:05:05  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-U.S. equities closed lower on Wednesday, June 10: Dow Jones Industrial Average fell 953.21 points (-1.87%) to 49,918.90; S&P 500 fell 119.65 points (-1.62%) to 7,267.00; Nasdaq Composite fell 509.32 points (-1.98%) to 25,169.50.
-
----
-
-### 2026-06-11 04:04:52  #MKT News #Market Themes #The Trump Trade #LMT.O #Impact bullish #BA.O #BA.L
-
-【Sources: WHITE HOUSE to meet defense contractors on ramping up production】Sources say the Trump administration plans to meet as early as next week at the WHITE HOUSE with executives from the largest U.S. defense contractors to discuss accelerating weapons production after U.S. strikes on Iran and other recent military actions depleted supplies. The meeting would be the WHITE HOUSE's second CEO-level convening on boosting weapons output; a March session included CEOs from BAE Systems, Lockheed Martin and Boeing and the defense secretary. Pentagon negotiators are continuing to press contractors to speed deliveries, and a production agreement reached earlier this year remains central to those efforts.
-
----
-
-### 2026-06-11 04:03:38  #MKT News #NZDUSD #Impact bearish
-
-NZD/USD slid below 0.58, down 0.28% intraday.
-
----
-
-### 2026-06-11 04:03:30  #國際
-
-美國鋁業收跌9.5%，創2025年4月份以來最差單日表現。
-
----
-
-### 2026-06-11 04:03:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-New York gold futures fell below $4,100/oz, down 4.36% intraday.
-
----
-
-### 2026-06-11 04:03:11  #市場 #焦點
-
-紐約期金失守4100美元/盎司，日內跌4.35%。
-
----
-
-### 2026-06-11 04:02:16  #MKT News #Nasdaq100 #Impact bearish #S&P500
-
-The S&P 500 Information Technology sector index fell 2.3%, leaving it 11% below its June 2 record closing high.
-
----
-
-### 2026-06-11 04:02:04  #MKT News #Important #Star Stocks #NVIDIA #Tesla #Market Themes #Magnificent 7 #SMCI.O #Impact bearish #NVDA.O #Nasdaq100
-
-【US close: Nasdaq down nearly 2%; Super Micro plunges 28%】US stocks closed lower Wednesday: Dow fell 1.87%, S&P 500 down 1.61% and Nasdaq Composite down 1.98%. Super Micro Computer (SMCI.O) plunged about 28%. Tesla (TSLA.O) and NVIDIA (NVDA.O) slid more than 3%. Nasdaq Golden Dragon China Index slipped 0.28%; NetEase (NTES.O) rose nearly 4% while GDS Holdings (GDS.O) dropped about 7%.
-
----
-
-### 2026-06-11 04:01:31  #MKT News
-
-Iran's UN ambassador said the United States cannot secure a sustainable agreement through threats, intimidation or the use of force, and that Iran has never negotiated under threat and will not yield to pressure or coercion.
-
----
-
-### 2026-06-11 04:01:27  #市場 #焦點
-
-現貨黃金失守4080美元/盎司，日內跌4.22%。
-
----
-
-### 2026-06-11 04:00:55  #國際
-
-伊朗常駐聯合國大使：依靠威脅、恐嚇或武力，無法與美國達成可持續協議。伊朗從未在威脅下談判，也絕不會屈服於壓力與脅迫。
-
----
-
-### 2026-06-11 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌1.88%，標普500指數跌1.63%，納指跌1.99%。超微電腦跌27.89%，Generac控股跌8.40%，斑馬技術跌7.43%，Insmed跌7.23%，NRG能源跌7.15%，高通跌6.92%。“七姐妹”方面：蘋果漲0.36%，微軟跌1.48%，Meta Platforms跌2.32%，谷歌跌2.42%，亞馬遜跌2.56%，英偉達跌3.72%，特斯拉跌3.80%。
-
----
-
-### 2026-06-11 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌0.27%】萬國資料跌7.26%，優品車跌5.38%，阿特斯跌5.65%，世紀互聯跌5.23%，禾賽科技跌4.66%。
-
----
-
-### 2026-06-11 03:55:26  #MKT News
-
-Saudi state news agency SPA said the Saudi Crown Prince, at the request of Lebanon's president, ordered the resumption of Lebanese exports to Saudi Arabia.
-
----
-
-### 2026-06-11 03:55:17  #其他
-
-SpaceX告知投資者，其已敲定多家一流信用評級機構開展評級工作。
-
----
-
-### 2026-06-11 03:54:54  #其他
-
-沙特官方通訊社訊息：應黎巴嫩總統請求，沙特王儲下令恢復黎巴嫩對沙特的出口貿易。
-
----
-
-### 2026-06-11 03:50:02  #其他
-
-比爾・蓋茨在愛潑斯坦相關小組聽證會後離開國會大廈。
-
----
-
-### 2026-06-11 03:47:14  #央行 #其他
-
-墨西哥央行行長： 墨美雙方在金融監管領域的溝通已有所改善 ，預計世界盃不會引發金融風險。
-
----
-
-### 2026-06-11 03:44:47  #其他
-
-白宮提名布萊恩・約翰遜擔任消費者金融保護局局長，白宮已將該提名提交至參議院。
-
----
-
-### 2026-06-11 03:40:36  #宏觀 #國際
-
-【美國5月退還近220億美元關稅 基本抵消當月關稅收入】美國財政部在5月向進口商退還了近220億美元的關稅收入。這是自最高法院推翻特朗普的大部分關稅措施以來，美國政府進行的首批此類退款。根據財政部週三釋出的宣告，5月退還的關稅總額較4月的20億美元大幅增加。從本財年的前8個月來看，整體財政赤字收窄至1.25萬億美元，較去年同期下降9%。與此同時，關稅收入在去年10月達到峰值。財政部宣告顯示，5月的關稅退款金額與當月的徵收額大致相當，這意味著兩者基本相互抵消。
-
----
-
-### 2026-06-11 03:40:27  #MKT News #SMCI.O #Impact bearish
-
-Super Micro Computer (SMCI.O) shares fell more than 25% after the company announced plans to raise $7 billion through an equity offering.
-
----
-
-### 2026-06-11 03:38:50  #國際
-
-【美軍連續第二天在阿曼灣向油輪開火 】美軍中央司令部10日在社交媒體釋出訊息稱，美軍9日晚在阿曼灣向一艘油輪開火，並致使其喪失航行能力。這是美軍連續第二天向所謂“違反美方對伊朗港口封鎖令”的船隻開火。訊息稱，這艘懸掛帛琉國旗的油輪當時正試圖從伊朗運輸石油，“違反了美方正在實施的封鎖令”。在該油輪船員多次不聽從美軍指令後，一架美軍飛機向該船機艙發射了精確制導武器。訊息還說，自4月13日開始對伊朗港口的海上交通實施封鎖以來，美軍已致使8艘“違規”船隻喪失航行能力，強制134艘船隻改變航向。（新華社）
-
----
-
-### 2026-06-11 03:38:06  #其他
-
-智利國家銅業委員會：埃斯孔迪達銅礦 4 月產量同比下降 22%。
-
----
-
-### 2026-06-11 03:38:01  #國際
-
-市場訊息：巴西與美國預計將於週五就關稅問題展開磋商。
-
----
-
-### 2026-06-11 03:37:02  #其他
-
-超微電腦跌幅擴大至26%，為自2020年3月以來的最大跌幅。
-
----
-
-### 2026-06-11 03:35:33  #其他
-
-墨西哥反壟斷機構對至少 7 家房地產企業處以超 5 億比索罰款。
-
----
-
-### 2026-06-11 03:34:11  #公司
-
-智利國家銅業委員會：智利國家銅業公司 4 月銅產量同比下降 14%。
-
----
-
-### 2026-06-11 03:33:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Iran parliament security chief says war will not be confined to region】After Trump’s comments about possible further strikes on Iran, Ibrahim Aziz, head of the Iranian parliament’s National Security Committee, posted on social media saying US casualties are already far higher than Trump has acknowledged and will continue to rise, and that the war "will not be confined to the region."
-
----
-
-### 2026-06-11 03:33:11  #國際
-
-【伊朗議會要員：戰爭將不會侷限於本地區】在特朗普發表有關可能進一步打擊伊朗的言論後，伊朗議會國家安全委員會負責人易卜拉欣·阿齊茲在社交媒體上釋出了一則強硬表態。他表示：“我們不懼怕與失敗者作戰。美國的傷亡人數已經遠遠高於特朗普所承認的數字，而且還會繼續上升。這一次，戰爭將不會侷限於本地區。我們拭目以待！”
-
----
-
-### 2026-06-11 03:32:31  #央行 #其他
-
-墨西哥央行行長：墨西哥信用評級下調不會對金融業造成影響。
-
----
-
-### 2026-06-11 03:31:59  #MKT News
-
-Washington Post reports the White House supports child online-safety legislation.
 
 ---
