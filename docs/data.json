@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-17 16:23:50",
-  "count": 18497,
+  "updated": "2026-06-17 16:28:04",
+  "count": 18488,
   "items": [
+    {
+      "id": "4940441",
+      "time": "2026-06-17 16:26:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渤海化學：16萬噸/年丙烯酸裝置投產】渤海化學公告，公司此前將部分募投專案變更為“丙烯酸酯和高吸水性樹脂新材料專案”，由子公司渤海石化負責實施。本次公告顯示，該募投專案中的16萬噸/年丙烯酸裝置已於2026年6月16日正式投料執行，並一次性產出合格優等品，裝置執行平穩、指標全面達標。"
+    },
+    {
+      "id": "4940440",
+      "time": "2026-06-17 16:26:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國加州和佛州發生林火】美國加利福尼亞州南部里弗賽德縣日前發生林火。該州消防部門16日稱，林火蔓延迅速，附近居民被迫疏散至臨時帳篷區，當地一條高速公路部分關閉。此外，佛羅里達州邁阿密以西也燃起林火。16日，火勢逼近居民區和交通要道。兩起林火發生的具體原因目前還不清楚。（央視新聞）"
+    },
+    {
+      "id": "4940439",
+      "time": "2026-06-17 16:25:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天宇股份：美阿沙坦鉀原料藥透過CDE評審】天宇股份(300702)6月17日公告，公司美阿沙坦鉀原料藥近日透過國家藥監局藥品審評中心（簡稱“CDE”）審評，尚須取得浙江省藥監局GMP符合性檢查結果為“符合要求”的公示後，方可在國內上市銷售。該藥品適用於治療成人原發性高血壓。"
+    },
+    {
+      "id": "mkt:019ed4af-89aa-7dd8-b048-c33c11519101",
+      "time": "2026-06-17 16:25:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yuma Technology said it currently does not produce PTFE membranes."
+    },
+    {
+      "id": "4940438",
+      "time": "2026-06-17 16:25:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本靜岡市地下水檢測出高濃度有機氟化合物】據日本方面訊息，近日，日本靜岡市清水區三井化工廠周邊地下水檢測出高濃度有機氟化合物（PFAS）。6月16日，日本有關民間團體公佈了其對該工廠周邊居民血液檢測的結果。在接受血液檢測的37名居民中，有14人的有機氟化合物濃度超標。（央視新聞）"
+    },
+    {
+      "id": "4940437",
+      "time": "2026-06-17 16:24:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Stellantis、Wayve與Uber三方合作，推進全球L4級無人駕駛計程車規模化落地】Stellantis、Wayve及Uber 6月17日宣佈簽署合作備忘錄，三方將聯合探索第四級（L4）全自動駕駛無人計程車的全球開發與部署。Stellantis負責基於L4就緒平臺設計、工程開發及量產車輛，平臺內建感測器套件並滿足高強度無人駕駛運營所需的安全冗餘要求；Wayve提供端到端AI駕駛軟體，無需逐城市高精地圖即可適配不同地區及駕駛場景；Uber則透過其全球出行平臺部署無人駕駛車輛，連線乘客與自動駕駛出行服務。三方計劃就車輛整合、測試驗證及商業部署展開合作，目標覆蓋歐洲、北美及更廣泛市場。"
+    },
+    {
+      "id": "mkt:019ed4ae-4b76-7dd8-b048-b8e18d7f554e",
+      "time": "2026-06-17 16:24:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Analysts: Warsh's debut this week; markets watch for signals from new Fed chair】The Federal Reserve's rate decision due Wednesday will be the first under new chair Kevin Warsh. Markets will parse what Warsh says and omits for clues to changes in Fed communication, focusing on the wording of the post-meeting statement, any stylistic shifts and whether the post-decision press conference will be retained. Warsh is expected to push reforms he has outlined, including shrinking the Fed's balance sheet to refocus the central bank on monetary policy. James Grant, editor of Grant's Interest Rate Observer, said Warsh should confront the Fed's weakest financial positions and consider holding gold to improve optics — the Fed currently holds no gold — and warned that if the Treasury stopped covering Fed losses the central bank would have been insolvent, with losses on fixed-income assets and bonds exceeding reported equity."
+    },
+    {
+      "id": "4940436",
+      "time": "2026-06-17 16:23:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬 Destinus 打擊系統公司將在德國新建工廠。"
+    },
     {
       "id": "4940435",
       "time": "2026-06-17 16:23:12",
@@ -170115,162 +170186,6 @@
         "國際"
       ],
       "text": "【商務部副部長兼國際貿易談判副代表凌激與歐委會貿易和經濟安全總司總司長約根森舉行會談】6月9日，商務部副部長兼國際貿易談判副代表凌激在歐盟總部與歐委會貿易和經濟安全總司總司長約根森舉行會談，深入、全面地討論了中歐貿易投資磋商機制的籌備工作。雙方同意，將致力於中歐貿易投資磋商機制首次會議取得務實成果，穩定雙邊經貿關係，並推動其可持續發展。"
-    },
-    {
-      "id": "4927710",
-      "time": "2026-06-10 16:27:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鋁集團中鋁（鄭州）鋁業有限公司澠池分公司專項科員武文華接受審查調查】6月10日，據“清風澠池”微信公眾號訊息，中鋁集團中鋁（鄭州）鋁業有限公司澠池分公司專項科員武文華涉嫌嚴重違紀違法，目前正接受中國長城鋁業有限公司紀委紀律審查和三門峽市澠池縣監察委員會監察調查。"
-    },
-    {
-      "id": "4927709",
-      "time": "2026-06-10 16:27:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新五豐：5月生豬銷售48.97萬頭】新五豐公告，2026年5月銷售生豬48.97萬頭，同比增減26.54%，商品豬銷價9.41元/公斤；其中銷售商品豬24.34萬頭。1月至5月累計銷售生豬238.82萬頭，累計銷售商品豬138.4萬頭。"
-    },
-    {
-      "id": "4927708",
-      "time": "2026-06-10 16:27:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東江環保：子公司大象物流擬2000萬元額度參與投標中南股份鋼材產成品汽運直髮配送專案】東江環保公告，子公司廣東大象物流科技有限公司擬在2000萬元額度範圍內參與上海歐冶物流股份有限公司的“2026-2027年度中南股份鋼材產成品汽運直髮配送專案”投標。該專案預計年度運量260萬噸，總運費約2.5億元。歐冶物流為公司主要股東寶武集團的控股子公司，構成關聯交易。本次投標不構成重大資產重組，無需提交股東會審議。"
-    },
-    {
-      "id": "4927707",
-      "time": "2026-06-10 16:27:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗披露打擊美MQ-9無人機影片】伊朗今天（6月10日）披露了當天擊落美軍MQ-9無人機的影片。 當地時間今天（6月10日）凌晨，伊朗伊斯蘭革命衛隊宣佈，在霍爾木茲海峽持續進行的空戰中，一架試圖從波斯灣北部接近伊朗並介入戰鬥的美軍MQ-9“死神”無人機，在布什爾省賈姆市上空被伊朗防空部隊擊落並摧毀。（CCTV國際時訊）"
-    },
-    {
-      "id": "4927706",
-      "time": "2026-06-10 16:27:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國航運公司赫伯羅特執行長：霍爾木茲海峽何時再次開放尚不明確；開放後，恢復正常也需要時間。危機持續時間越長，恢復正常所需時間就越長——目前至少需要三個月。"
-    },
-    {
-      "id": "mkt:019eb0a4-85d5-7aad-8122-e5b472c34b6b",
-      "time": "2026-06-10 16:27:12",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "ZELENSKIY said Ukrainian-made Flamingo missiles struck a military factory in Cheboksary and that Ukraine attacked the Novokuibyshevsk oil refinery in Russia."
-    },
-    {
-      "id": "4927705",
-      "time": "2026-06-10 16:27:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【不投不行但又顧忌馬斯克的空前控制權 部分投資者為SpaceX上市犯難】紐約市主計長Mark Levine表示，埃隆·馬斯克將對SpaceX擁有的空前控制權，代表了漠視普通股東權利的新高度。Levine在一個採訪中表示：“我理解我們正處於一個創始人想要更多控制權的時代。但馬斯克對SpaceX的打算‘遠遠超出了我們以往所見’。”“它是史無前例的，”他說。SpaceX將於本週上市，這宗規模將重新整理紀錄的IPO受到了渴望參與的投資者極力追捧。但要想投資這家公司，就必須接受這種公司治理結構：馬斯克擁有約80%的投票權，同時兼任執行長、技術長以及董事會主席。對於追蹤指數的大型投資者而言，不投SpaceX並不容易。該公司已迫使市場圍繞它做出調整。負責監管紐約市公共養老基金中約3000億美元主動和被動管理投資組合的Levine表示，將SpaceX排除在外是件“非常複雜”的事。"
-    },
-    {
-      "id": "4927704",
-      "time": "2026-06-10 16:26:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭州園林：2025年度權益分派方案將實施 每10股派0.5元】杭州園林公告稱，2025年度權益分派方案已獲2026年5月15日股東會審議透過。以總股本132,416,609股為基數，向全體股東每10股派0.5元現金（含稅），共計派送現金紅利662.08萬元。股權登記日為2026年6月16日，除權除息日為6月17日。此次委託中國結算深圳分公司代派A股股東現金紅利，部分股東現金紅利由公司自行派發。"
-    },
-    {
-      "id": "4927703",
-      "time": "2026-06-10 16:26:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【力量鑽石：擬變更10.28億元募集資金投向新專案】力量鑽石公告稱，公司於2026年6月10日召開董事會會議，擬將“商丘力量鑽石科技中心及培育鑽石智慧工廠建設專案”尚未使用的102,769.55萬元募集資金，變更投入“金剛石功能材料生產研發建設專案”。原專案受裝置迭代、配件價格波動等影響，建設週期拉長、成本上漲。新專案契合國家產業方向，盈利和回報更佳。該事項尚需提交公司股東會審議。"
-    },
-    {
-      "id": "mkt:019eb0a3-88e5-7aad-8122-ddd4fc5a6af8",
-      "time": "2026-06-10 16:26:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian Foreign Ministry spokesperson Baghaei said the United States continues to violate the ceasefire agreement, undermining the diplomatic process."
-    },
-    {
-      "id": "4927702",
-      "time": "2026-06-10 16:25:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交官表示，美國持續違反停火協議，破壞了外交程序。"
-    },
-    {
-      "id": "mkt:019eb0a3-345d-7aad-8122-d6042a5256f2",
-      "time": "2026-06-10 16:25:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Iran's SNN news agency reported that Foreign Ministry spokesman BAGHAEI said, when asked about talks with the United States, that following last night's clashes Tehran needs to reassess the situation."
-    },
-    {
-      "id": "4927701",
-      "time": "2026-06-10 16:25:34",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門：支援主流電商平臺設立中國消費名品專區 推動中國消費名品線上線下全渠道推廣】工業和資訊化部辦公廳、市場監管總局辦公廳開展2026年“吃貨季”食品提質擴需工作。豐富食品消費場景，打造多元融合消費新模式。順應消費升級趨勢，結合重要節假日與季節消費特點，開展主題消費活動，構建“線上+線下”“體驗+服務”多元化消費模式。鼓勵商圈、景區、特色街區打造“美食消費場景”，融合餐飲體驗、文化展示、休閒娛樂等元素，提升趣味性和參與感，打造消費新場景新熱潮，發展興趣消費、體驗經濟。支援主流電商平臺設立中國消費名品專區，推動中國消費名品線上線下全渠道推廣。"
-    },
-    {
-      "id": "4927700",
-      "time": "2026-06-10 16:24:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人就與美國的談判問題接受詢問時表示，經過昨夜的衝突，德黑蘭方面需要重新評估談判態勢。"
-    },
-    {
-      "id": "4927699",
-      "time": "2026-06-10 16:24:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我們繼續對俄羅斯軍事設施和石油工業實施烏克蘭遠端制裁。具體來說，今晚，烏克蘭FP-5‘火烈鳥’導彈擊中了切博克薩雷的一家軍工廠，該工廠為佔領軍提供無人機和導彈的零部件。"
-    },
-    {
-      "id": "mkt:019eb0a2-2810-7aad-8122-ce0334e5c334",
-      "time": "2026-06-10 16:24:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "Nasdaq100",
-        "Impact bullish",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【Guojin Securities' Mu Yiling: Market enters high-volatility; favor active defense, dividends and upstream tech】Guojin Securities chief strategist Mu Yiling says AI capex as a share of global GDP is rising rapidly and has real cyclical support, comparable to China’s 2005–07 urbanization-driven growth cycle; capital is concentrating in AI hardware. He sees room for further gains in the Philadelphia Semiconductor Index, while A-share growth valuations have expanded faster than US peers and some profits are priced near the most optimistic levels of the 2005–07 cycle—yet valuation alone does not imply a market top and the market lacks rotation conditions. The AI narrative is weighing on growth outside the US; A-shares are hitting new highs even as breadth (rising-stock share) contracts. Mu judges the market has entered a high-volatility regime similar to early 2007 and recommends an active-defensive allocation: priority to dividend sectors (oil, coal, power, city commercial banks), secondary emphasis on upstream tech (semiconductors/AI materials, equipment and manufacturing); medium-term, once AI headwinds ease, favor industrial metals, general and specialized machinery and export-oriented names."
-    },
-    {
-      "id": "4927698",
-      "time": "2026-06-10 16:24:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高測股份：實控人張頊完成減持3.00%】高測股份公告，公司控股股東、實際控制人兼董事長張頊減持計劃已完成。減持前持股1.87億股，佔22.50%；計劃減持不超過2492.32萬股（3.0000%）。2026年4月15日至6月9日，張頊透過集中競價減持830.77萬股、大宗交易減持1661.55萬股，合計2492.32萬股，佔公司總股本3.00%，減持價格區間10.26～14.59元/股，減持總金額3.37億元。減持後持股1.62億股，佔19.50%。"
     }
   ]
 }
