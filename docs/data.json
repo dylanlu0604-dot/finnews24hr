@@ -1,7 +1,170 @@
 {
-  "updated": "2026-06-17 21:38:29",
-  "count": 18470,
+  "updated": "2026-06-17 21:42:38",
+  "count": 18478,
   "items": [
+    {
+      "id": "mkt:019ed5d0-7d4d-7dd8-b052-bf2976046198",
+      "time": "2026-06-17 21:41:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【SFC chief executive Leung Fung-yee says timetable for government bond futures listing and trading to be published imminently】SFC chief executive Leung Fung-yee said on June 17 at the 2026 Lujiazui Forum the regulator will imminently publish a timetable for the listing and trading of government bond futures in Hong Kong. She said the futures, described as a flagship offshore risk-management tool, should encourage greater overseas investor participation in China’s government bond market once listed."
+    },
+    {
+      "id": "mkt:019ed5cf-ec78-7dd8-b052-b39cc6aca967",
+      "time": "2026-06-17 21:40:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude breaks above $80/bbl, up 0.98% intraday."
+    },
+    {
+      "id": "mkt:019ed5cf-cbbb-7dd8-b052-aaa1046c4344",
+      "time": "2026-06-17 21:40:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's defense minister said Italy will not join the US PURL program to supply weapons to Ukraine."
+    },
+    {
+      "id": "4941212",
+      "time": "2026-06-17 21:40:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國精算師協會召開換屆工作會議 選舉劉志清為會長】據中國精算師協會（下稱“協會”）官微，近日，協會換屆工作會議順利召開。國家金融監督管理總局財務會計司司長徐春武出席並致辭。會議選舉產生了協會第五屆理事會，選舉協會黨委書記劉志清為會長，利明光、張道明、田美攀、劉渠、張振勇為副會長，張曉蕾為秘書長。"
+    },
+    {
+      "id": "te:markets:559745",
+      "time": "2026-06-17 21:40:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.11% Higher — The Dow Jones Index is gaining 56 points or 0.11 percent on Wednesday. Leading the gains are Caterpillar (1.95%), JPMorgan (1.21%) and American Express (1.02%). Top losers are Salesforce (-2.39%), IBM (-2.04%) and Microsoft (-1.61%)."
+    },
+    {
+      "id": "4941211",
+      "time": "2026-06-17 21:40:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【富達稱沃什在美聯儲決議後對通脹的闡釋可能引發債市波動】富達投資(Fidelity Investments)表示，新任美聯儲主席凱文·沃什若就通脹發表看法，可能會在債券市場引發波動。富達固定收益投資組合經理Julian Potenza稱，在債券投資者消化週三的美聯儲政策宣告和經濟預測摘要後，沃什在決議後的亮相可能成為市場波動的催化劑。他週二接受採訪時表示：“這是一個有趣的局面，因為雖然沒有人真正預計美聯儲會實際採取行動，但可能確實存在一些波動的風險，因為我們不知道沃什會傳達些什麼。市場考驗新主席的現象並不罕見。”市場預計，美聯儲將把政策利率區間維持在3.5%-3.75%，並將宣告調整為中性立場，逆轉自美聯儲2024年開始降息以來一直存在的寬鬆傾向。一些官員因擔心通脹高企，預計將透過季度點陣圖暗示2026年以及可能2027年存在加息的可能性。"
+    },
+    {
+      "id": "te:markets:559744",
+      "time": "2026-06-17 21:39:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Inch Higher Ahead of Fed — US stock indices were mostly higher on Wednesday amid a rebound for chip stocks ahead of the Federal Reserve's likely hold during the session. The S&P 500 was flat and the Dow held at its record of 52,000, while the Nasdaq gained 0.3%. Iran and the US remained on track to sign their agreement by Friday, which will restore the export of energy from all countries in the Persian Gulf and remove sanctions on Iran, softening concerns of energy-drive inflation. The Fed is due to holds rate but should unveil hints on its outlook with a fresh SEP, and Chairman Warsh could unveil timelines on framework changes he previously called for. Nvidia edged higher and SpaceX gained for its fourth session since its IPO with support from the acquisition of Cursor. Marvell and AMD rose more than 2%, while Intel gained 2% as its new chip reached risk production."
+    },
+    {
+      "id": "4941210",
+      "time": "2026-06-17 21:39:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利國防部長：義大利不會加入美國向烏克蘭提供武器的PURL計劃。"
+    },
+    {
+      "id": "4941209",
+      "time": "2026-06-17 21:39:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：期待明天在北約總部歡迎各國國防部長，共同商討安卡拉北約峰會的最後籌備工作。"
+    },
+    {
+      "id": "4941208",
+      "time": "2026-06-17 21:39:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國太保董事長傅帆：為中國海外利益保駕護航是滬港保險協同的發力點】6月17日，中國太保董事長傅帆在2026陸家嘴論壇上表示，面對複雜多變的國際形勢，中國保險業亟需提升全球服務能力、完善風險保障和風險分散機制，為中國海外利益保駕護航，而這正是滬港保險協同的發力點。"
+    },
+    {
+      "id": "4941207",
+      "time": "2026-06-17 21:39:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "SAAB公司宣佈對總部位於巴黎的戰場人工智慧公司Comand AI進行1110萬歐元的戰略投資，獲得其10%股權。"
+    },
+    {
+      "id": "mkt:019ed5ce-74a3-7dd8-b052-a62cbaf98651",
+      "time": "2026-06-17 21:38:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General RUTTE said he expects to welcome defense ministers at NATO headquarters tomorrow to discuss final preparations for the Ankara NATO summit."
+    },
+    {
+      "id": "4941206",
+      "time": "2026-06-17 21:38:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所訊息：英國現貨碳排放許可成交價 57.23 英鎊 / 噸。"
+    },
+    {
+      "id": "4941205",
+      "time": "2026-06-17 21:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【渣打禤惠儀：隨著滬港聯動不斷深化 中國金融開放的空間將進一步擴大】6月17日，渣打香港兼大中華及北亞區行政總裁禤惠儀在2026陸家嘴論壇上表示，高水平金融開放既需要創新，也需要協同。隨著滬港聯動不斷深化，中國金融開放的空間將進一步擴大，人民幣國際化也將逐步走向更廣泛的全球配置。"
+    },
+    {
+      "id": "4941203",
+      "time": "2026-06-17 21:38:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇與中國東航簽署戰略合作協議】6月17日，江蘇省與中國東方航空集團簽署戰略合作協議。省委書記信長星、省長劉小濤會見中國東方航空集團董事長王志清一行。"
+    },
+    {
+      "id": "4941202",
+      "time": "2026-06-17 21:38:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "SAAB投資COMAND AI以強化歐洲防務領域。"
+    },
+    {
+      "id": "4941201",
+      "time": "2026-06-17 21:38:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月17日21時33分在青海海西州直轄區（北緯37.82度，東經95.53度）發生3.4級地震，震源深度10千米。"
+    },
+    {
+      "id": "4941200",
+      "time": "2026-06-17 21:38:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【香港證監會梁鳳儀：將馬上公佈國債期貨掛牌買賣時間表】香港證監會行政總裁梁鳳儀17日在2026陸家嘴論壇上表示，香港證監會將馬上公佈國債期貨掛牌買賣的時間表。“我們相信，這個旗艦級的離岸風險管理工具掛牌後，將有力推動境外投資者更加積極地參與國債市場。”"
+    },
     {
       "id": "4941199",
       "time": "2026-06-17 21:37:35",
@@ -169784,107 +169947,6 @@
         "公司"
       ],
       "text": "【“磁吸”效應顯著 香港登頂全球最大財富管理中心】波士頓諮詢公司近期釋出的報告顯示，香港已超越瑞士，成為全球最大跨境財富管理中心，比此前的市場預計提前兩年左右。金融業界人士認為，排名的變化體現了全球財富格局的重組，而香港正處於這一轉變的中心，能憑藉其獨特優勢保持對跨境財富的“磁吸”效應。（新華社）"
-    },
-    {
-      "id": "4928513",
-      "time": "2026-06-10 21:42:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【防控埃博拉 非洲疾控中心呼籲加強口岸篩查】非洲疾病預防控制中心9日釋出宣告，呼籲所有非洲聯盟成員國緊急評估、加強並落實機場、港口及主要陸路口岸的篩查和公共衛生措施，以遏制當前埃博拉病毒的傳播。 宣告說，非洲疾控中心主任卡塞亞致信非盟各成員國衛生部長，敦促各國採取協調一致行動，在保障人員安全流動、貿易、人道主義行動和經濟活動的同時，從源頭上遏制埃博拉病毒跨境傳播。該機構強調，在出入境口岸採取強有力的公共衛生措施，是降低風險、維護國際信心的切實、可見且可驗證的方法。（新華社）"
-    },
-    {
-      "id": "4928512",
-      "time": "2026-06-10 21:41:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金短線走高近25美元，報4167.9美元/盎司。"
-    },
-    {
-      "id": "mkt:019eb1c4-3673-7dd8-afa2-c8649a8b4a57",
-      "time": "2026-06-10 21:41:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【Analyst: Fed faces major difficulty in final phase of fighting inflation】Northwestern Mutual Wealth Management CIO Brent Schutte said today’s inflation print does little to change that the Fed is struggling in the final phase of fighting inflation. Inflation has remained above the 2% target for years with little to no improvement. A weak labor market has given the Fed cover to cut rates; as the labor market recovers, investors should reassess whether the Fed will need to refocus on actually delivering its inflation target."
-    },
-    {
-      "id": "4928511",
-      "time": "2026-06-10 21:41:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智元推出靈犀X2 EDU（人人造）版本，面向科教實訓等場景】6月10日，智元推出靈犀X2 EDU（人人造）版本，面向科研教育、工程實訓、機器人賽事開發等多元場景，聚焦裝置拆裝實訓與軟體二次開發。據介紹，靈犀X2 EDU（人人造）版本在硬體設計上強調可拆裝、可擴充套件與可二次開發。整機含假頭身高130釐米，重量35千克，全身具備29個自由度，單臂具備7個自由度；最大末端負載可達3千克，最高行走速度可達1.8米/秒，可滿足教學演示、結構認知、運動控制實驗和賽事開發等多類實操需求。"
-    },
-    {
-      "id": "4928510",
-      "time": "2026-06-10 21:40:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，海天網路漲40.00%，億航漲8.09%，億咖通科技漲4.84%，復朗集團漲4.62%，再鼎醫藥漲4.68%。"
-    },
-    {
-      "id": "te:markets:558084",
-      "time": "2026-06-10 21:40:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Lower as Tech Sector Drags — US stocks were lower on Wednesday, with the S&P 500 down 0.6%, the Nasdaq falling 0.8%, and the Dow Jones losing 280 points, as a renewed tech selloff weighed on sentiment amid lingering concerns over elevated AI-related valuations. Nvidia (-1.4%), Broadcom (-3.9%), and Micron Technology (-3.5%) were among the steepest decliners, while Oracle slipped 2.4% ahead of its earnings release after the closing bell. The industrial sector also weakened, although energy stocks outperformed as oil prices rose amid continued strikes between Iran and the US. Meanwhile, the latest CPI report showed US annual inflation accelerating to 4.2% in May, in line with expectations, while core inflation rose less than anticipated on a monthly basis, increasing 0.2%. The data offered some reassurance that the energy-driven shock has not yet meaningfully spilled over into broader price pressures. Still, markets continue to fully price in a 25-basis-point rate hike in December."
-    },
-    {
-      "id": "te:markets:558083",
-      "time": "2026-06-10 21:40:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.52% Lower — The Dow Jones Index is dropping 264 points. Leading the losses are Salesforce (-2.06%), 3M (-2.05%) and Honeywell International (-1.86%). Top gainers were Coca-Cola (1.52%), Verizon (1.46%) and Chevron (1.17%)."
-    },
-    {
-      "id": "mkt:019eb1c2-da2e-7dd8-afa2-c6e7cd0885c3",
-      "time": "2026-06-10 21:39:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose nearly $25 intraday to $4,167.90/oz."
-    },
-    {
-      "id": "4928509",
-      "time": "2026-06-10 21:39:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將Nuvalent股票評級從買入下調至中性，目標股價從每股138.00美元下調至每股124.00美元。"
-    },
-    {
-      "id": "4928508",
-      "time": "2026-06-10 21:38:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美股部分光通訊股盤初反彈】美股部分光通訊股盤初反彈，AAOI漲超10%，Credo漲超6%，Lumentum漲超4%。"
     }
   ]
 }
