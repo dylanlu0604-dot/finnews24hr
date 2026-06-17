@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-18 05:42:23",
-  "count": 18757,
+  "updated": "2026-06-18 05:46:24",
+  "count": 18755,
   "items": [
+    {
+      "id": "mkt:019ed78b-5016-7dd8-b064-ae0d840c1397",
+      "time": "2026-06-18 05:44:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NewsNation reporter said US-Iran officials have not explained how the electronic memorandum signed Wednesday evening differs from the one signed last Sunday."
+    },
+    {
+      "id": "mkt:019ed789-b684-7dd8-b064-a0554d3ce7c6",
+      "time": "2026-06-18 05:43:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil rises on 17th】NYMEX July light sweet crude futures rose $0.74 to $76.79 a barrel at the close, up 0.97%. ICE Brent August futures gained $0.59 to $79.55 a barrel at the close, up 0.75%."
+    },
+    {
+      "id": "4941876",
+      "time": "2026-06-18 05:42:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價17日上漲】國際油價17日上漲。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲74美分，收於每桶76.79美元，漲幅為0.97%；8月交貨的倫敦布倫特原油期貨價格上漲59美分，收於每桶79.55美元，漲幅為0.75%。"
+    },
     {
       "id": "mkt:019ed788-9374-7dd8-b064-98a68739f0ef",
       "time": "2026-06-18 05:41:52",
@@ -172870,56 +172899,6 @@
         "國際"
       ],
       "text": "有報道稱，伊朗阿薩盧耶的南帕爾斯天然氣田綜合體一處石化設施遭到襲擊。"
-    },
-    {
-      "id": "4929022",
-      "time": "2026-06-11 05:46:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Politico：特朗普將不會出席美國“世界盃”揭幕賽。"
-    },
-    {
-      "id": "mkt:019eb37f-5fd7-7dd8-afad-5ddf37a8914a",
-      "time": "2026-06-11 05:45:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports Trump will not attend the US World Cup opening match."
-    },
-    {
-      "id": "mkt:019eb37d-b7fd-7dd8-afad-50f73e5e50c7",
-      "time": "2026-06-11 05:43:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Bushehr in southern Iran was attacked."
-    },
-    {
-      "id": "4929021",
-      "time": "2026-06-11 05:42:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據半島電視臺：以色列已對伊朗發動打擊。"
-    },
-    {
-      "id": "mkt:019eb37c-edce-7dd8-afad-4d354f9781d0",
-      "time": "2026-06-11 05:42:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Al Jazeera reports Israel has launched strikes against Iran."
     }
   ]
 }
