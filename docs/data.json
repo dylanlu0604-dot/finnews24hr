@@ -1,7 +1,177 @@
 {
-  "updated": "2026-06-18 02:43:37",
-  "count": 18620,
+  "updated": "2026-06-18 02:47:41",
+  "count": 18632,
   "items": [
+    {
+      "id": "mkt:019ed6e8-69b1-7dd8-b060-41874071d5f0",
+      "time": "2026-06-18 02:46:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said submitting his personal dot plot would not help policy implementation."
+    },
+    {
+      "id": "4941675",
+      "time": "2026-06-18 02:46:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 在被問及新聞釋出會的存續規劃時稱，新聞釋出會是非常有效的政策溝通渠道。"
+    },
+    {
+      "id": "mkt:019ed6e7-e6fa-7dd8-b060-3b56d29f4a62",
+      "time": "2026-06-18 02:46:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he was impressed by colleagues' openness over the past two days."
+    },
+    {
+      "id": "mkt:019ed6e7-d533-7dd8-b060-371ac230ac2f",
+      "time": "2026-06-18 02:46:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he has not heard strong conviction in participants' submitted forecasts."
+    },
+    {
+      "id": "4941674",
+      "time": "2026-06-18 02:46:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 態度十分開放。 本人提交點陣預測值無益於政策制定工作。"
+    },
+    {
+      "id": "mkt:019ed6e7-7a76-7dd8-b060-2833d9f23b5b",
+      "time": "2026-06-18 02:45:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he expects a comprehensive review of Fed communications by year-end, covering press conferences, the dot plot and meeting schedules."
+    },
+    {
+      "id": "4941673",
+      "time": "2026-06-18 02:45:42",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 預計年底前將針對政策溝通機制開展全面評估，涵蓋新聞釋出會、點陣圖及議息會議相關安排。"
+    },
+    {
+      "id": "4941672",
+      "time": "2026-06-18 02:45:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 並未感受到委員們提交的經濟預測中帶有十足篤定的判斷。"
+    },
+    {
+      "id": "mkt:019ed6e6-d829-7dd8-b060-225d6cfade84",
+      "time": "2026-06-18 02:45:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed's dot plot is drawn in pencil and can be erased."
+    },
+    {
+      "id": "4941671",
+      "time": "2026-06-18 02:45:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 政策制定者不會受點陣預測數值約束。"
+    },
+    {
+      "id": "4941670",
+      "time": "2026-06-18 02:44:47",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 提到點陣圖的預測資料都是可修改提交的，留有很大調整空間。"
+    },
+    {
+      "id": "mkt:019ed6e6-1d23-7dd8-b060-1cf7d9f7593c",
+      "time": "2026-06-18 02:44:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh: We have work to do."
+    },
+    {
+      "id": "4941669",
+      "time": "2026-06-18 02:44:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：被問及點陣圖的未來走向時，稱我們已成立專項工作組處理此事 。"
+    },
+    {
+      "id": "mkt:019ed6e5-f994-7dd8-b060-112f6b47b073",
+      "time": "2026-06-18 02:44:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed's policy stance is uneven across economic sectors."
+    },
+    {
+      "id": "4941668",
+      "time": "2026-06-18 02:44:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 美聯儲政策對房地產市場已顯現收緊效果，但對金融市場尚未形成抑制作用。美聯儲政策對各經濟板塊的作用力度不均衡。"
+    },
+    {
+      "id": "mkt:019ed6e5-9ba3-7dd8-b060-0f70279d77e1",
+      "time": "2026-06-18 02:43:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed's policy is unevenly restrictive."
+    },
+    {
+      "id": "mkt:019ed6e5-5acc-7dd8-b060-049a47c6ffa1",
+      "time": "2026-06-18 02:43:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said Fed policy appears restrictive for the housing market but not for financial markets."
+    },
     {
       "id": "mkt:019ed6e4-ab13-7dd8-b05f-fb15adecf4b5",
       "time": "2026-06-18 02:42:50",
@@ -171455,48 +171625,6 @@
         "國際"
       ],
       "text": "美國參議員伊麗莎白·沃倫要求美國證券交易委員會暫緩推進SpaceX的首次公開募股。"
-    },
-    {
-      "id": "4928906",
-      "time": "2026-06-11 02:46:51",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【特朗普大讚花旗併購顧問排名居首 但首位並非花旗】美國總統特朗普突然熱衷於併購話題，出人意料地點名稱讚花旗集團執行長Jane Fraser。特朗普大談一項備受投行人士看重的指標，祝賀花旗在併購顧問業務方面排名第一。不過，目前尚不清楚總統依據哪份排名榜將花旗排在首位。帖子釋出後，花旗股價一度躍升。“哇！花旗第一季度按交易金額計算，在併購顧問市場排名第一，”特朗普週三上午發帖稱，“祝賀Jane F和她所有優秀的員工。他們真的非常努力！花旗大逆轉！！！”特朗普發帖前不久，福克斯商業頻道週三上午播出了一檔電視節目，主持人Maria Bartiromo採訪了花旗資深銀行家Leon Kalvaria。畫面上的資訊條顯示，花旗第一季度在電力行業併購交易顧問市場排名第一 —— 這只是整體併購市場中的一小部分。"
-    },
-    {
-      "id": "mkt:019eb2d9-b490-7dd8-afaa-d02edcfeeb09",
-      "time": "2026-06-11 02:44:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GM (GM.N) battery head Kurt Kelty said the automaker’s future EVs may not adopt low-cost LFP (lithium iron phosphate) batteries. A Tennessee plant will begin producing LFP cells for energy-storage systems this month; those cells are not intended for electric vehicles."
-    },
-    {
-      "id": "4928905",
-      "time": "2026-06-11 02:43:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用汽車電池主管凱爾蒂表示，田納西工廠將於本月啟動磷酸鐵鋰電池的生產，該電池將用於儲能系統而非電動汽車。"
-    },
-    {
-      "id": "mkt:019eb2d9-01f7-7dd8-afaa-c9c84f5cfa00",
-      "time": "2026-06-11 02:43:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India exempted excise duty on gasoline with higher ethanol blends, according to an official notice."
-    },
-    {
-      "id": "4928904",
-      "time": "2026-06-11 02:43:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用汽車電池主管凱爾蒂表示，通用汽車未來電動汽車或不採用低成本磷酸鐵鋰（LFP）電池。"
     }
   ]
 }
