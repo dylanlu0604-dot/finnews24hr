@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-18 07:45:39",
-  "count": 18763,
+  "updated": "2026-06-18 07:49:41",
+  "count": 18765,
   "items": [
+    {
+      "id": "4942027",
+      "time": "2026-06-18 07:48:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數或上漲 受對伊朗協議的樂觀情緒及AI需求提振】得益於對美伊和平協議的持續樂觀情緒以及不斷增長的AI需求，日本股市可能上漲。新加坡交易所的日經指數期貨上漲0.9%，至70740點。投資者正關注中東局勢的任何進展以及原油價格。日經指數週三上漲0.7%，至69902.25點。"
+    },
+    {
+      "id": "mkt:019ed7fc-5854-7dd8-b066-42c4c399bde7",
+      "time": "2026-06-18 07:48:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Republican conservatives blame Vice President Vance for 'bad' Iran deal】According to NewsNation, conservative Republican lawmakers have begun publicly blaming Vice President Vance, calling a recently reached agreement with Iran 'bad' and saying it erases President Trump's military gains. One lawmaker said conservatives in Congress were 'shocked' Vance struck such a deal, accusing him of losing at the 11th-hour by negotiating away those gains. On a visit to France, Trump praised the Iran agreement, signed a copy of a memorandum of understanding in Versailles, and quipped he would take credit if it succeeds and blame Vance if it fails. A White House source pushed back, calling the criticisms an attempt to strip the president of authority and to obstruct the peace deal."
+    },
+    {
+      "id": "4942026",
+      "time": "2026-06-18 07:48:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達供應商SK海力士向主要客戶發貨了下一代晶片樣品】SK海力士週四表示，已向主要客戶 發出了其最新一代高頻寬記憶體（簡稱HBM) 晶片的 樣品，這家韓國晶片製造商正致力於在快速增長的人工智慧半導體市場中鞏固其地位。該公司表示，這款新一代12層HBM4E晶片的單引腳傳輸速率最高可達每秒16千兆位元，能效較前代產品提升超過20%。HBM晶片被應用於AI晶片組，是英偉達等公司生產的處理器中的關鍵元件，有助於處理訓練AI模型所需的海量資料。SK海力士是英偉達的主要HBM供應商，其競爭對手三星和美光也在該領域展開競爭。"
+    },
+    {
+      "id": "4942025",
+      "time": "2026-06-18 07:47:28",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什首秀引發美債市場劇烈震盪 交易員對美聯儲加息押注激增】凱文·沃什沒用多少時間就引起了債券市場的關注。交易員拋售短期美債，導致部分債券收益率創下一年多來的最大漲幅，期貨交易員紛紛押注最早下個月就會加息，此前沃什在作為美聯儲主席的首次新聞釋出會上強硬地強調了一點：央行不會容忍高通脹。“我們從政策制定者那裡得到的訊息非常明確，那就是短期內利率不會下降，”花旗財富首席投資官Kate Moore表示。期貨交易員已開始充分消化10月前加息25個基點的預期，屆時正值中期選舉前夕，甚至可能更早。30年期美國國債價格上漲，拉低了收益率，這表明市場對通脹最終將在長期內得到控制抱有信心。這些走勢標誌著過去幾個月來市場對利率走向預期發生了顯著轉變，即使油價回落，美國和伊朗也越來越接近結束戰爭，這種轉變仍在持續。"
+    },
+    {
+      "id": "4942024",
+      "time": "2026-06-18 07:46:52",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【馬斯克又一好友加入SpaceX董事會 曾長期任職紅杉資本】馬斯克又任命另一位好友和長期盟友加入了SpaceX董事會。SpaceX在週三提交的檔案中表示，羅洛夫·博塔（Roelof Botha）將立即擔任獨立董事和審計委員會成員，從而成為公司董事會第八位成員。自2003年以來，博塔一直在紅杉資本工作，最終於2022年晉升為董事總經理，並於去年卸任。他現在是紅杉資本的顧問，並在其網站上被列為種子和早期團隊以及成長團隊的成員。2000年，在PayPal成立初期，馬斯克招募了博塔加入，兩人都來自南非。紅杉資本一直是馬斯克旗下公司的重要支持者，投資了SpaceX、Neuralink和Boring Company，並參與了馬斯克對推特的槓桿收購."
+    },
+    {
+      "id": "4942023",
+      "time": "2026-06-18 07:45:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.24點。"
+    },
+    {
+      "id": "4942022",
+      "time": "2026-06-18 07:45:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲0.7%。"
+    },
     {
       "id": "4942021",
       "time": "2026-06-18 07:44:23",
@@ -172866,52 +172931,6 @@
         "國際"
       ],
       "text": "日本二季度BSI大型製造業信心指數 -1.8，前值 3.8。"
-    },
-    {
-      "id": "4929155",
-      "time": "2026-06-11 07:48:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哥倫比亞總統要求特朗普停止干涉選舉】哥倫比亞總統佩特羅針對特朗普公開表態支援極右翼候選人德拉埃斯普列利亞一事，在社交媒體上要求特朗普停止干涉該國總統選舉，並強調選舉應由哥倫比亞人民自主決定。佩特羅指出，哥倫比亞憲法禁止總統選舉接受外國資金與支援。特朗普承諾若德拉埃斯普列利亞當選，美國將給予全力支援。初步計票結果顯示，德拉埃斯普列利亞和左翼候選人塞佩達進入第二輪投票，將於6月21日舉行，新任總統8月7日宣誓就職。（新華社）"
-    },
-    {
-      "id": "4929154",
-      "time": "2026-06-11 07:48:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍：商船仍在繼續進出霍爾木茲海峽】當地時間6月10日，美軍中央司令部發布訊息稱，伊朗伊斯蘭革命衛隊聲稱霍爾木茲海峽已關閉的說法是錯誤的。當晚，商船仍在繼續進出霍爾木茲海峽。伊朗伊斯蘭革命衛隊海軍當地時間11日宣佈，鑑於美國屢次違反停火協議，霍爾木茲海峽已關閉，直至另行通知。（央視）"
-    },
-    {
-      "id": "mkt:019eb3ee-d33b-7dd8-afaf-0eac4948d111",
-      "time": "2026-06-11 07:47:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【US military: commercial vessels continue transiting Strait of Hormuz】US Central Command said on June 10 local time that Iran’s Islamic Revolutionary Guard Corps’ claim the Strait of Hormuz had been closed was false and commercial vessels were still transiting the strait that evening. On June 11 local time the IRGC navy announced the Strait of Hormuz was closed until further notice, citing repeated US violations of a ceasefire agreement."
-    },
-    {
-      "id": "4929153",
-      "time": "2026-06-11 07:45:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.23點。"
-    },
-    {
-      "id": "4929152",
-      "time": "2026-06-11 07:45:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數期貨早盤下跌2%。"
     }
   ]
 }
