@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17 16:07:15",
+  "updated": "2026-06-17 16:11:32",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -83,64 +83,6 @@
               "history_checked_at": "2026-06-12 17:05:23"
             },
             {
-              "id": "capital:1168112",
-              "fid": "1168112",
-              "interval": "this_week",
-              "date": "2026-06-15",
-              "time": "07:01",
-              "datetime": "2026-06-15 07:01:00",
-              "display_time": "06/15 07:01",
-              "country": "英國",
-              "title": "英國6月Rightmove平均房屋要價指數年率",
-              "importance": 1,
-              "previous": "-0.3 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168112",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "05/18",
-                  "actual": "-0.3",
-                  "forecast": "-",
-                  "previous": "-0.9"
-                },
-                {
-                  "date": "04/20",
-                  "actual": "-0.9",
-                  "forecast": "-",
-                  "previous": "-0.2"
-                },
-                {
-                  "date": "03/16",
-                  "actual": "-0.2",
-                  "forecast": "-",
-                  "previous": "0"
-                },
-                {
-                  "date": "02/16",
-                  "actual": "0",
-                  "forecast": "-",
-                  "previous": "0.5"
-                },
-                {
-                  "date": "01/19",
-                  "actual": "0.5",
-                  "forecast": "-",
-                  "previous": "-0.6"
-                },
-                {
-                  "date": "12/15",
-                  "actual": "-0.6",
-                  "forecast": "-",
-                  "previous": "-0.5"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-06-12 17:05:23"
-            },
-            {
               "id": "capital:1175503",
               "fid": "1175503",
               "interval": "this_week",
@@ -199,38 +141,38 @@
               "history_checked_at": "2026-06-14 12:02:31"
             },
             {
-              "id": "capital:1168111",
-              "fid": "1168111",
+              "id": "capital:1168112",
+              "fid": "1168112",
               "interval": "this_week",
               "date": "2026-06-15",
               "time": "07:01",
               "datetime": "2026-06-15 07:01:00",
               "display_time": "06/15 07:01",
               "country": "英國",
-              "title": "英國6月Rightmove平均房屋要價指數月率",
+              "title": "英國6月Rightmove平均房屋要價指數年率",
               "importance": 1,
-              "previous": "1.2 %",
+              "previous": "-0.3 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168111",
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168112",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
                 {
                   "date": "05/18",
-                  "actual": "1.2",
+                  "actual": "-0.3",
                   "forecast": "-",
-                  "previous": "0.8"
+                  "previous": "-0.9"
                 },
                 {
                   "date": "04/20",
-                  "actual": "0.8",
+                  "actual": "-0.9",
                   "forecast": "-",
-                  "previous": "0.8"
+                  "previous": "-0.2"
                 },
                 {
                   "date": "03/16",
-                  "actual": "0.8",
+                  "actual": "-0.2",
                   "forecast": "-",
                   "previous": "0"
                 },
@@ -238,19 +180,19 @@
                   "date": "02/16",
                   "actual": "0",
                   "forecast": "-",
-                  "previous": "2.8"
+                  "previous": "0.5"
                 },
                 {
                   "date": "01/19",
-                  "actual": "2.8",
+                  "actual": "0.5",
                   "forecast": "-",
-                  "previous": "-1.8"
+                  "previous": "-0.6"
                 },
                 {
                   "date": "12/15",
-                  "actual": "-1.8",
+                  "actual": "-0.6",
                   "forecast": "-",
-                  "previous": "-1.8"
+                  "previous": "-0.5"
                 }
               ],
               "history_status": "cached",
@@ -313,6 +255,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-06-14 12:02:31"
+            },
+            {
+              "id": "capital:1168111",
+              "fid": "1168111",
+              "interval": "this_week",
+              "date": "2026-06-15",
+              "time": "07:01",
+              "datetime": "2026-06-15 07:01:00",
+              "display_time": "06/15 07:01",
+              "country": "英國",
+              "title": "英國6月Rightmove平均房屋要價指數月率",
+              "importance": 1,
+              "previous": "1.2 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168111",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "05/18",
+                  "actual": "1.2",
+                  "forecast": "-",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "03/16",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "0"
+                },
+                {
+                  "date": "02/16",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "2.8"
+                },
+                {
+                  "date": "01/19",
+                  "actual": "2.8",
+                  "forecast": "-",
+                  "previous": "-1.8"
+                },
+                {
+                  "date": "12/15",
+                  "actual": "-1.8",
+                  "forecast": "-",
+                  "previous": "-1.8"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-06-12 17:05:23"
             },
             {
               "id": "capital:1168113",
@@ -25170,64 +25170,6 @@
       "history_checked_at": "2026-06-12 17:05:23"
     },
     {
-      "id": "capital:1168112",
-      "fid": "1168112",
-      "interval": "this_week",
-      "date": "2026-06-15",
-      "time": "07:01",
-      "datetime": "2026-06-15 07:01:00",
-      "display_time": "06/15 07:01",
-      "country": "英國",
-      "title": "英國6月Rightmove平均房屋要價指數年率",
-      "importance": 1,
-      "previous": "-0.3 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168112",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "05/18",
-          "actual": "-0.3",
-          "forecast": "-",
-          "previous": "-0.9"
-        },
-        {
-          "date": "04/20",
-          "actual": "-0.9",
-          "forecast": "-",
-          "previous": "-0.2"
-        },
-        {
-          "date": "03/16",
-          "actual": "-0.2",
-          "forecast": "-",
-          "previous": "0"
-        },
-        {
-          "date": "02/16",
-          "actual": "0",
-          "forecast": "-",
-          "previous": "0.5"
-        },
-        {
-          "date": "01/19",
-          "actual": "0.5",
-          "forecast": "-",
-          "previous": "-0.6"
-        },
-        {
-          "date": "12/15",
-          "actual": "-0.6",
-          "forecast": "-",
-          "previous": "-0.5"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-06-12 17:05:23"
-    },
-    {
       "id": "capital:1175503",
       "fid": "1175503",
       "interval": "this_week",
@@ -25286,38 +25228,38 @@
       "history_checked_at": "2026-06-14 12:02:31"
     },
     {
-      "id": "capital:1168111",
-      "fid": "1168111",
+      "id": "capital:1168112",
+      "fid": "1168112",
       "interval": "this_week",
       "date": "2026-06-15",
       "time": "07:01",
       "datetime": "2026-06-15 07:01:00",
       "display_time": "06/15 07:01",
       "country": "英國",
-      "title": "英國6月Rightmove平均房屋要價指數月率",
+      "title": "英國6月Rightmove平均房屋要價指數年率",
       "importance": 1,
-      "previous": "1.2 %",
+      "previous": "-0.3 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168111",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168112",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
         {
           "date": "05/18",
-          "actual": "1.2",
+          "actual": "-0.3",
           "forecast": "-",
-          "previous": "0.8"
+          "previous": "-0.9"
         },
         {
           "date": "04/20",
-          "actual": "0.8",
+          "actual": "-0.9",
           "forecast": "-",
-          "previous": "0.8"
+          "previous": "-0.2"
         },
         {
           "date": "03/16",
-          "actual": "0.8",
+          "actual": "-0.2",
           "forecast": "-",
           "previous": "0"
         },
@@ -25325,19 +25267,19 @@
           "date": "02/16",
           "actual": "0",
           "forecast": "-",
-          "previous": "2.8"
+          "previous": "0.5"
         },
         {
           "date": "01/19",
-          "actual": "2.8",
+          "actual": "0.5",
           "forecast": "-",
-          "previous": "-1.8"
+          "previous": "-0.6"
         },
         {
           "date": "12/15",
-          "actual": "-1.8",
+          "actual": "-0.6",
           "forecast": "-",
-          "previous": "-1.8"
+          "previous": "-0.5"
         }
       ],
       "history_status": "cached",
@@ -25400,6 +25342,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-06-14 12:02:31"
+    },
+    {
+      "id": "capital:1168111",
+      "fid": "1168111",
+      "interval": "this_week",
+      "date": "2026-06-15",
+      "time": "07:01",
+      "datetime": "2026-06-15 07:01:00",
+      "display_time": "06/15 07:01",
+      "country": "英國",
+      "title": "英國6月Rightmove平均房屋要價指數月率",
+      "importance": 1,
+      "previous": "1.2 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168111",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "05/18",
+          "actual": "1.2",
+          "forecast": "-",
+          "previous": "0.8"
+        },
+        {
+          "date": "04/20",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "0.8"
+        },
+        {
+          "date": "03/16",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "0"
+        },
+        {
+          "date": "02/16",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "2.8"
+        },
+        {
+          "date": "01/19",
+          "actual": "2.8",
+          "forecast": "-",
+          "previous": "-1.8"
+        },
+        {
+          "date": "12/15",
+          "actual": "-1.8",
+          "forecast": "-",
+          "previous": "-1.8"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-06-12 17:05:23"
     },
     {
       "id": "capital:1168113",
