@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-18 04:02:05",
-  "count": 18811,
+  "updated": "2026-06-18 04:06:09",
+  "count": 18805,
   "items": [
+    {
+      "id": "4941832",
+      "time": "2026-06-18 04:04:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果籌備第二代iPhone Air，計劃2027年春季推出】蘋果公司正在研發第二代iPhone Air，定於2027年春季釋出，旨在提升這款機型的產品吸引力。新款機型現有原型機新增一枚後置超廣角攝像頭，同時蘋果正著力最佳化裝置續航表現。升級後的iPhone Air將搭載定製版A20 Pro晶片，蘋果認為影像系統與續航是該機型兩大核心升級方向。"
+    },
+    {
+      "id": "4941831",
+      "time": "2026-06-18 04:03:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普媒體科技集團：傑夫·伍德伯裡出任總裁兼營運長。"
+    },
+    {
+      "id": "4941830",
+      "time": "2026-06-18 04:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：選舉魯洛夫·博塔為獨立普通股董事，於2026年6月16日生效。"
+    },
     {
       "id": "4941829",
       "time": "2026-06-18 04:01:27",
@@ -173367,105 +173392,6 @@
         "ORCL.N"
       ],
       "text": "ORACLE (ORCL.N) reported cloud revenue of $9.9 bln in FY2026 Q4."
-    },
-    {
-      "id": "mkt:019eb324-6084-7dd8-afab-b0c69a217dd7",
-      "time": "2026-06-11 04:06:06",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) fiscal 2026 Q4 revenue $19.20 bln; market expected $19.095 bln."
-    },
-    {
-      "id": "4928958",
-      "time": "2026-06-11 04:06:01",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "甲骨文第四財季調整後營收191.8億美元，預期190.9億美元。\n第四財季軟體營收68.2億美元，預期68.8億美元；\n軟體租賃營收18.8億美元，預期19.3億美元；\n軟體支援營收49.4億美元，預期49.8億美元。\n第四財季雲基建營收57.9億美元，預期57.2億美元。"
-    },
-    {
-      "id": "mkt:019eb323-7324-7dd8-afab-ab090b2ce9ac",
-      "time": "2026-06-11 04:05:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities closed lower on Wednesday, June 10: Dow Jones Industrial Average fell 953.21 points (-1.87%) to 49,918.90; S&P 500 fell 119.65 points (-1.62%) to 7,267.00; Nasdaq Composite fell 509.32 points (-1.98%) to 25,169.50."
-    },
-    {
-      "id": "mkt:019eb323-4151-7dd8-afab-a2a03c016bfd",
-      "time": "2026-06-11 04:04:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "LMT.O",
-        "Impact bullish",
-        "BA.O",
-        "BA.L"
-      ],
-      "text": "【Sources: WHITE HOUSE to meet defense contractors on ramping up production】Sources say the Trump administration plans to meet as early as next week at the WHITE HOUSE with executives from the largest U.S. defense contractors to discuss accelerating weapons production after U.S. strikes on Iran and other recent military actions depleted supplies. The meeting would be the WHITE HOUSE's second CEO-level convening on boosting weapons output; a March session included CEOs from BAE Systems, Lockheed Martin and Boeing and the defense secretary. Pentagon negotiators are continuing to press contractors to speed deliveries, and a production agreement reached earlier this year remains central to those efforts."
-    },
-    {
-      "id": "mkt:019eb322-1e4b-7dd8-afab-9dd77ccb43d2",
-      "time": "2026-06-11 04:03:38",
-      "tags": [
-        "MKT News",
-        "NZDUSD",
-        "Impact bearish"
-      ],
-      "text": "NZD/USD slid below 0.58, down 0.28% intraday."
-    },
-    {
-      "id": "4928956",
-      "time": "2026-06-11 04:03:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國鋁業收跌9.5%，創2025年4月份以來最差單日表現。"
-    },
-    {
-      "id": "mkt:019eb321-e7ff-7dd8-afab-9709a2d19d0f",
-      "time": "2026-06-11 04:03:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "New York gold futures fell below $4,100/oz, down 4.36% intraday."
-    },
-    {
-      "id": "4928955",
-      "time": "2026-06-11 04:03:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4100美元/盎司，日內跌4.35%。"
-    },
-    {
-      "id": "mkt:019eb320-de22-7dd8-afab-8da826d61350",
-      "time": "2026-06-11 04:02:16",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "The S&P 500 Information Technology sector index fell 2.3%, leaving it 11% below its June 2 record closing high."
     }
   ]
 }
