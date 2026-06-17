@@ -1,7 +1,145 @@
 {
-  "updated": "2026-06-17 15:54:28",
-  "count": 18475,
+  "updated": "2026-06-17 15:58:42",
+  "count": 18478,
   "items": [
+    {
+      "id": "4940344",
+      "time": "2026-06-17 15:57:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞銀：代理式AI將推動半導體和硬體進一步上行】瑞銀日前釋出亞太科技策略研究報告。該報告就“代理式AI是2026年的關鍵拐點”“儲存器半導體上升週期是否持續”以及“重新審視半導體裝置”等話題進行了探討。瑞銀認為，代理式AI正在加速發展，並被日益視為AI採用過程中的重大拐點。這導致CPU需求顯著提速，原因是需要順序計算週期來訪問多個資源，隨後進行輸出編排和優先順序排序，進而推動獨立通用伺服器以及AI伺服器中 CPU主節點的增長。預計到2027年，主節點CPU佔比將從2025年的29%提升41%。相對於儲存器板塊，晶圓前端裝置股票有望補漲。理由是AI繼續推動DRAM資本開支上行，中國市場和NAND儲存器領域呈增長勢頭，另外，裝置交付週期應在2027年年中趨於正常化，從而在一定程度上緩解產能部署的瓶頸問題。"
+    },
+    {
+      "id": "4940343",
+      "time": "2026-06-17 15:57:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華蘭股份：累計回購1.95%公司股份，使用資金總額為人民幣1.3億元】華蘭股份公告，截至2026年6月16日，公司本次回購方案已實施完畢。公司透過回購專用證券賬戶使用超募資金、自有資金及自籌資金以集中競價交易方式累計回購公司股份數量為320.67萬股，佔公司目前總股本的1.95%，最高成交價格為131.79元/股，最低成交價格為28.7元/股，使用資金總額為人民幣1.3億元（不含交易費用）。"
+    },
+    {
+      "id": "4940342",
+      "time": "2026-06-17 15:57:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：不會批准《外國情報監視法》，除非與《拯救美國法案》一起透過。"
+    },
+    {
+      "id": "4940341",
+      "time": "2026-06-17 15:57:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國船舶、廣東國資成立新公司】企查查APP顯示，近日，中船港航（廣東）船舶有限公司成立，法定代表人為全偉雄，註冊資本為5.88億元，經營範圍包含：通用零部件製造；玻璃纖維增強塑膠製品銷售；海上國際貨物運輸代理；高效能纖維及複合材料製造等。企查查股權穿透顯示，該公司由中國船舶旗下廣船國際有限公司、廣東新中國船廠有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019ed495-b293-7dd8-b047-8d8e443c4ea1",
+      "time": "2026-06-17 15:57:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump canceled today's Senate hearing on the director of national intelligence and said the incumbent DNI will remain in office."
+    },
+    {
+      "id": "4940340",
+      "time": "2026-06-17 15:57:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：暫緩克萊頓提名，直至麥克唐納提名獲得透過。"
+    },
+    {
+      "id": "4940339",
+      "time": "2026-06-17 15:56:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：取消今日針對國家情報總監提名的參議院聽證會。"
+    },
+    {
+      "id": "4940338",
+      "time": "2026-06-17 15:56:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026世界人工智慧大會將有超過300款AI產品全球首發】記者17日獲悉，今年大會共籌劃了近140餘場論壇活動，集聚了1400位嘉賓、千餘名行業領軍人才、龍頭企業和創投代表，大會展覽總面積超過十萬平方米，1100多家企業的3000多項產品集中亮相，超過300款AI產品全球首發。大會聚焦初創企業培育與產業生態融通，截至目前，已賦能57個核心應用場景落地，累計促成162億元的意向合作。大會還將聯動一系列資本企業和投資企業，設立專屬資本對接專區，賦能AI優質專案落地。"
+    },
+    {
+      "id": "mkt:019ed494-f846-7dd8-b047-86fc2a1e1074",
+      "time": "2026-06-17 15:56:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will not sign the Foreign Intelligence Surveillance Act unless it is passed together with the Save America Act."
+    },
+    {
+      "id": "4940337",
+      "time": "2026-06-17 15:56:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：三顆藍鳥衛星全部部署到位，已確認。"
+    },
+    {
+      "id": "4940336",
+      "time": "2026-06-17 15:56:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普爾特將繼續擔任國家情報總監代理一職。"
+    },
+    {
+      "id": "4940335",
+      "time": "2026-06-17 15:55:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銳奇股份等入股黑漫科技 黑漫科技增資至144.5萬】天眼查App顯示，近日，杭州黑漫科技有限公司發生工商變更，新增大連玖兆開鴻基金股權投資合夥企業（有限合夥）、銳奇股份（300126）旗下南京毅達匯奇創業投資合夥企業（有限合夥）為股東，同時註冊資本由約134.4萬人民幣增至約144.5萬人民幣。該公司成立於2025年7月，法定代表人為楊子赫，經營範圍包括智慧機器人的研發、電子元器件製造、智慧機器人銷售等，由楊子赫、劉春寶、杭州黑漫企業管理諮詢合夥企業（有限合夥）、廈門零以創業投資合夥企業（有限合夥）及上述新增股東等共同持股。"
+    },
+    {
+      "id": "4940334",
+      "time": "2026-06-17 15:55:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方直科技：持股5%以上股東協議轉讓公司5.94%股份過戶完成】方直科技公告，持股5%以上股東黃曉峰協議轉讓公司股份1495.38萬股，佔公司總股本的5.94%，過戶登記手續已完成。此次轉讓價格為12元/股，總價款為人民幣1.79億元。轉讓完成後，黃曉峰持有公司股份1511.49萬股，佔公司總股本的6.00%。受讓方張智章持有公司股份1495.38萬股，佔公司總股本的5.94%，成為公司持股5%及以上股東。"
+    },
+    {
+      "id": "4940333",
+      "time": "2026-06-17 15:55:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬德斯：聯合體中標約8023萬元汙水處理廠建設專案】萬德斯公告，公司收到招標人靈臺縣廣源工業科技有限責任公司簽發的《中標通知書》，公司與甘肅省建築設計研究院有限公司、甘肅省長城建設集團有限責任公司聯合體為靈臺縣工業集中區汙水處理廠建設專案EPC總承包中標單位。中標金額約8023萬元，工期720天，專案採用EPC（設計-採購-施工）經營模式。專案建設地點位於靈臺縣中臺鎮雷家河村電廠南側達溪河右岸，設計規模為5000m3/d。"
+    },
+    {
+      "id": "4940332",
+      "time": "2026-06-17 15:54:29",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【廖岷主持召開財政部國際財經研究專家工作室2026年論壇】2026年6月15日下午，財政部黨組成員、副部長廖岷主持召開財政部國際財經研究專家工作室2026年論壇，聽取專家學者對當前國際國內宏觀經濟形勢的看法和意見建議。會上，張宇燕、黃益平、盧鋒、伍戈、崔凡等專家就相關問題發表看法並提出意見建議。 廖岷表示，當前世界百年變局加速演進，國際政治經濟格局深度調整，全球治理體系處於調整變革的關鍵時期。“十五五”時期，財政部門要加強對系統性、戰略性和前瞻性問題跟蹤研判，積極參與全球經濟金融治理體系改革，推動構建新型大國經濟關係，透過高水平國際財經合作有效服務構建新發展格局。國際財經研究專家工作室為對外財經工作提供重要智力支援，要進一步加強與專家的溝通交流，聚焦我國和世界經濟新情況研提對策建議，共同服務於國家發展大局和財政中心工作。"
+    },
+    {
+      "id": "4940331",
+      "time": "2026-06-17 15:54:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷豹路虎：計劃透過增加全混合動力電動汽車（HEV）選裝配置，為英國海爾伍德工廠基於EMA平臺生產的未來車型賦予更大靈活度。"
+    },
+    {
+      "id": "4940330",
+      "time": "2026-06-17 15:54:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "捷豹路虎：目標是將美國業務規模發展至與當前整個捷豹路虎集團業務規模相當。"
+    },
     {
       "id": "mkt:019ed492-626c-7dd8-b047-787904f801fb",
       "time": "2026-06-17 15:53:43",
@@ -240,6 +378,14 @@
         "公司"
       ],
       "text": "【浩辰軟體：目前暫未涉及物理AI或AI技術在模擬領域的應用】浩辰軟體6月17日在互動平臺稱，公司目前暫未涉及物理AI或AI技術在模擬領域的應用。"
+    },
+    {
+      "id": "4940312",
+      "time": "2026-06-17 15:48:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高通CEO：任何可穿戴裝置將成智慧體的終端】晶片巨頭高通正著手研發40餘款AI驅動的新裝置。高通CEO克里斯蒂亞諾·阿蒙（Cristiano Amon）表示，這些裝置包括首飾、帶攝像頭的耳機、可佩戴的胸針以及手錶。隨著消費者與裝置之間關係的改變，AI智慧體將成為“新的app”。據CNBC當地時間6月16日報道，阿蒙表示，高通有超過40款此類裝置的設計方案，這些裝置的外形規格非常廣泛。核心理念是可穿戴在身上時刻伴使用者左右，並能感知周圍世界，從而獲得上下文資訊，讓使用者能夠訪問智慧體並與智慧體對話。（澎湃）"
     },
     {
       "id": "4940311",
@@ -169891,135 +170037,6 @@
         "公司"
       ],
       "text": "【道通科技回應被列入1260H清單：與美國國防部無業務往來，未影響全球正常經營】道通科技6月10日在互動平臺表示，關於公司被美國國防部列入1260H清單事項，公司於今年2月已關注。1260H清單本身不構成制裁清單，影響主要集中於美國國防部的採購限制。截至目前，公司與美國國防部無直接採購關係，也未有業務往來。自今年2月以來，該事項未影響公司在全球市場的正常經營，公司經營業績持續穩健提升。"
-    },
-    {
-      "id": "4927610",
-      "time": "2026-06-10 15:58:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豐立智慧：5597.86萬股限售股6月15日上市流通】豐立智慧公告稱，本次解除限售的股東共8戶，解除限售股份數量為5597.86萬股，佔公司總股本的46.61%，限售期為42個月。該部分限售股將於2026年6月15日上市流通。截至公告日，申請解除限售的股東在限售期內嚴格遵守承諾，不存在未履行承諾影響本次限售股上市流通的情況。公司董事會將監督相關股東遵守承諾，並在定期報告中披露股東履行承諾情況。"
-    },
-    {
-      "id": "4927609",
-      "time": "2026-06-10 15:58:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美的集團在杭州成立新公司 註冊資本200萬】天眼查App顯示，近日，杭州美的數智樓宇裝置銷售有限公司成立，法定代表人為張崴翰，註冊資本200萬人民幣，經營範圍包括家用電器銷售、家用電器零配件銷售、機械電氣裝置銷售等。股東資訊顯示，該公司由美的集團（000333）旗下海南美的樓宇科技有限公司、佛山市美的空調工業投資有限公司共同持股。"
-    },
-    {
-      "id": "mkt:019eb089-f051-7aad-8122-18e37ade54dd",
-      "time": "2026-06-10 15:58:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China vice trade minister Li Chenggang meets former U.S. Treasury secretary Hank Paulson】On the afternoon of June 9, Li Chenggang, China’s chief international trade negotiator and a vice minister, met with former U.S. Treasury secretary Hank Paulson and exchanged views on China-U.S. economic and trade relations."
-    },
-    {
-      "id": "4927608",
-      "time": "2026-06-10 15:58:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【李成鋼國際貿易談判代表兼副部長會見美國前財政部長、保爾森基金會主席保爾森】6月9日下午，李成鋼國際貿易談判代表兼副部長會見美國前財政部長、保爾森基金會主席保爾森，雙方就中美經貿關係等議題進行交流。"
-    },
-    {
-      "id": "mkt:019eb089-bff6-7aad-8122-147a5c882d01",
-      "time": "2026-06-10 15:57:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Administration for Market Regulation to accelerate mutual recognition with international standards】The State Administration for Market Regulation (SAMR) said China will deepen alignment with international rules and accelerate mutual recognition of standards and conformity-assessment systems, prioritising key partner regions and major trading partners. SAMR will proactively benchmark international conformity-assessment rules, technical regulations and standards, and speed up alignment of domestic certification rules, testing methods and evaluation metrics with global practice while participating in international rule‑setting to facilitate cross‑border trade. The agency plans to establish mutual‑recognition mechanisms to clear the ‘last mile’ of implementation, promote international recognition of certification results, cross‑border acceptance of testing data and shared use of audit experience, aiming for a “one test, one certification, multi‑country acceptance, global circulation” model and to have domestic certification results included in international acceptance lists. SAMR said these measures are intended to lower certification costs, shorten certification cycles and expand overseas acceptance to address exporters’ difficulties, high certification expenses and lack of interoperability."
-    },
-    {
-      "id": "mkt:019eb089-911f-7aad-8122-0876de9bab39",
-      "time": "2026-06-10 15:57:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "RNO.PA",
-        "Impact bullish"
-      ],
-      "text": "Renault CEO called for a 10-year freeze on new EU automotive regulations."
-    },
-    {
-      "id": "4927607",
-      "time": "2026-06-10 15:57:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國美國商會名譽主席：中美關係回穩將極大提振企業投資中國的信心】中國美國商會名譽主席、美中貿易全國委員會董事、和睦家醫療創始人李碧菁表示，中美雙邊關係重回穩定，將極大提振美國企業來華投資的信心。深耕中國醫療市場多年的李碧菁認為，中美產業鏈供應鏈深度繫結、經濟高度依存，隨著雙方約定常態化磋商、攜手穩固雙邊合作環境，美國商界投資中國的顧慮持續消解，越來越多美企董事會願意批准在華投資規劃。（中國日報網）"
-    },
-    {
-      "id": "mkt:019eb089-6802-7aad-8122-0002964a1ee7",
-      "time": "2026-06-10 15:57:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【AmCham China honorary chair says stable US-China ties would significantly boost US firms' investment confidence in China】AmCham China honorary chair and US-China Business Council board member Li Bijing, founder of United Family Healthcare, said a return to stable US-China relations would significantly boost US companies' confidence to invest in China, citing deep bilateral supply-chain integration and economic interdependence. She added that normalized, regular consultations and joint steps to stabilize the bilateral environment are easing US business concerns and prompting more US boards to approve China investment plans."
-    },
-    {
-      "id": "4927606",
-      "time": "2026-06-10 15:57:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【斯迪克：公司MLCC離型膜產銷運轉平穩】斯迪克在互動平臺表示，近期MLCC下游需求逐步回暖，公司MLCC離型膜產銷運轉平穩，產能將依據中長期市場需求穩步建設、有序釋放。公司執行市場化定價模式，面對上游原材料成本上漲，會結合市場供需、客戶合作週期協商調價，合理轉移成本壓力。訂單規模、調價幅度、產能爬坡進度等經營細節涉及商業機密不便披露，整體經營情況請以公司定期公告為準。"
-    },
-    {
-      "id": "4927605",
-      "time": "2026-06-10 15:57:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局：我國將加快推動與國際規則標準體系相容互認】記者今天瞭解到，市場監管總局有關負責人表示，我國將繼續深化與國際規則對接，加快推動規則標準體系相容互認。聚焦重點合作區域和主要貿易伙伴，主動對標國際合格評定規則、技術法規和標準體系，加快國內認證規則、檢測方法、評價指標與國際通行做法接軌；積極參與國際合格評定規則制定，推動跨境貿易暢通。另外，健全互認採信機制，打通規則落地的“最後一公里”，大力推進認證結果國際互認、檢測資料跨境採信、稽核經驗共享共用，爭取形成“一次檢測、一次認證、多國採信、全球通行”的合作模式。同時，推動國內認證結果能被納入國際採信清單。幫企業降低認證成本、縮短認證週期、擴大結果採信，真正破解“出海難、認證貴、不互通”的問題。（央視新聞）"
-    },
-    {
-      "id": "4927604",
-      "time": "2026-06-10 15:56:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美銀維持蘋果買入評級 看好AI戰略與Siri升級前景】美國銀行維持蘋果股票買入評級，目標價定為380美元。 分析師Wamsi Mohan在研報中寫道，2026年全球開發者大會公佈了蘋果人工智慧戰略的重要進展。依託豐厚的股東回報、龐大的存量使用者基數，以及未來產品與服務帶來的增長空間，該行繼續看好蘋果股價表現。 Mohan表示，蘋果正將Siri從傳統語音助手升級為智慧個人助手。全新Siri能夠理解使用者使用場景、識別螢幕內容、跨應用檢索資訊，並代使用者執行各類操作。 美國銀行還特別提到了蘋果自研基礎大模型，本次大會發布的多項新功能均依託該模型實現。 蘋果這套大模型支援端側執行+雲端協同模式，既能實現更前沿的功能，又可保障裝置效能與資料安全。分析師補充道，蘋果的雲端基礎設施主要採用自研軟硬體搭建。"
-    },
-    {
-      "id": "mkt:019eb088-029e-7aad-8121-fcc20d11c114",
-      "time": "2026-06-10 15:56:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "【SK Hynix could list in U.S. as early as August】SK Hynix could list American depositary receipts (ADRs) in the U.S. as early as August, with the SEC likely to approve the ADR listing application in the week of June 22, people familiar with the matter said. The company said it plans to issue ADRs in 2026 but that size and timing remain undecided. SK Hynix quietly filed for a U.S. listing in March; a source then said the offering could raise up to $14 bln."
-    },
-    {
-      "id": "4927603",
-      "time": "2026-06-10 15:54:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新開源：回購公司股份計劃實施完成，成交總金額2.99億元】新開源公告，公司於2026年4月22日召開董事會審議透過回購方案，擬以不低於2.5億元且不超過3億元回購股份，回購價格上限27.23元/股。截至公告日，回購方案已實施完畢，累計回購股份1600.1萬股（佔總股本3.31%），成交總金額2.99億元（不含交易費用），回購價格區間16.36-20.26元/股。回購股份將用於股權激勵計劃或員工持股計劃。"
-    },
-    {
-      "id": "4927602",
-      "time": "2026-06-10 15:54:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【融創集團內部人事任命：融創中國執行總裁兼成渝區域總裁張強分管集團地產板塊】近日融創集團內部發布了一則任命資訊，任命融創中國執行總裁兼成渝區域總裁張強分管地產板塊，包括集團總部地產業務相關部門、各地產區域、集團直屬城市。張強是跟隨孫宏斌多年的老將，2003年進入融創集團，歷任戰略發展總監、營銷總監、營銷中心總經理。2013年，張強晉升為融創中國副總裁，併兼任上海融創綠城執行總經理。之後，任融創上海區域副總裁、蘇州公司總經理。此後在原西南區域負責人商羽離職後，張強被調任融創成渝區域總裁。（澎湃新聞）"
-    },
-    {
-      "id": "4927601",
-      "time": "2026-06-10 15:54:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天津自貿區管委會主任調整】近日，中國（天津）自由貿易試驗區管理委員會（以下簡稱“天津自貿區管委會”）迎來新任主任。據天津政務網訊息，天津市政府6月1日釋出《關於王秀峰、李文海任免職務的通知》稱，王秀峰任中國（天津）自由貿易試驗區管理委員會主任；李文海不再擔任中國（天津）自由貿易試驗區管理委員會主任職務。天津自貿區官網顯示，王秀峰目前擔任天津市副市長、天津自貿區管委會主任。"
     }
   ]
 }
