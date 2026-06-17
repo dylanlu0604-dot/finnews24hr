@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-18 05:22:08_
-_本檔包含 3787 則快訊，約 695468 字_
+_更新時間：2026-06-18 06:19:33_
+_本檔包含 3797 則快訊，約 696207 字_
+
+---
+
+### 2026-06-14 17:20:01  #MKT News
+
+YONHAP reports South Korean senior FX officials met U.S. counterparts to discuss foreign-exchange markets and agreed to cooperate on addressing won weakness.
+
+---
+
+### 2026-06-14 17:19:39  #國際
+
+韓國高階外匯官員與美國官員會面討論外匯市場，雙方同意就韓元疲軟問題展開合作。
+
+---
+
+### 2026-06-14 17:18:17  #公司 #市場
+
+【黃金相關ETF規模“縮水”，年內已有超百隻基金調降管理費率】受多重因素影響，近日國際金價連續下挫，目前已經回吐年內全部漲幅。與此同時，黃金相關ETF持續“失血”，整體規模較一季度末縮水近370億元。 業內人士表示，本輪黃金調整受多重因素共振驅動，短期仍處於高位震盪狀態，而中長期支撐黃金的核心邏輯並未動搖。當前需要保持謹慎，短期風險視窗尚未關閉，在“長期敘事未變”與“短期壓制未消”的格局下，保持耐心、等待訊號明朗，或是當前更理性的策略。公募基金行業生態正在持續最佳化。近期，多家基金公司調整旗下產品風險等級，釐清風險收益特徵。與此同時，基金降費潮還在持續，今年以來已有超百隻基金調降了管理費率。（介面）
+
+---
+
+### 2026-06-14 17:17:05  #MKT News #QTEC.O
+
+Invesco Nasdaq Technology ETF will suspend trading from the market open on June 15 until 10:30 a.m.
+
+---
+
+### 2026-06-14 17:16:19  #公司
+
+【稀有金屬ETF南方（159062）6月18日上市交易】南方基金公告，南方中證稀有金屬主題ETF（場內簡稱：稀有金屬ETF南方，基金程式碼：159062）於2026年6月18日在深圳證券交易所上市交易。該基金由南方基金管理股份有限公司管理，國泰海通證券股份有限公司託管，上市份額為2.07億份。
+
+---
+
+### 2026-06-14 17:12:48  #國際
+
+澤連斯基： 俄羅斯國內的現狀本應讓其認清現實——當下亟需走向和平。烏克蘭願意就體面的和平方案展開談判。
+
+---
+
+### 2026-06-14 17:11:39  #公司 #市場 #國際
+
+【廣發策略：新一輪情緒週期底部的訊號顯現】廣發策略釋出研報稱，前期，隨著中證1000、國證2000等小微盤指數持續下跌，衡量市場冷暖的情緒指標再度臨近0%分位數，大盤指數也執行至100日均線附近。一方面，美伊局勢緩和、美國5月通脹資料符合預期，外部擾動逐漸平息；另一方面，6月下旬、7月A股美股再次迎來財報視窗，市場回到基本面定價主導。綜合近期變化，市場新一輪情緒週期底部的訊號已經顯現。
+
+---
+
+### 2026-06-14 17:10:38  #MKT News
+
+【Tianfeng Securities: fifth electronic-cloth price hike this year takes effect; AI chain sustains glass-fiber strength】Tianfeng Securities says the fifth electronic-cloth price increase this year has taken effect. AI-driven demand is extending glass-fiber sector strength, and under the current price backdrop a cyclical recovery in glass fiber is underway. The core driver is a structural uplift in downstream demand. Electronic yarn, the raw material for electronic cloth, has a long expansion cycle, and new high-end electronic-cloth capacity will take time to come online.
+
+---
+
+### 2026-06-14 17:09:07  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+【Ukraine says it struck strategic Russian fuel depot; Moscow gives no immediate response】On June 14 the Ukrainian Security Service (SBU) said its Alpha special operations centre, acting on President Zelensky's orders, used drones to strike a state reserve fuel depot in Rybinsk, Yaroslavl region — more than 700 km from Ukraine's border. The SBU said the depot is part of Russia's national material reserve system, stores fuels and lubricants, and supplies northeast Russia and military strategic fuel reserves. The strike ignited large fires; among more than 60 tank areas the SBU reported at least three major blaze points. The SBU said fuel supply, refining and fuel-logistics infrastructure inside Russia are lawful targets because they provide resources to the Russian military. Moscow did not immediately respond.
+
+---
+
+### 2026-06-14 17:08:45  #國際
+
+【烏稱打擊俄境內戰略油庫 俄方暫無回應】當地時間6月14日，烏克蘭國家安全域性釋出訊息稱，該局下屬“阿爾法”特種作戰中心遵照烏總統澤連斯基指令，使用無人機打擊俄羅斯雅羅斯拉夫爾州雷賓斯克市國家儲備油庫。烏方表示，該油庫距烏國境線超700公里，隸屬俄國家物資儲備體系，儲存各類燃油、潤滑材料，承擔俄東北部燃油供應及軍方戰略燃油儲備職能。無人機命中後油庫燃起大火，60餘個儲罐區內至少出現三處大型起火點。烏國家安全域性同時表態，俄境內供油、煉油及燃油物流基礎設施，均為烏方合法打擊目標，此類設施為俄軍提供作戰資源，支撐俄方對烏開展軍事行動。俄方對此暫無回應。（央視新聞）
+
+---
+
+### 2026-06-14 17:08:33  #國際
+
+【以軍要求黎巴嫩南部16個村鎮居民撤離】以色列國防軍阿拉伯語發言人14日透過社交媒體向黎巴嫩南部16個村鎮的居民發出撤離警告，稱即將在那裡採取“強力行動”。以軍宣告說，由於黎巴嫩真主黨“違反停火協議”，以軍將對黎巴嫩南部16個村鎮進行打擊，要求當地居民立即撤離。以軍當天稍早時通報稱，以色列北部多個地區拉響防空警報，警告有“敵機入侵”，隨後兩架“可疑空中目標”落入以黎臨時邊界以色列一側境內。以軍稱暫未收到人員傷亡報告，正在進行調查。（新華社）
+
+---
+
+### 2026-06-14 17:07:47  #其他
+
+【天風證券：電子布年內第五輪漲價落地 AI鏈拉動玻纖景氣延續】天風證券指出，電子布年內第五輪漲價落地，AI鏈拉動玻纖景氣延續漲價背景下，玻纖行業週期性復甦已在路上。本輪電子布漲價的核心驅動力，來自下游需求的結構性抬升。電子紗（電子布的原材料）擴產週期同樣較長，高階電子布產能落地尚需時間。
+
+---
+
+### 2026-06-14 17:07:15  #MKT News #Market Themes #China Tech Giants #AI Revolution
+
+【Ant Group secretly testing AI version of Alipay】Ant Group is secretly testing an AI-enabled Alipay that overhauls user interaction and provides a one-click native AI interface to link services with intelligent funds management. Public launch timing is unspecified; Ant Group declined to comment.
+
+---
+
+### 2026-06-14 17:05:25  #國際
+
+以色列國防軍稱，可疑空中目標已侵入以色列領土並遭打擊。
+
+---
+
+### 2026-06-14 17:05:03  #公司 #市場
+
+【納指ETF嘉實：提示二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月12日，收盤價為2.036元，收盤時基金份額參考淨值為1.8806元。若6月15日溢價幅度未有效回落，基金有權申請臨時停牌等措施。基金運作正常且無應披露未披露重大資訊，提醒投資者關注溢價風險，審慎投資。
+
+---
+
+### 2026-06-14 17:04:58  #公司 #市場
+
+【納指科技ETF景順：二級市場價格溢價 6月15日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月12日收盤價2.625元，收盤時基金份額參考淨值2.2148元。為保護投資者利益，基金於6月15日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月15日溢價幅度未有效回落，基金有權採取進一步停牌措施。
+
+---
+
+### 2026-06-14 17:04:51  #公司 #市場
+
+【納斯達克100ETF大成：提示二級市場交易價格溢價風險】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。6月12日，其二級市場收盤價為1.799元，收盤時基金份額參考淨值為1.6737元。若6月15日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露資訊。提醒投資者關注溢價風險，審慎投資。
+
+---
+
+### 2026-06-14 17:04:39  #公司 #市場
+
+【納指ETF廣發：提示二級市場交易價格溢價風險】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。6月12日，其二級市場收盤價為1.5980元，收盤時基金份額參考淨值為1.5020元。若6月15日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者交易該基金除淨值波動風險外，還受多種因素影響，可能面臨損失。目前基金運作正常，無應披露未披露重大資訊。
+
+---
+
+### 2026-06-14 17:03:49  #其他
+
+【海南自貿港首單飛機拆解專案正式啟動 打通飛機整機拆解業務鏈條】6月12日，海南自貿港首單飛機拆解專案啟動儀式在海口飛機維修機庫內舉行，標誌著海南自貿港正式打通飛機整機拆解業務鏈條，補齊了航空器資產處置關鍵一環。
+
+---
+
+### 2026-06-14 17:02:26  #國際
+
+以色列國防軍：繼不久前針對北部地區多個空域敵對飛行器入侵發出的警報後，在以色列國境內靠近黎巴嫩邊境地區發現一枚疑似空中目標墜落。無人員傷亡，事件正在調查中。
+
+---
+
+### 2026-06-14 17:00:39  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+Jerusalem Post reported several Israeli ministers urged stepped-up strikes on Hezbollah and Lebanon's Dahiya district in response to the group's continued attacks on northern Israel.
+
+---
+
+### 2026-06-14 17:00:11  #其他
+
+【這可能是1930年來最熱的一屆世界盃！極端高溫“烤驗”球隊】目前，已有多家氣象機構對本屆世界盃發出極端氣象預警。“氣候中心”的分析顯示，104場比賽中，97場可能遭遇超過28攝氏度的高溫天氣。溼球黑球溫度（WGBT）是判斷氣溫對人體影響的一個重要指標。當WGBT超過28攝氏度時，球員競技狀態就會下滑，成為影響比賽質量的因素之一。“世界氣候歸因聯盟”（WWA）也警告稱，受全球變暖影響，本屆世界盃約‌四分之一‌的賽事可能遭遇悶熱天氣，球員與球迷面臨的高溫風險遠高於1994年世界盃。6月初，世界氣象組織（WMO）的預測顯示，2026~2030年全球大機率持續升溫，2026年極有可能打破2024年紀錄，成為有記錄以來全球最熱年份。（第一財經）
+
+---
+
+### 2026-06-14 16:58:00  #其他
+
+雷軍曬賴斯送的簽名球衣。
+
+---
+
+### 2026-06-14 16:52:07  #國際
+
+伊朗東亞塞拜然省危機管理部門：已通知Sardroud及周邊地區的民眾，幾分鐘前在該地區聽到的爆炸聲，是源自“齋月戰爭”中未爆炸的彈藥所致。
+
+---
+
+### 2026-06-14 16:50:20  #公司 #國際
+
+【外媒曝螞蟻集團正秘密測試AI 版支付寶】近日，外媒曝螞蟻集團正秘密測試 AI 版支付寶，新版本顛覆原有使用者互動，可一鍵切入原生AI介面，實現從服務到資金管理的智慧化。訊息稱，新版本上線時間未定。對此，螞蟻集團拒絕評論。（新浪科技）
+
+---
+
+### 2026-06-14 16:49:43  #國際
+
+【UFO檔案曝光 美軍目擊巨型“太空土豆”懸浮空中】美國政府最新公開的一批不明飛行物（UFO）檔案披露，一組駐紮在科羅拉多州卡森堡的美軍人員曾在2022年目擊一個形似巨型“不規則土豆”的神秘物體懸浮於山體上空，其真實身份至今未明。據報道，特朗普政府於6月12日公佈新一批UFO檔案。其中最受關注的案例之一發生在2022年2月中旬。當時，一名美國陸軍情報官員與四名所屬部隊成員看見一個神秘物體懸浮在距離夏延山（Cheyenne Mountain）上方約27至46米處。根據解密檔案，目擊者形容該物體“大致相當於一架大型噴氣式飛機的大小”，外形像一個“稜角分明、不對稱、由不規則面板構成的土豆”。檔案稱，這個物體完全靜止，但外觀似乎會緩慢變化，呈現半透明、閃爍的白色外觀，邊緣清晰，並帶有反射陽光的乳白色光澤，隨後突然消失。
+
+---
+
+### 2026-06-14 16:49:00  #國際
+
+【英國軍方攔截一艘俄“影子艦隊”油輪】英國國防部當天發表宣告說，在一次持續約6小時的行動中，英國軍方人員登上該油輪。巡邏機、直升機、軍艦等在行動中提供支援。油輪將被臨時轉移至英格蘭南部海岸附近一處錨地，並在調查期間接受監控。斯塔默在社交媒體上說，此舉“再次打擊了俄羅斯”。英國國防部透露，此次行動是在與法國密切協調下實施的。（新華社）
+
+---
+
+### 2026-06-14 16:45:53  #MKT News #Brent #Impact mixed #WTI
+
+【US‑Iran timing could determine G7 summit dynamics, analyst says】Li Zixin, assistant researcher at the China Institute of International Studies, said a US‑Iran memorandum signed before or during the G7 summit would let Trump present as a peacemaker, shift the agenda from crisis management to implementation, and could move a France‑ and UK‑led maritime escort coalition into technical discussions, easing summit tensions. If signing is delayed, Strait of Hormuz transit will become the summit’s sharpest flashpoint and a focal point for pressuring the US, potentially preventing a joint communique and deepening the transatlantic rift. Li said the White House will push to finalise a memorandum with Iran.
+
+---
+
+### 2026-06-14 16:45:38  #公司 #央行 #國際
+
+【美聯儲領銜央行超級周，沃什將迎首秀】美聯儲將於週三公佈利率決議，新任美聯儲主席凱文·沃什的政策表態被認為是本次會議的核心看點。倫敦證券交易所集團的市場定價資料顯示，美聯儲本週加息的機率極低。不過，受近期就業資料和美國經濟韌性及中東衝突引發能源價格衝擊等因素影響，市場對美聯儲年內後續加息的預期有所升溫。最新資料顯示，美國5月整體通脹同比升至4.2%，但核心通脹環比回落至0.2%，降幅超出市場預期。惠譽評級美國經濟主管奧盧·索諾拉在研報中表示，美聯儲新任主席履職之際，居高不下的整體通脹無疑帶來挑戰，但目前尚不會觸發緊急加息。核心通脹整體仍處於可控區間，美聯儲仍有空間在較長一段時間內維持利率不變。資料方面，週一（15日）將公佈5月工業產出資料、紐約聯儲6月製造業指數，週二（16日）將釋出5月新屋開工資料，週三（17日）公佈5月零售銷售、5月成屋待完成銷售資料，週四（18日）公佈當週初請失業金人數。
+
+---
+
+### 2026-06-14 16:44:28  #公司 #國際
+
+【美伊“臨門一腳”不同調 協議進展牽動G7峰會走向】中國國際問題研究院助理研究員李子昕表示：對於即將召開的七國集團的峰會，一方面，如果美伊在峰會期間或峰會之前能夠簽署備忘錄，特朗普將以和平締造者的姿態來主導整個議程，中東議題也會從危機管控轉為協議的落實，而法英等國推動的海上護航聯盟也有可能進入技術性討論的階段，峰會的氣氛將會顯著緩和。另一方面，如果協議簽署繼續拖延，霍爾木茲海峽的通行問題將會成為本次峰會最尖銳的痛點，以及各方對美國施壓的關鍵議題。這有可能會導致本年度的七國集團峰會再次無法發表共同宣告，跨大西洋關係也會迎來更深刻的裂痕。從這個維度上來講，白宮也會大力促成當前與伊朗簽訂諒解備忘錄。（央視新聞）
+
+---
+
+### 2026-06-14 16:43:07  #公司
+
+法國人工智慧初創公司LightOn透過定向訓練將其光學字元識別（OCR）模型適配至阿拉伯語，以此展示該模型的靈活性。
+
+---
+
+### 2026-06-14 16:42:54  #MKT News #Copper #Impact mixed #CNH #CSI300
+
+【Cui Dongshu: China’s power and other battery output 192 GWh in May, +38% YoY】CPCA’s Cui Dongshu said in a WeChat post China’s combined power and other battery production was 192 GWh in May, up 38% YoY; Jan–May output totaled 863 GWh, up 30% YoY. He said annual battery growth has slowed from over 69% to ~30% as power-battery demand weakens. May 2026 lithium battery vehicle installations were 72 GWh, up 26% YoY; Jan–May 2026 installations were 259 GWh, up 7% YoY. The share of power-battery production going into vehicles was 44% in 2025 and fell to 38% in May 2026. In May 2026 installation mix was roughly ternary (NCM) 38% and lithium iron phosphate (LFP) 37%. Main BEV battery energy density currently clusters at 125–160; in Apr–May 2026 batteries in the 140–160 band accounted for 46%, +14 percentage points YoY.
 
 ---
 
@@ -22738,137 +22930,5 @@ U.S. officials said the U.S. military shot down two Iranian one-way attack drone
 ### 2026-06-12 10:00:12  #MKT News #Market Regions #Greater China
 
 【Guangzhou targets annual specialized-market turnover above 2 trillion yuan by 2030】Guangzhou released its Commerce Development 15th Five-Year Plan (public consultation draft), targeting annual transaction volume in specialized markets to exceed 2 trillion yuan by 2030 to consolidate its role as a core platform of an international trade center. The draft aims to establish 30 public-service platforms for specialized markets by 2030 and estimates direct and indirect employment effects of about 2.2 million across trade services, innovation and entrepreneurship, cultural-tourism consumption and logistics support.
-
----
-
-### 2026-06-12 10:00:11  #MKT News
-
-Xinhua reported South Korean President Yoon Suk-yeol was sentenced to 30 years in prison in a first-instance trial over the "drone incident".
-
----
-
-### 2026-06-12 10:00:06  #其他
-
-【廣州：到2030年，全市專業市場年交易額突破2萬億元】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，到2030年，全市專業市場年交易額突破2萬億元，較基期年實現跨越式提升，鞏固國際商貿中心核心載體地位。到2030年，建設服務於專業市場的公共服務平臺30家；就業帶動效應持續放大，覆蓋商貿服務、創新創業、文旅消費、物流配套等多個領域，直接與間接帶動就業220萬人。
-
----
-
-### 2026-06-12 09:59:30  #焦點 #國際
-
-據韓聯社12日報道，韓國前總統尹錫悅因“製造平壤上空無人機入侵事件”一審被判處有期徒刑30年。（新華社）
-
----
-
-### 2026-06-12 09:59:19  #MKT News #Important
-
-Coke futures contract 2609 spiked intraday, up about 4% to probe 2,087 yuan/tonne; trading value roughly CNY 6.365 bln. Open interest rose nearly 7,300 contracts on the day, with volume and position activity increasing in tandem.
-
----
-
-### 2026-06-12 09:58:46  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時放量1951億元。
-
----
-
-### 2026-06-12 09:58:39  #市場 #焦點
-
-焦炭連續主力合約日內漲4%，現報2087.00元。
-
----
-
-### 2026-06-12 09:58:38  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-China A-share maritime equipment sector rose on volatile trade; Zhongke Haixun gained over 7%, while Songfa, Jianglong Shipbuilding, Tianhai Defense and Hailanxin also advanced.
-
----
-
-### 2026-06-12 09:57:49  #MKT News #Commodities #Precious Metals #XAUUSD
-
-【China Merchants Bank raises Zhaocaijin precious‑metals maintenance margin to 120% from June 16】China Merchants Bank said it will raise the margin maintenance ratio for margin calls on its Zhaocaijin precious‑metals business to 120%, effective at settlement on the close of Tuesday, June 16, 2026, citing heightened domestic and international precious‑metals price volatility. Affected contracts: Ag(T+D), Au(T+D), mAu(T+D), Au(T+N1), Au(T+N2), NYAuTN06 and NYAuTN12.
-
----
-
-### 2026-06-12 09:57:28  #其他
-
-周大福港股漲幅超15%。
-
----
-
-### 2026-06-12 09:57:18  #MKT News #Important #Market Themes #AI Revolution #Chip Wars #CSI300 #Impact bullish #Hang Seng Index
-
-【Guangzhou draft commerce plan prioritises intelligent connected vehicles, NEVs, AI, semiconductors and low‑altitude economy for major project deployment】Guangzhou’s public consultation draft of the Commerce Development 15th Five‑Year Plan calls for accelerated landing of major projects in intelligent connected vehicles and new‑energy vehicles (NEVs), ultrahigh‑definition video and new displays, green petrochemicals and new materials, smart equipment and robotics, artificial intelligence, semiconductors and integrated circuits, and the low‑altitude economy, and for cultivation of high‑tech, manufacturing 'single champion' and specialized‑and‑innovative leading intermediate‑goods firms. The draft directs faster development of intermediate‑goods trade bases and cultivation of well‑known brands and chain‑leading enterprises, and supports firms’ digital transformation using industrial internet, big data and AI to raise production efficiency and product quality and to upgrade intermediate‑goods trade toward higher‑end, digital and intelligent segments.
-
----
-
-### 2026-06-12 09:57:11  #其他
-
-【廣州：全力推進智慧網聯與新能源汽車、人工智慧、半導體及積體電路、低空經濟等重大專案的落地】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，全力推進智慧網聯與新能源汽車、超高畫質影片與新型顯示、綠色石化與新材料、智慧裝備與機器人、人工智慧、半導體及積體電路、低空經濟等重大專案的落地，培育一批高新技術、製造業單項冠軍、專精特新等龍頭中間品企業。推動外貿轉型升級基地加快發展中間品貿易，培育一批知名品牌、“鏈主”企業。支援企業利用工業網際網路、大資料、人工智慧等技術進行數字化改造，提升生產效率和產品質量，推動中間品貿易向高階化、數智化方向躍升。
-
----
-
-### 2026-06-12 09:57:08  #其他
-
-【水利部：受強降雨影響 烏江、贛江等將有明顯漲水過程】從水利部瞭解到，據預報，今天（6月12日）至14日，西南東部南部、江南大部、華南大部等地將有一次移動性強降雨過程。長江上游支流烏江，洞庭湖水系沅江中游、湘江上中游，鄱陽湖水系贛江、撫河、信江、饒河；珠江流域西江及支流鬱江、柳江、桂江、賀江，北江，東江，韓江；福建閩江、甌江；松花江流域松花江吉林段、牡丹江等河流將出現明顯漲水過程；暴雨區內福建閩江支流富屯溪、建溪及貴州烏江支流野紀河、江西信江支流瀘溪水等中小河流可能發生超警以上洪水。水利部要求相關省份水利部門和流域管理機構密切關注天氣變化，科學精準排程骨幹水庫等防洪工程，全力保障人民群眾生命財產安全。
-
----
-
-### 2026-06-12 09:56:53  #市場
-
-【招商銀行調整“招財金”業務合約追保保證金比例】6月12日，招商銀行釋出關於調整“招財金”業務合約追保保證金比例的通告。鑑於近期國內外貴金屬價格波動加劇，為防範市場風險、保護投資者權益，該行對招財金業務進行相關調整，具體通告如下：2026年6月16日（星期二）收盤清算時起，Ag(T+D)、Au(T+D)、mAu(T+D)、Au(T+N1)、Au(T+N2)、NYAuTN06、NYAuTN12等合約的追保保證金比例調整為120%。請投資者做好風險防範工作，合理控制倉位，理性投資。
-
----
-
-### 2026-06-12 09:56:04  #MKT News #Market Regions #Greater China
-
-China A-share low-altitude economy sector rose; Zongshen Power and CITIC Offshore Helicopter hit the daily limit; Wanfeng Aowei, Chuangyuan Xinke and Suochen Technology also advanced.
-
----
-
-### 2026-06-12 09:55:34  #公司 #市場
-
-【通用航空概念持續走強，宗申動力、晨曦航空等多股漲停】通用航空概念持續走強，宗申動力、晨曦航空、中信海直漲停，中航高科、應流股份、萬豐奧威、安達維爾、洪都航空、天成自控等跟漲。
-
----
-
-### 2026-06-12 09:55:26  #MKT News #Important #Market Regions #Greater China
-
-Localized moves in Guangdong: Zhujiang Piano jumped >7% intraday; Zhujiang Co. rose >3%. Guangzhou’s draft 15th Five-Year commerce development plan, published for public comment, proposes to support the Hong Kong Jockey Club’s Conghua racecourse and the Guangzhou International Horse Racing Development Center and to back regular racing schedules.
-
----
-
-### 2026-06-12 09:55:24  #公司 #市場
-
-廣東板塊區域性異動，珠江鋼琴短線拉昇漲超7%，珠江股份漲超3%。
-
----
-
-### 2026-06-12 09:55:10  #MKT News
-
-【Guangzhou: total retail sales of consumer goods to grow 5% annually during 15th Five-Year Plan】Guangzhou has released a draft commerce development plan for public consultation, aligning with national and provincial plans and setting four areas with 18 specific business-development targets through 2030. Key numeric targets: total retail sales of consumer goods to rise 5% a year during the 15th Five-Year Plan period; goods trade import‑export scale to grow 6% a year; service outsourcing contract execution to reach $24bn by 2030. The draft also defines 15 focused indicators tied to consumption, foreign trade, exhibitions, two‑way investment and ports — including online retail sales of above‑scale wholesale and retail firms, number of world‑class commercial districts, service trade import‑export, exhibition area of key venues and added foreign‑funded functional institutions — and sets qualitative mid‑to‑long‑term goals toward 2035.
-
----
-
-### 2026-06-12 09:55:00  #其他
-
-【廣州：“十五五”期間社會消費品零售總額年均增長5%】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，本規劃充分銜接國家以及省市規劃建議、綱要，立足廣州增強國際商貿中心功能的現實路徑和需要，制定了到2030年的4方面18項具體商務發展指標。其中，社會消費品零售總額（“十五五”期間年均增長5%）、貨物貿易進出口規模（年均增長6%）、服務外包合同執行額（2030年達240億美元）等3個指標，納入市規劃綱要。此外，本規劃根據消費、外貿、會展、雙向投資、口岸等發展趨勢，制定了包括限上批零業網上零售額、世界級商圈數量、服務貿易進出口、重點展館展覽面積、新增外資功能性機構數量等15個重點、特色指標。同時，參照上位規劃做法，對2035年中遠期提出定性目標。
-
----
-
-### 2026-06-12 09:53:47  #Trading Economics #Markets #Commodity #Importance 1
-
-Platinum Rises Over 4% — Platinum futures rose more than 4% to above $1,730 an ounce, attempting to rebound from a six-month low as precious metals broadly advanced after renewed hopes for a Middle East peace deal eased inflation concerns. US President Donald Trump said a deal could be reached as early as this weekend after postponing planned attacks against Iran. This could potentially reopen the Strait of Hormuz and would likely push oil prices lower, reducing inflation pressures from energy and easing pressure on central banks to raise rates. Still, traders remained cautious, as even a breakthrough would take time to fully restore oil flows. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026. Output from major producers South Africa and Russia remains constrained by aging mines, high costs, and sanctions-related disruptions, while industrial demand from the automotive sector remains resilient.
-
----
-
-### 2026-06-12 09:53:26  #MKT News #Important #Commodities #Precious Metals
-
-Platinum main contract rose more than 4.00% intraday to 433.10 yuan/gram.
-
----
-
-### 2026-06-12 09:53:12  #MKT News #Important
-
-【Guangzhou draft commerce plan backs Hong Kong Jockey Club Conghua racecourse, Greater Bay Area cross-border smart clearance for racing】Guangzhou’s draft 15th Five-Year commerce development plan, released for public comment, backs construction of an international events center and seeks to host international and national sporting events including horse and auto racing. The draft explicitly supports the Hong Kong Jockey Club’s Conghua racecourse and the Guangzhou Conghua International Racecourse development center and endorses running a regular racing calendar to spur local consumption. It calls for advancing Greater Bay Area cross-border intelligent customs clearance for horse racing, including use of "horse-face" intelligent recognition to strengthen smart supervision and promote healthy development of the GBA equine industry.
 
 ---

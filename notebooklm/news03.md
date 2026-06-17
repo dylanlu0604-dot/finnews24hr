@@ -1,7 +1,457 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-18 05:22:08_
-_本檔包含 3792 則快訊，約 696199 字_
+_更新時間：2026-06-18 06:19:33_
+_本檔包含 3835 則快訊，約 696526 字_
+
+---
+
+### 2026-06-16 00:18:47  #國際
+
+【媒體稱美伊諒解備忘錄細節將在一到兩天內公佈】據美國阿克西奧斯新聞網站15日報道，美伊諒解備忘錄細節將在未來24至48小時內公佈。報道還說，雙方將於本週晚些時候啟動技術性討論，解凍資金和放鬆制裁與履約掛鉤。美方計劃在下一階段談判期間保持當前美軍在該地區的軍事力量。 (新華社)
+
+---
+
+### 2026-06-16 00:18:37  #其他
+
+【巴基斯坦空軍一教練機墜毀致2人死亡】巴基斯坦三軍新聞局15日發表宣告稱，巴空軍一架教練機當天在例行飛行訓練時於該國西北部開伯爾-普什圖省馬爾丹地區墜毀，2名飛行員遇難。宣告說，巴空軍總部已成立調查委員會，以查明事故原因。宣告說，巴基斯坦總統扎爾達里、總理夏巴茲、陸軍參謀長穆尼爾均對此次墜機深感悲痛，並向遇難者家屬致以深切慰問。（新華社）
+
+---
+
+### 2026-06-16 00:17:01  #MKT News
+
+French President Macron said he is willing to assist an observation mission and will deploy frigates.
+
+---
+
+### 2026-06-16 00:16:38  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+French President Macron said Iran's enriched uranium should be neutralized.
+
+---
+
+### 2026-06-16 00:15:44  #國際
+
+法國總統馬克龍：法國軍隊已做好馳援霍爾木茲海峽的準備，前提是美方願意接受我方的援助提議。
+
+---
+
+### 2026-06-16 00:15:10  #焦點 #國際
+
+特朗普談伊朗核協議：不解除制裁。
+
+---
+
+### 2026-06-16 00:14:44  #MKT News
+
+President Trump said the United States does want to straighten out the situation in Lebanon.
+
+---
+
+### 2026-06-16 00:14:33  #國際
+
+美國高階官員結束了關於伊朗核協議的記者簡報。
+
+---
+
+### 2026-06-16 00:14:24  #國際
+
+特朗普談及伊朗及盟友相關事宜：我認為我們不太需要大量支援，但尋求盟友協助也不失為一個好主意。
+
+---
+
+### 2026-06-16 00:14:22  #MKT News #WTI #Impact bullish #Brent
+
+U.S. President Trump said on Iran and its allies he believes the U.S. does not need much help but that it would not be a bad idea.
+
+---
+
+### 2026-06-16 00:14:12  #國際
+
+特朗普：想把黎巴嫩問題理順，必須和真主黨進行一次真正的對話。
+
+---
+
+### 2026-06-16 00:13:59  #MKT News #Important #WTI #Impact bullish #Brent
+
+President Trump said he will release the Iran deal text sometime after Friday and will not lift sanctions on Iran until it fulfils its obligations.
+
+---
+
+### 2026-06-16 00:13:53  #焦點 #國際
+
+美國高階官員：簽署諒解備忘錄後不會對伊朗撥付任何資金。
+
+---
+
+### 2026-06-16 00:13:28  #國際
+
+特朗普：伊朗只有履行其應盡義務，美方才會解除對其制裁。
+
+---
+
+### 2026-06-16 00:13:13  #國際
+
+美國高階官員： 美國及其他任何國家均未向伊朗解凍並釋放任何資產。
+
+---
+
+### 2026-06-16 00:13:12  #MKT News #Important
+
+Trump said he may or may not participate in the signing of the Iran agreement; Vice President Vance will attend to sign it.
+
+---
+
+### 2026-06-16 00:13:01  #國際
+
+特朗普：將於週五之後擇機公佈伊朗協議文字。
+
+---
+
+### 2026-06-16 00:12:48  #國際
+
+特朗普：伊朗相關協議簽署事宜，我可能會參與，也可能不參與。萬斯將前來出席簽署儀式。
+
+---
+
+### 2026-06-16 00:12:14  #國際
+
+特朗普：我認為伊朗諒解備忘錄文字“很快”就會公佈。
+
+---
+
+### 2026-06-16 00:12:08  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.66% Higher — The FTSE MIB Index went up by 339 points or 0.66 percent on Monday to close at 51836 points. The rise was led by Ferrari NV (4.36%), Stellantis N.V. (3.58%) and Buzzi Unicem (3.46%). On the downside, the weakerst performers were Avio (-5.13%), Eni (-4.69%) and Leonardo SpA (-2.70%).
+
+---
+
+### 2026-06-16 00:12:00  #焦點 #國際
+
+特朗普談週五是否出席伊朗簽字儀式：視情況而定。
+
+---
+
+### 2026-06-16 00:11:52  #國際
+
+美國高階官員：美國現在知道所有水雷的位置。
+
+---
+
+### 2026-06-16 00:11:26  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+U.S. President Trump said on the Russia-Ukraine war he is looking to see whether action can be taken and that both leaders appear open to it.
+
+---
+
+### 2026-06-16 00:11:13  #國際
+
+特朗普談：我將嘗試推動相關解決方案，兩國領導人似乎都持開放態度。
+
+---
+
+### 2026-06-16 00:11:09  #MKT News
+
+US President Trump said he held constructive talks with Ukrainian President Zelenskiy and Russian President Putin on the Russia-Ukraine war.
+
+---
+
+### 2026-06-16 00:11:08  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 1.05% Higher — The DAX Index rose 259 points or 1.05 percent on Monday to close at 24894 points. Leading the gains are Deutsche Bank (4.31%), MTU Aero Engines AG (4.26%) and Fresenius (3.13%).
+
+---
+
+### 2026-06-16 00:10:54  #國際
+
+特朗普談及俄烏衝突：已與澤連斯基、普京開展富有成效的溝通。
+
+---
+
+### 2026-06-16 00:10:36  #國際
+
+特朗普：希望我們能與伊朗保持良好關係。
+
+---
+
+### 2026-06-16 00:10:22  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+A senior US official said the US expects freedom of navigation through the Strait of Hormuz to be included in the final agreement.
+
+---
+
+### 2026-06-16 00:10:08  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.49% Higher — The CAC 40 Index gained 41 points or 0.49 percent on Monday to close at 8392 points. Gains were led by Societe Generale (3.96%), Renault (3.87%) and STMicroelectronics (3.58%). Biggest losers were TotalEnergies SE (-4.60%), Orange (-1.88%) and Kering (-1.79%).
+
+---
+
+### 2026-06-16 00:10:06  #MKT News #WTI #Impact bearish #DXY
+
+President Trump said he hopes to build a good relationship with Iran.
+
+---
+
+### 2026-06-16 00:10:03  #國際
+
+美國高階官員：預計不久後每天將有40-50艘船隻透過霍爾木茲海峽。
+
+---
+
+### 2026-06-16 00:09:54  #MKT News
+
+President Trump said on Iran he will implement strong oversight.
+
+---
+
+### 2026-06-16 00:09:44  #國際
+
+特朗普：伊朗完全同意不擁有核武器。
+
+---
+
+### 2026-06-16 00:09:37  #MKT News #S&P500 #Impact bullish #Brent #Impact bearish #XAUUSD
+
+Trump says Iran will not possess nuclear weapons.
+
+---
+
+### 2026-06-16 00:09:33  #國際
+
+特朗普談及伊朗事宜：將實施強有力的管控措施。
+
+---
+
+### 2026-06-16 00:09:19  #國際
+
+美國高階官員：美方預期霍爾木茲海峽免費通航條款也將納入最終協議。
+
+---
+
+### 2026-06-16 00:09:15  #國際
+
+特朗普：中東將會發生很多美好的事情。
+
+---
+
+### 2026-06-16 00:09:04  #國際
+
+特朗普談及伊朗問題：伊朗不會擁有核武器。
+
+---
+
+### 2026-06-16 00:09:01  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish
+
+President Trump said oil prices have fallen sharply while the stock market is rising.
+
+---
+
+### 2026-06-16 00:08:50  #國際
+
+美國高階官員：與伊朗簽署的諒解備忘錄明確規定，霍爾木茲海峽將免費通航 60 天。
+
+---
+
+### 2026-06-16 00:08:44  #國際
+
+特朗普：油價正大幅暴跌。
+
+---
+
+### 2026-06-16 00:08:38  #MKT News #Important #WTI #Impact bearish #Brent
+
+President Trump said the Strait of Hormuz was fully reopened on Friday and that all agreements have been signed.
+
+---
+
+### 2026-06-16 00:07:59  #焦點 #國際
+
+特朗普：協議已全部簽署完畢。
+
+---
+
+### 2026-06-16 00:07:48  #國際
+
+特朗普：霍爾木茲海峽將於週五全面開放。
+
+---
+
+### 2026-06-16 00:07:38  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Rises on US-Iran Peace Deal — The FTSE MIB gained 0.7% to close at a record 51,836 on Monday after the US and Iran reached a preliminary agreement to end the conflict. The deal includes the lifting of the US blockade and the reopening of the Strait of Hormuz. The agreement triggered a sharp drop in oil prices, easing inflation concerns and reducing pressure on central banks to tighten monetary policy. Bond yields declined and the BTP-Bund spread narrowed. Financial stocks posted gains, with Intesa Sanpaolo and Generali both rising 1.7%. In the luxury sector, Ferrari added 4% as easing geopolitical tensions improved risk sentiment. STMicroelectronics tracked the rally in US technology stocks, gaining 1%. In contrast, Eni fell 4.7% on lower oil prices, while defense contractor Leonardo shed 2.8% as geopolitical risks receded.
+
+---
+
+### 2026-06-16 00:07:31  #國際
+
+特朗普：霍爾木茲海峽已經部分開放。
+
+---
+
+### 2026-06-16 00:07:23  #MKT News #WTI #Impact bearish #Brent
+
+MACRON said the Iran agreement is a very important step and that the Strait of Hormuz will reopen.
+
+---
+
+### 2026-06-16 00:07:20  #國際
+
+特朗普：與馬克龍關係極佳。
+
+---
+
+### 2026-06-16 00:07:07  #國際
+
+法國總統馬克龍：伊朗協議是至關重要的一步，霍爾木茲海峽航運將恢復暢通。
+
+---
+
+### 2026-06-16 00:07:07  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.37% Lower — The FTSE 100 Index decreased 38 points or 0.37 percent on Monday to close at 10433 points. The decline was led by Vistry Group (-6.04%), Frasers Group (-5.11%) and BAE Systems (-4.55%). On the upside, the strongest performers were Endeavour (6.87%), Fresnillo (6.86%) and Antofagasta (6.08%).
+
+---
+
+### 2026-06-16 00:07:05  #MKT News
+
+A senior U.S. official said sanctions relief is not tied to any specific action and depends on Iran taking appropriate steps.
+
+---
+
+### 2026-06-16 00:06:50  #國際
+
+特朗普與馬克龍舉行會晤。
+
+---
+
+### 2026-06-16 00:06:22  #其他
+
+【葉門附近海域集裝箱貨船遇襲】英國海上貿易行動辦公室15日釋出通報稱，一艘小船當日在葉門海岸以南14海里處接近一艘集裝箱船，小船上的人員向集裝箱貨船開火，並企圖登船。（新華社）
+
+---
+
+### 2026-06-16 00:06:12  #國際
+
+美國高階官員： 放寬制裁並不繫結某一項特定行動，而是取決於伊朗採取恰當舉措。
+
+---
+
+### 2026-06-16 00:06:12  #MKT News #WTI #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+A senior U.S. official said under an agreement with Iran, Israel has the right to self-defense against attacks from HEZBOLLAH.
+
+---
+
+### 2026-06-16 00:05:53  #國際
+
+法國總統馬克龍：與伊朗達成和平協議至關重要，有助於解決核問題。
+
+---
+
+### 2026-06-16 00:05:52  #MKT News #Important
+
+Senior U.S. official says an Israeli withdrawal from Lebanon is not a condition of any deal with Iran.
+
+---
+
+### 2026-06-16 00:05:09  #MKT News
+
+A U.S. senior official said Washington wants to see Iran take verifiable, irreversible steps.
+
+---
+
+### 2026-06-16 00:04:25  #國際
+
+美國高階官員：如果伊朗無法控制真主黨，以色列可以做出回應。
+
+---
+
+### 2026-06-16 00:04:22  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
+
+Meta Platforms (META.O) rolled out new AI features on Facebook for search and content creation.
+
+---
+
+### 2026-06-16 00:04:05  #國際
+
+美國運通：截至 5 月末，美國小企業信用卡會員逾期 30 天貸款佔總貸款比例為 1.4%。
+
+---
+
+### 2026-06-16 00:03:44  #焦點 #國際
+
+美國高階官員： 以色列有權抵禦真主黨的襲擊。
+
+---
+
+### 2026-06-16 00:03:21  #國際
+
+美國高階官員：解凍伊朗資金將與達到特定階段目標掛鉤。
+
+---
+
+### 2026-06-16 00:03:07  #國際
+
+美國高階官員： 以色列從黎巴嫩撤軍並非該協議的附加條件。
+
+---
+
+### 2026-06-16 00:02:53  #國際
+
+美國高階官員： 美方要求伊朗採取可核查、不可逆轉的相關舉措。
+
+---
+
+### 2026-06-16 00:02:37  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+U.S. officials said Washington may take modest measures on sanctions and funding and is willing to release funds in stages.
+
+---
+
+### 2026-06-16 00:02:26  #其他
+
+Meta：將於 Facebook 上線搜尋、內容創作全新人工智慧功能。
+
+---
+
+### 2026-06-16 00:02:08  #宏觀 #國際
+
+美國高階官員：美國準備解凍凍結資金並放寬制裁，談判初期或將出臺部分小幅善意舉措。
+
+---
+
+### 2026-06-16 00:01:42  #國際
+
+美國高階官員：美國可在制裁、資金解凍方面釋放小幅善意舉措。
+
+---
+
+### 2026-06-16 00:01:13  #市場 #焦點
+
+納指漲3.00%，現報26665.742點；道指漲1.39%，現報51912.961點；標普500指數漲1.93%，現報7574.970點。
+
+---
+
+### 2026-06-16 00:01:03  #MKT News #Market Themes #AI Revolution
+
+【U.S. judge dismisses Musk's XAI trade-secret suit against OpenAI】A U.S. federal judge on Monday dismissed a lawsuit by Elon Musk’s XAI accusing OpenAI of stealing trade secrets. U.S. District Judge Rita Lin in San Francisco said XAI failed to prove OpenAI induced former XAI engineer Xuechen Li to misappropriate secrets or that a recruitment demonstration disclosed XAI trade secrets, and that allowing the case to proceed would be "futile." Lin had previously dismissed an earlier version of the complaint in February.
+
+---
+
+### 2026-06-16 00:00:44  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Rise to Records — European stocks rose to record highs on Monday after the US and Iran agreed to a deal that suspends their war. The Euro STOXX 50 added 0.8% to a peak of 6,236 and the STOXX Europe 600 gained 0.3% to 635. The deal is set to be signed on Friday and reportedly restores the flow of energy exports through the Strait of Hormuz, lowering oil prices and sovereign yields throughout Europe's largest economies. Money markets have scaled back expectations for rate hikes, now pricing in just one increase each from the ECB and the BoE by year-end. The developments lifted banks amid the improved outlook of credit activity, with Santander, Deutsche Bank, and BBVA adding between 4.56% and 3%. Industrials were also supported on improved demand and lower power costs, with Safran jumping 3.5% and Siemens adding 2.2%.
+
+---
+
+### 2026-06-16 00:00:44  #Trading Economics #Economy #Israel #Inflation Rate #Importance 1
+
+Israel Inflation Rate Steady at 1.9% in May — The annual inflation rate in Israel stood at 1.9% in May 2026, remaing unchanged from the last two months, bellow market expectations of a 2% increase and staying within the Bank of Israel’s 1%–3% target band for ten consecutive months. Upward price pressures were mainly due to housing (4.0% vs 3.3%) and education, culture and entertainment (1.5% vs 1.4%). Meanwhile, inflation eased in several categories, including food, inclduing vegetables (2.6% vs 2.8%), health (1.6% vs 1.7%) and transport & communications (0.8% vs 0.9%). Deflation deepened for household equipment (-3.6% vs -3.2%), while clothing and footwear prices remained lower (-6.7%). On a monthly basis, consumer prices declined 0.3% in May, reversing a 1.2% rise in the previous month.
+
+---
+
+### 2026-06-16 00:00:16  #MKT News #WTI #Impact bearish #Brent
+
+A U.S. senior official said Washington understands Iran's parliament speaker Mohammad Bagher Ghalibaf has been authorized by the Supreme Leader to negotiate and sign agreements.
 
 ---
 
@@ -22710,197 +23160,5 @@ Ukrainian President Zelenskiy thanked the UK for seizing a sanctioned ship from 
 ### 2026-06-14 17:25:26  #宏觀 #公司
 
 【英國本週將出臺未成年人社交媒體管控禁令 監管力度超越澳大利亞】英國文化大臣莉薩・南迪週日接受天空新聞採訪時表示，英國本週即將公佈的16歲以下未成年人社交媒體使用禁令並非“萬全之策”，但會在保護青少年安全方面發揮重要作用。 英國首相基爾・斯塔默將正式推出這項管控措施。南迪稱，此前政府開展的民意徵詢結果顯示，絕大多數民眾（其中也包括大量青少年）都支援實施該禁令。她表示，啟動徵詢之初，各方討論的焦點就已是如何更好地保護青少年，而非是否需要出臺相關舉措。 據報道，此次改革將禁止青少年使用部分社交媒體平臺，並限制其每日使用時長，該媒體並未透露訊息來源。 報道稱，新規管控範圍將超越澳大利亞去年年底推出的標誌性監管措施，還會針對聊天機器人等被認定會對未成年人造成危害的技術產品作出約束。澳大利亞現行法律要求谷歌旗下Youtube、Reddit及Meta旗下Instagram等平臺禁止16歲以下使用者使用，違規企業將面臨罰款。
-
----
-
-### 2026-06-14 17:20:01  #MKT News
-
-YONHAP reports South Korean senior FX officials met U.S. counterparts to discuss foreign-exchange markets and agreed to cooperate on addressing won weakness.
-
----
-
-### 2026-06-14 17:19:39  #國際
-
-韓國高階外匯官員與美國官員會面討論外匯市場，雙方同意就韓元疲軟問題展開合作。
-
----
-
-### 2026-06-14 17:18:17  #公司 #市場
-
-【黃金相關ETF規模“縮水”，年內已有超百隻基金調降管理費率】受多重因素影響，近日國際金價連續下挫，目前已經回吐年內全部漲幅。與此同時，黃金相關ETF持續“失血”，整體規模較一季度末縮水近370億元。 業內人士表示，本輪黃金調整受多重因素共振驅動，短期仍處於高位震盪狀態，而中長期支撐黃金的核心邏輯並未動搖。當前需要保持謹慎，短期風險視窗尚未關閉，在“長期敘事未變”與“短期壓制未消”的格局下，保持耐心、等待訊號明朗，或是當前更理性的策略。公募基金行業生態正在持續最佳化。近期，多家基金公司調整旗下產品風險等級，釐清風險收益特徵。與此同時，基金降費潮還在持續，今年以來已有超百隻基金調降了管理費率。（介面）
-
----
-
-### 2026-06-14 17:17:05  #MKT News #QTEC.O
-
-Invesco Nasdaq Technology ETF will suspend trading from the market open on June 15 until 10:30 a.m.
-
----
-
-### 2026-06-14 17:16:19  #公司
-
-【稀有金屬ETF南方（159062）6月18日上市交易】南方基金公告，南方中證稀有金屬主題ETF（場內簡稱：稀有金屬ETF南方，基金程式碼：159062）於2026年6月18日在深圳證券交易所上市交易。該基金由南方基金管理股份有限公司管理，國泰海通證券股份有限公司託管，上市份額為2.07億份。
-
----
-
-### 2026-06-14 17:12:48  #國際
-
-澤連斯基： 俄羅斯國內的現狀本應讓其認清現實——當下亟需走向和平。烏克蘭願意就體面的和平方案展開談判。
-
----
-
-### 2026-06-14 17:11:39  #公司 #市場 #國際
-
-【廣發策略：新一輪情緒週期底部的訊號顯現】廣發策略釋出研報稱，前期，隨著中證1000、國證2000等小微盤指數持續下跌，衡量市場冷暖的情緒指標再度臨近0%分位數，大盤指數也執行至100日均線附近。一方面，美伊局勢緩和、美國5月通脹資料符合預期，外部擾動逐漸平息；另一方面，6月下旬、7月A股美股再次迎來財報視窗，市場回到基本面定價主導。綜合近期變化，市場新一輪情緒週期底部的訊號已經顯現。
-
----
-
-### 2026-06-14 17:10:38  #MKT News
-
-【Tianfeng Securities: fifth electronic-cloth price hike this year takes effect; AI chain sustains glass-fiber strength】Tianfeng Securities says the fifth electronic-cloth price increase this year has taken effect. AI-driven demand is extending glass-fiber sector strength, and under the current price backdrop a cyclical recovery in glass fiber is underway. The core driver is a structural uplift in downstream demand. Electronic yarn, the raw material for electronic cloth, has a long expansion cycle, and new high-end electronic-cloth capacity will take time to come online.
-
----
-
-### 2026-06-14 17:09:07  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-【Ukraine says it struck strategic Russian fuel depot; Moscow gives no immediate response】On June 14 the Ukrainian Security Service (SBU) said its Alpha special operations centre, acting on President Zelensky's orders, used drones to strike a state reserve fuel depot in Rybinsk, Yaroslavl region — more than 700 km from Ukraine's border. The SBU said the depot is part of Russia's national material reserve system, stores fuels and lubricants, and supplies northeast Russia and military strategic fuel reserves. The strike ignited large fires; among more than 60 tank areas the SBU reported at least three major blaze points. The SBU said fuel supply, refining and fuel-logistics infrastructure inside Russia are lawful targets because they provide resources to the Russian military. Moscow did not immediately respond.
-
----
-
-### 2026-06-14 17:08:45  #國際
-
-【烏稱打擊俄境內戰略油庫 俄方暫無回應】當地時間6月14日，烏克蘭國家安全域性釋出訊息稱，該局下屬“阿爾法”特種作戰中心遵照烏總統澤連斯基指令，使用無人機打擊俄羅斯雅羅斯拉夫爾州雷賓斯克市國家儲備油庫。烏方表示，該油庫距烏國境線超700公里，隸屬俄國家物資儲備體系，儲存各類燃油、潤滑材料，承擔俄東北部燃油供應及軍方戰略燃油儲備職能。無人機命中後油庫燃起大火，60餘個儲罐區內至少出現三處大型起火點。烏國家安全域性同時表態，俄境內供油、煉油及燃油物流基礎設施，均為烏方合法打擊目標，此類設施為俄軍提供作戰資源，支撐俄方對烏開展軍事行動。俄方對此暫無回應。（央視新聞）
-
----
-
-### 2026-06-14 17:08:33  #國際
-
-【以軍要求黎巴嫩南部16個村鎮居民撤離】以色列國防軍阿拉伯語發言人14日透過社交媒體向黎巴嫩南部16個村鎮的居民發出撤離警告，稱即將在那裡採取“強力行動”。以軍宣告說，由於黎巴嫩真主黨“違反停火協議”，以軍將對黎巴嫩南部16個村鎮進行打擊，要求當地居民立即撤離。以軍當天稍早時通報稱，以色列北部多個地區拉響防空警報，警告有“敵機入侵”，隨後兩架“可疑空中目標”落入以黎臨時邊界以色列一側境內。以軍稱暫未收到人員傷亡報告，正在進行調查。（新華社）
-
----
-
-### 2026-06-14 17:07:47  #其他
-
-【天風證券：電子布年內第五輪漲價落地 AI鏈拉動玻纖景氣延續】天風證券指出，電子布年內第五輪漲價落地，AI鏈拉動玻纖景氣延續漲價背景下，玻纖行業週期性復甦已在路上。本輪電子布漲價的核心驅動力，來自下游需求的結構性抬升。電子紗（電子布的原材料）擴產週期同樣較長，高階電子布產能落地尚需時間。
-
----
-
-### 2026-06-14 17:07:15  #MKT News #Market Themes #China Tech Giants #AI Revolution
-
-【Ant Group secretly testing AI version of Alipay】Ant Group is secretly testing an AI-enabled Alipay that overhauls user interaction and provides a one-click native AI interface to link services with intelligent funds management. Public launch timing is unspecified; Ant Group declined to comment.
-
----
-
-### 2026-06-14 17:05:25  #國際
-
-以色列國防軍稱，可疑空中目標已侵入以色列領土並遭打擊。
-
----
-
-### 2026-06-14 17:05:03  #公司 #市場
-
-【納指ETF嘉實：提示二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年6月12日，收盤價為2.036元，收盤時基金份額參考淨值為1.8806元。若6月15日溢價幅度未有效回落，基金有權申請臨時停牌等措施。基金運作正常且無應披露未披露重大資訊，提醒投資者關注溢價風險，審慎投資。
-
----
-
-### 2026-06-14 17:04:58  #公司 #市場
-
-【納指科技ETF景順：二級市場價格溢價 6月15日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月12日收盤價2.625元，收盤時基金份額參考淨值2.2148元。為保護投資者利益，基金於6月15日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月15日溢價幅度未有效回落，基金有權採取進一步停牌措施。
-
----
-
-### 2026-06-14 17:04:51  #公司 #市場
-
-【納斯達克100ETF大成：提示二級市場交易價格溢價風險】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。6月12日，其二級市場收盤價為1.799元，收盤時基金份額參考淨值為1.6737元。若6月15日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露資訊。提醒投資者關注溢價風險，審慎投資。
-
----
-
-### 2026-06-14 17:04:39  #公司 #市場
-
-【納指ETF廣發：提示二級市場交易價格溢價風險】納指ETF廣發公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。6月12日，其二級市場收盤價為1.5980元，收盤時基金份額參考淨值為1.5020元。若6月15日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。投資者交易該基金除淨值波動風險外，還受多種因素影響，可能面臨損失。目前基金運作正常，無應披露未披露重大資訊。
-
----
-
-### 2026-06-14 17:03:49  #其他
-
-【海南自貿港首單飛機拆解專案正式啟動 打通飛機整機拆解業務鏈條】6月12日，海南自貿港首單飛機拆解專案啟動儀式在海口飛機維修機庫內舉行，標誌著海南自貿港正式打通飛機整機拆解業務鏈條，補齊了航空器資產處置關鍵一環。
-
----
-
-### 2026-06-14 17:02:26  #國際
-
-以色列國防軍：繼不久前針對北部地區多個空域敵對飛行器入侵發出的警報後，在以色列國境內靠近黎巴嫩邊境地區發現一枚疑似空中目標墜落。無人員傷亡，事件正在調查中。
-
----
-
-### 2026-06-14 17:00:39  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Jerusalem Post reported several Israeli ministers urged stepped-up strikes on Hezbollah and Lebanon's Dahiya district in response to the group's continued attacks on northern Israel.
-
----
-
-### 2026-06-14 17:00:11  #其他
-
-【這可能是1930年來最熱的一屆世界盃！極端高溫“烤驗”球隊】目前，已有多家氣象機構對本屆世界盃發出極端氣象預警。“氣候中心”的分析顯示，104場比賽中，97場可能遭遇超過28攝氏度的高溫天氣。溼球黑球溫度（WGBT）是判斷氣溫對人體影響的一個重要指標。當WGBT超過28攝氏度時，球員競技狀態就會下滑，成為影響比賽質量的因素之一。“世界氣候歸因聯盟”（WWA）也警告稱，受全球變暖影響，本屆世界盃約‌四分之一‌的賽事可能遭遇悶熱天氣，球員與球迷面臨的高溫風險遠高於1994年世界盃。6月初，世界氣象組織（WMO）的預測顯示，2026~2030年全球大機率持續升溫，2026年極有可能打破2024年紀錄，成為有記錄以來全球最熱年份。（第一財經）
-
----
-
-### 2026-06-14 16:58:00  #其他
-
-雷軍曬賴斯送的簽名球衣。
-
----
-
-### 2026-06-14 16:52:07  #國際
-
-伊朗東亞塞拜然省危機管理部門：已通知Sardroud及周邊地區的民眾，幾分鐘前在該地區聽到的爆炸聲，是源自“齋月戰爭”中未爆炸的彈藥所致。
-
----
-
-### 2026-06-14 16:50:20  #公司 #國際
-
-【外媒曝螞蟻集團正秘密測試AI 版支付寶】近日，外媒曝螞蟻集團正秘密測試 AI 版支付寶，新版本顛覆原有使用者互動，可一鍵切入原生AI介面，實現從服務到資金管理的智慧化。訊息稱，新版本上線時間未定。對此，螞蟻集團拒絕評論。（新浪科技）
-
----
-
-### 2026-06-14 16:49:43  #國際
-
-【UFO檔案曝光 美軍目擊巨型“太空土豆”懸浮空中】美國政府最新公開的一批不明飛行物（UFO）檔案披露，一組駐紮在科羅拉多州卡森堡的美軍人員曾在2022年目擊一個形似巨型“不規則土豆”的神秘物體懸浮於山體上空，其真實身份至今未明。據報道，特朗普政府於6月12日公佈新一批UFO檔案。其中最受關注的案例之一發生在2022年2月中旬。當時，一名美國陸軍情報官員與四名所屬部隊成員看見一個神秘物體懸浮在距離夏延山（Cheyenne Mountain）上方約27至46米處。根據解密檔案，目擊者形容該物體“大致相當於一架大型噴氣式飛機的大小”，外形像一個“稜角分明、不對稱、由不規則面板構成的土豆”。檔案稱，這個物體完全靜止，但外觀似乎會緩慢變化，呈現半透明、閃爍的白色外觀，邊緣清晰，並帶有反射陽光的乳白色光澤，隨後突然消失。
-
----
-
-### 2026-06-14 16:49:00  #國際
-
-【英國軍方攔截一艘俄“影子艦隊”油輪】英國國防部當天發表宣告說，在一次持續約6小時的行動中，英國軍方人員登上該油輪。巡邏機、直升機、軍艦等在行動中提供支援。油輪將被臨時轉移至英格蘭南部海岸附近一處錨地，並在調查期間接受監控。斯塔默在社交媒體上說，此舉“再次打擊了俄羅斯”。英國國防部透露，此次行動是在與法國密切協調下實施的。（新華社）
-
----
-
-### 2026-06-14 16:45:53  #MKT News #Brent #Impact mixed #WTI
-
-【US‑Iran timing could determine G7 summit dynamics, analyst says】Li Zixin, assistant researcher at the China Institute of International Studies, said a US‑Iran memorandum signed before or during the G7 summit would let Trump present as a peacemaker, shift the agenda from crisis management to implementation, and could move a France‑ and UK‑led maritime escort coalition into technical discussions, easing summit tensions. If signing is delayed, Strait of Hormuz transit will become the summit’s sharpest flashpoint and a focal point for pressuring the US, potentially preventing a joint communique and deepening the transatlantic rift. Li said the White House will push to finalise a memorandum with Iran.
-
----
-
-### 2026-06-14 16:45:38  #公司 #央行 #國際
-
-【美聯儲領銜央行超級周，沃什將迎首秀】美聯儲將於週三公佈利率決議，新任美聯儲主席凱文·沃什的政策表態被認為是本次會議的核心看點。倫敦證券交易所集團的市場定價資料顯示，美聯儲本週加息的機率極低。不過，受近期就業資料和美國經濟韌性及中東衝突引發能源價格衝擊等因素影響，市場對美聯儲年內後續加息的預期有所升溫。最新資料顯示，美國5月整體通脹同比升至4.2%，但核心通脹環比回落至0.2%，降幅超出市場預期。惠譽評級美國經濟主管奧盧·索諾拉在研報中表示，美聯儲新任主席履職之際，居高不下的整體通脹無疑帶來挑戰，但目前尚不會觸發緊急加息。核心通脹整體仍處於可控區間，美聯儲仍有空間在較長一段時間內維持利率不變。資料方面，週一（15日）將公佈5月工業產出資料、紐約聯儲6月製造業指數，週二（16日）將釋出5月新屋開工資料，週三（17日）公佈5月零售銷售、5月成屋待完成銷售資料，週四（18日）公佈當週初請失業金人數。
-
----
-
-### 2026-06-14 16:44:28  #公司 #國際
-
-【美伊“臨門一腳”不同調 協議進展牽動G7峰會走向】中國國際問題研究院助理研究員李子昕表示：對於即將召開的七國集團的峰會，一方面，如果美伊在峰會期間或峰會之前能夠簽署備忘錄，特朗普將以和平締造者的姿態來主導整個議程，中東議題也會從危機管控轉為協議的落實，而法英等國推動的海上護航聯盟也有可能進入技術性討論的階段，峰會的氣氛將會顯著緩和。另一方面，如果協議簽署繼續拖延，霍爾木茲海峽的通行問題將會成為本次峰會最尖銳的痛點，以及各方對美國施壓的關鍵議題。這有可能會導致本年度的七國集團峰會再次無法發表共同宣告，跨大西洋關係也會迎來更深刻的裂痕。從這個維度上來講，白宮也會大力促成當前與伊朗簽訂諒解備忘錄。（央視新聞）
-
----
-
-### 2026-06-14 16:43:07  #公司
-
-法國人工智慧初創公司LightOn透過定向訓練將其光學字元識別（OCR）模型適配至阿拉伯語，以此展示該模型的靈活性。
-
----
-
-### 2026-06-14 16:42:54  #MKT News #Copper #Impact mixed #CNH #CSI300
-
-【Cui Dongshu: China’s power and other battery output 192 GWh in May, +38% YoY】CPCA’s Cui Dongshu said in a WeChat post China’s combined power and other battery production was 192 GWh in May, up 38% YoY; Jan–May output totaled 863 GWh, up 30% YoY. He said annual battery growth has slowed from over 69% to ~30% as power-battery demand weakens. May 2026 lithium battery vehicle installations were 72 GWh, up 26% YoY; Jan–May 2026 installations were 259 GWh, up 7% YoY. The share of power-battery production going into vehicles was 44% in 2025 and fell to 38% in May 2026. In May 2026 installation mix was roughly ternary (NCM) 38% and lithium iron phosphate (LFP) 37%. Main BEV battery energy density currently clusters at 125–160; in Apr–May 2026 batteries in the 140–160 band accounted for 46%, +14 percentage points YoY.
 
 ---

@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-18 05:22:08_
-_本檔包含 3730 則快訊，約 695753 字_
+_更新時間：2026-06-18 06:19:33_
+_本檔包含 3691 則快訊，約 696338 字_
+
+---
+
+### 2026-06-17 08:26:30  #國際
+
+【美國邁阿密爆炸致1死4傷 】美國邁阿密-戴德縣15日上午發生一起爆炸事件，已造成1死4傷。爆炸當天，正是美加墨世界盃小組賽烏拉圭隊和沙特隊在邁阿密的比賽日。邁阿密-戴德縣警長辦公室16日宣佈，15日上午10時許，當地一個倉庫發生爆炸，該倉庫是消防救援車輛加油和維護保養的地方。爆炸發生後，當地迅速派出40多支消防救援力量趕往現場。疏散過程中，發現一名男子已經死亡。急救人員將4名傷者送往醫院，其中一人情況危急。目前，事故原因正在調查中。
+
+---
+
+### 2026-06-17 08:25:52  #宏觀 #公司 #國際
+
+【美國對華網聯車禁令生效前，車企密集申請許可規避風險】受美國網聯車汽車軟硬體禁令影響，福特、沃爾沃等多家車企正密集申請政府合規許可，以規避相關管控帶來的停售風險。中美汽車產業鏈深度交織，美方強行推動供應鏈“脫鉤斷鏈”，不僅讓車企陷入被動，也給整個美國汽車行業帶來巨大調整壓力。 據路透社16日報道，福特證實已向美國商務部提交申請，希望獲准持續進口在中國生產的林肯航海家SUV。該車型在政府實施限制措施前就已經在美國銷售。福特稱，該車型的車載軟體由美國本土研發，但裝配環節在中國完成，若想繼續在美國市場銷售，需要獲得政府審批。 上述針對網聯車的禁令在美國拜登政府時期制定，至今仍然有效。美國《華爾街日報》此前報道稱，美國商務部2025年1月出臺新規，2027年款車型起禁止搭載中俄自動駕駛相關軟體，2030年款車型起禁止進口包括來自中俄的車載藍芽、蜂窩、衛星通訊等在內的車輛聯網硬體。（環球網）
+
+---
+
+### 2026-06-17 08:25:17  #其他
+
+【我國夏糧小麥收穫過九成】記者從農業農村部瞭解到，截至昨天（16日）17時，全國已收穫夏糧小麥3.1億畝，收穫進度91.44%。其中，山東過九成，河北、陝西近九成，山西過八成，新疆過三成半，甘肅有零星收穫。（央視新聞）
+
+---
+
+### 2026-06-17 08:25:05  #公司
+
+【羅博特科：全資子公司FSG作為英偉達合作方之一 新一代產品和技術尚未形成商業化落地】羅博特科公告，公司全資子公司FSG作為合作方之一，與英偉達公司合作開發面向新一代共封裝光學及光互連技術的製造與測試解決方案。新一代產品和技術處於與客戶共同合作開發階段，尚未形成商業化落地，與目前產品和技術不構成衝突。目前，相關技術雖已取得階段性研發成果，但對應業務仍處於早期發展階段，尚未形成商業化落地。產品後續市場推廣、客戶驗證、規模化量產等程序尚存在不確定性，可能面臨市場推廣不及預期、客戶驗證未透過、訂單未能如期交付等風險。
+
+---
+
+### 2026-06-17 08:22:39  #國際
+
+【美軍稱在東太平洋打擊一艘“販毒船” 致1人死亡】當地時間6月16日，美國南方司令部透過社交媒體發文稱，聯合特遣部隊“南方之矛”對一艘由“認定恐怖組織”運營的船隻實施了動能打擊。情報確認該船隻正沿東太平洋“已知的毒品販運路線”航行，並“參與毒品販運”。此次行動中，一名男性“毒品恐怖分子”被擊斃，有兩名男性倖存者。無美軍人員受傷。（央視）
+
+---
+
+### 2026-06-17 08:22:18  #市場 #央行 #國際
+
+【機構：日本在美聯儲決議前夕或面臨外匯干預兩難境地】StoneX的Matt Simpson在評論中表示，在今天公佈的美聯儲決議之前，日本可能面臨外匯干預的兩難境地。該高階市場分析師表示：“在美元指數逼近3月份高點，且投機交易員以六年來最快速度湧入看漲美元頭寸的背景下，偏緊縮的[美國聯邦公開市場委員會會議]結果可能會成為美元兌日元新一輪突破的催化劑。”Simpson補充道：“這一突破將使日本財務省面臨一個令人不安的兩難境地：干預走強的美元並冒著對抗市場動能的風險，或者袖手旁觀，看著美元兌日元進一步深入此前曾引發干預的區域。“
+
+---
+
+### 2026-06-17 08:22:10  #其他
+
+【福建：加快建設福州、廈門全國海洋經濟發展示範區 推動海洋經濟高質量發展】據福建日報，6月16日，福建省委書記周祖翼主持召開省委常委會會議，會議審議了《“十五五”“海上福建”建設規劃》等，強調要強化規劃引領，主動融入國家海洋發展總體佈局，著力陸海統籌、海灣聯動、全域協同，堅持創新驅動、做強產業支撐、守好生態底線、拓展發展空間，加快建設福州、廈門全國海洋經濟發展示範區，推動海洋經濟高質量發展。全省各級黨委和政府要把“海上福建”建設擺在突出位置，加強統籌協調，匯聚強大合力，以釘釘子精神抓實各項重點任務，推動“海上福建”建設提質增效、再上臺階。
+
+---
+
+### 2026-06-17 08:20:26  #公司 #市場 #國際
+
+【日經指數下跌0.3%，受科技和電子股拖累】日本日經指數下跌0.3%，至69197.00點，科技和電子股的疲軟抵消了重工業和銀行股上漲的影響。軟銀集團下跌4.5%，基恩士下跌1.9%，而川崎重工業上漲3.5%，瑞穗金融集團上漲2.9%。更廣泛的市場指數東證指數上漲0.1%，至3996.40點。投資者正密切關注美伊協議的細節以及原油價格。
+
+---
+
+### 2026-06-17 08:19:43  #國際
+
+【日本5月轉為貿易逆差 科技產品進口激增】日本四個月來首次轉為貿易逆差，晶片和其他電子元件的進口激增。日本財務省週三公佈的資料顯示，5月份未經調整的貿易餘額轉為逆差3786億日元（23.6億美元）。分析師此前預測為逆差5476億日元。5月份進口額比去年同期增長12.5%，出口額增長17%。進口增長主要得益於半導體和電子產品進口額增長55%，以及通訊裝置進口額增長48%。石油進口量和價格均大幅下降，這表明，在伊朗戰爭導致霍爾木茲海峽基本關閉之際，日本這個通常嚴重依賴中東石油的國家找到了其他能源來源。據貿易部門，日本預計將確保2028年3月之前石油供應穩定。
+
+---
+
+### 2026-06-17 08:19:33  #其他
+
+截至06月17日08時00分，共記錄到青海海西地震餘震115次，其中3.0級及以上餘震23次：5.0級以上0次，4.0-4.9級3次，3.0-3.9級20次。目前最大餘震4.9級。
+
+---
+
+### 2026-06-17 08:18:57  #Trading Economics #Economy #Japan #Imports YoY #Importance 1
+
+Japan Imports Rise Slightly Less than Expected — Japan’s imports rose 12.5% yoy to JPY 9,890.2 billion in May 2026, quickening from April’s 9.8% gain but falling short of market estimates of 12.8%. This was the fourth straight month of growth and the strongest pace since January 2025, driven by resilient domestic demand amid the ongoing effects of the government’s late-2025 economic stimulus package.
+
+---
+
+### 2026-06-17 08:18:11  #經濟數據 #中國
+
+【社論丨加力擴內需是當前穩信心的關鍵】5月份，社會消費品零售總額同比下降0.6%，環比下降0.38%；扣除汽車後，則同比增長1.1%。按經營單位所在地分，城鎮消費品零售額同比下降0.9%，鄉村消費品零售額增長1.5%。商品零售額略有下降，主因是去年同期基數較高，加之去年以舊換新政策疊加企業促銷，部分預支了今年銷量。
+
+---
+
+### 2026-06-17 08:18:07  #宏觀 #央行 #國際
+
+【日本5月出口在中東不利因素影響下仍實現增長】週三公佈的政府資料顯示，受電子零部件、汽車和有色金屬強勁需求的提振，日本5月出口連續第九個月實現增長。出口同比增長17.0%，高於4月份14.8%的增幅，但低於資料提供商FactSet調查的經濟學家預測的17.7%增幅。5月份進口增長12.5%，增速快於4月份的9.8%。儘管霍爾木茲海峽的關閉減少了該地區的石油進口量，但能源成本飆升以及轉向替代採購渠道，可能推高了日本的進口額。週二，日本央行將政策利率上調至1%，為31年來的最高水平。此舉出臺的背景是，決策者日益擔憂石油衝擊和日元疲軟帶來的通脹壓力，而日元疲軟有可能進一步推高進口價格。日本央行副行長內田真一在加息宣告發布後表示，美國和伊朗之間的和平協議是可喜的進展，經濟大幅下滑的風險已經消退。不過，他告誡稱，圍繞供應鏈復甦步伐的不確定性依然存在。
+
+---
+
+### 2026-06-17 08:16:58  #市場 #國際
+
+日本10年期國債收益率下跌1.5個基點至2.630%。
+
+---
+
+### 2026-06-17 08:16:51  #其他
+
+【今年前5個月東北地區外貿進出口超5390億元】據瀋陽海關統計，今年前5個月，東北地區外貿進出口總值達5390.4億元，同比增長8.3%，規模創歷史同期新高。其中，出口規模首次突破2600億元，達到2601.9億元，增長16.6%，快於全國出口4.8個百分點。
+
+---
+
+### 2026-06-17 08:16:16  #觀點 #國際
+
+【中信證券：日銀無加息緊迫感，仍預計其在本次加息後將在年內按兵不動】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。
+
+---
+
+### 2026-06-17 08:15:21  #公司
+
+【聖邦股份：H股香港公開發售今日開始 預計6月26日掛牌交易】聖邦股份(300661)6月17日早間公告，公司全球發售H股基礎發行股數為5400.12萬股。其中，初步安排香港公開發售540.02萬股（可予重新分配），約佔全球發售總數的10.00%。發行價格最高不超過每股85.20港元。公司本次H股香港公開發售於2026年6月17日開始，預計於6月23日結束，6月24日前（含當日）公佈發行價格，6月26日在香港聯交所掛牌並開始上市交易。
+
+---
+
+### 2026-06-17 08:15:11  #Trading Economics #Markets #Japan #stocks #Importance 1
+
+Mizuho Financial Stock Price Hits All-time High — Mizuho Financial shares increased to an all-time high of 7995.00 JPY. Over the past 4 weeks, Mizuho Financial gained 18.88%, and in the last 12 months, it increased 95.44%.
+
+---
+
+### 2026-06-17 08:15:00  #資料 #觀點 #國際
+
+【中信證券：經濟K型分化在加速】中信證券研報指出，5月經濟資料有所分化，呈現“生產強於需求”、“外需強於內需”的格局。從生產側來看，5月工業增加值增速有所回升，主要是出口增速強勁、油價見頂回落帶動工業生產強度改善，內需疲軟使服務業生產指數低位執行。從需求側來看，受補貼資金同比錯位和端午節備貨時間差異影響，5月社零表現欠佳，增速低於預期和前值；5月固投增速整體延續回落，但製造業投資單月增速邊際有所回升。展望未來，隨著美國宣佈解除對霍爾木茲海峽的封鎖，我們提示持續關注海峽恢復通航後油價的走勢以及對國內PPI-CPI剪刀差、工業企業利潤的影響。需求端，我們認為外貿出口仍是今年經濟增長的主要抓手，外需強於內需的格局在年內或將維持。生產端，我們判斷海峽恢復通航有利於緩解高油價對國內工業生產造成的潛在壓力。
+
+---
+
+### 2026-06-17 08:14:40  #MKT News #Star Stocks #Xiaomi #1810.HK #Impact bullish
+
+【Hubei party secretary Guan Zhiou meets Xiaomi chairman Lei Jun】June 15, Wuhan — Hubei party secretary Guan Zhiou met Xiaomi founder-chairman and CEO Lei Jun. Guan urged Xiaomi to expand and deepen its Hubei footprint, contribute to building Wuhan as a regional tech innovation center, and said the province will optimize the business environment and provide full-service support. Lei said Xiaomi is bullish on prospects in Hubei, will increase local business deployment, and seek to attract more talent and upstream and downstream firms to the province.
+
+---
+
+### 2026-06-17 08:14:20  #公司 #觀點
+
+【中信證券：AI產業進展處於早期階段，AI帶來的機遇大於挑戰】中信證券研報指出，站在當前時點，我們認為AI產業進展處於早期階段，AI帶來的機遇大於挑戰。產業層面，影片生成模型、世界模型與物理AI等新方向新正規化仍層出不窮，影片理解與生成融合、語言模型與多模態模型融合、模型持續學習等技術創新將會持續引領模型創新趨勢。我們預計模型迭代週期將持續縮短，以Anthropic為代表的模型公司ARR持續提升，並逐步向金融、法律、醫療等更多高價值的企業級場景落地。市場層面，全球科技股估值偏高，持倉偏擁擠是當前最大的挑戰，同時未來半年至一年SpaceX、Anthropic與OpenAI上市也可能給市場流動性帶來衝擊，將成為全球科技股最重磅的事件和觀察視窗。考慮到下半年宏觀流動性邊際或有所收緊，市場演繹將更加依賴業績端的持續兌現和驗證，但只要產業趨勢景氣度不變，若流動性衝擊導致估值回撥，帶來的機遇大於風險。同時國產模型與海外模型差距持續縮小，國產雲廠商相比海外亦有更充分的CAPEX加碼空間，隨著“國模國芯”生態持續完善，國產算力將有更大的彈性。
+
+---
+
+### 2026-06-17 08:13:32  #其他
+
+【青海海西州6.3級地震造成1死8傷 傷者已出院 】記者從大柴旦6.3級地震抗震救災現場指揮部瞭解到，經過兩輪全面人員排查，截至6月16日23時，青海海西州地震已造成1人遇難，8人受傷，受傷人員經包紮處理後已離開醫院。（新華社）
+
+---
+
+### 2026-06-17 08:13:13  #Trading Economics #Economy #Japan #Exports YoY #Importance 2
+
+Japan Export Growth at 3-1/2-Year High — Japan’s exports rose 17.0% year-on-year in May 2026, accelerating from a 14.8% growth in the prior month while marking the strongest growth since November 2022 and exceeding the consensus of 16.2%, supported by robust demand from China, the U.S., ASEAN countries, and the EU.
+
+---
+
+### 2026-06-17 08:12:20  #公司
+
+【湖北省委書記關志鷗會見小米集團董事長雷軍】據湖北日報，6月15日下午，湖北省委書記關志鷗在武漢會見小米集團創始人、董事長兼執行長雷軍一行。關志鷗說，希望小米集團持續佈局湖北、深耕湖北，進一步深化與湖北的多領域合作，對建設武漢區域科技創新中心、最佳化營商環境等多提意見建議。我們將全力做好服務保障，支援小米集團等各類企業在鄂實現更好發展。雷軍表示，小米集團堅定看好企業在鄂發展前景，將進一步加大業務佈局，吸引更多人才和上下游企業集聚湖北，為湖北加快建成中部地區崛起的重要戰略支點作出新的更大貢獻。
+
+---
+
+### 2026-06-17 08:12:12  #MKT News
+
+The U.S. military said it conducted a lethal strike in the eastern Pacific on a drug-smuggling vessel it said was operated by a 'terrorist organization'.
+
+---
+
+### 2026-06-17 08:11:39  #國際
+
+美國南方司令部：6月16日，在南方司令部指揮官弗朗西斯·L·多諾萬將軍的指示下，聯合特遣部隊“南方之矛”對一艘由指定恐怖組織操作的船隻實施了致命動能打擊。情報確認該船隻正沿東太平洋已知毒品販運路線航行，並參與毒品販執行動。此次行動中，一名男性毒梟恐怖分子被擊斃，有兩名男性倖存者。交戰結束後，美國南方司令部立即通知美國海岸警衛隊啟動針對倖存者的搜尋與救援系統。無美軍人員受傷。
+
+---
+
+### 2026-06-17 08:11:31  #央行 #日本央行
+
+【中信證券：預計日本央行在本次加息後將維持政策利率不變於1%】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。
+
+---
+
+### 2026-06-17 08:11:00  #Trading Economics #Economy #Japan #Machinery Orders #Importance 1
+
+Japan Machinery Orders Rebound Sharply — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric power, rose by 8.7% month-on-month to JPY 1,098.5 billion in April 2026, far exceeded market expectations for a 0.9% gain and marked a sharp rebound from the 9.4% decline recorded in March. The recovery was driven by a 5.1% increase in manufacturing orders to JPY 513.5 billion and a 6.7% rise in non-manufacturing orders excluding utilities to JPY 570.1 billion. Among manufacturers, strong gains were recorded in ship building (+160.7%), textile mill products (+61.7%), and non-ferrous metals (+51.3%). In the non-manufacturing sector, real estate (+107.7%), transportation and postal activities (+36.9%), and goods leasing (+32.7%) posted notable increases. On an annual basis, core machinery orders grew by 15.6%, beating market forecasts for a 9.3% gain and accelerating from a 5.9% rise in the preceding period.
+
+---
+
+### 2026-06-17 08:10:38  #國際
+
+美國南方司令部在東太平洋擊沉一艘船隻，造成一人死亡。
+
+---
+
+### 2026-06-17 08:10:28  #市場 #焦點
+
+現貨黃金突破4340美元/盎司，日內漲0.18%。
+
+---
+
+### 2026-06-17 08:10:25  #MKT News
+
+Australia's S&P/ASX 200 opened down 23.80 points, or 0.27%, at 8,893.90 on Wednesday, June 17.
+
+---
+
+### 2026-06-17 08:10:21  #市場 #焦點
+
+紐約期金突破4360美元/盎司，日內漲0.11%。
+
+---
+
+### 2026-06-17 08:10:09  #公司
+
+【領益智造：H股香港公開發售今日開始 預計6月26日掛牌交易】領益智造(002600)6月17日早間公告，公司全球發售H股基礎發行股數為8.12億股，其中，初步安排香港公開發售8118.13萬股（可予重新分配），約佔全球發售總數的10.00%。發行價格最高不超過每股10.18港元。公司H股香港公開發售於2026年6月17日開始，預計於6月23日結束，6月25日前（含當日）公佈發行價格，6月26日在香港聯交所掛牌並開始上市交易。
+
+---
+
+### 2026-06-17 08:09:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
+
+CITIC Securities expects Japan's headline inflation to remain moderate through the year. It says the Bank of Japan lacks urgency to press on with further hikes and may leave the policy rate unchanged at 1% after the current increase.
+
+---
+
+### 2026-06-17 08:09:43  #其他
+
+【我國233部測雨雷達已覆蓋90萬平方公里】據水利部，2022年以來，我國推進測雨雷達建設。截至目前，全國24個省區建成水利測雨雷達233部，覆蓋約90萬平方公里區域。今年入汛以來，全國暴雨洪水多發頻發，水利測雨雷達在山洪災害、中小河流洪水防禦監測預警中發揮了重要的作用，為危險區人員及時轉移避險提供了精準決策支援。據瞭解，傳統洪水預報系統，主要是基於對“落地雨”觀測，也就是對天空降雨量進行觀測分析再進行洪水預報，但中小河流、山洪災害從降雨到形成洪水，預見時間短。時間一般在半個小時到一個小時之間。等到雨量站將監測到的資料輸入模型，再提供防禦決策，這一過程時間較長，留給應對洪水的反應時間非常有限，有時根本來不及反應。而測雨雷達剛好彌補了“雨量站”的這一缺陷。目前，天津已成為全國首個水利測雨雷達全域覆蓋的省級行政區。
+
+---
+
+### 2026-06-17 08:08:02  #其他
+
+【京東即將開源視覺語言實時互動模型】京東團隊即將開源視覺語言實時互動模型JoyAI-VL-Interaction。記者從一份在開源社群和海外AI技術圈受到關注的技術報告獲悉，JoyAI-VL-Interaction把多模態大模型從"一問一答"，推進到"實時流式互動"，適合需要AI持續在場的場景。報告將JoyAI-VL-Interaction與豆包、Gemini 的App內視訊通話助手進行了人工評測，覆蓋監控預警、實時計數、實時翻譯、時間感知、直播解說和引導、長程記憶六類場景。在58個案例中，JoyAI-VL-Interaction對豆包的總體勝率為77.6%，對Gemini的總體勝率為87.9%。其中，在監控預警場景中，對兩個基線均取得100%勝率。
 
 ---
 
@@ -22077,455 +22293,5 @@ Amazon (AMZN.O) plans to invest several billion dollars in Missouri, US.
 ### 2026-06-16 00:22:23  #市場
 
 【德國2/10年期國債收益率跌超4個基點】週一（6月15日）歐市尾盤，德國10年期國債收益率跌4.2個基點，報2.954%，日內交投於2.980%-2.944%區間，跳空低開之後，持續低位窄幅震盪——交投於2.950%附近，整體呈現出長尾L形走勢。兩年期德債收益率跌4.5個基點，報2.572%，日內交投於2.578%-2.547%區間；30年期德債收益率跌2.3個基點，報3.526%。2/10年期德債收益率利差漲0.539個基點，報+38.097個基點。
-
----
-
-### 2026-06-16 00:18:47  #國際
-
-【媒體稱美伊諒解備忘錄細節將在一到兩天內公佈】據美國阿克西奧斯新聞網站15日報道，美伊諒解備忘錄細節將在未來24至48小時內公佈。報道還說，雙方將於本週晚些時候啟動技術性討論，解凍資金和放鬆制裁與履約掛鉤。美方計劃在下一階段談判期間保持當前美軍在該地區的軍事力量。 (新華社)
-
----
-
-### 2026-06-16 00:18:37  #其他
-
-【巴基斯坦空軍一教練機墜毀致2人死亡】巴基斯坦三軍新聞局15日發表宣告稱，巴空軍一架教練機當天在例行飛行訓練時於該國西北部開伯爾-普什圖省馬爾丹地區墜毀，2名飛行員遇難。宣告說，巴空軍總部已成立調查委員會，以查明事故原因。宣告說，巴基斯坦總統扎爾達里、總理夏巴茲、陸軍參謀長穆尼爾均對此次墜機深感悲痛，並向遇難者家屬致以深切慰問。（新華社）
-
----
-
-### 2026-06-16 00:17:01  #MKT News
-
-French President Macron said he is willing to assist an observation mission and will deploy frigates.
-
----
-
-### 2026-06-16 00:16:38  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-French President Macron said Iran's enriched uranium should be neutralized.
-
----
-
-### 2026-06-16 00:15:44  #國際
-
-法國總統馬克龍：法國軍隊已做好馳援霍爾木茲海峽的準備，前提是美方願意接受我方的援助提議。
-
----
-
-### 2026-06-16 00:15:10  #焦點 #國際
-
-特朗普談伊朗核協議：不解除制裁。
-
----
-
-### 2026-06-16 00:14:44  #MKT News
-
-President Trump said the United States does want to straighten out the situation in Lebanon.
-
----
-
-### 2026-06-16 00:14:33  #國際
-
-美國高階官員結束了關於伊朗核協議的記者簡報。
-
----
-
-### 2026-06-16 00:14:24  #國際
-
-特朗普談及伊朗及盟友相關事宜：我認為我們不太需要大量支援，但尋求盟友協助也不失為一個好主意。
-
----
-
-### 2026-06-16 00:14:22  #MKT News #WTI #Impact bullish #Brent
-
-U.S. President Trump said on Iran and its allies he believes the U.S. does not need much help but that it would not be a bad idea.
-
----
-
-### 2026-06-16 00:14:12  #國際
-
-特朗普：想把黎巴嫩問題理順，必須和真主黨進行一次真正的對話。
-
----
-
-### 2026-06-16 00:13:59  #MKT News #Important #WTI #Impact bullish #Brent
-
-President Trump said he will release the Iran deal text sometime after Friday and will not lift sanctions on Iran until it fulfils its obligations.
-
----
-
-### 2026-06-16 00:13:53  #焦點 #國際
-
-美國高階官員：簽署諒解備忘錄後不會對伊朗撥付任何資金。
-
----
-
-### 2026-06-16 00:13:28  #國際
-
-特朗普：伊朗只有履行其應盡義務，美方才會解除對其制裁。
-
----
-
-### 2026-06-16 00:13:13  #國際
-
-美國高階官員： 美國及其他任何國家均未向伊朗解凍並釋放任何資產。
-
----
-
-### 2026-06-16 00:13:12  #MKT News #Important
-
-Trump said he may or may not participate in the signing of the Iran agreement; Vice President Vance will attend to sign it.
-
----
-
-### 2026-06-16 00:13:01  #國際
-
-特朗普：將於週五之後擇機公佈伊朗協議文字。
-
----
-
-### 2026-06-16 00:12:48  #國際
-
-特朗普：伊朗相關協議簽署事宜，我可能會參與，也可能不參與。萬斯將前來出席簽署儀式。
-
----
-
-### 2026-06-16 00:12:14  #國際
-
-特朗普：我認為伊朗諒解備忘錄文字“很快”就會公佈。
-
----
-
-### 2026-06-16 00:12:08  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.66% Higher — The FTSE MIB Index went up by 339 points or 0.66 percent on Monday to close at 51836 points. The rise was led by Ferrari NV (4.36%), Stellantis N.V. (3.58%) and Buzzi Unicem (3.46%). On the downside, the weakerst performers were Avio (-5.13%), Eni (-4.69%) and Leonardo SpA (-2.70%).
-
----
-
-### 2026-06-16 00:12:00  #焦點 #國際
-
-特朗普談週五是否出席伊朗簽字儀式：視情況而定。
-
----
-
-### 2026-06-16 00:11:52  #國際
-
-美國高階官員：美國現在知道所有水雷的位置。
-
----
-
-### 2026-06-16 00:11:26  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-U.S. President Trump said on the Russia-Ukraine war he is looking to see whether action can be taken and that both leaders appear open to it.
-
----
-
-### 2026-06-16 00:11:13  #國際
-
-特朗普談：我將嘗試推動相關解決方案，兩國領導人似乎都持開放態度。
-
----
-
-### 2026-06-16 00:11:09  #MKT News
-
-US President Trump said he held constructive talks with Ukrainian President Zelenskiy and Russian President Putin on the Russia-Ukraine war.
-
----
-
-### 2026-06-16 00:11:08  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 1.05% Higher — The DAX Index rose 259 points or 1.05 percent on Monday to close at 24894 points. Leading the gains are Deutsche Bank (4.31%), MTU Aero Engines AG (4.26%) and Fresenius (3.13%).
-
----
-
-### 2026-06-16 00:10:54  #國際
-
-特朗普談及俄烏衝突：已與澤連斯基、普京開展富有成效的溝通。
-
----
-
-### 2026-06-16 00:10:36  #國際
-
-特朗普：希望我們能與伊朗保持良好關係。
-
----
-
-### 2026-06-16 00:10:22  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-A senior US official said the US expects freedom of navigation through the Strait of Hormuz to be included in the final agreement.
-
----
-
-### 2026-06-16 00:10:08  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.49% Higher — The CAC 40 Index gained 41 points or 0.49 percent on Monday to close at 8392 points. Gains were led by Societe Generale (3.96%), Renault (3.87%) and STMicroelectronics (3.58%). Biggest losers were TotalEnergies SE (-4.60%), Orange (-1.88%) and Kering (-1.79%).
-
----
-
-### 2026-06-16 00:10:06  #MKT News #WTI #Impact bearish #DXY
-
-President Trump said he hopes to build a good relationship with Iran.
-
----
-
-### 2026-06-16 00:10:03  #國際
-
-美國高階官員：預計不久後每天將有40-50艘船隻透過霍爾木茲海峽。
-
----
-
-### 2026-06-16 00:09:54  #MKT News
-
-President Trump said on Iran he will implement strong oversight.
-
----
-
-### 2026-06-16 00:09:44  #國際
-
-特朗普：伊朗完全同意不擁有核武器。
-
----
-
-### 2026-06-16 00:09:37  #MKT News #S&P500 #Impact bullish #Brent #Impact bearish #XAUUSD
-
-Trump says Iran will not possess nuclear weapons.
-
----
-
-### 2026-06-16 00:09:33  #國際
-
-特朗普談及伊朗事宜：將實施強有力的管控措施。
-
----
-
-### 2026-06-16 00:09:19  #國際
-
-美國高階官員：美方預期霍爾木茲海峽免費通航條款也將納入最終協議。
-
----
-
-### 2026-06-16 00:09:15  #國際
-
-特朗普：中東將會發生很多美好的事情。
-
----
-
-### 2026-06-16 00:09:04  #國際
-
-特朗普談及伊朗問題：伊朗不會擁有核武器。
-
----
-
-### 2026-06-16 00:09:01  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish
-
-President Trump said oil prices have fallen sharply while the stock market is rising.
-
----
-
-### 2026-06-16 00:08:50  #國際
-
-美國高階官員：與伊朗簽署的諒解備忘錄明確規定，霍爾木茲海峽將免費通航 60 天。
-
----
-
-### 2026-06-16 00:08:44  #國際
-
-特朗普：油價正大幅暴跌。
-
----
-
-### 2026-06-16 00:08:38  #MKT News #Important #WTI #Impact bearish #Brent
-
-President Trump said the Strait of Hormuz was fully reopened on Friday and that all agreements have been signed.
-
----
-
-### 2026-06-16 00:07:59  #焦點 #國際
-
-特朗普：協議已全部簽署完畢。
-
----
-
-### 2026-06-16 00:07:48  #國際
-
-特朗普：霍爾木茲海峽將於週五全面開放。
-
----
-
-### 2026-06-16 00:07:38  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Rises on US-Iran Peace Deal — The FTSE MIB gained 0.7% to close at a record 51,836 on Monday after the US and Iran reached a preliminary agreement to end the conflict. The deal includes the lifting of the US blockade and the reopening of the Strait of Hormuz. The agreement triggered a sharp drop in oil prices, easing inflation concerns and reducing pressure on central banks to tighten monetary policy. Bond yields declined and the BTP-Bund spread narrowed. Financial stocks posted gains, with Intesa Sanpaolo and Generali both rising 1.7%. In the luxury sector, Ferrari added 4% as easing geopolitical tensions improved risk sentiment. STMicroelectronics tracked the rally in US technology stocks, gaining 1%. In contrast, Eni fell 4.7% on lower oil prices, while defense contractor Leonardo shed 2.8% as geopolitical risks receded.
-
----
-
-### 2026-06-16 00:07:31  #國際
-
-特朗普：霍爾木茲海峽已經部分開放。
-
----
-
-### 2026-06-16 00:07:23  #MKT News #WTI #Impact bearish #Brent
-
-MACRON said the Iran agreement is a very important step and that the Strait of Hormuz will reopen.
-
----
-
-### 2026-06-16 00:07:20  #國際
-
-特朗普：與馬克龍關係極佳。
-
----
-
-### 2026-06-16 00:07:07  #國際
-
-法國總統馬克龍：伊朗協議是至關重要的一步，霍爾木茲海峽航運將恢復暢通。
-
----
-
-### 2026-06-16 00:07:07  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.37% Lower — The FTSE 100 Index decreased 38 points or 0.37 percent on Monday to close at 10433 points. The decline was led by Vistry Group (-6.04%), Frasers Group (-5.11%) and BAE Systems (-4.55%). On the upside, the strongest performers were Endeavour (6.87%), Fresnillo (6.86%) and Antofagasta (6.08%).
-
----
-
-### 2026-06-16 00:07:05  #MKT News
-
-A senior U.S. official said sanctions relief is not tied to any specific action and depends on Iran taking appropriate steps.
-
----
-
-### 2026-06-16 00:06:50  #國際
-
-特朗普與馬克龍舉行會晤。
-
----
-
-### 2026-06-16 00:06:22  #其他
-
-【葉門附近海域集裝箱貨船遇襲】英國海上貿易行動辦公室15日釋出通報稱，一艘小船當日在葉門海岸以南14海里處接近一艘集裝箱船，小船上的人員向集裝箱貨船開火，並企圖登船。（新華社）
-
----
-
-### 2026-06-16 00:06:12  #國際
-
-美國高階官員： 放寬制裁並不繫結某一項特定行動，而是取決於伊朗採取恰當舉措。
-
----
-
-### 2026-06-16 00:06:12  #MKT News #WTI #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-A senior U.S. official said under an agreement with Iran, Israel has the right to self-defense against attacks from HEZBOLLAH.
-
----
-
-### 2026-06-16 00:05:53  #國際
-
-法國總統馬克龍：與伊朗達成和平協議至關重要，有助於解決核問題。
-
----
-
-### 2026-06-16 00:05:52  #MKT News #Important
-
-Senior U.S. official says an Israeli withdrawal from Lebanon is not a condition of any deal with Iran.
-
----
-
-### 2026-06-16 00:05:09  #MKT News
-
-A U.S. senior official said Washington wants to see Iran take verifiable, irreversible steps.
-
----
-
-### 2026-06-16 00:04:25  #國際
-
-美國高階官員：如果伊朗無法控制真主黨，以色列可以做出回應。
-
----
-
-### 2026-06-16 00:04:22  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
-
-Meta Platforms (META.O) rolled out new AI features on Facebook for search and content creation.
-
----
-
-### 2026-06-16 00:04:05  #國際
-
-美國運通：截至 5 月末，美國小企業信用卡會員逾期 30 天貸款佔總貸款比例為 1.4%。
-
----
-
-### 2026-06-16 00:03:44  #焦點 #國際
-
-美國高階官員： 以色列有權抵禦真主黨的襲擊。
-
----
-
-### 2026-06-16 00:03:21  #國際
-
-美國高階官員：解凍伊朗資金將與達到特定階段目標掛鉤。
-
----
-
-### 2026-06-16 00:03:07  #國際
-
-美國高階官員： 以色列從黎巴嫩撤軍並非該協議的附加條件。
-
----
-
-### 2026-06-16 00:02:53  #國際
-
-美國高階官員： 美方要求伊朗採取可核查、不可逆轉的相關舉措。
-
----
-
-### 2026-06-16 00:02:37  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-U.S. officials said Washington may take modest measures on sanctions and funding and is willing to release funds in stages.
-
----
-
-### 2026-06-16 00:02:26  #其他
-
-Meta：將於 Facebook 上線搜尋、內容創作全新人工智慧功能。
-
----
-
-### 2026-06-16 00:02:08  #宏觀 #國際
-
-美國高階官員：美國準備解凍凍結資金並放寬制裁，談判初期或將出臺部分小幅善意舉措。
-
----
-
-### 2026-06-16 00:01:42  #國際
-
-美國高階官員：美國可在制裁、資金解凍方面釋放小幅善意舉措。
-
----
-
-### 2026-06-16 00:01:13  #市場 #焦點
-
-納指漲3.00%，現報26665.742點；道指漲1.39%，現報51912.961點；標普500指數漲1.93%，現報7574.970點。
-
----
-
-### 2026-06-16 00:01:03  #MKT News #Market Themes #AI Revolution
-
-【U.S. judge dismisses Musk's XAI trade-secret suit against OpenAI】A U.S. federal judge on Monday dismissed a lawsuit by Elon Musk’s XAI accusing OpenAI of stealing trade secrets. U.S. District Judge Rita Lin in San Francisco said XAI failed to prove OpenAI induced former XAI engineer Xuechen Li to misappropriate secrets or that a recruitment demonstration disclosed XAI trade secrets, and that allowing the case to proceed would be "futile." Lin had previously dismissed an earlier version of the complaint in February.
-
----
-
-### 2026-06-16 00:00:44  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Rise to Records — European stocks rose to record highs on Monday after the US and Iran agreed to a deal that suspends their war. The Euro STOXX 50 added 0.8% to a peak of 6,236 and the STOXX Europe 600 gained 0.3% to 635. The deal is set to be signed on Friday and reportedly restores the flow of energy exports through the Strait of Hormuz, lowering oil prices and sovereign yields throughout Europe's largest economies. Money markets have scaled back expectations for rate hikes, now pricing in just one increase each from the ECB and the BoE by year-end. The developments lifted banks amid the improved outlook of credit activity, with Santander, Deutsche Bank, and BBVA adding between 4.56% and 3%. Industrials were also supported on improved demand and lower power costs, with Safran jumping 3.5% and Siemens adding 2.2%.
-
----
-
-### 2026-06-16 00:00:44  #Trading Economics #Economy #Israel #Inflation Rate #Importance 1
-
-Israel Inflation Rate Steady at 1.9% in May — The annual inflation rate in Israel stood at 1.9% in May 2026, remaing unchanged from the last two months, bellow market expectations of a 2% increase and staying within the Bank of Israel’s 1%–3% target band for ten consecutive months. Upward price pressures were mainly due to housing (4.0% vs 3.3%) and education, culture and entertainment (1.5% vs 1.4%). Meanwhile, inflation eased in several categories, including food, inclduing vegetables (2.6% vs 2.8%), health (1.6% vs 1.7%) and transport & communications (0.8% vs 0.9%). Deflation deepened for household equipment (-3.6% vs -3.2%), while clothing and footwear prices remained lower (-6.7%). On a monthly basis, consumer prices declined 0.3% in May, reversing a 1.2% rise in the previous month.
-
----
-
-### 2026-06-16 00:00:16  #MKT News #WTI #Impact bearish #Brent
-
-A U.S. senior official said Washington understands Iran's parliament speaker Mohammad Bagher Ghalibaf has been authorized by the Supreme Leader to negotiate and sign agreements.
 
 ---

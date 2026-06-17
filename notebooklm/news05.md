@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-18 05:22:08_
-_本檔包含 3845 則快訊，約 695525 字_
+_更新時間：2026-06-18 06:19:33_
+_本檔包含 3790 則快訊，約 696362 字_
+
+---
+
+### 2026-06-12 10:00:11  #MKT News
+
+Xinhua reported South Korean President Yoon Suk-yeol was sentenced to 30 years in prison in a first-instance trial over the "drone incident".
+
+---
+
+### 2026-06-12 10:00:06  #其他
+
+【廣州：到2030年，全市專業市場年交易額突破2萬億元】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，到2030年，全市專業市場年交易額突破2萬億元，較基期年實現跨越式提升，鞏固國際商貿中心核心載體地位。到2030年，建設服務於專業市場的公共服務平臺30家；就業帶動效應持續放大，覆蓋商貿服務、創新創業、文旅消費、物流配套等多個領域，直接與間接帶動就業220萬人。
+
+---
+
+### 2026-06-12 09:59:30  #焦點 #國際
+
+據韓聯社12日報道，韓國前總統尹錫悅因“製造平壤上空無人機入侵事件”一審被判處有期徒刑30年。（新華社）
+
+---
+
+### 2026-06-12 09:59:19  #MKT News #Important
+
+Coke futures contract 2609 spiked intraday, up about 4% to probe 2,087 yuan/tonne; trading value roughly CNY 6.365 bln. Open interest rose nearly 7,300 contracts on the day, with volume and position activity increasing in tandem.
+
+---
+
+### 2026-06-12 09:58:46  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時放量1951億元。
+
+---
+
+### 2026-06-12 09:58:39  #市場 #焦點
+
+焦炭連續主力合約日內漲4%，現報2087.00元。
+
+---
+
+### 2026-06-12 09:58:38  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+China A-share maritime equipment sector rose on volatile trade; Zhongke Haixun gained over 7%, while Songfa, Jianglong Shipbuilding, Tianhai Defense and Hailanxin also advanced.
+
+---
+
+### 2026-06-12 09:57:49  #MKT News #Commodities #Precious Metals #XAUUSD
+
+【China Merchants Bank raises Zhaocaijin precious‑metals maintenance margin to 120% from June 16】China Merchants Bank said it will raise the margin maintenance ratio for margin calls on its Zhaocaijin precious‑metals business to 120%, effective at settlement on the close of Tuesday, June 16, 2026, citing heightened domestic and international precious‑metals price volatility. Affected contracts: Ag(T+D), Au(T+D), mAu(T+D), Au(T+N1), Au(T+N2), NYAuTN06 and NYAuTN12.
+
+---
+
+### 2026-06-12 09:57:28  #其他
+
+周大福港股漲幅超15%。
+
+---
+
+### 2026-06-12 09:57:18  #MKT News #Important #Market Themes #AI Revolution #Chip Wars #CSI300 #Impact bullish #Hang Seng Index
+
+【Guangzhou draft commerce plan prioritises intelligent connected vehicles, NEVs, AI, semiconductors and low‑altitude economy for major project deployment】Guangzhou’s public consultation draft of the Commerce Development 15th Five‑Year Plan calls for accelerated landing of major projects in intelligent connected vehicles and new‑energy vehicles (NEVs), ultrahigh‑definition video and new displays, green petrochemicals and new materials, smart equipment and robotics, artificial intelligence, semiconductors and integrated circuits, and the low‑altitude economy, and for cultivation of high‑tech, manufacturing 'single champion' and specialized‑and‑innovative leading intermediate‑goods firms. The draft directs faster development of intermediate‑goods trade bases and cultivation of well‑known brands and chain‑leading enterprises, and supports firms’ digital transformation using industrial internet, big data and AI to raise production efficiency and product quality and to upgrade intermediate‑goods trade toward higher‑end, digital and intelligent segments.
+
+---
+
+### 2026-06-12 09:57:11  #其他
+
+【廣州：全力推進智慧網聯與新能源汽車、人工智慧、半導體及積體電路、低空經濟等重大專案的落地】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，全力推進智慧網聯與新能源汽車、超高畫質影片與新型顯示、綠色石化與新材料、智慧裝備與機器人、人工智慧、半導體及積體電路、低空經濟等重大專案的落地，培育一批高新技術、製造業單項冠軍、專精特新等龍頭中間品企業。推動外貿轉型升級基地加快發展中間品貿易，培育一批知名品牌、“鏈主”企業。支援企業利用工業網際網路、大資料、人工智慧等技術進行數字化改造，提升生產效率和產品質量，推動中間品貿易向高階化、數智化方向躍升。
+
+---
+
+### 2026-06-12 09:57:08  #其他
+
+【水利部：受強降雨影響 烏江、贛江等將有明顯漲水過程】從水利部瞭解到，據預報，今天（6月12日）至14日，西南東部南部、江南大部、華南大部等地將有一次移動性強降雨過程。長江上游支流烏江，洞庭湖水系沅江中游、湘江上中游，鄱陽湖水系贛江、撫河、信江、饒河；珠江流域西江及支流鬱江、柳江、桂江、賀江，北江，東江，韓江；福建閩江、甌江；松花江流域松花江吉林段、牡丹江等河流將出現明顯漲水過程；暴雨區內福建閩江支流富屯溪、建溪及貴州烏江支流野紀河、江西信江支流瀘溪水等中小河流可能發生超警以上洪水。水利部要求相關省份水利部門和流域管理機構密切關注天氣變化，科學精準排程骨幹水庫等防洪工程，全力保障人民群眾生命財產安全。
+
+---
+
+### 2026-06-12 09:56:53  #市場
+
+【招商銀行調整“招財金”業務合約追保保證金比例】6月12日，招商銀行釋出關於調整“招財金”業務合約追保保證金比例的通告。鑑於近期國內外貴金屬價格波動加劇，為防範市場風險、保護投資者權益，該行對招財金業務進行相關調整，具體通告如下：2026年6月16日（星期二）收盤清算時起，Ag(T+D)、Au(T+D)、mAu(T+D)、Au(T+N1)、Au(T+N2)、NYAuTN06、NYAuTN12等合約的追保保證金比例調整為120%。請投資者做好風險防範工作，合理控制倉位，理性投資。
+
+---
+
+### 2026-06-12 09:56:04  #MKT News #Market Regions #Greater China
+
+China A-share low-altitude economy sector rose; Zongshen Power and CITIC Offshore Helicopter hit the daily limit; Wanfeng Aowei, Chuangyuan Xinke and Suochen Technology also advanced.
+
+---
+
+### 2026-06-12 09:55:34  #公司 #市場
+
+【通用航空概念持續走強，宗申動力、晨曦航空等多股漲停】通用航空概念持續走強，宗申動力、晨曦航空、中信海直漲停，中航高科、應流股份、萬豐奧威、安達維爾、洪都航空、天成自控等跟漲。
+
+---
+
+### 2026-06-12 09:55:26  #MKT News #Important #Market Regions #Greater China
+
+Localized moves in Guangdong: Zhujiang Piano jumped >7% intraday; Zhujiang Co. rose >3%. Guangzhou’s draft 15th Five-Year commerce development plan, published for public comment, proposes to support the Hong Kong Jockey Club’s Conghua racecourse and the Guangzhou International Horse Racing Development Center and to back regular racing schedules.
+
+---
+
+### 2026-06-12 09:55:24  #公司 #市場
+
+廣東板塊區域性異動，珠江鋼琴短線拉昇漲超7%，珠江股份漲超3%。
+
+---
+
+### 2026-06-12 09:55:10  #MKT News
+
+【Guangzhou: total retail sales of consumer goods to grow 5% annually during 15th Five-Year Plan】Guangzhou has released a draft commerce development plan for public consultation, aligning with national and provincial plans and setting four areas with 18 specific business-development targets through 2030. Key numeric targets: total retail sales of consumer goods to rise 5% a year during the 15th Five-Year Plan period; goods trade import‑export scale to grow 6% a year; service outsourcing contract execution to reach $24bn by 2030. The draft also defines 15 focused indicators tied to consumption, foreign trade, exhibitions, two‑way investment and ports — including online retail sales of above‑scale wholesale and retail firms, number of world‑class commercial districts, service trade import‑export, exhibition area of key venues and added foreign‑funded functional institutions — and sets qualitative mid‑to‑long‑term goals toward 2035.
+
+---
+
+### 2026-06-12 09:55:00  #其他
+
+【廣州：“十五五”期間社會消費品零售總額年均增長5%】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，本規劃充分銜接國家以及省市規劃建議、綱要，立足廣州增強國際商貿中心功能的現實路徑和需要，制定了到2030年的4方面18項具體商務發展指標。其中，社會消費品零售總額（“十五五”期間年均增長5%）、貨物貿易進出口規模（年均增長6%）、服務外包合同執行額（2030年達240億美元）等3個指標，納入市規劃綱要。此外，本規劃根據消費、外貿、會展、雙向投資、口岸等發展趨勢，制定了包括限上批零業網上零售額、世界級商圈數量、服務貿易進出口、重點展館展覽面積、新增外資功能性機構數量等15個重點、特色指標。同時，參照上位規劃做法，對2035年中遠期提出定性目標。
+
+---
+
+### 2026-06-12 09:53:47  #Trading Economics #Markets #Commodity #Importance 1
+
+Platinum Rises Over 4% — Platinum futures rose more than 4% to above $1,730 an ounce, attempting to rebound from a six-month low as precious metals broadly advanced after renewed hopes for a Middle East peace deal eased inflation concerns. US President Donald Trump said a deal could be reached as early as this weekend after postponing planned attacks against Iran. This could potentially reopen the Strait of Hormuz and would likely push oil prices lower, reducing inflation pressures from energy and easing pressure on central banks to raise rates. Still, traders remained cautious, as even a breakthrough would take time to fully restore oil flows. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026. Output from major producers South Africa and Russia remains constrained by aging mines, high costs, and sanctions-related disruptions, while industrial demand from the automotive sector remains resilient.
+
+---
+
+### 2026-06-12 09:53:26  #MKT News #Important #Commodities #Precious Metals
+
+Platinum main contract rose more than 4.00% intraday to 433.10 yuan/gram.
+
+---
+
+### 2026-06-12 09:53:12  #MKT News #Important
+
+【Guangzhou draft commerce plan backs Hong Kong Jockey Club Conghua racecourse, Greater Bay Area cross-border smart clearance for racing】Guangzhou’s draft 15th Five-Year commerce development plan, released for public comment, backs construction of an international events center and seeks to host international and national sporting events including horse and auto racing. The draft explicitly supports the Hong Kong Jockey Club’s Conghua racecourse and the Guangzhou Conghua International Racecourse development center and endorses running a regular racing calendar to spur local consumption. It calls for advancing Greater Bay Area cross-border intelligent customs clearance for horse racing, including use of "horse-face" intelligent recognition to strengthen smart supervision and promote healthy development of the GBA equine industry.
 
 ---
 
@@ -22728,467 +22860,5 @@ OpenAI：依託甲骨文雲服務即可呼叫 OpenAI 模型與程式碼智慧工
 ### 2026-06-11 06:20:00  #公司 #國際
 
 【SpaceX據悉獲得三大債券評級機構的投資級評級】據知情人士透露，埃隆·馬斯克的SpaceX告訴投資者，該公司已從三家主要債券評級機構獲得了投資級評級，這可能有助於SpaceX在IPO後繼續融資時降低成本。SpaceX預計將透過首次公開募股(IPO)籌資約750億美元。該公司勢將在週四定價，並於次日開始交易。債券市場人士已開始關注Space的下一步動作，尤其是進入投資級債券市場融資的可能性。CreditSights分析師本週表示，預計SpaceX將在“IPO後不久”發行債券。根據提交給美國證券交易委員會的招股說明書，截至3月31日，SpaceX擁有291億美元長期債務，其中大部分為一筆將於2027年9月到期的200億美元過橋貸款。目前尚不清楚SpaceX具體獲得的是哪類投資級評級，例如是否僅適用於有擔保債務。知情人士表示，穆迪評級、惠譽評級和標普全球評級均給予SpaceX投資級評級。
-
----
-
-### 2026-06-11 06:18:03  #焦點 #國際
-
-據以色列媒體：訊息人士稱，現階段以色列未參與美國對伊朗的打擊行動。
-
----
-
-### 2026-06-11 06:17:56  #MKT News #Important
-
-Israeli media, citing sources, report Israel is not participating at this stage in U.S. strikes on Iran.
-
----
-
-### 2026-06-11 06:16:35  #市場 #焦點
-
-現貨黃金失守4050美元/盎司，日內跌0.52%。
-
----
-
-### 2026-06-11 06:16:33  #市場 #焦點
-
-紐約期金失守4070美元/盎司，日內跌1.55%。
-
----
-
-### 2026-06-11 06:16:15  #MKT News #Important
-
-Spot gold fell below $4,050/oz in early trade, down 0.51% on the day.
-
----
-
-### 2026-06-11 06:15:56  #國際
-
-伊朗方面訊息：伊拉克埃爾比勒的美軍哈里爾基地一處雷達遭襲擊。
-
----
-
-### 2026-06-11 06:15:04  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Swedish Krona Drops by 0.51% — Top currency losers are Swedish Krona (-0.51%), Australian Dollar (-0.50%), New Zealand Dollar (-0.47%), British Pound (-0.16%), Japanese Yen (-0.11%) and Euro (-0.11%). Gains are led by Norwegian Krone (0.43%) and Dollar Index (0.17%).
-
----
-
-### 2026-06-11 06:14:36  #MKT News
-
-Al Jazeera, citing sources, reports clashes between Iranian and U.S. forces continue in waters of the Persian Gulf and the Gulf of Oman.
-
----
-
-### 2026-06-11 06:13:50  #市場
-
-【美元指數10日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.04%，在匯市尾市收於99.947。截至紐約匯市尾市，1歐元兌換1.1548美元，低於前一交易日的1.1550美元；1英鎊兌換1.3380美元，低於前一交易日的1.3388美元。1美元兌換160.50日元，高於前一交易日的160.36日元；1美元兌換0.7994瑞士法郎，高於前一交易日的0.7979瑞士法郎；1美元兌換1.3937加元，低於前一交易日的1.3952加元；1美元兌換9.4948瑞典克朗，高於前一交易日的9.4603瑞典克朗。
-
----
-
-### 2026-06-11 06:13:07  #國際
-
-【美防長在美古關係緊張之際訪問古巴關塔那摩美軍基地 】美國國防部長赫格塞思10日在美古關係緊張之際訪問了位於古巴關塔那摩的美海軍基地，並稱美國防部將做好準備以應對“任何可能發生的突發事態”。據美國防部在社交媒體釋出的訊息，赫格塞思稱，其此行旨在確保該基地“具備履行任務所需的一切條件”。他在會見美軍士兵時還稱，“古巴的未來掌握在美國總統和古巴領導層手中”。美國防部發布的影片中，赫格塞思稱，如果古巴試圖獲取能夠打擊關塔那摩美海軍基地或美國本土的武器，將是“極不明智”的舉動，這可能引發古巴“既不希望看到、也無力承受”的對抗。（新華社）
-
----
-
-### 2026-06-11 06:12:50  #國際
-
-【伊朗導彈無人機襲擊美軍艦】據伊朗邁赫爾通訊社當地時間今天（6月11日）凌晨報道，伊朗與美軍在海上發生衝突。據伊朗官媒報道，初步報告顯示霍爾木茲海峽附近的美國軍艦遭伊朗導彈與無人機打擊。（CCTV國際時訊 ）
-
----
-
-### 2026-06-11 06:11:54  #市場
-
-紐約期銀日內跌3%，現報62.79美元/盎司。
-
----
-
-### 2026-06-11 06:11:54  #其他
-
-【微軟旗下的Xbox計劃進行大規模裁員】知情人士透露，微軟預計將在6月30日財年結束後不久進行裁員，具體規模尚不清楚。他們還表示，Xbox也計劃大幅削減市場營銷和其他一些業務領域的預算。
-
----
-
-### 2026-06-11 06:11:48  #MKT News
-
-WTI crude topped $93/barrel, up 0.35% intraday.
-
----
-
-### 2026-06-11 06:11:14  #市場
-
-現貨白銀日內跌1%，現報62.69美元/盎司。
-
----
-
-### 2026-06-11 06:10:21  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell 1.00% in early trade to $62.74/oz.
-
----
-
-### 2026-06-11 06:07:37  #MKT News
-
-Iranian media reported that U.S. vessels near the Strait of Hormuz have been targeted by missile and drone strikes by the Iranian armed forces.
-
----
-
-### 2026-06-11 06:07:26  #國際
-
-伊朗方面訊息：伊朗武裝部隊動用導彈和無人機，對霍爾木茲海峽附近的美軍艦船發起襲擊。
-
----
-
-### 2026-06-11 06:06:48  #市場 #焦點
-
-紐約期金失守4080美元/盎司，日內跌1.31%。
-
----
-
-### 2026-06-11 06:06:00  #市場
-
-鈀金期貨日內跌1%，現報1225.50美元/盎司。
-
----
-
-### 2026-06-11 06:05:26  #國際
-
-伊朗方面訊息：漢扎拉駭客組織稱，漢扎拉網路司令部與伊斯蘭革命衛隊聯合作戰指揮部，將在數分鐘內發起協同、果斷且具有毀滅性的反擊。
-
----
-
-### 2026-06-11 06:03:45  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,060/oz, down 0.26% on the day.
-
----
-
-### 2026-06-11 06:03:29  #市場 #焦點
-
-現貨黃金失守4060美元/盎司，日內跌0.29%。
-
----
-
-### 2026-06-11 06:03:27  #國際
-
-【美伊發生海上衝突】據伊朗邁赫爾通訊社當地時間今天（6月11日）凌晨最新報道，伊朗與美軍在海上發生衝突。（CCTV國際時訊）
-
----
-
-### 2026-06-11 06:02:34  #市場
-
-【國際油價10日上漲】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲1.83美元，收於每桶90.03美元，漲幅為2.07%；8月交貨的倫敦布倫特原油期貨價格上漲1.65美元，收於每桶93.10美元，漲幅為1.8%。
-
----
-
-### 2026-06-11 06:01:56  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude opened slightly higher on Thursday as U.S. forces are carrying out strikes on Iran.
-
----
-
-### 2026-06-11 06:00:57  #市場
-
-紐約期金日內跌1%，現報4091.95美元/盎司。
-
----
-
-### 2026-06-11 06:00:24  #MKT News
-
-Iranian state TV reported a cruise missile was intercepted in Asaluyeh, Bushehr province in southern Iran.
-
----
-
-### 2026-06-11 06:00:10  #Trading Economics #Markets #commodity #Importance 0
-
-Copper is down by 2.2% — Copper decreased 2.2% to 6.1641 USD/Lbs
-
----
-
-### 2026-06-11 06:00:07  #央行 #國際
-
-【美聯儲6月維持利率不變的機率為98.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為98.4%，累計降息25個基點的機率為1.6%。美聯儲到7月維持利率不變的機率為89.1%，累計加息25個基點的機率9.5%，累計降息25個基點的機率為1.5%。
-
----
-
-### 2026-06-11 06:00:02  #市場
-
-WTI原油日內漲2%，現報92.17美元/桶。
-
----
-
-### 2026-06-11 06:00:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-IRNA reports multiple explosions heard near Iran's Bandar Abbas airport and an adjacent air force base.
-
----
-
-### 2026-06-11 05:59:51  #國際
-
-據伊朗伊斯蘭共和國通訊社（IRNA）： 阿巴斯港機場及空軍基地附近傳出多聲爆炸。
-
----
-
-### 2026-06-11 05:59:08  #焦點 #國際
-
-伊朗邁赫爾通訊社報道，伊朗與美方部隊在海上發生交火。
-
----
-
-### 2026-06-11 05:58:50  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Iran and U.S. forces clashed at sea, Iran's Mehr news agency reported.
-
----
-
-### 2026-06-11 05:54:01  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Axios, citing a U.S. official, said all struck targets were in southern Iran, including air-defence systems, radars and unmanned aerial vehicle command-and-control units.
-
----
-
-### 2026-06-11 05:53:54  #焦點 #國際
-
-據Axios援引美國官員訊息：遭打擊的目標均位於伊朗南部，包括防空系統、雷達以及無人機指揮控制單位。
-
----
-
-### 2026-06-11 05:53:32  #其他
-
-【葉門亞丁東南部一軍營附近傳出連續爆炸聲】當地時間10日午夜至11日凌晨之間，位於葉門臨時首都亞丁東南部的索爾班軍營附近傳出連續爆炸聲。據接近現場的知情人士稱，發生爆炸的地點疑似是“巨人旅”彈藥庫，爆炸造成人員傷亡。目前，具體情況尚不明確。（央視新聞）
-
----
-
-### 2026-06-11 05:51:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Press TV reports a site in the Sirik area was struck by enemy artillery fire.
-
----
-
-### 2026-06-11 05:51:22  #國際
-
-伊朗Press TV：錫裡克一處地點遭到敵方彈體襲擊。
-
----
-
-### 2026-06-11 05:50:11  #MKT News
-
-Mehr News Agency reports multiple explosions heard at Gorgan port in Iran.
-
----
-
-### 2026-06-11 05:50:10  #國際
-
-伊朗邁赫爾通訊社：戈爾甘港境內傳出數起爆炸聲。
-
----
-
-### 2026-06-11 05:49:32  #國際
-
-以色列方面訊息：“防禦系統正防備伊朗向以色列發動襲擊” 。
-
----
-
-### 2026-06-11 05:49:08  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Israeli media report Israel's defense systems are preparing for the possibility of Iranian missile launches.
-
----
-
-### 2026-06-11 05:47:40  #MKT News #Brent #Impact bullish #XAUUSD
-
-IRNA said explosions on Iran's Qeshm and Hengam islands were caused by military-grade artillery shells.
-
----
-
-### 2026-06-11 05:47:26  #國際
-
-伊朗伊斯蘭共和國通訊社稱，格什姆島與亨加姆島發生的爆炸系彈藥擊中所致，相關襲擊均針對軍事目標。
-
----
-
-### 2026-06-11 05:46:45  #國際
-
-有報道稱，伊朗阿薩盧耶的南帕爾斯天然氣田綜合體一處石化設施遭到襲擊。
-
----
-
-### 2026-06-11 05:46:03  #國際
-
-據Politico：特朗普將不會出席美國“世界盃”揭幕賽。
-
----
-
-### 2026-06-11 05:45:29  #MKT News
-
-Politico reports Trump will not attend the US World Cup opening match.
-
----
-
-### 2026-06-11 05:43:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Bushehr in southern Iran was attacked.
-
----
-
-### 2026-06-11 05:42:52  #焦點 #國際
-
-據半島電視臺：以色列已對伊朗發動打擊。
-
----
-
-### 2026-06-11 05:42:49  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Al Jazeera reports Israel has launched strikes against Iran.
-
----
-
-### 2026-06-11 05:41:33  #MKT News
-
-Iranian state TV reports explosions heard at Abbas port.
-
----
-
-### 2026-06-11 05:41:18  #國際
-
-【美軍開始空襲伊朗】美軍中央司令部稱，美軍開始對伊朗境內多個目標展開所謂“自衛打擊”。（CCTV國際時訊）
-
----
-
-### 2026-06-11 05:41:00  #市場 #焦點
-
-布倫特原油突破95美元/桶，日內漲3.88%。
-
----
-
-### 2026-06-11 05:38:03  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-CENTCOM said it began additional self-defense strikes against multiple targets inside Iran at 5:15 p.m. ET today, saying the strikes were in response to Iran’s unprovoked and sustained acts of aggression.
-
----
-
-### 2026-06-11 05:37:46  #焦點 #國際
-
-美國中央司令部： 美軍中央司令部部隊於美國東部時間今日 17 時 15 分，對伊朗境內多處目標實施新一輪自衛打擊。此次行動是為回應伊朗無端且持續的挑釁行為。
-
----
-
-### 2026-06-11 05:37:11  #其他
-
-有訊息稱阿巴斯港發生兩起爆炸。
-
----
-
-### 2026-06-11 05:35:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Mehr news agency reported Iran activated an air-defence system in the Asaluyeh area.
-
----
-
-### 2026-06-11 05:35:18  #MKT News #Important #WTI #Impact bullish #DXY #S&P500 #Impact bearish
-
-Axios cites U.S. officials saying U.S. strikes against Iran have begun.
-
----
-
-### 2026-06-11 05:35:13  #焦點 #國際
-
-據AXIOS：美國官員稱，美國對伊朗的打擊已經開始。
-
----
-
-### 2026-06-11 05:34:29  #MKT News #WTI #Impact bearish #Brent #XAUUSD #Impact mixed
-
-TASNIM NEWS reports no explosions on Kish Island or Qeshm Island; local noises heard were linked to the conflict in the Gulf region.
-
----
-
-### 2026-06-11 05:34:04  #國際
-
-伊朗塔斯尼姆通訊社表示，基什島與格什姆島並未發生爆炸，當地聽到的聲響源自海灣地區的交火。
-
----
-
-### 2026-06-11 05:32:50  #國際
-
-【伊朗南部多地傳爆炸聲】據伊朗邁赫爾通訊社報道，當地時間今天（6月11日）凌晨，伊朗南部錫裡克、米納卜傳出爆炸聲，位於波斯灣的基什島遠處傳來“不明聲響”。目前沒有官方說法。（ CCTV國際時訊）
-
----
-
-### 2026-06-11 05:30:45  #國際
-
-【伊朗：武力無法達成可持續協議 特朗普應停止威脅】伊朗常駐聯合國代表10日就美國總統特朗普威脅打擊伊朗回應稱，威脅、恐嚇或訴諸武力無法達成可持續協議，特朗普應停止威脅伊朗。據伊朗伊斯蘭共和國通訊社報道，伊朗常駐聯合國代表伊拉瓦尼於當地時間10日在聯合國安理會會議上說，特朗普應停止對伊朗反覆威脅，包括他當天再次發出訴諸武力的威脅。特朗普當天早些時候稱，美國將對伊朗再次發起打擊，而且會“非常猛烈”。 (新華社)
-
----
-
-### 2026-06-11 05:30:11  #MKT News #Brent #Impact bullish #XAUUSD
-
-Al Jazeera reports Israel is on heightened alert to guard against possible renewed hostilities arising from Iranian retaliatory action.
-
----
-
-### 2026-06-11 05:29:14  #MKT News
-
-Iran's Mehr News Agency reports explosions heard in the Minab region.
-
----
-
-### 2026-06-11 05:29:02  #國際
-
-伊朗邁赫爾通訊社：米納布地區傳出爆炸聲。
-
----
-
-### 2026-06-11 05:28:50  #公司
-
-甲骨文： 受資料中心專案持續推進影響，公司預計 2027 財年毛利率將有所下滑。
-
----
-
-### 2026-06-11 05:27:44  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-【Air-defence systems activated in Tehran and southern Iran】State media said early on June 11 local time Iran activated air-defence systems west of Tehran; Mehr news agency reported an activation in Fars province. Separate reports said explosions were heard in the southern city of Sirik and unidentified noises were detected off Kish Island in the Persian Gulf.
-
----
-
-### 2026-06-11 05:27:31  #其他
-
-甲骨文：預計 2027 財年淨資本支出達 700 億美元，受預付費因素影響，2027 財年公佈的資本支出將有所增加。
-
----
-
-### 2026-06-11 05:26:51  #國際
-
-【德黑蘭等地防空系統啟動】據伊朗邁赫爾通訊社報道，當地時間今天（6月11日）凌晨，伊朗首都德黑蘭西部的防空系統啟動。邁赫爾通訊社還報道稱，伊朗南部的法爾斯地區防空系統啟動。另據報道，伊朗南部錫裡克市傳出爆炸聲，位於波斯灣的基什島遠處傳來不明聲響。（CCTV國際時訊）
-
----
-
-### 2026-06-11 05:24:41  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-Mehr News Agency reports explosions heard in the Sirik region of Iran.
-
----
-
-### 2026-06-11 05:24:29  #國際
-
-伊朗方面訊息：錫裡克地區傳出爆炸聲。
-
----
-
-### 2026-06-11 05:22:43  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) CEO said the Abilene, Texas data center has delivered 42% of its total capacity and expects to deliver a further 35% within the next 90 days.
-
----
-
-### 2026-06-11 05:22:34  #MKT News #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) CEO said the company signed $67 billion of AI infrastructure contracts in fiscal 2026 Q4, most of which are bundled with hardware or prepaid.
-
----
-
-### 2026-06-11 05:22:24  #公司
-
-甲骨文CEO： 得克薩斯州阿比林資料中心已交付總容量的 42%，預計未來 90 天內還將交付 35%。
 
 ---

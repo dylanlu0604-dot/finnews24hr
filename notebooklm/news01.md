@@ -1,7 +1,643 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-18 05:22:08_
-_本檔包含 3603 則快訊，約 695984 字_
+_更新時間：2026-06-18 06:19:33_
+_本檔包含 3673 則快訊，約 696706 字_
+
+---
+
+### 2026-06-18 06:18:48  #國際
+
+一名美國官員稱，伊朗諒解備忘錄週三由特朗普與伊朗總統簽署。
+
+---
+
+### 2026-06-18 06:17:46  #國際
+
+美國官員稱：伊朗諒解備忘錄於週日由萬斯與伊朗議長卡利巴夫以電子方式簽署，特朗普在場見證。
+
+---
+
+### 2026-06-18 06:17:35  #國際
+
+伊朗外交部發言人：我們將能夠從今天開始銷售石油，為期60天；關於諒解備忘錄執行機制的談判將立即開始。
+
+---
+
+### 2026-06-18 06:15:13  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Swedish Krona Drops by 1.49% — Top currency losers are Swedish Krona (-1.49%), Norwegian Krone (-1.40%), South Korean Won (-1.22%), British Pound (-1%), Euro (-0.91%) and Japanese Yen (-0.12%). Gains are led by Dollar Index (0.83%).
+
+---
+
+### 2026-06-18 06:14:55  #MKT News
+
+【Iran says MoU signed in Persian and English, both carry equal legal force】On the 18th, Iranian foreign ministry spokesman Baghaei said the memorandum of understanding was signed in Persian and English, a requirement Iran insists on to prevent subjective translation differences. Tehran regards the Persian and English texts as identical and carrying equal legal effect.
+
+---
+
+### 2026-06-18 06:14:48  #國際
+
+【伊朗稱諒解備忘錄以兩種語言簽署 具有同等效力】當地時間18日，伊朗外交部發言人巴加埃表示，諒解備忘錄是以兩種語言簽署的，這一點非常重要，因為伊朗堅持，必須同時具備波斯語和英語兩個版本的文字。他稱，如果只有英文版本，可能會出現帶有主觀傾向的翻譯差異。波斯語文字與英文文字完全一致，在伊朗方面看來具有完全同等的法律效力。（央視新聞）
+
+---
+
+### 2026-06-18 06:14:22  #MKT News
+
+Iran’s Foreign Ministry spokesman said the 60-day period under the agreement begins today.
+
+---
+
+### 2026-06-18 06:13:28  #國際
+
+伊朗外交部發言人：根據協議文字，60天期限自今日起開始計算。
+
+---
+
+### 2026-06-18 06:12:44  #國際
+
+俄羅斯副外長阿里莫夫表示，莫斯科和德黑蘭正在聯合國協調行動，以期徹底解除對伊朗的制裁。
+
+---
+
+### 2026-06-18 06:10:09  #國際
+
+伊朗外交部發言人： 若以色列政權持續襲擊黎巴嫩，該行為將構成對方違反諒解備忘錄項下承諾。 我們不會將美國與以色列政權割裂看待，儘管二者行事手段與方針的差異十分明顯。 以色列政權不願給任何外交程序一絲推進空間。但美國有責任迫使以色列政權遵守美方在本協議中對伊朗作出的承諾。
+
+---
+
+### 2026-06-18 06:09:11  #公司 #國際
+
+日本製鐵副總裁：日本製鐵對美國鋼鐵的整改措施“尚未滿意”。
+
+---
+
+### 2026-06-18 06:08:17  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's foreign ministry spokesman said Israel's continued attacks on Lebanon would be regarded as a breach of commitments.
+
+---
+
+### 2026-06-18 06:08:13  #國際
+
+伊朗外交部發言人：若以色列繼續攻擊黎巴嫩，此舉將被視為違反承諾。
+
+---
+
+### 2026-06-18 06:06:26  #MKT News
+
+Iran Foreign Ministry spokesperson said issues in the Strait of Hormuz are the responsibility of Iran and Oman.
+
+---
+
+### 2026-06-18 06:06:15  #市場
+
+鈀金期貨日內跌3%，現報1322.00美元/盎司。
+
+---
+
+### 2026-06-18 06:06:13  #焦點 #國際
+
+伊朗外交部發言人：霍爾木茲海峽問題由伊朗與阿曼共同負責。
+
+---
+
+### 2026-06-18 06:06:09  #MKT News #WTI #Impact bearish #Brent #DXY #Impact mixed
+
+Iran's foreign ministry spokesperson said it will immediately begin talks to establish a mechanism to implement the agreement.
+
+---
+
+### 2026-06-18 06:05:58  #市場 #焦點
+
+現貨白銀突破68美元/盎司，日內漲0.16%。
+
+---
+
+### 2026-06-18 06:05:58  #市場 #焦點
+
+現貨黃金突破4260美元/盎司，日內漲0.07%。
+
+---
+
+### 2026-06-18 06:05:58  #央行 #其他
+
+巴西央行：通脹出現新的上行風險，仍為總需求追加刺激措施。
+
+---
+
+### 2026-06-18 06:05:53  #市場 #焦點
+
+紐約期金突破4280美元/盎司，日內跌2.28%。
+
+---
+
+### 2026-06-18 06:05:49  #國際
+
+伊朗外交部發言人：關於建立執行該諒解備忘錄機制的談判將立即啟動。
+
+---
+
+### 2026-06-18 06:05:39  #MKT News
+
+Iran's Foreign Ministry spokesman said the US has pledged to remove all obstacles to Iran's access to its frozen funds.
+
+---
+
+### 2026-06-18 06:05:37  #其他
+
+中央氣象臺6月18日06時釋出暴雨黃色預警。
+
+---
+
+### 2026-06-18 06:05:21  #其他
+
+【美加墨世界盃L組首輪：英格蘭4:2擊敗克羅埃西亞】在剛剛結束的美加墨世界盃L組首輪一場焦點對決中，英格蘭隊4:2擊敗克羅埃西亞隊。
+
+---
+
+### 2026-06-18 06:04:59  #央行 #其他
+
+巴西央行：在貨幣政策的相關展望期限內，通脹預測進一步偏離目標區間。
+
+---
+
+### 2026-06-18 06:04:53  #央行 #其他
+
+巴西央行：這些預測的不確定性仍高於正常水平。
+
+---
+
+### 2026-06-18 06:04:39  #市場 #央行 #焦點 #國際
+
+美國聯邦基金利率期貨跌幅擴大，市場已完全定價美聯儲10月前將加息25個基點。
+
+---
+
+### 2026-06-18 06:04:28  #央行 #其他
+
+巴西央行：基礎政策利率長期維持在緊縮水平，為貨幣政策向經濟放緩傳導提供了佐證。
+
+---
+
+### 2026-06-18 06:04:20  #國際
+
+伊朗外交部發言人：美國承諾將消除伊朗獲取其被凍結資金的所有障礙。
+
+---
+
+### 2026-06-18 06:03:15  #市場 #焦點
+
+比特幣跌破64000美元，日內跌2.59%。
+
+---
+
+### 2026-06-18 06:03:06  #央行 #其他
+
+巴西央行：確保通脹在2028年第一季度回落至目標水平的替代路徑，與平滑宏觀經濟總量波動的目標是相容的。
+
+---
+
+### 2026-06-18 06:03:05  #市場
+
+鈀金期貨日內跌2%，現報1324.00美元/盎司。
+
+---
+
+### 2026-06-18 06:02:26  #央行 #其他
+
+巴西央行表示：在當前經濟形勢下，將基礎政策利率走勢作為條件變數納入預測模型後，該模型面臨的不確定性高於正常水平。
+
+---
+
+### 2026-06-18 06:02:20  #央行 #其他
+
+巴西央行：這些不確定性加劇了供給衝擊情景，這會支撐對未來物價走勢的影響至少出現部分分級傳導。
+
+---
+
+### 2026-06-18 06:01:58  #國際
+
+伊朗：應該能夠順利出售石油。
+
+---
+
+### 2026-06-18 06:01:53  #國際
+
+伊朗：石油制裁必須從今天起解除。
+
+---
+
+### 2026-06-18 06:01:42  #MKT News #Nasdaq100 #Impact bullish
+
+US equity index futures edged higher; Nasdaq futures rose nearly 0.5% after the US and Iran signed an electronic memorandum.
+
+---
+
+### 2026-06-18 06:01:40  #央行 #其他
+
+巴西央行：貨幣政策累積的緊縮程度，允許政策利率採取不同路徑，且均符合通脹向目標收斂的要求。
+
+---
+
+### 2026-06-18 06:01:40  #MKT News #Macro & Rates
+
+Brazil central bank said its committee reiterated the need to remain calm and cautious in implementing monetary policy.
+
+---
+
+### 2026-06-18 06:01:08  #MKT News #Important #WTI #Impact bearish
+
+WTI crude opened about 1% lower on Thursday; the US and Iran signed an electronic memorandum of understanding.
+
+---
+
+### 2026-06-18 06:00:45  #市場 #焦點
+
+美伊簽署諒解備忘錄，標普500期貨上漲0.3%，納斯達克期貨上漲0.5%。
+
+---
+
+### 2026-06-18 06:00:43  #市場
+
+紐約期銀日內跌3%，現報68.50美元/盎司。
+
+---
+
+### 2026-06-18 06:00:33  #MKT News
+
+Brazil's central bank cut its benchmark interest rate by 25 bps to 14.25% in a unanimous decision.
+
+---
+
+### 2026-06-18 06:00:09  #央行 #其他
+
+巴西央行：本次決策為全票透過。
+
+---
+
+### 2026-06-18 06:00:05  #市場 #焦點
+
+WTI原油突破75美元/桶，日內跌1.46%。
+
+---
+
+### 2026-06-18 06:00:04  #市場
+
+WTI原油日內跌1%，現報74.92美元/桶。
+
+---
+
+### 2026-06-18 06:00:02  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+An Iranian Foreign Ministry spokesman said Iran's oil sanctions should be lifted and the country should immediately begin a 60-day period of oil exports.
+
+---
+
+### 2026-06-18 05:59:47  #央行 #其他
+
+巴西央行將基準利率下調至14.25%（路透調查預期為14.25%）。
+
+---
+
+### 2026-06-18 05:59:30  #MKT News
+
+Brazil's Selic rate 14.25% as of June 17; forecast 14.25%; prior 14.50%.
+
+---
+
+### 2026-06-18 05:59:22  #MKT News #Economic Calendar #Important
+
+Brazil | Selic Interest Rate (Jun.17) | actual 14.25% | consensus 14.25% | previous 14.50%
+
+---
+
+### 2026-06-18 05:59:07  #國際
+
+伊朗外交部發言人：向國外轉移濃縮材料是不可接受的。
+
+---
+
+### 2026-06-18 05:58:52  #國際
+
+伊朗外交部發言人：伊朗石油制裁應當解除，伊朗應當從今日起即可恢復石油出口，並維持六十天。
+
+---
+
+### 2026-06-18 05:58:15  #MKT News
+
+Iran's foreign ministry spokesman said the other side should not deploy additional forces to the Middle East or impose new sanctions within 60 days.
+
+---
+
+### 2026-06-18 05:57:39  #宏觀 #國際
+
+伊朗外交官巴蓋伊：60天內，另一方不得在該地區增兵，也不得出臺新制裁。
+
+---
+
+### 2026-06-18 05:57:24  #國際
+
+伊朗議會議長卡利巴夫：這份諒解備忘錄中的所有承諾均遵循“對等行動”原則，協議第13條也依照該原則擬定。倘若美國未能履行自身義務，伊朗在任何情況下都不會兌現己方承諾。
+
+---
+
+### 2026-06-18 05:57:07  #MKT News
+
+Iranian Foreign Ministry spokesman: commitment for commitment.
+
+---
+
+### 2026-06-18 05:56:50  #國際
+
+伊朗外交部發言人表示，將以承諾換承諾。
+
+---
+
+### 2026-06-18 05:55:50  #MKT News
+
+Iran's foreign ministry spokesman said the Persian-language document is similar to the English version and has been signed by the other party.
+
+---
+
+### 2026-06-18 05:55:26  #國際
+
+伊朗外交部發言人：波斯文文字與英文文字內容一致，且已由對方簽署。
+
+---
+
+### 2026-06-18 05:53:49  #MKT News
+
+Iran's foreign ministry spokesman said Tehran can choose to dilute enriched uranium.
+
+---
+
+### 2026-06-18 05:53:30  #焦點 #國際
+
+伊朗外交部發言人：我方可採取的方案是稀釋濃縮鈾。
+
+---
+
+### 2026-06-18 05:52:59  #MKT News
+
+Iran's foreign ministry spokesman said Iran will charge service fees for vessels.
+
+---
+
+### 2026-06-18 05:52:57  #MKT News #XAUUSD #Impact bearish #DXY
+
+Iran's Foreign Ministry spokesman said Iran's nuclear material will not be transported out of the country.
+
+---
+
+### 2026-06-18 05:52:49  #國際
+
+伊朗外交部發言人表示，將為向船隻提供的服務收取費用。
+
+---
+
+### 2026-06-18 05:52:18  #國際
+
+伊朗外交部發言人表示，伊朗核材料不會流出境外。
+
+---
+
+### 2026-06-18 05:51:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's foreign ministry spokesman said Iran's missiles are for launch only, not for negotiation.
+
+---
+
+### 2026-06-18 05:51:41  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's Foreign Ministry spokesman said its missiles do not like being discussed and that missile-related issues are not open to negotiation.
+
+---
+
+### 2026-06-18 05:51:05  #焦點 #國際
+
+伊朗外交部發言人巴蓋伊：伊朗導彈只為發射，不為談判。
+
+---
+
+### 2026-06-18 05:50:44  #國際
+
+伊朗外交官巴蓋伊：伊朗的國防能力不會在任何程序中、也不會與任何方進行談判。
+
+---
+
+### 2026-06-18 05:50:36  #國際
+
+伊朗官員巴加埃透過官方媒體表示：“任何勢力膽敢對我國導彈說三道四，我們的導彈絕不買賬”。
+
+---
+
+### 2026-06-18 05:50:25  #焦點 #國際
+
+【美伊簽署諒解備忘錄】伊朗外交部發言人巴加埃當地時間今天（6月18日）凌晨表示，伊朗與美國的諒解備忘錄文字已正式最終敲定，雙方已經對其進行了遠端電子簽署。#特朗普簽署美伊諒解備忘錄#巴加埃稱，伊美本週五（6月19日）在瑞士的會晤“並非旨在簽署諒解備忘錄”，伊朗談判團隊將按計劃繼續前往瑞士。美國白宮官員表示，美國總統特朗普已簽署了與伊朗的諒解備忘錄。 另據美國“阿克西奧斯新聞網（Axios）”報道，由美國副總統萬斯和伊朗議會議長卡利巴夫率領的美伊代表團之間的會晤，預計仍將按計劃於週五在瑞士舉行。
+
+---
+
+### 2026-06-18 05:49:16  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+【US and Iran remotely sign memorandum to end hostilities, reopen Strait of Hormuz; effective immediately】On June 17 two US officials said Washington and Tehran remotely signed a memorandum intended to end the war and reopen the Strait of Hormuz; the agreement is now in effect. One official said President Trump personally signed the document; the signing had been scheduled for June 19 in Switzerland but was expedited. A mediator’s diplomat and another source said parties discussed accelerating the timeline to open the strait; Iran requested the text remain confidential until the formal signing, and a source denied the White House advanced the timing for political reasons. Delegations led by US Vice President Vance and Iranian parliament speaker Ghalibaf are still expected to meet in Switzerland on June 19.
+
+---
+
+### 2026-06-18 05:48:29  #焦點 #國際
+
+【美官員稱特朗普親自提前簽署美伊諒解備忘錄】兩名美國官員透露，美國和伊朗已遠端簽署旨在結束戰爭並開放霍爾木茲海峽的諒解備忘錄，該協議現已生效。其中一名官員表示，美國總統特朗普親自簽署了這份檔案。據悉，該簽署儀式原定於19日在瑞士舉行。此前當日早些時候，一位來自調解國的外交官和另一位知情人士透露，雙方曾討論過提前簽署並實施該協議的事宜。該外交官表示，討論加快時間表是為了能早於19日開放海峽，因為雙方在這一問題上已達成共識。另一個因素可能是白宮面臨著公佈諒解備忘錄文字的政治壓力。不過，這位知情人士聲稱，是伊朗方面要求在正式簽署前不公開文字，並否認白宮此舉是為了應對政治壓力。訊息人士稱，由美國副總統萬斯和伊朗議會議長卡利巴夫率領的美伊代表團之間的會晤，預計仍將按計劃於19日在瑞士舉行。（央視新聞）
+
+---
+
+### 2026-06-18 05:47:42  #國際
+
+【歐盟承諾提供資金支援應對埃博拉疫情】歐盟委員會17日釋出新聞公報稱，歐盟已承諾提供4.93億歐元緊急援助資金，用於支援應對剛果（金）和烏干達暴發的埃博拉疫情。公報表示，這筆資金將用於為疫情應急響應提供一線醫療支援、人道主義援助，並支援疫苗和治療方法研發，同時推動改善疫情防範能力和衛生系統建設等長期工作。（央視新聞）
+
+---
+
+### 2026-06-18 05:46:47  #國際
+
+白宮官員：特朗普已與伊朗簽署該諒解備忘錄。
+
+---
+
+### 2026-06-18 05:46:41  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
+
+White House official says President Trump has signed a memorandum of understanding with Iran.
+
+---
+
+### 2026-06-18 05:46:33  #MKT News #CME.O
+
+CNBC reports CME chairman Duffy will sue the CFTC over perpetual contracts.
+
+---
+
+### 2026-06-18 05:44:51  #MKT News
+
+NewsNation reporter said US-Iran officials have not explained how the electronic memorandum signed Wednesday evening differs from the one signed last Sunday.
+
+---
+
+### 2026-06-18 05:43:06  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Oil rises on 17th】NYMEX July light sweet crude futures rose $0.74 to $76.79 a barrel at the close, up 0.97%. ICE Brent August futures gained $0.59 to $79.55 a barrel at the close, up 0.75%.
+
+---
+
+### 2026-06-18 05:42:11  #市場
+
+【國際油價17日上漲】國際油價17日上漲。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲74美分，收於每桶76.79美元，漲幅為0.97%；8月交貨的倫敦布倫特原油期貨價格上漲59美分，收於每桶79.55美元，漲幅為0.75%。
+
+---
+
+### 2026-06-18 05:41:52  #MKT News #Important
+
+【US, Iran presidents sign electronic memorandum of understanding】US officials said the US and Iranian presidents signed an electronic memorandum of understanding Wednesday night; both sides said a formal memorandum will be signed later. Al Jazeera reported Trump signed the electronic MoU while visiting France and Iranian President Pezeshkian signed in Iran.
+
+---
+
+### 2026-06-18 05:40:30  #其他 #焦點
+
+香港天文臺釋出黃色暴雨警告。
+
+---
+
+### 2026-06-18 05:39:59  #公司 #國際
+
+【以媒：在美施壓下以色列將與敘利亞恢復談判】據以色列公共廣播公司電視臺17日晚報道，在美國施壓下，以色列與敘利亞預計將於近期恢復談判。 報道說，在經歷數月停滯後，以敘雙方預計將重啟對話。這將是今年2月底美以伊爆發衝突以來，以敘雙方首次恢複相關談判。（新華社）
+
+---
+
+### 2026-06-18 05:38:54  #焦點 #國際
+
+特朗普今日在晚宴上與馬克龍一同簽署伊朗相關協議。
+
+---
+
+### 2026-06-18 05:35:09  #國際
+
+【伊朗外交部發言人：美伊已簽署諒解備忘錄】伊朗外交部發言人巴加埃當地時間18日表示，目前伊朗與美國的諒解備忘錄文字已最終正式敲定，雙方已經簽署。（央視新聞）
+
+---
+
+### 2026-06-18 05:33:22  #公司 #國際
+
+美國空軍授予通用原子公司安杜里爾工業公司無人機僚機生產合同，未披露合同訂購數量。
+
+---
+
+### 2026-06-18 05:32:40  #MKT News
+
+Iran Foreign Ministry spokesman said the negotiating delegation will still attend the scheduled talks in Geneva, Switzerland.
+
+---
+
+### 2026-06-18 05:32:20  #國際
+
+伊朗外交部發言人：談判團隊按計劃仍將前往日內瓦。
+
+---
+
+### 2026-06-18 05:32:09  #公司 #國際
+
+【伊朗議長卡利巴夫稱沒有禁止美國在伊朗投資】伊朗首席談判代表卡利巴夫在電視採訪中表示，自伊斯蘭革命以來，伊朗從未禁止美國公司投資其經濟基礎設施、石油、天然氣或礦業領域。“美國人制裁了他們自己的公司，不讓它們在伊朗運營，同時還阻止其他公司進入伊朗市場。”卡利巴夫稱，伊朗在與美國達成的協議中獲得了一項3000億美元投資條款，“其中一部分將用於彌補我們的損失和重建”。
+
+---
+
+### 2026-06-18 05:31:49  #MKT News
+
+【Iran foreign ministry spokesman says Iran and US have signed memorandum of understanding】Iran’s foreign ministry spokesman Baghaei said on the 18th (local time) that the text of a memorandum of understanding between Iran and the US has been finalized and signed by both sides.
+
+---
+
+### 2026-06-18 05:29:54  #MKT News #Important
+
+Iran's foreign ministry spokesman said Friday's meeting in Switzerland is not intended to result in a signed agreement; a decision on whether the meeting will proceed is expected within the next few hours.
+
+---
+
+### 2026-06-18 05:29:01  #國際
+
+伊朗外交部發言人：原定週五在瑞士舉行的會議並非為簽署協議而召開，且該會議是否會如期舉行，預計未來幾小時內就會有結果。
+
+---
+
+### 2026-06-18 05:27:47  #MKT News
+
+Iran Foreign Ministry spokesperson said the agreement text should exist in electronic form and be signed by the presidents of both countries.
+
+---
+
+### 2026-06-18 05:27:39  #焦點 #國際
+
+伊朗外交部發言人：我們已商定，協議文字應為電子形式，由雙方兩國總統簽署。
+
+---
+
+### 2026-06-18 05:27:31  #國際
+
+伊朗議會議長卡利巴夫：談判結束、諒解備忘錄簽署完成後，政府的工作重心將轉向服務民眾、解決國內民生需求。
+
+---
+
+### 2026-06-18 05:25:50  #國際
+
+美國多名高階官員出面澄清美伊諒解備忘錄的核心條款，駁斥了相關報道中所稱伊朗簽署協議後就能動用被凍結資產、獲得制裁豁免或數百億美元重建配套資金的說法。
+
+---
+
+### 2026-06-18 05:24:50  #國際
+
+伊朗外交部發言人：伊朗和美國總統可能已簽署諒解備忘錄文字。
+
+---
+
+### 2026-06-18 05:24:10  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+Axios, citing two U.S. officials, reported the U.S. and Iran signed a memorandum of understanding on Wednesday to end the war; the agreement is now in effect.
+
+---
+
+### 2026-06-18 05:24:02  #國際
+
+美國和伊朗今天以電子方式簽署了諒解備忘錄。
+
+---
+
+### 2026-06-18 05:23:47  #其他 #焦點
+
+美伊諒解備忘錄已完成雙方簽署，即刻生效。
+
+---
+
+### 2026-06-18 05:23:40  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iranian state broadcaster Press TV quoted an Iranian foreign ministry spokesman saying a memorandum of understanding between Iran and the United States has been finalized and signed by both parties.
+
+---
+
+### 2026-06-18 05:22:36  #焦點 #國際
+
+伊朗外交部發言人：伊美諒解備忘錄文字已正式敲定，雙方均已簽署該檔案。
+
+---
+
+### 2026-06-18 05:22:05  #MKT News
+
+Ukrainian President Zelenskiy said he held coordinated talks with U.S. President Trump and French President Macron, thanking Trump for help advancing the peace process and Macron for organizing a summit and their joint efforts.
+
+---
+
+### 2026-06-18 05:21:43  #國際
+
+澤連斯基表示，他感謝特朗普助力推動和平程序，感謝馬克龍組織此次峰會並開展聯合工作。
+
+---
+
+### 2026-06-18 05:21:39  #國際
+
+烏克蘭總統澤連斯基稱，他與特朗普、馬克龍進行了“協調立場對話”。
 
 ---
 
@@ -21564,221 +22200,5 @@ Singapore electronics exports rose 94.8% YoY in May.
 ### 2026-06-17 08:26:33  #市場 #觀點
 
 【華泰證券：國產AI晶片正迎來漲價視窗】華泰證券研報稱，在上游成本全面上漲與本土算力供需失衡的雙重驅動下，國產AI晶片正迎來漲價視窗，華泰證券認為在自主可控剛需與議價權上移背景下，國內AI晶片企業仍具備成本轉嫁能力，盈利彈性在規模優勢下有望體現：1.成本傳導驅動：上游HBM、基板、封裝、代工等各環節成本全面上漲，預計下半年HBM採購成本提升幅度或將超過50%，對成本影響將最為顯著；2.供需缺口驅動：多模態大模型和AI Agent加速發展，國產模型Token呼叫量快速上升，拉動推理端算力需求快速增長，2025年—2027年國產AI晶片均存在較大供需缺口。國產算力板塊後續潛在催化劑包括：新一代產品釋出與測試適配結果；提價落地等。
-
----
-
-### 2026-06-17 08:26:30  #國際
-
-【美國邁阿密爆炸致1死4傷 】美國邁阿密-戴德縣15日上午發生一起爆炸事件，已造成1死4傷。爆炸當天，正是美加墨世界盃小組賽烏拉圭隊和沙特隊在邁阿密的比賽日。邁阿密-戴德縣警長辦公室16日宣佈，15日上午10時許，當地一個倉庫發生爆炸，該倉庫是消防救援車輛加油和維護保養的地方。爆炸發生後，當地迅速派出40多支消防救援力量趕往現場。疏散過程中，發現一名男子已經死亡。急救人員將4名傷者送往醫院，其中一人情況危急。目前，事故原因正在調查中。
-
----
-
-### 2026-06-17 08:25:52  #宏觀 #公司 #國際
-
-【美國對華網聯車禁令生效前，車企密集申請許可規避風險】受美國網聯車汽車軟硬體禁令影響，福特、沃爾沃等多家車企正密集申請政府合規許可，以規避相關管控帶來的停售風險。中美汽車產業鏈深度交織，美方強行推動供應鏈“脫鉤斷鏈”，不僅讓車企陷入被動，也給整個美國汽車行業帶來巨大調整壓力。 據路透社16日報道，福特證實已向美國商務部提交申請，希望獲准持續進口在中國生產的林肯航海家SUV。該車型在政府實施限制措施前就已經在美國銷售。福特稱，該車型的車載軟體由美國本土研發，但裝配環節在中國完成，若想繼續在美國市場銷售，需要獲得政府審批。 上述針對網聯車的禁令在美國拜登政府時期制定，至今仍然有效。美國《華爾街日報》此前報道稱，美國商務部2025年1月出臺新規，2027年款車型起禁止搭載中俄自動駕駛相關軟體，2030年款車型起禁止進口包括來自中俄的車載藍芽、蜂窩、衛星通訊等在內的車輛聯網硬體。（環球網）
-
----
-
-### 2026-06-17 08:25:17  #其他
-
-【我國夏糧小麥收穫過九成】記者從農業農村部瞭解到，截至昨天（16日）17時，全國已收穫夏糧小麥3.1億畝，收穫進度91.44%。其中，山東過九成，河北、陝西近九成，山西過八成，新疆過三成半，甘肅有零星收穫。（央視新聞）
-
----
-
-### 2026-06-17 08:25:05  #公司
-
-【羅博特科：全資子公司FSG作為英偉達合作方之一 新一代產品和技術尚未形成商業化落地】羅博特科公告，公司全資子公司FSG作為合作方之一，與英偉達公司合作開發面向新一代共封裝光學及光互連技術的製造與測試解決方案。新一代產品和技術處於與客戶共同合作開發階段，尚未形成商業化落地，與目前產品和技術不構成衝突。目前，相關技術雖已取得階段性研發成果，但對應業務仍處於早期發展階段，尚未形成商業化落地。產品後續市場推廣、客戶驗證、規模化量產等程序尚存在不確定性，可能面臨市場推廣不及預期、客戶驗證未透過、訂單未能如期交付等風險。
-
----
-
-### 2026-06-17 08:22:39  #國際
-
-【美軍稱在東太平洋打擊一艘“販毒船” 致1人死亡】當地時間6月16日，美國南方司令部透過社交媒體發文稱，聯合特遣部隊“南方之矛”對一艘由“認定恐怖組織”運營的船隻實施了動能打擊。情報確認該船隻正沿東太平洋“已知的毒品販運路線”航行，並“參與毒品販運”。此次行動中，一名男性“毒品恐怖分子”被擊斃，有兩名男性倖存者。無美軍人員受傷。（央視）
-
----
-
-### 2026-06-17 08:22:18  #市場 #央行 #國際
-
-【機構：日本在美聯儲決議前夕或面臨外匯干預兩難境地】StoneX的Matt Simpson在評論中表示，在今天公佈的美聯儲決議之前，日本可能面臨外匯干預的兩難境地。該高階市場分析師表示：“在美元指數逼近3月份高點，且投機交易員以六年來最快速度湧入看漲美元頭寸的背景下，偏緊縮的[美國聯邦公開市場委員會會議]結果可能會成為美元兌日元新一輪突破的催化劑。”Simpson補充道：“這一突破將使日本財務省面臨一個令人不安的兩難境地：干預走強的美元並冒著對抗市場動能的風險，或者袖手旁觀，看著美元兌日元進一步深入此前曾引發干預的區域。“
-
----
-
-### 2026-06-17 08:22:10  #其他
-
-【福建：加快建設福州、廈門全國海洋經濟發展示範區 推動海洋經濟高質量發展】據福建日報，6月16日，福建省委書記周祖翼主持召開省委常委會會議，會議審議了《“十五五”“海上福建”建設規劃》等，強調要強化規劃引領，主動融入國家海洋發展總體佈局，著力陸海統籌、海灣聯動、全域協同，堅持創新驅動、做強產業支撐、守好生態底線、拓展發展空間，加快建設福州、廈門全國海洋經濟發展示範區，推動海洋經濟高質量發展。全省各級黨委和政府要把“海上福建”建設擺在突出位置，加強統籌協調，匯聚強大合力，以釘釘子精神抓實各項重點任務，推動“海上福建”建設提質增效、再上臺階。
-
----
-
-### 2026-06-17 08:20:26  #公司 #市場 #國際
-
-【日經指數下跌0.3%，受科技和電子股拖累】日本日經指數下跌0.3%，至69197.00點，科技和電子股的疲軟抵消了重工業和銀行股上漲的影響。軟銀集團下跌4.5%，基恩士下跌1.9%，而川崎重工業上漲3.5%，瑞穗金融集團上漲2.9%。更廣泛的市場指數東證指數上漲0.1%，至3996.40點。投資者正密切關注美伊協議的細節以及原油價格。
-
----
-
-### 2026-06-17 08:19:43  #國際
-
-【日本5月轉為貿易逆差 科技產品進口激增】日本四個月來首次轉為貿易逆差，晶片和其他電子元件的進口激增。日本財務省週三公佈的資料顯示，5月份未經調整的貿易餘額轉為逆差3786億日元（23.6億美元）。分析師此前預測為逆差5476億日元。5月份進口額比去年同期增長12.5%，出口額增長17%。進口增長主要得益於半導體和電子產品進口額增長55%，以及通訊裝置進口額增長48%。石油進口量和價格均大幅下降，這表明，在伊朗戰爭導致霍爾木茲海峽基本關閉之際，日本這個通常嚴重依賴中東石油的國家找到了其他能源來源。據貿易部門，日本預計將確保2028年3月之前石油供應穩定。
-
----
-
-### 2026-06-17 08:19:33  #其他
-
-截至06月17日08時00分，共記錄到青海海西地震餘震115次，其中3.0級及以上餘震23次：5.0級以上0次，4.0-4.9級3次，3.0-3.9級20次。目前最大餘震4.9級。
-
----
-
-### 2026-06-17 08:18:57  #Trading Economics #Economy #Japan #Imports YoY #Importance 1
-
-Japan Imports Rise Slightly Less than Expected — Japan’s imports rose 12.5% yoy to JPY 9,890.2 billion in May 2026, quickening from April’s 9.8% gain but falling short of market estimates of 12.8%. This was the fourth straight month of growth and the strongest pace since January 2025, driven by resilient domestic demand amid the ongoing effects of the government’s late-2025 economic stimulus package.
-
----
-
-### 2026-06-17 08:18:11  #經濟數據 #中國
-
-【社論丨加力擴內需是當前穩信心的關鍵】5月份，社會消費品零售總額同比下降0.6%，環比下降0.38%；扣除汽車後，則同比增長1.1%。按經營單位所在地分，城鎮消費品零售額同比下降0.9%，鄉村消費品零售額增長1.5%。商品零售額略有下降，主因是去年同期基數較高，加之去年以舊換新政策疊加企業促銷，部分預支了今年銷量。
-
----
-
-### 2026-06-17 08:18:07  #宏觀 #央行 #國際
-
-【日本5月出口在中東不利因素影響下仍實現增長】週三公佈的政府資料顯示，受電子零部件、汽車和有色金屬強勁需求的提振，日本5月出口連續第九個月實現增長。出口同比增長17.0%，高於4月份14.8%的增幅，但低於資料提供商FactSet調查的經濟學家預測的17.7%增幅。5月份進口增長12.5%，增速快於4月份的9.8%。儘管霍爾木茲海峽的關閉減少了該地區的石油進口量，但能源成本飆升以及轉向替代採購渠道，可能推高了日本的進口額。週二，日本央行將政策利率上調至1%，為31年來的最高水平。此舉出臺的背景是，決策者日益擔憂石油衝擊和日元疲軟帶來的通脹壓力，而日元疲軟有可能進一步推高進口價格。日本央行副行長內田真一在加息宣告發布後表示，美國和伊朗之間的和平協議是可喜的進展，經濟大幅下滑的風險已經消退。不過，他告誡稱，圍繞供應鏈復甦步伐的不確定性依然存在。
-
----
-
-### 2026-06-17 08:16:58  #市場 #國際
-
-日本10年期國債收益率下跌1.5個基點至2.630%。
-
----
-
-### 2026-06-17 08:16:51  #其他
-
-【今年前5個月東北地區外貿進出口超5390億元】據瀋陽海關統計，今年前5個月，東北地區外貿進出口總值達5390.4億元，同比增長8.3%，規模創歷史同期新高。其中，出口規模首次突破2600億元，達到2601.9億元，增長16.6%，快於全國出口4.8個百分點。
-
----
-
-### 2026-06-17 08:16:16  #觀點 #國際
-
-【中信證券：日銀無加息緊迫感，仍預計其在本次加息後將在年內按兵不動】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。
-
----
-
-### 2026-06-17 08:15:21  #公司
-
-【聖邦股份：H股香港公開發售今日開始 預計6月26日掛牌交易】聖邦股份(300661)6月17日早間公告，公司全球發售H股基礎發行股數為5400.12萬股。其中，初步安排香港公開發售540.02萬股（可予重新分配），約佔全球發售總數的10.00%。發行價格最高不超過每股85.20港元。公司本次H股香港公開發售於2026年6月17日開始，預計於6月23日結束，6月24日前（含當日）公佈發行價格，6月26日在香港聯交所掛牌並開始上市交易。
-
----
-
-### 2026-06-17 08:15:11  #Trading Economics #Markets #Japan #stocks #Importance 1
-
-Mizuho Financial Stock Price Hits All-time High — Mizuho Financial shares increased to an all-time high of 7995.00 JPY. Over the past 4 weeks, Mizuho Financial gained 18.88%, and in the last 12 months, it increased 95.44%.
-
----
-
-### 2026-06-17 08:15:00  #資料 #觀點 #國際
-
-【中信證券：經濟K型分化在加速】中信證券研報指出，5月經濟資料有所分化，呈現“生產強於需求”、“外需強於內需”的格局。從生產側來看，5月工業增加值增速有所回升，主要是出口增速強勁、油價見頂回落帶動工業生產強度改善，內需疲軟使服務業生產指數低位執行。從需求側來看，受補貼資金同比錯位和端午節備貨時間差異影響，5月社零表現欠佳，增速低於預期和前值；5月固投增速整體延續回落，但製造業投資單月增速邊際有所回升。展望未來，隨著美國宣佈解除對霍爾木茲海峽的封鎖，我們提示持續關注海峽恢復通航後油價的走勢以及對國內PPI-CPI剪刀差、工業企業利潤的影響。需求端，我們認為外貿出口仍是今年經濟增長的主要抓手，外需強於內需的格局在年內或將維持。生產端，我們判斷海峽恢復通航有利於緩解高油價對國內工業生產造成的潛在壓力。
-
----
-
-### 2026-06-17 08:14:40  #MKT News #Star Stocks #Xiaomi #1810.HK #Impact bullish
-
-【Hubei party secretary Guan Zhiou meets Xiaomi chairman Lei Jun】June 15, Wuhan — Hubei party secretary Guan Zhiou met Xiaomi founder-chairman and CEO Lei Jun. Guan urged Xiaomi to expand and deepen its Hubei footprint, contribute to building Wuhan as a regional tech innovation center, and said the province will optimize the business environment and provide full-service support. Lei said Xiaomi is bullish on prospects in Hubei, will increase local business deployment, and seek to attract more talent and upstream and downstream firms to the province.
-
----
-
-### 2026-06-17 08:14:20  #公司 #觀點
-
-【中信證券：AI產業進展處於早期階段，AI帶來的機遇大於挑戰】中信證券研報指出，站在當前時點，我們認為AI產業進展處於早期階段，AI帶來的機遇大於挑戰。產業層面，影片生成模型、世界模型與物理AI等新方向新正規化仍層出不窮，影片理解與生成融合、語言模型與多模態模型融合、模型持續學習等技術創新將會持續引領模型創新趨勢。我們預計模型迭代週期將持續縮短，以Anthropic為代表的模型公司ARR持續提升，並逐步向金融、法律、醫療等更多高價值的企業級場景落地。市場層面，全球科技股估值偏高，持倉偏擁擠是當前最大的挑戰，同時未來半年至一年SpaceX、Anthropic與OpenAI上市也可能給市場流動性帶來衝擊，將成為全球科技股最重磅的事件和觀察視窗。考慮到下半年宏觀流動性邊際或有所收緊，市場演繹將更加依賴業績端的持續兌現和驗證，但只要產業趨勢景氣度不變，若流動性衝擊導致估值回撥，帶來的機遇大於風險。同時國產模型與海外模型差距持續縮小，國產雲廠商相比海外亦有更充分的CAPEX加碼空間，隨著“國模國芯”生態持續完善，國產算力將有更大的彈性。
-
----
-
-### 2026-06-17 08:13:32  #其他
-
-【青海海西州6.3級地震造成1死8傷 傷者已出院 】記者從大柴旦6.3級地震抗震救災現場指揮部瞭解到，經過兩輪全面人員排查，截至6月16日23時，青海海西州地震已造成1人遇難，8人受傷，受傷人員經包紮處理後已離開醫院。（新華社）
-
----
-
-### 2026-06-17 08:13:13  #Trading Economics #Economy #Japan #Exports YoY #Importance 2
-
-Japan Export Growth at 3-1/2-Year High — Japan’s exports rose 17.0% year-on-year in May 2026, accelerating from a 14.8% growth in the prior month while marking the strongest growth since November 2022 and exceeding the consensus of 16.2%, supported by robust demand from China, the U.S., ASEAN countries, and the EU.
-
----
-
-### 2026-06-17 08:12:20  #公司
-
-【湖北省委書記關志鷗會見小米集團董事長雷軍】據湖北日報，6月15日下午，湖北省委書記關志鷗在武漢會見小米集團創始人、董事長兼執行長雷軍一行。關志鷗說，希望小米集團持續佈局湖北、深耕湖北，進一步深化與湖北的多領域合作，對建設武漢區域科技創新中心、最佳化營商環境等多提意見建議。我們將全力做好服務保障，支援小米集團等各類企業在鄂實現更好發展。雷軍表示，小米集團堅定看好企業在鄂發展前景，將進一步加大業務佈局，吸引更多人才和上下游企業集聚湖北，為湖北加快建成中部地區崛起的重要戰略支點作出新的更大貢獻。
-
----
-
-### 2026-06-17 08:12:12  #MKT News
-
-The U.S. military said it conducted a lethal strike in the eastern Pacific on a drug-smuggling vessel it said was operated by a 'terrorist organization'.
-
----
-
-### 2026-06-17 08:11:39  #國際
-
-美國南方司令部：6月16日，在南方司令部指揮官弗朗西斯·L·多諾萬將軍的指示下，聯合特遣部隊“南方之矛”對一艘由指定恐怖組織操作的船隻實施了致命動能打擊。情報確認該船隻正沿東太平洋已知毒品販運路線航行，並參與毒品販執行動。此次行動中，一名男性毒梟恐怖分子被擊斃，有兩名男性倖存者。交戰結束後，美國南方司令部立即通知美國海岸警衛隊啟動針對倖存者的搜尋與救援系統。無美軍人員受傷。
-
----
-
-### 2026-06-17 08:11:31  #央行 #日本央行
-
-【中信證券：預計日本央行在本次加息後將維持政策利率不變於1%】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。
-
----
-
-### 2026-06-17 08:11:00  #Trading Economics #Economy #Japan #Machinery Orders #Importance 1
-
-Japan Machinery Orders Rebound Sharply — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric power, rose by 8.7% month-on-month to JPY 1,098.5 billion in April 2026, far exceeded market expectations for a 0.9% gain and marked a sharp rebound from the 9.4% decline recorded in March. The recovery was driven by a 5.1% increase in manufacturing orders to JPY 513.5 billion and a 6.7% rise in non-manufacturing orders excluding utilities to JPY 570.1 billion. Among manufacturers, strong gains were recorded in ship building (+160.7%), textile mill products (+61.7%), and non-ferrous metals (+51.3%). In the non-manufacturing sector, real estate (+107.7%), transportation and postal activities (+36.9%), and goods leasing (+32.7%) posted notable increases. On an annual basis, core machinery orders grew by 15.6%, beating market forecasts for a 9.3% gain and accelerating from a 5.9% rise in the preceding period.
-
----
-
-### 2026-06-17 08:10:38  #國際
-
-美國南方司令部在東太平洋擊沉一艘船隻，造成一人死亡。
-
----
-
-### 2026-06-17 08:10:28  #市場 #焦點
-
-現貨黃金突破4340美元/盎司，日內漲0.18%。
-
----
-
-### 2026-06-17 08:10:25  #MKT News
-
-Australia's S&P/ASX 200 opened down 23.80 points, or 0.27%, at 8,893.90 on Wednesday, June 17.
-
----
-
-### 2026-06-17 08:10:21  #市場 #焦點
-
-紐約期金突破4360美元/盎司，日內漲0.11%。
-
----
-
-### 2026-06-17 08:10:09  #公司
-
-【領益智造：H股香港公開發售今日開始 預計6月26日掛牌交易】領益智造(002600)6月17日早間公告，公司全球發售H股基礎發行股數為8.12億股，其中，初步安排香港公開發售8118.13萬股（可予重新分配），約佔全球發售總數的10.00%。發行價格最高不超過每股10.18港元。公司H股香港公開發售於2026年6月17日開始，預計於6月23日結束，6月25日前（含當日）公佈發行價格，6月26日在香港聯交所掛牌並開始上市交易。
-
----
-
-### 2026-06-17 08:09:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
-
-CITIC Securities expects Japan's headline inflation to remain moderate through the year. It says the Bank of Japan lacks urgency to press on with further hikes and may leave the policy rate unchanged at 1% after the current increase.
-
----
-
-### 2026-06-17 08:09:43  #其他
-
-【我國233部測雨雷達已覆蓋90萬平方公里】據水利部，2022年以來，我國推進測雨雷達建設。截至目前，全國24個省區建成水利測雨雷達233部，覆蓋約90萬平方公里區域。今年入汛以來，全國暴雨洪水多發頻發，水利測雨雷達在山洪災害、中小河流洪水防禦監測預警中發揮了重要的作用，為危險區人員及時轉移避險提供了精準決策支援。據瞭解，傳統洪水預報系統，主要是基於對“落地雨”觀測，也就是對天空降雨量進行觀測分析再進行洪水預報，但中小河流、山洪災害從降雨到形成洪水，預見時間短。時間一般在半個小時到一個小時之間。等到雨量站將監測到的資料輸入模型，再提供防禦決策，這一過程時間較長，留給應對洪水的反應時間非常有限，有時根本來不及反應。而測雨雷達剛好彌補了“雨量站”的這一缺陷。目前，天津已成為全國首個水利測雨雷達全域覆蓋的省級行政區。
-
----
-
-### 2026-06-17 08:08:02  #其他
-
-【京東即將開源視覺語言實時互動模型】京東團隊即將開源視覺語言實時互動模型JoyAI-VL-Interaction。記者從一份在開源社群和海外AI技術圈受到關注的技術報告獲悉，JoyAI-VL-Interaction把多模態大模型從"一問一答"，推進到"實時流式互動"，適合需要AI持續在場的場景。報告將JoyAI-VL-Interaction與豆包、Gemini 的App內視訊通話助手進行了人工評測，覆蓋監控預警、實時計數、實時翻譯、時間感知、直播解說和引導、長程記憶六類場景。在58個案例中，JoyAI-VL-Interaction對豆包的總體勝率為77.6%，對Gemini的總體勝率為87.9%。其中，在監控預警場景中，對兩個基線均取得100%勝率。
 
 ---
