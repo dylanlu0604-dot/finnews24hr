@@ -1,7 +1,549 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-17 23:59:58_
-_本檔包含 3717 則快訊，約 688217 字_
+_更新時間：2026-06-18 00:33:08_
+_本檔包含 3761 則快訊，約 688312 字_
+
+---
+
+### 2026-06-17 00:51:08  #市場 #國際
+
+美國天然氣期貨日內漲超3%，現報3.242美元/百萬英熱。
+
+---
+
+### 2026-06-17 00:51:00  #國際
+
+【阿曼與伊朗外長討論霍爾木茲海峽航運安全等問題】當地時間16日，阿曼外交大臣巴德爾與伊朗外長阿拉格齊通電話。雙方重申，兩國將遵守有關霍爾木茲海峽海上航運安全與自由通行的國際法規定。雙方表示，希望各方繼續開展積極、務實的努力，為推進富有成效和建設性外交程序營造有利環境，共同維護地區安全與穩定。此外，雙方強調，將在睦鄰友好原則基礎上，持續深化兩國各領域合作。（央視新聞）
+
+---
+
+### 2026-06-17 00:50:01  #公司
+
+Snap執行長在2026增強現實世界博覽會上表示，該公司即將推出Specs增強現實眼鏡。
+
+---
+
+### 2026-06-17 00:49:08  #焦點 #國際
+
+美國方面已通知以色列，伊朗承諾就高丰度濃縮鈾外運事宜尋求解決方案。
+
+---
+
+### 2026-06-17 00:48:21  #央行 #國際
+
+【歐洲央行馬赫盧夫：即便伊美達成協議，物價壓力仍將持續】歐洲央行管委加布裡埃爾·馬赫盧夫認為，美伊和平協議並不會迅速扭轉歐元區通脹走勢。這位愛爾蘭央行行長週二在都柏林表示：“衝突落幕，並不等同於市場衝擊會立刻消散。供應鏈恢復常態、能源價格完成調整所需時長仍有待觀察。”馬赫盧夫的觀點與歐洲央行其他政策制定者口徑一致。此前美伊宣佈達成臨時協議、重啟霍爾木茲海峽通航，能源價格應聲大跌，但一眾央行官員仍為上週加息舉措辯護，並警示通脹壓力不會就此消退。他指出：“戰爭造成基礎設施損毀，原油產能復甦存在滯後性，因此直接推升物價的壓力或許難以快速緩解。另外霍爾木茲海峽航運局勢依舊不明朗，這也是一大變數。”
+
+---
+
+### 2026-06-17 00:47:52  #觀點
+
+高盛併購交易規模突破1萬億美元，創下史上最快達成該規模紀錄。
+
+---
+
+### 2026-06-17 00:47:45  #公司 #國際
+
+聯合太平洋公司：7月4日美國獨立日假期期間，路網運營預計將維持正常開展，所有主要換裝站均保持開放。
+
+---
+
+### 2026-06-17 00:47:15  #MKT News #Commodities #Energy
+
+U.S. natural gas futures rose more than 3% intraday to $3.242/MMBtu.
+
+---
+
+### 2026-06-17 00:47:06  #央行 #國際
+
+歐洲央行官員馬克魯夫：直接通脹壓力難以快速緩解。
+
+---
+
+### 2026-06-17 00:46:51  #MKT News #Important #WTI #Impact bearish #Brent
+
+WTI crude's intraday decline widened to 7%, trading at $75.68/bbl.
+
+---
+
+### 2026-06-17 00:46:25  #央行 #國際
+
+歐洲央行官員馬克魯夫：伊朗戰事落幕並不意味著衝擊就此終結，能源價格調整速度仍有待觀察。
+
+---
+
+### 2026-06-17 00:45:43  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB Executive Board member Makhlouf said if war-related infrastructure damage delays production recovery, direct price pressures may not ease quickly.
+
+---
+
+### 2026-06-17 00:45:29  #MKT News #WTI #Impact bullish #Brent
+
+ECB Governing Council member MAKHLOUF said the end of the Middle East conflict would not necessarily end the energy shock immediately.
+
+---
+
+### 2026-06-17 00:45:27  #央行 #國際
+
+歐洲央行官員馬克魯夫：若烏克蘭衝突造成的基礎設施損毀致使生產復甦滯後，直接價格壓力可能不會那麼快消退。
+
+---
+
+### 2026-06-17 00:44:06  #市場 #焦點
+
+道指漲1.00%，現報52189.738點；納指跌0.48%，現報26557.174點；標普500指數跌0.16%，現報7542.270點。
+
+---
+
+### 2026-06-17 00:42:39  #MKT News
+
+Israeli Prime Minister Netanyahu said Iran will not obtain nuclear weapons, whether or not an agreement is reached.
+
+---
+
+### 2026-06-17 00:42:31  #MKT News
+
+German Chancellor Merz told U.S. President Trump the case shows military force can facilitate a diplomatic solution and could serve as a model for the Ukraine issue.
+
+---
+
+### 2026-06-17 00:42:11  #焦點 #國際
+
+德國總理默茨：我已向特朗普表示，這就是軍事實力能夠促成外交解決方案的範例，這可以為烏克蘭提供借鑑。
+
+---
+
+### 2026-06-17 00:42:03  #MKT News
+
+MERZ said the U.S. MILITARY's advantage has left Iran with no options.
+
+---
+
+### 2026-06-17 00:41:54  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+German Chancellor Merz said he is willing to participate, is confident the deal will succeed, and said Iran will accept the terms because it must.
+
+---
+
+### 2026-06-17 00:41:45  #焦點 #國際
+
+德國總理默茨：美國軍事優勢不會給伊朗選擇餘地。
+
+---
+
+### 2026-06-17 00:41:14  #國際
+
+德國默茨談及伊朗問題：我們已準備好參與，我相信該協議是可行的，伊朗必將接受相關條件。
+
+---
+
+### 2026-06-17 00:40:18  #國際
+
+內塔尼亞胡：無論有協議還是沒有協議——只要我是以色列總理，伊朗就不會擁有核武器。
+
+---
+
+### 2026-06-17 00:39:05  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+On new sanctions targeting Russia, German Chancellor Merz said he sees Trump taking a cooperative stance and is somewhat optimistic that Europe and the US will do everything to end the war.
+
+---
+
+### 2026-06-17 00:38:57  #國際
+
+德國總理默茨談及對俄新制裁時表示：我看到特朗普目前持合作態度，我對歐美將竭盡全力結束這場衝突持一定樂觀態度。
+
+---
+
+### 2026-06-17 00:37:34  #MKT News #Market Regions #Europe & UK
+
+German Chancellor Merz said in today’s discussion on Ukraine that European participation in negotiations was never in dispute.
+
+---
+
+### 2026-06-17 00:37:19  #國際
+
+德國總理默茨：在今天有關烏克蘭的討論中，歐洲人參與談判這一點從未引發爭議。
+
+---
+
+### 2026-06-17 00:36:37  #MKT News #RIVN.O #Impact mixed
+
+Wall Street Journal reports US electric-vehicle startup Rivian (RIVN.O) has cut several hundred jobs in its service and customer operations, reducing headcount by less than 2%.
+
+---
+
+### 2026-06-17 00:36:10  #國際
+
+美國海岸警衛隊聲稱，運輸伊朗、俄羅斯受制裁原油的油輪（即“影子船隊”）正在使用各類數字工具，此舉會對船舶、船員安全及海洋環境構成隱患。
+
+---
+
+### 2026-06-17 00:35:11  #公司
+
+電動汽車公司Rivian裁員數百人。
+
+---
+
+### 2026-06-17 00:34:58  #MKT News #HPE.O
+
+HPE's data fabric software will expand data availability for AI agent workflows and is scheduled to launch in October 2026.
+
+---
+
+### 2026-06-17 00:34:27  #其他
+
+慧與（HPE）：慧與資料編織軟體拓寬智慧體工作流的資料可用範圍，產品將於2026年10月上市；慧與AI工廠將在2026年第四季度搭載英偉達機密計算技術。
+
+---
+
+### 2026-06-17 00:34:11  #MKT News #Market Themes #AI Revolution
+
+Huiyu Technology said new private-cloud AI features will launch in July 2026.
+
+---
+
+### 2026-06-17 00:33:58  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+Huiyu Technology said its Huiyu private-cloud AI, co-designed with NVIDIA (NVDA.O), can boost token throughput by up to 20%.
+
+---
+
+### 2026-06-17 00:33:09  #其他
+
+DoorDash 表示已修復一項技術故障。
+
+---
+
+### 2026-06-17 00:32:02  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+Huiyu Technology partners with NVIDIA (NVDA.O) to deploy agent-based AI into production environments.
+
+---
+
+### 2026-06-17 00:31:46  #其他
+
+慧與（HPE）：與英偉達聯合研發的HPE私有云人工智慧可將token吞吐量最高提升20%
+
+---
+
+### 2026-06-17 00:31:27  #其他
+
+慧與（HPE）：搭載英偉達技術的HPE AI工廠新增英偉達Vera CPU、英偉達智慧體工具包與英偉達機密計算技術。
+
+---
+
+### 2026-06-17 00:31:16  #其他
+
+慧與（HPE）：攜手英偉達將智慧體AI投入生產應用。
+
+---
+
+### 2026-06-17 00:31:08  #其他
+
+慧與（HPE）：HPE資料編織軟體將擴大智慧體工作流的資料可用性，預計於2026年10月正式推出。
+
+---
+
+### 2026-06-17 00:31:01  #其他
+
+慧與（HPE）：配備英偉達技術的HPE人工智慧工廠將於2026年第四季度支援英偉達保密計算服務。
+
+---
+
+### 2026-06-17 00:30:54  #其他
+
+慧與科技（HPE）：西門子能源已從公有云遷移至HPE GreenLake Flex按需付費私有云。
+
+---
+
+### 2026-06-17 00:30:44  #國際
+
+慧與（HPE）：GreenLake Flex已在美國和德國落地部署，美國站點已投入運營；德國站點按計劃將於2026年年中完成全面部署。
+
+---
+
+### 2026-06-17 00:30:35  #其他
+
+慧與科技攜手英偉達，將智慧體AI投入商用落地，覆蓋安全、治理、規模化部署與資料主權能力。
+
+---
+
+### 2026-06-17 00:29:54  #其他
+
+市場資訊：微軟考慮與DeepSeek合作開發Copilot。
+
+---
+
+### 2026-06-17 00:28:41  #MKT News
+
+Canada said Prime Minister Carney and Indian Prime Minister Modi agreed to launch negotiations on an information-security agreement.
+
+---
+
+### 2026-06-17 00:28:33  #其他
+
+加拿大宣告：卡尼與莫迪同意啟動《全面資訊保安協議》談判。
+
+---
+
+### 2026-06-17 00:28:29  #MKT News
+
+Canada said Prime Minister Carney and Indian Prime Minister Modi expressed satisfaction with progress in negotiations on a Comprehensive Economic Partnership Agreement.
+
+---
+
+### 2026-06-17 00:28:12  #國際
+
+加拿大宣告：加拿大總理卡尼與印度總理莫迪重申，雙方共同目標是在2026年完成全面經濟夥伴關係協定（CEPA）談判。
+
+---
+
+### 2026-06-17 00:27:53  #其他
+
+加拿大宣告：卡尼與莫迪對全面經濟夥伴關係協定談判取得的進展表示滿意。
+
+---
+
+### 2026-06-17 00:27:22  #MKT News
+
+Canada said Prime Minister Carney met Indian Prime Minister Modi on the sidelines of the G7 summit to review progress in bilateral economic cooperation.
+
+---
+
+### 2026-06-17 00:26:59  #公司 #國際
+
+加拿大總理卡尼與印度總理莫迪在七國集團峰會場外會晤期間，回顧了雙邊經濟合作的進展。
+
+---
+
+### 2026-06-17 00:26:44  #MKT News #SPCX.O
+
+Trade-alert data show more than 1 million SpaceX (SPCX.O) options contracts traded on their first day of trading.
+
+---
+
+### 2026-06-17 00:25:38  #市場
+
+交易警報資料顯示，SpaceX期權合約首日成交超100萬張。
+
+---
+
+### 2026-06-17 00:25:11  #Trading Economics #Markets #commodity #Importance 0
+
+Orange Juice Hits 26-week Low — Orange Juice decreased to 149.00 USd/Lbs, the lowest since December 2025. Over the past 4 weeks, Orange Juice lost 6.69%, and in the last 12 months, it decreased 41.01%.
+
+---
+
+### 2026-06-17 00:24:55  #MKT News
+
+Uganda's vice president urged countries that have imposed "undue restrictions" in response to the Ebola outbreak to lift those measures.
+
+---
+
+### 2026-06-17 00:24:36  #MKT News #WTI #Impact bearish #Brent
+
+Senior U.S. official said Iran may sell oil only if it complies with all terms of any agreement reached, including refraining from disrupting freedom of navigation in the Strait of Hormuz and from acquiring nuclear weapons.
+
+---
+
+### 2026-06-17 00:24:17  #其他
+
+烏干達副總統呼籲因埃博拉實施“不當限制措施”的各國取消相關限制。
+
+---
+
+### 2026-06-17 00:24:09  #國際
+
+美國官員：伊朗只能在遵守所有已達成協議條款的前提下出售石油，這些條款包括不得干擾霍爾木茲海峽的通航自由，以及不得獲取核武器。
+
+---
+
+### 2026-06-17 00:24:01  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
+
+Apple (AAPL.O) is preparing a new series of iPhone chips, including an A22 Pro that could use a 1.4nm process and is expected to debut in 2028, US tech reporter Gurman says.
+
+---
+
+### 2026-06-17 00:23:13  #其他 #焦點
+
+馬斯克當前個人財富總值已超越比特幣整體市值。
+馬斯克淨資產：1.4萬億美元。
+比特幣總市值：1.3萬億美元。
+
+---
+
+### 2026-06-17 00:22:51  #MKT News #WTI #Impact bearish #Brent
+
+A senior U.S. official said Iran could begin selling oil and fuel immediately once an agreement is signed this week.
+
+---
+
+### 2026-06-17 00:21:09  #國際
+
+一位監管機構知情官員透露，美國衍生品監管機構將對境外交易平臺展開審查，這類平臺允許美國境內個人直接接入其電子交易系統。
+
+---
+
+### 2026-06-17 00:19:25  #其他
+
+科技記者馬克·古爾曼：蘋果在研發多款全新iPhone晶片，其中2028年推出的A22 Pro晶片或將採用1.4奈米制程工藝製造。
+
+---
+
+### 2026-06-17 00:18:53  #MKT News
+
+Tata Group said India's Tamil Nadu Pollution Control Board has halted its review into water pollution at an iPhone components factory.
+
+---
+
+### 2026-06-17 00:17:32  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Finishes at Near 2-Week High — The DAX 40 pared gains to close marginally up at 24,910 on Tuesday, but still near a two-week high, marking the fourth session of advances. The prospect of a peace deal in Iran and the reopening of the Strait of Hormuz continued to support market sentiment. The memorandum of understanding is scheduled to be formally signed on Friday, leaving a 60-day window for negotiations toward a final agreement. Insurers and banks, as well as energy-sensitive industrials were among the top performers, while the tech sector and autos saw heavy pressure. GEA Group led gains, rising 5.1%, after Deutsche Bank raised its rating from Neutral to Buy. Munchener Ruck, Hannover Ruck and Allianz also advanced firmly, adding up to 1.3%.
+
+---
+
+### 2026-06-17 00:17:04  #其他
+
+德國總理默茨：霍爾木茲海峽護航行動的國際授權尚存諸多待解問題。
+
+---
+
+### 2026-06-17 00:16:46  #公司 #國際
+
+塔塔集團表示，印度泰米爾納德邦汙染控制委員會已終止對蘋果iPhone元件工廠的水汙染調查。
+
+---
+
+### 2026-06-17 00:16:36  #其他
+
+德國總理默茨：對美伊協議的永續性充滿信心。
+
+---
+
+### 2026-06-17 00:15:23  #MKT News
+
+The Israeli Defense Forces said its air force intercepted rockets launched from Lebanon.
+
+---
+
+### 2026-06-17 00:14:47  #MKT News #Important #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
+
+Dow Jones Industrial Average extends gains as intraday advance widens to 1.0%; S&P 500 down 0.08%, Nasdaq down 0.38%.
+
+---
+
+### 2026-06-17 00:14:19  #其他
+
+Coinbase Global：已知部分使用者在轉賬和接收Axelar網路資產時出現延遲；買入、賣出以及法幣提款/存款業務未受影響。
+
+---
+
+### 2026-06-17 00:14:00  #市場 #國際
+
+美國股市延續漲勢，道瓊斯指數上漲1.00%。
+
+---
+
+### 2026-06-17 00:13:17  #MKT News #WTI #Impact bullish #Brent #DXY
+
+German Chancellor Merz said the G7 agreed pressure on Russia must be stepped up.
+
+---
+
+### 2026-06-17 00:13:04  #MKT News #Market Themes #AI Revolution #Market Regions #Europe & UK
+
+OpenAI developers said this week more CODEX features are rolling out across Europe. CODEX users in the European Economic Area, the UK and Switzerland are being given computer-control capabilities, a CODEX Chrome extension, personalized memory and Chronicle.
+
+---
+
+### 2026-06-17 00:12:34  #公司 #國際
+
+德國總理默茨：七國集團達成共識，必須加大對俄羅斯施壓力度。
+
+---
+
+### 2026-06-17 00:12:13  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 1.15% Higher — The FTSE MIB Index gained 597 points or 1.15 percent on Tuesday to close at 52433 points. Gains were led by UniCredit (4.47%), Intesa Sanpaolo (2.72%) and Azimut Holding (2.04%).
+
+---
+
+### 2026-06-17 00:12:08  #國際
+
+美國能源資訊署(EIA)稱，2026年前五個月，加州獨立系統運營商(CAISO)區域太陽能發電量超過天然氣。
+
+---
+
+### 2026-06-17 00:11:47  #其他
+
+意法半導體：完成15億美元兩檔可轉換債券發行定價。
+
+---
+
+### 2026-06-17 00:11:33  #MKT News #WTI #Impact mixed
+
+German Chancellor Merz said he told U.S. President Trump that Germany is willing to contribute to a mission in the Strait of Hormuz.
+
+---
+
+### 2026-06-17 00:11:13  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.07% Higher — The DAX Index went up by 16 points or 0.07 percent on Tuesday to close at 24910 points. The rise was led by Gea Group (3.61%), Qiagen NV (1.53%) and Munich RE (1.36%). On the downside, the weakerst performers were Infineon (-1.81%), RWE (-1.67%) and Brenntag (-1.64%).
+
+---
+
+### 2026-06-17 00:11:01  #國際
+
+德國總理默茨：已告知特朗普，德國願意參與霍爾木茲海峽護航行動。
+
+---
+
+### 2026-06-17 00:10:14  #國際
+
+以色列國防軍：今日（週二）早些時候，黎巴嫩真主黨向以軍在黎巴嫩南部的行動區域發射多枚火箭彈，以色列空軍對其實施了攔截。按照處置規程，當地未拉響防空警報。攔截行動結束後不久，以色列空軍發動打擊，摧毀了部分射向黎南部以軍陣地火箭彈的發射裝置。另外在今日（週二）早些時候，以軍在黎巴嫩南部己方行動區域發現一輛可疑車輛，先對該車鳴槍示警，隨後對該區域實施打擊以消除威脅。
+
+---
+
+### 2026-06-17 00:10:13  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.75% Higher — The CAC 40 Index rose 63 points or 0.75 percent on Tuesday to close at 8447 points. Leading the gains are Publicis (2.65%), Safran (2.35%) and Schneider Electric (2.27%). Top losers were STMicroelectronics (-4.74%), Renault (-3.07%) and Edenred (-2.80%).
+
+---
+
+### 2026-06-17 00:08:21  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google introduces Brazos liquid-cooling system for data centers.
+
+---
+
+### 2026-06-17 00:08:20  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Extend Record — European stock indices closed higher to extend their records on Tuesday amid confidence over an imminent deal between the US and Iran. The Euro STOXX 50 added 0.4% to 6,255 and the STOXX Europe 600 rose 0.2% to 636. Energy prices retreated further after Iran and the US maintained their plan to sign a memorandum of understanding on Friday, which US authorities claimed will restore tanker flows through the Strait of Hormuz. Banking stocks rose as bond yields dropped and improved credit conditions, with BBVA and Intesa Sanpaolo adding more than 2%. Meanwhile, UniCredit jumped 4% after the German government rejected its bid for Commerzbank. Industrials were also sharply higher with Safran and Schneider adding 2.5%.
+
+---
+
+### 2026-06-17 00:07:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran temporarily bars IAEA inspections of its nuclear facilities】Iranian sources said on the 16th it will not allow IAEA personnel into its nuclear facilities for inspections while it is negotiating with the United States.
+
+---
+
+### 2026-06-17 00:07:13  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.72% Higher — The FTSE 100 Index gained 75 points or 0.72 percent on Tuesday to close at 10506 points. Gains were led by Endeavour (2.90%), Convatec Group (2.89%) and Rolls-Royce (2.68%). Biggest losers were Frasers Group (-4.78%), BT (-2.25%) and B&M European Value (-1.87%).
+
+---
+
+### 2026-06-17 00:06:55  #宏觀 #國際
+
+【劉國中出席非洲應對埃博拉疫情特別影片峰會並致辭】6月16日，中共中央政治局委員、國務院副總理劉國中應邀出席非洲應對埃博拉疫情特別影片峰會並致辭。劉國中表示，習近平主席提出構建人類命運共同體重要理念，倡導構建人類衛生健康共同體，為國際抗疫合作指明瞭方向。中非從來都是命運共同體。中方已向剛果（金）和非洲聯盟提供緊急人道主義援助，向剛果（金）派遣醫療專家組，近千名醫療隊專業人員會同非洲民眾並肩抗疫。中方將在中非合作論壇框架內，落實好中非衛生健康夥伴行動，呼籲國際社會加強團結合作、向非洲提供更多支援。峰會由非盟輪值主席、蒲隆地總統恩達伊施米耶主持，南非、赤道幾內亞、辛巴威等十餘個非洲國家元首和政府首腦，以及世界衛生組織等國際和地區組織、非洲域外夥伴代表等參會。（新華社）
+
+---
+
+### 2026-06-17 00:06:28  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O
+
+【Apple to launch camera-equipped AirPods by 2027; smart glasses could arrive as early as year-end next year】Apple plans to launch camera-equipped AirPods by end-2027, alongside multiple new products including a next-generation foldable iPhone and a 20th‑anniversary iPhone. The AirPods would be Apple’s first AI-focused wearable, integrating a computer-vision camera to feed Siri with real-world visual input. Apple is also developing chips for follow-on devices on next-generation process nodes, and is targeting its first smart glasses as early as year-end next year.
 
 ---
 
@@ -22128,282 +22670,5 @@ U.S. Vice President Vance said there is an interesting phenomenon in Iranian sta
 ### 2026-06-15 20:53:42  #國際
 
 【伊朗：美方承諾解凍伊朗被凍結資產】伊朗外交部發言人巴加埃15日說，解凍伊朗被凍結資產，以及賠償損失，是經濟層面重要議題。美方承諾在這些方面都將採取行動。 (新華社)
-
----
-
-### 2026-06-15 20:53:29  #公司
-
-【太保資產完成債券通“南向通”首筆投資交易】近期，太保資產成為首批獲准開展債券“南向通”業務的保險資產管理公司之一，目前已順利完成首筆投資交易。太保資產表示，債券“南向通”的落地，有助於保險資金拓寬優質債券資產的配置渠道，豐富投資策略，最佳化組合結構，從而提升投資回報的穩定性與可持續性。下一步，太保資產將堅持穩健、審慎的原則開展債券“南向通”投資，持續強化投資研判能力與風險管理水平，更好服務於保險資金的長期穩健運作。
-
----
-
-### 2026-06-15 20:52:29  #宏觀
-
-市場訊息：土耳其財政部 2028 年期債券認購投標額達 227.7 億里拉  。
-
----
-
-### 2026-06-15 20:50:37  #公司 #國際
-
-市場訊息：美國電池材料公司完成 333 萬股股份登記。
-
----
-
-### 2026-06-15 20:50:28  #市場 #焦點
-
-紐約期金突破4370美元/盎司，日內漲3.10%。
-
----
-
-### 2026-06-15 20:50:21  #MKT News
-
-【China's He meets U.S. Representative Correa】China's He, Politburo member and vice premier, met U.S. Representative Correa and his delegation on June 15. He said China is willing to work with the U.S. to fully and accurately implement the leaders' important consensus and, under principles of mutual respect, peaceful coexistence and win‑win cooperation, to strengthen dialogue, expand cooperation and promote healthy, stable and sustainable development of bilateral economic and trade relations.
-
----
-
-### 2026-06-15 20:50:08  #MKT News #WTI #Impact bearish #Brent
-
-【Iran says asset unfreezing, war reparations are priorities in Iran‑US ceasefire memorandum】Iran Foreign Ministry spokesperson Baghaei said on the 15th that details of an Iran‑US ceasefire memorandum will be published shortly and that the signing method and related mechanisms will be decided within a day. He said unfreezing Iran's frozen assets and securing war reparations are the memorandum's two economic priorities and that the US has committed to implement them. Under the memorandum the US is required to lift all primary and secondary sanctions, relevant UN Security Council resolutions and IAEA‑related measures; nuclear and economic specifics will be finalised within 60 days of signing the final agreement. Baghaei said that with the memorandum's signing on the 19th, all sales restrictions on Iranian crude, oil products and petrochemicals would be lifted immediately.
-
----
-
-### 2026-06-15 20:50:02  #國際
-
-【伊朗外交部：資產解凍和戰爭賠償是諒解備忘錄優先事項】當地時間15日，伊朗外交部發言人巴加埃在當天舉行的新聞釋出會上表示，伊美停戰諒解備忘錄的細節將很快公佈。諒解備忘錄的簽署方式和相關機制也將在今天或明天作出決定，並正式宣佈。巴加埃表示，解凍伊朗被凍結的資產和戰爭賠償是諒解備忘錄中的兩個重要經濟優先事項，美國承諾執行這些內容。伊朗認為，獲得伊朗資產的訪問權是其合法權利，並堅決繼續要求賠償這場非法戰爭的損失。根據該諒解備忘錄，美國必須取消所有一級和二級制裁、安理會相關決議以及國際原子能機構的相關制裁。這些核問題和經濟事項的細節將在最終協議簽署後60天內確定。此外，隨著19日該諒解備忘錄的簽署，伊朗石油、石油衍生品及石化產品的所有銷售限制將立即取消。（央視）
-
----
-
-### 2026-06-15 20:49:21  #宏觀 #國際
-
-【何立峰會見美國聯邦眾議員科雷亞】中共中央政治局委員、國務院副總理何立峰6月15日下午在人民大會堂會見美國聯邦眾議員科雷亞及其一行。 何立峰表示，習近平主席同特朗普總統共同確定了中美建設性戰略穩定關係的新定位，為下階段中美關係作出了戰略指引。中方願同美方一道，全面、準確落實好兩國元首達成的重要共識，按照相互尊重、和平共處、合作共贏的原則加強對話、拓展合作，努力推動雙邊經貿關係健康穩定可持續發展。(新華社)
-
----
-
-### 2026-06-15 20:48:44  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Rise on US-Iran Peace Deal — Futures tracking the S&P/TSX Composite Index moved higher on Monday after the US and Iran announced a preliminary peace agreement. The two countries reached an interim deal aimed at ending the conflict. US President Donald Trump said the agreement would halt hostilities and reopen the Strait of Hormuz. Oil prices fell, easing concerns that an energy-driven inflation spike could trigger a hawkish shift by global central banks. Bond yields declined, supporting banking stocks and the broader market as worries over higher borrowing costs faded. Meanwhile, gold prices advanced, providing support to mining shares. Investors are now focused on the US Federal Reserve's policy meeting, which concludes on Wednesday, with markets increasingly expecting policymakers to leave interest rates unchanged.
-
----
-
-### 2026-06-15 20:48:43  #MKT News #GBPUSD #Impact bearish
-
-【Convera: sterling shows long-term structural shift since Brexit】Convera's George Vessey said the 2016 Brexit referendum has had a lasting impact on sterling. Since the vote, GBP/EUR has averaged 1.16 versus 1.27 in the prior decade, and GBP/USD has averaged 1.30 versus 1.60 previously. Vessey says sterling's market behaviour has structurally changed: it is now more sensitive to global risk appetite, protection against sterling moves has become more expensive, and the currency exhibits a persistent downside tilt.
-
----
-
-### 2026-06-15 20:48:23  #公司
-
-【平潭發展：擬向東陽光出售東數一號1.30%股權 交易對價1.5億元】平潭發展(000592.SZ)公告稱，公司擬向廣東東陽光科技控股股份有限公司出售所持宜昌東數一號投資有限責任公司1.30%股權，交易對價1.5億元，東陽光以發行股份方式支付，發行價格為19.68元/股，公司獲配762.2萬股。本次交易屬於財務性投資，不會對公司日常經營造成重大影響。
-
----
-
-### 2026-06-15 20:47:57  #公司
-
-【雙塔食品：對全資子公司絲源食品增資4500萬元】雙塔食品公告，煙臺雙塔絲源食品有限公司為煙臺雙塔食品股份有限公司全資子公司，現註冊資本500萬元人民幣。為滿足絲源食品業務開展及未來經營發展需要，公司擬使用自有資金向絲源食品增資4500萬元人民幣，增資後絲源註冊資本為5000萬元人民幣。公司本次對絲源食品增資完成後，不會導致公司合併報表範圍的變動。
-
----
-
-### 2026-06-15 20:47:24  #市場
-
-【美光科技盤前漲7.63%，現報1056.50美元】美光科技盤前漲7.63%，現報1056.50美元。訊息面上，多家券商上調美光科技目標價並看好CPU需求帶動儲存晶片價格強勢延續至2027年下半年。
-
----
-
-### 2026-06-15 20:47:10  #央行 #其他
-
-市場訊息：智利央行購入2500萬美元。
-
----
-
-### 2026-06-15 20:45:36  #MKT News #Market Themes #AI Revolution
-
-【China launches first national-level AI pilot testbed for metallurgy in Nanjing】China has launched its first national-level AI pilot testbed for the metallurgical sector in Nanjing, Jiangsu, to support transformation of the steel industry. The National AI-Enabled Steel Industry Application Pilot Base will act as a nationwide industry innovation and shared-application platform, focusing on high-quality industry datasets, proof-of-concept and pilot systems, AI toolkits and industry-scale models. The base is intended to tackle common barriers to deep AI adoption in steel by improving data quality, cutting model-training costs, scaling pilot trials and scenario validation, and lowering application thresholds.
-
----
-
-### 2026-06-15 20:45:33  #Trading Economics #Economy #Canada #Manufacturing Sales #Importance 1
-
-Canadian Factory Sales Climb in April — Canada’s manufacturing sales rose 4.2% month-over-month to a record C$77.1 billion in April 2026, following a 3.4% increase in March and marking the strongest growth since February 2022. Sales increased in 17 of 21 subsectors. Petroleum and coal product sales surged 22.6% to another record high as several refineries ramped up production after maintenance shutdowns in March, while the closure of the Strait of Hormuz continued to support energy prices. Food product sales also reached a record high, rising 2.9%, led by higher grain and oilseed milling activity. In contrast, primary metal sales fell 4.6%, the largest decline among subsectors. Manufacturing sales rose in seven provinces, led by Alberta (16.7%) and Quebec (4.2%). Excluding petroleum and coal products, total manufacturing sales increased 1.4%.
-
----
-
-### 2026-06-15 20:44:53  #MKT News
-
-Ukrainian officials will meet with the U.S. president during the G7 summit.
-
----
-
-### 2026-06-15 20:44:37  #公司 #國際
-
-烏克蘭官員與美國總統將在七國集團峰會期間舉行會晤。
-
----
-
-### 2026-06-15 20:44:24  #公司
-
-【永悅科技：控股股東5865.95萬股被輪候凍結】永悅科技公告稱，公司控股股東江蘇華英持有的5865.95萬股被江蘇省鹽城市中級人民法院輪候凍結，佔其所持公司股份比例100%，佔公司總股本的16.32%。截至公告披露日，江蘇華英累計被凍結股份2915.95萬股，佔其所持公司股份數量比例49.71%，佔公司總股本的8.11%。本次輪候凍結系借貸糾紛引發，目前公司日常執行和生產經營正常，控股股東正積極籌措資金應對。
-
----
-
-### 2026-06-15 20:44:17  #MKT News #WTI #Impact bearish
-
-Iran said the US had pledged not to impose any new sanctions, Tasnim news agency reported.
-
----
-
-### 2026-06-15 20:44:16  #國際
-
-伊朗稱美國承諾不會實施任何新的制裁。
-
----
-
-### 2026-06-15 20:44:00  #資料
-
-加拿大4月批發銷售年率 6.3%，前值3.3%。
-加拿大4月批發庫存年率 9.4%，前值7.3%。
-
----
-
-### 2026-06-15 20:43:27  #焦點 #國際
-
-【美副總統：霍爾木茲海峽將“長期開放、免費通行”】美國副總統萬斯15日表示，預計美伊諒解備忘錄將使霍爾木茲海峽“長期開放且不收取通行費”。（新華社）
-
----
-
-### 2026-06-15 20:42:33  #公司
-
-【萬盛股份：公司覆銅板阻燃劑業務規模尚小 處於發展初期】萬盛股份今日在互動平臺表示，隨著汽車電子、資料中心、通訊及消費電子等領域需求持續擴張，帶動覆銅板行業需求向好，進而利好覆銅板配套阻燃劑產品的市場需求。公司覆銅板阻燃劑業務2024年、2025年營收不足公司當期營業收入的1%。目前該業務規模尚小，處於發展初期，公司將積極把握行業機遇推動業務發展，關於未來業績變化，請您持續關注公司後續公告。
-
----
-
-### 2026-06-15 20:42:21  #國際
-
-6月15日，全球資金淨買入印度股票20億印度盧比。
-
----
-
-### 2026-06-15 20:40:42  #MKT News #DXY #Impact bearish #US10Y #Impact bullish #Copper
-
-Canada wholesale inventories YoY April 9.4% vs prior 7.3%.
-
----
-
-### 2026-06-15 20:40:36  #MKT News #Economic Calendar #Important
-
-Canada | Wholesale Inventories (YoY) (Apr) | actual 9.4% | previous 7.3%
-
----
-
-### 2026-06-15 20:40:27  #國際
-
-6月15日，印度國內資金淨買入印度股票319億印度盧比。
-
----
-
-### 2026-06-15 20:40:23  #MKT News
-
-Canada wholesale sales YoY +6.3% in April vs +3.3% previously.
-
----
-
-### 2026-06-15 20:40:14  #MKT News #Economic Calendar #Important
-
-Canada | Wholesale Sales (YoY) (Apr) | actual 6.3% | previous 3.3%
-
----
-
-### 2026-06-15 20:40:12  #公司 #國際
-
-【中國鋼鐵工業協會副會長李毅仁在歐洲鋼鐵市場大會發表主旨演講：中國鋼鐵以堅定綠色低碳轉型應對全球市場變局】近日，由中國國際貿易促進委員會冶金行業分會（以下簡稱“冶金貿促會”）和Kallanish聯合主辦的2026歐洲鋼鐵市場大會在奧地利維也納舉行。大會聚焦環境監管趨嚴、能源成本高企與貿易規則重構背景下歐洲鋼鐵行業的發展變局，深度研討了歐洲鋼鐵生產運營、下游需求復甦、CBAM（歐盟碳邊境調節機制）實施進展、低碳鍊鋼技術、廢鋼供需及綠色數智轉型等核心議題，吸引了政府部門、行業協會、鋼鐵企業、貿易企業、科研院所、投資機構等200餘名代表參會。中國鋼鐵工業協會副會長、冶金貿促會會長李毅仁及太鋼集團、敬業鋼鐵、中天鋼鐵、鑫匯冶金等國內鋼鐵企業代表應邀參加。李毅仁在題為《Updates and Outlook of China's Iron and Steel Industry》（中國鋼鐵工業發展現狀與未來展望）的主旨演講中指出，中國鋼鐵工業已全面進入減量提質、結構最佳化發展階段，在當前關稅和非關稅貿易壁壘給全球市場帶來衝擊的新形勢下，中國鋼鐵行業正以堅定自身綠色低碳轉型的確定性，積極有效應對全球鋼鐵市場的複雜變局。（中國鋼鐵工業協會）
-
----
-
-### 2026-06-15 20:39:18  #Trading Economics #Economy #United States #NY Empire State Manufacturing Index #Importance 2
-
-New York Manufacturing Growth Slows in June — The New York Fed’s Empire State Manufacturing Index fell to 5.7 in June 2026, down from 19.6 in the previous month and well below market expectations of 14, indicating a notable slowdown in regional manufacturing activity, according to firms surveyed in the Empire State Manufacturing Survey. Despite the weaker headline reading, several underlying indicators showed continued expansion. New orders and shipments both rose, while unfilled orders also increased. However, supply chain pressures persisted, with delivery times lengthening and supply availability continuing to deteriorate. Labor market conditions remained firm, with employment expanding for a fifth consecutive month and the average workweek also increasing. Meanwhile, inflationary pressures remained elevated, as both input and selling price increases stayed strong. Looking ahead, firms maintained a broadly optimistic outlook for business conditions over the coming months, despite near-term moderation in activity.
-
----
-
-### 2026-06-15 20:38:05  #公司
-
-【榮盛發展旗下榮萬家設立合資公司 佈局物業場景智慧機器人業務】記者獲悉，榮盛發展旗下港股物業平臺榮萬家與北京可安可智慧科技簽署合作協議，雙方將共同出資設立合資公司，聚焦物業場景智慧機器人業務佈局。根據規劃，相關機器人產品將率先應用於安保巡邏、保潔清掃等物業服務場景。
-
----
-
-### 2026-06-15 20:37:47  #MKT News #Brent #Impact bearish
-
-TASNIM NEWS, citing informed sources, said U.S. forces must withdraw from areas near Iran within 30 days of a final agreement being reached.
-
----
-
-### 2026-06-15 20:37:27  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Iran: nuclear talks and sanctions relief to begin within 60 days】Iran's foreign ministry spokesman told Iranian media on the 15th that nuclear talks and sanctions relief will begin within 60 days.
-
----
-
-### 2026-06-15 20:37:07  #國際
-
-市場訊息：最終協議達成後，美軍須在 30 天內撤離伊朗周邊區域。
-
----
-
-### 2026-06-15 20:37:06  #Trading Economics #Economy #Canada #Wholesale Sales #Importance 1
-
-Canadian Wholesale Sales Grow for 3rd Month — Wholesale sales in Canada expanded by 0.6% from the previous month to C$89.3 billion in April of 2026, revised higher from the preliminary estimate of a 0.1% growth rate, to reflect the third consecutive increase in the sector. The figure excludes wholesale sales of petroleum, petroleum products, and other hydrocarbons, which surged 7.2% on the period due to the higher prices for fuel as the continuation of the war in the Middle East shut off energy exports from the region. Sales were firmly higher for building materials and supplies (4.3% to C$12.7 billion), miscellaneous goods (1.4% to C$11.5 billion), motor vehicles and parts (0.9% to C$14.7 billion), and personal and household goods (0.5% to C$13.2 billion). In turn, sales fell for food and beverage (-1.4% to C$16.2 billion) and machinery and equipment (-1.2% to $19.3 billion).
-
----
-
-### 2026-06-15 20:36:49  #焦點 #國際
-
-【伊朗：核談判和解除制裁將在60天內開始】據伊朗媒體15日報道，伊朗外交部發言人當天表示，核談判和解除制裁將在60天內開始。（新華社）
-
----
-
-### 2026-06-15 20:36:47  #MKT News
-
-Canada wholesale inventories rose 1.1% MoM in April; prior +0.3%.
-
----
-
-### 2026-06-15 20:36:39  #MKT News #Economic Calendar #Important
-
-Canada | Wholesale Inventories (MoM) (Apr) | actual 1.1% | previous 0.3%
-
----
-
-### 2026-06-15 20:36:20  #國際
-
-【黎巴嫩當局提醒逃難者：以軍沒撤，彆著急回家】美國和伊朗15日達成關於停戰談判的諒解備忘錄，但以色列對黎巴嫩南部的佔領和襲擊並未終止。黎巴嫩地方當局當天發表宣告，呼籲那些先前為躲避戰火被迫離家的民眾先彆著急回家，因為以軍還未撤出黎南部。據黎巴嫩國家通訊社15日報道，以色列當天上午對黎南部奈拜提耶、賓特朱拜勒、邁爾季歐雲等地區發動襲擊，造成人員受傷。南部地方當局紛紛發出提醒：雖然美伊達成諒解備忘錄，但以色列已表示不會從黎巴嫩南部佔領區撤軍，先前被迫離家的民眾先彆著急回家。（新華社）
-
----
-
-### 2026-06-15 20:34:55  #國際
-
-黎巴嫩真主黨：將在以色列撤軍之前捍衛黎巴嫩人民。
-
----
-
-### 2026-06-15 20:34:17  #公司 #國際
-
-空客<AIR.PA>執行長表示，歐洲監管壁壘的成本“極其可怕”。
-
----
-
-### 2026-06-15 20:33:59  #公司 #國際
-
-【非洲建交國符合要求的腰果已獲准輸華】記者15日從海關總署獲悉，自6月9日起非洲地區建交國生產的腰果已全面實現輸華檢疫准入。據海關總署釋出的《關於進口非洲腰果檢驗檢疫和衛生要求的公告》，允許進口的腰果是指由出口國境內種植的腰果為原料，在出口國境內經去皮、乾燥、挑選等加工工藝製作而成的供人類食用的帶殼或去殼堅果。輸華腰果不得帶有谷斑皮蠹、腎斑皮蠹、四紋豆象和非洲葉跗鋸谷盜等中方關注的檢疫性有害生物。（新華社）
-
----
-
-### 2026-06-15 20:33:37  #MKT News #WTI #Impact bullish #XAUUSD
-
-HEZBOLLAH says it will defend the Lebanese people until Israel withdraws.
-
----
-
-### 2026-06-15 20:32:48  #MKT News
-
-Canada April manufacturing new orders m/m +2.1% (prior +4.7%).
 
 ---
