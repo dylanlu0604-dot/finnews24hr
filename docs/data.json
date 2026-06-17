@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-18 02:11:07",
-  "count": 18565,
+  "updated": "2026-06-18 02:15:09",
+  "count": 18571,
   "items": [
+    {
+      "id": "te:markets:559797",
+      "time": "2026-06-18 02:14:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Erase Gains After Fed — US stock indices swung lower after the Federal Reserve held interest rates unchanged and signaled the possibility of rate hikes this year. The S&P 500 and Nasdaq 100 dropped 0.4%, while the Dow eased from its record high. The Summary of Economic Projections from the Fed's June meeting showed half of the FOMC projecting one rate hike or more this year, as the latest underlying inflation gauges showed an acceleration in prices and employment data remained robust despite economic shocks from the war in Iran. Notably, Chairman Warsh refrained from posting a dot in the projections to reflect his will to change the monetary framework of the Fed. Meanwhile, Iran and the US remained on track to sign their agreement by Friday. Magnificent seven stocks led the losses amid the plunge in Treasuries, with Meta, Microsoft, Alphabet, and Amazon dropping more than 2%. In turn, chip producers extended their rally with Micron, Marvell, Applied Materials and Intel adding more than 3%."
+    },
+    {
+      "id": "4941636",
+      "time": "2026-06-18 02:14:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4280美元/盎司，日內跌1.20%。"
+    },
+    {
+      "id": "4941635",
+      "time": "2026-06-18 02:13:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4300美元/盎司，日內跌1.29%。"
+    },
+    {
+      "id": "4941634",
+      "time": "2026-06-18 02:13:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普稱已與俄烏領導人通話 希望推動停火】當地時間6月17日，美國總統特朗普表示，過去兩天他與七國集團（G7）成員及夥伴國家討論了多項議題，其中包括俄烏衝突。特朗普稱，他已分別與俄羅斯總統普京和烏克蘭總統澤連斯基進行溝通，並向各國領導人通報了此前與普京通話的情況。特朗普重申，仍希望推動俄烏衝突結束。（央視新聞）"
+    },
+    {
+      "id": "4941633",
+      "time": "2026-06-18 02:13:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "倫敦金屬交易所（LME）表示：自 2026 年 7 月 25 日（含當日）起，僅當有證據證明相關金屬已於 2026 年 7 月 25 日前完全依照歐盟理事會第 2026/506 號法規進口至歐盟境內，俄羅斯產銅、鈷方可存入歐盟境內倫敦金屬交易所指定交割倉庫生成倉單。"
+    },
+    {
+      "id": "mkt:019ed6c8-a830-7dd8-b05e-404552f68ffe",
+      "time": "2026-06-18 02:12:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed statement removed the practice of publishing individual FOMC voting records."
+    },
+    {
+      "id": "4941632",
+      "time": "2026-06-18 02:12:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "倫敦金屬交易所（LME）表示：過去一年多以來，歐盟境內所有 LME 認證倉庫均未入庫任何俄羅斯產鈷與銅交割品。"
+    },
+    {
+      "id": "4941631",
+      "time": "2026-06-18 02:11:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【“新美聯儲通訊社”：美聯儲明顯鷹派，政策宣告大改】“新美聯儲通訊社”Nick Timiraos認為：本次美聯儲點陣圖顯示出明顯的鷹派傾向。在18名官員中，有9人預計今年至少會加息一次，其中6人甚至預計將出現多次加息。相比之下，僅有1名官員預計今年會降息；此外，還有1名參與者（推測為美聯儲主席沃什）未提交經濟預測摘要（SEP）。與此同時，美聯儲政策宣告從頭到尾進行了全面修訂，文字長度明顯縮短。整體來看，本次會議的溝通框架發生顯著變化，市場對利率路徑的預期或將因此被重新調整。"
+    },
+    {
+      "id": "mkt:019ed6c7-900c-7dd8-b05e-3ce611206c83",
+      "time": "2026-06-18 02:11:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Michelle, head of global fixed income at JP Morgan, said she did not expect half of people to predict a rate hike."
+    },
+    {
+      "id": "4941630",
+      "time": "2026-06-18 02:10:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4286.22美元/盎司。"
+    },
+    {
+      "id": "mkt:019ed6c7-597a-7dd8-b05e-367ec4d3e48c",
+      "time": "2026-06-18 02:10:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【TIMIRAOS: Fed clearly more hawkish; policy statement overhauled】TIMIRAOS on the Fed decision: the dot plot shows a clear hawkish tilt — 9 of 18 officials expect at least one hike this year, six expect multiple hikes and only one expects cuts. One participant (likely Fed chair KEVIN WARSH) did not submit an SEP. The policy statement was rewritten end-to-end and notably shortened. Communication framework has shifted materially, which could prompt markets to reprice the interest-rate path."
+    },
     {
       "id": "4941629",
       "time": "2026-06-18 02:10:11",
@@ -170803,47 +170912,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural Gas UK Gains by 4.19% — Top commodity gainers are Natural Gas UK (4.19%), Natural Gas EU (3.76%), Gasoline (3.20%), Crude Oil WTI (2.69%) and Brent Crude Oil (2.36%)."
-    },
-    {
-      "id": "4928878",
-      "time": "2026-06-11 02:15:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX 750億美元IPO即將登場，分析師警告比特幣市場或面臨流動性流失。"
-    },
-    {
-      "id": "4928877",
-      "time": "2026-06-11 02:14:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX在IPO承銷團隊安排中僅給部分銀行分配次要席位，引發這些銀行不滿。"
-    },
-    {
-      "id": "4928876",
-      "time": "2026-06-11 02:14:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國5月關稅收入與退款幾乎持平】美國財政部當地時間週三表示，美國政府5月份的關稅淨收入大約為零。財政部資料顯示，美國政府當月徵收了220億美元關稅，與2025年5月大致相同。但與此同時，美國政府也支付了220億美元關稅退款。本財年（自2025年10月1日起）迄今，關稅淨收入為1890億美元，高於上年同期的810億美元。美國財政部表示，經日曆因素調整後，本財年前八個月的預算赤字較上年同期減少2%，約合240億美元。"
-    },
-    {
-      "id": "mkt:019eb2bd-e730-7dd8-afaa-5c17738d315d",
-      "time": "2026-06-11 02:14:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. May tariff collections roughly matched refunds】The U.S. Treasury said on Wednesday net tariff revenue for May was roughly zero. Collections totaled $22bn, about the same as May 2025, while refunds also amounted to $22bn. Fiscal-year-to-date (since Oct. 1, 2025) net tariff receipts are $189bn, versus $81bn a year earlier. The Treasury said the budget deficit for the first eight months of the fiscal year, adjusted for calendar factors, is about 2% smaller year-on-year, roughly $24bn."
-    },
-    {
-      "id": "4928875",
-      "time": "2026-06-11 02:13:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行發現，亞太地區對人工智慧驅動的資金管理及外匯解決方案需求持續增長。"
     }
   ]
 }
