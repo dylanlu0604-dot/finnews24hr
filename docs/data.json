@@ -1,7 +1,179 @@
 {
-  "updated": "2026-06-18 02:39:35",
-  "count": 18607,
+  "updated": "2026-06-18 02:43:37",
+  "count": 18620,
   "items": [
+    {
+      "id": "mkt:019ed6e4-ab13-7dd8-b05f-fb15adecf4b5",
+      "time": "2026-06-18 02:42:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "US10Y",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he cannot provide forward guidance on the Fed's next actions."
+    },
+    {
+      "id": "4941667",
+      "time": "2026-06-18 02:42:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：無法就後續政策操作給出任何前瞻性指引。有些人認為此時提供前瞻指引並不合適。"
+    },
+    {
+      "id": "mkt:019ed6e4-7495-7dd8-b05f-f657a4880030",
+      "time": "2026-06-18 02:42:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said some believe providing forward guidance at this time would be inappropriate."
+    },
+    {
+      "id": "mkt:019ed6e4-3e86-7dd8-b05f-ea4d4bdbaf59",
+      "time": "2026-06-18 02:42:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed has abandoned forward guidance."
+    },
+    {
+      "id": "4941666",
+      "time": "2026-06-18 02:42:02",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們已取消前瞻性指引。"
+    },
+    {
+      "id": "mkt:019ed6e3-dfbb-7dd8-b05f-e38236db3402",
+      "time": "2026-06-18 02:41:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said inf is primarily determined by monetary policy."
+    },
+    {
+      "id": "4941665",
+      "time": "2026-06-18 02:41:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃爾美聯儲主席沃什：通脹主要由貨幣政策決定。"
+    },
+    {
+      "id": "4941664",
+      "time": "2026-06-18 02:41:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 美聯儲有決心、有能力實現 2% 的通脹目標。關於2%的通脹目標將不在通脹工作組的範圍內。通脹框架評估工作的重點應放在通脹的驅動因素上。"
+    },
+    {
+      "id": "mkt:019ed6e3-79f4-7dd8-b05f-dd33827ed93d",
+      "time": "2026-06-18 02:41:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed has the ability and determination to achieve its 2% inf target."
+    },
+    {
+      "id": "mkt:019ed6e3-5028-7dd8-b05f-d419022f1b33",
+      "time": "2026-06-18 02:41:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kevin Warsh, chair of the Federal Reserve, said assessments of the inf framework should focus on the drivers of inf."
+    },
+    {
+      "id": "mkt:019ed6e3-3e65-7dd8-b05f-cdc35d75f3a3",
+      "time": "2026-06-18 02:41:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the 2% inflation target will not fall within the remit of the inflation working group."
+    },
+    {
+      "id": "mkt:019ed6e2-ecda-7dd8-b05f-c296c8478b0d",
+      "time": "2026-06-18 02:40:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said there is no reason to revisit the Fed’s 2% inflation target until that level is reached."
+    },
+    {
+      "id": "4941663",
+      "time": "2026-06-18 02:40:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：2%的通脹率是美聯儲長期以來的目標。在實現 2% 通脹目標之前，我認為沒有理由重新審議該目標。"
+    },
+    {
+      "id": "mkt:019ed6e2-2c47-7dd8-b05f-ba8375472e0c",
+      "time": "2026-06-18 02:40:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "KEVIN WARSH: 2% inf has long been the Federal Reserve's target."
+    },
+    {
+      "id": "mkt:019ed6e1-ec3f-7dd8-b05f-b419d2ee3020",
+      "time": "2026-06-18 02:39:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he expects to achieve partial results before autumn and that working groups will complete their work by year-end."
+    },
+    {
+      "id": "4941662",
+      "time": "2026-06-18 02:39:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 預計今年秋季取得部分階段性成果，各專項工作組將於年底完成全部調研工作。 各專項工作組將在未來兩週內啟動工作。"
+    },
     {
       "id": "mkt:019ed6e1-4775-7dd8-b05f-ac69d9f47209",
       "time": "2026-06-18 02:39:08",
@@ -171325,35 +171497,6 @@
         "其他"
       ],
       "text": "通用汽車電池主管凱爾蒂表示，通用汽車未來電動汽車或不採用低成本磷酸鐵鋰（LFP）電池。"
-    },
-    {
-      "id": "4928903",
-      "time": "2026-06-11 02:43:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度對高比例乙醇混合汽油免徵消費稅。"
-    },
-    {
-      "id": "mkt:019eb2d7-83d6-7dd8-afaa-c108da9d2d9e",
-      "time": "2026-06-11 02:42:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "【U.S. media: Iran and U.S. officials continue talks via Qatar channel】Axios reports Iran and U.S. officials continue negotiations via Qatari intermediaries despite recent exchanges of fire. Over the past two days Iranian and U.S. officials held parallel meetings in Doha with Qatari mediators. Qatar attempted to convene a trilateral session to resolve remaining differences directly; Iran declined. Qatari mediators traveled to Tehran on Wednesday to meet Iran’s foreign minister and other officials to try to revive talks. Two U.S. officials said they hoped Tuesday’s strike would prompt Iran to act and respond to Trump’s proposal, and that Trump’s threats are part of the same pressure strategy. One U.S. official said: \"The deal remains on the table, but if Iran continues to delay and respond passively, the president is ready to make Iran pay.\""
-    },
-    {
-      "id": "4928902",
-      "time": "2026-06-11 02:41:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普不會出席週三晚間的NBA總決賽賽事，但在第四場開打前，官方仍會在麥迪遜廣場花園周邊多個街區設定安保警戒區。"
     }
   ]
 }
