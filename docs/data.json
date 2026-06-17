@@ -1,7 +1,1224 @@
 {
-  "updated": "2026-06-18 00:33:08",
-  "count": 18458,
+  "updated": "2026-06-18 01:38:47",
+  "count": 18504,
   "items": [
+    {
+      "id": "4941583",
+      "time": "2026-06-18 01:38:06",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通全球固定收益主管：  對沃什來說，問題是機制更替意味著什麼。 沃什註定會讓特朗普失望。"
+    },
+    {
+      "id": "mkt:019ed6a7-5eae-7dd8-b05c-633a77816acb",
+      "time": "2026-06-18 01:35:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Colombia's state oil company said blockades have halted production of more than 800,000 barrels of oil."
+    },
+    {
+      "id": "4941582",
+      "time": "2026-06-18 01:35:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司表示，封鎖已導致逾80萬桶石油停產。"
+    },
+    {
+      "id": "4941581",
+      "time": "2026-06-18 01:34:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司釋出宣告稱，受承包商企業工人封鎖道路影響，該公司在梅塔省的生產運營已受到波及。"
+    },
+    {
+      "id": "4941580",
+      "time": "2026-06-18 01:34:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4380美元/盎司，日內漲1.16%。"
+    },
+    {
+      "id": "mkt:019ed6a5-a809-7dd8-b05c-5c1f4f6dbbbf",
+      "time": "2026-06-18 01:34:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose more than 1.00% intraday, trading at $4,374.60/oz."
+    },
+    {
+      "id": "4941579",
+      "time": "2026-06-18 01:33:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4400美元/盎司，日內漲1.07%。"
+    },
+    {
+      "id": "4941578",
+      "time": "2026-06-18 01:33:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4370美元/盎司，日內漲1.05%。"
+    },
+    {
+      "id": "mkt:019ed6a5-6ba6-7dd8-b05c-54e816b928fa",
+      "time": "2026-06-18 01:33:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Institution previews Fed SEP and dot plot — Wosh’s first dot plot uncertain; inflation likely revised up, rate cuts may be delayed】Major banks and asset managers expect the Fed’s SEP/dot plot to skew hawkish: most forecast upward revisions to inflation and fewer or later rate cuts, with the SEP itself trimmed in detail. UBS sees higher inflation forecasts and a view that most officials do not favor cuts before 2028; the median may still show a single 2028 cut but policy will remain restrictive. Goldman expects Wosh may not submit a personal dot; the median likely shows rates unchanged through 2026 with one cut each in 2027 and 2028, while 2026 GDP and unemployment are tweaked down slightly and inflation is revised materially higher. Barclays expects no 2026 cuts, only one cut in 2027 and a cautious 2028 outlook. Jefferies flags a policy-shift in communications — Wosh’s rejection of forward guidance at his Senate hearing points to a shorter FOMC statement and a leaner SEP. Several houses (BofA, TD Securities, Capital Economics) predict Wosh will not submit a personal forecast to blunt hawkish signals; JPMorgan alone expects he will submit one to avoid appearing in dissent. Other houses (Rabobank, Nordea, BNY Mellon, PIMCO) put the risk on stickier inflation, fewer cuts or even renewed hawkish calls, with some forecasting the dot plot will drop prior in‑year cut scenarios and skew modestly hawkish."
+    },
+    {
+      "id": "4941577",
+      "time": "2026-06-18 01:33:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4398.37美元/盎司。"
+    },
+    {
+      "id": "4941576",
+      "time": "2026-06-18 01:33:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4390美元/盎司，日內漲0.86%。"
+    },
+    {
+      "id": "mkt:019ed6a5-0e24-7dd8-b05c-4c6f3c0318a0",
+      "time": "2026-06-18 01:33:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Analyst: Fed meeting's core isn't the rate decision; DXY 99.50 seen as key watershed】Analyst Matthew Weller says the core of the first Fed meeting under FOMC chair Kevin Walsh will likely be the SEP, dot plot and press conference rather than the near-term rate decision, and these could materially reshape market expectations for the policy path. Traders and economists broadly expect the Fed to hold the target range at 3.50–3.75%. Walsh's remarks on central-bank independence and communication strategy at the press conference are expected to have lasting market impact. DXY 99.50 is viewed as the key watershed for this week and beyond: if the Fed leaves the door open to a later-year hike and Walsh stresses FOMC independence, the dollar could rebound toward ~100.50 (a one-year high); if the SEP is more cautious and Walsh is ambiguous on independence, the dollar would come under pressure and a break below 99.50 would likely pull the 50-day moving average toward 99.00."
+    },
+    {
+      "id": "4941575",
+      "time": "2026-06-18 01:27:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞總理感謝普京推進能源合作，並感謝俄方承諾在能源危機期間提供援助。"
+    },
+    {
+      "id": "mkt:019ed69c-91bb-7dd8-b05c-417b40940637",
+      "time": "2026-06-18 01:24:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Hedge fund CIO says new Fed chair likely to open dovish, avoid hawkish signals】Oraclum Capital CIO Vuk Vukovic says the market’s immediate focus is political risk rather than inflation or rates. He notes the new Fed chair took office amid accelerating inflation—CPI 4.2%, PPI 6.5%—which constrains the Fed’s room to deliver any previously promised rate cuts. Recent easing in geopolitical tensions, notably a thaw in US‑Iran pressures that has pushed oil prices lower, gives the chair breathing room. Vukovic does not expect hawkish signals at this meeting and judges a dovish opening is the most likely path. If the chair abandons rigid forward guidance, markets will shift to other signal sources—trade, foreign policy and fiscal measures will gain weight. Whether that communication approach succeeds will be the new chair’s first major test."
+    },
+    {
+      "id": "4941574",
+      "time": "2026-06-18 01:23:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：我們將採取一些措施以建立信任，看看是否能夠達成協議。商定步驟的先後順序將是即將與伊朗舉行會談的重要議題。諒解備忘錄已簽署，但在具有約束力的協議達成之前，任何一方均可退出。與以色列一直保持非常頻繁的聯絡。本週末在瑞士舉行的會議對於觀察與伊朗談判的進展將是至關重要的。"
+    },
+    {
+      "id": "mkt:019ed69b-ad03-7dd8-b05c-3c1152861fa9",
+      "time": "2026-06-18 01:23:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "A U.S. official said the meeting in Switzerland this weekend will be critical for gauging progress in talks with Iran."
+    },
+    {
+      "id": "mkt:019ed69b-9a6a-7dd8-b05c-37206bd21f40",
+      "time": "2026-06-18 01:23:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "【Institutions preview Fed rate path: hold widely expected, forecasts split on timing of cuts vs. hikes】Major institutions broadly expect the Fed to hold at the upcoming FOMC, but forecasts diverge sharply on subsequent direction and timing. No-cut/steady camp: Moody’s, Nomura, JP Morgan, Wells Fargo and BNY Mellon see a hold as baseline and deem near-term cuts unlikely; JP Morgan and others expect policy language to shift from easing-leaning toward neutral. Moody’s warns re-accelerating inflation expectations could prompt hikes. BNY Mellon expects the statement to signal two-way rate risks and to remove prior 2026 cut expectations; it does not expect any moves this year. Cut camp: Goldman expects a hold but will remove easing-leaning forward guidance and projects two 25bp cuts in June and December 2027. UBS expects the Fed to drop a dovish tilt yet still forecasts 25bp cuts in March and June 2027. Citi projects three 25bp cuts in September, October and December. Deutsche Bank expects the Fed to abandon easing language and begin cuts from mid‑next year, totalling 75bps by end‑2027. Hike/insurance-hike camp: Capital Economics and BNP Paribas see a real risk of precautionary hikes (Capital Economics flags two potential “insurance” hikes around December/early next year; BNP Paribas sees the earliest hike in December). Deutsche Bank flags rising upside risk to rates. PGIM expects the Fed to hold now but projects three hikes this year, three cuts in 2027 and one cut in 2028, with a terminal rate around 3.375%. Other notes: Barclays, BofA and ANZ also expect a hold and say the Fed will likely delete easing-leaning language in the statement; BofA expects potential tweaks to employment wording, ANZ expects a renewed 2% inflation commitment. Mitsubishi UFJ says the meeting’s market importance is driven mainly by forward guidance. Asset manager MFS expects a hold with signals of a neutral stance and possible changes to communication tools (less use of the dot plot, fewer/shorter press interactions)."
+    },
+    {
+      "id": "mkt:019ed69b-6e88-7dd8-b05c-293c73ff942c",
+      "time": "2026-06-18 01:22:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official said the United States has maintained very frequent contact with Israel."
+    },
+    {
+      "id": "mkt:019ed69b-48f1-7dd8-b05c-2322443a11b1",
+      "time": "2026-06-18 01:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official said a memorandum of understanding has been signed, but either party may withdraw until a binding agreement is reached."
+    },
+    {
+      "id": "mkt:019ed69b-0fdd-7dd8-b05c-1b63460d8388",
+      "time": "2026-06-18 01:22:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. official says sequencing of agreed steps will be a key issue in upcoming talks with Iran."
+    },
+    {
+      "id": "mkt:019ed69a-dc8f-7dd8-b05c-11b24e12e307",
+      "time": "2026-06-18 01:22:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official said the U.S. will take measures to build trust to assess whether an agreement can be reached."
+    },
+    {
+      "id": "mkt:019ed69a-be88-7dd8-b05c-0c566cf02f2e",
+      "time": "2026-06-18 01:22:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said Israeli Prime Minister Netanyahu did not request a copy of the memorandum of understanding."
+    },
+    {
+      "id": "mkt:019ed69a-8f2a-7dd8-b05c-03d89c8e16ad",
+      "time": "2026-06-18 01:21:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. official: Iran has at least agreed to destroy its enriched uranium stockpile by dilution."
+    },
+    {
+      "id": "mkt:019ed69a-4e5d-7dd8-b05b-fedd1500430c",
+      "time": "2026-06-18 01:21:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. official: If no agreement is reached, Trump is not afraid to use the tools at his disposal."
+    },
+    {
+      "id": "mkt:019ed69a-2457-7dd8-b05b-f7ee8e5d9428",
+      "time": "2026-06-18 01:21:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. official said after nuclear issues are addressed the U.S. will discuss the funding of proxy groups."
+    },
+    {
+      "id": "mkt:019ed699-dd56-7dd8-b05b-efd95c775482",
+      "time": "2026-06-18 01:21:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A U.S. official said if a final agreement is reached and Iran complies, the U.S. would permit sanctions relief."
+    },
+    {
+      "id": "mkt:019ed699-c260-7dd8-b05b-e1eeec9a9f44",
+      "time": "2026-06-18 01:21:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. official: Iran said it will destroy its enriched-uranium stockpile and outlined implementation details."
+    },
+    {
+      "id": "4941573",
+      "time": "2026-06-18 01:20:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【去年停火後以色列軍事行動致加沙超千人死亡】據巴勒斯坦加沙地帶衛生部門17日釋出的資料，自2025年10月加沙停火第一階段協議生效以來，以軍在加沙地帶的行動已造成1005人死亡、3157人受傷。資料顯示，2023年10月新一輪巴以衝突爆發以來，以色列在加沙地帶的軍事行動已造成超過7.3萬人死亡、17.3萬人受傷。巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆·卡西姆當天發表宣告說，哈馬斯在埃及首都開羅的會談中展現出了靈活性，希望能為落實加沙停火協議鋪平道路。哈馬斯的核心目標是結束針對加沙人民的戰爭，加快提供援助，並啟動重建程序。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ed698-d301-7dd8-b05b-dbedc3b6673b",
+      "time": "2026-06-18 01:20:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump said he would blame Vance if the Iran deal does not proceed smoothly."
+    },
+    {
+      "id": "em:qqyh_mlc:202606183775018843",
+      "time": "2026-06-18 01:20:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲隔夜逆回購協議（RRP）週三使用規模為68.28億美元（交易對手16家）】美聯儲隔夜逆回購協議（RRP）週三使用規模為68.28億美元（交易對手16家），上個交易日報107.21億美元。"
+    },
+    {
+      "id": "4941572",
+      "time": "2026-06-18 01:18:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐荷蘭使館發言人就荷蘭國家安全戰略相關涉華內容表明嚴正立場】“中國駐荷蘭王國大使館”微信公眾號發文稱，日前，荷蘭政府釋出《國際安全戰略2026—2030》，其中部分內容對中國發展道路和內外政策說三道四，炒作所謂“中國威脅”，就中國同有關國家正常合作等對中方進行無理指責。有關內容嚴重違背客觀事實，中方就此表達嚴重關切和強烈不滿。"
+    },
+    {
+      "id": "4941571",
+      "time": "2026-06-18 01:18:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我喜歡“伊朗協議不奏效就怪罪萬斯”這個想法。"
+    },
+    {
+      "id": "4941570",
+      "time": "2026-06-18 01:17:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "調查顯示，美國能源資訊署週四釋出的報告預計，上週美國天然氣庫存增加 750 億立方英尺。"
+    },
+    {
+      "id": "4941569",
+      "time": "2026-06-18 01:16:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（6月17日），美聯儲隔夜逆回購協議（RRP）使用規模為68.28億美元（交易對手16家），上個交易日報107.21億美元。"
+    },
+    {
+      "id": "mkt:019ed695-9edd-7dd8-b05b-d7b0ae888b32",
+      "time": "2026-06-18 01:16:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $6.828 bln from 16 counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019ed694-fa48-7dd8-b05b-cf6379643754",
+      "time": "2026-06-18 01:15:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian state media quoted a foreign ministry spokesman saying a proposed agreement could be signed by the presidents of the US and Iran and that the proposal remains under review."
+    },
+    {
+      "id": "4941568",
+      "time": "2026-06-18 01:15:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗官方媒體訊息：伊朗外交部發言人表示，美伊兩國總統有望親自簽署相關檔案，該方案仍在研討之中。"
+    },
+    {
+      "id": "4941567",
+      "time": "2026-06-18 01:14:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯中部發生一起交通事故致11死19傷】秘魯中部瓦努科省16日晚發生一起交通事故，造成至少11人死亡、19人受傷。一輛從該國東部烏卡亞利省普卡爾帕開往首都利馬的省際巴士在途徑瓦努科省埃米利奧巴爾迪桑地區時失控衝出公路並側翻。事發後，救援人員趕赴現場轉運傷員，警方對事故原因展開調查。（新華社）"
+    },
+    {
+      "id": "mkt:019ed692-8d7c-7dd8-b05b-c41a3c9c0992",
+      "time": "2026-06-18 01:13:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Economics professor: US-Iran peace deal could alter Fed rate path】Economics professor Phil Powell said he expects the Fed to hold rates at this meeting. He said markets had feared higher inf prior to a Washington‑Tehran peace deal after oil surged and inf topped 4%, making a near‑term Fed hike more likely than a cut. Powell added an Iran peace agreement would be a sizeable disinflationary shock—oil could fall more than expected and lower the odds of near‑term hikes. He noted this was the first rate decision under the new Fed chair; while markets may view the new chair as more cut‑friendly than his predecessor, Powell said that has not proven true. On cuts, he said rate reductions are unlikely before year‑end because inf must fall first."
+    },
+    {
+      "id": "mkt:019ed692-6df8-7dd8-b05b-b97246a1a52b",
+      "time": "2026-06-18 01:13:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Basra Oil Company said southern Iraq crude output is expected to rise further as tankers load."
+    },
+    {
+      "id": "4941565",
+      "time": "2026-06-18 01:12:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴士拉石油公司：隨著油輪裝載石油，伊拉克南部石油產量應進一步上升。"
+    },
+    {
+      "id": "mkt:019ed692-067f-7dd8-b05b-b466728d638b",
+      "time": "2026-06-18 01:12:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Basra Oil Company said southern Iraq crude production is currently 1.5 mln bpd, up from 1.0 mln bpd previously."
+    },
+    {
+      "id": "4941564",
+      "time": "2026-06-18 01:12:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨議員就愛潑斯坦關聯事宜質詢哈佛大學。"
+    },
+    {
+      "id": "mkt:019ed691-c583-7dd8-b05b-aa87aee2cef7",
+      "time": "2026-06-18 01:12:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Financial Times: ANTHROPIC CEO urged G7 leaders to \"resist the temptation to fragment AI\"."
+    },
+    {
+      "id": "4941562",
+      "time": "2026-06-18 01:11:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：美伊諒解備忘錄文字自上週日以來未作更改。"
+    },
+    {
+      "id": "4941561",
+      "time": "2026-06-18 01:11:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長向七國集團領導人呼籲，各國應“抵制在人工智慧領域走向分裂的誘惑”。"
+    },
+    {
+      "id": "mkt:019ed690-ae2a-7dd8-b05b-a0b1ae859e47",
+      "time": "2026-06-18 01:11:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said the United States will work closely with the International Atomic Energy Agency to carry out inspections of Iran."
+    },
+    {
+      "id": "mkt:019ed690-8332-7dd8-b05b-9fbe0cc6a712",
+      "time": "2026-06-18 01:10:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US officials said the US and its partners will devise a plan worth at least $300 billion."
+    },
+    {
+      "id": "mkt:019ed690-50b3-7dd8-b05b-91b56757aa56",
+      "time": "2026-06-18 01:10:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. official says Washington will lift all sanctions on Iran as planned."
+    },
+    {
+      "id": "4941560",
+      "time": "2026-06-18 01:10:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克南部石油產量現為150萬桶/日，高於此前的100萬桶/日。"
+    },
+    {
+      "id": "mkt:019ed68f-d754-7dd8-b05b-8fbc9385f6f4",
+      "time": "2026-06-18 01:10:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official said the Iran agreement would enable the U.S. to adjust its actions based on Iran's behavior."
+    },
+    {
+      "id": "mkt:019ed68f-ca6e-7dd8-b05b-86bfac50e97b",
+      "time": "2026-06-18 01:10:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. official says Iran agreement will immediately trigger sanctions relief."
+    },
+    {
+      "id": "4941559",
+      "time": "2026-06-18 01:09:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國高階官員：伊朗已同意，最低限度將透過稀釋丰度的方式銷燬其濃縮鈾儲備。"
+    },
+    {
+      "id": "4941558",
+      "time": "2026-06-18 01:09:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：已商定步驟的推進次序將是與伊朗即將舉行談判的重要議題。"
+    },
+    {
+      "id": "mkt:019ed68f-342c-7dd8-b05b-7eaa1bb0bd42",
+      "time": "2026-06-18 01:09:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A US official said Iran has begun lifting its blockade and may publish the text of a memorandum of understanding tonight. The official said the memorandum text has not changed since Sunday."
+    },
+    {
+      "id": "4941557",
+      "time": "2026-06-18 01:09:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：核問題解決後，我們將討論代理人武裝的資助問題。"
+    },
+    {
+      "id": "4941556",
+      "time": "2026-06-18 01:09:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：我們將採取若干措施建立信任，看看能否促成協議達成。"
+    },
+    {
+      "id": "4941555",
+      "time": "2026-06-18 01:09:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：內塔尼亞胡尚未向我方索要諒解備忘錄文字。"
+    },
+    {
+      "id": "4941554",
+      "time": "2026-06-18 01:09:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：若無法達成協議，特朗普不懼動用其可用工具。"
+    },
+    {
+      "id": "4941553",
+      "time": "2026-06-18 01:09:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：一直與以色列保持非常密切的溝通。"
+    },
+    {
+      "id": "4941552",
+      "time": "2026-06-18 01:09:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：諒解備忘錄已簽署，但在達成具有約束力的協議之前，任何一方都可退出交易。"
+    },
+    {
+      "id": "4941551",
+      "time": "2026-06-18 01:08:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：我們觀察到伊朗在簽署停火協議前，已採取行動切斷霍爾木茲海峽的通航。"
+    },
+    {
+      "id": "4941550",
+      "time": "2026-06-18 01:08:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員：伊朗稱將銷燬濃縮鈾庫存，目前正就具體銷燬方案進行說明。"
+    },
+    {
+      "id": "4941549",
+      "time": "2026-06-18 01:08:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國高階官員：若達成最終協議且伊朗方面行為合規，我們將同意解除制裁。"
+    },
+    {
+      "id": "mkt:019ed68e-1d85-7dd8-b05b-7522c711c4f1",
+      "time": "2026-06-18 01:08:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US President Trump said he may remain to attend the signing ceremony for an Iran agreement."
+    },
+    {
+      "id": "4941548",
+      "time": "2026-06-18 01:08:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：或留在（歐洲）出席伊朗協議簽署儀式。"
+    },
+    {
+      "id": "4941547",
+      "time": "2026-06-18 01:07:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，真主黨向在黎巴嫩南部執行任務的以軍部隊發射火箭彈。部分彈藥被攔截，其餘落在部隊附近，暫無人員受傷報告。"
+    },
+    {
+      "id": "4941546",
+      "time": "2026-06-18 01:07:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列本土前線司令部表示，經形勢評估後，現行防空防護指引維持不變，有效期至2026年6月20日（週六）21時。"
+    },
+    {
+      "id": "4941545",
+      "time": "2026-06-18 01:07:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院宣告：已批准向奧地利出售UH-60M“黑鷹”直升機的潛在軍售專案，預估金額為15億美元。"
+    },
+    {
+      "id": "4941544",
+      "time": "2026-06-18 01:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普誤以為巴西逮捕了正在參選總統的弗拉維奧·博索納羅，但實際上遭到起訴的是他並未參選公職的兄弟。"
+    },
+    {
+      "id": "mkt:019ed68c-459b-7dd8-b05b-6f8c0525a194",
+      "time": "2026-06-18 01:06:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Brazil's election was completely rigged."
+    },
+    {
+      "id": "4941542",
+      "time": "2026-06-18 01:05:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：其他國家領導人因伊朗戰事平息感到寬慰，因為他們本可能成為伊朗的打擊目標。"
+    },
+    {
+      "id": "4941541",
+      "time": "2026-06-18 01:05:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：巴西局勢已變得有些動盪，政治層面陷入危險。"
+    },
+    {
+      "id": "mkt:019ed68b-706f-7dd8-b05b-65773ed1b255",
+      "time": "2026-06-18 01:05:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he held a lengthy conversation with Brazilian President Lula."
+    },
+    {
+      "id": "mkt:019ed68b-29df-7dd8-b05b-5b1aba4cce65",
+      "time": "2026-06-18 01:05:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Brazil's political situation has become somewhat severe and dangerous."
+    },
+    {
+      "id": "mkt:019ed68b-112a-7dd8-b05b-55846406b996",
+      "time": "2026-06-18 01:04:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US President Trump said other countries now want to join military forces in the strait."
+    },
+    {
+      "id": "4941540",
+      "time": "2026-06-18 01:04:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：巴西完全操縱了選舉。"
+    },
+    {
+      "id": "mkt:019ed68a-cb94-7dd8-b05b-4994a39fbcf9",
+      "time": "2026-06-18 01:04:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy's foreign minister Antonio Tajani said Iran will ensure the vessel Grande Torino departs safely within the next few hours."
+    },
+    {
+      "id": "4941539",
+      "time": "2026-06-18 01:04:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利外交部長塔賈尼與伊朗外交部長阿拉格齊進行了通話。義大利外長塔賈尼表示，大使館工作人員將返回德黑蘭，伊朗將確保“Grande Torino”號船隻安全離港。"
+    },
+    {
+      "id": "mkt:019ed68a-a40a-7dd8-b05b-4149682cb7e2",
+      "time": "2026-06-18 01:04:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Japan's performance is very good."
+    },
+    {
+      "id": "mkt:019ed68a-84be-7dd8-b05b-3eae9e7d99c2",
+      "time": "2026-06-18 01:04:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italian foreign minister Tajani said Iran will ensure the safe departure of the vessel \"Grande Torino\"."
+    },
+    {
+      "id": "4941538",
+      "time": "2026-06-18 01:03:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與巴西總統盧拉進行了長時間會談， 巴西如今政壇局勢有些動盪。"
+    },
+    {
+      "id": "mkt:019ed689-fb89-7dd8-b05b-3045cc9a5504",
+      "time": "2026-06-18 01:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italian Foreign Minister Tajani said embassy staff will return to Tehran."
+    },
+    {
+      "id": "mkt:019ed689-a0a4-7dd8-b05b-2e73db69ff38",
+      "time": "2026-06-18 01:03:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's foreign minister Tajani spoke by phone with Iran's foreign minister Araghchi."
+    },
+    {
+      "id": "mkt:019ed689-54e0-7dd8-b05b-27745f235647",
+      "time": "2026-06-18 01:03:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Netherlands to provide €500m weapons support to Ukraine】The Netherlands on Wednesday announced €500m (~$580m) in weapons support for Ukraine, with half (€250m) earmarked for the Ukraine priority needs list (PURL) mechanism under which European allies procure U.S.-made weapons. The government will separately provide €250m (~$290m) for drones, bringing total announced support to €750m (~$870m). Dutch defence minister, meeting Ukrainian officials in The Hague, said continued Russian attacks make air defence a heightened priority."
+    },
+    {
+      "id": "4941537",
+      "time": "2026-06-18 01:02:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽不需要其他國家駐軍，不過現在各國都想來部署兵力。"
+    },
+    {
+      "id": "mkt:019ed688-44d1-7dd8-b05b-19dbd6668902",
+      "time": "2026-06-18 01:01:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump: You cannot cover everything in one document."
+    },
+    {
+      "id": "mkt:019ed688-302a-7dd8-b05b-117ab96dc6ca",
+      "time": "2026-06-18 01:01:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said moves on sanctions would follow if Iran behaves."
+    },
+    {
+      "id": "mkt:019ed688-0560-7dd8-b05b-0a013a781654",
+      "time": "2026-06-18 01:01:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Japanese Prime Minister Takaichi is his biggest supporter."
+    },
+    {
+      "id": "4941536",
+      "time": "2026-06-18 01:01:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：日本發展得非常好，日本首相高市早苗是我最大的支持者。"
+    },
+    {
+      "id": "mkt:019ed687-d807-7dd8-b05b-018d3907883a",
+      "time": "2026-06-18 01:01:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump said the United States will have the cheapest energy in the world."
+    },
+    {
+      "id": "4941535",
+      "time": "2026-06-18 01:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：只要伊朗規範自身行為，制裁相關舉措就會有所調整。"
+    },
+    {
+      "id": "4941534",
+      "time": "2026-06-18 01:01:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將擁有全球成本最低的能源。"
+    },
+    {
+      "id": "mkt:019ed687-0bc5-7dd8-b05a-f85cc7599ba6",
+      "time": "2026-06-18 01:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said affordability is a made-up term invented by Democrats."
+    },
+    {
+      "id": "mkt:019ed686-d38c-7dd8-b05a-f37ffec39949",
+      "time": "2026-06-18 01:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) said crew are safe and advised all transiting vessels to exercise caution."
+    },
+    {
+      "id": "4941533",
+      "time": "2026-06-18 01:00:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據AXIOS：OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美國）AI會議。"
+    },
+    {
+      "id": "4941532",
+      "time": "2026-06-18 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.25%，滬銅收漲0.26%，滬鋁收漲0.21%，滬鋅收漲0.73%，滬鉛收漲0.15%，滬鎳收漲0.59%，滬錫收漲0.21%。氧化鋁夜盤收漲0.52%，鋁合金收漲0.17%。不鏽鋼夜盤收跌0.43%。"
+    },
+    {
+      "id": "mkt:019ed686-6057-7dd8-b05a-ec2f44e00d79",
+      "time": "2026-06-18 00:59:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations reported a vessel was approached by two small boats to within 4 metres; the boats carried an unspecified number of armed personnel and opened fire on the vessel."
+    },
+    {
+      "id": "4941531",
+      "time": "2026-06-18 00:59:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室： 涉事船舶已部署安保人員並實施還擊，可疑快艇現已撤離，距離該船超過 4 海里。"
+    },
+    {
+      "id": "4941530",
+      "time": "2026-06-18 00:59:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：收到一則事發於葉門亞丁東北方向 105 海里海域的險情報告。   兩艘小型快艇逼近一艘船隻至 4 米範圍內，並向該船開火，快艇上武裝人員人數不明。"
+    },
+    {
+      "id": "mkt:019ed685-bfc9-7dd8-b05a-e7efb713ca9b",
+      "time": "2026-06-18 00:59:10",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations said it received a report of an incident 105 nautical miles northeast of Aden, Yemen."
+    },
+    {
+      "id": "mkt:019ed683-f38e-7dd8-b05a-ddcfb0d7942a",
+      "time": "2026-06-18 00:57:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the agreement does not require enforceable non-nuclear provisions."
+    },
+    {
+      "id": "4941529",
+      "time": "2026-06-18 00:56:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：協議中無需具備可執行性的無核條款。"
+    },
+    {
+      "id": "4941528",
+      "time": "2026-06-18 00:55:44",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【大摩：市場已“跨過”伊朗戰爭的影響】摩根士丹利的首席投資官威爾遜（Mike Wilson）表示，儘管美伊雙方本週即將簽署的臨時協議擱置了這場戰爭中最棘手的諸多問題，但投資者們已經開始將目光投向美伊衝突之外。“市場已經跨過了這場戰爭。”儘管戰爭期間油價曾出現飆升，但始終未能突破俄烏衝突爆發時創下的峰值。“我們剛剛摸清了市場上到底有多少供應。”"
+    },
+    {
+      "id": "4941527",
+      "time": "2026-06-18 00:55:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若伊朗核不擴散承諾無法永久落實，美方將實施轟炸。"
+    },
+    {
+      "id": "4941526",
+      "time": "2026-06-18 00:53:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沒有人故意襲擊伊朗境內學校。"
+    },
+    {
+      "id": "4941525",
+      "time": "2026-06-18 00:53:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國對伊朗學校的襲擊正在調查中。"
+    },
+    {
+      "id": "4941524",
+      "time": "2026-06-18 00:52:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲40美元，報13814美元/噸。LME期鋁收漲22美元，報3410美元/噸。LME期鋅收漲19美元，報3588美元/噸。LME期鉛收跌3美元，報1979美元/噸。LME期鎳收漲64美元，報18060美元/噸。LME期錫收漲218美元，報55344美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "4941523",
+      "time": "2026-06-18 00:51:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果有人想投資伊朗，他們確實有石油。"
+    },
+    {
+      "id": "4941522",
+      "time": "2026-06-18 00:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（關於黎巴嫩和平）我們將與以色列合作，完成這項工作。以色列對貝魯特的襲擊是一次毫無必要的沉重打擊。"
+    },
+    {
+      "id": "te:markets:559791",
+      "time": "2026-06-18 00:50:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Maintain Slight Increase — US stock indices remained mostly higher on Wednesday ahead of the Federal Reserve's likely rate hold. The S&P 500 hovered around the flatline, although the Dow extended its record past 52,150 and the Nasdaq 100 added 0.3% after chip producers pared their losses. The Fed is due to holds rate but should unveil hints on its outlook with a fresh SEP, and Chairman Warsh could unveil timelines on framework changes he previously called for. Meanwhile, Iran and the US remained on track to sign their agreement by Friday, which will restore the export of energy from all countries in the Persian Gulf and remove sanctions on Iran, softening concerns of energy-drive inflation. Chip producers rebounded to extend their recent surges, with Broadcom, Micron, and Applied Materials adding between 4% and 7%. Also, Intel added 4% as its new chip reached risk production. In the other hand, AI hyperscalers maintained their underperformance, with Meta, Microsoft, Amazon, and Alphabet dropping over 2%."
+    },
+    {
+      "id": "4941520",
+      "time": "2026-06-18 00:49:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們的儲備在大約四周內就會用完。"
+    },
+    {
+      "id": "4941519",
+      "time": "2026-06-18 00:47:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【意總理呼籲歐盟派特使就烏克蘭危機與俄方接觸】義大利總理梅洛尼17日呼籲歐盟選派一名特使就烏克蘭危機與俄羅斯接觸。梅洛尼當天在法國埃維昂萊班七國集團峰會後新聞釋出會上說，特使人選不應來自歐盟最大的幾個成員國。她表示，找到一個代表歐盟的聲音至關重要，與俄方接觸時歐洲內部外交渠道太多會造成混亂。（新華社）"
+    },
+    {
+      "id": "4941518",
+      "time": "2026-06-18 00:46:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：倘若我們不歸還伊朗的資金，今後再也無人願意以美元開展投資。"
+    },
+    {
+      "id": "4941517",
+      "time": "2026-06-18 00:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙特阿美正尋求數百億美元資金，考慮在資產出售計劃中一併出讓硫磺業務股權。"
+    },
+    {
+      "id": "4941516",
+      "time": "2026-06-18 00:45:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果不歸還伊朗的資金，將對美元造成不利影響。"
+    },
+    {
+      "id": "4941515",
+      "time": "2026-06-18 00:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美元在我執政期間變得非常強勢。"
+    },
+    {
+      "id": "4941514",
+      "time": "2026-06-18 00:44:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗被凍結資金：這筆錢本就屬於伊朗，到合適時機，我們大概會歸還伊朗的這筆資金。"
+    },
+    {
+      "id": "4941513",
+      "time": "2026-06-18 00:43:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：感謝普京在伊朗問題上保持中立。"
+    },
+    {
+      "id": "4941512",
+      "time": "2026-06-18 00:43:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果伊朗不守規矩，他們將再次遭受打擊。"
+    },
+    {
+      "id": "4941511",
+      "time": "2026-06-18 00:42:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：3000 億美元相關資金的落實，前提是伊朗必須做出正確履約舉動。伊朗重建需要15到20年。"
+    },
+    {
+      "id": "4941510",
+      "time": "2026-06-18 00:42:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國只有在伊朗表現良好的情況下才會解除對伊朗的石油制裁。"
+    },
+    {
+      "id": "4941509",
+      "time": "2026-06-18 00:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：歐洲在移民和能源方面有些做法很糟糕。"
+    },
+    {
+      "id": "4941508",
+      "time": "2026-06-18 00:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們阻止了一場核浩劫。"
+    },
+    {
+      "id": "4941507",
+      "time": "2026-06-18 00:40:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我對內塔尼亞胡說，以色列最大的風險是遭到核打擊，但這種情況不會發生。"
+    },
+    {
+      "id": "4941506",
+      "time": "2026-06-18 00:40:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為以色列對這份伊朗協議感到滿意。"
+    },
+    {
+      "id": "4941505",
+      "time": "2026-06-18 00:39:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：美伊諒解備忘錄可能在18日或19日簽署 】美國總統特朗普17日說，美伊諒解備忘錄可能在18日或19日簽署。（新華社）"
+    },
+    {
+      "id": "4941504",
+      "time": "2026-06-18 00:38:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：墨西哥已經 “失去對本國的管控”，販毒集團實際掌控著墨西哥。"
+    },
+    {
+      "id": "4941503",
+      "time": "2026-06-18 00:37:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所提交印度本土 IPO 招股草案檔案。"
+    },
+    {
+      "id": "4941502",
+      "time": "2026-06-18 00:37:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普據悉計劃要求美國國防企業在歐洲生產導彈】知情官員透露，美國總統特朗普計劃要求美國國防企業在歐洲和烏克蘭進行武器的授權生產。週三，在法國舉行的七國集團(G7)峰會上，當被問及這些計劃時，特朗普對記者表示：“他們想這樣做，我們會對此進行研究。”烏克蘭需要防空能力，特別是攔截彈，而這類導彈只有美國能夠製造。但據匿名官員透露，由於美國在應對伊朗局勢時已消耗了大量庫存，加上提高產能需要時間，特朗普已向盟友表示將研究授權生產的可能性。“相關具體許可將由參與國進行詳細討論，”德國總理默茨週三告訴記者，“這確實涉及美國公司向歐洲製造商授予全面許可的問題。”法國總統馬克龍證實，特朗普“堅持動員美國國防工業以及供應此類裝備的能力”。"
+    },
+    {
+      "id": "4941501",
+      "time": "2026-06-18 00:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們必須對人工智慧非常謹慎。人工智慧既是好事，也可能是壞事。"
+    },
+    {
+      "id": "4941500",
+      "time": "2026-06-18 00:35:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：圍繞經濟、AI舉行了一些不錯的會議。"
+    },
+    {
+      "id": "4941499",
+      "time": "2026-06-18 00:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與普京和澤連斯基進行了非常好的對話。認為俄羅斯和烏克蘭想要採取行動，但他們不知道該如何做。"
+    },
+    {
+      "id": "4941498",
+      "time": "2026-06-18 00:35:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：上週日與俄羅斯總統普京進行了交談。在G7會議上，討論了與普京通話的最新情況。俄羅斯計程車兵傷亡人數超過烏克蘭。認為普京和澤連斯基都希望在戰爭問題上有所行動。"
+    },
+    {
+      "id": "4941496",
+      "time": "2026-06-18 00:33:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：過去兩天已同七國集團磋商其他核心議題。"
+    },
     {
       "id": "mkt:019ed66d-21d0-7dd8-b059-b87df29866fb",
       "time": "2026-06-18 00:32:16",
@@ -168893,820 +170110,6 @@
         "MKT News"
       ],
       "text": "U.S. Senate Minority Leader Schumer said Trump on camera declared \"I love inflation,\" a remark heard nationwide, and accused him of boundless contempt for the public."
-    },
-    {
-      "id": "4928844",
-      "time": "2026-06-11 01:37:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，衛星風力資料顯示“克里斯蒂娜”已減弱為熱帶低壓，預計中美洲部分地區的強降雨將持續至週四。"
-    },
-    {
-      "id": "mkt:019eb29b-4485-7dd8-afa9-d0c3ffa99cbb",
-      "time": "2026-06-11 01:36:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures jumped about 4% intraday to $91.73 a barrel."
-    },
-    {
-      "id": "mkt:019eb29a-3334-7dd8-afa9-cf73ca912ab1",
-      "time": "2026-06-11 01:35:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu says IDF has killed nearly 10,000 Hezbollah fighters】On the 10th (local time) Prime Minister Netanyahu said the IDF has killed nearly 10,000 Hezbollah fighters in firefights to date and is conducting a systematic clearance of Hezbollah forces active in southern Lebanon. The IDF said it struck Hezbollah infrastructure in southern Lebanon, including the Tyre area, over the past 24 hours and killed multiple fighters. In a Tyre-area strike an air attack hit a Hezbollah weapons storage site, triggering multiple secondary explosions. Hezbollah has not responded."
-    },
-    {
-      "id": "4928843",
-      "time": "2026-06-11 01:33:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡稱以軍已打死近萬名黎真主黨武裝人員】當地時間10日，以色列總理內塔尼亞胡在一段宣告中稱，截至目前，以色列國防軍已在交火中打死了近10000名黎巴嫩真主黨武裝人員。目前以軍正“系統性”清除活躍在黎巴嫩南部的真主黨力量。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb298-27e4-7dd8-afa9-c64558dfe93d",
-      "time": "2026-06-11 01:32:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said that before SpaceX stopped accepting subscription applications, demand for its IPO exceeded available shares by more than fourfold."
-    },
-    {
-      "id": "mkt:019eb296-93fa-7dd8-afa9-beb61d90d52b",
-      "time": "2026-06-11 01:31:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude up as much as 3% intraday, trading at $92.39/bbl."
-    },
-    {
-      "id": "mkt:019eb296-380f-7dd8-afa9-b1685110c1f5",
-      "time": "2026-06-11 01:30:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. says strikes on Iran were \"proportionate, precise\" and aimed to restore negotiating leverage】Axios reported a senior U.S. official said Tuesday night’s strikes were designed to restore some negotiating leverage while being carefully controlled to avoid fatalities and keep the door open to an agreement. The official said when Trump decided to respond the U.S. had not confirmed Iran intentionally shot down the helicopter; the White House argued that even if the Apache collided with an Iranian drone accidentally, the U.S. needed to signal it would not accept Iranian behavior in the Strait of Hormuz. U.S. officials described the action as a \"proportionate and precise\" strike limited to radar and drone-control systems and deliberately intended to avoid causing Iranian casualties. Around 5:00 p.m. ET, as U.S. jets headed to the target area, the White House informed Tehran the strikes would be confined to military facilities."
-    },
-    {
-      "id": "mkt:019eb293-ffb7-7dd8-afa9-aecf16503214",
-      "time": "2026-06-11 01:28:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Axios: Trump added two demands to Iran, delaying preliminary deal】Axios reports former President Trump likely could have struck a preliminary deal with Iran in late May if he had accepted terms negotiated by his team, but after a May 29 White House Situation Room meeting he added two conditions that delayed agreement. The new demands were that Iran begin downblending its enriched-uranium stockpile within 60 days and pledge not to levy transit fees on vessels transiting the Strait of Hormuz. Trump was willing to accept the downblending to occur inside Iran under IAEA supervision. Iran’s foreign minister told mediators and U.S. officials he needed four to five days to respond, but the pause extended to nearly two weeks. During the delay, Iran sought partial release of frozen assets before implementing obligations, while Trump insisted obligations be met first; U.S. domestic criticism of Trump’s approach also intensified."
-    },
-    {
-      "id": "4928842",
-      "time": "2026-06-11 01:26:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格奇請求給予四至五天時間，以便向調停方及美方作出答覆。"
-    },
-    {
-      "id": "4928841",
-      "time": "2026-06-11 01:25:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長表示，美國將重新加入國際能源論壇。"
-    },
-    {
-      "id": "4928840",
-      "time": "2026-06-11 01:24:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普祝賀莫迪成為印度任期最長的總理。"
-    },
-    {
-      "id": "4928839",
-      "time": "2026-06-11 01:23:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：日本三大銀行達成合作，計劃在2027年3月前推出錨定日元的穩定幣。"
-    },
-    {
-      "id": "4928838",
-      "time": "2026-06-11 01:20:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic 在日本上線Claude人工智慧，用於軟體開發自動化。"
-    },
-    {
-      "id": "mkt:019eb28c-8c40-7dd8-afa9-a752a1be8ce4",
-      "time": "2026-06-11 01:20:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Israeli source: NETANYAHU and TRUMP in close daily contact on Iran】Israeli sources said on the 10th local time that amid rising regional tensions Prime Minister NETANYAHU and US President TRUMP have maintained close contact on Iran. A prime minister’s office source said the two leaders speak almost daily and are \"fully coordinated\" in responding to Iran."
-    },
-    {
-      "id": "4928837",
-      "time": "2026-06-11 01:19:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列訊息人士稱內塔尼亞胡與特朗普保持密切溝通】當地時間10日，以色列方面訊息稱，在地區緊張局勢持續升溫之際，以色列總理內塔尼亞胡與美國總統特朗普在涉伊朗問題上保持密切溝通。一名以色列總理辦公室訊息人士稱，兩位領導人幾乎每天通話，並在應對伊朗問題上“完全協調”。（央視新聞）"
-    },
-    {
-      "id": "4928836",
-      "time": "2026-06-11 01:19:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場資訊：歐洲央行擬加息25個基點，通脹風險預示後續將進一步收緊貨幣政策。"
-    },
-    {
-      "id": "mkt:019eb28b-ecc7-7dd8-afa9-9a8bf903b738",
-      "time": "2026-06-11 01:19:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "ZELENSKIY signed a decree establishing June 11 as an annual Unmanned Systems Forces Day and said Ukraine is fully developing its unmanned systems forces. He said the Ukrainian Armed Forces' unmanned drone force (UMSF), formed a year ago, has inflicted nearly $40 billion of damage on Russian targets and that Ukrainian drones can now strike Russian forces' logistical supply lines in temporarily occupied areas."
-    },
-    {
-      "id": "mkt:019eb288-fc38-7dd8-afa9-9491e7cd44e3",
-      "time": "2026-06-11 01:16:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Fed accepted $387 mln from four counterparties in a fixed-rate reverse repo operation."
-    },
-    {
-      "id": "4928835",
-      "time": "2026-06-11 01:16:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週三（6月10日），美聯儲隔夜逆回購協議（RRP）使用規模為3.87億美元（交易對手4家），上個交易日報5.77億美元。"
-    },
-    {
-      "id": "4928834",
-      "time": "2026-06-11 01:15:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國能源部長駁斥伊朗石油扣押相關說法】美國能源部長賴特表示，他並不知曉美方有扣押數百萬桶伊朗石油的行動，這一表態與特朗普此前的言論相矛盾。賴特向國會議員說明，美軍近期協助部分油輪透過霍爾木茲海峽，並指出過去一週該海峽的油輪通行量已顯著增加。"
-    },
-    {
-      "id": "4928833",
-      "time": "2026-06-11 01:15:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國審計監管機構將對與破產抵押貸款機構MFS存在關聯的企業展開調查。"
-    },
-    {
-      "id": "mkt:019eb287-a2a3-7dd8-afa9-8adb19319311",
-      "time": "2026-06-11 01:14:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran president PEZESHKIAN: Iran will steadfastly resist pressure and threats】On the 10th local time, Iranian president PEZESHKIAN said threats against infrastructure — from transport networks to power and water utilities — are not demonstrations of strength but desperate acts against national will, and Iran will steadfastly resist any pressure or threat. Fox News reported on the 10th that U.S. President Trump said he was \"close\" to ordering new strikes on Iranian power plants and bridges, describing the move as a response to Iran \"dragging out\" negotiations."
-    },
-    {
-      "id": "4928832",
-      "time": "2026-06-11 01:14:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX首次公開募股認購超額倍數超四倍。"
-    },
-    {
-      "id": "mkt:019eb287-42e6-7dd8-afa9-83ebaa5249f2",
-      "time": "2026-06-11 01:14:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "GBPUSD",
-        "Impact bullish",
-        "CNA.L",
-        "EDF.PA"
-      ],
-      "text": "Market sources said French utility EDF and UK energy firm Centrica are poised to agree a draft deal with the UK government to extend the operating life of the Sizewell B nuclear plant by 20 years."
-    },
-    {
-      "id": "4928831",
-      "time": "2026-06-11 01:14:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國電力集團（EDF）與森特理克集團（Centrica）即將與英國政府達成框架協議，將賽茲韋爾B核電站的運營壽命延長20年。"
-    },
-    {
-      "id": "4928830",
-      "time": "2026-06-11 01:13:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：伊朗將堅定不移抵禦任何壓力和威脅】當地時間10日，伊朗總統佩澤希齊揚表示，從交通網路到電力和水務行業，任何針對這些基礎設施的威脅都不是實力展示，而是違背國家意志的絕望之舉。伊朗將堅定不移地抵禦任何壓力和威脅。美國福克斯新聞頻道10日報道稱，美國總統特朗普說他“接近”下令對伊朗的發電廠和橋樑發動新的打擊。報道說，特朗普表示，這是作為對伊朗在談判過程中一直“拖著美國”的回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb285-e094-7dd8-afa9-7d2cc5ba6e80",
-      "time": "2026-06-11 01:12:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Trump says US removing millions of barrels of oil from Iran nightly; Energy Secretary Wright says unaware】President Trump told reporters at the White House the US has been removing \"millions of barrels\" of oil from Iran every night, saying those shipments explain why oil trades around $85-90/bbl rather than $250 and that fuel prices would fall immediately once the war ends. Asked about the claim, Energy Secretary Wright said he was not aware of US shipments of Iranian oil."
-    },
-    {
-      "id": "4928829",
-      "time": "2026-06-11 01:11:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國土安全部長馬林表示，要等到7月19日世界盃落幕，他才能睡個安穩覺。"
-    },
-    {
-      "id": "4928828",
-      "time": "2026-06-11 01:11:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果稱，埃博拉確診病例數已升至635例。"
-    },
-    {
-      "id": "te:markets:558142",
-      "time": "2026-06-11 01:10:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Qualcomm Stock Price Hits 4-week Low — Qualcomm shares decreased to 191.01 USD, the lowest since May 2026. Over the past 4 weeks, Qualcomm lost 19.48%, and in the last 12 months, it increased 19.92%."
-    },
-    {
-      "id": "4928827",
-      "time": "2026-06-11 01:08:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：美國最近的大部分關稅都是不可接受的。"
-    },
-    {
-      "id": "4928826",
-      "time": "2026-06-11 01:06:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "太平洋投資管理公司警示，槓桿信貸及私募信貸機構即將迎來信貸損失週期，違約率將大幅攀升。"
-    },
-    {
-      "id": "mkt:019eb27e-a6fa-7dd8-afa9-743864731b6a",
-      "time": "2026-06-11 01:05:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. 10-year Treasury yield was little changed after a Treasury auction, up 1 bp at 4.538%."
-    },
-    {
-      "id": "mkt:019eb27e-62ce-7dd8-afa9-6ad28ee80fe0",
-      "time": "2026-06-11 01:04:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Washington is disrupting procurement networks that support Iran."
-    },
-    {
-      "id": "mkt:019eb27e-4539-7dd8-afa9-6563aeb2a934",
-      "time": "2026-06-11 01:04:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【US forces say they struck tanker violating blockade in Gulf of Oman】CENTCOM said on June 10 that U.S. forces on June 9 disabled a tanker in the Gulf of Oman after the vessel violated blockade measures. CENTCOM said the tanker attempted to transport Iranian oil and, after repeatedly ignoring U.S. orders, was struck by a U.S. aircraft using precision‑guided munitions and rendered inoperable. Since launching the blockade on April 13, CENTCOM said U.S. forces have disabled eight non‑compliant tankers, diverted 134 vessels cooperating with inspections and allowed 42 ships carrying humanitarian aid to pass."
-    },
-    {
-      "id": "4928825",
-      "time": "2026-06-11 01:04:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英國考慮調整美國有限責任公司等機構相關人員的稅收政策，擬為部分個人降低實際高稅率。"
-    },
-    {
-      "id": "4928824",
-      "time": "2026-06-11 01:04:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率在拍賣結束後變動不大，最新上漲1個基點，報4.538%。"
-    },
-    {
-      "id": "4928823",
-      "time": "2026-06-11 01:03:31",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特：藉助“經濟怒火行動”，財政部正打擊為伊朗軍方採購武器的境外相關網路。財政部已凍結伊朗相關資產，重創其經濟，並瓦解其戰爭體系。美方絕不允許任何勢力為伊朗軍方提供支援。"
-    },
-    {
-      "id": "mkt:019eb27d-2641-7dd8-afa9-58073f38f525",
-      "time": "2026-06-11 01:03:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. State Department announced an additional $20 million to support ongoing Ebola response and preparedness efforts."
-    },
-    {
-      "id": "4928822",
-      "time": "2026-06-11 01:02:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：宣佈為該部門持續開展的埃博拉應對與防範工作追加2000萬美元資金。"
-    },
-    {
-      "id": "4928821",
-      "time": "2026-06-11 01:02:24",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣390億美元10年期國債，得標利率4.538%（5月12日為4.468%），投標倍數2.57（前次為2.40）。"
-    },
-    {
-      "id": "mkt:019eb27c-1eed-7dd8-afa9-504aaf0f4821",
-      "time": "2026-06-11 01:02:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. 10-year Treasury auction bid-cover ratio 2.57 on June 10; prior 2.40."
-    },
-    {
-      "id": "mkt:019eb27c-1171-7dd8-afa9-48b5838c0c8a",
-      "time": "2026-06-11 01:02:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 10-year Treasury auction June 10 stop-out yield 4.538%, prior 4.47%."
-    },
-    {
-      "id": "mkt:019eb27c-09dc-7dd8-afa9-423057ff5537",
-      "time": "2026-06-11 01:02:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "U.S. 10-year Treasury auction through June 10: share of awarded amount at the winning yield 71.34% (prior 22%)."
-    },
-    {
-      "id": "mkt:019eb27b-ea6e-7dd8-afa9-3ffaeea1997f",
-      "time": "2026-06-11 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 10-Year Note Auction Bid/Cover Ratio (Jun.10) | actual 2.57 | previous 2.4"
-    },
-    {
-      "id": "mkt:019eb27b-ea45-7dd8-afa9-31cd16d4b469",
-      "time": "2026-06-11 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 10-Year Note Auction Accepted at High (Jun.10) | actual 71.34% | previous 22%"
-    },
-    {
-      "id": "mkt:019eb27b-ea43-7dd8-afa9-2c364a4e7a6f",
-      "time": "2026-06-11 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | 10-Year Note Auction High Yield Rate (Jun.10) | actual 4.538% | previous 4.47%"
-    },
-    {
-      "id": "4928820",
-      "time": "2026-06-11 01:01:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：今天要和墨西哥總統舉行電話會議。"
-    },
-    {
-      "id": "mkt:019eb27a-ce76-7dd8-afa9-2419aea475f1",
-      "time": "2026-06-11 01:00:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said he was not aware of any U.S. shipments of oil from Iran."
-    },
-    {
-      "id": "4928819",
-      "time": "2026-06-11 01:00:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "390億美元拍賣前，10年期美國國債收益率為4.539%。"
-    },
-    {
-      "id": "4928818",
-      "time": "2026-06-11 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.94%，滬銅收跌0.79%，滬鋁收漲0.02%，滬鋅收跌1.98%，滬鉛收跌0.09%，滬鎳收跌0.72%，滬錫收跌0.04%。氧化鋁夜盤收漲0.73%，鋁合金收漲0.63%。不鏽鋼夜盤收漲0.17%。"
-    },
-    {
-      "id": "mkt:019eb278-4904-7dd8-afa9-18a9ec2f5b11",
-      "time": "2026-06-11 00:58:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "The Verge reports Microsoft has restricted employees' use of Claude Fable, citing concerns about data retention."
-    },
-    {
-      "id": "4928817",
-      "time": "2026-06-11 00:57:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美國持續從伊朗偷運石油】特朗普還透露“美國一直在從伊朗運走石油”。他說：“我們一直都在運出數百萬桶石油，每晚都是數百萬桶。”據特朗普稱，伊朗“剛剛發現這件事”。但他沒有透露有關這些行動的更多細節。 特朗普表示，美國仍在尋求與伊朗達成協議。據他稱，伊朗已同意不獲取核武器，但該協議仍需簽署。"
-    },
-    {
-      "id": "4928816",
-      "time": "2026-06-11 00:56:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【因資料留存相關顧慮，微軟限制員工使用Claude Fable】Anthropic昨日推出首款Mythos系列AI模型Claude Fable，而這款產品已在微軟內部引發擔憂。據訊息人士透露，由於Anthropic更新了資料留存相關要求，微軟已限制員工使用Claude Fable 5。微軟雖迅速面向旗下GitHub Copilot與Foundry客戶開放了Claude Fable 5，但該模型並未出現在微軟員工內部版GitHub Copilot的模型選擇列表中。微軟內部仍可正常使用其他版本的Claude模型，這類模型均遵循零資料留存規則。微軟已告知員工，法務團隊正在評估Anthropic的資料留存新規。公司主要顧慮客戶資料與機密資訊保安，目前法務部門尚未確定是否批准員工在內部使用Claude Fable。"
-    },
-    {
-      "id": "mkt:019eb276-4ac9-7dd8-afa9-144966a520e7",
-      "time": "2026-06-11 00:55:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Rosneft Kuibyshev refinery halts processing after drone strike】Rosneft’s Kuibyshev refinery halted oil-processing operations on June 10 after a drone strike damaged equipment and sparked a fire, two industry sources said. The attack knocked out two atmospheric crude distillation units, CDU-4 and CDU-5, each with roughly 10,000 mt/day (≈73,000 bpd) capacity — about 20,000 mt/day (≈146,000 bpd) of processing capacity affected."
-    },
-    {
-      "id": "4928815",
-      "time": "2026-06-11 00:55:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟限制員工使用Claude Fable模型。"
-    },
-    {
-      "id": "4928814",
-      "time": "2026-06-11 00:54:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度高階專員：全球投資者仍對加拿大的監管流程與專案審批流程持謹慎態度。"
-    },
-    {
-      "id": "mkt:4fdd354c-b7c1-4113-8398-d3f8548ca3fa",
-      "time": "2026-06-11 00:54:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's high commissioner to Canada said global investors remain cautious about Canada's regulatory processes and project approval procedures."
-    },
-    {
-      "id": "mkt:aa95d2d6-7a64-4a73-a386-7b37253b4544",
-      "time": "2026-06-11 00:53:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian Sea Ports Authority said two vessels were attacked while transiting the Ukrainian Black Sea corridor; the damaged ships were flagged Panama and Barbados."
-    },
-    {
-      "id": "4928813",
-      "time": "2026-06-11 00:53:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭港務局表示，兩艘分別懸掛巴拿馬國旗和巴貝多國旗的船隻在經由烏克蘭黑海航道航行時遇襲受損。"
-    },
-    {
-      "id": "mkt:ae4313ef-4f6b-453e-995a-fa9b949ad3db",
-      "time": "2026-06-11 00:53:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's high commissioner to Canada said India's new refineries are configured to process heavy crude, making Canadian barrels a potential source. India and Natural Resources Canada are holding regular meetings to explore purchases of Canadian energy."
-    },
-    {
-      "id": "4928812",
-      "time": "2026-06-11 00:53:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌正面向拉美、非洲、中東等地區使用者，在瀏覽器Chrome中上線Gemini人工智慧功能。"
-    },
-    {
-      "id": "4928811",
-      "time": "2026-06-11 00:52:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "比爾·蓋茨向美國國會表示：與愛潑斯坦斷絕往來後，對方曾利用掌握的其婚外情資訊對我進行施壓。我得知愛潑斯坦掌握了我的私人隱私，包括我婚內出軌一事。"
-    },
-    {
-      "id": "mkt:eb179e9b-ce5e-461b-a329-a11410351e3e",
-      "time": "2026-06-11 00:52:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu told the people of Lebanon that Israel is not at war with the Lebanese people and that its fight is against Hezbollah."
-    },
-    {
-      "id": "mkt:575a2dc4-2580-4650-8a54-1cd08767c0d1",
-      "time": "2026-06-11 00:51:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's Ministry of Mines and Energy has launched tenders for clean-energy and energy-storage projects to secure long-term power supply."
-    },
-    {
-      "id": "mkt:db715e13-061b-41fc-bad9-849823ee377d",
-      "time": "2026-06-11 00:51:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's high commissioner to Canada said India is considering Canada as a potential crude oil supplier."
-    },
-    {
-      "id": "4928810",
-      "time": "2026-06-11 00:51:17",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【亞馬遜獲得花旗牽頭銀團總計175億美元貸款額度】亞馬遜公司在監管檔案中披露，已與由花旗集團牽頭的銀團簽署了一項總額175億美元的貸款協議。根據週三提交的監管檔案，貸款方同意提供這筆延遲提取定期貸款(DDTL)，額度將保留至今年9月底。亞馬遜每次動用信貸額度借款時，均需在借款之日起三年內償還。該貸款的利率將在有擔保隔夜融資利率(SOFR)的基礎上，上浮0.625至0.875個百分點，具體幅度取決於亞馬遜的信用評級。參與此次交易的其他銀行包括摩根大通、美國銀行、滙豐銀行和富國銀行。此外，還有十幾家銀行也參與了此次融資。"
-    },
-    {
-      "id": "4928809",
-      "time": "2026-06-11 00:51:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度駐加拿大高階專員：印度正考慮將加拿大列為潛在原油供應國。"
-    },
-    {
-      "id": "4928808",
-      "time": "2026-06-11 00:50:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：比亞迪將投資近20億歐元，在歐洲佈局可實現五分鐘快充技術的配套基礎設施。"
-    },
-    {
-      "id": "4928807",
-      "time": "2026-06-11 00:50:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞礦業與能源部：哥倫比亞啟動清潔能源與儲能專案拍賣，以保障長期電力供應。"
-    },
-    {
-      "id": "mkt:724d27c6-b076-4e83-99c3-e7a2ebb3e30f",
-      "time": "2026-06-11 00:50:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. 10-yr Treasury auction (June 10): award yield and bid-cover ratio due in 10 minutes."
-    },
-    {
-      "id": "mkt:9e6a3bc7-0ac4-45fb-b07c-34eb17ddbad1",
-      "time": "2026-06-11 00:49:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Russia's Kuibyshev refinery has suspended refining operations since June 10 after a drone attack."
-    },
-    {
-      "id": "4928806",
-      "time": "2026-06-11 00:49:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯古比雪夫煉油廠在遭遇無人機襲擊後，已於6月10日暫停原油加工。"
-    },
-    {
-      "id": "4928805",
-      "time": "2026-06-11 00:45:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：關鍵基礎設施是人民生活的命脈。威脅針對它們——從交通網路到電力和水工業——不是力量的展示，而是面對一個國家意志時的絕望表現。伊朗依靠專家的知識和能力、民族團結和凝聚力，將在任何壓力和威脅面前屹立不倒。"
-    },
-    {
-      "id": "4928804",
-      "time": "2026-06-11 00:45:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：以打擊基礎設施相威脅，並非實力的體現，而是走投無路的表現。"
-    },
-    {
-      "id": "4928803",
-      "time": "2026-06-11 00:45:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國中央司令部在阿曼海灣截停違規船隻】美國中央司令部表示，6月9日晚間11時14分，又一艘船隻違反現行封鎖規定，試圖運送伊朗石油，美軍遂在阿曼海灣截停一艘油輪，這已是連續第二天採取此類行動。帛琉籍油輪“塞特貝洛”號在阿曼海灣航行途中被美國中央司令部截停。該船船員多次拒不服從美軍指令，隨後美軍戰機向其機艙發射精確彈藥。自4月13日實施封鎖以來，美軍中央司令部已截停八艘違規船隻，引導134艘合規船隻改道，並放行42艘執行人道主義援助任務的船隻。"
-    },
-    {
-      "id": "mkt:559c2012-d446-405b-8c41-7d940d5fc490",
-      "time": "2026-06-11 00:44:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's president said threats targeting infrastructure are not a show of strength but a sign of desperation."
-    },
-    {
-      "id": "mkt:6b6913de-fdf0-4292-9de8-8020b9ac3a85",
-      "time": "2026-06-11 00:44:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Council President Costa said the EU and South Korea are strengthening a strategic partnership and expanding cooperation on security, trade, economic and industrial policy."
-    },
-    {
-      "id": "4928802",
-      "time": "2026-06-11 00:44:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院監督委員會民主黨議員加西亞：到目前為止，比爾·蓋茨一直很配合。"
-    },
-    {
-      "id": "4928801",
-      "time": "2026-06-11 00:43:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：我們無意樹敵，也不願與各方對立，我們始終願做友善的夥伴。我們希望不久之後，也能與古巴政府領導層建立友好關係。"
-    },
-    {
-      "id": "4928800",
-      "time": "2026-06-11 00:43:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲理事會主席科斯塔：歐盟與韓國正深化戰略伙伴關係，在安全、貿易、經濟及產業政策領域加強合作，攜手為民眾謀求福祉與安全。"
-    },
-    {
-      "id": "mkt:f260cb92-74f2-44ce-9b7b-347556e004ad",
-      "time": "2026-06-11 00:41:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury says on its website the United States has imposed new sanctions on Iran."
-    },
-    {
-      "id": "4928799",
-      "time": "2026-06-11 00:41:13",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部網站公佈對伊朗實施新制裁。"
-    },
-    {
-      "id": "4928798",
-      "time": "2026-06-11 00:40:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思在關塔那摩灣表示：古巴政府若試圖獲取可打擊該基地乃至美國本土的武器，實屬不明智之舉。此舉只會引發對抗，這既是古巴不願看到的，也是其無力承受的。世界上沒有任何國家能與美國的實力相抗衡。"
-    },
-    {
-      "id": "4928797",
-      "time": "2026-06-11 00:39:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列外交部長：國際原子能機構理事會今日就一項決議進行投票，明確指出伊朗政權公然違反《不擴散核武器條約》相關承諾。伊朗方面拒不配合核查、拒絕開放相關場所且不願整改違規問題，這種情況不能再持續下去。將此事提交聯合國安理會處理勢在必行，且早已刻不容緩。"
-    },
-    {
-      "id": "4928796",
-      "time": "2026-06-11 00:38:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：看看委內瑞拉和尼古拉斯·馬杜羅，他曾以為可以公然挑釁美國。結果在深夜短短45分鐘內，該國首都戒備最森嚴的基地裡，一處防守最強的據點就被攻克。要知道，俄方防空力量和古巴守衛都無力抵擋我方特戰人員、遊騎兵部隊，這些勇士總能完成艱鉅任務。"
-    },
-    {
-      "id": "4928795",
-      "time": "2026-06-11 00:38:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普稱他認為AI公司會同意“回饋”公眾】美國總統特朗普週三表示，他預計頂級人工智慧（AI）公司將同意向公眾“回饋”，這顯然是指政府可能入股這些公司。“我很快將與12到15位高管舉行會議，我們將討論向公眾回饋一些東西，如果我們這樣做，公眾將變得非常富有，”特朗普在白宮橢圓形辦公室對記者稱。“我認為他們會這麼做，而且我認為這會讓他們非常受歡迎。”"
-    },
-    {
-      "id": "mkt:cf3d1cf6-2c66-4c4f-af1a-085bc8136c99",
-      "time": "2026-06-11 00:37:14",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Trump: I love inflation】Asked whether he was worried about today’s inflation print, US President Trump said, \"No, I like it. I love inflation.\" Data showed US May CPI rose 4.2% YoY, a three-year high; core CPI YoY at its highest since September last year."
-    },
-    {
-      "id": "4928794",
-      "time": "2026-06-11 00:35:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普稱將與人工智慧公司高管討論回饋公眾】美國總統特朗普在白宮向記者表示，他在與人工智慧企業高管討論“向公眾回饋一些東西”。特朗普稱，他將“很快”與12至15位AI領域主要高管會面。"
     }
   ]
 }
