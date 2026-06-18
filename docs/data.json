@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-19 06:58:41",
-  "count": 18972,
+  "updated": "2026-06-19 07:04:16",
+  "count": 18968,
   "items": [
+    {
+      "id": "4944366",
+      "time": "2026-06-19 07:01:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios： 特朗普稱，經歷伊朗相關事件後，自身權力 “不受任何限制”。"
+    },
+    {
+      "id": "4944365",
+      "time": "2026-06-19 07:01:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國6月Gfk消費者信心指數 -23，預期-24，前值-23。"
+    },
+    {
+      "id": "mkt:019edcf7-7776-7dd8-b089-9a78f3cb901f",
+      "time": "2026-06-19 07:01:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK June GfK consumer confidence index -23; consensus -24; May -23."
+    },
+    {
+      "id": "mkt:019edcf7-60cf-7dd8-b089-940bc2750e5f",
+      "time": "2026-06-19 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GfK Consumer Confidence Index (Jun) | actual -23 | consensus -24 | previous -23"
+    },
+    {
+      "id": "te:economy:560193",
+      "time": "2026-06-19 06:59:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Imports Jump 25.9% in May — Imports to New Zealand surged 25.9% year-on-year to NZD 8.8 billion in May 2026, following a downwardly revised 3.0% increase in the previous month."
+    },
     {
       "id": "te:economy:560192",
       "time": "2026-06-19 06:56:23",
@@ -174554,85 +174603,6 @@
         "公司"
       ],
       "text": "【AI算力需求爆發，PCB行業掀起擴產潮】在AI算力需求爆發性增長驅動下，PCB（印製電路板）產業正迎來一輪擴產潮。據不完全統計，截至6月11日，年內已有13家PCB製造企業宣佈擴產，投資金額超600億元（含意向）。近日，記者採訪多家產業鏈上市公司高管發現，本輪擴產並非簡單的規模擴張，而更像是一場圍繞高階產能及全球市場份額展開的卡位戰。（上證報）"
-    },
-    {
-      "id": "4931327",
-      "time": "2026-06-12 07:04:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【太空算力“星”途：在技術攻關與場景拓展中尋求落地節奏】隨著國內多個太空算力行業組織與機構成立、算力星座規劃陸續出爐，太空算力正從理論暢想、資本市場的熱門概念，走向實際的產業佈局。記者採訪瞭解到，AI潛在的算力缺口、商業航天的發展以及全球新的競爭格局催生太空算力需求，促使各類主體積極佈局。作為一項“超級系統工程”，太空算力涉及鏈條長、覆蓋領域多，目前尚有諸多攻堅難點，標準體系亦不健全。不過，專家認為，較之技術，如何實現商業閉環才是太空算力發展的最大挑戰，技術攻關與場景商業化拓展將共同決定其規模化落地節奏。（上證報）"
-    },
-    {
-      "id": "4931326",
-      "time": "2026-06-12 07:03:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱南部爆炸聲因對抗違規油輪】據伊朗官方媒體當地時間今天（6月12日）凌晨援引訊息人士報道稱，伊朗南部城市錫裡克附近稍早前傳出的爆炸聲與“對抗試圖違規透過霍爾木茲海峽的船隻”有關。據報道，該船為一艘油輪，在伊朗伊斯蘭革命衛隊海軍發出警告後，已遵守伊朗針對霍爾木茲海峽的“禁航令”。#特朗普稱取消打擊伊朗行動# 當地時間6月11日凌晨，美軍連續第二天襲擊伊朗多地後，伊朗宣佈霍爾木茲海峽“對所有船隻關閉”。"
-    },
-    {
-      "id": "4931325",
-      "time": "2026-06-12 07:03:26",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【券商打起Skill服務“卡位戰” 競爭分水嶺在於構建金融業務“數字孿生地圖”】打造數字人的競爭硝煙還未完全散去，券商又打起了Skill（智慧體技能）服務的“卡位戰”。近期，華泰證券、廣發證券、國信證券、中金公司等頭部券商密集上線各類Skill工具，覆蓋投研、投顧等多個業務場景。部分中小券商也在借道第三方機構試水Skill。證券時報記者調研發現，Skill看似熱鬧，實則技術門檻兩極分化，且難以規避人工智慧（AI）幻覺問題。有受訪人士表示，券商AI應用場景競爭的真正分水嶺不在於堆砌Skill數量，而在於能否構建出金融業務的“數字孿生地圖”。"
-    },
-    {
-      "id": "4931324",
-      "time": "2026-06-12 07:02:40",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【“對賭協議”即將迎來政策層面規範 機構競爭力將回歸價值發現本身】近兩年爭議和糾紛頻頻出現的一級市場投資對賭問題，即將迎來政策層面的規範。6月5日，國務院辦公廳公佈《國務院辦公廳關於加強監管防範風險促進私募投資基金高質量發展的指導意見》（以下簡稱《指導意見》），其中明確提到，出臺規範私募基金“對賭協議”的制度安排。雖然具體細則尚未公佈，但也引發了一級市場的廣泛關注和討論。在當前一級市場的投資實踐中，為了降低投資風險、確保投資退出渠道暢通，多數投資人會在投資協議中加入對賭回購條款，甚至會要求公司的實際控制人、聯合創始人等對回購義務承擔連帶責任。對大多數創業者來說，不簽下這一紙協議就拿不到投資款項，成為股權融資中不得不接受的條件。業內人士普遍認為，當前投資對賭協議有其存在的現實意義，但行業內也同時存在一些弊病和亂象。專門針對“對賭協議”的制度安排即將出爐，也是政策層面首次對這一投資細節的發聲。釋放出的訊號是，投資對賭條款或將從“市場自由約定”的狀態逐步納入監管視野，未來相關協議的效力認定、履行邊界和違約責任都將更加有理有據，有更清晰的指引。當“靠嚴苛條款保底”的路徑被規範後，機構的競爭力將真正迴歸到行業洞察、投後賦能和價值發現本身。（證券時報）"
-    },
-    {
-      "id": "mkt:019eb8eb-e074-7dd8-afcc-70680acf974a",
-      "time": "2026-06-12 07:02:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Wall Street Journal reports Trump and allies are drawing up plans to \"expunge\" impeachment records."
-    },
-    {
-      "id": "4931323",
-      "time": "2026-06-12 07:01:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 特朗普及其盟友正籌劃撤銷此前的彈劾案。"
-    },
-    {
-      "id": "mkt:019eb8ea-7a60-7dd8-afcc-6d6b5f97a413",
-      "time": "2026-06-12 07:00:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's central bank kept its benchmark interest rate at 4.25%, in line with market expectations."
-    },
-    {
-      "id": "4931322",
-      "time": "2026-06-12 07:00:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行維持基準利率在 4.25% 不變。"
-    },
-    {
-      "id": "te:markets:558480",
-      "time": "2026-06-12 06:58:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Set to Close Week on High Note — The NZX 50 climbed 54 points, or 0.4%, to 13,256 in Friday morning trade, erasing losses from the previous session and rebounding from its lowest level in over two weeks, reached a day earlier, tracking a rise on Wall Street overnight amid easing tensions in the Middle East and a rally in tech shares. Almost all sectors traded in the green, including financials, energy, and materials. However, the latest data capped gains as New Zealand's manufacturing sector contracted for the first time in 11 months, amid rising oil prices due to the Middle East conflict. Traders also anticipated the release of New Zealand's Q1 GDP and May trade balance data, as well as the Fed's monetary policy decision next week. Among early gainers were Infratil (1.6%), Contact Energy (1.1%), A2 Milk (0.8%), Ebos Group (0.7%), and Mainfreight (0.4%). For the week, the index rose 0.3%, after falling in the previous week."
     }
   ]
 }
