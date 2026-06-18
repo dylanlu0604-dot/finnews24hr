@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-19 02:52:50",
-  "count": 19058,
+  "updated": "2026-06-19 02:56:47",
+  "count": 19060,
   "items": [
+    {
+      "id": "4944248",
+      "time": "2026-06-19 02:55:12",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【倫敦股市18日下跌】英國倫敦股市《金融時報》100種股票平均價格指數18日報收於10399.70點，較前一交易日下跌108.91點，跌幅為1.04%。歐洲三大股指當天漲跌不一。當天倫敦股市成分股中位於漲幅前五位的個股分別為：資訊服務公司英富曼股價上漲2.76%，極地資本科技信託公司股價上漲2.66%，國際聯合航空集團股價上漲2.30%，約翰-戴維運動時裝公司股價上漲2.22%，生命安全技術企業豪邁集團股價上漲2.17%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：倫敦證交所集團股價下跌7.00%，房地產商珀西蒙公司股價下跌6.17%，貴金屬生產商弗雷斯尼洛股價下跌5.83%，奮進礦業公司股價下跌5.73%，出版集團勵訊股價下跌3.97%。"
+    },
+    {
+      "id": "mkt:019edc14-5a7e-7dd8-b087-1ba9ee974039",
+      "time": "2026-06-19 02:53:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Goldman Sachs says an accelerated Middle East capacity recovery could raise the aluminium market surplus to about 1.2 mln t and push prices down to roughly $2,750/ton."
+    },
+    {
+      "id": "mkt:019edc13-dad0-7dd8-b087-1416ad5982bb",
+      "time": "2026-06-19 02:52:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Goldman Sachs said a slower-than-expected restart of damaged Middle East capacity could widen the 2027 aluminium market surplus to about 100,000 tonnes and keep prices near $3,250/tonne."
+    },
     {
       "id": "4944247",
       "time": "2026-06-19 02:51:57",
@@ -175440,16 +175470,6 @@
         "Energy"
       ],
       "text": "India issued a notice requiring institutional, direct-supply and industrial/commercial customers to source petrol and high-speed diesel (HSD) only via their own retail fueling facilities."
-    },
-    {
-      "id": "mkt:019eb80a-0331-7dd8-afc9-1c6b7345a02b",
-      "time": "2026-06-12 02:55:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "India has issued a notice barring institutional, industrial and commercial customers from purchasing petrol and high‑speed diesel (HSD) at retail fuel stations."
     }
   ]
 }
