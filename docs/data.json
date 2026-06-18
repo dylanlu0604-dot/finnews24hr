@@ -1,7 +1,149 @@
 {
-  "updated": "2026-06-18 21:48:29",
-  "count": 18936,
+  "updated": "2026-06-18 21:52:37",
+  "count": 18941,
   "items": [
+    {
+      "id": "mkt:019edb00-52af-7dd8-b07f-c1b0ee9b1a09",
+      "time": "2026-06-18 21:51:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude oil slipped below $73/bbl, down 3.66% intraday."
+    },
+    {
+      "id": "4943719",
+      "time": "2026-06-18 21:51:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏魯木齊推出階段性購房補貼政策，新房一次性補貼8000元】6月18日，記者從烏魯木齊市住房和城鄉建設局瞭解到，購房補貼堅持公平普惠、精準施策、便捷高效、公開透明的原則，補貼物件為在烏魯木齊市行政區域內購房的自然人。購房者購買已取得《商品房預售許可證》或《商品房現售備案證書》的新建商品住房，在規定時間內簽訂購房合同並完成網籤備案，即可申領補貼。政策明確劃定補貼適用範圍，二手住房、各類保障性住房、公寓、商鋪、寫字樓、車庫車位等非住宅房源，均不享受本次購房補貼。補貼標準為每套新房一次性補貼8000元，同一套房屋僅限享受一次補貼。本次政策實施期自2026年6月17日起至6月30日止。（新疆日報）"
+    },
+    {
+      "id": "4943718",
+      "time": "2026-06-18 21:51:19",
+      "tags": [
+        "央行",
+        "公司",
+        "市場"
+      ],
+      "text": "【英國央行公佈決議後，英鎊前景取決於英國資料和政治】Monex Europe的Nick Rees在一份報告中表示，在英國央行週四將利率維持在3.75%不變之後，即將公佈的英國經濟資料和國內政治動向將決定英鎊是否會繼續走弱。他表示，儘管由九名成員組成的貨幣政策委員會有兩人投票贊成加息，但英國央行的溝通表明，總體而言，短期內缺乏改變政策的緊迫性。他說，如果資料進一步顯示出經濟疲軟的跡象，並且政治風險上升，英鎊可能會進一步下跌。倫敦證券交易所集團的資料顯示，英鎊跌至10周低點1.3202美元。歐元升至三週高點0.8675英鎊。"
+    },
+    {
+      "id": "mkt:019edaff-f6ce-7dd8-b07f-b904daf1bce0",
+      "time": "2026-06-18 21:51:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Industry sources reported a drone strike on June 18 damaged the Euro+ primary crude distillation unit and several other units at a Moscow refinery. It was the facility’s second drone attack within a week."
+    },
+    {
+      "id": "4943717",
+      "time": "2026-06-18 21:50:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM股價跌幅擴大至7%。"
+    },
+    {
+      "id": "4943716",
+      "time": "2026-06-18 21:50:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報76.85美元/桶。"
+    },
+    {
+      "id": "4943715",
+      "time": "2026-06-18 21:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "業內訊息人士稱，無人機損毀了莫斯科一家煉油廠的Euro+一號主加工裝置及其他幾套裝置。"
+    },
+    {
+      "id": "4943714",
+      "time": "2026-06-18 21:50:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "業內訊息人士稱，6月18日莫斯科一座煉油廠在一週內的第二次無人機襲擊中受損。"
+    },
+    {
+      "id": "4943713",
+      "time": "2026-06-18 21:50:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴基斯坦總理原定出訪瑞士的行程已取消，官方未說明取消原因。"
+    },
+    {
+      "id": "mkt:019edafe-fd96-7dd8-b07f-b538b1f15fa1",
+      "time": "2026-06-18 21:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Conference Board Leading Economic Index m/m for May due in 10 minutes."
+    },
+    {
+      "id": "mkt:019edafe-ed14-7dd8-b07f-aeb405030442",
+      "time": "2026-06-18 21:50:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Analysis: Hawkish Fed more likely to push gold below $4,000 than to reclaim $5,000】Spot gold fell on Thursday as the dollar strengthened after the Federal Reserve signalled a hawkish tilt; the dollar index rose. The Fed left rates unchanged on Wednesday but policymakers pencilled in further hikes later this year as inf remains above target. Fed chair KEVIN WARSH said he will convene working groups to review central bank operations. Market strategist Han Tan said a hawkish Fed makes spot gold likelier to slip below $4,000/oz than to regain $5,000/oz in H2 2026 and warned that a revamp of Fed communications could amplify gold’s reactions to US data. ANZ noted weak investment demand — ETF outflows and lower holdings — though Chinese physical buying and central bank purchases are providing support."
+    },
+    {
+      "id": "mkt:019edafe-cba5-7dd8-b07f-a208d9393041",
+      "time": "2026-06-18 21:49:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【More tankers and LNG carrier transit Strait of Hormuz】A maritime tracking platform showed three oil tankers and one LNG carrier transited the Strait of Hormuz on the 18th; the three Saudi-flagged tankers carried about 6 million barrels of crude. Reuters, citing Iranian state TV, reported vessels still must coordinate passage with the IRGC Navy."
+    },
+    {
+      "id": "4943712",
+      "time": "2026-06-18 21:49:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波羅的海國際海事理事會：霍爾木茲海峽風險猶存 水雷依然存在】波羅的海國際海事理事會(BIMCO)在透過電子郵件釋出的一份宣告中表示，儘管美國與伊朗達成協議，允許船隻透過霍爾木茲海峽，航運仍面臨重大安全和安保風險。BIMCO首席安全與安保官Jakob Larsen表示，霍爾木茲海峽中部已佈雷，無法通航，而只有靠近阿曼和伊朗的沿岸通航區據報沒有水雷。Larsen說：“由於沿岸通航區存在擁堵和航行事故風險，我們目前仍認為船舶開始通行存在風險”。Larsen表示，這份諒解備忘錄也帶來了若干疑問，在交通分流措施和船舶安保程式等關鍵問題上沒有提供足夠資訊。"
+    },
+    {
+      "id": "mkt:019edafd-7ee8-7dd8-b07f-9dd47d38d85d",
+      "time": "2026-06-18 21:48:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell more than 2% intraday to $76.95/bbl."
+    },
     {
       "id": "te:markets:560120",
       "time": "2026-06-18 21:47:37",
@@ -174430,92 +174572,6 @@
         "焦點"
       ],
       "text": "納指漲1.02%，現報25426.523點；道指漲0.78%，現報50306.961點；標普500指數漲0.69%，現報7316.890點。"
-    },
-    {
-      "id": "4930794",
-      "time": "2026-06-11 21:52:03",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行決議和拉加德新聞釋出會要點彙總】①關於決議結果：歐洲央行三年來首次加息25個基點至2.25%。全體一致透過該決議，沒有討論其他替代方案。利率決議並非激進舉措，加息是一個訊號，也是必要舉措。②關於未來利率政策路徑：尚未討論中性利率或未來利率區間，未來加息路徑將取決於經濟資料和通脹走勢。若能源價格持續高企並帶來第二輪效應，可能進一步調整政策。③關於通脹和經濟：通脹已開始在歐元區經濟中擴散，部分核心通脹指標因能源衝擊已上升，能源價格上漲預計將在今年夏季進一步推高通脹，並使通脹在2027年上半年前持續高於目標。④關於經濟增長預期：中東局勢加劇全球不穩定，經濟增長風險偏向下行。能源衝擊加劇供應鏈壓力，對歐元區經濟造成多重影響。調查顯示經濟活動放緩，尤其是服務業。勞動力市場仍然穩健，工資增長有望在今年放緩。⑤關於伊朗衝突：伊朗衝突的影響持續超出預期。將密切關注衝突帶來的各類經濟後果，包括能源價格、貿易、投資、消費等。"
-    },
-    {
-      "id": "mkt:019eb6f4-3ae5-7dd8-afc3-6130f6fb182e",
-      "time": "2026-06-11 21:51:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon (AMZN.O) launches Alexa+ across Canada in French and English."
-    },
-    {
-      "id": "4930793",
-      "time": "2026-06-11 21:51:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【格力電器：綜合運用現金分紅、股份回購、投資者關係管理等方式促進股價反映公司投資價值】格力電器6月11日在互動平臺表示，公司重視市值管理，立足提升經營效率和盈利能力，並結合自身情況，綜合運用現金分紅、股份回購、投資者關係管理等方式促進股價反映公司投資價值。公司近三年盈利水平穩居行業前列，持續實施高額分紅，近三年累計分紅467億元，分紅水平領先行業。2026年公司推出50億—100億元股份回購計劃，不低於70%的回購股份將登出以提升每股收益。公司已實施的員工持股計劃覆蓋近萬人，有效激發團隊活力與創新動能。"
-    },
-    {
-      "id": "4930792",
-      "time": "2026-06-11 21:51:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多證券交易所指數延續漲勢，上漲1.1%。"
-    },
-    {
-      "id": "4930791",
-      "time": "2026-06-11 21:50:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：英法德聯合澤連斯基提出的和談條件“毫無新意”】俄羅斯外交部發言人扎哈羅娃11日對英法德領導人聯合澤連斯基發表的宣告作出回應。宣告支援俄烏在美國參與下直接談判，要求為烏克蘭提供具有法律約束力的安全保障，包括部署多國部隊，並在俄方全額賠償前繼續凍結俄資產。扎哈羅娃說，這些條件“毫無新意”且一開始就不可接受。他們“還在為烏克蘭增產遠端武器，推動烏克蘭和歐洲軍事化”。扎哈羅娃引用歐盟外交與安全政策高階代表卡拉斯的話說，歐洲永遠不會成為中立調解人，因為歐洲站在烏克蘭一邊。（央視新聞）"
-    },
-    {
-      "id": "4930789",
-      "time": "2026-06-11 21:49:43",
-      "tags": [],
-      "text": "費城半導體指數漲超4％，英特爾漲超10％，ARM張近7％，AMD漲近5％。"
-    },
-    {
-      "id": "4930788",
-      "time": "2026-06-11 21:49:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：ALEXA+現已在加拿大全面上線，Prime會員可免費使用。"
-    },
-    {
-      "id": "4930787",
-      "time": "2026-06-11 21:49:06",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特11日在社交媒體發文說，伊朗若對美國在海灣地區的盟友造成任何損害，相關損失都將從伊朗賬戶資金中予以扣除。他說，任何繳付給波斯灣海峽管理局的費用，也將從伊朗的賬戶資金中抵扣。伊朗每發動一次襲擊，只會使其面臨的經濟與金融後果更加嚴重。（新華社）"
-    },
-    {
-      "id": "mkt:019eb6f1-8003-7dd8-afc3-5d4f532c1dfb",
-      "time": "2026-06-11 21:48:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【ECB publishes three scenario projections】The ECB published three scenarios for euro-area inf. Adverse: inf 3.3 pct in 2026, 3.0 pct in 2027 and 2.3 pct in 2028. Moderate: inf 2.9 pct in 2026, 1.8 pct in 2027 and 1.8 pct in 2028. Severe: inf 4.0 pct in 2026, 5.3 pct in 2027 and 3.0 pct in 2028."
     }
   ]
 }
