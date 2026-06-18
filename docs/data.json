@@ -1,7 +1,223 @@
 {
-  "updated": "2026-06-18 15:57:39",
-  "count": 18960,
+  "updated": "2026-06-18 16:01:41",
+  "count": 18966,
   "items": [
+    {
+      "id": "4942856",
+      "time": "2026-06-18 16:00:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500迷你電子期貨上漲0.9%，納斯達克100期貨上漲1.47%，道指期貨上漲0.56%。"
+    },
+    {
+      "id": "4942855",
+      "time": "2026-06-18 16:00:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技美股盤前漲超3%】美光科技美股盤前漲超3%，現報1084.51美元。"
+    },
+    {
+      "id": "mkt:019ed9bf-0aa1-7dd8-b072-e56d61f086a6",
+      "time": "2026-06-18 16:00:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Euro area current account (not seasonally adjusted) April €14.9bn, previous €24.1bn."
+    },
+    {
+      "id": "mkt:019ed9be-f2f6-7dd8-b072-de3acf49fe23",
+      "time": "2026-06-18 16:00:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Euro zone seasonally adjusted current account surplus €15.7 bln in April, up from €14.9 bln previously."
+    },
+    {
+      "id": "mkt:019ed9be-f281-7dd8-b072-d0cd4216d858",
+      "time": "2026-06-18 16:00:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Current Account USA (Apr) | actual 14900000000B | previous 24100000000B"
+    },
+    {
+      "id": "4942854",
+      "time": "2026-06-18 16:00:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安諾其：正在籌劃購買烽雲科技100%股權】安諾其公告，公司正在籌劃以發行股份及支付現金的方式購買廣州烽雲資訊科技有限公司100%股權，同時擬向不超過35名特定投資者發行股份募集配套資金。預計本次交易可能構成《上市公司重大資產重組管理辦法》規定的重大資產重組，並構成關聯交易。截至本公告披露日，除本次交易預案中披露的風險因素外，公司尚未發現可能導致公司董事會或者交易對方撤銷、中止本次交易方案或者對本次交易方案作出實質性變更的相關事項，本次交易相關工作正在持續推進過程中。"
+    },
+    {
+      "id": "mkt:019ed9be-d91f-7dd8-b072-ca8edeb88104",
+      "time": "2026-06-18 16:00:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's State Administration for Market Regulation is supervising Huolala's implementation of antitrust compliance rectification."
+    },
+    {
+      "id": "mkt:019ed9be-d4d3-7dd8-b072-c3fd3e0f2f91",
+      "time": "2026-06-18 16:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Current Account SA (Apr) | actual 15700000000B | previous 14900000000B"
+    },
+    {
+      "id": "4942853",
+      "time": "2026-06-18 16:00:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局督導貨拉拉落實反壟斷合規整改】前期，市場監管總局依據《中華人民共和國反壟斷法》公開約談貨拉拉，要求其停止利用演算法不合理壓低貨運價格、利用平臺規則實施強制獨家車貼等行為，全面開展自查整改，依法合規經營，主動回應各方關切，自覺接受社會監督。市場監管總局加強對貨拉拉反壟斷合規整改的全過程督導，壓實平臺主體責任，督促其嚴格落實整改要求，具體包括四方面內容：一是停止利用演算法不合理壓低貨運價格，嚴格控制多因素計價訂單佔比，公平合理運用調價演算法，推動平均每單運價、每公里運價合理回升，並常態化公示計價規則和運價漲降理由；二是全面取消強制獨家車貼規則，停止提高抽成、罰款等懲罰措施，並將向司機退還不合理費用1.2億元；三是切實降低平臺抽成費率，平臺整體抽成費率由整改前約11%降至約9%，每年可減輕司機負擔超13億元；四是全面保障司機合法權益，取消非付費會員司機每天接2單限制，提升車型與訂單匹配度，取消扣減里程機制，每年投入里程偏差補償金1000萬元，最佳化司機申訴流程，投入司機幫扶資金5000萬元。（央視新聞）"
+    },
+    {
+      "id": "te:markets:560013",
+      "time": "2026-06-18 16:00:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.58% — Top commodity losers are Natural Gas UK (-3.58%), Natural Gas EU (-3.40%), Heating Oil (-2.32%), Crude Oil WTI (-2.25%) and Brent Crude Oil (-1.93%)."
+    },
+    {
+      "id": "4942852",
+      "time": "2026-06-18 16:00:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "挪威至6月18日央行利率決定 4.25%，預期4.25%，前值4.25%。"
+    },
+    {
+      "id": "mkt:019ed9be-9e94-7dd8-b072-bb43646c3980",
+      "time": "2026-06-18 16:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norges Bank held its policy rate at 4.25% on June 18, matching expectations and unchanged from the previous decision."
+    },
+    {
+      "id": "mkt:019ed9be-8079-7dd8-b072-b71cfedafaf3",
+      "time": "2026-06-18 16:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Norway | Norges Bank Interest Rate Decision (Jun.18) | actual 4.25% | consensus 4.25% | previous 4.25%"
+    },
+    {
+      "id": "mkt:019ed9be-3e73-7dd8-b072-a9604803d40d",
+      "time": "2026-06-18 15:59:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【China unveils 17 measures to advance 'AI+consumption' and expand household adoption】On the 18th, MOFCOM and seven other ministries issued implementation opinions setting 17 measures to accelerate AI integration into consumer goods and services. In goods, the plan calls for expanding smart-terminal supply and shifting consumer electronics from function to intelligence, developing a humanoid-robot consumer track, accelerating robot penetration from industrial to consumer scenarios, building product-launch platforms, creating a people–car–home full-scenario ecosystem, and promoting integration of AI with brain‑computer interfaces and augmented reality to develop internationally competitive products. In services, measures target five scenarios — home, elderly care, culture & tourism, accommodation & catering, and education — including a study to include smart-home and services in the Good House construction guide; guidance for elderly-care institutions to deploy IT management, smart security and to equip smart nursing and rehabilitation robots; and use of AI to streamline hotel check-in for overseas guests."
+    },
+    {
+      "id": "te:markets:560011",
+      "time": "2026-06-18 15:58:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound — The CAC 40 rose 0.2% to 8,451 on Thursday, rebounding from the previous session as investor sentiment improved following reports that the US and Iran had signed an interim peace agreement. The deal reportedly includes the reopening of the Strait of Hormuz, a $300 billion (£224 billion) reconstruction program for Iran, and the removal of all US sanctions, easing concerns over geopolitical tensions and global energy supplies. Meanwhile, investors continued to weigh hawkish signals from Fed Chair Kevin Warsh, who hinted that higher interest rates may be needed to rein in inflation after the Federal Reserve's recent decision to leave rates unchanged. On the corporate front, Schneider Electric gained 2.9% to a record high after the company announced a partnership with GIZ Egypt aimed at expanding the global ClimAccelerator program in the country. Other notable gainers included Airbus (2.7%), Safran (1.9%), and Legrand (3.6%)."
+    },
+    {
+      "id": "4942851",
+      "time": "2026-06-18 15:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【讓AI走進千家萬戶 17項舉措推進“人工智慧+消費”發展】今天（18日），商務部等八部門釋出《關於加快“人工智慧+消費”發展的實施意見》，圍繞提升人工智慧+商品消費、擴大人工智慧+服務消費等五方面，提出17項具體舉措，促進人工智慧進千家萬戶、進千商萬店，更好滿足人民美好生活需要。\n\n此次《意見》從供需兩側同時發力，打通了人工智慧應用過程中“有產品無市場”或“有需求無供給”的結構性堵點。\n\n在商品消費領域，《意見》提出擴大智慧終端供給，推動消費電子產品從功能型向智慧型轉變。佈局人形機器人消費新賽道，加速機器人從工業場景向消費場景滲透。搭建商品首發平臺促進新產品觸達。打造“人、車、家”全場景聯動生態，並將AI與腦機介面、增強現實等前沿技術融合，研發推出一批國際領先的新產品。\n在服務消費領域，《意見》圍繞居家、養老、文旅、住宿餐飲、教育五大場景，也提出了多項務實舉措。比如，研究將智慧家居及服務應用納入“好房子”建設指南。指導養老服務機構運用人工智慧技術，佈局資訊化管理、智慧安防等技術系統，配備智慧護理機器人、康復機器人等產品。應用人工智慧技術提升境外人員酒店入住服務便利性。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ed9bd-577e-7dd8-b072-a39c617b57e7",
+      "time": "2026-06-18 15:58:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore benchmark index rose 0.5% to a record high of 5,200.11 points."
+    },
+    {
+      "id": "mkt:019ed9bd-47c0-7dd8-b072-9e85d3560913",
+      "time": "2026-06-18 15:58:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "MOFCOM and seven other ministries issue implementation opinions to accelerate AI+consumption development."
+    },
+    {
+      "id": "4942850",
+      "time": "2026-06-18 15:58:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡基準股指<.STI>上漲0.5%，報5200.11點，創歷史新高。"
+    },
+    {
+      "id": "mkt:019ed9bd-1b56-7dd8-b072-9666212fd270",
+      "time": "2026-06-18 15:58:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Analyst: Fed official seeks consensus, not forceful overhaul】The Fed’s June post-meeting statement omitted any forward guidance on next steps. Fed official Wosh said forward guidance is \"not well suited to the current policy juncture\" and has previously criticized forward guidance and quarterly economic forecasts for risking a locked-in rate path. He has launched five task forces to review Fed communications, the data inputs used for policy decisions and the inflation assessment framework, aiming to keep the Fed \"clear-headed and forward-looking.\" KPMG chief economist Diane Swonk said the task forces signal Wosh is seeking consensus rather than imposing change by decree."
+    },
+    {
+      "id": "4942848",
+      "time": "2026-06-18 15:58:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【釘釘新CEO陳宇森上任釋出第一封全員信】據晚點，上任一週後，釘釘新 CEO 陳宇森首次面向全員發出了第一封全員信，他對包括釘釘在內的悟空事業部進行了全面的組織梳理，落款為 “宇森 悟空事業部 CEO”。以下為內部信全文：\n\n今天我們的組織做如下調整：\n一、成立核心平臺業務部，負責釘釘等一系列核心業務，朱鴻負責，向我彙報。\n二、整合悟空與 MuleRun 兩個團隊，成立新的悟空團隊，束駿亮負責，向我彙報。\n三、將直銷、電銷、服務商、售前、交付、客戶成功團隊全面整合，成立客戶發展部，楊猛負責，向我彙報。\n四、成立市場部，李昕瑜負責，向我彙報。\n五、成立公司資訊科技部，負責最佳化迭代公司各業務系統，讓一切系統易於被 Agent 使用，鄧悟負責，向我彙報。"
+    },
+    {
+      "id": "4942847",
+      "time": "2026-06-18 15:57:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【邁阿密林火或將影響世界盃】美國佛羅里達州邁阿密-戴德縣近日先後發生兩處灌木叢火災。截至6月17日上午，火情仍未得到完全控制。火災產生的濃煙導致當地部分地區空氣質量和能見度下降。有當地媒體指出，此次火災濃煙或將影響本屆世界盃場館邁阿密體育場。該場館為露天設計，夏季本就面臨雷暴風險，如果火災持續、空氣質量進一步惡化，可能對賽事組織和人員健康產生影響。不過，截至當地時間6月17日上午，賽事組織方尚未宣佈調整相關賽程。 （CCTV國際時訊）"
+    },
     {
       "id": "4942846",
       "time": "2026-06-18 15:56:25",
@@ -174715,157 +174931,6 @@
         "其他"
       ],
       "text": "挪威央行<NOCB.UL>：整體來看，受訪企業的盈利能力與2025年第二季度相比幾乎沒有變化。"
-    },
-    {
-      "id": "mkt:019eb5b3-1d26-7dd8-afb8-130e1119c9ac",
-      "time": "2026-06-11 16:01:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "London Metal Exchange inventories fell across base metals: copper down 2,275 tonnes, aluminium down 2,825 tonnes, nickel down 558 tonnes, lead down 575 tonnes, zinc down 100 tonnes, tin down 30 tonnes."
-    },
-    {
-      "id": "4929917",
-      "time": "2026-06-11 16:01:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鉛庫存減少575噸，鋁庫存減少2825噸，錫庫存減少30噸，鋅庫存減少100噸，銅庫存減少2275噸，鎳庫存減少558噸。"
-    },
-    {
-      "id": "4929916",
-      "time": "2026-06-11 16:01:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【甲骨文美股盤前跌超10%】甲骨文美股盤前跌超10%。公司公佈的季度資本支出高於預期，引發投資者對該公司AI基礎設施業務盈利能力的擔憂。"
-    },
-    {
-      "id": "4929915",
-      "time": "2026-06-11 16:01:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽光電源等在洛陽成立電力公司】企查查APP顯示，近日，洛陽錦徽電力有限公司成立，法定代表人為李少輝，註冊資本為1000萬元，經營範圍包含：發電業務、輸電業務、供（配）電業務；供電業務；熱力生產和供應；供冷服務；節能管理服務等。企查查股權穿透顯示，該公司由洛陽百斯威新能源有限公司、陽光電源旗下陽光新能源開發股份有限公司共同持股。"
-    },
-    {
-      "id": "4929914",
-      "time": "2026-06-11 16:00:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【合富中國：試劑買賣合同糾紛一審判決，賠償金額存不確定性】合富中國公告稱，公司與廣東省第二人民醫院試劑買賣合同糾紛一審判決，被告應向公司賠償損失330萬元及支付律師費8萬元，駁回公司其他訴求和醫院全部反訴請求。本訴受理費286,191.6元，公司負擔266,401.6元，醫院負擔19,790元；反訴受理費26,885.37元由醫院負擔。鑑於為一審判決，雙方可上訴，最終結果及對公司利潤影響不確定，預計不會對日常經營產生重大影響。"
-    },
-    {
-      "id": "te:markets:558313",
-      "time": "2026-06-11 16:00:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Falls by 1.30% — Top commodity losers are Natural gas (-1.30%), Heating Oil (-0.73%), Gasoline (-0.50%), Brent Crude Oil (-0.44%) and Crude Oil WTI (-0.27%)."
-    },
-    {
-      "id": "4929913",
-      "time": "2026-06-11 15:59:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【皖維高新：收到經營者集中反壟斷審查不予禁止決定書】皖維高新(600063.SH)公告稱，公司收到海螺集團轉發的國家市場監督管理總局出具的《經營者集中反壟斷審查不予禁止決定書》，決定對海螺集團收購皖維集團股權案不予禁止，從即日起可以實施集中。"
-    },
-    {
-      "id": "te:markets:558312",
-      "time": "2026-06-11 15:59:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Cautiously Higher — The DAX 40 edged up to around 24,230 on Thursday after a hesitant, as investors weighed the latest developments in the Middle East while awaiting the European Central Bank's policy decision. US military announced that it had completed strikes in Iran, after attacking several Iranian defensive positions for several hours. US Defense Secretary Pete Hegseth called the strikes \"an act of coercive diplomacy\" aimed at overcoming the stalemate in negotiations. Oil prices moved down, as hopes for a resolution to the ongoing conflict persisted. Sector-wise, gains in energy-sensitive industrials, chemical companies and techs outweighed major losses in software and telecommunication stocks. Siemens Energy led the way, surging 4.1%, followed by Infineon Technologies, BASF and Rheinmetall. Meanwhile, Hugo Boss surged more than 6% after its largest shareholder, Frasers Group, launched a $2 billion takeover bid for the fashion house."
-    },
-    {
-      "id": "mkt:019eb5b1-7cb9-7dd8-afb8-0821de8532e4",
-      "time": "2026-06-11 15:59:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The CEO of Ukraine's national railway said Russian drone strikes hit a railway warehouse in the northern Sumy region, killing one railway worker and injuring four."
-    },
-    {
-      "id": "4929912",
-      "time": "2026-06-11 15:58:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭國家鐵路執行長表示，俄羅斯無人機襲擊烏克蘭北部蘇梅州的一處鐵路車場，造成一名鐵路工人死亡，四人受傷。"
-    },
-    {
-      "id": "te:markets:558310",
-      "time": "2026-06-11 15:58:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rises Ahead of ECB Decision — The FTSE MIB rose to around 50,400 on Thursday, recouping losses from the previous session as attention shifted to the European Central Bank's policy announcement due later in the day. Markets are expecting a 25-basis-point rate increase, which would mark the first hike since 2023. Investors also remained focused on escalating tensions in the Middle East after the US military confirmed strikes in Iran, Israel reported missile launches from Lebanon, and Kuwait closed its airspace over concerns related to Iranian offensives. Across the bourse, technology-related stocks helped underpin gains, tracking an attempted recovery in regional semiconductor shares. STMicroelectronics gained more than 3%, while Prysmian advanced over 2%. Other notable gainers included banks UniCredit (+1.1%) and Intesa Sanpaolo (+1%), defense group Leonardo (+1.6%), and luxury brands Moncler (+1.8%) and Brunello Cucinelli (+2%)."
-    },
-    {
-      "id": "4929911",
-      "time": "2026-06-11 15:58:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部：中國網文、網劇、網遊在全球颳起“中國旋風”，成為文化出海新引擎】6月11日下午，商務部舉行例行新聞釋出會。有媒體提問稱，今年1-4月，我國服務貿易出口增長了15%，其中個人文化和娛樂服務的增速高達39.5%，智慧財產權使用費也實現了20.8%的高速增長。請問服務貿易出口高速增長背後的主要驅動力是什麼？今年以來我國在推動服務出口方面採取了哪些具體舉措？對此，商務部新聞發言人何亞東表示，在政策支援和產業發展的驅動之下，中國服務的國際競爭力不斷提升，特別是知識密集型服務出口實現了較快增長。資料顯示，1-4月，我國服務出口達到了9850億元，同比增長15%，其中知識密集型服務出口增長了11.7%，佔總體服務出口的比重達到了55.2%。何亞東介紹說，知識密集型服務涵蓋了智慧財產權、文化娛樂等領域。在智慧財產權領域，相關研究機構資料顯示，我國創新藥對外授權金額屢創新高，2025年全球市場佔比超過了40%；在文化娛樂領域，中國的網文、網劇、網遊這些數字文化產品在全球颳起了“中國旋風”，已經成為文化消費和文化出海的一個新引擎，“內容+平臺+模式”出海步伐加快。(環球網)"
-    },
-    {
-      "id": "4929910",
-      "time": "2026-06-11 15:58:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【包鋼股份：控股子公司板材廠事故仍在調查中，將加快涉事產線復工復產】有投資者在互動平臺提問，公司控股子公司下屬板材廠事故是否已經完成檢修復產，事故對一季度影響利潤多少？是否對二季度公司盈利產生影響？對此，包鋼股份6月11日在互動平臺表示，今年一季度，受大宗原燃料價格超預期上行、下游需求釋放不足影響，鋼材價格持續低迷，購銷兩端價差收窄，進一步擠壓公司利潤空間，公司整體盈利承壓態勢持續加劇。同時，公司控股子公司下屬板材廠受事故影響的部分熱軋、冷軋等產線停產檢修，配套產線相應降負荷生產，公司產銷量下降、成本上升，經營業績受到一定程度影響。目前事故仍在調查中，公司將統籌加快涉事產線復工復產步伐，在嚴格落實安全生產管理措施的基礎上，全力保障生產系統平穩高效執行。"
-    },
-    {
-      "id": "4929909",
-      "time": "2026-06-11 15:58:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國對進口自中國的玻璃纖維門板作出雙反終裁】6月10日，美國商務部發布公告，對進口自中國的玻璃纖維門板（Fiberglass Door Panels）作出反傾銷終裁，裁定中國生產商/出口商傾銷幅度為41.82%—147.85%（抵消補貼後的保證金調整為41.79%—147.82%）。"
-    },
-    {
-      "id": "4929908",
-      "time": "2026-06-11 15:57:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天原集團：董事長鄧敏辭職 原定任期至2026年11月】天原集團公告稱，公司董事會近日收到董事長鄧敏書面辭職報告，因工作調整，其申請辭去董事、董事長等職務，辭職後不再擔任公司及子公司任何職務，原定任期至2026年11月20日。其辭職未致董事會成員低於法定最低人數，不影響公司日常經營和董事會運作，報告送達董事會之日起生效。截至披露日，鄧敏直接持股38,528股，離任後將遵守相關減持規定。"
-    },
-    {
-      "id": "4929907",
-      "time": "2026-06-11 15:57:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新大陸：改選董事長並聘任副總經理】新大陸公告稱，6月11日召開的第九屆董事會第十九次會議，審議透過改選董事長和聘任副總經理的議案。王晶主動提議由胡鵠擔任第九屆董事會董事長、戰略委員會召集人及法定代表人，王晶仍任董事、戰略委員會委員。此外，董事會決定聘任陳繼勝為副總經理，兩人任期均至第九屆董事會屆滿。胡鵠為實際控制人胡鋼之子，截至公告披露日，胡鵠未直接持股，陳繼勝未持股。"
     }
   ]
 }
