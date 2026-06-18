@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-18 19:43:24",
+  "updated": "2026-06-18 19:47:30",
   "count": 19091,
   "items": [
+    {
+      "id": "te:markets:560087",
+      "time": "2026-06-18 19:46:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rebound — Futures tracking US equities rebounded on Thursday to erase yesterday's loss as chip producers extended their rally and markets reconsidered risks of a rate cut by the Federal Reserve. Contracts for the S&P 500 were 1% higher, while those for the Nasdaq 100 gained 2% and the Dow 0.7%. The Federal Reserve held rates unchanged and half of the FOMC projected that at least one rate hike would be appropriate this year. The new Chairman, Kevin Warsh, also followed through on pledges to revamp the Fed's operational framework by launching a set of task forces. Meanwhile, President Trump signed the memorandum of understanding with Iran to soften energy inflation risks. Intel shares surged more than 8% premarket after the US President said the chipmaker struck a deal with Apple. In turn, Micron rose ahead of its earnings next week and Nvidia was 1% higher to trim yesterday's decline."
+    },
+    {
+      "id": "4943443",
+      "time": "2026-06-18 19:46:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏昌電子：公司相關GA-686系列高速覆銅板產品取得小量訂單】宏昌電子6月18日在互動平臺表示，公司相關GA-686系列高速覆銅板產品已透過相關客戶認證，取得小量訂單生產。產品透過服務下游印刷電路板企業供應至各終端，廣泛應用於通訊、伺服器、汽車電子、消費電子等各電子產品領域。"
+    },
+    {
+      "id": "4943441",
+      "time": "2026-06-18 19:45:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民生銀行總行個金部換帥：原私行部總經理黃晉擬接任】6月18日訊息，據瞭解，民生銀行總行信用卡中心總經理孫興，不再兼任總行個人金融部總經理。民生總行財富管理部/私人銀行部總經理黃晉，擬任總行個人金融部總經理。（21世紀經濟報道）"
+    },
+    {
+      "id": "4943440",
+      "time": "2026-06-18 19:45:33",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：英國央行今年可能不會加息】Premier Miton Monthly Income Fund的Emma Mogford在英國央行週四將利率維持在3.75%不變後表示，英國央行今年可能不需要加息。“伊朗戰爭引發的今年晚些時候物價上漲的影響，可能會被較低的需求以及鑑於勞動力市場相對疲軟對工資增長僅有的溫和預期所抵消，“她說。英國央行以7票贊成、2票反對的投票結果透過了該決定，其中兩名決策者傾向於加息25個基點。"
+    },
+    {
+      "id": "mkt:019eda8c-9b67-7dd8-b07a-98d086fad182",
+      "time": "2026-06-18 19:45:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Ukraine central bank keeps key rate at 15%, leaves door open to hikes】Ukraine's central bank (NBU) kept its key policy rate at 15% on Thursday, citing war-related challenges, rising energy prices and higher corporate costs. The NBU said it is prepared to raise rates if needed to anchor inflation expectations and steer inflation back toward its 5% target. The decision, the bank said, reflects a sufficiently tight monetary stance and took into account strong demand for hryvnia savings instruments and mitigation of risks linked to the Middle East war and constrained external financing. Annual inflation eased to 8.2% in May from 8.6% in April, which the NBU attributed to seasonal factors, but it expects inflation to remain near current levels in the coming months and accelerate later this year. The bank flagged energy price rises, prior hryvnia weakness and wage-driven cost pressures as upside risks and projects year-end inflation around 9.4% and 6.5% in 2027."
+    },
+    {
+      "id": "4943439",
+      "time": "2026-06-18 19:44:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【埃森哲美股盤前跌超15%】埃森哲美股盤前跌超15%，現報132.389美元。"
+    },
+    {
+      "id": "4943438",
+      "time": "2026-06-18 19:43:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：正在預算中凍結230億雷亞爾，以表明財政路徑已得到約束，這應有助於貨幣政策。"
+    },
+    {
+      "id": "4943437",
+      "time": "2026-06-18 19:43:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德方奈米：擬募資不超29億元用於鋰電專案及補流】德方奈米公告稱，公司擬向特定物件發行股票，募集資金總額不超29億元，扣除發行費用後，21.5億元用於鋰電新材料一體化（一期）專案，新增年產20萬噸新一代高壓實磷酸鹽新材料產能；7.5億元用於補充流動資金。專案預計建設期24個月，目前已取得專案用地不動產證書及投資專案備案證，環評、能評等報批程式尚在辦理中。本次發行將增強公司資本實力，提升競爭力，但短期內每股收益和淨資產收益率或攤薄。"
+    },
+    {
+      "id": "4943436",
+      "time": "2026-06-18 19:42:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外交訊息人士表示，關於瑞士之行的最終決定尚未做出。"
+    },
+    {
+      "id": "4943435",
+      "time": "2026-06-18 19:42:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【宏昌電子：股價異常波動 市盈率顯著高於行業均值】宏昌電子公告稱，公司股票在2026年6月15日至17日連續三個交易日收盤價格漲幅偏離值累計達20%以上，屬股票交易異常波動。經自查，公司生產經營正常，不存在應披露而未披露的重大事項。中證指數官網6月16日資料顯示，公司最新滾動市盈率813.95，顯著高於所處行業的67.27。2026年一季度，公司扣非淨利潤為-79.58萬元。公司提醒投資者注意二級市場交易風險。"
+    },
     {
       "id": "mkt:019eda89-f386-7dd8-b07a-906ff7710f6e",
       "time": "2026-06-18 19:42:14",
@@ -176187,98 +176275,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：國會民主黨人應該停止玩弄政治。"
-    },
-    {
-      "id": "4930488",
-      "time": "2026-06-11 19:47:23",
-      "tags": [
-        "宏觀",
-        "資料",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【6月11日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.《習近平外交文選》第一卷、第二卷出版發行； 2.電視專題片《續寫中朝傳統友誼嶄新篇章——習近平總書記訪問朝鮮紀實》今晚播出； 3.李強主持召開國務院常務會議； 4.趙樂際就日本前眾議長河野洋平逝世向遺屬致唁電； 5.【樹立和踐行正確政績觀】實幹擔當促發展 推動學習教育見行見效； 6.“2026·全球人權治理高階論壇”在京舉辦； 7.我國開展東西部協作30年 成效顯著； 8.前5個月我國工程機械海內外市場快速增長； 9.【黨旗在基層一線高高飄揚】徐淙祥：多種糧 種好糧； 10.【一線調研】築牢地下管網 讓城市“裡子”更紮實； 11.國務院新聞辦舉行“新徵程上的奮鬥者”中外記者見面會； 12.國內聯播快訊： （1）第10屆中國—南亞博覽會開幕； （2）2025年企業資料產品和服務交易額同比增長39.8%； （3）四部委實施創業模式引領行動； （4）兩部門啟動人形機器人與具身智慧實景實訓專項行動； （5）2026消費名品全國行啟動； （6）我國質量認證國際互認機制覆蓋全球經濟總量超95%區域； （7）上海啟動人工智慧文創產業基地建設； （8）丙午年拜謁炎帝神農大典在湖北隨州舉行； 13.美軍稱完成對伊朗新一輪打擊 伊朗稱打擊美軍基地重要目標： （1）伊朗稱全面關閉霍爾木茲海峽； （2）國際油價上漲 金價大跌； 14.國際聯播快訊： （1）以軍襲擊黎南部 黎真主黨襲擊以軍人員； （2）歐洲智庫調查顯示視美國為盟友人數下降； （3）美國5月CPI同比漲幅達3年來最高。"
-    },
-    {
-      "id": "4930487",
-      "time": "2026-06-11 19:47:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特表示，《外國情報監視法》是一項至關重要的工具。"
-    },
-    {
-      "id": "4930485",
-      "time": "2026-06-11 19:46:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "匈牙利布達佩斯總檢察院表示，該國檢方已下令警方調查石油集團MOL相關股權交易，核查是否存在內幕交易違規行為。"
-    },
-    {
-      "id": "4930484",
-      "time": "2026-06-11 19:44:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中船特氣：股票交易異常波動 提示多項投資風險】中船特氣公告稱，2026年6月9日至6月11日，公司股票日收盤價格漲幅偏離值累計達30%，屬異常波動。經自查，公司日常經營正常，無應披露未披露重大事項。近期有媒體及傳聞提及六氟化鎢產品價格，公司未公開披露相關資訊。截至6月10日，公司滾動市盈率429.25倍、靜態市盈率447.41倍，顯著高於行業均值。自5月11日至6月11日，股價累計漲幅338.13%，偏離基本面。2026年一季度歸母淨利潤10128.68萬元，經營規模小，抵禦風險能力有限，提醒投資者注意風險。"
-    },
-    {
-      "id": "4930483",
-      "time": "2026-06-11 19:44:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【六氟化鎢概念火爆，多家上市公司回應相關問題】六氟化鎢概念火爆，相關概念股連續大漲，多家上市公司回應相關問題。①昊華科技：公司注意到市場對於六氟化鎢關注度較高，經公司自查，2025年度公司六氟化鎢產品收入佔公司2025年度營業收入的比重為0.13%，佔比較低，不會對公司業績產生重大影響。請投資者注意相關風險。②雅克科技：公司關注到近期網路上有關於公司特種氣體業務的相關討論，公司的含氟類特種氣體產品主要為四氟化碳和六氟化硫，目前沒有六氟化鎢相關業務。2025年度，公司含氟類特種氣體的營業收入佔公司總體營業收入的5.79%。③中鎢高新：目前公司沒有進軍六氟化鎢市場的計劃。公司主要向相關客戶提供生產六氟化鎢所用到的原材料鎢粉。④金宏氣體：目前公司暫無六氟化鎢產能，公司將積極關注六氟化鎢產品的相關業務機會，後續若有進展，將及時披露。（證券時報）"
-    },
-    {
-      "id": "4930482",
-      "time": "2026-06-11 19:44:34",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場"
-      ],
-      "text": "【英國國防大臣辭職後英鎊下跌】英國國防大臣約翰·希利宣佈辭職，加劇了政治不確定性，隨後英鎊兌歐元下跌。希利週四在X平臺上釋出了寫給英國首相基爾·斯塔默的辭職信。他在信中表示，在威脅升溫之際，斯塔默和財政部一直不願投入保衛國家所需的資源。這一訊息傳出之際，斯塔默的命運依然懸而未決，此前他領導的工黨在最近的地方選舉中表現不佳。安迪·伯納姆曾表示，如果他在下週四的特別選舉中獲勝，他將參加任何領導人競選。根據倫敦證券交易所集團的資料，歐元上漲0.1%，至盤中高點0.8635英鎊。"
-    },
-    {
-      "id": "4930481",
-      "time": "2026-06-11 19:44:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【越秀資本：子公司擬出資2.61億元與關聯方共同設立新能源科技公司】越秀資本(000987)6月11日公告，公司全資子公司廣州越秀資本控股集團有限公司（簡稱“廣州越秀資本”）擬與關聯方廣州越秀集團股份有限公司、越秀交通基建有限公司的全資子公司廣州越動新能源科技投資有限公司共同投資設立廣州越秀新能科技有限公司（簡稱“新能源科技公司”）。該公司註冊資本8.7億元，其中廣州越秀資本認繳出資2.61億元，持股比例為30%。"
-    },
-    {
-      "id": "mkt:019eb67f-1f08-7dd8-afbc-ef1bb8af7345",
-      "time": "2026-06-11 19:44:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01783.HK",
-        "Impact bullish"
-      ],
-      "text": "【Jinjing New Energy (01783.HK) expects return to profit for year to Mar 31, 2026】Jinjing New Energy (01783.HK) forecasts a return to profit for the year ending Mar 31, 2026, with net profit of HKD58–63 mln versus a net loss of HKD15.7 mln a year earlier. The board cites three main drivers: revenue up by more than HKD1.5 bln, led by sharp growth in reverse supply-chain management and environmental services; selling and distribution expenses rising by over HKD2,600 mln consistent with higher volumes; and equity-settled share-based payment expenses down by more than HKD35 mln YoY."
-    },
-    {
-      "id": "4930480",
-      "time": "2026-06-11 19:43:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晉景新能：預計截至2026年3月31日止年度實現扭虧為盈】晉景新能(01783.HK)釋出盈利預告，預計公司截至2026年3月31日止年度將實現扭虧為盈，錄得純利約5800萬-6300萬港元。去年同期錄得淨虧損1570萬港元。董事會認為，轉虧為盈及純利增加主要由於以下因素的綜合效應所致：截至2026年3月31日止年度收益增加超過15億港元，主要受逆向供應鏈管理及環保相關服務分部的業務大幅增長所帶動；銷售及分銷開支增加超過2600百萬港元，與業務量增長一致；及以股權結算的股份為基礎支付費用較去年同期減少超過3500萬港元。"
-    },
-    {
-      "id": "4930479",
-      "time": "2026-06-11 19:43:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理本雅明・內塔尼亞胡表示，儘管以軍持續對真主黨採取行動，但該組織的攻擊型無人機仍是一大威脅。他誓言，以色列將 “如同平定南部局勢一般”，恢復北部地區的安全。"
     }
   ]
 }
