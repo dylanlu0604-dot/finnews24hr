@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-18 09:20:50",
+  "updated": "2026-06-18 09:24:56",
   "count": 18764,
   "items": [
+    {
+      "id": "mkt:019ed854-25ff-7dd8-b068-1a55df7768a9",
+      "time": "2026-06-18 09:24:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fujian signs strategic cooperation framework with University of Science and Technology of China】June 17 — Fujian provincial government and the University of Science and Technology of China (USTC) signed a strategic cooperation framework. The pact commits both sides to deepen collaboration on discipline development, policy consultation, innovation-platform construction, technology transfer and industrialization, and talent training and exchanges to support high-level scientific self-reliance and advance China’s modernization agenda."
+    },
+    {
+      "id": "mkt:019ed853-bb21-7dd8-b068-16afde4a83db",
+      "time": "2026-06-18 09:23:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iran parliamentary speaker Ghalibaf said turning Iran's military gains into durable solutions that serve national interests is essential."
+    },
+    {
+      "id": "mkt:019ed853-9412-7dd8-b068-0da66c7874e9",
+      "time": "2026-06-18 09:23:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said Iran's 'battlefield victory' provides background support for negotiations."
+    },
+    {
+      "id": "mkt:019ed853-7250-7dd8-b068-04f58739c54a",
+      "time": "2026-06-18 09:23:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ghalibaf: Iran is engaging the United States from a position of strength."
+    },
+    {
+      "id": "4942166",
+      "time": "2026-06-18 09:22:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建省與中國科學技術大學簽署戰略合作框架協議】據福建日報，6月17日，福建省省長趙龍在福州會見中國科學技術大學黨委書記舒歌群一行，共同見證省政府與中國科學技術大學簽署戰略合作框架協議。根據協議，雙方將按照教育科技人才一體發展戰略部署要求，在學科建設、決策諮詢、創新平臺建設、科技成果轉化與產業化、人才培養與交流等方面進一步深化省校戰略合作，促進優勢互補、共同發展，更好服務高水平科技自立自強，推進中國式現代化建設。"
+    },
+    {
+      "id": "4942165",
+      "time": "2026-06-18 09:22:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧概念股走強 天數智芯漲近8%】截至發稿，天數智芯(09903.HK)漲7.60%，MINIMAX-W(00100.HK)漲3.84%，智譜(02513.HK)漲3.67%。"
+    },
+    {
+      "id": "mkt:019ed852-4d7d-7dd8-b067-ffd9c7d7dcb9",
+      "time": "2026-06-18 09:22:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "【PBOC nets CNY 59.5 bln via 7-day reverse repos】PBOC conducted CNY 248 bln of 7-day reverse repos today; CNY 188.5 bln matured, leaving a net injection of CNY 59.5 bln."
+    },
+    {
+      "id": "4942164",
+      "time": "2026-06-18 09:21:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放595.0億元人民幣。"
+    },
+    {
+      "id": "4942163",
+      "time": "2026-06-18 09:21:38",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.69％，國企指數跌0.88％，科指開跌0.88%。"
+    },
+    {
+      "id": "mkt:019ed851-a0bc-7dd8-b067-f27dca321ec2",
+      "time": "2026-06-18 09:21:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong, June 18 — Hang Seng Index (HSI) opened down 166.97 points, or 0.69%, at 24,145.19. Hang Seng Tech Index opened down 41.00 points, or 0.88%, at 4,628.07. Hang Seng China Enterprises Index (HSCEI) opened down 71.31 points, or 0.88%, at 8,072.72. Hang Seng Red Chip Index opened down 22.50 points, or 0.54%, at 4,149.33."
+    },
+    {
+      "id": "mkt:019ed851-728a-7dd8-b067-e9fa715dfc25",
+      "time": "2026-06-18 09:21:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "PBOC today conducted CNY 248 billion 7-day reverse repo; bids CNY 248 billion, allotment CNY 248 billion, repo rate 1.40%, unchanged."
+    },
+    {
+      "id": "mkt:019ed851-64dc-7dd8-b067-e54e118a5ef5",
+      "time": "2026-06-18 09:21:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00100.HK",
+        "Impact bullish",
+        "09992.HK"
+      ],
+      "text": "Hong Kong stocks opened lower; Hang Seng Index down 0.69%, Hang Seng Tech Index down 0.88%. MINIMAX-W (00100.HK) rose more than 3.8%, Pop Mart (09992.HK) fell more than 3.3%, NetEase (09999.HK) fell more than 2.8%."
+    },
+    {
+      "id": "4942162",
+      "time": "2026-06-18 09:21:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展2480億元人民幣7天期逆回購操作，操作利率1.40%。"
+    },
     {
       "id": "mkt:019ed84f-ffd7-7dd8-b067-df7dbb25d020",
       "time": "2026-06-18 09:19:41",
@@ -172760,136 +172886,6 @@
         "焦點"
       ],
       "text": "三大股指低開，滬指跌0.34％，深成指跌0.43％，創業板跌0.4％。"
-    },
-    {
-      "id": "4929294",
-      "time": "2026-06-11 09:24:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股油氣裝置股走強 山東墨龍漲近15%】截至發稿，山東墨龍(00568.HK)漲14.78%，達力普控股(01921.HK)漲9.53%，中石化油服(01033.HK)漲1.54%。"
-    },
-    {
-      "id": "4929293",
-      "time": "2026-06-11 09:24:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4100美元/盎司，日內漲0.73%。"
-    },
-    {
-      "id": "te:markets:558210",
-      "time": "2026-06-11 09:24:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Prices Continue Gains — US gasoline prices extended gains above $3.10 per gallon, driven by concerns that the Iran war could continue and keep disrupting energy supplies as hostilities intensify. The US conducted strikes on multiple targets in Iran, with reports indicating that President Donald Trump warned of additional attacks unless an interim peace deal is reached. Iran was also reported to have carried out missile and drone strikes against US vessels operating in the Strait of Hormuz. These developments have heightened worries over prolonged military escalation and raised doubts about a durable peace agreement. Meanwhile, EIA data showed gasoline inventories rose by almost 0.2 million barrels in the first week of June, defying expectations for a 0.5 million barrel draw. However, this modest weekly build came after several weeks of sharp declines, indicating that inventories have been falling rapidly ahead of the summer driving season."
-    },
-    {
-      "id": "te:markets:558209",
-      "time": "2026-06-11 09:22:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Extends Gains — US heating oil prices rose toward $3.70 per gallon, extending gains from the previous session, on fears the Iran war may drag on and prolong disruptions to energy supplies amid escalating hostilities. The US carried out strikes on several targets in Iran, with reports indicating that President Donald Trump warned of further attacks unless an interim peace deal is reached. Iran was also reported to have launched missile and drone strikes against US vessels operating in the Strait of Hormuz. These developments have raised concerns over sustained military escalation and cast doubt on a lasting peace agreement, which would extend the closure of the key waterway and halt exports of distillate products from the region. Meanwhile, government data showed distillate stocks, including diesel and heating oil, increased by 0.2 million barrels in the first week of June, compared with expectations for a 0.5 million barrel draw."
-    },
-    {
-      "id": "4929292",
-      "time": "2026-06-11 09:22:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放1,885.0億元人民幣。"
-    },
-    {
-      "id": "4929291",
-      "time": "2026-06-11 09:22:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數縮窄此前跌幅，當前下跌0.1%，報64110.74點。"
-    },
-    {
-      "id": "4929290",
-      "time": "2026-06-11 09:22:06",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.11％，國企指數跌0.07％，恒生科技指數開跌0.2%，石油、鋰電池概念走強。"
-    },
-    {
-      "id": "mkt:019eb445-9e50-7dd8-afb0-b4ff08daaae2",
-      "time": "2026-06-11 09:22:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "HSI opened in Hong Kong on June 11 down 27.94 pts (-0.11%) at 24,380.02. Hang Seng Tech opened down 9.37 pts (-0.20%) at 4,715.42. Hang Seng China Enterprises Index (HSCEI) opened down 6.08 pts (-0.07%) at 8,312.65. Hang Seng China Red Chip Index opened down 10.63 pts (-0.25%) at 4,283.34."
-    },
-    {
-      "id": "mkt:019eb445-9245-7dd8-afb0-a874e3d738d9",
-      "time": "2026-06-11 09:21:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "00883.HK"
-      ],
-      "text": "Hong Kong stocks opened lower: Hang Seng Index down 0.11%, Hang Seng Tech Index down 0.20%. Oil and lithium-battery names outperformed, select internet heavyweights saw pockets of activity, while gold and new-energy vehicle stocks slipped. CNOOC (00883.HK) opened up 2.6%."
-    },
-    {
-      "id": "4929289",
-      "time": "2026-06-11 09:21:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展1885億元7天逆回購操作，投標量1885億元，中標量1885億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019eb445-32a4-7dd8-afb0-a2515386d836",
-      "time": "2026-06-11 09:21:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PBOC conducted a CNY1,885 bln 7-day reverse repo; bids and allotment both CNY1,885 bln; rate 1.40%, unchanged."
-    },
-    {
-      "id": "4929288",
-      "time": "2026-06-11 09:20:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10 年期日本國債收益率逆轉先前漲幅，下跌 0.5 個基點至 2.675%。"
-    },
-    {
-      "id": "mkt:019eb444-90ec-7dd8-afb0-9a29aedc32eb",
-      "time": "2026-06-11 09:20:52",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "MSCI Asia Pacific index briefly erased losses of up to 1.4%."
     }
   ]
 }
