@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-19 00:25:57",
-  "count": 19074,
+  "updated": "2026-06-19 00:30:09",
+  "count": 19078,
   "items": [
+    {
+      "id": "mkt:019edb90-bc8c-7dd8-b085-2cd9bfeb2abd",
+      "time": "2026-06-19 00:29:16",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Dutch prime minister says the EU budget proposal currently on the table is not good enough for the Netherlands."
+    },
+    {
+      "id": "mkt:019edb90-87db-7dd8-b085-223b6a46add7",
+      "time": "2026-06-19 00:29:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state TV said Iran's Supreme Leader will soon deliver a speech on a memorandum of understanding."
+    },
+    {
+      "id": "4944043",
+      "time": "2026-06-19 00:28:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭首相：當前提交的歐盟預算提案對荷蘭而言仍不夠完善。"
+    },
+    {
+      "id": "4944042",
+      "time": "2026-06-19 00:28:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖將就終止與美國的戰爭協議發表最新講話。"
+    },
+    {
+      "id": "4944041",
+      "time": "2026-06-19 00:27:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列前總理埃胡德・巴拉克聲稱：內塔尼亞胡很可能會在大選前夕進攻黎巴嫩，並且他正試圖與伊朗、真主黨開啟一場無休止的戰爭。"
+    },
+    {
+      "id": "4944040",
+      "time": "2026-06-19 00:26:49",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【SpaceX 的合作投行團隊計劃發行至少 200 億美元投資級美元債券】知情人士透露，埃隆・馬斯克旗下 SpaceX 的合作投行團隊，最快將於下週與投資者開展投資者電話會議，商討在公司完成創紀錄 IPO 後推出債券發行計劃。不願公開身份的訊息人士表示，本次債券發行規模預計至少 200 億美元，投資者溝通最早週一啟動；相關方案與時間節點仍有可能變動。這家主營火箭、衛星、AI 業務的綜合企業計劃首次發行投資級美元債券，發債所得將用於置換一筆 200 億美元、2027 年 9 月到期的過橋貸款。SpaceX 提交給美國證券交易委員會的 IPO 申報檔案顯示，截至 3 月 31 日，這筆過橋貸款佔公司 291 億美元長期債務的大頭。訊息人士稱，美國銀行、花旗集團、摩根大通、高盛集團、摩根士丹利聯合提供了這筆過橋貸款，並將牽頭承銷本次債券發行。"
+    },
+    {
+      "id": "mkt:019edb8e-79fb-7dd8-b085-1815f0fc446f",
+      "time": "2026-06-19 00:26:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Dutch prime minister said U.S. pressure on Russia is crucial for a peace agreement."
+    },
+    {
+      "id": "4944039",
+      "time": "2026-06-19 00:25:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國白宮向國會提交美伊諒解備忘錄文字】央視記者當地時間6月18日獲悉，美國白宮向國會提交了美伊諒解備忘錄文字。當地時間17日，一名美國政府高階官員宣讀了美國同伊朗達成的諒解備忘錄正式文字。該檔案包含14項條款，詳細列出了重新開放霍爾木茲海峽及放寬對伊部分金融限制的內容，並闡明瞭在未來技術性會談中解決伊朗核問題的預期目標。伊朗伊斯蘭共和國通訊社當地時間17日晚也公佈了伊美諒解備忘錄文字全文。（央視新聞）"
+    },
+    {
+      "id": "mkt:019edb8d-8402-7dd8-b085-15ccbc62479b",
+      "time": "2026-06-19 00:25:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SpaceX (SPCX.O) investment banking team is preparing at least $20 bln in bond sales."
+    },
     {
       "id": "mkt:019edb8c-87a8-7dd8-b085-0d70c02ff215",
       "time": "2026-06-19 00:24:40",
@@ -175646,53 +175729,6 @@
         "焦點"
       ],
       "text": "市場訊息：人工智慧公司Anthropic尋求首份資料中心租賃協議，並向谷歌爭取融資支援。"
-    },
-    {
-      "id": "4930997",
-      "time": "2026-06-12 00:30:00",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團：推出私人股份數字存託憑證。"
-    },
-    {
-      "id": "4930996",
-      "time": "2026-06-12 00:29:42",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團：考慮未來將服務擴充套件至數字與傳統金融市場基礎設施及區塊鏈網路。"
-    },
-    {
-      "id": "mkt:019eb784-777c-7dd8-afc6-b3d235b36b40",
-      "time": "2026-06-12 00:29:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US military says Strait of Hormuz remains open】On June 11 local time, US Central Command said the Strait of Hormuz remains open and that US forces have established 'safe corridors' for commercial ships transiting the strait; vessels not violating 'blockade measures' against Iran may use them. The statement said hundreds of ships have transited the strait in the past two months and US forces are deployed to 'defend against Iranian aggression,' adding that Iran does not control the strait. After US airstrikes on multiple sites in southern Iran in the early hours of June 11, Iran announced the Strait of Hormuz was closed to all vessels."
-    },
-    {
-      "id": "4930995",
-      "time": "2026-06-12 00:27:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍稱霍爾木茲海峽仍保持通行】當地時間6月11日，美軍中央司令部在社交媒體平臺上發宣告稱，“霍爾木茲海峽仍保持通行，美軍已為途經霍爾木茲海峽的商船設立了‘安全航道’，所有‘未違反針對伊朗封鎖措施’的船隻均可使用這些航道。” 宣告還稱，“過去兩個月內，已有數百艘船隻透過霍爾木茲海峽。美軍已做好‘防禦伊朗侵略’的部署。伊朗並不控制霍爾木茲海峽。” 當地時間6月11日凌晨美軍再次空襲伊朗南部多地後，伊朗宣佈“霍爾木茲海峽對所有船隻關閉”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4930994",
-      "time": "2026-06-12 00:27:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大認為有望達成協議以解決USMCA貿易問題】加拿大-美國貿易部長勒布朗（Dominic LeBlanc）表示，他對特朗普政府決定不在7月1日前續簽美國墨西哥加拿大貿易協議（USMCA）並不感到意外。勒布朗預計，雙方將達成一系列協議來解決該協定的爭端。他指出，7月1日僅僅是“三個國家可以決定將協議延長16年的一個時間節點”。美國駐加拿大大使霍克斯特拉（Pete Hoekstra）表示，華盛頓願意加強合作，但敦促加拿大領導人提出更有力的主張，並表示“我們是來與美國合作並滿足其需求的”。"
     }
   ]
 }
