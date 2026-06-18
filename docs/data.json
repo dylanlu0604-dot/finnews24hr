@@ -1,7 +1,114 @@
 {
-  "updated": "2026-06-18 12:49:06",
-  "count": 18773,
+  "updated": "2026-06-18 12:53:03",
+  "count": 18781,
   "items": [
+    {
+      "id": "mkt:019ed912-e7bb-7dd8-b06c-212a335e3297",
+      "time": "2026-06-18 12:52:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran Foreign Ministry spokesperson BAGHAEI said Iran will not discuss its defense capabilities with any party in any process."
+    },
+    {
+      "id": "mkt:019ed912-ca9e-7dd8-b06c-1deaea11881d",
+      "time": "2026-06-18 12:52:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "BAGHAEI, Iranian Foreign Ministry spokesman, said Iran's missiles exist solely to be launched, not to be negotiated."
+    },
+    {
+      "id": "4942457",
+      "time": "2026-06-18 12:51:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【啟智機器人與犀準機器人簽署戰略合作協議】6月16日，埃夫特旗下啟智（蕪湖）智慧機器人有限公司（簡稱“啟智機器人”）與蕪湖犀準機器人有限公司（簡稱“犀準機器人”）正式簽署戰略合作協議。雙方還同步簽訂了《複合機器人第一階段聯合開發協議》，確立“戰略定長遠、階段保落地”的雙層推進機制，標誌著啟智通用技術底座正式從平臺構建階段，邁入PCB垂直場景的工程化驗證階段。"
+    },
+    {
+      "id": "mkt:019ed912-4c7b-7dd8-b06c-117996a542a3",
+      "time": "2026-06-18 12:51:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says it will not abandon its friends under any circumstances】Iran foreign ministry spokesman Baghaei said Iran will not abandon its friends under any circumstances and regards a ceasefire and end to hostilities in Lebanon as equally important. He said Article 1 of the memorandum of understanding names Lebanon three times and explicitly calls for respect for Lebanon’s territorial integrity and sovereignty."
+    },
+    {
+      "id": "4942456",
+      "time": "2026-06-18 12:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【再度擴圍 135座水工程納入長江流域聯合排程】當前，長江流域正處於主汛期。記者從水利部長江水利委員會瞭解到，今天（18日），水利部批覆《2026年長江流域水工程聯合排程運用計劃》，與2025年相比，今年聯合排程的水工程數量增至135座，進一步擴大了聯合排程範圍，新增金沙江上游葉巴灘水庫、烏江渡水庫和牛欄江-滇池補水工程等3座水工程，並根據最新研究成果最佳化排程方案。據瞭解，從2012年首個聯合排程方案批覆至今，長江流域已連續十五年開展水工程聯合排程實踐，排程範圍從上游10座水庫擴容至今年全流域的135座水工程，排程目標從“單一防洪”拓展至防洪、供水、生態、發電、航運、應急等多目標綜合排程，為長江經濟帶高質量發展提供了堅實水安全保障。"
+    },
+    {
+      "id": "4942455",
+      "time": "2026-06-18 12:51:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳城市更新專案產融對接會成功舉辦】據“深圳金融”訊息，6月17日，由深圳市委金融辦、深圳金融監管局、深圳市住房和建設局（深圳市城市更新局）聯合主辦的“深圳城市更新專案產融對接會”在羅湖成功舉行。11個城市更新重點攻堅專案分場次與商業銀行、資產管理公司等開展深度對接，12個新開工、續建等城市更新專案與金融機構進行意向融資簽約，簽約金額達155億元。"
+    },
+    {
+      "id": "4942454",
+      "time": "2026-06-18 12:50:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：如有必要可能延長後續談判期限 不止60天】伊朗外交部發言人巴加埃：我們將在60天內就核問題和制裁進行談判。如果談判能更早取得成果，則更好。但鑑於問題的複雜性，60天是合理的數字，如有必要，這一期限可延長。"
+    },
+    {
+      "id": "mkt:019ed911-0db9-7dd8-b06c-0f5bd1bb2d98",
+      "time": "2026-06-18 12:50:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says follow-up talks could extend beyond 60 days if necessary】Iran's foreign ministry spokesman Baghaei said Tehran will negotiate nuclear and sanctions issues on a 60‑day timetable; earlier results would be preferable, but given the complexity the 60‑day period is reasonable and may be extended if necessary."
+    },
+    {
+      "id": "te:economy:559929",
+      "time": "2026-06-18 12:50:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Dutch Jobless Rate Holds at 3.9% — The Netherlands’ seasonally adjusted unemployment rate stood at 3.9% in May 2026, unchanged from the previous month and still the lowest level since last August. The number of unemployed people increased by 2 thousand to 399 thousand, while 3.2 million people were outside the labor force, which mainly consists of retirees and individuals unable to work due to illness or disability. At the end of May, the number of unemployment benefits stood at 199,400, down 1.8% from the previous month, as 19,000 new claims were added while 22,800 were terminated. Meanwhile, employment dropped by 24 thousand to 9.829 million, while the labour force declined by 22 thousand to 10.23 million, primarily because more people left the labor market while fewer non-workers found jobs. The gross labor force participation rate edged down to 76.1% from 76.2%, as well as the net participation rate to 73.1% from 73.3%. In May 2025, the jobless rate stood at 3.8%."
+    },
+    {
+      "id": "4942453",
+      "time": "2026-06-18 12:48:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "新能源汽車下鄉服務平臺釋出2026年新能源汽車下鄉車型目錄，共155款車型。（新能源汽車下鄉服務平臺）"
+    },
+    {
+      "id": "4942452",
+      "time": "2026-06-18 12:48:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：美國政府在英特爾的持股目前已超600億美元】特朗普在Truth Social發文表示，我們提出收購要約時，英特爾價值約1000億美元，如今已超過6000億美元。美國政府持有的股權現在超過600億美元。"
+    },
+    {
+      "id": "te:markets:559928",
+      "time": "2026-06-18 12:48:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Slips After Holiday Break — Malaysian palm oil futures fell below MYR 4,500 per tonne, reversing the previous strong rally, as trading resumed after a holiday. Sentiment was pressured by weaker edible oil prices on the Dalian and Chicago markets. A sharp decline in crude oil prices added to the downside after the U.S. and Iran signed an interim agreement aimed at ending hostilities and reopening the Strait of Hormuz, reducing support from the biofuel sector. Meanwhile, Malaysia lowered its July crude palm oil reference price, keeping the export duty unchanged at 10%. Still, losses were limited by a weaker ringgit and expectations of lower production due to the lingering effects of El Niño. Demand prospects also remained supportive after cargo surveyors reported that palm oil exports during June 1–15 rose between 9.6% and 23.8% from the same period in May. In top buyer India, imports are expected to exceed 600,000 tonnes in June after edging up to 549,356 tonnes in May, according to local traders."
+    },
     {
       "id": "mkt:019ed90e-a249-7dd8-b06c-0019374c0a59",
       "time": "2026-06-18 12:47:55",
@@ -173029,39 +173136,6 @@
         "其他"
       ],
       "text": "貝倫貝格銀行將愛馬仕目標股價從2600歐元下調至1850歐元。"
-    },
-    {
-      "id": "4929594",
-      "time": "2026-06-11 12:52:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄國際海軍展會無人系統成焦點】10日，為期4天的俄羅斯國際海軍沙龍“艦隊-2026”展會在聖彼得堡開幕。該展會由俄工貿部和國防部聯合主辦，集中展示俄海軍裝備，共有210家來自俄羅斯和其他國家的軍工企業參展，27個國家派出了代表團。除傳統海軍艦艇之外，今年展會的關注重點是海上無人系統的發展。 （央視軍事）"
-    },
-    {
-      "id": "mkt:019eb505-0b1e-7dd8-afb4-64d5cd73e41d",
-      "time": "2026-06-11 12:51:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Astronomers detect flickering in earliest-known quasar】U.S. astronomers have detected intermittent flickering from a distant quasar dating to the cosmic dawn, about 850 million years after the Big Bang — the earliest such flicker observed. Brightness variations indicate the central supermassive black hole is surrounded by a geometrically thin, optically thick accretion disk: a flattened but very dense, radiation-trapping disk. Researchers report the thin-disk configuration persists even when accretion rates approach the theoretical maximum, a finding that informs models of early supermassive black hole growth."
-    },
-    {
-      "id": "4929593",
-      "time": "2026-06-11 12:50:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中消協已關注鵝腿阿姨事件】近日，“鵝腿阿姨”被舉報賣鴨腿事件，持續引發關注。不少購買過其產品的學子感到被欺騙。對此，6月11日上午，記者以消費者身份致電中國消費者協會，工作人員表示，中消協已關注到此事，將蒐集相關線索，統一彙總成相關情況說明。目前，已有相關行政部門介入調查，中消協將把情況彙總給相關行政部門。 6月10日，“鵝腿阿姨”陳秀鳳曾回應中國新聞週刊，她表示，“鵝腿阿姨”只是多年形成的習慣叫法，“我最早在北大校內賣水果，那時大家都喊我‘水果阿姨’，後來改賣烤腿，就成了如今的‘鵝腿阿姨’。但是賣鴨腿，叫‘鴨腿阿姨’，我感覺不好聽，我說還是叫‘鵝腿阿姨’。” （中國新聞週刊）"
-    },
-    {
-      "id": "4929592",
-      "time": "2026-06-11 12:50:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守91美元/桶，日內漲1.08%。"
     }
   ]
 }
