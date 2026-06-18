@@ -1,7 +1,152 @@
 {
-  "updated": "2026-06-19 00:04:31",
-  "count": 19047,
+  "updated": "2026-06-19 00:08:58",
+  "count": 19052,
   "items": [
+    {
+      "id": "4944007",
+      "time": "2026-06-19 00:08:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心就埃博拉疫情應對工作釋出宣告：已動用1.07億美元應急資金，用於擴大在剛果民主共和國和烏干達的相關抗疫行動。"
+    },
+    {
+      "id": "4944006",
+      "time": "2026-06-19 00:07:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國國防部長：北約危機反應部隊的核心問題在於避免危險的能力缺口，關鍵是要制定一份發展路線圖。"
+    },
+    {
+      "id": "mkt:019edb7d-2010-7dd8-b084-b1f88a77864e",
+      "time": "2026-06-19 00:07:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said the U.S. will withdraw troops to pre-conflict levels."
+    },
+    {
+      "id": "4944005",
+      "time": "2026-06-19 00:07:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我看到一些報道 —— 不清楚訊息來源是什麼 —— 稱卡達已解凍數十億美元伊朗資產。這完全不實。卡達若要解凍這筆資金，必須獲得我方同意，而且相關操作必然會被我們掌握，根本不可能私下完成。"
+    },
+    {
+      "id": "te:markets:560148",
+      "time": "2026-06-19 00:07:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.12% Lower — The FTSE 100 Index decreased 118 points or 1.12 percent on Thursday to close at 10391 points. The decline was led by London Stock Exchange (-6.35%), Persimmon (-6.08%) and WPP (-5.52%)."
+    },
+    {
+      "id": "4944003",
+      "time": "2026-06-19 00:06:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯就伊朗問題表態：我方將把軍隊撤回衝突前水平。"
+    },
+    {
+      "id": "4944000",
+      "time": "2026-06-19 00:05:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：瑞典或因超速擔憂反對特斯拉FSD技術】一份日期為4月30日的監管信函顯示，瑞典交通管理局建議對特斯拉受監督自動駕駛軟體（FSD）在歐洲範圍內的推廣投反對票，除非該公司禁用其超越法定限速的功能。該信函已傳送給歐盟機動車技術委員會，該委員會定於6月30日再次開會討論此事。特斯拉未回應置評請求；瑞典交通管理局（TRV）發言人表示，自4月份發出該信函以來，其立場並未改變。"
+    },
+    {
+      "id": "mkt:019edb7b-5f62-7dd8-b084-acbe6d749fba",
+      "time": "2026-06-19 00:05:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine defense minister says allies have pledged $1 billion in wartime aid."
+    },
+    {
+      "id": "4943997",
+      "time": "2026-06-19 00:04:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX股價跌幅擴大至9%。"
+    },
+    {
+      "id": "mkt:019edb7a-24c3-7dd8-b084-a6bf6035aa35",
+      "time": "2026-06-19 00:04:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance said Iran's missile-launch capability has been degraded."
+    },
+    {
+      "id": "4943996",
+      "time": "2026-06-19 00:04:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "索尼集團公司：提交儲架發行債務申請，規模未披露。"
+    },
+    {
+      "id": "4943995",
+      "time": "2026-06-19 00:03:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談伊朗彈道導彈：伊朗的導彈發射能力已遭到削弱。"
+    },
+    {
+      "id": "mkt:019edb79-28a8-7dd8-b084-9a1233cc4dd1",
+      "time": "2026-06-19 00:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said he will lead the U.S. team in technical talks."
+    },
+    {
+      "id": "4943994",
+      "time": "2026-06-19 00:03:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮向國會提交美伊諒解備忘錄文字】據Politico，白宮週四向美國國會提交了美伊諒解備忘錄。此前，兩黨議員一直抱怨未能更早收到該協議。檔案顯示，美國與伊朗就至少暫時結束由特朗普發起、持續近四個月的軍事行動達成了14項共識。國會收到該協議的時間是在特朗普週三晚間於法國簽署檔案之後不久，隨後副總統萬斯在白宮向記者介紹了該協議。週三，一名特朗普政府官員在向國會議員提供檔案之前，先向記者宣讀了諒解備忘錄內容。此舉引發大批共和黨參議員以及部分眾議院共和黨議員強烈不滿。白宮高階官員已與部分共和黨議員舉行小範圍會議和一對一通話，但預計特朗普政府要到下週才會向全體議員通報該協議。"
+    },
+    {
+      "id": "mkt:019edb79-14bc-7dd8-b084-95c45ae2219e",
+      "time": "2026-06-19 00:03:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【White House submits U.S.-Iran memorandum of understanding to Congress — Politico】Politico reports the White House on Thursday delivered to Congress the text of a U.S.-Iran memorandum of understanding. The document records a 14-point consensus that would, at least temporarily, end U.S. military operations initiated by Trump and continued for nearly four months. Congress received the text shortly after Trump signed it in France Wednesday night; Vice President Pence later briefed reporters. A Trump administration official read the memorandum to reporters before it was provided to members of Congress, sparking strong objections from many Republican senators and some House Republicans. White House senior officials have held limited briefings and one-on-one calls with some Republicans; a full briefing for all members is expected next week."
+    },
+    {
+      "id": "4943993",
+      "time": "2026-06-19 00:03:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯就技術談判表態：我將率領美國代表團。"
+    },
     {
       "id": "mkt:019edb78-cd3f-7dd8-b084-8aa43160c253",
       "time": "2026-06-19 00:03:07",
@@ -175361,109 +175506,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Closes 0.65% Higher — The CAC 40 Index gained 53 points or 0.65 percent on Thursday to close at 8215 points. Gains were led by ArcelorMittal (2.76%), STMicroelectronics (2.72%) and Schneider Electric (2.45%). Biggest losers were Dassault Systemes (-5.84%), Capgemini (-4.16%) and TP (-2.38%)."
-    },
-    {
-      "id": "mkt:019eb770-b194-7dd8-afc6-76777b0de1f3",
-      "time": "2026-06-12 00:07:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New York Fed: U.S. household net worth rose $113.08 bln in Q1."
-    },
-    {
-      "id": "te:markets:558439",
-      "time": "2026-06-12 00:07:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.49% Higher — The FTSE 100 Index went up by 50 points or 0.49 percent on Thursday to close at 10305 points. The rise was led by Standard Chartered (3.55%), Prudential (2.75%) and Easyjet Plc (2.67%). On the downside, the weakerst performers were Halma (-15.94%), The Sage Group (-5.03%) and Intermediate Capital (-4.44%)."
-    },
-    {
-      "id": "4930982",
-      "time": "2026-06-12 00:07:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國第一季度家庭淨資產增加1130.8億美元。"
-    },
-    {
-      "id": "4930981",
-      "time": "2026-06-12 00:06:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：霍爾木茲海峽仍然開放通行。"
-    },
-    {
-      "id": "4930980",
-      "time": "2026-06-12 00:06:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【查諾斯不認同太空資料中心可能成為變革性新市場的說法】資深做空投資者、Chanos & Co.創始人查諾斯不認同太空資料中心可能成為變革性新市場的說法。他表示，儘管這在技術上可行，但此類專案面臨重大的經濟和運營障礙，包括髮射成本、維護挑戰、保險要求以及需要大量冗餘。他說，“資料中心裡的東西一直會壞。”如果這種情況發生在太空，你不能簡單地派一名技術人員帶著替換零件上去。"
-    },
-    {
-      "id": "mkt:019eb76f-76d0-7dd8-afc6-6823df62ac15",
-      "time": "2026-06-12 00:06:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CENTCOM says the Strait of Hormuz remains open to transit."
-    },
-    {
-      "id": "4930979",
-      "time": "2026-06-12 00:06:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆合股份：23.925萬股限售股6月16日解禁】恆合股份公告，本次解除限售股份合計23.925萬股，佔公司總股本0.3391%，可交易時間為2026年6月16日。"
-    },
-    {
-      "id": "4930978",
-      "time": "2026-06-12 00:05:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【嘉晨智慧：聘任李慧彩為證券事務代表】嘉晨智慧公告，公司於2026年6月9日召開第二屆董事會第十五次會議，審議透過《關於聘任公司證券事務代表的議案》，聘任李慧彩為公司證券事務代表。"
-    },
-    {
-      "id": "4930977",
-      "time": "2026-06-12 00:05:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三祥科技：擬增資境外控股子公司三祥泰國】三祥科技公告，為推進全球化戰略佈局、適配持續增長的海外業務訂單需求，公司擬與其他股東同比例對境外控股子公司三祥泰國增資，其中公司增資9000萬泰銖，資金用於擴建海外生產基地、新增金屬接頭生產線。"
-    },
-    {
-      "id": "4930976",
-      "time": "2026-06-12 00:04:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果民主共和國稱，埃博拉確診病例數已升至676例。"
-    },
-    {
-      "id": "4930975",
-      "time": "2026-06-12 00:04:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部下調國內儲備預期，小麥價格延續漲勢。"
     }
   ]
 }
