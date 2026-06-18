@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-19 00:34:20",
-  "count": 19079,
+  "updated": "2026-06-19 00:38:30",
+  "count": 19085,
   "items": [
+    {
+      "id": "4944062",
+      "time": "2026-06-19 00:37:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，格雷洛克資本將退出委內瑞拉債權人委員會指導委員會。"
+    },
+    {
+      "id": "mkt:019edb97-ffe0-7dd8-b085-4ef69028d962",
+      "time": "2026-06-19 00:37:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver down 3.0% intraday at $65.88/oz."
+    },
+    {
+      "id": "4944060",
+      "time": "2026-06-19 00:37:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX盤中一度下挫10% 散戶資金顯現退卻的跡象】SpaceX股價的走勢證明，即便是史上規模最大的首次公開募股(IPO)，也難以免受大型公司上市後常見的股價波動的衝擊。Founder Funds駐達拉斯的合夥人兼投資組合經理Michael Monaghan表示，在投資者權衡未來收入高增長預期與實現路徑並不清晰之際，股價可能還將持續波動。該機構持有SpaceX股票。Vanda Research資料顯示，在SpaceX上市最初幾天一直是淨買家的散戶投資者，週三有所退卻，大部分時間淨流入接近持平，至收盤時僅錄得230萬美元的小幅淨買入。這種情緒似乎延續到了週四。開盤後的前10分鐘內，散戶淨賣出350萬美元，隨後資金流趨於穩定，並重新轉為淨買入。"
+    },
+    {
+      "id": "mkt:019edb97-a235-7dd8-b085-454cba0e3256",
+      "time": "2026-06-19 00:36:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "From Friday local time, France expanded heatwave warnings to 53 departments."
+    },
+    {
+      "id": "mkt:019edb97-71ca-7dd8-b085-3c603cfcdc23",
+      "time": "2026-06-19 00:36:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry responds after South Korean official reiterates joint communique wording on Taiwan】South Korea's foreign ministry director-general for Northeast Asia and Central Asia, Nam Jin, told reporters on the 18th that the China–South Korea joint communique states “The Government of the Republic of Korea recognizes the Government of the People’s Republic of China as the sole legal government of China and respects China’s position that there is only one China and that Taiwan is part of China,” and that Seoul’s position has not changed. China’s foreign ministry said it positively evaluated the full, public restatement and said it hopes and believes Seoul will adhere to the original intent of establishing diplomatic relations, honor political commitments, implement the One-China principle in practice and safeguard the political basis of China–South Korea relations."
+    },
+    {
+      "id": "4944058",
+      "time": "2026-06-19 00:36:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報65.87美元/盎司。"
+    },
+    {
+      "id": "4944057",
+      "time": "2026-06-19 00:36:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4220美元/盎司，日內跌0.94%。"
+    },
+    {
+      "id": "4944056",
+      "time": "2026-06-19 00:36:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4240美元/盎司，日內跌3.28%。"
+    },
+    {
+      "id": "4944055",
+      "time": "2026-06-19 00:36:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國教育部：選擇自動還款的貸款借款人可享受降息優惠。"
+    },
+    {
+      "id": "4944054",
+      "time": "2026-06-19 00:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯： 一旦特朗普察覺到以色列政壇的目標與美國民眾的訴求相悖，他會明確表態，我們將優先維護美國自身利益。"
+    },
     {
       "id": "4944052",
       "time": "2026-06-19 00:33:31",
@@ -35,6 +121,15 @@
         "其他"
       ],
       "text": "XAI：Grok 模型現已上線 Databricks Agent Bricks。"
+    },
+    {
+      "id": "4944049",
+      "time": "2026-06-19 00:31:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國參議員桑德斯將提出法案，賦予民眾AI企業股權】美國參議院桑德斯（Bernie Sanders）正提出一項法案，旨在讓美國公民在人工智慧（AI）公司的運營中擁有發言權。這項名為《美國人工智慧主權財富基金法案》（American AI Sovereign Wealth Fund Act）的提案將設立一項基金，對美國最大的人工智慧公司股票徵收一次性50%的稅。桑德斯表示，該法案將賦予美國民眾阻止對其生活產生負面影響的AI發展的能力，並允許聯邦政府否決損害公眾利益的決策。"
     },
     {
       "id": "4944047",
@@ -175688,52 +175783,6 @@
         "國際"
       ],
       "text": "【Evercore：SpaceX上市在即 美股“錯失恐懼症”還將持續】Evercore ISI首席股票與量化策略師Julian Emanuel表示，在SpaceX上市前夕，“錯失恐懼症”（FOMO）令投資者對那些通常會令華爾街不安的事件表現得不以為意。儘管伊朗面臨美國連續兩天的軍事打擊，以及美國總統特朗普威脅要進一步升級局勢，交易員們週四仍選擇逢低買入。此前，股市自上週五走出了一輪疲軟行情，當時一份出人意料強勁的就業報告加劇了市場對利率上升的擔憂。"
-    },
-    {
-      "id": "4931004",
-      "time": "2026-06-12 00:37:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國授權提供與薩哈林2號相關的某些服務。"
-    },
-    {
-      "id": "4931003",
-      "time": "2026-06-12 00:37:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國頒發與俄羅斯有關的通用許可證。"
-    },
-    {
-      "id": "4931002",
-      "time": "2026-06-12 00:36:41",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：美國財政部對古巴聯合石油公司實施制裁。"
-    },
-    {
-      "id": "mkt:019eb78a-b872-7dd8-afc6-d83e73b23ee3",
-      "time": "2026-06-12 00:36:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI to acquire Ona to bolster Codex agent capabilities】OpenAI said on Thursday it will acquire startup Ona, which supplies secure, preconfigured cloud environments that let AI agents access tools, systems and contextual data. OpenAI said Ona’s tech will enable its programming assistant Codex to run longer-duration tasks and help more organizations deploy agents into production to autonomously perform tasks on users’ behalf. Terms were not disclosed. Ona employees will join OpenAI’s Codex team."
-    },
-    {
-      "id": "4931001",
-      "time": "2026-06-12 00:35:39",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【英國國債收益率跌超2個基點】週四（6月11日）歐市尾盤，英國10年期國債收益率跌2.6個基點，報4.905%，北京時間15:12微漲至4.946%重新整理日高，隨後走低，20:15歐洲央行宣佈加息之後，出現一波衝高回落行情，。兩年期英債收益率跌2.4個基點，報4.341%，歐洲央行宣佈加息後、美國就業資料釋出後、歐洲央行行長拉加德新聞釋出會開始之前重新整理日高至4.381%——短線呈現出衝高回落行情，21:54重新整理日低至4.319%。30年期英債收益率跌2.7個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差跌0.331個基點，報+56.294個基點。"
     }
   ]
 }
