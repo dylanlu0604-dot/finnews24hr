@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-19 00:21:34",
-  "count": 19076,
+  "updated": "2026-06-19 00:25:57",
+  "count": 19074,
   "items": [
+    {
+      "id": "mkt:019edb8c-87a8-7dd8-b085-0d70c02ff215",
+      "time": "2026-06-19 00:24:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dutch prime minister said Russia has shown no sign of serious willingness to negotiate a fair settlement."
+    },
+    {
+      "id": "4944038",
+      "time": "2026-06-19 00:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭首相：俄羅斯並未展現出任何願意透過談判達成公平協議的誠意。"
+    },
+    {
+      "id": "te:markets:560161",
+      "time": "2026-06-19 00:24:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AT&T Stock Price Hits 16-month Low — AT&T shares decreased to 22.24 USD, the lowest since January 2025. Over the past 4 weeks, AT&T lost 8.88%, and in the last 12 months, it decreased 19.52%."
+    },
+    {
+      "id": "4944037",
+      "time": "2026-06-19 00:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX投行團隊籌備發行至少200億美元債券。"
+    },
+    {
+      "id": "4944036",
+      "time": "2026-06-19 00:23:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗將獲准動用60億美元被凍結資金 僅限購買美國產品】據報道，根據美伊之間達成的臨時協議，特朗普政府將允許伊朗動用存放在卡達的60億美元石油收入，用於購買美國的人道主義物資及非受制裁商品。此舉是特朗普政府為確保伊朗信守諒解備忘錄及後續核談判承諾，而丟擲的數十億美元經濟激勵措施的一部分。這筆資金將分階段解凍，具體時間安排在協議規定的60天停火延長期內，並取決於霍爾木茲海峽的重新開放情況以及旨在達成最終解決方案的談判進展。一位知悉該協議的外交官表示，這些資金僅能用於購買美國產品。白宮在被問及此事時未對具體細節置評，但一位美國官員表示，只要伊朗表現出良好行為（例如移交其濃縮鈾），華盛頓將在最終談判期間解凍部分資產。特朗普政府還將給予豁免，允許伊朗在上述60天內出口石油，並解除對伊朗港口的海上封鎖。"
+    },
+    {
+      "id": "mkt:019edb8b-a56b-7dd8-b085-05ddd8e67cae",
+      "time": "2026-06-19 00:23:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran to be allowed to use $6 bln in frozen oil revenues, limited to US purchases】Financial Times reports the Trump administration has agreed under a temporary accord to allow Iran to access $6 bln of oil revenues held in Qatar to purchase US humanitarian and other non-sanctioned goods. The funds will be released in phases during a 60-day ceasefire-extension and are conditional on reopening the Strait of Hormuz and progress toward a final settlement. A diplomat said the money may be spent only on US products. The White House declined detailed comment; a US official said Washington would unfreeze portions of the assets during final negotiations if Iran demonstrates good behavior, citing transfer of enriched uranium as an example. The administration will also issue waivers to permit Iranian oil exports and lift a naval blockade of Iranian ports for the 60-day period."
+    },
+    {
+      "id": "4944035",
+      "time": "2026-06-19 00:22:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Rokos基金考慮從外部蒐集選股思路 效仿部分同行的做法】知情人士稱，由Chris Rokos創立的基金公司正在考慮從外部吸收選股情報，加入Marshall Wace和城堡等一批同行的行列。因討論未公開資訊而不願具名的知情人士表示，Rokos Capital Management正考慮建立一項所謂“阿爾法捕捉”計劃，從賣方資訊提供者那裡獲取有關股票的思路。其中一人稱，相關討論仍處於早期階段，計劃可能有變。總部位於倫敦的Rokos的一位代表不予置評。"
+    },
     {
       "id": "te:economy:560159",
       "time": "2026-06-19 00:20:57",
@@ -175628,92 +175693,6 @@
         "國際"
       ],
       "text": "【加拿大認為有望達成協議以解決USMCA貿易問題】加拿大-美國貿易部長勒布朗（Dominic LeBlanc）表示，他對特朗普政府決定不在7月1日前續簽美國墨西哥加拿大貿易協議（USMCA）並不感到意外。勒布朗預計，雙方將達成一系列協議來解決該協定的爭端。他指出，7月1日僅僅是“三個國家可以決定將協議延長16年的一個時間節點”。美國駐加拿大大使霍克斯特拉（Pete Hoekstra）表示，華盛頓願意加強合作，但敦促加拿大領導人提出更有力的主張，並表示“我們是來與美國合作並滿足其需求的”。"
-    },
-    {
-      "id": "4930993",
-      "time": "2026-06-12 00:25:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐洲電力供應競爭加劇，客戶付費鎖定燃氣輪機生產檔期】全球三大燃氣輪機製造商之一的西門子能源公司表示，歐洲為資料中心和電氣化專案爭奪電力供應的競爭正變得如此激烈，以至於客戶如今願意支付費用，以確保在燃氣輪機生產佇列中佔據位置。公司CEO克里斯蒂安·布魯赫表示：“如今需求高到歐洲客戶已經願意支付預留費用。”這種做法最早於近年出現在美國，當時科技公司競相為耗電巨大的資料中心鎖定發電能力，隨後擴充套件至歐洲和中東。由於歐洲資料中心接入電網需要等待較長時間，一些資料中心正考慮自建發電設施，以便更快投入運營。西門子能源燃氣服務部門負責人卡里姆·阿明表示，尋求預留約六個月製造檔期的客戶通常需要支付相當於一臺輪機購買價格10%至15%的費用。由於燃氣輪機製造商的產能基本已被預訂至本十年末，這類付款已成為有緊迫專案需求的買家確保排隊位置的一種方式。西門子能源的轉化率超過90%，意味著大多數預留最終都會轉化為合同。"
-    },
-    {
-      "id": "4930992",
-      "time": "2026-06-12 00:24:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：五角大樓表示，目前沒有下達整棟大樓的疏散命令。"
-    },
-    {
-      "id": "mkt:019eb77f-e8da-7dd8-afc6-aec19e085fed",
-      "time": "2026-06-12 00:24:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UN Secretary-General Guterres urged all parties to restore full implementation of a comprehensive ceasefire to avoid further deterioration and called on the US and Iran to redouble efforts to reach a peaceful, comprehensive and durable agreement."
-    },
-    {
-      "id": "4930991",
-      "time": "2026-06-12 00:24:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行週四加息後 IMF稱或需進一步加息】國際貨幣基金組織(IMF)表示，歐洲央行將需要再次提高借貸成本。就在數小時前，歐洲央行剛剛加息25個基點。“政策利率將需要上升，以遏制衝擊對通脹的影響，”IMF工作人員週四在報告中表示。該報告總結了IMF對歐元區層面政策的年度評估。IMF的展望假設今年累計加息50個基點，以應對整體通脹和核心通脹到2028年仍高於2%的前景。報告將2026年消費價格漲幅預測從4月份的2.4%上調至2.8%。"
-    },
-    {
-      "id": "mkt:019eb77f-964b-7dd8-afc6-a54edf6984f0",
-      "time": "2026-06-12 00:24:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NewsNation White House reporter: Pentagon says it has not issued an evacuation order for the entire building at this time."
-    },
-    {
-      "id": "mkt:019eb77e-7cc1-7dd8-afc6-9c8d2735d4b1",
-      "time": "2026-06-12 00:23:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "UN spokesperson: Secretary-General Guterres said he is deeply concerned about the escalating situation in the Middle East, citing recent US strikes on Iran and Iran's retaliatory strikes."
-    },
-    {
-      "id": "4930990",
-      "time": "2026-06-12 00:22:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長古特雷斯敦促各方回到全面停火執行的軌道上來，避免局勢進一步惡化。"
-    },
-    {
-      "id": "4930989",
-      "time": "2026-06-12 00:22:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國秘書長古特雷斯：對中東持續升級的局勢深感關切，包括美國對伊朗的打擊以及伊朗方面的打擊。"
-    },
-    {
-      "id": "mkt:019eb77d-ae49-7dd8-afc6-938acc18b725",
-      "time": "2026-06-12 00:22:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "ENR.DE",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "【European customers paying to reserve gas-turbine production slots as power demand heats up】Siemens Energy, one of the world’s three major gas-turbine manufacturers, said competition for power in Europe — driven by data centres and electrification projects — has intensified to the point that customers are paying reservation fees to secure positions in turbine production queues. CEO Christian Bruch said demand is so high that European buyers are now willing to pay reservation fees. With grid connections for data centres taking long lead times, some operators are opting to build on-site generation to accelerate commissioning. Siemens Energy’s gas services head Karim Amin said customers seeking roughly six-month manufacturing slots typically pay fees equal to about 10–15% of a turbine’s purchase price. Manufacturers’ capacity is largely booked through the end of the decade, and Siemens Energy reports a conversion rate above 90%, so most reservations become firm contracts."
     }
   ]
 }
