@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-19 02:09:37",
-  "count": 19059,
+  "updated": "2026-06-19 02:13:45",
+  "count": 19060,
   "items": [
+    {
+      "id": "4944219",
+      "time": "2026-06-19 02:12:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "Claude：Claude Code現在支援Artifacts。"
+    },
+    {
+      "id": "mkt:019edbee-9626-7dd8-b086-9dba48be27de",
+      "time": "2026-06-19 02:11:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump urged Republicans to immediately abolish the Senate filibuster or pass the Save America Act, saying Democrats are advancing state-by-state and pocketing 'wins'."
+    },
+    {
+      "id": "mkt:019edbee-00b0-7dd8-b086-92a5a4ca272f",
+      "time": "2026-06-19 02:11:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said Utah must be prevented from adopting all-mail voting, warning that if mishandled it would give Democrats a large advantage and claiming their policies are so absurd that cheating has become their only route to victory."
+    },
+    {
+      "id": "mkt:019edbed-70bd-7dd8-b086-8ff9cbff1fed",
+      "time": "2026-06-19 02:10:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Utah, which he said he always easily wins, is moving to a Colorado-style all-mail voting system, and that such changes tend to push states toward the left."
+    },
     {
       "id": "4944218",
       "time": "2026-06-19 02:08:34",
@@ -175435,32 +175469,6 @@
         "DXY"
       ],
       "text": "i24News reported Israeli decision-makers said tonight they were preparing for a potential escalation; roughly 30 minutes later a statement from Trump undercut that assessment."
-    },
-    {
-      "id": "4931125",
-      "time": "2026-06-12 02:13:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱其打擊了俄羅斯克拉斯諾達爾地區的阿菲普斯基煉油廠，以及多個與無人機生產相關的設施。"
-    },
-    {
-      "id": "mkt:019eb7e2-70b6-7dd8-afc8-8db5afe62d0f",
-      "time": "2026-06-12 02:12:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Israeli Channel 12 reported Israeli officials were surprised by a post from Trump; Prime Minister Netanyahu learned of it during a cabinet meeting."
-    },
-    {
-      "id": "4931124",
-      "time": "2026-06-12 02:12:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據以色列第12頻道：以色列方面對特朗普釋出的帖文感到意外。以色列總理內塔尼亞胡是在內閣會議期間獲悉這一訊息的。"
     }
   ]
 }
