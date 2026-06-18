@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-18 11:37:02",
-  "count": 18768,
+  "updated": "2026-06-18 11:41:07",
+  "count": 18766,
   "items": [
+    {
+      "id": "4942379",
+      "time": "2026-06-18 11:38:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026年證券公司分類評價正式啟動，功能發揮寫進“評價基因”】監管部門日前已正式啟動2026年證券公司分類評價工作，評價材料報送與自評程式正陸續展開。此次評價將完整適用證監會2025年8月修訂釋出並施行的《證券公司分類評價規定》。新規的修訂邏輯很清晰——突出促進證券公司功能發揮，把“功能性”寫進評價導向；引導行業聚焦高質量發展，給中小機構差異化發展、特色化經營留出空間；同時突出“打大打惡”導向，強化綜合懲戒，把中小投資者保護落到實處的制度抓手上。(中證金牛座)"
+    },
+    {
+      "id": "mkt:019ed8cf-0c50-7dd8-b06a-e5f81621a1fd",
+      "time": "2026-06-18 11:38:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Citigroup now expects the Federal Reserve to cut rates by 25bp in October and December 2026 and January 2027, versus its prior forecast of 25bp cuts in September, October and December this year."
+    },
+    {
+      "id": "4942378",
+      "time": "2026-06-18 11:38:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿麗亞娜6型火箭成功發射36顆亞馬遜低軌衛星】當地時間17日上午，美國亞馬遜公司低地軌道衛星計劃的36顆衛星從法屬蓋亞那庫魯航天中心成功發射。約兩小時後，所有衛星被順利部署到預定軌道。此次發射任務由歐洲阿麗亞娜6型運載火箭完成。 據阿麗亞娜航天公司官網介紹，本次任務首次使用P160C動力助推器，該升級使阿麗亞娜6型火箭在低地軌道的有效載荷提高到約22噸。 根據合同，為部署亞馬遜低軌衛星，阿麗亞娜6型運載火箭將執行18次發射任務，本次發射是第三次任務。(新華社)"
+    },
+    {
+      "id": "te:economy:559910",
+      "time": "2026-06-18 11:37:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Extends 3-Session Decline — China's 10-year government bond yield fell to around 1.72% on Thursday, extending losses for a third consecutive session and hitting a more than one-week low, as the growing role of bond financing could support the People's Bank of China's efforts to lower borrowing costs. The shift toward bond issuance reflects China's ongoing transition to a high-tech, innovation-driven economy, where capital market funding often offers cheaper financing than traditional bank loans. Government and corporate debt accounted for a record 30% of China's outstanding credit stock in May. Meanwhile, the People's Bank of China has been supporting liquidity conditions in the 200 trillion yuan bond market through policy operations, helping to keep yields low and ease funding costs across the economy. Separately, investors are closely watching the final session of the Lujiazui Forum for further policy signals and potential support measures."
+    },
+    {
+      "id": "4942377",
+      "time": "2026-06-18 11:37:13",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "花旗集團預計，美聯儲將分別在2026年10月、12月和2027年1月各降息25個基點；此前花旗的預測為今年9月、10月和12月各降息一次。"
+    },
     {
       "id": "4942376",
       "time": "2026-06-18 11:35:53",
@@ -172901,65 +172956,6 @@
         "其他"
       ],
       "text": "【第十二屆中國（上海）國際技術進出口交易會開幕】以“打造技術貿易新生態共繪全球合作新篇章”為主題的第十二屆中國（上海）國際技術進出口交易會6月11日在上海開幕。本屆上交會參展企業首次突破1000家，首發首展專案15項。德國、法國等國家和地區的26家境外貿易促進機構、商協會組織的74家企業參展，展示機器人、精密製造、數字化解決方案等創新成果，將釋出80餘項技術合作需求。（上觀新聞）"
-    },
-    {
-      "id": "mkt:019eb4c4-b674-7dd8-afb3-a308044ab5a8",
-      "time": "2026-06-11 11:40:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 20-year government bond yield rose 2.0 bps to 3.575%."
-    },
-    {
-      "id": "4929514",
-      "time": "2026-06-11 11:39:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京電控等投資成立電子科技公司，註冊資本20億元】企查查APP顯示，近日，北京鴻晟融信電子科技有限公司成立，法定代表人為呂景瀟，註冊資本為20億元，經營範圍包含：積體電路設計；積體電路製造；積體電路銷售；技術進出口；進出口代理等。企查查股權穿透顯示，該公司由北京御極科技有限公司、北京電子控股有限責任公司共同持股。"
-    },
-    {
-      "id": "mkt:019eb4c3-6aea-7dd8-afb3-9e1460e3842e",
-      "time": "2026-06-11 11:39:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. State Department urges U.S. citizens in Jordan to 'shelter in place' amid reported strikes】The U.S. State Department said there are reports of missiles, drones or rockets in Jordanian airspace and urged U.S. citizens in Jordan to \"immediately seek shelter, remain indoors and monitor local notices and alerts,\" Xinhua reported."
-    },
-    {
-      "id": "4929513",
-      "time": "2026-06-11 11:38:35",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院發表宣告說，有報道顯示，約旦領空內正發生導彈、無人機或者火箭彈襲擊，美國公民應“立即尋找掩護並就地躲避，留在室內並留意當地的通知和警報”。（新華社）"
-    },
-    {
-      "id": "mkt:019eb4c2-6034-7dd8-afb3-966f8007cf67",
-      "time": "2026-06-11 11:38:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's State Post Bureau opens case against J&T Express Co., Ltd.】China's State Post Bureau has opened a formal investigation into J&T Express Co., Ltd. after year-to-date multiple production-safety incidents at firms operating under the \"J&T Express\" trademark, trade name and waybills. Inspections repeatedly found on-site safety hazards; the regulator said J&T failed to oversee safety management across related companies and did not implement mandated unified safety protections."
-    },
-    {
-      "id": "4929512",
-      "time": "2026-06-11 11:37:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世紀恆通新設科技公司，含遊藝用品銷售業務】企查查APP顯示，近日，陝西鏈合持恆科技有限公司成立，法定代表人為朱明理，經營範圍包含：資訊系統整合服務；體育用品及器材零售；家用電器銷售；玩具銷售；玩具、動漫及遊藝用品銷售等。企查查股權穿透顯示，該公司由世紀恆通間接全資持股。"
-    },
-    {
-      "id": "4929511",
-      "time": "2026-06-11 11:37:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠科股份在成都成立半導體研發公司，註冊資本1億】天眼查App顯示，6月10日，成都惠芯半導體研發有限公司成立，法定代表人為盧集暉，註冊資本1億人民幣，經營範圍包括光電子器件製造、光電子器件銷售、電子專用材料製造等，由惠科股份有限公司全資持股。"
     }
   ]
 }
