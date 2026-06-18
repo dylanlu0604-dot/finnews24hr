@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19 02:33:18",
-  "count": 19048,
+  "updated": "2026-06-19 02:37:12",
+  "count": 19043,
   "items": [
     {
       "id": "4944230",
@@ -175316,50 +175316,6 @@
         "國際"
       ],
       "text": "印度：商業使用者必須從自有加油站購買汽油和高速柴油。"
-    },
-    {
-      "id": "4931143",
-      "time": "2026-06-12 02:36:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：Pamela Nash辭去英國國防部政務私人秘書職務。"
-    },
-    {
-      "id": "mkt:019eb7f8-9b63-7dd8-afc8-fba4b7a186d8",
-      "time": "2026-06-12 02:36:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK government: Pamela Nash has resigned as ministerial private secretary at the Ministry of Defence."
-    },
-    {
-      "id": "4931142",
-      "time": "2026-06-12 02:34:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度：將每位顧客每日零售高速柴油銷量限制在200升以內。"
-    },
-    {
-      "id": "mkt:019eb7f6-5b40-7dd8-afc8-f131a331ef99",
-      "time": "2026-06-12 02:33:56",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) was awarded a $395.8 mln contract by the U.S. Office of Personnel Management to provide a human resources platform."
-    },
-    {
-      "id": "4931141",
-      "time": "2026-06-12 02:33:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "甲骨文獲美國人事管理局授予3.958億美元人力資源平臺合同。"
     }
   ]
 }
