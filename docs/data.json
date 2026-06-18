@@ -1,7 +1,169 @@
 {
-  "updated": "2026-06-19 00:59:30",
-  "count": 19106,
+  "updated": "2026-06-19 01:03:45",
+  "count": 19110,
   "items": [
+    {
+      "id": "mkt:019edbaf-8f9d-7dd8-b085-e91fe2a5b0dc",
+      "time": "2026-06-19 01:02:56",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury sold $24 bln of five-year TIPS at a stop-out yield of 1.955%; bid-cover ratio 2.61."
+    },
+    {
+      "id": "mkt:019edbaf-345f-7dd8-b085-e154c2c16206",
+      "time": "2026-06-19 01:02:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US gas-directed rig count 122 in the week to June 19, up from 121 in the prior week."
+    },
+    {
+      "id": "4944104",
+      "time": "2026-06-19 01:02:25",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣240億美元五年期通脹保值國債（TIPS），得標利率1.955%，投標倍數2.61。"
+    },
+    {
+      "id": "mkt:019edbaf-1865-7dd8-b085-dfa2102411a3",
+      "time": "2026-06-19 01:02:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Jun.19) | actual 122 | previous 121"
+    },
+    {
+      "id": "mkt:019edbaf-112c-7dd8-b085-d2f30f68990d",
+      "time": "2026-06-19 01:02:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. total rig count for week to June 19: 563 rigs, compared with 562 in the prior week."
+    },
+    {
+      "id": "mkt:019edbae-f7f1-7dd8-b085-cff82cc1b0b8",
+      "time": "2026-06-19 01:02:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Jun.19) | actual 563 | previous 562"
+    },
+    {
+      "id": "4944103",
+      "time": "2026-06-19 01:02:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會：要求阿拉賓度製藥剝離四款不同的仿製藥產品，以完成其以2.5億美元收購拉內特公司的交易。"
+    },
+    {
+      "id": "mkt:019edbae-ba40-7dd8-b085-c141fafd2802",
+      "time": "2026-06-19 01:02:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US oil rigs totaled 433 in the week to June 19, unchanged from the previous week."
+    },
+    {
+      "id": "4944102",
+      "time": "2026-06-19 01:01:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "奈飛宣佈與鄰近媒體電視公司（Proximity Media Television）達成多年創意合作協議。"
+    },
+    {
+      "id": "mkt:019edbae-a434-7dd8-b085-bbcf2e3d65fd",
+      "time": "2026-06-19 01:01:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Jun.19) | actual 433 | previous 433"
+    },
+    {
+      "id": "4944101",
+      "time": "2026-06-19 01:01:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至6月18日當週，美國石油鑽井平臺數量維持不變，為433座，較去年同期減少5座。"
+    },
+    {
+      "id": "4944100",
+      "time": "2026-06-19 01:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月19日當週總鑽井數 563，前值 562。美國6月19日當週天然氣鑽井數 122，前值 121。"
+    },
+    {
+      "id": "4944099",
+      "time": "2026-06-19 01:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝克休斯：截至6月18日當週，美國天然氣鑽井平臺數量增加1座，至122座。"
+    },
+    {
+      "id": "4944098",
+      "time": "2026-06-19 00:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署（EPA）資料顯示，5月美國生成12.6億加侖D6乙醇調合積分，4月為12.2億加侖。"
+    },
+    {
+      "id": "mkt:019edbac-bbdf-7dd8-b085-b6d284a99e39",
+      "time": "2026-06-19 00:59:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. military says naval vessels will remain in the region to ensure compliance with a U.S.-Iran agreement."
+    },
+    {
+      "id": "4944097",
+      "time": "2026-06-19 00:59:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部長Ebrard：墨西哥與美國已就汽車、農業貿易展開磋商。"
+    },
+    {
+      "id": "mkt:019edbac-453a-7dd8-b085-ab0518b8bc4b",
+      "time": "2026-06-19 00:59:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The U.S. military said on Thursday it has lifted a maritime blockade on all traffic to and from Iranian ports and coastal areas, did not impede vessels travelling to or from Iranian ports, and has ceased all blockade enforcement operations."
+    },
     {
       "id": "4944096",
       "time": "2026-06-19 00:58:12",
@@ -175838,137 +176000,6 @@
         "Treasury Yields"
       ],
       "text": "US 30-year Treasury yield trimmed an earlier drop after a Treasury auction, slipping 0.8bp to 5.018%."
-    },
-    {
-      "id": "4931022",
-      "time": "2026-06-12 01:03:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國至6月11日30年期國債競拍-得標利率 5.02%，前值5.046%。\n美國至6月11日30年期國債競拍-得標利率配置百分比 32.36%，前值72.06%。\n美國至6月11日30年期國債競拍-投標倍數 2.33，前值2.3。"
-    },
-    {
-      "id": "4931021",
-      "time": "2026-06-12 01:02:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲資料顯示美國商業票據規模上週擴大】美聯儲週四公佈的資料顯示，截至6月10日當週，美國商業票據規模增加。最新一週，經季節性調整後的美國未償商業票據規模增加114億美元，至1.413萬億美元。未經季節性調整的未償商業票據規模下降69億美元，至1.466萬億美元。一些分析師認為，未經季節性調整的資料比經季節性調整的資料更可靠，因為後者受到金融危機影響而出現失真。未經季節性調整的外國金融機構商業票據未償規模下降72億美元，至3560億美元。"
-    },
-    {
-      "id": "4931020",
-      "time": "2026-06-12 01:02:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國的目標是削弱古巴利用能源貿易的能力。"
-    },
-    {
-      "id": "mkt:019eb7a2-91d8-7dd8-afc7-426eeb0d9b7f",
-      "time": "2026-06-12 01:02:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Federal Reserve data show US commercial paper outstanding rose in week to June 10】Federal Reserve data on Thursday showed seasonally adjusted US commercial paper outstanding rose $11.4 bln in the week to June 10, to $1.413 tln. Not seasonally adjusted outstanding fell $6.9 bln to $1.466 tln; some analysts say unadjusted series is more reliable because seasonal adjustment is distorted by effects dating to the financial crisis. Unadjusted commercial paper issued by foreign financial institutions fell $7.2 bln to $356 bln."
-    },
-    {
-      "id": "mkt:019eb7a2-7244-7dd8-afc7-3f489940237a",
-      "time": "2026-06-12 01:02:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 30-year Treasury auction on June 11 bid-to-cover ratio 2.33; prior 2.30."
-    },
-    {
-      "id": "mkt:019eb7a2-71b7-7dd8-afc7-340104a4f987",
-      "time": "2026-06-12 01:02:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. 30-year Treasury auction on June 11: share of the issue awarded at the stop-out yield 32.36%, prior 72.06%."
-    },
-    {
-      "id": "mkt:019eb7a2-6b8d-7dd8-afc7-2c81f6d38e53",
-      "time": "2026-06-12 01:02:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "US 30-year Treasury auction on June 11: stop-out yield 5.02%, prior 5.046%."
-    },
-    {
-      "id": "4931019",
-      "time": "2026-06-12 01:02:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：古巴國家石油公司（Union Cuba Petroleo）因在古巴能源領域開展業務被列入制裁名單。"
-    },
-    {
-      "id": "mkt:019eb7a2-46a3-7dd8-afc7-22b2ebfe13d9",
-      "time": "2026-06-12 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 30-Year Bid/Cover Ratio (Jun.11) | actual 2.33 | previous 2.3"
-    },
-    {
-      "id": "mkt:019eb7a2-46a3-7dd8-afc7-1df0c4cfae2b",
-      "time": "2026-06-12 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 30-Year Bond Auction Accepted at High (Jun.11) | actual 32.36% | previous 72.06%"
-    },
-    {
-      "id": "mkt:019eb7a2-468d-7dd8-afc7-12e0fb5b0dd5",
-      "time": "2026-06-12 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 30-Year Bond Auction High Yield Rate (Jun.11) | actual 5.02% | previous 5.046%"
-    },
-    {
-      "id": "4931018",
-      "time": "2026-06-12 01:00:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：古巴國家石油公司多年前非法侵佔美國所有者資產。"
-    },
-    {
-      "id": "4931017",
-      "time": "2026-06-12 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.05%，滬銅收漲0.13%，滬鋁收漲0.62%，滬鋅收跌0.19%，滬鉛收跌0.74%，滬鎳收漲0.25%，滬錫收漲1.91%。氧化鋁夜盤收漲1.18%，鋁合金收漲0.04%。不鏽鋼夜盤收漲1.76%。"
     }
   ]
 }
