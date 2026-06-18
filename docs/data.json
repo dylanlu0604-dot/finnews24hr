@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-19 00:30:09",
-  "count": 19078,
+  "updated": "2026-06-19 00:34:20",
+  "count": 19079,
   "items": [
+    {
+      "id": "4944052",
+      "time": "2026-06-19 00:33:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【OPEC認為全球石油需求尚看不到峰值 能源安全蓋過氣候考量】OPEC仍認為全球石油需求尚看不到峰值，預計隨著美國、歐洲及其他地區政府在氣候目標之外也優先考慮能源安全和能源可負擔性，需求將出現“強勁增長”。“對能源安全和能源可負擔性的關注上升，已經改變了全球能源政策格局，”OPEC表示，“在許多情況下，這些轉變反映出，此前為降低石油需求而設定的高遠目標和承諾被逆轉、推遲或取消。”OPEC在其年度《世界石油展望》中表示，石油需求預計將從2025年的日均1.051億桶，增至2030年的日均1.133億桶，到2050年達到日均1.241億桶。該組織對石油需求的樂觀看法與國際能源署等其他預測機構形成鮮明對比。總部位於巴黎的國際能源署此前剛剛預測，美國和以色列對伊朗發動的戰爭對全球石油需求的衝擊將遠比此前預期嚴重得多，預計今年全球日均石油消費量將減少110萬桶。"
+    },
+    {
+      "id": "4944051",
+      "time": "2026-06-19 00:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國教育部宣佈降低學生貸款利率。"
+    },
+    {
+      "id": "mkt:019edb94-2b34-7dd8-b085-348a2ef5658b",
+      "time": "2026-06-19 00:33:00",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact mixed"
+      ],
+      "text": "【SpaceX plans at least $20bln bond issue to refinance $20bln bridge loan】SpaceX (SPCX.O) is planning an investment-grade US dollar bond offering of at least $20 billion to refinance a $20 billion bridge loan maturing September 2027, people familiar with the matter said. Banks may begin investor calls as early as next week, with outreach possibly starting Monday; size and timing remain subject to change. Proceeds would replace the bridge facility that, as of March 31, accounted for the bulk of SpaceX’s $29.1 billion of long-term debt. BofA, Citigroup, JP Morgan, Goldman Sachs and Morgan Stanley jointly provided the bridge and are expected to lead underwriting."
+    },
+    {
+      "id": "4944050",
+      "time": "2026-06-19 00:31:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "XAI：Grok 模型現已上線 Databricks Agent Bricks。"
+    },
+    {
+      "id": "4944047",
+      "time": "2026-06-19 00:31:11",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【分析：美聯儲公佈決定後加密貨幣未平倉合約驟降】CryptoQuant的Amr Taha在一份報告中表示，在幣安交易的兩大主要加密貨幣——比特幣和以太幣的衍生品未平倉合約出現了“大幅槓桿重置”。Taha說，在宣佈利率保持不變後，比特幣未平倉合約下降了18%，以太幣未平倉合約下降了25%。“比特幣和以太幣同時下降，表明幣安衍生品市場的風險偏好普遍降低，”Taha說。“交易員可能選擇在美聯儲釋出公告前後平倉，而不是帶著槓桿去面對可能出現波動的市場反應。”"
+    },
+    {
+      "id": "4944046",
+      "time": "2026-06-19 00:30:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭首相：美國對俄羅斯施壓對達成和平協議至關重要。"
+    },
+    {
+      "id": "4944045",
+      "time": "2026-06-19 00:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國教育部公佈最新學生貸款違約資料：美國整治行動下，學生貸款違約人數增至916萬。"
+    },
+    {
+      "id": "4944044",
+      "time": "2026-06-19 00:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯回應以色列批評特朗普言論：不該抨擊盟友】美國副總統 JD・萬斯嚴厲斥責以色列國內反對美伊臨時和平協議的人士，他於週四發出警告：“我絕不會去攻擊我國如今在全球僅存的重要盟友。”萬斯在白宮接受記者採訪時稱，當下全世界只有唐納德・特朗普總統真心站在以色列這邊。他同時批評以色列內閣官員，以色列絕大多數防禦武器均由美國出資提供。萬斯表示：“以色列真正的難題根本不是唐納德・J・特朗普。以色列國內但凡有人把美國總統視作本國最大麻煩，都該清醒認清國家當下的現實處境。”"
+    },
     {
       "id": "mkt:019edb90-bc8c-7dd8-b085-2cd9bfeb2abd",
       "time": "2026-06-19 00:29:16",
@@ -175665,70 +175734,6 @@
         "國際"
       ],
       "text": "【英國國債收益率跌超2個基點】週四（6月11日）歐市尾盤，英國10年期國債收益率跌2.6個基點，報4.905%，北京時間15:12微漲至4.946%重新整理日高，隨後走低，20:15歐洲央行宣佈加息之後，出現一波衝高回落行情，。兩年期英債收益率跌2.4個基點，報4.341%，歐洲央行宣佈加息後、美國就業資料釋出後、歐洲央行行長拉加德新聞釋出會開始之前重新整理日高至4.381%——短線呈現出衝高回落行情，21:54重新整理日低至4.319%。30年期英債收益率跌2.7個基點，50年期英債收益率跌2.6個基點。2/10年期英債收益率利差跌0.331個基點，報+56.294個基點。"
-    },
-    {
-      "id": "mkt:019eb788-2108-7dd8-afc6-d72c81fd0097",
-      "time": "2026-06-12 00:33:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNBC reports OpenAI will acquire Ona to enhance the capabilities of its AI coding assistant CODEX."
-    },
-    {
-      "id": "mkt:019eb787-6ea8-7dd8-afc6-c8efe1fcaf28",
-      "time": "2026-06-12 00:32:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Information reports ANTHROPIC has discussed arrangements for Google to provide financial guarantees for part of its lease obligations. ANTHROPIC has signed more than 10 letters of intent with multiple U.S. developers to lease data-center facilities."
-    },
-    {
-      "id": "4931000",
-      "time": "2026-06-12 00:32:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：Anthropic已與多家美國開發商簽訂十餘份資料中心設施租賃意向書。"
-    },
-    {
-      "id": "4930999",
-      "time": "2026-06-12 00:32:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：Anthropic已就谷歌為其部分租賃義務提供財務擔保的相關安排展開磋商。"
-    },
-    {
-      "id": "mkt:019eb786-a282-7dd8-afc6-c5929d9f7cc2",
-      "time": "2026-06-12 00:31:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "According to The Information, Anthropic is seeking to sign initial data-center lease agreements and is seeking funding from Google (GOOG.O)."
-    },
-    {
-      "id": "mkt:019eb786-3a2f-7dd8-afc6-bb66ed73ea42",
-      "time": "2026-06-12 00:31:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pentagon \"hazardous-materials incident\" triggered by false alarm】Two U.S. officials said on June 11 local time a lockdown and evacuations at the Pentagon were caused by a false alarm. Earlier multiple sources and the local fire department had reported a \"hazardous-materials incident\" that prompted floor and corridor lockdowns and partial evacuations. A Pentagon spokesperson said building sensors detected an air-quality anomaly, prompting precautionary \"shelter-in-place\" orders for affected areas; an emergency response team is on site to investigate and support personnel."
-    },
-    {
-      "id": "4930998",
-      "time": "2026-06-12 00:31:17",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "市場訊息：人工智慧公司Anthropic尋求首份資料中心租賃協議，並向谷歌爭取融資支援。"
     }
   ]
 }
