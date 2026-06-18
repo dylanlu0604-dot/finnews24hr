@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-18 12:45:03",
-  "count": 18774,
+  "updated": "2026-06-18 12:49:06",
+  "count": 18773,
   "items": [
+    {
+      "id": "mkt:019ed90e-a249-7dd8-b06c-0019374c0a59",
+      "time": "2026-06-18 12:47:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's New Energy Vehicles to the Countryside service platform published the 2026 catalogue of models eligible for the program, listing 155 models."
+    },
+    {
+      "id": "mkt:019ed90e-70c3-7dd8-b06b-fdb177d18e1e",
+      "time": "2026-06-18 12:47:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry spokesman Baghaei said Iran will not negotiate on its nuclear program at this stage, calling the decision prudent, and that Tehran has decided to focus on ending the war and has completed that work."
+    },
+    {
+      "id": "mkt:019ed90d-ea04-7dd8-b06b-f2c0a19cba7a",
+      "time": "2026-06-18 12:47:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian Foreign Ministry spokesperson Baghaei said the memorandum text stresses negotiations are confined solely to the nuclear issue and sanctions relief."
+    },
+    {
+      "id": "mkt:019ed90d-bc54-7dd8-b06b-e98706c2b651",
+      "time": "2026-06-18 12:46:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BAGHAEI, Iran foreign ministry spokesperson, said Tehran must both monitor counterpart compliance with the agreement and negotiate nuclear issues and sanctions relief."
+    },
+    {
+      "id": "mkt:019ed90d-9d9c-7dd8-b06b-e3130350be03",
+      "time": "2026-06-18 12:46:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry spokesman Baghaei said our work is not finished; it has just begun."
+    },
+    {
+      "id": "4942449",
+      "time": "2026-06-18 12:44:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【粵港澳遊艇自由行正式落地 首批港澳遊艇入境首航】6月18日，首批20餘艘港澳遊艇相繼抵達廣州、深圳、珠海、中山四地指定口岸碼頭，順利入境開始首航，粵港澳遊艇自由行正式落地。 今年5月，國務院作出《關於同意在粵港澳大灣區內地九市暫時調整實施有關行政法規規定的批覆》，在大灣區內地九市暫時調整實施《中華人民共和國海關事務擔保條例》《中華人民共和國船舶登記條例》有關規定。6月，廣東省人民政府印發《廣東省粵港澳遊艇自由行管理辦法》。  （央視）"
+    },
     {
       "id": "4942448",
       "time": "2026-06-18 12:43:19",
@@ -173003,73 +173062,6 @@
         "焦點"
       ],
       "text": "WTI原油失守91美元/桶，日內漲1.08%。"
-    },
-    {
-      "id": "4929591",
-      "time": "2026-06-11 12:49:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【星展集團計劃推出代幣化實物黃金以順應需求增長】正值新加坡旨在加強其作為貴金屬中心地位之際，該國星展集團(DBS Group)正計劃推出代幣化實物黃金。該行週四表示，星展集團的實物黃金代幣是新加坡首個此類產品，將允許零售客戶以數字方式獲取、持有和交易代幣化實物黃金。代幣化意味著一項真實資產的所有權由一枚可以進行電子交易的區塊鏈代幣來代表。該行表示，每一枚代幣都由星展集團存放在新加坡金庫中的一克實物黃金為支撐，這些代幣將於下半年透過該行的數字應用程式推出。"
-    },
-    {
-      "id": "4929590",
-      "time": "2026-06-11 12:48:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【天文學家探測到極早期宇宙類星體的“閃爍”】美國天文學家發現一個遙遠類星體會忽明忽暗地閃爍，它來自“宇宙黎明”時期，即大爆炸後僅8.5億年。這是迄今探測到的最早的閃爍類星體，其亮度變化可幫助揭示幼年宇宙中的超大質量黑洞是怎樣形成的。 相關論文日前發表在英國《自然-天文學》雜誌上。  （新華社）"
-    },
-    {
-      "id": "4929589",
-      "time": "2026-06-11 12:48:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守94美元/桶，日內漲0.96%。"
-    },
-    {
-      "id": "mkt:019eb502-6385-7dd8-afb4-5d590216eb42",
-      "time": "2026-06-11 12:48:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI crude down 1.0% intraday at $91.76/bbl. Brent crude slipped 0.8% on the day to below $93/bbl."
-    },
-    {
-      "id": "4929588",
-      "time": "2026-06-11 12:46:50",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【受金屬市場疲軟影響 澳大利亞礦業股跌至逾一個月低點】澳大利亞礦業股指數一度下跌2.8%，創下5月5日以來的最低點。若當前走勢持續，該子指數將連續第五個交易日下跌。鐵礦石期貨下跌，中東衝突升級推高油價並引發對全球經濟增長的擔憂，銅價亦隨之下跌。澳交所上市的美國鋁業公司和奧拉班達礦業公司領跌，分別下跌8.2%和7.3%。指數權重股力拓集團、福特斯克礦業和必和必拓各自下跌1%至2%。"
-    },
-    {
-      "id": "4929587",
-      "time": "2026-06-11 12:45:20",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利：印度信實集團在人工智慧領域的投資回報率可能超過12%】摩根士丹利預計，信實的AI/資料中心業務將實現超過12%的資本回報率（ROCE），約為過去十年其電信和消費類投資回報率的兩倍報告補充稱，信實計劃在七年內投入1,100億美元用於人工智慧，這一規模與該公司此前在消費業務上的投入相當。週三，Meta 表示將租賃一座由穆克什·安巴尼旗下公司建造的AI就緒資料中心。"
-    },
-    {
-      "id": "4929586",
-      "time": "2026-06-11 12:45:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【腦虎科技“三全”腦機介面完成異地對弈驗證，全鏈路延時低於50毫秒】6月11日，介面新聞從腦虎科技獲悉，兩名分別位於滬贛兩地的高位截癱患者，透過其自研“全植入、全無線、全功能”腦機介面系統完成了異地象棋對弈。試驗中，受試者無肢體動作，憑神經訊號透過虛擬棋盤與外骨骼手套控制棋子，全鏈路延時在50毫秒以內，驗證了該系統在真實動態場景下的實時解碼魯棒性與精細運動輔助能力。"
     }
   ]
 }
