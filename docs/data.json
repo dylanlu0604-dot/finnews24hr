@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-19 00:46:45",
-  "count": 19083,
+  "updated": "2026-06-19 00:51:12",
+  "count": 19088,
   "items": [
+    {
+      "id": "mkt:019edba3-d1e6-7dd8-b085-7e48a6c928d7",
+      "time": "2026-06-19 00:50:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. oil rig count for the week to June 19 due in 10 minutes."
+    },
+    {
+      "id": "mkt:019edba3-2845-7dd8-b085-77da82d68afd",
+      "time": "2026-06-19 00:49:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury said the Office of Foreign Assets Control will sanction additional individuals in Lebanon, Syria, Iraq and Oman for raising funds for Hezbollah."
+    },
+    {
+      "id": "mkt:019edba2-db98-7dd8-b085-6c2dc2ef087c",
+      "time": "2026-06-19 00:49:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury sanctioned Lebanese officials and other individuals allied with Hezbollah for obstructing the Lebanese peace process and delaying Hezbollah's disarmament."
+    },
+    {
+      "id": "4944077",
+      "time": "2026-06-19 00:47:19",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【德國兩年期國債收益率於沃什首秀次日漲2個基點】週四（6月18日）歐市尾盤，德國10年期國債收益率漲0.2個基點，報2.929%，日內交投於2.945%-2.916%區間，整體大致呈現出W形走勢。兩年期德債收益率漲2.0個基點，報2.607%，美聯儲主席凱文·沃什首秀過後，跳空高開至2.827%，瞬間回撤至2.619%，日內絕大部分時間交投於這一水平附近；30年期德債收益率跌1.3個基點，報3.468%，跳空低開之後主要持穩於這樣的水平。2/10年期德債收益率利差跌1.935個基點，報+32.060個基點，14:27曾跳水至+24.881個基點。"
+    },
+    {
+      "id": "4944076",
+      "time": "2026-06-19 00:47:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【英國兩年期國債收益率在央行決議日漲約3個基點】週四（6月18日）歐市尾盤，英國10年期國債收益率漲0.6個基點，報4.757%，美聯儲主席凱文·沃什上任以來首次新聞釋出會過後微幅高開，北京時間19:00英國央行宣佈利率決定、釋放鴿派訊號之後回撤至4.770%下方，短線出現一波V形走勢——19:15重新整理日高至4.782%。兩年期英債收益率漲2.8個基點，報4.185%，英國央行宣佈按兵不動時重新整理日高至4.220%。30年期英債收益率跌1.3個基點，50年期英債收益率跌0.8個基點。2/10年期英債收益率利差跌3.799個基點，報+56.882個基點，15:00跳空低開、英國央行釋出利率決定時候重新整理日低至+55.876個基點。"
+    },
+    {
+      "id": "4944075",
+      "time": "2026-06-19 00:47:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：外國資產控制辦公室（OFAC）還將額外針對黎巴嫩、敘利亞、伊拉克和阿曼境內為真主黨籌集資金的人員實施制裁。"
+    },
+    {
+      "id": "4944074",
+      "time": "2026-06-19 00:46:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：因親真主黨的黎巴嫩官員及其他相關方阻礙黎巴嫩和平程序、拖延真主黨解除武裝，對其實施制裁。"
+    },
+    {
+      "id": "te:markets:560163",
+      "time": "2026-06-19 00:46:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum is down by 5% — Platinum decreased 5% to 1703.2 USD/t.oz"
+    },
     {
       "id": "4944073",
       "time": "2026-06-19 00:45:12",
@@ -175739,34 +175813,6 @@
         "其他"
       ],
       "text": "LME期銅收跌33美元，報13482美元/噸。LME期鋁收漲36美元，報3502美元/噸。LME期鋅收漲5美元，報3496美元/噸。"
-    },
-    {
-      "id": "mkt:019eb795-af9d-7dd8-afc7-04a9143fdf96",
-      "time": "2026-06-12 00:48:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran armed forces say they will respond more forcefully if U.S. attacks again】The commander of Iran's Hatam al-Anbiya Central Headquarters said U.S. rhetoric about agreements contrasts with what he called malicious actions, a contradiction he blamed for regional instability that threatens trade, the international economy and security, especially the Strait of Hormuz. He warned any renewed U.S. attack on Iran would be met with a harsher, broader response that would expand the fighting and deepen regional insecurity. Citing recent U.S. threats against Iranian oil infrastructure, he said Iran's oil and gas exports will be either open to all or closed to all."
-    },
-    {
-      "id": "4931013",
-      "time": "2026-06-12 00:47:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事司令部：針對近期美國對伊朗石油設施發出的威脅，（我方立場是）要麼所有國家都能出口油氣，要麼誰都別想獲得油氣。"
-    },
-    {
-      "id": "4931012",
-      "time": "2026-06-12 00:46:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部：戰火將進一步蔓延擴大，引發地區局勢動盪不安。"
     }
   ]
 }
