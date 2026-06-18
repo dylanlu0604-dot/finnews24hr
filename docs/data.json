@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-18 09:33:08",
-  "count": 18758,
+  "updated": "2026-06-18 09:37:10",
+  "count": 18753,
   "items": [
+    {
+      "id": "4942199",
+      "time": "2026-06-18 09:36:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創業板指漲1.7%，再創歷史新高】創業板指漲1.7%，再創歷史新高。培育鑽石、半導體裝置、非金屬材料板塊漲幅居前。"
+    },
+    {
+      "id": "mkt:019ed85e-8281-7dd8-b068-66a899736e61",
+      "time": "2026-06-18 09:35:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share non-metallic materials sector rose in early trade; Sanxiang New Materials hit the daily limit. Lianrui New Materials, Liliang Diamond, Tianma New Materials and Longgao Co. also gained."
+    },
+    {
+      "id": "4942198",
+      "time": "2026-06-18 09:35:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股下跌3%。"
+    },
+    {
+      "id": "mkt:019ed85e-6687-7dd8-b068-5dc9d2c20a21",
+      "time": "2026-06-18 09:35:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share storage-chip sector rose amid volatile trade; Jingsheng hit a 20% limit-up, Zhongjing Electronics locked at the daily limit, Shengke Nano and Lihexing climbed more than 10%, Alaide and Shengshi Technology also advanced."
+    },
+    {
+      "id": "4942197",
+      "time": "2026-06-18 09:35:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂聚機器人等新設具身壹號股權投資基金】企查查APP顯示，近日，合肥具身壹號股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由樂聚機器人關聯公司樂聚智慧（深圳）股份有限公司等共同出資。"
+    },
+    {
+      "id": "4942196",
+      "time": "2026-06-18 09:34:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置板塊拉昇，晶升股份觸及漲停】半導體裝置板塊拉昇，晶升股份觸及漲停，屹唐股份、恆運昌、金海通、盛美上海、華亞智慧跟漲。"
+    },
+    {
+      "id": "4942195",
+      "time": "2026-06-18 09:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶通科技與光輪智達成深度合作 共建物理AI資料應用】據寶通科技訊息，近日，寶通科技與光輪智慧（北京）科技有限公司達成深度合作，雙方共同出資設立合資公司，圍繞工業、礦業、深空等高價值場景，共建面向工業機器人的持續學習基礎設施，推動物理AI走向真實產業部署。"
+    },
+    {
+      "id": "4942194",
+      "time": "2026-06-18 09:33:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻纖概念震盪調整 山東玻纖跌停】玻纖概念震盪調整，山東玻纖跌停，長海股份跌超10%，宏和科技、中國巨石、國際復材、中材科技跟跌。"
+    },
+    {
+      "id": "4942193",
+      "time": "2026-06-18 09:33:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃達豐發言人表示，此次網路中斷是由於澳大利亞時間上午8時左右，公司其中一個網路樞紐發生故障所致。"
+    },
+    {
+      "id": "mkt:019ed85c-175b-7dd8-b068-548ff77dc91d",
+      "time": "2026-06-18 09:32:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "China A-shares opened mixed: ChiNext rose over 1% in early trade, Shenzhen Composite Index up 0.21%, Shanghai Composite Index down 0.28%; non-metal materials and semiconductor sectors outperformed."
+    },
+    {
+      "id": "4942192",
+      "time": "2026-06-18 09:32:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃達豐發言人稱，澳大利亞境內的問題已被隔離並解決，服務正在逐步恢復。"
+    },
     {
       "id": "4942190",
       "time": "2026-06-18 09:32:29",
@@ -172637,158 +172743,6 @@
         "其他"
       ],
       "text": "【小米宣佈開源AI程式設計助手MiMo Code】6月11日，小米MiMo技術團隊正式釋出AI程式設計助手MiMo Code。MiMo Code基於開源專案OpenCode開發，支援持久記憶系統、無限上下文、模型Agent協同最佳化、獨創Compose模式等；支援接入DeepSeek、Kimi、GLM等主流模型，採用MIT協議開源，並內建限時免費的多模態模型MiMo V2.5。"
-    },
-    {
-      "id": "4929328",
-      "time": "2026-06-11 09:37:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，OpenAI考慮大幅降價，以期在與Anthropic的使用者爭奪戰中佔據有利地位。"
-    },
-    {
-      "id": "4929327",
-      "time": "2026-06-11 09:36:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金<程式碼>=XAU>上漲近1%，報每盎司4112.46美元。"
-    },
-    {
-      "id": "4929326",
-      "time": "2026-06-11 09:36:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“2026·全球人權治理高階論壇”在北京開幕】全球人權治理高階論壇”今天（11日）上午在北京開幕並舉行全體會議。本次論壇為期兩天，來自100多個國家和聯合國等國際和地區組織的400多名中外嘉賓應邀與會，以紀念聯合國《發展權利宣言》透過40週年為契機，圍繞“以發展促進人權”理念，探討全球人權治理議題。"
-    },
-    {
-      "id": "te:markets:558214",
-      "time": "2026-06-11 09:36:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Extend Losses — The benchmark KOSPI traded lower to around 7,700 on Thursday, extending losses from the previous session amid weakness in global technology shares and escalating tensions in the Middle East. Chipmakers remained under pressure after a renewed selloff in US semiconductor stocks fueled concerns over stretched AI-related valuations, weighing on major Korean tech names. Samsung Electronics (-0.3%) edged lower, while Hyundai Motor (-3.0%), LG Energy Solution (-2.5%), Kia Corporation (-4.7%), Hanwha Aerospace (-5.0%), and Doosan Enerbility (-5.2%) posted sharper declines. Market sentiment was also dampened by rising geopolitical risks after the US threatened further military action against Iran, raising fears of supply disruptions in the Strait of Hormuz and pushing oil prices higher. Meanwhile, South Korea’s exports surged 86% year-on-year in the first 10 days of June to a record high, driven by robust semiconductor shipments, helping limit deeper losses."
-    },
-    {
-      "id": "mkt:019eb452-695a-7dd8-afb1-45f73dedeb43",
-      "time": "2026-06-11 09:36:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share coal stocks opened higher; Dayou Energy hit the daily limit-up and Antai Group rose over 7%, with Baotailong, Shaanxi Black Cat, Zhengzhou Coal Power, Yunmei Energy and Jinkong Coal also advancing."
-    },
-    {
-      "id": "4929325",
-      "time": "2026-06-11 09:35:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭開採加工板塊拉昇，大有能源漲停】煤炭開採加工板塊拉昇，大有能源漲停，安泰集團、寶泰隆、雲煤能源、陝西黑貓、鄭州煤電跟漲。"
-    },
-    {
-      "id": "4929324",
-      "time": "2026-06-11 09:35:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股智譜直線拉昇，現漲超7%。"
-    },
-    {
-      "id": "4929323",
-      "time": "2026-06-11 09:35:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達2.24%，成分股中，鼎智科技跌6.13%，連城數控跌4.89%，一諾威跌5.38%，華密新材跌4.50%。"
-    },
-    {
-      "id": "4929322",
-      "time": "2026-06-11 09:34:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4111.96美元/盎司。"
-    },
-    {
-      "id": "mkt:019eb451-6d79-7dd8-afb1-3c5f1f91e508",
-      "time": "2026-06-11 09:34:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "00568.HK",
-        "Impact bullish",
-        "02178.HK",
-        "01033.HK"
-      ],
-      "text": "Hong Kong oil and gas services stocks rallied: Shandong Molong (00568.HK) rose over 16%, Baiqin Oilfield Service (02178.HK) gained more than 9%; Sinopec Oilfield Service (01033.HK) and Dalipu Holdings (01921.HK) also climbed."
-    },
-    {
-      "id": "4929321",
-      "time": "2026-06-11 09:34:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.01%，成分股中，中控技術跌3.28%，天合光能跌4.24%，晶科能源跌2.82%，國盾量子跌2.25%。"
-    },
-    {
-      "id": "4929320",
-      "time": "2026-06-11 09:34:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒指、恒生科技指數轉漲。"
-    },
-    {
-      "id": "4929319",
-      "time": "2026-06-11 09:33:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【天然氣概念持續走強，山東墨龍漲停】天然氣概念持續走強，山東墨龍漲停，新錦動力、長江能科、雅克科技、天壕能源、凱添燃氣、美能能源等跟漲。"
-    },
-    {
-      "id": "4929318",
-      "time": "2026-06-11 09:33:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體材料板塊短線衝高，康強電子漲停】半導體材料板塊短線衝高，康強電子漲停，江豐電子漲超12%，歐萊新材、領先股份、雅克科技跟漲。"
-    },
-    {
-      "id": "mkt:019eb450-3c33-7dd8-afb1-300d60f7940f",
-      "time": "2026-06-11 09:33:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China A-share semiconductor sector opened sharply higher; Juguang Technology hit the daily limit-up and Jiangfeng Electronics rose over 12%, with other chip names also advancing. The Ministry of Industry and Information Technology issued the AI+ICT Innovation Development Implementation Opinions (2026–2028), calling for strengthened R&D on high-end optoelectronic chips and devices and pilot trials of optoelectronic hybrid networking technologies."
-    },
-    {
-      "id": "4929317",
-      "time": "2026-06-11 09:33:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "半導體板塊盤初拉昇，炬光科技20cm漲停，江豐電子漲超12%，傑華特、富創精密、中微半導、匯成股份、帝奧微等個股跟漲。"
     }
   ]
 }
