@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-19 03:01:19",
-  "count": 19054,
+  "updated": "2026-06-19 03:05:16",
+  "count": 19056,
   "items": [
+    {
+      "id": "mkt:019edc1e-4587-7dd8-b087-3626af8259bd",
+      "time": "2026-06-19 03:03:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US dollar index (DXY) rose over 0.50% intraday to 100.89."
+    },
+    {
+      "id": "mkt:019edc1e-1ea7-7dd8-b087-2db4bb0a3212",
+      "time": "2026-06-19 03:03:41",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "GBP/USD slid to 1.32, its lowest since April 6, down 0.71% intraday."
+    },
+    {
+      "id": "mkt:019edc1c-e16c-7dd8-b087-26b871f97b77",
+      "time": "2026-06-19 03:02:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's statistics bureau reported a May trade surplus of $3.504 billion, versus a Refinitiv survey expectation of $2.2 billion."
+    },
+    {
+      "id": "4944254",
+      "time": "2026-06-19 03:01:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌7%，現報66.31美元/盎司。"
+    },
+    {
+      "id": "4944253",
+      "time": "2026-06-19 03:00:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部資料顯示，5月美國活牛出欄量完成原定計劃的88.0%（市場預期為89.4%）。"
+    },
+    {
+      "id": "4944252",
+      "time": "2026-06-19 03:00:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）資料顯示，截至6月1日，美國飼餵牛存欄量為去年同期的102.0%，市場預估值為102.5%。"
+    },
+    {
+      "id": "4944251",
+      "time": "2026-06-19 03:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部稱，美國飼養場牛數量較上年同期增長2.1%。"
+    },
     {
       "id": "4944250",
       "time": "2026-06-19 03:00:03",
@@ -175362,48 +175426,6 @@
         "The Trump Trade"
       ],
       "text": "Qatar's emir spoke by phone with US President Trump."
-    },
-    {
-      "id": "4931158",
-      "time": "2026-06-12 03:05:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達埃米爾與特朗普通電話。"
-    },
-    {
-      "id": "mkt:019eb812-bf68-7dd8-afc9-4c90f4f6ea65",
-      "time": "2026-06-12 03:04:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NZD/USD rose 0.50% intraday to 0.5824."
-    },
-    {
-      "id": "4931157",
-      "time": "2026-06-12 03:04:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7720元，較週三夜盤收盤漲18點。成交量327.61億美元。"
-    },
-    {
-      "id": "4931156",
-      "time": "2026-06-12 03:03:24",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲公佈6月至7月國債購買計劃。"
-    },
-    {
-      "id": "mkt:019eb810-de58-7dd8-afc9-43bd7f9773a0",
-      "time": "2026-06-12 03:02:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India notified that orders covering petrol and high-speed diesel will be effective for up to 90 days."
     }
   ]
 }
