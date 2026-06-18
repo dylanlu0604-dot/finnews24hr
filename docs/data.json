@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-19 04:29:36",
-  "count": 18974,
+  "updated": "2026-06-19 04:33:47",
+  "count": 18975,
   "items": [
+    {
+      "id": "mkt:019edc70-18d8-7dd8-b088-43fa1b550c76",
+      "time": "2026-06-19 04:33:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Intel (INTC.O) said it appointed a new head of its foundry business to accelerate R&D and manufacturing."
+    },
+    {
+      "id": "4944297",
+      "time": "2026-06-19 04:32:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾：將先進封裝業務獨立為專項業務板塊，並設立專屬管理團隊統籌運營。"
+    },
+    {
+      "id": "4944296",
+      "time": "2026-06-19 04:31:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾宣佈英特爾晶圓代工事業部高層人事任命，以加速研發與製造業務發展。"
+    },
+    {
+      "id": "mkt:019edc6e-079a-7dd8-b088-397cb9eb844c",
+      "time": "2026-06-19 04:30:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Change in foreign official holdings of US Treasuries: -$2.118 bln in the week to June 12; prior -$13.555 bln."
+    },
+    {
+      "id": "mkt:019edc6d-d906-7dd8-b088-371b394f50e5",
+      "time": "2026-06-19 04:30:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Jun.12) | actual -2118000000B | previous -13555000000.000002B"
+    },
     {
       "id": "4944295",
       "time": "2026-06-19 04:28:42",
@@ -174588,51 +174630,6 @@
         "MKT News"
       ],
       "text": "【Prime Minister Starmer appoints Dan Jarvis as defence secretary】On the 11th Prime Minister Starmer appointed Dan Jarvis as defence secretary, replacing John Healey, who resigned the same day. Downing Street said Jarvis had been minister of state for security at the Home Office, with long responsibility for domestic security, counter‑terrorism and border security. Healey posted an open letter to Starmer on social media saying he was resigning because the government had failed to provide sufficient funding for defence."
-    },
-    {
-      "id": "mkt:019eb862-a5ab-7dd8-afcb-7de920e3a0e2",
-      "time": "2026-06-12 04:32:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Al Arabiya TV cited sources saying talks on Lebanon and regional security will continue after a US-Iran agreement is reached."
-    },
-    {
-      "id": "mkt:019eb861-50bc-7dd8-afcb-76c0ecac44cf",
-      "time": "2026-06-12 04:30:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Foreign central banks' holdings of US Treasuries fell $13.56bn in the week to June 5, versus a $32.69bn decline the prior week."
-    },
-    {
-      "id": "mkt:019eb861-2362-7dd8-afcb-6cab5c0479a9",
-      "time": "2026-06-12 04:30:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Jun.5) | actual -13555000000.000002B | previous -32686000000B"
-    },
-    {
-      "id": "4931246",
-      "time": "2026-06-12 04:29:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，伊朗不會在自身紅線問題上妥協。"
     }
   ]
 }
