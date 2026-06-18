@@ -1,7 +1,126 @@
 {
-  "updated": "2026-06-18 16:31:53",
-  "count": 18996,
+  "updated": "2026-06-18 16:35:55",
+  "count": 18994,
   "items": [
+    {
+      "id": "4942953",
+      "time": "2026-06-18 16:35:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所對*ST和科下發監管函】深交所釋出關於對深圳市和科達精密清洗裝置股份有限公司的監管函。公司披露的《關於前期會計差錯更正的公告》顯示，公司披露的《2025年一季度報告》《2025年半年度報告》《2025年三季報報告》存在會計差錯。公司因此調減了2025年前三季度報告的營業收入、淨利潤等科目，其中對2025年第三季度報告營業收入調減2395.53萬元，佔調整前營業收入的比例為14.25%；對歸屬於母公司股東的淨利潤調減1035.67萬元，由盈轉虧。公司的上述行為違反了本所《股票上市規則（2026年修訂）》第1.4條、第2.1.1條的規定。"
+    },
+    {
+      "id": "mkt:019ed9de-3217-7dd8-b074-48ca2bce4d0c",
+      "time": "2026-06-18 16:34:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia said it welcomed a US-Iran agreement."
+    },
+    {
+      "id": "4942952",
+      "time": "2026-06-18 16:34:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：認為我在股市剛剛創歷史新高、油價“暴跌”時對伊朗不夠強硬的人，他們要麼嫉妒，要麼是壞人，要麼是愚蠢的。"
+    },
+    {
+      "id": "4942951",
+      "time": "2026-06-18 16:34:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱其對美伊達成協議表示歡迎。"
+    },
+    {
+      "id": "mkt:019ed9dd-dba4-7dd8-b074-445176375c22",
+      "time": "2026-06-18 16:34:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said those who think he was not tough enough on Iran when the stock market had just hit record highs and oil prices were \"plummeting\" are either jealous, bad people, or stupid."
+    },
+    {
+      "id": "4942950",
+      "time": "2026-06-18 16:33:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星火空間獲數千萬Pre-A+輪融資】6月18日，合肥星火空間科技有限公司（簡稱“星火空間”）宣佈獲得凱輝基金Pre-A+輪數千萬元投資，所籌資金將加速“進化一號”電迴圈液體運載火箭的研製與首飛程序。據星火空間介紹，公司正聚焦發動機可靠性試車、火箭一子級動力系統試車、首飛火箭總裝總測三大核心任務，計劃於2027年實現火箭首飛。"
+    },
+    {
+      "id": "4942949",
+      "time": "2026-06-18 16:33:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "新華保險：獲准發行不超過人民幣100億元無固定期限資本債券。"
+    },
+    {
+      "id": "mkt:019ed9dc-c19a-7dd8-b074-3e9a74a37d73",
+      "time": "2026-06-18 16:33:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan closed at 6.7623 per USD at 16:30 on June 18, down 54 pips from the previous trading day."
+    },
+    {
+      "id": "4942948",
+      "time": "2026-06-18 16:32:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元6月18日16:30收盤報6.7623，較上一交易日下跌54點。"
+    },
+    {
+      "id": "4942947",
+      "time": "2026-06-18 16:32:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "勞合社市場協會：霍爾木茲海峽航運恢復常態尚需數月時間。"
+    },
+    {
+      "id": "mkt:019ed9dc-2062-7dd8-b074-357a065311b2",
+      "time": "2026-06-18 16:32:22",
+      "tags": [
+        "MKT News",
+        "USDCHF",
+        "Impact mixed"
+      ],
+      "text": "Swiss National Bank chairman said the bank offers no forward guidance and will decide at each meeting."
+    },
+    {
+      "id": "4942946",
+      "time": "2026-06-18 16:31:55",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【香港交易所與金管局推出試點專案為衍生產品收市後交易時段提供數碼支付方案】香港交易及結算所有限公司（香港交易所）與香港金融管理局（金管局）今日（6月18日）宣佈推出一項聯合試點專案，研究在衍生產品市場收市後交易時段提供新的數碼支付方案。此試點專案旨在最佳化香港資本市場，並滿足市場對收市後交易時段持續增長的需求。香港交易所與金管局正研究引入“數碼港元”—採用24/7運作模式的批發層面央行數碼貨幣（CBDC）—用於支付收市後交易時段的預繳按金，以提升衍生產品市場在銀行營業時段以外的風險管理能力，同時維持現有作業流程不變。"
+    },
+    {
+      "id": "mkt:019ed9db-a59d-7dd8-b074-296e1943ff72",
+      "time": "2026-06-18 16:31:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Market Regions",
+        "Greater China",
+        "0388.HK",
+        "Impact bullish"
+      ],
+      "text": "【HKEX, HKMA pilot digital HKD for after-hours derivatives margin payments】On June 18, Hong Kong Exchange (HKEX) and the Hong Kong Monetary Authority (HKMA) launched a joint pilot to study a digital Hong Kong dollar — a wholesale central bank digital currency operating 24/7 — for pre-funded margin payments in after-hours derivatives trading. The pilot aims to support growing demand for post-close trading and improve risk management outside bank business hours while keeping existing operational workflows unchanged."
+    },
     {
       "id": "4942945",
       "time": "2026-06-18 16:31:16",
@@ -175102,142 +175221,6 @@
         "公司"
       ],
       "text": "【廣譽遠澄清：始終聚焦中醫藥主業，無定增注入農業資產計劃】廣譽遠6月11日在互動平臺表示，關於定增注入農業資產事宜，公司已明確澄清，始終聚焦中醫藥主責主業，無此類計劃。未來若涉及資本運作事項，將嚴格按規定履行資訊披露義務。"
-    },
-    {
-      "id": "4930010",
-      "time": "2026-06-11 16:35:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST萬邦：股票交易異常波動 控股股東正籌劃股份協議轉讓】ST萬邦公告稱，公司股票在2026年6月9日至11日連續3個交易日內收盤價格跌幅偏離值累計超12%，屬異常波動。經核查，公司前期披露資訊無更正、補充之處，未發現公共媒體報道未公開重大資訊，目前經營正常。控股股東及實際控制人正籌劃公司股份協議轉讓事宜，尚未簽署正式協議，存在不確定性。此外，公司2025年度財報被出具保留意見，內控被出具否定意見，股票自2026年5月6日起被實施其他風險警示。"
-    },
-    {
-      "id": "4930009",
-      "time": "2026-06-11 16:35:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本福島第一核電站核汙染水排海作業重啟】當地時間11日，日本東京電力公司宣佈，福島第一核電站此前因警報啟動而自動停止的核汙染水排海作業已重啟。10日16時（北京時間15時）許，東京電力公司福島第一核電站在進行核汙染水輸送作業時，系統異常警報被觸發，導致核汙染水排海作業自動停止。東京電力公司於本月1日啟動第20輪核汙染水排海。根據東京電力公司此前釋出的資料，本次排放計劃持續至6月19日，預計排放核汙染水總量約7800噸，含放射性氚總量約1.3萬億貝克勒爾。（央視新聞）"
-    },
-    {
-      "id": "te:economy:558331",
-      "time": "2026-06-11 16:34:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bulgaria",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Bulgaria Trade Deficit Widens in April — Bulgaria’s trade deficit widened to EUR 1,292.2 million in April 2026 from EUR 928.1 million in the corresponding month of the previous year. Imports jumped 18.8% year-on-year to EUR 5,251.3 million, driven by higher purchases from both EU (+1.4%) and non-EU (+42.3%) countries. The largest increase in imports was recorded in mineral fuels and related products (+43.5%). Meanwhile, exports advanced 13.4% to EUR 3,959.1 million, supported by stronger sales to both EU (+11.3%) and non-EU (+17.1%) countries. The largest increase in exports was recorded in fats, oils, and waxes of animal and vegetable origin (+90.0%). During the January–April 2026 period, the country posted a cumulative trade deficit of EUR 4,444.2 million, compared with EUR 3,403.2 million in the same period a year earlier, with exports rose 7.3%, while imports increased 11.8%."
-    },
-    {
-      "id": "4930008",
-      "time": "2026-06-11 16:34:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：日本高市早苗與特朗普擬在七國集團峰會期間會面 。"
-    },
-    {
-      "id": "4930007",
-      "time": "2026-06-11 16:34:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守89美元/桶，日內跌1.14%。"
-    },
-    {
-      "id": "mkt:019eb5d1-926b-7dd8-afb8-e450e7ca2d8b",
-      "time": "2026-06-11 16:34:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "【Peng Wenjun: Hong Kong has attracted more than 124 firms in just over three years】At HKEX’s Future Tech Summit, Peng Wenjun, CEO of Hong Kong’s Office for Attracting Key Enterprises, said Hong Kong has drawn over 124 firms in just over three years, with planned investment of about 730 billion yuan and an expected 25,000 jobs. The city has received 600,000 high-end talent applications, of which 400,000 have been approved. Policy moves to support industry include creation of CMPR — described as a Hong Kong FDA-equivalent regulator — and a dedicated office to speed drug and device entry into Hong Kong hospitals. On AI and compute, Hong Kong has built a public supercomputing center; in March Runze launched a large compute project in Hong Kong expected to deliver 180,000 P of capacity within 42 months, and the city plans to found an AI research institute this year. In new manufacturing and clean energy, CATL has opened its sixth global R&D centre in Hong Kong. Authorities are also promoting energy efficiency, microelectronics and third-generation semiconductor development."
-    },
-    {
-      "id": "mkt:019eb5d1-9132-7dd8-afb8-dbf75780a2bc",
-      "time": "2026-06-11 16:34:30",
-      "tags": [
-        "MKT News",
-        "BHP.AX",
-        "Impact bearish"
-      ],
-      "text": "Australia's Electrical Trades Union said its members voted to support stop-work action at BHP's Port Hedland export hub in Western Australia."
-    },
-    {
-      "id": "4930006",
-      "time": "2026-06-11 16:34:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守92美元/桶，日內跌1.21%。"
-    },
-    {
-      "id": "4930005",
-      "time": "2026-06-11 16:34:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞電氣工會：100%成員投票支援在必和必拓位於西澳大利亞州的黑德蘭港出口樞紐實施停工。"
-    },
-    {
-      "id": "4930004",
-      "time": "2026-06-11 16:33:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【高盛：AI投資規模仍被低估 2030年Token消耗量或增長24倍】高盛報告稱，超大規模資料中心運營商在AI領域的支出可能遠超市場預期。高盛分析師估計，到2027年，超大規模資料中心運營商的資本支出可能達到約1.1萬億美元，在樂觀情況下，支出可能會攀升至1.4萬億美元，而華爾街的預期約為9200億美元。該行預測，到2030年Token消耗量將增長24倍，這主要得益於企業代理的興起。而Token消耗量越大，需要的計算能力就越多，這反過來又會刺激對資料中心、晶片、網路裝置和電力基礎設施的需求。"
-    },
-    {
-      "id": "4930003",
-      "time": "2026-06-11 16:33:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特外交部：持續侵犯兄弟國家主權的行為，加劇了地區緊張局勢。"
-    },
-    {
-      "id": "4930002",
-      "time": "2026-06-11 16:33:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣期所：2026年端午節期間交易時間安排】廣期所公告，6月19日（週五）至6月21日（週日）休市，6月22日（週一）起照常開市。"
-    },
-    {
-      "id": "4930001",
-      "time": "2026-06-11 16:33:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【彭文俊：近三年多來，已引入超過124家企業來到香港】6月11日，2026年香港交易所未來科技峰會上，香港引進重點企業辦公室執行總裁彭文俊談到，近三年多來，已引入超過124家企業到香港，預計會在香港投入730億，創造25000個工作崗位。同期，香港共收到60萬份高階人才申請，獲批數量已達40萬份。過去幾年，彭文俊提到，香港在各個產業板塊正陸續推出大量扶持政策。以生命健康科技領域為例，香港即將成立CMPR，也就是香港的FDA制度。上個月，香港還設立了藥械引進專項辦公室，旨在加快各類藥物進入香港醫療機構使用。人工智慧領域，香港已自建超算中心，今年3月，潤澤也在香港落地大型算力專案，預計42個月內可提供18萬P的算力，今年香港還將成立人工智慧研發院；在新一代製造和新能源領域，寧德時代已在香港設立全球第六大研發中心。同時，香港也在大力推動節能減排、微電子、第三代半導體等產業發展。（介面新聞記者 鄒文榕）"
-    },
-    {
-      "id": "4930000",
-      "time": "2026-06-11 16:32:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光大期貨：國內需求低迷形成拖累 短期鋼價或繼續偏弱震盪】國內螺紋鋼期價震盪走弱，未能延續前一交易日的拉漲態勢。在光大期貨看來，最新一週螺紋鋼表需繼續下降，供需資料表現偏弱，終端需求表現低迷難以消化當前的高供應，構成對鋼價的壓制。在此基本面下，螺紋盤面整體或呈現震盪偏弱執行態勢。"
-    },
-    {
-      "id": "4929999",
-      "time": "2026-06-11 16:32:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四川九洲：控股股東一致行動人增持股份 觸及總股本1%整數倍】四川九洲公告稱，2026年6月8 - 10日，控股股東一致行動人九洲創投透過集中競價交易增持189.63萬股，佔總股本0.19%。至此，控股股東及一致行動人合計持股49872.14萬股，佔總股本49.07%，權益變動觸及1%整數倍。此前九洲創投等計劃6個月內增持不低於508.75萬股且不超過617.5萬股，此次增持未達計劃最低股數。九洲創投承諾規定期限內完成增持且不減持。"
     }
   ]
 }
