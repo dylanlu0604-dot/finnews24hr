@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-18 08:43:37",
-  "count": 18766,
+  "updated": "2026-06-18 08:47:53",
+  "count": 18771,
   "items": [
+    {
+      "id": "4942115",
+      "time": "2026-06-18 08:46:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加280.12億元】截至6月17日，上交所融資餘額報14882.12億元，較前一交易日增加145.23億元；深交所融資餘額報14336.39億元，較前一交易日增加134.89億元；兩市合計29218.51億元，較前一交易日增加280.12億元。"
+    },
+    {
+      "id": "4942114",
+      "time": "2026-06-18 08:46:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠信工業等成立智鏈科技公司 含AI相關業務】企查查APP顯示，近日，浙江彩星智鏈科技有限公司成立，經營範圍包含：供應鏈管理服務；人工智慧應用軟體開發；計算機系統服務；資訊系統整合服務等。企查查股權穿透顯示，該公司由遠信工業等共同持股。"
+    },
+    {
+      "id": "4942113",
+      "time": "2026-06-18 08:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【恆力重工10天內簽訂超80億元新造船訂單】繼希臘海事展完成21+4艘總價值近150億元新船的簽約後，恆力重工10天內再次簽約5型共16艘船，總金額超80億元。本次落地的船舶訂單來自亞洲和歐洲的國際知名船東，深耕遠洋運輸多年。"
+    },
+    {
+      "id": "4942112",
+      "time": "2026-06-18 08:44:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4310美元/盎司，日內漲1.27%。"
+    },
+    {
+      "id": "4942111",
+      "time": "2026-06-18 08:44:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4330美元/盎司，日內跌1.15%。"
+    },
+    {
+      "id": "mkt:019ed82f-ecd3-7dd8-b067-22270f38f3d0",
+      "time": "2026-06-18 08:44:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver's intraday gain widened to 2.00%, trading at $69.29/oz."
+    },
+    {
+      "id": "4942110",
+      "time": "2026-06-18 08:44:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報69.28美元/盎司。"
+    },
+    {
+      "id": "mkt:019ed82e-c159-7dd8-b067-1c918ee17c38",
+      "time": "2026-06-18 08:43:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian Defence Ministry reports gains in Donetsk; Ukraine says it repelled attacks on multiple fronts】The Russian Defence Ministry said on the 17th its forces achieved three significant gains in Donetsk region: in Konstantinovka they seized 96 buildings; in Lyman they captured six defensive positions and 61 buildings and destroyed Ukraine's last local supply artery, the Mayaky crossing on the Siverskyi Donets; they also took control of one populated settlement. Ukraine's General Staff said on the 17th there were 237 engagements over the previous day and that Ukrainian forces repelled Russian attacks in multiple directions. Ukraine said its air force, missile troops and artillery struck 11 Russian personnel assembly areas, three artillery pieces and one command post, and reported shooting down 2,052 Russian drones."
+    },
+    {
+      "id": "4942109",
+      "time": "2026-06-18 08:43:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中車等在蘇州新設創投基金】企查查APP顯示，近日，華輿國科戰新（蘇州）創業投資基金合夥企業（有限合夥）成立，出資額15億元，經營範圍包含：創業投資（限投資未上市企業）；股權投資；以自有資金從事投資活動。企查查股權穿透顯示，該公司由中國中車全資子公司中車資本管理有限公司等共同出資。"
+    },
     {
       "id": "4942108",
       "time": "2026-06-18 08:42:52",
@@ -57,6 +134,15 @@
         "Impact bearish"
       ],
       "text": "【Huatai Securities: Fed to hold rates through September; December hike odds near 50%】Huatai Securities notes the Fed left the policy rate at 3.50–3.75% and the dot plot signals potential precautionary hikes in 2026. Fed remarks at the press conference on forward guidance and operating practices were broadly unchanged, and the Fed announced five working groups, including one on monetary policy communication, as part of its reform push. Huatai maintains that the Fed will keep rates unchanged before September, assigns roughly a 50% probability of a December hike, and sees the possibility of two cumulative hikes by the end of next year."
+    },
+    {
+      "id": "em:qqyh_mlc:202606183775303075",
+      "time": "2026-06-18 08:39:29",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【華泰證券：9月前美聯儲將維持利率不變 年底12月加息機率接近50%】華泰證券研報稱，北京時間6月18日凌晨美聯儲公佈6月議息會議決定，政策利率維持在3.5%—3.75%，點陣圖指示2026年可能預防式加息；沃什在記者會上對前瞻指引、美聯儲運作的表態與此前類似，並宣佈成立包括貨幣政策溝通在內的五個工作組，兌現其改革美聯儲的承諾。向前看，華泰證券維持此前判斷，9月前美聯儲將維持利率不變，年底12月加息機率接近50%，至明年底可能累計加息2次。"
     },
     {
       "id": "4942103",
@@ -172873,50 +172959,6 @@
         "其他"
       ],
       "text": "【兩市融資餘額減少80.91億元】截至6月10日，上交所融資餘額報14478.58億元，較前一交易日減少43.65億元；深交所融資餘額報14011.81億元，較前一交易日減少37.26億元；兩市合計28490.39億元，較前一交易日減少80.91億元。"
-    },
-    {
-      "id": "mkt:019eb425-bd2d-7dd8-afb0-1aa8d643ea5b",
-      "time": "2026-06-11 08:47:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's JUNO publishes first physics result in Nature】June 10 — China's Jiangmen Underground Neutrino Observatory (JUNO) had its first physics result published as a cover article in Nature. The paper, “Precision measurement of two neutrino oscillation parameters,” uses 59 days of data collected Aug. 26–Nov. 2, 2025, and reports high-precision measurements of two key oscillation parameters with precision 1.6× better than the combined results of prior experiments over past decades."
-    },
-    {
-      "id": "4929231",
-      "time": "2026-06-11 08:44:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧省委書記許昆林在瀋陽調研文旅產業發展：全力推動文旅體商深度融合】6月10日，遼寧省委書記許昆林圍繞推動文旅產業發展、擴大服務消費，深入瀋陽方城文化旅遊區、中街進行專題調研。他強調，要深入學習貫徹習近平總書記關於服務業發展的重要論述，全面貫徹落實習近平總書記對遼寧的重要講話和重要指示精神，全域全鏈條謀劃推動文旅體商深度融合，充分釋放文旅消費的“乘數效應”，加快促進服務消費擴容提質增效。（遼寧日報）"
-    },
-    {
-      "id": "te:markets:558192",
-      "time": "2026-06-11 08:44:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "apanese Shares Sink to 3-Week Lows — The Nikkei 225 Index fell 2.1% to below 63,000, while the broader Topix Index lost 1.4% to 3,793 on Thursday, with both benchmarks touching three-week lows after the US launched fresh strikes against Iran, driving oil prices higher. Technology stocks also remained under pressure amid persistent concerns over elevated AI-related valuations, weighing heavily on Japanese companies with significant exposure to the global AI expansion. At home, the Bank of Japan is widely expected to raise interest rates next week as policymakers contend with soaring energy costs linked to the Middle East conflict. Tech and AI-related shares led the losses, with Tokyo Electron (-1.3%), Taiyo Yuden (-3.4%), SoftBank Group (-4.6%), Fujikura (-4.8%), and Advantest (-3.3%) posting notable declines. Financial and consumer stocks also weakened, adding to the broader market downturn."
-    },
-    {
-      "id": "mkt:019eb423-4246-7dd8-afb0-165ae1092ac3",
-      "time": "2026-06-11 08:44:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yitong New Materials: battery powder growth accelerating with downstream LFP demand】Yitong New Materials said in a conference call that gross margin on its traditional powder‑metallurgy iron powder is about 20%. Battery‑grade powder requires fewer processing steps and yields a lower gross margin than powder‑metallurgy iron powder. Forgings remain in capacity ramp‑up and are not yet at full production; higher per‑unit labor and depreciation keep forging margins below traditional powder. Traditional powder shows stable growth, battery powder is expanding rapidly alongside downstream LFP battery development, and forgings present sizable market potential. The company said this year’s faster growth partly reflects a small base last year."
-    },
-    {
-      "id": "4929230",
-      "time": "2026-06-11 08:44:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印航空難調查報告推遲釋出 因通用電氣發動機檢測工作尚未完成】據知情人士透露，由於這架波音客機的發動機仍在美國接受檢測且相關工作尚未收尾，調查人員無法在本週五（一週年節點）如期釋出印度航空客機起飛後墜毀事故的調查報告。知情人士稱，印度航空事故調查局本週或將先發布一份進展報告，說明調查延期原因。相關最終報告預計在三個月內出爐。因資訊尚未公開，相關人士要求匿名。其中一名知情人士表示，通用電氣航空發動機的檢測工作屆時將全部完成。此次檢測在美國開展，原因是全球範圍內僅有少數機構具備拆解發動機的專業條件與配套裝置。"
     }
   ]
 }
