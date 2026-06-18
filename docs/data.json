@@ -1,7 +1,213 @@
 {
-  "updated": "2026-06-18 21:44:04",
-  "count": 18922,
+  "updated": "2026-06-18 21:48:29",
+  "count": 18936,
   "items": [
+    {
+      "id": "te:markets:560120",
+      "time": "2026-06-18 21:47:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "IBM Stock Price Hits 4-week Low — IBM shares decreased to 245.17 USD, the lowest since May 2026. Over the past 4 weeks, IBM gained 11.21%, and in the last 12 months, it decreased 12.53%."
+    },
+    {
+      "id": "mkt:019edafc-ac18-7dd8-b07f-93baf4b45cf7",
+      "time": "2026-06-18 21:47:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Lebanese presidential office said President Aoun instructed the negotiation delegation to uphold Lebanon’s position: secure a permanent ceasefire, Israeli withdrawal and deployment of the Lebanese army to the international border."
+    },
+    {
+      "id": "4943710",
+      "time": "2026-06-18 21:47:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利經濟部長：銀行業整合必須維護競爭。"
+    },
+    {
+      "id": "mkt:019edafc-4aca-7dd8-b07f-8c6dafd84e71",
+      "time": "2026-06-18 21:47:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CME.O"
+      ],
+      "text": "Chicago Mercantile Exchange (CME) has sued the U.S. Commodity Futures Trading Commission (CFTC) over Kalshi's move into perpetual futures trading."
+    },
+    {
+      "id": "4943709",
+      "time": "2026-06-18 21:47:06",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "芝加哥商品交易所（CME）就Kalshi進軍永續期貨交易一事起訴美國商品期貨交易委員會（CFTC）。"
+    },
+    {
+      "id": "4943708",
+      "time": "2026-06-18 21:46:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總統奧恩指示談判代表堅持該國在永久停火、以色列撤軍及黎巴嫩軍隊部署至國際邊境問題上的立場。"
+    },
+    {
+      "id": "mkt:019edafb-ebd8-7dd8-b07f-86b3b272e045",
+      "time": "2026-06-18 21:46:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister congratulated Iran on signing a peace agreement."
+    },
+    {
+      "id": "te:markets:560119",
+      "time": "2026-06-18 21:46:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Pfizer Stock Price Hits 4-week Low — Pfizer shares decreased to 25.27 USD, the lowest since May 2026. Over the past 4 weeks, Pfizer lost 0.08%, and in the last 12 months, it increased 5.99%."
+    },
+    {
+      "id": "mkt:019edafb-90d0-7dd8-b07f-7aa38cc9dca2",
+      "time": "2026-06-18 21:46:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 software sector fell to a two-plus-month low, latest down 2.1%."
+    },
+    {
+      "id": "4943707",
+      "time": "2026-06-18 21:46:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "標準普爾500軟體板塊跌至兩個多月以來的低點，最新跌幅達2.1%。"
+    },
+    {
+      "id": "4943706",
+      "time": "2026-06-18 21:46:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：北約正等待其歷史上最大規模的變革。美國部分部隊從歐洲撤出以及向歐盟國家轉移新的軍事力量，是構建北約 3.0 的基礎。"
+    },
+    {
+      "id": "4943705",
+      "time": "2026-06-18 21:45:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦總理：祝賀伊朗簽署和平協議。"
+    },
+    {
+      "id": "4943704",
+      "time": "2026-06-18 21:44:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我們實施的長期制裁正非常有效地打擊俄羅斯的石油設施和煉油廠。俄羅斯已面臨燃料短缺，聯邦預算收入也大幅下滑。"
+    },
+    {
+      "id": "mkt:019edafa-2fab-7dd8-b07f-77162f820906",
+      "time": "2026-06-18 21:44:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine's long-term sanctions are effectively hitting Russia's oil facilities and refineries, causing fuel shortages and a sharp drop in Russia's federal budget revenues."
+    },
+    {
+      "id": "4943703",
+      "time": "2026-06-18 21:44:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長江通訊：全資子公司4億元增資全資孫公司實施募投專案】長江通訊公告稱，2026年6月18日，公司第十屆董事會第十七次會議審議透過議案，全資子公司迪愛斯擬使用4億元募集資金向全資孫公司迪愛斯數字科技增資，用於實施募投專案“智慧應急指揮產品升級及產業化專案”。增資後，迪愛斯數字科技註冊資本由5000萬元增至4.5億元。本次增資不構成關聯交易和重大資產重組，無需提交股東會審議。公司表示，本次增資利於募投專案實施，符合公司及股東利益，財務風險可控。"
+    },
+    {
+      "id": "mkt:019edaf9-7a99-7dd8-b07f-6c130a0d1993",
+      "time": "2026-06-18 21:44:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Lebanese presidency said President Aoun chaired a meeting to prepare for the next round of Lebanon–US–Israel talks scheduled for June 23–25 in Washington."
+    },
+    {
+      "id": "te:markets:560116",
+      "time": "2026-06-18 21:44:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BP Stock Price Hits 15-week Low — BP shares decreased to 489.95 GBp, the lowest since March 2026. Over the past 4 weeks, BP lost 13.88%, and in the last 12 months, it increased 24.71%."
+    },
+    {
+      "id": "4943702",
+      "time": "2026-06-18 21:44:00",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【數說故事遞表港交所】據港交所檔案，數說故事人工智慧科技股份有限公司向港交所提交上市申請書，獨家保薦人為中信建投國際。"
+    },
+    {
+      "id": "mkt:019edaf9-34f0-7dd8-b07f-66c2f982e66d",
+      "time": "2026-06-18 21:43:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US senior defense official Kirby said it is vital that NATO allies continue and step up support for Ukraine through the \"PURL\" initiative."
+    },
+    {
+      "id": "4943701",
+      "time": "2026-06-18 21:43:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階國防官員：北約盟國透過PURL倡議繼續並增加對烏克蘭的支援至關重要。"
+    },
+    {
+      "id": "4943700",
+      "time": "2026-06-18 21:43:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：俄羅斯並不比比利時和荷蘭加起來強大；他們深知作為北約，我們實力強大，也知道自己無法戰勝我們。額外的資金至關重要，但僅憑美元或歐元無法阻擋導彈或裝甲車。我們需要迅速將資金轉化為具備實戰能力的戰力。"
+    },
+    {
+      "id": "4943699",
+      "time": "2026-06-18 21:43:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列襲擊黎巴嫩南部致3人死亡】據黎巴嫩國家通訊社18日報道，以色列國防軍無人機當天對黎南部奈拜提耶地區發動多次襲擊，造成3人死亡。報道說，以軍一架無人機當天襲擊了奈拜提耶地區泰卜尼特村的一輛汽車，造成兩人死亡。當天凌晨，另一架無人機襲擊了奈拜提耶地區西部的濟卜丁，造成一人死亡。與此同時，以軍炮擊還波及濟卜丁南部山區。（新華社）"
+    },
     {
       "id": "mkt:019edaf8-74a4-7dd8-b07f-5d3ec8657b85",
       "time": "2026-06-18 21:42:56",
@@ -174310,80 +174516,6 @@
         "US10Y"
       ],
       "text": "【ECB publishes three scenario projections】The ECB published three scenarios for euro-area inf. Adverse: inf 3.3 pct in 2026, 3.0 pct in 2027 and 2.3 pct in 2028. Moderate: inf 2.9 pct in 2026, 1.8 pct in 2027 and 1.8 pct in 2028. Severe: inf 4.0 pct in 2026, 5.3 pct in 2027 and 3.0 pct in 2028."
-    },
-    {
-      "id": "4930786",
-      "time": "2026-06-11 21:47:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數漲幅擴大至0.5%。"
-    },
-    {
-      "id": "4930785",
-      "time": "2026-06-11 21:46:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至1%。"
-    },
-    {
-      "id": "4930784",
-      "time": "2026-06-11 21:46:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行溫和情景：預計2026年通脹率為2.9%。歐洲央行不利情景假設：預計2027年整體通脹率為3.0%"
-    },
-    {
-      "id": "mkt:019eb6ee-a230-7dd8-afc3-52ac726cd880",
-      "time": "2026-06-11 21:45:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Reportedly, the UAE and Iran held in-person talks aimed at easing tensions."
-    },
-    {
-      "id": "4930783",
-      "time": "2026-06-11 21:45:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 阿聯酋與伊朗已舉行面對面會談，以求緩和緊張局勢。"
-    },
-    {
-      "id": "4930782",
-      "time": "2026-06-11 21:45:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊否認伊朗官員曾主動接觸特朗普】伊朗伊斯蘭革命衛隊當天發表宣告，否認美國總統特朗普有關伊朗官員曾主動與其接觸、要求美國停止軍事打擊的說法。據報道，革命衛隊“堅決否認”特朗普的相關言論，並稱特朗普的相關表態是為擺脫當前衝突局勢責任而給出的說辭。（新華社）"
-    },
-    {
-      "id": "4930781",
-      "time": "2026-06-11 21:44:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "肯亞財政部長：2026/27財年總支出預計為4.82萬億先令。"
-    },
-    {
-      "id": "4930780",
-      "time": "2026-06-11 21:44:09",
-      "tags": [
-        "央行",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【報告：歐洲央行仍在高能源成本與過去政策失誤之間進退兩難】Federated Hermes的Filippo Alloatti在一份報告中表示，歐洲央行仍然陷入兩難境地。這位金融主管表示：“一方面，持續高企的能源成本可能會拖累整個歐洲的工業活動和消費者需求，德國和義大利等經濟體尤其容易受到長期能源衝擊的影響。“他說：“另一方面，該央行仍在應對疫情後長期將利率維持在過低水平所留下的後遺症。“歸根結底，信譽現在是政策前景的核心。“錨定通脹預期並強化對價格穩定的承諾，可能會使歐洲央行在短期內保持緊縮路徑，儘管整個歐元區的增長風險在不斷增加。”"
     }
   ]
 }
