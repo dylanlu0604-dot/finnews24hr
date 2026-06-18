@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-19 02:17:42",
-  "count": 19052,
+  "updated": "2026-06-19 02:21:36",
+  "count": 19051,
   "items": [
+    {
+      "id": "te:markets:560168",
+      "time": "2026-06-19 02:20:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 4.98% — Top commodity losers are Platinum (-4.98%), Silver (-2.68%), Copper (-1.51%) and Gold (-0.74%)."
+    },
+    {
+      "id": "4944221",
+      "time": "2026-06-19 02:17:40",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic承諾與白宮展開更深度合作】Anthropic 高管向商務部長霍華德·盧特尼克提交一份方案，承諾與白宮展開更深度合作，力求儘快消除各類安全隱患；正是相關安全問題，使得該公司高效能AI模型“Mythos”與“Fable”遭到監管整治。一位知情人士週四透露，雙方仍在進行整改磋商，Anthropic 在會談中承諾將加強與特朗普政府的溝通，未來更快處置各類安全風險。該知情人士還表示，Anthropic 與特朗普政府官員的談判整體進展順利，但出臺長效整改措施的具體時間表仍未敲定。另一位知情人士稱，截至週四，Anthropic 聯合創始人兼首席算力官湯姆·布朗、公司公共政策主管薩拉·赫克，牽頭與特朗普政府官員開展談判。"
+    },
     {
       "id": "te:markets:560167",
       "time": "2026-06-19 02:15:08",
@@ -175367,34 +175388,6 @@
         "MKT News"
       ],
       "text": "U.S. Republican Senator Lindsey Graham said he hopes a diplomatic solution has been found to the Iran conflict that meets President Trump's red lines and is fundamentally different from the JCPOA. He said any agreement on Iran's nuclear program would be submitted to Congress for review and approval, and he expects that process to proceed."
-    },
-    {
-      "id": "mkt:019eb7ea-a9ba-7dd8-afc8-af91d38b078e",
-      "time": "2026-06-12 02:21:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Al Arabiya, citing sources, says Iran's foreign minister Araghchi may visit Pakistan this Saturday (June 13)."
-    },
-    {
-      "id": "4931131",
-      "time": "2026-06-12 02:20:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列一名官員表示，目前並未獲悉相關協議，對特朗普所稱伊朗領導層已批准協議的說法感到費解。"
-    },
-    {
-      "id": "te:markets:558450",
-      "time": "2026-06-12 02:19:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rises by 4.01% — Top commodity gainers are Silver (4.01%), Gold (2.06%) and Copper (1.61%). Biggest loser is Iron Ore CNY (-0.97%)."
     }
   ]
 }
