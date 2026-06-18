@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-18 22:18:22",
-  "count": 18955,
+  "updated": "2026-06-18 22:22:48",
+  "count": 18960,
   "items": [
+    {
+      "id": "te:markets:560130",
+      "time": "2026-06-18 22:21:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Lower Amid Hawkish Fed Outlook — Canada’s S&P/TSX Composite Index edged lower to trade near 35,000 on Wednesday as investors weighed a hawkish US Fed outlook and the signing of an interim peace deal between the US and Iran. The Fed kept interest rates unchanged, but its projections were seen as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year, raising concerns over higher borrowing costs. Financial stocks traded mixed, with TD Bank up nearly 1%, while Brookfield edged lower. Mining stocks were also mixed as gold prices eased, with Barrick gaining nearly 1%, while Agnico Eagle and WPM slipped. The energy sector weighed heavily as oil prices declined after the US-Iran agreement aimed at ending the conflict and reopening the Strait of Hormuz. Canadian Natural and Suncor fell over 3%, while Imperial Oil lost nearly 4%. Tech stocks also weakened, tracking losses in the US software sector, with Shopify down 0.9% and Constellation Software falling more than 2%."
+    },
+    {
+      "id": "4943776",
+      "time": "2026-06-18 22:21:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：巴基斯坦總理原定瑞士之行因美伊協議電子簽署事宜推遲。"
+    },
+    {
+      "id": "4943775",
+      "time": "2026-06-18 22:20:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國正在就延長石油儲備豁免進行談判。"
+    },
+    {
+      "id": "mkt:019edb1a-74b5-7dd8-b080-ca3286bce84f",
+      "time": "2026-06-18 22:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for the week ending June 12 due in 10 minutes."
+    },
+    {
+      "id": "mkt:019edb1a-4b91-7dd8-b080-c538ca83599a",
+      "time": "2026-06-18 22:19:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Kan News reported President Trump said he may back Netanyahu in Israel's election, but that would depend on who his opponent is."
+    },
+    {
+      "id": "4943774",
+      "time": "2026-06-18 22:19:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我大機率會在內塔尼亞胡的選舉中支援他，但還得看看誰會作為對手參選。"
+    },
+    {
+      "id": "4943773",
+      "time": "2026-06-18 22:19:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波遠洋：向特定物件發行A股股票申請獲上交所稽核透過】寧波遠洋公告稱，公司於2026年6月18日收到上交所出具的稽核意見，公司向特定物件發行股票申請符合發行條件、上市條件和資訊披露要求，上交所將在收到申請檔案後提交中國證監會註冊。本次發行尚需獲中國證監會同意註冊後方可實施，最終能否獲批及時間存在不確定性。"
+    },
+    {
+      "id": "mkt:019edb19-9e8c-7dd8-b080-bfa3eeec8bb8",
+      "time": "2026-06-18 22:19:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU plans to re-examine bank rules on bonuses and market risk."
+    },
+    {
+      "id": "4943772",
+      "time": "2026-06-18 22:18:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：訊息人士透露，巴基斯坦將調整其在即將舉行的瑞士會議上的代表級別。"
+    },
+    {
+      "id": "4943771",
+      "time": "2026-06-18 22:18:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東藥玻：獲國資批覆向特定物件發行不超1.99億股A股】山東藥玻公告稱，6月18日公司收到沂源縣財政局轉來的《淄博市人民政府國有資產監督管理委員會關於山東省藥用玻璃股份有限公司向特定物件發行股票有關事項的批覆》，原則同意公司本次向特定物件發行不超過199,084,233股（含本數）A股股份。本次定向增發尚需獲有權國有資產監督管理部門批准、公司股東會審議、上交所稽核、中國證監會同意註冊後實施，最終結果存在不確定性。"
+    },
+    {
+      "id": "4943770",
+      "time": "2026-06-18 22:18:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加州阿達克西南偏西 211 公里處發生 5.0 級地震。"
+    },
+    {
+      "id": "4943769",
+      "time": "2026-06-18 22:18:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟計劃重新審議銀行薪酬獎金及市場風險相關監管法規。"
+    },
+    {
+      "id": "mkt:019edb18-d46c-7dd8-b080-b0164d1fa050",
+      "time": "2026-06-18 22:18:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS cites sources saying Pakistan will adjust the level of its delegation at an upcoming Swiss meeting."
+    },
     {
       "id": "4943768",
       "time": "2026-06-18 22:16:37",
@@ -174599,95 +174712,6 @@
         "國際"
       ],
       "text": "美國國土安全部部長穆林：（在被問及世界盃和簽證問題時表示）我們向國際足聯說明了被拒籤者的情況，並解釋了拒籤的原因。"
-    },
-    {
-      "id": "te:markets:558415",
-      "time": "2026-06-11 22:22:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Argentina",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Argentina Hit All-time High — Merval increased to an all-time high of 3306352.00 Index Points. Over the past 4 weeks, Merval Buenos Aires gained 18.24%, and in the last 12 months, it increased 50.96%."
-    },
-    {
-      "id": "4930843",
-      "time": "2026-06-11 22:21:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "義大利AVIO公司股價在上漲5.86%後被自動暫停交易。"
-    },
-    {
-      "id": "mkt:019eb70d-f616-7dd8-afc4-2d88fa715177",
-      "time": "2026-06-11 22:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. EIA weekly natural gas storage for the week to June 5 due in 10 minutes."
-    },
-    {
-      "id": "mkt:019eb70d-6f9f-7dd8-afc4-279e475da572",
-      "time": "2026-06-11 22:19:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Amazon"
-      ],
-      "text": "Amazon founder Jeff Bezos said he expects AI will cause labor shortages."
-    },
-    {
-      "id": "4930842",
-      "time": "2026-06-11 22:19:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝索斯：認為人工智慧將引發勞動力短缺問題。"
-    },
-    {
-      "id": "mkt:019eb70d-375a-7dd8-afc4-19f6dafd1227",
-      "time": "2026-06-11 22:19:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon (AMZN.O) founder Bezos said engineers are the customers for Prometheus and that the product remains in an early stage with a long way to go."
-    },
-    {
-      "id": "4930841",
-      "time": "2026-06-11 22:19:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國日本商會：絕大多數日資企業仍堅定看好並深耕中國市場】中國日本商會會長本間哲朗11日在北京表示，絕大多數日資企業仍然堅定看好並且深耕中國市場。"
-    },
-    {
-      "id": "mkt:019eb70c-ed44-7dd8-afc4-11a80f8e7692",
-      "time": "2026-06-11 22:18:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Amazon",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "Amazon founder Jeff Bezos has committed $41 billion to set up a new AI lab, Prometheus, which will use artificial intelligence to drive transformation in the manufacturing and engineering sectors."
     }
   ]
 }
