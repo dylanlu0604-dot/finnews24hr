@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-19 02:40:59",
+  "updated": "2026-06-19 02:44:49",
   "count": 19041,
   "items": [
+    {
+      "id": "4944232",
+      "time": "2026-06-19 02:42:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局顧問團表示，莫德納流感疫苗對50至64歲成年人群的益處大於風險。"
+    },
+    {
+      "id": "4944231",
+      "time": "2026-06-19 02:40:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：三艘沙特超大型油輪裝載約 600 萬桶原油透過海峽，時隔兩個多月後船舶自動識別系統（AIS）訊號重新出現。"
+    },
     {
       "id": "4944230",
       "time": "2026-06-19 02:32:47",
@@ -175283,23 +175299,6 @@
         "DXY"
       ],
       "text": "【IRGC-linked Tasnim says Trump dropped threat of strike; Iran warns further U.S. attacks would broaden conflict】Tasnim, an IRGC-linked news agency, mocked President Trump for abandoning a threatened strike on Iran tonight, saying Iran \"once again forced Trump to TACO (Trump Always Chickens Out).\" Tasnim cited a prior warning from the commander of Iran's Armed Forces Central Command that further U.S. attacks would \"not only engulf the region but become broader and expanded.\""
-    },
-    {
-      "id": "4931147",
-      "time": "2026-06-12 02:44:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊媒稱伊朗未批准美伊諒解備忘錄】據伊朗法爾斯通訊社當地時間6月11日晚援引一名接近伊朗談判團隊的知情人士的話報道稱，伊朗“尚未批准任何與美國達成的初步諒解備忘錄文字”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4931146",
-      "time": "2026-06-12 02:42:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "據ICI統計，美國貨幣市場基金資產降至7.87萬億美元。"
     }
   ]
 }
