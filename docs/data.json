@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-19 02:25:29",
-  "count": 19048,
+  "updated": "2026-06-19 02:29:25",
+  "count": 19050,
   "items": [
+    {
+      "id": "mkt:019edbfe-33e3-7dd8-b086-b6ed7de03056",
+      "time": "2026-06-19 02:28:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude rose more than 1% intraday to $79.32/bbl; WTI trading near flat."
+    },
+    {
+      "id": "4944224",
+      "time": "2026-06-19 02:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-5.5 Instant 如今在解答健康相關問題方面，效能已與我們前沿深度思考系列模型持平。 每週有超 2.3 億人透過 ChatGPT 諮詢健康養生相關問題。"
+    },
+    {
+      "id": "4944223",
+      "time": "2026-06-19 02:27:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：必須立即廢除冗長辯論機制 透過《拯救美國法案》】美國總統特朗普表示：“看起來我每次都輕鬆贏得的猶他州，正在轉向科羅拉多州的全郵寄投票模式，而一旦採取這種做法，這些州往往就會倒向左翼。我們必須阻止猶他州這樣做。如果操作不當，全郵寄選票將為民主黨人帶來巨大優勢；由於他們的政策荒謬至極，作弊成了他們通往勝利的唯一途徑。共和黨意識到自己正面臨什麼了嗎？民主黨人正步步為營、逐州推進，一路笑納‘戰果’。必須立即廢除冗長辯論機制和/或透過《拯救美國法案》”。特朗普還表示：“任何不想廢除冗長辯論機制的人都是蠢貨，而且是極度愚蠢的蠢貨！那些‘笨蛋民主黨人’（Dumocrats）一旦上臺，幾分鐘內就會廢除這一規則，隨後迅速著手摧毀我們的國家。”"
+    },
+    {
+      "id": "mkt:019edbfb-a08a-7dd8-b086-ae1ff0bb31ec",
+      "time": "2026-06-19 02:26:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said anyone who opposes repealing the filibuster is \"stupid\" and \"extremely stupid,\" called Democrats \"Dumocrats,\" and warned they would abolish the rule within minutes and then move quickly to destroy the country."
+    },
+    {
+      "id": "te:markets:560169",
+      "time": "2026-06-19 02:25:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Rises by 2.31% — Top commodity gainers are Rice (2.31%) and Oat (2.05%). Biggest losers are Coffee (-2.24%), Canola (-1.73%) and Sugar (-1.60%)."
+    },
     {
       "id": "4944222",
       "time": "2026-06-19 02:24:40",
@@ -175334,33 +175381,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Rises by 3.65% — Top crypto gainers are Ether (3.65%), Binance (3.17%) and Bitcoin (3.11%)."
-    },
-    {
-      "id": "4931135",
-      "time": "2026-06-12 02:28:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據倫敦證券交易所集團-理柏（LSEG Lipper）：6月10日當週，美國槓桿貸款基金獲得2.954億美元資金流入，連續十週流入。"
-    },
-    {
-      "id": "4931134",
-      "time": "2026-06-12 02:25:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "維珍銀河在SpaceX上市前上漲21%。"
-    },
-    {
-      "id": "mkt:019eb7ee-ae67-7dd8-afc8-c0001183449f",
-      "time": "2026-06-12 02:25:33",
-      "tags": [
-        "MKT News",
-        "SPCE.N",
-        "Impact bullish"
-      ],
-      "text": "Virgin Galactic (SPCE.N) rose 21% ahead of SpaceX's IPO."
     }
   ]
 }
