@@ -1,7 +1,475 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-19 02:09:37_
-_本檔包含 3869 則快訊，約 709093 字_
+_更新時間：2026-06-19 03:01:19_
+_本檔包含 3886 則快訊，約 708920 字_
+
+---
+
+### 2026-06-17 02:05:01  #公司 #國際
+
+谷歌：已將美國數字健康基金規模增至逾5000萬美元。
+
+---
+
+### 2026-06-17 02:04:54  #公司
+
+谷歌：將安卓家長控制功能擴充套件至所有升級至安卓17系統的安卓裝置。
+
+---
+
+### 2026-06-17 02:04:51  #MKT News #EURUSD #Impact mixed
+
+Bank of France expects 2026 inf at 2.5% (previously 1.7%) and sees Q2 GDP flat after a contraction in Q1.
+
+---
+
+### 2026-06-17 02:04:51  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
+
+Bank of France cuts its 2026 GDP growth forecast to 0.5% from 0.9%.
+
+---
+
+### 2026-06-17 02:02:58  #國際
+
+【美貨運“龍”飛船脫離空間站返回地球】SpaceX的貨運“龍”飛船16日脫離國際空間站，攜帶科學實驗樣品和物資返回地球。據美國國家航空航天局介紹，“龍”飛船於美國東部時間16日12時25分（北京時間17日0時25分）脫離國際空間站，啟程返回地球。按計劃，“龍”飛船將於美國西部時間17日5時08分（北京時間同日20時08分）濺落在美加利福尼亞州附近海域。（新華社）
+
+---
+
+### 2026-06-17 02:02:53  #央行 #其他
+
+法國央行預計本國第二季度經濟零增長。
+
+---
+
+### 2026-06-17 02:00:41  #MKT News #EURUSD #Impact bullish
+
+Bank of France raises its 2027 GDP growth forecast to 0.9% from 0.8%; keeps 2028 forecast at 1.2%.
+
+---
+
+### 2026-06-17 02:00:31  #央行 #其他
+
+法國央行將2026年經濟增長預測從此前的0.9%下調至0.5%。
+
+---
+
+### 2026-06-17 02:00:28  #央行 #其他
+
+法國央行預測，2027年經濟增長率為0.9%，此前預測值為0.8%；2028年經濟增長率維持1.2%不變。
+
+---
+
+### 2026-06-17 02:00:21  #央行 #其他
+
+法國央行預計2026年通脹率為2.5%，此前預測值為1.7%。
+
+---
+
+### 2026-06-17 02:00:20  #MKT News #Market Regions #Europe & UK
+
+Brazilian President Lula and European Commission President von der Leyen pledged to seek a solution to address EU concerns.
+
+---
+
+### 2026-06-17 01:59:42  #其他
+
+【赤道幾內亞政府集體辭職】當地時間16日，赤道幾內亞副總統特奧多羅·奧比昂·曼格宣佈，由於未能實現既定施政目標，政府已正式辭職。曼格在宣告中指出，此次辭職旨在為組建新的政府團隊鋪平道路，以提高行政效率並加快國家發展計劃的落實。他強調，政府各部門需要進一步提升工作表現，更有效地回應國家經濟和社會發展需求。目前，赤道幾內亞方面尚未公佈新內閣成員名單及具體組閣時間表。（央視新聞）
+
+---
+
+### 2026-06-17 01:59:20  #國際
+
+巴西總統盧拉與歐盟委員會主席馮德萊恩承諾，將致力於尋求解決方案，化解歐盟的關切。
+
+---
+
+### 2026-06-17 01:58:47  #國際
+
+美國國家颶風中心（NHC）表示，潛在一號熱帶氣旋正導致得克薩斯州和路易斯安那州部分地區出現危險的突發洪水。
+
+---
+
+### 2026-06-17 01:58:32  #國際
+
+巴西總統盧拉與歐盟委員會主席馮德萊恩確定建立雙邊機制，以識別涉及動物產品與鋼鐵領域的相關難題。
+
+---
+
+### 2026-06-17 01:58:17  #MKT News
+
+Brazilian President Lula met with European Commission President Von der Leyen to discuss trade restrictions targeting Brazilian products.
+
+---
+
+### 2026-06-17 01:58:01  #央行 #國際
+
+【伊朗央行行長：諒解備忘錄規定美有義務解凍伊資產】伊朗中央銀行行長阿卜杜勒納賽爾·赫馬提當地時間16日表示，關於伊美諒解備忘錄框架下被凍結資產解凍問題，在相關條款的制定過程中，已充分考慮過去所有經驗與歷史案例，並努力確保協議中設定的機制能夠提供最高程度的保障，以確保這些資金能夠被順利獲取與使用。赫馬提說，諒解備忘錄條款已明確規定美國在解凍資產方面的義務，且這些義務具有清晰性和可執行性，美國方面將被要求履行其承諾。赫馬提還強調，在諒解備忘錄簽署並開始執行後，將進行必要的技術與銀行層面的核查，以驗證資產是否真正解凍並可實際使用。赫馬提表示，這些被解凍的資金屬於伊朗中央銀行資產，這些資金的管理、分配與使用方式，將在央行法定許可權框架內決定。央行將根據國家需求、經濟狀況及外匯優先事項，對資金使用方式作出安排。 (央視新聞)
+
+---
+
+### 2026-06-17 01:57:34  #MKT News
+
+Canada's minister for U.S. trade said after meeting the U.S. trade representative on the sidelines of the G7 that talks are continuing to make progress.
+
+---
+
+### 2026-06-17 01:56:44  #國際
+
+巴西宣告：總統盧拉會見歐盟委員會主席馮德萊恩，就針對巴西產品的貿易限制措施展開討論。
+
+---
+
+### 2026-06-17 01:56:33  #MKT News #Important
+
+【US-Iran framework to include $300 billion private fund to spur investment in Iran】Refinitiv sources say the US-Iran framework includes plans to set up a $300 billion private investment fund to attract capital into Iran. The fund would only become operational after a final agreement is signed, would be privately financed (no government funds), and is separate from talks over Iran’s frozen sovereign assets. Organizers have secured commitments for more than half the fund from companies in the US, Gulf Arab states, Asia, South America and Africa.
+
+---
+
+### 2026-06-17 01:56:19  #市場
+
+阿根廷交易所股指下跌3%。
+
+---
+
+### 2026-06-17 01:55:38  #國際
+
+加拿大負責對美貿易事務部長勒布朗在G7峰會上談及與美國貿易代表辦公室會晤時表示：我們持續取得進展。
+
+---
+
+### 2026-06-17 01:54:02  #國際
+
+【擬設立3000億美元私募基金，用於加大對伊朗投資】訊息人士稱，一份美伊框架協議中包含設立規模3000億美元私人投資基金以扶持伊朗經濟的規劃。該基金僅在正式終版協議簽署後啟動，不包含任何政府出資。來自美國、海灣地區、亞洲、南美及非洲多國企業已承諾認繳過半資金。
+
+---
+
+### 2026-06-17 01:51:39  #國際
+
+一位直接參與協議內容的訊息人士透露，美伊框架協議包含一項規模3000億美元私募基金的設立計劃，以帶動對伊朗的投資。
+
+---
+
+### 2026-06-17 01:51:29  #焦點 #國際
+
+訊息人士稱，規模達3000億美元的伊朗投資基金只有在最終協議簽署後才會投入運作。
+
+---
+
+### 2026-06-17 01:51:22  #國際
+
+訊息人士稱，3000億美元伊朗投資基金中，已有逾一半金額獲得來自美國、海灣阿拉伯國家、亞洲、南美洲及非洲企業的投資承諾。
+
+---
+
+### 2026-06-17 01:49:14  #其他
+
+加拿大對美貿易部長：雙方已商定下週再次溝通。
+
+---
+
+### 2026-06-17 01:48:59  #MKT News
+
+Canada's minister for trade with the U.S. said he held a lengthy, constructive meeting with U.S. Trade Representative Greer; both agreed to re-engage next week.
+
+---
+
+### 2026-06-17 01:48:03  #市場
+
+標普500指數下跌0.3%，納斯達克指數下挫0.7%，跌幅持續擴大。
+
+---
+
+### 2026-06-17 01:47:46  #國際
+
+加拿大負責對美貿易事務部長：與美國貿易代表格里舉行了漫長且富有建設性的會談。
+
+---
+
+### 2026-06-17 01:47:06  #MKT News
+
+Iran's central bank governor said Iran hopes any agreement with the United States will include firm guarantees for the release of frozen funds.
+
+---
+
+### 2026-06-17 01:43:51  #央行 #國際
+
+伊朗央行行長：伊朗要求美伊協議中就資金支取事宜作出完整保障承諾。
+
+---
+
+### 2026-06-17 01:43:17  #市場
+
+標普500指數與納斯達克100指數跌幅擴大，跌至日內低點。
+
+---
+
+### 2026-06-17 01:42:55  #國際
+
+伊朗議會國家安全委員會主席表示，任何侵犯都將遭到“決定性、毀滅性的回擊”。
+
+---
+
+### 2026-06-17 01:42:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Head of Iran's parliamentary National Security Committee said any violations will be met with a decisive, devastating response.
+
+---
+
+### 2026-06-17 01:42:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Head of Iran's parliamentary National Security Committee said Washington must prove its commitment by ending the war against Lebanon and complying with every provision of the memorandum of understanding.
+
+---
+
+### 2026-06-17 01:42:27  #焦點 #國際
+
+伊朗議會國家安全委員會主席表示，華盛頓必須透過結束對黎巴嫩的戰爭、遵守該諒解備忘錄的每一項條款來證明其承諾。
+
+---
+
+### 2026-06-17 01:28:56  #MKT News #Market Regions #Europe & UK
+
+Financial Times reports U.S. Commerce Secretary Lutnick discussed establishing a "trusted partners" program with European diplomats.
+
+---
+
+### 2026-06-17 01:27:35  #國際
+
+美國商務部長霍華德·盧特尼克曾與歐洲外交官討論建立“可信夥伴”計劃。
+
+---
+
+### 2026-06-17 01:26:31  #MKT News #Market Themes #AI Revolution
+
+Financial Times reports that after controversy over an Anthropic model, U.S. and European policymakers are discussing access rules for AI models.
+
+---
+
+### 2026-06-17 01:25:37  #國際
+
+美國和歐洲就人工智慧模型准入問題進行商談，此前Anthropic引發爭議。
+
+---
+
+### 2026-06-17 01:24:48  #國際
+
+【美媒：美伊協議簽署後 伊朗即可出口石油】據美國《華爾街日報》16日報道，在美國與伊朗本週簽署諒解備忘錄後，伊朗即可對外銷售其石油和燃料。報道援引匿名知情人士的話說，針對銀行、運輸和保險等伊朗石油出口相關行業的制裁也將同時獲得豁免。據報道，一艘載有原油的伊朗超級油輪當天離開伊朗恰巴哈爾港，穿過美國先前實施封鎖的區域後駛離阿曼灣。該油輪沒有關閉定位追蹤器。（新華社）
+
+---
+
+### 2026-06-17 01:23:59  #MKT News
+
+The Russian Defence Ministry said Russian warships acted in accordance with international navigation rules and took all measures to prevent accidents.
+
+---
+
+### 2026-06-17 01:23:39  #國際
+
+俄羅斯國防部：俄羅斯軍艦符合國際航行規則開展行動，並已採取一切措施避免這起事故。
+
+---
+
+### 2026-06-17 01:22:41  #MKT News
+
+Russian Defence Ministry said that after warning shots were fired, the yacht immediately changed course and continued to move away from the Russian warship.
+
+---
+
+### 2026-06-17 01:22:30  #國際
+
+俄羅斯國防部：警告性射擊後，該遊艇立即改變航向，繼續駛離俄羅斯軍艦。
+
+---
+
+### 2026-06-17 01:22:21  #MKT News
+
+Russian Defence Ministry said a Russian frigate fired warning shots at a yacht that did not respond to signals.
+
+---
+
+### 2026-06-17 01:21:54  #MKT News #Market Regions #Europe & UK
+
+RUSSIAN DEFENCE MINISTRY said on June 16 that the frigate Grigorovich, in the English Channel, encountered a yacht flying the British flag that approached on a dangerous route; the frigate made repeated attempts to contact the yacht but received no response.
+
+---
+
+### 2026-06-17 01:21:36  #國際
+
+俄羅斯國防部：護衛艦向未回應訊號的遊艇鳴槍示警。
+
+---
+
+### 2026-06-17 01:20:53  #國際
+
+埃及總統塞西周二在法國出席G7峰會期間，敦促以色列放棄控制加沙地帶70%區域的計劃。
+
+---
+
+### 2026-06-17 01:20:43  #國際
+
+俄羅斯國防部：俄羅斯護衛艦多次嘗試與該遊艇取得聯絡，但未獲回應。
+
+---
+
+### 2026-06-17 01:20:02  #國際
+
+俄羅斯國防部：6月16日，俄羅斯護衛艦“格里戈羅維奇海軍上將”號在英吉利海峽發現一艘懸掛英國國旗的遊艇，該遊艇正以危險航向靠近這艘俄軍艦。
+
+---
+
+### 2026-06-17 01:19:03  #國際
+
+德國總理默茨：我們已聯合澤連斯基告知特朗普，我方願意開啟和平談判，但談判必須在合適的契機下啟動。 俄方要求烏克蘭放棄頓巴斯現有控制區，這一點我們無法接受。
+
+---
+
+### 2026-06-17 01:17:32  #MKT News #MRNA.O #Impact bullish
+
+Moderna (MRNA.O) shares rose more than 8% after the FDA said data on Moderna’s influenza vaccine may support its use in older adults.
+
+---
+
+### 2026-06-17 01:16:56  #市場 #國際
+
+美國食品藥品監督管理局稱莫德納新冠流感聯合疫苗資料或支援其用於老年人後，莫德納股價上漲8.6%。
+
+---
+
+### 2026-06-17 01:16:27  #央行 #國際
+
+週二（6月16日），美聯儲隔夜逆回購協議（RRP）使用規模為107.21億美元（交易對手5家），上個交易日報5.81億美元。
+
+---
+
+### 2026-06-17 01:16:26  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Fed accepted $10.721 billion from five counterparties in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-06-17 01:15:13  #MKT News #Commodities #Industrial Metals #Market Regions #Emerging Markets #Copper #Impact bullish
+
+Argentina's economy minister said the Vicuna copper mine project, valued at $9.7 billion, was approved under the RIGI investment program.
+
+---
+
+### 2026-06-17 01:12:21  #MKT News #SNAP.N
+
+Snap Inc (SNAP.N) reversed course and was trading down 2.8%.
+
+---
+
+### 2026-06-17 01:12:20  #市場
+
+Snap股價走勢反轉，最新下跌2.8%。
+
+---
+
+### 2026-06-17 01:10:32  #其他
+
+高通推出驍龍啟航專案。
+
+---
+
+### 2026-06-17 01:09:32  #國際
+
+德國總理默茨談及美伊協議： 從伊朗釋放的所有訊號都能看出，伊朗也會接受這份協議，在美國佔據絕對軍事優勢的局面下，它根本別無選擇。 我昨晚已向特朗普總統表明，從這件事就能看出，強大的軍事實力同樣能夠促成外交層面的解決方案。倘若這套邏輯同樣適用於烏克蘭局勢，那麼全球兩處關鍵衝突地區或許都能更快迎來和平。
+
+---
+
+### 2026-06-17 01:07:18  #其他
+
+沙特王儲主持內閣會議，重申恢復霍爾木茲海峽通航自由、使其迴歸戰前常態的重要性。
+
+---
+
+### 2026-06-17 01:07:14  #MKT News #Commodities #Energy
+
+The Saudi cabinet reiterated the importance of restoring freedom of navigation in the Strait of Hormuz and called for its return to pre-war status.
+
+---
+
+### 2026-06-17 01:06:26  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+US 20-year Treasury yield dipped slightly after auction results, last at 4.93%.
+
+---
+
+### 2026-06-17 01:06:07  #市場 #國際
+
+美國20年期國債收益率在拍賣後小幅走低；最新報4.93%，下跌0.5個基點。
+
+---
+
+### 2026-06-17 01:02:52  #國際
+
+美國20年期美債中標收益率4.927%，發行前預發行收益率為4.937%。
+
+---
+
+### 2026-06-17 01:02:38  #宏觀 #市場 #國際
+
+美國財政部拍賣130億美元20年期國債，得標利率4.927%，投標倍數2.75。
+
+---
+
+### 2026-06-17 01:02:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+U.S. 20-year Treasury auction on June 16 bid-cover ratio 2.75; prior 2.55.
+
+---
+
+### 2026-06-17 01:02:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. 20-year Treasury auction on June 16: 56.57% of the award was allocated at the stop-out yield, versus 1.67% previously.
+
+---
+
+### 2026-06-17 01:02:10  #MKT News #US10Y #Impact bullish #S&P500
+
+U.S. 20-year Treasury auction on June 16: stop-out yield 4.927% vs 5.12% previously.
+
+---
+
+### 2026-06-17 01:02:08  #其他
+
+洛克希德·馬丁：通用汽車防務部門總裁表示，未來數週內，雙方將協同梳理首批聯合推進專案。
+
+---
+
+### 2026-06-17 01:02:04  #MKT News #Economic Calendar
+
+United States | 20-Year Bond Auction Bid/Cover Ratio (Jun.16) | actual 2.75 | previous 2.55
+
+---
+
+### 2026-06-17 01:02:04  #MKT News #Economic Calendar
+
+United States | 20-Year Bond Auction Accepted at High (Jun.16) | actual 56.57% | previous 1.67%
+
+---
+
+### 2026-06-17 01:02:04  #MKT News #Economic Calendar
+
+United States | 20-Year Bond Auction High Yield Rate (Jun.16) | actual 4.927% | previous 5.12%
+
+---
+
+### 2026-06-17 01:01:21  #MKT News
+
+DR Congo reports 837 confirmed Ebola cases, including 196 deaths.
+
+---
+
+### 2026-06-17 01:00:58  #其他
+
+剛果表示，埃博拉確診病例數升至837例，其中包括196例死亡病例。
+
+---
+
+### 2026-06-17 01:00:37  #Trading Economics #Economy #Paraguay #Consumer Confidence #Importance 0
+
+Paraguay Consumer Confidence Weakens in May — Paraguay’s Consumer Confidence Index fell to 38.21 in May 2026 from 40.17 in April, remaining below the neutral threshold. The Economic Situation Index declined by 2.29 points from the previous month to 27.04, reflecting weaker assessments of current conditions. Meanwhile, the Economic Expectations Index eased by 1.62 points to 49.38. Regarding saving intentions, 11.0% of respondents reported being willing to save, down 4.5 percentage points from April. Willingness to purchase durable goods weakened across all categories, with the exception of household appliances, which remained unchanged.
 
 ---
 
@@ -22953,372 +23421,5 @@ New York Manufacturing Growth Slows in June — The New York Fed’s Empire Stat
 ### 2026-06-15 20:37:47  #MKT News #Brent #Impact bearish
 
 TASNIM NEWS, citing informed sources, said U.S. forces must withdraw from areas near Iran within 30 days of a final agreement being reached.
-
----
-
-### 2026-06-15 20:37:27  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Iran: nuclear talks and sanctions relief to begin within 60 days】Iran's foreign ministry spokesman told Iranian media on the 15th that nuclear talks and sanctions relief will begin within 60 days.
-
----
-
-### 2026-06-15 20:37:07  #國際
-
-市場訊息：最終協議達成後，美軍須在 30 天內撤離伊朗周邊區域。
-
----
-
-### 2026-06-15 20:37:06  #Trading Economics #Economy #Canada #Wholesale Sales #Importance 1
-
-Canadian Wholesale Sales Grow for 3rd Month — Wholesale sales in Canada expanded by 0.6% from the previous month to C$89.3 billion in April of 2026, revised higher from the preliminary estimate of a 0.1% growth rate, to reflect the third consecutive increase in the sector. The figure excludes wholesale sales of petroleum, petroleum products, and other hydrocarbons, which surged 7.2% on the period due to the higher prices for fuel as the continuation of the war in the Middle East shut off energy exports from the region. Sales were firmly higher for building materials and supplies (4.3% to C$12.7 billion), miscellaneous goods (1.4% to C$11.5 billion), motor vehicles and parts (0.9% to C$14.7 billion), and personal and household goods (0.5% to C$13.2 billion). In turn, sales fell for food and beverage (-1.4% to C$16.2 billion) and machinery and equipment (-1.2% to $19.3 billion).
-
----
-
-### 2026-06-15 20:36:49  #焦點 #國際
-
-【伊朗：核談判和解除制裁將在60天內開始】據伊朗媒體15日報道，伊朗外交部發言人當天表示，核談判和解除制裁將在60天內開始。（新華社）
-
----
-
-### 2026-06-15 20:36:47  #MKT News
-
-Canada wholesale inventories rose 1.1% MoM in April; prior +0.3%.
-
----
-
-### 2026-06-15 20:36:39  #MKT News #Economic Calendar #Important
-
-Canada | Wholesale Inventories (MoM) (Apr) | actual 1.1% | previous 0.3%
-
----
-
-### 2026-06-15 20:36:20  #國際
-
-【黎巴嫩當局提醒逃難者：以軍沒撤，彆著急回家】美國和伊朗15日達成關於停戰談判的諒解備忘錄，但以色列對黎巴嫩南部的佔領和襲擊並未終止。黎巴嫩地方當局當天發表宣告，呼籲那些先前為躲避戰火被迫離家的民眾先彆著急回家，因為以軍還未撤出黎南部。據黎巴嫩國家通訊社15日報道，以色列當天上午對黎南部奈拜提耶、賓特朱拜勒、邁爾季歐雲等地區發動襲擊，造成人員受傷。南部地方當局紛紛發出提醒：雖然美伊達成諒解備忘錄，但以色列已表示不會從黎巴嫩南部佔領區撤軍，先前被迫離家的民眾先彆著急回家。（新華社）
-
----
-
-### 2026-06-15 20:34:55  #國際
-
-黎巴嫩真主黨：將在以色列撤軍之前捍衛黎巴嫩人民。
-
----
-
-### 2026-06-15 20:34:17  #公司 #國際
-
-空客<AIR.PA>執行長表示，歐洲監管壁壘的成本“極其可怕”。
-
----
-
-### 2026-06-15 20:33:59  #公司 #國際
-
-【非洲建交國符合要求的腰果已獲准輸華】記者15日從海關總署獲悉，自6月9日起非洲地區建交國生產的腰果已全面實現輸華檢疫准入。據海關總署釋出的《關於進口非洲腰果檢驗檢疫和衛生要求的公告》，允許進口的腰果是指由出口國境內種植的腰果為原料，在出口國境內經去皮、乾燥、挑選等加工工藝製作而成的供人類食用的帶殼或去殼堅果。輸華腰果不得帶有谷斑皮蠹、腎斑皮蠹、四紋豆象和非洲葉跗鋸谷盜等中方關注的檢疫性有害生物。（新華社）
-
----
-
-### 2026-06-15 20:33:37  #MKT News #WTI #Impact bullish #XAUUSD
-
-HEZBOLLAH says it will defend the Lebanese people until Israel withdraws.
-
----
-
-### 2026-06-15 20:32:48  #MKT News
-
-Canada April manufacturing new orders m/m +2.1% (prior +4.7%).
-
----
-
-### 2026-06-15 20:32:40  #其他
-
-【第九屆進博會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦】6月15日，第九屆中國國際進口博覽會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦。商務部副部長鄢東、山東省副省長溫暖、中國工商銀行副行長張偉武出席活動並致辭，英國商業貿易部駐華貿易使節倪樂思出席活動。鄢東表示，中國堅定不移擴大高水平對外開放，透過自主開放、單邊開放，舉辦進博會等重要展會，分享中國發展的紅利。第九屆進博會將於今年11月5日至10日在上海舉辦，將與“出口中國”等品牌活動協同聯動，為各國企業對接中國市場需求、進入中國市場搭建平臺和橋樑，以更大力度擴大進口、推動進出口平衡發展。
-
----
-
-### 2026-06-15 20:32:40  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing New Orders (MoM) (Apr) | actual 2.1% | previous 4.7%
-
----
-
-### 2026-06-15 20:32:32  #MKT News
-
-Canada manufacturing inventories rose 0.5% MoM in April, vs. +1.3% prior.
-
----
-
-### 2026-06-15 20:32:27  #MKT News
-
-【Luo Wen meets Azerbaijan Food Safety Agency head Goshgar Tahmazli】On June 12, SAMR director Luo Wen met visiting Azerbaijan Food Safety Agency head Goshgar Tahmazli. They discussed full-chain food safety oversight, smart supervision, and laboratory and research cooperation, and agreed to establish a joint working group to deepen regulatory exchange and cooperation. Senior SAMR officials attended.
-
----
-
-### 2026-06-15 20:32:26  #其他
-
-【我國夏糧小麥收穫已近九成】記者從農業農村部獲悉，截至6月15日17時，全國已收穫夏糧小麥3.04億畝，收穫進度89.48%。山東近九成，河北過八成，陝西近八成，山西過七成，新疆近三成，甘肅零星收穫。（新華社）
-
----
-
-### 2026-06-15 20:32:25  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing Inventories (MoM) (Apr) | actual 0.5% | previous 1.3%
-
----
-
-### 2026-06-15 20:31:56  #國際
-
-印度5月大豆進口量較4月飆升65%，創下20萬噸的紀錄水平。
-
----
-
-### 2026-06-15 20:31:50  #MKT News
-
-Canada manufacturers' unfilled orders, Apr MoM +1.3% (prior +2.4%).
-
----
-
-### 2026-06-15 20:31:43  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing Unfilled Orders (MoM) (Apr) | actual 1.3% | previous 2.4%
-
----
-
-### 2026-06-15 20:31:43  #其他
-
-【羅文會見亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利】6月12日，國家市場監督管理總局局長羅文會見來訪的亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利。雙方就食品安全全鏈條監管、智慧監管、實驗室與科研合作等議題進行交流，一致同意成立工作組，加強食品安全監管交流合作。總局相關司局負責同志參加會見。
-
----
-
-### 2026-06-15 20:31:39  #MKT News
-
-Canada April manufacturing inventory-to-shipments ratio 1.62% vs 1.69% prior.
-
----
-
-### 2026-06-15 20:31:31  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing Inventory-To-Sales Ratio (Apr) | actual 1.62% | previous 1.69%
-
----
-
-### 2026-06-15 20:31:11  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-US New York Fed manufacturing new-orders index for June 3.5; prior 22.7.
-
----
-
-### 2026-06-15 20:30:59  #MKT News #Economic Calendar #Important
-
-United States | New York Fed New Orders Index (Jun) | actual 3.5 | previous 22.7
-
----
-
-### 2026-06-15 20:30:54  #資料
-
-加拿大4月批發銷售月率 0.6%，預期0.1%，前值1.90%。
-
----
-
-### 2026-06-15 20:30:48  #Trading Economics #Economy #Canada #Housing Starts #Importance 1
-
-Canada Housing Starts Fall 6.1% in May — Housing starts in Canada fell 6.1% from the previous month to a seasonally adjusted annual rate of 261.4 thousand in May 2026, well above market forcasts of 255.1 thousand units. Urban housing starts in centers with populations over 10,000 people fell to 247 thousand. In turn, rural starts were estimated to increase to 14,357 units.
-
----
-
-### 2026-06-15 20:30:46  #MKT News #Macro & Rates #US Economy
-
-US New York Fed Empire State manufacturing prices received index 31.4 in June, down from 31.8 previously.
-
----
-
-### 2026-06-15 20:30:46  #經濟數據 #加拿大
-
-【加拿大4月批發銷售環比增長0.6% 預期0.1%】加拿大4月批發銷售環比增長0.6%，預期0.1%，前值1.90%。
-
----
-
-### 2026-06-15 20:30:45  #央行 #國際
-
-美國6月紐約聯儲製造業指數 5.7，預期14，前值19.6。
-美國6月紐約聯儲製造業就業指數 9.6，前值8.3。
-
----
-
-### 2026-06-15 20:30:36  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Prices Received Index (Jun) | actual 31.4 | previous 31.8
-
----
-
-### 2026-06-15 20:30:32  #經濟數據 #美國
-
-【美國6月紐約聯儲製造業指數5.7 預期14】美國6月紐約聯儲製造業指數5.7，預期14，前值19.6。
-
----
-
-### 2026-06-15 20:30:30  #MKT News #Macro & Rates #US Economy
-
-US New York Fed manufacturing employment index (June) 9.6, up from 8.3 in May.
-
----
-
-### 2026-06-15 20:30:22  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Employment Index (Jun) | actual 9.6 | previous 8.3
-
----
-
-### 2026-06-15 20:30:17  #國際
-
-黎巴嫩真主黨：伊朗協議是以色列完全撤退的前奏。
-
----
-
-### 2026-06-15 20:30:11  #MKT News #DXY #Impact bearish
-
-Canada April manufacturing shipments m/m +4.2% (consensus +4.5%; prior +3.0%).
-
----
-
-### 2026-06-15 20:30:10  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish
-
-Canada wholesale sales rose 0.6% MoM in April, stronger than the 0.1% consensus; prior month 1.9%.
-
----
-
-### 2026-06-15 20:30:10  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
-
-US New York Fed manufacturing index for June 5.7, versus 14 expected and 19.6 prior.
-
----
-
-### 2026-06-15 20:30:02  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-HEZBOLLAH says Iran accord is a prelude to Israel's complete withdrawal.
-
----
-
-### 2026-06-15 20:30:02  #MKT News #Economic Calendar #Important
-
-Canada | Wholesale Sales (MoM) (Apr) | actual 0.6% | consensus 0.1% | previous 1.90%
-
----
-
-### 2026-06-15 20:30:02  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing Sales (MoM) (Apr) | actual 4.2% | consensus 4.50% | previous 3.00%
-
----
-
-### 2026-06-15 20:30:00  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Manufacturing Index (Jun) | actual 5.7 | consensus 14 | previous 19.6
-
----
-
-### 2026-06-15 20:29:51  #MKT News
-
-U.S. Vice President Vance said Israel will have a voice.
-
----
-
-### 2026-06-15 20:29:48  #MKT News
-
-U.S. Vice President Vance said on Iran that Israel will certainly have a place in the new Middle East order.
-
----
-
-### 2026-06-15 20:29:32  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Iran to charge for shipping services related to Strait of Hormuz】Iranian media reported on the 15th that foreign ministry spokesman Baghaei said Iran will, during 'specific periods', assume responsibility for managing safe passage through the Strait of Hormuz and will charge for related shipping services.
-
----
-
-### 2026-06-15 20:29:29  #焦點 #國際
-
-【伊朗：將對霍爾木茲海峽相關航運服務收費】據伊朗媒體15日報道，伊朗外交部發言人巴加埃當天表示，伊朗將在“特定時期內”負責霍爾木茲海峽安全通行管理，並將對相關航運服務收取費用。（新華社）
-
----
-
-### 2026-06-15 20:29:16  #國際
-
-萬斯談及伊朗問題：以色列肯定會在新中東格局中佔有一席之地。
-
----
-
-### 2026-06-15 20:29:08  #其他
-
-萬斯：希望本週公佈協議文字。
-
----
-
-### 2026-06-15 20:28:48  #公司 #國際
-
-【七國集團宣告草案呼籲加強協調 應對人工智慧的“潛在風險”】根據媒體看到的一份可能會加以修改的宣告草案，七國集團領導人將“進一步討論人工智慧帶來的新興機遇和潛在風險，尤其是在金融領域”。法國總統馬克龍本週將在法國阿爾卑斯山小鎮Evian主持七國集團領導人會議。鑑於與美國在貿易、氣候等問題上存在分歧，就公報達成共識不再是優先事項。焦點反而一直是讓美國總統唐納德·特朗普能夠出席。這份草案基本上擱置了有爭議的話題，不過確實著重談到了人工智慧，呼籲加強協調。七國集團展開這場討論之際，美國政府已表示，願意動用非常權力，迫使人工智慧開發商按其要求處理潛在安全威脅，但6月份的一項行政令宣佈不會強制要求遵守。
-
----
-
-### 2026-06-15 20:28:46  #MKT News
-
-U.S. Vice President Vance hopes to release the agreement text this week.
-
----
-
-### 2026-06-15 20:28:31  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
-
-【Macron rejects repeal of French digital services tax after Trump threatens wine tariffs】French President Emmanuel Macron said France will not repeal its digital services tax, noting it has been adopted by several European countries and is part of French law: "This digital tax is a policy that several European countries have already decided and implemented, and it is part of our law. It is not for the United States to decide European or French law — that's normal. At least as long as I remain in office, that will not change." The comments came at the G7 in Evian after former U.S. President Donald Trump warned he would impose 100% tariffs on French wine if France does not cancel the levy.
-
----
-
-### 2026-06-15 20:28:28  #MKT News
-
-U.S. Vice President Vance said some people in Israel welcome the agreement.
-
----
-
-### 2026-06-15 20:28:13  #國際
-
-萬斯：認為以色列內部有部分勢力支援該協議。
-
----
-
-### 2026-06-15 20:27:44  #公司
-
-【加拿大支付服務商Nuvei以27.5億美元收購Payoneer派安盈】加拿大支付服務商Nuvei與Payoneer派安盈宣佈，雙方已達成最終協議，Nuvei將收購Payoneer派安盈。根據協議條款，Nuvei將以每股7.40美元現金收購Payoneer Global Inc.全部已發行且流通在外的普通股，本次交易的股權價值總額約為27.5億美元。據瞭解，合併後的公司將為企業提供一個統一的平臺，支援在190多個國家和地區接收、持有並管理資金。隨著交易完成，合併後的公司年收入將達到30億美元左右，年處理支付交易總額超過5000億美元，併為240多萬客戶提供服務。
-
----
-
-### 2026-06-15 20:27:20  #國際
-
-美國副總統萬斯：（關於伊朗）我們將觀察德黑蘭願意在哪些方面做出讓步。美國正與伊朗體制內的各方接觸。
-
----
-
-### 2026-06-15 20:27:13  #MKT News
-
-U.S. Vice President Vance said the U.S. is engaging with parties within Iran's establishment.
-
----
-
-### 2026-06-15 20:27:05  #央行 #其他
-
-巴西央行官員：我不會改變通脹目標，但經濟團隊與央行之間在許多領域仍有改進空間。
-
----
-
-### 2026-06-15 20:26:59  #MKT News
-
-U.S. Vice President Vance expects representatives from all Iranian delegations to attend Friday's signing ceremony.
-
----
-
-### 2026-06-15 20:26:47  #國際
-
-萬斯：預計週五簽署儀式將有伊朗各方代表全面出席。
-
----
-
-### 2026-06-15 20:26:45  #MKT News
-
-When asked who will represent Iran at the signing ceremony, U.S. Vice President Vance said he expects the Speaker of the House, the foreign minister and others to attend.
 
 ---

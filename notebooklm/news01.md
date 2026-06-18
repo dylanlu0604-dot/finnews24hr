@@ -1,7 +1,347 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-19 02:09:37_
-_本檔包含 3892 則快訊，約 709019 字_
+_更新時間：2026-06-19 03:01:19_
+_本檔包含 3890 則快訊，約 709111 字_
+
+---
+
+### 2026-06-19 03:00:03  #市場
+
+恒指期貨夜盤收跌0.17%，報23851.76點，低水73.05點。
+
+---
+
+### 2026-06-19 02:59:56  #其他
+
+阿根廷統計局：5月貿易順差為35.04億美元，路透調查預期為順差22億美元。
+
+---
+
+### 2026-06-19 02:55:12  #公司 #市場 #國際
+
+【倫敦股市18日下跌】英國倫敦股市《金融時報》100種股票平均價格指數18日報收於10399.70點，較前一交易日下跌108.91點，跌幅為1.04%。歐洲三大股指當天漲跌不一。當天倫敦股市成分股中位於漲幅前五位的個股分別為：資訊服務公司英富曼股價上漲2.76%，極地資本科技信託公司股價上漲2.66%，國際聯合航空集團股價上漲2.30%，約翰-戴維運動時裝公司股價上漲2.22%，生命安全技術企業豪邁集團股價上漲2.17%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：倫敦證交所集團股價下跌7.00%，房地產商珀西蒙公司股價下跌6.17%，貴金屬生產商弗雷斯尼洛股價下跌5.83%，奮進礦業公司股價下跌5.73%，出版集團勵訊股價下跌3.97%。
+
+---
+
+### 2026-06-19 02:53:01  #MKT News #Commodities #Industrial Metals
+
+Goldman Sachs says an accelerated Middle East capacity recovery could raise the aluminium market surplus to about 1.2 mln t and push prices down to roughly $2,750/ton.
+
+---
+
+### 2026-06-19 02:52:29  #MKT News #Commodities #Industrial Metals
+
+Goldman Sachs said a slower-than-expected restart of damaged Middle East capacity could widen the 2027 aluminium market surplus to about 100,000 tonnes and keep prices near $3,250/tonne.
+
+---
+
+### 2026-06-19 02:51:57  #國際
+
+【伊朗稱60天內商船免費透過霍爾木茲】當地時間6月18日晚，伊朗最高國家安全委員會發布宣告稱，申請透過霍爾木茲海峽的商船在60天內將被免收費用。（CCTV國際時訊）
+
+---
+
+### 2026-06-19 02:51:50  #MKT News #Commodities #Industrial Metals
+
+Goldman Sachs forecasts a 720,000-tonne aluminium deficit in 2026 and a 590,000-tonne surplus in 2027.
+
+---
+
+### 2026-06-19 02:51:43  #公司
+
+一名高管表示，巴西國家石油公司計劃於9月前重啟馬託格羅索州化肥廠的建設工程。
+
+---
+
+### 2026-06-19 02:51:40  #公司 #市場 #國際
+
+巴西國家石油公司高管：油價下跌加上伊朗戰爭停火協議，將使得此前推遲的煉油廠維護工作得以開展。
+
+---
+
+### 2026-06-19 02:51:25  #MKT News #Commodities #Industrial Metals
+
+Goldman Sachs raised its average LME aluminium price forecasts to $3,300/ton for Q3 2026 and $2,950/ton for full-year 2027, from prior forecasts of $3,200/ton and $2,750/ton respectively.
+
+---
+
+### 2026-06-19 02:50:47  #MKT News
+
+Iran's Supreme National Security Council says measures to clear sea mines will be implemented under an MOU with Islamabad.
+
+---
+
+### 2026-06-19 02:50:38  #觀點 #國際
+
+高盛：中東復甦提速或推動鋁市場盈餘擴大至120萬噸，推動鋁價逼近每噸2750美元。
+
+---
+
+### 2026-06-19 02:50:35  #MKT News
+
+Iran's Supreme National Security Council said technical details on transit through the Strait of Hormuz will be released by the Persian Gulf Strait Administration.
+
+---
+
+### 2026-06-19 02:50:24  #焦點 #國際
+
+【萬斯：60天談判期限18日起算 將領導美方團隊】美國副總統萬斯18日在白宮記者會上說，美國和伊朗諒解備忘錄中規定的達成最終協議的60天期限從18日開始計算，他將在接下來的談判中領導美方談判團隊。
+
+萬斯說：“我認為這60天的期限已於今天正式開始。由於簽署時間較晚，且考慮到時差因素，從技術上講我認為是按伊朗時間今天簽署的。”
+
+萬斯表示，他仍計劃前往瑞士，但具體時間待定。美伊雙方的技術性談判預計將於本週末開始。他指出，伊朗和美國迄今在軍事上都在履行雙方在諒解備忘錄中的承諾。伊朗連續兩晚沒有在霍爾木茲海峽向任何船隻開火，美軍允許眾多艘船隻透過其海上封鎖線。
+
+萬斯說，與伊朗達成的最終協議將解決霍爾木茲海峽的長期運營問題，必須確保這條關鍵水道“永遠不會再成為全球經濟的瓶頸”。他強調，美方認為國際水道不應徵收通行費。
+
+被問及諒解備忘錄中提到的用於伊朗重建與經濟發展的3000億美元將由誰來出時，萬斯說，目前的談判尚處於早期階段，無法給出確切說法。他同時強調，該協議中的經濟利益只有在伊朗“充分履行”並“改變其行為”的情況下才能獲得。
+
+萬斯還表示，以色列在黎巴嫩的軍事行動有時阻礙了美伊談判取得突破，這讓美國總統特朗普感到沮喪。他重申以色列有權自衛，但同時敦促以方“尊重這一對他們和整個地區都有益的和平程序”。（新華社）
+
+---
+
+### 2026-06-19 02:50:21  #MKT News #Commodities #Energy
+
+Iran's Supreme National Security Council says traffic through the Strait of Hormuz will gradually increase.
+
+---
+
+### 2026-06-19 02:50:00  #觀點 #國際
+
+高盛：受損中東產能重啟進度放緩，2027年全球鋁供應過剩規模將接近10萬噸，鋁價將維持在每噸3250美元左右。
+
+---
+
+### 2026-06-19 02:49:29  #觀點
+
+高盛預測，2026年和2027年全球鋁市場將分別出現72萬噸缺口和59萬噸過剩。
+
+---
+
+### 2026-06-19 02:48:53  #國際
+
+伊朗最高國家安全委員會表示，排雷相關措施將根據伊斯蘭堡簽署的諒解備忘錄執行。
+
+---
+
+### 2026-06-19 02:48:40  #觀點
+
+高盛將倫敦金屬交易所（LME）鋁價2026年第三季度/2027年平均價格預測分別從原先的每噸3200美元/2750美元上調至每噸3300美元/2950美元。
+
+---
+
+### 2026-06-19 02:48:34  #國際
+
+伊朗最高國家安全委員會表示，霍爾木茲海峽通行的技術細節將由波斯灣海峽管理局公佈。
+
+---
+
+### 2026-06-19 02:48:12  #焦點 #國際
+
+伊朗最高國家安全委員會表示，霍爾木茲海峽的通航流量將逐步提升。
+
+---
+
+### 2026-06-19 02:47:56  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Supreme National Security Council said, for security reasons vessels should transit only at designated times and along designated routes.
+
+---
+
+### 2026-06-19 02:47:51  #國際
+
+伊朗最高國家安全委員會表示，出於安全考慮，船隻須按照指定時間和指定航道通行。
+
+---
+
+### 2026-06-19 02:47:42  #MKT News #WTI #Impact bearish #Brent
+
+Iran's Supreme National Security Council has ordered the Strait of Hormuz authority to expedite issuance of transit permits.
+
+---
+
+### 2026-06-19 02:46:22  #國際
+
+伊朗最高國家安全委員會稱，波斯灣海峽管理部門已受命儘快簽發通行許可。
+
+---
+
+### 2026-06-19 02:45:51  #MKT News #WTI #Impact bearish #Brent
+
+Iran's Supreme National Security Council said that under a memorandum of understanding with the United States, ships transiting the Strait of Hormuz will not be charged transit fees for 60 days; Iran will cover the fees during that period.
+
+---
+
+### 2026-06-19 02:45:28  #國際
+
+伊朗最高國家安全委員會表示，在此期間相關費用將由伊朗承擔。
+
+---
+
+### 2026-06-19 02:45:15  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Energy Intelligence reporter Amena Bakr reports three Saudi VLCCs carrying about 6 mln barrels of crude have transited the Strait of Hormuz and reappeared on AIS after being absent for more than two months.
+
+---
+
+### 2026-06-19 02:44:46  #焦點 #國際
+
+伊朗最高國家安全委員會表示，根據與美國達成的諒解備忘錄，60天內不會向經霍爾木茲海峽通航的船舶徵收任何通行費。
+
+---
+
+### 2026-06-19 02:42:00  #國際
+
+美國食品藥品監督管理局顧問團表示，莫德納流感疫苗對50至64歲成年人群的益處大於風險。
+
+---
+
+### 2026-06-19 02:40:47  #其他
+
+市場訊息：三艘沙特超大型油輪裝載約 600 萬桶原油透過海峽，時隔兩個多月後船舶自動識別系統（AIS）訊號重新出現。
+
+---
+
+### 2026-06-19 02:32:47  #公司 #市場 #國際
+
+【機構：在美伊簽署結束衝突的協議前尿素價格暴跌】研究公司DTN的一項評估顯示，6月8日至6月12日期間，尿素平均價格下跌了12%，即每噸下跌100美元。這一跌勢與人們對重新開放霍爾木茲海峽的預期不斷升溫相吻合。重新開放該海峽是美國和伊朗為結束衝突而簽署的協議的關鍵部分。中東是全球最大的尿素供應商之一，尿素是一種廣泛使用的合成氮肥。
+
+---
+
+### 2026-06-19 02:31:51  #市場 #央行 #國際
+
+【資料顯示，加密貨幣料將在“極度恐懼”中結束縮短的交易周】CoinMarketCap的“加密貨幣恐懼與貪婪指數”料將在投資者“極度恐懼”中結束這個縮短的交易周。該指數目前在100分中得分為19分，這正好處於“恐懼”和“極度恐懼”的分界線上。本週早些時候，該指數確實進入了“恐懼”區間，但在新任美聯儲主席沃什發表偏緊縮言論後出現的拋售正拖累加密貨幣。CoinMarketCap的資料還顯示，資金持續流出所謂的“山寨幣”，即在加密貨幣交易所交易的除比特幣和穩定幣之外的加密代幣。CoinMarketCap表示，在經歷了短暫的上漲之後，山寨幣的合計市值略高於9,000億美元。
+
+---
+
+### 2026-06-19 02:31:06  #市場
+
+WTI 7月原油期貨收跌0.19美元，跌幅0.25%，報76.60美元/桶。NYMEX 7月天然氣期貨收報3.2330美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9949美元/加侖，NYMEX 7月取暖油期貨收報3.1273美元/加侖。
+
+---
+
+### 2026-06-19 02:30:53  #市場 #國際
+
+美國原油期貨結算價報每桶76.60美元，下跌19美分，跌幅0.25%。
+
+---
+
+### 2026-06-19 02:30:52  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange (SGE) gold T+D closed down 0.53% at 935.78 yuan/gram in the June 18 evening session; SGE silver T+D closed down 2.12% at 16,425.0 yuan/kg.
+
+---
+
+### 2026-06-19 02:30:50  #市場 #國際
+
+美國天然氣期貨日內漲幅達3.00%，現報3.240美元/百萬英熱。
+
+---
+
+### 2026-06-19 02:30:50  #MKT News #Commodities #Energy
+
+U.S. natural gas futures rose 3.00% intraday to $3.240 per MMBtu.
+
+---
+
+### 2026-06-19 02:30:09  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Drops by 4.14% — Top crypto losers are Binance (-4.14%), Ether (-3.55%), XRP (-3.51%) and Bitcoin (-2.49%).
+
+---
+
+### 2026-06-19 02:29:01  #市場 #焦點
+
+WTI原油突破76美元/桶，日內持平。
+
+---
+
+### 2026-06-19 02:28:50  #MKT News #Important #Brent #Impact bullish #WTI
+
+Brent crude rose more than 1% intraday to $79.32/bbl; WTI trading near flat.
+
+---
+
+### 2026-06-19 02:27:40  #其他
+
+OpenAI：GPT-5.5 Instant 如今在解答健康相關問題方面，效能已與我們前沿深度思考系列模型持平。 每週有超 2.3 億人透過 ChatGPT 諮詢健康養生相關問題。
+
+---
+
+### 2026-06-19 02:27:13  #國際
+
+【特朗普：必須立即廢除冗長辯論機制 透過《拯救美國法案》】美國總統特朗普表示：“看起來我每次都輕鬆贏得的猶他州，正在轉向科羅拉多州的全郵寄投票模式，而一旦採取這種做法，這些州往往就會倒向左翼。我們必須阻止猶他州這樣做。如果操作不當，全郵寄選票將為民主黨人帶來巨大優勢；由於他們的政策荒謬至極，作弊成了他們通往勝利的唯一途徑。共和黨意識到自己正面臨什麼了嗎？民主黨人正步步為營、逐州推進，一路笑納‘戰果’。必須立即廢除冗長辯論機制和/或透過《拯救美國法案》”。特朗普還表示：“任何不想廢除冗長辯論機制的人都是蠢貨，而且是極度愚蠢的蠢貨！那些‘笨蛋民主黨人’（Dumocrats）一旦上臺，幾分鐘內就會廢除這一規則，隨後迅速著手摧毀我們的國家。”
+
+---
+
+### 2026-06-19 02:26:01  #MKT News
+
+Trump said anyone who opposes repealing the filibuster is "stupid" and "extremely stupid," called Democrats "Dumocrats," and warned they would abolish the rule within minutes and then move quickly to destroy the country.
+
+---
+
+### 2026-06-19 02:25:08  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Rice Rises by 2.31% — Top commodity gainers are Rice (2.31%) and Oat (2.05%). Biggest losers are Coffee (-2.24%), Canola (-1.73%) and Sugar (-1.60%).
+
+---
+
+### 2026-06-19 02:24:40  #國際
+
+【特朗普稱預計“所有戰線都將實現全面停火”】當地時間6月18日，美國總統特朗普在社交平臺發文表示，美國致力於和平，並呼籲中東地區各方繼續履行承諾，確保當前談判“順利推進”。他表示，美方預計“所有戰線都將實現全面停火”，其中包括黎巴嫩、黎真主黨以及以色列方面。（央視新聞）
+
+---
+
+### 2026-06-19 02:22:24  #MKT News #Market Themes #AI Revolution
+
+【ANTHROPIC pledges closer White House cooperation to address 'Mythos' and 'Fable' security concerns】ANTHROPIC told Commerce Secretary Lutnick in a proposal it will work more closely with the White House and address the security flaws that prompted restrictions on its powerful 'Mythos' and 'Fable' models, the Washington Post reported. Insiders said ANTHROPIC has pledged to improve communications with the Trump administration and to move faster to remediate any safety issues; negotiations are progressing smoothly but no timetable has been set. Talks are being led by co‑founder and chief computing officer Tom Brown and head of public policy Sarah Heck. ANTHROPIC and Commerce Department representatives did not respond to requests for comment.
+
+---
+
+### 2026-06-19 02:20:08  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 4.98% — Top commodity losers are Platinum (-4.98%), Silver (-2.68%), Copper (-1.51%) and Gold (-0.74%).
+
+---
+
+### 2026-06-19 02:17:40  #宏觀 #公司 #國際
+
+【Anthropic承諾與白宮展開更深度合作】Anthropic 高管向商務部長霍華德·盧特尼克提交一份方案，承諾與白宮展開更深度合作，力求儘快消除各類安全隱患；正是相關安全問題，使得該公司高效能AI模型“Mythos”與“Fable”遭到監管整治。一位知情人士週四透露，雙方仍在進行整改磋商，Anthropic 在會談中承諾將加強與特朗普政府的溝通，未來更快處置各類安全風險。該知情人士還表示，Anthropic 與特朗普政府官員的談判整體進展順利，但出臺長效整改措施的具體時間表仍未敲定。另一位知情人士稱，截至週四，Anthropic 聯合創始人兼首席算力官湯姆·布朗、公司公共政策主管薩拉·赫克，牽頭與特朗普政府官員開展談判。
+
+---
+
+### 2026-06-19 02:15:08  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Methanol Drops by 3.72% — Top commodity losers are Methanol (-3.72%), Natural Gas EU (-2.83%), Natural Gas UK (-2.78%), Crude Oil WTI (-1.02%) and Brent Crude Oil (-0.61%). Gains are led by Natural gas (2.17%) and Gasoline (1.66%).
+
+---
+
+### 2026-06-19 02:14:13  #國際
+
+ANTHROPIC向美國商務部長霍華德·盧特尼克提交提案，尋求解除美國對強大“MYTHOS”、“FABLE”AI模型的禁令。
+
+---
+
+### 2026-06-19 02:12:30  #其他
+
+Claude：Claude Code現在支援Artifacts。
+
+---
+
+### 2026-06-19 02:11:46  #MKT News
+
+Trump urged Republicans to immediately abolish the Senate filibuster or pass the Save America Act, saying Democrats are advancing state-by-state and pocketing 'wins'.
+
+---
+
+### 2026-06-19 02:11:08  #MKT News #Market Themes #The Trump Trade
+
+President Trump said Utah must be prevented from adopting all-mail voting, warning that if mishandled it would give Democrats a large advantage and claiming their policies are so absurd that cheating has become their only route to victory.
+
+---
+
+### 2026-06-19 02:10:31  #MKT News
+
+President Trump said Utah, which he said he always easily wins, is moving to a Colorado-style all-mail voting system, and that such changes tend to push states toward the left.
 
 ---
 
@@ -23190,349 +23530,5 @@ Metals Commodities Updates: Platinum Falls by 2.38% — Top commodity losers are
 ### 2026-06-18 02:18:55  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
 
 【Fed adds wording on strong productivity and capital investment, echoing Warsh on AI investment boom】Analysts said the Fed inserted new language in its rate-decision statement noting productivity growth and capital investment remain strong. The wording mirrors Fed chair Kevin Warsh’s emphasis on an AI investment boom; Warsh and some in the Trump camp argue AI-related investment could, over time, reduce inflationary pressures.
-
----
-
-### 2026-06-18 02:18:34  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
-
-Michelle, head of global fixed income at JP Morgan, said the Federal Reserve has told us we have not yet reached the neutral rate.
-
----
-
-### 2026-06-18 02:17:59  #MKT News #Market Regions #Europe & UK
-
-Prime Minister Magyar said Hungary will remove its fuel price cap.
-
----
-
-### 2026-06-18 02:17:42  #國際
-
-【以軍及猶太定居者在約旦河西岸襲擊巴居民】當地時間17日，約旦河西岸多地當天發生以色列軍隊拆除房屋、推平土地以及猶太定居者襲擊巴勒斯坦居民事件，造成大量農業設施和建築受損，多名巴勒斯坦居民受到嚴重影響。（央視）
-
----
-
-### 2026-06-18 02:17:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-【Dot-plot read: One Fed participant backs three hikes in 2026】Fed dot plot for 2026: 1 participant expects three hikes (March: 0), 5 expect two hikes (March: 0), 3 expect one hike (March: 0), 8 expect rates unchanged (March: 7), 1 expects one cut (March: 7), 0 expect two cuts (March: 2), 0 expect three cuts (March: 2), 0 expect four cuts (March: 1). Overall, supporters of 2026 rate increases rose to 9 participants — including one who favors an aggressive 75bp tightening — while supporters of cuts fell to 1.
-
----
-
-### 2026-06-18 02:15:59  #MKT News #Macro & Rates #Treasury Yields #The Fed (FOMC) #US10Y #Impact bearish
-
-US Treasury yields rose after Fed officials signaled the next move could be a rate hike. The 10-year Treasury yield traded at 4.465%; the 2-year, which is more sensitive to short-term rate expectations, traded at 4.138%.
-
----
-
-### 2026-06-18 02:15:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural gas Drops by 2.46% — Top commodity losers are Natural gas (-2.46%), Methanol (-1.81%) and Natural Gas EU (-0.55%). Gains are led by Crude Oil WTI (0.67%), Gasoline (0.59%) and Brent Crude Oil (0.51%).
-
----
-
-### 2026-06-18 02:14:07  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Erase Gains After Fed — US stock indices swung lower after the Federal Reserve held interest rates unchanged and signaled the possibility of rate hikes this year. The S&P 500 and Nasdaq 100 dropped 0.4%, while the Dow eased from its record high. The Summary of Economic Projections from the Fed's June meeting showed half of the FOMC projecting one rate hike or more this year, as the latest underlying inflation gauges showed an acceleration in prices and employment data remained robust despite economic shocks from the war in Iran. Notably, Chairman Warsh refrained from posting a dot in the projections to reflect his will to change the monetary framework of the Fed. Meanwhile, Iran and the US remained on track to sign their agreement by Friday. Magnificent seven stocks led the losses amid the plunge in Treasuries, with Meta, Microsoft, Alphabet, and Amazon dropping more than 2%. In turn, chip producers extended their rally with Micron, Marvell, Applied Materials and Intel adding more than 3%.
-
----
-
-### 2026-06-18 02:14:04  #市場 #焦點
-
-現貨黃金失守4280美元/盎司，日內跌1.20%。
-
----
-
-### 2026-06-18 02:13:52  #市場 #焦點
-
-紐約期金失守4300美元/盎司，日內跌1.29%。
-
----
-
-### 2026-06-18 02:13:51  #公司 #國際
-
-【特朗普稱已與俄烏領導人通話 希望推動停火】當地時間6月17日，美國總統特朗普表示，過去兩天他與七國集團（G7）成員及夥伴國家討論了多項議題，其中包括俄烏衝突。特朗普稱，他已分別與俄羅斯總統普京和烏克蘭總統澤連斯基進行溝通，並向各國領導人通報了此前與普京通話的情況。特朗普重申，仍希望推動俄烏衝突結束。（央視新聞）
-
----
-
-### 2026-06-18 02:13:00  #國際
-
-倫敦金屬交易所（LME）表示：自 2026 年 7 月 25 日（含當日）起，僅當有證據證明相關金屬已於 2026 年 7 月 25 日前完全依照歐盟理事會第 2026/506 號法規進口至歐盟境內，俄羅斯產銅、鈷方可存入歐盟境內倫敦金屬交易所指定交割倉庫生成倉單。
-
----
-
-### 2026-06-18 02:12:14  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed statement removed the practice of publishing individual FOMC voting records.
-
----
-
-### 2026-06-18 02:12:01  #國際
-
-倫敦金屬交易所（LME）表示：過去一年多以來，歐盟境內所有 LME 認證倉庫均未入庫任何俄羅斯產鈷與銅交割品。
-
----
-
-### 2026-06-18 02:11:48  #央行 #國際
-
-【“新美聯儲通訊社”：美聯儲明顯鷹派，政策宣告大改】“新美聯儲通訊社”Nick Timiraos認為：本次美聯儲點陣圖顯示出明顯的鷹派傾向。在18名官員中，有9人預計今年至少會加息一次，其中6人甚至預計將出現多次加息。相比之下，僅有1名官員預計今年會降息；此外，還有1名參與者（推測為美聯儲主席沃什）未提交經濟預測摘要（SEP）。與此同時，美聯儲政策宣告從頭到尾進行了全面修訂，文字長度明顯縮短。整體來看，本次會議的溝通框架發生顯著變化，市場對利率路徑的預期或將因此被重新調整。
-
----
-
-### 2026-06-18 02:11:03  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Michelle, head of global fixed income at JP Morgan, said she did not expect half of people to predict a rate hike.
-
----
-
-### 2026-06-18 02:10:57  #市場
-
-現貨黃金日內跌1%，現報4286.22美元/盎司。
-
----
-
-### 2026-06-18 02:10:49  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-【TIMIRAOS: Fed clearly more hawkish; policy statement overhauled】TIMIRAOS on the Fed decision: the dot plot shows a clear hawkish tilt — 9 of 18 officials expect at least one hike this year, six expect multiple hikes and only one expects cuts. One participant (likely Fed chair KEVIN WARSH) did not submit an SEP. The policy statement was rewritten end-to-end and notably shortened. Communication framework has shifted materially, which could prompt markets to reprice the interest-rate path.
-
----
-
-### 2026-06-18 02:10:11  #國際
-
-伊朗外交部： 以色列持續佔領黎巴嫩南部地區的行為違反諒解備忘錄，我方將採取必要舉措。
-
----
-
-### 2026-06-18 02:09:54  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-JP Morgan global head of fixed income Michelle said the FOMC's stance is leaning hawkish.
-
----
-
-### 2026-06-18 02:09:28  #央行 #焦點 #國際
-
-交易員在點陣圖調整後押注美聯儲更大幅度收緊政策。
-
----
-
-### 2026-06-18 02:09:02  #觀點 #央行 #焦點 #國際
-
-摩根大通全球固定收益主管：美聯儲正在讓市場做好加息準備， 美聯儲正關注其他央行加息動向。
-
----
-
-### 2026-06-18 02:08:50  #市場 #焦點
-
-現貨黃金失守4290美元/盎司，日內跌0.97%。
-
----
-
-### 2026-06-18 02:08:49  #市場 #焦點
-
-現貨白銀失守69美元/盎司，日內跌1.74%。
-
----
-
-### 2026-06-18 02:08:37  #市場 #焦點
-
-紐約期金失守4310美元/盎司，日內跌1.04%。
-
----
-
-### 2026-06-18 02:08:36  #市場
-
-紐約期金日內跌1%，現報4310.40美元/盎司。
-
----
-
-### 2026-06-18 02:08:32  #市場 #焦點
-
-紐約期金失守4320美元/盎司，日內跌0.80%。
-
----
-
-### 2026-06-18 02:07:20  #公司 #央行 #國際
-
-原美聯儲副主席、太平洋投資管理公司（PIMCO，品浩）全球經濟顧問克拉裡達：主席沃什沒有給出點陣圖看法不足為奇。
-
----
-
-### 2026-06-18 02:06:41  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Former Fed Vice Chair Richard Clarida said he was not surprised that Fed Chair Kevin Warsh did not submit a dot plot.
-
----
-
-### 2026-06-18 02:06:16  #央行 #美聯儲
-
-【美聯儲將美國2026年GDP增長預期中值從2.4%下調至2.2%】美聯儲將美國2026年至2028年GDP增速預期中值調整為2.2%、2.3%、2.2%，3月預期分別為2.4%、2.3%、2.1%；將2026年至2028年底PCE通脹預期中值調整為3.6%、2.3%、2.0%，3月預期分別為2.7%、2.2%、2.0%。
-
----
-
-### 2026-06-18 02:06:04  #央行 #焦點 #國際
-
-【美聯儲點陣圖：有9位官員預計2026年應採取加息行動】美聯儲點陣圖顯示，19名官員中，只有18人提交了點陣圖預測。在18位官員中，有1位官員認為2026年剩餘時間應累計加息75個基點，有5位官員認為應累計加息50個基點，有3位官員認為應累計加息25個基點，有8位官員認為應維持利率不變，有1位官員認為應累計降息25個基點。
-
----
-
-### 2026-06-18 02:05:48  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-FOMC median unemployment projections: 4.3% for end-2026, 4.3% for end-2027 and 4.2% for end-2028; March medians were 4.4%, 4.3%, 4.2%.
-
----
-
-### 2026-06-18 02:05:47  #市場 #焦點
-
-現貨黃金失守4310美元/盎司，日內跌0.61%。
-
----
-
-### 2026-06-18 02:05:46  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，海天網路跌18.25%，新氧跌9.83%，迅雷跌6.45%，億咖通科技跌4.92%，霧芯科技跌3.81%。
-
----
-
-### 2026-06-18 02:05:46  #市場
-
-現貨白銀日內跌1%，現報69.19美元/盎司。
-
----
-
-### 2026-06-18 02:05:44  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed FOMC projections: median core PCE inflation at 3.3% for end-2026, 2.5% for end-2027 and 2.1% for end-2028, versus March medians of 2.7%, 2.2% and 2.0%.
-
----
-
-### 2026-06-18 02:05:43  #市場
-
-鈀金期貨日內跌2%，現報1342.95美元/盎司。
-
----
-
-### 2026-06-18 02:05:41  #市場
-
-紐約期銀日內跌1%，現報69.78美元/盎司。
-
----
-
-### 2026-06-18 02:05:39  #MKT News #EURUSD #Impact bearish #GBPUSD #USDJPY #Impact bullish
-
-Non-dollar currencies were broadly weaker: EUR/USD slid nearly 50 pips intra-session, GBP/USD fell over 40 pips and USD/JPY jumped more than 20 pips.
-
----
-
-### 2026-06-18 02:05:38  #市場 #焦點
-
-紐約期金失守4330美元/盎司，日內跌0.58%。
-
----
-
-### 2026-06-18 02:05:38  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-【Fed dot plot: nine officials project rate hikes in 2026】The Fed dot plot covered 19 officials; 18 submitted projections. Among those 18, 1 projects a cumulative 75 bps increase in 2026, 5 project 50 bps, 3 project 25 bps, 8 project unchanged rates, and 1 projects a cumulative 25 bps cut.
-
----
-
-### 2026-06-18 02:05:22  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Union Pacific Stock Price Hits 7-week Low — Union Pacific shares decreased to 258.52 USD, the lowest since April 2026. Over the past 4 weeks, Union Pacific lost 5.93%, and in the last 12 months, it increased 16.58%.
-
----
-
-### 2026-06-18 02:05:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-FOMC median PCE inflation projections for end-2026, end-2027 and end-2028 are 3.6%, 2.3% and 2.0%, versus March medians of 2.7%, 2.2% and 2.0%.
-
----
-
-### 2026-06-18 02:05:06  #央行 #國際
-
-美聯儲FOMC經濟預期： 2026 年至 2028 年GDP增速預期中值分別為 2.2%、2.3%、2.2%。（3月預期分別為2.4%、2.3%、2.1%）
- 2026、2027、2028年底和長期聯邦基金利率預期中值分別為3.8%、3.6%、3.4%、3.1%。（3月預期分別為3.4%、3.1%、3.1%、3.1%）
-2026年至2028年底PCE通脹預期中值分別為3.6%、2.3%、2.0%。（3月預期分別為2.7%、2.2%、2.0%）
-
----
-
-### 2026-06-18 02:05:04  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-Federal Reserve FOMC statement reiterated it will maintain ample reserves in the banking system and directed the Open Market Trading Desk to increase securities holdings as appropriate.
-
----
-
-### 2026-06-18 02:04:53  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Markets now fully price a 25bp Fed rate hike before year-end.
-
----
-
-### 2026-06-18 02:04:47  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-FOMC median federal funds rate projections for end-2026, end-2027, end-2028 and the longer run are 3.8%, 3.6%, 3.4% and 3.1%, respectively; March projections were 3.4%, 3.1%, 3.1% and 3.1%.
-
----
-
-### 2026-06-18 02:04:30  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed FOMC median GDP growth projections for 2026–28 are 2.2%, 2.3% and 2.2% respectively (March projections: 2.4%, 2.3%, 2.1%).
-
----
-
-### 2026-06-18 02:04:22  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
-
-Federal Reserve FOMC projections: median 2026 GDP growth forecast lowered to 2.2% from 2.4%.
-
----
-
-### 2026-06-18 02:04:14  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #Dow #Nasdaq100
-
-Following the Fed rate decision, US equity indices slipped in a brief selloff: Dow -0.1%, S&P 500 -0.44%, Nasdaq -0.47%.
-
----
-
-### 2026-06-18 02:04:12  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Markets priced in further Fed tightening after the dot plot release.
-
----
-
-### 2026-06-18 02:04:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-FOMC statement said productivity growth and capital investment have been strong.
-
----
-
-### 2026-06-18 02:04:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact mixed #US10Y
-
-FOMC statement: Despite elevated uncertainty from the Middle East conflict, economic activity continues to expand at a solid pace.
-
----
-
-### 2026-06-18 02:04:11  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Federal Reserve officials project the median federal funds rate at 3.8% at end-2026, up from a 3.4% projection in March.
-
----
-
-### 2026-06-18 02:04:09  #MKT News #Macro & Rates
-
-FOMC statement: keeps overnight reverse repurchase rate unchanged at 3.50%.
-
----
-
-### 2026-06-18 02:04:07  #MKT News #WTI #Brent
-
-After the Fed's rate decision, WTI and Brent crude saw limited short-term volatility, trading at $76.40/bbl and $79.20/bbl respectively.
-
----
-
-### 2026-06-18 02:04:05  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve FOMC statement: employment growth has kept pace with labor force growth.
-
----
-
-### 2026-06-18 02:04:05  #MKT News #Important #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #DXY #Impact bullish
-
-After the Federal Reserve's rate decision, spot gold plunged more than $40 intraday and the dollar index (DXY) rallied about 35 points.
 
 ---

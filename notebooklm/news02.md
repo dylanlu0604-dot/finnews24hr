@@ -1,7 +1,351 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-19 02:09:37_
-_本檔包含 3548 則快訊，約 708959 字_
+_更新時間：2026-06-19 03:01:19_
+_本檔包含 3527 則快訊，約 708974 字_
+
+---
+
+### 2026-06-18 02:18:34  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
+
+Michelle, head of global fixed income at JP Morgan, said the Federal Reserve has told us we have not yet reached the neutral rate.
+
+---
+
+### 2026-06-18 02:17:59  #MKT News #Market Regions #Europe & UK
+
+Prime Minister Magyar said Hungary will remove its fuel price cap.
+
+---
+
+### 2026-06-18 02:17:42  #國際
+
+【以軍及猶太定居者在約旦河西岸襲擊巴居民】當地時間17日，約旦河西岸多地當天發生以色列軍隊拆除房屋、推平土地以及猶太定居者襲擊巴勒斯坦居民事件，造成大量農業設施和建築受損，多名巴勒斯坦居民受到嚴重影響。（央視）
+
+---
+
+### 2026-06-18 02:17:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+【Dot-plot read: One Fed participant backs three hikes in 2026】Fed dot plot for 2026: 1 participant expects three hikes (March: 0), 5 expect two hikes (March: 0), 3 expect one hike (March: 0), 8 expect rates unchanged (March: 7), 1 expects one cut (March: 7), 0 expect two cuts (March: 2), 0 expect three cuts (March: 2), 0 expect four cuts (March: 1). Overall, supporters of 2026 rate increases rose to 9 participants — including one who favors an aggressive 75bp tightening — while supporters of cuts fell to 1.
+
+---
+
+### 2026-06-18 02:15:59  #MKT News #Macro & Rates #Treasury Yields #The Fed (FOMC) #US10Y #Impact bearish
+
+US Treasury yields rose after Fed officials signaled the next move could be a rate hike. The 10-year Treasury yield traded at 4.465%; the 2-year, which is more sensitive to short-term rate expectations, traded at 4.138%.
+
+---
+
+### 2026-06-18 02:15:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural gas Drops by 2.46% — Top commodity losers are Natural gas (-2.46%), Methanol (-1.81%) and Natural Gas EU (-0.55%). Gains are led by Crude Oil WTI (0.67%), Gasoline (0.59%) and Brent Crude Oil (0.51%).
+
+---
+
+### 2026-06-18 02:14:07  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Erase Gains After Fed — US stock indices swung lower after the Federal Reserve held interest rates unchanged and signaled the possibility of rate hikes this year. The S&P 500 and Nasdaq 100 dropped 0.4%, while the Dow eased from its record high. The Summary of Economic Projections from the Fed's June meeting showed half of the FOMC projecting one rate hike or more this year, as the latest underlying inflation gauges showed an acceleration in prices and employment data remained robust despite economic shocks from the war in Iran. Notably, Chairman Warsh refrained from posting a dot in the projections to reflect his will to change the monetary framework of the Fed. Meanwhile, Iran and the US remained on track to sign their agreement by Friday. Magnificent seven stocks led the losses amid the plunge in Treasuries, with Meta, Microsoft, Alphabet, and Amazon dropping more than 2%. In turn, chip producers extended their rally with Micron, Marvell, Applied Materials and Intel adding more than 3%.
+
+---
+
+### 2026-06-18 02:14:04  #市場 #焦點
+
+現貨黃金失守4280美元/盎司，日內跌1.20%。
+
+---
+
+### 2026-06-18 02:13:52  #市場 #焦點
+
+紐約期金失守4300美元/盎司，日內跌1.29%。
+
+---
+
+### 2026-06-18 02:13:51  #公司 #國際
+
+【特朗普稱已與俄烏領導人通話 希望推動停火】當地時間6月17日，美國總統特朗普表示，過去兩天他與七國集團（G7）成員及夥伴國家討論了多項議題，其中包括俄烏衝突。特朗普稱，他已分別與俄羅斯總統普京和烏克蘭總統澤連斯基進行溝通，並向各國領導人通報了此前與普京通話的情況。特朗普重申，仍希望推動俄烏衝突結束。（央視新聞）
+
+---
+
+### 2026-06-18 02:13:00  #國際
+
+倫敦金屬交易所（LME）表示：自 2026 年 7 月 25 日（含當日）起，僅當有證據證明相關金屬已於 2026 年 7 月 25 日前完全依照歐盟理事會第 2026/506 號法規進口至歐盟境內，俄羅斯產銅、鈷方可存入歐盟境內倫敦金屬交易所指定交割倉庫生成倉單。
+
+---
+
+### 2026-06-18 02:12:14  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed statement removed the practice of publishing individual FOMC voting records.
+
+---
+
+### 2026-06-18 02:12:01  #國際
+
+倫敦金屬交易所（LME）表示：過去一年多以來，歐盟境內所有 LME 認證倉庫均未入庫任何俄羅斯產鈷與銅交割品。
+
+---
+
+### 2026-06-18 02:11:48  #央行 #國際
+
+【“新美聯儲通訊社”：美聯儲明顯鷹派，政策宣告大改】“新美聯儲通訊社”Nick Timiraos認為：本次美聯儲點陣圖顯示出明顯的鷹派傾向。在18名官員中，有9人預計今年至少會加息一次，其中6人甚至預計將出現多次加息。相比之下，僅有1名官員預計今年會降息；此外，還有1名參與者（推測為美聯儲主席沃什）未提交經濟預測摘要（SEP）。與此同時，美聯儲政策宣告從頭到尾進行了全面修訂，文字長度明顯縮短。整體來看，本次會議的溝通框架發生顯著變化，市場對利率路徑的預期或將因此被重新調整。
+
+---
+
+### 2026-06-18 02:11:03  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Michelle, head of global fixed income at JP Morgan, said she did not expect half of people to predict a rate hike.
+
+---
+
+### 2026-06-18 02:10:57  #市場
+
+現貨黃金日內跌1%，現報4286.22美元/盎司。
+
+---
+
+### 2026-06-18 02:10:49  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【TIMIRAOS: Fed clearly more hawkish; policy statement overhauled】TIMIRAOS on the Fed decision: the dot plot shows a clear hawkish tilt — 9 of 18 officials expect at least one hike this year, six expect multiple hikes and only one expects cuts. One participant (likely Fed chair KEVIN WARSH) did not submit an SEP. The policy statement was rewritten end-to-end and notably shortened. Communication framework has shifted materially, which could prompt markets to reprice the interest-rate path.
+
+---
+
+### 2026-06-18 02:10:11  #國際
+
+伊朗外交部： 以色列持續佔領黎巴嫩南部地區的行為違反諒解備忘錄，我方將採取必要舉措。
+
+---
+
+### 2026-06-18 02:09:54  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+JP Morgan global head of fixed income Michelle said the FOMC's stance is leaning hawkish.
+
+---
+
+### 2026-06-18 02:09:28  #央行 #焦點 #國際
+
+交易員在點陣圖調整後押注美聯儲更大幅度收緊政策。
+
+---
+
+### 2026-06-18 02:09:02  #觀點 #央行 #焦點 #國際
+
+摩根大通全球固定收益主管：美聯儲正在讓市場做好加息準備， 美聯儲正關注其他央行加息動向。
+
+---
+
+### 2026-06-18 02:08:50  #市場 #焦點
+
+現貨黃金失守4290美元/盎司，日內跌0.97%。
+
+---
+
+### 2026-06-18 02:08:49  #市場 #焦點
+
+現貨白銀失守69美元/盎司，日內跌1.74%。
+
+---
+
+### 2026-06-18 02:08:37  #市場 #焦點
+
+紐約期金失守4310美元/盎司，日內跌1.04%。
+
+---
+
+### 2026-06-18 02:08:36  #市場
+
+紐約期金日內跌1%，現報4310.40美元/盎司。
+
+---
+
+### 2026-06-18 02:08:32  #市場 #焦點
+
+紐約期金失守4320美元/盎司，日內跌0.80%。
+
+---
+
+### 2026-06-18 02:07:20  #公司 #央行 #國際
+
+原美聯儲副主席、太平洋投資管理公司（PIMCO，品浩）全球經濟顧問克拉裡達：主席沃什沒有給出點陣圖看法不足為奇。
+
+---
+
+### 2026-06-18 02:06:41  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Former Fed Vice Chair Richard Clarida said he was not surprised that Fed Chair Kevin Warsh did not submit a dot plot.
+
+---
+
+### 2026-06-18 02:06:16  #央行 #美聯儲
+
+【美聯儲將美國2026年GDP增長預期中值從2.4%下調至2.2%】美聯儲將美國2026年至2028年GDP增速預期中值調整為2.2%、2.3%、2.2%，3月預期分別為2.4%、2.3%、2.1%；將2026年至2028年底PCE通脹預期中值調整為3.6%、2.3%、2.0%，3月預期分別為2.7%、2.2%、2.0%。
+
+---
+
+### 2026-06-18 02:06:04  #央行 #焦點 #國際
+
+【美聯儲點陣圖：有9位官員預計2026年應採取加息行動】美聯儲點陣圖顯示，19名官員中，只有18人提交了點陣圖預測。在18位官員中，有1位官員認為2026年剩餘時間應累計加息75個基點，有5位官員認為應累計加息50個基點，有3位官員認為應累計加息25個基點，有8位官員認為應維持利率不變，有1位官員認為應累計降息25個基點。
+
+---
+
+### 2026-06-18 02:05:48  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+FOMC median unemployment projections: 4.3% for end-2026, 4.3% for end-2027 and 4.2% for end-2028; March medians were 4.4%, 4.3%, 4.2%.
+
+---
+
+### 2026-06-18 02:05:47  #市場 #焦點
+
+現貨黃金失守4310美元/盎司，日內跌0.61%。
+
+---
+
+### 2026-06-18 02:05:46  #市場 #焦點
+
+納斯達克中國金龍指數跌超0.5%，海天網路跌18.25%，新氧跌9.83%，迅雷跌6.45%，億咖通科技跌4.92%，霧芯科技跌3.81%。
+
+---
+
+### 2026-06-18 02:05:46  #市場
+
+現貨白銀日內跌1%，現報69.19美元/盎司。
+
+---
+
+### 2026-06-18 02:05:44  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed FOMC projections: median core PCE inflation at 3.3% for end-2026, 2.5% for end-2027 and 2.1% for end-2028, versus March medians of 2.7%, 2.2% and 2.0%.
+
+---
+
+### 2026-06-18 02:05:43  #市場
+
+鈀金期貨日內跌2%，現報1342.95美元/盎司。
+
+---
+
+### 2026-06-18 02:05:41  #市場
+
+紐約期銀日內跌1%，現報69.78美元/盎司。
+
+---
+
+### 2026-06-18 02:05:39  #MKT News #EURUSD #Impact bearish #GBPUSD #USDJPY #Impact bullish
+
+Non-dollar currencies were broadly weaker: EUR/USD slid nearly 50 pips intra-session, GBP/USD fell over 40 pips and USD/JPY jumped more than 20 pips.
+
+---
+
+### 2026-06-18 02:05:38  #市場 #焦點
+
+紐約期金失守4330美元/盎司，日內跌0.58%。
+
+---
+
+### 2026-06-18 02:05:38  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【Fed dot plot: nine officials project rate hikes in 2026】The Fed dot plot covered 19 officials; 18 submitted projections. Among those 18, 1 projects a cumulative 75 bps increase in 2026, 5 project 50 bps, 3 project 25 bps, 8 project unchanged rates, and 1 projects a cumulative 25 bps cut.
+
+---
+
+### 2026-06-18 02:05:22  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Union Pacific Stock Price Hits 7-week Low — Union Pacific shares decreased to 258.52 USD, the lowest since April 2026. Over the past 4 weeks, Union Pacific lost 5.93%, and in the last 12 months, it increased 16.58%.
+
+---
+
+### 2026-06-18 02:05:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+FOMC median PCE inflation projections for end-2026, end-2027 and end-2028 are 3.6%, 2.3% and 2.0%, versus March medians of 2.7%, 2.2% and 2.0%.
+
+---
+
+### 2026-06-18 02:05:06  #央行 #國際
+
+美聯儲FOMC經濟預期： 2026 年至 2028 年GDP增速預期中值分別為 2.2%、2.3%、2.2%。（3月預期分別為2.4%、2.3%、2.1%）
+ 2026、2027、2028年底和長期聯邦基金利率預期中值分別為3.8%、3.6%、3.4%、3.1%。（3月預期分別為3.4%、3.1%、3.1%、3.1%）
+2026年至2028年底PCE通脹預期中值分別為3.6%、2.3%、2.0%。（3月預期分別為2.7%、2.2%、2.0%）
+
+---
+
+### 2026-06-18 02:05:04  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Federal Reserve FOMC statement reiterated it will maintain ample reserves in the banking system and directed the Open Market Trading Desk to increase securities holdings as appropriate.
+
+---
+
+### 2026-06-18 02:04:53  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Markets now fully price a 25bp Fed rate hike before year-end.
+
+---
+
+### 2026-06-18 02:04:47  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+FOMC median federal funds rate projections for end-2026, end-2027, end-2028 and the longer run are 3.8%, 3.6%, 3.4% and 3.1%, respectively; March projections were 3.4%, 3.1%, 3.1% and 3.1%.
+
+---
+
+### 2026-06-18 02:04:30  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed FOMC median GDP growth projections for 2026–28 are 2.2%, 2.3% and 2.2% respectively (March projections: 2.4%, 2.3%, 2.1%).
+
+---
+
+### 2026-06-18 02:04:22  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
+
+Federal Reserve FOMC projections: median 2026 GDP growth forecast lowered to 2.2% from 2.4%.
+
+---
+
+### 2026-06-18 02:04:14  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #Dow #Nasdaq100
+
+Following the Fed rate decision, US equity indices slipped in a brief selloff: Dow -0.1%, S&P 500 -0.44%, Nasdaq -0.47%.
+
+---
+
+### 2026-06-18 02:04:12  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Markets priced in further Fed tightening after the dot plot release.
+
+---
+
+### 2026-06-18 02:04:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+FOMC statement said productivity growth and capital investment have been strong.
+
+---
+
+### 2026-06-18 02:04:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact mixed #US10Y
+
+FOMC statement: Despite elevated uncertainty from the Middle East conflict, economic activity continues to expand at a solid pace.
+
+---
+
+### 2026-06-18 02:04:11  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+Federal Reserve officials project the median federal funds rate at 3.8% at end-2026, up from a 3.4% projection in March.
+
+---
+
+### 2026-06-18 02:04:09  #MKT News #Macro & Rates
+
+FOMC statement: keeps overnight reverse repurchase rate unchanged at 3.50%.
+
+---
+
+### 2026-06-18 02:04:07  #MKT News #WTI #Brent
+
+After the Fed's rate decision, WTI and Brent crude saw limited short-term volatility, trading at $76.40/bbl and $79.20/bbl respectively.
+
+---
+
+### 2026-06-18 02:04:05  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve FOMC statement: employment growth has kept pace with labor force growth.
+
+---
+
+### 2026-06-18 02:04:05  #MKT News #Important #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #DXY #Impact bullish
+
+After the Federal Reserve's rate decision, spot gold plunged more than $40 intraday and the dollar index (DXY) rallied about 35 points.
 
 ---
 
@@ -20972,473 +21316,5 @@ Google will extend Android parental-control features to all devices upgraded to 
 ### 2026-06-17 02:05:02  #MKT News
 
 【US cargo Dragon undocks from ISS, returns to Earth】SpaceX’s cargo Dragon undocked from the International Space Station on the 16th at 12:25 US Eastern Time (00:25 Beijing, 17th), carrying scientific experiment samples and supplies for return. It is scheduled to splash down off the coast of California at 05:08 US Pacific Time on the 17th (20:08 Beijing).
-
----
-
-### 2026-06-17 02:05:01  #公司 #國際
-
-谷歌：已將美國數字健康基金規模增至逾5000萬美元。
-
----
-
-### 2026-06-17 02:04:54  #公司
-
-谷歌：將安卓家長控制功能擴充套件至所有升級至安卓17系統的安卓裝置。
-
----
-
-### 2026-06-17 02:04:51  #MKT News #EURUSD #Impact mixed
-
-Bank of France expects 2026 inf at 2.5% (previously 1.7%) and sees Q2 GDP flat after a contraction in Q1.
-
----
-
-### 2026-06-17 02:04:51  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-Bank of France cuts its 2026 GDP growth forecast to 0.5% from 0.9%.
-
----
-
-### 2026-06-17 02:02:58  #國際
-
-【美貨運“龍”飛船脫離空間站返回地球】SpaceX的貨運“龍”飛船16日脫離國際空間站，攜帶科學實驗樣品和物資返回地球。據美國國家航空航天局介紹，“龍”飛船於美國東部時間16日12時25分（北京時間17日0時25分）脫離國際空間站，啟程返回地球。按計劃，“龍”飛船將於美國西部時間17日5時08分（北京時間同日20時08分）濺落在美加利福尼亞州附近海域。（新華社）
-
----
-
-### 2026-06-17 02:02:53  #央行 #其他
-
-法國央行預計本國第二季度經濟零增長。
-
----
-
-### 2026-06-17 02:00:41  #MKT News #EURUSD #Impact bullish
-
-Bank of France raises its 2027 GDP growth forecast to 0.9% from 0.8%; keeps 2028 forecast at 1.2%.
-
----
-
-### 2026-06-17 02:00:31  #央行 #其他
-
-法國央行將2026年經濟增長預測從此前的0.9%下調至0.5%。
-
----
-
-### 2026-06-17 02:00:28  #央行 #其他
-
-法國央行預測，2027年經濟增長率為0.9%，此前預測值為0.8%；2028年經濟增長率維持1.2%不變。
-
----
-
-### 2026-06-17 02:00:21  #央行 #其他
-
-法國央行預計2026年通脹率為2.5%，此前預測值為1.7%。
-
----
-
-### 2026-06-17 02:00:20  #MKT News #Market Regions #Europe & UK
-
-Brazilian President Lula and European Commission President von der Leyen pledged to seek a solution to address EU concerns.
-
----
-
-### 2026-06-17 01:59:42  #其他
-
-【赤道幾內亞政府集體辭職】當地時間16日，赤道幾內亞副總統特奧多羅·奧比昂·曼格宣佈，由於未能實現既定施政目標，政府已正式辭職。曼格在宣告中指出，此次辭職旨在為組建新的政府團隊鋪平道路，以提高行政效率並加快國家發展計劃的落實。他強調，政府各部門需要進一步提升工作表現，更有效地回應國家經濟和社會發展需求。目前，赤道幾內亞方面尚未公佈新內閣成員名單及具體組閣時間表。（央視新聞）
-
----
-
-### 2026-06-17 01:59:20  #國際
-
-巴西總統盧拉與歐盟委員會主席馮德萊恩承諾，將致力於尋求解決方案，化解歐盟的關切。
-
----
-
-### 2026-06-17 01:58:47  #國際
-
-美國國家颶風中心（NHC）表示，潛在一號熱帶氣旋正導致得克薩斯州和路易斯安那州部分地區出現危險的突發洪水。
-
----
-
-### 2026-06-17 01:58:32  #國際
-
-巴西總統盧拉與歐盟委員會主席馮德萊恩確定建立雙邊機制，以識別涉及動物產品與鋼鐵領域的相關難題。
-
----
-
-### 2026-06-17 01:58:17  #MKT News
-
-Brazilian President Lula met with European Commission President Von der Leyen to discuss trade restrictions targeting Brazilian products.
-
----
-
-### 2026-06-17 01:58:01  #央行 #國際
-
-【伊朗央行行長：諒解備忘錄規定美有義務解凍伊資產】伊朗中央銀行行長阿卜杜勒納賽爾·赫馬提當地時間16日表示，關於伊美諒解備忘錄框架下被凍結資產解凍問題，在相關條款的制定過程中，已充分考慮過去所有經驗與歷史案例，並努力確保協議中設定的機制能夠提供最高程度的保障，以確保這些資金能夠被順利獲取與使用。赫馬提說，諒解備忘錄條款已明確規定美國在解凍資產方面的義務，且這些義務具有清晰性和可執行性，美國方面將被要求履行其承諾。赫馬提還強調，在諒解備忘錄簽署並開始執行後，將進行必要的技術與銀行層面的核查，以驗證資產是否真正解凍並可實際使用。赫馬提表示，這些被解凍的資金屬於伊朗中央銀行資產，這些資金的管理、分配與使用方式，將在央行法定許可權框架內決定。央行將根據國家需求、經濟狀況及外匯優先事項，對資金使用方式作出安排。 (央視新聞)
-
----
-
-### 2026-06-17 01:57:34  #MKT News
-
-Canada's minister for U.S. trade said after meeting the U.S. trade representative on the sidelines of the G7 that talks are continuing to make progress.
-
----
-
-### 2026-06-17 01:56:44  #國際
-
-巴西宣告：總統盧拉會見歐盟委員會主席馮德萊恩，就針對巴西產品的貿易限制措施展開討論。
-
----
-
-### 2026-06-17 01:56:33  #MKT News #Important
-
-【US-Iran framework to include $300 billion private fund to spur investment in Iran】Refinitiv sources say the US-Iran framework includes plans to set up a $300 billion private investment fund to attract capital into Iran. The fund would only become operational after a final agreement is signed, would be privately financed (no government funds), and is separate from talks over Iran’s frozen sovereign assets. Organizers have secured commitments for more than half the fund from companies in the US, Gulf Arab states, Asia, South America and Africa.
-
----
-
-### 2026-06-17 01:56:19  #市場
-
-阿根廷交易所股指下跌3%。
-
----
-
-### 2026-06-17 01:55:38  #國際
-
-加拿大負責對美貿易事務部長勒布朗在G7峰會上談及與美國貿易代表辦公室會晤時表示：我們持續取得進展。
-
----
-
-### 2026-06-17 01:54:02  #國際
-
-【擬設立3000億美元私募基金，用於加大對伊朗投資】訊息人士稱，一份美伊框架協議中包含設立規模3000億美元私人投資基金以扶持伊朗經濟的規劃。該基金僅在正式終版協議簽署後啟動，不包含任何政府出資。來自美國、海灣地區、亞洲、南美及非洲多國企業已承諾認繳過半資金。
-
----
-
-### 2026-06-17 01:51:39  #國際
-
-一位直接參與協議內容的訊息人士透露，美伊框架協議包含一項規模3000億美元私募基金的設立計劃，以帶動對伊朗的投資。
-
----
-
-### 2026-06-17 01:51:29  #焦點 #國際
-
-訊息人士稱，規模達3000億美元的伊朗投資基金只有在最終協議簽署後才會投入運作。
-
----
-
-### 2026-06-17 01:51:22  #國際
-
-訊息人士稱，3000億美元伊朗投資基金中，已有逾一半金額獲得來自美國、海灣阿拉伯國家、亞洲、南美洲及非洲企業的投資承諾。
-
----
-
-### 2026-06-17 01:49:14  #其他
-
-加拿大對美貿易部長：雙方已商定下週再次溝通。
-
----
-
-### 2026-06-17 01:48:59  #MKT News
-
-Canada's minister for trade with the U.S. said he held a lengthy, constructive meeting with U.S. Trade Representative Greer; both agreed to re-engage next week.
-
----
-
-### 2026-06-17 01:48:03  #市場
-
-標普500指數下跌0.3%，納斯達克指數下挫0.7%，跌幅持續擴大。
-
----
-
-### 2026-06-17 01:47:46  #國際
-
-加拿大負責對美貿易事務部長：與美國貿易代表格里舉行了漫長且富有建設性的會談。
-
----
-
-### 2026-06-17 01:47:06  #MKT News
-
-Iran's central bank governor said Iran hopes any agreement with the United States will include firm guarantees for the release of frozen funds.
-
----
-
-### 2026-06-17 01:43:51  #央行 #國際
-
-伊朗央行行長：伊朗要求美伊協議中就資金支取事宜作出完整保障承諾。
-
----
-
-### 2026-06-17 01:43:17  #市場
-
-標普500指數與納斯達克100指數跌幅擴大，跌至日內低點。
-
----
-
-### 2026-06-17 01:42:55  #國際
-
-伊朗議會國家安全委員會主席表示，任何侵犯都將遭到“決定性、毀滅性的回擊”。
-
----
-
-### 2026-06-17 01:42:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Head of Iran's parliamentary National Security Committee said any violations will be met with a decisive, devastating response.
-
----
-
-### 2026-06-17 01:42:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Head of Iran's parliamentary National Security Committee said Washington must prove its commitment by ending the war against Lebanon and complying with every provision of the memorandum of understanding.
-
----
-
-### 2026-06-17 01:42:27  #焦點 #國際
-
-伊朗議會國家安全委員會主席表示，華盛頓必須透過結束對黎巴嫩的戰爭、遵守該諒解備忘錄的每一項條款來證明其承諾。
-
----
-
-### 2026-06-17 01:28:56  #MKT News #Market Regions #Europe & UK
-
-Financial Times reports U.S. Commerce Secretary Lutnick discussed establishing a "trusted partners" program with European diplomats.
-
----
-
-### 2026-06-17 01:27:35  #國際
-
-美國商務部長霍華德·盧特尼克曾與歐洲外交官討論建立“可信夥伴”計劃。
-
----
-
-### 2026-06-17 01:26:31  #MKT News #Market Themes #AI Revolution
-
-Financial Times reports that after controversy over an Anthropic model, U.S. and European policymakers are discussing access rules for AI models.
-
----
-
-### 2026-06-17 01:25:37  #國際
-
-美國和歐洲就人工智慧模型准入問題進行商談，此前Anthropic引發爭議。
-
----
-
-### 2026-06-17 01:24:48  #國際
-
-【美媒：美伊協議簽署後 伊朗即可出口石油】據美國《華爾街日報》16日報道，在美國與伊朗本週簽署諒解備忘錄後，伊朗即可對外銷售其石油和燃料。報道援引匿名知情人士的話說，針對銀行、運輸和保險等伊朗石油出口相關行業的制裁也將同時獲得豁免。據報道，一艘載有原油的伊朗超級油輪當天離開伊朗恰巴哈爾港，穿過美國先前實施封鎖的區域後駛離阿曼灣。該油輪沒有關閉定位追蹤器。（新華社）
-
----
-
-### 2026-06-17 01:23:59  #MKT News
-
-The Russian Defence Ministry said Russian warships acted in accordance with international navigation rules and took all measures to prevent accidents.
-
----
-
-### 2026-06-17 01:23:39  #國際
-
-俄羅斯國防部：俄羅斯軍艦符合國際航行規則開展行動，並已採取一切措施避免這起事故。
-
----
-
-### 2026-06-17 01:22:41  #MKT News
-
-Russian Defence Ministry said that after warning shots were fired, the yacht immediately changed course and continued to move away from the Russian warship.
-
----
-
-### 2026-06-17 01:22:30  #國際
-
-俄羅斯國防部：警告性射擊後，該遊艇立即改變航向，繼續駛離俄羅斯軍艦。
-
----
-
-### 2026-06-17 01:22:21  #MKT News
-
-Russian Defence Ministry said a Russian frigate fired warning shots at a yacht that did not respond to signals.
-
----
-
-### 2026-06-17 01:21:54  #MKT News #Market Regions #Europe & UK
-
-RUSSIAN DEFENCE MINISTRY said on June 16 that the frigate Grigorovich, in the English Channel, encountered a yacht flying the British flag that approached on a dangerous route; the frigate made repeated attempts to contact the yacht but received no response.
-
----
-
-### 2026-06-17 01:21:36  #國際
-
-俄羅斯國防部：護衛艦向未回應訊號的遊艇鳴槍示警。
-
----
-
-### 2026-06-17 01:20:53  #國際
-
-埃及總統塞西周二在法國出席G7峰會期間，敦促以色列放棄控制加沙地帶70%區域的計劃。
-
----
-
-### 2026-06-17 01:20:43  #國際
-
-俄羅斯國防部：俄羅斯護衛艦多次嘗試與該遊艇取得聯絡，但未獲回應。
-
----
-
-### 2026-06-17 01:20:02  #國際
-
-俄羅斯國防部：6月16日，俄羅斯護衛艦“格里戈羅維奇海軍上將”號在英吉利海峽發現一艘懸掛英國國旗的遊艇，該遊艇正以危險航向靠近這艘俄軍艦。
-
----
-
-### 2026-06-17 01:19:03  #國際
-
-德國總理默茨：我們已聯合澤連斯基告知特朗普，我方願意開啟和平談判，但談判必須在合適的契機下啟動。 俄方要求烏克蘭放棄頓巴斯現有控制區，這一點我們無法接受。
-
----
-
-### 2026-06-17 01:17:32  #MKT News #MRNA.O #Impact bullish
-
-Moderna (MRNA.O) shares rose more than 8% after the FDA said data on Moderna’s influenza vaccine may support its use in older adults.
-
----
-
-### 2026-06-17 01:16:56  #市場 #國際
-
-美國食品藥品監督管理局稱莫德納新冠流感聯合疫苗資料或支援其用於老年人後，莫德納股價上漲8.6%。
-
----
-
-### 2026-06-17 01:16:27  #央行 #國際
-
-週二（6月16日），美聯儲隔夜逆回購協議（RRP）使用規模為107.21億美元（交易對手5家），上個交易日報5.81億美元。
-
----
-
-### 2026-06-17 01:16:26  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Fed accepted $10.721 billion from five counterparties in its fixed-rate reverse repo operation.
-
----
-
-### 2026-06-17 01:15:13  #MKT News #Commodities #Industrial Metals #Market Regions #Emerging Markets #Copper #Impact bullish
-
-Argentina's economy minister said the Vicuna copper mine project, valued at $9.7 billion, was approved under the RIGI investment program.
-
----
-
-### 2026-06-17 01:12:21  #MKT News #SNAP.N
-
-Snap Inc (SNAP.N) reversed course and was trading down 2.8%.
-
----
-
-### 2026-06-17 01:12:20  #市場
-
-Snap股價走勢反轉，最新下跌2.8%。
-
----
-
-### 2026-06-17 01:10:32  #其他
-
-高通推出驍龍啟航專案。
-
----
-
-### 2026-06-17 01:09:32  #國際
-
-德國總理默茨談及美伊協議： 從伊朗釋放的所有訊號都能看出，伊朗也會接受這份協議，在美國佔據絕對軍事優勢的局面下，它根本別無選擇。 我昨晚已向特朗普總統表明，從這件事就能看出，強大的軍事實力同樣能夠促成外交層面的解決方案。倘若這套邏輯同樣適用於烏克蘭局勢，那麼全球兩處關鍵衝突地區或許都能更快迎來和平。
-
----
-
-### 2026-06-17 01:07:18  #其他
-
-沙特王儲主持內閣會議，重申恢復霍爾木茲海峽通航自由、使其迴歸戰前常態的重要性。
-
----
-
-### 2026-06-17 01:07:14  #MKT News #Commodities #Energy
-
-The Saudi cabinet reiterated the importance of restoring freedom of navigation in the Strait of Hormuz and called for its return to pre-war status.
-
----
-
-### 2026-06-17 01:06:26  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
-
-US 20-year Treasury yield dipped slightly after auction results, last at 4.93%.
-
----
-
-### 2026-06-17 01:06:07  #市場 #國際
-
-美國20年期國債收益率在拍賣後小幅走低；最新報4.93%，下跌0.5個基點。
-
----
-
-### 2026-06-17 01:02:52  #國際
-
-美國20年期美債中標收益率4.927%，發行前預發行收益率為4.937%。
-
----
-
-### 2026-06-17 01:02:38  #宏觀 #市場 #國際
-
-美國財政部拍賣130億美元20年期國債，得標利率4.927%，投標倍數2.75。
-
----
-
-### 2026-06-17 01:02:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-U.S. 20-year Treasury auction on June 16 bid-cover ratio 2.75; prior 2.55.
-
----
-
-### 2026-06-17 01:02:13  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-U.S. 20-year Treasury auction on June 16: 56.57% of the award was allocated at the stop-out yield, versus 1.67% previously.
-
----
-
-### 2026-06-17 01:02:10  #MKT News #US10Y #Impact bullish #S&P500
-
-U.S. 20-year Treasury auction on June 16: stop-out yield 4.927% vs 5.12% previously.
-
----
-
-### 2026-06-17 01:02:08  #其他
-
-洛克希德·馬丁：通用汽車防務部門總裁表示，未來數週內，雙方將協同梳理首批聯合推進專案。
-
----
-
-### 2026-06-17 01:02:04  #MKT News #Economic Calendar
-
-United States | 20-Year Bond Auction Bid/Cover Ratio (Jun.16) | actual 2.75 | previous 2.55
-
----
-
-### 2026-06-17 01:02:04  #MKT News #Economic Calendar
-
-United States | 20-Year Bond Auction Accepted at High (Jun.16) | actual 56.57% | previous 1.67%
-
----
-
-### 2026-06-17 01:02:04  #MKT News #Economic Calendar
-
-United States | 20-Year Bond Auction High Yield Rate (Jun.16) | actual 4.927% | previous 5.12%
-
----
-
-### 2026-06-17 01:01:21  #MKT News
-
-DR Congo reports 837 confirmed Ebola cases, including 196 deaths.
-
----
-
-### 2026-06-17 01:00:58  #其他
-
-剛果表示，埃博拉確診病例數升至837例，其中包括196例死亡病例。
-
----
-
-### 2026-06-17 01:00:37  #Trading Economics #Economy #Paraguay #Consumer Confidence #Importance 0
-
-Paraguay Consumer Confidence Weakens in May — Paraguay’s Consumer Confidence Index fell to 38.21 in May 2026 from 40.17 in April, remaining below the neutral threshold. The Economic Situation Index declined by 2.29 points from the previous month to 27.04, reflecting weaker assessments of current conditions. Meanwhile, the Economic Expectations Index eased by 1.62 points to 49.38. Regarding saving intentions, 11.0% of respondents reported being willing to save, down 4.5 percentage points from April. Willingness to purchase durable goods weakened across all categories, with the exception of household appliances, which remained unchanged.
 
 ---

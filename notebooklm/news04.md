@@ -1,7 +1,374 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-19 02:09:37_
-_本檔包含 3883 則快訊，約 708950 字_
+_更新時間：2026-06-19 03:01:19_
+_本檔包含 3891 則快訊，約 708900 字_
+
+---
+
+### 2026-06-15 20:37:27  #MKT News #Important #WTI #Impact bearish #Brent
+
+【Iran: nuclear talks and sanctions relief to begin within 60 days】Iran's foreign ministry spokesman told Iranian media on the 15th that nuclear talks and sanctions relief will begin within 60 days.
+
+---
+
+### 2026-06-15 20:37:07  #國際
+
+市場訊息：最終協議達成後，美軍須在 30 天內撤離伊朗周邊區域。
+
+---
+
+### 2026-06-15 20:37:06  #Trading Economics #Economy #Canada #Wholesale Sales #Importance 1
+
+Canadian Wholesale Sales Grow for 3rd Month — Wholesale sales in Canada expanded by 0.6% from the previous month to C$89.3 billion in April of 2026, revised higher from the preliminary estimate of a 0.1% growth rate, to reflect the third consecutive increase in the sector. The figure excludes wholesale sales of petroleum, petroleum products, and other hydrocarbons, which surged 7.2% on the period due to the higher prices for fuel as the continuation of the war in the Middle East shut off energy exports from the region. Sales were firmly higher for building materials and supplies (4.3% to C$12.7 billion), miscellaneous goods (1.4% to C$11.5 billion), motor vehicles and parts (0.9% to C$14.7 billion), and personal and household goods (0.5% to C$13.2 billion). In turn, sales fell for food and beverage (-1.4% to C$16.2 billion) and machinery and equipment (-1.2% to $19.3 billion).
+
+---
+
+### 2026-06-15 20:36:49  #焦點 #國際
+
+【伊朗：核談判和解除制裁將在60天內開始】據伊朗媒體15日報道，伊朗外交部發言人當天表示，核談判和解除制裁將在60天內開始。（新華社）
+
+---
+
+### 2026-06-15 20:36:47  #MKT News
+
+Canada wholesale inventories rose 1.1% MoM in April; prior +0.3%.
+
+---
+
+### 2026-06-15 20:36:39  #MKT News #Economic Calendar #Important
+
+Canada | Wholesale Inventories (MoM) (Apr) | actual 1.1% | previous 0.3%
+
+---
+
+### 2026-06-15 20:36:20  #國際
+
+【黎巴嫩當局提醒逃難者：以軍沒撤，彆著急回家】美國和伊朗15日達成關於停戰談判的諒解備忘錄，但以色列對黎巴嫩南部的佔領和襲擊並未終止。黎巴嫩地方當局當天發表宣告，呼籲那些先前為躲避戰火被迫離家的民眾先彆著急回家，因為以軍還未撤出黎南部。據黎巴嫩國家通訊社15日報道，以色列當天上午對黎南部奈拜提耶、賓特朱拜勒、邁爾季歐雲等地區發動襲擊，造成人員受傷。南部地方當局紛紛發出提醒：雖然美伊達成諒解備忘錄，但以色列已表示不會從黎巴嫩南部佔領區撤軍，先前被迫離家的民眾先彆著急回家。（新華社）
+
+---
+
+### 2026-06-15 20:34:55  #國際
+
+黎巴嫩真主黨：將在以色列撤軍之前捍衛黎巴嫩人民。
+
+---
+
+### 2026-06-15 20:34:17  #公司 #國際
+
+空客<AIR.PA>執行長表示，歐洲監管壁壘的成本“極其可怕”。
+
+---
+
+### 2026-06-15 20:33:59  #公司 #國際
+
+【非洲建交國符合要求的腰果已獲准輸華】記者15日從海關總署獲悉，自6月9日起非洲地區建交國生產的腰果已全面實現輸華檢疫准入。據海關總署釋出的《關於進口非洲腰果檢驗檢疫和衛生要求的公告》，允許進口的腰果是指由出口國境內種植的腰果為原料，在出口國境內經去皮、乾燥、挑選等加工工藝製作而成的供人類食用的帶殼或去殼堅果。輸華腰果不得帶有谷斑皮蠹、腎斑皮蠹、四紋豆象和非洲葉跗鋸谷盜等中方關注的檢疫性有害生物。（新華社）
+
+---
+
+### 2026-06-15 20:33:37  #MKT News #WTI #Impact bullish #XAUUSD
+
+HEZBOLLAH says it will defend the Lebanese people until Israel withdraws.
+
+---
+
+### 2026-06-15 20:32:48  #MKT News
+
+Canada April manufacturing new orders m/m +2.1% (prior +4.7%).
+
+---
+
+### 2026-06-15 20:32:40  #其他
+
+【第九屆進博會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦】6月15日，第九屆中國國際進口博覽會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦。商務部副部長鄢東、山東省副省長溫暖、中國工商銀行副行長張偉武出席活動並致辭，英國商業貿易部駐華貿易使節倪樂思出席活動。鄢東表示，中國堅定不移擴大高水平對外開放，透過自主開放、單邊開放，舉辦進博會等重要展會，分享中國發展的紅利。第九屆進博會將於今年11月5日至10日在上海舉辦，將與“出口中國”等品牌活動協同聯動，為各國企業對接中國市場需求、進入中國市場搭建平臺和橋樑，以更大力度擴大進口、推動進出口平衡發展。
+
+---
+
+### 2026-06-15 20:32:40  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing New Orders (MoM) (Apr) | actual 2.1% | previous 4.7%
+
+---
+
+### 2026-06-15 20:32:32  #MKT News
+
+Canada manufacturing inventories rose 0.5% MoM in April, vs. +1.3% prior.
+
+---
+
+### 2026-06-15 20:32:27  #MKT News
+
+【Luo Wen meets Azerbaijan Food Safety Agency head Goshgar Tahmazli】On June 12, SAMR director Luo Wen met visiting Azerbaijan Food Safety Agency head Goshgar Tahmazli. They discussed full-chain food safety oversight, smart supervision, and laboratory and research cooperation, and agreed to establish a joint working group to deepen regulatory exchange and cooperation. Senior SAMR officials attended.
+
+---
+
+### 2026-06-15 20:32:26  #其他
+
+【我國夏糧小麥收穫已近九成】記者從農業農村部獲悉，截至6月15日17時，全國已收穫夏糧小麥3.04億畝，收穫進度89.48%。山東近九成，河北過八成，陝西近八成，山西過七成，新疆近三成，甘肅零星收穫。（新華社）
+
+---
+
+### 2026-06-15 20:32:25  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing Inventories (MoM) (Apr) | actual 0.5% | previous 1.3%
+
+---
+
+### 2026-06-15 20:31:56  #國際
+
+印度5月大豆進口量較4月飆升65%，創下20萬噸的紀錄水平。
+
+---
+
+### 2026-06-15 20:31:50  #MKT News
+
+Canada manufacturers' unfilled orders, Apr MoM +1.3% (prior +2.4%).
+
+---
+
+### 2026-06-15 20:31:43  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing Unfilled Orders (MoM) (Apr) | actual 1.3% | previous 2.4%
+
+---
+
+### 2026-06-15 20:31:43  #其他
+
+【羅文會見亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利】6月12日，國家市場監督管理總局局長羅文會見來訪的亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利。雙方就食品安全全鏈條監管、智慧監管、實驗室與科研合作等議題進行交流，一致同意成立工作組，加強食品安全監管交流合作。總局相關司局負責同志參加會見。
+
+---
+
+### 2026-06-15 20:31:39  #MKT News
+
+Canada April manufacturing inventory-to-shipments ratio 1.62% vs 1.69% prior.
+
+---
+
+### 2026-06-15 20:31:31  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing Inventory-To-Sales Ratio (Apr) | actual 1.62% | previous 1.69%
+
+---
+
+### 2026-06-15 20:31:11  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+US New York Fed manufacturing new-orders index for June 3.5; prior 22.7.
+
+---
+
+### 2026-06-15 20:30:59  #MKT News #Economic Calendar #Important
+
+United States | New York Fed New Orders Index (Jun) | actual 3.5 | previous 22.7
+
+---
+
+### 2026-06-15 20:30:54  #資料
+
+加拿大4月批發銷售月率 0.6%，預期0.1%，前值1.90%。
+
+---
+
+### 2026-06-15 20:30:48  #Trading Economics #Economy #Canada #Housing Starts #Importance 1
+
+Canada Housing Starts Fall 6.1% in May — Housing starts in Canada fell 6.1% from the previous month to a seasonally adjusted annual rate of 261.4 thousand in May 2026, well above market forcasts of 255.1 thousand units. Urban housing starts in centers with populations over 10,000 people fell to 247 thousand. In turn, rural starts were estimated to increase to 14,357 units.
+
+---
+
+### 2026-06-15 20:30:46  #MKT News #Macro & Rates #US Economy
+
+US New York Fed Empire State manufacturing prices received index 31.4 in June, down from 31.8 previously.
+
+---
+
+### 2026-06-15 20:30:46  #經濟數據 #加拿大
+
+【加拿大4月批發銷售環比增長0.6% 預期0.1%】加拿大4月批發銷售環比增長0.6%，預期0.1%，前值1.90%。
+
+---
+
+### 2026-06-15 20:30:45  #央行 #國際
+
+美國6月紐約聯儲製造業指數 5.7，預期14，前值19.6。
+美國6月紐約聯儲製造業就業指數 9.6，前值8.3。
+
+---
+
+### 2026-06-15 20:30:36  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Prices Received Index (Jun) | actual 31.4 | previous 31.8
+
+---
+
+### 2026-06-15 20:30:32  #經濟數據 #美國
+
+【美國6月紐約聯儲製造業指數5.7 預期14】美國6月紐約聯儲製造業指數5.7，預期14，前值19.6。
+
+---
+
+### 2026-06-15 20:30:30  #MKT News #Macro & Rates #US Economy
+
+US New York Fed manufacturing employment index (June) 9.6, up from 8.3 in May.
+
+---
+
+### 2026-06-15 20:30:22  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Employment Index (Jun) | actual 9.6 | previous 8.3
+
+---
+
+### 2026-06-15 20:30:17  #國際
+
+黎巴嫩真主黨：伊朗協議是以色列完全撤退的前奏。
+
+---
+
+### 2026-06-15 20:30:11  #MKT News #DXY #Impact bearish
+
+Canada April manufacturing shipments m/m +4.2% (consensus +4.5%; prior +3.0%).
+
+---
+
+### 2026-06-15 20:30:10  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish
+
+Canada wholesale sales rose 0.6% MoM in April, stronger than the 0.1% consensus; prior month 1.9%.
+
+---
+
+### 2026-06-15 20:30:10  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
+
+US New York Fed manufacturing index for June 5.7, versus 14 expected and 19.6 prior.
+
+---
+
+### 2026-06-15 20:30:02  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+HEZBOLLAH says Iran accord is a prelude to Israel's complete withdrawal.
+
+---
+
+### 2026-06-15 20:30:02  #MKT News #Economic Calendar #Important
+
+Canada | Wholesale Sales (MoM) (Apr) | actual 0.6% | consensus 0.1% | previous 1.90%
+
+---
+
+### 2026-06-15 20:30:02  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing Sales (MoM) (Apr) | actual 4.2% | consensus 4.50% | previous 3.00%
+
+---
+
+### 2026-06-15 20:30:00  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Manufacturing Index (Jun) | actual 5.7 | consensus 14 | previous 19.6
+
+---
+
+### 2026-06-15 20:29:51  #MKT News
+
+U.S. Vice President Vance said Israel will have a voice.
+
+---
+
+### 2026-06-15 20:29:48  #MKT News
+
+U.S. Vice President Vance said on Iran that Israel will certainly have a place in the new Middle East order.
+
+---
+
+### 2026-06-15 20:29:32  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Iran to charge for shipping services related to Strait of Hormuz】Iranian media reported on the 15th that foreign ministry spokesman Baghaei said Iran will, during 'specific periods', assume responsibility for managing safe passage through the Strait of Hormuz and will charge for related shipping services.
+
+---
+
+### 2026-06-15 20:29:29  #焦點 #國際
+
+【伊朗：將對霍爾木茲海峽相關航運服務收費】據伊朗媒體15日報道，伊朗外交部發言人巴加埃當天表示，伊朗將在“特定時期內”負責霍爾木茲海峽安全通行管理，並將對相關航運服務收取費用。（新華社）
+
+---
+
+### 2026-06-15 20:29:16  #國際
+
+萬斯談及伊朗問題：以色列肯定會在新中東格局中佔有一席之地。
+
+---
+
+### 2026-06-15 20:29:08  #其他
+
+萬斯：希望本週公佈協議文字。
+
+---
+
+### 2026-06-15 20:28:48  #公司 #國際
+
+【七國集團宣告草案呼籲加強協調 應對人工智慧的“潛在風險”】根據媒體看到的一份可能會加以修改的宣告草案，七國集團領導人將“進一步討論人工智慧帶來的新興機遇和潛在風險，尤其是在金融領域”。法國總統馬克龍本週將在法國阿爾卑斯山小鎮Evian主持七國集團領導人會議。鑑於與美國在貿易、氣候等問題上存在分歧，就公報達成共識不再是優先事項。焦點反而一直是讓美國總統唐納德·特朗普能夠出席。這份草案基本上擱置了有爭議的話題，不過確實著重談到了人工智慧，呼籲加強協調。七國集團展開這場討論之際，美國政府已表示，願意動用非常權力，迫使人工智慧開發商按其要求處理潛在安全威脅，但6月份的一項行政令宣佈不會強制要求遵守。
+
+---
+
+### 2026-06-15 20:28:46  #MKT News
+
+U.S. Vice President Vance hopes to release the agreement text this week.
+
+---
+
+### 2026-06-15 20:28:31  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
+
+【Macron rejects repeal of French digital services tax after Trump threatens wine tariffs】French President Emmanuel Macron said France will not repeal its digital services tax, noting it has been adopted by several European countries and is part of French law: "This digital tax is a policy that several European countries have already decided and implemented, and it is part of our law. It is not for the United States to decide European or French law — that's normal. At least as long as I remain in office, that will not change." The comments came at the G7 in Evian after former U.S. President Donald Trump warned he would impose 100% tariffs on French wine if France does not cancel the levy.
+
+---
+
+### 2026-06-15 20:28:28  #MKT News
+
+U.S. Vice President Vance said some people in Israel welcome the agreement.
+
+---
+
+### 2026-06-15 20:28:13  #國際
+
+萬斯：認為以色列內部有部分勢力支援該協議。
+
+---
+
+### 2026-06-15 20:27:44  #公司
+
+【加拿大支付服務商Nuvei以27.5億美元收購Payoneer派安盈】加拿大支付服務商Nuvei與Payoneer派安盈宣佈，雙方已達成最終協議，Nuvei將收購Payoneer派安盈。根據協議條款，Nuvei將以每股7.40美元現金收購Payoneer Global Inc.全部已發行且流通在外的普通股，本次交易的股權價值總額約為27.5億美元。據瞭解，合併後的公司將為企業提供一個統一的平臺，支援在190多個國家和地區接收、持有並管理資金。隨著交易完成，合併後的公司年收入將達到30億美元左右，年處理支付交易總額超過5000億美元，併為240多萬客戶提供服務。
+
+---
+
+### 2026-06-15 20:27:20  #國際
+
+美國副總統萬斯：（關於伊朗）我們將觀察德黑蘭願意在哪些方面做出讓步。美國正與伊朗體制內的各方接觸。
+
+---
+
+### 2026-06-15 20:27:13  #MKT News
+
+U.S. Vice President Vance said the U.S. is engaging with parties within Iran's establishment.
+
+---
+
+### 2026-06-15 20:27:05  #央行 #其他
+
+巴西央行官員：我不會改變通脹目標，但經濟團隊與央行之間在許多領域仍有改進空間。
+
+---
+
+### 2026-06-15 20:26:59  #MKT News
+
+U.S. Vice President Vance expects representatives from all Iranian delegations to attend Friday's signing ceremony.
+
+---
+
+### 2026-06-15 20:26:47  #國際
+
+萬斯：預計週五簽署儀式將有伊朗各方代表全面出席。
+
+---
+
+### 2026-06-15 20:26:45  #MKT News
+
+When asked who will represent Iran at the signing ceremony, U.S. Vice President Vance said he expects the Speaker of the House, the foreign minister and others to attend.
 
 ---
 
@@ -23167,323 +23534,5 @@ Hezbollah said it fired rockets at Israeli soldiers and a concentration of vehic
 ### 2026-06-13 19:58:24  #MKT News #WTI #Impact bullish #XAUUSD #DXY
 
 HEZBOLLAH said it shot down an Israeli Hermes 450 UAV with a missile over Kardali in southern Lebanon.
-
----
-
-### 2026-06-13 19:57:59  #國際
-
-聯合國：自以色列攻勢開始以來，黎巴嫩已有135名醫務工作者遇害。
-
----
-
-### 2026-06-13 19:57:59  #MKT News
-
-UN: Since the start of the Israeli offensive, 135 Lebanese medical workers have been killed.
-
----
-
-### 2026-06-13 19:57:14  #國際
-
-黎巴嫩真主黨：我們用火箭彈轟炸了黎巴嫩南部馬吉達勒祖恩鎮郊外聚集的以色列敵軍士兵及其車輛。
-
----
-
-### 2026-06-13 19:56:54  #國際
-
-黎巴嫩真主黨：我們在黎巴嫩南部哈爾達利上空用導彈擊落了一架以色列赫爾墨斯450型空對地無人機。
-
----
-
-### 2026-06-13 19:55:21  #宏觀 #焦點
-
-【6月13日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】守護文化瑰寶 賡續中華文脈； 2.第十八屆海峽論壇大會在廈門舉行 王滬寧出席並致辭； 3.【偉大征程】銘記烽火歷史 傳承抗戰精神； 4.我國海洋生態保護修復取得新成效； 5.多項措施促進鐵路與旅遊融合發展； 6.各地推動人才下鄉 助力鄉村振興； 7.【一線調研】算力網織就數字經濟新底座； 8.國內聯播快訊： （1）文化和自然遺產日主場城市活動在武漢舉行； （2）多部門聯合發文 推動新能源重卡規模化應用； （3）四部門部署農村務農務工出行安全整治工作； （4）中央網信辦開設“涉AI應用亂象舉報專區”； （5）我國將持續推動建設全國一體化反詐技防能力； （6）南方今起降雨增強 局地特大暴雨； 9.伊朗外長披露伊美諒解備忘錄草案部分內容 國際油價進一步下跌； 10.國際聯播快訊： （1）黎媒稱黎以新談判將涉及“試點區”問題； （2）古巴國家主席譴責美國收緊對古石油封鎖； （3）南極半島出現異常高溫； 11.文化和自然遺產日。
-
----
-
-### 2026-06-13 19:55:17  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Iran says service fees for Strait of Hormuz passage permissible】On June 12, Araghchi said Iran has begun consultations with multiple countries on navigation through the Strait of Hormuz. He said charging transit fees would be unacceptable under international law but levying service fees is fully permissible. Araghchi added that Iran’s frozen assets would begin to be unfrozen under a potential memorandum of understanding with the United States, though details must be fully negotiated. On highly enriched uranium, he said Iran will only accept dilution or conversion carried out on Iranian soil.
-
----
-
-### 2026-06-13 19:54:27  #國際
-
-【伊朗稱霍爾木茲收服務費完全合理】當地時間6月12日晚，伊朗外長在接受伊朗媒體採訪時表示，伊朗已經開始與很多國家就霍爾木茲海峽這一至關重要的水道通航問題進行磋商。阿拉格齊表示，從國際法的角度來審查，在霍爾木茲海峽徵收過境費是不可接受的，但收取服務費是完全被允許的。阿拉格齊還提到，根據未來可能與美國簽署的諒解備忘錄，伊朗的被凍結資產將開始解凍，但有關問題的細節必須進行充分討論。（CCTV國際時訊）
-
----
-
-### 2026-06-13 19:51:46  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【UK Maritime Trade Operations: oil tanker struck by unidentified projectile】UK Maritime Trade Operations said on the 13th an oil tanker about 6 nm east of Oman was struck by an unidentified projectile; all crew reported safe.
-
----
-
-### 2026-06-13 19:51:13  #其他
-
-【英國海上貿易行動辦公室：一油輪遭不明投射物擊中】英國海上貿易行動辦公室13日表示，一艘位於阿曼以東約6海里海域的油輪當天遭不明投射物擊中。據報，船上船員均安全。（央視新聞）
-
----
-
-### 2026-06-13 19:46:27  #公司
-
-【京東、淘寶閃購遭系統性造謠抹黑，幕後推手是誰？】近日，四川警方通報一起網路謠言案件，直指某公司僱傭機構，透過寫“小作文”等方式長期抹黑同行。6月8日，京東率先透過官方微博發聲譴責；6月12日晚間，淘寶閃購也隨即表態響應，共同譴責行業內有組織、系統化的造謠抹黑行為，呼籲維護公平競爭的市場環境與商業倫理。截至目前，相關公開資訊並未提及幕後推手的準確資訊，均以“某公司”代指。記者從知情人士處獲悉，系統性的抹黑行為很可能來源於平臺競爭對手的組織策劃。（上證報）
-
----
-
-### 2026-06-13 19:41:00  #其他
-
-【航行警告：南海實彈射擊訓練】據中國海事局網站訊息，珠海海事局釋出航行警告，6月15日7時至18時，南海部分海域進行實彈射擊，禁止駛入。
-
----
-
-### 2026-06-13 19:39:07  #MKT News
-
-The Lebanese army said a hostile Israeli drone struck a soldier near Najda Hospital in Nabatieh while he was moving, causing no injury. The drone struck him again on the Kaframan-Nabatieh road, leaving him seriously injured.
-
----
-
-### 2026-06-13 19:38:29  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israel Defense Forces (IDF) said earlier air-raid sirens sounded in the Margaliot area of northern Israel after suspected hostile aerial-vehicle infiltration; a suspected aerial target crashed in an IDF operational zone in southern Lebanon. No casualties reported.
-
----
-
-### 2026-06-13 19:37:28  #國際
-
-黎巴嫩軍方：一架敵對的以色列無人機在納巴蒂耶的納吉達醫院附近襲擊了一名正在行進的黎巴嫩士兵，但沒有對他造成傷害；隨後，這架無人機在卡法爾雷門至納巴蒂耶的公路上再次襲擊了該士兵，導致他身受重傷。
-
----
-
-### 2026-06-13 19:36:29  #國際
-
-以色列國防軍：在有關敵對飛行器滲透馬加利奧特的警報發出後，一架疑似空中目標在以色列國防軍位於黎巴嫩南部的作戰區域墜毀。事件未造成人員傷亡。
-
----
-
-### 2026-06-13 19:29:24  #其他
-
-【當前我國夏糧收穫進度過八成】記者從農業農村部獲悉，截至6月13日17時，全國已收穫夏糧小麥2.88億畝，收穫進度85%。江蘇麥收基本結束，山東過八成，河北近七成，陝西過六成半，山西過五成，新疆、甘肅零星收穫。（新華社）
-
----
-
-### 2026-06-13 19:24:50  #公司
-
-【順豐牽頭《快遞電子運單》國際標準提案成功立項】據順豐集團訊息，日前，國際標準化組織創新物流技術委員會快遞服務標準委員會（ISO/TC 344/SC2）在浙江杭州成立並舉行第一次全體會議，會議聽取了中國參會代表提出的3項國際標準提案介紹，其中由順豐牽頭的《快遞電子運單》技術報告專案成功立項進入起草階段。該中國提案的成功立項也標誌著快遞服務標準國際化工作全面啟動。這也是快遞服務領域首個成功立項的國際標準提案。
-
----
-
-### 2026-06-13 19:24:30  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Israeli military says air-raid sirens activated in the Margaliot area in northern Israel after suspected hostile aircraft penetration.
-
----
-
-### 2026-06-13 19:22:32  #其他
-
-巴基斯坦總理：下週將舉行技術層面談判，討論美伊協議電子簽署後的相關事宜。
-
----
-
-### 2026-06-13 19:22:10  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-Pakistani Prime Minister Sharif said he believes a historic agreement between Washington and Tehran will lay the groundwork for lasting peace.
-
----
-
-### 2026-06-13 19:21:58  #其他
-
-巴基斯坦總理：我相信華盛頓和德黑蘭之間達成的歷史性協議將為持久和平奠定基礎。
-
----
-
-### 2026-06-13 19:21:36  #國際
-
-巴基斯坦總理：美國和伊朗已就一項和平協議框架達成一致，該協議將結束中東地區持續數月的衝突。美國和伊朗已就和平協議的最終文字達成一致。
-
----
-
-### 2026-06-13 19:16:11  #MKT News #Important #Brent #Impact bearish #DXY #XAUUSD
-
-【Pakistani prime minister says US-Iran deal expected within 24 hours】On June 13, Pakistani prime minister Shahbaz Sharif said on his personal social media account he expects a US‑Iran agreement to be finalised within 24 hours. He said Pakistan is preparing to execute an electronic signature immediately upon conclusion and plans technical‑level talks next week.
-
----
-
-### 2026-06-13 19:15:44  #國際
-
-【巴基斯坦總理：預計美伊協議將在24小時內敲定】巴基斯坦總理夏巴茲13日在社交媒體上說，美伊和平協議可能在未來24小時內最終敲定。（新華社）
-
----
-
-### 2026-06-13 19:14:40  #公司
-
-萊茵金屬執行長表示，不排除法國退出德法主戰坦克合作專案的可能性。
-
----
-
-### 2026-06-13 19:13:52  #國際
-
-【伊朗司法總監：絕不信任美國】據伊朗媒體13日報道，伊朗司法總監埃傑伊在一場紀念活動上說，伊朗絕對不信任美國。埃傑伊說，近期衝突中，伊朗武裝力量對敵方進行了有力打擊，阻止了對方的侵略行為。談及美國時，埃傑伊表示，伊朗絕對不信任美國，這種不信任源於事實和過往事件。（新華社）
-
----
-
-### 2026-06-13 19:13:18  #其他
-
-UKMTO：船員安全，目前未報告發生環境影響，該油輪正繼續前往其下一個掛靠港。
-
----
-
-### 2026-06-13 19:13:09  #MKT News #Market Regions #Europe & UK #Commodities #Energy
-
-UK Maritime Trade Operations: crew safe; no environmental impact reported; oil tanker en route to next port of call.
-
----
-
-### 2026-06-13 19:13:06  #其他
-
-【十項促進兩岸交流合作的政策措施對接簽約會在廈門舉行】十項促進兩岸交流合作的政策措施對接簽約會13日在廈門舉行。大陸企業與來自臺灣多地的企業和商協會進行簽約，採購臺灣台東、雲林、南投等縣市鳳梨釋迦、文旦柚、茶葉等特色農漁產品。
-
----
-
-### 2026-06-13 19:12:57  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-UK Maritime Trade Operations said an oil tanker was struck by an unidentified object in waters near Oman.
-
----
-
-### 2026-06-13 19:11:41  #MKT News #Market Regions #Europe & UK
-
-UK Maritime Trade Operations received a report of a security incident 6 nautical miles east of Oman.
-
----
-
-### 2026-06-13 19:11:39  #其他
-
-英國海上貿易行動辦公室（UKMTO）：一艘油輪在阿曼海域船艏左舷被未知射彈擊中。
-
----
-
-### 2026-06-13 19:11:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran judiciary chief says Tehran absolutely distrusts U.S.】Iranian media reported on the 13th that Iran’s judiciary chief said Tehran absolutely distrusts the U.S., citing facts and past incidents. He said Iranian armed forces recently struck enemy targets and halted aggression. Iranian media on the 12th also reported Iran and the U.S. "could sign a memorandum of understanding in the coming days", but bilateral ties remain highly sensitive with unresolved differences on the nuclear issue and regional security.
-
----
-
-### 2026-06-13 19:10:43  #其他
-
-英國海上貿易行動辦公室（UKMTO）已收到報告，阿曼以東海域6海里處發生一起安全事件。
-
----
-
-### 2026-06-13 19:10:38  #MKT News
-
-Pakistan Prime Minister Sharif said the U.S. and Iran will hold technical-level talks next week.
-
----
-
-### 2026-06-13 19:09:57  #公司
-
-【潤建股份與中南大學計算機學院達成戰略合作】據潤建股份訊息，6月10日，潤建股份與中南大學計算機學院正式簽署合作備忘錄，雙方將圍繞人工智慧人才培養、科研創新、成果轉化及產業應用等領域開展深度合作，共同推動教育鏈、人才鏈與產業鏈的融合創新發展。
-
----
-
-### 2026-06-13 19:08:43  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Ukraine's Security Service (SBU) said Ukrainian drones struck the Taman oil and gas terminal in Russia's Krasnodar region.
-
----
-
-### 2026-06-13 19:08:16  #其他
-
-巴基斯坦總理：（美伊）下週將舉行技術層面會談。
-
----
-
-### 2026-06-13 19:07:36  #公司 #國際
-
-烏克蘭安全部門表示，烏克蘭無人機襲擊了俄羅斯克拉斯諾達爾地區的塔曼石油天然氣公司油氣碼頭。
-
----
-
-### 2026-06-13 19:05:32  #其他
-
-【榮耀Robot Phone亮相上海國際電影節並首次成片】6月13日，全球首款機器人手機榮耀Robot Phone亮相第28屆上海國際電影節並完成專業影像首秀。作為產品形態創新的代表之一，榮耀Robot Phone搭載行業最小鈦合金雲臺，並有翻轉電機驅動雲臺升起，掙脫了傳統鏡頭模組的物理限制，結合AI演算法可智慧識別跟隨主體、完成多模式運鏡，可大幅降低影片創作門檻。榮耀稱，未來將繼續依託前沿AI與移動影像技術，深耕專業移動影像賽道。
-
----
-
-### 2026-06-13 19:04:54  #公司 #國際
-
-【日本核汙染水排海再次因異常警報停止】當地時間13日下午，東京電力公司福島第一核電站用於提示核汙染水輸送過程出現異常的警報被觸發，核汙染水排海作業自動停止。據稱裝置不存在異常情況。目前東電方面正在調查警報觸發的原因。本月10日，福島第一核電站曾出現相同狀況。（央視新聞）
-
----
-
-### 2026-06-13 19:04:37  #MKT News #Important
-
-Pakistan Prime Minister SHARIF said Pakistan is preparing to immediately conduct an electronic signing of a U.S.-Iran peace agreement once the deal is finalized.
-
----
-
-### 2026-06-13 19:04:15  #公司
-
-【吉利控股董事長李書福：集中資源做強吉利汽車上市公司】6月13日，在2026年中國汽車重慶論壇上，吉利控股集團董事長李書福發表影片演講時稱，接下來將有序關停並轉吉利汽車集團有限公司相關冗餘主體，集中優勢資源做強吉利汽車控股有限公司核心上市平臺，從而構建治理架構更加清晰、權責更加明確、運轉高效、全球合規的現代企業運營體系，讓“一個吉利”從戰略共識，全面轉化為體系優勢、治理優勢、全球生存能力優勢，為集中精力做強做大“一個吉利”創造良好的治理環境。
-
----
-
-### 2026-06-13 19:04:02  #MKT News #Important
-
-Pakistan's prime minister Sharif said a peace agreement is closer than ever and could be finalized within 24 hours.
-
----
-
-### 2026-06-13 19:03:00  #其他
-
-巴基斯坦總理：巴基斯坦正為美伊和平協議敲定後立即進行電子簽署做準備。
-
----
-
-### 2026-06-13 19:02:09  #焦點 #國際
-
-巴基斯坦總理夏巴茲·謝里夫：我們比以往任何時候都更接近達成和平協議，協議大機率會在未來24小時內敲定。
-
----
-
-### 2026-06-13 18:57:39  #公司 #國際
-
-【Anthropic最強模型被禁後，智譜宣佈GLM5.2全量開放】記者從國產大模型企業智譜獲悉，國產大模型GLM-5.2將於17點21分面向GLM Coding Plan全量使用者開放，覆蓋Lite、Pro、Max及團隊版。智譜方面稱，GLM-5.2是其迄今能力最強的開源模型，支援真正可用的1M上下文，並在長程Coding任務中保持領先。GLM-5.2 API預計將於下週上線，模型也將於下週開源。在公告中，智譜明確表示：“在一些前沿模型突然變得不可用的時刻，我們選擇相信另一條路：前沿智慧不應只屬於少數人，也不應被少數規則隨時收回。它應該開放、可用、可構建，並服務於每一位開發者。”值得注意的是，智譜宣佈開放的節點，正值海外“最強模型”被美國政府要求緊急下線。（澎湃新聞）
-
----
-
-### 2026-06-13 18:56:25  #MKT News #WTI #Brent
-
-Iranian foreign minister Alaghezi said Iran and Oman will issue a joint statement on the Strait of Hormuz.
-
----
-
-### 2026-06-13 18:55:46  #國際
-
-伊朗外長阿拉格齊稱，伊朗和阿曼將就霍爾木茲海峽問題發表聯合宣告。
-
----
-
-### 2026-06-13 18:53:42  #國際
-
-俄羅斯總統普京：我們的部隊保持著戰略優勢，正在穩步推進，任何炮擊或無人機襲擊都無法改變這一局面。
-
----
-
-### 2026-06-13 18:52:00  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israeli military warned residents in four areas of southern Lebanon to evacuate.
-
----
-
-### 2026-06-13 18:51:50  #其他
-
-【“十項措施”對接簽約會舉行 兩岸交流融合更進一步】13日下午，參加第十八屆海峽論壇的部分兩岸嘉賓，在福建廈門出席“十項促進兩岸交流合作的政策措施對接簽約會”。十項促進兩岸交流合作的政策措施於今年4月12日，由中共中央臺辦受權釋出，涵蓋兩岸政黨黨際交流、青年交流以及經濟、民生、文旅等領域，是推動兩岸人員往來和各領域交流合作、增進同胞親情福祉的又一重要舉措。（央視新聞）
-
----
-
-### 2026-06-13 18:50:47  #MKT News
-
-【China Railway Guangzhou Bureau suspends some services over next two days due to heavy rain】China Railway Guangzhou Bureau said heavy to torrential rain is expected across parts of Guangdong from the night of June 13 through the night of June 14. To ensure safety, some trains on the Beijing–Guangzhou, Beijing–Kowloon and Hangzhou–Shenzhen lines will be suspended on June 14–15. Passengers should check specific train numbers on the 12306 website; operations will be adjusted dynamically.
 
 ---
