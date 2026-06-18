@@ -1,7 +1,130 @@
 {
-  "updated": "2026-06-18 22:05:15",
-  "count": 18950,
+  "updated": "2026-06-18 22:09:37",
+  "count": 18949,
   "items": [
+    {
+      "id": "mkt:019edb10-18bc-7dd8-b080-5cc418c14951",
+      "time": "2026-06-18 22:08:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Pakistani media: Pakistan PM cancels Swiss visit】Pakistani media, citing sources on the 18th, reported Prime Minister Shehbaz Sharif has cancelled a planned trip to Switzerland. Shehbaz, acting as mediator for a US‑Iran memorandum of understanding, had said on the 15th the MoU signing would take place on the 19th in Switzerland and that Pakistan would host the ceremony."
+    },
+    {
+      "id": "4943752",
+      "time": "2026-06-18 22:08:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【6月18日增減持彙總】據不完全統計，6月18日盤後，華凱易佰、秋田微、璉升科技、坤彩科技、鐵科軌道、騰亞精工6家上市公司披露擬減持情況，當日暫無A股公司披露增持情況。"
+    },
+    {
+      "id": "4943751",
+      "time": "2026-06-18 22:07:52",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "據巴基斯坦媒體援引訊息人士18日報道，作為美伊諒解備忘錄調解人的巴基斯坦總理夏巴茲已取消原定的瑞士之行。 夏巴茲15日曾表示，美伊諒解備忘錄簽署儀式將於19日在瑞士舉行，巴方將主持儀式。（新華社）"
+    },
+    {
+      "id": "4943750",
+      "time": "2026-06-18 22:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產衛星發動機價格打下來了】當前我國用於對地觀測的商業遙感技術能力不斷迭代，組網提速，據不完全統計，總規劃遙感衛星數量超萬顆。為突破遙感資料利用的瓶頸，一些遙感星座也將AI晶片部署上星。業內人士分析，如果遙感資料能夠充分實現在軌AI分析處理，需要下傳的資料量可以減少到原來的5%到10%。從給衛星裝上\"發動機\"的電推進系統，到提供能源的柔性太陽翼，一批平臺級硬科技正加速從實驗室走向生產線，支撐我國衛星星座的規模化部署。在浙江杭州的一個航天產品實驗室內，電推進系統正在模擬的太空環境中進行所謂的點火測試。幽藍色的等離子光環就是將惰性氣體如氙氣、氪氣電離，再用磁場把離子加速噴出的效果，它產生的推力，就足夠衛星在空間中航行。這也是目前最先進的空間推進技術之一。低軌衛星執行時需依靠推進器實現維持軌道、切換軌道和末期離軌等任務。這款國產電推進系統可以實現將離子以每秒15到30公里的速度噴出，效率是化學推進的5倍以上。雖然推力只有十幾到三十幾毫牛，僅相當於托起一張A4紙所需的力，但勝在可以持續輸出。如今，這套擁有自主智慧財產權的電推進產品與效能達到國際先進水平，可以適配商業航天領域不同任務需求，價格也從傳統航天任務的近200萬元一套，降到了現在的50到70萬元。（央視財經）"
+    },
+    {
+      "id": "mkt:019edb0f-06ce-7dd8-b080-53c66b0cf474",
+      "time": "2026-06-18 22:07:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【Monex: Pound outlook after BoE decision hinges on data, politics】Monex Europe strategist Nick Rees said after the Bank of England left the policy rate at 3.75% on Thursday that upcoming UK economic data and domestic political developments will determine whether the pound weakens further. Two of nine MPC members voted to raise rates, but BoE communications signalled an overall lack of urgency to change policy in the near term. Rees said further evidence of economic weakness combined with rising political risk could push the pound lower."
+    },
+    {
+      "id": "4943749",
+      "time": "2026-06-18 22:06:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元在即期交易中貶值1%，報5.16雷亞爾。"
+    },
+    {
+      "id": "4943748",
+      "time": "2026-06-18 22:06:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普在社交媒體上發文稱：就業創下歷史紀錄，物價正在下降（負擔能力！）。我們的國家空前強大、安全，受人尊敬。“不客氣！”"
+    },
+    {
+      "id": "4943747",
+      "time": "2026-06-18 22:06:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "辛巴威議員支援將總統任期延長兩年。"
+    },
+    {
+      "id": "mkt:019edb0d-8b19-7dd8-b080-4e14621b6fe6",
+      "time": "2026-06-18 22:05:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Africa will maintain its wheat import tariff framework."
+    },
+    {
+      "id": "mkt:019edb0d-71ca-7dd8-b080-44594c1619bb",
+      "time": "2026-06-18 22:05:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin told Singapore's prime minister that sanctions have constrained bilateral economic cooperation and much of its potential remains unrealized."
+    },
+    {
+      "id": "mkt:019edb0d-1824-7dd8-b080-38928feb4f31",
+      "time": "2026-06-18 22:05:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russia's deputy prime minister said Russia has used more than 1,500 drones to strike Ukrainian ports since the start of 2026."
+    },
+    {
+      "id": "4943746",
+      "time": "2026-06-18 22:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非將維持小麥進口關稅政策框架。"
+    },
+    {
+      "id": "4943745",
+      "time": "2026-06-18 22:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加州阿達克西南偏西210公里處發生5.1級地震。"
+    },
+    {
+      "id": "4943744",
+      "time": "2026-06-18 22:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京對新加坡總理表示：受制裁影響，雙邊合作的經濟潛力尚未得到充分挖掘。"
+    },
     {
       "id": "4943743",
       "time": "2026-06-18 22:04:30",
@@ -174499,147 +174622,6 @@
         "WTI"
       ],
       "text": "Head of Iran's parliamentary national security committee warned US President Trump would face a stronger and more painful retaliation for his threats."
-    },
-    {
-      "id": "4930825",
-      "time": "2026-06-11 22:09:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會主席針對特朗普對伊朗的威脅回應稱：（特朗普）將遭到更猛烈、更慘痛的回擊。"
-    },
-    {
-      "id": "mkt:019eb703-f314-7dd8-afc3-e62f88788fff",
-      "time": "2026-06-11 22:09:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【ECB raises policy rates 25bps in ‘insurance’ move; first major central-bank hike to curb inflation】ECB raised its three key policy rates by 25bps, the first increase in nearly three years. The bank sees inflation at 3.0% in 2026, 2.3% in 2027 and 2.0% in 2028 (March: 2.6%, 2.0%, 2.1%); core inflation is projected at 2.5% in 2026–27 and 2.2% in 2028 (March: 2.3%, 2.2%, 2.1%). Growth forecasts were downgraded to 0.8% in 2026, 1.2% in 2027 and 1.5% in 2028 (March: 0.9%, 1.3%, 1.4%). Policy will be decided meeting-by-meeting and remain data-dependent; no preset rate path or commitment on the neutral rate or neutral range. The ECB flagged the Middle East conflict as an upside inflation risk and said the hike is robust across scenarios; it warned the main risk is not hiking, which would make re-anchoring inflation harder. Market reaction: EUR/USD slightly firmer; eurozone yields marginally lower. At the press conference Lagarde said the decision was unanimous, not pre-emptive or aggressive but necessary; alternative options were not discussed. She noted an economic slowdown—especially in services—domestic demand weaker than in March, and an energy shock spreading through the economy. Inflation is broadening; energy-driven rises should push inflation above 2% in 1H 2027 before easing toward target in H2 2027. Short-term inflation expectations have risen while long-term expectations remain near target. No wage second-round effects observed; labour demand is cooling and wage growth is expected to moderate within a year, with labour-cost indicators pointing to easing in 2026. The Iran conflict is weighing on activity and is a downside growth risk; larger or more persistent energy-price shocks would push inflation higher and indirect costs are already emerging."
-    },
-    {
-      "id": "4930824",
-      "time": "2026-06-11 22:09:02",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行利率決議及釋出會要點一覽——“保險式”加息落地 成為主要央行中加息以抗擊通脹“第一人”】利率決議\n1. 利率決定：如期將三大利率上調25個基點，為近三年來首次，符合市場預期。\n2. 通脹前景：通脹存在上行風險。預計2026年通脹率為3%，2027年為2.3%，2028年為2.0%（3月預期分別為2.6%、2%、2.1%）；2026年核心通脹為2.5%，2027年為2.5%，2028年為2.2%（3月預期分別為2.3%、2.2%、2.1%）。\n3. 經濟前景：經濟增長面臨下行風險。預計2026年GDP增長率為0.8%，2027年為1.2%，2028年為1.5%。（3月預期分別為0.9%、1.3%、1.4%）。\n4. 指引前瞻：將密切關注形勢，並採取依賴資料和逐次會議的方式來確定適當的貨幣政策立場，未對特定利率路徑作出預先承諾。\n5. 中東影響：前景仍然不確定，中東戰爭正在產生通脹壓力。在多種情景下，提升利率的決定在應對沖擊演變及其對歐元區中期前景的影響方面是穩健的。\n6. 市場反應：歐元兌美元小幅走高，歐元區債券收益率小幅回落。\n拉加德釋出會\n1. 利率決定：決定是一致透過的。未討論任何其他提議（即既沒有討論維持利率不變，也沒有討論加息50個基點）。討論內容完全不涉及預防性加息。\n2. 前瞻指引：不會有預設的利率路徑。今天的決定並非激進的舉措。25個基點的加息是一個訊號，且是必要的。尚未討論中性利率和中性區間。主要風險在於不加息。如果讓通脹失控，重新控制將更加困難。\n3. 經濟情況：調查顯示經濟放緩，尤其是在服務業。消費應繼續成為增長的主要驅動力。國內需求將弱於3月份的預期。開始看到能源衝擊在整個經濟中擴散。\n4. 通脹前景：開始看到通脹的廣泛上升。能源價格上漲將進一步推高通脹，預計2027年上半年將在2%以上，而下半年將回歸目標水平。短期通脹預期上升，長期通脹預期總體穩定在目標水平。尚未看到與工資相關的二次效應。\n5. 就業市場：勞動力需求進一步降溫。工資增長預計將在一年內放緩。薪資追蹤指標繼續顯示2026年勞動力成本將有所緩和。\n6. 中東衝突：伊朗衝突正在影響經濟活動。一些潛在通脹指標因能源衝擊而上升。中東戰爭是增長的下行風險之一。如果能源價格上漲幅度更大或持續時間更長，通脹將進一步上升。伊朗戰爭帶來的間接成本也在顯現。"
-    },
-    {
-      "id": "mkt:019eb703-88e0-7dd8-afc3-da3df812cf3c",
-      "time": "2026-06-11 22:08:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Canada's privacy commissioner found XAI violated Canadian privacy law. X Corp and XAI launched Grok, an AI-powered image-generation tool, but failed to implement appropriate privacy safeguards."
-    },
-    {
-      "id": "4930823",
-      "time": "2026-06-11 22:07:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大隱私專員表示，X公司與xAI在推出由Grok人工智慧驅動的影象生成工具時，並未落實恰當的安全防護措施。"
-    },
-    {
-      "id": "4930821",
-      "time": "2026-06-11 22:07:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥內政部長羅德里格斯：墨西哥保證世界盃賽事的安全。"
-    },
-    {
-      "id": "mkt:019eb701-f7f7-7dd8-afc3-d36855487a32",
-      "time": "2026-06-11 22:06:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Venezuela's interim president Rodriguez said Mexico has guaranteed security for World Cup events."
-    },
-    {
-      "id": "4930820",
-      "time": "2026-06-11 22:06:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【陸挺：財政支出應向社會保障、消費補貼等傾斜】6月11日，野村證券中國首席經濟學家陸挺在北京的媒體交流會上表示，從中長期來看，促進消費還需要透過完善社保體系等中長期制度性改革。陸挺表示，完善社保體系能降低約3億靈活就業人員對未來的焦慮感、減少他們的預防性儲蓄，這樣能有效拉動消費。完善社保體系是我國邁向中等發達國家的必經之路，未來幾年也是社保體系改革的重要視窗期。陸挺建議，中央財政支出應當向社會保障、基礎醫療、普惠養老及全民消費補貼大幅傾斜。他認為，只有透過中央層面的真金白銀注入，幫助普通家庭修復資產負債表，解除老百姓在教育、醫療、養老等民生領域的後顧之憂，才能從根本上扭轉防禦性儲蓄高企的心理預期，從而驅動高水平、內生性的民生消費內迴圈增長。（澎湃）"
-    },
-    {
-      "id": "mkt:019eb701-b67d-7dd8-afc3-c9a25625c458",
-      "time": "2026-06-11 22:06:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Nomura's Lu Ting urges central fiscal tilt to social security, healthcare, pensions and consumption subsidies】June 11 — Nomura China chief economist Lu Ting said in Beijing that boosting consumption over the medium-to-long term requires institutional reforms, notably an improved social security system. He estimated strengthening social security could reduce precautionary saving among about 300 million flexible workers and thereby lift consumption. Lu called social security reform a necessary step for China’s move toward a middle-developed economy and said the next few years are a key window for reform. He recommended central fiscal spending be shifted sharply toward social security, basic healthcare, inclusive elderly care and broad-based consumption subsidies, arguing direct central cash injections to help households repair balance sheets and ease education, healthcare and retirement burdens are needed to reverse high precautionary saving and restore sustainable domestic consumption growth."
-    },
-    {
-      "id": "mkt:019eb701-a29c-7dd8-afc3-c502a4affb19",
-      "time": "2026-06-11 22:06:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. Supreme Court rules investment funds shielded from shareholder lawsuits."
-    },
-    {
-      "id": "4930819",
-      "time": "2026-06-11 22:06:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大隱私專員表示，xAI違反了加拿大隱私法。"
-    },
-    {
-      "id": "4930818",
-      "time": "2026-06-11 22:06:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【貝索斯：AI不會造成大規模失業】傑夫・貝索斯駁斥了人工智慧將造成大規模失業的預測，他認為這項技術反而會迎來多重黃金髮展時代。 這位亞馬遜創始人在接受採訪時表示，他斥資410億美元成立的全新人工智慧實驗室“普羅米修斯”（Prometheus），將藉助人工智慧技術推動製造業與工程領域變革。 自2021年卸任亞馬遜執行長後，這是貝索斯首次執掌新企業。在闡述“普羅米修斯”實驗室的發展願景時，他回擊了有關人工智慧會重創就業市場的警示言論。 “那些倉促斷定所有崗位都會消失的人……我認為他們的觀點是錯誤的。”身為全球第四大富豪的貝索斯說道。普羅米修斯實驗室已從摩根大通、貝萊德等投資方以及貝索斯本人處募資120億美元，算上這筆資金，該機構整體估值達到410億美元。 該實驗室致力於研發通用工程人工智慧。不同於當下主流人工智慧產品所依託的大語言模型，這套系統將依託現實場景資料進行訓練，從而掌握物理規律。 儘管外界普遍擔憂人工智慧會造成大規模失業，但貝索斯認為，人工智慧反而會引發勞動力短缺——它創造的新崗位數量，將遠遠多於被取代的崗位。"
-    },
-    {
-      "id": "4930817",
-      "time": "2026-06-11 22:06:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓媒：因當地僱員涉嫌欺詐，韓國檢方突擊搜查駐韓美軍基地】據韓聯社報道，韓國檢方當地時間11日突擊搜查位於該國全羅北道群山市的一處美國空軍基地，原因是該基地一名當地僱員涉嫌欺詐。"
-    },
-    {
-      "id": "4930816",
-      "time": "2026-06-11 22:05:36",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【財政部公示新一輪國家綜合貨運樞紐補鏈強鏈提升行動第一批城市名單】根據《財政部交通運輸部關於支援新一輪國家綜合貨運樞紐補鏈強鏈提升行動的通知》（財建〔2026〕62號）、《交通運輸部辦公廳財政部辦公廳國家鐵路局綜合司中國民航局綜合司國家郵政局辦公室關於做好新一輪國家綜合貨運樞紐補鏈強鏈提升行動實施工作的通知》（交辦規劃函〔2026〕902號），交通運輸部、財政部近期組織開展了2026年新一輪國家綜合貨運樞紐補鏈強鏈提升行動競爭性評審工作。經過評審，擬納入第一批支援範圍的城市名單如下（按照行政區劃排序）：北京；呼和浩特和包頭；南京；杭州；合肥和蕪湖；煙臺；商丘；貴陽。"
-    },
-    {
-      "id": "mkt:019eb700-9cdd-7dd8-afc3-bd2bb70d2242",
-      "time": "2026-06-11 22:05:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Copper",
-        "SSE Composite"
-      ],
-      "text": "【Ministry of Finance publishes first batch of cities for 2026 national comprehensive freight hub chain-strengthening action】The Ministry of Transport and Ministry of Finance recently completed competitive reviews for the 2026 round of the national comprehensive freight-hub chain-strengthening program and proposed the following cities for inclusion in the first support batch (by administrative order): Beijing; Hohhot and Baotou; Nanjing; Hangzhou; Hefei and Wuhu; Yantai; Shangqiu; Guiyang."
     }
   ]
 }
