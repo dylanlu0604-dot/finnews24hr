@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-19 04:33:47",
-  "count": 18975,
+  "updated": "2026-06-19 04:37:46",
+  "count": 18972,
   "items": [
+    {
+      "id": "4944298",
+      "time": "2026-06-19 04:36:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SpaceX行情降溫兩連跌 本週仍累漲約15%】受上週創紀錄IPO後本輪股價上漲行情降溫影響，SpaceX股票週四美股收盤下跌3.57%。 埃隆・馬斯克旗下這家兼具航天與人工智慧業務的企業上市後躋身全球市值最高企業行列，週二其總市值一度超越亞馬遜，還短暫超過微軟。 經歷週四下跌後，SpaceX收盤總市值報2.44萬億美元，落後於當日收盤市值2.62萬億美元的亞馬遜，位列美國頭部高市值企業梯隊。 該股週三曾大跌5%。 由於美國六月節休市，本週僅四個交易日，SpaceX本週股價累計上漲約15%。該股自上週里程碑式上市以來依舊累計上漲37%，本次IPO發行價定為每股135美元。"
+    },
+    {
+      "id": "te:markets:560180",
+      "time": "2026-06-19 04:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.31% Higher — The Dow Jones Index went up by 157 points or 0.31 percent on Thursday to close at 51650 points. The rise was led by Caterpillar (3.35%), Walt Disney (3.09%) and Nvidia (3.08%). On the downside, the weakerst performers were IBM (-4.80%), J&J (-2.50%) and JPMorgan (-2.47%)."
+    },
+    {
+      "id": "mkt:019edc70-c39f-7dd8-b088-4f7d32b13124",
+      "time": "2026-06-19 04:33:58",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact mixed"
+      ],
+      "text": "Intel (INTC.O) said it will carve out its advanced packaging business and appoint a dedicated leadership team."
+    },
     {
       "id": "mkt:019edc70-18d8-7dd8-b088-43fa1b550c76",
       "time": "2026-06-19 04:33:14",
@@ -174574,62 +174606,6 @@
         "MKT News"
       ],
       "text": "Iranian Foreign Ministry spokesman said reports of an agreement are speculative and no final decision has been reached."
-    },
-    {
-      "id": "mkt:019eb867-7aab-7dd8-afcb-90b296997a67",
-      "time": "2026-06-12 04:37:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's foreign ministry spokesman said the Strait of Hormuz has become less secure due to U.S. actions."
-    },
-    {
-      "id": "4931248",
-      "time": "2026-06-12 04:37:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：有關協議的相關說法均為猜測，目前尚無任何內容敲定。伊朗尚未就相關協議作出最終決定。"
-    },
-    {
-      "id": "mkt:019eb867-01e4-7dd8-afcb-8f3b540cf58e",
-      "time": "2026-06-12 04:36:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said Iran has not yet made a final decision on the agreement."
-    },
-    {
-      "id": "4931247",
-      "time": "2026-06-12 04:35:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體援引伊朗外交部發言人表態稱，受美方行動影響，霍爾木茲海峽局勢安全程度有所下降。"
-    },
-    {
-      "id": "te:markets:558460",
-      "time": "2026-06-12 04:35:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.85% Higher — The Dow Jones Index went up by 923 points or 1.85 percent on Thursday to close at 50841 points. The rise was led by Honeywell International (6.43%), Boeing (5.79%) and Amgen (4.91%)."
-    },
-    {
-      "id": "mkt:019eb864-3f8f-7dd8-afcb-810b45e4f565",
-      "time": "2026-06-12 04:33:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Prime Minister Starmer appoints Dan Jarvis as defence secretary】On the 11th Prime Minister Starmer appointed Dan Jarvis as defence secretary, replacing John Healey, who resigned the same day. Downing Street said Jarvis had been minister of state for security at the Home Office, with long responsibility for domestic security, counter‑terrorism and border security. Healey posted an open letter to Starmer on social media saying he was resigning because the government had failed to provide sufficient funding for defence."
     }
   ]
 }
