@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-18 19:39:12",
-  "count": 19086,
+  "updated": "2026-06-18 19:43:24",
+  "count": 19091,
   "items": [
+    {
+      "id": "mkt:019eda89-f386-7dd8-b07a-906ff7710f6e",
+      "time": "2026-06-18 19:42:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited an Iranian diplomatic source saying a final decision has not yet been made on a trip to Switzerland."
+    },
+    {
+      "id": "4943434",
+      "time": "2026-06-18 19:42:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部和中國氣象局聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局6月18日18時聯合釋出橙色山洪災害氣象預警：預計，6月18日20時至6月19日20時，廣西北部、貴州南部等地部分地區發生山洪災害可能性較大（黃色預警），其中，廣西北部、貴州東南部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）"
+    },
+    {
+      "id": "te:markets:560082",
+      "time": "2026-06-18 19:41:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Fall as Investors Digest Central Bank Decisions — European stocks traded mostly lower on Thursday, with the STOXX 50 near flat after a record high and the STOXX 600 down 0.7%, as investors digested policy decisions from the Bank of England and the US Federal Reserve, as well as the interim US-Iran agreement. The BoE voted 7-2 to maintain interest rates at 3.75%, as expected, citing uncertainty over the Middle East energy shock’s economic impact but expecting inflation to rise as costs spread. Meanwhile, the US Federal Reserve held interest rates steady on Wednesday, but new Chair Kevin Warsh signaled a possible rate hike to combat inflation. Globally, the US-Iran ceasefire pushed oil prices to three-month lows, easing inflation concerns. In individual stocks, Edenred surged 16% on takeover talks, Generali rose 0.8% on UniCredit’s stake plans, while EQT fell 0.5% after agreeing to buy Intertek. Infineon (+3.5%) and Aixtron (+1.5%) gained on tech strength, Airbus rose 2.3% on an upgrade, and Tesco fell 2% on slower Q1 sales."
+    },
+    {
+      "id": "4943433",
+      "time": "2026-06-18 19:41:27",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【數萬億元投向六張網 10萬億元大市場要來了】近日，“六張網”在網路刷屏，引發關注。今年4月，中共中央政治局會議明確提出“加強水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等規劃建設”。此後，國務院常務會議進行部署。據國家發展改革委初步估算，今年僅“六張網”及相關重點領域建設的投資規模就超過7萬億元。 “十五五”時期，國家水網建設投資將突破6萬億元，新增300多萬個就業崗位； “十五五”時期，新型電網的投資將超過5萬億元，帶動上下游總規模超10萬億元。與新型電網相關的基建投資，可直接創造的就業崗位超過百萬； “十五五”期間，全國將建設改造地下管網約77萬公里，帶動投資約5萬億元，撬動GDP約7.5萬億—10萬億元，年均帶動就業崗位約280萬個； 如今，數萬億元的投資蓄勢待發，“六張網”協同推進，為中國經濟高質量發展持續注入新動能。 （央視財經）"
+    },
+    {
+      "id": "4943432",
+      "time": "2026-06-18 19:40:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬矽產業：子公司上海新昇獲國盛集團及公司合計增資114.48億元】滬矽產業(688126.SH)公告稱，公司擬與持股5%以上股東國盛集團共同對子公司上海新昇進行增資，合計增資114.48億元。其中，公司以持有的新昇晶投等三家子公司股權作價74.48億元認購上海新昇新增註冊資本；國盛集團出資40億元(含10億元債轉股)認購新增註冊資本。增資後，公司持股比例由100%降至84.48%，仍為控股股東。上調至買入。"
+    },
+    {
+      "id": "4943431",
+      "time": "2026-06-18 19:39:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西財長：我仍認為進一步降息仍有空間，但這是央行的專屬許可權。"
+    },
+    {
+      "id": "4943430",
+      "time": "2026-06-18 19:39:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "MONNESS CRESPI HARDT將賽富時評級從中性上調至買入。"
+    },
+    {
+      "id": "4943429",
+      "time": "2026-06-18 19:39:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德方奈米：擬向特定物件發行股票募資不超29億元】德方奈米公告稱，公司擬向特定物件發行股票，募集資金總額不超29億元（含本數），扣除發行費用後，用於鋰電新材料一體化（一期）專案和補充流動資金專案。發行物件不超35名（含）特定投資者，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%。本次發行尚需股東會審議透過、深交所稽核透過及中國證監會同意註冊。"
+    },
+    {
+      "id": "4943428",
+      "time": "2026-06-18 19:38:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：印尼證券交易所新任執行長將持續推進市場改革、提升市場透明度。"
+    },
+    {
+      "id": "4943427",
+      "time": "2026-06-18 19:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大藤峽水利樞紐工程透過竣工驗收】記者從水利部瞭解到，大藤峽水利樞紐工程18日透過水利部主持的竣工驗收，工程建設任務全部完成，全面轉入常態化執行階段。大藤峽工程總投資357.36億元，總庫容34.79億立方米、防洪庫容15億立方米，正常蓄水位61米。該工程是國家水網重要結點工程，集防洪、航運、發電、補水壓鹹、灌溉等綜合效益於一體。工程全面投入執行將在提升流域水安全保障水平、服務粵港澳大灣區國家戰略、促進地方經濟社會高質量發展等方面發揮重要作用。（新華社）"
+    },
+    {
+      "id": "4943426",
+      "time": "2026-06-18 19:38:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長:我們一直在努力遏制通脹。"
+    },
     {
       "id": "mkt:019eda85-d7a3-7dd8-b07a-89cbe00d3b47",
       "time": "2026-06-18 19:37:44",
@@ -176185,64 +176279,6 @@
         "國際"
       ],
       "text": "以色列總理本雅明・內塔尼亞胡表示，儘管以軍持續對真主黨採取行動，但該組織的攻擊型無人機仍是一大威脅。他誓言，以色列將 “如同平定南部局勢一般”，恢復北部地區的安全。"
-    },
-    {
-      "id": "4930478",
-      "time": "2026-06-11 19:43:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迪生力：擬以9800萬元收購廣東全芯30%股權】迪生力公告，擬以現金交易方式使用自有及自籌資金向李錦光收購其持有的廣東全芯半導體有限公司30%股權，交易總金額為9800萬元。"
-    },
-    {
-      "id": "mkt:019eb67d-a55d-7dd8-afbc-e2fc6af37acc",
-      "time": "2026-06-11 19:42:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Central banks ramp up gold purchases even as bullion weakens】By end-2025 gold accounted for 27% of global official reserves, surpassing US Treasuries by 5 percentage points and becoming the largest single asset class in official reserves. Central banks have been heavy buyers since 2022: net purchases exceeded 1,000t annually in 2022–24 and totaled 863t in 2025. Despite sustained buying, international gold prices have weakened recently. Market drivers cited include large rallies in 2024–25 that created technical pullback pressure, and Middle East-driven energy price and inflation upside that has pushed markets to price a greater risk of Fed tightening, weighing on bullion and producing a short-term divergence between central bank buying and spot gold moves."
-    },
-    {
-      "id": "4930477",
-      "time": "2026-06-11 19:42:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【多晶矽漲停背後：產能出清預期升溫】6月11日，廣期所多晶矽主力合約年內第三次觸及漲停，單日漲幅達到8.99%。訊息層面上，光伏產能出清相關傳聞或成為最大的推手。記者6月11日瞭解到，《晶體矽光伏元件和逆變器能效限定值及能效等級》已進入釋出前最後審批階段，預計不久後將正式釋出。（貝殼財經）"
-    },
-    {
-      "id": "4930476",
-      "time": "2026-06-11 19:42:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部11日發表宣告說，美國東部時間10日23時20分許，美軍在阿曼灣擊中一艘油輪，使其喪失航行能力。這是美軍本週打擊的第三艘商船。（新華社）"
-    },
-    {
-      "id": "4930475",
-      "time": "2026-06-11 19:41:11",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【全球央行買買買金價卻跌跌跌 黃金市場現特殊局面】6月初，歐洲中央銀行釋出報告稱，截至2025年底，黃金在全球官方儲備資產總額中的佔比已升至27%，超過美國國債5個百分點，成為全球官方儲備中佔比最大的單一資產類別。專家表示，本輪全球央行大規模增持黃金是從2022年開始的。資料顯示，2022年到2024年全球央行連續三年淨購金超過了1000噸，2025年淨購金達到了863噸，遠超前面幾年的水平。在地緣政治局勢緊張的大背景下，黃金作為全球公認的終極支付手段，是各國央行增持黃金的重要原因之一。央行持續購金，近期國際金價卻為何走低？專家表示，近期國際金價震盪明顯，是多重因素導致的。一方面，2024年、2025年國際金價連續大漲，積累了較多的回撥壓力；另一方面，中東地緣衝突引發的能源漲價推高了通脹預期，市場預判美聯儲可能會加息，直接壓制了金價的上行空間，形成了“央行逆勢購金、金價短期走弱”的特殊局面。（央視財經）"
-    },
-    {
-      "id": "4930474",
-      "time": "2026-06-11 19:40:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【KKR 聯合多方設新公司 專攻大型雲服務商基建】KKR 集團、科威特投資局、英偉達與維斯特拉公司聯手成立赫利克斯數字基礎設施公司，這家新企業旨在為大型人工智慧雲服務商提供配套基礎設施。KKR 於週四表示，赫利克斯將 “統籌滿足大型雲服務商在資料中心、電力、網路連線及相關領域的各類需求”。目前該公司已獲得超 100 億美元長期資金承諾。創始輪資金到位後，赫利克斯將繼續吸納其他機構投資者。英偉達將助力部署適配其 DSX 人工智慧工廠的基礎設施，能源企業維斯特拉則負責電力供應。"
     }
   ]
 }
