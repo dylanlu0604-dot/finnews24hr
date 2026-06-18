@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-19 02:56:47",
-  "count": 19060,
+  "updated": "2026-06-19 03:01:19",
+  "count": 19054,
   "items": [
+    {
+      "id": "4944250",
+      "time": "2026-06-19 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.17%，報23851.76點，低水73.05點。"
+    },
+    {
+      "id": "4944249",
+      "time": "2026-06-19 02:59:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷統計局：5月貿易順差為35.04億美元，路透調查預期為順差22億美元。"
+    },
     {
       "id": "4944248",
       "time": "2026-06-19 02:55:12",
@@ -175388,88 +175404,6 @@
         "MKT News"
       ],
       "text": "India notified that orders covering petrol and high-speed diesel will be effective for up to 90 days."
-    },
-    {
-      "id": "4931155",
-      "time": "2026-06-12 03:01:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據沙烏地阿拉伯阿拉比亞電視臺：訊息人士稱，從德黑蘭返回的卡達代表團已向美方轉交伊朗對最終協議草案的批准意見。"
-    },
-    {
-      "id": "mkt:019eb80f-39db-7dd8-afc9-3cc4b6baab05",
-      "time": "2026-06-12 03:01:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures ended the night session up 0.88% at 24,376, trading 127 points above the cash index."
-    },
-    {
-      "id": "mkt:019eb80e-9757-7dd8-afc9-34daa486dbed",
-      "time": "2026-06-12 03:00:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Al Arabiya cited sources saying a Qatari delegation returning from Tehran has delivered to US officials Iran's approval of the final draft of the agreement."
-    },
-    {
-      "id": "4931154",
-      "time": "2026-06-12 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.91%，報24382.48點，高水133.19點。"
-    },
-    {
-      "id": "4931153",
-      "time": "2026-06-12 02:59:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國與星鏈公司簽署了關於應對重大災害的諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019eb80d-14b0-7dd8-afc9-29a652ab2ce4",
-      "time": "2026-06-12 02:58:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "India issued a notice restricting retail fuel stations to sell no more than 200 liters of high-speed diesel (HSD) per single customer or vehicle per day; purchased HSD may not be resold."
-    },
-    {
-      "id": "4931152",
-      "time": "2026-06-12 02:58:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【野村：歐洲央行本週期將再加息三次 歐元將受到支撐】野村經濟學家表示，歐洲央行在本週期內還將加息三次。他們認為歐洲央行的鷹派立場將在未來幾個月提振歐元兌英鎊的匯率。野村的Andrzej Szczepaniak、George Buckley、Josie Anderson和David Seif在歐洲央行週四如期加息25個基點後寫道：行長拉加德領導的歐洲央行官員釋出的新基線預測“比我們預期的更加鷹派”。“我們認為歐洲央行的鷹派預測是合理的，並將導致貨幣政策比我們之前預期的更加緊縮”。野村經濟學家現在預計，歐洲央行將在9月、12月以及明年3月再次加息，將存款利率提高到3%。"
-    },
-    {
-      "id": "mkt:019eb80c-266b-7dd8-afc9-274c3a865a81",
-      "time": "2026-06-12 02:57:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "India issued a notice requiring institutional, direct-supply and industrial/commercial customers to source petrol and high-speed diesel (HSD) only via their own retail fueling facilities."
     }
   ]
 }
