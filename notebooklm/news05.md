@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-19 03:01:19_
-_本檔包含 3860 則快訊，約 708949 字_
+_更新時間：2026-06-19 03:24:47_
+_本檔包含 3838 則快訊，約 708307 字_
+
+---
+
+### 2026-06-13 20:33:40  #其他
+
+委內瑞拉政府稱，委內瑞拉與IMPSA簽署TOCOMA大型水電專案協議。（IMPSA為阿根廷工程重工企業，Tocoma是委內瑞拉南部玻利瓦爾州的擬建水電站專案）
+
+---
+
+### 2026-06-13 20:33:40  #MKT News
+
+【Zhang Xue Motorcycles' Valentin Debise wins WorldSSP Race 1 at WSBK Emilia‑Romagna】French rider Valentin Debise delivered a victory for Chinese manufacturer Zhang Xue Motorcycles in Race 1 of the WorldSSP class at the World Superbike Championship Emilia‑Romagna round.
+
+---
+
+### 2026-06-13 20:32:18  #其他 #焦點 #國際
+
+【張雪機車再奪第一】世界超級摩托車錦標賽（WSBK）義大利艾米利亞-羅馬涅站WorldSSP組別首輪正賽落幕，張雪車隊車手德比斯取得冠軍。（央視新聞）
+
+---
+
+### 2026-06-13 20:31:32  #國際
+
+【美媒細數特朗普曾39次說與伊朗談好】自本輪美以伊戰爭爆發以來，美國總統特朗普曾多次表示“與伊朗達成共識”“很快就會與伊朗達成協議”或“戰爭很快就會結束”，但事實上衝突一直在持續。據美國有限電視新聞網統計，截至6月11日，特朗普至少作出過39次此類表態。 （CCTV國際時訊）
+
+---
+
+### 2026-06-13 20:26:38  #其他
+
+【5月城軌客運量同比增長2.4% 客運強度連續4個月下降】交通運輸部近日釋出的資料顯示，2026年5月，全國（不含港澳臺）54個開通軌道交通的城市總客運量為29.4億人次，環比減少0.5億人次，降低1.7%，同比增加0.7億人次，增長2.4%，同比增幅較4月份的4.9%有所回落。 5月份，全國總運營里程的平均客運強度為0.804萬人次/公里日，比去年同期下降4.6%，這也是該指標自今年2月以來連續第4個月出現下降。中國城市軌道交通協會（以下簡稱“城軌協會”）人士對記者表示，全國城軌平均客運強度下滑的主要原因是運營里程持續擴容，新線開通的供給增量遠超客流增長幅度。從城軌行業發展規律來看，新開通城軌線路存在3年左右的客流培育期，新線開通初期，受周邊城市開發、人口匯入、商業配套、換乘銜接等因素限制，初期客運強度僅能達到同城市成熟線路的30%—50%，大量新線集中開通後，運營里程增長幅度，大幅超過了客運量的增長幅度，直接拉低了全國整體客運強度均值。此外，出行方式的多元化、老百姓出行習慣的改變，也影響了城軌客流的增長。（中國經營報）
+
+---
+
+### 2026-06-13 20:17:54  #國際
+
+【美官員：伊朗中間人稱最高領袖對協議表示滿意】一位美國官員稱，伊朗透過中間人告知華盛頓，最高領袖穆傑塔巴·哈梅內伊對擬議的協議表示滿意。 儘管德黑蘭的最終決定仍存在不確定性，但這位美國官員仍將這一立場描述為一個積極的訊號。該官員稱，初步協議的重點是緩和局勢並開闢新的談判渠道。核計劃和制裁等複雜問題已被推遲到後續階段討論。該官員表示，簽署諒解備忘錄後，伊朗不會立即獲得任何經濟利益，任何財政支援或制裁豁免都以伊朗履行其承諾為前提。伊朗交出高濃縮鈾或拆除核設施將獲得華盛頓方面逐步提供的經濟激勵。
+
+---
+
+### 2026-06-13 20:17:20  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【IDF says it struck more than 70 Hezbollah targets in southern Lebanon】On the 13th local time, the Israel Defense Forces said it carried out multiple strikes in southern Lebanon over the previous day, destroying more than 70 targets. The IDF said the strikes hit rocket launchers and buildings Hezbollah used to plan and carry out attacks. The military added it killed several Hezbollah fighters in areas where its forces operated.
+
+---
+
+### 2026-06-13 20:16:59  #國際
+
+【以軍稱打擊黎南部70餘處真主黨目標】當地時間13日，以色列國防軍表示，在過去一天內，以軍在黎巴嫩南部對真主黨實施多輪打擊，共摧毀70多個目標。以軍稱，被打擊的目標包括火箭彈發射裝置及真主黨用於策劃和實施襲擊的建築物。以軍同時表示，在部隊開展行動的區域內，軍方打死了多名真主黨武裝人員。
+
+---
+
+### 2026-06-13 20:13:35  #其他
+
+【北京大學聯合上緯啟元研究院釋出家庭服務機器人使用者習慣資料集基準】北京大學聯合上緯新材上緯啟元研究院日前釋出UcON（使用者中心導航）資料集，據介紹，這是全球首個以使用者個性化生活習慣為核心的具身導航評測基準。該基準覆蓋489類物體與2.26萬條習慣資料，透過LLM生成+物理校驗構建差異化場景。實驗顯示，其習慣檢索機制使導航效率提升35%。
+
+---
+
+### 2026-06-13 20:10:34  #公司
+
+【全球首條百萬片級體全息光波導自動化產線在天津投產】全球首條百萬片級體全息光波導自動化產線13日在天津投產，標誌著中國在消費級AR(增強現實)核心顯示技術領域實現規模化量產突破，為高價效比AR眼鏡和車載AR-HUD(增強現實抬頭顯示系統)進入大眾市場打通關鍵一環。該產線由尼卡光學(天津)有限公司設計建設，年產能達100萬片，配備千級潔淨車間與精密環控系統，全線採用企業定製的全息光刻裝置及工藝平臺。投產後，尼卡光學天津、廣州兩地總年產能將提升至130萬片。（中新社）
+
+---
+
+### 2026-06-13 20:09:42  #其他
+
+【海南省人工智慧服務平臺正式上線】海南省人工智慧服務平臺13日正式上線。這個面向市場主體的人工智慧服務平臺，目前已集聚121款人工智慧大模型、44個垂直行業專業智慧體，為使用者搭建技術、資源、服務一體化支撐體系。上線當天，平臺推出“百萬億Token賦能計劃”“政企AI落地支援計劃”“信創AI雲端暢享計劃”等專項行動，賦能海南本土企業智慧化。（中新網）
+
+---
+
+### 2026-06-13 20:05:56  #行業 #觀點
+
+【阿維塔王輝談輔助駕駛：各車企應集體加強使用者培訓機制】阿維塔科技董事長王輝在2026中國汽車重慶論壇提到，在智慧化技術飛速發展的當下，安全意識卻越來越淡薄。“有車主說以前開燃油車從來不看手機，但用了輔助駕駛之後，不僅在使用輔助駕駛時看手機，甚至習慣了之後，不用輔助駕駛也會偶爾看手機。我覺得這是非常危險的。” 因此，他提出倡議，“寧可犧牲一些便利性，也要強化對使用者的安全保護，同時需要集體加強培訓機制，提升使用者的安全駕駛意識。”（睿見）
+
+---
+
+### 2026-06-13 20:02:53  #國際
+
+【百發子彈下落不明 韓國一監獄啟動調查】韓國法務部13日說，韓國一所監獄的庫存子彈實際數量比登記的少了大約100發，已對此啟動調查。韓聯社援引韓國法務部訊息報道，8日起對韓國中部大田市一所監獄開展為期5天的例行檢查，其間發現武器庫登記的子彈數量與實際清點結果不一致，大約100發9毫米手槍子彈缺失。目前不清楚這些子彈是實際遺失，還是登記數目有誤。相關部門將進一步調查，包括是否存在違規情況。韓國法務部說，將對全國所有監獄、看守所等機構的武器彈藥管理情況開展檢查。（新華社）
+
+---
+
+### 2026-06-13 20:02:02  #國際
+
+伊拉克總理扎伊迪將於下月訪問華盛頓，這將是他自5月組建政府以來首次正式訪美。他將討論加強安全和經濟合作、武器國家管控問題以及能源投資等議題。
+
+---
+
+### 2026-06-13 20:00:02  #市場
+
+本週大盤主力資金累計淨流入-1900.95億元，小金屬、能源金屬板塊淨流入居前，個股海光資訊、天華新能淨流入最多。
+
+---
+
+### 2026-06-13 19:59:51  #國際
+
+伊朗哈塔姆·安比亞中央司令部司令表示，世界將很快見證伊朗的勝利和抵抗侵略者的勝利。
+
+---
+
+### 2026-06-13 19:58:40  #MKT News #XAUUSD #Impact bullish #WTI
+
+Hezbollah said it fired rockets at Israeli soldiers and a concentration of vehicles near the town of Majdal Zoun in southern Lebanon.
+
+---
+
+### 2026-06-13 19:58:24  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+HEZBOLLAH said it shot down an Israeli Hermes 450 UAV with a missile over Kardali in southern Lebanon.
 
 ---
 
@@ -23046,245 +23154,5 @@ SPACEX IPO定價為每股135美元，創史上最大規模上市交易。
 ### 2026-06-12 03:25:02  #國際
 
 CBS推文：美國-伊朗諒解備忘錄可能下週簽署。
-
----
-
-### 2026-06-12 03:24:40  #市場
-
-【美元指數11日下跌 】衡量美元對六種主要貨幣的美元指數當天下跌0.1%，在匯市尾市收於99.852。截至紐約匯市尾市，1歐元兌換1.1558美元，高於前一交易日的1.1548美元；1英鎊兌換1.3398美元，高於前一交易日的1.3380美元。1美元兌換160.08日元，低於前一交易日的160.50日元；1美元兌換0.7970瑞士法郎，低於前一交易日的0.7994瑞士法郎；1美元兌換1.3981加元，高於前一交易日的1.3937加元；1美元兌換9.4759瑞典克朗，低於前一交易日的9.4948瑞典克朗。
-
----
-
-### 2026-06-12 03:24:09  #MKT News
-
-The Guardian reports the UK's Minister of State for the Armed Forces has resigned from government in protest at Prime Minister Starmer's defence spending plans.
-
----
-
-### 2026-06-12 03:21:04  #公司
-
-黑石集團據稱正就收購加拿大地產公司H&R進行談判。
-
----
-
-### 2026-06-12 03:20:34  #其他
-
-納斯達克100指數漲幅擴大至3%。
-
----
-
-### 2026-06-12 03:19:21  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100 #S&P500
-
-S&P Global Ratings upgraded NVIDIA (NVDA.O) to AA and assigned a stable outlook.
-
----
-
-### 2026-06-12 03:19:16  #國際
-
-以色列《今日報》訊息：特朗普計劃與內塔尼亞胡通話，這是其與地區多國領導人系列會談的一環。
-
----
-
-### 2026-06-12 03:19:16  #MKT News
-
-Trump is expected to call Israeli Prime Minister Netanyahu as part of a series of calls with regional leaders.
-
----
-
-### 2026-06-12 03:17:19  #市場
-
-現貨黃金日內漲3%，現報4196.45美元/盎司。
-
----
-
-### 2026-06-12 03:17:10  #市場
-
-紐約期金日內漲2%，現報4216.50美元/盎司。
-
----
-
-### 2026-06-12 03:17:10  #市場 #焦點
-
-紐約期銀突破67美元/盎司，日內漲3.49%。
-
----
-
-### 2026-06-12 03:17:07  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rallied 3.00% intraday to $4,192.89/oz.
-
----
-
-### 2026-06-12 03:16:44  #市場 #焦點
-
-現貨黃金突破4190美元/盎司，日內漲2.96%。
-
----
-
-### 2026-06-12 03:14:59  #市場
-
-標普500指數漲幅擴大至1.6%。
-
----
-
-### 2026-06-12 03:14:22  #MKT News
-
-CNBC reports allocations for SpaceX's IPO are largely finalised; just over 20% of the offering will be allocated to retail investors.
-
----
-
-### 2026-06-12 03:14:14  #市場 #焦點
-
-紐約期金突破4210美元/盎司，日內漲1.86%。
-
----
-
-### 2026-06-12 03:14:12  #市場 #國際
-
-美國5-10年期國債收益率下跌10個基點，重新整理日低。
-
----
-
-### 2026-06-12 03:13:42  #MKT News #Important
-
-Fars News Agency reports Iran has not yet issued a final response.
-
----
-
-### 2026-06-12 03:13:37  #國際
-
-伊朗法爾斯通訊社表示，伊朗尚未作出最終答覆。
-
----
-
-### 2026-06-12 03:12:49  #其他
-
-市場訊息：SpaceX 新股分配方案基本敲定，面向散戶的配售比例約兩成。
-
----
-
-### 2026-06-12 03:12:42  #MKT News #Important #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-Iran's Fars news agency reports that, since the US has accepted the text proposed by Iran, approval of the text by Iranian authorities is now highly likely.
-
----
-
-### 2026-06-12 03:12:26  #國際
-
-伊朗法爾斯通訊社表示，鑑於美方已接受伊朗擬定的文字，該檔案獲得伊朗方面批准的可能性極大。
-
----
-
-### 2026-06-12 03:12:07  #MKT News
-
-【Source: Iran has not approved Iran-U.S. MoU text】On the evening of the 11th a source close to Iran's negotiating team said Iran has not approved the text of a memorandum of understanding (MoU) with the United States and that President Trump’s earlier comments claiming approval were inaccurate. The source said no preliminary MoU text has been approved by Iran. Earlier Trump posted that, because consultation results had been submitted to and approved by Iran’s supreme leader, he had called off planned strikes against Iran.
-
----
-
-### 2026-06-12 03:12:04  #市場 #焦點
-
-現貨黃金突破4180美元/盎司，日內漲2.68%。
-
----
-
-### 2026-06-12 03:11:52  #市場
-
-現貨白銀日內漲5%，現報66.57美元/盎司。
-
----
-
-### 2026-06-12 03:11:39  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-New York gold futures led gains, reclaiming $4,200/oz and rising 1.61% intraday.
-
----
-
-### 2026-06-12 03:11:20  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #XAUUSD #DXY #Impact bearish
-
-New York Fed said its Open Market Trading Desk plans to conduct roughly $16.5 billion of reinvestment purchases from June 12 through July 13.
-
----
-
-### 2026-06-12 03:11:16  #市場 #焦點
-
-紐約期金突破4200美元/盎司，日內漲1.62%。
-
----
-
-### 2026-06-12 03:10:46  #其他
-
-SpaceX提交FWP檔案；檔案顯示公開發行價為每股135.00美元。
-
----
-
-### 2026-06-12 03:10:38  #MKT News #DXY #Impact bearish
-
-USD/CHF fell 0.50% intraday to 0.7960.
-
----
-
-### 2026-06-12 03:10:25  #MKT News #WTI #Impact bearish #DXY #XAUUSD
-
-【Qatar says progress on US-Iran understanding】Qatar’s Emirate office said Qatar’s Emir spoke by phone with US President Trump on regional and international developments, notably diplomatic efforts to ease regional tensions. They reviewed US‑Iran consultations and the resulting understanding; the proposal put forward within the negotiation framework has progressed. Trump confirmed the understanding has been approved by all relevant parties and has participation and support from several friendly states, including Qatar. Parties are continuing to finalize procedures and are preparing arrangements to announce the signing.
-
----
-
-### 2026-06-12 03:10:07  #國際
-
-【知情人士：伊朗尚未批准伊美協議文字 】據伊朗法爾斯通訊社11日晚報道，一名接近伊朗談判團隊的知情人士表示，伊朗尚未批准伊美諒解備忘錄文字，美國總統特朗普稍早時候相關說法並不屬實。該訊息人士表示，目前“尚無任何初步諒解備忘錄文字獲得伊方批准”，有關伊朗已經同意最終文字的說法並不準確。當天早些時候，特朗普在社交媒體發文稱，鑑於與伊朗的磋商結果已提交至伊朗最高領導層並獲得批准，他已取消原定於當晚針對伊朗實施的打擊與轟炸行動。（新華社）
-
----
-
-### 2026-06-12 03:09:01  #市場 #國際
-
-【芝加哥玉米期貨跌超1.7%】週四（6月11日）紐約尾盤，彭博穀物分類指數跌0.75%，報29.3301點，美國農業部（USDA）在北京時間00:00釋出農作物庫存月報時重新整理日高至29.5982點，隨後快速下挫（打亂日內稍早大致持平的狀態）、01:39重新整理日低至29.1912點。CBOT玉米期貨跌1.73%，報4.39美元/蒲式耳。CBOT小麥期貨跌0.21%，報5.8625美元/蒲式耳，00:01曾拉昇至5.9375美元重新整理日高。CBOT大豆期貨跌0.37%，報11.3425美元/蒲式耳，00:00小幅上揚、試圖收復11.40美元，隨後呈現出一波V形走勢；豆粕期貨跌0.26%，豆油期貨跌1.17%。CBOT瘦肉豬期貨漲0.39%，活牛期貨漲0.47%，飼牛期貨漲1.45%。ICE原糖期貨跌0.79%，ICE白糖期貨漲0.54%。ICE阿拉比卡咖啡期貨漲2.66%，咖啡“C”期貨漲2.66%。羅布斯塔咖啡期貨漲3.31%。紐約可可期貨跌0.96%，報3805美元/噸。倫敦可可期貨跌0.40%。芝加哥WCE雙低油菜籽期貨跌0.10%。ICE棉花期貨漲1.31%。
-
----
-
-### 2026-06-12 03:08:42  #公司 #其他 #焦點 #國際
-
-SpaceX註冊宣告於 6 月 11 日正式生效。
-
----
-
-### 2026-06-12 03:07:58  #國際
-
-卡達埃米爾與特朗普覆盤美伊磋商成果，雙方在談判議題的相關諒解事項上取得進展。
-
----
-
-### 2026-06-12 03:05:34  #MKT News #Market Themes #The Trump Trade
-
-Qatar's emir spoke by phone with US President Trump.
-
----
-
-### 2026-06-12 03:05:14  #國際
-
-卡達埃米爾與特朗普通電話。
-
----
-
-### 2026-06-12 03:04:56  #MKT News
-
-NZD/USD rose 0.50% intraday to 0.5824.
-
----
-
-### 2026-06-12 03:04:35  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7720元，較週三夜盤收盤漲18點。成交量327.61億美元。
-
----
-
-### 2026-06-12 03:03:24  #市場 #央行 #國際
-
-美聯儲公佈6月至7月國債購買計劃。
-
----
-
-### 2026-06-12 03:02:53  #MKT News
-
-India notified that orders covering petrol and high-speed diesel will be effective for up to 90 days.
 
 ---

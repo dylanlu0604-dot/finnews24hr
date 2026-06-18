@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-19 03:01:19_
-_本檔包含 3527 則快訊，約 708974 字_
+_更新時間：2026-06-19 03:24:47_
+_本檔包含 3521 則快訊，約 708342 字_
+
+---
+
+### 2026-06-18 02:21:10  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+【Warsh influence emerging; Fed statements shift toward pre-global financial crisis lower-transparency phrasing】Analysts say Kevin Warsh's influence is apparent in the latest Fed statement, with wording moving closer to the lower-transparency style used before the global financial crisis. They caution that reduced communication may damp short-term daily market volatility but could trigger larger, jumpy market moves if the Fed's policy reaction function or incoming economic data deviate from expectations.
+
+---
+
+### 2026-06-18 02:20:54  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+Michelle, head of global fixed income at JP Morgan, said she sees a possibility of two rate hikes this year.
+
+---
+
+### 2026-06-18 02:20:48  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Short-term interest-rate futures currently price a higher probability of a Fed rate hike in September than of holding policy unchanged.
+
+---
+
+### 2026-06-18 02:20:27  #市場 #央行 #國際
+
+短期利率期貨當前定價顯示，美聯儲 9 月加息的機率高於維持利率不變的機率。
+
+---
+
+### 2026-06-18 02:20:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+Federal Reserve Chairman Kevin Warsh will hold a monetary policy press conference in 10 minutes.
+
+---
+
+### 2026-06-18 02:20:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 2.38% — Top commodity losers are Platinum (-2.38%), Iron Ore CNY (-1.90%), Steel Rebar (-1.12%) and Gold (-0.56%).
+
+---
+
+### 2026-06-18 02:19:41  #國際
+
+【伊朗外交部稱伊方前往瑞士會談的計劃未變】當地時間17日，總檯記者獲悉，伊朗外交部發言人巴加埃表示，截至目前，伊朗前往瑞士會談的計劃沒有變化。關於諒解備忘錄的簽署方式，其中一個設想是由伊朗和美國兩國總統出面簽署，目前該方案仍在審議之中。瑞士外交部此前表示，美伊諒解備忘錄的簽署儀式將於19日在瑞士比爾根山度假村舉行。有訊息稱，美國副總統萬斯和伊朗議會議長卡利巴夫預計將出席簽字儀式。（央視新聞）
+
+---
+
+### 2026-06-18 02:18:55  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+【Fed adds wording on strong productivity and capital investment, echoing Warsh on AI investment boom】Analysts said the Fed inserted new language in its rate-decision statement noting productivity growth and capital investment remain strong. The wording mirrors Fed chair Kevin Warsh’s emphasis on an AI investment boom; Warsh and some in the Trump camp argue AI-related investment could, over time, reduce inflationary pressures.
 
 ---
 
@@ -21232,89 +21280,5 @@ Israeli public broadcaster reported that a senior UAE security official secretly
 ### 2026-06-17 02:20:18  #Trading Economics #Markets #Commodity #Importance 1
 
 Metals Commodities Updates: Platinum Gains by 2.81% — Top commodity gainers are Platinum (2.81%) and Gold (0.70%). Biggest losers are Iron Ore CNY (-1.23%), Lithium Carbonate (-0.88%) and Steel Rebar (-0.76%).
-
----
-
-### 2026-06-17 02:17:26  #國際
-
-卡達埃米爾表示，與特朗普討論了加強合作的方式。
-
----
-
-### 2026-06-17 02:15:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Crude Oil WTI Slumps by 6.21% — Top commodity losers are Crude Oil WTI (-6.21%), Brent Crude Oil (-5.32%) and Heating Oil (-3.06%). Gains are led by Natural gas (2.46%).
-
----
-
-### 2026-06-17 02:14:54  #MKT News
-
-【Iran central bank governor says Iran‑US MOU obliges US to unfreeze Iranian assets】Iran central bank governor Abdolnaser Hemmati said on the 16th (local time) that the Iran‑US memorandum of understanding explicitly obliges the United States to unfreeze Iranian assets. He said the MOU’s clauses were drafted with reference to past cases to build enforceable mechanisms that ensure secure access and use of funds, and that the US will be required to meet its commitments. Hemmati added that once the MOU is signed and implemented, technical and banking‑level checks will be carried out to verify assets are genuinely unfrozen and usable.
-
----
-
-### 2026-06-17 02:14:06  #MKT News #Market Regions #Emerging Markets
-
-【Equatorial Guinea government resigns after failing to meet policy goals】On 16 June local time Vice‑President Teodoro Obiang Mangue announced the government has formally resigned, citing failure to meet established policy objectives. No new cabinet list or formation timetable has been released.
-
----
-
-### 2026-06-17 02:12:41  #MKT News
-
-Iran's foreign minister said negotiations will continue for 60 days after the first phase to reach a final agreement covering nuclear issues and sanctions relief.
-
----
-
-### 2026-06-17 02:12:14  #焦點 #國際
-
-伊朗外交部長：第一階段談判結束後，各方將繼續展開為期60天的談判，以達成最終協議，協議內容將涵蓋核問題以及解除制裁。
-
----
-
-### 2026-06-17 02:11:24  #國際
-
-伊朗外交部長表示，美國與伊朗的談判將在雙方簽署諒解備忘錄的當日啟動。
-
----
-
-### 2026-06-17 02:11:24  #MKT News #Important
-
-Iran's foreign minister said negotiations with the United States will begin on the day the two countries sign a memorandum of understanding.
-
----
-
-### 2026-06-17 02:08:20  #國際
-
-烏克蘭空軍通報： 一架蘇-24M戰鬥轟炸機墜毀，兩名飛行員全部遇難。
-
----
-
-### 2026-06-17 02:07:50  #公司
-
-谷歌：今日起向符合條件的Pixel Watch推送Wear OS 7，該版本將為全天日常使用提供可靠平臺。
-
----
-
-### 2026-06-17 02:07:48  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google begins rolling out Wear OS 7 to eligible Pixel Watch devices today; the update is intended to provide a reliable platform for all‑day everyday use.
-
----
-
-### 2026-06-17 02:06:29  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google says its US digital health fund has increased to over $50 mln.
-
----
-
-### 2026-06-17 02:06:05  #MKT News #GOOGL.O
-
-Google will extend Android parental-control features to all devices upgraded to Android 17.
-
----
-
-### 2026-06-17 02:05:02  #MKT News
-
-【US cargo Dragon undocks from ISS, returns to Earth】SpaceX’s cargo Dragon undocked from the International Space Station on the 16th at 12:25 US Eastern Time (00:25 Beijing, 17th), carrying scientific experiment samples and supplies for return. It is scheduled to splash down off the coast of California at 05:08 US Pacific Time on the 17th (20:08 Beijing).
 
 ---

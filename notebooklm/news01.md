@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-19 03:01:19_
-_本檔包含 3890 則快訊，約 709111 字_
+_更新時間：2026-06-19 03:24:47_
+_本檔包含 3900 則快訊，約 708510 字_
+
+---
+
+### 2026-06-19 03:24:16  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7728元，較週三夜盤收盤跌98點。成交量442.19億美元。
+
+---
+
+### 2026-06-19 03:09:25  #市場 #焦點
+
+紐約期銀失守66美元/盎司，日內跌7.43%。
+
+---
+
+### 2026-06-19 03:08:28  #其他
+
+【幾乎所有在荷蘭隔離的“洪迪厄斯”號郵輪人員已獲准回家】當地時間18日，世衛組織總幹事譚德塞在社交媒體上表示，幾乎所有在荷蘭隔離的“洪迪厄斯”號郵輪的乘客和船員現在都被允許返回家園，包括非荷蘭國籍的居民。（央視）
+
+---
+
+### 2026-06-19 03:08:07  #其他
+
+世界銀行：已批准 16 億美元融資方案，用於東非區域輸電、貿易及脫碳發展計劃。
+
+---
+
+### 2026-06-19 03:08:07  #MKT News
+
+ICI: money market fund assets rose to a record $7.919 trillion.
+
+---
+
+### 2026-06-19 03:07:41  #MKT News
+
+OpenAI announced ChatGPT Enterprise administrators can, effective immediately, access new analytics features and updated spending controls.
+
+---
+
+### 2026-06-19 03:07:03  #其他
+
+OpenAI：推出 ChatGPT 企業版額度使用分析功能及新版支出管控工具。
+
+---
+
+### 2026-06-19 03:06:23  #市場 #焦點
+
+現貨黃金失守4210美元/盎司，日內跌1.15%。
+
+---
+
+### 2026-06-19 03:06:07  #公司 #國際
+
+美國投資公司協會資料顯示，貨幣市場基金規模增至創紀錄的 7.919 萬億美元。
+
+---
+
+### 2026-06-19 03:06:06  #市場 #焦點
+
+紐約期金失守4230美元/盎司，日內跌3.46%。
+
+---
+
+### 2026-06-19 03:03:51  #MKT News #Macro & Rates #DXY #Impact bullish #XAUUSD #Impact bearish #USDJPY
+
+US dollar index (DXY) rose over 0.50% intraday to 100.89.
+
+---
+
+### 2026-06-19 03:03:41  #MKT News #GBPUSD #Impact bearish
+
+GBP/USD slid to 1.32, its lowest since April 6, down 0.71% intraday.
+
+---
+
+### 2026-06-19 03:02:20  #MKT News
+
+Argentina's statistics bureau reported a May trade surplus of $3.504 billion, versus a Refinitiv survey expectation of $2.2 billion.
+
+---
+
+### 2026-06-19 03:01:10  #市場
+
+紐約期銀日內跌7%，現報66.31美元/盎司。
+
+---
+
+### 2026-06-19 03:00:59  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures night session closed down 0.19% at 23,846, trading 79 points below the cash index.
+
+---
+
+### 2026-06-19 03:00:37  #國際
+
+美國農業部資料顯示，5月美國活牛出欄量完成原定計劃的88.0%（市場預期為89.4%）。
+
+---
+
+### 2026-06-19 03:00:28  #國際
+
+美國農業部（USDA）資料顯示，截至6月1日，美國飼餵牛存欄量為去年同期的102.0%，市場預估值為102.5%。
+
+---
+
+### 2026-06-19 03:00:23  #國際
+
+美國農業部稱，美國飼養場牛數量較上年同期增長2.1%。
 
 ---
 
@@ -23482,53 +23590,5 @@ Deutsche Bank US chief economist Luzzetti said the Fed is operating within the e
 5、美聯儲精簡了政策宣告，刪除有關可能進一步調整利率的措辭，並宣告“委員會將實現物價穩定”。
 6、美聯儲表示，“儘管存在因中東衝突等因素引起的高度不確定性，但經濟活動仍以穩健步伐擴張”，“生產率增長和資本投資表現強勁”。
 7、美聯儲表示，就業增長“與勞動力增長保持同步，失業率變化不大”；通脹依然高企，“部分反映了導致能源等行業價格上漲的供應衝擊”。
-
----
-
-### 2026-06-18 02:21:10  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-【Warsh influence emerging; Fed statements shift toward pre-global financial crisis lower-transparency phrasing】Analysts say Kevin Warsh's influence is apparent in the latest Fed statement, with wording moving closer to the lower-transparency style used before the global financial crisis. They caution that reduced communication may damp short-term daily market volatility but could trigger larger, jumpy market moves if the Fed's policy reaction function or incoming economic data deviate from expectations.
-
----
-
-### 2026-06-18 02:20:54  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-Michelle, head of global fixed income at JP Morgan, said she sees a possibility of two rate hikes this year.
-
----
-
-### 2026-06-18 02:20:48  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Short-term interest-rate futures currently price a higher probability of a Fed rate hike in September than of holding policy unchanged.
-
----
-
-### 2026-06-18 02:20:27  #市場 #央行 #國際
-
-短期利率期貨當前定價顯示，美聯儲 9 月加息的機率高於維持利率不變的機率。
-
----
-
-### 2026-06-18 02:20:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-Federal Reserve Chairman Kevin Warsh will hold a monetary policy press conference in 10 minutes.
-
----
-
-### 2026-06-18 02:20:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 2.38% — Top commodity losers are Platinum (-2.38%), Iron Ore CNY (-1.90%), Steel Rebar (-1.12%) and Gold (-0.56%).
-
----
-
-### 2026-06-18 02:19:41  #國際
-
-【伊朗外交部稱伊方前往瑞士會談的計劃未變】當地時間17日，總檯記者獲悉，伊朗外交部發言人巴加埃表示，截至目前，伊朗前往瑞士會談的計劃沒有變化。關於諒解備忘錄的簽署方式，其中一個設想是由伊朗和美國兩國總統出面簽署，目前該方案仍在審議之中。瑞士外交部此前表示，美伊諒解備忘錄的簽署儀式將於19日在瑞士比爾根山度假村舉行。有訊息稱，美國副總統萬斯和伊朗議會議長卡利巴夫預計將出席簽字儀式。（央視新聞）
-
----
-
-### 2026-06-18 02:18:55  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-【Fed adds wording on strong productivity and capital investment, echoing Warsh on AI investment boom】Analysts said the Fed inserted new language in its rate-decision statement noting productivity growth and capital investment remain strong. The wording mirrors Fed chair Kevin Warsh’s emphasis on an AI investment boom; Warsh and some in the Trump camp argue AI-related investment could, over time, reduce inflationary pressures.
 
 ---
