@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-19 04:53:37",
-  "count": 18966,
+  "updated": "2026-06-19 04:57:37",
+  "count": 18968,
   "items": [
+    {
+      "id": "4944307",
+      "time": "2026-06-19 04:56:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：基準情景預測，伊美諒解備忘錄將推動資金流動持續迴歸常態，未來 6 至 12 個月油價呈下行趨勢，到 2027 年一季度跌至每桶 60 至 65 美元。"
+    },
+    {
+      "id": "mkt:019edc84-d45d-7dd8-b088-6061eb47d401",
+      "time": "2026-06-19 04:55:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Citigroup's base case expects that, under an Iran–US memorandum of understanding, financial flows will continue to normalize and oil prices will trend lower over the next 6–12 months, reaching $60–65/bbl before Q1 2027."
+    },
+    {
+      "id": "4944306",
+      "time": "2026-06-19 04:54:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【標普授予SpaceX“BBB”信用評級】標普全球評級授予太空探索技術公司（SpaceX）“BBB”發行人信用評級，展望穩定，理由是其發射和互聯業務表現穩健，但被巨大的資本需求以及人工智慧業務的不確定性所沖銷。標普預計SpaceX到2029年將把調整後槓桿率維持在2.0倍以下。標普表示：“我們預計槓桿率將在2028年達峰，標普全球評級調整後的槓桿率將達到1.2倍，但此後隨著公司擴大互聯業務的收入和盈利能力並開始將人工智慧業務變現，槓桿率將逐年改善”。"
+    },
+    {
+      "id": "4944305",
+      "time": "2026-06-19 04:53:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "明晟（MSCI）：韓國仍缺乏可全額交割的離岸外匯市場，且在岸外匯市場長期存在各類交易限制。"
+    },
     {
       "id": "mkt:019edc81-44d5-7dd8-b088-5be63d3430ba",
       "time": "2026-06-19 04:51:59",
@@ -174526,26 +174563,6 @@
         "市場"
       ],
       "text": "【現貨黃金漲超3.4%，白銀漲6%，紐約銅漲約3.1%】週四（6月11日）紐約尾盤，現貨黃金漲3.44%，報4212.34美元/盎司，北京時間01:38之前大致持穩——交投於4070美元附近，隨後快速拉昇至4169美元上方、03:36重新整理日高至4220.09美元。COMEX黃金期貨漲2.38%，報4231.90美元/盎司，絕大部分時間維持微幅下跌狀態——持穩於4100美元附近，01:38迅速拉昇；亞太盤初曾跌至4046.20美元，逼近2025年10月28日盤中最低位4021.40美元。現貨白銀漲6.03%，報67.1837美元/盎司，走勢與倫敦金相仿，03:42重新整理日高至67.5590美元。COMEX白銀期貨漲5.85%，報67.255美元/盎司，日內大部分時間持穩於64美元附近。COMEX銅期貨漲3.07%，報6.3870美元/磅，日內過半交易時間微幅上漲——持穩於6.25美元附近，01:28短線拉昇，在美股收盤之前一度突破6.40美元關口。現貨鉑金漲3.27%，報1719.67美元/盎司，走勢與現貨金銀類似；現貨鈀金漲4.59%，報1273累1美元/盎司，亞太盤初微跌、07:19重新整理日低至1210.09美元，08:15轉漲——日內大部分時間窄幅交投於1250美元附近，也在01:28出現一波短線加速上漲行情，03:30重新整理日高至1287.20美元。"
-    },
-    {
-      "id": "mkt:019eb878-7b4b-7dd8-afcb-c2d295624f4e",
-      "time": "2026-06-12 04:56:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign ministry says no final conclusion yet on Iran-US agreement】Iranian foreign ministry spokesman Baghaei said on the 11th that proposals in the Iran-US agreement are speculative and Iran has not reached a final conclusion. He said US actions have made the Strait of Hormuz less secure; Qatar and Pakistan are actively mediating but US moves have affected the diplomatic process. Baghaei said Tehran has been clear on negotiation progress, that most of the draft text is complete, the US keeps changing its position, and Iran will not compromise on matters it has designated as \"red lines\"."
-    },
-    {
-      "id": "4931255",
-      "time": "2026-06-12 04:55:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：尚未就伊美協議達成最終結論】伊朗外交部發言人巴加埃當地時間11日表示，關於美伊協議提出的事項都是猜測。到目前為止，伊朗尚未就協議達成最終結論。巴加埃還稱，由於美國的行動，霍爾木茲海峽的局勢更加不安全。巴加埃還表示，卡達和巴基斯坦正積極發揮調解作用，但美國的行動影響了外交程序。他稱，伊朗方面從一開始就清楚談判的進展狀況，協議文字的大部分內容已經完成，但美國方面不斷改變其立場。伊朗已證明，對於其劃定為“紅線”的問題，伊方絕不會作出妥協。美國總統特朗普早些時候稱，據他了解，伊朗最高領袖已同意美伊協議，伊朗各方均已批准該協議。（央視新聞）"
     }
   ]
 }
