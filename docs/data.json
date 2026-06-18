@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-18 22:31:36",
-  "count": 18962,
+  "updated": "2026-06-18 22:35:53",
+  "count": 18965,
   "items": [
+    {
+      "id": "mkt:019edb27-c251-7dd8-b081-303baa61970e",
+      "time": "2026-06-18 22:34:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli broadcaster Kan News reported U.S. President Trump said of Netanyahu, \"We have a good relationship, but he needs to be more rational.\""
+    },
+    {
+      "id": "4943799",
+      "time": "2026-06-18 22:34:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將6月19日盧布官方匯率定為1美元兌73.3591盧布（前值為72.7479）。"
+    },
+    {
+      "id": "4943798",
+      "time": "2026-06-18 22:34:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【汽輪科技：連雲港燃機示範專案預計於2026年內完成自主燃機的訂單交貨】汽輪科技近日接受機構調研時表示，公司於2014年組建團隊啟動自主燃機研製。2019年完成數字樣機設計，2020年至2023年先後完成渦輪、燃燒室和壓氣機實驗，以及燃燒室加氫試驗。2024年7月完成樣機整機組裝。2025年先後完成點火試驗和滿負荷試驗。公司於2026年5月完成72+24小時滿負荷連續執行試驗，標誌著公司自主燃機已具備商業化投運條件。後續，公司將繼續推進極限條件測試等試驗。2026年5月下屬子公司杭州汽輪新能源有限公司中標了連雲港自主燃機試驗和應用示範基地一期專案EPC工程。根據當前進展，連雲港燃機示範專案預計於2026年內完成自主燃機的訂單交貨。"
+    },
+    {
+      "id": "te:economy:560134",
+      "time": "2026-06-18 22:33:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Edges Up After BCB and Fed Meetings — Brazil’s 10-year government bond yield edged up to 14.4% in June after the latest interest rate decisions by Brazil’s central bank and the US Federal Reserve. The Monetary Policy Committee cut the Selic rate by 0.25 percentage points to 14.25% per year but signaled a longer timeline to bring inflation back to target, leaving its next steps open as it evaluates alternative interest rate paths. The Federal Reserve kept rates unchanged, but its projections were viewed as more hawkish than expected, with roughly half of Federal Open Market Committee members anticipating at least one rate hike this year. Upward pressure on yields was partially offset by lower oil prices after the US-Iran agreement aimed at ending the conflict and reopening the Strait of Hormuz. Oil prices fell to their lowest levels since the conflict began, easing energy-driven inflation concerns."
+    },
+    {
+      "id": "4943797",
+      "time": "2026-06-18 22:33:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國最高法院將於6月23日（週二）釋出下一批裁決意見。目前法院仍有約16項裁決待發布，其中包括涉及出生地公民權、移民保護措施、郵寄投票以及聯邦官員罷免權等爭議的案件。"
+    },
+    {
+      "id": "mkt:019edb26-5595-7dd8-b081-2a80ca44fc23",
+      "time": "2026-06-18 22:33:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Supreme Court to release next set of opinions on June 23 (Tuesday). About 16 opinions remain pending, including cases on birthright citizenship, immigration protections, mail-in voting and the authority to remove federal officers."
+    },
+    {
+      "id": "4943796",
+      "time": "2026-06-18 22:32:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟計劃重新審視銀行業獎金與市場風險監管規則】根據一份預計將於下月公佈的提案草案，歐盟有望承諾重新審視其銀行業監管規則手冊中一些最具爭議的方面，包括對待未評級企業的方式、市場風險，以及相關的薪酬規定。歐盟計劃草案顯示，歐盟委員會將承諾採取一系列措施，包括：調查“現行薪酬規則的有效性及其對歐盟銀行業的影響”；提議修訂“銀行軟體資產投資的審慎處理方式，以確保該框架在審慎上穩健、與數字和網路風險環境相一致，併為銀行投資創新和數字韌性提供正確的激勵”。作為此次審查的一部分，銀行業提交了長達數千頁的訴求，呼籲進行重大改革。"
+    },
+    {
+      "id": "4943795",
+      "time": "2026-06-18 22:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交秘書：印美貿易協定將是特朗普與莫迪會談的核心議題。"
+    },
+    {
+      "id": "4943794",
+      "time": "2026-06-18 22:32:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨在能源資訊署公佈庫存增幅符合預期後，延續漲勢，上漲0.4%。"
+    },
+    {
+      "id": "4943793",
+      "time": "2026-06-18 22:31:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什希望美聯儲減少釋放訊號 但這可能加劇市場波動】分析師Colby Smith撰文指出，美聯儲主席沃什對未來利率路徑的看法守口如瓶，幾乎沒有提供任何明確指引。沃什的做法為美聯儲下一步行動保留了相當大的靈活性，但這也增加了一個風險：美聯儲主席可能無法牢牢掌控市場對於經濟走勢或央行政策反應的敘事方向，導致市場出現誤解，而誤解隨後又需要被澄清，從而加劇市場波動。巴克萊銀行美國首席經濟學家Marc Giannoni表示：“當你什麼都不說時，實際上就是把更多主動權交給市場。最終，他可能會對市場對於未來的判斷感到沮喪。”沃什的偏好似乎並不被其他同事共享。12家地區聯儲主席以及華盛頓聯邦儲備委員會委員仍會經常公開談論經濟前景以及在特定情況下政策可能如何變化。紐約梅隆投資管理高管Vincent Reinhart表示：“核心問題在於，持不同觀點的人會填補這一真空。”Reinhart預計，最活躍發聲的人將是那些支援加息的人，而這一陣營近幾個月顯著擴大。"
+    },
+    {
+      "id": "4943792",
+      "time": "2026-06-18 22:30:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美解除中國玩具無人機進口禁令】美國聯邦通訊委員會（FCC）16日宣佈，將允許符合特定技術規格的中國新型玩具無人機進入美國市場銷售。據路透社報道，FCC在去年12月以“對美國國家安全構成不可接受的風險”為由，禁止所有新型外國無人機及其關鍵零元件進口，包括來自中國大疆創新和道通智慧的產品。然而，美國防部認為，“技術含量低、風險可控的玩具類”產品不構成國家安全威脅。根據該部門的調查結果，這類無人機在飛行距離、續航能力、感測功能、載荷能力、連線性及資料採集儲存等方面，均不具備傳統無人機的“內建功能與特性”。FCC對玩具無人機的認定設有嚴格限制，包括重量不得超過150克，操作必須在視線範圍內且距離不超過100米，無聯機或網路功能，不得配備攝像頭或任何具備監控、資料採集能力的感測器，單次最長飛行時間不得超過10分鐘。凡超出此範疇的機型，仍將受制於原有禁令。（環球網）"
+    },
     {
       "id": "4943791",
       "time": "2026-06-18 22:30:38",
@@ -174669,82 +174764,6 @@
         "其他"
       ],
       "text": "【長城坦克5月銷量大跌18%，硬派越野賽道變天】曾經佔據越野車市場半壁江山的坦克品牌正遭遇銷量挑戰。 長城汽車近日釋出的銷量資料顯示，坦克5月銷量為1.7萬輛，同比大幅下滑18.3%；2026年1-5月坦克累計銷量7.7萬輛，同比下滑6.3%。在國內零售銷量上，坦克5月資料為1.1萬輛，較去年同期的1.6萬輛下滑超三成。今年5月，同在越野車賽道的方程豹國內零售銷量達2.6萬輛，已經是坦克國內零售量的2.36倍。 在越野車領域，此前多年，合資品牌佔據主要市場份額，產品較為高階，而由於法規政策等因素限制，合資越野車一度淡出大眾視野，在新能源和智慧化加持下，自主品牌越野車迎來發展機遇。2020年，長城推出坦克300車型，在保證越野效能並降低了價格門檻後，該車迅速受到市場熱捧，一度出現供不應求的情況。彼時行業內幾乎沒有能夠與之抗衡的競品，2022年依託坦克300這款現象級車型（年銷10.2萬輛），坦克幾乎佔據細分市場半壁江山。憑藉差異化的硬派定位，坦克的出現在一定程度上啟用了沉寂多年的越野市場，隨後多家國內車企開始加速佈局硬派越野車市場。（一財）"
-    },
-    {
-      "id": "mkt:019eb71c-2175-7dd8-afc4-92079ea576d2",
-      "time": "2026-06-11 22:35:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. House rejected Trump's short-term extension of the Foreign Intelligence Surveillance Act (FISA)."
-    },
-    {
-      "id": "mkt:019eb71a-3462-7dd8-afc4-8cea71ec914b",
-      "time": "2026-06-11 22:33:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Bezos downplays AI job‑loss fears as he launches engineer‑productivity AI project】Amazon founder Bezos said he expects AI will produce \"a labor shortage in the economy,\" rejecting fears that fast‑developing AI will simply replace human jobs. He is launching a project to boost engineer productivity and is co‑leading a new AI firm, Prometheus, which aims to build a \"general AI engineer\" capable of designing and manufacturing complex physical products such as jet engines. Bezos said the goal is to \"empower engineers, making invention simpler and faster so smaller teams can complete larger projects in shorter timeframes,\" and that while AI will reduce labor demand for some existing roles it will also create jobs and raise productivity; he added some youth pessimism about AI is \"contrary to reality.\""
-    },
-    {
-      "id": "4930862",
-      "time": "2026-06-11 22:33:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將Navan目標價從每股18.00美元上調至26.00美元，維持對Navan的買入評級。"
-    },
-    {
-      "id": "4930861",
-      "time": "2026-06-11 22:32:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【利亞德：在墨西哥舉辦的世界盃賽事中，公司為體育場提供了LED顯示系統解決方案】利亞德6月11日在互動平臺表示，在近期於墨西哥舉辦的世界盃賽事中，公司為墨西哥城阿茲特克體育場提供了總面積超過2200平方米的LED顯示系統解決方案。該專案採用了全方位的顯示佈局，包括南北主大屏、內弧環繞屏、外圍大屏以及巨型立柱屏等多個顯示單元。"
-    },
-    {
-      "id": "4930860",
-      "time": "2026-06-11 22:31:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署(EIA)公佈天然氣庫存增幅超預期後，美國天然氣期貨延續跌勢，下跌3.1%。"
-    },
-    {
-      "id": "mkt:019eb718-c864-7dd8-afc4-84bd41bf80fc",
-      "time": "2026-06-11 22:31:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Bezos, founder of Amazon (AMZN.O), said the New Glenn launch site is being rebuilt and the rocket will fly again before year-end."
-    },
-    {
-      "id": "te:markets:558417",
-      "time": "2026-06-11 22:31:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises on Retail Gains — The S&P/TSX Composite Index gained 1% to trade near 34,500 on Thursday, led by strong gains in the retail sector. Dollarama surged nearly 9% after reporting quarterly sales and profit that topped expectations. The retailer posted net sales of C$1.85 billion in the first quarter, above forecasts of C$1.82 billion, while earnings came in at C$1.05 per share, exceeding expectations of C$0.99. Peers Loblaw (+1%) and Alimentation Couche-Tard (+2%) also advanced. Meanwhile, US President Trump said Washington would strike Iran again and increased pressure on Tehran to reach a deal. Despite the renewed rhetoric, oil prices declined, pushing bond yields lower and easing concerns over energy-driven inflation. Major banks moved higher, with RBC and TD Bank gaining more than 1%. Mining stocks also advanced as gold prices edged up, with Barrick adding 1.5%. Energy shares gained on uncertainty surrounding the normalization of oil supplies, with Imperial Oil rising nearly 2%."
-    },
-    {
-      "id": "4930859",
-      "time": "2026-06-11 22:31:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜創始人貝佐斯：我們（藍色起源）正重建新的Glenn發射場地，將在2026年年底之前再次發射。"
     }
   ]
 }
