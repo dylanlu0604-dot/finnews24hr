@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-18 23:55:20",
-  "count": 19031,
+  "updated": "2026-06-18 23:59:35",
+  "count": 19036,
   "items": [
+    {
+      "id": "4943963",
+      "time": "2026-06-18 23:58:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【張柱會見德國聯邦農業、食品和國土部部長阿洛伊斯·賴納】6月18日，農業農村部部長張柱在京會見德國聯邦農業、食品和國土部部長阿洛伊斯·賴納一行。張柱表示，在雙方領導人的戰略引領下，中德農業務實合作穩步向前，農業政策、農業科技和農產品貿易等領域交流合作不斷深化，成果豐碩。中方願與德方一道，秉持開放發展、互利共贏理念，加強機制交流，充分發揮中德農業中心作用，深化農業科技交流，推進農業各領域合作走深走實，不斷取得新成果，為中德全方位戰略伙伴關係發展作出更大貢獻。賴納表示，德方高度重視對華農業合作，願與中方加強對話溝通，深化農業科技、農產品貿易和動物疫病防控等領域交流合作。"
+    },
+    {
+      "id": "mkt:019edb74-96ad-7dd8-b084-5dcb25ac745f",
+      "time": "2026-06-18 23:58:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhang Zhu meets Germany's federal agriculture minister Alois Reiner】June 18, Beijing — China's Minister of Agriculture and Rural Affairs Zhang Zhu met Germany's Federal Minister of Agriculture and Food Alois Reiner. Zhang said China is willing to strengthen institutional exchanges and deepen cooperation with Germany on agricultural policy, agri‑technology and farm‑product trade to advance practical cooperation; Reiner said Germany attaches high priority to agricultural ties with China and is willing to deepen dialogue and cooperation on agri‑technology, farm trade and animal‑disease prevention."
+    },
+    {
+      "id": "4943962",
+      "time": "2026-06-18 23:58:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：如果伊朗試圖資助恐怖組織，我們走著瞧。"
+    },
+    {
+      "id": "mkt:019edb74-038d-7dd8-b084-5763d103ddf1",
+      "time": "2026-06-18 23:57:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Politico reports the White House has submitted to Congress a \"memorandum of understanding\" aimed at pausing Iranian hostile actions."
+    },
+    {
+      "id": "4943961",
+      "time": "2026-06-18 23:56:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮已向國會遞交伊朗相關協議檔案。"
+    },
+    {
+      "id": "4943960",
+      "time": "2026-06-18 23:56:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：伊朗方面表示要等到週五才會對外公佈協議文字。"
+    },
+    {
+      "id": "mkt:019edb72-abb1-7dd8-b084-4da8409ddf3a",
+      "time": "2026-06-18 23:56:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said he does not believe the administration's public messaging has been confused."
+    },
+    {
+      "id": "4943959",
+      "time": "2026-06-18 23:55:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：我們於週日簽署了這份諒解備忘錄。"
+    },
+    {
+      "id": "4943958",
+      "time": "2026-06-18 23:55:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯：計劃“很快”向國會正式通報美伊備忘錄】美國副總統萬斯表示，針對這份與伊朗簽署的諒解備忘錄，特朗普政府計劃 “很快” 向國會議員開展正式通報，目前兩黨議員都在紛紛批評該協議。萬斯在白宮新聞釋出廳對記者稱：“我們確實打算很快向國會進行通報。” 他補充道，議員今日有望收到 “這份已簽署檔案的正式文字”。他還表示：“我們會安排相關團隊向國會作通報，當然也會答覆議員們提出的各類疑問。”萬斯稱，過去一週政府已與部分國會議員進行非正式溝通，後續也會持續開展相關交流；而正式通報的具體時間，將根據國會的議事日程儘快敲定。"
+    },
+    {
+      "id": "mkt:019edb71-b78b-7dd8-b084-475c38732281",
+      "time": "2026-06-18 23:55:23",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said Iran has pledged to destroy its stockpile of highly enriched uranium."
+    },
+    {
+      "id": "te:markets:560146",
+      "time": "2026-06-18 23:54:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Hits 14-month Low — The Canadian Dollar touched 1.41 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Canadian Dollar gained 2.88%, and in the last 12 months, it increased 3.22%."
+    },
     {
       "id": "4943957",
       "time": "2026-06-18 23:54:25",
@@ -175262,57 +175366,6 @@
         "公司"
       ],
       "text": "市場訊息：沙特王儲將缺席七國集團（G7）領導人峰會。"
-    },
-    {
-      "id": "4930962",
-      "time": "2026-06-11 23:58:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所 6 月柴油期貨結算價為每噸 1039.50 美元。"
-    },
-    {
-      "id": "4930961",
-      "time": "2026-06-11 23:58:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【資深空頭Chanos稱SpaceX IPO靠“希望與夢想”撐起 估值難言合理】資深做空投資者James Chanos表示，SpaceX備受矚目的上市更多是由投資者對埃隆·馬斯克和人工智慧的熱情推動，而非財務基本面。他認為，難以根據任何合理的商業假設來證明公司估值的合理性。這位Chanos & Co.的創始人在SpaceX備受矚目的IPO前夕表示，在投資者將資金投入投機性增長敘事之際，這筆交易是對市場情緒的一項關鍵考驗。Chanos在紐約舉行的iConnections Global Alts會議上表示，“我們將看到一宗750億美元IPO，對應估值接近2萬億美元，而這家公司的營收為190億美元，自由現金流為負。這確實是一宗靠希望與夢想撐起的IPO。”這場會議匯聚了逾2,500名機構資產配置者和基金經理。Chanos將SpaceX享有的溢價與投資者給予特斯拉的溢價作比較。特斯拉的市值長期受到自動駕駛、機器人和人工智慧相關期望的支撐。但他認為，SpaceX的估值倍數要高得多。他說，“特斯拉基於未來承諾的估值約為營收的14倍。而SpaceX的估值約為營收的90倍，這完全是另一碼事。”儘管Chanos沒有明確表示會立即做空該股，但他對IPO價格表示懷疑。他說，Chanos將SpaceX享有的溢價與投資者給予特斯拉的溢價作比較。特斯拉的市值長期受到自動駕駛、機器人和人工智慧相關期望的支撐。但他認為，SpaceX的估值倍數要高得多。"
-    },
-    {
-      "id": "4930960",
-      "time": "2026-06-11 23:57:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國國防部事件因誤報引發。"
-    },
-    {
-      "id": "mkt:019eb766-af5f-7dd8-afc6-43f012af853e",
-      "time": "2026-06-11 23:57:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CNN reported the Pentagon incident was triggered by a false alarm."
-    },
-    {
-      "id": "4930959",
-      "time": "2026-06-11 23:56:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "義大利副總理Antonio Tajani批評歐洲央行的加息決定，稱那樣做“對誰都沒有好處”。"
-    },
-    {
-      "id": "4930958",
-      "time": "2026-06-11 23:55:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【世界銀行下調2026年全球經濟增長預期】世界銀行11日釋出最新一期《全球經濟展望》報告，將2026年全球經濟增長預期從1月預測的2.6%下調至2.5%，並警告可能面臨進一步下行風險。報告說，全球經濟正面臨重大沖擊，伊朗戰事已導致能源價格大幅上漲，帶來新的通脹壓力並強化收緊貨幣政策預期。隨著依賴能源進口和受衝突直接影響經濟體增長前景轉弱，今年全球經濟增長將低於2025年的2.9%，放緩至新冠疫情以來最低水平。（新華社）"
     }
   ]
 }
