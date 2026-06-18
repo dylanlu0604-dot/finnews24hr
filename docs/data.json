@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-18 13:47:01",
-  "count": 18825,
+  "updated": "2026-06-18 13:51:06",
+  "count": 18834,
   "items": [
+    {
+      "id": "4942537",
+      "time": "2026-06-18 13:50:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "巴克萊預期，美聯儲將在2027年維持利率不變，此前該行曾預測美聯儲會在3月降息25個基點。"
+    },
+    {
+      "id": "4942536",
+      "time": "2026-06-18 13:50:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌3%，現報7664.00元。"
+    },
+    {
+      "id": "mkt:019ed947-880e-7dd8-b06d-4d06db125eeb",
+      "time": "2026-06-18 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Switzerland May trade balance, UK three-month ILO unemployment rate for April, and UK May initial jobless claims and unemployment rate are due in 10 minutes."
+    },
+    {
+      "id": "mkt:019ed947-8633-7dd8-b06d-43b9eba6f7a4",
+      "time": "2026-06-18 13:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【BoE decision preview: \"second‑round\" inflation risk key; rate‑hike risk far from gone】Reuters survey and a range of forecasters expect the Bank of England to hold rates at the upcoming meeting, but headline risk of further tightening remains. The Reuters survey found 25 economists expect at least one 25bp hike this year while six expect one cut. Energy-driven \"second‑round\" inflation is the main upside risk; several houses (BofA, Nomura) say sustained high energy prices would justify further hikes, while Deutsche Bank, ING and Capital Economics say softer May inflation buys policymakers time. Nomura flags a possible 25bp move in July with easing only next year; Fitch and others also see potential rate cuts resuming next year. Political and oil-price moves are key market levers—Rabobank warns BoE caution plus a UK by-election could weaken sterling, and TD Securities notes a sharp oil drop would reduce near‑term hike odds. Berenberg highlights a weaker UK labour market versus the eurozone, reducing BoE’s inclination to tighten relative to the ECB."
+    },
+    {
+      "id": "4942535",
+      "time": "2026-06-18 13:50:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國防長：關於由哪個盟國接管哪些相關能力的決定，目前尚未作出。"
+    },
+    {
+      "id": "mkt:019ed946-c988-7dd8-b06d-3c73b915f385",
+      "time": "2026-06-18 13:49:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's defense minister said a roadmap to synchronize with U.S. reductions in support for the NATO Response Force is essential."
+    },
+    {
+      "id": "4942534",
+      "time": "2026-06-18 13:48:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國防長：制定路線圖以協調美國對北約危機部隊的兵力削減至關重要。"
+    },
+    {
+      "id": "mkt:019ed945-9630-7dd8-b06d-3313b7cea779",
+      "time": "2026-06-18 13:47:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany's defence minister said Berlin will provide additional funding for PAC-3 Patriot missiles for Ukraine."
+    },
+    {
+      "id": "4942533",
+      "time": "2026-06-18 13:47:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國國防部長：我們將為烏克蘭提供更多資金，用於採購PAC-3“愛國者”導彈。"
+    },
+    {
+      "id": "mkt:019ed944-9618-7dd8-b06d-2b4360d9f59f",
+      "time": "2026-06-18 13:46:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany will contribute €200 million toward the fourth US weapons procurement package for Ukraine, Germany's defense minister said."
+    },
+    {
+      "id": "4942532",
+      "time": "2026-06-18 13:46:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國國防部長：德國將出資2億歐元，為第四批向烏克蘭出售的美國武器提供資金。"
+    },
     {
       "id": "4942531",
       "time": "2026-06-18 13:46:11",
@@ -173507,23 +173609,6 @@
         "市場"
       ],
       "text": "【先進封裝板塊短線拉昇】先進封裝板塊短線拉昇，博敏電子、太極實業、興福電子漲停， 方邦股份、光智科技、甬矽電子漲超10%，氣派科技、江化微、科翔股份、蘇試試驗、拓荊科技等跟漲。"
-    },
-    {
-      "id": "4929642",
-      "time": "2026-06-11 13:49:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【羅素萍任滙豐保險經紀公司董事長 陸文穎任滙豐保險經紀公司法定代表人  滙豐保險經紀公司發生高管變更】天眼查App顯示，近日，滙豐保險經紀有限公司發生工商變更，周莉莉卸任法定代表人、董事長，陸文穎接任法定代表人，羅素萍接任董事長。該公司成立於2012年4月，註冊資本約26.5億人民幣，經營範圍為保險經紀業務、公募證券投資基金銷售，由滙豐保險經紀大中華有限公司全資持股。"
-    },
-    {
-      "id": "4929641",
-      "time": "2026-06-11 13:48:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度盧比兌美元下跌0.5%至95.6987。"
     }
   ]
 }
