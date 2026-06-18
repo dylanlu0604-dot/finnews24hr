@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-19 06:42:31",
-  "count": 18973,
+  "updated": "2026-06-19 06:46:33",
+  "count": 18974,
   "items": [
+    {
+      "id": "mkt:019edce8-eea1-7dd8-b089-7abe4a4c2696",
+      "time": "2026-06-19 06:45:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand May imports NZ$8.08 bln; prior figure revised from NZ$6.7 bln to NZ$6.67 bln."
+    },
+    {
+      "id": "mkt:019edce8-e49d-7dd8-b089-76d5c185d42b",
+      "time": "2026-06-19 06:45:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand 12-month trade balance for May -NZ$3.37 bln; prior reading revised from -NZ$2.764 bln to -NZ$3.07 bln."
+    },
+    {
+      "id": "mkt:019edce8-dbfb-7dd8-b089-6e982e9d90e4",
+      "time": "2026-06-19 06:45:08",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact mixed"
+      ],
+      "text": "New Zealand May exports NZD 8.88 bln; prior reading revised from NZD 8.62 bln to NZD 8.27 bln."
+    },
+    {
+      "id": "mkt:019edce8-dbd2-7dd8-b089-63aa1296816a",
+      "time": "2026-06-19 06:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand May trade balance: NZD 800 mln; prior figure revised from NZD 1.92 bln to NZD 1.598 bln."
+    },
+    {
+      "id": "mkt:019edce8-bdbc-7dd8-b089-5c3427cec1ef",
+      "time": "2026-06-19 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Exports (May) | actual 8880000000B | previous 8620000000B"
+    },
+    {
+      "id": "mkt:019edce8-bd88-7dd8-b089-52c057ae0e2e",
+      "time": "2026-06-19 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Imports (May) | actual 8080000000B | previous 6700000000B"
+    },
+    {
+      "id": "mkt:019edce8-bd67-7dd8-b089-4bfd9c4f0b87",
+      "time": "2026-06-19 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | 12-Month Trade Balance (May) | actual -3370000000.0000005B | previous -2764000000B"
+    },
+    {
+      "id": "mkt:019edce8-bd48-7dd8-b089-41eadb5ae1e5",
+      "time": "2026-06-19 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Trade Balance (May) | actual 800000000B | previous 1920000000B"
+    },
+    {
+      "id": "te:markets:560190",
+      "time": "2026-06-19 06:44:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Drops by 3.75% — Top crypto losers are Binance (-3.75%), XRP (-3.26%), Bitcoin (-2.61%) and Ether (-2.57%)."
+    },
+    {
+      "id": "4944355",
+      "time": "2026-06-19 06:42:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報66.12美元/盎司。"
+    },
     {
       "id": "te:markets:560189",
       "time": "2026-06-19 06:39:59",
@@ -174555,88 +174650,6 @@
         "其他"
       ],
       "text": "【超百家村鎮銀行“消失”，中小銀行風險化解加速】6月10日，金融監管總局批覆顯示，雲南羅平、師宗、陸良3家興福系村鎮銀行因被曲靖沾益興福村鎮銀行吸收合併而解散。同日，浙江地區也有兩家村鎮銀行獲批解散。今年以來，已有超百家村鎮銀行獲批退出市場。業內人士認為，減量只是表象，真正的核心是提質。今年以來，各地有序推進地方中小金融機構改革化險工作，按照市場化、法治化原則，綜合運用兼併重組、市場退出等多種方式穩妥處置中小銀行風險。（中證報）"
-    },
-    {
-      "id": "4931311",
-      "time": "2026-06-12 06:45:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普將此前取消打擊伊朗的帖子置頂。"
-    },
-    {
-      "id": "4931310",
-      "time": "2026-06-12 06:45:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4230美元/盎司，日內漲0.53%。"
-    },
-    {
-      "id": "4931309",
-      "time": "2026-06-12 06:45:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4250美元/盎司，日內漲3.32%。"
-    },
-    {
-      "id": "mkt:019eb8dc-73a0-7dd8-afcc-4a116713ac36",
-      "time": "2026-06-12 06:45:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose $10 to $4,226/oz."
-    },
-    {
-      "id": "te:markets:558478",
-      "time": "2026-06-12 06:45:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Rises by 4.07% — Top crypto gainers are XRP (4.07%), Ether (3.39%) and Bitcoin (3.26%)."
-    },
-    {
-      "id": "4931308",
-      "time": "2026-06-12 06:43:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲6%，現報67.85美元/盎司。"
-    },
-    {
-      "id": "4931307",
-      "time": "2026-06-12 06:42:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們得到了所有想要的結果。"
-    },
-    {
-      "id": "4931306",
-      "time": "2026-06-12 06:42:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4220美元/盎司，日內漲0.23%。"
-    },
-    {
-      "id": "4931305",
-      "time": "2026-06-12 06:42:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗問題：基本已塵埃落定。"
     }
   ]
 }
