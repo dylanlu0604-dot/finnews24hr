@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-18 22:40:06",
-  "count": 18964,
+  "updated": "2026-06-18 22:44:27",
+  "count": 18968,
   "items": [
+    {
+      "id": "4943809",
+      "time": "2026-06-18 22:43:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英特爾股價漲幅縮窄至7%】英特爾股價漲幅縮窄至7%，此前一度漲11%。訊息面上，特朗普表示蘋果將與該公司合作進行晶片設計和生產。"
+    },
+    {
+      "id": "4943808",
+      "time": "2026-06-18 22:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國重申尊重臺灣是中國一部分的立場從未變化】韓國外交部東北亞中亞局局長南鎮18日向韓媒記者吹風，強調韓方尊重臺灣是中國一部分的立場從未變化。南鎮表示，1992年《韓中建交聯合公報》規定，大韓民國政府承認中華人民共和國政府為中國的唯一合法政府，並尊重中方只有一箇中國、臺灣是中國一部分的立場。韓國曆屆政府的這一立場從未變化。（新華社）"
+    },
+    {
+      "id": "mkt:019edb2e-810b-7dd8-b081-58f9ddcdeb07",
+      "time": "2026-06-18 22:41:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Federal Energy Regulatory Commission (FERC) said grid operators will have 60-90 days to assess data-center power demand."
+    },
+    {
+      "id": "4943807",
+      "time": "2026-06-18 22:41:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦能源監管委員會：電網企業需在 60 至 90 天內完成資料中心用電相關稽核。"
+    },
+    {
+      "id": "te:markets:560138",
+      "time": "2026-06-18 22:41:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Stock Price Hits 5-week Low — Lockheed Martin shares decreased to 509.69 USD, the lowest since May 2026. Over the past 4 weeks, Lockheed Martin lost 2.97%, and in the last 12 months, it increased 8.59%."
+    },
+    {
+      "id": "mkt:019edb2e-224d-7dd8-b081-5213b6780fd4",
+      "time": "2026-06-18 22:41:34",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【eToro says BoE rate hike cannot be ruled out】eToro strategist Lale Akoner said the Bank of England may keep rates unchanged for months but a rate hike cannot be ruled out. The BoE left Bank Rate at 3.75% on Thursday, citing a weak economic outlook; Akoner said inflation is expected to remain above target into next year, so the risk of another hike has not fully disappeared."
+    },
+    {
+      "id": "te:economy:560137",
+      "time": "2026-06-18 22:41:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise Less than Expected — US energy firms added 73 billion cubic feet of natural gas into storage in the week ended June 12, slightly below market expectations for a 75 bcf build. It compares with an injection of 97 bcf during the same week a year ago and an average increase for that week of 73 bcf over the past five years (2021-2025). Stockpiles increased to 2.759 trillion cubic feet, 1% below the same week a year ago and about 5.8% above the five-year average for the week. In the week ended June 5, energy firms added 108 bcf of gas into storage."
+    },
+    {
+      "id": "4943806",
+      "time": "2026-06-18 22:40:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國參議院共和黨領袖圖恩：預計下週國會將聽取行政部門關於伊朗諒解備忘錄的情況通報。"
+    },
+    {
+      "id": "mkt:019edb2d-0a70-7dd8-b081-48c82f39c73f",
+      "time": "2026-06-18 22:40:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Senate Republican leader Thune said the administration is expected to brief Congress next week on a memorandum of understanding with Iran."
+    },
+    {
+      "id": "4943805",
+      "time": "2026-06-18 22:40:08",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "伊朗停火協議達成後油價跌至兩伊戰爭爆發以來最低，美國能源企業股價下跌。雪佛龍下跌2.2%，埃克森美孚下跌3%，康菲石油下跌2.8%。西方石油公司股價下跌2.8%，APA公司股價下跌3.8%。"
+    },
     {
       "id": "mkt:019edb2c-33ab-7dd8-b081-452275598f2b",
       "time": "2026-06-18 22:39:27",
@@ -174707,61 +174809,6 @@
         "市場"
       ],
       "text": "【土耳其最大反對黨遭罷免的黨魁陣營集體辭職死磕，引爆黨內倒戈“政變”】土耳其股市維持超過0.6%的跌幅，持穩於日低13567.35點附近，銀行板塊也在北京時間20:00過後出現一波顯著的下跌行情——脫離19:31重新整理的日高16447.80點。土耳其里拉維持0.05%的跌幅，持穩於07:27重新整理的盤中歷史最低位46.1574里拉附近。土耳其最大反對黨共和人民黨（CHP）前黨魁奧茲古爾·奧澤爾（Ozgur Ozel）的官方辦公室於週四震撼宣佈，奧澤爾的核心精銳團隊已全額退出該黨的最高權力機構——黨議會（Party’s assembly）。該辦公室明確強調，此舉在法理上將強制觸發召開一次特別黨代會，以全額重新選舉該黨黨主席。"
-    },
-    {
-      "id": "mkt:019eb724-147f-7dd8-afc4-afb7dc0b50e1",
-      "time": "2026-06-11 22:44:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【UAE, Iran hold first face-to-face security meeting since US–Israel opened hostilities, Bloomberg says】Bloomberg, citing people familiar with the matter, reported senior UAE and Iranian national-security officials held their first face-to-face meeting since the outbreak of hostilities involving the US and Israel in late-Feb. Sources said the talks signal a notable shift as both sides increasingly see value in stabilizing ties. Abu Dhabi wants to preserve large economic projects — including bln-dollar plans to raise oil output and build AI data centers — while Iran views the UAE as a key pre-war trade partner and a conduit for sanctioned oil exports. Since late-February Iran has attacked the UAE more than any other country; Abu Dhabi has retaliated and taken the firmest regional stance against Tehran. The UAE appears to be following Qatar and Saudi Arabia’s path by trying to defuse tensions through diplomacy."
-    },
-    {
-      "id": "4930873",
-      "time": "2026-06-11 22:44:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗公佈打擊三國美軍基地最新畫面】伊朗伊斯蘭革命衛隊今天（6月11日）公佈了打擊美軍位於科威特、巴林和約旦的空軍基地的導彈發射畫面。伊朗革命衛隊今天早些時候表示，為回應美軍對伊朗的襲擊，革命衛隊在兩波行動中摧毀了美軍在科威特和巴林空軍基地的18個重要目標，還摧毀了位於約旦阿茲拉克的美軍空軍基地的設施和大量戰機。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019eb722-f556-7dd8-afc4-a7078c422152",
-      "time": "2026-06-11 22:43:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index falls to over one-month low】The Baltic Dry Index fell again to 2,729, down 42 points (-1.5%), its lowest since May 1, pressured by weaker Capesize freight. The Capesize index dropped 161 points (-3.7%) to 4,140; Capesize daily earnings fell $1,456 to $34,048. The Panamax index rose 40 points (1.8%) to 2,251; Panamax daily earnings increased $358 to $20,255. The Supramax index gained 15 points (0.9%) to 1,633, while the Handysize index added 15 points to 890."
-    },
-    {
-      "id": "te:markets:558418",
-      "time": "2026-06-11 22:42:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cocoa Futures at Over 1-Month Low — Cocoa futures traded around $3,700 per tonne, the lowest level since early May, amid rising inventories and positive supply prospects for the current season. Latest data showed ICE cocoa stocks rising to a 1.75-year high of 2,929,074 bags. Also, dealers pointed to strong arrivals in Ivory Coast during the current 2025/26 season and a broadly favorable outlook for the remainder of the mid-crop, supported by above-average rainfall across key producing regions, which improved soil moisture and tree development. However, the outlook for 2026/27 is less favorable, with early surveys pointing to smaller crops in both Ivory Coast and Ghana. The El Niño phenomenon remains a key risk, as it can bring heat and drought to West Africa and has been linked to major production declines in 2016 and 2024."
-    },
-    {
-      "id": "4930872",
-      "time": "2026-06-11 22:41:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛科科技大跌超17%，公司回應來了】市場認為，愛科科技股價大跌與業績疲軟、公司費用增加以及可轉債發行後可能引發資產負債率抬升有關。愛科科技方面回應中國證券報記者稱，公司生產經營是正常的，內部也沒有什麼意外的情況。公司可轉債是按照正常的節奏發行的。對於發行可轉債，主要是由於公司對資金有需求，綜合考慮了資產負債率等因素，進行了這項融資。公司做完可轉債以後，資產負債率會提升，但公司認為可轉債後續一些投資者可以轉股。本次的發行費用預計400多萬元。對於可轉債發行，公司也做了風險提示。後續以公司公告為準。（中國證券報）"
-    },
-    {
-      "id": "4930871",
-      "time": "2026-06-11 22:41:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國選舉機構因選票短缺事件遭搜查】韓國警方11日搜查韓國中央選舉管理委員會總部及其分支機構，以調查本月3日地方選舉中出現的選票短缺事件。據韓聯社報道，警方當天出動百餘人，對中央選舉管理委員會位於京畿道果川市的總部及首爾地區分支等7處地點展開搜查。警方懷疑，這些機構在地方選舉的選票印製和分發過程中存在重大疏忽，涉嫌違反《公職選舉法》及瀆職。警方已在搜查令中將引咎辭職的中央選舉管理委員會委員長盧泰嶽列為嫌疑人。（新華社）"
     }
   ]
 }
