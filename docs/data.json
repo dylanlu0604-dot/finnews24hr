@@ -1,7 +1,179 @@
 {
-  "updated": "2026-06-18 08:59:57",
-  "count": 18770,
+  "updated": "2026-06-18 09:04:35",
+  "count": 18763,
   "items": [
+    {
+      "id": "4942139",
+      "time": "2026-06-18 09:03:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "中國城市基礎設施集團有限公司在香港暫停交易。"
+    },
+    {
+      "id": "mkt:019ed840-2cc2-7dd8-b067-7196f3beadeb",
+      "time": "2026-06-18 09:02:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.24%."
+    },
+    {
+      "id": "mkt:019ed83f-6df7-7dd8-b067-6d7b8116dce8",
+      "time": "2026-06-18 09:01:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's TAIEX opened 414.48 points higher, up 0.9% at 46,291.87 on Thu June 18."
+    },
+    {
+      "id": "4942138",
+      "time": "2026-06-18 09:01:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.1%至46,375.08點。"
+    },
+    {
+      "id": "mkt:019ed83f-25c6-7dd8-b067-6655a47d8366",
+      "time": "2026-06-18 09:01:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RMB's share of SWIFT global payments in May was 2.75%, down from 2.85% previously."
+    },
+    {
+      "id": "4942137",
+      "time": "2026-06-18 09:01:08",
+      "tags": [],
+      "text": "國內期貨主力合約跌多漲少，焦煤、純鹼、鉑跌超2％，燃料油、合成橡膠跌近2％，玻璃、焦炭、20號膠、塑膠跌超1％。漲幅方面，多晶矽、對二甲苯、PTA、短纖漲超1％，瓶片、低硫燃料油（LU）、純苯漲近1％。"
+    },
+    {
+      "id": "mkt:019ed83e-e9f5-7dd8-b067-5cdc8f3e9c17",
+      "time": "2026-06-18 09:01:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D slid 0.3% to 937.87 yuan/gram in early trade on June 18; Silver T+D slid 0.99% to 16,615 yuan/kg."
+    },
+    {
+      "id": "4942136",
+      "time": "2026-06-18 09:00:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4320美元/盎司，日內漲1.54%。"
+    },
+    {
+      "id": "mkt:019ed83e-c03b-7dd8-b067-54bd5f87e954",
+      "time": "2026-06-18 09:00:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spot gold touched $4,320/oz, up 1.49% intraday."
+    },
+    {
+      "id": "4942135",
+      "time": "2026-06-18 09:00:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4340美元/盎司，日內跌0.92%。"
+    },
+    {
+      "id": "4942134",
+      "time": "2026-06-18 09:00:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破70美元/盎司，日內跌1.82%。"
+    },
+    {
+      "id": "4942133",
+      "time": "2026-06-18 09:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.2%報45,972.26。"
+    },
+    {
+      "id": "mkt:019ed83e-494c-7dd8-b067-4989a6a38afa",
+      "time": "2026-06-18 09:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At the open, China's domestic futures main contracts skewed weaker: coking coal, soda ash and platinum fell more than 2%; fuel oil and synthetic rubber were down about 2%; glass, coke, 20# rubber and plastics dropped over 1%. On the upside, polysilicon, paraxylene (PX), PTA and short fiber gained more than 1%; bottle-grade PET chips, low-sulphur fuel oil (LU) and benzene rose about 1%."
+    },
+    {
+      "id": "4942132",
+      "time": "2026-06-18 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國5月Swift人民幣在全球支付中佔比 2.75%，前值 2.85%。"
+    },
+    {
+      "id": "4942131",
+      "time": "2026-06-18 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌2%，現報1314.50元。"
+    },
+    {
+      "id": "4942130",
+      "time": "2026-06-18 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌2%，現報1137.00元。"
+    },
+    {
+      "id": "4942129",
+      "time": "2026-06-18 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.26%。"
+    },
+    {
+      "id": "4942128",
+      "time": "2026-06-18 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】焦煤連續跌2.52%，丁二烯橡膠連續跌2.22%，純鹼連續跌2.15%，燃料油連續跌1.97%，鉑連續跌1.82%。"
+    },
     {
       "id": "4942127",
       "time": "2026-06-18 08:57:17",
@@ -172712,235 +172884,6 @@
         "國際"
       ],
       "text": "市場訊息：美國軍方稱，已完成對伊朗的最新打擊行動。"
-    },
-    {
-      "id": "4929261",
-      "time": "2026-06-11 09:02:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參6月11日價格釋出：洋河夢之藍M6+古井貢古20領漲 總價低位止跌回升】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月11日整體低位小幅回彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9888元，較昨日小幅上漲7元，結束此前連續兩日的回撥走勢，但仍處於近30天低位區間。市場在前一日回落至近30天次低位後開始修復，終端交投情緒略有回暖，但核心單品的漲跌分化度依然顯著。今日11大白酒單品五漲四跌兩平，贏家數量略佔優勢。上漲方面，洋河夢之藍M6+、古井貢古20與習酒君品漲幅居前，均上漲5元/瓶，其中洋河夢之藍M6+自昨日創下的近30天最低價反彈，但價格囿於月內低位區間，古井貢古20連續兩日上漲，價格升至進入六月以來最高位，習酒君品終結此前三連陰，但價格仍處於月內次低位；國窖1573上漲4元/瓶，連續三日反彈；五糧液1618上漲2元/瓶，收穫兩連陽，自前日月內最低位連續修復。下跌方面，精品茅臺、五糧液普五八代與青花郎均下跌4元/瓶，其中精品茅臺連續三日回撥，前期反彈動能逐漸減弱；五糧液普五八代連續三日下探，今日價格將將守住800元整數關口，創今年2月2日以來最低價紀錄，近一月價格中樞下移態勢尤為明顯；青花郎連續兩日回落，再度跌破690元。飛天茅臺下跌2元/瓶，終結此前五連陽。青花汾20與水晶劍南春價格環比保持不變，其中前者仍處在30天最低位。"
-    },
-    {
-      "id": "4929260",
-      "time": "2026-06-11 09:02:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破64美元/盎司，日內漲0.98%。"
-    },
-    {
-      "id": "te:markets:558199",
-      "time": "2026-06-11 09:01:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Hovers Near 2-Month Highs — The dollar index traded around 100 on Thursday, lingering near its highest levels in two months after the US military launched fresh strikes against Iran, with President Donald Trump accusing Tehran of delaying negotiations over an interim peace agreement, lifting demand for safe-haven assets. The protracted conflict and the ongoing near-total closure of the Strait of Hormuz continued to disrupt energy flows from the Persian Gulf, fueling concerns about inflationary pressures and central bank interest rate hikes. Meanwhile, US consumer inflation accelerated in May to its fastest pace in more than three years due to soaring energy costs, though the reading matched market expectations. Traders modestly trimmed expectations for Federal Reserve rate hikes this year, although a quarter-point increase in December remains fully priced. Investors are now awaiting the latest producer inflation and weekly jobless claims figures for further clues on the outlook for Fed policy."
-    },
-    {
-      "id": "te:markets:558198",
-      "time": "2026-06-11 09:01:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Stocks Follow Wall Street Lower — Australian shares slipped 79 points, or 0.9%, to 8,574 in early Thursday trade, unwinding the prior day’s rebound as U.S. futures weakened after Wall Street’s sharp slide Wednesday on inflation worries and renewed Middle East tensions. Locally, signs of a cooling economy grew after Westpac reported average monthly mortgage applications have fallen about 18% since late 2025, reflecting uncertainty and looming tax changes. Meanwhile, Australia's business sentiment improved in May but remained firmly negative, due to concerns over the impact of elevated borrowing costs. Still, losses were tempered by hopes the Reserve Bank may pause cash rates next week after three hikes this year. Most sectors retreated, led by non-energy minerals, logistics, process industries, and financials. Lynas Rare Earths dropped 3.6%, followed by Northern Star Resources (-3.0%), and Evolution Mining (-2.5%). Mining giant BHP Group slipped 1% while the four big banks declined between 0.9% and 1.8%."
-    },
-    {
-      "id": "mkt:019eb432-e084-7dd8-afb0-5cae07d6f645",
-      "time": "2026-06-11 09:01:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened down 49.36 points, or 0.11%, at 43,176.18 on Thursday, June 11."
-    },
-    {
-      "id": "4929259",
-      "time": "2026-06-11 09:01:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體11日報道，伊朗阿巴斯港、錫裡克地區和加茲溫地區傳出爆炸聲。 稍早前，伊朗媒體報道，伊朗中部卡拉季和埃什泰哈德地區聽到數次爆炸聲，納扎爾阿巴德地區看到數架無人機。（新華社）"
-    },
-    {
-      "id": "mkt:019eb432-9fef-7dd8-afb0-57a1fa3016f6",
-      "time": "2026-06-11 09:01:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Polysilicon most-active futures contract rose more than 6.00% intraday to 36,680 yuan/ton."
-    },
-    {
-      "id": "4929258",
-      "time": "2026-06-11 09:01:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "新加坡海峽時報指數開盤下跌0.5%，至4935.12點。馬來西亞吉隆坡綜合指數開盤變化不大，報1677.38。"
-    },
-    {
-      "id": "4929257",
-      "time": "2026-06-11 09:01:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內漲6%，現報36680.00元。"
-    },
-    {
-      "id": "4929256",
-      "time": "2026-06-11 09:00:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲4%，現報596.40元。"
-    },
-    {
-      "id": "4929255",
-      "time": "2026-06-11 09:00:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大推出法案 禁止16歲以下兒童使用社交媒體 並對人工智慧聊天機器人進行監管】加拿大政府於週三提出了一項數字安全法案，該法案將禁止16歲以下兒童使用社交媒體，但符合特定安全標準的平臺可獲豁免。此前數月，澳大利亞已頒佈了全球首項針對青少年的社交媒體禁令。一位政府官員表示，該法案還旨在透過設立數字監管機構來制定安全標準，從而提高AI聊天機器人的安全性。若企業未能遵守規定，將面臨全球收入3%或最高1000萬加元（720萬美元）的罰款，以金額較高者為準。“社交媒體平臺和人工智慧聊天機器人旨在吸引注意力。它們不利於兒童的健康成長，已成為許多加拿大青少年焦慮、孤立、抑鬱以及其他各種心理健康問題的根源，”加拿大身份與文化部長馬克·米勒表示。“這項立法將為加拿大年輕人提供更安全的環境，並賦予他們透過面對面交流建立友誼、專注學業、學習現實生活技能的能力，從而茁壯成長。”"
-    },
-    {
-      "id": "mkt:019eb432-3403-7dd8-afb0-49dc21eb7c6c",
-      "time": "2026-06-11 09:00:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 2.7% in early trade on Thursday June 11 to 892.0 yuan/gram; Silver T+D was down 0.96% at 15,388.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019eb431-d712-7dd8-afb0-414a327d6f54",
-      "time": "2026-06-11 09:00:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spot silver is up over 1.0% intraday, trading at $64.02/oz."
-    },
-    {
-      "id": "mkt:019eb431-c25a-7dd8-afb0-3d3fd7e28492",
-      "time": "2026-06-11 09:00:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FTSE China A50 index futures opened 0.06% lower."
-    },
-    {
-      "id": "4929254",
-      "time": "2026-06-11 09:00:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4080美元/盎司，日內漲0.27%。"
-    },
-    {
-      "id": "4929253",
-      "time": "2026-06-11 09:00:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4110美元/盎司，日內跌0.56%。"
-    },
-    {
-      "id": "4929252",
-      "time": "2026-06-11 09:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.1%報43,172.21。"
-    },
-    {
-      "id": "4929251",
-      "time": "2026-06-11 09:00:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲4%，現報5759.00元。"
-    },
-    {
-      "id": "4929250",
-      "time": "2026-06-11 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破64美元/盎司，日內跌1.07%。"
-    },
-    {
-      "id": "4929249",
-      "time": "2026-06-11 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4100美元/盎司，日內跌0.81%。"
-    },
-    {
-      "id": "4929248",
-      "time": "2026-06-11 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】多晶矽連續漲5.27%，黃金連續跌4.14%，低硫燃料油連續漲4.09%，液化石油氣連續漲3.85%，燃料油連續漲3.85%，上海原油連續漲3.82%，丙烯連續漲2.72%，乙二醇連續漲2.64%。"
-    },
-    {
-      "id": "4929247",
-      "time": "2026-06-11 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.16%。"
-    },
-    {
-      "id": "4929246",
-      "time": "2026-06-11 09:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌2%，現報15362.00元。"
-    },
-    {
-      "id": "4929245",
-      "time": "2026-06-11 08:59:59",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金財富期貨：預計短期鋁價將延續外強內弱格局】中金財富期貨觀點稱，地緣政治不確定性揮之不去，市場風險偏好因而反覆波動，鋁價也受到階段性擾動。從基本面看，當前鋁價正陷入海外供應端偏緊與國內季節性需求轉淡的博弈格局：海外方面，部分產能受限、庫存維持低位，對鋁價形成支撐；國內方面，進入6月消費淡季後，傳統建築用鋁需求逐步降溫，下游接貨意願不強，壓制了內盤表現。受此影響，預計短期將延續外強內弱的格局。"
-    },
-    {
-      "id": "mkt:019eb431-6e52-7dd8-afb0-362eec00137c",
-      "time": "2026-06-11 08:59:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Explosion heard in Tehran province, Iran】An explosion was heard in Varamin in Tehran province at about 04:20 Iran local time on June 11 (08:50 Beijing time). There has been no official comment. Earlier, an explosion was also reported in Karaj, capital of Alborz province, about 36 km west of Tehran."
     }
   ]
 }
