@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-19 00:38:30",
+  "updated": "2026-06-19 00:42:40",
   "count": 19085,
   "items": [
+    {
+      "id": "4944068",
+      "time": "2026-06-19 00:42:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI總裁兼聯合創始人Greg Brockman：藉助OpenAI，在376例此前未能確診的疑難病例中，成功得出18項全新診斷結果。"
+    },
+    {
+      "id": "mkt:019edb9c-2afe-7dd8-b085-63ae425ffae1",
+      "time": "2026-06-19 00:41:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Prime Minister Netanyahu said Israel will not withdraw troops from southern Lebanon until it has ensured its own security."
+    },
+    {
+      "id": "mkt:019edb9b-8646-7dd8-b085-582001e94223",
+      "time": "2026-06-19 00:41:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Niger government said an attack at Diori Hamani International Airport killed 11 security personnel and two civilians."
+    },
+    {
+      "id": "4944065",
+      "time": "2026-06-19 00:40:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部網站訊息：美國對與真主黨有關聯的實體出臺新制裁措施。"
+    },
+    {
+      "id": "mkt:019edb9a-8166-7dd8-b085-56b09e968b50",
+      "time": "2026-06-19 00:39:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "The U.S. Treasury posted new sanctions on HEZBOLLAH on its website."
+    },
+    {
+      "id": "4944064",
+      "time": "2026-06-19 00:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "養老金與投資研究諮詢公司建議英偉達股東在年度股東大會（AGM）上投票支援要求披露溫室氣體排放的決議。"
+    },
+    {
+      "id": "4944063",
+      "time": "2026-06-19 00:37:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構最新調研路線圖出爐 盛美上海最受關注】Wind資料顯示，機構本週（6月15日至6月18日）共調研了175家上市公司，其中盛美上海最獲關注，參與調研的機構為129家。澳華內鏡、晶升股份、鵬翎股份分別獲57家、36家、32家機構調研。據統計，京東方A獲機構調研4次，雲漢芯城獲調研3次，華銳精密、萊伯泰科等多股獲調研2次。從調研行業來看，機構持續聚焦商品化工、工業機械、電子元件等板塊。"
+    },
     {
       "id": "4944062",
       "time": "2026-06-19 00:37:16",
@@ -175725,64 +175789,6 @@
         "焦點"
       ],
       "text": "市場訊息：SpaceX美國IPO散戶認購金額突破1000億美元。"
-    },
-    {
-      "id": "mkt:019eb790-2ae5-7dd8-afc6-f6568cca0912",
-      "time": "2026-06-12 00:42:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Office of Foreign Assets Control (OFAC) issued a Russia-related general license authorizing specified transactions tied to existing civil nuclear energy projects and authorizing certain services related to the Sakhalin-2 project."
-    },
-    {
-      "id": "4931008",
-      "time": "2026-06-12 00:39:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國批准部分涉俄民用核能相關交易。"
-    },
-    {
-      "id": "mkt:019eb78d-b114-7dd8-afc6-ee1c058ee21a",
-      "time": "2026-06-12 00:39:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. Treasury website says the U.S. has imposed sanctions on a Cuban oil company."
-    },
-    {
-      "id": "4931007",
-      "time": "2026-06-12 00:39:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "分析公司AdImpact最新估算顯示，今年美國中期選舉的廣告總支出預計將達到116億美元，將打破2024年總統大選週期創下的紀錄。"
-    },
-    {
-      "id": "4931006",
-      "time": "2026-06-12 00:39:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI將收購Ona 強化Codex代理能力】OpenAI當地時間週四宣佈將收購初創公司Ona。Ona為人工智慧代理提供安全、預配置的雲環境，使其能夠訪問工具、系統和上下文資訊。OpenAI表示，Ona的技術將使其程式設計助手Codex能夠處理執行時間更長的任務，還將幫助更多組織將代理部署到生產環境中，由代理代表使用者自主完成任務。OpenAI未披露此次收購條款。交易完成後，Ona員工將加入OpenAI，並在Codex團隊工作。"
-    },
-    {
-      "id": "mkt:019eb78d-16d7-7dd8-afc6-e2aa1865650b",
-      "time": "2026-06-12 00:38:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Analysis firm AdImpact’s latest estimate projects US midterm election ad spending will hit $11.6 billion in 2026, topping the record set in the 2024 presidential cycle."
-    },
-    {
-      "id": "4931005",
-      "time": "2026-06-12 00:38:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Evercore：SpaceX上市在即 美股“錯失恐懼症”還將持續】Evercore ISI首席股票與量化策略師Julian Emanuel表示，在SpaceX上市前夕，“錯失恐懼症”（FOMO）令投資者對那些通常會令華爾街不安的事件表現得不以為意。儘管伊朗面臨美國連續兩天的軍事打擊，以及美國總統特朗普威脅要進一步升級局勢，交易員們週四仍選擇逢低買入。此前，股市自上週五走出了一輪疲軟行情，當時一份出人意料強勁的就業報告加劇了市場對利率上升的擔憂。"
     }
   ]
 }
