@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-19 04:21:44",
-  "count": 18978,
+  "updated": "2026-06-19 04:25:35",
+  "count": 18976,
   "items": [
+    {
+      "id": "4944293",
+      "time": "2026-06-19 04:24:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價18日漲跌不一】國際油價18日漲跌不一。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌19美分，收於每桶76.60美元，跌幅為0.25%；8月交貨的倫敦布倫特原油期貨價格上漲30美分，收於每桶79.85美元，漲幅為0.38%。"
+    },
+    {
+      "id": "te:markets:560173",
+      "time": "2026-06-19 04:24:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Finish on Strong Note — US equities closed higher on Thursday, as tech strength and optimism over a potential US-Iran deal offset concerns over a hawkish Federal Reserve. The S&P 500 advanced 1% and the Nasdaq 100 gained 1.9%, while the Dow rose by 72 points. The signing of an interim peace agreement between the United States and Iran, which includes the reopening of the Strait of Hormuz, spurred optimism that it would help ease energy-driven inflationary pressures. Meanwhile, the Federal Reserve kept rates steady, with half of officials signaling that at least one rate increase may be warranted this year. Intel surged 10.5% after President Trump announced that the semiconductor giant would produce chips for Apple in the US. The news lifted the broader chip sector, with Nvidia rising 2.8% and Micron Technology climbing 8.5%. SpaceX dropped 3.5%, extending its decline for a second consecutive session after its much-hyped market debut last week."
+    },
+    {
+      "id": "mkt:019edc65-5331-7dd8-b088-2c6dfa8f5593",
+      "time": "2026-06-19 04:21:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms Inc (META.O) signed an AI compute collaboration agreement with data-center operator Crusoe; Meta is expected to obtain roughly 1.6 GW of computing capacity."
+    },
     {
       "id": "mkt:019edc60-cf23-7dd8-b088-2348033bc858",
       "time": "2026-06-19 04:16:32",
@@ -174615,58 +174650,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人表示，卡達與巴基斯坦積極充當調停方，但美國的相關舉動正干擾外交程序。"
-    },
-    {
-      "id": "mkt:019eb85a-d8a8-7dd8-afcb-579692fdcee1",
-      "time": "2026-06-12 04:23:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Trump says all Iranian parties have approved U.S.-Iran agreement】On June 11 Trump said Iran’s supreme leader has agreed to a U.S.-Iran memorandum of understanding and that all Iranian parties have approved it. He called the MoU very strong and very detailed, said Iran would not possess nuclear weapons, and said the Strait of Hormuz would reopen immediately once the MoU is signed. He added a Kharg Island operation is not under consideration."
-    },
-    {
-      "id": "te:markets:558458",
-      "time": "2026-06-12 04:23:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Canadian Stocks Rise on Easing Geopolitical Risks — The S&P/TSX Composite Index gained 1.5% to close at 34,671 on Thursday after US President Donald Trump withdrew threats of military strikes against Iran, easing geopolitical concerns. The reversal came just hours before the strikes were expected to take place, as negotiations with Iran reportedly advanced to the highest levels of the country's leadership and received backing from a broad coalition of regional powers. Oil prices fell on the news, easing inflation concerns and pushing bond yields lower. Financial stocks advanced, with TD Bank rising 1.6%. Mining shares also gained as gold prices moved higher, with Agnico Eagle up 3.5% and Barrick adding 5.3%. Technology stocks were supported by a rebound in semiconductor shares following recent weakness in the sector, with Shopify gaining 2.2% and Celestica surging 6.1%. Meanwhile, Dollarama jumped 9% after reporting quarterly sales and earnings that exceeded expectations."
-    },
-    {
-      "id": "mkt:019eb85a-2a8c-7dd8-afcb-4ee1a02e9794",
-      "time": "2026-06-12 04:22:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump declines to set deadline for US-Iran deal】President Trump said at a Thursday press conference he would not set a deadline for a final US-Iran agreement, saying critics would later claim he had failed to meet it. He added the timing 'won't matter much' because a deal will be signed."
-    },
-    {
-      "id": "4931243",
-      "time": "2026-06-12 04:22:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗各方均已批准美伊協議】當地時間6月11日，美國總統特朗普談及美伊協議稱，據他了解，伊朗最高領袖已同意該協議，伊朗各方均已批准該協議。他還表示，這是一份非常有力、非常詳盡的諒解備忘錄。特朗普還稱，伊朗將不會擁有核武器。特朗普表示，一旦簽署諒解備忘錄，霍爾木茲海峽將立即開放。他還稱，哈爾克島行動不在考慮之列。此前，一名接近伊朗談判團隊的知情人士稱，伊朗“尚未批准任何與美國達成的初步諒解備忘錄文字”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb859-176d-7dd8-afcb-464f7b1076e2",
-      "time": "2026-06-12 04:21:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump concluded a White House speech."
     }
   ]
 }
