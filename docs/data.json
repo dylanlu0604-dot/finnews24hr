@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-19 04:05:45",
-  "count": 19001,
+  "updated": "2026-06-19 04:09:46",
+  "count": 18992,
   "items": [
+    {
+      "id": "mkt:019edc59-a2da-7dd8-b088-1a095161031b",
+      "time": "2026-06-19 04:08:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury issued a license permitting certain transactions involving bonds of Venezuela's state oil company."
+    },
+    {
+      "id": "4944292",
+      "time": "2026-06-19 04:08:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國發放許可，允許向委內瑞拉航空（CONVIASA）供應特定物資與相關服務。"
+    },
+    {
+      "id": "mkt:019edc58-fb11-7dd8-b088-13bd6f45ae45",
+      "time": "2026-06-19 04:07:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "MOODY'S assigned SpaceX a Baa1 rating, placing it in investment grade, with a stable outlook."
+    },
+    {
+      "id": "4944291",
+      "time": "2026-06-19 04:07:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國發放許可，准許開展部分涉及委內瑞拉政府、與電信及郵政業務相關的特定交易。"
+    },
+    {
+      "id": "4944290",
+      "time": "2026-06-19 04:06:35",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "穆迪授予 SpaceX Baa1 評級，屬投資級。"
+    },
+    {
+      "id": "mkt:019edc57-82d7-7dd8-b088-0e6517281b27",
+      "time": "2026-06-19 04:06:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury issued a license permitting certain transactions related to telecommunications and postal services with the Venezuelan government."
+    },
+    {
+      "id": "mkt:019edc57-426c-7dd8-b088-03e83d3cd9d7",
+      "time": "2026-06-19 04:06:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury says it has issued a general license related to Venezuela."
+    },
+    {
+      "id": "mkt:019edc57-1f9f-7dd8-b087-f9d2595df2cb",
+      "time": "2026-06-19 04:05:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Japan & APAC",
+        "Europe & UK",
+        "US10Y"
+      ],
+      "text": "【China trimmed US Treasury holdings in April; Japan and UK increased】US Treasury data show China’s holdings fell to $651 bln in April from $652 bln in March; Japan’s holdings rose to $1.210 tln from $1.192 tln; the UK’s holdings rose to $938 bln from $927 bln."
+    },
+    {
+      "id": "4944289",
+      "time": "2026-06-19 04:05:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜員工遭公司內部調查 曾公開批評資料中心擴張】一群亞馬遜工程師公開批評企業瘋狂擴張人工智慧資料中心，並呼籲政府加強監管，如今他們正遭到公司內部調查。 本月早些時候，美國西雅圖市議會就一項政策徵集公眾意見：當地計劃暫停新建大型資料中心專案為期一年，為城市完善相關監管規則留出時間。共有五名亞馬遜員工出席聽證會並作證。6月9日，西雅圖市議會全票透過了這項暫停建設的禁令。 幾名員工在聽證會上抨擊科技企業在AI領域鉅額燒錢，將這種擴張模式形容為“不計一切代價的人工智慧基建競賽”。 根據員工代理律師本週五向西雅圖民權辦公室提交的投訴檔案顯示，聽證會結束後，三名亞馬遜員工分別受邀參加了人力資源部門組織的線上會議。HR表示，公司接到相關舉報，正對幾名員工在市議會的公開證詞展開內部調查。"
+    },
     {
       "id": "mkt:019edc55-443e-7dd8-b087-f5d45c1f6251",
       "time": "2026-06-19 04:03:55",
@@ -174717,192 +174801,6 @@
         "國際"
       ],
       "text": "特朗普：普爾特將臨時執掌國家情報總監一職。"
-    },
-    {
-      "id": "mkt:019eb84e-0c7b-7dd8-afcb-11a177994054",
-      "time": "2026-06-12 04:09:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said the United States has achieved a military victory in its war against Iran."
-    },
-    {
-      "id": "mkt:019eb84d-edfb-7dd8-afcb-0c676208fe9c",
-      "time": "2026-06-12 04:09:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Iranians have an opportunity to rebuild their country and that Iran has been severely destroyed."
-    },
-    {
-      "id": "mkt:019eb84d-8d39-7dd8-afcb-04b18a379b56",
-      "time": "2026-06-12 04:09:10",
-      "tags": [
-        "MKT News",
-        "ADBE.O",
-        "Impact bullish"
-      ],
-      "text": "Adobe (ADBE.O) expects Q3 revenue of $6.67-6.72 bln, versus prior guidance of $6.51 bln."
-    },
-    {
-      "id": "4931232",
-      "time": "2026-06-12 04:09:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊核協議：哈爾格島相關行動已作罷。"
-    },
-    {
-      "id": "mkt:019eb84d-37f4-7dd8-afca-fbe0f3b48d4a",
-      "time": "2026-06-12 04:08:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said the strait has been open for months; you just haven't noticed."
-    },
-    {
-      "id": "mkt:019eb84d-2b90-7dd8-afca-f058ed685538",
-      "time": "2026-06-12 04:08:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said on Iran he does not want to set a deadline for reaching an agreement."
-    },
-    {
-      "id": "4931231",
-      "time": "2026-06-12 04:08:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普： 海峽數月以來一直處於通航狀態，只是外界並不知情。我不會為協議設定最後期限。協議簽署後海峽就將恢復通航，時間可能在週六或週一。"
-    },
-    {
-      "id": "mkt:019eb84c-ca14-7dd8-afca-ec70a52beaa2",
-      "time": "2026-06-12 04:08:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump said a military operation to seize Kharg Island has been ruled out."
-    },
-    {
-      "id": "mkt:019eb84c-5a0f-7dd8-afca-e51acef5ab2c",
-      "time": "2026-06-12 04:07:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said he finds Iran to be rational and expects them to reach an agreement."
-    },
-    {
-      "id": "mkt:019eb84c-4009-7dd8-afca-dc493a982845",
-      "time": "2026-06-12 04:07:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said the strait may open on Saturday or next Monday."
-    },
-    {
-      "id": "mkt:019eb84b-e994-7dd8-afca-d2a09ceba44b",
-      "time": "2026-06-12 04:07:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the agreement is very good for the US and the Middle East, and he believes it will also be great for Iran."
-    },
-    {
-      "id": "4931230",
-      "time": "2026-06-12 04:07:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "Adobe（奧多比）第二財季營收66.2億美元，分析師預期64.5億美元。\n第二財季調整後每股收益（EPS）為5.96美元，分析師預期5.83美元。\n預計全年營收265億-266億美元，公司原本預計259億-261億美元。\n預計全年調整後EPS為24.35-24.45美元，公司原本預計23.30-23.50美元。\n預計第三財季營收66.7億-67.2億美元，分析師預期65.1億美元。\n預計第三財季調整後EPS為6.05-6.10美元，分析師預期5.77美元。"
-    },
-    {
-      "id": "mkt:019eb84b-cdc8-7dd8-afca-cde922cbc5b6",
-      "time": "2026-06-12 04:07:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump: The Strait of Hormuz will be opened immediately after a memorandum of understanding is signed."
-    },
-    {
-      "id": "4931229",
-      "time": "2026-06-12 04:07:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們認為伊朗方面態度理性，雙方將會達成協議。"
-    },
-    {
-      "id": "4931228",
-      "time": "2026-06-12 04:06:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗對達成協議表現出極大的熱情。"
-    },
-    {
-      "id": "mkt:019eb84b-119c-7dd8-afca-c429914ef33e",
-      "time": "2026-06-12 04:06:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Reuters survey found 42 of 45 economists expect the Reserve Bank of Australia to keep the cash rate at 4.35% on June 16. In the same survey, 26 of 44 economists forecast the cash rate at 4.35% at end-September; 18 expect 4.60% or higher."
-    },
-    {
-      "id": "4931227",
-      "time": "2026-06-12 04:05:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相：任命Dan Jarvis為國防大臣。"
-    },
-    {
-      "id": "4931226",
-      "time": "2026-06-12 04:05:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：根據該協議，伊朗將不得擁有核武器。"
     }
   ]
 }
