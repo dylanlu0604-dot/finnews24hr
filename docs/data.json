@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-18 13:55:09",
+  "updated": "2026-06-18 13:59:18",
   "count": 18839,
   "items": [
+    {
+      "id": "4942550",
+      "time": "2026-06-18 13:57:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中信集團張文武：精準支援科創企業四個發展階段 匹配差異化金融產品】6月18日，中國中信集團有限公司副董事長、總經理張文武在2026陸家嘴論壇上表示，科技金融目前有兩個問題比較突出：一是資金的結構問題，直接融資和間接融資的結構矛盾比較突出；二是科創企業階段性的資金供給問題，主要是在其初創期、種子期、成長期。針對這類企業發展的四個階段，中信集團匹配差異化金融產品，實現精準業務定位。"
+    },
+    {
+      "id": "4942549",
+      "time": "2026-06-18 13:56:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部啟動洪水防禦Ⅳ級應急響應】據預報，6月18日至25日，江淮、江南北部西部及湖北等地將持續出現大到暴雨，部分地區將有大暴雨。國家防總副總指揮、水利部部長李國英對做好新一輪強降雨防範工作作出專門安排部署。根據《水利部水旱災害防禦應急響應工作規程》，水利部於6月18日12時針對安徽、江西、湖北、湖南、貴州等5省啟動洪水防禦Ⅳ級應急響應，要求地方水利部門和相關流域管理機構密切監視天氣變化，加強雨情水情監測預報、會商研判和應急值守，做好水工程排程、中小河流洪水防禦、山洪災害防禦等工作，確保人民群眾生命財產安全；向相關省份發出“一省一單”靶向預警，通報強降雨覆蓋範圍縣（市、區）名單、水庫名單、山洪災害風險區域及點位，提醒針對性加強防禦措施；派出3個工作組赴貴州、湖北、湖南省一線協助指導暴雨洪水防禦工作。目前，水利部維持針對福建、廣東、廣西3省（自治區）的洪水防禦Ⅳ級應急響應。"
+    },
+    {
+      "id": "mkt:019ed94c-6d8d-7dd8-b06d-7226384ad897",
+      "time": "2026-06-18 13:55:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said NATO must once again be a strong military alliance."
+    },
+    {
+      "id": "4942548",
+      "time": "2026-06-18 13:55:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【玩具、電動車、童車3C認證新規11月起實施】記者今天（18日）瞭解到，市場監管總局全面修訂了玩具、電動腳踏車、童車CCC產品認證實施規則，將於今年11月1日起實施。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ed94c-3a7a-7dd8-b06d-690a3eaf2104",
+      "time": "2026-06-18 13:55:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said the U.S. will be candid with NATO in all public and private communications."
+    },
+    {
+      "id": "mkt:019ed94b-d631-7dd8-b06d-64767be2f954",
+      "time": "2026-06-18 13:54:46",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "French finance minister says additional savings are needed to reduce the deficit to 5% of GDP."
+    },
+    {
+      "id": "4942547",
+      "time": "2026-06-18 13:54:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國財長表示，需要更多儲蓄才能將赤字控制在GDP的5%以內。"
+    },
     {
       "id": "4942546",
       "time": "2026-06-18 13:54:06",
@@ -173592,66 +173649,6 @@
         "公司"
       ],
       "text": "【最強Arm CPU正式上線 3奈米192核】亞馬遜雲科技（AWS）宣佈，基於第五代自研Arm處理器Graviton5的Amazon EC2 M9g和M9gd例項正式上線。AWS在公告中明確表示，Graviton5為“迄今為止效能最強、能效最高的自研CPU”。其核心數量從Graviton4的96核翻倍至192核，架構層面放棄了單一計算核心晶片設計，轉而採用4晶片組（Chiplet）方案，每個晶片組包含48個核心，並整合專屬的DRAM記憶體控制器和PCIe 6.0 I/O控制器。四個晶片組之間透過定製互連提供高達420GB/s頻寬，L3快取暴增5倍至192MB，分支預測能力大幅提升，執行真實資料庫等複雜程式碼時效能提升高達30%。Graviton5採用了臺積電3nm製程工藝，在同樣功耗下封裝了更多電晶體，實現了更高的電路密度與能效比。根據AWS官方資料，M9g例項相比基於Graviton4的M8g例項，通用計算效能提升25%，Web應用提升35%，機器學習推理提升35%，資料庫提升30%。"
-    },
-    {
-      "id": "4929652",
-      "time": "2026-06-11 13:57:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "甲骨文股價在Tradegate平臺下跌10.3%。"
-    },
-    {
-      "id": "mkt:019eb541-dfce-7dd8-afb4-ff24658dc748",
-      "time": "2026-06-11 13:57:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Meituan, Taobao Flash and JD Waimai sign pact to share cross‑platform \"blacklist\"】Guangdong provincial market regulator hosted a signing for an online catering self‑discipline covenant and co‑governance agreement. Meituan, Taobao Flash and JD Waimai signed the Guangdong Online Catering Industry High‑Quality Development and Food Safety Self‑Discipline Covenant. The five‑chapter, 21‑article covenant references the State Administration for Market Regulation’s Order No. 123 on network catering operators’ food safety responsibilities and sets rules on platform liability, merchant onboarding and management, delivery‑staff care and social co‑governance. It proposes, for the first time, a cross‑platform \"blacklist\" sharing mechanism to jointly restrict merchants who commit serious violations across all platforms — \"one violation, network‑wide restriction.\""
-    },
-    {
-      "id": "4929651",
-      "time": "2026-06-11 13:57:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：以色列北部響起警報，有敵機滲透。"
-    },
-    {
-      "id": "4929650",
-      "time": "2026-06-11 13:56:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "ZEPHIRIN GROUP將阿里巴巴目標價從112美元下調至92美元。"
-    },
-    {
-      "id": "4929649",
-      "time": "2026-06-11 13:56:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科威特宣佈空中交通恢復正常】當地時間11日上午，科威特民航總局宣佈，鑑於此前的“緊急情況”已得到解決，科威特領空內的空中交通恢復正常。科威特民航總局在一份通告中宣佈，科威特國際機場恢復正常運營，航班按照既定時刻表恢復執行。通告強調，民航部門將繼續全天候密切監控局勢，並與科威特境內外相關部門持續協調，以確保空域安全。"
-    },
-    {
-      "id": "4929648",
-      "time": "2026-06-11 13:55:36",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【美團、淘寶閃購、京東外賣集體簽約，建立“黑名單”共享機制】日前，廣東省市場監管局舉辦網路餐飲平臺自律公約和協同共治協議簽署活動。活動中，在廣東省市場監管局有關負責人的見證下，美團、淘寶閃購、京東外賣三家網路餐飲平臺共同簽署了《廣東省網路餐飲行業高質量發展與食品安全自律公約》（下稱“自律公約”），推動網路餐飲行業實現從“被動合規”到“主動治理”，從“規模擴張”到“品質優先”，從“單打獨鬥”到“協同共治”的轉變。公約全文共五章二十一條，緊扣《網路餐飲服務經營者落實食品安全主體責任監督管理規定》（國家市場監管總局第123號令）核心要求，圍繞平臺主體責任、入網餐飲商戶管理、配送人員關懷、社會共治等方面作出明確約定，首次提出建立跨平臺“黑名單”共享機制，對嚴重違法商戶實施跨平臺聯合約束，實現“一處違法、全網受限”。(南方plus)"
-    },
-    {
-      "id": "te:markets:558264",
-      "time": "2026-06-11 13:55:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Zinc Falls to 1-Month Low — Zinc futures fell toward $3,450 per tonne, the lowest in a month, as investors grew concerned about the demand outlook amid escalating tensions in the Middle East and expectations of tighter US monetary policy. The latest strikes between the US and Iran risk prolonging the conflict and stoking inflation, which could weigh on global growth and industrial metals demand. Still, losses were limited by tightening supply conditions. Glencore’s Kazzinc facility in Kazakhstan are running at reduced capacity after a fatal explosion, while Nexa’s Cajamarquilla smelter in Peru was temporarily suspended due to fire-related damage, though it recently announced a gradual resumption of production. These disruptions have reinforced concerns about global zinc availability, especially as the International Lead and Zinc Study Group projected a refined zinc deficit of 19,000 tonnes this year. Meanwhile, Boliden’s Garpenberg mine is set to resume production in Q2, helping to ease some supply pressures."
     }
   ]
 }
