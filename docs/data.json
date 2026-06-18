@@ -1,7 +1,136 @@
 {
-  "updated": "2026-06-18 16:09:37",
-  "count": 18974,
+  "updated": "2026-06-18 16:15:40",
+  "count": 18964,
   "items": [
+    {
+      "id": "mkt:019ed9ca-746f-7dd8-b073-70472a89d9fd",
+      "time": "2026-06-18 16:13:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shanghai Futures Exchange (SHFE) weekly on-exchange inventories: copper down 44,372 t; aluminum down 1,540 t; zinc down 1,929 t; lead unchanged; nickel up 2,414 t; tin down 785 t; natural rubber down 160 t."
+    },
+    {
+      "id": "4942892",
+      "time": "2026-06-18 16:12:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮外交政策顧問：歐洲人錯誤地認為戰場形勢正在向烏克蘭傾斜。"
+    },
+    {
+      "id": "mkt:019ed9ca-12f3-7dd8-b073-6c977ed090ef",
+      "time": "2026-06-18 16:12:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Kremlin foreign-policy adviser says Europeans are mistaken to believe the battlefield is shifting in Ukraine's favor."
+    },
+    {
+      "id": "4942891",
+      "time": "2026-06-18 16:12:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "瑞士央行行長：不確定性仍處於高位，能源市場目前主要受中東局勢影響。"
+    },
+    {
+      "id": "4942890",
+      "time": "2026-06-18 16:12:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【端午假期，4條兩岸“小三通”客運航線預計傳送旅客2.3萬人次】端午假期，兩岸“小三通”客運航線將迎來客流高峰。據福建海事局預計，端午假期三天，4條兩岸“小三通”客運航線預計傳送旅客2.3萬人次，同比增長21%。其中廈金“小三通”航線預計傳送旅客近2萬人次，同比增長16%，兩馬、黃馬“小三通”航線預計共傳送旅客1680人次，同比增長50.4%。假期期間，廈金、黃馬“小三通”航線將適時增開船班，滿足群眾出行需求。"
+    },
+    {
+      "id": "mkt:019ed9c9-4333-7dd8-b073-6459a587721f",
+      "time": "2026-06-18 16:11:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Minister Hegseth said NATO has long been a paper tiger and a one-way street, and that must change."
+    },
+    {
+      "id": "mkt:019ed9c8-f912-7dd8-b073-583bbb54d957",
+      "time": "2026-06-18 16:11:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) closed down 387.35 points (-1.59%) at 23,924.81 on Thursday, June 18. The Hang Seng Tech Index fell 64.72 points (-1.39%) to 4,604.35. The Hang Seng China Enterprises Index (HSCEI) dropped 167.99 points (-2.06%) to 7,976.04. The Hang Seng Red Chip Index slid 162.24 points (-3.89%) to 4,009.59."
+    },
+    {
+      "id": "4942889",
+      "time": "2026-06-18 16:11:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝西釋出國際養老人才培養專案】據陝西省社會福利與養老服務協會訊息：日前，由該協會、西安市慈善會聯合發起的國際養老人才培養專案正式釋出。該專案將於今年9月啟動首批招生，計劃招收200名學員赴海外開展介護技能深造，標誌著陝西養老人才培養邁出國際化步伐。據介紹，該專案將打造“留學—研修—本土轉化”相貫通的人才培養鏈條，創新構建“心理、醫學、社會”三維培訓體系，重點聚焦認知症科學照護、終末期人文關懷、從業者綜合素養培育三大領域。同時，還將拓寬從初級護理員到國際介護師的職業晉升通道，探索“慈善+養老”人才留用模式，形成可複製、可推廣的養老人才培養“陝西方案”。"
+    },
+    {
+      "id": "4942888",
+      "time": "2026-06-18 16:10:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "克里姆林宮稱，在七國集團峰會後，沒有與美國聯絡。"
+    },
+    {
+      "id": "te:economy:560019",
+      "time": "2026-06-18 16:10:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Italy Current Account Surplus Widens Sharply in April — Italy posted a current account surplus of EUR 2.3 billion in April 2026, more than doubling the EUR 1.1 billion in the corresponding month last year. The goods surplus expanded sharply to EUR 5.0 billion from EUR 3.3 billion. The secondary income deficit narrowed to EUR 0.9 billion from EUR 1.1 billion. On the other hand, the deficits in the services account (EUR -0.5 billion vs EUR -0.2 billion in April 2025) and the primary income (EUR -1.3 billion vs EUR -0.9 billion) widened."
+    },
+    {
+      "id": "mkt:019ed9c7-e6b3-7dd8-b073-5353261244f7",
+      "time": "2026-06-18 16:10:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00688.HK",
+        "01109.HK"
+      ],
+      "text": "Hong Kong stocks closed lower: Hang Seng fell 1.59%, Hang Seng TECH fell 1.39%. CAOCAO (02643.HK) slid over 15%; China Overseas Land & Investment (00688.HK) fell about 9%; CHINA RES LAND (01109.HK) dropped 7.3%. Zhipu (02513.HK) jumped over 26% to a record high; MINIMAX-W (00100.HK) rose over 12%."
+    },
+    {
+      "id": "te:markets:560018",
+      "time": "2026-06-18 16:09:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Drops by 1.47% — Top commodity losers are Rubber (-1.47%) and Cotton (-0.53%). Gains are led by Oat (1.06%), Rice (0.76%) and Wheat (0.56%)."
+    },
+    {
+      "id": "4942887",
+      "time": "2026-06-18 16:09:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍建股份：起訴拉薩城投追討6407.34萬元工程款】龍建股份公告稱，為維護公司和股東利益，公司就與拉薩市城市建設投資經營有限公司的建設工程施工合同糾紛，向西藏自治區拉薩市城關區人民法院提起訴訟，涉案金額6407.34萬元。目前一審法院已立案，公司為原告。鑑於案件尚未開庭，暫無法判斷對公司本期或期後利潤的具體影響，公司將持續關注並及時披露進展。"
+    },
     {
       "id": "4942886",
       "time": "2026-06-18 16:09:03",
@@ -174802,223 +174931,6 @@
         "公司"
       ],
       "text": "【惠豐鑽石包頭CVD生產線預計7月初投產】從惠豐鑽石股份有限公司獲悉，該公司全資持股的惠豐鑽石（包頭）有限公司CVD生產線，預計將於今年7月初投產，比原計劃有所提前。據悉，惠豐鑽石5年內在包頭公司的投資額將達5億元。據惠豐鑽石相關負責人介紹，之所以選擇包頭，是因為金剛石熱沉片的成本，60%以上是能源成本，包頭有豐富的煤炭和風力資源，每度電成本在0.30元左右，解決了CVD高溫製備高耗能痛點。未來包頭公司將是惠豐鑽石生產大尺寸CVD金剛石單晶、金剛石散熱基板（伺服器、AI晶片熱沉核心材料）和量產高品級培育鑽石毛坯的基地，為其三亞天涯鑽超級工場提供上游支撐。（新華財經）"
-    },
-    {
-      "id": "4929957",
-      "time": "2026-06-11 16:15:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約高階軍官：美國仍致力於向歐洲提供關鍵軍事能力。"
-    },
-    {
-      "id": "mkt:019eb5c0-3a56-7dd8-afb8-94b769bcad66",
-      "time": "2026-06-11 16:15:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong's HSI closed down 158.67 pts (-0.65%) at 24,249.29 on June 11; Hang Seng Tech closed down 69.05 pts (-1.46%) at 4,655.74; Hang Seng China Enterprises Index (HSCEI) closed down 101.65 pts (-1.22%) at 8,217.08; Red Chip Index closed down 33.22 pts (-0.77%) at 4,260.75."
-    },
-    {
-      "id": "mkt:019eb5c0-274b-7dd8-afb8-8e15bf3fdff7",
-      "time": "2026-06-11 16:15:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO senior military official said the United States remains committed to providing key military capabilities to Europe."
-    },
-    {
-      "id": "mkt:019eb5bf-f62e-7dd8-afb8-8544d619186f",
-      "time": "2026-06-11 16:15:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "China Tech Giants",
-        "Star Stocks",
-        "Alibaba",
-        "JD.com",
-        "Hang Seng Index",
-        "Impact bearish",
-        "09988.HK",
-        "01772.HK",
-        "Impact bullish"
-      ],
-      "text": "【Hong Kong close: HSI down 0.65%; chip stocks rebound in afternoon】Hong Kong stocks closed lower. HSI -0.65%, Hang Seng Tech -1.46%. PCB names led gains: Kingboard Laminates (01888.HK) up over 10%, Shenghong Technology (02476.HK) up over 5%. Chip names recovered in the afternoon; Lanqi Technology (06809.HK) rose about 5%. Property names were active: Shimao Group (00813.HK) climbed over 6%, CHINA RES LAND (01109.HK) gained about 2%. Lithium battery names firmed—Ganfeng Lithium (01772.HK) up ~5%. Other active themes included commercial space, memory, dairy, media and agriculture. Large internet names weakened: Alibaba (09988.HK) down >5%, JD.com (09618.HK) down nearly 3%. Weakness concentrated in power equipment, AI, robotics, NEV makers, building materials/cement and gold sectors."
-    },
-    {
-      "id": "4929956",
-      "time": "2026-06-11 16:15:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【加皇資本：英國住房市場趨勢要求適度謹慎而非樂觀】加皇資本市場的Anthony Codling和Oliver Dyson表示，根據RICS最新的5月份調查，英國住房市場似乎境況不佳，而非正在復甦。他們表示，儘管需求、供應和價格方面的整體資料依然處於深度負值，但至少發展方向不再是單邊向下。新買家詢價和達成協議的銷售量停止進一步跌入負值區域，並環比保持穩定。他們表示，房價跌幅連續第二個月保持在負35%不變，這好於整個第一季度出現的惡化軌跡。“該調查沒有為對銷售量感到樂觀提供理由。保持謹慎仍是適當的姿態。”Barratt Redrow下跌1.4%，Vistry和泰勒溫佩下跌1.2%。"
-    },
-    {
-      "id": "4929955",
-      "time": "2026-06-11 16:14:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic就暗中降級道歉】Anthropic日前宣佈， 就針對前沿AI開發人員制定特殊政策道歉，Anthropic在發給媒體的官方宣告中承認，在這一政策的處理上“做出了錯誤的權衡”，並就未能平衡好相關關係公開致歉。該公司表示，將把此前隱蔽的限制措施調整為“對使用者完全可見”。 本週早些時候，Anthropic釋出了最新版模型Claude Fable 5，並增設了防止濫用的安全護欄，當系統檢測到使用者試圖利用該模型訓練競爭產品時，會暗中故意降低模型的輸出效能。此舉被指企圖透過“秘密破壞”手段，落實其服務條款中禁止競爭對手使用其資料進行模型訓練的規定。"
-    },
-    {
-      "id": "mkt:019eb5bf-7745-7dd8-afb8-7a7a73aba5ea",
-      "time": "2026-06-11 16:14:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Germany's defense minister said Europe faces a dilemma and understands the United States may need to withdraw some U.S. forces, but Europe currently lacks the military capability to compensate."
-    },
-    {
-      "id": "4929954",
-      "time": "2026-06-11 16:14:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟法院法律顧問：歐盟委員會未充分披露新冠疫苗採購合同相關資訊。"
-    },
-    {
-      "id": "mkt:019eb5be-edae-7dd8-afb8-73bc975e6fc1",
-      "time": "2026-06-11 16:14:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.5-magnitude quake strikes southern Philippine waters】The Philippine Institute of Volcanology and Seismology (PHIVOLCS) said a 5.5-magnitude earthquake struck southern Philippine waters at about 15:33 on June 11, with a focal depth of 10 km; the tremor was felt in nearby areas. The same region experienced a magnitude-7.8 quake on June 8 that killed at least 47 people and affected more than 340,000."
-    },
-    {
-      "id": "4929953",
-      "time": "2026-06-11 16:13:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國國防軍總監：歐洲陷入兩難境地，已意識到美國需要撤回軍事能力，但我們自身尚未具備相應能力。"
-    },
-    {
-      "id": "4929952",
-      "time": "2026-06-11 16:13:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恩威醫藥：控股股東部分股份被司法凍結 佔總股本0.13%】恩威醫藥公告稱，公司控股股東恩威集團所持137,584股被司法凍結，佔其持股比例0.53%，佔公司總股本0.13%，凍結起始日為2026年6月9日，到期日為2029年6月8日。截至公告披露日，恩威集團及其一致行動人累計被凍結股份佔公司總股本0.13%。本次凍結系民間借貸糾紛，恩威集團作為擔保方擔責，目前各方正協商解決，不會導致公司控制權變更，對公司經營無實質影響。"
-    },
-    {
-      "id": "4929951",
-      "time": "2026-06-11 16:12:45",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【貴州茅臺董事長陳華：價格不能出現大起大落 大家不傳謠、不信謠】6月11日下午，貴州茅臺(600519)2025年度股東會在茅臺會議中心召開，來自全國千餘名茅臺股東、機構投資者與分析師齊聚茅臺鎮。針對茅臺酒價格問題，茅臺集團董事長陳華表示，將隨行就市，相對平穩，價格不能出現大起大落，供需適配、量價平衡。目前，茅臺酒價格調整社會高度關注，公司對此高度保密，網上流傳有各種資訊，大家不傳謠、不信謠。"
-    },
-    {
-      "id": "4929950",
-      "time": "2026-06-11 16:12:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓南部海域再發生5.5級地震】據菲律賓火山地震研究所訊息，6月11日15時33分左右，菲律賓南部海域再次發生5.5級地震，震源深度10公里，附近多地有震感。附近區域在6月8日發生7.8級強震，導致至少47人死亡，逾34萬人受災。（央視新聞）"
-    },
-    {
-      "id": "4929949",
-      "time": "2026-06-11 16:11:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【應用材料美股盤前漲超5%】應用材料美股盤前漲超5%，現報521.96美元。"
-    },
-    {
-      "id": "mkt:019eb5bc-b8d3-7dd8-afb8-6ecfe1e05cb8",
-      "time": "2026-06-11 16:11:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "600519.SS"
-      ],
-      "text": "【Kweichow Moutai chairman Chen Hua: prices must not see large swings; do not spread or believe rumors】At the June 11, 2025 annual shareholders meeting in Maotai, Kweichow Moutai chairman Chen Hua said pricing will follow market conditions and remain relatively stable, and that prices must not experience large swings. He said the company will align supply with demand to balance volume and price. Price adjustments are being kept highly confidential; Chen urged investors and the public not to spread or believe online rumors."
-    },
-    {
-      "id": "mkt:019eb5bc-50c7-7dd8-afb8-65d020ee13c3",
-      "time": "2026-06-11 16:11:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver rose 2.00% intraday to $64.65/oz."
-    },
-    {
-      "id": "4929948",
-      "time": "2026-06-11 16:10:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗媒體：霍爾木茲海峽航運全面停滯】據塔斯尼姆通訊社，繼伊朗哈塔姆・安比亞總部及伊斯蘭革命衛隊海軍發出警告後，霍爾木茲海峽航運已完全中斷。衛星影像監測顯示，該海峽通行活動徹底陷入停滯。此前美方軍隊對伊朗南部多座城市發動新一輪軍事襲擊，伊朗方面隨即釋出相關警告。哈塔姆・安比亞總部宣佈全面封鎖霍爾木茲海峽。這條海上咽喉承擔著全球約五分之一石油的運輸任務。伊朗伊斯蘭革命衛隊海軍另發宣告警告，任何駛入該戰略水道的船隻都將遭到堅決反擊。衛隊同時警示，目前在波斯灣及阿曼海海域的所有油輪與商船，一律不得駛離錨地。針對此次襲擊，伊朗伊斯蘭革命衛隊空天部隊、海軍以及伊朗陸軍展開聯合行動，對區域內 18 處美軍目標實施了打擊。"
-    },
-    {
-      "id": "4929947",
-      "time": "2026-06-11 16:10:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院國資委黨委召開樹立和踐行正確政績觀學習教育督導組工作座談會暨第二批督導工作部署會】6月10日，國務院國資委黨委召開樹立和踐行正確政績觀學習教育督導組工作座談會暨第二批督導工作部署會，深入學習貫徹習近平總書記重要講話和重要指示批示精神，學習貫徹中央黨的建設工作領導小組會議精神，傳達學習中央指導組工作座談會暨繼續派出中央指導組培訓會議精神，瞭解督導工作進展，聽取意見建議，研究部署進一步做好指導督導工作，推動國資央企學習教育走深走實。國務院國資委黨委委員、副主任譚作鈞出席會議並講話。（國資小新）"
-    },
-    {
-      "id": "mkt:019eb5bb-6f41-7dd8-afb8-5e943578c4ee",
-      "time": "2026-06-11 16:10:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Iran foreign ministry: US large-scale strike renders ceasefire 'meaningless'】Iran's foreign ministry on the 11th condemned a large-scale US strike on Iran on the night of the 10th, saying the attack has caused 'extremely dangerous consequences' and has rendered the earlier US‑Iran ceasefire 'meaningless'. (Xinhua)"
-    },
-    {
-      "id": "te:markets:558324",
-      "time": "2026-06-11 16:10:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cotton Rises by 1.70% — Top commodity gainers are Cotton (1.70%) and Palm Oil (0.77%). Biggest losers are Oat (-0.54%) and Rice (-0.52%)."
-    },
-    {
-      "id": "mkt:019eb5bb-1592-7dd8-afb8-5536a186e363",
-      "time": "2026-06-11 16:09:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Kweichow Moutai chairman says no stock-split plan】At the company's June 11, 2025 annual general meeting in Moutai, chairman Chen Hua said shareholders' views on a stock split are sharply divided and, after comprehensive assessment, the company currently has no plan to split shares."
-    },
-    {
-      "id": "4929946",
-      "time": "2026-06-11 16:09:51",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【茅臺董事長陳華正面回應“拆股”】6月11日，貴州茅臺酒股份有限公司2025年度股東會召開。會上，關於備受爭議的“拆股”問題，茅臺集團黨委書記、董事長陳華從正面進行回應：“關於拆股問題，股東觀點目前非常分化。同時我們也關注到不少大咖也在討論茅臺是否應該拆股，大家的意見建議我們都收到和關注到了，感謝大家對茅臺發展的關心與支援。”陳華表示：“從目前來看的話，公司暫無拆股計劃。”（酒業內參）"
-    },
-    {
-      "id": "mkt:019eb5ba-efd5-7dd8-afb8-481c6757fce6",
-      "time": "2026-06-11 16:09:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian sources said Iran and the United States are still negotiating a preliminary agreement, including a mechanism to unfreeze funds."
     }
   ]
 }
