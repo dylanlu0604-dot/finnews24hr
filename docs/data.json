@@ -1,7 +1,158 @@
 {
-  "updated": "2026-06-18 17:21:03",
-  "count": 19016,
+  "updated": "2026-06-18 17:25:09",
+  "count": 19021,
   "items": [
+    {
+      "id": "mkt:019eda0b-cc9c-7dd8-b075-e0b9e236f63f",
+      "time": "2026-06-18 17:24:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian antitrust regulator has asked a large private petrol-station chain in Moscow to explain a 19% rise in 95-octane gasoline prices since last week."
+    },
+    {
+      "id": "4943096",
+      "time": "2026-06-18 17:24:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯反壟斷監管機構要求莫斯科大型私營加油站連鎖企業就95號汽油價格自上週以來上漲19%作出解釋。"
+    },
+    {
+      "id": "te:economy:560052",
+      "time": "2026-06-18 17:24:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Moldova Central Bank Rises Policy Rate to 7% — The National Bank of Moldova raised its benchmark interest rate by 500 basis points to 7% in June 2026, bringing borrowing costs to the highest level since May 2023. Headline inflation rose to 6.8%, reaching its highest level since the start of the year and above the upper limit of the central banks target range of 3.5%-6.5%, largely due to rising energy prices and supply side constraints. Inflation expectations foresee an upward trend by year-end, with a decline thereafter. Meanwhile, economic activity growth slowed sharply to 0.4% in the first quarter of 2026 from 3.6% in the prior quarter. Looking ahead, uncertainty remains elevated amid ongoing geopolitical tensions, tariff adjustments, and the effects of newly implemented fiscal measures. Future monetary policy decisions will continue to be guided by developments in the domestic and external macroeconomic environment, with the central bank standing ready to use all available instruments to preserve price stability."
+    },
+    {
+      "id": "4943095",
+      "time": "2026-06-18 17:24:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "非洲疾控中心就埃博拉疫情釋出宣告：非洲成員國已承諾提供8000萬美元，同時非洲疾控中心呼籲迅速撥付資金，並向一線應對人員提供緊急支援。"
+    },
+    {
+      "id": "4943094",
+      "time": "2026-06-18 17:23:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯中股份：首次回購6.65萬股，耗資69.8萬元】匯中股份公告，公司於2026年6月11日董事會審議透過回購方案，擬以1800萬元-2500萬元回購股份用於股權激勵或員工持股計劃，回購價格不超過18.84元/股。2026年6月17日，公司首次以集中競價方式回購股份6.65萬股，佔總股本0.03%，成交價10.48-10.5元/股，耗資69.8萬元。"
+    },
+    {
+      "id": "4943093",
+      "time": "2026-06-18 17:23:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "非洲疾控中心：非洲聯盟高階別會議已籌得9.1億美元認捐，用於應對剛果民主共和國（剛果金）本迪布焦埃博拉疫情及烏干達疫情防控工作。"
+    },
+    {
+      "id": "4943092",
+      "time": "2026-06-18 17:23:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：一旦確認安全，將隨時恢復航運。"
+    },
+    {
+      "id": "mkt:019eda0a-3dda-7dd8-b075-d9abcd172fb9",
+      "time": "2026-06-18 17:22:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Maersk said it has not yet resumed transits through the Strait of Hormuz."
+    },
+    {
+      "id": "4943091",
+      "time": "2026-06-18 17:22:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST新潮：公司股票將於6月23日撤銷退市風險警示及其他風險警示】*ST新潮公告，公司股票將於2026年6月22日停牌一天，2026年6月23日起復牌並撤銷退市風險警示及其他風險警示。撤銷風險警示後，公司股票簡稱由“*ST新潮”變更為“新潮能源”，股票程式碼仍為600777，公司股票價格的日漲跌幅限制由5%變為10%。"
+    },
+    {
+      "id": "4943090",
+      "time": "2026-06-18 17:22:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米正式釋出“全屋智慧AI開源方案”Xiaomi Miloco 2.0】6月18日，小米正式釋出面向未來的“全屋智慧AI開源方案”Xiaomi Miloco 2.0，該方案以小米自研 MiMo 大模型為智慧核心，在Miloco 1.0的基礎上實現互動方式、產品功能、記憶系統等方面的全面升級。同時Miloco 2.0使用門檻相比前代大幅降低，以Agent外掛形式接入OpenClaw，支援一鍵安裝和部署，支援macOS、Linux、Windows系統。"
+    },
+    {
+      "id": "4943089",
+      "time": "2026-06-18 17:22:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬士基：公司尚未恢復船舶通行霍爾木茲海峽。"
+    },
+    {
+      "id": "4943088",
+      "time": "2026-06-18 17:21:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基對美伊簽署諒解備忘錄表示歡迎。"
+    },
+    {
+      "id": "4943087",
+      "time": "2026-06-18 17:21:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：我們將持續密切關注局勢進展。"
+    },
+    {
+      "id": "mkt:019eda09-19ab-7dd8-b075-d181cff17c48",
+      "time": "2026-06-18 17:21:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "Market Themes",
+        "AI Revolution",
+        "1810.HK"
+      ],
+      "text": "【Xiaomi launches Miloco 2.0 whole-home smart AI open-source solution】June 18 — Xiaomi launched Miloco 2.0, a whole-home smart AI open-source solution built around its self-developed MiMo large model. Miloco 2.0 upgrades interaction modes, product functionality and memory systems vs Miloco 1.0 and cuts integration friction by providing an Agent plugin for OpenClaw that enables one-click installation and deployment on macOS, Linux and Windows."
+    },
+    {
+      "id": "4943085",
+      "time": "2026-06-18 17:21:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數收盤上漲 0.7%，報 5212.84 點。"
+    },
+    {
+      "id": "4943084",
+      "time": "2026-06-18 17:20:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【立航科技：股票連續3日漲幅偏離值累計超20% 提示投資風險】立航科技公告稱，公司股票2026年6月16日至18日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬股票交易異常波動。經自查，公司生產經營正常，無應披露未披露重大事項，未發現對股價有重大影響的媒體報道、市場傳聞及熱點概念。公司提醒投資者注意二級市場交易風險，理性決策，審慎投資。"
+    },
+    {
+      "id": "4943083",
+      "time": "2026-06-18 17:20:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐菲律賓使館推動三佳鋼鐵廠被扣70名中國公民全部獲釋】中國駐菲律賓使館高度重視東米薩米斯省三佳鋼鐵廠70名中國公民被菲方查扣案。繼推動64名中國公民於5月28日獲釋後，使館持續敦促菲方加快在押6人的身份核查程式，要求其依法公正快速處理，切實維護中國公民合法權益。使館還派員探視在押人員給予關心幫助，並協助安排庭審翻譯。5月29日和6月3日又分別有兩人獲釋，最後兩人先後於6月15日與17日獲釋。至此，該案被扣的70名中國公民已全部恢復自由。（中國駐菲律賓大使館）"
+    },
     {
       "id": "4943082",
       "time": "2026-06-18 17:20:07",
@@ -185,12 +336,29 @@
       "text": "【珍寶島：股票交易異常波動 多項經營資料同比下降】珍寶島公告稱，公司股票於2026年6月16 - 18日連續3個交易日內收盤價格跌幅偏離值累計達20%，屬異常波動情形。經核查，公司及控股股東、實控人均無應披露未披露重大事項，經營正常，無熱點概念及影響股價的報道或傳聞。目前有3億元閒置募集資金到期未歸還。2025年營收7.97億元，同比降70.51%，扣非淨虧損13.81億元，同比降442.75%；2026年一季度營收1.82億元，同比降61.28%，扣非淨利潤1.83億元，同比降351.50%。控股股東累計質押3.68億股，佔其持股78.24%，佔總股本39.08%。"
     },
     {
+      "id": "4943071",
+      "time": "2026-06-18 17:13:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【誠邁科技：控股股東部分股份解除質押 214.22萬股】誠邁科技公告稱，近日控股股東誠邁發展將其持有的公司214.22萬股股份辦理解除質押，佔公司總股本3.72%、其所持股份0.99%。截至公告披露日，誠邁發展持股5763.91萬股，佔比26.56%，本次解質後質押股份2513.18萬股，佔其所持股份43.60%。目前質押股份不存在平倉或強制過戶風險，不會導致公司實際控制權變更。"
+    },
+    {
       "id": "4943070",
       "time": "2026-06-18 17:13:39",
       "tags": [
         "公司"
       ],
       "text": "【米奧會展：子公司參投基金完成6.26億元募資並完成備案】米奧會展公告稱，全資子公司三保匯投於2026年4月24日與華民投等簽署《合夥協議》，參投華月創智(青島)創業投資基金合夥企業，目標認繳總金額2.10億元，三保匯投認繳3000萬元，佔比14.2586%。後因合夥人變動，6月4日各方重新簽署協議，認繳總額增至6.26億元，三保匯投出資不變，佔比降至4.7923%。6月17日，該基金完成私募投資基金備案手續。後續經營存在多種風險，公司將及時披露進展。"
+    },
+    {
+      "id": "4943069",
+      "time": "2026-06-18 17:13:33",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【世界黃金協會：更多央行選擇將黃金儲備移回國內】世界黃金協會調查顯示，越來越多央行將黃金從倫敦和紐約金庫中移出，增加國記憶體儲或分散海外儲存地點。過去四年，各國央行平均每年購入1000噸黃金，是過去十年平均水平的兩倍。近九成受訪央行表示，預計未來一年全球央行黃金儲備將會增加。"
     },
     {
       "id": "4943068",
@@ -175343,128 +175511,6 @@
         "DXY"
       ],
       "text": "Bahrain's foreign minister said during a meeting with Russian foreign minister Lavrov that 36 drones attacked Bahraini territory this morning."
-    },
-    {
-      "id": "4930153",
-      "time": "2026-06-11 17:24:52",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "日本首相高市早苗：將在七國集團會議上提議出臺石油儲備相關舉措。"
-    },
-    {
-      "id": "4930152",
-      "time": "2026-06-11 17:24:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴林外交大臣在與拉夫羅夫會晤時稱，今晨有 36 架無人機襲擊了巴林境內目標。"
-    },
-    {
-      "id": "4930151",
-      "time": "2026-06-11 17:24:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "由美國支援的人工智慧中心或將為菲律賓初步引入 100 億美元資金 。"
-    },
-    {
-      "id": "4930150",
-      "time": "2026-06-11 17:23:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【太陽電纜：億力集團擬減持公司不超過3%股份】太陽電纜公告，持股10.4%的股東福建億力集團有限公司計劃於2026年7月6日至2026年9月30日，以集中競價方式減持不超過722.33萬股（佔總股本1%），以大宗交易方式減持不超過1444.67萬股（佔總股本2%），合計減持不超過2167萬股（佔總股本3%），減持原因為自身經營需要。"
-    },
-    {
-      "id": "mkt:019eb5fe-a9ba-7dd8-afb9-ce1505279f27",
-      "time": "2026-06-11 17:23:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan economic survey projects real GDP growth of 3.7% in FY2026."
-    },
-    {
-      "id": "4930149",
-      "time": "2026-06-11 17:23:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順鑫農業：下屬分公司鵬程食品因超標排放廢水被罰款25萬元】順鑫農業公告，下屬分公司鵬程食品分公司因汙水治理設施加藥泵故障，自測總磷合格後繼續排放廢水，當日汙水總排口總磷有效日均值達9.43mg/L，超出排汙許可證規定的8.0mg/L排放限值，超許可排放濃度倍數0.178倍，當日非停排時段累計排放廢水562.5噸，被北京市順義區生態環境局處以25萬元罰款。公司已要求鵬程食品積極配合環保部門完成整改措施，全面排查汙水治理設施、自動監控裝置，強化設施日常巡檢、維護及運維管理，完善環境管理制度，杜絕同類問題再次發生。"
-    },
-    {
-      "id": "te:economy:558339",
-      "time": "2026-06-11 17:23:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malta",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Malta Industrial Production Rebounds to 13-Month High — Industrial production in Malta rose by 7.3% year-on-year in April 2026, rebounding from a revised 3.8% decline in the previous month and marking the strongest growth since March 2025. The turnaround was mainly driven by higher output in the manufacturing sector (8.1% vs -5.0% in March), particularly in wood, paper products and printing (62.9%), followed by computer, electronic and optical products and motor vehicles (34.9%), and food products and beverages (13.0%). Among main industrial groupings, output accelerated for intermediate goods (11.0% vs 0.4%) and consumer durable goods (4.3% vs 0.1%), while consumer goods (7.6% vs -6.9%) and consumer non-durable goods (7.9% vs -7.4%) rebounded. In contrast, energy output declined (-9.2% vs 18.0%) and capital goods output fell further (-2.1% vs -0.3%).. On a seasonally adjusted monthly basis, industrial activity rose by 5.2% in April."
-    },
-    {
-      "id": "4930148",
-      "time": "2026-06-11 17:23:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦經濟調查：預計2026財年實際GDP增長率為3.7%。"
-    },
-    {
-      "id": "4930147",
-      "time": "2026-06-11 17:23:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多重原因影響下 花生山東產區播種面積繼續下滑】根據卓創資訊從產區調研情況反饋來看，山東地區新花生播種積極性繼續維持低位。初步測算2026產季新花生播種面積約50.55萬公頃，同比下滑6.64%。本產季山東產區整體播種時間正常，播種階段雨水適宜。"
-    },
-    {
-      "id": "mkt:019eb5fe-208c-7dd8-afb9-c539388e785d",
-      "time": "2026-06-11 17:23:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "Turkey's foreign minister said Iran and the US must stop attacking and return to the negotiating table to reach an agreement."
-    },
-    {
-      "id": "4930146",
-      "time": "2026-06-11 17:22:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普洛藥業：擬1億元至1.5億元回購股份】普洛藥業(000739.SZ)公告稱，公司擬使用自有資金以集中競價方式回購股份，用於登出並減少註冊資本。回購資金總額不低於1億元(含)且不超過1.5億元(含)，回購價格不超過20元/股。預計回購股份數量不低於500萬股且不超過750萬股，約佔公司總股本的0.43%-0.65%。回購期限自股東會審議透過之日起6個月內。該方案尚需提交股東會審議。"
-    },
-    {
-      "id": "4930145",
-      "time": "2026-06-11 17:22:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外交部長：伊朗與美國必須停止攻擊，重返談判桌以敲定會談成果。"
-    },
-    {
-      "id": "4930144",
-      "time": "2026-06-11 17:21:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗強烈譴責美軍襲擊 稱一切危險後果由美方承擔】當地時間6月11日，伊朗外交部發布關於美國嚴重違反停火協議的宣告，強烈譴責美國10日晚對伊朗發動的大規模襲擊，並強調由此造成的一切極其危險的後果應由美國政府承擔。宣告表示，美國近期發動的非法和犯罪性襲擊，不僅嚴重違反了《聯合國憲章》以及有關尊重國家主權和領土完整的國際法基本原則，並且實際上已使今年4月8日伊美達成的停火協議“失去意義”。宣告稱，美國軍隊繼續利用部分地區國家的領土和設施，籌備並實施針對伊朗的襲擊。伊朗重申，地區所有國家在法律和道義上都有明確責任，應防止美軍利用其領土、設施和資源對伊朗實施襲擊。（央視新聞）"
-    },
-    {
-      "id": "4930143",
-      "time": "2026-06-11 17:21:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡海峽時報指數收盤上漲 0.6%，報 4988.10 點。"
     }
   ]
 }
