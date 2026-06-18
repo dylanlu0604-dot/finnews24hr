@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-19 05:50:50_
-_本檔包含 3859 則快訊，約 707324 字_
+_更新時間：2026-06-19 06:50:37_
+_本檔包含 3846 則快訊，約 706755 字_
+
+---
+
+### 2026-06-15 21:38:55  #公司
+
+【皮爾法伯集團畢太維®（恩考芬尼）和美妥維®（貝美替尼）聯合療法在華獲批】皮爾法伯集團6月15日宣佈，畢太維®（恩考芬尼）和美妥維®（貝美替尼）的聯合療法已獲得中國國家藥品監督管理局正式批准，用於治療BRAFV600E突變型轉移性非小細胞肺癌（NSCLC）成人患者。
+
+---
+
+### 2026-06-15 21:37:59  #市場 #焦點
+
+PTA連續主力合約日內跌3%，現報5882.00元。
+
+---
+
+### 2026-06-15 21:37:58  #市場
+
+Roku股價盤前走勢反轉，現下跌1.2%。
+
+---
+
+### 2026-06-15 21:37:38  #其他
+
+德國總理默茨：協議也必須在黎巴嫩得到遵守。
+
+---
+
+### 2026-06-15 21:37:37  #MKT News
+
+German Chancellor Merz said the agreement must be implemented in Lebanon.
+
+---
+
+### 2026-06-15 21:37:22  #MKT News #UAL.O #Impact bullish #DAL.O #LUV.O
+
+U.S. airline stocks rallied: JetBlue Airways up 10.0%, Alaska Air Group up 8.0%, United Airlines up 6.3%, Delta Air Lines up 4.2%, Southwest Airlines up 4.2% and American Airlines up 3.8%. The S&P Composite 1500 Airlines Index rose 5% to its highest level in more than seven years.
+
+---
+
+### 2026-06-15 21:37:20  #公司 #國際
+
+【霍爾木茲海峽等候通行船隻增加 安全成首要關切】據彭博社15日報道，美國和伊朗14日宣佈達成停戰諒解備忘錄後，在霍爾木茲海峽周圍等候通行的船隻增加，但船東和運營商目前仍普遍持謹慎態度，表示需要了解更多細節以評估是否能安全透過該海峽。報道援引市場服務機構克普勒公司的分析說，海灣數百艘閒置船隻中，近300艘已裝載並隨時準備透過霍爾木茲海峽，阿曼灣也有大約同樣數量的船隻在等待返回主要出口碼頭。理論上，這將釋放數百萬桶原油供應，但實際通行仍面臨多重障礙，包括需清除船體附著物，以及爭奪狹窄航道通行權等問題。黑曜石風險諮詢公司管理合夥人佈雷特·埃裡克森表示，安全問題是所有船東考量的核心。“航運業、船長及船員對此高度警覺。他們清楚一次誤判、一次攻擊或一次政治決策，都可能導致局勢嚴重惡化。”美以伊戰事爆發前，經霍爾木茲海峽運輸的石油通常為日均2000萬桶，約佔全球石油日運輸總量的五分之一。航運業機構估計，經過3個多月的衝突，約有500艘商船仍滯留在海灣，通行量當前降至涓流狀態。（新華社）
+
+---
+
+### 2026-06-15 21:36:59  #MKT News
+
+Kuwait Civil Aviation Authority says Terminal 4 at Kuwait International Airport has resumed limited operations for Gulf, other Arab and foreign carriers.
+
+---
+
+### 2026-06-15 21:36:53  #市場 #焦點
+
+納斯達克中國金龍指數漲超1%，嘉楠科技漲13.84%，億航漲10.86%，再鼎醫藥漲5.59%，迅雷漲5.16%，金山雲漲5.31%。
+
+---
+
+### 2026-06-15 21:36:43  #國際
+
+德國總理默茨就伊朗問題表態：相關協議或將為全球經濟穩定鋪平道路。
+
+---
+
+### 2026-06-15 21:36:26  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rise Sharply on Iran-US Deal — US equities were sharply higher on Monday after the US and Iran said they agreed to a deal that ends their war and restores energy exports from the Middle East. The S&P 500 gained 1.5%, the Nasdaq rose over 2%, and the Dow gained over 1%. The deal was set to be signed on Friday, with reports indicating it includes Iran cleaning the Strait of Hormuz from mines and naval blockades being lifted for all exports from the Persian Gulf. Energy prices and bond yields fell, improving macroeconomic conditions and boosting risk demand in the heavyweight tech sector. Nvidia, Amazon, Meta, and Oracle gained around 3%. Meanwhile, SpaceX was 6% higher following its 20% surge on its IPO day last session after CEO Musk signaled it may have $1 trillion in revenue in 2031. Chip producers continued to rally on more cash being raised by AI developers and the influx of orders that translates for AI infrastructure companies. In turn, the defensive sectors were lower, with J&J dropping 2.5%.
+
+---
+
+### 2026-06-15 21:36:00  #公司 #市場
+
+標普綜合1500航空公司指數上漲5%，創七年多新高。
+
+---
+
+### 2026-06-15 21:35:47  #公司
+
+科威特民航局：科威特恢復海灣、阿拉伯及外國航空公司在科威特國際機場4號航站樓的有限運營。
+
+---
+
+### 2026-06-15 21:35:17  #國際
+
+【馬克龍：不會屈從美方威脅而取消數字稅】法國總統馬克龍15日回應美國總統特朗普的關稅威脅時說，法國不會屈從美方威脅而取消針對美國科技巨頭的數字稅。馬克龍當天在法國埃維昂萊班接受法國電視一臺採訪時說，數字稅是歐洲法律體系的一部分，一些國家已經實施，美國無權替歐洲人或法國人制定法律。特朗普當天早些時候稱，美國將對法國葡萄酒徵收100%的關稅，除非法國取消針對美國科技巨頭的數字稅。馬克龍就此回應說，加徵關稅對美國沒有好處，因為這無法解決美國的貿易問題，反而推高了某些商品的價格。他希望與特朗普進行討論，透過協商解決這些問題。（新華社）
+
+---
+
+### 2026-06-15 21:35:17  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #S&P500
+
+【Macron: France will not yield to US tariff threats or cancel digital tax】French President Macron said on the 15th he will not yield to U.S. President Trump’s tariff threats and will not cancel France’s digital tax targeting U.S. tech giants. Speaking in Evian-les-Bains on public television, Macron said the levy is part of Europe’s legal framework, some countries have already implemented it, and the U.S. has no right to set laws for Europeans or the French.
+
+---
+
+### 2026-06-15 21:35:07  #市場
+
+標普500工業指數創下自3月以來的首個歷史最高紀錄。
+
+---
+
+### 2026-06-15 21:35:00  #MKT News #Commodities #Energy #S&P500 #Impact bearish
+
+The S&P 500 Energy index fell 4.5%, its largest decline since 2025.
+
+---
+
+### 2026-06-15 21:34:56  #市場
+
+標普500能源指數下跌4.5%，或將創2025年以來最大跌幅。
+
+---
+
+### 2026-06-15 21:34:39  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish
+
+S&P 500 Industrials index hit its first record high since March.
+
+---
+
+### 2026-06-15 21:34:14  #MKT News #FOXA.O #Impact bearish #ROKU.O
+
+Fox Corporation to acquire streaming platform Roku for $22 bln; Fox shares plunged 14%, the largest one-day drop in the company's history; Roku (ROKU.O) down 1.6%.
+
+---
+
+### 2026-06-15 21:34:11  #市場 #焦點
+
+聚丙烯連續主力合約日內跌2%，現報8196.00元。
+
+---
+
+### 2026-06-15 21:34:08  #市場
+
+多倫多綜合股指<.GSPTSE>盤中創下歷史新高，突破了6月4日的峰值。
+
+---
+
+### 2026-06-15 21:33:52  #其他
+
+阿曼外交大臣表示，伊美協議是外交與理性的及時成果。
+
+---
+
+### 2026-06-15 21:33:18  #市場
+
+【費城半導體指數高開 上漲4.7%】費城半導體指數高開，上漲4.7%。英偉達股價上漲2.67%，臺積電股價上漲3.76%，博通股價上漲3.37%，美光科技股價上漲9.31%，超威半導體股價上漲6.61%，阿斯麥股價上漲1.47%。
+
+---
+
+### 2026-06-15 21:33:14  #公司
+
+能源穹頂公司：將向電網新增一套容量19兆瓦的二氧化碳基電池系統；谷歌將透過與鹽河專案（SRP）達成的成本分攤協議為該專案提供部分資金。
+
+---
+
+### 2026-06-15 21:32:48  #MKT News #Important #Commodities #Energy #XOM.N #Impact bearish #OXY.N #COP.N
+
+US and Iran reach a memorandum of understanding; US oil and gas stocks fall broadly: Exxon Mobil (XOM.N) down 5.6%, Chevron (CVX.N) down 4.4%, Occidental Petroleum (OXY.N) down 5.4%, ConocoPhillips (COP.N) down 4.9%.
+
+---
+
+### 2026-06-15 21:32:38  #市場 #國際
+
+美國能源企業股價下跌，因美伊達成和平協議後油價下滑。雪佛龍下跌4.4%，埃克森美孚下跌5.2%，康菲石油下跌4.7%。西方石油公司股價下跌5.8%，APA集團股價下跌6.5%。
+
+---
+
+### 2026-06-15 21:32:27  #國際
+
+據俄羅斯媒體15日報道，俄國防部說一架圖-22M3戰略轟炸機飛行訓練期間在俄伊爾庫茨克地區墜毀，機上乘員獲救。（新華社）
+
+---
+
+### 2026-06-15 21:32:14  #市場 #焦點
+
+現貨黃金突破4360美元/盎司，日內漲3.49%。
+
+---
+
+### 2026-06-15 21:32:08  #市場
+
+紐約期銀日內漲5%，現報71.39美元/盎司。
+
+---
+
+### 2026-06-15 21:32:01  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #WTI #S&P500 #Impact mixed
+
+【U.S. Manufacturing Output Flat in May as Cost Pressures Emerge】U.S. factory output stalled in May after four months of gains, suggesting supply‑chain disruptions tied to the Iran war and surging input costs may be starting to weigh. U.S. data showed factory output essentially unchanged in May while broader industrial production, including utilities and mining, rose 0.1%. Earlier gains had been driven by customer stockpiling, higher defense orders and continued data‑center construction; Monday’s figures imply rising costs could be damping activity. A separate report showed producer prices rose YoY at their fastest pace since 2022. Sector divergence was evident: non‑durables fell—led by petroleum & coal products, plastics & rubber and textiles—while data‑center‑related industries (computers & electronics, electrical equipment, fabricated metals, machinery and primary metals) continued to expand.
+
+---
+
+### 2026-06-15 21:31:59  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+U.S. stock indices opened higher on Monday, June 15: Dow Jones Industrial Average up 634.80 points, or 1.24%, at 51,837.06; S&P 500 up 104.15 points, or 1.40%, at 7,535.61; Nasdaq Composite up 597.62 points, or 2.31%, at 26,486.47.
+
+---
+
+### 2026-06-15 21:31:55  #公司
+
+福克斯公司股價暴跌14%，創歷史最大跌幅。
+
+---
+
+### 2026-06-15 21:31:20  #公司
+
+【福斯特：市場正在加速匯入公司載板幹膜和阻焊幹膜】福斯特今日在互動平臺表示，福斯特電子材料致力於高階電子材料的國產化，以前伺服器線路板的載板幹膜和阻焊油墨均由海外材料企業供應，近期隨著國內伺服器線路板產能擴張及技術進步，市場擔憂未來海外企業高階電子材料的供應及價格問題，正在加速匯入福斯特的載板幹膜和阻焊幹膜。
+
+---
+
+### 2026-06-15 21:31:01  #MKT News
+
+U.S. Supreme Court to hear Trump administration appeal on prolonged detention of certain immigrants facing removal proceedings.
+
+---
+
+### 2026-06-15 21:30:52  #市場 #焦點
+
+紐約期金突破4380美元/盎司，日內漲3.33%。
+
+---
+
+### 2026-06-15 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指漲1.15%，標普500指數漲1.32%，納指持平。西部資料漲10.12%，希捷漲9.91%，21世紀福克斯跌13.20%，福克斯-B跌11.08%，費哲跌9.04%。“七姐妹”方面：Meta Platforms漲2.66%，亞馬遜漲2.60%，谷歌漲2.25%，英偉達漲1.96%，特斯拉漲1.48%，微軟漲1.45%，蘋果漲0.73%。
+
+---
+
+### 2026-06-15 21:30:45  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #S&P500 #Impact bullish #SPCX.O #NVDA.O
+
+【U.S. and Iran reach memorandum of understanding; U.S. stocks open higher】U.S. and Iran reached a memorandum of understanding. U.S. stocks opened higher: Dow +1.2%, S&P 500 +1.3%, Nasdaq +2.1%. Newly listed SpaceX (SPCX.O) extended gains, up 6.7%. NVIDIA (NVDA.O) rose 1.7% after saying it plans to raise at least $20 billion via issuance of high-grade bonds. Nasdaq Golden Dragon China Index +0.85%.
+
+---
+
+### 2026-06-15 21:30:39  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Exxon Mobil Stock Price Hits 18-week Low — Exxon Mobil shares decreased to 139.41 USD, the lowest since February 2026. Over the past 4 weeks, Exxon Mobil lost 3.01%, and in the last 12 months, it increased 31.12%.
+
+---
+
+### 2026-06-15 21:30:38  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Chevron Stock Price Hits 8-week Low — Chevron shares decreased to 179.50 USD, the lowest since April 2026. Over the past 4 weeks, Chevron gained 0.66%, and in the last 12 months, it increased 28.31%.
+
+---
+
+### 2026-06-15 21:30:30  #市場 #焦點
+
+納斯達克中國金龍指數漲超0.5%。
+
+---
+
+### 2026-06-15 21:30:20  #市場
+
+多倫多股票交易所綜合指數（.GSPTSE）開盤上漲137.26點，漲幅0.39%，報35075.11點。
+
+---
+
+### 2026-06-15 21:30:09  #Trading Economics #Markets #United States #stocks #Importance 1
+
+ConocoPhillips Stock Price Hits 15-week Low — ConocoPhillips shares decreased to 111.71 USD, the lowest since February 2026. Over the past 4 weeks, ConocoPhillips lost 8.23%, and in the last 12 months, it increased 20.31%.
+
+---
+
+### 2026-06-15 21:30:04  #公司 #市場
+
+SpaceX開盤漲超6%，公司上市首日收漲超19%，市值超越“七巨頭”中的特斯拉及Meta。馬斯克週日表示，SpaceX到2030年的營業收入可能達到1萬億美元。
+
+---
+
+### 2026-06-15 21:29:49  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+Bahrain's foreign ministry welcomed a US-Iran memorandum of understanding on negotiations and a ceasefire.
+
+---
+
+### 2026-06-15 21:29:36  #國際
+
+巴林外交部對美國與伊朗就談判及停火達成的諒解備忘錄表示歡迎。
+
+---
+
+### 2026-06-15 21:28:52  #國際
+
+【伊朗外交部：伊美最終協議須以安理會決議形式確認】當地時間15日，伊朗外交部發言人巴加埃在新聞釋出會上表示，伊美停戰諒解備忘錄已經最終敲定。伊朗計劃在正式簽署協議當天，同時公佈該檔案的完整文字及其說明摘要。在預計約60天的談判結束後，全面協議須以聯合國安理會一項具有法律約束力和強制執行力的決議形式予以登記和確認。（央視新聞）
+
+---
+
+### 2026-06-15 21:28:49  #MKT News
+
+【Iran foreign ministry says final Iran-US agreement must be confirmed by UN Security Council resolution】Baghaei said at a press briefing on the 15th that an Iran-US ceasefire memorandum of understanding has been finalized. Iran will publish the full text and an explanatory summary on the day the document is signed. After an expected roughly 60-day negotiation period, any comprehensive agreement must be registered and confirmed as a legally binding, enforceable UN Security Council resolution, Baghaei said.
 
 ---
 
@@ -22979,371 +23267,5 @@ A senior Israeli official told Israel's Channel 12 that Trump's Iran deal is 'a 
 ### 2026-06-14 02:11:41  #MKT News
 
 Saudi and Pakistani foreign ministers held a phone call to exchange views on regional developments and related response efforts.
-
----
-
-### 2026-06-14 02:11:28  #MKT News
-
-Saudi foreign minister spoke by phone with Pakistan's foreign minister to discuss recent developments.
-
----
-
-### 2026-06-14 02:10:53  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-Lebanon's National News Agency (NNA) reported Israeli forces bombed the town of Blat in the Marjayoun area of southern Lebanon.
-
----
-
-### 2026-06-14 02:10:39  #焦點 #國際
-
-伊朗四家銀行（國家銀行、商業銀行、出口銀行、出口發展銀行）遭遇小規模網路攻擊。 相關部門表示，客戶資料未被訪問或洩露，系統已得到管控，目前正在開展修復工作。
-
----
-
-### 2026-06-14 01:50:54  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-【Kuwait foreign minister discusses progress on US-Iran peace agreement text with Qatari PM】Kuwait foreign minister Sabah spoke by phone on Saturday with Qatari PM and foreign minister Al Thani; they reviewed recent regional developments and the ongoing negotiations, noting progress toward a final text of a US-Iran peace agreement.
-
----
-
-### 2026-06-14 01:48:42  #MKT News
-
-【Libya presidential council chair says willing to deepen ties with China】Libya Presidential Council chairman Manfi said in Tripoli on June 13 that Libya prioritizes developing relations with China and is willing to deepen mutually beneficial cooperation across sectors to elevate bilateral ties.
-
----
-
-### 2026-06-14 01:47:58  #國際
-
-市場資訊：美國房價創下歷史新高，均價首次突破40萬美元。
-
----
-
-### 2026-06-14 01:46:32  #國際
-
-【利比亞總統委員會主席：願推動利中關係邁向更高水平】利比亞總統委員會主席曼菲13日在利比亞首都的黎波里表示，利方高度重視發展對華關係，願不斷增進兩國各領域互利合作，推動雙邊關係邁向更高水平。（新華社）
-
----
-
-### 2026-06-14 01:44:15  #國際
-
-伊朗法爾斯通訊社：特朗普推動美伊備忘錄於週日簽署，但伊朗官員表示協議尚未敲定，預計不會舉行簽署儀式。有觀點認為，特朗普希望藉此次官宣恰逢自己生日，將其打造為一場具有象徵意義的政治勝利。週日也將成為一場考驗，看看伊朗談判代表能否堅守立場，頂住壓力拒絕倉促簽約。
-
----
-
-### 2026-06-14 01:44:01  #國際
-
-巴勒斯坦紅新月會：加沙城中部亞爾穆克地區遭佔領軍槍擊，造成四人受傷。
-
----
-
-### 2026-06-14 01:40:39  #國際
-
-市場資訊：日本將赴格陵蘭島勘探開採稀土。
-
----
-
-### 2026-06-14 01:37:39  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Israeli daily Yedioth Ahronoth reports Israel says it need not sign any agreement with Iran, retains the right to self‑defense, but any military action must be coordinated with the US.
-
----
-
-### 2026-06-14 01:34:41  #國際
-
-以色列電視臺：根據與伊朗達成的協議，以色列軍隊不會從安全區撤出。
-
----
-
-### 2026-06-14 01:31:19  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Saudi state TV reports the Israeli military is preparing to respond should ground operations in southern Lebanon be halted. The report says Israeli forces will not withdraw from the security zone under an agreement with Iran.
-
----
-
-### 2026-06-14 01:28:06  #國際
-
-美國媒體：烏克蘭的“愛國者”導彈防禦系統嚴重缺乏攔截導彈。因此，它無法抵禦來自俄羅斯的大規模攻擊。
-
----
-
-### 2026-06-14 01:25:45  #國際
-
-市場資訊：71%的美國公立學校教師表示自己至少兼職一份工作。
-
----
-
-### 2026-06-14 01:24:55  #焦點 #國際
-
-市場資訊：目前美國十餘所高校的年度就學總費用已突破十萬美元。
-
----
-
-### 2026-06-14 01:23:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【U.S. Secretary of State Rubio tells Indian foreign minister all vessels in Strait of Hormuz must obey U.S. orders】The U.S. State Department said Secretary of State Rubio told Indian foreign minister S. Jaishankar in a call that all commercial vessels in the Strait of Hormuz must immediately obey U.S. military orders. Rubio warned violations of the U.S. blockade of Iranian ports and illegal transport of Iranian oil will not be tolerated. The call, earlier this week, followed a U.S. strike on a tanker in the waterway that killed three Indian seafarers; Jaishankar told Rubio he reiterated India’s strong protest and called lethal attacks on commercial shipping unreasonable.
-
----
-
-### 2026-06-14 01:14:05  #國際
-
-首架載有被美國驅逐移民的航班抵達班吉。
-
----
-
-### 2026-06-14 01:06:22  #國際
-
-【扎波羅熱核電站恢復正常執行】據俄羅斯媒體報道，扎波羅熱核電站發言人葉夫根尼婭·亞希娜13日表示，該核電站各系統在外部供電恢復後，已開始正常執行模式。 亞希娜稱，外部電源恢復後，扎波羅熱核電站裝置狀況安全，輻射水平正常。（新華社）
-
----
-
-### 2026-06-14 01:03:58  #國際
-
-【特朗普稱美伊協議計劃14日簽署】當地時間6月13日，美國總統特朗普在社交媒體平臺發文稱，美伊協議“計劃明日簽署，簽署後，霍爾木茲海峽將對所有人開放”。（央視新聞）
-
----
-
-### 2026-06-14 01:02:43  #MKT News #Market Themes #AI Revolution
-
-【After Amazon CEO briefed US officials, Trump administration restricts foreign use of Anthropic models】According to people familiar, the Trump administration has decided to block foreign access to Anthropic’s most capable AI models after Amazon CEO Andy Jassy told US officials, including Treasury Secretary Bessent, that Amazon researchers were able via a series of prompts to induce Anthropic’s Fable 5 to produce information that could be used in cyberattacks. The White House convened, security researchers corroborated Amazon’s findings, and the government — with presidential approval — will bar foreign governments, companies and individuals from accessing the tool. Anthropic said it will cut all user access to Mythos and Fable to ensure compliance; US officials have long judged Anthropic’s new models difficult to manage from a security standpoint.
-
----
-
-### 2026-06-14 00:59:08  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-Downing Street said both leaders agreed freedom of navigation must be restored to mitigate global economic impact.
-
----
-
-### 2026-06-14 00:59:05  #其他
-
-唐寧街：兩國領導人一致認為，必須恢復航行自由，以緩解全球經濟所受的影響。
-
----
-
-### 2026-06-14 00:58:50  #MKT News
-
-Downing Street: Prime Minister Starmer reiterated the UK is ready at any time to support implementation of any peace agreement.
-
----
-
-### 2026-06-14 00:58:39  #其他
-
-唐寧街：英國首相斯塔默重申，英國隨時準備支援任何和平協議的執行。
-
----
-
-### 2026-06-14 00:58:14  #MKT News
-
-10 Downing Street said Prime Minister Starmer supports U.S. President Trump’s efforts to end the conflict with Iran.
-
----
-
-### 2026-06-14 00:57:53  #國際
-
-唐寧街：英國首相斯塔默對特朗普總統為結束與伊朗衝突所做的努力表示支援。
-
----
-
-### 2026-06-14 00:57:51  #MKT News #Market Regions #Europe & UK
-
-Downing Street said Prime Minister Starmer spoke by phone with U.S. President Donald Trump this afternoon.
-
----
-
-### 2026-06-14 00:57:07  #國際
-
-唐寧街：英國首相斯塔默今日下午與美國總統特朗普通話。
-
----
-
-### 2026-06-14 00:54:47  #國際
-
-市場資訊：美國和伊朗高階官員將在瑞士舉行會晤。
-
----
-
-### 2026-06-14 00:54:03  #MKT News #Important #WTI #Impact mixed #Brent #DXY
-
-【Trump says deal to be signed tomorrow; Strait of Hormuz to be "open to all nations"】President Trump posted on social media that an agreement with Iran will be signed tomorrow and, once signed, the Strait of Hormuz will be "open to all nations." He said the deal will involve no cash transfers, unlike Obama-era payments. Trump added that, when appropriate and after conditions calm, the US would use B-2 bombers to recover "nuclear dust" and dilute/destroy it in Iran or the United States. He said he expects long-term cooperation with Iran and the region but warned if the process fails "we have an ultimate alternative we hope never to use."
-
----
-
-### 2026-06-14 00:50:47  #MKT News
-
-US President Trump said US-Iran relations are markedly different and better than under prior administrations.
-
----
-
-### 2026-06-14 00:49:19  #焦點 #國際
-
-【特朗普：伊核協議將於明日簽署】特朗普在社交平臺發文稱：“奧巴馬時期與伊朗達成的《聯合全面行動計劃》，實則是讓伊朗輕鬆順利研發核武器的捷徑。按照那份協議，伊朗六年前就能擁有核武器，並且早就會付諸使用。我和伊朗達成的協議則截然相反，它會徹底阻斷伊朗獲取核武器的可能。”他說，事實上，伊朗如今不再謀求核武器，也永遠無法透過自研、採購或其他任何途徑得到核武。這份協議定於明日簽署，協議生效後，霍爾木茲海峽將即刻全面開放。本屆政府與伊朗的關係，相較此前數屆政府有了極大改善。奧巴馬政府曾向伊朗輸送數千億美元資金，其中還包括17億美元現金，而本次協議不會產生任何資金往來。特朗普表示：“待局勢完全平穩後，我們會出動先進的B-2轟炸機及優秀飛行員，深入伊朗境內，清理深埋在堅固花崗岩山體下的核相關物料。無論這些物料位於伊朗還是美國，我們都會對其進行稀釋並徹底銷燬。我們期待在未來長期與伊朗及整個中東地區開展合作。希望此次相關程序能夠推進得迅速、順利。倘若事與願違，我們也留有最終應對手段，但願永遠無需動用。”
-
----
-
-### 2026-06-14 00:48:46  #MKT News #Important
-
-U.S. President Trump on Iran said he hopes the process will be completed quickly, simply and smoothly; if not, we have an ultimate contingency plan.
-
----
-
-### 2026-06-14 00:48:36  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Trump on Iran: At the right time, when everything is calm, we will go in and get the 'nuclear dust'.
-
----
-
-### 2026-06-14 00:47:46  #MKT News #Important #WTI #Impact bearish #Brent
-
-U.S. President Trump said an agreement on Iran is scheduled to be signed tomorrow; once signed, the Strait of Hormuz will be immediately open to all.
-
----
-
-### 2026-06-14 00:47:14  #國際
-
-特朗普談伊朗：希望這一程序能迅速、輕鬆、順利地完成；如若不然，我們有最終替代方案。
-
----
-
-### 2026-06-14 00:47:00  #國際
-
-特朗普談伊朗：待時機成熟、局勢平復後，我們將進駐伊朗清理核廢料。
-
----
-
-### 2026-06-14 00:46:35  #焦點 #國際
-
-特朗普：協議簽署後，霍爾木茲海峽立即對所有船隻開放。
-
----
-
-### 2026-06-14 00:46:30  #焦點 #國際
-
-特朗普：伊核協議將於明日簽署。
-
----
-
-### 2026-06-14 00:43:38  #MKT News
-
-Costa said he had just met with Apple CEO Tim Cook for a productive discussion on children's online safety, artificial intelligence and innovation.
-
----
-
-### 2026-06-14 00:41:50  #宏觀 #公司 #國際
-
-歐洲理事會主席科斯塔：剛剛與蘋果執行長蒂姆·庫克就網路兒童安全、人工智慧及創新議題進行了愉快的交談。歐盟已出臺完善法規，保障未成年人在數字平臺享有高標準的安全與隱私保護，但我們仍需付出更多努力。歐盟各國領導人與歐盟委員會正研究進一步最佳化網路環境、保護未成年人的舉措，包括設定社交媒體使用的法定數字成年年齡。下週將在埃維昂舉辦的七國集團峰會，也將推動全球協同制定數字領域未成年人保護方案。
-
----
-
-### 2026-06-14 00:40:36  #國際
-
-美國中央司令部：一架MH-60“海鷹”直升機從德爾伯特·D·布萊克號驅逐艦（DDG-119）飛行甲板起飛。該艦當前在阿拉伯海航行，執行針對伊朗的封鎖任務。截至6月13日，中央司令部部隊已驅離141艘商船，並迫使9艘商船停航，確保相關禁令得到執行。
-
----
-
-### 2026-06-14 00:40:07  #公司
-
-【山東陽穀一化工企業石蠟料場起火致3人受傷】記者從山東省陽穀縣應急管理局獲悉，6月13日17時38分，山東陽穀華泰化工股份有限公司石蠟料場起火，造成3人受傷，正在全力救治，無生命危險。事故救援工作和原因調查正在進行。（新華社）
-
----
-
-### 2026-06-14 00:30:03  #國際
-
-真主黨：已使用導彈襲擊黎巴嫩南部傑迪代特·邁斯·傑巴勒區域內的以色列車隊集結地。
-
----
-
-### 2026-06-14 00:29:42  #國際
-
-真主黨：我方在阿普爾地區上空使用空對空導彈攔截一架以色列赫爾墨斯450無人機，迫使其撤離。
-
----
-
-### 2026-06-14 00:29:25  #國際
-
-真主黨：我方使用導彈襲擊了黎巴嫩南部傑迪代特邁斯傑巴勒地區的以色列敵方車隊集結點。
-
----
-
-### 2026-06-14 00:29:14  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-HEZBOLLAH said it struck an Israeli military vehicle staging area in Jdaydeh Mais al-Jabal in southern Lebanon with missiles.
-
----
-
-### 2026-06-14 00:29:02  #國際
-
-巴基斯坦外交部發言人週六表示，巴基斯坦將於週日以視訊會議形式承辦美伊和平協議簽署儀式。
-
----
-
-### 2026-06-14 00:18:37  #公司 #國際
-
-亞馬遜CEO賈西及其他科技企業負責人已與特朗普政府方面就AI大模型進行通話。
-
----
-
-### 2026-06-14 00:17:35  #國際
-
-巴基斯坦與沙烏地阿拉伯外交部長對美伊談判進入最終階段表示歡迎。
-
----
-
-### 2026-06-14 00:17:28  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Saudi outlet Alhadath, citing sources, said Iran's intervention has hindered prospects for a ceasefire between Israel and Lebanon.
-
----
-
-### 2026-06-14 00:16:18  #MKT News
-
-Saudi outlet al-Hadath, citing sources, reported the US is pressing Israel to make substantive progress in negotiations with Lebanon.
-
----
-
-### 2026-06-14 00:14:24  #宏觀 #公司 #國際
-
-【特朗普出臺限制舉措前，亞馬遜CEO賈西已對安索帕AI模型提出安全擔憂】據兩名瞭解相關溝通情況的人士透露，亞馬遜執行長安迪·賈西本週聯合多位科技行業高管，向特朗普政府高層官員表達了對Anthropic頂尖AI模型存在安全風險的擔憂。知情人士稱，作為安索帕最大投資方與服務商之一，亞馬遜負責人近日與政府官員的溝通，推動特朗普政府於上週五晚間以國家安全為由，對Anthropic的Claude Mythos 5與Fable 5模型出臺全新出口管制措施。該禁令禁止外籍人員使用上述兩款模型。安索帕表示，為遵守新規，公司已關停所有使用者對這兩款模型的訪問許可權。
-
----
-
-### 2026-06-14 00:13:39  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7
-
-Tech outlet The Information reported Amazon CEO Andy Jassy expressed concerns about Anthropic’s model before the Trump administration took action against the AI firm.
-
----
-
-### 2026-06-14 00:13:09  #公司 #國際
-
-市場資訊：亞馬遜CEO賈西在特朗普政府採取打壓行動前就對Anthropic模型表示擔憂。
-
----
-
-### 2026-06-14 00:08:35  #國際
-
-伊朗法爾斯通訊社：各方商定，現階段暫不提及核問題。
-
----
-
-### 2026-06-14 00:08:03  #國際
-
-伊朗方面表示，現階段不會提及核問題，解凍伊朗被凍結資產是相關協議的必要內容。
-
----
-
-### 2026-06-14 00:02:34  #MKT News
-
-Syria's president said demarcating the border with Lebanon is not a current priority, particularly while Lebanon faces a crisis and internal displacement.
-
----
-
-### 2026-06-14 00:02:19  #MKT News
-
-Syria's president said reports that Syria intervened in Lebanon are unfounded.
-
----
-
-### 2026-06-14 00:01:44  #MKT News
-
-【Trump to hold bilateral meetings with Middle East partners, India at G7 in France — US officials】President Trump will hold bilateral meetings next week during the G7 leaders' summit in France with leaders from France, Qatar, the UAE, Egypt and India, senior US officials said. Officials said Trump is expected to focus on economic development and security, supply‑chain resilience, artificial intelligence, regulatory simplification and energy abundance.
 
 ---
