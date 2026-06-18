@@ -1,7 +1,89 @@
 {
-  "updated": "2026-06-18 17:37:28",
-  "count": 19009,
+  "updated": "2026-06-18 17:41:31",
+  "count": 18999,
   "items": [
+    {
+      "id": "mkt:019eda1a-e98e-7dd8-b076-31580b10e953",
+      "time": "2026-06-18 17:40:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【JP Morgan warns chip-stock volatility could trigger VaR shock】JP Morgan strategists led by Nikolaos Panigirtzoglou warn rising volatility in semiconductor shares, even as the sector hits record highs, could trigger portfolio VaR breaches that force investors to cut positions. Panigirtzoglou said an influx of VaR-sensitive investors heightens susceptibility to self-reinforcing, volatility-driven selling. The Philadelphia Semiconductor Index (SOX) fell more than 10% earlier this month on concerns of AI-driven overheating but has since recovered to record highs. A BofA survey this week found long chipmakers the most crowded trade among fund managers."
+    },
+    {
+      "id": "4943133",
+      "time": "2026-06-18 17:40:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富士萊：全資子公司出資4800萬元參與設立創投基金，佔比48%】富士萊公告，公司全資子公司貝格資本擬作為有限合夥人出資人民幣4800萬元，與蘇州龍駒東方投資管理企業（有限合夥）、張衛東共同設立蘇州龍駒東格創業投資合夥企業（有限合夥），貝格資本佔認繳出資總額的48.00%。該合夥企業規模為人民幣1億元，存續期7年，專注投資符合新質生產力發展要求的戰略性新興產業。本次投資資金來源為自有資金，不構成關聯交易及重大資產重組，已經公司第五屆董事會第七次會議審議透過。"
+    },
+    {
+      "id": "4943132",
+      "time": "2026-06-18 17:40:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨賣出67.92億港元】港股通（滬）方面，中芯國際、建滔集團分別獲淨買入15.57億港元、12.82億港元；阿里巴巴-W淨賣出額居首，金額為19.80億港元；港股通（深）方面，建滔積層板、智譜分別獲淨買入8.35億港元、6.18億港元；阿里巴巴-W淨賣出額居首，金額為18.86億港元。"
+    },
+    {
+      "id": "mkt:019eda19-be69-7dd8-b076-2c2284ed0dab",
+      "time": "2026-06-18 17:39:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【FAW Jiefang Latin America sales up 103.4% in first five months】On June 18 FAW Jiefang said its commercial vehicle overseas exports rose 67.9% YoY in the first five months, with Latin America sales up 103.4% YoY."
+    },
+    {
+      "id": "4943131",
+      "time": "2026-06-18 17:39:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀛通通訊：收到湖北證監局警示函】瀛通通訊公告，公司及相關人員收到湖北證監局警示函。經查，公司2024年度確認營業外收入-非貨幣性資產交換利得492.49萬元，系員工持股計劃未解鎖部分股票出售所得。根據《企業會計準則第37號--金融工具列報》第二十二條第一款，出售庫存股所得應記入資本公積而非營業外收入，公司存在會計差錯。違反了《上市公司資訊披露管理辦法》相關規定。"
+    },
+    {
+      "id": "4943129",
+      "time": "2026-06-18 17:38:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天科技集團與浙江省簽署深化戰略合作框架協議】6月18日上午，中國航天科技集團有限公司與浙江省人民政府簽署深化戰略合作框架協議。根據協議，雙方將圍繞服務國家發展戰略大局，在太空人工智慧、商業航天、“航天+”新興產業和創新生態等方面開展深度合作，推動實現航天事業、航天產業與浙江省經濟社會深度融合，共同培育發展新質生產力。"
+    },
+    {
+      "id": "4943128",
+      "time": "2026-06-18 17:38:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一汽解放前5個月拉美區域銷量同比增長103.4%】記者6月18日從一汽解放獲悉，今年前5個月，一汽解放商用車出口延續高增長態勢，海外出口銷量同比增長67.9%，其中拉丁美洲區域銷量同比增幅達103.4%，增長勢頭強勁。（上證報）"
+    },
+    {
+      "id": "mkt:019eda18-3741-7dd8-b076-213a813e7f34",
+      "time": "2026-06-18 17:38:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "9988.HK",
+        "Impact bearish",
+        "0700.HK",
+        "0981.HK",
+        "Impact bullish"
+      ],
+      "text": "Southbound Stock Connect flows were net sellers of RMB 6.792 billion today. Via Shanghai Stock Connect, Alibaba-W and Tencent were net sold HKD 1.98 billion and HKD 1.10 billion respectively; SMIC posted the largest net buy at HKD 1.557 billion. Via Shenzhen Stock Connect, Alibaba-W and Tencent were net sold HKD 1.886 billion and HKD 871 million respectively; Kingboard Laminates led net buys at HKD 835 million."
+    },
+    {
+      "id": "4943127",
+      "time": "2026-06-18 17:37:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【鹿得醫療：行動式製氧機透過美國 FDA510(k) 稽核】鹿得醫療公告，公司於 2026 年 6 月 17 日收到美國食品藥品監督管理局通知，公司行動式製氧機（Portable Oxygen Concentrator，型號：Ares-6A、Ares-4A）正式獲得美國 FDA510(k) 稽核透過，稽核編號為 K252399，法規號為 21 CFR 868.5440，產品分類為 Ⅱ類（Class Ⅱ），產品程式碼為 CAW(Generator, Oxygen, Portable)。"
+    },
     {
       "id": "4943126",
       "time": "2026-06-18 17:36:37",
@@ -175222,169 +175304,6 @@
         "其他"
       ],
       "text": "【華友鈷業與SGS達成戰略合作】6月10日，華友鈷業與檢驗、鑑定、測試和認證機構SGS，正式舉行戰略合作簽約儀式，雙方將在碳中和全領域開展深度協作，助力企業綠色轉型，引領新能源行業低碳高質量發展。"
-    },
-    {
-      "id": "4930199",
-      "time": "2026-06-11 17:40:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【增聘後劉彥春旗下一基金逆勢上漲 顯見調倉動作】劉彥春旗下的景順長城鼎益混合(LOF)A近期逆勢上漲。天天基金資料顯示，該產品於5月9日增聘基金經理柯海東，成為劉彥春與柯海東共同管理的產品。如今增聘操作已滿月，兩位基金經理共管期間，該基金逆勢實現2.01%的正回報。同期，劉彥春與其他基金經理共管的產品均為負收益，劉彥春獨管的產品均下跌超6%。"
-    },
-    {
-      "id": "4930198",
-      "time": "2026-06-11 17:40:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【南向資金今日淨賣出27.54億港元】港股通（滬）方面，騰訊控股、建滔集團分別獲淨買入3.77億港元、2.86億港元；中國海洋石油淨賣出額居首，金額為10.63億港元；港股通（深）方面，建滔集團、建滔積層板分別獲淨買入7.76億港元、3.91億港元；阿里巴巴-W淨賣出額居首，金額為18.95億港元。"
-    },
-    {
-      "id": "4930197",
-      "time": "2026-06-11 17:40:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗再次稱霍爾木茲海峽暫時關閉】伊朗波斯灣海峽管理局11日在社交媒體上發文說，鑑於美軍在中東地區製造的緊張局勢，以及伊朗武裝部隊早些時候釋出的宣告，霍爾木茲海峽暫時關閉，直至另行通知。已獲通行許可的船隻請保持耐心，等待波斯灣海峽管理局的進一步指示。 伊朗武裝部隊11日早些時候說，即日起霍爾木茲海峽對所有船隻關閉，違規通行者將成為打擊目標。美軍中央司令部則發表宣告否認霍爾木茲海峽已被封鎖，並稱商業船隻仍在進出海峽。（新華社）"
-    },
-    {
-      "id": "4930196",
-      "time": "2026-06-11 17:39:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【民和股份：2026年5月雞苗銷售收入9606.39萬元 同比增35.10%】民和股份公告稱，2026年5月銷售商品代雞苗2850.45萬隻，同比增加12.52%，環比增加7.79%；銷售收入9606.39萬元，同比增加35.10%，環比增加12.96%。雞苗銷售收入同比上漲，主要因白羽肉雞市場穩定，雞苗售價上漲且銷量增加。公告提示，雞苗價格變動會影響公司業績，資料未經審計，僅供參考。"
-    },
-    {
-      "id": "4930195",
-      "time": "2026-06-11 17:39:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金嶺礦業：擬1000萬元設立全資子公司承接鐵礦探礦權】金嶺礦業公告稱，2024年10月公司以5528萬元競得山東省齊河縣大張地區鐵礦普查探礦權，2025年3月取得勘查許可證。為承接該探礦權，公司擬以自有資金1000萬元設立全資子公司山東金舜礦業有限公司，持股100%。2026年6月11日，該投資議案獲董事會審議透過，無需提交股東會，不構成關聯交易及重大資產重組。設立子公司結果存在不確定性，未來經營有風險，但不會對公司當期財務和經營成果產生重大影響。"
-    },
-    {
-      "id": "4930194",
-      "time": "2026-06-11 17:39:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東MALL引入首批實習機器人員工】近日，京東MALL引入首批實習機器人員工，覆蓋迎賓、導購、理貨、諮詢等崗位。其中，理貨崗機器人，可完成商品上架、貨品規整、雜物收納、床鋪整理等標準化運營工作，基於JoyAI-RA模型單品上架成功率突破90%。據瞭解，京東於2026年初正式啟動“智慧機器人產業加速計劃2.0”，加速佈局機器人解決方案平臺。"
-    },
-    {
-      "id": "4930193",
-      "time": "2026-06-11 17:39:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【茅臺總經理王莉股東會後被“包圍”，有人攜年份酒求籤名】6月11日，貴州茅臺酒股份有限公司2025年度股東會召開。會後，茅臺集團黨委副書記、總經理王莉被眾人包圍。有股東攜帶茅臺年份酒請其簽名，還有多位股東圍觀合影。（酒業內參）"
-    },
-    {
-      "id": "4930192",
-      "time": "2026-06-11 17:39:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI 考慮大幅降價，預備與 Anthropic 展開使用者爭奪戰。"
-    },
-    {
-      "id": "mkt:019eb60c-90f6-7dd8-afba-69741de4ee14",
-      "time": "2026-06-11 17:38:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Indian government: May fuel sales fell 6.5% YoY to 19.93 mln t. Diesel sales rose 1.6% YoY; gasoline sales rose 3.4% YoY."
-    },
-    {
-      "id": "4930191",
-      "time": "2026-06-11 17:38:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府資料顯示，印度5月柴油銷量同比增長1.6%，汽油銷量同比增長3.4%。"
-    },
-    {
-      "id": "4930190",
-      "time": "2026-06-11 17:38:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府資料顯示，印度5月燃油銷量為1993萬公噸，同比下降6.5%。"
-    },
-    {
-      "id": "mkt:019eb60b-b6ae-7dd8-afba-65198c50af1c",
-      "time": "2026-06-11 17:38:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia's economic minister said El Nifio could reduce overall crop yields by 8-10%."
-    },
-    {
-      "id": "4930189",
-      "time": "2026-06-11 17:38:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞經濟部長：厄爾尼諾現象或導致整體作物收成平均下降8%至10%。"
-    },
-    {
-      "id": "4930188",
-      "time": "2026-06-11 17:37:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST皇庭：A股股票連續三日收盤價跌幅偏離值累計超12%】*ST皇庭公告稱，公司A股股票於2026年6月9日、6月10日及6月11日連續三個交易日收盤價格跌幅偏離值累計超過12%，屬於股票交易異常波動情形。經核查，公司前期披露資訊無需更正或補充，未發現公共傳媒報道影響股價的未公開重大資訊，經營情況正常，控股股東和實控人無應披露未披露重大事項，異常波動期間未買賣公司股票。公司提醒投資者理性投資，注意風險。"
-    },
-    {
-      "id": "mkt:019eb60b-7c2c-7dd8-afba-5a01e2c6514e",
-      "time": "2026-06-11 17:37:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Chery and Yinwang sign strategic cooperation to advance L3/L4 autonomous driving】Chery Automobile Co., Ltd. and Yinwang Intelligent Technology Co., Ltd. signed a strategic cooperation agreement in Wuhu, Anhui on June 11 to deepen collaboration on L3 and L4 autonomous-driving technologies. The partners said they will accelerate technological breakthroughs and mass-production rollout of L3/L4 systems during China’s 15th Five-Year Plan period."
-    },
-    {
-      "id": "4930187",
-      "time": "2026-06-11 17:37:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SK海力士將在年底前量產375層NAND “以鉬代鎢”有望助力效能提升】據韓國科技媒體《THEELEC》報道，SK海力士已完成下一代V10系列375層3D NAND快閃記憶體生產驗證，正推進產線轉換，目標2026年透過現有工廠升級實現大規模量產，挑戰三星電子在超高堆疊技術的領先地位。此次技術迭代最大亮點在於金屬佈線層的材料革新，將部分字線從傳統鎢換為鉬。隨著3D NAND向600層以上邁進，鉬材料有望成為超高堆疊時代的核心關鍵。"
-    },
-    {
-      "id": "mkt:019eb60b-62b6-7dd8-afba-550522614568",
-      "time": "2026-06-11 17:37:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【JD MALL deploys first batch of trial robotic staff】JD MALL has deployed a first batch of trial robotic employees across reception, sales assistance, merchandising and customer consultation. Merchandising robots perform shelving, product arrangement, clutter removal and bed-making; JD says its JoyAI-RA model has achieved a single-item shelving success rate above 90%. JD launched its Intelligent Robot Industry Acceleration Plan 2.0 in early 2026 to accelerate rollout of a robot solutions platform."
-    },
-    {
-      "id": "mkt:019eb60b-4c9c-7dd8-afba-4c249b21c16e",
-      "time": "2026-06-11 17:37:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SK Hynix to mass-produce 375-layer NAND by year-end; molybdenum substitution may boost performance】Korean tech outlet THEELEC reports SK Hynix has completed production verification of its next‑generation V10 375‑layer 3D NAND and is converting production lines. The company aims for large‑scale mass production in 2026 via upgrades to existing fabs as it seeks to challenge Samsung Electronics' lead in ultra‑high stacking. The V10 design replaces some wordlines' traditional tungsten with molybdenum in the metal interconnect layers; molybdenum is expected to become a key material as 3D NAND advances beyond 600 layers."
-    },
-    {
-      "id": "mkt:019eb60b-4151-7dd8-afba-456dc60203ae",
-      "time": "2026-06-11 17:37:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia's economy minister said El Niño could reduce rainfall in some states by 40-60%."
     }
   ]
 }
