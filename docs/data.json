@@ -1,7 +1,164 @@
 {
-  "updated": "2026-06-18 22:14:07",
-  "count": 18945,
+  "updated": "2026-06-18 22:18:22",
+  "count": 18955,
   "items": [
+    {
+      "id": "4943768",
+      "time": "2026-06-18 22:16:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦能源管理委員會主席斯韋特：將責令電網制定明確規則，以接入資料中心。"
+    },
+    {
+      "id": "4943767",
+      "time": "2026-06-18 22:16:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "正在訪問黎巴嫩的英國發展大臣表示，以色列軍隊必須從黎巴嫩南部撤軍，以允許流離失所者返回家園。"
+    },
+    {
+      "id": "mkt:019edb16-bb79-7dd8-b080-ab15bec83d39",
+      "time": "2026-06-18 22:16:00",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "FERC Chair Swett said he will order U.S. grid operators to adopt clear interconnection rules for data centers."
+    },
+    {
+      "id": "4943766",
+      "time": "2026-06-18 22:15:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4240美元/盎司，日內跌0.41%。"
+    },
+    {
+      "id": "mkt:019edb16-1ec4-7dd8-b080-a7feb36d519a",
+      "time": "2026-06-18 22:15:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Austria's chancellor said Europe should engage in dialogue with Putin."
+    },
+    {
+      "id": "4943765",
+      "time": "2026-06-18 22:15:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "奧地利總理稱歐洲應與普京對話。"
+    },
+    {
+      "id": "mkt:019edb15-e0d2-7dd8-b080-989bd705ebd0",
+      "time": "2026-06-18 22:15:04",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【TD Securities: Bank of England may resume cuts in 2027】A TD Securities strategist said the Bank of England could keep Bank Rate at 3.75% for the remainder of 2026 and resume cutting in 2027. Elevated uncertainty over the inflation outlook and UK political risk could prompt the BoE to hold rates. LSEG data show markets have fully priced a 25bp BoE hike in 2026."
+    },
+    {
+      "id": "mkt:019edb15-be07-7dd8-b080-9577e422c998",
+      "time": "2026-06-18 22:14:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Resources Beer opens exit economic-responsibility audit of Shuijingfang GM Gan Xiaofeng; company says internal process】Market reports say China Resources Beer (Holdings) Ltd has launched a special exit audit of the economic-responsibility performance of Gan Xiaofeng, former GM of Jingzhi Baijiu and current GM of Shuijingfang. A contact in China Resources Beer's audit team confirmed the audit is underway, described it as an internal company process and said there is nothing for external disclosure. Shuijingfang had not responded by publication time."
+    },
+    {
+      "id": "4943764",
+      "time": "2026-06-18 22:14:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電美股漲超4%，再創歷史新高。"
+    },
+    {
+      "id": "mkt:019edb15-9bf1-7dd8-b080-8c00d452a579",
+      "time": "2026-06-18 22:14:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Iran foreign minister said under a memorandum of understanding the US has a responsibility to end wars on all fronts, including in Lebanon."
+    },
+    {
+      "id": "4943763",
+      "time": "2026-06-18 22:14:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "惠譽評美國消費者支出：油價若能持續下跌，或將緩解支出承壓狀況。"
+    },
+    {
+      "id": "mkt:019edb15-1eab-7dd8-b080-85b54a40a3ac",
+      "time": "2026-06-18 22:14:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude futures fell to $73/bbl, down 3.97% intraday."
+    },
+    {
+      "id": "4943762",
+      "time": "2026-06-18 22:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：根據諒解備忘錄，美國有責任結束包括黎巴嫩在內的所有戰線的戰爭。"
+    },
+    {
+      "id": "mkt:019edb14-ec18-7dd8-b080-7e6fb08fc035",
+      "time": "2026-06-18 22:14:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister held a phone call with France's foreign minister."
+    },
+    {
+      "id": "mkt:019edb14-9462-7dd8-b080-71abf4576fbc",
+      "time": "2026-06-18 22:13:39",
+      "tags": [
+        "MKT News",
+        "SNDK.O",
+        "Impact bullish"
+      ],
+      "text": "【SanDisk shares up more than 800% YTD】SanDisk (SNDK.O) shares jumped 10% to $2,147, lifting market cap to $317.9 bln; up over 800% YTD."
+    },
+    {
+      "id": "4943761",
+      "time": "2026-06-18 22:13:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報72.96美元/桶。"
+    },
+    {
+      "id": "4943760",
+      "time": "2026-06-18 22:13:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守73美元/桶，日內跌3.96%。"
+    },
     {
       "id": "mkt:019edb14-001b-7dd8-b080-6a8c582f3cec",
       "time": "2026-06-18 22:13:01",
@@ -174531,65 +174688,6 @@
         "Impact bullish"
       ],
       "text": "Amazon founder Jeff Bezos has committed $41 billion to set up a new AI lab, Prometheus, which will use artificial intelligence to drive transformation in the manufacturing and engineering sectors."
-    },
-    {
-      "id": "4930840",
-      "time": "2026-06-11 22:17:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝索斯在普羅米修斯融資一事上表示自己參與了B輪融資。"
-    },
-    {
-      "id": "4930839",
-      "time": "2026-06-11 22:17:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【6月11日增減持彙總】據不完全統計，6月11日盤後，包括利爾化學、英搏爾、矽電股份、科翔股份、隆華新材、賽微微電、盛泰集團、太陽電纜、魅視科技、航天環宇在內的10家A股上市公司披露擬減持情況，當日暫無A股公司披露增持情況。"
-    },
-    {
-      "id": "4930838",
-      "time": "2026-06-11 22:17:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【施小琳會見西甲聯盟主席特巴斯】6月11日，四川省委副書記、省長施小琳在成都會見西班牙職業足球聯盟（西甲聯盟）主席特巴斯一行。施小琳歡迎特巴斯再次來川訪問。她說，今年4月，四川代表團訪問西班牙並考察西甲聯盟總部，就足球文化及產業發展進行了深入交流。當前，四川正全力推動“十五五”開好局起好步，並把促進體育事業產業高質量發展作為一件大事來抓，以更好滿足人民群眾對美好生活嚮往、促進人的全面發展。四川足球文化底蘊深厚，職業足球蓬勃發展，球市持續火爆，群眾基礎紮實。西甲在賽事組織管理、商業開發運營、產業人才培育、足球文化推廣等方面擁有專業成熟經驗。希望強化常態長效對接合作，積極推動友誼賽交流，籌辦更多高品質賽事，深化青訓體系共建，聯動培養體育產業國際化人才，促進俱樂部深度合作，進一步提升四川足球專業能級和管理水平，系統化完善足球發展生態，以體育領域務實合作成果助力四川與西班牙友好關係再上新臺階。（四川釋出）"
-    },
-    {
-      "id": "4930836",
-      "time": "2026-06-11 22:16:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦中央銀行外匯儲備增加2500萬美元，達到172億美元。"
-    },
-    {
-      "id": "4930835",
-      "time": "2026-06-11 22:15:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝索斯：我目前大部分精力都投入到普羅米修斯專案中。"
-    },
-    {
-      "id": "4930834",
-      "time": "2026-06-11 22:14:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "貝索斯：我們擁有多方算力資源，其中包括亞馬遜雲科技（AWS）。"
-    },
-    {
-      "id": "mkt:019eb708-8349-7dd8-afc4-08063b0ecf6e",
-      "time": "2026-06-11 22:14:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Canada's minister for US-Canada trade, Leblanc, said he was not surprised President Trump would not renew the US-Mexico-Canada Agreement (USMCA) on July 1."
     }
   ]
 }
