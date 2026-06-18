@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-18 11:12:27",
-  "count": 18746,
+  "updated": "2026-06-18 11:16:42",
+  "count": 18751,
   "items": [
+    {
+      "id": "4942347",
+      "time": "2026-06-18 11:15:51",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【研究顯示德國工業就業人數降至十年來的最低水平】德國經濟研究所（IW）週四釋出的一項研究顯示，2025年德國工業就業人數降至10年來的最低點，僅為660萬人。這一下降並非由僱主解僱人數增加所致，而是由於僱主在填補空缺職位和招聘新員工方面猶豫不決。自2014年以來，工業在德國整體勞動力市場中的佔比已從22%降至19%，這加劇了關於德國“去工業化”的爭論。該研究指出，由於工業企業相對於其他行業的工資優勢在10年內大致減半，對員工的吸引力已有所下降。"
+    },
+    {
+      "id": "4942346",
+      "time": "2026-06-18 11:15:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超2%，現報23824.111點；恒生科技指數現跌1.730%。"
+    },
+    {
+      "id": "mkt:019ed8b9-dc2f-7dd8-b06a-640daae3e632",
+      "time": "2026-06-18 11:15:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Agricultural Bank of China chairman Gu Shu says large AI models face three major risks】On June 18 at the Lujiazui Forum, Agricultural Bank of China chairman Gu Shu outlined three main risk categories for large AI models. First, explainability: mainstream models now run to hundreds of billions or trillions of parameters, and massive matrix operations and nonlinear superposition make decision mechanisms and outputs opaque and hard to interpret. Second, accuracy: models generate by probabilistic token prediction from training data rather than logical fact‑based deduction, so insufficient data or grounding can produce coherent but false hallucinations. Third, autonomy risk: evolving models and agentic applications are moving beyond fixed input‑output software paradigms to autonomous reasoning and decision‑making, increasing process uncontrollability and outcome uncertainty."
+    },
+    {
+      "id": "4942345",
+      "time": "2026-06-18 11:14:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "東風汽車副總經理尤崢：東風將建立10個海外製造基地，5個海外研發中心，70%員工將實現本地化聘用。"
+    },
+    {
+      "id": "4942344",
+      "time": "2026-06-18 11:14:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東物流在深圳成立科技公司】天眼查App顯示，近日，深圳京東天鴻科技有限公司成立，法定代表人為謝鵬飛，註冊資本1億人民幣，經營範圍包括電子產品銷售、資訊系統整合服務、智慧無人飛行器銷售等。股東資訊顯示，該公司由京東物流供應鏈有限公司全資持股。"
+    },
+    {
+      "id": "4942343",
+      "time": "2026-06-18 11:14:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業銀行董事長谷澍：大模型當前面臨三大類風險】6月18日，在2026陸家嘴論壇“全體大會六：科技創新賦能金融高質量發展”上，中國農業銀行董事長、執行董事谷澍表示，在應用大模型過程中，AI大模型當前面臨的主要風險包括模型黑箱、模型幻覺、模型自主思考和決策帶來的不確定性。在他看來，這種不確定性風險可進一步細分為三大類:一是引數海量帶來模型可解釋性的難題。現在主流大模型的引數規模已經有千億甚至萬億級別，海量引數的矩陣運算和生成非線性疊加導致模型的決策機制和輸出結果不透明，也很難解釋。二是機率生成帶來準確性的考驗。大模型決策過程不像人類進行決策時有線性思維的過程，而是根據海量訓練資料統計詞源token的機率性規律，本質上是機率統計，不是邏輯性的事實推導。當資料和事實依據不足時，容易產生自洽的幻覺。三是模型現在已能自主思考和決策了，隨著大模型的進化和智慧體的深度應用，它已突破傳統軟體輸入輸出相對固化的正規化，能夠自主思考，這在一定程度上放大了過程不可控、結果不可知的風險。"
+    },
+    {
+      "id": "4942342",
+      "time": "2026-06-18 11:14:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科市長：無人機襲擊擊中莫斯科一處煉油廠。"
+    },
+    {
+      "id": "4942341",
+      "time": "2026-06-18 11:13:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【重慶出臺新型能源算力樞紐方案：到2027年可排程智算達10萬P】近日，重慶市人民政府辦公廳印發《重慶市建設新型能源算力樞紐實施方案》。方案明確，到2027年，可排程智算規模達到10萬P，AI+綜合場景數量達到100個，“用算”企業超過1萬家，高水平建成基礎設施先進集約、算力排程高效智慧、產業發展集聚融合、能源利用綠色低碳、跨域協同互惠互利的新型能源算力樞紐。"
+    },
+    {
+      "id": "4942340",
+      "time": "2026-06-18 11:12:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "東風汽車副總經理尤崢：公司將在5年內在海外市場推出55款專屬車型。"
+    },
+    {
+      "id": "4942339",
+      "time": "2026-06-18 11:12:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量2056億元。"
+    },
     {
       "id": "mkt:019ed8b6-63c9-7dd8-b06a-581ce2eb04b6",
       "time": "2026-06-18 11:11:32",
@@ -172733,57 +172818,6 @@
         "Brent"
       ],
       "text": "Bahrain king's media affairs adviser said Bahrain's air-defense system intercepted and destroyed an Iranian 'air strike'."
-    },
-    {
-      "id": "mkt:019eb4ae-0620-7dd8-afb3-455ebf98e487",
-      "time": "2026-06-11 11:16:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says 12 missiles destroyed 'large number' of US aircraft at Al Azraq base in Jordan】Iran's Islamic Revolutionary Guard Corps (IRGC) public relations office said on the 11th it fired 12 ballistic missiles in the morning at the U.S. air base in Al Azraq, Jordan, striking deployment points for U.S. F-35, F-15 and F-16 aircraft and destroying facilities and 'a large number of aircraft', Xinhua reported."
-    },
-    {
-      "id": "mkt:019eb4ad-1ed3-7dd8-afb3-3d42b79a5b8a",
-      "time": "2026-06-11 11:15:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【2026 China International Financial Expo to open in Shanghai; deepens cooperation with PBOC Digital Currency Research Institute, to host operational signings】Guided by the PBOC and supported by the Shanghai municipal party committee and government, the 2026 China International Financial Expo, organized by China Financial Electronicization Group, will run June 16-18 in Shanghai. The expo includes a \"China payment system achievements\" showcase and a deepened collaboration with the PBOC Digital Currency Research Institute focused on building a digital RMB operations management center and an international operations center. Organizers will hold operational-signing ceremonies, payment-scenario launches, and a dedicated digital RMB exhibition area developed with market institutions."
-    },
-    {
-      "id": "4929491",
-      "time": "2026-06-11 11:14:55",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點"
-      ],
-      "text": "【“百億補貼”並非真百億 電商平臺第二批典型問題公佈】今天（11日），北京市市場監督管理局約談淘寶（天貓）、京東、拼多多、抖音、小紅書5家電商平臺，通報平臺“內卷式”競爭綜合整治發現的第二批典型問題，主要包括促銷活動虛假宣傳、促銷規則制定與公示不規範、商品經營者資訊未公示等問題，並提出整改要求，旨在防範化解“6·18”期間網路集中促銷可能引發的“內卷式”競爭風險，切實維護消費者合法權益與公平有序的網路市場環境。第二批典型問題1、淘寶（天貓）平臺：2026年5月起，在媒體和應用程式端廣泛宣傳“6·18百億補貼”活動，但監管部門向平臺瞭解，百億補貼並非“6·18”期間平臺投入百億資金補貼消費者，實際是一項長期的營銷活動，平臺多次拒絕提供本次“6·18”活動期間投入的實際補貼金額及平臺、商家間的出資比例。平臺未在顯著位置公示“百億補貼”相關活動規則，“百億補貼”頻道內部分商品未公示實際銷售者資質資訊。2、拼多多平臺：推出“百億補貼”活動，但未在規則中明確投入的實際補貼金額及平臺、商家間的出資比例，無法提供相關證明材料。在促銷規則中，“對於與商品有關的任何糾紛，拼多多作為平臺方，可在法定範圍內予以必要協助，但不因此承擔商品有關的責任”，單方面免除了平臺的法定責任。３、京東平臺：推出“百億補貼”“百億農補”活動，但在規則中未公示促銷期限，未明確投入的實際補貼金額及平臺、商家間的出資比例，且無法提供證明材料。“百億超市”未公示活動規則。４、抖音平臺：推出“6·18好物節”及“百億消費券”等活動，但未向消費者公示促銷規則；在活動招商規則中規定，如平臺對活動規則進行調整會直接通知商家，未設定公開徵求意見環節。５、小紅書平臺：“積分抽好禮”有獎銷售活動資訊公示不完整，僅標註獎品總量，對中獎機率、棄獎規則等核心資訊均未明確公示。在活動規則中規定，平臺可以對活動規則進行變動和調整，消費者“繼續參與視為同意”，排除消費者協商的權利。"
-    },
-    {
-      "id": "4929490",
-      "time": "2026-06-11 11:14:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量1393億元。"
-    },
-    {
-      "id": "mkt:019eb4ab-d613-7dd8-afb3-3443634715ae",
-      "time": "2026-06-11 11:13:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reporter says the Israeli government expects to allocate more than $350 mln over several years to relocate 61 newly approved settlements."
     }
   ]
 }
