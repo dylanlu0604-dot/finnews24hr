@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-18 15:53:30",
-  "count": 18961,
+  "updated": "2026-06-18 15:57:39",
+  "count": 18960,
   "items": [
+    {
+      "id": "4942846",
+      "time": "2026-06-18 15:56:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達60億港元。"
+    },
+    {
+      "id": "mkt:019ed9bb-07e3-7dd8-b072-8a324f807096",
+      "time": "2026-06-18 15:56:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IEA Executive Director Birol said trust is the foremost issue on the current energy market agenda."
+    },
+    {
+      "id": "te:markets:560007",
+      "time": "2026-06-18 15:55:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Strengthens as BI Tightens Further — The Indonesian rupiah firmed to below IDR 17,750 per U.S. dollar on Thursday afternoon after Bank Indonesia raised its benchmark interest rate by 25bps to 5.75%, in line with consensus. The move came just a week after a surprise off-cycle increase, bringing cumulative tightening to 100bps across three hikes over the past four weeks as the central bank seeks to reinforce support for the rupiah and contain inflation risks stemming from the Middle East conflict. The decision also came against the backdrop of the U.S. Federal Reserve keeping interest rates unchanged while signaling that further tightening remains possible. The rupiah has been among Asia's weakest-performing currencies this year, pressured by higher energy prices linked to geopolitical volatility and lingering concerns over domestic policymaking. Governor Perry Warjiyo said the rupiah is expected to strengthen going forward, supported by attractive yields, deeper domestic financial markets, and resilient economic growth."
+    },
+    {
+      "id": "4942845",
+      "time": "2026-06-18 15:55:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署署長比羅爾表示：當前，信任是能源市場議題中的首要問題。"
+    },
+    {
+      "id": "mkt:019ed9b8-d434-7dd8-b072-85955d7af98a",
+      "time": "2026-06-18 15:53:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Defense Secretary Hegseth said some NATO allies will 'fail' US scrutiny."
+    },
+    {
+      "id": "4942844",
+      "time": "2026-06-18 15:53:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞斯稱，部分北約盟國將\"未能透過\"美方審查。"
+    },
+    {
+      "id": "4942843",
+      "time": "2026-06-18 15:52:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國人保總裁趙鵬：AI推動保險向全週期風險管理延伸】主題為“提高普惠金融的有效性與精準度”的2026陸家嘴論壇全體大會七6月18日舉行。中國人保總裁趙鵬表示，更好發揮保險風險減量功能，成為社會執行的安全墊。人工智慧快速發展，推動保險從風險共擔者向風險共治者轉變，從事後補償向全週期風險管理延伸、從源頭上保障人民群眾的生命和財產安全。"
+    },
     {
       "id": "mkt:019ed9b7-cd2a-7dd8-b072-7e5d6888c048",
       "time": "2026-06-18 15:52:41",
@@ -174803,81 +174866,6 @@
         "公司"
       ],
       "text": "【新大陸：改選董事長並聘任副總經理】新大陸公告稱，6月11日召開的第九屆董事會第十九次會議，審議透過改選董事長和聘任副總經理的議案。王晶主動提議由胡鵠擔任第九屆董事會董事長、戰略委員會召集人及法定代表人，王晶仍任董事、戰略委員會委員。此外，董事會決定聘任陳繼勝為副總經理，兩人任期均至第九屆董事會屆滿。胡鵠為實際控制人胡鋼之子，截至公告披露日，胡鵠未直接持股，陳繼勝未持股。"
-    },
-    {
-      "id": "4929906",
-      "time": "2026-06-11 15:56:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球兩大預測平臺世界盃冠軍合約成交額破20億美元 有望重新整理單項紀錄】資料顯示，全球兩大預測市場平臺（Polymarket和Kalshi）針對本屆世界盃冠軍歸屬的事件合約成交額，已超過了20億美元。這使得該事件有望重新整理單項預測市場合約的成交紀錄。"
-    },
-    {
-      "id": "mkt:019eb5ae-c441-7dd8-afb8-018cc571b6f1",
-      "time": "2026-06-11 15:56:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "Copper",
-        "CNH"
-      ],
-      "text": "【MOFCOM: Two-year comprehensive zero-tariff on imports from 53 African diplomatic partners effective May 1】MOFCOM spokesman He Yadong said at a routine briefing that China implemented a two-year comprehensive zero-tariff program on imports from 53 African countries with diplomatic ties, effective May 1. Beijing will continue to push for a Joint Development Economic Partnership Agreement; MOFCOM framed the tariff cut as part of China’s high‑level opening and an effort to implement Forum on China–Africa Cooperation outcomes by leveraging China’s large market to support African countries facing unilateralism and protectionism."
-    },
-    {
-      "id": "mkt:019eb5ae-74c5-7dd8-afb7-fa3ca7a9dca9",
-      "time": "2026-06-11 15:56:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "ASML.AS",
-        "Impact bullish"
-      ],
-      "text": "【Musk to speak at ASML virtual event Thursday】Elon Musk will appear online at Dutch chip-equipment leader ASML’s virtual technology event on Thursday to outline his planned large-scale chip fab, dubbed \"Terafab\", intended to supply chips to Tesla and to SpaceX ahead of SpaceX’s IPO. SpaceX’s IPO pricing is expected later Thursday; the transaction could be among the largest IPOs in history."
-    },
-    {
-      "id": "4929905",
-      "time": "2026-06-11 15:56:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部：全面零關稅舉措助力中非共同發展】在今天召開的商務部例行新聞釋出會上，新聞發言人何亞東介紹：中國於今年5月1日起，對53個非洲建交國，實施為期兩年的全面零關稅舉措。同時，繼續推動商籤《共同發展經濟夥伴關係協定》。商務部新聞發言人何亞東表示，這是中國堅定不移擴大高水平對外開放，落實中非合作論壇成果的重大舉措。在單邊主義和保護主義給非洲國家帶來困難挑戰的背景之下，中國發揮超大規模市場優勢，主動開放市場，實現共同發展。舉措實施以來，受到廣大非洲國家的普遍歡迎和國際社會的高度讚賞。"
-    },
-    {
-      "id": "4929904",
-      "time": "2026-06-11 15:54:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【環旭電子：成都800G/1.6T光引擎產能規劃提升至10萬隻/月】環旭電子在互動平臺表示，截至5月末，公司今年在成都擴產的已投入驗收並使用的產能包括2萬隻/月的800G/1.6T光引擎和10萬隻/月的100-400G光引擎，位於成都的800G/1.6T光引擎的產能規劃進一步提升只10萬隻/月。"
-    },
-    {
-      "id": "4929903",
-      "time": "2026-06-11 15:54:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【長江證券：維持隆基綠能“買入”評級，積極打造第二增長曲線】長江證券研報指出，隆基綠能2025年歸母淨利-64.2億元；2026Q1歸母淨利-19.2億元。展望後續，公司2025年末BC 2.0自有產能46GW，與英發德耀、平煤隆基協作產能規模達11GW，後續或將根據市場情況進行BC改造，規模化交付能力行業領先。新型金屬化技術研發進展順利，預計2026年6月將建成20GW 產線，BC生產成本有望進一步下降。公司在國內外市場均取得突破，國內中標發電集團高效元件集採，海外在歐洲、澳大利亞等高價值市場實現增長，2026年計劃元件出貨80GW，其中BC佔比65%以上，海外佔比50%以上。此外，儲能系統出貨目標6GWh，積極打造第二增長曲線。維持“買入”評級。"
-    },
-    {
-      "id": "4929902",
-      "time": "2026-06-11 15:54:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海航控股：子公司擬以26.6億元資產為151.54億元銀團貸款抵押】海航控股公告稱，公司及海航航空集團擬於近期與相關方簽署《銀團貸款合作框架協議》，各初始貸款人及開行海南分行將在2026 - 2028年提供不超151.54億元銀團貸款，海航控股預計獲貸約60.62億元。公司子公司福順投資、英智公司、英禮公司擬將賬面價值26.6億元的海口海航大廈資產抵押給中國進出口銀行海南省分行，本次抵押為再次抵押。該事項尚需海南農源股東會審議透過。"
-    },
-    {
-      "id": "4929901",
-      "time": "2026-06-11 15:54:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印尼已開設超 690 萬處公益餐食供應點。"
     }
   ]
 }
