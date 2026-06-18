@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-19 03:09:09",
-  "count": 19060,
+  "updated": "2026-06-19 03:13:10",
+  "count": 19048,
   "items": [
+    {
+      "id": "4944261",
+      "time": "2026-06-19 03:09:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守66美元/盎司，日內跌7.43%。"
+    },
     {
       "id": "4944260",
       "time": "2026-06-19 03:08:28",
@@ -175325,136 +175334,6 @@
         "國際"
       ],
       "text": "伊朗法爾斯通訊社表示，伊朗尚未作出最終答覆。"
-    },
-    {
-      "id": "4931168",
-      "time": "2026-06-12 03:12:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：SpaceX 新股分配方案基本敲定，面向散戶的配售比例約兩成。"
-    },
-    {
-      "id": "mkt:019eb819-d8d8-7dd8-afc9-840a6c56e948",
-      "time": "2026-06-12 03:12:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Iran's Fars news agency reports that, since the US has accepted the text proposed by Iran, approval of the text by Iranian authorities is now highly likely."
-    },
-    {
-      "id": "4931167",
-      "time": "2026-06-12 03:12:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社表示，鑑於美方已接受伊朗擬定的文字，該檔案獲得伊朗方面批准的可能性極大。"
-    },
-    {
-      "id": "mkt:019eb819-509e-7dd8-afc9-7dfc79fdef3f",
-      "time": "2026-06-12 03:12:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Source: Iran has not approved Iran-U.S. MoU text】On the evening of the 11th a source close to Iran's negotiating team said Iran has not approved the text of a memorandum of understanding (MoU) with the United States and that President Trump’s earlier comments claiming approval were inaccurate. The source said no preliminary MoU text has been approved by Iran. Earlier Trump posted that, because consultation results had been submitted to and approved by Iran’s supreme leader, he had called off planned strikes against Iran."
-    },
-    {
-      "id": "4931166",
-      "time": "2026-06-12 03:12:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4180美元/盎司，日內漲2.68%。"
-    },
-    {
-      "id": "4931165",
-      "time": "2026-06-12 03:11:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲5%，現報66.57美元/盎司。"
-    },
-    {
-      "id": "mkt:019eb818-e562-7dd8-afc9-76f27a6fb419",
-      "time": "2026-06-12 03:11:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "New York gold futures led gains, reclaiming $4,200/oz and rising 1.61% intraday."
-    },
-    {
-      "id": "mkt:019eb818-9b23-7dd8-afc9-6934dad3f2c6",
-      "time": "2026-06-12 03:11:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New York Fed said its Open Market Trading Desk plans to conduct roughly $16.5 billion of reinvestment purchases from June 12 through July 13."
-    },
-    {
-      "id": "4931164",
-      "time": "2026-06-12 03:11:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4200美元/盎司，日內漲1.62%。"
-    },
-    {
-      "id": "4931163",
-      "time": "2026-06-12 03:10:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX提交FWP檔案；檔案顯示公開發行價為每股135.00美元。"
-    },
-    {
-      "id": "mkt:019eb817-f613-7dd8-afc9-667b68de5619",
-      "time": "2026-06-12 03:10:38",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "USD/CHF fell 0.50% intraday to 0.7960."
-    },
-    {
-      "id": "mkt:019eb817-c1d6-7dd8-afc9-5afc73cd74f5",
-      "time": "2026-06-12 03:10:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "【Qatar says progress on US-Iran understanding】Qatar’s Emirate office said Qatar’s Emir spoke by phone with US President Trump on regional and international developments, notably diplomatic efforts to ease regional tensions. They reviewed US‑Iran consultations and the resulting understanding; the proposal put forward within the negotiation framework has progressed. Trump confirmed the understanding has been approved by all relevant parties and has participation and support from several friendly states, including Qatar. Parties are continuing to finalize procedures and are preparing arrangements to announce the signing."
-    },
-    {
-      "id": "4931162",
-      "time": "2026-06-12 03:10:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【知情人士：伊朗尚未批准伊美協議文字 】據伊朗法爾斯通訊社11日晚報道，一名接近伊朗談判團隊的知情人士表示，伊朗尚未批准伊美諒解備忘錄文字，美國總統特朗普稍早時候相關說法並不屬實。該訊息人士表示，目前“尚無任何初步諒解備忘錄文字獲得伊方批准”，有關伊朗已經同意最終文字的說法並不準確。當天早些時候，特朗普在社交媒體發文稱，鑑於與伊朗的磋商結果已提交至伊朗最高領導層並獲得批准，他已取消原定於當晚針對伊朗實施的打擊與轟炸行動。（新華社）"
     }
   ]
 }
