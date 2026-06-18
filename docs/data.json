@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-18 22:22:48",
-  "count": 18960,
+  "updated": "2026-06-18 22:27:09",
+  "count": 18962,
   "items": [
+    {
+      "id": "4943783",
+      "time": "2026-06-18 22:25:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：美國極少使用AI的科技工作者面臨三倍的裁員風險】蓋洛普（Gallup）最新研究發現，非定期使用人工智慧（AI）的科技工作者比同行更容易丟掉工作。每月至少使用一次AI的美國科技工作者被裁員的預測機率約為6%，而較少使用該技術的員工這一機率為18%。研究人員表示，即使在將年齡、教育程度和工作領域等因素納入考量後，AI使用與就業保障之間的關聯依然存在。"
+    },
+    {
+      "id": "4943782",
+      "time": "2026-06-18 22:24:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：伊南部港口的商船通行已恢復正常】當地時間18日，伊朗航運協會官員表示，從本月16日起，前往伊朗南部港口的商船通行已恢復正常。截至目前，已有3艘載有基本物資和糧食的船隻進港，同時有2艘原油出口船隻出港。據悉，霍爾木茲海峽仍處於伊朗武裝部隊的監控之下，船隻必須在相關部門協調下方可通行。（央視）"
+    },
+    {
+      "id": "mkt:019edb1e-a2c6-7dd8-b080-e1b036692abb",
+      "time": "2026-06-18 22:24:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Asian Affairs chief holds working talks with South Korea in Seoul】June 17, 2026 — Liu Jinsong, director-general of the Asian Affairs Department at China's Foreign Ministry, held routine working talks in Seoul with Nam Jin, newly appointed director of South Korea's Northeast Asia and Central Asia Bureau. They agreed to actively implement key understandings from recent leaders' mutual visits to keep the China-South Korea strategic partnership steady and long-term. Nam reaffirmed Seoul's One-China commitment as set out in the joint communique at diplomatic normalization and said the position is unchanged. Liu welcomed the reaffirmation and urged South Korea to revisit the founding intent and act on the One-China principle to preserve the political basis of bilateral ties."
+    },
+    {
+      "id": "mkt:019edb1e-9eb6-7dd8-b080-dd317a42ac9c",
+      "time": "2026-06-18 22:24:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iranian official: commercial shipping to southern ports resumes】An Iranian Shipping Association official said on June 18 that commercial vessel traffic to Iran's southern ports has resumed normal operations since June 16. Three ships carrying essential supplies and food have entered port and two oil-export tankers have departed. The Strait of Hormuz remains under Iranian armed forces' monitoring; vessels must coordinate passage with relevant authorities."
+    },
+    {
+      "id": "4943781",
+      "time": "2026-06-18 22:24:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【分析：英國央行今年或將恢復降息】Berenberg的Andrew Wishart在一份報告中表示，英國央行可能會在2026年底前恢復降息。他說，5月份通貨膨脹率低於預期，表明能源價格衝擊帶來間接影響的風險有限。Wishart說，與此同時，伊朗戰爭造成的衝擊的規模和持續時間料將大大低於該央行的預期。他說，疲軟的勞動力市場正在阻礙工資增長，而工資增速已經降至與2%的通貨膨脹率相符的水平之下。“雖然貨幣政策委員會可能仍會存在分歧，但我們認為，有足夠多的委員對通貨膨脹感到足夠放心，對勞動力市場感到足夠擔憂，從而在年底前實施降息。”"
+    },
+    {
+      "id": "te:markets:560131",
+      "time": "2026-06-18 22:23:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Equinix Stock Price Hits 7-week High — Equinix shares increased to 1108.00 USD, the highest since April 2026. Over the past 4 weeks, Equinix gained 3.89%, and in the last 12 months, it increased 24.48%."
+    },
+    {
+      "id": "mkt:019edb1d-3455-7dd8-b080-d5ad962a972e",
+      "time": "2026-06-18 22:23:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhen Stock Exchange terminates IPO review of Hunan Ordnance Industry Group Co., Ltd's main‑board listing】Shenzhen Stock Exchange said on its website it has terminated the IPO review of Hunan Ordnance Industry Group Co., Ltd's main‑board listing after the company and sponsor Dongxing Securities submitted an application to withdraw the IPO and listing documents."
+    },
+    {
+      "id": "4943780",
+      "time": "2026-06-18 22:22:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部亞洲司司長同韓方舉行工作磋商】2026年6月17日，外交部亞洲司司長劉勁松在韓國首爾同韓國外交部東北亞中亞局新任局長南鎮舉行例行工作磋商，就中韓關係和共同關心的問題交換意見，同意積極落實兩國元首互訪時達成的重要共識，致力於兩國戰略合作伙伴關係行穩致遠。南鎮重申了韓方在韓中建交聯合公報中承諾的一箇中國立場，強調這一立場沒有變化。劉給予積極評價，希望並相信韓方重溫建交初心，以實際行動踐行一中原則，維護中韓關係政治基礎。"
+    },
+    {
+      "id": "4943779",
+      "time": "2026-06-18 22:22:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所終止湖南省兵器工業集團股份有限公司主機板IPO稽核】6月18日，據深交所網站披露，因湖南省兵器工業集團股份有限公司、保薦人東興證券股份有限公司向本所提交了《關於撤回湖南省兵器工業集團股份有限公司首次公開發行股票並在主機板上市申請檔案的申請》，深交所決定終止其首次公開發行股票並在主機板上市的稽核。"
+    },
+    {
+      "id": "4943778",
+      "time": "2026-06-18 22:22:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "華納兄弟探索：將於第三季度推出統一媒體策劃方案，並於第四季度分階段推出可組合訂單管理、定價與管控體系。"
+    },
     {
       "id": "te:markets:560130",
       "time": "2026-06-18 22:21:58",
@@ -13,6 +103,14 @@
         "Importance 1"
       ],
       "text": "TSX Edges Lower Amid Hawkish Fed Outlook — Canada’s S&P/TSX Composite Index edged lower to trade near 35,000 on Wednesday as investors weighed a hawkish US Fed outlook and the signing of an interim peace deal between the US and Iran. The Fed kept interest rates unchanged, but its projections were seen as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year, raising concerns over higher borrowing costs. Financial stocks traded mixed, with TD Bank up nearly 1%, while Brookfield edged lower. Mining stocks were also mixed as gold prices eased, with Barrick gaining nearly 1%, while Agnico Eagle and WPM slipped. The energy sector weighed heavily as oil prices declined after the US-Iran agreement aimed at ending the conflict and reopening the Strait of Hormuz. Canadian Natural and Suncor fell over 3%, while Imperial Oil lost nearly 4%. Tech stocks also weakened, tracking losses in the US software sector, with Shopify down 0.9% and Constellation Software falling more than 2%."
+    },
+    {
+      "id": "4943777",
+      "time": "2026-06-18 22:21:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "華納兄弟探索宣佈推出由智慧體人工智慧驅動的廣告技術，該技術搭建在其首選雲服務提供商亞馬遜雲科技的雲上。"
     },
     {
       "id": "4943776",
@@ -174635,83 +174733,6 @@
         "兩會"
       ],
       "text": "【彭清華出席俄羅斯駐華使館國慶招待會】全國人大常委會副委員長彭清華11日出席俄羅斯駐華使館國慶招待會並致辭，表示中方願與俄方以元首重要共識為引領，加強發展戰略對接，夯實人民傳統友誼，密切協調配合，賦能彼此發展振興，推動構建新型國際關係。（新華社）"
-    },
-    {
-      "id": "4930850",
-      "time": "2026-06-11 22:27:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院未能獲得足夠票數透過H.R. 9238決議，該決議旨在修改2008年《外國情報監視法修正案》，以延長1978年《外國情報監視法》第七章授權，投票仍在進行中。"
-    },
-    {
-      "id": "mkt:019eb714-50c0-7dd8-afc4-3ab5672fdfa0",
-      "time": "2026-06-11 22:27:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A short-term extension of the Foreign Intelligence Surveillance Act (FISA) failed to secure the two-thirds majority required in the US House; voting is ongoing."
-    },
-    {
-      "id": "4930849",
-      "time": "2026-06-11 22:25:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝索斯：持續尋找有意佈局製造業的投資方。"
-    },
-    {
-      "id": "mkt:019eb712-a25f-7dd8-afc4-32ccc770e0f4",
-      "time": "2026-06-11 22:25:12",
-      "tags": [
-        "MKT News",
-        "AMZN.O"
-      ],
-      "text": "Amazon (AMZN.O) founder Bezos said it is still too early to consider taking Prometheus public. He said the team will continue to expand and will bring the product to market earlier; timing to be announced."
-    },
-    {
-      "id": "4930847",
-      "time": "2026-06-11 22:24:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝索斯：普羅米修斯專案團隊規模將持續擴充。"
-    },
-    {
-      "id": "4930846",
-      "time": "2026-06-11 22:24:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝索斯：目前考慮普羅米修斯專案上市還為時過早。"
-    },
-    {
-      "id": "te:markets:558416",
-      "time": "2026-06-11 22:24:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Adobe Systems Stock Price Hits 7-1/2-year Low — Adobe Systems shares decreased to 224.02 USD, the lowest since January 2019. Over the past 4 weeks, Adobe Systems lost 6.88%, and in the last 12 months, it decreased 45.79%."
-    },
-    {
-      "id": "4930845",
-      "time": "2026-06-11 22:24:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝索斯：首批產品即將推出，具體時間敬請關注。"
-    },
-    {
-      "id": "4930844",
-      "time": "2026-06-11 22:23:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國土安全部部長穆林：（在被問及世界盃和簽證問題時表示）我們向國際足聯說明了被拒籤者的情況，並解釋了拒籤的原因。"
     }
   ]
 }
