@@ -1,7 +1,256 @@
 {
-  "updated": "2026-06-18 21:30:18",
-  "count": 18911,
+  "updated": "2026-06-18 21:34:38",
+  "count": 18909,
   "items": [
+    {
+      "id": "mkt:019edaef-e62f-7dd8-b07f-0db8782f128c",
+      "time": "2026-06-18 21:33:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran says shipping through its southern ports has returned to normal."
+    },
+    {
+      "id": "4943678",
+      "time": "2026-06-18 21:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱南部港口的航運交通已恢復正常。"
+    },
+    {
+      "id": "4943677",
+      "time": "2026-06-18 21:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至2026年6月12日，巴基斯坦外匯儲備為172億美元。"
+    },
+    {
+      "id": "4943676",
+      "time": "2026-06-18 21:32:58",
+      "tags": [
+        "央行",
+        "觀點",
+        "焦點"
+      ],
+      "text": "摩根大通預計英國央行將在2026年11月加息25個基點，此前該行預測加息時點為7月。"
+    },
+    {
+      "id": "mkt:019edaef-548b-7dd8-b07f-01993f562f9a",
+      "time": "2026-06-18 21:32:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan now expects the Bank of England to raise rates by 25bps in November 2026, delayed from its prior July forecast."
+    },
+    {
+      "id": "4943675",
+      "time": "2026-06-18 21:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：以色列必須保留黎巴嫩緩衝地帶以保障自身安全。"
+    },
+    {
+      "id": "mkt:019edaef-04b4-7dd8-b07e-f9e1dab27aba",
+      "time": "2026-06-18 21:32:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SOX",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Philadelphia Semiconductor Index (SOX) up more than 5% in early trading."
+    },
+    {
+      "id": "4943674",
+      "time": "2026-06-18 21:32:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤初：費城半導體指數漲4.6%】半導體股普漲，美光科技漲約6%，AMD漲約4%。光通訊板塊上漲，邁威爾科技漲約5%。SpaceX跌約2%，此前一個交易日收跌近5%。"
+    },
+    {
+      "id": "4943673",
+      "time": "2026-06-18 21:31:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "輝瑞股價下跌1.08%，因首席財務官將卸任。"
+    },
+    {
+      "id": "mkt:019edaee-0746-7dd8-b07e-f6ce5aaef7e8",
+      "time": "2026-06-18 21:31:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "U.S. stocks opened higher on Thursday, June 18: Dow Jones Industrial Average up 441.42 points (+0.86%) to 51,933.97 at the open; S&P 500 up 86.10 points (+1.16%) to 7,506.20; Nasdaq Composite up 374.31 points (+1.44%) to 26,395.96."
+    },
+    {
+      "id": "te:markets:560108",
+      "time": "2026-06-18 21:31:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Wavers After BCB and Fed Meetings — The Ibovespa swung between gains and losses near the 168,000 mark on Thursday as investors assessed the monetary policy outlooks from BCB and the US Fed, alongside the signing of an interim peace deal between the US and Iran. Brazil’s central bank cut the Selic rate by 0.25 percentage points to 14.25% but signaled a longer timeline to bring inflation back to target, leaving its next steps open as it evaluates alternative interest rate paths. The US Federal Reserve, meanwhile, kept its benchmark rate unchanged and signaled a hawkish outlook. Banking stocks traded mixed, with Bradesco down more than 0.5%, Santander edging higher, and Itaú hovering near flat. Petrobras fell nearly 1% as oil prices declined after the US-Iran agreement aimed at ending the conflict and reopening the Strait of Hormuz. Vale also lost nearly 1% as iron ore prices edged lower."
+    },
+    {
+      "id": "4943672",
+      "time": "2026-06-18 21:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃森哲股價暴跌19%，創下有史以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:019edaed-8326-7dd8-b07e-ef9a36019355",
+      "time": "2026-06-18 21:30:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy urged allies to develop more financial instruments to provide long-term support for Ukraine’s armed forces."
+    },
+    {
+      "id": "4943671",
+      "time": "2026-06-18 21:30:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾股價上漲10%，創下歷史新高。"
+    },
+    {
+      "id": "4943670",
+      "time": "2026-06-18 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.85%，標普500指數漲1.20%，納指漲1.50%。西部資料漲8.85%，英特爾漲8.81%，Arm Holdings漲6.61%，希捷漲6.56%。“七姐妹”方面：英偉達漲1.46%，Meta Platforms漲1.31%，蘋果漲1.14%，亞馬遜漲0.95%，谷歌漲0.84%，特斯拉漲0.36%，微軟漲0.10%。"
+    },
+    {
+      "id": "mkt:019edaed-582e-7dd8-b07e-e256ed329ad8",
+      "time": "2026-06-18 21:30:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bullish",
+        "MRVL.O",
+        "MU.O"
+      ],
+      "text": "【U.S., Iran sign memorandum of understanding remotely; U.S. stocks open higher】U.S. and Iran signed a memorandum of understanding remotely. At the open, the Dow was up 0.77%, the S&P 500 up 1.1% and the Nasdaq up 1.56%. Semiconductors led gains: Intel (INTC.O) +8%, MARVELL (MRVL.O) +4.7%, Micron (MU.O) +6%. SpaceX (SPCX.O) extended losses, down 2%."
+    },
+    {
+      "id": "4943669",
+      "time": "2026-06-18 21:30:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所綜合指數 (.GSPTSE) 開盤上漲 89.69 點，漲幅 0.26%，報 35214.80 點。"
+    },
+    {
+      "id": "mkt:019edaec-ee52-7dd8-b07e-dc86518187b1",
+      "time": "2026-06-18 21:30:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Li Chenggang meets AmCham China member delegation】On June 17, China's international trade negotiator and vice minister Li Chenggang met with an AmCham China delegation led by the chamber's board chair and president to discuss US-China economic and trade ties and the business environment for US firms in China. Li said the May leaders' meeting in Beijing established a new positioning of constructive strategic stability and provided strategic guidance for bilateral economic relations. He noted China and US trade teams have held seven rounds of talks since last year and have secured a series of positive outcomes. Li reiterated that China will continue to widen market access and welcomes foreign investment, including from US companies."
+    },
+    {
+      "id": "4943668",
+      "time": "2026-06-18 21:30:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【李成鋼國際貿易談判代表兼副部長會見中國美國商會會員企業代表團】6月17日，李成鋼國際貿易談判代表兼副部長會見由中國美國商會董事會主席吉莫曼、會長何邁可率領的會員企業代表團，就中美經貿關係、美國企業在華髮展等議題進行了交流。李成鋼表示，今年5月，中美兩國元首在北京舉行歷史性會晤，共同確定了中美建設性戰略穩定關係的新定位，為兩國經貿關係發展提供戰略指引，進一步指明瞭航向。自去年以來，中美經貿團隊已進行七輪經貿磋商，達成了一系列積極成果，這對兩國以及雙方企業都是好訊息。中國開放的大門只會越開越大，中方始終歡迎包括美資企業在內的各國企業投資中國，共享發展機遇。美方商會和企業代表表示，中美經貿關係保持穩定不僅對兩國企業非常重要，也對全球經濟發展具有重要意義。中國美國商會及會員企業願繼續發揮橋樑紐帶作用，支援兩國擴大經貿合作，並致力於在華長期發展。（商務部）"
+    },
+    {
+      "id": "te:markets:560107",
+      "time": "2026-06-18 21:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intuit Stock Price Hits 6-year Low — Intuit shares decreased to 261.00 USD, the lowest since May 2020. Over the past 4 weeks, Intuit lost 33.26%, and in the last 12 months, it decreased 64.35%."
+    },
+    {
+      "id": "4943667",
+      "time": "2026-06-18 21:29:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基呼籲盟友開發額外金融工具，為烏克蘭軍隊提供長期支援。"
+    },
+    {
+      "id": "4943666",
+      "time": "2026-06-18 21:29:32",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【美國司法部調查伊朗最高領袖資金網路 華爾街銀行進入審查視野】據四名直接瞭解情況的官員透露，美國司法部正在調查伊朗最高領袖穆傑塔巴·哈梅內伊如何建立起一個龐大的全球投資版圖，而該投資網路還涉及華爾街多家銀行。此次調查源於一項針對涉嫌洗錢和腐敗行為的廣泛審查。三名知情人士表示，在此過程中，調查人員開始關注美國金融機構是否參與協助哈梅內伊控制的企業之間進行大額資金轉移，這些機構包括摩根大通和花旗集團等。三名知情人士稱，司法部正在審查這些交易，包括美國代理行在其中所扮演的角色。由於未獲授權公開發言，所有受訪官員均要求匿名。他們表示，調查人員希望釐清這位伊朗最高領袖資金網路的運作方式，並查明美國金融機構在盡職調查程式方面是否存在漏洞，從而導致相關資金流動得以發生。4月，德黑蘭街頭一塊展示穆傑塔巴·哈梅內伊肖像的廣告牌。自出任伊朗最高領袖以來，哈梅內伊一直未公開露面。調查的存在並不意味著最終一定會提出指控。此次調查的主要目標是穆傑塔巴·哈梅內伊。在其父親於伊朗戰爭爆發初期死於美以聯合空襲後，他於3月出任伊朗最高領袖。三名知情人士表示，歐洲和中東地區的多家銀行也已進入調查人員的視線。一名直接瞭解情況的官員稱，美國司法部還在審查該資金網路向全球品牌支付的房地產相關款項，其中包括希爾頓全球控股。摩根大通、花旗以及美國司法部的代表均拒絕置評。自就任最高領袖以來一直未公開露面的哈梅內伊，也沒有回應記者透過伊朗駐阿聯酋、英國使館以及伊朗駐聯合國代表團發出的置評請求。"
+    },
+    {
+      "id": "mkt:019edaeb-eaf8-7dd8-b07e-d151db856737",
+      "time": "2026-06-18 21:29:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve, U.S. Treasury and other agencies proposed rules to implement the \"Genius Act\" customer identification program requirements."
+    },
+    {
+      "id": "mkt:019edaeb-dfe4-7dd8-b07e-cc92316b647d",
+      "time": "2026-06-18 21:29:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Kuwait begins oil output ramp-up, lifts all force majeure notices】Following a temporary U.S.-Iran peace agreement that has reopened the Strait of Hormuz, Kuwait has begun raising oil output and plans to restore production to 2.0 mln bpd within a week. Kuwait Petroleum Corporation CEO Sabah said repairs to damaged energy infrastructure are sufficiently advanced to return output to pre-conflict levels faster than previously expected. Output had fallen to about 500k bpd during the conflict after attacks on fields and the Strait’s closure; all force majeure notices issued during the conflict will be lifted immediately."
+    },
+    {
+      "id": "4943665",
+      "time": "2026-06-18 21:29:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國、挪威等國向聯合國人權理事會發出警報，稱蘇丹快速支援部隊或將即刻加大對蘇丹歐拜伊德鎮的攻勢，並警告存在發生大規模暴行的風險。"
+    },
     {
       "id": "4943664",
       "time": "2026-06-18 21:28:49",
@@ -174026,293 +174275,6 @@
         "Impact bearish"
       ],
       "text": "ECB President LAGARDE: short-term inf expectations rising. Long-term inf expectations broadly stable around the target."
-    },
-    {
-      "id": "mkt:019eb6e4-0a25-7dd8-afc3-1d4c8a00ca35",
-      "time": "2026-06-11 21:34:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WBG projects global economic activity to recover in 2027-2028, with average annual GDP growth of 2.8%."
-    },
-    {
-      "id": "4930766",
-      "time": "2026-06-11 21:34:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "維多利亞的秘密公司：唐娜·詹姆斯以超過83%的贊成票獲得連任。"
-    },
-    {
-      "id": "mkt:019eb6e3-cd51-7dd8-afc3-1308d96f398e",
-      "time": "2026-06-11 21:34:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "WBG cuts growth forecasts for two-thirds of developing countries."
-    },
-    {
-      "id": "te:markets:558405",
-      "time": "2026-06-11 21:33:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Falls for 10th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for the tenth successive session on Thursday, falling about 1.5% to a new low since May 1st at 2,729 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slumped by 3.7% to 4,140 points. Meanwhile, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose by 1.8% to 2,251 points; and the supramax index went up 0.9% to 1,633 points."
-    },
-    {
-      "id": "mkt:019eb6e3-904d-7dd8-afc3-0c338ab8f5cd",
-      "time": "2026-06-11 21:33:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "WBG says if energy supply disruptions worsen and are accompanied by major financial stress, global GDP growth could slow to 1.3% in 2026."
-    },
-    {
-      "id": "mkt:019eb6e2-f6de-7dd8-afc3-07e77ff478a8",
-      "time": "2026-06-11 21:33:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "WBG maintains its 2026 US GDP growth forecast at 2.2%."
-    },
-    {
-      "id": "4930765",
-      "time": "2026-06-11 21:32:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【世界銀行警告：由於不確定性太高，無法對伊朗、黎巴嫩、敘利亞今年經濟做出預測】世界銀行(World Bank)週四表示，在衝突的鄰近地區，該行預計伊拉克、科威特和卡達的經濟今年將分別萎縮8.9%、6.4%和5.7%。該行表示，由於不確定性太高，無法對伊朗、黎巴嫩、敘利亞做出預測。該行的經濟學家預測，今年大宗商品價格將上漲22%，而他們在1月份的預期是下跌7%。價格上漲主要由石油驅動，目前預計2026年油價將平均達到每桶94美元，比1月份的預測高出34美元。但價格上漲不僅限於能源領域。該行目前預計，工業金屬價格將比2025年上漲18%，化肥價格預計將上漲38%。至於今年，得益於糧食豐收，該行預計食品價格的漲幅將相對溫和，為3%。如果該海峽直到今年第四季度才重新開放，世界銀行預計經濟增速將僅為2.1%，今年油價平均為每桶115美元，並將在明年很長一段時間內保持高位。"
-    },
-    {
-      "id": "mkt:019eb6e2-c6ae-7dd8-afc2-fe765a775f69",
-      "time": "2026-06-11 21:32:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "S&P500"
-      ],
-      "text": "WBG projects euro area GDP growth of 0.8% in 2026, down from a 0.9% forecast in January."
-    },
-    {
-      "id": "mkt:019eb6e2-8a24-7dd8-afc2-f501faafbcad",
-      "time": "2026-06-11 21:32:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "WBG cuts 2026 Middle East GDP growth forecast to 1.6% from 4.3% in January."
-    },
-    {
-      "id": "4930764",
-      "time": "2026-06-11 21:32:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【世界銀行警告：若戰爭持續，全球經濟增速或降至2025年的一半】世界銀行(World Bank)週四表示，如果中東衝突導致能源供應長期減少和股價大幅下跌，那麼今年全球經濟的增速可能不到2025年的一半。這場衝突現已進入第四個月，幾乎沒有持久和平的跡象。美國週三開始對伊朗發動新一輪攻擊，根據美國總統特朗普(Trump)的命令對多個目標發動了打擊。世界銀行在一份關於全球展望的半年度報告中表示，假設石油、天然氣和其他原材料透過霍爾木茲海峽(Strait of Hormuz)的運輸從8月份開始恢復正常，該行預計今年經濟增速將從去年的2.9%放緩至2.5%。這一預測較1月份2.6%的增速預期小幅下調，但若不計疫情期間的經濟萎縮和2009年全球金融危機期間的產出下降，這將是1991年以來最疲軟的一年。不過，世界銀行警告說，衝突持續時間越長，經濟放緩的幅度就越大。世界銀行首席經濟學家因德米特·吉爾(Indermit Gill)表示：“敵對行動再次升級或大宗商品供應中斷時間延長，可能進一步推高大宗商品價格，加劇通脹壓力和糧食不安全，引發金融壓力，並拉低經濟增長。”如果航運中斷問題很快結束，世界銀行預計今年美國經濟將增長2.2%，與1月份的預測持平。但該行表示，受衝突影響，全球約三分之二的經濟體將面臨增長放緩，發展中國家將遭受最嚴重的挫折，而最貧困的家庭將受創最深。"
-    },
-    {
-      "id": "mkt:019eb6e1-f64d-7dd8-afc2-edc1df85f96e",
-      "time": "2026-06-11 21:32:02",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities opened higher on Thursday, June 11: Dow Jones Industrial Average up 239.09 points (0.48%) at 50,157.87; S&P 500 up 26.13 points (0.36%) at 7,293.12; Nasdaq Composite up 116.30 points (0.46%) at 25,285.80."
-    },
-    {
-      "id": "mkt:019eb6e1-e58b-7dd8-afc2-e33160963046",
-      "time": "2026-06-11 21:31:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB President Lagarde said the main risk is failing to raise rates; allowing inflation to run out of control would make it harder to rein in."
-    },
-    {
-      "id": "4930763",
-      "time": "2026-06-11 21:31:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，盛豐物流跌9.49%，中進醫療跌5.93%，金山雲跌5.42%，小鵬汽車跌5.25%，優品車跌3.72%。"
-    },
-    {
-      "id": "mkt:019eb6e1-bdc4-7dd8-afc2-dbe0526e4971",
-      "time": "2026-06-11 21:31:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump says US tried to arm Iranians, accuses Kurdish partners of withholding weapons】Trump told Fox News the US had tried to supply weapons to the Iranian people to topple the Tehran regime. He said weapons were routed to Iran’s regional opponents — Kurdish forces — but accused them of keeping rather than distributing the arms, saying the Kurds let us down and I will remember that. Trump added he initially opposed the plan because he suspected the Kurds would retain the weapons."
-    },
-    {
-      "id": "4930762",
-      "time": "2026-06-11 21:31:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "NAVAN股票開盤飆升17%，創歷史新高。"
-    },
-    {
-      "id": "4930761",
-      "time": "2026-06-11 21:31:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "英特爾股價上漲7.4%，此前美國銀行將英特爾的評級上調至“買入”兩倍。"
-    },
-    {
-      "id": "4930760",
-      "time": "2026-06-11 21:31:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "甲骨文股價開盤下跌12%，創12月以來最大跌幅。"
-    },
-    {
-      "id": "mkt:019eb6e1-6ab6-7dd8-afc2-d106ffe12440",
-      "time": "2026-06-11 21:31:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bearish",
-        "WTI",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "WBG lowered its global economic growth forecast to 2.5%, the lowest since the COVID pandemic."
-    },
-    {
-      "id": "mkt:019eb6e0-f755-7dd8-afc2-cb4f2938b9d6",
-      "time": "2026-06-11 21:30:57",
-      "tags": [
-        "MKT News",
-        "SMCI.O",
-        "Impact bearish"
-      ],
-      "text": "Super Micro Computer (SMCI.O) fell 0.5%. The company priced a 75 mln ADS offering at $50 per ADS."
-    },
-    {
-      "id": "4930759",
-      "time": "2026-06-11 21:30:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "超微電腦(SMCI.O)跌0.5%，公司以50美元/ADS的價格定價發行7500萬股存托股份。"
-    },
-    {
-      "id": "4930758",
-      "time": "2026-06-11 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.50%，標普500指數漲0.41%，納指漲0.55%。英特爾漲7.25%，應用材料漲5.53%，林氏研究漲5.24%，科磊漲4.18%。“七姐妹”方面：特斯拉漲1.37%，英偉達漲1.12%，蘋果漲0.25%，亞馬遜漲0.06%，谷歌跌0.22%，微軟跌0.61%，Meta Platforms跌1.00%。"
-    },
-    {
-      "id": "mkt:019eb6e0-c8f3-7dd8-afc2-c781fb6513fa",
-      "time": "2026-06-11 21:30:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "ORCL.N",
-        "Impact bearish",
-        "INTC.O",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. stocks opened higher: Dow Jones +0.42%, S&P 500 +0.5%, Nasdaq +0.5%. Oracle (ORCL.N) fell about 11% after the company said planned financing for the new fiscal year will double to $40 billion; Intel (INTC.O) jumped 7% after Bank of America upgraded the stock to Buy."
-    },
-    {
-      "id": "4930757",
-      "time": "2026-06-11 21:30:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行預測2026年布倫特原油均價為每桶94美元，較1月預測上調34美元。"
-    },
-    {
-      "id": "4930756",
-      "time": "2026-06-11 21:30:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，盛豐物流跌9.49%，中進醫療跌5.93%，優品車跌3.72%，金山雲跌4.43%，小鵬汽車跌2.89%。"
-    },
-    {
-      "id": "te:markets:558404",
-      "time": "2026-06-11 21:30:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Salesforce Stock Price Hits 4-week Low — Salesforce shares decreased to 167.50 USD, the lowest since May 2026. Over the past 4 weeks, Salesforce Inc lost 5.57%, and in the last 12 months, it decreased 36.97%."
-    },
-    {
-      "id": "4930755",
-      "time": "2026-06-11 21:30:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "世界銀行將中東地區2026年GDP增長預測從1月預期的4.3%下調至1.6%，2025年預測值為4%。"
-    },
-    {
-      "id": "te:markets:558403",
-      "time": "2026-06-11 21:30:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Oracle Stock Price Hits 5-week Low — Oracle shares decreased to 178.19 USD, the lowest since May 2026. Over the past 4 weeks, Oracle gained 3.83%, and in the last 12 months, it increased 14.11%."
     }
   ]
 }
