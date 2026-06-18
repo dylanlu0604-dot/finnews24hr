@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-18 11:20:45",
-  "count": 18756,
+  "updated": "2026-06-18 11:24:47",
+  "count": 18765,
   "items": [
+    {
+      "id": "4942361",
+      "time": "2026-06-18 11:23:54",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【農業銀行董事長谷澍：可用AI手段應對AI應用風險 以AI對抗AI】6月18日，在2026陸家嘴論壇“全體大會六：科技創新賦能金融高質量發展”上，中國農業銀行董事長、執行董事谷澍表示，面對大模型應用過程中的風險，能做的不是消除風險，而是在發揮好大模型作用同時，也要認識到大模型的侷限性，想辦法儘量控制風險。他認為可從四方面防控大模型應用過程中的風險：一是分類施策推進場景適配。金融應用大模型的時候是應用在不同的場景裡面，對於不同的場景，可以建立模型的黑箱的分級管控，不同場景匹配差異化的技術路線和可解釋性的要求。二是設定一定的標尺對大模型進行約束控制，大模型有時候會產生幻覺，有時候會自由發揮，針對不同的場景進行應用的時候是需要建立引數、建立標尺控制它的應用路徑。同時再把它和人結合起來，大模型過程里人的作用是最終做決策。三是用AI手段應對AI應用風險，以AI對抗AI，建立縱深防禦體系，增強AI對抗能力。四是強化銀行內部的AI治理體系，健全全生命週期和風險並重的銀行內部AI治理體系，確保AI既用得好又管得好，既留住創新空間又儘量壓縮模型黑箱、幻覺的侷限性。"
+    },
+    {
+      "id": "mkt:019ed8c1-9214-7dd8-b06a-ae3060403b95",
+      "time": "2026-06-18 11:23:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: Fed not yet ready to hike, but case for tightening is building】Fed officials signaled on Wednesday they may need to raise rates soon rather than cut, a sharp pivot amid rapidly rising inflation. Evercore ISI analyst Krishnan Guha said falling energy prices could ease inflation in coming months, but warned the rate outlook has decoupled from oil and the key uncertainty is whether underlying inflation will cool enough to avert eventual hikes. Guha flagged two additional upward pressures beyond energy: ongoing tariff pass-through and cost spillovers from a surge in AI infrastructure investment. Claudia Sahm, chief economist at New Century Advisors and a former Fed economist, said she does not yet see the usual triggers that would prompt a Fed response to supply-driven inflation — an overheated labor market or unanchored inflation expectations — but conceded the case for action is accumulating and that the Fed should be prepared to raise rates if conditions worsen. She added the Fed could move faster than it did during the pandemic inflation spike because the debate is already underway."
+    },
+    {
+      "id": "mkt:019ed8c0-b05b-7dd8-b06a-a3c43a480c55",
+      "time": "2026-06-18 11:22:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fengyan Technology, Banana Pi launch open-source low-voltage servo platform BPI-VP10】Fengyan Technology and open-source hardware community Banana Pi launched the fully open-source low-voltage servo drive platform BPI-VP10. All design documentation is publicly available to global developers. The platform is positioned as an out‑of‑the‑box, deeply customizable servo drive base for industrial control, robotics and intelligent equipment."
+    },
+    {
+      "id": "4942360",
+      "time": "2026-06-18 11:22:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南省懷化市城市發展集團有限公司黨委委員、副總經理龍超群接受審查調查】6月18日，據“三湘風紀”微信公眾號訊息，湖南省懷化市城市發展集團有限公司黨委委員、副總經理龍超群涉嫌嚴重違紀違法，目前正接受懷化市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019ed8c0-6c83-7dd8-b06a-9d21b5bcb173",
+      "time": "2026-06-18 11:22:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "BMW.DE",
+        "Impact mixed"
+      ],
+      "text": "【Sources: BMW pause in China-made BEV output is capacity shift to ready new-generation local models】June 17 — Sources close to BMW said rumors that the automaker will halt July production of China-made BEVs including the i3, i5 and iX1 reflect a routine capacity adjustment tied to market timing and product cycles, not an exit from the Chinese BEV market. Insiders said the adjustment is intended to concentrate capacity and resources to prepare localized production of BMW’s next-generation models, which will include upgrades across vehicle technology, intelligent cockpits, autonomous-driving features and user experience to match China’s NEV consumption upgrade. Sources said the change will not affect after-sales, maintenance or existing owner rights."
+    },
+    {
+      "id": "te:markets:559907",
+      "time": "2026-06-18 11:21:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Holds Near IDR 17,850 Ahead of BI Decision — The Indonesian rupiah traded near IDR 17,850 per U.S. dollar on Wednesday, little changed from the previous session, as traders awaited the central bank's interest rate decision later in the day. Policymakers are widely expected to raise the benchmark rate by 25bps, following cumulative 75bps of tightening since May, to support the rupiah and reinforce inflation expectations. While tighter monetary policy should help stabilise the local currency, higher borrowing costs could further weigh on domestic demand. Investors also weighed local reports of a new stimulus package for lower-middle-income households, alongside unchanged subsidized fuel and LPG prices. Jakarta, meanwhile, has cut funding for the flagship Free Meal Program by about IDR 67 trillion as President Prabowo pursues fiscal efficiency. Externally, the dollar stayed firm after the Fed held rates but flagged growing support for hikes later this year, curbing gains across emerging-market currencies, including the rupiah."
+    },
+    {
+      "id": "mkt:019ed8bf-b2f4-7dd8-b06a-937d3ab8408b",
+      "time": "2026-06-18 11:21:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "TASS reported the local mayor said drones attacked a Moscow oil refinery."
+    },
+    {
+      "id": "mkt:019ed8bf-8908-7dd8-b06a-8b53525bb261",
+      "time": "2026-06-18 11:21:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "02643.HK",
+        "Impact bullish"
+      ],
+      "text": "【Geely Farizon, CAOCAO agree to deploy 100,000 Robovan Shentong T6 vans by 2030】On the opening day of the 2026 Hong Kong Auto Show, Geely Farizon New Energy Commercial Vehicles and CAOCAO (02643.HK) signed a strategic cooperation to scale Robovan deployments. The partners plan to cumulatively deploy 100,000 Geely Farizon Robovan Shentong T6 vehicles by 2030. The deal focuses on deep coordination of new-energy commercial vehicles and logistics operations under Geely’s One Geely strategy to accelerate an AI-era intelligent logistics network and a green smart-transport ecosystem."
+    },
+    {
+      "id": "4942359",
+      "time": "2026-06-18 11:21:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微納核芯近期完成B3輪和B4輪融資】據蕭山釋出，近日，微納核芯宣佈完成了B3輪和B4輪融資，B輪系列融資總額超10億元，這將進一步加快企業三維存算一體LPU（大模型推理處理器）晶片的產業化節奏。據悉，兩輪融資，涵蓋中國移動鏈長基金、超越摩爾、江城基金、佰維儲存、九坤創投、深創投、中國網際網路投資基金等入局，中芯聚源、毅達資本、藍馳創投、東方嘉富及立訊精密產投等老股東繼續跟投。"
+    },
+    {
+      "id": "4942358",
+      "time": "2026-06-18 11:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【券商2026年分類評價工作啟動 今年強化對反洗錢處罰關注度】記者獲悉，地方證監局陸續給券商下發2026年分類評價相關工作安排通知，券商可進行自評彙報工作，預計在6月底之前完成。券商分類評價對落實專項監管工作突出的券商予以適當加分激勵，反之扣分，評級直接決定監管資源分配與業務准入許可權。今年評價工作有一處修訂值得關注，監管要求，券商對於評價期內因反洗錢等問題被其他政府部門採取行政處罰措施的情況，應如實反映，並說明具體情況。記者還瞭解到，同期，券商文化建設評估工作也進入尾聲，券商正在複核分數，預計兩週內正式出爐結果，這也將間接影響到券商分類評價評級。 (財聯社)"
+    },
+    {
+      "id": "4942357",
+      "time": "2026-06-18 11:21:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寶馬停產所有國產純電車型？相關人士：積極為國產BMW新世代車型準備】6月17日，針對網傳寶馬將於7月起全面停產i3、i5、iX1等全系國產純電車型的訊息，記者從接近寶馬官方人士處瞭解到，此次停產系品牌基於市場節奏與產品週期的常規產能調整，並非退出國產純電市場。 據知情人士透露，本次現有國產純電車型生產調整，核心目的是集中產能、資源，全力鋪墊BMW新世代車型國產落地工作。全新新世代車型將在整車技術、智慧座艙、自動駕駛及使用者出行體驗上實現全方位迭代升級，精準適配中國新能源市場消費升級趨勢。 上述知情人士表示，此次產能與產品調整不會影響在售車主及購車使用者的全生命週期售後、維保等配套服務，使用者原有權益保持不變。 （中國經營報）"
+    },
+    {
+      "id": "4942356",
+      "time": "2026-06-18 11:20:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌3%，現報2562.00元。"
+    },
+    {
+      "id": "mkt:019ed8be-61a8-7dd8-b06a-85a427f07458",
+      "time": "2026-06-18 11:20:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share consumer sector saw selective strength; Dalian Youyi notched a third consecutive daily limit-up. Tianhong, Zhongbai Group, Jinzhongzi Liquor, Yizhi Konjac and Zhulaoliu also advanced."
+    },
     {
       "id": "4942355",
       "time": "2026-06-18 11:19:49",
@@ -172818,51 +172951,6 @@
         "原創"
       ],
       "text": "【韓國因資料洩露對Coupang處以創紀錄6246億韓元罰款】韓國將對電商巨頭Coupang處以6250億韓元（4.093億美元）罰款，原因是該公司去年發生大規模客戶資訊洩露事件及非法收集個人資訊，這是韓國針對企業資料洩露問題開出的最大一筆罰單 。韓國個人資訊保護委員會表示，這家在紐約上市的公司洩露了超過3300萬名客戶的個人資料，且未能在法律規定的72小時內發現此次洩露事件。據計算，該罰款金額相當於Coupang去年45萬億韓元營收的1.4%。"
-    },
-    {
-      "id": "4929497",
-      "time": "2026-06-11 11:24:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【速賣通歐美拉5國上線官方本地配送服務】6月11日訊息，介面新聞獲悉，阿里旗下跨境電商平臺速賣通AliExpress近期在美國、波蘭、法國、西班牙、墨西哥五國上線官方本地配送服務，覆蓋歐洲、北美、拉美三大經濟圈。商家加入後，可依託海外倉實現本地發貨、本地配送。"
-    },
-    {
-      "id": "4929496",
-      "time": "2026-06-11 11:24:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國科學院科技基礎能力局副局長張韻：加快國家人工智慧應用中試基地和國家級科研語料庫的建設】國家資料局今日舉辦2026年“資料要素×”首場新聞釋出會，中國科學院科技基礎能力局副局長張韻在會上介紹，圍繞資料要素價值釋放，積極探索科學資料要素化發展新路徑。一方面，面向AI4S對科學資料的迫切需求，加快國家人工智慧應用中試基地和國家級科研語料庫的建設，推動科學資料中心智慧化轉型，持續提升科技創新支撐能力。另一方面，強化科學資料總中心統籌支撐能力，圍繞確權、流通和評價等關鍵環節完善資料要素服務體系。"
-    },
-    {
-      "id": "mkt:019eb4b4-09b4-7dd8-afb3-61daaeb2fd43",
-      "time": "2026-06-11 11:22:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "Star Stocks",
-        "Alibaba",
-        "JD.com",
-        "Meituan",
-        "Tencent",
-        "Xiaomi",
-        "09988.HK",
-        "Impact bearish",
-        "00700.HK",
-        "03690.HK"
-      ],
-      "text": "Hong Kong-listed tech heavyweights slid, with Alibaba (09988.HK) and JD.com (09618.HK) each down more than 5%; Baidu (09888.HK), Xiaomi (01810.HK), Tencent (00700.HK) and Meituan (03690.HK) also fell."
-    },
-    {
-      "id": "4929495",
-      "time": "2026-06-11 11:21:49",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗將印度Nifty指數目標價下調至26000點，因地緣政治風險加劇。"
     }
   ]
 }
