@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-18 10:40:00",
-  "count": 18761,
+  "updated": "2026-06-18 10:44:10",
+  "count": 18759,
   "items": [
+    {
+      "id": "mkt:019ed89c-9f8b-7dd8-b069-ef1637261463",
+      "time": "2026-06-18 10:43:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai Clearing House, China Foreign Exchange Trade System to launch FX repo optimization service on June 22, 2026】Shanghai Clearing House (SCH) and the China Foreign Exchange Trade System (CFETS) said on June 18 they will introduce an FX repo optimization service from June 22, 2026 to improve foreign‑currency repo trading and clearing and support market collateral management and diversified settlement. During the life of pledged FX repos, counterparties may initiate pledged‑security substitutions for unsettled trades via SCH’s integrated business system or CFETS’ FX trading system; substitutions take effect after counterparty confirmation. Before the trade settlement date, counterparties may initiate cash delivery in SCH’s system; SCH will complete buy‑out repo maturity settlement per cash‑delivery instructions. CFETS will publish its specific rollout timetable separately."
+    },
+    {
+      "id": "mkt:019ed89c-05ea-7dd8-b069-e6dc1ff9c44d",
+      "time": "2026-06-18 10:42:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iran alleges Microsoft AI used to identify, prioritize targets in strikes】Iranian state media said a Microsoft AI called Claude, normally used for answering user queries, was repurposed in operations against Iran to identify and prioritize military targets. Tehran alleged the tool analyzed large volumes of satellite imagery, location data and communications signals to enable US and Israeli forces to select targets and recommend weapons in under a second. Iran said the system depended on cloud infrastructure provided by Amazon and Microsoft and that events in Tehran, Gaza and Lebanon exposed what it described as close ties between those tech firms and US/Israeli military operations."
+    },
+    {
+      "id": "mkt:019ed89b-77a5-7dd8-b069-df899c17d995",
+      "time": "2026-06-18 10:42:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA STATE PLANNER: Attributing China's industrial competitiveness to subsidies is wholly wrong】On June 18, Li Chao, deputy director of the policy research office and spokesman for the CHINA STATE PLANNER, rejected recent international reports that attribute Chinese firms' market-share gains in key sectors primarily to government \"subsidies.\" He called that view one-sided and wholly incorrect, saying China's industrial competitiveness stems from its ultra-large domestic market and intense competitive pressure, efficient coordination across a complete industrial system, long-term accumulation in education, technology and talent, and sustained improvements in the business environment."
+    },
+    {
+      "id": "4942304",
+      "time": "2026-06-18 10:41:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海清算所、中國外匯交易中心：將於6月22日起推出外幣回購最佳化服務】銀行間市場清算所股份有限公司（簡稱“上海清算所”）、中國外匯交易中心（簡稱“外匯交易中心”）6月18日釋出通知稱，為進一步最佳化外幣回購交易及清算服務，滿足市場機構抵押品管理和多樣化結算方式的需求，上海清算所和中國外匯交易中心將於2026年6月22日起推出外幣回購最佳化服務。外幣質押式回購業務存續期間，交易雙方可在上海清算所綜合業務系統或外匯交易中心外匯交易系統中對尚未到期結算的交易發起質押券替換，經對手方確認後生效。交易到期結算日前，交易雙方可在上海清算所綜合業務系統中發起現金交割，上海清算所將根據現金交割指令完成買斷式回購到期結算。外匯交易中心具體上線安排將另行通知。"
+    },
+    {
+      "id": "te:economy:559898",
+      "time": "2026-06-18 10:41:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Steadies on Hawkish Fed Signals — The yield on the 10-year US Treasury note held around 4.46% on Thursday after rising nearly 5 basis points in the previous session, as the Federal Reserve kept interest rates unchanged but signaled growing support for rate hikes later this year. Half of FOMC members now expect at least one rate increase, with the central bank sharply raising its inflation forecasts amid the economic impact of the conflict in the Middle East. Meanwhile, Fed Chair Kevin Warsh declined to provide guidance on the next policy move but emphasized that inflation has remained above the Fed’s 2% target for several years and reiterated the central bank’s commitment to restoring price stability. On the geopolitical front, President Donald Trump signed an interim agreement to end the war with Iran and reopen the Strait of Hormuz, though it remains unclear whether Iran has already begun steps to fully reopen the key shipping route."
+    },
+    {
+      "id": "4942303",
+      "time": "2026-06-18 10:40:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券等在武漢成立新合夥企業，出資額2.7億】天眼查App顯示，近日，武漢東證澴通智慧產業投資合夥企業（有限合夥）成立，執行事務合夥人為上海東方證券資本投資有限公司，出資額2.7億人民幣，經營範圍為以自有資金從事投資活動。合夥人資訊顯示，該合夥企業由湖北孝感東證空港產業投資母基金管理合夥企業（有限合夥）、湖北政和基金投資管理有限公司、東方證券旗下上海東方證券資本投資有限公司、湖北和興融產業投資有限公司共同出資。"
+    },
+    {
+      "id": "4942302",
+      "time": "2026-06-18 10:40:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王華任華為終端法定代表人】天眼查App顯示，近日，華為終端（深圳）有限公司發生工商變更，魏承敏卸任法定代表人、副董事長，由王華接任。去年12月，郭平卸任董事長，由余承東接任，孟晚舟、徐直軍等卸任董事。該公司成立於2003年12月，註冊資本約148.9億人民幣，經營範圍包括開發、生產、銷售通訊電子產品及配套產品，並提供技術諮詢和售後服務等，由華為投資控股有限公司、華為技術有限公司共同持股。"
+    },
     {
       "id": "mkt:019ed899-0c44-7dd8-b069-d0ae85221086",
       "time": "2026-06-18 10:39:29",
@@ -172833,85 +172905,6 @@
         "A股"
       ],
       "text": "【A股寬基指數樣本即將大調整 近9000億元規模指數基金同步調倉】本週五（6月12日），滬深300、中證A500、科創50等十多隻指數將迎來新一輪樣本股調整。截至6月10日，跟蹤這些指數的指數基金規模接近9000億元，滬深300ETF規模在4000億元以上，中證A500ET、科創50指數ETF的規模均超過1000億元。記者發現，個別指數的樣本調整比例達到10%，在新易盛、兆易創新、江波龍等科技股調入指數之後，A股重要寬基指數的“含科量”明顯提升。受訪的公募人士認為，樣本股隨產業經濟和技術變遷持續煥發新機，符合我國新質生產力的發展方向，也是保持指數有效性的應有之義。寬基指數調整從傳統核心資產進一步向“硬科技”與高階製造傾斜，會更加完整對映出中國經濟高質量發展和產業升級主線。（證券時報）"
-    },
-    {
-      "id": "mkt:019eb490-be23-7dd8-afb2-887346011529",
-      "time": "2026-06-11 10:44:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Kuwait Civil Aviation Authority says it has temporarily closed national airspace after an Iranian attack; flights are being diverted."
-    },
-    {
-      "id": "4929447",
-      "time": "2026-06-11 10:43:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特因伊朗襲擊暫時關閉領空，航班改道。"
-    },
-    {
-      "id": "4929446",
-      "time": "2026-06-11 10:43:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "COUPANG對被韓國罰款6246億韓元表示遺憾。"
-    },
-    {
-      "id": "mkt:019eb48d-d1ef-7dd8-afb2-82042bf4a486",
-      "time": "2026-06-11 10:40:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Most-active SHFE silver contract fell 4.00% intraday to 15,142.00 yuan/kg."
-    },
-    {
-      "id": "4929445",
-      "time": "2026-06-11 10:40:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中華保險：指定邵曉怡為集團臨時負責人 代行總經理職權】中華保險今日釋出公告表示，經該集團董事會審議透過，聘任邵曉怡為公司總經理，待國家金融監管總局核准其總經理任職資格後正式履職。在其任職資格獲批並被正式任命前，指定其為中華保險集團臨時負責人，代行總經理職權。"
-    },
-    {
-      "id": "4929444",
-      "time": "2026-06-11 10:40:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌4%，現報15142.00元。"
-    },
-    {
-      "id": "mkt:019eb48d-729a-7dd8-afb2-79c90e025a46",
-      "time": "2026-06-11 10:40:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: Bohai Sea military exercises】Huludao Maritime Safety Administration posted a navigation warning on the China MSA website: parts of the Bohai Sea will be closed for military exercises from June 11 22:00 to June 12 05:00, entry prohibited."
-    },
-    {
-      "id": "4929442",
-      "time": "2026-06-11 10:40:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海軍事演習】據中國海事局網站訊息，葫蘆島海事局釋出航行警告，6月11日22時至6月12日5時，渤海部分海域進行軍事演習，禁止駛入。"
-    },
-    {
-      "id": "4929441",
-      "time": "2026-06-11 10:40:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東MALL首批實習機器人員工上崗】京東618期間，京東 MALL迎來了一批特殊的 “新員工”，多款智慧機器人正式入駐門店，圍繞迎賓指引、導航帶逛、智慧導購、理貨上架、門店值守等崗位陸續開展運營支援。據介紹，這些機器人員工貫穿前場顧客服務與後場貨品管理等多個線下零售核心場景，以具身智慧科技進一步升級京東線下消費與運營模式。而此次機器人在京東MALL的規模化“上崗”，也標誌著京東依託自研零售大模型技術底座打造的機器人零售解決方案加快落地實體商業。"
     }
   ]
 }
