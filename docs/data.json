@@ -1,7 +1,130 @@
 {
-  "updated": "2026-06-18 15:25:22",
-  "count": 18890,
+  "updated": "2026-06-18 15:29:23",
+  "count": 18881,
   "items": [
+    {
+      "id": "te:economy:559981",
+      "time": "2026-06-18 15:28:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Moldova Producer Prices Lowest Since 2024 — Producer prices in Moldova fell 0.1% year-on-year in May 2026, following a 1.1% rise in the previous month, marking the lowest reading since December 2024. Cost pressures eased in the manufacturing sector (0.9% vs. 2.4% in April), driven by slower price growth for food products (2.2% vs. 2.4%), coke and refined petroleum products (0.6% vs. 2.4%), and electrical equipment (0.8% vs. 0.9%), while price increases accelerated for the manufacture dairy products (3.2% vs. 1.6%), chemicals and chemical products (2.8% vs. 1.3%), and rubber and plastic products (3.4% vs. 1.5%). Additionally, prices for electricity, gas, steam, and air-conditioning supply fell to 12.8%, matching the pace recorded in April. In contrast, producer prices in mining and quarrying rose at a faster pace (6.5% vs. 5.5%). On a monthly basis, producer prices increased 0.4% in May, unchanged from the previous month."
+    },
+    {
+      "id": "mkt:019ed9a1-9884-7dd8-b070-7fc2610dee69",
+      "time": "2026-06-18 15:28:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "688256.SS",
+        "Impact bullish",
+        "09903.HK"
+      ],
+      "text": "【Cambricon hits record high, denies large-scale supply to internet firms】Cambricon shares rose more than 16% intraday to a record high, lifting market value to 965.6 billion yuan, approaching 1 trillion. The move followed reports of Chinese internet firms buying domestic AI compute: industry sources say ByteDance is in talks with Tianshu Zhixin (09903.HK) to buy at least 50,000 AI chips for inference, and that Huawei and Cambricon are also ByteDance suppliers. An online-circulated internal memo claimed Cambricon supplies models 580 and 690 to ByteDance, would complete 120,000–160,000 deliveries of the 580 model in Q2, with 690 deliveries expected in H2. Cambricon's securities affairs representative said the memo is unverified, urged investors to rely on official disclosures, and said the company has not held recent internal exchange events."
+    },
+    {
+      "id": "4942742",
+      "time": "2026-06-18 15:28:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行(RBC)放棄對澳大利亞8月加息的預期；預計2027年11月降息。"
+    },
+    {
+      "id": "4942741",
+      "time": "2026-06-18 15:28:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東MALL香港灣仔店6月18日正式開業】今日，京東 MALL 香港灣仔店正式啟幕。截至目前，京東已累計投入逾 350 億港元加碼香港市場。未來，京東 MALL 將持續加大香港佈局力度，計劃三年內在港新增 6 至 8 家門店。（新浪科技）"
+    },
+    {
+      "id": "4942740",
+      "time": "2026-06-18 15:27:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部介紹外國商務人士在華工作生活指引更新升級內容】近期，商務部會同12個單位聯合釋出《外國商務人士在華工作生活指引（2026年版）》。商務部新聞發言人何亞東表示，商務部會同相關部門已連續三年編制釋出《指引》，受到來華外國商務人士普遍歡迎。2026年版《指引》內容更新升級：在政策方面，比如，擴大實施單方面免籤政策，最佳化240小時過境免籤政策範圍。新增離境退稅內容，系統介紹離境退稅政策、辦理流程等。在便利服務方面，比如，新增辦理使用eSIM卡有關介紹，提升通訊便利；更新外國人拍卡過閘乘坐地鐵城市範圍，提升出行便利。商務部將持續關注外國商務人士訴求，為他們營造更加友好、高效、便利的發展環境，助力更多跨國公司瞭解中國、投資中國、深耕中國。"
+    },
+    {
+      "id": "mkt:019ed9a0-3c5b-7dd8-b070-713c710f40e0",
+      "time": "2026-06-18 15:26:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel strikes two sites in southern Lebanon】Lebanese television reported on the 18th that the Israeli Defense Forces struck two locations in southern Lebanon on the morning of the 18th, killing one and wounding one. The IDF shelled Fouqa in the Nabatieh area and carried out a drone strike on Taibnit village. TASNIM NEWS quoted Iranian foreign ministry spokesman BAGHAEI as saying continued Israeli attacks on Lebanon would be treated as a violation of US commitments; the Iran‑US memorandum of understanding contains clauses calling for an immediate and permanent halt to military action on all fronts, including Lebanon."
+    },
+    {
+      "id": "mkt:019ed9a0-389c-7dd8-b070-6835f632f2a4",
+      "time": "2026-06-18 15:26:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to IRNA, Iran and Kazakhstan have reached an agreement to establish logistics hubs and open an east-west transit corridor."
+    },
+    {
+      "id": "te:markets:559979",
+      "time": "2026-06-18 15:26:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Schneider Electric Stock Price Hits All-time High — Schneider Electric shares increased to an all-time high of 288.80 EUR. Over the past 4 weeks, Schneider Electric gained 12.53%, and in the last 12 months, it increased 34.13%."
+    },
+    {
+      "id": "4942739",
+      "time": "2026-06-18 15:25:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普簽署伊朗戰爭協議後油價大跌，歐洲能源股下跌】隨著美國總統特朗普簽署結束伊朗戰爭並重新開放霍爾木茲海峽的臨時協議後油價下跌，歐洲能源股走低。霍爾木茲海峽是一條關鍵水道，全球五分之一的石油運輸都要經過這裡。倫敦的殼牌和英國石油公司均下跌約1.1%，法國的道達爾能源下跌0.7%，義大利的埃尼下跌約0.6%。在歐洲早盤交易中，布倫特原油下跌2.3%，至每桶77.71美元，而西得州中質油下跌2.5%，至每桶74.08美元。本週迄今，這兩大基準原油均下跌了約15%。Tickmill Group的Patrick Munnelly寫道：“特朗普曾表示該備忘錄已經生效，但伊朗多快能全面恢復航運仍存在不確定性。”"
+    },
+    {
+      "id": "4942738",
+      "time": "2026-06-18 15:25:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【張憶東：AI牛市將震盪擴散，繼續深耕精選AI核心稀缺景氣環節】海通國際首席經濟學家張憶東6月18日表示，二季度至今，隨著霍爾木茲海峽困局延續，疊加美國就業超預期，導致美債收益率上行，進而導致全球股市出現一輪明顯震盪調整，先是傳統行業遭遇AI行情的虹吸效應，之後AI行情也出現分化和一定程度的調整。重新開放霍爾木茲海峽將使得美債長端利率上行衝擊力減弱，防止了通脹超預期上行，降低了年內加息風險，短期將提升全球風險偏好，特別是AI主線行情率先修復、強者更強。面對AI縮圈投資引發的震盪，耐心進行景氣投資，按照SMART策略進行左側佈局，精選AI核心主線的高景氣短缺資產，逢低佈局資源、能源、出海產業鏈、“含AI量”高的券商等。中長期而言，順應並受益於AI科技浪潮的硬核資產現在是逢低配置的良機。"
+    },
+    {
+      "id": "4942737",
+      "time": "2026-06-18 15:25:26",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金價因美聯儲加息訊號下跌，儘管受伊朗協議提振】美聯儲官員暗示其下一步行動可能是加息後，金價下跌，這抵消了油價下跌帶來的支撐，油價下跌曾緩解了對通脹的擔憂。較高的利率增加了持有金條等無收益資產的機會成本。在早盤交易中，紐約期金下跌1.2%，至每盎司4,328.20美元，不過本週仍有望實現5%的漲幅。盛寶銀行的分析師表示：“這種截然不同的反應突顯出，市場目前難以在短期宏觀逆風與黃金的長期結構性支撐之間取得平衡。“然而，“在能源價格大幅回落的背景下，美聯儲2026年的通脹預測是否會顯得過高，並需要在未來幾個月內下調，這也仍是個問題。”"
+    },
+    {
+      "id": "4942736",
+      "time": "2026-06-18 15:25:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列襲擊黎巴嫩南部兩地】據黎巴嫩“廣場”電視臺18日報道，以色列國防軍當天上午對黎巴嫩南部兩地發動襲擊，造成1人死亡、1人受傷。 報道說，以軍對黎南部奈拜提耶地區的富卡發動炮擊，同時對該地區的泰卜尼特村發動無人機襲擊。 據伊朗塔斯尼姆通訊社18日報道，伊朗外交部發言人巴加埃當天表示，如果以色列繼續襲擊黎巴嫩，將被視為違反美國的承諾。 在伊美雙方公佈的諒解備忘錄中，均有涉及立即並永久停止包括黎巴嫩在內的所有戰線的軍事行動的條款。(新華社)"
+    },
+    {
+      "id": "4942735",
+      "time": "2026-06-18 15:24:59",
+      "tags": [
+        "行業",
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【寒武紀衝向萬億市值，否認向位元組供貨】6月18日盤中，寒武紀股價漲超16%，創歷史新高，盤中市值達到9656億元，望向萬億市值。訊息面上，近期有關於國內網際網路公司採購國產算力的訊息。行業人士稱位元組跳動正在與天數智芯討論採購至少5萬顆AI晶片，主要用於推理工作，華為、寒武紀也是位元組跳動的供應商。就上述交流紀要內容，記者以投資者身份撥打寒武紀證券事務代表電話。相關負責人表示，這是網上流傳的“小作文”，請投資者注意甄別，還是以官方釋出的資訊為準，近期寒武紀沒有接待過內部交流活動。（第一財經）"
+    },
     {
       "id": "te:markets:559976",
       "time": "2026-06-18 15:24:34",
@@ -174016,198 +174139,6 @@
         "Japan & APAC"
       ],
       "text": "【Chinese foreign ministry says Japan has shed 'peaceful nation' mask】China's Foreign Ministry accused Japan of abandoning its peaceful posture, saying Tokyo has sharply increased defense spending, relaxed controls on lethal arms exports, advanced deployment of medium-to-long-range missiles, expanded offensive military capabilities, stockpiled large quantities of sensitive nuclear materials and pushed to revise its pacifist constitution. The ministry said these moves amount to Japan having 'removed the mask' of a peaceful state and warned the international community to be vigilant against a revival of Japanese militarism."
-    },
-    {
-      "id": "mkt:019eb595-d75e-7dd8-afb7-1942b6d686cb",
-      "time": "2026-06-11 15:29:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign Ministry responds to Iran situation: strongly urges parties to halt military action immediately】At a regular briefing, Foreign Ministry spokesperson Lin Jian said China is seriously concerned and strongly urges relevant parties to stop military action immediately, return to dialogue and negotiations, and support mediation efforts to achieve an early, comprehensive and lasting ceasefire. He warned military force will only worsen the situation, cannot solve root causes, and said the sovereignty, security and territorial integrity of regional states must be respected and upheld."
-    },
-    {
-      "id": "mkt:019eb595-d6f8-7dd8-afb7-134bbf3ce031",
-      "time": "2026-06-11 15:29:16",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Italy's prime minister said that if Iran continues to 'go down the wrong path', Europe should prepare to impose new sanctions."
-    },
-    {
-      "id": "mkt:019eb595-9717-7dd8-afb7-0fb2c479d9cb",
-      "time": "2026-06-11 15:29:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【China says it and EU are maintaining dialogue after FT reports cancelled meeting】At a June 11 briefing, Foreign Ministry spokesperson Lin Jian responded to a Financial Times report that, citing rising trade tensions, China had cancelled a high-level meeting with the EU this month, saying China and the EU are maintaining communication on the relevant dialogue. Asked whether MOFCOM minister Raimondo will still visit the EU later this month as reported, Lin advised directing that question to the relevant Chinese authorities."
-    },
-    {
-      "id": "4929841",
-      "time": "2026-06-11 15:28:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家資料局：2025年全國活躍資料總量同比增長28.46%】國家資料局政策和規劃司副司長欒婕6月11日介紹，“資料要素×”三年行動計劃實施兩年多來，資料要素價值加快釋放。國家資料局累計釋出417個典型案例、11個行業領域的760個“資料要素×”典型場景指引，提前超額完成打造300個以上場景的目標。2025年，全國活躍資料總量為1.67澤位元組（ZB），同比增長28.46%；企業資料產品和服務數量同比增長29.29%，交易額同比增長39.8%。（新華社）"
-    },
-    {
-      "id": "4929840",
-      "time": "2026-06-11 15:28:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "梅洛尼：戰後義大利願意幫助確保霍爾木茲海峽的安全。"
-    },
-    {
-      "id": "4929839",
-      "time": "2026-06-11 15:28:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：擬給予烏克蘭聯絡歐盟成員國地位，這意味著烏克蘭可以參加歐盟理事會及各部長理事會會議，烏克蘭可派駐一名無投票權的歐盟委員會委員。"
-    },
-    {
-      "id": "4929838",
-      "time": "2026-06-11 15:28:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：日本已經摘下所謂“和平國家”的面具】6月11日，外交部發言人林劍主持例行記者會。有記者提問，據報道，多名訊息人士稱，針對中國和巴基斯坦5月下旬發表的聯合宣告中提及反對軍國主義捲土重來的圖謀，日本政府表示日本堅守“專守防衛”方針作為和平國家的發展道路並未改變。請問中方對此有何評論？林劍表示，反對軍國主義是國際社會不容撼動的共同意志。日本嘴上喊著“和平”“防衛”，行動上卻朝著“再軍事化”狂飆突進，持續大幅擴充軍費，放寬殺傷性武器出口，推進部署中遠端導彈，擴充進攻性軍事力量，囤積大量敏感核材料，推動修改“和平憲法”，實際上已經自己摘下了所謂“和平國家”的面具。國際社會應對此高度警惕，絕不允許日本軍國主義死灰復燃。"
-    },
-    {
-      "id": "4929837",
-      "time": "2026-06-11 15:28:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部回應伊朗最新局勢】6月11日，外交部發言人林劍主持例行記者會。 有外媒記者提問，中方此前提出了關於伊朗問題的四點主張，但是美方在海灣的軍事基地被用來襲擊伊朗，這是否侵犯了伊朗的主權？移除這些基地是否應該作為實現四點主張的前提？中方能採取什麼切實的舉措來阻止海灣國家助力美國對伊朗的入侵？ 林劍表示，中方對當前的局勢表示嚴重關切。武力相向只會加重局勢惡化，軍事手段解決不了根本問題，地區國家的主權安全和領土完整也都應得到尊重和維護。中方強烈敦促有關方立即停止軍事行動，迴歸對話談判，響應有關國家斡旋努力，儘早實現全面持久停火。 林劍指出，自戰事發生以來，中方同包括伊朗在內的相關各方保持緊密溝通，一直在為止戰奔走、為促和努力。中方願秉持習近平主席四點主張精神，進一步致力於止戰促和，為早日恢復中東海灣地區的和平安寧繼續發揮積極作用。（北京日報）"
-    },
-    {
-      "id": "4929836",
-      "time": "2026-06-11 15:28:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中方取消了與歐盟的會晤？外交部：中歐就相關對話保持著溝通】6月11日，外交部發言人林劍主持例行記者會。 法新社記者提問，據《金融時報》報道，由於貿易緊張局勢加劇，中國已取消了本月份與歐盟的高層會晤。發言人對此有何看法？此外，商務部部長王文濤是否仍會如報道中所述，在本月晚些時候出訪歐盟？ 林劍表示，關於你提到的第一個問題，據目前我們瞭解，中歐雙方就相關對話保持著溝通。你提到的第二個問題，建議向中方的主管部門詢問。（北京日報）"
-    },
-    {
-      "id": "4929835",
-      "time": "2026-06-11 15:27:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部回應河野洋平逝世】6月11日，外交部發言人林劍主持例行記者會。 據多家日本媒體10日報道，日本自民黨前總裁河野洋平本月8日去世，享年89歲。會上，日本東京電視臺記者提問，中國外交部對河野洋平逝世有何表態？中方如何評價其對中日關係所作出的貢獻？ 林劍表示，中方對河野先生不幸逝世表示深切的哀悼，向他的親屬表示誠摯慰問。 林劍指出，河野先生是中國人民的老朋友。他秉持正確歷史觀，1993年作為日本內閣官房長官就慰安婦問題發表正式談話，承認日本政府責任，表示反省和道歉，時至今日仍在發揮積極影響。 他被視為維護日本和平憲法的旗幟人物，曾表示“明確規定日本放棄戰爭，不擁有戰爭力量的日本憲法第九條，既是我們的決心覺悟，也是我們的理想”。 他畢生致力於中日友好，曾數十次訪華，為推動兩國關係發展，促進兩國交流合作作出重要貢獻。 他在彌留之際仍牽掛中日關係，流淚表達了其實現最後一次對中國的訪問。令人惋惜的是，由於病情加重，河野先生的這一願望未能實現。 林劍說，河野先生曾表示，終身難忘中日邦交正常化時的震撼和驚喜。過去的歷史不應被淡忘，當年的情懷應當得到傳承，作出的承諾應當得到堅守。當前形勢下，這些話更具現實意義。（北京日報）"
-    },
-    {
-      "id": "mkt:019eb594-8ac7-7dd8-afb7-05055e1f95e9",
-      "time": "2026-06-11 15:27:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "South Korea's Lee strongly urged the EU to give the country 'favorable consideration' on steel tariffs."
-    },
-    {
-      "id": "4929834",
-      "time": "2026-06-11 15:27:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智界稱法拉利前首席設計師加盟，法拉利高管質疑：設計師姓甚名誰？】針對智界汽車方面宣稱法拉利前首席設計師加盟一事，法拉利大中華區公關總監@IngridJSun 今日在微博上質疑稱，“我一直想問這位傳說中的法拉利設計師姓甚名誰？”"
-    },
-    {
-      "id": "mkt:019eb593-a75f-7dd8-afb6-fa0d076e29dc",
-      "time": "2026-06-11 15:26:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI crude fell $2.01 intraday to $90.69/bbl, down 2.16%. Brent fell 2.00% intraday to $91.85/bbl."
-    },
-    {
-      "id": "4929833",
-      "time": "2026-06-11 15:26:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【“一年四倍基”演繹極致過山車 連續兩個跌停後大漲9%】在本週二和週三連續兩日跌停後，場內基金財通福鑫定開混合今日大漲，尾盤一度觸及漲停，收盤漲幅為9.45%，溢價率達27.32%。這隻基金由金梓才管理，截至6月10日的過去一年回報為422.85%，作為一隻“一年四倍基”，其二級市場炒作升溫，上週全周漲幅達31.97%，溢價率一度突破45%。6月1日至6月5日，上交所對包括該基金在內的多隻溢價較高的基金進行重點監控。本週一，該只基金全天停牌。基金管理人近期也多次提示風險，6月以來已釋出15份溢價風險提示公告。"
-    },
-    {
-      "id": "mkt:019eb593-5e81-7dd8-afb6-f52fe9316b87",
-      "time": "2026-06-11 15:26:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MERZ said Germany’s objective for Ukraine remains achieving a just and lasting peace, while also safeguarding Germany’s security interests."
-    },
-    {
-      "id": "4929832",
-      "time": "2026-06-11 15:26:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【慧谷新材：目前自產樹脂暫不涉及PPE和PPO材料】慧谷新材6月11日在互動平臺表示，目前公司自產樹脂中，暫不涉及PPE和PPO樹脂材料。公司具備了有機矽、聚氨酯、聚酯、丙烯酸和環氧等多元材料體系的精準分子結構設計與可控合成技術，實現了大部分功能性樹脂自供。"
-    },
-    {
-      "id": "te:economy:558296",
-      "time": "2026-06-11 15:26:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "India 10Y Yield Stabilizes as Oil Prices Ease from Highs — The yield on India’s 10-year G-Sec hovered around 6.9%, stabilizing after recent declines as investors monitored oil prices, which retreated from recent highs despite ongoing tensions between the United States and Iran. Market sentiment remained cautious, although easing crude prices helped temper concerns over the economic impact on India. Brent crude had earlier surged to as high as $95.50 per barrel after the United States carried out fresh strikes on multiple targets in Iran, escalating geopolitical tensions and raising fears of disruptions to global energy supplies. However, prices later eased from those levels, providing some relief to bond markets. Meanwhile, US inflation data offered mixed signals. Headline inflation accelerated to 4.2% year-on-year, the highest level in more than three years, while the core measure rose less than expected. The softer underlying inflation reading helped keep expectations for near-term Federal Reserve interest rate moves largely unchanged."
-    },
-    {
-      "id": "4929831",
-      "time": "2026-06-11 15:26:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：我們對烏克蘭的目標仍是實現公正持久的和平，同時也要兼顧德國的安全利益。"
-    },
-    {
-      "id": "4929830",
-      "time": "2026-06-11 15:26:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國方面表示，李在明強烈要求歐盟“在鋼鐵關稅問題上對韓國給予有利考慮”。"
-    },
-    {
-      "id": "4929829",
-      "time": "2026-06-11 15:25:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "梅洛尼重申，義大利不會參與伊朗戰爭。"
-    },
-    {
-      "id": "4929828",
-      "time": "2026-06-11 15:25:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【工銀投資入股天津濱海新區高速公路投資發展公司】天眼查App顯示，近日，天津濱海新區高速公路投資發展有限公司發生工商變更，新增工銀金融資產投資有限公司為股東，同時，註冊資本由約85.6億人民幣增至約113.5億人民幣。該公司成立於2010年12月，法定代表人為薛磊，經營範圍包括橋樑、隧道的投資建設等，由天津海濱大道建設發展有限公司、天津濱海新區產業投資集團有限公司及上述新增股東共同持股。"
-    },
-    {
-      "id": "4929827",
-      "time": "2026-06-11 15:25:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西芒杜南部礦區生產進度符合市場預期】近日，由幾內亞共和國政府、力拓集團及中鋁集團牽頭的中鋁鐵礦控股有限公司（CIOH）共同組建的合資企業SimFer舉行媒體圓桌會。SimFer 董事總經理 Chris Aitchison 在會上表示，專案當前生產進度符合市場預期。按照計劃，2028年下半年將實現6000萬噸產能，這一點與此前向市場披露的目標保持一致。Chris指出，專案目前處於過渡階段，在這一過程中，產量會逐步爬坡，現階段暫無法披露精準月度、季度產量資料。Chris解釋稱，“我們現在並不是一個已經穩定執行多年的成熟專案，而是一個處於不斷變化和持續爬坡過程。我們當然希望實現更高產量，但2026年市場預期仍然是500萬至1000萬噸。”（介面新聞）"
     }
   ]
 }
