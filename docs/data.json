@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-19 02:13:45",
-  "count": 19060,
+  "updated": "2026-06-19 02:17:42",
+  "count": 19052,
   "items": [
+    {
+      "id": "te:markets:560167",
+      "time": "2026-06-19 02:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Drops by 3.72% — Top commodity losers are Methanol (-3.72%), Natural Gas EU (-2.83%), Natural Gas UK (-2.78%), Crude Oil WTI (-1.02%) and Brent Crude Oil (-0.61%). Gains are led by Natural gas (2.17%) and Gasoline (1.66%)."
+    },
+    {
+      "id": "4944220",
+      "time": "2026-06-19 02:14:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "ANTHROPIC向美國商務部長霍華德·盧特尼克提交提案，尋求解除美國對強大“MYTHOS”、“FABLE”AI模型的禁令。"
+    },
     {
       "id": "4944219",
       "time": "2026-06-19 02:12:30",
@@ -175376,99 +175395,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Rises by 4.01% — Top commodity gainers are Silver (4.01%), Gold (2.06%) and Copper (1.61%). Biggest loser is Iron Ore CNY (-0.97%)."
-    },
-    {
-      "id": "4931130",
-      "time": "2026-06-12 02:17:28",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據沙烏地阿拉伯阿拉比亞電視臺：訊息人士稱，伊朗外長阿拉格齊可能於本週六（6月13日）前往巴基斯坦。"
-    },
-    {
-      "id": "te:economy:558449",
-      "time": "2026-06-12 02:17:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Uruguay Industrial Output Growth Slows in April — Uruguay’s industrial production increased 4.0% year-on-year in April 2026, easing from a 9.4% expansion in the previous month. Growth was driven by strong gains in pharmaceutical manufacturing (21.6%), rubber and plastic products (25.2%), and food production (1.7%). On the downside, output declined in motor vehicles (-15.9%), machinery and equipment (-36.4%), and chemical products (-4.2%). Meanwhile, labor market indicators remained weak, with the hours worked index falling 3.2% year-on-year and the occupied personnel index declining 1.5%. In the first four months of 2026, industrial production rose 3.9% compared with the same period a year earlier."
-    },
-    {
-      "id": "4931129",
-      "time": "2026-06-12 02:16:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國防部初級國務大臣卡恩斯：將根據國防計劃的最終結果來決定自己的立場。"
-    },
-    {
-      "id": "4931128",
-      "time": "2026-06-12 02:16:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，埃克森美孚全球交易主管即將退休。"
-    },
-    {
-      "id": "mkt:019eb7e6-09d0-7dd8-afc8-a7178e0a1b73",
-      "time": "2026-06-12 02:16:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Ministry of Defence Minister of State Kearns said he will decide his stance based on the final outcome of the defence plan."
-    },
-    {
-      "id": "mkt:019eb7e5-d48a-7dd8-afc8-9baa3c085535",
-      "time": "2026-06-12 02:15:53",
-      "tags": [
-        "MKT News",
-        "XOM.O"
-      ],
-      "text": "People familiar with the matter said Exxon Mobil (XOM.N) global head of trading Tracy Gunnlaugson is set to retire."
-    },
-    {
-      "id": "4931127",
-      "time": "2026-06-12 02:15:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普宣佈提名傑伊·克萊頓出任美國家情報總監】當地時間6月11日，美國總統特朗普在社交平臺“真實社交”發文稱，他宣佈提名傑伊·克萊頓（Jay Clayton）出任下一任國家情報總監，並作為內閣成員任職。特朗普表示，克萊頓曾任美國證券交易委員會主席，曾領導蘇利文·克倫威爾律師事務所，目前擔任美國紐約南區聯邦檢察官。特朗普呼籲美國參議院儘快確認對他的任命。（央視新聞）"
-    },
-    {
-      "id": "te:markets:558448",
-      "time": "2026-06-12 02:15:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Falls by 3.74% — Top commodity losers are Natural Gas EU (-3.74%), Natural gas (-3.04%), Brent Crude Oil (-3%) and Crude Oil WTI (-2.77%)."
-    },
-    {
-      "id": "4931126",
-      "time": "2026-06-12 02:14:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列i24News：以色列決策層今晚曾明確表示，以方正在為局勢升級做準備。然而僅半小時後，特朗普的宣告便令這一表態大打折扣。"
-    },
-    {
-      "id": "mkt:019eb7e4-91d2-7dd8-afc8-95a2a40bef91",
-      "time": "2026-06-12 02:14:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "i24News reported Israeli decision-makers said tonight they were preparing for a potential escalation; roughly 30 minutes later a statement from Trump undercut that assessment."
     }
   ]
 }
