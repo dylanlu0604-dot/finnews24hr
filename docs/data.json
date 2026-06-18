@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-18 11:24:47",
-  "count": 18765,
+  "updated": "2026-06-18 11:28:50",
+  "count": 18766,
   "items": [
+    {
+      "id": "4942364",
+      "time": "2026-06-18 11:27:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國監管機構拒絕了BAEMIN和COUPANG在反壟斷案中提出的和解方案。"
+    },
+    {
+      "id": "4942363",
+      "time": "2026-06-18 11:26:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【“主要因為原材料漲價” 東方鋯業年內第二次上調產品價格】記者從業內獲悉，今日東方鋯業釋出產品價格調整通知函，決定自2026年6月18日起上調公司相關鋯產品價格；其中，氧氯化鋯產品(包含母液料)每噸上調1500元，二氧化鋯產品每噸上調4500元，電熔鋯產品每噸上調2000元，其他鋯系列產品價格將同步進行調整。對此，東方鋯業回應稱：“主要因為原材料漲價，後續是否會繼續漲價或調價不確定”，今年4月份已經上調過一次相關鋯系列產品價格。鋯英砂作為鋯產業上游原料，今年來大幅上漲。據Mysteel統計，截至6月18日鋯英砂（65%）價格為11400元/噸，年內漲幅約25%。 (財聯社)"
+    },
+    {
+      "id": "4942362",
+      "time": "2026-06-18 11:25:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【UFC八月重返上海】世界綜合格鬥（MMA）組織UFC®將於2026年八月重返上海，這是UFC連續第二年在上海辦賽。本次比賽場地位於浦發銀行東方體育中心，這是自2017年上海站門票售罄以來，UFC首次重返浦東新區。賽程方面，UFC精英之路第五季半決賽將於8月28日（週五）率先開戰，勝者將會挺進總決賽，參與UFC正式合同的角逐。UFC格鬥之夜上海站則將於8月29日（週六）正式打響。本次UFC格鬥之夜上海站由上海市體育局和浦東新區人民政府主辦，中國移動旗下咪咕將共同承辦本次賽事，阿里巴巴旗下橙獅體育負責賽事執行工作。咪咕也是UFC在中國地區的獨家全媒體合作伙伴，為觀眾提供賽事直播、節目及原創內容。"
+    },
     {
       "id": "4942361",
       "time": "2026-06-18 11:23:54",
@@ -172930,27 +172955,6 @@
         "MKT News"
       ],
       "text": "An HKEX filing shows Anhui Huachuang New Materials Co., Ltd. has submitted an application to list on the exchange."
-    },
-    {
-      "id": "te:markets:558246",
-      "time": "2026-06-11 11:28:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Extends Gains — Malaysian palm oil futures rose for a second straight session, hovering around MYR 4,550 per tonne, supported by a weaker ringgit and stronger edible oil prices on the Dalian and Chicago exchanges. Sentiment was further lifted by rising exports, with cargo surveyors noting that Malaysian palm oil shipments during June 1–10 rose between 3.5% and 4.9% from the prior month. Additional support came from the broader energy market, where oil prices surged amid heightened concerns over Middle East supply disruptions, boosting the outlook for biodiesel demand. However, upside was capped as industry data showed Malaysia’s stocks rose for a second month in May. Meanwhile, demand from top buyer India rose slightly in May from April’s four-month low, remaining below typical levels. In Indonesia, the world’s largest producer, the government launched new technical rules for key commodity exports, including palm oil, unsettling exporters and injecting fresh uncertainty into near-term trade flows."
-    },
-    {
-      "id": "4929498",
-      "time": "2026-06-11 11:25:34",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國因資料洩露對Coupang處以創紀錄6246億韓元罰款】韓國將對電商巨頭Coupang處以6250億韓元（4.093億美元）罰款，原因是該公司去年發生大規模客戶資訊洩露事件及非法收集個人資訊，這是韓國針對企業資料洩露問題開出的最大一筆罰單 。韓國個人資訊保護委員會表示，這家在紐約上市的公司洩露了超過3300萬名客戶的個人資料，且未能在法律規定的72小時內發現此次洩露事件。據計算，該罰款金額相當於Coupang去年45萬億韓元營收的1.4%。"
     }
   ]
 }
