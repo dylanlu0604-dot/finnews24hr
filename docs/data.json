@@ -1,7 +1,291 @@
 {
-  "updated": "2026-06-19 03:24:47",
-  "count": 19032,
+  "updated": "2026-06-19 03:57:36",
+  "count": 19006,
   "items": [
+    {
+      "id": "mkt:019edc49-fe6c-7dd8-b087-a84907e94f0d",
+      "time": "2026-06-19 03:51:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq Composite's late-session gain widened to 2%."
+    },
+    {
+      "id": "4944282",
+      "time": "2026-06-19 03:51:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲2.00%，現報26542.938點；道指漲0.29%，現報51641.789點；標普500指數漲1.11%，現報7502.370點。"
+    },
+    {
+      "id": "4944281",
+      "time": "2026-06-19 03:47:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數創盤中新高，上漲2.7%。"
+    },
+    {
+      "id": "mkt:019edc45-689b-7dd8-b087-a53fe855f1ca",
+      "time": "2026-06-19 03:46:36",
+      "tags": [
+        "MKT News",
+        "BA.N"
+      ],
+      "text": "Boeing (BA.N) said it is working with suppliers and taking steps to mitigate any potential impact after a tank-related safety incident at a California plant."
+    },
+    {
+      "id": "4944280",
+      "time": "2026-06-19 03:46:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音發言人表示，加州工廠儲罐險情發生後，公司正與供應商協同處理，並 “採取各項舉措降低一切潛在影響”。"
+    },
+    {
+      "id": "4944279",
+      "time": "2026-06-19 03:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員COTTON：對解除伊朗石油出口制裁表示關切， 希望特朗普當初能延續 “自由計劃”。"
+    },
+    {
+      "id": "4944278",
+      "time": "2026-06-19 03:42:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合海上資訊中心宣告稱，霍爾木茲海峽海上安全威脅等級已下調至中等。"
+    },
+    {
+      "id": "4944277",
+      "time": "2026-06-19 03:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "參議員COTTON：對美伊協議的某些方面存在擔憂。"
+    },
+    {
+      "id": "mkt:019edc41-6dbe-7dd8-b087-9a18a869ff1f",
+      "time": "2026-06-19 03:42:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Joint Maritime Information Center said the maritime security threat level for the Strait of Hormuz has been lowered to moderate."
+    },
+    {
+      "id": "4944276",
+      "time": "2026-06-19 03:42:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX股價跌幅收窄至2.3%，此前一度下跌10%。"
+    },
+    {
+      "id": "mkt:019edc3f-adec-7dd8-b087-9287d6c29d7a",
+      "time": "2026-06-19 03:40:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said trade issues Canada can work with the US to resolve include forest products."
+    },
+    {
+      "id": "mkt:019edc3f-529c-7dd8-b087-8ec5e20850c3",
+      "time": "2026-06-19 03:39:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Alaghaqi said he will follow the Supreme Leader's guidance to safeguard Iran's rights, dignity and independence."
+    },
+    {
+      "id": "4944275",
+      "time": "2026-06-19 03:39:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長表示，將遵循最高領袖指示，維護伊朗的權利、尊嚴與獨立。"
+    },
+    {
+      "id": "te:economy:560171",
+      "time": "2026-06-19 03:39:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Argentina Trade Surplus Hits Record In May — Argentina’s trade surplus widened to a record $3.5 billion in May 2026 from $607 million a year earlier, well above forecasts of a $2.2 billion surplus and marking the 30th consecutive month of positive trade balances. Exports surged 34.4% year-on-year to a record $9.5 billion, with all categories posting gains. Fuels and energy led the increase, soaring 167.1% on higher crude oil and fuel exports. Primary products rose 22.5%, led by oilseeds and oleaginous fruits. Manufactures of agricultural origin increased 20.5%, supported by stronger shipments of fats and oils, meat products, and food industry waste, while industrial manufactures advanced 20.1%, led by chemical products. Imports fell 7.0% to $6 billion. The sharpest decline came from fuels and lubricants, down 32.9%, followed by parts and accessories (-26.6%), passenger vehicles (-21.3%), capital goods (-6.8%), and consumer goods (-2.3%). Intermediate goods were the only major category to rise, increasing 8.6%."
+    },
+    {
+      "id": "mkt:019edc3e-ffa8-7dd8-b087-83159de12622",
+      "time": "2026-06-19 03:39:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cuban prime minister says leadership of the Communist Party of Cuba has proposed opening Cuba's financial sector to private banks."
+    },
+    {
+      "id": "4944274",
+      "time": "2026-06-19 03:39:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼： 我們可與美方協商的貿易議題涵蓋林產品。"
+    },
+    {
+      "id": "4944273",
+      "time": "2026-06-19 03:39:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：疑似日本央行干預日元匯率。"
+    },
+    {
+      "id": "mkt:019edc3e-59cd-7dd8-b087-7d4c2eb49a7b",
+      "time": "2026-06-19 03:38:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Minister Araghchi welcomed Iran’s Supreme Leader’s written address on Thursday, saying the diplomatic corps will spare no effort to safeguard Iran’s interests."
+    },
+    {
+      "id": "4944272",
+      "time": "2026-06-19 03:38:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大總理卡尼：在七國集團峰會期間與美方就貿易事宜開展了多輪細緻、專業層面的磋商。"
+    },
+    {
+      "id": "mkt:019edc3d-c0c0-7dd8-b087-71fda61c0e68",
+      "time": "2026-06-19 03:38:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney said he held a series of detailed technical trade discussions with the United States during the G7 meeting."
+    },
+    {
+      "id": "4944271",
+      "time": "2026-06-19 03:37:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體訊息：伊朗外長阿拉格齊對最高領袖週四發表的講話表示歡迎，稱外交系統將全力以赴維護伊朗國家利益。"
+    },
+    {
+      "id": "4944270",
+      "time": "2026-06-19 03:36:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（6月18日）紐約尾盤，美元兌日元漲超0.57%，報161.81日元，逼近2024年7月3日頂部161.95日元，北京時間17:02重新整理日低至160.48日元，之前大致持平、之後持續走高。歐元兌日元漲0.2%，報185.09日元；英鎊兌日元跌0.11%，報213.244日元。"
+    },
+    {
+      "id": "mkt:019edc38-8feb-7dd8-b087-6eba7cab3536",
+      "time": "2026-06-19 03:32:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY"
+      ],
+      "text": "USD/JPY briefly fell about 80 pips to 160.94 and has since recovered to 161.53."
+    },
+    {
+      "id": "4944269",
+      "time": "2026-06-19 03:32:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "古巴總理向議員提交一攬子重大舉措，擬對古巴大量經濟領域實施私有化改革。"
+    },
+    {
+      "id": "4944268",
+      "time": "2026-06-19 03:31:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數創13個月新高，兩天漲超1.3%】週四（6月18日，沃什新聞釋出會首秀次日）紐約尾盤，ICE美元指數漲0.81%，報100.909點，逼近2025年5月16日頂部101.259點、當年5月12日頂部101.977點，最近兩個交易日累漲1.36%。彭博美元指數漲0.37%，報1218.35點，逼近3月31日頂部1233.93點，最近兩天漲1.08%。"
+    },
+    {
+      "id": "4944267",
+      "time": "2026-06-19 03:31:44",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國芝加哥商業交易所集團（CME Group）就加密貨幣永續期貨市場起訴美國商品期貨交易委員會（CFTC）及其主席Michael Selig。"
+    },
+    {
+      "id": "mkt:019edc36-3bb8-7dd8-b087-66196fd7d9fa",
+      "time": "2026-06-19 03:30:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs: its medium-term gold price forecast is skewed to the upside."
+    },
+    {
+      "id": "4944266",
+      "time": "2026-06-19 03:29:55",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛：從中期維度來看，我們黃金價格預測的整體風險仍偏向上行。"
+    },
+    {
+      "id": "4944265",
+      "time": "2026-06-19 03:29:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌4%，現報65.18美元/盎司。"
+    },
+    {
+      "id": "4944264",
+      "time": "2026-06-19 03:29:38",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛：預計到12月黃金價格將上漲至4900美元/盎司。"
+    },
+    {
+      "id": "mkt:019edc35-c8b1-7dd8-b087-596620da83ea",
+      "time": "2026-06-19 03:29:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs expects gold to rise to $4,900/oz by December."
+    },
+    {
+      "id": "mkt:019edc32-8d3f-7dd8-b087-509e3115ad37",
+      "time": "2026-06-19 03:26:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Almost all passengers and crew of Netherlands‑quarantined \"Hondius\" allowed to return home】WHO Director-General Tedros said on social media on the 18th that almost all passengers and crew of the \"Hondius\" cruise ship quarantined in the Netherlands have been allowed to return home, including non-Dutch residents. He said hantavirus cases remain at 13, including three deaths; there have been no new confirmed cases in over three weeks and no new deaths since May 2."
+    },
     {
       "id": "4944263",
       "time": "2026-06-19 03:24:16",
@@ -174647,552 +174931,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收漲0.34%】海天網路漲27.02%，塗鴉智慧漲14.84%，大全新能源漲7.54%，晶科能源漲6.13%，億咖通科技漲4.88%。"
-    },
-    {
-      "id": "4931215",
-      "time": "2026-06-12 03:52:06",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【SpaceX IPO定價為每股135美元，創史上最大規模IPO】SpaceX在其網站釋出的新聞稿中確認，其首次公開募股(IPO)發行5.556億股股票，定價為每股135美元。股票預計將於6月12日在納斯達克開始交易，股票程式碼為“SPCX”。簿記管理人包括：高盛、摩根士丹利、美銀證券、花旗、摩根大通、巴克萊、Deutsche Bank Securities、RBC Capital Markets、UBS Investment Bank和Wells Fargo Securities。"
-    },
-    {
-      "id": "4931214",
-      "time": "2026-06-12 03:49:09",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【沃什政策首秀在即，PIMCO：市場關注其如何為美聯儲打上自身印記】太平洋投資管理公司（PIMCO，品浩）管理人士表示，債券投資者將關注下週的美聯儲會議，以判斷新任主席凱文·沃什會以多快速度為這家央行打上自己印記。前美聯儲副主席、Pimco全球經濟顧問Richard Clarida稱，投資者仍在試圖判斷沃什將如何處理美聯儲與市場的溝通。“回顧80年代的時候，可以理解的是，當一位新任美聯儲主席上任時，會有一段也許以周或月來衡量的時期，在這段時期裡，你會試圖瞭解制度框架和溝通情況，” Clarida在美國紐約舉行的一場PIMCO新聞活動上表示，“對我來說，真正的問題在於沃什會在多大程度上、以及如何在這種溝通上打上自己的印記並施加自己的重點。"
-    },
-    {
-      "id": "4931213",
-      "time": "2026-06-12 03:47:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達埃米爾與美國總統通電話 討論美伊磋商進展】當地時間6月11日，卡達埃米爾（國家元首）塔米姆同美國總統特朗普通電話，雙方討論了兩國戰略關係及地區和國際局勢，重點就地區局勢交換意見。通話中，雙方回顧了美國與伊朗磋商所取得的進展。美方表示，相關諒解已獲得有關各方同意，並得到包括卡達在內的多個國家支援，目前各方正推進最後程式，為宣佈簽署安排作準備。卡達埃米爾表示，卡方歡迎透過對話和和平方式解決分歧，支援一切有助於維護地區和國際安全穩定、促進地區和平與合作的努力。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb839-882b-7dd8-afca-6e9182c40a35",
-      "time": "2026-06-12 03:47:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "The Mexican peso gained nearly 1% against the US dollar; Mexico’s main stock index rose more than 3%."
-    },
-    {
-      "id": "mkt:019eb839-3335-7dd8-afca-65a803732fbf",
-      "time": "2026-06-12 03:46:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Trump says Iran deal in final drafting, may be signed this weekend】On June 11 Trump said the US has \"reached an excellent deal\" with Iran and that related documents are in final drafting. He said the agreement could be finalized in the next few days and signed soon, possibly in Europe this weekend, and that Vice President Vance will attend. Trump added that if Iran signs, the Strait of Hormuz will reopen. Iran has not responded."
-    },
-    {
-      "id": "4931212",
-      "time": "2026-06-12 03:45:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美伊協議進入最後定稿階段 有望本週末簽署】當地時間6月11日，美國總統特朗普就伊朗問題表示“達成了極好的協議”，並稱相關檔案已進入最後定稿階段，未來幾天內有望最終敲定，並即將簽署。他還表示，協議可能在歐洲簽署，時間可能在本週末，美國副總統萬斯將出席。特朗普稱，一旦伊朗方面簽署協議，霍爾木茲海峽就會開放。伊朗方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb838-1cba-7dd8-afca-5c92e93adad2",
-      "time": "2026-06-12 03:45:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ICI: For the week to June 10, total assets of money market funds fell $21.48 bln to $7.87 tln."
-    },
-    {
-      "id": "mkt:019eb836-2815-7dd8-afca-5496a5fb96b9",
-      "time": "2026-06-12 03:43:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "A U.S. appeals court extended a stay of an injunction that had ruled Trump’s 10% global tariffs unlawful, keeping the tariffs in effect pending appeal."
-    },
-    {
-      "id": "te:markets:558455",
-      "time": "2026-06-12 03:42:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "General Electric Aerospace Stock Price Hits 14-week High — General Electric Aerospace shares increased to 332.52 USD, the highest since March 2026. Over the past 4 weeks, General Electric Aerospace gained 11.74%, and in the last 12 months, it increased 38.49%."
-    },
-    {
-      "id": "4931211",
-      "time": "2026-06-12 03:42:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國上訴法院延長禁令，暫緩執行針對特朗普全球 10% 關稅政策的不利裁決。"
-    },
-    {
-      "id": "4931210",
-      "time": "2026-06-12 03:38:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【產業鏈配套齊全 中國農機駛向全球】我國是農機使用大國，還是全球唯一具備全品類農機制造能力的國家。如今，中國農機不光在國內耕耘，還遍佈全球各地。中國農機揚帆出海背後，隱藏著怎樣的產業發展硬實力？出海有底氣 打通30分鐘產業圈湖南寧鄉聚集了10多家從事農機整機制造的企業，配套企業20家，形成了30分鐘農機產業圈。新品樣機從圖紙到小批次試製僅需3到7天就能完成，壓縮生產成本30%以上。高效便捷的產業鏈，是主機廠家不斷開拓海外市場的底氣。今年，這個主機廠商又投資了九千多萬元擴建新廠區，其中80%的產能用來供給海外市場。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb830-19e0-7dd8-afca-4e46d18e7acf",
-      "time": "2026-06-12 03:37:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "Dow"
-      ],
-      "text": "US equities extended gains; the Dow and S&P 500 were up 2%."
-    },
-    {
-      "id": "4931209",
-      "time": "2026-06-12 03:36:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與以色列總理內塔尼亞胡通了電話。"
-    },
-    {
-      "id": "4931208",
-      "time": "2026-06-12 03:36:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4240美元/盎司，日內漲2.60%。"
-    },
-    {
-      "id": "mkt:019eb82e-cb22-7dd8-afca-4648f14a4fb4",
-      "time": "2026-06-12 03:35:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the US is taking action to lower seafood prices."
-    },
-    {
-      "id": "4931207",
-      "time": "2026-06-12 03:35:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：採取舉措降低海鮮價格。"
-    },
-    {
-      "id": "mkt:019eb82e-41eb-7dd8-afca-3ac7fd78f5af",
-      "time": "2026-06-12 03:34:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he cannot attend the signing ceremony."
-    },
-    {
-      "id": "te:markets:558454",
-      "time": "2026-06-12 03:34:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil Hits 7-week Low — Crude Oil decreased to 85.94 USD/Bbl, the lowest since April 2026. Over the past 4 weeks, Crude Oil WTI lost 15.74%, and in the last 12 months, it increased 26.54%."
-    },
-    {
-      "id": "4931206",
-      "time": "2026-06-12 03:34:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守86美元/桶，日內跌4.49%。"
-    },
-    {
-      "id": "4931205",
-      "time": "2026-06-12 03:34:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4210美元/盎司，日內漲3.46%。"
-    },
-    {
-      "id": "mkt:019eb82d-ef3b-7dd8-afca-30a1f4578009",
-      "time": "2026-06-12 03:34:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "President Trump said the Iran agreement could be signed this weekend; Vice President Pence will attend."
-    },
-    {
-      "id": "4931204",
-      "time": "2026-06-12 03:34:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗事務：美國副總統萬斯將到場出席。"
-    },
-    {
-      "id": "4931203",
-      "time": "2026-06-12 03:34:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗問題：相關協議或於本週末簽署。"
-    },
-    {
-      "id": "mkt:019eb82d-54fa-7dd8-afca-2aa2aa1342b5",
-      "time": "2026-06-12 03:33:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said multiple ships were destroyed in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019eb82c-b2a7-7dd8-afca-21544805d4e3",
-      "time": "2026-06-12 03:33:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he just spoke with the leaders of Qatar, the UAE and Saudi Arabia."
-    },
-    {
-      "id": "mkt:019eb82c-7b55-7dd8-afca-1c40e8e0547a",
-      "time": "2026-06-12 03:33:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said the Strait of Hormuz will be open immediately after we sign the agreement."
-    },
-    {
-      "id": "mkt:019eb82c-6aea-7dd8-afca-12b1008d6ef7",
-      "time": "2026-06-12 03:32:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot silver jumped $4 intraday to $67.41/oz, up 6.35%."
-    },
-    {
-      "id": "4931201",
-      "time": "2026-06-12 03:32:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：協議簽署後海峽將立即開放。"
-    },
-    {
-      "id": "mkt:019eb82c-021c-7dd8-afca-099a8d6a2ddc",
-      "time": "2026-06-12 03:32:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump will speak with Turkish President Erdogan."
-    },
-    {
-      "id": "mkt:019eb82b-b962-7dd8-afca-00d329fed548",
-      "time": "2026-06-12 03:32:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump phoned Israeli Prime Minister Netanyahu."
-    },
-    {
-      "id": "mkt:019eb82b-b70b-7dd8-afc9-f8d3284fde1b",
-      "time": "2026-06-12 03:32:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude down 6.00% intraday at $88.12/bbl. Trump is speaking on Iran."
-    },
-    {
-      "id": "4931200",
-      "time": "2026-06-12 03:32:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：剛剛與卡達、阿聯酋、沙烏地阿拉伯的領導人通了電話。"
-    },
-    {
-      "id": "4931199",
-      "time": "2026-06-12 03:32:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：可能在接下來的幾天內達成最終協議。伊朗協議的簽署可能在歐洲進行。檔案已接近最終階段。"
-    },
-    {
-      "id": "mkt:019eb82b-5c6e-7dd8-afc9-f5ca23ab136b",
-      "time": "2026-06-12 03:31:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said the document is nearing its final stage."
-    },
-    {
-      "id": "mkt:019eb82b-3ed3-7dd8-afc9-e9bef320e570",
-      "time": "2026-06-12 03:31:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the signing of an Iran agreement may take place in Europe."
-    },
-    {
-      "id": "mkt:019eb82b-0ad2-7dd8-afc9-e1f598f25e07",
-      "time": "2026-06-12 03:31:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said a final agreement may be reached within the next few days."
-    },
-    {
-      "id": "mkt:019eb82a-edca-7dd8-afc9-dbf6dd738997",
-      "time": "2026-06-12 03:31:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Trump said the US had just reached a major reconciliation with Iran."
-    },
-    {
-      "id": "4931197",
-      "time": "2026-06-12 03:31:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指漲2.02%，現報50927.148點；納指漲2.56%，現報25813.768點；標普500指數漲1.93%，現報7406.950點。"
-    },
-    {
-      "id": "4931196",
-      "time": "2026-06-12 03:31:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：白宮記者團已被召集前往橢圓形辦公室，出席一項總統公告的簽署儀式。"
-    },
-    {
-      "id": "4931195",
-      "time": "2026-06-12 03:30:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守89美元/桶，日內跌4.46%。"
-    },
-    {
-      "id": "4931194",
-      "time": "2026-06-12 03:30:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲6%，現報67.26美元/盎司。"
-    },
-    {
-      "id": "mkt:019eb82a-7a06-7dd8-afc9-d0ede6989f0b",
-      "time": "2026-06-12 03:30:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Spot gold reclaims $4,200 level】Spot gold continued higher, reclaiming the $4,200 mark after an intraday rise of about $130."
-    },
-    {
-      "id": "4931193",
-      "time": "2026-06-12 03:30:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4230美元/盎司，日內漲2.34%。"
-    },
-    {
-      "id": "4931192",
-      "time": "2026-06-12 03:30:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破67美元/盎司，日內漲5.93%。"
-    },
-    {
-      "id": "4931191",
-      "time": "2026-06-12 03:30:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4200美元/盎司，日內漲3.21%。"
-    },
-    {
-      "id": "4931190",
-      "time": "2026-06-12 03:30:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我們剛剛與伊朗達成了一項偉大的戰爭和解協議。"
-    },
-    {
-      "id": "te:markets:558453",
-      "time": "2026-06-12 03:30:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil WTI is down by 4.1% — Crude Oil WTI decreased 4.1% to 86.336 USD/Bbl"
-    },
-    {
-      "id": "4931189",
-      "time": "2026-06-12 03:30:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲4%，現報67.33美元/盎司。"
-    },
-    {
-      "id": "4931188",
-      "time": "2026-06-12 03:30:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報86.36美元/桶。"
-    },
-    {
-      "id": "mkt:019eb829-d530-7dd8-afc9-cb519fd393b2",
-      "time": "2026-06-12 03:30:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX priced its IPO at $135.00 a share."
-    },
-    {
-      "id": "4931187",
-      "time": "2026-06-12 03:30:00",
-      "tags": [
-        "公司",
-        "其他",
-        "國際"
-      ],
-      "text": "SPACEX IPO定價為每股135美元，創史上最大規模上市交易。"
-    },
-    {
-      "id": "mkt:019eb829-800e-7dd8-afc9-c36ef8f25930",
-      "time": "2026-06-12 03:29:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices fall on 11th】At the close, NYMEX July light sweet crude fell $2.32 to $87.71/bbl (-2.58%). ICE Brent August fell $2.72 to $90.38/bbl (-2.92%)."
-    },
-    {
-      "id": "4931186",
-      "time": "2026-06-12 03:29:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4220美元/盎司，日內漲2.10%。"
-    },
-    {
-      "id": "4931185",
-      "time": "2026-06-12 03:27:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價11日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.32美元，收於每桶87.71美元，跌幅為2.58%；8月交貨的倫敦布倫特原油期貨價格下跌2.72美元，收於每桶90.38美元，跌幅為2.92%。"
-    },
-    {
-      "id": "4931184",
-      "time": "2026-06-12 03:26:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國負責武裝部隊事務的國務大臣卡恩斯釋出辭職信。"
-    },
-    {
-      "id": "4931183",
-      "time": "2026-06-12 03:26:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌4%，現報89.32美元/桶。"
-    },
-    {
-      "id": "mkt:019eb825-a2f0-7dd8-afc9-bde6c3155cfc",
-      "time": "2026-06-12 03:25:34",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index falls on 11th】The dollar index, measuring the greenback against six major currencies, fell 0.1% to 99.852 at the New York close. EUR/USD rose to 1.1558 from 1.1548; GBP/USD to 1.3398 from 1.3380. USD/JPY eased to 160.08 from 160.50; USD/CHF to 0.7970 from 0.7994. USD/CAD strengthened to 1.3981 from 1.3937; USD/SEK dipped to 9.4759 from 9.4948."
-    },
-    {
-      "id": "4931182",
-      "time": "2026-06-12 03:25:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "CBS推文：美國-伊朗諒解備忘錄可能下週簽署。"
     }
   ]
 }
