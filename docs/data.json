@@ -1,7 +1,347 @@
 {
-  "updated": "2026-06-18 19:01:29",
-  "count": 19064,
+  "updated": "2026-06-18 19:05:29",
+  "count": 19074,
   "items": [
+    {
+      "id": "mkt:019eda67-b2d8-7dd8-b079-7b0f37c896c4",
+      "time": "2026-06-18 19:04:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Traders maintain bets that the Bank of England will raise rates by 35bps this year."
+    },
+    {
+      "id": "4943349",
+      "time": "2026-06-18 19:04:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅森布拉特證券將美光科技目標價從600美元翻倍上調至1200美元。"
+    },
+    {
+      "id": "mkt:019eda67-7ff0-7dd8-b079-714fe75b12bc",
+      "time": "2026-06-18 19:04:36",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Bank of England expects Q2 potential GDP growth of about +0.2%, versus +0.1% in its April forecast."
+    },
+    {
+      "id": "4943348",
+      "time": "2026-06-18 19:04:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長隆巴爾代利：將迅速對第二輪效應增強的跡象作出反應。"
+    },
+    {
+      "id": "4943347",
+      "time": "2026-06-18 19:04:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行貨幣政策委員會會議紀要：第二季度領先指標顯示，國內需求將持續疲軟。"
+    },
+    {
+      "id": "4943346",
+      "time": "2026-06-18 19:03:59",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行利率決議公佈後，英鎊兌美元GBP/USD短線小幅下挫12點，現報1.3225。"
+    },
+    {
+      "id": "4943345",
+      "time": "2026-06-18 19:03:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST天山：擬向特定物件發行不超過5900萬股A股股票】*ST天山公告，公司擬向控股股東廈門舍德及實際控制人陳明藝發行不超過5900萬股A股股票，由廈門舍德及陳明藝以現金方式全額認購。公司已與廈門舍德、陳明藝簽署《附條件生效的股份認購協議之補充協議》。本次發行尚需深圳證券交易所稽核透過並經中國證監會同意註冊。"
+    },
+    {
+      "id": "te:economy:560067",
+      "time": "2026-06-18 19:03:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Bank of England Keeps Rates Steady — The Bank of England voted 7-2 to keep Bank Rate unchanged at 3.75% in June 2026, as policymakers weighed easing inflation against continued uncertainty from volatile global energy markets linked to Middle East tensions. Two members of the Monetary Policy Committee preferred a 0.25 percentage point hike to 4%. Officials said global energy prices have declined since the previous meeting following developments in the Middle East, but remain elevated and unstable compared with pre-conflict levels. UK CPI inflation has eased to 2.8%, though the Bank expects it could rise later this year as earlier energy increases continue to feed through. Policymakers warned that the risk of second-round effects in wages and prices increases the longer elevated energy costs persist. At the same time, the labour market is showing signs of cooling, and broader economic momentum appears to be weakening, which could help limit inflationary pressure."
+    },
+    {
+      "id": "4943344",
+      "time": "2026-06-18 19:03:29",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "英國央行行長貝利：過去四個月能源價格上漲導致了一些通脹壓力，我們的職責是確保這不會轉變為持續的通脹。儘管停火，伊朗戰爭帶來的壓力仍在持續。油價下跌“令人鼓舞”，但一些通脹壓力已在醞釀中。將對更強的二輪效應跡象迅速作出回應。"
+    },
+    {
+      "id": "mkt:019eda66-464c-7dd8-b079-699d23b9396b",
+      "time": "2026-06-18 19:03:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said the fall in oil prices is \"encouraging\", but some inflationary pressures are already brewing."
+    },
+    {
+      "id": "mkt:019eda66-19d3-7dd8-b079-627d3bfaaf4b",
+      "time": "2026-06-18 19:03:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor BAILEY said the BoE will respond swiftly to any signs that second-round inflation effects are strengthening."
+    },
+    {
+      "id": "mkt:019eda65-e5d3-7dd8-b079-5beb35895950",
+      "time": "2026-06-18 19:02:51",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "After the Bank of England's rate decision, GBP/USD briefly slipped 12 pips to 1.3225."
+    },
+    {
+      "id": "4943343",
+      "time": "2026-06-18 19:02:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行：隨時準備採取必要措施，確保通脹迴歸2%的軌道。"
+    },
+    {
+      "id": "mkt:019eda65-bd6d-7dd8-b079-5773bee20e67",
+      "time": "2026-06-18 19:02:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England says it stands ready to take necessary action at any time to ensure inflation returns to the 2% path."
+    },
+    {
+      "id": "mkt:019eda65-a8b0-7dd8-b079-4b77540187ab",
+      "time": "2026-06-18 19:02:35",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England expects restoration of energy supplies will face risks of logistical delays and that instability will persist."
+    },
+    {
+      "id": "mkt:019eda65-790f-7dd8-b079-46e0d0624727",
+      "time": "2026-06-18 19:02:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said energy price increases over the past four months have added some inflationary pressure, and the Bank's duty is to ensure this does not become persistent inflation."
+    },
+    {
+      "id": "mkt:019eda65-5964-7dd8-b079-3c12957e33a5",
+      "time": "2026-06-18 19:02:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "The Bank of England lowered its inflation forecast for this year and said underlying growth is expected to be slightly faster than in April's projection."
+    },
+    {
+      "id": "4943342",
+      "time": "2026-06-18 19:02:14",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "英國央行下調了今年的通脹預期，預計基礎增長將略快於四月份的預測。"
+    },
+    {
+      "id": "mkt:019eda65-3779-7dd8-b079-312abaf541f1",
+      "time": "2026-06-18 19:02:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huaxia Nasdaq ETF to halt trading from market open on June 22, 2026 until 10:30 that day."
+    },
+    {
+      "id": "mkt:019eda65-27c3-7dd8-b079-2cf842c09f66",
+      "time": "2026-06-18 19:02:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD"
+      ],
+      "text": "Bank of England says energy price outlook remains uncertain."
+    },
+    {
+      "id": "mkt:019eda65-1800-7dd8-b079-214852db7523",
+      "time": "2026-06-18 19:01:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Deputy Governor Lombardelli said he would respond swiftly to signs of strengthening second‑round inflationary effects."
+    },
+    {
+      "id": "mkt:019eda64-fb81-7dd8-b079-1e8be937f344",
+      "time": "2026-06-18 19:01:51",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England policymaker Greene said a vote to raise interest rates is insurance against larger second-round inflation effects."
+    },
+    {
+      "id": "4943341",
+      "time": "2026-06-18 19:01:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行貨幣政策委員會會議紀要：密切關注地緣政治發展對通脹前景的影響。"
+    },
+    {
+      "id": "mkt:019eda64-e374-7dd8-b079-15e7483c041d",
+      "time": "2026-06-18 19:01:45",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England said Q4 CPI may reach slightly above 3.25%."
+    },
+    {
+      "id": "4943340",
+      "time": "2026-06-18 19:01:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "烏克蘭至6月18日央行利率 15%，預期15%，前值15.00%。"
+    },
+    {
+      "id": "4943339",
+      "time": "2026-06-18 19:01:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦卡拉奇證券交易所 KSE-100 指數收盤上漲 0.5%，報 181580.60 點。"
+    },
+    {
+      "id": "mkt:019eda64-8152-7dd8-b079-084250e36e71",
+      "time": "2026-06-18 19:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "Bank of England MPC member GREENE and Chief Economist Pill said they support a 25bp rate hike."
+    },
+    {
+      "id": "4943338",
+      "time": "2026-06-18 19:01:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "英國央行行長貝利：儘管停火，伊朗戰爭帶來的壓力仍在持續。"
+    },
+    {
+      "id": "mkt:019eda64-611b-7dd8-b079-067cdc0d0061",
+      "time": "2026-06-18 19:01:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Bank of England governor Bailey said that, despite a ceasefire, pressure from the Iran war persists."
+    },
+    {
+      "id": "4943337",
+      "time": "2026-06-18 19:01:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國至6月18日英國央行MPC投票贊成維持利率不變 7，預期7，前值8。\n英國至6月18日英國央行MPC投票贊成加息 2，預期2，前值1。\n英國至6月18日英國央行MPC投票贊成降息 0，預期0，前值0。\n英國央行：以7-2的投票比例透過利率決議。（上次為8-1）"
+    },
+    {
+      "id": "mkt:019eda64-4912-7dd8-b078-fb022cab365f",
+      "time": "2026-06-18 19:01:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England says it remains ready to act on inflation."
+    },
     {
       "id": "mkt:019eda64-0ceb-7dd8-b078-f59d3db1fa92",
       "time": "2026-06-18 19:00:50",
@@ -19,6 +359,15 @@
         "其他"
       ],
       "text": "英國央行維持其“隨時準備採取行動”應對通脹的指引。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202606183776281190",
+      "time": "2026-06-18 19:00:20",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【英國央行將基準利率維持在3.75%不變】英國央行將基準利率維持在3.75%不變，符合市場預期。"
     },
     {
       "id": "mkt:019eda63-8d2e-7dd8-b078-ec875d5d84ee",
@@ -175736,208 +176085,6 @@
         "市場"
       ],
       "text": "土耳其銀行業主要指數在央行貨幣政策決議公佈後上漲0.68%（此前漲幅為0.77%）。"
-    },
-    {
-      "id": "4930397",
-      "time": "2026-06-11 19:05:22",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "土耳其里拉在央行利率決議公佈後兌美元持穩於46.1550，此前報價為46.1560。"
-    },
-    {
-      "id": "4930396",
-      "time": "2026-06-11 19:05:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗釋出影片，畫面顯示其今晨向中東地區美軍基地發射導彈。"
-    },
-    {
-      "id": "4930395",
-      "time": "2026-06-11 19:05:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【專家：日本擴軍備武動向違背和平憲法精神】近期，圍繞年內修訂“安保三檔案”，日本執政黨自民黨形成一份建議草案，提出強化防空體系和持續作戰能力，並可能進一步大幅增加防衛費等。對此，研究戰爭犯罪方向的日本專家前田朗表示，日本政府的一系列擴軍備武動向完全違背和平憲法精神。（央視新聞）"
-    },
-    {
-      "id": "4930394",
-      "time": "2026-06-11 19:04:57",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【荷蘭國際：若美國批發通脹資料居高不下，美元或將上漲】荷蘭國際集團的Chris Turner在一份報告中表示，如果美國5月份批發通脹資料在4月份大幅加速後依然居高不下，美元可能會上漲。他說，生產者價格指數的部分組成部分——如醫療健康、金融服務、機票和保險——會傳導至美聯儲青睞的通脹指標，即核心個人消費支出價格指數(PCE)。4月份核心PCE升至3.3%，進一步偏離了美聯儲2%的目標。Turner說：“在下週三美聯儲會議召開之際，今天公佈的另一組強勁PPI資料料將使短期利率和美元獲得支撐。”DXY美元指數上漲0.2%，至100.131，荷蘭國際集團預計該指數將升至100.25-100.35。"
-    },
-    {
-      "id": "mkt:019eb65b-4d2d-7dd8-afbb-f6035fadaffb",
-      "time": "2026-06-11 19:04:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Housing and Urban-Rural Development urban construction department convenes video meeting to deploy northern China urban drainage and flood-control work】The Ministry of Housing and Urban-Rural Development’s Urban Construction Department held a video meeting to redeploy urban drainage and flood-control work in northern China, summarizing lessons from past rain and flood disasters and exchanging experience. It said the northward shift of the rain belt has made northern China a high-frequency, high-impact extreme-rainfall zone—earlier onset, longer duration, larger totals and more frequent extreme storms. With the country now in the main flood season, northern localities were directed to draw lessons from historical events, acknowledge prominent shortcomings in urban drainage and flood control, prioritize key areas and critical links, and fully implement mitigation and preparedness measures."
-    },
-    {
-      "id": "4930393",
-      "time": "2026-06-11 19:04:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【方邦股份：股票交易異常波動 公司仍處虧損狀態】方邦股份公告稱，公司股票在2026年6月9日、6月10日、6月11日連續三個交易日內收盤價格漲幅偏離值累計達30%，屬異常波動情形。經自查，公司目前生產經營正常，不存在應披露而未披露的重大事項。2025年公司淨虧損8362.24萬元，扣非淨虧損9347.08萬元；2026年第一季度淨虧損1731.28萬元，扣非淨虧損2247.23萬元。公司前期研發的FCCL、電阻薄膜、可剝離銅箔等產品後續客戶匯入存不確定性，目前仍處虧損狀態，提醒投資者注意風險。"
-    },
-    {
-      "id": "4930392",
-      "time": "2026-06-11 19:04:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【分析師：受宏觀經濟提振，英國石油公司料將跑贏同行】加皇資本市場分析師Biraj Borkhataria和Adnan Dhanani寫道，英國石油公司的股票料將跑贏同行，因為高度支援性的宏觀經濟環境將有助於其削減債務的努力。他們寫道，投資者希望明確這家英國能源巨頭的中期增長雄心及其目標資產負債表。加皇資本市場的分析師預計，英國石油公司將在2026年底前實現140億至180億美元的淨債務目標，比該公司設定的2027年底的目標提前一年。他們寫道，就英國石油公司的整體負債（包括債務、租賃和混合工具）而言，這一數字接近560億美元，但約300億美元會更合適。他們寫道，這意味著報告的淨債務目標約為50億美元，該目標可能在2027年中期實現。該股上漲0.8%，至545便士。"
-    },
-    {
-      "id": "te:markets:558354",
-      "time": "2026-06-11 19:04:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Rebound from 1-Month Low — Futures tracking US equities rebounded from their one-month low after the US signaled it concluded its strikes against Iran, attempting to set the stage for negotiations to continue. Contract tracking the S&P 500, Dow, and Nasdaq 100 were around 1% higher. US President Trump stated that US retaliatory strikes were done should Iran hold fire and added that both countries remained close to a deal that would progress to the resumption of energy exports through the Persian Gulf. The suspension of oil flows from the region lifted CPI inflation to a three-year high in May, and new data is expected to show PPI inflation at an over three-year high, supporting bets of a Fed rate hike. Stocks were higher broadly, and Nvidia added 1% premarket. Stocks in AI infrastructure carried their strong momentum as the SpaceX IPO tomorrow underscores how hyperscalers are spending in compute capacity. Still, Oracle slumped 8.5% as it will take in more debt to finance data centers despite flat sales."
-    },
-    {
-      "id": "4930391",
-      "time": "2026-06-11 19:03:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相發言人表示，伊朗局勢重回衝突不符合任何一方利益。"
-    },
-    {
-      "id": "4930390",
-      "time": "2026-06-11 19:03:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川省消防救援總隊原黨委書記農有良接受審查調查】中央紀委國家監委網站6月11日通報，據中央紀委國家監委駐應急管理部紀檢監察組、四川省紀委監委訊息：四川省消防救援總隊原黨委書記、政治委員農有良涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐應急管理部紀檢監察組紀律審查和四川省監察委員會監察調查。"
-    },
-    {
-      "id": "mkt:019eb659-797a-7dd8-afbb-ee12d6f79101",
-      "time": "2026-06-11 19:02:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH cuts global shipping outlook to Neutral, citing a war-driven surge in tanker freight rates."
-    },
-    {
-      "id": "4930389",
-      "time": "2026-06-11 19:02:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行：在實現物價穩定前將持續維持緊縮貨幣政策立場，該立場將透過需求、匯率與預期渠道強化通脹下行程序。"
-    },
-    {
-      "id": "mkt:019eb658-f916-7dd8-afbb-e5fa6ef9870d",
-      "time": "2026-06-11 19:02:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's central bank (CBRT) said it is closely monitoring the impact of geopolitical developments on the inf outlook via cost channels, economic activity and expectations. Leading indicators point to weak domestic demand."
-    },
-    {
-      "id": "4930388",
-      "time": "2026-06-11 19:02:23",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行：第一季度資料顯示經濟活動放緩，先行指標表明國內需求持續疲軟。"
-    },
-    {
-      "id": "te:markets:558353",
-      "time": "2026-06-11 19:02:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Closes Slightly Down — India’s BSE Sensex finished about 0.2% down at 73,832.6 on Thursday, halting a two-day advance, amid caution due to ongoing Middle East tensions and concerns over unabated foreign fund outflows. At the same time, weakness in the tech sector persisted, on fears of AI-led disruptions and a prolonged period of high US interest rates. The US and Iran have exchanged strikes across the Middle East for a second consecutive day, with President Trump vowing more attacks if Tehran delays agreeing to a peace deal. In equities, Infosys and HCL Tech led losses, falling 2.7% and 2%, respectively."
-    },
-    {
-      "id": "4930387",
-      "time": "2026-06-11 19:02:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行：正密切關注地緣政治發展透過成本渠道、經濟活動及預期對通脹前景產生的影響。"
-    },
-    {
-      "id": "mkt:019eb658-9758-7dd8-afbb-defd9f93488e",
-      "time": "2026-06-11 19:01:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Turkish central bank said energy prices remain volatile and elevated amid geopolitical developments and related uncertainty."
-    },
-    {
-      "id": "mkt:019eb658-94d6-7dd8-afbb-d489617b0750",
-      "time": "2026-06-11 19:01:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Turkish central bank said it would tighten its monetary policy stance if the inf outlook deteriorates significantly and persistently."
-    },
-    {
-      "id": "4930386",
-      "time": "2026-06-11 19:01:48",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行：若通脹前景出現顯著且持續的惡化，將收緊貨幣政策立場。"
-    },
-    {
-      "id": "4930385",
-      "time": "2026-06-11 19:01:39",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行：5月通脹潛在趨勢小幅下降。"
-    },
-    {
-      "id": "4930384",
-      "time": "2026-06-11 19:01:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【住房城鄉建設部城市建設司召開北方地區城市排水防澇工作部署影片會】據中國建設報訊息，近日，住房城鄉建設部城市建設司召開北方地區城市排水防澇工作部署影片會，總結歷史暴雨洪澇災害教訓、交流城市排水防澇工作經驗，對北方地區城市排水防澇工作進行再部署、再落實。會議指出，隨著雨帶北抬，北方地區已經成為極端暴雨的高發區、重災區，表現為大規模降雨開始早、歷時長、雨量大、暴雨多、極端性強。目前全國已進入主汛期，北方地區各地要深刻汲取歷史暴雨洪澇災害教訓，充分認識當前城市排水防澇工作存在的突出短板問題，聚焦重點領域和關鍵環節，全力以赴抓好城市排水防澇工作落實。"
-    },
-    {
-      "id": "mkt:019eb658-315b-7dd8-afbb-cfdf43f01c39",
-      "time": "2026-06-11 19:01:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Central Bank of the Republic of Turkey's Monetary Policy Committee left the overnight lending rate at 40% and the overnight borrowing rate at 35.5%."
     }
   ]
 }
