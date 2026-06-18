@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-18 21:52:37",
-  "count": 18941,
+  "updated": "2026-06-18 21:56:48",
+  "count": 18940,
   "items": [
+    {
+      "id": "te:markets:560122",
+      "time": "2026-06-18 21:56:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SAP Stock Price Hits 29-month Low — SAP shares decreased to 134.98 EUR, the lowest since January 2024. Over the past 4 weeks, SAP lost 13.27%, and in the last 12 months, it decreased 45.14%."
+    },
+    {
+      "id": "mkt:019edb04-6020-7dd8-b07f-c88356facd46",
+      "time": "2026-06-18 21:55:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bank of England governor urges probe into fake posts showing confrontation with Reform UK leader】Bank of England Governor Andrew Bailey has asked for help identifying the originators of a series of social media posts on X that used doctored images to depict a confrontation between him and Reform UK leader Nigel Farage; the posts have circulated widely in recent weeks. Bailey said the material is unquestionably fabricated and the Bank has raised concerns with Reform UK and X. The posts linked to a fake BBC report falsely claiming Farage confronted Bailey on a BBC programme that never aired, included fabricated quotes accusing Bailey of driving up living costs, and promoted an AI-driven investment platform. Farage denied involvement. Reform UK has long criticised the Bank under Bailey, including its bond-sales programme and proposed stablecoin regulations."
+    },
+    {
+      "id": "4943725",
+      "time": "2026-06-18 21:55:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華為乾崑智駕ADS高階功能包優惠將收窄？知情人士：訊息屬實】近日，有訊息稱，自2026年7月1日起，華為乾崑智駕ADS高階功能包優惠或將收窄，疊加車企新車購車補貼權益等後一次性買斷價格或上漲3000元。記者從知情人士處瞭解到，該訊息屬實。一位鴻蒙智行銷售人員告訴記者：“目前來說，華為乾崑智駕ADS高階功能包優惠收窄的可能性很大，因為去年的ADS乾崑智慧駕駛系統3.2萬元價格的截止時間是今年的6月30日。”據官方定價體系，華為乾崑ADS高階功能包（含Max和Ultra）官方標準定價一直是3.6萬元，但官方長期透過限時優惠活動將價格降至3.2萬元，同時合作車企（如問界、阿維塔等）額外提供約2萬元的購車補貼權益等，兩項優惠疊加後，終端使用者到手價多為1.2萬元。根據最新的政策，從7月1日起，華為乾崑ADS Max和Ultra版本高階智駕功能包價格將恢復到3.5萬元，疊加車企購車補貼後，高階智駕功能包價格為1.5萬元，使用者較之前需多付3000元。有分析認為，本輪漲價根源在於全球晶片供需失衡，AI產業擴張推高儲存晶片需求，DRAM、NANDFlash價格大幅攀升，單儲存晶片漲價就讓單車智駕成本增加3000元至7000元。目前，也有一些汽車品牌上調智駕選裝包的價格。（每日經濟新聞）"
+    },
+    {
+      "id": "4943724",
+      "time": "2026-06-18 21:55:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長稱將對烏展開經常性大規模打擊】俄羅斯外交部長拉夫羅夫今天（6月18日）表示，由於烏克蘭對莫斯科發動大規模無人機襲擊，俄羅斯將對烏克蘭發動“經常性的大規模協同打擊”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4943723",
+      "time": "2026-06-18 21:55:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國北達科他州4月石油產量113.7155萬桶/日。"
+    },
+    {
+      "id": "4943722",
+      "time": "2026-06-18 21:55:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "非洲聯盟衛生機構：剛果（金）埃博拉死亡病例突破200例。"
+    },
+    {
+      "id": "4943721",
+      "time": "2026-06-18 21:54:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "古巴總統：受美國石油封鎖影響，古巴經濟危機持續加劇，亟需推行 “緊急改革”。"
+    },
+    {
+      "id": "te:markets:560121",
+      "time": "2026-06-18 21:54:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "BRL Weakens After BCB and Fed Rate Decisions — The Brazilian real traded near 5.15 per USD in June, weakening after the latest interest rate decisions by Brazil’s central bank and the US Federal Reserve. The Monetary Policy Committee cut the Selic rate by 0.25 percentage points to 14.25% per year, while leaving its next steps open and dependent on incoming data. In the US, the Federal Open Market Committee kept its benchmark rate unchanged at 3.50%-3.75%, but signaled a hawkish outlook. The move in the currency reflected a worsening outlook for the interest rate differential between Brazil and the US, a key factor for foreign investors. Lower expected rates in Brazil and higher-for-longer rates in the US reduce the appeal of Brazilian assets, supporting the dollar against the real. Meanwhile, oil prices fell after the signing of a US-Iran agreement aimed at ending the conflict and reopening the Strait of Hormuz, easing energy-driven inflation expectations."
+    },
+    {
+      "id": "4943720",
+      "time": "2026-06-18 21:52:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國加速佈局高光譜衛星】今年以來，我國商業航天繼續保持高密度發射節奏，本月已成功完成9次發射，將多型別載荷送入太空。當前，我國商業遙感衛星技術能力不斷迭代，光學、雷達、高光譜等多條技術路徑齊頭並進，星座組網規模持續擴大，一批關鍵技術全球領先。 6月15日，力箭一號遙十四運載火箭在東風商業航天創新試驗區發射升空，將“吉星”高分07C04星等8顆衛星順利送入預定軌道。這是最新一代的高解析度商業遙感衛星，搭載了高精度的光學遙感相機。發射後不到2小時，這批衛星就傳回了首批清晰影象。未來，這批衛星將常態化監測全國不可移動重點文物的本體以及周邊環境的逐期變化，把部分偏遠地區幾年一次的“人巡”升級為每天重訪多次的高頻“星巡”。 如果說光學衛星代表的是“清晰度的提升”，那麼合成孔徑雷達衛星，也就是SAR衛星則正在突破觀測能力的邊界。它透過主動發射微波並接收地面反射回的訊號，從而觀測地面，在夜晚和雲霧籠罩等場景也能看穿一切。今年3月，SAR衛星四維高景二號05、06星成功發射，具備優於1米的高解析度雷達影像獲取能力，讓對地觀測能力實現全時段、立體化、全場景適配。 在光學與SAR衛星之外，遙感能力正在向更高維度拓展——從“看到影象”向“識別資訊”升級。近年來國內正在加速佈局高光譜衛星，這個“東方慧眼”高光譜衛星即將在今年下半年發射2顆，它搭載的高光譜鏡頭可以捕捉到可見光以外的光譜資訊，根據光譜特徵實現對植被、土壤等資訊的精細分析。（央視財經）"
+    },
     {
       "id": "mkt:019edb00-52af-7dd8-b07f-c1b0ee9b1a09",
       "time": "2026-06-18 21:51:31",
@@ -131,6 +211,14 @@
         "國際"
       ],
       "text": "【波羅的海國際海事理事會：霍爾木茲海峽風險猶存 水雷依然存在】波羅的海國際海事理事會(BIMCO)在透過電子郵件釋出的一份宣告中表示，儘管美國與伊朗達成協議，允許船隻透過霍爾木茲海峽，航運仍面臨重大安全和安保風險。BIMCO首席安全與安保官Jakob Larsen表示，霍爾木茲海峽中部已佈雷，無法通航，而只有靠近阿曼和伊朗的沿岸通航區據報沒有水雷。Larsen說：“由於沿岸通航區存在擁堵和航行事故風險，我們目前仍認為船舶開始通行存在風險”。Larsen表示，這份諒解備忘錄也帶來了若干疑問，在交通分流措施和船舶安保程式等關鍵問題上沒有提供足夠資訊。"
+    },
+    {
+      "id": "4943711",
+      "time": "2026-06-18 21:49:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【透過霍爾木茲海峽的油輪和LNG運輸船增多】據外媒報道，國際航運資訊平臺的船舶追蹤資料顯示，已有三艘油輪和一艘液化天然氣（LNG）運輸船18日透過霍爾木茲海峽。不過，路透社援引伊朗國家電視臺的話報道，船舶通行霍爾木茲海峽仍需要與伊朗伊斯蘭革命衛隊海軍進行協調。 國際航運資訊平臺的船舶追蹤資料顯示，合計載有600萬桶原油的三艘懸掛沙特國旗的油輪18日透過霍爾木茲海峽。 路透社梳理航運動向分析稱，這批從沙特港口駛出的油輪，是近幾周透過霍爾木茲海峽規模最大的原油外運船隊。此前數週，途經該航道的船舶隱匿了航行軌跡。18日，多艘油輪的實時航線資訊已在公開船舶追蹤平臺上顯示。（新華社）"
     },
     {
       "id": "mkt:019edafd-7ee8-7dd8-b07f-9dd47d38d85d",
@@ -628,6 +716,15 @@
         "002594.SZ"
       ],
       "text": "BYD executive vice president Li Ke said the company plans to introduce its best-selling SUV to Europe by year-end."
+    },
+    {
+      "id": "4943681",
+      "time": "2026-06-18 21:35:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國郵輪運營商股價上漲，因油價跌至伊朗戰爭爆發以來最低水平。嘉年華郵輪、挪威郵輪、皇家加勒比郵輪股價上漲近3%。"
     },
     {
       "id": "4943680",
@@ -174454,124 +174551,6 @@
         "Importance 1"
       ],
       "text": "Lockheed Martin Stock Price Hits 7-week High — Lockheed Martin shares increased to 541.39 USD, the highest since April 2026. Over the past 4 weeks, Lockheed Martin gained 5.45%, and in the last 12 months, it increased 18.3%."
-    },
-    {
-      "id": "4930802",
-      "time": "2026-06-11 21:56:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "市場訊息：巴西總統盧拉將向最高法院提起訴訟，質疑參議院近期出臺的多項法案。"
-    },
-    {
-      "id": "mkt:019eb6f8-6368-7dd8-afc3-790e9407d6e2",
-      "time": "2026-06-11 21:56:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "KORU.N"
-      ],
-      "text": "U.S. equities opened higher and extended gains: Nasdaq 100 +1.5%, Dow +0.9%, S&P 500 +0.8%. Solar stocks jumped over 7%; 3x long Korea ETF KORU.N surged 17.4%."
-    },
-    {
-      "id": "4930801",
-      "time": "2026-06-11 21:55:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【專家：只要內塔尼亞胡在任，美伊談判註定搖搖欲墜】義大利都靈大學歷史教授卡梅爾指出，美伊談判的“房間裡的大象”始終未變：只要以色列總理內塔尼亞胡還在位，和平就難有進展。“至少在以色列10月大選前，內塔尼亞胡不會允許對伊戰爭結束。談判註定搖搖欲墜，類似局面每隔幾天或幾周就會重演，”他表示，“他需要這場戰爭來塑造自己‘戰時不可或缺的領導人’形象。”卡梅爾還稱，特朗普是“助長以色列右翼氣焰的關鍵推手。上週洩露的通話也好，其他事態也罷，很大程度上都是一場秀——意在展示特朗普對內塔尼亞胡還能說得上話。”"
-    },
-    {
-      "id": "4930800",
-      "time": "2026-06-11 21:55:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱不確定美國民眾是否支援奪取伊朗哈爾克島】美國總統特朗普表示，他不確定美國民眾是否有意願支援為奪取哈爾克島而展開大規模軍事行動。此前，特朗普曾談及升級針對伊朗的軍事行動。特朗普當天稍早時表示，奪取位於霍爾木茲海峽的重要石油樞紐哈爾克島一直是他的“首選方案”，但他同時表示：“我不知道美國人是否有這個意願，我認為他們更希望我們回家。”特朗普還稱，伊朗“非常希望達成協議”，而他本人“比三四周前更希望現在就達成協議”。伊朗方面對此言論尚無回應。美官員和軍事專家表示，實施此類地面軍事行動將面臨重大風險，包括可能造成大量美軍傷亡，因為行動需要投入地面部隊。哈爾克島是伊朗重要的經濟命脈，承擔著該國約90%的原油出口。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb6f6-fabd-7dd8-afc3-73973076d0d7",
-      "time": "2026-06-11 21:54:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Expert: US-Iran talks likely to falter while Netanyahu stays in power】An Italian historian said US-Iran negotiations are likely to repeatedly falter so long as Israeli prime minister Netanyahu remains in office. He said Netanyahu will not allow an end to the war at least before Israel’s October election, and predicted talks will break down every few days or weeks as Netanyahu seeks to cement an indispensable wartime-leader image. The academic added that Trump has been a key enabler of Israel’s right wing and that last week’s leaked call and related events were largely a show to signal Trump’s continued influence over Netanyahu."
-    },
-    {
-      "id": "4930799",
-      "time": "2026-06-11 21:54:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至1.5%。"
-    },
-    {
-      "id": "4930798",
-      "time": "2026-06-11 21:54:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數恢復漲勢，最新上漲1%。"
-    },
-    {
-      "id": "4930797",
-      "time": "2026-06-11 21:53:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大眾點評加大真實內容生態投入，加大AIGC評價治理力度】6月11日，大眾點評宣佈加大真實內容生態投入，據悉，平臺將為願意真誠分享、記錄生活的使用者提供更多激勵；並同時升級AIGC評價治理智慧體，更高效識別、剔除AI生成低質評價內容。大眾點評相關負責人表示，該計劃主要是在AI時代，運用新技術持續為使用者構建真誠互信的社群，並基於此為更多使用者提供真實、有幫助的決策資訊。"
-    },
-    {
-      "id": "4930796",
-      "time": "2026-06-11 21:53:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：德、法兩國政府敲定未來空中作戰系統（FCAS）重組方案。"
-    },
-    {
-      "id": "te:markets:558410",
-      "time": "2026-06-11 21:53:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Edges Up on Utilities Gains — The Ibovespa edged up to trade near the 169,000 mark on Thursday, supported by gains in the utilities and services sectors. Axia (+1.5%) completed the assignment of credits held against Amazonas Energia in a transaction valued at R$554.1 million, while Engie (+3%) approved a share offering linked to its planned acquisition of a stake in the Jirau hydroelectric plant and suspended guidance as the deal progresses. In the services sector, Rede D'Or gained more than 2.5% after data showed Brazil’s services activity expanded 1.2% in April. Meanwhile, US President Trump said Washington would strike Iran again and increased pressure on Tehran to reach a deal by threatening to take control of key energy infrastructure. Despite the renewed rhetoric, oil prices declined, pushing bond yields lower and easing concerns over energy-driven inflation. Major banks advanced, with Bradesco and Itaú both up 0.5%."
-    },
-    {
-      "id": "mkt:019eb6f5-97e2-7dd8-afc3-6d9014086b53",
-      "time": "2026-06-11 21:53:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish",
-        "ARM.O",
-        "AMD.O"
-      ],
-      "text": "Philadelphia Semiconductor Index rose more than 4 pct; Intel (INTC.O) up over 10 pct; Arm (ARM.O) up over 8 pct; AMD (AMD.O) up over 5 pct."
-    },
-    {
-      "id": "4930795",
-      "time": "2026-06-11 21:52:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲1.02%，現報25426.523點；道指漲0.78%，現報50306.961點；標普500指數漲0.69%，現報7316.890點。"
     }
   ]
 }
