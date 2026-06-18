@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19 03:17:04",
-  "count": 19041,
+  "updated": "2026-06-19 03:20:52",
+  "count": 19034,
   "items": [
     {
       "id": "4944261",
@@ -117,6 +117,18 @@
         "市場"
       ],
       "text": "紐約期銀日內跌7%，現報66.31美元/盎司。"
+    },
+    {
+      "id": "mkt:019edc2a-7e47-7dd8-b087-4f95d86060b0",
+      "time": "2026-06-19 03:00:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.19% at 23,846, trading 79 points below the cash index."
     },
     {
       "id": "4944253",
@@ -175197,83 +175209,6 @@
         "公司"
       ],
       "text": "黑石集團據稱正就收購加拿大地產公司H&R進行談判。"
-    },
-    {
-      "id": "4931179",
-      "time": "2026-06-12 03:20:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至3%。"
-    },
-    {
-      "id": "mkt:019eb81f-f099-7dd8-afc9-af8a68f86d54",
-      "time": "2026-06-12 03:19:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "S&P Global Ratings upgraded NVIDIA (NVDA.O) to AA and assigned a stable outlook."
-    },
-    {
-      "id": "4931178",
-      "time": "2026-06-12 03:19:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列《今日報》訊息：特朗普計劃與內塔尼亞胡通話，這是其與地區多國領導人系列會談的一環。"
-    },
-    {
-      "id": "mkt:019eb81f-de7d-7dd8-afc9-a41305ea5521",
-      "time": "2026-06-12 03:19:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump is expected to call Israeli Prime Minister Netanyahu as part of a series of calls with regional leaders."
-    },
-    {
-      "id": "4931177",
-      "time": "2026-06-12 03:17:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲3%，現報4196.45美元/盎司。"
-    },
-    {
-      "id": "4931176",
-      "time": "2026-06-12 03:17:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲2%，現報4216.50美元/盎司。"
-    },
-    {
-      "id": "4931175",
-      "time": "2026-06-12 03:17:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破67美元/盎司，日內漲3.49%。"
-    },
-    {
-      "id": "mkt:019eb81d-e6eb-7dd8-afc9-9f17a473d5b9",
-      "time": "2026-06-12 03:17:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rallied 3.00% intraday to $4,192.89/oz."
     }
   ]
 }
