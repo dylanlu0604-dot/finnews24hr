@@ -1,7 +1,125 @@
 {
-  "updated": "2026-06-18 14:36:00",
-  "count": 18875,
+  "updated": "2026-06-18 14:40:10",
+  "count": 18876,
   "items": [
+    {
+      "id": "mkt:019ed973-f1a3-7dd8-b06e-e3713add6899",
+      "time": "2026-06-18 14:38:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02628.HK",
+        "00688.HK"
+      ],
+      "text": "HSI and the Hang Seng Tech Index fell more than 2% in afternoon trade. China Life (02628.HK) dropped over 7%; China Overseas Development (00688.HK), China Resources Land (01109.HK) and Longfor Group (00960.HK) were off more than 6%; Xinyi Glass (00868.HK), Ping An Insurance (02318.HK) and Lenovo Group (00992.HK) declined over 5%."
+    },
+    {
+      "id": "4942623",
+      "time": "2026-06-18 14:38:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI中國指數較10月高點下跌20%，或將進入熊市。"
+    },
+    {
+      "id": "te:economy:559956",
+      "time": "2026-06-18 14:38:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Employment Change",
+        "Importance 0"
+      ],
+      "text": "UK Employment Rises Above Expectations — The number of employed people in the United Kingdom rose by 100 thousand to 34.410 million in the three months to April 2026, following a 148 thousand increase in the previous period and above forecasts of a 75 thousand gain. This was mainly driven by growth in full-time employment, while part-time work declined over the quarter. Compared with a year earlier, employment increased by 399 thousand, reflecting gains in both full-time and part-time workers, with the rise in full-time employment driven by employees and the increase in part-time work supported by self-employed workers. Despite this, the employment rate for those aged 16 to 64 remained unchanged at 75.0%, both over the quarter and compared with a year earlier, following a period of relative stability since mid-2024. Meanwhile, the number of people holding second jobs declined to 1.277 million, accounting for 3.7% of total employment."
+    },
+    {
+      "id": "4942622",
+      "time": "2026-06-18 14:38:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寒武紀成交額達300億元】6月18日下午，寒武紀成交額達300億元，現漲14.47%。"
+    },
+    {
+      "id": "4942621",
+      "time": "2026-06-18 14:37:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cosmo Energy執行長表示：根據新的中期業務規劃，我們將繼續擴大阿布扎比的原油產量。"
+    },
+    {
+      "id": "4942620",
+      "time": "2026-06-18 14:37:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時放量1947億元。"
+    },
+    {
+      "id": "4942619",
+      "time": "2026-06-18 14:37:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【菲律賓央行再次上調基準利率 以抑制伊朗戰爭引發的通脹】菲律賓央行連續第二次會議提高基準利率，儘管美伊達成臨時和平協議，但該行仍為應對可能持續的通脹做準備。菲律賓央行週四將目標逆回購利率上調0.25個百分點至4.75%，與接受調查的30位經濟學家中23位的預測一致。此前有7位經濟學家預計加息50個基點。儘管美國和伊朗同意重新開放對能源供應至關重要的霍爾木茲海峽，但亞洲各國央行持續收緊貨幣政策，凸顯了謹慎態度。日本央行週二上調政策利率，並承諾將進一步加息以抑制通脹風險。預計印尼央行將於週四跟進。"
+    },
+    {
+      "id": "4942618",
+      "time": "2026-06-18 14:36:51",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "市場訊息：Momenta計劃最早於本月在香港提交約8億美元的IPO申請。"
+    },
+    {
+      "id": "mkt:019ed972-2f06-7dd8-b06e-db08da8e3bfa",
+      "time": "2026-06-18 14:36:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Samsung Electronics, SK Hynix close at record highs】Samsung Electronics shares closed up 4.62% and SK Hynix closed up 6.51%; both recorded their highest-ever closing prices."
+    },
+    {
+      "id": "4942617",
+      "time": "2026-06-18 14:36:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超2%，現報23761.539點；恒生科技指數現跌2.009%。"
+    },
+    {
+      "id": "4942616",
+      "time": "2026-06-18 14:36:06",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "海力士（SK Hynix）股價收盤上漲6.51%，創歷史最高收盤紀錄。"
+    },
+    {
+      "id": "4942615",
+      "time": "2026-06-18 14:35:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：由沙特國家航運公司（Bahri）擁有的兩艘沙特油輪，目前出現在霍爾木茲海峽之外。"
+    },
     {
       "id": "mkt:019ed970-cf0e-7dd8-b06e-d3d5934e5ae2",
       "time": "2026-06-18 14:35:09",
@@ -173934,111 +174052,6 @@
         "Brent"
       ],
       "text": "Shipping intelligence firm KPLER said about 96 mln barrels of non-Iran crude have been exported via the Strait of Hormuz or the Gulf of Oman since early May; including cargoes still loading, total exports exceed 100 mln barrels, broadly consistent with Trump's claim that more than 100 mln barrels entered global markets in the period."
-    },
-    {
-      "id": "4929720",
-      "time": "2026-06-11 14:40:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪騰勢在成都成立新汽車銷售公司 註冊資本100萬】天眼查App顯示，近日，成都騰勢星元汽車銷售有限公司成立，法定代表人為李暄，註冊資本100萬人民幣，經營範圍包括汽車銷售、新能源汽車整車銷售、汽車零配件零售等，由騰勢汽車銷售服務有限公司全資持股。"
-    },
-    {
-      "id": "4929719",
-      "time": "2026-06-11 14:39:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞亞洲航空長途公司（AirAsia X）：受當前地緣政治不確定性及地區衝突影響，經停巴林的計劃航班服務已推遲。"
-    },
-    {
-      "id": "mkt:019eb567-ef9c-7dd8-afb5-9652a571cef9",
-      "time": "2026-06-11 14:39:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Polysilicon most-active futures contract's intraday gain widened to 8.00%, trading at 37,375 yuan/ton."
-    },
-    {
-      "id": "4929718",
-      "time": "2026-06-11 14:38:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內漲8%，現報37375.00元。"
-    },
-    {
-      "id": "4929717",
-      "time": "2026-06-11 14:38:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【滴滴App增加“送貨”“旅行”“車主”等入口】6月11日，滴滴App 8.0版本上線，根據使用者不同的使用場景，頂部導航欄全面改版，在使用者常用的“出行”基礎上，增加“送貨”“旅行”“車主”等入口，滴滴的多種好服務，正在“從即時出行到計劃出行”“從送人到送物”不斷拓展。"
-    },
-    {
-      "id": "4929716",
-      "time": "2026-06-11 14:38:28",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【三星電子蟬聯韓國最具價值品牌，SK海力士首次躋身前十】根據國際品牌諮詢公司Interbrand週四釋出的報告，三星電子蟬聯今年韓國最具價值品牌。其品牌價值估計為113.26萬億韓元（約741億美元），比上年下降7.4%。SK海力士今年首次躋身前十，從去年的第13位升至第9位，其品牌價值同比增長 34.8%，達到3.23萬億韓元。現代汽車位居第二，品牌價值30.75萬億韓元，同比增長10.1%。起亞汽車以10.68萬億韓元位列第三，緊隨其後的是LG電子（8.6萬億韓元）和入口網站巨頭Naver（8.24萬億韓元）。"
-    },
-    {
-      "id": "te:markets:558283",
-      "time": "2026-06-11 14:38:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Recover as Iran Strikes Conclude — US stock futures rebounded on Thursday, recovering from earlier losses after the US military announced it had completed its latest strikes on Iran, raising hopes that peace negotiations could resume. Earlier, US forces launched fresh attacks on Iran after President Trump accused Tehran of delaying talks over an interim peace agreement. In corporate news, Oracle shares tumbled more than 10% in extended trading after the company revealed plans to raise an additional $20 billion through equity and debt offerings to fund its artificial intelligence expansion. In regular trading on Wednesday, the Dow fell 1.87%, the S&P 500 lost 1.62%, and the Nasdaq Composite dropped 1.98%. Eight of the 11 S&P sectors ended lower, with industrials, materials, and technology stocks leading the declines. Tech and semiconductor shares also remained under pressure amid persistent concerns about elevated AI-related valuations and growing investor caution ahead of SpaceX's highly anticipated IPO on Friday."
-    },
-    {
-      "id": "4929715",
-      "time": "2026-06-11 14:37:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美元走勢平穩，投資者權衡地緣政治緊張局勢和通脹資料】在6月17日美聯儲政策決定公佈前，投資者考慮中東衝突的最新事態發展和週三的美國通脹資料，美元走勢平穩。在美國總統特朗普表示伊朗“把我們當傻瓜耍“之後，美國週三對伊朗發動了新的打擊。然而，美國中央司令部在X平臺上表示，商船正繼續透過霍爾木茲海峽。5月份整體同比通脹率如預期升至4.2%，但市場關注的是核心通脹率環比回落至0.2%，降幅超出預期。Evercore ISI分析師在一份報告中表示，這“為美聯儲贏得了一些喘息空間“。DXY美元指數企穩於99.993。"
-    },
-    {
-      "id": "4929714",
-      "time": "2026-06-11 14:37:14",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通在新加坡的私人銀行家人資料悉翻番 超過50人】摩根大通已將駐新加坡、股務富裕客戶的銀行家人數增加了一倍，表明該銀行積極要從這個亞洲金融重鎮搶佔更多業務。根據知情人士透露，這家華爾街銀行負責東南亞及澳洲市場的客戶關係經理人數已增至50多人，大約是去年初人數的兩倍。這些知情人士表示，多數招聘是針對印尼市場，員工人數從去年的不到10人增加到約20人。"
-    },
-    {
-      "id": "4929713",
-      "time": "2026-06-11 14:36:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞馬遜海外購年度級夏日大促“海折節”將於6月下旬迴歸】6月10日，亞馬遜海外購宣佈，其年度級夏日大促“海折節”將於6月23日至27日迴歸，相關快閃店將於6月10日至11日亮相成都寬窄巷子。據介紹，今年“海折節”將有超過3萬個品牌、200萬件商品參與大促，並有百萬全球新品同步上線。"
-    },
-    {
-      "id": "te:markets:558282",
-      "time": "2026-06-11 14:36:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Pares Early Drop — The ASX 200 edged down 20 points, or 0.2%, to close at 8,633 on Thursday, reversing gains in the prior session as weakness in consumer durables, logistics, and financials weighed on sentiment. Also, concerns over Australia’s slowing economy grew after Westpac reported home loan applications averaged 30,000 per month in the fiscal third quarter starting April, down from 33,000 in the prior quarter, underscoring the impact of global instability and domestic tax changes. Still, early weakness was trimmed amid stronger U.S. stock futures, following Washington’s announcement that strikes against Iran had concluded. Traders also looked to next week’s RBA meeting, hoping for a pause after three rate hikes this year. Meanwhile, consumer inflation expectations fell to 5.5% in June, the lowest since March. The four major banks dropped between 1.1% and 2.1%, while notable laggards included Sigma Healthcare (-2.9%), Goodman Group (-2.8%), South32 (-2.3%), and Northern Star Resources (-1.2%)."
     }
   ]
 }
