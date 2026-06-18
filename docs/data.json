@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-18 09:12:37",
-  "count": 18759,
+  "updated": "2026-06-18 09:16:44",
+  "count": 18754,
   "items": [
+    {
+      "id": "4942154",
+      "time": "2026-06-18 09:15:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8130，較上日調低34點】人民幣兌美元中間價報6.8130，較上日調低34點。"
+    },
+    {
+      "id": "4942153",
+      "time": "2026-06-18 09:15:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8130元。"
+    },
+    {
+      "id": "mkt:019ed84c-2721-7dd8-b067-98e2a959f237",
+      "time": "2026-06-18 09:15:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.14% at 24,228, trading 82 points below the cash index."
+    },
+    {
+      "id": "4942152",
+      "time": "2026-06-18 09:15:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷曼光電：公司的MIP技術不能應用於半導體晶片封裝】雷曼光電6月18日在互動平臺表示，公司的MIP（Micro LED-in-Package）技術主要應用於LED顯示面板的封裝，不屬於晶圓級整合技術，不能應用於半導體晶片封裝。"
+    },
+    {
+      "id": "4942151",
+      "time": "2026-06-18 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.17%，報24221.70點，低水90.46點。"
+    },
+    {
+      "id": "4942150",
+      "time": "2026-06-18 09:14:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北釋出暴雨橙色預警 多地將有大暴雨】湖北省氣象臺2026年6月18日8時41分發布暴雨橙色省級預警：目前恩施、宜昌西部已出現大雨到暴雨，預計今天下午到夜間全省雨勢將逐漸加強，恩施、宜昌仍有大雨到暴雨，荊州、荊門、隨州、孝感、天門、潛江、仙桃、武漢西部、黃岡北部等地傍晚轉大雨到暴雨，其中荊州、荊門、孝感、天門、潛江局地有大暴雨，請注意防範。"
+    },
+    {
+      "id": "4942149",
+      "time": "2026-06-18 09:13:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潮州三環(集團)股份有限公司透過港交所上市聆訊】據港交所披露，潮州三環(集團)股份有限公司透過港交所上市聆訊，獨家保薦人為中國銀河國際。"
+    },
+    {
+      "id": "mkt:019ed84a-4f09-7dd8-b067-930b21ecb545",
+      "time": "2026-06-18 09:13:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CDB says it has disbursed 213.3 bln yuan for tech renovation and equipment upgrades】China Development Bank has disbursed 213.3 bln yuan in technology renovation and equipment-upgrade loans as of end-May, targeting industrial, energy/power, transport and logistics sectors. The lending covered 366 firms and 507 projects; roughly 70% funded traditional-sector upgrades toward smart, green, higher-end and integrated transformation. CDB said it leveraged long-term funding and coordinated ministry project lists to prioritise large-scale equipment renewal."
+    },
+    {
+      "id": "4942148",
+      "time": "2026-06-18 09:12:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國開行：已累計發放技術改造和裝置更新貸款2133億元】記者今天（18日）從國家開發銀行瞭解到，我國“兩新”政策實施兩年多來，國開行充分發揮中長期投融資優勢，圍繞支援大規模裝置更新，對接有關部委推送的專案清單，主動上門做好金融服務。截至今年5月底，國開行已累計向工業、能源電力、交通運輸、物流等領域發放技術改造和裝置更新貸款2133億元，支援企業366家、專案507個。其中，近七成投向傳統產業智慧化、綠色化、高階化、融合化改造升級領域。"
+    },
+    {
+      "id": "4942147",
+      "time": "2026-06-18 09:12:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海新能科：公司核心主業生物能源（SAF、HVO）已實現盈利且趨勢持續向好】海新能科6月18日在互動平臺表示，公司核心主業生物能源（SAF、HVO）已實現盈利且趨勢持續向好，行業景氣度延續，目前在手訂單飽滿。公司正加快推進四川鑫達等低效資產處置，聚焦生物能源主業。"
+    },
     {
       "id": "4942146",
       "time": "2026-06-18 09:11:25",
@@ -172712,142 +172798,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4120美元/盎司，日內跌0.32%。"
-    },
-    {
-      "id": "4929283",
-      "time": "2026-06-11 09:16:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4090美元/盎司，日內漲0.49%。"
-    },
-    {
-      "id": "mkt:019eb43f-fce1-7dd8-afb0-8b8b46b01e01",
-      "time": "2026-06-11 09:15:52",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact mixed"
-      ],
-      "text": "Hang Seng Index futures opened the day session up 0.50% at 24,399, trading 9 points below the cash index."
-    },
-    {
-      "id": "4929282",
-      "time": "2026-06-11 09:15:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價逆轉跌勢，上漲5%。"
-    },
-    {
-      "id": "te:economy:558203",
-      "time": "2026-06-11 09:15:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Inflation Expectations",
-        "Importance 2"
-      ],
-      "text": "Australia Inflation Expectations Hit Lowest Since March — Australia’s consumer inflation expectations eased to 5.5% in June from 5.6% in the previous month, marking the lowest reading since March and suggesting households are slightly less concerned about future price pressures. The decline comes as the Reserve Bank of Australia’s recent policy tightening filters through the economy. Governor Michele Bullock said the three rate hikes delivered since the start of the year have helped curb domestic inflation and limit second-round effects from higher oil and commodity prices. Policymakers have reiterated their commitment to returning inflation to the target corridor of between 2% and 3%, noting price pressures accelerated in late 2025 and remain elevated. Official data showed annual inflation slowed to 4.2% in April from 4.6% in March, though still above the RBA’s 2–3% range. Underlying inflation stayed sticky, with the trimmed mean CPI rising 3.4% yoy, the highest since September 2024."
-    },
-    {
-      "id": "4929281",
-      "time": "2026-06-11 09:15:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報64.03美元/盎司。"
-    },
-    {
-      "id": "4929280",
-      "time": "2026-06-11 09:15:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8150，較上日調低20點】人民幣兌美元中間價報6.8150，較上日調低20點。"
-    },
-    {
-      "id": "mkt:019eb43f-a0f0-7dd8-afb0-80aea6a57a7c",
-      "time": "2026-06-11 09:15:29",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix shares reversed earlier losses and are up 5%."
-    },
-    {
-      "id": "4929279",
-      "time": "2026-06-11 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.37%，報24368.16點，低水39.80點。"
-    },
-    {
-      "id": "4929278",
-      "time": "2026-06-11 09:14:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日經225指數收復稍早失地，轉為微跌0.1％，此前一度跌超2％。"
-    },
-    {
-      "id": "4929277",
-      "time": "2026-06-11 09:14:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內漲4%，現報297.50元。"
-    },
-    {
-      "id": "mkt:019eb43e-26d8-7dd8-afb0-7dae8240a40b",
-      "time": "2026-06-11 09:13:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium's intraday gain widened to 2.00%, trading at $1,237.92/oz."
-    },
-    {
-      "id": "mkt:019eb43e-1782-7dd8-afb0-7402d3d02f90",
-      "time": "2026-06-11 09:13:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "005930.KS"
-      ],
-      "text": "YONHAP reports Altman, founder of OpenAI, will visit Samsung Electronics to discuss AI applications."
-    },
-    {
-      "id": "4929276",
-      "time": "2026-06-11 09:13:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨收復早盤失地，上漲0.3%，納斯達克指數期貨上漲0.5%。"
-    },
-    {
-      "id": "4929275",
-      "time": "2026-06-11 09:12:55",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國5月退還近220億美元關稅，基本抵消當月關稅收入】美國財政部當地時間6月10日釋出資料顯示，美國在5月向進口商退還了近220億美元的關稅收入。這是自最高法院推翻特朗普的大部分關稅措施以來，美國政府進行的首批此類退款。資料顯示，從本財年的前8個月來看，整體財政赤字收窄至1.25萬億美元，較去年同期下降9%。與此同時，關稅收入在去年10月達到峰值。財政部宣告顯示，5月的關稅退款金額與當月的徵收額大致相當，這意味著兩者基本相互抵消。"
-    },
-    {
-      "id": "4929274",
-      "time": "2026-06-11 09:12:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邁普醫學：公司在巴西的業務正常開展】有投資者向邁普醫學提問，據媒體2021年1月披露，巴西聯邦總檢察署曾於2020年1月對公司提起訴訟，指控在2018年巴西ANVISA現場檢查中存在不當行為。請問：1. 該訴訟目前是否已結案？最終結果是什麼？2. 公司為何未在招股書及上市後的年報中進行披露？對此，邁普醫學6月11日在互動平臺表示，公司未曾收到與此相關的訴訟文書，不存在應披露未披露的事項。目前，公司在巴西的業務正常開展。"
     }
   ]
 }
