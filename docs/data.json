@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-18 13:51:06",
-  "count": 18834,
+  "updated": "2026-06-18 13:55:09",
+  "count": 18839,
   "items": [
+    {
+      "id": "4942546",
+      "time": "2026-06-18 13:54:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思表示，美國將在公開和私下場合坦誠地談論北約問題。"
+    },
+    {
+      "id": "4942545",
+      "time": "2026-06-18 13:53:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思稱，北約需迴歸真正強硬的軍事聯盟本色。"
+    },
+    {
+      "id": "4942544",
+      "time": "2026-06-18 13:53:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國智慧產品質量安全風險控制知識庫建設取得突破】記者瞭解到，近期，針對智慧產品安全風險錯綜複雜、行業一直缺少專業完整安全資料庫的難題，市場監管總局集結國內優秀的科研團隊開展技術攻堅，在智慧產品質量安全風險資料庫的搭建上，取得了關鍵性重大技術突破。科研團隊結合智慧產品的網路資料特性和智慧執行邏輯，獨創出一套全新的安全分析方式，從使用的人、產品本身、使用環境、網路資訊四個維度，全方位排查、研判智慧產品的質量安全隱患。同時搭建了層級清晰、可以後續不斷升級完善的產品安全標準模型，彌補了傳統檢測方式的不足。目前，這項全新的科研成果已經落地試點使用，能幫助生產企業更快發現產品隱藏的安全問題，大幅提升風險識別和應急處理的效率，讓我們日常使用的各類智慧產品更安全、更靠譜。（央視新聞）"
+    },
+    {
+      "id": "4942543",
+      "time": "2026-06-18 13:52:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "法國財政部長稱將實現2026年赤字目標。"
+    },
+    {
+      "id": "4942542",
+      "time": "2026-06-18 13:51:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商蛇口在深圳成立住房租賃公司】企查查APP顯示，近日，深圳市山前住房租賃有限公司成立，法定代表人為羅雯，經營範圍包含：住房租賃；非居住房地產租賃；企業管理諮詢；創業空間服務；餐飲管理；諮詢策劃服務等。企查查股權穿透顯示，該公司由招商蛇口旗下深圳市招商公寓發展有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019ed948-f093-7dd8-b06d-584f881fc4d9",
+      "time": "2026-06-18 13:51:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 40-year government bond yield rose 3.5 bps to 3.660%."
+    },
+    {
+      "id": "4942541",
+      "time": "2026-06-18 13:51:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率上升3.5個基點至3.660%。"
+    },
+    {
+      "id": "4942540",
+      "time": "2026-06-18 13:51:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國防長：我們可以迅速補充許多作戰能力，但像縱深精確打擊這類能力則無法快速補充。"
+    },
+    {
+      "id": "4942539",
+      "time": "2026-06-18 13:51:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度SENSEX指數最新下跌0.25%"
+    },
+    {
+      "id": "em:qqyh_mlc:202606183776017392",
+      "time": "2026-06-18 13:51:01",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "巴克萊預計美聯儲2027年維持利率不變，此前預測為3月降息25個基點。"
+    },
+    {
+      "id": "4942538",
+      "time": "2026-06-18 13:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀行板塊持續調整 廈門銀行跌超7%】午後銀行板塊持續調整，廈門銀行跌超7%，齊魯銀行、青島銀行、渝農商行、蘇農銀行、西安銀行均跌超3%。"
+    },
+    {
+      "id": "mkt:019ed948-0c39-7dd8-b06d-522b83217c46",
+      "time": "2026-06-18 13:50:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Barclays now expects the Fed to keep rates unchanged in 2027; it had previously forecast a 25bp cut in March."
+    },
     {
       "id": "4942537",
       "time": "2026-06-18 13:50:07",
@@ -173544,71 +173652,6 @@
         "Importance 1"
       ],
       "text": "Zinc Falls to 1-Month Low — Zinc futures fell toward $3,450 per tonne, the lowest in a month, as investors grew concerned about the demand outlook amid escalating tensions in the Middle East and expectations of tighter US monetary policy. The latest strikes between the US and Iran risk prolonging the conflict and stoking inflation, which could weigh on global growth and industrial metals demand. Still, losses were limited by tightening supply conditions. Glencore’s Kazzinc facility in Kazakhstan are running at reduced capacity after a fatal explosion, while Nexa’s Cajamarquilla smelter in Peru was temporarily suspended due to fire-related damage, though it recently announced a gradual resumption of production. These disruptions have reinforced concerns about global zinc availability, especially as the International Lead and Zinc Study Group projected a refined zinc deficit of 19,000 tonnes this year. Meanwhile, Boliden’s Garpenberg mine is set to resume production in Q2, helping to ease some supply pressures."
-    },
-    {
-      "id": "mkt:019eb53e-cc5c-7dd8-afb4-f03dfe99436d",
-      "time": "2026-06-11 13:54:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Israel Defense Forces said alerts sounded in the Misgav Am area on reports of enemy aircraft infiltration; details are under review."
-    },
-    {
-      "id": "mkt:019eb53e-4117-7dd8-afb4-ed3b9556408b",
-      "time": "2026-06-11 13:53:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA said it had been informed that, local time last night, the ZAPORIZHZHIA NUCLEAR PLANT lost all external power after an attack on its electrical substation."
-    },
-    {
-      "id": "4929647",
-      "time": "2026-06-11 13:53:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構：獲悉，扎波羅熱核電站昨晚在當地時間前後因變電站遭到襲擊而失去所有外部電力供應。"
-    },
-    {
-      "id": "4929646",
-      "time": "2026-06-11 13:53:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度NIFTY 50指數抹去了盤中跌幅，最新上漲0.02%。"
-    },
-    {
-      "id": "4929645",
-      "time": "2026-06-11 13:52:11",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【“2026·全球人權治理高階論壇”在京舉辦 李書磊出席開幕式並發表主旨演講2】“2026·全球人權治理高階論壇”11日在北京舉辦。中共中央政治局委員、中宣部部長李書磊出席開幕式並發表主旨演講。本次論壇以“攜手發展 共享人權：《發展權利宣言》透過40週年與全球人權治理新願景”為主題，由國務院新聞辦公室、外交部共同主辦，來自一百多個國家和包括聯合國機構在內的國際組織的400餘位中外嘉賓參會研討。（央視新聞）"
-    },
-    {
-      "id": "4929644",
-      "time": "2026-06-11 13:51:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1153億元。"
-    },
-    {
-      "id": "4929643",
-      "time": "2026-06-11 13:51:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【先進封裝板塊短線拉昇】先進封裝板塊短線拉昇，博敏電子、太極實業、興福電子漲停， 方邦股份、光智科技、甬矽電子漲超10%，氣派科技、江化微、科翔股份、蘇試試驗、拓荊科技等跟漲。"
     }
   ]
 }
