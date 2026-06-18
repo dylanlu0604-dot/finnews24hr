@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-19 02:21:36",
-  "count": 19051,
+  "updated": "2026-06-19 02:25:29",
+  "count": 19048,
   "items": [
+    {
+      "id": "4944222",
+      "time": "2026-06-19 02:24:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱預計“所有戰線都將實現全面停火”】當地時間6月18日，美國總統特朗普在社交平臺發文表示，美國致力於和平，並呼籲中東地區各方繼續履行承諾，確保當前談判“順利推進”。他表示，美方預計“所有戰線都將實現全面停火”，其中包括黎巴嫩、黎真主黨以及以色列方面。（央視新聞）"
+    },
+    {
+      "id": "mkt:019edbf8-4fcd-7dd8-b086-a66e3439f244",
+      "time": "2026-06-19 02:22:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC pledges closer White House cooperation to address 'Mythos' and 'Fable' security concerns】ANTHROPIC told Commerce Secretary Lutnick in a proposal it will work more closely with the White House and address the security flaws that prompted restrictions on its powerful 'Mythos' and 'Fable' models, the Washington Post reported. Insiders said ANTHROPIC has pledged to improve communications with the Trump administration and to move faster to remediate any safety issues; negotiations are progressing smoothly but no timetable has been set. Talks are being led by co‑founder and chief computing officer Tom Brown and head of public policy Sarah Heck. ANTHROPIC and Commerce Department representatives did not respond to requests for comment."
+    },
     {
       "id": "te:markets:560168",
       "time": "2026-06-19 02:20:08",
@@ -175343,51 +175361,6 @@
         "Impact bullish"
       ],
       "text": "Virgin Galactic (SPCE.N) rose 21% ahead of SpaceX's IPO."
-    },
-    {
-      "id": "te:markets:558451",
-      "time": "2026-06-12 02:25:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Gains by 2.72% — Top commodity gainers are Coffee (2.72%) and Cotton (1.31%). Biggest losers are Corn (-1.89%), Rubber (-1.46%) and Rice (-1.17%)."
-    },
-    {
-      "id": "mkt:019eb7ee-29e1-7dd8-afc8-b98c97899995",
-      "time": "2026-06-12 02:24:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fars News Agency, citing informed sources, reported Iran has not reached agreement on any documents to sign a memorandum of understanding with the United States."
-    },
-    {
-      "id": "4931133",
-      "time": "2026-06-12 02:23:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：知情人士表示，伊朗尚未批准任何與美國的協議文字。"
-    },
-    {
-      "id": "4931132",
-      "time": "2026-06-12 02:23:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨參議員格雷厄姆：我希望我們確實已經透過外交途徑找到了解決伊朗衝突的方案，而且該方案能夠滿足特朗普總統劃定的紅線，並且與《聯合全面行動計劃》（JCPOA）存在根本性區別。和過去一樣，任何與伊朗核計劃相關並最終達成的協議，都將提交國會審議並批准。我期待這一程式的展開。"
-    },
-    {
-      "id": "mkt:019eb7ec-aa13-7dd8-afc8-b640ba877374",
-      "time": "2026-06-12 02:23:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Republican Senator Lindsey Graham said he hopes a diplomatic solution has been found to the Iran conflict that meets President Trump's red lines and is fundamentally different from the JCPOA. He said any agreement on Iran's nuclear program would be submitted to Congress for review and approval, and he expects that process to proceed."
     }
   ]
 }
