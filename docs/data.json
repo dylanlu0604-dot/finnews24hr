@@ -1,7 +1,236 @@
 {
-  "updated": "2026-06-18 13:59:18",
-  "count": 18839,
+  "updated": "2026-06-18 14:03:19",
+  "count": 18850,
   "items": [
+    {
+      "id": "mkt:019ed951-cf23-7dd8-b06d-ef6fdcecfb93",
+      "time": "2026-06-18 14:01:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Ministry of Water Resources launches Level-IV flood-defense emergency response】At 12:00 on June 18 China's Ministry of Water Resources activated a Level‑IV flood‑defense emergency response for Anhui, Jiangxi, Hubei, Hunan and Guizhou. Local water departments and basin management agencies were ordered to closely monitor weather, strengthen rainfall and river monitoring, forecasting and joint assessment, maintain emergency duty, and carry out reservoir operations, small‑/medium‑river flood defenses and mountain‑flash‑flood prevention. The ministry issued targeted \"one‑province‑one‑list\" warnings detailing affected counties, reservoirs and mountain‑flood risk points, and dispatched three working teams to Guizhou, Hubei and Hunan to assist frontline flood-control efforts."
+    },
+    {
+      "id": "4942558",
+      "time": "2026-06-18 14:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國資料公佈後，英鎊兌美元維持漲勢，上漲0.1%至1.3307。"
+    },
+    {
+      "id": "mkt:019ed951-740a-7dd8-b06d-e569111d8014",
+      "time": "2026-06-18 14:00:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK unemployment rate 4.46% in May, prior 4.40%."
+    },
+    {
+      "id": "mkt:019ed951-5c3c-7dd8-b06d-de515f413cd8",
+      "time": "2026-06-18 14:00:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Unemployment Rate (May) | actual 4.46% | previous 4.40%"
+    },
+    {
+      "id": "mkt:019ed951-553b-7dd8-b06d-d7d409b0d8c9",
+      "time": "2026-06-18 14:00:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Switzerland May trade balance CHF 5.638 bln; prior CHF 3.098 bln."
+    },
+    {
+      "id": "mkt:019ed951-39ea-7dd8-b06d-cce8c696c678",
+      "time": "2026-06-18 14:00:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Trade Balance (May) | actual 5638000000B | previous 3098000000B"
+    },
+    {
+      "id": "4942557",
+      "time": "2026-06-18 14:00:19",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國4月三個月剔除紅利的平均工資年率 3.4%，預期3.2%，前值3.40%。英國4月三個月包括紅利的平均工資年率 4.4%，預期4%，前值由4.10%修正為4.4%。"
+    },
+    {
+      "id": "mkt:019ed950-def5-7dd8-b06d-c22ca7fc3e73",
+      "time": "2026-06-18 14:00:16",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK three-month ILO employment (to April) rose 100,000, versus consensus 75,000; prior +148,000."
+    },
+    {
+      "id": "mkt:019ed950-d63a-7dd8-b06d-b9ce52a3d44c",
+      "time": "2026-06-18 14:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK average weekly earnings ex-bonus, 3-month YoY (Apr) 3.4% vs 3.2% expected; prior 3.4%."
+    },
+    {
+      "id": "mkt:019ed950-d1bd-7dd8-b06d-b18aead64b4a",
+      "time": "2026-06-18 14:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "UK May initial jobless benefit claims 31,200, prior revised from 26,500 to 8,300."
+    },
+    {
+      "id": "mkt:019ed950-d0c2-7dd8-b06d-ae5a55673e02",
+      "time": "2026-06-18 14:00:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK average weekly earnings including bonuses, three months to April: +4.4% YoY vs 4.0% expected; prior 4.10% revised to 4.4%."
+    },
+    {
+      "id": "4942556",
+      "time": "2026-06-18 14:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國5月失業金申請人數 3.12萬人，前值由2.65萬人修正為0.83萬人。"
+    },
+    {
+      "id": "mkt:019ed950-cffc-7dd8-b06d-a32cfecedb65",
+      "time": "2026-06-18 14:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK three-month ILO unemployment rate (April) 4.9% vs 5.0% expected, 5.0% prior."
+    },
+    {
+      "id": "4942555",
+      "time": "2026-06-18 14:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國4月三個月ILO失業率 4.9%，預期5%，前值5.00%。"
+    },
+    {
+      "id": "mkt:019ed950-ac8b-7dd8-b06d-9eff24f9fc84",
+      "time": "2026-06-18 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | ILO Unemployment Rate 3M (Apr) | actual 100000K | consensus 75000K | previous 148000K"
+    },
+    {
+      "id": "mkt:019ed950-aa95-7dd8-b06d-93bd43344cb5",
+      "time": "2026-06-18 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Average Earnings Excluding Bonus in 3 Months (YoY) (Apr) | actual 3.4% | consensus 3.2% | previous 3.40%"
+    },
+    {
+      "id": "mkt:019ed950-a90d-7dd8-b06d-8effdc0d499d",
+      "time": "2026-06-18 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Average Earnings Including Bonus in 3 Months (YoY) (Apr) | actual 4.4% | consensus 4% | previous 4.10%"
+    },
+    {
+      "id": "mkt:019ed950-a767-7dd8-b06d-8740c960b4bc",
+      "time": "2026-06-18 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | ILO Unemployment Rate 3M/3M (Apr) | actual 4.9% | consensus 5% | previous 5.00%"
+    },
+    {
+      "id": "mkt:019ed950-a348-7dd8-b06d-7c9783c613cd",
+      "time": "2026-06-18 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Jobless Claims Count (May) | actual 31200K | previous 26500K"
+    },
+    {
+      "id": "4942554",
+      "time": "2026-06-18 13:59:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“上海—蘇黎世”直飛航線開通 搭建中歐互聯新通道】6月18日1時55分，東航MU255航班從上海浦東國際機場起飛，首航飛赴瑞士蘇黎世。據悉，東航“上海—蘇黎世”航線每週二、四、日執飛。去程航班MU255計劃於北京時間01:55從上海浦東國際機場起飛，當地時間07:55抵達蘇黎世國際機場；回程航班MU256於當地時間14:05起飛，北京時間次日06:40抵達上海。"
+    },
+    {
+      "id": "4942553",
+      "time": "2026-06-18 13:59:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士海關資料顯示：5月貿易順差為61.1億瑞郎。"
+    },
+    {
+      "id": "4942552",
+      "time": "2026-06-18 13:59:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【KKR對Altavair的飛機租賃業務承諾投資14億美元】6月18日，私募股權公司KKR發表宣告稱，將承諾投入14億美元股權資金，繼續與Altavair合作擴大其全球商用飛機租賃投資組合。KKR表示，這項最新承諾建立在先前與Altavair合作設立的兩個飛機租賃組合基礎之上。此次投資主要來自KKR的基礎設施和資產抵押融資策略。"
+    },
+    {
+      "id": "4942551",
+      "time": "2026-06-18 13:58:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026端午檔新片預售票房破5000萬】據燈塔專業版，2026年端午檔新片預售總票房突破5000萬，《我看見兩朵一樣的雲》《玩具總動員5》《愛是憤怒》暫列前三。"
+    },
     {
       "id": "4942550",
       "time": "2026-06-18 13:57:32",
@@ -173541,114 +173770,6 @@
         "美國"
       ],
       "text": "【美國通脹高企 特朗普稱“我愛通脹”遭批】美國5月通貨膨脹水平創3年來新高，民眾生活成本壓力增大。美國總統特朗普10日卻表示“我愛通脹”。這一言論隨即在美國引發批評，也令共和黨人擔憂可能拖累該黨今年國會中期選舉選情。"
-    },
-    {
-      "id": "4929658",
-      "time": "2026-06-11 14:02:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元斯托克50股指期貨<STXEc1>下跌0.43%，德國DAX股指期貨<FDXc1>下跌0.28%，富時股指期貨<FFIc1>下跌0.37%。"
-    },
-    {
-      "id": "4929657",
-      "time": "2026-06-11 14:02:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國競爭與市場管理局（CMA）：調查啟動階段，尚未就瑞安航空是否違法得出任何結論。"
-    },
-    {
-      "id": "4929656",
-      "time": "2026-06-11 14:01:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超威電源集團、佳力奇等成立新動能創投合夥企業】企查查APP顯示，近日，宿州市高新區新動能創業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由超威電源集團有限公司全資子公司超威控股集團有限公司、佳力奇等共同出資。"
-    },
-    {
-      "id": "mkt:019eb545-679e-7dd8-afb5-1d9934c3f830",
-      "time": "2026-06-11 14:01:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huafu Technology launches Token factory solution】Huafu Technology, a unit of Huafu Fashion, launched a standardized Token generation service on its Huafu MaaS platform, marking a move from traditional compute services to Token production and delivery. The Token factory concept stems from operations at the Shangyu AIGC compute center; as of May 2026 the phase-one 800P cluster is in stable operation with compute utilization above 98%. By optimizing energy use, heterogeneous compute scheduling and large-model inference efficiency, Huafu reported it has cut per-Token production costs by more than 30% and established scalable Token production capacity."
-    },
-    {
-      "id": "4929655",
-      "time": "2026-06-11 14:00:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華孚科技推出Token工廠解決方案】華孚時尚旗下華孚科技基於華孚MaaS平臺推出標準化Token生成服務。此次Token工廠解決方案發布，標誌著華孚科技從傳統算力服務向Token生產與交付服務邁進。華孚科技Token工廠理念源於上虞智算中心的長期運營實踐。截至2026年5月，上虞AIGC智算中心一期800P算力叢集已實現穩定運營，算力資源利用率超過98%。透過持續最佳化能源利用、異構算力排程及大模型推理效率，華孚科技已將單位Token生產成本降低30%以上，形成規模化Token生產能力。"
-    },
-    {
-      "id": "mkt:019eb544-d066-7dd8-afb5-15d5c806f42c",
-      "time": "2026-06-11 14:00:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China advances integrated space‑air‑ground carbon monitoring technology】The State Administration for Market Regulation mobilized domestic science and tech teams to tackle long-standing reliance on foreign equipment and methods for space-, airborne- and ground-based greenhouse gas monitoring that constrained autonomous, precise quality control of carbon emissions data at national, regional and sector levels. It announced breakthroughs in high‑resolution domestic satellite CO2 and CH4 column-concentration measurement and emission‑inversion core technologies, and said it has broken foreign technical monopolies in mid‑scale CO2 flux detection using lidar with concurrent wind‑field measurement."
-    },
-    {
-      "id": "te:markets:558271",
-      "time": "2026-06-11 14:00:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Lower Open — European equity markets were on track for a weaker open on Thursday as investors remained cautious ahead of the European Central Bank’s policy decision. The ECB is widely expected to raise its benchmark interest rate by 25 basis points to 2.25% as policymakers seek to contain inflationary pressures fueled by soaring energy costs linked to the Middle East conflict. If delivered, it would mark the central bank’s first rate increase since September 2023. Meanwhile, the US and Iran exchanged attacks this week in a major breach of their ceasefire, although the US military said it has completed its latest strikes on Iran, raising hopes that peace negotiations could resume. In premarket trading, both Euro Stoxx 50 and Stoxx 600 futures were down about 0.5%."
-    },
-    {
-      "id": "4929654",
-      "time": "2026-06-11 14:00:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國星空地一體化碳監測關鍵技術取得重大進展】針對我國溫室氣體監測與計量領域中，星基、空基、地基主流監測裝置及核心方法長期依賴國外技術，致使國家、區域及行業層面碳排放監測資料難以實現自主、精準的質量控制這一關鍵問題，市場監管總局組織國內優勢科技力量，開展星空地一體化溫室氣體濃度監測、排放反演演算法及監測裝備等關鍵技術攻關，成功突破高解析度國產衛星CO2、CH4柱濃度與排放反演核心技術，打破了國外在中尺度CO2通量探測鐳射雷達濃度與風場同步探測領域的技術壟斷。研究團隊成功研發中尺度鐳射雷達監測設施、現場測量與計量物聯網裝置，以及區域和行業領域溫室氣體排放清單反演與校驗演算法，相關產品可以用於國家、省市、工業、能源、交通、居民等溫室氣體排放的高精度、快速化監測與計量。研究團隊牽頭起草《大氣成分觀測規範 溫室氣體》等2項氣象行業技術標準和《平板玻璃生產企業碳排放核算資料計量溯源性核驗方法》等3項具有國際先進性的團體標準，獲批福建省能源領域首套重大裝置，為規範我國溫室氣體觀測、精準核算碳收支、科學評估減排成效等提供了關鍵技術支撐。目前，相關研究成果已在國家、省市氣象和環保部門，以及鋼鐵、煤炭、平板玻璃等行業企業開展應用，取得了較好的示範效果。"
-    },
-    {
-      "id": "mkt:019eb544-6a71-7dd8-afb5-0a0a408b7b1d",
-      "time": "2026-06-11 14:00:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's deputy finance minister asked exporters to help improve supply‑demand conditions in the foreign-exchange market and ease volatility."
-    },
-    {
-      "id": "mkt:019eb544-4686-7dd8-afb5-025b910e0544",
-      "time": "2026-06-11 14:00:10",
-      "tags": [
-        "MKT News",
-        "ORCL.O",
-        "Impact bearish"
-      ],
-      "text": "Oracle shares fell 10.3% on Tradegate after its large-scale spending plan raised market concern."
-    },
-    {
-      "id": "te:markets:558268",
-      "time": "2026-06-11 13:59:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Commonwealth Bank Stock Price Hits 4-week Low — Commonwealth Bank shares decreased to 156.57 AUD, the lowest since May 2026. Over the past 4 weeks, Commonwealth Bank lost 8.73%, and in the last 12 months, it decreased 13.26%."
-    },
-    {
-      "id": "4929653",
-      "time": "2026-06-11 13:59:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【最強Arm CPU正式上線 3奈米192核】亞馬遜雲科技（AWS）宣佈，基於第五代自研Arm處理器Graviton5的Amazon EC2 M9g和M9gd例項正式上線。AWS在公告中明確表示，Graviton5為“迄今為止效能最強、能效最高的自研CPU”。其核心數量從Graviton4的96核翻倍至192核，架構層面放棄了單一計算核心晶片設計，轉而採用4晶片組（Chiplet）方案，每個晶片組包含48個核心，並整合專屬的DRAM記憶體控制器和PCIe 6.0 I/O控制器。四個晶片組之間透過定製互連提供高達420GB/s頻寬，L3快取暴增5倍至192MB，分支預測能力大幅提升，執行真實資料庫等複雜程式碼時效能提升高達30%。Graviton5採用了臺積電3nm製程工藝，在同樣功耗下封裝了更多電晶體，實現了更高的電路密度與能效比。根據AWS官方資料，M9g例項相比基於Graviton4的M8g例項，通用計算效能提升25%，Web應用提升35%，機器學習推理提升35%，資料庫提升30%。"
     }
   ]
 }
