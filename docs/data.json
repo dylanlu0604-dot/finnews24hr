@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-18 10:52:18",
-  "count": 18761,
+  "updated": "2026-06-18 10:56:21",
+  "count": 18764,
   "items": [
+    {
+      "id": "4942320",
+      "time": "2026-06-18 10:54:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "寒武紀盤中漲15.0%，現報1518.00元。"
+    },
+    {
+      "id": "mkt:019ed8a6-a8fe-7dd8-b06a-2df2629b10b0",
+      "time": "2026-06-18 10:54:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09863.HK",
+        "Impact bullish"
+      ],
+      "text": "【Leapmotor global deliveries exceed 1.5 million units】At the opening of the 2026 Hong Kong Motor Show, Leapmotor (09863.HK) senior vice president Cao Li said the company's cumulative global deliveries have exceeded 1.5 million units."
+    },
+    {
+      "id": "4942319",
+      "time": "2026-06-18 10:53:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【零跑全球交付突破150萬臺】6月18日開幕的2026香港車博會上，零跑高階副總裁曹力宣佈，零跑全球累計交付量已正式突破150萬臺。"
+    },
+    {
+      "id": "te:markets:559901",
+      "time": "2026-06-18 10:52:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Remains Near 4-Year High — Zinc futures hovered below $3,600 per tonne but remained near a four-year high, supported by easing geopolitical tensions and tight near-term supply conditions. The US and Iran remotely signed a memorandum of understanding to end their war, alleviating fears about global economic growth and improving the outlook for industrial demand. At the same time, recent disruptions across major producers have reinforced supply concerns. Glencore’s Kazzinc facility in Kazakhstan is running at reduced capacity after an explosion, while Nexa’s Cajamarquilla smelter in Peru was temporarily suspended due to fire damage, though production is gradually resuming. Goldman Sachs also noted that Boliden’s Garpenberg mine in Sweden could operate at structurally lower output levels for longer after a seismic activity earlier this year. Meanwhile, the US dollar strengthened amid increased bets on a Federal Reserve rate hike, pressuring dollar-priced commodities."
+    },
+    {
+      "id": "4942318",
+      "time": "2026-06-18 10:51:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報984.00元。"
+    },
     {
       "id": "4942317",
       "time": "2026-06-18 10:51:33",
@@ -172898,27 +172946,6 @@
         "其他"
       ],
       "text": "【《國家人權行動計劃（2026－2030年）》釋出】在11日舉辦的“2026·全球人權治理高階論壇”開幕式上，國家人權行動計劃聯席會議機制成員單位代表共同釋出了《國家人權行動計劃（2026－2030年）》。 行動計劃分為“導言”和“全方位推進經濟、社會和文化權利保障”“健全公民權利和政治權利保障機制”“強化環境權利保障”“保障少數民族、婦女、兒童、老年人、殘疾人權益”“引導新興人權領域健康發展”“持續提升人權意識”“積極推動全球人權治理”“計劃實施與責任落實”八章。 行動計劃介紹，2021年至2025年，中國政府實施了第四期國家人權行動計劃，相關目標任務得到有效落實，中國人權保障水平顯著提升，也為世界人權事業發展注入難得的穩定性和確定性。 行動計劃稱，在總結既往成功經驗基礎上，依據國家尊重和保障人權的憲法原則，遵循《世界人權宣言》《維也納宣言和行動綱領》及有關國際人權公約精神，立足中國現實國情，結合“十五五”規劃綱要，中國政府制定了第五期國家人權行動計劃，確定2026年至2030年尊重、保護、促進人權的階段性目標、指標性任務和具體舉措。 行動計劃的基本原則是：呵護人的生命、價值、尊嚴，以系統性思維謀劃人權建設，依法、平等、務實、協調、合力推進人權事業發展，在物質文明、政治文明、精神文明、社會文明、生態文明協調發展中全方位提升各項人權保障水平，促進人的全面發展、社會全面進步。(新華社)"
-    },
-    {
-      "id": "4929461",
-      "time": "2026-06-11 10:53:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體裝置板塊逆勢拉昇 和林微納逼近20cm漲停】半導體裝置板塊盤中逆勢拉昇，潔淨室、封測裝置方向領漲，和林微納逼近20cm漲停，此前盛劍科技漲停，美埃科技漲超10%，福光股份、聯合精密、先鋒精科、聯合光電等跟漲。"
-    },
-    {
-      "id": "mkt:019eb498-7d0f-7dd8-afb2-bb288c03cf64",
-      "time": "2026-06-11 10:52:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Trump says his birthday wish is \"world peace\"】At a White House event on the 10th, ahead of his 80th birthday on the 14th, Trump said his birthday wish was \"world peace.\" Minutes earlier at the same event he announced new strikes on Iran, saying \"we hit them hard yesterday, and we'll hit them hard again today.\""
     }
   ]
 }
