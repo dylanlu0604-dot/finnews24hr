@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-19 04:01:40",
-  "count": 19011,
+  "updated": "2026-06-19 04:05:45",
+  "count": 19001,
   "items": [
+    {
+      "id": "mkt:019edc55-443e-7dd8-b087-f5d45c1f6251",
+      "time": "2026-06-19 04:03:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equity benchmarks on June 18: Dow Jones Industrial Average closed up 73.14 points, or 0.14%, at 51,565.69; S&P 500 closed up 80.57 points, or 1.09%, at 7,500.67; Nasdaq Composite closed up 496.28 points, or 1.91%, at 26,517.93."
+    },
+    {
+      "id": "4944288",
+      "time": "2026-06-19 04:02:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本4月所持美國國債1.2099萬億美元，前值1.1916萬億美元。"
+    },
+    {
+      "id": "4944287",
+      "time": "2026-06-19 04:02:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數收盤上漲6.4%。"
+    },
+    {
+      "id": "4944286",
+      "time": "2026-06-19 04:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：Meta遊說美國國會，尋求在兒童網路安全立法框架下，免於承擔兒童傷害相關訴訟責任。"
+    },
+    {
+      "id": "mkt:019edc52-f90d-7dd8-b087-e85f56ec0729",
+      "time": "2026-06-19 04:01:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MRVL.O",
+        "Impact bullish",
+        "INTC.O",
+        "MU.O"
+      ],
+      "text": "【US stocks close higher; SpaceX down 3.5%】US equities closed higher on Thursday: Dow Jones Industrial Average +0.14% (preliminary), S&P 500 +1.09%, Nasdaq Composite +1.91%. SpaceX (SPCX.O) fell 3.56%, trading down as much as 10% intraday. Semiconductor names led gains: MARVELL (MRVL.O) +7.27%, Intel (INTC.O) +10.64%, Micron (MU.O) +8.70%. Nasdaq Golden Dragon China Index -0.89%."
+    },
+    {
+      "id": "4944285",
+      "time": "2026-06-19 04:01:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國4月國際資本淨流入 261億美元，前值由1507億美元修正為1493億美元。\n美國4月外資淨買入美國公債 505億美元，前值135億美元。\n美國4月長期資本淨流入 1031億美元，前值由813億美元修正為799億美元。"
+    },
     {
       "id": "4944284",
       "time": "2026-06-19 04:00:49",
@@ -174841,160 +174903,6 @@
         "國際"
       ],
       "text": "特朗普：根據該協議，伊朗將不得擁有核武器。"
-    },
-    {
-      "id": "mkt:019eb84a-5b46-7dd8-afca-bb4e74874549",
-      "time": "2026-06-12 04:05:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said the Iran agreement will be completed."
-    },
-    {
-      "id": "mkt:019eb84a-3e18-7dd8-afca-b749fc8c4401",
-      "time": "2026-06-12 04:05:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Dow"
-      ],
-      "text": "U.S. equities closed higher on Thursday, June 11: the Dow Jones Industrial Average rose 929.60 points, or 1.86%, to 50,848.38; the S&P 500 gained 127.25 points, or 1.75%, to 7,394.24; the Nasdaq Composite added 640.16 points, or 2.54%, to 25,809.66."
-    },
-    {
-      "id": "mkt:019eb84a-1e07-7dd8-afca-a960c8c19656",
-      "time": "2026-06-12 04:05:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the memorandum of understanding is very strong and detailed."
-    },
-    {
-      "id": "4931225",
-      "time": "2026-06-12 04:05:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊核相關協議是一份約束力極強的諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019eb849-c879-7dd8-afca-a035336b173e",
-      "time": "2026-06-12 04:05:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said Iran is more eager than he is to reach an agreement and that Tehran has been severely hit."
-    },
-    {
-      "id": "mkt:019eb849-434d-7dd8-afca-9d5671bd6cd7",
-      "time": "2026-06-12 04:04:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said on the Iran deal that all Iranians have approved the agreement."
-    },
-    {
-      "id": "4931224",
-      "time": "2026-06-12 04:04:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊核協議：伊朗各方均已批准該協議。"
-    },
-    {
-      "id": "4931223",
-      "time": "2026-06-12 04:03:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及協議談判反覆：伊朗如今已遭受重創，他們遠比我更渴望達成協議。"
-    },
-    {
-      "id": "mkt:019eb848-b963-7dd8-afca-96bbf247bb81",
-      "time": "2026-06-12 04:03:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said once the agreement is signed the US will lift the blockade."
-    },
-    {
-      "id": "mkt:019eb848-9128-7dd8-afca-8df557d4907e",
-      "time": "2026-06-12 04:03:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Iran will not acquire or develop nuclear weapons."
-    },
-    {
-      "id": "4931222",
-      "time": "2026-06-12 04:03:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：解除霍爾木茲海峽封鎖是伊朗核協議的一部分。"
-    },
-    {
-      "id": "mkt:019eb847-f63d-7dd8-afca-85113d09684d",
-      "time": "2026-06-12 04:03:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said Iran will not have nuclear weapons."
-    },
-    {
-      "id": "4931221",
-      "time": "2026-06-12 04:02:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談及伊朗問題：協議一經簽署，美國將解除封鎖。"
-    },
-    {
-      "id": "mkt:019eb847-8dbd-7dd8-afca-7bacebd50955",
-      "time": "2026-06-12 04:02:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said he understands Iran's Supreme Leader has agreed to an Iran deal."
-    },
-    {
-      "id": "4931220",
-      "time": "2026-06-12 04:02:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談及伊朗核協議：我得知伊朗最高領袖已同意達成協議。"
-    },
-    {
-      "id": "4931219",
-      "time": "2026-06-12 04:02:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱伊核協議將於本週末簽署：很快就會落地。"
     }
   ]
 }
