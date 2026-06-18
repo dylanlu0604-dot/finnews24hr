@@ -1,7 +1,84 @@
 {
-  "updated": "2026-06-18 12:29:03",
-  "count": 18779,
+  "updated": "2026-06-18 12:33:00",
+  "count": 18780,
   "items": [
+    {
+      "id": "te:markets:559920",
+      "time": "2026-06-18 12:31:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Falls as Oyu Tolgoi Exports Resume — Copper futures dropped below $6.4 per pound on Thursday, giving back gains from earlier in the week after Rio Tinto resumed exports of copper concentrate from its giant Oyu Tolgoi mine in Mongolia following a brief protest-related disruption. Oyu Tolgoi is among the world’s largest copper mines and remains central to Rio Tinto’s strategy to increase production of a metal critical to electrification, the energy transition, and growing demand from data centers. Copper also faced pressure after the US Federal Reserve left interest rates unchanged on Wednesday but signaled increasing support for rate hikes later this year. The prospect of higher borrowing costs clouded the outlook for global economic activity and industrial metals demand. Meanwhile, the US and Iran signed an interim peace agreement that is expected to lead to the reopening of the strategically important Strait of Hormuz."
+    },
+    {
+      "id": "4942439",
+      "time": "2026-06-18 12:31:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將幫助英特爾，因為我們需要設計和製造晶片。"
+    },
+    {
+      "id": "mkt:019ed8ff-22d2-7dd8-b06b-b7ecad0dda26",
+      "time": "2026-06-18 12:30:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 30-year bond yield rose 2.5 bps to 3.755%."
+    },
+    {
+      "id": "mkt:019ed8fe-dbf2-7dd8-b06b-ac64af419849",
+      "time": "2026-06-18 12:30:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the US needs to bring the semiconductor industry back to the United States."
+    },
+    {
+      "id": "mkt:019ed8fe-c53e-7dd8-b06b-a627868b8bd2",
+      "time": "2026-06-18 12:30:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK government is in advanced talks with Nissan over financial support for the automaker’s Sunderland plant plans, sources said."
+    },
+    {
+      "id": "4942438",
+      "time": "2026-06-18 12:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【端午假期福建沿海水路客運將迎高峰，預計傳送旅客43.6萬人次】從福建海事局獲悉，端午假期來臨，福建沿海水路將迎來客流高峰。據福建海事局預計，假期三天，福建沿海水路客運共將傳送旅客43.6萬人次，同比增長0.7%。"
+    },
+    {
+      "id": "4942437",
+      "time": "2026-06-18 12:29:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市分割槽暴雨橙色預警訊號升級為紅色】過去3小時，羅湖區、福田區、鹽田區、龍崗區、坪山區、大鵬灣、龍華區（觀湖、民治、龍華、觀瀾街道）和大鵬新區（葵涌街道）累計雨量已達大暴雨，預計未來1-2小時還將出現40-70毫米降水，深圳市氣象臺2026年06月18日12時25分在上述區域釋出暴雨紅色預警訊號，全市進入暴雨緊急防禦狀態，請迅速做好防禦工作，遠離低窪易澇等危險區域，上述區域山洪風險很大，注意防禦暴雨及其引發的內澇、山洪、滑坡、泥石流、地面塌陷等災害。（深圳天氣）"
+    },
+    {
+      "id": "4942436",
+      "time": "2026-06-18 12:29:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026金磚國家未來網路創新論壇在深成功舉辦】6月16日上午，2026金磚國家未來網路創新論壇在深圳開幕。來自巴西、俄羅斯、南非、埃及、衣索比亞、伊朗、阿聯酋、印度尼西亞等30個金磚及“金磚+”國家的資訊通訊主管部門代表、國際組織代表，以及產學研各界代表約300人齊聚一堂，圍繞“算力織網·智匯金磚”這一主題，共同探討未來網路創新發展路徑，助力大金磚合作提質升級。論壇期間多項國際交流合作碩果集中亮相：金磚國家新質網際網路先鋒城市成果、《數字經濟中的金磚力量2026》報告、下一代通訊網路與人工智慧聯合創新中心揭牌、中國-ESCAP大語言模型能力建設合作專案等，多方位展示了“金磚+”各國在數字經濟、創新合作和能力建設等領域取得的務實成果，也生動體現了各方攜手推進互聯互通、深化協同合作的積極進展。（新華社）"
+    },
     {
       "id": "mkt:019ed8fc-6251-7dd8-b06b-99df3f1d47b4",
       "time": "2026-06-18 12:27:59",
@@ -173030,74 +173107,6 @@
         "市場"
       ],
       "text": "巴基斯坦KSE-100指數下跌0.5%，至168,748.50點。"
-    },
-    {
-      "id": "mkt:019eb4f3-c45c-7dd8-afb4-2315e9a6f77c",
-      "time": "2026-06-11 12:32:14",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "TASS, citing the Russian Defence Ministry, said Russia shot down 330 Ukrainian drones overnight."
-    },
-    {
-      "id": "mkt:019eb4f3-5023-7dd8-afb4-1d0982d807a1",
-      "time": "2026-06-11 12:31:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "【Omdia: Q1 semiconductor revenue tops $319bn】Omdia says 2026 Q1 semiconductor revenue rose 27% QoQ from 2025 Q4 to $319.0bn. Memory revenue drove the gain, increasing more than 80% QoQ. Omdia expects strong momentum to carry into 2026 Q2; QoQ growth may ease from Q1 but should still exceed 20%."
-    },
-    {
-      "id": "4929571",
-      "time": "2026-06-11 12:30:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "40年期日本國債收益率上升2.5個基點，至3.760%。"
-    },
-    {
-      "id": "4929570",
-      "time": "2026-06-11 12:30:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四川資源集團到雅化集團調研交流】6月2日，四川資源集團黨委書記、董事長羅智波率隊到雅化集團雅安鋰業公司調研交流，調研組實地考察了雅化鋰業生產線、中央控制中心、產品展示廳，並進行座談交流。雙方就促進四川礦業產業鏈發展、資源勘探開發協同合作等進行了深入探討，就雙方簽署戰略合作協議達成共識。下一步，雙方將持續建強鋰電產業鏈條、壯大產業叢集。"
-    },
-    {
-      "id": "mkt:019eb4f2-170f-7dd8-afb4-1330713f5fe2",
-      "time": "2026-06-11 12:30:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Five Chinese brain–computer interface products debut at Shanghai tech fair】Five domestically developed brain–computer interface (BCI) products debuted at the 12th China (Shanghai) International Technology Import and Export Fair on June 11. The products span the full industry chain — from basic brain‑science research and high‑end medical devices to rehabilitation/wellness and consumer applications — and were described as the latest outcomes of China’s independent BCI innovation."
-    },
-    {
-      "id": "4929569",
-      "time": "2026-06-11 12:30:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX IPO遭搶購引發全美狂歡 知名空頭率先潑冷水：別為遙不可及的“希望與夢想”買單】知名做空投資者詹姆斯·查諾斯表示，SpaceX 轟動一時的公開上市，更多是由投資者對埃隆·馬斯克以及人工智慧的熱情所驅動，而非基於財務基本面。他認為，在任何合理的業務假設下，該公司的估值都很難站得住腳。在這家公司備受期待的 IPO 前夕，Chanos & Co. 創始人查諾斯接受了採訪。他將這筆交易形容為對市場情緒的一次關鍵測試，因為投資者正將大筆資金注入帶有投機性質的增長故事中。查諾斯在紐約舉行的 iConnections 全球另類投資大會上表示，“我們將迎來一場募資 750 億美元、估值接近 2 萬億美元的 IPO，而這家公司的營收只有 190 億美元，且自由現金流為負，”該大會聚集了 2500 多名機構資產配置者和基金經理。“這實際上是一場‘販賣希望與夢想’的 IPO。”"
-    },
-    {
-      "id": "4929568",
-      "time": "2026-06-11 12:29:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5款國產腦機介面創新產品在上交會首發】第十二屆中國（上海）國際技術進出口交易會（以下簡稱“上交會”）6月11日在上海開幕。5款國產腦機介面創新產品在上交會現場實現首發。這5款新品，完整覆蓋從腦科學基礎研究、高階醫療裝置、康復康養到大眾日常消費的全產業鏈條，代表了中國腦機產業自主創新的最新成果。"
     }
   ]
 }
