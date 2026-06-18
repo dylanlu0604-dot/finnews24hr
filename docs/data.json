@@ -1,7 +1,125 @@
 {
-  "updated": "2026-06-18 19:55:36",
-  "count": 19092,
+  "updated": "2026-06-18 19:59:39",
+  "count": 19096,
   "items": [
+    {
+      "id": "4943469",
+      "time": "2026-06-18 19:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯與東盟歡迎美伊協議以制止衝突。"
+    },
+    {
+      "id": "4943468",
+      "time": "2026-06-18 19:58:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟最高外交官員回應以色列外長斷聯決定】針對以色列外長吉迪恩·薩爾聲稱將與自己切斷一切聯絡的表態，歐盟外交與安全政策高階代表卡拉斯作出回應，稱歐盟仍然“致力於與以色列建立建設性關係”。此前，薩爾批評卡拉斯將以色列對待巴勒斯坦人的方式比作種族隔離時代南非的狀況。薩爾表示，在卡拉斯撤回或澄清相關言論之前，自己只能切斷與她的聯絡。卡拉斯對此表示，“歐盟與以色列之間有很多共同紐帶”，她重視建立在尊重基礎上的建設性接觸。不過她強調，“兩國方案”是實現中東和平唯一可行的道路，並重申歐盟譴責以色列在約旦河西岸被佔領土建設非法定居點的立場。"
+    },
+    {
+      "id": "4943467",
+      "time": "2026-06-18 19:58:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿格斯研究公司將捷普公司目標價從300美元上調至475美元。"
+    },
+    {
+      "id": "4943466",
+      "time": "2026-06-18 19:57:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：我從未因通脹上升而提議改變通脹計算方法。"
+    },
+    {
+      "id": "4943465",
+      "time": "2026-06-18 19:57:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博亞精工：首次回購0.0422%公司股份，成交金額為99.59萬元】博亞精工公告，2026年6月17日，公司首次透過股份回購專用證券賬戶以集中競價交易方式回購公司股份，本次回購股份數量為49600股，約佔公司目前總股本的0.0422%，最高成交價為20.13元/股，最低成交價為20.05元/股，成交金額為99.59萬元（不含交易費用）。"
+    },
+    {
+      "id": "4943464",
+      "time": "2026-06-18 19:57:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：我從未因通脹正在上升而提議修改通脹計算方法。"
+    },
+    {
+      "id": "4943463",
+      "time": "2026-06-18 19:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "寶馬<BMWG.DE>監事會主席：認為到2035年歐洲汽車市場平均電動化比例可達50-60%是現實的。"
+    },
+    {
+      "id": "4943462",
+      "time": "2026-06-18 19:56:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博瑞醫藥：實際控制人因操縱證券市場案被取保候審】博瑞醫藥公告稱，公司實際控制人袁建棟因涉嫌操縱證券市場案，於2026年6月18日被蘇州市公安局取保候審，期限自當日起算。袁建棟任公司董事長兼總經理，代行財務總監、董事會秘書職責，該事項不涉及公司股票，不影響日常生產經營，公司運作正常。公司將在一個月內補選財務總監、董事會秘書，並及時披露進展。"
+    },
+    {
+      "id": "mkt:019eda97-4ee1-7dd8-b07a-f368cbb3a427",
+      "time": "2026-06-18 19:56:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU top diplomat responds to Israeli foreign minister's decision to sever contact】EU high representative for foreign affairs and security policy Kallas said the EU remains \"committed to constructive relations\" with Israel after Israeli foreign minister Gideon Sa'ar said he would cut all contact until Kallas retracts or clarifies comments comparing Israel's treatment of Palestinians to apartheid South Africa. Kallas said there are many ties between the EU and Israel and she values constructive, respect-based engagement, but stressed the \"two-state solution\" is the only viable path to Middle East peace and reiterated the EU's condemnation of Israeli settlement construction in the occupied West Bank."
+    },
+    {
+      "id": "mkt:019eda97-0dbf-7dd8-b07a-ea41c41897ee",
+      "time": "2026-06-18 19:56:32",
+      "tags": [
+        "MKT News",
+        "PFE.N",
+        "Impact bearish"
+      ],
+      "text": "Pfizer shares fell 1.4% in premarket trading after the company said Chief Financial Officer Dave Denton will resign."
+    },
+    {
+      "id": "4943461",
+      "time": "2026-06-18 19:56:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西財長：不能以授予央行自主權為藉口篡改公共會計賬目。"
+    },
+    {
+      "id": "mkt:019eda96-acdc-7dd8-b07a-e4d13884a310",
+      "time": "2026-06-18 19:56:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 2.00% intraday to $66.57/oz."
+    },
+    {
+      "id": "4943460",
+      "time": "2026-06-18 19:55:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "輝瑞股價盤前下跌1.4%，首席財務官戴夫·丹頓將卸任。"
+    },
+    {
+      "id": "4943459",
+      "time": "2026-06-18 19:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯將繼續向東盟國家供應糧食與能源。"
+    },
     {
       "id": "4943458",
       "time": "2026-06-18 19:54:41",
@@ -176206,93 +176324,6 @@
         "公司"
       ],
       "text": "【豐茂股份：向不特定物件發行可轉換公司債券申請獲得深圳證券交易所上市稽核委員會稽核透過】豐茂股份公告，2026年6月11日，深圳證券交易所上市稽核委員會召開2026年第32次上市稽核委員會審議會議，對公司向不特定物件發行可轉換公司債券的申請進行了稽核。根據會議審議結果，公司本次發行的申請符合發行條件、上市條件和資訊披露要求。公司本次發行事項尚需履行中國證券監督管理委員會註冊程式，最終中國證監會能否同意註冊及其時間尚存在不確定性。公司將在收到中國證監會作出的予以註冊或不予註冊的決定檔案後另行公告。敬請廣大投資者注意投資風險。"
-    },
-    {
-      "id": "4930508",
-      "time": "2026-06-11 19:59:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度監管機構提議，以某隻股票交易所在交易所的收盤價，來確定該股票未上市交易的其他交易所的價格漲跌幅限制。"
-    },
-    {
-      "id": "mkt:019eb68c-b895-7dd8-afbd-44950a62b823",
-      "time": "2026-06-11 19:58:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Indian Prime Minister Narendra Modi will discuss the West Asia crisis while attending the G7 summit."
-    },
-    {
-      "id": "4930507",
-      "time": "2026-06-11 19:58:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度證券交易委員會就股票出借集合競價盤前定價機制徵求意見，意見徵集截止至7月2日。"
-    },
-    {
-      "id": "4930506",
-      "time": "2026-06-11 19:58:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛尼爾能源位於德克薩斯州科珀斯克里斯蒂液化天然氣出口廠的1至6號中型液化天然氣生產線，在週三停運後，預計週四將恢復接收更多天然氣。"
-    },
-    {
-      "id": "mkt:019eb68b-f38c-7dd8-afbd-3b438fccb4da",
-      "time": "2026-06-11 19:58:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Securities and Exchange Board of India (SEBI) has invited comments on the pre-open stock call auction mechanism; consultation closes July 2."
-    },
-    {
-      "id": "4930505",
-      "time": "2026-06-11 19:57:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "莫迪將在七國集團會議期間就西亞局勢展開磋商。"
-    },
-    {
-      "id": "mkt:019eb68b-65af-7dd8-afbd-30e18f37eabf",
-      "time": "2026-06-11 19:57:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Russian Defence Ministry said its air defenses shot down 122 Ukrainian drones over various Russian regions between 07:00 and 14:00 Moscow time (12:00–19:00 Beijing time)."
-    },
-    {
-      "id": "4930504",
-      "time": "2026-06-11 19:57:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安： 現任以色列政府已將該國變成製造紛爭的溫床，這裡唯有鮮血與淚水，不斷滋生動盪與混亂。"
-    },
-    {
-      "id": "4930503",
-      "time": "2026-06-11 19:56:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部通報，莫斯科時間 7 時至 14 時，俄境內防空系統共擊落 122 架烏克蘭無人機。"
-    },
-    {
-      "id": "4930502",
-      "time": "2026-06-11 19:56:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【多城跟進推動住房以舊換新 樓市置換鏈條加速打通】作為推動樓市穩定的政策抓手之一，住房“以舊換新”正在各大城市相繼落地、取得進展。 近日，蘇州城投集團落地了住房“以舊換新”實施方案，以“不限區域、不限套數、不限比例”的置換條件實現低門檻、廣覆蓋；同期，浙江省嘉興市也確定了5家評估機構，落實換房中的關鍵問題“房子能賣多少錢”；更早推進“以舊換新”的廣州南沙開建集團則已收穫超400組客戶諮詢報名…… 58安居客研究院院長張波表示，近兩年全國多地住房“以舊換新”政策落地不斷增多，且大都體現為 “政府引導、市場參與”，同時國企正逐步成為置換交易的主力，透過提供一站式置換服務以縮短換房週期，同時各地政策覆蓋範圍更廣、辦理流程更簡化，群眾參與意願度有望明顯提升。（第一財經）"
     }
   ]
 }
