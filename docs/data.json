@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-19 00:17:31",
-  "count": 19069,
+  "updated": "2026-06-19 00:21:34",
+  "count": 19076,
   "items": [
+    {
+      "id": "te:economy:560159",
+      "time": "2026-06-19 00:20:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US 30-Year Mortgage Rate Eases — The average rate on a 30-year fixed-mortgage fell by 5bps to 6.47% on the third week of June, according to data compiled by Freddie Mac. The result was in line with the pullback for longer maturity Treasury yields as optimistic signals for an agreement between the Iran and US lowered energy prices and reduced the urgency for the Federal Reserve to raise interest rates. “The 30-year fixed-rate mortgage decreased this week averaging 6.47%,” said Sam Khater, Freddie Mac’s Chief Economist. “Incoming data continues to reflect a resilient consumer, with retail sales improving and pending home sales strengthening, suggesting purchase demand is continuing to modestly improve.\""
+    },
+    {
+      "id": "4944034",
+      "time": "2026-06-19 00:20:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部：關於2026年度牛肉保障措施執行提示資訊（五）】牛肉保障措施項下自澳大利亞進口的牛肉於2026年6月18日已達到商務部公告2025年第87號明確的該國家規定數量的100%。根據商務部公告2025年第87號，在澳大利亞牛肉進口數量達到規定數量100%的第3日起（6月20日零點起），自該國進口牛肉將在現行適用關稅稅率基礎上加徵55%關稅。"
+    },
+    {
+      "id": "4944033",
+      "time": "2026-06-19 00:19:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【生態環境部：強化生態系統監測評估 嚴格開展生態保護監督執法】生態環境部部長黃潤秋18日主持召開部常務會議，審議並原則透過《生態保護“十五五”規劃》和《生態質量評價標準（試行）》。會議指出，生態保護事關國家安全、民生福祉和美麗中國建設，要牢固樹立和踐行綠水青山就是金山銀山的理念，堅持山水林田湖草沙一體化保護和系統治理，不斷提升生態系統多樣性穩定性持續性。要持續完善生態空間格局，統籌推進生態系統保護與修復，全面加強生物多樣性保護，深入推進生態文明示範建設，健全生態保護保障體系。要強化生態系統監測評估，嚴格開展生態保護監督執法，築牢自然生態屏障。"
+    },
+    {
+      "id": "mkt:019edb87-ebe2-7dd8-b084-fdcd0a565895",
+      "time": "2026-06-19 00:19:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IDF spokesman said the Israeli Air Force intercepted several rockets launched at Israeli forces in southern Lebanon. A few rockets fell near troops with no casualties. Per procedure, warning sirens were not activated."
+    },
+    {
+      "id": "4944032",
+      "time": "2026-06-19 00:19:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國得克薩斯州公用事業委員會批准德州電力可靠性委員會（ERCOT）資料中心供電規劃。"
+    },
+    {
+      "id": "4944031",
+      "time": "2026-06-19 00:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍通報：真主黨在黎巴嫩南部向以軍發射火箭彈，部分火箭彈被攔截，其餘落在部隊周邊，未造成人員傷亡。"
+    },
+    {
+      "id": "4944030",
+      "time": "2026-06-19 00:18:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡將於今晚召開以色列安全內閣會議。"
+    },
+    {
+      "id": "4944029",
+      "time": "2026-06-19 00:17:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪計劃推動子品牌自負盈虧】據悉，比亞迪正計劃讓旗下各子品牌自負盈虧，仰望暫不在其中。一位接近此事的人士說，新機制下各品牌主體按需取用研發、生產、採購等集團資源，取用成本獨立結算。（晚點）"
+    },
+    {
+      "id": "te:markets:560154",
+      "time": "2026-06-19 00:17:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Finishes at Over 2-Week High — The DAX closed about 0.4% up at 25,027 on Thursday, the highest since early June and extending gains for the sixth successive session. Optimism surrounding the US-Iran agreement outweighed hawkish signals from new Fed Chair Kevin Warsh. The US formally signed an interim agreement with Iran that paves the way for an end to the Middle East conflict and the reopening of key energy export routes. Oil prices pulled back, reflecting easing inflation concerns. Tech companies, industrials and travel stocks were among the top performers. Infineon Technologies led gains among equities, surging 6.4%. Siemens Energy advanced 4.7% following reports that the company is considering divesting its multi-billion-euro compressor and steam turbine business. On the flip side, automakers and software companies faced pressure."
+    },
+    {
+      "id": "4944028",
+      "time": "2026-06-19 00:17:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯： 過去三個月，用於防衛以色列的三分之二武器均由美國製造，資金也全部來自美國納稅人的稅款。"
+    },
     {
       "id": "4944027",
       "time": "2026-06-19 00:16:41",
@@ -175626,35 +175714,6 @@
         "DAX"
       ],
       "text": "【European customers paying to reserve gas-turbine production slots as power demand heats up】Siemens Energy, one of the world’s three major gas-turbine manufacturers, said competition for power in Europe — driven by data centres and electrification projects — has intensified to the point that customers are paying reservation fees to secure positions in turbine production queues. CEO Christian Bruch said demand is so high that European buyers are now willing to pay reservation fees. With grid connections for data centres taking long lead times, some operators are opting to build on-site generation to accelerate commissioning. Siemens Energy’s gas services head Karim Amin said customers seeking roughly six-month manufacturing slots typically pay fees equal to about 10–15% of a turbine’s purchase price. Manufacturers’ capacity is largely booked through the end of the decade, and Siemens Energy reports a conversion rate above 90%, so most reservations become firm contracts."
-    },
-    {
-      "id": "4930988",
-      "time": "2026-06-12 00:20:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊：佔領行徑、侵略行為以及持續對黎巴嫩南部民眾犯下的罪行，永遠無法摧垮黎巴嫩抵抗民眾與真主黨武裝人員的意志。"
-    },
-    {
-      "id": "4930987",
-      "time": "2026-06-12 00:19:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "一名法國官員表示，被指干預法國地方選舉的以色列公司Blackcore還涉嫌在蘇格蘭、多哥和安哥拉開展相關活動。"
-    },
-    {
-      "id": "te:economy:558444",
-      "time": "2026-06-12 00:19:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US 30-Year Mortgage Rate Approaches 9-Month High — The average rate on a 30-year fixed-mortgage inched higher by 4bps from the previous week to 6.52% on the second week of June, according to data compiled by Freddie Mac. The result was one basis point away from the nine-month high from two weeks prior amid the increase in long-term Treasury yields over the period. The prolonged conflict between the US and Iran maintained the blockade of energy exports from the region, lifting US inflation to drive rate traders to position for a Federal Reserve hike this year."
     }
   ]
 }
