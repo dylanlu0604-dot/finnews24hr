@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-19 05:01:36_
-_本檔包含 3826 則快訊，約 706869 字_
+_更新時間：2026-06-19 05:50:50_
+_本檔包含 3828 則快訊，約 707462 字_
+
+---
+
+### 2026-06-13 23:59:37  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Fars news agency reported Iran's foreign ministry spokesman said Iran will require payment for services provided in the Strait of Hormuz.
+
+---
+
+### 2026-06-13 23:56:34  #國際
+
+俄羅斯通訊社：俄羅斯聯邦武裝部隊在特種軍事行動的各個戰線上均取得進展；敵人無法遏制此次攻勢，轉而採取恐怖主義手段。
+
+---
+
+### 2026-06-13 23:56:05  #國際
+
+肯尼迪中心向美國法官表示，所有提及特朗普的內容已從其建築及網站上刪除。
+
+---
+
+### 2026-06-13 23:51:34  #其他
+
+【澳大利亞羽毛球公開賽：國羽提前鎖定混雙冠亞軍】2026年澳大利亞羽毛球公開賽13日在悉尼展開各單項半決賽爭奪，國羽組合馮彥哲/黃東萍和郭新娃/陳芳卉分別戰勝各自對手，提前鎖定混雙冠亞軍。
+
+---
+
+### 2026-06-13 23:50:28  #國際
+
+美國國務卿魯比奧：美國男足迎來精彩且具有歷史意義的一晚！我有幸和七萬餘名球迷一同觀看2026年世界盃在美國舉辦的首場賽事。
+
+---
+
+### 2026-06-13 23:49:47  #MKT News
+
+【Pakistan foreign ministry: US-Iran agreement electronic signing ceremony set for 14th】Pakistan's foreign ministry said on June 13 Deputy Prime Minister and Foreign Minister Ishaq Dar spoke by phone with Saudi Foreign Minister Faisal and that an electronic signing ceremony for a US-Iran agreement is scheduled for the 14th. Both ministers welcomed talks entering a final stage and said the e-signing could help promote durable regional peace and stability. Faisal praised Pakistan's mediation support.
+
+---
+
+### 2026-06-13 23:47:45  #MKT News #Brent #WTI
+
+Fars News Agency: an Iranian foreign ministry spokesman said Iran's measures to ensure safe navigation in the Strait of Hormuz are consistent with safeguarding national security and the international community's common interests.
+
+---
+
+### 2026-06-13 23:47:03  #MKT News
+
+According to Fars News Agency, Iran's foreign ministry spokesman said foreign bases and military presence in the region must end.
+
+---
+
+### 2026-06-13 23:46:43  #國際
+
+【巴基斯坦外交部：美伊協議電子簽署儀式14日舉行】巴基斯坦外交部13日發表宣告說，巴基斯坦副總理兼外交部長達爾當天與沙烏地阿拉伯外交大臣費薩爾通電話。美國與伊朗相關協議電子簽署儀式定於明日舉行。宣告說，兩國外長對美國與伊朗談判進入最後階段表示歡迎，相關協議電子簽署儀式定於明日舉行。雙方期待這一重要進展有助於促進該地區的持久和平與穩定。宣告表示，費薩爾讚賞巴基斯坦在整個過程中為支援調解和對話作出的不懈努力。（新華社）
+
+---
+
+### 2026-06-13 23:46:29  #MKT News #Important
+
+Fars News Agency reported Iran’s Foreign Ministry spokesman said releasing Iran’s frozen funds is an important part of the agreement.
+
+---
+
+### 2026-06-13 23:46:01  #MKT News
+
+French presidential office said Macron will host a dinner at the Palace of Versailles on Wednesday for U.S. President Trump.
+
+---
+
+### 2026-06-13 23:45:43  #國際
+
+【伊朗議員對伊美之間擬定的諒解備忘錄內容提出批評】伊朗議會國家安全委員會強硬派議員馬哈茂德·納巴維安對伊美之間擬定的諒解備忘錄內容提出批評。他表示，解除制裁、美軍撤離以及取消封鎖等事宜，均被推遲至最終協議階段再敲定。他補充稱，根據這份擬議檔案，伊朗鈾濃縮活動將維持現有水平，而在他看來這等同於“零濃縮”。納巴維安還表示，該檔案要求伊朗為重新開放霍爾木茲海峽創造條件，允許所有商船無障礙通行。他同時抨擊協議中的另一項條款，稱美國四十七年以來一直干涉伊朗內政，而伊朗始終堅持互不干涉內政的原則。
+
+---
+
+### 2026-06-13 23:29:59  #其他
+
+【部分地區將有暴雨大暴雨 福建啟動防汛Ⅳ級應急響應】記者從福建省防汛抗旱指揮部瞭解到，6月13日夜裡至14日白天，福建南平、三明、龍巖、漳州、廈門和寧德六市的大部，福州、泉州、莆田部分地區有暴雨或大暴雨，24小時累計雨量50—120毫米，區域性可達200毫米，最大小時雨量90毫米。福建省防指於6月13日20時啟動防汛Ⅳ級應急響應。福建省要求各地各有關部門密切關注強降雨影響，紮實做好應對工作。（央視新聞）
+
+---
+
+### 2026-06-13 23:29:02  #焦點 #國際
+
+據伊朗媒體報道，伊朗國家安全委員會副主席納博揚13日說，根據他看過的伊朗和美國諒解備忘錄文字，霍爾木茲海峽所有商船將恢復通行，不受任何限制。
+
+---
+
+### 2026-06-13 23:26:19  #國際
+
+伊朗外交部發言人：伊朗採取措施管理霍爾木茲海峽的安全通行，以保護國家安全和國際社會的共同利益。
+
+---
+
+### 2026-06-13 23:23:46  #焦點 #國際
+
+伊朗外交部發言人表示，釋放伊朗凍結資金是協議不可分割的一部分。
+
+---
+
+### 2026-06-13 23:23:32  #焦點 #國際
+
+伊朗外交部發言人表示，外國基地和軍事力量在該地區的存在必須結束。
+
+---
+
+### 2026-06-13 23:23:25  #國際
+
+【伊方認為特朗普精神狀態不佳 在談判團隊中增派資深心理專家】伊朗方面在談判團隊中增派資深心理專家，相關資訊經由中間人轉交特朗普前，都會先由這些專家進行研判。伊方認為特朗普精神狀態不佳，為此還梳理出其心理特徵，用以調整溝通方式。伊方表示，這套做法讓談判有所進展，整個過程如同專業診療一般。
+
+---
+
+### 2026-06-13 23:21:53  #國際
+
+【卡尼：美國欲避免就貿易協定舉行國會投票】加拿大總理馬克・卡尼表示，特朗普政府官員已明確表態，不希望透過修改北美自由貿易協定的 “核心架構” 來觸發國會投票。《美墨加協定》（USMCA）的三個成員國目前正就各類貿易摩擦舉行獨立雙邊談判，各方均無意對現有協定進行全面修改。卡尼稱，加美貿易官員之間的磋商仍在進行，加拿大部長多米尼克・勒布朗與美國貿易代表賈米森・格里爾已在多項議題上取得積極進展。
+
+---
+
+### 2026-06-13 23:17:45  #焦點 #國際
+
+伊朗外交部發言人表示，伊朗將對霍爾木茲海峽相關通行服務收取費用。
+
+---
+
+### 2026-06-13 23:14:52  #國際
+
+【伊朗外交部：未來一兩天內暫無出訪計劃】伊朗外交部發言人巴加埃當地時間13日表示，未來幾天內完成伊美諒解備忘錄的可能性較高。諒解備忘錄具體簽署時間仍需等待確認。不過在接下來一兩天內，伊朗方面沒有前往日內瓦或其他地點的計劃。
+
+---
+
+### 2026-06-13 23:10:10  #國際
+
+法國總統馬克龍辦公室稱，馬克龍將於週三在凡爾賽宮設宴接待美國總統特朗普。
+
+---
+
+### 2026-06-13 23:09:58  #國際
+
+【Anthropic關閉Mythos外國公民訪問】美國政府以國家安全為由，命令Anthropic禁止所有外國公民訪問其Fable 5與Mythos 5模型。Anthropic發現Fable 5存在潛在“越獄”風險後，已切斷所有客戶對這兩個系統的訪問，以確保合規。此舉可能為所有主流AI模型開發商開創先例，引發了憲法層面與商業層面的擔憂，同時加劇了Anthropic與特朗普政府之間的緊張關係。
+
+---
+
+### 2026-06-13 23:09:19  #國際
+
+【扎波羅熱核電站說烏軍襲擊核電站運輸車間】扎波羅熱核電站新聞處13日在社交媒體上釋出通報說，烏克蘭武裝部隊當天對該核電站運輸車間發動襲擊，造成3輛汽車、車間加油泵和建築物玻璃窗受損。通報沒有說明遭到何種方式的襲擊。通報說，此次襲擊未造成人員傷亡。扎波羅熱核電站各系統運轉正常，核電站和周邊區域輻射指標處於正常水平。（新華社）
+
+---
+
+### 2026-06-13 23:08:17  #其他
+
+希臘總理米佐塔基斯：希望與土耳其建立正常運轉、富有建設性的雙邊關係。地緣格局決定了兩國必須比鄰而居，但我也不會抱有不切實際的幻想。希土兩國存在一大分歧，即愛琴海與東地中海海域劃界問題。對於土耳其提出的其他相關主張，雙方一概不予承認。這些主張完全缺乏依據，歷任希臘總理都不會就此展開討論或談判。我方將繼續強化本國武裝力量，目前軍隊狀態堪稱歷史最佳。我們必須打造強大的威懾能力，併力爭在各方面形成質量優勢。
+
+---
+
+### 2026-06-13 23:07:02  #MKT News
+
+【Iran foreign ministry says no outbound travel planned in next one to two days】Iran foreign ministry spokesperson BAGHAEI said on the 13th the timing for signing an Iran‑US memorandum of understanding remains undecided, and no outbound travel is planned in the next one to two days.
 
 ---
 
@@ -22933,149 +23089,5 @@ Iranian media reported two explosions were heard at Bandar Abbas port; origin un
 ### 2026-06-12 05:52:50  #公司 #市場
 
 【奧多比股價盤後下跌 CFO離職訊息蓋過業績和展望利好】奧多比稱，其首席財務官將離職。在執行長Shantanu Narayen於3月宣佈將卸任後，這意味著公司資深領導層的核心陣容將再少一員。奧多比周四在宣告中表示，首席財務官Dan Durn將於週一離任。公司正在繼續尋找新CEO，接替已任職18年的Narayen。另外，晶片製造商美滿電子科技宣佈，Durn將加入該公司。CFO離職的訊息蓋過了奧多比的季度業績和本期展望，二者均超分析師預期。“每當CEO換人時，通常不會希望CFO也在同一時間更替，”D.A. Davidson & Co.分析師Gil Luria在接受採訪時表示，“顯然，投資者目前對這兩個職位同時過渡感到不安。”
-
----
-
-### 2026-06-12 05:50:19  #國際
-
-據伊朗塔斯尼姆通訊社： 伊朗霍爾木茲省一名訊息人士表示，錫裡克地區未出現彈藥襲擊及衝突情況，相關聲響來自海上，與霍爾木茲海峽有關。
-
----
-
-### 2026-06-12 05:49:16  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-TASNIM NEWS said there have been no shell impacts or clashes in the Sirik area as of now. Sounds heard originated at sea and were linked to the Strait of Hormuz.
-
----
-
-### 2026-06-12 05:48:25  #國際
-
-據伊朗塔斯尼姆通訊社：協議草案尚未獲得伊朗官方最終批准。 據知情訊息人士稱，在軍事與外交施壓未果後，美方不再要求修改伊朗提出的十四點回應內容。 伊朗已拒絕美方最新修訂提議，協議文字仍由伊朗相關機構審議。 在審議工作結束前，各方需審慎看待相關傳聞與猜測。
-
----
-
-### 2026-06-12 05:44:59  #公司 #國際
-
-Deltec資產管理公司專注於新興市場股票的投資組合經理Greg Lesko：市場感覺到我們終於接近這場（與伊朗相關的）衝突的尾聲了，無論是如目前預期的那樣達成協議，還是繼續轟炸。魔鬼藏在細節中，而我們目前還沒看到這些細節。
-
----
-
-### 2026-06-12 05:34:45  #其他
-
-加拿大總理卡尼：加拿大正尋求與墨西哥達成雙邊協議。
-
----
-
-### 2026-06-12 05:33:12  #國際
-
-【伊朗錫裡克地區海岸附近傳出爆炸聲】據伊朗媒體12日報道，伊朗錫裡克地區海岸附近多次傳出爆炸聲，原因不明。 (新華社)
-
----
-
-### 2026-06-12 05:33:07  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-NVIDIA (NVDA.O) shareholder meeting scheduled for June 24; individual investors may participate online.
-
----
-
-### 2026-06-12 05:32:57  #其他
-
-英偉達股東大會定於 6 月 24 日舉行，個人可線上參會。
-
----
-
-### 2026-06-12 05:31:55  #MKT News #Important #Commodities #Energy #Precious Metals #XAUUSD #Impact bullish #WTI
-
-【CME plans 24/7 trading for new crude and gold contracts】CME said, pending regulatory review, it will offer 24/7 trading for new, smaller crude and gold futures. The new crude contract will be one-tenth the size of CME’s micro WTI and is scheduled to launch on Aug. 30. CME’s existing 1-ounce gold futures will move to around-the-clock trading from July 26. Derek Sammann, head of global commodity markets, said regulated 24/7 products will allow traders to manage exposures immediately amid geopolitical uncertainty.
-
----
-
-### 2026-06-12 05:29:54  #MKT News #WTI #Impact bearish #SHEL.O #Impact mixed
-
-Venezuela signed an oil and gas agreement with Shell that includes Shell's participation in the Loran offshore gas field project.
-
----
-
-### 2026-06-12 05:29:51  #公司
-
-日產汽車總裁：公司將藉助人工智慧把新車型的研發週期縮短一半，加快產品上市節奏。
-
----
-
-### 2026-06-12 05:27:20  #國際
-
-加拿大總理卡尼：“推遲密歇根-安大略”大橋開放是美國的請求。
-
----
-
-### 2026-06-12 05:23:44  #其他
-
-加拿大總理卡尼： 應美方要求，已同意推遲底特律 - 溫莎大橋的通車時間。
-
----
-
-### 2026-06-12 05:21:55  #國際
-
-伊朗官方媒體：錫裡克海岸附近傳出爆炸聲，事發原因及爆炸來源尚不明確。
-
----
-
-### 2026-06-12 05:21:42  #MKT News #Important
-
-Refinitiv, citing Iranian media, reported explosions were heard near the coast of Sirik, Iran; cause and origin unclear.
-
----
-
-### 2026-06-12 05:18:31  #MKT News #Important
-
-CME will expand round‑the‑clock trading hours for WTI crude oil and gold.
-
----
-
-### 2026-06-12 05:18:07  #公司 #市場 #國際
-
-美國芝加哥商業交易所集團（CME）將WTI原油與黃金交易時間拓展至7*24交易模式。
-
----
-
-### 2026-06-12 05:18:02  #公司
-
-【SpaceX持股方Ark稱軌道資料中心或帶來3,000億美元年營收】Ark Investment Management的Brett Winton表示，按當前租賃費率計算，到本十年末，SpaceX透過部署數十吉瓦的軌道資料中心容量，可能產生3,000億美元年營收。Ark首席未來學家Winton週四在SpaceX創紀錄的首次公開募股(IPO)定價之前作出上述評估，詳細解釋了他眼中這家公司背後的估算邏輯。SpaceX目前是Ark旗下風投基金的最大持倉。SpaceX的機遇包括新型助推火箭以及利潤豐厚的星鏈衛星網際網路業務。“單是星鏈業務，就能在六個月內收回現金投入，”Winton週四在接受採訪時表示，因為一次滿載衛星的SpaceX發射成本約為5億美元，但這些衛星在五年壽命期內每年將產生10億美元收入。
-
----
-
-### 2026-06-12 05:15:24  #市場
-
-富時A50期指連續夜盤收漲0.81%，報15318點。
-
----
-
-### 2026-06-12 05:15:21  #公司
-
-Adobe高管表示，公司計劃敲定下一任執行長人選，使其主導 2027 財年及後續規劃制定工作。
-
----
-
-### 2026-06-12 05:06:04  #MKT News
-
-US State Department approves sale of FIM-92K Stinger missiles to Brazil, estimated value $330 million.
-
----
-
-### 2026-06-12 05:05:15  #其他
-
-【世界盃揭幕戰 東道主墨西哥隊2-0戰勝南非隊】北京時間6月12日3時，2026年美加墨世界盃揭幕戰（A組第一輪）在阿茲特克球場舉行，東道主墨西哥隊迎戰南非隊。最終，東道主墨西哥隊2-0戰勝南非隊。
-
----
-
-### 2026-06-12 05:02:34  #焦點 #國際
-
-【伊朗外交部：霍爾木茲海峽目前仍關閉】伊朗外交部發言人巴加埃當地時間11日稱，由於“美國的非法行為”，霍爾木茲海峽目前仍處於關閉狀態。巴加埃表示，由於無法確保安全通航，各船隻必須保持謹慎。當日早些時候，美國中央司令部表示，霍爾木茲海峽仍保持通行。美國中央司令部表示，已為途經霍爾木茲海峽的商船設立了安全航道，所有未違反針對伊朗封鎖措施的船隻均可使用這些航道。（央視新聞）
-
----
-
-### 2026-06-12 05:02:11  #市場
-
-【現貨黃金漲超3.4%，白銀漲6%，紐約銅漲約3.1%】週四（6月11日）紐約尾盤，現貨黃金漲3.44%，報4212.34美元/盎司，北京時間01:38之前大致持穩——交投於4070美元附近，隨後快速拉昇至4169美元上方、03:36重新整理日高至4220.09美元。COMEX黃金期貨漲2.38%，報4231.90美元/盎司，絕大部分時間維持微幅下跌狀態——持穩於4100美元附近，01:38迅速拉昇；亞太盤初曾跌至4046.20美元，逼近2025年10月28日盤中最低位4021.40美元。現貨白銀漲6.03%，報67.1837美元/盎司，走勢與倫敦金相仿，03:42重新整理日高至67.5590美元。COMEX白銀期貨漲5.85%，報67.255美元/盎司，日內大部分時間持穩於64美元附近。COMEX銅期貨漲3.07%，報6.3870美元/磅，日內過半交易時間微幅上漲——持穩於6.25美元附近，01:28短線拉昇，在美股收盤之前一度突破6.40美元關口。現貨鉑金漲3.27%，報1719.67美元/盎司，走勢與現貨金銀類似；現貨鈀金漲4.59%，報1273累1美元/盎司，亞太盤初微跌、07:19重新整理日低至1210.09美元，08:15轉漲——日內大部分時間窄幅交投於1250美元附近，也在01:28出現一波短線加速上漲行情，03:30重新整理日高至1287.20美元。
 
 ---

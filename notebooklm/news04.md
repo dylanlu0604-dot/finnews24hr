@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-19 05:01:36_
-_本檔包含 3866 則快訊，約 706921 字_
+_更新時間：2026-06-19 05:50:50_
+_本檔包含 3859 則快訊，約 707324 字_
+
+---
+
+### 2026-06-15 21:28:39  #Trading Economics #Economy #United States #Capacity Utilization #Importance 1
+
+US Capacity Utilization Edges Up — US capacity utilization rose to 76.2% in May 2026, up from 76.1% in February and in line with market expectations. Manufacturing utilization remained largely unchanged at 75.7%, remaining below its long-run averge of 78.2%. Mining utilization rose to 86.5%, 1.3 percentage points above its long-run average, while the rate for utilities fell to 70.6%, remained substantially below its long-run average, at 13.4 percentage points lower. Meanwhile, the operating rate for mining increased by 1.2 percentage points to 86.5%, while the utilities operating rate declined to 70.6%.
+
+---
+
+### 2026-06-15 21:27:38  #央行 #國際
+
+【美國製造業產出今年以來首次陷入停滯】美國5月份製造業產出陷入停滯，結束了此前連續四個月的增長勢頭，這表明伊朗戰爭導致的供應鏈擾亂以及成本飆升，可能開始對製造業活動構成壓力。美聯儲週一公佈的資料顯示，5月份製造業產出基本持平，而4月份資料經上修後為增長0.7%。此前彭博調查的經濟學家預期中值為增長0.3%。包括公用事業和採礦業在內的整體工業產值則增長0.1%。
+
+---
+
+### 2026-06-15 21:27:26  #國際
+
+馮德萊恩：歐洲需打造自主的人工智慧基礎設施與產業佈局。
+
+---
+
+### 2026-06-15 21:27:10  #其他
+
+馮德萊恩：將於週三與法國簽署 SAFE 相關協議。
+
+---
+
+### 2026-06-15 21:26:53  #其他
+
+馮德萊恩：將與法國簽署 SAFE 框架下的國防貸款協議。
+
+---
+
+### 2026-06-15 21:26:27  #國際
+
+馮德萊恩：歐盟與法國將透過安全計劃簽署150億歐元的國防貸款。
+
+---
+
+### 2026-06-15 21:26:26  #MKT News #Market Regions #Europe & UK
+
+European Commission President Von der Leyen said the EU and France will sign a €15 billion defence loan under a security plan.
+
+---
+
+### 2026-06-15 21:25:59  #市場 #國際
+
+【中國工商銀行積極支援“出口中國”德國專場活動】近日，由中國商務部和德國工商大會共同舉辦，中國工商銀行支援的“出口中國”德國專場活動在柏林成功舉行。本場活動是“共享大市場·出口中國”在歐盟舉辦的首場活動。商務部副部長兼國際貿易談判副代表凌激、德國聯邦經濟與能源部國務秘書斯特芬、中國工商銀行副行長張偉武出席活動並致辭，中德兩國約80名企業代表參加並現場對接洽談。活動期間，中國工商銀行釋出了有關金融支援舉措。本次活動聚焦德國企業開拓中國市場、深化中德經貿合作，並圍繞“共享大市場·出口中國”系列活動和第九屆中國國際進口博覽會開展專題推介。中國工商銀行依託其釋出的支援“出口中國”全面金融解決方案（CFS），深化“全鏈條、全方位、全場景”服務體系，助力包括德國在內的全球客商深耕中國市場、共享發展機遇。提供全鏈條金融服務，打通跨境結算、貿易融資、匯率避險、現金管理全流程，覆蓋企業出口簽約、履約、回款等全週期金融需求；築牢全方位保障體系，充分發揮人民幣清算行、工銀全球付等核心優勢，最佳化跨境清算服務；深化全場景對接賦能，依託中歐企業聯盟、“一帶一路”銀行間合作機制等國際合作平臺，為各國企業共享中國市場機遇提供堅實保障。中國工商銀行法蘭克福分行釋出了專項金融支援舉措，適配德國企業特色需求，助力更多德國優質產品出口中國、暢銷中國。（中國工商銀行）
+
+---
+
+### 2026-06-15 21:24:58  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+European Council President Costa said there is broad consensus to accelerate the EU enlargement process.
+
+---
+
+### 2026-06-15 21:24:47  #Trading Economics #Economy #United States #Manufacturing Production MoM #Importance 1
+
+US Manufacturing Output Stalls in May — Manufacturing output in the United States was unchanged in May, missing market expectations for a 0.3% rise, following an upwardly revised 0.7% increase in April. Production of durable goods rose 0.8%, with output increasing in almost all categories. Within durables, the indexes for wood products, nonmetallic mineral products, primary metals, and motor vehicles and parts each grew by more than 1%. Production of nondurable goods fell 0.9% in May, with declines across almost all categories. Capacity utilization in manufacturing was unchanged in May at 75.7%, a level 2.5 percentage points below its long-run average (1972–2025).
+
+---
+
+### 2026-06-15 21:24:43  #公司
+
+【ST長園：擬與格力供應鏈開展2億元供應鏈採購業務合作】ST長園公告稱，公司及全資子公司珠海運泰利擬與格力供應鏈簽署《合作框架協議》，開展供應鏈採購業務合作。格力供應鏈擬向珠海運泰利提供不超2億元的可迴圈使用採購業務額度，公司為珠海運泰利履行協議義務提供連帶責任擔保。格力供應鏈與公司具有關聯關係，本次交易構成關聯交易，需提交股東會審議。過去12個月，公司與關聯方還有保理融資、房屋租賃等交易。
+
+---
+
+### 2026-06-15 21:24:18  #MKT News #Important #Market Regions #Europe & UK
+
+European Commission President Von der Leyen said Iran must fundamentally change its behavior before the EU can lift any sanctions.
+
+---
+
+### 2026-06-15 21:23:44  #MKT News
+
+Interfax reported a fighter jet crashed during a training flight; the crew survived.
+
+---
+
+### 2026-06-15 21:23:33  #國際
+
+馮德萊恩表示，在任何歐盟制裁解除之前，伊朗必須從根本上改變其行為。
+
+---
+
+### 2026-06-15 21:22:48  #國際
+
+俄羅斯國防部證實一架戰略轟炸機在伊爾庫茨克地區墜毀。
+
+---
+
+### 2026-06-15 21:22:48  #MKT News
+
+Interfax reports the Russian Defence Ministry confirmed a strategic bomber crashed in the Irkutsk region.
+
+---
+
+### 2026-06-15 21:21:20  #公司
+
+【西藏旅遊：擬延長魯朗花海牧場景區提升改造專案實施期限】西藏旅遊公告稱，2026年6月12日公司召開董事會，擬將魯朗花海牧場景區提升改造專案實施期限從2026年10月延長至2027年10月。該專案擬使用募集資金4200萬元，截至2026年5月31日，累計投入191.50萬元，投資進度4.56%。延期原因是受國道G318提質改造封閉施工等影響，景區短期內不具備正常車輛出入及遊客接待條件。此次延期不屬實質性變更，不影響公司正常經營，尚需股東會審議。
+
+---
+
+### 2026-06-15 21:21:11  #公司
+
+【Anthropic遭使用者起訴涉嫌誇大訂閱使用額度】據報道，一名消費者要求Anthropic向其最高檔訂閱計劃使用者進行賠償，並在一項新訴訟中指控公司誇大了所提供的使用額度。訴訟稱，Anthropic在其Max 5x和Max 20x訂閱計劃的使用限制方面誤導消費者。Anthropic的Claude面向個人使用者最便宜的Pro訂閱月費為17至20美元，而Max 5x月費為100美元，Max 20x月費則為200美元。訴訟稱，Anthropic宣傳Max 5x和Max 20x計劃分別擁有Pro計劃5倍和20倍的使用額度，但實際額度難以確定且似乎遠低於宣傳水平。該訴訟尋求代表自去年4月以來購買上述套餐的使用者獲得集體訴訟資格。
+
+---
+
+### 2026-06-15 21:20:51  #MKT News
+
+【Anthropic sued over alleged overstatement of Claude subscription usage limits】A consumer has filed suit seeking damages and class-action status against Anthropic, alleging the company misrepresented usage limits for its Claude subscription tiers, the Wall Street Journal reports. The complaint says Anthropic marketed Max 5x and Max 20x plans as offering 5x and 20x the usage of the Pro plan, but actual limits are unclear and appear materially lower. Pro costs $17–20/month; Max 5x is $100/month and Max 20x is $200/month. The plaintiff seeks to represent users who bought those plans since April last year.
 
 ---
 
@@ -23231,161 +23345,5 @@ Syria's president said reports that Syria intervened in Lebanon are unfounded.
 ### 2026-06-14 00:01:44  #MKT News
 
 【Trump to hold bilateral meetings with Middle East partners, India at G7 in France — US officials】President Trump will hold bilateral meetings next week during the G7 leaders' summit in France with leaders from France, Qatar, the UAE, Egypt and India, senior US officials said. Officials said Trump is expected to focus on economic development and security, supply‑chain resilience, artificial intelligence, regulatory simplification and energy abundance.
-
----
-
-### 2026-06-13 23:59:37  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars news agency reported Iran's foreign ministry spokesman said Iran will require payment for services provided in the Strait of Hormuz.
-
----
-
-### 2026-06-13 23:56:34  #國際
-
-俄羅斯通訊社：俄羅斯聯邦武裝部隊在特種軍事行動的各個戰線上均取得進展；敵人無法遏制此次攻勢，轉而採取恐怖主義手段。
-
----
-
-### 2026-06-13 23:56:05  #國際
-
-肯尼迪中心向美國法官表示，所有提及特朗普的內容已從其建築及網站上刪除。
-
----
-
-### 2026-06-13 23:51:34  #其他
-
-【澳大利亞羽毛球公開賽：國羽提前鎖定混雙冠亞軍】2026年澳大利亞羽毛球公開賽13日在悉尼展開各單項半決賽爭奪，國羽組合馮彥哲/黃東萍和郭新娃/陳芳卉分別戰勝各自對手，提前鎖定混雙冠亞軍。
-
----
-
-### 2026-06-13 23:50:28  #國際
-
-美國國務卿魯比奧：美國男足迎來精彩且具有歷史意義的一晚！我有幸和七萬餘名球迷一同觀看2026年世界盃在美國舉辦的首場賽事。
-
----
-
-### 2026-06-13 23:49:47  #MKT News
-
-【Pakistan foreign ministry: US-Iran agreement electronic signing ceremony set for 14th】Pakistan's foreign ministry said on June 13 Deputy Prime Minister and Foreign Minister Ishaq Dar spoke by phone with Saudi Foreign Minister Faisal and that an electronic signing ceremony for a US-Iran agreement is scheduled for the 14th. Both ministers welcomed talks entering a final stage and said the e-signing could help promote durable regional peace and stability. Faisal praised Pakistan's mediation support.
-
----
-
-### 2026-06-13 23:47:45  #MKT News #Brent #WTI
-
-Fars News Agency: an Iranian foreign ministry spokesman said Iran's measures to ensure safe navigation in the Strait of Hormuz are consistent with safeguarding national security and the international community's common interests.
-
----
-
-### 2026-06-13 23:47:03  #MKT News
-
-According to Fars News Agency, Iran's foreign ministry spokesman said foreign bases and military presence in the region must end.
-
----
-
-### 2026-06-13 23:46:43  #國際
-
-【巴基斯坦外交部：美伊協議電子簽署儀式14日舉行】巴基斯坦外交部13日發表宣告說，巴基斯坦副總理兼外交部長達爾當天與沙烏地阿拉伯外交大臣費薩爾通電話。美國與伊朗相關協議電子簽署儀式定於明日舉行。宣告說，兩國外長對美國與伊朗談判進入最後階段表示歡迎，相關協議電子簽署儀式定於明日舉行。雙方期待這一重要進展有助於促進該地區的持久和平與穩定。宣告表示，費薩爾讚賞巴基斯坦在整個過程中為支援調解和對話作出的不懈努力。（新華社）
-
----
-
-### 2026-06-13 23:46:29  #MKT News #Important
-
-Fars News Agency reported Iran’s Foreign Ministry spokesman said releasing Iran’s frozen funds is an important part of the agreement.
-
----
-
-### 2026-06-13 23:46:01  #MKT News
-
-French presidential office said Macron will host a dinner at the Palace of Versailles on Wednesday for U.S. President Trump.
-
----
-
-### 2026-06-13 23:45:43  #國際
-
-【伊朗議員對伊美之間擬定的諒解備忘錄內容提出批評】伊朗議會國家安全委員會強硬派議員馬哈茂德·納巴維安對伊美之間擬定的諒解備忘錄內容提出批評。他表示，解除制裁、美軍撤離以及取消封鎖等事宜，均被推遲至最終協議階段再敲定。他補充稱，根據這份擬議檔案，伊朗鈾濃縮活動將維持現有水平，而在他看來這等同於“零濃縮”。納巴維安還表示，該檔案要求伊朗為重新開放霍爾木茲海峽創造條件，允許所有商船無障礙通行。他同時抨擊協議中的另一項條款，稱美國四十七年以來一直干涉伊朗內政，而伊朗始終堅持互不干涉內政的原則。
-
----
-
-### 2026-06-13 23:29:59  #其他
-
-【部分地區將有暴雨大暴雨 福建啟動防汛Ⅳ級應急響應】記者從福建省防汛抗旱指揮部瞭解到，6月13日夜裡至14日白天，福建南平、三明、龍巖、漳州、廈門和寧德六市的大部，福州、泉州、莆田部分地區有暴雨或大暴雨，24小時累計雨量50—120毫米，區域性可達200毫米，最大小時雨量90毫米。福建省防指於6月13日20時啟動防汛Ⅳ級應急響應。福建省要求各地各有關部門密切關注強降雨影響，紮實做好應對工作。（央視新聞）
-
----
-
-### 2026-06-13 23:29:02  #焦點 #國際
-
-據伊朗媒體報道，伊朗國家安全委員會副主席納博揚13日說，根據他看過的伊朗和美國諒解備忘錄文字，霍爾木茲海峽所有商船將恢復通行，不受任何限制。
-
----
-
-### 2026-06-13 23:26:19  #國際
-
-伊朗外交部發言人：伊朗採取措施管理霍爾木茲海峽的安全通行，以保護國家安全和國際社會的共同利益。
-
----
-
-### 2026-06-13 23:23:46  #焦點 #國際
-
-伊朗外交部發言人表示，釋放伊朗凍結資金是協議不可分割的一部分。
-
----
-
-### 2026-06-13 23:23:32  #焦點 #國際
-
-伊朗外交部發言人表示，外國基地和軍事力量在該地區的存在必須結束。
-
----
-
-### 2026-06-13 23:23:25  #國際
-
-【伊方認為特朗普精神狀態不佳 在談判團隊中增派資深心理專家】伊朗方面在談判團隊中增派資深心理專家，相關資訊經由中間人轉交特朗普前，都會先由這些專家進行研判。伊方認為特朗普精神狀態不佳，為此還梳理出其心理特徵，用以調整溝通方式。伊方表示，這套做法讓談判有所進展，整個過程如同專業診療一般。
-
----
-
-### 2026-06-13 23:21:53  #國際
-
-【卡尼：美國欲避免就貿易協定舉行國會投票】加拿大總理馬克・卡尼表示，特朗普政府官員已明確表態，不希望透過修改北美自由貿易協定的 “核心架構” 來觸發國會投票。《美墨加協定》（USMCA）的三個成員國目前正就各類貿易摩擦舉行獨立雙邊談判，各方均無意對現有協定進行全面修改。卡尼稱，加美貿易官員之間的磋商仍在進行，加拿大部長多米尼克・勒布朗與美國貿易代表賈米森・格里爾已在多項議題上取得積極進展。
-
----
-
-### 2026-06-13 23:17:45  #焦點 #國際
-
-伊朗外交部發言人表示，伊朗將對霍爾木茲海峽相關通行服務收取費用。
-
----
-
-### 2026-06-13 23:14:52  #國際
-
-【伊朗外交部：未來一兩天內暫無出訪計劃】伊朗外交部發言人巴加埃當地時間13日表示，未來幾天內完成伊美諒解備忘錄的可能性較高。諒解備忘錄具體簽署時間仍需等待確認。不過在接下來一兩天內，伊朗方面沒有前往日內瓦或其他地點的計劃。
-
----
-
-### 2026-06-13 23:10:10  #國際
-
-法國總統馬克龍辦公室稱，馬克龍將於週三在凡爾賽宮設宴接待美國總統特朗普。
-
----
-
-### 2026-06-13 23:09:58  #國際
-
-【Anthropic關閉Mythos外國公民訪問】美國政府以國家安全為由，命令Anthropic禁止所有外國公民訪問其Fable 5與Mythos 5模型。Anthropic發現Fable 5存在潛在“越獄”風險後，已切斷所有客戶對這兩個系統的訪問，以確保合規。此舉可能為所有主流AI模型開發商開創先例，引發了憲法層面與商業層面的擔憂，同時加劇了Anthropic與特朗普政府之間的緊張關係。
-
----
-
-### 2026-06-13 23:09:19  #國際
-
-【扎波羅熱核電站說烏軍襲擊核電站運輸車間】扎波羅熱核電站新聞處13日在社交媒體上釋出通報說，烏克蘭武裝部隊當天對該核電站運輸車間發動襲擊，造成3輛汽車、車間加油泵和建築物玻璃窗受損。通報沒有說明遭到何種方式的襲擊。通報說，此次襲擊未造成人員傷亡。扎波羅熱核電站各系統運轉正常，核電站和周邊區域輻射指標處於正常水平。（新華社）
-
----
-
-### 2026-06-13 23:08:17  #其他
-
-希臘總理米佐塔基斯：希望與土耳其建立正常運轉、富有建設性的雙邊關係。地緣格局決定了兩國必須比鄰而居，但我也不會抱有不切實際的幻想。希土兩國存在一大分歧，即愛琴海與東地中海海域劃界問題。對於土耳其提出的其他相關主張，雙方一概不予承認。這些主張完全缺乏依據，歷任希臘總理都不會就此展開討論或談判。我方將繼續強化本國武裝力量，目前軍隊狀態堪稱歷史最佳。我們必須打造強大的威懾能力，併力爭在各方面形成質量優勢。
-
----
-
-### 2026-06-13 23:07:02  #MKT News
-
-【Iran foreign ministry says no outbound travel planned in next one to two days】Iran foreign ministry spokesperson BAGHAEI said on the 13th the timing for signing an Iran‑US memorandum of understanding remains undecided, and no outbound travel is planned in the next one to two days.
 
 ---

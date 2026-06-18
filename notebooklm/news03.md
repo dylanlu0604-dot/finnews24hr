@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-19 05:01:36_
-_本檔包含 3874 則快訊，約 707159 字_
+_更新時間：2026-06-19 05:50:50_
+_本檔包含 3879 則快訊，約 707878 字_
+
+---
+
+### 2026-06-17 05:27:41  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
+
+US Crude Inventories Fall More Than Expected — US crude oil inventories fell by 8.33 million barrels in the week ended June 12, exceeding expectations for a 4.5 million-barrel draw. This followed a 9.12 million-barrel decline in the previous week. Despite inventories falling by about 52 million barrels over the past nine weeks, US crude stockpiles are down just 1.4 million barrels since the start of the year. Inventories in the SPR also continued to decline, dropping by 8.9 million barrels to 340.3 million, leaving stocks 385 million barrels below maximum capacity. Meanwhile, inventories at the Cushing hub fell by 1.52 million barrels after declining by 1.13 million barrels the previous week. US crude production rose to 13.80 million barrels per day in the week ended June 5, up from 13.71 million bpd a week earlier. Gasoline inventories rose by 2.48 million barrels, reversing the prior week's 1.19 million-barrel decline, while distillate stockpiles fell by 461,000 barrels after rising by 1.3 million barrels in the previous week.
+
+---
+
+### 2026-06-17 05:17:58  #MKT News
+
+【FBI foils plot targeting fight on White House South Lawn】On the 16th U.S. law enforcement said the FBI and partner agencies thwarted an alleged plot to attack a fight held on the White House South Lawn on the 14th. As of the 15th five people had been detained and investigators had identified 23 suspected participants. Authorities say the suspects allegedly planned to use explosive‑laden drones against buildings near the event to force a mass evacuation and funnel the crowd toward pre‑positioned sniper teams, and had plotted a second‑wave assault on the White House gates.
+
+---
+
+### 2026-06-17 05:17:26  #MKT News #Market Themes #AI Revolution
+
+According to The Information, OpenAI told the Trump administration that foreign talent is vital to U.S. AI development.
+
+---
+
+### 2026-06-17 05:15:36  #市場
+
+富時A50期指連續夜盤收跌0.24%，報15623點。
+
+---
+
+### 2026-06-17 05:11:58  #國際
+
+【共和黨警告特朗普政府或面臨“停擺”，因民主黨反對五角大樓大幅增支】美國參議院共和黨人指責民主黨人拒絕為9月30日之後的政府機構提供資金，藉此施壓以推動在中期選舉前推進陷入停滯的年度支出法案。參議院多數黨領袖約翰·圖恩（John Thune，南達科他州共和黨人）說：“參議院民主黨領導人舒默和民主黨人最想要的就是再次政府停擺。民主黨人不想在正常的撥款程式上配合。”
+
+---
+
+### 2026-06-17 05:09:36  #市場
+
+【現貨黃金漲約0.5%，白銀持平，鉑金漲2%】週二（6月16日）紐約尾盤，現貨黃金漲0.48%，報4332.23美元/盎司，亞太盤初以來持續走高，北京時間20:59重新整理日高至4354.88美元，隨後在22:34回落至逼近4313美元。COMEX黃金期貨漲0.08%，報4355.20美元/盎司。現貨白銀大致持平，報69.9850美元/盎司，日內交投區間為69.0730-71.1951美元，21:00重新整理日高。COMEX白銀期貨大致持平，報70.160美元/盎司，21:00曾達到71.310美元。COMEX銅期貨跌0.11%，報6.5510美元/磅。現貨鉑金漲2.02%，現貨鈀金漲0.75%。
+
+---
+
+### 2026-06-17 05:09:26  #其他
+
+西太平洋銀行：紐西蘭二季度消費者信心下滑至80.4，創三年新低。
+
+---
+
+### 2026-06-17 05:09:21  #市場
+
+週二（6月16日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7566元，較週一紐約尾盤漲27點，日內整體交投於6.7635-6.7551元區間。
+
+---
+
+### 2026-06-17 04:56:11  #市場
+
+【現貨黃金漲約0.5%，白銀持平，鉑金漲2%】週二（6月16日）紐約尾盤，現貨黃金漲0.48%，報4332.23美元/盎司，亞太盤初以來持續走高，北京時間20:59重新整理日高至4354.88美元，隨後在22:34回落至逼近4313美元。COMEX黃金期貨漲0.08%，報4355.20美元/盎司。現貨白銀大致持平，報69.9850美元/盎司，日內交投區間為69.0730-71.1951美元，21:00重新整理日高。COMEX白銀期貨大致持平，報70.160美元/盎司，21:00曾達到71.310美元。COMEX銅期貨跌0.11%，報6.5510美元/磅。現貨鉑金漲2.02%，現貨鈀金漲0.75%。
+
+---
+
+### 2026-06-17 04:55:29  #公司
+
+Kalshi因向谷歌、LinkedIn披露使用者活動而被起訴。
+
+---
+
+### 2026-06-17 04:48:31  #MKT News #Commodities #Energy
+
+Sources say ExxonMobil will supply LNG to South Africa to help reduce South Africa's dependence on coal.
+
+---
+
+### 2026-06-17 04:44:37  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O) may be sued by the US Federal Trade Commission for allegedly misleading advertisers and could face multibillion-dollar civil fines, sources said.
+
+---
+
+### 2026-06-17 04:38:28  #國際
+
+【巴西最高法院裁定愛德華多·博索納羅因尋求美國干預其父政變案審判罪名成立】巴西最高法院合議庭多數法官投票裁定，愛德華多·博索納羅（Eduardo Bolsonaro）因在其父親（前總統）的政變陰謀案審判期間尋求美國干預，罪名成立。該合議庭的四名法官中，已有三人投票裁定愛德華多·博索納羅罪名成立。合議庭中僅剩最後一名法官尚未進行投票。
+
+---
+
+### 2026-06-17 04:38:00  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Brazil Shares Fall Ahead of BCB Decision — The Ibovespa fell 0.4% to close at 169,648 on Tuesday as investors assessed fresh election polls and rising inflation expectations. A BTG/Nexus survey released on Monday showed President Lula holding a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation increased for the 14th consecutive week, prompting markets to reassess how long the BCB may keep interest rates elevated. Most sectors ended lower. Financial stocks traded mixed amid concerns that higher borrowing costs could weigh on lending activity, with Bradesco falling 0.7%. Petrobras also pressured the index, declining 1.3% as optimism surrounding a preliminary US-Iran peace agreement raised the prospect of the Strait of Hormuz remaining open.
+
+---
+
+### 2026-06-17 04:36:44  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API crude oil production change for week to June 12: -17,000 b/d, prior +262,000 b/d.
+
+---
+
+### 2026-06-17 04:36:33  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Jun.12) | actual -17000M | previous 262000M
+
+---
+
+### 2026-06-17 04:36:30  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US API petroleum product imports for week to June 12: -121,000 b/d, prior -51,000 b/d.
+
+---
+
+### 2026-06-17 04:36:23  #其他
+
+KBRA指數顯示，私人信用市場違約率創2023年3月份以來最高。
+
+---
+
+### 2026-06-17 04:36:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US API crude oil imports for the week ended June 12: -276,000 bbl; prior -358,000 bbl.
+
+---
+
+### 2026-06-17 04:36:21  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports Change (Jun.12) | actual -121000M | previous -51000M
+
+---
+
+### 2026-06-17 04:36:14  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports Change (Jun.12) | actual -276000M | previous -358000M
+
+---
+
+### 2026-06-17 04:36:05  #焦點 #國際
+
+美國至6月12日當週API原油庫存 -833萬桶，預期-451.5萬桶，前值-911.9萬桶。
+
+---
+
+### 2026-06-17 04:36:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API: U.S. heating oil inventories fell 125,000 barrels in the week to June 12, versus a 407,000‑barrel draw the prior week.
+
+---
+
+### 2026-06-17 04:35:56  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+US API Cushing crude stocks -1.523 mln barrels in week to June 12; prior -1.125 mln barrels.
 
 ---
 
@@ -23232,119 +23376,5 @@ Bahrain's foreign ministry welcomed a US-Iran memorandum of understanding on neg
 ### 2026-06-15 21:28:49  #MKT News
 
 【Iran foreign ministry says final Iran-US agreement must be confirmed by UN Security Council resolution】Baghaei said at a press briefing on the 15th that an Iran-US ceasefire memorandum of understanding has been finalized. Iran will publish the full text and an explanatory summary on the day the document is signed. After an expected roughly 60-day negotiation period, any comprehensive agreement must be registered and confirmed as a legally binding, enforceable UN Security Council resolution, Baghaei said.
-
----
-
-### 2026-06-15 21:28:39  #Trading Economics #Economy #United States #Capacity Utilization #Importance 1
-
-US Capacity Utilization Edges Up — US capacity utilization rose to 76.2% in May 2026, up from 76.1% in February and in line with market expectations. Manufacturing utilization remained largely unchanged at 75.7%, remaining below its long-run averge of 78.2%. Mining utilization rose to 86.5%, 1.3 percentage points above its long-run average, while the rate for utilities fell to 70.6%, remained substantially below its long-run average, at 13.4 percentage points lower. Meanwhile, the operating rate for mining increased by 1.2 percentage points to 86.5%, while the utilities operating rate declined to 70.6%.
-
----
-
-### 2026-06-15 21:27:38  #央行 #國際
-
-【美國製造業產出今年以來首次陷入停滯】美國5月份製造業產出陷入停滯，結束了此前連續四個月的增長勢頭，這表明伊朗戰爭導致的供應鏈擾亂以及成本飆升，可能開始對製造業活動構成壓力。美聯儲週一公佈的資料顯示，5月份製造業產出基本持平，而4月份資料經上修後為增長0.7%。此前彭博調查的經濟學家預期中值為增長0.3%。包括公用事業和採礦業在內的整體工業產值則增長0.1%。
-
----
-
-### 2026-06-15 21:27:26  #國際
-
-馮德萊恩：歐洲需打造自主的人工智慧基礎設施與產業佈局。
-
----
-
-### 2026-06-15 21:27:10  #其他
-
-馮德萊恩：將於週三與法國簽署 SAFE 相關協議。
-
----
-
-### 2026-06-15 21:26:53  #其他
-
-馮德萊恩：將與法國簽署 SAFE 框架下的國防貸款協議。
-
----
-
-### 2026-06-15 21:26:27  #國際
-
-馮德萊恩：歐盟與法國將透過安全計劃簽署150億歐元的國防貸款。
-
----
-
-### 2026-06-15 21:26:26  #MKT News #Market Regions #Europe & UK
-
-European Commission President Von der Leyen said the EU and France will sign a €15 billion defence loan under a security plan.
-
----
-
-### 2026-06-15 21:25:59  #市場 #國際
-
-【中國工商銀行積極支援“出口中國”德國專場活動】近日，由中國商務部和德國工商大會共同舉辦，中國工商銀行支援的“出口中國”德國專場活動在柏林成功舉行。本場活動是“共享大市場·出口中國”在歐盟舉辦的首場活動。商務部副部長兼國際貿易談判副代表凌激、德國聯邦經濟與能源部國務秘書斯特芬、中國工商銀行副行長張偉武出席活動並致辭，中德兩國約80名企業代表參加並現場對接洽談。活動期間，中國工商銀行釋出了有關金融支援舉措。本次活動聚焦德國企業開拓中國市場、深化中德經貿合作，並圍繞“共享大市場·出口中國”系列活動和第九屆中國國際進口博覽會開展專題推介。中國工商銀行依託其釋出的支援“出口中國”全面金融解決方案（CFS），深化“全鏈條、全方位、全場景”服務體系，助力包括德國在內的全球客商深耕中國市場、共享發展機遇。提供全鏈條金融服務，打通跨境結算、貿易融資、匯率避險、現金管理全流程，覆蓋企業出口簽約、履約、回款等全週期金融需求；築牢全方位保障體系，充分發揮人民幣清算行、工銀全球付等核心優勢，最佳化跨境清算服務；深化全場景對接賦能，依託中歐企業聯盟、“一帶一路”銀行間合作機制等國際合作平臺，為各國企業共享中國市場機遇提供堅實保障。中國工商銀行法蘭克福分行釋出了專項金融支援舉措，適配德國企業特色需求，助力更多德國優質產品出口中國、暢銷中國。（中國工商銀行）
-
----
-
-### 2026-06-15 21:24:58  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
-
-European Council President Costa said there is broad consensus to accelerate the EU enlargement process.
-
----
-
-### 2026-06-15 21:24:47  #Trading Economics #Economy #United States #Manufacturing Production MoM #Importance 1
-
-US Manufacturing Output Stalls in May — Manufacturing output in the United States was unchanged in May, missing market expectations for a 0.3% rise, following an upwardly revised 0.7% increase in April. Production of durable goods rose 0.8%, with output increasing in almost all categories. Within durables, the indexes for wood products, nonmetallic mineral products, primary metals, and motor vehicles and parts each grew by more than 1%. Production of nondurable goods fell 0.9% in May, with declines across almost all categories. Capacity utilization in manufacturing was unchanged in May at 75.7%, a level 2.5 percentage points below its long-run average (1972–2025).
-
----
-
-### 2026-06-15 21:24:43  #公司
-
-【ST長園：擬與格力供應鏈開展2億元供應鏈採購業務合作】ST長園公告稱，公司及全資子公司珠海運泰利擬與格力供應鏈簽署《合作框架協議》，開展供應鏈採購業務合作。格力供應鏈擬向珠海運泰利提供不超2億元的可迴圈使用採購業務額度，公司為珠海運泰利履行協議義務提供連帶責任擔保。格力供應鏈與公司具有關聯關係，本次交易構成關聯交易，需提交股東會審議。過去12個月，公司與關聯方還有保理融資、房屋租賃等交易。
-
----
-
-### 2026-06-15 21:24:18  #MKT News #Important #Market Regions #Europe & UK
-
-European Commission President Von der Leyen said Iran must fundamentally change its behavior before the EU can lift any sanctions.
-
----
-
-### 2026-06-15 21:23:44  #MKT News
-
-Interfax reported a fighter jet crashed during a training flight; the crew survived.
-
----
-
-### 2026-06-15 21:23:33  #國際
-
-馮德萊恩表示，在任何歐盟制裁解除之前，伊朗必須從根本上改變其行為。
-
----
-
-### 2026-06-15 21:22:48  #國際
-
-俄羅斯國防部證實一架戰略轟炸機在伊爾庫茨克地區墜毀。
-
----
-
-### 2026-06-15 21:22:48  #MKT News
-
-Interfax reports the Russian Defence Ministry confirmed a strategic bomber crashed in the Irkutsk region.
-
----
-
-### 2026-06-15 21:21:20  #公司
-
-【西藏旅遊：擬延長魯朗花海牧場景區提升改造專案實施期限】西藏旅遊公告稱，2026年6月12日公司召開董事會，擬將魯朗花海牧場景區提升改造專案實施期限從2026年10月延長至2027年10月。該專案擬使用募集資金4200萬元，截至2026年5月31日，累計投入191.50萬元，投資進度4.56%。延期原因是受國道G318提質改造封閉施工等影響，景區短期內不具備正常車輛出入及遊客接待條件。此次延期不屬實質性變更，不影響公司正常經營，尚需股東會審議。
-
----
-
-### 2026-06-15 21:21:11  #公司
-
-【Anthropic遭使用者起訴涉嫌誇大訂閱使用額度】據報道，一名消費者要求Anthropic向其最高檔訂閱計劃使用者進行賠償，並在一項新訴訟中指控公司誇大了所提供的使用額度。訴訟稱，Anthropic在其Max 5x和Max 20x訂閱計劃的使用限制方面誤導消費者。Anthropic的Claude面向個人使用者最便宜的Pro訂閱月費為17至20美元，而Max 5x月費為100美元，Max 20x月費則為200美元。訴訟稱，Anthropic宣傳Max 5x和Max 20x計劃分別擁有Pro計劃5倍和20倍的使用額度，但實際額度難以確定且似乎遠低於宣傳水平。該訴訟尋求代表自去年4月以來購買上述套餐的使用者獲得集體訴訟資格。
-
----
-
-### 2026-06-15 21:20:51  #MKT News
-
-【Anthropic sued over alleged overstatement of Claude subscription usage limits】A consumer has filed suit seeking damages and class-action status against Anthropic, alleging the company misrepresented usage limits for its Claude subscription tiers, the Wall Street Journal reports. The complaint says Anthropic marketed Max 5x and Max 20x plans as offering 5x and 20x the usage of the Pro plan, but actual limits are unclear and appear materially lower. Pro costs $17–20/month; Max 5x is $100/month and Max 20x is $200/month. The plaintiff seeks to represent users who bought those plans since April last year.
 
 ---
