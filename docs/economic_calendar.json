@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-18 15:29:28",
+  "updated": "2026-06-18 15:33:26",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 432,
+  "count": 433,
   "history_summary": {
     "cached": 432,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 267,
+      "count": 268,
       "dates": [
         {
           "date": "2026-06-15",
@@ -9836,7 +9836,7 @@
         },
         {
           "date": "2026-06-18",
-          "count": 68,
+          "count": 69,
           "events": [
             {
               "id": "capital:1175513",
@@ -11289,6 +11289,64 @@
               "history_checked_at": "2026-06-12 17:06:47"
             },
             {
+              "id": "capital:1175125",
+              "fid": "1175125",
+              "interval": "this_week",
+              "date": "2026-06-18",
+              "time": "15:30",
+              "datetime": "2026-06-18 15:30:00",
+              "display_time": "06/18 15:30",
+              "country": "印尼",
+              "title": "印尼至6月18日7天逆回購利率",
+              "importance": 1,
+              "previous": "5.5 %",
+              "forecast": "5.75 %",
+              "actual": "5.75 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175125",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/09",
+                  "actual": "5.5",
+                  "forecast": "-",
+                  "previous": "5.25"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "5.25",
+                  "forecast": "5",
+                  "previous": "4.75"
+                },
+                {
+                  "date": "04/22",
+                  "actual": "4.75",
+                  "forecast": "4.75",
+                  "previous": "4.75"
+                },
+                {
+                  "date": "03/17",
+                  "actual": "4.75",
+                  "forecast": "4.75",
+                  "previous": "4.75"
+                },
+                {
+                  "date": "02/19",
+                  "actual": "4.75",
+                  "forecast": "4.75",
+                  "previous": "4.75"
+                },
+                {
+                  "date": "01/21",
+                  "actual": "4.75",
+                  "forecast": "4.75",
+                  "previous": "4.75"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-18 15:33:24"
+            },
+            {
               "id": "capital:1168231",
               "fid": "1168231",
               "interval": "this_week",
@@ -11301,7 +11359,7 @@
               "importance": 2,
               "previous": "0 %",
               "forecast": "0 %",
-              "actual": "-- %",
+              "actual": "0 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168231",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36358,6 +36416,64 @@
       "history_checked_at": "2026-06-12 17:06:47"
     },
     {
+      "id": "capital:1175125",
+      "fid": "1175125",
+      "interval": "this_week",
+      "date": "2026-06-18",
+      "time": "15:30",
+      "datetime": "2026-06-18 15:30:00",
+      "display_time": "06/18 15:30",
+      "country": "印尼",
+      "title": "印尼至6月18日7天逆回購利率",
+      "importance": 1,
+      "previous": "5.5 %",
+      "forecast": "5.75 %",
+      "actual": "5.75 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1175125",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/09",
+          "actual": "5.5",
+          "forecast": "-",
+          "previous": "5.25"
+        },
+        {
+          "date": "05/20",
+          "actual": "5.25",
+          "forecast": "5",
+          "previous": "4.75"
+        },
+        {
+          "date": "04/22",
+          "actual": "4.75",
+          "forecast": "4.75",
+          "previous": "4.75"
+        },
+        {
+          "date": "03/17",
+          "actual": "4.75",
+          "forecast": "4.75",
+          "previous": "4.75"
+        },
+        {
+          "date": "02/19",
+          "actual": "4.75",
+          "forecast": "4.75",
+          "previous": "4.75"
+        },
+        {
+          "date": "01/21",
+          "actual": "4.75",
+          "forecast": "4.75",
+          "previous": "4.75"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-18 15:33:24"
+    },
+    {
       "id": "capital:1168231",
       "fid": "1168231",
       "interval": "this_week",
@@ -36370,7 +36486,7 @@
       "importance": 2,
       "previous": "0 %",
       "forecast": "0 %",
-      "actual": "-- %",
+      "actual": "0 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168231",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",

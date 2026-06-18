@@ -1,7 +1,318 @@
 {
-  "updated": "2026-06-18 15:29:23",
-  "count": 18881,
+  "updated": "2026-06-18 15:33:18",
+  "count": 18897,
   "items": [
+    {
+      "id": "4942757",
+      "time": "2026-06-18 15:32:22",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國汽油價格自3月以來首次跌破4美元。"
+    },
+    {
+      "id": "4942756",
+      "time": "2026-06-18 15:32:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達40億港元。"
+    },
+    {
+      "id": "4942755",
+      "time": "2026-06-18 15:32:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "瑞士央行：除中東局勢外，貿易政策環境仍存在不確定性。"
+    },
+    {
+      "id": "te:markets:559985",
+      "time": "2026-06-18 15:32:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.51% Lower — The FTSE 100 Index is losing 54 points. Losses were led by London Stock Exchange (-3.66%), Fresnillo (-2.99%) and Entain (-2.75%). Offsetting the fall, top gainers were Melrose (3.02%), Informa (2.31%) and International Airlines Group (0.95%)."
+    },
+    {
+      "id": "mkt:019ed9a4-cf30-7dd8-b070-fa9414d4092f",
+      "time": "2026-06-18 15:31:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Swiss National Bank says inflation growth is mainly attributable to higher petroleum-product prices."
+    },
+    {
+      "id": "mkt:019ed9a4-bf60-7dd8-b070-f42f82916b58",
+      "time": "2026-06-18 15:31:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed at 935.78 yuan/gram on Thursday, June 18, down 0.53%; Silver T+D closed at 16,425.0 yuan/kg, down 2.12%."
+    },
+    {
+      "id": "mkt:019ed9a4-af47-7dd8-b070-e906d9a97815",
+      "time": "2026-06-18 15:31:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "USD/CHF touched 0.8000, up 0.05% intraday."
+    },
+    {
+      "id": "mkt:019ed9a4-7fc2-7dd8-b070-e717b93dd04a",
+      "time": "2026-06-18 15:31:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "SNB says energy prices will be materially affected by further developments in the Middle East. Subdued global growth over the next few quarters may weigh on Swiss growth, while SNB monetary policy will have a supportive effect."
+    },
+    {
+      "id": "4942754",
+      "time": "2026-06-18 15:31:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國農業發展銀行行長張小東：完善與行業數字化程度相匹配的辦貸管貸流程】主題為“提高普惠金融的有效性與精準度”的2026陸家嘴論壇全體大會七6月18日舉行。中國農業發展銀行行長張小東表示，目前“三農”中有的細分領域數字化程度不高，有的細分領域屬於輕資產運營，缺乏充足的信用資料支撐，信用評估模型適配性不足。解決這一難題，一方面需要不斷提升行業數字化程度，夯實資料基礎，另一方面需要金融機構不斷完善與行業數字化程度相匹配的辦貸管貸流程。"
+    },
+    {
+      "id": "mkt:019ed9a4-4a22-7dd8-b070-dab0b89ad301",
+      "time": "2026-06-18 15:31:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank will continue to monitor developments and adjust monetary policy as necessary to ensure price stability."
+    },
+    {
+      "id": "mkt:019ed9a4-4922-7dd8-b070-d3e038c5d78d",
+      "time": "2026-06-18 15:31:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank projects Swiss GDP to expand about 1% in 2026 (previously 1%) and about 1.5% in 2027 (previously 1.5%)."
+    },
+    {
+      "id": "4942753",
+      "time": "2026-06-18 15:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通銀行行長張寶江：依託數字技術解決傳統普惠貸款“不可能三角”難題】主題為“提高普惠金融的有效性與精準度”的2026陸家嘴論壇全體大會七6月18日舉行。交通銀行行長張寶江表示，小微企業的風控問題很難迴避，需要依託資料賦能來解決。傳統普惠貸款有一個“不可能三角”，可得性、低成本和高質量三者不可兼得。對接客戶需求時，成本非常高，如果好好對接、好好調查，成本很高；如果潦草地做，風險控不住。不管是成本高還是風險控不住，最終都會影響可得性。透過數字技術，有可能解決這個問題。"
+    },
+    {
+      "id": "te:markets:559984",
+      "time": "2026-06-18 15:31:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.59% Higher — The DAX Index is up by 146 points or 0.59 percent on Thursday. Top gainers are Infineon (4.06%), Airbus (2.75%) and Siemens Energy (2.36%). Biggest losses came from Scout24 (-4.06%), BMW (-1.67%) and Mercedes-Benz AG (-1.64%)."
+    },
+    {
+      "id": "mkt:019ed9a4-1919-7dd8-b070-c97c07351f3a",
+      "time": "2026-06-18 15:31:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank projects inflation of 0.6% in 2026 (previously 0.5%) and 0.6% in 2027 (previously 0.5%)."
+    },
+    {
+      "id": "mkt:019ed9a3-ddca-7dd8-b070-c6d28914d8e9",
+      "time": "2026-06-18 15:30:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank says its willingness to intervene in foreign-exchange markets has increased."
+    },
+    {
+      "id": "4942750",
+      "time": "2026-06-18 15:30:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林省發展和改革委員會原一級巡視員田富英接受審查調查】中央紀委國家監委網站6月18日通報，據吉林省紀委監委訊息：吉林省發展和改革委員會原一級巡視員田富英涉嫌嚴重違紀違法，目前正接受吉林省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4942749",
+      "time": "2026-06-18 15:30:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【6月18日滬深兩市漲停分析】創業板指放量漲超2%再創歷史新高，科創50漲近4%，算力硬體概念全線爆發，中際旭創總市值超越貴州茅臺。旭光電子4連板，賢豐控股、江鎢裝備、艾華集團、中天精裝均3連板，一圖看懂>>"
+    },
+    {
+      "id": "4942748",
+      "time": "2026-06-18 15:30:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長表示：此次利率決定是一項預防性措施，旨在確保通脹在2027年之前始終維持在目標區間內。"
+    },
+    {
+      "id": "4942747",
+      "time": "2026-06-18 15:30:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【瑞士央行如期維持利率不變】瑞士央行將政策利率維持在0%不變，符合市場預期。"
+    },
+    {
+      "id": "te:markets:559983",
+      "time": "2026-06-18 15:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.54% Higher — The CAC 40 Index is gaining 46 points or 0.54 percent on Thursday. Leading the gains are Edenred (14.36%), Legrand (3.55%) and Airbus (2.76%). Top losers are Carrefour (-5.17%), TP (-1.33%) and Pernod Ricard (-1.31%)."
+    },
+    {
+      "id": "mkt:019ed9a3-46a4-7dd8-b070-bd8b1ff88331",
+      "time": "2026-06-18 15:30:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY"
+      ],
+      "text": "【Swiss National Bank holds policy rate at 0% as expected】Swiss National Bank held its policy rate at 0%, in line with market expectations."
+    },
+    {
+      "id": "4942746",
+      "time": "2026-06-18 15:30:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國在認證認可領域釋出國家標準113項 深度參與國際標準制修訂】記者今天從市場監管總局瞭解到，截至2026年4月，全國認證認可標準化技術委員會已經發布認證認可領域國家標準113項，覆蓋認證認可、檢驗檢測、實驗室管理等多個關鍵領域，同時實現合格評定相關國際標準100%轉化，構建起接軌國際、貼合國內實踐的合格評定標準技術體系。全國認證認可標委會目前已經深度融入國際合格評定標準治理體系，全面參與國際標準制修訂，主導制修訂的ISO/CASCO合格評定國際標準佔比28%，中國專家意見採納率達到90%以上，越來越多的中國實踐與經驗淬鍊為全球共識。我國逐步實現從國際標準規則參與者向貢獻者、引領者的轉變。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ed9a3-274b-7dd8-b070-b417fceaad89",
+      "time": "2026-06-18 15:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "Swiss National Bank policy rate 0.00% as of June 18; market expectation 0.00%, prior 0.00%."
+    },
+    {
+      "id": "mkt:019ed9a3-0bf1-7dd8-b070-af3b9ce1d453",
+      "time": "2026-06-18 15:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | SNB's Policy Rate (Jun.18) | actual 0% | consensus 0.00% | previous 0.00%"
+    },
+    {
+      "id": "mkt:019ed9a2-c611-7dd8-b070-a4175a1ec3ef",
+      "time": "2026-06-18 15:29:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Bank Indonesia hikes 7-day reverse repo 25bps as expected】Bank Indonesia raised the 7-day reverse repurchase rate by 25bps to 5.75%, in line with market expectations."
+    },
+    {
+      "id": "mkt:019ed9a2-b6f8-7dd8-b070-99fae8b2a215",
+      "time": "2026-06-18 15:29:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's 7-day reverse repo rate to June 18 5.75% (expected 5.75%; prior 5.50%)."
+    },
+    {
+      "id": "mkt:019ed9a2-95f6-7dd8-b070-95944f28d489",
+      "time": "2026-06-18 15:29:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Indonesia | 7-day Reverse Repo Rate (Jun.18) | actual 5.75% | consensus 5.75% | previous 5.50%"
+    },
+    {
+      "id": "4942745",
+      "time": "2026-06-18 15:29:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立中集團：參股企業山立新現擁有六氟磷酸鋰產能10000噸】立中集團6月18日在互動平臺表示，公司參股企業山東立中新能源材料有限公司（簡稱“山立新”）現擁有六氟磷酸鋰產能10000噸，隨著六氟磷酸鋰市場價格回升，疊加崑崙新材作為戰略投資者的引入，山立新產能利用率持續提升，相關業務收入和盈利水平持續向好。"
+    },
+    {
+      "id": "4942744",
+      "time": "2026-06-18 15:29:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行關鍵利率上調25基點至5.75%; 預估為5.75%。"
+    },
+    {
+      "id": "mkt:019ed9a2-480d-7dd8-b070-8827d4ef7cbe",
+      "time": "2026-06-18 15:29:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DAX",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【JP Morgan says oil pullback creates buying opportunity for European equities】JP Morgan Asset Management strategist Karen Ward says long-standing investor aversion to European equities now presents a buy opportunity. With oil back near early-war levels and AI-led gains lifting US and Asian markets, European stocks look relatively cheap. Valuation discounts versus the US have narrowed since last month as markets increasingly price a resolution to the conflict. Oil fell further on Thursday after US President Trump signed an interim agreement to end the war and reopen the Strait of Hormuz. Ward adds that if the Iran dispute recedes and a final deal lifts oil, Europe’s upside should be released as investors rotate away from US assets—fearing an AI peak—into international markets."
+    },
+    {
+      "id": "mkt:019ed9a2-3ebe-7dd8-b070-867a21d043b1",
+      "time": "2026-06-18 15:29:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Israeli media: military demands freedom of action across Lebanon】Israel’s military has demanded political leaders preserve the army’s freedom of action across Lebanon, retain buffer zones and insist on disarming Hezbollah in southern Lebanon."
+    },
+    {
+      "id": "4942743",
+      "time": "2026-06-18 15:28:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "空中客車(AIR.PA)股價上漲2.7%，觸及四個月高位，此前Kepler上調評級。"
+    },
     {
       "id": "te:economy:559981",
       "time": "2026-06-18 15:28:28",
@@ -173984,161 +174295,6 @@
         "MKT News"
       ],
       "text": "Borui Medicine said its wholly owned unit Borui Pharmaceutical Co.'s independently developed BGM0504 injection marketing application for a weight-loss indication has been accepted by the Center for Drug Evaluation of the National Medical Products Administration."
-    },
-    {
-      "id": "mkt:019eb599-1d9d-7dd8-afb7-4b7fa50a2630",
-      "time": "2026-06-11 15:32:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【MOFCOM reports progress on deepening China–New Zealand economic and trade ties】MOFCOM said the 34th China–New Zealand Joint Economic and Trade Commission met in Beijing on June 5. The two sides exchanged views on deepening bilateral economic and trade cooperation and agreed to advance services-trade negative-list negotiations under the China–New Zealand FTA, strengthen coordination within APEC and the WTO, and continue supporting a rules-based multilateral trading system. MOFCOM said it will work with New Zealand’s Ministry of Foreign Affairs and Trade to use the commission to drive bilateral trade cooperation, progress regional and multilateral agendas, and bolster the comprehensive strategic partnership."
-    },
-    {
-      "id": "4929848",
-      "time": "2026-06-11 15:32:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部介紹中新深化雙邊經貿關係的最新進展】6月11日下午，商務部舉行例行新聞釋出會。有媒體提問稱，中國—紐西蘭第34屆經貿聯委會近日在京召開。請商務部介紹具體相關情況，以及下一步如何深化雙邊經貿關係。對此，商務部新聞發言人何亞東表示，6月5日，第34屆中新經貿聯委會在北京召開。中新雙方圍繞著深化雙邊經貿關係，加強區域和多邊領域的合作等議題深入地交換意見。雙方同意共同推進中新自貿協定服務貿易負面清單談判，加強在亞太經合組織、世貿組織等區域和多邊框架下的溝通協作，繼續支援以規則為基礎的多邊貿易體制。何亞東稱，下一步商務部將與紐西蘭外交貿易部繼續用好聯委會這個機制，進一步推動雙邊經貿合作，推進區域和多邊議程，為構建中新全面戰略伙伴關係作出更大貢獻。（環球網）"
-    },
-    {
-      "id": "4929847",
-      "time": "2026-06-11 15:32:41",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【AI資料中心用電猛 得州擬出臺新規讓企業承擔電力配套成本】美國得克薩斯州州長格雷格 阿博特（Greg Abbott）計劃加碼對大型資料中心的監管，要求相關企業遵循“使用者付費”原則，自行承擔電力配套設施建設成本，不得將相關費用轉嫁給普通民眾。據報道，當地時間6月10日，阿博特致函得州公共事業委員會（PUC）與得州電力可靠性委員會（ERCOT），要求各方儘快擬定方案、對接相關企業，並在7月17日前出臺全新管理規則。按照新規思路，今後大型資料中心運營方需自行承擔電網升級、電力設施建設的全部費用，以此減輕普通家庭及中小用電使用者的壓力。除供電問題外，阿博特還提出，資料中心需普及節水型冷卻技術，降低水資源消耗、提升用水效率，同時當地還將重新評估現有稅收優惠政策。目前得州每年為資料中心產業提供超10億美元稅收減免。"
-    },
-    {
-      "id": "4929846",
-      "time": "2026-06-11 15:32:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鄧敏接任五糧液集團法定代表人】企查查APP顯示，近日，四川省宜賓五糧液集團有限公司發生工商變更，法定代表人從“曾從欽”變更為“鄧敏”。企查查顯示，該公司成立於1998年8月，註冊資本10億元，由宜賓發展控股集團有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019eb598-8930-7dd8-afb7-43576a5a2a72",
-      "time": "2026-06-11 15:32:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【MLN tokens cost only a few yuan; compute prices continue to fall】A compute marketplace said it offers two product types: hourly compute rental billed per GPU-card per hour, and annual/monthly token packages billed per 1‑MLN‑token unit. The marketplace said a 1‑MLN‑token unit currently costs roughly a few yuan and that prices are continuing to decline. Capacity is sourced from multiple channels; the marketplace handles matching, scheduling and delivery. About 80% of clients are SMEs across education, e‑commerce, AI, robotics and embodied intelligence."
-    },
-    {
-      "id": "te:markets:558300",
-      "time": "2026-06-11 15:32:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.60% Higher — The FTSE 100 Index is picking up 61 points or 0.60 percent on Thursday. Gains are led by Prudential (4.15%), Standard Chartered (3.02%) and Intertek (2.93%). Biggest losers are Halma (-10.25%), Intermediate Capital (-2.92%) and The Sage Group (-2.67%)."
-    },
-    {
-      "id": "4929845",
-      "time": "2026-06-11 15:31:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家能源集團大渡河公司原黨委書記何仲輝被查】中央紀委國家監委網站6月11日通報，據中央紀委國家監委駐國家能源集團紀檢監察組、四川省紀委監委訊息：國家能源集團大渡河公司原黨委書記、副總經理何仲輝涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家能源集團紀檢監察組紀律審查和四川省攀枝花市監察委員會監察調查。"
-    },
-    {
-      "id": "te:markets:558299",
-      "time": "2026-06-11 15:31:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.15% Lower — The DAX Index is falling 35 points. Losses were driven by SAP (-3.86%), BMW (-2.51%) and Deutsche Telekom (-2.27%). Biggest rises came from Siemens Energy (3.58%), Rheinmetall (2.00%) and BASF (1.51%)."
-    },
-    {
-      "id": "mkt:019eb597-2f3d-7dd8-afb7-3da6496be47f",
-      "time": "2026-06-11 15:30:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish",
-        "Dow",
-        "S&P500"
-      ],
-      "text": "Nasdaq-100 futures extended gains to 1.0%; Dow Jones futures up 0.66%; S&P 500 futures up 0.74%."
-    },
-    {
-      "id": "4929844",
-      "time": "2026-06-11 15:30:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中哲精化成立資源控股公司，含煤炭及製品銷售業務】企查查APP顯示，近日，廣西中哲資源控股有限責任公司成立，法定代表人為戴慄峰，註冊資本為3000萬元，經營範圍包含：金屬材料銷售；有色金屬合金製造；煤炭及製品銷售；橡膠製品銷售；高品質合成橡膠銷售等。企查查股權穿透顯示，該公司由中哲精化全資持股。"
-    },
-    {
-      "id": "mkt:019eb596-db2f-7dd8-afb7-316b6b9c414f",
-      "time": "2026-06-11 15:30:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed June 11 down 2.21% at 896.5 yuan/gram; Silver T+D closed down 0.60% at 15,444.0 yuan/kg."
-    },
-    {
-      "id": "4929843",
-      "time": "2026-06-11 15:30:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞銀全球財富管理將歐洲科技股板塊的評級從“看好”下調至“中性”。"
-    },
-    {
-      "id": "te:markets:558298",
-      "time": "2026-06-11 15:30:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.53% Higher — The CAC 40 Index is gaining 43 points or 0.53 percent on Thursday. Leading the gains are LVMH (3.62%), ArcelorMittal (2.48%) and Hermes International (2.05%). Top losers are Capgemini (-4.32%), Dassault Systemes (-2.66%) and Legrand (-1.98%)."
-    },
-    {
-      "id": "mkt:019eb596-9a02-7dd8-afb7-2a0e65152a75",
-      "time": "2026-06-11 15:30:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "MERZ said a proposal for Ukraine to join the EU would allow Ukraine to participate in European Council and Council of the EU meetings, but it would not have voting rights."
-    },
-    {
-      "id": "4929842",
-      "time": "2026-06-11 15:30:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百萬Token只要幾塊錢 算力價格還在往下降】在大模型與各類AI應用加速迭代擴張的當下，頭部企業憑藉雄厚資本紛紛佈局規模化算力叢集，而眾多中小AI創業主體自建算力設施，不僅前期投入大，還易造成算力資源的浪費。針對這一行業痛點，普惠化、可共享的算力超市在不少地方應運而生，讓中小AI企業能夠按需靈活取用算力資源。央視財經記者在一家算力超市瞭解到，他們目前提供兩種型別產品，一種是針對算力的產品，一種是針對大模型Token的產品，兩種產品採用不同的計費模式。負責人介紹：“算力租賃的產品，一張卡一小時是一種計費方式。第二種是包年包月，就是按Token計費，根據不同的模型，一般都是以百萬Token為單位，百萬Token大概是幾塊錢。按照現在的趨勢來看，價格還在往下降。”記者瞭解到，這個算力超市的算力來自多個渠道，使用者選好產品，超市負責匹配、排程和交付。此外，這家算力超市的負責人告訴記者，目前他們服務的使用者80%都是中小企業，覆蓋了教科文、電商、人工智慧、機器人、具身智慧等多個傳統和新興行業。（央視財經）"
-    },
-    {
-      "id": "mkt:019eb596-2f88-7dd8-afb7-265a17acdea7",
-      "time": "2026-06-11 15:29:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Chinese foreign ministry says Japan has shed 'peaceful nation' mask】China's Foreign Ministry accused Japan of abandoning its peaceful posture, saying Tokyo has sharply increased defense spending, relaxed controls on lethal arms exports, advanced deployment of medium-to-long-range missiles, expanded offensive military capabilities, stockpiled large quantities of sensitive nuclear materials and pushed to revise its pacifist constitution. The ministry said these moves amount to Japan having 'removed the mask' of a peaceful state and warned the international community to be vigilant against a revival of Japanese militarism."
     }
   ]
 }
