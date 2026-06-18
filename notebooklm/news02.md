@@ -1,7 +1,776 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-19 03:24:47_
-_本檔包含 3521 則快訊，約 708342 字_
+_更新時間：2026-06-19 05:01:36_
+_本檔包含 3546 則快訊，約 706743 字_
+
+---
+
+### 2026-06-18 02:52:57  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said markets’ excessive focus on the Fed’s reaction mechanism will reduce efficiency.
+
+---
+
+### 2026-06-18 02:52:49  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said financial market prices are central bankers' most important source of information.
+
+---
+
+### 2026-06-18 02:52:43  #央行 #國際
+
+美聯儲主席沃什： 金融市場價格是指引央行官員的核心資訊來源。
+
+---
+
+### 2026-06-18 02:52:30  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said financial markets perform best when they react to data.
+
+---
+
+### 2026-06-18 02:52:25  #央行 #國際
+
+美聯儲主席沃什：若市場擔憂美聯儲將如何針對資料採取行動，金融市場執行效率會有所下降。
+
+---
+
+### 2026-06-18 02:52:14  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
+
+The US 2-year/10-year Treasury yield spread is expected to narrow to its tightest level since April 2025.
+
+---
+
+### 2026-06-18 02:51:58  #央行 #國際
+
+美聯儲主席沃什： 金融市場在根據經濟資料作出反應時表現最為平穩。 我們獲取的部分經濟資料或許只是 “過往經濟情況的滯後反映”。
+
+---
+
+### 2026-06-18 02:51:43  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Pulls Back After Fed — Gold prices pared gains to trade flat at $4,315 per ounce on Wednesday, halting a four session rally after the Federal Reserve held rates unchanged, as expected, and signaled the possibility of a rate hike this year. Half of the FOMC projected that it may be necessary to raise interest rates this year, consistent with the expectations that core inflation will be higher than expected due to impacts of the war in the Middle East. The Fed previously signaled it has leeway to prioritized price stability as the latest labor market data. Precious metal prices fell as shorter term Treasury yields surged, raising the opportunity cost to allocate in bullion instead of interest-bearing securities. Meanwhile, safe-haven demand was lower as both the US and Iran maintained their intention to sign an agreement to suspend hostilities and restore energy trade on Friday. Meanwhile, major central banks in Europe maintained their rates unchanged, although BoJ raised rates as expected.
+
+---
+
+### 2026-06-18 02:51:30  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said he is open to new data sources.
+
+---
+
+### 2026-06-18 02:51:28  #央行 #國際
+
+美聯儲主席沃什： 對於新型分析技術、私營部門新增資料以及官方統計資料改革，我均持開放態度。
+
+---
+
+### 2026-06-18 02:51:20  #MKT News
+
+Federal Reserve chair Kevin Warsh said some incoming economic data may only be echoes of the past.
+
+---
+
+### 2026-06-18 02:50:53  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said private firms rely on real-time information.
+
+---
+
+### 2026-06-18 02:50:48  #央行 #國際
+
+美聯儲主席沃什：私營企業高度依賴實時資料。
+
+---
+
+### 2026-06-18 02:50:46  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Strategist: Fed clearly turned hawkish, signals officials don't expect U.S.-Iran deal to ease price pressures】Corpay chief market strategist Karl Schamotta said the Fed decision was “short but not sweet,” noting a rapid revamp of central-bank communication that removed almost all forward guidance and much background commentary. The committee has clearly shifted hawkish; the median inflation forecast was raised sharply — signaling officials do not expect the U.S.-Iran deal this weekend to materially ease price pressures — and the median path implies at least one rate hike this year, versus prior market expectations for cuts.
+
+---
+
+### 2026-06-18 02:50:23  #宏觀 #央行 #國際
+
+美聯儲主席沃什：我們使用的大多數資料都採用過時的調查方法。若美聯儲資料專項工作組出臺完善官方統計資料的相關建議，我會持開放接納態度。
+
+---
+
+### 2026-06-18 02:49:50  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said most of the data the Fed uses rely on outdated survey methods.
+
+---
+
+### 2026-06-18 02:49:37  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
+
+【Wash's first FOMC statement sharply trimmed; forward guidance tightened】The FOMC released its first policy statement under new chair Wash. The June statement was just 132 words versus 345 in April, a marked reduction. The format changed: the policy decision is presented first, followed only by a brief economic summary. The statement also dropped any disclosure of which officials voted for or against the decision and the reasons for dissent. Overall the wording tightens forward guidance and the shorter text reduces observers' ability to parse subtle phrasing for policy signals.
+
+---
+
+### 2026-06-18 02:49:36  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed Chair KEVIN WARSH said the Fed has missed its inf target for five years and must now begin correcting it.
+
+---
+
+### 2026-06-18 02:49:25  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said the statement included the wording we prepared on inflation.
+
+---
+
+### 2026-06-18 02:49:16  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed Chair KEVIN WARSH said the Fed's commitment to achieving a 2% inf target is firm, consistent and clear.
+
+---
+
+### 2026-06-18 02:49:09  #央行 #國際
+
+美聯儲主席沃什： 我們將扭轉過去五年通脹持續不達標的局面。
+
+---
+
+### 2026-06-18 02:48:52  #央行 #焦點 #國際
+
+美聯儲主席沃什： 實現 2% 通脹目標的承諾堅定、全體一致且立場明確。
+
+---
+
+### 2026-06-18 02:48:51  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said some of those changes may take the form of press conferences.
+
+---
+
+### 2026-06-18 02:48:37  #央行 #國際
+
+美聯儲主席沃什：不想預判溝通審查的結果。對過去兩天同事們的開放態度印象深刻。
+
+---
+
+### 2026-06-18 02:48:36  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #DXY #S&P500
+
+Federal Reserve Chairman Kevin Warsh said he expects further changes.
+
+---
+
+### 2026-06-18 02:48:17  #MKT News #Important
+
+Fed chair Kevin Warsh indicated future press conferences may depend on specific communication objectives.
+
+---
+
+### 2026-06-18 02:48:11  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said some future changes may warrant holding a press conference.
+
+---
+
+### 2026-06-18 02:47:58  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed Chair KEVIN WARSH said press conferences are a very effective means of communication and he hopes to use them to convey important information.
+
+---
+
+### 2026-06-18 02:47:44  #央行 #國際
+
+美聯儲主席沃什： 其中部分最佳化方向很可能會涉及新聞釋出會機制。 將會推出一些新穎且有價值的調整方案，後續還會有更多相關舉措，其中部分內容值得召開新聞釋出會予以說明。
+
+---
+
+### 2026-06-18 02:47:24  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said he does not want to pre-judge the outcome of the communications review.
+
+---
+
+### 2026-06-18 02:47:17  #央行 #國際
+
+美聯儲主席沃什：我預計未來還會有更多變革。
+
+---
+
+### 2026-06-18 02:46:56  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said submitting his personal dot plot would not help policy implementation.
+
+---
+
+### 2026-06-18 02:46:30  #央行 #國際
+
+美聯儲主席沃什： 在被問及新聞釋出會的存續規劃時稱，新聞釋出會是非常有效的政策溝通渠道。
+
+---
+
+### 2026-06-18 02:46:22  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said he was impressed by colleagues' openness over the past two days.
+
+---
+
+### 2026-06-18 02:46:18  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said he has not heard strong conviction in participants' submitted forecasts.
+
+---
+
+### 2026-06-18 02:46:05  #央行 #國際
+
+美聯儲主席沃什： 態度十分開放。 本人提交點陣預測值無益於政策制定工作。
+
+---
+
+### 2026-06-18 02:45:54  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said he expects a comprehensive review of Fed communications by year-end, covering press conferences, the dot plot and meeting schedules.
+
+---
+
+### 2026-06-18 02:45:42  #央行 #焦點 #國際
+
+美聯儲主席沃什： 預計年底前將針對政策溝通機制開展全面評估，涵蓋新聞釋出會、點陣圖及議息會議相關安排。
+
+---
+
+### 2026-06-18 02:45:24  #央行 #國際
+
+美聯儲主席沃什： 並未感受到委員們提交的經濟預測中帶有十足篤定的判斷。
+
+---
+
+### 2026-06-18 02:45:13  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed's dot plot is drawn in pencil and can be erased.
+
+---
+
+### 2026-06-18 02:45:03  #央行 #國際
+
+美聯儲主席沃什： 政策制定者不會受點陣預測數值約束。
+
+---
+
+### 2026-06-18 02:44:47  #央行 #焦點 #國際
+
+美聯儲主席沃什： 提到點陣圖的預測資料都是可修改提交的，留有很大調整空間。
+
+---
+
+### 2026-06-18 02:44:25  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh: We have work to do.
+
+---
+
+### 2026-06-18 02:44:18  #央行 #國際
+
+美聯儲主席沃什：被問及點陣圖的未來走向時，稱我們已成立專項工作組處理此事 。
+
+---
+
+### 2026-06-18 02:44:16  #MKT News #Macro & Rates
+
+Fed Chair Kevin Warsh said the Fed's policy stance is uneven across economic sectors.
+
+---
+
+### 2026-06-18 02:44:02  #央行 #國際
+
+美聯儲主席沃什： 美聯儲政策對房地產市場已顯現收緊效果，但對金融市場尚未形成抑制作用。美聯儲政策對各經濟板塊的作用力度不均衡。
+
+---
+
+### 2026-06-18 02:43:52  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed chair Kevin Warsh said the Fed's policy is unevenly restrictive.
+
+---
+
+### 2026-06-18 02:43:35  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said Fed policy appears restrictive for the housing market but not for financial markets.
+
+---
+
+### 2026-06-18 02:42:50  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #US10Y #XAUUSD
+
+Federal Reserve Chair Kevin Warsh said he cannot provide forward guidance on the Fed's next actions.
+
+---
+
+### 2026-06-18 02:42:43  #央行 #國際
+
+美聯儲主席沃什：無法就後續政策操作給出任何前瞻性指引。有些人認為此時提供前瞻指引並不合適。
+
+---
+
+### 2026-06-18 02:42:36  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said some believe providing forward guidance at this time would be inappropriate.
+
+---
+
+### 2026-06-18 02:42:22  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Fed chair Kevin Warsh said the Fed has abandoned forward guidance.
+
+---
+
+### 2026-06-18 02:42:02  #央行 #焦點 #國際
+
+美聯儲主席沃什：我們已取消前瞻性指引。
+
+---
+
+### 2026-06-18 02:41:58  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said inf is primarily determined by monetary policy.
+
+---
+
+### 2026-06-18 02:41:45  #央行 #國際
+
+沃爾美聯儲主席沃什：通脹主要由貨幣政策決定。
+
+---
+
+### 2026-06-18 02:41:35  #央行 #國際
+
+美聯儲主席沃什： 美聯儲有決心、有能力實現 2% 的通脹目標。關於2%的通脹目標將不在通脹工作組的範圍內。通脹框架評估工作的重點應放在通脹的驅動因素上。
+
+---
+
+### 2026-06-18 02:41:32  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed chair Kevin Warsh said the Fed has the ability and determination to achieve its 2% inf target.
+
+---
+
+### 2026-06-18 02:41:21  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Kevin Warsh, chair of the Federal Reserve, said assessments of the inf framework should focus on the drivers of inf.
+
+---
+
+### 2026-06-18 02:41:17  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said the 2% inflation target will not fall within the remit of the inflation working group.
+
+---
+
+### 2026-06-18 02:40:56  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said there is no reason to revisit the Fed’s 2% inflation target until that level is reached.
+
+---
+
+### 2026-06-18 02:40:24  #央行 #國際
+
+美聯儲主席沃什：2%的通脹率是美聯儲長期以來的目標。在實現 2% 通脹目標之前，我認為沒有理由重新審議該目標。
+
+---
+
+### 2026-06-18 02:40:07  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+KEVIN WARSH: 2% inf has long been the Federal Reserve's target.
+
+---
+
+### 2026-06-18 02:39:50  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said he expects to achieve partial results before autumn and that working groups will complete their work by year-end.
+
+---
+
+### 2026-06-18 02:39:30  #央行 #國際
+
+美聯儲主席沃什： 預計今年秋季取得部分階段性成果，各專項工作組將於年底完成全部調研工作。 各專項工作組將在未來兩週內啟動工作。
+
+---
+
+### 2026-06-18 02:39:08  #MKT News
+
+Federal Reserve chair Kevin Warsh said a working group will begin operations within the next few weeks.
+
+---
+
+### 2026-06-18 02:38:53  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said each independent working group will assemble top talent from inside and outside the economics profession.
+
+---
+
+### 2026-06-18 02:38:51  #央行 #國際
+
+美聯儲主席沃什：溝通工作組可能重塑點陣圖。資產負債表工作組將審查美聯儲的債券持有情況。生產力與就業工作組將調查人工智慧及其他通用技術的影響範圍。資料工作組將考慮新的資料來源和方法論變更。資產負債表工作組將審查充足準備金制度的好處和風險。
+
+---
+
+### 2026-06-18 02:38:50  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said the balance-sheet working group will review the benefits and risks of an ample-reserves regime.
+
+---
+
+### 2026-06-18 02:38:24  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed's data working group will consider new data sources and methodological changes.
+
+---
+
+### 2026-06-18 02:38:19  #MKT News
+
+Federal Reserve Chair Kevin Warsh said the Productivity and Employment Task Force will study the scope of the impact of artificial intelligence and other general‑purpose technologies.
+
+---
+
+### 2026-06-18 02:38:11  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said a balance-sheet working group will review the Fed's bond holdings.
+
+---
+
+### 2026-06-18 02:37:55  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said a communications working group could reshape the Fed's dot plot.
+
+---
+
+### 2026-06-18 02:37:41  #央行 #國際
+
+美聯儲主席沃什： 各獨立專項工作組將匯聚經濟學界內外頂尖專業人才。 各專項工作組將獲得美聯儲工作人員支援。 各專項工作組最終將提出後續行動方案。
+
+---
+
+### 2026-06-18 02:36:59  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said the working group's remit includes communications and the balance sheet; data sources, productivity and employment; and the inf framework.
+
+---
+
+### 2026-06-18 02:36:47  #央行 #焦點 #國際
+
+美聯儲主席沃什：任命五個貨幣政策領域的特別工作組。工作組內容包括溝通和資產負債表，資料來源、生產力和就業，以及通脹框架等。
+
+---
+
+### 2026-06-18 02:36:31  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh names working groups covering five areas of monetary policy.
+
+---
+
+### 2026-06-18 02:36:15  #央行 #國際
+
+美聯儲主席沃什： 成立專項工作組，負責溝通機制、資產負債表管理及資料來源運用相關事宜。 將對政策溝通、資產負債表、資料來源、生產率與就業，以及美聯儲通脹分析框架展開研究。
+
+---
+
+### 2026-06-18 02:35:49  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said forward guidance is not well suited to the current environment.
+
+---
+
+### 2026-06-18 02:35:46  #市場 #國際
+
+美國 2 年期國債收益率當日上漲 10 個基點，報 4.15%。
+
+---
+
+### 2026-06-18 02:35:40  #央行 #國際
+
+美聯儲主席沃什：我沒有提交自己的預測。
+
+---
+
+### 2026-06-18 02:35:37  #MKT News #Important #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+U.S. two-year Treasury yield rose 10 bps on the day to 4.15%.
+
+---
+
+### 2026-06-18 02:35:21  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said he encourages others to continue participating.
+
+---
+
+### 2026-06-18 02:35:10  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said this is consistent with long-standing views.
+
+---
+
+### 2026-06-18 02:35:09  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said the Fed will ask what changes could improve monetary policy.
+
+---
+
+### 2026-06-18 02:35:08  #央行 #焦點 #國際
+
+美聯儲主席沃什：我們一致認為，前瞻性指引不適用於當前局勢。
+
+---
+
+### 2026-06-18 02:34:56  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said no dot‑plot projections were provided today.
+
+---
+
+### 2026-06-18 02:34:53  #央行 #國際
+
+美聯儲主席沃什：今日未釋出經濟預測。
+
+---
+
+### 2026-06-18 02:34:45  #MKT News
+
+Fed Chair Kevin Warsh said the statement omitted prior wording and stated only the facts.
+
+---
+
+### 2026-06-18 02:34:35  #央行 #國際
+
+美聯儲主席沃什：今日釋出的政策宣告篇幅更短、行文更為簡潔。這份宣告摒棄了舊有措辭，僅陳述事實。
+
+---
+
+### 2026-06-18 02:34:32  #MKT News
+
+Fed Chair Kevin Warsh said today's policy statement is shorter and simpler.
+
+---
+
+### 2026-06-18 02:34:30  #市場 #焦點
+
+紐約期金失守4290美元/盎司，日內跌1.50%。
+
+---
+
+### 2026-06-18 02:34:23  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Economist: Expectations for Wash reforms ease; balance-sheet strategy unchanged for now】Economist David Wilcox flagged one line in the Fed statement — the C.BANK "reaffirmed policy of maintaining ample reserves in the banking system" — saying it was notable because the Fed would not need to single that out otherwise. Markets had widely expected new chair Wash might shift the balance-sheet operating regime from ample to scarce reserves; Wilcox said today's statement indicates they have not done so, at least not immediately.
+
+---
+
+### 2026-06-18 02:34:19  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said leadership changes are a timely opportunity to reassess current practices.
+
+---
+
+### 2026-06-18 02:33:54  #央行 #國際
+
+美聯儲主席沃什：聯邦公開市場委員會全體委員一致認為，將實現物價穩定。我們重申充足準備金政策。 領導層更迭之際，正是覆盤實操細則、重申核心使命的合適時機。
+
+---
+
+### 2026-06-18 02:33:53  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed Chair KEVIN WARSH said recent history should not be seen as a prelude to inf problems.
+
+---
+
+### 2026-06-18 02:33:27  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said FOMC members unanimously expect to achieve price stability.
+
+---
+
+### 2026-06-18 02:33:11  #央行 #焦點 #國際
+
+美聯儲主席沃什：我們承認當前通脹水平遠高於美聯儲 2% 的目標值。經濟活動以穩健的速度擴張。持續高企的價格是一種負擔。
+
+---
+
+### 2026-06-18 02:33:06  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said persistently elevated prices are a burden.
+
+---
+
+### 2026-06-18 02:32:54  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Federal Reserve Chair Kevin Warsh said inflation remains far above the 2% target.
+
+---
+
+### 2026-06-18 02:32:40  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+Fed Chairman Kevin Warsh said economic activity is expanding at a robust pace.
+
+---
+
+### 2026-06-18 02:32:37  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said Congress's mandate for price stability and maximum employment guided the meeting.
+
+---
+
+### 2026-06-18 02:32:29  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
+
+【Night session most-active contracts close】At the 02:30 close, SHFE most-active gold contract fell 0.84% to 935 yuan/gram; SHFE most-active silver contract fell 1.36% to 16,589 yuan/kg; SC crude oil most-active contract rose 0.80% to 517 yuan/barrel.
+
+---
+
+### 2026-06-18 02:32:14  #央行 #國際
+
+美聯儲主席沃什： 穩定物價、實現充分就業這一國會賦予的職責指引了本次議息會議的討論方向。
+
+---
+
+### 2026-06-18 02:32:01  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said he and his colleagues are here to fulfill their statutory duties.
+
+---
+
+### 2026-06-18 02:31:43  #央行 #國際
+
+美聯儲主席沃什： 政策目標是制定恰當的貨幣政策。
+
+---
+
+### 2026-06-18 02:31:31  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the meeting reflected the Fed's finest traditions.
+
+---
+
+### 2026-06-18 02:31:29  #市場
+
+WTI 7月原油期貨收報76.79美元/桶。NYMEX 7月天然氣期貨收報3.1450美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9096美元/加侖，NYMEX 7月取暖油期貨收報3.1946美元/加侖。
+
+---
+
+### 2026-06-18 02:30:54  #MKT News #Important #Macro & Rates
+
+Fed Chair Kevin Warsh said he was honored to return to the Fed.
+
+---
+
+### 2026-06-18 02:30:48  #央行 #國際
+
+美聯儲主席沃什：很榮幸再次回到美聯儲。
+
+---
+
+### 2026-06-18 02:30:40  #央行 #焦點 #國際
+
+美聯儲主席沃什召開新聞釋出會。
+
+---
+
+### 2026-06-18 02:30:25  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange gold T+D closed down 0.82% at 933.0 yuan/gram in the evening session on June 17 (Wed); silver T+D closed down 1.28% at 16,567.0 yuan/kg.
+
+---
+
+### 2026-06-18 02:30:03  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Depreciates by 1.39% — Top crypto losers are XRP (-1.39%), Ether (-1.37%) and Bitcoin (-0.32%).
+
+---
+
+### 2026-06-18 02:30:02  #市場
+
+上期所原油期貨夜盤收漲0.80%，報517.00元人民幣/桶。滬金夜盤收跌0.84%，滬銀收跌1.36%。
+
+---
+
+### 2026-06-18 02:29:55  #公司
+
+【七國集團峰會閉幕 連續兩年無聯合公報】為期3天的七國集團峰會17日在法國埃維昂萊班閉幕，沒有釋出七國領導人聯合公報。這是繼2025年加拿大卡納納斯基斯峰會後，七國集團再一次未能達成聯合公報。峰會期間陸續釋出了9份聚焦具體議題的成果檔案，涵蓋領域包括地緣政治、經濟增長、公共衛生等。 (新華社)
+
+---
+
+### 2026-06-18 02:29:44  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #XAUUSD
+
+【Goldman Sachs: Fed can barely avoid a hike; inflation is the key variable】Goldman Sachs Asset Management analyst Kay Haigh said today's Fed decision confirms the recent hawkish shift is not solely driven by higher oil. Despite a pullback in oil, half of FOMC participants expect a rate increase as early as this year, reflecting a strong labor market and inflation prints. Goldman’s base case remains that the Fed can narrowly avoid raising rates, but the path is tight and incoming inflation data will carry high weight.
+
+---
+
+### 2026-06-18 02:28:32  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #WTI #US10Y #Impact bearish
+
+【Middle East conflict reshapes Fed expectations: nearly half of policymakers shift toward rate-hike outlook; inflation forecasts revised up】Nearly half of Federal Reserve policymakers no longer believe that holding borrowing costs steady would be sufficient to bring inflation back to 2% if oil prices spike after a war involving Iran. The Fed's latest dot plot shows views on the rate path shifting from how long to hold rates before cuts to growing concern about the need for additional hikes; some officials now expect rate increases. Wednesday's projections revised inflation sharply higher since March: median PCE YoY is now seen at 3.6% by year-end (March: 2.7%), median core PCE YoY at 3.3% (March: 2.7%). Median year-end unemployment is 4.3% — matching May's reading and below March's 4.4% — indicating policymakers increasingly see the labor market as not weakening and reducing the case for rate cuts.
+
+---
+
+### 2026-06-18 02:26:48  #央行 #美聯儲
+
+利率期貨定價美聯儲到年底將加息30個基點，較美聯儲利率決議前上升約9個基點。
+
+---
+
+### 2026-06-18 02:26:18  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+Interest-rate futures price a cumulative 30bp of Fed tightening by year-end, about 9bp higher than immediately before the Fed policy decision.
+
+---
+
+### 2026-06-18 02:25:50  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Rallies After Fed — The dollar Index rose above 100 on Wednesday as traders digested the latest FOMC decision. The Federal Reserve left interest rates unchanged, as widely expected, in Kevin Warsh’s first meeting as Fed Chair. However, policymakers’ projections were interpreted as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also sharply revised upward its inflation forecasts. The 2026 PCE inflation projection was raised to 3.6% from 2.7% in the March forecast, while core PCE inflation is now expected to reach 3.3%, up from 2.7% previously. Traders have now fully priced in a quarter-point Fed rate hike by the end of the year. The greenback strengthened broadly, posting its largest gains against the British pound and the euro.
+
+---
+
+### 2026-06-18 02:25:24  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Rebounds After Fed — The yield on the 10-year US Treasury note erased losses to hover at the 4.46% mark on Wednesday after the Federal Reserve held interest rates unchanged and projected the possibility of a rate hike this year. The Summary of Economic Projections showed that nearly half of the FOMC projected that at least one rate hike may be warranted this year, aligned with the upward revision to core inflation and lower expectations of unemployment. The pivot followed a batch of data pointing to higher underlying price growth following the war in the Middle East and its impact on energy prices, although labor market gauges remained robust. Notably, new Chairman Kevin Warsh refrained from penciling in his projections, reflecting continuity to his pushback against forward guidance by the Fed. The Chairman had also called for a smaller balance sheet for the central bank, particularly regarding longer term Treasury notes and bonds.
+
+---
+
+### 2026-06-18 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Wheat Gains by 2.95% — Top commodity gainers are Wheat (2.95%), Cotton (2.46%) and Corn (1.80%). Biggest losers are Canola (-1.12%) and Cocoa (-0.71%).
+
+---
+
+### 2026-06-18 02:24:34  #央行 #國際
+
+德意志銀行經濟學家LUZZETTI：（美聯儲）在預期的鷹派範圍內。宣告中有大量多餘內容。明確訊號顯示需要提高利率以遏制通脹。
+
+---
+
+### 2026-06-18 02:23:23  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #US10Y #Impact bearish
+
+Deutsche Bank US chief economist Luzzetti said clear signals indicate interest rates need to be raised to curb inf.
+
+---
+
+### 2026-06-18 02:22:53  #國際
+
+【伊朗外交部發言人：美必須在30天內結束海上封鎖】據伊朗方面6月17日訊息，伊朗外交部發言人巴加埃表示，如果以色列繼續佔領黎巴嫩，將被視為違反諒解備忘錄，伊方將採取必要措施。巴加埃說，美伊雙方已達成一致，將在未來60天內就最終協議展開談判。美國必須在30天內結束海上封鎖。巴加埃表示，關於霍爾木茲海峽，已商定在特定期限內使海上交通恢復正常。這是伊朗自身的職責，將完全由伊朗負責執行，不需要其他方面的參與或干預。在制定霍爾木茲海峽管理機制方面，伊朗將與阿曼開展合作。在有需要的情況下，也會與本地區其他國家交換意見。（央視新聞）
+
+---
+
+### 2026-06-18 02:22:31  #MKT News
+
+Deutsche Bank's US chief economist Luzzetti said the statement contains a large amount of redundant content.
+
+---
+
+### 2026-06-18 02:21:51  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+Deutsche Bank US chief economist Luzzetti said the Fed is operating within the expected hawkish range.
+
+---
+
+### 2026-06-18 02:21:45  #市場 #央行 #焦點 #國際
+
+【 美聯儲利率決議關鍵要點一覽：利率前景存分歧 政策宣告措辭調整 】
+1、聯邦公開市場委員會一致投票決定維持基準利率在3.5%-3.75%的目標區間不變。
+2、反映利率預測的“點陣圖”顯示，官員們對於是否在2026年底前加息存在分歧，18位官員中有9位預計會加息，利率預測中值從3月的3.4%升至3.75%；預測中值還顯示2027年利率將降至3.6%。
+3、一位美聯儲官員沒有提交任何利率預測；另一位官員未提供2028年的利率預測。
+4、美聯儲官員預測中值顯示，到2026年底核心通脹率為3.3%，高於3月預測的2.7%；GDP增速預計為2.2%，低於此前預測的2.4%。
+5、美聯儲精簡了政策宣告，刪除有關可能進一步調整利率的措辭，並宣告“委員會將實現物價穩定”。
+6、美聯儲表示，“儘管存在因中東衝突等因素引起的高度不確定性，但經濟活動仍以穩健步伐擴張”，“生產率增長和資本投資表現強勁”。
+7、美聯儲表示，就業增長“與勞動力增長保持同步，失業率變化不大”；通脹依然高企，“部分反映了導致能源等行業價格上漲的供應衝擊”。
 
 ---
 
@@ -20668,617 +21437,5 @@ API: U.S. heating oil inventories fell 125,000 barrels in the week to June 12, v
 ### 2026-06-17 04:35:56  #MKT News #Commodities #Energy #WTI #Impact bullish
 
 US API Cushing crude stocks -1.523 mln barrels in week to June 12; prior -1.125 mln barrels.
-
----
-
-### 2026-06-17 04:35:56  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Jun.12) | actual -125000M | previous -407000M
-
----
-
-### 2026-06-17 04:35:47  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Cushing Crude Oil Stocks Change (Jun.12) | actual -1523000M | previous -1125000M
-
----
-
-### 2026-06-17 04:35:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US API weekly refined-product inventories fell 461,000 barrels in the week to June 12, versus an expected decline of 198,000 barrels; prior was an increase of 1.316 million barrels.
-
----
-
-### 2026-06-17 04:35:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. API gasoline stocks rose 2.479 mln barrels in the week to June 12, versus an expected draw of 1.401 mln and a prior draw of 1.191 mln.
-
----
-
-### 2026-06-17 04:35:35  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Distillate Stocks Change (Jun.12) | actual -461000M | consensus -198000M | previous 1316000M
-
----
-
-### 2026-06-17 04:35:27  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Gasoline Stocks Change (Jun.12) | actual 2479000M | consensus -1401000M | previous -1191000M
-
----
-
-### 2026-06-17 04:35:21  #MKT News #Important
-
-US API weekly crude inventories fell 8.33 mln barrels in the week to June 12 vs market-expected draw of 4.52 mln; prior week draw 9.12 mln.
-
----
-
-### 2026-06-17 04:35:10  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Crude Oil Stocks Change (Jun.12) | actual -8330000M | consensus -4515000M | previous -9119000M
-
----
-
-### 2026-06-17 04:35:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.64% Higher — The Dow Jones Index gained 332 points or 0.64 percent on Tuesday to close at 52003 points. Gains were led by JPMorgan (3.72%), Visa (2.83%) and 3M (2.15%). Biggest losers were Nvidia (-2.17%), Salesforce (-1.74%) and Microsoft (-1.46%).
-
----
-
-### 2026-06-17 04:30:13  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Climbs on US-Iran Peace Prospects — The S&P/TSX Composite Index rose 0.3% to close at 35,390 on Tuesday, supported by optimism over a potential US-Iran peace deal. US President Donald Trump said at the G7 summit that negotiations with Iran had entered a second stage. Oil prices fell as markets assessed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, with RBC rising 1.1%, while TD Bank and BMO both added 0.7%. Higher gold prices lifted mining shares, with Agnico Eagle gaining 2.6%, WPM advancing 3.6%, and Barrick rising 2.3%. In contrast, lower oil prices weighed on energy stocks, with Canadian Natural down 1.7%, Suncor losing 2.4%, and Cenovus falling 3.2%. Meanwhile, home sales rose 5.5% in May, while home prices edged lower. Investors are now awaiting the US Fed's policy decision on Wednesday, with markets widely expecting interest rates to remain unchanged.
-
----
-
-### 2026-06-17 04:29:38  #其他
-
-【譚德塞：近三週未報告新增漢坦病毒感染病例】世衛組織總幹事譚德塞16日在社交媒體上表示，漢坦病毒的感染病例數仍為13例，死亡病例數仍為3例。近三週以來沒有報告新的感染病例，超過一個月沒有報告新的死亡病例，疫情總體情況保持穩定。（央視）
-
----
-
-### 2026-06-17 04:29:31  #MKT News
-
-【TEDROS: No new hantavirus infections reported in nearly three weeks】WHO Director-General Tedros said on the 16th the hantavirus case count remains 13 with 3 deaths. No new infections have been reported in nearly three weeks and no new deaths for over a month; overall situation is stable.
-
----
-
-### 2026-06-17 04:20:08  #MKT News #Important
-
-U.S. API weekly crude inventories for the week to June 12 due in 10 minutes.
-
----
-
-### 2026-06-17 04:15:21  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stock Market Closes Mixed — US equities closed mixed on Tuesday amid a pullback in AI-related stocks. The S&P 500 lost 0.6%, while weakness in technology shares drove the Nasdaq down 1.9%. Investors took profits in semiconductor names after their recent rally, with Nvidia (-2%), Broadcom (-4.2%), Micron (-5.6%), AMD (-6.8%), and Intel (-7.9%) all posting losses. In contrast, SpaceX gained 4.8%, extending its advance since Friday's IPO, after reports that it would acquire Cursor for $60 billion. Meanwhile, the Dow Jones rose 0.6%, supported by optimism surrounding the preliminary US-Iran agreement. Both countries are expected to sign the deal on Friday, with US officials stating that the Strait of Hormuz will reopen. Bond yields continued to ease as lower oil prices softened inflation concerns ahead of the Fed's expected rate hold on Wednesday, although Chairman Warsh is still expected to advocate changes to the monetary framework and a smaller balance sheet. JPMorgan rose 3.7%, while Visa gained 2.8%.
-
----
-
-### 2026-06-17 04:12:53  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International oil prices tumble on 16th close】As of the close on the 16th, NYMEX light sweet crude (July delivery) fell $4.70 to $76.05/bl, down 5.82%; ICE Brent (August delivery) fell $4.21 to $78.96/bl, down 5.06%.
-
----
-
-### 2026-06-17 04:12:23  #市場
-
-【國際油價16日大幅下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌4.70美元，收於每桶76.05美元，跌幅為5.82%；8月交貨的倫敦布倫特原油期貨價格下跌4.21美元，收於每桶78.96美元，跌幅為5.06%。
-
----
-
-### 2026-06-17 04:07:25  #公司 #市場 #國際
-
-SpaceX收漲4.77%，報201.68美元，收盤市值2.65萬億美元，超過亞馬遜、成為全球第五大上市公司。
-
----
-
-### 2026-06-17 04:05:35  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
-
-U.S. stocks on Tuesday, June 16: Dow Jones Industrial Average closed up 331.17 points (+0.64%) at 52,002.20; S&P 500 closed down 42.86 points (-0.57%) at 7,511.43; Nasdaq Composite closed down 307.60 points (-1.15%) at 26,376.34.
-
----
-
-### 2026-06-17 04:03:09  #MKT News #EURUSD #Impact bullish #GBPUSD #XAUUSD
-
-【Dollar index down 0.09% to 99.540 on June 16】The dollar index, measuring the U.S. dollar against six major currencies, fell 0.09% to 99.540 at the New York close on June 16. EUR/USD rose to 1.1610 from 1.1595; GBP/USD 1.3429 from 1.3419; USD/JPY 160.44 from 160.31; USD/CHF 0.7931 from 0.7940; USD/CAD 1.3993 from 1.3987; USD/SEK 9.3618 from 9.3913.
-
----
-
-### 2026-06-17 04:02:10  #MKT News #Important #Market Regions #Wall Street (US) #MRVL.O #Impact bearish #MU.O #XPEV.N
-
-【US close: Dow +0.6%; S&P -0.57%, Nasdaq -1.15%; SpaceX ends up 4.8% after intraday spike】US equities closed mixed Tuesday. Dow Jones Industrial Average rose 0.6% at the close, the S&P 500 fell 0.57% and the Nasdaq Composite declined 1.15%. SpaceX (SPCX.O) jumped roughly 17% intraday before finishing up 4.8%. MARVELL (MRVL.O) slid nearly 10%; Micron Technology (MU.O) dropped about 6%. The Nasdaq Golden Dragon China Index fell 2.5%; Xpeng (XPEV.N) was down more than 4%.
-
----
-
-### 2026-06-17 04:01:48  #市場
-
-【美元指數16日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.09%，在匯市尾市收於99.540。截至紐約匯市尾市，1歐元兌換1.1610美元，高於前一交易日的1.1595美元；1英鎊兌換1.3429美元，高於前一交易日的1.3419美元。1美元兌換160.44日元，高於前一交易日的160.31日元；1美元兌換0.7931瑞士法郎，低於前一交易日的0.7940瑞士法郎；1美元兌換1.3993加元，高於前一交易日的1.3987加元；1美元兌換9.3618瑞典克朗，低於前一交易日的9.3913瑞典克朗
-
----
-
-### 2026-06-17 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指漲0.65%，標普500指數跌0.56%，納指跌1.14%。邁威爾科技跌9.72%，芝加哥期權交易所跌9.48%，Monolithic Power Systems跌9.34%，Take-Two Interactive漲6.36%，Moderna漲6.27%。“七姐妹”方面：Meta Platforms漲1.08%，谷歌漲1.08%，蘋果漲0.93%，亞馬遜漲0.06%，微軟跌1.52%，特斯拉跌1.56%，英偉達跌2.38%。
-
----
-
-### 2026-06-17 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收跌2.42%】海天網路跌13.94%，水滴公司跌9.28%，禾賽科技跌8.47%，復朗集團跌7.84%，BOSS直聘跌7.08%。
-
----
-
-### 2026-06-17 03:55:02  #其他
-
-市場訊息： 出於安全考量，微軟放棄了一份價值 30 億美元、租賃甲骨文雲算力的合作協議。
-
----
-
-### 2026-06-17 03:54:54  #MKT News
-
-【Equatorial Guinea cabinet submits collective resignation】Equatorial Guinea Vice-President Mangue said on social media on the evening of the 16th that Prime Minister Manuel Osa Nsue Nsua submitted a collective resignation of all cabinet members to the president that day. Mangue said a review found the government's completion rate of its set targets was "barely 10%". He said the state had committed substantial human, material and financial resources to meet public needs but execution fell well short of expectations and promises, and called for a more dynamic, efficient and people-focused administration.
-
----
-
-### 2026-06-17 03:54:44  #其他
-
-【赤道幾內亞內閣集體辭職】赤道幾內亞副總統曼格16日晚在社交媒體發文說，赤幾總理曼努埃爾·奧薩·恩蘇埃·恩蘇阿當天向總統提交了所有內閣成員的集體辭呈。曼格表示，此前經評估確認，本屆政府既定目標的完成率僅“勉強達到10%”。他說：“國家為政府配置了大量人力、物力和財力資源以滿足民眾需求，但目前的執行程度與預期及所作承諾相比差距較大。”曼格表示，赤道幾內亞需要一個更具活力、更高效、更貼近民眾需求的行政機構。（新華社）
-
----
-
-### 2026-06-17 03:54:38  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bearish #ORCL.N
-
-Business Insider reports Microsoft (MSFT.O) abandoned a $3 billion cloud capacity lease with Oracle (ORCL.N) over security concerns.
-
----
-
-### 2026-06-17 03:48:24  #宏觀 #市場 #國際
-
-【長端美債價格漲幅突出，兩年期實際收益率漲超6.6個基點】週二（6月16日）紐約尾盤，美國10年期國債收益率跌5.13個基點，報4.4217%，北京時間14:55之前大致持穩於4.47%附近，之後加速下跌，01:56重新整理日低至4.4178%。兩年期美債收益率跌2.31個基點，報4.0432%；20年期美債收益率跌5.08個基點，報4.9265%，美國財政部於01:00披露標售結果後延續跌勢；30年期美債收益率跌5.31個基點，報4.9274%。2/10年期美債收益率利差跌2.219個基點，報+37.825個基點。10年期通脹保值國債（TIPS）收益率跌1.83個基點，至2.1158%，18:55曾重新整理日低至2.0920%；兩年期TIPS收益率漲6.63個基點，至1.7249%；30年期TIPS收益率跌3.22個基點，至2.7018%。
-
----
-
-### 2026-06-17 03:44:50  #國際
-
-隨著燃料、汽車和食品突破封鎖，美國對古巴的出口大幅增長。
-
----
-
-### 2026-06-17 03:41:10  #公司 #央行 #國際
-
-【歐洲央行管委：英國可助力歐盟打破資本市場停滯局面】歐洲央行管理委員會成員兼荷蘭央行行長Olaf Sleijpen表示，英國可以幫助歐盟整合該集團的資本市場。歐盟與英國之間更緊密的合作，有助於推動深化資本市場和儲蓄聯盟的程序。他呼籲與英國展開合作，表示互相借鑑經驗、改善市場準入可以支援金融穩定與經濟增長。
-
----
-
-### 2026-06-17 03:39:01  #MKT News #WTI #Impact bullish #Brent
-
-【Iran vice president: Tehran will retain control of Strait of Hormuz】Press TV quoted First Vice President Mohammad Reza Aref on Tuesday saying Tehran will retain control and management of the Strait of Hormuz and that vessels using the waterway should pay for security services provided by Iran, the presidential office said. Aref said Iran has made major sacrifices to protect its rights in the strait and that without Iranian security services vessels could face risks including sea mines and environmental damage.
-
----
-
-### 2026-06-17 03:32:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Security sources said a drone struck an Iranian opposition camp east of Erbil, Iraq.
-
----
-
-### 2026-06-17 03:31:26  #國際
-
-安全訊息人士：無人機襲擊伊拉克埃爾比勒東部一處伊朗反對派營地。
-
----
-
-### 2026-06-17 03:28:52  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Iran's Armed Forces Hatam al-Anbiya Central Headquarters accused Israel of violating the Lebanon ceasefire 84 times over the past two days and warned it would respond with force if such incursions continue.
-
----
-
-### 2026-06-17 03:27:39  #觀點
-
-【高盛今年提供諮詢的併購交易總額已破萬億美元 創史上最快達成紀錄】根據Dealogic資料，高盛今年以來提供諮詢服務的併購交易總額已突破1萬億美元，成為有史以來達到這一里程碑速度最快的銀行。資料顯示，今年迄今已宣佈的併購交易總額約為1.7萬億美元，不包括SpaceX與xAI的合併。這與併購高峰期2021年同期的水平基本持平。不過，在2021年的併購熱潮中，高盛直到7月中旬才達到1萬億美元的門檻。根據Dealogic資料，今年高盛最接近的競爭對手距離這一水平仍相差約3,000億美元。
-
----
-
-### 2026-06-17 03:26:15  #MKT News
-
-【Russia bars 103 Canadians from entry in response to Canadian sanctions】Russia's Foreign Ministry said on its website on the evening of the 16th that, in response to Canadian sanctions against Russia, it has banned 103 Canadian nationals from entering the country. The ministry accused some Canadian politicians of harming Russian rights and interests and damaging bilateral ties, and said it respects the Canadian people but opposes the Canadian government's current hostile stance. The travel ban list includes several Canadian MPs and former Canadian ambassadors to Russia and Ukraine.
-
----
-
-### 2026-06-17 03:25:56  #國際
-
-【俄羅斯禁止103名加拿大人入境以回應加方制裁】俄羅斯外交部16日晚在官網釋出通報稱，作為對加拿大對俄製裁措施的回應，俄方禁止103名加拿大籍人員入境。俄外交部表示，加拿大一些政治人物損害俄方權利和利益，破壞兩國關係。俄方一貫尊重加拿大人民，但反對加政府當前的敵對立場。根據俄外交部公佈的名單，此次被禁止入境的包括多名加拿大議員、加拿大前駐俄羅斯與烏克蘭大使等人員。（新華社）
-
----
-
-### 2026-06-17 03:19:14  #MKT News #Market Regions #Greater China #DXY #Impact bullish #WTI #S&P500 #Impact bearish
-
-【Industry: China-US shipping routes fully booked】Industry sources say China-US routes are at full capacity. Since May, East and South China slots have tightened with frequent cargo rollovers and June space largely sold out, reverting the trade to peak-season scarcity. In late April a 40-foot box from Ningbo to the US West Coast was quoted about $2,900 and to the US East Coast about $3,900; after several rounds of increases current rates are roughly $6,300 to the West Coast and $7,500 to the East Coast. Demand is supported by low US goods inventories and restocking; supply is constrained by Middle East tensions—more than 300,000 TEU tied up in the Persian Gulf—delayed Red Sea resumptions, vessel rerouting, slower turnaround and reduced speeds, which have lowered effective capacity and intensified the supply-demand imbalance.
-
----
-
-### 2026-06-17 03:16:49  #MKT News #Important
-
-Nasdaq's decline widened to 1%; SpaceX (SPCX.O) gain narrowed to 5%.
-
----
-
-### 2026-06-17 03:16:20  #市場 #焦點
-
-納指跌1.01%，現報26414.720點；道指漲0.67%，現報52015.289點；標普500指數跌0.51%，現報7515.690點。
-
----
-
-### 2026-06-17 03:16:01  #公司
-
-【紅杉資本看好SpaceX太空資料中心與AI實力，長期持有者稱其願景“永恆”】紅杉資本合夥人Shaun Maguire對SpaceX將資料中心送入太空的能力及其在人工智慧領域的實力表達了信心。Maguire概述了SpaceX的五層業務模式，並表示計劃“永遠”持有其股份，稱埃隆·馬斯克為公司描繪的願景是“史上使命最宏大、市場潛力最大的公司”。“我不明白為什麼SpaceX不能在星艦首次有效載荷飛行後的六個月內，就發射一顆軌道計算衛星。”關於人工智慧領域，他表示，SpaceX在地球上構建下一代AI雲基礎設施的能力已經比競爭對手“高出一個數量級”。
-
----
-
-### 2026-06-17 03:14:48  #MKT News
-
-【CNN: U.S. refused Israel’s request to review U.S.-Iran memorandum】CNN on June 16 quoted an Israeli source saying Washington refused Israel’s request to review the text of a U.S.-Iran memorandum. The source said the Trump administration partly declined because it feared Prime Minister Netanyahu would leak the text before formal release. At a June 15 news conference Netanyahu barely mentioned the memorandum and said he and Trump “are not always of one mind,” adding “we still do not know what this memorandum actually is.”
-
----
-
-### 2026-06-17 03:12:08  #國際
-
-【美被曝拒絕以色列看美伊諒解備忘錄】當地時間6月16日，據美國有線電視新聞網（CNN）報道，一名以色列訊息人士透露，以色列曾要求美國提供美伊諒解備忘錄文字供其審閱，但遭到拒絕。該訊息人士稱，美方拒絕以色列的部分原因在於，特朗普政府“擔心以色列總理內塔尼亞胡會在該備忘錄正式公佈前洩露文字內容”。 內塔尼亞胡當地時間6月15日晚舉行記者會，在開場發言中幾乎未提及這項備忘錄。在隨後的提問環節中，他表示，自己與特朗普“並非總是意見一致”。他還稱：“我們仍然不知道這項備忘錄究竟是什麼。”（CCTV國際時訊）
-
----
-
-### 2026-06-17 03:10:45  #MKT News #Market Regions #Europe & UK
-
-U.S. Defense Secretary Hegseth will travel to Belgium tomorrow to attend a NATO ministerial meeting.
-
----
-
-### 2026-06-17 03:10:13  #國際
-
-【以軍持續在黎南部軍事行動 伊朗軍方發聲警告】16日，伊朗武裝部隊哈塔姆安比亞中央總部發布宣告稱，在美伊雙方達成諒解備忘錄之後，以色列軍隊已在黎巴嫩南部違反停火協議84次，並繼續對黎巴嫩無辜民眾實施犯罪和屠殺。宣告警告，如果以色列不停止其在黎巴嫩南部的侵略和挑釁行為，那麼它將不得不等待“伊朗強大武裝力量的嚴厲回應”。（央視新聞）
-
----
-
-### 2026-06-17 03:07:32  #國際
-
-美國國防部長赫格塞思明日將前往比利時出席北約部長級會議。
-
----
-
-### 2026-06-17 03:07:00  #MKT News
-
-Serbian state television said NIS, Serbia's oil company majority-owned by Russia and subject to U.S. sanctions, has had its sanctions waiver extended to July 1.
-
----
-
-### 2026-06-17 03:05:38  #市場
-
-【芝加哥大豆期貨漲超0.9%，咖啡豆漲超5.5%，紐約可可漲超6.5%】週二（6月16日）紐約尾盤，彭博穀物分類指數漲0.38%，報29.5554點。CBOT玉米期貨漲0.34%，報4.4325美元/蒲式耳。CBOT小麥期貨漲0.62%，報6.0425美元/蒲式耳。CBOT大豆期貨漲0.95%，報11.4550美元/蒲式耳，北京時間21:30美股開盤時拉昇、日內整體瞬間轉漲，豆粕期貨漲0.52%，豆油期貨跌1.83%。CBOT瘦肉豬期貨跌0.73%，活牛期貨漲2.40%，飼牛期貨漲1.68%。ICE原糖期貨漲0.80%，ICE白糖期貨漲1.40%。ICE阿拉比卡咖啡期貨漲5.74%，咖啡“C”期貨漲5.56%。羅布斯塔咖啡期貨漲2.04%。紐約可可期貨漲6.55%，報4232美元/噸。倫敦可可期貨漲6.31%。芝加哥WCE雙低油菜籽期貨跌0.79%。ICE棉花期貨漲1.24%。
-
----
-
-### 2026-06-17 03:05:31  #公司 #國際
-
-塞爾維亞國家廣播電視臺報道，塞爾維亞由俄羅斯控股、遭美國製裁的尼什石油公司獲得制裁豁免，有效期至 7 月 1 日。
-
----
-
-### 2026-06-17 03:04:23  #公司 #國際
-
-切尼爾能源公司CFO：大部分發展中國家不會將能源安全託付給美國。 希望卡達能源儘快重返市場，此舉有助於豐富全球能源供應渠道。
-
----
-
-### 2026-06-17 03:04:01  #MKT News #Commodities #Energy #LNG.O
-
-Cheniere Energy's CFO said most developing countries will not entrust their energy security to the United States, and said he hopes QatarEnergy will return to the market soon because that would help create a more diversified global supply base.
-
----
-
-### 2026-06-17 03:02:50  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7575元，較週一夜盤收盤跌7點。成交量418.30億美元。
-
----
-
-### 2026-06-17 03:01:22  #MKT News #Commodities #Energy
-
-Venezuelan state television reported that state oil company PDVSA signed a memorandum of understanding with Spain's Repsol covering crude oil and natural gas.
-
----
-
-### 2026-06-17 03:01:15  #公司
-
-委內瑞拉國有石油公司 PDVSA 與西班牙雷普索爾公司簽署原油與天然氣合作諒解備忘錄.
-
----
-
-### 2026-06-17 03:01:11  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.11% at 24,510, a 16-point premium to the cash index.
-
----
-
-### 2026-06-17 03:00:20  #MKT News #Market Themes #AI Revolution
-
-Castle Securities says loose financial conditions, ongoing supply-chain disruptions, an accelerating labor-market recovery and a surge in AI investment are combining to keep inflationary pressures elevated.
-
----
-
-### 2026-06-17 03:00:02  #市場
-
-恒指期貨夜盤收漲0.11%，報24511.80點，高水17.85點。
-
----
-
-### 2026-06-17 02:59:49  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Castle Securities (U.S.) says persistent, broad-based inf could prompt the Fed to begin a series of rate hikes as early as September.
-
----
-
-### 2026-06-17 02:59:33  #央行 #國際
-
-城堡證券表示，隨著通脹呈現持續性、全域擴散特徵，美聯儲最早9月開啟一輪加息週期的機率正在上升。
-
----
-
-### 2026-06-17 02:58:12  #市場
-
-布倫特原油期貨結算價報每桶78.96美元，下跌4.21美元，跌幅5.06%。
-
----
-
-### 2026-06-17 02:57:39  #國際
-
-美國有線電視新聞網證實，加州州長的妻子詹妮弗·西貝爾·紐瑟姆正遭到司法部調查。就在此事曝光前一日，加州州長加文·紐瑟姆剛指責本屆政府牽頭對其核心圈子展開一場帶有政治目的的調查。不過一名瞭解此次調查內情的人士否認，這項調查是由司法部內部特朗普任命的領導層發起的。
-
----
-
-### 2026-06-17 02:54:49  #國際
-
-【伊朗警告以色列停止黎南部軍事行動】當地時間6月16日晚，伊朗武裝部隊哈塔姆·安比亞中央司令部發布宣告稱，在美國總統特朗普宣佈戰爭結束後的兩天裡，以色列軍隊在黎巴嫩南部違反停火協議84次，繼續對黎巴嫩無辜民眾實施犯罪和屠殺。伊朗武裝部隊鄭重警告：如果以色列不停止對黎巴嫩南部的侵略和挑釁行為，等待它的將是伊朗武裝力量的強力回應。
-
----
-
-### 2026-06-17 02:54:48  #MKT News
-
-cenc measured a magnitude-3.7 earthquake at 02:50 on June 17 in Haixi Prefecture, Qinghai; hypocenter depth 10 km.
-
----
-
-### 2026-06-17 02:54:36  #MKT News #Market Themes #AI Revolution
-
-Sources said US Commerce Secretary Lutnick warned in a letter to ANTHROPIC that Washington would impose restrictions on advanced AI models, prompting ANTHROPIC to disable features of its MYTHOS model.
-
----
-
-### 2026-06-17 02:53:29  #國際
-
-伊朗革命衛隊哈塔姆·安比亞中央總部：儘管美國總統宣稱戰事已經結束，但以色列軍隊過去兩天內已84次破壞黎巴嫩南部停火協議，持續對毫無防禦能力的黎巴嫩民眾實施暴行。以色列若不停止在黎巴嫩南部的侵略行徑，就應當做好準備，迎接伊朗武裝力量堅決、果斷的反擊。
-
----
-
-### 2026-06-17 02:52:35  #國際
-
-市場資訊：美國國防部長赫格塞思今日現身國會山，有人剛剛看到他在參議院區域，隨行有安保團隊。
-
----
-
-### 2026-06-17 02:51:12  #MKT News #DXY #Impact bullish
-
-Peru's central bank bought USD 221 mln in the spot FX market.
-
----
-
-### 2026-06-17 02:51:02  #MKT News
-
-Peru's central bank conducted FX swap operations totaling 1.1 million soles.
-
----
-
-### 2026-06-17 02:50:21  #公司 #國際
-
-訊息人士透露：美國商務部長盧特尼克致信人工智慧公司Anthropic，警告政府將對高階人工智慧模型實施管制，受此影響Anthropic關停了Mythos相關功能。
-
----
-
-### 2026-06-17 02:49:59  #國際
-
-幣安表示將持續服務歐洲使用者，在有報道稱其可能失去歐盟經營許可後，平臺仍會依法合規運營。
-
----
-
-### 2026-06-17 02:46:46  #MKT News #Market Regions #Emerging Markets
-
-Fitch: Brazil general government gross debt-to-GDP rises to 78.6% in 2025; expected to exceed 80% in 2026.
-
----
-
-### 2026-06-17 02:45:38  #MKT News
-
-Fitch expects Brazil’s general government deficit-to-GDP ratio to widen from 8.1% in 2025 to 8.6% in 2026.
-
----
-
-### 2026-06-17 02:45:27  #國際
-
-【烏克蘭空軍蘇-24轟炸機墜毀 兩人遇難】烏克蘭空軍16日晚在社交媒體發文說，當天19時許，烏空軍一架蘇-24轟炸機在赫梅利尼茨基州執行任務時墜毀，機上兩人遇難。初步資訊顯示，墜機未造成平民傷亡。墜機原因正在調查中。（新華社）
-
----
-
-### 2026-06-17 02:45:19  #國際
-
-【伊朗官員：美方必須停止針對黎巴嫩的軍事行動、嚴格履行協議全部條款】伊朗議會國家安全與外交政策委員會主席易卜拉欣·阿齊茲表示，美方必須停止針對黎巴嫩的軍事行動、嚴格履行協議全部條款，以此證明其恪守美伊諒解備忘錄的誠意。美方若違背協議任何條款，伊朗都將予以堅決、毀滅性的回擊。單方面向伊朗施壓的時代已經落幕。
-
----
-
-### 2026-06-17 02:43:46  #其他
-
-【受青海海西州6.3級地震影響 大柴旦轄區多個景區景點臨時關停】青海海西州文體旅遊廣電局17日釋出通告，為保障人民群眾生命財產安全，嚴防地震次生災害引發安全事故，大柴旦轄區全部文旅經營場所及旅遊點位實施臨時關停管控。
-
----
-
-### 2026-06-17 02:42:47  #其他
-
-惠譽維持巴西評級“BB”，展望穩定。
-
----
-
-### 2026-06-17 02:42:30  #MKT News
-
-Fitch affirms Brazil's sovereign rating at BB, outlook stable.
-
----
-
-### 2026-06-17 02:40:33  #國際
-
-以色列媒體：以色列曾正式申請查閱美伊諒解備忘錄，遭到白宮拒絕。美以是最緊密的戰略盟友，但以色列政府對特朗普存在嚴重信任缺失。以色列國內瀰漫挫敗情緒，輿論層面伊朗佔據上風。
-
----
-
-### 2026-06-17 02:40:04  #公司
-
-檔案顯示：巴西石油監管機構巴西國家石油局（ANP）已批准向巴西國家石油公司（Petrobras）支付柴油補貼計劃第一階段的7.4億雷亞爾款項。
-
----
-
-### 2026-06-17 02:39:49  #MKT News #PETR4.SA #Impact bullish
-
-Brazilian oil regulator ANP approved payment of 740 million reais to Petrobras for the first tranche of a diesel subsidy program.
-
----
-
-### 2026-06-17 02:38:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Iran's Supreme Joint Military Command warned that if Israel does not cease attacks on southern Lebanon, it should expect a strong response from Iran's armed forces.
-
----
-
-### 2026-06-17 02:38:16  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
-
-【Night session main contracts close】At the 02:30 close, SHFE gold front-month contract fell 0.06% to 945 yuan/gram; SHFE silver front-month contract fell 0.07% to 16,847 yuan/kg; SC crude oil front-month contract fell 3.93% to 509 yuan/barrel.
-
----
-
-### 2026-06-17 02:38:11  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D closed the June 16 (Tuesday) night session up 0.06% at 941.78 yuan/gram; Silver T+D closed up 0.47% at 16,770 yuan/kg.
-
----
-
-### 2026-06-17 02:37:54  #焦點 #國際
-
-伊朗外交部阿拉格齊透露，伊朗與美國代表團定於週五在瑞士舉行會晤，兩國代表團團長將先簽署一份諒解備忘錄，隨後開啟首輪後續談判，此次瑞士會晤的具體地點將另行公佈。
-
----
-
-### 2026-06-17 02:32:21  #焦點 #國際
-
-伊朗最高聯合軍事指揮部表示，如果以色列不停止對黎巴嫩南部的進攻，伊朗武裝部隊將對其作出強硬回應。
-
----
-
-### 2026-06-17 02:31:14  #市場 #國際
-
-美國原油期貨結算價報每桶76.05美元，下跌4.70美元，跌幅5.82%。
-
----
-
-### 2026-06-17 02:31:08  #其他
-
-諾基亞：將把基站產能提升至當前水平的十倍，新增產能將於第三季度末前投產。
-
----
-
-### 2026-06-17 02:30:58  #國際
-
-美國參議院共和黨領袖圖恩：（針對克萊頓缺乏情報領域從業背景一事）紐約南區聯邦檢察官本身就需要處理各類情報相關事務。
-
----
-
-### 2026-06-17 02:30:31  #國際
-
-美國參議院共和黨領袖圖恩談及國家情報總監提名候選人傑伊·克萊頓：我們期待本週完成對他的相關稽核流程，想要在本週完成他的提名確認，需要各方配合，目前這一結果尚無法保證。
-
----
-
-### 2026-06-17 02:30:18  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Drops by 1.66% — Top crypto losers are Binance (-1.66%), XRP (-1.22%), Bitcoin (-0.66%) and Ether (-0.09%).
-
----
-
-### 2026-06-17 02:30:02  #市場
-
-上期所原油期貨夜盤收跌3.93%，報508.90元人民幣/桶。滬金夜盤收跌0.06%，滬銀收跌0.07%。
-
----
-
-### 2026-06-17 02:29:28  #國際
-
-美國參議院共和黨領袖圖恩：住房法案的落地事宜已 “近在咫尺”。
-
----
-
-### 2026-06-17 02:29:18  #MKT News
-
-Senate Republican leader Thune said the Senate will hold a procedural vote today on a bipartisan housing bill, but there are still unresolved issues in the measure.
-
----
-
-### 2026-06-17 02:29:01  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
-
-Senate Republican leader John Thune said he believes Senate Minority Leader Chuck Schumer and Democrats appear to want another government shutdown.
-
----
-
-### 2026-06-17 02:28:54  #央行 #國際
-
-【法國央行新行長稱無鷹派或鴿派傾向 決策將以資料為依據】法國央行行長Emmanuel Moulin表示，他在歐洲央行的政策選擇將以資料為依據，並沒有預先傾向加息或降息。Moulin上週首次出席歐洲央行貨幣政策會議，當時決策者一致決定上調借貸成本，以遏制通脹在經濟中蔓延。
-
----
-
-### 2026-06-17 02:26:47  #其他
-
-南非總統拉馬福薩週二告誡民眾，切勿將本國經濟困境歸咎於移民，他表示不該讓移民成為南非各類社會問題的替罪羊。
-
----
-
-### 2026-06-17 02:25:41  #市場 #國際
-
-【生活成本不斷上升 美國人被迫動用退休儲蓄應急】住房、醫療和教育成本不斷上漲，迫使越來越多美國人動用退休賬戶，儘管這樣做會面臨高額罰金和稅款。Vanguard Group Inc.週二在其年度《美國如何儲蓄》報告中表示，在其管理的401(k)計劃近500萬名參與者中，2025年有創紀錄的6%進行了困難提取，高於前一年的5%。約三分之二的提取資金用於避免房屋止贖或被驅逐，或用於支付醫療費用，比例分別為36%和31%。2025年動用賬戶的參與者中，約一半不止一次這樣做，21%的人進行了三次或更多次此類提取。對於年齡不到59歲半的人來說，這種做法往往代價高昂，因為他們從傳統的遞延納稅賬戶中取錢，通常除了繳納所得稅外，還要支付10%的罰金。
-
----
-
-### 2026-06-17 02:25:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rallies by 6.55% — Top commodity gainers are Cocoa (6.55%), Coffee (5.56%) and Oat (2.69%). Biggest losers are Canola (-1.13%) and Rapeseed (-1.11%).
-
----
-
-### 2026-06-17 02:21:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israeli public broadcaster reported that a senior UAE security official secretly visited Israel in March at the outset of US-led strikes on Iran and held high-level security talks.
-
----
-
-### 2026-06-17 02:20:56  #國際
-
-以色列媒體：今年3月以美聯合開展針對伊朗的行動之初，阿聯酋多名高階安全官員曾秘密出訪以色列，舉行高層安全會談。
-
----
-
-### 2026-06-17 02:20:20  #其他
-
-迦納總統：迦納與象牙海岸將於9月1日啟動2026/27可可季，至次年8月31日結束。
-
----
-
-### 2026-06-17 02:20:18  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Gains by 2.81% — Top commodity gainers are Platinum (2.81%) and Gold (0.70%). Biggest losers are Iron Ore CNY (-1.23%), Lithium Carbonate (-0.88%) and Steel Rebar (-0.76%).
 
 ---
