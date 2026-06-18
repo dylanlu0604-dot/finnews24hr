@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-19 00:13:19",
-  "count": 19061,
+  "updated": "2026-06-19 00:17:31",
+  "count": 19069,
   "items": [
+    {
+      "id": "4944027",
+      "time": "2026-06-19 00:16:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心關於埃博拉疫情應對：目前已有23名現場人員協助開展流行病學調查工作，併為剛果（金）衛生部提供支援。"
+    },
+    {
+      "id": "4944026",
+      "time": "2026-06-19 00:16:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗將獲得60億美元凍結資金的訪問許可權，用於購買美國商品。"
+    },
+    {
+      "id": "mkt:019edb84-e162-7dd8-b084-f550783f04ca",
+      "time": "2026-06-19 00:16:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Prime Minister Netanyahu will hold a security cabinet meeting tonight to discuss progress on the Iran agreement."
+    },
+    {
+      "id": "4944025",
+      "time": "2026-06-19 00:15:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯談及內塔尼亞胡： 我看到阿克西奧斯新聞的報道稱內塔尼亞胡大為惱火。但這和我與他溝通時感受到的情況並不相符。或許他對外人表達的態度，和對我所說的並不一樣。"
+    },
+    {
+      "id": "mkt:019edb84-7be9-7dd8-b084-e96994afef22",
+      "time": "2026-06-19 00:15:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Financial Times reports the Trump administration, under a temporary US-Iran accord, will allow Iran to access $6 bln of oil export proceeds held in Qatar to purchase US humanitarian supplies and other non-sanctioned goods."
+    },
+    {
+      "id": "te:markets:560153",
+      "time": "2026-06-19 00:15:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Eurozone Stocks Extend Record High — European stock indices closed mixed on Thursday as support from lower inflationary risks weighed against sector-specific losses. The Euro STOXX 50 gained 0.5% to a new record of 6,331 and the STOXX Europe dropped 0.4% to 637 amid pressure from heavyweight pharmaceutical, miners, and energy producers. US President Trump signed the memorandum of understanding with Iran that suspends the war for 60 days and restores the flows of fuel tankers through the Strait of Hormuz, lowering energy prices and reducing concerns that the ECB would deliver more rate hikes this year. Banks were mostly higher after leading gains this week, with UniCredit and Intesa Sanpaolo adding 0.7%. Meanwhile, industrials rose sharply with Airbus, Safran, and Schneider adding close to 3%. Meanwhile, Infineon jumped 7% to track the recent rally for chip producers worldwide. On the other hand, SAP dropped 4.7% on software weakness, while German auto manufacturers and British pharmaceuticals and miners retreated."
+    },
+    {
+      "id": "4944024",
+      "time": "2026-06-19 00:15:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我認為我們的公共資訊傳遞並沒有混亂。"
+    },
+    {
+      "id": "te:economy:560152",
+      "time": "2026-06-19 00:15:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Colombia Economic Growth Eases In April — Colombia’s leading economic index rose 3.3% year-on-year in April 2026, easing from a 4% increase in March. Tertiary activities grew 4.6%, slowing from 5.3% in the previous month. Within the sector, the strongest gains came from public administration and services, up 8.1% after 6.6% in March, and utilities supply, which rose 4.7% after 4.0%. Other categories, including professional, scientific, technical, administrative, and support activities (1.2% vs 3.4%) and information and communication (1.5% vs 3.4%), expanded at a slower pace. Secondary activities increased 1.8%, down from 3% in March. Meanwhile, primary activities contracted 2.4% after a 1.7% expansion in the previous month. On a month-over-month basis, economic activity rose 0.34%, following a 0.42% increase in March."
+    },
+    {
+      "id": "mkt:019edb83-537a-7dd8-b084-e36f731802ee",
+      "time": "2026-06-19 00:14:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance's press conference at the White House has concluded."
+    },
+    {
+      "id": "4944023",
+      "time": "2026-06-19 00:13:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯新聞釋出會結束。"
+    },
+    {
+      "id": "4944022",
+      "time": "2026-06-19 00:13:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：特朗普是目前唯一一位同情以色列的世界領導人。"
+    },
+    {
+      "id": "mkt:019edb82-3850-7dd8-b084-dcc1c9b6178b",
+      "time": "2026-06-19 00:13:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Vice President Vance said Israelis criticizing the deal Trump reached should perhaps not attack allies."
+    },
     {
       "id": "4944018",
       "time": "2026-06-19 00:12:23",
@@ -175544,38 +175655,6 @@
         "Importance 1"
       ],
       "text": "US 30-Year Mortgage Rate Approaches 9-Month High — The average rate on a 30-year fixed-mortgage inched higher by 4bps from the previous week to 6.52% on the second week of June, according to data compiled by Freddie Mac. The result was one basis point away from the nine-month high from two weeks prior amid the increase in long-term Treasury yields over the period. The prolonged conflict between the US and Iran maintained the blockade of energy exports from the region, lifting US inflation to drive rate traders to position for a Federal Reserve hike this year."
-    },
-    {
-      "id": "4930986",
-      "time": "2026-06-12 00:17:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：幾分鐘前，五角大樓官員表示，“就地避難”指令尚未解除。"
-    },
-    {
-      "id": "mkt:019eb779-4692-7dd8-afc6-889abdc73b50",
-      "time": "2026-06-12 00:17:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Per a Wall Street Journal reporter, Pentagon officials said minutes ago the shelter-in-place order remains in effect."
-    },
-    {
-      "id": "mkt:019eb776-4fdb-7dd8-afc6-87cc70740c7d",
-      "time": "2026-06-12 00:14:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Islamic Revolutionary Guard Corps (IRGC) spokesman said the United States would regret attempting to repeat its past failures."
-    },
-    {
-      "id": "4930985",
-      "time": "2026-06-12 00:14:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊發言人：如果美國想再次經歷其過去的失敗，那麼它將為此感到後悔。"
     }
   ]
 }
