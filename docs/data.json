@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-19 06:38:30",
-  "count": 18976,
+  "updated": "2026-06-19 06:42:31",
+  "count": 18973,
   "items": [
+    {
+      "id": "te:markets:560189",
+      "time": "2026-06-19 06:39:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Rises by 2.31% — Top commodity gainers are Rice (2.31%) and Oat (2.20%). Biggest losers are Coffee (-2.23%), Sugar (-1.67%) and Canola (-1.62%)."
+    },
+    {
+      "id": "4944354",
+      "time": "2026-06-19 06:38:40",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【6月19日隔夜要聞一覽】\n1、美股三大股指迎來修復上漲，納指漲1.91%。英特爾帶領晶片板塊走高，股價大漲10%。此前美國總統特朗普宣佈，該企業將與蘋果在美國本土開展晶片設計合作。\n2、美伊臨時和平協議生效，霍爾木茲海峽航運開始恢復，華府宣佈結束封鎖，圍繞德黑蘭核計劃的複雜談判也正式開始。\n3、一名知情人士稱，由於以色列持續襲擊黎巴嫩南部，伊朗談判代表團已推遲其前往瑞士的行程。\n4、伊朗最高領袖穆傑塔巴·哈梅內伊就伊美諒解備忘錄釋出宣告。穆傑塔巴·哈梅內伊稱，伊朗總統明確表示，“若美方得寸進尺、提出過分要求，伊朗將不會接受。從此刻起，伊朗方面將靜候所述條件的落實”。\n5、全球航運情報機構克普勒的資料顯示，三艘滿載原油的沙特超大型油輪已順利透過霍爾木茲海峽，合計運載原油600萬桶。\n6、據知情人士透露，在完成創紀錄規模的首次公開募股（IPO）後，馬斯克旗下SpaceX的承銷行正準備最早於下週與投資者舉行電話會議，討論一項潛在的債券發行計劃。\n7、據報道，Anthropic高管向商務部長霍華德·盧特尼克提交一份方案，承諾與白宮展開更深度合作，力求儘快消除各類安全隱患。\n8、隨著美伊本週達成旨在結束戰爭並解除美國海上封鎖的協議，伊朗認為這是迅速恢復石油出口的機會。在伊朗獲得及時喘息之機的同時，德黑蘭的增產可能加劇油價下行壓力。\n9、高盛資產管理的Kay Haigh表示，凱文·沃什擔任美聯儲主席後首次在政策決定公佈後所發表的講話，很可能會在美國國債收益率曲線短端引發更大波動，同時緩和長端的價格波動。"
+    },
+    {
+      "id": "4944353",
+      "time": "2026-06-19 06:38:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟27國領導人一致透過涉烏結論檔案】當地時間6月18日，歐洲理事會發布歐盟峰會關於烏克蘭問題的結論檔案。檔案顯示，歐盟27國領導人當天一致同意，重申對烏克蘭在其國際公認邊界內獨立、主權和領土完整的堅定支援。結論檔案同時指出，面對嚴峻的安全威脅和挑戰，歐洲必須在2030年前大幅提升防務準備水平。（央視新聞）"
+    },
     {
       "id": "te:markets:560188",
       "time": "2026-06-19 06:34:59",
@@ -174606,62 +174637,6 @@
         "國際"
       ],
       "text": "特朗普談及伊朗問題：基本已塵埃落定。"
-    },
-    {
-      "id": "4931304",
-      "time": "2026-06-12 06:42:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：今天我們與伊朗達成了和解。"
-    },
-    {
-      "id": "4931303",
-      "time": "2026-06-12 06:40:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：特斯拉 FSD 14.3.4 版本現已開始推送。"
-    },
-    {
-      "id": "te:markets:558477",
-      "time": "2026-06-12 06:40:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Rises by 2.70% — Top commodity gainers are Coffee (2.70%), Barley (2%) and Cotton (1.31%). Biggest losers are Corn (-1.73%), Rubber (-1.46%) and Cocoa (-1.15%)."
-    },
-    {
-      "id": "4931302",
-      "time": "2026-06-12 06:39:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲3%，現報1287.45美元/盎司。"
-    },
-    {
-      "id": "4931301",
-      "time": "2026-06-12 06:39:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀行專項貸強力支援，上市公司頻頻回購股份】今年以來，多家上市公司回購股份以穩定投資者信心。在此過程中，銀行發放的回購專項貸對上市公司助益頗多。Wind資料顯示，今年以來已有120多家上市公司就取得回購專項貸釋出公告，總計貸款額度近370億元。今年以來透過併購專項貸款進行股份回購的上市公司集中在醫藥、消費等板塊，這也與上述板塊的資本市場表現密切相關。由於今年以來A股市場的結構性行情較為明顯，不少醫藥、消費行業上市公司股價承壓，多家上市公司出手回購股份，以穩定市場信心。（中證報）"
-    },
-    {
-      "id": "te:economy:558476",
-      "time": "2026-06-12 06:39:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Manufacturing PMI",
-        "Importance 2"
-      ],
-      "text": "New Zealand Manufacturing Shrinks for 1st Time in 11 Months — The Business NZ Performance of Manufacturing Index in New Zealand declined to 49.9 in May, down from a downwardly revised 50.4 in April, marking the first contraction since June 2025 and falling below the long-term average of 52.5. The latest result highlighted that the war in Iran weighed heavily on the index."
     }
   ]
 }
