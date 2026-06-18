@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-19 06:54:39",
-  "count": 18975,
+  "updated": "2026-06-19 06:58:41",
+  "count": 18972,
   "items": [
+    {
+      "id": "te:economy:560192",
+      "time": "2026-06-19 06:56:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Exports Hit Record High — New Zealand’s exports increased 18.1% year-on-year to a record high of NZD 8.9 billion in May 2026, after a downwardly revised 7.7% rise in the previous month."
+    },
     {
       "id": "te:economy:560191",
       "time": "2026-06-19 06:53:19",
@@ -174621,41 +174633,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Set to Close Week on High Note — The NZX 50 climbed 54 points, or 0.4%, to 13,256 in Friday morning trade, erasing losses from the previous session and rebounding from its lowest level in over two weeks, reached a day earlier, tracking a rise on Wall Street overnight amid easing tensions in the Middle East and a rally in tech shares. Almost all sectors traded in the green, including financials, energy, and materials. However, the latest data capped gains as New Zealand's manufacturing sector contracted for the first time in 11 months, amid rising oil prices due to the Middle East conflict. Traders also anticipated the release of New Zealand's Q1 GDP and May trade balance data, as well as the Fed's monetary policy decision next week. Among early gainers were Infratil (1.6%), Contact Energy (1.1%), A2 Milk (0.8%), Ebos Group (0.7%), and Mainfreight (0.4%). For the week, the index rose 0.3%, after falling in the previous week."
-    },
-    {
-      "id": "4931321",
-      "time": "2026-06-12 06:57:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股上市公司批次調整鎖價定增方案】A股公司正在密集修訂定增方案。6月9日、6月10日兩天時間裡，已有包括璉升科技股份有限公司等在內的6家上市公司釋出公告，調整定增方案，將定價基準日由“董事會決議公告日”調整為“發行期首日”，並相應調整發行價格和發行數量。截至6月11日發稿，6月份以來累計已有21家上市公司調整了定增方案，將鎖價定增改為競價定增；5月份以來，A股新增的定增預案均採用競價發行，無鎖價發行方案。（證券日報）"
-    },
-    {
-      "id": "4931320",
-      "time": "2026-06-12 06:57:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4240美元/盎司，日內漲0.79%。"
-    },
-    {
-      "id": "4931319",
-      "time": "2026-06-12 06:57:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破68美元/盎司，日內漲6.28%。"
-    },
-    {
-      "id": "4931318",
-      "time": "2026-06-12 06:57:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4260美元/盎司，日內漲3.56%。"
     }
   ]
 }
