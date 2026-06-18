@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-18 14:27:49",
-  "count": 18871,
+  "updated": "2026-06-18 14:31:50",
+  "count": 18870,
   "items": [
+    {
+      "id": "4942605",
+      "time": "2026-06-18 14:30:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行：預計2026年和2027年通脹率將突破4%的目標上限。"
+    },
+    {
+      "id": "4942604",
+      "time": "2026-06-18 14:30:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數創下收盤新高。"
+    },
+    {
+      "id": "4942603",
+      "time": "2026-06-18 14:30:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上海閔行發文支援長三角製造業研發集聚區發展，最高獎勵2000萬】2026年6月18日，記者從上海市閔行區獲悉，該區近日出臺《關於打造長三角製造業研發集聚區的支援政策（試行）》，自2026年6月19日起施行，有效期至2029年6月18日。該政策的支援物件為：在虹橋國際中央商務區閔行部分及其他重點輻射拓展區內打造的長三角製造業研發集聚區，實體化運營的研發機構、特色研發經濟樓宇，以及舉辦高等級科技創新活動的各類市場主體。具體來看，在支援長三角研發經濟集聚發展、持續打造一批具有長三角製造業研發功能的特色研發經濟樓宇方面，政策提出根據研發經濟生態建設、運營管理水平、企業數量、科技屬性，分三年給予樓宇運營方研發功能提升、建設運營獎勵，每年最高2000萬元。同時，政策支援研發機構為開展基礎研究、應用基礎研究、關鍵核心技術攻關、產業共性技術研發與服務等購置研發裝置和基礎軟體，根據實際發生費用最高50%，給予上限2000萬元支援。（澎湃新聞）"
+    },
+    {
+      "id": "te:markets:559950",
+      "time": "2026-06-18 14:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.80% Higher — The Nikkei 225 Index went up by 1256 points or 1.80 percent on Thursday to close at 71158 points. The rise was led by Murata Manufacturing (12.38%), Ajinomoto (8.41%) and Recruit Holdings (6.89%)."
+    },
+    {
+      "id": "te:economy:559948",
+      "time": "2026-06-18 14:29:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Swiss Trade Surplus Widens to Over 1-Year High — Switzerland’s trade surplus widened sharply to CHF 5.6 billion in May 2026 from an upwardly revised CHF 3.3 billion in the previous month, marking the largest surplus since April 2025. Exports climbed 3.4% month-on-month to a more than one-year high of CHF 25.4 billion, driven mainly by chemical and pharmaceutical products (25.7%) and jewellery and precious metal goods (14.7%), despite a 4% decline in watch. Exports to Europe rose the most, up 18.5%, with shipments to Slovenia more than doubling (111.8%), while exports to North America increased 10.3%, led by the US (11.5%). Meanwhile, imports rose 3.4% from a month earlier to a three-month high of CHF 19.8 billion, led by higher purchases of chemical and pharmaceutical products (11.7%) and machinery, electronics and equipment (1.1%). By region, imports increased from Europe (5.9%) and the US (11.2%). In contrast, imports declined from Asia (-2.6%), led by China (-4.3%), Japan (-19.6%), and Hong Kong (-24.4%)."
+    },
+    {
+      "id": "mkt:019ed96a-c4d9-7dd8-b06e-9ff5637306b1",
+      "time": "2026-06-18 14:28:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【UK labor market shows signs of stabilizing; markets pare Bank of England rate‑hike bets】ONS data hours before the Bank of England decision show May employment +2,000 versus economists' -23,000 forecast; April employment decline revised to -53,000 from -100,000. Three‑month unemployment to April eased to 4.9% and vacancies fell to their lowest since early 2021. Weaker‑than‑expected UK inflation yesterday and a US‑Iran ceasefire that helped push global energy prices sharply lower have together cooled market pricing for further BoE hikes. Markets largely expect the Bank Rate to be held at 3.75% later today."
+    },
+    {
+      "id": "4942602",
+      "time": "2026-06-18 14:28:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊臨時和平協議生效，歐洲天然氣價格跌至兩個月低點】美伊臨時和平協議正式落地後，歐洲天然氣價格跌至近兩月新低，市場焦點轉向霍爾木茲海峽能源運力恢復速度。週四基準天然氣期貨最大跌幅達 4.6%，創 4 月 21 日以來合約最低價格。市場看好這條關鍵航道供油供氣將快速恢復，本週氣價累計下跌超 10%。美國總統唐納德・特朗普在巴黎近郊凡爾賽宮簽署該協議，席間與法國總統埃馬紐埃爾・馬克龍共進晚餐。協議內容包括快速重開霍爾木茲海峽、立即豁免伊朗原油相關制裁。目前尚不清楚伊朗是否已啟動全面恢復海峽通航的相關舉措。"
+    },
+    {
+      "id": "mkt:019ed96a-5a01-7dd8-b06e-9322fd1125d0",
+      "time": "2026-06-18 14:28:06",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "EURUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China Customs director Sun Meijun meets Germany's federal minister for agriculture and food Alois Reiner】On June 17, China Customs director Sun Meijun met with Germany's federal minister for agriculture and food Alois Reiner. They exchanged views on implementing bilateral leaders' consensus, expanding agri-food trade volumes and strengthening cooperation on animal and plant disease prevention and control."
+    },
+    {
+      "id": "mkt:019ed969-d5d6-7dd8-b06e-8aad33970966",
+      "time": "2026-06-18 14:27:32",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan Bankers Association chairman said the Bank of Japan's policy rate remains accommodative."
+    },
     {
       "id": "mkt:019ed969-5a93-7dd8-b06e-80edfd364dda",
       "time": "2026-06-18 14:27:00",
@@ -173889,94 +173982,6 @@
         "Impact bullish"
       ],
       "text": "Goldman Sachs raises ASML PT to €1,770 from €1,600."
-    },
-    {
-      "id": "4929704",
-      "time": "2026-06-11 14:31:49",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將阿斯麥目標股價從1600歐元上調至1770歐元。"
-    },
-    {
-      "id": "4929703",
-      "time": "2026-06-11 14:31:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲0.06%，報64217.27點。韓國綜指收漲0.42%，報7762.94點。"
-    },
-    {
-      "id": "4929701",
-      "time": "2026-06-11 14:30:59",
-      "tags": [
-        "行業",
-        "公司"
-      ],
-      "text": "【GLP-1減重藥“吃掉”全球15%乳清供給】以司美格魯肽為代表的GLP-1減重藥需求大增，正在引發一場全球乳清原料價格大漲的“蝴蝶效應”。近期，各大品牌蛋白粉漲價的新聞在減重、增肌人群中刷屏。據行業人士透露，GLP-1減重藥創造的乳清蛋白補充需求，吃掉了全球15%的乳清供給。疊加產能受限、營養品市場擴容，運動營養食品核心乳清蛋白原料WPC80價格近一年上漲了120%–150%。受價格和利潤驅使，原本可用於生產D90脫鹽乳清粉的原料被“虹吸”至WPC80產線，導致國內D90採購價較年初翻倍，這意味著以D90為原料的嬰幼兒配方奶粉也存在調價壓力。(新京報)"
-    },
-    {
-      "id": "4929700",
-      "time": "2026-06-11 14:30:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海通國際張憶東：今年夏季行情N型向下的變盤點，很可能就在6月10日-18日】近日，海通國際執委會委員、首席經濟學家張憶東表示，今年夏季行情N型向下的變盤點，很可能就在6月10日-18日。（澎湃新聞）"
-    },
-    {
-      "id": "te:markets:558281",
-      "time": "2026-06-11 14:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.11% Lower — The Nikkei 225 Index decreased 71 points or 0.11 percent on Thursday to close at 64108 points. The decline was led by Hino Motors (-5.42%), Kawasaki (-4.21%) and Toho Zinc (-4.13%). On the upside, the strongest performers were Toppan (15.07%), Ajinomoto (8.37%) and Resonac Holdings (6.59%)."
-    },
-    {
-      "id": "4929699",
-      "time": "2026-06-11 14:29:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士稱，截至週四亞洲午後，投資者對Danantara投資管理公司美元債券的投標規模已超過15億美元，而目標上限為10億美元。"
-    },
-    {
-      "id": "4929697",
-      "time": "2026-06-11 14:28:46",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛將保時捷評級從中性上調至買入。"
-    },
-    {
-      "id": "mkt:019eb55d-fc25-7dd8-afb5-612f36325dcb",
-      "time": "2026-06-11 14:28:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【June 11: China Agricultural Products Wholesale Price 200 Index up 0.43 points】China’s Ministry of Agriculture and Rural Affairs: Agricultural Products Wholesale Price 200 Index 113.59 on June 11, up 0.43 points from a day earlier; vegetable-basket wholesale price index 113.66, up 0.46 points. As of 14:00 national wholesale-market average prices: pork 14.50 yuan/kg (-1.1% vs yesterday); beef 66.57 yuan/kg (-0.2%); mutton 64.21 yuan/kg (+0.2%); eggs 10.78 yuan/kg (-0.1%); dressed chicken 17.26 yuan/kg (+1.4%)."
-    },
-    {
-      "id": "4929696",
-      "time": "2026-06-11 14:28:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月11日：“農產品批發價格200指數”比昨天上升0.43個點】據農業農村部監測，6月11日“農產品批發價格200指數”為113.59，比昨天上升0.43個點，“菜籃子”產品批發價格指數為113.66，比昨天上升0.46個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.50元/公斤，比昨天下降1.1%；牛肉66.57元/公斤，比昨天下降0.2%；羊肉64.21元/公斤，比昨天上升0.2%；雞蛋10.78元/公斤，比昨天下降0.1%；白條雞17.26元/公斤，比昨天上升1.4%。重點監測的28種蔬菜平均價格為4.33元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為7.53元/公斤，比昨天上升1.2%。鯽魚20.58元/公斤，比昨天上升1.4%；鯉魚14.86元/公斤，比昨天上升0.2%；白鰱魚10.41元/公斤，比昨天下降0.4%；大帶魚40.98元/公斤，比昨天上升1.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是蓮藕、菠蘿、巨峰葡萄、白蘿蔔和胡蘿蔔，幅度分別為6.7%、2.4%、2.2%、1.7%和1.6%；價格降幅前五名的是蔥頭、黃瓜、大白菜、豬肉和菜花，幅度分別為4.6%、1.3%、1.3%、1.1%和1.0%。"
-    },
-    {
-      "id": "4929695",
-      "time": "2026-06-11 14:28:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【臻寶科技明日申購 頂格申購需配市值9萬元】臻寶科技明日開啟申購，公司本次發行前總股本為1.16億股，本次擬公開發行股票3882.26萬股，佔發行後總股本的比例為25.00%，其中網上發行931.70萬股，申購程式碼787797，申購價格為44.56元，發行市盈率為31.31倍，單一賬戶申購上限為0.90萬股，申購數量為500股的整數倍，頂格申購需持有滬市市值9萬元。"
     }
   ]
 }
