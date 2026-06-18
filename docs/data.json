@@ -1,7 +1,289 @@
 {
-  "updated": "2026-06-19 05:01:36",
-  "count": 18980,
+  "updated": "2026-06-19 05:46:44",
+  "count": 18988,
   "items": [
+    {
+      "id": "4944333",
+      "time": "2026-06-19 05:44:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "MSCI新興市場外匯指數跌0.7%，韓元、智利比索、巴西雷亞爾跌幅突出。"
+    },
+    {
+      "id": "4944332",
+      "time": "2026-06-19 05:38:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐約時報廣場發生槍擊】當地時間6月18日下午3點36分，美國紐約市時報廣場發生槍擊事件。高空監控錄影捕捉到了槍聲響起、人群四散奔逃的瞬間。據紐約市警方通報，目前一名嫌疑人已被逮捕，涉案槍支已繳獲，事件中無人受傷。警方正在展開進一步調查。 (CCTV國際時訊)"
+    },
+    {
+      "id": "4944331",
+      "time": "2026-06-19 05:38:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼北蘇拉威西省發生5.7級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間18日23時33分，印尼北蘇拉威西省塔勞群島縣梅龍瓜內鎮西北偏北方向335公里處發生5.7級地震，震源深度10公里。（央視）"
+    },
+    {
+      "id": "mkt:019edcab-68c0-7dd8-b088-e5d37d99144c",
+      "time": "2026-06-19 05:38:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shooting in Times Square, New York】A shooting occurred in Times Square, New York, at 3:36 p.m. local time on June 18. Aerial footage captured gunfire and people fleeing. The NYPD said one suspect has been arrested and a firearm recovered; no injuries were reported. Police said an investigation is ongoing."
+    },
+    {
+      "id": "4944330",
+      "time": "2026-06-19 05:35:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美特使：伊朗將邀請國際原子能機構檢查其核設施】據美國媒體18日報道，美國總統特使威特科夫當天在一次閉門簡報會中對美國會議員說，伊朗將邀請聯合國國際原子能機構檢查其核設施，並著手確認和查明伊朗濃縮核材料存放的具體位置。據美聯社援引知情人士的話報道，威特科夫對國會領導層及國家安全相關委員會成員表示，美伊諒解備忘錄不含任何“附帶協議”，但伊朗與國際原子能機構之間起草了一份附函，其中包含上述邀請內容。威特科夫表示，這封致國際原子能機構總幹事格羅西的信函將使他能夠帶領美國核查人員前往德黑蘭。（新華社）"
+    },
+    {
+      "id": "4944329",
+      "time": "2026-06-19 05:33:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Kalshi 的 IPO 洽談尚處於初期階段，公司大機率要到明年下半年甚至 2028 年才會上市。"
+    },
+    {
+      "id": "mkt:019edca7-6e72-7dd8-b088-daf29010059d",
+      "time": "2026-06-19 05:33:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【CITIGROUP expects oil to fall to $60-65/bbl by Q1 2027】CITIGROUP said on Thursday it expects oil to trend lower over the next 6–12 months and reach $60–65/bbl by Q1 2027, citing a US‑Iran memorandum to end their conflict that would normalize shipments through the Strait of Hormuz. The bank added that restoring and normalizing flows via the strait would, over time, \"re-anchor prices to weaker fundamentals.\" Oil slid on Thursday to its lowest level since the Feb. 28 outbreak of war; analysts say exports through the strait, about one-fifth of global supply, could return to normal in the coming months."
+    },
+    {
+      "id": "4944328",
+      "time": "2026-06-19 05:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Kalshi 年化營收突破 20 億美元，已進入 IPO 初步洽談階段。"
+    },
+    {
+      "id": "mkt:019edca4-a9ce-7dd8-b088-d7c6a6dcdaf7",
+      "time": "2026-06-19 05:30:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister said crude export recovery will be gradual and contingent on smooth passage through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019edca3-ca58-7dd8-b088-cd01f2497c1e",
+      "time": "2026-06-19 05:29:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister says oilfields are ready to resume production operations."
+    },
+    {
+      "id": "mkt:019edca3-8f4a-7dd8-b088-c5b5f31ef8c2",
+      "time": "2026-06-19 05:29:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister said the country will gradually restore oil production to normal operations until output returns to previous levels."
+    },
+    {
+      "id": "4944325",
+      "time": "2026-06-19 05:29:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長：石油生產將逐步恢復運營，直至回到此前的產量水平。"
+    },
+    {
+      "id": "mkt:019edca0-6a15-7dd8-b088-be6ef181337b",
+      "time": "2026-06-19 05:26:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran says Strait of Hormuz transit free for 60 days】Iran’s Supreme National Security Council said under an Iran–U.S. memorandum of understanding merchant vessels applying to transit the Strait of Hormuz will be exempt from fees for 60 days. Under Article 5, ships must file applications with Iran’s Persian Gulf Strait Administration; during the 60-day period no transit fees will be charged and related costs will be borne by the Iranian government. Tehran has ordered the administration to review and respond to applications promptly. The statement said parts of the waterway remain security risks and vessels must use designated routes and specified times to ensure safety and avoid maritime incidents."
+    },
+    {
+      "id": "4944323",
+      "time": "2026-06-19 05:21:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：霍爾木茲海峽60天內免費通行】據伊朗伊斯蘭共和國通訊社18日報道，伊朗最高國家安全委員會發表宣告說，根據伊美諒解備忘錄，在未來60天內，申請透過霍爾木茲海峽的船隻將免繳相關費用。宣告說，根據諒解備忘錄第5條規定，申請透過霍爾木茲海峽的商船須向伊朗波斯灣海峽管理局提交申請。在60天期限內，將不向申請透過霍爾木茲海峽的船隻收取任何費用，相關費用由伊朗政府承擔。基於此，伊方已責成波斯灣海峽管理局儘快對相關申請予以審查和回覆。宣告表示，鑑於當前特殊情況以及航道部分割槽域仍存在安全風險，為確保航行安全並避免海上事故，相關船隻須按照指定航線和規定時間透過霍爾木茲海峽。宣告還說，有關霍爾木茲海峽通航的具體實施安排和技術細節將由波斯灣海峽管理局另行公佈。對於包括掃雷在內的其他事項，伊方將依據諒解備忘錄第5條有關規定採取必要措施。（新華社）"
+    },
+    {
+      "id": "mkt:019edc98-741a-7dd8-b088-b08e65964f0f",
+      "time": "2026-06-19 05:17:19",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Zelenskiy said Europe’s security depends on financial backing for Ukraine’s armed forces and urged the EU and a “voluntary coalition” to develop financial instruments to provide that support."
+    },
+    {
+      "id": "mkt:019edc97-0f0f-7dd8-b088-aed1d754b766",
+      "time": "2026-06-19 05:15:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Ukrainian President Zelenskiy said Europe’s best next step is to accelerate Ukraine’s EU accession process."
+    },
+    {
+      "id": "4944322",
+      "time": "2026-06-19 05:15:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 歐洲的未來，取決於烏克蘭的防禦事業。"
+    },
+    {
+      "id": "4944321",
+      "time": "2026-06-19 05:15:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.23%，報15709點。"
+    },
+    {
+      "id": "4944320",
+      "time": "2026-06-19 05:15:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 歐洲的安全取決於為烏克蘭軍隊提供資金保障，歐盟與 “自願聯盟” 可為此創設相關金融工具。"
+    },
+    {
+      "id": "4944319",
+      "time": "2026-06-19 05:15:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：讓烏克蘭快速加入歐盟，是關乎歐洲未來最有利的舉措。"
+    },
+    {
+      "id": "te:economy:560185",
+      "time": "2026-06-19 05:10:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "South Korea Producer Inflation Nears Four-Year High — South Korea’s producer prices rose 8.5% year-on-year in May 2026, up from a 7.2% increase in April and marking the strongest increase since July 2022. Manufacturing producer prices climbed 13.3%, led by a 77.5% surge in coal and petroleum products. Prices for computers, electronic and optical equipment rose 20.2%, while chemical products increased 20.6% and basic metal products advanced 14.5%. Service prices also rose 4.9%, driven by a 35.3% jump in financial and insurance activities. Meanwhile, prices for agricultural, forestry, and marine products increased 4.8%, supported by a 10.3% rise in livestock prices. Utility prices edged up 0.2%. On a month-over-month basis, producer prices rose 0.8%, easing from a 2.7% increase in April."
+    },
+    {
+      "id": "4944318",
+      "time": "2026-06-19 05:08:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄方稱扎波羅熱核電站連遭日均50次以上襲擊】據俄羅斯媒體18日報道，俄羅斯國家原子能公司執行長利哈喬夫當天表示，扎波羅熱核電站已連續幾天遭受到日均50次以上的襲擊。"
+    },
+    {
+      "id": "mkt:019edc90-7dcc-7dd8-b088-a1619c979a22",
+      "time": "2026-06-19 05:08:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Rosatom CEO says Zaporizhzhia nuclear plant hit over 50 times per day on average】Russian media on 18 reported Rosatom CEO Likhachov said the Zaporizhzhia nuclear plant has been subjected to an average of more than 50 attacks per day for several consecutive days."
+    },
+    {
+      "id": "4944317",
+      "time": "2026-06-19 05:06:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（6月18日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7784元，較週三紐約尾盤跌22點，日內整體交投於6.7624-6.7810元區間。"
+    },
+    {
+      "id": "mkt:019edc8c-c9fb-7dd8-b088-9994fd802749",
+      "time": "2026-06-19 05:04:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "【SpaceX receives investment-grade ratings from Moody's, Fitch and S&P; outlooks stable】On Thursday SpaceX (SPCX.O) was assigned investment-grade credit ratings by Moody's, Fitch and S&P Global Ratings, each with a stable outlook. The consensus signals broad market confidence in SpaceX's financial stability as the company advances a costly, ambitious AI program amid intense competition."
+    },
+    {
+      "id": "4944316",
+      "time": "2026-06-19 05:03:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：赫格塞思近期取得了不少亮眼成果，未來他還將收穫更多佳績。"
+    },
+    {
+      "id": "4944315",
+      "time": "2026-06-19 05:02:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：股市剛剛創下歷史新高，401 (k) 養老金賬戶市值也同步重新整理紀錄。與此同時油價大幅暴跌。除此之外，眼下局勢一片向好。"
+    },
+    {
+      "id": "4944314",
+      "time": "2026-06-19 05:01:52",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【6月19日美股成交額前20：英特爾大漲10% 將與蘋果合作在美設計和生產晶片】週四美股成交額第1名邁威爾科技，收漲7.27%，成交786.31億美元。第2名美光科技，漲8.70%，成交716.42億美元。第4名英偉達，漲2.95%，成交499.47億美元。第7名英特爾漲10.64%，成交306.15億美元。第8名閃迪，收漲11.54%，成交259.09億美元。第9名蘋果，漲0.70%，成交254.44億美元。第10名AMD，漲4.86%，成交232.97億美元。此前美國總統唐納德·特朗普表示，英特爾將與蘋果公司合作，在美國本土設計和生產晶片。"
+    },
+    {
+      "id": "mkt:019edc8a-4abc-7dd8-b088-92e465b0eaad",
+      "time": "2026-06-19 05:01:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Source: Iran delays Switzerland trip as Israeli strikes on southern Lebanon continue】A source said on the 18th that Iran’s negotiating delegation has postponed its trip to Switzerland because of continued Israeli strikes on southern Lebanon. The delegation had been preparing to depart and planned to begin an initial 60-day round of talks. Iran has told the US and mediators that the Lebanon issue remains a core element of US‑Iran negotiations and will directly affect whether talks continue or are suspended."
+    },
     {
       "id": "4944313",
       "time": "2026-06-19 05:00:27",
@@ -174480,195 +174762,6 @@
         "國際"
       ],
       "text": "據伊朗塔斯尼姆通訊社：協議草案尚未獲得伊朗官方最終批准。 據知情訊息人士稱，在軍事與外交施壓未果後，美方不再要求修改伊朗提出的十四點回應內容。 伊朗已拒絕美方最新修訂提議，協議文字仍由伊朗相關機構審議。 在審議工作結束前，各方需審慎看待相關傳聞與猜測。"
-    },
-    {
-      "id": "4931271",
-      "time": "2026-06-12 05:44:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Deltec資產管理公司專注於新興市場股票的投資組合經理Greg Lesko：市場感覺到我們終於接近這場（與伊朗相關的）衝突的尾聲了，無論是如目前預期的那樣達成協議，還是繼續轟炸。魔鬼藏在細節中，而我們目前還沒看到這些細節。"
-    },
-    {
-      "id": "4931270",
-      "time": "2026-06-12 05:34:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：加拿大正尋求與墨西哥達成雙邊協議。"
-    },
-    {
-      "id": "4931269",
-      "time": "2026-06-12 05:33:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗錫裡克地區海岸附近傳出爆炸聲】據伊朗媒體12日報道，伊朗錫裡克地區海岸附近多次傳出爆炸聲，原因不明。 (新華社)"
-    },
-    {
-      "id": "mkt:019eb89a-6932-7dd8-afcb-f505fe79105b",
-      "time": "2026-06-12 05:33:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA (NVDA.O) shareholder meeting scheduled for June 24; individual investors may participate online."
-    },
-    {
-      "id": "4931268",
-      "time": "2026-06-12 05:32:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達股東大會定於 6 月 24 日舉行，個人可線上參會。"
-    },
-    {
-      "id": "mkt:019eb899-5108-7dd8-afcb-eb403f65b740",
-      "time": "2026-06-12 05:31:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【CME plans 24/7 trading for new crude and gold contracts】CME said, pending regulatory review, it will offer 24/7 trading for new, smaller crude and gold futures. The new crude contract will be one-tenth the size of CME’s micro WTI and is scheduled to launch on Aug. 30. CME’s existing 1-ounce gold futures will move to around-the-clock trading from July 26. Derek Sammann, head of global commodity markets, said regulated 24/7 products will allow traders to manage exposures immediately amid geopolitical uncertainty."
-    },
-    {
-      "id": "mkt:019eb897-77a0-7dd8-afcb-e109fa04df6d",
-      "time": "2026-06-12 05:29:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "SHEL.O",
-        "Impact mixed"
-      ],
-      "text": "Venezuela signed an oil and gas agreement with Shell that includes Shell's participation in the Loran offshore gas field project."
-    },
-    {
-      "id": "4931267",
-      "time": "2026-06-12 05:29:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "日產汽車總裁：公司將藉助人工智慧把新車型的研發週期縮短一半，加快產品上市節奏。"
-    },
-    {
-      "id": "4931266",
-      "time": "2026-06-12 05:27:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：“推遲密歇根-安大略”大橋開放是美國的請求。"
-    },
-    {
-      "id": "4931265",
-      "time": "2026-06-12 05:23:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼： 應美方要求，已同意推遲底特律 - 溫莎大橋的通車時間。"
-    },
-    {
-      "id": "4931264",
-      "time": "2026-06-12 05:21:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方媒體：錫裡克海岸附近傳出爆炸聲，事發原因及爆炸來源尚不明確。"
-    },
-    {
-      "id": "mkt:019eb88f-f45d-7dd8-afcb-da8f01edcf6d",
-      "time": "2026-06-12 05:21:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Refinitiv, citing Iranian media, reported explosions were heard near the coast of Sirik, Iran; cause and origin unclear."
-    },
-    {
-      "id": "mkt:019eb88d-0a27-7dd8-afcb-d255f4d48d6a",
-      "time": "2026-06-12 05:18:31",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CME will expand round‑the‑clock trading hours for WTI crude oil and gold."
-    },
-    {
-      "id": "4931263",
-      "time": "2026-06-12 05:18:07",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國芝加哥商業交易所集團（CME）將WTI原油與黃金交易時間拓展至7*24交易模式。"
-    },
-    {
-      "id": "4931262",
-      "time": "2026-06-12 05:18:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX持股方Ark稱軌道資料中心或帶來3,000億美元年營收】Ark Investment Management的Brett Winton表示，按當前租賃費率計算，到本十年末，SpaceX透過部署數十吉瓦的軌道資料中心容量，可能產生3,000億美元年營收。Ark首席未來學家Winton週四在SpaceX創紀錄的首次公開募股(IPO)定價之前作出上述評估，詳細解釋了他眼中這家公司背後的估算邏輯。SpaceX目前是Ark旗下風投基金的最大持倉。SpaceX的機遇包括新型助推火箭以及利潤豐厚的星鏈衛星網際網路業務。“單是星鏈業務，就能在六個月內收回現金投入，”Winton週四在接受採訪時表示，因為一次滿載衛星的SpaceX發射成本約為5億美元，但這些衛星在五年壽命期內每年將產生10億美元收入。"
-    },
-    {
-      "id": "4931260",
-      "time": "2026-06-12 05:15:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.81%，報15318點。"
-    },
-    {
-      "id": "4931259",
-      "time": "2026-06-12 05:15:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "Adobe高管表示，公司計劃敲定下一任執行長人選，使其主導 2027 財年及後續規劃制定工作。"
-    },
-    {
-      "id": "mkt:019eb881-a37f-7dd8-afcb-cf6b0ac16bb5",
-      "time": "2026-06-12 05:06:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US State Department approves sale of FIM-92K Stinger missiles to Brazil, estimated value $330 million."
-    },
-    {
-      "id": "4931258",
-      "time": "2026-06-12 05:05:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界盃揭幕戰 東道主墨西哥隊2-0戰勝南非隊】北京時間6月12日3時，2026年美加墨世界盃揭幕戰（A組第一輪）在阿茲特克球場舉行，東道主墨西哥隊迎戰南非隊。最終，東道主墨西哥隊2-0戰勝南非隊。"
-    },
-    {
-      "id": "4931257",
-      "time": "2026-06-12 05:02:34",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外交部：霍爾木茲海峽目前仍關閉】伊朗外交部發言人巴加埃當地時間11日稱，由於“美國的非法行為”，霍爾木茲海峽目前仍處於關閉狀態。巴加埃表示，由於無法確保安全通航，各船隻必須保持謹慎。當日早些時候，美國中央司令部表示，霍爾木茲海峽仍保持通行。美國中央司令部表示，已為途經霍爾木茲海峽的商船設立了安全航道，所有未違反針對伊朗封鎖措施的船隻均可使用這些航道。（央視新聞）"
-    },
-    {
-      "id": "4931256",
-      "time": "2026-06-12 05:02:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金漲超3.4%，白銀漲6%，紐約銅漲約3.1%】週四（6月11日）紐約尾盤，現貨黃金漲3.44%，報4212.34美元/盎司，北京時間01:38之前大致持穩——交投於4070美元附近，隨後快速拉昇至4169美元上方、03:36重新整理日高至4220.09美元。COMEX黃金期貨漲2.38%，報4231.90美元/盎司，絕大部分時間維持微幅下跌狀態——持穩於4100美元附近，01:38迅速拉昇；亞太盤初曾跌至4046.20美元，逼近2025年10月28日盤中最低位4021.40美元。現貨白銀漲6.03%，報67.1837美元/盎司，走勢與倫敦金相仿，03:42重新整理日高至67.5590美元。COMEX白銀期貨漲5.85%，報67.255美元/盎司，日內大部分時間持穩於64美元附近。COMEX銅期貨漲3.07%，報6.3870美元/磅，日內過半交易時間微幅上漲——持穩於6.25美元附近，01:28短線拉昇，在美股收盤之前一度突破6.40美元關口。現貨鉑金漲3.27%，報1719.67美元/盎司，走勢與現貨金銀類似；現貨鈀金漲4.59%，報1273累1美元/盎司，亞太盤初微跌、07:19重新整理日低至1210.09美元，08:15轉漲——日內大部分時間窄幅交投於1250美元附近，也在01:28出現一波短線加速上漲行情，03:30重新整理日高至1287.20美元。"
     }
   ]
 }
