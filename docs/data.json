@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-19 07:28:30",
-  "count": 18964,
+  "updated": "2026-06-19 07:32:29",
+  "count": 18968,
   "items": [
+    {
+      "id": "4944391",
+      "time": "2026-06-19 07:31:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部：6月20日零點起自澳大利亞進口牛肉將在現行適用關稅稅率基礎上加徵55%關稅】6月19日，商務部發布2026年度牛肉保障措施執行提示資訊。牛肉保障措施項下自澳大利亞進口的牛肉於2026年6月18日已達到商務部公告2025年第87號明確的該國家規定數量的100%。根據商務部公告2025年第87號，在澳大利亞牛肉進口數量達到規定數量100%的第3日起（6月20日零點起），自該國進口牛肉將在現行適用關稅稅率基礎上加徵55%關稅。"
+    },
+    {
+      "id": "mkt:019edd13-5867-7dd8-b089-ff39fd1793da",
+      "time": "2026-06-19 07:31:32",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Japan nationwide non-seasonally adjusted CPI +0.5% MoM in May; previous +0.3%."
+    },
+    {
+      "id": "mkt:019edd13-3f00-7dd8-b089-f27d43c0ed25",
+      "time": "2026-06-19 07:31:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (MoM) (May) | actual 0.5% | previous 0.3%"
+    },
+    {
+      "id": "4944390",
+      "time": "2026-06-19 07:30:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5月去除生鮮食品與能源後的核心消費者物價指數同比上漲1.8%。"
+    },
+    {
+      "id": "4944389",
+      "time": "2026-06-19 07:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月19日07時25分在新疆吐魯番市托克遜縣（北緯42.24度，東經88.20度）發生3.2級地震，震源深度26千米。"
+    },
+    {
+      "id": "4944388",
+      "time": "2026-06-19 07:30:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5月份核心消費物價同比上漲1.4%，預期1.4%。日本5月份整體消費物價同比上漲1.5%。"
+    },
+    {
+      "id": "mkt:019edd12-1266-7dd8-b089-e981cc2efcd4",
+      "time": "2026-06-19 07:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan May core CPI YoY 1.4% (consensus 1.4%; prior 1.4%)."
+    },
+    {
+      "id": "mkt:019edd12-0faa-7dd8-b089-e0b7f802436f",
+      "time": "2026-06-19 07:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan May nationwide CPI YoY 1.5% vs 1.5% expected; April 1.4%."
+    },
+    {
+      "id": "mkt:019edd11-f139-7dd8-b089-de157383bfd7",
+      "time": "2026-06-19 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (YoY) (May) | actual 1.5% | consensus 1.50% | previous 1.40%"
+    },
+    {
+      "id": "mkt:019edd11-f137-7dd8-b089-d0dfbb8b9e64",
+      "time": "2026-06-19 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (May) | actual 1.4% | consensus 1.40% | previous 1.40%"
+    },
+    {
+      "id": "4944387",
+      "time": "2026-06-19 07:28:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨報72,010點，現貨收盤報71,053點。"
+    },
     {
       "id": "4944386",
       "time": "2026-06-19 07:27:42",
@@ -174527,67 +174631,6 @@
         "Importance 0"
       ],
       "text": "Brent Falls as Trump Signals Potential Iran Deal — Brent dropped below $89 per barrel on Friday, hitting its lowest level in nearly two months after President Donald Trump said a peace agreement with Iran could be reached as early as this weekend. The remarks came after he delayed planned military strikes and warned that the US could target Iran's oil infrastructure. Iran's semi-official Fars news agency reported that Tehran was likely to accept the deal, although no final text has been approved by either side. Trump said the agreement would reopen shipping through the Strait of Hormuz and include Iranian commitments to forgo developing nuclear weapons. Still, traders remained cautious, as even a breakthrough would face significant obstacles before oil flows fully normalize, including clearing mines from Hormuz, restarting idled production fields, and repairing energy facilities damaged by drone and missile attacks."
-    },
-    {
-      "id": "te:markets:558489",
-      "time": "2026-06-12 07:32:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Falls as Trump Signals Potential Iran Deal — Crude oil dropped below $86 per barrel on Friday, hitting its lowest level in nearly two months after President Donald Trump said a peace agreement with Iran could be reached as early as this weekend. The remarks came after he delayed planned military strikes and warned that the US could target Iran's oil infrastructure. Iran's semi-official Fars news agency reported that Tehran was likely to accept the deal, although no final text has been approved by either side. Trump said the agreement would reopen shipping through the Strait of Hormuz and include Iranian commitments to forgo developing nuclear weapons. Still, traders remained cautious, as even a breakthrough would face significant obstacles before oil flows fully normalize, including clearing mines from Hormuz, restarting idled production fields, and repairing energy facilities damaged by drone and missile attacks."
-    },
-    {
-      "id": "4931361",
-      "time": "2026-06-12 07:32:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價一度跌至兩個月低點 特朗普稱美伊接近達成協議】在美國的軍事打擊令人們對結束戰爭的進展產生懷疑後，特朗普表示與伊朗的和平協議最早可能在本週末簽署，油價一度跌至兩個月低點。WTI原油價格開盤一度暴跌近3%至每桶85.13美元，創4月17日以來的低位，隨後收復部分跌幅。特朗普曾誓言將再次打擊伊朗，並威脅要奪取其石油基礎設施，隨後又宣佈取消襲擊並稱協議接近達成，但德黑蘭方面尚未予以確認。這位美國總統此前曾數十次堅稱與伊朗的協議接近達成，但迄今尚未有任何協議達成。這場衝突導致霍爾木茲海峽幾乎完全關閉，切斷了全球客戶對原油、燃料和天然氣的關鍵供應，同時加劇了通脹。"
-    },
-    {
-      "id": "4931360",
-      "time": "2026-06-12 07:31:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI重塑底層邏輯，資料庫重新站上風口】“古老”的資料庫行業，信創吹響的衝鋒號角還未平息，又因為AI再次硝煙四起。 “行業正以Agent（智慧體）作為新使用者，重構資料庫的產品能力體系。”在5月底舉辦的騰訊雲“資料庫+AI”產品釋出會上，騰訊雲副總裁王義成說，資料庫行業正在進入人工智慧3.0時代。 事實上，在過去半年裡，國內資料庫廠商密集釋出AI相關產品。無論是網際網路大廠，還是A股上市公司，幾乎所有資料庫企業都將AI視為新一輪產業機遇。 當企業不再只問“存不存得下資料”，而是問“大模型能不能直接用我的資料回答問題”，資料庫這個看似沉悶的基礎軟體重新站上風口。（上海證券報）"
-    },
-    {
-      "id": "4931359",
-      "time": "2026-06-12 07:31:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新交所開盤上漲2060點，報66550點。"
-    },
-    {
-      "id": "4931358",
-      "time": "2026-06-12 07:31:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海電氣與ACWA深化綠色低碳發展新空間】6月11日上午，上海電氣集團黨委副書記、總裁朱兆開同沙特國際電力與水務公司（ACWA）執行長薩米爾·塞爾漢博士舉行會談，雙方就全球能源轉型趨勢、新興市場戰略協同、綠氫產業發展及海水淡化技術合作等話題展開深入交流。朱兆開表示，期待雙方進一步深化技術創新協同，聚焦長時儲能、綠氫製備、智慧能源管理等前沿賽道開展聯合研發，在已有良好合作基礎上，規模化拓展新能源、水資源綜合利用等新興領域合作，依託雙方資源優勢，攜手開拓第三方國際市場，共同打造高標準、高質量的國際能源合作專案，實現優勢互補、利益共享、共同發展。"
-    },
-    {
-      "id": "4931357",
-      "time": "2026-06-12 07:30:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：美國行為的本質是“武裝搶劫”和“國家海盜”】伊朗外交部發言人巴加埃12日在社交媒體上說，美國襲擊商船造成至少三名印度公民喪生一事清楚表明，美國行為的本質是“武裝搶劫”和“國家海盜”。巴加埃表示，國際社會必須對美國違法行為追責，此類行為持續威脅全球和平與安全，並危及航行自由。（新華社）"
-    },
-    {
-      "id": "4931356",
-      "time": "2026-06-12 07:28:43",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國司法部就禁蒙面法令起訴弗吉尼亞州】美國司法部於週四起訴弗吉尼亞州，稱該州出臺執法人員禁蒙面規定，是試圖約束聯邦執法人員，此舉違反憲法。司法部聲稱，弗吉尼亞州的這項禁令會危及聯邦執法人員的人身安全。美國代理司法部長託德・布蘭奇在一份宣告中表示：“弗吉尼亞州的這項反執法政策意在管控聯邦政府，並將執法人員置於險境。相關法令理應作廢。”弗吉尼亞州州長及州總檢察長的發言人暫未就此置評。上月，該州州長阿比蓋爾・斯潘伯格簽署法案，正式禁止執法人員佩戴面罩。加利福尼亞州、紐約州等其他州也相繼推出了類似管控規定。"
     }
   ]
 }
