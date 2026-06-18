@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-18 19:47:30",
-  "count": 19091,
+  "updated": "2026-06-18 19:51:31",
+  "count": 19094,
   "items": [
+    {
+      "id": "mkt:019eda91-f769-7dd8-b07a-ca96243d0b1a",
+      "time": "2026-06-18 19:50:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Schroder Investment: Bank of England's rate‑hike threshold remains high】Schroder Investment senior economist George Brown said the Bank of England is buying time by keeping the policy rate unchanged and that the threshold for further hikes remains high. He said a weak labour market and tepid growth should limit second‑round effects from energy price spikes and that a preliminary deal to reopen the Strait of Hormuz should reduce some extreme upside energy risk, but warned the BoE could still be forced to act if inflation expectations continue to rise."
+    },
+    {
+      "id": "4943451",
+      "time": "2026-06-18 19:50:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科市長表示，煉油廠火情已基本得到控制。"
+    },
+    {
+      "id": "mkt:019eda91-da50-7dd8-b07a-c0086e3ea434",
+      "time": "2026-06-18 19:50:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moscow mayor says refinery fire is largely under control."
+    },
+    {
+      "id": "4943450",
+      "time": "2026-06-18 19:50:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌6%，現報1281.56美元/盎司。"
+    },
+    {
+      "id": "mkt:019eda90-c31b-7dd8-b07a-bc050d7f90c4",
+      "time": "2026-06-18 19:49:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "Shenzhen Stock Exchange said it took self-regulatory enforcement measures this week against 149 instances of abnormal trading behavior, primarily intraday price manipulation (pumping and suppression) and false orders. It opened probes into five material matters at listed companies and referred four suspected illegal or regulatory-violating cases to the CSRC."
+    },
+    {
+      "id": "mkt:019eda90-53f7-7dd8-b07a-b31ec866ca16",
+      "time": "2026-06-18 19:49:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【ING expects Swiss National Bank to keep policy rate at 0% for at least two years】ING strategist Charlotte de Montpellier said the SNB’s decision to hold rates confirms it is in a relatively comfortable position versus most peers. She expects inflation to remain within the SNB’s target range, with deflation fears eased and limited risk of a sharp rebound. The SNB’s readiness to intervene in FX is aimed at countering franc appreciation, not fighting inflation, implying a steady monetary stance and a 0% policy rate for at least the next two years."
+    },
+    {
+      "id": "4943448",
+      "time": "2026-06-18 19:49:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【施羅德投資：英國央行加息門檻依然很高】施羅德投資的George Brown表示，在維持基準利率不變的情況下，英國央行目前是在爭取時間，其加息門檻“依然很高“。這位高階經濟學家說，疲軟的勞動力市場和微弱的經濟增長應該會限制能源價格飆升帶來的第二輪效應。他表示，重新開放霍爾木茲海峽的初步協議也應會降低能源價格面臨的一些更極端的上行風險。然而，英國央行不能掉以輕心。Brown說：“如果通脹預期繼續走高，它可能仍會被迫採取行動。”"
+    },
+    {
+      "id": "4943447",
+      "time": "2026-06-18 19:48:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶豐明源：首次出售40.40萬股已回購股份 成交金額8670.56萬元】晶豐明源公告稱，公司於2026年6月18日透過集中競價交易方式首次出售已回購股份404,031股，佔公司當前總股本的0.20%，成交金額為86,705,623.58元，成交最高價為219.80元/股，最低價為208.65元/股，成交均價為214.60元/股。本次出售符合公司已披露的出售計劃。截至公告披露日，出售已回購股份計劃實施完畢，回購專用證券賬戶當前持股509,549股，持股比例0.25%。"
+    },
+    {
+      "id": "4943446",
+      "time": "2026-06-18 19:48:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川成渝：擬募資31.8億元用於高速擴容及償債】四川成渝公告稱，本次向特定物件發行A股股票，募集資金總額調減至不超過31.8億元。扣除發行費用後，淨額擬用於G5京昆高速公路成都至雅安段擴容工程專案和償還有息債務，金額分別為23億元、8.8億元。專案建成後，將提升通行能力和服務水平，發揮路網效益。本次發行將提升公司核心業務競爭力和發展潛力，最佳化資本結構，降低財務風險。"
+    },
+    {
+      "id": "4943445",
+      "time": "2026-06-18 19:48:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川成渝：擬變更公司名稱為四川成渝高速公路集團股份有限公司】四川成渝公告稱，公司於2026年6月18日召開董事會，審議透過變更公司名稱及修訂《公司章程》的議案，擬將中文名稱變更為“四川成渝高速公路集團股份有限公司”，英文名稱變更為“SICHUAN EXPRESSWAY GROUP COMPANY LIMITED”，A股及H股證券簡稱及證券程式碼不變。變更原因是為適應業務發展和集團化管控需要。本次變更尚需股東會審議，以工商登記機關核准內容為準。"
+    },
+    {
+      "id": "4943444",
+      "time": "2026-06-18 19:47:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度總理莫迪：與Alstom執行長Martin Sion進行了富有成效的會談。Alstom在印度已佈局深厚。該企業看好印度的發展前景，積極推進印度本土製造、面向全球供貨，此舉值得肯定。未來，相關發展機遇還將持續拓寬。印度歡迎全球各國攜手本國青年開展合作。"
+    },
+    {
+      "id": "mkt:019eda8e-c009-7dd8-b07a-ae57a3c0ae60",
+      "time": "2026-06-18 19:47:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "MODI said India is committed to developing AI solutions that empower people while promoting innovation, trust and international cooperation."
+    },
+    {
+      "id": "mkt:019eda8e-a619-7dd8-b07a-a0b1672005dd",
+      "time": "2026-06-18 19:47:22",
+      "tags": [
+        "MKT News",
+        "ALO.PA",
+        "Impact bullish"
+      ],
+      "text": "MODI said he held productive talks with Alstom CEO Martin Sion, that Alstom has a strong presence in India and that future opportunities will improve."
+    },
     {
       "id": "te:markets:560087",
       "time": "2026-06-18 19:46:55",
@@ -176188,93 +176308,6 @@
         "MKT News"
       ],
       "text": "Syrian state TV said President Shala, invited by Trump, is expected to arrive in Washington on Sunday."
-    },
-    {
-      "id": "mkt:019eb684-74d7-7dd8-afbd-0f7361dfd9b8",
-      "time": "2026-06-11 19:49:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Congressional Democrats should stop playing political games."
-    },
-    {
-      "id": "4930494",
-      "time": "2026-06-11 19:49:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中央商場：股價異常波動 一季度營收5.15億元】中央商場公告稱，公司股票2026年6月9 - 11日連續三個交易日內日收盤價格跌幅偏離值累計超20%，屬異常波動。截至公告披露日，公司、控股股東及實控人不存在應披露未披露重大事項。2026年第一季度，公司營收5.15億元，同比下滑20.39%，淨虧損699.23萬元。2025年末資產負債率97.12%，合併報表未分配利潤為 - 13.19億元。實控人祝義財及其控制的公司持股質押凍結比例均為100%。"
-    },
-    {
-      "id": "4930493",
-      "time": "2026-06-11 19:48:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗說美要麼接受條件要麼喪失尊嚴】伊朗最高領袖軍事顧問雷扎伊今天（6月11日）表示，美國總統特朗普以為他可以用炸彈擺脫自己一手造成的泥潭和僵局，但面對伊朗的導彈，他只會越陷越深。美國必須在接受伊朗的條件和喪失其國際尊嚴之間做出選擇。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019eb683-2ca3-7dd8-afbd-015a79120632",
-      "time": "2026-06-11 19:48:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Sources: energy-efficiency limits and grades for crystalline-silicon PV modules and inverters expected to be issued shortly】June 11 — The Guangzhou futures exchange's most-active polysilicon contract hit the daily limit for the third time this year, settling at 37,710 yuan/ton, up 3,110 yuan/ton (8.99%) from the prior settlement. Market participants cited rumors of PV capacity clearing as the main driver. The draft Energy‑efficiency limit values and grades for crystalline‑silicon PV modules and inverters has entered its final pre-release approval stage and is expected to be published shortly, sources said."
-    },
-    {
-      "id": "4930492",
-      "time": "2026-06-11 19:48:27",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【訊息人士稱《晶體矽光伏元件和逆變器能效限定值及能效等級》預計不久後將正式釋出】6月11日，廣期所多晶矽主力合約年內第三次觸及漲停，收於37710元/噸，較前一交易日結算價大幅飆升3110元/噸，單日漲幅達到8.99%。訊息層面上，光伏產能出清相關傳聞或成為最大的推手。據瞭解，《晶體矽光伏元件和逆變器能效限定值及能效等級》已進入釋出前最後審批階段，預計不久後將正式釋出。（貝殼財經）"
-    },
-    {
-      "id": "4930491",
-      "time": "2026-06-11 19:48:17",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財長貝森特：財政部可藉此阻止恐怖分子利用金融系統針對美國發動襲擊，該法案也是維護美國國家安全與經濟安全的關鍵一環。這是我們蒐集伊朗、哈馬斯等對手情報的核心工具。"
-    },
-    {
-      "id": "mkt:019eb682-ba13-7dd8-afbc-f98018325e35",
-      "time": "2026-06-11 19:48:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State Statistics Service of Ukraine: Q1 GDP fell 0.6% YoY."
-    },
-    {
-      "id": "mkt:019eb682-b814-7dd8-afbc-f7cfb9b76b8a",
-      "time": "2026-06-11 19:48:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the Foreign Intelligence Surveillance Act (FISA) is a key tool."
-    },
-    {
-      "id": "4930490",
-      "time": "2026-06-11 19:47:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭國家統計局：烏克蘭第一季度國內生產總值同比下降0.6%。"
-    },
-    {
-      "id": "4930489",
-      "time": "2026-06-11 19:47:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：國會民主黨人應該停止玩弄政治。"
     }
   ]
 }
