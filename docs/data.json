@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-18 12:41:03",
-  "count": 18780,
+  "updated": "2026-06-18 12:45:03",
+  "count": 18774,
   "items": [
+    {
+      "id": "4942448",
+      "time": "2026-06-18 12:43:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱簽署伊朗諒解備忘錄“並不容易”。"
+    },
+    {
+      "id": "te:markets:559921",
+      "time": "2026-06-18 12:42:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Hits Fifth Day of Gains — India’s BSE Sensex edged up about 0.2% to 77,276 on Thursday, marking a fifth straight session of gains, supported by lower crude oil prices, though upside momentum was capped by losses in information technology stocks and caution after the US Federal Reserve left interest rates unchanged and signaled a cautious outlook for monetary policy. Investor sentiment remained restrained after the Federal Reserve signaled the possibility of an interest rate hike later this year, strengthening the US dollar and dampening appetite for riskier emerging-market assets. Among individual stocks, HFCL gained attention after securing a major contract from Rail Vikas Nigam, while shares of BSE remained on investors' radar following the filing of a draft IPO prospectus by the National Stock Exchange. Notable gainers included NIACL (12.8%), Bharat Coal (7.6%), Netweb (4.7%), Wockhardt (3.7%), IFCI (3.7%), and HFCL (3%). On the losing side were, IDBI (-3.6%), One 97 (-2.2%), Infosys (-2%), and TCS (-0.8%)."
+    },
+    {
+      "id": "mkt:019ed908-1ab2-7dd8-b06b-da2d06e35592",
+      "time": "2026-06-18 12:40:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell below $74/bbl, hitting its lowest since March 4 and down 2.35% on the day."
+    },
     {
       "id": "4942447",
       "time": "2026-06-18 12:39:30",
@@ -173037,96 +173070,6 @@
         "其他"
       ],
       "text": "【腦虎科技“三全”腦機介面完成異地對弈驗證，全鏈路延時低於50毫秒】6月11日，介面新聞從腦虎科技獲悉，兩名分別位於滬贛兩地的高位截癱患者，透過其自研“全植入、全無線、全功能”腦機介面系統完成了異地象棋對弈。試驗中，受試者無肢體動作，憑神經訊號透過虛擬棋盤與外骨骼手套控制棋子，全鏈路延時在50毫秒以內，驗證了該系統在真實動態場景下的實時解碼魯棒性與精細運動輔助能力。"
-    },
-    {
-      "id": "mkt:019eb4fe-8122-7dd8-afb4-55f76d42e6b3",
-      "time": "2026-06-11 12:43:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI rose 0.3%, erasing earlier losses."
-    },
-    {
-      "id": "4929585",
-      "time": "2026-06-11 12:43:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應急管理部：今年計劃招錄消防員17000名】記者11日從應急管理部獲悉，國家綜合性消防救援隊伍2026年度消防員招錄工作近日啟動。今年消防員招錄計劃17000名，其中城鄉消防救援隊伍14150名，機動消防救援隊伍2850名；面向高校應屆畢業生、退役士兵、社會青年三類人員分別招錄5667名、5667名、5666名。（新華社）"
-    },
-    {
-      "id": "4929584",
-      "time": "2026-06-11 12:42:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲0.3%，抹去早前的跌幅。"
-    },
-    {
-      "id": "4929583",
-      "time": "2026-06-11 12:42:19",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【中韓半導體ETF華泰柏瑞：本基金將於2026年6月11日下午開市起至當日收市停牌】近期，華泰柏瑞基金管理有限公司（以下簡稱“本公司”）旗下華泰柏瑞中證韓交所中韓半導體交易型開放式指數證券投資基金(QDII）（擴位證券簡稱：中韓半導體 ETF 華泰柏瑞，交易程式碼：513310，以下簡稱“本基金”）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。 為保護投資者的利益，本基金將於 2026 年 6 月 11 日開市起至當日 10:30 停牌。若本基金午間收盤二級市場交易價格溢價幅度仍處於較高水平，本基金有權向上海證券交易所申請 2026 年 6 月 11 日下午盤中臨時停牌至收盤的措施以向市場警示風險，具體以屆時公告為準。"
-    },
-    {
-      "id": "mkt:019eb4fc-fc2f-7dd8-afb4-4a335f4ef8e1",
-      "time": "2026-06-11 12:42:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's 5-year bond yield fell 1.5 bps to 1.920%."
-    },
-    {
-      "id": "mkt:019eb4fc-f262-7dd8-afb4-417710bbabbe",
-      "time": "2026-06-11 12:42:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's 40-year government bond yield rose 3.0 bps to 3.765%."
-    },
-    {
-      "id": "mkt:019eb4fc-eeba-7dd8-afb4-3952c9dfeeee",
-      "time": "2026-06-11 12:42:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【Market analysis: ECB poised to hike on June 11; further July risk】BMO analysts say some ECB governing council members are inclined to act and expect a rate hike at the June 11 meeting, with a risk of a follow-up increase as early as July. Since the outbreak of the Iran conflict, the RESERVE BANK OF AUSTRALIA and NORWAY C.BANK have already tightened, and the ECB would be the first G7 central bank to move. Eurozone inflation has not eased since the last meeting; worries that the Iran conflict’s duration or a fragile peace could boost inflation expectations and wage pressures, alongside rising stagnation risk, are prompting a shift toward tightening. The ECB must tread carefully, but additional hikes remain possible."
-    },
-    {
-      "id": "mkt:019eb4fc-292c-7dd8-afb4-3393b0eb59d4",
-      "time": "2026-06-11 12:41:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Huatai-PineBridge said its China-Korea Semiconductor ETF will be suspended from the afternoon market open on June 11, 2026, until market close the same day."
-    },
-    {
-      "id": "4929582",
-      "time": "2026-06-11 12:41:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率下跌1.5個基點，至1.920%。"
     }
   ]
 }
