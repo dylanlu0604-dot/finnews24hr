@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19 03:13:10",
-  "count": 19048,
+  "updated": "2026-06-19 03:17:04",
+  "count": 19041,
   "items": [
     {
       "id": "4944261",
@@ -175274,66 +175274,6 @@
         "Impact bullish"
       ],
       "text": "Spot gold rallied 3.00% intraday to $4,192.89/oz."
-    },
-    {
-      "id": "4931174",
-      "time": "2026-06-12 03:16:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4190美元/盎司，日內漲2.96%。"
-    },
-    {
-      "id": "4931173",
-      "time": "2026-06-12 03:14:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數漲幅擴大至1.6%。"
-    },
-    {
-      "id": "mkt:019eb81b-5fe0-7dd8-afc9-9065c3ac10d2",
-      "time": "2026-06-12 03:14:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CNBC reports allocations for SpaceX's IPO are largely finalised; just over 20% of the offering will be allocated to retail investors."
-    },
-    {
-      "id": "4931171",
-      "time": "2026-06-12 03:14:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4210美元/盎司，日內漲1.86%。"
-    },
-    {
-      "id": "4931170",
-      "time": "2026-06-12 03:14:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國5-10年期國債收益率下跌10個基點，重新整理日低。"
-    },
-    {
-      "id": "mkt:019eb81a-c3c3-7dd8-afc9-8d55661870c7",
-      "time": "2026-06-12 03:13:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fars News Agency reports Iran has not yet issued a final response."
-    },
-    {
-      "id": "4931169",
-      "time": "2026-06-12 03:13:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社表示，伊朗尚未作出最終答覆。"
     }
   ]
 }
