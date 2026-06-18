@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-18 21:56:48",
+  "updated": "2026-06-18 22:01:03",
   "count": 18940,
   "items": [
+    {
+      "id": "mkt:019edb08-3b0d-7dd8-b07f-e1dcbf24d6b5",
+      "time": "2026-06-18 22:00:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Conference Board leading economic index (LEI) rose 0.1% MoM in May, matching consensus 0.1%; April's reading was revised up to 0.2% from 0.1%."
+    },
+    {
+      "id": "mkt:019edb08-1bcd-7dd8-b07f-dcb9f7fc6000",
+      "time": "2026-06-18 22:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Leading Indicator (MoM) (May) | actual 0.1% | consensus 0.1% | previous 0.10%"
+    },
+    {
+      "id": "4943732",
+      "time": "2026-06-18 21:59:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：訊息人士稱，自伊朗與美國簽署諒解備忘錄後，巴方接到通知，現已無需在瑞士舉行線下會晤。"
+    },
+    {
+      "id": "4943731",
+      "time": "2026-06-18 21:58:38",
+      "tags": [
+        "資料"
+      ],
+      "text": "【中國貿促會副會長李興乾會見國際保護智慧財產權協會會長洛倫薩·法拉利·霍弗】6月15日，中國貿促會副會長李興乾在北京會見國際保護智慧財產權協會（AIPPI）會長洛倫薩·法拉利·霍弗、總報告人拉爾夫·納克、秘書長郭梅玲一行。雙方就深化合作關係、加強中國工商界與AIPPI的溝通往來、智慧財產權與產業鏈供應鏈的全球合作等議題進行了交流。"
+    },
+    {
+      "id": "4943730",
+      "time": "2026-06-18 21:57:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST集友：擬意向收購慧聚藥業超50%股份】*ST集友公告稱，公司第三屆董事會第三十八次會議審議透過意向收購江蘇慧聚藥業股份有限公司股權並簽署相關協議的議案。公司擬收購黃華等持有的慧聚藥業超50%股份，經初步測算，本次交易構成重大資產重組。若交易順利，公司將取得慧聚藥業控制權，利於拓展新利潤增長點，增強持續經營能力。本議案已獲相關會議審議透過，無需提交股東會審議。"
+    },
+    {
+      "id": "4943729",
+      "time": "2026-06-18 21:57:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗代表團日內瓦之行尚未敲定。"
+    },
+    {
+      "id": "4943728",
+      "time": "2026-06-18 21:56:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：廣州知易生物科技股份有限公司 - B向港交所提交上市申請書。"
+    },
+    {
+      "id": "4943727",
+      "time": "2026-06-18 21:56:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（6月17日，美聯儲主席沃什首秀日）擔保隔夜融資利率（SOFR）報3.63%，之前一天報3.63%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "mkt:019edb05-092e-7dd8-b07f-d6ad248b1220",
+      "time": "2026-06-18 21:56:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An HKEX filing shows Guangzhou Zhiyi Biotechnology Co., Ltd. - B has filed a listing application."
+    },
+    {
+      "id": "4943726",
+      "time": "2026-06-18 21:56:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026端午檔新片預售票房破6000萬】據貓眼專業版資料，2026年端午檔新片預售總票房破6千萬，《我看見兩朵一樣的雲》《玩具總動員5》《愛是憤怒》暫列端午檔新片票房榜前三位。"
+    },
     {
       "id": "te:markets:560122",
       "time": "2026-06-18 21:56:02",
@@ -174452,105 +174536,6 @@
         "國際"
       ],
       "text": "加拿大美加貿易事務部長勒布朗：加拿大正在解決美國對非關稅壁壘的關切。"
-    },
-    {
-      "id": "mkt:019eb6fc-0d52-7dd8-afc3-a20c539f914d",
-      "time": "2026-06-11 22:00:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's minister for Canada‑U.S. trade Leblanc said Ottawa is addressing U.S. concerns over non-tariff barriers."
-    },
-    {
-      "id": "mkt:019eb6fb-e002-7dd8-afc3-9d8bb6017987",
-      "time": "2026-06-11 22:00:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "SHFE tin 2607 rallied intraday, extending gains to 1.51% at 404,900 yuan/ton. Turnover about 24.379 bln yuan; open interest rose by over 3,800 lots intraday and volume/open-interest activity climbed. LME tin up 1.52% at $52,752/ton."
-    },
-    {
-      "id": "mkt:019eb6fa-d310-7dd8-afc3-94cb61a1eca4",
-      "time": "2026-06-11 21:59:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's benchmark stock index rose 1.5% in early trade, ending a six-day losing streak."
-    },
-    {
-      "id": "4930806",
-      "time": "2026-06-11 21:58:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥主要股指在連續六個交易日下跌後，早盤交易中上漲1.5%。"
-    },
-    {
-      "id": "mkt:019eb6fa-83c6-7dd8-afc3-8e4f0bbfc434",
-      "time": "2026-06-11 21:58:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "USD/CAD breached 1.40 for the first time since December last year, up 0.41% intraday."
-    },
-    {
-      "id": "mkt:019eb6f9-ccac-7dd8-afc3-85894ac6ec52",
-      "time": "2026-06-11 21:58:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasuries extended gains; 10- and 30-year yields hit weekly lows."
-    },
-    {
-      "id": "4930805",
-      "time": "2026-06-11 21:57:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "加元兌美元跌至六個月低點，報1美元兌1.4000加元。"
-    },
-    {
-      "id": "4930804",
-      "time": "2026-06-11 21:57:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【媒體：白宮將奪取哈爾克島視為“最終”選項】據白宮訊息人士，美軍試圖奪取哈爾克島的計劃已制定數月，但因行動風險過大而不斷擱置。白宮和五角大樓內部的觀點是，奪取卡爾格島或摧毀該島的能源基礎設施將使伊朗實際上破產，削弱其能力，使其無法繼續戰爭。然而，官員們也已向總統唐納德·特朗普傳達，這樣的行動可能需要大量地面部隊，並可能導致美軍重大傷亡。基於這些計算，五角大樓和白宮已考慮將奪取哈爾克島作為“最終”選項——這是可能改變戰爭平衡的最後手段，但代價高昂。"
-    },
-    {
-      "id": "4930803",
-      "time": "2026-06-11 21:57:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債價格延續漲勢；10年期和30年期國債收益率觸及本週低點。"
-    },
-    {
-      "id": "te:markets:558411",
-      "time": "2026-06-11 21:57:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Lockheed Martin Stock Price Hits 7-week High — Lockheed Martin shares increased to 541.39 USD, the highest since April 2026. Over the past 4 weeks, Lockheed Martin gained 5.45%, and in the last 12 months, it increased 18.3%."
     }
   ]
 }
