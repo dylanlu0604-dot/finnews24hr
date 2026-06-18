@@ -1,7 +1,335 @@
 {
-  "updated": "2026-06-18 15:49:26",
-  "count": 18946,
+  "updated": "2026-06-18 15:53:30",
+  "count": 18961,
   "items": [
+    {
+      "id": "mkt:019ed9b7-cd2a-7dd8-b072-7e5d6888c048",
+      "time": "2026-06-18 15:52:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said the Pentagon will carry out an up-to-six-month review to assess U.S. troop deployments in Europe."
+    },
+    {
+      "id": "4942842",
+      "time": "2026-06-18 15:52:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“618”牛奶價格戰沒有最低只有更低 乳企“以價換量”搶市場】2026年“618”大促進入最後衝刺階段，巨多個電商平臺，今年各品牌常溫奶和低溫鮮奶的促銷力度均大於往年，部分低溫鮮奶產品價格已跌至常溫奶價格區間。業內認為，由於國內原奶價格低位執行，乳企採取“以價換量”的策略，過去被視為“利潤產品”的低溫鮮奶賽道，價格戰尤為激烈。整體來看，主流乳企的常溫奶促銷價普遍低於2元/盒。第三方比價平顯示，多個主流乳企旗下的液奶產品在今年“618”期間達到歷史最低價。 (第一財經)"
+    },
+    {
+      "id": "4942841",
+      "time": "2026-06-18 15:52:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴基斯坦總理謝里夫將作為調解人簽署美伊諒解備忘錄。"
+    },
+    {
+      "id": "mkt:019ed9b7-4c0a-7dd8-b072-731f6d46434b",
+      "time": "2026-06-18 15:52:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Swiss National Bank holds policy rate at 0%; retains intervention language to curb franc appreciation】The Swiss National Bank left its policy rate at 0% on Thursday — the fourth consecutive quarterly meeting at that level and signaling a second year of effectively zero rates. The SNB reiterated it has “increased willingness” to intervene in FX markets if necessary to prevent a rapid, excessive Swiss franc appreciation and protect price stability, language it has repeatedly used since the outbreak of the Iran conflict. The franc remains below the level seen during earlier safe-haven inflows; this week’s peace agreement may further reduce safe-haven demand. Retaining the intervention wording preserves policy flexibility if the conflict re‑escalates. Whether the SNB executed the March intervention threat will be confirmed when Q1 FX data are published on June 30."
+    },
+    {
+      "id": "4942840",
+      "time": "2026-06-18 15:52:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "赫格塞思表示：美國在北約防務上的支出絕不能超過盟國的支出額。"
+    },
+    {
+      "id": "4942839",
+      "time": "2026-06-18 15:51:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞斯表示，美國每年向北約繳納的會費將取決於其他盟國是否達到北約的軍費開支目標，北約將是一條雙向道路。"
+    },
+    {
+      "id": "4942838",
+      "time": "2026-06-18 15:51:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署署長比羅爾：潘多拉魔盒已經開啟，現在所有相關方都知道霍爾木茲海峽曾經關閉過一次，它可能再次關閉。此次事件後，多國正重新審視本國能源政策。"
+    },
+    {
+      "id": "mkt:019ed9b6-afd0-7dd8-b072-6d6be21527cf",
+      "time": "2026-06-18 15:51:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA executive director Birol said Pandora's box has been opened; all parties now know the Strait of Hormuz has been closed once and could close again."
+    },
+    {
+      "id": "mkt:019ed9b6-8640-7dd8-b072-64ce1627cdf5",
+      "time": "2026-06-18 15:51:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zhenhua New Material says its hundred-ton-level pilot production line for polyanionic sodium‑ion cathodes is production-ready."
+    },
+    {
+      "id": "4942837",
+      "time": "2026-06-18 15:51:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "赫格塞斯表示，這將是真正的審查，以確保北約迅速且不可逆轉地朝著由歐洲主導的方向邁進。"
+    },
+    {
+      "id": "4942836",
+      "time": "2026-06-18 15:50:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "赫格塞思表示，五角大樓將對美軍在歐洲的兵力部署展開最長為期六個月的評估。"
+    },
+    {
+      "id": "te:economy:560006",
+      "time": "2026-06-18 15:50:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Poland Consumer Confidence Improves in June — Poland’s consumer sentiment indicator rose to -9.9 in June 2026 from -11.3 in the previous month, reflecting an improvement in households' assessment of both current and future economic conditions. The increase was mainly driven by stronger expectations regarding the country's future economic situation (-17.4 vs -20.9 in May) and as well as while assessments of the past 12 months also improved (-20.7 vs -23.5). Consumers also reported improved expectations for their household finances over the next 12 months (-1.9 vs -3.0) and slightly better conditions for making major purchases (-3.3 vs -3.6). However, assessments of current household finances deteriorated slightly (-6.3 vs -5.7). Meanwhile, the leading consumer confidence indicator rose to -7.7 from -8.5, supported by improved expectations for the economy, household finances, and unemployment. Despite the improvement, both consumer confidence indicators remained below their levels from a year earlier."
+    },
+    {
+      "id": "4942835",
+      "time": "2026-06-18 15:50:47",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【瑞士央行公佈利率決定後，瑞士法郎下跌】在瑞士央行如預期將利率維持在0%並表示干預外匯市場的意願增強後，瑞士法郎兌歐元下跌。瑞士央行表示，將抵制任何會危及價格穩定的瑞郎快速過度升值。該央行表示，由於能源價格上漲，預計短期內通貨膨脹率的上升幅度將超過此前的預測，隨後在2027年上半年有所緩解。瑞士央行表示，當前的貨幣政策適合維持價格穩定，但該央行將繼續監測局勢，並在必要時調整政策。決定公佈後，歐元上漲0.1%，至盤中高點0.9215瑞士法郎，此前為0.9197瑞士法郎。"
+    },
+    {
+      "id": "4942834",
+      "time": "2026-06-18 15:50:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【PayPal任命張弘為中國區執行長】PayPal今日宣佈，任命張弘為PayPal中國區執行長、PayPal中國持牌機構貝寶支付（北京）有限公司董事長、總經理，全面統籌PayPal在中國整體戰略規劃、業務創新拓展及日常運營管理，帶領團隊推動PayPal在中國市場的長期發展。此次人事任命已獲中國人民銀行正式批覆。（新浪科技）"
+    },
+    {
+      "id": "mkt:019ed9b5-a9f2-7dd8-b072-5c247233647a",
+      "time": "2026-06-18 15:50:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA Executive Director Birol said it is important that the Strait of Hormuz remain unconditionally open and that all relevant parties are confident in its safety."
+    },
+    {
+      "id": "4942833",
+      "time": "2026-06-18 15:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署署長比羅爾：為期60天的談判將如何收尾至關重要。"
+    },
+    {
+      "id": "mkt:019ed9b5-96db-7dd8-b072-51ebc7c38730",
+      "time": "2026-06-18 15:50:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said too many NATO allies failed to back the U.S. on Iran, calling their refusals to grant access, basing rights and overflight permissions \"shameful\"."
+    },
+    {
+      "id": "4942832",
+      "time": "2026-06-18 15:50:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海航運交易所資料顯示，截至6月18日，上海出口集裝箱運價指數（綜合指數）報3121.69點，與上期相比上漲136.47點。中國出口集裝箱運價綜合指數報1599.07點，與上期相比漲8%。"
+    },
+    {
+      "id": "mkt:019ed9b5-721d-7dd8-b072-48d16d868c1b",
+      "time": "2026-06-18 15:50:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "【China comments as Israel continues military operations in Lebanon】June 18 — Foreign Ministry spokesman Lin Jian said at a regular briefing that Iran and the U.S. have reached a first‑phase memorandum of understanding, but Israel has not ceased military operations in Lebanon and Iran has warned those actions could jeopardise implementation. Lin said the first‑phase MoU provided favourable conditions to ease regional tensions and that, at this critical stage, relevant parties including Israel should take steps to facilitate implementation and advance second‑phase talks rather than the opposite. China said it is willing to use its influence and work with the international community to help achieve long‑term stability in the Middle East."
+    },
+    {
+      "id": "te:economy:560004",
+      "time": "2026-06-18 15:50:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "SNB Holds Rates at 0% — The Swiss National Bank kept its policy rate at 0% in its June 2026 meeting, as expected, stating the current stance supports price stability and economic growth. Policymakers noted that medium-term inflation pressures remain largely unchanged, despite recent price increases driven by higher energy costs. The SNB forecasts inflation to rise slightly in the near term before easing in early 2027, with annual averages of 0.6% for 2026 and 2027, and 0.7% for 2028. Growth is projected at 1% for 2026 and 1.5% for 2027. The bank highlighted global economic risks, particularly Middle East tensions, potentially strengthening the Swiss franc, and uncertain US trade policy. The SNB also signaled a greater readiness to intervene in foreign exchange markets if needed."
+    },
+    {
+      "id": "mkt:019ed9b5-6186-7dd8-b072-40ab236f0786",
+      "time": "2026-06-18 15:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD"
+      ],
+      "text": "Euro area seasonally adjusted current account for April due in 10 minutes."
+    },
+    {
+      "id": "4942831",
+      "time": "2026-06-18 15:49:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "赫格塞思表示，部分北約成員國光說不練，在落實防務開支承諾方面進展嚴重不足。"
+    },
+    {
+      "id": "mkt:019ed9b5-3c70-7dd8-b072-39e895126466",
+      "time": "2026-06-18 15:49:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IEA chief Birol said a solution has been found, calling it good news."
+    },
+    {
+      "id": "mkt:019ed9b5-2ea1-7dd8-b072-3439267a9a5c",
+      "time": "2026-06-18 15:49:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA Executive Director Birol said earlier that if the Strait of Hormuz is not open by end-June, the global economy would be in a red-alert zone."
+    },
+    {
+      "id": "4942830",
+      "time": "2026-06-18 15:49:48",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長表示：我們認為，我們已出臺的政策將吸引外資流入。"
+    },
+    {
+      "id": "te:markets:560003",
+      "time": "2026-06-18 15:49:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Halts 5-Day Gain — The FTSE MIB edged lower to around 52,900 on Thursday, halting a five-day record-breaking rally as markets weighed the US–Iran interim peace agreement against hawkish signals from the Federal Reserve. The US and Iran signed a tentative deal extending the ceasefire by 60 days to allow negotiations on a final agreement, with the full reopening of the Strait of Hormuz easing shipping restrictions and triggering a pullback in oil prices. Meanwhile, the Federal Reserve held rates steady, though Chair Kevin Warsh signalled that hikes remain possible to curb inflation. In Europe, the Bank of England is expected to keep policy unchanged, with attention on any hawkish dissent among policymakers. Energy-related stocks continued to decline, including Eni (-0.8%), Enel (-0.5%), and Tenaris (-1.2%). Other notable laggards included Moncler (-1.3%), Saipem (-3%), Buzzi Unicem (-1.8%), and Davide Campari-Milano (-1%)."
+    },
+    {
+      "id": "4942829",
+      "time": "2026-06-18 15:49:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "赫格塞思稱，太多北約盟國在伊朗問題上拒不支援美國，在准入、基地使用權和飛越權方面予以拒絕，此舉“令人不齒”。"
+    },
+    {
+      "id": "mkt:019ed9b5-0d9a-7dd8-b072-2d9cca6ed528",
+      "time": "2026-06-18 15:49:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Israeli official: Israel, U.S. in \"tough talks\" over southern Lebanon deployment】Reuters: A senior Israeli official close to Netanyahu said Israel is in \"tough talks\" with the U.S. over its deployment in southern Lebanon."
+    },
+    {
+      "id": "4942828",
+      "time": "2026-06-18 15:49:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署署長比羅爾：霍爾木茲海峽必須無條件保持開放，且各方都必須認可其通航安全，這點至關重要。"
+    },
+    {
+      "id": "4942827",
+      "time": "2026-06-18 15:49:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中國將同非洲和阿拉伯國家進一步攜手合作，共建命運共同體】6月18日，外交部發言人林劍主持例行記者會。有記者提問，據報道，“中國同非洲和阿拉伯國家開啟外交關係70週年：攜手共建命運共同體”研討會昨天在北京舉行。發言人能否介紹有關情況？林劍表示，今年是中國同非洲和阿拉伯國家開啟外交關係70週年。70年前，以新中國同埃及建交為發端，中非中阿關係的發展掀開了新篇章。進入新時代，在習近平主席和非洲阿拉伯國家領導人的指引下，中非中阿關係實現了跨越式發展，邁進歷史最好時期，樹立了構建人類命運共同體的典範。中國的“十五五”規劃為深化中非中阿合作提供了廣闊的新機遇。中國將同非洲和阿拉伯國家進一步攜手合作，奏響全球南方發展振興的團結樂章，朝著構建人類命運共同體的共同願景不懈努力。（澎湃新聞）"
+    },
+    {
+      "id": "4942826",
+      "time": "2026-06-18 15:48:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署署長比羅爾：但所幸的是，目前已經找到解決方案，這是一則好訊息。"
+    },
+    {
+      "id": "4942825",
+      "time": "2026-06-18 15:48:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "赫格塞表示：我們不能忽視部分北約盟國內部出現的挫折。"
+    },
+    {
+      "id": "4942824",
+      "time": "2026-06-18 15:48:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名官員表示，以色列無意在自身立場上讓步。"
+    },
+    {
+      "id": "4942823",
+      "time": "2026-06-18 15:48:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據接近內塔尼亞胡的以色列高階官員透露，以色列正就其在黎巴嫩南部的駐軍問題與美國進行“僵持不下的談判”。"
+    },
+    {
+      "id": "4942822",
+      "time": "2026-06-18 15:48:39",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "印尼央行總裁：額外措施將引導印尼盾走強，趨向基本面價值。"
+    },
     {
       "id": "4942821",
       "time": "2026-06-18 15:48:35",
@@ -19,6 +347,14 @@
         "原創"
       ],
       "text": "【Waymo因軟體問題召回3871輛無人駕駛計程車】美國國家公路交通安全管理局（NHTSA）週四表示，Waymo將召回3871輛無人駕駛計程車，因為一個軟體問題可能導致車輛進入封閉的高速公路施工區域並繼續高速行駛。此次召回涉及部分搭載Waymo第五代自動駕駛系統（ADS）的無人駕駛計程車。美國國家公路交通安全管理局表示，Waymo已修改車輛運營範圍，限制其在高速公路上行駛。Waymo將免費更新ADS軟體，以檢測車輛所在位置，避免進入施工區域。"
+    },
+    {
+      "id": "4942819",
+      "time": "2026-06-18 15:48:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“九章四號”同系列光量子計算機“天衍-P2000”首次正式開放雲服務】在中國科學院量子資訊與量子科技創新研究院指導下，中國電信旗下中電信量子集團聯合九章（濟南）量子科技有限公司建設的“九章四號”同系列光量子計算機“天衍-P2000”已正式執行，並接入中國電信“天衍”量子計算雲平臺，首次面向全球使用者推出光量子線上優越性服務能力。"
     },
     {
       "id": "4942818",
@@ -174542,203 +174878,6 @@
         "國際"
       ],
       "text": "市場訊息：印尼已開設超 690 萬處公益餐食供應點。"
-    },
-    {
-      "id": "4929900",
-      "time": "2026-06-11 15:53:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：土耳其主要反對黨28名黨團成員辭職。"
-    },
-    {
-      "id": "mkt:019eb5ab-7ec4-7dd8-afb7-f39f19741122",
-      "time": "2026-06-11 15:52:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N"
-      ],
-      "text": "【Alibaba Cloud releases Meoo CLI to enable direct deployment of local AI coding projects】June 11 — Alibaba Cloud released an open-source command-line tool, Meoo CLI. After installation, local AI coding assistants such as Claude Code, Codex and Cursor can call cloud services through the tool to perform database integration, user authentication, file storage and project publishing, enabling local projects to be pushed online for production use."
-    },
-    {
-      "id": "4929899",
-      "time": "2026-06-11 15:52:47",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【國金證券：擬1.5億-3億元回購股份維護公司價值】國金證券公告稱，公司擬以集中競價方式回購股份，回購金額不低於1.5億元且不超過3億元，回購價格不超過13元/股，回購期限自董事會審議透過本次回購方案之日起3個月內。回購目的是維護公司市場價值及股東權益，回購股份數量為1153.8462萬股-2307.6923萬股，佔總股本比例為0.31%-0.62%。公司稱，本次回購不會對經營、財務等產生重大影響，也不會導致控制權變化。同時，公司提示了回購方案實施的相關風險。"
-    },
-    {
-      "id": "4929898",
-      "time": "2026-06-11 15:52:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯綠生態：重大資產重組推進中 尚需多項審批】匯綠生態公告稱，公司擬以發行股份及支付現金方式，向彭開盛等購買武漢鈞恆科技有限公司49%股權，並擬向不超35名特定投資者募資配套資金。公司股票於2025年7月22日起停牌，7月28日復牌。2026年5月27日，公司收到深交所同意恢復稽核本次交易事項的通知。截至公告披露日，未發現導致交易終止或變更的事項，各方正積極推進。本次交易尚需深交所稽核透過並經中國證監會註冊，存在不確定性。"
-    },
-    {
-      "id": "4929897",
-      "time": "2026-06-11 15:52:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外交部就美國嚴重違反停火協議發表宣告】伊朗外交部就美國嚴重違反停火協議發表宣告：伊朗伊斯蘭共和國外交部強烈譴責美國反動政權昨夜對伊朗發動大規模襲擊的罪行，並強調，這一挑釁行徑所引發的一切嚴重後果，均由美國統治階層承擔全部責任。美國近日發起的非法襲擊，不僅嚴重違反《聯合國憲章》以及國際法中尊重各國主權和領土完整的基本準則，也使得伊朗歷 1405 年法瓦爾丁月 19 日達成的停火協議名存實亡。此外，美軍藉助部分地區國家的領土與設施，策劃並實施針對伊朗的侵略行動，此舉已令相關國家站到侵略者一方。伊朗伊斯蘭共和國嚴正提醒地區各國，從法律與道義層面來講，均有義務阻止美軍利用其領土、設施及資源對伊朗發動侵略。伊朗同時強調，針對美國及其幫兇的軍事侵略，本國將行使固有的自衛權，堅決清除各類侵略襲擊的策源地。伊朗指出，聯合國全體成員國均有共同責任，明確反對美國及猶太復國主義政權肆意踐踏《聯合國憲章》宗旨與基本原則的行為。毫無疑問，面對美方及猶太復國主義政權的不法行徑與霸權舉動，若選擇沉默和不作為，只會讓全球局勢愈發動盪不安。"
-    },
-    {
-      "id": "mkt:019eb5ab-2a5b-7dd8-afb7-e8e570d6b311",
-      "time": "2026-06-11 15:52:33",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【ABN AMRO Bank: ECB inflation concerns likely to outweigh growth worries】ABN AMRO Bank said ECB President Lagarde has signaled June would be an appropriate time to assess the Iran conflict’s impact and update forecasts. April policy decisions and subsequent comments point to a high probability of a rate increase at the upcoming meeting. ABN AMRO expects the ECB to raise inflation forecasts, signal the possibility it may need to tighten further, and potentially follow with a 25bp hike in July. Despite a slowdown in euro-area growth, policymakers remain more concerned about inflation than activity. Markets have fully priced a June hike; attention will focus on the ECB’s updated forecasts and guidance on the post-meeting rate path."
-    },
-    {
-      "id": "4929896",
-      "time": "2026-06-11 15:52:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國對進口自中國的廂式半掛車及其元件作出反傾銷初裁】據中國貿易救濟資訊網訊息，2026年6月10日，美國商務部發布公告，對進口自中國的廂式半掛車及其元件（Van-Type Trailers and Subassemblies）作出反傾銷初裁，初步裁定中國出口商/生產商的傾銷幅度為130.86%（抵消補貼後的保證金調整為130.76%）。美國商務部預計將於2026年8月25日對進口自中國的廂式半掛車及其元件作出反傾銷和反補貼終裁。本案主要涉及美國海關編碼8716.39.0040項下產品。2026年1月21日，美國商務部對進口自加拿大、中國和墨西哥的廂式半掛車及其元件發起反傾銷和反補貼調查。2026年5月27日，由於申請方撤回了對進口自加拿大涉案產品的反補貼申請，美國商務部終止了對加拿大涉案產品的反補貼調查。2026年6月2日，美國商務部對進口自中國和墨西哥的廂式半掛車及其元件作出反補貼初裁。"
-    },
-    {
-      "id": "4929895",
-      "time": "2026-06-11 15:51:45",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【金價回落，市場關注美國通脹資料】隨著投資者評估美國貨幣政策前景，金價繼續回落。在早盤交易中，紐約期貨下跌0.1%，至每盎司4,129.60美元，本週累計下跌逾8%。荷蘭國際集團的分析師表示：“雖然地緣政治不確定性和央行買盤繼續提供長期支撐，但短期價格走向可能仍與美國經濟資料、美債收益率以及對美聯儲政策的預期密切相關。“在5月份美國消費者物價漲幅創下三年來最高水平之後，交易員目前正在等待週四晚些時候公佈的PPI資料。"
-    },
-    {
-      "id": "4929894",
-      "time": "2026-06-11 15:51:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國新能源：董事、總經理聶銀杉和劉聯濤因工作調整離任】國新能源公告稱，董事會近日收到聶銀杉和劉聯濤的書面辭職報告。因工作調整，聶銀杉辭去副董事長、董事、總經理等職務，劉聯濤辭去董事等職務，辭職報告於2026年6月11日生效，原定任期到2028年5月6日。二人辭職不會影響公司正常運作，且未持股、無未履行承諾，已做好交接。公司將盡快完成董事補選。"
-    },
-    {
-      "id": "4929893",
-      "time": "2026-06-11 15:50:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶地礦業：董事長、總經理等職務調整 提名新董事候選人】寶地礦業公告稱，公司董事會於6月11日審議多項議案。高偉因工作調整辭任董事長等職務，董事會提名趙頎煒為董事長；趙頎煒辭任總經理，提名陳韜為總經理；周毅辭任非獨立董事，董事會提名陳韜、5%以上股東蔥嶺實業提名帕哈爾丁·阿不都卡得爾為非獨立董事候選人。此外，還調整了董事會專門委員會委員，提名劉軍華任副總經理，並決定召開2026年第二次臨時股東會。"
-    },
-    {
-      "id": "mkt:019eb5a9-9613-7dd8-afb7-e709a9b2515c",
-      "time": "2026-06-11 15:50:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's foreign ministry said Iran is determined to eliminate the source of attacks."
-    },
-    {
-      "id": "mkt:019eb5a9-915a-7dd8-afb7-dbb8395ca8b8",
-      "time": "2026-06-11 15:50:49",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "【Commerzbank: Euro could slowly recover if US and Iran reach deal】Commerzbank analyst Michael Pfister said a near-term US-Iran agreement could support a gradual EUR/USD recovery, but only if the deal is durable enough to keep the Strait of Hormuz open. He flagged recent hostilities as casting doubt on such durability, so even a temporary agreement should not be over-interpreted. Commerzbank expects EUR/USD to edge up to $1.16 by month-end."
-    },
-    {
-      "id": "em:qqyh_mlc:202606113768260523",
-      "time": "2026-06-11 15:50:45",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【申萬宏源：短期內沃什或維持“不加息的耐心”】申萬宏源宏觀研究報告表示，美國5月CPI同比升至4.2%，但核心CPI弱於預期，市場表現較為平淡，年內加息預期小幅壓縮。短期內，沃什或維持“不加息的耐心”。5月美國CPI或增加沃什保持耐心的“籌碼”，但美聯儲內部的偏鷹傾向可能是核心矛盾。"
-    },
-    {
-      "id": "mkt:019eb5a9-77ce-7dd8-afb7-d34ee2c0d373",
-      "time": "2026-06-11 15:50:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran's foreign ministry said U.S. attacks have rendered the ceasefire 'meaningless'."
-    },
-    {
-      "id": "4929892",
-      "time": "2026-06-11 15:50:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【茅臺董事長陳華：所有產品渠道存量處於良性健康水平】6月11日，貴州茅臺酒股份有限公司2025年度股東會召開。茅臺集團黨委書記、董事長陳華透露：“目前來看，我們所有產品的渠道存量處於良性健康水平。”他還表示：“未來，白酒行業將步入存量競爭的新階段，產業集聚效應會進一步凸顯，茅臺依然具備強勁的發展韌性與增長潛力。從當前看，茅臺依然是一家非常健康的公司，擁有“高毛利、高淨利、高分紅、低負債”的獨特優勢。”（酒業內參）"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606113768259646",
-      "time": "2026-06-11 15:50:39",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【法巴銀行：預計歐洲央行將進行兩次加息】法巴銀行預計，歐洲央行將進行兩次加息，分別在6月和9月，然後在2027年底前保持利率不變。"
-    },
-    {
-      "id": "4929891",
-      "time": "2026-06-11 15:50:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：土耳其主要反對黨被罷免領導人團隊決定從黨內議會辭職。"
-    },
-    {
-      "id": "4929890",
-      "time": "2026-06-11 15:50:21",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【馬斯克將在阿斯麥活動上發表影片講話】埃隆·馬斯克將於週四以線上形式出席晶片裝置巨頭阿斯麥舉辦的活動，討論其Terafab超級晶片工廠計劃。阿斯麥發言人在一份宣告中表示：“馬斯克將分享他對人工智慧、機器人、太空和半導體制造的願景。”阿斯麥將其年度一日技術大會描述為“僅限員工參加的內部活動”，並未透露馬斯克何時發言。大會將於格林尼治標準時間週四下午15點（北京時間週四晚23點）左右結束。"
-    },
-    {
-      "id": "4929889",
-      "time": "2026-06-11 15:49:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：美國襲擊使停火“毫無意義”。"
-    },
-    {
-      "id": "mkt:019eb5a8-be5c-7dd8-afb7-ce351b1a3f38",
-      "time": "2026-06-11 15:49:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tianzheng Electric plans to repurchase its shares totaling 75 mln–150 mln yuan, at a maximum price of 11.5 yuan per share."
-    },
-    {
-      "id": "4929888",
-      "time": "2026-06-11 15:49:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗宣告：決心根除襲擊源頭。"
     }
   ]
 }
