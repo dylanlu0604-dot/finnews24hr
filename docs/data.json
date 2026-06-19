@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-20 04:11:55",
-  "count": 17671,
+  "updated": "2026-06-20 04:16:00",
+  "count": 17668,
   "items": [
+    {
+      "id": "4945446",
+      "time": "2026-06-20 04:15:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行存款從前一週的19.295萬億美元增至19.354萬億美元。"
+    },
+    {
+      "id": "4945445",
+      "time": "2026-06-20 04:11:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普結束在安德魯斯聯合基地的講話。"
+    },
     {
       "id": "4945444",
       "time": "2026-06-20 04:10:38",
@@ -162671,55 +162687,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Falls as Inflation Tops Forecasts — The Ibovespa fell 0.2% to close at 171,133 on Friday as hotter-than-expected inflation data weighed on sentiment. Brazil’s annual inflation rate accelerated to 4.72% in May from 4.39%, exceeding forecasts and the BCB’s upper target, reinforcing expectations of a more hawkish stance from the central bank. Abroad, investors remained focused on US-Iran negotiations aimed at ending the conflict. While US President Donald Trump said on Thursday that an agreement could be reached as early as this weekend, Iran stated that it had yet to make a final decision. Oil prices eased amid hopes for a deal, dragging Petrobras down 1.4%. Utilities also posted losses, with Auren falling 0.4% and Sabesp shedding 0.9%. On the upside, Embraer gained 2.2% following reports of aircraft purchases by the Greek government."
-    },
-    {
-      "id": "4933412",
-      "time": "2026-06-13 04:15:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：美國上週銀行存款19.296萬億美元，之前一週19.338萬億美元。"
-    },
-    {
-      "id": "4933411",
-      "time": "2026-06-13 04:15:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國廣播電視臺（IRIB）：伊朗外長阿拉格齊表示，初步諒解備忘錄共兩頁內容。根據該備忘錄，伊朗所有被凍結資產均不得繼續處於凍結狀態。 若動用伊朗資產向其他國家支付款項，即視為違反協議。"
-    },
-    {
-      "id": "mkt:019ebd79-c742-7dd8-afe7-281d2363793f",
-      "time": "2026-06-13 04:15:35",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact bullish",
-        "WBD.O",
-        "Impact bearish"
-      ],
-      "text": "Politico reports the U.S. Department of Justice has approved Paramount's acquisition of Warner Bros."
-    },
-    {
-      "id": "4933410",
-      "time": "2026-06-13 04:14:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "據politico： 美國司法部批准派拉蒙收購華納兄弟。"
-    },
-    {
-      "id": "te:markets:558792",
-      "time": "2026-06-13 04:12:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Gains on Hopes for US-Iran Agreement — The S&P/TSX Composite Index gained 0.8% to close at 34,938 on Friday amid renewed optimism over US-Iran diplomacy. Reports indicated that a US-Iran memorandum could be signed as early as Sunday. Oil prices eased, reducing inflation concerns and diminishing expectations of further monetary tightening, supporting financial stocks and the broader market. TD Bank added 1.1%, while BMO rose 1.2%. Mining stocks also advanced despite lower gold prices, with Agnico Eagle gaining 3.4%, Barrick rising 3.3%, and WPM adding 3.5%. Meanwhile, technology shares traded mixed following SpaceX's market debut. Shopify fell 1.8%, while Celestica posted gains as investor optimism around AI-related stocks persisted."
     }
   ]
 }
