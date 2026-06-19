@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-20 02:46:25",
-  "count": 17748,
+  "updated": "2026-06-20 02:50:20",
+  "count": 17751,
   "items": [
+    {
+      "id": "mkt:019ee136-f3b5-7dd8-b09a-72a68c36e2de",
+      "time": "2026-06-20 02:48:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Abu Dhabi-based technology investor MGX is considering a multi-billion-dollar acquisition of data center operator DayOne."
+    },
+    {
+      "id": "4945401",
+      "time": "2026-06-20 02:48:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克重組之際裁減英國、中國香港辦公室崗位。"
+    },
+    {
+      "id": "4945400",
+      "time": "2026-06-20 02:48:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿布扎比投資機構 MGX 正考慮斥資數十億美元收購資料中心運營商 Dayone。"
+    },
+    {
+      "id": "mkt:019ee136-8886-7dd8-b09a-6d6af2c089f7",
+      "time": "2026-06-20 02:48:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said by then the measure of value will no longer be the dollar but mass and energy."
+    },
+    {
+      "id": "mkt:019ee136-1a86-7dd8-b09a-6630e3a1f4c7",
+      "time": "2026-06-20 02:47:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elon Musk said humanity will invest unimaginable sums in producing antimatter to enable interstellar travel to other star systems."
+    },
     {
       "id": "4945399",
       "time": "2026-06-20 02:44:41",
@@ -163453,28 +163493,6 @@
         "市場"
       ],
       "text": "HSBC將中遠海控A股評級上調至買進，目標價18.50元人民幣；將中遠海能A股評級上調至持有，目標價17.20元人民幣。"
-    },
-    {
-      "id": "4933308",
-      "time": "2026-06-13 02:47:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：根據伊朗官員向我們傳達的資訊，以色列將依據該協議從黎巴嫩領土撤軍。黎巴嫩也被納入伊朗與美國停火協議之中。"
-    },
-    {
-      "id": "mkt:019ebd29-0869-7dd8-afe5-b72b1dc4eb3c",
-      "time": "2026-06-13 02:47:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bearish",
-        "WTI",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Hezbollah said, citing information from Iranian officials, that under the agreement Israel will withdraw its forces from Lebanese territory and that Lebanon is included in the Iran-US ceasefire agreement."
     }
   ]
 }
