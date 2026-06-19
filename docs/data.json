@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-20 03:06:47",
-  "count": 17756,
+  "updated": "2026-06-20 03:10:40",
+  "count": 17753,
   "items": [
+    {
+      "id": "mkt:019ee147-b9ef-7dd8-b09a-a0fe5889b930",
+      "time": "2026-06-20 03:07:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "President Trump said Venezuela has oil while Cuba does not, and that Cuba has good real estate and an attractive coastline."
+    },
     {
       "id": "mkt:019ee146-09e4-7dd8-b09a-9baee1a46ba3",
       "time": "2026-06-20 03:05:24",
@@ -163496,41 +163506,6 @@
         "國際"
       ],
       "text": "伊朗外長：伊朗是與美國對抗中的獲勝方。"
-    },
-    {
-      "id": "4933315",
-      "time": "2026-06-13 03:09:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外交部長：我們呼籲美國與伊朗抓住此次機遇，結束這一不可持續的局面。"
-    },
-    {
-      "id": "mkt:019ebd3d-1638-7dd8-afe5-d01264790421",
-      "time": "2026-06-13 03:09:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French foreign minister urged the US and Iran to seize the opportunity to end this unsustainable situation."
-    },
-    {
-      "id": "4933314",
-      "time": "2026-06-13 03:09:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：作出的承諾就必須兌現。沒有“如果”、沒有“但是”、也沒有藉口。對於即將達成的協議，別無他法。"
-    },
-    {
-      "id": "mkt:019ebd3c-c292-7dd8-afe5-cbb9912c088c",
-      "time": "2026-06-13 03:08:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said commitments must be honored, with no 'ifs', no 'buts' and no excuses, and there is no alternative to the imminent agreement."
     }
   ]
 }
