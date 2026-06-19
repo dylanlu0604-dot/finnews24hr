@@ -1,7 +1,555 @@
 {
-  "updated": "2026-06-19 07:32:29",
-  "count": 18968,
+  "updated": "2026-06-19 08:00:28",
+  "count": 18997,
   "items": [
+    {
+      "id": "mkt:019edd2d-67ff-7dd8-b08a-7cd6d957b2bf",
+      "time": "2026-06-19 08:00:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan minutes: the Cabinet Office said it hopes the central bank's policy guidance will be consistent with the government's joint statement."
+    },
+    {
+      "id": "4944427",
+      "time": "2026-06-19 07:59:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：內閣辦公室代表稱，希望日本央行按照與政府的共同宣告來引導政策。"
+    },
+    {
+      "id": "mkt:019edd2d-1d3a-7dd8-b08a-75f9e6e796ff",
+      "time": "2026-06-19 07:59:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan minutes: a Cabinet Office representative said the central bank must guide appropriate monetary policy to secure strong economic growth and price stability in Japan."
+    },
+    {
+      "id": "4944426",
+      "time": "2026-06-19 07:59:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：內閣辦公室代表稱，日本央行必須實施恰當的貨幣政策引導，確保日本實現強勁經濟增長與物價穩定."
+    },
+    {
+      "id": "mkt:019edd2c-7d82-7dd8-b08a-6a94095150c4",
+      "time": "2026-06-19 07:59:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan minutes: one member said the central bank's monetary policy does not target the exchange rate and that the exchange rate should be determined by the market."
+    },
+    {
+      "id": "4944425",
+      "time": "2026-06-19 07:58:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名成員表示，日本央行貨幣政策不以匯率為目標，匯率應由市場決定。"
+    },
+    {
+      "id": "4944424",
+      "time": "2026-06-19 07:58:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱在東太平洋打擊一艘“販毒船” 致3人死亡】當地時間18日，美國南方司令部透過社交媒體發文稱，聯合特遣部隊“南方之矛”在東太平洋對一艘由“認定恐怖組織”運營的船隻實施了打擊，打死3名男性所謂“毒品恐怖分子”。"
+    },
+    {
+      "id": "mkt:019edd2b-ab81-7dd8-b08a-621e14d8898d",
+      "time": "2026-06-19 07:58:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan minutes: one member said the BOJ should maintain accommodative monetary policy and avoid rate hikes if Japan faces severe supply‑chain disruptions."
+    },
+    {
+      "id": "4944423",
+      "time": "2026-06-19 07:57:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一位委員表示，若日本面臨供應鏈嚴重中斷，央行應維持寬鬆貨幣政策，避免加息。"
+    },
+    {
+      "id": "mkt:019edd2b-85a8-7dd8-b08a-5c98af6aa137",
+      "time": "2026-06-19 07:57:57",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan minutes: one member said the central bank should not hesitate to accelerate interest-rate hikes, for example by raising rates every few months."
+    },
+    {
+      "id": "4944422",
+      "time": "2026-06-19 07:57:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議記錄：一位委員表示，日本央行不應猶豫加快加息步伐，例如每隔幾個月加息一次。"
+    },
+    {
+      "id": "mkt:019edd2a-bccb-7dd8-b08a-573c7564997c",
+      "time": "2026-06-19 07:57:05",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN minutes: some members said if the Middle East conflict persists the central bank should raise rates faster to avert potentially excessive inf."
+    },
+    {
+      "id": "mkt:019edd2a-0f48-7dd8-b08a-4fffa490aa71",
+      "time": "2026-06-19 07:56:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Japan minutes: one member said any rate increases at the next meeting and thereafter will depend on the magnitude of risks to the economy and prices."
+    },
+    {
+      "id": "4944421",
+      "time": "2026-06-19 07:56:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名委員表示，若圍繞經濟、物價的風險規模出現相應變化，下次及之後的會議有可能加息。"
+    },
+    {
+      "id": "mkt:019edd29-dcc7-7dd8-b08a-41a70afec530",
+      "time": "2026-06-19 07:56:08",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan minutes: several members said the central bank could modestly adjust the degree of monetary easing if the likelihood of its baseline forecast being realized increases."
+    },
+    {
+      "id": "4944420",
+      "time": "2026-06-19 07:56:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞聯邦銀行任命新任資訊長與技術長，以推進科技與人工智慧戰略。"
+    },
+    {
+      "id": "4944419",
+      "time": "2026-06-19 07:55:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：多名委員表示，如果日本央行基線預測兌現的可能性上升，央行可按合適節奏調整貨幣寬鬆的力度。"
+    },
+    {
+      "id": "mkt:019edd28-c5fd-7dd8-b08a-3ad658ce585e",
+      "time": "2026-06-19 07:54:57",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Bank of Japan minutes said policy members unanimously agreed the timing and pace of future rate hikes will depend on the likelihood that the BOJ's baseline forecasts are realized and on risks to economic growth and inflation."
+    },
+    {
+      "id": "4944418",
+      "time": "2026-06-19 07:54:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：委員一致認為，未來加息的時機與節奏將取決於日本央行基準預測實現的可能性，以及增長與通脹面臨的風險。"
+    },
+    {
+      "id": "4944417",
+      "time": "2026-06-19 07:54:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：委員一致認為，根據經濟、物價和金融形勢的發展繼續加息是合適的。少數成員表示，如果通脹風險大幅超過增長下行風險，日本央行可就加息的利弊展開討論。"
+    },
+    {
+      "id": "mkt:019edd27-e35c-7dd8-b08a-328695a37cac",
+      "time": "2026-06-19 07:53:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN minutes: Some members said if inflation risks materially outweigh downside growth risks, the bank could discuss the merits and drawbacks of a rate hike."
+    },
+    {
+      "id": "mkt:019edd27-9fc7-7dd8-b08a-287d0b9b5d51",
+      "time": "2026-06-19 07:53:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan minutes said members unanimously agreed that, given developments in the economy, inflation and financial conditions, continuing to raise interest rates is appropriate."
+    },
+    {
+      "id": "em:qqyh_rbyh:202606193776766086",
+      "time": "2026-06-19 07:52:54",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行多位成員表示將根據經濟和物價情況持續加息】日本央行會議紀要顯示，多位成員表示，需要更多時間來確認中東局勢發展對日本經濟和物價的影響；將根據經濟和物價情況持續加息。"
+    },
+    {
+      "id": "4944416",
+      "time": "2026-06-19 07:52:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：多名成員表示，央行基線預測成真的可能性並不高，目前難以評估增長下行風險與通脹上行風險的平衡狀況。"
+    },
+    {
+      "id": "mkt:019edd26-ad9b-7dd8-b08a-203832ffb161",
+      "time": "2026-06-19 07:52:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan minutes: one member said the current situation is not urgent and there is no need to rush rate hikes."
+    },
+    {
+      "id": "4944415",
+      "time": "2026-06-19 07:52:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名成員認為，目前局勢並不緊迫，無需倉促加息。"
+    },
+    {
+      "id": "mkt:019edd26-68cf-7dd8-b08a-19c54b96ef0c",
+      "time": "2026-06-19 07:52:22",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan minutes: many members said the bank's baseline projection was unlikely to be realized and it was difficult to assess the balance between downside risks to growth and upside risks to inflation."
+    },
+    {
+      "id": "mkt:019edd26-224e-7dd8-b08a-15ac1e41b588",
+      "time": "2026-06-19 07:52:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BOJ minutes: several members said more time is needed to assess how developments in the Middle East will affect Japan's economy and prices."
+    },
+    {
+      "id": "4944414",
+      "time": "2026-06-19 07:51:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行4月會議紀要：多位成員表示，需要更多時間來確認中東局勢發展對日本經濟和物價的影響。"
+    },
+    {
+      "id": "4944413",
+      "time": "2026-06-19 07:51:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行公佈4月27日至28日政策會議紀要。"
+    },
+    {
+      "id": "4944412",
+      "time": "2026-06-19 07:50:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行成員：將根據經濟和物價情況持續加息。"
+    },
+    {
+      "id": "4944411",
+      "time": "2026-06-19 07:49:53",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本5月核心通脹持續低於日央行目標 燃油漲價風險值得關注】日本總務省週五公佈資料顯示，受燃油補貼對沖中東衝突帶來的原材料漲價影響，5月日本年度核心通脹連續第四個月低於央行2%的通脹目標。分析師預計，未來數月居民通脹將再度升溫；生產端物價已大幅走高，成本壓力持續擴散，日本央行或將延續加息路徑。官方資料顯示，剔除波動較大生鮮食品的核心消費者物價指數（CPI）5月同比上漲1.4%，符合市場預期中值，同比漲幅與4月持平。另有一項同時剔除生鮮食品與燃油的物價指數，是日本央行重點觀測、用於衡量核心潛在通脹的指標，5月同比上漲1.8%，創下2022年9月以來最低同比漲幅。日本央行於週二加息，利率升至31年新高，這是其貨幣政策正常化程序中的標誌性舉措。央行釋放訊號，準備進一步收緊貨幣政策，著力抑制由伊朗衝突引發能源衝擊所帶來的物價上漲壓力。"
+    },
+    {
+      "id": "4944410",
+      "time": "2026-06-19 07:49:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨上漲1.12%，報72,030點。"
+    },
+    {
+      "id": "4944409",
+      "time": "2026-06-19 07:48:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州市粵港澳大灣區人工智慧應用賦能中心正式成立並揭牌】6月18日，廣州市粵港澳大灣區人工智慧應用賦能中心正式成立並揭牌。該中心由雲從科技、廣州數字科技集團、中國電信廣州分公司、佳都科技、廣州雲蝶科技和廣州市人工智慧產業發展促進會六家單位聯合發起，面向廣州及粵港澳大灣區人工智慧產業發展需求，建設人工智慧應用公共服務與生態賦能平臺。"
+    },
+    {
+      "id": "4944408",
+      "time": "2026-06-19 07:47:59",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【被指控謀殺保險公司執行長的曼吉奧內暫時撤回精神健康辯護計劃】據週五提交的法庭檔案顯示，被指控在曼哈頓人行道上槍殺一名健康保險公司高管的盧伊吉·曼吉奧內（Luigi Mangione (link)）目前已撤回在庭審中主張其在涉嫌殺人時正處於極端精神健康危機中的辯護計劃。現年28歲的曼吉奧內被指控於2024年12月在中城一家酒店外槍殺聯合健康保險公司執行長布萊恩·湯普森。這起明目張膽的謀殺案雖遭到政府官員的廣泛譴責，卻也成為美國民眾對不斷上漲的醫療成本及健康保險行業做法感到沮喪的象徵。2024年12月，曼吉奧內對曼哈頓地區檢察官阿爾文·布拉格提出的州級謀殺、非法持有武器及偽造檔案等指控表示不認罪。他的審判定於9月在曼哈頓由格雷戈裡·卡羅法官主持。在週五致卡羅法官的一封信中，曼吉奧內的律師表示，他們“目前”將撤回在庭審中辯稱曼吉奧內因極度精神健康危機而喪失行為控制能力的計劃。曼吉奧內的律師團隊週五拒絕置評。"
+    },
+    {
+      "id": "4944407",
+      "time": "2026-06-19 07:46:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.15點。"
+    },
+    {
+      "id": "4944406",
+      "time": "2026-06-19 07:46:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲0.91%。"
+    },
+    {
+      "id": "mkt:019edd20-66b9-7dd8-b08a-0f29189d40f0",
+      "time": "2026-06-19 07:45:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold extended early losses, dipping below $4,190/oz and down 0.45% on the day."
+    },
+    {
+      "id": "4944405",
+      "time": "2026-06-19 07:45:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4190美元/盎司，日內跌0.47%。"
+    },
+    {
+      "id": "4944404",
+      "time": "2026-06-19 07:45:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【亞市早盤油價下跌  受霍爾木茲海峽重新開放跡象影響】亞洲早盤油價下跌，受霍爾木茲海峽重新開放的跡象影響，該海峽是一條關鍵通道，全球五分之一的石油通常經此運輸。“美伊臨時和平協議生效，波斯灣石油恢復供應，“澳新銀行研究部分析師在一份研究報告中說。“隨著伊朗根據協議規定的條件放鬆對這條關鍵水道的控制，大量油輪趁機透過霍爾木茲海峽駛出波斯灣，“澳新銀行研究部的分析師補充說。近月西得州中質油期貨下跌0.7%，報每桶76.05美元。"
+    },
+    {
+      "id": "4944403",
+      "time": "2026-06-19 07:45:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4210美元/盎司，日內跌0.85%。"
+    },
+    {
+      "id": "4944402",
+      "time": "2026-06-19 07:44:03",
+      "tags": [
+        "宏觀",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【補貼壓制能源價格 日本通脹保持平穩】受政府補貼壓低能源成本等因素支撐，日本5月核心通脹資料持穩，日本央行年內後續加息路徑不變。日本總務省週五公佈資料，剔除生鮮食品的核心消費者物價指數同比上漲1.4%，與經濟學家預期一致。剔除生鮮食品與能源的核心核心CPI同比上漲1.8%，同樣符合市場預期中值。資料表明，高市早苗首相推出的民生紓困政策成效顯著，政策主要依靠燃油補貼抑制生活成本上漲。其內閣近期敲定補充預算，未來數月將持續緩解中東危機給普通家庭帶來的衝擊。日本政府同時出臺舉措，下調育兒相關開支。儘管美伊臨時和平協議已生效，國際油價依舊處於高位。能源交易商表示，關鍵航道霍爾木茲海峽的原油、液化天然氣運輸量即便能恢復常態，也至少需要數月時間。日元走弱同樣持續擾動日本物價走勢，上月日元兌美元平均匯率為158.24，較去年同期貶值超8%，推高進口商品成本。週五東京早盤日元匯率約1美元兌161.31日元，逼近40年來低位，加大央行入市干預匯率的可能性。"
+    },
+    {
+      "id": "4944401",
+      "time": "2026-06-19 07:42:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【智譜成為港股歷史上首隻突破2000港元的個股】6月18日，“全球大模型第一股”智譜股價高開高走，收盤大漲26.14%，報2094港元/股，總市值達到9336億港元，距離1萬億港元市值僅一步之遙，創下歷史新高。值得一提的是，智譜也因此成為港股歷史上首隻突破2000港元股價的個股。"
+    },
+    {
+      "id": "te:economy:560205",
+      "time": "2026-06-19 07:42:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Core Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Japan Core Inflation Remains at Over 4-Year Low — Japan’s core consumer price index, which excludes fresh food but includes energy, rose 1.4% year-on-year in May 2026, in line with both the previous figure and market forecasts. Still, the latest reading marked the lowest level since March 2022 and remained below the Bank of Japan’s 2% target for a fourth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Iran-Israel conflict. Meanwhile, the index excluding the effects of volatile fresh food and fuel, which is closely watched by the Bank of Japan as a better gauge of demand-driven price movements, rose 1.8% year-on-year in May, marking the softest increase since September 2022. The BoJ raised interest rates by 25 bps to their highest level since September 1995 at its June meeting, marking the first rate hike since last December, to prevent higher oil prices from fueling inflation."
+    },
+    {
+      "id": "4944400",
+      "time": "2026-06-19 07:40:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數或將上漲 追隨華爾街漲勢】日本股市或將上漲，追隨華爾街隔夜漲勢。在美國和伊朗簽署結束衝突的臨時和平協議後，市場情緒繼續保持樂觀。近期原油價格下跌也緩解了投資者對日本高通脹的擔憂。在新加坡交易所，日經指數期貨上漲490點，至71900點。美元報161.35日元，週四紐約匯市尾盤報161.38日元。日經指數週四收盤上漲1.65%，報創紀錄的71053.49點。"
+    },
+    {
+      "id": "4944399",
+      "time": "2026-06-19 07:39:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國南方司令部：6月18日，在南方司令部指揮官弗朗西斯·L·多諾萬將軍的指示下，聯合特遣部隊“南方之矛”對一艘由指定恐怖組織運營的船隻實施了致命動能打擊。情報確認該船隻正沿東太平洋已知毒品販運路線航行，並參與毒品販執行動。此次行動中，三名男性毒品恐怖分子被擊斃。無美軍人員受傷。"
+    },
+    {
+      "id": "te:markets:560204",
+      "time": "2026-06-19 07:39:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Heads for Sharp Weekly Drop — Brent traded around $79 per barrel on Friday and was on track to fall roughly 10% for the week, as investors welcomed improving shipping conditions in the Strait of Hormuz following the implementation of the US-Iran interim peace agreement, which brought an end to a prolonged conflict that triggered the largest supply disruption on record. The US Central Command announced it had lifted restrictions on traffic to and from Iranian ports and coastal waters, while the Joint Maritime Information Center advised vessels transiting the strait to follow a route closer to Oman’s coastline to reduce the risk from mines. Tankers carrying previously stranded crude began exiting the waterway on Thursday, and Kuwait said it would begin increasing production. As a result, oil prices have erased nearly all the gains recorded since the Middle East conflict began in late February."
+    },
+    {
+      "id": "4944398",
+      "time": "2026-06-19 07:39:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國南方司令部：美軍在東太平洋擊沉一艘船隻，造成3人死亡。"
+    },
+    {
+      "id": "4944397",
+      "time": "2026-06-19 07:38:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國和墨西哥結束了第二輪美墨加協定審查下的貿易談判】美國貿易代表辦公室和墨西哥經濟部在一份聯合宣告中表示，作為美墨加協定審查的一部分，美墨兩國完成了第二輪貿易談判，雙方就農業、勞工、環境以及原產地規則等問題進行了深入討論。宣告稱，雙方還討論了與鋼鐵、鋁和汽車相關的貿易問題。美國和墨西哥同意成立一個委員會，審查《美墨加協定》第十二章的執行情況，以加強監管相容性。第三輪談判將於下個月在墨西哥城舉行。"
+    },
+    {
+      "id": "te:markets:560203",
+      "time": "2026-06-19 07:37:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Heads for Sharp Weekly Drop — Crude oil traded around $76 per barrel on Friday and was on track to fall roughly 10% for the week, as investors welcomed improving shipping conditions in the Strait of Hormuz following the implementation of the US-Iran interim peace agreement, which brought an end to a prolonged conflict that triggered the largest supply disruption on record. The US Central Command announced it had lifted restrictions on traffic to and from Iranian ports and coastal waters, while the Joint Maritime Information Center advised vessels transiting the strait to follow a route closer to Oman’s coastline to reduce the risk from mines. Tankers carrying previously stranded crude began exiting the waterway on Thursday, and Kuwait said it would begin increasing production. As a result, oil prices have erased nearly all the gains recorded since the Middle East conflict began in late February."
+    },
+    {
+      "id": "te:economy:560202",
+      "time": "2026-06-19 07:37:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Japan Inflation Rate Inches Up to 1.5% — Japan’s annual inflation edged higher to 1.5% in May 2026 from 1.4% in the prior month. Core inflation stood at 1.4%, unchanged from April but remained below the central bank’s 2% target for a fourth consecutive month. On a monthly basis, consumer prices increased 0.4%, up from 0.1% in April."
+    },
+    {
+      "id": "4944396",
+      "time": "2026-06-19 07:37:01",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【經濟日報：市場擔憂美聯儲政策路徑可能大轉向】美聯儲新任主席凱文·沃什的“首秀”，給市場帶來了不小的震動。對於這一決定，市場早已充分定價。然而決議公佈後，美股直線跳水，黃金短線下挫，美元指數直線拉昇，市場表達了對沃什時期美聯儲政策路徑將發生根本性轉變的擔憂。從政策理念看，沃什作為傳統“鷹派”，一直對鮑威爾時期的過度溝通持審慎態度。他認為，過度透明不僅剝奪了政策的靈活性，反而讓市場產生了依賴，助長了金融風險。他要把美聯儲拉回“神秘主義”時代，用不可預測性來威懾通脹預期。不過，分析人士認為，更新資料來源、改變溝通方式雖能在一定程度上提升決策敏捷性，卻無法解決美國經濟深層結構性矛盾。在財政赤字屢創新高、國債規模突破天際的背景下，單靠美聯儲收緊貨幣政策不僅難以根治通脹，反而可能因維持高利率過久而刺破債務泡沫，引發系統性金融危機。對於全球市場而言，美聯儲政策邏輯的變化將產生廣泛外溢影響。美元走強可能成為長期趨勢，對新興市場跨境資本流動帶來壓力；美債收益率曲線的高企將重塑全球無風險收益率的基準，風險資產估值面臨系統性重估。投資者需要在一個更高利率、更少透明度、更強波動的環境中重新尋找平衡。"
+    },
+    {
+      "id": "4944395",
+      "time": "2026-06-19 07:36:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西將於6月19日拍賣至多6萬份外匯掉期合約。"
+    },
+    {
+      "id": "4944394",
+      "time": "2026-06-19 07:36:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家郵政局：加快推進無人車、無人機等在郵政快遞行業試點應用】6月18日，國家郵政局召開黨組會議，審議《郵政業發展“十五五”規劃》（送審稿）等檔案。會議強調，要進一步強化郵政快遞企業科技創新主體地位，深化科教融合、產教融合，培育壯大行業科技領軍企業。要推動大資料、網際網路、人工智慧等新技術與郵政快遞業更深度融合，加快推進無人車、無人機等在行業試點應用，加快智慧派件、智慧路由等先進技術應用。要加強高素質人才隊伍建設，為推動行業高質量發展提供強有力的人才支撐。"
+    },
+    {
+      "id": "mkt:019edd16-932e-7dd8-b08a-05c7a509adbc",
+      "time": "2026-06-19 07:35:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan's May core-core CPI growth slowed to its weakest since September 2022."
+    },
+    {
+      "id": "4944393",
+      "time": "2026-06-19 07:32:25",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本5月核心-核心CPI升幅為2022年9月以來最低。"
+    },
+    {
+      "id": "4944392",
+      "time": "2026-06-19 07:32:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡交易所日經股指期貨開盤上漲570點，報71980點。"
+    },
     {
       "id": "4944391",
       "time": "2026-06-19 07:31:44",
@@ -40,6 +588,15 @@
         "國際"
       ],
       "text": "日本5月去除生鮮食品與能源後的核心消費者物價指數同比上漲1.8%。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202606193776623298",
+      "time": "2026-06-19 07:30:30",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本5月核心CPI同比增長1.4%，預期1.4%，前值1.4%。"
     },
     {
       "id": "4944389",
@@ -174359,278 +174916,6 @@
         "國際"
       ],
       "text": "韓國綜合股價指數（KOSPI）開盤上漲6.4%，至8263.85點。"
-    },
-    {
-      "id": "4931382",
-      "time": "2026-06-12 08:00:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報65176.23點，漲幅1.49%。"
-    },
-    {
-      "id": "te:economy:558495",
-      "time": "2026-06-12 08:00:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Bond Yield Hits 14-week Low — Australia 10 Year Government Bond Yield decreased to 4.83%, the lowest since March 2026. Over the past 4 weeks, Australia 10Y Bond Yield lost 20.50 basis points, and in the last 12 months, it increased 58.70 basis points."
-    },
-    {
-      "id": "4931381",
-      "time": "2026-06-12 08:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報88.88美元/桶。"
-    },
-    {
-      "id": "mkt:019eb91f-84ff-7dd8-afcc-ae8cb3d05d50",
-      "time": "2026-06-12 07:58:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Trump says war with Iran 'over'; Iran has not confirmed】On the 11th (US ET), Trump said the US had \"ended\" the war with Iran, claiming both sides agreed a \"very strong memorandum of understanding\" to stop fighting and that Iran agreed never to possess nuclear weapons, adding the deal was \"95%\" complete. He cancelled planned further strikes earlier and posted on Truth Social suggesting an agreement had been reached but gave no terms. Iran has not confirmed any agreement."
-    },
-    {
-      "id": "4931380",
-      "time": "2026-06-12 07:57:00",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金：美元流動性擴張的引擎正在經歷一場“大切換”】中金指出，美元流動性擴張的引擎正在經歷一場“大切換”。隨著通脹從潛伏轉向顯現、主張縮表的新任美聯儲主席沃什上任，疫情後由美聯儲擴表與財政赤字共同驅動的外生貨幣時代或將步入尾聲。與此同時，由AI資本開支驅動的內生貨幣擴張已然成型——流動性的引擎正從政策端走向實體端。內生貨幣擴張一方面增強經濟韌性、加深通脹粘性，另一方面也推動資金從傳統的房地產與消費領域，加速流向回報預期更高的科技前沿。未來，資產表現或繼續分化：單純依賴外生流動性驅動的資產將承受壓力，而代表先進生產力方向的資產，則有望在內生貨幣的擴張中乘勢而起。"
-    },
-    {
-      "id": "4931379",
-      "time": "2026-06-12 07:55:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國以存在明顯欺詐為由 暫停向洛杉磯發放無家可歸者救助資金】美國住房和城市發展部宣佈，暫停向洛杉磯一家主要的無家可歸者服務機構撥付聯邦資金，稱該機構存在明顯的欺詐行為。目前洛杉磯有超 4 萬人居住在帳篷、車輛及其他臨時住所中。美國住房和城市發展部週四釋出公告表示，過去五年間，洛杉磯無家可歸者服務局累計獲得超 10 億美元公共資金，但當地依舊是全美受毒品問題影響最嚴重的無家可歸者危機重災區。 聯邦部門掌握相關證據，認定該機構財務管理、內控機制及利益衝突防範措施均存在漏洞，納稅人資金的使用安全難以保障。相關資金即刻停撥，等待住房和城市發展部監察長辦公室開展調查。"
-    },
-    {
-      "id": "te:markets:558494",
-      "time": "2026-06-12 07:54:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Gains on Iran Deal Prospects — Silver held above $67 an ounce on Friday after rebounding more than 6% in the previous session, as growing optimism over an imminent peace deal between the US and Iran eased concerns about persistent inflation and potential interest rate hikes. President Donald Trump said a deal with Iran could be reached as early as this weekend after postponing planned attacks and warning that the US could target the country's oil infrastructure. Iran's semi-official Fars news agency also reported that Tehran was likely to accept the agreement, although no final text has been approved. Meanwhile, the ECB raised interest rates on Thursday for the first time since 2023 and lifted its inflation forecasts for 2026 and 2027. Data also showed US producer prices climbed 6.5% year-on-year in May, highlighting the inflationary effects of the Middle East energy shock and reinforcing expectations of a Federal Reserve rate increase this year."
-    },
-    {
-      "id": "4931378",
-      "time": "2026-06-12 07:53:39",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【華創證券：美國CPI同比大機率見頂 美聯儲今年或維持利率不變】華創證券釋出研報稱，5月份美國CPI繼續上行突破4%，預計5月份大機率是本輪美國CPI同比的高點。對美聯儲而言，鑑於就業市場尚無過熱跡象、經濟K型分化並未收斂，通脹或見頂回落，只要中長期通脹預期沒有脫錨的風險，該行依然認為目前的加息門檻較高，傾向於美聯儲今年將維持利率不變。對美股而言，如果加息機率較低，就兜住了宏觀政策緊縮風險的下限，剩下的就是產業趨勢的自身演繹；對美債而言，短端利率主要受政策利率預期影響，目前2年期美債利率約4.1%，若不加息，則下行的勝率可能較大。"
-    },
-    {
-      "id": "te:markets:558493",
-      "time": "2026-06-12 07:53:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Gains on Iran Deal Prospects — Gold held above $4,200 an ounce on Friday after rebounding more than 3% in the previous session, as growing optimism over an imminent peace deal between the US and Iran eased concerns about persistent inflation and potential interest rate hikes. President Donald Trump said a deal with Iran could be reached as early as this weekend after postponing planned attacks and warning that the US could target the country's oil infrastructure. Iran's semi-official Fars news agency also reported that Tehran was likely to accept the agreement, although no final text has been approved. Meanwhile, the ECB raised interest rates on Thursday for the first time since 2023 and lifted its inflation forecasts for 2026 and 2027. Data also showed US producer prices climbed 6.5% year-on-year in May, highlighting the inflationary effects of the Middle East energy shock and reinforcing expectations of a Federal Reserve rate increase this year."
-    },
-    {
-      "id": "4931377",
-      "time": "2026-06-12 07:53:01",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：藥店行業借流量分流轉型重構 看好調改、併購帶來估值修復】中信建投釋出研報稱，24/25年實體藥店承壓，但銷售規模僅下降0.5%及0.6%，意味著該輪調整更多為流量再分配。26年是藥店轉型調改大年：線下聚焦便利、消費、專業屬性，最佳化產品結構、開展跨業經營，試點效果顯著；線上O2O倉店模型落地，與傳統藥店錯位競爭。目前藥店估值較低，主要由於市場擔心B2C競爭、比價、醫保飛檢等，該行認為該些因素對投資情緒影響多於實際經營影響。目前多家頭部藥店股息率超過4%，中長期利潤CAGR有望維持在10%以上，疊加調改、併購帶來估值修復。"
-    },
-    {
-      "id": "4931376",
-      "time": "2026-06-12 07:52:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣東自由貿易試驗區資料出境負面清單首單落地深圳】6月11日，中國（廣東）自由貿易試驗區資料出境負面清單首單落地儀式在前海五號樓舉行，前海企業——深圳徵信服務有限公司成為依託該制度實現資料便利合規出境的首家企業。現場，前海管理局同步釋出前海資料跨境線上綜合服務平臺，為企業提供“路徑研判、便捷申報、高效核驗”三大核心功能，推動資料跨境便利化措施直達企業、落地見效。今年5月15日，廣東省網際網路資訊辦公室、省商務廳、省政務服務和資料管理局聯合釋出了《中國（廣東）自由貿易試驗區資料出境管理清單（負面清單）（2025版）》（簡稱《負面清單》）。該清單是全國範圍內首個針對智慧裝備製造領域和個人徵信服務領域的負面清單，並明確資料處理者可自行研判並使用負面清單，事後在15個工作日內向所屬區域管理機構報告資料出境情況即可，以“先用後報”的形式減輕企業負擔。"
-    },
-    {
-      "id": "mkt:019eb919-613d-7dd8-afcc-a1d566d356f3",
-      "time": "2026-06-12 07:51:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said his presidency is among the most successful in history."
-    },
-    {
-      "id": "4931375",
-      "time": "2026-06-12 07:51:13",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：銀行理財權益轉型正當時，產品拐點已明晰】中信建投研報稱，利率中樞下移，理財子權益轉型勢在必行。理財子權益轉型可沿著三階段發展的路徑展開，築基-成型-成熟三個階段，逐步提高權益類資產佔比，同時構建起雙維驅動動態發展的權益類產品轉型體系和“核心-衛星”的權益類資產配置策略。2026年前5個月，理財產品拐點已經出現，業績基準企穩回升、風險指數回升、產品期限溢價開始回升。預計這種趨勢將持續，2026年下半年在理財產品拐點確立後，理財子需加快權益轉型和多資產多策略產品轉型。預計2026年下半年，理財規模增加2-3萬億達到37-38萬億，公募基金和權益類資產（含股票）佔比將回升，平均的業績基準有望繼續回升，混合類佔比也將提高。"
-    },
-    {
-      "id": "4931374",
-      "time": "2026-06-12 07:49:26",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：算力與模型需求有望由訓練側進一步擴散至高強度推理側】華泰證券指出，Anthropic於6月9日釋出Claude Fable 5，核心亮點主要體現在：①智慧水平顯著提升，Fable 5目前已位列Artificial Analysis智慧指數榜首；②Agent能力持續強化，Fable 5在長時、多步及複雜任務中的可交付性明顯提升；③視覺識別與持久記憶能力增強。出於安全考量，Fable 5針對網路安全、生物化學、模型蒸餾場景設定了護欄，相關請求可能觸發模型回退至Opus 4.8。華泰證券認為，Fable 5有望進一步拓寬長程Agent的前沿能力，推動辦公Agent滲透，並加速其在B端高價值專案場景中的落地，最終向國內市場傳導。但短期看，安全攔截下的高頻回退，或對泛C端使用者體驗形成一定影響。隨著複雜Coding、辦公Agent與多模態任務商業化提速，算力與模型需求有望由訓練側進一步擴散至高強度推理側。"
-    },
-    {
-      "id": "4931373",
-      "time": "2026-06-12 07:48:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【有中國旅客赴墨西哥觀賽遭遇持槍搶劫，中使館再發安全提醒】當地時間6月10日深夜，墨西哥城國際機場附近道路發生我來墨觀賽旅客遭遇持槍搶劫的惡性事件。獲悉情況後，我館第一時間向墨有關部門表達關切，要求全力破案，並採取切實措施保障在墨中國公民的人身安全與合法權益。中國駐墨西哥使領館再次提醒在墨中國公民：一、夜間出行進一步提高安全意識。切勿露富；請勿隨身攜帶大量現金、首飾等貴重物品；在公共場合避免暴露大量現金。視情購買旅行保險、個人貴重物品保險。二、妥善保管個人證件，避免將其與現金、貴重物品集中存放，以免丟失、被盜影響後續行程。如不幸遭遇遺失證件，可參考《駐墨西哥使領館旅行溫馨提示——證件丟失篇》進行後續處理。三、如不幸遭遇盜搶、綁架、槍擊等極端事件，務必以人身安全為先，在確保安全後立即撥打 911 報警，並視情與駐墨使領館聯絡。駐墨西哥使領館再次提醒在墨中國公民務必提高安全防範意識，密切關注各類安全風險，切實做好自我防護，認真閱讀《駐墨西哥使領館旅行溫馨提示》系列提醒及中國駐墨使領館釋出的最新領事提醒。"
-    },
-    {
-      "id": "4931372",
-      "time": "2026-06-12 07:47:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "9月到期的基準10年期日本國債期貨早盤上漲0.34點。"
-    },
-    {
-      "id": "mkt:019eb914-9c05-7dd8-afcc-9de74e08f9eb",
-      "time": "2026-06-12 07:46:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Russia says it launched heavy assault north of Donetsk】The Russian Defence Ministry said on June 11 Russian forces have seized two populated localities in Donetsk and Kharkiv regions, launched an offensive in northern Donetsk and are conducting street fighting in Kostiantynivka, with full control of the city’s eastern sector. The Ukrainian General Staff said on June 11 that between June 10 and early June 11 Ukrainian forces struck multiple military, logistics and industrial targets inside Russia, including oil refineries, UAV production facilities and military command posts."
-    },
-    {
-      "id": "4931371",
-      "time": "2026-06-12 07:46:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱正在頓涅茨克北部發起強攻】俄羅斯國防部11日通報稱，俄軍控制了頓涅茨克和哈爾科夫地區的兩個居民點。通報稱，俄軍在頓涅茨克地區北部發起進攻，康斯坦丁諾夫卡市正在進行巷戰。俄軍已完全控制該市東部。烏克蘭武裝部隊總參謀部11日通報稱，烏軍於10日至11日凌晨，對俄羅斯境內多處軍事、後勤及工業設施發起打擊，打擊目標涵蓋煉油廠、俄方無人系統生產設施及軍事指揮所。（央視）"
-    },
-    {
-      "id": "4931370",
-      "time": "2026-06-12 07:46:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：關注半導體前驅體量價齊升大趨勢】中信建投研報稱，前驅體產品受益於下游產能擴產大週期，業績高增長確定性強。下游晶圓廠如海力士規劃未來5年晶圓廠產能翻倍，長鑫亦有到2030年產能接近翻倍的擴產計劃。基於前驅體產品在製造過程中角色的關鍵性以及後續整個晶片製造愈發微觀化/高階化的程序，中信建投認為行業頭部企業存在較高和下游議價的可能性以及產品品類迭代下價值量的躍遷。"
-    },
-    {
-      "id": "4931369",
-      "time": "2026-06-12 07:46:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤上漲3.64%。"
-    },
-    {
-      "id": "mkt:019eb913-b993-7dd8-afcc-94e016cf1cb7",
-      "time": "2026-06-12 07:45:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【U.S. appeals court allows temporary enforcement of Trump’s 10% global tariffs; case may return to Supreme Court】A U.S. federal appeals court on Thursday extended a stay of a lower-court injunction and ruled the government may collect Trump’s 10% global tariffs while legal challenges proceed, saying temporary enforcement is \"amply justified.\" Affected importers include two small businesses and the state of Washington, which paid duties on purchases for the University of Washington. Trump imposed the duties in February under Section 122 of the Trade Act of 1974 after the Supreme Court struck down his earlier IEEPA-based tariffs. In May, a split panel of the U.S. Court of International Trade found the Section 122 tariffs invalid, prompting a new appeal that is likely to return to the Supreme Court."
-    },
-    {
-      "id": "4931368",
-      "time": "2026-06-12 07:43:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國授權杜克能源部分機組滿負荷執行】美國能源部在一份郵件宣告中表示，受高溫天氣影響，為防範南北卡羅來納州出現停電事故，該部門已釋出緊急指令。該指令授權杜克能源卡羅來納分公司與杜克能源普羅格雷斯分公司，將其供電區域內指定發電機組提升至最大出力執行。美國能源部稱，受區域內負荷預測偏高、氣溫驟升影響，此項指令可降低非必要停電風險。本指令於美國東部時間6月11日16時生效，6月12日22時到期。"
-    },
-    {
-      "id": "4931367",
-      "time": "2026-06-12 07:43:30",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：低利率時代央企金融業務轉型】中信建投研報稱，低利率環境下，傳統依賴存貸利差的金融盈利模式面臨根本性挑戰，央企金融板塊亟需從\"規模擴張\"轉向\"價值創造\"，路徑有三：構建輕重均衡的綜合收入結構、以客戶為中心重構全生命週期解決方案、全面推進數字化轉型。中油資本依託石油集團全牌照佈局，走“產融結合、以融促產”道路。電投產融則選擇逆向操作——置出金融、置入核電，轉型為第三大核電運營平臺。產投協同方面，中國移動\"彩虹橋\"模式透過投前投中投後三同步機制和六大協同模式，為大企業產投融合提供了可複製範本。整體而言，央企金融業務轉型正從被動應對利率下行，走向主動的戰略性進退取捨——低估值金控平臺的防禦價值與產融協同增量值得關注。"
-    },
-    {
-      "id": "4931366",
-      "time": "2026-06-12 07:40:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【前四月工業技改投資增長近五成 深圳工業投資持續加碼推動產業升級】裝置更新和技術改造，是擴大工業投資的重要路徑，也是推動製造業高階化、智慧化、綠色化發展的重要抓手。作為全國“工業第一城”，深圳工業投資的佔比從2020年的13.6%，到2025年的25.5%，提高了11.9個百分點。深圳持續加碼新基建領域技改升級，加快算力網、新一代通訊網布局，推進國家超級計算深圳中心、“鵬城雲腦”等重大科技基礎設施升級換代，以新基建技術改造拉動全產業鏈投資。一個個重大專案串聯起工業投資版圖，從高階晶片到智慧裝備，從綠色算力到新能源製造，專案建設的熱潮不斷釋放投資活力，推動工業技改投資持續走高。今年1-4月，深圳工業技改投資同比大幅增長47.2%。（深圳特區報）"
-    },
-    {
-      "id": "4931365",
-      "time": "2026-06-12 07:39:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國能源部就卡羅來納州電網發表宣告：授權杜克能源公司部分機組以最高負荷執行。"
-    },
-    {
-      "id": "4931364",
-      "time": "2026-06-12 07:35:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京入汛以來降水量達去年同期7倍】根據北京市氣象臺釋出的全市雨量氣候統計（20個國家級站平均），從今年1月1日至6月11日8時，全市累計降水量已達156毫米，比常年同期97.9毫米偏多59.3%，比去年同期111毫米偏多40.5%；入汛以來（6月1日至11日8時），全市累計降水量29.2毫米，比常年同期22.5毫米偏多29.8%，是去年同期4.1毫米的7.1倍。"
-    },
-    {
-      "id": "4931363",
-      "time": "2026-06-12 07:34:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍或進一步擴大在黎南部軍事行動】當地時間11日，以色列方面援引安全部門訊息人士的話稱，以色列軍隊目前已推進至距離黎巴嫩南部主要城市奈拜提耶僅幾公里的區域，目前正等待政府高層的最終決定，以確定是否將地面行動進一步擴大至黎巴嫩真主黨的核心據點。以軍強調，如果以軍繼續向黎北部縱深推進，將被定性為“進攻性行動”，不再屬於防禦活動的範疇。以色列國防軍11日還發表宣告稱，以軍部隊已經在黎南部利塔尼河的支流薩盧基河以北地區完成相關軍事行動，並取得該區域的“行動控制權”。"
-    },
-    {
-      "id": "4931362",
-      "time": "2026-06-12 07:33:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Alphabet旗下自動駕駛公司Waymo將推出30美元月費會員計劃】當地時間6月11日，Alphabet旗下自動駕駛公司Waymo宣佈，將推出僅限受邀使用者參與的Waymo Premier30美元月費會員計劃，會員可享受優先接送、每次行程10%的乘車返現（以乘車積分形式返還）、在新城市優先體驗Waymo服務以及每月最多五次免費取消行程等權益。"
-    },
-    {
-      "id": "te:markets:558491",
-      "time": "2026-06-12 07:32:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Falls as Trump Signals Potential Iran Deal — Brent dropped below $89 per barrel on Friday, hitting its lowest level in nearly two months after President Donald Trump said a peace agreement with Iran could be reached as early as this weekend. The remarks came after he delayed planned military strikes and warned that the US could target Iran's oil infrastructure. Iran's semi-official Fars news agency reported that Tehran was likely to accept the deal, although no final text has been approved by either side. Trump said the agreement would reopen shipping through the Strait of Hormuz and include Iranian commitments to forgo developing nuclear weapons. Still, traders remained cautious, as even a breakthrough would face significant obstacles before oil flows fully normalize, including clearing mines from Hormuz, restarting idled production fields, and repairing energy facilities damaged by drone and missile attacks."
     }
   ]
 }
