@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-19 19:34:04",
-  "count": 18070,
+  "updated": "2026-06-19 19:38:10",
+  "count": 18067,
   "items": [
+    {
+      "id": "mkt:019edfab-186c-7dd8-b094-199da34f5c5a",
+      "time": "2026-06-19 19:36:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran says vessels transiting the Strait of Hormuz must buy compulsory insurance; coverage is currently free but may be charged in future."
+    },
+    {
+      "id": "4945090",
+      "time": "2026-06-19 19:36:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行官員：西南季風預計降雨不足可能對農業活動和農村需求造成不利影響。"
+    },
+    {
+      "id": "4945089",
+      "time": "2026-06-19 19:36:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行貨幣政策委員會委員：全球經濟在危機面前的疲軟可能對印度的出口需求產生不利影響，特別是在海灣地區。"
+    },
+    {
+      "id": "4945088",
+      "time": "2026-06-19 19:35:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行貨幣政策委員會委員：如果通脹相關風險得到有利化解，貨幣政策委員會將有空間繼續支援經濟增長。"
+    },
+    {
+      "id": "4945087",
+      "time": "2026-06-19 19:35:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行官員：能源價格高企與持續的物流挑戰，繼續對國內增長前景構成風險。"
+    },
+    {
+      "id": "4945086",
+      "time": "2026-06-19 19:35:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貨幣政策委員會委員：西亞衝突是印度經濟近期前景面臨的一個重要衝擊。"
+    },
+    {
+      "id": "4945085",
+      "time": "2026-06-19 19:35:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貨幣政策委員會成員：長期政策取向仍將偏向支援增長。"
+    },
+    {
+      "id": "4945084",
+      "time": "2026-06-19 19:34:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面表示，僅允許經由拉拉克島（Larak）附近的航道透過霍爾木茲海峽。"
+    },
+    {
+      "id": "4945083",
+      "time": "2026-06-19 19:34:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面表示，穿越霍爾木茲海峽的船隻必須購買強制性保險，並稱目前霍爾木茲海峽相關保險是免費的，但未來可能會收取費用。"
+    },
+    {
+      "id": "4945082",
+      "time": "2026-06-19 19:33:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行副行長：應等待全球及天氣不確定性因素明朗化後再考慮政策轉向。"
+    },
+    {
+      "id": "mkt:019edfa8-b308-7dd8-b094-133c51a8ff39",
+      "time": "2026-06-19 19:33:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran said it will only permit passage through the Strait of Hormuz via the channel near Larak Island."
+    },
+    {
+      "id": "4945081",
+      "time": "2026-06-19 19:33:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行貨幣政策委員會委員：通脹預期不存在脫錨風險。"
+    },
     {
       "id": "4945080",
       "time": "2026-06-19 19:33:19",
@@ -166348,138 +166456,6 @@
         "Impact bullish"
       ],
       "text": "REUTERS SURVEY: UK average expected inflation for 2026 is 3.3% and GDP growth 1.0%, versus 3.2% and 0.8% in the May survey."
-    },
-    {
-      "id": "4932746",
-      "time": "2026-06-12 19:37:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "路透調查：2026年英國通脹平均將達3.3%，經濟增長平均為1.0%（5月調查預期分別為3.2%、0.8%）。"
-    },
-    {
-      "id": "4932745",
-      "time": "2026-06-12 19:37:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "路透調查：中位數顯示英國央行今年將維持基準利率在3.75%不變；25位經濟學家預計英國央行將至少加息25個基點，6位經濟學家預測將降息一次。"
-    },
-    {
-      "id": "4932744",
-      "time": "2026-06-12 19:37:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【越秀資本：控股子公司擬向關聯方借款40億元】越秀資本公告稱，公司控股子公司廣州資產擬向控股股東越秀集團借款不超20億元，越秀產業投資擬向越秀集團全資子公司廣州越企借款不超20億元，借款期限均不超1年，額度有效期36個月，借款利率均按不高於實際借款日1年期LPR上浮10%計算，無需擔保。該議案已透過董事會審議，尚需提交2026年第一次臨時股東會審議。"
-    },
-    {
-      "id": "te:markets:558730",
-      "time": "2026-06-12 19:37:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Extend Rebound — Futures tracking US equities were higher on Friday, extending the sharp rebound from the previous session on hopes of an imminent agreement between the US and Iran, in addition to signs of high speculative demand for SpaceX in its IPO. Contracts for the S&P 500, the Nasdaq 100, and Dow gained over 0.5%. President Trump stated the US was close to a deal that would gradually restore energy trade through the Strait of Hormuz, and Iran confirmed a deal was nearly finalized. Energy prices and bond yields pulled back, offering some relief to credit conditions after recent data pointed to accelerated consumer and producer prices. AI infrastructure stocks gained ahead of the SpaceX IPO, raising $75 billion for fresh expenditure on data centers and compute capacity. Reports indicated the stock was over four-fold oversubscribed. Nvidia and Amazon each added around 1%. Meanwhile, JPMorgan and Goldman Sachs were higher to support the financial sector."
-    },
-    {
-      "id": "4932743",
-      "time": "2026-06-12 19:37:04",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【野村：英國央行或在7月加息以防範第二輪通脹效應】野村研究分析師在一份報告中表示，英國央行可能會在7月份將利率上調25個基點，以防範第二輪通脹效應的風險。儘管如此，他們表示，隨著通脹風險消退，英國央行可能會在2027年恢復降息。倫敦證券交易所集團資料顯示，投資者反映了7月份上調英國基準利率機率為34%的預期。"
-    },
-    {
-      "id": "4932742",
-      "time": "2026-06-12 19:37:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦2027財年預算：將通脹預期設定為8.2%。"
-    },
-    {
-      "id": "4932741",
-      "time": "2026-06-12 19:36:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦2027財年預算：將國內生產總值增速目標定為4%。"
-    },
-    {
-      "id": "4932740",
-      "time": "2026-06-12 19:36:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【就業工作座談會和失業保險工作座談會在江西召開】人力資源社會保障部6月9日在江西省南昌市召開就業工作座談會和失業保險工作座談會。會議強調，要以實施就業規劃為牽引，加快構建就業友好型發展方式；以穩崗擴容提質行動為依託，推動構建大就業工作格局；以提質增效為目標，強化高品質就業服務供給；以健全創業支援引導機制為重點，激發創業帶動就業活力；以精準幫扶為支撐，全力促進重點群體就業。要以鞏固提升為導向，夯實失業保險制度執行基礎；以政策落實為關鍵，推進失業保險制度效能發揮；以規範統一為方向，提升失業保險經辦服務水平。要大力推進改革創新，堅定不移狠抓工作落實，充分發揮典型示範帶動作用，及時回應群眾關心關切，以實際成效更好為民造福，推動“十五五”就業和失業保險工作開好局、起好步。"
-    },
-    {
-      "id": "4932739",
-      "time": "2026-06-12 19:36:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【交通運輸部：實施農村客貨郵融合發展提質增效行動】6月12日，交通運輸部黨組書記、部長劉偉主持召開部務會，審議《交通運輸資料安全管理辦法》《鐵路建設工程安全生產監督管理辦法》《鐵路建設工程竣工驗收管理辦法》《農村客貨郵融合發展提質增效行動方案（2026-2028年）》，研究辦好交通為民實事有關工作。會議強調，要認真貫徹國務院常務會議精神，落實《實施就業優先戰略“十五五”規劃》，切實做好交通運輸行業穩就業各項工作。要堅持智慧化、綠色化、融合化方向，統籌推進交通運輸領域傳統產業改造提升、新興產業發展壯大、未來產業前瞻佈局，推動科技創新和產業創新深度融合。會議強調，要深入推進農村客貨郵融合發展，實施農村客貨郵融合發展提質增效行動，實現基礎設施、運營主體、運力資源、資訊資料、運營服務深度融合，構建集約高效可持續的農村運輸服務體系。"
-    },
-    {
-      "id": "4932738",
-      "time": "2026-06-12 19:35:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【分析師：英國央行應比歐洲央行對加息更加猶豫】Berenberg分析師在一份報告中表示，英國央行比歐洲各國央行更不願加息似乎是有道理的。他們表示，英國的勞動力市場比歐元區更疲軟，同時服務業不再像以前那樣顯著地推動通脹。Berenberg的分析師表示，與此同時，在能源衝擊前，利率更具限制性，且財政狀況依然更為緊縮。他們補充說，在今年開局強勁之後，隨著伊朗戰爭拖累經濟活動，該國目前面臨經濟活動低迷的局面。由於疫情以來季節性支出模式改變造成的“統計錯覺”，第一季度已經比看起來更弱。Berenberg的分析師表示：“我們預計夏季將出現停滯，第二季度和第三季度的季度GDP增長率為零。”"
-    },
-    {
-      "id": "4932737",
-      "time": "2026-06-12 19:35:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【極狐問道V9上市，定價19.48萬起】近日，極狐問道V9上市釋出會暨使用者盛典上，極狐首款高階旗艦MPV問道V9官宣上市，新車共推出4款版型，限時優惠價19.48萬元-24.98萬元。相較於預售版本，原1250Max+版直接升級為1250Ultra版，舒享配置全面拉滿，新增配置總價值達2.5萬元，售價同步下調1.71萬元，相當於為使用者直接回饋4.21萬元。（新浪科技）"
-    },
-    {
-      "id": "mkt:019ebb9d-4050-7dd8-afdd-72871f0217ae",
-      "time": "2026-06-12 19:35:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Zhao Leji holds talks with Singapore parliament speaker Xie Jianping】Zhao Leji met Singapore parliament speaker Xie Jianping in Beijing on the 12th. Zhao said China will deepen high‑level political mutual trust and firmly support each other's core interests and major concerns. The two sides agreed to align development plans and use bilateral coordination mechanisms to expand cooperation in AI, the digital economy, clean energy and technology innovation, and to pursue high‑quality joint Belt and Road projects. They also pledged closer multilateral coordination to defend the multilateral trading system and safeguard stable, open supply and production chains."
-    },
-    {
-      "id": "4932736",
-      "time": "2026-06-12 19:34:59",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【滙豐：美元未能從利率預期的有利轉變中獲益】滙豐分析師在一份報告中表示，美元的交易價格低於美國利率預期所暗示的水平。他們表示，隨著預期近期從預期降息轉向加息的可能性，該貨幣表現出的敏感性有限。他們表示，這可能反映了美國寬鬆的金融狀況以及對中東衝突得到解決的希望。他們表示，美元需要貨幣政策提供明確的觸發因素。如果美聯儲在週三的會議上未能支援加息押注，美元“可能會陷入困境”。DXY美元指數下跌0.1%，至99.727。"
-    },
-    {
-      "id": "4932735",
-      "time": "2026-06-12 19:34:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "Sharon AI：與英偉達簽署主雲服務協議，合同價值高達48.8億美元。"
-    },
-    {
-      "id": "4932734",
-      "time": "2026-06-12 19:34:16",
-      "tags": [
-        "國際",
-        "兩會"
-      ],
-      "text": "【趙樂際同新加坡國會議長謝健平會談】全國人大常委會委員長趙樂際12日在北京人民大會堂同新加坡國會議長謝健平舉行會談。趙樂際表示，去年中新兩國共同慶賀建交35週年，習近平主席同黃循財總理舉行重要會晤，為中新關係發展指明方向。中方願同新方一道，落實好兩國領導人重要共識，加強戰略溝通，增進團結協作，推動中新全方位高質量的前瞻性夥伴關係不斷取得新進展。（新華社）"
     }
   ]
 }
