@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-19 16:10:29",
-  "count": 18489,
+  "updated": "2026-06-19 16:14:34",
+  "count": 18471,
   "items": [
+    {
+      "id": "te:economy:560431",
+      "time": "2026-06-19 16:12:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "German Bund Yields Rebound as Oil Rises and ECB Signals Further Tightening — Germany’s 10-year Bund yield climbed to 2.95%, rebounding from three-month lows reached earlier this week, as higher oil prices and hawkish comments from European Central Bank officials weighed on bond markets. Crude prices moved higher after planned US-Iran peace talks in Switzerland were abruptly canceled, raising fresh doubts about the durability of the tentative agreement reached over the weekend to end the Middle East conflict. On the monetary policy front, ECB policymakers reinforced a firm stance on inflation. Governing Council member Pierre Wunsch suggested another rate hike could come as soon as next month if inflation pressures broaden, while ECB Chief Economist Philip Lane said the euro-area economy may be able to withstand higher rates. Money markets currently expect at least one additional ECB rate hike this year, following this month's 25-basis-point increase that lifted the deposit rate to 2.25%, marking the first rate increase since 2023."
+    },
+    {
+      "id": "4944899",
+      "time": "2026-06-19 16:11:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "西班牙銀行業協會在一份報告中表示，監管簡化可在歐洲釋放2萬億歐元的信貸投放規模。"
+    },
+    {
+      "id": "mkt:019edeef-9edd-7dd8-b091-19a65934fa4d",
+      "time": "2026-06-19 16:11:46",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Spanish Banking Association says regulatory simplification could free up about €2 trillion of lending capacity across Europe."
+    },
+    {
+      "id": "te:markets:560429",
+      "time": "2026-06-19 16:10:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Rises by 1.62% — Top commodity gainers are Palm Oil (1.62%) and Wool (0.51%)."
+    },
+    {
+      "id": "4944898",
+      "time": "2026-06-19 16:09:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜創始人唐傑隔空喊話馬斯克：中國模型達到Fable水平，不用等到2027年Q1】今日，有網友于X上提問稱：“中國大模型預計何時能夠達到Anthropic的Fable水平？智譜GLM-5.2無疑縮小了差距。”對此，特斯拉CEO馬斯克回覆稱：“可能在2027年一季度”。不過，智譜創始人唐傑很快回應稱，“不需要那麼久”。（新浪科技）"
+    },
     {
       "id": "4944897",
       "time": "2026-06-19 16:08:13",
@@ -169953,220 +170003,6 @@
         "國際"
       ],
       "text": "【伊朗外交部發言人：儘管存在矛盾，但協議主要部分已經達成】伊朗外交部發言人巴加埃表示美伊協議的主要部分已經完成，但美方搖擺不定的立場和行為正在阻礙協議的簽署。“文字方面，協議的主要部分幾乎已經定稿。問題在於，美國的矛盾立場一直導致這一程序中的動盪和中斷。”他強調，美國官員則多次轉變立場，提出不切實際的新要求，甚至在談判期間發動軍事攻擊。對此，巴加埃表示伊朗無論在外交還是在戰場上都不會屈服於對方的要求。“如果伊朗打算在壓力和威脅下放棄其原則，早在一年半前就會這麼做了。我們已經用行動證明了我們的立場堅定，且不會因美國的施壓而改變“他補充道。"
-    },
-    {
-      "id": "4932212",
-      "time": "2026-06-12 16:14:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委穆蘭：歐洲央行決心將通脹率拉回2%。"
-    },
-    {
-      "id": "mkt:019ebae5-9e31-7dd8-afd8-9850eb038c47",
-      "time": "2026-06-12 16:14:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Barclays: UK GDP drop unlikely to surprise Bank of England】Barclays analysts say UK April GDP contracted 0.1% MoM, matching the Bank of England's Q2 growth projection of 0.1%; the BoE meets next week. Services were the main drag, with sports and entertainment posting a negative contribution, partly linked to cancellations of Middle East sporting events. Markets now focus on May inflation and April labour market data due next week. Subsequent data would need to surprise materially to change the outcome of the June meeting, though they could marginally shift vote splits and the policy statement's wording."
-    },
-    {
-      "id": "4932211",
-      "time": "2026-06-12 16:14:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華鼎股份：向特定物件發行股票2.5億股】華鼎股份公告，向特定物件發行股票2.5億股，發行價格為2.83元/股，募集資金總額為7.08億元，發行費用為644.23萬元（不含增值稅），募集資金淨額為7.01億元。本次發行新增股份為有限售條件流通股，預計將於限售期屆滿後的次一交易日起在上海證券交易所上市流通交易。"
-    },
-    {
-      "id": "4932210",
-      "time": "2026-06-12 16:13:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長江證券：副董事長陳佳因個人原因離任】長江證券公告稱，2026年6月11日，公司董事會收到副董事長陳佳的辭職報告。因個人原因，陳佳申請辭去公司董事、副董事長等職務，原定任職到期時間為第十一屆董事會屆滿之日。其辭職報告自送達董事會時生效，且不會導致董事會成員少於法定最低人數，也不會對公司正常經營產生影響。陳佳未持有公司股份，辭職後不再擔任公司任何職務，已做好工作交接。公司將盡快增補董事並及時披露進展。"
-    },
-    {
-      "id": "4932209",
-      "time": "2026-06-12 16:13:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌4%，現報86.72美元/桶。"
-    },
-    {
-      "id": "mkt:019ebae5-1479-7dd8-afd8-9739d514664f",
-      "time": "2026-06-12 16:13:55",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Egypt and Qatar international sovereign bonds gained over one US cent; Saudi and UAE sovereign bonds also recovered on prospects of an Iran peace agreement."
-    },
-    {
-      "id": "4932208",
-      "time": "2026-06-12 16:13:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【法興銀行：油價需大幅下跌，印度股市多頭才會迴歸】法國興業銀行策略師在一份報告中表示，高企的油價可能需要大幅下跌，投資者才可能重新看多印度股票。他們表示，總體而言，印度資產更容易受到伊朗危機的影響。他們補充說，印度股市缺乏人工智慧敞口，而其經濟高度依賴化石燃料，這對印度盧比和政府債券是不利的。法國興業銀行將其對印度股票的市場配置從超配下調至中性。不過，策略師們補充說，印度股票中仍有一些亮點，例如銀行業，該行業可能會受益於近期旨在遏制盧比貶值和促進債券資金流入的政策措施。"
-    },
-    {
-      "id": "mkt:019ebae4-bf3a-7dd8-afd8-890a1de1da09",
-      "time": "2026-06-12 16:13:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Middle East envoy Zhai Jun backs Xi's four-point plan, pledges push for ceasefire and stability at Oslo forum】June 10-11, 2026, Norway — China's special envoy for Middle East affairs Zhai Jun attended the 23rd Oslo Forum and said the Gulf situation is unsettling international order. He endorsed President Xi's four-point proposal to preserve and promote Middle East peace and said China will continue to uphold the proposal and work with parties and the international community to help de-escalate, secure a lasting ceasefire and promote long-term stability by building trust and advancing common, comprehensive, cooperative and sustainable security."
-    },
-    {
-      "id": "mkt:019ebae4-b164-7dd8-afd8-86b090b60565",
-      "time": "2026-06-12 16:13:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German government officials said there has been recent diplomatic progress on Iran."
-    },
-    {
-      "id": "4932206",
-      "time": "2026-06-12 16:13:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國政府官員就伊朗問題表示：近期數日來，外交解決途徑已取得進展。"
-    },
-    {
-      "id": "4932205",
-      "time": "2026-06-12 16:13:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "標普全球市場情報表示，受伊朗和平協議有望達成的提振，為埃及主權債務投保違約保險的成本較週四收盤價下跌8個基點，至299個基點；巴林信用違約互換（CDS）價格下跌6個基點，至233個基點。"
-    },
-    {
-      "id": "mkt:019ebae4-7094-7dd8-afd8-7c541c7b8061",
-      "time": "2026-06-12 16:13:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Hang Seng Tech Index",
-        "China Enterprises (H-shares) Index"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) closed up 468.81 points (+1.93%) at 24,718.10 on Friday, June 12. The Hang Seng Tech Index closed up 49.46 points (+1.06%) at 4,705.20. The China Enterprises (H‑shares) Index rose 157.35 points (+1.91%) to 8,374.43, and the Red‑chip Index closed up 55.06 points (+1.29%) at 4,315.81."
-    },
-    {
-      "id": "4932204",
-      "time": "2026-06-12 16:13:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "埃及、卡達主權國債價格上漲逾1美分，沙特、阿聯酋國債因伊朗和平協議預期也應聲上揚。"
-    },
-    {
-      "id": "mkt:019ebae4-501e-7dd8-afd8-74b120d08c69",
-      "time": "2026-06-12 16:13:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI crude fell below $85/bbl for the first time since April 17, sliding 2.50% intraday after Iranian media published new details of an Iran-U.S. memorandum of understanding."
-    },
-    {
-      "id": "4932203",
-      "time": "2026-06-12 16:12:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行穆蘭：很明顯，能源衝擊將持續存在。"
-    },
-    {
-      "id": "4932201",
-      "time": "2026-06-12 16:12:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其銀行股上漲6.5%，創4月8日以來最大漲幅。"
-    },
-    {
-      "id": "mkt:019ebae3-6972-7dd8-afd8-68dd011bda07",
-      "time": "2026-06-12 16:12:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany's Economy Ministry said industrial production may continue to grow only modestly over the coming months."
-    },
-    {
-      "id": "4932200",
-      "time": "2026-06-12 16:11:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國經濟部：經濟復甦可能僅以小幅度進行，具體取決於中東衝突、能源和商品價格。由於能源價格高企，預計即使在夏季勞動力需求也不會出現反彈。"
-    },
-    {
-      "id": "4932198",
-      "time": "2026-06-12 16:11:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國經濟部：未來數月工業產出大機率仍將僅維持溫和增長。"
-    },
-    {
-      "id": "mkt:019ebae2-fa30-7dd8-afd8-673bc704a500",
-      "time": "2026-06-12 16:11:37",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany's Economy Ministry said elevated energy prices mean it does not expect a rebound in labour demand even during the summer."
-    },
-    {
-      "id": "4932197",
-      "time": "2026-06-12 16:11:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【分析師：根據伊媒披露的條款，美伊之間永遠不可能達成協議】據伊朗媒體報道，伊朗與美國的諒解備忘錄草案包括美國承諾解除制裁、從伊朗周邊撤軍、取消石油制裁並釋放伊朗被凍結資金，還包括美國解除海上封鎖以及重新開放霍爾木茲海峽。此後的最終談判將聚焦核問題和經濟議題，但伊朗的導彈計劃將被排除在討論之外。美國財經網站investinglive分析師Justin Low表示，如果這就是伊朗對與美國達成協議的持續預期，那麼現實地說，協議永遠不可能達成。首先，在伊朗兌現任何核承諾之前，美國根本不可能解除制裁。其次，特朗普已重申海上封鎖無論如何都會維持下去。如果在60天執行期內不受到強烈質疑的話，僅這兩點就足以讓這份諒解備忘錄破裂。且上述訊息來源也重申，這一版本的草案“仍需相關部門最終敲定”。"
-    },
-    {
-      "id": "4932196",
-      "time": "2026-06-12 16:11:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南方降雨集中期來了 部分地區累計雨量或破歷史同期極值】今年入汛以來，南方強降雨一輪接著一輪。本週中期，南方大部進入了短暫的降雨間歇期。不過，今天（6月12日）開始，新一輪大範圍強降雨來襲，南方又將進入降雨集中期，部分地區累計雨量可能突破歷史同期極值。（央視新聞）"
-    },
-    {
-      "id": "4932194",
-      "time": "2026-06-12 16:10:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚來法務部：針對NOMI侵權行為，已對相關主體提起民事訴訟、行政投訴等法律程式】6月12日，@蔚來法務部 發文稱，NOMI是蔚來在智慧座艙領域持續投入研發的原創成果，作為全球首款量產的車載人工智慧互動系統，其設計理念和互動體驗已獲得行業與使用者的廣泛認可。然而，近期我們發現市場上針對NOMI的抄襲仿冒現象愈演愈烈，部分廠商和賬號的侵權行為不僅嚴重損害蔚來公司合法權益，更對廣大使用者的行車安全造成不容忽視的風險。其中：1. 某些商家未經授權仿造NOMI物理形態，生產銷售外觀高度近似的電子產品，並透過網路渠道流入市場。此類產品未經過車規級驗證，在高溫環境、電磁干擾、車輛顛簸等複雜工況下易出現故障，存在電路短路、部件脫落等安全隱患，不僅無法為使用者提供正常的互動服務，極端情況下，甚至可能危及駕乘人員安全。例如在車輛碰撞或緊急制動時，這些未經驗證的配件可能因慣性脫離、碎裂飛散，如同官媒警示中的“車內子彈”，對駕乘人員造成二次傷害；若其安裝位置干擾安全氣囊正常展開，更將直接削弱車輛的安全保護效能。2. 部分商家將NOMI的核心設計元素進行照搬套用，複製其視覺表情、互動邏輯和介面佈局，用於其他車輛座艙內。這種抄襲行為不僅是對我司智慧財產權的公然侵害，更因其缺乏底層安全架構設計，在實際駕駛場景中容易出現誤觸發、響應滯後等問題，增加駕駛員認知負荷，影響行車安全。3. 個別自媒體和網路賬號蓄意編造不實對比內容，透過抹黑NOMI、設計虛假互動場景等方式誤導消費者，進一步助長了市場亂象。針對上述違法行為，我司已完成侵權證據的公證保全，並已對浙江某公司、廣州某公司、上海某公司等相關主體分別提起民事訴訟、行政投訴等法律程式。"
     }
   ]
 }
