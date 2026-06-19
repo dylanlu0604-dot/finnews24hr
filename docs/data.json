@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 02:54:16",
+  "updated": "2026-06-20 02:58:13",
   "count": 17754,
   "items": [
+    {
+      "id": "mkt:019ee13f-02d0-7dd8-b09a-83820ac48f79",
+      "time": "2026-06-20 02:57:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said of Biden that they once had someone who couldn't even climb a short flight of stairs, and that he avoids discussing it because any slight misstep would prompt criticism."
+    },
     {
       "id": "mkt:019ee13a-3d3e-7dd8-b09a-7d8cf099ace6",
       "time": "2026-06-20 02:52:30",
@@ -163511,14 +163519,6 @@
         "Impact bearish"
       ],
       "text": "The Information reports Meta Platforms (META.O) will tighten controls on employee token usage as AI costs surge; the company expects internal AI usage costs to reach tens of billions of dollars by 2026."
-    },
-    {
-      "id": "4933309",
-      "time": "2026-06-13 02:56:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "HSBC將中遠海控A股評級上調至買進，目標價18.50元人民幣；將中遠海能A股評級上調至持有，目標價17.20元人民幣。"
     }
   ]
 }
