@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-19 12:33:48",
-  "count": 18770,
+  "updated": "2026-06-19 12:37:46",
+  "count": 18767,
   "items": [
+    {
+      "id": "4944692",
+      "time": "2026-06-19 12:36:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌1%，報4027.49點。"
+    },
+    {
+      "id": "4944691",
+      "time": "2026-06-19 12:36:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4140美元/盎司，日內跌1.64%。"
+    },
+    {
+      "id": "te:markets:560333",
+      "time": "2026-06-19 12:34:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Bharti Airtel Stock Price Hits 4-week High — Bharti Airtel shares increased to 1894.00 INR, the highest since May 2026. Over the past 4 weeks, Bharti Airtel lost 0.7%, and in the last 12 months, it decreased 2.33%."
+    },
     {
       "id": "4944690",
       "time": "2026-06-19 12:33:13",
@@ -172734,54 +172764,6 @@
         "其他"
       ],
       "text": "【總投資64.5億元不鏽鋼專案落地寧德】6月11日，由中國鋼鐵工業協會指導、冶金工業資訊標準研究院主辦的“2026年第三屆不鏽鋼產業創新發展大會”在福安市召開。大會期間，重點產業專案簽約儀式舉行。計劃總投資達64.5億元的6個專案現場簽約，涵蓋鈦合金材料、不鏽鋼深加工、新型應用產品等領域。據悉，這批專案落地寧德後，將進一步完善區域產業鏈佈局，增強產業叢集發展優勢。標準化建設成為大會另一大亮點。現場，《不鏽鋼冷軋鋼板和鋼帶的尺寸、外形重量及允許偏差》《不鏽鋼熱軋鋼板和鋼帶的尺寸、外形重量及允許偏差》兩項國家標準正式啟動制定。"
-    },
-    {
-      "id": "4931808",
-      "time": "2026-06-12 12:37:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【打造零碳實踐“自貿樣本” 全球首張ISO50100認證落地廈門】6月10日，全球首個ISO50100認證專案成果釋出會在廈門自貿全球可持續發展創新中心舉行。釋出會上，BSI英國標準協會向廈門象嶼智慧供應鏈有限公司頒發全球首張ISO50100認證證書，標誌著廈門企業在對標國際標準、構建綠色競爭力方面邁出關鍵一步。“ISO50100是全球首個專門針對能源脫碳的國際標準。今天在廈門頒發全球首張證書，標誌著我們從傳統的‘節能降耗’模式，邁入了系統性、精準化、可量化、可審計的‘脫碳管理’新階段。”BSI（英國標準協會）大中華區董事總經理Dr.Tatiana Schmollack-Tarasova介紹說，該證書是實現“雙碳”目標的重要工具，也是推動《巴黎協定》目標從高層承諾走向日常運營和實質性減排的關鍵一步。（福建日報）"
-    },
-    {
-      "id": "mkt:019eba1e-926f-7dd8-afd1-aa1aaab2a9c8",
-      "time": "2026-06-12 12:37:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jinan residential-included plot sells at 24.52% premium】June 12 — A small residential-included parcel in Lixia District, Jinan, with planned gross floor area 26,242.10 sq m and floor area ratio 2.9, was listed with a starting price of 310 mln yuan (starting floor price 11,812 yuan/sq m). After 39 bidding rounds Greentown acquired the site for 386 mln yuan, implying a final floor price of 14,708 yuan/sq m and a 24.52% premium."
-    },
-    {
-      "id": "4931807",
-      "time": "2026-06-12 12:36:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【濟南1宗涉宅用地溢價24.52%成交】6月12日，濟南出讓1宗歷下區小體量涉宅用，規劃建築面積26242.10㎡，容積率2.9，起始價3.10億元，起始樓面價11812元/㎡。最終經過39輪競價，綠城以總價3.86億元競得該地塊，成交樓面價14708元/㎡，溢價率24.52%。"
-    },
-    {
-      "id": "4931806",
-      "time": "2026-06-12 12:36:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國將為帕查拉吉迪雅帕公主逝世哀悼15天。"
-    },
-    {
-      "id": "mkt:019eba1c-789f-7dd8-afd1-a42a2850b0b7",
-      "time": "2026-06-12 12:34:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Russian Defence Ministry said it shot down 231 drones overnight."
-    },
-    {
-      "id": "mkt:019eba1b-d7fe-7dd8-afd1-9a21b7c1a3b7",
-      "time": "2026-06-12 12:34:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wuhan Donghu High‑tech Zone residential plot sells at 20.96% premium】On June 12 Wuhan sold a small residential parcel in Donghu High‑tech Zone. Planned GFA 25,830 sqm, floor area ratio 2.65. Starting price 238.5 mln yuan (starting floor price 9,233 yuan/sqm). After 23 bidding rounds the lot was won by Wuhan Dingyuan Real Estate Development Co. for 288.5 mln yuan, implying a floor price of 11,169 yuan/sqm and a premium of 20.96%."
     }
   ]
 }
