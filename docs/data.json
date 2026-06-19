@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-20 01:21:04",
-  "count": 17802,
+  "updated": "2026-06-20 01:25:09",
+  "count": 17796,
   "items": [
+    {
+      "id": "mkt:019ee0e7-082a-7dd8-b099-bb80f18d4c9b",
+      "time": "2026-06-20 01:21:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Interfax reports Russia will impose an 8% export duty on diamonds effective Sept. 1."
+    },
+    {
+      "id": "mkt:019ee0e6-151f-7dd8-b099-b548d738d4da",
+      "time": "2026-06-20 01:20:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FHFA Director Pulte said Fannie Mae and Freddie Mac currently have strong liquidity."
+    },
     {
       "id": "4945379",
       "time": "2026-06-20 01:20:11",
@@ -163918,79 +163937,6 @@
         "Important"
       ],
       "text": "A senior U.S. government official said under the agreement the U.S. will obtain Iranian enriched nuclear material."
-    },
-    {
-      "id": "mkt:019ebcdd-79dc-7dd8-afe4-4be9f5bc1775",
-      "time": "2026-06-13 01:24:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Senior U.S. government official says some Iranian hardliners seek to derail the agreement."
-    },
-    {
-      "id": "4933263",
-      "time": "2026-06-13 01:24:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員： 需開展技術流程處理鈾相關事宜。"
-    },
-    {
-      "id": "mkt:019ebcdc-fc7f-7dd8-afe4-43c8759d3ecf",
-      "time": "2026-06-13 01:24:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $454 mln from six counterparties in its fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "mkt:019ebcdb-8a97-7dd8-afe4-3f8cb59b0d0f",
-      "time": "2026-06-13 01:22:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior U.S. government official said Israel will be satisfied once it sees the full terms of the agreement."
-    },
-    {
-      "id": "4933262",
-      "time": "2026-06-13 01:22:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：當以色列看到協議全部條款後，他們會同意該協議。"
-    },
-    {
-      "id": "4933261",
-      "time": "2026-06-13 01:22:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：特朗普昨天與內塔尼亞胡通了電話。"
-    },
-    {
-      "id": "te:markets:558787",
-      "time": "2026-06-13 01:22:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intel Stock Price Hits 4-week High — Intel shares increased to 126.65 USD, the highest since May 2026. Over the past 4 weeks, Intel gained 5.25%, and in the last 12 months, it increased 528.6%."
-    },
-    {
-      "id": "mkt:019ebcda-31c2-7dd8-afe4-337a4545435d",
-      "time": "2026-06-13 01:21:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior U.S. government official said there is serious mutual distrust between the two sides."
     }
   ]
 }
