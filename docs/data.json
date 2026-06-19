@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-19 14:49:07",
-  "count": 18664,
+  "updated": "2026-06-19 14:53:15",
+  "count": 18671,
   "items": [
+    {
+      "id": "mkt:019edea5-fd2f-7dd8-b08f-f86636d5e28b",
+      "time": "2026-06-19 14:51:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said any violation of Iran's rights will draw a stronger military response."
+    },
+    {
+      "id": "4944821",
+      "time": "2026-06-19 14:51:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊警告稱，任何侵犯伊朗權益的行為都將招致更強硬的軍事回應。"
+    },
+    {
+      "id": "mkt:019edea5-af02-7dd8-b08f-f75fa285c86a",
+      "time": "2026-06-19 14:51:00",
+      "tags": [
+        "MKT News",
+        "ROSN.L"
+      ],
+      "text": "Rosneft's CEO said the company believes share buybacks are unlikely to materially affect its market capitalization in the current risk environment."
+    },
+    {
+      "id": "4944820",
+      "time": "2026-06-19 14:50:53",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【受美國加息押注提振，美元觸及一年高位】受美聯儲今年可能加息的預期支撐，美元兌一籃子貨幣升至一年高位。美聯儲週三如預期維持利率不變，但其最新預測表明年底前可能會加息。美聯儲新任主席凱文·沃什也強調，決策者致力於將通脹率降回2%的目標。德國商業銀行的Volkmar Baur在一份報告中表示，由於美伊臨時和平協議導致的近期油價下跌降低了對大多數貨幣的利率預期，但這不適用於美聯儲。他表示，對AI的投資繼續推動美國經濟增長。DXY美元指數升至101.127的高點。"
+    },
+    {
+      "id": "mkt:019edea5-8d6a-7dd8-b08f-ed0427982f5b",
+      "time": "2026-06-19 14:50:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Rosneft CEO said the company is exporting almost no petroleum products and is prioritizing supply to Russian domestic consumers."
+    },
+    {
+      "id": "mkt:019edea5-75fa-7dd8-b08f-e1a11bb0cccb",
+      "time": "2026-06-19 14:50:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Rosneft CEO said Russia's fuel market remains challenging, but all Rosneft service stations will continue normal operations."
+    },
+    {
+      "id": "4944819",
+      "time": "2026-06-19 14:50:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄新社援引俄羅斯石油公司（Rosneft）執行長言論稱，俄石油認為，在當前風險環境下，股票回購不太可能對其市值產生重大影響。"
+    },
+    {
+      "id": "4944818",
+      "time": "2026-06-19 14:50:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄新社援引俄羅斯石油公司（Rosneft）執行長表態稱：俄羅斯燃料市場形勢並不輕鬆，但俄石油旗下所有加油站將繼續穩定運營。"
+    },
+    {
+      "id": "mkt:019edea5-4aa1-7dd8-b08f-deea695139d2",
+      "time": "2026-06-19 14:50:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The CEO of a Russian oil firm said the company is working to raise oil production, that the OPEC+ agreement permits increases, and that all additional output will be sold."
+    },
+    {
+      "id": "4944817",
+      "time": "2026-06-19 14:50:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄新社援引俄羅斯石油公司CEO表態：俄石油幾乎不出口成品油，優先保障俄羅斯消費者供應。"
+    },
+    {
+      "id": "4944816",
+      "time": "2026-06-19 14:50:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄新社援引俄羅斯石油公司（Rosneft）執行長表態：俄石油正努力提高原油產量，OPEC+協議允許此舉，所有增產的原油都將售出。"
+    },
+    {
+      "id": "te:markets:560374",
+      "time": "2026-06-19 14:48:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Extends Slide But Logs Modest Weekly Rise — The ASX 200 lost 82 points or 0.9% to end at 8,829 on Friday, marking the second straight session of losses and retreating further from a two-month peak. Sentiment remained downbeat after the U.S. Fed struck a hawkish tone in its policy meeting earlier this week, raising prospects of higher U.S. interest rates later this year. Meanwhile, doubts grew over upcoming U.S.–Iran peace talks as Tehran seeks more signs of implementation of a recently signed memorandum of understanding with Washington. Non-energy minerals, commercial services, consumer durables, and industrials were among top losers. BHP Group tumbled 5.1% after flagging cost overruns at its Jansen Stage 2 potash project in Canada and booking a hefty impairment charge. Other steep laggards included Evolution Mining (-5.1%), PLS Group (-4.7%), and REA Group (-3.1%). Despite Friday’s slide, the index still advanced 0.3% for the week, its second straight weekly rise, lifted by the Reserve Bank’s pause on rate hikes."
+    },
+    {
+      "id": "4944815",
+      "time": "2026-06-19 14:48:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿富汗塔利班訊息：阿富汗武裝部隊對巴基斯坦俾路支省和開伯爾-普赫圖赫瓦省的武裝分子藏身據點發動了打擊。"
+    },
     {
       "id": "4944814",
       "time": "2026-06-19 14:48:22",
@@ -29,6 +162,15 @@
         "DXY"
       ],
       "text": "French foreign minister Barrot said UN Security Council sanctions on Iran will not be lifted without France's approval."
+    },
+    {
+      "id": "em:jjsj_rbsj:202606193776837818",
+      "time": "2026-06-19 14:46:38",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本晶片製造裝置訂單額或將同比增長17.9%。"
     },
     {
       "id": "4944812",
@@ -171711,65 +171853,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超3.1萬億元，較上日此時放量6204億元。"
-    },
-    {
-      "id": "mkt:019eba9a-0df6-7dd8-afd5-803b5653ad51",
-      "time": "2026-06-12 14:51:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Citigroup sets mid-2027 target for the STOXX Europe 600 at 700 points."
-    },
-    {
-      "id": "4931983",
-      "time": "2026-06-12 14:51:34",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【亨通光電成交額達200億元，現跌逾4%】6月12日下午，亨通光電成交額達200億元，現跌4.39%。"
-    },
-    {
-      "id": "4931982",
-      "time": "2026-06-12 14:51:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【HarmonyOS 7正式釋出 餘承東稱鴻蒙邁向Agent時代】華為開發者大會2026舉行，華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東發表演講。餘承東表示，2019年，在萬物互聯時代，鴻蒙作業系統釋出。2023年，鴻蒙原生應用全面啟動，打造全新生態。進入2026年，鴻蒙智慧跨越式提升，邁向Agent時代。餘承東宣佈，HarmonyOS 7正式釋出。餘承東介紹稱，HarmonyOS 7是全場景智慧作業系統，鴻蒙智慧向Agent架構全面演進，HarmonyOS 7有三大升級，包括Agent親和系統架構、鴻蒙智慧體框架2.0和系統智慧體小藝。（新浪科技）"
-    },
-    {
-      "id": "4931981",
-      "time": "2026-06-12 14:51:23",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "花旗集團將斯托克600指數2027年年中目標點位設定為700點。"
-    },
-    {
-      "id": "4931980",
-      "time": "2026-06-12 14:51:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美被曝擬大幅縮減在歐洲機艦數量】據美國《紐約時報》今天（6月12日）援引兩名匿名的歐洲高階官員訊息報道稱，美國計劃撤走為北約歐洲防務提供的三分之一戰鬥機。據悉，美國6月初將這一決定透過一份書面檔案通報給其歐洲盟友，除了大幅削減可供北約在歐洲開展行動所用的飛機外，美國還計劃減少在歐洲的艦艇數量。據披露，美國計劃中的兵力削減包括：將F-16和F-15E戰鬥機的數量從約150架減少至100架；將海上偵察機從26架減至15架，並撤走此前部署在歐洲的所有8架空中加油機；重新調配一艘導彈潛艇和一艘航空母艦，以及隨航母執行任務的數十架戰機和若干艘驅逐艦；重新調配此前指派用於歐洲防務的兩個轟炸機編隊中的一個。（CCTV國際時訊）"
-    },
-    {
-      "id": "4931979",
-      "time": "2026-06-12 14:50:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【AI輔助一次能篩查70多種疾病】央視財經記者在走訪時發現，從心內科智慧問診，到放射科一掃多查，再到手術室AI導航，AI輔助系統已經在上海多家醫院推廣應用。同一家醫院的放射科，一張CT不再只看一個問題。藉助AI系統，醫生點選一次，就能同步篩查70多種疾病，自動生成報告，還能與歷史影像逐層比對。手術刀差一毫米，可能就是兩種結果。上海交通大學醫學院附屬瑞金醫院肝外科引入AI導航後，血管走向、腫瘤位置三維呈現，原本靠經驗臨場判斷的關鍵步驟，如今在開刀前就已規劃完成。（央視財經）"
-    },
-    {
-      "id": "4931978",
-      "time": "2026-06-12 14:49:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為公佈鴻圖計劃，加快開源鴻蒙生態規模化發展】華為開發者大會2026上，華為終端BG董事長餘承東釋出了鴻圖計劃，從技術貢獻者走向全域使能者，支援20+行業、200+類晶片、1200+類裝置使用開源鴻蒙。"
     }
   ]
 }
