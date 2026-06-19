@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-20 00:00:49",
-  "count": 17865,
+  "updated": "2026-06-20 00:05:02",
+  "count": 17866,
   "items": [
+    {
+      "id": "4945352",
+      "time": "2026-06-20 00:03:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員：美國情報部門警告，以色列或將破壞美伊和平協議】據華盛頓郵報援引多名美國現任及前官員訊息，美國多家情報機構已向特朗普政府發出預警：以色列總理內塔尼亞胡或將採取行動，破壞特朗普總統推動與伊朗達成長期和平協議的努力。眼下內塔尼亞胡面臨巨大國內政治壓力，不得不持續在黎巴嫩發動戰事。 一名看過這份情報報告的美國官員透露，美國最新情報報告得出結論：面對今年秋季的國內大選，內塔尼亞胡能否保住總理之位，關鍵在於向本國民眾證明，他不會從黎巴嫩撤軍，並且決意升級與真主黨的戰事。多名現任及前美國官員稱，這份美國情報報告還指出，以色列對特朗普這份和平諒解備忘錄的條款深感不滿，協議內容削弱了以色列持續對伊朗實施極限施壓的核心目標。 一名前美國官員表示，報告體現出以色列的看法：這份協議會限制以色列反擊真主黨、開展自衛行動的空間。"
+    },
+    {
+      "id": "te:markets:560525",
+      "time": "2026-06-20 00:02:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls Led by Miners — The FTSE 100 fell 0.4% on Friday as oil prices remained volatile amid mixed signals surrounding US-Iran negotiations and renewed tensions between Israel and Lebanon. Mining stocks were among the biggest drags, with Rio Tinto down more than 2%, Glencore falling 1.5%, Anglo American declining 2.5% and Antofagasta dropping 3.2%. Precious metal miners also came under pressure, with Fresnillo and Endeavour falling 5.4% and 3.5% respectively. Banks, Unilever and BAT also traded lower. In contrast, energy stocks gained, with Shell and BP rising around 1% and 2%. Pharmaceutical and defence stocks also advanced. Greater Manchester mayor Andy Burnham won the closely watched Makerfield by-election with 54.8% of the vote, strengthening his position as a potential challenger to Prime Minister Keir Starmer. UK data showed public sector borrowing reached £23.3 billion in May, above expectations, while retail sales recovered 1.2%, beating forecasts. The FTSE 100 finished the week down more than 1%."
+    },
+    {
+      "id": "mkt:019ee09d-5ae9-7dd8-b099-486da6cfbb5a",
+      "time": "2026-06-20 00:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Financial Action Task Force (FATF) placed Bosnia and Herzegovina and Iraq on its 'grey list' of jurisdictions subject to increased monitoring."
+    },
+    {
+      "id": "4945351",
+      "time": "2026-06-19 23:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "據華盛頓郵報：美國情報部門警告，以色列或破壞伊朗相關協議。"
+    },
+    {
+      "id": "te:markets:560524",
+      "time": "2026-06-19 23:59:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Dips as US-Iran Diplomatic Talks Stall — The CAC 40 fell 0.5% to close at 8,421 on Friday after scheduled US-Iran negotiations in Switzerland were called off, denting diplomatic hopes. The talks, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed after US Vice President JD Vance unexpectedly withdrew. Pressure from the Federal Reserve’s hawkish shift earlier in the week also continued to weigh on sentiment. Luxury stocks led losses as risk aversion increased, with LVMH down 1.2%, L'Oréal falling 1.9%, and Hermès shedding 2.3%. Industrial stocks also weakened, with Airbus down 1.3% and Safran losing 1.2%. In contrast, TotalEnergies rose 1% amid uncertainty over Middle East peace prospects and oil supply normalization. Meanwhile, Pierre Wunsch said the European Central Bank may raise interest rates again as soon as next month if inflation shows broader signs of spreading beyond energy."
+    },
+    {
+      "id": "4945350",
+      "time": "2026-06-19 23:59:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 7 月柴油期貨結算價報每噸 905 美元。"
+    },
     {
       "id": "te:markets:560523",
       "time": "2026-06-19 23:59:18",
@@ -164574,58 +164630,6 @@
         "國際"
       ],
       "text": "研究機構CFRA：首次覆蓋SpaceX(SPCX.O)，給予“賣出”評級；目標價115美元。"
-    },
-    {
-      "id": "mkt:019ebc94-52f1-7dd8-afe2-9920f2aa1a87",
-      "time": "2026-06-13 00:04:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bearish"
-      ],
-      "text": "Research firm CFRA initiates coverage of SpaceX (SPCX.O) with a Sell rating and $115 price target."
-    },
-    {
-      "id": "4933209",
-      "time": "2026-06-13 00:04:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我謹代表美國，就俄羅斯日向俄羅斯人民致以祝賀。 美國仍致力於推動俄烏衝突和平解決。我們期待持久和平能為俄羅斯人民迎來更加繁榮的未來，並推動兩國建立更具建設性的關係。"
-    },
-    {
-      "id": "4933208",
-      "time": "2026-06-13 00:02:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "SpaceX 上市後，美國航天類個股跌幅進一步擴大。Intuitive Machines下跌16%，Planet Labs下跌11.9%，Rocket Lab下跌12.5%，Satellogic下跌15.7%，Virgin Galactic下跌34.3%，Redwire下跌12.5%。"
-    },
-    {
-      "id": "te:markets:558770",
-      "time": "2026-06-13 00:01:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Rises Sharply — The DAX 40 finished about 1.8% firmer at 24,613 on Friday, the biggest daily gain since May 25, in line with European and US peers. Market sentiment was buoyed by expectations that a peace agreement between the US and Iran may finally be reached and by anticipation of the SpaceX IPO and its first trading. President Trump had canceled his planned attacks on Iran, scheduled for Thursday evening, and touted that a peace deal could be reached as soon as this weekend, pushing oil prices lower. Meanwhile, Iranian Foreign Minister Seyed Abbas Araghchi said on X that a US memorandum of understanding “has never been closer,” but said it is still too early for details as talks continue. Most sectors recorded gains, led by banks, techs, travel stocks and energy-sensitive industrials. Deutsche Bank led the way, surging 6.3%, with Commerzbank adding 2.9%. Heidelberg Materials (5.1%), Siemens Energy (4.1%) and Infineon Technologies (3.7%) followed closely."
-    },
-    {
-      "id": "mkt:019ebc90-ec56-7dd8-afe2-9601d30f11af",
-      "time": "2026-06-13 00:01:14",
-      "tags": [
-        "MKT News",
-        "SPCE.O",
-        "Impact bearish",
-        "RKLB.O",
-        "RDW.O"
-      ],
-      "text": "US space stocks fell further after SpaceX's IPO: Intuitive Machines down 16%, Planet Labs down 11.9%, Rocket Lab down 12.5%, Satellogic down 15.7%, Virgin Galactic down 34.3% and Redwire down 12.5%."
     }
   ]
 }
