@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-19 10:29:19",
-  "count": 18842,
+  "updated": "2026-06-19 10:33:27",
+  "count": 18846,
   "items": [
+    {
+      "id": "mkt:019eddb9-2a0a-7dd8-b08c-a1f734bd7668",
+      "time": "2026-06-19 10:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hezbollah said Israeli forces suffered a major setback in southern Lebanon."
+    },
+    {
+      "id": "4944596",
+      "time": "2026-06-19 10:32:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "冰見野良三：中性利率難以衡量。"
+    },
+    {
+      "id": "4944595",
+      "time": "2026-06-19 10:31:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤上漲0.4%，至71314.67點。東證指數早盤收盤下跌0.3%，至4055.07點。"
+    },
+    {
+      "id": "4944594",
+      "time": "2026-06-19 10:31:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "Jabil擴大在印度的產能。"
+    },
+    {
+      "id": "mkt:019eddb7-65e7-7dd8-b08c-984062b67c39",
+      "time": "2026-06-19 10:30:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Vice Minister of Finance Liao Min meets S&P Global Ratings' global head of sovereign ratings】June 16, 2026 — Vice Minister of Finance Liao Min met in Beijing with S&P Global Ratings' global head of sovereign ratings, Roberto Sifon-Arevalo. They exchanged views on China's macroeconomic resilience, China–US bilateral relations and potential spillovers from the Middle East."
+    },
+    {
+      "id": "te:markets:560292",
+      "time": "2026-06-19 10:30:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Kroger earnings in line with market expectations at 1.58 USD — Kroger (KR) released earnings per share at 1.58 USD, in line with market expectations."
+    },
+    {
+      "id": "te:markets:560291",
+      "time": "2026-06-19 10:30:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Ireland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Accenture earnings above expectations at 3.80 USD — Accenture (ACN) released earnings per share at 3.80 USD, compared to market expectations of 3.73 USD."
+    },
+    {
+      "id": "4944593",
+      "time": "2026-06-19 10:30:40",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【廖岷會見標普國際信用評級公司主權信用評級全球主管】2026年6月16日，財政部副部長廖岷在北京會見標普國際信用評級公司主權信用評級全球主管羅伯託·西豐—阿雷瓦羅，雙方就中國宏觀經濟韌性、中美雙邊關係、中東局勢影響等議題進行了交流。（財政部）"
+    },
+    {
+      "id": "4944592",
+      "time": "2026-06-19 10:30:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三：對通縮狀況的評估是政府的職責。"
+    },
+    {
+      "id": "mkt:019eddb6-7778-7dd8-b08c-94f63074e4fd",
+      "time": "2026-06-19 10:29:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretariat said it has assured the Supreme Leader and the Iranian people it will not relent in advancing future negotiations and will press on until the rights of the Iranian people are fully realized."
+    },
+    {
+      "id": "4944591",
+      "time": "2026-06-19 10:29:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美對德國藥品定價啟動301調查】美國貿易代表格里爾當地時間6月18日表示，美國已依據《1974年貿易法》第301條對德國啟動調查。美國貿易代表辦公室發宣告稱，調查將確定“德國對創新藥品持續壓低支付價格是否構成不合理或歧視性行為，並對美國商業造成負擔或限制”。格里爾稱：“特朗普總統已明確表示，不應讓美國患者不成比例地承擔全球藥物研發的主要成本。”據彭博社報道，這為美國未來對德國商品徵收報復性關稅鋪平道路。 德國駐華盛頓大使館未立即回應置評請求。 美國貿易代表辦公室將於6月25日開放書面評論提交視窗，其第301條款委員會將於9月舉行公開聽證會。 （CCTV國際時訊）"
+    },
     {
       "id": "4944590",
       "time": "2026-06-19 10:25:03",
@@ -173391,71 +173492,6 @@
         "其他"
       ],
       "text": "【1至5月全國鐵路完成固定資產投資2485億元 同比增長2.6%】今年1至5月，全國鐵路完成固定資產投資2485億元，同比增長2.6%，有效發揮了鐵路建設投資帶動作用，為全方位擴大內需、增強經濟社會發展內生動力提供了有力支撐。（中國鐵路）"
-    },
-    {
-      "id": "4931662",
-      "time": "2026-06-12 10:33:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【黃金概念持續走強，潮宏基漲停】黃金概念持續走強，潮宏基漲停，寶鼎科技、洛陽鉬業、豫光金鉛、江西銅業、招金黃金、盛屯礦業等跟漲。"
-    },
-    {
-      "id": "4931661",
-      "time": "2026-06-12 10:33:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量2987億元。"
-    },
-    {
-      "id": "4931660",
-      "time": "2026-06-12 10:32:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "佰維儲存成交額達100億元，現漲6.02%。"
-    },
-    {
-      "id": "mkt:019eb9ac-5e2f-7dd8-afcf-d531a7464525",
-      "time": "2026-06-12 10:32:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【DJI sues Insta360 alleging wholesale copying; Insta360 files U.S. counterclaims】DJI and its Osmo unit filed patent-infringement suits on June 10–11 in the U.S. District Court for the Eastern District of Texas against Insta360 and affiliates, alleging the Luna handheld gimbal camera infringes DJI patents. On June 12 Insta360 filed patent counterclaims in the U.S. against DJI covering five invention patents related to gimbal and panoramic cameras."
-    },
-    {
-      "id": "4931659",
-      "time": "2026-06-12 10:31:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數早盤收盤上漲3.5%，至66442.95點。東證指數早盤收盤上漲1.6%，至3893.47點。"
-    },
-    {
-      "id": "te:economy:558546",
-      "time": "2026-06-12 10:30:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Yield Falls Ahead of BOJ Meeting — Japan's 10-year government bond yield slipped to around 2.65% on Friday, hitting a one-week low as investors looked ahead to the Bank of Japan's policy meeting next week, where it is are widely expected to raise interest rates amid persistent inflation and a weak yen. The central bank is expected to lift its policy rate by 25 basis points to 1%, marking the first increase since December last year and the highest level since 1995. Meanwhile, BOJ Governor Kazuo Ueda has been hospitalized with a hepatic cyst infection and will miss the meeting. Japanese bond yields also followed US Treasury yields lower after President Donald Trump said a peace agreement with Iran could be signed as soon as this weekend in Europe. His comments sent oil prices sharply lower, easing market concerns about stubborn inflation and the need for furtherinterest rate hikes."
-    },
-    {
-      "id": "4931658",
-      "time": "2026-06-12 10:30:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛心人壽1.5億股股份被公開轉讓】據北京產權交易所網站的資訊顯示，愛心人壽保險股份有限公司1.5億股股份（佔總股本的6.47%）被公開轉讓，轉讓方為五方天雅集團有限公司（以下簡稱“五方天雅”），該筆股權轉讓底價約為2.5億元。據瞭解，五方天雅集團此次屬於“清倉式”轉讓，如果股權轉讓順利，將不再持有愛心人壽股權。"
     }
   ]
 }
