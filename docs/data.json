@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-19 10:25:13",
-  "count": 18845,
+  "updated": "2026-06-19 10:29:19",
+  "count": 18842,
   "items": [
+    {
+      "id": "4944590",
+      "time": "2026-06-19 10:25:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾克價跌到1265元 一夜大跌44元】查詢發現，金飾克價再跌破1300，其中老鳳祥足金首飾克價1265元，較前一日1309元降了44元；周大福、老廟黃金、周生生足金首飾分別較前一日降了40元、31元、37元。"
+    },
     {
       "id": "4944589",
       "time": "2026-06-19 10:24:26",
@@ -173448,51 +173456,6 @@
         "公司"
       ],
       "text": "【愛心人壽1.5億股股份被公開轉讓】據北京產權交易所網站的資訊顯示，愛心人壽保險股份有限公司1.5億股股份（佔總股本的6.47%）被公開轉讓，轉讓方為五方天雅集團有限公司（以下簡稱“五方天雅”），該筆股權轉讓底價約為2.5億元。據瞭解，五方天雅集團此次屬於“清倉式”轉讓，如果股權轉讓順利，將不再持有愛心人壽股權。"
-    },
-    {
-      "id": "mkt:019eb9a9-089c-7dd8-afcf-cd512f41bdd2",
-      "time": "2026-06-12 10:28:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "DXY",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Australia's S&P/ASX 200 index rose 2% to 8,803.9."
-    },
-    {
-      "id": "4931657",
-      "time": "2026-06-12 10:27:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.98%，成分股中，晶合整合漲14.14%，盛美上海漲11.61%，中控技術漲10.53%，生益電子漲9.42%。"
-    },
-    {
-      "id": "te:markets:558545",
-      "time": "2026-06-12 10:27:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Stocks Poised for First Weekly Gain in Eight — Indonesian shares climbed 91 points, or 1.6%, to 5,977 in Friday morning trade, marking gains for a fourth session after Wall Street rallied overnight on optimism that a U.S.–Iran deal could be reached as early as this weekend. Locally, officials signaled the 2027 fiscal strategy will prioritize growth through coordination across fiscal and monetary policy, the financial sector, and Danantara-backed investment. All major sectors advanced, led by basic materials, industrials, energy, and transport. Gains were tempered, however, by April retail sales data showing a 3.7% yoy decline, the first drop in a year, underscoring the drag from higher non-subsidized fuel prices on household spending. Standout movers included Darma Henwa (5.4%), Indofood Sukses Makmur (4.4%), Telkom Indonesia (3.1%), and Aneka Tambang (2.2%). For the week, the IDX Composite is on track for its first weekly rise in eight weeks, up around 6.6% so far, buoyed by bargain hunting after recently hitting a six-year low."
-    },
-    {
-      "id": "4931655",
-      "time": "2026-06-12 10:26:15",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "訊息人士稱， 眾擎機器人正與中金公司、中信合作安排香港IPO事宜。"
     }
   ]
 }
