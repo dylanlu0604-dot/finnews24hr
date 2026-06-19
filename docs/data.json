@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-19 12:29:51",
-  "count": 18780,
+  "updated": "2026-06-19 12:33:48",
+  "count": 18770,
   "items": [
+    {
+      "id": "4944690",
+      "time": "2026-06-19 12:33:13",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "【機構：菲律賓央行今年可能再加息兩次】三菱日聯銀行的Michael Wan在一份研究報告中表示，菲律賓央行今年可能會再將其政策利率上調兩次，到2026年底將該利率升至5.25%。該高階外匯分析師指出，該央行的宣告以及菲律賓央行行長在新聞釋出會上的言論當時略微偏緊縮。Wan表示，隨著通脹壓力依然強勁，該央行似乎準備採取貨幣行動，以引導CPI重回目標水平。三菱日聯銀行目前選擇維持其現有的基準預測，即美元兌菲律賓比索將在60.00-61.50比索區間內交易。"
+    },
+    {
+      "id": "te:markets:560332",
+      "time": "2026-06-19 12:32:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Falls After Five-Day Rally — India’s BSE Sensex fell about 0.9% to 76,684 at the open on Friday, retreating from a five-day advance as information technology stocks led losses after Accenture's latest results raised concerns about demand prospects for the sector. Shares of Tata Consultancy Services, Infosys, Tech Mahindra and HCL Tech fell between 5.1% and 8.1%. Other notable laggards across sectors included HDFC Bank (-2.1%), Meesho (-1.0%), Vedanta (-1.9%), Bata India (-4.5%), and Ola Electric (-2.6%). On the upside, MTAR (3.1%), IFCI (5.7%), Paras Defence (6.0%), and HFCL (5.0%) advanced. Despite Friday's decline, the benchmark indexes remained near recent highs after gaining in each of the previous five sessions. The index remained on track for a weekly gain of 1.5%. Market participants will be watching whether weakness in technology shares spills over into other sectors, with investors also assessing global growth signals and foreign fund flows for further direction."
+    },
+    {
+      "id": "4944687",
+      "time": "2026-06-19 12:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東數字人直播商家數量暴增5倍 AI成618增長核心引擎】2026年京東618是首個全場景、全產業融入AI的618，AI技術全面貫穿直播經營、智慧硬體、使用者服務、全域營銷等各大核心鏈路，實現規模化落地爆發。從數字人直播商家數量5倍增長、JoyInside接入裝置量環比11.11增長3倍，到JoyAI APP個性化服務使用者突破300萬、JoyMarketing智慧互動量超8億次。(央視財經)"
+    },
+    {
+      "id": "mkt:019ede24-e6c3-7dd8-b08d-8c3c5576ff2b",
+      "time": "2026-06-19 12:30:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said autonomous driving company Momenta plans to raise about $1 billion in a Hong Kong IPO."
+    },
     {
       "id": "4944686",
       "time": "2026-06-19 12:28:56",
@@ -172744,156 +172782,6 @@
         "MKT News"
       ],
       "text": "【Wuhan Donghu High‑tech Zone residential plot sells at 20.96% premium】On June 12 Wuhan sold a small residential parcel in Donghu High‑tech Zone. Planned GFA 25,830 sqm, floor area ratio 2.65. Starting price 238.5 mln yuan (starting floor price 9,233 yuan/sqm). After 23 bidding rounds the lot was won by Wuhan Dingyuan Real Estate Development Co. for 288.5 mln yuan, implying a floor price of 11,169 yuan/sqm and a premium of 20.96%."
-    },
-    {
-      "id": "4931805",
-      "time": "2026-06-12 12:33:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【武漢1宗宅地溢價超20%成交】6月12日，武漢出讓1宗東湖高新區小體量宅地，規劃建築面積25830㎡，容積率2.65，起始價2.385億元，起始樓面價9233元/㎡。該地塊經過23輪競價，最終由武漢鼎源房地產開發有限公司以總價2.885億元競得，成交樓面價11169元/㎡，溢價率20.96%。"
-    },
-    {
-      "id": "4931804",
-      "time": "2026-06-12 12:32:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部訊息稱，俄方昨夜擊落231架無人機。"
-    },
-    {
-      "id": "mkt:019eba1a-4346-7dd8-afd1-96d272b86af0",
-      "time": "2026-06-12 12:32:23",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan April equipment utilization index 102.9, down from prior 103.7."
-    },
-    {
-      "id": "mkt:019eba1a-1f15-7dd8-afd1-88dd0a85e69d",
-      "time": "2026-06-12 12:32:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Operating Ratio Index (Apr) | actual 102.9 | previous 103.7"
-    },
-    {
-      "id": "mkt:019eba19-fd13-7dd8-afd1-811228ee35ee",
-      "time": "2026-06-12 12:32:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan April final inventories MoM -0.3% (prior -0.2%)."
-    },
-    {
-      "id": "mkt:019eba19-e3e1-7dd8-afd1-7ef6777929fa",
-      "time": "2026-06-12 12:31:59",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Inventories Final (MoM) (Apr) | actual -0.3% | previous -0.2%"
-    },
-    {
-      "id": "4931803",
-      "time": "2026-06-12 12:31:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濟南長清產業發展投資控股集團有限公司董事長於磊被查】6月12日，據長清區紀委監委訊息：濟南長清產業發展投資控股集團有限公司黨支部書記、董事長於磊涉嫌嚴重違紀違法，目前正接受濟南市長清區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019eba18-ff4f-7dd8-afd1-770f424841f6",
-      "time": "2026-06-12 12:31:00",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan April machinery utilization index MoM -0.8%, prior -1.2%."
-    },
-    {
-      "id": "mkt:019eba18-e33a-7dd8-afd1-68f436cfe7cd",
-      "time": "2026-06-12 12:30:53",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Operating Ratio Index (MoM) (Apr) | actual -0.8% | previous -1.20%"
-    },
-    {
-      "id": "mkt:019eba18-d9d2-7dd8-afd1-601aba85f1dc",
-      "time": "2026-06-12 12:30:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan April industrial production (final) YoY 2.0% vs prior 2.3%."
-    },
-    {
-      "id": "mkt:019eba18-bb2a-7dd8-afd1-5966bd186edb",
-      "time": "2026-06-12 12:30:43",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Industrial Production Final (YoY) (Apr) | actual 2% | previous 2.30%"
-    },
-    {
-      "id": "mkt:019eba18-b8d6-7dd8-afd1-51d85e97cd32",
-      "time": "2026-06-12 12:30:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Japan April industrial production (final) MoM +0.5%, prior +0.8%."
-    },
-    {
-      "id": "mkt:019eba18-9a82-7dd8-afd1-4df183c443d9",
-      "time": "2026-06-12 12:30:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Industrial Production Final (MoM) (Apr) | actual 0.5% | previous 0.80%"
-    },
-    {
-      "id": "mkt:019eba18-63d6-7dd8-afd1-45c6cb74c153",
-      "time": "2026-06-12 12:30:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【U.S. 2x long ProShares product on Zhongji Xuchuang in fundraising; expected to list in two months】On the morning of June 12 Zhongji Xuchuang opened as much as 5% higher. Separately, ProShares has developed a 2x leveraged long product on Zhongji Xuchuang for the U.S. market; the product is currently fundraising and is expected to list in about two months."
     }
   ]
 }
