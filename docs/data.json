@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-19 09:56:38",
-  "count": 18886,
+  "updated": "2026-06-19 10:00:39",
+  "count": 18876,
   "items": [
+    {
+      "id": "te:markets:560277",
+      "time": "2026-06-19 09:59:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Retreat But Weekly Gain Still in Sight — Australian stocks fell 96 points, or 1.1%, to 8,815 by midday Friday, extending the prior session’s slide and moving further away from a two-month high, as softer commodity prices weighed heavily on miners. Meanwhile, U.S. equity futures were mixed after Wall Street’s S&P 500 and Nasdaq rallied overnight, lifted by tech strength and optimism over a possible U.S.-Iran deal, though hawkish Fed concerns lingered. BHP Group dropped 3.7%, and Rio Tinto lost 3% as iron ore prices weakened, with lower energy and freight costs eroding margins amid sluggish Chinese demand. PLS Group sank 5.3%, Mineral Resources fell 4.3%, and Xero slipped 2.5%. Three of the four big banks eased between 0.6% and 0.8%. Despite the day’s weakness, the market is still tracking a second consecutive weekly gain, up about 0.2% so far, supported by the Reserve Bank’s pause on rate hikes and easing geopolitical headwinds."
+    },
+    {
+      "id": "mkt:019edd9a-37d8-7dd8-b08c-4015e190fef7",
+      "time": "2026-06-19 09:58:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "BOJ Deputy Governor HIMINO said the bank will closely monitor the impact of rate hikes on corporate finances and wage-setting behavior."
+    },
+    {
+      "id": "te:markets:560275",
+      "time": "2026-06-19 09:58:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Head for Sharp Weekly Loss — European natural gas prices rose to around €41.5 per MWh but remained on track for a weekly loss of more than 11% amid easing Middle East supply risks. An interim peace agreement between the US and Iran, signed on Wednesday, has seen shipping through the Strait of Hormuz begin returning to normal, with several vessels reportedly transiting the waterway on Thursday. The reopening of the strait sent European gas prices to a two-month low, erasing most of the war-driven gains. Qatar, the world’s largest LNG exporter, is preparing to rapidly resume production at its Ras Laffan facilities and expects output at sites unaffected by Iranian strikes to return to full capacity within a month. The resumption of LNG exports from the Persian Gulf could support Europe's efforts to replenish relatively low gas storage levels ahead of next winter."
+    },
+    {
+      "id": "4944563",
+      "time": "2026-06-19 09:58:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "冰見野良三：將密切關注加息對企業財務狀況和工資制定行為的影響。"
+    },
+    {
+      "id": "4944562",
+      "time": "2026-06-19 09:56:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國汽研新能源公司獲得IECEE CB測試實驗室（CBTL）資質】近日，中汽院新能源科技有限公司（簡稱“新能源公司”）正式透過國際電工委員會電工產品合格測試與認證組織（IECEE）全面評估，獲得IECEE CB測試實驗室（CBTL）資質，成為國內少數具備該領域國際互認檢測能力的第三方機構之一。該資質已於2026年6月16日起正式生效，標誌著新能源公司在新能源汽車及核心零部件檢測領域的國際化水平邁入新階段。新能源公司是中國汽研的全資子公司。"
+    },
     {
       "id": "mkt:019edd97-c6fa-7dd8-b08c-3c28abfbc9ef",
       "time": "2026-06-19 09:56:12",
@@ -173746,145 +173794,6 @@
         "市場"
       ],
       "text": "【公安部：我國電詐案件發案已連續8個月同比下降】從公安部今天（12日）召開的新聞釋出會上獲悉，從2025年10月以來，我國電詐案件發案已連續8個月實現同比下降。從詐騙手法來看，當前最高發的詐騙型別有10類，分別是：刷單返利、虛假購物服務、虛假網路投資理財、冒充電商物流客服、貸款徵信、網路遊戲虛假交易、網路婚戀交友、冒充公檢法、冒充領導熟人和機票退改簽詐騙。這10類案件就佔了全部電詐案件的85%。其中，刷單返利詐騙發案最高，佔所有電詐案件的25%；虛假網路投資理財詐騙損失最高，約佔全部電詐案件損失的40%，損失百萬、千萬以上的案件大多是這種型別。另外，當前電信網路詐騙出現一些新特點和新手法：一是犯罪分子主要透過網路平臺尋找作案目標；二是犯罪分子大量使用小眾通聯軟體對被害人進行深度洗腦；三是犯罪分子使用專門詐騙App實施遠端盜刷；四是犯罪分子大量利用現金或者黃金等貴重物品獲取、轉移涉詐資金。"
-    },
-    {
-      "id": "4931603",
-      "time": "2026-06-12 10:00:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第48屆世界技能大賽將於9月22日至27日舉辦】國新辦舉行釋出會，人力資源社會保障部有關負責人介紹，第48屆世界技能大賽將於9月22日至27日在國家會展中心（上海）舉辦。作為全球最高層級的職業技能競賽，本屆設定64個比賽專案，覆蓋製造、交通、建築、資訊、創意、服務六大領域。目前，所有比賽場地規劃和佈局方案，均已透過世界技能組織稽核。"
-    },
-    {
-      "id": "mkt:019eb98e-ed63-7dd8-afcf-57d1abd1d569",
-      "time": "2026-06-12 10:00:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangzhou targets annual specialized-market turnover above 2 trillion yuan by 2030】Guangzhou released its Commerce Development 15th Five-Year Plan (public consultation draft), targeting annual transaction volume in specialized markets to exceed 2 trillion yuan by 2030 to consolidate its role as a core platform of an international trade center. The draft aims to establish 30 public-service platforms for specialized markets by 2030 and estimates direct and indirect employment effects of about 2.2 million across trade services, innovation and entrepreneurship, cultural-tourism consumption and logistics support."
-    },
-    {
-      "id": "mkt:019eb98e-e9ae-7dd8-afcf-4be94831e804",
-      "time": "2026-06-12 10:00:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Xinhua reported South Korean President Yoon Suk-yeol was sentenced to 30 years in prison in a first-instance trial over the \"drone incident\"."
-    },
-    {
-      "id": "4931602",
-      "time": "2026-06-12 10:00:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州：到2030年，全市專業市場年交易額突破2萬億元】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，到2030年，全市專業市場年交易額突破2萬億元，較基期年實現跨越式提升，鞏固國際商貿中心核心載體地位。到2030年，建設服務於專業市場的公共服務平臺30家；就業帶動效應持續放大，覆蓋商貿服務、創新創業、文旅消費、物流配套等多個領域，直接與間接帶動就業220萬人。"
-    },
-    {
-      "id": "4931601",
-      "time": "2026-06-12 09:59:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據韓聯社12日報道，韓國前總統尹錫悅因“製造平壤上空無人機入侵事件”一審被判處有期徒刑30年。（新華社）"
-    },
-    {
-      "id": "mkt:019eb98e-1fe8-7dd8-afcf-46eeb8933acf",
-      "time": "2026-06-12 09:59:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Coke futures contract 2609 spiked intraday, up about 4% to probe 2,087 yuan/tonne; trading value roughly CNY 6.365 bln. Open interest rose nearly 7,300 contracts on the day, with volume and position activity increasing in tandem."
-    },
-    {
-      "id": "4931600",
-      "time": "2026-06-12 09:58:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量1951億元。"
-    },
-    {
-      "id": "4931599",
-      "time": "2026-06-12 09:58:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦炭連續主力合約日內漲4%，現報2087.00元。"
-    },
-    {
-      "id": "mkt:019eb98d-7e7a-7dd8-afcf-3ec805310f04",
-      "time": "2026-06-12 09:58:38",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share maritime equipment sector rose on volatile trade; Zhongke Haixun gained over 7%, while Songfa, Jianglong Shipbuilding, Tianhai Defense and Hailanxin also advanced."
-    },
-    {
-      "id": "mkt:019eb98c-bfda-7dd8-afcf-353207634da4",
-      "time": "2026-06-12 09:57:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "【China Merchants Bank raises Zhaocaijin precious‑metals maintenance margin to 120% from June 16】China Merchants Bank said it will raise the margin maintenance ratio for margin calls on its Zhaocaijin precious‑metals business to 120%, effective at settlement on the close of Tuesday, June 16, 2026, citing heightened domestic and international precious‑metals price volatility. Affected contracts: Ag(T+D), Au(T+D), mAu(T+D), Au(T+N1), Au(T+N2), NYAuTN06 and NYAuTN12."
-    },
-    {
-      "id": "4931598",
-      "time": "2026-06-12 09:57:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "周大福港股漲幅超15%。"
-    },
-    {
-      "id": "mkt:019eb98c-459f-7dd8-afcf-2805c2af339e",
-      "time": "2026-06-12 09:57:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Guangzhou draft commerce plan prioritises intelligent connected vehicles, NEVs, AI, semiconductors and low‑altitude economy for major project deployment】Guangzhou’s public consultation draft of the Commerce Development 15th Five‑Year Plan calls for accelerated landing of major projects in intelligent connected vehicles and new‑energy vehicles (NEVs), ultrahigh‑definition video and new displays, green petrochemicals and new materials, smart equipment and robotics, artificial intelligence, semiconductors and integrated circuits, and the low‑altitude economy, and for cultivation of high‑tech, manufacturing 'single champion' and specialized‑and‑innovative leading intermediate‑goods firms. The draft directs faster development of intermediate‑goods trade bases and cultivation of well‑known brands and chain‑leading enterprises, and supports firms’ digital transformation using industrial internet, big data and AI to raise production efficiency and product quality and to upgrade intermediate‑goods trade toward higher‑end, digital and intelligent segments."
-    },
-    {
-      "id": "4931597",
-      "time": "2026-06-12 09:57:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州：全力推進智慧網聯與新能源汽車、人工智慧、半導體及積體電路、低空經濟等重大專案的落地】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，全力推進智慧網聯與新能源汽車、超高畫質影片與新型顯示、綠色石化與新材料、智慧裝備與機器人、人工智慧、半導體及積體電路、低空經濟等重大專案的落地，培育一批高新技術、製造業單項冠軍、專精特新等龍頭中間品企業。推動外貿轉型升級基地加快發展中間品貿易，培育一批知名品牌、“鏈主”企業。支援企業利用工業網際網路、大資料、人工智慧等技術進行數字化改造，提升生產效率和產品質量，推動中間品貿易向高階化、數智化方向躍升。"
-    },
-    {
-      "id": "4931596",
-      "time": "2026-06-12 09:57:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：受強降雨影響 烏江、贛江等將有明顯漲水過程】從水利部瞭解到，據預報，今天（6月12日）至14日，西南東部南部、江南大部、華南大部等地將有一次移動性強降雨過程。長江上游支流烏江，洞庭湖水系沅江中游、湘江上中游，鄱陽湖水系贛江、撫河、信江、饒河；珠江流域西江及支流鬱江、柳江、桂江、賀江，北江，東江，韓江；福建閩江、甌江；松花江流域松花江吉林段、牡丹江等河流將出現明顯漲水過程；暴雨區內福建閩江支流富屯溪、建溪及貴州烏江支流野紀河、江西信江支流瀘溪水等中小河流可能發生超警以上洪水。水利部要求相關省份水利部門和流域管理機構密切關注天氣變化，科學精準排程骨幹水庫等防洪工程，全力保障人民群眾生命財產安全。"
-    },
-    {
-      "id": "4931595",
-      "time": "2026-06-12 09:56:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【招商銀行調整“招財金”業務合約追保保證金比例】6月12日，招商銀行釋出關於調整“招財金”業務合約追保保證金比例的通告。鑑於近期國內外貴金屬價格波動加劇，為防範市場風險、保護投資者權益，該行對招財金業務進行相關調整，具體通告如下：2026年6月16日（星期二）收盤清算時起，Ag(T+D)、Au(T+D)、mAu(T+D)、Au(T+N1)、Au(T+N2)、NYAuTN06、NYAuTN12等合約的追保保證金比例調整為120%。請投資者做好風險防範工作，合理控制倉位，理性投資。"
     }
   ]
 }
