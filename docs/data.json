@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-19 23:21:38",
-  "count": 17884,
+  "updated": "2026-06-19 23:25:53",
+  "count": 17880,
   "items": [
+    {
+      "id": "4945331",
+      "time": "2026-06-19 23:24:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：伊朗外長與巴基斯坦外長舉行通話】伊朗外長阿拉格齊於本週五下午同巴基斯坦副總理兼外長通電話。伊朗外長在通話中對巴基斯坦在外交談判程序、推動達成諒解備忘錄方面付出的努力、採取的舉措與開展的工作表示讚賞。 阿拉格齊談及美國負有在黎巴嫩等所有戰線終止戰事的義務與責任，強調若美方違背諒解備忘錄載明的各項承諾，相關責任將完全由美方承擔，並警示此類行為會引發一系列後果與連鎖反應。 巴基斯坦外長對當前持續推進的外交程序表示歡迎，重申巴方支援談判持續推進，致力於取得積極、長效成果，並期待後續階段談判能夠順利落地。"
+    },
+    {
+      "id": "4945330",
+      "time": "2026-06-19 23:21:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "《以色列今日報》援引黎巴嫩新電視臺訊息：美國國務卿馬爾科・魯比奧預計將與黎巴嫩總統通電話，通話重點包括促成停火、解除真主黨武裝的方案、援助黎巴嫩軍隊計劃，以及為奧恩到訪華盛頓做相關籌備工作。"
+    },
     {
       "id": "mkt:019ee078-6dc9-7dd8-b098-b9eb0b56a8d5",
       "time": "2026-06-19 23:20:49",
@@ -164784,67 +164800,6 @@
         "市場"
       ],
       "text": "現貨白銀日內漲1%，現報67.98美元/盎司。"
-    },
-    {
-      "id": "4933182",
-      "time": "2026-06-12 23:24:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲4%，現報16298.00元。"
-    },
-    {
-      "id": "mkt:019ebc6e-d5d4-7dd8-afe1-e94899e1dabd",
-      "time": "2026-06-12 23:24:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Chevron (CVX.N) CEO said oil inventories could reach concerning levels by around July."
-    },
-    {
-      "id": "te:economy:558760",
-      "time": "2026-06-12 23:23:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Car Production",
-        "Importance 1"
-      ],
-      "text": "Brazil Car Production Hits Post-Pandemic High in May — Brazil's vehicle production rose 6.3% month-on-month to 253,600 units in May 2026, marking the strongest result for the month since 2019, before the pandemic. The increase was driven by a 21.5% jump in passenger car sales, supported in part by the strong performance of entry-level models under the Sustainable Car program. Light commercial vehicles, including pickups, vans, and cargo vans, also posted solid growth of 7.7%. In contrast, truck production fell 15.1%, while bus output declined 16.3%. Both segments are expected to recover as easier financing conditions under the Move Brasil 2 program become available."
-    },
-    {
-      "id": "4933181",
-      "time": "2026-06-12 23:23:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：伊朗人民將繼續捍衛國家的獨立、尊嚴和領土完整。"
-    },
-    {
-      "id": "4933180",
-      "time": "2026-06-12 23:22:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "雪佛龍CEO： 石油庫存或將在 7 月左右升至危險區間。"
-    },
-    {
-      "id": "mkt:019ebc6d-4cb0-7dd8-afe1-e63058f2ccda",
-      "time": "2026-06-12 23:22:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "The Wall Street Journal reports Goldman Sachs president said the SpaceX IPO demonstrates investor enthusiasm for artificial intelligence."
     }
   ]
 }
