@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-19 15:02:21",
-  "count": 18635,
+  "updated": "2026-06-19 15:06:28",
+  "count": 18632,
   "items": [
+    {
+      "id": "mkt:019edeb3-410d-7dd8-b090-21b8691a6176",
+      "time": "2026-06-19 15:05:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EQUINOR says it will increase natural gas supplies to Europe."
+    },
+    {
+      "id": "mkt:019edeb2-b71a-7dd8-b090-18405740db3e",
+      "time": "2026-06-19 15:05:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK 10-year government bond yield rose 5 bps intraday, breaching 4.80%."
+    },
+    {
+      "id": "mkt:019edeb2-9bdc-7dd8-b090-14c052835cfc",
+      "time": "2026-06-19 15:05:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "European indices opened June 19: Germany DAX 30 opened up 22.00 points (+0.09%) at 25,050.06; UK FTSE 100 opened down 14.98 points (-0.14%) at 10,384.72; France CAC 40 opened up 2.43 points (+0.03%) at 8,470.41; Euro STOXX 50 opened down 6.12 points (-0.10%) at 6,317.15; Spain IBEX 35 opened down 25.03 points (-0.13%) at 19,379.07; Italy FTSE MIB opened up 120.28 points (+0.23%) at 52,808.50."
+    },
+    {
+      "id": "4944835",
+      "time": "2026-06-19 15:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英鎊/美元抹去了0.3%的跌幅，基本持平於1.3205。"
+    },
+    {
+      "id": "4944834",
+      "time": "2026-06-19 15:03:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部副部長兼國際貿易談判副代表凌激會見沙特基礎工業公司執行長法基爾】6月18日，商務部副部長兼國際貿易談判副代表凌激會見沙特基礎工業公司執行長法基爾，雙方就企業在華經營發展，加強投資合作等議題進行交流。凌激表示，近年來中沙經貿合作持續健康發展，沙特阿美和基礎工業公司是積極的參與者和貢獻者。“十五五”時期，中國將加快產業結構、能源結構、交通運輸結構等調整最佳化，穩步推進綠色低碳轉型發展，希望沙特基礎工業公司發揮優勢，持續深耕中國市場。法基爾表示，中國經濟前景看好，沙特基礎工業公司將中國作為最重要的戰略市場之一，將牢牢把握中國高質量發展機遇，擴大在華投資規模，促進沙中合作取得更大進展，實現互利共贏。"
+    },
+    {
+      "id": "4944833",
+      "time": "2026-06-19 15:03:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026端午節票房破億】據貓眼專業版資料，截至6月19日15時2分，2026年端午檔首日（端午節）票房破億，《玩具總動員5》《我看見兩朵一樣的雲》《給阿嬤的情書》分列端午節票房榜前三位。"
+    },
+    {
+      "id": "4944832",
+      "time": "2026-06-19 15:03:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率日內上漲5個基點，突破4.80%；德國國債收益率日內變動為上漲3個基點。"
+    },
+    {
+      "id": "4944831",
+      "time": "2026-06-19 15:02:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯反壟斷監管機構在汽油價格上漲後，要求另一家加油站連鎖企業就價格上漲作出解釋。"
+    },
+    {
+      "id": "4944830",
+      "time": "2026-06-19 15:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：堪察加半島東海岸海域發生 6.0 級地震。"
+    },
+    {
+      "id": "4944829",
+      "time": "2026-06-19 15:01:44",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "維斯塔斯股價上漲4.4%，摩根大通將其列入積極催化劑觀察名單。"
+    },
+    {
+      "id": "te:markets:560380",
+      "time": "2026-06-19 15:01:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Edge Lower on Middle East Risks — The benchmark KOSPI edged down 0.13% to close at 9,052 on Friday, reversing earlier gains, as renewed Middle East uncertainty prompted investors to lock in profits following the market's recent rally to record highs. Sentiment weakened after planned talks between the United States and Iran were cancelled, raising doubts about the durability of the recent peace agreement and weighing on risk appetite across regional markets. Samsung Electronics slipped 1.38% after reaching fresh highs earlier in the session, while Doosan Enerbility (-2.41%), Hanwha Aerospace (-6.48%), and KB Financial Group (-6.48%) also declined. In contrast, SK Hynix remained resilient, advancing 3.35%, alongside SK Square (5.29%) and Hyundai Mobis (1.00%). Despite the retreat, foreign investors remained net buyers of local equities, suggesting underlying demand for South Korean stocks remained intact."
+    },
+    {
+      "id": "4944828",
+      "time": "2026-06-19 15:01:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威國家石油公司(EQUINOR)與其合作伙伴Petoro、殼牌(SHELL)、道達爾能源(TOTALENERGIES)及康菲石油(CONOCOPHILLIPS)將投資略超40億挪威克朗，用於一項新的海底開發專案，以提高北海Troll氣田的天然氣產量。"
+    },
+    {
+      "id": "4944827",
+      "time": "2026-06-19 15:01:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【阿聯酋批准15歲以下社媒使用禁令】6月18日，阿聯酋批准新規，將社交媒體使用的最低年齡定為15歲——15歲以下兒童將被禁止使用、註冊或操作個人社交媒體賬戶，被限制訪問這些平臺的全部功能。阿聯酋就此成為全球首個出臺此類限制措施的阿拉伯國家。阿聯酋政府媒體辦公室表示，這意味著15歲以下的孩子將無法釋出內容、發表評論、分享資訊或加入公共群組。 該規定適用於所有在阿聯酋運營的社交媒體平臺，並要求企業實施嚴格的年齡驗證措施，包括數字身份認證和人工智慧技術支援。僅透過自我申報年齡將不被視為有效驗證方式。平臺還必須封禁15歲以下兒童建立的賬戶，防止使用者繞過年齡驗證系統，並禁止利用兒童的個人資料進行定向廣告投放或行為分析。（CCTV國際時訊）"
+    },
     {
       "id": "4944826",
       "time": "2026-06-19 15:00:11",
@@ -171355,167 +171475,6 @@
         "國際"
       ],
       "text": "美國國家公路交通安全管理局（NHTSA）表示：福特汽車公司正在召回255404輛美國市場車輛，原因是車輛發動機行駛途中熄火會增加碰撞事故風險。"
-    },
-    {
-      "id": "mkt:019ebaa7-33a9-7dd8-afd6-4871a2a80e3f",
-      "time": "2026-06-12 15:06:20",
-      "tags": [
-        "MKT News",
-        "F.O",
-        "Impact bearish"
-      ],
-      "text": "U.S. National Highway Traffic Safety Administration (NHTSA) says Ford is recalling 255,404 vehicles in the U.S."
-    },
-    {
-      "id": "mkt:019ebaa7-027f-7dd8-afd6-4666292c216e",
-      "time": "2026-06-12 15:06:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB executive board member Kocher said rate hikes will help stabilize conditions and that markets should not expect inf to return to 2022-23 levels; the key is that price shocks do not cause market paralysis, and the ECB will act decisively to ensure medium-term inf falls to 2%."
-    },
-    {
-      "id": "4932017",
-      "time": "2026-06-12 15:05:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門亞丁省長官邸外發生槍擊事件致4人死亡】葉門南部港口城市亞丁地方政府12日發表宣告說，亞丁省省長阿卜杜勒拉赫曼官邸外11日晚發生槍擊事件，造成包括一名武裝襲擊者在內的4人死亡、多人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:019ebaa6-4c4f-7dd8-afd6-3e7f61d8e43c",
-      "time": "2026-06-12 15:05:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【China stocks close: Shanghai Composite up 1.12%; industrial metals, commercial aerospace hit multiple limit-ups】Shanghai Composite rose 1.12% at close, Shenzhen Composite gained 0.75% and the ChiNext Index was up 0.50% after opening the session higher; ChiNext initially climbed over 2% before retreating intraday. Commercial aerospace names posted multiple limit-ups, including Chenxi Aviation, AVIC Gaoke, AVIC Xifei, Aero Engine Technology and Zhongtian Rocket. Industrial metals saw a wave of limit-ups (about 10 stocks), led by Tongling Nonferrous and China Molybdenum. Broker dealers strengthened with Caida Securities and BOC Securities hitting daily limits. Outperforming sectors included insurance, nonferrous metals, gold, AI-driven pharmaceuticals, lithium, retail and paper; laggards included MLCC, helium, industrial gases, advanced packaging, CPO, photoresist and optical-fiber themes. Combined turnover on Shanghai and Shenzhen totaled 3.21 trillion yuan, about 662.9 billion yuan higher than the previous session. Approximately 3,900 stocks rose and 1,500 fell."
-    },
-    {
-      "id": "4932016",
-      "time": "2026-06-12 15:05:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【十餘隻寬基指數成分股調整 多股集合競價大幅異動】多股尾盤集合競價大幅異動，鼎通科技、山東高速、有研矽、卓勝微、聖邦股份、時代電氣等快速拉昇超2%，沐曦股份、摩爾執行緒、源傑科技、德明利、長川科技等多股快速跌超2%。訊息面上，上證50、上證180、上證380、科創50、滬深300、中證500、中證1000、中證A50、中證A100、中證A500等指數樣本調整，6月12日收市後生效，創業板指調整則將於6月15日正式生效。"
-    },
-    {
-      "id": "mkt:019ebaa5-6c6e-7dd8-afd6-37b62a64209a",
-      "time": "2026-06-12 15:04:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Nepal foreign minister Xishier to visit China June 14-17】Nepal's foreign minister Xishier will visit China from June 14-17 at the invitation of China's foreign minister Wang Yi."
-    },
-    {
-      "id": "4932015",
-      "time": "2026-06-12 15:04:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國國債收益率曲線全線上漲，10年期國債收益率下跌6個基點至4.84%。"
-    },
-    {
-      "id": "4932014",
-      "time": "2026-06-12 15:04:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "莫雷爾和普羅姆、道達爾能源以及在荷蘭上市的殼牌股價下跌2%-4%。"
-    },
-    {
-      "id": "mkt:019ebaa5-26db-7dd8-afd6-2e97ad203cdf",
-      "time": "2026-06-12 15:04:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Serbian President Vučić says he plans to resign】Serbian President Aleksandar Vučić told a Belgrade radio interview he plans to resign; a presidential election is expected within three to four months. He said he will notify the public and is considering potential successor candidates."
-    },
-    {
-      "id": "4932013",
-      "time": "2026-06-12 15:03:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塞爾維亞總統武契奇表示計劃辭職】塞爾維亞總統武契奇日前接受貝爾格萊德電臺採訪時說，他計劃辭去總統一職，總統選舉將在未來3至4個月進行。武契奇說，“我正在計劃辭職。我會通知大家，不會讓任何人感到意外”。他同時透露，他已經開始整理並打包存放在總統府裡的圖書。武契奇還說，當下正在考慮新的總統候選人。（新華社）"
-    },
-    {
-      "id": "4932012",
-      "time": "2026-06-12 15:03:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【尼泊爾外交部長希西爾將訪華】外交部發言人宣佈：應中共中央政治局委員、外交部長王毅邀請，尼泊爾外交部長希西爾將於6月14日至17日訪問中國。"
-    },
-    {
-      "id": "mkt:019ebaa4-68b0-7dd8-afd6-21e0d2acfc2b",
-      "time": "2026-06-12 15:03:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai-Shenzhen combined turnover RMB 3.215 tln; Zhongji Xuchuang tops stock turnover】On June 12, combined turnover on the Shanghai and Shenzhen exchanges was RMB 3.215 trillion, up RMB 662.93 billion from the prior session. Shanghai turnover was RMB 1.5374 trillion (prior RMB 1.1856 trillion) with volume 743 million lots (prior 569 million); Shenzhen turnover was RMB 1.6775 trillion (prior RMB 1.3665 trillion) with volume 792 million lots (prior 670 million). Zhongji Xuchuang led single-stock turnover at RMB 40.00 billion, followed by Xinyisheng RMB 33.73 billion, Hengtong Optic‑Electric RMB 21.53 billion, GigaDevice RMB 20.20 billion and Baiwei Storage RMB 18.61 billion."
-    },
-    {
-      "id": "mkt:019ebaa4-5c23-7dd8-afd6-1bb5f656b75c",
-      "time": "2026-06-12 15:03:14",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite Index closed up 44.5 pts (1.12%) at 4,031.51 on Friday, June 12; Shenzhen Composite rose 111.43 pts (0.75%) to 14,963.41; CSI 300 Index gained 54.91 pts (1.16%) to 4,777.32; ChiNext Index added 19.11 pts (0.50%) to 3,830.35; STAR 50 Index was up 0.78 pts (0.05%) at 1,663.22."
-    },
-    {
-      "id": "mkt:019ebaa4-0c11-7dd8-afd6-10afd9f41be9",
-      "time": "2026-06-12 15:02:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "CAC40"
-      ],
-      "text": "European equities opened higher on Friday, June 12: Germany’s DAX 30 up 372.79 pts (+1.54%) at 24,582.68; UK’s FTSE 100 up 71.37 pts (+0.69%) at 10,375.25; France’s CAC 40 up 110.87 pts (+1.35%) at 8,311.67; STOXX Europe 50 up 89.39 pts (+1.48%) at 6,146.35; Spain’s IBEX 35 up 307.60 pts (+1.68%) at 18,597.70; Italy’s FTSE MIB up 638.76 pts (+1.26%) at 51,143.50."
-    },
-    {
-      "id": "te:economy:558636",
-      "time": "2026-06-12 15:02:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "France Inflation Confirmed at 2.4% in May — France’s annual inflation rate rose to 2.4% in May 2026, picking up from 2.2% in April, confirming preliminary estimates. This marked the highest level since February 2024, driven mainly by higher energy prices (16.6% vs 14.3% in April), largely due to a sharp rebound in gas prices (11.3% vs -3.1%). Services inflation also rose to 2.1% from 1.8%, while food prices slowed slightly to 1.1% from 1.2%. Prices for manufactured goods fell by 0.6%, and tobacco inflation remained steady at 3.2%. On a monthly basis, the CPI increased by 0.1% in May, slowing sharply from 1.0% in April, as energy prices rose at a slower pace (0.6% vs 4.7%), with higher gas prices partly offset by a decline in petroleum products (-1.9% vs 8.2%). Food prices rose 0.3%, driven by fresh products, while manufactured goods edged up 0.1%, and services and tobacco were stable. Meanwhile, the EU-harmonised annual inflation rate rose to 2.8% from 2.5%, while monthly CPI increased by 0.1% following a 1.2% rise in April."
-    },
-    {
-      "id": "4932011",
-      "time": "2026-06-12 15:02:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：AI持續走強、消費供應鏈提前備貨發酵，第一季全球前十大晶圓代工營收季增3.7%】根據TrendForce集邦諮詢最新晶圓代工產業研究，除了AI HPC與相關周邊訂單仍如火如荼出貨外，第一季基於TV、PC/NB等供應鏈提前生產出貨、並提高周邊IC庫存水位措施，晶圓代工廠商陸續接獲客戶提前生產或加單訂單。儘管仍受智慧手機生產淡季影響，但淡季因素基本與供應鏈提前拉貨所相抵，整體營運表現淡季不淡，第一季全球前十大晶圓代工產值季增3.7%至479.5億美元，再創新高。"
     }
   ]
 }
