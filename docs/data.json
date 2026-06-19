@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-20 04:16:00",
-  "count": 17668,
+  "updated": "2026-06-20 04:20:00",
+  "count": 17663,
   "items": [
+    {
+      "id": "4945447",
+      "time": "2026-06-20 04:16:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美元指數本週漲約1%】週五（6月19日）紐約尾盤，ICE美元指數跌0.11%，報100.736點，本週累計上漲0.99%，北京時間6月18日02:00美聯儲釋出決議宣告和經濟預期概要（SEP）之前持續交投於99.500點附近，之後主要持續交投於100.5000點上方，6月19日13:00曾達到101.127點。日內交投區間為點。彭博美元指數跌0.06%，報1216.63點，本週累漲0.78%，交投區間為1202.91-1220.31點。"
+    },
     {
       "id": "4945446",
       "time": "2026-06-20 04:15:10",
@@ -162626,67 +162636,6 @@
         "國際"
       ],
       "text": "週五（6月12日），彭博電動汽車價格回報指數漲3.59%，報3785.58點，北京時間08:00高開高走，12:00之前開始持穩於3760點附近，美股開盤後略微擴大漲幅。本週累計上漲0.07%，整體呈現出W形走勢。成分股中，淡水河谷印尼公司收漲10.30%，ITM能源漲8.98%，“特斯拉勁敵”Rivian漲7.85%，理想汽車H股漲7.24%，美國雅寶漲7.14%表現第五，在下跌的六隻成分股中，普拉格動力跌2.47%，MobilEye跌2.51%。"
-    },
-    {
-      "id": "4933415",
-      "time": "2026-06-13 04:19:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心擬出臺新規，搭建藥品價格談判框架."
-    },
-    {
-      "id": "4933414",
-      "time": "2026-06-13 04:19:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "MSCI表示，SpaceX被納入MSCI標準及大盤股指數。"
-    },
-    {
-      "id": "mkt:019ebd7d-114b-7dd8-afe7-3808e05d74aa",
-      "time": "2026-06-13 04:19:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. bank deposits fell to $19.296 tln from $19.338 tln a week earlier."
-    },
-    {
-      "id": "4933413",
-      "time": "2026-06-13 04:18:45",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SpaceX上市首日上漲19% 市值破2萬億美元成美國第六大公司】SpaceX(SPCX.O)週五在納斯達克上市首日大漲，市值突破2萬億美元。此次上市交易比許多觀察人士預期的更為平穩。該股週五上午晚些時候開始交易，盤中大部分時間較週四定價上漲15%至30%，波動幅度並不大。收盤時股價報約161美元，上漲19%，使公司躋身美國第六大公司。最終結算價尚待確定。本次交易成交量超過5億股，成交額約800億美元。隨著Anthropic和OpenAI的大型上市計劃蓄勢待發，市場觀察人士曾擔心，在IPO長期相對匱乏之後，新股大量湧入可能拖累市場表現。但從大型機構到馬斯克的散戶粉絲，各類投資者當天收盤時情緒高漲。“SpaceX不僅在上市募資規模上打破紀錄，也把其他大公司遠遠甩在身後。當起始估值已經接近2萬億美元時，轉瞬之間再增加如此多市值令人印象深刻，”AJ Bell市場主管Dan Coatsworth表示。"
-    },
-    {
-      "id": "mkt:019ebd7c-4be8-7dd8-afe7-374e0d790d18",
-      "time": "2026-06-13 04:18:20",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【SpaceX shares jump 19% on Nasdaq debut; market value tops $2tn, becomes sixth-largest U.S. company】SpaceX (SPCX.O) rose about 19% on its Nasdaq debut Friday, closing near $161 and lifting its market value above $2.0 trillion to become the sixth-largest U.S. company. Intraday moves ran roughly +15% to +30% versus Thursday’s pricing; trading volume exceeded 500 million shares with turnover around $80 billion. Final settlement price remains to be determined. The listing was smoother than many expected, easing near-term concerns that a wave of large IPOs, including planned listings by Anthropic and OpenAI, could weigh on markets after a long lull in new offerings."
-    },
-    {
-      "id": "te:markets:558793",
-      "time": "2026-06-13 04:17:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls as Inflation Tops Forecasts — The Ibovespa fell 0.2% to close at 171,133 on Friday as hotter-than-expected inflation data weighed on sentiment. Brazil’s annual inflation rate accelerated to 4.72% in May from 4.39%, exceeding forecasts and the BCB’s upper target, reinforcing expectations of a more hawkish stance from the central bank. Abroad, investors remained focused on US-Iran negotiations aimed at ending the conflict. While US President Donald Trump said on Thursday that an agreement could be reached as early as this weekend, Iran stated that it had yet to make a final decision. Oil prices eased amid hopes for a deal, dragging Petrobras down 1.4%. Utilities also posted losses, with Auren falling 0.4% and Sabesp shedding 0.9%. On the upside, Embraer gained 2.2% following reports of aircraft purchases by the Greek government."
     }
   ]
 }
