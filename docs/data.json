@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-19 18:01:03",
-  "count": 18222,
+  "updated": "2026-06-19 18:05:01",
+  "count": 18215,
   "items": [
+    {
+      "id": "mkt:019edf56-2d77-7dd8-b092-dba62469cf40",
+      "time": "2026-06-19 18:03:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【IDF says it struck more than 80 HEZBOLLAH targets】The Israeli Defense Forces said on the 19th it struck more than 80 HEZBOLLAH targets overnight after repeated violations of the ceasefire, killing dozens of HEZBOLLAH fighters."
+    },
+    {
+      "id": "4944993",
+      "time": "2026-06-19 18:03:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列國防軍19日發表宣告稱，由於黎巴嫩真主黨屢次違反停火協議，以軍在過去一夜打擊了80多個黎真主黨目標，打死數十名真主黨成員。（新華社）"
+    },
+    {
+      "id": "te:markets:560458",
+      "time": "2026-06-19 18:02:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Hovers at a One-Year High — The dollar index traded around 100.8 on Friday, holding near one-year highs as prospects of higher interest rates supported the currency following a hawkish Fed Reserve signal. The Fed left rates unchanged as expected but noted growing support for tighter policy later this year. Around half of FOMC members now project at least one rate hike in 2026. New Fed Chair Kevin Warsh declined to provide guidance on the next policy move but emphasised that inflation has remained above the 2% target for several years, reaffirming the Fed’s commitment to restoring price stability. Markets are currently pricing in roughly a 50% chance of a 25bp rate hike in September. Geopolitical concerns also resurfaced after US-Iran talks scheduled for Friday in Geneva were cancelled. Reports also suggested thinner traffic through the Strait of Hormuz, contributing to firmer oil prices. The dollar gained about 1.1% over the week."
+    },
+    {
+      "id": "mkt:019edf53-d7c8-7dd8-b092-d2fd9b65b92d",
+      "time": "2026-06-19 18:01:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Letter to Grandma box office tops 1.8 bln yuan】Online platform data show 2026 year-to-date total box office, including presales, has exceeded 16.6 bln yuan. Letter to Grandma has grossed over 1.8 bln yuan since release and is currently the second-highest grossing film of 2026."
+    },
+    {
+      "id": "te:economy:560457",
+      "time": "2026-06-19 18:00:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mozambique",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Mozambique GDP Growth Subdued in Q1 — The economy of Mozambique expanded by just 0.1% year-on-year in Q1 2026, following an upwardly revised 5.1% growth in the previous three-month period. This marked the second consecutive quarter of growth, albeit weak, following the recession caused by the crisis that followed the general elections of October 2024. Economic activity was driven by the tertiary sector, which rose 3.5%, led by hotels and restaurants (+5.1%) and trade and repair services (+4.5%). Transport, communications and financial services also contributed, while the secondary sector grew 3.2%, supported by utilities, manufacturing and construction. Conversely, the primary sector declined by 4.8%, mainly dragged down by a sharp drop in mining (-21.6%)."
+    },
+    {
+      "id": "4944992",
+      "time": "2026-06-19 18:00:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：夥伴國宣佈向我國提供40億美元的新援助。我們帶著新的防禦能力返回家園。"
+    },
     {
       "id": "4944991",
       "time": "2026-06-19 17:59:25",
@@ -167603,117 +167661,6 @@
         "公司"
       ],
       "text": "【星網銳捷：擬回購登出313.93萬股】星網銳捷公告，根據公司《2022年限制性股票激勵計劃》規定，因2025年業績目標未完成，須回購2025年度對應的限制性股票313.93萬股。本次回購價格為7.41元/股，回購資金總額為2325.47萬元，資金來源為公司自有資金。回購完成後，將導致公司有限售條件股份減少313.93萬股。"
-    },
-    {
-      "id": "4932513",
-      "time": "2026-06-12 18:04:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華緯科技：擬以1000萬元至2000萬元回購公司股份】華緯科技公告，擬以1000萬元至2000萬元回購公司股份，回購價格不超過27元/股。"
-    },
-    {
-      "id": "mkt:019ebb4a-7d41-7dd8-afdb-cd36076b2807",
-      "time": "2026-06-12 18:04:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv/Ipsos poll: 51% of evangelicals say Trump's immigration policy is inconsistent with Christian values, 44% say it is consistent."
-    },
-    {
-      "id": "mkt:019ebb4a-551e-7dd8-afdb-c1663f2ea529",
-      "time": "2026-06-12 18:04:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Refinitiv/Ipsos poll found Trump had 52% support among evangelicals, down from 61% in August last year but above his 35% support among all Americans."
-    },
-    {
-      "id": "4932512",
-      "time": "2026-06-12 18:03:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST原尚：公司股票將於6月16日撤銷退市風險警示】*ST原尚公告，公司股票將於2026年6月16日撤銷退市風險警示。公司股票自2026年6月15日起停牌一天。撤銷後A股簡稱變更為原尚股份，證券程式碼603813，日漲跌幅限制由5%變為10%。"
-    },
-    {
-      "id": "4932511",
-      "time": "2026-06-12 18:03:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中恆集團：收到廣西證監局警示函】中恆集團公告，公司於2026年6月12日收到廣西證監局出具的警示函。因公司在2023年年報、2024年年報及2025年一季報、半年報、三季報中披露的財務資訊不準確，違反了《上市公司資訊披露管理辦法》相關規定，公司現任董事長楊金海及時任財務負責人戈輝未履行勤勉盡責義務。廣西證監局決定對公司及相關人員採取出具警示函的行政監管措施，並記入證券期貨市場誠信檔案。公司及相關人員將嚴格按照要求提交整改報告，提升資訊披露質量和規範運作水平。"
-    },
-    {
-      "id": "te:economy:558712",
-      "time": "2026-06-12 18:03:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10Y Bond Yield Hits 9-week Low — Canada 10 Year Government Bond Yield decreased to 3.39%, the lowest since April 2026. Over the past 4 weeks, Canada 10Y Bond Yield lost 18.30 basis points, and in the last 12 months, it increased 8.15 basis points."
-    },
-    {
-      "id": "4932510",
-      "time": "2026-06-12 18:02:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國銀行寧波市分行副行長葉新階接受審查調查】據中央紀委國家監委駐中國銀行紀檢監察組、天津市紀委監委訊息：中國銀行寧波市分行黨委委員、副行長葉新階涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國銀行紀檢監察組紀律審查和天津市監委監察調查。"
-    },
-    {
-      "id": "4932509",
-      "time": "2026-06-12 18:02:55",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "哈囉：“鈦媒體”在其網站等相關平臺釋出了涉哈囉的失實報道，已報警並向有關部門提交相關材料。"
-    },
-    {
-      "id": "4932508",
-      "time": "2026-06-12 18:02:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度盧比收漲0.7%，報1美元兌95.11盧比；前收盤報95.76。"
-    },
-    {
-      "id": "4932507",
-      "time": "2026-06-12 18:02:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北省資料和政務服務局黨組書記、局長侯貴松接受紀律審查和監察調查】據河北省紀委監委訊息：河北省資料和政務服務局黨組書記、局長侯貴松涉嫌嚴重違紀違法，主動投案，目前正接受河北省紀委監委紀律審查和監察調查。 (中央紀委國家監委網站)"
-    },
-    {
-      "id": "4932506",
-      "time": "2026-06-12 18:02:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【哈電集團與中國鋼研簽署戰略合作框架協議】6月11日，哈電集團與中國鋼研簽署戰略合作框架協議。哈電集團董事長、黨委書記黃偉與中國鋼研黨委書記、董事長高宏斌共同見證協議簽署，並舉行工作會談。黃偉表示，中國鋼研是哈電集團的重要合作伙伴，雙方多年來始終保持著緊密的合作關係。希望雙方以此次戰略合作框架協議簽署為新契機，充分發揮各自優勢，持續深化在科技創新、產業協同、數智化轉型及人才聯合培養等領域的全方位合作。"
-    },
-    {
-      "id": "4932505",
-      "time": "2026-06-12 18:01:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "塞爾維亞消費者價格可能同比上漲3.5%，預計+3.6%。"
-    },
-    {
-      "id": "4932504",
-      "time": "2026-06-12 18:01:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美行業協會：美國無法為烏克蘭和歐洲提供過冬天然氣援助】美國液化天然氣生產商協會執行會長查理·裡德爾表示，由於美國自身沒有足夠的液化氣儲備，美國無法彌補烏克蘭和歐洲短缺的液化氣。"
     }
   ]
 }
