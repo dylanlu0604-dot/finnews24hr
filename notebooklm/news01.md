@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 02:50:20_
-_本檔包含 3791 則快訊，約 658158 字_
+_更新時間：2026-06-20 03:50:11_
+_本檔包含 3797 則快訊，約 656642 字_
+
+---
+
+### 2026-06-20 03:49:16  #MKT News #Important #WTI #Impact bullish #Brent
+
+President Trump said about 700 vessels are transiting the Strait of Hormuz and warned Iran must reach an agreement within 60 days or the United States will take measures that will make them unhappy.
+
+---
+
+### 2026-06-20 03:49:04  #國際
+
+特朗普：伊朗必須在 60 天內達成協議，否則我們將採取令其難以接受的行動。
+
+---
+
+### 2026-06-20 03:47:43  #MKT News
+
+US President Trump said vessels in the Strait of Hormuz are transiting.
+
+---
+
+### 2026-06-20 03:47:30  #國際
+
+特朗普：約有700艘船隻透過霍爾木茲海峽。
+
+---
+
+### 2026-06-20 03:47:24  #MKT News
+
+【Israeli forces continue shelling southern Lebanon】Al Jazeera reported Israeli artillery shelled the Ali al-Taher heights in southern Lebanon, firing three shells; the strike occurred after a ceasefire had been declared earlier between Israel and Hezbollah.
+
+---
+
+### 2026-06-20 03:47:00  #國際
+
+特朗普：船隻正透過霍爾木茲海峽航行。
+
+---
+
+### 2026-06-20 03:46:18  #國際
+
+以色列軍隊持續炮擊黎巴嫩南部。
+
+---
+
+### 2026-06-20 03:44:43  #國際
+
+特朗普在安德魯斯聯合基地與空軍官兵一同揭曉全新空軍一號專機。
+
+---
+
+### 2026-06-20 03:44:09  #MKT News
+
+U.S. President Trump greeted U.S. Air Force personnel and delivered remarks.
+
+---
+
+### 2026-06-20 03:38:11  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump will begin his first domestic trip since the G7 summit with a visit to the Mack Trucks plant in Pennsylvania's Lehigh Valley.
+
+---
+
+### 2026-06-20 03:35:17  #國際
+
+白宮：這就是美國的方式。（配圖：以實力謀求和平）
+
+---
+
+### 2026-06-20 03:31:33  #公司 #國際
+
+特朗普將開啟七國集團峰會結束後的首次美國國內行程，前往賓夕法尼亞州利哈伊谷的邁克卡車工廠參觀。
+
+---
+
+### 2026-06-20 03:30:47  #市場
+
+【美元指數19日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於100.729。截至紐約匯市尾市，1歐元兌換1.1477美元，高於前一交易日的1.1459美元；1英鎊兌換1.3234美元，高於前一交易日的1.3203美元。1美元兌換161.26日元，低於前一交易日的161.68日元；1美元兌換0.8066瑞士法郎，高於前一交易日的0.8051瑞士法郎；1美元兌換1.4174加元，高於前一交易日的1.4140加元；1美元兌換9.5742瑞典克朗，低於前一交易日的9.5874瑞典克朗。
+
+---
+
+### 2026-06-20 03:28:01  #國際
+
+【伊朗副外長：美國須約束以色列遵守美伊諒解備忘錄】伊朗副外長賽義德・哈提卜扎德表示，美國必須保證以色列遵守美伊諒解備忘錄的各項條款。他補充稱，只要美方展現同等誠意，伊朗願意循序漸進推進相關落實工作。哈提卜扎德接受半島電視臺採訪時表示：“美國必須確保以色列遵守這份德黑蘭與華盛頓達成的諒解備忘錄條款。倘若對方拿出同等認真的態度，我們願意分步推進合作。”他稱伊朗希望實現包括加沙在內各戰線的和平，並表示黎巴嫩被納入備忘錄範疇，是因為該國與這場衝突存在直接關聯。“若佔領狀態不終結、以色列不遵守國際法，黎巴嫩乃至整個地區都無法迎來和平與穩定。”談及霍爾木茲海峽問題，哈提卜扎德表示，伊朗將協同阿曼、依照國際法持續提供航運保障服務。協議生效的 60 天過渡期內，伊朗不會收取航道通行費；過渡期結束後，伊朗將推出全新機制管理該水道。
+
+---
+
+### 2026-06-20 03:25:57  #公司
+
+【英國倫敦以北發生火車相撞事故 已致多人受傷】英國警方19日表示，位於倫敦以北約60英里（約97公里）處的貝德福德郡發生火車相撞事故。現場目擊者稱，這起事故已造成多人受傷。英格蘭東部救護服務機構表示，已向事發鐵路區段派出多支救援力量，包括空中救護直升機等。有關部門呼籲公眾避免前往相關區域。英國交通大臣海迪·亞歷山大表示，對這起事故“深感擔憂”。受事故影響，鐵路運營商東米德蘭茲鐵路公司宣佈，當天剩餘時間內該公司旗下往返倫敦的列車服務暫停。戈維亞泰晤士連線鐵路公司表示，由於事故仍在調查中，盧頓至貝德福德之間所有鐵路線路已停運。目前，事故原因及具體傷亡情況仍有待進一步調查確認。（央視新聞）
+
+---
+
+### 2026-06-20 03:23:27  #國際
+
+美國副總統萬斯表示，美伊諒解備忘錄允許美方根據伊朗的實際表現，靈活調整對伊制裁豁免力度。 他稱，即便伊朗完全履約，美國也不會向其撥付納稅人資金；但如果伊朗恪守承諾、停止資助“恐怖主義”並接受長期核查，美方可以擴大制裁豁免範圍並給予其他利好條件。
+
+---
+
+### 2026-06-20 03:21:19  #國際
+
+澤連斯基：我由衷期待美方最終給出肯定答覆，讓我們能夠拿到生產許可，屆時烏克蘭本土企業、私營產業以及國有國防軍工單位既能支援本國，也可向中東與歐洲各國供應相關裝備。
+
+---
+
+### 2026-06-20 03:21:05  #國際
+
+澤連斯基：美方首次對授權烏克蘭本土生產導彈的提議作出積極回應。
+
+---
+
+### 2026-06-20 03:20:16  #國際
+
+【報道：一艘超大型油輪掉頭後再度駛向霍爾木茲海峽】一艘超大型油輪短暫調轉航向之後，再度從波斯灣朝霍爾木茲海峽駛去。油輪追蹤資料顯示，此前原本似乎打算走美軍推薦南線航道的Desh Vibhor號，如今改走更偏北的航線，駛向伊朗海岸。這艘超大型油輪早前完成一次掉頭，隨後再度調整航向，重新繼續前往海峽的航程。美國與伊朗於週三簽署臨時和平協議後，原油市場正密切關注途經霍爾木茲海峽的油品運輸動向。儘管雙方達成協議，伊朗仍宣稱船舶未經其許可不得通行該水道。
+
+---
+
+### 2026-06-20 03:19:21  #國際
+
+美國空軍： VC-25B 型新一代空軍一號專機已正式抵達安德魯斯聯合基地。
+
+---
+
+### 2026-06-20 03:18:56  #國際
+
+市場訊息：特朗普即將在全新空軍一號飛機前發表講話，這架飛機採用由特朗普親自設計的全新塗裝方案。
+
+---
+
+### 2026-06-20 03:14:18  #國際
+
+【特朗普承認伊朗相關衝突的解決程序更為漫長】據報道，特朗普總統週四在節目中表示，美國若對古巴採取軍事行動，有可能復刻今年 1 月快速拿下委內瑞拉總統尼古拉斯・馬杜羅的戰果。特朗普同時承認，伊朗相關衝突的解決程序更為漫長，原因是伊朗軍事實力更強，且地理位置遙遠。他表示古巴更容易被美方壓制。記者詢問，針對古巴的行動是否會和委內瑞拉行動流程相似，特朗普答覆：“有可能，完全存在這種可能性。”“這兩個國家離美國很近。反觀伊朗，路途極其遙遠。我曾數次飛往那一區域，雖說和本次戰事無關，但單程就要飛 18 個小時，路途十分漫長。委內瑞拉距離相對近，古巴更是近在咫尺。”二者另一關鍵區別在於資源儲備。總統補充道：“委內瑞拉擁有石油資源，古巴沒有。古巴只擁有優質土地與優美海岸線。”
+
+---
+
+### 2026-06-20 03:11:53  #其他
+
+星巴克裁減中國香港辦公室約60個崗位、倫敦辦公室約120個崗位。
+
+---
+
+### 2026-06-20 03:07:14  #MKT News #Commodities #Energy
+
+President Trump said Venezuela has oil while Cuba does not, and that Cuba has good real estate and an attractive coastline.
+
+---
+
+### 2026-06-20 03:05:24  #MKT News
+
+US President Trump said his polling is very strong and he could beat any candidate they field by 25 percentage points.
+
+---
+
+### 2026-06-20 03:04:50  #國際
+
+特朗普：我的民調資料十分亮眼。我能領先他們陣營任何候選人 25 個百分點取勝。
+
+---
+
+### 2026-06-20 03:04:07  #MKT News #Market Themes #AI Revolution
+
+John Jumper, a senior research scientist at Google-owned DeepMind, has decided to leave to join Anthropic.
+
+---
+
+### 2026-06-20 03:03:15  #公司 #資料
+
+谷歌研究員約翰·江珀稱已決定離開谷歌DeepMind，加入Anthropic。
+
+---
+
+### 2026-06-20 03:01:39  #央行 #其他
+
+墨西哥央行設定比索官方匯率為1美元兌17.3247墨西哥比索。
+
+---
+
+### 2026-06-20 03:00:10  #公司 #國際
+
+美國總統特朗普：（談及七國集團）他們本應保留八國集團。如果那樣的話，俄烏之間可能就不會發生衝突了，但奧巴馬不想讓普京留在那裡。以前是八國集團。如果當初保留下來，會好得多。
+
+---
+
+### 2026-06-20 02:59:40  #MKT News
+
+Trump said the G7 should have remained the G8, arguing that if it had, the Russia-Ukraine war might not have occurred; he said Obama opposed keeping Putin in the group and that it was better when it was the G8.
+
+---
+
+### 2026-06-20 02:57:46  #國際
+
+美國總統特朗普：（談及拜登）我們曾有過一個連一段樓梯都走不上去的人，我不想談這個，因為如果我稍微絆一下，他們就會說：“哦，這太糟糕了。”好吧，這種事是可能發生的。但你不能每次上臺都絆倒。
+
+---
+
+### 2026-06-20 02:57:43  #MKT News
+
+U.S. President Trump said of Biden that they once had someone who couldn't even climb a short flight of stairs, and that he avoids discussing it because any slight misstep would prompt criticism.
+
+---
+
+### 2026-06-20 02:52:30  #MKT News #Market Regions #Europe & UK
+
+【ZELENSKIY says Ukraine-Russia talks may resume; allows Russia to determine format】On June 19, ZELENSKIY said Ukraine and Russia talks may resume but the specific format remains to be agreed. He said any negotiations must include a third-party partner, outlined Ukraine’s core demands including post-war security guarantees and EU accession, and said Kyiv would allow Moscow to determine the precise negotiating format. Russia has not responded.
+
+---
+
+### 2026-06-20 02:51:56  #國際
+
+【澤連斯基稱烏俄談判或將重啟 允許俄方敲定具體形式】當地時間6月19日，烏克蘭總統澤連斯基表示，烏克蘭和俄羅斯的談判或將重啟，當前有待敲定的是談判的具體形式。他特別強調，談判必須有第三方夥伴參與。澤連斯基同時明確了烏克蘭的核心訴求，涵蓋戰後安全保障、加入歐盟等內容，並表示烏方允許俄方敲定談判具體形式。目前，俄羅斯方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-06-20 02:50:58  #國際
+
+【以軍稱將繼續回應黎真主黨“違反停火協議行為”】以色列國防軍發言人19日發表宣告稱，以軍將繼續回應黎巴嫩真主黨任何“違反停火協議的行為”。這名發言人指認黎真主黨數週以來不斷違反以黎停火協議，稱“以色列無法接受這樣的現實”，這正是以軍繼續在黎南部開展行動的原因。他稱，以軍的目標是確保黎真主黨無法重建，也無法對以色列平民構成威脅。（新華社）
 
 ---
 
@@ -22670,185 +22886,5 @@ Kremlin foreign policy adviser says Trump was 'fed harmful ideas' at the G7; we 
 ### 2026-06-18 16:15:30  #MKT News
 
 Swiss National Bank chairman said the bank will consider overall conditions when intervening. The Swiss franc has slightly depreciated since the last meeting.
-
----
-
-### 2026-06-18 16:15:10  #央行 #其他
-
-瑞士央行行長：在干預問題上會考量全域性形勢，自上次會議以來瑞郎已略微走軟。
-
----
-
-### 2026-06-18 16:14:58  #其他
-
-北約核計劃小組宣告：各位部長回顧指出，北約聯盟的戰略核力量仍是盟友安全的最高保障。
-
----
-
-### 2026-06-18 16:14:03  #其他
-
-【中國工商銀行行長劉珺：更看重人才是否具備行業知識、技術專長和科技掌握】6月18日，在2026陸家嘴論壇“全體大會五：健全科技金融全生命週期服務體系，服務實體經濟高質量發展”上，中國工商銀行行長劉珺在談及人才供給時表示，現在大型金融機構並不是特別看重人才是否為財經類專業畢業生，而是更看重其是否具備行業知識、技術方面的專長，以及在科技方面的掌握。“現在我們要求我們的人才隊伍的組合是π型組合，或者要求他對金融知識、市場知識有充分掌握，同時在橫線畫出來的π越多越好，（這）說明你對不同的行業有相當有深度的瞭解。”劉珺表示，這樣人力資源構成體系才符合現代金融機構的發展需求，使得金融機構在財務、資產負債表、資料資產負債表形成財智資產負債表。
-
----
-
-### 2026-06-18 16:13:50  #Trading Economics #Markets #Switzerland #Currency #Importance 1
-
-Swiss Franc Hover Around 2-Month Lows — The Swiss franc was little changed at 0.8 per US dollar, remaining near its weakest level in over two months as investors assessed the latest policy decisions from the Swiss National Bank and the US Federal Reserve. The Swiss National Bank kept its policy rate at 0% for the fourth straight meeting, as expected, stating the current stance supports price stability and economic growth. Meanwhile, the central bank raised inflation forecasts for this year and the next, while growth projections were kept unchanged. The SNB slightly adjusted its language, saying it is more willing to intervene in the foreign exchange market “if necessary.” Elsewhere, the US Federal Reserve unsurprisingly held rates steady, but signaled the possibility of a rate hike this year. On the geopolitical front, the US and Iran signed an interim agreement to end the war and reopen the Strait of Hormuz, though uncertainty persists as talks will continue toward a final deal.
-
----
-
-### 2026-06-18 16:13:48  #公司
-
-【智飛生物：重組輪狀病毒亞單位疫苗臨床試驗申請獲受理】智飛生物公告，由全資子公司北京智飛綠竹生物製藥有限公司研發的重組輪狀病毒亞單位疫苗（大腸桿菌）獲得國家藥品監督管理局藥物臨床試驗申請受理通知書（受理號：CXSL2600643）。自受理之日起60日內，未收到藥審中心否定或質疑意見的，智飛綠竹可以按照提交的方案開展臨床試驗。
-
----
-
-### 2026-06-18 16:13:43  #國際
-
-國際能源署署長比羅爾：我希望伊朗與美國之間能實現持久和平，海峽能夠開放。
-
----
-
-### 2026-06-18 16:13:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IEA Executive Director Birol said he hopes Iran and the United States can reach a lasting peace and that the strait can be open.
-
----
-
-### 2026-06-18 16:13:32  #MKT News
-
-Kremlin foreign-policy adviser said dates for visits by U.S. special envoy Witkov and Trump son-in-law Kushner have not been set.
-
----
-
-### 2026-06-18 16:13:22  #央行 #其他
-
-瑞士央行行長：如有必要，我們干預外匯市場的意願將會更強，目前難以判定這種意願相比之前是升還是降。
-
----
-
-### 2026-06-18 16:13:12  #其他
-
-克里姆林宮外交政策助理：威特科夫和庫什納的訪問日期尚未確定。
-
----
-
-### 2026-06-18 16:13:04  #MKT News #Important
-
-Shanghai Futures Exchange (SHFE) weekly on-exchange inventories: copper down 44,372 t; aluminum down 1,540 t; zinc down 1,929 t; lead unchanged; nickel up 2,414 t; tin down 785 t; natural rubber down 160 t.
-
----
-
-### 2026-06-18 16:13:02  #其他
-
-上期所：本週銅庫存減少44372噸，鋁庫存減少1540噸，鋅庫存減少1929噸，鉛庫存不變，鎳庫存增加2414噸，錫庫存減少785噸，天然橡膠庫存減少160噸。
-
----
-
-### 2026-06-18 16:12:44  #國際
-
-克里姆林宮外交政策顧問：歐洲人錯誤地認為戰場形勢正在向烏克蘭傾斜。
-
----
-
-### 2026-06-18 16:12:39  #MKT News #DXY #Impact bullish #XAUUSD #WTI
-
-Kremlin foreign-policy adviser says Europeans are mistaken to believe the battlefield is shifting in Ukraine's favor.
-
----
-
-### 2026-06-18 16:12:26  #央行 #國際
-
-瑞士央行行長：不確定性仍處於高位，能源市場目前主要受中東局勢影響。
-
----
-
-### 2026-06-18 16:12:11  #其他
-
-【端午假期，4條兩岸“小三通”客運航線預計傳送旅客2.3萬人次】端午假期，兩岸“小三通”客運航線將迎來客流高峰。據福建海事局預計，端午假期三天，4條兩岸“小三通”客運航線預計傳送旅客2.3萬人次，同比增長21%。其中廈金“小三通”航線預計傳送旅客近2萬人次，同比增長16%，兩馬、黃馬“小三通”航線預計共傳送旅客1680人次，同比增長50.4%。假期期間，廈金、黃馬“小三通”航線將適時增開船班，滿足群眾出行需求。
-
----
-
-### 2026-06-18 16:11:46  #MKT News
-
-U.S. Defense Minister Hegseth said NATO has long been a paper tiger and a one-way street, and that must change.
-
----
-
-### 2026-06-18 16:11:27  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hong Kong's Hang Seng Index (HSI) closed down 387.35 points (-1.59%) at 23,924.81 on Thursday, June 18. The Hang Seng Tech Index fell 64.72 points (-1.39%) to 4,604.35. The Hang Seng China Enterprises Index (HSCEI) dropped 167.99 points (-2.06%) to 7,976.04. The Hang Seng Red Chip Index slid 162.24 points (-3.89%) to 4,009.59.
-
----
-
-### 2026-06-18 16:11:08  #其他
-
-【陝西釋出國際養老人才培養專案】據陝西省社會福利與養老服務協會訊息：日前，由該協會、西安市慈善會聯合發起的國際養老人才培養專案正式釋出。該專案將於今年9月啟動首批招生，計劃招收200名學員赴海外開展介護技能深造，標誌著陝西養老人才培養邁出國際化步伐。據介紹，該專案將打造“留學—研修—本土轉化”相貫通的人才培養鏈條，創新構建“心理、醫學、社會”三維培訓體系，重點聚焦認知症科學照護、終末期人文關懷、從業者綜合素養培育三大領域。同時，還將拓寬從初級護理員到國際介護師的職業晉升通道，探索“慈善+養老”人才留用模式，形成可複製、可推廣的養老人才培養“陝西方案”。
-
----
-
-### 2026-06-18 16:10:44  #公司 #國際
-
-克里姆林宮稱，在七國集團峰會後，沒有與美國聯絡。
-
----
-
-### 2026-06-18 16:10:26  #Trading Economics #Economy #Italy #Current Account #Importance 1
-
-Italy Current Account Surplus Widens Sharply in April — Italy posted a current account surplus of EUR 2.3 billion in April 2026, more than doubling the EUR 1.1 billion in the corresponding month last year. The goods surplus expanded sharply to EUR 5.0 billion from EUR 3.3 billion. The secondary income deficit narrowed to EUR 0.9 billion from EUR 1.1 billion. On the other hand, the deficits in the services account (EUR -0.5 billion vs EUR -0.2 billion in April 2025) and the primary income (EUR -1.3 billion vs EUR -0.9 billion) widened.
-
----
-
-### 2026-06-18 16:10:17  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish #00688.HK #01109.HK
-
-Hong Kong stocks closed lower: Hang Seng fell 1.59%, Hang Seng TECH fell 1.39%. CAOCAO (02643.HK) slid over 15%; China Overseas Land & Investment (00688.HK) fell about 9%; CHINA RES LAND (01109.HK) dropped 7.3%. Zhipu (02513.HK) jumped over 26% to a record high; MINIMAX-W (00100.HK) rose over 12%.
-
----
-
-### 2026-06-18 16:09:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rubber Drops by 1.47% — Top commodity losers are Rubber (-1.47%) and Cotton (-0.53%). Gains are led by Oat (1.06%), Rice (0.76%) and Wheat (0.56%).
-
----
-
-### 2026-06-18 16:09:46  #公司
-
-【龍建股份：起訴拉薩城投追討6407.34萬元工程款】龍建股份公告稱，為維護公司和股東利益，公司就與拉薩市城市建設投資經營有限公司的建設工程施工合同糾紛，向西藏自治區拉薩市城關區人民法院提起訴訟，涉案金額6407.34萬元。目前一審法院已立案，公司為原告。鑑於案件尚未開庭，暫無法判斷對公司本期或期後利潤的具體影響，公司將持續關注並及時披露進展。
-
----
-
-### 2026-06-18 16:09:03  #市場 #焦點
-
-【港股收盤：恒生指數跌1.593%，恒生科技指數跌1.386%】小鵬集團-W跌4.311%，中國宏橋跌4.882%，信義玻璃跌5.436%，中國人壽跌6.933%，龍湖集團跌7.171%，華潤置地跌7.741%，中國海外發展跌8.926%。
-
----
-
-### 2026-06-18 16:08:45  #MKT News #Market Regions #Greater China #CNH
-
-【PBOC: Financial institutions' total assets 556.34 tln yuan at end-Q1, up 8.8% YoY】Preliminary PBOC data: China's financial institutions' total assets were 556.34 tln yuan at end-Q1 2026, up 8.8% YoY. Bank assets 494.72 tln yuan (+8.0% YoY); securities firms 19.15 tln yuan (+25.4%); insurers 42.47 tln yuan (+12.2%). Financial institutions' liabilities 509.53 tln yuan (+9.0% YoY): bank liabilities 455.69 tln yuan (+8.1%); securities liabilities 15.14 tln yuan (+30.9%); insurance liabilities 38.69 tln yuan (+12.7%).
-
----
-
-### 2026-06-18 16:08:43  #其他
-
-【全國夏播糧食已過六成】農業農村部18日最新農情排程顯示，全國夏播糧食過六成，其中黃淮海地區播種近八成，長江中下游地區近四成，西南地區過六成，西北地區過半。分作物看，夏玉米播種過八成，中稻播栽過七成，夏大豆過半。(新華社)
-
----
-
-### 2026-06-18 16:08:27  #公司
-
-【江蘇索普：公司及相關人員因財務資料披露不準確收警示函】江蘇索普公告稱，公司於2026年6月17日收到江蘇證監局警示函。公司2026年4月18日披露前期會計差錯更正公告，對2022 - 2024年度財務報表追溯調整，相關年度報告財務資料披露不準確。總經理陳志林、時任財務總監崔坤族對違規行為負有主要責任。公司及相關人員應10個工作日內提交書面報告，可在規定時間內申請行政複議或提起訴訟。本次監管措施不影響公司正常經營。
-
----
-
-### 2026-06-18 16:08:13  #MKT News
-
-【Pakistan PM signs US-Iran memorandum as mediator】On June 18 local time the Pakistani prime minister's office confirmed Prime Minister Shehbaz Sharif signed a US‑Iran memorandum of understanding as mediator; the document had earlier been signed by US President Trump and Iranian President Pezeshkian.
-
----
-
-### 2026-06-18 16:08:01  #國際
-
-【德國稱美國縮減在歐洲軍力需要路線圖 以防出現防衛缺口】德國國防部長鮑里斯·皮斯托裡烏斯呼籲美國更好地協調削減在歐洲軍力的計劃，以防止歐洲大陸在發生武裝衝突時處於孤立無援的狀態。他週四在布魯塞爾北約總部發表講話時表示，華盛頓將把重點轉向印太“是可以預見的”，歐洲盟友也準備承擔更多自身常規威懾和防禦的責任。他在北約國防部長會議召開前對記者說：“現在最關鍵的問題是如何制定路線圖，協調各個步驟。”美國防長皮特·海格塞斯也將出席此次會議。“如果真的需要由誰來接替美國人的哪些任務，目前還沒有決定。”皮斯托裡烏斯說，“但有一點很明確：我們必須協調這些責任；我們必須同步這些責任，以防止歐洲在常規領域出現危險的軍力缺口。”
 
 ---
