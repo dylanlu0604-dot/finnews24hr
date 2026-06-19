@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-19 16:30:55",
-  "count": 18415,
+  "updated": "2026-06-19 16:34:59",
+  "count": 18407,
   "items": [
+    {
+      "id": "mkt:019edf04-2722-7dd8-b091-448ea675357f",
+      "time": "2026-06-19 16:34:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel says four soldiers killed in southern Lebanon attack】The Israel Defense Forces said on the 19th that four soldiers were killed in southern Lebanon in an attack by Hezbollah, including the tank company commander of the 401st Armored Brigade's 52nd Battalion. The IDF said the incident occurred around midnight in Taybinit village when a suspected drone or anti-tank missile struck the commander’s tank, killing all four crew. The IDF said the incident is under investigation."
+    },
+    {
+      "id": "te:markets:560440",
+      "time": "2026-06-19 16:32:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Dollar Hits 11-week Low — The Hong Kong Dollar touched 7.84 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar Hong Kong Dollar gained 0.07%, and in the last 12 months, it decreased 0.14%."
+    },
+    {
+      "id": "te:economy:560439",
+      "time": "2026-06-19 16:32:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Italy Construction Output Growth Eases in April — Italy’s construction output rose 2.7% year-on-year in April 2026, easing from a revised three-month high of 3.0% in the previous period. On a seasonally adjusted monthly basis, construction production increased by 0.3%, slowing from a revised 1.9% growth in March. Over the February-to-April 2026 period, average construction output edged up by 0.4% compared with the previous quarter, while calendar-adjusted production climbed 1.6% from the same period a year earlier."
+    },
+    {
+      "id": "4944910",
+      "time": "2026-06-19 16:31:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以色列高官揚言黎巴嫩將陷入火海】針對入侵黎巴嫩南部的以軍遭遇傷亡事件，以色列國家安全部長、極右翼政治人士本-格維爾今天（6月19日）稱，“以色列必須向全世界明確表態，以色列人的鮮血和本國公民安全不容討價還價，整個黎巴嫩都會陷入火海。”（CCTV國際時訊）"
+    },
     {
       "id": "4944909",
       "time": "2026-06-19 16:29:56",
@@ -169374,118 +169415,6 @@
         "Brent"
       ],
       "text": "ECB Governing Council member Moulin said the energy shock from the Middle East crisis will persist regardless of short-term shifts in geopolitical conditions."
-    },
-    {
-      "id": "4932271",
-      "time": "2026-06-12 16:34:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英力股份：深圳證券交易所決定終止對公司發行股份及支付現金購買資產並募集配套資金申請的稽核】英力股份公告，公司於2026年6月9日召開董事會，審議透過了終止發行股份及支付現金購買資產並募集配套資金事項並撤回申請檔案的議案。公司和獨立財務顧問向深圳證券交易所提交了撤回申請檔案的申請。2026年6月12日，公司收到深圳證券交易所《關於終止對安徽英力電子科技股份有限公司發行股份及支付現金購買資產並募集配套資金申請稽核的決定》，深圳證券交易所決定終止對公司發行股份及支付現金購買資產並募集配套資金申請的稽核。"
-    },
-    {
-      "id": "4932270",
-      "time": "2026-06-12 16:34:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國興業銀行拓展現金業務，積極推動股票經紀業務發展。"
-    },
-    {
-      "id": "te:economy:558686",
-      "time": "2026-06-12 16:33:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Plunge on US-Iran Deal Hopes — UK 10-year gilt yields tumbled below 4.8%, hitting their lowest since mid-April, after US President Donald Trump suggested a US-Iran deal could come as soon as this weekend, though Tehran has yet to confirm. Yields have been volatile, moving in line with oil prices and war-related developments, as traders weigh the risks of a prolonged Strait of Hormuz closure. The longer the disruption lasts, the higher the chance that elevated energy prices will fuel broader inflation, potentially compelling central banks to implement significant rate hikes. Meanwhile, UK GDP shrunk 0.1% in April, the first monthly drop since August, casting doubt on further Bank of England tightening. Investors are also focused on the June 18 Makerfield by-election, where Labour’s Andy Burnham, a potential successor to embattled Prime Minister Keir Starmer, could signal a shift toward looser fiscal policy."
-    },
-    {
-      "id": "mkt:019ebaf6-83d2-7dd8-afd9-44070d27f919",
-      "time": "2026-06-12 16:32:58",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England survey: May UK one-year inflation expectations 4.0% (Feb: 3.2%); long-term expectations 3.9% (Feb: 3.7%)."
-    },
-    {
-      "id": "4932269",
-      "time": "2026-06-12 16:32:54",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【全國市場監管系統規範直銷與打擊傳銷工作座談會召開】6月11日，全國市場監管系統規範直銷與打擊傳銷工作座談會在海南省海口市召開。會議全面貫徹黨中央、國務院決策部署，總結交流傳銷與違法直銷案件查辦經驗和做法，研究安排下一階段重點任務。"
-    },
-    {
-      "id": "mkt:019ebaf6-6071-7dd8-afd9-3ef1cf1d6df6",
-      "time": "2026-06-12 16:32:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Huawei's Yu Chengdong vows to push Pangu large model to world No.1】At the Huawei Developer Conference (HDC2026) on June 12, Huawei senior executive and head of the Consumer BG Yu Chengdong said he was assigned to lead the Pangu large model before last year’s National Day and will lead the team to take the model from China’s No.1 to the world’s No.1. \"In my dictionary there is no second, only first,\" he added."
-    },
-    {
-      "id": "4932268",
-      "time": "2026-06-12 16:32:40",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行調查顯示：5月英國公眾對未來一年的通脹預期為4%，2月該預期為3.2%。"
-    },
-    {
-      "id": "4932267",
-      "time": "2026-06-12 16:32:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨跌幅延續，下跌超過5%。"
-    },
-    {
-      "id": "4932266",
-      "time": "2026-06-12 16:31:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌5%，現報85.85美元/桶。"
-    },
-    {
-      "id": "mkt:019ebaf4-f82e-7dd8-afd9-334b5d9c2580",
-      "time": "2026-06-12 16:31:16",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "Onshore yuan closed at 6.7616 per US dollar at 16:30 on June 12, up 157 pips from the previous trading day."
-    },
-    {
-      "id": "mkt:019ebaf4-e1fb-7dd8-afd9-2a347544d95f",
-      "time": "2026-06-12 16:31:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures fell 5.00% intraday to $83.32/bbl."
-    },
-    {
-      "id": "4932265",
-      "time": "2026-06-12 16:30:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元收盤報6.7616，較上一交易日上漲157點。"
     }
   ]
 }
