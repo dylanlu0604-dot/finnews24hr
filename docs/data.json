@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-19 20:51:53",
-  "count": 17993,
+  "updated": "2026-06-19 20:56:02",
+  "count": 17998,
   "items": [
+    {
+      "id": "4945182",
+      "time": "2026-06-19 20:54:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布倫特原油期貨與西德克薩斯中質原油期貨轉跌，此前美國官員稱以色列與真主黨已同意停火。"
+    },
+    {
+      "id": "4945181",
+      "time": "2026-06-19 20:54:24",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "WTI原油短線跌幅擴大至1美元，最低至75.33美元/桶。"
+    },
+    {
+      "id": "mkt:019edff2-58e1-7dd8-b095-8fc4311f9c2f",
+      "time": "2026-06-19 20:54:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude intraday losses widened to $1, sliding to an intraday low of $75.33/bbl."
+    },
+    {
+      "id": "4945180",
+      "time": "2026-06-19 20:53:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐伊朗大使叢培武會見伊朗文旅部副部長達拉比】6月16日，駐伊朗大使叢培武會見伊朗文旅部副部長達拉比。叢大使表示，習近平主席鄭重提出全球文明倡議，為不同文明和合共生指明方向。中伊作為兩大文明古國，要以對話增進理解，以交流促進團結，反對“文明衝突論”“文明優越論”，不斷夯實構建人類命運共同體的人文基礎。達拉比高度讚賞習近平主席提出的全球文明倡議等重要理念主張，表示伊方願同中方加強文明對話，密切人文交流，促進民心相通。（中國駐伊朗大使館）"
+    },
+    {
+      "id": "4945179",
+      "time": "2026-06-19 20:52:50",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "WTI原油短線下挫0.8美元，報75.63美元/桶。"
+    },
+    {
+      "id": "4945178",
+      "time": "2026-06-19 20:52:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金短線上揚17美元，報4164美元/盎司。"
+    },
+    {
+      "id": "mkt:019edff0-9d03-7dd8-b095-8218d9764347",
+      "time": "2026-06-19 20:52:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell $0.80 intraday to $75.63/barrel."
+    },
+    {
+      "id": "mkt:019edff0-0a66-7dd8-b095-78fd0434810e",
+      "time": "2026-06-19 20:51:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose $17 intraday to $4,164/oz."
+    },
+    {
+      "id": "4945177",
+      "time": "2026-06-19 20:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "恩賈梅納訊息：中國援查德農業第八期技術援助專案日前在查德邦戈爾市向查德方面捐贈水稻良種。查德農業生產與產業化部部長凱達·巴拉出席捐贈儀式，高度評價乍中農業技術合作成果。"
+    },
+    {
+      "id": "te:markets:560493",
+      "time": "2026-06-19 20:51:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Turns Negative — The DAX 40 pared some initial gains to trade slightly below 25,000 on Friday, on track to halt six consecutive sessions of gains. Investor were cautious amid the postponement of US-Iran talks aimed at securing a lasting peace agreement in the Middle East. Overnight attacks in Lebanon between Israel and Hezbollah also weighed, prompting a fresh rise in oil prices. Volkswagen dropped more than 4% as it traded ex-dividend, weighing on the index. In contrast, defense stocks were in high demand due to the fragile US-Iran deal, led by Renk (2.4%) and Rheinmetall (1.6%). Automakers shares showed signs of recovery, with Mercedes-Benz Group and BMW rising more than 1%, on reports that the EU is preparing tariffs on Chinese plug-in hybrid vehicles."
+    },
     {
       "id": "4945176",
       "time": "2026-06-19 20:50:55",
@@ -165816,50 +165917,6 @@
         "其他"
       ],
       "text": "SpaceX 750億美元募資中約有20%分配給個人投資者。"
-    },
-    {
-      "id": "mkt:019ebbe7-44b0-7dd8-afdf-19923de9b247",
-      "time": "2026-06-12 20:55:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "BP.L"
-      ],
-      "text": "BP plans to sell its stakes in two U.S. Gulf of Mexico projects, Kaskida and Tiber."
-    },
-    {
-      "id": "4932909",
-      "time": "2026-06-12 20:55:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【分析：英國央行預計將保持“積極按兵不動”】桑坦德銀行的分析師在一份報告中表示，預計英國央行下週將維持利率不變，但將保持警惕。他們表示：“決策者可能會認為，現有的貨幣條件仍然具有足夠的限制性，可以繼續爭取時間，同時評估中東衝擊帶來的持續通脹風險的確切威脅。”目前，通脹走軟和勞動力市場疲軟表明，第二輪價格增長效應的風險有限，但如果伊朗的戰爭拖延下去，這種情況可能會改變。“最終，如果在夏季之後危機的持續時間仍然是一個主要擔憂，我們認為英國央行很有可能在9月份被迫加息。”"
-    },
-    {
-      "id": "4932908",
-      "time": "2026-06-12 20:55:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油計劃出售其在墨西哥灣兩大專案的股權。"
-    },
-    {
-      "id": "4932907",
-      "time": "2026-06-12 20:54:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【在麼在麼V2.1.0 將登陸華為等安卓平臺】在麼在麼（原死了麼）V2.1.0 將登陸華為、榮耀、OPPO、vivo、小米、應用寶等安卓平臺，試運營期間免費下載。現已支援多緊急聯絡人、電話簡訊通知、實時位置、一鍵導航，全方位守護獨居安全。"
-    },
-    {
-      "id": "4932906",
-      "time": "2026-06-12 20:53:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鋒龍股份：選舉優必選董事長周劍為公司第五屆董事會董事長】鋒龍股份公告，審議透過《關於選舉公司第五屆董事會董事長的議案》，同意選舉周劍先生為公司第五屆董事會董事長，任期自本次董事會審議透過之日起至公司第五屆董事會任期屆滿之日止。周劍先生作為公司實際控制人，同時擔任公司董事長，是結合公司經營發展階段、治理結構現狀需要作出的合理安排，符合公司長期戰略，有利於提高決策效率。"
     }
   ]
 }
