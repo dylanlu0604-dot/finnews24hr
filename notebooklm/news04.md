@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 04:44:08_
-_本檔包含 3462 則快訊，約 655586 字_
+_更新時間：2026-06-20 05:15:59_
+_本檔包含 3460 則快訊，約 655554 字_
+
+---
+
+### 2026-06-16 18:27:00  #MKT News
+
+Trump said the Ukraine situation has no impact on the US beyond weapons sales, adding the US is thousands of miles away.
+
+---
+
+### 2026-06-16 18:26:52  #其他
+
+【青海海西州直轄區發生多次餘震 最大餘震達4.9級】據中國地震臺網測定，2026年6月16日17時06分在青海海西州直轄區發生6.3級地震。截至18時，共記錄到3.0級及以上餘震7次，最大餘震為6月16日17時45分發生的4.9級地震，距主震震中約3公里。（央視新聞）
+
+---
+
+### 2026-06-16 18:26:36  #其他
+
+【新奧能源：王玉鎖以約4403萬港元增持100萬股】據港交所披露易資料，王玉鎖以約4403萬港元增持100萬股新奧能源(02688.HK)，持股比例由34.46%增至34.55%。
+
+---
+
+### 2026-06-16 18:26:24  #公司
+
+【國科天成：控股股東羅珏典增持股份致權益變動觸及1%整數倍】國科天成公告稱，2026年6月16日，控股股東、實際控制人羅珏典透過集中競價方式增持公司股份287,200股，佔公司總股本的0.16%。本次增持前，羅珏典及其一致行動人合計持股比例為28.97%；增持後，持股比例增加至29.13%，權益變動觸及1%的整數倍。本次增持彰顯其對公司未來長期發展的信心，不會導致控股股東及實際控制人發生變化，也不會對公司治理結構及持續經營產生重大影響。羅珏典暫無後續股份增持計劃。
+
+---
+
+### 2026-06-16 18:26:12  #國際
+
+特朗普談及烏克蘭問題：奧巴馬向烏克蘭提供了價值3500億美元的武器。他就這麼給了，這簡直太瘋狂了。
+
+---
+
+### 2026-06-16 18:25:35  #MKT News #Market Themes #The Trump Trade
+
+Trump said Obama gave Ukraine $350 billion in weapons and described the move as crazy.
+
+---
+
+### 2026-06-16 18:25:17  #公司
+
+【恆瑞醫藥：達爾西利片新適應症獲批，2年IDFS絕對獲益率4.5%】恆瑞醫藥公告，近日收到國家藥監局通知，批准公司自主研發的CDK4/6抑制劑羥乙磺酸達爾西利片新增新適應症，用於激素受體（HR）陽性、人表皮生長因子受體2（HER2）陰性的高復發風險的早期乳腺癌患者的輔助治療。該藥品此前已獲批兩項適應症，適用於HR+/HER2-區域性晚期或轉移性乳腺癌患者。本次獲批基於DAWNA-AⅢ期臨床陽性結果，中位隨訪20.3個月時，2年IDFS絕對獲益率為4.5%，疾病進展或死亡風險降低44.5%。
 
 ---
 
@@ -20827,61 +20869,5 @@ Eurozone | Trade Balance (Apr) | actual 1300000000B | previous 3500000000B
 ### 2026-06-15 17:00:17  #Trading Economics #Markets #Commodity #commodity #Importance 0
 
 Rapeseed Hits 5-week Low — Rapeseed decreased to 513.00 EUR/T, the lowest since May 2026. Over the past 4 weeks, Rapeseed lost 1.66%, and in the last 12 months, it increased 6.34%.
-
----
-
-### 2026-06-15 17:00:14  #資料
-
-歐元區4月工業產出月率 0.1%，預期0.2%，前值由0.20%修正為0.4%。
-歐元區4月工業產出年率 0.3%，預期0.4%，前值由-2.10%修正為-2.8%。
-歐元區4月未季調貿易帳 -10億歐元，前值由78億歐元修正為49億歐元。
-
----
-
-### 2026-06-15 17:00:11  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish #DAX
-
-Eurozone industrial production YoY in April 0.3% vs. 0.4% expected; March reading revised from -2.10% to -2.8%.
-
----
-
-### 2026-06-15 17:00:09  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
-
-Eurozone April non-seasonally adjusted trade balance -€1.0bn; prior balance revised from €7.8bn to €4.9bn.
-
----
-
-### 2026-06-15 17:00:07  #MKT News #Important
-
-Eurozone industrial production rose 0.1% MoM in April, below the 0.2% consensus; March was revised up to 0.4% from 0.2%.
-
----
-
-### 2026-06-15 17:00:06  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Swedish Krona Appreciates by 0.76% — Top currency gainers are Swedish Krona (0.76%), Indian Rupee (0.66%), Swiss Franc (0.46%), Euro (0.28%), British Pound (0.13%) and Japanese Yen (0.06%). Biggest loser is Dollar Index (-0.19%).
-
----
-
-### 2026-06-15 17:00:04  #其他
-
-雷軍： 小米和金山在武漢的研發團隊已經上萬人。
-
----
-
-### 2026-06-15 17:00:01  #MKT News #Economic Calendar #Important
-
-Eurozone | Unadjusted Trade Balance (Apr) | actual -1000000000B | previous 7800000000B
-
----
-
-### 2026-06-15 17:00:01  #MKT News #Economic Calendar #Important
-
-Eurozone | Industrial Production (MoM) (Apr) | actual 0.1% | consensus 0.2% | previous 0.20%
-
----
-
-### 2026-06-15 17:00:01  #MKT News #Economic Calendar #Important
-
-Eurozone | Industrial Production (YoY) (Apr) | actual 0.3% | consensus 0.4% | previous -2.10%
 
 ---

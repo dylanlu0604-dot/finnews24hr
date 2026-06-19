@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 04:44:08_
-_本檔包含 3810 則快訊，約 655717 字_
+_更新時間：2026-06-20 05:15:59_
+_本檔包含 3812 則快訊，約 655776 字_
+
+---
+
+### 2026-06-20 05:13:11  #公司
+
+巴西國家石油公司批准為新建可再生噴氣燃料與柴油工廠投資12億美元。
+
+---
+
+### 2026-06-20 05:09:55  #市場 #國際
+
+【受中東和平協議疑慮影響，拉美資產恐錄得單週跌幅】週五，由於正值美國公共假日，市場交投清淡，多數拉美資產恐將錄得單週跌幅，投資者正在權衡有關美伊臨時和平協議的最新進展。追蹤該地區貨幣的MSCI指數微漲0.1%，股票基準指數跌0.2%。這兩個指數在前一交易日均下跌超過1%，且均面臨單週收跌的局面。
+
+---
+
+### 2026-06-20 05:08:09  #國際
+
+【美國2比0戰勝澳大利亞】北京時間6月20日，2026年美加墨世界盃進行D組第2輪角逐，美國隊對陣澳大利亞隊。最終，美國隊2比0戰勝澳大利亞隊。
+
+---
+
+### 2026-06-20 04:50:22  #Trading Economics #Economy #Argentina #Retail Sales YoY #Importance 1
+
+Argentina Retail Sales Rise In April — Argentina’s retail sales rose 12.6% year-on-year in April 2026 to ARS 560.96 billion. By category, sportswear and accessories posted the strongest gain, rising 25.5%. Food courts, food products, and kiosks increased 22.3%, while stationery and bookstores rose 27.9%. Entertainment and leisure advanced 26.5%, and perfumes and pharmacies recorded one of the strongest gains at 31.9%. Clothing, footwear, and leather goods rose a more modest 5.3%. In contrast, electronics, appliances, and computing sales fell 10.9%. By region, sales in Buenos Aires rose 20.9%, while the 24 districts of Greater Buenos Aires posted a 6.5% increase. The Pampas region recorded a 12.7% gain, while the Cuyo region rose 17.6%. Meanwhile, the Northern and Patagonia regions posted increases of 3.3% and 10.3%, respectively.
+
+---
+
+### 2026-06-20 04:46:45  #Trading Economics #Markets #commodity #Importance 0
+
+Gold is down by 2.12% — Gold decreased 2.12% to 4120.85 USD/t.oz
+
+---
+
+### 2026-06-20 04:43:48  #國際
+
+波蘭總理圖斯克：澤連斯基總統與納羅茨基總統的任務是平復情緒，而非加劇緊張局勢。
 
 ---
 
@@ -22940,29 +22976,5 @@ Swiss National Bank chairman said the easing of Middle East tensions cannot be r
 ### 2026-06-18 16:25:14  #公司
 
 【阿石創：控股股東及其一致行動人部分股份解質及質押】阿石創公告稱，近日，公司控股股東、實際控制人之一陳欽忠及控股股東一致行動人科拓投資部分股份辦理解除質押和質押業務。其中，解除質押合計1160萬股，佔公司總股本7.56%；質押合計1130萬股，佔公司總股本7.36%。截至公告披露日，控股股東、實際控制人及其一致行動人累計質押股份3118萬股，佔公司總股本20.31%。
-
----
-
-### 2026-06-18 16:25:06  #央行 #國際
-
-瑞士央行行長：不能排除中東當前的局勢緩和只是暫時性的。
-
----
-
-### 2026-06-18 16:24:07  #MKT News
-
-Iran's agriculture minister said blockades and war have not affected food security.
-
----
-
-### 2026-06-18 16:24:03  #MKT News #Market Regions #Greater China #02513.HK #Impact bullish #00100.HK #Hang Seng Index #Impact bearish
-
-【HK close: Hang Seng down 1.59%; newly listed AI names extend one-week rally】Hang Seng closed down 1.59% and the Hang Seng TECH Index fell 1.39%; turnover HK$358.7bn. The index slid as much as 557 points intraday to 23,749, breaking below the 24,000 level. PCB and recently listed AI names extended a one-week rally; storage, semiconductors and domestic retail continued to gain; biotech and innovative-drug stocks staged a choppy rebound. Base metals, gold, insurers and internet/tech names plunged; property developers and heavy-equipment names underperformed; tourism and oil & gas stocks fell for a multi-day stretch. Notable movers: CAOCAO (02643.HK) down >15%, China Overseas Development (00688.HK) down 9%, CHINA RES LAND (01109.HK) down 7.3%; Zhipu (02513.HK) up >26% to a record high, MINIMAX-W (00100.HK) up >12%.
-
----
-
-### 2026-06-18 16:24:00  #其他
-
-【研究人員發現已知最早鼠疫疫情的證據】研究人員在西伯利亞東南部古老墓地埋葬的遺骸中，檢測並重建了五千多年前的鼠疫耶爾森菌基因組。這可能是已知最早的與鼠疫相關的人類感染證據之一。他們在17日出版的《自然》雜誌上發表文章說，近幾十年來，考古學家一直在發掘貝加爾湖周圍的四個古代墓地。這些墓地裡埋葬著死於四、五千年前的狩獵採集者。先前理論認為，狩獵採集者群體小、流動性強，因此不會在其內部暴發大規模傳染病。（新華社）
 
 ---
