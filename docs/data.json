@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-20 06:32:18",
+  "updated": "2026-06-20 06:36:18",
   "count": 17648,
   "items": [
+    {
+      "id": "te:markets:560554",
+      "time": "2026-06-20 06:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 2.30% — Top commodity losers are Platinum (-2.30%), Gold (-1.38%) and Silver (-1.29%)."
+    },
     {
       "id": "4945495",
       "time": "2026-06-20 06:30:23",
@@ -162500,17 +162511,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Gains by 2.32% — Top commodity gainers are Cocoa (2.32%), Barley (2%) and Coffee (1.41%). Biggest losers are Oat (-2.30%), Palm Oil (-1.67%) and Rice (-1.23%)."
-    },
-    {
-      "id": "te:markets:558800",
-      "time": "2026-06-13 06:35:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Gains by 3.30% — Top commodity gainers are Platinum (3.30%), Copper (2.68%), Lithium Carbonate (2.40%) and Gold (0.22%)."
     }
   ]
 }
