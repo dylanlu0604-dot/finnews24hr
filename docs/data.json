@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-20 02:17:36",
-  "count": 17759,
+  "updated": "2026-06-20 02:21:38",
+  "count": 17758,
   "items": [
+    {
+      "id": "te:markets:560544",
+      "time": "2026-06-20 02:20:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 2.29% — Top commodity losers are Platinum (-2.29%), Gold (-1.61%) and Silver (-1.20%)."
+    },
     {
       "id": "4945394",
       "time": "2026-06-20 02:16:53",
@@ -163568,26 +163579,6 @@
         "Important"
       ],
       "text": "【Refinitiv: UAE agrees to unfreeze tens of billions of dollars for Iran】Refinitiv sources say the UAE has agreed to unfreeze between $10 bln and $20 bln of Iranian funds after weeks of Iranian strikes on the UAE and amid wider US–Israel clashes with Iran. One source said the UAE will release $10 bln in total, with more than $3 bln already delivered; another put the total at $20 bln. The arrangement is reported to be contingent on Iran halting missile and drone attacks on the UAE; Tehran’s last direct strike on the UAE was May 4. Sources say the deal includes restoring bilateral relations, including intelligence-sharing and economic cooperation, and that Iran has approached at least two other Gulf Arab states about similar arrangements. Officials framed the move as a way for Iran to claim wartime compensation while allowing Washington to assert it made no payments and for the UAE to secure its safety and protect Dubai’s hub status."
-    },
-    {
-      "id": "te:markets:558790",
-      "time": "2026-06-13 02:20:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Copper Gains by 2.96% — Top commodity gainers are Copper (2.96%), Platinum (2.77%), Lithium Carbonate (2.40%) and Gold (0.38%)."
-    },
-    {
-      "id": "mkt:019ebd0e-55b0-7dd8-afe5-577d86cbc610",
-      "time": "2026-06-13 02:18:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TASNIM NEWS: Iran's foreign minister Araghchi will appear on tonight's Special News Dialogue program; exact airtime unknown."
     }
   ]
 }
