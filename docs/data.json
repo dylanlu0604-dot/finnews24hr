@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-19 14:24:12",
-  "count": 18684,
+  "updated": "2026-06-19 14:28:21",
+  "count": 18691,
   "items": [
+    {
+      "id": "4944787",
+      "time": "2026-06-19 14:26:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國交易所將盤前交易啟動時間推遲至2027年底。"
+    },
+    {
+      "id": "mkt:019ede8f-60ff-7dd8-b08f-5a2f8247ba3a",
+      "time": "2026-06-19 14:26:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK housing minister says the prime minister has made clear he will fight any leadership challenge."
+    },
+    {
+      "id": "mkt:019ede8e-d62a-7dd8-b08f-548d1ed25679",
+      "time": "2026-06-19 14:26:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Czech Prime Minister Andrej Babiš said the Czech Republic will not meet NATO's 2% minimum defence-spending target this year and will aim to reach it from next year."
+    },
+    {
+      "id": "mkt:019ede8e-ae26-7dd8-b08f-4e8d196fb43c",
+      "time": "2026-06-19 14:25:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Nissin Foods to recall ~287,000 cup noodles in Japan over possible plastic contamination】June 19 — Nissin Foods said it will voluntarily recall about 287,000 units of its cup fried-noodle product Nissin Sauce Yakisoba Cup after possible contamination with synthetic resin fragments. The company said the contamination likely came from a malfunction in equipment that adds powdered sauce. Affected packs were produced at the group’s East Japan Myojo Saitama plant and carry a best‑before date of Sept. 10, 2026."
+    },
+    {
+      "id": "4944786",
+      "time": "2026-06-19 14:25:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓股價收跌5.6%，創2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "te:markets:560358",
+      "time": "2026-06-19 14:25:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Sterling Drops After Burnham Win — The British pound slipped below $1.32, its lowest level since late March, after Greater Manchester Mayor Andy Burnham won the Makerfield by-election with 54.8% of the vote, strengthening his position as a potential challenger to Prime Minister Keir Starmer. Investors also digested the latest decisions from the Bank of England and the US Federal Reserve. As expected, the BoE voted 7–2 to keep interest rates unchanged at 3.75%, while maintaining a cautious outlook due to uncertainty surrounding the economic impact of Middle East-related energy shocks. The BoE reiterated its readiness to respond to inflation pressures, although it lowered its forecast for peak inflation in Q4 2026 to 3.25% from 3.6%. The decision followed the Fed's move to hold rates steady, despite a growing number of policymakers signaling the possibility of further tightening this year."
+    },
+    {
+      "id": "4944785",
+      "time": "2026-06-19 14:25:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷克通訊社CTK援引總理巴比什表態：捷克今年將無法達標北約設定的2%最低國防開支目標，力爭自明年起滿足該要求。"
+    },
+    {
+      "id": "te:markets:560356",
+      "time": "2026-06-19 14:24:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Weaker Open — European equity markets were on track to open lower on Friday as investors adopted a more cautious stance following a pivotal week that featured a landmark US-Iran peace agreement and a series of major central bank policy decisions. Technology shares could also face pressure after Accenture lowered its annual revenue growth forecast, citing a challenging demand environment. In Europe, investors will focus on Germany’s producer price index data as well as UK retail sales and consumer confidence figures for further clues on the region’s economic outlook. With no major corporate earnings releases scheduled, attention is expected to remain on macroeconomic developments and monetary policy signals. In premarket trading, Euro Stoxx 50 futures fell 0.4%, while Stoxx 600 futures were down 0.2%, pointing to a softer start for European markets."
+    },
+    {
+      "id": "4944784",
+      "time": "2026-06-19 14:24:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【食品中或混入異物 日本一企業召回超28萬份產品】當地時間6月19日，日本食品企業日清食品宣佈，因旗下一款杯裝炒麵產品“日清醬汁炒麵杯”中可能混入合成樹脂碎片，決定自主召回約28.7萬件已出貨的產品。日清食品表示，可能是向產品中投入粉末醬料的裝置部分出現故障時，導致樹脂碎片混入產品。此次召回物件為該集團旗下東日本明星埼玉工廠生產、最佳食用期至2026年9月10日的相關產品。（央視新聞）"
+    },
     {
       "id": "4944783",
       "time": "2026-06-19 14:22:42",
@@ -171970,25 +172054,6 @@
         "國際"
       ],
       "text": "【伊朗使館諷刺美國舉辦“戰爭杯”】據俄羅斯《莫斯科共青團員報》網站6月11日報道，2026年世界盃開幕前夕，伊朗駐印度尼西亞大使館在社交平臺X上釋出了一張具有諷刺意味的海報。畫面上是一座由人類頭骨堆成的山，山巔放置著足球獎盃。獎盃中央原本的地球圖案也被頭骨取代，英文配文為“War Cup”（戰爭杯）。 海報下方的說明包含更明顯的暗示：“戰爭之杯。當成為每場戰爭常客的國家變成世界盃的東道主之時。”顯然，伊朗外交官暗指的是美國——本屆賽事的主辦國之一，另兩個主辦國為墨西哥和加拿大。“War Cup”一詞也取了“World Cup”（世界盃）的諧音。（參考訊息）"
-    },
-    {
-      "id": "4931939",
-      "time": "2026-06-12 14:27:58",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行釋放鷹派訊號，德債漲勢受限】受市場風險偏好回升推動，德國債券迎來反彈，但歐洲央行於週四加息後釋放的鷹派言論，將抑制本輪漲勢。筆者昨日曾指出，兩年期國債收益率的均衡水平為 2.65%，這一水平大機率將維持不變。根據歐洲央行更新的宏觀經濟預測，今年歐元區調和消費者物價指數（HICP）通脹率將從此前預估的 2.6% 升至 3%。若歐元區經濟走勢符合該預期，歐洲央行仍有較大加息空間。該行同時預測，明年通脹率仍將高於 2%，直至 2028 年才會回落至目標水平。相比之下，經濟增長受到的衝擊相對有限，今年歐元區實際國內生產總值（GDP）增速預期從 0.9% 小幅下調至 0.8%。歐洲央行會議結束後，知情人士稱，央行官員不排除在 7 月 23 日的下次會議上再度加息。歐洲央行管理委員會委員、德國聯邦銀行行長約阿希姆・納格爾也表態稱，“如有必要”，歐洲央行準備在下個月繼續加息。"
-    },
-    {
-      "id": "4931938",
-      "time": "2026-06-12 14:24:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【螞蟻集團旗下投資諮詢公司變更法定代表人】天眼查App顯示，近日，杭州螞蟻未來投資諮詢有限公司發生工商變更，周芸卸任法定代表人、董事，由謝誠接任上述職務。該公司成立於2009年8月，註冊資本2400萬人民幣，經營範圍包括服務：投資諮詢（除證券、期貨）、投資管理等，由螞蟻科技集團股份有限公司全資持股。"
     }
   ]
 }
