@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-20 01:29:14",
-  "count": 17787,
+  "updated": "2026-06-20 01:33:20",
+  "count": 17779,
   "items": [
+    {
+      "id": "mkt:019ee0f0-c1d4-7dd8-b099-da5bcb53a253",
+      "time": "2026-06-20 01:32:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil ministry says southern oilfields could recover to above 3 million bpd within one to two months."
+    },
+    {
+      "id": "4945381",
+      "time": "2026-06-20 01:31:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克國家通訊社訊息：伊拉克石油部表示，南部油田有望在 1 至 2 個月內恢復至 300 萬桶 / 日以上的原有產能。"
+    },
+    {
+      "id": "mkt:019ee0f0-40a3-7dd8-b099-d25693e0a63e",
+      "time": "2026-06-20 01:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's foreign ministry said Hezbollah should not be used as a tool of Iran."
+    },
+    {
+      "id": "mkt:019ee0ef-aeac-7dd8-b099-cebe1e971fac",
+      "time": "2026-06-20 01:31:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "France's foreign ministry said Israel should withdraw from Lebanon. A U.S.-Iran agreement includes a ceasefire in Lebanon."
+    },
+    {
+      "id": "mkt:019ee0ee-c3df-7dd8-b099-c4d39deaeca1",
+      "time": "2026-06-20 01:30:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Daily Telegraph reports two passenger trains collided near Bedford, north of London."
+    },
     {
       "id": "4945380",
       "time": "2026-06-20 01:24:38",
@@ -163736,118 +163785,6 @@
         "Importance 0"
       ],
       "text": "Ecuador Inflation Eases in May — Ecuador’s annual inflation rate eased to 0.9% in May 2026 from 2.6% in April. Price growth slowed for alcoholic beverages and tobacco (0.7% vs 1.6%), healthcare (4.1% vs 4.5%), communication (0.6% vs 0.7%), education (1.6% vs 1.7%), and restaurants and hotels (1.2% vs 1.4%). Meanwhile, deflation was recorded in food and non-alcoholic beverages (-0.1% vs 0.3%), clothing and footwear (-5.0% vs 5.2%), housing and utilities (-7.2% vs 17.3%), and recreation and culture (-0.2% vs 0.4%). On a monthly basis, consumer prices fell 0.6%, reversing a 0.5% increase in April."
-    },
-    {
-      "id": "mkt:019ebce4-c09d-7dd8-afe4-a1f1e6468526",
-      "time": "2026-06-13 01:32:48",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian state TV cited the foreign ministry spokesman as saying the ministry cannot confirm any details of a memorandum of understanding reported by media."
-    },
-    {
-      "id": "mkt:019ebce4-602e-7dd8-afe4-9a45be91f8f1",
-      "time": "2026-06-13 01:32:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior U.S. government official said Europe has been discussed as the agreement's signing venue but no decision has been made."
-    },
-    {
-      "id": "4933275",
-      "time": "2026-06-13 01:32:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人向國家電視臺表示，無法證實媒體披露的這份諒解備忘錄的任何細節。"
-    },
-    {
-      "id": "4933274",
-      "time": "2026-06-13 01:32:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員： 曾考慮在歐洲簽署協議，但目前尚未作出最終決定。"
-    },
-    {
-      "id": "4933273",
-      "time": "2026-06-13 01:31:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員： 巴基斯坦與卡達方面一直髮揮著有益的斡旋作用。"
-    },
-    {
-      "id": "4933272",
-      "time": "2026-06-13 01:30:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：美國煉油廠仍可進一步接納委內瑞拉原油。"
-    },
-    {
-      "id": "mkt:019ebce2-fd30-7dd8-afe4-96bab137c3f7",
-      "time": "2026-06-13 01:30:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said U.S. refiners can still absorb more Venezuelan crude."
-    },
-    {
-      "id": "4933271",
-      "time": "2026-06-13 01:30:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：據訊息稱，伊朗最高領袖對當前談判進展表示認可。"
-    },
-    {
-      "id": "mkt:019ebce2-9250-7dd8-afe4-8ad86ec9e77e",
-      "time": "2026-06-13 01:30:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior US government official said Iran's Supreme Leader is satisfied with progress in talks."
-    },
-    {
-      "id": "mkt:019ebce2-781e-7dd8-afe4-85ec407ac2c4",
-      "time": "2026-06-13 01:30:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior U.S. government official said the U.S. will need to study how to ensure implementation of the agreement and envisions a 60-day technical negotiation."
-    },
-    {
-      "id": "4933270",
-      "time": "2026-06-13 01:30:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：認為會進行60天的技術層面會談。"
-    },
-    {
-      "id": "mkt:019ebce1-d00e-7dd8-afe4-7ab301f6dba0",
-      "time": "2026-06-13 01:29:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian state TV says Iran's decision-making bodies are currently meeting to discuss a memorandum of understanding."
-    },
-    {
-      "id": "4933269",
-      "time": "2026-06-13 01:29:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：美方必須研究如何落實相關約定。"
     }
   ]
 }
