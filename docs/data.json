@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-20 03:46:17",
-  "count": 17672,
+  "updated": "2026-06-20 03:50:11",
+  "count": 17669,
   "items": [
+    {
+      "id": "mkt:019ee16e-3367-7dd8-b09a-cd55d839d649",
+      "time": "2026-06-20 03:49:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said about 700 vessels are transiting the Strait of Hormuz and warned Iran must reach an agreement within 60 days or the United States will take measures that will make them unhappy."
+    },
+    {
+      "id": "4945426",
+      "time": "2026-06-20 03:49:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗必須在 60 天內達成協議，否則我們將採取令其難以接受的行動。"
+    },
+    {
+      "id": "mkt:019ee16c-caf5-7dd8-b09a-c7c3df44667b",
+      "time": "2026-06-20 03:47:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said vessels in the Strait of Hormuz are transiting."
+    },
+    {
+      "id": "4945425",
+      "time": "2026-06-20 03:47:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：約有700艘船隻透過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019ee16c-7dc4-7dd8-b09a-ba7043d14046",
+      "time": "2026-06-20 03:47:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli forces continue shelling southern Lebanon】Al Jazeera reported Israeli artillery shelled the Ali al-Taher heights in southern Lebanon, firing three shells; the strike occurred after a ceasefire had been declared earlier between Israel and Hezbollah."
+    },
+    {
+      "id": "4945424",
+      "time": "2026-06-20 03:47:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：船隻正透過霍爾木茲海峽航行。"
+    },
+    {
+      "id": "4945423",
+      "time": "2026-06-20 03:46:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍隊持續炮擊黎巴嫩南部。"
+    },
     {
       "id": "4945422",
       "time": "2026-06-20 03:44:43",
@@ -162658,93 +162718,6 @@
         "宏觀"
       ],
       "text": "哥倫比亞財政部預計2027年通脹率為4.4%。"
-    },
-    {
-      "id": "4933389",
-      "time": "2026-06-13 03:50:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會宣佈有條件批准部分無人機系統和路由器。"
-    },
-    {
-      "id": "mkt:019ebd61-ccf5-7dd8-afe6-e357a8d7c4ce",
-      "time": "2026-06-13 03:49:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Traders' dollar bullishness highest since Feb 2025】Hedge funds, asset managers and other speculators held $27.8 bln of net USD bullish positions as of June 9, the largest since Feb 2025, CFTC data show. The build in longs reflects a move into the dollar's safe‑haven amid the Middle East war; the currency has strengthened since the conflict began in late Feb and has been highly sensitive to the oil-price spike."
-    },
-    {
-      "id": "4933388",
-      "time": "2026-06-13 03:48:34",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "哥倫比亞財政部預計2026年通脹率為6.0%，此前預估為3.2%。"
-    },
-    {
-      "id": "4933387",
-      "time": "2026-06-13 03:48:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "哥倫比亞財政部預計2027年經濟增長2.2%。"
-    },
-    {
-      "id": "4933386",
-      "time": "2026-06-13 03:48:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "哥倫比亞財政部維持2026年經濟增長2.6%的預測。"
-    },
-    {
-      "id": "4933385",
-      "time": "2026-06-13 03:48:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數本週跌超0.3%】週五（6月12日）紐約尾盤，ICE美元指數跌0.12%，報99.739點，本週累計下跌0.33%，6月12日北京時間01:00達到100.314點，隨後迅速跳水至99.586點。彭博美元指數漲0.02%，報1206.98點，本週累跌0.40%，整體交投區間為1213.41-1205.55點。美元兌日元漲0.18%，報160.23日元，本週累跌0.04%，整體投區間為160.59-159.58日元。"
-    },
-    {
-      "id": "4933384",
-      "time": "2026-06-13 03:48:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "UNIFOR：UNIFOR與加拿大航空達成的協議規定，首年薪資上調12%，隨後三年每年遞增3%。"
-    },
-    {
-      "id": "4933383",
-      "time": "2026-06-13 03:47:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：霍爾木茲海峽不存在國際水域；我們的利劍將永遠懸在霍爾木茲海峽之上。"
-    },
-    {
-      "id": "4933382",
-      "time": "2026-06-13 03:47:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "UNIFOR：UNIFOR與加拿大航空客服代表正式批准四年期集體協議，含21%複合薪資漲幅及其他福利。"
-    },
-    {
-      "id": "4933381",
-      "time": "2026-06-13 03:46:32",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【交易員對美元看漲程度升至逾一年來最高水平】交易員對美元的看漲程度升至逾一年來最高水平，中東戰爭鞏固了美元的避險地位。根據美國商品期貨交易委員會（CFTC）週五公佈並由彭博彙編的資料，截至6月9日，對沖基金、資產管理公司及其他投機交易員累計持有價值278億美元的美元看漲頭寸。這是2025年2月以來最高水平。這一持倉變化顯示，市場對全球主要儲備貨幣的看漲情緒正在升溫。自2月底伊朗戰爭爆發以來，美元持續走強，並表現出對油價上漲的高度敏感性。"
     }
   ]
 }
