@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-20 03:42:24",
-  "count": 17673,
+  "updated": "2026-06-20 03:46:17",
+  "count": 17672,
   "items": [
+    {
+      "id": "4945422",
+      "time": "2026-06-20 03:44:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在安德魯斯聯合基地與空軍官兵一同揭曉全新空軍一號專機。"
+    },
+    {
+      "id": "mkt:019ee169-84f2-7dd8-b09a-b2fb6623bf7f",
+      "time": "2026-06-20 03:44:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump greeted U.S. Air Force personnel and delivered remarks."
+    },
     {
       "id": "mkt:019ee164-0ff9-7dd8-b09a-ad4fc975cc24",
       "time": "2026-06-20 03:38:11",
@@ -162729,38 +162745,6 @@
         "國際"
       ],
       "text": "【交易員對美元看漲程度升至逾一年來最高水平】交易員對美元的看漲程度升至逾一年來最高水平，中東戰爭鞏固了美元的避險地位。根據美國商品期貨交易委員會（CFTC）週五公佈並由彭博彙編的資料，截至6月9日，對沖基金、資產管理公司及其他投機交易員累計持有價值278億美元的美元看漲頭寸。這是2025年2月以來最高水平。這一持倉變化顯示，市場對全球主要儲備貨幣的看漲情緒正在升溫。自2月底伊朗戰爭爆發以來，美元持續走強，並表現出對油價上漲的高度敏感性。"
-    },
-    {
-      "id": "mkt:019ebd5d-ba3e-7dd8-afe6-df06f9d2a059",
-      "time": "2026-06-13 03:44:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's foreign minister Araghchi said Iran's sword will always hang over the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019ebd5d-577f-7dd8-afe6-d7a08536aec2",
-      "time": "2026-06-13 03:44:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian foreign minister Araghchi said the Strait of Hormuz is not international waters."
-    },
-    {
-      "id": "4933380",
-      "time": "2026-06-13 03:44:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國FDA批准首款面向兒童的非處方連續血糖監測儀。"
     }
   ]
 }
