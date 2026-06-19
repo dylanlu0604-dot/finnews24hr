@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-19 21:26:20",
-  "count": 18007,
+  "updated": "2026-06-19 21:30:31",
+  "count": 18001,
   "items": [
+    {
+      "id": "4945221",
+      "time": "2026-06-19 21:28:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Spotify 稱此前故障現已全部修復。"
+    },
+    {
+      "id": "mkt:019ee010-37f0-7dd8-b096-4a53529e3747",
+      "time": "2026-06-19 21:26:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israel official confirms ceasefire with HEZBOLLAH】Israeli Channel 12 on 19 cited an Israeli official saying Israel and HEZBOLLAH reached a ceasefire. The official said Israeli forces will remain in the southern Lebanon \"security zone\" and \"if they attack us, we will strike back.\""
+    },
+    {
+      "id": "4945220",
+      "time": "2026-06-19 21:26:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列第12頻道電視臺19日援引一名以色列官員的話報道說，以色列與黎巴嫩真主黨達成了停火。 這名官員說，我們仍將留在黎巴嫩南部的“安全區”內。“如果他們攻擊我們，我們將予以還擊”。（新華社）"
+    },
     {
       "id": "mkt:019ee00f-0fa3-7dd8-b096-4530298acdee",
       "time": "2026-06-19 21:25:43",
@@ -9,6 +39,14 @@
         "MKT News"
       ],
       "text": "Israel Defense Forces spokesman said the IDF will remain deployed in the \"buffer zone\" as long as Israeli citizens face a threat from Hezbollah."
+    },
+    {
+      "id": "4945219",
+      "time": "2026-06-19 21:25:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方發言人：只要以色列公民仍遭受真主黨威脅，以軍就會繼續留在“緩衝區”。"
     },
     {
       "id": "4945218",
@@ -165939,91 +165977,6 @@
         "焦點"
       ],
       "text": "納斯達克中國金龍指數漲超1%，360數科漲0.67%。"
-    },
-    {
-      "id": "4932960",
-      "time": "2026-06-12 21:30:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多股票交易所S&P/TSX綜合指數開盤上漲74.00點，漲幅0.21%，報34745.46點。"
-    },
-    {
-      "id": "mkt:019ebc06-b336-7dd8-afdf-5b5a5391839e",
-      "time": "2026-06-12 21:30:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Redfin: SpaceX IPO wealth could buy 40% of San Antonio homes】Redfin estimates wealth produced by a SpaceX IPO, if pooled by current and former employees, could buy about 40% of homes in San Antonio — the nearest major metro to SpaceX’s Starbase HQ in Texas. The report’s alternate scenarios show employees could purchase roughly 15% of Houston’s housing stock or all homes in McAllen (about 80 miles from Starbase) and still have about $74bn remaining."
-    },
-    {
-      "id": "mkt:019ebc06-8539-7dd8-afdf-5567a8547a08",
-      "time": "2026-06-12 21:30:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Elon Musk said he is committed to advancing the development of the space industry."
-    },
-    {
-      "id": "4932959",
-      "time": "2026-06-12 21:29:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃隆・馬斯克在 X 平臺直播中談及SpaceX上市事宜。"
-    },
-    {
-      "id": "4932958",
-      "time": "2026-06-12 21:29:21",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【滙豐：風險天平正日益不利於歐元】滙豐分析師在一份報告中表示，儘管存在地緣政治緊張局勢，歐元表現相對穩定，但風險天平正向不利於該匯率的方向傾斜。“至關重要的是，貨幣前景有利於美元。“雖然市場反映了對歐洲央行進一步上調利率的預期，但滙豐預計其將在2027年降息。他們表示，因此利差可能會轉向有利於美元，特別是如果美聯儲轉而發出收緊政策的訊號。他們表示，由於結構性阻力，歐元的基本面地位也在減弱。隨著製造業競爭力下降，歐元區的經常賬戶盈餘已經收窄。他們表示，隨著2027年4月法國大選臨近，政治風險也可能重新轉向歐洲。歐元下跌0.1%，至1.1565美元。"
-    },
-    {
-      "id": "4932957",
-      "time": "2026-06-12 21:28:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新萊應材：目前公司半導體業務在手訂單保持較好水平 下游客戶需求旺盛】新萊應材近日接受機構調研時表示，2026年，全球尤其是中國大陸半導體行業正處於新一輪擴產高峰期，國內晶圓廠資本開支保持高位，疊加供應鏈國產化趨勢進一步加速，為公司泛半導體業務帶來顯著的訂單增量。目前在手訂單保持較好水平，下游客戶需求旺盛。公司將繼續抓住半導體擴產高峰和國產替代的雙重機遇，加快產能匹配和市場拓展，預計半導體業務後續季度仍將保持快速增長。"
-    },
-    {
-      "id": "4932956",
-      "time": "2026-06-12 21:28:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長三角三省一市推動智慧航運一體化發展】長三角智慧航運網路提升與融合應用座談會上介紹，長三角三省一市正推動數字經濟與海洋經濟融合發展，計劃在未來5年分階段推動區域智慧航運高質量發展，建成全國智慧航運創新發展先行區、示範區和策源地。長三角三省一市通訊、海事主管部門介紹，上海已建成涉海5G基站2300餘個，沿海5G覆蓋率顯著提高，洋山港自動駕駛、國產大型郵輪5G+衛星網際網路協同部署等一批標杆專案落地。"
-    },
-    {
-      "id": "mkt:019ebc04-c40f-7dd8-afdf-4a58d194677a",
-      "time": "2026-06-12 21:28:09",
-      "tags": [
-        "MKT News",
-        "HSBA.L",
-        "Impact bearish"
-      ],
-      "text": "Sources said HSBC has about US$400m exposure to distressed UAE company IFFCO."
-    },
-    {
-      "id": "4932955",
-      "time": "2026-06-12 21:27:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Redfin稱SpaceX的財富可買下聖安東尼奧40%的房屋】Redfin的一份新報告稱，憑藉透過SpaceX IPO創造的財富，假設現有和前員工將資金彙集起來，估計可以買下聖安東尼奧40%的房屋。聖安東尼奧是距離該公司位於得克薩斯州星際基地總部最近的美國主要大都市區。另外幾個假設情景是：員工們估計可以買下休斯敦15%的房屋，休斯敦是全國最大的住房市場之一；或者買下得克薩斯州McAllen的每一套房屋。報告補充說，McAllen比其他市場小得多，但距離星際基地僅80英里，而且員工們還會剩下約740億美元。"
-    },
-    {
-      "id": "4932954",
-      "time": "2026-06-12 21:26:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亨鑫科技：簽訂47.26億元光熱專案合同】亨鑫科技公告，公司間接非全資附屬公司青海眾控於2026年6月12日就德令哈350兆瓦光熱專案與協鑫集團旗下公司簽訂建築工程承包合同、裝置供貨合同及裝置安裝工程承包合同，合同總價為人民幣47.26億元（含稅）。該交易構成非常重大收購，須經股東批准，公司將召開股東特別大會審議相關事項。"
     }
   ]
 }
