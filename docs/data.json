@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-19 17:16:02",
-  "count": 18293,
+  "updated": "2026-06-19 17:20:07",
+  "count": 18284,
   "items": [
+    {
+      "id": "em:jjsj_zgsj:202606193776854675",
+      "time": "2026-06-19 17:18:15",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【交通運輸部：6月18日全社會跨區域人員流動量完成21602.5萬人次】交通運輸部訊息，6月18日，全社會跨區域人員流動量21602.5萬人次，環比增長30.7%，同比增長7%。"
+    },
+    {
+      "id": "mkt:019edf2b-e09e-7dd8-b091-ea5ea27dc87d",
+      "time": "2026-06-19 17:17:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "European retailers' association said AI-generated advertising should be exempt from EU transparency rules."
+    },
+    {
+      "id": "mkt:019edf2a-c01c-7dd8-b091-e4b4bd8c8755",
+      "time": "2026-06-19 17:16:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK Prime Minister Starmer says he will contest any Labour leadership challenge】UK Prime Minister Starmer said he \"will contest\" any Labour leadership challenge and \"will not back down.\" He reiterated he won a mandate two years ago to drive change and cited work on stabilising the economy and reducing NHS waiting times. Andy Burnham's recent win of a parliamentary seat has cleared a potential path to challenge; Starmer said he has not yet spoken to Burnham directly but will seek to and has congratulated him."
+    },
     {
       "id": "4944950",
       "time": "2026-06-19 17:12:49",
@@ -168242,113 +168271,6 @@
         "市場"
       ],
       "text": "【嘉德利：股票交易異常波動 不存在應披露未披露重大資訊】嘉德利公告稱，公司股票於2026年6月10日-6月12日連續三個交易日內日收盤價格跌幅偏離值累計超20%，屬於股票交易異常波動情形。經核查，公司目前生產經營正常，不存在應披露而未披露的重大資訊，未發現對股價有重大影響的媒體報道或市場傳聞，未涉及市場熱點概念，公司董監高、控股股東及其一致行動人在此期間無買賣公司股票情況。公司提醒投資者注意二級市場交易風險。"
-    },
-    {
-      "id": "4932403",
-      "time": "2026-06-12 17:19:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【專家：特朗普試圖從伊朗戰略災難中尋找“體面退路”】義大利美國大學國際關係講師安德里亞·德西表示，美國總統特朗普正在尋求一個“挽回顏面的出口”，以結束這場已成為“戰略災難”的對伊戰爭。德西指出：“特朗普在社交媒體上的反覆無常，折射出政府內部的分裂。過去數小時釋放出的訊號是積極的，我們希望這能推動實現突破，但局勢仍可能瞬息萬變。”他表示，洩露的最終檔案顯示，為了達成協議，特朗普可能已放棄了此前提出的一些要求。德西補充道：“與此同時，我們需要謹慎對待相關表態，因為美國不僅要向本國選民，也要向以色列推銷這份協議。”"
-    },
-    {
-      "id": "4932402",
-      "time": "2026-06-12 17:19:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商港口：5月集裝箱吞吐量1798.1萬TEU，同比增1.6%】招商港口公告，2026年5月集裝箱總計1798.1萬TEU，同比增長1.6%，本年累計8840萬TEU，同比增長5.5%；散雜貨總計9939.2萬噸，同比下降13.0%，本年累計5.12億噸，同比下降2.8%。其中，內地碼頭集裝箱1418.7萬TEU，同比增長2.2%；海外碼頭集裝箱337.6萬TEU，同比下降0.2%。"
-    },
-    {
-      "id": "mkt:019ebb21-5b8d-7dd8-afda-dccf3d61feca",
-      "time": "2026-06-12 17:19:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Expert: TRUMP seeks face‑saving exit from Iran 'strategic disaster'】Andrea Dessì, lecturer in international relations at the Italian American University, said President TRUMP is seeking a \"face‑saving exit\" to end what he called a \"strategic disaster\" in the Iran war. Dessì said TRUMP's erratic social‑media posts reflect splits inside the administration; recent signals are positive but the situation remains volatile. Leaked final documents suggest TRUMP may have dropped some earlier demands to secure a deal. Dessì cautioned any accord will need to be sold both to US voters and to Israel."
-    },
-    {
-      "id": "4932401",
-      "time": "2026-06-12 17:19:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Space X表示，SpaceX將坦誠披露未來面臨的各類挑戰。"
-    },
-    {
-      "id": "4932400",
-      "time": "2026-06-12 17:19:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國和伊朗據悉趨近達成重開霍爾木茲海峽的協議。"
-    },
-    {
-      "id": "mkt:019ebb20-0b95-7dd8-afda-d5984aa105dc",
-      "time": "2026-06-12 17:18:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "A G7 official said the US and Iran could sign a memorandum of understanding as early as Sunday in Geneva."
-    },
-    {
-      "id": "4932399",
-      "time": "2026-06-12 17:17:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新氧就文章標題不當向馬思純道歉】6月12日，@新氧醫美APP 釋出致歉宣告，稱：6月11日我司微信公眾號釋出的文章標題嚴重不當一事，我們在此向馬思純女士、她的家人、粉絲以及全體網友鄭重道歉。"
-    },
-    {
-      "id": "4932398",
-      "time": "2026-06-12 17:17:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "七國集團官員表示，美伊諒解備忘錄最早可能於週日簽署。"
-    },
-    {
-      "id": "4932397",
-      "time": "2026-06-12 17:17:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【恒生香港交易所滬深港通中國企業指數調整時間表更新】恒生指數公司公告，為最佳化恒生香港交易所滬深港通中國企業指數的管理，指數的一般季度調整時間表將從調整月（三月、六月、九月及十二月）的第一個星期五改為第二個星期五收市後進行。此更新將於截至2026年6月30日之指數檢討中開始採用。因此，2026年9月的季度調整將於2026年9月14日（星期一）生效。"
-    },
-    {
-      "id": "4932396",
-      "time": "2026-06-12 17:16:32",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "七國集團官員稱，美伊協議或將在瑞士日內瓦簽署。"
-    },
-    {
-      "id": "mkt:019ebb1e-3d4d-7dd8-afda-cc0b9c68d329",
-      "time": "2026-06-12 17:16:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "EKHBARIYA reports Iran has demanded that an agreement with the U.S. be signed in a European country to confer the pact international status."
-    },
-    {
-      "id": "4932395",
-      "time": "2026-06-12 17:16:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國和伊朗有望在下週七國集團峰會前後達成和平協議。"
     }
   ]
 }
