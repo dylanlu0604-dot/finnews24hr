@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-19 12:57:38",
-  "count": 18774,
+  "updated": "2026-06-19 13:01:37",
+  "count": 18769,
   "items": [
+    {
+      "id": "4944718",
+      "time": "2026-06-19 13:00:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率上升5個基點至3.71%。"
+    },
+    {
+      "id": "4944717",
+      "time": "2026-06-19 13:00:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報4124.57美元/盎司。"
+    },
+    {
+      "id": "4944716",
+      "time": "2026-06-19 13:00:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "4944715",
+      "time": "2026-06-19 12:59:28",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【亞洲股市終結五日連漲 印度科技股大跌】因多地區市場休市、交投清淡，亞洲股市全線回落，投資者評估美伊和平協議能否持續生效。MSCI亞太指數最大跌幅達1.2%，三星電子與必和必拓拖累大盤走低。韓國綜合股價指數（Kospi）領跌亞太市場，跌幅一度達2%。埃森哲集團下調營收增長預期後，全球科技股遭遇拋售潮，印度軟體企業同步大幅下挫。週五中國大陸、中國香港、中國臺灣及美國市場均因節假日休市。投資者正密切關注德黑蘭核計劃談判以及停火協議能否持續。儘管油價下跌，通脹擔憂仍持續存在，包括美聯儲在內的多家央行維持鷹派立場。新加坡SyfePte投資主管Ritesh Ganeriwal表示：“本週市場收到了兩個重要訊號，但方向相反。目前的訊號很明確：即使戰爭結束，通脹威脅也不會消失。”Infosys下跌8.7%，塔塔諮詢服務也下跌6.5%，因埃森哲的悲觀展望加劇了市場對這一行業的擔憂，該行業今年已失去近30%的市值。"
+    },
     {
       "id": "4944714",
       "time": "2026-06-19 12:56:00",
@@ -172755,94 +172791,6 @@
         "國際"
       ],
       "text": "歐洲央行管委內格爾：即使戰爭很快結束，本週的加息也是必要的。"
-    },
-    {
-      "id": "4931830",
-      "time": "2026-06-12 13:01:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委內格爾：下次會議將保留所有選項。"
-    },
-    {
-      "id": "4931829",
-      "time": "2026-06-12 13:00:56",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲央行管委內格爾表示，如有必要，歐洲央行準備在7月份再次加息。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606123769751423",
-      "time": "2026-06-12 13:00:47",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行管委內格爾表示，歐洲央行已做好準備，如有必要，將於7月再次上調利率。"
-    },
-    {
-      "id": "mkt:019eba34-2482-7dd8-afd1-e1addd928842",
-      "time": "2026-06-12 13:00:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Nagel said policymakers have kept all options open for July and stand ready to respond again if needed, adding rate hikes are necessary as higher energy prices increasingly feed through to other prices."
-    },
-    {
-      "id": "4931828",
-      "time": "2026-06-12 13:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科威特下調7月銷往亞洲的原油價格】據路透社週五看到的一份價格檔案，科威特已大幅下調7月銷往亞洲的科威特出口原油官方售價，定為較阿曼/迪拜報價均價每桶升水5.25美元，較上月每桶下調7.50美元。科威特同時將7月超輕原油的官方售價每桶下調7.50美元，較阿曼/迪拜報價每桶升水5.25美元。"
-    },
-    {
-      "id": "mkt:019eba33-86e3-7dd8-afd1-df51ed11ae76",
-      "time": "2026-06-12 12:59:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Kuwait cuts July OSP for crude to Asia by $7.50/bbl】A pricing file seen by Refinitiv on Friday shows Kuwait has cut its July official selling price for export crude to Asia to $5.25/bbl above the Oman/Dubai average, down $7.50/bbl from June. Kuwait also lowered the July official selling price for its super-light crude by $7.50/bbl to $5.25/bbl above the Oman/Dubai average."
-    },
-    {
-      "id": "4931827",
-      "time": "2026-06-12 12:59:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：江蘇貝爾家居科技股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "mkt:019eba33-1f4a-7dd8-afd1-d45ca2d37d86",
-      "time": "2026-06-12 12:59:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKEX filing: Jiangsu Bell Home Furnishings Technology Co., Ltd. has filed a listing application with HKEX."
-    },
-    {
-      "id": "4931826",
-      "time": "2026-06-12 12:58:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美政府就法院裁定肯尼迪中心移除特朗普名字提出上訴】據當地媒體報道，美國政府和肯尼迪表演藝術中心董事會11日分別就聯邦地區法官要求將美國總統特朗普的名字從肯尼迪表演藝術中心移除的裁決提出上訴。據報道，特朗普政府當天向哥倫比亞特區巡迴上訴法院提出上訴，旨在推翻聯邦地區法院此前作出的裁決。肯尼迪中心董事會當天也投票決定就聯邦地區法院的裁決提起上訴，申請暫緩執行該裁決。媒體指出，特朗普去年1月開啟第二個總統任期後不久就撤換了肯尼迪中心原有管理層，並親自挑選成員組成新的董事會。新董事會去年12月投票決定把肯尼迪中心更名為“特朗普-肯尼迪中心”。在肯尼迪中心宣佈更名後，該中心董事會成員喬伊絲·貝蒂向法院提起訴訟，要求撤銷更名決定並移除特朗普的名字。（新華社）"
     }
   ]
 }
