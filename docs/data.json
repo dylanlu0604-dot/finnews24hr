@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-19 23:43:01",
-  "count": 17878,
+  "updated": "2026-06-19 23:47:14",
+  "count": 17870,
   "items": [
+    {
+      "id": "mkt:019ee08d-7dc5-7dd8-b099-12a56d81e1a0",
+      "time": "2026-06-19 23:43:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign minister says US should be held responsible for any breaches of memorandum terms】Iranian media reported on the 19th that Foreign Minister Araghchi told Pakistan’s deputy prime minister and foreign minister Dar in a call that the US is obliged to end hostilities on all fronts, including Lebanon, and should be held responsible for any breach of the memorandum of understanding’s terms."
+    },
+    {
+      "id": "mkt:019ee08d-2792-7dd8-b099-0d17f561bfa5",
+      "time": "2026-06-19 23:43:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England to hold five gilt auctions in Q3."
+    },
+    {
+      "id": "4945346",
+      "time": "2026-06-19 23:43:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：美國應對任何違反諒解備忘錄條款的行為負責】據伊朗媒體19日報道，伊朗外交部長阿拉格齊當日在同巴基斯坦副總理兼外交部長達爾通話時稱，美國有義務和責任結束包括黎巴嫩在內的所有戰線的戰事，美國應對任何違反諒解備忘錄條款的行為負責。（新華社）"
+    },
     {
       "id": "mkt:019ee08b-f687-7dd8-b099-0211ccf270ea",
       "time": "2026-06-19 23:42:09",
@@ -164655,121 +164683,6 @@
         "國際"
       ],
       "text": "SpaceX美國IPO首日開盤報150美元，此前給出的IPO發行價為每股135美元。據報道，此次IPO吸引逾3500億美元認購需求，近三分之一機構未獲配。"
-    },
-    {
-      "id": "4933200",
-      "time": "2026-06-12 23:47:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行納格爾： 歐洲央行必須採取行動，且舉措保持穩健。"
-    },
-    {
-      "id": "mkt:019ebc83-ffb8-7dd8-afe2-5ff87cf9a1a4",
-      "time": "2026-06-12 23:47:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "SpaceX (SPCX.O) opened at $150 in U.S. trade on its IPO debut; IPO was priced at $135 per share."
-    },
-    {
-      "id": "te:economy:558767",
-      "time": "2026-06-12 23:46:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Car Registrations",
-        "Importance 1"
-      ],
-      "text": "Brazil Vehicle Sales Jump in May — New vehicle sales in Brazil jumped 10.6% month-on-month to 274,700 units in May 2026. The month posted the highest average daily sales since December 2014, with 13,700 vehicles sold per day. Electrified models accounted for a record 19.5% of total sales. Fully electric vehicles reached a new high of 21,000 units, while hybrid models totaled 30,700 units. Imported vehicle sales amounted to 55,000 units in May and 223,000 units in the first five months of the year, up 17.4% and outpacing the growth of domestically produced vehicles. By origin, imports from China surged 86.6%, while those from Argentina fell 16.8%. Exports remained a concern, with shipments totaling 37,400 vehicles in May, marking a second consecutive monthly decline. Cumulative sales surpassed the 1 million-unit mark."
-    },
-    {
-      "id": "te:markets:558766",
-      "time": "2026-06-12 23:45:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 3"
-      ],
-      "text": "US Stocks Swing Higher Ahead of SpaceX IPO — US stocks swung higher on a choppy Friday, extending the rebound from yesterday on lingering hopes of a deal between the US and Iran, while markets awaited the SpaceX IPO. The S&P 500 and the Nasdaq 100 gained over 0.5% and the Dow jumped nearly 1%. The Iranian foreign ministry signaled a deal with the US has never been closer, driving energy prices to pull back following a series of mixed statements by President Trump. Financial companies gained as yields eased off session peaks, with Goldman Sachs and Blackstone adding over 3.5%. AI infrastructure companies wavered ahead of the SpaceX IPO, raising $75 billion for fresh expenditure on data centers and compute capacity. Reports indicated the stock was over four-fold oversubscribed, set to open around 20% over the IPO listing of $135 per share. Chips producers gained with AMD, Qualcomm, and Sandisk up 5%. Hyperscalers were lower, with Microsoft, Amazon, Apple, and Oracle down."
-    },
-    {
-      "id": "4933199",
-      "time": "2026-06-12 23:45:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，以色列北部多個區域拉響敵方戰機入侵警報。"
-    },
-    {
-      "id": "mkt:019ebc82-a31c-7dd8-afe2-5358730ec292",
-      "time": "2026-06-12 23:45:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israeli military: air-raid alerts sounded across multiple areas in northern Israel over reports of suspected hostile aircraft incursions."
-    },
-    {
-      "id": "mkt:019ebc81-c4a4-7dd8-afe2-4b7f9cc7a94f",
-      "time": "2026-06-12 23:44:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Analyst: SpaceX actual open may still be hours away; delayed starts common for large IPOs】Analyst Turner said pre-open indications have run for more than 90 minutes but the actual market open for SpaceX may still take several hours. Delayed starts are common for high-demand IPOs — last month Nasdaq-listed AI chipmaker and data-center operator Cerebras began trading around 1:00 p.m. NY time, nearly three hours after its first trade indications. SpaceX’s indicative opening price has drifted down to about $150, but remains more than 10% above the $135 IPO issue price."
-    },
-    {
-      "id": "4933198",
-      "time": "2026-06-12 23:43:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta高管Stone：（Facebook）服務開始恢復，完全恢復可能還需一點時間。"
-    },
-    {
-      "id": "mkt:019ebc80-e0cc-7dd8-afe2-466ef38b3f1f",
-      "time": "2026-06-12 23:43:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O): Facebook may take time to fully recover."
-    },
-    {
-      "id": "4933197",
-      "time": "2026-06-12 23:43:07",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "據CNBC：SpaceX(SPCX.O)的交易將在五分鐘後開始。"
-    },
-    {
-      "id": "mkt:019ebc80-3d7e-7dd8-afe2-3a8bc57374e8",
-      "time": "2026-06-12 23:43:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O"
-      ],
-      "text": "CNBC reports SpaceX (SPCX.O) will begin trading in five minutes."
     }
   ]
 }
