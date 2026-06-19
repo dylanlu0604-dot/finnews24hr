@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-19 21:09:22",
+  "updated": "2026-06-19 21:13:30",
   "count": 17999,
   "items": [
+    {
+      "id": "4945201",
+      "time": "2026-06-19 21:12:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列官員證實已進入停火狀態，並將繼續駐留安全區；若以色列遭襲擊，將予以回擊。"
+    },
+    {
+      "id": "mkt:019ee002-c419-7dd8-b095-d82163c61953",
+      "time": "2026-06-19 21:12:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Israeli officials said Israel has entered a ceasefire and will keep forces stationed in security zones; they said Israel will retaliate if attacked."
+    },
+    {
+      "id": "4945200",
+      "time": "2026-06-19 21:11:46",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【丹麥銀行：受增長前景疲軟和避險情緒影響，瑞典克朗或將下跌】丹麥銀行的Jesper Fjarstedt在一份報告中表示，瑞典克朗可能會小幅下跌，因為其仍然容易受到風險偏好波動的影響，且瑞典的經濟前景已經走弱。“全球經濟不確定性增加（尤其是與中東相關的不確定性），以及通脹上升的風險，正在拖累前景。“與此同時，與歐元區相比，瑞典的貨幣政策在短期內對克朗“呈中性至略微負面“，因為與歐洲央行相比，瑞典央行在加息方面更為謹慎。丹麥銀行預計，六個月後歐元兌瑞典克朗將從目前的10.9725升至11.2000。"
+    },
+    {
+      "id": "4945199",
+      "time": "2026-06-19 21:11:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小荒溝江口特大橋首節拱肋順利吊裝】6月19日，東北地區最大跨徑的鋼管混凝土拱橋——小荒溝江口特大橋首節拱肋順利吊裝，標誌著該橋正式進入上部結構施工階段。（央視新聞）"
+    },
+    {
+      "id": "4945198",
+      "time": "2026-06-19 21:10:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國政府延長了允許企業繼續與總部位於奧地利的盧克石油國際有限公司開展業務往來的許可期限。"
+    },
+    {
+      "id": "mkt:019ee001-7c8a-7dd8-b095-d76e0a7c0de5",
+      "time": "2026-06-19 21:10:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "UK government extends license allowing companies to continue doing business with Lukoil International, headquartered in Austria."
+    },
     {
       "id": "4945197",
       "time": "2026-06-19 21:07:57",
@@ -165887,61 +165945,6 @@
         "Importance 1"
       ],
       "text": "TSX Futures Rise on US-Iran Deal Hopes — Futures tracking the S&P/TSX Composite Index edged higher on Friday amid renewed optimism over US-Iran diplomacy. According to senior officials, the US and Iran may sign an agreement to reopen the Strait of Hormuz on the sidelines of next week’s G7 summit. Oil prices fell below $90 per barrel, easing inflation concerns and reducing expectations of monetary tightening, supporting financial stocks and the broader market. Meanwhile, lower gold prices pressured mining shares. Also, Prime Minister Mark Carney said on Thursday that Canada will invest more than C$1 billion to promote competition among grocers and food processors in an effort to curb elevated food inflation."
-    },
-    {
-      "id": "4932935",
-      "time": "2026-06-12 21:13:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京多區釋出雷電黃色預警】6月12日晚，北京通州區、平谷區、朝陽區、密雲區、大興區、豐臺區、延慶區、懷柔區等多區釋出雷電黃色預警。"
-    },
-    {
-      "id": "4932934",
-      "time": "2026-06-12 21:13:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴基斯坦財政部長在預算演講中宣佈多項減稅舉措。"
-    },
-    {
-      "id": "mkt:019ebbf6-f94a-7dd8-afdf-2a78fb5e0d94",
-      "time": "2026-06-12 21:13:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【ING: Fed meeting likely to have greater impact on euro than ECB decision】ING analyst Chris Turner said the upcoming Fed policy meeting is likely to be more important for EUR/USD than the ECB's Thursday rate decision. The ECB has signaled further hikes and markets price a July move, but Turner said markets have already priced an aggressive ECB tightening cycle and are reluctant to push that view further, keeping EUR/USD below 1.16. Markets also expect the Fed to hike later this year; unless the Fed rebuts that outlook at Wednesday's meeting, the dollar should remain firm."
-    },
-    {
-      "id": "4932932",
-      "time": "2026-06-12 21:10:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社12日援引一名接近伊朗談判團隊的訊息人士的話報道，美國總統特朗普和一些外國媒體聲稱“（美伊）協議已經最終敲定，並計劃於本週日在日內瓦簽署”的說法“完全是無稽之談”。（新華社）"
-    },
-    {
-      "id": "4932931",
-      "time": "2026-06-12 21:10:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【報告：油價擴大跌幅，受美伊可能達成協議影響】原油期貨擴大跌幅，市場更看重美伊達成協議的預期，而不是談判遇到更多障礙的可能性，儘管伊朗國家媒體援引官員的話稱，德黑蘭尚未做出最終決定。Spartan Capital的Peter Cardillo在一份報告中表示，原油價格在近期區間的低端交易，並可能保持在該水平，因為據報道，該提議要求在30天內全面重新開放霍爾木茲海峽。“請記住，全球庫存仍然相對較低，需要時間來重建，這應該會為價格提供基礎支撐。“西得州中質油下跌2.7%，報每桶85.39美元，Brent下跌2.3%，報88.30美元。"
-    },
-    {
-      "id": "4932930",
-      "time": "2026-06-12 21:09:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【嘉興年產超10億隻粽子】浙江嘉興是全國粽子的核心產地，年產量超10億隻，產量、產值、銷售收入均居全國第一。從3月起，陸續接到全國各地的粽子訂單，目前已滿負荷運轉，峰值日均出產粽子近20萬隻。 今年，主打“低脂健康”的鰻魚粽成為新賣點，線上線下銷售同步發力。（央視財經）"
     }
   ]
 }
