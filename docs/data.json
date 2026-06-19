@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-19 23:55:56",
-  "count": 17870,
+  "updated": "2026-06-20 00:00:49",
+  "count": 17865,
   "items": [
+    {
+      "id": "te:markets:560523",
+      "time": "2026-06-19 23:59:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Inch Down from Record — European stock indices inched down from their record levels on Friday as the pullback in sovereign yields was halted. The Euro STOXX 50 eased 0.3% to 6,302 and the STOXX Europe 600 dropped 0.2% to 636. Iran delayed the start of talks over its nuclear program and war with the US to halt a streak of de-escalation between both countries that lowered energy prices and propped European equities to a rally this week. Still, plans to restore trade through the Strait of Hormuz progressed with reports that tankers flowed through the chokepoint. Luxury brands closed lower with LVMH, Hermes, and Ferrari dropping between 2.5% and 2.3%. Tech was also lower with ASML and Prosus dropping 1% and 2.2%, respectively. German auto producers rebounded slightly following the guidance decrease from BMW this week, although Volkswagen dropped 4.5% as it was detached from its dividend. On the week, the Euro STOXX 50 gained 1.9% and the STOXX Europe 600 rose 0.4%."
+    },
+    {
+      "id": "mkt:019ee09a-566f-7dd8-b099-40e488001c7f",
+      "time": "2026-06-19 23:57:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE July gasoline futures settled at $905.00 per tonne."
+    },
     {
       "id": "mkt:019ee097-0c37-7dd8-b099-39b4dc796de8",
       "time": "2026-06-19 23:54:15",
@@ -164604,78 +164626,6 @@
         "RDW.O"
       ],
       "text": "US space stocks fell further after SpaceX's IPO: Intuitive Machines down 16%, Planet Labs down 11.9%, Rocket Lab down 12.5%, Satellogic down 15.7%, Virgin Galactic down 34.3% and Redwire down 12.5%."
-    },
-    {
-      "id": "mkt:019ebc90-5100-7dd8-afe2-88dfd4f65e1c",
-      "time": "2026-06-13 00:00:34",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "Nasdaq 100 turned lower, erasing earlier gains of up to 0.9%."
-    },
-    {
-      "id": "4933207",
-      "time": "2026-06-13 00:00:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌。"
-    },
-    {
-      "id": "mkt:019ebc8f-b011-7dd8-afe2-83d58b163a29",
-      "time": "2026-06-12 23:59:53",
-      "tags": [
-        "MKT News",
-        "HOOD.O",
-        "Impact bearish"
-      ],
-      "text": "DownDetector reports user complaints indicating Robinhood (HOOD.O) is experiencing problems."
-    },
-    {
-      "id": "mkt:019ebc8e-e684-7dd8-afe2-7cad72a23518",
-      "time": "2026-06-12 23:59:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Tesla (TSLA.O) shares fell 2.1% after SpaceX's listing."
-    },
-    {
-      "id": "mkt:019ebc8d-e6fa-7dd8-afe2-76621302d4a1",
-      "time": "2026-06-12 23:57:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【SpaceX opens at $150; market value $2.0 trillion; Musk becomes world's first trillionaire】SpaceX opened trading at $150, valuing the company at about $2.0 trillion. The open was below the previously expected $170–$175 range but above the $135 IPO price. The opening surge lifted Elon Musk's net worth to over $1.1 trillion, making him the world's first trillionaire."
-    },
-    {
-      "id": "4933206",
-      "time": "2026-06-12 23:57:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "馬斯克旗下 SpaceX 上市後，特斯拉股價下跌 2.1%。"
-    },
-    {
-      "id": "te:markets:558769",
-      "time": "2026-06-12 23:57:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 3"
-      ],
-      "text": "US Stocks Hold Higher After SpaceX IPO — US stocks were mostly higher on a volatile Friday session on hopes of a deal between the US and Iran, as SpaceX IPO-ed at the largest offering on record. The S&P 500, Dow, and Nasdaq 100 were all higher following heavy swings during the session. AI infrastructure companies wavered following the SpaceX IPO, raising $75 billion for fresh expenditure on data centers and compute capacity. The AI-to-space company was over 15% higher than its listing of $135 per share moments after trading began. Chips producers gained with AMD, Qualcomm, and Sandisk up 5%. Hyperscalers were lower, with Microsoft, Amazon, Apple, and Oracle edging down. Meanwhile, the Iranian foreign ministry signaled a deal with the US has never been closer, driving energy prices to pull back following a series of mixed statements by President Trump. Financial companies gained as yields eased off session peaks, with Goldman Sachs and Blackstone adding over 3.5%."
     }
   ]
 }
