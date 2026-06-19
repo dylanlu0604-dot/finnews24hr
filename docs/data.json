@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-19 17:48:22",
-  "count": 18231,
+  "updated": "2026-06-19 17:52:23",
+  "count": 18223,
   "items": [
+    {
+      "id": "4944974",
+      "time": "2026-06-19 17:50:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威首相：將在格陵蘭開設領事館。"
+    },
+    {
+      "id": "mkt:019edf4a-32d9-7dd8-b092-83baeeb853dc",
+      "time": "2026-06-19 17:50:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's prime minister says Norway will open a consulate in Greenland."
+    },
+    {
+      "id": "mkt:019edf49-dbee-7dd8-b092-795585f5fd0a",
+      "time": "2026-06-19 17:50:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【BofA: US equities log record $119.2bn weekly inflow as investors rush into tech】BofA strategists led by Michael Hartnett, citing EPFR Global data, said $119.2bn flowed into US equity funds in the week to June 17, a record tied to heavy flows into the technology sector. They said that on an annualized basis US equity funds are on pace to attract a record $739bn in 2026."
+    },
+    {
+      "id": "mkt:019edf48-300d-7dd8-b092-7294b3852f5e",
+      "time": "2026-06-19 17:48:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Toy Story 5 box office tops 40 mln yuan】Lighthouse Pro real-time data shows Toy Story 5 has surpassed 40.0 mln yuan in box office receipts as of 17:25 on June 19."
+    },
+    {
+      "id": "mkt:019edf47-dc85-7dd8-b092-6a6094dae2b1",
+      "time": "2026-06-19 17:48:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say India's Mukesh Ambani-led Jio Platforms is targeting roughly $3.8 billion in an IPO."
+    },
     {
       "id": "4944973",
       "time": "2026-06-19 17:45:50",
@@ -167688,122 +167732,6 @@
         "公司"
       ],
       "text": "【海陽科技：贏石投資擬減持公司不超3%股份】海陽科技(603382)6月12日公告，持股5.51%的股東福建贏石創業投資合夥企業(有限合夥)（簡稱“贏石投資”）因基金對已投專案進行退出，計劃以集中競價和大宗交易方式減持公司股份，計劃減持股份的數量合計不超過543.75萬股，減持比例合計不超過公司總股本的3%。"
-    },
-    {
-      "id": "4932483",
-      "time": "2026-06-12 17:51:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【騰訊控股：6月12日購回108.1萬股，耗資約5.01億港元】騰訊控股公告，公司於2026年6月12日在香港聯交所購回108.1萬股普通股，每股購回價格區間為459.4港元至467港元，總代價約5.01億港元。上述購回股份擬予以登出。截至當日，公司根據2026年5月13日股東大會授權累計已購回1947.81萬股，佔授權決議透過當日已發行股份（不包括庫存股份）數目的0.21362%。"
-    },
-    {
-      "id": "4932481",
-      "time": "2026-06-12 17:51:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士：美伊諒解備忘錄或定名《伊斯蘭堡宣言》，簽字儀式有望在日內瓦舉行】據CNN報道，三位知情人士透露，美伊諒解備忘錄的簽字儀式最有可能在瑞士日內瓦舉行。美國總統特朗普於當地時間週四高調宣佈了一項旨在結束對伊戰爭的“偉大和解方案”，並稱將在數日內敲定。他表示，簽字儀式預計很快在歐洲舉行，副總統萬斯將出席。但伊朗官員尚未證實已達成任何協議。兩位瞭解外交談判的訊息人士指出，簽字儀式地點選在日內瓦——距離特朗普及美國代表團下週出席法國G7峰會的地點不遠。其中一人表示，簽字儀式將標誌著外交談判進入“第二階段”，各方將著手落實諒解備忘錄的執行。另有多位訊息人士稱，該備忘錄被命名為《伊斯蘭堡宣言》，以肯定巴基斯坦在調解中發揮的關鍵作用。不過，目前一切尚未最終敲定。一名伊朗訊息人士透露，奧地利首都維也納也在備選地點之列。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606123770043192",
-      "time": "2026-06-12 17:50:32",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【野村預計歐洲央行將再加息三次 利率達到3%】野村表示，鑑於歐洲央行週四釋出的最新經濟預測更為鷹派，預計到2027年3月之前會進一步加息三次，利率提升至3%。"
-    },
-    {
-      "id": "4932479",
-      "time": "2026-06-12 17:50:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【國軒高科正式配套問界M6 切入鴻蒙智行供應鏈】據工信部近日公示的《道路機動車輛生產企業及產品公告》（第408批），問界M6純電新版本搭載宜春國軒電池有限公司（簡稱“宜春國軒”）生產的磷酸鐵鋰電池。資料顯示，宜春國軒為國軒高科下屬控股公司，標誌著國軒高科正式切入鴻蒙智行核心主力車型供應鏈。"
-    },
-    {
-      "id": "mkt:019ebb3d-0139-7dd8-afdb-97d83b37d572",
-      "time": "2026-06-12 17:49:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports SpaceX president Gwynne Shotwell said investors should recognize the company is doing \"highly futuristic\" work and, while watching the current quarter, should also be focused on the future."
-    },
-    {
-      "id": "mkt:019ebb3c-c9c9-7dd8-afdb-8faadcd9fade",
-      "time": "2026-06-12 17:49:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Sources: US-Iran MoU may be named Islamabad Declaration; signing likely in Geneva】Three sources told CNN the signing ceremony for a US-Iran memorandum of understanding is most likely to be held in Geneva. President Trump on Thursday unveiled a plan aimed at ending hostilities with Iran and said the agreement would be finalised within days; Vice President Vance is expected to attend the ceremony. Iranian officials have not confirmed any deal. One source said a Geneva signing would kick off a \"second phase\" focused on implementing the MoU; other sources said the document may be titled the Islamabad Declaration to recognise Pakistan's mediation role, though Vienna remains an alternative and arrangements are not final."
-    },
-    {
-      "id": "mkt:019ebb3c-b524-7dd8-afdb-86a4c77d0f26",
-      "time": "2026-06-12 17:49:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports SpaceX president Gwynne Shotwell said the company's horizon is very long and it does not want to focus on quarterly earnings."
-    },
-    {
-      "id": "4932478",
-      "time": "2026-06-12 17:49:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：SpaceX總裁格溫·肖特韋爾表示，SpaceX非常希望保持（將宇航員送往火星）這一願景，即使公司將開始定期披露財務業績並向投資者提供最新動態。"
-    },
-    {
-      "id": "mkt:019ebb3c-56a4-7dd8-afdb-796ac6090432",
-      "time": "2026-06-12 17:49:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Wall Street Journal, SpaceX president Gwynne Shotwell said the company remains committed to sending astronauts to Mars even as it will begin regular financial disclosures and routine investor updates."
-    },
-    {
-      "id": "4932477",
-      "time": "2026-06-12 17:49:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度BSE SENSEX指數上漲2.33%。"
-    },
-    {
-      "id": "4932476",
-      "time": "2026-06-12 17:48:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金海高科：控股股東協議轉讓29.60%股份過戶完成，控制權變更】金海高科公告，公司控股股東匯投控股集團有限公司及其一致行動人浙江諸暨三三投資有限公司向金丹良、陳永聰協議轉讓公司無限售流通股6982.16萬股（佔公司總股本的29.60%）的過戶登記手續已於2026年6月11日完成，2026年6月12日取得《證券過戶登記確認書》。本次權益變動後，金丹良持有公司24.60%股份，陳永聰持有公司5.00%股份，公司控股股東由匯投控股變更為金丹良，實際控制人由丁宏廣、丁梅英變更為金丹良。"
-    },
-    {
-      "id": "4932475",
-      "time": "2026-06-12 17:48:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藥明康德：回購A+H股合計約332萬股】藥明康德6月12日在港交所公告，當日H股回購約230萬股，均價125.39港元；A股回購約102萬股，均價98.18元。均持作庫存股份，分別用於一般儲備與員工持股計劃。"
-    },
-    {
-      "id": "te:economy:558707",
-      "time": "2026-06-12 17:48:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "New Bank Loans",
-        "Importance 1"
-      ],
-      "text": "China New Yuan Loans Slow — New yuan loans extended by Chinese banks rose by a net CNY 520 billion in May of 2026, slowing from the CNY 623 billion from the corresponding period of the previous year, and loosely aligned with market expectations of a net CNY 550 extension. The result marked the rebound from the unexpected domestic bank loans contraction in the previous month. In the meantime, aggregate financing, which is a broader measure of credit, rose by a net CNY 2.03 trillion, less than the CNY 22.9 trillion from last year but still above market expectations of CNY 1.87 trillion. Despite pointing to some resilience following the sharp slowdown at the start of the year, the figure continued to underscore the decline in the issuance of new bonds from the central and local governments in China, aligned with lower credit demand as Chinese consumption remains sluggish."
     }
   ]
 }
