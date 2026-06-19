@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 03:50:11_
-_本檔包含 3797 則快訊，約 656642 字_
+_更新時間：2026-06-20 04:44:08_
+_本檔包含 3810 則快訊，約 655717 字_
+
+---
+
+### 2026-06-20 04:41:29  #公司 #資料
+
+【諾貝爾獲獎者江珀宣佈離開DeepMind加入Anthropic】資深研究科學家約翰・江珀（John Jumper）於週五宣佈，他將離開谷歌DeepMind，加入人工智慧初創企業Anthropic，這是這家科技巨頭人工智慧研發部門最新一起備受關注的核心人才離職事件。 江珀曾與谷歌的德米斯・哈薩比斯（Demis Hassabis）共同斬獲2024年諾貝爾獎，他最為人熟知的身份是AlphaFold的聯合開發者。這款取得突破性成果的人工智慧模型已完成超2億種蛋白質結構預測，大幅縮短生物與醫學研究所需週期。 江珀在社交平臺X發文稱：“歷經近九年工作，我決定離開谷歌DeepMind，加盟Anthropic。” Meta、谷歌母公司Alphabet等科技巨頭，以及Anthropic、OpenAI這類人工智慧新銳企業正陷入激烈的人才爭奪戰。各方爭相招攬頂尖研究人員，全力研發新一代人工智慧系統。
+
+---
+
+### 2026-06-20 04:41:03  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Closes Near Flat as US-Iran Talks Stall — The Ibovespa was virtually unchanged at 168,334 on Friday in a session marked by lighter global liquidity, as investors monitored developments in the Middle East. Peace talks between the US and Iran were postponed. The discussions, scheduled to take place in Switzerland and aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed, adding fresh uncertainty over the timeline of negotiations seen as key to reopening the Strait of Hormuz and normalizing oil flows. Oil prices rebounded modestly, reviving concerns over energy-driven inflation. Bond yields moved higher in response, renewing concerns over borrowing costs. Heavyweight banks traded lower, with Itaú down 1.5% and Bradesco falling 0.7%. Meanwhile, utilities advanced, with Axia up 0.6%. Vale also gained 1% as iron ore prices held firm.
+
+---
+
+### 2026-06-20 04:39:27  #宏觀 #國際
+
+【美國務卿與黎總統通話 討論黎以談判安排】當地時間6月19日，美國國務院發表宣告稱，美國國務卿魯比奧當天與黎巴嫩總統約瑟夫·奧恩通話，重申了美國對黎巴嫩政府的支援，並強調必須解除黎巴嫩真主黨武裝。宣告稱，雙方還討論了下一輪黎以談判安排，相關談判將於6月23日至25日在華盛頓舉行。（央視新聞）
+
+---
+
+### 2026-06-20 04:37:25  #其他
+
+【英國兩列火車相撞一死多傷】據英國警方證實，當地事件6月19日下午發生在英格蘭地區貝德福德附近的客運列車相撞事故，已造成一人死亡、多人受傷。警方目前已宣佈啟動重大事件應急機制，正協同消防救援及救護部門，持續在現場開展處置工作，並加緊調查事故的確切原因。（CCTV國際時訊）
+
+---
+
+### 2026-06-20 04:34:50  #其他
+
+英國運輸警方就英國火車相撞事故發聲：十分遺憾，已有一人身亡。
+
+---
+
+### 2026-06-20 04:31:42  #國際
+
+美國國務卿魯比奧計劃訪問科威特、阿聯酋和巴林。
+
+---
+
+### 2026-06-20 04:31:27  #國際
+
+美國國務卿魯比奧計劃下週訪問中東。
+
+---
+
+### 2026-06-20 04:31:13  #國際
+
+【伊朗副外長：美國必須確保以色列遵守諒解備忘錄】當地時間19日，伊朗外交部副部長賽義德·哈提卜扎德在接受採訪時表示，美國必須確保以色列遵守美伊之間達成的諒解備忘錄條款。哈提卜扎德說，伊朗已準備繼續推進外交程序，“如果對方展現出同樣的認真態度，我們也準備一步一步向前推進。”哈提卜扎德表示，伊朗尋求各個戰線的和平，包括加沙在內。由於黎巴嫩與衝突存在直接關聯，因此被納入該諒解備忘錄之中。“只有當以色列結束佔領，並遵守國際法，黎巴嫩及整個地區才會有和平與穩定。”關於霍爾木茲海峽問題，哈提卜扎德表示，伊朗將繼續在與阿曼協調並在國際法規則下提供航行服務。在諒解備忘錄所規定的60天期限內，伊朗不會收取通行費用，但之後將引入新的航道管理機制，並提交給地區國家。哈提卜扎德還表示，未來要達成的任何協議都必須包括解凍所有伊朗被凍結資金。（央視新聞）
+
+---
+
+### 2026-06-20 04:30:51  #市場
+
+週五（6月19日）紐約尾盤，美元兌日元跌0.05%，報161.30日元，本週累計上漲0.66%，整體持續走高，交投於159.74-161.81日元。歐元兌日元漲0.06%，報185.05日元，本週累跌0.16%；英鎊兌日元漲0.15%，報213.395日元，本週累跌0.66%。
+
+---
+
+### 2026-06-20 04:29:23  #國際
+
+特朗普談及烏克蘭問題：拜登給烏克蘭輸送了大量援助。這筆開銷本應由烏克蘭承擔，但他們壓根沒打算出錢。
+
+---
+
+### 2026-06-20 04:26:56  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Slips on US-Iran Uncertainty — The S&P/TSX Composite Index fell 0.3% to close at 34,857 on Friday as investors reacted to the suspension of US-Iran talks. The discussions, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed, while the Federal Reserve’s surprise hawkish shift earlier in the week continued to weigh on sentiment. Financial stocks traded mixed, with RBC down 0.4% and TD Bank up 0.4%. Brookfield edged higher amid reports it is the frontrunner to acquire a controlling stake in XpFibre. Mining stocks moved lower as gold prices extended losses, with WPM down 4.8%, Agnico Eagle losing 2%, and Barrick falling 1.6%. Energy stocks were mixed amid uncertainty over US-Iran diplomacy, with Canadian Natural rising 1.2%, while Imperial Oil shed 0.6%.
+
+---
+
+### 2026-06-20 04:25:44  #公司 #國際
+
+L3Harris公司向美國空軍交付VC-25B飛機。
+
+---
+
+### 2026-06-20 04:25:10  #其他
+
+【迦納東部槍擊事件致3死9傷】據迦納當地媒體報道，迦納東部奧蒂省一社群18日晚發生槍擊事件，造成3人死亡、9人受傷。 (新華社)
+
+---
+
+### 2026-06-20 04:23:51  #國際
+
+特朗普：我要感謝卡達埃米爾、沙特王儲以及阿聯酋的穆罕默德。
+
+---
+
+### 2026-06-20 04:20:38  #央行 #國際
+
+“美聯儲傳聲筒”Nick Timiraos：美聯儲負責監管的副主席米歇爾・鮑曼於當地時間週三晚間出席了美國銀行在紐約為客戶舉辦的僅限受邀人士參加的私人晚宴，這場活動舉辦的數小時前，美聯儲剛公佈了最新貨幣政策決議。 她表示，自己並未就貨幣政策發表任何評論，且嚴格遵守聯邦公開市場委員會的各項規定以及所有職業道德準則。
+
+---
+
+### 2026-06-20 04:16:25  #市場 #央行 #國際
+
+【美元指數本週漲約1%】週五（6月19日）紐約尾盤，ICE美元指數跌0.11%，報100.736點，本週累計上漲0.99%，北京時間6月18日02:00美聯儲釋出決議宣告和經濟預期概要（SEP）之前持續交投於99.500點附近，之後主要持續交投於100.5000點上方，6月19日13:00曾達到101.127點。日內交投區間為點。彭博美元指數跌0.06%，報1216.63點，本週累漲0.78%，交投區間為1202.91-1220.31點。
+
+---
+
+### 2026-06-20 04:15:10  #國際
+
+美國銀行存款從前一週的19.295萬億美元增至19.354萬億美元。
+
+---
+
+### 2026-06-20 04:11:31  #國際
+
+特朗普結束在安德魯斯聯合基地的講話。
+
+---
+
+### 2026-06-20 04:10:38  #其他
+
+【利比亞近海沉船事故致12人死亡39人失蹤】一艘載有非法移民的船隻日前在利比亞東部城市圖卜魯格附近海域沉沒，已致12人死亡、39人失蹤。 據利比亞一服務移民和難民的人道主義組織19日釋出的訊息，事故發生於本月12日，事發船隻載有61人，其中10人逃生。該組織表示，目前已找到12具遺體，搜尋行動仍在進行中。（新華社）
+
+---
+
+### 2026-06-20 04:10:13  #國際
+
+特朗普：這是全新塗裝配色 —— 紅、白、藍。我們原本挺喜歡淡藍色，但如今是時候做出改變了…… 我偏愛美國國旗本身的色彩。
+
+---
+
+### 2026-06-20 04:08:58  #國際
+
+特朗普： 全新空軍一號專機將於 7 月 4 日飛越華盛頓上空。
+
+---
+
+### 2026-06-20 04:08:12  #MKT News
+
+Trump said the Qatar-donated Air Force One presidential aircraft has been equipped with the Starlink communications network.
+
+---
+
+### 2026-06-20 04:07:59  #MKT News #Market Themes #The Trump Trade
+
+Trump thanked about 250 staff and airmen at Joint Base Andrews for working round-the-clock to put the presidential aircraft into service.
+
+---
+
+### 2026-06-20 04:05:10  #國際
+
+特朗普稱卡達捐贈的空軍一號飛機配備了星鏈網路。
+
+---
+
+### 2026-06-20 04:04:39  #國際
+
+美國總統特朗普：我結束了8場戰爭，與伊朗的戰爭是最艱難的；F-47正在建造中。已經啟動了裝配線。他們說這是有史以來最偉大的戰鬥機。我們會驗證這一點。
+
+---
+
+### 2026-06-20 04:04:28  #國際
+
+特朗普：我要特別感謝 250 名工作人員，他們晝夜不休趕工，讓這架專機投入使用，其中也包括安德魯斯聯合基地的眾多空軍官兵。
+
+---
+
+### 2026-06-20 04:04:26  #MKT News #Market Themes #The Trump Trade
+
+President Trump said the United States has the world's top military and most advanced aircraft and should be equipped with a top-tier presidential plane.
+
+---
+
+### 2026-06-20 04:03:47  #MKT News
+
+President Trump said the F-47 is under construction and an assembly line has been started. He said they claim it is the greatest fighter jet ever and that the claim will be verified.
+
+---
+
+### 2026-06-20 04:02:47  #國際
+
+特朗普：我們擁有全球頂尖的軍隊，擁有世上最先進的各類軍機，我們也理應配備最頂級的總統專機。
+
+---
+
+### 2026-06-20 04:01:09  #市場
+
+多倫多綜合股指非正式收盤下跌 111.92 點，跌幅 0.32%，報 34857.34 點。
+
+---
+
+### 2026-06-20 03:59:53  #MKT News #Market Themes #The Trump Trade
+
+Trump said US Defense Secretary Hegseth is a born fighter who never admits defeat, is exceptionally tough, and genuinely loves the military.
+
+---
+
+### 2026-06-20 03:59:47  #國際
+
+【以媒：伊朗與真主黨聯手破壞以美關係】據以色列媒體報道，以色列官員研判，昨晚造成四名以色列國防軍士兵身亡的致命襲擊，是伊朗和真主黨精心策劃的行動，其明確目的是離間耶路撒冷與華盛頓。相關官員表示，德黑蘭方面成功將美國和以色列一同引入其設下的圈套，刻意把黎巴嫩停火諒解備忘錄與重啟大範圍談判繫結在一起。
+
+---
+
+### 2026-06-20 03:58:37  #國際
+
+特朗普：赫格塞斯是天生的鬥士，他從不知認輸，性格十分強硬，此人真心熱愛軍隊。
+
+---
+
+### 2026-06-20 03:58:08  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+TRUMP said he ended eight wars and that the war with Iran was the toughest.
+
+---
+
+### 2026-06-20 03:57:49  #MKT News
+
+President Trump said Defense Secretary Hegseth is doing very well.
+
+---
+
+### 2026-06-20 03:57:37  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【Dollar index down 0.12% at New York close】The dollar index, which measures the US dollar against six major currencies, fell 0.12% to 100.729 at the New York FX close on the 19th. EUR/USD rose to 1.1477 from 1.1459; GBP/USD rose to 1.3234 from 1.3203. USD/JPY fell to 161.26 from 161.68. USD/CHF rose to 0.8066 from 0.8051; USD/CAD rose to 1.4174 from 1.4140; USD/SEK fell to 9.5742 from 9.5874.
+
+---
+
+### 2026-06-20 03:57:25  #國際
+
+特朗普表示，這架飛機是卡達政府贈予美國的。
+
+---
+
+### 2026-06-20 03:56:45  #國際
+
+特朗普稱美國已在伊朗 “徹底摧毀一切”。
+
+---
+
+### 2026-06-20 03:56:03  #MKT News
+
+U.S. President Trump said the other Air Force One is about 35 years old and should be replaced.
+
+---
+
+### 2026-06-20 03:54:34  #國際
+
+特朗普：另一架舊專機已有約 35 年機齡，確實到了該更換的時候。
+
+---
+
+### 2026-06-20 03:53:56  #國際
+
+特朗普：內塔尼亞胡是一名鬥士。
+
+---
+
+### 2026-06-20 03:53:01  #MKT News
+
+US President Trump says relations with Israel are good.
+
+---
+
+### 2026-06-20 03:52:46  #國際
+
+特朗普稱其與以色列關係極佳。
+
+---
+
+### 2026-06-20 03:52:17  #MKT News
+
+U.S. President Trump said he will visit Turkey.
+
+---
+
+### 2026-06-20 03:51:52  #國際
+
+特朗普：（談伊朗）我認為事態不會走到那一步。
+
+---
+
+### 2026-06-20 03:51:12  #MKT News
+
+U.S. President Trump said those ships are leaving the Strait of Hormuz at an unprecedented pace.
+
+---
+
+### 2026-06-20 03:51:06  #國際
+
+特朗普：將前往土耳其。
+
+---
+
+### 2026-06-20 03:50:59  #公司 #國際
+
+【美國新空軍一號專機亮相】當地時間6月19日，據美國哥倫比亞廣播公司（CBS）報道，美國空軍首次公開展示由卡達贈送、價值約4億美元的波音747-8型飛機。這架新的“空軍一號”總統專機目前已抵達馬里蘭州安德魯斯聯合基地，將先進行“服役認證飛行”，隨後將正式投入使用。美國空軍表示，這架飛機已完成所需改裝和紅白藍塗裝，機艙內部佈局僅作最小程度調整。 美國總統特朗普此前駁斥了“接受外國政府贈送專機存在利益衝突和安全風險”的批評。他表示，這架飛機將暫時充當“空軍一號”，直至波音公司為美國空軍制造的新一代總統專機於2028年交付。（CCTV國際時訊）
 
 ---
 
@@ -22676,215 +22964,5 @@ Iran's agriculture minister said blockades and war have not affected food securi
 ### 2026-06-18 16:24:00  #其他
 
 【研究人員發現已知最早鼠疫疫情的證據】研究人員在西伯利亞東南部古老墓地埋葬的遺骸中，檢測並重建了五千多年前的鼠疫耶爾森菌基因組。這可能是已知最早的與鼠疫相關的人類感染證據之一。他們在17日出版的《自然》雜誌上發表文章說，近幾十年來，考古學家一直在發掘貝加爾湖周圍的四個古代墓地。這些墓地裡埋葬著死於四、五千年前的狩獵採集者。先前理論認為，狩獵採集者群體小、流動性強，因此不會在其內部暴發大規模傳染病。（新華社）
-
----
-
-### 2026-06-18 16:23:58  #MKT News
-
-Iran's agriculture minister said staple imports via southern ports are proceeding smoothly and the rice market will move toward balance.
-
----
-
-### 2026-06-18 16:23:38  #其他
-
-【最具出遊“價效比”的節日：端午假期首日仍有1折機票在售，30歲以下出遊人群佔比超六成】美團資料顯示，今年端午假期入住前3天內預訂的間夜佔比預計達八成以上，“說走就走”成為假期出行的主要特徵。從人群結構看，假期出行年輕化趨勢明顯，30歲以下年輕群體佔比超六成，30-40歲人群佔比為26%。去哪兒旅行資料顯示，從國內航線機票均價來看，端午節前一週國內機票均價與7-8月相比低四成，而節中的6月20日，是未來兩個月內機票均價最低的一天。目前，端午假期首日6月19日仍有不少1折經濟艙機票在售，如北京直飛西安僅219元（裸票），北京-南京、常州、杭州、鄭州、寧波、上海等，也低於350元。上海6月19日直飛合肥、溫州、石家莊、深圳，也低於300元。
-
----
-
-### 2026-06-18 16:23:32  #MKT News #Market Regions #Greater China
-
-Taiwan M2 money supply YoY 7.83% in May, versus 6.45% previously.
-
----
-
-### 2026-06-18 16:23:24  #MKT News #Economic Calendar #Important
-
-Taiwan | M2 Money Supply (YoY) (May) | actual 7.83% | previous 6.45%
-
----
-
-### 2026-06-18 16:22:56  #央行 #國際
-
-瑞士央行董事長：未來發展取決於中東局勢。
-
----
-
-### 2026-06-18 16:22:22  #國際
-
-【以外長炮轟歐盟高官 宣佈斷絕一切個人往來】以色列外交部長薩爾：歐盟外交與安全政策高階代表卡拉斯近期對以色列表現出明顯的不公和偏執。近日有報道稱，她在訪問墨西哥期間將以色列與南非曾經存在的種族隔離政權相提並論。然而，截至目前，她本人未就此嚴重言論作出任何否認、澄清或回應。因此，作為以色列外交部長，我別無選擇，只能斷絕與卡拉斯女士的一切聯絡，直至她收回誹謗。
-
----
-
-### 2026-06-18 16:22:20  #MKT News #Macro & Rates #DXY #Impact bullish #S&P500 #Impact bearish
-
-【Analyst: Wash Brings Necessary Change to the Fed; Trump Picked the Right Person】Mike Shedlock of SitkaPacific Capital Management said Wash is Trump’s best personnel pick for Fed chair. In his debut Wash avoided preset policy positions, pledged to study improved data collection, signaled dislike of the dot‑plot but did not abolish it and chose not to submit his own projections. Shedlock labeled Greenspan, Bernanke, Yellen and Powell failures, singling out Bernanke for large‑scale QE, instituting interest‑on‑reserves and strong reliance on forward guidance. He said Wash wants to end interest‑on‑reserves—a welcome change—and favors slow, research‑driven reforms that can build consensus. Shedlock strongly criticized Wash’s trimmed‑mean inflation metric as excluding more data than it retains and said he is skeptical of Wash’s market‑based inflation measures.
-
----
-
-### 2026-06-18 16:22:19  #MKT News
-
-【Israeli foreign minister severs personal contacts with EU HRVP kallas】Israeli foreign minister Saar said EU HRVP kallas has shown clear unfairness and bias toward Israel and was reported to have likened Israel to apartheid South Africa during a Mexico visit. kallas has not denied, clarified or responded, so Saar announced he will cut all personal contact with her until she retracts the alleged defamation.
-
----
-
-### 2026-06-18 16:21:55  #公司
-
-【*ST航圖：實控人及一致行動人917.64萬股將被司法拍賣】*ST航圖公告稱，因公司涉9338.06萬元債務糾紛，實際控制人王宇翔及一致行動人張燕收到法院司法拍賣通知。王宇翔持有的474.33萬股及張燕持有的443.31萬股將在7月17 - 21日分批拍賣，起拍價10.7元/股。若全部成交，王宇翔、張燕持股比例將分別由2.89%、18.62%降至1.08%、16.92%，實控人及其一致行動人合計持股比例降至20.34%。本次拍賣不會導致控制權變更，結果尚不確定。
-
----
-
-### 2026-06-18 16:21:53  #公司
-
-【艾迪精密：實際控制人部分股份質押延期及部分股份解除質押】艾迪精密公告稱，公司實際控制人之一宋飛直接持有公司股份1134.22萬股，佔總股本1.32%。6月17日，其457萬股質押延期至2027年6月17日，佔其持股40.29%、公司總股本0.53%；110萬股解除質押，佔其持股9.70%、公司總股本0.13%。截至公告日，控股股東、實際控制人及一致行動人合計持股5.00億股，佔總股本58.40%，已質押股份3007萬股，佔其所持股份6.01%、公司總股本3.51%。公司稱質押風險可控。
-
----
-
-### 2026-06-18 16:21:01  #其他
-
-【商務部：印發《2026年甘草及甘草製品出口配額第二次招標中標企業名單及其額度表》】根據原對外貿易經濟合作部令2001年第11號（《出口商品配額招標辦法》）、《工業品出口配額招標實施細則》（外經貿貿發〔2001〕626號）有關規定，甘草及甘草製品出口配額招標委員會對2026年甘草及甘草製品出口配額進行了第二次招標，確定了中標企業及其中標數量，形成了《2026年甘草及甘草製品出口配額第二次招標中標企業名單及其額度表》。現予印發，請各中標企業憑商務部下達的中標數量及招標委員會下發的《申領配額招標商品出口許可證證明書》申領出口許可證，請各有關發證機關嚴格按照相關規定核發出口許可證。商務主管部門要督促企業落實安全生產主體責任，杜絕安全生產事故。
-
----
-
-### 2026-06-18 16:20:32  #MKT News
-
-Moldovan central bank raised its policy rate to 7.0% from 6.5%.
-
----
-
-### 2026-06-18 16:20:30  #國際
-
-【以部長說違反美國意願也要打黎巴嫩】以色列國家安全部長本-格維爾日前表示，即便違背美國總統特朗普的意願，以色列也不會從已佔領的的黎巴嫩領土上撤出，並會持續拆毀黎巴嫩南部的民房，不會允許當地民眾返回黎以邊境的家園。本-格維爾聲稱，這樣會危及以軍與以色列北部民眾的安全。 （CCTV國際時訊）
-
----
-
-### 2026-06-18 16:20:22  #MKT News
-
-Swiss National Bank chairman says there are currently no plans for the bank to delist.
-
----
-
-### 2026-06-18 16:20:18  #公司
-
-【WPS AI表格Agent登頂SpreadsheetBench榜單，超越Microsoft、OpenAI】全球電子表格自動化領域權威基準SpreadsheetBench公佈最新榜單，WPS AI表格Agent（Seed 2.0）以73.46%登頂Full 912（全量榜單） ，位列全球第一，超越Google、Microsoft、OpenAI、Anthropic 等國際知名科技公司旗下產品，還首次超越該榜單設定的人類專家基準線。這意味著WPS AI處理複雜表格任務的能力，已經跨越了一個關鍵門檻。（新浪科技）
-
----
-
-### 2026-06-18 16:20:04  #央行 #其他
-
-瑞士央行董事長：目前沒有將瑞士央行退市的計劃。
-
----
-
-### 2026-06-18 16:19:37  #MKT News
-
-Putin aide Kobyakov said ASEAN's energy security can only be achieved through cooperation with Russia.
-
----
-
-### 2026-06-18 16:19:14  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Russia's presidential aide Kobyakov said energy shortages will only intensify in coming years.
-
----
-
-### 2026-06-18 16:19:01  #國際
-
-普京助手科比亞科夫：未來數年能源短缺問題只會進一步加劇。
-
----
-
-### 2026-06-18 16:18:57  #市場 #央行 #國際
-
-【業內人士：黃金短期走勢仍將受美聯儲貨幣政策、通脹變化及地緣政治等因素影響】據證券時報，近期國際金價在經歷大幅波動後有所企穩，國際黃金期貨重新站上4300美元/盎司關口，引發市場對黃金資產配置價值的再度關注。與此同時，全球央行增持黃金的趨勢仍在延續。世界黃金協會最新調查顯示，創紀錄比例的央行計劃在未來一年繼續增加黃金儲備。不過，從資金流向看，黃金ETF及黃金股ETF近期整體仍呈淨流出態勢。在業內人士看來，黃金短期走勢仍將受到美聯儲貨幣政策、通脹變化以及地緣政治等因素影響。
-
----
-
-### 2026-06-18 16:18:47  #公司
-
-【賽微電子：控股股東部分質押股票提前購回 累計質押佔總股本5.30%】賽微電子公告稱，2026年6月18日，公司收到控股股東楊雲春通知，其將質押的170,000股股票提前購回，佔其所持股份比例0.11%，佔公司總股本比例0.02%。截至公告披露日，楊雲春持有公司154,023,719股股份，佔總股本21.04%，累計質押38,800,000股，佔其持股總數25.19%，佔公司總股本5.30%。其質押股份無平倉或被強制過戶風險，且所持股份累計被凍結11,843,479股，佔其所持股份7.69%，佔公司總股本1.62%。
-
----
-
-### 2026-06-18 16:18:37  #公司
-
-【聯合水務：控股股東協議轉讓公司部分股權事項已透過上海證券交易所合規性稽核】聯合水務公告，公司控股股東聯合水務亞洲與交大菡源創投簽署股份轉讓協議，以10.36元/股的價格轉讓2539.32萬股，佔總股本6.00%，交易金額為人民幣2.63億元。因公司已實施的權益分派事項，轉讓價款調整為人民幣2.58億元。該協議轉讓事項已透過上海證券交易所合規性稽核，但仍需辦理過戶登記手續，最終實施結果存在不確定性。
-
----
-
-### 2026-06-18 16:18:25  #公司 #市場
-
-【*ST三房：股票交易異常波動 提示多項風險】*ST三房公告稱，公司股票於2026年6月16日至18日連續3個交易日內日收盤價格漲幅偏離值累計超12%，屬異常波動情形。2025年公司淨虧損8.85億元，2026年一季度淨利潤3274.09萬元。控股股東及其一致行動人所持股份已全部質押和司法凍結，累計將被司法拍賣4.3917億股（佔總股本10.92%），因執行異議已暫緩。截至5月30日，公司擔保逾期債務5.61億元，下屬公司逾期債務8.28億元。公司股票已被實施退市風險警示及其他風險警示，提醒投資者注意風險。
-
----
-
-### 2026-06-18 16:18:19  #公司
-
-【陽普醫療：子公司血栓彈力圖儀延續註冊，有效期至2032年】陽普醫療公告，公司全資子公司廣州陽普醫療器械有限公司近日收到國家藥品監督管理局核發的《醫療器械變更註冊（備案）檔案》及廣東省藥品監督管理局核發的《醫療器械註冊證》。其中，一次性使用防針刺靜脈採血針（國械注準20153221561，Ⅲ類，有效期至2030.06.03）和一次性使用靜脈採血針（國械注準20153222005，Ⅲ類，有效期至2030.06.14）完成產品技術要求變更；血栓彈力圖儀（粵械注準20172220740，Ⅱ類）完成延續註冊，有效期至2032.05.08，適用於監控和分析血液樣品的凝聚狀態以輔助臨床評估。
-
----
-
-### 2026-06-18 16:17:41  #MKT News #Important #Commodities #Energy
-
-【Three Saudi VLCCs carrying about 6 mln barrels transited Strait of Hormuz: Refinitiv】Refinitiv shipping data show three Saudi-flagged very large crude carriers carrying about 6 million barrels of crude transited the Strait of Hormuz on Thursday.
-
----
-
-### 2026-06-18 16:17:17  #央行 #美聯儲
-
-【高盛：若通脹持續居高不下 美聯儲9月或開啟“連環加息”】近期，隨著通脹持續高企，越來越多的華爾街分析師研判，美聯儲很快將啟動加息。最新丟擲這一觀點的是一位曾在貨幣政策圈子裡身居要職的人士。
-
----
-
-### 2026-06-18 16:16:50  #其他 #焦點 #國際
-
-航運資料顯示：三艘懸掛沙特國旗的超級油輪共計載有600萬桶原油，於週四駛過霍爾木茲海峽。
-
----
-
-### 2026-06-18 16:16:46  #Trading Economics #Economy #Slovakia #Current Account #Importance 1
-
-Slovakia Current Account Deficit at 3-Month High — Slovakia's current account deficit narrowed to EUR 436.8 million in April 2026 from EUR 690.8 million in the same month of the previous year. Still, it remained the largest deficit since January, despite the goods deficit shrinking to EUR 139.5 million from EUR 262.1 million in April 2025, while the services surplus increased to EUR 45.6 million from EUR 40.1 million. Moreover, the primary income deficit narrowed to EUR 306.4 million from EUR 337.3 million, and the secondary income shortfall declined sharply to EUR 36.5 million from EUR 131.5 million a year earlier. For the January–April period, the country's total current account deficit stood at EUR 1,661 million.
-
----
-
-### 2026-06-18 16:16:37  #國際
-
-【外交部：中方期待同金磚成員加強溝通協調】6月18日，外交部發言人林劍主持例行記者會。有記者問：中方釋出了王毅出席第十六次金磚國家安全事務高階代表會議的訊息。能否進一步介紹王毅與會有關安排，中方對此次會議有何期待？林劍表示，第十六次金磚國家安全事務高階代表會議將於6月22日至23日在印度新德里舉行。會議期間，中方將同金磚成員就當前國際安全形勢、重大國際和地區問題、統籌應對傳統和非傳統安全挑戰等交換意見，為今年9月金磚國家領導人會晤做好政治準備。中方期待以此次會議為契機，同金磚成員加強溝通協調，不斷深化金磚政治安全領域合作內涵，為維護世界和平安全貢獻積極力量。(央視新聞)
-
----
-
-### 2026-06-18 16:16:25  #MKT News #DXY #Impact mixed #EURUSD
-
-Swiss National Bank chairman said exchange rates are influenced by many factors, notably interest-rate differentials with the ECB and the bank's increased readiness to intervene.
-
----
-
-### 2026-06-18 16:16:17  #公司
-
-【華伍股份：子公司實質合併破產清算重整計劃獲債權人會議透過】華伍股份公告稱，其控股子公司長沙天映因未清償到期債務，被債權人申請破產清算，望城區法院裁定受理。後裁定受理長沙天映及其控股子公司貴州華伍實質合併破產清算申請。2026年5月29日，第一次債權人會議召開並表決相關事項。《債權人會議召開方式及表決方案的報告》《懸賞徵集財產線索和有償催收工作》及《重整計劃草案》均獲透過，其中《重整計劃草案》出資人組經二次表決透過。重整計劃尚需法院裁定批准，對公司利潤影響尚無法預計。
-
----
-
-### 2026-06-18 16:15:59  #公司
-
-【貴州能源集團原黨委副書記蘭海平接受審查調查】據貴州省紀委監委18日通報，貴州能源集團有限公司原黨委副書記、副董事長、總經理蘭海平涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-18 16:15:56  #MKT News
-
-Kremlin foreign policy adviser says Trump was 'fed harmful ideas' at the G7; we have had no contact with the U.S. since.
-
----
-
-### 2026-06-18 16:15:34  #其他
-
-北約核計劃小組宣告：各國部長已同意，將透過升級北約核能力、強化核規劃能力、調整部署以維護北約安全利益，繼續推進北約核威懾任務的強化工作。
-
----
-
-### 2026-06-18 16:15:30  #MKT News
-
-Swiss National Bank chairman said the bank will consider overall conditions when intervening. The Swiss franc has slightly depreciated since the last meeting.
 
 ---
