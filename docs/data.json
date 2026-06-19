@@ -1,7 +1,94 @@
 {
-  "updated": "2026-06-19 12:13:59",
-  "count": 18782,
+  "updated": "2026-06-19 12:17:57",
+  "count": 18785,
   "items": [
+    {
+      "id": "4944676",
+      "time": "2026-06-19 12:16:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士外交部：原定週五在布林根施托克舉行的美伊會談將不會按計劃進行。"
+    },
+    {
+      "id": "4944675",
+      "time": "2026-06-19 12:16:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數走勢震盪，現跌0.3%。該基準指數早盤一度大漲3%，後抹去漲幅一度跌近2%。"
+    },
+    {
+      "id": "mkt:019ede17-a0a2-7dd8-b08d-7ec9e0b191cb",
+      "time": "2026-06-19 12:15:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Switzerland's foreign ministry said US-Iran talks due Friday will not take place as planned."
+    },
+    {
+      "id": "te:economy:560319",
+      "time": "2026-06-19 12:15:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Malaysia Inflation Highest in Nearly 2 Years — The annual inflation rate in Malaysia rose to 2.0% in May 2026 from 1.9% in April, slightly below market expectations of 2.1%, and marking the highest reading since July 2024. The pickup reflected firmer price pressures, notably in food & beverages (1.4% vs 1.2% in April), housing & utilities (1.2% vs 1.1%), information & communication (2.1% vs 2.0%), and recreation, sport & culture (1.1% vs 0.9%). Meanwhile, price growth slowed for transport (3.8% vs 4.1%), health (1.2% vs 1.4%), and restaurants & accommodation services (2.5% vs 2.6%). Core inflation, measured as CPI excluding fuel, edged up to 1.8% in May from 1.7% in April, indicating slightly stronger underlying price pressures. On a monthly basis, consumer prices rose 0.1%, the smallest increase in four months and down from a 0.4% gain in April."
+    },
+    {
+      "id": "4944674",
+      "time": "2026-06-19 12:15:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4160美元/盎司，日內跌2.03%。"
+    },
+    {
+      "id": "4944673",
+      "time": "2026-06-19 12:15:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4160.90美元/盎司。"
+    },
+    {
+      "id": "mkt:019ede16-b863-7dd8-b08d-77b2a155a8a3",
+      "time": "2026-06-19 12:14:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【RAIMONDO meets Canadian Industry Minister Joly and business delegation】June 18 — MOFCOM minister RAIMONDO met Canadian Industry Minister Joly, the prime minister’s parliamentary secretary Blois and business delegates in Beijing to discuss China-Canada trade, operations of Canadian firms in China and mutual economic priorities. RAIMONDO said both sides should use the China-Canada Economic and Trade Joint Committee as the principal channel, consolidate traditional industry cooperation and expand ties in emerging and future sectors to tighten shared interests. He said China values foreign investors’ views and is willing to work with Canada through frank dialogue and pragmatic cooperation to expand the cooperation agenda, reduce outstanding issues and promote healthy, stable, sustainable development of bilateral economic and trade relations."
+    },
+    {
+      "id": "4944672",
+      "time": "2026-06-19 12:13:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【王文濤部長會見加拿大工業部長喬利和工商界代表】6月18日，商務部部長王文濤在北京會見加拿大工業部長喬利、加總理駐議會秘書布洛伊斯和工商界代表。雙方就中加經貿關係、加資企業在華髮展以及彼此重點經貿關注等進行深入交流。王文濤表示，習近平主席指出，中加要推進構建新型戰略伙伴關係，做相互尊重、共同發展、彼此信任、相互協作的夥伴。兩國領導人的重要共識為中加經貿關係指明瞭方向。中國正積極實施“十五五”規劃，市場的規模性、成長性、穩定性優勢明顯，蘊藏巨大機遇。雙方應充分發揮中加經貿聯委會機制的經貿主渠道作用，鞏固傳統產業合作勢頭，大力拓展新興和未來產業合作空間，拉緊共同利益紐帶。中方始終重視外國投資者的意見，願與加方共同努力，透過坦誠對話、務實合作，拉長合作清單，縮短問題清單，推動中加經貿關係健康、穩定、可持續發展。喬利表示，加方高度重視發展對華關係，將積極落實兩國領導人重要共識，推動各領域務實合作。加方願同中方拓展在電動汽車、電池、風能等新興領域合作，深化在油氣、農業、金融等傳統領域合作，共同為兩國企業創造互利共贏的合作氛圍。（商務部）"
+    },
+    {
+      "id": "te:economy:560317",
+      "time": "2026-06-19 12:13:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Malaysia Exports Reach All-Time High — Malaysia’s exports jumped 45.3% year-on-year to a record high of MYR 184 billion in May 2026, after an upwardly revised 37.3% increase in April and far exceeding forecasts of 32.4%, marking the strongest growth since August 2022 despite global uncertainties. Growth was mainly boosted by the manufacturing sector, which surged 51.7%, particularly in electrical and electronic products (70.5%) and petroleum products (74.2%)."
+    },
     {
       "id": "4944671",
       "time": "2026-06-19 12:13:09",
@@ -172855,60 +172942,6 @@
         "市場"
       ],
       "text": "巴基斯坦KSE-100指數開盤後上漲1.1%，至171,609.20點。"
-    },
-    {
-      "id": "4931789",
-      "time": "2026-06-12 12:17:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【追覓科技據悉考慮最快明年在香港IPO】知情人士稱透露，中國智慧生活家電生產商追覓科技正在考慮最快明年在香港IPO。因相關訊息尚未公開而不願具名的知情人士稱，追覓科技正在與顧問合作，潛在股票發行規模可能達到數億美元。知情人士稱，相關討論仍在進行中，發行規模和時間等細節可能會有變化。"
-    },
-    {
-      "id": "mkt:019eba0b-3167-7dd8-afd1-29db38e3db4a",
-      "time": "2026-06-12 12:15:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "ANZ cut its year-end gold price forecast to $5,200/oz from $5,600/oz to reflect recent price moves."
-    },
-    {
-      "id": "4931788",
-      "time": "2026-06-12 12:15:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳新銀行：將年末金價預測從每盎司5600美元下調至5200美元，以反映近期價格走勢。"
-    },
-    {
-      "id": "4931787",
-      "time": "2026-06-12 12:15:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潤建股份等成立智研科技公司】企查查APP顯示，近日，雲南星潤智研科技有限公司成立，法定代表人為龍再毅，經營範圍包含：人工智慧應用軟體開發；軟體開發；虛擬現實裝置製造；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由潤建股份全資子公司百城千帆（海南）智慧科技有限公司、雲南世紀慧銘集團有限公司共同持股。"
-    },
-    {
-      "id": "4931786",
-      "time": "2026-06-12 12:15:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏利基金督察長離任】6月12日宏利基金公告稱，督察長徐嬌因個人原因離任，總經理DING WEN CONG（丁聞聰）代任督察長。該變更事項經宏利基金董事會會議審議並透過，按相關規定向監管機構報備。"
-    },
-    {
-      "id": "4931785",
-      "time": "2026-06-12 12:14:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【招商證券：中國AI網際網路行業估值仍吸引 首選阿里、智譜、快手等】招商證券釋出研報稱，維持對AI網際網路行業的推薦評級，個股首選阿里巴巴(09988)、智譜(02513)、快手-W(01024)、歡聚。 該行同時建議關注被低估的公司如騰訊與MiniMax，認為兩者均具備更高的估值修復潛力。人工智慧商業化加速，中國的AI網際網路行業估值仍具吸引力。該行指出，在預期重置後，今年第二季至今恒生科技指數表現遜於第一季。 雖然中國網際網路板塊估值仍處於歷史低位，但今年首季業績展現出較強的盈利韌性。"
     }
   ]
 }
