@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-19 08:15:52",
-  "count": 19009,
+  "updated": "2026-06-19 08:19:43",
+  "count": 19012,
   "items": [
+    {
+      "id": "4944469",
+      "time": "2026-06-19 08:18:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數上漲，追隨華爾街漲勢】日本日經指數上漲1.0%，至71765.74點，追隨隔夜華爾街的漲勢。野村的研究分析師在評論中表示：“焦點可能落在AI經濟的可持續性及其連鎖反應上。“他們表示：“在我們的主要情境下，我們曾預計6月底日經225指數為66000點，但我們也不能忽視上行情境，該情境下日經225指數將在75000點左右。“在日經指數表現最好的成分股中，SWCC Corp.攀升9.2%，Sanki Engineering上漲9.1%，Yamaichi Electronics上漲8.6%。美元報161.26日元，紐約週四尾盤報161.38日元。"
+    },
+    {
+      "id": "4944468",
+      "time": "2026-06-19 08:18:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報65.03美元/盎司。"
+    },
+    {
+      "id": "4944467",
+      "time": "2026-06-19 08:17:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行冰見野良三：匯率波動可能對通脹預期和基礎通脹產生影響，因此我們將繼續密切關注事態發展。"
+    },
+    {
+      "id": "mkt:019edd3d-6b96-7dd8-b08a-e0b8c3d1dc83",
+      "time": "2026-06-19 08:17:30",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan deputy governor HIMINO said FX volatility is one of the key factors affecting Japan's economy and prices."
+    },
+    {
+      "id": "mkt:019edd3d-5a72-7dd8-b08a-d8e856ef741a",
+      "time": "2026-06-19 08:17:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Deputy Governor HIMINO said the BOJ will factor the Middle East conflict into decisions on the pace and timing of rate hikes."
+    },
+    {
+      "id": "4944466",
+      "time": "2026-06-19 08:17:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行冰見野良三：將考慮加息步伐和時機，同時研究中東衝突影響。"
+    },
+    {
+      "id": "mkt:019edd3d-18d7-7dd8-b08a-d5f13db78d64",
+      "time": "2026-06-19 08:17:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Himino, deputy governor of the Bank of Japan, said the bank will continue to raise interest rates further."
+    },
+    {
+      "id": "4944465",
+      "time": "2026-06-19 08:17:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員副行長冰見野良三：貨幣政策不以匯率為目標，但相比過去，由於企業行為的變化，匯率波動對通脹的影響更大。"
+    },
+    {
+      "id": "mkt:019edd3c-f2dd-7dd8-b08a-c93669bb18cc",
+      "time": "2026-06-19 08:16:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BANK OF JAPAN Deputy Governor HIMINO said Japan's financial conditions remain accommodative."
+    },
+    {
+      "id": "mkt:019edd3c-bd45-7dd8-b08a-c25ebda8195c",
+      "time": "2026-06-19 08:16:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. Trade Representative Greer has opened a Section 301 investigation under the Trade Act of 1974 into Germany to determine whether Germany’s sustained suppression of innovative drug prices constitutes unreasonable or discriminatory acts or practices."
+    },
+    {
+      "id": "4944464",
+      "time": "2026-06-19 08:16:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行冰見野良三：匯率波動是影響日本經濟與物價的關鍵因素之一。"
+    },
+    {
+      "id": "4944463",
+      "time": "2026-06-19 08:16:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行冰見野良三：日本金融狀況仍保持寬鬆。"
+    },
+    {
+      "id": "4944462",
+      "time": "2026-06-19 08:16:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三：將繼續進一步加息。"
+    },
     {
       "id": "4944461",
       "time": "2026-06-19 08:15:09",
@@ -174929,99 +175060,6 @@
         "國際"
       ],
       "text": "日本東證指數上漲2%，至3907.05點。"
-    },
-    {
-      "id": "4931411",
-      "time": "2026-06-12 08:19:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數上漲4%，至66794.32點。"
-    },
-    {
-      "id": "4931410",
-      "time": "2026-06-12 08:19:24",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：非農資料令市場對美聯儲政策路徑重新定價 美聯儲年內或將維持利率不變】中信證券指出，2026年5月美國失業率4.3%，符合預期；新增非農就業人數大超預期，其中休閒酒店業是主要貢獻項。前值上修、出生-死亡模型貢獻低於往年同期，本次非農資料並無太多一次性因素擾動。5月強勁的就業需求可從ADP、JOLTS等其他就業資料中找到呼應，標普500公司提到裁員的次數在5月也明顯減少。供給端整體穩定，總體勞動力參與率與前值持平，壯年參與率小幅上升。強勁的非農資料令市場對美聯儲政策路徑重新定價，中信證券認為美聯儲年內將維持利率不變。關注6月議息會議是否取消點陣圖公佈，若取消，市場可能短期陷入“混亂”，對年內美聯儲利率路徑定價失去基準錨，後續需要密切關注今年票委發言。"
-    },
-    {
-      "id": "mkt:019eb932-a216-7dd8-afcd-17bbe8d2a847",
-      "time": "2026-06-12 08:19:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Court filings show the Trump administration has appealed a court order requiring removal of Trump's name from the Kennedy Center in Washington."
-    },
-    {
-      "id": "4931409",
-      "time": "2026-06-12 08:19:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "據法庭檔案顯示，特朗普政府對要求將特朗普姓名從華盛頓肯尼迪中心移除的法院裁定提起上訴。"
-    },
-    {
-      "id": "4931408",
-      "time": "2026-06-12 08:18:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國首相任命丹·賈維斯為國防大臣】英國首相辦公室11日晚在社交媒體上發表宣告說，丹·賈維斯被任命為英國國防大臣。此前，約翰·希利宣佈辭去國防大臣職務。（新華社）"
-    },
-    {
-      "id": "4931407",
-      "time": "2026-06-12 08:17:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓元漲1% 美伊協議預期提振風險偏好】韓元上漲，美國總統特朗普有關美伊接近達成協議的表態提振市場風險偏好。 美元/韓元一度跌1%至1516.45，前一交易日漲0.6%。"
-    },
-    {
-      "id": "4931406",
-      "time": "2026-06-12 08:17:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）資料顯示，荷蘭近月天然氣合約價格下跌超5%，至47.09歐元/兆瓦時。"
-    },
-    {
-      "id": "mkt:019eb930-cfcb-7dd8-afcd-0c727a9fe3c4",
-      "time": "2026-06-12 08:17:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "Euro STOXX 50 futures rose 1.8%, DAX futures gained 1.7% and FTSE 100 futures were up 0.9%."
-    },
-    {
-      "id": "4931405",
-      "time": "2026-06-12 08:16:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲1.8%，德國DAX指數期貨上漲1.7%，英國富時指數期貨上漲0.9%。"
-    },
-    {
-      "id": "mkt:019eb930-0373-7dd8-afcd-0558b0dc80a7",
-      "time": "2026-06-12 08:16:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Intercontinental Exchange data showed Dutch near-month natural gas contract fell more than 5% to €47.09/MWh."
     }
   ]
 }
