@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-19 16:02:15",
-  "count": 18526,
+  "updated": "2026-06-19 16:06:22",
+  "count": 18519,
   "items": [
+    {
+      "id": "te:markets:560428",
+      "time": "2026-06-19 16:05:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 1.39% — Top commodity losers are Platinum (-1.39%), Silver (-1.34%) and Gold (-1.18%)."
+    },
+    {
+      "id": "te:markets:560426",
+      "time": "2026-06-19 16:04:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Up on Friday, Down for the Week — The FTSE 100 edged up on Friday, with AstraZeneca rising around 1.6%, GSK up 0.9% and Hikma Pharmaceuticals advancing 1.4%. Defence stocks also performed well, with BAE Systems up 0.5%, Babcock International gaining nearly 2%, and Rolls-Royce edging higher. Oil majors BP and Shell added 1.5% and 0.7% respectively as crude prices recovered. In contrast, banks and miners weighed on the index, with Lloyds Banking down 1.8%, Barclays and NatWest falling between 0.7% and 0.9%, and HSBC and Standard Chartered also lower. Rio Tinto, Glencore, Anglo American and Antofagasta declined between 0.3% and 1.1%. Greater Manchester mayor Andy Burnham won the closely watched Makerfield by-election with 54.8% of the vote, bolstering his position as a potential challenger to Prime Minister Keir Starmer. UK public sector borrowing hit £23.3 billion in May, above forecasts, while retail sales rebounded 1.2%, beating expectations. Despite Friday’s gains, the FTSE 100 ended the week down more than 0.5%."
+    },
+    {
+      "id": "mkt:019edee7-f078-7dd8-b091-0b8609b254fa",
+      "time": "2026-06-19 16:03:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French Interior Minister Letaye said France must strengthen its deterrent, rebuild stockpiles, invest in drones, artificial intelligence and military space, and establish a genuine reserve force."
+    },
+    {
+      "id": "te:markets:560424",
+      "time": "2026-06-19 16:03:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Poised to Book Weekly Gain — The DAX 40 rose about 0.5% to around 25,145 on Friday, its highest level in over two weeks and extending gains for a seventh successive session. The index was poised to book a 2.1% weekly gain as investors remained focused on geopolitical developments. Although sentiment was supported by increased energy shipments through the Strait of Hormuz, uncertainty intensified following renewed tensions in Lebanon and delays in US-Iran talks on a permanent peace agreement. Among top gainers, Infineon Technologies rose 2%, Rheinmetall gained 1.7%, and Siemens Energy advanced 1.6%."
+    },
+    {
+      "id": "4944894",
+      "time": "2026-06-19 16:02:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國國債下跌 伯納姆勝選與油價上漲再度引發財政擔憂】英國政府債券週五下跌，因油價上漲重新引發通脹擔憂，同時大曼徹斯特市長安迪·伯納姆在一場特別選舉中贏得議會席位，加劇了英國的政治不確定性。10年期英國國債收益率上升5個基點至4.81%，表現遜於歐洲同類債券。隨著美國和伊朗推遲就永久和平協議進行談判，以及布倫特原油價格重回每桶80美元上方，全球債券市場承壓。英國長期限債券收益率此前已因伊朗戰爭而被推高，並在伯納姆表示有意競選議員後，在上月觸及1998年以來最高水平。他在英格蘭北部梅克菲爾德選區獲勝，使其得以挑戰首相基爾·斯塔默的領導地位。Peel Hunt首席經濟學家Kallum Pickering表示，這場勝利“在發生前已基本被市場定價消化”。他補充稱，由於議會週五不開會，伯納姆可能將在週一宣誓就職。“今天以及整個週末，我們或許只能猜測任何挑戰將如何展開。”"
+    },
+    {
+      "id": "mkt:019edee6-9506-7dd8-b091-002d12344bf3",
+      "time": "2026-06-19 16:01:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's Chancellor MERZ said the EU's current budget proposal is \"too high\"."
+    },
     {
       "id": "mkt:019edee6-68de-7dd8-b090-fb89b8635d8d",
       "time": "2026-06-19 16:01:42",
@@ -9,6 +69,14 @@
         "MKT News"
       ],
       "text": "LME stocks: copper down 3,575 tonnes, zinc up 2,875 tonnes, lead down 1,375 tonnes, aluminium down 225 tonnes, nickel down 90 tonnes, tin down 50 tonnes."
+    },
+    {
+      "id": "4944893",
+      "time": "2026-06-19 16:01:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【單日37只 基金髮行重新整理歷史紀錄】在剛過去的一週裡，公募基金髮行再創歷史紀錄。資料顯示，在一天之內，全市場共有37只公募基金成立，是1998年至今單日成立基金的最高值。以此為切入口，券商中國記者進一步統計發現，公募基金史上排名前十的權益基金成立日，集中在2026年和2025年，以及2022年、2021年和2020年，分別對應著A股兩輪結構行情。值得注意的是，和上一輪核心資產行情相比，本輪AI科技行情下的權益基金髮行，出現兩個變化：一是基金公司發行基金的熱情依然高漲，但普遍對規模上限做了約束；二是主動權益基金不再是“一枝獨秀”，ETF等被動權益基金已逐漸成為權益基金中的重要品種，且以科創、半導體、人工智慧等科技成長主題產品居多。受訪人士對券商中國記者表示，2025年至今基金業進入新一輪發展週期。一個重要表現是大力發展權益基金，讓權益基金為市場服務。這不僅表現在權益新發基金的數量方面，也和資本市場科技含量不斷提升這一新趨勢，互為表裡。"
     },
     {
       "id": "4944892",
@@ -62,6 +130,15 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural Gas UK Gains by 4.04% — Top commodity gainers are Natural Gas UK (4.04%), Natural Gas EU (3.79%), Crude Oil WTI (1.27%) and Brent Crude Oil (0.34%). Biggest loser is Natural gas (-1.01%)."
+    },
+    {
+      "id": "em:qqyh_rbyh:202606193776846693",
+      "time": "2026-06-19 15:59:06",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本經濟專家：加息難以扭轉日元貶值趨勢】日本央行近日宣佈將政策利率自0.75%上調至1.0%，為31年來最高水平。日本經濟專家認為，目前日元貶值趨勢不會因為日本央行加息就發生根本改變。"
     },
     {
       "id": "4944887",
@@ -170390,145 +170467,6 @@
         "國際"
       ],
       "text": "【美媒體人說已看清美力不從心】美國媒體人塔克·卡爾森在其當地時間6月10日釋出的播客節目中指出，美國總統特朗普曾說了38次與伊朗“達成協議”，卻始終沒能落實，從中可以看出，“特朗普這位表現時好時壞的三軍統帥，絕非外交家，顯然也不是什麼談判高手”。卡爾森說，更多美國人已就此看清，美國的實力有侷限。人們已意識到“美國在對外施展意志、投射力量方面是有多麼力不從心”。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4932175",
-      "time": "2026-06-12 16:05:45",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "【多家險資機構獲批參與債券通“南向通”】市場關注已久的險資參與債券通“南向通”正式落地。近期，泰康資產受託泰康人壽資金開展“南向通”業務，並完成首筆投資交易。另據證券時報記者從行業多方獲悉，不僅泰康人壽，中國人壽、平安人壽、太保壽險、太平人壽、人保壽險等也首批獲准開展“南向通”債券投資，其中部分機構已經完成首單投資。這是債券通“南向通”自2021年9月上線以來，正式向非銀機構“開閘”。"
-    },
-    {
-      "id": "4932174",
-      "time": "2026-06-12 16:05:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗邁赫爾通訊社12日報道，伊朗與美國的14點諒解備忘錄草案新細節已公佈，包括美國承諾解除制裁、從伊朗周邊撤軍、解除海上封鎖、開放霍爾木茲海峽以及解凍伊朗被凍結的資產等。（新華社）"
-    },
-    {
-      "id": "4932173",
-      "time": "2026-06-12 16:05:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美銀：美股資金流入態勢延續 科技板塊吸金規模創歷史新高】美國銀行資料顯示，美股權益基金已連續第 11 周迎來資金流入，創下去年 12 月以來最長連漲週期，其中科技類基金單週吸金規模重新整理歷史紀錄。美銀援引 EPFR 全球資料稱，截至 6 月 10 日當週，股票基金淨流入 315 億美元，債券基金淨流入 208 億美元；貨幣市場基金淨流出 25 億美元，黃金相關資產淨流出 23 億美元，加密貨幣資產淨流出 7 億美元。"
-    },
-    {
-      "id": "te:markets:558669",
-      "time": "2026-06-12 16:05:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Rises by 3.64% — Top commodity gainers are Platinum (3.64%), Lithium Carbonate (2.40%) and Copper (1.70%). Biggest losers are Silver (-1.21%) and Gold (-0.31%)."
-    },
-    {
-      "id": "mkt:019ebadd-0dfe-7dd8-afd7-f08254ec33f7",
-      "time": "2026-06-12 16:05:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "German two-year government bond yield fell 7bps to 2.56%."
-    },
-    {
-      "id": "4932172",
-      "time": "2026-06-12 16:04:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國兩年期國債收益率<DE2YT=RR>跌幅擴大，當前下行7個基點，報2.56%，市場對海灣地區達成協議的樂觀情緒升溫。"
-    },
-    {
-      "id": "4932171",
-      "time": "2026-06-12 16:04:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本證券業安全委員會責令日本電產提交檔案。"
-    },
-    {
-      "id": "4932170",
-      "time": "2026-06-12 16:04:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：今年很可能成為併購交易創紀錄的一年。"
-    },
-    {
-      "id": "te:markets:558667",
-      "time": "2026-06-12 16:04:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks End the Week Mixed — The Shanghai Composite Index rose 1.1% to close at 4,032 on Friday, while the Shenzhen Component gained 0.8% to 14,963, rebounding from the previous session and tracking gains across Asian markets as renewed hopes for a Middle East peace deal lifted global sentiment. Still, volatility driven by US–Iran tensions earlier in the week left the benchmarks mixed, with the Shanghai Composite ending the week up about 0.1%, its first weekly gain in a month, while the Shenzhen Component fell 2.3%, marking its third consecutive weekly decline. Sentiment was later supported after President Trump said that a deal with Iran could be reached as soon as this weekend, potentially reopening the Strait of Hormuz. A-share commercial space-related stocks surged on momentum tied to SpaceX’s upcoming listing, with AVIC Chengdu Aircraft (+11%) and Chengdu Spaceon Electronics (+10%) among the top gainers. Markets now await China's May credit lending data, due later today, to gauge the health of the economy."
-    },
-    {
-      "id": "4932169",
-      "time": "2026-06-12 16:04:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音：開展“惡意營銷號”治理，累計處置違規賬號387.4萬個】6月12日，抖音公佈“惡意營銷號”治理十大案例。抖音稱，近一年來，抖音持續治理工業化生產同質化內容、低質虛假、誘騙互動、不當蹭熱等“惡意營銷號”相關違規行為。一年來，平臺上的惡意營銷類違規內容佔比下降 41.24%。依託相關治理規範及“賬號健康分”制度，平臺累計處置違規賬號387.4萬個。同時，共有232萬個賬號透過參與合規學習、考試等方式恢復分值，並逐步最佳化創作方向。"
-    },
-    {
-      "id": "4932168",
-      "time": "2026-06-12 16:03:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股太空概念股盤前普漲 Rocket Lab漲超8%】美股太空概念股盤前普漲。Rocket Lab漲超8%，ASTS漲超5%，回聲星通訊漲近5%，“SpaceX概念基金”Destiny Tech100漲超6%。"
-    },
-    {
-      "id": "4932167",
-      "time": "2026-06-12 16:03:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【數只印尼債券基金在市場動盪後推遲贖回】兩隻持有印尼債券的基金正推遲贖回，以應對該國金融市場近期動盪帶來的流動性壓力。Korea Investment Management的一位發言人週五表示，KIM Fixed Income Fund Plus和KIM Fixed Income Sharia Fund的投資者現在可能需要等待最長七個交易日才能收到贖回款項，而通常的結算期為三天。此舉正值印尼資產遭遇大幅拋售、印尼盾匯率波動加劇，導致債券市場流動性惡化之際。由於投資者擔心決策者可能需要繼續加息以穩定匯率，外國投資者數週來紛紛從印尼股市和債市撤資，導致印尼金融市場承受巨大壓力。"
-    },
-    {
-      "id": "4932166",
-      "time": "2026-06-12 16:03:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "交易員減少對英國央行利率的押注，目前傾向於今年加息一次，每次加息25個基點。"
-    },
-    {
-      "id": "mkt:019ebada-8a6c-7dd8-afd7-eb4d2fa1062d",
-      "time": "2026-06-12 16:02:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【All 50 events for 2nd World Humanoid Robot Games confirmed】Organizers confirmed all 50 events for the 2nd World Humanoid Robot Games at a June 12 press briefing in Beijing. The games, co-hosted by the Beijing municipal government and China Media Group, will be held Aug. 22-26 at the National Speed Skating Oval. A second event batch added three competitive events and 21 life-scenario events, bringing the program to 50 events in total."
-    },
-    {
-      "id": "4932164",
-      "time": "2026-06-12 16:02:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Adobe盤前跌超5%】美股盤前，Adobe跌超5%，公司宣佈CFO即將離職。"
     }
   ]
 }
