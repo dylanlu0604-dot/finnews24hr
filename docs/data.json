@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-19 23:51:35",
+  "updated": "2026-06-19 23:55:56",
   "count": 17870,
   "items": [
+    {
+      "id": "mkt:019ee097-0c37-7dd8-b099-39b4dc796de8",
+      "time": "2026-06-19 23:54:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Trump frames Iran agreement as rebuttal to U.S. failure narrative】Hostilities between the U.S. and Iran may be paused, but the contest over who prevailed is starting. Both sides cast the June 17 memorandum of understanding signed by their leaders as a victory. Analysts say Iran won new sanctions relief and reconstruction financing and therefore holds the upper hand; the U.S. secured reopening of the Strait of Hormuz — which had been operating normally before the conflict — and concessions on Iran’s nuclear program that Tehran had already made. The White House circulated talking points to allies to present the pact as a political win."
+    },
+    {
+      "id": "mkt:019ee095-e77b-7dd8-b099-31e88ef31bee",
+      "time": "2026-06-19 23:53:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Market sources: Trump framed the Iran deal to rebut narratives that the United States had failed."
+    },
+    {
+      "id": "4945349",
+      "time": "2026-06-19 23:52:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普對伊朗協議定調 意在駁斥美國失敗論】美國和伊朗之間的衝突或許已暫停，但圍繞誰輸誰贏的敘事之爭才剛剛開始。兩國都把6月17日由兩國領導人簽署的諒解備忘錄塑造成己方勝利。分析人士認為，伊朗獲得新的制裁減免和重建資金，因而佔了上風。相比之下，美國只是爭取到霍爾木茲海峽這條航道重新開放，而該航道在戰爭爆發前本就正常執行；美國還在伊朗核計劃問題上獲得了讓步，但這些讓步德黑蘭此前已作出過。白宮向盟友釋出了一份談話要點清單，意在將這項協議塑造成一場政治勝利。"
+    },
+    {
+      "id": "mkt:019ee095-2dea-7dd8-b099-2ca79dc3a329",
+      "time": "2026-06-19 23:52:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The US circulated talking points to allies framing an Iran agreement as a political victory, though the deal chiefly secured the reopening of the Strait of Hormuz."
+    },
     {
       "id": "mkt:019ee092-6889-7dd8-b099-22d878696223",
       "time": "2026-06-19 23:49:11",
@@ -164636,53 +164676,6 @@
         "Importance 3"
       ],
       "text": "US Stocks Hold Higher After SpaceX IPO — US stocks were mostly higher on a volatile Friday session on hopes of a deal between the US and Iran, as SpaceX IPO-ed at the largest offering on record. The S&P 500, Dow, and Nasdaq 100 were all higher following heavy swings during the session. AI infrastructure companies wavered following the SpaceX IPO, raising $75 billion for fresh expenditure on data centers and compute capacity. The AI-to-space company was over 15% higher than its listing of $135 per share moments after trading began. Chips producers gained with AMD, Qualcomm, and Sandisk up 5%. Hyperscalers were lower, with Microsoft, Amazon, Apple, and Oracle edging down. Meanwhile, the Iranian foreign ministry signaled a deal with the US has never been closer, driving energy prices to pull back following a series of mixed statements by President Trump. Financial companies gained as yields eased off session peaks, with Goldman Sachs and Blackstone adding over 3.5%."
-    },
-    {
-      "id": "te:markets:558768",
-      "time": "2026-06-12 23:54:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Rise as Geopolitical Risks Ease — The CAC 40 jumped 1.8% to close at 8,351 on Friday, marking its biggest gain in a month and reaching a seven-week high, as renewed hopes for a Middle East peace deal lifted global sentiment. US President Donald Trump said an agreement with Iran could be reached as early as this weekend after postponing planned strikes, raising the prospect of reopening the Strait of Hormuz and pushing oil prices lower. Domestically, France’s annual inflation rate was confirmed at 2.4% in May, the highest since February 2024, driven mainly by higher energy prices. Meanwhile, the ECB raised interest rates for the first time in nearly three years and signaled that restrictive policy could remain in place through 2027. Financial stocks led gains, with BNP Paribas rising 5% and Société Générale adding 5.9%. Luxury shares also advanced, with LVMH up 3.6% and Hermès gaining 3%. In the industrial sector, Airbus rose 2.3% and Safran added 3.6%. In contrast, TotalEnergies fell 2.1% on lower oil prices."
-    },
-    {
-      "id": "4933205",
-      "time": "2026-06-12 23:53:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐盟高階外交官：歐盟航班延誤賠償標準維持不變，航空公司不得向乘客收取鄰座看護子女的額外費用。"
-    },
-    {
-      "id": "mkt:019ebc89-6a48-7dd8-afe2-6c9eda7533d0",
-      "time": "2026-06-12 23:53:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish",
-        "SPCX.O"
-      ],
-      "text": "As SpaceX (SPCX.O) began trading, Tesla (TSLA.O) extended losses to 2.2%."
-    },
-    {
-      "id": "4933204",
-      "time": "2026-06-12 23:51:53",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "SpaceX開盤市值即超過2萬億美元，超過了此前1.77萬億美元的估值，目前位列美股市場第七名。"
     }
   ]
 }
