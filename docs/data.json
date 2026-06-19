@@ -1,7 +1,184 @@
 {
-  "updated": "2026-06-19 19:05:29",
-  "count": 18130,
+  "updated": "2026-06-19 19:21:53",
+  "count": 18099,
   "items": [
+    {
+      "id": "4945068",
+      "time": "2026-06-19 19:21:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗要求所有透過霍爾木茲海峽的船隻提前協調，理由是安全風險上升，需要防止海上事故。"
+    },
+    {
+      "id": "mkt:019edf9c-1b72-7dd8-b093-f3cc4703e863",
+      "time": "2026-06-19 19:20:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran has required all vessels transiting the Strait of Hormuz to coordinate passages in advance, citing rising security risks and the need to prevent maritime accidents."
+    },
+    {
+      "id": "mkt:019edf9b-e146-7dd8-b093-e9bb76219b8c",
+      "time": "2026-06-19 19:19:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China donates meteorological equipment to Madagascar】China delivered meteorological early-warning and information-technology equipment to Madagascar on the 18th in Antananarivo, donated through a UNDP-implemented livelihood project. Madagascar, Africa's largest island in the western Indian Ocean, faces a Dec–Mar cyclone season and recurrent floods and droughts that regularly threaten economic activity and livelihoods."
+    },
+    {
+      "id": "4945067",
+      "time": "2026-06-19 19:19:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國向馬達加斯加捐贈氣象裝置】中國向馬達加斯加捐贈氣象裝置交付儀式18日在馬首都塔那那利佛舉行。中方此次透過聯合國開發計劃署在馬達加斯加實施的民生專案進行捐贈，捐贈物資包括一批氣象預警和資訊科技裝置。馬達加斯加交通和氣象部長安德里亞納瓦盧納·拉馬南布拉對中方捐贈物資表示衷心感謝，指出這些物資將提升馬氣象資料處理和天氣預報生成等能力，為馬民眾提供更加及時、準確、高效的氣象服務，有力助推馬氣候和氣象資訊服務現代化程序。（新華社）"
+    },
+    {
+      "id": "4945066",
+      "time": "2026-06-19 19:19:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【耐克被曝對渠道大動刀：砍掉線上經銷商授權，僅保留官方旗艦店】近日，有多位使用者在社交媒體發文稱，自2027年1月1日開始，耐克將取消線上一級經銷商授權，經銷商將無權在任何線上平臺售賣耐克產品，消費者購買渠道將僅限耐克官方旗艦店。 一位代理耐克近十年的二級經銷商告訴經濟觀察報，據他了解，耐克方面已經與大型一級經銷商進行了一對一的溝通，一級經銷商對此已經知情。他所對接的耐克一級經銷商前不久向他同步了該訊息，同時表示，目前情況還不是特別明朗，具體如何實施只能屆時再看。 另一位接近耐克經銷商的知情人士向經濟觀察報表示，據他了解，包括滔搏、勝道、銳力等在內的大型經銷商已知曉耐克有意在2027年取消線上經銷授權。 對於耐克而言，若取消線上一級經銷商授權，其銷售額將面臨不小的衝擊。多位耐克經銷商及接近人士告訴經濟觀察報，耐克此舉的目的是為了“控價”。 針對耐克線上政策調整傳聞，記者向耐克及其經銷商之一的滔搏進行確認。兩家公司目前均未回覆。（經濟觀察報）"
+    },
+    {
+      "id": "4945065",
+      "time": "2026-06-19 19:13:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓 5 月國際收支順差 1.31 億美元。"
+    },
+    {
+      "id": "4945064",
+      "time": "2026-06-19 19:11:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗宣佈霍爾木茲海峽通行新規：須提前48小時提交申請】當地時間19日，伊朗“波斯灣海峽管理局”表示，鑑於伊美諒解備忘錄的簽署以及相關主管部門指令，現通知霍爾木茲海峽通行申請方：在所宣佈的時間範圍內，凡按規定要求提交通行申請並符合相關條件的船舶，將予以安排通行。根據“波斯灣海峽管理局”釋出的通行要求，船隻過境申請須在抵達霍爾木茲海峽區域前至少48小時提交。（央視新聞）"
+    },
+    {
+      "id": "mkt:019edf93-159e-7dd8-b093-e0584a6e612b",
+      "time": "2026-06-19 19:10:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HEZBOLLAH official Fadlallah said the US has a responsibility to ensure Israel stops its attacks and implements the agreement."
+    },
+    {
+      "id": "mkt:019edf92-faae-7dd8-b093-dc2e3e3d8568",
+      "time": "2026-06-19 19:10:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran requires 48-hour advance applications for Strait of Hormuz transits】On the 19th (local time) Iran's Persian Gulf Strait Administration said, citing the signing of an Iran‑U.S. memorandum of understanding and directives from relevant authorities, that vessels must submit transit applications at least 48 hours before entering the Strait of Hormuz. Vessels that submit the required applications and meet conditions within the announced window will be arranged to transit."
+    },
+    {
+      "id": "4945063",
+      "time": "2026-06-19 19:09:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬與勞資委員會準備舉行會談。"
+    },
+    {
+      "id": "mkt:019edf92-3447-7dd8-b093-d2e4e5ada841",
+      "time": "2026-06-19 19:09:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Hezbollah official Fadlallah said Iran has told Hezbollah that, absent a comprehensive ceasefire, talks with the US cannot continue. With Israel continuing strikes on Lebanon, he said the Lebanese government should refuse direct negotiations with Israel."
+    },
+    {
+      "id": "4945062",
+      "time": "2026-06-19 19:08:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨議員：美國有責任確保以色列停止進攻並執行協議。"
+    },
+    {
+      "id": "4945061",
+      "time": "2026-06-19 19:08:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨議員：在以色列持續襲擊黎巴嫩的情況下，黎巴嫩政府應當拒絕與以色列進行直接談判。"
+    },
+    {
+      "id": "4945060",
+      "time": "2026-06-19 19:08:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨議員：伊朗已告知真主黨，若不達成全面停火，與美國的談判就無法繼續。"
+    },
+    {
+      "id": "mkt:019edf90-6cd8-7dd8-b093-cb484c3286d8",
+      "time": "2026-06-19 19:07:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran says vessels filing compliance applications may transit Strait of Hormuz】Iran's Persian Gulf Straits Administration said on social media on the 19th that, under an Iran‑US memorandum of understanding and directives from relevant authorities, vessels that submit applications within the prescribed timeframe and comply with required precautions will be permitted to transit the Strait of Hormuz."
+    },
+    {
+      "id": "te:economy:560468",
+      "time": "2026-06-19 19:07:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Small Business Sentiment",
+        "Importance 1"
+      ],
+      "text": "Canada Small Business Confidence Rises in June — Canada's CFIB Business Barometer long-term index, which tracks 12-month forward expectations for business performance, rose to 49.6 in June 2026 from a 46.3 in May. The short-term optimism index, based on the 3-month outlook, declined to 46.1 from 48.1 in the prior month. Sentiment weakened across most sectors, namely retail (48.5 vs 53.6), transportation and utilities (45.3 vs 46.7), agriculture (43 vs 45.5) and accommodation and food services (38.8 vs 47.3), with most also recording short-term declines. The average price increase edged down to 3% from 3.1%, while average wages moderated to 2.3% from 2.4%. Although staffing intentions improved, labor market sentiment remained weak, with more firms planning to lay-off (13% vs 16% in May) than hire (12% vs 14%). Low demand remained the most commonly cited supply-side constraint, reported by 53% of firms. On the cost side, fuel prices continued to be the dominant constraint on input supply."
+    },
+    {
+      "id": "4945059",
+      "time": "2026-06-19 19:06:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗波斯灣海峽管理局19日在社交媒體發文宣佈，根據伊美諒解備忘錄及相關主管機構指令，在規定時間段內按要求提交申請並遵守相關注意事項的船隻，可獲准透過霍爾木茲海峽。（新華社）"
+    },
+    {
+      "id": "4945058",
+      "time": "2026-06-19 19:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國造紙學會就“紙尿褲事件”發文：相關報道在檢測依據等關鍵環節存在明顯瑕疵】針對《專業檢測機構檢出有毒物質 多款紙尿褲被指侵害嬰幼兒健康》的報道，中國造紙學會衛生用品專業委員會發文表示，該會高度重視，第一時間關注並梳理核實，該報道在檢測依據、資料披露、因果論證等關鍵環節存在明顯瑕疵。甲醯胺並非嬰兒紙尿褲生產過程中的必要新增物質。相關報道稱多款嬰幼兒紙尿褲產品檢出甲醯胺，但未披露具體檢出數值、檢測機構、檢測標準、檢測裝置、檢測方法等核心資訊。產品安全風險評估必須依託科學的檢測方法、標準化檢測流程、完整的檢測資料等，採用科學的方法進行評估。本次報道僅籠統表述“檢出”相關物質，檢測方法、檢測資料等關鍵檢測要素缺位，所得結論不具備公信力與採信基礎。"
+    },
+    {
+      "id": "te:markets:560467",
+      "time": "2026-06-19 19:05:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Holds Near $80, Set for Weekly Loss — Brent crude oil steadied near $80 per barrel on Friday as trading remained volatile amid shifting flows through the Strait of Hormuz and renewed uncertainty over US-Iran negotiations on a longer-term peace agreement. Market data suggested shipping activity slowed after an earlier surge in tanker movements, with no outbound vessels seen leaving the Persian Gulf on Friday morning. In contrast, nearly 10 million barrels of crude were observed transiting or positioned near the strait on Thursday, including the first Saudi-owned tankers to move since the conflict began more than three months ago. However, optimism from an interim US-Iran accord was tempered after planned talks in Switzerland were delayed, raising doubts over the durability of any supply recovery. Despite recent stabilization, crude was on track for a weekly decline of around 8.5%, erasing most of the gains accumulated during the height of the conflict."
+    },
     {
       "id": "te:markets:560466",
       "time": "2026-06-19 19:04:31",
@@ -166568,427 +166745,6 @@
         "其他"
       ],
       "text": "SHARONAI與英偉達簽署六年計算協議後，公司股價盤前飆升25%。"
-    },
-    {
-      "id": "4932702",
-      "time": "2026-06-12 19:21:51",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "英國發言人：英國承諾在 7 月 7 日前出臺國防計劃。"
-    },
-    {
-      "id": "4932701",
-      "time": "2026-06-12 19:21:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "SHARON AI預計到2027年中將部署超過55,000個英偉達GPU。"
-    },
-    {
-      "id": "4932700",
-      "time": "2026-06-12 19:21:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "SHARON AI與英偉達(NVIDIA)合作，將在澳大利亞新增72兆瓦資料中心容量。"
-    },
-    {
-      "id": "4932699",
-      "time": "2026-06-12 19:20:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "SHARON AI攜手NVIDIA在澳大利亞部署72兆瓦AI工廠及多達4萬塊GB300 GPU。"
-    },
-    {
-      "id": "4932698",
-      "time": "2026-06-12 19:20:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中瓷電子：股東泉盛盈和擬減持不超2.095%股份】中瓷電子公告稱，股東泉盛盈和持有公司3.54%股份，計劃自公告披露之日起十五個交易日後的三個月內，以集中競價和/或大宗交易方式減持不超945萬股，即不超公司股份總數的2.095%。減持原因為部分合夥人自身資金及資產規劃需求，在公司任職董事、高管的合夥人不參與。本次減持計劃存在不確定性，不會對公司治理、股權結構及經營產生重大影響。"
-    },
-    {
-      "id": "mkt:019ebb8f-e00c-7dd8-afdd-09bb42c21ceb",
-      "time": "2026-06-12 19:20:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Sharon AI announced a six-year strategic compute partnership with NVIDIA (NVDA.O)."
-    },
-    {
-      "id": "4932697",
-      "time": "2026-06-12 19:20:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京文化：持股6.85%股東擬減持不超3%股份】北京文化公告稱，持股6.85%的股東青島海發產業投資控股有限公司，因經營發展資金需要，計劃自公告披露之日起十五個交易日後的三個月內，以集中競價或大宗交易方式減持不超21,477,007股，佔公司總股本比例3%。其中，集中競價不超7,159,002股（佔比1%），大宗交易不超14,318,005股（佔比2%）。本次減持計劃存在不確定性，且不會影響公司治理結構和控制權。"
-    },
-    {
-      "id": "4932696",
-      "time": "2026-06-12 19:20:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "SHARON AI宣佈與英偉達達成六年戰略計算合作。"
-    },
-    {
-      "id": "4932695",
-      "time": "2026-06-12 19:20:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際咖啡組織執行董事：咖啡大宗價格居高難下，中國市場舉足輕重】國際咖啡組織（International Coffee Organization，ICO）執行董事瓦努西亞·諾蓋拉（Vanúsia Nogueira）近日接受了第一財經的獨家專訪。諾蓋拉稱，本輪咖啡價格上漲始於2023年10月，根源在於供需關係極度緊張：自2021年以來，全球主要產區持續遭遇極端天氣導致減產，而以亞洲為代表的市場需求仍在持續增長。若未來幾年天氣條件無法明顯改善，咖啡價格恐將維持高位。談及中國，諾蓋拉表示高度看好中國市場。她認為，中國不僅在成長為全球重要的咖啡消費市場，也有望成為優秀的咖啡生產國。不過，由於本土產量目前還無法滿足需求，中國目前還是全球咖啡市場中舉足輕重的進口大國。（第一財經）"
-    },
-    {
-      "id": "4932694",
-      "time": "2026-06-12 19:18:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【媒體：為進行和平談判，美方早已多次派遣安保人員先行】據知情人士透露，過去數週內，數百名美國安全人員密集開展秘密行動，以確保可能的和平談判順利進行。然而，近期頻發的突發事件導致談判計劃屢次陷入停滯。此前，美方已多次派遣軍事與安全先遣隊赴海外密集踩點，為美國副總統萬斯（JD Vance）以及中東特使威特科夫（Steve Witkoff）與伊朗代表舉行高層會晤鋪路。今年4月，萬斯及美國政府多位高階官員曾前往巴基斯坦，同伊朗官方代表團展開直接面對面談判，但雙方因核心分歧未決未能達成任何協議。據知情人士證實，在首輪接觸無果後，包括美國特種部隊在內的大批美方安全人員仍長期滯留巴基斯坦，以期為可能啟動的下一階段接觸做準備，然而相關計劃最終因故擱淺。近期，美伊和平談判的預期會晤地點已由巴基斯坦轉移至瑞士。隨著談判地點的變更，大批美國安全保障人員頻繁往返於日內瓦"
-    },
-    {
-      "id": "4932693",
-      "time": "2026-06-12 19:18:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永輝超市推出新鮮零食館】6月12日，介面新聞獲悉首家全健康場景調改門店重慶生活廣場店將在6月13日開業，這家門店內將首次出現永輝超市的“新鮮零食館” 。該新鮮零食館以零食、飲料、熟食為三大核心品類，涵蓋100個SKU。介面新聞曾報道， 新鮮零食館已成為如今零售行業的趨勢；而永輝超市則是率先推出該業態的連鎖零售品牌。同時，永輝超市CEO王守誠表示，永輝超市進入第二階段調改將重點聚焦健康場景。"
-    },
-    {
-      "id": "4932692",
-      "time": "2026-06-12 19:18:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "雅加達計劃一年內發行印尼首支市政債券。"
-    },
-    {
-      "id": "4932691",
-      "time": "2026-06-12 19:17:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦2027財年預算：預計基本盈餘佔國內生產總值的2%。"
-    },
-    {
-      "id": "4932690",
-      "time": "2026-06-12 19:16:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部提醒赴泰本國公民，提防應美方要求遭到拘留或逮捕的風險。"
-    },
-    {
-      "id": "4932689",
-      "time": "2026-06-12 19:16:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "天博智慧滬市主機板IPO獲上市委會議透過。"
-    },
-    {
-      "id": "4932688",
-      "time": "2026-06-12 19:16:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦2027財年預算：設定總收入目標為20.60萬億盧比；設定總稅收收入目標為15.26萬億盧比。"
-    },
-    {
-      "id": "4932687",
-      "time": "2026-06-12 19:15:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【圖靈量子與迅策科技達成戰略合作 將共同打造“量子+Token工廠”軟硬一體系統解決方案】近日，圖靈量子與迅策科技在深圳正式簽署戰略合作協議。雙方將以“量子+Token工廠”為核心框架，率先推動量子科技與詞元（Token）工業化生產體系深度融合，以“量子計算+量子安全”雙輪驅動的產業智慧應用生態新模式，共同打造“量子+Token工廠”軟硬一體系統解決方案，大力推動量子技術與能源、金融、醫療、生物、交通等多行業深度融合，賦能跨行業數智化轉型。"
-    },
-    {
-      "id": "4932686",
-      "time": "2026-06-12 19:15:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞瑪精密：香港大言將以4230.48萬元回購公司持有的普拉尼德19.99%的股權】瑞瑪精密公告，公司與交易對方簽署了股權回購協議，香港大言將以人民幣4230.48萬元回購公司持有的普拉尼德19.99%的股權。此次回購價格基於原協議約定的股權認購本金人民幣3998萬元加上相應利息，並經雙方友好協商確定。交易完成後，公司將不再持有普拉尼德的股權。此次回購已經董事會審議透過，尚需提交公司股東會審議。"
-    },
-    {
-      "id": "4932685",
-      "time": "2026-06-12 19:15:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盈趣科技：向特定物件發行股票申請獲同意】盈趣科技公告，公司於近日收到中國證監會出具的《關於同意廈門盈趣科技股份有限公司向特定物件發行股票註冊的批覆》（證監許可〔2026〕1386號）。根據批覆，中國證監會同意公司向特定物件發行股票的註冊申請。本次發行應嚴格按照報送深圳證券交易所的申報檔案和發行方案實施。本批覆自同意註冊之日起12個月內有效。公司董事會將根據相關要求及股東會授權，在規定期限內辦理本次發行相關事宜，並履行資訊披露義務。"
-    },
-    {
-      "id": "mkt:019ebb8b-6c42-7dd8-afdd-04a21f6a794a",
-      "time": "2026-06-12 19:15:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Han Zheng meets Singapore parliament speaker Xie Jianping in Beijing】China vice president Han Zheng met Singapore parliament speaker Xie Jianping in Beijing on June 12. Han said China and Singapore will implement recent leaders' consensus, deepen strategic communication, increase mutual support, expand high‑quality cooperation and people‑to‑people links to advance an all‑round, high‑quality partnership. Both sides agreed to strengthen multilateral coordination, advocate orderly multipolarity and inclusive globalization, and push for a fairer global governance system. Xie reaffirmed Singapore's commitment to the One China policy."
-    },
-    {
-      "id": "4932684",
-      "time": "2026-06-12 19:15:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦2027財年預算：總支出預計為18.77萬億盧比。"
-    },
-    {
-      "id": "4932683",
-      "time": "2026-06-12 19:15:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦2027財年預算：國防開支預計為3萬億盧比。"
-    },
-    {
-      "id": "4932682",
-      "time": "2026-06-12 19:15:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓正會見新加坡國會議長謝健平】國家副主席韓正12日在京會見新加坡國會議長謝健平。 韓正表示，中國和新加坡互為友好近鄰和重要合作伙伴。去年6月，習近平主席會見黃循財總理，為下階段中新關係發展指明瞭方向。中方願同新方一道，認真落實兩國領導人的重要共識，進一步加強戰略溝通，加大相互支援，拓展高質量合作，促進民心相通，推動中新全方位高質量的前瞻性夥伴關係實現更大發展。雙方要加強多邊協作，共同倡導平等有序的世界多極化和普惠包容的經濟全球化，推動構建更加公正合理的全球治理體系。 謝健平表示，新中是好朋友、好鄰居，合作領域廣泛，成果豐碩。新方十分珍視新中夥伴關係，堅定致力於進一步深化雙邊合作。新方堅定奉行一箇中國政策。(新華社)"
-    },
-    {
-      "id": "4932681",
-      "time": "2026-06-12 19:14:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國堪薩斯城阿根廷國家隊營地附近發生槍擊案。案發於一處居民樓，造成一名青少年死亡、兩人受傷。"
-    },
-    {
-      "id": "4932679",
-      "time": "2026-06-12 19:13:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哈馬斯發言人譴責以色列“公然違背”停火協議】當地時間12日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆·卡西姆發表宣告，強烈譴責以色列軍隊當天凌晨在加沙城將“黃線”向西推移。哈馬斯表示，以軍在推進過程中伴有轟炸和驅離平民的行動，此舉構成了對停火協議的“公然違背”。卡西姆在宣告中指出，以軍的這一越線行動，是對以色列總理此前揚言要“擴大對加沙地帶控制範圍”的實質性推進。他同時對“和平委員會”及其主管姆拉德諾夫的“沉默”提出批評，並指責斡旋國和擔保國未能有效阻止以方的違約行為。（央視新聞）"
-    },
-    {
-      "id": "4932678",
-      "time": "2026-06-12 19:12:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金地集團：為北京專案公司15億元融資提供擔保】金地集團公告稱，公司子公司間接持有北京金地盛通房地產開發有限公司80%股權。為滿足專案發展需要，專案公司向銀行申請15億元貸款，期限18年。公司及子公司為該融資提供全額連帶責任保證擔保，擔保期限為主合同約定的債務履行期限屆滿之日起三年。專案公司其他股東已按持股比例出具《反擔保函》。截至公告披露日，公司對外擔保餘額179.05億元，佔2025年經審計淨資產的39.22%，無逾期擔保。"
-    },
-    {
-      "id": "4932677",
-      "time": "2026-06-12 19:12:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度首席經濟顧問對NDTV表示：本財年增長預測為6.6%，下行風險為20至30個基點，這一預期看似合理。"
-    },
-    {
-      "id": "4932676",
-      "time": "2026-06-12 19:12:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞華技術：擬以800萬-1600萬元回購公司股份】瑞華技術公告，擬以800萬-1600萬元回購公司股份，回購價格不超過40元/股。"
-    },
-    {
-      "id": "4932675",
-      "time": "2026-06-12 19:12:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【粵港澳大灣區資料特區“來數加工”啟用】第五屆粵港澳大灣區（廣東）算力產業大會在廣東省韶關市舉辦，粵港澳大灣區資料特區“來數加工”、深廣韶資料大通道等專案建設正式啟動。韶關是全國十大算力叢集中，承擔國家來數加工、算力監測排程、算力設施安全等國家級試點任務的叢集，創新構建“港數韶算、澳數韶算”發展模式。"
-    },
-    {
-      "id": "4932674",
-      "time": "2026-06-12 19:12:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京投發展：籌劃重大資產重組，尚處協商階段存不確定性】京投發展公告稱，公司擬將房地產開發業務相關資產及負債轉讓給控股股東京投公司，採用現金支付，不涉及發行股份，不影響股權結構和控股股東變更，構成重大資產重組及關聯交易。截至公告披露日，公司正推進整體工作，組織中介開展盡職調查、審計、評估等，相關要素尚需協商確定，交易雙方未籤協議。本事項仍處籌劃階段，存在重大不確定性。"
-    },
-    {
-      "id": "4932673",
-      "time": "2026-06-12 19:11:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：向黎巴嫩薩拉凡德、塔法希塔、西奈農場各鎮及村落居民釋出緊急警告。"
-    },
-    {
-      "id": "te:markets:558723",
-      "time": "2026-06-12 19:11:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Heads for Second Weekly Drop — Gold traded around $4,200 per ounce on Friday, as oil prices fell on growing optimism for a US-Iran peace deal. However, bullion remained on track for a second consecutive weekly decline due to expectations of higher interest rates. US President Donald Trump suggested a deal could be reached as early as this weekend, though Tehran stated no final decision had been made. Since the Iran conflict began, gold has faced pressure amid concerns that surging energy costs could drive inflation higher, reinforcing expectations that central banks will maintain elevated interest rates. Supporting this view, the European Central Bank raised interest rates on Thursday for the first time since 2023 and upwardly revised its inflation forecasts for 2026 and 2027. Additionally, US producer prices climbed 6.5% year-over-year in May, underscoring the inflationary impact of the Middle East energy shock and strengthening expectations of a Federal Reserve rate hike this year."
-    },
-    {
-      "id": "4932672",
-      "time": "2026-06-12 19:11:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王寧會見孟加拉國國民議會副議長卡馬爾和商務、工業、紡織與黃麻部部長坎達卡爾】6月12日，省委書記王寧在昆明會見來滇出席第10屆南博會、第7屆中國—南亞合作論壇的孟加拉國國民議會副議長卡馬爾，孟加拉國商務、工業、紡織與黃麻部部長坎達卡爾一行。（雲南釋出）"
-    },
-    {
-      "id": "4932671",
-      "time": "2026-06-12 19:11:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "安佑生物科技集團股份有限公司深市主機板IPO獲受理，預計融資金額8.0995億元。"
-    },
-    {
-      "id": "4932670",
-      "time": "2026-06-12 19:10:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【金鑫會見阿聯酋戰略研究中心代表團】據外聯部官網，6月12日，中共中央對外聯絡部副部長金鑫在北京會見由阿聯酋戰略研究中心主任蘇爾坦·努艾米率領的代表團。金鑫表示，在習近平主席和穆罕默德總統戰略引領下，中阿關係保持健康穩定發展，樹立了新時期中國同阿拉伯國家關係典範。中方願透過黨際渠道同阿聯酋戰略研究中心豐富交往合作、深化理念交流、加強政策溝通，助力中阿關係發展。金鑫還結合國際地區形勢介紹了習近平主席提出的四大全球倡議以及維護和促進中東和平穩定的四點主張。蘇爾坦表示，中國是有影響力的世界大國，是阿聯酋的全面戰略伙伴。阿方高度重視發展對華關係，高度讚賞習近平主席提出的四大全球倡議，期待中方在國際地區事務中發揮更大作用。阿聯酋戰略研究中心願同中聯部加強雙邊交往，共同舉辦研討會、宣介會等活動，並在金磚國家、全球南方等多邊平臺加強智庫合作。"
-    },
-    {
-      "id": "4932669",
-      "time": "2026-06-12 19:10:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【三安光電：董事長林志強增持100萬股公司股份】三安光電公告，公司股票於2026年6月10日、6月11日、6月12日連續三個交易日內收盤價格跌幅偏離值累計超過20%，根據《上海證券交易所交易規則》的有關規定，屬於股票交易異常波動情形。根據股份增持計劃，公司董事長林志強先生於2026年6月12日透過上海證券交易所集中競價交易系統增持公司股份100萬股，約佔公司總股本的0.02%，增持金額人民幣1498.26萬元。公司其他董事、高階管理人員、控股股東在本次股票交易異常波動期間不存在買賣公司股票的情況。"
-    },
-    {
-      "id": "te:markets:558722",
-      "time": "2026-06-12 19:10:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Closes Sharply Higher — India’s BSE Sensex gained ground to close about 2.3% firmer at 75,528 on Friday, the biggest daily gain since early April, tracking a global rally fueled by optimism around a looming US-Iran deal. Oil prices declined sharply following comments from US President Trump, who said Washington and Tehran could reach a peace agreement as soon as this weekend and could reopen the Strait of Hormuz. The emerging peace deal reduces geopolitical risks and could support renewed foreign inflows into Indian equities. Gains were broad-based, with banking, financial, realty, auto and consumer-oriented stocks leading the advance."
-    },
-    {
-      "id": "mkt:019ebb86-814e-7dd8-afdc-f86c9419bed0",
-      "time": "2026-06-12 19:10:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China lab develops 3D multilayer on‑chip capacitor for AI/GPU chips; capacitance density >1,000 nF/mm2】Hubei Jiangcheng Laboratory said it has developed a 3D multilayer on‑chip capacitor with capacitance density exceeding 1,000 nF/mm2, targeting direct use in AI/GPU chips and high‑performance processors. The lab said the technology supports high‑compute, low‑power chip design and is undergoing process tape‑out and small‑batch trial production, with plans for scale-up in advanced packaging. The release described the capacitor as an ultra‑miniature energy buffer that smooths voltage during rapid current swings and complements HBM as an energy cache across nanosecond‑to‑second timescales to sustain GPU peak power."
-    },
-    {
-      "id": "4932668",
-      "time": "2026-06-12 19:10:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東利機械：合計持股5%以上股東減持136.75萬股】東利機械公告稱，公司合計持股5%以上股東孟書明、孟淑亮減持時間屆滿。2026年3月13日至6月12日，兩人以集中競價方式合計減持136.75萬股，佔公司總股本的0.93154%，未超計劃減持數量。減持後，兩人合併持有股份降至733.99萬股，佔總股本4.99996%。此次減持不會導致公司控制權變更，也未違規。"
-    },
-    {
-      "id": "4932667",
-      "time": "2026-06-12 19:09:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度首席經濟顧問：當前水平下，無需將更多全球油價漲幅傳導至零售價格。"
-    },
-    {
-      "id": "4932666",
-      "time": "2026-06-12 19:09:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超達裝備：股東濟南泉興減持股份，持股比例降至5%以下】超達裝備公告稱，2025年2月26日至2026年6月11日，因公司實施股權激勵計劃、可轉債轉股，股東濟南泉興持股比例被動稀釋；2026年5月11日至6月11日，該股東透過集中競價、大宗交易方式減持股份。截至6月11日，其持股數量由5425845股減至4097945股，持股比例由6.82797%降至4.99995%，不再是持股5%以上股東。濟南泉興此前披露的減持計劃尚未實施完畢，不排除未來12個月內繼續增持或減持。"
-    },
-    {
-      "id": "4932665",
-      "time": "2026-06-12 19:09:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王堅院士稱AI不會替代人類】“我堅定地不相信AI會替代人類。狗的鼻子比人要靈敏很多，可是我們從來沒有覺得有什麼傷害。”在今日與智源研究院理事長黃鐵軍的對談中，中國工程院院士、之江實驗室主任王堅這樣回應“AI是否會取代人類”的爭論。 過去兩年，大模型能力的快速躍升不斷推高人們對人工智慧的期待與焦慮。從程式設計師是否會失業，到科學家是否會被替代，再到超級智慧是否會失控，關於AI的討論幾乎都圍繞著“機器與人的競爭”展開。在王堅看來，這種討論從一開始就陷入了框架的侷限。 而在技術層面，他認為未來最重要的事情之一，就是讓token（詞元）變得像一張紙、一支筆一樣廉價，才能真正釋放技術的潛力。“我們的token太貴了，一定要讓token變得‘不值錢’。”（第一財經）"
-    },
-    {
-      "id": "4932664",
-      "time": "2026-06-12 19:08:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國漢堡機場候機區因安全事件被疏散】德國警方12日說，因發生一起安全事件，德國漢堡機場候機區當天上午被緊急疏散，所有已透過安檢的旅客被要求離開該區域，部分已登機乘客也被要求下機。"
-    },
-    {
-      "id": "4932663",
-      "time": "2026-06-12 19:08:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理：將宣佈減稅措施及多項經濟增長刺激舉措。"
-    },
-    {
-      "id": "4932662",
-      "time": "2026-06-12 19:07:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒稱伊朗未就放棄霍爾木茲海峽管理權作出承諾】據伊朗伊斯蘭共和國通訊社12日報道，伊朗方面在伊美諒解備忘錄草案的最新文字中，“未就放棄霍爾木茲海峽管理權或將該海峽狀況恢復至戰事開始前的狀態作出任何承諾”。報道稱，最新文字就霍爾木茲海峽提及的事項包括：若戰事結束，實現霍爾木茲海峽通航正常化；由沿岸國家確保航線安全；結束美國的“非法封鎖”；消除美國和以色列對商船通行的威脅。報道稱，伊朗要求，美國不參與對霍爾木茲海峽的未來管理。霍爾木茲海峽日後的管理將基於伊朗提議，在一個與地區國家相關的框架內進行。報道還稱伊美諒解備忘錄文字“已接近定稿”。（新華社）"
-    },
-    {
-      "id": "4932661",
-      "time": "2026-06-12 19:07:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金域醫學：與關聯人共同投資5000萬元設立金坤醫智】金域醫學公告，公司擬使用自有資金與聖域鍅、金基培元、金垚智合、鑫垣匯智及金坤智源共同投資設立金坤醫智，註冊資本5000萬元。其中，公司、聖域鍅、金垚智合分別認繳出資1000萬元，持股比例分別為20%；鑫垣匯智認繳出資500萬元，持股比例10%；金基培元及金坤智源分別認繳出資750萬元，持股比例分別為15%。本次交易構成關聯交易，未構成重大資產重組。"
-    },
-    {
-      "id": "4932660",
-      "time": "2026-06-12 19:06:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新規後已有投資者被香港銀行銷戶？眾安銀行：按既定程式處理安排】隨著香港金管局開戶監管要求逐漸落地，近期有部分投資者反饋稱，收到香港銀行開戶行的郵件通知，將被取消賬戶資格。其中，有投資者明確指明“眾安銀行開始給大陸美股的使用者銷戶”。針對上述事宜，記者聯絡採訪眾安銀行。6月12日，眾安銀行回應稱，該行一直按照相關監管要求，會不時對客戶的投資賬戶進行檢視。只要客戶於開戶時提供真實及有效資料，並能透過該行不時進行的盡職審查，且後續賬戶操作亦符合相關法規要求，客戶服務一般不會受到影響。眾安銀行表示，如個別賬戶出現登出情況，屬該行按既定程式作出的處理安排，並非因監管機構指令而採取的相關行動。（財聯社）"
-    },
-    {
-      "id": "mkt:019ebb83-25b8-7dd8-afdc-f029e88c15b2",
-      "time": "2026-06-12 19:06:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Muxi Co., Ltd. is planning an H‑share offering and a listing on the Hong Kong Stock Exchange."
-    },
-    {
-      "id": "mkt:019ebb82-a825-7dd8-afdc-ebfba145f01b",
-      "time": "2026-06-12 19:06:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100"
-      ],
-      "text": "Nasdaq says SpaceX IPO will be eligible to trade from 10:00 a.m. ET (22:00 Beijing time)."
-    },
-    {
-      "id": "4932659",
-      "time": "2026-06-12 19:05:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沐曦股份：擬發行H股並在港交所主機板上市 多項議案待股東會審議】沐曦股份公告稱，公司第一屆董事會第二十五次會議審議多項議案，同意公司發行境外上市外資股（H股）並申請在香港聯交所主機板掛牌上市，初始發行規模不超發行後總股本的5%，並授予不超初始發行規模15%的超額配售權。還透過轉為境外募集股份並上市的股份有限公司、確定發行決議有效期等議案。此外，變更獨立董事，調整董事會專門委員會委員，擬變更證券事務代表。上述議案均需提交公司2026年6月29日召開的第一次臨時股東會審議。"
     }
   ]
 }
