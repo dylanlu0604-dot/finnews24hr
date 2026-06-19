@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 03:10:40",
-  "count": 17753,
+  "updated": "2026-06-20 03:14:48",
+  "count": 17741,
   "items": [
+    {
+      "id": "4945409",
+      "time": "2026-06-20 03:11:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克裁減中國香港辦公室約60個崗位、倫敦辦公室約120個崗位。"
+    },
     {
       "id": "mkt:019ee147-b9ef-7dd8-b09a-a0fe5889b930",
       "time": "2026-06-20 03:07:14",
@@ -163397,115 +163405,6 @@
         "國際"
       ],
       "text": "伊朗外長：包括黎巴嫩在內的所有戰線的戰爭，都將在臨時協議框架下宣佈結束。"
-    },
-    {
-      "id": "4933323",
-      "time": "2026-06-13 03:14:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：這一諒解的結果是一份包含14條的備忘錄。"
-    },
-    {
-      "id": "mkt:019ebd41-b275-7dd8-afe5-f9d27bb06ef2",
-      "time": "2026-06-13 03:14:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister Araghchi said the nuclear issue will be discussed at a later stage."
-    },
-    {
-      "id": "4933322",
-      "time": "2026-06-13 03:14:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：核問題將在後續階段討論。"
-    },
-    {
-      "id": "4933321",
-      "time": "2026-06-13 03:13:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：協議尚未簽署；如果協議最終簽署，我將對每一項條款進行詳細說明。"
-    },
-    {
-      "id": "mkt:019ebd41-10e4-7dd8-afe5-f0e5289b7441",
-      "time": "2026-06-13 03:13:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign minister Araghchi said he has not yet signed the memorandum of understanding and that it may change."
-    },
-    {
-      "id": "4933320",
-      "time": "2026-06-13 03:13:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "據稱ROKU正在進行出售談判，其中可能包括媒體合作。"
-    },
-    {
-      "id": "mkt:019ebd40-d3f6-7dd8-afe5-eb0d297548d3",
-      "time": "2026-06-13 03:13:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian foreign minister Araghchi said the agreement has not been signed; if it is ultimately signed he will detail each clause."
-    },
-    {
-      "id": "4933319",
-      "time": "2026-06-13 03:13:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：諒解備忘錄尚未簽署，仍有可能作出調整。"
-    },
-    {
-      "id": "mkt:019ebd40-0a66-7dd8-afe5-e41930e52c16",
-      "time": "2026-06-13 03:12:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France's foreign minister said after a Friday morning call with Iranian foreign minister Araghchi he remains cautious but positive signs are accumulating."
-    },
-    {
-      "id": "4933318",
-      "time": "2026-06-13 03:12:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外交部長週五與伊朗外長會談後表示：我仍持審慎態度，但積極訊號正在不斷累積。"
-    },
-    {
-      "id": "mkt:019ebd3f-555d-7dd8-afe5-dbbdc49365df",
-      "time": "2026-06-13 03:11:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iranian foreign minister Araghchi said Iran is the winner of a war with the United States and has become stronger afterward."
-    },
-    {
-      "id": "4933317",
-      "time": "2026-06-13 03:11:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：伊朗在與美國的對抗後變得更加強大。"
-    },
-    {
-      "id": "4933316",
-      "time": "2026-06-13 03:11:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：伊朗是與美國對抗中的獲勝方。"
     }
   ]
 }
