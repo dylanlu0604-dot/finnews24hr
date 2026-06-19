@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-19 23:17:13",
-  "count": 17887,
+  "updated": "2026-06-19 23:21:38",
+  "count": 17884,
   "items": [
+    {
+      "id": "mkt:019ee078-6dc9-7dd8-b098-b9eb0b56a8d5",
+      "time": "2026-06-19 23:20:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil Steel Association (Aco Brasil) said Brazil's crude steel production rose 2.4% year-on-year in May."
+    },
+    {
+      "id": "4945329",
+      "time": "2026-06-19 23:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西鋼鐵協會（ACO BRASIL）：巴西 5 月粗鋼產量同比增長 2.4%，巴西 5 月鋼鐵進口量同比下滑 55.4%。"
+    },
+    {
+      "id": "4945328",
+      "time": "2026-06-19 23:17:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩衛生部：以色列空襲致47死97傷】黎巴嫩衛生部19日釋出的資料顯示，自當天零時至下午，以色列對黎巴嫩多地發動密集空襲，已造成至少47人死亡、97人受傷。（新華社）"
+    },
     {
       "id": "mkt:019ee073-da6a-7dd8-b098-b5e8ab1ef104",
       "time": "2026-06-19 23:15:49",
@@ -164821,57 +164845,6 @@
         "AI Revolution"
       ],
       "text": "The Wall Street Journal reports Goldman Sachs president said the SpaceX IPO demonstrates investor enthusiasm for artificial intelligence."
-    },
-    {
-      "id": "4933179",
-      "time": "2026-06-12 23:21:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "雪佛龍CEO Mike Wirth：公司對（波斯灣）石油外流規模的看法並沒有美國總統特朗普的能源部長Wright那樣樂觀。"
-    },
-    {
-      "id": "mkt:019ebc6c-50f3-7dd8-afe1-d83ee205be14",
-      "time": "2026-06-12 23:21:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian said the Iranian people will continue to defend the country’s independence, dignity and territorial integrity."
-    },
-    {
-      "id": "mkt:019ebc69-e38b-7dd8-afe1-d0c693a021bc",
-      "time": "2026-06-12 23:18:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Politico reports the UK and Canada are still negotiating to join the fighter-jet project."
-    },
-    {
-      "id": "mkt:019ebc69-9177-7dd8-afe1-c95b8bdb76fb",
-      "time": "2026-06-12 23:18:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports the UK is in talks with Canada about joining a defence bank."
-    },
-    {
-      "id": "4933178",
-      "time": "2026-06-12 23:18:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "據POLITICO：英國正與加拿大洽談加入防務銀行相關事宜，英國與加拿大亦就在戰鬥機專案開展合作進行磋商。"
-    },
-    {
-      "id": "4933177",
-      "time": "2026-06-12 23:17:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報道：殼牌計劃出售10億美元海上風電資產，繼續退出可再生能源領域】殼牌公司正籌備出售其海上風電場，以便將重心重新聚焦於回報率更高的化石燃料業務。據知情人士透露，公司已聘請羅斯柴爾德（Rothschild & Co.）和PJT Partners Inc.擔任顧問主導此次出售，交易金額可能超過10億美元。出售程式最早可能在今年年底啟動，交易大機率將於2027年完成。計劃出售這些海上風電場標誌著殼牌進一步偏離了過去的戰略——即向綠色電力（尤其是風能）多元化轉型的戰略。"
     }
   ]
 }
