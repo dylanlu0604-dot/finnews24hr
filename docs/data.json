@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-19 12:01:49",
-  "count": 18778,
+  "updated": "2026-06-19 12:06:03",
+  "count": 18785,
   "items": [
+    {
+      "id": "mkt:019ede0e-3cff-7dd8-b08d-57461e814d20",
+      "time": "2026-06-19 12:05:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P 500 futures extended losses to 0.5%; Nasdaq futures down 0.8%."
+    },
+    {
+      "id": "4944667",
+      "time": "2026-06-19 12:05:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨延續早間跌勢，下跌0.5%，納斯達克指數期貨下跌0.8%。"
+    },
+    {
+      "id": "4944666",
+      "time": "2026-06-19 12:05:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨延續早間跌勢，下跌0.5%，納斯達克指數期貨下跌0.8%."
+    },
+    {
+      "id": "4944665",
+      "time": "2026-06-19 12:04:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將愛思強股份公司目標價從55.3歐元上調至73歐元。"
+    },
+    {
+      "id": "4944664",
+      "time": "2026-06-19 12:02:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "NETFLIX對與傳統電視公司達成更多合作協議持開放態度。"
+    },
+    {
+      "id": "4944663",
+      "time": "2026-06-19 12:02:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利比亞主要政治力量就選舉路線圖達成一致】利比亞總統委員會18日宣佈，該國主要政治力量已就結束政治過渡階段、推進選舉路線圖達成原則性檔案，並擬定於2027年2月17日前同步舉行總統和議會選舉。總統委員會的宣告說，根據利比亞國民代表大會、國家最高委員會和總統委員會16日達成的原則性檔案，國民代表大會和國家最高委員會組建的“6+6”聯合委員會負責確定選舉法，之後交由國民代表大會批准，選舉法生效後舉行總統和議會選舉。選舉將由一個主權高階委員會監督，其成員包括利比亞中央銀行行長、全國高階選舉委員會主席、“5+5”聯合軍事委員會和來自利比亞主要政治力量的安全機構代表。檔案重申利比亞國家石油公司對利比亞石油銷售的專屬許可權，以及中央銀行透過既定法律機制徵收石油收入。"
+    },
+    {
+      "id": "mkt:019ede0a-ee28-7dd8-b08d-4e752ead5aaa",
+      "time": "2026-06-19 12:01:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Malaysia May exports rose 45.3% YoY versus a 29.7% forecast; imports rose 14.1% YoY versus a 12.5% forecast."
+    },
+    {
+      "id": "mkt:019ede0a-d156-7dd8-b08d-448ace13432b",
+      "time": "2026-06-19 12:01:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Libya's main political forces agree on election roadmap】Libya's Presidential Council said on the 18th that the country's main political forces have agreed in principle on a roadmap to end the political transition and aim to hold simultaneous presidential and parliamentary elections by Feb. 17, 2027."
+    },
+    {
+      "id": "4944662",
+      "time": "2026-06-19 12:01:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞5月對中國出口同比增長27.8%，對美國出口增長97.7%。"
+    },
+    {
+      "id": "4944661",
+      "time": "2026-06-19 12:00:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞5月消費者價格指數較上年同期上升2.0%；市場預期上升2.1%。"
+    },
+    {
+      "id": "mkt:019ede09-ed2e-7dd8-b08d-3ab975e0689b",
+      "time": "2026-06-19 12:00:52",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "Samsung Electronics pared earlier gains; shares fell 3%."
+    },
+    {
+      "id": "4944660",
+      "time": "2026-06-19 12:00:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞5月出口同比增長45.3%，預計29.7%；馬來西亞進口同比增長14.1%，預計12.5%。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202606193776812268",
+      "time": "2026-06-19 12:00:11",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本核心CPI連續57個月上漲】日本總務省6月19日公佈的資料顯示，剔除生鮮食品後，日本5月核心消費價格指數（CPI）為113.0，同比上升1.4%。至此，日本核心CPI已連續57個月同比上漲。資料顯示，當月食品價格漲幅依然明顯。剔除生鮮食品後的食品價格同比上漲3.5%。"
+    },
     {
       "id": "mkt:019ede08-7ead-7dd8-b08d-32a3458568f4",
       "time": "2026-06-19 11:59:19",
@@ -172823,60 +172935,6 @@
         "06693.HK"
       ],
       "text": "【Hong Kong midday: HSI up 2.02% at half-day; gold miners lead gains】Hong Kong shares rose through the morning session; HSI +2.02% and Hang Seng Tech Index +1.72% at midday. Gold miners led gains: Lingbao Gold (03330.HK) +9%+, Chifeng Gold (06693.HK) +8%+. Mainland broker stocks advanced: Hongye Futures (03678.HK) +11%+, CITIC Securities (06030.HK) and China International Capital Co (03908.HK) both +6%+. Innovative drug/biotech names rallied: 06990.HK +7%+, 09926.HK +5%+, Hengrui Medicine (01276.HK) +4%+. Wind power, commercial space, power equipment, robotics, lithium battery and China domestic bank sectors outperformed. Large-model AI names were mixed: Zhipu +3%+, MINIMAX-W (00100.HK) -5%+. PCB complex rolled over after an early pop: Kingboard Laminates (01888.HK) -5%+, Kingboard (00148.HK) -4%+."
-    },
-    {
-      "id": "4931776",
-      "time": "2026-06-12 12:05:40",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【市場結構正在最佳化，機構預計A股繼續走強，A500ETF南方（159352）連續兩天獲資金淨申購】6月12日，A股高開高走，大幅單邊上漲，截止午盤，三大指數均漲超1%，全市場超4500只個股上漲，A500ETF南方（159352）漲1.77%，成交額17.82億元。資金流向方面，已連續兩天獲得淨申購。長江證券表示，在全球AI 資本開支加速和國內企業盈利修復的背景下，預計A 股市場震盪走強，AI 基建+能源安全仍是主線。時間若再看長一些，在美國中期選舉之前，Q3 末期預計海外地緣和宏觀擾動和分歧或逐步走向共識，霍爾木茲海峽問題以及新任美聯儲主席沃什的貨幣政策的影響逐步消化，市場或再度迎來“RISKON”行情。天風證券表示，A股科技寬基的成交額高位震盪，同時市值穩步抬升，或正從情緒博弈向產業權重主導轉型。雙創板塊成交額佔比雖接近40%的高位，但尚未到達歷史峰值。其自由流通市值佔比從2020年的8%持續上升至目前的25%左右，顯示出當前市場結構正在最佳化。資料顯示，A500ETF南方（159352）緊密跟蹤的中證A500指數覆蓋A股大中盤優質龍頭企業，重點佈局新質生產力，憑藉規模、流動性等方面優勢，或是助力資金佈局後市機會的有力工具。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
-    },
-    {
-      "id": "4931775",
-      "time": "2026-06-12 12:05:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：追覓科技據悉正在考慮在香港上市。"
-    },
-    {
-      "id": "4931774",
-      "time": "2026-06-12 12:05:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委DOLENC：即使霍爾姆斯海峽開放，戰爭的影響也將持續更長時間。"
-    },
-    {
-      "id": "te:markets:558569",
-      "time": "2026-06-12 12:04:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Rebounds on US-Iran Deal Optimism — Copper futures climbed to around $6.4 per pound on Friday, recovering from three-week lows as rising optimism over a potential US-Iran peace agreement eased concerns about global growth and industrial metals demand. President Donald Trump said a deal could be signed as soon as this weekend in Europe, although there has been no confirmation from Tehran. Meanwhile, stronger-than-expected US inflation data bolstered bets for a Federal Reserve interest rate hike later this year. The outlook for metals demand remains clouded by the prospect of tighter monetary policy, which could slow economic activity and industrial consumption over time. Separately, Jefferies expects copper prices to stay elevated for longer than previously anticipated, citing an average annual supply deficit of 491,000 tons through 2030 and a slower-than-expected recovery at the Grasberg mine."
-    },
-    {
-      "id": "4931773",
-      "time": "2026-06-12 12:02:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮耀CEO李健官宣正式簽約張雪機車車隊兩位車手】6月12日，榮耀CEO李健官宣榮耀簽約張雪機車車隊兩位車手，其中53號車手瓦倫丁·德比斯任“榮耀騎士先鋒”；64號車手費德里科·卡里卡蘇洛任“榮耀騎士新銳”。同時，在此前官宣推出的張雪機車聯名款冠軍手錶也將於近期發售。"
-    },
-    {
-      "id": "4931772",
-      "time": "2026-06-12 12:02:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "英飛凌將於7月2日在德國德累斯頓投產一座投資 50 億歐元的功率晶片工廠。"
     }
   ]
 }
