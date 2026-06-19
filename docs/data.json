@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-20 04:40:06",
-  "count": 17655,
+  "updated": "2026-06-20 04:44:08",
+  "count": 17657,
   "items": [
+    {
+      "id": "4945460",
+      "time": "2026-06-20 04:41:29",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【諾貝爾獲獎者江珀宣佈離開DeepMind加入Anthropic】資深研究科學家約翰・江珀（John Jumper）於週五宣佈，他將離開谷歌DeepMind，加入人工智慧初創企業Anthropic，這是這家科技巨頭人工智慧研發部門最新一起備受關注的核心人才離職事件。 江珀曾與谷歌的德米斯・哈薩比斯（Demis Hassabis）共同斬獲2024年諾貝爾獎，他最為人熟知的身份是AlphaFold的聯合開發者。這款取得突破性成果的人工智慧模型已完成超2億種蛋白質結構預測，大幅縮短生物與醫學研究所需週期。 江珀在社交平臺X發文稱：“歷經近九年工作，我決定離開谷歌DeepMind，加盟Anthropic。” Meta、谷歌母公司Alphabet等科技巨頭，以及Anthropic、OpenAI這類人工智慧新銳企業正陷入激烈的人才爭奪戰。各方爭相招攬頂尖研究人員，全力研發新一代人工智慧系統。"
+    },
+    {
+      "id": "te:markets:560548",
+      "time": "2026-06-20 04:41:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Closes Near Flat as US-Iran Talks Stall — The Ibovespa was virtually unchanged at 168,334 on Friday in a session marked by lighter global liquidity, as investors monitored developments in the Middle East. Peace talks between the US and Iran were postponed. The discussions, scheduled to take place in Switzerland and aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed, adding fresh uncertainty over the timeline of negotiations seen as key to reopening the Strait of Hormuz and normalizing oil flows. Oil prices rebounded modestly, reviving concerns over energy-driven inflation. Bond yields moved higher in response, renewing concerns over borrowing costs. Heavyweight banks traded lower, with Itaú down 1.5% and Bradesco falling 0.7%. Meanwhile, utilities advanced, with Axia up 0.6%. Vale also gained 1% as iron ore prices held firm."
+    },
     {
       "id": "4945459",
       "time": "2026-06-20 04:39:27",
