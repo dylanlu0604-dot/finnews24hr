@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-20 03:59:44",
-  "count": 17676,
+  "updated": "2026-06-20 04:03:54",
+  "count": 17669,
   "items": [
+    {
+      "id": "4945438",
+      "time": "2026-06-20 04:02:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們擁有全球頂尖的軍隊，擁有世上最先進的各類軍機，我們也理應配備最頂級的總統專機。"
+    },
+    {
+      "id": "4945437",
+      "time": "2026-06-20 04:01:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多綜合股指非正式收盤下跌 111.92 點，跌幅 0.32%，報 34857.34 點。"
+    },
+    {
+      "id": "mkt:019ee177-ec90-7dd8-b09b-0a397c552974",
+      "time": "2026-06-20 03:59:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said US Defense Secretary Hegseth is a born fighter who never admits defeat, is exceptionally tough, and genuinely loves the military."
+    },
+    {
+      "id": "4945436",
+      "time": "2026-06-20 03:59:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：伊朗與真主黨聯手破壞以美關係】據以色列媒體報道，以色列官員研判，昨晚造成四名以色列國防軍士兵身亡的致命襲擊，是伊朗和真主黨精心策劃的行動，其明確目的是離間耶路撒冷與華盛頓。相關官員表示，德黑蘭方面成功將美國和以色列一同引入其設下的圈套，刻意把黎巴嫩停火諒解備忘錄與重啟大範圍談判繫結在一起。"
+    },
     {
       "id": "4945435",
       "time": "2026-06-20 03:58:37",
@@ -162674,109 +162708,6 @@
         "Nasdaq100"
       ],
       "text": "U.S. equities closed higher on Friday, June 12: the Dow Jones Industrial Average rose 353.51 points, or 0.70%, to 51,202.26; the S&P 500 gained 37.16 points, or 0.50%, to 7,431.46; the Nasdaq Composite added 79.18 points, or 0.31%, to 25,888.84."
-    },
-    {
-      "id": "4933404",
-      "time": "2026-06-13 04:03:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外長：伊美諒解備忘錄可能在幾天內簽署】據伊朗媒體12日報道，伊朗外長阿拉格齊表示，一旦伊美完成最後階段的談判，諒解備忘錄將立即簽署並公佈。第一階段將以遠端電子方式簽署，“這可能在未來幾天內發生”。 (新華社)"
-    },
-    {
-      "id": "mkt:019ebd6e-efc4-7dd8-afe7-08e87a0f451b",
-      "time": "2026-06-13 04:03:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran says U.S.-Iran memorandum could be signed within days】Iranian media reported on the 12th that Foreign Minister Araghchi said a memorandum of understanding between Iran and the U.S. will be signed and published immediately once final-stage talks conclude. He said the first phase will be signed remotely by electronic means and could occur within days."
-    },
-    {
-      "id": "4933403",
-      "time": "2026-06-13 04:02:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐交所美國市場：TechCreate A類普通股交易將立即暫停。"
-    },
-    {
-      "id": "mkt:019ebd6d-3d6e-7dd8-afe7-02d1346a4415",
-      "time": "2026-06-13 04:01:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish",
-        "SPCE.N",
-        "Impact bearish",
-        "RKLB.O"
-      ],
-      "text": "【US close: SpaceX jumps 19% in trading debut】U.S. equities closed higher Friday: Dow Jones preliminary close +0.7%, S&P 500 +0.5%, Nasdaq Composite +0.3%. SpaceX (SPCX.O) rose 19% in its first day of trading to $160.90, valuing the company at $2.1 trillion and making it the sixth-largest U.S.-listed company. Other space-related stocks fell: Virgin Galactic (SPCE.N) down >30%, Rocket Lab (RKLB.O) down >10%. Arm (ARM.O) +11%, Intel (INTC.O) +6.5%. Nasdaq China Golden Dragon Index +0.4%."
-    },
-    {
-      "id": "4933402",
-      "time": "2026-06-13 04:01:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "ROKU股價收盤上漲20%，創2023年11月以來最大漲幅。"
-    },
-    {
-      "id": "4933401",
-      "time": "2026-06-13 04:01:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "ADOBE股價下跌6.7%，創3月13日以來最大跌幅，原因是首席財務官即將離職。"
-    },
-    {
-      "id": "4933400",
-      "time": "2026-06-13 04:00:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "SpaceX美國IPO首日收漲19.30%，報161.06美元。"
-    },
-    {
-      "id": "4933399",
-      "time": "2026-06-13 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.70%，標普500指數漲0.50%，納指漲0.29%。Arm Holdings漲11.27%，美國美盛漲7.56%，雅保化工漲7.39%，希捷漲7.25%，英特爾漲6.48%。“七姐妹”方面：特斯拉漲1.82%，谷歌漲0.42%，英偉達漲0.13%，微軟漲0.13%，Meta Platforms跌0.26%，亞馬遜跌1.23%，蘋果跌1.54%。"
-    },
-    {
-      "id": "4933398",
-      "time": "2026-06-13 04:00:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行當前外匯儲備規模為474.2億美元。"
-    },
-    {
-      "id": "4933397",
-      "time": "2026-06-13 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.52%】1藥網漲16.82%，金生遊樂漲7.61%，阿特斯漲6.41%，晶科能源漲6.20%，中汽系統漲5.64%。"
-    },
-    {
-      "id": "4933396",
-      "time": "2026-06-13 03:59:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：安理會成員對該草案文字態度不一，既有支持者也有反對者，但最終會形成集體決議。決議一經作出，將正式對外公佈。"
     }
   ]
 }
