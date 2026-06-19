@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-19 14:53:15",
-  "count": 18671,
+  "updated": "2026-06-19 14:57:25",
+  "count": 18667,
   "items": [
+    {
+      "id": "mkt:019edeab-0269-7dd8-b090-08384e7a92bd",
+      "time": "2026-06-19 14:56:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Israel minister rebukes Vance, warns 'don't threaten us; betrayers will pay'】Israel's far-right interior minister Gvir rebuked U.S. Vice President Vance's criticism of Israel's response to the U.S.-Iran deal, saying \"Anyone who supports us will benefit; anyone who abandons us will suffer, so don't threaten us.\" Vance had publicly said Israel had \"overreacted\" to the deal and singled out several critics, including Gvir."
+    },
+    {
+      "id": "4944823",
+      "time": "2026-06-19 14:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以官員強硬回擊萬斯：不要威脅我們 背叛者將付出代價】據伊朗學生通訊社等中東媒體報道，以色列內政部長格維爾在回應萬斯關於的言論時表示：“任何支援我們的人都會受益，任何背棄我們的人都將遭到損失，所以不要威脅我們。”美國副總統萬斯此前公開批評以色列對美伊協議出現“過度反應”，萬斯還點名了幾位具體批評者，其中就包括這位以色列極右翼內政部長格維爾。"
+    },
+    {
+      "id": "4944822",
+      "time": "2026-06-19 14:56:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科技投資者Prosus：受各業務及騰訊增長提振，收入實現增長】騰訊控股的最大股東Prosus公佈，得益於旗下各項業務以及對中國科技巨頭騰訊的投資實現增長，該公司2026財年收入有所提高。 這家在阿姆斯特丹上市的科技投資者週五表示，在截至3月31日的財年中，公司收入超過73億美元，其Ecosystem（前身為電子商務）業務實現調整後未計利息、稅項、折舊及攤銷前利潤11億美元。 Prosus在2025財年錄得收入62億美元。 就持續經營業務而言，該公司偏好的指標之一“核心整體收益“預計將增長19%至28%。Prosus補充稱，預計整體收益將增長6.7%至15.7%。該公司表示，這些指標反映了其各項業務（尤其是騰訊）強勁的收入增長和盈利能力。 與此同時，每股普通股收益預計將在下降2.6%至增長6.4%之間。這在一定程度上反映出，由於期內出售的股票數量減少，該集團出售所持騰訊股份的收益下降，同時也反映了未實現匯兌損失的增加。"
+    },
+    {
+      "id": "mkt:019edea8-38f3-7dd8-b090-00bc3409d578",
+      "time": "2026-06-19 14:53:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French foreign minister Barro said the Iranian people are the biggest victims."
+    },
     {
       "id": "mkt:019edea5-fd2f-7dd8-b08f-f86636d5e28b",
       "time": "2026-06-19 14:51:20",
@@ -171777,82 +171810,6 @@
         "其他"
       ],
       "text": "【報告：英國GDP資料顯示增長失去動能】Ebury的Samuel Edwards在一份報告中表示，最新的英國GDP資料顯示，由於全球和國內壓力，經濟活動出現放緩。4月份月度GDP環比萎縮0.1%，較3月份0.3%的增長有所回落。他表示：“企業正面臨著就業成本上升、稅收增加以及持續的全球貿易不確定性這一艱難組合。”Edwards表示，英國的政治緊張局勢也增加了一層不確定性，對企業造成了傷害。"
-    },
-    {
-      "id": "4931990",
-      "time": "2026-06-12 14:56:42",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將瑞典股市評級下調至減持；將瑞士的評級下調至低配；將德國股票評級下調至“低配”；將義大利股市評級上調至超配評級；將荷蘭的評級上調至增持評級。"
-    },
-    {
-      "id": "4931989",
-      "time": "2026-06-12 14:55:42",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團將歐洲金融服務板塊評級下調至低配。"
-    },
-    {
-      "id": "mkt:019eba9d-6e8f-7dd8-afd5-97c0d7298e03",
-      "time": "2026-06-12 14:55:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【AI systems screen 70+ diseases from a single CT as Shanghai hospitals roll out tools】AI-assisted systems are being rolled out across multiple Shanghai hospitals, enabling a single CT scan to screen more than 70 diseases with one click, automatically generate reports and perform layer-by-layer comparisons with prior images. Deployments span AI triage in cardiology, expanded radiology review and operating-room navigation; at Ruijin Hospital (Shanghai Jiao Tong University School of Medicine) liver surgery, AI navigation provides 3D vascular and tumor mapping so key steps that previously relied on surgeon experience can be planned preoperatively, aiming to cut misdiagnosis and patient wait times."
-    },
-    {
-      "id": "4931987",
-      "time": "2026-06-12 14:55:04",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團將歐洲旅遊與休閒板塊評級下調至減持。"
-    },
-    {
-      "id": "4931986",
-      "time": "2026-06-12 14:54:14",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團將歐洲媒體板塊評級上調至中性。"
-    },
-    {
-      "id": "mkt:019eba9b-d97e-7dd8-afd5-895278f4ffff",
-      "time": "2026-06-12 14:53:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Citigroup upgraded its rating on the European chemicals sector to neutral."
-    },
-    {
-      "id": "4931985",
-      "time": "2026-06-12 14:53:36",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團將歐洲化工板塊評級上調至中性。"
-    },
-    {
-      "id": "4931984",
-      "time": "2026-06-12 14:53:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.1萬億元，較上日此時放量6204億元。"
     }
   ]
 }
