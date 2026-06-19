@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-19 21:47:38",
-  "count": 17966,
+  "updated": "2026-06-19 21:52:02",
+  "count": 17962,
   "items": [
+    {
+      "id": "4945248",
+      "time": "2026-06-19 21:50:21",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場定價顯示，美聯儲加息押注上升，完全消化了9月加息25個基點的預期。"
+    },
+    {
+      "id": "mkt:019ee025-53e6-7dd8-b096-aa055e9550be",
+      "time": "2026-06-19 21:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Market pricing shows Fed rate-hike bets have risen and now fully price a 25bp hike in September."
+    },
+    {
+      "id": "mkt:019ee023-9c63-7dd8-b096-a0b90239faa7",
+      "time": "2026-06-19 21:48:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Central Command said more than 20 vessels transited the Strait of Hormuz via the Oman route overnight."
+    },
+    {
+      "id": "4945246",
+      "time": "2026-06-19 21:47:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍中央司令部：霍爾木茲海峽的船隻應享有航行自由。"
+    },
+    {
+      "id": "mkt:019ee022-f40f-7dd8-b096-982bc35a944b",
+      "time": "2026-06-19 21:47:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US Central Command said ships in the Strait of Hormuz should enjoy freedom of navigation."
+    },
+    {
+      "id": "4945245",
+      "time": "2026-06-19 21:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "多位內閣部長將告知他斯塔默“任期已至”。"
+    },
+    {
+      "id": "mkt:019ee022-b703-7dd8-b096-935ee65a5d61",
+      "time": "2026-06-19 21:47:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Per The Times, UK cabinet ministers will ask Prime Minister Starmer this afternoon to clarify his timetable for leaving office."
+    },
     {
       "id": "4945244",
       "time": "2026-06-19 21:46:25",
@@ -165541,111 +165614,6 @@
         "焦點"
       ],
       "text": "SpaceX 登陸納斯達克，開盤價報 174 美元，其發行價為每股 135 美元。"
-    },
-    {
-      "id": "mkt:019ebc1a-6158-7dd8-afdf-d4725db57098",
-      "time": "2026-06-12 21:51:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "SpaceX (SPCX.O) saw its indicative opening price on its first trading day 29% above the IPO price."
-    },
-    {
-      "id": "4933018",
-      "time": "2026-06-12 21:51:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌表示，法院判決聚焦於具體、有限的錯誤，而非AI概覽展示網路內容的基礎性方式。"
-    },
-    {
-      "id": "4933017",
-      "time": "2026-06-12 21:51:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌表示，將就德國法院作出的、認定其需對 AI 摘要中的虛假言論承擔直接責任的裁決提起上訴。"
-    },
-    {
-      "id": "4933016",
-      "time": "2026-06-12 21:51:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "太空探索技術公司（SpaceX）上市首日股價較發行價高開 29%。"
-    },
-    {
-      "id": "mkt:019ebc19-b415-7dd8-afdf-ce67a833de41",
-      "time": "2026-06-12 21:51:01",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Putin says Russia has more than 700,000 troops in Ukraine."
-    },
-    {
-      "id": "4933015",
-      "time": "2026-06-12 21:50:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京稱，俄羅斯在烏駐軍人數超70萬。"
-    },
-    {
-      "id": "4933014",
-      "time": "2026-06-12 21:50:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普12日在社交媒體發文稱，伊朗媒體釋出的美伊協議草案與“美伊雙方書面達成的協議毫無關係”，與事實不符。（新華社）"
-    },
-    {
-      "id": "mkt:019ebc18-e49a-7dd8-afdf-c505a44c8d39",
-      "time": "2026-06-12 21:50:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact mixed",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Preliminary June University of Michigan consumer sentiment index and preliminary June U.S. 1-year inflation expectations due in 10 minutes."
-    },
-    {
-      "id": "4933013",
-      "time": "2026-06-12 21:50:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克指數跌幅擴大，最新下跌0.7%；標普500指數下跌0.3%。"
-    },
-    {
-      "id": "4933012",
-      "time": "2026-06-12 21:48:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【專家：美伊遠未達成真正協議，所謂“諒解備忘錄”僅是談判起點】儘管特朗普聲稱美國已結束對伊戰爭並與德黑蘭達成諒解，但英國皇家聯合軍事研究所高階副研究員赫利爾博士警告稱，距離真正協議仍有相當遠的距離。特朗普週四稱雙方已同意一份“非常強有力的諒解備忘錄”以停止戰鬥，為後續談判留出空間。伊朗則表示尚未做出決定。赫利爾指出，雙方遠未達成全面協議。“這只是一份在討論的備忘錄，並非真正協議，”他表示，“美伊均未表態會在現階段達成協議。備忘錄只是啟動談判，所有棘手問題都留待日後解決。”"
-    },
-    {
-      "id": "mkt:019ebc16-b86e-7dd8-afdf-ba6f674ec852",
-      "time": "2026-06-12 21:47:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Expert: US-Iran far from comprehensive deal; 'memorandum' only start of talks】A senior fellow at the Royal United Services Institute warned US and Iran remain far from a comprehensive agreement despite Trump saying on Thursday the sides agreed a \"very strong memorandum of understanding\" to stop fighting and allow further talks. Iran says no decision has been made. The expert said the document is a discussion memorandum, not a formal deal, and that all sensitive, unresolved issues have been deferred to later negotiations."
     }
   ]
 }
