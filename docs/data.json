@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-19 10:33:27",
-  "count": 18846,
+  "updated": "2026-06-19 10:37:29",
+  "count": 18845,
   "items": [
+    {
+      "id": "te:markets:560293",
+      "time": "2026-06-19 10:36:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Retreats From 2-Week High — Corn futures fell below $4.2 per bushel, pulling back from a two-week high as a stronger US dollar and weaker oil prices weighed on the recent rebound in grain markets. The dollar index climbed to a one-year high after the latest Federal Reserve policy meeting reinforced expectations of US interest rate hikes this year, making US commodities more expensive for foreign buyers. Crude oil prices also dropped to its lowest level since the start of the Iran conflict after an interim deal raised expectations of improved global supply flows and the reopening of the Strait of Hormuz. Agricultural goods often track oil prices due to their link to biofuel demand from grains and oilseeds. Attention now turns on upcoming USDA crop condition reports next week for signs of stress in the US Midwest corn belt. Recent heavy rainfalls have disrupted fieldwork, preventing timely fertilizer and crop treatments, raising concerns over potential yield impacts if wet conditions persist."
+    },
+    {
+      "id": "4944600",
+      "time": "2026-06-19 10:34:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "冰見野良三：在引導貨幣政策時，央行也必須關注銀行放貸態度等金融狀況。"
+    },
+    {
+      "id": "mkt:019eddba-93ea-7dd8-b08c-b83819891577",
+      "time": "2026-06-19 10:34:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Japan Deputy Governor HIMINO said the BOJ must monitor financial conditions, including banks' lending stance, when guiding monetary policy."
+    },
+    {
+      "id": "mkt:019eddba-83df-7dd8-b08c-b1f3910f9b60",
+      "time": "2026-06-19 10:34:08",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Bank of Japan Deputy Governor Himino said the central bank's estimate of the neutral rate has a wide range, and that relying solely on the gap between the policy rate and that estimate is insufficient for setting monetary policy."
+    },
+    {
+      "id": "4944599",
+      "time": "2026-06-19 10:34:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "冰見野良三：將根據經濟、物價和金融狀況全面做出政策決定。"
+    },
+    {
+      "id": "4944598",
+      "time": "2026-06-19 10:33:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "冰見野良三：日本央行對中性利率的估算區間較寬，僅憑衡量央行政策利率與估算中性利率之間的差距來制定貨幣政策存在難度。"
+    },
+    {
+      "id": "mkt:019eddb9-b89b-7dd8-b08c-acfcad221a62",
+      "time": "2026-06-19 10:33:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Hezbollah said it set a large ambush and used guided missiles to destroy three Israeli Merkava tanks in strategic Tebnit, claiming to have killed dozens of enemy troops."
+    },
+    {
+      "id": "4944597",
+      "time": "2026-06-19 10:32:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本一小學發生火災】據日本媒體報道，今天（6月19日）上午，位於日本東京北區的一所小學發生火災。目前火勢仍在蔓延。#日本一小學起火數百學生避難#消防部門已出動50多輛消防車。據瞭解，約300名學生疏散至學校操場避難。不過有訊息稱“可能有多人未能及時逃離火場”。東京消防廳和警視廳正在加緊確認相關情況。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:019eddb9-2a0a-7dd8-b08c-a1f734bd7668",
       "time": "2026-06-19 10:32:40",
@@ -173396,102 +173474,6 @@
         "國際"
       ],
       "text": "【日本多地今日將舉行反對修憲等集會活動】近期，不斷有日本民眾舉行不同規模的集會，抗議高市早苗政府一系列擴軍備武危險動向。當地時間今日（12日）下午至傍晚，日本東京、大阪、宮城等地民眾將組織集會活動，表達“反對修憲”“守護和平憲法”的呼聲。（央視）"
-    },
-    {
-      "id": "4931667",
-      "time": "2026-06-12 10:36:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼主權財富基金DANANTARA：將監控出口價格，而非充當中間商。"
-    },
-    {
-      "id": "mkt:019eb9af-ecb5-7dd8-afcf-f4c816d27a35",
-      "time": "2026-06-12 10:36:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "SOXX.O",
-        "Impact bullish",
-        "SMH.O"
-      ],
-      "text": "China-South Korea semiconductor ETF rose more than 7%; global chips LOF rose more than 3%."
-    },
-    {
-      "id": "4931666",
-      "time": "2026-06-12 10:36:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【工業金屬板塊走高，銅陵有色漲停】工業金屬板塊走高，銅陵有色、鋅業股份、中色股份、馳宏鋅鍺、金田股份漲停，焦作萬方、洛陽鉬業、豫光金鉛、北方銅業、雲南銅業跟漲。"
-    },
-    {
-      "id": "4931665",
-      "time": "2026-06-12 10:35:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【黃仁勳做客韓國綜藝節目】黃仁勳近日在韓國綜藝節目《You Quiz on the Block》中回顧了自己的成長經歷。 他表示，9歲移民美國後，曾在餐廳從事洗碗和打掃廁所等工作。“無論做什麼事情，我都會付出100%的努力”。 他說，“工作本身並不重要，重要的是完成工作後的成果，因為那代表著你自己”。 對於成功所需要具備的品質，黃仁勳認為最重要的是面對失敗的能力。 他說，“如果想變得偉大，就必須經歷痛苦和失敗。經歷失敗、重新站起來的過程，會塑造一個人的韌性和人格”。 談及AI時代時，黃仁勳表示，人工智慧將大幅降低技術門檻。 “AI很簡單，而計算機本身很複雜。過去只有學習過程式設計的人才能使用計算機，但現在計算機已經變得足夠聰明，人們只需要告訴它自己想要什麼即可”。 他認為，AI將縮小技術差距。 不過，他同時強調，“智慧如今已經變得普遍。藉助人工智慧和網際網路，人們可以輕易獲得知識，但人格和韌性依然是最難獲得的東西”。 在節目中，黃仁勳還公開談及與韓國企業界人士的關係。當被問及曾於去年參加“炸雞聚會”的三星電子董事長李在鎔、現代汽車集團董事長鄭義宣和SK集團董事長崔泰源三人之中與誰關係最鐵時，黃仁勳沒有直接作答，而是表示，“我希望他們所有人都能成功”。 他進一步評價稱，“這三位都是令人難以置信的傑出世界級領導者。對於這三家公司來說，能夠擁有這樣的領導者是一件非常幸運的事情”。（中國僑網）"
-    },
-    {
-      "id": "mkt:019eb9af-0831-7dd8-afcf-eee4aa968aa6",
-      "time": "2026-06-12 10:35:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China A-share precious metals sector strengthened, led by Zhaojin Gold (up >6%) and Hunan Silver (up >5%); Xiaocheng Technology, Hengbang, Sichuan Gold and Xingye Silver & Tin also advanced."
-    },
-    {
-      "id": "mkt:019eb9ae-5c96-7dd8-afcf-e4f5895ce47a",
-      "time": "2026-06-12 10:34:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Three high-frequency fraud types targeting the elderly】At a press briefing on the 12th, the Ministry of Public Security said frauds targeting the elderly fall into three high-frequency types. First, pension-investment schemes that lure seniors with supposedly guaranteed high-yield wealth products, collectibles or pre-IPO shares, senior apartments, or retirement/healthcare project investments. Second, health-product scams using free clinics or health talks to exaggerate efficacy or fabricate illnesses to sell overpriced supplements and therapy devices. Third, impersonation scams where callers pose as police, prosecutors, medical-insurance, social-security or civil‑affairs staff — alleging the elder is implicated in a case, that insurance is frozen, or there are pension-subsidy issues — to request cooperation and induce transfers to “verify” funds; or impersonate relatives to claim emergencies or request urgent transfers."
-    },
-    {
-      "id": "4931664",
-      "time": "2026-06-12 10:34:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【養老投資、推銷保健品、冒充身份 涉老年人詐騙犯罪3種高發型別】從公安部今天（12日）召開的新聞釋出會上獲悉，涉老年人詐騙違法犯罪主要有3種高發型別：一是養老投資類，以保本高息理財產品、收藏品或原始股、養老公寓、康養專案等為誘餌，誘騙老人投資。二是推銷保健品類，打著專家義診、健康講座旗號，誇大藥效、虛構病情，推銷高價保健品、理療器械。三是冒充身份類，冒充公檢法、醫保、社保、民政等工作人員，謊稱老年人涉案、醫保凍結、養老補貼申領等，要求配合調查，誘導轉賬驗資；或者冒充老人的子女、親友等，以出事急需用錢、代繳費等為由借錢轉賬。（央視新聞）"
-    },
-    {
-      "id": "mkt:019eb9ad-d6c6-7dd8-afcf-d8ad3df2108f",
-      "time": "2026-06-12 10:33:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【January–May China railway fixed-asset investment 248.5 bln yuan, +2.6% YoY】China's national railway fixed-asset investment totaled 248.5 billion yuan in January–May, up 2.6% YoY, supporting expansion of domestic demand and reinforcing domestic growth momentum."
-    },
-    {
-      "id": "4931663",
-      "time": "2026-06-12 10:33:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【1至5月全國鐵路完成固定資產投資2485億元 同比增長2.6%】今年1至5月，全國鐵路完成固定資產投資2485億元，同比增長2.6%，有效發揮了鐵路建設投資帶動作用，為全方位擴大內需、增強經濟社會發展內生動力提供了有力支撐。（中國鐵路）"
     }
   ]
 }
