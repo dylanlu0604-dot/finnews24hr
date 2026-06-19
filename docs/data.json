@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-19 13:05:37",
-  "count": 18769,
+  "updated": "2026-06-19 13:09:34",
+  "count": 18766,
   "items": [
+    {
+      "id": "mkt:019ede48-5551-7dd8-b08d-f72b682d7d89",
+      "time": "2026-06-19 13:09:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said Trump asked whether South Korea can quickly help build ships for the US Navy."
+    },
+    {
+      "id": "mkt:019ede48-4b07-7dd8-b08d-eaffc5569f92",
+      "time": "2026-06-19 13:09:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NZD/USD fell 0.50% intraday to 0.5724."
+    },
+    {
+      "id": "4944726",
+      "time": "2026-06-19 13:08:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將能源板塊評級從\"超配\"下調至\"平配\"。"
+    },
+    {
+      "id": "mkt:019ede47-5148-7dd8-b08d-e2a78423ee44",
+      "time": "2026-06-19 13:07:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose above $76/bbl, up 0.20% on the day."
+    },
+    {
+      "id": "mkt:019ede47-4996-7dd8-b08d-df139bf9b204",
+      "time": "2026-06-19 13:07:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Morgan Stanley downgraded its rating on the European energy sector to equal-weight from overweight."
+    },
+    {
+      "id": "4944725",
+      "time": "2026-06-19 13:05:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4140美元/盎司，日內跌2.50%。"
+    },
     {
       "id": "mkt:019ede44-7932-7dd8-b08d-d5cc36449104",
       "time": "2026-06-19 13:04:49",
@@ -172701,90 +172759,6 @@
         "Impact bearish"
       ],
       "text": "ECB Governing Council member Nagel said the shock is strong and persistent and cannot be simply ignored."
-    },
-    {
-      "id": "mkt:019eba3b-e1d2-7dd8-afd2-1f01fade32b7",
-      "time": "2026-06-12 13:09:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB executive board member Nagel said that even if the war ends quickly, a rate hike this week remains necessary."
-    },
-    {
-      "id": "mkt:019eba3b-b403-7dd8-afd2-11b72131fd0a",
-      "time": "2026-06-12 13:08:55",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Nagel: inflation outlook has deteriorated."
-    },
-    {
-      "id": "4931843",
-      "time": "2026-06-12 13:08:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "現代汽車工會將於6月25日投票決定是否罷工。"
-    },
-    {
-      "id": "mkt:019eba3b-5bd9-7dd8-afd2-0e342a8e3600",
-      "time": "2026-06-12 13:08:32",
-      "tags": [
-        "MKT News",
-        "BMW.DE",
-        "Impact bearish"
-      ],
-      "text": "CITIGROUP cuts BMW PT to €73 from €86."
-    },
-    {
-      "id": "4931842",
-      "time": "2026-06-12 13:08:24",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗將寶馬目標價從86歐元下調至73歐元。"
-    },
-    {
-      "id": "mkt:019eba3a-c262-7dd8-afd2-061508327f42",
-      "time": "2026-06-12 13:07:53",
-      "tags": [
-        "MKT News",
-        "005380.KS",
-        "Impact bearish"
-      ],
-      "text": "YONHAP reports Hyundai Motor union said wage talks failed to reach an agreement."
-    },
-    {
-      "id": "mkt:019eba39-80b0-7dd8-afd1-f86e9ca8ca3f",
-      "time": "2026-06-12 13:06:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "300059.SZ",
-        "Impact bullish"
-      ],
-      "text": "A-share brokerage stocks extended afternoon gains; Caitong Securities hit the daily price limit, Bank of China Securities earlier hit the limit, Guojin Securities rose over 7%, while Northeast Securities, GF Securities, East Money and Xiangcai Co. also advanced."
-    },
-    {
-      "id": "4931841",
-      "time": "2026-06-12 13:06:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "現代汽車工會稱薪資談判沒有達成協議。"
-    },
-    {
-      "id": "4931840",
-      "time": "2026-06-12 13:05:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海技能人才總量已達400萬人，取得證書的高技能人才年均增幅10%】“近年來，上海的技能人才總量已經達到了400萬人，這其中取得職業技能等級證書的高技能人才，年均增幅10%，佔到總量的35%以上。”2026年6月12日上午，在國新辦舉辦的新聞釋出會上，第48屆世界技能大賽組委會副主任、上海市委常委、副市長陳杰提到。（澎湃）"
     }
   ]
 }
