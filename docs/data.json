@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-19 18:45:00",
-  "count": 18158,
+  "updated": "2026-06-19 18:49:12",
+  "count": 18156,
   "items": [
+    {
+      "id": "mkt:019edf7e-b206-7dd8-b093-831def6b5d4b",
+      "time": "2026-06-19 18:48:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong to tailor city-level housing measures to curb new supply, cut inventories and better match housing supply】Guangdong provincial government issued an implementation plan instructing cities to tailor housing policies to curb incremental supply, reduce inventory and improve housing-supply fit. Measures include tighter targeting of purchase subsidies, continued new-home sales promotions and outbound marketing, and an orderly rollout of a “Good Housing” construction programme with enhanced public-service infrastructure for developments. The plan promotes stock-clearing swaps — sell-old/buy-new and sell-small/buy-large — permits cross-bank transfers of second‑hand homes with existing mortgage encumbrances, and allows qualified firms to acquire used homes to smooth primary–secondary market replacement. It also encourages conversion of commercial office stock to accommodation, retail, medical and elderly-care uses, and accelerates urban renewal through old-neighbourhood retrofits, whole-community/future-community builds, original-demolish-rebuild and autonomous upgrades, including promotion of housing-voucher resettlement in new-model urban village projects."
+    },
+    {
+      "id": "4945046",
+      "time": "2026-06-19 18:45:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【俄羅斯央行或將在後續會議審議降息事宜】俄羅斯央行在宣告中表示，該行將在後續會議上結合通脹形勢、對內外部環境衍生風險的研判，評估是否有必要進一步下調關鍵利率。未來三年財政政策的寬鬆程度將超出此前預期。這意味著關鍵利率的執行路徑或需高於 4 月基準情景中的預設水平。居民與企業的通脹預期雖有所回落，但整體仍處於高位。經濟增速在年初短暫下行後維持溫和擴張態勢。高頻資料顯示，一季度經濟活動指標走弱，二季度出現回暖，走勢符合此前預期。勞動力市場緊張狀況持續緩解，但放緩節奏偏慢。貨幣環境延續邊際寬鬆，但整體仍偏緊縮。中期維度上，通脹上行風險依舊大於抑制通脹的利好因素。機動車燃料產量短期下滑，進一步推升了通脹上行風險。"
+    },
+    {
+      "id": "4945045",
+      "time": "2026-06-19 18:44:48",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【通脹雖有所緩和，俄羅斯央行意外小幅降息】中東衝突助推盧布走強、通脹降溫，但俄羅斯央行降息幅度不及市場預期。俄羅斯央行週五將關鍵利率下調 25 個基點至 14.25%。彭博調研的 11 位經濟學家均未預判到該結果：其中一人預測利率維持不變，其餘所有人均預計降息至 14%。央行在宣告中表示：“中期視角下，推升通脹的風險仍大於抑制通脹的利好因素。” 其理由包括通脹預期居高不下、薪資長期上漲，以及全球經濟前景惡化。同時提到，未來三年財政政策寬鬆程度將超出此前預期。5 月俄羅斯居民消費價格同比漲幅回落至 5.3%，創近三年新低，本月通脹預期也有所下行。央行重點關注的季調後月度物價年化增速，已大幅低於 4% 的政策目標。俄羅斯央行本月釋出報告稱，本輪通脹放緩很大程度源於臨時性因素，油價走高帶動盧布升值便是其中之一。受伊朗衝突爆發後原油出口外匯收入大增支撐，盧布本季度兌美元表現全球最佳，進口成本因此走低，物價壓力得到緩解。多重因素令納比烏林娜團隊進退兩難 —— 該團隊多次強調降息操作將保持謹慎，同時又要支撐疲軟的國內經濟。儘管石油收入增加，俄羅斯財政赤字仍大幅擴張，克里姆林宮持續為烏克蘭戰事投入鉅額資金。此外，俄經濟部上月將 2026 年經濟增長預期從 1.3% 大幅下調至僅 0.4%。"
+    },
+    {
+      "id": "te:economy:560465",
+      "time": "2026-06-19 18:44:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "Bank of Russia Delivers Smaller Rate Cut than Expected — The Bank of Russia cut its policy rate by 25bps to 14.25% in its June 2026 decision, contrasting with the median market consensus of a 50bps cut to 14%. The central bank noted that pro-inflationary risks prevailed in the medium term when citing the warrant for restrictive monetary policy. Such pro-inflationary risks are supported by the external backdrop of higher energy prices due to the war in the Middle East, higher energy prices domestically as refineries are targeted by Ukraine, and higher inflation expectations as wage growth outpaces productivity growth. On top of that, the CBR stated that fiscal policy is more accommodative than previously expected, adding to the requirement that monetary conditions must remain restrictive to prevent further inflation. The inflation rate in Russia eased to 5.3% in May, remaining above the CBR target of 4%."
+    },
     {
       "id": "te:markets:560463",
       "time": "2026-06-19 18:42:47",
@@ -167161,58 +167202,6 @@
         "公司"
       ],
       "text": "【益諾思：董事長及董事離任 選舉常豔為新董事長】益諾思公告稱，近日公司董事會收到董事長魏樹源、董事陸偉根和張勇的辭任函，魏樹源和陸偉根因到齡退休，張勇因工作調整，辭職後均不再擔任公司任何職務。公司控股股東推薦高莉和翁少羽出任非獨立董事候選人。第三屆八次職工代表大會選舉汪溪潔為職工代表董事。第三屆董事會第二十五次會議選舉常豔為董事長，並調整董事會專門委員會委員。常豔兼任戰略規劃委員會主任委員等職，高莉、汪溪潔等也擔任相應職務，調整待股東會選舉董事後生效。"
-    },
-    {
-      "id": "4932620",
-      "time": "2026-06-12 18:48:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王寧王予波與中國東航董事長王志清會談】6月11日，雲南省委書記王寧，省委副書記、省長王予波在昆明與中國東方航空集團有限公司董事長、黨組書記王志清一行舉行會談。 王寧、王予波表示，中國東航長期以來把雲南作為重要運營基地，積極支援雲南的脫貧攻堅、鄉村振興事業，對全省經濟社會發展作出了重要貢獻。近年來，雲南省深入學習貫徹習近平總書記考察雲南重要講話精神，加快高水平對外開放，面向南亞東南亞輻射中心建設取得了新進展。中國東航是我國國有骨幹航空運輸集團，雲南致力於做強做大航空產業、旅遊產業，雙方合作空間十分廣闊。希望中國東航加大在滇佈局力度，共同加快昆明國際航空樞紐建設，加大運力投放，積極拓展航線，提升航空網路輻射能力，深化拓展互利合作，在省企共贏發展中更好服務交通強國、旅遊強國建設。我們將一如既往為企業做好服務保障，支援中國東航實現更好發展。（雲南釋出）"
-    },
-    {
-      "id": "te:markets:558719",
-      "time": "2026-06-12 18:48:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South African Rand at Over 1-Week High — The South African rand traded around 16.3 per USD, near the highest since early June, as hopes for a imminent US-Iran deal boosted risk appetite and weighed on the US dollar. President Donald Trump called off planned strikes on Iran on Thursday while indicating that a peace agreement could be finalized as early as this weekend. Oil prices retreated, as investors priced in easing risks to energy supplies and inflation. Meanwhile, the South African Reserve Bank (SARB) noted in its recent Financial Stability Review that the oil price shock could prolong inflationary pressures, increasing the likelihood of further tightening."
-    },
-    {
-      "id": "4932619",
-      "time": "2026-06-12 18:47:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京釋出第六輪3宗擬供宅地清單】6月12日，北京市規劃和自然資源委員會網站釋出了2026年第六輪擬供應商品住宅用地清單，共涉及3宗地，土地面積約7公頃，建築規模約19萬平方米，上述用地擬於近期供應。據介紹，本輪清單聚焦中心城區需求突出、配套成熟區域，同時持續加大站城融合力度，3宗地全部位於朝陽區以及軌道站點周邊。"
-    },
-    {
-      "id": "4932618",
-      "time": "2026-06-12 18:46:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【索辰科技：物理AI業務目前尚處於佈局初期】索辰科技公告，公司近期股價波動較大，存在市場情緒過熱及非理性炒作的風險。公司股票價格於2026年4月29日至2026年6月12日期間累計上漲幅度為175.93%，公司股價顯著偏離大盤指數，短期波動幅度較大，已明顯偏離市場走勢，存在較高的炒作風險。公司近期實施的募投專案“物理合成資料核心技術基座構建與多領域場景示範應用專案”尚處於籌備階段，若出現募集資金投資專案未能順利實施、新技術開發進度不達預期、研發遭遇技術瓶頸甚至失敗，將會對公司經營業績造成一定影響。公司物理AI業務目前尚處於佈局初期。物理AI技術研發投入大、技術迭代快，存在研發進度不及預期、核心技術迭代風險；同時下游行業應用場景拓展、商業化變現存在不確定性，若市場需求、行業政策、技術競爭格局發生不利變化，物理AI業務收入及盈利貢獻存在不及預期風險。"
-    },
-    {
-      "id": "4932617",
-      "time": "2026-06-12 18:46:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣西將發放超1000萬元水果消費券，助你實現“東盟水果自由”】6月12日，廣西壯族自治區人民政府新聞辦公室舉行2026年“共享大市場·出口中國”——“東盟水果 匯聚廣西”活動新聞釋出會，邀請自治區商務廳、自治區農業農村廳、南寧海關、南寧市人民政府、欽州市人民政府、百色市人民政府、崇左市人民政府、中國鐵路南寧局集團有限公司有關負責同志介紹有關情況並回答提問。自治區商務廳黨組成員、副廳長朱雁玲介紹，自治區商務廳聯合頭部電商平臺，在6月—9月分三個週期發放超1000萬元“東盟水果 匯聚廣西”專享消費券，覆蓋榴蓮、山竹等熱門東盟水果，以及廣西本地特色水果及產品。消費券設定8折至9.5折四檔折扣，單筆最高可減200元。第一週期消費券將於6月16日上午10:00正式上線。（廣西釋出）"
-    },
-    {
-      "id": "4932616",
-      "time": "2026-06-12 18:45:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【獨庫公路部分路段因山體塌方實行雙向交通管制】記者從新疆維吾爾自治區交通運輸廳應急指揮與聯網收費中心瞭解到，G217線獨庫公路北段K648公里+280米路段受夜間降雨影響，出現山體塌方。目前該路段已不具備安全通行條件，公路養護部門正在開展修復清理及安全隱患排查工作。目前，交警部門已對G217線K587-K671（巴音溝至雜湊勒根隧道出口）路段、K671-K761（雜湊勒根隧道至那拉提遊客中心）路段實施雙向臨時交通管制，待隱患徹底處置完畢後再恢復通車，具體時間另行通知。請途經此處的遊客、駕駛員提前規劃出行路線與行程。（央視新聞）"
     }
   ]
 }
