@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-19 10:49:53",
+  "updated": "2026-06-19 12:02:11",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 433,
+  "count": 466,
   "history_summary": {
     "cached": 433,
-    "fetched": 0,
+    "fetched": 33,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -14959,7 +14959,7 @@
               "country": "英國",
               "title": "英國5月公共部門淨借款(億英鎊)",
               "importance": 2,
-              "previous": "243",
+              "previous": "243.43",
               "forecast": "185",
               "actual": "--",
               "actual_released": false,
@@ -15018,7 +15018,7 @@
               "title": "英國5月季調後核心零售銷售年率",
               "importance": 1,
               "previous": "1.1 %",
-              "forecast": "3.4 %",
+              "forecast": "3.3 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168271",
@@ -15076,7 +15076,7 @@
               "title": "英國5月季調後核心零售銷售月率",
               "importance": 1,
               "previous": "-0.4 %",
-              "forecast": "0.6 %",
+              "forecast": "0.4 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168270",
@@ -15134,7 +15134,7 @@
               "title": "英國5月季調後零售銷售年率",
               "importance": 1,
               "previous": "0 %",
-              "forecast": "1.8 %",
+              "forecast": "1.9 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168269",
@@ -15192,7 +15192,7 @@
               "title": "英國5月季調後零售銷售月率",
               "importance": 2,
               "previous": "-1.3 %",
-              "forecast": "0.4 %",
+              "forecast": "0.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168268",
@@ -15249,7 +15249,7 @@
               "country": "英國",
               "title": "英國5月政府收支短差(億英鎊)",
               "importance": 1,
-              "previous": "95",
+              "previous": "95.47",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -15308,7 +15308,7 @@
               "title": "法國第一季度未季調月薪季率終值",
               "importance": 1,
               "previous": "0.7 %",
-              "forecast": "-- %",
+              "forecast": "0.7 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168272",
@@ -15424,7 +15424,7 @@
               "title": "加拿大4月核心零售銷售月率",
               "importance": 1,
               "previous": "1.4 %",
-              "forecast": "0.8 %",
+              "forecast": "0.7 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168275",
@@ -15594,11 +15594,11 @@
       "interval": "next_week",
       "label": "下週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "count": 165,
+      "count": 198,
       "dates": [
         {
           "date": "2026-06-22",
-          "count": 12,
+          "count": 14,
           "events": [
             {
               "id": "capital:1170465",
@@ -15786,7 +15786,7 @@
               "title": "加拿大5月CPI年率",
               "importance": 1,
               "previous": "2.8 %",
-              "forecast": "-- %",
+              "forecast": "3 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170469",
@@ -15844,7 +15844,7 @@
               "title": "加拿大5月CPI月率",
               "importance": 2,
               "previous": "0.4 %",
-              "forecast": "-- %",
+              "forecast": "0.8 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170468",
@@ -16123,6 +16123,64 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1177381",
+              "fid": "1177381",
+              "interval": "next_week",
+              "date": "2026-06-22",
+              "time": "23:30",
+              "datetime": "2026-06-22 23:30:00",
+              "display_time": "06/22 23:30",
+              "country": "美國",
+              "title": "美國至6月22日3個月國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "25.15 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177381",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/15",
+                  "actual": "25.15",
+                  "forecast": "-",
+                  "previous": "6.48"
+                },
+                {
+                  "date": "06/08",
+                  "actual": "6.48",
+                  "forecast": "-",
+                  "previous": "44.66"
+                },
+                {
+                  "date": "06/01",
+                  "actual": "44.66",
+                  "forecast": "-",
+                  "previous": "25.6"
+                },
+                {
+                  "date": "05/26",
+                  "actual": "25.6",
+                  "forecast": "-",
+                  "previous": "12.47"
+                },
+                {
+                  "date": "05/18",
+                  "actual": "12.47",
+                  "forecast": "-",
+                  "previous": "15.32"
+                },
+                {
+                  "date": "05/11",
+                  "actual": "15.32",
+                  "forecast": "-",
+                  "previous": "14.97"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170472",
               "fid": "1170472",
               "interval": "next_week",
@@ -16239,6 +16297,64 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1177382",
+              "fid": "1177382",
+              "interval": "next_week",
+              "date": "2026-06-22",
+              "time": "23:30",
+              "datetime": "2026-06-22 23:30:00",
+              "display_time": "06/22 23:30",
+              "country": "美國",
+              "title": "美國至6月22日6個月國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "14 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177382",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/15",
+                  "actual": "14",
+                  "forecast": "-",
+                  "previous": "95.45"
+                },
+                {
+                  "date": "06/08",
+                  "actual": "95.45",
+                  "forecast": "-",
+                  "previous": "3.3"
+                },
+                {
+                  "date": "06/01",
+                  "actual": "3.3",
+                  "forecast": "-",
+                  "previous": "37.55"
+                },
+                {
+                  "date": "05/26",
+                  "actual": "37.55",
+                  "forecast": "-",
+                  "previous": "37.69"
+                },
+                {
+                  "date": "05/18",
+                  "actual": "37.69",
+                  "forecast": "-",
+                  "previous": "72.54"
+                },
+                {
+                  "date": "05/11",
+                  "actual": "72.54",
+                  "forecast": "-",
+                  "previous": "2.03"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170474",
               "fid": "1170474",
               "interval": "next_week",
@@ -16300,7 +16416,7 @@
         },
         {
           "date": "2026-06-23",
-          "count": 40,
+          "count": 42,
           "events": [
             {
               "id": "capital:1170475",
@@ -16894,7 +17010,7 @@
               "title": "新加坡5月CPI年率",
               "importance": 1,
               "previous": "1.8 %",
-              "forecast": "-- %",
+              "forecast": "2 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170485",
@@ -17590,7 +17706,7 @@
               "title": "臺灣5月外銷訂單年率",
               "importance": 1,
               "previous": "48.1 %",
-              "forecast": "-- %",
+              "forecast": "46.1 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170494",
@@ -18159,6 +18275,64 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1176395",
+              "fid": "1176395",
+              "interval": "next_week",
+              "date": "2026-06-23",
+              "time": "20:55",
+              "datetime": "2026-06-23 20:55:00",
+              "display_time": "06/23 20:55",
+              "country": "美國",
+              "title": "美國至6月20日當週紅皮書商業零售銷售年率",
+              "importance": 1,
+              "previous": "9.4 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176395",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/16",
+                  "actual": "9.4",
+                  "forecast": "-",
+                  "previous": "9.1"
+                },
+                {
+                  "date": "06/09",
+                  "actual": "9.1",
+                  "forecast": "-",
+                  "previous": "9"
+                },
+                {
+                  "date": "06/02",
+                  "actual": "9",
+                  "forecast": "-",
+                  "previous": "9"
+                },
+                {
+                  "date": "05/27",
+                  "actual": "9",
+                  "forecast": "-",
+                  "previous": "8.1"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "8.1",
+                  "forecast": "-",
+                  "previous": "9.6"
+                },
+                {
+                  "date": "05/12",
+                  "actual": "9.6",
+                  "forecast": "-",
+                  "previous": "7.8"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170505",
               "fid": "1170505",
               "interval": "next_week",
@@ -18170,7 +18344,7 @@
               "title": "美國6月標普全球服務業PMI初值",
               "importance": 2,
               "previous": "50.7",
-              "forecast": "--",
+              "forecast": "51.2",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170505",
@@ -18286,7 +18460,7 @@
               "title": "美國6月標普全球製造業PMI初值",
               "importance": 2,
               "previous": "55.1",
-              "forecast": "--",
+              "forecast": "54.8",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170504",
@@ -18565,6 +18739,64 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1176396",
+              "fid": "1176396",
+              "interval": "next_week",
+              "date": "2026-06-23",
+              "time": "23:30",
+              "datetime": "2026-06-23 23:30:00",
+              "display_time": "06/23 23:30",
+              "country": "美國",
+              "title": "美國至6月23日6周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "35.89 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176396",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/16",
+                  "actual": "35.89",
+                  "forecast": "-",
+                  "previous": "26.63"
+                },
+                {
+                  "date": "06/09",
+                  "actual": "26.63",
+                  "forecast": "-",
+                  "previous": "63.21"
+                },
+                {
+                  "date": "06/02",
+                  "actual": "63.21",
+                  "forecast": "-",
+                  "previous": "68.12"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "28.89",
+                  "forecast": "-",
+                  "previous": "9.46"
+                },
+                {
+                  "date": "05/12",
+                  "actual": "9.46",
+                  "forecast": "-",
+                  "previous": "58.71"
+                },
+                {
+                  "date": "05/05",
+                  "actual": "58.71",
+                  "forecast": "-",
+                  "previous": "32.71"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170509",
               "fid": "1170509",
               "interval": "next_week",
@@ -18626,7 +18858,7 @@
         },
         {
           "date": "2026-06-24",
-          "count": 26,
+          "count": 51,
           "events": [
             {
               "id": "capital:1170511",
@@ -18803,6 +19035,470 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1176397",
+              "fid": "1176397",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "04:30",
+              "datetime": "2026-06-24 04:30:00",
+              "display_time": "06/24 04:30",
+              "country": "美國",
+              "title": "美國至6月19日當週API原油庫存(萬桶)",
+              "importance": 2,
+              "previous": "-833",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176397",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-833",
+                  "forecast": "-451.5",
+                  "previous": "-911.9"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "-911.9",
+                  "forecast": "-342.1",
+                  "previous": "-675.7"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-675.7",
+                  "forecast": "-360.5",
+                  "previous": "-281.9"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "-281.9",
+                  "forecast": "-436.7",
+                  "previous": "-911"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "-911",
+                  "forecast": "-336.1",
+                  "previous": "-218.8"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-218.8",
+                  "forecast": "-165.4",
+                  "previous": "-814.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176402",
+              "fid": "1176402",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "04:30",
+              "datetime": "2026-06-24 04:30:00",
+              "display_time": "06/24 04:30",
+              "country": "美國",
+              "title": "美國至6月19日當週API原油進口(萬桶)",
+              "importance": 1,
+              "previous": "-27.6",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176402",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-27.6",
+                  "forecast": "-",
+                  "previous": "-35.8"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "-35.8",
+                  "forecast": "-",
+                  "previous": "54.3"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "54.3",
+                  "forecast": "-",
+                  "previous": "-22.3"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "-22.3",
+                  "forecast": "-",
+                  "previous": "-8.8"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "-8.8",
+                  "forecast": "-",
+                  "previous": "33.7"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "33.7",
+                  "forecast": "-",
+                  "previous": "-14.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176401",
+              "fid": "1176401",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "04:30",
+              "datetime": "2026-06-24 04:30:00",
+              "display_time": "06/24 04:30",
+              "country": "美國",
+              "title": "美國至6月19日當週API取暖油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-12.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176401",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-12.5",
+                  "forecast": "-",
+                  "previous": "-40.7"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "-40.7",
+                  "forecast": "-",
+                  "previous": "49.8"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "49.8",
+                  "forecast": "-",
+                  "previous": "24.6"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "24.6",
+                  "forecast": "-",
+                  "previous": "18"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "18",
+                  "forecast": "-",
+                  "previous": "-11.6"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-11.6",
+                  "forecast": "-",
+                  "previous": "-47.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176400",
+              "fid": "1176400",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "04:30",
+              "datetime": "2026-06-24 04:30:00",
+              "display_time": "06/24 04:30",
+              "country": "美國",
+              "title": "美國至6月19日當週API庫欣原油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-152.3",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176400",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-152.3",
+                  "forecast": "-",
+                  "previous": "-112.5"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "-112.5",
+                  "forecast": "-",
+                  "previous": "-27.9"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-27.9",
+                  "forecast": "-",
+                  "previous": "-287.5"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "-287.5",
+                  "forecast": "-",
+                  "previous": "-142.8"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "-142.8",
+                  "forecast": "-",
+                  "previous": "-175.5"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-175.5",
+                  "forecast": "-",
+                  "previous": "-104.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176403",
+              "fid": "1176403",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "04:30",
+              "datetime": "2026-06-24 04:30:00",
+              "display_time": "06/24 04:30",
+              "country": "美國",
+              "title": "美國至6月19日當週API成品油進口(萬桶/日)",
+              "importance": 1,
+              "previous": "-12.1",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176403",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-12.1",
+                  "forecast": "-",
+                  "previous": "-5.1"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "-5.1",
+                  "forecast": "-",
+                  "previous": "33.4"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "33.4",
+                  "forecast": "-",
+                  "previous": "-17.1"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "-17.1",
+                  "forecast": "-",
+                  "previous": "28.2"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "28.2",
+                  "forecast": "-",
+                  "previous": "-31.7"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-31.7",
+                  "forecast": "-",
+                  "previous": "26.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176404",
+              "fid": "1176404",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "04:30",
+              "datetime": "2026-06-24 04:30:00",
+              "display_time": "06/24 04:30",
+              "country": "美國",
+              "title": "美國至6月19日當週API投產原油量(萬桶/日)",
+              "importance": 1,
+              "previous": "-1.7",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176404",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-1.7",
+                  "forecast": "-",
+                  "previous": "26.2"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "26.2",
+                  "forecast": "-",
+                  "previous": "18.5"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "18.5",
+                  "forecast": "-",
+                  "previous": "62.9"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "62.9",
+                  "forecast": "-",
+                  "previous": "-7.8"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "-7.8",
+                  "forecast": "-",
+                  "previous": "18.8"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "18.8",
+                  "forecast": "-",
+                  "previous": "4.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176398",
+              "fid": "1176398",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "04:30",
+              "datetime": "2026-06-24 04:30:00",
+              "display_time": "06/24 04:30",
+              "country": "美國",
+              "title": "美國至6月19日當週API汽油庫存(萬桶)",
+              "importance": 1,
+              "previous": "247.9",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176398",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "247.9",
+                  "forecast": "-140.1",
+                  "previous": "-119.1"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "-119.1",
+                  "forecast": "-61.4",
+                  "previous": "345.4"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "345.4",
+                  "forecast": "-9.8",
+                  "previous": "-319.9"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "-319.9",
+                  "forecast": "-289.6",
+                  "previous": "-579.5"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "-579.5",
+                  "forecast": "-211",
+                  "previous": "50.2"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "50.2",
+                  "forecast": "-254.9",
+                  "previous": "-610.7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176399",
+              "fid": "1176399",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "04:30",
+              "datetime": "2026-06-24 04:30:00",
+              "display_time": "06/24 04:30",
+              "country": "美國",
+              "title": "美國至6月19日當週API精煉油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-46.1",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176399",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-46.1",
+                  "forecast": "-19.8",
+                  "previous": "131.6"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "131.6",
+                  "forecast": "-21.5",
+                  "previous": "-21.4"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-21.4",
+                  "forecast": "-61.5",
+                  "previous": "110.3"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "1103",
+                  "forecast": "-195.7",
+                  "previous": "-104.7"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "-104.7",
+                  "forecast": "-125.2",
+                  "previous": "-31.9"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-31.9",
+                  "forecast": "-299.5",
+                  "previous": "-464.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170512",
               "fid": "1170512",
               "interval": "next_week",
@@ -18919,6 +19615,122 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1177539",
+              "fid": "1177539",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "09:30",
+              "datetime": "2026-06-24 09:30:00",
+              "display_time": "06/24 09:30",
+              "country": "澳大利亞",
+              "title": "澳大利亞5月季調後CPI年率",
+              "importance": 1,
+              "previous": "4.2 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177539",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "05/27",
+                  "actual": "4.2",
+                  "forecast": "-",
+                  "previous": "4.6"
+                },
+                {
+                  "date": "04/29",
+                  "actual": "4.6",
+                  "forecast": "-",
+                  "previous": "3.7"
+                },
+                {
+                  "date": "03/25",
+                  "actual": "3.7",
+                  "forecast": "-",
+                  "previous": "3.8"
+                },
+                {
+                  "date": "02/25",
+                  "actual": "3.8",
+                  "forecast": "-",
+                  "previous": "3.7"
+                },
+                {
+                  "date": "01/28",
+                  "actual": "3.7",
+                  "forecast": "-",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "01/07",
+                  "actual": "3.5",
+                  "forecast": "-",
+                  "previous": "3.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1177538",
+              "fid": "1177538",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "09:30",
+              "datetime": "2026-06-24 09:30:00",
+              "display_time": "06/24 09:30",
+              "country": "澳大利亞",
+              "title": "澳大利亞5月季調後CPI月率",
+              "importance": 1,
+              "previous": "-0.1 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177538",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "05/27",
+                  "actual": "-0.1",
+                  "forecast": "-",
+                  "previous": "1.1"
+                },
+                {
+                  "date": "04/29",
+                  "actual": "1.1",
+                  "forecast": "-",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "03/25",
+                  "actual": "0.2",
+                  "forecast": "-",
+                  "previous": "0.5"
+                },
+                {
+                  "date": "02/25",
+                  "actual": "0.5",
+                  "forecast": "-",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "01/28",
+                  "actual": "0.2",
+                  "forecast": "-",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "01/07",
+                  "actual": "0.2",
+                  "forecast": "-",
+                  "previous": "0.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170513",
               "fid": "1170513",
               "interval": "next_week",
@@ -18930,7 +19742,7 @@
               "title": "澳大利亞5月未季調CPI年率",
               "importance": 2,
               "previous": "4.2 %",
-              "forecast": "-- %",
+              "forecast": "4.6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170513",
@@ -18977,6 +19789,64 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1177537",
+              "fid": "1177537",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "09:30",
+              "datetime": "2026-06-24 09:30:00",
+              "display_time": "06/24 09:30",
+              "country": "澳大利亞",
+              "title": "澳大利亞5月未季調CPI月率",
+              "importance": 1,
+              "previous": "0.4 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177537",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "05/27",
+                  "actual": "0.4",
+                  "forecast": "0.6",
+                  "previous": "1.1"
+                },
+                {
+                  "date": "04/29",
+                  "actual": "1.1",
+                  "forecast": "1.3",
+                  "previous": "0"
+                },
+                {
+                  "date": "03/25",
+                  "actual": "0",
+                  "forecast": "0",
+                  "previous": "0.4"
+                },
+                {
+                  "date": "02/25",
+                  "actual": "0.4",
+                  "forecast": "0.26",
+                  "previous": "1"
+                },
+                {
+                  "date": "01/28",
+                  "actual": "1",
+                  "forecast": "0.7",
+                  "previous": "0"
+                },
+                {
+                  "date": "01/07",
+                  "actual": "0",
+                  "forecast": "0.25",
+                  "previous": "0"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170514",
               "fid": "1170514",
               "interval": "next_week",
@@ -19009,7 +19879,7 @@
               "title": "泰國至6月24日央行利率決定",
               "importance": 1,
               "previous": "1 %",
-              "forecast": "-- %",
+              "forecast": "1 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170515",
@@ -19357,7 +20227,7 @@
               "title": "臺灣5月工業生產年率",
               "importance": 1,
               "previous": "14.16 %",
-              "forecast": "-- %",
+              "forecast": "9.6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170516",
@@ -19404,6 +20274,238 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1176405",
+              "fid": "1176405",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "19:00",
+              "datetime": "2026-06-24 19:00:00",
+              "display_time": "06/24 19:00",
+              "country": "美國",
+              "title": "美國至6月19日當週MBA30年期固定抵押貸款利率",
+              "importance": 1,
+              "previous": "6.6 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176405",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "6.6",
+                  "forecast": "-",
+                  "previous": "6.6"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "6.6",
+                  "forecast": "-",
+                  "previous": "6.57"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "6.57",
+                  "forecast": "-",
+                  "previous": "6.65"
+                },
+                {
+                  "date": "05/27",
+                  "actual": "6.65",
+                  "forecast": "-",
+                  "previous": "6.56"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "6.56",
+                  "forecast": "-",
+                  "previous": "6.46"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "6.46",
+                  "forecast": "-",
+                  "previous": "6.45"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176408",
+              "fid": "1176408",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "19:00",
+              "datetime": "2026-06-24 19:00:00",
+              "display_time": "06/24 19:00",
+              "country": "美國",
+              "title": "美國至6月19日當週MBA抵押貸款再融資活動指數",
+              "importance": 1,
+              "previous": "810.2",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176408",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "810.2",
+                  "forecast": "-",
+                  "previous": "848.7"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "848.7",
+                  "forecast": "-",
+                  "previous": "736.2"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "736.2",
+                  "forecast": "-",
+                  "previous": "753.7"
+                },
+                {
+                  "date": "05/27",
+                  "actual": "753.7",
+                  "forecast": "-",
+                  "previous": "920.2"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "920.2",
+                  "forecast": "-",
+                  "previous": "921.1"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "921.1",
+                  "forecast": "-",
+                  "previous": "928.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176406",
+              "fid": "1176406",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "19:00",
+              "datetime": "2026-06-24 19:00:00",
+              "display_time": "06/24 19:00",
+              "country": "美國",
+              "title": "美國至6月19日當週MBA抵押貸款申請活動指數",
+              "importance": 1,
+              "previous": "269.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176406",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "269.5",
+                  "forecast": "-",
+                  "previous": "280.1"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "280.1",
+                  "forecast": "-",
+                  "previous": "252.8"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "252.8",
+                  "forecast": "-",
+                  "previous": "259.4"
+                },
+                {
+                  "date": "05/27",
+                  "actual": "259.4",
+                  "forecast": "-",
+                  "previous": "283.5"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "283.5",
+                  "forecast": "-",
+                  "previous": "290.1"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "290.1",
+                  "forecast": "-",
+                  "previous": "285.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1176407",
+              "fid": "1176407",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "19:00",
+              "datetime": "2026-06-24 19:00:00",
+              "display_time": "06/24 19:00",
+              "country": "美國",
+              "title": "美國至6月19日當週MBA抵押貸款購買指數",
+              "importance": 1,
+              "previous": "170.8",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176407",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "170.8",
+                  "forecast": "-",
+                  "previous": "176.9"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "176.9",
+                  "forecast": "-",
+                  "previous": "164.8"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "164.8",
+                  "forecast": "-",
+                  "previous": "169.7"
+                },
+                {
+                  "date": "05/27",
+                  "actual": "169.7",
+                  "forecast": "-",
+                  "previous": "170.4"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "170.4",
+                  "forecast": "-",
+                  "previous": "177.7"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "177.7",
+                  "forecast": "-",
+                  "previous": "171.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170521",
               "fid": "1170521",
               "interval": "next_week",
@@ -19415,7 +20517,7 @@
               "title": "美國第一季度經常帳(億美元)",
               "importance": 2,
               "previous": "-1907",
-              "forecast": "--",
+              "forecast": "-2410",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170521",
@@ -19531,7 +20633,7 @@
               "title": "美國5月新屋銷售總數年化(萬戶)",
               "importance": 2,
               "previous": "62.2",
-              "forecast": "--",
+              "forecast": "64",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170522",
@@ -19752,6 +20854,354 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1177391",
+              "fid": "1177391",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "22:30",
+              "datetime": "2026-06-24 22:30:00",
+              "display_time": "06/24 22:30",
+              "country": "美國",
+              "title": "美國至6月19日當週EIA原油進口(萬桶)",
+              "importance": 1,
+              "previous": "-24.1",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177391",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-24.1",
+                  "forecast": "-",
+                  "previous": "52.5"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "52.5",
+                  "forecast": "-",
+                  "previous": "-24.9"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-24.9",
+                  "forecast": "-",
+                  "previous": "36"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "36",
+                  "forecast": "-",
+                  "previous": "0.3"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "0.3",
+                  "forecast": "-",
+                  "previous": "-31.8"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-31.8",
+                  "forecast": "-",
+                  "previous": "141.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1177393",
+              "fid": "1177393",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "22:30",
+              "datetime": "2026-06-24 22:30:00",
+              "display_time": "06/24 22:30",
+              "country": "美國",
+              "title": "美國至6月19日當週EIA取暖油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-20.4",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177393",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-20.4",
+                  "forecast": "-",
+                  "previous": "-24.6"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "-24.6",
+                  "forecast": "-",
+                  "previous": "25.5"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "25.5",
+                  "forecast": "-",
+                  "previous": "30.6"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "30.6",
+                  "forecast": "-",
+                  "previous": "2.1"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "2.1",
+                  "forecast": "-",
+                  "previous": "15.3"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "15.3",
+                  "forecast": "-",
+                  "previous": "-3.8"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1177394",
+              "fid": "1177394",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "22:30",
+              "datetime": "2026-06-24 22:30:00",
+              "display_time": "06/24 22:30",
+              "country": "美國",
+              "title": "美國至6月19日當週EIA成品油進口(萬桶/日)",
+              "importance": 1,
+              "previous": "-20.4",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177394",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-20.4",
+                  "forecast": "-",
+                  "previous": "-41.1"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "-41.1",
+                  "forecast": "-",
+                  "previous": "62.6"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "62.6",
+                  "forecast": "-",
+                  "previous": "-12.8"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "-12.8",
+                  "forecast": "-",
+                  "previous": "32.9"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "32.9",
+                  "forecast": "-",
+                  "previous": "-47.4"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-47.4",
+                  "forecast": "-",
+                  "previous": "-0.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1177397",
+              "fid": "1177397",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "22:30",
+              "datetime": "2026-06-24 22:30:00",
+              "display_time": "06/24 22:30",
+              "country": "美國",
+              "title": "美國至6月19日當週EIA戰略石油儲備庫存(萬桶)",
+              "importance": 2,
+              "previous": "-894.1",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177397",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-894.1",
+                  "forecast": "-",
+                  "previous": "-792.7"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "-792.7",
+                  "forecast": "-",
+                  "previous": "-799.3"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-799.3",
+                  "forecast": "-",
+                  "previous": "-906.3"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "-906.3",
+                  "forecast": "-",
+                  "previous": "-992"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "-992",
+                  "forecast": "-",
+                  "previous": "-860.5"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-860.5",
+                  "forecast": "-",
+                  "previous": "-522.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1177396",
+              "fid": "1177396",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "22:30",
+              "datetime": "2026-06-24 22:30:00",
+              "display_time": "06/24 22:30",
+              "country": "美國",
+              "title": "美國至6月19日當週EIA投產原油量(萬桶/日)",
+              "importance": 1,
+              "previous": "23",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177396",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "23",
+                  "forecast": "-",
+                  "previous": "8.1"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "8.1",
+                  "forecast": "-",
+                  "previous": "-9"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-9",
+                  "forecast": "-",
+                  "previous": "65.2"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "65.2",
+                  "forecast": "-",
+                  "previous": "-8"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "-8",
+                  "forecast": "-",
+                  "previous": "37"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "37",
+                  "forecast": "-",
+                  "previous": "-4.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1177392",
+              "fid": "1177392",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "22:30",
+              "datetime": "2026-06-24 22:30:00",
+              "display_time": "06/24 22:30",
+              "country": "美國",
+              "title": "美國至6月19日當週EIA新配方汽油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-1.3",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177392",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-1.3",
+                  "forecast": "-",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "-0.7"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-0.7",
+                  "forecast": "-",
+                  "previous": "0"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "0.3"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "0.3",
+                  "forecast": "-",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-0.1",
+                  "forecast": "-",
+                  "previous": "0.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170526",
               "fid": "1170526",
               "interval": "next_week",
@@ -19810,6 +21260,122 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1177390",
+              "fid": "1177390",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "22:30",
+              "datetime": "2026-06-24 22:30:00",
+              "display_time": "06/24 22:30",
+              "country": "美國",
+              "title": "美國至6月19日當週EIA汽油產量(萬桶/日)",
+              "importance": 1,
+              "previous": "35.6",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177390",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "35.6",
+                  "forecast": "-",
+                  "previous": "29.6"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "29.6",
+                  "forecast": "-",
+                  "previous": "-51.5"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-51.5",
+                  "forecast": "-",
+                  "previous": "60"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "60",
+                  "forecast": "-",
+                  "previous": "-44.6"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "-44.6",
+                  "forecast": "-",
+                  "previous": "22.2"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "22.2",
+                  "forecast": "-",
+                  "previous": "-27.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
+              "id": "capital:1177389",
+              "fid": "1177389",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "22:30",
+              "datetime": "2026-06-24 22:30:00",
+              "display_time": "06/24 22:30",
+              "country": "美國",
+              "title": "美國至6月19日當週EIA精煉廠設備利用率",
+              "importance": 1,
+              "previous": "96.7 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177389",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "96.7",
+                  "forecast": "95.6",
+                  "previous": "95.3"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "95.3",
+                  "forecast": "94.7",
+                  "previous": "94.7"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "94.7",
+                  "forecast": "94.8",
+                  "previous": "94.5"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "94.5",
+                  "forecast": "92.3",
+                  "previous": "91.6"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "91.6",
+                  "forecast": "92.5",
+                  "previous": "91.7"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "91.7",
+                  "forecast": "90.6",
+                  "previous": "90.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170527",
               "fid": "1170527",
               "interval": "next_week",
@@ -19866,6 +21432,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-06-14 00:39:28"
+            },
+            {
+              "id": "capital:1177395",
+              "fid": "1177395",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "22:30",
+              "datetime": "2026-06-24 22:30:00",
+              "display_time": "06/24 22:30",
+              "country": "美國",
+              "title": "美國至6月19日當週EIA精煉油產量(萬桶/日)",
+              "importance": 1,
+              "previous": "-2.9",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177395",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "-2.9",
+                  "forecast": "-",
+                  "previous": "2.4"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "2.4",
+                  "forecast": "-",
+                  "previous": "9.8"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "9.8",
+                  "forecast": "-",
+                  "previous": "7.6"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "7.6",
+                  "forecast": "-",
+                  "previous": "21.4"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "21.4",
+                  "forecast": "-",
+                  "previous": "-12.4"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "-12.4",
+                  "forecast": "-",
+                  "previous": "-2.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
             },
             {
               "id": "capital:1170530",
@@ -20042,6 +21666,64 @@
               "history_checked_at": "2026-06-14 00:39:28"
             },
             {
+              "id": "capital:1176409",
+              "fid": "1176409",
+              "interval": "next_week",
+              "date": "2026-06-24",
+              "time": "23:30",
+              "datetime": "2026-06-24 23:30:00",
+              "display_time": "06/24 23:30",
+              "country": "美國",
+              "title": "美國至6月24日4個月國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "11.86 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176409",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/17",
+                  "actual": "11.86",
+                  "forecast": "-",
+                  "previous": "16.25"
+                },
+                {
+                  "date": "06/10",
+                  "actual": "16.25",
+                  "forecast": "-",
+                  "previous": "93.35"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "93.35",
+                  "forecast": "-",
+                  "previous": "25.59"
+                },
+                {
+                  "date": "05/27",
+                  "actual": "25.59",
+                  "forecast": "-",
+                  "previous": "99.6"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "99.6",
+                  "forecast": "-",
+                  "previous": "69.81"
+                },
+                {
+                  "date": "05/13",
+                  "actual": "69.81",
+                  "forecast": "-",
+                  "previous": "70.08"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1170532",
               "fid": "1170532",
               "interval": "next_week",
@@ -20103,7 +21785,7 @@
         },
         {
           "date": "2026-06-25",
-          "count": 63,
+          "count": 65,
           "events": [
             {
               "id": "capital:1171598",
@@ -20639,7 +22321,7 @@
               "title": "澳大利亞5月季調後失業率",
               "importance": 2,
               "previous": "4.5 %",
-              "forecast": "-- %",
+              "forecast": "4.4 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171605",
@@ -20697,7 +22379,7 @@
               "title": "澳大利亞5月季調後就業參與率",
               "importance": 1,
               "previous": "66.7 %",
-              "forecast": "-- %",
+              "forecast": "66.8 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173416",
@@ -20755,7 +22437,7 @@
               "title": "澳大利亞5月就業人口(萬人)",
               "importance": 1,
               "previous": "-1.86",
-              "forecast": "--",
+              "forecast": "3",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171604",
@@ -20812,7 +22494,7 @@
               "country": "日本",
               "title": "日本4月同步指標月率終值",
               "importance": 1,
-              "previous": "0.2 %",
+              "previous": "1.1 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -20928,7 +22610,7 @@
               "country": "日本",
               "title": "日本4月領先指標月率終值",
               "importance": 1,
-              "previous": "0.8 %",
+              "previous": "0.5 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -21799,7 +23481,7 @@
               "title": "美國5月PCE物價指數年率",
               "importance": 1,
               "previous": "3.8 %",
-              "forecast": "-- %",
+              "forecast": "4.1 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171626",
@@ -21857,7 +23539,7 @@
               "title": "美國5月PCE物價指數月率",
               "importance": 1,
               "previous": "0.4 %",
-              "forecast": "-- %",
+              "forecast": "0.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171625",
@@ -21915,7 +23597,7 @@
               "title": "美國5月個人支出月率",
               "importance": 2,
               "previous": "0.5 %",
-              "forecast": "-- %",
+              "forecast": "0.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171622",
@@ -21973,7 +23655,7 @@
               "title": "美國5月個人收入月率",
               "importance": 1,
               "previous": "0 %",
-              "forecast": "-- %",
+              "forecast": "0.4 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171621",
@@ -22147,7 +23829,7 @@
               "title": "美國5月扣除運輸的耐用品訂單月率",
               "importance": 1,
               "previous": "1.1 %",
-              "forecast": "-- %",
+              "forecast": "0.2 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171633",
@@ -22205,7 +23887,7 @@
               "title": "美國5月扣除飛機非國防資本耐用品訂單月率",
               "importance": 1,
               "previous": "-1 %",
-              "forecast": "-- %",
+              "forecast": "0.8 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171634",
@@ -22263,7 +23945,7 @@
               "title": "美國5月核心PCE物價指數年率",
               "importance": 3,
               "previous": "3.3 %",
-              "forecast": "-- %",
+              "forecast": "3.4 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171628",
@@ -22321,7 +24003,7 @@
               "title": "美國5月核心PCE物價指數月率",
               "importance": 2,
               "previous": "0.2 %",
-              "forecast": "-- %",
+              "forecast": "0.3 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171627",
@@ -22379,7 +24061,7 @@
               "title": "美國5月耐用品訂單月率",
               "importance": 2,
               "previous": "8 %",
-              "forecast": "-- %",
+              "forecast": "-6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171632",
@@ -22495,7 +24177,7 @@
               "title": "美國第一季度GDP價格指數終值",
               "importance": 1,
               "previous": "3.5 %",
-              "forecast": "-- %",
+              "forecast": "3.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171637",
@@ -22552,7 +24234,7 @@
               "country": "美國",
               "title": "美國第一季度PCE物價指數年化季率終值",
               "importance": 1,
-              "previous": "2.9 %",
+              "previous": "4.5 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -22668,7 +24350,7 @@
               "country": "美國",
               "title": "美國第一季度企業獲利年化季率終值",
               "importance": 1,
-              "previous": "5.7 %",
+              "previous": "-0.4 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -22727,7 +24409,7 @@
               "title": "美國第一季度實際GDP年化季率終值",
               "importance": 2,
               "previous": "1.6 %",
-              "forecast": "-- %",
+              "forecast": "1.6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171635",
@@ -22842,7 +24524,7 @@
               "country": "美國",
               "title": "美國第一季度實際個人消費支出季率終值",
               "importance": 2,
-              "previous": "1.9 %",
+              "previous": "1.4 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -22958,7 +24640,7 @@
               "country": "美國",
               "title": "美國第一季度最終銷售年化季率終值",
               "importance": 1,
-              "previous": "0.3 %",
+              "previous": "1.5 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -23017,7 +24699,7 @@
               "title": "美國第一季度核心PCE物價指數年化季率終值",
               "importance": 2,
               "previous": "4.4 %",
-              "forecast": "-- %",
+              "forecast": "4.4 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171638",
@@ -23132,7 +24814,7 @@
               "country": "美國",
               "title": "美國至6月13日當週續請失業金人數(萬人)",
               "importance": 1,
-              "previous": "--",
+              "previous": "181",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -23190,7 +24872,7 @@
               "country": "美國",
               "title": "美國至6月20日當週初請失業金人數(萬人)",
               "importance": 3,
-              "previous": "--",
+              "previous": "22.6",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -23248,7 +24930,7 @@
               "country": "美國",
               "title": "美國至6月20日當週初請失業金人數四周均值(萬人)",
               "importance": 1,
-              "previous": "--",
+              "previous": "22.325",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -23364,7 +25046,7 @@
               "country": "美國",
               "title": "美國至6月19日當週EIA天然氣庫存(億立方英尺)",
               "importance": 2,
-              "previous": "--",
+              "previous": "730",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -23538,7 +25220,7 @@
               "country": "美國",
               "title": "美國至6月25日4周國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.58 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -23586,6 +25268,64 @@
               "history_checked_at": "2026-06-14 00:44:14"
             },
             {
+              "id": "capital:1177540",
+              "fid": "1177540",
+              "interval": "next_week",
+              "date": "2026-06-25",
+              "time": "23:30",
+              "datetime": "2026-06-25 23:30:00",
+              "display_time": "06/25 23:30",
+              "country": "美國",
+              "title": "美國至6月25日4周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "64.65 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177540",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/18",
+                  "actual": "64.65",
+                  "forecast": "-",
+                  "previous": "70.32"
+                },
+                {
+                  "date": "06/11",
+                  "actual": "70.32",
+                  "forecast": "-",
+                  "previous": "27.64"
+                },
+                {
+                  "date": "06/04",
+                  "actual": "27.64",
+                  "forecast": "-",
+                  "previous": "41.91"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "41.91",
+                  "forecast": "-",
+                  "previous": "62.57"
+                },
+                {
+                  "date": "05/21",
+                  "actual": "62.57",
+                  "forecast": "-",
+                  "previous": "25.82"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "25.82",
+                  "forecast": "-",
+                  "previous": "22.66"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1171643",
               "fid": "1171643",
               "interval": "next_week",
@@ -23596,7 +25336,7 @@
               "country": "美國",
               "title": "美國至6月25日4周國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "2.99",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -23654,7 +25394,7 @@
               "country": "美國",
               "title": "美國至6月25日8周國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.64 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -23702,6 +25442,64 @@
               "history_checked_at": "2026-06-14 00:44:14"
             },
             {
+              "id": "capital:1176411",
+              "fid": "1176411",
+              "interval": "next_week",
+              "date": "2026-06-25",
+              "time": "23:30",
+              "datetime": "2026-06-25 23:30:00",
+              "display_time": "06/25 23:30",
+              "country": "美國",
+              "title": "美國至6月25日8周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "31.85 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176411",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/18",
+                  "actual": "31.85",
+                  "forecast": "-",
+                  "previous": "65.5"
+                },
+                {
+                  "date": "06/11",
+                  "actual": "65.5",
+                  "forecast": "-",
+                  "previous": "68.26"
+                },
+                {
+                  "date": "06/04",
+                  "actual": "68.26",
+                  "forecast": "-",
+                  "previous": "82.33"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "82.33",
+                  "forecast": "-",
+                  "previous": "45.18"
+                },
+                {
+                  "date": "05/21",
+                  "actual": "45.18",
+                  "forecast": "-",
+                  "previous": "43.09"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "43.09",
+                  "forecast": "-",
+                  "previous": "90.77"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1171644",
               "fid": "1171644",
               "interval": "next_week",
@@ -23712,7 +25510,7 @@
               "country": "美國",
               "title": "美國至6月25日8周國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "2.57",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -23763,7 +25561,7 @@
         },
         {
           "date": "2026-06-26",
-          "count": 19,
+          "count": 21,
           "events": [
             {
               "id": "capital:1171647",
@@ -23951,7 +25749,7 @@
               "title": "墨西哥至6月25日央行利率決定",
               "importance": 1,
               "previous": "6.5 %",
-              "forecast": "-- %",
+              "forecast": "6.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171648",
@@ -23998,6 +25796,64 @@
               "history_checked_at": "2026-06-14 00:44:14"
             },
             {
+              "id": "capital:1176412",
+              "fid": "1176412",
+              "interval": "next_week",
+              "date": "2026-06-26",
+              "time": "04:30",
+              "datetime": "2026-06-26 04:30:00",
+              "display_time": "06/26 04:30",
+              "country": "美國",
+              "title": "美國至6月19日當週外國央行持有美國國債(億美元)",
+              "importance": 1,
+              "previous": "-21.18",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176412",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "06/19",
+                  "actual": "-21.18",
+                  "forecast": "-",
+                  "previous": "-135.55"
+                },
+                {
+                  "date": "06/12",
+                  "actual": "-135.55",
+                  "forecast": "-",
+                  "previous": "-326.86"
+                },
+                {
+                  "date": "06/05",
+                  "actual": "-326.86",
+                  "forecast": "-",
+                  "previous": "128.29"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "128.29",
+                  "forecast": "-",
+                  "previous": "-202.38"
+                },
+                {
+                  "date": "05/22",
+                  "actual": "-202.38",
+                  "forecast": "-",
+                  "previous": "-392.39"
+                },
+                {
+                  "date": "05/15",
+                  "actual": "-392.39",
+                  "forecast": "-",
+                  "previous": "-87.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1171649",
               "fid": "1171649",
               "interval": "next_week",
@@ -24009,7 +25865,7 @@
               "title": "日本6月東京CPI年率",
               "importance": 1,
               "previous": "1.4 %",
-              "forecast": "-- %",
+              "forecast": "1.6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171649",
@@ -24125,7 +25981,7 @@
               "title": "日本6月東京核心CPI年率",
               "importance": 1,
               "previous": "1.3 %",
-              "forecast": "-- %",
+              "forecast": "1.6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171650",
@@ -24183,7 +26039,7 @@
               "title": "新加坡5月季調後工業產出指數月率",
               "importance": 1,
               "previous": "5.8 %",
-              "forecast": "-- %",
+              "forecast": "-1 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171651",
@@ -24241,7 +26097,7 @@
               "title": "新加坡5月工業產出年率",
               "importance": 1,
               "previous": "17.6 %",
-              "forecast": "-- %",
+              "forecast": "16.1 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171652",
@@ -24520,6 +26376,64 @@
               "history_checked_at": "2026-06-14 00:44:14"
             },
             {
+              "id": "capital:1177541",
+              "fid": "1177541",
+              "interval": "next_week",
+              "date": "2026-06-26",
+              "time": "18:00",
+              "datetime": "2026-06-26 18:00:00",
+              "display_time": "06/26 18:00",
+              "country": "意大利",
+              "title": "意大利5月非歐盟貿易帳(億歐元)",
+              "importance": 1,
+              "previous": "38.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177541",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "05/28",
+                  "actual": "38.5",
+                  "forecast": "-",
+                  "previous": "56.4"
+                },
+                {
+                  "date": "04/29",
+                  "actual": "56.4",
+                  "forecast": "-",
+                  "previous": "55.3"
+                },
+                {
+                  "date": "03/27",
+                  "actual": "55.29",
+                  "forecast": "-",
+                  "previous": "21.2"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "21.24",
+                  "forecast": "-",
+                  "previous": "83.9"
+                },
+                {
+                  "date": "01/29",
+                  "actual": "83.85",
+                  "forecast": "-",
+                  "previous": "69.2"
+                },
+                {
+                  "date": "12/23",
+                  "actual": "69.2",
+                  "forecast": "-",
+                  "previous": "53.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-06-19 12:01:55"
+            },
+            {
               "id": "capital:1171655",
               "fid": "1171655",
               "interval": "next_week",
@@ -24588,7 +26502,7 @@
               "country": "美國",
               "title": "美國6月一年期通脹率預期終值",
               "importance": 2,
-              "previous": "-- %",
+              "previous": "4.6 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -24646,7 +26560,7 @@
               "country": "美國",
               "title": "美國6月五至十年期通脹率預期終值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.4 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -24704,7 +26618,7 @@
               "country": "美國",
               "title": "美國6月密歇根大學消費者信心指數終值",
               "importance": 3,
-              "previous": "--",
+              "previous": "48.9",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -24762,7 +26676,7 @@
               "country": "美國",
               "title": "美國6月密歇根大學現況指數終值",
               "importance": 1,
-              "previous": "--",
+              "previous": "48.4",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -24820,7 +26734,7 @@
               "country": "美國",
               "title": "美國6月密歇根大學預期指數終值",
               "importance": 1,
-              "previous": "--",
+              "previous": "49.3",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -24884,7 +26798,7 @@
               "country": "美國",
               "title": "美國至6月26日當週天然氣鑽井總數(口)",
               "importance": 1,
-              "previous": "--",
+              "previous": "122",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -24942,7 +26856,7 @@
               "country": "美國",
               "title": "美國至6月26日當週石油鑽井總數(口)",
               "importance": 2,
-              "previous": "--",
+              "previous": "433",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -25000,7 +26914,7 @@
               "country": "美國",
               "title": "美國至6月26日當週總鑽井總數(口)",
               "importance": 1,
-              "previous": "--",
+              "previous": "563",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -40080,7 +41994,7 @@
       "country": "英國",
       "title": "英國5月公共部門淨借款(億英鎊)",
       "importance": 2,
-      "previous": "243",
+      "previous": "243.43",
       "forecast": "185",
       "actual": "--",
       "actual_released": false,
@@ -40139,7 +42053,7 @@
       "title": "英國5月季調後核心零售銷售年率",
       "importance": 1,
       "previous": "1.1 %",
-      "forecast": "3.4 %",
+      "forecast": "3.3 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168271",
@@ -40197,7 +42111,7 @@
       "title": "英國5月季調後核心零售銷售月率",
       "importance": 1,
       "previous": "-0.4 %",
-      "forecast": "0.6 %",
+      "forecast": "0.4 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168270",
@@ -40255,7 +42169,7 @@
       "title": "英國5月季調後零售銷售年率",
       "importance": 1,
       "previous": "0 %",
-      "forecast": "1.8 %",
+      "forecast": "1.9 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168269",
@@ -40313,7 +42227,7 @@
       "title": "英國5月季調後零售銷售月率",
       "importance": 2,
       "previous": "-1.3 %",
-      "forecast": "0.4 %",
+      "forecast": "0.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168268",
@@ -40370,7 +42284,7 @@
       "country": "英國",
       "title": "英國5月政府收支短差(億英鎊)",
       "importance": 1,
-      "previous": "95",
+      "previous": "95.47",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -40429,7 +42343,7 @@
       "title": "法國第一季度未季調月薪季率終值",
       "importance": 1,
       "previous": "0.7 %",
-      "forecast": "-- %",
+      "forecast": "0.7 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168272",
@@ -40545,7 +42459,7 @@
       "title": "加拿大4月核心零售銷售月率",
       "importance": 1,
       "previous": "1.4 %",
-      "forecast": "0.8 %",
+      "forecast": "0.7 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1168275",
@@ -40893,7 +42807,7 @@
       "title": "加拿大5月CPI年率",
       "importance": 1,
       "previous": "2.8 %",
-      "forecast": "-- %",
+      "forecast": "3 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170469",
@@ -40951,7 +42865,7 @@
       "title": "加拿大5月CPI月率",
       "importance": 2,
       "previous": "0.4 %",
-      "forecast": "-- %",
+      "forecast": "0.8 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170468",
@@ -41230,6 +43144,64 @@
       "history_checked_at": "2026-06-14 00:39:28"
     },
     {
+      "id": "capital:1177381",
+      "fid": "1177381",
+      "interval": "next_week",
+      "date": "2026-06-22",
+      "time": "23:30",
+      "datetime": "2026-06-22 23:30:00",
+      "display_time": "06/22 23:30",
+      "country": "美國",
+      "title": "美國至6月22日3個月國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "25.15 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177381",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/15",
+          "actual": "25.15",
+          "forecast": "-",
+          "previous": "6.48"
+        },
+        {
+          "date": "06/08",
+          "actual": "6.48",
+          "forecast": "-",
+          "previous": "44.66"
+        },
+        {
+          "date": "06/01",
+          "actual": "44.66",
+          "forecast": "-",
+          "previous": "25.6"
+        },
+        {
+          "date": "05/26",
+          "actual": "25.6",
+          "forecast": "-",
+          "previous": "12.47"
+        },
+        {
+          "date": "05/18",
+          "actual": "12.47",
+          "forecast": "-",
+          "previous": "15.32"
+        },
+        {
+          "date": "05/11",
+          "actual": "15.32",
+          "forecast": "-",
+          "previous": "14.97"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1170472",
       "fid": "1170472",
       "interval": "next_week",
@@ -41344,6 +43316,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-06-14 00:39:28"
+    },
+    {
+      "id": "capital:1177382",
+      "fid": "1177382",
+      "interval": "next_week",
+      "date": "2026-06-22",
+      "time": "23:30",
+      "datetime": "2026-06-22 23:30:00",
+      "display_time": "06/22 23:30",
+      "country": "美國",
+      "title": "美國至6月22日6個月國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "14 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177382",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/15",
+          "actual": "14",
+          "forecast": "-",
+          "previous": "95.45"
+        },
+        {
+          "date": "06/08",
+          "actual": "95.45",
+          "forecast": "-",
+          "previous": "3.3"
+        },
+        {
+          "date": "06/01",
+          "actual": "3.3",
+          "forecast": "-",
+          "previous": "37.55"
+        },
+        {
+          "date": "05/26",
+          "actual": "37.55",
+          "forecast": "-",
+          "previous": "37.69"
+        },
+        {
+          "date": "05/18",
+          "actual": "37.69",
+          "forecast": "-",
+          "previous": "72.54"
+        },
+        {
+          "date": "05/11",
+          "actual": "72.54",
+          "forecast": "-",
+          "previous": "2.03"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
     },
     {
       "id": "capital:1170474",
@@ -41995,7 +44025,7 @@
       "title": "新加坡5月CPI年率",
       "importance": 1,
       "previous": "1.8 %",
-      "forecast": "-- %",
+      "forecast": "2 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170485",
@@ -42691,7 +44721,7 @@
       "title": "臺灣5月外銷訂單年率",
       "importance": 1,
       "previous": "48.1 %",
-      "forecast": "-- %",
+      "forecast": "46.1 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170494",
@@ -43260,6 +45290,64 @@
       "history_checked_at": "2026-06-14 00:39:28"
     },
     {
+      "id": "capital:1176395",
+      "fid": "1176395",
+      "interval": "next_week",
+      "date": "2026-06-23",
+      "time": "20:55",
+      "datetime": "2026-06-23 20:55:00",
+      "display_time": "06/23 20:55",
+      "country": "美國",
+      "title": "美國至6月20日當週紅皮書商業零售銷售年率",
+      "importance": 1,
+      "previous": "9.4 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176395",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/16",
+          "actual": "9.4",
+          "forecast": "-",
+          "previous": "9.1"
+        },
+        {
+          "date": "06/09",
+          "actual": "9.1",
+          "forecast": "-",
+          "previous": "9"
+        },
+        {
+          "date": "06/02",
+          "actual": "9",
+          "forecast": "-",
+          "previous": "9"
+        },
+        {
+          "date": "05/27",
+          "actual": "9",
+          "forecast": "-",
+          "previous": "8.1"
+        },
+        {
+          "date": "05/19",
+          "actual": "8.1",
+          "forecast": "-",
+          "previous": "9.6"
+        },
+        {
+          "date": "05/12",
+          "actual": "9.6",
+          "forecast": "-",
+          "previous": "7.8"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1170505",
       "fid": "1170505",
       "interval": "next_week",
@@ -43271,7 +45359,7 @@
       "title": "美國6月標普全球服務業PMI初值",
       "importance": 2,
       "previous": "50.7",
-      "forecast": "--",
+      "forecast": "51.2",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170505",
@@ -43387,7 +45475,7 @@
       "title": "美國6月標普全球製造業PMI初值",
       "importance": 2,
       "previous": "55.1",
-      "forecast": "--",
+      "forecast": "54.8",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170504",
@@ -43666,6 +45754,64 @@
       "history_checked_at": "2026-06-14 00:39:28"
     },
     {
+      "id": "capital:1176396",
+      "fid": "1176396",
+      "interval": "next_week",
+      "date": "2026-06-23",
+      "time": "23:30",
+      "datetime": "2026-06-23 23:30:00",
+      "display_time": "06/23 23:30",
+      "country": "美國",
+      "title": "美國至6月23日6周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "35.89 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176396",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/16",
+          "actual": "35.89",
+          "forecast": "-",
+          "previous": "26.63"
+        },
+        {
+          "date": "06/09",
+          "actual": "26.63",
+          "forecast": "-",
+          "previous": "63.21"
+        },
+        {
+          "date": "06/02",
+          "actual": "63.21",
+          "forecast": "-",
+          "previous": "68.12"
+        },
+        {
+          "date": "05/19",
+          "actual": "28.89",
+          "forecast": "-",
+          "previous": "9.46"
+        },
+        {
+          "date": "05/12",
+          "actual": "9.46",
+          "forecast": "-",
+          "previous": "58.71"
+        },
+        {
+          "date": "05/05",
+          "actual": "58.71",
+          "forecast": "-",
+          "previous": "32.71"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1170509",
       "fid": "1170509",
       "interval": "next_week",
@@ -43898,6 +46044,470 @@
       "history_checked_at": "2026-06-14 00:39:28"
     },
     {
+      "id": "capital:1176397",
+      "fid": "1176397",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "04:30",
+      "datetime": "2026-06-24 04:30:00",
+      "display_time": "06/24 04:30",
+      "country": "美國",
+      "title": "美國至6月19日當週API原油庫存(萬桶)",
+      "importance": 2,
+      "previous": "-833",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176397",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-833",
+          "forecast": "-451.5",
+          "previous": "-911.9"
+        },
+        {
+          "date": "06/10",
+          "actual": "-911.9",
+          "forecast": "-342.1",
+          "previous": "-675.7"
+        },
+        {
+          "date": "06/03",
+          "actual": "-675.7",
+          "forecast": "-360.5",
+          "previous": "-281.9"
+        },
+        {
+          "date": "05/28",
+          "actual": "-281.9",
+          "forecast": "-436.7",
+          "previous": "-911"
+        },
+        {
+          "date": "05/20",
+          "actual": "-911",
+          "forecast": "-336.1",
+          "previous": "-218.8"
+        },
+        {
+          "date": "05/13",
+          "actual": "-218.8",
+          "forecast": "-165.4",
+          "previous": "-814.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176402",
+      "fid": "1176402",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "04:30",
+      "datetime": "2026-06-24 04:30:00",
+      "display_time": "06/24 04:30",
+      "country": "美國",
+      "title": "美國至6月19日當週API原油進口(萬桶)",
+      "importance": 1,
+      "previous": "-27.6",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176402",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-27.6",
+          "forecast": "-",
+          "previous": "-35.8"
+        },
+        {
+          "date": "06/10",
+          "actual": "-35.8",
+          "forecast": "-",
+          "previous": "54.3"
+        },
+        {
+          "date": "06/03",
+          "actual": "54.3",
+          "forecast": "-",
+          "previous": "-22.3"
+        },
+        {
+          "date": "05/28",
+          "actual": "-22.3",
+          "forecast": "-",
+          "previous": "-8.8"
+        },
+        {
+          "date": "05/20",
+          "actual": "-8.8",
+          "forecast": "-",
+          "previous": "33.7"
+        },
+        {
+          "date": "05/13",
+          "actual": "33.7",
+          "forecast": "-",
+          "previous": "-14.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176401",
+      "fid": "1176401",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "04:30",
+      "datetime": "2026-06-24 04:30:00",
+      "display_time": "06/24 04:30",
+      "country": "美國",
+      "title": "美國至6月19日當週API取暖油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-12.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176401",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-12.5",
+          "forecast": "-",
+          "previous": "-40.7"
+        },
+        {
+          "date": "06/10",
+          "actual": "-40.7",
+          "forecast": "-",
+          "previous": "49.8"
+        },
+        {
+          "date": "06/03",
+          "actual": "49.8",
+          "forecast": "-",
+          "previous": "24.6"
+        },
+        {
+          "date": "05/28",
+          "actual": "24.6",
+          "forecast": "-",
+          "previous": "18"
+        },
+        {
+          "date": "05/20",
+          "actual": "18",
+          "forecast": "-",
+          "previous": "-11.6"
+        },
+        {
+          "date": "05/13",
+          "actual": "-11.6",
+          "forecast": "-",
+          "previous": "-47.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176400",
+      "fid": "1176400",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "04:30",
+      "datetime": "2026-06-24 04:30:00",
+      "display_time": "06/24 04:30",
+      "country": "美國",
+      "title": "美國至6月19日當週API庫欣原油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-152.3",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176400",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-152.3",
+          "forecast": "-",
+          "previous": "-112.5"
+        },
+        {
+          "date": "06/10",
+          "actual": "-112.5",
+          "forecast": "-",
+          "previous": "-27.9"
+        },
+        {
+          "date": "06/03",
+          "actual": "-27.9",
+          "forecast": "-",
+          "previous": "-287.5"
+        },
+        {
+          "date": "05/28",
+          "actual": "-287.5",
+          "forecast": "-",
+          "previous": "-142.8"
+        },
+        {
+          "date": "05/20",
+          "actual": "-142.8",
+          "forecast": "-",
+          "previous": "-175.5"
+        },
+        {
+          "date": "05/13",
+          "actual": "-175.5",
+          "forecast": "-",
+          "previous": "-104.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176403",
+      "fid": "1176403",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "04:30",
+      "datetime": "2026-06-24 04:30:00",
+      "display_time": "06/24 04:30",
+      "country": "美國",
+      "title": "美國至6月19日當週API成品油進口(萬桶/日)",
+      "importance": 1,
+      "previous": "-12.1",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176403",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-12.1",
+          "forecast": "-",
+          "previous": "-5.1"
+        },
+        {
+          "date": "06/10",
+          "actual": "-5.1",
+          "forecast": "-",
+          "previous": "33.4"
+        },
+        {
+          "date": "06/03",
+          "actual": "33.4",
+          "forecast": "-",
+          "previous": "-17.1"
+        },
+        {
+          "date": "05/28",
+          "actual": "-17.1",
+          "forecast": "-",
+          "previous": "28.2"
+        },
+        {
+          "date": "05/20",
+          "actual": "28.2",
+          "forecast": "-",
+          "previous": "-31.7"
+        },
+        {
+          "date": "05/13",
+          "actual": "-31.7",
+          "forecast": "-",
+          "previous": "26.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176404",
+      "fid": "1176404",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "04:30",
+      "datetime": "2026-06-24 04:30:00",
+      "display_time": "06/24 04:30",
+      "country": "美國",
+      "title": "美國至6月19日當週API投產原油量(萬桶/日)",
+      "importance": 1,
+      "previous": "-1.7",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176404",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-1.7",
+          "forecast": "-",
+          "previous": "26.2"
+        },
+        {
+          "date": "06/10",
+          "actual": "26.2",
+          "forecast": "-",
+          "previous": "18.5"
+        },
+        {
+          "date": "06/03",
+          "actual": "18.5",
+          "forecast": "-",
+          "previous": "62.9"
+        },
+        {
+          "date": "05/28",
+          "actual": "62.9",
+          "forecast": "-",
+          "previous": "-7.8"
+        },
+        {
+          "date": "05/20",
+          "actual": "-7.8",
+          "forecast": "-",
+          "previous": "18.8"
+        },
+        {
+          "date": "05/13",
+          "actual": "18.8",
+          "forecast": "-",
+          "previous": "4.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176398",
+      "fid": "1176398",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "04:30",
+      "datetime": "2026-06-24 04:30:00",
+      "display_time": "06/24 04:30",
+      "country": "美國",
+      "title": "美國至6月19日當週API汽油庫存(萬桶)",
+      "importance": 1,
+      "previous": "247.9",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176398",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "247.9",
+          "forecast": "-140.1",
+          "previous": "-119.1"
+        },
+        {
+          "date": "06/10",
+          "actual": "-119.1",
+          "forecast": "-61.4",
+          "previous": "345.4"
+        },
+        {
+          "date": "06/03",
+          "actual": "345.4",
+          "forecast": "-9.8",
+          "previous": "-319.9"
+        },
+        {
+          "date": "05/28",
+          "actual": "-319.9",
+          "forecast": "-289.6",
+          "previous": "-579.5"
+        },
+        {
+          "date": "05/20",
+          "actual": "-579.5",
+          "forecast": "-211",
+          "previous": "50.2"
+        },
+        {
+          "date": "05/13",
+          "actual": "50.2",
+          "forecast": "-254.9",
+          "previous": "-610.7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176399",
+      "fid": "1176399",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "04:30",
+      "datetime": "2026-06-24 04:30:00",
+      "display_time": "06/24 04:30",
+      "country": "美國",
+      "title": "美國至6月19日當週API精煉油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-46.1",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176399",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-46.1",
+          "forecast": "-19.8",
+          "previous": "131.6"
+        },
+        {
+          "date": "06/10",
+          "actual": "131.6",
+          "forecast": "-21.5",
+          "previous": "-21.4"
+        },
+        {
+          "date": "06/03",
+          "actual": "-21.4",
+          "forecast": "-61.5",
+          "previous": "110.3"
+        },
+        {
+          "date": "05/28",
+          "actual": "1103",
+          "forecast": "-195.7",
+          "previous": "-104.7"
+        },
+        {
+          "date": "05/20",
+          "actual": "-104.7",
+          "forecast": "-125.2",
+          "previous": "-31.9"
+        },
+        {
+          "date": "05/13",
+          "actual": "-31.9",
+          "forecast": "-299.5",
+          "previous": "-464.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1170512",
       "fid": "1170512",
       "interval": "next_week",
@@ -44014,6 +46624,122 @@
       "history_checked_at": "2026-06-14 00:39:28"
     },
     {
+      "id": "capital:1177539",
+      "fid": "1177539",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "09:30",
+      "datetime": "2026-06-24 09:30:00",
+      "display_time": "06/24 09:30",
+      "country": "澳大利亞",
+      "title": "澳大利亞5月季調後CPI年率",
+      "importance": 1,
+      "previous": "4.2 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177539",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "05/27",
+          "actual": "4.2",
+          "forecast": "-",
+          "previous": "4.6"
+        },
+        {
+          "date": "04/29",
+          "actual": "4.6",
+          "forecast": "-",
+          "previous": "3.7"
+        },
+        {
+          "date": "03/25",
+          "actual": "3.7",
+          "forecast": "-",
+          "previous": "3.8"
+        },
+        {
+          "date": "02/25",
+          "actual": "3.8",
+          "forecast": "-",
+          "previous": "3.7"
+        },
+        {
+          "date": "01/28",
+          "actual": "3.7",
+          "forecast": "-",
+          "previous": "3.5"
+        },
+        {
+          "date": "01/07",
+          "actual": "3.5",
+          "forecast": "-",
+          "previous": "3.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1177538",
+      "fid": "1177538",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "09:30",
+      "datetime": "2026-06-24 09:30:00",
+      "display_time": "06/24 09:30",
+      "country": "澳大利亞",
+      "title": "澳大利亞5月季調後CPI月率",
+      "importance": 1,
+      "previous": "-0.1 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177538",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "05/27",
+          "actual": "-0.1",
+          "forecast": "-",
+          "previous": "1.1"
+        },
+        {
+          "date": "04/29",
+          "actual": "1.1",
+          "forecast": "-",
+          "previous": "0.2"
+        },
+        {
+          "date": "03/25",
+          "actual": "0.2",
+          "forecast": "-",
+          "previous": "0.5"
+        },
+        {
+          "date": "02/25",
+          "actual": "0.5",
+          "forecast": "-",
+          "previous": "0.2"
+        },
+        {
+          "date": "01/28",
+          "actual": "0.2",
+          "forecast": "-",
+          "previous": "0.2"
+        },
+        {
+          "date": "01/07",
+          "actual": "0.2",
+          "forecast": "-",
+          "previous": "0.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1170513",
       "fid": "1170513",
       "interval": "next_week",
@@ -44025,7 +46751,7 @@
       "title": "澳大利亞5月未季調CPI年率",
       "importance": 2,
       "previous": "4.2 %",
-      "forecast": "-- %",
+      "forecast": "4.6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170513",
@@ -44072,6 +46798,64 @@
       "history_checked_at": "2026-06-14 00:39:28"
     },
     {
+      "id": "capital:1177537",
+      "fid": "1177537",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "09:30",
+      "datetime": "2026-06-24 09:30:00",
+      "display_time": "06/24 09:30",
+      "country": "澳大利亞",
+      "title": "澳大利亞5月未季調CPI月率",
+      "importance": 1,
+      "previous": "0.4 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177537",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "05/27",
+          "actual": "0.4",
+          "forecast": "0.6",
+          "previous": "1.1"
+        },
+        {
+          "date": "04/29",
+          "actual": "1.1",
+          "forecast": "1.3",
+          "previous": "0"
+        },
+        {
+          "date": "03/25",
+          "actual": "0",
+          "forecast": "0",
+          "previous": "0.4"
+        },
+        {
+          "date": "02/25",
+          "actual": "0.4",
+          "forecast": "0.26",
+          "previous": "1"
+        },
+        {
+          "date": "01/28",
+          "actual": "1",
+          "forecast": "0.7",
+          "previous": "0"
+        },
+        {
+          "date": "01/07",
+          "actual": "0",
+          "forecast": "0.25",
+          "previous": "0"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1170514",
       "fid": "1170514",
       "interval": "next_week",
@@ -44104,7 +46888,7 @@
       "title": "泰國至6月24日央行利率決定",
       "importance": 1,
       "previous": "1 %",
-      "forecast": "-- %",
+      "forecast": "1 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170515",
@@ -44452,7 +47236,7 @@
       "title": "臺灣5月工業生產年率",
       "importance": 1,
       "previous": "14.16 %",
-      "forecast": "-- %",
+      "forecast": "9.6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170516",
@@ -44499,6 +47283,238 @@
       "history_checked_at": "2026-06-14 00:39:28"
     },
     {
+      "id": "capital:1176405",
+      "fid": "1176405",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "19:00",
+      "datetime": "2026-06-24 19:00:00",
+      "display_time": "06/24 19:00",
+      "country": "美國",
+      "title": "美國至6月19日當週MBA30年期固定抵押貸款利率",
+      "importance": 1,
+      "previous": "6.6 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176405",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "6.6",
+          "forecast": "-",
+          "previous": "6.6"
+        },
+        {
+          "date": "06/10",
+          "actual": "6.6",
+          "forecast": "-",
+          "previous": "6.57"
+        },
+        {
+          "date": "06/03",
+          "actual": "6.57",
+          "forecast": "-",
+          "previous": "6.65"
+        },
+        {
+          "date": "05/27",
+          "actual": "6.65",
+          "forecast": "-",
+          "previous": "6.56"
+        },
+        {
+          "date": "05/20",
+          "actual": "6.56",
+          "forecast": "-",
+          "previous": "6.46"
+        },
+        {
+          "date": "05/13",
+          "actual": "6.46",
+          "forecast": "-",
+          "previous": "6.45"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176408",
+      "fid": "1176408",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "19:00",
+      "datetime": "2026-06-24 19:00:00",
+      "display_time": "06/24 19:00",
+      "country": "美國",
+      "title": "美國至6月19日當週MBA抵押貸款再融資活動指數",
+      "importance": 1,
+      "previous": "810.2",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176408",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "810.2",
+          "forecast": "-",
+          "previous": "848.7"
+        },
+        {
+          "date": "06/10",
+          "actual": "848.7",
+          "forecast": "-",
+          "previous": "736.2"
+        },
+        {
+          "date": "06/03",
+          "actual": "736.2",
+          "forecast": "-",
+          "previous": "753.7"
+        },
+        {
+          "date": "05/27",
+          "actual": "753.7",
+          "forecast": "-",
+          "previous": "920.2"
+        },
+        {
+          "date": "05/20",
+          "actual": "920.2",
+          "forecast": "-",
+          "previous": "921.1"
+        },
+        {
+          "date": "05/13",
+          "actual": "921.1",
+          "forecast": "-",
+          "previous": "928.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176406",
+      "fid": "1176406",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "19:00",
+      "datetime": "2026-06-24 19:00:00",
+      "display_time": "06/24 19:00",
+      "country": "美國",
+      "title": "美國至6月19日當週MBA抵押貸款申請活動指數",
+      "importance": 1,
+      "previous": "269.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176406",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "269.5",
+          "forecast": "-",
+          "previous": "280.1"
+        },
+        {
+          "date": "06/10",
+          "actual": "280.1",
+          "forecast": "-",
+          "previous": "252.8"
+        },
+        {
+          "date": "06/03",
+          "actual": "252.8",
+          "forecast": "-",
+          "previous": "259.4"
+        },
+        {
+          "date": "05/27",
+          "actual": "259.4",
+          "forecast": "-",
+          "previous": "283.5"
+        },
+        {
+          "date": "05/20",
+          "actual": "283.5",
+          "forecast": "-",
+          "previous": "290.1"
+        },
+        {
+          "date": "05/13",
+          "actual": "290.1",
+          "forecast": "-",
+          "previous": "285.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1176407",
+      "fid": "1176407",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "19:00",
+      "datetime": "2026-06-24 19:00:00",
+      "display_time": "06/24 19:00",
+      "country": "美國",
+      "title": "美國至6月19日當週MBA抵押貸款購買指數",
+      "importance": 1,
+      "previous": "170.8",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176407",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "170.8",
+          "forecast": "-",
+          "previous": "176.9"
+        },
+        {
+          "date": "06/10",
+          "actual": "176.9",
+          "forecast": "-",
+          "previous": "164.8"
+        },
+        {
+          "date": "06/03",
+          "actual": "164.8",
+          "forecast": "-",
+          "previous": "169.7"
+        },
+        {
+          "date": "05/27",
+          "actual": "169.7",
+          "forecast": "-",
+          "previous": "170.4"
+        },
+        {
+          "date": "05/20",
+          "actual": "170.4",
+          "forecast": "-",
+          "previous": "177.7"
+        },
+        {
+          "date": "05/13",
+          "actual": "177.7",
+          "forecast": "-",
+          "previous": "171.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1170521",
       "fid": "1170521",
       "interval": "next_week",
@@ -44510,7 +47526,7 @@
       "title": "美國第一季度經常帳(億美元)",
       "importance": 2,
       "previous": "-1907",
-      "forecast": "--",
+      "forecast": "-2410",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170521",
@@ -44626,7 +47642,7 @@
       "title": "美國5月新屋銷售總數年化(萬戶)",
       "importance": 2,
       "previous": "62.2",
-      "forecast": "--",
+      "forecast": "64",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1170522",
@@ -44847,6 +47863,354 @@
       "history_checked_at": "2026-06-14 00:39:28"
     },
     {
+      "id": "capital:1177391",
+      "fid": "1177391",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "22:30",
+      "datetime": "2026-06-24 22:30:00",
+      "display_time": "06/24 22:30",
+      "country": "美國",
+      "title": "美國至6月19日當週EIA原油進口(萬桶)",
+      "importance": 1,
+      "previous": "-24.1",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177391",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-24.1",
+          "forecast": "-",
+          "previous": "52.5"
+        },
+        {
+          "date": "06/10",
+          "actual": "52.5",
+          "forecast": "-",
+          "previous": "-24.9"
+        },
+        {
+          "date": "06/03",
+          "actual": "-24.9",
+          "forecast": "-",
+          "previous": "36"
+        },
+        {
+          "date": "05/29",
+          "actual": "36",
+          "forecast": "-",
+          "previous": "0.3"
+        },
+        {
+          "date": "05/20",
+          "actual": "0.3",
+          "forecast": "-",
+          "previous": "-31.8"
+        },
+        {
+          "date": "05/13",
+          "actual": "-31.8",
+          "forecast": "-",
+          "previous": "141.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1177393",
+      "fid": "1177393",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "22:30",
+      "datetime": "2026-06-24 22:30:00",
+      "display_time": "06/24 22:30",
+      "country": "美國",
+      "title": "美國至6月19日當週EIA取暖油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-20.4",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177393",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-20.4",
+          "forecast": "-",
+          "previous": "-24.6"
+        },
+        {
+          "date": "06/10",
+          "actual": "-24.6",
+          "forecast": "-",
+          "previous": "25.5"
+        },
+        {
+          "date": "06/03",
+          "actual": "25.5",
+          "forecast": "-",
+          "previous": "30.6"
+        },
+        {
+          "date": "05/29",
+          "actual": "30.6",
+          "forecast": "-",
+          "previous": "2.1"
+        },
+        {
+          "date": "05/20",
+          "actual": "2.1",
+          "forecast": "-",
+          "previous": "15.3"
+        },
+        {
+          "date": "05/13",
+          "actual": "15.3",
+          "forecast": "-",
+          "previous": "-3.8"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1177394",
+      "fid": "1177394",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "22:30",
+      "datetime": "2026-06-24 22:30:00",
+      "display_time": "06/24 22:30",
+      "country": "美國",
+      "title": "美國至6月19日當週EIA成品油進口(萬桶/日)",
+      "importance": 1,
+      "previous": "-20.4",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177394",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-20.4",
+          "forecast": "-",
+          "previous": "-41.1"
+        },
+        {
+          "date": "06/10",
+          "actual": "-41.1",
+          "forecast": "-",
+          "previous": "62.6"
+        },
+        {
+          "date": "06/03",
+          "actual": "62.6",
+          "forecast": "-",
+          "previous": "-12.8"
+        },
+        {
+          "date": "05/29",
+          "actual": "-12.8",
+          "forecast": "-",
+          "previous": "32.9"
+        },
+        {
+          "date": "05/20",
+          "actual": "32.9",
+          "forecast": "-",
+          "previous": "-47.4"
+        },
+        {
+          "date": "05/13",
+          "actual": "-47.4",
+          "forecast": "-",
+          "previous": "-0.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1177397",
+      "fid": "1177397",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "22:30",
+      "datetime": "2026-06-24 22:30:00",
+      "display_time": "06/24 22:30",
+      "country": "美國",
+      "title": "美國至6月19日當週EIA戰略石油儲備庫存(萬桶)",
+      "importance": 2,
+      "previous": "-894.1",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177397",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-894.1",
+          "forecast": "-",
+          "previous": "-792.7"
+        },
+        {
+          "date": "06/10",
+          "actual": "-792.7",
+          "forecast": "-",
+          "previous": "-799.3"
+        },
+        {
+          "date": "06/03",
+          "actual": "-799.3",
+          "forecast": "-",
+          "previous": "-906.3"
+        },
+        {
+          "date": "05/29",
+          "actual": "-906.3",
+          "forecast": "-",
+          "previous": "-992"
+        },
+        {
+          "date": "05/20",
+          "actual": "-992",
+          "forecast": "-",
+          "previous": "-860.5"
+        },
+        {
+          "date": "05/13",
+          "actual": "-860.5",
+          "forecast": "-",
+          "previous": "-522.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1177396",
+      "fid": "1177396",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "22:30",
+      "datetime": "2026-06-24 22:30:00",
+      "display_time": "06/24 22:30",
+      "country": "美國",
+      "title": "美國至6月19日當週EIA投產原油量(萬桶/日)",
+      "importance": 1,
+      "previous": "23",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177396",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "23",
+          "forecast": "-",
+          "previous": "8.1"
+        },
+        {
+          "date": "06/10",
+          "actual": "8.1",
+          "forecast": "-",
+          "previous": "-9"
+        },
+        {
+          "date": "06/03",
+          "actual": "-9",
+          "forecast": "-",
+          "previous": "65.2"
+        },
+        {
+          "date": "05/29",
+          "actual": "65.2",
+          "forecast": "-",
+          "previous": "-8"
+        },
+        {
+          "date": "05/20",
+          "actual": "-8",
+          "forecast": "-",
+          "previous": "37"
+        },
+        {
+          "date": "05/13",
+          "actual": "37",
+          "forecast": "-",
+          "previous": "-4.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1177392",
+      "fid": "1177392",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "22:30",
+      "datetime": "2026-06-24 22:30:00",
+      "display_time": "06/24 22:30",
+      "country": "美國",
+      "title": "美國至6月19日當週EIA新配方汽油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-1.3",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177392",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-1.3",
+          "forecast": "-",
+          "previous": "0.8"
+        },
+        {
+          "date": "06/10",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "-0.7"
+        },
+        {
+          "date": "06/03",
+          "actual": "-0.7",
+          "forecast": "-",
+          "previous": "0"
+        },
+        {
+          "date": "05/29",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "0.3"
+        },
+        {
+          "date": "05/20",
+          "actual": "0.3",
+          "forecast": "-",
+          "previous": "-0.1"
+        },
+        {
+          "date": "05/13",
+          "actual": "-0.1",
+          "forecast": "-",
+          "previous": "0.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1170526",
       "fid": "1170526",
       "interval": "next_week",
@@ -44905,6 +48269,122 @@
       "history_checked_at": "2026-06-14 00:39:28"
     },
     {
+      "id": "capital:1177390",
+      "fid": "1177390",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "22:30",
+      "datetime": "2026-06-24 22:30:00",
+      "display_time": "06/24 22:30",
+      "country": "美國",
+      "title": "美國至6月19日當週EIA汽油產量(萬桶/日)",
+      "importance": 1,
+      "previous": "35.6",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177390",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "35.6",
+          "forecast": "-",
+          "previous": "29.6"
+        },
+        {
+          "date": "06/10",
+          "actual": "29.6",
+          "forecast": "-",
+          "previous": "-51.5"
+        },
+        {
+          "date": "06/03",
+          "actual": "-51.5",
+          "forecast": "-",
+          "previous": "60"
+        },
+        {
+          "date": "05/29",
+          "actual": "60",
+          "forecast": "-",
+          "previous": "-44.6"
+        },
+        {
+          "date": "05/20",
+          "actual": "-44.6",
+          "forecast": "-",
+          "previous": "22.2"
+        },
+        {
+          "date": "05/13",
+          "actual": "22.2",
+          "forecast": "-",
+          "previous": "-27.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
+      "id": "capital:1177389",
+      "fid": "1177389",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "22:30",
+      "datetime": "2026-06-24 22:30:00",
+      "display_time": "06/24 22:30",
+      "country": "美國",
+      "title": "美國至6月19日當週EIA精煉廠設備利用率",
+      "importance": 1,
+      "previous": "96.7 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177389",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "96.7",
+          "forecast": "95.6",
+          "previous": "95.3"
+        },
+        {
+          "date": "06/10",
+          "actual": "95.3",
+          "forecast": "94.7",
+          "previous": "94.7"
+        },
+        {
+          "date": "06/03",
+          "actual": "94.7",
+          "forecast": "94.8",
+          "previous": "94.5"
+        },
+        {
+          "date": "05/29",
+          "actual": "94.5",
+          "forecast": "92.3",
+          "previous": "91.6"
+        },
+        {
+          "date": "05/20",
+          "actual": "91.6",
+          "forecast": "92.5",
+          "previous": "91.7"
+        },
+        {
+          "date": "05/13",
+          "actual": "91.7",
+          "forecast": "90.6",
+          "previous": "90.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1170527",
       "fid": "1170527",
       "interval": "next_week",
@@ -44961,6 +48441,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-06-14 00:39:28"
+    },
+    {
+      "id": "capital:1177395",
+      "fid": "1177395",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "22:30",
+      "datetime": "2026-06-24 22:30:00",
+      "display_time": "06/24 22:30",
+      "country": "美國",
+      "title": "美國至6月19日當週EIA精煉油產量(萬桶/日)",
+      "importance": 1,
+      "previous": "-2.9",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177395",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "-2.9",
+          "forecast": "-",
+          "previous": "2.4"
+        },
+        {
+          "date": "06/10",
+          "actual": "2.4",
+          "forecast": "-",
+          "previous": "9.8"
+        },
+        {
+          "date": "06/03",
+          "actual": "9.8",
+          "forecast": "-",
+          "previous": "7.6"
+        },
+        {
+          "date": "05/29",
+          "actual": "7.6",
+          "forecast": "-",
+          "previous": "21.4"
+        },
+        {
+          "date": "05/20",
+          "actual": "21.4",
+          "forecast": "-",
+          "previous": "-12.4"
+        },
+        {
+          "date": "05/13",
+          "actual": "-12.4",
+          "forecast": "-",
+          "previous": "-2.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
     },
     {
       "id": "capital:1170530",
@@ -45135,6 +48673,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-06-14 00:39:28"
+    },
+    {
+      "id": "capital:1176409",
+      "fid": "1176409",
+      "interval": "next_week",
+      "date": "2026-06-24",
+      "time": "23:30",
+      "datetime": "2026-06-24 23:30:00",
+      "display_time": "06/24 23:30",
+      "country": "美國",
+      "title": "美國至6月24日4個月國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "11.86 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176409",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/17",
+          "actual": "11.86",
+          "forecast": "-",
+          "previous": "16.25"
+        },
+        {
+          "date": "06/10",
+          "actual": "16.25",
+          "forecast": "-",
+          "previous": "93.35"
+        },
+        {
+          "date": "06/03",
+          "actual": "93.35",
+          "forecast": "-",
+          "previous": "25.59"
+        },
+        {
+          "date": "05/27",
+          "actual": "25.59",
+          "forecast": "-",
+          "previous": "99.6"
+        },
+        {
+          "date": "05/20",
+          "actual": "99.6",
+          "forecast": "-",
+          "previous": "69.81"
+        },
+        {
+          "date": "05/13",
+          "actual": "69.81",
+          "forecast": "-",
+          "previous": "70.08"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
     },
     {
       "id": "capital:1170532",
@@ -45728,7 +49324,7 @@
       "title": "澳大利亞5月季調後失業率",
       "importance": 2,
       "previous": "4.5 %",
-      "forecast": "-- %",
+      "forecast": "4.4 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171605",
@@ -45786,7 +49382,7 @@
       "title": "澳大利亞5月季調後就業參與率",
       "importance": 1,
       "previous": "66.7 %",
-      "forecast": "-- %",
+      "forecast": "66.8 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1173416",
@@ -45844,7 +49440,7 @@
       "title": "澳大利亞5月就業人口(萬人)",
       "importance": 1,
       "previous": "-1.86",
-      "forecast": "--",
+      "forecast": "3",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171604",
@@ -45901,7 +49497,7 @@
       "country": "日本",
       "title": "日本4月同步指標月率終值",
       "importance": 1,
-      "previous": "0.2 %",
+      "previous": "1.1 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -46017,7 +49613,7 @@
       "country": "日本",
       "title": "日本4月領先指標月率終值",
       "importance": 1,
-      "previous": "0.8 %",
+      "previous": "0.5 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -46888,7 +50484,7 @@
       "title": "美國5月PCE物價指數年率",
       "importance": 1,
       "previous": "3.8 %",
-      "forecast": "-- %",
+      "forecast": "4.1 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171626",
@@ -46946,7 +50542,7 @@
       "title": "美國5月PCE物價指數月率",
       "importance": 1,
       "previous": "0.4 %",
-      "forecast": "-- %",
+      "forecast": "0.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171625",
@@ -47004,7 +50600,7 @@
       "title": "美國5月個人支出月率",
       "importance": 2,
       "previous": "0.5 %",
-      "forecast": "-- %",
+      "forecast": "0.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171622",
@@ -47062,7 +50658,7 @@
       "title": "美國5月個人收入月率",
       "importance": 1,
       "previous": "0 %",
-      "forecast": "-- %",
+      "forecast": "0.4 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171621",
@@ -47236,7 +50832,7 @@
       "title": "美國5月扣除運輸的耐用品訂單月率",
       "importance": 1,
       "previous": "1.1 %",
-      "forecast": "-- %",
+      "forecast": "0.2 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171633",
@@ -47294,7 +50890,7 @@
       "title": "美國5月扣除飛機非國防資本耐用品訂單月率",
       "importance": 1,
       "previous": "-1 %",
-      "forecast": "-- %",
+      "forecast": "0.8 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171634",
@@ -47352,7 +50948,7 @@
       "title": "美國5月核心PCE物價指數年率",
       "importance": 3,
       "previous": "3.3 %",
-      "forecast": "-- %",
+      "forecast": "3.4 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171628",
@@ -47410,7 +51006,7 @@
       "title": "美國5月核心PCE物價指數月率",
       "importance": 2,
       "previous": "0.2 %",
-      "forecast": "-- %",
+      "forecast": "0.3 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171627",
@@ -47468,7 +51064,7 @@
       "title": "美國5月耐用品訂單月率",
       "importance": 2,
       "previous": "8 %",
-      "forecast": "-- %",
+      "forecast": "-6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171632",
@@ -47584,7 +51180,7 @@
       "title": "美國第一季度GDP價格指數終值",
       "importance": 1,
       "previous": "3.5 %",
-      "forecast": "-- %",
+      "forecast": "3.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171637",
@@ -47641,7 +51237,7 @@
       "country": "美國",
       "title": "美國第一季度PCE物價指數年化季率終值",
       "importance": 1,
-      "previous": "2.9 %",
+      "previous": "4.5 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -47757,7 +51353,7 @@
       "country": "美國",
       "title": "美國第一季度企業獲利年化季率終值",
       "importance": 1,
-      "previous": "5.7 %",
+      "previous": "-0.4 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -47816,7 +51412,7 @@
       "title": "美國第一季度實際GDP年化季率終值",
       "importance": 2,
       "previous": "1.6 %",
-      "forecast": "-- %",
+      "forecast": "1.6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171635",
@@ -47931,7 +51527,7 @@
       "country": "美國",
       "title": "美國第一季度實際個人消費支出季率終值",
       "importance": 2,
-      "previous": "1.9 %",
+      "previous": "1.4 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -48047,7 +51643,7 @@
       "country": "美國",
       "title": "美國第一季度最終銷售年化季率終值",
       "importance": 1,
-      "previous": "0.3 %",
+      "previous": "1.5 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -48106,7 +51702,7 @@
       "title": "美國第一季度核心PCE物價指數年化季率終值",
       "importance": 2,
       "previous": "4.4 %",
-      "forecast": "-- %",
+      "forecast": "4.4 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171638",
@@ -48221,7 +51817,7 @@
       "country": "美國",
       "title": "美國至6月13日當週續請失業金人數(萬人)",
       "importance": 1,
-      "previous": "--",
+      "previous": "181",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -48279,7 +51875,7 @@
       "country": "美國",
       "title": "美國至6月20日當週初請失業金人數(萬人)",
       "importance": 3,
-      "previous": "--",
+      "previous": "22.6",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -48337,7 +51933,7 @@
       "country": "美國",
       "title": "美國至6月20日當週初請失業金人數四周均值(萬人)",
       "importance": 1,
-      "previous": "--",
+      "previous": "22.325",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -48453,7 +52049,7 @@
       "country": "美國",
       "title": "美國至6月19日當週EIA天然氣庫存(億立方英尺)",
       "importance": 2,
-      "previous": "--",
+      "previous": "730",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -48627,7 +52223,7 @@
       "country": "美國",
       "title": "美國至6月25日4周國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.58 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -48675,6 +52271,64 @@
       "history_checked_at": "2026-06-14 00:44:14"
     },
     {
+      "id": "capital:1177540",
+      "fid": "1177540",
+      "interval": "next_week",
+      "date": "2026-06-25",
+      "time": "23:30",
+      "datetime": "2026-06-25 23:30:00",
+      "display_time": "06/25 23:30",
+      "country": "美國",
+      "title": "美國至6月25日4周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "64.65 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177540",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/18",
+          "actual": "64.65",
+          "forecast": "-",
+          "previous": "70.32"
+        },
+        {
+          "date": "06/11",
+          "actual": "70.32",
+          "forecast": "-",
+          "previous": "27.64"
+        },
+        {
+          "date": "06/04",
+          "actual": "27.64",
+          "forecast": "-",
+          "previous": "41.91"
+        },
+        {
+          "date": "05/28",
+          "actual": "41.91",
+          "forecast": "-",
+          "previous": "62.57"
+        },
+        {
+          "date": "05/21",
+          "actual": "62.57",
+          "forecast": "-",
+          "previous": "25.82"
+        },
+        {
+          "date": "05/14",
+          "actual": "25.82",
+          "forecast": "-",
+          "previous": "22.66"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1171643",
       "fid": "1171643",
       "interval": "next_week",
@@ -48685,7 +52339,7 @@
       "country": "美國",
       "title": "美國至6月25日4周國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "2.99",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -48743,7 +52397,7 @@
       "country": "美國",
       "title": "美國至6月25日8周國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.64 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -48791,6 +52445,64 @@
       "history_checked_at": "2026-06-14 00:44:14"
     },
     {
+      "id": "capital:1176411",
+      "fid": "1176411",
+      "interval": "next_week",
+      "date": "2026-06-25",
+      "time": "23:30",
+      "datetime": "2026-06-25 23:30:00",
+      "display_time": "06/25 23:30",
+      "country": "美國",
+      "title": "美國至6月25日8周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "31.85 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176411",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/18",
+          "actual": "31.85",
+          "forecast": "-",
+          "previous": "65.5"
+        },
+        {
+          "date": "06/11",
+          "actual": "65.5",
+          "forecast": "-",
+          "previous": "68.26"
+        },
+        {
+          "date": "06/04",
+          "actual": "68.26",
+          "forecast": "-",
+          "previous": "82.33"
+        },
+        {
+          "date": "05/28",
+          "actual": "82.33",
+          "forecast": "-",
+          "previous": "45.18"
+        },
+        {
+          "date": "05/21",
+          "actual": "45.18",
+          "forecast": "-",
+          "previous": "43.09"
+        },
+        {
+          "date": "05/14",
+          "actual": "43.09",
+          "forecast": "-",
+          "previous": "90.77"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1171644",
       "fid": "1171644",
       "interval": "next_week",
@@ -48801,7 +52513,7 @@
       "country": "美國",
       "title": "美國至6月25日8周國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "2.57",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -49034,7 +52746,7 @@
       "title": "墨西哥至6月25日央行利率決定",
       "importance": 1,
       "previous": "6.5 %",
-      "forecast": "-- %",
+      "forecast": "6.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171648",
@@ -49081,6 +52793,64 @@
       "history_checked_at": "2026-06-14 00:44:14"
     },
     {
+      "id": "capital:1176412",
+      "fid": "1176412",
+      "interval": "next_week",
+      "date": "2026-06-26",
+      "time": "04:30",
+      "datetime": "2026-06-26 04:30:00",
+      "display_time": "06/26 04:30",
+      "country": "美國",
+      "title": "美國至6月19日當週外國央行持有美國國債(億美元)",
+      "importance": 1,
+      "previous": "-21.18",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1176412",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "06/19",
+          "actual": "-21.18",
+          "forecast": "-",
+          "previous": "-135.55"
+        },
+        {
+          "date": "06/12",
+          "actual": "-135.55",
+          "forecast": "-",
+          "previous": "-326.86"
+        },
+        {
+          "date": "06/05",
+          "actual": "-326.86",
+          "forecast": "-",
+          "previous": "128.29"
+        },
+        {
+          "date": "05/29",
+          "actual": "128.29",
+          "forecast": "-",
+          "previous": "-202.38"
+        },
+        {
+          "date": "05/22",
+          "actual": "-202.38",
+          "forecast": "-",
+          "previous": "-392.39"
+        },
+        {
+          "date": "05/15",
+          "actual": "-392.39",
+          "forecast": "-",
+          "previous": "-87.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1171649",
       "fid": "1171649",
       "interval": "next_week",
@@ -49092,7 +52862,7 @@
       "title": "日本6月東京CPI年率",
       "importance": 1,
       "previous": "1.4 %",
-      "forecast": "-- %",
+      "forecast": "1.6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171649",
@@ -49208,7 +52978,7 @@
       "title": "日本6月東京核心CPI年率",
       "importance": 1,
       "previous": "1.3 %",
-      "forecast": "-- %",
+      "forecast": "1.6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171650",
@@ -49266,7 +53036,7 @@
       "title": "新加坡5月季調後工業產出指數月率",
       "importance": 1,
       "previous": "5.8 %",
-      "forecast": "-- %",
+      "forecast": "-1 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171651",
@@ -49324,7 +53094,7 @@
       "title": "新加坡5月工業產出年率",
       "importance": 1,
       "previous": "17.6 %",
-      "forecast": "-- %",
+      "forecast": "16.1 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1171652",
@@ -49603,6 +53373,64 @@
       "history_checked_at": "2026-06-14 00:44:14"
     },
     {
+      "id": "capital:1177541",
+      "fid": "1177541",
+      "interval": "next_week",
+      "date": "2026-06-26",
+      "time": "18:00",
+      "datetime": "2026-06-26 18:00:00",
+      "display_time": "06/26 18:00",
+      "country": "意大利",
+      "title": "意大利5月非歐盟貿易帳(億歐元)",
+      "importance": 1,
+      "previous": "38.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177541",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "05/28",
+          "actual": "38.5",
+          "forecast": "-",
+          "previous": "56.4"
+        },
+        {
+          "date": "04/29",
+          "actual": "56.4",
+          "forecast": "-",
+          "previous": "55.3"
+        },
+        {
+          "date": "03/27",
+          "actual": "55.29",
+          "forecast": "-",
+          "previous": "21.2"
+        },
+        {
+          "date": "02/27",
+          "actual": "21.24",
+          "forecast": "-",
+          "previous": "83.9"
+        },
+        {
+          "date": "01/29",
+          "actual": "83.85",
+          "forecast": "-",
+          "previous": "69.2"
+        },
+        {
+          "date": "12/23",
+          "actual": "69.2",
+          "forecast": "-",
+          "previous": "53.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-06-19 12:01:55"
+    },
+    {
       "id": "capital:1171655",
       "fid": "1171655",
       "interval": "next_week",
@@ -49671,7 +53499,7 @@
       "country": "美國",
       "title": "美國6月一年期通脹率預期終值",
       "importance": 2,
-      "previous": "-- %",
+      "previous": "4.6 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -49729,7 +53557,7 @@
       "country": "美國",
       "title": "美國6月五至十年期通脹率預期終值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.4 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -49787,7 +53615,7 @@
       "country": "美國",
       "title": "美國6月密歇根大學消費者信心指數終值",
       "importance": 3,
-      "previous": "--",
+      "previous": "48.9",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -49845,7 +53673,7 @@
       "country": "美國",
       "title": "美國6月密歇根大學現況指數終值",
       "importance": 1,
-      "previous": "--",
+      "previous": "48.4",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -49903,7 +53731,7 @@
       "country": "美國",
       "title": "美國6月密歇根大學預期指數終值",
       "importance": 1,
-      "previous": "--",
+      "previous": "49.3",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -49961,7 +53789,7 @@
       "country": "美國",
       "title": "美國至6月26日當週天然氣鑽井總數(口)",
       "importance": 1,
-      "previous": "--",
+      "previous": "122",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -50019,7 +53847,7 @@
       "country": "美國",
       "title": "美國至6月26日當週石油鑽井總數(口)",
       "importance": 2,
-      "previous": "--",
+      "previous": "433",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -50077,7 +53905,7 @@
       "country": "美國",
       "title": "美國至6月26日當週總鑽井總數(口)",
       "importance": 1,
-      "previous": "--",
+      "previous": "563",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
