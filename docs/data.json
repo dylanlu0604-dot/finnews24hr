@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-19 21:52:02",
-  "count": 17962,
+  "updated": "2026-06-19 21:56:15",
+  "count": 17957,
   "items": [
+    {
+      "id": "4945251",
+      "time": "2026-06-19 21:55:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威政府表示，計劃禁止與巴勒斯坦被非法佔領領土上的以色列定居點開展一切貿易。"
+    },
+    {
+      "id": "4945250",
+      "time": "2026-06-19 21:53:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：初步通報 —— 扎裡特區域已響起敵方飛行器滲透防空警報，相關詳情正在核查中。"
+    },
+    {
+      "id": "mkt:019ee028-2dfe-7dd8-b096-b77da0079dd1",
+      "time": "2026-06-19 21:53:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says Lebanon-deployed frontline troops have \"operational freedom\" but will follow political orders】On June 19 an IDF spokesman said frontline forces deployed in Lebanon “have operational freedom” but that operations face certain limits and will be carried out strictly under political leadership instructions. He said the IDF retains the right to act in any area to eliminate threats. Matters related to agreements are for the government to decide; absent other orders, forces will act on the chief of staff’s directives."
+    },
+    {
+      "id": "4945249",
+      "time": "2026-06-19 21:52:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱部署在黎巴嫩的前線部隊將按照指示採取行動】當地時間6月19日，以色列國防軍發言人德弗林在通報以軍最新軍事行動時表示，目前部署在黎巴嫩區域的以軍前線部隊“擁有行動自由”。被問及以軍的行動是否受到限制、是否會空襲黎巴嫩首都貝魯特時，德弗林表示，以軍行動存在一定限制，將嚴格按照政治領導層的指示採取行動。他稱，為了消除威脅，以軍有權在任何區域採取行動。德弗林還表示，任何與協議有關的事情都屬於政府管轄範圍，“只要我們沒有接到其他命令，就會按照總參謀長的命令列事。”此外，以色列國防軍阿拉伯語發言人阿德拉伊當地時間19日發表宣告稱，以軍前線部隊在清除安全威脅時“享有完全的行動自由”。以軍總參謀長已下令，向前線部隊提供所有必要的軍事裝備。阿德拉伊還表示，從18日晚至19日下午，以軍在包括貝卡谷地和納巴泰在內的黎巴嫩多地展開大範圍空襲，打擊的真主黨目標超過100個，打死數十名武裝人員。（央視新聞）"
+    },
+    {
+      "id": "te:economy:560501",
+      "time": "2026-06-19 21:52:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Unemployment Rate",
+        "Importance 0"
+      ],
+      "text": "Slovenia Unemployment Rate Falls in April — Slovenia's unemployment rate edged down to 4.5% in April 2026, the lowest in eight months, from 4.6% in March, as the number of unemployed persons fell by 1,115 over the month to 43,060. Women accounted for 20,905 unemployed individuals, while men totaled 22,155, corresponding to unemployment rates of 4.8% and 4.2%, respectively. By age group, unemployment was highest among those aged 15–29, at 6.7%, followed by individuals aged 55 and over, at 5.7%. Compared with the same month a year earlier, the overall unemployment rate was unchanged at 4.5%. Employers reported 11,437 job openings in April, and during the first four months of 2026, total job openings reached 48,085, representing a 5.2% decline compared with the same period last year."
+    },
     {
       "id": "4945248",
       "time": "2026-06-19 21:50:21",
@@ -27,6 +71,14 @@
         "Impact bearish"
       ],
       "text": "Market pricing shows Fed rate-hike bets have risen and now fully price a 25bp hike in September."
+    },
+    {
+      "id": "4945247",
+      "time": "2026-06-19 21:48:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍中央司令部：昨夜有超過20艘船隻使用了霍爾木茲海峽的阿曼航線。"
     },
     {
       "id": "mkt:019ee023-9c63-7dd8-b096-a0b90239faa7",
@@ -165508,112 +165560,6 @@
         "公司"
       ],
       "text": "市場訊息：在SpaceX首次公開募股中，出售給機構的股份約有70%分配給了只做多投資者，此外還有部分股份分配給了主權財富基金。"
-    },
-    {
-      "id": "mkt:019ebc1d-cae8-7dd8-afdf-eac403446e01",
-      "time": "2026-06-12 21:55:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCE.O",
-        "Impact bearish",
-        "RKLB.O",
-        "PL.O"
-      ],
-      "text": "U.S. space-sector stocks extended losses: Intuitive Machines down 10.3%, Planet Labs down 7.8%, Rocket Lab down 8.8%, Satellogic down 9.8%, Virgin Galactic down 25.1%, Redwire down 10%."
-    },
-    {
-      "id": "4933025",
-      "time": "2026-06-12 21:55:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "在SpaceX上市，美國航天板塊股票進一步下跌。朗德希爾太空科技ETF下跌4.6%，Procure太空ETF下跌5.5%。直觀機器公司股價下跌10.3%，行星實驗室股價下跌7.8%，火箭實驗室股價下跌8.8%，衛星邏輯公司股價下跌9.8%，維珍銀河股價下跌25.1%，雷德維爾公司股價下跌10%。"
-    },
-    {
-      "id": "te:markets:558746",
-      "time": "2026-06-12 21:55:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises on US-Iran Deal Hopes — The Ibovespa gained more than 0.5% to trade above 172,000 on Friday amid growing optimism over a US-Iran peace deal. Oil prices fell on reports that the two countries may sign an agreement to reopen the Strait of Hormuz on the sidelines of next week’s G7 summit, easing concerns over energy costs. Banks traded higher, with Bradesco and Banco do Brasil both gaining nearly 1%. Utilities also advanced, with Axia adding almost 1%. Rede D'Or climbed more than 1.5%, extending gains after completing its third share buyback program on Thursday, while Embraer rose over 1% following reports of aircraft purchases by the Greek government. Petrobras, meanwhile, lost more than 2% on lower oil prices. Earlier in the session, hotter-than-expected inflation data weighed on sentiment. Brazil’s annual inflation rate rose to 4.72% in May from 4.39%, exceeding forecasts and reinforcing expectations of a more hawkish stance from the BCB."
-    },
-    {
-      "id": "4933024",
-      "time": "2026-06-12 21:54:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：根據協議，霍爾木茲海峽將開放。"
-    },
-    {
-      "id": "4933023",
-      "time": "2026-06-12 21:54:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京表示，俄羅斯正積極研發配備人工智慧的無人機。"
-    },
-    {
-      "id": "4933022",
-      "time": "2026-06-12 21:54:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：霍爾木茲海峽將在協議下開放。伊朗在履行相關義務之前不會獲得任何資金。根據協議，伊朗核計劃將被拆毀。伊朗只有履行承諾才能拿到錢。"
-    },
-    {
-      "id": "mkt:019ebc1c-56e4-7dd8-afdf-e4f46e664196",
-      "time": "2026-06-12 21:53:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. official: Under the agreement, Iran's nuclear program will be dismantled."
-    },
-    {
-      "id": "4933021",
-      "time": "2026-06-12 21:53:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗歪曲協議條款】美國總統特朗普今天（6月12日）在社交媒體平臺發帖稱，“伊朗洩露給‘假新聞媒體’的那些條款，跟雙方書面敲定的協議條款沒有任何關係。他們的說法——包括那份軟弱又可悲的所謂‘達成協議’宣告——根本就不是事實。跟這幫人打交道太不光彩了，對他們來說，根本不存在誠信交易這回事。簡直離譜！” 特朗普還稱，“昨晚他們（伊朗）對駛離霍爾木茲海峽的印度船隻發動無人機襲擊，結果被徹底擊退。這完全不可接受。他們最好老實點，而且要快！”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ebc1c-3831-7dd8-afdf-d89778890ac6",
-      "time": "2026-06-12 21:53:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. officials said the Strait of Hormuz will be opened under an agreement. Iran will not receive any funds until it fulfills the relevant obligations."
-    },
-    {
-      "id": "4933020",
-      "time": "2026-06-12 21:52:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭方面訊息：臉書、照片牆及即時通訊應用出現大規模服務中斷。"
-    },
-    {
-      "id": "4933019",
-      "time": "2026-06-12 21:52:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SpaceX 登陸納斯達克，開盤價報 174 美元，其發行價為每股 135 美元。"
     }
   ]
 }
