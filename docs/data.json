@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-20 04:07:55",
+  "updated": "2026-06-20 04:11:55",
   "count": 17671,
   "items": [
+    {
+      "id": "4945444",
+      "time": "2026-06-20 04:10:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【利比亞近海沉船事故致12人死亡39人失蹤】一艘載有非法移民的船隻日前在利比亞東部城市圖卜魯格附近海域沉沒，已致12人死亡、39人失蹤。 據利比亞一服務移民和難民的人道主義組織19日釋出的訊息，事故發生於本月12日，事發船隻載有61人，其中10人逃生。該組織表示，目前已找到12具遺體，搜尋行動仍在進行中。（新華社）"
+    },
+    {
+      "id": "4945443",
+      "time": "2026-06-20 04:10:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這是全新塗裝配色 —— 紅、白、藍。我們原本挺喜歡淡藍色，但如今是時候做出改變了…… 我偏愛美國國旗本身的色彩。"
+    },
+    {
+      "id": "4945442",
+      "time": "2026-06-20 04:08:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 全新空軍一號專機將於 7 月 4 日飛越華盛頓上空。"
+    },
+    {
+      "id": "mkt:019ee17f-8a04-7dd8-b09b-29a68314e07f",
+      "time": "2026-06-20 04:08:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the Qatar-donated Air Force One presidential aircraft has been equipped with the Starlink communications network."
+    },
+    {
+      "id": "mkt:019ee17f-5872-7dd8-b09b-21c54481f881",
+      "time": "2026-06-20 04:07:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump thanked about 250 staff and airmen at Joint Base Andrews for working round-the-clock to put the presidential aircraft into service."
+    },
     {
       "id": "4945441",
       "time": "2026-06-20 04:05:10",
@@ -162678,48 +162720,6 @@
         "Importance 1"
       ],
       "text": "TSX Gains on Hopes for US-Iran Agreement — The S&P/TSX Composite Index gained 0.8% to close at 34,938 on Friday amid renewed optimism over US-Iran diplomacy. Reports indicated that a US-Iran memorandum could be signed as early as Sunday. Oil prices eased, reducing inflation concerns and diminishing expectations of further monetary tightening, supporting financial stocks and the broader market. TD Bank added 1.1%, while BMO rose 1.2%. Mining stocks also advanced despite lower gold prices, with Agnico Eagle gaining 3.4%, Barrick rising 3.3%, and WPM adding 3.5%. Meanwhile, technology shares traded mixed following SpaceX's market debut. Shopify fell 1.8%, while Celestica posted gains as investor optimism around AI-related stocks persisted."
-    },
-    {
-      "id": "mkt:019ebd75-dc42-7dd8-afe7-237041896748",
-      "time": "2026-06-13 04:11:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Colombia's finance ministry revised its 2026 fiscal deficit target up to 5.3% of GDP from 5.1% and expects the 2027 deficit to be 4.5% of GDP."
-    },
-    {
-      "id": "4933409",
-      "time": "2026-06-13 04:11:01",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "哥倫比亞財政部：該國將 2026 年財政赤字目標上調至國內生產總值的 5.3%，此前目標為 5.1%。"
-    },
-    {
-      "id": "4933408",
-      "time": "2026-06-13 04:09:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "洲際交易所（ICE）：6月9日當週， 飼料小麥投機者淨多頭持倉增加 250 手，至 196 手。"
-    },
-    {
-      "id": "4933407",
-      "time": "2026-06-13 04:08:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：伊拉克經濟仍高度依賴石油行業，且霍爾木茲海峽持續出現的出口受阻問題對其造成影響。"
-    },
-    {
-      "id": "4933406",
-      "time": "2026-06-13 04:07:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普：未來 6 至 12 個月，受中東持續衝突影響，伊拉克前景面臨多重風險。預計 2026 年伊拉克財政及國際收支狀況將持續承壓。"
     }
   ]
 }
