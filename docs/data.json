@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-19 09:52:33",
-  "count": 18893,
+  "updated": "2026-06-19 09:56:38",
+  "count": 18886,
   "items": [
+    {
+      "id": "mkt:019edd97-c6fa-7dd8-b08c-3c28abfbc9ef",
+      "time": "2026-06-19 09:56:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HIMINO: Recent price increases are partly demand-driven; strong corporate profits, steady wage growth and robust AI-related demand are supporting Japan's economy."
+    },
+    {
+      "id": "mkt:019edd97-7e4e-7dd8-b08c-35a49e59bf75",
+      "time": "2026-06-19 09:55:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranians skeptical US will honor memorandum】Early on the 18th Beijing time, US and Iranian officials confirmed their presidents signed a memorandum of understanding. Some Iranians said they doubted the US would comply, citing past breaches and warning the memorandum may not produce lasting calm; others said they had little expectation of implementation and feared the US could launch further attacks."
+    },
+    {
+      "id": "4944561",
+      "time": "2026-06-19 09:55:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.3%。"
+    },
+    {
+      "id": "mkt:019edd95-cb53-7dd8-b08c-280b626b5076",
+      "time": "2026-06-19 09:54:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 pared gains, trading up 0.25%."
+    },
+    {
+      "id": "4944560",
+      "time": "2026-06-19 09:53:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數漲幅收窄，最新上漲0.25%。"
+    },
+    {
+      "id": "mkt:019edd94-2566-7dd8-b08c-25cc35eb6f6c",
+      "time": "2026-06-19 09:52:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $65/oz for the first time since June 11, down 1.05% intraday."
+    },
+    {
+      "id": "4944559",
+      "time": "2026-06-19 09:52:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨白銀失守65美元/盎司】現貨白銀失守65美元/盎司，日內跌1.07%。"
+    },
     {
       "id": "mkt:019edd92-216f-7dd8-b08c-18ed0cec914f",
       "time": "2026-06-19 09:50:01",
@@ -173818,144 +173885,6 @@
         "市場"
       ],
       "text": "【招商銀行調整“招財金”業務合約追保保證金比例】6月12日，招商銀行釋出關於調整“招財金”業務合約追保保證金比例的通告。鑑於近期國內外貴金屬價格波動加劇，為防範市場風險、保護投資者權益，該行對招財金業務進行相關調整，具體通告如下：2026年6月16日（星期二）收盤清算時起，Ag(T+D)、Au(T+D)、mAu(T+D)、Au(T+N1)、Au(T+N2)、NYAuTN06、NYAuTN12等合約的追保保證金比例調整為120%。請投資者做好風險防範工作，合理控制倉位，理性投資。"
-    },
-    {
-      "id": "mkt:019eb98b-2426-7dd8-afcf-23e3d4990753",
-      "time": "2026-06-12 09:56:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share low-altitude economy sector rose; Zongshen Power and CITIC Offshore Helicopter hit the daily limit; Wanfeng Aowei, Chuangyuan Xinke and Suochen Technology also advanced."
-    },
-    {
-      "id": "4931594",
-      "time": "2026-06-12 09:55:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【通用航空概念持續走強，宗申動力、晨曦航空等多股漲停】通用航空概念持續走強，宗申動力、晨曦航空、中信海直漲停，中航高科、應流股份、萬豐奧威、安達維爾、洪都航空、天成自控等跟漲。"
-    },
-    {
-      "id": "mkt:019eb98a-90a3-7dd8-afcf-1c30e18fe425",
-      "time": "2026-06-12 09:55:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Localized moves in Guangdong: Zhujiang Piano jumped >7% intraday; Zhujiang Co. rose >3%. Guangzhou’s draft 15th Five-Year commerce development plan, published for public comment, proposes to support the Hong Kong Jockey Club’s Conghua racecourse and the Guangzhou International Horse Racing Development Center and to back regular racing schedules."
-    },
-    {
-      "id": "4931593",
-      "time": "2026-06-12 09:55:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "廣東板塊區域性異動，珠江鋼琴短線拉昇漲超7%，珠江股份漲超3%。"
-    },
-    {
-      "id": "mkt:019eb98a-5180-7dd8-afcf-17ae87085b97",
-      "time": "2026-06-12 09:55:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangzhou: total retail sales of consumer goods to grow 5% annually during 15th Five-Year Plan】Guangzhou has released a draft commerce development plan for public consultation, aligning with national and provincial plans and setting four areas with 18 specific business-development targets through 2030. Key numeric targets: total retail sales of consumer goods to rise 5% a year during the 15th Five-Year Plan period; goods trade import‑export scale to grow 6% a year; service outsourcing contract execution to reach $24bn by 2030. The draft also defines 15 focused indicators tied to consumption, foreign trade, exhibitions, two‑way investment and ports — including online retail sales of above‑scale wholesale and retail firms, number of world‑class commercial districts, service trade import‑export, exhibition area of key venues and added foreign‑funded functional institutions — and sets qualitative mid‑to‑long‑term goals toward 2035."
-    },
-    {
-      "id": "4931592",
-      "time": "2026-06-12 09:55:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州：“十五五”期間社會消費品零售總額年均增長5%】《廣州市商務發展“十五五”規劃（公開徵求意見稿）》公開徵求意見。其中提到，本規劃充分銜接國家以及省市規劃建議、綱要，立足廣州增強國際商貿中心功能的現實路徑和需要，制定了到2030年的4方面18項具體商務發展指標。其中，社會消費品零售總額（“十五五”期間年均增長5%）、貨物貿易進出口規模（年均增長6%）、服務外包合同執行額（2030年達240億美元）等3個指標，納入市規劃綱要。此外，本規劃根據消費、外貿、會展、雙向投資、口岸等發展趨勢，制定了包括限上批零業網上零售額、世界級商圈數量、服務貿易進出口、重點展館展覽面積、新增外資功能性機構數量等15個重點、特色指標。同時，參照上位規劃做法，對2035年中遠期提出定性目標。"
-    },
-    {
-      "id": "te:markets:558523",
-      "time": "2026-06-12 09:53:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Rises Over 4% — Platinum futures rose more than 4% to above $1,730 an ounce, attempting to rebound from a six-month low as precious metals broadly advanced after renewed hopes for a Middle East peace deal eased inflation concerns. US President Donald Trump said a deal could be reached as early as this weekend after postponing planned attacks against Iran. This could potentially reopen the Strait of Hormuz and would likely push oil prices lower, reducing inflation pressures from energy and easing pressure on central banks to raise rates. Still, traders remained cautious, as even a breakthrough would take time to fully restore oil flows. Meanwhile, the platinum market remains structurally tight, with the World Platinum Investment Council projecting a fourth consecutive annual supply deficit in 2026. Output from major producers South Africa and Russia remains constrained by aging mines, high costs, and sanctions-related disruptions, while industrial demand from the automotive sector remains resilient."
-    },
-    {
-      "id": "mkt:019eb988-bd73-7dd8-afcf-09fa785ef475",
-      "time": "2026-06-12 09:53:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Platinum main contract rose more than 4.00% intraday to 433.10 yuan/gram."
-    },
-    {
-      "id": "mkt:019eb988-83ff-7dd8-afcf-00ba30d1fbbf",
-      "time": "2026-06-12 09:53:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Guangzhou draft commerce plan backs Hong Kong Jockey Club Conghua racecourse, Greater Bay Area cross-border smart clearance for racing】Guangzhou’s draft 15th Five-Year commerce development plan, released for public comment, backs construction of an international events center and seeks to host international and national sporting events including horse and auto racing. The draft explicitly supports the Hong Kong Jockey Club’s Conghua racecourse and the Guangzhou Conghua International Racecourse development center and endorses running a regular racing calendar to spur local consumption. It calls for advancing Greater Bay Area cross-border intelligent customs clearance for horse racing, including use of \"horse-face\" intelligent recognition to strengthen smart supervision and promote healthy development of the GBA equine industry."
-    },
-    {
-      "id": "4931591",
-      "time": "2026-06-12 09:53:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨漲幅擴大至1%。"
-    },
-    {
-      "id": "4931590",
-      "time": "2026-06-12 09:53:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內漲4%，現報433.10元。"
-    },
-    {
-      "id": "mkt:019eb988-4e46-7dd8-afce-f8a5648c0b0e",
-      "time": "2026-06-12 09:52:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 index futures rise over 1%."
-    },
-    {
-      "id": "mkt:019eb988-3d8f-7dd8-afce-f2e4b99a5e61",
-      "time": "2026-06-12 09:52:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "00358.HK",
-        "Impact bullish",
-        "03993.HK",
-        "02899.HK"
-      ],
-      "text": "Hong Kong non-ferrous metals sector strengthened; Jiangxi Copper (00358.HK) rose more than 5%, with Lingbao Gold (03330.HK), China Molybdenum (03993.HK), Minmetals Resources (01208.HK), China Nonferrous Mining (01258.HK) and Zijin Mining (02899.HK) also higher."
-    },
-    {
-      "id": "4931589",
-      "time": "2026-06-12 09:52:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本政府據悉將挑選船隻派遣至霍爾木茲海峽。"
     }
   ]
 }
