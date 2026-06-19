@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-19 18:09:02",
-  "count": 18211,
+  "updated": "2026-06-19 18:13:02",
+  "count": 18198,
   "items": [
+    {
+      "id": "te:economy:560461",
+      "time": "2026-06-19 18:12:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Latvia Producer Prices at 4-Month High — Producer prices in Latvia rose 1.8% year-on-year in May 2026, accelerating from a revised 0.7% increase in the previous month and reaching the highest level since January. Price growth strengthened in manufacturing (1.1% vs 0.7% in April), driven by chemicals and chemical products (6% vs 3.5%), basic metals (6% vs 5.6%), and other non-metallic mineral products (6.1% vs 4.1%). At the same time, costs rebounded in electricity, gas, steam and air conditioning supply (1.7% vs -2.7%), while costs continued to rise for water supply, sewerage, waste management, and remediation activities (7.9% vs 7.5%). Meanwhile inflation in mining and quarrying eased (12.2% vs 15.5%). On a monthly basis, producer prices edged up 0.9% in May from a 0.5% increase in April and marking the strongest gain since January."
+    },
+    {
+      "id": "4944999",
+      "time": "2026-06-19 18:11:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國議員安迪·伯納姆：計劃在未來幾天與斯塔默交談。"
+    },
+    {
+      "id": "4944998",
+      "time": "2026-06-19 18:10:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京懷柔升級釋出山洪災害風險橙色預警】記者從懷柔區獲悉，6月19日，懷柔區水務局與區氣象局聯合升級釋出山洪災害風險橙色預警：根據最新氣象預報和市山洪災害監測預警，懷柔區部分地區將出現6小時降雨量100毫米以上的強降水，鑑於當前懷柔區山區土壤飽和度高，發生山洪災害風險大，雁棲鎮、懷北鎮、湯河口鎮、喇叭溝門鄉升級釋出山洪災害風險橙色預警，其他山區鎮鄉升級釋出為山洪災害風險黃色預警。請公眾遠離山洪溝道，暫停涉山涉水戶外活動，密切關注山區溝道漲水變化，防範山洪災害。（北青報）"
+    },
+    {
+      "id": "mkt:019edf5a-b8e0-7dd8-b092-eb914dc869d7",
+      "time": "2026-06-19 18:08:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Three Gorges hub new-channel pilot excavation expected to finish by October】A site source for the Three Gorges waterway project says the pilot excavation area for the new channel at the Three Gorges hub has completed topsoil stripping and is expected to finish excavation in October. Ongoing works include earthworks on the pilot navigation test section, rock blasting, slope support and drainage, and construction trials. Cumulative excavation is about 4.15 mln cubic meters, roughly 48% of the planned volume, and overall progress is in line with the schedule."
+    },
     {
       "id": "4944997",
       "time": "2026-06-19 18:08:18",
@@ -167477,155 +167515,6 @@
         "MKT News"
       ],
       "text": "Air India will scale back operations after its owner demanded cuts to reduce losses."
-    },
-    {
-      "id": "mkt:019ebb52-1a5d-7dd8-afdb-ff50f9dbc604",
-      "time": "2026-06-12 18:13:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "IFX.DE",
-        "Impact bullish"
-      ],
-      "text": "【Infineon to start production at €5 bln power-chip fab on July 2】Infineon said it is preparing to bring online its largest single investment, a €5 billion power-chip fab in Dresden, with production scheduled to start July 2. The project, a major beneficiary of the EU Chips Act, received about €1 billion in subsidies. COO Alexander Gorski said output will be ramped based on demand and the site could add as much as €5 billion of revenue annually, but declined to say when full capacity would be reached. Infineon has invested roughly €2 billion to date; remaining funds will be deployed in phases to equip the wafer fab."
-    },
-    {
-      "id": "4932532",
-      "time": "2026-06-12 18:12:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外交部：美國的此類行為破壞了在敏感地區國際海洋貿易的安全、穩定和安寧，尤其是在困難時期。"
-    },
-    {
-      "id": "mkt:019ebb51-f982-7dd8-afdb-f386cb007321",
-      "time": "2026-06-12 18:12:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's foreign ministry asked US diplomats to convey India's strong concerns to US authorities."
-    },
-    {
-      "id": "4932530",
-      "time": "2026-06-12 18:12:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：ENN天然氣取消在香港的H股上市計劃。"
-    },
-    {
-      "id": "4932529",
-      "time": "2026-06-12 18:12:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京東方Ａ：農業銀行北京市分行承諾提供不超 9 億元的專項貸款資金，用於公司股份回購】京東方Ａ公告，近日，公司收到中國農業銀行股份有限公司北京市分行（以下簡稱“農業銀行北京市分行”）出具的《貸款承諾函》，農業銀行北京市分行承諾為公司提供不超過人民幣 9 億元的專項貸款資金用於公司股份回購。"
-    },
-    {
-      "id": "mkt:019ebb51-7e8c-7dd8-afdb-e9e32f76a841",
-      "time": "2026-06-12 18:12:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's foreign ministry said such U.S. actions undermine the safety, stability and tranquility of international maritime trade in sensitive regions, especially during difficult times."
-    },
-    {
-      "id": "4932528",
-      "time": "2026-06-12 18:12:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：印度航空將在母公司要求削減虧損後縮減運營規模。"
-    },
-    {
-      "id": "4932527",
-      "time": "2026-06-12 18:11:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外交部：美國海軍對商船發動的襲擊是“不可接受的”。"
-    },
-    {
-      "id": "te:economy:558714",
-      "time": "2026-06-12 18:11:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "South Africa 10-Year Bond Yield at Over 1-Week Low — South Africa’s 10-year bond yield eased to around 8.45%, the lowest since early June, as renewed hopes for a US-Iran deal tempered inflation concerns, boosting demand for fixed-income assets. Market sentiment improved after President Trump withdrew his threat of further strikes on Iran and said a deal could be signed in Europe as early as this weekend. This led to a sharp pullback in oil prices, easing concerns over inflation and interest rate hikes by major central banks. Locally, the South African Reserve Bank said in its latest Financial Stability Review that another interest-rate hike could be warranted this year, if the conflict prolongs. The central bank raised the benchmark rate by 25 basis points to 7% on May 28, the first hike in three years, to anchor inflation expectations amid ongoing risks to the inflation outlook. Meanwhile, South Africa’s economy expanded by a more than expected 0.5% in Q1, but still signaling fragile growth."
-    },
-    {
-      "id": "4932526",
-      "time": "2026-06-12 18:11:16",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "印尼央行高階副行長：週五印尼盾走強，反映出市場對印尼央行政策組合的積極反應。"
-    },
-    {
-      "id": "mkt:019ebb50-75f4-7dd8-afdb-e7fbefb0d4bb",
-      "time": "2026-06-12 18:11:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank Indonesia senior deputy governor said Friday the rupiah's appreciation reflected markets' positive response to the central bank's policy mix."
-    },
-    {
-      "id": "4932525",
-      "time": "2026-06-12 18:10:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外交部：已向美國代辦大使提出強烈抗議。"
-    },
-    {
-      "id": "4932524",
-      "time": "2026-06-12 18:10:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【倍杰特：補繳稅款及滯納金合計980.97萬元】倍杰特(300774.SZ)公告稱，公司近期根據稅務監管要求開展自查，需補繳稅款744.07萬元及滯納金236.90萬元，合計980.97萬元，佔最近一個會計年度經審計淨利潤的11.66%。截至公告日，上述款項已全部繳納完畢，不涉及行政處罰。"
-    },
-    {
-      "id": "mkt:019ebb50-0c99-7dd8-afdb-d9ebd38a9db2",
-      "time": "2026-06-12 18:10:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's Ministry of External Affairs has lodged a strong protest with the US chargé d'affaires."
-    },
-    {
-      "id": "4932523",
-      "time": "2026-06-12 18:10:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新奧股份：計劃增持控股子公司新能香港的股份】新奧股份公告，擬透過全資子公司Xinneng (Hong Kong) Energy Investment Limited（中文名稱為“新能（香港）能源投資有限公司”，以下簡稱“新能香港”）在符合適用法規的情況下增持控股子公司新奧能源控股有限公司（為香港聯交所上市公司，股票程式碼：02688.HK，以下簡稱“新奧能源”）的股份，增持股份的價格、時點及具體數量，將視市場情況而定。"
-    },
-    {
-      "id": "4932522",
-      "time": "2026-06-12 18:09:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北啟動重大氣象災害（大風）Ⅳ級應急響應】記者從河北省氣象災害防禦指揮部獲悉，河北於6月12日16時啟動重大氣象災害（大風）Ⅳ級應急響應，要求相關部門密切關注此次雷暴大風天氣過程，加強風險研判和安全隱患排查，適時啟動相應級別應急響應，做好大風、冰雹和短時強降水防範應對工作。（新華社）"
-    },
-    {
-      "id": "4932521",
-      "time": "2026-06-12 18:09:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國難民署：剛果民主共和國東部流離失所營地已確認兩例埃博拉相關死亡病例。"
     }
   ]
 }
