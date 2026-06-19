@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-20 04:44:08",
-  "count": 17657,
+  "updated": "2026-06-20 04:48:09",
+  "count": 17659,
   "items": [
+    {
+      "id": "te:markets:560549",
+      "time": "2026-06-20 04:46:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gold is down by 2.12% — Gold decreased 2.12% to 4120.85 USD/t.oz"
+    },
+    {
+      "id": "4945461",
+      "time": "2026-06-20 04:43:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：澤連斯基總統與納羅茨基總統的任務是平復情緒，而非加劇緊張局勢。"
+    },
     {
       "id": "4945460",
       "time": "2026-06-20 04:41:29",
