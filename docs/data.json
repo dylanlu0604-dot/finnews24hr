@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-19 18:13:02",
-  "count": 18198,
+  "updated": "2026-06-19 18:17:00",
+  "count": 18188,
   "items": [
+    {
+      "id": "4945000",
+      "time": "2026-06-19 18:16:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "克羅埃西亞議會批准齊格曼出任央行行長。"
+    },
     {
       "id": "te:economy:560461",
       "time": "2026-06-19 18:12:22",
@@ -167418,103 +167427,6 @@
         "市場"
       ],
       "text": "【福光股份：公司股票連續3個交易日內收盤價格漲幅偏離值累計達到30%】福光股份公告，公司股票交易連續3個交易日內（2026年6月10日、2026年6月11日、2026年6月12日）收盤價格漲幅偏離值累計達到30%，屬於股票交易異常波動。經公司自查，併發函詢證公司控股股東、實際控制人，截至本公告披露日，不存在應披露而未披露的重大資訊。公司目前生產經營正常，生產經營未發生重大變化。"
-    },
-    {
-      "id": "4932539",
-      "time": "2026-06-12 18:16:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中航西飛：公司及所屬子公司與北方特氣(自貢)材料科技有限公司無直接或間接股權關係】中航西飛釋出澄清公告，近日，公司關注到網際網路上一則訊息流傳，訊息稱：“近日，中航西飛旗下北方特氣(自貢)材料科技有限公司正式釋出高階電子特氣產業基地建設規劃，為破解高階特氣‘卡脖子’難題注入強勁動力。該專案總投資30 億元，明確規劃新增六氟化鎢產線。”經核查，公司及所屬子公司與北方特氣(自貢)材料科技有限公司無直接或間接股權關係，也無業務合作關係。北方特氣(自貢)材料科技有限公司與西安飛機工業裝飾裝修工程股份有限公司（以下簡稱“西飛裝飾”）存在股權關係，公司全資子公司西安飛機工業（集團）有限責任公司（以下簡稱“航空工業西飛”）是西飛裝飾的原始發起人、原控股股東，根據《中華人民共和國市場主體登記管理條例》的規定，股份有限公司僅登記發起人資訊，故仍將航空工業西飛登記為西飛裝飾股東之一，上述登記資訊與實際情況不符。截至目前，西飛裝飾的股東情況已發生變化，其控股股東實際為“西安航空發動機集團天鼎有限公司”，與公司及航空工業西飛無任何直接或間接股權關係。目前，公司科研生產按計劃有序開展。"
-    },
-    {
-      "id": "4932537",
-      "time": "2026-06-12 18:15:13",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【中基協釋出《公開募集證券投資基金可持續投資策略應用指引（試行）》】為了規範公開募集證券投資基金可持續投資策略應用，保護投資者合法權益，中國證券投資基金業協會（簡稱協會）起草了《公開募集證券投資基金可持續投資策略應用指引（試行）》（以下簡稱《指引》），經協會理事會審議透過，現予釋出。《指引》自發布之日起實施，各公募基金管理人應用可持續投資策略的基金不符合《指引》第十一條規定的，應當按照中國證監會關於公開募集證券投資基金業績比較基準的相關規定予以調整；不符合《指引》其他規定的，應當自施行之日起一年內予以調整。"
-    },
-    {
-      "id": "mkt:019ebb53-dc92-7dd8-afdc-1986e38ceb93",
-      "time": "2026-06-12 18:14:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia senior deputy governor said he expects the rupiah to continue strengthening toward its fundamentals."
-    },
-    {
-      "id": "4932536",
-      "time": "2026-06-12 18:14:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海凱寶：控股股東、實際控制人等擬增持不低於人民幣 150 萬元公司股份】上海凱寶公告，控股股東、實際控制人及部分董事、高階管理人員擬增持不低於人民幣 150 萬元公司股份。"
-    },
-    {
-      "id": "te:economy:558715",
-      "time": "2026-06-12 18:14:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Serbia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Serbia Inflation Rate Rises to 9-Month High — The annual inflation rate in Serbia rose by 3.5% in May 2026 from 3.3% in the previous month. The latest figure marked the largest growth since August 2025, lifted by higher costs in housing utilities (9.5% vs 9.2% in April), health (7.6% vs 7.5%), transportation (8.4% vs 6.3%), information and communication (1.6% vs 1.3%), and miscellaneous goods and services (2% vs 1.6%). At the same time, costs recovered in furnishings and household equipment (0.2% vs -0.3%), while price growth remained steady in recreation and culture (8.7%), education (1.9%), and clothing and footwear (1.5%). Meanwhile, prices moderated in insurance and financial services (5.5% vs 6.4%), restaurants and hotels (6.4% vs 6.6%), and alcoholic beverages and tobacco (4.9% vs 6.1%), while costs declined further in food and non-alcoholic beverages (-1.5% vs -1.1%). On a monthly basis, consumer prices grew by 0.3% in May, easing from a 0.8% gain in the preceding period."
-    },
-    {
-      "id": "mkt:019ebb53-5933-7dd8-afdc-10ac541d9ee6",
-      "time": "2026-06-12 18:14:22",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank Indonesia senior deputy governor said the central bank will strengthen coordination with the government and other stakeholders to maintain rupiah stability."
-    },
-    {
-      "id": "4932535",
-      "time": "2026-06-12 18:13:53",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "印尼央行：印尼盾將走強，央行加強與政府及各方協調以維護印尼盾穩定。"
-    },
-    {
-      "id": "4932534",
-      "time": "2026-06-12 18:13:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外交部：已向美國外交官轉達，要求確保在該地區開展行動的美軍採取必要措施，避免平民傷亡。"
-    },
-    {
-      "id": "mkt:019ebb52-46b3-7dd8-afdc-0c8810df74bc",
-      "time": "2026-06-12 18:13:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's foreign ministry said it had conveyed to US diplomats that US forces operating in the region must take necessary measures to prevent civilian casualties."
-    },
-    {
-      "id": "4932533",
-      "time": "2026-06-12 18:13:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【英飛凌宣佈準備啟用耗資50億歐元的半導體工廠 7月2日正式投產】英飛凌科技股份表示，公司正準備啟用其迄今為止最大的單筆投資——一座耗資50億歐元（約合392億人民幣）的半導體工廠。據介紹，該工廠的建設得到了歐盟的補貼，旨在提升晶片產量。英飛凌營運長亞歷山大·戈爾斯基（Alexander Gorski）本週在工廠現場表示，這座功率晶片製造廠是該公司位於德累斯頓園區的擴建專案，將於7月2日正式投產。該專案是歐盟《晶片法案》的主要受益者，獲得了約10億歐元的補貼。戈爾斯基表示，德累斯頓工廠的晶片產量將根據需求逐步擴大，每年有望增加高達50億歐元的收入，但他拒絕透露何時能夠達到滿負荷運轉。他補充說，該公司已投資約20億歐元用於建設，剩餘資金將分階段用於為晶圓廠增添更多裝置。"
-    },
-    {
-      "id": "mkt:019ebb52-27f5-7dd8-afdc-02c66cb9e133",
-      "time": "2026-06-12 18:13:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Air India will scale back operations after its owner demanded cuts to reduce losses."
     }
   ]
 }
