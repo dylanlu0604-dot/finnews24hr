@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-19 13:01:37",
+  "updated": "2026-06-19 13:05:37",
   "count": 18769,
   "items": [
+    {
+      "id": "mkt:019ede44-7932-7dd8-b08d-d5cc36449104",
+      "time": "2026-06-19 13:04:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "South Korea's Lee says he will seek active cooperation to strengthen global energy supply chains."
+    },
+    {
+      "id": "mkt:019ede44-7323-7dd8-b08d-ccafc85a2875",
+      "time": "2026-06-19 13:04:48",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "USD/CHF intraday gains widened to 0.50%, trading at 0.8086."
+    },
+    {
+      "id": "4944724",
+      "time": "2026-06-19 13:04:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴透過經濟社會改革方案應對美國極限施壓】古巴全國人民政權代表大會18日召開特別會議，審議並批准經濟和社會改革方案，涵蓋23個領域的176項改革措施。根據古巴全國人民政權代表大會官網訊息，古巴總理馬雷羅在會上表示，改革旨在強化銀行和金融體系，提高生產力，確保更公平的收入分配。這些措施將與稅收、金融和企業體系的行政手續簡化相配套。改革措施還包括企業制度的調整，重點在於推進生產結構現代化及管理方式多樣化。馬雷羅強調，面對美國持續封鎖帶來的巨大挑戰，古巴要團結一致、堅定信念、勇敢無畏，並以創新方式應對挑戰。此次改革與古巴自身發展邏輯相契合，根本目標是改善人民生活，讓全體公民更好地為社會主義建設貢獻力量。(新華社)"
+    },
+    {
+      "id": "4944723",
+      "time": "2026-06-19 13:04:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：計劃就構建更加強韌的全球能源供應鏈開展積極合作。"
+    },
+    {
+      "id": "4944722",
+      "time": "2026-06-19 13:04:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度法院駁回Telegram針對其應用在印度被臨時封鎖的上訴。"
+    },
+    {
+      "id": "mkt:019ede43-caef-7dd8-b08d-c69e4d487685",
+      "time": "2026-06-19 13:04:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli military said it struck Hezbollah targets in southern Lebanon overnight and is continuing strikes."
+    },
+    {
+      "id": "4944721",
+      "time": "2026-06-19 13:03:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，夜間對黎巴嫩南部真主黨目標發動打擊，目前仍在繼續攻擊。"
+    },
+    {
+      "id": "4944720",
+      "time": "2026-06-19 13:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "法院表示，印度政府禁止Telegram的命令是經過合理考量的，政府遵循了相關程式。"
+    },
+    {
+      "id": "4944719",
+      "time": "2026-06-19 13:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本鹽野義宣佈新冠治療藥物Xocova的兒科劑量獲得日本批准。"
+    },
     {
       "id": "4944718",
       "time": "2026-06-19 13:00:47",
@@ -172704,93 +172785,6 @@
         "其他"
       ],
       "text": "【上海技能人才總量已達400萬人，取得證書的高技能人才年均增幅10%】“近年來，上海的技能人才總量已經達到了400萬人，這其中取得職業技能等級證書的高技能人才，年均增幅10%，佔到總量的35%以上。”2026年6月12日上午，在國新辦舉辦的新聞釋出會上，第48屆世界技能大賽組委會副主任、上海市委常委、副市長陳杰提到。（澎湃）"
-    },
-    {
-      "id": "4931839",
-      "time": "2026-06-12 13:05:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "鋰電池板塊持續反彈，電解液方向領漲，孚日股份漲停，華盛鋰電、芳源股份漲超10%，鵬輝能源、德方奈米、深圳新星、豐元股份等漲幅靠前"
-    },
-    {
-      "id": "4931838",
-      "time": "2026-06-12 13:05:06",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【券商股午後持續活躍】財達證券午後漲停，中銀證券此前封板，國金證券、東北證券、湘財股份、長城證券等紛紛走高。"
-    },
-    {
-      "id": "mkt:019eba37-fb0b-7dd8-afd1-f6ec6d989892",
-      "time": "2026-06-12 13:04:51",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【ECB's Nagel says all options open for July meeting, ready to act again if necessary】ECB Governing Council member Nagel said the ECB will hold its next monetary policy meeting in July and is keeping all options open, ready to act again if warranted. He said June's rate hike was necessary because inflation has broadened beyond energy into other goods and services, and that the Middle East conflict has produced a strong, persistent supply shock that cannot be ignored; the council has shown resolve to prevent inflation expectations from becoming unanchored. Sources earlier said a July hike was not the policymakers' base case, but the ECB could tighten further if energy prices rise or inflation surprises to the upside. Nagel is viewed as a potential successor to Lagarde."
-    },
-    {
-      "id": "4931837",
-      "time": "2026-06-12 13:04:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝倫貝格銀行將勞斯萊斯評級從持有上調至買入，目標股價從1270便士上調至1430便士。"
-    },
-    {
-      "id": "mkt:019eba36-d1fb-7dd8-afd1-ef4cd406a0cf",
-      "time": "2026-06-12 13:03:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "CATL A- and H-shares rose; A-shares up more than 4.5 pct, H-shares up more than 3 pct."
-    },
-    {
-      "id": "4931836",
-      "time": "2026-06-12 13:03:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委內格爾：通脹前景惡化。"
-    },
-    {
-      "id": "4931835",
-      "time": "2026-06-12 13:02:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "法蘭克福機場5月旅客吞吐量同比增長2.7%至570萬人次。"
-    },
-    {
-      "id": "4931834",
-      "time": "2026-06-12 13:02:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【財達證券盤中漲停】財達證券盤中漲停，漲幅10.08%，成交額超5億元。"
-    },
-    {
-      "id": "4931831",
-      "time": "2026-06-12 13:01:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委內格爾：即使戰爭很快結束，本週的加息也是必要的。"
     }
   ]
 }
