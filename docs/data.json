@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-20 02:13:32",
-  "count": 17757,
+  "updated": "2026-06-20 02:17:36",
+  "count": 17759,
   "items": [
+    {
+      "id": "4945394",
+      "time": "2026-06-20 02:16:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：Anthropic 配合我方要求，行事負責。"
+    },
+    {
+      "id": "te:markets:560543",
+      "time": "2026-06-20 02:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Gains by 4.56% — Top commodity gainers are Natural Gas UK (4.56%), Natural Gas EU (3.78%), Germany Natural Gas THE (3.71%), Crude Oil WTI (0.95%) and Brent Crude Oil (0.92%). Biggest loser is Natural gas (-1.11%)."
+    },
+    {
+      "id": "4945393",
+      "time": "2026-06-20 02:13:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "被問及是否會關停 Anthropic 時，特朗普回應：我並不打算這麼做。"
+    },
+    {
+      "id": "4945392",
+      "time": "2026-06-20 02:13:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總統表示，他已決定撤銷授予澤連斯基的最高榮譽白鷹勳章。"
+    },
     {
       "id": "mkt:019ee116-258e-7dd8-b09a-3f5ee2963b16",
       "time": "2026-06-20 02:13:05",
@@ -163553,25 +163588,6 @@
         "Important"
       ],
       "text": "TASNIM NEWS: Iran's foreign minister Araghchi will appear on tonight's Special News Dialogue program; exact airtime unknown."
-    },
-    {
-      "id": "4933298",
-      "time": "2026-06-13 02:17:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：伊朗外交部長阿拉格齊將出席今晚的特別新聞對話活動，具體時間暫未明確。"
-    },
-    {
-      "id": "te:markets:558789",
-      "time": "2026-06-13 02:15:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Plunges by 6.97% — Top commodity losers are Natural Gas UK (-6.97%), Natural Gas EU (-6.63%), Germany Natural Gas THE (-5.54%), Brent Crude Oil (-3.34%) and Crude Oil WTI (-3.23%). Gains are led by Methanol (1.40%) and Natural gas (0.91%)."
     }
   ]
 }
