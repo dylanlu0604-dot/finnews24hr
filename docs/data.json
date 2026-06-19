@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-20 01:16:59",
-  "count": 17812,
+  "updated": "2026-06-20 01:21:04",
+  "count": 17802,
   "items": [
+    {
+      "id": "4945379",
+      "time": "2026-06-20 01:20:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦住房金融局局長Bill Pulte： 房利美與房地美當前流動性狀況極為充裕，這一點從抵押貸款支援證券（MBS）市場行情向好、抵押貸款利差走勢穩健中就能體現出來。我預計今年夏秋兩季市場表現將十分亮眼！"
+    },
+    {
+      "id": "mkt:019ee0e4-59c5-7dd8-b099-ae99f50cbc2d",
+      "time": "2026-06-20 01:18:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mediators in Iran-US talks to meet in Egypt on 21st】Iranian media reported Egypt and Pakistan said in a joint statement on the 19th that representatives of countries involved in mediating Iran-US negotiations will meet in Egypt on the 21st."
+    },
+    {
+      "id": "4945378",
+      "time": "2026-06-20 01:18:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特8月原油期貨收報80.57美元/桶。"
+    },
+    {
+      "id": "4945377",
+      "time": "2026-06-20 01:17:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊美談判斡旋相關方將於21日在埃及舉行會晤】據伊朗媒體報道，埃及和巴基斯坦19日發表聯合宣告說，參與伊朗與美國談判程序斡旋工作的有關國家代表將於21日在埃及舉行會晤。（新華社）"
+    },
     {
       "id": "mkt:019ee0de-cf5c-7dd8-b099-a147b59b6be1",
       "time": "2026-06-20 01:12:38",
@@ -163959,132 +163991,6 @@
         "MKT News"
       ],
       "text": "A senior U.S. government official said there is serious mutual distrust between the two sides."
-    },
-    {
-      "id": "mkt:019ebcd9-fcc0-7dd8-afe4-2d67ac71bcb3",
-      "time": "2026-06-13 01:21:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "A senior US government official said some elements in Iran oppose the agreement, but the US assesses that the opposition is limited."
-    },
-    {
-      "id": "4933260",
-      "time": "2026-06-13 01:20:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：雙方之間仍存在很深的猜忌。"
-    },
-    {
-      "id": "4933259",
-      "time": "2026-06-13 01:20:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員： 我們認為反對聲音微乎其微。"
-    },
-    {
-      "id": "mkt:019ebcd9-49c7-7dd8-afe4-25448b9b62e7",
-      "time": "2026-06-13 01:20:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior U.S. government official said the U.S. is confident allies will support the agreement."
-    },
-    {
-      "id": "4933258",
-      "time": "2026-06-13 01:20:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：部分伊朗人士並不看好這份協議。"
-    },
-    {
-      "id": "mkt:019ebcd8-fd55-7dd8-afe4-1872aa5e8355",
-      "time": "2026-06-13 01:19:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Senior US government official confident Israel will support the arrangement."
-    },
-    {
-      "id": "mkt:019ebcd8-aa0f-7dd8-afe4-11b146cf159f",
-      "time": "2026-06-13 01:19:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Senior U.S. government official says regional peace agreement will be broad in scope."
-    },
-    {
-      "id": "4933257",
-      "time": "2026-06-13 01:19:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員： 相信以色列方面會予以配合。"
-    },
-    {
-      "id": "mkt:019ebcd8-3920-7dd8-afe4-0f957af01d3b",
-      "time": "2026-06-13 01:19:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. senior official: Iran has indicated it can accept the agreement’s wording; signing date and venue are not finalized but are close to being set."
-    },
-    {
-      "id": "4933256",
-      "time": "2026-06-13 01:18:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：這份地區和平協議內容覆蓋面廣泛。"
-    },
-    {
-      "id": "4933255",
-      "time": "2026-06-13 01:17:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週五（6月12日），美聯儲隔夜逆回購協議（RRP）使用規模為4.54億美元（交易對手6家），上個交易日報4.60億美元。"
-    },
-    {
-      "id": "mkt:019ebcd6-c2f0-7dd8-afe4-0502e935c127",
-      "time": "2026-06-13 01:17:31",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O) shares rose more than 8%."
-    },
-    {
-      "id": "4933254",
-      "time": "2026-06-13 01:17:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：雙方已就濃縮核材料的銷燬與轉運細則達成一致。"
-    },
-    {
-      "id": "mkt:019ebcd6-9618-7dd8-afe3-fea227b7354b",
-      "time": "2026-06-13 01:17:20",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A senior U.S. government official said parties have agreed on specific arrangements for the destruction and transfer of enriched nuclear material."
     }
   ]
 }
