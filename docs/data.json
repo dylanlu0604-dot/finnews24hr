@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-20 00:26:15",
-  "count": 17860,
+  "updated": "2026-06-20 00:30:24",
+  "count": 17861,
   "items": [
+    {
+      "id": "mkt:019ee0b6-749d-7dd8-b099-725c5a17184e",
+      "time": "2026-06-20 00:28:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's prime minister said the state should have independent authority to decide on war and peace."
+    },
+    {
+      "id": "4945361",
+      "time": "2026-06-20 00:28:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【迦納正考慮將Gold Fields最大金礦交由本國企業掌控】迦納正考慮在Gold Fields Ltd.（金田公司）旗下Tarkwa金礦的租約於2027年4月到期時，將該礦的控制權移交給本國企業，這是迦納旨在加強對本國黃金產業控制力的一項舉措。知情人士透露，如果政府推進該計劃，迦納礦業企業需提交競標書以供評估；同時，當局也在權衡為Gold Fields延長租約的選項。移交Tarkwa金礦的所有權將有助於為迦納的工程師、供應商和企業家創造更多就業機會。在評估競標時，政府將重點關注競標方在環境修復、本地就業以及東道社群基礎設施建設方面的承諾。"
+    },
+    {
+      "id": "mkt:019ee0b5-6f83-7dd8-b099-6fa8e95b4438",
+      "time": "2026-06-20 00:27:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【British media: PM Starmer to use weekend to weigh staying amid cabinet pressure】The Times reports that after Andy Burnham's by-election win, Prime Minister Starmer is weighing whether to remain in office amid rising pressure from his cabinet. He has publicly ruled out resigning and said he would contest a leadership challenge if Burnham mounted one; privately, aides say he recognizes growing calls from Labour MPs for him to step down. He is expected to spend the weekend with his family while deciding whether to continue resisting the pressure."
+    },
     {
       "id": "4945360",
       "time": "2026-06-20 00:22:19",
@@ -164546,22 +164574,6 @@
         "Importance 2"
       ],
       "text": "Week Ahead - Jun 15th — Signals that the US and Iran were converging toward a deal to end their conflict will maintain the global spotlight on the outlook of energy supply from the Middle East. Additionally, the Fed will decide on its policy rate on Chairman Warsh's first meeting. Also in the policy front, the BoE, BoJ, RBA, Riksbank, SNB, Norges Bank, and BCB will also set rates. Germany will post sentiment indicators, while Japan will release its inflation rate and machinery orders- US retail sales, trade terms, and industrial production will shape their economic calendar. Meanwhile, the UK will post its inflation rate, retail sales, and labor market data. China's monthly data-dump week will include industrial production, retail sales, the unemployment rate, housing prices, and fixed asset investment. Lastly, local elections in the UK could shape the futures of incumbent PM Starmer."
-    },
-    {
-      "id": "4933220",
-      "time": "2026-06-13 00:29:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國兩年期國債收益率週五、本週均跌超10個基點】週五（6月12日）歐市尾盤，英國10年期國債收益率跌6.9個基點，報4.836%，本週累計下跌6.7個基點，6月8-11日主要窄幅震盪於4.9%上方，6月12日歐市盤初跳水。兩年期英債收益率跌10.6個基點，報4.235%，本週累跌10.3個基點。30年期英債收益率跌5.3個基點，報5.536%，本週累跌5.1個基點；50年期英債收益率跌4.0個基點，報5.112%，本週累跌3.9個基點。2/10年期英債收益率利差漲3.674個基點，報+59.968個基點，本週累漲3.536個基點。"
-    },
-    {
-      "id": "4933219",
-      "time": "2026-06-13 00:27:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國得克薩斯州發生槍擊事件 至少一人死亡】當地時間12日，美國得克薩斯州米德蘭市市長洛裡·布隆稱，該市當日上午發生槍擊事件，造成至少一人死亡，另有多人受傷。她表示，嫌疑人已被“控制”，但未透露具體細節。"
     }
   ]
 }
