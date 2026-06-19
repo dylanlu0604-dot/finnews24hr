@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-20 06:28:25",
-  "count": 17646,
+  "updated": "2026-06-20 06:32:18",
+  "count": 17648,
   "items": [
+    {
+      "id": "4945495",
+      "time": "2026-06-20 06:30:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（6月19日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7838元，較週四紐約尾盤跌54點，日內整體交投於6.7759-6.7980元區間。本週，離岸人民幣累計下挫大約200點，跌幅0.3%。"
+    },
+    {
+      "id": "te:markets:560553",
+      "time": "2026-06-20 06:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Gains by 4.56% — Top commodity gainers are Natural Gas UK (4.56%), Natural Gas EU (3.78%), Germany Natural Gas THE (3.71%), Crude Oil WTI (0.95%) and Brent Crude Oil (0.92%). Biggest loser is Natural gas (-1.12%)."
+    },
+    {
+      "id": "4945494",
+      "time": "2026-06-20 06:29:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【德勤：A股上半年IPO預計將達70只，融資近700億元】德勤中國資本市場服務部發布的最新報告顯示，2026年第二季度中國內地新股市場的發行速度加快。報告認為，隨著科創板改革、創業板第四套上市標準出臺，及科創板的估值進一步上揚，預料會有更多來自硬科技企業和一些標誌性新股上市。資料顯示，截至2026年上半年末，預計將有約70只新股在A股市場上市，融資693億元，相對2025年上半年的51只新股融資373億元，新股數量上升37%，而融資金額增加約85%。上交所將成為新股融資額最高的交易所，將從19只IPO融資305億元；深交所將透過16只新股融資275億元；預料北京證券交易所將維持新股數量最多的紀錄（35家），融資額則為113億元。（介面）"
+    },
     {
       "id": "4945491",
       "time": "2026-06-20 06:18:46",
@@ -162484,17 +162511,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Platinum Gains by 3.30% — Top commodity gainers are Platinum (3.30%), Copper (2.68%), Lithium Carbonate (2.40%) and Gold (0.22%)."
-    },
-    {
-      "id": "te:markets:558799",
-      "time": "2026-06-13 06:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Slumps by 6.97% — Top commodity losers are Natural Gas UK (-6.97%), Natural Gas EU (-6.52%), Germany Natural Gas THE (-5.54%), Brent Crude Oil (-4.06%) and Crude Oil WTI (-3.90%). Gains are led by Natural gas (1.75%) and Ethanol (0.67%)."
     }
   ]
 }
