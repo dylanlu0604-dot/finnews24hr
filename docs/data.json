@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-19 12:45:45",
-  "count": 18770,
+  "updated": "2026-06-19 12:49:43",
+  "count": 18771,
   "items": [
+    {
+      "id": "4944701",
+      "time": "2026-06-19 12:48:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【載有8000萬桶原油的超級油輪已準備就緒，即將透過霍爾木茲海峽】目前，近8000萬桶原油的超級油輪停泊在波斯灣，只要貿易商和船東批准，隨時可立即駛過霍爾木茲海峽。 根據媒體彙總的Vortexa資料，這些來自波斯灣（不包括伊朗）的非制裁原油正裝運於海灣內40艘大型油輪上。如果加上小型油輪，海灣內的原油運輸量可能更高。去年，該地區每天向亞洲輸送的原油約為1500萬桶。在美伊兩國簽署一項旨在恢復海峽航運的臨時協議後，石油和航執行業正密切關注海峽活動跡象。由於原油油輪載有寶貴貨物，它們很可能是首批嘗試透過該水道的船舶。目前約有21艘超大型油輪表明其航向亞洲；另有5艘正駛往馬來西亞和新加坡附近的轉運樞紐。截至週五上午，至少有3艘油輪以穩定速度向東駛向海峽。"
+    },
+    {
+      "id": "mkt:019ede34-775a-7dd8-b08d-b67be98048e1",
+      "time": "2026-06-19 12:47:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 losses widened to 0.53%; Topix fell 1%."
+    },
+    {
+      "id": "4944700",
+      "time": "2026-06-19 12:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前5月川渝共建重點專案加快推進】從四川省發展改革委獲悉，前5月，350個共建成渝地區雙城經濟圈重點專案完成投資2276.3億元，投資完成率達45.6%，超時序進度3.9個百分點。 科技創新、現代產業專案完成投資1047.1億元。現代基礎設施、對外開放專案完成投資1140.8億元。生態環保、公共服務專案完成投資88.4億元。"
+    },
     {
       "id": "mkt:019ede30-ffcf-7dd8-b08d-a9bdb38f76d3",
       "time": "2026-06-19 12:43:33",
@@ -172786,22 +172814,6 @@
         "AI Revolution"
       ],
       "text": "【ZhiYuan Research Institute unveils world’s first general-purpose world foundation model Wujie Physis-v0.1】On June 12 at the 2026 ZhiYuan Conference, ZhiYuan Research Institute director Wang Zhongyuan unveiled Wujie Physis-v0.1, which the institute describes as the world’s first general-purpose world foundation model. The model is said to feature four core properties—physical correctness, traceable action causality, long-range consistency and broad generalization—and is applicable to robotics, video generation, gaming and industrial-physics use cases, serving as a base model for embodied intelligence and heavy industrial applications."
-    },
-    {
-      "id": "4931816",
-      "time": "2026-06-12 12:49:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智源研究院釋出全球首個通用世界基座模型“悟界·Physis-v0.1”】6月12日，在2026智源大會現場，智源研究院院長王仲遠釋出全球首個通用世界基座模型——悟界·Physis-v0.1，據介紹，悟界·Physis-v0.1具備四大核心特性：物理正確、動作因果可溯、長程一致與通用泛化。模型可適配機器人、影片生成、遊戲、工業等全垂類真實物理應用場景，為具身智慧、嚴肅工業等領域提供底層支撐。"
-    },
-    {
-      "id": "4931815",
-      "time": "2026-06-12 12:47:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港超級豪宅以7200萬美元易手 創下今年最大二手房交易】香港一處歷史悠久的洋房以5.63億港元(7,200萬美元)的價格售出，成為今年香港最大的房地產交易之一。土地註冊處登記檔案顯示，石澳道14號的豪宅已售予Jennifer Tzelee Teo。根據房地產資料庫EPRC Ltd.，這是今年最大的一筆二手房交易。"
     }
   ]
 }
