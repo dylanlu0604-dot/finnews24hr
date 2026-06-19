@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 02:05:24",
-  "count": 17761,
+  "updated": "2026-06-20 02:09:29",
+  "count": 17756,
   "items": [
+    {
+      "id": "4945388",
+      "time": "2026-06-20 02:08:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：美國總統特朗普稱巴西總統盧拉是一個 “情緒反覆無常” 的人。 古巴方面迫切希望展開對話。"
+    },
     {
       "id": "4945387",
       "time": "2026-06-20 02:02:10",
@@ -163555,62 +163563,6 @@
         "Important"
       ],
       "text": "Refinitiv sources say the UAE has agreed to unfreeze tens of billions of dollars in funds for Iran."
-    },
-    {
-      "id": "4933294",
-      "time": "2026-06-13 02:08:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "多位訊息人士透露，阿聯酋將向伊朗解凍數十億美元資金。"
-    },
-    {
-      "id": "mkt:019ebd05-9cee-7dd8-afe5-2ef36c94fd40",
-      "time": "2026-06-13 02:08:42",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iran reviewing draft memorandum of understanding, foreign ministry says】On the 12th (local time), Iranian foreign ministry spokesman BAGHAEI said Iran and the U.S. have reached understandings on most issues and Iran is in the final-stage consolidation of a draft memorandum of understanding. He said Foreign Minister Araghchi’s earlier comment that the sides are very close to an understanding is accurate. Decision-making bodies are meeting and must reach internal consensus for a final, definitive outcome. BAGHAEI added that speculation about the agreement text is unconfirmed and detailed diplomatic discussions are not currently public."
-    },
-    {
-      "id": "4933293",
-      "time": "2026-06-13 02:08:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊方正在審議諒解備忘錄草案】當地時間12日，伊朗外交部發言人巴加埃表示，目前伊美雙方已經在大多數問題上達成諒解，伊朗內部正在對諒解備忘錄文字進行最後階段的彙總。因此，伊朗外長阿拉格齊此前關於“雙方已非常接近達成諒解”的表態是準確且值得關注的。相關決策機構的會議正在舉行，這是一個持續推進的過程。為達成一個最終且具有決定性的結果，決策機構和相關部門之間必須形成共識。巴加埃還表示，目前有關協議文字內容的各種猜測均未獲得證實。雖然外交程序中的具體細節暫不便公開討論，但這並不意味著公眾沒有知情權。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ebd04-7829-7dd8-afe5-24e5c1758c7a",
-      "time": "2026-06-13 02:07:27",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Colombian peso closed up 1.10% against the dollar at 3,455 per USD, its strongest level since January 2021."
-    },
-    {
-      "id": "mkt:019ebd02-fe28-7dd8-afe5-1ee3b76bcd37",
-      "time": "2026-06-13 02:05:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Katz signals possible renewed use of force to prevent Iran acquiring nuclear weapons】Israel Defense Minister Katz said Israel must retain the independent capability to prevent Iran from obtaining nuclear weapons and has, along with Prime Minister Netanyahu, ordered the IDF to prepare accordingly. Katz said US President Trump is pursuing a deal with Iran from US interests that should include the shared US-Israel objective of blocking Iranian nuclear capability and urged firmness on Iran’s missile program and proxy networks. The statement added Israel will not withdraw from its security zones in Lebanon, Syria or Gaza and said Israel’s security posture aims to counter threats “near and far,” not compromise."
-    },
-    {
-      "id": "4933292",
-      "time": "2026-06-13 02:05:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以防長暗示未來以色列或再動武阻止伊朗擁核】以色列國防部長卡茨12日發表宣告說，以色列必須確保未來“有能力展開獨立行動，以阻止伊朗獲得核武器”，為此他與以總理內塔尼亞胡已指示以軍做好相應準備。《以色列時報》認為，卡茨上述言論暗示，未來以色列或再次動用武力阻止伊朗擁核。卡茨在宣告中說，美國總統特朗普正從美國利益出發，推動與伊朗達成協議，這其中也包括美以共同利益——即阻止伊朗獲得核武器。卡茨說，“我們期望他（特朗普）堅持這一原則，並在伊朗導彈計劃和‘恐怖主義代理人’問題上也堅持原則”。宣告還稱，以色列不會從其在黎巴嫩、敘利亞和加沙地帶佔領的所謂“安全區”撤軍。宣告稱，以色列的安全原則是同時應對“來自近處和遠處的威脅”，“而不是妥協和讓步”。（新華社）"
     }
   ]
 }
