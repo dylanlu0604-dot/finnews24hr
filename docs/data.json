@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-19 16:47:19",
-  "count": 18372,
+  "updated": "2026-06-19 16:51:22",
+  "count": 18364,
   "items": [
+    {
+      "id": "4944920",
+      "time": "2026-06-19 16:50:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "JIO平臺將在印度IPO中出售2.7億股新股。"
+    },
+    {
+      "id": "mkt:019edf13-0b7e-7dd8-b091-6136c98ceb02",
+      "time": "2026-06-19 16:50:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France's CAC 40 climbed above 8,500 points, up 0.38% intraday."
+    },
+    {
+      "id": "4944919",
+      "time": "2026-06-19 16:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【裝載8000萬桶原油的超級油輪蓄勢待發 準備穿越霍爾木茲海峽】載有近8000萬桶石油的超級油輪正停泊在波斯灣，一旦交易商和船東發出指令，它們就能立即啟程穿越霍爾木茲海峽。 根據Vortexa資料彙編的統計顯示，這些石油來自波斯灣產油國（不包括伊朗）的非制裁原油，目前裝載在40艘超大型原油運輸船（VLCC）上。若將較小型油輪計算在內，波斯灣內儲存的原油總量可能還要更高。去年，該地區每天約有1500萬桶原油運往亞洲市場。 在美國與伊朗簽署一項旨在恢復該水道通航的臨時協議後，石油和航運業正密切關注霍爾木茲海峽是否會出現更多船舶通行活動的跡象。原油油輪可能成為首批嘗試透過該海峽的船舶型別之一。"
+    },
+    {
+      "id": "mkt:019edf11-891d-7dd8-b091-5c7dd45e01d5",
+      "time": "2026-06-19 16:48:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jio, the telecom unit of India's Reliance Industries, has filed for an initial public offering."
+    },
+    {
+      "id": "4944918",
+      "time": "2026-06-19 16:48:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【端午假期首日2.35億人次跨區域流動，同比增長1.9%】從交通運輸部獲悉，2026年6月19日，全社會跨區域人員流動量23543.0萬人次，環比增長9.0%，同比增長1.9%。其中：鐵路客運量1975萬人次，環比增長18.0%，同比增長9.0%。公路人員流動量（包括高速公路及普通國省道非營業性小客車人員出行量、公路營業性客運量）21283萬人次，環比增長8.3%，同比增長1.4%。其中，公路營業性客運量3899萬人次，環比增長9.4%，同比增長3.6%；高速公路及普通國省道非營業性小客車人員出行量17384萬人次，環比增長8.1%，同比增長0.9%。水路客運量98.0萬人次，環比增長58.9%，同比增長2.2%。民航客運量187.0萬人次，環比下降14.1%，同比下降2.4%。"
+    },
+    {
+      "id": "4944917",
+      "time": "2026-06-19 16:46:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "信實集團董事長：我們的目標是打造一個盈利的人工智慧基礎設施平臺和服務業務。"
+    },
+    {
+      "id": "te:economy:560447",
+      "time": "2026-06-19 16:46:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Slovenia Consumer Morale at Near 5-Year High — The consumer confidence indicator in Slovenia increased by 7 percentage points month-over-month to -20 in June 2026 from -28 in the previous month. It marked the highest reading since August 2021, as households became less pessimistic about the general economic outlook over the next twelve months (-20 vs -35 in May) and their personal financial outlook over the same period (-10 vs -19). Assessments also improved regarding households' financial situation over the past year (-17 vs -20) and the general economic situation over the same period (-39 vs -43). Moreover, expectations for major purchases over the next twelve months became less negative (-32 vs -35), as did assessments of current conditions for major purchases (-25 vs -31). Finally, households were less pessimistic about their savings prospects over the next twelve months (-17 vs -21)."
+    },
     {
       "id": "4944916",
       "time": "2026-06-19 16:45:54",
@@ -168961,143 +169023,6 @@
         "其他"
       ],
       "text": "世界衛生組織專家：埃博拉疫情中用於隔離患者的床位容量“不足”。"
-    },
-    {
-      "id": "te:economy:558695",
-      "time": "2026-06-12 16:51:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hong Kong",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Manufacturing Growth Slows in Q1 — Manufacturing production in Hong Kong increased 3.1% year-on-year in the first quarter of 2026, slowing from a revised 5.8% expansion in the previous three-month period. This marked the weakest growth since the second quarter of 2025, as output growth eased in food, beverages and tobacco (2.1% vs 3.1% in Q4), metal, computer, electronic and optical products, machinery and equipment (6.6% vs 6.9%), and miscellaneous manufacturing industries (5% vs 9.7%). Meanwhile, declines in paper products, printing and reproduction of recorded media deepened (-2.6% vs -0.2%), while output in textiles and wearing apparel remained unchanged at -4.7%. On a seasonally adjusted quarterly basis, manufacturing production fell 2.6%, reversing from a 1.3% rise in the fourth quarter of 2025."
-    },
-    {
-      "id": "mkt:019ebb07-512b-7dd8-afd9-bc7a53d28448",
-      "time": "2026-06-12 16:51:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "A German government official said aircraft development for the future air combat system replacement project will follow a European, not Germany-only, approach."
-    },
-    {
-      "id": "4932310",
-      "time": "2026-06-12 16:50:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國政府官員就未來作戰航空系統(FCAS)替代方案表示：不會尋求單純的德國解決方案，而是在戰機研發上採取歐洲整體方案。"
-    },
-    {
-      "id": "4932309",
-      "time": "2026-06-12 16:50:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【佛燃能源：新增2026年度日常關聯交易預計額度4.48億元】佛燃能源公告稱，公司於2026年6月12日召開董事會，同意新增與四川港華合縱等11家關聯方的日常關聯交易預計額度合計不超4.48億元，期限自股東會審議透過至2026年12月31日。關聯交易包括採購原材料、銷售產品、提供及接受勞務等，定價參考市場價格。該交易屬正常商業行為，對公司業務獨立性、財務及經營成果無重大影響，不會使公司業務依賴關聯方。新增事項需提交股東會審議。"
-    },
-    {
-      "id": "4932308",
-      "time": "2026-06-12 16:50:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織專家：剛果（金）埃博拉疫情在某些地區仍存在許多“盲點”。埃博拉疫情監測確實需要加強。接觸追蹤工作已有顯著改善。"
-    },
-    {
-      "id": "4932306",
-      "time": "2026-06-12 16:49:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中材國際：全資子公司終止4.8億美元重大合同】中材國際公告，公司全資子公司中材建設與中非水泥有限公司簽訂的《總承包合同》因專案長期停滯、先決條件未滿足，決定終止該合同。合同金額為4.8億美元，終止不會對公司當期及未來經營業績造成重大不利影響。"
-    },
-    {
-      "id": "4932305",
-      "time": "2026-06-12 16:49:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五糧液：未來將考慮持續加大分紅力度】五糧液6月12日在互動平臺回應投資者提問表示，未來公司在生產經營穩步發展的基礎上，會考慮持續加大分紅力度，回饋廣大投資者。"
-    },
-    {
-      "id": "4932304",
-      "time": "2026-06-12 16:48:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年暑期檔票房破5億】據網路平臺資料，截至6月12日，2026年暑期檔總票房（含預售）突破5億元。"
-    },
-    {
-      "id": "mkt:019ebb05-1397-7dd8-afd9-b3f92a6623a7",
-      "time": "2026-06-12 16:48:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【China's 2026 summer box office tops 500 mln yuan】Online platform data show total box office for China's 2026 summer film season, including presales, exceeded 500 mln yuan as of June 12."
-    },
-    {
-      "id": "4932303",
-      "time": "2026-06-12 16:48:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗公佈“14點諒解備忘錄草案”的細節】伊朗媒體邁赫爾援引一名接近伊朗談判團隊的訊息人士的話，釋出了美伊之間14點草案諒解備忘錄的新細節： 1. 立即且永久停止所有戰線上的戰鬥，包括黎巴嫩。 2. 美國承諾不干涉伊朗內政。 3. 在30天內解除海上封鎖。 4. 美國承諾從伊朗周邊地區撤軍。 5. 在伊朗安排下，於30天內重新開放霍爾木茲海峽。 6. 暫停對伊朗石油、石油化工產品及相關收入的制裁，並使伊朗金融資源完全可及。 7. 美國及其盟友將提出價值至少3000億美元的伊朗重建計劃。 8. 就最終協議進行60天的談判，涵蓋核問題、全面解除制裁、伊朗經濟重建以及濃縮材料和濃縮活動的命運。 9. 伊朗承諾不生產核武器。 10. 在談判期間，美國不得增加該地區兵力或實施新制裁。 11. 在60天談判期間釋放240億美元凍結的伊朗資金，其中一半在談判開始前可用。 12. 建立監督機制以執行該協議。 13. 最終協議將由聯合國安理會決議批准。 14. 最終談判將在釋放伊朗凍結資金的一半、暫停伊朗石油制裁以及解除海軍封鎖之前不會開始。 最終協議將僅針對濃縮材料和濃縮活動的命運、解除制裁以及伊朗經濟重建計劃。 據邁赫爾報道，該草案將伊朗導彈計劃和對“抵抗組織”的支援排除在議程之外。"
-    },
-    {
-      "id": "mkt:019ebb04-eacc-7dd8-afd9-acf2618f44b5",
-      "time": "2026-06-12 16:48:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WHO experts said contact tracing has significantly improved."
-    },
-    {
-      "id": "4932302",
-      "time": "2026-06-12 16:48:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百度一鏡上線范志毅實時數字人，7×24小時陪看世界盃】世界盃開幕當天，百度一鏡聯合可口可樂上線體育賽事實時互動數字人陪看官—— 范志毅實時互動數字人，這是繼羅永浩數字人後，百度數字人IP商業化領域的又一重要落地。該款數字人依託百度一鏡實時互動技術，響應時延控制在2秒以內，可高度還原范志毅的聲線、口音、神態與動作，保留其專業足球解讀能力與個人風格。使用者可透過語音、文字兩種形式自由互動，產品支援情緒識別、即興對話等真人化體驗，同時搭配實時換背景、品牌互動演示等趣味玩法，實現24小時線上陪看觀賽。目前，該數字人已上線可口可樂中國小程式，面向公眾開放體驗。此外，本次合作同步落地AIGC影片創作能力。據瞭解，百度一鏡平臺已具備“導演級”TVC生成能力，可大幅降低高品質內容製作成本。（新浪科技）"
-    },
-    {
-      "id": "te:markets:558691",
-      "time": "2026-06-12 16:47:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Sterling Set for Best Weekly Gain in a Month — The British pound traded flat just above $1.34, on track for its strongest weekly performance in nearly a month, as a weaker US dollar, spurred by optimism over a potential Middle East peace deal, provided support. US President Donald Trump hinted that a US-Iran agreement could be signed as early as this weekend, though Tehran stated no final decision had been reached. However, domestic economic concerns weighed on sentiment. Data showed the UK economy contracted by 0.1% in April, its first monthly decline since August, raising doubts about whether the Bank of England will proceed with rate hikes this year to tackle inflation. Investors are also focused on the June 18 Makerfield by-election, where Labour’s Andy Burnham, a potential challenger to Prime Minister Keir Starmer, could signal a shift toward more expansionary fiscal policies. Starmer currently faces internal party dissent and record voter dissatisfaction over his economic leadership."
-    },
-    {
-      "id": "4932301",
-      "time": "2026-06-12 16:47:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "繼主權評級上調後，惠譽將ESKOM評級上調至“B+”。"
-    },
-    {
-      "id": "mkt:019ebb04-11d2-7dd8-afd9-a095d64fdf90",
-      "time": "2026-06-12 16:47:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran publishes details of 14-point draft memorandum of understanding】Argus Media energy reporter Nader Itayim, citing Mehr news agency and a source close to Iran’s negotiating team, published details of a US‑Iran 14‑point draft memorandum of understanding. Market-relevant points: permanent, immediate cessation of hostilities on all fronts including Lebanon; US pledge of non‑interference and respect for Iranian sovereignty; full lifting of maritime blockade within 30 days; US withdrawal of forces from around Iran; reopening of the Strait of Hormuz within 30 days under Iranian arrangements; suspension of sanctions on Iranian oil, petrochemicals and derivatives and restoration of Iran’s access to its financial resources; US and allies to propose an Iran reconstruction plan worth at least $300bn; a 60‑day negotiation period to seek a final nuclear agreement and full removal of primary and secondary US sanctions and relevant UNSC and IAEA board measures; and unfreezing $24bn of Iranian funds during the 60‑day talks, with half to be released before negotiations begin."
     }
   ]
 }
