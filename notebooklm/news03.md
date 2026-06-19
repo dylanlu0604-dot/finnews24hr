@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-20 05:15:59_
-_本檔包含 3226 則快訊，約 655000 字_
+_更新時間：2026-06-20 06:04:38_
+_本檔包含 3225 則快訊，約 655390 字_
+
+---
+
+### 2026-06-17 17:47:52  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+RIA reported Ukrainian armed forces attacked a bus carrying Belarusian children in Russia's Bryansk region.
+
+---
+
+### 2026-06-17 17:47:47  #MKT News
+
+HKEX filings show Beijing Rongxin Shulian Technology Co., Ltd. has submitted a listing application.
+
+---
+
+### 2026-06-17 17:47:43  #宏觀
+
+【2026年中央國庫現金管理商業銀行定期存款（九期）招投標 操作量1800億元】為提高中央國庫現金使用效益，加強財政政策與貨幣政策的協調配合，財政部、中國人民銀行定於2026年6月23日上午9:00至9:30，透過中國人民銀行中央國庫現金管理商業銀行定期存款業務系統進行2026年中央國庫現金管理商業銀行定期存款（九期）招投標。本期操作量1800億元，期限3個月，起息日為2026年6月23日，到期日為2026年9月22日（遇節假日順延），以利率招標、單一價位中標方式面向中央國庫現金管理商業銀行定期存款業務參與銀行進行招投標。招投標有關事宜按照《中央國庫現金管理商業銀行定期存款業務操作規程》《中央國庫現金管理商業銀行定期存款招投標規則》及相關規定執行。
+
+---
+
+### 2026-06-17 17:47:01  #公司
+
+【奧瑞德：登出回購專用證券賬戶中的13萬股股份】奧瑞德公告，公司將登出回購專用證券賬戶中的13萬股股份。登出完成後公司總股本將由27.51億股變更為27.51億股。回購股份登出日期為2026年6月18日。公司分別於2024年6月3日、2024年6月21日召開董事會和股東大會，審議透過了回購股份議案。回購金額不低於人民幣5000萬元且不超過人民幣1億元。2024年9月20日，公司完成回購，支付總金額為人民幣5002.55萬元。2025年9月27日，公司披露了減持已回購股份計劃。2026年4月30日，公司披露了減持結果，剩餘股份數量為13萬股。
+
+---
+
+### 2026-06-17 17:46:51  #公司
+
+【苑東生物：子公司西藏潤禾收到《稅務行政處罰事項告知書》】苑東生物公告，下屬全資子公司西藏潤禾藥業有限公司（以下簡稱“西藏潤禾”）收到國家稅務總局西藏自治區稅務局稽查局（以下簡稱“稅務機關”）下發的《稅務行政處罰事項告知書》（藏稅稽罰告〔2026〕12 號）。稅務機關擬認定西藏潤禾在 2017 年度至 2021 年度取得上游服務商虛開及作廢發票，應補繳企業所得稅 8,579,102.18 元，擬對西藏潤禾處以罰款4,289,551.09 元，並對上述少繳稅款，從滯納之日起按日加收萬分之五的滯納金。稅務機關認定檢查過程中未發現資金迴流情況，虛開發票繫上遊服務商行為，無證據表明西藏潤禾主動參與虛開。基於會計謹慎性原則，西藏潤禾已就上述應補繳稅款、滯納金及罰款在2025年度財務報表中預提，預計不影響公司 2026 年度歸屬於上市公司股東的淨利潤，具體會計處理結果及影響金額以年審會計師審計後的資料為準。
+
+---
+
+### 2026-06-17 17:46:39  #公司 #市場
+
+【南華期貨回應H股價格調整：為除權除息的技術性變動】6月17日，南華期貨就“H股盤面基準價格較前一交易日出現明顯下調，A+H股比價階段性走闊”回應稱，本次H股價格變動為2025年度權益分派的正常除權除息調整，公司經營基本面平穩，A股和H股兩地權益分派實施節奏差異源於境內外市場規則不同。
+
+---
+
+### 2026-06-17 17:46:13  #公司
+
+【派林生物：控股股東終止向中國生物轉讓21.03%股份】派林生物公告稱，公司於2026年6月17日收到控股股東勝幫英豪出具的《關於終止控股權轉讓交易的函》。因市場波動及行業環境變化，勝幫英豪與中國生物難以在約定時間內完成交割手續，且不具備繼續推進的客觀條件，雙方協商同意終止派林生物控股權轉讓交易。本次交易原擬轉讓199,878,656股，佔公司總股本的21.03%。交易終止後，控股股東和實控人不變，對公司獨立性、治理結構和生產經營無重大不利影響。
+
+---
+
+### 2026-06-17 17:45:55  #央行 #國際
+
+【分析師：美聯儲將按兵不動，沃什改革與降息時點成焦點】市場普遍認為，美聯儲將維持利率不變。但不確定性在於經濟走勢，以及新任主席沃什將如何執掌美聯儲。美聯儲目前面臨的現實是，就業市場韌性十足，消費者支出強勁，而通脹仍高於目標水平。不過偏高的物價讀數可能在今年晚些時候回落。此外，美聯儲觀察人士預計，沃什將試圖重塑美聯儲在溝通和政策決策方面的某些做法。雖然第一次會議能改多少還不清楚，但外界普遍預期他會朝著以下幾個方向走：減少美聯儲對利率預期的前瞻性指引；可能廢除所謂的“點陣圖”，有觀點認為沃什甚至可能在本次會議上就不提交自己的預測；減少新聞釋出會的頻率。牛津經濟研究院首席美國經濟學家Nancy Houten預計美聯儲6月不會加息，但措辭會有所調整，即去掉偏向寬鬆的訊號。上一次會議上，有些成員希望採用更開放式的表述，而不是暗示下一步一定是降息。雖然市場已經定價了今年晚些時候加息的可能性，但基準預測是12月降息。不過該經濟學家承認存在降息晚於12月的風險。
+
+---
+
+### 2026-06-17 17:45:41  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+【Analyst: Fed likely to hold; Wash's reforms and timing of cuts in focus】Markets broadly expect the Fed to keep rates unchanged, but uncertainty centers on the economic path and how new chair Wash will run the central bank. The labor market remains resilient, consumer spending is strong, and inflation remains above target, though high price readings may ease later this year. Fed watchers say Wash is likely to reshape communication and decisionmaking—reducing forward guidance on rate expectations, possibly abolishing the dot plot (he may not submit his own forecasts), and cutting press‑conference frequency. Oxford Economics’ chief US economist Nancy Houten expects no June hike but says Fed wording will be tightened to remove dovish signals; some participants at the last meeting preferred more open language rather than implying an imminent cut. Markets have priced a chance of a hike later this year, while the baseline remains a December cut; Houten notes risk that easing could slip beyond December.
 
 ---
 
@@ -19428,65 +19482,5 @@ U.S. SEC filing shows SpaceX (SPCX.O) will acquire Anysphere via a merger.
 ### 2026-06-16 18:30:17  #Trading Economics #Markets #India #Stock Market #Importance 1
 
 The SENSEX Index Closes 0.74% Higher — The SENSEX Index went up by 562 points or 0.74 percent on Tuesday to close at 76827 points. The rise was led by HCL Tech (3.64%), NTPC (2.24%) and Bajaj Finserv (2.12%). On the downside, the weakerst performers were Maruti Suzuki (-0.85%), Tata Motors (-0.63%) and UltraTech Cement (-0.62%).
-
----
-
-### 2026-06-16 18:29:55  #國際
-
-卡達外交部發言人：我們對該諒解備忘錄將推動區域安全進入下一階段持謹慎樂觀態度。
-
----
-
-### 2026-06-16 18:29:55  #MKT News
-
-Qatar's foreign ministry spokesman said Doha is cautiously optimistic that a memorandum of understanding will advance the next phase of regional security.
-
----
-
-### 2026-06-16 18:29:38  #公司
-
-【東方材料：自2月2日起變更為無控股股東、無實際控制人】東方材料公告稱，截至2024年12月31日，許廣彬為公司控股股東、實際控制人，持有12.63%股份，提名董事超董事會半數。2025年8月其持股降至1.34%，此後董事會人員陸續變更。至2026年2月2日，公司無透過實際支配股份表決權決定超半數董事選任的股東，無單一股東控制董事會，變更為無控股股東、無實際控制人。截至2026年5月31日，特麗亮及其一致行動人持股10%為第一大股東，朱君斐及其一致行動人持股9.10%為第二大股東。
-
----
-
-### 2026-06-16 18:29:28  #Trading Economics #Markets #Commodity #Importance 1
-
-Uranium Holds at Narrow Range — Uranium futures in the US were around $85 per pound in June, maintaining their narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Earlier, yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, which has been shunned since the Chernobyl catastrophe. Meanwhile, Meta and Microsoft both signed agreements to gain fresh nuclear capacity for their future AI data center operations, boosting the outlook following the US government's pivot to speed approvals for power plants.
-
----
-
-### 2026-06-16 18:29:02  #其他
-
-【愛立信移動市場報告：2026年第一季度5G使用者突破30億】6月16日，愛立信釋出移動市場報告。報告顯示，2026年第一季度，全球新增5G使用者1.62億，使總數突破30億大關，達到31億。這一數字預計將快速增長，到2031年底有望翻一倍以上（達到64億）。
-
----
-
-### 2026-06-16 18:28:59  #公司 #市場
-
-【機構：SpaceX投資者並不尋求賺快錢】Interactive Investor的Richard Hunter寫道，SpaceX的投資者希望長期持有該公司的股票。這家由埃隆·馬斯克執掌的公司在上週首次公開募股(IPO)後，吸引了散戶的廣泛參與。然而，Hunter寫道，該股的強勁表現表明，投資者並不希望從其股票中賺取短期利潤。“早期跡象清楚地表明，這是一隻投資者正在將其加入增長型投資組合的股票。“該股盤前上漲近10%，至211.64美元，這比該股135美元的IPO發行價高出56%，並延續了上一交易日近20%的漲勢。
-
----
-
-### 2026-06-16 18:28:37  #國際
-
-【特朗普：不喜歡以色列襲擊貝魯特】美國總統特朗普16日說，他已告訴以色列方面，不喜歡其對黎巴嫩首都貝魯特的襲擊，以色列總理內塔尼亞胡在黎巴嫩問題上必須更加負責任。當被問及是否對內塔尼亞胡感到失望時，特朗普回答說，“不，我們關係很好”。（新華社）
-
----
-
-### 2026-06-16 18:28:18  #其他
-
-【恒大清盤人不滿普華永道與香港證監會達成10億港元和解，稱此舉對恒大債權人不公並要求撤回和解協議】恒大清盤人因不滿羅兵鹹永道會計師事務所（即普華永道香港）與香港證監會達成的10億港元和解，已於上週五（6月12日）入稟高等法院，要求香港高等法院方面撤銷該和解協議，並要求申請對香港證監會的禁制令，禁止香港證監會對和解一事採取後續行動，亦不得允許任何第三方落實該和解協議，直到清盤人對普華永道香港的索償做出最終裁定為止。（每經網）
-
----
-
-### 2026-06-16 18:27:46  #其他
-
-【天津開展2026年防汛救援聯合演練】6月16日，天津市公安局治安管理總隊聯動消防救援等多部門在天津海河耳閘水域聯合開展2026年防汛救援聯合演練暨內河突發事件應急處置聯合演練。演練立足天津汛期氣候特點與水域安全風險，模擬暴雨極端惡劣天氣來襲，針對橋樑涵洞積水、城市低窪內澇等常見防汛險情，設定海河遊船失火、人員落水被困等多個實戰科目，最大限度還原真實搶險救援場景，檢驗各單位快速響應、聯合作戰、應急處置和綜合保障能力，為保障汛期安全積累實戰經驗。（新華社）
-
----
-
-### 2026-06-16 18:27:10  #公司
-
-【佑駕創新：簽署無人物流車採購及長期合作協議】佑駕創新(02431.HK)在港公告，本集團近期與一家位於無錫市的獨立第三方企業正式簽署無人物流車採購及長期合作協議。本次合作順利達成，標誌本集團無人物流車相關業務在商業化落地與市場拓展方面取得重要進展。協議約定在有效期內，合作方及合作方協助對接的第三方將向本集團採購合計1,000臺無人物流車及配套軟體系統，所涉車型包括T5、T8及合作期內上市的其他無人物流車產品。
 
 ---

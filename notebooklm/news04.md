@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 05:15:59_
-_本檔包含 3460 則快訊，約 655554 字_
+_更新時間：2026-06-20 06:04:38_
+_本檔包含 3451 則快訊，約 655326 字_
+
+---
+
+### 2026-06-16 18:29:55  #國際
+
+卡達外交部發言人：我們對該諒解備忘錄將推動區域安全進入下一階段持謹慎樂觀態度。
+
+---
+
+### 2026-06-16 18:29:55  #MKT News
+
+Qatar's foreign ministry spokesman said Doha is cautiously optimistic that a memorandum of understanding will advance the next phase of regional security.
+
+---
+
+### 2026-06-16 18:29:38  #公司
+
+【東方材料：自2月2日起變更為無控股股東、無實際控制人】東方材料公告稱，截至2024年12月31日，許廣彬為公司控股股東、實際控制人，持有12.63%股份，提名董事超董事會半數。2025年8月其持股降至1.34%，此後董事會人員陸續變更。至2026年2月2日，公司無透過實際支配股份表決權決定超半數董事選任的股東，無單一股東控制董事會，變更為無控股股東、無實際控制人。截至2026年5月31日，特麗亮及其一致行動人持股10%為第一大股東，朱君斐及其一致行動人持股9.10%為第二大股東。
+
+---
+
+### 2026-06-16 18:29:28  #Trading Economics #Markets #Commodity #Importance 1
+
+Uranium Holds at Narrow Range — Uranium futures in the US were around $85 per pound in June, maintaining their narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Earlier, yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, which has been shunned since the Chernobyl catastrophe. Meanwhile, Meta and Microsoft both signed agreements to gain fresh nuclear capacity for their future AI data center operations, boosting the outlook following the US government's pivot to speed approvals for power plants.
+
+---
+
+### 2026-06-16 18:29:02  #其他
+
+【愛立信移動市場報告：2026年第一季度5G使用者突破30億】6月16日，愛立信釋出移動市場報告。報告顯示，2026年第一季度，全球新增5G使用者1.62億，使總數突破30億大關，達到31億。這一數字預計將快速增長，到2031年底有望翻一倍以上（達到64億）。
+
+---
+
+### 2026-06-16 18:28:59  #公司 #市場
+
+【機構：SpaceX投資者並不尋求賺快錢】Interactive Investor的Richard Hunter寫道，SpaceX的投資者希望長期持有該公司的股票。這家由埃隆·馬斯克執掌的公司在上週首次公開募股(IPO)後，吸引了散戶的廣泛參與。然而，Hunter寫道，該股的強勁表現表明，投資者並不希望從其股票中賺取短期利潤。“早期跡象清楚地表明，這是一隻投資者正在將其加入增長型投資組合的股票。“該股盤前上漲近10%，至211.64美元，這比該股135美元的IPO發行價高出56%，並延續了上一交易日近20%的漲勢。
+
+---
+
+### 2026-06-16 18:28:37  #國際
+
+【特朗普：不喜歡以色列襲擊貝魯特】美國總統特朗普16日說，他已告訴以色列方面，不喜歡其對黎巴嫩首都貝魯特的襲擊，以色列總理內塔尼亞胡在黎巴嫩問題上必須更加負責任。當被問及是否對內塔尼亞胡感到失望時，特朗普回答說，“不，我們關係很好”。（新華社）
+
+---
+
+### 2026-06-16 18:28:18  #其他
+
+【恒大清盤人不滿普華永道與香港證監會達成10億港元和解，稱此舉對恒大債權人不公並要求撤回和解協議】恒大清盤人因不滿羅兵鹹永道會計師事務所（即普華永道香港）與香港證監會達成的10億港元和解，已於上週五（6月12日）入稟高等法院，要求香港高等法院方面撤銷該和解協議，並要求申請對香港證監會的禁制令，禁止香港證監會對和解一事採取後續行動，亦不得允許任何第三方落實該和解協議，直到清盤人對普華永道香港的索償做出最終裁定為止。（每經網）
+
+---
+
+### 2026-06-16 18:27:46  #其他
+
+【天津開展2026年防汛救援聯合演練】6月16日，天津市公安局治安管理總隊聯動消防救援等多部門在天津海河耳閘水域聯合開展2026年防汛救援聯合演練暨內河突發事件應急處置聯合演練。演練立足天津汛期氣候特點與水域安全風險，模擬暴雨極端惡劣天氣來襲，針對橋樑涵洞積水、城市低窪內澇等常見防汛險情，設定海河遊船失火、人員落水被困等多個實戰科目，最大限度還原真實搶險救援場景，檢驗各單位快速響應、聯合作戰、應急處置和綜合保障能力，為保障汛期安全積累實戰經驗。（新華社）
+
+---
+
+### 2026-06-16 18:27:10  #公司
+
+【佑駕創新：簽署無人物流車採購及長期合作協議】佑駕創新(02431.HK)在港公告，本集團近期與一家位於無錫市的獨立第三方企業正式簽署無人物流車採購及長期合作協議。本次合作順利達成，標誌本集團無人物流車相關業務在商業化落地與市場拓展方面取得重要進展。協議約定在有效期內，合作方及合作方協助對接的第三方將向本集團採購合計1,000臺無人物流車及配套軟體系統，所涉車型包括T5、T8及合作期內上市的其他無人物流車產品。
 
 ---
 
@@ -20755,119 +20815,5 @@ Iranian media Fars News reported Iran will grant vessels a 60-day free transit p
 ### 2026-06-15 17:04:46  #公司
 
 【強瑞技術：控股股東減持觸及1%及5%整數倍，持股比例降至50.00%】強瑞技術公告，控股股東寧陽縣強瑞科技發展有限公司於2026年6月15日透過大宗交易方式減持公司股份14.15萬股，佔公司總股本比例0.10%。本次減持後，控股股東及其一致行動人合計持有公司股份7240.89萬股，持股比例由50.10%減少至50.00%，權益變動觸及1%及5%的整數倍。減持與已披露的減持計劃一致，計劃尚未實施完畢。
-
----
-
-### 2026-06-15 17:04:23  #公司
-
-【日科化學：持股5%以上股東趙東日減持期滿，實際減持1.56%股份】日科化學公告，持股5%以上股東趙東日此前披露的減持計劃實施期限已於2026年6月11日屆滿，其在2026年3月12日至6月11日期間透過集中競價交易減持449.93萬股（佔剔除回購後總股本1%）、大宗交易減持250萬股（佔0.56%），合計減持699.93萬股，佔公司剔除回購專用賬戶股份後總股本的1.56%。本次減持後，趙東日持有公司股份5433.95萬股，佔剔除回購後總股本12.08%。
-
----
-
-### 2026-06-15 17:04:15  #央行 #國際
-
-市場訊息：前美聯儲理事米蘭將重返哈德遜灣資本。
-
----
-
-### 2026-06-15 17:04:06  #公司
-
-【浩物股份：簽署保證合同終止協議，終止9000萬元擔保】浩物股份公告，公司全資子公司內江市鵬翔投資有限公司為支援其下屬公司天津市駿濠汽車銷售服務有限公司向東風日產汽車金融有限公司申請融資，於2019年12月簽署《保證合同》，提供9000萬元連帶責任保證擔保。經友好協商，內江鵬翔與日產金融於2026年6月15日簽署《保證合同終止協議》，終止上述擔保事項。由於天津駿濠已於2025年退網且相關債務已全部履行完畢，該協議簽署不會對各方產生不利影響。
-
----
-
-### 2026-06-15 17:03:49  #其他
-
-【賽力斯人形機器人首度亮相，今年內將推出雙足、四足等多款具身智慧機器人】記者獲悉，賽力斯正在加速佈局具身智慧，今年內將推出包括雙足、四足、輪式在內的多款具身智慧機器人。近日，賽力斯汽車董事長張正萍帶領問界M9品牌大使黃渤參觀賽力斯超級工廠，賽力斯人形機器人也首次亮相。從一段曝光的影片中可以看出，賽力斯人形機器人已投入實際運營，覆蓋B端工業製造與C端服務接待等多維度場景。相關人士表示，賽力斯正推進汽車向L4+具身智慧方向演進，聚焦車業務協同，覆蓋面向C端的零售、服務、陪伴，及面向B端的製造、物流佈局，包括雙足、四足、輪式在內的具身智慧機器人，預計今年內將正式推出。（新浪科技）
-
----
-
-### 2026-06-15 17:03:32  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-【ECB's Kazimir: further tightening needed to curb inflation】ECB Governing Council member Kazimir said on Monday the ECB has taken a first step to rein in price pressures but additional tightening is increasingly necessary. He noted the ECB raised rates last Thursday — its first hike in nearly three years — aiming to curb inflation before an energy-cost surge linked to US and Israeli military action against Iran spreads across the eurozone. Kazimir warned higher energy costs will likely persist longer than many expect and could trigger second‑round effects; even if the US and Iran have just announced a peace framework, damage in the Middle East cannot be undone overnight. Based on current information, he said monetary policy still has more work to do.
-
----
-
-### 2026-06-15 17:03:27  #公司
-
-【*ST三房：董事長卞惠良因退休離任 持有95萬股公司股票】*ST三房公告稱，公司於近日收到董事長、法定代表人卞惠良書面離任報告，其因達到法定退休年齡，於6月15日不再擔任公司第十一屆董事會董事、董事長等職務，離任後不在公司任職。其原定任期到2026年10月26日。卞惠良離任不會影響董事會正常運作，公司將盡快完成新任董事長選舉等工作。截至公告披露日，卞惠良持有公司95萬股股票。
-
----
-
-### 2026-06-15 17:03:20  #經濟數據 #歐元區
-
-【歐元區4月季調後貿易順差13億歐元】歐元區4月季調後貿易順差13億歐元，前值35億歐元。
-
----
-
-### 2026-06-15 17:02:50  #其他
-
-【中央紀委辦公廳公開通報五起政績觀偏差典型案件】河北省邯鄲市政府原黨組成員、副市長任華山任性用權、盲目啟動城中村徵遷工作，違規打造網紅景點等問題。2021年至2024年，任華山任廊坊市文安縣委書記期間，為追求個人政績，未經深入調研，在明知專案資金不足、“三保”等支出難以足額保障的情況下，盲目同時啟動多個城中村徵遷專案。因資金不足且融資困難，部分村安置房專案未能如期完工交付，村民無法及時回遷安置，工人工資被拖欠。2022年2月，任華山為打造城南花海人文網紅景點，明知該專案存在違法佔地、不符合規劃等問題，仍然大力推動、要求施工。2023年9月，專案違法建設部分被拆除，造成嚴重經濟損失。任華山還存在其他嚴重違紀違法問題，被開除黨籍、開除公職，涉嫌犯罪問題被移送檢察機關依法審查起訴。（新華社）
-
----
-
-### 2026-06-15 17:02:32  #MKT News
-
-Refinitiv calculates India's May merchandise trade deficit at $28.21 bln, versus a prior survey expectation of $28.72 bln.
-
----
-
-### 2026-06-15 17:02:29  #經濟數據 #歐元區
-
-【歐元區4月工業產出環比增長0.1% 預期0.2%】歐元區4月工業產出環比增長0.1%，預期0.2%，前值由0.20%修正為0.4%。
-
----
-
-### 2026-06-15 17:02:15  #國際
-
-印度 5 月出口額同比增長 18%  。
-
----
-
-### 2026-06-15 17:01:54  #國際
-
-印度 5 月貿易逆差為 282.1 億美元。
-
----
-
-### 2026-06-15 17:01:40  #焦點 #國際
-
-伊朗媒體訊息：伊朗根據協議將允許霍爾木茲海峽船隻自由過境60天。
-
----
-
-### 2026-06-15 17:01:13  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-Euro area seasonally adjusted trade surplus narrowed to €1.3 billion in April, the smallest since May 2023.
-
----
-
-### 2026-06-15 17:01:00  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-Eurozone April seasonally adjusted trade surplus €1.3bn, prior €3.5bn.
-
----
-
-### 2026-06-15 17:00:59  #國際
-
-歐洲能源交易所現貨碳排放配額成交價為每噸 77.01 歐元。
-
----
-
-### 2026-06-15 17:00:47  #MKT News #Economic Calendar #Important
-
-Eurozone | Trade Balance (Apr) | actual 1300000000B | previous 3500000000B
-
----
-
-### 2026-06-15 17:00:21  #市場
-
-鈀金期貨日內漲5%，現報1356.50美元/盎司。
-
----
-
-### 2026-06-15 17:00:17  #Trading Economics #Markets #Commodity #commodity #Importance 0
-
-Rapeseed Hits 5-week Low — Rapeseed decreased to 513.00 EUR/T, the lowest since May 2026. Over the past 4 weeks, Rapeseed lost 1.66%, and in the last 12 months, it increased 6.34%.
 
 ---
