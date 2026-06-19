@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-20 04:32:03",
-  "count": 17661,
+  "updated": "2026-06-20 04:36:04",
+  "count": 17656,
   "items": [
+    {
+      "id": "4945457",
+      "time": "2026-06-20 04:34:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國運輸警方就英國火車相撞事故發聲：十分遺憾，已有一人身亡。"
+    },
+    {
+      "id": "4945456",
+      "time": "2026-06-20 04:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧計劃訪問科威特、阿聯酋和巴林。"
+    },
+    {
+      "id": "4945455",
+      "time": "2026-06-20 04:31:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧計劃下週訪問中東。"
+    },
     {
       "id": "4945454",
       "time": "2026-06-20 04:31:13",
@@ -162545,77 +162569,6 @@
         "其他"
       ],
       "text": "穆迪：評級確認反映阿聯酋擁有強勁的制度體系與有效的政策制定能力。"
-    },
-    {
-      "id": "4933429",
-      "time": "2026-06-13 04:36:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪：此次評級確認反映出阿聯酋經濟擁有高人均收入，且多元化經濟具備抵禦衝擊的緩衝能力。"
-    },
-    {
-      "id": "4933428",
-      "time": "2026-06-13 04:35:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪將千里達及托巴哥的信用展望調整為穩定。"
-    },
-    {
-      "id": "te:markets:558797",
-      "time": "2026-06-13 04:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.70% Higher — The Dow Jones Index gained 354 points or 0.70 percent on Friday to close at 51202 points. Gains were led by Goldman Sachs (2.57%), Verizon (2.49%) and JPMorgan (2.25%). Biggest losers were Nike (-2.24%), Apple (-1.52%) and Merck (-1.42%)."
-    },
-    {
-      "id": "4933427",
-      "time": "2026-06-13 04:34:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級確認阿聯酋AA2評級，維持穩定展望。"
-    },
-    {
-      "id": "4933426",
-      "time": "2026-06-13 04:34:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價12日顯著下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌2.83美元，收於每桶84.88美元，跌幅為3.23%；8月交貨的倫敦布倫特原油期貨價格下跌3.05美元，收於每桶87.33美元，跌幅為3.37%。"
-    },
-    {
-      "id": "4933425",
-      "time": "2026-06-13 04:33:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級確認阿布扎比AA2評級，維持穩定展望。"
-    },
-    {
-      "id": "4933424",
-      "time": "2026-06-13 04:33:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級確認沙迦的Ba1評級，維持穩定展望。"
-    },
-    {
-      "id": "te:markets:558796",
-      "time": "2026-06-13 04:32:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Falls as US-Iran Deal Could Reopen Hormuz — Brent oil fell 3.4% to $87.3 per barrel as expectations increased that the US and Iran could reach an agreement to reopen the Strait of Hormuz, although officials warned a deal was not guaranteed. Prices declined about 6% this week but remain more than 20% higher since the US and Israel launched attacks on Iran on February 28. A Trump administration official said there is an 80% chance of a deal being signed soon, with the agreement potentially involving the reopening of Hormuz, removal of the naval blockade, dismantling of Iran’s nuclear program and economic incentives if Tehran complies. However, conflicting reports emerged after Iranian media published a draft proposal suggesting different terms, including US force withdrawals and reconstruction funding. President Trump said it did not reflect the agreed terms. Pakistan’s Prime Minister said a final text had been reached, while Iran’s foreign minister said an understanding was closer than ever but urged caution until finalized."
     }
   ]
 }
