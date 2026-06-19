@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-20 01:49:31",
+  "updated": "2026-06-20 01:53:31",
   "count": 17770,
   "items": [
+    {
+      "id": "mkt:019ee102-a2cd-7dd8-b09a-162ac287a3a5",
+      "time": "2026-06-20 01:51:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Intercontinental Exchange (ICE): For the week to June 16, speculative net long positions in gasoline futures rose by 7,006 contracts to 60,810 contracts."
+    },
+    {
+      "id": "mkt:019ee102-33a9-7dd8-b09a-0dc8e100de59",
+      "time": "2026-06-20 01:51:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE data: speculative net long positions in Brent crude futures fell by 94,763 contracts to 114,128 in the week to June 16."
+    },
+    {
+      "id": "4945386",
+      "time": "2026-06-20 01:50:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所布倫特原油：截至 6 月 16 日當週，投機客削減淨多頭持倉 94763 手，淨多頭持倉降至 114128 手。"
+    },
     {
       "id": "mkt:019ee0fe-1950-7dd8-b09a-048b81e15574",
       "time": "2026-06-20 01:46:49",
@@ -163660,34 +163693,6 @@
         "國際"
       ],
       "text": "美國國務院：正與國會協作，擬向流行病防範創新聯盟（CEPI）提供 5000 萬美元資金。"
-    },
-    {
-      "id": "mkt:019ebcf6-e7ab-7dd8-afe4-f31f026d69cc",
-      "time": "2026-06-13 01:52:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "ICE: week to June 9, Brent crude speculative net longs fell by 43,609 contracts to 208,891. Gasoil (diesel) speculative net longs rose by 1,804 contracts to 53,804."
-    },
-    {
-      "id": "4933285",
-      "time": "2026-06-13 01:51:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "閃迪漲7.5%，創盤中歷史新高。"
-    },
-    {
-      "id": "4933284",
-      "time": "2026-06-13 01:50:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）：6月9日當週，投機者所持ICE 布倫特原油淨多頭頭寸減少43,609手合約，至208,891手合約，創21周新低。"
     }
   ]
 }
