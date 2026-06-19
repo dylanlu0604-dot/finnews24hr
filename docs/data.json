@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 01:41:14",
-  "count": 17773,
+  "updated": "2026-06-20 01:45:29",
+  "count": 17770,
   "items": [
+    {
+      "id": "4945385",
+      "time": "2026-06-20 01:44:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及外長稱將與沙特、土耳其和巴基斯坦舉行四方會談】埃及外交部19日發表宣告說，埃及外長將於21日與沙烏地阿拉伯外交大臣、土耳其外長和巴基斯坦外長在開羅舉行四方會談。 (新華社)"
+    },
     {
       "id": "mkt:019ee0f7-8a35-7dd8-b099-fa9a4881163c",
       "time": "2026-06-20 01:39:39",
@@ -163677,45 +163685,6 @@
         "焦點"
       ],
       "text": "白銀連續主力合約日內漲5%，現報16455.00元。"
-    },
-    {
-      "id": "mkt:019ebcee-5f01-7dd8-afe4-eb7b8d4ae321",
-      "time": "2026-06-13 01:43:18",
-      "tags": [
-        "MKT News",
-        "ADBE.O",
-        "Impact bearish"
-      ],
-      "text": "Adobe (ADBE.O) shares fell 10%, hitting their lowest level since 2018."
-    },
-    {
-      "id": "4933282",
-      "time": "2026-06-13 01:42:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "Adobe下跌10%，重新整理2018年以來最低位。"
-    },
-    {
-      "id": "mkt:019ebced-0bbb-7dd8-afe4-e3a1dab4adec",
-      "time": "2026-06-13 01:41:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRNA reported that an Iranian foreign ministry spokesperson said both sides have reached consensus on most issues under negotiation and are now in the final stage of internal decision-making."
-    },
-    {
-      "id": "4933281",
-      "time": "2026-06-13 01:41:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）： 伊朗外交部發言人稱，雙方已就大部分議題達成共識，目前我方正處於內部最終議定階段。"
     }
   ]
 }
