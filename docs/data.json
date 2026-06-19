@@ -1,7 +1,134 @@
 {
-  "updated": "2026-06-19 14:07:20",
-  "count": 18687,
+  "updated": "2026-06-19 14:11:40",
+  "count": 18696,
   "items": [
+    {
+      "id": "4944773",
+      "time": "2026-06-19 14:10:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "Prosus：預計本財年持續經營業務核心每股基本收益同比增長 19% 至 28%。"
+    },
+    {
+      "id": "mkt:019ede80-4a60-7dd8-b08f-3ecdb895337d",
+      "time": "2026-06-19 14:10:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said the election commission needs fundamental reform."
+    },
+    {
+      "id": "mkt:019ede80-1918-7dd8-b08f-37d2a7492f0c",
+      "time": "2026-06-19 14:09:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Prime Minister Starmer: Labour will not collapse."
+    },
+    {
+      "id": "4944772",
+      "time": "2026-06-19 14:09:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國住房大臣裡德表示，工黨不會分裂。"
+    },
+    {
+      "id": "4944771",
+      "time": "2026-06-19 14:09:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Prosus：盈利受合併業務及權益法核算投資（尤其是騰訊）的強勁營收與盈利能力增長所驅動。"
+    },
+    {
+      "id": "4944770",
+      "time": "2026-06-19 14:09:04",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通歐洲發現信託：對歐洲小型股公司持續向好的前景持樂觀態度，並因此對公司自身前景亦抱有信心。"
+    },
+    {
+      "id": "te:economy:560347",
+      "time": "2026-06-19 14:08:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "UK Retail Sales Rebound More Than Expected — UK retail sales volumes rose 1.2% month-on-month in May 2026, rebounding from a downwardly revised 1.0% decline in April and exceeding market expectations of a 0.5% increase. This marked the strongest monthly growth in four months, driven by a 6.1% jump in non-store retail sales volumes, the largest increase since February 2025, lifting sales to their highest level since January 2022. Retailers attributed the gain to promotional campaigns and warmer weather, which boosted demand for seasonal products such as outdoor furniture and fans. Meanwhile, non-food stores also posted solid growth, with department stores benefiting from the same factors."
+    },
+    {
+      "id": "mkt:019ede7e-ed5d-7dd8-b08f-298769b3fba3",
+      "time": "2026-06-19 14:08:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK housing secretary says Labour is not divided and remains focused on delivering change."
+    },
+    {
+      "id": "4944769",
+      "time": "2026-06-19 14:08:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統：有必要對選舉委員會進行根本性改革。"
+    },
+    {
+      "id": "4944768",
+      "time": "2026-06-19 14:07:56",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通歐洲發現信託：儘管過去一年市場波動顯著，歐洲股票的投資環境仍然向好。"
+    },
+    {
+      "id": "4944767",
+      "time": "2026-06-19 14:07:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國住房大臣、首相斯塔默盟友裡德表示，不能冒險讓大曼徹斯特市長職位落入改革黨手中，目前必須集中精力贏得這場選舉。"
+    },
+    {
+      "id": "mkt:019ede7d-a359-7dd8-b08f-2304affa0bd0",
+      "time": "2026-06-19 14:07:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude reclaimed $80/bbl, up 1.24% intraday."
+    },
+    {
+      "id": "4944766",
+      "time": "2026-06-19 14:07:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破80美元/桶，日內漲0.68%。"
+    },
+    {
+      "id": "4944765",
+      "time": "2026-06-19 14:07:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報76.61美元/桶。"
+    },
     {
       "id": "mkt:019ede7c-2ea4-7dd8-b08f-1f3a2607816a",
       "time": "2026-06-19 14:05:40",
@@ -171984,50 +172111,6 @@
         "Importance 2"
       ],
       "text": "UK Economy Contracts in April — The GDP in the UK contracted by 0.1% month-on-month in April 2026, in line with market expectations and following a 0.3% expansion in March. This marked the first contraction since August last year, as services output declined 0.2%, with the largest negative contributors being administrative and support service activities, which fell 2.2%, and arts, entertainment and recreation (-4.3%). Wholesale and retail trade, including motor vehicle repair, declined 0.4%, as retail trade excluding motor vehicles and motorcycles fell 1.3%. Meanwhile, information and communication provided the largest positive contribution, rising 1.1% and marking its sixth consecutive monthly increase."
-    },
-    {
-      "id": "4931924",
-      "time": "2026-06-12 14:11:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Visa與OpenAI合作接入ChatGPT購物支付，探索AI代理參與交易新模式】Visa將與OpenAI合作，為使用者透過ChatGPT及相關AI代理完成的購物交易提供支付支援。根據合作安排，Visa將提供支付網路、安全基礎設施、支付憑證管理、授權和欺詐監測能力；AI代理發起交易仍需遵循使用者預設許可權，包括消費額度、審批門檻和其他限制。報道稱，該合作屬於Visa“Intelligent Commerce”計劃的一部分，顯示支付機構正加快為AI代理參與商品搜尋、購買決策和交易執行建立授權、身份識別和風險控制機制。"
-    },
-    {
-      "id": "4931923",
-      "time": "2026-06-12 14:11:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【非金屬材料板塊持續下挫，金戈新材跌超20%】非金屬材料板塊持續下挫，金戈新材跌超20%，天馬新材跌超10%，粵桂股份、石英股份、東方碳素、寧新新材、力量鑽石跟跌。"
-    },
-    {
-      "id": "te:economy:558599",
-      "time": "2026-06-12 14:09:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "UK Construction Output Falls Less than Expected — UK construction output dropped 1.0% year-on-year in April 2026, worsening from a 0.3% decline in the previous month and marking the sixth consecutive month of contraction. However, the drop was less severe than market expectations of a 1.7% decrease. New work continued to weigh on activity, falling at a faster pace (-4.8% vs. -4.4% in March), while growth in repair and maintenance eased to a four-month low of 4.4% from 5.7%. On a monthly basis, construction output edged up 0.1%, slowing sharply from a 1.5% increase in March and representing the weakest expansion since December. The softer performance reflected a 0.3% decline in new work and slower growth in repair and maintenance activity (0.6%). Despite the weak April reading, construction output rose 1.6% over the three months to April, pointing the second consecutive increase in the rolling three-month measure. Growth was supported by gains in both repair and maintenance activity (3.4%) and new work (0.3%)."
-    },
-    {
-      "id": "4931922",
-      "time": "2026-06-12 14:09:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Kimi將與一國有銀行發行AI原生信用卡】月之暗面Kimi正與一家大型國有銀行及國際卡組織進行接洽，三方將聯合推出新型信用卡產品。除支付與信貸傳統功能外，該卡將融合AI算力增值服務。據接近專案人士透露，該合作是三方在信用卡服務科技金融領域的共同探索，既有利於銀行精準服務科技企業及其科技使用者，對Kimi來說也是一次從大模型產品走向實體生活場景及支付領域的嘗試。 (科創板日報)"
-    },
-    {
-      "id": "4931921",
-      "time": "2026-06-12 14:08:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三隻羊大資料公司變更負責人】天眼查App顯示，近日，合肥三隻羊大資料運營有限公司發生工商變更，汪芬慶卸任法定代表人、經理、董事，由杜剛接任法定代表人、董事。該公司成立於2023年6月，註冊資本500萬人民幣，經營範圍包括大資料服務、資料處理和儲存支援服務、資料處理服務等，由三隻羊（合肥）控股集團有限公司全資持股。"
     }
   ]
 }
