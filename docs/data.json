@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-20 00:05:02",
-  "count": 17866,
+  "updated": "2026-06-20 00:09:14",
+  "count": 17865,
   "items": [
+    {
+      "id": "mkt:019ee0a4-11f8-7dd8-b099-54e2246cd0de",
+      "time": "2026-06-20 00:08:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. intelligence warns Israel may undermine U.S.-Iran accord】Multiple U.S. intelligence agencies have warned the Trump administration that Israeli Prime Minister Netanyahu may act to undermine President Trump's push for a long-term U.S.-Iran accord, U.S. officials say. Intelligence assesses Netanyahu, under heavy domestic political pressure ahead of autumn elections, needs to show voters he will not withdraw forces from Lebanon and is likely to escalate operations against Hezbollah. The report also says Israeli officials are deeply unhappy with key provisions of Trump’s memorandum, viewing them as weakening Israel’s core objectives."
+    },
+    {
+      "id": "4945355",
+      "time": "2026-06-20 00:08:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行預測 2026 年財政赤字佔國內生產總值比重為 1.8%，維持此前 1.8% 的預估不變。"
+    },
+    {
+      "id": "te:markets:560528",
+      "time": "2026-06-20 00:07:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.34% Lower — The FTSE 100 Index dropped 35 points or 0.34 percent on Friday to close at 10364 points. Losses were led by Antofagasta (-6.16%), Fresnillo (-5.36%) and Unite Group (-4.23%). Offsetting the fall, top gainers were BP (2.08%), Relx (1.43%) and Informa (1.40%)."
+    },
+    {
+      "id": "4945354",
+      "time": "2026-06-20 00:06:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行上調 2026 年國內生產總值增速預期，從此前預估的 3.2% 提升至 3.4%。"
+    },
+    {
+      "id": "4945353",
+      "time": "2026-06-20 00:04:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【印度證券監管機構允許企業從公開市場回購股票】印度證券監管機構將重新允許企業進行公開市場股票回購。鑑於印度本土股市表現落後於全球同類市場，此舉有望提振股價。印度證券交易委員會（SEBI）曾在2025年逐步取消了企業直接在證券交易所回購股票的機制，理由是擔心這種方式會導致股東待遇不公並引發稅務問題。該機制被認為僅惠及少數特定投資者。此舉有望刺激更多的回購活動，尤其是對於現金充裕的企業而言；同時，在市場波動期間，這也將為股票市場提供額外的需求支撐。此前，投資銀行家們曾呼籲恢復這一回購渠道，稱這將有助於緩衝股票的拋售壓力。今年，印度基準指數Nifty 50下跌了8%，表現遜於上漲了27%的MSCI新興市場指數。"
+    },
     {
       "id": "4945352",
       "time": "2026-06-20 00:03:51",
@@ -164566,70 +164613,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Closes 1.83% Higher — The CAC 40 Index rose 150 points or 1.83 percent on Friday to close at 8351 points. Leading the gains are ArcelorMittal (5.87%), Societe Generale (5.86%) and Accor (5.62%)."
-    },
-    {
-      "id": "te:markets:558777",
-      "time": "2026-06-13 00:07:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises for 3rd Session — The FTSE 100 rose 1.5% on Friday, extending gains for the third session, supported by optimism that the US and Iran could be nearing an end to their conflict, alongside falling oil prices. Most constituents moved higher, with banks and miners leading gains. HSBC Holdings gained 4%, Lloyds Banking Group added 4.1% and Barclays advanced nearly 5%. NatWest and Standard Chartered were up by 3.6% and 4%, respectively. Mining stocks performed strongly, with Rio Tinto up nearly 3%, and Anglo American, Antofagasta and Fresnillo all gaining over 5%. Energy majors weighed slightly on the index as crude prices declined, with Shell falling 2% and BP down 2.2%. Meanwhile, fresh economic data showed the UK economy contracted for the first time in eight months, highlighting the impact of the Iran conflict on activity. GDP fell 0.1% in April after growth in the previous two months, matching economists’ expectations."
-    },
-    {
-      "id": "te:markets:558775",
-      "time": "2026-06-13 00:07:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 1.53% Higher — The FTSE 100 Index gained 158 points or 1.53 percent on Friday to close at 10462 points. Gains were led by International Airlines Group (6.65%), Vistry Group (6.23%) and Anglo American (5.21%)."
-    },
-    {
-      "id": "4933212",
-      "time": "2026-06-13 00:06:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英飛凌侵權英諾賽科 相關氮化鎵產品被禁止在中國境內銷售】2026年6月12日，最高人民法院正式發出臨時禁令複議裁定書，維持蘇州中院針對英飛凌的銷售禁令，意味著從此刻起英飛凌相關氮化鎵產品被禁止在中國境內銷售，英諾賽科取得了專利侵權案的最終勝利。\n2026年5月27日，蘇州中院針對英諾賽科起訴英飛凌發明專利侵權案做出英諾賽科勝訴的判決：英飛凌被判侵犯英諾賽科的兩項氮化鎵核心發明專利，並判英飛凌立即停止包括銷售、許諾銷售、進口等行為，並賠償英諾賽科損失合計1000萬元，立即生效。今天，最高人民法院就蘇州中院上述判決做出最終複議裁定，明確維持蘇州中院的禁令判決，為這場專利對決最後蓋棺定論。"
-    },
-    {
-      "id": "te:markets:558774",
-      "time": "2026-06-13 00:05:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Hits Record High on Banking Rally — The FTSE MIB rose 2% to close at a record 51,497 on Friday, as banks and insurers extended their rally amid speculation over a potential bidding war for Banca Monte dei Paschi di Siena. Hopes that a deal for Monte Paschi could reignite broader mergers and acquisitions activity and accelerate sector consolidation boosted sentiment across Italy’s financial sector. Among the top performers, Mediobanca gained 4.6% and Monte Paschi added 3.9%, while peers UniCredit (+4.1%) and Intesa Sanpaolo (+4.3%) also advanced. STMicroelectronics climbed 4.5%, extending gains after BofA upgraded the stock from “neutral” to “buy” on Wednesday. Sentiment was further supported by reports that US President Donald Trump said a US-Iran deal is nearing completion and that planned strikes against Iran had been canceled. Oil prices declined on expectations of renewed supply flows, weighing on Eni, which fell 2.2%."
-    },
-    {
-      "id": "4933211",
-      "time": "2026-06-13 00:05:31",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：SpaceX於週五美國IPO之後，其期權將從下週二開始交易。"
-    },
-    {
-      "id": "4933210",
-      "time": "2026-06-13 00:05:15",
-      "tags": [
-        "觀點",
-        "其他",
-        "國際"
-      ],
-      "text": "研究機構CFRA：首次覆蓋SpaceX(SPCX.O)，給予“賣出”評級；目標價115美元。"
     }
   ]
 }
