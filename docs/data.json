@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-20 04:03:54",
-  "count": 17669,
+  "updated": "2026-06-20 04:07:55",
+  "count": 17671,
   "items": [
+    {
+      "id": "4945441",
+      "time": "2026-06-20 04:05:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱卡達捐贈的空軍一號飛機配備了星鏈網路。"
+    },
+    {
+      "id": "4945440",
+      "time": "2026-06-20 04:04:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我結束了8場戰爭，與伊朗的戰爭是最艱難的；F-47正在建造中。已經啟動了裝配線。他們說這是有史以來最偉大的戰鬥機。我們會驗證這一點。"
+    },
+    {
+      "id": "4945439",
+      "time": "2026-06-20 04:04:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我要特別感謝 250 名工作人員，他們晝夜不休趕工，讓這架專機投入使用，其中也包括安德魯斯聯合基地的眾多空軍官兵。"
+    },
+    {
+      "id": "mkt:019ee17c-163b-7dd8-b09b-19b3be508bbe",
+      "time": "2026-06-20 04:04:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the United States has the world's top military and most advanced aircraft and should be equipped with a top-tier presidential plane."
+    },
+    {
+      "id": "mkt:019ee17b-80ba-7dd8-b09b-163fd0d8fc71",
+      "time": "2026-06-20 04:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the F-47 is under construction and an assembly line has been started. He said they claim it is the greatest fighter jet ever and that the claim will be verified."
+    },
     {
       "id": "4945438",
       "time": "2026-06-20 04:02:47",
@@ -162678,36 +162720,6 @@
         "國際"
       ],
       "text": "標普：未來 6 至 12 個月，受中東持續衝突影響，伊拉克前景面臨多重風險。預計 2026 年伊拉克財政及國際收支狀況將持續承壓。"
-    },
-    {
-      "id": "mkt:019ebd72-28f8-7dd8-afe7-1e6e0c9ce73c",
-      "time": "2026-06-13 04:07:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P expects Iraq's fiscal and external balances to remain under pressure in 2026."
-    },
-    {
-      "id": "4933405",
-      "time": "2026-06-13 04:05:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "英特爾股價收盤上漲6.5%，兩日累計漲幅達16%。"
-    },
-    {
-      "id": "mkt:019ebd6f-bc73-7dd8-afe7-175b466697af",
-      "time": "2026-06-13 04:04:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities closed higher on Friday, June 12: the Dow Jones Industrial Average rose 353.51 points, or 0.70%, to 51,202.26; the S&P 500 gained 37.16 points, or 0.50%, to 7,431.46; the Nasdaq Composite added 79.18 points, or 0.31%, to 25,888.84."
     }
   ]
 }
