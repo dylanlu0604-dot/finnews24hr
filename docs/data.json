@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-19 10:00:39",
-  "count": 18876,
+  "updated": "2026-06-19 10:04:44",
+  "count": 18871,
   "items": [
+    {
+      "id": "mkt:019edd9d-df63-7dd8-b08c-575de475ad8d",
+      "time": "2026-06-19 10:02:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures slid to $65/oz, down 2.0% on the day."
+    },
+    {
+      "id": "4944567",
+      "time": "2026-06-19 10:02:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指逆轉走勢，最新上漲0.4%，報6196點。"
+    },
+    {
+      "id": "4944566",
+      "time": "2026-06-19 10:02:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾下跌0.8%，表現遜於亞洲其他貨幣。"
+    },
+    {
+      "id": "4944565",
+      "time": "2026-06-19 10:01:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本樂天將上調部分冰淇淋價格，漲幅最高達16%。"
+    },
+    {
+      "id": "mkt:019edd9c-6b9f-7dd8-b08c-4fd4852d7432",
+      "time": "2026-06-19 10:01:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China-Europe freight train annual runs up 10.8x over decade】China State Railway Group said on the 19th annual China-Europe Railway Express departures have increased 10.8x over the past ten years. Services now link 129 Chinese cities with 236 cities in 26 European countries—up 113 domestic cities and 216 European cities versus 2016—and effectively cover the Eurasian landmass."
+    },
+    {
+      "id": "4944564",
+      "time": "2026-06-19 10:00:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中歐班列年開行量十年間增長10.8倍】2016年6月，渝新歐、蓉新歐、義新歐、漢新歐等各地開行的跨境運輸國際班列，正式啟用中歐班列這個統一的品牌。10年來，中歐班列開行規模、通達範圍、服務品質、輻射效應大幅提升，運輸網路基本覆蓋亞歐全境。國鐵集團今天（19日）釋出的資料顯示，中歐班列年開行數量十年間增長了10.8倍。中歐班列年開行量由2016年的1702列增長到2025年的20022列，10年增長了10.8倍，年均增長31.5%，自2020年以來年運量始終保持在萬列以上。最新統計顯示，中國境內已有129個城市開通了中歐班列，通達歐洲26個國家236個城市，較2016年分別增加113、216個城市，服務範圍基本覆蓋亞歐全境。"
+    },
     {
       "id": "te:markets:560277",
       "time": "2026-06-19 09:59:03",
@@ -173691,109 +173744,6 @@
         "其他"
       ],
       "text": "亞洲開發銀行警告：亞洲能源危機已處於“最壞”情景。"
-    },
-    {
-      "id": "mkt:019eb993-019f-7dd8-afcf-6b6a47970abb",
-      "time": "2026-06-12 10:04:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "A-shares digital media sector jumped; Fantuo Shuchuang rose nearly 17%, with Visual China, Zhidemai, Kunlun Wanwei, Chuanwang Media and Zhongwen Online also trading higher."
-    },
-    {
-      "id": "mkt:019eb992-f2e6-7dd8-afcf-64879f418889",
-      "time": "2026-06-12 10:04:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. officials said the U.S. military shot down two Iranian one-way attack drones."
-    },
-    {
-      "id": "4931612",
-      "time": "2026-06-12 10:04:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超2%，現報4749.080點；恒生指數現漲1.684%。"
-    },
-    {
-      "id": "4931611",
-      "time": "2026-06-12 10:04:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲2%，現報8151.40點。"
-    },
-    {
-      "id": "4931610",
-      "time": "2026-06-12 10:03:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【物理AI概念震盪反彈 索辰科技觸及20cm漲停】物理AI概念盤中震盪反彈，索辰科技觸及20cm漲停，凡拓數創漲超15%，中望軟體、奧比中光、漢朔科技、雲從科技、能科科技跟漲。"
-    },
-    {
-      "id": "4931609",
-      "time": "2026-06-12 10:03:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度GIFT NIFTY指數報23,520.5點，較NIFTY 50指數上日收盤價23,161.6點上漲約1.5%。"
-    },
-    {
-      "id": "4931607",
-      "time": "2026-06-12 10:02:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電池板塊短線拉昇，雄韜股份漲停】電池板塊短線拉昇，雄韜股份漲停，武漢藍電、納科諾爾、長虹能源、力王股份、鵬輝能源等跟漲。"
-    },
-    {
-      "id": "mkt:019eb990-51f8-7dd8-afcf-5ad62d4c757d",
-      "time": "2026-06-12 10:01:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Public Security: China telecom fraud cases down YoY for eight consecutive months】Since October 2025, China’s telecom fraud cases have fallen year‑on‑year for eight consecutive months, the Ministry of Public Security said. Ten scam types account for about 85% of cases: order‑rebate schemes, fraudulent e‑commerce/shopping services, fake online investment and wealth‑management, impersonation of e‑commerce logistics customer service, loan/credit‑check scams, fake in‑game transactions, online dating fraud, impersonation of law‑enforcement or judicial officials, impersonating executives or acquaintances, and airline ticket refund/rescheduling fraud. Order‑rebate schemes are the most frequent, making up 25% of cases. Fake online investment scams account for roughly 40% of total reported losses; cases with losses in the millions to tens of millions of yuan are predominantly this type."
-    },
-    {
-      "id": "4931606",
-      "time": "2026-06-12 10:01:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數開盤上漲1.3%，至5960.42點。"
-    },
-    {
-      "id": "4931605",
-      "time": "2026-06-12 10:01:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東進入“龍舟水”關鍵期 12日夜間至14日有強對流天氣】6月12日，廣東省預警中心釋出強降雨防禦提醒。廣東省三防辦、廣東省氣象局提醒：6月12日夜間—14日，廣東省大部分市縣將有大雨到暴雨，區域性（特）大暴雨，伴有雷暴大風等強對流天氣。目前正值“龍舟水”關鍵期，未來一週強降雨頻繁，請民眾注意防禦山洪、地質災害、城鄉積澇等災害；龍舟競渡等戶外活動需防範雷擊、短時大風帶來的不利影響。"
-    },
-    {
-      "id": "4931604",
-      "time": "2026-06-12 10:00:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【公安部：我國電詐案件發案已連續8個月同比下降】從公安部今天（12日）召開的新聞釋出會上獲悉，從2025年10月以來，我國電詐案件發案已連續8個月實現同比下降。從詐騙手法來看，當前最高發的詐騙型別有10類，分別是：刷單返利、虛假購物服務、虛假網路投資理財、冒充電商物流客服、貸款徵信、網路遊戲虛假交易、網路婚戀交友、冒充公檢法、冒充領導熟人和機票退改簽詐騙。這10類案件就佔了全部電詐案件的85%。其中，刷單返利詐騙發案最高，佔所有電詐案件的25%；虛假網路投資理財詐騙損失最高，約佔全部電詐案件損失的40%，損失百萬、千萬以上的案件大多是這種型別。另外，當前電信網路詐騙出現一些新特點和新手法：一是犯罪分子主要透過網路平臺尋找作案目標；二是犯罪分子大量使用小眾通聯軟體對被害人進行深度洗腦；三是犯罪分子使用專門詐騙App實施遠端盜刷；四是犯罪分子大量利用現金或者黃金等貴重物品獲取、轉移涉詐資金。"
     }
   ]
 }
