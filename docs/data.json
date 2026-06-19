@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-19 10:37:29",
-  "count": 18845,
+  "updated": "2026-06-19 10:41:34",
+  "count": 18842,
   "items": [
+    {
+      "id": "te:markets:560294",
+      "time": "2026-06-19 10:37:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Heads for Weekly Loss — The offshore yuan weakened to around 6.78 per dollar on Friday, putting the currency on track for a weekly loss as a resilient US dollar capitalized on intensifying rate-hike bets. While the Federal Reserve recently left interest rates unchanged as widely anticipated, roughly half of the FOMC policymakers now project at least one additional rate hike by the end of 2026. On the domestic front, traders are closely watching next week’s fixing of the one- and five-year Loan Prime Rates (LPR). The upcoming policy decision carries extra weight following a string of recent data underscoring China's uneven economic growth. Meanwhile, Hong Kong is set to debut its highly anticipated offshore yuan bond futures this August. The milestone launch represents a strategic push by Beijing to cement the city’s status as a premier global offshore yuan hub while accelerating the broader internationalization of the currency."
+    },
     {
       "id": "te:markets:560293",
       "time": "2026-06-19 10:36:53",
@@ -173436,44 +173448,6 @@
         "市場"
       ],
       "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報170150元/噸，較上日16:30價格上漲2250元/噸。"
-    },
-    {
-      "id": "4931670",
-      "time": "2026-06-12 10:41:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股大模型概念股走弱，MINIMAX跌近8%，創1月底以來新低。智譜轉跌，盤初一度漲超13%。"
-    },
-    {
-      "id": "mkt:019eb9b4-019e-7dd8-afcf-f8505ea0253b",
-      "time": "2026-06-12 10:40:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "00100.HK",
-        "Impact bearish",
-        "02513.HK"
-      ],
-      "text": "Hong Kong large-model AI stocks weakened: MINIMAX-W (00100.HK) fell over 7%; Zhipu (02513.HK) turned negative after an early intraday gain of more than 12%."
-    },
-    {
-      "id": "4931669",
-      "time": "2026-06-12 10:40:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "亨通光電成交額達100億元，現跌0.58%。"
-    },
-    {
-      "id": "4931668",
-      "time": "2026-06-12 10:40:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本多地今日將舉行反對修憲等集會活動】近期，不斷有日本民眾舉行不同規模的集會，抗議高市早苗政府一系列擴軍備武危險動向。當地時間今日（12日）下午至傍晚，日本東京、大阪、宮城等地民眾將組織集會活動，表達“反對修憲”“守護和平憲法”的呼聲。（央視）"
     }
   ]
 }
