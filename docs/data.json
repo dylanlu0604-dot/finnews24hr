@@ -1,7 +1,116 @@
 {
-  "updated": "2026-06-19 21:56:15",
-  "count": 17957,
+  "updated": "2026-06-19 22:00:37",
+  "count": 17936,
   "items": [
+    {
+      "id": "mkt:019ee02d-c204-7dd8-b096-de0169ae5c79",
+      "time": "2026-06-19 21:59:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said a memorandum of understanding with the US on ending the war has been signed digitally, making a meeting originally scheduled for Friday in Switzerland no longer urgent."
+    },
+    {
+      "id": "te:markets:560504",
+      "time": "2026-06-19 21:59:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Muted as US-Iran Talks Stall — The S&P/TSX Composite Index was little changed near the 35,000 mark on Friday as investors reacted to the suspension of US-Iran talks. The discussions, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed after regional tensions escalated and US Vice President JD Vance unexpectedly withdrew. At the same time, pressure from the Federal Reserve’s surprise hawkish shift earlier in the week continued to weigh on sentiment. Financial stocks traded mixed, with Brookfield falling nearly 1%, while RBC gained 0.6%. Gold prices extended losses, pressuring mining shares, with Agnico Eagle down more than 1%, Barrick losing over 1.5%, and WPM falling 2%. Energy stocks were mixed amid uncertainty over US-Iran diplomacy, with Canadian Natural up 1% and Cenovus gaining 0.5%, while Suncor Energy and Imperial Oil traded near flat."
+    },
+    {
+      "id": "mkt:019ee02d-5b82-7dd8-b096-d6a04fe320f2",
+      "time": "2026-06-19 21:58:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces: sirens sounded in northern Israel after reports of suspected hostile aircraft."
+    },
+    {
+      "id": "4945255",
+      "time": "2026-06-19 21:58:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部表示，與美國達成的結束戰爭諒解備忘錄已透過數字方式簽署，因此週五在瑞士舉行的會談不再緊急。"
+    },
+    {
+      "id": "mkt:019ee02c-453b-7dd8-b096-cc7159695c01",
+      "time": "2026-06-19 21:57:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian foreign ministry said negotiations on a final agreement hinge on activation and sustained implementation of specific provisions in the U.S.-Iran memorandum of understanding."
+    },
+    {
+      "id": "4945254",
+      "time": "2026-06-19 21:57:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部表示，關於最終協議的談判取決於與美國簽署的諒解備忘錄中所列條款能否啟動並持續得到履行。"
+    },
+    {
+      "id": "te:markets:560503",
+      "time": "2026-06-19 21:57:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up to 1-Week High — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for a second session on Friday, rising about 2.4% to its highest since June 12 at 2,722 points, underpinned by the larger vessel segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, climbed by 5.3% to a peak since April 10 at 4,149 points. At the same time, the supramax went up 0.2% to 1,718 points. On the other hand, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, dropped about 2.5% to 2,096 points. For the week, the benchmark index shed approximately 0.3%."
+    },
+    {
+      "id": "mkt:019ee02b-5e25-7dd8-b096-c6d98a527523",
+      "time": "2026-06-19 21:56:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign ministry said a meeting in Switzerland scheduled for Friday has been postponed and is being planned for the coming days."
+    },
+    {
+      "id": "4945253",
+      "time": "2026-06-19 21:56:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部稱原定於週五舉行的瑞士會談已推遲，相關方正計劃在未來數日另行安排會面。"
+    },
+    {
+      "id": "mkt:019ee02a-d474-7dd8-b096-be368d77d372",
+      "time": "2026-06-19 21:56:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【The Times: cabinet ministers to tell Starmer to set departure timetable】The Times reports multiple cabinet ministers will tell Prime Minister Starmer this afternoon (June 19) he should set a timetable for his departure; ministers are expected to say his \"time is up.\""
+    },
+    {
+      "id": "4945252",
+      "time": "2026-06-19 21:55:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英媒稱英首相被要求設定離職時間表】據英國《泰晤士報》報道，英國內閣多名大臣將於當地時間今天（6月19日）下午告訴首相斯塔默，應為其離職設定“時間表”。據報道，多名內閣大臣將對斯塔默說，他的“時間到了”。（CCTV國際時訊）"
+    },
     {
       "id": "4945251",
       "time": "2026-06-19 21:55:11",
@@ -165236,330 +165345,6 @@
         "美國"
       ],
       "text": "【美國6月一年期通脹率初值為4.6% 預期4.9%】美國6月一年期通脹率初值為4.6%，預期4.9%，前值4.80%。"
-    },
-    {
-      "id": "4933040",
-      "time": "2026-06-12 22:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "密歇根州5-10年通脹預期降至3.4%；此前估計為3.8%。"
-    },
-    {
-      "id": "mkt:019ebc22-2a09-7dd8-afe0-688cf421e87b",
-      "time": "2026-06-12 22:00:15",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US 5- to 10-year inflation expectations initial reading for June 3.4% (consensus 3.9%), down from 3.90% previously."
-    },
-    {
-      "id": "mkt:019ebc22-24f7-7dd8-afe0-6685a5bc0360",
-      "time": "2026-06-12 22:00:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. one-year inflation expectations for June (preliminary) 4.6% vs. 4.9% expected, prior 4.80%."
-    },
-    {
-      "id": "mkt:019ebc22-19ab-7dd8-afe0-5d5f6265f679",
-      "time": "2026-06-12 22:00:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "US June University of Michigan Current Conditions Index preliminary 48.4, est. 46.2, prior 45.8."
-    },
-    {
-      "id": "mkt:019ebc22-1973-7dd8-afe0-507e7fb7834b",
-      "time": "2026-06-12 22:00:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. June University of Michigan consumer expectations index (prelim) 49.3, consensus 44.3, prior 44.1."
-    },
-    {
-      "id": "4933039",
-      "time": "2026-06-12 22:00:09",
-      "tags": [
-        "資料"
-      ],
-      "text": "密歇根大學6月消費者信心指數初值升至48.9；預期值為46。"
-    },
-    {
-      "id": "mkt:019ebc22-0c11-7dd8-afe0-49c02736b1e3",
-      "time": "2026-06-12 22:00:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. University of Michigan preliminary consumer sentiment for June 48.9; consensus 46; prior 44.8."
-    },
-    {
-      "id": "mkt:019ebc21-f1eb-7dd8-afe0-473688f93f33",
-      "time": "2026-06-12 22:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Expected Changes in Prices During the Next Five Years (Jun) | actual 3.4% | consensus 3.9% | previous 3.90%"
-    },
-    {
-      "id": "mkt:019ebc21-f070-7dd8-afe0-3e91ad3bb46b",
-      "time": "2026-06-12 22:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Expected Changes in Prices During the Next Year (Jun) | actual 4.6% | consensus 4.9% | previous 4.80%"
-    },
-    {
-      "id": "4933038",
-      "time": "2026-06-12 22:00:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員就伊朗協議表態：伊朗不得資助恐怖組織。"
-    },
-    {
-      "id": "mkt:019ebc21-ed7a-7dd8-afe0-336d8f965336",
-      "time": "2026-06-12 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | University of Michigan Current Conditions Index Flash (Jun) | actual 48.4 | consensus 46.2 | previous 45.8"
-    },
-    {
-      "id": "mkt:019ebc21-ed27-7dd8-afe0-2fc3d754da3c",
-      "time": "2026-06-12 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | University of Michigan Consumer Expectations Index Flash (Jun) | actual 49.3 | consensus 44.3 | previous 44.1"
-    },
-    {
-      "id": "mkt:019ebc21-ed19-7dd8-afe0-209a8d7b5ad6",
-      "time": "2026-06-12 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | University of Michigan Consumer Sentiment Index Flash (Jun) | actual 48.9 | consensus 46 | previous 44.8"
-    },
-    {
-      "id": "4933037",
-      "time": "2026-06-12 21:59:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SpaceX交易即將啟動 開盤有望大漲逾25%】圍繞SpaceX股票的狂熱已在週五拉開帷幕，據顯示，該股開盤價預計在每股171美元左右，較135美元的IPO定價上漲約27%。由於交易所需要收集買賣訂單，且承銷商會推遲交易直至供需平衡，股票交易預計要到交易日中途才會開始。Mergermarket全球股權資本市場主管塞繆爾·克爾表示：“鑑於此次交易的熱度，我們預計SpaceX開盤將立即飆升，漲幅或許超過20%。如果漲幅低於這個水平，我反而會感到不安。”"
-    },
-    {
-      "id": "4933036",
-      "time": "2026-06-12 21:59:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普12日在社交媒體發文稱，伊朗此前對“駛離霍爾木茲海峽的印度船隻”發動無人機襲擊，完全不可接受。 同為12日，印度外交部召見美國駐印度大使館臨時代辦，就美軍近日多次在阿曼灣攻擊載有印度籍船員的油輪並導致3名印度船員死亡提出抗議。（新華社）"
-    },
-    {
-      "id": "mkt:019ebc21-7b45-7dd8-afe0-1f4c5536c7fd",
-      "time": "2026-06-12 21:59:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior U.S. government official said the Iran deal would bar Iran from funding terrorist organizations."
-    },
-    {
-      "id": "mkt:019ebc21-5013-7dd8-afe0-15985766eca7",
-      "time": "2026-06-12 21:59:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SpaceX trading to start; opening likely to jump over 25%】SpaceX is expected to open around $171, roughly 27% above the $135 IPO price. Exchanges will collect orders and underwriters may delay listing until buy and sell interest balances, so trading could begin only mid-session. Mergermarket global equity capital markets head Samuel Kerr said the stock is likely to surge at the open, potentially rising more than 20%, and that a smaller opening move would be surprising."
-    },
-    {
-      "id": "4933035",
-      "time": "2026-06-12 21:58:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員就伊朗協議表態：霍爾木茲海峽航道保持暢通。"
-    },
-    {
-      "id": "4933034",
-      "time": "2026-06-12 21:58:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破87美元/桶，日內跌0.81%。"
-    },
-    {
-      "id": "mkt:019ebc20-adb3-7dd8-afe0-0d526e301197",
-      "time": "2026-06-12 21:58:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "ECB Governing Council member KAZIMIR said a surge in energy prices feeding into core inflation is dangerous."
-    },
-    {
-      "id": "4933033",
-      "time": "2026-06-12 21:58:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員：加息任務尚未完成。"
-    },
-    {
-      "id": "4933032",
-      "time": "2026-06-12 21:58:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩真主黨：部隊對巴拉特穆斯塔哈德陣地實施火箭彈襲擊。"
-    },
-    {
-      "id": "mkt:019ebc1f-eb2b-7dd8-afe0-073ad634ab66",
-      "time": "2026-06-12 21:57:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Executive Board member Kazimir said markets have well understood the ECB's new advantageous position."
-    },
-    {
-      "id": "4933031",
-      "time": "2026-06-12 21:57:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員：不排除政策轉向收緊的可能。"
-    },
-    {
-      "id": "4933030",
-      "time": "2026-06-12 21:57:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員：市場已充分理解歐洲央行當前的政策立場。"
-    },
-    {
-      "id": "4933029",
-      "time": "2026-06-12 21:57:24",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "歐洲央行官員：能源價格上漲正向核心通脹傳導，形勢堪憂。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606123770190237",
-      "time": "2026-06-12 21:57:24",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行管委卡茲米爾：加息任務尚未完成】歐洲央行管委卡茲米爾稱，加息任務尚未完成，經濟足夠強韌，能夠消化更高利率。"
-    },
-    {
-      "id": "4933028",
-      "time": "2026-06-12 21:57:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員：第二輪通脹效應隱現，且終將顯現。"
-    },
-    {
-      "id": "4933027",
-      "time": "2026-06-12 21:56:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行官員：經濟具備足夠韌性，可承受更高利率，"
-    },
-    {
-      "id": "mkt:019ebc1f-1d99-7dd8-afdf-ff8133536bdc",
-      "time": "2026-06-12 21:56:56",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Kazimir said the economy is sufficiently resilient to absorb higher interest rates."
-    },
-    {
-      "id": "mkt:019ebc1e-f2e1-7dd8-afdf-f7a1c9181d05",
-      "time": "2026-06-12 21:56:45",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Kazimir says the rate-hike task is not yet complete."
-    },
-    {
-      "id": "4933026",
-      "time": "2026-06-12 21:56:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：在SpaceX首次公開募股中，出售給機構的股份約有70%分配給了只做多投資者，此外還有部分股份分配給了主權財富基金。"
     }
   ]
 }
