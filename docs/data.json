@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-19 23:47:14",
+  "updated": "2026-06-19 23:51:35",
   "count": 17870,
   "items": [
+    {
+      "id": "mkt:019ee092-6889-7dd8-b099-22d878696223",
+      "time": "2026-06-19 23:49:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Ceasefire reported but Israeli drones continue strikes in southern Lebanon】Despite reports of a ceasefire, Israeli drones continued strikes in southern Lebanon on the 19th, targeting towns and hills in the Nabatieh and Jezzine areas. Hezbollah MP Ibrahim Mousawi said Hezbollah began complying with the ceasefire but reserves the right to respond if Israel violates the agreement — \"If Israel respects the ceasefire, we will respect it.\" Earlier the IDF said air-raid sirens sounded in the Zarit area of northern Israel on the 19th amid a suspected drone approach."
+    },
+    {
+      "id": "mkt:019ee091-aac1-7dd8-b099-196315b0e5e2",
+      "time": "2026-06-19 23:48:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia says Moscow again struck by large-scale Ukrainian drone attack】Moscow mayor Sobyanin said on the 19th the city was again struck by a large-scale Ukrainian drone attack; 76 drones were shot down by evening with no casualties or reported property damage. Ukraine has not commented."
+    },
+    {
+      "id": "4945348",
+      "time": "2026-06-19 23:48:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱莫斯科再遭烏大規模無人機襲擊】當地時間19日，俄羅斯莫斯科市長索比亞寧表示，莫斯科當天再次遭烏軍大規模無人機襲擊，截至傍晚共擊落76架無人機，未造成人員傷亡和財產損失。烏克蘭方面對此暫無回應。（央視）"
+    },
+    {
+      "id": "4945347",
+      "time": "2026-06-19 23:47:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【停火訊息傳出 以軍無人機仍持續空襲黎巴嫩南部】據黎巴嫩方面19日訊息，以軍無人機仍在持續空襲黎巴嫩南部，空襲目標包括納巴蒂耶和傑津地區的城鎮和山地。黎巴嫩議會真主黨籍議員易卜拉欣·穆薩維當天在接受採訪時表示，雙方同意停火後，真主黨立即開始遵守協議，並保留在以色列違反停火協議時予以回應的權利。他表示，“如果以色列尊重停火，我們也會尊重停火”。稍早前，以色列國防軍19日表示，以色列北部扎裡特地區拉響防空警報，有疑似無人機來襲。（央視新聞）"
+    },
     {
       "id": "mkt:019ee08d-7dc5-7dd8-b099-12a56d81e1a0",
       "time": "2026-06-19 23:43:49",
@@ -164646,43 +164683,6 @@
         "國際"
       ],
       "text": "SpaceX開盤市值即超過2萬億美元，超過了此前1.77萬億美元的估值，目前位列美股市場第七名。"
-    },
-    {
-      "id": "mkt:019ebc87-fa1e-7dd8-afe2-67cfaa388704",
-      "time": "2026-06-12 23:51:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O"
-      ],
-      "text": "SpaceX (SPCX.O) stock rose to $160, up about 18% intraday."
-    },
-    {
-      "id": "4933203",
-      "time": "2026-06-12 23:50:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SPACEX股價攀升至162美元，較IPO發行價上漲20%。"
-    },
-    {
-      "id": "4933202",
-      "time": "2026-06-12 23:48:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX 開盤大漲，馬斯克成為全球首位萬億富豪。"
-    },
-    {
-      "id": "4933201",
-      "time": "2026-06-12 23:47:17",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "SpaceX美國IPO首日開盤報150美元，此前給出的IPO發行價為每股135美元。據報道，此次IPO吸引逾3500億美元認購需求，近三分之一機構未獲配。"
     }
   ]
 }
