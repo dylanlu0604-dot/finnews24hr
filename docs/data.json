@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 01:25:09",
-  "count": 17796,
+  "updated": "2026-06-20 01:29:14",
+  "count": 17787,
   "items": [
+    {
+      "id": "4945380",
+      "time": "2026-06-20 01:24:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬士基哥本哈根股價收漲1.23%，本週累計下跌12.00%，6月15-18日持續走低。赫伯羅特德國法蘭克福股價收漲0.71%，本週累跌3.33%。德迅國際瑞士股價收跌0.55%，本週累跌7.08%。"
+    },
     {
       "id": "mkt:019ee0e7-082a-7dd8-b099-bb80f18d4c9b",
       "time": "2026-06-20 01:21:37",
@@ -163840,103 +163848,6 @@
         "國際"
       ],
       "text": "美國政府高階官員：美方必須研究如何落實相關約定。"
-    },
-    {
-      "id": "4933268",
-      "time": "2026-06-13 01:28:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人向國家電視臺表示，伊朗各決策機構正就這份諒解備忘錄召開會議。"
-    },
-    {
-      "id": "mkt:019ebce0-a871-7dd8-afe4-7591ac9d8225",
-      "time": "2026-06-13 01:28:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "A senior U.S. government official said Iran pledged never to develop nuclear weapons."
-    },
-    {
-      "id": "4933267",
-      "time": "2026-06-13 01:28:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員： 伊朗承諾永久放棄核計劃。與伊朗達成的協議包含一項廣泛的地區和平協議，涉及黎巴嫩、伊朗以及海灣國家。"
-    },
-    {
-      "id": "4933266",
-      "time": "2026-06-13 01:27:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：我對 SpaceX 這群優秀的夥伴心懷無盡感激。"
-    },
-    {
-      "id": "mkt:019ebcdf-ed2d-7dd8-afe4-68fc2f842b8e",
-      "time": "2026-06-13 01:27:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A senior US government official said the agreement with Iran includes a broad regional peace component covering Lebanon, Iran and Gulf states."
-    },
-    {
-      "id": "4933265",
-      "time": "2026-06-13 01:26:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行首席經濟學家Adrian Armas：厄爾尼諾對秘魯漁業的影響最大。"
-    },
-    {
-      "id": "mkt:019ebcde-b5f5-7dd8-afe4-6612d29ca9b3",
-      "time": "2026-06-13 01:26:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "A senior U.S. government official said the U.S. and Iran have a text that both sides find acceptable."
-    },
-    {
-      "id": "mkt:019ebcde-869d-7dd8-afe4-5a77550a4518",
-      "time": "2026-06-13 01:26:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior U.S. government official said the agreement is an important first step to ensure Iran cannot obtain nuclear weapons."
-    },
-    {
-      "id": "4933264",
-      "time": "2026-06-13 01:25:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：該協議是阻止伊朗研發核武器邁出的重要第一步。"
-    },
-    {
-      "id": "mkt:019ebcde-3e5e-7dd8-afe4-536b0da79ca6",
-      "time": "2026-06-13 01:25:41",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A senior U.S. government official said under the agreement the U.S. will obtain Iranian enriched nuclear material."
     }
   ]
 }
