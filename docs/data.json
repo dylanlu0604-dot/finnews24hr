@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 03:14:48",
-  "count": 17741,
+  "updated": "2026-06-20 03:18:57",
+  "count": 17736,
   "items": [
+    {
+      "id": "4945410",
+      "time": "2026-06-20 03:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普承認伊朗相關衝突的解決程序更為漫長】據報道，特朗普總統週四在節目中表示，美國若對古巴採取軍事行動，有可能復刻今年 1 月快速拿下委內瑞拉總統尼古拉斯・馬杜羅的戰果。特朗普同時承認，伊朗相關衝突的解決程序更為漫長，原因是伊朗軍事實力更強，且地理位置遙遠。他表示古巴更容易被美方壓制。記者詢問，針對古巴的行動是否會和委內瑞拉行動流程相似，特朗普答覆：“有可能，完全存在這種可能性。”“這兩個國家離美國很近。反觀伊朗，路途極其遙遠。我曾數次飛往那一區域，雖說和本次戰事無關，但單程就要飛 18 個小時，路途十分漫長。委內瑞拉距離相對近，古巴更是近在咫尺。”二者另一關鍵區別在於資源儲備。總統補充道：“委內瑞拉擁有石油資源，古巴沒有。古巴只擁有優質土地與優美海岸線。”"
+    },
     {
       "id": "4945409",
       "time": "2026-06-20 03:11:53",
@@ -163347,64 +163355,6 @@
         "Impact mixed"
       ],
       "text": "Streaming-video platform Roku (ROKU.O) is in talks to sell itself and has been discussing a potential merger with at least one US media company, sources said."
-    },
-    {
-      "id": "mkt:019ebd44-f160-7dd8-afe6-0bd328d65aec",
-      "time": "2026-06-13 03:17:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian foreign minister Araghchi said the US lifting the blockade and reopening the Strait of Hormuz are part of the interim agreement."
-    },
-    {
-      "id": "4933327",
-      "time": "2026-06-13 03:16:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：核問題以及解除對伊制裁事宜已延後至第二階段磋商，預計相關議題的談判時長為 60 天。"
-    },
-    {
-      "id": "4933326",
-      "time": "2026-06-13 03:16:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【戴德梁行促成愛立信創紀錄百萬平方英尺總部交易】近日，全球知名房地產服務商戴德梁行（Cushman & Wakefield）成功協助瑞典通訊巨頭愛立信完成其新總部選址。此次交易涉及面積達100萬平方英尺，創下瑞典歷史上最大規模的寫字樓交易紀錄，同時也是歐洲近年來最大的企業總部搬遷專案之一。愛立信作為戴德梁行的長期客戶，將把其總部從斯德哥爾摩基斯塔（Kista）區遷至該市重點發展的現代化城區哈加斯塔登（Hagastaden）。這一區域正迅速發展成為集創新與生命科學於一體的新興科技中心。"
-    },
-    {
-      "id": "mkt:019ebd43-5ee0-7dd8-afe6-07cf50ada01a",
-      "time": "2026-06-13 03:16:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Iranian foreign minister Araghchi said under a temporary agreement all fronts, including Lebanon, will declare a ceasefire."
-    },
-    {
-      "id": "4933325",
-      "time": "2026-06-13 03:15:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價漲幅收窄，報163.91美元，盤中最高觸及176.52美元。"
-    },
-    {
-      "id": "4933324",
-      "time": "2026-06-13 03:15:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：包括黎巴嫩在內的所有戰線的戰爭，都將在臨時協議框架下宣佈結束。"
     }
   ]
 }
