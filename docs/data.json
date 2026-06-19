@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-19 23:34:33",
-  "count": 17880,
+  "updated": "2026-06-19 23:38:45",
+  "count": 17879,
   "items": [
+    {
+      "id": "mkt:019ee088-0c09-7dd8-b098-fd51cd7e722d",
+      "time": "2026-06-19 23:37:52",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "FTSE MIB",
+        "Impact bullish",
+        "Stoxx Europe 50"
+      ],
+      "text": "European equities closed mixed on Friday, June 19: Germany's DAX fell 38.88 points (-0.16%) to 24,989.18; Britain's FTSE 100 dropped 32.80 points (-0.32%) to 10,366.90; France's CAC 40 lost 46.84 points (-0.55%) to 8,421.14; the Stoxx Europe 50 declined 29.32 points (-0.46%) to 6,293.95; Spain's IBEX 35 slipped 68.29 points (-0.35%) to 19,335.81; Italy's FTSE MIB rose 162.28 points (+0.31%) to 52,850.50."
+    },
+    {
+      "id": "mkt:019ee087-dbc5-7dd8-b098-f493765a9445",
+      "time": "2026-06-19 23:37:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times: UK Transport Secretary Alexander urged Prime Minister Starmer to resign."
+    },
+    {
+      "id": "4945344",
+      "time": "2026-06-19 23:37:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國交通大臣亞歷山大呼籲斯塔默下臺。"
+    },
+    {
+      "id": "4945343",
+      "time": "2026-06-19 23:36:45",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "【印度油輪超級油輪在駛離波斯灣途中折返】一艘正在駛離波斯灣的油輪超級油輪在駛向霍爾木茲海峽時折返。彭博社彙編的油輪跟蹤資料顯示，這艘名為“Desh Vibhor”號的油輪在過去幾個小時內掉頭返航，此前它似乎正朝著美軍推薦的南部航線航行。跟蹤資料顯示，“Desh Vibhor”號似乎在開始駛離波斯灣時掉頭返航。該船由印度航運公司（Shipping Corp. of India）運營。"
+    },
+    {
+      "id": "4945342",
+      "time": "2026-06-19 23:34:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列媒體：以色列與黎巴嫩真主黨停火】《以色列時報》19日援引一名美國高階官員的話報道說，以色列和黎巴嫩真主黨已同意在黎巴嫩停火，停火於當地時間19日下午4時生效。這名官員透露，停火是由美國、卡達分別與以色列和伊朗溝通促成的。以色列第12頻道電視臺當天稍早前援引一名以色列官員的話報道說，以色列與黎巴嫩真主黨達成了停火。這名官員說，以軍仍將留在黎南部的“安全區”內。“如果他們（黎巴嫩真主黨）攻擊我們，我們將予以還擊。”（新華社）"
+    },
     {
       "id": "mkt:019ee083-8e21-7dd8-b098-eeed1dea100f",
       "time": "2026-06-19 23:32:58",
@@ -164730,64 +164777,6 @@
         "其他"
       ],
       "text": "交易及航運業內訊息稱，海灣原油日減產規模維持在 500 萬至 600 萬桶，遠低於此前預估的 1200 萬至 1500 萬桶。"
-    },
-    {
-      "id": "4933194",
-      "time": "2026-06-12 23:37:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國法官下令長期叫停“反武器化”基金，要求政府提供“徹底廢除”的書面保證】美國弗吉尼亞州一名聯邦法官下達了更長期的禁令，阻止美國司法部設立“反武器化基金”。法官Leonie Brinkema表示，她需要司法部和財政部出具書面保證，確認該基金已被徹底擱置。代理司法部長Todd Blanche此前在國會作證時聲稱，司法部無意重啟該基金計劃。"
-    },
-    {
-      "id": "mkt:019ebc7a-d0c7-7dd8-afe2-2abe29894fa5",
-      "time": "2026-06-12 23:37:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "CAC40"
-      ],
-      "text": "European equities closed higher on Friday, June 12. Germany's DAX rose 1.71% to 24,624.36; the UK's FTSE 100 gained 1.64% to 10,472.43; France's CAC 40 climbed 1.83% to 8,350.87; the Euro Stoxx 50 advanced 2.07% to 6,182.36; Spain's IBEX 35 jumped 2.66% to 18,777.42; Italy's FTSE MIB added 1.99% to 51,510.50."
-    },
-    {
-      "id": "4933193",
-      "time": "2026-06-12 23:36:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局表示，飛往紐瓦克機場的航班將出現抵達延誤，並實施空中盤旋等待措施。"
-    },
-    {
-      "id": "te:markets:558765",
-      "time": "2026-06-12 23:36:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Holds Steady at Over 1-Month Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, remained steady at 2,729 points on Friday, the lowest level since May 1st, after ten consecutive sessions of decreases. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, fell by 0.8% to 4,107 points. Meanwhile, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose by 1.4% to 2,283 points; and the supramax index went up 0.6% to 1,642 points. The benchmark index slipped about 8.5% for the week."
-    },
-    {
-      "id": "4933192",
-      "time": "2026-06-12 23:35:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普在社交平臺上釋出了伊朗外長阿拉格齊關於美伊協議的推文截圖。"
-    },
-    {
-      "id": "mkt:019ebc79-00b4-7dd8-afe2-27f45c1d28c2",
-      "time": "2026-06-12 23:35:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump posted on social media a screenshot of a tweet by Iranian foreign minister Araghchi about a U.S.-Iran agreement."
     }
   ]
 }
