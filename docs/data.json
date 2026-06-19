@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-20 04:24:00",
-  "count": 17661,
+  "updated": "2026-06-20 04:28:02",
+  "count": 17660,
   "items": [
+    {
+      "id": "te:markets:560547",
+      "time": "2026-06-20 04:26:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips on US-Iran Uncertainty — The S&P/TSX Composite Index fell 0.3% to close at 34,857 on Friday as investors reacted to the suspension of US-Iran talks. The discussions, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed, while the Federal Reserve’s surprise hawkish shift earlier in the week continued to weigh on sentiment. Financial stocks traded mixed, with RBC down 0.4% and TD Bank up 0.4%. Brookfield edged higher amid reports it is the frontrunner to acquire a controlling stake in XpFibre. Mining stocks moved lower as gold prices extended losses, with WPM down 4.8%, Agnico Eagle losing 2%, and Barrick falling 1.6%. Energy stocks were mixed amid uncertainty over US-Iran diplomacy, with Canadian Natural rising 1.2%, while Imperial Oil shed 0.6%."
+    },
+    {
+      "id": "4945451",
+      "time": "2026-06-20 04:25:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "L3Harris公司向美國空軍交付VC-25B飛機。"
+    },
+    {
+      "id": "4945450",
+      "time": "2026-06-20 04:25:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【迦納東部槍擊事件致3死9傷】據迦納當地媒體報道，迦納東部奧蒂省一社群18日晚發生槍擊事件，造成3人死亡、9人受傷。 (新華社)"
+    },
+    {
+      "id": "4945449",
+      "time": "2026-06-20 04:23:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我要感謝卡達埃米爾、沙特王儲以及阿聯酋的穆罕默德。"
+    },
     {
       "id": "4945448",
       "time": "2026-06-20 04:20:38",
@@ -162574,50 +162611,6 @@
         "其他"
       ],
       "text": "官員稱：哥倫比亞需推行稅制改革，方能達成 2027 年財政目標。"
-    },
-    {
-      "id": "4933422",
-      "time": "2026-06-13 04:27:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：ANGELA EAGLE被任命為國務大臣。"
-    },
-    {
-      "id": "4933421",
-      "time": "2026-06-13 04:27:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "據傳MATT HOLT相關方即將達成一筆價值 120 億美元的交易，收購 Ensemble Health。"
-    },
-    {
-      "id": "te:markets:558794",
-      "time": "2026-06-13 04:25:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise on SpaceX Debut and Iran Hopes — US stocks rose on Friday as SpaceX’s strong market debut boosted sentiment and investors remained optimistic about a possible peace agreement between the US and Iran. The S&P 500 gained 0.5%, the Nasdaq rose 0.3%, and the Dow Jones advanced 0.7%. SpaceX opened on the Nasdaq at $150 per share, above its $135 IPO price, and surged more than 20% shortly after trading began before closing 19% higher at $161.11. The rally lifted confidence across markets, with some investors viewing other shares as undervalued. Nvidia was slightly higher, while AMD and Alphabet gained 4.7% and 0.5%. Broadcom, Palantir, Amazon and Meta closed lower. Markets briefly weakened after President Trump warned Iran to “get their act together,” but sentiment improved after reports suggested progress toward a US-Iran agreement. Iranian media said the draft deal includes lifting oil sanctions and reopening the Strait of Hormuz, and reports indicated a potential signing could take place in Switzerland as soon as Sunday."
-    },
-    {
-      "id": "4933420",
-      "time": "2026-06-13 04:25:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數12日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.11%，在匯市尾市收於99.747。截至紐約匯市尾市，1歐元兌換1.1575美元，高於前一交易日的1.1558美元；1英鎊兌換1.3416美元，高於前一交易日的1.3398美元。1美元兌換160.24日元，高於前一交易日的160.08日元；1美元兌換0.7968瑞士法郎，低於前一交易日的0.7970瑞士法郎；1美元兌換1.3980加元，低於前一交易日的1.3981加元；1美元兌換9.4215瑞典克朗，低於前一交易日的9.4759瑞典克朗。"
-    },
-    {
-      "id": "4933419",
-      "time": "2026-06-13 04:24:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：伊朗僅接受在境內“稀釋處理”濃縮鈾庫存】據伊朗媒體12日報道，伊朗外長阿拉格齊表示，伊方目前尚未就核議題作出任何實質性決定，但伊方堅持認為，如需處理現有的高丰度濃縮鈾庫存，唯一可接受方式是在伊朗境內實施“稀釋處理”，而非轉移至境外。（新華社）"
     }
   ]
 }
