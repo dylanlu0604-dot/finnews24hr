@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-20 03:02:53",
-  "count": 17754,
+  "updated": "2026-06-20 03:06:47",
+  "count": 17756,
   "items": [
+    {
+      "id": "mkt:019ee146-09e4-7dd8-b09a-9baee1a46ba3",
+      "time": "2026-06-20 03:05:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said his polling is very strong and he could beat any candidate they field by 25 percentage points."
+    },
+    {
+      "id": "4945408",
+      "time": "2026-06-20 03:04:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我的民調資料十分亮眼。我能領先他們陣營任何候選人 25 個百分點取勝。"
+    },
+    {
+      "id": "mkt:019ee144-e09b-7dd8-b09a-92e718d04338",
+      "time": "2026-06-20 03:04:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "John Jumper, a senior research scientist at Google-owned DeepMind, has decided to leave to join Anthropic."
+    },
+    {
+      "id": "4945407",
+      "time": "2026-06-20 03:03:15",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "谷歌研究員約翰·江珀稱已決定離開谷歌DeepMind，加入Anthropic。"
+    },
     {
       "id": "4945406",
       "time": "2026-06-20 03:01:39",
@@ -163496,22 +163531,6 @@
         "Brent"
       ],
       "text": "Iranian parliament speaker Ghalibaf said commitments must be honored, with no 'ifs', no 'buts' and no excuses, and there is no alternative to the imminent agreement."
-    },
-    {
-      "id": "4933313",
-      "time": "2026-06-13 03:06:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國應急儲備原油出口飆升至歷史新高 戰爭擾亂供應】由於伊朗戰爭引發有記錄以來最嚴重的供應中斷，美國應急儲備原油出口飆升至歷史新高。Kpler Ltd.彙編的海關資料顯示，今年迄今已有近2,200萬桶來自美國戰略石油儲備(SPR)的原油銷往海外市場。這一規模已超過四年前創下的前高。儘管美國應急儲備原油出口並不罕見，但今年出貨規模之大顯示，隨著霍爾木茲海峽近乎關閉引發供應中斷，全球市場正愈發依賴美國供應來渡過難關。從應急儲備庫流出的原油中，每三桶就有大約一桶出口。流向海外的數量可能還會更高，因為特朗普政府仍在釋放所承諾的全部1.72億桶原油。這是國際能源署(IEA)更大規模行動的一部分，旨在幫助緩衝伊朗戰爭對全球能源市場的影響。"
-    },
-    {
-      "id": "4933312",
-      "time": "2026-06-13 03:03:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7641元，較週四夜盤收盤漲79點。成交量382.94億美元。"
     }
   ]
 }
