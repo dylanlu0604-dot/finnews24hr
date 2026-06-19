@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-19 19:01:28",
-  "count": 18138,
+  "updated": "2026-06-19 19:05:29",
+  "count": 18130,
   "items": [
+    {
+      "id": "te:markets:560466",
+      "time": "2026-06-19 19:04:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Steadies, Heads For Weekly Loss — Crude oil steadied near $77 per barrel on Friday as trading remained volatile amid shifting flows through the Strait of Hormuz and renewed uncertainty over US-Iran negotiations on a longer-term peace agreement. Market data suggested shipping activity slowed after an earlier surge in tanker movements, with no outbound vessels seen leaving the Persian Gulf on Friday morning. In contrast, nearly 10 million barrels of crude were observed transiting or positioned near the strait on Thursday, including the first Saudi-owned tankers to move since the conflict began more than three months ago. However, optimism from an interim US-Iran accord was tempered after planned talks in Switzerland were delayed, raising doubts over the durability of any supply recovery. Despite recent stabilization, crude was on track for a weekly decline of around 10%, erasing most of the gains accumulated during the height of the conflict."
+    },
+    {
+      "id": "mkt:019edf8d-8d8c-7dd8-b093-c07db98dc72b",
+      "time": "2026-06-19 19:04:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "As Middle East tensions eased, Urals crude's discount to Brent at Indian ports narrowed to $4 per barrel."
+    },
+    {
+      "id": "mkt:019edf8c-0e2b-7dd8-b093-bb08cb6af34e",
+      "time": "2026-06-19 19:02:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【TankerTrackers: Iran exported about 18 mln barrels of crude in past five days】TankerTrackers said on the 19th Iran exported roughly 18.0 mln barrels of crude over the prior five days, equivalent to about $1.44 bln."
+    },
+    {
+      "id": "4945057",
+      "time": "2026-06-19 19:02:06",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【海事情報公司：伊朗過去五天出口約1800萬桶原油】據海事情報公司“油輪追蹤者”（TankerTrackers）當地時間19日訊息，伊朗在過去五天內出口了約1800萬桶原油，約合14.4億美元。（央視新聞）"
+    },
+    {
+      "id": "4945056",
+      "time": "2026-06-19 19:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，隨著中東緊張局勢緩解，印度港口烏拉爾原油較布倫特原油的貼水擴大至每桶4美元。"
+    },
+    {
+      "id": "4945055",
+      "time": "2026-06-19 19:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易所資料：義大利通脹掛鉤零售債券認購總額達 88.4 億歐元。"
+    },
     {
       "id": "4945054",
       "time": "2026-06-19 19:00:08",
@@ -166927,125 +166989,6 @@
         "公司"
       ],
       "text": "【沐曦股份：擬發行H股並在港交所主機板上市 多項議案待股東會審議】沐曦股份公告稱，公司第一屆董事會第二十五次會議審議多項議案，同意公司發行境外上市外資股（H股）並申請在香港聯交所主機板掛牌上市，初始發行規模不超發行後總股本的5%，並授予不超初始發行規模15%的超額配售權。還透過轉為境外募集股份並上市的股份有限公司、確定發行決議有效期等議案。此外，變更獨立董事，調整董事會專門委員會委員，擬變更證券事務代表。上述議案均需提交公司2026年6月29日召開的第一次臨時股東會審議。"
-    },
-    {
-      "id": "4932658",
-      "time": "2026-06-12 19:05:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國成功研製出三維多層片上電容 可直接應用於AI/GPU晶片、高效能處理器等高階晶片】據湖北江城實驗室訊息，該實驗室近期在電容關鍵技術上取得重大突破，成功研製出三維多層片上電容，電容密度突破每平方毫米1000納法。該電容可直接應用於AI/GPU晶片、高效能處理器等高階晶片，支撐高算力、低功耗晶片研發。目前，相關技術正在開展工藝流片及小批次試產，將在先進封裝領域實現規模化應用。電容在電路中的作用，本質上是一個超微縮的“蓄水池”：當晶片電流劇烈波動時，能迅速充放電以平抑電壓，確保晶片吃上“純淨且穩定”的電流。電容在算力系統中也被比喻為“電RAM”：HBM是算力的資料緩衝，電容則是算力的能量緩衝。要在GPU瞬時拉滿功率時供得上電，必須依靠從納秒到秒級的多級電力快取逐級接力。"
-    },
-    {
-      "id": "4932657",
-      "time": "2026-06-12 19:05:00",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "納斯達克：SpaceX將於美國東部時間上午10時開始交易。"
-    },
-    {
-      "id": "mkt:019ebb81-5774-7dd8-afdc-e38e614c3f24",
-      "time": "2026-06-12 19:04:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Nasdaq says SpaceX IPO to begin quoting at 9:50 a.m. ET."
-    },
-    {
-      "id": "4932656",
-      "time": "2026-06-12 19:04:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "納斯達克：SpaceX將於美國東部時間上午9點50分正式掛牌交易。"
-    },
-    {
-      "id": "4932655",
-      "time": "2026-06-12 19:04:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理：過去兩年因國際貨幣基金組織要求不得不加徵稅收。"
-    },
-    {
-      "id": "4932654",
-      "time": "2026-06-12 19:03:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【證監會同意歐菲光集團股份有限公司發行股份購買資產】證監會發布關於同意歐菲光集團股份有限公司發行股份購買資產註冊的批覆。"
-    },
-    {
-      "id": "4932653",
-      "time": "2026-06-12 19:03:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣州“賣舊買新”試點滿兩週：市場反響踴躍，小戶型申報領跑】廣州“賣舊買新”試點啟動已滿兩週，首輪反饋顯現：諮詢者、申報者眾多，有的已進入價格評估環節。“從目前透過初審的房源情況來看，廣州越秀區和海珠區申報數量最多，面積主要集中在60~70平方米間。”廣州安居集團方面表示。（中國房地產報）"
-    },
-    {
-      "id": "4932652",
-      "time": "2026-06-12 19:03:31",
-      "tags": [
-        "央行",
-        "資料"
-      ],
-      "text": "【央行上海答一財：上海FT賬戶功能升級試點，跨境資金收付規模已超1200億元】6月12日下午，在2026陸家嘴論壇新聞釋出會上，人民銀行上海總部副主任陳繼明在回答第一財經記者提問時表示，上海自由貿易賬戶功能升級試點正式啟動，這是上海自由貿易賬戶體系自2014年推出以來最重要的一次改革。試點透過最佳化“跨二線”管理方式，實現“跨一線”資金自由收付。目前已有11家銀行、37家企業參與試點，跨境資金收付規模超過1200億元，覆蓋貿易、融資、境外放款等多類業務場景，有效提升企業跨境貿易和投融資便利化水平。（第一財經）"
-    },
-    {
-      "id": "mkt:019ebb80-59eb-7dd8-afdc-dd5dfff63a5c",
-      "time": "2026-06-12 19:03:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangzhou sell-old-buy-new pilot two weeks in; brisk demand, small units lead】Guangzhou’s sell-old-buy-new pilot hit the two-week mark with heavy inquiry and application volumes; some listings have progressed to price assessment. Guangzhou Anju Group says properties passing preliminary review are concentrated in Yuexiu and Haizhu districts, with unit sizes mainly around 60–70 sq m."
-    },
-    {
-      "id": "4932651",
-      "time": "2026-06-12 19:02:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三安光電：三安集團債權人申請破產重整】三安光電公告，公司收到間接控股股東三安集團的通知，獲悉三安集團的債權人林素真已向福建省廈門市中級人民法院申請對三安集團進行破產重整。截至本公告披露日，三安集團尚未收到廈門中院受理破產重整的正式文書。申請人破產重整申請能否被法院正式受理及三安集團後續是否進入破產重整程式尚存在不確定性。若申請人的破產重整申請被法院正式受理，三安集團後續進入破產重整程式，可能對公司股權結構及控制權產生影響。"
-    },
-    {
-      "id": "4932650",
-      "time": "2026-06-12 19:02:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理表示，計劃推出提振經濟增長的預算方案。"
-    },
-    {
-      "id": "4932649",
-      "time": "2026-06-12 19:01:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鼎捷數智：擬1.96億元收購能譽科技51%股權】鼎捷數智公告，擬以自有資金及自籌資金合計人民幣1.96億元收購上海能譽科技股份有限公司現有股東持有的能譽科技51%股權。交易完成後，公司將持有能譽科技51%股權，能譽科技將成為公司的控股子公司，納入公司合併報表範圍。本次交易定價參考評估機構出具的評估結果，經交易各方遵循平等自願、公平公允的原則友好協商確定。經上海眾華資產評估有限公司採用收益法評估，以2025年12月31日為評估基準日，能譽科技合併口徑股東全部權益評估價值為3.87億元。"
-    },
-    {
-      "id": "4932648",
-      "time": "2026-06-12 19:01:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三友化工：擬對全資子公司電子化學品公司增資3億元】三友化工(600409.SH)公告稱，公司擬以自有資金3億元對全資子公司唐山三友電子化學品有限責任公司進行增資，增資後其註冊資本由5億元增至8億元。本次增資旨在支援電子化學品公司專案建設，加快公司在溼電子化學品及電子特氣領域的佈局，推動公司向高附加值新材料領域轉型。"
-    },
-    {
-      "id": "4932647",
-      "time": "2026-06-12 19:01:29",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "瑞銀：在收益率上升和美元走強的壓力下，近期金價可能跌至3850至4000美元/盎司。仍對未來12個月金價持看漲觀點，理由是未來降息預期、美元走弱以及各國央行持續購金。"
     }
   ]
 }
