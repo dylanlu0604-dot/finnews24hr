@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-20 00:09:14",
-  "count": 17865,
+  "updated": "2026-06-20 00:13:28",
+  "count": 17862,
   "items": [
+    {
+      "id": "te:markets:560533",
+      "time": "2026-06-20 00:12:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.30% Higher — The FTSE MIB Index gained 161 points or 0.30 percent on Friday to close at 52849 points. Gains were led by Fincantieri (3.39%), Saipem (3.19%) and Poste Italiane (2.58%). Biggest losers were Brunello Cucinelli (-3.80%), Moncler (-1.60%) and Lottomatica (-1.42%)."
+    },
+    {
+      "id": "mkt:019ee0a7-2b35-7dd8-b099-5b7a532fc021",
+      "time": "2026-06-20 00:11:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hezbollah leader Qassim said the plan to destroy Hezbollah has failed, Israel’s conspiracy has come to an end, and final victory — defined as the complete and permanent expulsion of occupiers from every inch of Lebanese territory — is inevitable."
+    },
+    {
+      "id": "4945356",
+      "time": "2026-06-20 00:11:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行預測 2026 年通脹率為 3.8%，2027 年通脹率為 2.0%。"
+    },
+    {
+      "id": "te:markets:560532",
+      "time": "2026-06-20 00:11:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.16% Lower — The DAX Index decreased 41 points or 0.16 percent on Friday to close at 24986 points. The decline was led by Volkswagen (-4.58%), Adidas (-1.71%) and Beiersdorf (-1.54%). On the upside, the strongest performers were Rheinmetall (2.67%), Bayer (1.86%) and Porsche Automobil (1.52%)."
+    },
+    {
+      "id": "te:markets:560530",
+      "time": "2026-06-20 00:10:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.55% Lower — The CAC 40 Index fell 47 points or 0.55 percent on Friday to close at 8421 points. Leading the losses are L'Oréal (-2.51%), Essilor (-2.31%) and Hermes International (-2.24%). Top gainers were Renault (3.20%), TotalEnergies SE (1.01%) and Dassault Systemes (0.88%)."
+    },
     {
       "id": "mkt:019ee0a4-11f8-7dd8-b099-54e2246cd0de",
       "time": "2026-06-20 00:08:29",
@@ -164531,88 +164584,6 @@
         "國際"
       ],
       "text": "巴基斯坦總理：確認已經達成一份最終、經過同意的和平協議文字。巴基斯坦正與伊朗、美國就後續行動密切合作。"
-    },
-    {
-      "id": "4933214",
-      "time": "2026-06-13 00:12:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬斯克成為萬億富豪後，美國參議員沃倫呼籲徵收財富稅。"
-    },
-    {
-      "id": "te:markets:558783",
-      "time": "2026-06-13 00:12:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.97% Higher — The FTSE MIB Index gained 992 points or 1.97 percent on Friday to close at 51497 points. Gains were led by Buzzi Unicem (5.67%), Mediobanca (4.38%) and Unipol Gruppo (4.33%)."
-    },
-    {
-      "id": "4933213",
-      "time": "2026-06-13 00:11:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方稱，黎巴嫩南部以軍行動區域內有兩個可疑空中目標被擊落，目前暫無人員傷亡及財產損失報告。"
-    },
-    {
-      "id": "mkt:019ebc9a-241d-7dd8-afe2-a89054f01d2c",
-      "time": "2026-06-13 00:11:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said two suspected airborne targets collided in its area of operations in southern Lebanon after recent alerts across northern Israel triggered by hostile aerial incursions. The incident caused no property damage or casualties."
-    },
-    {
-      "id": "te:markets:558782",
-      "time": "2026-06-13 00:11:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Close Sharply Higher — The Euro STOXX 50 gained 2% and the STOXX Europe 600 closed 1.8% higher on Friday amid lower oil prices after the Iranian foreign ministry claimed it was close to a deal with the US. The statement improved confidence over the gradual return of energy exports from the Persian Gulf after conflicting rhetoric from US President Trump added volatility to the session. Sovereign yields fell and banks benefited from the improved outlook for credit, with Deutsche Bank surging 6.6% while Santander and BNP Paribas advanced over 5%. Meanwhile, ASML added 3.4%, tracking the AI infrastructure sector after SpaceX gained 15% in its IPO, adding to cash for AI companies to spend on chips and data centers. Yesterday, the European Central Bank raised interest rates for the first time in nearly three years and indicated that a restrictive monetary stance could remain through 2027."
-    },
-    {
-      "id": "mkt:019ebc99-eab5-7dd8-afe2-a14a6c07e169",
-      "time": "2026-06-13 00:11:04",
-      "tags": [
-        "MKT News",
-        "IFX.DE",
-        "Impact bearish"
-      ],
-      "text": "【Infineon ruled to infringe Innoscience; related GaN products barred from sale in China】June 12, 2026 — The Supreme People's Court upheld the Suzhou Intermediate People's Court's temporary injunction, maintaining a ban that prohibits Infineon's related gallium nitride (GaN) products from being sold, offered for sale or imported into China effective immediately. On May 27 the Suzhou court found Infineon infringed two of Innoscience's core GaN invention patents, ordered an immediate cessation of sales, offers to sell and imports, and awarded Innoscience 10 million yuan in damages; the Supreme People's Court ruling finalizes the patent case."
-    },
-    {
-      "id": "te:markets:558781",
-      "time": "2026-06-13 00:11:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.76% Higher — The DAX Index went up by 426 points or 1.76 percent on Friday to close at 24635 points. The rise was led by Deutsche Bank (6.60%), HeidelbergCement (4.73%) and Siemens Energy (4.48%)."
-    },
-    {
-      "id": "te:markets:558780",
-      "time": "2026-06-13 00:10:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 1.83% Higher — The CAC 40 Index rose 150 points or 1.83 percent on Friday to close at 8351 points. Leading the gains are ArcelorMittal (5.87%), Societe Generale (5.86%) and Accor (5.62%)."
     }
   ]
 }
