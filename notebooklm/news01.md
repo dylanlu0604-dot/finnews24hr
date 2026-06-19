@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 01:49:31_
-_本檔包含 3790 則快訊，約 659847 字_
+_更新時間：2026-06-20 02:50:20_
+_本檔包含 3791 則快訊，約 658158 字_
+
+---
+
+### 2026-06-20 02:48:55  #MKT News
+
+Sources say Abu Dhabi-based technology investor MGX is considering a multi-billion-dollar acquisition of data center operator DayOne.
+
+---
+
+### 2026-06-20 02:48:53  #其他
+
+星巴克重組之際裁減英國、中國香港辦公室崗位。
+
+---
+
+### 2026-06-20 02:48:38  #其他
+
+市場訊息：阿布扎比投資機構 MGX 正考慮斥資數十億美元收購資料中心運營商 Dayone。
+
+---
+
+### 2026-06-20 02:48:27  #MKT News
+
+Elon Musk said by then the measure of value will no longer be the dollar but mass and energy.
+
+---
+
+### 2026-06-20 02:47:59  #MKT News
+
+Elon Musk said humanity will invest unimaginable sums in producing antimatter to enable interstellar travel to other star systems.
+
+---
+
+### 2026-06-20 02:44:41  #其他
+
+馬斯克：未來，人類將投入億億萬億美元用於製造反物質，以實現前往其他恆星系統的星際航行。到那時，衡量事物的標準將不再是美元，而是質量與能量。
+
+---
+
+### 2026-06-20 02:41:59  #MKT News
+
+【Trump: 'I'm the boss' remark was a joke, didn't expect it to spread worldwide】In an Axios interview, Trump said his 'I'm the boss' remark on entering the G7 meeting was meant as a joke, that 'everyone agreed,' and he did not intend to assert dominance, adding he was surprised it spread worldwide.
+
+---
+
+### 2026-06-20 02:34:09  #MKT News
+
+Ukraine's foreign minister said Poland's decision to strip President ZELENSKIY of an honorary medal was a "strategic mistake."
+
+---
+
+### 2026-06-20 02:33:06  #國際
+
+烏克蘭外長：波蘭撤銷澤連斯基總統勳章的決定是一個 “戰略失誤”。
+
+---
+
+### 2026-06-20 02:32:09  #公司 #國際
+
+【特朗普：“我是老大”的言論只是開玩笑】在Axios訪談節目中，特朗普在被問及關於參加七國集團（G7）峰會向現場各國領導人宣佈“我是老大”時稱， 所有人都認同這點，不過當時只是開玩笑而已。那句話本就是句玩笑，結果傳遍了全世界，我簡直不敢相信。 我當時只是隨口調侃、逗個樂，根本不是想擺老大的架子。
+
+---
+
+### 2026-06-20 02:30:12  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Drops by 1.16% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.16% decrease.
+
+---
+
+### 2026-06-20 02:28:15  #MKT News
+
+Poland's president has decided to revoke the Order of the White Eagle, the country's highest decoration, which had been awarded to Ukrainian President ZELENSKIY.
+
+---
+
+### 2026-06-20 02:26:58  #市場 #國際
+
+【全美寶可夢卡牌盜竊案頻發 北加州兩店接連遭竊】美國警方及兩家店鋪店主表示，本週北加利福尼亞州兩家商店在短短數小時內接連遭遇入室盜竊，價值數千美元的寶可夢集換式卡牌失竊。 斯托克頓的調查人員正在蒐集這兩起週三入室盜竊案的線索、追查嫌疑人，這也是全美多地接連發生寶可夢卡牌失竊案件中的最新兩起。 警方暫未確定這兩起盜竊案件是否存在關聯。其中一位店主勞森介紹，寶可夢卡牌的價格跨度極大，普通卡牌售價約一美元，而部分經過專業評級的卡牌價值可達數萬美元。加利福尼亞州、新澤西州以及美國其他多個州都發生過同類盜竊案件。
+
+---
+
+### 2026-06-20 02:25:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Palm Oil Rises by 1.60% — Top commodity gainers are Palm Oil (1.60%), Rapeseed (0.51%) and Wool (0.51%). Biggest loser is Coffee (-0.74%).
+
+---
+
+### 2026-06-20 02:22:30  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Trump tells Axios Iran war could trigger global depression, says ending JCPOA saved Israel; Cuba action ‘could be swift’】In an Axios interview, Trump said a war with Iran “could trigger a global depression” and asserted his deal prevented that outcome. He said action against Cuba “could be” as swift as U.S. moves on Venezuela, noting both are geographically close while Iran is “far.” On Israel, he claimed “if not for me, Israel would not exist today,” saying he terminated the Obama-era Iran nuclear deal (JCPOA), which he described as a path to nuclear weapons. On post-conflict limits on presidential authority he said there are “no limits” in practice, adding he has “not learned that lesson” and that limits exist only “in theory.”
+
+---
+
+### 2026-06-20 02:22:20  #國際
+
+【俄總統新聞秘書：願與歐洲談判 但對方需轉變態度】俄羅斯總統新聞秘書佩斯科夫19日在新聞釋出會上表示，俄羅斯願與歐洲進行談判，雙方有大量問題有待磋商，但歐洲需改變對待談判的態度。在回答記者有關俄歐談判的問題時，佩斯科夫說，俄羅斯不是主動切斷與歐洲聯絡的一方。歐盟自認為在談判中居於強勢而俄羅斯處於弱勢，這是一個嚴重誤判。如果歐洲能真正認識到恢復與俄羅斯對話的重要性，而不是一味說教和發出最後通牒，那麼俄方將對此持開放態度。佩斯科夫建議歐盟去了解俄烏衝突的真實情況。他認為，烏克蘭目前已陷入非常困難的境地，前線形勢對於烏方來說很快將變成一場災難。（新華社）
+
+---
+
+### 2026-06-20 02:20:11  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 2.29% — Top commodity losers are Platinum (-2.29%), Gold (-1.61%) and Silver (-1.20%).
+
+---
+
+### 2026-06-20 02:16:53  #國際
+
+特朗普：Anthropic 配合我方要求，行事負責。
+
+---
+
+### 2026-06-20 02:15:12  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Gains by 4.56% — Top commodity gainers are Natural Gas UK (4.56%), Natural Gas EU (3.78%), Germany Natural Gas THE (3.71%), Crude Oil WTI (0.95%) and Brent Crude Oil (0.92%). Biggest loser is Natural gas (-1.11%).
+
+---
+
+### 2026-06-20 02:13:53  #國際
+
+被問及是否會關停 Anthropic 時，特朗普回應：我並不打算這麼做。
+
+---
+
+### 2026-06-20 02:13:39  #國際
+
+波蘭總統表示，他已決定撤銷授予澤連斯基的最高榮譽白鷹勳章。
+
+---
+
+### 2026-06-20 02:13:05  #MKT News
+
+U.S. President Trump said ANTHROPIC should not be regarded as a national security threat.
+
+---
+
+### 2026-06-20 02:12:48  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Axios: President Trump said the US will be able to prevent Israel from attacking Lebanon.
+
+---
+
+### 2026-06-20 02:12:31  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+Axios quoted President Trump as saying a war with Iran could trigger a global depression and that the agreement averted that outcome.
+
+---
+
+### 2026-06-20 02:11:23  #國際
+
+特朗普：不將 Anthropic 視作國家安全威脅。
+
+---
+
+### 2026-06-20 02:11:08  #其他
+
+英國交通大臣：獲悉兩列火車相撞的相關報道，我深感擔憂。
+
+---
+
+### 2026-06-20 02:10:49  #MKT News #Market Themes #The Trump Trade
+
+AXIOS reports President Trump said Cuba is very eager to engage in talks.
+
+---
+
+### 2026-06-20 02:09:43  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Fed vice chair for supervision Bowman attends private BofA client dinner during blackout; compliance questioned】Fed vice chair for supervision Bowman attended an invite-only BofA client dinner in New York on Wednesday night, several hours after the Fed released its latest policy decision. The event occurred during the Fed’s communication blackout, which bars officials from commenting publicly on the economy or monetary policy for several days around meetings and runs through the day after the meeting (Thursday). Fed guidance does not explicitly prohibit closed‑door meetings but requires officials to avoid sharing personal policy views with parties that could profit or to confer reputational advantages on a firm; policymakers should be cautious about meetings with those who could benefit from exclusive access or accepting invitations from for‑profit, non‑public events. It is unclear whether Bowman’s attendance violated Fed rules.
+
+---
+
+### 2026-06-20 02:09:40  #國際
+
+特朗普：我有辦法約束以色列，使其不對黎巴嫩發動襲擊。
+
+---
+
+### 2026-06-20 02:08:43  #國際
+
+據Axios：美國總統特朗普稱巴西總統盧拉是一個 “情緒反覆無常” 的人。 古巴方面迫切希望展開對話。
+
+---
+
+### 2026-06-20 02:02:10  #公司
+
+【英國兩列客運列車相撞】據英國媒體報道，當地時間6月19日下午5點多，兩輛客運列車在英國貝德福德地區相撞，造成多名乘客受重傷。具體情況暫時不明。 現場畫面顯示，兩列東米德蘭茲鐵路公司的客運列車相撞。多輛救護車已趕赴現場。 據報道，事發時這兩趟列車幾乎滿載。涉事列車包括一列往返於倫敦聖潘克拉斯和盧頓機場之間的“盧頓機場快線”，以及一列從科比開往聖潘克拉斯的列車。（ CCTV國際時訊）
+
+---
+
+### 2026-06-20 01:51:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Intercontinental Exchange (ICE): For the week to June 16, speculative net long positions in gasoline futures rose by 7,006 contracts to 60,810 contracts.
+
+---
+
+### 2026-06-20 01:51:18  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+ICE data: speculative net long positions in Brent crude futures fell by 94,763 contracts to 114,128 in the week to June 16.
+
+---
+
+### 2026-06-20 01:50:28  #其他
+
+洲際交易所布倫特原油：截至 6 月 16 日當週，投機客削減淨多頭持倉 94763 手，淨多頭持倉降至 114128 手。
 
 ---
 
@@ -22646,217 +22850,5 @@ Agricultural Commodities Updates: Rubber Drops by 1.47% — Top commodity losers
 ### 2026-06-18 16:08:01  #國際
 
 【德國稱美國縮減在歐洲軍力需要路線圖 以防出現防衛缺口】德國國防部長鮑里斯·皮斯托裡烏斯呼籲美國更好地協調削減在歐洲軍力的計劃，以防止歐洲大陸在發生武裝衝突時處於孤立無援的狀態。他週四在布魯塞爾北約總部發表講話時表示，華盛頓將把重點轉向印太“是可以預見的”，歐洲盟友也準備承擔更多自身常規威懾和防禦的責任。他在北約國防部長會議召開前對記者說：“現在最關鍵的問題是如何制定路線圖，協調各個步驟。”美國防長皮特·海格塞斯也將出席此次會議。“如果真的需要由誰來接替美國人的哪些任務，目前還沒有決定。”皮斯托裡烏斯說，“但有一點很明確：我們必須協調這些責任；我們必須同步這些責任，以防止歐洲在常規領域出現危險的軍力缺口。”
-
----
-
-### 2026-06-18 16:07:53  #Trading Economics #Economy #Indonesia #Loan Growth #Importance 1
-
-Indonesia Loan Growth Hits Near 2-Year High — Indonesia's loan growth rose by 11.51% year-on-year in May 2026, accelerating from 9.98% in the previous month. It marked the fastest annual growth since July 2024, primarily driven by investment credit (21.95%), working capital credit (8.09%), and consumer credit (5.89%). Banking resilience remained strong despite risks stemming from the Middle East conflict, supported by ample liquidity, solid capital buffers, and low credit risk. Looking ahead, Bank Indonesia expects credit growth to remain within the 8%–12% range in 2026, backed by Rp2,576 trillion in undisbursed loans, equivalent to 22.41% of total credit limits. Lending prospects are also supported by strong funding and liquidity conditions, with the AL/DPK ratio at 24.74% and third-party funds (DPK) rising 13.47% year-on-year in May. Meanwhile, lending conditions remained favorable, with the average lending rate at 8.72% and the one-month deposit rate at 4.26%.
-
----
-
-### 2026-06-18 16:07:17  #央行 #國際
-
-印尼央行副行長艾達：存在通脹上升風險，但仍將處於央行目標區間內。
-
----
-
-### 2026-06-18 16:07:14  #央行 #國際
-
-印尼央行副行長艾達：通脹風險因素包括燃油價格調整以及厄爾尼諾現象的影響。
-
----
-
-### 2026-06-18 16:07:09  #公司 #市場
-
-【安凱微：目前個別品類的晶片需求訂單確實很旺盛】有投資者問安凱微，2026年晶片廠商都在大幅上漲價格，華強北市場低端白牌晶片都是一天一個價的上漲且嚴重缺貨，請問公司產品漲價幅度多少？公司晶片有沒有供不應求的情況？安凱微在互動平臺表示，不同品類的漲價幅度不同，目前個別品類的需求訂單確實很旺盛，公司也一直保持實時關注，會結合上下游情況做好供應鏈協調及產品交付工作。
-
----
-
-### 2026-06-18 16:06:58  #公司
-
-【普門科技：取得糖化血紅蛋白測定試劑盒註冊證，有效期至2031年】普門科技公告，公司於近期收到1個廣東省藥品監督管理局頒發的《中華人民共和國醫療器械註冊證（體外診斷試劑）》，產品為糖化血紅蛋白測定試劑盒（高效液相色譜法），註冊分類II類，註冊證編號粵械注準20262400629，有效期至2031年6月15日，用於定量檢測人全血中糖化血紅蛋白（HbA1c）的含量，臨床上用於糖尿病的輔助診斷和血糖水平的監控。
-
----
-
-### 2026-06-18 16:06:04  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Apple #INTC.O #Impact bullish #AAPL.O
-
-Intel (INTC.O) shares were up 6.6% pre-market; Trump said Apple will work with the company on chip design and manufacturing.
-
----
-
-### 2026-06-18 16:05:56  #其他
-
-【紙尿褲甲醯胺或來自油墨】公開資料顯示，甲醯胺是一種有機溶劑，也是化工生產中非常常見的一種原料，主要用作發泡劑等。記者今日從多家紙尿褲相關企業瞭解到，紙尿褲主要原料是無紡布、高分子吸水樹脂、鬆緊橡皮筋、熱熔膠等。原則上，如果採取正規工藝和原材料，紙尿褲生產過程中應該不出現甲醯胺。有從事個人護理行業人士對記者表示，現行的嬰兒紙尿褲國標中沒有單獨針對甲醯胺這個成分進行限定。該成分的出現，有可能是來自紙尿褲上的油墨，其使用的有機溶劑沒有完全被揮發掉。（第一財經）
-
----
-
-### 2026-06-18 16:05:29  #公司 #市場 #焦點 #國際
-
-英特爾股價盤前上漲6.6%；特朗普稱蘋果將與該公司在美國晶片設計與生產領域展開合作。
-
----
-
-### 2026-06-18 16:05:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 3.23% — Top commodity losers are Platinum (-3.23%), Lithium Carbonate (-1.33%) and Copper (-1.10%). Gains are led by Silver (0.91%) and Gold (0.72%).
-
----
-
-### 2026-06-18 16:05:12  #央行 #其他
-
-瑞士央行理事Tschudin：瑞士經濟指標顯示增長勢頭穩固。
-
----
-
-### 2026-06-18 16:05:05  #公司
-
-【精研科技：安特信業績補償進展披露 仍存不確定性】精研科技公告稱，2021年公司以1.8億元收購安特信60%股權，2020 - 2022年安特信未實現業績承諾，三年累計應補償4.61億元。公司將應收9000萬元補償款與應付未付交易款對沖，2022年收到許明強等補償款710萬元，2026年4月、6月分別收到陳明芳補償款400萬元、鄭奕麟補償款30萬元，法院已扣劃陳明芳夫婦16.06萬元。業績補償存在不確定性，公司暫未確認未支付補償款收益。
-
----
-
-### 2026-06-18 16:04:57  #公司
-
-【長白山：控股股東部分股份解除質押並重新質押】長白山公告稱，公司控股股東建設集團持有公司股份1.59億股，佔總股本的58.21%。6月16日，建設集團將此前質押給國都證券的140萬股解除質押，佔其所持股份的0.88%，佔公司總股本的0.51%。6月17日，建設集團又將這140萬股質押給國都證券，質押期限至2027年6月17日，資金用於補充流動資金。本次股份解除質押及重新質押後，建設集團累計質押公司股份7886.65萬股，佔其所持公司股份的49.75%，佔公司總股本的28.96%。
-
----
-
-### 2026-06-18 16:04:56  #公司
-
-【華達科技：股東暨董事總經理增持計劃時間過半仍未實施】華達科技公告稱，公司股東暨董事兼總經理葛江宏於2026年3月19日披露增持計劃，預計6個月內增持不低於1500萬元、不超3000萬元的公司股份，增持價不超55元/股。截至6月18日，實施期限過半，因資金安排、定期報告敏感期和權益分派等，葛江宏尚未增持，計劃未實施完畢。後續其將以自有或自籌資金繼續執行增持，該計劃可能因市場變化等無法達預期。
-
----
-
-### 2026-06-18 16:04:50  #公司
-
-【天陽科技：簽訂3.03億元算力雲服務協議】天陽科技公告，公司與雲粒智慧科技有限公司於2026年6月16日簽署《算力雲服務協議》，協議總金額（含稅）為3.03億元人民幣。協議約定，天陽科技為雲粒智慧提供算力雲服務，每個採購訂單服務期限為不間斷48個月，服務以月為結算週期收取月度服務費。本次協議的簽署不構成關聯交易，也不構成重大資產重組，無需提交公司董事會和股東會審議。
-
----
-
-### 2026-06-18 16:04:39  #MKT News #Commodities #Energy
-
-IEA Executive Director BIROL said the agency will discuss a new energy strategy with partner countries.
-
----
-
-### 2026-06-18 16:04:34  #公司
-
-【陝西煤業：淡勇辭任公司獨立董事職務】陝西煤業6月18日公告，公司董事會近日收到獨立董事淡勇遞交的書面辭職報告。淡勇因連續任職公司獨立董事已滿6年，申請辭去第四屆董事會獨立董事等職務。由於淡勇的辭任將導致公司獨立董事佔董事會成員的比例低於三分之一，其辭任將在公司股東會選舉產生新任獨立董事後生效。在辭任生效前，淡勇仍將繼續履行公司獨立董事及其在董事會相關專門委員會中的職責。
-
----
-
-### 2026-06-18 16:04:25  #MKT News #Important #Commodities #Energy #Copper #Impact bullish #CSI300
-
-China total electricity consumption in May was 867.1 bln kWh, versus 820.5 bln kWh previously.
-
----
-
-### 2026-06-18 16:04:22  #其他
-
-【比亞迪大唐EV正式上市：純電續航最高達950公里，售價23.99萬-30.99萬元】比亞迪全尺寸閃充旗艦SUV——大唐EV正式上市。此次大唐EV共推出800KM後驅鐳射雷達尊榮型、950KM後驅鐳射雷達旗艦型、850KM四驅鐳射雷達旗艦型及大唐盛世版四款車型，售價區間23.99萬-30.99萬元。（新浪科技）
-
----
-
-### 2026-06-18 16:04:15  #MKT News #Economic Calendar #Important
-
-China | Total Electricity Consumption (May) | actual 867100000000B | previous 820500000000B
-
----
-
-### 2026-06-18 16:04:15  #MKT News #Important #Commodities #Energy #Market Regions #Greater China #Copper #Impact bullish #CNH #S&P500
-
-China's total electricity consumption rose 6.9% YoY in May, up from 6.0% in April.
-
----
-
-### 2026-06-18 16:04:08  #MKT News #Economic Calendar #Important
-
-China | Total Electricity Consumption (YoY) (May) | actual 6.9% | previous 6%
-
----
-
-### 2026-06-18 16:04:03  #Trading Economics #Economy #Norway #Interest Rate #Importance 2
-
-Norges Bank Signals Further Tightening Ahead — The Norges Bank kept its policy rate steady at 4.25% in June, as expected, while signaling that further tightening may be needed as inflation remains too high. Governor Ida Wolden Bache said rising business costs are likely to keep price pressures elevated and that the bank may raise rates again at one of its upcoming meetings. The central bank noted that inflation has stayed above target for several years, while economic activity has softened slightly. Norges Bank said uncertainty remains high due to the Middle East conflict and its impact on energy prices. Oil and gas prices have fallen since March, while the potential reopening of the Strait of Hormuz could reduce external price pressures. The bank’s updated forecast points to a policy rate slightly above 4.5% by year-end. Inflation is expected to gradually decline toward the 2% target by 2029, though the future rate path will depend on inflation and labor market developments.
-
----
-
-### 2026-06-18 16:03:56  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #Copper #Impact bullish #CNH
-
-China's National Energy Administration: total electricity consumption rose 6.9% YoY in May 2026.
-
----
-
-### 2026-06-18 16:03:50  #其他
-
-【國家能源局：5月份，全社會用電量8671億千瓦時，同比增長6.9%】據國家能源局，5月份，全社會用電量8671億千瓦時，同比增長6.9%。1～5月，全社會用電量累計42018億千瓦時，同比增長5.7%。從分產業用電看，第一產業用電量574億千瓦時，同比增長5.6%。第二產業用電量27324億千瓦時，同比增長5.1%。第三產業用電量8055億千瓦時，同比增長8.6%。
-
----
-
-### 2026-06-18 16:03:34  #其他
-
-國際能源署署長比羅爾稱：國際能源署將與其合作成員國討論新能源戰略。
-
----
-
-### 2026-06-18 16:03:28  #公司 #市場 #觀點
-
-【博通盤前漲3.07%，現報404.97美元】博通盤前漲3.07%，現報404.97美元。訊息面上，摩根大通稱博通與谷歌TPU五年合作專案按計劃推進、AI收入可見性延伸至2031年，並維持“買入”上調目標價至580美元。
-
----
-
-### 2026-06-18 16:03:14  #公司 #市場
-
-【超威半導體盤前漲3.08%，現報528.27美元】超威半導體盤前漲3.08%，現報528.27美元。訊息面上，AMD與Rackspace簽署協議部署30兆瓦AI算力基礎設施，並獲聯博集團與伯恩斯坦上調目標價至600美元推動盤前走強。
-
----
-
-### 2026-06-18 16:02:52  #其他
-
-【2026年1季度末金融業機構總資產556.3萬億元】初步統計，2026年1季度末，我國金融業機構總資產為556.34萬億元，同比增長8.8%，其中，銀行業機構總資產為494.72萬億元，同比增長8.0%；證券業機構總資產為19.15萬億元，同比增長25.4%；保險業機構總資產為42.47萬億元，同比增長12.2%。金融業機構負債為509.53萬億元，同比增長9.0%，其中，銀行業機構負債為455.69萬億元，同比增長8.1%；證券業機構負債為15.14萬億元，同比增長30.9%；保險業機構負債為38.69萬億元，同比增長12.7%。
-
----
-
-### 2026-06-18 16:02:41  #國際
-
-市場訊息：韓國政府將燃油價格上限凍結再延長一個月。
-
----
-
-### 2026-06-18 16:02:34  #公司
-
-【艾華集團：超級電容相關產品目前不屬於公司主營業務範圍 截至目前未形成相關銷售收入】艾華集團公告，近期超級電容產品關注度較高，公司核心主營業務為研發、生產和銷售鋁電解電容器、薄膜電容器、電極箔和金屬化膜，超級電容相關產品目前不屬於公司主營業務範圍，未納入公司現有主營業務體系，截至目前未形成相關銷售收入，對公司當期及近期經營業績無重大影響。在AI伺服器業務方面，公司現階段主要處於產品匯入和產能爬坡階段，放量節奏取決於客戶驗證進度和供應鏈配套成熟度。目前AI伺服器在公司整體收入中的佔比低，且當前該業務仍處於早期階段，客戶認證週期、訂單釋放節奏及行業整體需求變化等因素均存在正常的不確定性。
-
----
-
-### 2026-06-18 16:02:28  #MKT News
-
-IEA Executive Director Birol said the crisis will create a new global energy landscape.
-
----
-
-### 2026-06-18 16:02:27  #MKT News
-
-Korean media NEWSIS reports the South Korean government will extend the freeze on the fuel price cap for another month.
-
----
-
-### 2026-06-18 16:02:13  #央行 #國際
-
-【今日特朗普要聞】
-1、特朗普於美國時間17日早晨稱，美伊達成的諒解備忘錄並非最終協議，若他對協議不滿或伊朗不守規矩，美方將恢復對伊轟炸，且該備忘錄不含立即解除對伊制裁的相關內容。
-2、特朗普於美國時間17日早晨同埃及總統會見記者時稱伊朗擁有核武器的機率僅 0.01%，認為美伊框架協議力度十足，還表示股市大漲、油價大跌足以印證市場對這份協議十分滿意，並透露霍爾木茲海峽將在一兩天內全面開放。
-3、特朗普於美國時間17日早晨在法國七國集團峰會上再度否認美方會向伊朗提供 3000 億美元重建資金，美國不會出資投資，他國可自行決定是否投資。
-4、特朗普在七國集團峰會後的記者會上稱自己未必會出席美伊諒解備忘錄簽署儀式，還稱協議順利則攬功、談崩便歸咎副總統萬斯。
-5、特朗普17日稱，美伊諒解備忘錄可能在18日或19日簽署。
-6、據美國官員，特朗普已親自遠端簽署旨在結束戰事、開放霍爾木茲海峽的美伊諒解備忘錄，協議提前生效、原定 19 日瑞士簽約儀式照常舉辦，提前簽署是為儘早打通海峽，伊朗要求暫不對外公開備忘錄文字。
-7、特朗普在法國 G7 峰會被問及相關計劃時表示美方將研究由本國軍工企業在歐洲、烏克蘭授權生產導彈的方案，因應對伊朗局勢消耗大量防空導彈庫存且擴產週期較長。
-8、特朗普於17日表示，過去兩天他在G7峰會期間和各國商討了俄烏衝突議題，已分別與普京、澤連斯基通話，並向各國領導人通報了和普京的溝通情況，重申自己有意推動俄烏實現停火。
-9、特朗普稱在七國集團上進行了一些非常良好的談話，他稱讚印度總理莫迪，並稱與印度的貿易協定正在推進當中，會在未來某個時間出訪印度。
-10、特朗普稱他同期黎巴嫩，認為黎巴嫩的問題需要解決，黎巴嫩總統將於未來一到兩週訪問美國，希望擴大《亞伯拉罕協議》的覆蓋範圍。
-11、特朗普在新任美聯儲主席沃什首次議息會議選擇維持利率不變、近半數官員預判年內或加息後受訪表示對此結果無所謂，認為加息會拖累經濟、情況反常，但他認可沃什的能力並表示會尊重沃什的政策判斷。
-12、特朗普於17日法國七國集團峰會記者會上再度公開感謝中俄在美伊戰事期間全程保持完全中立。
-13、特朗普17日在真相社交平臺發文稱蘋果將與英特爾合作在美國設計、製造晶片，雙方歷經一年多磋商已達成初步代工協議。
-14、特朗普稱與人工智慧公司Anthropic的談判進展順利，並在七國集團峰會上就人工智慧進行了一場很好的會議。
 
 ---
