@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-19 20:43:26",
-  "count": 17996,
+  "updated": "2026-06-19 20:47:42",
+  "count": 17992,
   "items": [
+    {
+      "id": "mkt:019edfeb-8fc4-7dd8-b095-6158cf8f6757",
+      "time": "2026-06-19 20:46:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European natural gas prices jumped as much as 5.6% on concerns over the Strait of Hormuz."
+    },
+    {
+      "id": "4945170",
+      "time": "2026-06-19 20:46:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行行長納比烏琳娜就歐洲清算銀行訴訟案表示：我們將動用一切可用手段捍衛自身權益。"
+    },
+    {
+      "id": "te:markets:560489",
+      "time": "2026-06-19 20:46:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Heads for Third Weekly Fall as Hawkish Fed Boosts Dollar — Gold fell to $4,150 per ounce on Friday, its lowest level since June 11, and was on track for a third consecutive weekly decline as a stronger US dollar and rising expectations for tighter monetary policy weighed on demand. The dollar climbed to a one-year high after the Federal Reserve left interest rates unchanged but signaled a more hawkish outlook. Nine of the Fed’s 19 policymakers now expect at least one rate hike later this year, while markets currently assign a roughly 70% probability of a rate increase by September. Higher-for-longer interest rates tend to pressure non-yielding assets such as gold while supporting the dollar. Geopolitical uncertainty also remained in focus after Switzerland announced that planned US-Iran talks aimed at ending the Middle East conflict would not take place on Friday. Adding to the bearish sentiment, Goldman Sachs lowered its year-end gold price forecast to $4,900 per ounce from $5,400 previously."
+    },
+    {
+      "id": "4945169",
+      "time": "2026-06-19 20:45:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受霍爾木茲海峽擔憂影響，歐洲天然氣價格上漲幅度一度擴大至5.6%。"
+    },
+    {
+      "id": "mkt:019edfea-2693-7dd8-b095-5e0b729c8cc0",
+      "time": "2026-06-19 20:45:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Canadian regulator lowers required common equity Tier 1 (CET1) ratio for major banks to 11%."
+    },
+    {
+      "id": "mkt:019edfe8-dba1-7dd8-b095-57d8d52b057b",
+      "time": "2026-06-19 20:44:00",
+      "tags": [
+        "MKT News",
+        "RY.TO",
+        "Impact bullish",
+        "TD.TO",
+        "BNS.TO"
+      ],
+      "text": "Canadian regulators cut the domestic stability buffer requirement for banks to 3%."
+    },
+    {
+      "id": "4945168",
+      "time": "2026-06-19 20:42:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大監管機構將各大銀行的核心一級資本充足率要求下調至 11%。將該國銀行國內穩定緩衝要求下調至3%。"
+    },
     {
       "id": "4945167",
       "time": "2026-06-19 20:42:26",
@@ -165774,98 +165841,6 @@
         "國際"
       ],
       "text": "歐盟各國就擴大碳邊境稅適用範圍達成統一立場。"
-    },
-    {
-      "id": "4932900",
-      "time": "2026-06-12 20:47:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【卓創資訊：焦炭正醞釀第七輪漲價】短期調整後，近日焦煤、焦炭價格再度上攻。截至6月12日下午收盤，焦炭主力合約2609收報2078元/噸，盤中最高達到2126元/噸的近年高點。近兩個交易日來，該主力合約價格累計漲幅突破5%。“現貨市場上，本週焦炭現貨市場價格維持偏強上漲，第六輪提漲落地，第七輪上漲正在醞釀。”卓創資訊分析師劉璐璐稱。據瞭解，目前山西煤礦安監形勢依然嚴峻，坑口焦煤供應恢復緩慢，周內焦煤期貨價格高位回落，市場投機需求減弱，但現貨市場剛需偏強，坑口焦煤價格維持上漲，6月10日焦炭價格第六輪提漲全面落地，且頂裝焦漲幅擴大至75元/噸，第七輪提漲也已經提上日程。"
-    },
-    {
-      "id": "4932899",
-      "time": "2026-06-12 20:47:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：伊朗稱目前相關傳言基本都屬於媒體猜測】伊朗方面訊息：伊美之間潛在共識目前處於內部最終敲定階段，尚未作出最終決定。伊朗相關主管部門必須就協議文字各項細節及可能達成的共識逐一研判並形成定論。針對部分媒體猜測伊美初步共識簽署會議的時間與地點，伊朗外交部發言人作出回應：一、任何協議的官方訊息，都將在最終結果落地後第一時間釋出。二、伊朗伊斯蘭共和國的決策流程十分明確，相關主管部門務必敲定協議文字及潛在共識的全部細節。三、共識的簽署方式將在後續階段商討，目前相關傳言基本都屬於媒體猜測。"
-    },
-    {
-      "id": "4932898",
-      "time": "2026-06-12 20:46:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨轉跌。"
-    },
-    {
-      "id": "4932897",
-      "time": "2026-06-12 20:46:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "嘉信理財（Charles Schwab）截至2026年5月的客戶總資產為13.14萬億美元，較2025年5月增長27%。"
-    },
-    {
-      "id": "mkt:019ebbdd-93c8-7dd8-afde-fc7eff5c79cb",
-      "time": "2026-06-12 20:45:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF and the Kyiv government reached a staff-level agreement, paving the way for nearly $700 mln in aid to Ukraine."
-    },
-    {
-      "id": "4932896",
-      "time": "2026-06-12 20:45:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗方面訊息：有訊息源稱，所謂週日將在日內瓦簽署協議的說法純屬虛假傳言。"
-    },
-    {
-      "id": "mkt:019ebbdd-2650-7dd8-afde-f358f5ba7b8a",
-      "time": "2026-06-12 20:44:53",
-      "tags": [
-        "MKT News",
-        "SHEL.L",
-        "Impact bearish"
-      ],
-      "text": "Shell will suspend share buybacks until July 14."
-    },
-    {
-      "id": "4932895",
-      "time": "2026-06-12 20:44:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "殼牌宣佈暫停股票回購計劃。"
-    },
-    {
-      "id": "4932894",
-      "time": "2026-06-12 20:44:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科電氣：擬終止年產13萬噸鋰電池負極材料一體化專案等三個專案】中科電氣公告，公司於2026年6月12日召開董事會審議透過《關於終止部分對外投資專案的議案》，擬終止2022年規劃且暫緩建設的甘眉工業園年產13萬噸鋰電池負極材料一體化專案、蘭州新區年產10萬噸鋰電池負極材料一體化專案以及2024年規劃且暫緩建設的摩洛哥年產10萬噸鋰離子電池負極材料一體化基地專案。上述專案僅開展部分前期籌備工作，尚未實質性建設，前期投入資金規模較小，相關在建工程已於以前年度足額計提減值。本次終止事項尚需提交公司股東會審議。"
-    },
-    {
-      "id": "4932893",
-      "time": "2026-06-12 20:43:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順景科技：擬定增募資不超10.77億元 用於年產1000萬套壓力感測器建設專案等】順景科技(603007.SH)公告稱，公司擬向特定物件發行A股股票，募集資金總額不超過10.77億元，扣除發行費用後擬用於年產1000萬套壓力感測器建設專案、年產300萬套IMU建設專案、研發中心建設專案及補充流動資金。"
-    },
-    {
-      "id": "4932892",
-      "time": "2026-06-12 20:43:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科電氣：擬終止部分對外投資】中科電氣公告，擬終止2022年規劃且暫緩建設的甘眉工業園年產13萬噸鋰電池負極材料一體化專案、蘭州新區年產10萬噸鋰電池負極材料一體化專案以及2024年規劃且暫緩建設的摩洛哥年產10萬噸鋰電池負極材料一體化基地專案。"
     }
   ]
 }
