@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-19 08:12:02",
-  "count": 19003,
+  "updated": "2026-06-19 08:15:52",
+  "count": 19009,
   "items": [
+    {
+      "id": "4944461",
+      "time": "2026-06-19 08:15:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌1%，至8820.60點。"
+    },
+    {
+      "id": "te:markets:560223",
+      "time": "2026-06-19 08:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsubishi Stock Price Hits 19-week Low — Mitsubishi shares decreased to 4491.00 JPY, the lowest since February 2026. Over the past 4 weeks, Mitsubishi lost 17.2%, and in the last 12 months, it increased 60.18%."
+    },
+    {
+      "id": "mkt:019edd3b-1e77-7dd8-b08a-b8a2869a5608",
+      "time": "2026-06-19 08:14:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan Deputy Governor Himino said rising oil prices are weighing on growth, but high corporate profits and household incomes leave the overall Japanese economy resilient."
+    },
+    {
+      "id": "mkt:019edd3b-11ff-7dd8-b08a-b5f9e6c2ff1b",
+      "time": "2026-06-19 08:14:56",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Deputy Governor Himino said recent price rises are not solely driven by temporary supply shocks, and risks remain that underlying inflation could deviate from the BOJ's price target."
+    },
+    {
+      "id": "mkt:019edd3a-edc8-7dd8-b08a-ace601766fd7",
+      "time": "2026-06-19 08:14:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan deputy governor HIMINO said underlying inflation is near 2%."
+    },
+    {
+      "id": "mkt:019edd3a-d38c-7dd8-b08a-a13f493b9248",
+      "time": "2026-06-19 08:14:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 82.80 points (-0.93%) at 8,828.30 on Friday, June 19."
+    },
+    {
+      "id": "4944460",
+      "time": "2026-06-19 08:14:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室宣告：本次調查將旨在確定德國對創新醫藥產品長期持續壓低定價是否屬於不合理行為或歧視性做法。"
+    },
+    {
+      "id": "4944459",
+      "time": "2026-06-19 08:13:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室宣告：根據《1974年貿易法》第301條款對德國啟動調查。"
+    },
+    {
+      "id": "4944458",
+      "time": "2026-06-19 08:12:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：啟動對德國的301條款調查。"
+    },
+    {
+      "id": "4944457",
+      "time": "2026-06-19 08:12:36",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行冰見野良三：近期物價上漲並非僅受暫時性供給衝擊推動，核心通脹存在偏離我們通脹目標的風險。"
+    },
+    {
+      "id": "4944456",
+      "time": "2026-06-19 08:12:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【MSCI指出韓國市場面臨關鍵審查前的障礙】MSCI公司在其最新發布的市場可及性評估報告中表示，韓國尚未解決外國投資者面臨的若干關鍵障礙，這對全球基金以及希望該國改革舉措能推動其未來升級為發達市場地位的政府而言是一次挫折。 在週五釋出的年度評估中，MSCI承認韓國在改革方面取得進展，包括計劃推出24小時外匯市場以及採取更廣泛措施以改善投資者准入。然而，這家總部位於紐約的指數提供商指出，由於缺乏完全可交割的離岸韓元市場，以及賣空結算環節持續存在的低效問題，韓國市場的可及性仍受到阻礙。 儘管韓國已於2025年初取消了賣空禁令，“但在實際操作中已出現摩擦，相關運營流程和基礎設施仍在持續完善。”報告還提到，“融資金額計算方式尚不明確，導致結算過程效率低下。”"
+    },
+    {
+      "id": "te:markets:560219",
+      "time": "2026-06-19 08:11:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Pressured by Hawkish Fed Signals — Silver fell toward $65 an ounce on Friday and was set to lose about 4% for the week, as hawkish signals from the US Federal Reserve outweighed the positive impact of the US-Iran peace agreement, which pushed oil prices lower and eased inflation concerns. On Wednesday, the Fed left interest rates unchanged as widely expected but indicated increasing support for interest rate hikes this year. Higher borrowing costs tend to reduce the appeal of non-yielding assets such as silver by increasing their opportunity cost. Meanwhile, investors welcomed signs of improving shipping conditions through the Strait of Hormuz after the US-Iran interim peace deal came into effect, ending a prolonged conflict that triggered the largest supply disruption on record. Still, traders remained cautious, with expectations that it could take months for shipping activity and energy flows to recover to levels seen before the conflict began in late February."
+    },
+    {
+      "id": "4944455",
+      "time": "2026-06-19 08:11:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行冰見野良三：核心通脹正接近2%的目標水平。"
+    },
     {
       "id": "te:economy:560218",
       "time": "2026-06-19 08:11:10",
@@ -174889,67 +175022,6 @@
         "MKT News"
       ],
       "text": "Intercontinental Exchange data showed Dutch near-month natural gas contract fell more than 5% to €47.09/MWh."
-    },
-    {
-      "id": "mkt:019eb92f-0c00-7dd8-afcc-fd3ebd2c7e59",
-      "time": "2026-06-12 08:15:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said Plus and Pro subscribers can invite up to three friends to trial CODEX over the next two weeks."
-    },
-    {
-      "id": "4931404",
-      "time": "2026-06-12 08:15:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海軍事活動】據中國海事局網站訊息，秦皇島海事局釋出航行警告，6月13日0時至15日8時，渤海部分海域開展軍事活動，禁止駛入。"
-    },
-    {
-      "id": "4931403",
-      "time": "2026-06-12 08:15:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【資深空頭Chanos：SpaceX的IPO靠“希望與夢想”撐起，估值難言合理】據報道，資深做空投資者James Chanos表示，SpaceX的IPO更多是由投資者對馬斯克和人工智慧的熱情推動，而非財務基本面。他認為，難以根據任何合理的商業假設來證明公司估值的合理性。Chanos未明確表示會立即做空該股，但對IPO價格表示懷疑。他表示，包括星鏈衛星網際網路業務在內的現有業務可支撐“數千億美元”的估值，“問題在於，其餘部分是否值1.5萬億美元”。"
-    },
-    {
-      "id": "4931402",
-      "time": "2026-06-12 08:13:06",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【SK海力士考慮引入ChatGPT等外部人工智慧服務】據業內人士週五透露，繼三星電子之後，SK海力士也在考慮更廣泛地採用人工智慧技術來改變其工作流程。訊息人士稱，SK海力士CEO郭魯正週四在一次會議上表示，公司正尋求在保護工業技術和擴大人工智慧應用之間取得平衡，同時也在評估引入外部生成式AI模型的可能性。他表示：“我們正在考慮採用Microsoft 365和CoPilot，同時也在從安全性和系統架構的角度評估ChatGPT在公司內部的潛在應用。”SK海力士目前運營著一項基於開源生成式AI模型的內部人工智慧服務。"
-    },
-    {
-      "id": "4931401",
-      "time": "2026-06-12 08:13:01",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數飆升7% 美伊有望達成協議改善市場風險偏好】韓國股市週五大幅上漲，美國總統特朗普表示美伊接近達成協議後，市場風險偏好改善。Kospi指數早盤一度飆升逾7%，晶片股領漲。週五的大漲再次凸顯出韓國4.3萬億美元股市的狂野波動。由於超過一半的市值集中於三星電子和SK海力士，市場波動性近年來加劇。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606123768977679",
-      "time": "2026-06-12 08:12:39",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【中信證券：預計歐央行將暫停加息 歐元進一步升值的空間或較有限】中信證券研報指出，歐央行6月如期加息25bps，下調今明兩年的增長預測，上調今明兩年的通脹預測。拉加德稱本次加息決定由票委一致透過、加息有必要，尚未討論中性利率，並預計通脹率在2027年下半年迴歸目標，未對後續政策路徑提供太多有效前瞻指引。"
-    },
-    {
-      "id": "4931400",
-      "time": "2026-06-12 08:12:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【超1400次高頻提及 地方“十五五”規劃點題人工智慧】據記者統計，全國31份省級“十五五”規劃綱要中，“人工智慧”一詞累計出現超1400次，足見各地對發展人工智慧的重視程度。 在築牢數智化發展底座上，各地圍繞“算力、演算法、資料”三大核心能力建設開展一系列佈局：有23個省份提出加強算力基礎設施建設或佈局最佳化，17個省份聚焦模型演算法創新，27個省份部署高質量資料集建設。演算法模型是人工智慧的“靈魂”。各地在研發演算法模型上，以“通用大模型+行業垂直大模型”雙輪驅動為主流路線。安徽、廣東、江蘇等9個省份明確在支援通用大模型研發的同時，聚焦本地優勢產業打造垂直大模型。智慧體、具身智慧成為多地佈局重點，上海、四川、浙江等13個省份至少將其中一項列為重要攻關方向。“十五五”時期，27個省份將高質量資料集建設作為人工智慧模型研發、產業數智化轉型的基礎。福建將圍繞政務、醫療、人社、工業、紡織、海洋、低空等重點領域打造一批跨區域跨部門的人工智慧高質量資料集。安徽、貴州、寧夏還設定資料集建設量化指標。例如，寧夏將建設葡萄酒產業、中阿雙語語料庫、礦山機械工業製造等高質量資料集試點專案，形成高質量資料集80個以上。（證券時報）"
     }
   ]
 }
