@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-20 06:32:18_
-_本檔包含 3220 則快訊，約 655434 字_
+_更新時間：2026-06-20 06:59:58_
+_本檔包含 3211 則快訊，約 655076 字_
+
+---
+
+### 2026-06-17 17:52:13  #Trading Economics #Economy #Namibia #Interest Rate #Importance 1
+
+Namibia Lifts Key Policy Rate to 4.75% — The Bank of Namibia raised its benchmark repo rate by 25 bps to 6.575% during its May 2026 meeting, after keeping it unchanged for three consecutive meetings at 6.50%. The policy stance was deemed appropriate to mitigate inflationary risks, support international reserves, and safeguard the one-to-one link between the Namibian dollar and the South African rand. In its assessment, the MPC noted rising global and domestic inflationary pressures in the near term, despite the US-Iran peace agreement, alongside subdued domestic economic activity and sluggish private sector credit growth.
+
+---
+
+### 2026-06-17 17:52:12  #國際
+
+【外交部：日方調查處置闖館事件程序緩慢】針對日本自衛隊現役官員村田晃大非法持刀闖入中國駐日本使館，日本東京地方檢察廳決定延長對村田的鑑定留置時間，繼續調查其是否具備刑事責任能力。外交部發言人林劍17日對此表示，案件發生已經過去將近3個月，日方調查處置程序緩慢，威脅中國駐日使領館安全的惡性事件還在不斷髮生，中方嚴重不滿並已多次提出交涉。（新華社）
+
+---
+
+### 2026-06-17 17:51:48  #其他
+
+【湖北隨州力爭2030年建成全國最大的移動應急裝備綜合基地】6月17日，湖北舉行開局起步“十五五” 加力奮進建支點系列新聞釋出會隨州專場。隨州將推動專汽和應急產業向新能化、智慧化、高階化、融合化轉型，力爭2030年產業產值突破1000億元，建成全國最大的移動應急裝備綜合基地，鞏固全國領先優勢。升級農產品加工、冶金建材等傳統業態，力爭產業叢集分別達到1000億元、500億元能級。
+
+---
+
+### 2026-06-17 17:51:26  #央行 #其他
+
+【浙江：加大數字經濟核心產業金融支援】一方面，重點是用好科技創新和技術改造再貸款，加強對科技創新和大規模裝置更新的金融服務。緊抓人民銀行總行增加再貸款額度、擴大支援科技創新和裝置更新的企業範圍、擴大支援行業領域等契機，加力對電子資訊、人工智慧等領域的信貸支援。另一方面，加大財政金融協同，積極推動符合條件的科技創新和技術改造貸款同時可享受中央財政貼息支援。下一步，人民銀行浙江省分行將持續抓好工具的落地見效，支援新質生產力發展。（央行）
+
+---
+
+### 2026-06-17 17:51:13  #央行 #其他
+
+【浙江：深化“人工智慧+金融”應用】緊扣浙江省“人工智慧+”行動部署，在“人工智慧+金融”領域，力爭形成一批創新應用典型案例。建設金融領域人工智慧高質量資料集，將涵蓋個人信用服務、企業科創金融等重點領域的資料資源，作為金融服務實體經濟的重要支撐。開展金融領域“資料要素×”試點。強化金融科技創新監管工具引領，推動9個“數字金融”領域的專案納入監管沙盒測試。(央行)
+
+---
+
+### 2026-06-17 17:50:31  #公司 #國際
+
+韓國總統辦公室訊息：韓國總統李在明在七國集團峰會期間與美國總統特朗普短暫會面。
+
+---
+
+### 2026-06-17 17:50:21  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Falls as US-Iran Deal Boosts Supply Hopes — Brent crude oil was below $79 per barrel on Wednesday, hovering at its lowest level since early March amid expectations of a US-Iran deal that could rapidly add supply back to the global market. The potential interim agreement, expected to be signed Friday, could allow Tehran to resume oil exports immediately and ease restrictions on shipping through the Strait of Hormuz, prompting tanker operators to reposition vessels toward the region. The release of more than 100 oil-laden ships currently stuck in the Gulf could further boost supply. The International Energy Agency warned that the conflict may cause a larger-than-expected demand hit and contribute to a renewed global oil surplus. Brent prices have fallen nearly 40% from their conflict peak as geopolitical risk fades. The decline is also easing inflation concerns, with lower fuel prices helping consumers. However, US crude inventories continued to fall, with an industry estimate showing an 8.3 million-barrel draw last week.
 
 ---
 
@@ -19356,101 +19398,5 @@ Market sources say SpaceX has agreed to merge with Cursor in a deal valuing the 
 ### 2026-06-16 18:38:01  #公司 #國際
 
 【美伊周五簽署臨時和平協議，G7擬協助霍爾木茲海峽掃雷】美國和伊朗正準備於週五在瑞士正式簽署臨時和平協議。雙方均宣稱取得勝利，但石油交易商和航運企業對於霍爾木茲海峽究竟能夠多快恢復通航仍存疑慮。特朗普目前正在法國出席七國集團（G7）峰會，七國集團成員國預計將在霍爾木茲海峽可能需要進行的掃雷行動中發揮關鍵作用，以協助恢復通航。一名熟悉情況的七國集團官員透露，義大利國防部長克羅塞託週一在華盛頓與美國國防部長赫格塞思會面，雙方討論了義大利方面準備派往霍爾木茲海峽的四艘艦艇組成的編隊。該官員表示，其中包括兩艘目前已部署在吉布提、為執行任務做準備的掃雷艦。
-
----
-
-### 2026-06-16 18:37:59  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-【U.S. and Iran to sign temporary peace deal Friday; G7 to assist mine‑clearing in Strait of Hormuz】The U.S. and Iran are preparing to formally sign a temporary peace agreement in Switzerland on Friday; both sides claim victory. Oil traders and shippers remain uncertain how quickly navigation through the Strait of Hormuz will resume. Trump is attending the G7 summit in France, and G7 members are expected to play a central role in any mine‑clearing operations to restore shipping. A G7 official said Italy’s defense minister Crosetto met U.S. defense secretary Hegseth in Washington on Monday to discuss an Italian task group of four vessels for the Strait, including two minehunters currently deployed to Djibouti and being readied for the mission.
-
----
-
-### 2026-06-16 18:37:58  #公司
-
-【*ST雲創：公司股票將終止上市】*ST雲創公告，公司於2026年6月9日收到北京證券交易所出具的《關於南京雲創大資料科技股份有限公司股票終止上市的決定》，北京證券交易所決定公司股票終止上市。根據相關規定，公司可以於收到本決定之日起15個交易日內，就終止上市事項提交複核申請。目前，公司尚未就終止上市事項提交複核申請。
-
----
-
-### 2026-06-16 18:37:55  #國際
-
-波蘭總理圖斯克：政府將於週二透過草案，對燃料銷售的意外利潤徵稅。
-
----
-
-### 2026-06-16 18:37:25  #國際
-
-全球基金在交易日前淨買入價值101億盧比的印度股票。
-
----
-
-### 2026-06-16 18:37:06  #國際
-
-市場訊息：歐洲議會投票透過了實施歐美貿易協定的立法。
-
----
-
-### 2026-06-16 18:36:46  #MKT News
-
-Polish Prime Minister Tusk said the government will adopt a draft on Tuesday to levy a windfall profits tax on fuel sales.
-
----
-
-### 2026-06-16 18:36:40  #MKT News #Star Stocks #Xiaomi #01810.HK #Impact bullish
-
-Xiaomi Group (01810.HK) repurchased 4 mln Class B shares on June 16, spending about HK$100 mln.
-
----
-
-### 2026-06-16 18:35:37  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bullish #S&P500 #DXY #Impact bearish
-
-European Parliament voted to approve legislation removing many EU import tariffs on U.S. goods, a key element of the U.S.-EU trade agreement reached in July 2025.
-
----
-
-### 2026-06-16 18:35:23  #公司
-
-【愛立信任命Per Narvinger為新任總裁兼執行長】6月16日，愛立信宣佈任命現任執行副總裁兼網路業務部主管Per Narvinger為新任總裁兼執行長。Borje Ekholm將於2026年9月30日卸任，並擔任新任CEO的執行顧問至2027年6月15日。
-
----
-
-### 2026-06-16 18:35:11  #MKT News #Market Themes #AI Revolution
-
-【Sugon launches YuanRong financial digital-intelligence solution】Sugon said on June 16 at the 2026 China International Financial Expo in Shanghai that Li Liu, vice president of Sugon Beijing, unveiled the YuanRong financial digital-intelligence solution at the opening ceremony. The company says the solution targets infrastructure bottlenecks from scaled deployment of financial AI agents.
-
----
-
-### 2026-06-16 18:35:03  #公司
-
-【佑駕創新：簽署1000臺無人物流車採購及長期合作協議】佑駕創新公告，本集團近期與一家位於無錫市的獨立第三方企業正式簽署無人物流車採購及長期合作協議。根據協議，合作方及合作方協助對接的第三方將向本集團採購合計1000臺無人物流車及配套軟體系統，所涉車型包括T5、T8及合作期內上市的其他無人物流車產品。本次合作標誌本集團無人物流車相關業務在商業化落地與市場拓展方面取得重要進展，將主要應用於城配、市縣級行政區供配以及物流“最後一公里”等場景。
-
----
-
-### 2026-06-16 18:34:36  #公司 #國際
-
-市場訊息：烏克蘭總統澤連斯基釋出的照片顯示，他在七國集團（G7）峰會期間會見美國總統特朗普和美國國務卿魯比奧。
-
----
-
-### 2026-06-16 18:34:34  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Qatar's foreign ministry spokesman said it hopes the memorandum of understanding will help keep navigation through the Strait of Hormuz open, enabling Qatar to continue supplying LNG.
-
----
-
-### 2026-06-16 18:34:24  #MKT News
-
-A photo released by Ukrainian President Zelenskiy shows he met US President Trump and US Secretary of State Rubio at the G7 summit.
-
----
-
-### 2026-06-16 18:33:42  #國際
-
-卡達外交部發言人：我們希望該諒解備忘錄將有助於開放霍爾木茲海峽的航行通道，使卡達能夠繼續供應液化天然氣。
-
----
-
-### 2026-06-16 18:33:17  #公司
-
-【東芯股份：公司1xnm快閃記憶體產品已實現量產並實現產品銷售】東芯股份釋出投資者關係活動記錄表公告，儲存晶片方面，公司1xnm快閃記憶體產品已實現量產並實現產品銷售，設計與工藝持續最佳化；穩步推進2xnm製程SLCNANDFlash系列研發，持續擴充產品料號；基於48nm及55nm製程推進中高容量NORFlash產品研發；DRAM方面已實現DDR3(L)、LPDDR1/2/4X及PSRAM量產；持續研發更多MCP容量組合方案；車規級產品方面，多款型號已透過AEC-Q100驗證，公司已透過IATF16949:2016質量管理體系第三方符合性認證，併成功完成多家整車廠的白名單匯入。
 
 ---

@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 06:32:18_
-_本檔包含 3814 則快訊，約 655735 字_
+_更新時間：2026-06-20 06:59:58_
+_本檔包含 3818 則快訊，約 655645 字_
+
+---
+
+### 2026-06-20 06:58:29  #國際
+
+【歐盟峰會聚焦安全、擴員等多項議題 內部分歧凸顯】當地時間18日至19日，歐盟成員國領導人在布魯塞爾舉行峰會。除討論總額約2萬億歐元的長期預算案外，烏克蘭問題再次成為會議焦點。分析人士認為，隨著俄烏衝突持續和歐盟東擴程序推進，歐盟正面臨安全、擴員與資源分配等多重挑戰，內部協調壓力不斷加大。（央視新聞）
+
+---
+
+### 2026-06-20 06:57:58  #國際
+
+【報道：特朗普特使威特科夫趕赴瑞士，為美伊潛在核談判鋪路】一名美國官員透露，白宮特使史蒂夫・威特科夫已動身前往瑞士，美伊計劃在當地舉行首輪談判，商討擬定新核協議。原定於本週五開啟的談判被迫延後，導火索是以色列與黎巴嫩真主黨發生交火。目前談判新時間尚未敲定，也暫無訊息顯示其他美方官員會同赴瑞士。
+
+---
+
+### 2026-06-20 06:56:14  #兩會
+
+【赤道幾內亞總統重新任命恩蘇埃為總理】赤道幾內亞總統奧比昂19日簽署法令，重新任命曼努埃爾·奧薩·恩蘇埃·恩蘇阿為政府總理，負責行政協調。據赤道幾內亞政府官網19日晚釋出的訊息，該法令是在赤幾內閣集體辭職三天後簽署釋出的。（新華社）
+
+---
+
+### 2026-06-20 06:55:11  #國際
+
+【普京：俄方和東盟致力於構建多極世界秩序】17日至19日，俄羅斯—東盟建立對話關係35週年紀念峰會在喀山舉行。18日，峰會舉行全體會議，俄羅斯和東盟國家領導人出席，各方就國際和地區熱點問題交換了意見。俄羅斯總統普京表示，俄羅斯和東盟國家致力於構建公正民主的多極世界秩序。峰會透過了《喀山宣言》等四份檔案。檔案指出，俄羅斯與東盟將加強政治對話，鞏固互信和推動高層協作。雙方將促進在安全、貿易、投資、能源、糧食、交通、數字化和人工智慧等領域的合作。此外，雙方都將推動東盟與歐亞經濟聯盟和上海合作組織間夥伴關係的發展。（央視）
+
+---
+
+### 2026-06-20 06:54:38  #國際
+
+市場訊息：美國特使威特科夫前往瑞士參加伊朗問題會談。
+
+---
+
+### 2026-06-20 06:46:55  #國際
+
+【中方支援緬甸走符合本國國情的發展道路】中國常駐聯合國副代表孫磊19日在聯大緬甸問題非正式會議上發言，表示中方堅定支援緬方走符合本國國情的發展道路。 孫磊說，今年以來，緬甸舉行大選，新政府順利施政，全力推進國內和平與發展。作為友好鄰邦，中方堅定支援緬方走符合本國國情、得到人民擁護的發展道路，堅定支援緬方維護國家主權、安全、領土完整和民族尊嚴，堅定支援緬方實現國家和平穩定、民族和解、社會和諧、長治久安。（新華社）
+
+---
+
+### 2026-06-20 06:45:03  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Depreciates by 1.04% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.04% decrease.
+
+---
+
+### 2026-06-20 06:43:34  #國際
+
+【美國內華達州一熱氣球墜落 致多人重傷】當地時間6月19日，據美國方面訊息，內華達州南部一熱氣球發生墜落事故，造成多人嚴重受傷。警方釋出的事故現場照片顯示，熱氣球吊籃倒在沙地上，球體部分散落在地面。美國聯邦航空管理局表示，事故發生在當地時間18日7時左右，當時熱氣球上共有10人，隨後發生“硬著陸”。（央視新聞）
+
+---
+
+### 2026-06-20 06:40:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Palm Oil Gains by 1.60% — Top commodity gainers are Palm Oil (1.60%), Rapeseed (0.51%) and Wool (0.51%). Biggest loser is Coffee (-0.73%).
+
+---
+
+### 2026-06-20 06:35:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 2.30% — Top commodity losers are Platinum (-2.30%), Gold (-1.38%) and Silver (-1.29%).
 
 ---
 
@@ -22952,41 +23012,5 @@ Swiss National Bank chairman said the bank offers no forward guidance and will d
 ### 2026-06-18 16:31:51  #MKT News #Market Themes #Crypto Concepts #Market Regions #Greater China #0388.HK #Impact bullish
 
 【HKEX, HKMA pilot digital HKD for after-hours derivatives margin payments】On June 18, Hong Kong Exchange (HKEX) and the Hong Kong Monetary Authority (HKMA) launched a joint pilot to study a digital Hong Kong dollar — a wholesale central bank digital currency operating 24/7 — for pre-funded margin payments in after-hours derivatives trading. The pilot aims to support growing demand for post-close trading and improve risk management outside bank business hours while keeping existing operational workflows unchanged.
-
----
-
-### 2026-06-18 16:31:16  #市場
-
-土耳其主要銀行指數<.XBANK>漲幅擴大，上漲3.5%，土耳其主要BIST 100指數上漲1.5%。
-
----
-
-### 2026-06-18 16:31:09  #公司
-
-【廣鋼氣體：目前無六氟化鎢相關產品銷售】廣鋼氣體今日在互動平臺表示，公司目前無六氟化鎢相關產品銷售。另外，卡達天然氣工廠有望恢復正常生產。公司擁有中東、北美、歐洲多區域氦氣氣源，具備全球化氦氣資源調配能力，有能力應對氣源供應波動，切實保障我國高階產業對氦氣資源的穩定需求。
-
----
-
-### 2026-06-18 16:30:49  #Trading Economics #Economy #Euro Area #Current Account #Importance 1
-
-Eurozone Current Account Surplus Shrinks in April — The Eurozone’s current account surplus fell to €14.88 billion in April 2026, down from €20.84 billion a year earlier, driven by a drop in the goods surplus to €14.25 billion, the lowest since April 2023, compared to €25.79 billion in April 2025. Meanwhile, the services surplus grew to €15.55 billion from €11.07 billion, the primary income deficit narrowed to €1.04 billion from €1.91 billion, and the secondary income gap decreased slightly to €13.88 billion from €14.10 billion. Over the first four months of 2026, the current account surplus totaled €75.86 billion, down from €81.64 billion in the same period of 2025.
-
----
-
-### 2026-06-18 16:30:20  #公司 #市場
-
-【香港將推出五年期國債期貨】香港證券及期貨事務監察委員會（香港證監會）欣然宣佈，香港計劃於2026年8月3日推出五年期國債期貨。經評估市場需求及宏觀環境後，五年期國債被選為首先在香港交易及結算所有限公司（香港交易所）買賣的國債期貨合約的相關資產。香港交易所一直就須獲證監會批准的國債期貨的推出作必要準備，並將另行公佈合約細節。
-
----
-
-### 2026-06-18 16:30:20  #MKT News #Market Regions #Greater China
-
-【Hong Kong to launch five-year government bond futures】The SFC said Hong Kong plans to launch five-year government bond futures on HKEX on 3 Aug 2026. After assessing market demand and the macro environment, the five-year tenor was selected as the underlying for the first bond futures contract to trade and settle on HKEX. HKEX has been preparing the product pending SFC approval; contract specifications will be announced separately.
-
----
-
-### 2026-06-18 16:30:18  #公司
-
-【天永智慧：中標4680萬元混動L5線裝置匯入專案】天永智慧公告，公司於近日收到東風國際招標有限公司關於智新科技股份有限公司混動L5線裝置匯入專案的中標通知書，確定公司為中標單位，中標金額為4680萬元。該專案簽訂正式合同並順利實施後，預計將對公司經營業績產生積極影響，但不影響公司經營的獨立性。公司尚需與招標方簽訂正式合同，存在一定不確定性。
 
 ---

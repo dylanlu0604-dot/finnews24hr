@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 06:32:18_
-_本檔包含 3457 則快訊，約 655436 字_
+_更新時間：2026-06-20 06:59:58_
+_本檔包含 3465 則快訊，約 655434 字_
+
+---
+
+### 2026-06-16 18:37:59  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+【U.S. and Iran to sign temporary peace deal Friday; G7 to assist mine‑clearing in Strait of Hormuz】The U.S. and Iran are preparing to formally sign a temporary peace agreement in Switzerland on Friday; both sides claim victory. Oil traders and shippers remain uncertain how quickly navigation through the Strait of Hormuz will resume. Trump is attending the G7 summit in France, and G7 members are expected to play a central role in any mine‑clearing operations to restore shipping. A G7 official said Italy’s defense minister Crosetto met U.S. defense secretary Hegseth in Washington on Monday to discuss an Italian task group of four vessels for the Strait, including two minehunters currently deployed to Djibouti and being readied for the mission.
+
+---
+
+### 2026-06-16 18:37:58  #公司
+
+【*ST雲創：公司股票將終止上市】*ST雲創公告，公司於2026年6月9日收到北京證券交易所出具的《關於南京雲創大資料科技股份有限公司股票終止上市的決定》，北京證券交易所決定公司股票終止上市。根據相關規定，公司可以於收到本決定之日起15個交易日內，就終止上市事項提交複核申請。目前，公司尚未就終止上市事項提交複核申請。
+
+---
+
+### 2026-06-16 18:37:55  #國際
+
+波蘭總理圖斯克：政府將於週二透過草案，對燃料銷售的意外利潤徵稅。
+
+---
+
+### 2026-06-16 18:37:25  #國際
+
+全球基金在交易日前淨買入價值101億盧比的印度股票。
+
+---
+
+### 2026-06-16 18:37:06  #國際
+
+市場訊息：歐洲議會投票透過了實施歐美貿易協定的立法。
+
+---
+
+### 2026-06-16 18:36:46  #MKT News
+
+Polish Prime Minister Tusk said the government will adopt a draft on Tuesday to levy a windfall profits tax on fuel sales.
+
+---
+
+### 2026-06-16 18:36:40  #MKT News #Star Stocks #Xiaomi #01810.HK #Impact bullish
+
+Xiaomi Group (01810.HK) repurchased 4 mln Class B shares on June 16, spending about HK$100 mln.
+
+---
+
+### 2026-06-16 18:35:37  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bullish #S&P500 #DXY #Impact bearish
+
+European Parliament voted to approve legislation removing many EU import tariffs on U.S. goods, a key element of the U.S.-EU trade agreement reached in July 2025.
+
+---
+
+### 2026-06-16 18:35:23  #公司
+
+【愛立信任命Per Narvinger為新任總裁兼執行長】6月16日，愛立信宣佈任命現任執行副總裁兼網路業務部主管Per Narvinger為新任總裁兼執行長。Borje Ekholm將於2026年9月30日卸任，並擔任新任CEO的執行顧問至2027年6月15日。
+
+---
+
+### 2026-06-16 18:35:11  #MKT News #Market Themes #AI Revolution
+
+【Sugon launches YuanRong financial digital-intelligence solution】Sugon said on June 16 at the 2026 China International Financial Expo in Shanghai that Li Liu, vice president of Sugon Beijing, unveiled the YuanRong financial digital-intelligence solution at the opening ceremony. The company says the solution targets infrastructure bottlenecks from scaled deployment of financial AI agents.
+
+---
+
+### 2026-06-16 18:35:03  #公司
+
+【佑駕創新：簽署1000臺無人物流車採購及長期合作協議】佑駕創新公告，本集團近期與一家位於無錫市的獨立第三方企業正式簽署無人物流車採購及長期合作協議。根據協議，合作方及合作方協助對接的第三方將向本集團採購合計1000臺無人物流車及配套軟體系統，所涉車型包括T5、T8及合作期內上市的其他無人物流車產品。本次合作標誌本集團無人物流車相關業務在商業化落地與市場拓展方面取得重要進展，將主要應用於城配、市縣級行政區供配以及物流“最後一公里”等場景。
+
+---
+
+### 2026-06-16 18:34:36  #公司 #國際
+
+市場訊息：烏克蘭總統澤連斯基釋出的照片顯示，他在七國集團（G7）峰會期間會見美國總統特朗普和美國國務卿魯比奧。
+
+---
+
+### 2026-06-16 18:34:34  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Qatar's foreign ministry spokesman said it hopes the memorandum of understanding will help keep navigation through the Strait of Hormuz open, enabling Qatar to continue supplying LNG.
+
+---
+
+### 2026-06-16 18:34:24  #MKT News
+
+A photo released by Ukrainian President Zelenskiy shows he met US President Trump and US Secretary of State Rubio at the G7 summit.
+
+---
+
+### 2026-06-16 18:33:42  #國際
+
+卡達外交部發言人：我們希望該諒解備忘錄將有助於開放霍爾木茲海峽的航行通道，使卡達能夠繼續供應液化天然氣。
+
+---
+
+### 2026-06-16 18:33:17  #公司
+
+【東芯股份：公司1xnm快閃記憶體產品已實現量產並實現產品銷售】東芯股份釋出投資者關係活動記錄表公告，儲存晶片方面，公司1xnm快閃記憶體產品已實現量產並實現產品銷售，設計與工藝持續最佳化；穩步推進2xnm製程SLCNANDFlash系列研發，持續擴充產品料號；基於48nm及55nm製程推進中高容量NORFlash產品研發；DRAM方面已實現DDR3(L)、LPDDR1/2/4X及PSRAM量產；持續研發更多MCP容量組合方案；車規級產品方面，多款型號已透過AEC-Q100驗證，公司已透過IATF16949:2016質量管理體系第三方符合性認證，併成功完成多家整車廠的白名單匯入。
 
 ---
 
@@ -20803,53 +20899,5 @@ Shanghai Stock Exchange website shows Shanghai Suiruan Technology Co., Ltd.'s IP
 ### 2026-06-15 17:08:17  #公司
 
 【諾思格：控股股東艾仕控股未減持95.6萬股並提前終止計劃】諾思格公告，公司控股股東ACE UNION HOLDING LIMITED（艾仕聯合投資控股有限公司，簡稱“艾仕控股”）原計劃在減持計劃公告發布之日起15個交易日後的3個月內，透過集中競價交易方式減持不超過95.6萬股。截至2026年6月12日，艾仕控股未實施減持，並決定提前終止本次減持計劃。目前艾仕控股持有公司股份2753.28萬股，佔剔除回購專用證券賬戶後總股本的28.6826%。
-
----
-
-### 2026-06-15 17:08:12  #公司
-
-【燧原科技科創板IPO獲上市委會議透過，公司擬融資金額60億元】燧原科技科創板IPO獲上市委會議透過，公司擬融資金額60億元。
-
----
-
-### 2026-06-15 17:07:43  #市場 #央行 #國際
-
-【歐洲央行管委卡茲米爾：仍需進一步收緊政策抑制通脹】歐洲央行管委卡茲米爾週一表示，歐洲央行已經邁出了遏制價格壓力的第一步，但越來越明顯的是，仍需採取更多行動，歐洲央行上週四近三年來首次加息，試圖在美以對伊發動戰爭所引發的能源成本飆升進一步蔓延至整個歐元區之前遏制通脹。卡茲米爾在文章中表示：“現在不是自滿和猶豫的時候。更高的能源成本很可能會持續存在，比許多人原先希望的時間更長。即便美國與伊朗剛剛宣佈和平框架協議，中東地區所造成的損害也無法在一夜之間消除。”他表示，如果歐洲央行不採取行動，能源價格上漲帶來的第二輪效應將會顯現。“我們已經邁出了遏制中期價格壓力的第一步，但任務尚未完成。根據當前掌握的資訊，越來越明顯的是，貨幣政策還有更多工作要做。”
-
----
-
-### 2026-06-15 17:07:17  #公司
-
-【合景泰富集團：本公司與若干初始參與債權人訂立了重組支援協議】合景泰富集團(01813.HK)公告宣佈境外債務重組最新進展，在過去幾個月中，本公司及票據持有人小組之成員連同彼等各自的顧問，就重組達成共識進行了建設性的對話。本公司欣然宣佈，於2026年6月15日，本公司與若干初始參與債權人訂立了重組支援協議。該等初始參與債權人包括票據持有人小組成員，彼等持有佔將納入重組的範圍內債務總額未償還本金總額26.1%以上。重組支援協議闡明瞭重組的條款。擬進行的重組旨在：(i)為本公司提供長期道路以穩定業務；(ii)實現可持續的資本結構並提升其資產淨值；及(iii)保護所有利益相關者的權益並實現價值最大化。
-
----
-
-### 2026-06-15 17:07:14  #公司 #觀點
-
-【中金公司：收到上交所關於受理公司換股吸收合併東興證券、信達證券申請的通知】中金公司公告，公司擬透過向東興證券全體A股換股股東發行A股股票、向信達證券全體A股換股股東發行A股股票的方式，換股吸收合併東興證券、信達證券。2026年6月12日，公司收到上海證券交易所出具的《關於受理中國國際金融股份有限公司換股吸收合併東興證券股份有限公司與信達證券股份有限公司申請的通知》。上交所決定予以受理並依法進行稽核。本次交易尚需上交所稽核透過、中國證券監督管理委員會及其他有權機構的批准、核准、註冊或同意後方可正式實施，能否實施尚存在不確定性。
-
----
-
-### 2026-06-15 17:07:11  #公司 #市場
-
-【三羊馬：股價異常波動 2025 年及 2026 年 Q1 業績均虧損】三羊馬公告稱，公司股票交易價格連續 3 個交易日（2026 年 6 月 11 日、12 日、15 日）內日收盤價格跌幅偏離值累計達 20%，屬異常波動情形。2025 年度，公司營收 12.24 億元，淨虧損 853.69 萬元；2026 年第一季度，營收 2.33 億元，淨虧損 29.82 萬元。公司股價已大幅偏離當前業績，未來可能大幅波動。此外，控股子公司部分銀行賬戶資金被凍結 513.71 萬元，不會對公司經營造成重大影響。
-
----
-
-### 2026-06-15 17:06:54  #市場 #央行 #國際
-
-【三菱日聯：日本央行決策公佈在即，押注日元走弱的頭寸繼續增加】三菱日聯銀行的Lee Hardman在報告中表示，儘管在美國和伊朗達成臨時和平協議後能源價格下跌，但日元仍難以實現有意義的回升。在週二日本央行公佈政策決定之前，做空日元的押注繼續增加。“加息25個基點已被完全反映在預期中，因此不太可能單憑此舉引發日元弱勢的反轉，從而鼓勵了日元空頭頭寸進一步增加。”他說，如果能源價格繼續下跌且對美國加息的押注減少，日本相關部門為支援日元而採取的任何進一步干預措施都將證明更加有效。
-
----
-
-### 2026-06-15 17:06:39  #Trading Economics #Markets #Commodity #Importance 0
-
-Rubber Prices Rebound — Rubber futures rose to around 225 US cents per kilogram in mid-June, rebounding from a two-week low, supported by persistent supply concerns. Although major producers including Thailand, Indonesia, and Malaysia are in their main tapping season (May–October), which typically boosts overall supply due to more favourable growing conditions, forecasts of isolated but very heavy rainfall across northern Thailand, Myanmar, Laos, and northern Vietnam have raised concerns, as prolonged wet conditions can disrupt rubber tapping and limit short-term output. Meanwhile, a US-Iran peace deal has pushed oil prices lower, which could weigh on natural rubber demand as cheaper crude reduces synthetic rubber production costs, making substitutes more competitive. However, the market is more focused on the potential return of rubber demand from the Middle East following the preliminary agreement to end the war.
-
----
-
-### 2026-06-15 17:06:39  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #Brent
-
-【Israel five-year CDS falls to near three-year low after US‑Iran agreement to end conflict】Cost of insuring five-year Israeli sovereign debt dropped to near a three-year low after the US and Iran agreed to halt hostilities. S&P GLOBAL MARKET INTELLIGENCE shows the five-year CDS at 50 bps, the lowest level since Sept 2023. eToro strategist Lale Akoner said markets eased after the agreement and steps to reopen the Strait of Hormuz, a key oil shipping route.
 
 ---

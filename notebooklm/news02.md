@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-20 06:32:18_
-_本檔包含 3547 則快訊，約 655925 字_
+_更新時間：2026-06-20 06:59:58_
+_本檔包含 3546 則快訊，約 655084 字_
+
+---
+
+### 2026-06-18 16:31:16  #市場
+
+土耳其主要銀行指數<.XBANK>漲幅擴大，上漲3.5%，土耳其主要BIST 100指數上漲1.5%。
+
+---
+
+### 2026-06-18 16:31:09  #公司
+
+【廣鋼氣體：目前無六氟化鎢相關產品銷售】廣鋼氣體今日在互動平臺表示，公司目前無六氟化鎢相關產品銷售。另外，卡達天然氣工廠有望恢復正常生產。公司擁有中東、北美、歐洲多區域氦氣氣源，具備全球化氦氣資源調配能力，有能力應對氣源供應波動，切實保障我國高階產業對氦氣資源的穩定需求。
+
+---
+
+### 2026-06-18 16:30:49  #Trading Economics #Economy #Euro Area #Current Account #Importance 1
+
+Eurozone Current Account Surplus Shrinks in April — The Eurozone’s current account surplus fell to €14.88 billion in April 2026, down from €20.84 billion a year earlier, driven by a drop in the goods surplus to €14.25 billion, the lowest since April 2023, compared to €25.79 billion in April 2025. Meanwhile, the services surplus grew to €15.55 billion from €11.07 billion, the primary income deficit narrowed to €1.04 billion from €1.91 billion, and the secondary income gap decreased slightly to €13.88 billion from €14.10 billion. Over the first four months of 2026, the current account surplus totaled €75.86 billion, down from €81.64 billion in the same period of 2025.
+
+---
+
+### 2026-06-18 16:30:20  #公司 #市場
+
+【香港將推出五年期國債期貨】香港證券及期貨事務監察委員會（香港證監會）欣然宣佈，香港計劃於2026年8月3日推出五年期國債期貨。經評估市場需求及宏觀環境後，五年期國債被選為首先在香港交易及結算所有限公司（香港交易所）買賣的國債期貨合約的相關資產。香港交易所一直就須獲證監會批准的國債期貨的推出作必要準備，並將另行公佈合約細節。
+
+---
+
+### 2026-06-18 16:30:20  #MKT News #Market Regions #Greater China
+
+【Hong Kong to launch five-year government bond futures】The SFC said Hong Kong plans to launch five-year government bond futures on HKEX on 3 Aug 2026. After assessing market demand and the macro environment, the five-year tenor was selected as the underlying for the first bond futures contract to trade and settle on HKEX. HKEX has been preparing the product pending SFC approval; contract specifications will be announced separately.
+
+---
+
+### 2026-06-18 16:30:18  #公司
+
+【天永智慧：中標4680萬元混動L5線裝置匯入專案】天永智慧公告，公司於近日收到東風國際招標有限公司關於智新科技股份有限公司混動L5線裝置匯入專案的中標通知書，確定公司為中標單位，中標金額為4680萬元。該專案簽訂正式合同並順利實施後，預計將對公司經營業績產生積極影響，但不影響公司經營的獨立性。公司尚需與招標方簽訂正式合同，存在一定不確定性。
 
 ---
 
@@ -21415,47 +21451,5 @@ Ouster與AIM智慧機器公司宣佈達成戰略協議，將數字鐳射雷達�
 ### 2026-06-17 17:52:22  #MKT News #Market Regions #Greater China
 
 【Suizhou (Hubei) aims to build China’s largest mobile emergency-equipment hub by 2030】Suizhou, Hubei, will push its special-purpose vehicle and emergency-equipment industries toward new-energy, intelligent, high-end and integrated manufacturing, and aims for industry output to exceed 100 bln yuan by 2030 to build China’s largest mobile emergency-equipment integrated base and consolidate a national-leading position. The city also plans upgrades in agricultural-product processing and metallurgical building materials, targeting industry clusters of about 100 bln yuan and 50 bln yuan, respectively.
-
----
-
-### 2026-06-17 17:52:13  #Trading Economics #Economy #Namibia #Interest Rate #Importance 1
-
-Namibia Lifts Key Policy Rate to 4.75% — The Bank of Namibia raised its benchmark repo rate by 25 bps to 6.575% during its May 2026 meeting, after keeping it unchanged for three consecutive meetings at 6.50%. The policy stance was deemed appropriate to mitigate inflationary risks, support international reserves, and safeguard the one-to-one link between the Namibian dollar and the South African rand. In its assessment, the MPC noted rising global and domestic inflationary pressures in the near term, despite the US-Iran peace agreement, alongside subdued domestic economic activity and sluggish private sector credit growth.
-
----
-
-### 2026-06-17 17:52:12  #國際
-
-【外交部：日方調查處置闖館事件程序緩慢】針對日本自衛隊現役官員村田晃大非法持刀闖入中國駐日本使館，日本東京地方檢察廳決定延長對村田的鑑定留置時間，繼續調查其是否具備刑事責任能力。外交部發言人林劍17日對此表示，案件發生已經過去將近3個月，日方調查處置程序緩慢，威脅中國駐日使領館安全的惡性事件還在不斷髮生，中方嚴重不滿並已多次提出交涉。（新華社）
-
----
-
-### 2026-06-17 17:51:48  #其他
-
-【湖北隨州力爭2030年建成全國最大的移動應急裝備綜合基地】6月17日，湖北舉行開局起步“十五五” 加力奮進建支點系列新聞釋出會隨州專場。隨州將推動專汽和應急產業向新能化、智慧化、高階化、融合化轉型，力爭2030年產業產值突破1000億元，建成全國最大的移動應急裝備綜合基地，鞏固全國領先優勢。升級農產品加工、冶金建材等傳統業態，力爭產業叢集分別達到1000億元、500億元能級。
-
----
-
-### 2026-06-17 17:51:26  #央行 #其他
-
-【浙江：加大數字經濟核心產業金融支援】一方面，重點是用好科技創新和技術改造再貸款，加強對科技創新和大規模裝置更新的金融服務。緊抓人民銀行總行增加再貸款額度、擴大支援科技創新和裝置更新的企業範圍、擴大支援行業領域等契機，加力對電子資訊、人工智慧等領域的信貸支援。另一方面，加大財政金融協同，積極推動符合條件的科技創新和技術改造貸款同時可享受中央財政貼息支援。下一步，人民銀行浙江省分行將持續抓好工具的落地見效，支援新質生產力發展。（央行）
-
----
-
-### 2026-06-17 17:51:13  #央行 #其他
-
-【浙江：深化“人工智慧+金融”應用】緊扣浙江省“人工智慧+”行動部署，在“人工智慧+金融”領域，力爭形成一批創新應用典型案例。建設金融領域人工智慧高質量資料集，將涵蓋個人信用服務、企業科創金融等重點領域的資料資源，作為金融服務實體經濟的重要支撐。開展金融領域“資料要素×”試點。強化金融科技創新監管工具引領，推動9個“數字金融”領域的專案納入監管沙盒測試。(央行)
-
----
-
-### 2026-06-17 17:50:31  #公司 #國際
-
-韓國總統辦公室訊息：韓國總統李在明在七國集團峰會期間與美國總統特朗普短暫會面。
-
----
-
-### 2026-06-17 17:50:21  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Falls as US-Iran Deal Boosts Supply Hopes — Brent crude oil was below $79 per barrel on Wednesday, hovering at its lowest level since early March amid expectations of a US-Iran deal that could rapidly add supply back to the global market. The potential interim agreement, expected to be signed Friday, could allow Tehran to resume oil exports immediately and ease restrictions on shipping through the Strait of Hormuz, prompting tanker operators to reposition vessels toward the region. The release of more than 100 oil-laden ships currently stuck in the Gulf could further boost supply. The International Energy Agency warned that the conflict may cause a larger-than-expected demand hit and contribute to a renewed global oil surplus. Brent prices have fallen nearly 40% from their conflict peak as geopolitical risk fades. The decline is also easing inflation concerns, with lower fuel prices helping consumers. However, US crude inventories continued to fall, with an industry estimate showing an 8.3 million-barrel draw last week.
 
 ---
