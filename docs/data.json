@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-19 08:04:21",
-  "count": 18995,
+  "updated": "2026-06-19 08:08:11",
+  "count": 19002,
   "items": [
+    {
+      "id": "4944450",
+      "time": "2026-06-19 08:07:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月19日08時00分在新疆阿克蘇地區烏什縣（北緯41.26度，東經78.66度）發生3.2級地震，震源深度10千米。"
+    },
+    {
+      "id": "4944449",
+      "time": "2026-06-19 08:07:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三：日本央行將結合基線情景的兌現可能性及相關風險，考量進一步加息的節奏與時機。"
+    },
+    {
+      "id": "4944448",
+      "time": "2026-06-19 08:07:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4203.38美元/盎司。"
+    },
+    {
+      "id": "4944447",
+      "time": "2026-06-19 08:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，哥倫比亞總檢察長對前總統烏里韋啟動調查，調查涉及他與準軍事組織相關的犯罪行為。"
+    },
+    {
+      "id": "4944446",
+      "time": "2026-06-19 08:06:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三：日本央行預計將根據經濟、物價與金融形勢繼續加息。"
+    },
+    {
+      "id": "4944445",
+      "time": "2026-06-19 08:06:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三：預計通脹趨勢將逐步上行。"
+    },
+    {
+      "id": "4944444",
+      "time": "2026-06-19 08:05:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.9%，至8,829.80點。"
+    },
+    {
+      "id": "4944443",
+      "time": "2026-06-19 08:05:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三：需要關注匯率對經濟的影響。"
+    },
+    {
+      "id": "4944442",
+      "time": "2026-06-19 08:05:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子、 SK海力士股價創歷史新高。"
+    },
+    {
+      "id": "mkt:019edd32-3a2a-7dd8-b08a-9e6ac3baaa91",
+      "time": "2026-06-19 08:05:16",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "Samsung Electronics and SK Hynix shares hit record highs."
+    },
+    {
+      "id": "4944441",
+      "time": "2026-06-19 08:04:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報75.09美元/桶。"
+    },
+    {
+      "id": "4944440",
+      "time": "2026-06-19 08:04:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲2.5個基點，至2.640%。"
+    },
+    {
+      "id": "4944439",
+      "time": "2026-06-19 08:04:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報71923.98點。"
+    },
+    {
+      "id": "4944438",
+      "time": "2026-06-19 08:04:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報78.71美元/桶。"
+    },
+    {
+      "id": "4944437",
+      "time": "2026-06-19 08:04:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI新興市場指數上漲0.6%，創歷史新高。"
+    },
     {
       "id": "mkt:019edd31-1818-7dd8-b08a-9358415f011c",
       "time": "2026-06-19 08:04:02",
@@ -174811,81 +174939,6 @@
         "市場"
       ],
       "text": "MSCI亞太指數上漲2%至269.71點。"
-    },
-    {
-      "id": "mkt:019eb928-1f00-7dd8-afcc-e3d690340769",
-      "time": "2026-06-12 08:07:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 hit 66,000 intraday, up 3.05%."
-    },
-    {
-      "id": "mkt:019eb927-febc-7dd8-afcc-d94098c972d9",
-      "time": "2026-06-12 08:07:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities: ECB likely to pause hikes; limited upside for euro】CITIC Securities says the European Central Bank raised rates 25bps in June as expected, lowered growth forecasts for this year and next and raised inflation forecasts for both years. President Lagarde said the decision was unanimous and necessary, that the neutral rate was not discussed, and she expects inflation to return to target in H2 2027 while providing little forward guidance on the policy path. Derivatives markets price at least one more ECB hike this year, but CITIC expects the ECB will pause further tightening, sees limited room for further euro appreciation and says the dollar index should find support."
-    },
-    {
-      "id": "4931394",
-      "time": "2026-06-12 08:07:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本日經指數漲幅擴大至3%。"
-    },
-    {
-      "id": "4931393",
-      "time": "2026-06-12 08:07:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國交易所因KOSPI 200期貨漲幅達5%，啟動KOSPI指數側車制度，程式交易暫停5分鐘。"
-    },
-    {
-      "id": "4931392",
-      "time": "2026-06-12 08:06:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "日股日經指數高開高走，上漲超2%，全市場個股普漲。"
-    },
-    {
-      "id": "mkt:019eb927-2d64-7dd8-afcc-d74d61d7111a",
-      "time": "2026-06-12 08:06:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Exchange activated an intraday suspension mechanism. Program trading in KOSPI 200 index futures was paused for 5 minutes after the contract rose 5%."
-    },
-    {
-      "id": "4931391",
-      "time": "2026-06-12 08:06:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤上漲1.5%，報8,761.10點。"
-    },
-    {
-      "id": "4931390",
-      "time": "2026-06-12 08:04:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元上漲1%，表現優於亞洲新興市場貨幣。"
     }
   ]
 }
