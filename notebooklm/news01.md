@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 06:04:38_
-_本檔包含 3815 則快訊，約 655698 字_
+_更新時間：2026-06-20 06:32:18_
+_本檔包含 3814 則快訊，約 655735 字_
+
+---
+
+### 2026-06-20 06:30:23  #市場
+
+週五（6月19日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7838元，較週四紐約尾盤跌54點，日內整體交投於6.7759-6.7980元區間。本週，離岸人民幣累計下挫大約200點，跌幅0.3%。
+
+---
+
+### 2026-06-20 06:30:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Gains by 4.56% — Top commodity gainers are Natural Gas UK (4.56%), Natural Gas EU (3.78%), Germany Natural Gas THE (3.71%), Crude Oil WTI (0.95%) and Brent Crude Oil (0.92%). Biggest loser is Natural gas (-1.12%).
+
+---
+
+### 2026-06-20 06:29:08  #宏觀
+
+【德勤：A股上半年IPO預計將達70只，融資近700億元】德勤中國資本市場服務部發布的最新報告顯示，2026年第二季度中國內地新股市場的發行速度加快。報告認為，隨著科創板改革、創業板第四套上市標準出臺，及科創板的估值進一步上揚，預料會有更多來自硬科技企業和一些標誌性新股上市。資料顯示，截至2026年上半年末，預計將有約70只新股在A股市場上市，融資693億元，相對2025年上半年的51只新股融資373億元，新股數量上升37%，而融資金額增加約85%。上交所將成為新股融資額最高的交易所，將從19只IPO融資305億元；深交所將透過16只新股融資275億元；預料北京證券交易所將維持新股數量最多的紀錄（35家），融資額則為113億元。（介面）
+
+---
+
+### 2026-06-20 06:18:46  #國際
+
+卡達首相兼外交大臣在比爾根施托克同瑞士外交部長就美伊協議與地區安全域性勢舉行會談。美伊兩國特使原定於週五在此開啟談判。
+
+---
+
+### 2026-06-20 06:18:18  #國際
+
+【美國一空軍基地暴發流感 已有超160人感染】據美國方面6月19日訊息，知情人士透露，過去幾周內，得克薩斯州拉克蘭空軍基地已有160多名軍人感染流感病毒。空軍發言人在一份宣告中表示，醫療專業人員和公共衛生官員已採取緩解措施，對有症狀的人員進行隔離和治療，以減少進一步接觸，並繼續監測情況。該發言人還表示，出現症狀的人員正在接受“適當治療”，一旦醫療專業人員確認其健康狀況允許，他們將重返訓練。（央視新聞）
+
+---
+
+### 2026-06-20 06:15:20  #公司 #國際
+
+【特朗普在新空軍一號上簽名】特朗普喜提新專機#當地時間6月19日下午，美國總統特朗普在馬里蘭州安德魯斯聯合基地視察了經改裝的、由卡達贈送的波音747-8型飛機，並在飛機上簽名。這架飛機即將交付，加入“空軍一號”專機機隊。這架巨型客機是卡達去年作為禮物贈予特朗普的，已由美國國防承包商進行了翻新，並經過了飛行測試，塗裝採用了特朗普選定的紅、白、深藍和金色配色方案。 據美媒報道，由於進度過快，部分專家擔心這架新“空軍一號”專機的安全性可能不如現有的“空軍一號”。 據悉，美國空軍為了儘快交付這一過渡版本，跳過了下一代總統專機的一些計劃改裝專案。此外，美國政府接受卡達贈送的這架豪華747-8也引發了爭議，有人質疑這是否屬於不當的昂貴禮品。特朗普則駁斥了對這一安排的批評，稱拒收才是“愚蠢”的。 在波音公司根據2018年簽署的39億美元固定價格合同交付兩架專門建造的747-8之前，這架卡達飛機將作為過渡機型使用。波音的“空軍一號”專案已延期四年，預計要到2028年年中才能交付——這一延誤可能導致特朗普在2029年1月任期結束前都無法等到新飛機。（CCTV國際時訊）
+
+---
+
+### 2026-06-20 06:15:02  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Increases by 0.65% — Top currency gainers are Brazilian Real (0.65%), South Korean Won (0.59%), Swedish Krona (0.39%), British Pound (0.19%) and Euro (0.13%). Biggest losers are Australian Dollar (-0.35%), Swiss Franc (-0.32%), New Zealand Dollar (-0.30%) and Dollar Index (-0.06%). Meanwhile Japanese Yen was little changed.
+
+---
+
+### 2026-06-20 06:10:30  #其他
+
+【“德國‘隱形冠軍’無法繞開中國”】德國《法蘭克福匯報》網站6月17日發表題為《中國為何爭取德國中小企業》的文章。內容摘編如下： 中國希望擁有繁榮的中小企業群體，並在這方面以德國為參照。布魯塞爾與北京之間的貿易爭端目前面臨升級風險，中國卻在爭取德國的世界市場領頭羊，其中許多還來自巴登-符騰堡州城市施瓦本哈爾的周邊地區。前不久，在一名前聯邦部長的陪同下，一批來自德國西南部的企業家前往中國。 北京的意圖顯而易見：培育成功的中小企業一直是官方經濟政策的目標之一。2015年釋出的“中國製造2025”產業戰略中提到了一個被稱為“小巨人”的企業群體。北京用這一概念指代那些在德國被稱為“隱形冠軍”的企業，即在各自細分領域處於世界領先地位、高度專業化的中小企業。 赫爾曼·西蒙創造了“隱形冠軍”概念並將其推廣至全球。他說：“‘小巨人’無疑受到了‘隱形冠軍’的啟發。” 長期以來，施瓦本哈爾周邊地區被中國人視為典範。曾任巴登-符騰堡州經濟部長的瓦爾特·多林曾在那裡發起“世界市場領導者峰會”——一個“隱形冠軍”企業的年度聚會。如今，中國也受到啟發，並舉辦類似的會議。（參考訊息）
+
+---
+
+### 2026-06-20 06:06:17  #國際
+
+【特朗普：美伊須60天內達成長期協議 否則將採取進一步行動】當地時間6月19日，美國總統特朗普在安德魯斯聯合基地發表講話時表示，美國和伊朗已簽署諒解備忘錄，雙方將在60天內就長期安排展開談判。特朗普稱，“60天內達成最終協議，否則我們會採取讓他們不高興的行動，但我認為事情不會發展到那一步。”特朗普還稱，美伊諒解備忘錄的達成已使霍爾木茲海峽恢復通航，“大約700艘船正源源不斷駛出”。特朗普還表示與以色列關係良好。（央視新聞）
 
 ---
 
@@ -22934,65 +22988,5 @@ Eurozone Current Account Surplus Shrinks in April — The Eurozone’s current a
 ### 2026-06-18 16:30:18  #公司
 
 【天永智慧：中標4680萬元混動L5線裝置匯入專案】天永智慧公告，公司於近日收到東風國際招標有限公司關於智新科技股份有限公司混動L5線裝置匯入專案的中標通知書，確定公司為中標單位，中標金額為4680萬元。該專案簽訂正式合同並順利實施後，預計將對公司經營業績產生積極影響，但不影響公司經營的獨立性。公司尚需與招標方簽訂正式合同，存在一定不確定性。
-
----
-
-### 2026-06-18 16:30:15  #其他
-
-德國伊弗經濟研究所將2027年經濟增長預測從3月份給出的1.2%下調至0.8%。
-
----
-
-### 2026-06-18 16:30:11  #其他
-
-德國伊弗研究所表示，預計德國今年通脹率為2.9%，2027年通脹率為2.7%。
-
----
-
-### 2026-06-18 16:30:00  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Depreciates by 1.66% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.66% decrease.
-
----
-
-### 2026-06-18 16:29:31  #公司
-
-【富樂德：控股股東一致行動人減持股份致持股比例降超1%】富樂德公告稱，2026年6月15日至17日，控股股東上海申和投資有限公司的一致行動人上海祖貞、上海澤祖透過集中競價減持705.9萬股。本次權益變動前，三者合計持股4.21億股，佔2026年5月22日公司總股本的56.71%；變動後，合計持股4.14億股，佔2026年6月17日公司總股本的55.53%，變動觸及1%整數倍。本次減持與計劃一致，不會導致控股股東及實控人變化，不影響公司治理結構和持續經營。
-
----
-
-### 2026-06-18 16:29:27  #Trading Economics #Economy #Taiwan #Money Supply M2 #Importance 0
-
-Taiwan M2 Money Supply Hits Fresh Record — Taiwan’s broad money supply (M2) rose 7.83% year-on-year to a new record high of TWD 69,973 billion in May 2026, following a 6.45% increase in April. This was driven mainly by stronger growth in lending and investment activity. On a monthly basis, M2 increased 1.12%, bringing the January–May average growth rate to 6.12%. The pickup in money supply reflected firmer credit expansion across the financial system, particularly in claims on the private sector. Meanwhile, lending and investment by all monetary institutions rose 9.36%, up from 8.61% in the previous month, while adjusted lending and investment across all financial institutions increased 7.68%, compared with 7.07% previously, indicating sustained underlying credit momentum.
-
----
-
-### 2026-06-18 16:29:25  #觀點
-
-花旗銀行將新加坡2026年GDP增長預期從3.3%上調至4%。
-
----
-
-### 2026-06-18 16:29:23  #公司
-
-【安通控股：持股5%以上股東及其一致行動人增持股份比例至24%】安通控股公告稱，6月4日至6月18日，股東中外運集裝箱運輸有限公司透過集中競價方式累計增持4231.53萬股，增持比例約佔公司總股本的1.00%。中外運集運及其一致行動人持股比例從23.00%增加至24.00%。本次權益變動為履行增持計劃，不觸及要約收購，未違反承諾，不會導致公司實控人變化，也不涉及披露權益變動報告書。截至公告披露日，增持計劃尚未執行完畢。
-
----
-
-### 2026-06-18 16:28:59  #市場
-
-港股新股海清智元在香港暗盤市場上漲逾250%，報25.4港元/股。
-
----
-
-### 2026-06-18 16:28:41  #公司
-
-【橫店影視：聘任孔振鋼為公司副總經理】橫店影視公告稱，公司於2026年6月18日召開第四屆董事會第十四次會議，審議透過聘任孔振鋼為公司副總經理的議案，任期自本次董事會審議透過之日起至公司第四屆董事會屆滿之日止。孔振鋼曾任東方富海投資管理有限公司投資副總監等職。
-
----
-
-### 2026-06-18 16:28:32  #MKT News
-
-【Prudential Group’s Chen Shuzhi: Digital divide between large and small firms remains acute】Prudential Group’s global head of government affairs and public policy, Chen Shuzhi, said the biggest challenge for small and micro enterprises is access to credit and financial services and that their risk exposures are generally large. The insurance industry aims to help firms reduce those risks. A survey showed 58% of respondent SMEs already use AI tools, narrowing the digital gap with larger firms, but SMEs still struggle to access digital platforms, infrastructure and alternative financing channels. Forty percent of surveyed SMEs said building cyber-resilient digital infrastructure would cost about $100,000 — a level that could force some firms into bankruptcy.
 
 ---

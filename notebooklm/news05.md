@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-20 06:04:38_
-_本檔包含 3610 則快訊，約 655359 字_
+_更新時間：2026-06-20 06:32:18_
+_本檔包含 3610 則快訊，約 655595 字_
+
+---
+
+### 2026-06-15 17:06:23  #公司
+
+【中能電氣：全資子公司擬投資1.4億元建設預製艙式變電站及中高壓輸變電產業化專案】中能電氣公告，全資子公司福建中能電氣有限公司擬以自籌資金投資1.4億元建設預製艙式變電站及中高壓輸變電產業化專案，依託現有廠區實施廠房升級改造，建設配電變壓器車間、預製艙式變電站整合裝配車間及高壓組合電器（GIS）車間等。
+
+---
+
+### 2026-06-15 17:05:56  #MKT News #Brent #Impact mixed #WTI
+
+Iranian media Fars News reported Iran will grant vessels a 60-day free transit period, saying the US has accepted a pay-for-transit principle and received only a 60-day concession. After that period expires, Iran plans to monetize commercial transit of the strait by charging for security, navigation, environmental and insurance services and to channel proceeds into the domestic economy.
+
+---
+
+### 2026-06-15 17:05:56  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
+
+【Mitsubishi UFJ Financial Group: Yen short positions rise ahead of Bank of Japan decision】Mitsubishi UFJ Financial Group strategist Lee Hardman says the yen is unlikely to mount a meaningful rebound despite energy prices falling after a temporary US–Iran peace accord. Ahead of the Bank of Japan policy decision on Tuesday, positions betting on a weaker yen have continued to build; a 25bp rate hike is fully priced and is unlikely on its own to reverse yen weakness, encouraging further yen shorting. He adds that if energy prices fall further and markets pare back expectations for US rate hikes, any additional Japanese measures to support the yen would be more effective.
+
+---
+
+### 2026-06-15 17:05:28  #市場 #國際
+
+馬來西亞富時吉隆坡綜合指數收盤上漲 0.5%，報 1691.39 點。
+
+---
+
+### 2026-06-15 17:04:49  #國際
+
+黎巴嫩訊息人士稱，以色列對祖塔爾、馬爾巴卡兩鎮及哈亞姆市發動了空襲與炮火打擊。
+
+---
+
+### 2026-06-15 17:04:46  #公司
+
+【強瑞技術：控股股東減持觸及1%及5%整數倍，持股比例降至50.00%】強瑞技術公告，控股股東寧陽縣強瑞科技發展有限公司於2026年6月15日透過大宗交易方式減持公司股份14.15萬股，佔公司總股本比例0.10%。本次減持後，控股股東及其一致行動人合計持有公司股份7240.89萬股，持股比例由50.10%減少至50.00%，權益變動觸及1%及5%的整數倍。減持與已披露的減持計劃一致，計劃尚未實施完畢。
 
 ---
 
@@ -21822,41 +21858,5 @@ Agricultural Commodities Updates: Cocoa Gains by 2.32% — Top commodity gainers
 ### 2026-06-13 06:35:17  #Trading Economics #Markets #Commodity #Importance 1
 
 Metals Commodities Updates: Platinum Gains by 3.30% — Top commodity gainers are Platinum (3.30%), Copper (2.68%), Lithium Carbonate (2.40%) and Gold (0.22%).
-
----
-
-### 2026-06-13 06:30:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Slumps by 6.97% — Top commodity losers are Natural Gas UK (-6.97%), Natural Gas EU (-6.52%), Germany Natural Gas THE (-5.54%), Brent Crude Oil (-4.06%) and Crude Oil WTI (-3.90%). Gains are led by Natural gas (1.75%) and Ethanol (0.67%).
-
----
-
-### 2026-06-13 06:21:58  #其他
-
-WALL FINANCIAL第一季度總收入、投資及其他收益為3731萬美元。
-
----
-
-### 2026-06-13 06:18:16  #國際
-
-美國法官命令特朗普政府重新安裝從國家公園移除的涉及奴隸制、氣候變化等話題的標誌和展品。
-
----
-
-### 2026-06-13 06:17:48  #公司 #市場
-
-【淡水河谷第一大股東推動召開會議，要求罷免董事長】巴西礦業巨頭、全球最大鐵礦石生產商之一淡水河谷週四表示，公司已收到其最大股東Previ養老基金的請求，要求召開股東大會，就罷免董事長Daniel Andre Stieler一事進行投票。據該礦企在一份監管檔案中披露，Previ提議任命Jose Mauricio Coelho進入淡水河谷董事會，並支援現任董事會成員Manuel Oliveira出任董事長。Previ是巴西國有銀行巴西銀行（Banco do Brasil BBAS3.SA）員工的養老金管理機構。 淡水河谷表示，Previ方面認為，奧利維拉將有助於“加強公司治理實踐、提升戰略管理水平，並使公司更好地契合股東與利益相關者的利益”。這家礦業公司並未公佈其收到的來自Previ的相關檔案。淡水河谷表示，其董事會正在評估召開此次股東大會所需履行的程式步驟。
-
----
-
-### 2026-06-13 06:15:17  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Rises by 1.09% — Top currency gainer is Brazilian Real (1.09%). Biggest losers are Norwegian Krone (-0.28%), Swiss Franc (-0.28%), Japanese Yen (-0.20%), British Pound (-0.11%), Euro (-0.07%) and Dollar Index (-0.05%).
-
----
-
-### 2026-06-13 06:15:10  #市場 #國際
-
-【拉美資產隨中東和平希望提振風險偏好而上漲】隨著市場對中東地區長達數月的衝突即將達成協議抱有越來越高的期望，全球風險偏好回暖，週五大多數拉美資產在席捲全球的做多行情中全面上漲。追蹤拉美股票的MSCI指數上漲1.8%，對應的貨幣指數上漲1.2%。這兩大指數本週均有望錄得漲幅。巴西Bovespa股指小幅下跌0.2%，而雷亞爾則升值0.6%。哥倫比亞比索在週四觸及五年多來的最高水平後，週五回落了0.3%。同樣受中東和平協議希望提振，主要石油進口型新興經濟體的主權債券也出現上漲。Tradeweb資料顯示，肯亞主權債券價格上漲超過2美分。
 
 ---

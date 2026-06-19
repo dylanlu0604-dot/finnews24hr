@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-20 06:04:38_
-_本檔包含 3225 則快訊，約 655390 字_
+_更新時間：2026-06-20 06:32:18_
+_本檔包含 3220 則快訊，約 655434 字_
+
+---
+
+### 2026-06-17 17:50:01  #公司
+
+據港交所檔案：北京融信數聯科技股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-06-17 17:49:34  #公司
+
+【信立泰：首次以3003.12萬元回購0.09%公司股份】信立泰公告，公司於2026年6月17日首次透過回購專用證券賬戶以集中競價交易方式回購公司股份99.96萬股，佔公司目前總股本的0.09%、最高成交價為30.19元/股，最低成交價為29.98元/股，成交總金額為3003.12萬元（不含交易費用）。
+
+---
+
+### 2026-06-17 17:49:27  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Falls as US-Iran Deal Boosts Supply Hopes — Crude oil was below $76 per barrel on Wednesday, hovering at its lowest level since early March amid expectations of a US-Iran deal that could rapidly add supply back to the global market. The potential interim agreement, expected to be signed Friday, could allow Tehran to resume oil exports immediately and ease restrictions on shipping through the Strait of Hormuz, prompting tanker operators to reposition vessels toward the region. The release of more than 100 oil-laden ships currently stuck in the Gulf could further boost supply. The International Energy Agency warned that the conflict may cause a larger-than-expected demand hit and contribute to a renewed global oil surplus. Crude prices have fallen nearly 40% from their conflict peak as geopolitical risk fades. The decline is also easing inflation concerns, with lower fuel prices helping consumers. However, US crude inventories continued to fall, with an industry estimate showing an 8.3 million-barrel draw last week.
+
+---
+
+### 2026-06-17 17:49:16  #公司
+
+【旗濱集團：未針對晶片封裝玻璃專案投資建設量產產線，不存在量產業務及對應營收】旗濱集團釋出股價異動公告，公司正在商議籌劃向特定物件發行股票事項。截至目前，公司向特定物件發行股票方案尚處在籌劃階段，相關方案尚在論證中，該事項存在重大不確定性，公司目前不存在應披露而未披露的重大資訊。截至目前，公司未針對晶片封裝玻璃專案投資建設量產產線，不存在量產業務及對應營收。未來該業務在公司的產業化程序存在重大不確定性。
+
+---
+
+### 2026-06-17 17:48:37  #公司 #國際
+
+【中埃“新希望”養殖技術培訓第二期在埃及啟動】當地時間16日，中國駐埃及大使館與埃及全國民間發展行動聯盟、新希望公司在埃及吉薩省聯合舉辦中埃“新希望”養殖技術培訓第二期啟動儀式。（新華社）
+
+---
+
+### 2026-06-17 17:48:27  #國際
+
+市場訊息：烏克蘭武裝部隊在布良斯克州襲擊了一輛載有來自白俄羅斯兒童的巴士。
+
+---
+
+### 2026-06-17 17:48:17  #其他
+
+【英國駐華大使魏磊訪問延安、梁家河】6月17日，受中聯部邀請，英國駐華大使魏磊（Peter Wilson）參訪延安、梁家河。魏磊也是二十大以來首位參觀訪問梁家河的西方國家駐華大使。（澎湃）
 
 ---
 
@@ -19410,77 +19452,5 @@ A photo released by Ukrainian President Zelenskiy shows he met US President Trum
 ### 2026-06-16 18:33:17  #公司
 
 【東芯股份：公司1xnm快閃記憶體產品已實現量產並實現產品銷售】東芯股份釋出投資者關係活動記錄表公告，儲存晶片方面，公司1xnm快閃記憶體產品已實現量產並實現產品銷售，設計與工藝持續最佳化；穩步推進2xnm製程SLCNANDFlash系列研發，持續擴充產品料號；基於48nm及55nm製程推進中高容量NORFlash產品研發；DRAM方面已實現DDR3(L)、LPDDR1/2/4X及PSRAM量產；持續研發更多MCP容量組合方案；車規級產品方面，多款型號已透過AEC-Q100驗證，公司已透過IATF16949:2016質量管理體系第三方符合性認證，併成功完成多家整車廠的白名單匯入。
-
----
-
-### 2026-06-16 18:32:43  #公司 #市場
-
-【ST百利：股價異常波動 提示業績虧損及其他風險】ST百利公告稱，公司股票於2026年6月12日、15日、16日連續3個交易日內收盤價格漲幅偏離值累計超12%，觸及異常波動。經自查，公司生產經營正常，不存在應披露而未披露的重大資訊。公司2025年度淨虧損1.54億元，扣非後淨虧損1.77億元；2026年一季度淨虧損4775.29萬元，扣非後淨虧損4991.96萬元。因2025年財報審計報告觸及相關規定，公司股票自2026年4月28日起被實施其他風險警示。
-
----
-
-### 2026-06-16 18:32:36  #宏觀
-
-【中國人民銀行副行長宣昌能：中國反洗錢工作高質量發展邁入新階段】中國人民銀行副行長宣昌能在中國金融時報發文稱，“十四五”以來，中國人民銀行堅決貫徹落實黨中央、國務院決策部署，依託反洗錢工作部際聯席會議機制，加強反洗錢工作組織協調，著力完善接軌國際規則、具有中國特色的反洗錢法律制度框架，持續健全基於風險的反洗錢監管和預防體系，實現受益所有人資訊管理“從無到有”的重大突破，統籌加大洗錢違法犯罪打擊力度，深入參與反洗錢國際治理，中國反洗錢工作邁入高質量發展新階段。“十五五”規劃綱要提出，要堅持統籌發展和安全，加強國家安全體系和能力建設，提高公共安全治理水平。中國人民銀行將堅定不移貫徹總體國家安全觀，堅持基於風險、系統治理，持續提升反洗錢工作整體效能，更好發揮反洗錢在維護國家安全和金融秩序中的作用。
-
----
-
-### 2026-06-16 18:32:24  #國際
-
-高市早苗對伊朗相關協議表示歡迎，並強調協議亟需落地執行。
-
----
-
-### 2026-06-16 18:32:21  #MKT News
-
-SpaceX (SPCX.O): transaction values Anysphere equity at $60 billion.
-
----
-
-### 2026-06-16 18:31:53  #國際
-
-SpaceX：據美國證券交易委員會檔案，對AnySphere的合併交易預計於 2026 年第三季度完成。
-
----
-
-### 2026-06-16 18:31:40  #MKT News #Important #SPCX.O
-
-U.S. SEC filing shows SpaceX (SPCX.O) will acquire Anysphere via a merger.
-
----
-
-### 2026-06-16 18:31:35  #其他
-
-據SEC檔案披露， SpaceX對AnySphere的合併交易估值為600億美元。
-
----
-
-### 2026-06-16 18:31:04  #央行 #國際
-
-【凱投宏觀：美聯儲本週按兵不動無懸念，沃什首秀“鷹派風險”不可忽視】凱投宏觀認為美聯儲本週按兵不動幾乎板上釘釘。該機構北美首席經濟學家Stephen Brown推測，沃什不會提出自己的利率預測，但在新聞釋出會上仍會被問及他的看法。Brown表示：“市場的風險在於，沃什的發言可能比預期更偏鷹派——要麼是因為溝通失誤，要麼僅僅是因為他現在的立場已不如爭取特朗普總統提名時那麼鴿派。”但Brown同時警告，如果沃什感覺受制於特朗普，那麼過於明顯的鴿派基調將重新引發對美聯儲獨立性的擔憂，並可能推高長端債券收益率。Brown表示，目前12月和明年初進行兩次“保險性加息”的可能性很大。
-
----
-
-### 2026-06-16 18:30:36  #國際
-
-政府資料顯示，截至 6 月 1 日，印度大米庫存達 6843 萬噸，較去年的 5960 萬噸有所上升。
-
----
-
-### 2026-06-16 18:30:25  #國際
-
-政府資料顯示，截至6月1日，印度小麥庫存為5341萬噸，高於去年同期的3693萬噸。
-
----
-
-### 2026-06-16 18:30:18  #市場
-
-巴基斯坦卡拉奇證券交易所 KSE-100 指數盤中暫漲 1.9%，報 180503.40 點 。
-
----
-
-### 2026-06-16 18:30:17  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-The SENSEX Index Closes 0.74% Higher — The SENSEX Index went up by 562 points or 0.74 percent on Tuesday to close at 76827 points. The rise was led by HCL Tech (3.64%), NTPC (2.24%) and Bajaj Finserv (2.12%). On the downside, the weakerst performers were Maruti Suzuki (-0.85%), Tata Motors (-0.63%) and UltraTech Cement (-0.62%).
 
 ---

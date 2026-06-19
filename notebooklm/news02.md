@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-20 06:04:38_
-_本檔包含 3544 則快訊，約 655127 字_
+_更新時間：2026-06-20 06:32:18_
+_本檔包含 3547 則快訊，約 655925 字_
+
+---
+
+### 2026-06-18 16:30:15  #其他
+
+德國伊弗經濟研究所將2027年經濟增長預測從3月份給出的1.2%下調至0.8%。
+
+---
+
+### 2026-06-18 16:30:11  #其他
+
+德國伊弗研究所表示，預計德國今年通脹率為2.9%，2027年通脹率為2.7%。
+
+---
+
+### 2026-06-18 16:30:00  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Depreciates by 1.66% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.66% decrease.
+
+---
+
+### 2026-06-18 16:29:31  #公司
+
+【富樂德：控股股東一致行動人減持股份致持股比例降超1%】富樂德公告稱，2026年6月15日至17日，控股股東上海申和投資有限公司的一致行動人上海祖貞、上海澤祖透過集中競價減持705.9萬股。本次權益變動前，三者合計持股4.21億股，佔2026年5月22日公司總股本的56.71%；變動後，合計持股4.14億股，佔2026年6月17日公司總股本的55.53%，變動觸及1%整數倍。本次減持與計劃一致，不會導致控股股東及實控人變化，不影響公司治理結構和持續經營。
+
+---
+
+### 2026-06-18 16:29:27  #Trading Economics #Economy #Taiwan #Money Supply M2 #Importance 0
+
+Taiwan M2 Money Supply Hits Fresh Record — Taiwan’s broad money supply (M2) rose 7.83% year-on-year to a new record high of TWD 69,973 billion in May 2026, following a 6.45% increase in April. This was driven mainly by stronger growth in lending and investment activity. On a monthly basis, M2 increased 1.12%, bringing the January–May average growth rate to 6.12%. The pickup in money supply reflected firmer credit expansion across the financial system, particularly in claims on the private sector. Meanwhile, lending and investment by all monetary institutions rose 9.36%, up from 8.61% in the previous month, while adjusted lending and investment across all financial institutions increased 7.68%, compared with 7.07% previously, indicating sustained underlying credit momentum.
+
+---
+
+### 2026-06-18 16:29:25  #觀點
+
+花旗銀行將新加坡2026年GDP增長預期從3.3%上調至4%。
+
+---
+
+### 2026-06-18 16:29:23  #公司
+
+【安通控股：持股5%以上股東及其一致行動人增持股份比例至24%】安通控股公告稱，6月4日至6月18日，股東中外運集裝箱運輸有限公司透過集中競價方式累計增持4231.53萬股，增持比例約佔公司總股本的1.00%。中外運集運及其一致行動人持股比例從23.00%增加至24.00%。本次權益變動為履行增持計劃，不觸及要約收購，未違反承諾，不會導致公司實控人變化，也不涉及披露權益變動報告書。截至公告披露日，增持計劃尚未執行完畢。
+
+---
+
+### 2026-06-18 16:28:59  #市場
+
+港股新股海清智元在香港暗盤市場上漲逾250%，報25.4港元/股。
+
+---
+
+### 2026-06-18 16:28:41  #公司
+
+【橫店影視：聘任孔振鋼為公司副總經理】橫店影視公告稱，公司於2026年6月18日召開第四屆董事會第十四次會議，審議透過聘任孔振鋼為公司副總經理的議案，任期自本次董事會審議透過之日起至公司第四屆董事會屆滿之日止。孔振鋼曾任東方富海投資管理有限公司投資副總監等職。
+
+---
+
+### 2026-06-18 16:28:32  #MKT News
+
+【Prudential Group’s Chen Shuzhi: Digital divide between large and small firms remains acute】Prudential Group’s global head of government affairs and public policy, Chen Shuzhi, said the biggest challenge for small and micro enterprises is access to credit and financial services and that their risk exposures are generally large. The insurance industry aims to help firms reduce those risks. A survey showed 58% of respondent SMEs already use AI tools, narrowing the digital gap with larger firms, but SMEs still struggle to access digital platforms, infrastructure and alternative financing channels. Forty percent of surveyed SMEs said building cyber-resilient digital infrastructure would cost about $100,000 — a level that could force some firms into bankruptcy.
 
 ---
 
@@ -21397,47 +21457,5 @@ Namibia Lifts Key Policy Rate to 4.75% — The Bank of Namibia raised its benchm
 ### 2026-06-17 17:50:21  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Falls as US-Iran Deal Boosts Supply Hopes — Brent crude oil was below $79 per barrel on Wednesday, hovering at its lowest level since early March amid expectations of a US-Iran deal that could rapidly add supply back to the global market. The potential interim agreement, expected to be signed Friday, could allow Tehran to resume oil exports immediately and ease restrictions on shipping through the Strait of Hormuz, prompting tanker operators to reposition vessels toward the region. The release of more than 100 oil-laden ships currently stuck in the Gulf could further boost supply. The International Energy Agency warned that the conflict may cause a larger-than-expected demand hit and contribute to a renewed global oil surplus. Brent prices have fallen nearly 40% from their conflict peak as geopolitical risk fades. The decline is also easing inflation concerns, with lower fuel prices helping consumers. However, US crude inventories continued to fall, with an industry estimate showing an 8.3 million-barrel draw last week.
-
----
-
-### 2026-06-17 17:50:01  #公司
-
-據港交所檔案：北京融信數聯科技股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-17 17:49:34  #公司
-
-【信立泰：首次以3003.12萬元回購0.09%公司股份】信立泰公告，公司於2026年6月17日首次透過回購專用證券賬戶以集中競價交易方式回購公司股份99.96萬股，佔公司目前總股本的0.09%、最高成交價為30.19元/股，最低成交價為29.98元/股，成交總金額為3003.12萬元（不含交易費用）。
-
----
-
-### 2026-06-17 17:49:27  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Falls as US-Iran Deal Boosts Supply Hopes — Crude oil was below $76 per barrel on Wednesday, hovering at its lowest level since early March amid expectations of a US-Iran deal that could rapidly add supply back to the global market. The potential interim agreement, expected to be signed Friday, could allow Tehran to resume oil exports immediately and ease restrictions on shipping through the Strait of Hormuz, prompting tanker operators to reposition vessels toward the region. The release of more than 100 oil-laden ships currently stuck in the Gulf could further boost supply. The International Energy Agency warned that the conflict may cause a larger-than-expected demand hit and contribute to a renewed global oil surplus. Crude prices have fallen nearly 40% from their conflict peak as geopolitical risk fades. The decline is also easing inflation concerns, with lower fuel prices helping consumers. However, US crude inventories continued to fall, with an industry estimate showing an 8.3 million-barrel draw last week.
-
----
-
-### 2026-06-17 17:49:16  #公司
-
-【旗濱集團：未針對晶片封裝玻璃專案投資建設量產產線，不存在量產業務及對應營收】旗濱集團釋出股價異動公告，公司正在商議籌劃向特定物件發行股票事項。截至目前，公司向特定物件發行股票方案尚處在籌劃階段，相關方案尚在論證中，該事項存在重大不確定性，公司目前不存在應披露而未披露的重大資訊。截至目前，公司未針對晶片封裝玻璃專案投資建設量產產線，不存在量產業務及對應營收。未來該業務在公司的產業化程序存在重大不確定性。
-
----
-
-### 2026-06-17 17:48:37  #公司 #國際
-
-【中埃“新希望”養殖技術培訓第二期在埃及啟動】當地時間16日，中國駐埃及大使館與埃及全國民間發展行動聯盟、新希望公司在埃及吉薩省聯合舉辦中埃“新希望”養殖技術培訓第二期啟動儀式。（新華社）
-
----
-
-### 2026-06-17 17:48:27  #國際
-
-市場訊息：烏克蘭武裝部隊在布良斯克州襲擊了一輛載有來自白俄羅斯兒童的巴士。
-
----
-
-### 2026-06-17 17:48:17  #其他
-
-【英國駐華大使魏磊訪問延安、梁家河】6月17日，受中聯部邀請，英國駐華大使魏磊（Peter Wilson）參訪延安、梁家河。魏磊也是二十大以來首位參觀訪問梁家河的西方國家駐華大使。（澎湃）
 
 ---

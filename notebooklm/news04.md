@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 06:04:38_
-_本檔包含 3451 則快訊，約 655326 字_
+_更新時間：2026-06-20 06:32:18_
+_本檔包含 3457 則快訊，約 655436 字_
+
+---
+
+### 2026-06-16 18:32:43  #公司 #市場
+
+【ST百利：股價異常波動 提示業績虧損及其他風險】ST百利公告稱，公司股票於2026年6月12日、15日、16日連續3個交易日內收盤價格漲幅偏離值累計超12%，觸及異常波動。經自查，公司生產經營正常，不存在應披露而未披露的重大資訊。公司2025年度淨虧損1.54億元，扣非後淨虧損1.77億元；2026年一季度淨虧損4775.29萬元，扣非後淨虧損4991.96萬元。因2025年財報審計報告觸及相關規定，公司股票自2026年4月28日起被實施其他風險警示。
+
+---
+
+### 2026-06-16 18:32:36  #宏觀
+
+【中國人民銀行副行長宣昌能：中國反洗錢工作高質量發展邁入新階段】中國人民銀行副行長宣昌能在中國金融時報發文稱，“十四五”以來，中國人民銀行堅決貫徹落實黨中央、國務院決策部署，依託反洗錢工作部際聯席會議機制，加強反洗錢工作組織協調，著力完善接軌國際規則、具有中國特色的反洗錢法律制度框架，持續健全基於風險的反洗錢監管和預防體系，實現受益所有人資訊管理“從無到有”的重大突破，統籌加大洗錢違法犯罪打擊力度，深入參與反洗錢國際治理，中國反洗錢工作邁入高質量發展新階段。“十五五”規劃綱要提出，要堅持統籌發展和安全，加強國家安全體系和能力建設，提高公共安全治理水平。中國人民銀行將堅定不移貫徹總體國家安全觀，堅持基於風險、系統治理，持續提升反洗錢工作整體效能，更好發揮反洗錢在維護國家安全和金融秩序中的作用。
+
+---
+
+### 2026-06-16 18:32:24  #國際
+
+高市早苗對伊朗相關協議表示歡迎，並強調協議亟需落地執行。
+
+---
+
+### 2026-06-16 18:32:21  #MKT News
+
+SpaceX (SPCX.O): transaction values Anysphere equity at $60 billion.
+
+---
+
+### 2026-06-16 18:31:53  #國際
+
+SpaceX：據美國證券交易委員會檔案，對AnySphere的合併交易預計於 2026 年第三季度完成。
+
+---
+
+### 2026-06-16 18:31:40  #MKT News #Important #SPCX.O
+
+U.S. SEC filing shows SpaceX (SPCX.O) will acquire Anysphere via a merger.
+
+---
+
+### 2026-06-16 18:31:35  #其他
+
+據SEC檔案披露， SpaceX對AnySphere的合併交易估值為600億美元。
+
+---
+
+### 2026-06-16 18:31:04  #央行 #國際
+
+【凱投宏觀：美聯儲本週按兵不動無懸念，沃什首秀“鷹派風險”不可忽視】凱投宏觀認為美聯儲本週按兵不動幾乎板上釘釘。該機構北美首席經濟學家Stephen Brown推測，沃什不會提出自己的利率預測，但在新聞釋出會上仍會被問及他的看法。Brown表示：“市場的風險在於，沃什的發言可能比預期更偏鷹派——要麼是因為溝通失誤，要麼僅僅是因為他現在的立場已不如爭取特朗普總統提名時那麼鴿派。”但Brown同時警告，如果沃什感覺受制於特朗普，那麼過於明顯的鴿派基調將重新引發對美聯儲獨立性的擔憂，並可能推高長端債券收益率。Brown表示，目前12月和明年初進行兩次“保險性加息”的可能性很大。
+
+---
+
+### 2026-06-16 18:30:36  #國際
+
+政府資料顯示，截至 6 月 1 日，印度大米庫存達 6843 萬噸，較去年的 5960 萬噸有所上升。
+
+---
+
+### 2026-06-16 18:30:25  #國際
+
+政府資料顯示，截至6月1日，印度小麥庫存為5341萬噸，高於去年同期的3693萬噸。
+
+---
+
+### 2026-06-16 18:30:18  #市場
+
+巴基斯坦卡拉奇證券交易所 KSE-100 指數盤中暫漲 1.9%，報 180503.40 點 。
+
+---
+
+### 2026-06-16 18:30:17  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.74% Higher — The SENSEX Index went up by 562 points or 0.74 percent on Tuesday to close at 76827 points. The rise was led by HCL Tech (3.64%), NTPC (2.24%) and Bajaj Finserv (2.12%). On the downside, the weakerst performers were Maruti Suzuki (-0.85%), Tata Motors (-0.63%) and UltraTech Cement (-0.62%).
 
 ---
 
@@ -20779,41 +20851,5 @@ Rubber Prices Rebound — Rubber futures rose to around 225 US cents per kilogra
 ### 2026-06-15 17:06:39  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #Brent
 
 【Israel five-year CDS falls to near three-year low after US‑Iran agreement to end conflict】Cost of insuring five-year Israeli sovereign debt dropped to near a three-year low after the US and Iran agreed to halt hostilities. S&P GLOBAL MARKET INTELLIGENCE shows the five-year CDS at 50 bps, the lowest level since Sept 2023. eToro strategist Lale Akoner said markets eased after the agreement and steps to reopen the Strait of Hormuz, a key oil shipping route.
-
----
-
-### 2026-06-15 17:06:23  #公司
-
-【中能電氣：全資子公司擬投資1.4億元建設預製艙式變電站及中高壓輸變電產業化專案】中能電氣公告，全資子公司福建中能電氣有限公司擬以自籌資金投資1.4億元建設預製艙式變電站及中高壓輸變電產業化專案，依託現有廠區實施廠房升級改造，建設配電變壓器車間、預製艙式變電站整合裝配車間及高壓組合電器（GIS）車間等。
-
----
-
-### 2026-06-15 17:05:56  #MKT News #Brent #Impact mixed #WTI
-
-Iranian media Fars News reported Iran will grant vessels a 60-day free transit period, saying the US has accepted a pay-for-transit principle and received only a 60-day concession. After that period expires, Iran plans to monetize commercial transit of the strait by charging for security, navigation, environmental and insurance services and to channel proceeds into the domestic economy.
-
----
-
-### 2026-06-15 17:05:56  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
-
-【Mitsubishi UFJ Financial Group: Yen short positions rise ahead of Bank of Japan decision】Mitsubishi UFJ Financial Group strategist Lee Hardman says the yen is unlikely to mount a meaningful rebound despite energy prices falling after a temporary US–Iran peace accord. Ahead of the Bank of Japan policy decision on Tuesday, positions betting on a weaker yen have continued to build; a 25bp rate hike is fully priced and is unlikely on its own to reverse yen weakness, encouraging further yen shorting. He adds that if energy prices fall further and markets pare back expectations for US rate hikes, any additional Japanese measures to support the yen would be more effective.
-
----
-
-### 2026-06-15 17:05:28  #市場 #國際
-
-馬來西亞富時吉隆坡綜合指數收盤上漲 0.5%，報 1691.39 點。
-
----
-
-### 2026-06-15 17:04:49  #國際
-
-黎巴嫩訊息人士稱，以色列對祖塔爾、馬爾巴卡兩鎮及哈亞姆市發動了空襲與炮火打擊。
-
----
-
-### 2026-06-15 17:04:46  #公司
-
-【強瑞技術：控股股東減持觸及1%及5%整數倍，持股比例降至50.00%】強瑞技術公告，控股股東寧陽縣強瑞科技發展有限公司於2026年6月15日透過大宗交易方式減持公司股份14.15萬股，佔公司總股本比例0.10%。本次減持後，控股股東及其一致行動人合計持有公司股份7240.89萬股，持股比例由50.10%減少至50.00%，權益變動觸及1%及5%的整數倍。減持與已披露的減持計劃一致，計劃尚未實施完畢。
 
 ---
