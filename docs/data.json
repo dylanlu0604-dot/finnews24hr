@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-20 01:45:29",
+  "updated": "2026-06-20 01:49:31",
   "count": 17770,
   "items": [
+    {
+      "id": "mkt:019ee0fe-1950-7dd8-b09a-048b81e15574",
+      "time": "2026-06-20 01:46:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Lebanese official media and medical sources said a drone strike in southern Lebanon after a ceasefire took effect killed two people."
+    },
     {
       "id": "4945385",
       "time": "2026-06-20 01:44:32",
@@ -163676,15 +163688,6 @@
         "市場"
       ],
       "text": "洲際交易所（ICE）：6月9日當週，投機者所持ICE 布倫特原油淨多頭頭寸減少43,609手合約，至208,891手合約，創21周新低。"
-    },
-    {
-      "id": "4933283",
-      "time": "2026-06-13 01:48:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲5%，現報16455.00元。"
     }
   ]
 }
