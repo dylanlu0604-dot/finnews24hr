@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-19 14:02:49",
+  "updated": "2026-06-19 14:07:20",
   "count": 18687,
   "items": [
+    {
+      "id": "mkt:019ede7c-2ea4-7dd8-b08f-1f3a2607816a",
+      "time": "2026-06-19 14:05:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "ECB executive board member Wunsch said he would call for a second rate hike in July if incoming data do not move in the right direction."
+    },
+    {
+      "id": "mkt:019ede7c-1c47-7dd8-b08f-152f75f2bed0",
+      "time": "2026-06-19 14:05:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member Wunsch said if incoming data are inconclusive, there is no need to act hastily."
+    },
+    {
+      "id": "mkt:019ede7b-e7b0-7dd8-b08f-0d69527c838e",
+      "time": "2026-06-19 14:05:22",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB governing council member Wunsch: If services inflation rises, we may consider another 25bp rate hike to ensure safety."
+    },
+    {
+      "id": "em:jjsj_ygsj:202606193776829172",
+      "time": "2026-06-19 14:02:32",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國5月季調後零售銷售環比增長1.2%，預期0.5%。"
+    },
+    {
+      "id": "mkt:019ede79-2252-7dd8-b08f-069f6b7ca156",
+      "time": "2026-06-19 14:02:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 30-year government bond yield rose 7.5 bps to 3.845%, the highest since June 11."
+    },
     {
       "id": "mkt:019ede78-0270-7dd8-b08e-fb2ec68e4c16",
       "time": "2026-06-19 14:01:07",
@@ -14,6 +72,15 @@
         "FTSE100"
       ],
       "text": "Euro Stoxx 50 futures down 0.46%; DAX futures down 0.40%; CAC 40 futures down 0.25%; FTSE futures down 0.23%."
+    },
+    {
+      "id": "em:jjsj_ygsj:202606193776829035",
+      "time": "2026-06-19 14:00:58",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國5月公共部門淨借款232.94億英鎊，預期185億英鎊，前值243.43億英鎊。"
     },
     {
       "id": "4944764",
@@ -31,6 +98,15 @@
         "其他"
       ],
       "text": "英國5月公共部門淨借款 232.94億英鎊，預期185億英鎊，前值243.43億英鎊。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202606193776828983",
+      "time": "2026-06-19 14:00:34",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "德國5月PPI同比增長2.2%，預期2.5%。"
     },
     {
       "id": "mkt:019ede77-7a27-7dd8-b08e-f72d9758c0ba",
@@ -171952,72 +172028,6 @@
         "公司"
       ],
       "text": "【三隻羊大資料公司變更負責人】天眼查App顯示，近日，合肥三隻羊大資料運營有限公司發生工商變更，汪芬慶卸任法定代表人、經理、董事，由杜剛接任法定代表人、董事。該公司成立於2023年6月，註冊資本500萬人民幣，經營範圍包括大資料服務、資料處理和儲存支援服務、資料處理服務等，由三隻羊（合肥）控股集團有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019eba6f-e882-7dd8-afd4-8d7bd1ab7872",
-      "time": "2026-06-12 14:05:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO will optimize deployment of the international force in Kosovo and gradually adjust its current troop levels over the next year."
-    },
-    {
-      "id": "4931920",
-      "time": "2026-06-12 14:05:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本40年期國債收益率7.5%下跌至3.7%。"
-    },
-    {
-      "id": "mkt:019eba6e-c9d2-7dd8-afd4-85741d00d5c7",
-      "time": "2026-06-12 14:04:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "CSI300"
-      ],
-      "text": "【China Jan–May trade improves; AI-related goods trade +52.4% YoY to 4.12 tln yuan, Customs】China Customs data show combined imports and exports of AI-related products — led by industrial robots and including electronic components, computer parts and fiber-optic cable — reached 4.12 tln yuan in Jan–May, up 52.4% YoY."
-    },
-    {
-      "id": "4931918",
-      "time": "2026-06-12 14:04:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元斯托克50指數期貨<STXEc1>上漲1.48%，德國DAX指數期貨<FDXc1>上漲1.39%，富時指數期貨<FFIc1>上漲0.66%。"
-    },
-    {
-      "id": "4931917",
-      "time": "2026-06-12 14:03:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【杭州小龍蝦降價超50%】進入6月，湖北潛江小龍蝦供貨量逐漸減少，央視財經記者在走訪時發現，目前杭州市場上的小龍蝦已經完成了產地輪換，江蘇、安徽和浙江本地產的小龍蝦增多，貨源充足，小龍蝦價格也大幅回落，不少市民直呼實現了“小龍蝦自由”。記者瞭解到，目前中青規格小龍蝦的批發價每斤12元，大青規格小龍蝦每斤16元，跟今年二三月份剛上市時的價格相比，降幅均超過50%。此外，廣闊的海外市場，為小龍蝦開啟了利潤增長空間。今年，多地小龍蝦出口量與貨值雙雙攀升，遠銷歐美及東南亞。（央視財經）"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606123769825516",
-      "time": "2026-06-12 14:03:05",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行管委內格爾：已為7月保留所有選擇 隨時準備再次作出回應】歐洲央行管委內格爾表示，即使戰爭迅速結束，本週的加息也是必要的；衝擊是強烈且持久的，不能簡單地忽視這個衝擊。已為7月保留了所有選擇，一旦需要，央行將隨時準備再次作出回應；由於高能源價格對其他價格的間接影響日益加劇，加息是必要的。"
-    },
-    {
-      "id": "4931916",
-      "time": "2026-06-12 14:02:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "FLUTTER計劃於8月3日起從倫敦證券交易所退市。"
     }
   ]
 }
