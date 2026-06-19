@@ -1,7 +1,109 @@
 {
-  "updated": "2026-06-19 08:00:28",
-  "count": 18997,
+  "updated": "2026-06-19 08:04:21",
+  "count": 18995,
   "items": [
+    {
+      "id": "mkt:019edd31-1818-7dd8-b08a-9358415f011c",
+      "time": "2026-06-19 08:04:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Nikkei 225 rose 1.00% intraday."
+    },
+    {
+      "id": "4944436",
+      "time": "2026-06-19 08:03:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三：日本經濟正在溫和復甦。"
+    },
+    {
+      "id": "4944435",
+      "time": "2026-06-19 08:02:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長：日本經濟正在溫和復甦。"
+    },
+    {
+      "id": "4944434",
+      "time": "2026-06-19 08:02:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "必和必拓股價下跌3.4%，此前該公司宣佈對鉀肥專案計提23億美元費用。"
+    },
+    {
+      "id": "mkt:019edd2f-1381-7dd8-b08a-8ef0f413c520",
+      "time": "2026-06-19 08:01:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 5-year government bond yield rose 2.0 bps to 1.880%."
+    },
+    {
+      "id": "mkt:019edd2f-1227-7dd8-b08a-86aa6a67307f",
+      "time": "2026-06-19 08:01:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "【Japan, South Korea stocks open higher】Tokyo's Nikkei 225 opened up 372.55 points (+0.52%) at 71,426.04 on June 19 (Friday). Seoul's KOSPI opened up 231.44 points (+2.55%) at 9,295.28. Samsung Electronics shares rose 3%."
+    },
+    {
+      "id": "4944432",
+      "time": "2026-06-19 08:01:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債收益率上升2個基點，至1.880%。"
+    },
+    {
+      "id": "4944431",
+      "time": "2026-06-19 08:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本日經平均股指創下歷史新高。"
+    },
+    {
+      "id": "4944430",
+      "time": "2026-06-19 08:00:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲3%。"
+    },
+    {
+      "id": "4944429",
+      "time": "2026-06-19 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.5%，至9288.89點。"
+    },
+    {
+      "id": "4944428",
+      "time": "2026-06-19 08:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報71551.03點，漲幅0.70%。"
+    },
     {
       "id": "mkt:019edd2d-67ff-7dd8-b08a-7cd6d957b2bf",
       "time": "2026-06-19 08:00:00",
@@ -174784,138 +174886,6 @@
         "市場"
       ],
       "text": "韓元兌美元上漲1%，表現優於亞洲新興市場貨幣。"
-    },
-    {
-      "id": "mkt:019eb924-8c56-7dd8-afcc-cb1660d5eec5",
-      "time": "2026-06-12 08:04:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei index extends gains to 2.25%."
-    },
-    {
-      "id": "em:qqyh_mlc:202606123768944557",
-      "time": "2026-06-12 08:03:36",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲將在本輪操作週期內繼續購買約100億美元美國短期國庫券】美聯儲宣佈將在本輪操作週期內繼續購買約100億美元美國短期國庫券，與上個月規模保持一致。儘管當前貨幣市場執行平穩，決策層仍希望提前補充銀行體系流動性，以應對未來數月美國財政部融資需求增加可能帶來的資金壓力。"
-    },
-    {
-      "id": "te:markets:558496",
-      "time": "2026-06-12 08:02:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Rise Ahead of SpaceX IPO — US stock futures moved higher on Friday as investors looked ahead to SpaceX's highly anticipated market debut and cheered signs of easing tensions between the US and Iran. SpaceX is set to start trading on Friday and is expected to become the largest IPO in history. The company priced its shares at $135 each, raising roughly $75 billion and implying a market valuation of about $1.78 trillion. On the geopolitical front, President Donald Trump said a peace deal with Iran could be reached as early as this weekend after delaying planned attacks and warning that the US could target the country's oil infrastructure. Iran's semi-official Fars news agency also reported that Tehran was likely to accept the agreement, although no final text has been approved. In Thursday's regular session, the Dow surged 1.86%, the S&P 500 advanced 1.75%, and the Nasdaq Composite rallied 2.54%."
-    },
-    {
-      "id": "mkt:019eb923-1627-7dd8-afcc-c43a7bb8157d",
-      "time": "2026-06-12 08:02:24",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nikkei 225",
-        "Hang Seng Index"
-      ],
-      "text": "South Korea's KOSPI index extended gains to 7%."
-    },
-    {
-      "id": "mkt:019eb922-de4c-7dd8-afcc-bea6f9633faf",
-      "time": "2026-06-12 08:02:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "Samsung Electronics up 10%, SK Hynix up 9%."
-    },
-    {
-      "id": "4931389",
-      "time": "2026-06-12 08:01:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國首爾綜指日內漲幅擴大至7%。"
-    },
-    {
-      "id": "mkt:019eb922-8aeb-7dd8-afcc-b7f90cefa021",
-      "time": "2026-06-12 08:01:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【KOSPI opens more than 6% higher】Japan's Nikkei 225 opened June 12 up 880.53 pts (+1.37%) at 65,097.80. South Korea's KOSPI opened June 12 up 519.25 pts (+6.69%) at 8,283.2."
-    },
-    {
-      "id": "4931388",
-      "time": "2026-06-12 08:01:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "布倫特原油開盤下跌1.8%，此前特朗普稱美伊接近達成協議。"
-    },
-    {
-      "id": "4931387",
-      "time": "2026-06-12 08:01:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲超過8%。"
-    },
-    {
-      "id": "4931386",
-      "time": "2026-06-12 08:01:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲逾9%。"
-    },
-    {
-      "id": "4931385",
-      "time": "2026-06-12 08:01:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受晶片股飆升提振，韓國綜合股價指數上漲6.5%。"
-    },
-    {
-      "id": "4931384",
-      "time": "2026-06-12 08:00:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲1.6%至268.73點。"
-    },
-    {
-      "id": "4931383",
-      "time": "2026-06-12 08:00:39",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲6.4%，至8263.85點。"
     }
   ]
 }
