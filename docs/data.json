@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-19 10:45:42",
-  "count": 18834,
+  "updated": "2026-06-19 10:49:48",
+  "count": 18826,
   "items": [
+    {
+      "id": "mkt:019eddc8-14ba-7dd8-b08c-c1301a713ed3",
+      "time": "2026-06-19 10:48:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President PEZESHKIAN said the supreme leader's guidance has ensured Iran will achieve a great victory in the upcoming negotiations."
+    },
+    {
+      "id": "4944603",
+      "time": "2026-06-19 10:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英諾賽科現有產品不受德國慕尼黑地區法院訴訟結果影響】6月19日，英諾賽科宣佈，根據慕尼黑地區法院於17日作出的兩項裁決，英諾賽科當前銷售的氮化鎵（“GaN”）功率器件產品不落入英飛凌主張的德國專利保護範圍，因而在德國不受限制。上述裁決與美國國際貿易委員會（“ITC”）上月作出的全體一致裁決高度一致。ITC已認定英諾賽科現有產品未侵犯英飛凌主張的一項涉及封裝設計的美國專利（美國第9,899,481號專利）。慕尼黑地區法院此次審理的正是該專利的德國同族專利(一項發明專利和一項實用新型)。與ITC的結論一致，慕尼黑法院僅認定小部分歷史產品——即某些額定電壓為650V至700V的封裝電晶體產品——構成侵權，而這些產品此前已退出市場。因此，相關禁令不涉及現有產品，對英諾賽科在德國的經營及其客戶對相關產品的使用不產生任何實質性影響。"
+    },
+    {
+      "id": "4944602",
+      "time": "2026-06-19 10:46:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【厄瓜多總統：打擊毒品和有組織犯罪進入新階段】厄瓜多總統丹尼爾·諾沃亞18日宣佈，該國打擊有組織犯罪和毒品販運進入新階段，即“全面進攻”或“全面戰爭”階段。(新華社)"
+    },
     {
       "id": "te:markets:560296",
       "time": "2026-06-19 10:44:25",
@@ -173272,108 +173296,6 @@
         "其他"
       ],
       "text": "【工信部有關負責人介紹資訊通訊行業相關反詐便民服務】一是跨境業務按需辦理，對於沒有國際及港澳臺親友、不從事跨境業務的使用者，可結合自身實際需求，使用該服務關閉境外來電、簡訊接收功能，目前已累計服務使用者5.87億人次。二是全國行動電話卡和網際網路賬號“一證通查”，可一鍵查詢名下手機卡和關聯網際網路賬號情況，及時登出、解綁不需要的電話卡、網際網路賬號，目前已為群眾提供查詢服務超3.7億人次。三是境外來電提醒服務，當使用者接聽境外電話或收到境外簡訊時，提示號碼來源於境外，幫助使用者識別境外來電，已累計提醒使用者25.23億次。四是12381涉詐預警勸阻簡訊系統，主要是透過12381簡訊埠向使用者傳送預警簡訊，及時提醒使用者電信網路詐騙風險，目前已累計傳送預警資訊17.26億條。五是“反詐名片”，可以對公安機關的勸阻號碼統一提示身份，幫助使用者甄別官方勸阻電話，及時阻斷被騙風險，已助力公安機關預警勸阻6.6億次，預警接通率提升32.8%。"
-    },
-    {
-      "id": "4931683",
-      "time": "2026-06-12 10:49:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：核查處置涉詐高風險電話卡近2億張】從公安部今天（12日）召開的新聞釋出會上獲悉，截至2025年底，資訊通訊行業累計核查處置涉詐高風險電話卡近2億張、網際網路賬號超4億個，協助公安機關繳獲用於撥打詐騙電話的“插卡叢集裝置”，也就是俗稱的“貓池”裝置21萬個，打擊非法架設“貓池”裝置的犯罪窩點11.7萬個，從源頭斬斷詐騙通訊鏈條，與200餘家電信和網際網路企業實現技術對接，構建起快速、實時、有效的技防體系，2025年累計攔截詐騙電話、簡訊64.8億次，處置涉詐域名網址超1100萬個。"
-    },
-    {
-      "id": "mkt:019eb9bb-4637-7dd8-afd0-2b19d2d52e5a",
-      "time": "2026-06-12 10:48:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China CSI 300 index futures main contract (IF) rose 2.00% intraday to 4,771.0 points."
-    },
-    {
-      "id": "4931682",
-      "time": "2026-06-12 10:48:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴西對涉中企尼龍長絲作出反傾銷終裁】據中國貿易救濟資訊網，6月9日，巴西外貿委員會管理執行委員會(GECEX)釋出2026年第908號決議，對原產於或進口自中國生產商/出口商義烏華鼎錦綸股份有限公司（Yiwu Huading Nylon Co., Ltd.）的尼龍長絲（葡萄牙語：fios têxteis de filamentos contínuos de náilon）作出反傾銷肯定性終裁，決定對該公司及其關聯生產商/出口商均徵收2192.48美元/噸的反傾銷稅，有效期為5年，其關聯生產商/出口商如下：江西集好新材料有限公司（Jiangxi Jihao New Material Co., Ltd.）、浙江亞特新材料有限公司（Zhejiang Yate New Material Co., Ltd.）、義烏市鼎特新材料有限公司（Yiwu Dingte New Material Co., Ltd.）。但出於公共利益考慮，該措施暫停實施。涉案產品的南共市稅號為5402.31.11、5402.31.19和5402.45.20。本決議自發布之日起生效。"
-    },
-    {
-      "id": "mkt:019eb9bb-0276-7dd8-afd0-27124f321f0e",
-      "time": "2026-06-12 10:48:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "China's CSI 500 index futures (IC) most-active contract rose 3.00% intraday to 8,204.6 points."
-    },
-    {
-      "id": "mkt:019eb9ba-9940-7dd8-afd0-196916acf8c0",
-      "time": "2026-06-12 10:47:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CPCA's Cui Dongshu: May average price of new-energy passenger cars 169,000 yuan, up 7,000 yuan YoY】Cui Dongshu, secretary-general of the CPCA, said price moves are driven chiefly by model mix and sales volume; slower sales growth tends to push market-average prices higher. He reported May average price for new-energy passenger cars at 169,000 yuan, up 7,000 yuan YoY. Broader passenger-car retail averages were 165,000 yuan in 2021, rose to 184,000 yuan in 2024, fell to 168,000 yuan in 2025 (down 16,000 yuan vs 2024), and stood at 173,000 yuan in May 2026, up 4,000 yuan YoY."
-    },
-    {
-      "id": "4931681",
-      "time": "2026-06-12 10:47:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "東山精密成交額達100億元，現漲6%。"
-    },
-    {
-      "id": "mkt:019eb9ba-198f-7dd8-afd0-14304974622b",
-      "time": "2026-06-12 10:47:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Westpac expects the Reserve Bank of Australia to hold rates at its June 15-16 meeting but says further hikes remain possible."
-    },
-    {
-      "id": "4931680",
-      "time": "2026-06-12 10:47:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數期貨上漲2.0%至4,668.60點。"
-    },
-    {
-      "id": "4931679",
-      "time": "2026-06-12 10:46:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Piper Sandler將Adobe目標價格從280美元下調至240美元。"
-    },
-    {
-      "id": "4931678",
-      "time": "2026-06-12 10:45:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科力遠成立雲芯智慧科技公司，含AI業務】企查查APP顯示，近日，廣東科力遠雲芯智慧科技有限公司成立，法定代表人為薛永忠，註冊資本3000萬元，經營範圍包括人工智慧應用軟體開發、人工智慧行業應用系統整合服務、積體電路設計等。企查查股權穿透顯示，該公司由科力遠全資持股。"
-    },
-    {
-      "id": "4931677",
-      "time": "2026-06-12 10:45:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金屬新材料板塊走高】金屬新材料板塊走高，新萊福漲停，安泰科技此前封板，屹通新材、惠同新材、鉑科新材、天力複合、春光集團等跟漲。"
     }
   ]
 }
