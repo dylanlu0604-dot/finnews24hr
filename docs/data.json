@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 02:42:29",
+  "updated": "2026-06-20 02:46:25",
   "count": 17748,
   "items": [
+    {
+      "id": "4945399",
+      "time": "2026-06-20 02:44:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：未來，人類將投入億億萬億美元用於製造反物質，以實現前往其他恆星系統的星際航行。到那時，衡量事物的標準將不再是美元，而是質量與能量。"
+    },
     {
       "id": "mkt:019ee130-9b89-7dd8-b09a-5d8be3548bd0",
       "time": "2026-06-20 02:41:59",
@@ -163467,20 +163475,6 @@
         "Impact bullish"
       ],
       "text": "Hezbollah said, citing information from Iranian officials, that under the agreement Israel will withdraw its forces from Lebanese territory and that Lebanon is included in the Iran-US ceasefire agreement."
-    },
-    {
-      "id": "mkt:019ebd25-45a3-7dd8-afe5-a9d3a6c20950",
-      "time": "2026-06-13 02:43:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Magnificent 7"
-      ],
-      "text": "【SpaceX leases Colossus 1 compute capacity to Anthropic after technical issues】Sources said SpaceX has decided to lease the full capacity of its Memphis Colossus 1 data center to Anthropic after encountering technical challenges developing and running the Grok AI model there. SpaceX had planned a three-site cluster to train frontier models but ran into latency when linking Colossus 1 with two other sites over 10 miles away; aging network infrastructure and hardware heterogeneity—Colossus 1 hosts multiple generations of NVIDIA chips including Hopper and Blackwell plus older accelerators, while Colossus 2 and 3 are built more uniformly around NVIDIA Blackwell—impeded integration."
     }
   ]
 }
