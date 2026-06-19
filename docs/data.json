@@ -1,7 +1,147 @@
 {
-  "updated": "2026-06-20 03:50:11",
-  "count": 17669,
+  "updated": "2026-06-20 03:59:44",
+  "count": 17676,
   "items": [
+    {
+      "id": "4945435",
+      "time": "2026-06-20 03:58:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：赫格塞斯是天生的鬥士，他從不知認輸，性格十分強硬，此人真心熱愛軍隊。"
+    },
+    {
+      "id": "mkt:019ee176-51a8-7dd8-b09b-02ecceee0e2d",
+      "time": "2026-06-20 03:58:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TRUMP said he ended eight wars and that the war with Iran was the toughest."
+    },
+    {
+      "id": "mkt:019ee176-0975-7dd8-b09a-fa4a7ac54510",
+      "time": "2026-06-20 03:57:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Defense Secretary Hegseth is doing very well."
+    },
+    {
+      "id": "mkt:019ee175-d804-7dd8-b09a-f282bf305813",
+      "time": "2026-06-20 03:57:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.12% at New York close】The dollar index, which measures the US dollar against six major currencies, fell 0.12% to 100.729 at the New York FX close on the 19th. EUR/USD rose to 1.1477 from 1.1459; GBP/USD rose to 1.3234 from 1.3203. USD/JPY fell to 161.26 from 161.68. USD/CHF rose to 0.8066 from 0.8051; USD/CAD rose to 1.4174 from 1.4140; USD/SEK fell to 9.5742 from 9.5874."
+    },
+    {
+      "id": "4945434",
+      "time": "2026-06-20 03:57:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，這架飛機是卡達政府贈予美國的。"
+    },
+    {
+      "id": "4945433",
+      "time": "2026-06-20 03:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱美國已在伊朗 “徹底摧毀一切”。"
+    },
+    {
+      "id": "mkt:019ee174-6bd6-7dd8-b09a-e9784bcbb908",
+      "time": "2026-06-20 03:56:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the other Air Force One is about 35 years old and should be replaced."
+    },
+    {
+      "id": "4945432",
+      "time": "2026-06-20 03:54:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：另一架舊專機已有約 35 年機齡，確實到了該更換的時候。"
+    },
+    {
+      "id": "4945431",
+      "time": "2026-06-20 03:53:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：內塔尼亞胡是一名鬥士。"
+    },
+    {
+      "id": "mkt:019ee171-a348-7dd8-b09a-e34dc0b47367",
+      "time": "2026-06-20 03:53:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump says relations with Israel are good."
+    },
+    {
+      "id": "4945430",
+      "time": "2026-06-20 03:52:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱其與以色列關係極佳。"
+    },
+    {
+      "id": "mkt:019ee170-f7b9-7dd8-b09a-da707a9bae1e",
+      "time": "2026-06-20 03:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will visit Turkey."
+    },
+    {
+      "id": "4945429",
+      "time": "2026-06-20 03:51:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（談伊朗）我認為事態不會走到那一步。"
+    },
+    {
+      "id": "mkt:019ee16f-fa99-7dd8-b09a-d0cbb07bec66",
+      "time": "2026-06-20 03:51:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said those ships are leaving the Strait of Hormuz at an unprecedented pace."
+    },
+    {
+      "id": "4945428",
+      "time": "2026-06-20 03:51:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將前往土耳其。"
+    },
+    {
+      "id": "4945427",
+      "time": "2026-06-20 03:50:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國新空軍一號專機亮相】當地時間6月19日，據美國哥倫比亞廣播公司（CBS）報道，美國空軍首次公開展示由卡達贈送、價值約4億美元的波音747-8型飛機。這架新的“空軍一號”總統專機目前已抵達馬里蘭州安德魯斯聯合基地，將先進行“服役認證飛行”，隨後將正式投入使用。美國空軍表示，這架飛機已完成所需改裝和紅白藍塗裝，機艙內部佈局僅作最小程度調整。 美國總統特朗普此前駁斥了“接受外國政府贈送專機存在利益衝突和安全風險”的批評。他表示，這架飛機將暫時充當“空軍一號”，直至波音公司為美國空軍制造的新一代總統專機於2028年交付。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:019ee16e-3367-7dd8-b09a-cd55d839d649",
       "time": "2026-06-20 03:49:16",
@@ -162637,87 +162777,6 @@
         "國際"
       ],
       "text": "伊朗外交部長：安理會成員對該草案文字態度不一，既有支持者也有反對者，但最終會形成集體決議。決議一經作出，將正式對外公佈。"
-    },
-    {
-      "id": "4933395",
-      "time": "2026-06-13 03:57:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞預計 2026 年布倫特原油均價為每桶 85.5 美元。"
-    },
-    {
-      "id": "mkt:019ebd68-6d0a-7dd8-afe6-f9bea3bfae11",
-      "time": "2026-06-13 03:56:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran deputy foreign minister Araghchi said if the final stage of negotiations is completed, the agreement would be signed remotely by both parties and then made public."
-    },
-    {
-      "id": "4933394",
-      "time": "2026-06-13 03:56:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：若最終階段談判完成，協議將由雙方遠端簽署並隨後公佈。"
-    },
-    {
-      "id": "mkt:019ebd65-b001-7dd8-afe6-f13d027628f2",
-      "time": "2026-06-13 03:53:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya, citing sources, reported a U.S. negotiating proposal would allow the Lebanese army to gradually return to areas south of the Litani River."
-    },
-    {
-      "id": "4933393",
-      "time": "2026-06-13 03:53:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿拉伯電視臺援引訊息人士訊息稱，美方談判將促成黎巴嫩軍隊逐步重返利塔尼河以南地區。"
-    },
-    {
-      "id": "4933392",
-      "time": "2026-06-13 03:51:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：關於伊朗被凍結的資金，我們靜觀事態發展。"
-    },
-    {
-      "id": "mkt:019ebd63-49f0-7dd8-afe6-ec05d5bcf439",
-      "time": "2026-06-13 03:51:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran foreign minister says services in Strait of Hormuz will be charged】Iranian media reported on 12 that Foreign Minister Araghchi said, while discussing a draft Iran-US memorandum of understanding, that services related to the Strait of Hormuz will be charged."
-    },
-    {
-      "id": "4933391",
-      "time": "2026-06-13 03:50:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外長：霍爾木茲海峽相關服務將收費】據伊朗媒體12日報道，伊朗外長阿拉格齊當天在談及伊美諒解備忘錄草案時表示，霍爾木茲海峽相關服務將收取費用。 (新華社)"
-    },
-    {
-      "id": "4933390",
-      "time": "2026-06-13 03:50:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "哥倫比亞財政部預計2027年通脹率為4.4%。"
     }
   ]
 }
