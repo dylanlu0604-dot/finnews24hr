@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-20 00:13:28",
-  "count": 17862,
+  "updated": "2026-06-20 00:17:41",
+  "count": 17860,
   "items": [
+    {
+      "id": "te:markets:560535",
+      "time": "2026-06-20 00:13:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Holds Near Record High — The FTSE MIB rose 0.3% to close at 52,849 on Friday, staying near record highs as gains in the energy sector supported the index. Markets remained focused on developments in the Middle East after planned follow-up US-Iran talks in Switzerland were canceled, adding fresh uncertainty to the diplomatic outlook. The news pushed oil prices modestly higher and lifted energy-related stocks, with Eni up 2.4%, Tenaris rising 2%, and Prysmian gaining 3.7%. Defense stocks also advanced on geopolitical concerns, with Leonardo up 1.7%. Financials traded mixed as energy-driven inflation concerns resurfaced, with UniCredit down 0.7% and Banco BPM losing 0.8%, while Intesa Sanpaolo added 0.4% and Generali gained 0.5%. Luxury stocks weakened on higher risk aversion, with Ferrari down 1.9% and Moncler falling 1.7%. Meanwhile, Pierre Wunsch said the European Central Bank may raise interest rates again next month if inflation continues to broaden."
+    },
     {
       "id": "te:markets:560533",
       "time": "2026-06-20 00:12:05",
@@ -164558,32 +164570,6 @@
         "Impact bullish"
       ],
       "text": "【SpaceX options to begin trading next Tuesday】SpaceX (SPCX.O) options will start trading next Tuesday after the stock began trading today. The IPO raised $75 billion at a $1.765 trillion valuation; shares opened at $150, above the $135 IPO price. A spokesperson confirmed options listings on CBOE and Nasdaq. The new options may draw strong demand for directional bets and downside hedges, and a surge in options volume could further lift underlying stock trading demand."
-    },
-    {
-      "id": "4933216",
-      "time": "2026-06-13 00:15:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理：在巴基斯坦持續積極斡旋之際，我們清楚，一些勢力正不斷散佈虛假資訊，企圖破壞這份和平協議。"
-    },
-    {
-      "id": "mkt:019ebc9d-d421-7dd8-afe2-b0d861778ad2",
-      "time": "2026-06-13 00:15:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister said an agreed final text of a peace accord has been reached by all parties and Pakistan is working closely with both sides to finalize next-phase arrangements, adding that peace is now closer than ever."
-    },
-    {
-      "id": "4933215",
-      "time": "2026-06-13 00:15:03",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "巴基斯坦總理：確認已經達成一份最終、經過同意的和平協議文字。巴基斯坦正與伊朗、美國就後續行動密切合作。"
     }
   ]
 }
