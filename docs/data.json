@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-20 02:58:13",
+  "updated": "2026-06-20 03:02:53",
   "count": 17754,
   "items": [
+    {
+      "id": "4945406",
+      "time": "2026-06-20 03:01:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行設定比索官方匯率為1美元兌17.3247墨西哥比索。"
+    },
+    {
+      "id": "4945405",
+      "time": "2026-06-20 03:00:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國總統特朗普：（談及七國集團）他們本應保留八國集團。如果那樣的話，俄烏之間可能就不會發生衝突了，但奧巴馬不想讓普京留在那裡。以前是八國集團。如果當初保留下來，會好得多。"
+    },
+    {
+      "id": "mkt:019ee140-cd69-7dd8-b09a-8fe64bdba9c5",
+      "time": "2026-06-20 02:59:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the G7 should have remained the G8, arguing that if it had, the Russia-Ukraine war might not have occurred; he said Obama opposed keeping Putin in the group and that it was better when it was the G8."
+    },
+    {
+      "id": "4945404",
+      "time": "2026-06-20 02:57:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：（談及拜登）我們曾有過一個連一段樓梯都走不上去的人，我不想談這個，因為如果我稍微絆一下，他們就會說：“哦，這太糟糕了。”好吧，這種事是可能發生的。但你不能每次上臺都絆倒。"
+    },
     {
       "id": "mkt:019ee13f-02d0-7dd8-b09a-83820ac48f79",
       "time": "2026-06-20 02:57:43",
@@ -163478,47 +163512,6 @@
         "市場"
       ],
       "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7641元，較週四夜盤收盤漲79點。成交量382.94億美元。"
-    },
-    {
-      "id": "mkt:019ebd35-6b13-7dd8-afe5-c75edbdca3db",
-      "time": "2026-06-13 03:00:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.02% at 24,706, trading 12 points below the spot index."
-    },
-    {
-      "id": "4933311",
-      "time": "2026-06-13 03:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.04%，報24711.12點，低水6.98點。"
-    },
-    {
-      "id": "4933310",
-      "time": "2026-06-13 02:59:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "據《The Information》報道，Meta在內部備忘錄中表示，受人工智慧成本飆升影響，公司計劃嚴控員工Token的使用。Meta 2026 年內部人工智慧使用成本預計將達數十億美元。"
-    },
-    {
-      "id": "mkt:019ebd34-3af1-7dd8-afe5-be96ec7e37da",
-      "time": "2026-06-13 02:59:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "The Information reports Meta Platforms (META.O) will tighten controls on employee token usage as AI costs surge; the company expects internal AI usage costs to reach tens of billions of dollars by 2026."
     }
   ]
 }
