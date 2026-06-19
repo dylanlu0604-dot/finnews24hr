@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-19 21:30:31",
-  "count": 18001,
+  "updated": "2026-06-19 21:34:49",
+  "count": 17990,
   "items": [
+    {
+      "id": "4945225",
+      "time": "2026-06-19 21:33:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭能源公司 DTEK 表示，過去兩日俄軍發動多次襲擊，烏克蘭第聶伯羅彼得羅夫斯克州多處 DTEK 能源設施遭嚴重損毀。"
+    },
+    {
+      "id": "4945224",
+      "time": "2026-06-19 21:33:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯今年化肥出口同比增長 7%，總額達 55 億美元。"
+    },
+    {
+      "id": "mkt:019ee016-0213-7dd8-b096-5ce6b9e8d61e",
+      "time": "2026-06-19 21:33:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS: Russia's fertilizer exports rose 7% year-to-date to $5.5 billion."
+    },
+    {
+      "id": "te:markets:560500",
+      "time": "2026-06-19 21:32:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Muted as Banks Trade Mixed — The Ibovespa was little changed near the 168,000 mark on Friday as investors reacted to the suspension of US-Iran talks. The discussions, aimed at addressing Iran’s nuclear program following a recently signed memorandum of understanding, were delayed after tensions in the Middle East resurfaced and US Vice President JD Vance unexpectedly withdrew. Meanwhile, Iranian authorities overseeing the Strait of Hormuz said transit fees would be waived during a 60-day negotiation period under the agreement signed with the US earlier this week. Investors also monitored the release of a new presidential poll. Banking stocks traded mixed, with Santander Brasil edging higher after Santander became Spain’s most valuable listed company for the first time in eight years. Meanwhile, Itaú lost more than 0.5%, while Bradesco edged up. Petrobras slipped as oil prices remained near their lowest levels since the start of the US-Iran conflict, while Vale also edged lower on weaker iron ore prices."
+    },
+    {
+      "id": "mkt:019ee013-7cc9-7dd8-b096-5551dc7a0eba",
+      "time": "2026-06-19 21:30:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TSX Composite opened down 74.46 points, or 0.21%, at 34,894.80."
+    },
+    {
+      "id": "4945223",
+      "time": "2026-06-19 21:30:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所綜合指數（.GSPTSE）開盤下跌74.46點，跌幅0.21%，報34894.80點。"
+    },
+    {
+      "id": "4945222",
+      "time": "2026-06-19 21:30:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱要耗完美伊談判60天期限】美國總統特朗普今天（6月19日）在社交媒體平臺接連發帖稱，“戰爭削弱了伊朗！它不再擁有空軍、海軍、防空裝備、雷達，以及其他幾乎所有軍事力量。然而，民主黨人卻說伊朗現在的情況比4個月前更好。你能想象這種話竟然能被接受嗎？有些人到底有多蠢啊？”“談判不是因為我們走投無路才進行的，是他們（伊朗）走投無路了。他們徹底完蛋了！我們就把這60天耗完。他們拿不到錢，一分錢都沒有！” （CCTV國際時訊）"
+    },
     {
       "id": "4945221",
       "time": "2026-06-19 21:28:43",
@@ -165805,178 +165867,6 @@
         "Impact bearish"
       ],
       "text": "U.S. equities opened mixed on Friday, June 12: the Dow Jones Industrial Average rose 279.34 points (0.55%) to 51,128.09 at the open; the S&P 500 gained 10.54 points (0.14%) to 7,404.84; the Nasdaq Composite fell 6.93 points (0.03%) to 25,802.73."
-    },
-    {
-      "id": "4932973",
-      "time": "2026-06-12 21:34:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "REDWIRE股價暴跌10%；火箭實驗室股價下跌5.4%。"
-    },
-    {
-      "id": "4932972",
-      "time": "2026-06-12 21:33:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦提議對售價超 2000 萬盧比的電動汽車徵稅。"
-    },
-    {
-      "id": "te:markets:558743",
-      "time": "2026-06-12 21:33:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Salesforce Stock Price Hits 3-year Low — Salesforce shares decreased to 163.32 USD, the lowest since March 2023. Over the past 4 weeks, Salesforce Inc lost 4.59%, and in the last 12 months, it decreased 38.77%."
-    },
-    {
-      "id": "4932971",
-      "time": "2026-06-12 21:33:06",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【才讓太已任西藏自治區黨委常委、統戰部部長】據西藏日報，6月12日，自治區黨委書記王君正前往自治區黨委統戰部調研。自治區黨委常委、組織部部長賴蛟，自治區黨委常委、統戰部部長才讓太，自治區政協副主席斯朗尼瑪參加。上述訊息顯示，才讓太已任西藏自治區黨委常委、統戰部部長。"
-    },
-    {
-      "id": "4932970",
-      "time": "2026-06-12 21:32:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦提議在 2027 財年對石油基溶劑徵稅。"
-    },
-    {
-      "id": "4932969",
-      "time": "2026-06-12 21:32:33",
-      "tags": [
-        "公司",
-        "市場",
-        "其他"
-      ],
-      "text": "馬斯克母親抵達納斯達克交易所。"
-    },
-    {
-      "id": "4932968",
-      "time": "2026-06-12 21:32:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "Astera Labs跳漲6%，CoreWeave升3.6%，Nebius Group漲3.9%，此前這些公司將被納入納斯達克100指數。"
-    },
-    {
-      "id": "te:markets:558742",
-      "time": "2026-06-12 21:32:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Lowe's Companies Stock Price Hits 4-week High — Lowe's Companies shares increased to 223.20 USD, the highest since May 2026. Over the past 4 weeks, Lowe's Companies lost 0.85%, and in the last 12 months, it decreased 0.4%."
-    },
-    {
-      "id": "4932967",
-      "time": "2026-06-12 21:32:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX進行納斯達克開盤鍾儀式現場直播。"
-    },
-    {
-      "id": "4932966",
-      "time": "2026-06-12 21:31:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "維珍銀河股價下跌17.9%，報4.8美元，此前上個交易日該股大漲超21%。"
-    },
-    {
-      "id": "te:markets:558741",
-      "time": "2026-06-12 21:31:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Blackstone Stock Price Hits 4-week High — Blackstone shares increased to 123.14 USD, the highest since May 2026. Over the past 4 weeks, Blackstone gained 0.19%, and in the last 12 months, it decreased 12.64%."
-    },
-    {
-      "id": "mkt:019ebc08-0435-7dd8-afdf-6a2c42c904b6",
-      "time": "2026-06-12 21:31:42",
-      "tags": [
-        "MKT News",
-        "ADBE.O",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "Adobe (ADBE.O) shares fell 8.1%, hitting an intraday low not seen since February 2018."
-    },
-    {
-      "id": "4932965",
-      "time": "2026-06-12 21:31:25",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "超威半導體股價上漲1.7%，此前花旗集團將其股票評級從中性上調至買入。"
-    },
-    {
-      "id": "4932964",
-      "time": "2026-06-12 21:31:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "ADOBE股價下跌8.1%，創下2018年2月以來的盤中最低點。"
-    },
-    {
-      "id": "4932963",
-      "time": "2026-06-12 21:30:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "波蘭央行行長：降息的可能性高於加息。"
-    },
-    {
-      "id": "4932962",
-      "time": "2026-06-12 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.59%，標普500指數漲0.14%，納指漲0.01%。Arm Holdings漲3.67%，Tapestry  Inc.漲2.92%，繽客漲2.71%，麥克莫蘭銅金漲2.64%，PPG工業漲2.63%，Coherent Corp漲2.52%。“七姐妹”方面：谷歌漲1.50%，Meta Platforms漲1.01%，蘋果漲0.28%，特斯拉跌0.04%，英偉達跌0.25%，微軟跌0.44%，亞馬遜跌0.67%。"
-    },
-    {
-      "id": "mkt:019ebc07-2da8-7dd8-afdf-601208edd1cf",
-      "time": "2026-06-12 21:30:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "RKLB.O",
-        "Impact bullish",
-        "SPCE.N",
-        "Impact bearish",
-        "SPCX.O"
-      ],
-      "text": "U.S. equities opened with the Dow up 0.59%, the S&P 500 up 0.20% and the Nasdaq near flat. SpaceX (SPCX.O) listed today; Rocket Lab (RKLB.O) rose 1.5% while Virgin Galactic (SPCE.N) fell 14% on the open. Large-cap tech names were broadly steady. Sharon AI (SHAZ.O) dropped 3.9% after signing a six-year compute-capacity agreement with NVIDIA (NVDA.O)."
-    },
-    {
-      "id": "4932961",
-      "time": "2026-06-12 21:30:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，360數科漲0.67%。"
     }
   ]
 }
