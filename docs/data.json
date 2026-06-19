@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-19 09:32:14",
-  "count": 18941,
+  "updated": "2026-06-19 09:36:24",
+  "count": 18927,
   "items": [
+    {
+      "id": "mkt:019edd85-11e6-7dd8-b08b-f8882bcb6eb9",
+      "time": "2026-06-19 09:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HIMINO, deputy governor at the Bank of Japan, said the BOJ hopes to provide a more comprehensive analysis of oil's impact on inf when updating quarterly forecasts in July."
+    },
+    {
+      "id": "mkt:019edd85-0c94-7dd8-b08b-f2f12c650a7d",
+      "time": "2026-06-19 09:35:44",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "HIMINO, BoJ deputy governor, said higher fuel costs this summer could amplify upward pressure on Japan's consumer price index."
+    },
+    {
+      "id": "4944540",
+      "time": "2026-06-19 09:35:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "川崎汽船：霍爾木茲海峽運輸的完全正常化可能需要時間。"
+    },
+    {
+      "id": "4944539",
+      "time": "2026-06-19 09:34:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "冰見野良三：希望在7月更新季度預測時，就能源價格對通脹的影響提供更全面的分析。"
+    },
+    {
+      "id": "4944538",
+      "time": "2026-06-19 09:33:43",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三：燃料成本上漲對消費者物價指數(CPI)的影響可能在今年夏季前後加大。"
+    },
+    {
+      "id": "4944537",
+      "time": "2026-06-19 09:31:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三連漲，廈門二手房持續修復，新房同步企穩】據中國房地產報，廈門二手房銷售價格連續3個月上漲，走出獨立修復行情。成交端同樣釋放積極訊號。據克而瑞廈門地產監測，2026年5月廈門二手住宅網籤成交2345套，成交面積22.81萬平方米；環比成交套數下滑18.7%、成交面積回落13.8%，同比成交套數大漲37.1%、成交面積上漲33.7%，連續第三個月站穩2200套成交基準線，市場基本盤穩固。與二手房的修復態勢呼應，廈門新房市場同步迎來企穩拐點，結束了此前的環比下行態勢，行情穩步改善。展望2026年下半年，廈門樓市結構性修復行情將持續延續。短期來看，6月房企年中衝刺有望推動新房供應回暖，剛需需求持續釋放；二手房短期維持溫和修復。"
+    },
+    {
+      "id": "4944536",
+      "time": "2026-06-19 09:31:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報告：今夏全球赴歐旅行意願小幅回落，中國領跑客源市場】歐洲旅遊委員會（ETC）與歐鐵（Eurail）6月18日聯合釋出的《長途旅行晴雨表2/2026》報告顯示，受旅行成本及價效比考量影響，今夏全球旅客赴歐旅行意願小幅回落，中國仍是最強勁客源市場。（新華財經）"
+    },
+    {
+      "id": "4944535",
+      "time": "2026-06-19 09:31:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市開盤上漲0.5%，至6182.78點。"
+    },
     {
       "id": "4944534",
       "time": "2026-06-19 09:30:52",
@@ -10,6 +80,15 @@
         "國際"
       ],
       "text": "日本央行冰見野良三：每日市場趨勢、貨幣政策和政府債券購買決策之間沒有直接關係。向市場參與者仔細解釋貨幣政策至關重要。不會對當前市場的價格狀況發表具體評論。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606193776794090",
+      "time": "2026-06-19 09:30:33",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行首席經濟學家：中性利率上限升至2.5% 加息決策不受油價回落影響】歐洲央行首席經濟學家菲利普·連恩（PhilipLane）6月18日明確表示，儘管近期國際能源價格出現回落，歐元區通脹率仍將在較長時期內維持在2%的目標水平之上。他同時透露，該行對中性利率區間的測算已進行調整，其上限從此前的2.25%上調至2.50%。"
     },
     {
       "id": "mkt:019edd7f-debe-7dd8-b08b-ea3017bc08f5",
@@ -174190,232 +174269,6 @@
         "其他"
       ],
       "text": "【剛果（金）埃博拉確診病例升至676例】剛果（金）衛生部11日釋出的疫情報告顯示，截至10日，該國本輪埃博拉疫情累計確診病例升至676例，其中136例死亡。 報告顯示，目前共有262名患者處於隔離或住院治療狀態，累計治癒32人。報告指出，疫情仍在社群內持續傳播，若不迅速採取公共衛生措施，疫情可能會突然出現“地理範圍上的擴大”。 非洲疾病預防控制中心主任卡塞亞當天線上上記者會上說，本輪埃博拉疫情波及範圍持續擴大，已成為非洲有記錄以來較大規模的埃博拉疫情之一。他表示，希望能夠阻止疫情進一步擴散，避免其發展為史上最嚴重的埃博拉疫情。 卡塞亞說，剛果（金）東部持續的武裝衝突給疫情監控、接觸者追蹤等工作帶來困難；烏干達的埃博拉疫情已經得到有效控制，目前沒有出現社群傳播的證據。 卡塞亞還表示，除埃博拉外，非洲還面臨霍亂、麻疹、猴痘等疫情挑戰，希望非洲各國能夠繼續加強各自衛生系統的韌性建設，減少公共衛生事件的發生。(新華社)"
-    },
-    {
-      "id": "4931546",
-      "time": "2026-06-12 09:36:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率下跌6個基點至3.81%。。"
-    },
-    {
-      "id": "4931545",
-      "time": "2026-06-12 09:36:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行：將繼續透過在離岸、在岸及現貨市場進行持續且審慎的無本金交割遠期干預，最佳化印尼盧比穩定措施。"
-    },
-    {
-      "id": "4931544",
-      "time": "2026-06-12 09:35:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "智譜(02513.HK)漲超10%。"
-    },
-    {
-      "id": "mkt:019eb978-9729-7dd8-afce-7924d36bc01d",
-      "time": "2026-06-12 09:35:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02513.HK",
-        "Impact bullish"
-      ],
-      "text": "HK-listed Zhipu (02513.HK) shares rose over 10%."
-    },
-    {
-      "id": "mkt:019eb978-0fa6-7dd8-afce-756519bff1fc",
-      "time": "2026-06-12 09:35:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "01347.HK",
-        "Impact bullish",
-        "06809.HK",
-        "00981.HK"
-      ],
-      "text": "Hong Kong-listed semiconductor shares surged: 01347.HK and 06809.HK rose over 7%; 02658.HK, 03986.HK, 02577.HK, 06082.HK and 00981.HK (SMIC) also advanced."
-    },
-    {
-      "id": "4931543",
-      "time": "2026-06-12 09:35:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "A股工業氣體概念盤初調整，中船特氣跌超15%，廣鋼氣體、金宏氣體、華特氣體、三孚股份、蜀道裝備跌幅居前。"
-    },
-    {
-      "id": "4931542",
-      "time": "2026-06-12 09:35:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行：將繼續對外匯市場進行持續、有控制的干預。"
-    },
-    {
-      "id": "4931541",
-      "time": "2026-06-12 09:34:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4200美元/盎司，日內漲2.08%。"
-    },
-    {
-      "id": "mkt:019eb977-6170-7dd8-afce-6d39a4e918fc",
-      "time": "2026-06-12 09:34:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "【Shenzhen securities regulator warns of illegal activity under guise of RWA investment】Tokenization of real-world assets (RWA) has grown recently. Some illicit actors are using \"financial innovation\" and \"tech dividend\" as cover, exploiting hype and buzzwords to carry out illegal fundraising, fraud, pyramid schemes, money laundering and unauthorized business operations, disrupting economic and financial order and endangering public property."
-    },
-    {
-      "id": "4931540",
-      "time": "2026-06-12 09:34:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳證監局：警惕以投資RWA名義從事非法活動】近年來，現實世界資產（RWA）代幣化概念逐漸興起。一些不法分子趁機以“金融創新”“科技紅利”為幌子，透過蹭熱度、套概念等方式從事非法集資、詐騙、傳銷、洗錢、非法經營等違法犯罪活動，擾亂經濟金融秩序，危害人民群眾財產安全。（深圳證監局）"
-    },
-    {
-      "id": "mkt:019eb977-069f-7dd8-afce-62c2f162d12b",
-      "time": "2026-06-12 09:34:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "China's STAR 50 index rose over 4% as semiconductor stocks rallied; constituents Zhongke Feice jumped over 13%, Shengmei Shanghai climbed about 11% and Shanghai Silicon Industry gained about 7%."
-    },
-    {
-      "id": "4931539",
-      "time": "2026-06-12 09:33:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行：將繼續密切監控全球及國內金融市場動態，維持國內金融工具的吸引力，以支援外資流入。"
-    },
-    {
-      "id": "4931538",
-      "time": "2026-06-12 09:33:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華為海思概念持續走強，泰晶科技漲停】華為海思概念持續走強，泰晶科技漲停，盛劍科技、芯源微、北方華創、吳通控股、力源資訊、德龍鐳射等跟漲。"
-    },
-    {
-      "id": "4931537",
-      "time": "2026-06-12 09:33:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4180美元/盎司，日內跌0.74%。"
-    },
-    {
-      "id": "4931536",
-      "time": "2026-06-12 09:33:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行：資金流入也已開始重返政府債券市場，尤其是在短期和中期債券領域。"
-    },
-    {
-      "id": "4931535",
-      "time": "2026-06-12 09:33:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達4％，成分股中，中科飛測漲14.21％，芯聯整合漲12.85％，盛美上海漲12.66％，滬矽產業漲9.85％。"
-    },
-    {
-      "id": "4931534",
-      "time": "2026-06-12 09:32:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【元件板塊走高，泰晶科技漲停】元件板塊走高，泰晶科技漲停，金安國紀、中京電子、博敏電子、明陽電路跟漲。"
-    },
-    {
-      "id": "4931533",
-      "time": "2026-06-12 09:32:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【稀土永磁板塊走高，安泰科技漲停】稀土永磁板塊走高，安泰科技漲停，杭華股份漲超10%，中鋼天源、金田股份、中航泰達、大地熊、爭光股份等跟漲。"
-    },
-    {
-      "id": "mkt:019eb975-d3dc-7dd8-afce-5df6d9c18616",
-      "time": "2026-06-12 09:32:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share rare-earth permanent magnet sector rose. Antai Technology hit the daily limit; Hanghua Co surged over 10%. Zhonggang Tianyuan, Jintian, AVIC Taida, Dadi Xiong and Zhengguang also gained."
-    },
-    {
-      "id": "4931532",
-      "time": "2026-06-12 09:32:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行：在6月10日印尼央行逆回購工具（SRBI）拍賣結束後，外資流入印尼央行發行的印尼盧比計價證券的規模有所提升，這一現象反映出市場作出了積極回應。"
-    },
-    {
-      "id": "mkt:019eb975-94ae-7dd8-afce-54924be886a8",
-      "time": "2026-06-12 09:32:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Oil-focused LOFs open sharply lower; Trump says he will sign Iran peace deal in coming days】Oil-themed LOFs opened broadly lower: Southern Crude LOF, E Fund Crude LOF and Harvest Crude LOF fell over 4%; Petroleum LOF and HuaBao Oil & Gas LOF dropped ~3%; Petroleum Fund LOF down just over 1%. US President Trump said he has reached an agreement with Iran to end the war but that final details remain to be completed and expects to sign a peace agreement in the coming days."
-    },
-    {
-      "id": "4931531",
-      "time": "2026-06-12 09:32:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "石油主題LOF全線低開，南方原油LOF、原油LOF易方達、嘉實原油LOF均跌超4%，石油LOF、華寶油氣LOF跌近3%，石油基金LOF跌超1%。"
-    },
-    {
-      "id": "4931530",
-      "time": "2026-06-12 09:32:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
     }
   ]
 }
