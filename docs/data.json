@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-20 04:48:09",
-  "count": 17659,
+  "updated": "2026-06-20 04:52:13",
+  "count": 17658,
   "items": [
+    {
+      "id": "te:economy:560550",
+      "time": "2026-06-20 04:50:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Argentina Retail Sales Rise In April — Argentina’s retail sales rose 12.6% year-on-year in April 2026 to ARS 560.96 billion. By category, sportswear and accessories posted the strongest gain, rising 25.5%. Food courts, food products, and kiosks increased 22.3%, while stationery and bookstores rose 27.9%. Entertainment and leisure advanced 26.5%, and perfumes and pharmacies recorded one of the strongest gains at 31.9%. Clothing, footwear, and leather goods rose a more modest 5.3%. In contrast, electronics, appliances, and computing sales fell 10.9%. By region, sales in Buenos Aires rose 20.9%, while the 24 districts of Greater Buenos Aires posted a 6.5% increase. The Pampas region recorded a 12.7% gain, while the Cuyo region rose 17.6%. Meanwhile, the Northern and Patagonia regions posted increases of 3.3% and 10.3%, respectively."
+    },
     {
       "id": "te:markets:560549",
       "time": "2026-06-20 04:46:45",
@@ -162586,22 +162598,6 @@
         "國際"
       ],
       "text": "伊朗邁赫爾通訊社報道，格什姆島和錫裡克附近聽到爆炸聲；官方尚未確認。"
-    },
-    {
-      "id": "4933434",
-      "time": "2026-06-13 04:50:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司(Petrobras)執行長表示，墨西哥國家石油公司(Pemex)執行長將於本月訪問巴西。"
-    },
-    {
-      "id": "4933433",
-      "time": "2026-06-13 04:49:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "富時羅素公司表示，SpaceX將快速被納入富時全球股票指數系列。"
     }
   ]
 }
