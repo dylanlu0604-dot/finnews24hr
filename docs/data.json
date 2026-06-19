@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-20 01:12:57",
-  "count": 17822,
+  "updated": "2026-06-20 01:16:59",
+  "count": 17812,
   "items": [
+    {
+      "id": "mkt:019ee0de-cf5c-7dd8-b099-a147b59b6be1",
+      "time": "2026-06-20 01:12:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Lebanese presidency said the president told US Secretary of State Rubio that a comprehensive ceasefire is the fundamental cornerstone for next week’s US-Israel-Lebanon trilateral talks in Washington."
+    },
+    {
+      "id": "4945376",
+      "time": "2026-06-20 01:12:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總統府宣告：黎巴嫩總統告知美國國務卿魯比奧，全面停火是下週在華盛頓舉行黎、美、以三方會談的核心基礎。"
+    },
     {
       "id": "4945375",
       "time": "2026-06-20 01:11:59",
@@ -164069,116 +164085,6 @@
         "Important"
       ],
       "text": "A senior U.S. government official said parties have agreed on specific arrangements for the destruction and transfer of enriched nuclear material."
-    },
-    {
-      "id": "mkt:019ebcd6-111b-7dd8-afe3-f4e95fed1af0",
-      "time": "2026-06-13 01:16:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Cyprus, holding the EU Council rotating presidency, said it will hold the first accession meeting with Ukraine and Moldova next Monday."
-    },
-    {
-      "id": "4933253",
-      "time": "2026-06-13 01:16:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "歐盟理事會輪值主席國塞普勒斯：將於週一召開與烏克蘭、摩爾多瓦的首次入盟會議。"
-    },
-    {
-      "id": "4933252",
-      "time": "2026-06-13 01:16:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：雙方對諒解備忘錄的文字都感到滿意。"
-    },
-    {
-      "id": "mkt:019ebcd5-74bd-7dd8-afe3-e9af6b9475ad",
-      "time": "2026-06-13 01:16:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A senior US government official said the United States has seen substantive progress in negotiations on the agreement text."
-    },
-    {
-      "id": "mkt:019ebcd4-f00c-7dd8-afe3-e739e3f92498",
-      "time": "2026-06-13 01:15:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A senior U.S. government official said significant sanctions relief will be offered depending on Iran's compliance."
-    },
-    {
-      "id": "4933251",
-      "time": "2026-06-13 01:15:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員： 伊朗方面已表示認可，同意協議文字內容。"
-    },
-    {
-      "id": "4933250",
-      "time": "2026-06-13 01:14:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：伊朗可能獲得的好處包括解凍資產。"
-    },
-    {
-      "id": "4933249",
-      "time": "2026-06-13 01:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府高階官員：伊朗可能獲得的好處包括制裁的緩解， 伊朗的履約情況將決定其獲得大規模製裁豁免的程度。"
-    },
-    {
-      "id": "mkt:019ebcd3-4e21-7dd8-afe3-dfb5ca5219e9",
-      "time": "2026-06-13 01:13:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Senior US government official says the better Iran behaves, the more it can obtain."
-    },
-    {
-      "id": "mkt:019ebcd3-44e8-7dd8-afe3-d14f6f039951",
-      "time": "2026-06-13 01:13:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A senior U.S. government official said the Iran agreement explicitly requires opening the Strait of Hormuz, lifting blockades and transferring enriched material."
-    },
-    {
-      "id": "4933248",
-      "time": "2026-06-13 01:13:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國政府高階官員： 伊美協議就海峽通航、解除封鎖以及濃縮核材料轉運事宜作出了明確規定。 這份諒解備忘錄擬定了伊朗獲取相關回報的總體框架。"
-    },
-    {
-      "id": "mkt:019ebcd2-d0f7-7dd8-afe3-cf0e2b924c86",
-      "time": "2026-06-13 01:13:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Council President Costa said EU member states have agreed on the first negotiating package to open accession talks with Ukraine and Moldova."
     }
   ]
 }
