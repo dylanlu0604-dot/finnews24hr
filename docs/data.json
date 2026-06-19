@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-19 10:08:50",
-  "count": 18862,
+  "updated": "2026-06-19 10:12:56",
+  "count": 18849,
   "items": [
+    {
+      "id": "te:markets:560287",
+      "time": "2026-06-19 10:12:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Weakens Despite Verbal Interventions — The Japanese yen weakened beyond 161 per dollar on Friday, falling to its lowest level since July 2024 despite renewed verbal intervention from Japanese authorities. Chief Cabinet Secretary Minoru Kihara said on Thursday that the government remains prepared to respond to excessive currency movements whenever necessary. The yen has now erased all the gains recorded on April 30, when authorities conducted a record-sized intervention to support the currency. The latest decline came despite the Bank of Japan’s gradual tightening cycle, including a 25-basis-point rate hike to 1% earlier this week aimed at addressing an energy-driven inflation shock linked to the Middle East conflict. The dollar also strengthened following the Federal Reserve’s decision to leave interest rates unchanged while signaling increasing support for additional rate hikes later this year. The widening policy divergence between Japan and the US continued to weigh on the Japanese currency."
+    },
+    {
+      "id": "mkt:019edda4-f0d8-7dd8-b08c-6bd4a8f6725c",
+      "time": "2026-06-19 10:10:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Labour's Andy Burnham won the Macclesfield parliamentary seat in the election."
+    },
+    {
+      "id": "4944571",
+      "time": "2026-06-19 10:08:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4180美元/盎司，日內跌0.71%。"
+    },
     {
       "id": "4944570",
       "time": "2026-06-19 10:07:46",
@@ -173516,160 +173547,6 @@
         "國際"
       ],
       "text": "【日本據悉將派遣艦艇前往霍爾木茲海峽】據報道，日本政府正準備挑選艦艇部署到霍爾木茲海峽，以響應美國和伊朗達成的停火協議。 日本政府正在權衡多種方案，包括參與多邊行動和提供掃雷作業裝置。部署的前提是該區域的安全得到全面保障。"
-    },
-    {
-      "id": "te:markets:558532",
-      "time": "2026-06-12 10:12:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Remains Volatile Ahead of BOJ Meeting — The Japanese yen weakened to around 160.2 per dollar on Friday, surrendering some of the previous session's gains as investors awaited the Bank of Japan's policy meeting next week, where it is widely expected to raise interest rates amid persistent inflation and sustained weakness in the currency. The BOJ is expected to lift its policy rate by 25 basis points to 1%, marking the first increase since December last year and the highest level since 1995. Meanwhile, BOJ Governor Kazuo Ueda has been hospitalized with a hepatic cyst infection and is set to miss the meeting. On Thursday, the yen climbed as much as 0.6% after the dollar retreated sharply following President Donald Trump's remarks that a peace deal with Iran could be signed as soon as this weekend in Europe. Japan's economy remains particularly exposed to geopolitical tensions in the Middle East due to its heavy dependence on oil imports from the region."
-    },
-    {
-      "id": "te:markets:558530",
-      "time": "2026-06-12 10:11:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Track Asian Peers Higher — The Shanghai Composite Index advanced 0.8% to above 4000 on Friday, while the Shenzhen Component climbed over 1.3% to 15,000, tracking gains across Asian markets as renewed hopes for a Middle East peace deal lifted global sentiment. Both benchmarks, however, remained on course for weekly declines after earlier volatility driven by US–Iran tensions, but was capped with sentiment later supported by improving risk appetite following reports that a deal could be reached as soon as this weekend, potentially reopening the Strait of Hormuz. Locally, market participants will shift their attention to China's May credit lending data due later today to gauge the health of the economy, following an unexpected contraction in new yuan loans in April. Sector gains were led by semiconductors, minor metals, and precious metals, such as SMIC (4.1%), Zhongji Innolight (3.4%), Zijin Mining (3.2%), and China Tungsten (5.4%)."
-    },
-    {
-      "id": "te:markets:558529",
-      "time": "2026-06-12 10:11:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "China Construction Bank Stock Price Hits 4-week High — China Construction Bank shares increased to 8.88 HKD, the highest since May 2026. Over the past 4 weeks, China Construction Bank gained 0%, and in the last 12 months, it increased 16.25%."
-    },
-    {
-      "id": "mkt:019eb999-56f0-7dd8-afcf-9f9aef3a4b40",
-      "time": "2026-06-12 10:11:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium's intraday gain widened to 2.00%, trading at $1,293.78/oz."
-    },
-    {
-      "id": "mkt:019eb998-dd5b-7dd8-afcf-94721e222cc1",
-      "time": "2026-06-12 10:11:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Precious Metals"
-      ],
-      "text": "Polysilicon most-active contract jumped intraday, gain widened to 6.00%, trading at 38,850 yuan/ton. Palladium most-active contract rose more than 6.00% intraday, trading at 314.80 yuan/gram."
-    },
-    {
-      "id": "4931634",
-      "time": "2026-06-12 10:10:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數上漲2%，至8,806.90點。"
-    },
-    {
-      "id": "4931633",
-      "time": "2026-06-12 10:10:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達2.00%，成分股中，富士達漲7.15%，天力複合漲6.02%，同惠電子漲6.01%，基康技術漲5.96%。"
-    },
-    {
-      "id": "4931632",
-      "time": "2026-06-12 10:10:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【影視院線板塊短線拉昇，博納影業觸及漲停】影視院線板塊短線拉昇，博納影業觸及漲停，華智數媒、上海電影、光線傳媒、北京文化跟漲。"
-    },
-    {
-      "id": "4931631",
-      "time": "2026-06-12 10:10:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內漲6%，現報38850.00元。"
-    },
-    {
-      "id": "4931630",
-      "time": "2026-06-12 10:10:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國負責武裝部隊事務的國務大臣卡恩斯辭職】因不滿政府國防投資計劃資金方案，英國負責武裝部隊事務的國務大臣卡恩斯11日宣佈辭職。卡恩斯當天致信英國首相斯塔默表示，當前政府擬定的國防投資計劃“既缺乏變革性，也缺乏足夠資金支援”，難以應對日益嚴峻的安全威脅以及現代戰爭形態快速變化帶來的挑戰。卡恩斯在辭職信中表示，烏克蘭危機表明現代戰爭正在迅速演變，而英國仍在採購適用於過去戰爭模式的裝備。“價值數十億英鎊的平臺，可能被價值數千英鎊的系統擊敗。”他說，當前國防投資計劃未能為英軍提供與現實威脅相匹配的資源，因此決定辭職。他同時批評英國政府整體決策效率低下，稱政府部門之間“彼此對抗，而不是共同解決問題”。"
-    },
-    {
-      "id": "4931629",
-      "time": "2026-06-12 10:10:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【大疆指控影石Luna相機侵犯其多項核心專利，影石反訴】6月12日，據媒體報道，大疆及大疆靈眸（Osmo）已於當地時間6月10日和11日，向美國得州東區聯邦地區法院對影石創新及其關聯公司提起專利侵權訴訟。訴狀顯示，大疆指控影石Luna系列手持雲臺相機涉嫌侵犯大疆持有的2件外觀設計專利及4件發明專利。此次涉訴專利涉及大疆Osmo Pocket系列產品的相關技術和設計，覆蓋雲臺機電控制、拍攝控制等核心底層技術。據目前披露的資訊，影石Luna系列相機的旋轉屏外觀、雲臺模式切換及目標追蹤等核心功能，均涉嫌落入大疆早年在美獲批的專利保護範圍。大疆在訴訟中請求法院（對銷售等侵權行為）釋出永久禁止令，同時要求影石返還侵權利潤、支付損害賠償金，以及承擔相關訴訟費用和律師費。6月12日，影石創新也在美國對大疆發起專利反訴，涉及雲臺相機、全景相機等5項發明專利，覆蓋雲臺增穩演算法、雲臺指向控制、相機平滑防抖、運動資料疊加、全景影片防抖等多項關鍵技術。同時，影石向中國國家智慧財產權局提起相關同族專利無效宣告請求。這也是繼2026年3月大疆在國內對影石發起無人機專利侵權訴訟後，兩家公司在海外市場的首次專利訴訟對決。"
-    },
-    {
-      "id": "4931628",
-      "time": "2026-06-12 10:09:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內漲6%，現報314.80元。"
-    },
-    {
-      "id": "4931627",
-      "time": "2026-06-12 10:09:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【空山慈完成A輪融資】6月12日，據耀途資本訊息，聚焦新一代腦機互動神經調控技術的上海空山慈科技有限公司完成A輪融資。本輪由東方富海領投，耀途資本跟投，老股東道彤投資、雲啟資本持續加碼。所募資金將主要用於產品研發迭代、醫療器械註冊申報及全球化拓展。"
-    },
-    {
-      "id": "4931626",
-      "time": "2026-06-12 10:09:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【燃氣輪機概念震盪反彈 應流股份漲停】燃氣輪機概念盤中震盪反彈，應流股份漲停，航發控制、萬澤股份、傑瑞股份、上大股份、三角防務跟漲。"
-    },
-    {
-      "id": "4931625",
-      "time": "2026-06-12 10:09:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：美伊諒解備忘錄或將於下週簽署。"
-    },
-    {
-      "id": "mkt:019eb996-fcd5-7dd8-afcf-8c4fd0f82799",
-      "time": "2026-06-12 10:09:00",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share film and cinema sector rallied intraday; Bona Film rose over 8%, while Huazhi Digital Media, Shanghai Film, Huanrui Century, Happy Blue Ocean and Ciwen Media also gained."
     }
   ]
 }
