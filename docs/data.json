@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 02:38:44",
+  "updated": "2026-06-20 02:42:29",
   "count": 17748,
   "items": [
+    {
+      "id": "mkt:019ee130-9b89-7dd8-b09a-5d8be3548bd0",
+      "time": "2026-06-20 02:41:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump: 'I'm the boss' remark was a joke, didn't expect it to spread worldwide】In an Axios interview, Trump said his 'I'm the boss' remark on entering the G7 meeting was meant as a joke, that 'everyone agreed,' and he did not intend to assert dominance, adding he was surprised it spread worldwide."
+    },
     {
       "id": "mkt:019ee129-70c8-7dd8-b09a-54da555ebeea",
       "time": "2026-06-20 02:34:09",
@@ -163473,18 +163481,6 @@
         "Magnificent 7"
       ],
       "text": "【SpaceX leases Colossus 1 compute capacity to Anthropic after technical issues】Sources said SpaceX has decided to lease the full capacity of its Memphis Colossus 1 data center to Anthropic after encountering technical challenges developing and running the Grok AI model there. SpaceX had planned a three-site cluster to train frontier models but ran into latency when linking Colossus 1 with two other sites over 10 miles away; aging network infrastructure and hardware heterogeneity—Colossus 1 hosts multiple generations of NVIDIA chips including Hopper and Blackwell plus older accelerators, while Colossus 2 and 3 are built more uniformly around NVIDIA Blackwell—impeded integration."
-    },
-    {
-      "id": "mkt:019ebd22-1dea-7dd8-afe5-a1800f42f735",
-      "time": "2026-06-13 02:39:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "SPCX.O",
-        "Impact mixed"
-      ],
-      "text": "People familiar with the matter said SpaceX (SPCX.O) encountered technical problems developing and running its Grok AI models at the Colossus 1 data center in Memphis and will lease the facility’s entire capacity to ANTHROPIC."
     }
   ]
 }
