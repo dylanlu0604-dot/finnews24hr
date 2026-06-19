@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20 01:53:31",
-  "count": 17770,
+  "updated": "2026-06-20 01:57:35",
+  "count": 17765,
   "items": [
     {
       "id": "mkt:019ee102-a2cd-7dd8-b09a-162ac287a3a5",
@@ -163646,53 +163646,6 @@
         "國際"
       ],
       "text": "英國將確定俄羅斯柴油及航空燃油的進口終止日期。"
-    },
-    {
-      "id": "mkt:019ebcfa-c790-7dd8-afe5-0abd78adb1b3",
-      "time": "2026-06-13 01:56:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. judge has scheduled a hearing in the criminal case against Turkey's Halkbank for Wednesday, June 17."
-    },
-    {
-      "id": "mkt:019ebcf9-f759-7dd8-afe5-02a6b2ab5519",
-      "time": "2026-06-13 01:55:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US State Department said it will work with Congress to provide $50 million to the Coalition for Epidemic Preparedness Innovations (CEPI) to fund R&D of medical countermeasures against the Bundibugyo strain of Ebola."
-    },
-    {
-      "id": "4933287",
-      "time": "2026-06-13 01:55:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：此次對流行病防範創新聯盟的資金支援，將助力研發針對埃博拉病毒本迪布焦毒株的醫療應對手段。"
-    },
-    {
-      "id": "mkt:019ebcf9-74c2-7dd8-afe4-f80e57e77065",
-      "time": "2026-06-13 01:55:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【US energy secretary Wright: US refiners can absorb more Venezuelan crude】US Energy Secretary Wright said on Friday US refiners can absorb more Venezuelan crude. He said Venezuela currently sends about half of its roughly 1.2 mln bpd of exports to the US and that share could rise in coming months. Wright added Iran is currently exporting no oil or refined products, and the US has actively filled the export shortfall during the Middle East conflict."
-    },
-    {
-      "id": "4933286",
-      "time": "2026-06-13 01:55:04",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：正與國會協作，擬向流行病防範創新聯盟（CEPI）提供 5000 萬美元資金。"
     }
   ]
 }
