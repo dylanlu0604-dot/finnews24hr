@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-19 14:15:52",
-  "count": 18687,
+  "updated": "2026-06-19 14:20:07",
+  "count": 18685,
   "items": [
+    {
+      "id": "4944778",
+      "time": "2026-06-19 14:18:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Claude： 正在排查Claude Opus 4.8版本報錯激增問題。"
+    },
+    {
+      "id": "te:economy:560349",
+      "time": "2026-06-19 14:17:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "UK Public Borrowing Highest for Any May in 6 years — UK public sector net borrowing (excluding public sector banks) widened to £23.3 billion in May 2026 from £17.9 billion in the same month last year, above market expectations of £18.5 billion. This was the second highest borrowing in any May on record, behind that of 2020. Public sector spending increased by £9.1 billion to £118.0 billion, driven by higher debt interest payments, public service delivery costs, investment, and benefit spending. Central government debt interest costs were the highest ever recorded for the month of May. Meanwhile, public sector receipts rose by £3.7 billion to £94.8 billion, supported by higher tax receipts. However, growth in National Insurance contributions slowed compared with recent trends, as the year-on-year boost from the April 2025 policy changes no longer contributed. Public sector net debt excluding public sector banks was equivalent to 95.1% of GDP at the end of May, up 0.4 ppts from a year ago."
+    },
     {
       "id": "4944777",
       "time": "2026-06-19 14:13:28",
@@ -171980,46 +172000,6 @@
         "其他"
       ],
       "text": "【北汽新能源1-5月上險量增速 主流車企TOP1】中汽中心上險量資料顯示：2026年5月，北汽新能源上險量18712臺，同比增長71.4%。1-5月，北汽新能源上險量達78909臺，同比增長80.1%，增速居銷量排名前30車企TOP1。"
-    },
-    {
-      "id": "mkt:019eba7b-d294-7dd8-afd4-b4a1392f43be",
-      "time": "2026-06-12 14:18:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【World Cup 'LaBuBu' plush sells out after livestream】Following their appearance at the June 11, 2026 opening ceremony of the 2026 US‑Canada‑Mexico World Cup, the World Cup co-branded 'LaBuBu' plush, priced at 599 yuan, sold more than 10,000 units and quickly sold out after being listed in a livestream."
-    },
-    {
-      "id": "te:economy:558609",
-      "time": "2026-06-12 14:18:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Germany Inflation Confirmed at 2.6% in May — Germany’s annual inflation rate rose 2.6% in May 2026, easing from a two-year high of 2.9% in the previous month and confirming preliminary estimates. Price growth moderated across several categories, including food and non-alcoholic beverages (0.7% vs. 1.5% in April), alcoholic beverages and tobacco (3.8% vs. 4.3%), housing and utilities (1.4% vs. 1.6%), and restaurants and hotels (2.7% vs. 3.4%). In contrast, energy prices remained elevated, rising 6.6% amid the US-Iran war, although the increase eased from 10.1% in the previous month due to the temporary reduction of the energy tax on gasoline and diesel. Additionally, inflation accelerated in health (2.3% vs. 2.0%) and recreation and culture (2.1% vs. 1.1%). On a monthly basis, consumer prices fell 0.2% in May, following a 0.6% increase in the previous month, in line with preliminary estimates. Meanwhile, the annual HICP edged down to 2.7% from 2.9% in April, remaining well above the European Central Bank’s 2% target."
-    },
-    {
-      "id": "te:economy:558608",
-      "time": "2026-06-12 14:18:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Manufacturing Production MoM",
-        "Importance 1"
-      ],
-      "text": "UK Manufacturing Output Unexpectedly Rises in April — Manufacturing production in the UK rose by 0.4% month-over-month in April 2026, defying market expectations for a 0.2% decline but slowing from a 1.2% increase in the previous month. Output increased in eight of the thirteen manufacturing subsectors, led by gains in basic pharmaceutical products and preparations (4.2% vs 2.1% in March), rubber and plastic products (1.7% vs 1.8%), wood and paper products (0.7% vs 1.2%), food, beverages and tobacco (0.1% vs 1.1%), and basic metals and metal products (0.1% vs 2.1%). Electrical equipment also rose by 1.0%, reversing a 3.3% gain in March."
-    },
-    {
-      "id": "4931932",
-      "time": "2026-06-12 14:17:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界盃同款拉布布售價為599元，已售出上萬件】當地時間6月11日，2026美加墨世界盃正式拉開帷幕。開幕式中段，一棕一藍兩隻醜萌拉布布人偶登臺亮相，別緻可愛的形象，成為直擊人心的賽事趣味彩蛋。據悉，世界盃聯名款“拉布布”售價為599元，已售出上萬件，直播間上架後很快被搶光。"
     }
   ]
 }
