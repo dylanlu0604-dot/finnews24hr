@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-20 00:17:41",
-  "count": 17860,
+  "updated": "2026-06-20 00:21:56",
+  "count": 17861,
   "items": [
+    {
+      "id": "4945359",
+      "time": "2026-06-20 00:20:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "《泰晤士報》訊息：英國首相斯塔默將在本週末考量自身去留。"
+    },
+    {
+      "id": "4945358",
+      "time": "2026-06-20 00:19:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國隊奪體操亞青賽男團金 】19日是2026年第19屆亞洲青年體操錦標賽的首個比賽日，賽事在貴州省遵義市奧體中心舉行，當日進行了男子團體、個人全能決賽暨單項預賽的比拼，中國隊力壓日本隊和印度隊奪得男團金牌。（新華社）"
+    },
+    {
+      "id": "mkt:019ee0ae-1dcb-7dd8-b099-669119dda6fc",
+      "time": "2026-06-20 00:19:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said further monetary policy moves are for the central bank to decide but he believes there is room for another 25bps rate cut. He added an end to the Middle East war would imply Brazil may be moving toward disinflation."
+    },
+    {
+      "id": "4945357",
+      "time": "2026-06-20 00:17:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報80.31美元/桶。"
+    },
     {
       "id": "te:markets:560535",
       "time": "2026-06-20 00:13:18",
@@ -164539,37 +164571,6 @@
         "MKT News"
       ],
       "text": "Texas police said on Friday morning local time they are in a standoff with a suspect after an active shooter incident. Authorities report 11 victims, with at least one killed at the scene."
-    },
-    {
-      "id": "te:markets:558784",
-      "time": "2026-06-13 00:21:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Falls on Hopes of US-Iran Deal — Crude oil fell more than 3% to below $85 per barrel on Friday, reaching an eight-week low as hopes increased that the US and Iran could be close to an interim peace agreement, despite remaining uncertainties. Officials said both sides are moving toward a deal to reopen the Strait of Hormuz, potentially in time for the upcoming G7 meeting. Iran’s Foreign Minister Abbas Araghchi said a Memorandum of Understanding between the two countries had never been closer, supporting expectations that the prolonged conflict could be nearing an end. However, traders remain cautious after previous reports of breakthroughs failed to materialize. Risks remain, with reports of US forces intercepting Iranian drones near commercial vessels. Prices briefly recovered after President Trump cast doubt on the reported draft agreement, saying the published terms did not reflect the agreement discussed."
-    },
-    {
-      "id": "4933217",
-      "time": "2026-06-13 00:20:45",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【埃克森美孚據悉考慮潛在收購目標 包括澳洲最大LNG出口商伍德賽德能源】根據知情人士透露，埃克森美孚正在研究澳大利亞的伍德賽德能源集團等潛在收購目標。這家美國巨頭正在考慮深化其在液化天然氣和亞洲市場的業務佈局。知情人士透露，埃克森美孚內部一直在展開初步討論。他們還表示，伍德賽德能源是埃克森美孚正在評估的幾個收購目標之一。伍德賽德能源ADR週五在紐約一度上漲14%。截至悉尼收盤，該公司市值約為590億澳元（420億美元）。知情人士表示，目前討論尚處於初步階段，不能保證最終會達成協議。"
-    },
-    {
-      "id": "mkt:019ebca2-9508-7dd8-afe2-b8618a2b403b",
-      "time": "2026-06-13 00:20:31",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "【SpaceX options to begin trading next Tuesday】SpaceX (SPCX.O) options will start trading next Tuesday after the stock began trading today. The IPO raised $75 billion at a $1.765 trillion valuation; shares opened at $150, above the $135 IPO price. A spokesperson confirmed options listings on CBOE and Nasdaq. The new options may draw strong demand for directional bets and downside hedges, and a surge in options volume could further lift underlying stock trading demand."
     }
   ]
 }
