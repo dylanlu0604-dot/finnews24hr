@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-19 23:12:58",
-  "count": 17886,
+  "updated": "2026-06-19 23:17:13",
+  "count": 17887,
   "items": [
+    {
+      "id": "mkt:019ee073-da6a-7dd8-b098-b5e8ab1ef104",
+      "time": "2026-06-19 23:15:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Council President COSTA said only Ukrainian President ZELENSKIY has the legitimacy to represent Ukraine in negotiations."
+    },
+    {
+      "id": "4945327",
+      "time": "2026-06-19 23:15:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲理事會主席科斯塔： 唯有澤連斯基擁有代表烏克蘭談判的合法身份。 我們需透過外交途徑支援烏克蘭，其中包括建立與俄羅斯的直接溝通渠道。"
+    },
+    {
+      "id": "4945326",
+      "time": "2026-06-19 23:15:10",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：嘉信理財正設法進軍預測市場。該公司正與美國芝加哥期權交易所（CBOE）合作，將推出期權合約。"
+    },
+    {
+      "id": "mkt:019ee073-179d-7dd8-b098-a8b54d3f5645",
+      "time": "2026-06-19 23:14:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President COSTA said Europe needs to support Ukraine through diplomatic means, including establishing direct communication channels with Russia."
+    },
+    {
+      "id": "4945325",
+      "time": "2026-06-19 23:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：若施壓需求強烈，將啟用該工具。"
+    },
+    {
+      "id": "mkt:019ee071-affb-7dd8-b098-a4323b83bd81",
+      "time": "2026-06-19 23:13:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President von der Leyen said the tool will help firms reduce risk more quickly."
+    },
+    {
+      "id": "mkt:019ee071-9d61-7dd8-b098-9d85291db694",
+      "time": "2026-06-19 23:13:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President von der Leyen said the new trade instrument will not be subject to national restrictions."
+    },
     {
       "id": "4945324",
       "time": "2026-06-19 23:12:08",
@@ -164812,58 +164872,6 @@
         "公司"
       ],
       "text": "【報道：殼牌計劃出售10億美元海上風電資產，繼續退出可再生能源領域】殼牌公司正籌備出售其海上風電場，以便將重心重新聚焦於回報率更高的化石燃料業務。據知情人士透露，公司已聘請羅斯柴爾德（Rothschild & Co.）和PJT Partners Inc.擔任顧問主導此次出售，交易金額可能超過10億美元。出售程式最早可能在今年年底啟動，交易大機率將於2027年完成。計劃出售這些海上風電場標誌著殼牌進一步偏離了過去的戰略——即向綠色電力（尤其是風能）多元化轉型的戰略。"
-    },
-    {
-      "id": "4933176",
-      "time": "2026-06-12 23:17:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部宣佈，自 6 月 15 日起，歐盟外交人員入境俄羅斯需執行報備流程。"
-    },
-    {
-      "id": "mkt:019ebc68-690d-7dd8-afe1-c1929c5d27eb",
-      "time": "2026-06-12 23:16:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's Foreign Ministry said that from June 15 EU diplomatic personnel crossing borders will be required to follow a notification procedure."
-    },
-    {
-      "id": "te:markets:558758",
-      "time": "2026-06-12 23:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cotton Hovers Around 2-Month Lows — Cotton futures traded around 76 cents per pound, holding close to the lowest since early April, mainly pressured by falling oil prices. Renewed hopes of a US–Iran deal weighed on crude prices, boosting polyester appeal and potentially reducing cotton demand. Meanwhile, data from the June US agricultural supply and demand report pointed to a tighter global cotton balance in 2026/27, with lower beginning and ending stocks and slightly higher consumption. World production is forecast to remain stable at 116.04 million bales, while demand rises, led by China. The US cotton balance sheet showed lower beginning and ending stocks, reflecting a 200,000-bale reduction carried over from the previous year. For 2025/26, higher global exports are expected to reduce ending stocks, while world production and consumption remain largely unchanged. Global exports were raised by more than 1%, led by Brazil, the United States, Kazakhstan and Turkey."
-    },
-    {
-      "id": "4933175",
-      "time": "2026-06-12 23:14:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲3%，現報16141.00元。"
-    },
-    {
-      "id": "4933174",
-      "time": "2026-06-12 23:14:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【王文濤部長會見巴西外交部長維埃拉】6月1日，商務部部長王文濤在京會見巴西外交部長維埃拉。雙方就中巴經貿關係和多邊框架下合作等議題進行交流。\n王文濤表示，中巴兩國是東西半球最大的發展中國家和重要新興市場，在元首外交戰略引領下，兩國經貿合作長期保持健康穩定發展。當前國際局勢發生深刻複雜變化，中巴作為全球南方重要代表，應攜手共同應對挑戰。中方願與巴方一道，不斷加強戰略對接和溝通協作，深化務實合作，共同反對單邊主義、保護主義，維護多邊貿易體制和公平開放的國際經貿秩序，為推動全球經濟復甦與發展繼續作出積極貢獻。\n維埃拉表示，過去三年兩國元首實現三次互訪，充分體現雙方政治互信和友好關係。在巴中高委會機制引領下，雙邊經貿合作取得務實豐碩成果。巴方高度重視發展對華關係，願同中方一道，落實好兩國元首重要共識，推動貿易投資合作高質量發展，深化在多邊框架下溝通協調，積極維護以世貿組織為核心的多邊貿易體制。（商務部網站）"
-    },
-    {
-      "id": "4933173",
-      "time": "2026-06-12 23:13:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【凌激副部長兼國際貿易談判副代表會見英中貿協主席吳思田 】6月1日，商務部副部長兼國際貿易談判副代表凌激會見英中貿易協會主席吳思田，並與部分在華英資企業代表交流。凌激表示，今年是中國“十五五”開局之年，中國發展新質生產力、擴大制度型開放，中英經貿合作正面臨重要機遇期，希望英資企業發揮服務業創新優勢，為中英合作增添新動能。吳思田表示，英中貿協願一如既往支援雙方企業增進交流與合作，深化雙方在現代服務業、綠色低碳、生物製藥等領域合作。會見後，商務部投資促進事務局與英中貿協簽署《雙向投資促進合作諒解備忘錄》。（商務部網站）"
     }
   ]
 }
