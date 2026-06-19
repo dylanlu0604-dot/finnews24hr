@@ -1,7 +1,176 @@
 {
-  "updated": "2026-06-19 18:29:04",
-  "count": 18179,
+  "updated": "2026-06-19 18:33:03",
+  "count": 18180,
   "items": [
+    {
+      "id": "mkt:019edf6f-f9c0-7dd8-b093-5926fd2e148c",
+      "time": "2026-06-19 18:31:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian central bank said it will assess at its upcoming meeting whether further rate cuts are necessary."
+    },
+    {
+      "id": "4945033",
+      "time": "2026-06-19 18:31:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，未來三年的財政政策將比此前預期更為寬鬆。"
+    },
+    {
+      "id": "mkt:019edf6f-a697-7dd8-b093-56127e5a8ad3",
+      "time": "2026-06-19 18:31:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Russian central bank cut rates by 25 bps; markets had priced in a 50 bps cut."
+    },
+    {
+      "id": "4945032",
+      "time": "2026-06-19 18:31:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，這可能意味著關鍵利率需要維持在比4月基準情景假設更高的水平上。"
+    },
+    {
+      "id": "4945031",
+      "time": "2026-06-19 18:31:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，近幾個月來放貸增速有所加快。"
+    },
+    {
+      "id": "4945030",
+      "time": "2026-06-19 18:31:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，潛在通脹將在2026年下半年接近4%。"
+    },
+    {
+      "id": "4945029",
+      "time": "2026-06-19 18:31:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示：根據俄羅斯央行的預測，在當前貨幣政策立場下，2026年年度通脹率將降至4.5%-5.5%。"
+    },
+    {
+      "id": "4945028",
+      "time": "2026-06-19 18:31:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，2027年及以後，年度通脹將維持在目標水平。"
+    },
+    {
+      "id": "4945027",
+      "time": "2026-06-19 18:31:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：通脹上行風險因機動車燃料產量暫時下降而加劇。"
+    },
+    {
+      "id": "4945026",
+      "time": "2026-06-19 18:30:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表態： 俄羅斯銀行將在後續會議上評估是否有必要進一步下調關鍵利率，評估依據包括通脹降溫的可持續性、通脹預期走勢，以及對內外部環境帶來的各類風險分析。"
+    },
+    {
+      "id": "mkt:019edf6e-adcc-7dd8-b093-482af9d2d7be",
+      "time": "2026-06-19 18:30:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Guangdong aims to build trillion‑yuan world‑class internet company】Guangdong provincial government issued an implementation plan to expand and upgrade the service sector, launching an internet-enterprise gradient cultivation program and a full‑cycle cultivation system to foster a cohort of 10‑bln‑yuan backbone firms and to strive to create a trillion‑yuan (tln‑yuan) world‑class internet company. The plan prioritizes the digital content cluster — developing national digital cultural IP and smart audio‑visual cloud industrial parks — and supports innovation across internet music, livestreaming, short/long video and online gaming, plus immersive experiences and virtual digital humans; it also pushes AI-driven digitisation of life services and the development of national AI vertical life‑service platforms."
+    },
+    {
+      "id": "4945025",
+      "time": "2026-06-19 18:30:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行將基準利率下調至14.25%；預估為14.00%。"
+    },
+    {
+      "id": "mkt:019edf6e-61ea-7dd8-b093-448b7051c985",
+      "time": "2026-06-19 18:30:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Russia policy rate 14.25% on June 19; market expected 14.00%, prior 14.50%. Cut of 25 bps, smaller than the 50-bp cut expected."
+    },
+    {
+      "id": "te:markets:560462",
+      "time": "2026-06-19 18:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.78% Lower — The SENSEX Index decreased 607 points or 0.78 percent on Friday to close at 76803 points. The decline was led by Infosys (-6.48%), Tata Consultancy (-3.04%) and HCL Tech (-2.73%). On the upside, the strongest performers were Bharti Airtel (1.61%), Power Grid (1.35%) and Nestle India (1.22%)."
+    },
+    {
+      "id": "mkt:019edf6e-32e1-7dd8-b093-3cbdfe575ac9",
+      "time": "2026-06-19 18:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Russia | Bank of Russia Interest Rate Decision (Jun.19) | actual 14.25% | consensus 14.00% | previous 14.50%"
+    },
+    {
+      "id": "mkt:019edf6d-d035-7dd8-b093-3668bcb97e82",
+      "time": "2026-06-19 18:29:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【Guangdong to deepen engagement with Global 500 and China top-100 supply‑chain firms】Guangdong issued an implementation plan to expand and upgrade its services sector, directing officials to deepen contacts with Global 500 and China top-100 supply‑chain companies. The plan targets core provincial industries—autos, energy & chemicals, nonferrous metals, electronic information, building materials and pharmaceuticals—and emerging sectors including integrated circuits, new energy storage and offshore wind, with a focus on attracting headquarters and key projects to plug supply‑chain gaps. It calls for a cultivation and service mechanism for wholesale and supply‑chain backbone firms, assistance on market access, financing and business environment issues, and support for firm scale‑ups. Leveraging Guangzhou and Shenzhen national logistics hubs and provincewide sea‑air port intermodal links, Guangdong will upgrade public information platforms for bulk commodities and integrate traditional wholesale with cross‑border e‑commerce, overseas warehouses and market procurement to create an online‑offline, domestic‑foreign coordinated distribution system. The plan strengthens supply‑chain finance—promoting warehouse‑receipt pledges, order financing and factoring—and encourages data‑enabled credit enhancement to widen funding channels and cultivate more 10 bln yuan‑level supply‑chain backbone enterprises. It also accelerates digital transformation of traditional wholesale markets to establish provincial digital benchmark markets."
+    },
+    {
+      "id": "mkt:019edf6c-f282-7dd8-b093-2e2702f76de8",
+      "time": "2026-06-19 18:28:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong to push scaled drone last‑mile delivery】Guangdong will encourage leading domestic and foreign firms to establish multinational headquarters in the province and support major couriers’ domestic and cross‑border M&A. The plan directs construction of postal and express hub cities, upgrades last‑mile facilities and a county–town–village delivery network, promotes deeper integration of postal services into supply and industrial chains with dedicated routes for seafood, Lingnan produce and southern medicinal herbs, and backs commercial trials of unmanned vehicles while pushing scaled deployment of drone last‑mile delivery."
+    },
     {
       "id": "4945024",
       "time": "2026-06-19 18:28:23",
@@ -167217,143 +167386,6 @@
         "國際"
       ],
       "text": "IRNA：伊朗在“務實”框架下尋求戰爭賠償。"
-    },
-    {
-      "id": "mkt:019ebb64-4f61-7dd8-afdc-6fd2cd171b76",
-      "time": "2026-06-12 18:32:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA: Iranian Foreign Ministry says a framework text is close to being finalized."
-    },
-    {
-      "id": "4932584",
-      "time": "2026-06-12 18:32:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯邦快遞：寄往歐盟地區、內在價值不超過150歐元的消費品包裹，報關單中每個品目將徵收3歐元關稅。"
-    },
-    {
-      "id": "4932583",
-      "time": "2026-06-12 18:32:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部稱框架文字已接近最終定稿。"
-    },
-    {
-      "id": "4932582",
-      "time": "2026-06-12 18:32:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST東易：持股5%以上股東霖鯤科技被司法凍結0.32%公司股份】*ST東易公告，持股5%以上股東天津東易霖鯤科技有限公司所持有本公司的300萬股股份被司法凍結，佔其所持股份比例為4.43%，佔公司總股本比例為0.32%。本次司法凍結起始日為2026年6月10日，到期日為2026年12月9日，司法凍結履行為國家稅務總局中新天津生態城稅務局，原因為司法凍結。"
-    },
-    {
-      "id": "4932581",
-      "time": "2026-06-12 18:32:06",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛總裁：SpaceX IPO凸顯投資者渴望為AI融資 不擔心市場吸納能力】高盛集團總裁John Waldron表示，SpaceX創紀錄的首次公開募股顯示，投資者渴望為人工智慧基礎設施融資。Waldron週五接受採訪時表示，“這表明資本市場，尤其是美國資本市場，但也包括全球資本市場，正在展示出為這輪AI基礎設施建設和太空建設融資的意願。”Waldron還提到，谷歌母公司Alphabet Inc.近期的847.5億美元股權融資，用於發展AI。SpaceX的正式名稱為Space Exploration Technologies Corp.，週四融資750億美元，成為史上規模最大的IPO。其股票定於週五在納斯達克和納斯達克德州市場正式交易，股票程式碼為“SPCX”。Waldron表示，這將是“非常好的一天”。高盛與摩根士丹利、美國銀行、花旗集團和摩根大通共同牽頭此次IPO。另有18家銀行以不同角色參與發行。"
-    },
-    {
-      "id": "4932580",
-      "time": "2026-06-12 18:31:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富淼科技：擬51%股權收購沃特泰科】富淼科技公告，擬以現金方式購買嘉興沃特泰科環保科技股份有限公司6名股東持有的51.00%股權。沃特泰科是一家集工業水處理化學品的研發、生產和銷售，以及定製化運營管理服務於一體的工業水處理綜合服務提供商。本次交易完成後，沃特泰科將成為富淼科技的控股子公司。"
-    },
-    {
-      "id": "4932579",
-      "time": "2026-06-12 18:31:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富淼科技：與沃特泰科簽署戰略合作框架協議】富淼科技公告，公司與沃特泰科於2026年6月12日簽署了《戰略合作框架協議》。雙方旨在推動中國工業水處理行業高質量發展，透過資源整合、技術協作、市場協同，共同打造具有行業影響力的工業水處理整體解決方案能力。合作內容包括產品與供應鏈合作、技術與研發合作、市場與專案合作、生產與製造合作、產業鏈延伸與新興市場領域合作以及人才與管理合作。協議自雙方法定代表人或授權代表簽字並加蓋公章之日起生效，有效期為三年。本次協議對公司2026年度及未來業績不構成直接影響。"
-    },
-    {
-      "id": "4932578",
-      "time": "2026-06-12 18:31:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行主管媒體：要客觀理性看待貸款增速放緩】中國人民銀行主管的《金融時報》發文稱，央行公佈最新的金融資料。截至2026年5月末，人民幣各項貸款餘額281.02萬億元，同比增長5.5%。對於這一資料，業內認為，要準確把握貨幣信貸供需規律和新特點，要客觀理性看待貸款增速放緩。應當看到，貸款增速放緩並不意味著金融支援力度走弱，而是多重因素共同作用下的正常趨勢，背後折射出經濟結構、融資體系的全方位變革。"
-    },
-    {
-      "id": "4932577",
-      "time": "2026-06-12 18:31:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國鐵建自研隧道AI大模型投入應用】據中國鐵建訊息，近日，由鐵建重工牽頭，鐵四院、中鐵十八局、湖南大學聯合攻關的全斷面隧道掘進機AI知識大模型研發實現關鍵突破。其中盾構掘進運維與風險防控智慧體（智慧裝備智慧體）投入工程應用，推動隧道掘進施工由傳統經驗驅動向資料賦能、智慧決策轉型，以人工智慧賦能地下工程智慧建造，助力基建領域新質生產力提質升級。"
-    },
-    {
-      "id": "4932576",
-      "time": "2026-06-12 18:31:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "IRNA：伊朗不是要將霍爾木茲海峽恢復到戰前狀態。"
-    },
-    {
-      "id": "4932575",
-      "time": "2026-06-12 18:30:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【應對贖回 債基密集提高份額淨值精度】6月以來，基金提高份額淨值精度應對贖回的情形頻頻出現。近日，多家基金公司接連發布公告，因旗下基金髮生贖回，為保護持有人利益不因份額淨值的小數點保留精度受到不利影響，決定提高基金份額淨值精度，涉及產品以純債基金為主。值得一提的是，近期債券市場出現震盪調整。業內人士認為，市場進入“賠率不足+波動放大”階段，不過當前階段性回撥，並非基本面邏輯發生逆轉，而是正常技術性釋放，良性調整有助於市場持續行穩致遠。（中國基金報）"
-    },
-    {
-      "id": "4932574",
-      "time": "2026-06-12 18:30:31",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "印度5月消費者價格同比上漲3.93%；預計+4.02%，印度5月份CPI同比增長3.93% 預估為4.02%。"
-    },
-    {
-      "id": "te:markets:558718",
-      "time": "2026-06-12 18:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 2.29% Higher — The SENSEX Index went up by 1694 points or 2.29 percent on Friday to close at 75527 points. The rise was led by Bajaj Finance (5.59%), Larsen & Toubro (4.87%) and Tata Motors (4.12%)."
-    },
-    {
-      "id": "4932573",
-      "time": "2026-06-12 18:29:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美迪西：股東林長青擬減持不超1.12%公司股份】美迪西公告，股東林長青擬減持不超1.12%公司股份。"
-    },
-    {
-      "id": "4932572",
-      "time": "2026-06-12 18:29:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優必選攜手沐曦 夯實國產具身智慧產業根基】6月11日，國產高效能GPU領軍企業沐曦股份與“人形機器人第一股”優必選科技在南京正式簽訂戰略合作協議，合資成立曦選創智科技（無錫）有限公司，旨在打通具身智慧終端場景與國產高階算力之間的協同壁壘，助力國內具身智慧產業邁向自主高質量發展新階段。此次落地無錫高新區的曦選創智專案註冊資本為1億元，由沐曦股份、優必選科技等企業聯合成立。專案計劃於2028年實現量產，屆時將為中國具身智慧產業打造安全、可靠的“國產大腦”，大幅提升人形機器人的自主感知、決策與執行能力。此外，專案將推動具身智慧資料採集中心落地，規劃部署數百臺優必選工業級機器人，利用產線及真實工況資料持續“餵養”模型訓練、運算元最佳化與系統評測。（新華社）"
-    },
-    {
-      "id": "4932571",
-      "time": "2026-06-12 18:29:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【邁威生物靶向LILRB4/CD3TCE雙抗創新藥6MW5311臨床試驗申請獲FDA許可】6月12日，邁威生物宣佈其自主研發的靶向LILRB4/CD3TCE雙抗創新藥（研發代號：6MW5311）獲得美國食品藥品監督管理局（FDA）許可，可針對血液瘤（急性髓系白血病、慢性粒單核細胞白血病以及多發性骨髓瘤）開展臨床試驗。6MW5311為全球首款獲批開展臨床試驗的靶向LILRB4/CD3TCE創新藥。此前，其臨床試驗申請已獲國家藥品監督管理局（NMPA）受理。"
     }
   ]
 }
