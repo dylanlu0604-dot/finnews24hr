@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-20 03:38:29",
-  "count": 17677,
+  "updated": "2026-06-20 03:42:24",
+  "count": 17673,
   "items": [
+    {
+      "id": "mkt:019ee164-0ff9-7dd8-b09a-ad4fc975cc24",
+      "time": "2026-06-20 03:38:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump will begin his first domestic trip since the G7 summit with a visit to the Mack Trucks plant in Pennsylvania's Lehigh Valley."
+    },
     {
       "id": "4945421",
       "time": "2026-06-20 03:35:17",
@@ -162751,57 +162761,6 @@
         "國際"
       ],
       "text": "美國FDA批准首款面向兒童的非處方連續血糖監測儀。"
-    },
-    {
-      "id": "mkt:019ebd5b-236d-7dd8-afe6-cefee3a8e520",
-      "time": "2026-06-13 03:42:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Iranian foreign minister Araghchi said Tehran's sole preferred option for handling stocks of highly enriched uranium is to downblend the material to lower enrichment."
-    },
-    {
-      "id": "4933379",
-      "time": "2026-06-13 03:41:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：對德黑蘭而言，處置高濃縮鈾庫存的唯一優選方案是將相關材料降純稀釋。"
-    },
-    {
-      "id": "4933378",
-      "time": "2026-06-13 03:41:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：我們的任何資產將不再被允許繼續凍結。 已設想了一項重建計劃，以補償伊朗所遭受的損害。"
-    },
-    {
-      "id": "mkt:019ebd58-e973-7dd8-afe6-c366eb720a72",
-      "time": "2026-06-13 03:39:41",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Iran FM says draft Iran-US MoU stipulates ceasefires on all fronts including Lebanon】Iran foreign minister Araghchi told Iranian media on the 12th that a draft Iran–US memorandum of understanding under negotiation stipulates a ceasefire on all fronts, including the front inside Lebanon. He said Iran will not leave Lebanon unsupported."
-    },
-    {
-      "id": "4933377",
-      "time": "2026-06-13 03:38:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯格姆：能源價格將繼續下降。"
     }
   ]
 }
