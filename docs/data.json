@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-19 15:14:56",
-  "count": 18632,
+  "updated": "2026-06-19 15:19:10",
+  "count": 18623,
   "items": [
+    {
+      "id": "te:economy:560393",
+      "time": "2026-06-19 15:17:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Capacity Utilization",
+        "Importance 1"
+      ],
+      "text": "Turkey Factory Capacity Usage Hits 1-Year High — The manufacturing industry in Turkey operated at 74.5% of its production capacity in June 2026, up from 74.2% in the previous month. This marked the highest rate since June last year, driven mainly by a sharp increase in capacity utilization for investment goods, which rose to 73.4% from 70.3%, signaling stronger activity in capital-intensive industries. Intermediate goods utilization remained broadly stable at 75.0% compared with 75.2% in May, continuing to post the highest rate among major sectors. However, most consumer-oriented categories showed weaker performance. Capacity usage for durable consumer goods fell to 67.9% from 70.6%, while non-durable consumer goods eased to 72.6% from 73.1%. Overall consumer goods utilization also declined to 71.8% from 72.7%, and food and beverages slipped to 72.5% from 73.2%."
+    },
+    {
+      "id": "4944846",
+      "time": "2026-06-19 15:17:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行連恩：我們花時間調整利率是合理的。"
+    },
+    {
+      "id": "mkt:019edebc-c665-7dd8-b090-6525a980fcd0",
+      "time": "2026-06-19 15:16:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB chief economist Lane said it is hard to argue that the ECB should not raise interest rates."
+    },
+    {
+      "id": "mkt:019edebc-8fe9-7dd8-b090-5842a5f9d435",
+      "time": "2026-06-19 15:15:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Israeli interior minister says whole Lebanon should be destroyed】Al Jazeera and Israeli media reported heavy fighting between Hezbollah and the ISRAELI MILITARY in southern Lebanon today; the military said four Israeli soldiers were killed. After the escalation, far-right interior minister Ben-Gvir said every Israeli mother's tears should be repaid by a thousand Lebanese mothers and that the whole of Lebanon should be burned."
+    },
+    {
+      "id": "te:economy:560391",
+      "time": "2026-06-19 15:15:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India Bond Yields Steady Ahead of Debt Sale — The yield on India’s 10-Year G-Sec hovered around 6.8%, steadying after retreating to a three-month low as investors awaited the outcome of a INR 320 billion debt auction while monitoring developments in the Middle East. Market participants expect bond yields to remain range-bound until the auction results provide fresh direction. Meanwhile, softer oil prices continued to exert downward pressure on yields, with Brent crude holding below $80 per barrel amid expectations of increased supply after tanker traffic resumed through the Strait of Hormuz. Investor sentiment was further underpinned by sustained overseas demand for Indian debt. Foreign investors have poured more than $2.2 billion into local bonds over the past 10 trading sessions following measures announced by the Reserve Bank of India on June 5 to encourage dollar inflows. Much of the recent buying has been concentrated in the 6.68% 2040 and 7.24% 2055 securities, with the latter included in the latest debt sale."
+    },
+    {
+      "id": "4944845",
+      "time": "2026-06-19 15:15:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列內政部長：應該摧毀整個黎巴嫩】據半島電視臺、今日以色列等中東媒體報道，今日真主黨與以色列在黎巴嫩南部發生激烈衝突，以色列軍方稱有四名士兵在黎巴嫩南部的戰鬥中陣亡。隨後，以色列極右翼內政部長格維爾最新表示：“每一位以色列母親流淚，都應該有一千位黎巴嫩母親來償還。在真主黨升級局勢之後，整個黎巴嫩都該被燒燬。”"
+    },
+    {
+      "id": "4944844",
+      "time": "2026-06-19 15:15:11",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【荷蘭國際：美伊協議未能阻止菲律賓和印尼收緊政策】荷蘭國際集團的Deepali Bhargava在一份報告中表示，美伊和平協議不足以讓菲律賓和印尼央行停止收緊貨幣政策。菲律賓央行的決策者對油價並沒有掉以輕心，因為他們認為油價衝擊可能會更加持久。這位亞太區研究主管表示：“這表明有理由維持緊縮傾向，傾向於採取小幅、同向的舉措，以保持政策信譽，同時限制波動性。“荷蘭國際集團表示，印尼央行上調政策利率的舉措出人意料。不過，Bhargava指出，印尼央行的決定突顯出穩定疲軟印尼盾的明確政策優先事項。"
+    },
+    {
+      "id": "4944843",
+      "time": "2026-06-19 15:14:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行連恩：很難證明我們不應該提高利率。"
+    },
     {
       "id": "4944842",
       "time": "2026-06-19 15:14:00",
@@ -171322,165 +171408,6 @@
         "Impact bearish"
       ],
       "text": "ECB Governing Council member Makhlouf said policymakers need to act pre-emptively to address inflation."
-    },
-    {
-      "id": "4932040",
-      "time": "2026-06-12 15:19:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委馬赫盧夫：我們若無所作為將是一個錯誤。"
-    },
-    {
-      "id": "4932039",
-      "time": "2026-06-12 15:18:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委馬赫盧夫：通脹影響更為廣泛。"
-    },
-    {
-      "id": "4932038",
-      "time": "2026-06-12 15:18:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國10年期國債收益率觸及11日低點4.840%，此前GDP資料疲軟。"
-    },
-    {
-      "id": "4932037",
-      "time": "2026-06-12 15:18:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博傑股份：公司暫無CPO相關裝置】博傑股份(002975)6月12日在互動平臺回覆稱，公司暫無CPO相關裝置。"
-    },
-    {
-      "id": "4932036",
-      "time": "2026-06-12 15:18:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委馬赫盧夫：需要搶在通脹前面行動。"
-    },
-    {
-      "id": "mkt:019ebab1-bf83-7dd8-afd6-88c30384df7e",
-      "time": "2026-06-12 15:17:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "【Since '1+6' STAR Market reforms, 59 new IPO filings accepted】CSRC Shanghai Regulatory Bureau deputy director Zhao Guofu said on June 12 that in the year since the '1+6' STAR Market reform package the market has accepted 59 new IPO filings, a sharp year-on-year rise. Twenty-four of the filings are unprofitable companies, accounting for over 40%. Regulators have steadily resumed applying the fifth set of listing standards to unprofitable firms and have accepted nine new filings under that standard. Guidance was also issued extending the fifth-standard coverage to commercial rocket firms."
-    },
-    {
-      "id": "mkt:019ebab1-8f5a-7dd8-afd6-85a8b6bc0c7b",
-      "time": "2026-06-12 15:17:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Over 11.5 mln retail accounts signed STAR Market Growth Tier risk disclosure and opened trading access in past year】Shanghai Securities Regulatory Bureau deputy director Zhao Guofu said at a Shanghai government press briefing that, since the '1+6' STAR Market reform package was issued a year ago, more than 11.5 million retail investor accounts have signed the Growth Tier investment risk disclosure and opened trading permissions."
-    },
-    {
-      "id": "4932035",
-      "time": "2026-06-12 15:17:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科創板改革“1+6”政策措施釋出以來 科創板IPO新增受理59家】中國證監會上海監管局副局長趙國富在6月12日舉行的上海市新聞釋出會上表示，一年來，中國證監會會同各方深入落實科創板改革“1+6”政策措施，推動相關創新制度和示範性案例漸次落地，改革效應逐步顯現。政策釋出一年來，科創板IPO新增受理59家，同比大幅增長，其中未盈利企業24家，數量佔比超4成。穩步重啟未盈利企業適用第五套標準上市，目前已新增受理9家。釋出商業火箭企業適用指引，擴大第五套標準覆蓋面。"
-    },
-    {
-      "id": "4932034",
-      "time": "2026-06-12 15:17:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【近一年超1150萬戶個人投資者簽署科創成長層投資風險揭示書 開通交易許可權】6月12日，上海市政府舉行新聞釋出會，介紹2026陸家嘴論壇有關情況。上海證監局副局長趙國富在釋出會上透露，科創板改革的“1+6”政策釋出一年來，超過1150萬戶個人投資者簽署科創成長層投資風險揭示書，開通交易許可權。"
-    },
-    {
-      "id": "4932033",
-      "time": "2026-06-12 15:16:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【克萊斯勒召回逾107萬輛Jeep車型，轉向系統線路存起火風險】據美國國家公路交通安全管理局（NHTSA）6月12日披露，克萊斯勒正在召回部分2021至2025款Jeep Wrangler、Wrangler 4XE及Jeep Gladiator車型，共計1076999輛。上述車輛電動液壓助力轉向泵線路可能過熱，即便車輛熄火停放亦可能引發起火，增加人員受傷風險。"
-    },
-    {
-      "id": "mkt:019ebab0-bc7a-7dd8-afd6-7fdf168f3b2a",
-      "time": "2026-06-12 15:16:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Report: China expects about 300 GW of wind and solar additions in 2026】The China Renewable Energy Development Report released on the 12th says 2025 renewable new installed capacity hit a record and accounted for over 60% of global additions. The report forecasts roughly 300 GW of wind and solar new capacity in 2026 and says renewables will remain the backbone of China’s green, low‑carbon energy transition."
-    },
-    {
-      "id": "4932032",
-      "time": "2026-06-12 15:16:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【2025年我國經濟增長新增用電首次全部由綠電支撐】今天（12日）釋出的《中國可再生能源發展報告》顯示，2025年我國可再生能源新增裝機再創歷史新高，在全球新增裝機佔比超過60%。預計2026年我國風電、光伏新增裝機約3億千瓦左右，可再生能源將繼續成為我國能源綠色低碳轉型的主力。資料顯示，2025年全國可再生能源發電裝機容量突破23.37億千瓦，新增可再生能源發電裝機佔全國新增電力裝機的82.7%，分散式光伏新增裝機連續兩年過億千瓦，新能源就近就地消納利用水平進一步提升。2025年，全年可再生能源發電量約4萬億千瓦時，風電光伏發電量均邁上“萬億千瓦時”量級，在全國總發電量中的佔比雙雙突破10%。（央視新聞）"
-    },
-    {
-      "id": "te:markets:558639",
-      "time": "2026-06-12 15:16:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 1.13% Higher — The Shangai Composite Index rose 45 points or 1.13 percent on Friday to close at 4032 points. Leading the gains are China Molybdenum (10.02%), Avic Shenyang Aircraft (6.99%) and Hengli Petrochemical (6.88%)."
-    },
-    {
-      "id": "mkt:019ebab0-4f42-7dd8-afd6-71cba61eef40",
-      "time": "2026-06-12 15:16:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China bond futures midday close】2-year China bond futures (TS) main contract flat; 5-year (TF) up 0.01%; 10-year (T) up 0.05%; 30-year (TL) up 0.33% at the midday close."
-    },
-    {
-      "id": "4932031",
-      "time": "2026-06-12 15:16:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【杭州餘杭區釋出助企服務“省心10條”，特別聚焦人工智慧產業發展】優質的營商環境是吸引企業落戶的“梧桐樹”。為進一步降低企業成本、激發市場活力，近日，餘杭區正式釋出助企服務“省心10條”。該舉措依託“餘省心”數字化平臺，聚焦企業全生命週期服務，涵蓋創業空間、金融支援、算力保障及法治護航等多個維度，旨在讓企業在餘杭創業創新全程省心、安心。（澎湃新聞）"
-    },
-    {
-      "id": "4932030",
-      "time": "2026-06-12 15:15:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長安汽車趙非：堆料式競爭已觸及天花板，現在比拼的是產品、服務，以及服務帶來的情緒價值】在2026中國汽車重慶論壇開幕全體會議上，中國長安汽車集團有限公司總經理趙非發表演講。他表示，當前中國汽車產業正處於一場深刻的變革，行業與市場競爭邏輯發生了根本性的變化。第一，智慧化邁入深水區，人工智慧全面賦能汽車產業，使用者需求正從“可用”向“好用”全面升級。隨著技術日益成熟，使用者已不滿足基本功能，而更看重實際體驗：城區駕駛能不能像老司機一樣暢通流暢？惡劣天氣下駕駛會不會失靈？泊車能不能應對極限場景？體驗的優劣決定了使用者的選擇，智慧化AI的競爭，正從之前的配置領先，轉向體驗決勝。第二，中國汽車品牌市場向海外延伸，出海成為品牌增長的核心增量路徑。據統計，目前中國品牌全球拓展區域已超過200個國家及地區，海外匯入產品高達760餘款，覆蓋市場容量超6000萬。但海外市場拓展並非簡單銷售的延伸，各國法規、標準、供應鏈體系、用車偏好差異較大，早期貿易出口模式已不再適應全球化發展需求。全球化正從單一產品出海，轉向生產製造出海、技術產權出海、體系能力出海的產業出海、品牌出海全面發展。第三，競爭從快速迭代的產品供給，轉向生態圈厚度的耐力比拼。我們經歷了高速增長，也經歷了劇烈洗牌，行業進入了相對較長的收斂期。過去比拼的是產品迭代速度、參數列數字、配置清單長度，這種堆料式競爭已觸及天花板。現在比拼的是產品、服務，以及服務帶來的情緒價值，行業已全面邁入大產業、大生態的新階段。此時，跨領域融合已不再是車企發展的可選項，而是必修課。他認為，應對這些變化，我們需要創新與韌性，以創新求突破，以韌性守底線，這才是汽車產業發展的根本。過去一些科技創新脫離了實際使用場景，使用者感知不到價值，甚至還有冗餘設計。“我們必須清醒認識到：科技必須解決真實痛點，為使用者日常出行帶來體驗升級，讓使用者從不敢用到用得便利，再到放心用、用得舒心。我們更要清醒認識到，如果體驗脫離了安全這個根基，一切都是空談。長安始終堅信，安全是最大的豪華，更是智慧化的絕對底線。”（新浪科技）"
-    },
-    {
-      "id": "4932029",
-      "time": "2026-06-12 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.33%， 10年期主力合約漲0.05%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。"
     }
   ]
 }
