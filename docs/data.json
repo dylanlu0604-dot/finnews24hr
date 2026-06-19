@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-20 02:09:29",
-  "count": 17756,
+  "updated": "2026-06-20 02:13:32",
+  "count": 17757,
   "items": [
+    {
+      "id": "mkt:019ee116-258e-7dd8-b09a-3f5ee2963b16",
+      "time": "2026-06-20 02:13:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said ANTHROPIC should not be regarded as a national security threat."
+    },
+    {
+      "id": "mkt:019ee115-e226-7dd8-b09a-37630b4141c1",
+      "time": "2026-06-20 02:12:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios: President Trump said the US will be able to prevent Israel from attacking Lebanon."
+    },
+    {
+      "id": "mkt:019ee115-9fcf-7dd8-b09a-2c3f56e4a6e3",
+      "time": "2026-06-20 02:12:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios quoted President Trump as saying a war with Iran could trigger a global depression and that the agreement averted that outcome."
+    },
+    {
+      "id": "4945391",
+      "time": "2026-06-20 02:11:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不將 Anthropic 視作國家安全威脅。"
+    },
+    {
+      "id": "4945390",
+      "time": "2026-06-20 02:11:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國交通大臣：獲悉兩列火車相撞的相關報道，我深感擔憂。"
+    },
+    {
+      "id": "mkt:019ee114-143d-7dd8-b09a-22bb0a9d3dfa",
+      "time": "2026-06-20 02:10:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "AXIOS reports President Trump said Cuba is very eager to engage in talks."
+    },
+    {
+      "id": "mkt:019ee113-0fa7-7dd8-b09a-1b1a0e69dc89",
+      "time": "2026-06-20 02:09:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed vice chair for supervision Bowman attends private BofA client dinner during blackout; compliance questioned】Fed vice chair for supervision Bowman attended an invite-only BofA client dinner in New York on Wednesday night, several hours after the Fed released its latest policy decision. The event occurred during the Fed’s communication blackout, which bars officials from commenting publicly on the economy or monetary policy for several days around meetings and runs through the day after the meeting (Thursday). Fed guidance does not explicitly prohibit closed‑door meetings but requires officials to avoid sharing personal policy views with parties that could profit or to confer reputational advantages on a firm; policymakers should be cautious about meetings with those who could benefit from exclusive access or accepting invitations from for‑profit, non‑public events. It is unclear whether Bowman’s attendance violated Fed rules."
+    },
+    {
+      "id": "4945389",
+      "time": "2026-06-20 02:09:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我有辦法約束以色列，使其不對黎巴嫩發動襲擊。"
+    },
     {
       "id": "4945388",
       "time": "2026-06-20 02:08:43",
@@ -163496,73 +163572,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural Gas UK Plunges by 6.97% — Top commodity losers are Natural Gas UK (-6.97%), Natural Gas EU (-6.63%), Germany Natural Gas THE (-5.54%), Brent Crude Oil (-3.34%) and Crude Oil WTI (-3.23%). Gains are led by Methanol (1.40%) and Natural gas (0.91%)."
-    },
-    {
-      "id": "mkt:019ebd09-d894-7dd8-afe5-4d1383985f17",
-      "time": "2026-06-13 02:13:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "The Information reported Microsoft (MSFT.O) considered spinning off its Xbox unit into an independent company and planned to release new Halo and Fallout titles."
-    },
-    {
-      "id": "mkt:019ebd08-c832-7dd8-afe5-43f2eb22540c",
-      "time": "2026-06-13 02:12:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Sources: Pakistan deputy PM and foreign minister to go to Geneva to advance Iran–U.S. mediation】People familiar with the matter said on the 12th that Pakistan’s deputy prime minister and foreign minister Dar will travel to Geneva to continue mediation between Iran and the United States. His main task is coordinating discussions on a possible understanding between Tehran and Washington."
-    },
-    {
-      "id": "4933297",
-      "time": "2026-06-13 02:12:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "據《The Information》：微軟曾考慮分拆 Xbox 業務，並計劃推出新款《光環》與《輻射》系列遊戲。"
-    },
-    {
-      "id": "4933296",
-      "time": "2026-06-13 02:11:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【巴基斯坦外長將前往日內瓦推進伊朗與美國間斡旋工作】巴基斯坦副總理兼外交部長達爾將啟程前往瑞士日內瓦，以繼續推進在伊朗與美國間的斡旋工作。訊息人士表示，達爾此行的主要任務包括就伊美雙方可能達成的諒解進行協調溝通。（新華社）"
-    },
-    {
-      "id": "mkt:019ebd07-99b3-7dd8-afe5-3c40cc1a8baf",
-      "time": "2026-06-13 02:10:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Refinitiv cited two sources saying the UAE has agreed to release $10 billion in funds, with more than $3 billion already delivered."
-    },
-    {
-      "id": "4933295",
-      "time": "2026-06-13 02:10:33",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【先鋒領航終結貝萊德在美國ETF市場長達20年的霸主地位】先鋒領航集團（Vanguard Group）已超越貝萊德公司（BlackRock Inc.），成為美國最大的交易所交易基金（ETF）發行商，其旗下美國上市ETF的管理規模達到約4.39萬億美元。2026年至今，先鋒領航的ETF已吸引2910億美元資金流入；其中，先鋒標普500 ETF是主要貢獻者，年初至今淨流入近1130億美元。儘管在ETF總資產規模上超越了貝萊德，但貝萊德憑藉其豐富的基金產品線，依然能創造更高的管理費收入，並且在全球範圍內仍是最大的ETF發行商。"
-    },
-    {
-      "id": "mkt:019ebd07-048a-7dd8-afe5-352efe73a648",
-      "time": "2026-06-13 02:10:14",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Refinitiv sources say the UAE has agreed to unfreeze tens of billions of dollars in funds for Iran."
     }
   ]
 }
