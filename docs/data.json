@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-21 04:39:33",
-  "count": 17536,
+  "updated": "2026-06-21 04:43:33",
+  "count": 17537,
   "items": [
+    {
+      "id": "4945997",
+      "time": "2026-06-21 04:41:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果民主共和國表示，埃博拉確診病例已升至956例，其中包括247例死亡病例。"
+    },
+    {
+      "id": "mkt:019ee6c3-b21a-7dd8-b0a1-ff121fea1279",
+      "time": "2026-06-21 04:40:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian negotiating delegation arrives in Switzerland】An Iranian negotiating delegation arrived in Zurich on the 21st (local time)."
+    },
+    {
+      "id": "4945996",
+      "time": "2026-06-21 04:40:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：交火行動應當充分停歇，為黎巴嫩停火創造條件。"
+    },
     {
       "id": "mkt:019ee6c2-30ed-7dd8-b0a1-f68806a7d2b9",
       "time": "2026-06-21 04:39:06",
@@ -161551,27 +161575,6 @@
         "國際"
       ],
       "text": "【特朗普擬提名前商品期貨交易委員會執法主管麥克唐納出任華爾街最高檢察官】特朗普表示，計劃任命詹姆斯・麥克唐納為紐約南區聯邦檢察官。該聯邦檢察官辦公室負責處理多起涉及華爾街的重大案件。麥克唐納將接替傑伊·克萊頓。約兩週前，特朗普提名克萊頓出任美國國家情報總監，此前其臨時任命——住房事務官員比爾·普爾特——遭到國會強烈反對。現任國家情報總監圖爾茜·加巴德宣佈辭職後，特朗普曾提名普爾特接任。"
-    },
-    {
-      "id": "4934034",
-      "time": "2026-06-14 04:41:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "約300架烏克蘭無人機正針對俄羅斯本土及俄控區域展開行動。"
-    },
-    {
-      "id": "mkt:019ec2b6-652d-7dd8-afee-27f1b6cc55cf",
-      "time": "2026-06-14 04:39:53",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Qatari prime minister and foreign minister, Kuwaiti foreign minister welcome Pakistan-mediated final text of US‑Iran peace deal; expect prompt signing】On June 13, Qatar’s prime minister and foreign minister spoke by phone with Kuwait’s foreign minister and welcomed the Pakistan-mediated final text of a US‑Iran peace agreement. Both parties said they were highly satisfied with progress, urged Washington and Tehran to sign the text promptly, and reaffirmed support for resolving outstanding issues via dialogue to bolster regional security and stability."
     }
   ]
 }
