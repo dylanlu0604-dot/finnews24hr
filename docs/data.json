@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 14:15:47",
-  "count": 17592,
+  "updated": "2026-06-20 14:19:50",
+  "count": 17588,
   "items": [
+    {
+      "id": "4945696",
+      "time": "2026-06-20 14:15:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【L4級強制加鐳射雷達？小鵬方面做出正式回應】6月20日，針對近期部分自媒體關於“L3/L4級自動駕駛強制國標”的片面解讀與不實傳言，小鵬集團相關負責人透過社交媒體，對“L3必須雙冗餘、L4必須加鐳射雷達”等謠言進行了嚴正澄清。近日，隨著《智慧網聯汽車自動駕駛系統安全要求》強制性國家標準（報批稿）進入公示階段，網路上出現了大量關於該標準的歪曲解讀，甚至斷言純視覺方案將被強制淘汰。 對此，小鵬方面明確指出，相關流傳說法純屬毫無依據的假新聞。經查閱公開可查的檔案原文及編制說明，其中並未出現“鐳射雷達”等具體硬體型別的文字表述，相關謠言既無任何條款依據，也與編制說明的解釋相悖。"
+    },
     {
       "id": "4945695",
       "time": "2026-06-20 14:05:17",
@@ -162006,46 +162014,6 @@
         "DXY"
       ],
       "text": "Israel issued mandatory evacuation orders for 20 towns and villages in Lebanon."
-    },
-    {
-      "id": "4933698",
-      "time": "2026-06-13 14:16:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京市釋出雷電黃色預警】6月13日，北京市氣象局釋出雷電黃色預警：預計6月13日15時至23時，我市自西向東將出現雷陣雨，局地短時雨強較大，並伴有7級以上短時大風和冰雹，請注意防範。"
-    },
-    {
-      "id": "mkt:019ebfa0-5238-7dd8-afe8-9fa884f048eb",
-      "time": "2026-06-13 14:16:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's Krasnodar regional governor said a fire at an offshore pier was caused by a drone attack."
-    },
-    {
-      "id": "mkt:019ebfa0-210b-7dd8-afe8-96f582ffc8b5",
-      "time": "2026-06-13 14:16:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "i24 News reported the Israel Defense Forces intercepted an aerial object originating from Lebanon after air-raid sirens sounded in northern Israel."
-    },
-    {
-      "id": "4933697",
-      "time": "2026-06-13 14:16:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯克拉斯諾達爾邊疆區一處海上碼頭遭無人機襲擊後起火，當地官方已證實該訊息。"
-    },
-    {
-      "id": "4933696",
-      "time": "2026-06-13 14:16:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列北部響起防空警報後，以色列國防軍攔截了一枚從黎巴嫩入境的空中目標。"
     }
   ]
 }
