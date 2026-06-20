@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-20 23:46:12",
-  "count": 17530,
+  "updated": "2026-06-20 23:50:16",
+  "count": 17528,
   "items": [
+    {
+      "id": "4945912",
+      "time": "2026-06-20 23:48:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統辦公室：由佩澤希其揚主持，議會議長、司法總監出席的會議，商討了即將開展的談判程序與維護國家利益相關事宜。"
+    },
+    {
+      "id": "4945911",
+      "time": "2026-06-20 23:48:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "翻朗革命衛隊海軍：我方已全面封鎖霍爾木茲海峽。"
+    },
+    {
+      "id": "4945910",
+      "time": "2026-06-20 23:46:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員斯科特透露，特朗普將於下週三出席參議院共和黨午餐會。"
+    },
     {
       "id": "4945909",
       "time": "2026-06-20 23:36:17",
@@ -161485,49 +161509,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：美國男足迎來精彩且具有歷史意義的一晚！我有幸和七萬餘名球迷一同觀看2026年世界盃在美國舉辦的首場賽事。"
-    },
-    {
-      "id": "mkt:019ec1ac-cd70-7dd8-afec-9fed4bb9dcba",
-      "time": "2026-06-13 23:49:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan foreign ministry: US-Iran agreement electronic signing ceremony set for 14th】Pakistan's foreign ministry said on June 13 Deputy Prime Minister and Foreign Minister Ishaq Dar spoke by phone with Saudi Foreign Minister Faisal and that an electronic signing ceremony for a US-Iran agreement is scheduled for the 14th. Both ministers welcomed talks entering a final stage and said the e-signing could help promote durable regional peace and stability. Faisal praised Pakistan's mediation support."
-    },
-    {
-      "id": "mkt:019ec1aa-ee8e-7dd8-afec-926e52740bf3",
-      "time": "2026-06-13 23:47:45",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Fars News Agency: an Iranian foreign ministry spokesman said Iran's measures to ensure safe navigation in the Strait of Hormuz are consistent with safeguarding national security and the international community's common interests."
-    },
-    {
-      "id": "mkt:019ec1aa-4d8f-7dd8-afec-8ce3be480413",
-      "time": "2026-06-13 23:47:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Fars News Agency, Iran's foreign ministry spokesman said foreign bases and military presence in the region must end."
-    },
-    {
-      "id": "4933953",
-      "time": "2026-06-13 23:46:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦外交部：美伊協議電子簽署儀式14日舉行】巴基斯坦外交部13日發表宣告說，巴基斯坦副總理兼外交部長達爾當天與沙烏地阿拉伯外交大臣費薩爾通電話。美國與伊朗相關協議電子簽署儀式定於明日舉行。宣告說，兩國外長對美國與伊朗談判進入最後階段表示歡迎，相關協議電子簽署儀式定於明日舉行。雙方期待這一重要進展有助於促進該地區的持久和平與穩定。宣告表示，費薩爾讚賞巴基斯坦在整個過程中為支援調解和對話作出的不懈努力。（新華社）"
-    },
-    {
-      "id": "mkt:019ec1a9-c6bb-7dd8-afec-81cd47511994",
-      "time": "2026-06-13 23:46:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fars News Agency reported Iran’s Foreign Ministry spokesman said releasing Iran’s frozen funds is an important part of the agreement."
     }
   ]
 }
