@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21 00:50:34",
-  "count": 17528,
+  "updated": "2026-06-21 00:54:40",
+  "count": 17526,
   "items": [
     {
       "id": "4945932",
@@ -161485,27 +161485,6 @@
         "國際"
       ],
       "text": "市場資訊：美國和伊朗高階官員將在瑞士舉行會晤。"
-    },
-    {
-      "id": "mkt:019ec1e7-a2c4-7dd8-afed-0b5891405ca2",
-      "time": "2026-06-14 00:54:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Trump says deal to be signed tomorrow; Strait of Hormuz to be \"open to all nations\"】President Trump posted on social media that an agreement with Iran will be signed tomorrow and, once signed, the Strait of Hormuz will be \"open to all nations.\" He said the deal will involve no cash transfers, unlike Obama-era payments. Trump added that, when appropriate and after conditions calm, the US would use B-2 bombers to recover \"nuclear dust\" and dilute/destroy it in Iran or the United States. He said he expects long-term cooperation with Iran and the region but warned if the process fails \"we have an ultimate alternative we hope never to use.\""
-    },
-    {
-      "id": "mkt:019ec1e4-a5aa-7dd8-afed-048c3a1cb7a3",
-      "time": "2026-06-14 00:50:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said US-Iran relations are markedly different and better than under prior administrations."
     }
   ]
 }
