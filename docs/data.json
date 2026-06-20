@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-20 11:48:50",
+  "updated": "2026-06-20 11:52:52",
   "count": 17590,
   "items": [
+    {
+      "id": "mkt:019ee328-507d-7dd8-b09c-12c76f2a6314",
+      "time": "2026-06-20 11:52:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Douyin e-commerce: Over 120,000 merchants' livestream GMV doubled YoY during 6·18】On June 19 Douyin e-commerce said that during this year’s 6·18 shopping festival more than 120,000 merchants saw livestream GMV double YoY. The number of merchants with livestream GMV above 1 mln yuan rose 152% YoY, supported by platform coupons. Live-streaming remained a primary driver of goods sales and merchant revenue. More than 570,000 influencers recorded sales that doubled YoY."
+    },
+    {
+      "id": "4945656",
+      "time": "2026-06-20 11:51:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音電商：6·18期間超12萬商家直播成交額同比翻倍】6月19日，抖音電商釋出資料顯示，今年6·18期間，超12萬商家直播成交額同比翻倍，依託平臺消費券，直播成交額破百萬元的商家數量同比增長152%，直播仍是拉動商品銷售、帶動商家增收的重要載體。達人生態層面，超57萬達人帶貨成交額同比翻倍。"
+    },
     {
       "id": "4945655",
       "time": "2026-06-20 11:47:48",
@@ -162000,22 +162018,6 @@
         "MKT News"
       ],
       "text": "【Draft US-Iran memorandum would commit to mutual non-interference in internal affairs】On June 12 Iranian foreign minister Araghchi told Iranian media a memorandum the US and Iran may sign within days would pledge both sides to respect sovereignty and refrain from interfering in each other’s internal affairs. Araghchi said the text is the first time in 47 years the United States has explicitly acknowledged respect for Iranian sovereignty in writing. He warned US threats would be counterproductive and said Iran is prepared for either a settlement or war."
-    },
-    {
-      "id": "4933645",
-      "time": "2026-06-13 11:51:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗哈塔姆・安比亞指揮部：世界很快將聽到我們抗擊敵人、取得勝利的迴響。"
-    },
-    {
-      "id": "4933644",
-      "time": "2026-06-13 11:49:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【法國調查顯示公眾對人工智慧態度分化明顯】法國一項新公佈的調查結果顯示，65%的法國人使用人工智慧工具，但法國公眾對人工智慧的態度分化明顯。這項名為《法國人與人工智慧》的調查由埃拉貝民意調查公司12日釋出，樣本為1503名法國本土18歲及以上居民。調查結果顯示，法國公眾對人工智慧的態度分化明顯，54%的受訪者認為人工智慧首先是威脅，45%則認為首先是機會。此外，在各個群體使用人工智慧的比例方面，存在明顯的代際、階層和地域差異。18歲至34歲人群中為87%，而50歲以上人群中只有54%；管理人員中為86%，而工人中只有56%；大城市居民中為71%，而農村居民中只有57%。調查顯示，大多數受訪者認為，使用人工智慧將成為未來社會的核心能力，應當被引入學校教育。（新華社）"
     }
   ]
 }
