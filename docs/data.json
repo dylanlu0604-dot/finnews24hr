@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-20 23:58:37",
-  "count": 17525,
+  "updated": "2026-06-21 00:03:05",
+  "count": 17526,
   "items": [
+    {
+      "id": "mkt:019ee5c3-deae-7dd8-b0a0-6892a2a2d718",
+      "time": "2026-06-21 00:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Mehr news agency reports an adviser to Iran's Supreme Leader said if an agreement remains on paper, Middle East energy flows will continue to be disrupted."
+    },
+    {
+      "id": "mkt:019ee5c3-d180-7dd8-b0a0-61ce37fb9517",
+      "time": "2026-06-21 00:01:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says Italian PM Meloni refused U.S. on Iran, denied airfield access】U.S. President Trump posted on social media on June 20 saying Italian Prime Minister Meloni refused to support the U.S. in preventing Iran from obtaining or developing nuclear weapons and declined U.S. use of Italian airfields and runways, causing significant logistical inconvenience despite the billions the U.S. spends annually to defend Italy and other NATO allies."
+    },
+    {
+      "id": "4945915",
+      "time": "2026-06-21 00:01:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問表示，若協議僅停留在紙面上，中東能源運輸將繼續停滯。"
+    },
+    {
+      "id": "mkt:019ee5c2-4fc2-7dd8-b0a0-5bbd395f8c26",
+      "time": "2026-06-20 23:59:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Local governor said Russian forces used glide bombs to strike Zaporizhzhia in southeastern Ukraine, killing four and wounding six."
+    },
+    {
+      "id": "4945914",
+      "time": "2026-06-20 23:58:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩陸軍司令：維護安全與穩定是國家優先事項，並防止以色列透過破壞內部安全來實現該目標。"
+    },
     {
       "id": "4945913",
       "time": "2026-06-20 23:51:50",
@@ -161449,42 +161505,6 @@
         "國際"
       ],
       "text": "伊朗方面表示，現階段不會提及核問題，解凍伊朗被凍結資產是相關協議的必要內容。"
-    },
-    {
-      "id": "mkt:019ec1b8-7f02-7dd8-afec-bb33943a8ba5",
-      "time": "2026-06-14 00:02:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syria's president said demarcating the border with Lebanon is not a current priority, particularly while Lebanon faces a crisis and internal displacement."
-    },
-    {
-      "id": "mkt:019ec1b8-4554-7dd8-afec-b77dd831913b",
-      "time": "2026-06-14 00:02:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syria's president said reports that Syria intervened in Lebanon are unfounded."
-    },
-    {
-      "id": "mkt:019ec1b7-beb3-7dd8-afec-ace0e037bab2",
-      "time": "2026-06-14 00:01:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump to hold bilateral meetings with Middle East partners, India at G7 in France — US officials】President Trump will hold bilateral meetings next week during the G7 leaders' summit in France with leaders from France, Qatar, the UAE, Egypt and India, senior US officials said. Officials said Trump is expected to focus on economic development and security, supply‑chain resilience, artificial intelligence, regulatory simplification and energy abundance."
-    },
-    {
-      "id": "mkt:019ec1b5-ce22-7dd8-afec-a1026e33631c",
-      "time": "2026-06-13 23:59:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fars news agency reported Iran's foreign ministry spokesman said Iran will require payment for services provided in the Strait of Hormuz."
     }
   ]
 }
