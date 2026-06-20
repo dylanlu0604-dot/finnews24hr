@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-20 23:46:12_
-_本檔包含 3529 則快訊，約 649962 字_
+_更新時間：2026-06-21 00:16:48_
+_本檔包含 3520 則快訊，約 649590 字_
+
+---
+
+### 2026-06-18 18:39:06  #MKT News #Important #Nikkei 225 #Impact bullish
+
+JP Morgan raised its end‑2026 target for Japan's Nikkei 225 to 75,000 from 70,000.
+
+---
+
+### 2026-06-18 18:38:34  #MKT News #Market Themes #AI Revolution
+
+【China's National Financial Regulatory Administration to advance AI infrastructure for finance】China's National Financial Regulatory Administration issued guidance on the secure development and deployment of AI in banking and insurance, calling for construction of an industry AI-application ecosystem and the development of AI application infrastructure to enable cross-sector sharing and reuse of AI outputs. The guidance urges large financial institutions to act as demonstrators and export AI technology and governance experience to smaller firms, supports collaboration among small and medium-sized institutions to accelerate scenario implementation, and encourages closer coordination with the AI industry so financial applications drive industrial innovation and industrial成果 improve financial application quality and efficiency.
+
+---
+
+### 2026-06-18 18:38:30  #MKT News #Market Regions #Greater China
+
+【Shenzhen amendment not a green light for citywide autonomous taxis; industry says 'orderly exploration' is key】An amendment to the Shenzhen Special Economic Zone Intelligent Connected Vehicles Management Regulations takes effect July 1. Article 17 authorizes the municipal government to “orderly explore full-area open road testing and demonstration applications” and to explore commercial operation pilots. Industry sources say the market should focus on the qualifier “orderly explore”: current legal scope remains testing and demonstration only, and Shenzhen has not issued city-level commercial pilot policies. The clause provides a legal basis to expand testing but does not set timing or designate areas; further rollout will depend on infrastructure readiness and safety assessments and is expected to be phased across multiple scenarios.
+
+---
+
+### 2026-06-18 18:38:21  #觀點 #國際
+
+摩根大通將日本日經指數 2026 年末目標點位從此前 70000 點上調至 75000 點。
+
+---
+
+### 2026-06-18 18:38:14  #MKT News #Important #Market Themes #AI Revolution #CSI300 #Impact mixed
+
+【National Financial Regulatory Administration backs controlled use of generative AI by financial institutions】The National Financial Regulatory Administration (NFRA) issued guidance on secure development and application of AI in the banking and insurance sectors. It calls for promoting next‑generation AI and supports financial institutions, under controllable risk conditions, to advance business use of generative AI, build supporting capability systems, and cautiously explore AI R&D and construction of financial AI agents. Financial institutions must enforce access management for generative AI models and assess model effectiveness and security/compliance. Externally sourced generative AI models must be filed with the Cyberspace Administration of China (CAC).
 
 ---
 
@@ -21265,89 +21295,5 @@ United States | Core Retail Sales (MoM) (May) | actual 0.8% | consensus 0.5% | p
 ### 2026-06-17 20:30:02  #MKT News #Economic Calendar #Important
 
 Canada | New Housing Price Index (MoM) (May) | actual -0.3% | previous -0.4%
-
----
-
-### 2026-06-17 20:30:01  #MKT News #Economic Calendar #Important
-
-United States | Retail Sales (MoM) (May) | actual 0.9% | consensus 0.5% | previous 0.50%
-
----
-
-### 2026-06-17 20:29:55  #公司
-
-【福石控股：宋春靜累計減持2863.78萬股】福石控股公告，資訊披露義務人宋春靜由於自身資金需求，透過大宗交易和集中競價方式累計減持公司股份2863.78萬股，佔總股本的2.9711%。減持後，宋春靜持有公司4819.42萬股，佔總股本的4.9999%。其中，透過大宗交易在2024年8月30日和2024年12月5日至2025年1月14日期間分別減持153.66萬股和1774.1萬股，透過集中競價在2026年3月18日至2026年6月17日期間減持936.01萬股。
-
----
-
-### 2026-06-17 20:29:52  #國際
-
-【超300款AI產品將全球首發 2026世界人工智慧大會搶先看】今天（6月17日），2026世界人工智慧大會暨人工智慧全球治理高階別會議舉行倒計時30天釋出會。今年的大會以“智慧夥伴，共創未來”為主題，將於7月17日至20日舉辦，由外交部、科技部、工信部等10個部門與上海市政府共同主辦。（央視新聞）
-
----
-
-### 2026-06-17 20:29:22  #公司
-
-【韻達股份：5月快遞服務業務收入47.17億元 同比增長6.84%】韻達股份公告，2026年5月快遞服務業務收入為47.17億元，同比增長6.84%；完成業務量為22.91億票，同比下降0.52%；快遞服務單票收入為2.06元，同比增長7.29%。
-
----
-
-### 2026-06-17 20:29:11  #MKT News
-
-Central Bank of Uzbekistan holds its benchmark policy rate at 14%.
-
----
-
-### 2026-06-17 20:29:01  #公司 #市場
-
-【諾德股份：股價近30日漲幅超50% 提示多項風險】諾德股份公告稱，2026年5月7日至6月17日，公司股票近三十個交易日收盤價格漲幅累計達52.52%，期間2次觸及異常波動，6月17日再次漲停。公司基本面未變，當前股價對應的PE（TTM）為 -135倍，存在回撥風險。此外，公司及相關高管因涉嫌信披違規被立案調查，結果未出。公司2025年淨虧損2.99億元，2026年一季度淨利潤4009萬元。高階電子電路銅箔未量產，產業化進度、訂單及盈利兌現存在不確定性。
-
----
-
-### 2026-06-17 20:28:38  #焦點 #國際
-
-據多家伊朗媒體17日報道，隨著美國海上封鎖的解除，3艘載有500萬桶原油的伊朗油輪透過了霍爾木茲海峽。（新華社）
-
----
-
-### 2026-06-17 20:28:27  #其他
-
-烏茲別克中央銀行維持基準利率在14%不變。
-
----
-
-### 2026-06-17 20:27:58  #MKT News #Market Themes #AI Revolution #Macro & Rates #US Economy #S&P500 #Impact bullish #Nasdaq100 #WTI #Impact bearish
-
-【JPMorgan Asset Management: AI investment surge and resilient consumer spending to sustain expansion】JPMorgan Asset Management says an AI investment surge and resilient consumer spending will sustain economic expansion. Firms' ramp-up of AI infrastructure spending is boosting momentum, while rising stock and house prices are creating a wealth effect that supports high‑income consumption. Chief global strategist David Kelly said the economy should strengthen by mid‑year, with income‑tax refunds and AI‑related spending as key near‑term growth drivers. Continued growth into Q4 hinges on further Washington fiscal stimulus; JPMorgan's baseline assumes Democrats retake the House, which it says would reduce the probability of new fiscal stimulus in 2027. Assuming tensions in the Strait of Hormuz ease, Kelly expects inflationary pressures to moderate through the rest of 2026 and into 2027 as energy costs fall, housing inflation cools and wage growth moderates. The team does not forecast a recession.
-
----
-
-### 2026-06-17 20:27:36  #國際
-
-黎巴嫩總統奧恩：與以色列的談判和伊朗協議“相互獨立”。
-
----
-
-### 2026-06-17 20:27:11  #MKT News
-
-Lebanese President AOUN said negotiations with Israel and the Iran agreement are independent of each other.
-
----
-
-### 2026-06-17 20:26:25  #公司
-
-斯泰蘭蒂斯執行長：義大利高昂的能源成本削弱了集團競爭力，今年一季度當地能源成本是西班牙、法國兩地的兩倍多。
-
----
-
-### 2026-06-17 20:26:19  #MKT News
-
-Amazon founder Jeff Bezos said if space travel becomes sufficiently reliable and low-cost and raw materials can be sourced from asteroids, near-Earth objects and the Moon, pollution-generating industrial activity could be relocated off Earth.
-
----
-
-### 2026-06-17 20:26:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-【Fang Xinghai urges Hong Kong regulators to attract mainland quant firms】At the Lujiazui Forum plenary on June 17, Fang Xinghai, former CSRC vice‑chair and vice‑president of the Chinese Finance Society, said a number of mainland quantitative investment firms have matured and are keen to expand operations in Hong Kong. He urged Hong Kong financial authorities to actively recruit these firms and said coordinated arrangements among Hong Kong, Shanghai and Shenzhen would help draw more international capital into both Hong Kong and the mainland.
 
 ---

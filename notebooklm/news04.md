@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 23:46:12_
-_本檔包含 3512 則快訊，約 650114 字_
+_更新時間：2026-06-21 00:16:48_
+_本檔包含 3512 則快訊，約 650785 字_
+
+---
+
+### 2026-06-16 21:35:47  #其他
+
+【中老年悅己消費崛起】資料顯示，目前全國60週歲以上網民網購使用率達69.8%，更多銀髮族跨越數字門檻，融入智慧社會。國家稅務總局增值稅發票資料印證了這一熱度：上半年老年營養保健品、助行助聽產品銷售收入同比分別增長30.1%和32.2%，智慧可穿戴裝備銷售更飆漲32.6%。京東“618”開門紅期間，自動呼吸機、血糖儀等醫療器械品類增長超過100%，護士到家失能照護服務訂單量同比增長超4倍。天貓資料顯示，中老年滋補品、服飾美妝成交佔比持續擴大，55–65歲新銀髮群體消費同比增長超60%，美妝品類中，抗衰、修復、舒敏等相關功效類護膚產品成交額同比增長翻倍。從“省心”到“悅己”，銀髮族網購正從生存型向品質型躍遷。（央視財經）
+
+---
+
+### 2026-06-16 21:35:26  #其他
+
+SpaceX股票期權開始交易。
+
+---
+
+### 2026-06-16 21:35:23  #MKT News #SPCX.O
+
+Options on SpaceX (SPCX.O) stock began trading.
+
+---
+
+### 2026-06-16 21:34:53  #其他
+
+中國地震臺網正式測定：06月16日21時27分在青海海西州直轄區（北緯37.91度，東經95.42度）發生4.2級地震，震源深度10千米。
+
+---
+
+### 2026-06-16 21:34:46  #市場
+
+Robinhood宣佈將裁減10%全職員工後，其股價上漲1.2%。
+
+---
+
+### 2026-06-16 21:34:28  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Charles Schwab Stock Price Hits 4-week High — Charles Schwab shares increased to 92.58 USD, the highest since May 2026. Over the past 4 weeks, Charles Schwab gained 0.03%, and in the last 12 months, it increased 3.88%.
+
+---
+
+### 2026-06-16 21:34:11  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Hold Rally — US equity indices were little changed on Tuesday, holding their three-session rally after the US and Iran said they agreed to a deal that ends the conflict and reestablishes energy exports from the Persian Gulf. The S&P 500 edged higher and the Dow rose 350 points to extend its record high, while the Nasdaq 100 was lower. Despite lingering inconsistencies in the terms of the deal, the US and Iran were still due to sign the agreement on Friday, with US authorities stating the Strait of Hormuz will reopen. Bond yields pulled back further as the development softened pro-inflationary concerns ahead of the Fed's likely rate hold tomorrow, although Chairman Warsh may continue to push for monetary framework overhauls in his first meeting. SpaceX was 10% higher premarket to gain 40% since its IPO on Friday following news it will acquire Cursor for $60 billion. In turn, tech heavyweights trimmed their gains following their rallies earlier, with Microsoft, Meta, and Alphabet traded lower.
+
+---
+
+### 2026-06-16 21:34:08  #MKT News #Market Regions #Greater China #Nasdaq100 #Impact bearish #Hang Seng Index #DXY #Impact bullish
+
+Nasdaq Golden Dragon China Index falls 2%.
+
+---
+
+### 2026-06-16 21:34:00  #市場 #國際
+
+MOBILEYE宣佈2027年在美國推出自動駕駛計程車業務，開盤股價上漲1.7%。
+
+---
+
+### 2026-06-16 21:33:56  #市場 #焦點
+
+納斯達克中國金龍指數跌超2%，水滴公司跌7.14%，海天網路跌8.41%，金山雲跌5.91%，大全新能源跌4.46%，禾賽科技跌4.16%。
+
+---
+
+### 2026-06-16 21:33:26  #央行 #國際
+
+歐洲央行首席經濟學家連恩：諸多經濟指標表現向好，能源衝擊發生在經濟具備韌性的大背景下。
+
+---
+
+### 2026-06-16 21:33:09  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #Nasdaq100 #Impact bearish #S&P500
+
+US marquee tech stocks retreated: Tesla (TSLA.O) -1.9%, Intel (INTC.O) -1.5%, Oracle (ORCL.N) -2.4%, ASML (ASML.O) -1.3%.
+
+---
+
+### 2026-06-16 21:33:08  #焦點 #國際
+
+美國明星科技股普遍回落，特斯拉(TSLA.O)跌1.9%、英特爾(INTC.O)跌1.5%、甲骨文(ORCL.N)跌2.4%、阿斯麥(ASML.O)跌1.3%。
+
+---
+
+### 2026-06-16 21:33:07  #Trading Economics #Markets #United States #stocks #Importance 1
+
+General Electric Aerospace Stock Price Hits Near 25-year High — General Electric Aerospace shares increased to 348.88 USD, the highest since July 2001. Over the past 4 weeks, General Electric Aerospace gained 21.68%, and in the last 12 months, it increased 47.11%.
+
+---
+
+### 2026-06-16 21:32:35  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500
+
+U.S. equities opened higher Tuesday, June 16: Dow Jones Industrial Average +278.62 pts (+0.54%) to 51,949.65; S&P 500 +2.20 pts (+0.03%) to 7,556.49; Nasdaq Composite +4.87 pts (+0.02%) to 26,688.81.
+
+---
+
+### 2026-06-16 21:32:19  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Down for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, eased for a second session on Tuesday, falling about 1.8% to 2,670 points, weighed down by the larger vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped about 3.5% to 3,911 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 1.1% to 2,266 points. On the other hand, the supramax index increased by 1.3% to 1,685 points.
 
 ---
 
@@ -21088,101 +21184,5 @@ ECB expands its private credit probe to additional banks as concerns mount.
 ### 2026-06-15 19:55:09  #MKT News #Market Regions #Greater China
 
 【Shanghai to stabilise market, bolster support and services; seeks market-rate housing supply-demand balance and price stability】Shanghai deputy party secretary and Mayor Gong Zheng chaired a municipal executive meeting on June 15 that in principle approved the city’s 15th Five-Year Plan for urban renewal and housing development. The plan directs high-quality urban renewal and a faster shift to a new real-estate development model, endorses a rent-and-buy approach, and sets targets to balance supply and demand for market-rate housing and keep overall prices stable; it also calls for expanding and upgrading guaranteed rental housing, accelerating construction of homeowners’ committees where required, resolving community property-management issues, and developing waterfront districts along the city’s main waterways.
-
----
-
-### 2026-06-15 19:54:52  #MKT News
-
-Iran Foreign Ministry spokesman Baghaei said regional visits are on the agenda ahead of a trip to Switzerland to sign an agreement with the United States.
-
----
-
-### 2026-06-15 19:54:43  #國際
-
-伊朗外交部發言人巴加埃：過去四個小時的事態發展表明，伊朗與美國已敲定一份諒解備忘錄，旨在結束由美國及猶太復國主義政權針對伊朗在包括黎巴嫩在內的所有戰線上發動的戰爭。
-
----
-
-### 2026-06-15 19:53:58  #國際
-
-伊朗外交官巴加埃表示，在瑞士與美國簽署協議前，地區訪問已列入議程。
-
----
-
-### 2026-06-15 19:53:57  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-Iranian foreign ministry spokesman BAGHAEI said developments over the past four hours indicate Iran and the United States have finalized a memorandum of understanding to end wars launched by the United States and the Zionist regime against Iran on all fronts, including Lebanon.
-
----
-
-### 2026-06-15 19:53:14  #央行 #國際
-
-【歐洲央行擴大私募信貸關聯調查範圍 所覆蓋銀行的數量翻番】在私募信貸行業面臨投資者信心下滑之際，歐洲央行已將一項針對銀行與私募信貸關聯的調查所覆蓋的銀行數量擴大一倍。據知情人士透露，歐洲央行今年要求20多家銀行提供更多有關其敞口的細節，高於先前評估的十幾家。知情人士表示，與私募信貸有實質性關聯的銀行將必須每年報告相關細節。由於相關溝通並未公開，知情人士要求匿名。歐洲央行的一位發言人不予置評。儘管歐洲央行的監督行動是在過去兩年類似工作的基礎上推進的，但近幾個月來，隨著一些基金被迫限制贖回，外界對該行業的關注升溫。央行擔心，傳統銀行在識別自身對私募信貸的敞口方面存在缺陷，儘管該業務在歐元區的規模小於美國。
-
----
-
-### 2026-06-15 19:52:30  #MKT News #Important
-
-Iran Foreign Ministry spokesman BAGHAEI said respecting Lebanon's sovereignty and territorial integrity is part of a temporary agreement reached with the United States.
-
----
-
-### 2026-06-15 19:52:14  #焦點 #國際
-
-伊朗外交部發言人表示，尊重黎巴嫩的主權與領土完整是伊朗與美國達成的臨時協議的內容之一。
-
----
-
-### 2026-06-15 19:51:26  #公司
-
-【煒岡科技：股東減持計劃實施完成 累計減持2.98%股份】煒岡科技公告稱，公司實際控制人的一致行動人周翔控制的煒仕投資，於2026年3月13日至6月12日期間，透過集中競價和大宗交易方式累計減持公司股份425.58萬股，佔公司總股本比例為2.98%。截至公告披露日，減持計劃已實施完畢，煒仕投資目前持有公司股份5.54萬股，佔公司總股本的0.04%。本次減持不會對公司經營穩定性與治理結構造成不利影響。
-
----
-
-### 2026-06-15 19:51:22  #MKT News #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish
-
-JP Morgan: A sharp fall in oil prices could be a powerful catalyst for equities, potentially reigniting the broad rally that was interrupted by the outbreak of conflict with Iran.
-
----
-
-### 2026-06-15 19:50:50  #公司
-
-【廣東省政府與南方電網公司簽署“十五五”全面深化戰略合作框架協議】6月15日下午，廣東省政府與南方電網公司在廣州簽署“十五五”全面深化戰略合作框架協議。根據協議，廣東省政府與南方電網公司將在構建新型能源體系和新型電力系統、建設主配微協同的新型電網、引導全社會生產生活方式綠色低碳轉型、打造具有全球影響力的能源電力科技產業中心、深化能源電力體制改革和安全治理等方面開展全方位、高水平的務實合作。
-
----
-
-### 2026-06-15 19:50:46  #觀點 #央行 #國際
-
-【摩根資產管理策略師：油價料大跌 將成為股市的強大推動力】摩根大通的Karen Ward表示，油價大跌可能會讓之前因伊朗戰爭而突然中斷的市場漲勢廣度擴大得以恢復，從而成為股市的強大推動力。在摩根資產管理擔任EMEA首席市場策略師的Ward表示，隨著正浮出水面的美伊協議令被凍結資產解封，並增加全球市場的石油供應，未來幾周油價可能跌至每桶70美元。她補充說，潛在供應增加不止來自伊朗，因為OPEC凝聚力減弱，且海灣國家可能希望趁當前價格將儲備變現。這將為股市帶來“巨大順風”，並可能促使央行降息。此前，歐洲央行上週為應對通脹壓力而加息25個基點。
-
----
-
-### 2026-06-15 19:50:21  #國際
-
-馬士基：目前，我們在中東地區的運營沒有任何變化。
-
----
-
-### 2026-06-15 19:50:03  #市場 #國際
-
-【農產品價格下跌 預期霍爾木茲海峽重開有望緩解農業投入品衝擊】隨著市場預期霍爾木茲海峽可能重新開放，穀物和植物油期貨價格下跌。投資者認為，這將改善關鍵農業投入品的供應，從而緩解持續數月的中東戰爭引發食品通脹的風險。美國和伊朗表示，雙方已達成一項臨時協議，以重新開放這條關鍵水道，這可能有助於結束已造成數千人死亡並擾亂全球貿易的衝突。兩國官員將於6月19日在瑞士會面，正式簽署協議，這也意味著協議部分內容可能仍有待最終敲定。
-
----
-
-### 2026-06-15 19:49:42  #公司
-
-【東誠藥業：子公司重新向港交所遞交H股上市申請並刊發資料】東誠藥業公告稱，正在推進子公司藍納成分拆至香港聯交所主機板上市。藍納成於2026年6月12日重新遞交首次公開發行境外上市外資股（H股）並在港交所主機板上市的申請，並同日刊登申請資料。發行物件為境外及境內合格投資者，公司和藍納成不在境內刊登申請資料，提供了查詢連結。本次發行上市尚需監管機構備案、批准/核准，存在不確定性，公司將及時披露進展。
-
----
-
-### 2026-06-15 19:49:05  #MKT News #MAERSK-B.CO
-
-Maersk says its operations in the Middle East are currently unchanged.
-
----
-
-### 2026-06-15 19:48:56  #MKT News
-
-Maersk says it is too early to assess how an Iran agreement would affect logistics.
 
 ---

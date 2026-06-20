@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 23:46:12_
-_本檔包含 3857 則快訊，約 650862 字_
+_更新時間：2026-06-21 00:16:48_
+_本檔包含 3867 則快訊，約 651044 字_
+
+---
+
+### 2026-06-21 00:15:36  #其他
+
+【法國發布高溫紅色預警，音樂節全面禁止飲酒】法國政府於週六宣佈，週日中午起將啟動高溫紅色預警的各省行政區，6月21日舉辦的年度夏至音樂節期間全面禁止飲酒。法國總理勒科爾尼召開危機工作會議後，總理辦公室釋出宣告稱：“各省省長將頒佈政令，在高溫紅色預警覆蓋區域的公共場所禁止飲酒。”宣告補充道：“所有由國家及下屬機構主辦的活動，均已下達禁止供應酒水的指令。”法國氣象局在週六釋出最新氣象通報，宣佈包括巴黎在內的35個省份週日將觸發高溫紅色預警，並表示：“全國大範圍地區將長期遭遇極端高溫天氣。”
+
+---
+
+### 2026-06-21 00:06:36  #國際
+
+以色列高階外交人士：總理內塔尼亞胡一再澄清以色列將留在安全區，只要需要保護北部邊境，他指示以色列國防軍對真主黨的每一次攻擊作出強有力回應，並採取行動消除針對我們部隊的威脅。作為對過去兩天真主黨攻擊的回應，以色列國防軍打擊了300個目標，並消除了約100名人員。如果真主黨再次攻擊我們，我們將再次強力打擊它。
+
+---
+
+### 2026-06-21 00:05:35  #MKT News
+
+【Meloni rebukes Trump, says he should focus on his approval rating】Italian Prime Minister Meloni on the 20th rebuked US President Trump’s recent criticism, calling his "sustained and baseless" attacks meaningless and saying he should focus on his own approval rating. She said her domestic support depends on her ability to defend Italy’s national interests, not her relationship with Trump. Trump had earlier posted that Meloni repeatedly sought photos with him at the G7 and suggested her support fell because she "refused" the US on Iran; he also criticized Italy’s refusal to open airports for related US military operations.
+
+---
+
+### 2026-06-21 00:05:20  #國際
+
+【義大利總理回擊特朗普批評：應關注自身支援率】義大利總理梅洛尼20日就美國總統特朗普針對其政府的最新批評作出回應，稱特朗普“持續且毫無理由的攻擊毫無意義”，他應“把注意力放在自己的支援率上”。梅洛尼當天發表宣告說，她的支援率高低並不取決於與特朗普的關係，而是取決於自己維護義大利國家利益的能力。她表示，自己的支援率“與特朗普無關”。（新華社）
+
+---
+
+### 2026-06-21 00:04:56  #MKT News
+
+US President Trump said the name of U.S. Immigration and Customs Enforcement (ICE) should be changed to "NICE", saying the change would completely confuse corrupt, dishonest and unpatriotic reporters and journalists.
+
+---
+
+### 2026-06-21 00:02:18  #MKT News
+
+【Netanyahu, Katz order IDF to cease fire in Lebanon】Israeli sources said on the 20th Prime Minister Netanyahu and Defense Minister Katz ordered the Israel Defense Forces to cease fire in Lebanon, while directing that forces not immediately withdraw from southern Lebanon. Separately, after a situation assessment, Chief of General Staff Zamir ordered a ceasefire in southern Lebanon.
+
+---
+
+### 2026-06-21 00:01:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Mehr news agency reports an adviser to Iran's Supreme Leader said if an agreement remains on paper, Middle East energy flows will continue to be disrupted.
+
+---
+
+### 2026-06-21 00:01:16  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #Brent
+
+【Trump says Italian PM Meloni refused U.S. on Iran, denied airfield access】U.S. President Trump posted on social media on June 20 saying Italian Prime Minister Meloni refused to support the U.S. in preventing Iran from obtaining or developing nuclear weapons and declined U.S. use of Italian airfields and runways, causing significant logistical inconvenience despite the billions the U.S. spends annually to defend Italy and other NATO allies.
+
+---
+
+### 2026-06-21 00:01:01  #焦點 #國際
+
+伊朗最高領袖顧問表示，若協議僅停留在紙面上，中東能源運輸將繼續停滯。
+
+---
+
+### 2026-06-20 23:59:37  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Local governor said Russian forces used glide bombs to strike Zaporizhzhia in southeastern Ukraine, killing four and wounding six.
+
+---
+
+### 2026-06-20 23:58:25  #國際
+
+黎巴嫩陸軍司令：維護安全與穩定是國家優先事項，並防止以色列透過破壞內部安全來實現該目標。
+
+---
+
+### 2026-06-20 23:51:50  #國際
+
+烏克蘭地方官員稱，俄羅斯軍隊使用滑翔炸彈打擊烏克蘭東南部的扎波羅熱，造成4人死亡、6人受傷。
+
+---
+
+### 2026-06-20 23:48:49  #國際
+
+伊朗總統辦公室：由佩澤希其揚主持，議會議長、司法總監出席的會議，商討了即將開展的談判程序與維護國家利益相關事宜。
+
+---
+
+### 2026-06-20 23:48:18  #其他
+
+翻朗革命衛隊海軍：我方已全面封鎖霍爾木茲海峽。
+
+---
+
+### 2026-06-20 23:46:09  #國際
+
+美國參議員斯科特透露，特朗普將於下週三出席參議院共和黨午餐會。
 
 ---
 
@@ -23238,35 +23328,5 @@ JP Morgan raised its end-2026 target for Japan's TOPIX to 4,400 points from 4,30
 ### 2026-06-18 18:39:07  #MKT News
 
 【National Financial Regulatory Administration encourages large institutions to supply compute services to smaller peers, supports co‑building and sharing of infrastructure】China's National Financial Regulatory Administration issued guidance on safe AI development in banking and insurance, directing stronger construction of intelligent computing infrastructure. Financial institutions should leverage existing compute resources and, consistent with national policy, deploy intelligent computing capacity as needed using green, low‑carbon technologies to build autonomous, controllable, secure and efficient compute platforms to support technological self‑reliance. The regulator encourages large financial institutions with capacity to provide compute services to smaller peers and supports industry exploration of co‑building and shared infrastructure. It also supports, under security and compliance preconditions, use of national compute nodes or industry infrastructure to reduce AI R&D and application costs, and requires strengthened management of critical IT outsourcing of intelligent compute resources.
-
----
-
-### 2026-06-18 18:39:06  #MKT News #Important #Nikkei 225 #Impact bullish
-
-JP Morgan raised its end‑2026 target for Japan's Nikkei 225 to 75,000 from 70,000.
-
----
-
-### 2026-06-18 18:38:34  #MKT News #Market Themes #AI Revolution
-
-【China's National Financial Regulatory Administration to advance AI infrastructure for finance】China's National Financial Regulatory Administration issued guidance on the secure development and deployment of AI in banking and insurance, calling for construction of an industry AI-application ecosystem and the development of AI application infrastructure to enable cross-sector sharing and reuse of AI outputs. The guidance urges large financial institutions to act as demonstrators and export AI technology and governance experience to smaller firms, supports collaboration among small and medium-sized institutions to accelerate scenario implementation, and encourages closer coordination with the AI industry so financial applications drive industrial innovation and industrial成果 improve financial application quality and efficiency.
-
----
-
-### 2026-06-18 18:38:30  #MKT News #Market Regions #Greater China
-
-【Shenzhen amendment not a green light for citywide autonomous taxis; industry says 'orderly exploration' is key】An amendment to the Shenzhen Special Economic Zone Intelligent Connected Vehicles Management Regulations takes effect July 1. Article 17 authorizes the municipal government to “orderly explore full-area open road testing and demonstration applications” and to explore commercial operation pilots. Industry sources say the market should focus on the qualifier “orderly explore”: current legal scope remains testing and demonstration only, and Shenzhen has not issued city-level commercial pilot policies. The clause provides a legal basis to expand testing but does not set timing or designate areas; further rollout will depend on infrastructure readiness and safety assessments and is expected to be phased across multiple scenarios.
-
----
-
-### 2026-06-18 18:38:21  #觀點 #國際
-
-摩根大通將日本日經指數 2026 年末目標點位從此前 70000 點上調至 75000 點。
-
----
-
-### 2026-06-18 18:38:14  #MKT News #Important #Market Themes #AI Revolution #CSI300 #Impact mixed
-
-【National Financial Regulatory Administration backs controlled use of generative AI by financial institutions】The National Financial Regulatory Administration (NFRA) issued guidance on secure development and application of AI in the banking and insurance sectors. It calls for promoting next‑generation AI and supports financial institutions, under controllable risk conditions, to advance business use of generative AI, build supporting capability systems, and cautiously explore AI R&D and construction of financial AI agents. Financial institutions must enforce access management for generative AI models and assess model effectiveness and security/compliance. Externally sourced generative AI models must be filed with the Cyberspace Administration of China (CAC).
 
 ---

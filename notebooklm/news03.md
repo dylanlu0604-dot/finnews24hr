@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-20 23:46:12_
-_本檔包含 3099 則快訊，約 650514 字_
+_更新時間：2026-06-21 00:16:48_
+_本檔包含 3097 則快訊，約 650296 字_
+
+---
+
+### 2026-06-17 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | Retail Sales (MoM) (May) | actual 0.9% | consensus 0.5% | previous 0.50%
+
+---
+
+### 2026-06-17 20:29:55  #公司
+
+【福石控股：宋春靜累計減持2863.78萬股】福石控股公告，資訊披露義務人宋春靜由於自身資金需求，透過大宗交易和集中競價方式累計減持公司股份2863.78萬股，佔總股本的2.9711%。減持後，宋春靜持有公司4819.42萬股，佔總股本的4.9999%。其中，透過大宗交易在2024年8月30日和2024年12月5日至2025年1月14日期間分別減持153.66萬股和1774.1萬股，透過集中競價在2026年3月18日至2026年6月17日期間減持936.01萬股。
+
+---
+
+### 2026-06-17 20:29:52  #國際
+
+【超300款AI產品將全球首發 2026世界人工智慧大會搶先看】今天（6月17日），2026世界人工智慧大會暨人工智慧全球治理高階別會議舉行倒計時30天釋出會。今年的大會以“智慧夥伴，共創未來”為主題，將於7月17日至20日舉辦，由外交部、科技部、工信部等10個部門與上海市政府共同主辦。（央視新聞）
+
+---
+
+### 2026-06-17 20:29:22  #公司
+
+【韻達股份：5月快遞服務業務收入47.17億元 同比增長6.84%】韻達股份公告，2026年5月快遞服務業務收入為47.17億元，同比增長6.84%；完成業務量為22.91億票，同比下降0.52%；快遞服務單票收入為2.06元，同比增長7.29%。
+
+---
+
+### 2026-06-17 20:29:11  #MKT News
+
+Central Bank of Uzbekistan holds its benchmark policy rate at 14%.
+
+---
+
+### 2026-06-17 20:29:01  #公司 #市場
+
+【諾德股份：股價近30日漲幅超50% 提示多項風險】諾德股份公告稱，2026年5月7日至6月17日，公司股票近三十個交易日收盤價格漲幅累計達52.52%，期間2次觸及異常波動，6月17日再次漲停。公司基本面未變，當前股價對應的PE（TTM）為 -135倍，存在回撥風險。此外，公司及相關高管因涉嫌信披違規被立案調查，結果未出。公司2025年淨虧損2.99億元，2026年一季度淨利潤4009萬元。高階電子電路銅箔未量產，產業化進度、訂單及盈利兌現存在不確定性。
+
+---
+
+### 2026-06-17 20:28:38  #焦點 #國際
+
+據多家伊朗媒體17日報道，隨著美國海上封鎖的解除，3艘載有500萬桶原油的伊朗油輪透過了霍爾木茲海峽。（新華社）
+
+---
+
+### 2026-06-17 20:28:27  #其他
+
+烏茲別克中央銀行維持基準利率在14%不變。
+
+---
+
+### 2026-06-17 20:27:58  #MKT News #Market Themes #AI Revolution #Macro & Rates #US Economy #S&P500 #Impact bullish #Nasdaq100 #WTI #Impact bearish
+
+【JPMorgan Asset Management: AI investment surge and resilient consumer spending to sustain expansion】JPMorgan Asset Management says an AI investment surge and resilient consumer spending will sustain economic expansion. Firms' ramp-up of AI infrastructure spending is boosting momentum, while rising stock and house prices are creating a wealth effect that supports high‑income consumption. Chief global strategist David Kelly said the economy should strengthen by mid‑year, with income‑tax refunds and AI‑related spending as key near‑term growth drivers. Continued growth into Q4 hinges on further Washington fiscal stimulus; JPMorgan's baseline assumes Democrats retake the House, which it says would reduce the probability of new fiscal stimulus in 2027. Assuming tensions in the Strait of Hormuz ease, Kelly expects inflationary pressures to moderate through the rest of 2026 and into 2027 as energy costs fall, housing inflation cools and wage growth moderates. The team does not forecast a recession.
+
+---
+
+### 2026-06-17 20:27:36  #國際
+
+黎巴嫩總統奧恩：與以色列的談判和伊朗協議“相互獨立”。
+
+---
+
+### 2026-06-17 20:27:11  #MKT News
+
+Lebanese President AOUN said negotiations with Israel and the Iran agreement are independent of each other.
+
+---
+
+### 2026-06-17 20:26:25  #公司
+
+斯泰蘭蒂斯執行長：義大利高昂的能源成本削弱了集團競爭力，今年一季度當地能源成本是西班牙、法國兩地的兩倍多。
+
+---
+
+### 2026-06-17 20:26:19  #MKT News
+
+Amazon founder Jeff Bezos said if space travel becomes sufficiently reliable and low-cost and raw materials can be sourced from asteroids, near-Earth objects and the Moon, pollution-generating industrial activity could be relocated off Earth.
+
+---
+
+### 2026-06-17 20:26:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+【Fang Xinghai urges Hong Kong regulators to attract mainland quant firms】At the Lujiazui Forum plenary on June 17, Fang Xinghai, former CSRC vice‑chair and vice‑president of the Chinese Finance Society, said a number of mainland quantitative investment firms have matured and are keen to expand operations in Hong Kong. He urged Hong Kong financial authorities to actively recruit these firms and said coordinated arrangements among Hong Kong, Shanghai and Shenzhen would help draw more international capital into both Hong Kong and the mainland.
 
 ---
 
@@ -18629,101 +18713,5 @@ SSR礦業公司股價上漲9%，此前該公司宣佈追加股票回購。
 ### 2026-06-16 21:36:28  #公司 #市場
 
 高通開盤股價上漲3%，此前有報道稱該公司正洽談收購Tenstorrent。
-
----
-
-### 2026-06-16 21:35:47  #其他
-
-【中老年悅己消費崛起】資料顯示，目前全國60週歲以上網民網購使用率達69.8%，更多銀髮族跨越數字門檻，融入智慧社會。國家稅務總局增值稅發票資料印證了這一熱度：上半年老年營養保健品、助行助聽產品銷售收入同比分別增長30.1%和32.2%，智慧可穿戴裝備銷售更飆漲32.6%。京東“618”開門紅期間，自動呼吸機、血糖儀等醫療器械品類增長超過100%，護士到家失能照護服務訂單量同比增長超4倍。天貓資料顯示，中老年滋補品、服飾美妝成交佔比持續擴大，55–65歲新銀髮群體消費同比增長超60%，美妝品類中，抗衰、修復、舒敏等相關功效類護膚產品成交額同比增長翻倍。從“省心”到“悅己”，銀髮族網購正從生存型向品質型躍遷。（央視財經）
-
----
-
-### 2026-06-16 21:35:26  #其他
-
-SpaceX股票期權開始交易。
-
----
-
-### 2026-06-16 21:35:23  #MKT News #SPCX.O
-
-Options on SpaceX (SPCX.O) stock began trading.
-
----
-
-### 2026-06-16 21:34:53  #其他
-
-中國地震臺網正式測定：06月16日21時27分在青海海西州直轄區（北緯37.91度，東經95.42度）發生4.2級地震，震源深度10千米。
-
----
-
-### 2026-06-16 21:34:46  #市場
-
-Robinhood宣佈將裁減10%全職員工後，其股價上漲1.2%。
-
----
-
-### 2026-06-16 21:34:28  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Charles Schwab Stock Price Hits 4-week High — Charles Schwab shares increased to 92.58 USD, the highest since May 2026. Over the past 4 weeks, Charles Schwab gained 0.03%, and in the last 12 months, it increased 3.88%.
-
----
-
-### 2026-06-16 21:34:11  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Hold Rally — US equity indices were little changed on Tuesday, holding their three-session rally after the US and Iran said they agreed to a deal that ends the conflict and reestablishes energy exports from the Persian Gulf. The S&P 500 edged higher and the Dow rose 350 points to extend its record high, while the Nasdaq 100 was lower. Despite lingering inconsistencies in the terms of the deal, the US and Iran were still due to sign the agreement on Friday, with US authorities stating the Strait of Hormuz will reopen. Bond yields pulled back further as the development softened pro-inflationary concerns ahead of the Fed's likely rate hold tomorrow, although Chairman Warsh may continue to push for monetary framework overhauls in his first meeting. SpaceX was 10% higher premarket to gain 40% since its IPO on Friday following news it will acquire Cursor for $60 billion. In turn, tech heavyweights trimmed their gains following their rallies earlier, with Microsoft, Meta, and Alphabet traded lower.
-
----
-
-### 2026-06-16 21:34:08  #MKT News #Market Regions #Greater China #Nasdaq100 #Impact bearish #Hang Seng Index #DXY #Impact bullish
-
-Nasdaq Golden Dragon China Index falls 2%.
-
----
-
-### 2026-06-16 21:34:00  #市場 #國際
-
-MOBILEYE宣佈2027年在美國推出自動駕駛計程車業務，開盤股價上漲1.7%。
-
----
-
-### 2026-06-16 21:33:56  #市場 #焦點
-
-納斯達克中國金龍指數跌超2%，水滴公司跌7.14%，海天網路跌8.41%，金山雲跌5.91%，大全新能源跌4.46%，禾賽科技跌4.16%。
-
----
-
-### 2026-06-16 21:33:26  #央行 #國際
-
-歐洲央行首席經濟學家連恩：諸多經濟指標表現向好，能源衝擊發生在經濟具備韌性的大背景下。
-
----
-
-### 2026-06-16 21:33:09  #MKT News #Important #Star Stocks #Tesla #Market Themes #Magnificent 7 #Nasdaq100 #Impact bearish #S&P500
-
-US marquee tech stocks retreated: Tesla (TSLA.O) -1.9%, Intel (INTC.O) -1.5%, Oracle (ORCL.N) -2.4%, ASML (ASML.O) -1.3%.
-
----
-
-### 2026-06-16 21:33:08  #焦點 #國際
-
-美國明星科技股普遍回落，特斯拉(TSLA.O)跌1.9%、英特爾(INTC.O)跌1.5%、甲骨文(ORCL.N)跌2.4%、阿斯麥(ASML.O)跌1.3%。
-
----
-
-### 2026-06-16 21:33:07  #Trading Economics #Markets #United States #stocks #Importance 1
-
-General Electric Aerospace Stock Price Hits Near 25-year High — General Electric Aerospace shares increased to 348.88 USD, the highest since July 2001. Over the past 4 weeks, General Electric Aerospace gained 21.68%, and in the last 12 months, it increased 47.11%.
-
----
-
-### 2026-06-16 21:32:35  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500
-
-U.S. equities opened higher Tuesday, June 16: Dow Jones Industrial Average +278.62 pts (+0.54%) to 51,949.65; S&P 500 +2.20 pts (+0.03%) to 7,556.49; Nasdaq Composite +4.87 pts (+0.02%) to 26,688.81.
-
----
-
-### 2026-06-16 21:32:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Down for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, eased for a second session on Tuesday, falling about 1.8% to 2,670 points, weighed down by the larger vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped about 3.5% to 3,911 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 1.1% to 2,266 points. On the other hand, the supramax index increased by 1.3% to 1,685 points.
 
 ---

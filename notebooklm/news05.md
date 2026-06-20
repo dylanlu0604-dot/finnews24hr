@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-20 23:46:12_
-_本檔包含 3533 則快訊，約 650292 字_
+_更新時間：2026-06-21 00:16:48_
+_本檔包含 3530 則快訊，約 649833 字_
+
+---
+
+### 2026-06-15 19:54:52  #MKT News
+
+Iran Foreign Ministry spokesman Baghaei said regional visits are on the agenda ahead of a trip to Switzerland to sign an agreement with the United States.
+
+---
+
+### 2026-06-15 19:54:43  #國際
+
+伊朗外交部發言人巴加埃：過去四個小時的事態發展表明，伊朗與美國已敲定一份諒解備忘錄，旨在結束由美國及猶太復國主義政權針對伊朗在包括黎巴嫩在內的所有戰線上發動的戰爭。
+
+---
+
+### 2026-06-15 19:53:58  #國際
+
+伊朗外交官巴加埃表示，在瑞士與美國簽署協議前，地區訪問已列入議程。
+
+---
+
+### 2026-06-15 19:53:57  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+Iranian foreign ministry spokesman BAGHAEI said developments over the past four hours indicate Iran and the United States have finalized a memorandum of understanding to end wars launched by the United States and the Zionist regime against Iran on all fronts, including Lebanon.
+
+---
+
+### 2026-06-15 19:53:14  #央行 #國際
+
+【歐洲央行擴大私募信貸關聯調查範圍 所覆蓋銀行的數量翻番】在私募信貸行業面臨投資者信心下滑之際，歐洲央行已將一項針對銀行與私募信貸關聯的調查所覆蓋的銀行數量擴大一倍。據知情人士透露，歐洲央行今年要求20多家銀行提供更多有關其敞口的細節，高於先前評估的十幾家。知情人士表示，與私募信貸有實質性關聯的銀行將必須每年報告相關細節。由於相關溝通並未公開，知情人士要求匿名。歐洲央行的一位發言人不予置評。儘管歐洲央行的監督行動是在過去兩年類似工作的基礎上推進的，但近幾個月來，隨著一些基金被迫限制贖回，外界對該行業的關注升溫。央行擔心，傳統銀行在識別自身對私募信貸的敞口方面存在缺陷，儘管該業務在歐元區的規模小於美國。
+
+---
+
+### 2026-06-15 19:52:30  #MKT News #Important
+
+Iran Foreign Ministry spokesman BAGHAEI said respecting Lebanon's sovereignty and territorial integrity is part of a temporary agreement reached with the United States.
+
+---
+
+### 2026-06-15 19:52:14  #焦點 #國際
+
+伊朗外交部發言人表示，尊重黎巴嫩的主權與領土完整是伊朗與美國達成的臨時協議的內容之一。
+
+---
+
+### 2026-06-15 19:51:26  #公司
+
+【煒岡科技：股東減持計劃實施完成 累計減持2.98%股份】煒岡科技公告稱，公司實際控制人的一致行動人周翔控制的煒仕投資，於2026年3月13日至6月12日期間，透過集中競價和大宗交易方式累計減持公司股份425.58萬股，佔公司總股本比例為2.98%。截至公告披露日，減持計劃已實施完畢，煒仕投資目前持有公司股份5.54萬股，佔公司總股本的0.04%。本次減持不會對公司經營穩定性與治理結構造成不利影響。
+
+---
+
+### 2026-06-15 19:51:22  #MKT News #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish
+
+JP Morgan: A sharp fall in oil prices could be a powerful catalyst for equities, potentially reigniting the broad rally that was interrupted by the outbreak of conflict with Iran.
+
+---
+
+### 2026-06-15 19:50:50  #公司
+
+【廣東省政府與南方電網公司簽署“十五五”全面深化戰略合作框架協議】6月15日下午，廣東省政府與南方電網公司在廣州簽署“十五五”全面深化戰略合作框架協議。根據協議，廣東省政府與南方電網公司將在構建新型能源體系和新型電力系統、建設主配微協同的新型電網、引導全社會生產生活方式綠色低碳轉型、打造具有全球影響力的能源電力科技產業中心、深化能源電力體制改革和安全治理等方面開展全方位、高水平的務實合作。
+
+---
+
+### 2026-06-15 19:50:46  #觀點 #央行 #國際
+
+【摩根資產管理策略師：油價料大跌 將成為股市的強大推動力】摩根大通的Karen Ward表示，油價大跌可能會讓之前因伊朗戰爭而突然中斷的市場漲勢廣度擴大得以恢復，從而成為股市的強大推動力。在摩根資產管理擔任EMEA首席市場策略師的Ward表示，隨著正浮出水面的美伊協議令被凍結資產解封，並增加全球市場的石油供應，未來幾周油價可能跌至每桶70美元。她補充說，潛在供應增加不止來自伊朗，因為OPEC凝聚力減弱，且海灣國家可能希望趁當前價格將儲備變現。這將為股市帶來“巨大順風”，並可能促使央行降息。此前，歐洲央行上週為應對通脹壓力而加息25個基點。
+
+---
+
+### 2026-06-15 19:50:21  #國際
+
+馬士基：目前，我們在中東地區的運營沒有任何變化。
+
+---
+
+### 2026-06-15 19:50:03  #市場 #國際
+
+【農產品價格下跌 預期霍爾木茲海峽重開有望緩解農業投入品衝擊】隨著市場預期霍爾木茲海峽可能重新開放，穀物和植物油期貨價格下跌。投資者認為，這將改善關鍵農業投入品的供應，從而緩解持續數月的中東戰爭引發食品通脹的風險。美國和伊朗表示，雙方已達成一項臨時協議，以重新開放這條關鍵水道，這可能有助於結束已造成數千人死亡並擾亂全球貿易的衝突。兩國官員將於6月19日在瑞士會面，正式簽署協議，這也意味著協議部分內容可能仍有待最終敲定。
+
+---
+
+### 2026-06-15 19:49:42  #公司
+
+【東誠藥業：子公司重新向港交所遞交H股上市申請並刊發資料】東誠藥業公告稱，正在推進子公司藍納成分拆至香港聯交所主機板上市。藍納成於2026年6月12日重新遞交首次公開發行境外上市外資股（H股）並在港交所主機板上市的申請，並同日刊登申請資料。發行物件為境外及境內合格投資者，公司和藍納成不在境內刊登申請資料，提供了查詢連結。本次發行上市尚需監管機構備案、批准/核准，存在不確定性，公司將及時披露進展。
+
+---
+
+### 2026-06-15 19:49:05  #MKT News #MAERSK-B.CO
+
+Maersk says its operations in the Middle East are currently unchanged.
+
+---
+
+### 2026-06-15 19:48:56  #MKT News
+
+Maersk says it is too early to assess how an Iran agreement would affect logistics.
 
 ---
 
@@ -21262,119 +21358,5 @@ HEZBOLLAH said it struck an Israeli military vehicle staging area in Jdaydeh Mai
 ### 2026-06-14 00:17:28  #MKT News #XAUUSD #Impact bullish #WTI #Brent
 
 Saudi outlet Alhadath, citing sources, said Iran's intervention has hindered prospects for a ceasefire between Israel and Lebanon.
-
----
-
-### 2026-06-14 00:16:18  #MKT News
-
-Saudi outlet al-Hadath, citing sources, reported the US is pressing Israel to make substantive progress in negotiations with Lebanon.
-
----
-
-### 2026-06-14 00:14:24  #宏觀 #公司 #國際
-
-【特朗普出臺限制舉措前，亞馬遜CEO賈西已對安索帕AI模型提出安全擔憂】據兩名瞭解相關溝通情況的人士透露，亞馬遜執行長安迪·賈西本週聯合多位科技行業高管，向特朗普政府高層官員表達了對Anthropic頂尖AI模型存在安全風險的擔憂。知情人士稱，作為安索帕最大投資方與服務商之一，亞馬遜負責人近日與政府官員的溝通，推動特朗普政府於上週五晚間以國家安全為由，對Anthropic的Claude Mythos 5與Fable 5模型出臺全新出口管制措施。該禁令禁止外籍人員使用上述兩款模型。安索帕表示，為遵守新規，公司已關停所有使用者對這兩款模型的訪問許可權。
-
----
-
-### 2026-06-14 00:13:39  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7
-
-Tech outlet The Information reported Amazon CEO Andy Jassy expressed concerns about Anthropic’s model before the Trump administration took action against the AI firm.
-
----
-
-### 2026-06-14 00:13:09  #公司 #國際
-
-市場資訊：亞馬遜CEO賈西在特朗普政府採取打壓行動前就對Anthropic模型表示擔憂。
-
----
-
-### 2026-06-14 00:08:35  #國際
-
-伊朗法爾斯通訊社：各方商定，現階段暫不提及核問題。
-
----
-
-### 2026-06-14 00:08:03  #國際
-
-伊朗方面表示，現階段不會提及核問題，解凍伊朗被凍結資產是相關協議的必要內容。
-
----
-
-### 2026-06-14 00:02:34  #MKT News
-
-Syria's president said demarcating the border with Lebanon is not a current priority, particularly while Lebanon faces a crisis and internal displacement.
-
----
-
-### 2026-06-14 00:02:19  #MKT News
-
-Syria's president said reports that Syria intervened in Lebanon are unfounded.
-
----
-
-### 2026-06-14 00:01:44  #MKT News
-
-【Trump to hold bilateral meetings with Middle East partners, India at G7 in France — US officials】President Trump will hold bilateral meetings next week during the G7 leaders' summit in France with leaders from France, Qatar, the UAE, Egypt and India, senior US officials said. Officials said Trump is expected to focus on economic development and security, supply‑chain resilience, artificial intelligence, regulatory simplification and energy abundance.
-
----
-
-### 2026-06-13 23:59:37  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars news agency reported Iran's foreign ministry spokesman said Iran will require payment for services provided in the Strait of Hormuz.
-
----
-
-### 2026-06-13 23:56:34  #國際
-
-俄羅斯通訊社：俄羅斯聯邦武裝部隊在特種軍事行動的各個戰線上均取得進展；敵人無法遏制此次攻勢，轉而採取恐怖主義手段。
-
----
-
-### 2026-06-13 23:56:05  #國際
-
-肯尼迪中心向美國法官表示，所有提及特朗普的內容已從其建築及網站上刪除。
-
----
-
-### 2026-06-13 23:51:34  #其他
-
-【澳大利亞羽毛球公開賽：國羽提前鎖定混雙冠亞軍】2026年澳大利亞羽毛球公開賽13日在悉尼展開各單項半決賽爭奪，國羽組合馮彥哲/黃東萍和郭新娃/陳芳卉分別戰勝各自對手，提前鎖定混雙冠亞軍。
-
----
-
-### 2026-06-13 23:50:28  #國際
-
-美國國務卿魯比奧：美國男足迎來精彩且具有歷史意義的一晚！我有幸和七萬餘名球迷一同觀看2026年世界盃在美國舉辦的首場賽事。
-
----
-
-### 2026-06-13 23:49:47  #MKT News
-
-【Pakistan foreign ministry: US-Iran agreement electronic signing ceremony set for 14th】Pakistan's foreign ministry said on June 13 Deputy Prime Minister and Foreign Minister Ishaq Dar spoke by phone with Saudi Foreign Minister Faisal and that an electronic signing ceremony for a US-Iran agreement is scheduled for the 14th. Both ministers welcomed talks entering a final stage and said the e-signing could help promote durable regional peace and stability. Faisal praised Pakistan's mediation support.
-
----
-
-### 2026-06-13 23:47:45  #MKT News #Brent #WTI
-
-Fars News Agency: an Iranian foreign ministry spokesman said Iran's measures to ensure safe navigation in the Strait of Hormuz are consistent with safeguarding national security and the international community's common interests.
-
----
-
-### 2026-06-13 23:47:03  #MKT News
-
-According to Fars News Agency, Iran's foreign ministry spokesman said foreign bases and military presence in the region must end.
-
----
-
-### 2026-06-13 23:46:43  #國際
-
-【巴基斯坦外交部：美伊協議電子簽署儀式14日舉行】巴基斯坦外交部13日發表宣告說，巴基斯坦副總理兼外交部長達爾當天與沙烏地阿拉伯外交大臣費薩爾通電話。美國與伊朗相關協議電子簽署儀式定於明日舉行。宣告說，兩國外長對美國與伊朗談判進入最後階段表示歡迎，相關協議電子簽署儀式定於明日舉行。雙方期待這一重要進展有助於促進該地區的持久和平與穩定。宣告表示，費薩爾讚賞巴基斯坦在整個過程中為支援調解和對話作出的不懈努力。（新華社）
-
----
-
-### 2026-06-13 23:46:29  #MKT News #Important
-
-Fars News Agency reported Iran’s Foreign Ministry spokesman said releasing Iran’s frozen funds is an important part of the agreement.
 
 ---
