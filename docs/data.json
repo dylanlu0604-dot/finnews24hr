@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-20 14:44:21",
-  "count": 17599,
+  "updated": "2026-06-20 14:48:25",
+  "count": 17601,
   "items": [
+    {
+      "id": "4945708",
+      "time": "2026-06-20 14:46:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯薩拉托夫州發生一起交通事故 致6人死亡】當地時間6月20日，俄羅斯薩拉托夫州內務部門通報，該州境內一高速公路上發生兩車相撞事故，造成6人死亡，2人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ee3c5-a909-7dd8-b09d-29537fe013d1",
+      "time": "2026-06-20 14:44:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shanghai Stock Exchange to add single‑leg close‑out to stock option combo strategies】Shanghai Stock Exchange published a business plan to introduce a single‑leg close‑out function to its existing stock option combination strategies, aiming to improve options investors' capital efficiency and reduce trading costs to support healthier options market development."
+    },
     {
       "id": "mkt:019ee3c4-3f19-7dd8-b09d-241f5649a4af",
       "time": "2026-06-20 14:42:29",
