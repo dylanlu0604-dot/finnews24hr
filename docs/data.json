@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-20 09:46:27",
-  "count": 17614,
+  "updated": "2026-06-20 09:50:25",
+  "count": 17615,
   "items": [
+    {
+      "id": "mkt:019ee2b6-435c-7dd8-b09b-ca7f74bad8c6",
+      "time": "2026-06-20 09:47:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK foreign secretary: Israel minister's 'let all Lebanon burn' remark abhorrent; sanctioned】The UK foreign secretary said the 'let all Lebanon burn' remark by Israel's interior minister Ben-Gvir was horrifying and abhorrent and that the UK has sanctioned him, calling the move fully justified. He urged Israel and Hezbollah to comply with the agreed ceasefire and to ensure all civilians are protected."
+    },
+    {
+      "id": "4945596",
+      "time": "2026-06-20 09:46:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱一週內擊落近4000架烏無人機】俄羅斯國防部6月19日釋出的一週戰報顯示，6月13日至19日，俄軍針對烏克蘭國防工業綜合體，烏軍使用的燃料能源、交通和港口設施，烏軍用機場等目標，實施多次大規模打擊。此外，俄防空系統共擊落3909架烏軍固定翼無人機。同一天，烏克蘭武裝部隊總參謀部釋出通報稱，18日，烏軍對莫斯科一座煉油廠發動打擊，一套石油綜合加工裝置及多座儲油罐受損。受設施損毀影響，目前該煉油廠已全面無限期停止石油加工生產。（CCTV國際時訊）"
+    },
     {
       "id": "4945595",
       "time": "2026-06-20 09:44:30",
@@ -162206,14 +162222,6 @@
         "MKT News"
       ],
       "text": "【Putin says Russia has Starlink-like satellite system】On June 12 Putin told military officials Russia is developing a satellite-based control system for combat drones. He named the 1440 Bureau, a Russian aerospace firm developing a global broadband low-Earth orbit (LEO) satellite constellation, and said Russia’s near-Earth orbit network is “not inferior” to the US Starlink and may exceed it in some respects."
-    },
-    {
-      "id": "4933573",
-      "time": "2026-06-13 09:49:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：Metaplanet收購SIIIBO，擬在日本推出掛鉤比特幣的金融產品。"
     }
   ]
 }
