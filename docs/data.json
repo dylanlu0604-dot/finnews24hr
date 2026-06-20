@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-21 01:02:32",
+  "updated": "2026-06-21 01:06:40",
   "count": 17526,
   "items": [
+    {
+      "id": "mkt:019ee5fe-43db-7dd8-b0a0-f6e12b86e6de",
+      "time": "2026-06-21 01:05:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "IAEA: Ukraine's Zaporizhzhia nuclear plant was reconnected to the grid at 17:50 local time today, ending the latest external power outage after 4.5 hours."
+    },
+    {
+      "id": "4945938",
+      "time": "2026-06-21 01:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構（IAEA）：烏克蘭扎波羅熱核電站已於當地時間今日下午5點50分重新接入電網，本次場外供電中斷事件在持續4個半小時後結束。"
+    },
+    {
+      "id": "4945937",
+      "time": "2026-06-21 01:02:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "多架美國空軍KC-135“同溫層加油機”以及一架E-3空中預警指揮機正趕赴霍爾木茲海峽區域，該海峽上空的軍事活動頻次持續攀升。"
+    },
     {
       "id": "mkt:019ee5fa-3732-7dd8-b0a0-e9b20812add2",
       "time": "2026-06-21 01:00:40",
@@ -161471,32 +161502,6 @@
         "國際"
       ],
       "text": "首架載有被美國驅逐移民的航班抵達班吉。"
-    },
-    {
-      "id": "4933984",
-      "time": "2026-06-14 01:06:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【扎波羅熱核電站恢復正常執行】據俄羅斯媒體報道，扎波羅熱核電站發言人葉夫根尼婭·亞希娜13日表示，該核電站各系統在外部供電恢復後，已開始正常執行模式。 亞希娜稱，外部電源恢復後，扎波羅熱核電站裝置狀況安全，輻射水平正常。（新華社）"
-    },
-    {
-      "id": "4933983",
-      "time": "2026-06-14 01:03:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美伊協議計劃14日簽署】當地時間6月13日，美國總統特朗普在社交媒體平臺發文稱，美伊協議“計劃明日簽署，簽署後，霍爾木茲海峽將對所有人開放”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ec1ef-921c-7dd8-afed-3132ffba7188",
-      "time": "2026-06-14 01:02:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【After Amazon CEO briefed US officials, Trump administration restricts foreign use of Anthropic models】According to people familiar, the Trump administration has decided to block foreign access to Anthropic’s most capable AI models after Amazon CEO Andy Jassy told US officials, including Treasury Secretary Bessent, that Amazon researchers were able via a series of prompts to induce Anthropic’s Fable 5 to produce information that could be used in cyberattacks. The White House convened, security researchers corroborated Amazon’s findings, and the government — with presidential approval — will bar foreign governments, companies and individuals from accessing the tool. Anthropic said it will cut all user access to Mythos and Fable to ensure compliance; US officials have long judged Anthropic’s new models difficult to manage from a security standpoint."
     }
   ]
 }
