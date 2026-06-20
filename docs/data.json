@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-21 01:26:39",
+  "updated": "2026-06-21 01:30:33",
   "count": 17529,
   "items": [
+    {
+      "id": "mkt:019ee615-05ca-7dd8-b0a1-139f9926c7d6",
+      "time": "2026-06-21 01:29:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Scholar: Iran adopting \"weekend strategy\" used by Trump】Qatar University professor Abdulla Banndar Al Eltaibi said Iran is adopting a \"weekend strategy\" — a tactic Trump used to limit market reaction over weekends. He said Iran is using the Strait of Hormuz as leverage to apply maximum pressure on Trump and mediators, seeking arrangements that would stop all fighting in Lebanon as a condition for restoring passage through the strait."
+    },
     {
       "id": "4945942",
       "time": "2026-06-21 01:20:35",
@@ -161521,14 +161529,6 @@
         "DXY"
       ],
       "text": "Saudi state TV reports the Israeli military is preparing to respond should ground operations in southern Lebanon be halted. The report says Israeli forces will not withdraw from the security zone under an agreement with Iran."
-    },
-    {
-      "id": "4933988",
-      "time": "2026-06-14 01:28:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國媒體：烏克蘭的“愛國者”導彈防禦系統嚴重缺乏攔截導彈。因此，它無法抵禦來自俄羅斯的大規模攻擊。"
     }
   ]
 }
