@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 07:35:16_
-_本檔包含 3452 則快訊，約 654558 字_
+_更新時間：2026-06-20 08:06:48_
+_本檔包含 3460 則快訊，約 655312 字_
+
+---
+
+### 2026-06-16 18:45:36  #公司
+
+【宿遷聯盛：股東提前終止減持計劃，未減持公司股份】宿遷聯盛公告稱，2026年5月8日，公司披露聯發合夥、聯拓合夥減持計劃，擬15個交易日後3個月內，透過集中競價減持不超239萬股，約佔總股本0.57%。6月16日，公司收到告知函，股東提前終止減持計劃。減持期間，兩股東合計減持0股，佔總股本0.00%，聯發合夥、聯拓合夥分別剩餘700萬股、456.4萬股，佔比1.67%、1.09%。
+
+---
+
+### 2026-06-16 18:45:20  #其他
+
+【湖南：著力謀劃未來產業、做實優勢產業、提升傳統產業】湖南日報訊息，6月16日，省委書記沈曉明主持召開產業發展和重大專案建設謀劃務虛會，聽取省直相關單位和重點產業鏈鏈長對湖南產業發展和重大專案建設謀劃情況的彙報，進一步統一思想認識、明確目標方向，齊心協力推進全省產業和專案建設高質量發展。沈曉明指出，要保持久久為功的戰略耐心和攻堅克難的意志，著力謀劃未來產業、做實優勢產業、提升傳統產業，不斷拓寬產業發展空間。要把形勢估計準、把現狀分析透，正確判斷產業發展形勢，為科學決策提供可靠依據。要發揮各方面資源優勢，充分激發高校、科研院所等在產業發展中的創新引領作用，持續推動湘商迴歸，進一步提升政府投資基金質效。要統籌做好存量和增量“兩篇文章”，空間上優先盤活存量，產業上做實做強增量，著力推動經濟實現質的有效提升和量的合理增長。
+
+---
+
+### 2026-06-16 18:45:14  #國際
+
+德國化工協會VCI對歐洲議會批准歐盟/美國關稅協議表示歡迎。
+
+---
+
+### 2026-06-16 18:45:04  #MKT News #EURUSD #Impact bullish #DAX
+
+German Chemical Industry Association (VCI) welcomed the European Parliament's approval of a tariff agreement between the EU and the US.
+
+---
+
+### 2026-06-16 18:44:54  #MKT News
+
+cenc measured a magnitude-3.0 earthquake at 18:39 on June 16 in Haixi prefecture, Qinghai, China (37.83°N, 95.56°E); focal depth 10 km.
+
+---
+
+### 2026-06-16 18:44:47  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【BofA survey: 40% of fund managers see at least one Fed hike in next 12 months】BofA’s June global fund manager survey (June 5-11) found 40% expect the Federal Reserve to raise rates at least once in the next 12 months, up from 16% in May. 28% expect at least one cut, down from 50% last month, while 28% expect no change to the federal funds rate over the same period.
+
+---
+
+### 2026-06-16 18:44:24  #其他
+
+中國地震臺網正式測定：06月16日18時39分在青海海西州直轄區（北緯37.83度，東經95.56度）發生3.0級地震，震源深度10千米。
+
+---
+
+### 2026-06-16 18:44:18  #公司
+
+【經緯輝開：股東股權結構變更 解除一致行動關係】經緯輝開公告稱，公司股東西藏青崖合夥人由陳雲鵬、黃菊紅變更為深圳星耀香江科技、張田田，同時更名為深圳青崖。變更後，陳雲鵬、黃菊紅不再控制西藏青崖，其與公司股東、董事陳建波的一致行動關係自動解除。變更前，西藏青崖持股2678.17萬股，佔總股本4.66%；陳建波持股5797.74萬股，佔10.09%。本次變更不觸及要約收購，不影響公司控制權、治理結構與持續經營。
+
+---
+
+### 2026-06-16 18:43:59  #公司
+
+【石藥集團：纈沙坦馬來酸左氨氯地平片（80mg/2.5mg）上市許可申請獲受理】石藥集團公告，公司開發的纈沙坦馬來酸左氨氯地平片（SYH9056片）的上市許可申請已獲國家藥品監督管理局受理，申報適應症為單藥治療不能有效控制的原發性輕中度高血壓。該產品為纈沙坦與馬來酸左氨氯地平的單片複方製劑，規格80mg/2.5mg，按化學藥品註冊分類2.3類新藥申報。目前該複方製劑在國內外均未上市。
+
+---
+
+### 2026-06-16 18:43:54  #公司
+
+【信測標準：獨立董事李良忍因危險駕駛罪受到刑事處罰】信測標準(300938.SZ)公告稱，公司獨立董事李良忍因犯危險駕駛罪，被判處拘役一個月，緩刑二個月，並處罰金二千元。公司表示目前經營正常，李良忍已致歉，公司將加強法律意識教育。
+
+---
+
+### 2026-06-16 18:43:45  #MKT News #Market Themes #AI Revolution #SPCX.O
+
+【SpaceX to acquire Anysphere, developer of AI coding agent Cursor, for $60 billion】SpaceX (SPCX.O) said it will buy Anysphere, developer of the popular AI coding agent Cursor, for $60 billion, with the deal expected to close in Q3 2026. The acquisition expands SpaceX’s push into the enterprise AI market and may strengthen xAI — which merged into SpaceX in February and builds the Grok chatbot — in AI programming, an area where xAI has lagged. The deal will give Cursor greater access to SpaceX compute resources for model development; Cursor, like OpenAI and Anthropic, has drawn significant developer adoption for automated code generation.
+
+---
+
+### 2026-06-16 18:43:45  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
+
+Brent crude down 3.0% intraday at $80.45/bbl.
+
+---
+
+### 2026-06-16 18:43:38  #公司
+
+【SpaceX擬600億美元收購Cursor開發商Anysphere】SpaceX(SPCX.O)週二表示，將以600億美元收購熱門AI程式設計代理Cursor的開發商Anysphere，以擴大在企業級人工智慧市場的佈局。SpaceX預計這項併購交易將在2026年第三季度完成。與OpenAI和Anthropic一樣，Cursor也是近年來吸引大量開發者的矽谷初創企業之一。這些公司利用AI實現程式碼自動生成，而AI程式設計已成為人工智慧企業最早實現商業化落地的領域之一。此次交易可能幫助今年2月與SpaceX合併的xAI進一步強化其在AI程式設計市場的地位。xAI開發了聊天機器人Grok，但在AI程式設計領域迄今仍落後於競爭對手。該交易也將為Cursor提供更多算力資源，用於開發AI模型。
+
+---
+
+### 2026-06-16 18:43:37  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+France said G7 leaders support imposing additional energy sanctions on Russia.
+
+---
+
+### 2026-06-16 18:43:15  #公司 #國際
+
+法國方面訊息：七國集團領導人支援對俄羅斯實施更多能源制裁。
+
+---
+
+### 2026-06-16 18:42:32  #公司 #市場
+
+【金安國紀：股票交易嚴重異常波動 多項業務存不確定性】金安國紀公告稱，公司股票自2026年6月3日至6月16日收盤價格漲幅偏離值累計超100%，屬嚴重異常波動。4月以來漲幅達237.44%，市盈率偏離行業均值，存過熱及炒作情形。網上傳播公司產品納入英偉達、華為供應鏈認證為不實資訊，目前未與二者合作。高頻高速覆銅板尚在研發及送樣階段，未形成收入，研發進展及成果存不確定性。此外，公司正推進2025年度向特定物件發行A股股票事項，實施情況和時間待定。
+
+---
+
+### 2026-06-16 18:42:12  #MKT News #Important
+
+【European Parliament approves EU-US trade agreement legislation】European Parliament plenary in Strasbourg on June 16 voted to approve legislation implementing the EU-US trade agreement; the text will be submitted to the EU Council for approval. Parliament and EU Council negotiators agreed on May 20 to grant preferential tariff treatment for US exports to the EU while bolstering safeguard mechanisms to protect the EU and its member states. Trump had warned he would sharply raise US tariffs on EU exports if the EU had not implemented the deal by July 4.
 
 ---
 
@@ -20767,59 +20869,5 @@ Belgium Trade Surplus Widens in May — Belgium’s trade surplus widened to EUR
 ### 2026-06-15 17:14:37  #公司
 
 【南方航空：2026年5月旅客週轉量253.45億客公里，同比降4.20%】南方航空公告，2026年5月客運運力投入（ASK）299.28億座公里，同比下降2.85%；旅客週轉量（RPK）253.45億客公里，同比下降4.20%；客座率84.69%，同比下降1.19個百分點。貨運方面，貨郵週轉量8.5億噸公里，同比下降0.03%；貨郵載運率55.44%，同比上升1.31個百分點。2026年累計，客運運力投入1623.28億座公里，同比增長5.08%；旅客週轉量1379.76億客公里，同比增長4.43%；客座率85.00%，同比下降0.53個百分點。此外，5月引進5架飛機，退出2架，期末合計運營969架。
-
----
-
-### 2026-06-15 17:14:32  #公司
-
-【南方航空：2026年5月，本集團客運運力投入（按可利用座公里計）同比下降2.85%】南方航空公告，2026年5月，本集團客運運力投入（按可利用座公里計）同比下降2.85%，其中國內和地區分別同比下降7.64%和6.35%，國際同比上升10.55%；旅客週轉量（按收入客公里計）同比下降4.20%，其中國內和地區分別同比下降8.84%和0.53%，國際同比上升9.00%；客座率為84.69%，同比下降1.19個百分點，其中國內和國際分別同比下降1.13和1.18個百分點，地區同比上升4.69個百分點。貨運方面，2026年5月，貨運運力投入（按可利用噸公里—貨郵運計）同比下降2.40%；貨郵週轉量（按收入噸公里—貨郵運計）同比下降0.03%；貨郵載運率為55.44%，同比上升1.31個百分點。
-
----
-
-### 2026-06-15 17:14:30  #MKT News
-
-An Indian trade official said May exports to West Asia have recovered to year-ago levels.
-
----
-
-### 2026-06-15 17:14:28  #國際
-
-印度貿易官員：5月對西亞出口已回升至去年水平。
-
----
-
-### 2026-06-15 17:14:22  #其他
-
-【5月份中國快遞發展指數同比提升3.1%】記者6月15日從國家郵政局獲悉，5月份中國快遞發展指數為472.9，同比提升3.1%。其中，發展規模指數為644.5，同比提升7%。 國家郵政局相關負責人表示，5月份行業規模持續擴容，服務體系日趨多元，設施網路最佳化升級，對實體經濟支撐保障作用日益凸顯。（新華社）
-
----
-
-### 2026-06-15 17:14:11  #Trading Economics #Economy #Euro Area #Balance of Trade #Importance 2
-
-Euro Area Trade Balance Swings to Deficit in April — The Euro Area recorded a €1.0 billion trade deficit in April 2026, compared with a €8.7 billion surplus in April 2025 and missing market expectations of a €7.8 billion surplus. Exports of goods increased by 5.0% to €255.4 billion, while imports rose faster, climbing 9.3% to €256.4 billion. The latest data represents a deterioration of €9.7 billion and marks a decline from the €4.9 billion surplus recorded in March 2026. The weaker balance was mainly driven by a widening energy deficit and a smaller surplus in the machinery and vehicles category. For the January to April 2026 period, the Euro Area posted a trade surplus of €12.9 billion, significantly below the €63.7 billion surplus recorded during the same period in 2025.
-
----
-
-### 2026-06-15 17:13:58  #MKT News #Market Themes #Chip Wars #Hang Seng Index #Impact bullish #CSI300 #CNH
-
-【Suiyuan Technology IPO cleared; China's four domestic GPU challengers may converge on markets】Suiyuan Technology's STAR Market IPO was approved by the listing committee on June 15; its application was accepted on Jan. 22 and cleared after two rounds of inquiry. Moore Threads and Muxi listed on the STAR Market in Dec. 2025 and each now trades near CNY300 billion market value; Biren Technology listed on HKEX in Jan. 2026 with a market cap above HKD130 billion. With Suiyuan cleared, the four firms dubbed the "domestic GPU four small dragons" could be together on public markets, a notable capital-market milestone for China's chip sector. Muxi is pursuing an H‑share listing and Biren's A‑share listing counseling has progressed to its sixth filing phase.
-
----
-
-### 2026-06-15 17:13:48  #MKT News
-
-【Shanghai: Tech innovation and technical-transformation loans signed Rmb149.0bln by end-Q1 2026】PBOC Shanghai and 10 municipal agencies held a cross-agency meeting to advance tech-innovation and technical-transformation lending. As of end-Q1 2026, signed loan commitments totalled 149.0 bln yuan and outstanding loans 67.6 bln yuan, roughly double year-earlier. Authorities instructed deeper interdepartmental coordination to implement the latest national policy package, accelerate project identification and submission across existing and newly expanded support areas, and directed Shanghai financial institutions to close service gaps, boost delivery efficiency, proactively recommend projects to sector regulators, and expand loan volume and coverage.
-
----
-
-### 2026-06-15 17:13:22  #其他 #焦點
-
-LME三個月期鋁跌至3434.5美元，創4月9日以來新低，最新跌幅為2.8%。
-
----
-
-### 2026-06-15 17:12:59  #國際
-
-印度貿易秘書：今年該國出口增長勢頭將得以延續。
 
 ---

@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 07:35:16_
-_本檔包含 3809 則快訊，約 655014 字_
+_更新時間：2026-06-20 08:06:48_
+_本檔包含 3810 則快訊，約 655327 字_
+
+---
+
+### 2026-06-20 08:05:00  #公司
+
+【進度條重新整理 大渡河金川水電站全容量投產發電】記者從國家能源集團獲悉，今天（20日），四川大渡河金川水電站最後一臺機組正式併網發電，標誌著金川水電站正式全容量投產發電。（央視新聞）
+
+---
+
+### 2026-06-20 08:02:42  #國際
+
+調解國之一的另一位訊息人士表示，伊朗人強調，他們希望在前往瑞士之前看到停火協議得以落實。
+
+---
+
+### 2026-06-20 08:02:36  #國際
+
+據調解國之一的一位訊息人士稱，伊朗外交部長阿巴斯·阿拉格齊於週五向幾位對等外交官表示，黎巴嫩停火問題是伊朗的關鍵問題，也是美伊談判的“成敗攸關”因素。
+
+---
+
+### 2026-06-20 08:02:30  #焦點 #國際
+
+市場訊息：據一位知情人士透露，伊朗外交部長阿巴斯·阿拉格齊計劃於週六前往瑞士。該人士表示，這一計劃仍可能發生變化。
+
+---
+
+### 2026-06-20 08:02:06  #其他
+
+【摩洛哥1比0蘇格蘭，暫列小組第一】小組賽首輪戰平巴西后，摩洛哥以一場勝利確保了自己的小組出線位置。北京時間6月20日，世界盃小組賽C組第二輪展開較量，此前僅得到1分的摩洛哥率先出場，他們以1比0戰勝蘇格蘭，全取三分，暫列小組頭名。
+
+---
+
+### 2026-06-20 07:59:52  #其他
+
+【河南鄭州宏達國際車業廣場火災致2人遇難】6月19日21時許，河南省鄭州市金水區宏達國際車業廣場發生火災。記者從鄭州市金水區相關部門獲悉，截至6月20日凌晨1時，火災導致2人遇難，2人輕傷。當前所有明火已撲滅，救援工作已經結束。目前，公安機關已對宏達國際車業廣場實際控制人採取強制措施，相關善後工作已在開展，起火原因正在調查之中。據瞭解，宏達國際車業廣場為汽車用品專業批發市場，起火建築為混凝土框架結構，主體4層，單層建築面積4000餘平方米，樓頂有少量臨時加蓋建築，起火部位位於3層西側商鋪，著火物質為橡膠材料、汽車飾品和配件等。 (新華社)
+
+---
+
+### 2026-06-20 07:58:56  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
+
+Market sources: Israel has heightened military alert amid growing concern that US-Iran talks could collapse.
+
+---
+
+### 2026-06-20 07:57:46  #MKT News
+
+【Flu outbreak at US Air Force base infects more than 160 personnel】US reports on June 19 said more than 160 service members at Lackland Air Force Base in Texas have been infected with influenza in recent weeks. The Air Force said medical and public-health personnel have isolated and treated symptomatic individuals to limit further exposure, are continuing monitoring, and that those symptomatic are receiving appropriate treatment and will return to training once cleared by medical staff. The Air Force also said a member of the 737th Training Support Squadron suffered a medical emergency during basic training and died earlier this week at Brooke Army Medical Center; the cause is under investigation and a comprehensive medical review is underway.
+
+---
+
+### 2026-06-20 07:57:14  #MKT News
+
+【European Council president establishing direct channel to convey EU messages to Russia】European Council president Costa said on the 19th he is setting up a diplomatic channel through his office to convey EU messages directly to Russia, saying the EU should not rely on third parties to interpret its communications. He made the remark at a post-summit press conference. While the US has led diplomatic contact on a Russia-Ukraine ceasefire and talks, Europe seeks a larger role; some EU leaders remain reluctant about direct engagement with Russia.
+
+---
+
+### 2026-06-20 07:56:43  #MKT News
+
+【Rubio speaks with Lebanese president on Hezbollah, Lebanon‑Israel talks】US Secretary of State Rubio spoke with Lebanese President Joseph Aoun on June 19, reiterating US support for the Lebanese government and stressing that Hezbollah must be disarmed. They discussed arrangements for the next Lebanon‑Israel talks, scheduled for June 23–25 in Washington.
+
+---
+
+### 2026-06-20 07:56:19  #MKT News #WTI #Impact bearish #Brent
+
+【Iran deputy foreign minister: U.S. must ensure Israel complies with U.S.-Iran memorandum】Iran’s deputy foreign minister said on the 19th the U.S. must ensure Israel complies with the terms of a U.S.-Iran memorandum. He said Iran is prepared to advance the diplomatic process if the other side shows similar seriousness. On the Strait of Hormuz, Iran will continue, in coordination with Oman and under international law, to provide navigation services. Under the memorandum’s 60-day window Iran will not charge transit fees; after that it plans to introduce a new channel-management mechanism and submit it to regional states. Any future agreement must include the unfreezing of all frozen Iranian funds.
+
+---
+
+### 2026-06-20 07:55:35  #國際
+
+市場訊息：日本考慮對社交媒體實施強制性年齡驗證。
+
+---
+
+### 2026-06-20 07:53:21  #其他
+
+市場訊息：澳大利亞發現首例傳染性H5禽流感病例。
+
+---
+
+### 2026-06-20 07:51:45  #其他
+
+【三名中國裁判將亮相世界盃同場比賽】國際足聯19日宣佈，中國裁判員傅明將擔任美加墨世界盃E組第二輪厄瓜多隊對陣庫拉索隊比賽的影片助理裁判（VAR）。國際足聯日前已確認馬寧將擔任該場比賽主裁，周飛將擔任助理裁判。三名中國裁判員將在本屆世界盃上一同亮相。厄瓜多與庫拉索的比賽將於北京時間6月21日8:00開球。（央視新聞）
+
+---
+
+### 2026-06-20 07:49:13  #國際
+
+【伊朗官員：不會在黎巴嫩停火問題上退讓】對於黎巴嫩局勢，伊朗議會國家安全和外交政策委員會發言人易卜拉欣·雷扎伊在接受總檯專訪時表示，黎巴嫩停火問題是伊朗的紅線，伊朗不會在相關問題上退讓。（央視新聞）
+
+---
+
+### 2026-06-20 07:46:05  #其他
+
+【北京解除防汛四級應急響應】據北京市防汛辦訊息，6月20日6時結束門頭溝、房山、昌平、懷柔、平谷、密雲、延慶區防汛四級應急響應。此前，其他區於6月19日23時已結束防汛四級應急響應。
+
+---
+
+### 2026-06-20 07:45:32  #其他
+
+多明尼加共和國：巴亞希貝一家酒店發生大火，已造成1人死亡，數百人疏散。
+
+---
+
+### 2026-06-20 07:45:18  #國際
+
+市場訊息：日本計劃投資10.5萬億日元用於“物理人工智慧”。
+
+---
+
+### 2026-06-20 07:41:36  #其他
+
+【殷勇調研具身智慧機器人產業發展時強調 全力打造全球領先的具身智慧機器人產業高地】日前，北京市委副書記、市長殷勇到海淀區調研具身智慧機器人產業發展。他強調，要深入貫徹習近平總書記考察北京重要講話精神，充分發揮北京教育科技人才資源優勢，加快推動具身智慧科技創新和產業創新深度融合，鞏固本市具身智慧機器人產業發展引領優勢，全力打造全球領先的具身智慧機器人產業高地。殷勇在調研時強調，要聚焦模擬技術、世界模型等關鍵技術強化協同攻關，推動產學研一體化創新，夯實產業技術底座，為具身智慧機器人產業發展提供有力支撐。支援龍頭企業持續做大做強，依託北京場景資源，全面拓展產品應用場景，以試驗帶動產品迭代，推動更多機器人產品從實驗室成果、樣機試點向批次化生產、規模化落地發展。持續辦好世界人形機器人運動會、世界機器人大會等活動，深化國際交流合作，加快研製機器人領域行業標準，提升標準制定和實施能力。市有關部門和海淀區要做好企業服務，主動精準對接，強化算力、資料等要素供給保障，及時解決企業在上市融資、專案落地、場景建設等方面的訴求，推動北京具身智慧機器人產業發展走在前、作示範。 (北京日報)
+
+---
+
+### 2026-06-20 07:36:48  #其他
+
+玻利維亞政府與玻利維亞工人聯合會簽署協議，朝著解決已導致經濟癱瘓的衝突邁出一步。
 
 ---
 
@@ -22865,119 +22985,5 @@ Swiss National Bank chairman says there is currently no need to take action on i
 ### 2026-06-18 16:42:02  #公司
 
 【上海銀行董事長顧建忠：重構綠色資金配置尺度 培育“硬綠核”企業】主題為“全球治理框架下的可持續金融創新與合作”的2026陸家嘴論壇全體大會八6月18日舉行。上海銀行股份有限公司董事長顧建忠表示，綠色金融作為可持續金融的重要內容，已從規模擴張的“上半場”，逐步走向質量提升的“下半場”。商業銀行加大了將“技術先進性”和“減排實效性”作為綠色資金配置重要參考尺度的力度，以更好地引導資金向真正有核心技術支撐、有真實轉型需求的企業集聚，從而真正培育出一批擁有自主智慧財產權、掌握自主核心技術、具備全球競爭實力的“硬綠核”企業。
-
----
-
-### 2026-06-18 16:41:49  #公司
-
-【星輝娛樂：2025年度權益分派方案，擬派現6220.29萬元】星輝娛樂公告稱，2025年度權益分派方案已獲2026年4月29日股東會審議透過。以總股本12.44億股剔除回購股份14.11萬股後的12.44億股為基數，向全體股東每10股派0.5元現金（含稅），派發現金總額6220.29萬元。股權登記日為2026年6月25日，除權除息日為6月26日。
-
----
-
-### 2026-06-18 16:41:48  #MKT News
-
-【Bank of Beijing's Shenzhen branch fined 1 million yuan over non-compliant bank acceptance margin】Shenzhen Financial Regulatory Bureau said it penalised Bank of Beijing's Shenzhen branch for using non‑compliant sources to fund margins for bank acceptance bills, confiscating illegal gains of 89,810 yuan and imposing a 1 million yuan fine; responsible individuals were issued warnings.
-
----
-
-### 2026-06-18 16:41:46  #公司 #觀點
-
-【中信證券：延遲寄發向特定物件發行H股關連交易通函】中信證券公告稱，因需更多時間為若干資料定稿載入通函，預計該通函寄發日期將延至不遲於2026年7月17日。通函包含向特定物件發行H股及股票認購協議詳情、獨立財務顧問意見、獨立董事委員會函件及投票推薦建議等資料。此前公司於2026年5月28日公告與中信金控訂立股票認購協議，向其發行新H股。
-
----
-
-### 2026-06-18 16:41:40  #公司
-
-【濱化股份：H股發行上市申請獲香港聯交所上市委員會審閱】濱化股份公告稱，公司正在推進發行境外上市股份（H股）並在香港聯交所主機板掛牌上市工作，2025年10月22日已遞交申請。2026年6月16日，香港聯交所上市委員會舉行上市聆訊，審議該申請。6月17日，聯席保薦人收到香港聯交所信函，顯示上市委員會已審閱申請，但這並非正式上市批准，聯交所仍有權提出進一步意見。本次發行上市尚需取得相關監管機構和證券交易所最終批准，存在不確定性。
-
----
-
-### 2026-06-18 16:41:24  #宏觀 #市場
-
-【財政部擬第三次續發行2026年記賬式附息（十一期）國債 招標面值總額1600億元】政部擬第一次續發行2026年記賬式附息（十一期）國債。本次續發行國債為3年期固定利率附息債。本次續發行國債競爭性招標面值總額1600億元，進行甲類成員追加投標。本次續發行國債票面利率與之前發行的同期國債相同，為1.26%。本次續發行國債的起息日、兌付安排與之前發行的同期國債相同。自2026年5月25日開始計息，按年付息，每年5月25日（節假日順延，下同）支付利息，2029年5月25日償還本金並支付最後一次利息。
-
----
-
-### 2026-06-18 16:40:43  #其他
-
-【因銀行承兌匯票保證金來源不合規 北京銀行深圳分行被罰100萬元】深圳金融監管局資訊顯示，因銀行承兌匯票保證金來源不合規，該局對北京銀行深圳分行及相關負責人作出行政處罰決定。其中，對機構沒收違法所得89810元，並處罰款100萬元；對相關負責人給予警告。
-
----
-
-### 2026-06-18 16:40:32  #央行 #其他
-
-【下週央行公開市場將有19358億元逆回購到期】Wind資料顯示，本週央行公開市場開展了15428億元逆回購操作，因本週有7190億元逆回購到期，本週實現淨投放8238億元。此外，本週有6000億元182天期買斷式逆回購到期、2500億元國庫現金定存到期，央行開展了6000億元183天期買斷式逆回購操作。Wind資料顯示，下週央行公開市場將有19358億元逆回購到期，其中下週一至下週五分別到期8180億元、4495億元、4203億元、2480億元、0億元。此外，下週四將有3000億元MLF到期。
-
----
-
-### 2026-06-18 16:39:14  #公司
-
-航運情報公司Kpler：6月17日，霍爾木茲海峽的通行活動持續進行，監測區域內記錄到6次經核實的過境航行。
-
----
-
-### 2026-06-18 16:39:04  #MKT News
-
-KPLER: On June 17, transit activity in the Strait of Hormuz continued, with six verified transits recorded in the monitored area.
-
----
-
-### 2026-06-18 16:38:39  #公司 #市場
-
-【碳酸鋰期貨及期權將迎境外交易者 7月3日起正式交易】廣期所最新公告顯示，將於北京時間7月3日9時起正式引入境外交易者參與碳酸鋰期貨及期權交易，這是該品種繼引入合格境外投資者（QFI）後國際化的又一重要舉措，標誌著我國在全球新能源材料領域的價格影響力將進一步增強。根據廣期所相關通知，自6月18日起，符合條件的境外客戶可以向開戶機構（包括期貨公司會員、境外中介機構）申請開通廣期所交易編碼。廣期所相關負責人表示，下一步，廣期所將持續強化一線監管、最佳化市場服務，並積極探索境外結算價授權等多元開放模式，推動碳酸鋰等期貨品種更好發揮功能作用，服務實體經濟高質量發展。
-
----
-
-### 2026-06-18 16:38:31  #MKT News
-
-【CITIC Bank Shenzhen branch fined 1.2 mln yuan; three managers warned】Shenzhen Financial Regulatory Bureau fined CITIC Bank’s Shenzhen branch 1.2 million yuan and confiscated 82,166.67 yuan in illegal gains for noncompliant sources of bank-acceptance-bill margin and inadequate trade-background checks on letters of credit; three responsible managers were issued warnings.
-
----
-
-### 2026-06-18 16:38:09  #公司
-
-【洪城環境：實施權益分派 “洪城轉債” 轉股將連續停牌】洪城環境公告稱，公司2025年利潤分配方案已透過股東大會審議，擬向全體股東每10股派發現金紅利4.67元（含稅），合計擬派發現金紅利約5.99億元，現金分紅比例為50.26%。自2026年6月25日至權益分派股權登記日，“洪城轉債” 將停止轉股，股權登記日後首個交易日起恢復轉股業務，欲享受權益分派的持有人可在6月24日前轉股。
-
----
-
-### 2026-06-18 16:38:05  #公司
-
-【雙一科技：間接參股公司琻捷電子在港交所主機板掛牌上市】雙一科技公告稱，公司於2021年12月6日以自有資金1.9億元認繳設立雙一衡潤，其參股的琻捷電子於2026年6月17日在香港聯交所主機板掛牌上市，發行價18.36港元/股。截至公告日，公司對雙一衡潤認繳比例95%，雙一衡潤持有琻捷電子242.16萬股，佔全球發售後已發行H股總數0.64%，股份鎖定期12個月。公司將相關股權列為交易性金融資產，投資成本2000萬元，上市後公允價值波動對業績影響具不確定性。
-
----
-
-### 2026-06-18 16:37:56  #其他
-
-【中信銀行深圳分行因兩項違規被罰120萬元 3名責任人被警告】深圳金融監管局資訊顯示，因銀行承兌匯票保證金來源不合規、信用證貿易背景稽核不嚴，該局對中信銀行深圳分行及相關負責人作出行政處罰決定。其中，對機構沒收違法所得82166.67元，並處罰款120萬元；3名責任人被給予警告。
-
----
-
-### 2026-06-18 16:37:47  #MKT News #Market Regions #Europe & UK
-
-Israeli i24News reports Israeli foreign minister Sa'ar has cut off all contact with the EU high representative for foreign affairs and security policy kallas.
-
----
-
-### 2026-06-18 16:37:23  #公司
-
-【中糧糖業：聘任趙榮輝、陳海軍為公司副總經理】中糧糖業公告稱，公司第十一屆董事會第三次會議於2026年6月18日召開，審議透過《關於聘任公司高階管理人員的議案》，同意聘任趙榮輝、陳海軍為公司副總經理，任期至第十一屆董事會屆滿。董事會提名委員會審查認為二人具備履職能力，任職資格和聘任程式合規。表決結果為9票同意，0票反對，0票棄權。
-
----
-
-### 2026-06-18 16:37:18  #公司
-
-【永臻股份：延期至6月26日前回覆上交所年報問詢函】永臻股份公告稱，公司於2026年6月4日收到上交所下發的2025年年度報告資訊披露監管問詢函，要求10個交易日內報送說明材料並披露。因問詢函問題需中介機構核查並發表意見，公司預計無法在規定期限完成全部回覆工作。經申請，公司擬於6月26日前完成相關回復。
-
----
-
-### 2026-06-18 16:37:15  #公司
-
-【藥康生物：擬500萬元增資參股公司靈康生物】藥康生物公告稱，公司擬以自有資金500萬元認繳參股公司靈康生物新增的註冊資本89.2857萬元。增資完成後，靈康生物註冊資本由1500.1786萬元增至1589.4643萬元，公司持股比例由33.3413%增至37.0857%。本次交易構成關聯交易，但不構成重大資產重組。交易已獲相關會議審議透過，無需股東會審議，尚需辦理工商變更登記，最終審批時間存在不確定性。
-
----
-
-### 2026-06-18 16:37:03  #公司
-
-【拉普拉斯在無錫成立半導體裝置公司】天眼查App顯示，近日，固睿半導體裝置（無錫）有限公司成立，法定代表人為黃繼群，註冊資本500萬人民幣，經營範圍包括半導體器件專用裝置製造、半導體器件專用裝置銷售、專用裝置製造等。股東資訊顯示，該公司由拉普拉斯（688726）旗下固睿半導體裝置（深圳）有限公司全資持股。
 
 ---
