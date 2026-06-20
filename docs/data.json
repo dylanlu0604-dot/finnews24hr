@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-20 19:24:39",
-  "count": 17542,
+  "updated": "2026-06-20 19:28:42",
+  "count": 17547,
   "items": [
+    {
+      "id": "mkt:019ee4c9-8674-7dd8-b09e-b4ae2789c884",
+      "time": "2026-06-20 19:27:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland's Foreign Ministry said it cannot provide further details on attendees or discussion content for confidentiality reasons."
+    },
+    {
+      "id": "mkt:019ee4c9-74d6-7dd8-b09e-a923d2f0bc5f",
+      "time": "2026-06-20 19:27:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss Foreign Ministry said diplomats present are continuing efforts to maintain dialogue."
+    },
+    {
+      "id": "mkt:019ee4c9-7131-7dd8-b09e-a2e729c1f0e3",
+      "time": "2026-06-20 19:27:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland's foreign ministry said it will continue to provide a discreet, reliable venue at Bürgenstock for talks to implement the US-Iran memorandum of understanding."
+    },
+    {
+      "id": "4945787",
+      "time": "2026-06-20 19:26:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士外交部：目前在場的多國外交官正繼續努力維持對話。"
+    },
+    {
+      "id": "4945786",
+      "time": "2026-06-20 19:26:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地州長稱，烏克蘭襲擊了俄羅斯烏拉爾地區的秋明煉油廠。"
+    },
+    {
+      "id": "4945785",
+      "time": "2026-06-20 19:24:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列對黎巴嫩的空襲已造成至少10人死亡。"
+    },
     {
       "id": "mkt:019ee4c1-a162-7dd8-b09e-9d4456c9099a",
       "time": "2026-06-20 19:19:15",
@@ -161611,14 +161659,6 @@
         "其他"
       ],
       "text": "【當前我國夏糧收穫進度過八成】記者從農業農村部獲悉，截至6月13日17時，全國已收穫夏糧小麥2.88億畝，收穫進度85%。江蘇麥收基本結束，山東過八成，河北近七成，陝西過六成半，山西過五成，新疆、甘肅零星收穫。（新華社）"
-    },
-    {
-      "id": "4933824",
-      "time": "2026-06-13 19:24:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順豐牽頭《快遞電子運單》國際標準提案成功立項】據順豐集團訊息，日前，國際標準化組織創新物流技術委員會快遞服務標準委員會（ISO/TC 344/SC2）在浙江杭州成立並舉行第一次全體會議，會議聽取了中國參會代表提出的3項國際標準提案介紹，其中由順豐牽頭的《快遞電子運單》技術報告專案成功立項進入起草階段。該中國提案的成功立項也標誌著快遞服務標準國際化工作全面啟動。這也是快遞服務領域首個成功立項的國際標準提案。"
     }
   ]
 }
