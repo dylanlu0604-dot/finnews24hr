@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-20 11:28:35",
-  "count": 17589,
+  "updated": "2026-06-20 11:32:43",
+  "count": 17588,
   "items": [
+    {
+      "id": "4945652",
+      "time": "2026-06-20 11:31:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【玉淵譚天：中國在為臺灣島以東海域的國土空間規劃做準備】6月16日至18日，自然資源部組織開展我國臺灣島以東管轄海域海洋環境調查。此前，譚主從多部門的一系列行動中提煉出“近海治理模式”，得到了多方關注——以後，我們的視野裡會越來越少出現“臺灣海峽”；臺灣島以東海域就是我們的“近海”，這就是我們存在、管轄和治理的海洋。這次行動意味著，“近海治理模式”已經涵蓋自然資源領域。（玉淵譚天）"
+    },
+    {
+      "id": "4945651",
+      "time": "2026-06-20 11:29:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統高階顧問：美國必須非常謹慎，以免和平協議淪為以色列固有惡意行為的犧牲品。"
+    },
+    {
+      "id": "mkt:019ee312-57a1-7dd8-b09b-f12d201f9e9c",
+      "time": "2026-06-20 11:28:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior adviser to Iran's president said the US must be extremely cautious to prevent a peace agreement from becoming a casualty of Israel's inherent malign behavior."
+    },
     {
       "id": "4945650",
       "time": "2026-06-20 11:27:40",
@@ -161976,40 +162000,6 @@
         "其他"
       ],
       "text": "市場訊息：凱茜·伍德旗下方舟投資斥資 5.25 億美元購入 SPCX 股票，大舉押注該標的。"
-    },
-    {
-      "id": "4933640",
-      "time": "2026-06-13 11:31:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：在美國建國 250 週年慶典期間，特朗普或搭乘卡達贈送的 “空軍一號” 出席就職首航活動。"
-    },
-    {
-      "id": "4933639",
-      "time": "2026-06-13 11:30:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高校AI賽事上新升級】在今年的華為開發者大會HDC 2026現場，華為終端BG CEO何剛重磅官宣：鴻蒙高校創新賽正式進入“中國高校計算機大賽·人工智慧創意賽”，成為全新官方賽道。這意味著鴻蒙前沿技術首度登上國家級賽事的舞臺。（央視財經）"
-    },
-    {
-      "id": "4933638",
-      "time": "2026-06-13 11:29:56",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "市場訊息：加拿大出臺新版社交媒體法案，著手打擊人工智慧生成內容及機器人散佈的虛假資訊。"
-    },
-    {
-      "id": "mkt:019ebf06-63ff-7dd8-afe8-2e8e20b76aaf",
-      "time": "2026-06-13 11:28:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Lens Technology acquires Tongsheng Optoelectronics to accelerate optical communications push】Lens Technology said on June 12, 2026 its wholly owned unit Lens Optoelectronics has acquired a controlling stake in Tongsheng Optoelectronics to strengthen core optoelectronics technology and capacity and to move into high‑end optoelectronic hardware. Tongsheng, a domestic leader in hollow‑core optical fiber, supplies products for communications, AI compute, sensing, power transfer and medical markets; its hollow‑core fiber and optical sensing devices will bolster Lens Optoelectronics’ technology base and extend capabilities in optical waveguides, transmission and sensing, linking precision structural manufacturing with high‑end optoelectronic component production across the full supply chain."
     }
   ]
 }
