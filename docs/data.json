@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-21 01:46:11",
-  "count": 17532,
+  "updated": "2026-06-21 01:50:07",
+  "count": 17530,
   "items": [
+    {
+      "id": "4945949",
+      "time": "2026-06-21 01:48:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "X平臺標記了國家安全部長本·格維爾的一條帖文。真主黨造成四名以色列士兵身亡後，該帖文呼籲讓黎巴嫩“化為火海”；該平臺表示這條內容違反平臺規則，但出於公共利益考量仍予以保留、未下架。"
+    },
     {
       "id": "mkt:019ee622-d8ed-7dd8-b0a1-2e2a3b728a9e",
       "time": "2026-06-21 01:45:03",
@@ -161526,30 +161534,6 @@
         "Impact bullish"
       ],
       "text": "【Kuwait foreign minister discusses progress on US-Iran peace agreement text with Qatari PM】Kuwait foreign minister Sabah spoke by phone on Saturday with Qatari PM and foreign minister Al Thani; they reviewed recent regional developments and the ongoing negotiations, noting progress toward a final text of a US-Iran peace agreement."
-    },
-    {
-      "id": "mkt:019ec219-a96a-7dd8-afed-54c9bbef931e",
-      "time": "2026-06-14 01:48:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Libya presidential council chair says willing to deepen ties with China】Libya Presidential Council chairman Manfi said in Tripoli on June 13 that Libya prioritizes developing relations with China and is willing to deepen mutually beneficial cooperation across sectors to elevate bilateral ties."
-    },
-    {
-      "id": "4933994",
-      "time": "2026-06-14 01:47:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國房價創下歷史新高，均價首次突破40萬美元。"
-    },
-    {
-      "id": "4933993",
-      "time": "2026-06-14 01:46:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【利比亞總統委員會主席：願推動利中關係邁向更高水平】利比亞總統委員會主席曼菲13日在利比亞首都的黎波里表示，利方高度重視發展對華關係，願不斷增進兩國各領域互利合作，推動雙邊關係邁向更高水平。（新華社）"
     }
   ]
 }
