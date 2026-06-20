@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-20 15:01:31",
-  "count": 17602,
+  "updated": "2026-06-20 15:05:41",
+  "count": 17603,
   "items": [
+    {
+      "id": "mkt:019ee3d8-a095-7dd8-b09d-3d0ac1bccbc3",
+      "time": "2026-06-20 15:04:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israel begins air strikes on eastern Lebanon】Lebanon said Israel has begun air strikes on the West Bekaa region in eastern Lebanon, Middle East outlets Al Jazeera and Al Araby reported. Earlier, Israel conducted intense shelling across multiple areas of southern Lebanon, causing multiple casualties."
+    },
+    {
+      "id": "4945714",
+      "time": "2026-06-20 15:04:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張朝陽到訪香港車博會極氪展臺 與吉利董事長李書福會面交流】據極氪微博：搜狐創始人張朝陽到訪2026中國香港車博會極氪展臺，與吉利控股集團董事長李書福會面交流。 現場體驗009光輝座艙後，張朝陽對極氪獨立分割槽隔音設計大加讚賞：“後排擁有專屬獨立空間，與前排駕駛區域隔絕”。 張朝陽為極氪8X浩瀚超級電混技術連點三個贊，直稱“Very Impressed!”動力強、能耗低、續航長。饋電上高速，越跑電越多，不是“永動機”，而是透過AI大模型精密計算，為使用者帶來無與倫比的駕乘體驗和高超的能量管理。 雙方圍繞高階新能源、綠色出行發展趨勢展開深度探討。"
+    },
     {
       "id": "4945712",
       "time": "2026-06-20 14:58:14",
@@ -162147,14 +162168,6 @@
         "DXY"
       ],
       "text": "Al Jazeera reported Israel carried out a second airstrike on the town of Mahmudiyeh in the Jezzine district of southern Lebanon."
-    },
-    {
-      "id": "4933709",
-      "time": "2026-06-13 15:04:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【近六成美國人認為到2050年美國重要性將減弱】美國皮尤研究中心12日釋出的一項民意調查顯示，在美國獨立250週年之際，美國民眾普遍情緒悲觀，約58%受訪者認為到2050年美國在全球的重要性將減弱。這項民調結果顯示，多數美國人對美國在2050年前的發展前景持消極看法：其中三分之二的受訪者認為美國政治將愈加分裂，56%認為美國的居住環境將更加危險，55%預判美國經濟將走弱，54%擔心美國政府系統執行將惡化。（新華社）"
     }
   ]
 }
