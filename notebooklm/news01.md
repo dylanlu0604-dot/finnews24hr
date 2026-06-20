@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 10:34:28_
-_本檔包含 3799 則快訊，約 654258 字_
+_更新時間：2026-06-20 12:05:00_
+_本檔包含 3805 則快訊，約 653880 字_
+
+---
+
+### 2026-06-20 12:02:54  #其他
+
+市場訊息： 英國政府計劃強制 Meta、YouTube平臺主推本土新聞內容。
+
+---
+
+### 2026-06-20 12:02:21  #其他
+
+【浙江釋出2025年海洋經濟統計公報】近日，《2025年浙江省海洋經濟統計公報》公佈。根據自然資源部初步核算，2025年浙江省實現海洋生產總值12803億元，比上年增長5.5%，佔地區生產總值比重為13.5%，佔全國海洋生產總值的比重為11.6%。其中，第一產業增加值644億元，第二產業增加值5299億元，第三產業增加值6860億元，海洋經濟三次產業增加值佔海洋生產總值的比重分別為5.0%、41.4%和53.6%。15個海洋產業整體穩步增長，全年實現增加值5530億元，比上年增長6.0%；海洋科研教育增加值375億元，比上年增長7.5%。（浙江釋出）
+
+---
+
+### 2026-06-20 12:00:50  #MKT News #Commodities #Energy
+
+WBG said in March its global gas price index rose 24%; the Asian LNG benchmark surged about 94% and the European benchmark rose 59%.
+
+---
+
+### 2026-06-20 11:52:10  #MKT News #Market Regions #Greater China
+
+【Douyin e-commerce: Over 120,000 merchants' livestream GMV doubled YoY during 6·18】On June 19 Douyin e-commerce said that during this year’s 6·18 shopping festival more than 120,000 merchants saw livestream GMV double YoY. The number of merchants with livestream GMV above 1 mln yuan rose 152% YoY, supported by platform coupons. Live-streaming remained a primary driver of goods sales and merchant revenue. More than 570,000 influencers recorded sales that doubled YoY.
+
+---
+
+### 2026-06-20 11:51:00  #公司
+
+【抖音電商：6·18期間超12萬商家直播成交額同比翻倍】6月19日，抖音電商釋出資料顯示，今年6·18期間，超12萬商家直播成交額同比翻倍，依託平臺消費券，直播成交額破百萬元的商家數量同比增長152%，直播仍是拉動商品銷售、帶動商家增收的重要載體。達人生態層面，超57萬達人帶貨成交額同比翻倍。
+
+---
+
+### 2026-06-20 11:47:48  #其他
+
+【武大領導班子調整】據武漢大學新聞網訊息，近日，學校召開會議，宣佈中央組織部、中央紀委國家監委關於學校領導班子調整的有關決定。經研究，王晗同志任武漢大學黨委副書記、紀委書記、國家監委駐武漢大學監察專員。校黨委書記朱孔軍表示，這次領導班子調整是上級部門通盤考慮、審慎研究決定的，學校黨委完全擁護、堅決服從。（中新網）
+
+---
+
+### 2026-06-20 11:45:21  #國際
+
+【多明尼加一度假酒店突發大火，致1死多傷，近1700名遊客被疏散】據英國路透社、美國哥倫比亞廣播公司（CBS）等媒體報道，加勒比島國多明尼加一家度假酒店當地時間19日發生大規模火災，造成1人死亡、多人受傷，近1700名遊客被疏散。CBS援引官方訊息稱，當日上午11時左右，該國拉阿爾塔格拉西亞省巴亞伊貝鎮的一家四星級度假酒店發生火災。巴亞伊貝是深受國際遊客歡迎的熱門旅遊目的地。（環球網）
+
+---
+
+### 2026-06-20 11:44:44  #MKT News
+
+【Australia confirms first mainland detection of H5N1 highly pathogenic avian influenza】The Australian government confirmed on the 20th that H5N1 highly pathogenic avian influenza (HPAI) was detected in a migratory bird in Western Australia, the first confirmed detection of H5-type HPAI on the Australian mainland.
+
+---
+
+### 2026-06-20 11:43:32  #MKT News
+
+Israeli Health Ministry said 13 Israeli soldiers were wounded in fighting in Lebanon, bringing total Israeli military casualties there to 932.
+
+---
+
+### 2026-06-20 11:34:16  #MKT News
+
+【2026 Dragon Boat Festival box office tops 200 mln yuan】Online ticketing platform data show the 2026 Dragon Boat Festival window (June 19-21) box office exceeded 200 mln yuan as of June 20; Toy Story 5 led the period's rankings.
+
+---
+
+### 2026-06-20 11:33:58  #國際
+
+【波蘭總統決定撤銷授予澤連斯基的最高榮譽，烏方：遺憾】據英國路透社、美國彭博社等媒體19日報道，波蘭總統納夫羅茨基決定撤銷授予烏克蘭總統澤連斯基的該國最高榮譽“白鷹勳章”。烏克蘭方面對此表示“遺憾”。此前，澤連斯基簽署行政令，將烏克蘭軍隊一支特種部隊命名為“烏克蘭反抗軍英雄”，此舉引發波蘭方面憤怒。“烏克蘭反抗軍”原本是第二次世界大戰時期一個烏克蘭民族主義者組成的準軍事組織，該組織被認為曾殺害10萬名波蘭人。（環球網）
+
+---
+
+### 2026-06-20 11:31:32  #其他
+
+【玉淵譚天：中國在為臺灣島以東海域的國土空間規劃做準備】6月16日至18日，自然資源部組織開展我國臺灣島以東管轄海域海洋環境調查。此前，譚主從多部門的一系列行動中提煉出“近海治理模式”，得到了多方關注——以後，我們的視野裡會越來越少出現“臺灣海峽”；臺灣島以東海域就是我們的“近海”，這就是我們存在、管轄和治理的海洋。這次行動意味著，“近海治理模式”已經涵蓋自然資源領域。（玉淵譚天）
+
+---
+
+### 2026-06-20 11:29:37  #國際
+
+伊朗總統高階顧問：美國必須非常謹慎，以免和平協議淪為以色列固有惡意行為的犧牲品。
+
+---
+
+### 2026-06-20 11:28:10  #MKT News
+
+A senior adviser to Iran's president said the US must be extremely cautious to prevent a peace agreement from becoming a casualty of Israel's inherent malign behavior.
+
+---
+
+### 2026-06-20 11:27:40  #國際
+
+【巴拿馬籍船隻被證實在黑海遇襲】巴拿馬海事局19日釋出公告說，一艘懸掛巴拿馬國旗的船隻18日在黑海海域遇襲，造成1名船員死亡、2名船員受傷，其中1人傷勢嚴重。公告說，根據初步資訊，涉事船隻在黑海海域遭遇無人機襲擊，目前已繼續航行。巴拿馬海事局建議所有巴拿馬籍船隻採取一切必要的安全措施，並儘可能避免透過黑海和亞速海的烏克蘭及俄羅斯水域。（新華社）
+
+---
+
+### 2026-06-20 11:26:14  #其他
+
+【曹德旺談內卷：我從來不怕競爭，優秀的企業需要強有力的對手】現年80歲的曹德旺，卸任福耀玻璃（600660.SH）董事長後並未閒下來。在福耀科技大學商學中心近日舉辦的一場企業家培訓營上，這位全球最大汽車玻璃企業創始人分享了對內卷、製造業痛點、企業傳承交接等話題的看法。面對中小企業如何應對市場內卷的提問，曹德旺直截了當地說：“先把內卷兩個字改掉，改成競爭，心態就平衡了。”“我從來不怕競爭。一個優秀的企業，恰恰需要強有力的對手。如果沒有對手跟你競爭，你自己也很難進步。所以不要把它理解成內卷。打贏對手，說明你做得更好；打輸給對手，就說明自己還有差距，那就繼續努力，把它打贏回來。”（澎湃新聞）
+
+---
+
+### 2026-06-20 11:22:50  #其他
+
+【2026端午檔票房破2億】據網路平臺資料，截至6月20日，2026年端午檔檔期（6月19日-6月21日）票房已突破2億，《玩具總動員5》領跑端午檔檔期票房榜。
+
+---
+
+### 2026-06-20 11:18:59  #公司 #觀點 #國際
+
+【創新生態聚引力，外資行看多中國資產】多家外資行近期表示，中國經濟韌性凸顯，新質生產力加速形成，全球資本對中國市場的信心攀升，境外投資者增持中國資產的意願持續增強。“對外資而言，中國資產已從‘是否配置’轉向‘如何配置’。”瑞銀集團中國區總裁、瑞銀證券董事長鬍知鷙表示。瑞銀證券全球投資銀行部聯席主管諶戈介紹，從瑞銀今年上半年參與的IPO、定增、可轉債專案來看，不論是摩根大通、富達投資等西方長線資金，還是卡達投資局、阿布扎比投資局等中東主權基金，都在佈局中國資產方面展現出活躍態度。不少機構都是首次參與港股的基石投資，這意味著它們要接受6個月鎖定期限制，顯示出對所投標的的信心。（新華社）
+
+---
+
+### 2026-06-20 11:09:51  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran distrusts US, preparing for potential war while pursuing diplomacy】Ebrahim Rezaei, spokesman for the Iranian parliament’s National Security and Foreign Policy Committee, said in an interview that a Lebanon ceasefire is a red line Iran will not concede. He said Iran does not trust the United States and will not normalize relations, views Washington as hostile, and is preparing for a possible new war while also pursuing negotiations and diplomatic options.
+
+---
+
+### 2026-06-20 11:06:06  #其他
+
+【水利部：全國14條中小河流發生超警洪水】記者從水利部瞭解到，受降雨影響，昨天到今天，貴州紅水河支流六硐河、柳江支流古賓河，雲南南盤江支流巴江，廣西紅水河支流洪龍河、柳江支流西河、賀江支流都江河、北流河，廣東北江支流綏江，安徽沿江支流秋浦河，河南淮河支流史河，黑龍江呼蘭河支流克音河等14條中小河流發生超警洪水，最大超警幅度1.22米。目前上述河流大部已出峰迴落。（央視新聞）
+
+---
+
+### 2026-06-20 10:59:47  #公司
+
+【晉江文學城就部分使用者充值未到賬致歉：技術已全部處理完畢】6月20日，晉江文學城客服釋出公告稱，“尊敬的iOS使用者，發生在2026年6月20日00：00-05：00期間，透過iOS充值渠道充值後未到賬的訂單，截止到2026年6月20日10：00技術已全部處理完畢，期間反饋充值未到賬的友友，可移步賬號餘額做下確認，因此給大家帶來不好的體驗，深表歉意。”
+
+---
+
+### 2026-06-20 10:59:30  #國際
+
+【法媒：特朗普與高市在G7晚宴上發生“口角”】據日本《日刊現代》網站6月19日報道，七國集團（G7）峰會於當地時間15日至17日在法國埃維昂舉行。法國媒體報道稱，在峰會首日的工作晚宴上，美國總統特朗普與日本首相高市早苗“發生了口角”。在負責經濟評論板塊的《回聲報》記者的發言中，他在談到本次峰會在經濟層面的成果時，提到了以下內容：“根據我得到的訊息，在週一的晚宴上，特朗普總統與日本首相之間發生了口角，以至於其他國家首腦不得不出面勸解。起因是特朗普總統再次將（美軍）對伊朗的襲擊比作1941年的偷襲珍珠港，並以此炫耀。”（參考訊息）
+
+---
+
+### 2026-06-20 10:58:30  #焦點 #國際
+
+【伊朗稱不信任美國，正在做兩手準備】伊朗議會國家安全和外交政策委員會發言人易卜拉欣·雷扎伊日前接受總檯專訪時表示，黎巴嫩停火問題是伊朗的紅線，伊朗不會在相關問題上退讓。關於伊美關係，雷扎伊表示，伊朗不信任美國，不會與其實現關係正常化。雷扎伊強調，目前伊美處於敵對狀態，伊朗正在為可能的另一場戰爭做準備，“我們不相信美國人說的話，而是基於自己的考量行事”，並表示伊朗也在採用談判和外交的選項，將繼續與美國進行談判。（CCTV國際時訊）
+
+---
+
+### 2026-06-20 10:55:29  #其他
+
+【規範內設機構，江蘇多地黨政機關“處”改“科”、處長變科長】近段時間，江蘇淮安、無錫、南通等設區市的多家單位相繼規範內設機構，原以“處”命名的內設機構全部調整為“科”，處長、副處長隨之改稱科長、副科長。（澎湃新聞）
+
+---
+
+### 2026-06-20 10:54:08  #其他
+
+【理想i6第15萬臺量產車下線】6月20日，理想汽車宣佈，理想i6第15萬臺量產車下線。據瞭解，理想i6於2025年9月26日上市，售價24.98萬元起。
+
+---
+
+### 2026-06-20 10:50:48  #其他
+
+【安陽鋼鐵二煉軋作業部成功實現高錳無磁鋼2爐連澆新突破】“安陽鋼鐵”公眾號訊息，6月19日，二煉軋作業部順利完成20Mn23AlV高錳無磁鋼冶煉澆鑄生產任務，首次實現該鋼種2爐連澆穩定生產，標誌著該作業部先進鋼鐵材料生產工藝愈發成熟。20Mn23AlV高錳無磁鋼是高階特種鋼材的核心品類，憑藉極低的磁導率、優異的力學韌性與便捷的加工特性，成為電力變壓器、精密電子儀器、航空航天精密構件等高階製造領域的關鍵用材，市場剛需強勁、應用前景廣闊。
+
+---
+
+### 2026-06-20 10:43:39  #市場
+
+【金飾克價年內大跌近450元】6月20日，國際金價繼續走弱。截至週五（6月19日）紐約尾盤，現貨黃金價格下跌0.79%，報4154.78美元/盎司；黃金期貨價格下跌1.72%，報4172.9美元/盎司。受國際金價調整影響，國內多家品牌足金飾品價格下跌至約1260元/克，和年內高點相比下跌近450元。（央視財經）
+
+---
+
+### 2026-06-20 10:39:58  #國際
+
+日本計劃到2040年吸引總計2.3萬億美元的公私合作投資。
+
+---
+
+### 2026-06-20 10:38:46  #公司
+
+【諾獎得主John Jumper從DeepMind跳槽Anthropic】AlphaFold核心領導者John Jumper官宣：離開工作近9年的Google DeepMind，加入Anthropic。用一個AI模型改寫了整個結構生物學的諾獎得主，轉身走了。
+
+---
+
+### 2026-06-20 10:35:27  #其他
+
+【長江中下游明起雨勢再增強 華南高溫將增多】端午假期後兩日（6月20日至21日），南方大部和東北地區降雨仍然較多，其中長江中下游明天雨勢較強，多地將現暴雨到大暴雨。此外，今天起江南南部和華南一帶的高溫悶熱天氣將快速發展，福州、廣州、海口將現連續高溫天氣，需注意防暑。（央視新聞）
+
+---
+
+### 2026-06-20 10:33:48  #其他
+
+【阿根廷更換總統府發言人】阿根廷內閣首席部長曼努埃爾·阿多爾尼19日在社交媒體上發文，宣佈辭去兼任的總統府發言人職務，阿德里安·拉維耶擔任新發言人。阿多爾尼近期被曝搭乘私人航班度假、擁有未申報的豪華房產和豪華汽車等。阿根廷一些國會議員指出，阿多爾尼的支出與申報收入不符，涉嫌非法斂財等腐敗行為。本月11日，他承認向稅務機關隱瞞了超過50萬美元的收入。（新華社）
 
 ---
 
@@ -22759,155 +22945,5 @@ Alibaba Cloud is expanding its global AI infrastructure by building new data cen
 ### 2026-06-18 17:05:28  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
 
 Euro Slumps to 2-1/2-Month Low — The euro fell below $1.15, hitting its lowest level since late March, amid broad dollar strength as traders reacted to a more hawkish stance from the US Federal Reserve, which kept interest rates steady but revealed in its latest projections that nine policymakers now anticipate a rate hike by the end of 2026. This shift came after the European Central Bank raised rates last week and the Bank of Japan followed with a similar move earlier this week. Markets are now pricing in at least one additional ECB rate increase before year-end. Adding to the market dynamics, investors responded positively to reports of a US-Iran agreement to reopen the Strait of Hormuz, which drove oil prices to three-month lows and eased inflation pressures. Still, tensions persisted, with US President Donald Trump warning of potential renewed attacks and targeted actions against Iranian officials if the agreement’s terms were not upheld.
-
----
-
-### 2026-06-18 17:05:23  #MKT News #Market Regions #Greater China #0388.HK #Impact bullish
-
-【HKEX renews MOU with China Financial Futures Exchange (CFFEX)】Hong Kong Exchanges and Clearing (HKEX) said it has renewed a memorandum of understanding with the China Financial Futures Exchange (CFFEX) to deepen engagement between the two exchanges. The MOU covers exploring product and business cooperation, strengthening research and experience sharing, and conducting personnel exchanges and training to support development of Hong Kong and Shanghai financial markets.
-
----
-
-### 2026-06-18 17:05:15  #市場 #國際
-
-馬來西亞富時吉隆坡綜合指數收盤微幅震盪，報 1711.39 點。
-
----
-
-### 2026-06-18 17:04:57  #公司 #市場
-
-【鄂爾多斯：一致行動人未及時披露一致行動關係被出具警示函】鄂爾多斯公告，公司於近日收到內蒙古證監局出具的《關於對內蒙古鄂爾多斯羊絨集團有限責任公司及其一致行動人採取出具警示函措施的決定》。經查，天定(香港)有限公司、BEST MOULD LIMITED、WISE STATE LIMITED三家公司從2010年開始透過集中競價方式增持公司B股股份，上述三家公司與羊絨集團及鄂爾多斯資產管理(香港)有限公司互為一致行動人。因未及時通知公司披露一致行動關係，導致公司2024年10月1日才予以披露，違反了《上市公司資訊披露管理辦法》相關規定。內蒙古證監局決定對相關方採取出具警示函的行政監管措施，並記入證券期貨市場誠信檔案。
-
----
-
-### 2026-06-18 17:04:50  #公司
-
-【動力源：簽訂1.75億元募集資金專戶儲存四方監管協議】動力源公告稱，公司向特定物件發售59,554,140股股票，發行價格每股3.14元，募集資金總額1.87億元，扣除發行費用後淨額1.75億元，已於2024年10月30日全部到賬。為規範募集資金管理，公司與控股子公司安徽動力源、華夏銀行合肥政務區支行及保薦機構中德證券簽署《募集資金專戶儲存四方監管協議》，截至2026年6月11日，專戶餘額為0元，該專戶用於“車載電源研發及產業化專案”。
-
----
-
-### 2026-06-18 17:04:44  #觀點
-
-【摩根大通稱晶片股劇烈震盪迫使部分投資者減倉 恐因此引發市場“恐慌”】摩根大通表示，隨著晶片股大幅波動迫使部分投資者削減配置，市場出現“恐慌”的風險正在上升。Nikolaos Panigirtzoglou領銜的策略師團隊表示，本週晶片股反彈至歷史高點的同時，波動率也有所上升，這可能觸發投資組合的所謂VaR衝擊，即市場大幅波動導致投資者突破風險價值(Value-at-Risk)限制，即使他們依然看好相關交易，也不得不削減倉位。Panigirtzoglou在一份報告中寫道：“VaR敏感投資者的增加，提高市場對自我強化、由波動驅動的拋售的敏感性。”
-
----
-
-### 2026-06-18 17:04:36  #MKT News #Important #Market Regions #Greater China
-
-Shanghai Stock Exchange website shows Shanghai Suiyuan Technology Co., Ltd.'s IPO review status has been updated to submitted for registration.
-
----
-
-### 2026-06-18 17:04:33  #公司
-
-據上交所官網顯示，上海燧原科技股份有限公司IPO稽核狀態變更為提交註冊。
-
----
-
-### 2026-06-18 17:04:30  #公司
-
-【立訊精密港股上市獲中國證監會備案】中國證監會國際合作司釋出關於立訊精密工業股份有限公司境外發行上市備案通知書，公司擬發行不超過440,993,700股境外上市普通股並在香港聯合交易所上市。
-
----
-
-### 2026-06-18 17:04:19  #市場 #觀點
-
-【香港交易所與中金所續簽合作備忘錄】香港交易所今天宣佈與中國金融期貨交易所續簽了合作備忘錄，以深化兩所之間的交往與合作，共同推動香港和上海兩地金融市場的健康發展。根據合作備忘錄，雙方將在探索開展産品和業務合作的可能性、加強研究成果和經驗分享、互派人員交流及培訓合作等方面深化合作。
-
----
-
-### 2026-06-18 17:04:08  #MKT News #Important #Market Regions #Greater China #002475.SZ #Impact mixed
-
-【CSRC files Luxshare Precision Hong Kong listing】The CSRC International Cooperation Department issued a filing notice for Luxshare Precision Industry Co., Ltd.'s overseas issuance and listing. The company proposes to issue up to 440,993,700 overseas ordinary shares for listing on the Hong Kong Stock Exchange (HKEX).
-
----
-
-### 2026-06-18 17:03:57  #市場
-
-美元兌日元<JPY=>上漲0.1%，報160.80，創2024年7月以來新高。
-
----
-
-### 2026-06-18 17:03:43  #公司 #市場
-
-【交易商協會：對國信證券予以警告，責令其針對暴露出的簿記發行等方面問題進行整改】中國銀行間市場交易商協會公告，國信證券作為簿記管理人，在相關債務融資工具簿記發行過程中釋出虛假資訊，干擾發行定價及市場發行秩序。此外，在債務融資工具存續期間，存在未按要求監測發行人相關資訊並及時召集持有人會議的情形。根據銀行間債券市場相關自律規定，經自律處分會議審議，對國信證券予以警告，責令其針對暴露出的簿記發行、存續期管理等方面問題進行全面深入的整改。
-
----
-
-### 2026-06-18 17:03:28  #公司
-
-【富淼科技：對外投資3000萬元設立全資子公司完成工商登記】 富淼科技公告，公司於2026年3月31日召開董事會審議透過使用自有資金3000萬元投資設立全資投資子公司。近日，該全資子公司已完成工商設立登記手續並取得營業執照，公司名稱為上海金沁企業發展有限公司，註冊資本3000萬元，公司持股100%，法定代表人為李平。
-
----
-
-### 2026-06-18 17:03:16  #宏觀 #國際
-
-【藍佛安會見印度尼西亞財政部部長普爾巴亞】2026年6月17日，財政部部長藍佛安在京會見印度尼西亞財政部部長普爾巴亞。雙方主要就兩國宏觀經濟形勢及中印尼在多邊財經合作機制下的合作等問題交換了意見。財政部部長助理常軍紅、印尼駐華大使周浩黎等參加會見。（財政部）
-
----
-
-### 2026-06-18 17:03:16  #MKT News
-
-【China finance minister Lan Fo'an meets Indonesia finance minister Purbaya】On June 17, 2026 in Beijing, China's finance minister Lan Fo'an met Indonesia's finance minister Purbaya to exchange views on their macroeconomic outlooks and cooperation under multilateral financial mechanisms. Assistant finance minister Chang Junhong and Indonesian Ambassador to China Zhou Haoli attended.
-
----
-
-### 2026-06-18 17:02:39  #Trading Economics #Economy #Bulgaria #Current Account #Importance 1
-
-Bulgaria Current Account Shortfall Widens in April — Bulgaria’s current account deficit widened sharply to EUR 1,209.3 million in April 2026 from EUR 788.9 million in the corresponding month of the previous year. The goods account deficit expanded to EUR 1,084.1 million from EUR 817.4 million, while the services account surplus shrank by EUR 127.4 million to EUR 402.7 million from EUR 530 million. Additionally, the primary income shortfall increased to EUR 636.1 million from EUR 603.7 million a year earlier. On the other hand, the secondary income surplus expanded by EUR 6 million to EUR 108.2 million from EUR 102.2 million, providing only limited support against the overall weakening in the current account balance.
-
----
-
-### 2026-06-18 17:02:31  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
-
-Euro area construction output rose 0.9% year-on-year in April, versus -1.2% previously.
-
----
-
-### 2026-06-18 17:02:25  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-Eurozone construction output MoM +0.6% in April; prior +0.8%.
-
----
-
-### 2026-06-18 17:02:23  #其他
-
-【國家網信辦等三部門聯合公佈《網路資料安全風險評估辦法》】6月18日，國家網信辦、工業和資訊化部、公安部聯合公佈《網路資料安全風險評估辦法》，自2026年8月20日起施行。《辦法》明確了風險評估的有關要求、依據和形式。規定重要資料處理者應當每年度開展風險評估。重要資料安全狀態發生重大變化可能對資料安全造成不利影響的，應當及時對發生變化及其影響的部分開展風險評估。鼓勵處理一般資料的網路資料處理者至少每3年開展一次風險評估。明確風險評估工作應當按照法律法規要求，參照有關國家標準開展。規定網路資料處理者可以自行或者委託第三方評估機構開展風險評估。（網信中國）
-
----
-
-### 2026-06-18 17:02:23  #MKT News #Economic Calendar #Important
-
-Eurozone | Construction Output (YoY) (Apr) | actual 0.9% | previous -1.20%
-
----
-
-### 2026-06-18 17:02:19  #MKT News #Economic Calendar #Important
-
-Eurozone | Construction Output (MoM) (Apr) | actual 0.6% | previous 0.80%
-
----
-
-### 2026-06-18 17:02:07  #MKT News #CSI300 #Impact bearish
-
-【Cyberspace Administration, MIIT and Ministry of Public Security jointly issue Measures for Network Data Security Risk Assessment】June 18 — The Cyberspace Administration of China, the Ministry of Industry and Information Technology and the Ministry of Public Security jointly issued the Measures for Network Data Security Risk Assessment, effective August 20, 2026. The measures set out assessment requirements, legal basis and formats. Important data processors must conduct annual risk assessments; if an important data security status undergoes material change that could harm data security, they must promptly assess the changed elements and their impact. Network data processors handling general data are encouraged to carry out risk assessments at least once every three years. Assessments must comply with laws, regulations and relevant national standards. Network data processors may conduct assessments internally or commission third-party assessment agencies.
-
----
-
-### 2026-06-18 17:01:36  #公司
-
-【九強生物：股東擬終止協議轉讓公司5.0000003%股份】九強生物公告，公司股東鄒左軍、劉希、孫小林與國藥投資簽署的股份轉讓協議終止。原協議約定轉讓2931.54萬股，佔公司總股本的5.0000003%。此次轉讓價款總額為4.01億元。終止原因是截至2025年12月31日，標的股份未能辦理完成過戶登記。
-
----
-
-### 2026-06-18 17:01:22  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-【PBOC, CSRC officials on Hong Kong's recent launch of 5-year RMB government bond futures】PBOC and CSRC said they support Hong Kong's recent launch of 5-year RMB government bond futures, noting the product will expand hedging tools for international investors, boost RMB asset appeal and reinforce Hong Kong's offshore RMB hub, encouraging long-term allocations to China. They said, in line with priorities of risk prevention, stronger supervision and high-quality development, they will coordinate with Hong Kong to strengthen market monitoring and analysis, share data and information, and enhance cross-border regulatory cooperation to keep markets orderly.
-
----
-
-### 2026-06-18 17:01:20  #市場
-
-【中國人民銀行、中國證監會有關部門負責人就香港近期推出5年期人民幣國債期貨答記者問】中國人民銀行、中國證監會支援香港於近期正式推出5年期人民幣國債期貨產品，此舉有利於進一步豐富國際投資者風險管理工具，提升人民幣資產吸引力，鞏固提升香港離岸人民幣樞紐地位，增強長期配置型投資者投資中國的意願和信心。下一步，中國人民銀行、中國證監會將按照防風險、強監管、促高質量發展的工作要求，會同香港方面加強市場監測分析、資料資訊共享和跨境監管合作，共同維護兩地市場平穩有序執行。
 
 ---
