@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 04:39:33_
-_本檔包含 3869 則快訊，約 651757 字_
+_更新時間：2026-06-21 05:11:30_
+_本檔包含 3868 則快訊，約 651717 字_
+
+---
+
+### 2026-06-21 05:10:22  #其他
+
+英國國王與威廉王子將公開個人納稅明細。
+
+---
+
+### 2026-06-21 05:07:39  #焦點 #國際
+
+【萬斯稱美伊或將展開數日談判】美國副總統萬斯向媒體透露，美國與伊朗或將在瑞士進行為期數日的談判。他表示：“待商議的議題繁多，但我們會逐一磋商完畢。”萬斯表示，美方將在與伊朗的談判中重點討論核問題與黎巴嫩停火事宜。萬斯稱自己僅能在瑞士停留一至兩天。萬斯此番表態時正從一處美軍基地動身前往瑞士，美方談判代表已在當地籌備與伊朗官員的會談。
+
+---
+
+### 2026-06-21 05:06:34  #國際
+
+特朗普：美國公園警察已逮捕多名破壞倒影池的人員。什麼人會做出這種事？破壞國家紀念建築屬於性質極其惡劣的罪行，涉案人員將面臨多年監禁！修繕工作將即刻啟動。
+
+---
+
+### 2026-06-21 05:04:09  #MKT News #Important #Market Regions #Europe & UK
+
+According to the Observer, UK Prime Minister Starmer is expected to resign next Monday and begin an orderly handover.
+
+---
+
+### 2026-06-21 05:03:55  #其他 #焦點
+
+英國首相斯塔默預計將於下週一辭職，並將有序退出流程作出安排。
+
+---
+
+### 2026-06-21 04:57:34  #公司 #市場
+
+【暫停新開戶！期貨罰單這項業務成重災區】今年以來，期貨業罰單的一個顯著變化是，“暫停業務類”措施大幅增加。券商中國記者梳理年內罰單情況，監管邏輯從“罰款多少”切換為“能不能繼續做業務”，而且罰單不僅僅打分支機構的板子，公司總部更要擔責。此外，期貨業協會同步啟動自律懲戒，從行業自律層面追加處分，形成行政監管+協會自律雙重約束的監管格局。值得注意的是，居間業務成為今年上半年處罰的重災區。
+
+---
+
+### 2026-06-21 04:54:53  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【Vance heads to Switzerland seeking progress on Iran nuclear issue, Lebanon ceasefire】US Vice President Vance departed for Switzerland to attend US‑Iran talks, saying he expects to be there one to two days and hopes Washington and Tehran can make progress on Iran’s nuclear file and a Lebanon ceasefire. He added that, despite headline coverage, the situation in Lebanon is improving and cooling, but will require sustained management to ensure security and stability for Israel and Lebanon.
+
+---
+
+### 2026-06-21 04:54:51  #國際
+
+【伊朗最高領袖對談判作出負面表態】伊朗最高領袖對伊斯蘭堡相關談判作出負面表態，批評談判官員談及核議題，且未能堅守此前擬定的一系列先決條件。他表示，談判中觸碰核相關議題、未落實雙方約定條件，此舉“違背伊斯蘭教法”。伊朗最高國家安全委員會成員隨後致信最高領袖，申辯談判必須納入核問題，並對沖突持續、本國基礎設施可能遭打擊表達擔憂。伊朗最高領袖對此回應，此類談判“今生後世皆無益處”，也無法阻止針對伊朗基礎設施的襲擊。
+
+---
+
+### 2026-06-21 04:51:15  #國際
+
+【巴基斯坦總理和陸軍參謀長將參與美伊談判】據巴基斯坦總理辦公室21日釋出的宣告，巴基斯坦總理夏巴茲與陸軍參謀長穆尼爾將參與當天在瑞士比爾根山舉行的美伊技術層面談判。宣告說，此次談判是美伊諒解備忘錄簽署後的接續行動。夏巴茲已率領高階別代表團離開巴首都伊斯蘭堡前往瑞士。據伊朗媒體20日報道，伊朗談判代表已赴瑞士。多家外媒當天晚些時候報道，美國副總統萬斯也已啟程前往瑞士。此前還有訊息說，美國總統特使威特科夫和美國總統特朗普的女婿庫什納也將參加談判。（新華社）
+
+---
+
+### 2026-06-21 04:48:53  #焦點 #國際
+
+【伊朗談判代表團抵達瑞士】據伊朗國家電視臺當地時間今天（6月21日）凌晨報道，伊朗談判代表團已抵達瑞士蘇黎世。瑞士外交部也證實了這一訊息，並表示伊朗代表團正在前往比爾根山的途中。
+
+---
+
+### 2026-06-21 04:45:29  #其他 #焦點
+
+多方訊息顯示，深陷執政危機的英國首相斯塔默正籌備在未來數日內辭職。
+
+---
+
+### 2026-06-21 04:43:00  #其他
+
+萬斯：目標是在瑞士建立談判框架。
+
+---
+
+### 2026-06-21 04:41:42  #其他
+
+剛果民主共和國表示，埃博拉確診病例已升至956例，其中包括247例死亡病例。
+
+---
+
+### 2026-06-21 04:40:45  #MKT News
+
+【Iranian negotiating delegation arrives in Switzerland】An Iranian negotiating delegation arrived in Zurich on the 21st (local time).
+
+---
+
+### 2026-06-21 04:40:31  #其他
+
+萬斯：交火行動應當充分停歇，為黎巴嫩停火創造條件。
 
 ---
 
@@ -23228,101 +23318,5 @@ Text of U.S.-Iran memorandum: the U.S. will not impose any new sanctions prior t
 ### 2026-06-18 19:06:41  #Trading Economics #Markets #Russia #Stock Market #Importance 0
 
 Stocks in Russia Hit 17-month Low — MOEX decreased to 2450.00 Index Points, the lowest since December 2024. Over the past 4 weeks, MOEX lost 7.97%, and in the last 12 months, it decreased 11.94%.
-
----
-
-### 2026-06-18 19:06:36  #MKT News
-
-Ukraine's central bank expects inflation to remain at current levels over the next few months and to accelerate before year-end.
-
----
-
-### 2026-06-18 19:05:47  #市場
-
-英國兩年期國債收益率上升7個基點至4.22%。
-
----
-
-### 2026-06-18 19:05:30  #央行 #其他
-
-英國央行格林：加息投票是防範第二輪通脹效應進一步擴大的保障。
-
----
-
-### 2026-06-18 19:05:15  #央行 #市場
-
-英國央行維持利率不變後，英國國債收益率基本持平。
-
----
-
-### 2026-06-18 19:05:06  #央行 #其他
-
-交易員對英國央行利率預期保持穩定，預計年內加息幅度合計 35 個基點。
-
----
-
-### 2026-06-18 19:05:06  #MKT News #Macro & Rates #Treasury Yields #GBPUSD #Impact bullish #DXY #Impact bearish
-
-UK two-year gilt yield rose 7 bps to 4.22%.
-
----
-
-### 2026-06-18 19:05:04  #央行 #英國央行
-
-【交易員維持對英國央行利率的押注】交易員維持對英國央行利率的押注，預計今年將加息35個基點。
-
----
-
-### 2026-06-18 19:04:49  #MKT News #Important #GBPUSD #Impact bullish
-
-Traders maintain bets that the Bank of England will raise rates by 35bps this year.
-
----
-
-### 2026-06-18 19:04:45  #其他
-
-羅森布拉特證券將美光科技目標價從600美元翻倍上調至1200美元。
-
----
-
-### 2026-06-18 19:04:36  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100
-
-Bank of England expects Q2 potential GDP growth of about +0.2%, versus +0.1% in its April forecast.
-
----
-
-### 2026-06-18 19:04:30  #央行 #其他
-
-英國央行副行長隆巴爾代利：將迅速對第二輪效應增強的跡象作出反應。
-
----
-
-### 2026-06-18 19:04:03  #央行 #其他
-
-土耳其央行貨幣政策委員會會議紀要：第二季度領先指標顯示，國內需求將持續疲軟。
-
----
-
-### 2026-06-18 19:03:59  #央行 #市場
-
-英國央行利率決議公佈後，英鎊兌美元GBP/USD短線小幅下挫12點，現報1.3225。
-
----
-
-### 2026-06-18 19:03:40  #公司
-
-【*ST天山：擬向特定物件發行不超過5900萬股A股股票】*ST天山公告，公司擬向控股股東廈門舍德及實際控制人陳明藝發行不超過5900萬股A股股票，由廈門舍德及陳明藝以現金方式全額認購。公司已與廈門舍德、陳明藝簽署《附條件生效的股份認購協議之補充協議》。本次發行尚需深圳證券交易所稽核透過並經中國證監會同意註冊。
-
----
-
-### 2026-06-18 19:03:35  #Trading Economics #Economy #United Kingdom #Interest Rate #Importance 3
-
-Bank of England Keeps Rates Steady — The Bank of England voted 7-2 to keep Bank Rate unchanged at 3.75% in June 2026, as policymakers weighed easing inflation against continued uncertainty from volatile global energy markets linked to Middle East tensions. Two members of the Monetary Policy Committee preferred a 0.25 percentage point hike to 4%. Officials said global energy prices have declined since the previous meeting following developments in the Middle East, but remain elevated and unstable compared with pre-conflict levels. UK CPI inflation has eased to 2.8%, though the Bank expects it could rise later this year as earlier energy increases continue to feed through. Policymakers warned that the risk of second-round effects in wages and prices increases the longer elevated energy costs persist. At the same time, the labour market is showing signs of cooling, and broader economic momentum appears to be weakening, which could help limit inflationary pressure.
-
----
-
-### 2026-06-18 19:03:29  #央行 #市場 #國際
-
-英國央行行長貝利：過去四個月能源價格上漲導致了一些通脹壓力，我們的職責是確保這不會轉變為持續的通脹。儘管停火，伊朗戰爭帶來的壓力仍在持續。油價下跌“令人鼓舞”，但一些通脹壓力已在醞釀中。將對更強的二輪效應跡象迅速作出回應。
 
 ---

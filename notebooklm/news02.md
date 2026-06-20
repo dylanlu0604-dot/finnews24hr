@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 04:39:33_
-_本檔包含 3553 則快訊，約 651853 字_
+_更新時間：2026-06-21 05:11:30_
+_本檔包含 3562 則快訊，約 651595 字_
+
+---
+
+### 2026-06-18 19:06:36  #MKT News
+
+Ukraine's central bank expects inflation to remain at current levels over the next few months and to accelerate before year-end.
+
+---
+
+### 2026-06-18 19:05:47  #市場
+
+英國兩年期國債收益率上升7個基點至4.22%。
+
+---
+
+### 2026-06-18 19:05:30  #央行 #其他
+
+英國央行格林：加息投票是防範第二輪通脹效應進一步擴大的保障。
+
+---
+
+### 2026-06-18 19:05:15  #央行 #市場
+
+英國央行維持利率不變後，英國國債收益率基本持平。
+
+---
+
+### 2026-06-18 19:05:06  #央行 #其他
+
+交易員對英國央行利率預期保持穩定，預計年內加息幅度合計 35 個基點。
+
+---
+
+### 2026-06-18 19:05:06  #MKT News #Macro & Rates #Treasury Yields #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK two-year gilt yield rose 7 bps to 4.22%.
+
+---
+
+### 2026-06-18 19:05:04  #央行 #英國央行
+
+【交易員維持對英國央行利率的押注】交易員維持對英國央行利率的押注，預計今年將加息35個基點。
+
+---
+
+### 2026-06-18 19:04:49  #MKT News #Important #GBPUSD #Impact bullish
+
+Traders maintain bets that the Bank of England will raise rates by 35bps this year.
+
+---
+
+### 2026-06-18 19:04:45  #其他
+
+羅森布拉特證券將美光科技目標價從600美元翻倍上調至1200美元。
+
+---
+
+### 2026-06-18 19:04:36  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100
+
+Bank of England expects Q2 potential GDP growth of about +0.2%, versus +0.1% in its April forecast.
+
+---
+
+### 2026-06-18 19:04:30  #央行 #其他
+
+英國央行副行長隆巴爾代利：將迅速對第二輪效應增強的跡象作出反應。
+
+---
+
+### 2026-06-18 19:04:03  #央行 #其他
+
+土耳其央行貨幣政策委員會會議紀要：第二季度領先指標顯示，國內需求將持續疲軟。
+
+---
+
+### 2026-06-18 19:03:59  #央行 #市場
+
+英國央行利率決議公佈後，英鎊兌美元GBP/USD短線小幅下挫12點，現報1.3225。
+
+---
+
+### 2026-06-18 19:03:40  #公司
+
+【*ST天山：擬向特定物件發行不超過5900萬股A股股票】*ST天山公告，公司擬向控股股東廈門舍德及實際控制人陳明藝發行不超過5900萬股A股股票，由廈門舍德及陳明藝以現金方式全額認購。公司已與廈門舍德、陳明藝簽署《附條件生效的股份認購協議之補充協議》。本次發行尚需深圳證券交易所稽核透過並經中國證監會同意註冊。
+
+---
+
+### 2026-06-18 19:03:35  #Trading Economics #Economy #United Kingdom #Interest Rate #Importance 3
+
+Bank of England Keeps Rates Steady — The Bank of England voted 7-2 to keep Bank Rate unchanged at 3.75% in June 2026, as policymakers weighed easing inflation against continued uncertainty from volatile global energy markets linked to Middle East tensions. Two members of the Monetary Policy Committee preferred a 0.25 percentage point hike to 4%. Officials said global energy prices have declined since the previous meeting following developments in the Middle East, but remain elevated and unstable compared with pre-conflict levels. UK CPI inflation has eased to 2.8%, though the Bank expects it could rise later this year as earlier energy increases continue to feed through. Policymakers warned that the risk of second-round effects in wages and prices increases the longer elevated energy costs persist. At the same time, the labour market is showing signs of cooling, and broader economic momentum appears to be weakening, which could help limit inflationary pressure.
+
+---
+
+### 2026-06-18 19:03:29  #央行 #市場 #國際
+
+英國央行行長貝利：過去四個月能源價格上漲導致了一些通脹壓力，我們的職責是確保這不會轉變為持續的通脹。儘管停火，伊朗戰爭帶來的壓力仍在持續。油價下跌“令人鼓舞”，但一些通脹壓力已在醞釀中。將對更強的二輪效應跡象迅速作出回應。
 
 ---
 
@@ -21461,47 +21557,5 @@ G7 leaders recognize the strategic role of critical mineral value chains for nat
 ### 2026-06-17 20:56:44  #國際
 
 德國外長瓦德富爾：面對俄羅斯的威脅，波蘭與德國必須在防務和安全領域開展極其密切的合作。
-
----
-
-### 2026-06-17 20:56:41  #公司
-
-【名臣健康：實控人及部分高管擬合計減持公司不超3.24%股份】名臣健康公告，公司控股股東、實控人陳勤發以及董事、高管彭小青、陳東松計劃分別減持公司股份不超過790萬股（不超過公司總股本的3%）、39萬股（不超過公司總股本的0.15%）、25萬股（不超過公司總股本的0.09%）。
-
----
-
-### 2026-06-17 20:56:30  #公司 #市場
-
-【常山藥業股價跌超15%，減肥藥指數下跌近2%，多家概念股回應】6月17日，常山藥業股價大跌。Wind資料顯示，截至收盤，股價報24.92元/股，收盤跌幅為15.15%。減肥藥指數收盤跌幅達到1.82%。訊息面上，常山藥業旗下GLP-1類減肥藥艾本那肽剛走完上一輪發補，再次收到CDE第二輪發補通知書，市場對於艾本那肽上市預期降溫。對於股價大跌，常山藥業董秘劉中英稱，目前，公司不接受媒體採訪。對此，多家減肥藥上市公司回應稱，艾本那肽屬於常山藥業自主研發的創新藥，是GLP-1類減肥藥中的單靶點類藥物。目前，競爭最為激烈的就是單靶點類產品，司美格魯肽、利拉魯肽均屬於這類產品。很多上市公司已經開始佈局雙靶點以及三靶點GLP-1類減肥藥。艾本那肽若推遲上市，只對常山藥業自身有影響，不會影響其他減肥藥概念股相關業務。另有不願具名的上市公司高管表示，單靶點是一代GLP-1類減肥藥，常山藥業研發的艾本那肽上市程序和市場上主流的單靶點減肥仿製藥上市程序沒有任何關聯，單靶點減肥仿製藥預計2027年可以上市。（中證金牛座）
-
----
-
-### 2026-06-17 20:56:19  #MKT News #Market Regions #Greater China
-
-【Changshan Pharma shares tumble 15% after CDE issues second-round supplement notice for GLP-1 candidate】Changshan Pharmaceutical shares fell 15.15% to 24.92 yuan at close on June 17. A China weight-loss drug index dropped 1.82%. The move followed a report that Changshan’s GLP-1 obesity candidate Aibennatide, having just completed a prior round of supplementary submissions, received a second-round supplementary-data notice from the CDE, cooling near-term上市 expectations. Changshan said it is not accepting media interviews. Several listed weight-loss companies said Aibennatide is Changshan’s independently developed single-target GLP-1; competition is most intense among single-target products such as semaglutide and liraglutide, while many firms are developing dual- and triple-target GLP-1s. Firms added a delay to Aibennatide would primarily affect Changshan, not peer concept stocks; an unnamed executive said single-target generics are expected around 2027 and are unrelated to Changshan’s approval timeline.
-
----
-
-### 2026-06-17 20:55:41  #MKT News
-
-German Foreign Minister WADEPHUL said Poland and Germany must pursue extremely close cooperation on defense and security in the face of the threat from Russia.
-
----
-
-### 2026-06-17 20:53:27  #其他
-
-市場訊息：OpenAI創始人奧爾特曼、達里奧·阿莫迪、德米斯·哈薩比斯和阿瑟·門施將出席私人人工智慧峰會。
-
----
-
-### 2026-06-17 20:53:26  #MKT News #Market Themes #AI Revolution
-
-Market sources: OpenAI founder Altman, Dario Amodei, Demis Hassabis and Arthur Mensch will attend a private AI summit.
-
----
-
-### 2026-06-17 20:53:18  #宏觀 #市場
-
-【陳果：戰略看多中國網際網路】6月17日，國家市場監管總局釋出《外賣平臺補貼行為規範十條（徵求意見稿）》，其中指出，將明確補貼行為的合規邊界，有力遏制外賣行業“內卷式”競爭，促進行業規範健康發展。東方財富研究所副所長、首席策略官陳果表示，這是重大利好落地，有利於徹底扭轉中國網際網路企業外賣補貼內卷，從今天起恒生科技指數不應該再被戲稱之為恒生外賣指數，不能再看空了，在資金絕望的無人問津處，從今天起，我們戰略看多中國網際網路。
 
 ---
