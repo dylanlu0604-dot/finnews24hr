@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-20 14:48:25",
-  "count": 17601,
+  "updated": "2026-06-20 14:52:51",
+  "count": 17603,
   "items": [
+    {
+      "id": "mkt:019ee3cc-68eb-7dd8-b09d-30260ae48e71",
+      "time": "2026-06-20 14:51:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports Pakistan's interior minister has departed for Tehran."
+    },
+    {
+      "id": "4945710",
+      "time": "2026-06-20 14:50:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古：今年1—5月全區規模以上工業增加值同比增長5.9%】據內蒙古自治區統計局訊息：今年前5個月，全區工業轉型升級步伐加快，民間投資、高技術產業投資持續增長，市場消費規模持續擴大，整體經濟執行穩中有進。從工業領域看，今年以來，內蒙古以構建現代化產業體系為抓手，在技術改造與創新中持續提升傳統工業發展水平，培育扶植新興產業、未來產業領域一批企業做大做強，為工業發展注入新鮮血液，促進了工業經濟轉型升級。今年1—5月，全區規模以上工業增加值同比增長5.9%。值得關注的是，1—5月，全區現代煤化工產業增加值同比增長18.6%，裝備製造業增加值同比增長22.5%，高技術製造業增加值同比增長13.1%，工業轉型升級步伐持續加快。"
+    },
+    {
+      "id": "4945709",
+      "time": "2026-06-20 14:50:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普再強調沒有美國就沒有以色列】當地時間6月19日，美國“阿克西奧斯新聞網”釋出一段18日採訪美國總統特朗普的影片。特朗普在接受採訪時表示，如果自己沒有終止伊核協議，伊朗早就已經擁有了核武器，而如果伊朗擁有核武器，那以色列早就不存在了。特朗普還表示，自己與以色列總理內塔尼亞胡關係很好，但必須讓內塔尼亞胡“保持理智”。另外針對美國能否阻止以色列襲擊黎巴嫩的疑問，特朗普再次強調，以色列會聽他的話，因為如果美國此前沒有轟炸伊朗核設施，那以色列今天已經不復存在了。（CCTV國際時訊）"
+    },
     {
       "id": "4945708",
       "time": "2026-06-20 14:46:31",
@@ -162143,14 +162167,6 @@
         "AI Revolution"
       ],
       "text": "【Seoul bans AI smart glasses for students in final exams】Seoul Metropolitan Office of Education said on the 12th it sent a notice the previous day to city primary and secondary schools and district education offices banning candidates from wearing AI-enabled smart glasses during final exams. The office listed the devices as prohibited exam items and instructed schools to notify students and parents that bringing such glasses into exam rooms will be treated as cheating."
-    },
-    {
-      "id": "4933706",
-      "time": "2026-06-13 14:49:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度空軍宣告：印度空軍一架安 - 32 運輸機今日在焦爾哈特降落時發生事故。我方已成立調查法庭，徹查事故原因。"
     }
   ]
 }
