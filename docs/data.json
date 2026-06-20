@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-21 03:55:57",
+  "updated": "2026-06-21 04:00:01",
   "count": 17537,
   "items": [
+    {
+      "id": "4945983",
+      "time": "2026-06-21 03:57:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "北美防空司令部（NORAD）釋出訊息稱，美國空軍第一航空隊一架F-16戰機今日在馬里蘭州黑格斯敦上空攔截了一架闖入貴賓臨時飛行管制區的通用航空飛機。"
+    },
     {
       "id": "4945982",
       "time": "2026-06-21 03:52:06",
@@ -161585,14 +161593,6 @@
         "MKT News"
       ],
       "text": "【SpaceX debut closes smoothly, sets template for mega IPOs】SpaceX’s Nasdaq debut executed smoothly, providing a blueprint for handling the much larger OpenAI and Anthropic IPOs expected later this year. The on-exchange offering was a record size — nearly three times the prior largest U.S. exchange IPO — and brokers, the exchange and market makers processed millions of client orders without major tech disruption. Morgan Stanley acted as the stabilization agent managing the open; Citadel Securities said retail participation in the IPO auction was the highest on record. Nasdaq CEO Friedman said participants coordinated and preparation was thorough."
-    },
-    {
-      "id": "4934024",
-      "time": "2026-06-14 03:57:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普向內塔尼亞胡作出承諾 伊美協議將回應多方訴求】外交訊息人士稱，美國總統特朗普向以色列總理內塔尼亞胡保證，與伊朗達成的任何協議都將解決伊朗的核計劃、導彈專案以及真主黨問題。該訊息人士稱，特朗普明確表示，除非解決導致美伊走向戰爭的核心問題，否則不會與伊朗達成任何協議。以色列不會受任何伊美協議的約束，但需與美方協調行動，談判期間尤需如此。若雙方初步共識達成後談判破裂，且伊朗繼續開展軍事活動，那麼德黑蘭政權更迭或將被提上美國決策者的議事日程。"
     }
   ]
 }
