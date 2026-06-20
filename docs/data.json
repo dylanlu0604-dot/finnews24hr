@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-20 15:18:11",
-  "count": 17606,
+  "updated": "2026-06-20 15:22:17",
+  "count": 17611,
   "items": [
+    {
+      "id": "mkt:019ee3e7-9cd3-7dd8-b09d-83ff688cc0f3",
+      "time": "2026-06-20 15:21:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Security Council deputy chairman Medvedev said the Strait of Hormuz has become a \"Persian nuclear weapon\" and will be used like a nuclear weapon in the future."
+    },
+    {
+      "id": "mkt:019ee3e6-f801-7dd8-b09d-7bdba431c0cb",
+      "time": "2026-06-20 15:20:25",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "MEDVEDEV, deputy chairman of Russia's Security Council, said the only remaining restriction in the conflict with Ukraine is not to deliberately target civilians, and that the Hague Convention on the laws and customs of war is no longer needed."
+    },
+    {
+      "id": "mkt:019ee3e6-adf9-7dd8-b09d-76815e405434",
+      "time": "2026-06-20 15:20:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Medvedev, deputy chairman of the Russian Security Council, said there are no rules left when dealing with Kyiv."
+    },
+    {
+      "id": "4945720",
+      "time": "2026-06-20 15:19:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新型量子感測器可探測引力波和暗物質】英國《自然》雜誌日前釋出的一項新研究結果顯示，一種新型量子感測器能有效消除背景噪聲對測量精度的影響，可用於搜尋此前技術難以探測的微弱訊號，有助於解開超大質量黑洞形成之謎。牽頭這項研究的英國帝國理工學院釋出新聞公報表示，瞭解宇宙的組成成分以及發現新的引力波源需要測量極微弱的訊號。原子干涉儀利用原子物質波的干涉進行測量，但測量所需使用的鐳射脈衝本身具有噪聲，可能會淹沒訊號，導致無法獲得有意義的資料。研究人員發現，將兩個相同的原子干涉儀放在不同位置上，使用同一束鐳射進行測量，對比其測量結果，可以讓鐳射噪聲的影響相互抵消。研究人員在實驗室中製造出一臺原型裝置，包含兩個宏觀上處於不同位置的原子干涉儀。實驗發現，除了原子本身的量子隨機性導致的噪聲之外，該裝置不受其他噪聲影響。研究人員向鐳射中額外新增較強的噪聲後，該裝置依然運作良好，能有效去除噪聲。研究人員隨後向裝置施加與宇宙早期引力波和超輕暗物質等可能產生的訊號相似的振盪訊號。測試結果顯示，兩個原子干涉儀聯合執行依然能捕捉到清晰的訊號。"
+    },
+    {
+      "id": "mkt:019ee3e4-7a14-7dd8-b09d-6db2455ba0b7",
+      "time": "2026-06-20 15:17:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chinese team builds 3D fiber microtweezer on commercial fiber tip; output force >100,000x traditional optical tweezers】Researchers at Anhui University and the University of Science and Technology of China used a femtosecond-laser composite manufacturing process for fiber-integrated devices to fabricate a three-dimensional microtweezer on the tip of a commercial optical fiber, published in Nature. The device delivers output forces more than 100,000 times those of conventional optical tweezers and enables high-precision, low-damage, programmable 3D manipulation of micron-scale targets, precise assembly of complex microstructures, single-cell manipulation and micro-sampling inside ~100-micron confined spaces. Authors cite application relevance for micro-manipulation, microsystems assembly, life-science handling and minimally invasive medical procedures."
+    },
     {
       "id": "4945719",
       "time": "2026-06-20 15:15:36",
