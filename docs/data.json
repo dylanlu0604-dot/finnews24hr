@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-20 15:55:34",
-  "count": 17613,
+  "updated": "2026-06-20 15:59:39",
+  "count": 17615,
   "items": [
+    {
+      "id": "mkt:019ee408-ba9c-7dd8-b09d-b59adf69abda",
+      "time": "2026-06-20 15:57:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Lebanon's military said Israel's ongoing attacks on Lebanon aim to hinder efforts to restore national stability."
+    },
+    {
+      "id": "4945727",
+      "time": "2026-06-20 15:56:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩軍方宣告稱，以色列持續襲擊黎巴嫩旨在阻撓恢復該國穩定的努力。"
+    },
+    {
+      "id": "mkt:019ee406-c752-7dd8-b09d-a879433a38d6",
+      "time": "2026-06-20 15:55:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign minister to meet Pakistan interior minister】Iranian Foreign Ministry spokesman Esmail Baghaei said Pakistan Interior Minister Naqvi will visit Tehran on Saturday and is scheduled to hold talks with Iranian Foreign Minister Araghchi. Baghaei said the visit is part of Pakistan’s diplomatic efforts related to ongoing Iran–US negotiations."
+    },
     {
       "id": "4945726",
       "time": "2026-06-20 15:54:30",
@@ -162242,14 +162270,6 @@
         "國際"
       ],
       "text": "馬斯克：在大約5年內，SpaceX發射的衛星數量可能比世界其他地區多約5倍。"
-    },
-    {
-      "id": "4933723",
-      "time": "2026-06-13 15:56:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國壽資產近期落地首筆“南向通”交易】記者6月13日從國壽資產獲悉，近期公司順利落地首筆“南向通”交易。國壽資產表示，接下來將在監管部門的指導下，有序開展“南向通”業務，穩慎推進全球資產配置，不斷提升國際化發展水平。此外，記者注意到，近期泰康資產也成為首批受託開展“南向通”業務的保險資產管理公司之一，並順利完成首筆投資交易。泰康資產表示，當前宏觀新形勢下，保險資金運用面臨較大的收益匹配、久期匹配等資產配置需求，“南向通”業務亦有助於保險資金增配長期限資產，爭取改善長期投資回報水平。（中證金牛座）"
     }
   ]
 }
