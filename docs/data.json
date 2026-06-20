@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-21 01:50:07",
-  "count": 17530,
+  "updated": "2026-06-21 01:54:05",
+  "count": 17531,
   "items": [
+    {
+      "id": "4945950",
+      "time": "2026-06-21 01:52:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙：法院禁止首相佩德羅・桑切斯之妻貝戈尼亞・戈麥斯出境。"
+    },
+    {
+      "id": "mkt:019ee628-6e21-7dd8-b0a1-31c9c9651317",
+      "time": "2026-06-21 01:51:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: Pakistan PM Shehbaz and army chief Munir to travel to Switzerland】Pakistani sources said on the 20th that Prime Minister Shehbaz and Army Chief Munir will travel to Switzerland on the 21st."
+    },
     {
       "id": "4945949",
       "time": "2026-06-21 01:48:42",
@@ -161521,19 +161537,6 @@
         "國際"
       ],
       "text": "伊朗四家銀行（國家銀行、商業銀行、出口銀行、出口發展銀行）遭遇小規模網路攻擊。 相關部門表示，客戶資料未被訪問或洩露，系統已得到管控，目前正在開展修復工作。"
-    },
-    {
-      "id": "mkt:019ec21b-ae50-7dd8-afed-5bb4c39fe0e8",
-      "time": "2026-06-14 01:50:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Kuwait foreign minister discusses progress on US-Iran peace agreement text with Qatari PM】Kuwait foreign minister Sabah spoke by phone on Saturday with Qatari PM and foreign minister Al Thani; they reviewed recent regional developments and the ongoing negotiations, noting progress toward a final text of a US-Iran peace agreement."
     }
   ]
 }
