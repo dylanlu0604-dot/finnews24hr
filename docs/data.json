@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-20 18:13:27",
-  "count": 17582,
+  "updated": "2026-06-20 18:17:30",
+  "count": 17580,
   "items": [
+    {
+      "id": "mkt:019ee486-3e9a-7dd8-b09e-527eec171fc2",
+      "time": "2026-06-20 18:14:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【2026 Dragon Boat Festival film slate tops 200 mln yuan in box office】According to Dengta Pro, total box office for new releases in the 2026 Dragon Boat Festival window, including early screenings and presales, surpassed 200 mln yuan. Toy Story 5, I See Two Identical Clouds and Catch the Spy are currently the top three."
+    },
     {
       "id": "4945769",
       "time": "2026-06-20 18:09:10",
@@ -161964,34 +161974,6 @@
         "國際"
       ],
       "text": "伊朗四家主要銀行的電子服務自今天上午起中斷，影響了手機銀行、網上銀行、ATM機、銀行卡支付和其他服務。有報道稱可能遭遇了網路攻擊，但官方尚未證實攻擊原因。（法爾斯通訊社）"
-    },
-    {
-      "id": "4933783",
-      "time": "2026-06-13 18:17:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其將股票賣空禁令延長至6月26日。"
-    },
-    {
-      "id": "4933782",
-      "time": "2026-06-13 18:15:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位特朗普政府官員稱：很難確定伊朗可能獲得釋放的資金價值，因為這取決於伊朗提供了什麼。"
-    },
-    {
-      "id": "mkt:019ec078-e871-7dd8-afe9-f8e442c9c951",
-      "time": "2026-06-13 18:13:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Ukraine's military said Ukrainian forces attacked oil infrastructure in Russia's Volgograd region."
     }
   ]
 }
