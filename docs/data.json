@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-20 19:16:25",
-  "count": 17544,
+  "updated": "2026-06-20 19:20:35",
+  "count": 17547,
   "items": [
+    {
+      "id": "mkt:019ee4c1-a162-7dd8-b09e-9d4456c9099a",
+      "time": "2026-06-20 19:19:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Hadas reported Iran's Islamic Revolutionary Guard Corps warned vessels not to deviate from the \"designated route\" of South Larak Island."
+    },
+    {
+      "id": "mkt:019ee4c1-3ffb-7dd8-b09e-910f3c5f2b1a",
+      "time": "2026-06-20 19:18:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【2026 Dragon Boat Festival box office tops 300 mln yuan】Lighthouse Professional reported the 2026 Dragon Boat Festival weekend (June 19-21) box office, including presales, exceeded 300 mln yuan. Toy Story 5, A Letter to Grandma and Catch the Spy provisionally ranked first through third in the period."
+    },
+    {
+      "id": "4945784",
+      "time": "2026-06-20 19:16:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士外交部表示，將繼續提供謹慎可靠的環境，以促進美國和伊朗之間的談判，並支援正在進行的外交對話，但出於保密原因，不會透露更多細節。"
+    },
     {
       "id": "4945783",
       "time": "2026-06-20 19:14:16",
