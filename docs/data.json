@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-21 04:00:01",
-  "count": 17537,
+  "updated": "2026-06-21 04:31:33",
+  "count": 17530,
   "items": [
+    {
+      "id": "mkt:019ee6b9-9caf-7dd8-b0a1-dfb65b345734",
+      "time": "2026-06-21 04:29:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Vice President Vance has departed Washington for Switzerland, a spokesperson said."
+    },
+    {
+      "id": "mkt:019ee6b9-5cf7-7dd8-b0a1-d1a5dd3d898f",
+      "time": "2026-06-21 04:29:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vance departs for Lucerne to join US-Iran talks, US media says】US Vice President Vance left Joint Base Andrews late Saturday afternoon local time for Lucerne, Switzerland, to participate in talks with Iran, CNN reports. US special Middle East envoy Witkoff and Kushner were already on site handling technical aspects. Vance said earlier Saturday the trip’s timing was adjusted several times over the past week and called the visit a \"finely coordinated process\" requiring diplomatic protocol and procedure."
+    },
+    {
+      "id": "4945988",
+      "time": "2026-06-21 04:29:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統發言人表示，美國副總統萬斯已離開華盛頓，啟程前往瑞士。"
+    },
+    {
+      "id": "4945987",
+      "time": "2026-06-21 04:25:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯啟程參加美伊談判，霍爾木茲海峽通行問題懸而未決】黎巴嫩南部戰事升級導致談判推遲後，美國副總統萬斯即將啟程前往瑞士，參與同伊朗的磋商。美伊雙方簽署的諒解備忘錄為談判鋪平道路，談判核心議題包括伊朗鈾加工活動，以及銷燬或稀釋伊朗現有高濃縮鈾庫存。伊朗再度封鎖霍爾木茲海峽航運通道，稱以色列違反停火協議；併發出警告，今後船舶穿越該水道必須獲得伊朗許可、投保強制保險。"
+    },
+    {
+      "id": "4945986",
+      "time": "2026-06-21 04:20:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯將赴瑞士參與對伊朗談判。"
+    },
+    {
+      "id": "mkt:019ee6af-79ea-7dd8-b0a1-cbe4bfd23024",
+      "time": "2026-06-21 04:18:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. has yet to formally respond to reports of Strait of Hormuz closure】As of about six hours after initial reports, the U.S. had not issued a formal response to reports that the Strait of Hormuz was closed. CENTCOM said 55 vessels transited the strait that day carrying roughly 17 million barrels of oil, and reiterated that Iran has no right to control the waterway and that the strait remains open. Vice President Pence was being interviewed when the reports broke and President Trump posted on social media without addressing the incident; the administration has not released a unified official statement."
+    },
+    {
+      "id": "4945985",
+      "time": "2026-06-21 04:17:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國泰晤士報：若安迪·伯納姆出任英國首相，蕾切爾·裡夫斯將失去英國財政大臣一職。"
+    },
+    {
+      "id": "4945984",
+      "time": "2026-06-21 04:15:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：巴基斯坦將在華盛頓與德黑蘭預期舉行的高階別技術談判中發揮重要作用。"
+    },
     {
       "id": "4945983",
       "time": "2026-06-21 03:57:27",
@@ -161457,142 +161527,6 @@
         "DXY"
       ],
       "text": "【Israel Defense Forces continue intensive operations in southern Lebanon】On the 13th the Israel Defense Forces (IDF) said they continued intensive operations in southern Lebanon, striking Hezbollah military infrastructure and personnel. The IDF said it discovered a Hezbollah-used underground tunnel in southern Lebanon last week and killed seven fighters there. In the past 24 hours the IDF said it struck more than 70 Hezbollah military targets, including launchers and buildings used to attack Israel, and killed multiple Hezbollah personnel."
-    },
-    {
-      "id": "4934032",
-      "time": "2026-06-14 04:21:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍繼續在黎巴嫩南部展開密集軍事行動】以色列國防軍13日在多份宣告中表示，以軍持續在黎巴嫩南部展開軍事行動，對黎真主黨軍事基礎設施和武裝人員實施打擊。宣告說，過去一週，以軍在黎南部發現一條真主黨使用的地下通道。以軍打死7名在這條地下通道活動的真主黨武裝人員。"
-    },
-    {
-      "id": "mkt:019ec2a4-e6de-7dd8-afee-0f1b8e8cfce4",
-      "time": "2026-06-14 04:20:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Jerusalem Post, citing an Israeli official, reports that after reaching an agreement with Beirut, Israel will study a phased, conditional withdrawal from southern Lebanon."
-    },
-    {
-      "id": "4934031",
-      "time": "2026-06-14 04:20:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國政府無意將針對Anthropic的出口管制擴大至其他人工智慧企業】美國一名政府知情官員週六透露，白宮不會將針對Anthropic高階AI模型的出口管制措施，推廣至其他人工智慧企業。這名官員稱，此番管控的起因是Anthropic拒絕修復其近期推出的Fable 5與Claude Mythos 5模型存在的安全漏洞。Anthropic則提出異議，稱其他企業研發的AI模型也存在同類風險。該公司在週五釋出的部落格文章中表示，多款對外公開的AI模型均被查出類似漏洞。例如，OpenAI今年4月推出的最新模型GPT-5.5，在部分網路安全測試指標上與邁索斯模型表現相近。這名官員解釋，美方擔憂Fable模型（Mythos的衍生版本，專為面向廣大開發者公開使用增設了安全防護機制）仍有可能被用來探測敏感系統漏洞，同時也擔心先進人工智慧技術會流入境外敵對勢力手中。"
-    },
-    {
-      "id": "mkt:019ec2a1-fdcb-7dd8-afee-0445ac53f243",
-      "time": "2026-06-14 04:17:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil tanker struck about 6 nautical miles east of Oman, UK Maritime Trade Operations says】UK Maritime Trade Operations said on June 13 an oil tanker about 6 nautical miles east of Oman was struck by an unidentified projectile; all crew reported safe."
-    },
-    {
-      "id": "4934030",
-      "time": "2026-06-14 04:17:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一艘油輪在阿曼附近海域遇襲】英國海上貿易行動辦公室13日表示，一艘位於阿曼以東約6海里海域的油輪當天遭不明投射物擊中。據報，船上船員均安全。（央視新聞）"
-    },
-    {
-      "id": "4934029",
-      "time": "2026-06-14 04:16:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國政府不太可能將Anthropic出口管制擴大到其他AI公司。"
-    },
-    {
-      "id": "mkt:019ec2a0-20fd-7dd8-afed-fab5ab5cb049",
-      "time": "2026-06-14 04:15:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Information reports the US government is unlikely to extend export controls applied to Anthropic to other AI companies."
-    },
-    {
-      "id": "4934028",
-      "time": "2026-06-14 04:14:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果造車專案宣告終止兩年多後，其將佔地5500英畝的亞利桑那州測試場地出售給了自動駕駛公司Waymo。蘋果此前在這個失敗的專案上投入了100億美元，此次交易回籠資金2.2億美元。"
-    },
-    {
-      "id": "mkt:019ec29d-1ff9-7dd8-afed-f448f8addc8e",
-      "time": "2026-06-14 04:12:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Students' News Agency reports Egyptian foreign minister spoke by phone with the U.S. special envoy for West Asia to discuss latest developments in talks between Tehran and Washington."
-    },
-    {
-      "id": "4934027",
-      "time": "2026-06-14 04:08:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及外交部發布宣告稱，埃及外交部長巴德爾·阿卜杜勒阿提於週六強調，埃及堅定維護巴勒斯坦人民的合法權利，尤其支援其依據1967年6月4日邊界建立獨立國家、並以東耶路撒冷為首都的訴求。"
-    },
-    {
-      "id": "mkt:019ec299-e667-7dd8-afed-edf55b4590a1",
-      "time": "2026-06-14 04:08:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Iran's Mehr news agency reported the Israeli military carried out two airstrikes on the town of Barahat in Marjayoun district, southern Lebanon."
-    },
-    {
-      "id": "mkt:019ec299-3630-7dd8-afed-e3e54bcf4d37",
-      "time": "2026-06-14 04:08:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "HEZBOLLAH said it used missiles to strike two Israeli military assembly points near the southern Lebanese towns of Kfar Taibnit and Majdal Zoun."
-    },
-    {
-      "id": "4934026",
-      "time": "2026-06-14 04:07:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員稱，過去一日裡，各方敲定了伊美諒解備忘錄線上簽署方案。斡旋方力求儘快敲定協議，避免節外生枝。部分斡旋人員擔憂，協議擱置越久，已有進展越容易被突發狀況打亂，雙方也可能隨之反悔。"
-    },
-    {
-      "id": "4934025",
-      "time": "2026-06-14 04:04:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國媒體分析發現，多數眾議院關鍵選區的競選陣營正陸續設立資料中心。"
-    },
-    {
-      "id": "mkt:019ec293-0258-7dd8-afed-db8907036804",
-      "time": "2026-06-14 04:01:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SpaceX debut closes smoothly, sets template for mega IPOs】SpaceX’s Nasdaq debut executed smoothly, providing a blueprint for handling the much larger OpenAI and Anthropic IPOs expected later this year. The on-exchange offering was a record size — nearly three times the prior largest U.S. exchange IPO — and brokers, the exchange and market makers processed millions of client orders without major tech disruption. Morgan Stanley acted as the stabilization agent managing the open; Citadel Securities said retail participation in the IPO auction was the highest on record. Nasdaq CEO Friedman said participants coordinated and preparation was thorough."
     }
   ]
 }
