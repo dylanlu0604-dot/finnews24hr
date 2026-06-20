@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20 09:50:25",
-  "count": 17615,
+  "updated": "2026-06-20 09:54:29",
+  "count": 17612,
   "items": [
     {
       "id": "mkt:019ee2b6-435c-7dd8-b09b-ca7f74bad8c6",
@@ -162198,30 +162198,6 @@
         "國際"
       ],
       "text": "市場訊息：美方官員表示，在伊朗就核計劃採取實質性舉措前，不會解除對伊制裁。"
-    },
-    {
-      "id": "4933580",
-      "time": "2026-06-13 09:53:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國聯通釋出高質量資料集億元支援計劃】近日，中國聯通釋出高質量資料集億元支援計劃。該計劃設立超億元醫療領域高質量資料集專項支援資金，面向醫療機構和生態夥伴，旨在打造一批行業高質量資料集、促成一批億級醫療資料交易、孵化一批優質醫療人工智慧應用與生態。目前，基地已面向10餘個專科專病領域打造行業高質量資料集超150TB，達成資料交易規模超千萬元，服務醫藥研發管線30餘項。"
-    },
-    {
-      "id": "4933577",
-      "time": "2026-06-13 09:52:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息 ：特朗普將敦促各國領導人加強霍爾木茲海峽的安防與監控力度。"
-    },
-    {
-      "id": "mkt:019ebeae-21c0-7dd8-afe7-f46769f31810",
-      "time": "2026-06-13 09:52:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Putin says Russia has Starlink-like satellite system】On June 12 Putin told military officials Russia is developing a satellite-based control system for combat drones. He named the 1440 Bureau, a Russian aerospace firm developing a global broadband low-Earth orbit (LEO) satellite constellation, and said Russia’s near-Earth orbit network is “not inferior” to the US Starlink and may exceed it in some respects."
     }
   ]
 }
