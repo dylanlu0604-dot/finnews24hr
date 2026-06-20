@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 09:30:11",
-  "count": 17616,
+  "updated": "2026-06-20 09:34:07",
+  "count": 17613,
   "items": [
+    {
+      "id": "4945588",
+      "time": "2026-06-20 09:32:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【端午假期首日，港珠澳大橋珠海公路口岸迎來出入境客流車流高峰】端午節假期首日，港珠澳大橋珠海公路口岸迎來客流車流高峰。據珠海邊檢總站港珠澳大橋邊檢站資料，6月19日，經港珠澳大橋珠海公路口岸出入境旅客超過10.1萬人次，車輛超過1.9萬輛次，兩項資料均處歷史同期高位水平。 據邊檢部門資料統計，自6月18日以來，截至19日24時，經口岸入境客流已經超過12.7萬人次，車流已超過2.4萬輛次。（大灣區之聲）"
+    },
     {
       "id": "4945587",
       "time": "2026-06-20 09:24:55",
@@ -162197,42 +162205,6 @@
         "國際"
       ],
       "text": "Cogntion：遵照美國相關指令，已關停 Claude Fable 5 模型的訪問許可權。"
-    },
-    {
-      "id": "mkt:019ebe9c-d8a4-7dd8-afe7-e88bb7178f00",
-      "time": "2026-06-13 09:33:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said Iran launched multiple one-way attack drones that attempted to strike commercial vessels transiting the Strait of Hormuz. U.S. forces shot down all the drones within hours; transit was not affected and the trade route remains open."
-    },
-    {
-      "id": "4933563",
-      "time": "2026-06-13 09:32:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國軍方： 伊朗發射多架單向攻擊攻擊無人機，企圖襲擊途經霍爾木茲海峽的商船。美軍近數小時內將所有無人機全部擊落，海峽航運目前正常通行，這條國際貿易航道保持暢通。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202606133770510071",
-      "time": "2026-06-13 09:31:41",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【專家：日本央行或上調利率以抑制通脹】據日本方面訊息，日本央行可能在本月15日到16日召開的貨幣政策會議上，將政策利率從目前的0.75%上調至1.0%。日本東短研究公司總裁加藤出認為，加息將給中小企業和普通日本家庭的生活帶來壓力，對於日元匯率的影響有待進一步觀察。如果繼續維持過低利率，恐怕會進一步助長通脹。"
-    },
-    {
-      "id": "mkt:019ebe9a-5536-7dd8-afe7-e749907b0f2e",
-      "time": "2026-06-13 09:30:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "AWS said Anthropic has asked it to revoke user access to Claude Fable 5 and Claude Mythos 5 across all regions. All other Anthropic models are unaffected."
     }
   ]
 }
