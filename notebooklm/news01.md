@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 21:49:48_
-_本檔包含 3838 則快訊，約 651138 字_
+_更新時間：2026-06-20 22:02:26_
+_本檔包含 3842 則快訊，約 651496 字_
+
+---
+
+### 2026-06-20 22:01:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+IRGC navy says Israel's operations in Lebanon and US breaches of ceasefire commitments are the reasons for closing the Strait of Hormuz.
+
+---
+
+### 2026-06-20 22:01:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Islamic Revolutionary Guard Corps warned vessels not to approach the Strait of Hormuz, saying their safety would be at risk.
+
+---
+
+### 2026-06-20 22:01:04  #國際
+
+伊朗伊斯蘭革命衛隊海軍宣告：以色列在黎巴嫩的行動以及美國違反停火承諾，導致霍爾木茲海峽關閉。
+
+---
+
+### 2026-06-20 22:00:09  #國際
+
+伊朗伊斯蘭革命衛隊警告船隻不要靠近霍爾木茲海峽，稱否則其安全將受到威脅。
+
+---
+
+### 2026-06-20 21:59:47  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) said the Strait of Hormuz is closed to all vessels.
+
+---
+
+### 2026-06-20 21:59:40  #國際
+
+伊朗革命衛隊稱，霍爾木茲海峽對所有船隻關閉。
+
+---
+
+### 2026-06-20 21:57:25  #MKT News
+
+Iran's Fars News quoted an Iranian naval source saying the Strait of Hormuz was fully closed a few minutes ago.
+
+---
+
+### 2026-06-20 21:56:06  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Iran foreign ministry says U.S. failed to restrain Israel, violated memorandum】Iran foreign ministry spokesman Baghaei said on the 20th the memorandum's first clause — ending all wars on all fronts, including Lebanon — is a core mutual commitment. He said Iran has met its obligations but the other party failed to compel Israel to cease military actions in Lebanon, a dereliction that constitutes a clear breach; although some steps have been taken on lifting the maritime blockade and reopening the Strait of Hormuz, the memorandum is a single package, and violation of the first clause calls the entire agreement into question unless immediate corrective measures are taken.
+
+---
+
+### 2026-06-20 21:55:43  #國際
+
+【伊朗外交部：美國未能約束以色列 違反諒解備忘錄】伊朗外交部發言人巴加埃當地時間20日表示，諒解備忘錄的第一條，即“結束所有戰線的戰爭，包括黎巴嫩”，是雙方互相承諾的核心支柱。在伊朗履行自身承諾的同時，對方本應迫使以色列停止在黎巴嫩的軍事行動，但其在這一問題上的失責構成了對該協議的明確違反。巴加埃稱，儘管在解除海上封鎖和霍爾木茲海峽重新開放方面已採取了一些措施，但該諒解備忘錄本質上是一個“一攬子整體協議”。對第一條的違反意味著整個協議都將受到質疑，如果對方不立即採取必要措施，整個諒解備忘錄將面臨嚴重問題。 (央視新聞)
+
+---
+
+### 2026-06-20 21:54:56  #國際
+
+萬斯：特朗普向伊朗伸出了手，如果伊朗改變行為，美國與它的關係將會有所不同。
+
+---
+
+### 2026-06-20 21:53:39  #MKT News #Market Themes #Chip Wars
+
+【Storage-chip firm Yingren Technology completes IPO counseling; designs high-performance SSD controller chips】CSRC IPO counseling disclosure shows Yingren Technology Co., Ltd. and sponsor Guotai Haitong submitted a Guidance Completion Report to the Shanghai Securities Regulatory Bureau. Yingren filed its counseling record on Dec. 19, 2024; the counseling process lasted about 18 months. The fabless semiconductor designer's core business is the design and supply of high-performance solid-state drive controller chips; it also provides SSD and storage-system solutions for cloud computing, AI, data-center management and intelligent driving applications.
 
 ---
 
@@ -23112,47 +23178,5 @@ U.S. Defense Secretary Hegseth announced a review of U.S. forces stationed in Eu
 ### 2026-06-18 18:29:37  #公司
 
 【電科數字：因資訊披露違法違規 公司及董秘遭罰300萬元】電科數字公告稱，公司及相關人員收到上海證監局下發的《行政處罰決定書》。經查明，公司在上證e互動平臺的相關資訊披露不準確、不完整，具有誤導性，時任董事會秘書侯志平未能勤勉盡責稽核資訊。上海證監局決定對電科數字給予警告，並處以200萬元罰款；對侯志平給予警告，並處以100萬元罰款。公司本次違法未觸及其他風險警示及重大違法強制退市情形，目前經營活動正常。
-
----
-
-### 2026-06-18 18:29:14  #其他 #焦點
-
-國際航運資訊平臺的船舶追蹤資料顯示，合計載有600萬桶原油的三艘懸掛沙特國旗的油輪18日透過霍爾木茲海峽。（新華社）
-
----
-
-### 2026-06-18 18:28:31  #公司
-
-【芯動聯科：1.52億股首發限售股6月30日上市流通】芯動聯科公告稱，公司本次上市流通的限售股為首次公開發行部分限售股，數量為1.52億股，佔公司目前股份總數的37.72%，限售期36個月。本次上市流通的限售股股東共4名，分別為MEMSLink Corporation、海南芯動聯科投資有限公司、宣佩琦和金曉冬，對應的股份數量均將全部上市流通。該部分限售股將於2026年6月30日起上市流通。截至核查意見出具日，相關股東嚴格履行了相關股份鎖定承諾。
-
----
-
-### 2026-06-18 18:27:41  #公司 #市場
-
-【鉑力特：股票交易異常波動 不存在應披露未披露資訊】鉑力特公告稱，公司股票交易價格在 2026 年 6 月 17 日、18 日連續 2 個交易日內收盤價格漲幅偏離值累計達 30%，屬於異常波動情形。經自查，公司目前生產經營正常，未發生重大變化，公司及實際控制人不存在應披露而未披露的重大資訊。此外，2026 年 1 月的立案調查尚在進行中，公司未收到結論性意見或決定。提醒投資者注意二級市場交易風險。
-
----
-
-### 2026-06-18 18:27:30  #公司
-
-【耐科裝備：8名股東擬詢價轉讓440萬股 佔總股本3.84%】耐科裝備公告稱，安徽拓靈投資有限公司、鄭天勤等8名股東擬參與首發前股東詢價轉讓，擬轉讓股份總數為440萬股，佔公司總股本的3.84%，轉讓原因為自身資金需求。受讓方為具備相應定價能力和風險承受能力的機構投資者，透過詢價轉讓受讓的股份，6個月內不得轉讓。本次詢價轉讓不透過集中競價或大宗交易方式進行，不屬於二級市場減持。此外，本次詢價轉讓不存在導致公司控制權變更的情形。轉讓計劃實施存在股份被司法凍結、市場環境變化等風險。
-
----
-
-### 2026-06-18 18:26:59  #國際
-
-市場訊息：歐盟委員會主席馮德萊恩提議限制烏克蘭難民進入歐盟。
-
----
-
-### 2026-06-18 18:26:28  #MKT News
-
-【US DOJ probes Mujtaba fund flows, links to Wall Street banks】The US Department of Justice is investigating how Iran's supreme leader Mujtaba built a large global investment portfolio and whether it is linked to Wall Street banks, in a broad money‑laundering and corruption probe. Investigators have begun reviewing whether US financial institutions, including JP Morgan and Citigroup, aided large transfers among companies controlled by Mujtaba and are examining the role of US correspondent/agent banks. DOJ is mapping the network to identify potential gaps in banks' due diligence. Banks in Europe and the Middle East are also under scrutiny. The probe includes property‑related payments from the network to international brands, including Hilton Global Holdings.
-
----
-
-### 2026-06-18 18:26:26  #公司 #觀點 #國際
-
-【美司法部正調查穆傑塔巴資金流向與華爾街銀行之間的關聯】據外媒報道，美國官員透露，美國司法部正在調查伊朗最高領袖穆傑塔巴如何建立起一個龐大的全球投資組合，以及該投資組合與華爾街銀行之間的關聯。此舉源於一項針對洗錢和腐敗指控的廣泛調查。知情人士表示，調查人員已開始審查包括摩根大通(JPM.N)和花旗集團(C.N)在內的美國金融機構，是否參與協助穆傑塔巴控制的企業之間進行大額資金轉移。知情人士表示，司法部正在審查這些交易，包括美國代理銀行在其中所扮演的角色。調查人員希望瞭解穆傑塔巴的金融網路，並識別美國金融機構盡職調查程式中可能存在的漏洞。三名知情人士表示，歐洲和中東地區的銀行也已受到調查關注。司法部還在研究該網路向包括希爾頓全球控股在內的國際品牌支付的房地產相關款項。
 
 ---

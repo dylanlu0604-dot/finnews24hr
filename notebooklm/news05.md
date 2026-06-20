@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-20 21:49:48_
-_本檔包含 3561 則快訊，約 650276 字_
+_更新時間：2026-06-20 22:02:26_
+_本檔包含 3567 則快訊，約 651256 字_
+
+---
+
+### 2026-06-15 19:27:16  #國際
+
+法國總統馬克龍：伊朗彈道導彈計劃必須在未來談判中予以解決。
+
+---
+
+### 2026-06-15 19:27:05  #MKT News #XAUUSD #Impact bullish #WTI
+
+Macron says Iran's ballistic-missile program must be addressed in upcoming talks.
+
+---
+
+### 2026-06-15 19:27:00  #Trading Economics #Markets #Germany #stocks #Importance 1
+
+Allianz Stock Price Hits 5-week High — Allianz shares increased to 393.20 EUR, the highest since May 2026. Over the past 4 weeks, Allianz gained 3.04%, and in the last 12 months, it increased 14.28%.
+
+---
+
+### 2026-06-15 19:26:58  #國際
+
+法國總統馬克龍：我們將與英國一道主導這項霍爾木茲海峽任務。伊朗協議對市場的實質性影響需數週時間才會顯現。
+
+---
+
+### 2026-06-15 19:26:41  #央行 #其他
+
+巴西央行調查：經濟學家預測2026年巴西國內生產總值增長1.96%，前值為1.91%。
+
+---
+
+### 2026-06-15 19:26:34  #央行 #市場
+
+巴西央行調查：經濟學家預測2027年末巴西雷亞爾兌美元匯率為5.25雷亞爾兌1美元，前次預測為5.20雷亞爾兌1美元。
+
+---
+
+### 2026-06-15 19:26:27  #央行 #市場
+
+巴西央行調查：經濟學家預計2026年底雷亞爾兌美元匯率為5.20雷亞爾兌1美元，前次預期為5.15雷亞爾兌1美元。
+
+---
+
+### 2026-06-15 19:26:13  #央行 #其他
+
+巴西央行調查：經濟學家預計2027年巴西國內生產總值（GDP）將增長1.70%，與前次預期持平。
+
+---
+
+### 2026-06-15 19:26:11  #MKT News #Star Stocks #NVIDIA #Market Themes #The Trump Trade #Magnificent 7 #NVDA.O #ADBE.O
+
+【U.S. cybersecurity sector urges Trump administration to lift ANTHROPIC model restrictions】Security chiefs at several major U.S. tech firms, including NVIDIA and Adobe, have written to the Trump administration asking it to lift restrictions on ANTHROPIC’s most powerful models, saying the bans impede efforts to prevent the spread of cyberattacks, Refinitiv reports. Last Friday Washington ordered ANTHROPIC to suspend access to Fable 5 and MYTHOS 5 for all foreign nationals on national-security grounds. In a joint letter signed by more than 50 security leaders, they warned the measures would weaken the industry’s ability to find and patch software vulnerabilities while other AI tools make it easier for hackers to exploit them. The letter said the action “deprives defenders of state‑of‑the‑art models, creates market uncertainty, and, absent real-risk evidence, jeopardizes U.S. leadership in AI.”
 
 ---
 
@@ -21526,23 +21580,5 @@ Pakistan Prime Minister SHARIF thanked Qatar’s minister for steadfast support 
 ### 2026-06-13 22:05:18  #MKT News
 
 【Iran schedules Khamenei funeral for July; media estimate attendance at 15–20 million】Iran on June 13 announced funeral arrangements for Supreme Leader Ali Khamenei. Farewell ceremonies will be held in Tehran July 4–5; a Tehran procession on July 6; a Qom procession on July 7; and a Mashhad procession on July 9, followed by burial at the Imam Reza shrine in Mashhad. Iranian media say attendance could reach 15–20 million, which would likely make it the largest state-organized event in the Islamic Republic’s history (Khomeini’s 1989 funeral drew about 10 million).
-
----
-
-### 2026-06-13 21:59:25  #國際
-
-【伊朗宣佈7月為哈梅內伊舉行葬禮，預計有超1500萬人參加】據伊朗媒體報道，直接參加悼念活動的人數可能會達到1500萬至2000萬人。這也讓哈梅內伊的葬禮很可能成為伊朗伊斯蘭共和國歷史上規模最大的國家組織活動。1989年6月，伊朗前最高領袖霍梅尼去世後，約有1000萬人參與了送葬和悼念儀式。（澎湃新聞）
-
----
-
-### 2026-06-13 21:58:25  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #XAUUSD
-
-【Trump reposts Pakistani PM saying US-Iran deal could be finalised within 24 hours】Trump reposted a screenshot of Pakistani Prime Minister Shahbaz’s social media post in which Shahbaz said a US-Iran agreement is closer than ever and is expected to be finalised within the next 24 hours.
-
----
-
-### 2026-06-13 21:53:36  #國際
-
-特朗普在Truth Social上分享了巴基斯坦總理夏巴茲稱美伊協議比以往任何時候都更接近達成的帖子的截圖。
 
 ---

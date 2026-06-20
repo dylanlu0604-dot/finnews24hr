@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 21:49:48_
-_本檔包含 3519 則快訊，約 651545 字_
+_更新時間：2026-06-20 22:02:26_
+_本檔包含 3514 則快訊，約 651320 字_
+
+---
+
+### 2026-06-16 21:08:14  #其他
+
+Coherent宣佈，拿到《CHIPS法案》5000萬美元意向資金，將用於擴建其全球領先的AI基礎設施製造基地。
+
+---
+
+### 2026-06-16 21:08:10  #Trading Economics #Economy #Belarus #Industrial Production #Importance 1
+
+Belarus Industrial Activity Contraction Moderates — Industrial production in Belarus declined 1.4% year-on-year in the first five months of 2026, showing continued improvements for the fourth consecutive months, following a 2.5% decrease in the January-April. The strongest growth was recorded in supply of electricity, gas, steam, hot water and air conditioning, which increased 8.2%, followed by the mining sector at 2.5% and water supply; waste collection, treatment and disposal, pollution elimination activities at 1.1%. In contrast, manufacturing output declined 3.2%.
+
+---
+
+### 2026-06-16 21:05:38  #市場 #焦點
+
+瀝青連續主力合約日內跌3%，現報4001.00元。
+
+---
+
+### 2026-06-16 21:05:26  #公司
+
+【香港科技園與商湯科技聯手打造大規模智算中心】香港科技園公司16日與商湯科技在港簽訂合作備忘錄，啟動在人工智慧算力基建及AI產業生態方面的策略合作。雙方將攜手在香港打造大規模智算中心，目標於2030年前建設具備4萬P+（P為算力單位，即PetaFLOPs，1P為每秒千萬億次浮點運算）的算力規模。 據介紹，該專案將作為支撐大模型時代的核心AI基礎設施，為各行各業提供高效能算力支援，加快推動香港AI產業落地，進一步提升香港在全球創科及AI發展中的競爭力。 簽署儀式上，特區政府創新科技及工業局副局長張曼莉致辭表示，香港科技園公司與商湯的合作，不僅推動香港智算叢集建設，更體現香港“產、研”的結合，進一步支援香港建設國際創科中心。相信沙嶺資料園區與科學園及商湯國產智慧算力叢集的落成，將進一步提升香港在全球AI領域的競爭力，共同支援香港成為AI創新高地。 香港科技園公司行政總裁黃秉修表示，商湯科技由科學園起步，發展成在國際具領導地位的人工智慧企業，更在科技園公司培育下成為獨角獸企業，足證香港創科生態圈的活力與實力。本次合作不但加速技術創新及本地應用落地，更推動香港“AI+”創科生態圈的蓬勃發展。 商湯科技董事長兼執行長徐立表示，商湯將以“算力+模型+應用”三位一體能力為支撐，助力建設全港最大國產智算中心，讓算力切實轉化為“數字水電”，進一步推動香港建設國際創科中心。 (新華社)
 
 ---
 
@@ -21172,59 +21196,5 @@ State Bank of Pakistan says it expects inf to ease gradually.
 ### 2026-06-15 19:27:47  #市場
 
 【多重因素催動六氟化鎢價格較去年同期漲幅超200% 分析人士：國產替代迎來黃金視窗期】六氟化鎢是半導體產業不可或缺的高階電子特種氣體，由於其優良的電效能，廣泛使用在化學氣相沉積工藝中。2026年以來，全球六氟化鎢價格大幅上漲，海關總署5月20日釋出的資料顯示，4月，國內六氟化鎢出口均價攀升至149.79美元／kg，同比上漲203.83%，較年初上漲超110%。據買化塑研究院監測，截至6月9日，國內純度為99.999%六氟化鎢價格1670-1810元／kg，價格較去年同期（523元／kg）漲幅達232.7%。據測算，受日企斷供影響，全球六氟化鎢供應缺口將達到約2000噸／年，市場認為海外供應危機有望大幅加速六氟化鎢國產替代和出海業務程序。分析人士認為，此輪六氟化鎢價格上漲是海外頭部廠商產能收縮、上游原材料供應減少、AI算力驅動半導體需求爆發等多種因素共振的結果，相關高品類電子特氣長期由海外龍頭壟斷的格局或將鬆動，國產替代在政策、需求、供給等催化下，迎來黃金視窗期。 (新華財經)
-
----
-
-### 2026-06-15 19:27:16  #國際
-
-法國總統馬克龍：伊朗彈道導彈計劃必須在未來談判中予以解決。
-
----
-
-### 2026-06-15 19:27:05  #MKT News #XAUUSD #Impact bullish #WTI
-
-Macron says Iran's ballistic-missile program must be addressed in upcoming talks.
-
----
-
-### 2026-06-15 19:27:00  #Trading Economics #Markets #Germany #stocks #Importance 1
-
-Allianz Stock Price Hits 5-week High — Allianz shares increased to 393.20 EUR, the highest since May 2026. Over the past 4 weeks, Allianz gained 3.04%, and in the last 12 months, it increased 14.28%.
-
----
-
-### 2026-06-15 19:26:58  #國際
-
-法國總統馬克龍：我們將與英國一道主導這項霍爾木茲海峽任務。伊朗協議對市場的實質性影響需數週時間才會顯現。
-
----
-
-### 2026-06-15 19:26:41  #央行 #其他
-
-巴西央行調查：經濟學家預測2026年巴西國內生產總值增長1.96%，前值為1.91%。
-
----
-
-### 2026-06-15 19:26:34  #央行 #市場
-
-巴西央行調查：經濟學家預測2027年末巴西雷亞爾兌美元匯率為5.25雷亞爾兌1美元，前次預測為5.20雷亞爾兌1美元。
-
----
-
-### 2026-06-15 19:26:27  #央行 #市場
-
-巴西央行調查：經濟學家預計2026年底雷亞爾兌美元匯率為5.20雷亞爾兌1美元，前次預期為5.15雷亞爾兌1美元。
-
----
-
-### 2026-06-15 19:26:13  #央行 #其他
-
-巴西央行調查：經濟學家預計2027年巴西國內生產總值（GDP）將增長1.70%，與前次預期持平。
-
----
-
-### 2026-06-15 19:26:11  #MKT News #Star Stocks #NVIDIA #Market Themes #The Trump Trade #Magnificent 7 #NVDA.O #ADBE.O
-
-【U.S. cybersecurity sector urges Trump administration to lift ANTHROPIC model restrictions】Security chiefs at several major U.S. tech firms, including NVIDIA and Adobe, have written to the Trump administration asking it to lift restrictions on ANTHROPIC’s most powerful models, saying the bans impede efforts to prevent the spread of cyberattacks, Refinitiv reports. Last Friday Washington ordered ANTHROPIC to suspend access to Fable 5 and MYTHOS 5 for all foreign nationals on national-security grounds. In a joint letter signed by more than 50 security leaders, they warned the measures would weaken the industry’s ability to find and patch software vulnerabilities while other AI tools make it easier for hackers to exploit them. The letter said the action “deprives defenders of state‑of‑the‑art models, creates market uncertainty, and, absent real-risk evidence, jeopardizes U.S. leadership in AI.”
 
 ---
