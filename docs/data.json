@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-21 03:11:52",
-  "count": 17528,
+  "updated": "2026-06-21 03:15:51",
+  "count": 17527,
   "items": [
+    {
+      "id": "mkt:019ee673-4761-7dd8-b0a1-9002883f0fd4",
+      "time": "2026-06-21 03:12:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【9th China International Import Expo seminar held in Oslo】A seminar promoting the 9th China International Import Expo (CIIE) was held in Oslo, attended by about 40 Norwegian companies and institutions. Norwegian participants said they value trade with China and will mobilize resources and firms to take part in the CIIE to showcase high-quality products, advanced technologies and professional services, deepen Norwegian presence in the Chinese market and strengthen bilateral trade cooperation."
+    },
     {
       "id": "4945970",
       "time": "2026-06-21 03:10:52",
@@ -161491,23 +161499,6 @@
         "國際"
       ],
       "text": "伊朗媒體：民眾舉行示威，反對阿拉格齊、卡利巴夫，抵制伊美協議。"
-    },
-    {
-      "id": "mkt:019ec269-382f-7dd8-afed-b2a78aa3504e",
-      "time": "2026-06-14 03:15:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese National News Agency reports illumination flares were observed over the towns of Kafra and Yatar in the Bint Jbeil area."
-    },
-    {
-      "id": "4934019",
-      "time": "2026-06-14 03:12:23",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "以色列財政部長：唯一的應對方式，但凡有一發炮彈射向我方領土，今晚就將炸燬達希耶區十棟建築。"
     }
   ]
 }
