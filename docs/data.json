@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 09:34:07",
-  "count": 17613,
+  "updated": "2026-06-20 09:38:11",
+  "count": 17612,
   "items": [
+    {
+      "id": "mkt:019ee2aa-1e8a-7dd8-b09b-ba5975e22d17",
+      "time": "2026-06-20 09:34:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dragon Boat holiday first day sees peak flows at Hong Kong-Zhuhai-Macau Bridge Zhuhai road port】Zhuhai immigration checkpoint data showed that on June 19, the first day of the Dragon Boat holiday, crossings at the Hong Kong-Zhuhai-Macau Bridge Zhuhai road port exceeded 101,000 passengers and 19,000 vehicle trips, both high for the same period. Cumulative flows since June 18 through 24:00 on June 19: inbound passengers topped 127,000 and vehicles exceeded 24,000."
+    },
     {
       "id": "4945588",
       "time": "2026-06-20 09:32:22",
@@ -162189,22 +162197,6 @@
         "國際"
       ],
       "text": "美軍中央司令部12日在社交媒體上發文稱，伊朗發射多架單向攻擊無人機，試圖襲擊透過霍爾木茲海峽的商船。（新華社）"
-    },
-    {
-      "id": "4933569",
-      "time": "2026-06-13 09:37:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西安破產法庭成立】據西安日報，6月12日，西安破產法庭成立，西北地區首家專業化破產法庭正式執行，標誌著陝西省、西安市破產審判工作全面邁入專業化、規範化、精細化高質量發展新階段。根據批覆，西安破產法庭負責審理西安市轄區內區、縣級以上（含本級）以及陝西西鹹新區市場監督管理機關核准登記公司（企業）的強制清算和破產案件；負責審理前述強制清算和破產案件的衍生訴訟案件；負責審理跨境破產案件；負責審理其他依法應當由其審理的案件；辦理其他有關破產審判工作事宜。"
-    },
-    {
-      "id": "4933567",
-      "time": "2026-06-13 09:36:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "Cogntion：遵照美國相關指令，已關停 Claude Fable 5 模型的訪問許可權。"
     }
   ]
 }
