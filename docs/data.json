@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-20 15:38:40",
-  "count": 17608,
+  "updated": "2026-06-20 15:42:52",
+  "count": 17611,
   "items": [
+    {
+      "id": "mkt:019ee3fa-23f7-7dd8-b09d-9e741634663d",
+      "time": "2026-06-20 15:41:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian interior ministry spokesman said Iran will hold a large funeral for Supreme Leader Ayatollah Ali Khamenei."
+    },
+    {
+      "id": "mkt:019ee3fa-0aca-7dd8-b09d-932e4bd86316",
+      "time": "2026-06-20 15:41:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said the foreign minister will meet Pakistan's interior minister in Tehran, the Iranian Students' News Agency reported."
+    },
+    {
+      "id": "4945723",
+      "time": "2026-06-20 15:40:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，外長阿拉格齊將會見正在訪問德黑蘭的巴基斯坦內政部長。"
+    },
+    {
+      "id": "4945722",
+      "time": "2026-06-20 15:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾中央動物園因禽流感疫情暫時關閉】據尼泊爾媒體報道，位於首都加德滿都附近的中央動物園因園內多隻鳥類和其他動物死於H5N1型禽流感，於19日起暫時關閉。"
+    },
     {
       "id": "4945721",
       "time": "2026-06-20 15:37:33",
@@ -162209,14 +162241,6 @@
         "Impact bearish"
       ],
       "text": "Lithuanian State Emergency Operations Centre said it issued an alert to residents of Vilnius after a suspicious military drone was detected in Lithuanian airspace and has scrambled NATO military jets."
-    },
-    {
-      "id": "4933721",
-      "time": "2026-06-13 15:41:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "立陶宛國家危機管理中心：因在立陶宛領空發現疑似軍用無人機，已向維爾紐斯居民發出警報，已召集北約軍機。"
     }
   ]
 }
