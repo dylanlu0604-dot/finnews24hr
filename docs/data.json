@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-21 01:30:33",
-  "count": 17529,
+  "updated": "2026-06-21 01:34:30",
+  "count": 17531,
   "items": [
+    {
+      "id": "4945945",
+      "time": "2026-06-21 01:32:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦內政部長穆赫辛·納克維抵達德黑蘭，會見伊朗內政部長埃斯坎達爾·穆梅尼、外交部長阿巴斯·阿拉格齊及其他官員。當前各方正持續開展外交斡旋，推動調解程序，並就中東地區長期和平事宜展開磋商。"
+    },
+    {
+      "id": "4945944",
+      "time": "2026-06-21 01:30:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【學者：伊朗效仿特朗普採取“週末戰略”】卡達大學教授阿卜杜拉·班達爾·阿爾-埃泰比（Abdulla Banndar Al Eltaibi）表示，伊朗正在採取“週末策略”。他說：“這是特朗普過去常用的一種做法，目的是讓市場在週末期間不會作出反應。因此，他們（伊朗）實際上正在對特朗普以及調解方施加最大壓力，以霍爾木茲海峽為籌碼，換取黎巴嫩方面的安排。他們希望黎巴嫩境內的所有戰鬥都停止，作為恢復霍爾木茲海峽通行的條件。”"
+    },
+    {
+      "id": "4945943",
+      "time": "2026-06-21 01:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦訊息人士：總理謝里夫將在數小時內啟程前往瑞士，出席美伊技術性談判。"
+    },
     {
       "id": "mkt:019ee615-05ca-7dd8-b0a1-139f9926c7d6",
       "time": "2026-06-21 01:29:57",
@@ -161517,18 +161541,6 @@
         "國際"
       ],
       "text": "以色列電視臺：根據與伊朗達成的協議，以色列軍隊不會從安全區撤出。"
-    },
-    {
-      "id": "mkt:019ec209-c072-7dd8-afed-42f8586f44db",
-      "time": "2026-06-14 01:31:19",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Saudi state TV reports the Israeli military is preparing to respond should ground operations in southern Lebanon be halted. The report says Israeli forces will not withdraw from the security zone under an agreement with Iran."
     }
   ]
 }
