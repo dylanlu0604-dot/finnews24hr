@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 13:42:42_
-_本檔包含 3472 則快訊，約 653447 字_
+_更新時間：2026-06-20 15:05:41_
+_本檔包含 3471 則快訊，約 654143 字_
+
+---
+
+### 2026-06-16 19:47:28  #其他
+
+【杭州兩宅地收金約18.18億元，蕭山區宅地溢價超33%】6月16日，杭州迎來2宗涉宅用地出讓，分別位於蕭山區、臨安區，根據成交結果，臨安區地塊底價成交、蕭山區地塊溢價超33%成交，兩宗地塊共收金約18.18億元。地塊資訊顯示，蕭山區江南科技城南單元XS060101-16地塊，四至為東至寧北二路，南至鴻達路，西至寧北一路，北至通文路，用地性質為住宅（設配套公建）用地，土地出讓面積58976平方米，規劃建築面積70771.2平方米，容積率1.2，起始價11.32億元，起始樓面價16000元/平方米。
+
+---
+
+### 2026-06-16 19:46:40  #市場
+
+【南向資金今年以來淨流入超3000億港元】今年以來，南向資金明顯加倉港股市場，是港股市場最大的增量資金來源，年內累計淨流入超3000億港元。具體來看，Wind資料顯示，截至6月16日，南向資金今年以來累計淨流入3065.76億港元。在今年以來南向資金交易的104個交易日中，南向資金出現淨流入的交易日有64個，佔比超六成。其中，3月9日單日淨流入372.13億港元，創單日淨流入紀錄。從南向資金持倉情況來看，Wind資料顯示，截至6月15日，南向資金持股數量達5884.91億股，較2026年初增加257.98億股；持倉市值為5.98萬億港元，較2026年初減少0.16萬億港元。行業方面，南向資金對金融業、資訊科技業、非必需性消費持倉市值居前，分別為16846.04億港元、11220.77億港元、7982.48億港元。此外，南向資金對能源業、醫療保健業持倉市值均超4200億港元。（中證金牛座）
+
+---
+
+### 2026-06-16 19:46:31  #其他
+
+甲骨文OPERA雲平臺新增人工智慧功能，大幅提升酒店運營效率。
+
+---
+
+### 2026-06-16 19:46:27  #MKT News
+
+Ukrainian President Zelenskiy said Ukraine needs creative solutions to join the EU quickly, or Russia will find ways to block it.
+
+---
+
+### 2026-06-16 19:46:16  #宏觀
+
+【青海海西州直轄區發生6.3級地震 國家地震災害四級應急響應啟動】6月16日17時06分，在青海海西州直轄區發生6.3級地震，震源深度10公里。地震發生後，應急管理部調派力量趕赴災區，全力搜救被困人員，調撥物資做好受災群眾救助安置，加強震情監測和跟蹤研判。國務院抗震救災指揮部辦公室、應急管理部啟動國家地震災害四級應急響應，派出工作組趕赴當地指導處置。國家綜合性消防救援隊伍已出動救援力量78車320人10條搜救犬趕赴現場救援。（央視新聞）
+
+---
+
+### 2026-06-16 19:46:10  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+【Southbound Stock Connect net inflows HKD 306.6 bln YTD】Southbound flows via Stock Connect have been the largest incremental funding source for the Hong Kong market this year, with cumulative net inflows of HKD 306.576 billion as of June 16, Wind data show. Southbound posted net inflows on 64 of 104 trading days so far this year. The single-day record came on March 9 with a net inflow of HKD 37.213 billion. As of June 15, southbound holdings totaled 588.491 billion shares, up 25.798 billion shares since the start of 2026, with a market value of HKD 5.98 trillion, down HKD 0.16 trillion versus the start of 2026. Sector exposure by market value is led by financials HKD 1,684.604 billion, information technology HKD 1,122.077 billion and consumer discretionary HKD 798.248 billion; energy and healthcare holdings each exceed HKD 420 billion.
+
+---
+
+### 2026-06-16 19:45:46  #國際
+
+烏克蘭總統澤連斯基：德國總理默茨理解烏克蘭正寄望於快速加入歐盟。烏克蘭需要創新方案以快速加入歐盟，否則俄羅斯會想方設法阻撓該程序。
+
+---
+
+### 2026-06-16 19:45:26  #MKT News
+
+President Zelenskiy said German Chancellor Merz understands that Ukraine is seeking rapid EU accession.
+
+---
+
+### 2026-06-16 19:44:23  #公司 #市場
+
+【納指科技ETF景順：二級市場交易價格溢價 6月17日停牌後復牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，2026年6月16日收盤價為2.776元，收盤時基金份額參考淨值為2.3175元。為保護投資者利益，基金於6月17日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若6月17日溢價幅度未有效回落，基金有權採取臨時停牌等措施。
+
+---
+
+### 2026-06-16 19:43:47  #公司
+
+四川騰盾科創股份有限公司創業板IPO獲受理，預計融資金額30.2121億元。
+
+---
+
+### 2026-06-16 19:43:40  #公司
+
+【受地震影響 途經青藏鐵路西格段部分列車晚點執行】記者從國鐵青藏鐵路公司瞭解到，今天（16日）17時06分，青海海西州直轄區發生6.3級地震，波及青藏鐵路西格段部分割槽間。為確保旅客列車安全，鐵路部門立即啟動應急預案，扣停了以上區段的7列普速客車，並封鎖區間進行裝置全面巡檢，旅客列車無人員傷亡。鐵路部門提醒旅客，及時透過鐵路12306網站或車站公告關注列車時刻變化，以免耽誤行程。（央視新聞）
+
+---
+
+### 2026-06-16 19:43:24  #公司
+
+【張江高科：擬向張江集團轉讓張江科學之門16.51%股權】張江高科公告，擬以經資產評估機構出具並經上海市浦東新區國資委備案的評估結果為基礎，透過非公開協議轉讓方式向上海張江（集團）有限公司轉讓上海張江科學之門科技發展有限公司16.51%的股權，轉讓價格人民幣12.8億元。
+
+---
+
+### 2026-06-16 19:43:11  #國際
+
+【船企預計霍爾木茲海峽航運恢復正常仍需數週】日本海運企業商船三井株式會社社長在英國媒體《金融時報》16日刊出的一份報道中說，美國和伊朗簽訂協議並承諾重新開放霍爾木茲海峽後，大部分商船的船東會先觀望數週，等確認協議落實後才會放心啟航。商船三井社長田村城太郎接受《金融時報》採訪時說，霍爾木茲海峽通航不會一蹴而就，大部分船東會持謹慎觀望態度，只有在看到美伊協議“落到實處、轉化為海峽內的真實場景”後，他們才有信心讓船穿越海峽。（新華社）
+
+---
+
+### 2026-06-16 19:43:03  #MKT News
+
+Ukrainian President Zelenskiy said he had seen positive signals on aid from IMF managing director Georgieva.
+
+---
+
+### 2026-06-16 19:42:42  #國際
+
+澤連斯基：國際貨幣基金組織總裁釋放出援助相關積極訊號。
+
+---
+
+### 2026-06-16 19:42:05  #國際
+
+【霍爾木茲海峽重開或掀起海灣國家糧食進口潮】美伊達成的臨時協議若能夠結束持續數月的戰爭，並推動霍爾木茲海峽全面恢復通航，波斯灣國家在經歷數月依賴更長、效率更低的運輸路線後，可能會掀起一輪糧食進口熱潮。海灣地區是全球對進口依賴程度最高的食品市場之一，約90%的食品消費依賴海外供應。僅伊朗一國就是全球最大豆粕買家之一，同時也是巴西玉米的重要進口國。該地區許多主要糧食進口樞紐，例如阿聯酋的傑貝阿里港、沙特的達曼港以及伊朗的伊瑪目霍梅尼港，均位於霍爾木茲海峽以內。Kpler首席幹散貨分析師Alexis Ellender表示：“糧食運輸需要專門裝置來處理，因此最終還是必須回到中東海灣地區的那些港口。”他稱，目前仍有少量船隻進出海灣，“但平均每天可能只有三艘幹散貨船，而正常情況下這一數字應超過20艘。”Kpler資料顯示，今年5月該地區糧食進口總量降至94.2萬噸，同比下降超過50%。
+
+---
+
+### 2026-06-16 19:41:33  #市場 #國際
+
+【油價進一步下跌，受霍爾木茲海峽有望重新開放及現貨需求疲軟影響】隨著美國和伊朗料將於週五簽署一項結束戰爭的初步協議，受霍爾木茲海峽即將重新開放的前景以及現貨需求疲軟的跡象影響，油價擴大跌幅。在後市交易中，布倫特原油下跌2.6%，至每桶81.03美元，而西得州中質油下跌3%，至每桶78.29美元。三菱日聯的分析師表示：“現貨原油市場也有所走弱，迪拜和穆爾班遠期曲線自戰爭開始以來首次轉為期貨溢價(contango)，表明對近期供應短缺的擔憂有所緩解。“當期貨價格高於近期價格時，就會出現期貨溢價，這表明對近期供應可用性的擔憂有所減少。雖然達成協議的前景顯然對市場有支撐作用，但該協議的細節尚未披露。分析師表示，即使海上交通恢復，該地區的航運活動和石油供應可能也需要時間才能恢復到正常水平。
+
+---
+
+### 2026-06-16 19:41:04  #MKT News
+
+【Reopening of Strait of Hormuz could trigger surge in Gulf grain imports】If a temporary US‑Iran agreement ends months of fighting and restores full passage through the Strait of Hormuz, Gulf states may pursue a rapid rebound in grain imports after months of relying on longer, less efficient routes. The Gulf is highly import‑dependent, with roughly 90% of food consumption sourced overseas. Iran is among the world’s largest soybean‑meal buyers and a significant importer of Brazilian corn. Key import hubs — Jebel Ali (UAE), Dammam (Saudi Arabia) and Imam Khomeini (Iran) — lie within the strait. Kpler chief dry‑bulk analyst Alexis Ellender said grain shipments need specialised handling and traffic will ultimately return to Gulf ports; current transits are about three dry‑bulk vessels per day versus a normal level above 20. Kpler data show regional grain imports fell to 942,000 tonnes in May, down more than 50% year‑on‑year.
+
+---
+
+### 2026-06-16 19:40:56  #MKT News
+
+Ukrainian President Zelenskiy met German Chancellor Merz on the sidelines of the G7 summit in France.
+
+---
+
+### 2026-06-16 19:40:48  #公司 #國際
+
+澤連斯基於法國七國集團峰會期間會見德國總理默茨。
+
+---
+
+### 2026-06-16 19:39:34  #市場
+
+【山東雞蛋價格突破10元/公斤 再創年內新高】山東雞蛋價格上週繼續回升，上行破“10”元關口，再創年內新高。山東省畜牧總站發的最新統計資料顯示，全省雞蛋周銷售均價為10.74元/公斤，同比升高58.17%，環比升高11.18%。“主要受蛋雞養殖虧損和春節後傳統消費淡季的影響。蛋雞淘汰加快，市場出現階段性的供弱需強。”國家蛋雞產業技術體系首席科學家、中國農業科學院北京畜牧獸醫研究所所長張軍民說。
+
+---
+
+### 2026-06-16 19:39:22  #國際
+
+烏克蘭總統澤連斯基：烏克蘭可協助生產防空系統，並已與美方討論相關許可事宜。今年我們將生產約1000萬架無人機，但產量有望翻倍。俄羅斯必須知道，今年冬天對它來說也將是艱難的。
+
+---
+
+### 2026-06-16 19:38:51  #MKT News
+
+Ukrainian President Zelenskiy said Russia must know this winter will also be difficult for it.
+
+---
+
+### 2026-06-16 19:38:28  #MKT News
+
+Ukrainian President Zelenskiy said a meeting with Putin before winter arrives is essential.
+
+---
+
+### 2026-06-16 19:38:05  #國際
+
+澤連斯基稱，在冬季到來前與普京舉行會晤非常重要。
+
+---
+
+### 2026-06-16 19:37:50  #公司
+
+【金富科技：擬募資不超3億元投入液冷專案】金富科技公告稱，公司擬以簡易程式向特定物件發行股票，募集資金總額不超3億元。扣除發行費用後，淨額將全部投入3個專案，包括金富華南液冷板生產基地專案、卓暉金屬液冷元件擴產專案、聯益熱能液冷元件擴產專案，擬投入金額分別為1.45億元、0.45億元、1.1億元。若募資到位前先行投入，後續將置換；若淨額不足，由公司自籌。專案建設期均為12個月，目前備案手續正在辦理中，投產後預計有良好經濟效益。
+
+---
+
+### 2026-06-16 19:37:44  #公司
+
+【宏明電子：部分募投專案增加實施地點獲保薦機構認可】宏明電子公告稱，公司首次公開發行股票募集資金淨額20.38億元，截至2026年6月10日，超募金額8692.29萬元使用計劃未明確。為保障專案順利實施，公司決定增加“高儲能脈衝電容器產業化建設專案”的實施地點為成都市龍泉驛區雅士路99號；增加“新型電子元器件及積體電路生產專案（二期）”的實施地點為成都市龍泉驛區星光中路20號。該事項已獲公司董事會審議透過，不涉及募集資金用途變更，保薦機構對此無異議，後續實施應履行國資審批程式。
+
+---
+
+### 2026-06-16 19:37:37  #其他
+
+【重慶市小面協會：“渝”和“小面”均屬公共資源，不支援單一企業獨家壟斷】6月16日，針對遇見小面起訴南陽渝見小面商標糾紛一事，重慶市小面協會倡議：地域類公共名稱，應服務於整個行業發展。依據商標法相關規定，“渝”為重慶地域行政區劃簡稱，“小面”屬於餐飲通用商品名稱，二者均屬於公共資源，不具備商標獨佔權屬，業內主體可依規善意、合理使用。重慶小面是承載巴渝民俗文脈的地域公共品牌，歸屬全體行業從業者，倡導全行業共享，不支援單一企業獨家壟斷。
+
+---
+
+### 2026-06-16 19:37:04  #公司
+
+【鐵建重工：部分募投專案結項 1.11億元節餘資金補流】鐵建重工公告稱，公司擬將5個已完成募投專案的本金餘額9424.56萬元，以及部分募集資金賬戶累計利息淨額1661.47萬元，合計1.11億元節餘資金用於永久補充流動資金。節餘原因包括加強費用控制、現金管理獲收益及部分款項未支付。該事項已透過董事會審計委員會和董事會審議，保薦機構無異議。
+
+---
+
+### 2026-06-16 19:36:59  #MKT News #Market Themes #China Tech Giants
+
+People familiar with the matter said Xiaohongshu's valuation in private secondary-market trades reached as high as $50 billion.
+
+---
+
+### 2026-06-16 19:36:47  #公司
+
+【和展能源：楊宇與劉名一致行動關係解除 股份不再合併計算】和展能源公告稱，楊宇與劉名簽署的《一致行動人協議》《補充協議》於2026年5月23日到期後終止，風光無限及寧波綠信簽署的《一致行動人協議》於2026年5月15日到期後終止，各方一致行動關係於協議到期日解除。本次權益變動不涉及持股數量的變動，一致行動關係到期解除後，楊宇與劉名各自持有的公司股份數量和比例保持不變，但持有的公司股份將不再合併計算。截至報告簽署日，二人未來12個月內不排除增持或減持公司股份的計劃。
+
+---
+
+### 2026-06-16 19:36:37  #公司
+
+【京泉華：實控人等減持股份，張立品權益變動觸及1%】京泉華公告稱，公司實際控制人、董事長張立品，副董事長鞠萬金及職工代表董事、副總經理李戰功，於2026年6月1日至6月15日以集中競價方式分別減持270.91萬股、155.5萬股、77.53萬股，減持比例分別為1.00%、0.57%、0.29%。張立品持股比例由9.76%降至8.76%，權益變動觸及1%整數倍。本次減持與此前計劃一致且已實施完畢，不會導致公司控制權變化，也不影響公司治理結構與持續經營。
+
+---
+
+### 2026-06-16 19:36:19  #MKT News #Important #Market Themes #Chip Wars #000660.KS #Impact mixed
+
+【Rumors SK Hynix to propose 100 trillion-won shareholder return plan; company says it never discussed that scale】June 16 evening — SK Hynix denied market rumors it plans a 100 trillion-won shareholder return program, saying the reported scale is inaccurate. The company said it is exploring multiple options to enhance shareholder value but has not discussed the specific payout amount cited in reports.
+
+---
+
+### 2026-06-16 19:35:55  #其他
+
+【微信支付“AI專屬卡”最快本週上線，支付巨頭AI對壘戰加速】支付寶之外，微信支付也在加速推進AI戰略。記者從知情人士處獲悉，微信支付正聯合騰訊智慧體產品WorkBuddy測試AI支付功能，計劃在微信錢包中上線“AI專屬卡”。該卡消費上限由使用者充值金額決定，支付授權範圍可隨時管控，資金專款專用，智慧體發起支付須經使用者驗密確認。該功能最快於本週上線。不過，記者今日就上述資訊向微信支付官方求證，截至發稿未獲回應。隨著微信支付加速入場，本就擁擠的“支付+AI”賽道再添熱度。6月16日，AI版支付寶正式推出，命名“阿寶”，成為全球首個完成全端AI化的超級應用；銀聯商務基於中國銀聯APOP協議推出AI支付產品，已落地園區食品預定、雲繳費、AI點餐三個高頻場景；京東釋出國內首個智慧體自主支付協議……巨頭密集落子，路徑各異。(財聯社)
+
+---
+
+### 2026-06-16 19:35:47  #公司 #焦點 #國際
+
+【傳SK海力士“擬推百萬億韓元股東回報計劃”，官方回應：從未探討過該具體規模】6月16日晚間，針對“SK海力士擬推百萬億韓元股東回報政策”的市場傳聞，介面新聞獨家獲悉，該傳聞中的鉅額回報規模並不準確。SK海力士對介面新聞回應表示，其為“提升股東價值正探討多種方案，但公司從未探討過相關報道中所涉及的股東回報規模等具體內容。”此前，韓國經濟日報在報道稱，SK海力士計劃於今年第四季度推出規模達100萬億韓元的超大規模股東回報政策，具體措施包括回購自家股票及現金分紅等。此舉被外界視解讀為SK集團會長崔泰源的重大戰略押注，意在透過大規模股東回報提升公司在全球資本市場的地位與估值。（介面新聞）
+
+---
+
+### 2026-06-16 19:35:00  #MKT News
+
+Ukrainian President Zelenskiy said Ukraine will produce about 10 million drones this year and that production could double.
+
+---
+
+### 2026-06-16 19:34:47  #公司 #觀點
+
+市場訊息：訊息人士稱，小紅書已委託包括高盛、中金公司在內的銀行負責其香港首次公開募股相關工作。
+
+---
+
+### 2026-06-16 19:34:37  #其他
+
+訊息人士稱，小紅書在私人二級市場交易中的估值一度高達500億美元。
+
+---
+
+### 2026-06-16 19:33:44  #市場
+
+SpaceX盤前漲幅收窄至5.91%。
+
+---
+
+### 2026-06-16 19:33:39  #MKT News
+
+SpaceX pre-market gains narrowed to 5.91%.
+
+---
+
+### 2026-06-16 19:33:34  #公司
+
+【華大基因：擬2.5億-5億元回購股份用於員工持股或激勵】華大基因公告稱，公司第四屆董事會第十次會議審議透過第三期以集中競價交易方式回購股份方案。擬回購資金總額不低於2.5億元且不超過5億元，回購價格不超過50元/股。按資金總額上限、回購價格上限測算，預計可回購1000萬股，約佔公司當前總股本的2.3905%；按下限測算，預計可回購500萬股，約佔1.1953%。回購股份將用於員工持股計劃或股權激勵，實施期限為董事會審議透過之日起12個月內。
 
 ---
 
@@ -20689,257 +20935,5 @@ RIA quoted the Russian embassy as saying the tanker seized by the UK had no Russ
 ### 2026-06-15 18:06:04  #公司
 
 【新致軟體：發行3134.8萬股募集3億元】新致軟體公告，向特定物件發行3134.8萬股，發行價格為9.57元/股，募集資金總額為3億元，募集資金淨額為2.91億元。本次發行新增股份為有限售條件流通股，新增股份在其限售期屆滿的次一交易日起在上海證券交易所科創板上市交易。本次發行完成後，公司總股本增至3.13億股，實際控制人仍為郭瑋。
-
----
-
-### 2026-06-15 18:05:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Memo reportedly gives Iran and Oman management authority over Strait of Hormuz; Iran to charge transits after 60-day grace period】A final-draft Iran–US memorandum was reportedly revised to “clearly and unambiguously” state that Iran and Oman exercise management authority over the Strait of Hormuz. The latest text says future management of maritime shipping services in the strait will be decided jointly by Iran and Oman and uses the term maritime shipping services, which the report says effectively recognizes Iran’s right to charge passing vessels. Under the text Iran agreed only to a 60‑day free transit period; after that it plans to collect revenue from commercial ships transiting the strait by providing services including navigation safety, maritime assurance, environmental protection and insurance, with proceeds earmarked for national economic development. The report says Iran coordinated with Oman; it did not explain the 60‑day grace period.
-
----
-
-### 2026-06-15 18:05:22  #其他
-
-強生：向佛羅里達州傑克遜維爾地區投資超 10 億美元。
-
----
-
-### 2026-06-15 18:04:54  #國際
-
-印度政府官員表示，國有零售商每升汽油收入損失3盧比，每升柴油收入損失27盧比。
-
----
-
-### 2026-06-15 18:04:46  #其他
-
-LEADER'S ADVANTAGE ACQUISITION CORP：擬申請以股票程式碼“LEDRU”在納斯達克上市。
-
----
-
-### 2026-06-15 18:04:36  #焦點 #國際
-
-【伊媒稱伊美協議明確霍爾木茲海峽管理權】伊朗法爾斯通訊社15日援引一名知情人士的話報道稱，伊美諒解備忘錄在達成前最後階段進行了修改，“明確且無歧義地”強調了伊朗與阿曼對霍爾木茲海峽行使管理權。報道稱，備忘錄最新文字明確規定，“霍爾木茲海峽海上航運服務的未來管理”將由伊朗和阿曼共同決定。文字中特別使用“海上航運服務”這一表述，意味著美國事實上承認伊朗有權就相關服務向過往船隻收取費用。（新華社）
-
----
-
-### 2026-06-15 18:04:06  #公司
-
-【南亞新材：提前終止減持計劃 7名股東合計減持公司股份約356.38萬股】南亞新材(688519.SH)公告稱，公司部分董事、實際控制人及其一致行動人提前終止減持計劃。截至公告日，包秀銀、包愛芳、周巨芬、包垚崇、包思嬌、包航榆、張東等7名股東合計減持公司股份約356.38萬股，佔公司總股本約1.5%。其中，周巨芬因操作失誤超額減持1000股，違反相關規定。為彌補影響，包航榆、包垚崇自願放棄剩餘合計2200股減持，並提前終止本次減持計劃。
-
----
-
-### 2026-06-15 18:03:35  #市場 #央行 #國際
-
-【裕信：沃什領導下的美聯儲戰略對美元至關重要】裕信The Investment Institute的策略師在一份報告中表示，在新任主席凱文·沃什領導下，美聯儲的戰略將對美元的走向至關重要。他們表示，美聯儲可能會在週三沃什作為主席的首次會議上維持利率不變，並放棄偏向政策寬鬆的立場。他們表示，價格壓力上升將要求美聯儲加息，但這將增加與支援降息的特朗普政府的摩擦。然而他們表示，如果美聯儲對通貨膨脹掉以輕心，這將造成信譽問題並損害美元。DXY美元指數下跌0.2%，至99.513。
-
----
-
-### 2026-06-15 18:02:53  #觀點 #國際
-
-摩根大通將美國運通目標股價從325美元上調至328美元。
-
----
-
-### 2026-06-15 18:02:32  #市場 #國際
-
-印度盧比（<INR=IN>）收漲0.4%，報1美元兌94.71盧比；前收盤價為1美元兌95.11盧比。
-
----
-
-### 2026-06-15 18:02:16  #其他
-
-【中央氣象臺：廣東東南部、廣西東南部等地部分地區發生漬澇氣象風險高】中央氣象臺6月15日18時釋出漬澇風險氣象預報：受強降雨的影響，預計6月15日20時至16日20時，廣東南部和西部、廣西東部和西部、雲南東南部等地部分地區發生漬澇的氣象風險較高，其中，廣東東南部、廣西東南部等地部分地區發生漬澇的氣象風險高，易形成城市內澇和農田漬害，需加強防範。
-
----
-
-### 2026-06-15 18:01:51  #其他
-
-【中科曙光釋出新一代通用高效能運算平臺】6月15日，中科曙光釋出新一代通用高效能運算平臺。該平臺搭載首個國產10T級通用CPU，HPL雙精度浮點相對效能提升近2倍，STREAM訪存效能提升近1倍，應用效能平均提升近1倍，整體規格首次達到國際廠商旗艦級水平。
-
----
-
-### 2026-06-15 18:01:40  #MKT News #Market Regions #Greater China
-
-【CIC Zhaoshi report: Momenta holds 65% share of China third‑party urban NOA supplier market】CIC Zhaoshi Consulting's Autonomous Driving Blue Book — Urban NOA says China's NEV penetration reached 54% in 2025 and Momenta held a 65% share of the third‑party urban NOA supplier market from March 2025–February 2026. The report projects urban NOA solution penetration to rise from 11% in 2025 to 62% by 2030, citing higher NEV adoption, accelerated deployment of end‑to‑end stacks and world models, and OEMs equipping more models with high‑level driver‑assist as standard. It forecasts penetration by vehicle price band to jump over five years: CNY100k–200k from 3.8% to 62.7%, CNY200k–400k from 27.2% to 97.0%, and >CNY400k from 29.6% to 89.8% by 2030.
-
----
-
-### 2026-06-15 18:01:25  #公司
-
-【中國中車：子公司參與設立華輿國科戰新（蘇州）創業投資基金合夥企業（有限合夥）】中國中車公告，公司全資子公司中車資本及其全資子公司華輿正道擬與其他出資人共同設立華輿國科戰新（蘇州）創業投資基金合夥企業（有限合夥），認繳出資總額為15億元，其中中車資本認繳5.7億元，華輿正道認繳0.3億元。
-
----
-
-### 2026-06-15 18:01:14  #央行 #其他
-
-葡萄牙央行預計2027年經濟增長1.6%，2028年增長1.8%。葡萄牙央行維持2026年經濟增長預期在1.8%不變，2025年為1.9%。
-
----
-
-### 2026-06-15 18:01:09  #公司
-
-【綠田機械：首次回購0.05%公司股份，已支付的總金額為 165.25萬元】綠田機械公告，2026年 6月 15日，公司透過集中競價交易方式首次回購股份 9.07萬股，已回購股份佔公司總股本的比例為 0.05%，購買的最高價為 18.3元/股、最低價為 18.19元/股，已支付的總金額為 165.25萬元（不含交易費用）。
-
----
-
-### 2026-06-15 18:01:04  #MKT News
-
-Bank of Portugal projects GDP growth of 1.9 pct in 2025, keeps its 2026 forecast at 1.8 pct (unchanged), and expects growth of 1.6 pct in 2027 and 1.8 pct in 2028.
-
----
-
-### 2026-06-15 18:00:59  #其他
-
-強生：新工廠計劃於2028年全面投入運營。
-
----
-
-### 2026-06-15 18:00:55  #國際
-
-強生：本次投資是其截至2029年初美國市場550億美元投資承諾的一部分。
-
----
-
-### 2026-06-15 18:00:23  #其他
-
-【IPO粵芯半導體過會 為創業板改革落地後首家上會的未盈利企業】由廣發證券保薦的創業板IPO粵芯半導體於今日過會，是今年4月創業板改革落地後首家上會的未盈利企業，也是創業板首家晶圓製造企業。從上市歷程來看，粵芯半導體從受理到過會共用時178天。今日上會，深交所要求粵芯半導體結合行業週期、發展趨勢及市場競爭格局，高價值產品研發及放量程序、銷售價格、毛利率以及市場需求等，說明經營業績改善情況，盈利預測相關依據的客觀性、合理性，以及預計2029年最早扭虧的可行性及謹慎性。
-
----
-
-### 2026-06-15 18:00:23  #MKT News
-
-An Indian government official said last week the oil tanker Bochem Marengo was involved in an accident; all Indian crew members are safe.
-
----
-
-### 2026-06-15 18:00:03  #國際
-
-印度政府官員稱，上週油輪BOCHEM MARENGO發生事故報告，所有印度船員安全。
-
----
-
-### 2026-06-15 18:00:03  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #EURUSD #Brent #Impact bullish
-
-Fitch says US‑Iran conflict clouds European sector outlook.
-
----
-
-### 2026-06-15 17:59:35  #國際
-
-惠譽評級：中期更新報告顯示，美伊戰爭對歐洲各行業前景構成壓力。
-
----
-
-### 2026-06-15 17:59:09  #其他
-
-據報道，菲丹將在莫斯科方面證實，土耳其已準備好承辦新一輪俄烏談判。
-
----
-
-### 2026-06-15 17:58:57  #其他
-
-【灼識諮詢：Momenta在第三方城市NOA供應商市場份額達65%】6月15日訊息，CIC灼識諮詢釋出《自動駕駛行業藍皮書——城市NOA：自動駕駛商業化的轉折點》。報告顯示，2025年中國新能源車滲透率已達到54% ，2025年3月至2026年2月，在中國第三方城市NOA（導航輔助駕駛）供應商市場中，Momenta市場份額達到65%。報告預計，中國城市NOA解決方案滲透率將從2025年的11%提升至2030年的62%。隨著新能源汽車滲透率提升、端到端技術和世界模型加速落地，以及車企在更多車型上標配高階智駕功能，未來五年，10萬-20萬、20萬-40萬及40萬以上車型的城市NOA滲透率，將由2025年的3.8%、27.2%和29.6%，分別增長至2030年的62.7%、97.0%和89.8%。
-
----
-
-### 2026-06-15 17:58:41  #公司
-
-【澤璟製藥：鹽酸吉卡昔替尼片重度斑禿適應症獲批，24周有效率34.5%】澤璟製藥公告，公司近日收到國家藥品監督管理局核准簽發的《藥品註冊證書》，自主研發的鹽酸吉卡昔替尼片用於治療成人重度斑禿的上市申請獲得批准。這是該藥繼中、高危骨髓纖維化適應症後第二個獲批上市的適應症，也是首個獲批的治療免疫炎症性疾病的臨床適應症。III期臨床試驗顯示，治療24周脫髮嚴重程度工具量表評分≤20分的受試者百分率，50mg組為34.5%，安慰劑組為3.5%，吉卡昔替尼片顯著優於安慰劑組。
-
----
-
-### 2026-06-15 17:58:37  #國際
-
-印度政府官員稱：16艘載有運往印度的化肥的船隻正航行於霍爾木茲海峽。
-
----
-
-### 2026-06-15 17:58:35  #其他
-
-中央氣象臺6月15日18時繼續釋出暴雨橙色預警。
-
----
-
-### 2026-06-15 17:58:33  #MKT News
-
-Sixteen vessels carrying fertilizer bound for India are currently in the Strait of Hormuz, an Indian government official said.
-
----
-
-### 2026-06-15 17:57:48  #其他
-
-據燈塔專業版實時資料，截至6月15日17時52分，影片《火遮眼》票房突破1億。
-
----
-
-### 2026-06-15 17:56:43  #公司 #市場
-
-【華錫有色：股票交易異常波動 近期經營基本面無重大變化】華錫有色公告稱，公司A股股票於2026年6月11日、6月12日、6月15日連續三個交易日收盤價格漲幅偏離值累計超20%，屬股票交易異常波動。經自查，公司目前生產經營正常，內外部環境未變，不存在應披露而未披露的重大資訊，未發現媒體報道或市場傳聞及熱點概念事項，相關人員在此期間無買賣公司股票情況。公司提醒投資者注意交易風險。
-
----
-
-### 2026-06-15 17:56:25  #公司 #市場
-
-【退市國化：股票退市整理期剩餘4個交易日 期滿將終止上市】退市國化公告稱，公司股票於2026年6月1日進入退市整理期，預計最後交易日期為2026年6月22日。截至6月15日收盤已交易11個交易日，剩餘4個交易日，交易期滿將被終止上市。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。期間公司不籌劃或實施重大資產重組事項。公司提醒投資者及時了結相關業務，有權機關提前辦理續凍手續。
-
----
-
-### 2026-06-15 17:56:05  #公司
-
-【海航科技：擬以9000萬元-1.8億元回購公司股份】海航科技公告，擬以9000萬元-1.8億元回購公司股份，回購價格不超過5.29元/股。回購股份的用途為用於未來實施員工持股計劃或股權激勵。按回購價格上限測算，預計回購股份數量為1701.32萬股至3402.65萬股，佔公司總股本的0.59%至1.17%。回購資金來源為自有資金或金融機構回購專項借款。若回購股份在股份回購實施結果暨股份變動公告日後三年內未能使用完畢，未使用部分將予以登出。
-
----
-
-### 2026-06-15 17:56:00  #MKT News
-
-Russian Foreign Minister Lavrov said he hopes Trump envoys Jared Kushner and Witkoff will, on their upcoming visit, clarify how agreements reached on the basis of their proposals would be implemented.
-
----
-
-### 2026-06-15 17:55:09  #MKT News #Important #DXY #Impact bearish #XAUUSD #WTI
-
-【Trump says he will allow Iran limited low-level uranium enrichment】U.S. President Trump told the New York Times on the 14th that Iran would be allowed to carry out limited, low-level uranium enrichment under a new U.S.-Iran deal that would ensure enrichment is only for non-military purposes. Iranian media said the remarks signal Trump has stepped back from demanding zero enrichment.
-
----
-
-### 2026-06-15 17:55:05  #國際
-
-俄羅斯外長拉夫羅夫表示，他希望特朗普的特使庫什納和威特科夫在即將到來的訪問中，闡明基於他們提案的協議將如何落地實施。
-
----
-
-### 2026-06-15 17:54:28  #焦點 #國際
-
-【特朗普稱將允許伊朗進行低水平鈾濃縮】美國總統特朗普14日對《紐約時報》說，伊朗將被允許進行有限的低水平鈾濃縮活動，並稱美伊新協議將確保“伊朗的鈾濃縮永遠只能用於非軍事目的”。伊朗媒體說，此次表態意味著特朗普在伊朗“鈾濃縮歸零”要求上讓步。（新華社）
-
----
-
-### 2026-06-15 17:54:01  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #WTI #Impact bearish #XAUUSD
-
-【Institution: market hasn't fully discounted Fed hikes; dollar decline constrained】Yuxin Investment Research Institute strategists said the US-Iran temporary peace deal has reduced but not eliminated market expectations of Fed rate hikes, which has capped the dollar's fall. LSEG data show a 68% probability of a 25bp hike in December and the market fully prices action by March next year. The strategists said the ongoing possibility of hikes should keep the dollar's decline less pronounced versus other assets, notably oil. The agreement is temporary and opens a new 60-day negotiation on Iran's nuclear program.
-
----
-
-### 2026-06-15 17:53:35  #國際
-
-俄羅斯外長拉夫羅夫稱，歐洲國家正試圖強迫俄羅斯接受它們的調停服務，但莫斯科方面支援特朗普提出的方案。
-
----
-
-### 2026-06-15 17:53:31  #MKT News #Market Regions #Europe & UK
-
-Russian Foreign Minister Lavrov said Europeans are attempting to impose their mediation services on Russia, while Moscow is committed to implementing the plan proposed by Trump.
-
----
-
-### 2026-06-15 17:53:25  #其他
-
-【我國首顆聚焦文物保護的定製遙感監測衛星成功發射】記者6月15日從國家文物局獲悉，當日12時，我國首顆聚焦文物保護的定製遙感監測衛星——“文物01星”在酒泉衛星發射中心成功發射，順利進入預定軌道。（新華社）
-
----
-
-### 2026-06-15 17:53:10  #其他
-
-【波羅的海國際航運公會警告：美伊和平協議關鍵內容仍不明確】全球最大的船東行業組織表示，在霍爾木茲海峽航運被視為安全之前，美伊和平協議中的許多關鍵細節仍需進一步明確。總部位於丹麥巴格斯韋德的波羅的海國際航運公會(BIMCO)首席安全與安保官Jakob Larsen在宣告中表示，“在航運流量能夠全面恢復至衝突前水平之前，衝突雙方必須提供可信的安全保證”。Larsen表示，理想情況下，應由聯合國等中立機構負責制定霍爾木茲海峽“恢復海上交通執行方案”Larsen稱，“該方案需要明確安全航線、航運分流措施、海灣地區船舶離港順序、報告程式、船舶安保措施、海軍護航安排以及緊急應對機制等問題”。BIMCO指出，由於大量船舶此前被困在波斯灣內，未來船舶離港將需要統一協調。 Larsen表示，“掃雷工作仍然是船東能否確信航行安全的關鍵因素”。他補充稱，“我們建議船東繼續進行全面的風險評估，並呼籲所有相關方將海員安全放在首位”。
 
 ---
