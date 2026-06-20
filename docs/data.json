@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 15:42:52",
+  "updated": "2026-06-20 15:47:10",
   "count": 17611,
   "items": [
+    {
+      "id": "mkt:019ee3fe-9853-7dd8-b09d-a05036e79b65",
+      "time": "2026-06-20 15:46:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's interior ministry spokesman said there is no distinction between 'hardliners' and 'moderates' on negotiation issues."
+    },
     {
       "id": "mkt:019ee3fa-23f7-7dd8-b09d-9e741634663d",
       "time": "2026-06-20 15:41:21",
@@ -162226,21 +162234,6 @@
         "其他"
       ],
       "text": "【科大訊飛釋出星火多模態大模型X2-VL】據“無錫釋出”，6月11日，在錫舉行的2026長三角機器人及自動化展覽會暨無錫具身智慧機器人產業鏈夥伴大會上，科大訊飛釋出星火多模態大模型X2-VL。這款綜合國產多模態大模型，將為無錫具身智慧產業搭載硬核“AI大腦”。"
-    },
-    {
-      "id": "mkt:019ebff2-471c-7dd8-afe8-d1e4d1c7837d",
-      "time": "2026-06-13 15:46:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Lithuanian State Emergency Operations Centre said it issued an alert to residents of Vilnius after a suspicious military drone was detected in Lithuanian airspace and has scrambled NATO military jets."
     }
   ]
 }
