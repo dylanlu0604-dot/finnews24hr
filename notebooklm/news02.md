@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:43:06_
-_本檔包含 3554 則快訊，約 651992 字_
+_更新時間：2026-06-21 06:11:55_
+_本檔包含 3551 則快訊，約 652576 字_
+
+---
+
+### 2026-06-18 19:13:34  #市場
+
+凱捷股價下跌6.5%；埃森哲下調年度營收增長預測區間上限後，凱捷股價隨之下跌。
+
+---
+
+### 2026-06-18 19:13:29  #市場
+
+凱捷股價下跌6.5%；埃森哲下調年度營收增長預測區間上限後，凱捷股價隨之下跌。
+
+---
+
+### 2026-06-18 19:12:53  #MKT News #Important #MU.O #Impact bullish
+
+Wedbush raises Micron Technology (MU.O) PT to $1,300 from $550.
+
+---
+
+### 2026-06-18 19:12:51  #公司
+
+【日聯科技：披露重大資產重組內幕資訊知情人股票買賣自查情況】日聯科技公告稱，公司擬發行股份、可轉債及支付現金購買上海菲萊測試技術有限公司100%股權並募資。自查期間為2025年10月14日至2026年6月4日，自查範圍包括公司、交易對方等相關主體及人員。自查顯示，除獨立財務顧問國泰海通相關部門有買賣，自然人陳移伯、陳建兵、黃淑芬有交易外，其他主體無買賣情況。相關主體均宣告與本次交易無關，不存在內幕交易。獨立財務顧問和國浩律師（南京）事務所認為，上述買賣行為不構成內幕交易，不會對本次交易構成實質性法律障礙。
+
+---
+
+### 2026-06-18 19:12:44  #市場
+
+現貨白銀日內跌1%，現報67.14美元/盎司。
+
+---
+
+### 2026-06-18 19:12:42  #其他
+
+訊息人士稱，剛果（金）採礦企業要求在7月31日截止期限前暫停執行5%員工股權政策。多個工會要求立即執行礦業股權5%的規定。
+
+---
+
+### 2026-06-18 19:12:28  #MKT News #Commodities #Precious Metals
+
+Spot silver fell nearly 1.00% intraday to $67.24/oz.
+
+---
+
+### 2026-06-18 19:12:19  #央行 #其他
+
+【市場分析：英國央行維持利率不變 宣告指引未發生變化】分析師Divyang Shah表示，正如市場普遍預期的那樣，英國央行在6月會議上將利率維持在3.75%不變。宣告文字傳遞出的指引沒有變化，英國央行重申，其“隨時準備在必要時採取行動”，以遏制通脹壓力。投票結果也帶來了一定程度的意外。4月會議上僅有英國央行首席經濟學家皮爾支援加息，本次會議中英國央行貨幣政策委員格林也加入支援加息陣營，兩人均投票支援加息。
+
+---
+
+### 2026-06-18 19:12:14  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+【Bank of England holds rate at 3.75%; guidance unchanged, two members voted for a hike】The Bank of England left the policy rate at 3.75% at its June meeting; the statement's guidance was unchanged, reiterating it stands ready to act if needed to curb inflationary pressures. The vote surprised markets: Chief Economist Pill and MPC member Greene both voted for a rate increase; in April only Pill had supported a hike.
+
+---
+
+### 2026-06-18 19:12:08  #MKT News #Copper #Impact bullish
+
+Sources say Congo mining companies are seeking a postponement of enforcement of a 5% worker-shareholding requirement as the July 31 deadline approaches.
+
+---
+
+### 2026-06-18 19:11:43  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #EURUSD #Impact bearish
+
+US 2-year Treasury yield rose, narrowing its spread with the 10-year to within 25 basis points.
+
+---
+
+### 2026-06-18 19:11:21  #市場 #國際
+
+美國2年期國債收益率攀升至與10年期國債收益率相差不到25個基點。
+
+---
+
+### 2026-06-18 19:11:08  #市場 #焦點
+
+紐約期金失守4260美元/盎司，日內跌2.77%。
+
+---
+
+### 2026-06-18 19:11:08  #MKT News
+
+【Zhejiang provincial government signs strategic cooperation framework with China Aerospace Science and Technology Corporation】Zhejiang provincial government signed a strategic cooperation framework with China Aerospace Science and Technology Corporation (CASC) to deepen collaboration on space artificial intelligence, commercial space, aerospace+ emerging industries and innovation ecosystems. The agreement aims to integrate aerospace activities and industry with Zhejiang’s economy and jointly cultivate new productive forces. Zhejiang and CASC already cooperate on space technology innovation, drone R&D and manufacturing, and aerospace electronic equipment production.
+
+---
+
+### 2026-06-18 19:11:02  #Trading Economics #Markets #commodity #Importance 0
+
+Platinum is down by 5% — Platinum decreased 5% to 1703.2 USD/t.oz
+
+---
+
+### 2026-06-18 19:11:00  #公司
+
+阿布扎比投資辦公室（ADIO）、阿聯酋民航局（GCAA）與阿布扎比出行公司（AD Mobility）簽署合作協議，推進先進空中出行解決方案的設計、製造與部署。
+
+---
+
+### 2026-06-18 19:10:36  #央行 #其他
+
+【英國央行維持利率不變 兩名委員主張加息25個基點】英國央行連續第四次會議將利率維持在3.75%不變，認為鑑於通脹壓力上升的強度尚不明確，現在加息為時過早。貨幣政策委員會以7:2的投票決定維持利率不變，符合市場普遍預期。貨幣政策委員格林和首席經濟學家皮爾主張加息25個基點。其他大多數委員基本延續了行長貝利所稱的“積極維持不變”立場。貝利認為，與市場在衝突爆發前預期降息相比，這種立場本身已構成一種有效的緊縮。皮爾和格林均表示，現在加息有助於抑制家庭對未來通脹的預期。根據該行季度調查，家庭通脹預期已升至至少2009年以來最高水平。美伊達成的初步停火協議有望重開霍爾木茲海峽並壓低油價。由於英國高度依賴進口天然氣，如果協議能夠維持，將對英國有利。不過行長貝利在宣告中說：“無論未來情況如何，過去四個月較高的能源價格已經意味著部分通脹壓力正在形成過程中。”英國央行預計，今年第四季度通脹率將升至3.25%以上，高於5月的2.8%，但低於4月在三種主要情景中兩種情景下預測的3.6%至3.7%。對經濟增長的看法也略微更加樂觀，預計經濟潛在增速為每季度0.2%，高於上一輪預測中的0.1%。
 
 ---
 
@@ -21389,125 +21491,5 @@ The Federal Reserve said the FOMC will reconvene as scheduled at 9:00 a.m. on We
 ### 2026-06-17 21:05:02  #公司 #市場
 
 【港交所集團行政總裁陳翊庭：持續最佳化拓展互聯互通機制 為境外投資者提供更豐富的投資選擇】香港交易所集團行政總裁陳翊庭6月17日在2026陸家嘴論壇上表示，在地緣政治不確定性持續上升的背景下，全球投資者必須思考如何進行分散投資。她認為，最值得討論的是如何抓住這個機會，打造一個以中國為核心的高效互聯互通亞洲資本市場生態圈。陳翊庭說，期待與上交所持續最佳化拓展互聯互通機制，為境外投資者提供更豐富的投資選擇。據悉，港交所正更積極構建股票、衍生品、固定收益、貨幣產品、大宗商品等多元化的資產生態圈。陳翊庭認為，人民幣國際化是分散風險的剛需，固定收益和大宗商品是推動人民幣國際化的抓手。她透露，未來會積極落實香港固定收益和貨幣市場發展的路線圖，從一級市場、二級市場兩方面著手。“期待人民幣國債期貨在香港儘早落地，為境外投資者提供更多管理人民幣利率風險的工具。”
-
----
-
-### 2026-06-17 21:04:50  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-Chile's central bank raised its 2027 average copper price forecast to $5.20 per lb from $5.10 previously.
-
----
-
-### 2026-06-17 21:04:37  #央行 #國際
-
-美聯儲宣告：聯邦公開市場委員會會議已於週三上午 9 時如期復會。
-
----
-
-### 2026-06-17 21:04:37  #MKT News #Copper #Impact bullish
-
-Chilean central bank projects average copper price of $5.8 per lb in 2026, up from a prior estimate of $5.4 per lb.
-
----
-
-### 2026-06-17 21:04:24  #MKT News
-
-G7 leaders will initially focus on lithium and nickel as priority critical minerals, aiming to avoid undermining competitiveness or imposing excessive cost burdens.
-
----
-
-### 2026-06-17 21:04:21  #央行 #其他
-
-智利央行預計2026年銅均價為每磅5.8美元，此前預估為每磅5.4美元。
-
----
-
-### 2026-06-17 21:04:15  #焦點 #國際
-
-據訊息人士透露，俄羅斯計劃於6月開始透過海運進口汽油，以緩解國內短缺。
-
----
-
-### 2026-06-17 21:04:07  #央行 #公司
-
-七國集團領導人責成財長及央行行長討論人工智慧問題。
-
----
-
-### 2026-06-17 21:04:03  #MKT News #Important #Commodities #Energy
-
-Sources say Russia plans to begin importing gasoline by sea in June to ease domestic shortages.
-
----
-
-### 2026-06-17 21:04:02  #其他
-
-拉脫維亞總理：我們需要在拉脫維亞和波羅的海地區部署更多地面部隊。
-
----
-
-### 2026-06-17 21:04:01  #MKT News #Important #Commodities #Industrial Metals
-
-【SFE and LME sign hot-rolled coil futures settlement-price authorization, deepen cross-border cooperation】June 17 — Shanghai Futures Exchange and the London Metal Exchange signed a settlement-price authorization agreement for hot-rolled coil (HRC) futures at the Lujiazui Forum. The move furthers SFE’s cross-border cooperation and broader market-opening agenda, including international-specific futures and options, cross-border settlement-price authorizations, QFI access, trading-platform internationalization and exploration of cross-border delivery. SFE’s HRC contract is the world’s largest plate/coils futures product, averaging about 700k contracts traded daily and roughly 1.9m contracts in open interest, and serves increasingly as an import-price reference for Asia-Pacific, the Middle East, North Africa and South America.
-
----
-
-### 2026-06-17 21:03:52  #其他
-
-比亞迪：2026年5月15日-6月15日，比亞迪新建703座閃充站，累計建成6682座閃充站，已覆蓋全國321座城市。
-
----
-
-### 2026-06-17 21:03:21  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
-
-Latvia's prime minister said more ground forces are needed in Latvia and the Baltic region.
-
----
-
-### 2026-06-17 21:03:20  #央行 #其他
-
-智利央行預計通脹率將在2027年第二季度趨向3%的目標。
-
----
-
-### 2026-06-17 21:03:12  #央行 #其他
-
-智利央行預計2026年內需增長2.2%，較此前預估的2.4%下調。
-
----
-
-### 2026-06-17 21:03:08  #MKT News #Market Themes #AI Revolution
-
-G7 leaders tasked finance ministers and central bank governors to discuss AI-related issues.
-
----
-
-### 2026-06-17 21:02:58  #其他
-
-安哥拉8月份原油出口量將增至109萬桶/日。
-
----
-
-### 2026-06-17 21:02:56  #MKT News #Market Themes #AI Revolution #6501.T #Impact bullish
-
-Hitachi to expand cooperation with OpenAI.
-
----
-
-### 2026-06-17 21:02:50  #其他
-
-G7領導人：責成G7發展金融機構（DFI）及出口信貸機構，就關鍵礦產加強協調與合作。承諾協調行動，建立並發展必要的加工與工業能力，以實現關鍵礦產價值鏈的多元化。
-
----
-
-### 2026-06-17 21:02:45  #央行 #其他
-
-智利央行預計2026年年度通脹率為3.7%，此前預測值為3.6%。
-
----
-
-### 2026-06-17 21:02:35  #公司 #國際
-
-【微軟推出AI智慧體產品】當地時間6月16日，美國微軟公司正式釋出新的智慧體工具Copilot Cowork，同步推出全新計費規則：按使用量計費，此次定價變化的核心動因是AI 算力成本大幅攀升。與谷歌、亞馬遜企業平臺的同類競品類似，該工具接收工作指令後可自主持續執行任務，單次執行時長有時可達數小時。據微軟介紹，已有企業客戶藉助該工具在短短數小時內完成近4000份文件的比對工作；這款智慧助手還能整合郵件、內部檔案與日程表，為複雜會議籌備全套材料。 （央視財經）
 
 ---

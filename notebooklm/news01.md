@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:43:06_
-_本檔包含 3863 則快訊，約 652669 字_
+_更新時間：2026-06-21 06:11:55_
+_本檔包含 3860 則快訊，約 652988 字_
+
+---
+
+### 2026-06-21 06:10:24  #其他
+
+【剛果（金）埃博拉確診病例升至956例】新華社金沙薩6月20日電（記者史彧）剛果（金）衛生部20日釋出的疫情報告顯示，該國本輪埃博拉疫情累計確診病例升至956例，其中247例死亡。報告顯示，目前累計治癒92人，另有361名患者處於隔離或住院狀態。報告指出，該國報告疑似病例162例，其中已死亡的疑似病例47例，相關調查仍在進行。該國目前接觸者追蹤率為69.3%，低於衛生部門設定的95%目標。（新華社）
+
+---
+
+### 2026-06-21 06:09:38  #其他
+
+【德國2-1絕殺象牙海岸提前出線】北京時間6月21日，美加墨世界盃小組賽E組第二輪，德國2-1絕殺象牙海岸。
+
+---
+
+### 2026-06-21 06:08:41  #國際
+
+【民調：美國民眾相信人人皆可實現美國夢的信念正在消退】蓋洛普最新調查顯示，美國人最容易將美國夢與自由、個人權利掛鉤（佔比33%）；其次是經濟安穩與自有住房（28%）。房價、燃油、醫療、食品雜貨，各類生活成本持續走高。關稅與地緣衝突推高基礎商品價格，就連擁有帶白色柵欄的獨棟住宅這一樸素願望也愈發難以實現。越來越多美國人坦言自身經濟狀況大不如前，大量民眾擔憂找不到工作或失業；選擇結婚、生育的人數也持續走低。儘管如此，民眾心中對美國夢的嚮往並未消失，只是相信這一夢想能夠成真的信心不斷減弱。蓋洛普本次民調中，68%的受訪者認為自己能夠實現這一標誌性理想，較2024年同主題調研下降4個百分點。而民眾對他人能否圓夢的看法更為悲觀。當被問及美國是否人人都有機會獲得同等成功時，僅46%的人給出肯定答案，低於此前的51%。
+
+---
+
+### 2026-06-21 06:07:04  #國際
+
+市場資訊：蓋洛普一項最新民調顯示，美國人眼中的美國夢等同於自由、經濟安穩與人生成就。但如今更多美國人表示自身經濟狀況不如從前，還有數量更多的民眾擔憂就業與保崗問題。
+
+---
+
+### 2026-06-21 06:05:13  #國際
+
+半島電視臺駁斥以色列軍方為其針對記者犯下罪行而編造的虛假說辭。
+
+---
+
+### 2026-06-21 06:04:25  #國際
+
+黎巴嫩外交部：以色列空襲東部和南部地區，造成7人死亡。
+
+---
+
+### 2026-06-21 06:00:15  #其他
+
+【媒體報道稱英國首相斯塔默準備卸任，官方訊息人士則表示其仍專注履職】英國《觀察家報》稱，首相基爾·斯塔默預計將於週一宣佈辭職並公佈離任時間表；但一名政府內部訊息人士表示，斯塔默當下仍專注於治國理政工作。數月以來，斯塔默的首相地位本就持續承壓，局勢在週五急劇惡化：其競爭對手安迪·伯納姆拿下議會一席，由此具備發起正式黨首挑戰的資格。《觀察家報》報道稱，斯塔默正在契克斯鄉間官邸與妻子商議此事，待商議後做出最終決定；工黨高層普遍預計，他最早會在週一就自身去留髮布明確宣告。不過一名政府訊息人士稱，斯塔默始終專注本職工作，並援引他此前表達相同立場的公開表態佐證。這位英國首相週五曾表態，他會直面所有針對其職位的挑戰，呼籲工黨不要因內鬥走向分裂。工黨內已有超百名當選議員（約佔下議院工黨全體議員的四分之一）公開表態，希望斯塔默主動辭職或給出離任時間表。
+
+---
+
+### 2026-06-21 05:58:08  #其他
+
+中央氣象臺6月21日06時繼續釋出暴雨黃色預警。
+
+---
+
+### 2026-06-21 05:57:48  #MKT News #Market Regions #Europe & UK
+
+【Observer says Starmer may announce resignation timetable next Monday; government source says he remains focused on governing】The Observer reports Prime Minister Starmer is expected to announce his resignation and a departure timetable next Monday after months of pressure that intensified on Friday when rival Andy Burnham won a parliamentary seat, enabling a formal leadership challenge. A government source said Starmer remains focused on governing; he is at Chequers discussing options and has not made a final decision, though several senior Labour figures expect a clear statement as early as Monday. More than 100 Labour MPs—roughly a quarter of Labour’s Commons bench—have publicly called for his resignation or for a set departure date.
+
+---
+
+### 2026-06-21 05:56:35  #其他
+
+倫敦消防隊：懷特城紐西蘭路發生火災，已造成三人死亡。
+
+---
+
+### 2026-06-21 05:56:12  #國際
+
+伊朗農業部長：戰爭爆發以來，本國戰略儲備糧食一公斤都未動用。得益於降雨量大幅增加，今年伊朗多數農民收入實現顯著增長。
+
+---
+
+### 2026-06-21 05:55:14  #公司
+
+糖果製造商瑪氏公司將於8月推出不含人工色素版本的M&M巧克力豆，但這款袋裝巧克力將少兩種標誌性顏色：棕色與藍色。
+
+---
+
+### 2026-06-21 05:48:00  #MKT News #WTI #Impact bullish #Brent
+
+【Former U.S. diplomat: commercial shipping through Strait of Hormuz will fall but not halt】Former U.S. ambassador to Oman Richard Schmierer said President Trump's recent comments on the Strait of Hormuz, including a 60‑day reference, may be intended to shift attention from current tensions. He said uncertainty persists: CENTCOM claims it can ensure safe transit while Iran warns ships not to pass or face danger, and it is unclear which side can enforce its position. Schmierer added shipowners and insurers have likely taken note; several vessels are already transiting waters near Oman's coast with apparent U.S. naval support, so commercial shipping is likely to decline but not stop.
+
+---
+
+### 2026-06-21 05:47:57  #其他
+
+【英國國王個人納稅賬單將首次對外公開】隨著英國社會各界對王室財務狀況的審查力度持續加大，白金漢宮將首次對外公佈國王的個人納稅明細。一份全新、內容詳盡的王室家庭年度財務報告將於下週釋出，與常規君主撥款報告同步對外公示，此舉旨在推動王室“現代化革新與發展”。本次披露被稱作“歷史性首次公開”，報告將完整展示國王2024至2025財年的個人納稅總額，且今後每年都會持續公示該項納稅資料。此前一直拒絕公開納稅記錄的威爾士親王，此次也將同步公佈自己的個人繳稅賬單。這份白金漢宮釋出的報告將完整羅列國王所有私人收入來源，包括各類投資收益、經營利潤、巴爾莫勒爾與桑德靈厄姆兩座私人莊園營收，以及個人儲蓄所得。蘭開斯特公國是由土地、投資專案，以及辦公、商業、工業地產構成的私人資產組合，每年為國王帶來穩定收入，上一年度該公國收益達2680萬英鎊。
 
 ---
 
@@ -23186,107 +23270,5 @@ Pound Slides Toward $1.32 as BoE Holds Rates — The British pound fell toward $
 ### 2026-06-18 19:14:09  #公司 #市場
 
 【梘下窩鋰礦用地預審有新進展！市場人士：離正式審批還有一定距離】6月18日，江西省自然資源廳釋出《用地預審與選址行政許可事項（2026年6月17日）1條》公告。公告顯示，許可江西省宜豐縣圳口裡—奉新縣梘下窩鋰礦採礦專案用地預審與選址。記者瞭解到，在工程建設專案全生命週期中，用地預審與選址意見書屬於專案立項前期、規劃落地首環節。該環節處於專案還沒立項、還沒做正式規劃設計階段，最先辦的法定證件，是專案落地的第一道關口，離正式審批還有一定距離。（期貨日報）
-
----
-
-### 2026-06-18 19:13:34  #市場
-
-凱捷股價下跌6.5%；埃森哲下調年度營收增長預測區間上限後，凱捷股價隨之下跌。
-
----
-
-### 2026-06-18 19:13:29  #市場
-
-凱捷股價下跌6.5%；埃森哲下調年度營收增長預測區間上限後，凱捷股價隨之下跌。
-
----
-
-### 2026-06-18 19:12:53  #MKT News #Important #MU.O #Impact bullish
-
-Wedbush raises Micron Technology (MU.O) PT to $1,300 from $550.
-
----
-
-### 2026-06-18 19:12:51  #公司
-
-【日聯科技：披露重大資產重組內幕資訊知情人股票買賣自查情況】日聯科技公告稱，公司擬發行股份、可轉債及支付現金購買上海菲萊測試技術有限公司100%股權並募資。自查期間為2025年10月14日至2026年6月4日，自查範圍包括公司、交易對方等相關主體及人員。自查顯示，除獨立財務顧問國泰海通相關部門有買賣，自然人陳移伯、陳建兵、黃淑芬有交易外，其他主體無買賣情況。相關主體均宣告與本次交易無關，不存在內幕交易。獨立財務顧問和國浩律師（南京）事務所認為，上述買賣行為不構成內幕交易，不會對本次交易構成實質性法律障礙。
-
----
-
-### 2026-06-18 19:12:44  #市場
-
-現貨白銀日內跌1%，現報67.14美元/盎司。
-
----
-
-### 2026-06-18 19:12:42  #其他
-
-訊息人士稱，剛果（金）採礦企業要求在7月31日截止期限前暫停執行5%員工股權政策。多個工會要求立即執行礦業股權5%的規定。
-
----
-
-### 2026-06-18 19:12:28  #MKT News #Commodities #Precious Metals
-
-Spot silver fell nearly 1.00% intraday to $67.24/oz.
-
----
-
-### 2026-06-18 19:12:19  #央行 #其他
-
-【市場分析：英國央行維持利率不變 宣告指引未發生變化】分析師Divyang Shah表示，正如市場普遍預期的那樣，英國央行在6月會議上將利率維持在3.75%不變。宣告文字傳遞出的指引沒有變化，英國央行重申，其“隨時準備在必要時採取行動”，以遏制通脹壓力。投票結果也帶來了一定程度的意外。4月會議上僅有英國央行首席經濟學家皮爾支援加息，本次會議中英國央行貨幣政策委員格林也加入支援加息陣營，兩人均投票支援加息。
-
----
-
-### 2026-06-18 19:12:14  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
-
-【Bank of England holds rate at 3.75%; guidance unchanged, two members voted for a hike】The Bank of England left the policy rate at 3.75% at its June meeting; the statement's guidance was unchanged, reiterating it stands ready to act if needed to curb inflationary pressures. The vote surprised markets: Chief Economist Pill and MPC member Greene both voted for a rate increase; in April only Pill had supported a hike.
-
----
-
-### 2026-06-18 19:12:08  #MKT News #Copper #Impact bullish
-
-Sources say Congo mining companies are seeking a postponement of enforcement of a 5% worker-shareholding requirement as the July 31 deadline approaches.
-
----
-
-### 2026-06-18 19:11:43  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #EURUSD #Impact bearish
-
-US 2-year Treasury yield rose, narrowing its spread with the 10-year to within 25 basis points.
-
----
-
-### 2026-06-18 19:11:21  #市場 #國際
-
-美國2年期國債收益率攀升至與10年期國債收益率相差不到25個基點。
-
----
-
-### 2026-06-18 19:11:08  #市場 #焦點
-
-紐約期金失守4260美元/盎司，日內跌2.77%。
-
----
-
-### 2026-06-18 19:11:08  #MKT News
-
-【Zhejiang provincial government signs strategic cooperation framework with China Aerospace Science and Technology Corporation】Zhejiang provincial government signed a strategic cooperation framework with China Aerospace Science and Technology Corporation (CASC) to deepen collaboration on space artificial intelligence, commercial space, aerospace+ emerging industries and innovation ecosystems. The agreement aims to integrate aerospace activities and industry with Zhejiang’s economy and jointly cultivate new productive forces. Zhejiang and CASC already cooperate on space technology innovation, drone R&D and manufacturing, and aerospace electronic equipment production.
-
----
-
-### 2026-06-18 19:11:02  #Trading Economics #Markets #commodity #Importance 0
-
-Platinum is down by 5% — Platinum decreased 5% to 1703.2 USD/t.oz
-
----
-
-### 2026-06-18 19:11:00  #公司
-
-阿布扎比投資辦公室（ADIO）、阿聯酋民航局（GCAA）與阿布扎比出行公司（AD Mobility）簽署合作協議，推進先進空中出行解決方案的設計、製造與部署。
-
----
-
-### 2026-06-18 19:10:36  #央行 #其他
-
-【英國央行維持利率不變 兩名委員主張加息25個基點】英國央行連續第四次會議將利率維持在3.75%不變，認為鑑於通脹壓力上升的強度尚不明確，現在加息為時過早。貨幣政策委員會以7:2的投票決定維持利率不變，符合市場普遍預期。貨幣政策委員格林和首席經濟學家皮爾主張加息25個基點。其他大多數委員基本延續了行長貝利所稱的“積極維持不變”立場。貝利認為，與市場在衝突爆發前預期降息相比，這種立場本身已構成一種有效的緊縮。皮爾和格林均表示，現在加息有助於抑制家庭對未來通脹的預期。根據該行季度調查，家庭通脹預期已升至至少2009年以來最高水平。美伊達成的初步停火協議有望重開霍爾木茲海峽並壓低油價。由於英國高度依賴進口天然氣，如果協議能夠維持，將對英國有利。不過行長貝利在宣告中說：“無論未來情況如何，過去四個月較高的能源價格已經意味著部分通脹壓力正在形成過程中。”英國央行預計，今年第四季度通脹率將升至3.25%以上，高於5月的2.8%，但低於4月在三種主要情景中兩種情景下預測的3.6%至3.7%。對經濟增長的看法也略微更加樂觀，預計經濟潛在增速為每季度0.2%，高於上一輪預測中的0.1%。
 
 ---

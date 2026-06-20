@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:43:06_
-_本檔包含 3107 則快訊，約 652424 字_
+_更新時間：2026-06-21 06:11:55_
+_本檔包含 3124 則快訊，約 652841 字_
+
+---
+
+### 2026-06-17 21:04:50  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+Chile's central bank raised its 2027 average copper price forecast to $5.20 per lb from $5.10 previously.
+
+---
+
+### 2026-06-17 21:04:37  #央行 #國際
+
+美聯儲宣告：聯邦公開市場委員會會議已於週三上午 9 時如期復會。
+
+---
+
+### 2026-06-17 21:04:37  #MKT News #Copper #Impact bullish
+
+Chilean central bank projects average copper price of $5.8 per lb in 2026, up from a prior estimate of $5.4 per lb.
+
+---
+
+### 2026-06-17 21:04:24  #MKT News
+
+G7 leaders will initially focus on lithium and nickel as priority critical minerals, aiming to avoid undermining competitiveness or imposing excessive cost burdens.
+
+---
+
+### 2026-06-17 21:04:21  #央行 #其他
+
+智利央行預計2026年銅均價為每磅5.8美元，此前預估為每磅5.4美元。
+
+---
+
+### 2026-06-17 21:04:15  #焦點 #國際
+
+據訊息人士透露，俄羅斯計劃於6月開始透過海運進口汽油，以緩解國內短缺。
+
+---
+
+### 2026-06-17 21:04:07  #央行 #公司
+
+七國集團領導人責成財長及央行行長討論人工智慧問題。
+
+---
+
+### 2026-06-17 21:04:03  #MKT News #Important #Commodities #Energy
+
+Sources say Russia plans to begin importing gasoline by sea in June to ease domestic shortages.
+
+---
+
+### 2026-06-17 21:04:02  #其他
+
+拉脫維亞總理：我們需要在拉脫維亞和波羅的海地區部署更多地面部隊。
+
+---
+
+### 2026-06-17 21:04:01  #MKT News #Important #Commodities #Industrial Metals
+
+【SFE and LME sign hot-rolled coil futures settlement-price authorization, deepen cross-border cooperation】June 17 — Shanghai Futures Exchange and the London Metal Exchange signed a settlement-price authorization agreement for hot-rolled coil (HRC) futures at the Lujiazui Forum. The move furthers SFE’s cross-border cooperation and broader market-opening agenda, including international-specific futures and options, cross-border settlement-price authorizations, QFI access, trading-platform internationalization and exploration of cross-border delivery. SFE’s HRC contract is the world’s largest plate/coils futures product, averaging about 700k contracts traded daily and roughly 1.9m contracts in open interest, and serves increasingly as an import-price reference for Asia-Pacific, the Middle East, North Africa and South America.
+
+---
+
+### 2026-06-17 21:03:52  #其他
+
+比亞迪：2026年5月15日-6月15日，比亞迪新建703座閃充站，累計建成6682座閃充站，已覆蓋全國321座城市。
+
+---
+
+### 2026-06-17 21:03:21  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
+
+Latvia's prime minister said more ground forces are needed in Latvia and the Baltic region.
+
+---
+
+### 2026-06-17 21:03:20  #央行 #其他
+
+智利央行預計通脹率將在2027年第二季度趨向3%的目標。
+
+---
+
+### 2026-06-17 21:03:12  #央行 #其他
+
+智利央行預計2026年內需增長2.2%，較此前預估的2.4%下調。
+
+---
+
+### 2026-06-17 21:03:08  #MKT News #Market Themes #AI Revolution
+
+G7 leaders tasked finance ministers and central bank governors to discuss AI-related issues.
+
+---
+
+### 2026-06-17 21:02:58  #其他
+
+安哥拉8月份原油出口量將增至109萬桶/日。
+
+---
+
+### 2026-06-17 21:02:56  #MKT News #Market Themes #AI Revolution #6501.T #Impact bullish
+
+Hitachi to expand cooperation with OpenAI.
+
+---
+
+### 2026-06-17 21:02:50  #其他
+
+G7領導人：責成G7發展金融機構（DFI）及出口信貸機構，就關鍵礦產加強協調與合作。承諾協調行動，建立並發展必要的加工與工業能力，以實現關鍵礦產價值鏈的多元化。
+
+---
+
+### 2026-06-17 21:02:45  #央行 #其他
+
+智利央行預計2026年年度通脹率為3.7%，此前預測值為3.6%。
+
+---
+
+### 2026-06-17 21:02:35  #公司 #國際
+
+【微軟推出AI智慧體產品】當地時間6月16日，美國微軟公司正式釋出新的智慧體工具Copilot Cowork，同步推出全新計費規則：按使用量計費，此次定價變化的核心動因是AI 算力成本大幅攀升。與谷歌、亞馬遜企業平臺的同類競品類似，該工具接收工作指令後可自主持續執行任務，單次執行時長有時可達數小時。據微軟介紹，已有企業客戶藉助該工具在短短數小時內完成近4000份文件的比對工作；這款智慧助手還能整合郵件、內部檔案與日程表，為複雜會議籌備全套材料。 （央視財經）
 
 ---
 
@@ -18761,23 +18881,5 @@ G7 leaders called for a strong, coordinated response to the Ebola outbreak.
 ### 2026-06-16 22:27:52  #國際
 
 【美媒稱美伊備忘錄細節即將公佈】據美國阿克西奧斯新聞網站6月15日報道，美伊諒解備忘錄細節將在未來24到48小時內公佈。報道還說，雙方將於本週晚些時候啟動技術性討論，解凍資金和放鬆制裁與履約掛鉤。美方計劃在下一階段談判期間保持當前美軍在該地區的軍事力量。 （CCTV國際時訊）
-
----
-
-### 2026-06-16 22:27:49  #MKT News #Market Regions #Greater China
-
-【SAMR approves National Standard Reference Data Metrology Technical Committee (MTC48)】China’s State Administration for Market Regulation has approved the establishment of the National Standard Reference Data Metrology Technical Committee (code MTC48). The committee is intended to accelerate construction of a self-reliant, authoritative and trustworthy standard reference data system and to strengthen independent assurance of key foundational datasets. MTC48 will address common foundational issues in standard reference data, promote an authoritative, interoperable technical framework, and coordinate development and application of urgently needed baseline datasets for AI, quantum technology, advanced materials, life and health, green low-carbon and advanced manufacturing to support scientific discovery, R&D, industrial development and governance modernization.
-
----
-
-### 2026-06-16 22:27:16  #宏觀
-
-【全國標準參考資料計量技術委員會獲批成立】記者今天瞭解到，市場監管總局近日批准成立全國標準參考資料計量技術委員會（代號MTC48）。這是我國加快構建自主可控、權威可信的標準參考資料體系，提升關鍵基礎資料自主保障能力的重要舉措。標準參考資料是科學研究、產業創新和質量評價中具有“標尺”作用的高質量資料。小到一個材料效能引數，大到生命健康、碳達峰碳中和、先進製造等領域的關鍵資料，都需要標準參考資料作為判斷依據。它就像資料世界裡的“標準砝碼”，用來回答資料“準不準”、結果“可不可信”、方法“能不能復現”等基礎問題。在數智化轉型的當下，可信資料基礎的重要性更加凸顯。標準參考資料不僅服務傳統計量、檢測和質量控制，也正在成為數字化、智慧化條件下的新質生產力，為人工智慧模型訓練、智慧製造過程控制、數字孿生系統建設、重大科學工程驗證等提供可信的資料基座。近年來，我國持續推進標準參考資料建設，但在部分關鍵領域仍存在高質量資料資源不足、技術體系不夠完善、自主供給能力有待提升等問題，與發達國家存在較大差距。全國標準參考資料計量技術委員會成立後，將聚焦標準參考資料建設中的基礎共性問題，推動形成權威可信、協同高效的技術體系，面向人工智慧、量子科技、先進材料、生命健康、綠色低碳、先進製造等重點領域，統籌推進一批急需、關鍵、基礎的標準參考資料建設和應用，為科學發現、技術攻關、產業發展和治理現代化提供有力可信資料支撐。（央視新聞）
-
----
-
-### 2026-06-16 22:26:14  #公司 #國際
-
-【我國成功研製出大面積全鈣鈦礦疊層光伏元件 光電轉換效率重新整理世界紀錄達26.2%】據南京大學訊息，該校教授譚海仁團隊聯合仁爍光能（蘇州）有限公司團隊成功研製出大面積全鈣鈦礦疊層光伏元件，經日本電氣安全環境研究所（JET）認證，該元件的光電轉換效率高達26.2%，重新整理了該面積等級全鈣鈦礦疊層光伏元件的世界紀錄。相關研究成果15日以快速預覽的形式線上發表於國際學術期刊《自然》。團隊此次製備出一種65平方釐米的無空穴傳輸層的隧穿複合結結構的光伏元件，該結構採用奈米晶功能層替代傳統超薄金屬複合層，並去除PEDOT:PSS空穴傳輸層，實現了介面連線層的結構重構。 (科技日報)
 
 ---

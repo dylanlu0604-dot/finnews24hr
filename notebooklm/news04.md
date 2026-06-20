@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:43:06_
-_本檔包含 3527 則快訊，約 652242 字_
+_更新時間：2026-06-21 06:11:55_
+_本檔包含 3516 則快訊，約 652721 字_
+
+---
+
+### 2026-06-16 22:27:49  #MKT News #Market Regions #Greater China
+
+【SAMR approves National Standard Reference Data Metrology Technical Committee (MTC48)】China’s State Administration for Market Regulation has approved the establishment of the National Standard Reference Data Metrology Technical Committee (code MTC48). The committee is intended to accelerate construction of a self-reliant, authoritative and trustworthy standard reference data system and to strengthen independent assurance of key foundational datasets. MTC48 will address common foundational issues in standard reference data, promote an authoritative, interoperable technical framework, and coordinate development and application of urgently needed baseline datasets for AI, quantum technology, advanced materials, life and health, green low-carbon and advanced manufacturing to support scientific discovery, R&D, industrial development and governance modernization.
+
+---
+
+### 2026-06-16 22:27:16  #宏觀
+
+【全國標準參考資料計量技術委員會獲批成立】記者今天瞭解到，市場監管總局近日批准成立全國標準參考資料計量技術委員會（代號MTC48）。這是我國加快構建自主可控、權威可信的標準參考資料體系，提升關鍵基礎資料自主保障能力的重要舉措。標準參考資料是科學研究、產業創新和質量評價中具有“標尺”作用的高質量資料。小到一個材料效能引數，大到生命健康、碳達峰碳中和、先進製造等領域的關鍵資料，都需要標準參考資料作為判斷依據。它就像資料世界裡的“標準砝碼”，用來回答資料“準不準”、結果“可不可信”、方法“能不能復現”等基礎問題。在數智化轉型的當下，可信資料基礎的重要性更加凸顯。標準參考資料不僅服務傳統計量、檢測和質量控制，也正在成為數字化、智慧化條件下的新質生產力，為人工智慧模型訓練、智慧製造過程控制、數字孿生系統建設、重大科學工程驗證等提供可信的資料基座。近年來，我國持續推進標準參考資料建設，但在部分關鍵領域仍存在高質量資料資源不足、技術體系不夠完善、自主供給能力有待提升等問題，與發達國家存在較大差距。全國標準參考資料計量技術委員會成立後，將聚焦標準參考資料建設中的基礎共性問題，推動形成權威可信、協同高效的技術體系，面向人工智慧、量子科技、先進材料、生命健康、綠色低碳、先進製造等重點領域，統籌推進一批急需、關鍵、基礎的標準參考資料建設和應用，為科學發現、技術攻關、產業發展和治理現代化提供有力可信資料支撐。（央視新聞）
+
+---
+
+### 2026-06-16 22:26:14  #公司 #國際
+
+【我國成功研製出大面積全鈣鈦礦疊層光伏元件 光電轉換效率重新整理世界紀錄達26.2%】據南京大學訊息，該校教授譚海仁團隊聯合仁爍光能（蘇州）有限公司團隊成功研製出大面積全鈣鈦礦疊層光伏元件，經日本電氣安全環境研究所（JET）認證，該元件的光電轉換效率高達26.2%，重新整理了該面積等級全鈣鈦礦疊層光伏元件的世界紀錄。相關研究成果15日以快速預覽的形式線上發表於國際學術期刊《自然》。團隊此次製備出一種65平方釐米的無空穴傳輸層的隧穿複合結結構的光伏元件，該結構採用奈米晶功能層替代傳統超薄金屬複合層，並去除PEDOT:PSS空穴傳輸層，實現了介面連線層的結構重構。 (科技日報)
 
 ---
 
@@ -21190,89 +21208,5 @@ When asked who will represent Iran at the signing ceremony, U.S. Vice President 
 ⑦繼首日上市收漲超19%後，SpaceX盤前再度漲5.5%，報169.6美元。馬斯克週日表示，SpaceX到2030年的營業收入可能達到1萬億美元。
 ⑧美股航空股盤前集體上漲，聯合大陸航空、捷藍航空、Ryanair、阿拉斯加航空漲近5%，美國航空、達美航空漲4%，西南航空漲3.6%。美伊達成協議，國際油價大跌。WTI原油期貨一度跌5%至79.15美元/桶，創4月17日以來新低；布倫特原油期貨一度跌超4%至83.33美元/桶，創3月10日以來新低。
 ⑨美光科技盤前大漲8.6%。至少有兩家投行大幅上調其目標價，其中，TD COWEN將美光科技目標價從660美元上調至1500美元；加拿大皇家銀行將美光科技目標價從525美元大幅上調至1200美元。
-
----
-
-### 2026-06-15 20:24:56  #MKT News #Market Regions #Greater China
-
-【Peng Qinghua meets U.S. Rep. Lou Correa delegation】Peng Qinghua, vice chairman of the Standing Committee of China’s National People’s Congress, met in Beijing on June 15 with U.S. Democratic Representative Lou Correa (California) and his delegation to exchange views on China‑U.S. relations, legislative exchanges and issues of mutual concern.
-
----
-
-### 2026-06-15 20:24:47  #國際 #兩會
-
-【彭清華會見美國聯邦眾議員科雷亞一行】全國人大常委會副委員長彭清華15日在京會見美國加利福尼亞州民主黨聯邦眾議員科雷亞一行，就中美關係、兩國立法機構交往及共同關心的問題深入交換意見。（新華社）
-
----
-
-### 2026-06-15 20:24:32  #MKT News
-
-HEZBOLLAH said the agreement's inclusion of Lebanon reflects Iran's commitment to ensuring a cessation of hostilities and safeguarding Lebanese interests.
-
----
-
-### 2026-06-15 20:24:23  #MKT News
-
-A statement said HEZBOLLAH welcomed a US-Iran memorandum of understanding.
-
----
-
-### 2026-06-15 20:24:13  #MKT News
-
-On Iran, Vice President Vance said the administration will monitor which concessions Tehran is willing to make.
-
----
-
-### 2026-06-15 20:24:01  #其他
-
-真主黨呼籲流離失所的黎巴嫩民眾在返回邊境村莊前等待官方指引。
-
----
-
-### 2026-06-15 20:23:59  #MKT News
-
-Vance said regarding Iran many details remain to be clarified.
-
----
-
-### 2026-06-15 20:23:44  #MKT News #Important #WTI #Impact bearish #Brent
-
-U.S. Vice President Vance said the Strait of Hormuz will remain open over the long term and is expected to permit free passage.
-
----
-
-### 2026-06-15 20:23:37  #國際
-
-真主黨表示，該協議將黎巴嫩納入其中，體現了伊朗對推動停火以及維護黎巴嫩權利的承諾。
-
----
-
-### 2026-06-15 20:23:31  #國際
-
-美國副總統萬斯：該協議賦予我們針對伊朗核計劃的執行權。如果伊朗在核問題上無法達成協議，它將沒有資源重建。
-
----
-
-### 2026-06-15 20:23:16  #國際
-
-美國副總統萬斯就伊朗問題表態：協議仍有大量細節有待梳理。
-
----
-
-### 2026-06-15 20:23:05  #其他
-
-真主黨對美伊諒解備忘錄表示歡迎。
-
----
-
-### 2026-06-15 20:22:50  #國際
-
-美國副總統萬斯就伊朗問題表示：我們預計霍爾木茲海峽將長期保持開放、通行無通行費。
-
----
-
-### 2026-06-15 20:22:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. Vice President Vance said if Iran fails to reach a nuclear agreement, it will lack the resources to rebuild.
 
 ---

@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:43:06_
-_本檔包含 3493 則快訊，約 652233 字_
+_更新時間：2026-06-21 06:11:55_
+_本檔包含 3497 則快訊，約 652743 字_
+
+---
+
+### 2026-06-15 20:24:56  #MKT News #Market Regions #Greater China
+
+【Peng Qinghua meets U.S. Rep. Lou Correa delegation】Peng Qinghua, vice chairman of the Standing Committee of China’s National People’s Congress, met in Beijing on June 15 with U.S. Democratic Representative Lou Correa (California) and his delegation to exchange views on China‑U.S. relations, legislative exchanges and issues of mutual concern.
+
+---
+
+### 2026-06-15 20:24:47  #國際 #兩會
+
+【彭清華會見美國聯邦眾議員科雷亞一行】全國人大常委會副委員長彭清華15日在京會見美國加利福尼亞州民主黨聯邦眾議員科雷亞一行，就中美關係、兩國立法機構交往及共同關心的問題深入交換意見。（新華社）
+
+---
+
+### 2026-06-15 20:24:32  #MKT News
+
+HEZBOLLAH said the agreement's inclusion of Lebanon reflects Iran's commitment to ensuring a cessation of hostilities and safeguarding Lebanese interests.
+
+---
+
+### 2026-06-15 20:24:23  #MKT News
+
+A statement said HEZBOLLAH welcomed a US-Iran memorandum of understanding.
+
+---
+
+### 2026-06-15 20:24:13  #MKT News
+
+On Iran, Vice President Vance said the administration will monitor which concessions Tehran is willing to make.
+
+---
+
+### 2026-06-15 20:24:01  #其他
+
+真主黨呼籲流離失所的黎巴嫩民眾在返回邊境村莊前等待官方指引。
+
+---
+
+### 2026-06-15 20:23:59  #MKT News
+
+Vance said regarding Iran many details remain to be clarified.
+
+---
+
+### 2026-06-15 20:23:44  #MKT News #Important #WTI #Impact bearish #Brent
+
+U.S. Vice President Vance said the Strait of Hormuz will remain open over the long term and is expected to permit free passage.
+
+---
+
+### 2026-06-15 20:23:37  #國際
+
+真主黨表示，該協議將黎巴嫩納入其中，體現了伊朗對推動停火以及維護黎巴嫩權利的承諾。
+
+---
+
+### 2026-06-15 20:23:31  #國際
+
+美國副總統萬斯：該協議賦予我們針對伊朗核計劃的執行權。如果伊朗在核問題上無法達成協議，它將沒有資源重建。
+
+---
+
+### 2026-06-15 20:23:16  #國際
+
+美國副總統萬斯就伊朗問題表態：協議仍有大量細節有待梳理。
+
+---
+
+### 2026-06-15 20:23:05  #其他
+
+真主黨對美伊諒解備忘錄表示歡迎。
+
+---
+
+### 2026-06-15 20:22:50  #國際
+
+美國副總統萬斯就伊朗問題表示：我們預計霍爾木茲海峽將長期保持開放、通行無通行費。
+
+---
+
+### 2026-06-15 20:22:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. Vice President Vance said if Iran fails to reach a nuclear agreement, it will lack the resources to rebuild.
 
 ---
 
@@ -21076,65 +21160,5 @@ Congo authorities say confirmed Ebola cases have risen to 710.
 ### 2026-06-14 06:12:08  #焦點 #國際
 
 【美伊協議何時簽署 特朗普說14日 伊朗否認】當地時間13日，美國總統特朗普在社交媒體發文說，美國和伊朗定於14日簽署協議，霍爾木茲海峽將在協議簽署後立即開放。另據巴基斯坦外交部方面公佈的訊息，美國與伊朗相關協議電子簽署儀式定於14日舉行。伊朗外交部發言人巴加埃則表示，伊美諒解備忘錄不會在14日簽署，但不排除在未來幾天內完成。（央視新聞）
-
----
-
-### 2026-06-14 06:11:03  #其他
-
-泰晤士報：英國將大幅放緩向電動汽車轉型的步伐。
-
----
-
-### 2026-06-14 06:08:55  #國際
-
-以色列記者德羅爾·巴拉扎達週六在社交平臺上披露了一份為期60天的框架安排。按照該方案，伊朗將繼續對外出售石油，霍爾木茲海峽保持通航，雙方不發生軍事衝突；同時伊朗可動用被凍結資產的款項採購人道主義物資。他還稱，60天期滿後，後續行動將完全由特朗普定奪。
-
----
-
-### 2026-06-14 06:05:56  #國際
-
-以色列國防軍表示，黎巴嫩真主黨向在黎南部行動的以軍部隊發射一枚火箭彈，以色列空軍已將其攔截，暫無人員傷亡報告。以方稱，因開展攔截行動，當地觸發了火箭彈預警。
-
----
-
-### 2026-06-14 06:02:33  #MKT News
-
-Russian Defence Ministry said its air-defence forces shot down 185 Ukrainian drones within 12 hours.
-
----
-
-### 2026-06-14 06:00:14  #國際
-
-以色列總理內塔尼亞胡主持召開緊急內閣會議，討論華盛頓與德黑蘭達成的協議。
-
----
-
-### 2026-06-14 05:58:44  #其他 #焦點
-
-中央氣象臺6月14日06時繼續釋出暴雨黃色預警。
-
----
-
-### 2026-06-14 05:57:10  #國際
-
-伊朗議員賽義德・馬哈茂德・納巴維安週六接受學生通訊社採訪時，宣讀並解讀了伊美擬議協議的內容。他表示，樂見官方對其言論作出闢謠，並願意就該協議展開辯論，同時堅稱這份協議會讓伊朗全盤受損。
-
----
-
-### 2026-06-14 05:53:32  #MKT News
-
-CNN, citing officials, reported the planned in-person signing of the U.S.-Iran agreement was canceled and will be conducted electronically due to logistical challenges and to avoid delays that could jeopardize the negotiations.
-
----
-
-### 2026-06-14 05:50:53  #其他
-
-聯合國報告稱，全球數十年來在阻止艾滋病毒或艾滋病傳播方面的進展正面臨危險，因為預防專案遭到大規模削減。
-
----
-
-### 2026-06-14 05:43:34  #其他
-
-英國：斯塔默、高市早苗將於週日會見商界領袖。
 
 ---
