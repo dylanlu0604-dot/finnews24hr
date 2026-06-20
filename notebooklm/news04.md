@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:11:30_
-_本檔包含 3515 則快訊，約 651311 字_
+_更新時間：2026-06-21 05:43:06_
+_本檔包含 3527 則快訊，約 652242 字_
+
+---
+
+### 2026-06-16 22:25:21  #MKT News
+
+SpaceX options traded over 500,000 contracts in the first hour after trading opened.
+
+---
+
+### 2026-06-16 22:23:46  #MKT News #Important #SPCX.O
+
+SpaceX (SPCX.O) shares pared gains to below 10%.
+
+---
+
+### 2026-06-16 22:23:17  #市場
+
+SpaceX 期權交易開盤首小時內，成交超 50 萬張期權合約。
+
+---
+
+### 2026-06-16 22:23:10  #市場
+
+標普500指數觸及盤中低點，下跌0.1%。
+
+---
+
+### 2026-06-16 22:23:09  #Trading Economics #Economy #Sri Lanka #Manufacturing PMI #Importance 1
+
+Sri Lanka Manufacturing Activity Rebounds in May — Sri Lanka’s Manufacturing PMI rose to 56.6 in May 2026 from 42.6 in the previous month, signaling a rebound in manufacturing activity. All sub-indices moved above the neutral threshold. Stocks of purchases increased to 52.6 from 44.0, in line with gains in new orders (52.6 vs 36.4) and production (54.6 vs 30.5). The rise in new orders and output was mainly driven by the food and beverages and textiles and wearing apparel sectors. Production also benefited from a higher number of working days in May compared to April. Meanwhile, suppliers' delivery times remained lengthened, though the index eased to 66.3 from 68.7. Respondents continued to cite the Middle East conflict as a source of operating challenges.
+
+---
+
+### 2026-06-16 22:22:50  #其他 #焦點
+
+SpaceX股價漲幅收窄至不足10%。
+
+---
+
+### 2026-06-16 22:22:23  #市場
+
+納斯達克100指數跌至當日低點，下跌0.5%。
+
+---
+
+### 2026-06-16 22:22:19  #國際
+
+市場訊息：作為華盛頓與德黑蘭之間的關鍵調解方，卡達表示，美伊會談的調解人正與伊朗探討互不侵犯條約、非國家武裝組織及核問題，這揭示了談判範圍正在不斷擴大。
+
+---
+
+### 2026-06-16 22:22:13  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Qatar told CNN that mediators between Washington and Tehran are discussing a mutual non‑aggression pact, non‑state armed groups and nuclear issues, indicating the talks' scope is expanding.
+
+---
+
+### 2026-06-16 22:22:05  #其他
+
+管理規模達 14 萬億美元的貝萊德正式推出比特幣收益增強型 ETF。
+
+---
+
+### 2026-06-16 22:20:51  #市場 #國際
+
+【美銀：裕信或憑藉德國商業銀行大獲成功】美國銀行的Antonio Reale和Rohan Datta在一份報告中表示，裕信對德國商業銀行的追求有可能帶來盈利的大幅增長，而這一前景似乎被錯誤定價。美國銀行表示，如果該義大利銀行獲得德國商業銀行50%的控制權，它將能夠把該德國銀行的業績併入自己的賬戶。他們估計，如果裕信最終獲得德國商業銀行的完全所有權，到2030年，其調整後淨利潤可能會較去年的101億歐元增至205億歐元。美國銀行將裕信股票的目標價從92歐元上調至100歐元，並稱其為歐盟銀行業中的首選股票。裕信股價上漲4.1%，至77.66歐元。
+
+---
+
+### 2026-06-16 22:19:29  #公司 #國際
+
+塞爾維亞總統：匈牙利MOL石油公司與俄羅斯天然氣石油工業公司、俄羅斯天然氣工業股份公司，就收購受美國製裁的塞爾維亞石油工業公司51.56%股權的談判，應獲得15天延期。
+
+---
+
+### 2026-06-16 22:18:52  #國際
+
+市場訊息：美伊達成旨在結束雙方衝突的框架協議後，美軍計劃從以色列本・古裡安機場撤走約 20% 的空中加油機。美軍目前在該機場部署了 72 架加油機，佔用了機場近一半的停機位。目前尚不清楚這批戰機是會撤離以色列本土，還是轉場至以色列空軍基地。
+
+---
+
+### 2026-06-16 22:17:54  #國際
+
+伊朗代理國防部長：相比此前同美國、以色列及其盟友爆發的第二場強加戰爭，伊朗在本次衝突中的作戰效率大幅提升。
+
+---
+
+### 2026-06-16 22:17:39  #國際
+
+伊朗代理國防部長：儘管在第三場強加戰爭期間國防需求持續攀升，但導彈、無人機及戰略武器的生產工作從未中斷。
+
+---
+
+### 2026-06-16 22:15:55  #MKT News #Commodities #Energy #EURUSD #Impact bullish #WTI #XAUUSD
+
+【ECB chief economist Lane: inflationary pressures still building; oil unlikely to fall sharply】ECB chief economist Lane said inflationary pressures from the Middle East conflict have not yet fully shown up and the bank must prepare. Despite a US‑Iran deal to reopen the Strait of Hormuz, oil has not returned to pre-crisis paths. Four months of elevated energy prices mean inflation is likely to exceed 3% in the transmission chain, with energy this year and next feeding indirectly into food, goods and services. Investors and economists broadly expect at least another 25bp ECB hike to about 2.5% and for inflation to remain above the 2% target for a period. Even if shipping normalizes, oil supply normalization will take months, so high energy costs are likely to increasingly pass through to consumer prices; oil is unlikely to fall sharply from around $80–81 a barrel.
 
 ---
 
@@ -21178,29 +21274,5 @@ U.S. Vice President Vance said the Strait of Hormuz will remain open over the lo
 ### 2026-06-15 20:22:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 U.S. Vice President Vance said if Iran fails to reach a nuclear agreement, it will lack the resources to rebuild.
-
----
-
-### 2026-06-15 20:22:26  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iran foreign ministry spokesman BAGHAEI said the US is obliged to fulfill its commitments under the agreement; if it fails to do so, Tehran will take reciprocal measures.
-
----
-
-### 2026-06-15 20:22:20  #MKT News #Market Regions #Greater China
-
-【Guangzhou holds private enterprise forum】Guangzhou municipal party secretary Feng Zhonghua on June 15 outlined a package of measures to boost private firms, prioritising new industrial tracks, industry‑commerce integration, large‑scale pilots of new application scenarios and support for SME digital transformation. The city will run a year‑round, citywide investment promotion drive, stage supply‑demand matching events such as Guangzhou Goods Go Global, and accelerate construction of major platforms including Nansha and the Sino‑Singapore Guangzhou Knowledge City to amplify Canton Fair spillovers and deepen private firms’ access to global value chains. Beijing plans to upgrade maritime‑land‑air transport and cloud‑data‑network infrastructure, advance the “Hundreds‑Thousands” programme, green urban projects and urban renewal/urban‑village redevelopment to improve the operating and talent‑attraction environment for businesses.
-
----
-
-### 2026-06-15 20:22:10  #其他
-
-【廣州市召開民營企業座談會】6月15日，廣州市召開民營企業座談會，市委書記馮忠華出席會議並講話。馮忠華說，將全力為廣大民營企業開闢產業發展新賽道，堅持工商並舉、兩業融合，加快構建具有國際競爭力的現代化產業體系，開展新場景大規模應用示範行動，服務中小企業數字化轉型，大力開展全年全員全域大招商，營造大中小企業協同融通發展的雨林生態。全力為廣大民營企業拓展市場發展新空間，依託廣州國際性綜合交通樞紐城市、國際商貿中心優勢，辦好“廣貨行天下”等供需對接活動，加力提速推進南沙、中新廣州知識城等重大平臺建設，釋放廣交會溢位帶動效應，助力廣大民營企業更加高效便捷集聚資源要素、更深度參與全球產業分工。全力為廣大民營企業營造宜業宜居新環境，加快完善“海陸空”“雲數網”基礎設施，深入推進“百千萬工程”和綠美廣州生態建設，積極穩步推進城市更新和城中村改造，讓優美的環境成為企業擴大經營、招引人才、拓展合作的“金字招牌”。
-
----
-
-### 2026-06-15 20:22:04  #公司 #市場 #國際
-
-【英偉達時隔五年再度發行高等級債券】英偉達時隔約五年後尋求再度發行高評級債券，延續了引領人工智慧熱潮的企業持續借債融資的浪潮。據知情人士透露，英偉達正在推介一筆分為七個期限檔次的債券發行，期限覆蓋2年至30年。最長期限債券的初步定價區間約為較美國國債收益率高90個基點。為建設滿足人工智慧快速擴張所需的算力基礎設施，包括Alphabet和亞馬遜在內的企業自去年以來已透過債務市場融資數千億美元，幾乎涉足債券市場的各個領域。投資者則持續吸收這些新增債券供給。知情人士表示，英偉達此次發債所得資金將用於一般企業用途，包括償還及再融資現有債務。英偉達上一次進入投資級債券市場是在2021年6月，當時募資規模為50億美元。
 
 ---

@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:11:30_
-_本檔包含 3100 則快訊，約 652235 字_
+_更新時間：2026-06-21 05:43:06_
+_本檔包含 3107 則快訊，約 652424 字_
+
+---
+
+### 2026-06-17 21:02:18  #Trading Economics #Economy #Serbia #Current Account #Importance 1
+
+Serbia Current Account Gap Shrinks in April — Serbia posted a current account deficit of €274 million in April 2026, narrowing from €688 million in the same month a year ago. The goods shortfall shrank to €637 million from €809 million in April 2025, while the services surplus increased to €259 million from €118 million. At the same time, the primary income gap rose to €451 million from €432 million, while the secondary income surplus went up to €555 million from €435 million.
+
+---
+
+### 2026-06-17 21:02:00  #MKT News #Market Regions #Greater China
+
+【Shangwei New Materials unit Qiyuan Robotics to open retail experience stores in Shanghai, Shenzhen】Shangwei New Materials' unit Qiyuan Robotics will open offline retail experience stores in Shanghai and Shenzhen to provide in-person demos of consumer-grade humanoid robots. Reports say the Shenzhen site — billed as the brand's first in Asia — is under fit-out and has exterior hoardings in place.
+
+---
+
+### 2026-06-17 21:01:37  #市場
+
+【上期所與LME聯合釋出熱卷期貨結算價授權專案】上海期貨交易所與倫敦金屬交易所（下稱“LME”）在陸家嘴論壇期間，舉行熱軋卷板期貨結算價授權簽約儀式。依託雙方合作，上期所向LME授權熱軋卷板期貨結算價，支援其推出以該價格為基準的期貨合約。這次合作是我國期貨交易所首次在金屬類期貨合約上與國際知名交易所合作，向境外成熟期貨市場輸出“上海價格”。協議簽署後，LME計劃於今年10月在倫敦掛牌上市“LME上海熱軋卷板合約”，結算價格以上期所熱軋卷板期貨結算價為基準，便利全球投資者直接參考和使用上海熱軋卷板期貨合約價格進行投資交易和風險管理。
+
+---
+
+### 2026-06-17 21:01:31  #其他
+
+日立擴大與OpenAI的合作，加速人工智慧驅動的現代化與網路安全。
+
+---
+
+### 2026-06-17 21:01:27  #其他
+
+ADOBE推出面向商業媒體網路的GENSTUDIO。
+
+---
+
+### 2026-06-17 21:01:20  #市場 #焦點
+
+焦煤連續主力合約日內跌2%，現報1322.00元。
+
+---
+
+### 2026-06-17 21:01:01  #國際
+
+歐盟領導人表示，歐盟與印度將在2026年底前正式簽署自由貿易協定。
+
+---
+
+### 2026-06-17 21:01:01  #MKT News #Commodities #Industrial Metals
+
+G7 leaders pledged coordinated action to build and expand processing and industrial capacity needed to diversify critical minerals value chains.
+
+---
+
+### 2026-06-17 21:00:55  #央行 #其他
+
+智利央行預計2026年國內生產總值（GDP）增長1.0%-1.75%，此前預期為增長1.5%-2.5%。
+
+---
+
+### 2026-06-17 21:00:51  #MKT News #Copper
+
+G7 leaders tasked G7 development finance institutions (DFIs) and export credit agencies to strengthen coordination and cooperation on critical minerals.
+
+---
+
+### 2026-06-17 21:00:40  #其他
+
+G7領導人：重申實現供應鏈多元化及構建集體韌性的緊迫性。將與夥伴合作減少關鍵依賴。
+
+---
+
+### 2026-06-17 21:00:21  #MKT News
+
+G7 leaders committed to coordinate, within the G7 and with partners, policy measures for technology controls.
+
+---
+
+### 2026-06-17 21:00:19  #MKT News #Important
+
+China's night session opened with main futures contracts mixed. Low-sulfur fuel oil (LU) rose >2%; SC crude, PX, PTA and styrene gained around 1%. Butadiene rubber, coking coal, caustic soda and glass fell over 1%.
+
+---
+
+### 2026-06-17 21:00:06  #MKT News
+
+G7 leaders said they will work with partners to reduce critical dependencies.
+
+---
+
+### 2026-06-17 21:00:02  #市場
+
+【國內期貨夜盤開盤】尿素連續漲3.85%，生豬連續跌2.16%，低硫燃料油連續漲1.63%，集運指數歐線期貨連續跌1.61%，丁二烯橡膠連續跌1.47%。
+
+---
+
+### 2026-06-17 20:59:58  #公司
+
+【航新科技：現有業務不涉及商業航天領域】航新科技今日在互動平臺上表示，公司現有業務不涉及商業航天領域。
+
+---
+
+### 2026-06-17 20:59:47  #國際
+
+【伊方訊息人士：彭博社所刊美伊備忘錄內容不準確】伊朗塔斯尼姆通訊社17日援引一名接近伊朗談判團隊訊息人士的話報道稱，彭博社此前釋出的美伊諒解備忘錄全文“並不準確”，存在“諸多缺陷”。 這名訊息人士說，諒解備忘錄包含14點內容，媒體此前已多次就此進行了報道，但彭博社對每點內容具體細節的描述“相當不完整”。他以備忘錄第一點及涉及霍爾木茲海峽的相關內容為例，指稱彭博社的報道明顯不準確，且其中遺漏了一些重要的關鍵詞。 該訊息人士還說，伊美雙方約定，諒解備忘錄文字將在19日正式簽署後公佈。(新華社)
+
+---
+
+### 2026-06-17 20:59:37  #公司
+
+七國集團領導人：我們對非市場政策與做法的使用以及經濟脅迫行為表示嚴重關切。
+
+---
+
+### 2026-06-17 20:59:24  #公司
+
+七國集團領導人：確認關鍵礦產價值鏈對各國經濟繁榮與安全具有戰略作用。
+
+---
+
+### 2026-06-17 20:59:12  #MKT News
+
+G7 leaders reiterated the urgency of diversifying supply chains and strengthening collective resilience.
+
+---
+
+### 2026-06-17 20:58:49  #MKT News #Commodities #Industrial Metals
+
+G7 leaders recognize the strategic role of critical mineral value chains for national economic prosperity and security.
+
+---
+
+### 2026-06-17 20:58:15  #其他
+
+【位元組跳動的AI賬本：豆包每天不足百萬收入、Seedance的ARR已達143億元】據LatePost，截至上半年，每天2億多人使用的豆包應用每天收入不足百萬元，主要來自電商佣金。位元組Seedance當前年化收入（ARR）已達20億美元（約143億元），單月超10億元——差不多抵消豆包的算力成本。Seedance絕大多數收入來自企業客戶。
+
+---
+
+### 2026-06-17 20:56:44  #國際
+
+德國外長瓦德富爾：面對俄羅斯的威脅，波蘭與德國必須在防務和安全領域開展極其密切的合作。
 
 ---
 
@@ -18641,101 +18779,5 @@ G7 leaders called for a strong, coordinated response to the Ebola outbreak.
 ### 2026-06-16 22:26:14  #公司 #國際
 
 【我國成功研製出大面積全鈣鈦礦疊層光伏元件 光電轉換效率重新整理世界紀錄達26.2%】據南京大學訊息，該校教授譚海仁團隊聯合仁爍光能（蘇州）有限公司團隊成功研製出大面積全鈣鈦礦疊層光伏元件，經日本電氣安全環境研究所（JET）認證，該元件的光電轉換效率高達26.2%，重新整理了該面積等級全鈣鈦礦疊層光伏元件的世界紀錄。相關研究成果15日以快速預覽的形式線上發表於國際學術期刊《自然》。團隊此次製備出一種65平方釐米的無空穴傳輸層的隧穿複合結結構的光伏元件，該結構採用奈米晶功能層替代傳統超薄金屬複合層，並去除PEDOT:PSS空穴傳輸層，實現了介面連線層的結構重構。 (科技日報)
-
----
-
-### 2026-06-16 22:25:21  #MKT News
-
-SpaceX options traded over 500,000 contracts in the first hour after trading opened.
-
----
-
-### 2026-06-16 22:23:46  #MKT News #Important #SPCX.O
-
-SpaceX (SPCX.O) shares pared gains to below 10%.
-
----
-
-### 2026-06-16 22:23:17  #市場
-
-SpaceX 期權交易開盤首小時內，成交超 50 萬張期權合約。
-
----
-
-### 2026-06-16 22:23:10  #市場
-
-標普500指數觸及盤中低點，下跌0.1%。
-
----
-
-### 2026-06-16 22:23:09  #Trading Economics #Economy #Sri Lanka #Manufacturing PMI #Importance 1
-
-Sri Lanka Manufacturing Activity Rebounds in May — Sri Lanka’s Manufacturing PMI rose to 56.6 in May 2026 from 42.6 in the previous month, signaling a rebound in manufacturing activity. All sub-indices moved above the neutral threshold. Stocks of purchases increased to 52.6 from 44.0, in line with gains in new orders (52.6 vs 36.4) and production (54.6 vs 30.5). The rise in new orders and output was mainly driven by the food and beverages and textiles and wearing apparel sectors. Production also benefited from a higher number of working days in May compared to April. Meanwhile, suppliers' delivery times remained lengthened, though the index eased to 66.3 from 68.7. Respondents continued to cite the Middle East conflict as a source of operating challenges.
-
----
-
-### 2026-06-16 22:22:50  #其他 #焦點
-
-SpaceX股價漲幅收窄至不足10%。
-
----
-
-### 2026-06-16 22:22:23  #市場
-
-納斯達克100指數跌至當日低點，下跌0.5%。
-
----
-
-### 2026-06-16 22:22:19  #國際
-
-市場訊息：作為華盛頓與德黑蘭之間的關鍵調解方，卡達表示，美伊會談的調解人正與伊朗探討互不侵犯條約、非國家武裝組織及核問題，這揭示了談判範圍正在不斷擴大。
-
----
-
-### 2026-06-16 22:22:13  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-Qatar told CNN that mediators between Washington and Tehran are discussing a mutual non‑aggression pact, non‑state armed groups and nuclear issues, indicating the talks' scope is expanding.
-
----
-
-### 2026-06-16 22:22:05  #其他
-
-管理規模達 14 萬億美元的貝萊德正式推出比特幣收益增強型 ETF。
-
----
-
-### 2026-06-16 22:20:51  #市場 #國際
-
-【美銀：裕信或憑藉德國商業銀行大獲成功】美國銀行的Antonio Reale和Rohan Datta在一份報告中表示，裕信對德國商業銀行的追求有可能帶來盈利的大幅增長，而這一前景似乎被錯誤定價。美國銀行表示，如果該義大利銀行獲得德國商業銀行50%的控制權，它將能夠把該德國銀行的業績併入自己的賬戶。他們估計，如果裕信最終獲得德國商業銀行的完全所有權，到2030年，其調整後淨利潤可能會較去年的101億歐元增至205億歐元。美國銀行將裕信股票的目標價從92歐元上調至100歐元，並稱其為歐盟銀行業中的首選股票。裕信股價上漲4.1%，至77.66歐元。
-
----
-
-### 2026-06-16 22:19:29  #公司 #國際
-
-塞爾維亞總統：匈牙利MOL石油公司與俄羅斯天然氣石油工業公司、俄羅斯天然氣工業股份公司，就收購受美國製裁的塞爾維亞石油工業公司51.56%股權的談判，應獲得15天延期。
-
----
-
-### 2026-06-16 22:18:52  #國際
-
-市場訊息：美伊達成旨在結束雙方衝突的框架協議後，美軍計劃從以色列本・古裡安機場撤走約 20% 的空中加油機。美軍目前在該機場部署了 72 架加油機，佔用了機場近一半的停機位。目前尚不清楚這批戰機是會撤離以色列本土，還是轉場至以色列空軍基地。
-
----
-
-### 2026-06-16 22:17:54  #國際
-
-伊朗代理國防部長：相比此前同美國、以色列及其盟友爆發的第二場強加戰爭，伊朗在本次衝突中的作戰效率大幅提升。
-
----
-
-### 2026-06-16 22:17:39  #國際
-
-伊朗代理國防部長：儘管在第三場強加戰爭期間國防需求持續攀升，但導彈、無人機及戰略武器的生產工作從未中斷。
-
----
-
-### 2026-06-16 22:15:55  #MKT News #Commodities #Energy #EURUSD #Impact bullish #WTI #XAUUSD
-
-【ECB chief economist Lane: inflationary pressures still building; oil unlikely to fall sharply】ECB chief economist Lane said inflationary pressures from the Middle East conflict have not yet fully shown up and the bank must prepare. Despite a US‑Iran deal to reopen the Strait of Hormuz, oil has not returned to pre-crisis paths. Four months of elevated energy prices mean inflation is likely to exceed 3% in the transmission chain, with energy this year and next feeding indirectly into food, goods and services. Investors and economists broadly expect at least another 25bp ECB hike to about 2.5% and for inflation to remain above the 2% target for a period. Even if shipping normalizes, oil supply normalization will take months, so high energy costs are likely to increasingly pass through to consumer prices; oil is unlikely to fall sharply from around $80–81 a barrel.
 
 ---

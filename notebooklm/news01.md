@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:11:30_
-_本檔包含 3868 則快訊，約 651717 字_
+_更新時間：2026-06-21 05:43:06_
+_本檔包含 3863 則快訊，約 652669 字_
+
+---
+
+### 2026-06-21 05:34:05  #國際
+
+【伊朗談判代表團抵達瑞士 萬斯已啟程將出席美伊談判】當地時間6月20日，巴基斯坦外交部宣佈，根據美伊諒解備忘錄的後續安排，技術層級會談將於2026年6月21日在瑞士舉行。截至目前，伊朗談判代表團已抵達瑞士蘇黎世，正在前往會談舉辦地比爾根山的途中。美國副總統萬斯也已開啟赴瑞士行程，準備參與21日的美伊技術層級談判。（央視新聞）
+
+---
+
+### 2026-06-21 05:33:37  #國際
+
+【以軍稱對加沙地帶一名哈馬斯成員進行精準空襲】當地時間20日，以色列國防軍發表宣告稱，以軍當天早些時候在加沙地帶中部實施了一次精準空襲，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）下屬武裝派別的一名成員。以軍稱，此人同時擔任半島電視臺的攝影記者。根據以軍通報，被打死的武裝人員名為艾哈邁德·薩米爾·穆罕默德·瓦沙赫。以軍在空襲中還同時打死了另外兩名哈馬斯武裝人員。宣告稱，瓦沙赫在擔任半島電視臺攝影記者同時，一直作為哈馬斯軍事部門的狙擊手進行活動。近幾個月來，他曾策劃襲擊在加沙地帶的以軍部隊及其他軍事行動，對以軍“構成直接威脅”，因此以軍透過精準空襲將其打死。以軍還提到，瓦沙赫的兄弟穆罕默德·薩米爾·穆罕默德·瓦沙赫生前是哈馬斯火箭彈和武器生產部門的關鍵成員，同樣以半島電視臺記者身份作為掩護，並已於今年4月被以軍打死。以軍表示，根據停火協議，以軍南方司令部的部隊依然部署在該地區，並將繼續採取軍事行動以“消除任何緊迫威脅”。目前哈馬斯方面暫無回應。（央視新聞）
+
+---
+
+### 2026-06-21 05:33:06  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+【Egypt, Saudi, Turkey foreign ministers and US senior adviser hold talks in Cairo】On June 20 in Cairo, the foreign ministers of Egypt, Saudi Arabia and Turkey met with a US senior presidential adviser for Arab and Middle East affairs to discuss regional security, including Iran. An Egyptian foreign ministry statement said participants urged building on the US-Iran memorandum of understanding to sustain de-escalation and promote regional stability. They also discussed developments in Libya and Gaza and exchanged views on enhanced cooperation to support security and stability in Africa.
+
+---
+
+### 2026-06-21 05:33:03  #國際
+
+【埃及、沙特、土耳其外長和美國高階官員舉行會談】當地時間20日，埃及外長阿卜杜勒阿提同沙烏地阿拉伯外交大臣費薩爾、土耳其外長費丹和美國總統阿拉伯和中東事務高階顧問（兼非洲事務高階顧問）布洛斯在開羅舉行會談，就包括伊朗問題在內的當前地區局勢交換意見。據埃及外交部宣告，會議討論了伊朗問題等一系列地區議題，強調應以美伊簽署諒解備忘錄為基礎，持續推動局勢緩和，促進地區安全與穩定。宣告還說，與會各方討論了利比亞局勢和加沙地帶事態發展，並就加強合作以支援非洲大陸安全與穩定交換看法。（新華社）
+
+---
+
+### 2026-06-21 05:26:08  #MKT News #Important
+
+Refinitiv: UK government sources said Prime Minister Starmer is focused on carrying out his duties.
+
+---
+
+### 2026-06-21 05:25:39  #MKT News
+
+【IDF says carried out precision airstrike on Hamas member in Gaza】Israel Defense Forces said on the 20th it carried out a precision airstrike in central Gaza that killed Ahmed Samir Mohamed Washa, a member of Hamas’s armed wing whom the IDF said also worked as an Al Jazeera cameraman. The IDF said two other Hamas militants were killed and alleged Washa acted as a sniper for Hamas’s military wing and had planned attacks on Israeli forces, posing a direct threat. The IDF said Washa’s brother, Mohammed Samir Mohamed Washa, a key member of Hamas’s rocket and weapons-production unit who also used an Al Jazeera journalist cover, was killed by Israeli strikes in April.
+
+---
+
+### 2026-06-21 05:19:36  #MKT News
+
+Israel Defense Forces (IDF) said Ahmed Vashakh, a former Al Jazeera photographer who served as a Hamas sniper operator, was killed in a precision strike in central Gaza and had planned multiple sniper attacks in recent months.
+
+---
+
+### 2026-06-21 05:17:37  #MKT News
+
+【U.S. Vice President Vance says Iran talks to focus on nuclear issue, Lebanon ceasefire】U.S. Vice President Vance said ahead of travel to Switzerland that talks with Iran will prioritize progress on the nuclear issue and pushing for a Lebanon ceasefire. He said a political leadership–led framework will be set at the highest level while technical teams continue on the ground, and that he expects to stay in Switzerland one to two days but hopes to advance handling of Iranian nuclear material. Vance said securing a Lebanon ceasefire is also a priority after recent Israeli missile strikes in the area and that the situation will require ongoing management; he added Iran will have its own items it wants to discuss.
+
+---
+
+### 2026-06-21 05:15:54  #其他 #焦點
+
+【英國首相斯塔默擬於週一辭職，並規劃有序卸任安排】英國《觀察家報》週六披露，首相斯塔默預計將於週一宣佈辭職，並公佈離任時間表。該報稱，斯塔默在與內閣大臣、顧問、政黨捐助者以及工會領袖溝通後，認定自己已無力繼續執掌首相一職。報道表示，斯塔默目前正在契克斯鄉間官邸與妻子商議此事，待商議完畢將作出最終決定；工黨高層普遍預計，他最早會在週一就自身去留髮布明確宣告。
+
+---
+
+### 2026-06-21 05:15:27  #MKT News #GBPUSD #Impact bearish #FTSE100 #Impact mixed #DXY #Impact bullish
+
+【UK media: Starmer may announce resignation as early as next Monday】The Observer reports Prime Minister Starmer is preparing a timetable to step down and could announce his resignation as early as next Monday. The paper says the incoming MP from a Greater Manchester by-election will be sworn in next Monday and that backers claim the newcomer has secured support from more than 201 Labour MPs to trigger a leadership challenge if Starmer does not resign—exceeding half of the parliamentary Labour party and which, they argue, would leave Starmer unable to demonstrate confidence in the House of Commons. Senior Labour figures told the paper Starmer has concluded, after discussions with cabinet ministers, Downing Street advisers, union leaders and party donors, that his hold on power is no longer secure. Party insiders say he may make a clear statement on Monday; a Labour peer close to Starmer said he appears to have accepted resignation as the remaining option.
 
 ---
 
@@ -23228,95 +23288,5 @@ Platinum is down by 5% — Platinum decreased 5% to 1703.2 USD/t.oz
 ### 2026-06-18 19:10:36  #央行 #其他
 
 【英國央行維持利率不變 兩名委員主張加息25個基點】英國央行連續第四次會議將利率維持在3.75%不變，認為鑑於通脹壓力上升的強度尚不明確，現在加息為時過早。貨幣政策委員會以7:2的投票決定維持利率不變，符合市場普遍預期。貨幣政策委員格林和首席經濟學家皮爾主張加息25個基點。其他大多數委員基本延續了行長貝利所稱的“積極維持不變”立場。貝利認為，與市場在衝突爆發前預期降息相比，這種立場本身已構成一種有效的緊縮。皮爾和格林均表示，現在加息有助於抑制家庭對未來通脹的預期。根據該行季度調查，家庭通脹預期已升至至少2009年以來最高水平。美伊達成的初步停火協議有望重開霍爾木茲海峽並壓低油價。由於英國高度依賴進口天然氣，如果協議能夠維持，將對英國有利。不過行長貝利在宣告中說：“無論未來情況如何，過去四個月較高的能源價格已經意味著部分通脹壓力正在形成過程中。”英國央行預計，今年第四季度通脹率將升至3.25%以上，高於5月的2.8%，但低於4月在三種主要情景中兩種情景下預測的3.6%至3.7%。對經濟增長的看法也略微更加樂觀，預計經濟潛在增速為每季度0.2%，高於上一輪預測中的0.1%。
-
----
-
-### 2026-06-18 19:10:31  #國際
-
-【美國中西部多地遭龍捲風襲擊】據美國有線電視新聞網今天（6月18日）報道，當地時間17日晚間，美國中西部至少五個州報告遭到龍捲風襲擊。其中伊利諾伊州受災較為嚴重，龍捲風在當地造成部分建築物損毀、電線杆折斷、道路被倒伏的樹木堵塞。報道提到，截至18日清晨，美國中西部地區已有超過8萬名使用者斷電。（CCTV國際時訊）
-
----
-
-### 2026-06-18 19:10:29  #MKT News #WTI #Impact bearish #Brent
-
-Text of US-Iran memorandum of understanding: if an MoU is reached, the US will soon issue waivers permitting Iranian oil exports.
-
----
-
-### 2026-06-18 19:10:00  #其他
-
-【李濤任河南省委常委】“河南釋出”訊息，中共中央批准：李濤同志任中共河南省委常委。
-
----
-
-### 2026-06-18 19:09:57  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish #Brent #Impact bearish #DXY
-
-【Bank of England holds Bank Rate at 3.75%; two MPC members back 25bp hike】The Bank of England's Monetary Policy Committee voted 7-2 to hold Bank Rate at 3.75% for a fourth consecutive meeting, saying the strength of rising inflationary pressure remains uncertain and a hike would be premature. Chief economist Huw Pill and member Green preferred a 25bp rise. The 7-2 split matched market expectations. Governor Bailey described the committee's stance as an active hold that, relative to market pricing that expected cuts before the conflict, amounts to effective tightening. Pill and Green said a rate rise now would help anchor household inflation expectations; the BOE's quarterly survey shows household expectations at their highest since at least 2009. A preliminary US–Iran ceasefire that could reopen the Strait of Hormuz and lower oil prices would be supportive for the gas-import-dependent UK, but Bailey warned: 'Whatever happens next, higher energy prices over the past four months have already meant some inflationary pressure is in the pipeline.' The BOE now expects Q4 inflation above 3.25% (May forecast 2.8%), still below two of April's three scenario paths at 3.6–3.7%. Potential growth was nudged up to 0.2% per quarter from 0.1% previously.
-
----
-
-### 2026-06-18 19:09:40  #市場
-
-NOVOCURE股價盤前暴跌13%，此前一項試驗未能達到主要終點。
-
----
-
-### 2026-06-18 19:09:31  #央行 #其他
-
-在英國央行做出利率決定後，歐元兌英鎊匯率從之前的0.8663升至0.8673，創下三週新高。
-
----
-
-### 2026-06-18 19:09:25  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact mixed
-
-EUR/GBP rose to 0.8673 from 0.8663 after the Bank of England's rate decision, marking a three-week high.
-
----
-
-### 2026-06-18 19:08:44  #央行 #國際
-
-【英國央行決定維持基準利率不變 英國央行陷入政策兩難】當地時間18日，英國央行英格蘭銀行宣佈將基準利率維持在3.75%不變，該利率決議符合市場普遍預期，這是英國央行今年以來連續第四次維持利率不變。 分析人士指出，英國央行當前陷入政策兩難：一方面國內經濟增長乏力，存在降息託底經濟的需求；另一方面通脹壓力頑固，又需透過加息遏制物價上行。英國央行此次選擇維持現有利率水平不變並等待更多資料指引。英國國家統計局上週公佈的資料顯示，受中東地緣衝突推高能源價格、市場通脹預期升溫雙重因素拖累，英國4月國內生產總值（GDP）環比萎縮0.1%，為2025年8月以來首次出現月度萎縮。（央視財經）
-
----
-
-### 2026-06-18 19:08:17  #其他
-
-【雲南、江蘇、上海稅務部門聯合釋出首批咖啡產業鏈稅務合規典型案例】近年來，我國咖啡產業突破單一的農業種植侷限，產業鏈覆蓋原料種植、精深加工、品牌運營、線下門店等多個領域，延伸發展出文創體驗、莊園文旅、網紅經濟等多種新業態，成為一二三產業融合發展的典型示範。據統計，2025年全國咖啡行業總規模超2181億元，咖啡消費人群超5.5億人。咖啡產業主體分散、產業鏈長、業態多元、跨境屬性強，經營主體需綜合考慮各環節稅收政策差異、增值稅進項稅額抵扣規則、收入型別核算等因素，如何確保稅務合規是產業可持續發展的必答題。為此，雲南、江蘇、上海稅務部門聯合釋出首批咖啡產業鏈稅務合規典型案例，聚焦上、中、下游咖啡產業鏈條企業合規經營做法，為廣大經營主體提供參考。
-
----
-
-### 2026-06-18 19:07:53  #公司
-
-【LG化學：以AI技術加速開發高潛力抗癌新藥物質】6月18日，LG化學宣佈與英國LabGenius Therapeutics公司達成合作，簽署了有關多種抗體抗癌新藥候選物質的共同研發及行使選擇權合作協議。LG化學將向LabGenius支付預付款和研發費用等。未來，雙方將依據共同研究結果決定是否行使後續開發及授權許可。
-
----
-
-### 2026-06-18 19:07:41  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-Text of U.S.-Iran memorandum: the U.S. and partners will jointly develop a $300 billion reconstruction plan for Iran.
-
----
-
-### 2026-06-18 19:07:26  #市場 #央行 #國際
-
-【美聯儲暗示加息後，美國短期國債收益率與美元上漲】週三美聯儲釋放出更加偏緊縮的訊號後，在歐洲交易時段，美國短期國債收益率上升，而長期國債收益率下跌。與此同時，DXY美元指數升至11周高點100.631。美聯儲維持利率不變，但宣告在價格穩定方面的措辭更加果斷。“然而，地緣政治情緒的改善可能會限制美元的漲幅，”Exness的Eric Chia在一份報告中表示。美國和伊朗簽署了一項臨時協議，旨在結束緊張局勢、重新開放霍爾木茲海峽，並放寬對伊朗石油出口的限制。Tradeweb的資料顯示，兩年期美國國債收益率上升3個基點，至4.188%，而10年期國債收益率下跌0.6個基點，至4.456%。
-
----
-
-### 2026-06-18 19:07:26  #MKT News
-
-Text of U.S.-Iran memorandum: Iran will maintain the status quo of its nuclear program.
-
----
-
-### 2026-06-18 19:07:04  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-Text of U.S.-Iran memorandum: the U.S. will not impose any new sanctions prior to a final agreement.
-
----
-
-### 2026-06-18 19:06:41  #Trading Economics #Markets #Russia #Stock Market #Importance 0
-
-Stocks in Russia Hit 17-month Low — MOEX decreased to 2450.00 Index Points, the lowest since December 2024. Over the past 4 weeks, MOEX lost 7.97%, and in the last 12 months, it decreased 11.94%.
 
 ---

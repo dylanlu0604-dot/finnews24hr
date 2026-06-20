@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:11:30_
-_本檔包含 3562 則快訊，約 651595 字_
+_更新時間：2026-06-21 05:43:06_
+_本檔包含 3554 則快訊，約 651992 字_
+
+---
+
+### 2026-06-18 19:10:31  #國際
+
+【美國中西部多地遭龍捲風襲擊】據美國有線電視新聞網今天（6月18日）報道，當地時間17日晚間，美國中西部至少五個州報告遭到龍捲風襲擊。其中伊利諾伊州受災較為嚴重，龍捲風在當地造成部分建築物損毀、電線杆折斷、道路被倒伏的樹木堵塞。報道提到，截至18日清晨，美國中西部地區已有超過8萬名使用者斷電。（CCTV國際時訊）
+
+---
+
+### 2026-06-18 19:10:29  #MKT News #WTI #Impact bearish #Brent
+
+Text of US-Iran memorandum of understanding: if an MoU is reached, the US will soon issue waivers permitting Iranian oil exports.
+
+---
+
+### 2026-06-18 19:10:00  #其他
+
+【李濤任河南省委常委】“河南釋出”訊息，中共中央批准：李濤同志任中共河南省委常委。
+
+---
+
+### 2026-06-18 19:09:57  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish #Brent #Impact bearish #DXY
+
+【Bank of England holds Bank Rate at 3.75%; two MPC members back 25bp hike】The Bank of England's Monetary Policy Committee voted 7-2 to hold Bank Rate at 3.75% for a fourth consecutive meeting, saying the strength of rising inflationary pressure remains uncertain and a hike would be premature. Chief economist Huw Pill and member Green preferred a 25bp rise. The 7-2 split matched market expectations. Governor Bailey described the committee's stance as an active hold that, relative to market pricing that expected cuts before the conflict, amounts to effective tightening. Pill and Green said a rate rise now would help anchor household inflation expectations; the BOE's quarterly survey shows household expectations at their highest since at least 2009. A preliminary US–Iran ceasefire that could reopen the Strait of Hormuz and lower oil prices would be supportive for the gas-import-dependent UK, but Bailey warned: 'Whatever happens next, higher energy prices over the past four months have already meant some inflationary pressure is in the pipeline.' The BOE now expects Q4 inflation above 3.25% (May forecast 2.8%), still below two of April's three scenario paths at 3.6–3.7%. Potential growth was nudged up to 0.2% per quarter from 0.1% previously.
+
+---
+
+### 2026-06-18 19:09:40  #市場
+
+NOVOCURE股價盤前暴跌13%，此前一項試驗未能達到主要終點。
+
+---
+
+### 2026-06-18 19:09:31  #央行 #其他
+
+在英國央行做出利率決定後，歐元兌英鎊匯率從之前的0.8663升至0.8673，創下三週新高。
+
+---
+
+### 2026-06-18 19:09:25  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact mixed
+
+EUR/GBP rose to 0.8673 from 0.8663 after the Bank of England's rate decision, marking a three-week high.
+
+---
+
+### 2026-06-18 19:08:44  #央行 #國際
+
+【英國央行決定維持基準利率不變 英國央行陷入政策兩難】當地時間18日，英國央行英格蘭銀行宣佈將基準利率維持在3.75%不變，該利率決議符合市場普遍預期，這是英國央行今年以來連續第四次維持利率不變。 分析人士指出，英國央行當前陷入政策兩難：一方面國內經濟增長乏力，存在降息託底經濟的需求；另一方面通脹壓力頑固，又需透過加息遏制物價上行。英國央行此次選擇維持現有利率水平不變並等待更多資料指引。英國國家統計局上週公佈的資料顯示，受中東地緣衝突推高能源價格、市場通脹預期升溫雙重因素拖累，英國4月國內生產總值（GDP）環比萎縮0.1%，為2025年8月以來首次出現月度萎縮。（央視財經）
+
+---
+
+### 2026-06-18 19:08:17  #其他
+
+【雲南、江蘇、上海稅務部門聯合釋出首批咖啡產業鏈稅務合規典型案例】近年來，我國咖啡產業突破單一的農業種植侷限，產業鏈覆蓋原料種植、精深加工、品牌運營、線下門店等多個領域，延伸發展出文創體驗、莊園文旅、網紅經濟等多種新業態，成為一二三產業融合發展的典型示範。據統計，2025年全國咖啡行業總規模超2181億元，咖啡消費人群超5.5億人。咖啡產業主體分散、產業鏈長、業態多元、跨境屬性強，經營主體需綜合考慮各環節稅收政策差異、增值稅進項稅額抵扣規則、收入型別核算等因素，如何確保稅務合規是產業可持續發展的必答題。為此，雲南、江蘇、上海稅務部門聯合釋出首批咖啡產業鏈稅務合規典型案例，聚焦上、中、下游咖啡產業鏈條企業合規經營做法，為廣大經營主體提供參考。
+
+---
+
+### 2026-06-18 19:07:53  #公司
+
+【LG化學：以AI技術加速開發高潛力抗癌新藥物質】6月18日，LG化學宣佈與英國LabGenius Therapeutics公司達成合作，簽署了有關多種抗體抗癌新藥候選物質的共同研發及行使選擇權合作協議。LG化學將向LabGenius支付預付款和研發費用等。未來，雙方將依據共同研究結果決定是否行使後續開發及授權許可。
+
+---
+
+### 2026-06-18 19:07:41  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+Text of U.S.-Iran memorandum: the U.S. and partners will jointly develop a $300 billion reconstruction plan for Iran.
+
+---
+
+### 2026-06-18 19:07:26  #市場 #央行 #國際
+
+【美聯儲暗示加息後，美國短期國債收益率與美元上漲】週三美聯儲釋放出更加偏緊縮的訊號後，在歐洲交易時段，美國短期國債收益率上升，而長期國債收益率下跌。與此同時，DXY美元指數升至11周高點100.631。美聯儲維持利率不變，但宣告在價格穩定方面的措辭更加果斷。“然而，地緣政治情緒的改善可能會限制美元的漲幅，”Exness的Eric Chia在一份報告中表示。美國和伊朗簽署了一項臨時協議，旨在結束緊張局勢、重新開放霍爾木茲海峽，並放寬對伊朗石油出口的限制。Tradeweb的資料顯示，兩年期美國國債收益率上升3個基點，至4.188%，而10年期國債收益率下跌0.6個基點，至4.456%。
+
+---
+
+### 2026-06-18 19:07:26  #MKT News
+
+Text of U.S.-Iran memorandum: Iran will maintain the status quo of its nuclear program.
+
+---
+
+### 2026-06-18 19:07:04  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+Text of U.S.-Iran memorandum: the U.S. will not impose any new sanctions prior to a final agreement.
+
+---
+
+### 2026-06-18 19:06:41  #Trading Economics #Markets #Russia #Stock Market #Importance 0
+
+Stocks in Russia Hit 17-month Low — MOEX decreased to 2450.00 Index Points, the lowest since December 2024. Over the past 4 weeks, MOEX lost 7.97%, and in the last 12 months, it decreased 11.94%.
 
 ---
 
@@ -21419,143 +21509,5 @@ G7領導人：責成G7發展金融機構（DFI）及出口信貸機構，就關�
 ### 2026-06-17 21:02:35  #公司 #國際
 
 【微軟推出AI智慧體產品】當地時間6月16日，美國微軟公司正式釋出新的智慧體工具Copilot Cowork，同步推出全新計費規則：按使用量計費，此次定價變化的核心動因是AI 算力成本大幅攀升。與谷歌、亞馬遜企業平臺的同類競品類似，該工具接收工作指令後可自主持續執行任務，單次執行時長有時可達數小時。據微軟介紹，已有企業客戶藉助該工具在短短數小時內完成近4000份文件的比對工作；這款智慧助手還能整合郵件、內部檔案與日程表，為複雜會議籌備全套材料。 （央視財經）
-
----
-
-### 2026-06-17 21:02:18  #Trading Economics #Economy #Serbia #Current Account #Importance 1
-
-Serbia Current Account Gap Shrinks in April — Serbia posted a current account deficit of €274 million in April 2026, narrowing from €688 million in the same month a year ago. The goods shortfall shrank to €637 million from €809 million in April 2025, while the services surplus increased to €259 million from €118 million. At the same time, the primary income gap rose to €451 million from €432 million, while the secondary income surplus went up to €555 million from €435 million.
-
----
-
-### 2026-06-17 21:02:00  #MKT News #Market Regions #Greater China
-
-【Shangwei New Materials unit Qiyuan Robotics to open retail experience stores in Shanghai, Shenzhen】Shangwei New Materials' unit Qiyuan Robotics will open offline retail experience stores in Shanghai and Shenzhen to provide in-person demos of consumer-grade humanoid robots. Reports say the Shenzhen site — billed as the brand's first in Asia — is under fit-out and has exterior hoardings in place.
-
----
-
-### 2026-06-17 21:01:37  #市場
-
-【上期所與LME聯合釋出熱卷期貨結算價授權專案】上海期貨交易所與倫敦金屬交易所（下稱“LME”）在陸家嘴論壇期間，舉行熱軋卷板期貨結算價授權簽約儀式。依託雙方合作，上期所向LME授權熱軋卷板期貨結算價，支援其推出以該價格為基準的期貨合約。這次合作是我國期貨交易所首次在金屬類期貨合約上與國際知名交易所合作，向境外成熟期貨市場輸出“上海價格”。協議簽署後，LME計劃於今年10月在倫敦掛牌上市“LME上海熱軋卷板合約”，結算價格以上期所熱軋卷板期貨結算價為基準，便利全球投資者直接參考和使用上海熱軋卷板期貨合約價格進行投資交易和風險管理。
-
----
-
-### 2026-06-17 21:01:31  #其他
-
-日立擴大與OpenAI的合作，加速人工智慧驅動的現代化與網路安全。
-
----
-
-### 2026-06-17 21:01:27  #其他
-
-ADOBE推出面向商業媒體網路的GENSTUDIO。
-
----
-
-### 2026-06-17 21:01:20  #市場 #焦點
-
-焦煤連續主力合約日內跌2%，現報1322.00元。
-
----
-
-### 2026-06-17 21:01:01  #國際
-
-歐盟領導人表示，歐盟與印度將在2026年底前正式簽署自由貿易協定。
-
----
-
-### 2026-06-17 21:01:01  #MKT News #Commodities #Industrial Metals
-
-G7 leaders pledged coordinated action to build and expand processing and industrial capacity needed to diversify critical minerals value chains.
-
----
-
-### 2026-06-17 21:00:55  #央行 #其他
-
-智利央行預計2026年國內生產總值（GDP）增長1.0%-1.75%，此前預期為增長1.5%-2.5%。
-
----
-
-### 2026-06-17 21:00:51  #MKT News #Copper
-
-G7 leaders tasked G7 development finance institutions (DFIs) and export credit agencies to strengthen coordination and cooperation on critical minerals.
-
----
-
-### 2026-06-17 21:00:40  #其他
-
-G7領導人：重申實現供應鏈多元化及構建集體韌性的緊迫性。將與夥伴合作減少關鍵依賴。
-
----
-
-### 2026-06-17 21:00:21  #MKT News
-
-G7 leaders committed to coordinate, within the G7 and with partners, policy measures for technology controls.
-
----
-
-### 2026-06-17 21:00:19  #MKT News #Important
-
-China's night session opened with main futures contracts mixed. Low-sulfur fuel oil (LU) rose >2%; SC crude, PX, PTA and styrene gained around 1%. Butadiene rubber, coking coal, caustic soda and glass fell over 1%.
-
----
-
-### 2026-06-17 21:00:06  #MKT News
-
-G7 leaders said they will work with partners to reduce critical dependencies.
-
----
-
-### 2026-06-17 21:00:02  #市場
-
-【國內期貨夜盤開盤】尿素連續漲3.85%，生豬連續跌2.16%，低硫燃料油連續漲1.63%，集運指數歐線期貨連續跌1.61%，丁二烯橡膠連續跌1.47%。
-
----
-
-### 2026-06-17 20:59:58  #公司
-
-【航新科技：現有業務不涉及商業航天領域】航新科技今日在互動平臺上表示，公司現有業務不涉及商業航天領域。
-
----
-
-### 2026-06-17 20:59:47  #國際
-
-【伊方訊息人士：彭博社所刊美伊備忘錄內容不準確】伊朗塔斯尼姆通訊社17日援引一名接近伊朗談判團隊訊息人士的話報道稱，彭博社此前釋出的美伊諒解備忘錄全文“並不準確”，存在“諸多缺陷”。 這名訊息人士說，諒解備忘錄包含14點內容，媒體此前已多次就此進行了報道，但彭博社對每點內容具體細節的描述“相當不完整”。他以備忘錄第一點及涉及霍爾木茲海峽的相關內容為例，指稱彭博社的報道明顯不準確，且其中遺漏了一些重要的關鍵詞。 該訊息人士還說，伊美雙方約定，諒解備忘錄文字將在19日正式簽署後公佈。(新華社)
-
----
-
-### 2026-06-17 20:59:37  #公司
-
-七國集團領導人：我們對非市場政策與做法的使用以及經濟脅迫行為表示嚴重關切。
-
----
-
-### 2026-06-17 20:59:24  #公司
-
-七國集團領導人：確認關鍵礦產價值鏈對各國經濟繁榮與安全具有戰略作用。
-
----
-
-### 2026-06-17 20:59:12  #MKT News
-
-G7 leaders reiterated the urgency of diversifying supply chains and strengthening collective resilience.
-
----
-
-### 2026-06-17 20:58:49  #MKT News #Commodities #Industrial Metals
-
-G7 leaders recognize the strategic role of critical mineral value chains for national economic prosperity and security.
-
----
-
-### 2026-06-17 20:58:15  #其他
-
-【位元組跳動的AI賬本：豆包每天不足百萬收入、Seedance的ARR已達143億元】據LatePost，截至上半年，每天2億多人使用的豆包應用每天收入不足百萬元，主要來自電商佣金。位元組Seedance當前年化收入（ARR）已達20億美元（約143億元），單月超10億元——差不多抵消豆包的算力成本。Seedance絕大多數收入來自企業客戶。
-
----
-
-### 2026-06-17 20:56:44  #國際
-
-德國外長瓦德富爾：面對俄羅斯的威脅，波蘭與德國必須在防務和安全領域開展極其密切的合作。
 
 ---

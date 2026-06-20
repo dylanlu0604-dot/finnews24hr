@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-21 05:11:30_
-_本檔包含 3496 則快訊，約 651421 字_
+_更新時間：2026-06-21 05:43:06_
+_本檔包含 3493 則快訊，約 652233 字_
+
+---
+
+### 2026-06-15 20:22:26  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran foreign ministry spokesman BAGHAEI said the US is obliged to fulfill its commitments under the agreement; if it fails to do so, Tehran will take reciprocal measures.
+
+---
+
+### 2026-06-15 20:22:20  #MKT News #Market Regions #Greater China
+
+【Guangzhou holds private enterprise forum】Guangzhou municipal party secretary Feng Zhonghua on June 15 outlined a package of measures to boost private firms, prioritising new industrial tracks, industry‑commerce integration, large‑scale pilots of new application scenarios and support for SME digital transformation. The city will run a year‑round, citywide investment promotion drive, stage supply‑demand matching events such as Guangzhou Goods Go Global, and accelerate construction of major platforms including Nansha and the Sino‑Singapore Guangzhou Knowledge City to amplify Canton Fair spillovers and deepen private firms’ access to global value chains. Beijing plans to upgrade maritime‑land‑air transport and cloud‑data‑network infrastructure, advance the “Hundreds‑Thousands” programme, green urban projects and urban renewal/urban‑village redevelopment to improve the operating and talent‑attraction environment for businesses.
+
+---
+
+### 2026-06-15 20:22:10  #其他
+
+【廣州市召開民營企業座談會】6月15日，廣州市召開民營企業座談會，市委書記馮忠華出席會議並講話。馮忠華說，將全力為廣大民營企業開闢產業發展新賽道，堅持工商並舉、兩業融合，加快構建具有國際競爭力的現代化產業體系，開展新場景大規模應用示範行動，服務中小企業數字化轉型，大力開展全年全員全域大招商，營造大中小企業協同融通發展的雨林生態。全力為廣大民營企業拓展市場發展新空間，依託廣州國際性綜合交通樞紐城市、國際商貿中心優勢，辦好“廣貨行天下”等供需對接活動，加力提速推進南沙、中新廣州知識城等重大平臺建設，釋放廣交會溢位帶動效應，助力廣大民營企業更加高效便捷集聚資源要素、更深度參與全球產業分工。全力為廣大民營企業營造宜業宜居新環境，加快完善“海陸空”“雲數網”基礎設施，深入推進“百千萬工程”和綠美廣州生態建設，積極穩步推進城市更新和城中村改造，讓優美的環境成為企業擴大經營、招引人才、拓展合作的“金字招牌”。
+
+---
+
+### 2026-06-15 20:22:04  #公司 #市場 #國際
+
+【英偉達時隔五年再度發行高等級債券】英偉達時隔約五年後尋求再度發行高評級債券，延續了引領人工智慧熱潮的企業持續借債融資的浪潮。據知情人士透露，英偉達正在推介一筆分為七個期限檔次的債券發行，期限覆蓋2年至30年。最長期限債券的初步定價區間約為較美國國債收益率高90個基點。為建設滿足人工智慧快速擴張所需的算力基礎設施，包括Alphabet和亞馬遜在內的企業自去年以來已透過債務市場融資數千億美元，幾乎涉足債券市場的各個領域。投資者則持續吸收這些新增債券供給。知情人士表示，英偉達此次發債所得資金將用於一般企業用途，包括償還及再融資現有債務。英偉達上一次進入投資級債券市場是在2021年6月，當時募資規模為50億美元。
 
 ---
 
@@ -21112,47 +21136,5 @@ CNN, citing officials, reported the planned in-person signing of the U.S.-Iran a
 ### 2026-06-14 05:43:34  #其他
 
 英國：斯塔默、高市早苗將於週日會見商界領袖。
-
----
-
-### 2026-06-14 05:41:34  #其他
-
-英國：日英新投資協議將帶來超過180億英鎊的經濟增長。
-
----
-
-### 2026-06-14 05:41:08  #MKT News #WTI #Impact bearish #Brent
-
-【Iran official says Strait of Hormuz would resume unrestricted commercial transit if understanding reached】Deputy chairman of Iran’s Supreme National Security Council Nabavian said on the 13th that, based on the text of a memorandum of understanding between Iran and the US he reviewed, all commercial vessels in the Strait of Hormuz would be allowed to transit without restriction.
-
----
-
-### 2026-06-14 05:37:25  #國際
-
-英國和日本有望達成新的技術合作協議，技術合作將涵蓋人工智慧、量子計算。
-
----
-
-### 2026-06-14 05:36:28  #其他
-
-卡達、科威特外長希望美伊協議儘快簽署。
-
----
-
-### 2026-06-14 05:27:23  #MKT News
-
-【Israeli forces raid multiple villages in Nablus area】Israeli forces raided several villages and towns in the northern occupied West Bank around Nablus, including Beita and Awarta, local sources reported.
-
----
-
-### 2026-06-14 05:14:01  #其他
-
-【墨西哥南部發生5.3級地震】根據墨西哥國家地震監測局的資訊，當地時間6月13日12時20分46秒，在墨西哥南部的格雷羅州聖馬爾克斯市西南方向約26公里處發生5.3級地震，震源深度約10公里。墨西哥的地震預警系統沒有啟動，首都墨西哥城有輕微震感。目前暫無人員傷亡和財產損失的報告。
-
----
-
-### 2026-06-14 05:12:27  #國際
-
-【出口中國”德國專場活動在柏林舉行】日前，由商務部主辦的“共享大市場·出口中國”德國專場活動在德國柏林舉行。活動向德國企業推介中國市場和進博會平臺，吸引更多德國優質產品和服務進入中國。德國專場是“出口中國”活動走進歐盟的第一站，來自裝備製造、醫療健康等領域的近20家企業和商會參與活動。活動承辦方之一德國工商總會表示，許多德國企業在中國長期經營，中國市場與德國企業的業務佈局深度相連。（央視新聞）
 
 ---
