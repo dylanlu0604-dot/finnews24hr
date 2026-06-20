@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-21 01:34:30",
-  "count": 17531,
+  "updated": "2026-06-21 01:38:26",
+  "count": 17533,
   "items": [
+    {
+      "id": "mkt:019ee61b-2f9f-7dd8-b0a1-25956d117dff",
+      "time": "2026-06-21 01:36:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【IDF says received ceasefire orders in Lebanon but will continue operations inside \"security zone\"】On the 20th local time, the Israel Defense Forces said it had received political-level instructions to implement a ceasefire but would continue operations inside a southern Lebanon \"security zone\", focusing on a large Hezbollah tunnel complex sheltering dozens of fighters. The IDF said it has stopped firing elsewhere in Lebanon and will keep destroying Hezbollah military infrastructure within the \"security zone\" and strike \"urgent threats\" outside it."
+    },
+    {
+      "id": "4945947",
+      "time": "2026-06-21 01:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱收到在黎停火指示 但“安全區”內行動將繼續】當地時間20日，以色列國防軍表示，以軍正繼續在黎巴嫩南部“安全區”內展開軍事行動，目前的重點是打擊一處有數十名武裝人員藏身的大型真主黨地道系統。與此同時，以軍已在黎巴嫩其他地區“停止射擊”。以軍稱，軍方已收到政治高層的指示，要求實施停火。然而以軍強調，以軍部隊仍將繼續致力於摧毀位於其“安全區”內的真主黨武裝基礎設施，並將對“安全區”之外的“緊迫威脅”實施打擊。 （央視新聞）"
+    },
+    {
+      "id": "mkt:019ee619-222b-7dd8-b0a1-1a4dc02ea71d",
+      "time": "2026-06-21 01:34:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported Pakistan's interior minister arrived in Tehran and met with Iran's interior minister, foreign minister and other officials."
+    },
+    {
+      "id": "4945946",
+      "time": "2026-06-21 01:33:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統與俄羅斯總統普京通話後，俄羅斯釋放24名菲律賓公民。"
+    },
     {
       "id": "4945945",
       "time": "2026-06-21 01:32:58",
@@ -161521,26 +161558,6 @@
         "國際"
       ],
       "text": "市場資訊：日本將赴格陵蘭島勘探開採稀土。"
-    },
-    {
-      "id": "mkt:019ec20f-8f3f-7dd8-afed-4f07c0d41456",
-      "time": "2026-06-14 01:37:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Israeli daily Yedioth Ahronoth reports Israel says it need not sign any agreement with Iran, retains the right to self‑defense, but any military action must be coordinated with the US."
-    },
-    {
-      "id": "4933989",
-      "time": "2026-06-14 01:34:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列電視臺：根據與伊朗達成的協議，以色列軍隊不會從安全區撤出。"
     }
   ]
 }
