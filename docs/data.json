@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-21 04:35:32",
-  "count": 17533,
+  "updated": "2026-06-21 04:39:33",
+  "count": 17536,
   "items": [
+    {
+      "id": "mkt:019ee6c2-30ed-7dd8-b0a1-f68806a7d2b9",
+      "time": "2026-06-21 04:39:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's negotiating delegation has arrived in Switzerland, Iranian media report."
+    },
+    {
+      "id": "4945995",
+      "time": "2026-06-21 04:38:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體稱伊朗談判代表團已抵達瑞士。"
+    },
+    {
+      "id": "mkt:019ee6c1-7335-7dd8-b0a1-efc594970ebd",
+      "time": "2026-06-21 04:38:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign media: U.S. Vice President Vance departs for Switzerland for US-Iran talks】Multiple foreign outlets reported on the 20th that U.S. Vice President Vance has departed for Switzerland to attend talks with Iranian officials."
+    },
+    {
+      "id": "4945994",
+      "time": "2026-06-21 04:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美副總統萬斯已啟程前往瑞士】當地時間6月20日，美國副總統發言人表示，副總統萬斯已從華盛頓起飛，啟程前往瑞士。（央視新聞）"
+    },
     {
       "id": "mkt:019ee6be-4886-7dd8-b0a1-e7a82919e762",
       "time": "2026-06-21 04:34:50",
@@ -161538,17 +161572,6 @@
         "US10Y"
       ],
       "text": "【Qatari prime minister and foreign minister, Kuwaiti foreign minister welcome Pakistan-mediated final text of US‑Iran peace deal; expect prompt signing】On June 13, Qatar’s prime minister and foreign minister spoke by phone with Kuwait’s foreign minister and welcomed the Pakistan-mediated final text of a US‑Iran peace agreement. Both parties said they were highly satisfied with progress, urged Washington and Tehran to sign the text promptly, and reaffirmed support for resolving outstanding issues via dialogue to bolster regional security and stability."
-    },
-    {
-      "id": "mkt:019ec2b5-4687-7dd8-afee-1ac966427fa1",
-      "time": "2026-06-14 04:38:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Israel's Home Front Command detected rockets launched from Lebanon toward Metula in northern Galilee."
     }
   ]
 }
