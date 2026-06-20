@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 03:48:03_
-_本檔包含 3883 則快訊，約 651815 字_
+_更新時間：2026-06-21 04:39:33_
+_本檔包含 3869 則快訊，約 651757 字_
+
+---
+
+### 2026-06-21 04:39:06  #MKT News #Important
+
+Iran's negotiating delegation has arrived in Switzerland, Iranian media report.
+
+---
+
+### 2026-06-21 04:38:25  #焦點 #國際
+
+伊朗媒體稱伊朗談判代表團已抵達瑞士。
+
+---
+
+### 2026-06-21 04:38:18  #MKT News
+
+【Foreign media: U.S. Vice President Vance departs for Switzerland for US-Iran talks】Multiple foreign outlets reported on the 20th that U.S. Vice President Vance has departed for Switzerland to attend talks with Iranian officials.
+
+---
+
+### 2026-06-21 04:36:52  #國際
+
+【美副總統萬斯已啟程前往瑞士】當地時間6月20日，美國副總統發言人表示，副總統萬斯已從華盛頓起飛，啟程前往瑞士。（央視新聞）
+
+---
+
+### 2026-06-21 04:34:50  #MKT News #Important
+
+U.S. Vice President Vance said he will be in Switzerland for one to two days for talks with Iran and hopes to make progress on nuclear issues and a ceasefire in Lebanon.
+
+---
+
+### 2026-06-21 04:34:25  #其他
+
+萬斯：黎巴嫩境內戰事局勢實際正在好轉。
+
+---
+
+### 2026-06-21 04:32:17  #其他 #焦點
+
+萬斯：希望能在核問題上取得進展，同時在黎巴嫩停火問題上取得進展。
+
+---
+
+### 2026-06-21 04:32:12  #國際
+
+萬斯前往瑞士參與伊朗問題談判：只能在當地停留一兩天。
+
+---
+
+### 2026-06-21 04:30:59  #其他
+
+萬斯稱美伊或將展開為期數日的談判。
+
+---
+
+### 2026-06-21 04:29:44  #MKT News
+
+US Vice President Vance has departed Washington for Switzerland, a spokesperson said.
+
+---
+
+### 2026-06-21 04:29:28  #MKT News
+
+【Vance departs for Lucerne to join US-Iran talks, US media says】US Vice President Vance left Joint Base Andrews late Saturday afternoon local time for Lucerne, Switzerland, to participate in talks with Iran, CNN reports. US special Middle East envoy Witkoff and Kushner were already on site handling technical aspects. Vance said earlier Saturday the trip’s timing was adjusted several times over the past week and called the visit a "finely coordinated process" requiring diplomatic protocol and procedure.
+
+---
+
+### 2026-06-21 04:29:24  #國際
+
+美國副總統發言人表示，美國副總統萬斯已離開華盛頓，啟程前往瑞士。
+
+---
+
+### 2026-06-21 04:25:46  #國際
+
+【萬斯啟程參加美伊談判，霍爾木茲海峽通行問題懸而未決】黎巴嫩南部戰事升級導致談判推遲後，美國副總統萬斯即將啟程前往瑞士，參與同伊朗的磋商。美伊雙方簽署的諒解備忘錄為談判鋪平道路，談判核心議題包括伊朗鈾加工活動，以及銷燬或稀釋伊朗現有高濃縮鈾庫存。伊朗再度封鎖霍爾木茲海峽航運通道，稱以色列違反停火協議；併發出警告，今後船舶穿越該水道必須獲得伊朗許可、投保強制保險。
+
+---
+
+### 2026-06-21 04:20:37  #國際
+
+萬斯將赴瑞士參與對伊朗談判。
+
+---
+
+### 2026-06-21 04:18:40  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+【U.S. has yet to formally respond to reports of Strait of Hormuz closure】As of about six hours after initial reports, the U.S. had not issued a formal response to reports that the Strait of Hormuz was closed. CENTCOM said 55 vessels transited the strait that day carrying roughly 17 million barrels of oil, and reiterated that Iran has no right to control the waterway and that the strait remains open. Vice President Pence was being interviewed when the reports broke and President Trump posted on social media without addressing the incident; the administration has not released a unified official statement.
+
+---
+
+### 2026-06-21 04:17:12  #其他
+
+英國泰晤士報：若安迪·伯納姆出任英國首相，蕾切爾·裡夫斯將失去英國財政大臣一職。
+
+---
+
+### 2026-06-21 04:15:26  #其他
+
+市場資訊：巴基斯坦將在華盛頓與德黑蘭預期舉行的高階別技術談判中發揮重要作用。
+
+---
+
+### 2026-06-21 03:57:27  #國際
+
+北美防空司令部（NORAD）釋出訊息稱，美國空軍第一航空隊一架F-16戰機今日在馬里蘭州黑格斯敦上空攔截了一架闖入貴賓臨時飛行管制區的通用航空飛機。
+
+---
+
+### 2026-06-21 03:52:06  #國際
+
+【特朗普稱通行霍爾木茲海峽將不收取任何費用】當地時間6月20日，美國總統特朗普在社交媒體平臺“真實社交”發文表示，在停火期間的60天內，霍爾木茲海峽將不收取任何通行費。60天期限結束後，也不會收取任何通行費，除非相關協議未能達成，而美國作為中東各國的“守護天使”，為它們提供服務，出於就過去、現在及未來所承擔的成本尋求補償的目的，由美國決定並徵收相關費用。根據此前伊朗官媒與美國官員釋出的美伊諒解備忘錄的內容，涉及霍爾木茲海峽通行的條款明確寫有，伊朗將盡最大努力做出安排，確保商船在60天期限內免費安全往返于波斯灣和阿曼灣之間。至於60天期限過後，霍爾木茲海峽的管理制度將透過伊朗將與阿曼進行的對話，並與其他波斯灣沿岸國家協商確立。（央視新聞）
+
+---
+
+### 2026-06-21 03:50:37  #國際
+
+【特朗普：如與伊不能達成協議 美或收取海峽通行費】美國總統特朗普20日在社交媒體威脅稱，如果與伊朗協議“不能完成”，美國或將收取霍爾木茲海峽通行費。（新華社）
+
+---
+
+### 2026-06-21 03:50:27  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+【Trump says US may charge Strait of Hormuz transit fee if Iran deal 'cannot be completed'】Trump threatened on social media on the 20th that if a deal with Iran "cannot be completed", the US may charge transit fees for passage through the Strait of Hormuz.
+
+---
+
+### 2026-06-21 03:49:38  #MKT News
+
+Pakistan's prime minister and army chief will attend technical consultations in Bürgenstock, Switzerland on June 21, the prime minister's office said.
+
+---
+
+### 2026-06-21 03:48:35  #市場
+
+巴基斯坦總理辦公室：總理兼陸軍元帥將出席6月21日在瑞士比爾根斯托克舉行的技術層面會談。
 
 ---
 
@@ -23186,230 +23324,5 @@ Bank of England Keeps Rates Steady — The Bank of England voted 7-2 to keep Ban
 ### 2026-06-18 19:03:29  #央行 #市場 #國際
 
 英國央行行長貝利：過去四個月能源價格上漲導致了一些通脹壓力，我們的職責是確保這不會轉變為持續的通脹。儘管停火，伊朗戰爭帶來的壓力仍在持續。油價下跌“令人鼓舞”，但一些通脹壓力已在醞釀中。將對更強的二輪效應跡象迅速作出回應。
-
----
-
-### 2026-06-18 19:03:16  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Bank of England Governor Bailey said the fall in oil prices is "encouraging", but some inflationary pressures are already brewing.
-
----
-
-### 2026-06-18 19:03:12  #央行 #英國央行
-
-英國央行稱，第一季度的GDP增長率約為0.2%，第二季度將保持大致這一水平。
-
----
-
-### 2026-06-18 19:03:04  #MKT News #Macro & Rates #GBPUSD #Impact bullish
-
-Bank of England Governor BAILEY said the BoE will respond swiftly to any signs that second-round inflation effects are strengthening.
-
----
-
-### 2026-06-18 19:02:51  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
-
-After the Bank of England's rate decision, GBP/USD briefly slipped 12 pips to 1.3225.
-
----
-
-### 2026-06-18 19:02:50  #央行 #其他
-
-英國央行：隨時準備採取必要措施，確保通脹迴歸2%的軌道。
-
----
-
-### 2026-06-18 19:02:41  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England says it stands ready to take necessary action at any time to ensure inflation returns to the 2% path.
-
----
-
-### 2026-06-18 19:02:35  #MKT News #GBPUSD #Impact bearish #FTSE100 #Impact mixed #XAUUSD #Impact bullish
-
-Bank of England expects restoration of energy supplies will face risks of logistical delays and that instability will persist.
-
----
-
-### 2026-06-18 19:02:23  #MKT News #Commodities #Energy #GBPUSD #Impact bullish
-
-Bank of England Governor Bailey said energy price increases over the past four months have added some inflationary pressure, and the Bank's duty is to ensure this does not become persistent inflation.
-
----
-
-### 2026-06-18 19:02:15  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact mixed #FTSE100 #Impact bullish
-
-The Bank of England lowered its inflation forecast for this year and said underlying growth is expected to be slightly faster than in April's projection.
-
----
-
-### 2026-06-18 19:02:14  #央行 #其他 #焦點
-
-英國央行下調了今年的通脹預期，預計基礎增長將略快於四月份的預測。
-
----
-
-### 2026-06-18 19:02:06  #MKT News
-
-Huaxia Nasdaq ETF to halt trading from market open on June 22, 2026 until 10:30 that day.
-
----
-
-### 2026-06-18 19:02:02  #MKT News #Commodities #Energy #GBPUSD
-
-Bank of England says energy price outlook remains uncertain.
-
----
-
-### 2026-06-18 19:01:58  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England Deputy Governor Lombardelli said he would respond swiftly to signs of strengthening second‑round inflationary effects.
-
----
-
-### 2026-06-18 19:01:51  #MKT News #GBPUSD #Impact bullish
-
-Bank of England policymaker Greene said a vote to raise interest rates is insurance against larger second-round inflation effects.
-
----
-
-### 2026-06-18 19:01:47  #央行 #其他
-
-土耳其央行貨幣政策委員會會議紀要：密切關注地緣政治發展對通脹前景的影響。
-
----
-
-### 2026-06-18 19:01:45  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Bank of England said Q4 CPI may reach slightly above 3.25%.
-
----
-
-### 2026-06-18 19:01:43  #央行 #英國央行
-
-英國央行維持“隨時準備採取行動”應對通脹的指引。
-
----
-
-### 2026-06-18 19:01:37  #央行 #國際
-
-烏克蘭至6月18日央行利率 15%，預期15%，前值15.00%。
-
----
-
-### 2026-06-18 19:01:31  #央行 #英國央行
-
-英國央行稱，委員會準備採取必要行動，確保中期內CPI通脹保持正常，實現2%的目標。
-
----
-
-### 2026-06-18 19:01:27  #市場
-
-巴基斯坦卡拉奇證券交易所 KSE-100 指數收盤上漲 0.5%，報 181580.60 點。
-
----
-
-### 2026-06-18 19:01:19  #MKT News #Important #Macro & Rates #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100 #Impact mixed
-
-Bank of England MPC member GREENE and Chief Economist Pill said they support a 25bp rate hike.
-
----
-
-### 2026-06-18 19:01:11  #央行 #國際
-
-英國央行行長貝利：儘管停火，伊朗戰爭帶來的壓力仍在持續。
-
----
-
-### 2026-06-18 19:01:11  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #WTI #XAUUSD
-
-Bank of England governor Bailey said that, despite a ceasefire, pressure from the Iran war persists.
-
----
-
-### 2026-06-18 19:01:05  #央行 #其他
-
-英國至6月18日英國央行MPC投票贊成維持利率不變 7，預期7，前值8。
-英國至6月18日英國央行MPC投票贊成加息 2，預期2，前值1。
-英國至6月18日英國央行MPC投票贊成降息 0，預期0，前值0。
-英國央行：以7-2的投票比例透過利率決議。（上次為8-1）
-
----
-
-### 2026-06-18 19:01:05  #MKT News #Important #GBPUSD #Impact bullish
-
-Bank of England says it remains ready to act on inflation.
-
----
-
-### 2026-06-18 19:00:50  #MKT News #Important
-
-Bank of England voted 7-2 to approve its interest-rate decision.
-
----
-
-### 2026-06-18 19:00:23  #央行 #其他
-
-英國央行維持其“隨時準備採取行動”應對通脹的指引。
-
----
-
-### 2026-06-18 19:00:20  #央行 #英國央行
-
-【英國央行將基準利率維持在3.75%不變】英國央行將基準利率維持在3.75%不變，符合市場預期。
-
----
-
-### 2026-06-18 19:00:17  #MKT News #Important
-
-【Bank of England holds rate at 3.75% as expected】Bank of England left its base rate unchanged at 3.75% for a fourth consecutive meeting, in line with market expectations.
-
----
-
-### 2026-06-18 19:00:16  #MKT News #GBPUSD #Impact bullish
-
-As of June 18, Bank of England MPC votes in favor of a rate rise: 2; expected 2; prior 1.
-
----
-
-### 2026-06-18 19:00:16  #MKT News #Market Regions #Europe & UK #Macro & Rates
-
-As of June 18, Bank of England's MPC votes in favor of a rate cut: 0; expected 0; prior 0.
-
----
-
-### 2026-06-18 19:00:12  #央行 #其他 #焦點
-
-英國至6月18日央行利率決定 3.75%，預期3.75%，前值3.75%。
-
----
-
-### 2026-06-18 19:00:12  #MKT News
-
-As of June 18, the Bank of England MPC voted 7 to keep policy rates unchanged; expected 7, prior 8.
-
----
-
-### 2026-06-18 19:00:08  #MKT News #Macro & Rates
-
-Ukraine central bank policy rate unchanged at 15.00% as of June 18; market expected 15.00%, prior 15.00%.
-
----
-
-### 2026-06-18 19:00:08  #MKT News #Important #Macro & Rates #Market Regions #Europe & UK
-
-Bank of England rate decision to June 18: 3.75% — unchanged and matching expectations and the prior reading (3.75%).
-
----
-
-### 2026-06-18 19:00:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | BOE Interest Rate Decision (Jun.18) | actual 3.75% | consensus 3.75% | previous 3.75%
-
----
-
-### 2026-06-18 19:00:00  #MKT News #Economic Calendar
-
-Ukraine | Benchmark Interest Rate (Jun.18) | actual 15% | consensus 15% | previous 15.00%
 
 ---

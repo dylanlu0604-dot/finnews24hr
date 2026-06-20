@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 03:48:03_
-_本檔包含 3113 則快訊，約 651582 字_
+_更新時間：2026-06-21 04:39:33_
+_本檔包含 3099 則快訊，約 651621 字_
+
+---
+
+### 2026-06-17 20:53:11  #其他
+
+【藍天PC出貨逆勢成長 全年挑戰雙位數增幅】PC受到記憶體與處理器缺料漲價影響，市調機構普遍預估2026全年出貨將會有雙位數跌幅，走利基市場的藍天，預估2026年出貨可望較2025年成長，還有機會挑戰雙位數出貨增幅。
+
+---
+
+### 2026-06-17 20:51:31  #MKT News #Market Regions #Greater China #CNH #Impact bullish #DXY #Impact bearish #EURUSD
+
+【Shenwan Hongyuan's Liu Jian: RMB allocation value accelerating】June 17, 2026 — Shenwan Hongyuan chairman Liu Jian told the Lujiazui Forum in Shanghai that Shanghai–Hong Kong financial cooperation is a strategic pivot linking China's financial market to global markets and supporting the international expansion of RMB assets. He said two core drivers will be key: first, China's industrial upgrading and stronger tech competitiveness will accelerate Chinese firms' outbound expansion, making integration of onshore and offshore markets and resources a strategic necessity; second, global currency diversification and a restructuring of asset-allocation logic create scope for deeper Shanghai–Hong Kong coordination. As global allocations move from dollar dominance toward greater diversification and long-term stability, Liu said the RMB's role as an important sovereign currency and safe asset is strengthening and its allocation value is accelerating.
+
+---
+
+### 2026-06-17 20:51:21  #其他
+
+【申萬宏源劉健：人民幣配置價值加速凸顯】6月17日，2026陸家嘴論壇在上海開幕。申萬宏源董事長劉健受邀出席並在“滬港金融協同發展賦能高水平金融開放”環節發表主題演講。劉健表示，滬港合作不是簡單的兩座城市之間的金融合作，而是中國金融市場連線全球、人民幣資產走向世界、金融強國建設提升能級的重要支點。隨著兩地金融合作機制日趨完善並邁入高質量發展新階段，未來將有兩個核心驅動力發揮關鍵作用：一方面，伴隨中國產業升級與科技創新國際競爭力的提升，中國企業出海將成為重要發展趨勢，整合境內外市場與資源逐漸成為企業的“必修課”；另一方面，全球貨幣多元化趨勢和資產配置邏輯的重構為滬港深化協同發展開闢了廣闊空間。隨著全球資產配置從美元主導向多元與長期穩健轉型，人民幣作為全球重要主權貨幣與安全資產，其配置價值加速凸顯。
+
+---
+
+### 2026-06-17 20:50:58  #MKT News #EURUSD #Impact mixed #WTI #Impact bearish #XAUUSD
+
+【Capital Economics: Euro-area inflation may have peaked】Capital Economics economist Jack Allen-Reynolds says euro-area inflation is unlikely to rise sharply further. May inflation was driven by fuel, and fuel prices should retreat in the near term; if oil and gas shipments via the Strait of Hormuz resume in coming months, energy inflation is unlikely to increase, reducing risk of second‑round effects. Food and service inflation may accelerate in H2 but is expected to have only a small impact, so overall H2 inflation should rise only modestly.
+
+---
+
+### 2026-06-17 20:50:37  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Sen. Elizabeth Warren said President Trump's actions have impeded the Fed's ability to cut interest rates.
+
+---
+
+### 2026-06-17 20:50:30  #央行 #國際
+
+沃倫：特朗普阻礙了美聯儲降息。
+
+---
+
+### 2026-06-17 20:50:16  #公司 #市場 #國際
+
+【CME集團宣佈CEO達菲明年3月轉任執行主席，總裁菲茨帕特里克接任CEO】芝商所（CME集團）6月17日宣佈，在任逾25年的董事長兼執行長特里·達菲（Terry Duffy）將於2027年3月1日起轉任執行主席，現任總裁兼首席財務官琳恩·菲茨帕特里克（Lynne Fitzpatrick）屆時將出任執行長並加入董事會。達菲於2002年出任CME集團董事長，2016年起兼任執行長。任期內，他主導公司從場內交易轉型為電子化交易，並於2002年推動CME成為美國首家上市交易所；2007年完成與芝加哥期貨交易所（CBOT）的歷史性合併，2008年收購紐約商業交易所（NYMEX）。在其領導下，CME集團日均成交量去年達2810萬手合約，市值較2002年上市時增逾8000%，超過950億美元。
+
+---
+
+### 2026-06-17 20:49:57  #MKT News #Market Regions #Greater China #CNH
+
+【Shenwan Hongyuan’s Liu Jian: Top-tier investment banks needed to build a top international financial center】June 17, 2026 — Shenwan Hongyuan chairman Liu Jian said expanding cross-border investment between Shanghai and Hong Kong will reinforce both cities’ international financial center status and accelerate China’s development as a financial power. He said building a top-tier international financial center requires top-tier investment banks and called on securities firms, as core capital-market intermediaries, to pursue four roles in parallel: organiser of cross-border integrated financial services, provider of RMB internationalisation products and services, promoter of international pricing for Chinese assets, and connector of the Belt and Road financial ecosystem. He urged securities firms to adopt a more proactive, professional role in Shanghai–Hong Kong coordination.
 
 ---
 
@@ -18683,137 +18731,5 @@ Netflix Stock Price Hits 15-week Low — Netflix shares decreased to 79.27 USD, 
 ### 2026-06-16 22:11:56  #公司 #國際
 
 【歐洲對掃雷任務心存顧慮 霍爾木茲海峽開放時間仍存變數】歐洲官員擔心，特朗普希望儘快重開霍爾木茲海峽，可能會迫使盟友派遣海軍艦艇參與行動，面臨安全風險。一名參與相關閉門討論的歐洲高階官員表示，美國與盟友之間圍繞如何清除伊朗在這條關鍵水道佈設的水雷展開的討論變得極其複雜，原因在於各方對於具體作業方式仍存在諸多不確定性。特朗普設定的嚴格時間表——本週末前完成——進一步加劇了歐洲方面的猶豫。該官員表示，執行掃雷任務的專業艦艇通常航速較慢，且缺乏防禦武器，因此容易成為攻擊目標。另一名歐洲官員表示，美國目前缺乏足夠可部署至中東的掃雷能力，因此在這一特定領域需要盟友協助。在七國集團峰會上，歐洲國家就協議具體內容提出了一系列問題，希望在承諾參與掃雷和巡邏任務前獲得明確說明。但迄今為止，他們得到的答覆並不多。
-
----
-
-### 2026-06-16 22:11:11  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Europe wary of mine‑clearing operation; Strait of Hormuz reopening timeline uncertain】European officials warn President Trump’s push to reopen the Strait of Hormuz quickly could pressure allies to deploy naval vessels for mine‑clearing and patrols, raising security risks. Closed‑door talks on removing Iranian‑laid mines are politically and operationally complex, with major uncertainty over specific tactics and responsibilities. Trump’s tight deadline — to complete operations by the end of this weekend — has heightened European hesitation. Mine‑countermeasure vessels are typically slow and lightly armed and therefore vulnerable to attack, and the US lacks sufficient deployable MCM capacity in the Middle East, officials said, creating a need for allied assistance. At the G7, European states pressed for concrete details and rules of engagement before committing to participation but have received few answers to date.
-
----
-
-### 2026-06-16 22:11:04  #其他
-
-SL Science股價在SPAC業務合併後，前一交易日暴跌42%後，今日飆升逾兩倍。
-
----
-
-### 2026-06-16 22:11:02  #MKT News #Market Themes #AI Revolution #CRM.N #Impact bullish
-
-Salesforce and Databricks to expand partnership in data and AI.
-
----
-
-### 2026-06-16 22:10:10  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish #YPF.O
-
-Argentina's YPF signed a letter of intent with Tesla to explore cooperation on fast-charging stations and energy-storage infrastructure.
-
----
-
-### 2026-06-16 22:09:50  #其他
-
-阿根廷YPF與特斯拉簽署意向書，探索包括快速充電站和儲能基礎設施在內的合作。
-
----
-
-### 2026-06-16 22:09:14  #其他
-
-【Kpler：霍爾木茲海峽重新開放可能引發通行量短暫激增】Kpler的分析師表示，隨著被困在海灣內的約118艘滿載船隻可能率先駛出，霍爾木茲海峽的重新開放可能會迎來油輪活動的早期激增，從而在最初的10-15天內引發通行量急劇但短暫的飆升。主要的不確定性在於新船隻重新進入該地區的速度有多快。Matt Wright和Panagiotis Krontiras表示，在快速回歸的情境下，如果安全擔憂完全消除，流量可能會迅速反彈，甚至短暫超過戰前水平，儘管這種結果被認為是不太可能的。在基準情境下，復甦將更加漸進，通行量將從最初的每天約15艘增加到月底的40艘，其中油輪約佔60%。
-
----
-
-### 2026-06-16 22:08:45  #國際
-
-印度航空釋出宣告，推出不含免費餐食的基礎票價產品。
-
----
-
-### 2026-06-16 22:08:21  #央行 #美聯儲
-
-美聯儲表示，聯邦公開市場委員會會議按計劃於東部時間上午10點開始。
-
----
-
-### 2026-06-16 22:08:06  #國際
-
-官方資料顯示，截至6月14日，歐盟2025/26年度玉米進口量為1722萬噸，去年同期為1908萬噸。
-
----
-
-### 2026-06-16 22:07:59  #國際
-
-官方資料顯示，截至6月14日，歐盟2025/26年度大麥出口量為861萬噸，去年同期出口量為469萬噸。
-
----
-
-### 2026-06-16 22:07:50  #國際
-
-官方資料顯示，截至6月14日，歐盟2025/26年度軟小麥出口量為2238萬噸，去年同期出口量為2094萬噸。
-
----
-
-### 2026-06-16 22:07:41  #其他
-
-民調顯示，在巴西總統大選潛在的第二輪投票中，盧拉支援率為49.3%，弗拉維奧·博索納羅為36.8%。
-
----
-
-### 2026-06-16 22:07:27  #公司 #國際
-
-古瑞瓦特股份有限公司在港交所提交IPO申請，保薦人為華泰國際。
-
----
-
-### 2026-06-16 22:06:50  #央行 #國際
-
-美聯儲表示聯邦公開市場委員會會議已按計劃於美國東部時間上午 10 時召開。
-
----
-
-### 2026-06-16 22:06:41  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve said the Federal Open Market Committee meeting will begin as scheduled at 10:00 a.m. ET.
-
----
-
-### 2026-06-16 22:06:31  #公司 #國際
-
-【必和必拓與力拓押注印度 瞄準“全球南方”新紅利】全球兩大礦業巨頭必和必拓與力拓正日益將目光投向印度，視其為全球鍊鋼業的下一個重大增長引擎。兩家礦業公司的高階商業高管均表示，印度不斷增長的需求和新增的產能，有助於抵消其他地區增速放緩的影響。
-
----
-
-### 2026-06-16 22:06:13  #市場 #國際
-
-【德意志銀行：美國新屋開工數受多戶型住宅波動打擊】德意志銀行證券美國首席經濟學家Matthew Luzzetti表示，近期新屋開工數的下滑可能是由於多戶型住宅開工數這一波動性較大的部分出現了接近創紀錄的降幅。Luzzetti告訴《華爾街日報》：“建築許可作為房地產市場一個相對更穩定的指標，其資料非常接近預期。“雖然他表示房地產市場一直未能成為該國經濟重要的增長來源，但他“也不想根據今天上午的資料就得出房地產市場正在斷崖式下跌的結論。”
-
----
-
-### 2026-06-16 22:04:57  #國際
-
-市場訊息：特朗普政府已通知北約盟國，美國將削減其劃撥至北約危機應對體系（北約部隊模式）的軍事裝備。作為配套舉措，美方正向歐洲盟國及加拿大施壓，要求其增派戰機、無人機、偵察平臺、空中加油機與海軍艦艇，填補由此產生的軍力缺口。
-
----
-
-### 2026-06-16 22:04:51  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-HSBC Holdings Stock Price Hits 22-year High — HSBC Holdings shares increased to 1417.00 GBp, the highest since May 2004. Over the past 4 weeks, HSBC Holdings gained 5.8%, and in the last 12 months, it increased 63.91%.
-
----
-
-### 2026-06-16 22:04:30  #MKT News
-
-【Switzerland says US-Iran interim pact may be signed Friday at Burgenstock】Switzerland's government said on Tuesday an interim US-Iran agreement aimed at ending the Middle East war may be signed on Friday at the Burgenstock resort in central Switzerland. The Swiss foreign ministry said it has been in close contact with the US, Iran, Pakistan and Qatar on the draft memorandum of understanding, and that, at this stage, the signing ceremony is planned for June 19 (Friday) in Burgenstock, Nidwalden; the site was proposed by Pakistani and Qatari mediators and jointly by the US and Iran.
-
----
-
-### 2026-06-16 22:03:48  #其他
-
-高知特與Rubrik擴大合作，助力企業掌控生產環境中的自主人工智慧。
-
----
-
-### 2026-06-16 22:03:07  #公司
-
-賽富時公司：面向Databricks的Data 360功能增強計劃於2026年下半年及以後推出。
 
 ---

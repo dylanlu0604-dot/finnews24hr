@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-21 03:48:03_
-_本檔包含 3492 則快訊，約 651454 字_
+_更新時間：2026-06-21 04:39:33_
+_本檔包含 3494 則快訊，約 651540 字_
+
+---
+
+### 2026-06-15 20:18:26  #市場 #國際
+
+【分析：美伊和平協議推動油價走低】在美國和伊朗達成結束中東衝突並重新開放霍爾木茲海峽通航的協議後，原油期貨跌至3月初以來的最低水平。Spartan Capital的Peter Cardillo在一份報告中表示，這一下跌“主要與投機頭寸平倉有關，這顯然是一個積極的進展“。他補充說，該海峽可能需要一個多月的時間才能恢復正常的運營狀態。“因此，一旦最初的狂熱情緒消退，我們預計現貨價格將在85美元至90美元之間徘徊，特別是由於目前供應依然緊俏。“西得州中質油下跌5.3%，報每桶80.41美元；布倫特原油下跌4.8%，報83.11美元。
+
+---
+
+### 2026-06-15 20:17:40  #央行 #公司 #市場 #國際
+
+【荷蘭國際：伊朗協議消除英國基準利率加息可能性】荷蘭國際集團的James Smith在一份報告中表示，如果美國和伊朗之間的和平協議得以維持，英國央行今年夏天應該能夠避免加息。在能源價格目前下跌的背景下，通脹率可能會保持在4%以下——這是該央行的一條重要底線。Smith說：“市場目前反映的7月份加息預期機率僅為25%，且今年僅有一次加息，低於此前最高三次的預期。“他補充說，此外，第二輪通脹效應的風險依然有限。“這最終是我們預計2027年將重新降息的原因——這是市場目前尚未反映的預期。”Smith說，不過，如果美伊協議破裂，或者未能阻止夏季能源價格再次飆升，這種情況可能會發生改變。
+
+---
+
+### 2026-06-15 20:16:55  #MKT News #Important #WTI #Impact bearish #Brent
+
+BAGHAEI said Tehran will coordinate with Oman and other countries to take measures to ensure safe passage through the Strait of Hormuz; the measures will be targeted at specific times and correspond to US commitments.
+
+---
+
+### 2026-06-15 20:16:09  #焦點 #國際
+
+伊朗外交部發言人巴加埃表示，德黑蘭將協同阿曼及其他國家採取措施，確保霍爾木茲海峽的安全通行，此舉將限定在特定時間內，並與美方自身承諾相對應。
+
+---
+
+### 2026-06-15 20:16:08  #其他
+
+【知情人士：騰訊入股阿里通義大模型前首席研究員林俊暘創立的全新人工智慧實驗室】據兩名知情投資人士透露，騰訊控股已入股由阿里巴巴通義大模型前首席研究員林俊暘創立的全新人工智慧實驗室。 知情人士表示，該實驗室首輪融資總規模達數億美元，投後估值約20億美元；其中騰訊出資2000萬美元。此輪融資由高榕資本、紅杉中國兩家本土風投領投，兩家機構各出資1億美元。 訊息人士補充稱，本輪融資剛完成交割，林俊暘團隊已著手籌備下一輪募資。
+
+---
+
+### 2026-06-15 20:15:30  #其他
+
+加拿大5月新屋開工 26.14萬戶，預期25.51萬戶，前值由27.93萬戶修正為27.84萬戶。
+
+---
+
+### 2026-06-15 20:15:25  #其他
+
+【企業持續重組，新加坡裁員人數升至近三年高位】新加坡人力部6月15日釋出報告顯示，今年1月至3月期間，新加坡裁員人數從前一季度的3690人增至3830人。這是自2023年第三季度以來的最高水平，當時共有4110名員工被裁撤。報告指出，企業重組和業務調整仍然是裁員的主要原因。與此同時，製造業、金融與保險服務業以及專業服務業等多個行業的裁員人數均有所增加。
+
+---
+
+### 2026-06-15 20:15:24  #MKT News
+
+EU High Representative for Foreign Affairs and Security Policy Kallas said broader work on a 21st round of sanctions against Russia is underway.
+
+---
+
+### 2026-06-15 20:15:17  #公司
+
+【斬斷“黑飛”黑灰產業鏈 上海警方連破3起涉無人機嚴重違法案件】近日，上海警方深挖無人機領域違法線索，先後偵破3起涉無人機嚴重違法案件，精準打擊無人機“黑飛”使用者、非法破解服務商、破解軟體製售從業者，斬斷覆蓋“研發售賣、非法破解、違規飛行”的黑灰利益鏈條。2026年3月，上海奉賢警方成功抓獲打掉一處無人機破解軟體研發售賣源頭窩點。2026年4月，上海寶山警方根據線索，成功破獲一起提供侵入、非法控制計算機資訊系統程式、工具的刑事案件，抓獲某航空科技服務有限公司法定代表人劉某。（央視新聞）
+
+---
+
+### 2026-06-15 20:15:10  #MKT News #DXY #Impact bearish
+
+Canada May housing starts 261,400 units, vs 255,100 expected; April revised to 278,400 from 279,300.
+
+---
+
+### 2026-06-15 20:15:01  #MKT News #Economic Calendar #Important
+
+Canada | Housing Starts (May) | actual 261400K | consensus 255100.00000000003K | previous 279300K
+
+---
+
+### 2026-06-15 20:14:44  #公司
+
+Roku執行長：我們認為，與福克斯合作，能讓Roku在實力雄厚的合作伙伴的支援與資源助力下，發展得更快更明智。
+
+---
+
+### 2026-06-15 20:14:30  #其他 #焦點
+
+英偉達計劃透過發行高等級債券籌資至少200億美元。
+
+---
+
+### 2026-06-15 20:14:30  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA plans to raise at least $20 billion by issuing investment-grade bonds.
+
+---
+
+### 2026-06-15 20:14:09  #MKT News
+
+The EU said its new sanctions list adds 34 individuals and 47 entities.
+
+---
+
+### 2026-06-15 20:13:52  #公司
+
+【粵萬年青：控股股東及一致行動人擬詢價轉讓6%股份】粵萬年青公告稱，控股股東廣東金歐健康科技有限公司及一致行動人廣東僑銀房地產開發有限公司擬詢價轉讓股份，總數為960萬股，佔公司總股本的6%。其中，廣東金歐轉讓640萬股，佔比4%；廣東僑銀轉讓320萬股，佔比2%，轉讓原因為自身資金需求。受讓方為具備相應定價能力和風險承受能力的機構投資者，受讓股份6個月內不得轉讓。本次轉讓價格下限不低於6月15日前20個交易日股票交易均價的70%。轉讓計劃實施存在司法凍結、市場環境變化等風險。
+
+---
+
+### 2026-06-15 20:13:42  #國際
+
+歐盟理事會批准對俄羅斯的新制裁。歐盟對支援俄羅斯軍事行動的7名個人和21個實體實施制裁措施。
+
+---
+
+### 2026-06-15 20:13:26  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #WTI
+
+EU Council approves new sanctions on Russia.
+
+---
+
+### 2026-06-15 20:13:02  #MKT News
+
+Iranian Foreign Ministry spokesman Baghaei said the US will pledge to allow Iran to access its frozen assets, but will not provide any funds to Tehran.
+
+---
+
+### 2026-06-15 20:12:50  #公司
+
+【中富通：控股子公司英博達擬出資9180萬元設立控股子公司筍殼科技】中富通公告，公司子公司深圳英博達科技有限公司計劃與浙江夢工場孵化器有限公司、福州閩侯旭杭共創產業投資合夥企業共同投資設立杭州筍殼科技有限公司。筍殼科技註冊資本1.8億元，英博達認繳9180萬元，持股51%；夢工場認繳6120萬元，持股34%；旭杭產投認繳2700萬元，持股15%。該投資已由公司董事會審議透過，尚需提交股東會審議。本次投資不構成重大資產重組，不會對公司財務及經營狀況產生不利影響。
+
+---
+
+### 2026-06-15 20:12:45  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran says deep mistrust of US; regional visits planned ahead of Switzerland signing】Iran Foreign Ministry spokesperson BAGHAEI said regional visits are on the diplomatic agenda ahead of a planned signing in Switzerland this week of a US-Iran memorandum of understanding. He said Lebanon is an important element of the MOU, that respect for Lebanon’s sovereignty and territorial integrity is part of the temporary agreement, and Iran will closely monitor developments there. Given recent attacks by Israel on Lebanon, Iran will make decisions according to specific criteria. BAGHAEI cited the 1953 US‑UK‑backed coup against Iran’s elected government as the origin of deep-rooted mistrust of the United States and said Washington has a long way to go to win Iran’s trust.
 
 ---
 
@@ -21016,119 +21142,5 @@ CNN, citing officials, reported the planned in-person signing of the U.S.-Iran a
 ### 2026-06-14 04:39:53  #MKT News #S&P500 #Impact bullish #Brent #Impact bearish #US10Y
 
 【Qatari prime minister and foreign minister, Kuwaiti foreign minister welcome Pakistan-mediated final text of US‑Iran peace deal; expect prompt signing】On June 13, Qatar’s prime minister and foreign minister spoke by phone with Kuwait’s foreign minister and welcomed the Pakistan-mediated final text of a US‑Iran peace agreement. Both parties said they were highly satisfied with progress, urged Washington and Tehran to sign the text promptly, and reaffirmed support for resolving outstanding issues via dialogue to bolster regional security and stability.
-
----
-
-### 2026-06-14 04:38:40  #MKT News #XAUUSD #Impact bullish #DXY
-
-Israel's Home Front Command detected rockets launched from Lebanon toward Metula in northern Galilee.
-
----
-
-### 2026-06-14 04:35:18  #國際
-
-以色列監測到有彈藥從黎巴嫩境內射向以色列北部地區。
-
----
-
-### 2026-06-14 04:33:07  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Israel Defense Forces continue intensive operations in southern Lebanon】On the 13th the Israel Defense Forces (IDF) said they continued intensive operations in southern Lebanon, striking Hezbollah military infrastructure and personnel. The IDF said it discovered a Hezbollah-used underground tunnel in southern Lebanon last week and killed seven fighters there. In the past 24 hours the IDF said it struck more than 70 Hezbollah military targets, including launchers and buildings used to attack Israel, and killed multiple Hezbollah personnel.
-
----
-
-### 2026-06-14 04:21:14  #國際
-
-【以軍繼續在黎巴嫩南部展開密集軍事行動】以色列國防軍13日在多份宣告中表示，以軍持續在黎巴嫩南部展開軍事行動，對黎真主黨軍事基礎設施和武裝人員實施打擊。宣告說，過去一週，以軍在黎南部發現一條真主黨使用的地下通道。以軍打死7名在這條地下通道活動的真主黨武裝人員。
-
----
-
-### 2026-06-14 04:20:47  #MKT News
-
-The Jerusalem Post, citing an Israeli official, reports that after reaching an agreement with Beirut, Israel will study a phased, conditional withdrawal from southern Lebanon.
-
----
-
-### 2026-06-14 04:20:36  #公司 #國際
-
-【美國政府無意將針對Anthropic的出口管制擴大至其他人工智慧企業】美國一名政府知情官員週六透露，白宮不會將針對Anthropic高階AI模型的出口管制措施，推廣至其他人工智慧企業。這名官員稱，此番管控的起因是Anthropic拒絕修復其近期推出的Fable 5與Claude Mythos 5模型存在的安全漏洞。Anthropic則提出異議，稱其他企業研發的AI模型也存在同類風險。該公司在週五釋出的部落格文章中表示，多款對外公開的AI模型均被查出類似漏洞。例如，OpenAI今年4月推出的最新模型GPT-5.5，在部分網路安全測試指標上與邁索斯模型表現相近。這名官員解釋，美方擔憂Fable模型（Mythos的衍生版本，專為面向廣大開發者公開使用增設了安全防護機制）仍有可能被用來探測敏感系統漏洞，同時也擔心先進人工智慧技術會流入境外敵對勢力手中。
-
----
-
-### 2026-06-14 04:17:36  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil tanker struck about 6 nautical miles east of Oman, UK Maritime Trade Operations says】UK Maritime Trade Operations said on June 13 an oil tanker about 6 nautical miles east of Oman was struck by an unidentified projectile; all crew reported safe.
-
----
-
-### 2026-06-14 04:17:35  #其他
-
-【一艘油輪在阿曼附近海域遇襲】英國海上貿易行動辦公室13日表示，一艘位於阿曼以東約6海里海域的油輪當天遭不明投射物擊中。據報，船上船員均安全。（央視新聞）
-
----
-
-### 2026-06-14 04:16:53  #公司 #國際
-
-美國政府不太可能將Anthropic出口管制擴大到其他AI公司。
-
----
-
-### 2026-06-14 04:15:34  #MKT News
-
-The Information reports the US government is unlikely to extend export controls applied to Anthropic to other AI companies.
-
----
-
-### 2026-06-14 04:14:52  #公司
-
-蘋果造車專案宣告終止兩年多後，其將佔地5500英畝的亞利桑那州測試場地出售給了自動駕駛公司Waymo。蘋果此前在這個失敗的專案上投入了100億美元，此次交易回籠資金2.2億美元。
-
----
-
-### 2026-06-14 04:12:17  #MKT News
-
-Iranian Students' News Agency reports Egyptian foreign minister spoke by phone with the U.S. special envoy for West Asia to discuss latest developments in talks between Tehran and Washington.
-
----
-
-### 2026-06-14 04:08:58  #國際
-
-埃及外交部發布宣告稱，埃及外交部長巴德爾·阿卜杜勒阿提於週六強調，埃及堅定維護巴勒斯坦人民的合法權利，尤其支援其依據1967年6月4日邊界建立獨立國家、並以東耶路撒冷為首都的訴求。
-
----
-
-### 2026-06-14 04:08:46  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Iran's Mehr news agency reported the Israeli military carried out two airstrikes on the town of Barahat in Marjayoun district, southern Lebanon.
-
----
-
-### 2026-06-14 04:08:01  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-HEZBOLLAH said it used missiles to strike two Israeli military assembly points near the southern Lebanese towns of Kfar Taibnit and Majdal Zoun.
-
----
-
-### 2026-06-14 04:07:43  #國際
-
-美國官員稱，過去一日裡，各方敲定了伊美諒解備忘錄線上簽署方案。斡旋方力求儘快敲定協議，避免節外生枝。部分斡旋人員擔憂，協議擱置越久，已有進展越容易被突發狀況打亂，雙方也可能隨之反悔。
-
----
-
-### 2026-06-14 04:04:55  #國際
-
-美國媒體分析發現，多數眾議院關鍵選區的競選陣營正陸續設立資料中心。
-
----
-
-### 2026-06-14 04:01:14  #MKT News
-
-【SpaceX debut closes smoothly, sets template for mega IPOs】SpaceX’s Nasdaq debut executed smoothly, providing a blueprint for handling the much larger OpenAI and Anthropic IPOs expected later this year. The on-exchange offering was a record size — nearly three times the prior largest U.S. exchange IPO — and brokers, the exchange and market makers processed millions of client orders without major tech disruption. Morgan Stanley acted as the stabilization agent managing the open; Citadel Securities said retail participation in the IPO auction was the highest on record. Nasdaq CEO Friedman said participants coordinated and preparation was thorough.
-
----
-
-### 2026-06-14 03:57:10  #國際
-
-【特朗普向內塔尼亞胡作出承諾 伊美協議將回應多方訴求】外交訊息人士稱，美國總統特朗普向以色列總理內塔尼亞胡保證，與伊朗達成的任何協議都將解決伊朗的核計劃、導彈專案以及真主黨問題。該訊息人士稱，特朗普明確表示，除非解決導致美伊走向戰爭的核心問題，否則不會與伊朗達成任何協議。以色列不會受任何伊美協議的約束，但需與美方協調行動，談判期間尤需如此。若雙方初步共識達成後談判破裂，且伊朗繼續開展軍事活動，那麼德黑蘭政權更迭或將被提上美國決策者的議事日程。
 
 ---

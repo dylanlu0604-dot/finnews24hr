@@ -1,7 +1,232 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 03:48:03_
-_本檔包含 3524 則快訊，約 652025 字_
+_更新時間：2026-06-21 04:39:33_
+_本檔包含 3553 則快訊，約 651853 字_
+
+---
+
+### 2026-06-18 19:03:16  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Bank of England Governor Bailey said the fall in oil prices is "encouraging", but some inflationary pressures are already brewing.
+
+---
+
+### 2026-06-18 19:03:12  #央行 #英國央行
+
+英國央行稱，第一季度的GDP增長率約為0.2%，第二季度將保持大致這一水平。
+
+---
+
+### 2026-06-18 19:03:04  #MKT News #Macro & Rates #GBPUSD #Impact bullish
+
+Bank of England Governor BAILEY said the BoE will respond swiftly to any signs that second-round inflation effects are strengthening.
+
+---
+
+### 2026-06-18 19:02:51  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+After the Bank of England's rate decision, GBP/USD briefly slipped 12 pips to 1.3225.
+
+---
+
+### 2026-06-18 19:02:50  #央行 #其他
+
+英國央行：隨時準備採取必要措施，確保通脹迴歸2%的軌道。
+
+---
+
+### 2026-06-18 19:02:41  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England says it stands ready to take necessary action at any time to ensure inflation returns to the 2% path.
+
+---
+
+### 2026-06-18 19:02:35  #MKT News #GBPUSD #Impact bearish #FTSE100 #Impact mixed #XAUUSD #Impact bullish
+
+Bank of England expects restoration of energy supplies will face risks of logistical delays and that instability will persist.
+
+---
+
+### 2026-06-18 19:02:23  #MKT News #Commodities #Energy #GBPUSD #Impact bullish
+
+Bank of England Governor Bailey said energy price increases over the past four months have added some inflationary pressure, and the Bank's duty is to ensure this does not become persistent inflation.
+
+---
+
+### 2026-06-18 19:02:15  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact mixed #FTSE100 #Impact bullish
+
+The Bank of England lowered its inflation forecast for this year and said underlying growth is expected to be slightly faster than in April's projection.
+
+---
+
+### 2026-06-18 19:02:14  #央行 #其他 #焦點
+
+英國央行下調了今年的通脹預期，預計基礎增長將略快於四月份的預測。
+
+---
+
+### 2026-06-18 19:02:06  #MKT News
+
+Huaxia Nasdaq ETF to halt trading from market open on June 22, 2026 until 10:30 that day.
+
+---
+
+### 2026-06-18 19:02:02  #MKT News #Commodities #Energy #GBPUSD
+
+Bank of England says energy price outlook remains uncertain.
+
+---
+
+### 2026-06-18 19:01:58  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England Deputy Governor Lombardelli said he would respond swiftly to signs of strengthening second‑round inflationary effects.
+
+---
+
+### 2026-06-18 19:01:51  #MKT News #GBPUSD #Impact bullish
+
+Bank of England policymaker Greene said a vote to raise interest rates is insurance against larger second-round inflation effects.
+
+---
+
+### 2026-06-18 19:01:47  #央行 #其他
+
+土耳其央行貨幣政策委員會會議紀要：密切關注地緣政治發展對通脹前景的影響。
+
+---
+
+### 2026-06-18 19:01:45  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England said Q4 CPI may reach slightly above 3.25%.
+
+---
+
+### 2026-06-18 19:01:43  #央行 #英國央行
+
+英國央行維持“隨時準備採取行動”應對通脹的指引。
+
+---
+
+### 2026-06-18 19:01:37  #央行 #國際
+
+烏克蘭至6月18日央行利率 15%，預期15%，前值15.00%。
+
+---
+
+### 2026-06-18 19:01:31  #央行 #英國央行
+
+英國央行稱，委員會準備採取必要行動，確保中期內CPI通脹保持正常，實現2%的目標。
+
+---
+
+### 2026-06-18 19:01:27  #市場
+
+巴基斯坦卡拉奇證券交易所 KSE-100 指數收盤上漲 0.5%，報 181580.60 點。
+
+---
+
+### 2026-06-18 19:01:19  #MKT News #Important #Macro & Rates #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100 #Impact mixed
+
+Bank of England MPC member GREENE and Chief Economist Pill said they support a 25bp rate hike.
+
+---
+
+### 2026-06-18 19:01:11  #央行 #國際
+
+英國央行行長貝利：儘管停火，伊朗戰爭帶來的壓力仍在持續。
+
+---
+
+### 2026-06-18 19:01:11  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #WTI #XAUUSD
+
+Bank of England governor Bailey said that, despite a ceasefire, pressure from the Iran war persists.
+
+---
+
+### 2026-06-18 19:01:05  #央行 #其他
+
+英國至6月18日英國央行MPC投票贊成維持利率不變 7，預期7，前值8。
+英國至6月18日英國央行MPC投票贊成加息 2，預期2，前值1。
+英國至6月18日英國央行MPC投票贊成降息 0，預期0，前值0。
+英國央行：以7-2的投票比例透過利率決議。（上次為8-1）
+
+---
+
+### 2026-06-18 19:01:05  #MKT News #Important #GBPUSD #Impact bullish
+
+Bank of England says it remains ready to act on inflation.
+
+---
+
+### 2026-06-18 19:00:50  #MKT News #Important
+
+Bank of England voted 7-2 to approve its interest-rate decision.
+
+---
+
+### 2026-06-18 19:00:23  #央行 #其他
+
+英國央行維持其“隨時準備採取行動”應對通脹的指引。
+
+---
+
+### 2026-06-18 19:00:20  #央行 #英國央行
+
+【英國央行將基準利率維持在3.75%不變】英國央行將基準利率維持在3.75%不變，符合市場預期。
+
+---
+
+### 2026-06-18 19:00:17  #MKT News #Important
+
+【Bank of England holds rate at 3.75% as expected】Bank of England left its base rate unchanged at 3.75% for a fourth consecutive meeting, in line with market expectations.
+
+---
+
+### 2026-06-18 19:00:16  #MKT News #GBPUSD #Impact bullish
+
+As of June 18, Bank of England MPC votes in favor of a rate rise: 2; expected 2; prior 1.
+
+---
+
+### 2026-06-18 19:00:16  #MKT News #Market Regions #Europe & UK #Macro & Rates
+
+As of June 18, Bank of England's MPC votes in favor of a rate cut: 0; expected 0; prior 0.
+
+---
+
+### 2026-06-18 19:00:12  #央行 #其他 #焦點
+
+英國至6月18日央行利率決定 3.75%，預期3.75%，前值3.75%。
+
+---
+
+### 2026-06-18 19:00:12  #MKT News
+
+As of June 18, the Bank of England MPC voted 7 to keep policy rates unchanged; expected 7, prior 8.
+
+---
+
+### 2026-06-18 19:00:08  #MKT News #Macro & Rates
+
+Ukraine central bank policy rate unchanged at 15.00% as of June 18; market expected 15.00%, prior 15.00%.
+
+---
+
+### 2026-06-18 19:00:08  #MKT News #Important #Macro & Rates #Market Regions #Europe & UK
+
+Bank of England rate decision to June 18: 3.75% — unchanged and matching expectations and the prior reading (3.75%).
+
+---
+
+### 2026-06-18 19:00:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | BOE Interest Rate Decision (Jun.18) | actual 3.75% | consensus 3.75% | previous 3.75%
+
+---
+
+### 2026-06-18 19:00:00  #MKT News #Economic Calendar
+
+Ukraine | Benchmark Interest Rate (Jun.18) | actual 15% | consensus 15% | previous 15.00%
 
 ---
 
@@ -21278,53 +21503,5 @@ Market sources: OpenAI founder Altman, Dario Amodei, Demis Hassabis and Arthur M
 ### 2026-06-17 20:53:18  #宏觀 #市場
 
 【陳果：戰略看多中國網際網路】6月17日，國家市場監管總局釋出《外賣平臺補貼行為規範十條（徵求意見稿）》，其中指出，將明確補貼行為的合規邊界，有力遏制外賣行業“內卷式”競爭，促進行業規範健康發展。東方財富研究所副所長、首席策略官陳果表示，這是重大利好落地，有利於徹底扭轉中國網際網路企業外賣補貼內卷，從今天起恒生科技指數不應該再被戲稱之為恒生外賣指數，不能再看空了，在資金絕望的無人問津處，從今天起，我們戰略看多中國網際網路。
-
----
-
-### 2026-06-17 20:53:11  #其他
-
-【藍天PC出貨逆勢成長 全年挑戰雙位數增幅】PC受到記憶體與處理器缺料漲價影響，市調機構普遍預估2026全年出貨將會有雙位數跌幅，走利基市場的藍天，預估2026年出貨可望較2025年成長，還有機會挑戰雙位數出貨增幅。
-
----
-
-### 2026-06-17 20:51:31  #MKT News #Market Regions #Greater China #CNH #Impact bullish #DXY #Impact bearish #EURUSD
-
-【Shenwan Hongyuan's Liu Jian: RMB allocation value accelerating】June 17, 2026 — Shenwan Hongyuan chairman Liu Jian told the Lujiazui Forum in Shanghai that Shanghai–Hong Kong financial cooperation is a strategic pivot linking China's financial market to global markets and supporting the international expansion of RMB assets. He said two core drivers will be key: first, China's industrial upgrading and stronger tech competitiveness will accelerate Chinese firms' outbound expansion, making integration of onshore and offshore markets and resources a strategic necessity; second, global currency diversification and a restructuring of asset-allocation logic create scope for deeper Shanghai–Hong Kong coordination. As global allocations move from dollar dominance toward greater diversification and long-term stability, Liu said the RMB's role as an important sovereign currency and safe asset is strengthening and its allocation value is accelerating.
-
----
-
-### 2026-06-17 20:51:21  #其他
-
-【申萬宏源劉健：人民幣配置價值加速凸顯】6月17日，2026陸家嘴論壇在上海開幕。申萬宏源董事長劉健受邀出席並在“滬港金融協同發展賦能高水平金融開放”環節發表主題演講。劉健表示，滬港合作不是簡單的兩座城市之間的金融合作，而是中國金融市場連線全球、人民幣資產走向世界、金融強國建設提升能級的重要支點。隨著兩地金融合作機制日趨完善並邁入高質量發展新階段，未來將有兩個核心驅動力發揮關鍵作用：一方面，伴隨中國產業升級與科技創新國際競爭力的提升，中國企業出海將成為重要發展趨勢，整合境內外市場與資源逐漸成為企業的“必修課”；另一方面，全球貨幣多元化趨勢和資產配置邏輯的重構為滬港深化協同發展開闢了廣闊空間。隨著全球資產配置從美元主導向多元與長期穩健轉型，人民幣作為全球重要主權貨幣與安全資產，其配置價值加速凸顯。
-
----
-
-### 2026-06-17 20:50:58  #MKT News #EURUSD #Impact mixed #WTI #Impact bearish #XAUUSD
-
-【Capital Economics: Euro-area inflation may have peaked】Capital Economics economist Jack Allen-Reynolds says euro-area inflation is unlikely to rise sharply further. May inflation was driven by fuel, and fuel prices should retreat in the near term; if oil and gas shipments via the Strait of Hormuz resume in coming months, energy inflation is unlikely to increase, reducing risk of second‑round effects. Food and service inflation may accelerate in H2 but is expected to have only a small impact, so overall H2 inflation should rise only modestly.
-
----
-
-### 2026-06-17 20:50:37  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Sen. Elizabeth Warren said President Trump's actions have impeded the Fed's ability to cut interest rates.
-
----
-
-### 2026-06-17 20:50:30  #央行 #國際
-
-沃倫：特朗普阻礙了美聯儲降息。
-
----
-
-### 2026-06-17 20:50:16  #公司 #市場 #國際
-
-【CME集團宣佈CEO達菲明年3月轉任執行主席，總裁菲茨帕特里克接任CEO】芝商所（CME集團）6月17日宣佈，在任逾25年的董事長兼執行長特里·達菲（Terry Duffy）將於2027年3月1日起轉任執行主席，現任總裁兼首席財務官琳恩·菲茨帕特里克（Lynne Fitzpatrick）屆時將出任執行長並加入董事會。達菲於2002年出任CME集團董事長，2016年起兼任執行長。任期內，他主導公司從場內交易轉型為電子化交易，並於2002年推動CME成為美國首家上市交易所；2007年完成與芝加哥期貨交易所（CBOT）的歷史性合併，2008年收購紐約商業交易所（NYMEX）。在其領導下，CME集團日均成交量去年達2810萬手合約，市值較2002年上市時增逾8000%，超過950億美元。
-
----
-
-### 2026-06-17 20:49:57  #MKT News #Market Regions #Greater China #CNH
-
-【Shenwan Hongyuan’s Liu Jian: Top-tier investment banks needed to build a top international financial center】June 17, 2026 — Shenwan Hongyuan chairman Liu Jian said expanding cross-border investment between Shanghai and Hong Kong will reinforce both cities’ international financial center status and accelerate China’s development as a financial power. He said building a top-tier international financial center requires top-tier investment banks and called on securities firms, as core capital-market intermediaries, to pursue four roles in parallel: organiser of cross-border integrated financial services, provider of RMB internationalisation products and services, promoter of international pricing for Chinese assets, and connector of the Belt and Road financial ecosystem. He urged securities firms to adopt a more proactive, professional role in Shanghai–Hong Kong coordination.
 
 ---

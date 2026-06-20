@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 03:48:03_
-_本檔包含 3520 則快訊，約 652147 字_
+_更新時間：2026-06-21 04:39:33_
+_本檔包含 3521 則快訊，約 651841 字_
+
+---
+
+### 2026-06-16 22:11:11  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Europe wary of mine‑clearing operation; Strait of Hormuz reopening timeline uncertain】European officials warn President Trump’s push to reopen the Strait of Hormuz quickly could pressure allies to deploy naval vessels for mine‑clearing and patrols, raising security risks. Closed‑door talks on removing Iranian‑laid mines are politically and operationally complex, with major uncertainty over specific tactics and responsibilities. Trump’s tight deadline — to complete operations by the end of this weekend — has heightened European hesitation. Mine‑countermeasure vessels are typically slow and lightly armed and therefore vulnerable to attack, and the US lacks sufficient deployable MCM capacity in the Middle East, officials said, creating a need for allied assistance. At the G7, European states pressed for concrete details and rules of engagement before committing to participation but have received few answers to date.
+
+---
+
+### 2026-06-16 22:11:04  #其他
+
+SL Science股價在SPAC業務合併後，前一交易日暴跌42%後，今日飆升逾兩倍。
+
+---
+
+### 2026-06-16 22:11:02  #MKT News #Market Themes #AI Revolution #CRM.N #Impact bullish
+
+Salesforce and Databricks to expand partnership in data and AI.
+
+---
+
+### 2026-06-16 22:10:10  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish #YPF.O
+
+Argentina's YPF signed a letter of intent with Tesla to explore cooperation on fast-charging stations and energy-storage infrastructure.
+
+---
+
+### 2026-06-16 22:09:50  #其他
+
+阿根廷YPF與特斯拉簽署意向書，探索包括快速充電站和儲能基礎設施在內的合作。
+
+---
+
+### 2026-06-16 22:09:14  #其他
+
+【Kpler：霍爾木茲海峽重新開放可能引發通行量短暫激增】Kpler的分析師表示，隨著被困在海灣內的約118艘滿載船隻可能率先駛出，霍爾木茲海峽的重新開放可能會迎來油輪活動的早期激增，從而在最初的10-15天內引發通行量急劇但短暫的飆升。主要的不確定性在於新船隻重新進入該地區的速度有多快。Matt Wright和Panagiotis Krontiras表示，在快速回歸的情境下，如果安全擔憂完全消除，流量可能會迅速反彈，甚至短暫超過戰前水平，儘管這種結果被認為是不太可能的。在基準情境下，復甦將更加漸進，通行量將從最初的每天約15艘增加到月底的40艘，其中油輪約佔60%。
+
+---
+
+### 2026-06-16 22:08:45  #國際
+
+印度航空釋出宣告，推出不含免費餐食的基礎票價產品。
+
+---
+
+### 2026-06-16 22:08:21  #央行 #美聯儲
+
+美聯儲表示，聯邦公開市場委員會會議按計劃於東部時間上午10點開始。
+
+---
+
+### 2026-06-16 22:08:06  #國際
+
+官方資料顯示，截至6月14日，歐盟2025/26年度玉米進口量為1722萬噸，去年同期為1908萬噸。
+
+---
+
+### 2026-06-16 22:07:59  #國際
+
+官方資料顯示，截至6月14日，歐盟2025/26年度大麥出口量為861萬噸，去年同期出口量為469萬噸。
+
+---
+
+### 2026-06-16 22:07:50  #國際
+
+官方資料顯示，截至6月14日，歐盟2025/26年度軟小麥出口量為2238萬噸，去年同期出口量為2094萬噸。
+
+---
+
+### 2026-06-16 22:07:41  #其他
+
+民調顯示，在巴西總統大選潛在的第二輪投票中，盧拉支援率為49.3%，弗拉維奧·博索納羅為36.8%。
+
+---
+
+### 2026-06-16 22:07:27  #公司 #國際
+
+古瑞瓦特股份有限公司在港交所提交IPO申請，保薦人為華泰國際。
+
+---
+
+### 2026-06-16 22:06:50  #央行 #國際
+
+美聯儲表示聯邦公開市場委員會會議已按計劃於美國東部時間上午 10 時召開。
+
+---
+
+### 2026-06-16 22:06:41  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve said the Federal Open Market Committee meeting will begin as scheduled at 10:00 a.m. ET.
+
+---
+
+### 2026-06-16 22:06:31  #公司 #國際
+
+【必和必拓與力拓押注印度 瞄準“全球南方”新紅利】全球兩大礦業巨頭必和必拓與力拓正日益將目光投向印度，視其為全球鍊鋼業的下一個重大增長引擎。兩家礦業公司的高階商業高管均表示，印度不斷增長的需求和新增的產能，有助於抵消其他地區增速放緩的影響。
+
+---
+
+### 2026-06-16 22:06:13  #市場 #國際
+
+【德意志銀行：美國新屋開工數受多戶型住宅波動打擊】德意志銀行證券美國首席經濟學家Matthew Luzzetti表示，近期新屋開工數的下滑可能是由於多戶型住宅開工數這一波動性較大的部分出現了接近創紀錄的降幅。Luzzetti告訴《華爾街日報》：“建築許可作為房地產市場一個相對更穩定的指標，其資料非常接近預期。“雖然他表示房地產市場一直未能成為該國經濟重要的增長來源，但他“也不想根據今天上午的資料就得出房地產市場正在斷崖式下跌的結論。”
+
+---
+
+### 2026-06-16 22:04:57  #國際
+
+市場訊息：特朗普政府已通知北約盟國，美國將削減其劃撥至北約危機應對體系（北約部隊模式）的軍事裝備。作為配套舉措，美方正向歐洲盟國及加拿大施壓，要求其增派戰機、無人機、偵察平臺、空中加油機與海軍艦艇，填補由此產生的軍力缺口。
+
+---
+
+### 2026-06-16 22:04:51  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
+
+HSBC Holdings Stock Price Hits 22-year High — HSBC Holdings shares increased to 1417.00 GBp, the highest since May 2004. Over the past 4 weeks, HSBC Holdings gained 5.8%, and in the last 12 months, it increased 63.91%.
+
+---
+
+### 2026-06-16 22:04:30  #MKT News
+
+【Switzerland says US-Iran interim pact may be signed Friday at Burgenstock】Switzerland's government said on Tuesday an interim US-Iran agreement aimed at ending the Middle East war may be signed on Friday at the Burgenstock resort in central Switzerland. The Swiss foreign ministry said it has been in close contact with the US, Iran, Pakistan and Qatar on the draft memorandum of understanding, and that, at this stage, the signing ceremony is planned for June 19 (Friday) in Burgenstock, Nidwalden; the site was proposed by Pakistani and Qatari mediators and jointly by the US and Iran.
+
+---
+
+### 2026-06-16 22:03:48  #其他
+
+高知特與Rubrik擴大合作，助力企業掌控生產環境中的自主人工智慧。
+
+---
+
+### 2026-06-16 22:03:07  #公司
+
+賽富時公司：面向Databricks的Data 360功能增強計劃於2026年下半年及以後推出。
 
 ---
 
@@ -21106,131 +21238,5 @@ US June New York Fed Empire State manufacturing index and Canada April wholesale
 ### 2026-06-15 20:18:39  #公司
 
 【英派斯：特定股東擬減持不超152,975股公司股份】英派斯公告稱，特定股東青島青英持有公司股份611,900股，佔公司剔除回購專用證券賬戶持股數量的總股本比例0.4176%。其計劃在2026年7月8日至10月7日，以集中競價交易或大宗交易方式減持不超152,975股，佔比0.1044%。減持原因是各合夥人資金需求，股份來源為首次公開發行前股份。本次減持計劃存在不確定性，不會對公司治理等產生重大影響。
-
----
-
-### 2026-06-15 20:18:26  #市場 #國際
-
-【分析：美伊和平協議推動油價走低】在美國和伊朗達成結束中東衝突並重新開放霍爾木茲海峽通航的協議後，原油期貨跌至3月初以來的最低水平。Spartan Capital的Peter Cardillo在一份報告中表示，這一下跌“主要與投機頭寸平倉有關，這顯然是一個積極的進展“。他補充說，該海峽可能需要一個多月的時間才能恢復正常的運營狀態。“因此，一旦最初的狂熱情緒消退，我們預計現貨價格將在85美元至90美元之間徘徊，特別是由於目前供應依然緊俏。“西得州中質油下跌5.3%，報每桶80.41美元；布倫特原油下跌4.8%，報83.11美元。
-
----
-
-### 2026-06-15 20:17:40  #央行 #公司 #市場 #國際
-
-【荷蘭國際：伊朗協議消除英國基準利率加息可能性】荷蘭國際集團的James Smith在一份報告中表示，如果美國和伊朗之間的和平協議得以維持，英國央行今年夏天應該能夠避免加息。在能源價格目前下跌的背景下，通脹率可能會保持在4%以下——這是該央行的一條重要底線。Smith說：“市場目前反映的7月份加息預期機率僅為25%，且今年僅有一次加息，低於此前最高三次的預期。“他補充說，此外，第二輪通脹效應的風險依然有限。“這最終是我們預計2027年將重新降息的原因——這是市場目前尚未反映的預期。”Smith說，不過，如果美伊協議破裂，或者未能阻止夏季能源價格再次飆升，這種情況可能會發生改變。
-
----
-
-### 2026-06-15 20:16:55  #MKT News #Important #WTI #Impact bearish #Brent
-
-BAGHAEI said Tehran will coordinate with Oman and other countries to take measures to ensure safe passage through the Strait of Hormuz; the measures will be targeted at specific times and correspond to US commitments.
-
----
-
-### 2026-06-15 20:16:09  #焦點 #國際
-
-伊朗外交部發言人巴加埃表示，德黑蘭將協同阿曼及其他國家採取措施，確保霍爾木茲海峽的安全通行，此舉將限定在特定時間內，並與美方自身承諾相對應。
-
----
-
-### 2026-06-15 20:16:08  #其他
-
-【知情人士：騰訊入股阿里通義大模型前首席研究員林俊暘創立的全新人工智慧實驗室】據兩名知情投資人士透露，騰訊控股已入股由阿里巴巴通義大模型前首席研究員林俊暘創立的全新人工智慧實驗室。 知情人士表示，該實驗室首輪融資總規模達數億美元，投後估值約20億美元；其中騰訊出資2000萬美元。此輪融資由高榕資本、紅杉中國兩家本土風投領投，兩家機構各出資1億美元。 訊息人士補充稱，本輪融資剛完成交割，林俊暘團隊已著手籌備下一輪募資。
-
----
-
-### 2026-06-15 20:15:30  #其他
-
-加拿大5月新屋開工 26.14萬戶，預期25.51萬戶，前值由27.93萬戶修正為27.84萬戶。
-
----
-
-### 2026-06-15 20:15:25  #其他
-
-【企業持續重組，新加坡裁員人數升至近三年高位】新加坡人力部6月15日釋出報告顯示，今年1月至3月期間，新加坡裁員人數從前一季度的3690人增至3830人。這是自2023年第三季度以來的最高水平，當時共有4110名員工被裁撤。報告指出，企業重組和業務調整仍然是裁員的主要原因。與此同時，製造業、金融與保險服務業以及專業服務業等多個行業的裁員人數均有所增加。
-
----
-
-### 2026-06-15 20:15:24  #MKT News
-
-EU High Representative for Foreign Affairs and Security Policy Kallas said broader work on a 21st round of sanctions against Russia is underway.
-
----
-
-### 2026-06-15 20:15:17  #公司
-
-【斬斷“黑飛”黑灰產業鏈 上海警方連破3起涉無人機嚴重違法案件】近日，上海警方深挖無人機領域違法線索，先後偵破3起涉無人機嚴重違法案件，精準打擊無人機“黑飛”使用者、非法破解服務商、破解軟體製售從業者，斬斷覆蓋“研發售賣、非法破解、違規飛行”的黑灰利益鏈條。2026年3月，上海奉賢警方成功抓獲打掉一處無人機破解軟體研發售賣源頭窩點。2026年4月，上海寶山警方根據線索，成功破獲一起提供侵入、非法控制計算機資訊系統程式、工具的刑事案件，抓獲某航空科技服務有限公司法定代表人劉某。（央視新聞）
-
----
-
-### 2026-06-15 20:15:10  #MKT News #DXY #Impact bearish
-
-Canada May housing starts 261,400 units, vs 255,100 expected; April revised to 278,400 from 279,300.
-
----
-
-### 2026-06-15 20:15:01  #MKT News #Economic Calendar #Important
-
-Canada | Housing Starts (May) | actual 261400K | consensus 255100.00000000003K | previous 279300K
-
----
-
-### 2026-06-15 20:14:44  #公司
-
-Roku執行長：我們認為，與福克斯合作，能讓Roku在實力雄厚的合作伙伴的支援與資源助力下，發展得更快更明智。
-
----
-
-### 2026-06-15 20:14:30  #其他 #焦點
-
-英偉達計劃透過發行高等級債券籌資至少200億美元。
-
----
-
-### 2026-06-15 20:14:30  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA plans to raise at least $20 billion by issuing investment-grade bonds.
-
----
-
-### 2026-06-15 20:14:09  #MKT News
-
-The EU said its new sanctions list adds 34 individuals and 47 entities.
-
----
-
-### 2026-06-15 20:13:52  #公司
-
-【粵萬年青：控股股東及一致行動人擬詢價轉讓6%股份】粵萬年青公告稱，控股股東廣東金歐健康科技有限公司及一致行動人廣東僑銀房地產開發有限公司擬詢價轉讓股份，總數為960萬股，佔公司總股本的6%。其中，廣東金歐轉讓640萬股，佔比4%；廣東僑銀轉讓320萬股，佔比2%，轉讓原因為自身資金需求。受讓方為具備相應定價能力和風險承受能力的機構投資者，受讓股份6個月內不得轉讓。本次轉讓價格下限不低於6月15日前20個交易日股票交易均價的70%。轉讓計劃實施存在司法凍結、市場環境變化等風險。
-
----
-
-### 2026-06-15 20:13:42  #國際
-
-歐盟理事會批准對俄羅斯的新制裁。歐盟對支援俄羅斯軍事行動的7名個人和21個實體實施制裁措施。
-
----
-
-### 2026-06-15 20:13:26  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #WTI
-
-EU Council approves new sanctions on Russia.
-
----
-
-### 2026-06-15 20:13:02  #MKT News
-
-Iranian Foreign Ministry spokesman Baghaei said the US will pledge to allow Iran to access its frozen assets, but will not provide any funds to Tehran.
-
----
-
-### 2026-06-15 20:12:50  #公司
-
-【中富通：控股子公司英博達擬出資9180萬元設立控股子公司筍殼科技】中富通公告，公司子公司深圳英博達科技有限公司計劃與浙江夢工場孵化器有限公司、福州閩侯旭杭共創產業投資合夥企業共同投資設立杭州筍殼科技有限公司。筍殼科技註冊資本1.8億元，英博達認繳9180萬元，持股51%；夢工場認繳6120萬元，持股34%；旭杭產投認繳2700萬元，持股15%。該投資已由公司董事會審議透過，尚需提交股東會審議。本次投資不構成重大資產重組，不會對公司財務及經營狀況產生不利影響。
-
----
-
-### 2026-06-15 20:12:45  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran says deep mistrust of US; regional visits planned ahead of Switzerland signing】Iran Foreign Ministry spokesperson BAGHAEI said regional visits are on the diplomatic agenda ahead of a planned signing in Switzerland this week of a US-Iran memorandum of understanding. He said Lebanon is an important element of the MOU, that respect for Lebanon’s sovereignty and territorial integrity is part of the temporary agreement, and Iran will closely monitor developments there. Given recent attacks by Israel on Lebanon, Iran will make decisions according to specific criteria. BAGHAEI cited the 1953 US‑UK‑backed coup against Iran’s elected government as the origin of deep-rooted mistrust of the United States and said Washington has a long way to go to win Iran’s trust.
 
 ---
