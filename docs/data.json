@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-21 04:51:36",
+  "updated": "2026-06-21 04:55:34",
   "count": 17539,
   "items": [
+    {
+      "id": "mkt:019ee6d0-a393-7dd8-b0a2-006270e9af55",
+      "time": "2026-06-21 04:54:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Vance heads to Switzerland seeking progress on Iran nuclear issue, Lebanon ceasefire】US Vice President Vance departed for Switzerland to attend US‑Iran talks, saying he expects to be there one to two days and hopes Washington and Tehran can make progress on Iran’s nuclear file and a Lebanon ceasefire. He added that, despite headline coverage, the situation in Lebanon is improving and cooling, but will require sustained management to ensure security and stability for Israel and Lebanon."
+    },
+    {
+      "id": "4946002",
+      "time": "2026-06-21 04:54:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖對談判作出負面表態】伊朗最高領袖對伊斯蘭堡相關談判作出負面表態，批評談判官員談及核議題，且未能堅守此前擬定的一系列先決條件。他表示，談判中觸碰核相關議題、未落實雙方約定條件，此舉“違背伊斯蘭教法”。伊朗最高國家安全委員會成員隨後致信最高領袖，申辯談判必須納入核問題，並對沖突持續、本國基礎設施可能遭打擊表達擔憂。伊朗最高領袖對此回應，此類談判“今生後世皆無益處”，也無法阻止針對伊朗基礎設施的襲擊。"
+    },
+    {
+      "id": "4946001",
+      "time": "2026-06-21 04:51:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦總理和陸軍參謀長將參與美伊談判】據巴基斯坦總理辦公室21日釋出的宣告，巴基斯坦總理夏巴茲與陸軍參謀長穆尼爾將參與當天在瑞士比爾根山舉行的美伊技術層面談判。宣告說，此次談判是美伊諒解備忘錄簽署後的接續行動。夏巴茲已率領高階別代表團離開巴首都伊斯蘭堡前往瑞士。據伊朗媒體20日報道，伊朗談判代表已赴瑞士。多家外媒當天晚些時候報道，美國副總統萬斯也已啟程前往瑞士。此前還有訊息說，美國總統特使威特科夫和美國總統特朗普的女婿庫什納也將參加談判。（新華社）"
+    },
     {
       "id": "4946000",
       "time": "2026-06-21 04:48:53",
@@ -161565,33 +161593,6 @@
         "國際"
       ],
       "text": "以色列對黎巴嫩南部的納巴蒂耶地區實施打擊。"
-    },
-    {
-      "id": "4934037",
-      "time": "2026-06-14 04:53:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列空軍不久前攔截了一枚由真主黨向在黎巴嫩南部地區行動的以色列國防軍部隊發射的火箭彈，無人受傷。"
-    },
-    {
-      "id": "mkt:019ec2c2-849a-7dd8-afee-2ec92b677261",
-      "time": "2026-06-14 04:53:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Scholar: Agreement uncertainty reflects Trump's diplomatic 'chaos'】Doha College professor Mohammed Elmasri said uncertainty over a US‑Iran agreement reflects President Trump’s improvisational foreign policy, saying “he makes it up as he goes” and calling the Iran war a major misjudgment. He said several market‑relevant issues remain unresolved as the world watches whether a deal can be signed: the US position on Iran controlling the Strait of Hormuz and potential fee collection; how Iran’s future uranium‑enrichment capacity and existing high‑enriched uranium stock would be handled; and deep disagreements between the parties."
-    },
-    {
-      "id": "4934036",
-      "time": "2026-06-14 04:52:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列反對黨領袖、前總理亞伊爾・拉皮德表示，美伊若達成協議，將是內塔尼亞胡總理的一次戰略失利。他稱伊朗現政權依舊掌權，導彈專案未受影響，德黑蘭方面仍具備重啟核計劃的能力。"
     }
   ]
 }
