@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-20 21:32:36",
-  "count": 17564,
+  "updated": "2026-06-20 21:36:53",
+  "count": 17573,
   "items": [
+    {
+      "id": "mkt:019ee53e-f7a3-7dd8-b09f-b8fffc785d53",
+      "time": "2026-06-20 21:36:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SSE developing single-sided close for stock option combos; feature not yet active】The Shanghai Stock Exchange (SSE) is developing a single-sided close function for its stock option combination strategy business but has not activated it. SSE and the Shenzhen Stock Exchange jointly launched stock option combination strategies in 2019 and explicitly specified that the single-sided close feature would not be implemented at that time. SSE has published technical interfaces for market participants to use in development, but the function remains inactive operationally."
+    },
+    {
+      "id": "4945857",
+      "time": "2026-06-20 21:35:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【上交所擬推股票期權組合策略業務？暫不實施】近日有訊息稱，上交所擬完善股票期權組合策略業務，推出單邊平倉功能。對此，記者獲悉，2019年上交所和深交所同步推出股票期權組合策略業務，並在通知中明確單邊平倉功能暫不實施。目前，上交所正在進行該功能的技術開發工作，釋出了技術介面供市場進行技術開發使用，業務上該功能仍暫不實施。（證券時報）"
+    },
+    {
+      "id": "mkt:019ee53d-da6e-7dd8-b09f-b419262a8407",
+      "time": "2026-06-20 21:34:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman told Fars News Agency that Iran will not sign commitments it cannot fulfill, saying its principle is 'commitment for commitment'."
+    },
+    {
+      "id": "4945856",
+      "time": "2026-06-20 21:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，我們不會簽署不會執行的承諾；我們的方針是“以承諾換取承諾”。"
+    },
+    {
+      "id": "mkt:019ee53d-755e-7dd8-b09f-aaa07681d09a",
+      "time": "2026-06-20 21:34:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran’s Foreign Ministry spokesman told Fars News Agency that Tehran will take necessary measures in response if the other party fails to fulfill its commitments."
+    },
+    {
+      "id": "mkt:019ee53d-2c92-7dd8-b09f-a0fc2d86e322",
+      "time": "2026-06-20 21:34:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News Agency quoted an Iranian foreign ministry spokesman saying the other side must take necessary measures without delay."
+    },
+    {
+      "id": "4945855",
+      "time": "2026-06-20 21:34:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，如果對方拒絕履行承諾，伊朗將採取必要措施予以回應。"
+    },
+    {
+      "id": "mkt:019ee53c-929d-7dd8-b09f-9fb8e979d956",
+      "time": "2026-06-20 21:33:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News Agency quoted an Iranian Foreign Ministry spokesman as saying that if other parties fail to fulfill some commitments, the entire memorandum of understanding could be jeopardized."
+    },
+    {
+      "id": "4945854",
+      "time": "2026-06-20 21:33:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，另一方必須儘快採取必要措施。"
+    },
+    {
+      "id": "4945853",
+      "time": "2026-06-20 21:33:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞兩名士兵遭襲身亡】據敘利亞方面20日訊息，敘過渡政府國防部稱，過渡政府部隊兩名士兵當天在敘北部阿勒頗省曼比季市遭不明身份武裝人員襲擊身亡。"
+    },
+    {
+      "id": "4945852",
+      "time": "2026-06-20 21:32:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，如果另一方的部分承諾未能得到履行，那麼整體諒解就會“陷入困境”。"
+    },
+    {
+      "id": "4945851",
+      "time": "2026-06-20 21:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒稱伊朗代表團將前往瑞士】伊朗法爾斯通訊社今天（6月20日）援引伊朗外交部發言人訊息稱，伊朗代表團將前往瑞士進行美伊會談後續跟進，並要求美方履行承諾。報道稱，伊朗已履行承諾，美國有義務迫使以色列停止襲擊黎巴嫩。（CCTV國際時訊）"
+    },
     {
       "id": "4945850",
       "time": "2026-06-20 21:31:26",
@@ -161782,41 +161885,6 @@
         "DXY"
       ],
       "text": "【IAEA: Zaporizhzhia plant backup line repaired and reconnected; external power still at risk】The IAEA said a backup power line at the Zaporizhzhia nuclear plant was repaired and reconnected to the grid today under an IAEA-facilitated local ceasefire. This was the plant’s 19th loss of external power during the conflict; the latest outage lasted nearly three days and was among the longest, underscoring extreme grid vulnerability. The agency is monitoring repairs to the plant’s switchyard and demining work to restore a 750 kV main line interrupted since March. IAEA Director General Grossi said restoring both power lines and the switchyard is essential to secure external power and prevent a nuclear accident, and warned that recent increases in military activity further threaten nuclear safety, urging maximum military restraint near all nuclear facilities."
-    },
-    {
-      "id": "mkt:019ec132-782c-7dd8-afeb-42cf8ecf043b",
-      "time": "2026-06-13 21:36:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "The IAEA said the ZAPORIZHZHIA nuclear plant was reconnected to the grid today after backup power lines were successfully repaired under an IAEA-mediated local ceasefire."
-    },
-    {
-      "id": "4933879",
-      "time": "2026-06-13 21:35:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際原子能機構（IAEA）表示：在國際原子能機構斡旋達成的區域性停火協議的保護下，費羅斯普拉夫納備用輸電線路的修復工作已於今日成功完成，扎波羅熱核電站（ZNPP）也已重新併入電網。這是ZNPP在軍事衝突期間第19次斷電。由於軍事衝突造成的破壞，該電站於週三晚些時候失去了與330千伏（kV）輸電線路的連線，被迫依靠應急柴油發電機為六個停堆反應堆提供冷卻所需的電力。此次斷電持續了近三天，是該電站歷史上持續時間最長的斷電事件之一，凸顯了電網的極度脆弱性。國際原子能機構的一個小組在ZNPP附近對修復工作進行了監督。"
-    },
-    {
-      "id": "mkt:019ec12f-a0b7-7dd8-afeb-3e49ec661dab",
-      "time": "2026-06-13 21:33:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Russian-controlled Zaporizhzhia nuclear plant says transport workshop struck】Russian-controlled Zaporizhzhia nuclear plant said on the 13th that Ukrainian forces struck the plant’s transport workshop, damaging three vehicles—two fully burned—and damaging refueling equipment and workshop windows. The plant said systems are operating normally and radiation remains at natural background levels. Ukraine had no immediate comment."
     }
   ]
 }
