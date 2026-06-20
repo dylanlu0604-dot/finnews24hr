@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-20 21:58:10",
-  "count": 17575,
+  "updated": "2026-06-20 22:02:26",
+  "count": 17579,
   "items": [
+    {
+      "id": "mkt:019ee556-17b4-7dd8-b09f-fc47e4372c84",
+      "time": "2026-06-20 22:01:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRGC navy says Israel's operations in Lebanon and US breaches of ceasefire commitments are the reasons for closing the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019ee555-d71e-7dd8-b09f-f7703ed183c2",
+      "time": "2026-06-20 22:01:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps warned vessels not to approach the Strait of Hormuz, saying their safety would be at risk."
+    },
+    {
+      "id": "4945867",
+      "time": "2026-06-20 22:01:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊海軍宣告：以色列在黎巴嫩的行動以及美國違反停火承諾，導致霍爾木茲海峽關閉。"
+    },
+    {
+      "id": "4945866",
+      "time": "2026-06-20 22:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊警告船隻不要靠近霍爾木茲海峽，稱否則其安全將受到威脅。"
+    },
+    {
+      "id": "mkt:019ee554-9907-7dd8-b09f-e87ac925c229",
+      "time": "2026-06-20 21:59:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said the Strait of Hormuz is closed to all vessels."
+    },
+    {
+      "id": "4945865",
+      "time": "2026-06-20 21:59:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，霍爾木茲海峽對所有船隻關閉。"
+    },
     {
       "id": "mkt:019ee552-7065-7dd8-b09f-e4a49879f407",
       "time": "2026-06-20 21:57:25",
@@ -161883,27 +161946,6 @@
         "MKT News"
       ],
       "text": "【Iran schedules Khamenei funeral for July; media estimate attendance at 15–20 million】Iran on June 13 announced funeral arrangements for Supreme Leader Ali Khamenei. Farewell ceremonies will be held in Tehran July 4–5; a Tehran procession on July 6; a Qom procession on July 7; and a Mashhad procession on July 9, followed by burial at the Imam Reza shrine in Mashhad. Iranian media say attendance could reach 15–20 million, which would likely make it the largest state-organized event in the Islamic Republic’s history (Khomeini’s 1989 funeral drew about 10 million)."
-    },
-    {
-      "id": "4933886",
-      "time": "2026-06-13 21:59:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗宣佈7月為哈梅內伊舉行葬禮，預計有超1500萬人參加】據伊朗媒體報道，直接參加悼念活動的人數可能會達到1500萬至2000萬人。這也讓哈梅內伊的葬禮很可能成為伊朗伊斯蘭共和國歷史上規模最大的國家組織活動。1989年6月，伊朗前最高領袖霍梅尼去世後，約有1000萬人參與了送葬和悼念儀式。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019ec146-d61c-7dd8-afeb-607118735b6b",
-      "time": "2026-06-13 21:58:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Trump reposts Pakistani PM saying US-Iran deal could be finalised within 24 hours】Trump reposted a screenshot of Pakistani Prime Minister Shahbaz’s social media post in which Shahbaz said a US-Iran agreement is closer than ever and is expected to be finalised within the next 24 hours."
     }
   ]
 }
