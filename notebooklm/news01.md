@@ -1,7 +1,48 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 06:39:18_
-_本檔包含 3860 則快訊，約 653007 字_
+_更新時間：2026-06-21 07:05:50_
+_本檔包含 3865 則快訊，約 653473 字_
+
+---
+
+### 2026-06-21 07:02:59  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、優產業 美鄉村 惠民生 廣東實施“百千萬工程”促進城鄉區域協調發展；
+2、深化醫改，讓群眾就近享受優質醫療服務（總書記的關切·落地的迴響）；
+3、海南文昌將紅色資源與航天資源串珠成鏈——航天產業為老區發展注入新動能（老區新事）；
+4、大模型收費，合理嗎？（讀者點題·共同關注）；
+5、端午假期 文旅消費旺活力足。
+
+---
+
+### 2026-06-21 06:55:35  #國際
+
+伊朗強硬派人物內扎姆丁·穆薩維：倘若黎巴嫩未實現全面停火、以色列未撤軍，外長阿拉格齊或其他伊朗官員前往瑞士同美方人員會晤，等同於默許各方違背協議條款。
+
+---
+
+### 2026-06-21 06:52:11  #國際
+
+【美伊技術層面會談今日舉行 霍爾木茲海峽通行又現“羅生門”】自6月18日美伊正式簽署諒解備忘錄後，巴基斯坦於20日宣佈，美伊技術層面會談定於21日在瑞士展開。目前，伊朗談判代表團已抵達瑞士，美副總統萬斯也已啟程將出席談判。同時，伊朗軍方20日以美方未約束以色列、違反諒解備忘錄為由，宣佈關閉霍爾木茲海峽；美軍則在隨後表示未監測到伊朗關閉海峽的行動。而美國總統特朗普也在20日公佈了有關收取該海峽通行費的說明。（央視新聞）
+
+---
+
+### 2026-06-21 06:43:58  #國際
+
+【瑞士外交部：伊朗代表團已抵達瑞士】瑞士外交部20日在社交平臺上發文歡迎伊朗代表團抵達瑞士。帖文說，伊朗代表團正在前往比爾根山，此行旨在落實美伊諒解備忘錄。
+
+---
+
+### 2026-06-21 06:40:51  #國際
+
+【美康涅狄格州一酒吧外發生槍擊事件 致2死1傷】當地時間6月20日，美國康涅狄格州西黑文一家酒吧外於當日凌晨發生槍擊事件，造成兩人死亡、一人受傷。據警方通報，凌晨1時27分左右，警方接到有人遭槍擊的報告，隨即趕往位於坎貝爾大道600號路段的一家酒吧。警員抵達現場後，發現三名遭槍擊人員。警方表示，其中兩人被發現時已無反應，雖被送往當地醫院，但隨後被宣告死亡。另一人手臂和腿部中彈。槍擊事件發生後，警方拉起警戒線封鎖了事發路段，封鎖時間持續九個多小時。（央視新聞）
+
+---
+
+### 2026-06-21 06:38:41  #公司 #國際
+
+阿爾巴尼亞抗議者舉行了迄今為止規模最大的示威活動，反對政府支援由美國總統特朗普女婿賈裡德・庫什納旗下投資公司出資開發的度假村專案。
 
 ---
 
@@ -23264,11 +23305,5 @@ UK 10-Year Gilt Yields Climb After BoE Holds Rates — UK 10-year gilt yields ro
 ### 2026-06-18 19:14:55  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
 
 Pound Slides Toward $1.32 as BoE Holds Rates — The British pound fell toward $1.32, reaching its lowest level since April 3, after the Bank of England voted 7-2 to maintain interest rates at 3.75%, in line with expectations. Policymakers adopted a cautious stance, citing uncertainty over the economic impact of the energy shock driven by the Middle East conflict. The BoE reiterated its readiness to act on inflation, with Governor Andrew Bailey emphasizing that pressures from the Iran conflict persist despite the ceasefire and potential deal. The Monetary Policy Committee also revised its peak inflation forecast downward to 3.25% in Q4 2026, from a previous estimate of 3.6%. This decision follows the US Federal Reserve’s move to hold rates steady, though nine of its 19 policymakers now expect at least one hike this year. Meanwhile, investors await the Makerfield by-election results, which could shape Labour’s leadership and economic direction.
-
----
-
-### 2026-06-18 19:14:45  #MKT News
-
-【Tornadoes strike multiple U.S. Midwest states; more than 80,000 lose power】Tornadoes struck at least five U.S. Midwest states on the evening of the 17th local time, with Illinois hardest hit — reports of structural damage, snapped utility poles and roads blocked by fallen trees. More than 80,000 electricity customers were without power as of the morning of the 18th.
 
 ---

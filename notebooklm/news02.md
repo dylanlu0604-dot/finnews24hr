@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 06:39:18_
-_本檔包含 3551 則快訊，約 652627 字_
+_更新時間：2026-06-21 07:05:50_
+_本檔包含 3550 則快訊，約 652833 字_
+
+---
+
+### 2026-06-18 19:14:45  #MKT News
+
+【Tornadoes strike multiple U.S. Midwest states; more than 80,000 lose power】Tornadoes struck at least five U.S. Midwest states on the evening of the 17th local time, with Illinois hardest hit — reports of structural damage, snapped utility poles and roads blocked by fallen trees. More than 80,000 electricity customers were without power as of the morning of the 18th.
 
 ---
 
@@ -21479,17 +21485,5 @@ Google opened pre-orders for a new family smart speaker, its first audio device 
 ### 2026-06-17 21:05:41  #MKT News #Market Themes #AI Revolution #Market Regions #Europe & UK #DXY #Impact bullish #EURUSD #Impact bearish
 
 【ECB president warns AI could trigger financial crisis】ECB President Lagarde warned on Wednesday that artificial intelligence could trigger a financial crisis and said the ECB is determined to prevent that outcome. She said even with robust regulation the development of AI cannot be stopped and the ECB’s role is to prepare. The main risk, she said, is not AI itself but the disruption when this disruptive variable enters the real world; as these systems grow more powerful and penetrate the economy they could inflict damage to jobs and savings that rivals past financial crises. The ECB will write to bank CEOs to ensure institutions are prepared for AI attacks, have sufficient operational resilience and understand that addressing these risks will require significant investment. Lagarde added that a global AI governance framework — analogous to Cold War-era nuclear non-proliferation agreements — will ultimately be needed.
-
----
-
-### 2026-06-17 21:05:37  #MKT News #EURUSD #Impact bullish
-
-ECB Governing Council member Sleijpen said inflation expectations warrant close monitoring.
-
----
-
-### 2026-06-17 21:05:23  #MKT News
-
-ECB Governing Council member Sleijpen said uncertainty remains elevated.
 
 ---

@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 06:39:18_
-_本檔包含 3120 則快訊，約 652899 字_
+_更新時間：2026-06-21 07:05:50_
+_本檔包含 3119 則快訊，約 652230 字_
+
+---
+
+### 2026-06-17 21:05:37  #MKT News #EURUSD #Impact bullish
+
+ECB Governing Council member Sleijpen said inflation expectations warrant close monitoring.
+
+---
+
+### 2026-06-17 21:05:23  #MKT News
+
+ECB Governing Council member Sleijpen said uncertainty remains elevated.
 
 ---
 
@@ -18839,23 +18851,5 @@ A spokesperson for British Prime Minister Starmer said the UK is prepared to res
 ### 2026-06-16 22:31:05  #公司
 
 七國集團領導人呼籲對埃博拉疫情采取強有力和協調一致的應對措施。
-
----
-
-### 2026-06-16 22:30:58  #國際
-
-【受石腦油短缺影響 日本多行業遭受衝擊】受中東局勢不確定性所帶來的影響，油墨和塑膠包裝等石化產品的重要原料石腦油在全球範圍內的供應仍然緊俏。在大量依賴進口原材料的日本，部分企業開始透過減少包裝印刷顏色、簡化設計等方式來節約原材料。不少日本民眾在採訪中表示，多種原材料的短缺已經波及日本的諸多行業，其影響可遠比食品包裝變成黑白色要嚴重得多。他們同時也表示，幾個月以來，日本政府仍然沒有拿出有力的舉措來應對當前國內企業生產和民生保障方面的種種問題。（央視新聞）
-
----
-
-### 2026-06-16 22:30:49  #MKT News #HO.PA #Impact bullish
-
-Renault and Thales signed a cooperation agreement to produce drones as early as next year.
-
----
-
-### 2026-06-16 22:30:44  #MKT News
-
-【Chinese researchers develop large-area all‑perovskite tandem PV module; JET-certified PCE a world record 26.2%】Nanjing University said Professor Tan Hairen’s team, together with the RenShuo Photonics industrialization research team and Professor Wang Yuanyuan’s chemistry group at Nanjing University, developed a large-area all‑perovskite tandem photovoltaic module that achieved a Japan Electrical Safety and Environment Technology Laboratory (JET)‑certified power conversion efficiency of 26.2%, a world record.
 
 ---

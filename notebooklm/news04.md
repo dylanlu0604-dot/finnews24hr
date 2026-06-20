@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 06:39:18_
-_本檔包含 3523 則快訊，約 653181 字_
+_更新時間：2026-06-21 07:05:50_
+_本檔包含 3521 則快訊，約 652842 字_
+
+---
+
+### 2026-06-16 22:30:58  #國際
+
+【受石腦油短缺影響 日本多行業遭受衝擊】受中東局勢不確定性所帶來的影響，油墨和塑膠包裝等石化產品的重要原料石腦油在全球範圍內的供應仍然緊俏。在大量依賴進口原材料的日本，部分企業開始透過減少包裝印刷顏色、簡化設計等方式來節約原材料。不少日本民眾在採訪中表示，多種原材料的短缺已經波及日本的諸多行業，其影響可遠比食品包裝變成黑白色要嚴重得多。他們同時也表示，幾個月以來，日本政府仍然沒有拿出有力的舉措來應對當前國內企業生產和民生保障方面的種種問題。（央視新聞）
+
+---
+
+### 2026-06-16 22:30:49  #MKT News #HO.PA #Impact bullish
+
+Renault and Thales signed a cooperation agreement to produce drones as early as next year.
+
+---
+
+### 2026-06-16 22:30:44  #MKT News
+
+【Chinese researchers develop large-area all‑perovskite tandem PV module; JET-certified PCE a world record 26.2%】Nanjing University said Professor Tan Hairen’s team, together with the RenShuo Photonics industrialization research team and Professor Wang Yuanyuan’s chemistry group at Nanjing University, developed a large-area all‑perovskite tandem photovoltaic module that achieved a Japan Electrical Safety and Environment Technology Laboratory (JET)‑certified power conversion efficiency of 26.2%, a world record.
 
 ---
 
@@ -21211,44 +21229,5 @@ When asked who will represent Iran at the signing ceremony, U.S. Vice President 
 ### 2026-06-15 20:26:36  #MKT News
 
 【Iran foreign ministry: 'Lebanon' mentioned three times in Iran-US ceasefire memorandum】Iranian foreign ministry spokesperson Baghaei said the Iran–US ceasefire memorandum mentions Lebanon three times and that ending the war should include Lebanon and respect its sovereignty and territorial integrity.
-
----
-
-### 2026-06-15 20:25:52  #其他
-
-【獨家｜洋河百億大單品系列新動態：第六代海之藍已停產，第七代向全國有序鋪貨】新浪財經《酒業內參》獨家獲悉，洋河旗下百億大單品海之藍系列出現新動態：第六代海之藍已正式停產，目前正處於去庫存階段。而第七代海之藍作為海之藍系列的煥新迭代產品，是洋河今年省外將重點推廣的新品，正在包括河南、山東等全國多個市場有序推進上市。對於上述情況，洋河內部人士表示屬實。（酒業內參）
-
----
-
-### 2026-06-15 20:25:45  #國際
-
-據伊朗媒體15日報道，伊朗外交部發言人巴加埃當天說，在伊朗和美國的停戰諒解備忘錄中，“黎巴嫩”一詞被提到三次。“結束戰爭應當包括黎巴嫩，並且要尊重黎巴嫩的主權和領土完整。”（新華社）
-
----
-
-### 2026-06-15 20:25:38  #宏觀 #國際 #兩會
-
-【李鴻忠會見德國聯盟黨代表團】中共中央政治局委員、全國人大常委會副委員長李鴻忠15日在京會見由德國聯盟黨議會黨團主席施潘率領的代表團。李鴻忠表示，今年2月，習近平主席同來華訪問的默茨總理成功會晤，就深化中德關係達成重要共識。中方願同德方一道，堅持互尊互信、開放合作，密切政黨、立法機構等交往，加強在國際事務中的溝通，共同維護多邊主義和自由貿易，推動中德、中歐關係行穩致遠。施潘表示，德國聯盟黨願同中方加強政黨對話，促進德中務實合作。 (新華社)
-
----
-
-### 2026-06-15 20:25:19  #國際
-
-美國副總統萬斯被問及誰將代表伊朗出席簽署儀式時表示：我方預計伊朗方面出席的代表為眾議院議長、外交部長及其他人員。
-
----
-
-### 2026-06-15 20:24:58  #公司 #市場 #國際
-
-【美股盤前要聞速遞】
-①美股三大股指期貨齊漲，道指期貨漲0.93%，標普500指數期貨漲1.30%，納指期貨漲2.16%。
-②德國DAX指數漲1.43%，英國富時100指數漲0.09%，法國CAC40指數漲1.24%，歐洲斯托克50指數漲1.31%。
-③WTI原油跌5.04%，報80.60美元/桶。布倫特原油跌4.61%，報83.30美元/桶。
-④知情人士稱伊美協議明確霍爾木茲海峽管理權。
-⑤霍爾木茲掃雷或需40至50天，油輪堵在波斯灣，全球庫存告急。
-⑥美國人工智慧公司Anthropic正緊急與特朗普政府展開磋商，希望解除針對其最新AI模型Fable 5和Mythos 5的限制措施。
-⑦繼首日上市收漲超19%後，SpaceX盤前再度漲5.5%，報169.6美元。馬斯克週日表示，SpaceX到2030年的營業收入可能達到1萬億美元。
-⑧美股航空股盤前集體上漲，聯合大陸航空、捷藍航空、Ryanair、阿拉斯加航空漲近5%，美國航空、達美航空漲4%，西南航空漲3.6%。美伊達成協議，國際油價大跌。WTI原油期貨一度跌5%至79.15美元/桶，創4月17日以來新低；布倫特原油期貨一度跌超4%至83.33美元/桶，創3月10日以來新低。
-⑨美光科技盤前大漲8.6%。至少有兩家投行大幅上調其目標價，其中，TD COWEN將美光科技目標價從660美元上調至1500美元；加拿大皇家銀行將美光科技目標價從525美元大幅上調至1200美元。
 
 ---
