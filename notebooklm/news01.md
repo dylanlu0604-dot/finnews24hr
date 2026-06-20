@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 17:46:35_
-_本檔包含 3785 則快訊，約 653300 字_
+_更新時間：2026-06-20 18:37:45_
+_本檔包含 3778 則快訊，約 652772 字_
+
+---
+
+### 2026-06-20 18:36:39  #公司 #國際
+
+【義大利外長宣佈取消訪美】義大利副總理兼外長安東尼奧·塔亞尼當地時間6月19日宣佈，取消原定於下週舉行的訪美行程，原因是美國總統特朗普針對義大利總理梅洛尼發表了“嚴重”“且具有冒犯性的言論”，“我們無法容忍任何人像美國總統那樣冒犯義大利”。 據義大利媒體當天早些時候報道，美國總統特朗普在接受電話採訪時稱，在剛剛落幕的七國集團峰會期間，義大利總理梅洛尼“乞求”與他拍照合影，他因為“可憐她”才予以同意。對此，義大利政府予以猛烈抨擊。梅洛尼本人在社交媒體平臺上釋出影片，稱特朗普的說法“完全是編造的”，並稱“義大利和我從不乞求”。（CCTV國際時訊）
+
+---
+
+### 2026-06-20 18:35:38  #宏觀
+
+預告：國務院新聞辦公室將於2026年6月22日（星期一）下午3時舉行新聞釋出會,請商務部副部長兼國際貿易談判副代表凌激和國家發展改革委、財政部有關負責人介紹利用外資固穩促優有關政策措施，並答記者問。
+
+---
+
+### 2026-06-20 18:25:00  #MKT News
+
+【Israeli airstrikes in southern Lebanon's Nebetiyeh, Jezzine kill at least 16】Lebanese Civil Defense said on June 20 that Israeli Defense Forces carried out sustained airstrikes in southern Lebanon’s Nebetiyeh and Jezzine areas, with strikes concentrated in Nebetiyeh and its surroundings. At least 16 people were killed; rescue teams remain searching rubble for survivors.
+
+---
+
+### 2026-06-20 18:23:50  #國際
+
+【以軍在黎南部地區持續空襲 造成至少16人死亡】黎巴嫩民防部門20日宣佈，當天以色列國防軍在黎巴嫩南部奈拜提耶和傑津地區持續空襲，空襲主要集中在奈拜提耶及其周邊地區，造成至少16人死亡，救援隊仍在廢墟中搜尋倖存者。
+
+---
+
+### 2026-06-20 18:18:07  #其他
+
+【廣西新增一個自治區級高新區】廣西壯族自治區人民政府釋出關於同意設立廣西荔浦高新技術產業開發區的批覆，同意設立自治區級廣西荔浦高新技術產業開發區。桂林市要切實履行管理責任，貫徹落實《廣西壯族自治區高新技術產業開發區條例》有關規定，加大對廣西荔浦高新技術產業開發區的指導和支援力度，積極探索與現行體制協調、聯動的高效管理方式。要堅持創新驅動發展戰略，統籌實施好高新區建設與發展規劃，大力發展高新技術產業，積極培育戰略性新興產業，因地制宜發展新質生產力，加快建設創新創業平臺，營造高層次科技人才聚集的政策環境，推動協同創新和科技成果轉化應用，為加快推動高水平創新型廣西建設作出更大貢獻。
+
+---
+
+### 2026-06-20 18:14:23  #MKT News #Market Regions #Greater China
+
+【2026 Dragon Boat Festival film slate tops 200 mln yuan in box office】According to Dengta Pro, total box office for new releases in the 2026 Dragon Boat Festival window, including early screenings and presales, surpassed 200 mln yuan. Toy Story 5, I See Two Identical Clouds and Catch the Spy are currently the top three.
+
+---
+
+### 2026-06-20 18:09:10  #觀點
+
+高盛將華潤微股票評級從賣出上調至中性，目標價77.02元人民幣。
+
+---
+
+### 2026-06-20 18:06:25  #其他
+
+【2026端午檔新片票房破2億】據燈塔專業版，2026年端午檔新片總票房（含點映及預售）突破2億，《玩具總動員5》《我看見兩朵一樣的雲》《抓特務》暫列前三。
+
+---
+
+### 2026-06-20 18:00:49  #其他
+
+希臘克里特島西南發生5.8級地震，暫無損失報告。
+
+---
+
+### 2026-06-20 17:55:58  #其他
+
+據德國媒體20日援引當地警方訊息報道，慕尼黑一座橋樑上當天凌晨發生兩列貨運火車相撞事故，導致1人死亡、1人重傷。（新華社）
+
+---
+
+### 2026-06-20 17:52:22  #MKT News #Market Themes #Chip Wars #MU.O #Impact bullish
+
+【PC memory and SSD shortages push costs higher; some laptop models up >20% since start of year】Multiple popular PC categories have seen price rises. Gaming laptops and several high-performance thin-and-light and creator models have increased, with some models more than 20% higher versus the start of the year despite June brand promotions. Dealers report retail increases of several hundred to several thousand yuan; brands are shifting focus from chasing volume to protecting margins. Manufacturers say core-component cost inflation is driving the moves and that further price increases remain possible. A PC company executive said the main cause is a sharp rise in storage-chip prices as AI development is consuming large amounts of storage capacity, tightening supply of memory and SSDs and pushing costs up; broader electronic-component price increases add extra cost, leaving firms unable to fully absorb the rise and forcing modest product price adjustments.
+
+---
+
+### 2026-06-20 17:50:53  #其他
+
+【哈薩克阿克託別一加氣站發生火災致3死1傷】據哈通社20日訊息，哈薩克西部城市阿克託別一座加氣站19日晚發生火災，事故造成3人死亡、1人受傷。遇難者中包括2名未成年人。（中新網）
 
 ---
 
@@ -22722,119 +22794,5 @@ Oil Drops as US-Iran Peace Deal Boosts Supply — Crude oil dropped below $75 pe
 ### 2026-06-18 18:07:29  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China
 
 【Central-local meeting advances Greater Bay Area international science and technology innovation centre】A central-local meeting to advance an international science and technology innovation center in the Guangdong‑Hong Kong‑Macao Greater Bay Area was held in Guangzhou on June 18. Guangdong Party Secretary Huang Kunming said the province must not miss the historic AI development opportunity; the Bay Area already has relatively advanced mechatronics and AI capabilities and will accelerate AI development. Guangdong will push integrated action on data, compute, algorithms and applications, emphasise application-led adoption, use Bay Area scenarios to incubate native technologies, products and services, strengthen key industry platforms and continue to build out intelligent compute capacity to position the region as a global AI industry innovation hub.
-
----
-
-### 2026-06-18 18:07:22  #其他
-
-【央地共建粵港澳大灣區國際科技創新中心工作推進會舉行】6月18日上午，央地共建粵港澳大灣區國際科技創新中心工作推進會在廣州舉行。廣東省委書記黃坤明指出，當前，抓住用好人工智慧發展歷史機遇不容有失，大灣區擁有比較發達的機電一體化和人工智慧技術，乘勢而上加快發展人工智慧具有良好條件和廣闊空間。廣東將堅持資料、算力、演算法、應用一體發力，突出應用牽引，依託大灣區豐富場景培育原生技術、產品和服務體系，進一步做強重點產業平臺，持續築牢智慧算力底座，全力打造全球人工智慧產業創新引領地。（南方Plus）
-
----
-
-### 2026-06-18 18:07:03  #公司 #市場
-
-【信披多次違規持續發酵，國晟科技股價跌停，公司回應】國晟科技信披多次違規訊息持續發酵。6月18日，國晟科技股價繼續大跌，截至收盤，股價跌停，跌停價為14.98元/股，收盤總市值約99億元。相比4月份的高點34.27元/股，股價已經“腰斬”。國晟科技方面獨家回應記者，本次被北京證監局出具警示函所涉及到的資訊披露不及時問題，主要是由於公司董辦在北京，而訴訟檔案快遞到了徐州那邊，出現了一個時間差。按照規定，上市公司需要及時披露相關事項，後續情況以公司公告為準。(中證金牛座)
-
----
-
-### 2026-06-18 18:07:00  #公司 #市場
-
-【北自科技：公司聚焦產業化落地，未生產人形機器人本體及零部件】北自科技釋出異動公告，公司股票價格連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。公司關注到市場對人形機器人概念關注度較高，經自查，截至本公告披露日，公司聚焦產業化落地，未生產人形機器人本體及零部件，亦未發現其他可能或已經對公司股票交易價格產生影響的媒體報道、市場傳聞或涉及其他熱點概念的事項。
-
----
-
-### 2026-06-18 18:06:40  #其他
-
-【尼日首都機場所在區域持續傳出槍聲】尼日首都尼亞美迪奧裡·哈馬尼國際機場所在區域18日清晨持續傳出槍聲。多名當地居民表示，槍聲持續超過一個小時。機場附近居民告訴記者，槍聲主要來自機場周邊區域，暫不清楚是否有人員傷亡。據新華社報道員觀察，目前尼亞美主要街道秩序正常，機場周邊地區沒有明顯增派安保力量，車輛和人員通行基本未受影響。截至發稿時，尼日軍方和政府尚未就此發表官方宣告。（新華社）
-
----
-
-### 2026-06-18 18:06:22  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-GBP/USD down more than 0.50% intraday, trading at 1.3228.
-
----
-
-### 2026-06-18 18:05:45  #市場
-
-美元指數上漲0.3%，報100.66，為2025年5月以來最高水平。
-
----
-
-### 2026-06-18 18:05:29  #國際
-
-以色列國防軍釋出黎巴嫩南部安全區地圖。
-
----
-
-### 2026-06-18 18:05:13  #公司 #觀點
-
-【玉禾田：控股股東1200萬股質押展期至2027年6月19日】玉禾田公告稱，控股股東西藏天之潤所持1200萬股辦理質押展期，佔其所持股份比例7.02%，佔公司總股本比例3.01%，原質押到期日為2026年6月19日，展期後至2027年6月19日，質權人為中信證券，用途為置換前期質押融資。截至公告披露日，控股股東及其一致行動人累計質押股份數佔其持股總數的比例為30.48%，整體風險可控。
-
----
-
-### 2026-06-18 18:05:01  #其他
-
-卡達航空：航線網路已恢復至危機前85%的水平。
-
----
-
-### 2026-06-18 18:04:52  #國際
-
-以色列軍方：士兵已部署至黎巴嫩南部的指定作戰區域。
-
----
-
-### 2026-06-18 18:04:50  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Israeli military says troops have been deployed to designated operational areas in southern Lebanon.
-
----
-
-### 2026-06-18 18:04:42  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
-
-【MORGAN STANLEY: Bank of England likely to hold rates at 3.75% in coming months】Bruna Skarica at MORGAN STANLEY says that despite rising odds of further Fed hikes, the Bank of England is expected to keep its policy rate at 3.75% for the next few months. Thursday's UK jobs data showed a fragile labour market, reducing the BoE's need to raise rates to fight inflation. Skarica adds the BoE can retain a tightening bias while keeping rates unchanged in the near term.
-
----
-
-### 2026-06-18 18:04:39  #焦點 #國際
-
-以色列軍方：出於行動需要，以色列國防軍已部署至安全區，該區域位於黎巴嫩領土內約10公里處。
-
----
-
-### 2026-06-18 18:04:36  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-ISRAELI MILITARY said the Israel Defense Forces have deployed to a security zone roughly 10 km inside Lebanese territory for operational reasons.
-
----
-
-### 2026-06-18 18:02:32  #市場 #國際
-
-印度盧比兌美元收盤上漲0.2%，報94.3300，前收盤報94.5250。
-
----
-
-### 2026-06-18 18:02:27  #市場 #國際
-
-印度盧比兌美元連續第五個交易日上漲。
-
----
-
-### 2026-06-18 18:02:13  #其他
-
-【中國劇協、中國民協、中國書協新一屆領導機構產生】中國戲劇家協會第十次全國代表大會、中國民間文藝家協會第十一次全國代表大會、中國書法家協會第九次全國代表大會6月18日分別在京閉幕。孟廣祿當選中國戲劇家協會第十屆主席、杭間當選中國民間文藝家協會第十一屆主席、孫曉雲當選中國書法家協會第九屆主席。（新華社）
-
----
-
-### 2026-06-18 18:02:12  #MKT News #Market Themes #China EV Leaders #AI Revolution #NVO.O #Impact bullish
-
-【China vice president Han Zheng meets Canadian industry minister and NOVO NORDISK chair】On June 18 China's vice president Han Zheng met Canada's industry minister Joly and a delegation of business leaders, saying Beijing is willing to work with Ottawa to implement leaders' consensus, consolidate traditional cooperation and deepen collaboration in new-energy vehicles and artificial intelligence to advance the China-Canada strategic partnership on health, stability and sustainability. Han also met Sorensen, chair of the NOVO NORDISK Foundation and NOVO NORDISK board, saying China will continue to widen high-level opening, build a market-based, rule-of-law, international business environment and support foreign firms, including NOVO NORDISK, to expand operations in China.
-
----
-
-### 2026-06-18 18:01:36  #公司 #國際
-
-【韓正會見加拿大、丹麥客人】6月18日，國家副主席韓正在北京分別會見加拿大工業部長喬利率領的知名企業家代表團、丹麥諾和諾德基金會主席兼諾和諾德公司董事會主席索文森。在會見喬利一行時，韓正表示，今年1月，習近平主席同卡尼總理在北京成功舉行會晤，達成一系列重要共識。中加兩國經濟互補性強，合作潛力巨大。中方願同加方一道，落實好兩國領導人重要共識，鞏固傳統領域合作，加強新能源汽車、人工智慧等新興領域合作，推動中加新型戰略伙伴關係在健康、穩定、可持續的軌道上向前發展。喬利表示，加方高度重視發展對華關係，願同中方深化企業互利合作，推動加中關係健康穩定發展。（新華社 ）
 
 ---

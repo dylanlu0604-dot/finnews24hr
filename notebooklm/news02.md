@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-20 17:46:35_
-_本檔包含 3545 則快訊，約 653154 字_
+_更新時間：2026-06-20 18:37:45_
+_本檔包含 3542 則快訊，約 651917 字_
+
+---
+
+### 2026-06-18 18:07:22  #其他
+
+【央地共建粵港澳大灣區國際科技創新中心工作推進會舉行】6月18日上午，央地共建粵港澳大灣區國際科技創新中心工作推進會在廣州舉行。廣東省委書記黃坤明指出，當前，抓住用好人工智慧發展歷史機遇不容有失，大灣區擁有比較發達的機電一體化和人工智慧技術，乘勢而上加快發展人工智慧具有良好條件和廣闊空間。廣東將堅持資料、算力、演算法、應用一體發力，突出應用牽引，依託大灣區豐富場景培育原生技術、產品和服務體系，進一步做強重點產業平臺，持續築牢智慧算力底座，全力打造全球人工智慧產業創新引領地。（南方Plus）
+
+---
+
+### 2026-06-18 18:07:03  #公司 #市場
+
+【信披多次違規持續發酵，國晟科技股價跌停，公司回應】國晟科技信披多次違規訊息持續發酵。6月18日，國晟科技股價繼續大跌，截至收盤，股價跌停，跌停價為14.98元/股，收盤總市值約99億元。相比4月份的高點34.27元/股，股價已經“腰斬”。國晟科技方面獨家回應記者，本次被北京證監局出具警示函所涉及到的資訊披露不及時問題，主要是由於公司董辦在北京，而訴訟檔案快遞到了徐州那邊，出現了一個時間差。按照規定，上市公司需要及時披露相關事項，後續情況以公司公告為準。(中證金牛座)
+
+---
+
+### 2026-06-18 18:07:00  #公司 #市場
+
+【北自科技：公司聚焦產業化落地，未生產人形機器人本體及零部件】北自科技釋出異動公告，公司股票價格連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。公司關注到市場對人形機器人概念關注度較高，經自查，截至本公告披露日，公司聚焦產業化落地，未生產人形機器人本體及零部件，亦未發現其他可能或已經對公司股票交易價格產生影響的媒體報道、市場傳聞或涉及其他熱點概念的事項。
+
+---
+
+### 2026-06-18 18:06:40  #其他
+
+【尼日首都機場所在區域持續傳出槍聲】尼日首都尼亞美迪奧裡·哈馬尼國際機場所在區域18日清晨持續傳出槍聲。多名當地居民表示，槍聲持續超過一個小時。機場附近居民告訴記者，槍聲主要來自機場周邊區域，暫不清楚是否有人員傷亡。據新華社報道員觀察，目前尼亞美主要街道秩序正常，機場周邊地區沒有明顯增派安保力量，車輛和人員通行基本未受影響。截至發稿時，尼日軍方和政府尚未就此發表官方宣告。（新華社）
+
+---
+
+### 2026-06-18 18:06:22  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish
+
+GBP/USD down more than 0.50% intraday, trading at 1.3228.
+
+---
+
+### 2026-06-18 18:05:45  #市場
+
+美元指數上漲0.3%，報100.66，為2025年5月以來最高水平。
+
+---
+
+### 2026-06-18 18:05:29  #國際
+
+以色列國防軍釋出黎巴嫩南部安全區地圖。
+
+---
+
+### 2026-06-18 18:05:13  #公司 #觀點
+
+【玉禾田：控股股東1200萬股質押展期至2027年6月19日】玉禾田公告稱，控股股東西藏天之潤所持1200萬股辦理質押展期，佔其所持股份比例7.02%，佔公司總股本比例3.01%，原質押到期日為2026年6月19日，展期後至2027年6月19日，質權人為中信證券，用途為置換前期質押融資。截至公告披露日，控股股東及其一致行動人累計質押股份數佔其持股總數的比例為30.48%，整體風險可控。
+
+---
+
+### 2026-06-18 18:05:01  #其他
+
+卡達航空：航線網路已恢復至危機前85%的水平。
+
+---
+
+### 2026-06-18 18:04:52  #國際
+
+以色列軍方：士兵已部署至黎巴嫩南部的指定作戰區域。
+
+---
+
+### 2026-06-18 18:04:50  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+Israeli military says troops have been deployed to designated operational areas in southern Lebanon.
+
+---
+
+### 2026-06-18 18:04:42  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+【MORGAN STANLEY: Bank of England likely to hold rates at 3.75% in coming months】Bruna Skarica at MORGAN STANLEY says that despite rising odds of further Fed hikes, the Bank of England is expected to keep its policy rate at 3.75% for the next few months. Thursday's UK jobs data showed a fragile labour market, reducing the BoE's need to raise rates to fight inflation. Skarica adds the BoE can retain a tightening bias while keeping rates unchanged in the near term.
+
+---
+
+### 2026-06-18 18:04:39  #焦點 #國際
+
+以色列軍方：出於行動需要，以色列國防軍已部署至安全區，該區域位於黎巴嫩領土內約10公里處。
+
+---
+
+### 2026-06-18 18:04:36  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+ISRAELI MILITARY said the Israel Defense Forces have deployed to a security zone roughly 10 km inside Lebanese territory for operational reasons.
+
+---
+
+### 2026-06-18 18:02:32  #市場 #國際
+
+印度盧比兌美元收盤上漲0.2%，報94.3300，前收盤報94.5250。
+
+---
+
+### 2026-06-18 18:02:27  #市場 #國際
+
+印度盧比兌美元連續第五個交易日上漲。
+
+---
+
+### 2026-06-18 18:02:13  #其他
+
+【中國劇協、中國民協、中國書協新一屆領導機構產生】中國戲劇家協會第十次全國代表大會、中國民間文藝家協會第十一次全國代表大會、中國書法家協會第九次全國代表大會6月18日分別在京閉幕。孟廣祿當選中國戲劇家協會第十屆主席、杭間當選中國民間文藝家協會第十一屆主席、孫曉雲當選中國書法家協會第九屆主席。（新華社）
+
+---
+
+### 2026-06-18 18:02:12  #MKT News #Market Themes #China EV Leaders #AI Revolution #NVO.O #Impact bullish
+
+【China vice president Han Zheng meets Canadian industry minister and NOVO NORDISK chair】On June 18 China's vice president Han Zheng met Canada's industry minister Joly and a delegation of business leaders, saying Beijing is willing to work with Ottawa to implement leaders' consensus, consolidate traditional cooperation and deepen collaboration in new-energy vehicles and artificial intelligence to advance the China-Canada strategic partnership on health, stability and sustainability. Han also met Sorensen, chair of the NOVO NORDISK Foundation and NOVO NORDISK board, saying China will continue to widen high-level opening, build a market-based, rule-of-law, international business environment and support foreign firms, including NOVO NORDISK, to expand operations in China.
+
+---
+
+### 2026-06-18 18:01:36  #公司 #國際
+
+【韓正會見加拿大、丹麥客人】6月18日，國家副主席韓正在北京分別會見加拿大工業部長喬利率領的知名企業家代表團、丹麥諾和諾德基金會主席兼諾和諾德公司董事會主席索文森。在會見喬利一行時，韓正表示，今年1月，習近平主席同卡尼總理在北京成功舉行會晤，達成一系列重要共識。中加兩國經濟互補性強，合作潛力巨大。中方願同加方一道，落實好兩國領導人重要共識，鞏固傳統領域合作，加強新能源汽車、人工智慧等新興領域合作，推動中加新型戰略伙伴關係在健康、穩定、可持續的軌道上向前發展。喬利表示，加方高度重視發展對華關係，願同中方深化企業互利合作，推動加中關係健康穩定發展。（新華社 ）
 
 ---
 
@@ -21322,137 +21436,5 @@ US Futures Inch Mostly Higher — US equity futures were mostly higher on Wednes
 ### 2026-06-17 19:30:44  #公司
 
 【影石高管發聲：專利訴訟期間遭遇黑水軍攻擊，異常賬號集體湧現】影石創新（Insta360）中國區負責人袁躍釋出長文，稱在與某友商互訴專利侵權後，短時間內密集遭遇黑水軍有組織攻擊。公司發現，訴訟訊息釋出後24小時內，多個平臺湧現1490餘個異常賬號，集中釋出內容高度雷同的評論，且這些賬號呈現出明顯的批次特徵，比如IP相同、主頁相似、發帖時間集中、評論話術一致等。袁躍認為，車圈、數碼圈的產品相關水軍並不罕見，但針對尚處於司法程式中的案件發起有組織輿論攻擊，則觸碰了紅線。“法院受理只是訴訟程式的起點，黑水軍和背後黑手，卻試圖一步跨過立案、舉證、審理和判決，直接把企業釘上‘抄襲侵權’的恥辱柱。”（新浪科技）
-
----
-
-### 2026-06-17 19:30:32  #宏觀
-
-【市場監管總局修訂釋出三項腳踏車國家標準】記者今天瞭解到，市場監管總局修訂釋出《腳踏車通用技術要求》《腳踏車裝配要求》《腳踏車檢測裝置和器具技術要求》三項國家標準，分別對腳踏車的技術效能、裝配工藝和檢測裝置及器具作出系統性規定，為提升我國腳踏車產品質量效能水平、推動產業高質量發展提供堅實標準支撐。（央視新聞）
-
----
-
-### 2026-06-17 19:30:31  #MKT News #Market Regions #Greater China
-
-【Navigation warning: Bohai Sea military exercise】Huludao Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the Bohai Sea will be closed to navigation for military exercises from 00:00 to 18:00 on June 18.
-
----
-
-### 2026-06-17 19:30:13  #MKT News
-
-FITCH: Conflict involving Iran has pushed additional emerging-market sectors' outlooks into deterioration.
-
----
-
-### 2026-06-17 19:30:13  #其他
-
-【航行警告！渤海軍事演習】據中國海事局網站訊息，葫蘆島海事局釋出航行警告，6月18日0時至18時，渤海部分海域進行軍事演習，禁止駛入。
-
----
-
-### 2026-06-17 19:30:06  #國際
-
-【國際能源署：自中東戰事爆發以來，經濟合作與發展組織國家石油儲備累計減少1.63億桶】國際能源署17日釋出最新月度石油報告說，自中東戰事爆發以來，經濟合作與發展組織國家石油儲備累計減少1.63億桶，降至1990年12月以來最低水平，主要原因是應急庫存加速釋放。報告說，美國與伊朗日前達成諒解備忘錄，被視為緩和地區局勢的重要進展，可能為霍爾木茲海峽重新開放以及美國解除對伊朗封鎖創造條件。（新華社）
-
----
-
-### 2026-06-17 19:30:02  #MKT News
-
-【TrendForce: 2026 set as critical validation year for TSMC CoPoS equipment and materials; glass substrates mass production likely after 2030】TrendForce said TSMC is focusing on CoPoS and has locked a 310×310 mm substrate size. It expects 2026 to be the key validation year for related equipment and materials vendors, 2027 for pilot production and H2 2028 for mass production. TSMC’s next-stage focus is expected to shift to glass substrates, with mass production likely after 2030.
-
----
-
-### 2026-06-17 19:29:59  #MKT News
-
-An Iran Red Crescent official said the helicopters are fitted with firefighting equipment and can provide medical and rescue services.
-
----
-
-### 2026-06-17 19:29:54  #國際
-
-惠譽：受伊朗戰爭影響，更多新興市場行業展望轉為負面。
-
----
-
-### 2026-06-17 19:29:48  #其他
-
-【TrendForce：預計今年是臺積電CoPoS裝置與材料關鍵驗證期 玻璃基板或2030年後實現量產】TrendForce最新報告指出，臺積電目前聚焦CoPoS，並鎖定310×310毫米基板尺寸，預計2026年是相關裝置與材料商的關鍵驗證期，2027年進入試產，2028下半年正式量產。此外，臺積電下一階段佈局重點預計將轉向玻璃基板，量產或將在2030年後實現。
-
----
-
-### 2026-06-17 19:29:24  #MKT News
-
-IRNA: Iran and Russia signed a memorandum of understanding to purchase 20 helicopters.
-
----
-
-### 2026-06-17 19:29:11  #國際
-
-伊朗伊斯蘭共和國通訊社（IRNA）：伊朗與俄羅斯簽署諒解備忘錄，購買20架直升機。
-
----
-
-### 2026-06-17 19:28:08  #其他
-
-【寧夏多舉措加強困難高校畢業生兜底保障】根據寧夏回族自治區最新印發的《關於促進高校畢業生就業創業和服務高品質供給的實施方案》，針對困難高校畢業生，寧夏將透過強化公益性崗位兜底和社會救助、實施精準幫扶等，多措並舉進行兜底保障。一方面，寧夏將延續實施城鎮公益性崗位兜底安置城鎮困難高校畢業生政策，優先安置2026年度困難高校畢業生，剩餘崗位拓展至離校2年未就業畢業生；規範支援符合條件的防止返貧致貧家庭畢業生從事公益崗位；將符合條件的離校未就業困難畢業生按規定納入低保、臨時救助等社會救助範圍。另一方面，寧夏將健全困難高校畢業生就業幫扶機制，完善“一人一策”精準幫扶臺賬，優先為困難高校畢業生推薦高質量就業崗位；做好高校離校未就業畢業生就業幫扶，精準提供“1131”就業服務，為困難高校畢業生髮放一次性求職補貼2000元；實施“中央專項彩票公益金宏志助航計劃”，組織困難高校畢業生全員參加線上線下培訓1000人以上，提高困難畢業生綜合素質和就業能力。（新華社）
-
----
-
-### 2026-06-17 19:27:05  #公司 #市場
-
-【興森科技：股票交易異常波動 多項業務暫未貢獻顯著收益】興森科技公告稱，公司股票於2026年6月15 - 17日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司子公司廣州興森2025年營收2689.99萬元，佔比0.37%，淨虧損53299.98萬元，FCBGA封裝基板專案未大批次生產；2025年光模組PCB收入不超1.5億元，佔比不超2.08%；玻璃基板研發專案處技術儲備階段，暫無量產訂單。此外，公司有籌劃向特定物件發行A股及戰略投資者退出方案，均未審議。公司市盈率高於同行業，提醒投資者注意風險。
-
----
-
-### 2026-06-17 19:25:35  #公司
-
-【*ST新研：公司股票將於6月22日起撤銷退市風險警示】*ST新研公告，公司股票交易自2026年6月22日開市起撤銷退市風險警示，股票簡稱由“*ST新研”變更為“新研股份”，證券程式碼“300159”保持不變。公司股票交易將於2026年6月18日停牌一天，並於6月22日復牌。股票交易價格的日漲跌幅限制仍為±20%。
-
----
-
-### 2026-06-17 19:25:31  #公司
-
-【華鋒股份：全資子公司擴建產線並獲公司5000萬元融資擔保】華鋒股份公告稱，公司第七屆董事會第二次會議審議透過兩項議案。一是同意全資子公司肇慶市高要區華鋒電子鋁箔有限公司以自有及自籌資金5870萬元，在自有三期車間新增兩條低壓變頻腐蝕生產線，並授權董事長簽署相關合同。二是同意為該子公司向上海浦東發展銀行肇慶分行不超5000萬元的融資提供連帶責任保證擔保，有效期兩年，授權法定代表人簽署擔保合同。兩議案均無需提交股東會審議。
-
----
-
-### 2026-06-17 19:25:23  #公司 #觀點
-
-【中金輻照：股東減持時間屆滿 累計減持49.09萬股】中金輻照公告稱，公司股東共青城鑫衛、共青城鑫剛減持計劃時間已屆滿（2026年3月20日至6月17日）。二者分別減持29.08萬股、20.01萬股，佔總股本比例0.11%、0.08%，減持均價分別為15.87元/股、15.91元。減持後，二者持股比例分別降至1.91%、1.55%。本次減持符合相關規定，未導致公司控制權變更，不影響公司持續經營。
-
----
-
-### 2026-06-17 19:25:16  #市場
-
-【辛巴威批准建設第二家黃金精煉廠】隨著辛巴威黃金產量持續增長，該國已批准建設第二家黃金精煉廠，用於採購和加工黃金。政府官員表示，這家精煉廠將設在該國第二大城市布拉瓦約，預計於明年投產。目前，辛巴威所有黃金均透過國有的Fidelity Gold Refinery出售，但上述官員表示，從明年開始，該精煉廠可能已無法處理全國的黃金產量。辛巴威計劃在2026年實現黃金產量50噸，高於去年創紀錄的46.7噸。
-
----
-
-### 2026-06-17 19:24:49  #公司 #市場
-
-【*ST美麗：股票交易異常波動 目前經營情況正常】*ST美麗公告稱，公司股票於2026年6月15日-6月17日連續三個交易日收盤價格跌幅偏離值累計超12%，屬異常波動情形。經核查，公司未發現公共媒體報道可能影響股價的未公開重大資訊，目前經營正常，不存在應披露而未披露的重大事項，董事及高管在異常波動期間無買賣公司股票情況。此外，公司庭外重組工作正推進，2025年營收63421.19萬元，淨虧損3456.44萬元；2026年一季度營收10559.22萬元，淨利潤2707.12萬元。
-
----
-
-### 2026-06-17 19:24:41  #公司
-
-【韶能股份：股東深圳兆偉減持3188.198萬股 持股降至4.40%】韶能股份公告稱，持股5%以上股東深圳兆偉恆發能源有限公司在2026年3月27日至6月17日，透過集中競價和大宗交易方式累計減持公司股份3188.198萬股，佔公司總股本的3%。減持後，深圳兆偉持股比例由7.40%降至4.40%，不再是持有公司5%以上股份的股東。本次減持計劃已實施完畢，不會導致公司控制權變更，也不影響公司治理結構及持續性經營。
-
----
-
-### 2026-06-17 19:24:34  #公司
-
-【*ST華聞：將於2026年6月18日停牌1個交易日】*ST華聞公告，公司股票將於2026年6月18日停牌1個交易日，預計於2026年6月22日開市起復牌。根據海口中院裁定批准的《華聞傳媒投資集團股份有限公司重整計劃》，公司將按照每10股轉增12股的比例實施資本公積轉增股本，轉增後總股本將增至43.94億股。
-
----
-
-### 2026-06-17 19:24:19  #公司
-
-【乖寶寵物：擬以不超過人民幣2.25億元受讓K9 Natural持有的NPFG品牌智慧財產權等標的資產】乖寶寵物公告，公司擬以自有資金不超過人民幣2.25億元受讓K9 Natural持有的專用於在中國大陸運營“NPFG品牌”的智慧財產權等標的資產，交易對價包含首付款、固定尾款及浮動尾款，其中首付款及固定尾款金額合計為人民幣1.25億元的等值美元，浮動尾款待根據約定的結算終止日前的十二個月內公司就“NPFG品牌”產品在中國大陸實現的銷售總額及運營利潤率情況而定是否需要支付。
-
----
-
-### 2026-06-17 19:24:00  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-【Zimbabwe approves second gold refinery】Zimbabwe has approved construction of a second gold refinery in Bulawayo to purchase and process rising gold output; it is expected to begin operations next year. Currently all gold is sold through state-owned Fidelity Gold Refinery, but officials warn it may be unable to handle national output from next year. Zimbabwe targets 50 tonnes of gold production in 2026, up from a record 46.7 tonnes last year.
 
 ---

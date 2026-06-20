@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 17:46:35_
-_本檔包含 3481 則快訊，約 653358 字_
+_更新時間：2026-06-20 18:37:45_
+_本檔包含 3507 則快訊，約 652221 字_
+
+---
+
+### 2026-06-16 20:30:42  #資料 #國際
+
+美國5月新屋開工年化月率 -15.4%，預期-2%，前值由-2.80%修正為-8.5%。
+美國5月新屋開工總數年化 117.7萬戶，預期143萬戶，前值由146.5萬戶修正為139.2萬戶。
+美國5月進口物價指數月率 1.9%，預期1%，前值由1.90%修正為2%。
+美國5月出口物價指數月率 1.3%，預期1.2%，前值由3.30%修正為3.5%。
+
+---
+
+### 2026-06-16 20:30:38  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. oil import prices rose 13% in May.
+
+---
+
+### 2026-06-16 20:30:35  #MKT News #Important #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+US housing starts in May were annualized at 1.177 mln units, the lowest since May 2020.
+
+---
+
+### 2026-06-16 20:30:33  #MKT News #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
+
+U.S. non‑petroleum import prices rose 0.8% in May.
+
+---
+
+### 2026-06-16 20:30:32  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
+
+U.S. import price index, May MoM +1.9% (consensus +1.0%); prior value revised from +1.90% to +2.00%.
+
+---
+
+### 2026-06-16 20:30:32  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+US export price index rose 1.3% MoM in May, versus 1.2% expected; previous reading revised up to 3.5% from 3.3%.
+
+---
+
+### 2026-06-16 20:30:32  #經濟數據 #美國
+
+美國5月進口物價指數環比增長1.9%，預期1%，前值由1.90%修正為2%。
+
+---
+
+### 2026-06-16 20:30:32  #經濟數據 #美國
+
+美國5月營建許可總數141.3萬戶，預期142萬戶，前值142.3萬戶。
+
+---
+
+### 2026-06-16 20:30:28  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
+
+Trump says phase-two talks will proceed on schedule.
+
+---
+
+### 2026-06-16 20:30:28  #MKT News #Important #Macro & Rates #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+U.S. May building permits 1.413 mln units, vs. 1.42 mln expected; prior 1.423 mln.
+
+---
+
+### 2026-06-16 20:30:28  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish #US10Y
+
+US housing starts in May annualized 1.177 mln, vs. 1.43 mln expected; April prior revised down to 1.392 mln from 1.465 mln.
+
+---
+
+### 2026-06-16 20:30:28  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
+
+US May building permits MoM -0.7% vs -0.9% expected; April +4.4%.
+
+---
+
+### 2026-06-16 20:30:28  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
+
+Canada April net purchases of foreign securities by investors: -C$11.36 bln; previous value revised from C$3.90 bln to C$3.86 bln.
+
+---
+
+### 2026-06-16 20:30:28  #MKT News #DXY #Impact bearish
+
+Foreign investors net bought C$46.91 billion of Canadian securities in April; prior month revised from C$4.62 billion to C$4.40 billion.
+
+---
+
+### 2026-06-16 20:30:22  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+U.S. May housing starts (annualized MoM) -15.4% vs -2.0% expected; prior revised from -2.8% to -8.5%.
+
+---
+
+### 2026-06-16 20:30:19  #國際
+
+特朗普：我將公佈伊朗核協議文字。
+
+---
+
+### 2026-06-16 20:30:13  #焦點 #國際
+
+美國副總統萬斯：（關於伊朗協議）絕不向他們提供一分錢美國資金。
+
+---
+
+### 2026-06-16 20:30:09  #Trading Economics #Markets #commodity #Importance 0
+
+Crude Oil WTI is down by 4.01% — Crude Oil WTI decreased 4.01% to 77.509 USD/Bbl
+
+---
+
+### 2026-06-16 20:30:03  #MKT News #Economic Calendar #Important
+
+United States | Building Permits Total (May) | actual 1413000M | consensus 1420000M | previous 1423000M
+
+---
+
+### 2026-06-16 20:30:03  #MKT News #Economic Calendar #Important
+
+United States | Building Permits (MoM) (May) | actual -0.7% | consensus -0.9% | previous 4.40%
+
+---
+
+### 2026-06-16 20:30:02  #MKT News #Economic Calendar #Important
+
+Canada | Canadian Holdings Of Foreign Securities (Apr) | actual -11360000000B | previous 3900000000B
+
+---
+
+### 2026-06-16 20:30:02  #MKT News #Economic Calendar #Important
+
+Canada | Foreign Holdings Of Canada Securities (Apr) | actual 46910000000B | previous 4620000000B
+
+---
+
+### 2026-06-16 20:30:01  #國際
+
+特朗普：我認為第二階段談判將按時舉行。
+
+---
+
+### 2026-06-16 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | Export Price Index (MoM) (May) | actual 1.3% | consensus 1.2% | previous 3.30%
+
+---
+
+### 2026-06-16 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | Import Price Index (MoM) (May) | actual 1.9% | consensus 1% | previous 1.90%
+
+---
+
+### 2026-06-16 20:30:00  #MKT News #Economic Calendar #Important
+
+United States | Housing Starts Total SAAR (May) | actual 1177000K | consensus 1430000K | previous 1465000K
+
+---
+
+### 2026-06-16 20:29:55  #國際
+
+阿聯酋總統感謝特朗普在戰爭期間對盟友的支援。
+
+---
+
+### 2026-06-16 20:29:45  #其他
+
+中國地震臺網正式測定：06月16日20時25分在青海海西州直轄區（北緯37.90度，東經95.54度）發生3.2級地震，震源深度10千米。
+
+---
+
+### 2026-06-16 20:29:39  #其他
+
+【微信支付正測試AI支付功能，最快將於本週上線】媒體瞭解到，微信支付正聯合騰訊智慧體產品WorkBuddy測試AI支付功能，計劃在微信錢包中上線“AI專屬卡”。該卡消費上限由使用者充值金額決定，支付授權範圍可隨時管控，資金專款專用，智慧體發起支付須經使用者驗密確認。有訊息人士稱，該功能最快於本週上線，騰訊對此未予回覆。（介面）
+
+---
+
+### 2026-06-16 20:28:55  #市場 #國際
+
+特朗普：油價正在迅速下跌。
+
+---
+
+### 2026-06-16 20:28:47  #行業
+
+【黃坤明主持召開廣東加快推進新型機電一體化產業發展座談會】廣東省委書記黃坤明6月16日下午在廣州主持召開廣東加快推進新型機電一體化產業發展座談會。黃坤明詳細介紹了當前和今後一個時期廣東支援新型機電一體化產業發展的政策舉措。他表示，廣東將繼續在機電一體化和軟硬體協同上發力，不斷夯實“機”的基礎、做強“電”的優勢、深化“智”的引領，著力打造世界級新型機電一體化和人工智慧產業叢集，加快實現由製造大省向製造強省跨越。在攻堅新技術方面，圍繞解決“卡脖子”問題組織開展體系化攻關，加大對新能源汽車、無人機等技術領跑領域的支援力度，深耕機器人視覺、智慧感測、先進材料等賽道，努力實現核心關鍵環節和關鍵戰略材料自主可控，加快產業化應用程序，不斷夯實“技術底座”。在構建新業態方面，主攻新一代智慧製造，推動製造系統從自動化邁向自主化，一手抓傳統產業轉型升級，助力迭代更多“先進優品”，一手抓具身智慧、腦機介面、商業航天等風口，全力開發工業智慧體、生活智慧體，打造一批現象級“時代新品”；同時大力發展新一代智慧服務，下力氣培育專業化系統解決方案和服務商，讓AI服務從單點應用走向鏈群賦能、普惠大眾。在塑造新主體方面，加大力度支援具備先進機電製造能力和前沿軟體演算法的龍頭企業牽頭成立創新聯合體，支援特色中小企業在細分領域深耕細作，聚力打造一批工業網際網路平臺、概念驗證中心和成果轉化中試平臺，努力培育一批既懂技術又懂產品、既懂產業又懂商業的戰略科學家、戰略企業家，更好營造優質產業生態。在拓展新市場方面，圍繞“百縣千鎮萬村高質量發展工程”實施、智慧城市打造、海洋經濟發展等開放更多場景，推動無人機、無人車船、機器人等新產品大規模應用，精準對接裝置更新、消費升級等需求，加大優質機電產品、智慧終端供給，多措並舉支援企業和產品出海搶訂單、拓市場，更好把市場規模轉化為產業優勢。在建立新機制方面，進一步加強省級統籌，建立協同推進機制，強化區域聯動，積極引導形成全省差異化佈局，持續健全政策支撐體系，不斷完善算力、資料、模型等基礎要素保障，為促進新型機電一體化產業高質量發展營造良好環境、提供有力支援。希望各位科學家、企業家和各方有識之士積極參與進來，選擇廣東、紮根廣東、深耕廣東，聚焦更快更好發展新型機電一體化產業，將更多新技術、新產品、新專案放在廣東孵化落地，共同開拓產業新藍海，攜手共創更加美好的未來。
+
+---
+
+### 2026-06-16 20:28:28  #公司
+
+【播恩集團：控股股東及其一致行動人擬減持不超3%股份】播恩集團公告稱，控股股東八維集團及其一致行動人九明科技合計持有公司股份1.05億股，佔總股本的65.3473%。計劃自2026年7月9日至10月8日，合計減持不超482.04萬股，即不超總股本的3%。其中，擬大宗交易減持不超321.36萬股，集中競價減持不超160.68萬股。本次減持因股東自身資金需求，減持股份為公司上市前持有。
+
+---
+
+### 2026-06-16 20:28:23  #國際
+
+特朗普重申伊朗不會擁有核武器。
+
+---
+
+### 2026-06-16 20:28:10  #國際
+
+特朗普：霍爾木茲海峽將在週五前完全恢復通航。
+
+---
+
+### 2026-06-16 20:28:05  #國際
+
+特朗普：物價開始下降了。
+
+---
+
+### 2026-06-16 20:27:56  #國際
+
+特朗普重申美國剛剛與伊朗簽署了一項協議。
+
+---
+
+### 2026-06-16 20:27:50  #國際
+
+特朗普：船隻開始透過霍爾木茲海峽航行。
+
+---
+
+### 2026-06-16 20:27:35  #市場
+
+英特爾美股盤前跌超2%，現報125.251美元。
+
+---
+
+### 2026-06-16 20:27:25  #國際
+
+特朗普大力宣傳阿聯酋在美國的投資。
+
+---
+
+### 2026-06-16 20:27:16  #公司
+
+【羅平鋅電：完成對子公司富鋅農業增資 持股比例51%】羅平鋅電公告稱，公司及雲南震東工業集團有限公司分別向全資子公司富鋅農業增資3295.93萬元、1.30億元。截至目前，該增資已完成。富鋅農業於2026年6月15日完成工商變更登記及備案，公司對其持股比例為51%，仍為控股股東，公司合併報表範圍未變。
+
+---
+
+### 2026-06-16 20:27:04  #國際
+
+特朗普讚揚阿聯酋。
+
+---
+
+### 2026-06-16 20:26:55  #國際
+
+【國際能源署：伊朗戰事暴露東南亞能源安全風險】國際能源署16日釋出報告說，伊朗戰事引發的能源危機給東南亞地區能源安全敲響警鐘，若不盡快改變能源供應渠道單一的情況，該地區能源進口成本將大幅增加。報告說，東南亞地區過度依賴經霍爾木茲海峽運輸的石油和天然氣產品。因此，當伊朗戰事導致全球能源供應緊張時，該地區的能源安全尤為脆弱。國際能源署署長法提赫·比羅爾說，對東南亞地區而言，實現能源供應來源多元化是當務之急。（新華社）
+
+---
+
+### 2026-06-16 20:26:29  #其他
+
+【世界衛生組織在中國香港舉行專家會議制定國際草藥藥典】世界衛生組織16日在中國香港召開為期3日的第五次國際草藥藥典專家會議。會議邀請來自世衛組織六大區域的專家，討論並推動已選定草藥的國際協調品質標準。 香港特區政府衛生署中醫藥規管辦公室作為世衛組織傳統醫藥合作中心，支援世衛組織舉辦此次會議，並參與草擬選定草藥的相關工作。 世衛組織相關負責人表示，傳統醫學在全球衛生體系中發揮著重要作用，需以實證為本融入全球衛生體系。制定國際草藥藥典旨在支援建立協調的品質控制標準，加強監管能力，確保傳統醫藥產品的品質與安全。（新華社）
+
+---
+
+### 2026-06-16 20:26:23  #公司 #市場 #央行 #國際
+
+【美股盤前要聞速遞】
+①美股盤前，美股三大股指期貨齊漲，道指期貨漲0.12%，標普500指數期貨漲0.09%，納指期貨漲0.25%。
+②德國DAX指數漲0.44%，英國富時100指數漲0.62%，法國CAC40指數漲0.72%，歐洲斯托克50指數漲0.77%。
+③3. 截至發稿，WTI原油跌2.95%，報78.37美元/桶。布倫特原油跌2.86%，報80.79美元/桶。
+④美伊協議推動霍爾木茲海峽重開，通航量一個月內或恢復至戰前近50%。
+⑤日本央行加息25個基點、暫停縮減購債，副行長強調：後續加息緊盯中東局勢。
+⑥Anthropic與美國政府進行談判 以解決對其AI模型出口限制。
+⑦SpaceX盤前一度漲10%，後續宣佈以600億美元收購AI程式設計初創公司AnySphere漲幅逐漸收窄，現收窄至4.2% ，報200.9美元。
+⑧高通盤前漲超4%，據報正洽購Tenstorrent以擴充套件AI晶片能力。
+⑨臨床階段生物技術公司CervoMed盤前飆漲超32%。CervoMed近期完成了股權融資並同步披露了積極的臨床進展，隨後引發了大股東的大手筆增持，市場信心受到提振。
+
+---
+
+### 2026-06-16 20:26:05  #國際
+
+【中國—太平洋島國多邊合作平臺吹風會召開】今天（16日）上午，中國—太平洋島國多邊合作平臺吹風會在江蘇南京召開。中方相關單位以及萬那杜、薩摩亞、斐濟、索羅門群島等多個太平洋島國的駐華使節及代表與會。會上，多位太平洋島國駐華使節及代表，同中方相關部門圍繞中太技術推廣、人員培訓等領域合作深入交流，共謀互利共贏新路徑。（央視新聞）
+
+---
+
+### 2026-06-16 20:24:46  #市場
+
+納斯達克100指數期貨抹去早前漲幅，轉為下跌。
+
+---
+
+### 2026-06-16 20:23:18  #公司
+
+【創遠信科：與時空道宇簽訂戰略意向合作協議】創遠信科(920961)6月16日公告，公司近期與浙江時空道宇科技有限公司（簡稱“時空道宇”）簽署《戰略意向合作協議》。雙方依託時空道宇衛星星座建設運營、產業落地優勢以及創遠信科在通訊測試研發、全域驗證技術優勢，深耕衛星物聯網領域，聯合共建“NTN技術協同創新實驗室”，合力開展測試體系搭建、品質標準最佳化、前沿技術研發及海內外市場協同拓展等各項合作。時空道宇是吉利控股集團旗下的商業航天企業。
+
+---
+
+### 2026-06-16 20:22:04  #市場
+
+標普 500 指數期貨抹去此前漲幅，轉跌。
+
+---
+
+### 2026-06-16 20:20:09  #其他
+
+據Kpler分析師Amena Bakr：截至6月15日，經由受監測的霍爾木茲海峽區域的確認通行量（涵蓋商業及非商業船隻）保持在5艘，與前一日持平。
 
 ---
 
@@ -20857,143 +21163,5 @@ ECB Governing Council member Pereira said second-round effects have not yet mate
 當天，藍思科技公開電話多次未能接通。記者注意到，該公司在交易所互動平臺上並未直接回複相關問題，而是表示“公司與北美大客戶已有10年深度合作，是其一級核心供應商”“自2023年起持續向頭部商業航天客戶批次供應地面接收器結構件模組”等等。
 
 此前，有受訪行業人士向記者坦言，由於政策原因，目前SpaceX上市對國內商業航天供應鏈的直接拉動有限。（第一財經）
-
----
-
-### 2026-06-15 18:43:58  #公司
-
-【西寧至成都鐵路四川段“四電”工程啟動】6月15日，在四川省阿壩藏族羌族自治州松潘縣包座隧道施工現場，中鐵電氣化局集團有限公司施工人員順利完成首根高鐵接觸網支柱組立施工，標誌著西成鐵路四川段進入“四電”工程施工階段，為全線後續鋪軌、聯調聯試及按期通車奠定堅實基礎。據瞭解，鐵路“四電”工程是通訊、訊號、電力、電力牽引供電四大系統的統稱，是高速鐵路建設的核心關鍵工程，相當於高鐵的“中樞大腦”與“動力之源”，直接保障列車安全、穩定、高效執行。其中，接觸網系統是高鐵動車穩定獲取電能的關鍵設施，其施工質量、安裝精度，直接關係列車執行的安全性與平穩性。中鐵電氣化局西成鐵路專案經理王建軍說，專案面臨高原高寒氣候、有效施工工期短、施工環境複雜等多重挑戰，為確保首根接觸網支柱一次性組立成功，專案部主動對接建設指揮部，多次開展現場踏勘、方案研討與技術交底，持續最佳化施工流程。（新華社）
-
----
-
-### 2026-06-15 18:43:52  #其他
-
-【聯合國：今年前5個月蘇丹逾千名平民死於無人機襲擊】當地時間6月15日，聯合國人權事務高階專員沃爾克·圖爾克表示，今年前五個月，已有超過1000名蘇丹平民在無人機襲擊中喪生。圖爾克當天在聯合國人權理事會會議上說，隨著蘇丹武裝衝突持續擴大和升級，武裝無人機在戰場上的使用顯著增加，造成大量平民傷亡。他表示，聯合國人權事務高階專員辦公室記錄顯示，2026年1月至5月期間，已有超過1000名平民死於無人機襲擊。2023年4月15日，蘇丹武裝部隊與快速支援部隊在首都喀土穆爆發武裝衝突，戰火隨後蔓延至其他地區。關注全球衝突的“武裝衝突地點與事件資料庫專案”（ACLED）資料顯示，蘇丹持續三年多的武裝衝突造成至少5.9萬人死亡。（央視新聞）
-
----
-
-### 2026-06-15 18:43:13  #其他
-
-【報告：今年夏令快消品或總體溫和增長】2026第21屆飲品冷飲年會6月15日上海舉行。會上釋出的《2026中國飲品冷飲（夏令快消品）產業趨勢報告》顯示，2026年以來，飲品、冷飲、啤酒等主要夏令快消品進入溫和復甦週期。但行業整體仍處於成本高企、終端競爭加劇、消費更趨理性的大環境中。較多受訪企業高管表示，2026年守住基本盤，實現有質量的增長，把利潤提上去。據調研，58%的企業表示增速會在10%以下；預計增長10%至20%的企業佔比為34%，穩健溫和增長成為2026的發展主線。
-
----
-
-### 2026-06-15 18:42:50  #Trading Economics #Economy #India #Unemployment Rate #Importance 1
-
-India Unemployment Rate Rises More than Expected — The unemployment rate in India rose to 5.5% in May of 2026 from 5.2% in the previous month, the highest in nearly one year, and ahead of expectations of 5.3%. The deterioration in the labor market was aligned with macroeconomic headwinds in India in recent weeks. The surge in energy prices due to the halt of commercial vessel flows in the Persian Gulf weakened the rupee and dampened the purchasing power for household and businesses. The unemployment rate rose to a one-year high of 5.1% for the rural population, 0.5 percentage points higher than the previous month. Conversely, the urban unemployment rate fell to 6.4% from 6.6% in April, the lowest in over one year. The unemployment rate remained unchanged from the corresponding period of the previous year.
-
----
-
-### 2026-06-15 18:42:03  #MKT News
-
-State Bank of Pakistan left its policy rate unchanged at 11.5%.
-
----
-
-### 2026-06-15 18:41:59  #MKT News
-
-Interfax reported Russia said its forces have captured Artema in Ukraine's Donetsk region.
-
----
-
-### 2026-06-15 18:41:56  #央行 #其他
-
-巴基斯坦央行維持基準利率在11.50%不變；預計利率為11.50%。
-
----
-
-### 2026-06-15 18:41:51  #國際
-
-【俄外長：歐洲誤判局勢 對俄通牒無效】俄羅斯外長拉夫羅夫15日在與白俄羅斯總統盧卡申科會談後表示，歐洲誤以為俄羅斯正在失敗，因此認為自己可以向俄方發出最後通牒，“歐洲錯了”。他還指出，11日英法德三國駐俄大使會見俄副外長時，沒有提出任何新內容。拉夫羅夫重申，俄方致力於遵守俄美元首在美國阿拉斯加州安克雷奇會晤時達成的共識，希望基於美方建議形成的立場能夠落實。他期待美國總統特使威特科夫和特朗普女婿庫什納近期到訪，說明美方將如何落實上述共識。（央視新聞）
-
----
-
-### 2026-06-15 18:41:16  #國際
-
-俄羅斯軍方稱已奪取烏克蘭頓涅茨克地區的阿爾喬馬。
-
----
-
-### 2026-06-15 18:40:47  #MKT News #EURUSD
-
-ECB Governing Council member Pereira said there is no point in speculating on future ECB interest rates.
-
----
-
-### 2026-06-15 18:40:39  #MKT News #Commodities #Energy #EURUSD #Impact bearish #Brent #Impact bullish #DXY
-
-ECB Governing Council member Pereira said energy operations will take months to return to normal.
-
----
-
-### 2026-06-15 18:40:32  #公司
-
-【君實生物：持股5%以上股東及一致行動人權益變動觸及1%】君實生物公告稱，6月15日收到持股5%以上股東上海檀英通知，因基金期限與流動性資金安排，上海檀英及其一致行動人LVC Fund II、LVC Renaissance Fund合計持股由8121.7999萬股減至7125.7999萬股，佔總股本比例由7.91%降至6.94%，權益變動觸及1%刻度。變動時間為2025年9月15日至2026年6月15日，變動方式為大宗交易。本次變動不觸及要約收購，也不會導致公司控股權和實控人變化。
-
----
-
-### 2026-06-15 18:40:19  #央行 #國際
-
-歐洲央行管委佩雷拉：揣測歐洲央行未來利率走勢並無意義。
-
----
-
-### 2026-06-15 18:39:59  #央行 #國際
-
-歐洲央行管委佩雷拉：能源運營恢復正常需要數月時間。
-
----
-
-### 2026-06-15 18:38:25  #公司
-
-【陽光照明：擬3000萬元認購嘉興驊珩基金份額】陽光照明公告稱，公司擬作為有限合夥人，以自有資金3000萬元認繳嘉興驊珩股權投資合夥企業（有限合夥）基金份額。該基金總規模1.31億元，專注投向優質產業領域。本次交易不構成關聯交易和重大資產重組，無需提交董事會或股東會審議。不過，基金尚處募集階段，未完成備案，且面臨集中投資等風險。
-
----
-
-### 2026-06-15 18:38:22  #MKT News
-
-【China NHSA: 2025 per‑admission hospital costs fall for employee, resident schemes】China’s National Healthcare Security Administration said on the 15th that in 2025 the nationwide per‑admission hospital cost under employee medical insurance was 11,152.69 yuan and under resident medical insurance 7,338.49 yuan, down 4.73% and 0.94% respectively from 2024. NHSA said patient out‑of‑pocket burdens eased and credited the decline to medical insurance payment reform away from itemized fee‑for‑service, which it said had fostered overprescribing and excessive testing.
-
----
-
-### 2026-06-15 18:38:09  #其他
-
-【剛果（金）埃博拉確診病例增至782例】剛果（金）政府6月14日公佈的最新資料顯示，該國本輪埃博拉疫情累計確診病例已達782例，過去24小時新增72例，創下本輪疫情暴發以來單日最高增幅。（央視新聞）
-
----
-
-### 2026-06-15 18:37:41  #MKT News
-
-【China-Switzerland watch cooperation working group holds sixth meeting in Shanghai】China and Switzerland held the sixth meeting of their China-Switzerland Economic and Trade Joint Committee watch cooperation working group in Shanghai on June 10. The Swiss delegation included the State Secretariat for Economic Affairs, the Federation of the Swiss Watch Industry and representatives from the Swiss embassy and consulate; the Chinese delegation included the Ministry of Industry and Information Technology, MOFCOM, the China Horologe Association, provincial and city watch industry associations and domestic watch firms. Delegates discussed watch-sector economic and technical cooperation within China-Switzerland FTA upgrade negotiations, agreed to upgrade the MOU establishing the working group, and committed to joint workforce training, leveraging trade fairs to boost exchanges, strengthening IP protection and improving maintenance services for customized watches. Both sides agreed follow-up implementation tasks and to continue using the working group to deepen bilateral watch-industry cooperation.
-
----
-
-### 2026-06-15 18:37:34  #其他
-
-【國家醫保局：去年職工居民醫保次均住院費用均下降】記者今天（15日）從國家醫保局獲悉，2025年，全國職工醫保次均住院費用11152.69元，居民醫保次均住院費用7338.49元，分別較2024年下降4.73%、0.94%，群眾就醫負擔進一步減輕，醫保支付方式改革落地見效。 (央視新聞)
-
----
-
-### 2026-06-15 18:37:04  #公司
-
-【張小泉：杭州富泉投資間接持股減少 富陽瀚朋接盤28.23%股份】張小泉公告稱，因執行《重整計劃》及《張小泉集團執行方案》，杭州富泉投資持有的張小泉集團99.9981%股權股東權益調整為零，依法讓渡給富陽瀚朋。權益變動前，富泉投資間接持有上市公司28.2326%股份；變動後，不再間接持股。富陽瀚朋將持有張小泉集團100%股權，間接持有上市公司28.2331%股份。本次權益變動不會改變公司無控股股東、無實際控制人的狀態，也不影響日常生產經營。
-
----
-
-### 2026-06-15 18:36:51  #公司
-
-【SpaceX市值超特斯拉、Meta，“七巨頭”該改名了？】SpaceX以超過2萬億美元的估值強勢登陸資本市場，超越華爾街“七巨頭（Magnificent Seven）”中的特斯拉(TSLA.O)以及Meta Platforms(META.O)，並引發了一個關鍵問題：“七巨頭”這個稱呼如今是否仍然適用？Futurum Equities首席市場策略師沙伊·博洛爾表示：“‘七巨頭’已很難繼續作為市場領導地位的簡潔代稱，因為全球最重要的公司之一將被排除在該標籤之外。”目前在社交平臺上逐漸流行的一個稱謂是“MANGOS”，分別代表Meta、Anthropic、英偉達(NVDA.O)、Alphabet(GOOGL.O)、OpenAI以及SpaceX。不過部分人士將其中的“A”解讀為蘋果(AAPL.O)。BRI Wealth Management執行長丹·博德曼-韋斯頓則提出了另一名稱：“Magna Atoms”，即在“七巨頭”的基礎上加入Anthropic、OpenAI和SpaceX。
-
----
-
-### 2026-06-15 18:36:40  #MKT News #Market Themes #Magnificent 7 #Star Stocks #NVIDIA #Alphabet #TSLA.O #Impact bearish #META.O #NVDA.O #Impact mixed
-
-【SpaceX valuation tops Tesla and Meta; is 'Magnificent Seven' obsolete?】SpaceX was valued at more than $2 trillion on its market debut, surpassing Tesla and Meta within the group commonly dubbed the Magnificent Seven. Futurum Equities' chief market strategist said the label may no longer serve as an effective shorthand with a major global company excluded. A social-media alternative, MANGOS, is being used to denote Meta, ANTHROPIC, NVIDIA, Alphabet, OpenAI and SpaceX, though some interpret the A as Apple. BRI Wealth Management's CEO proposed renaming to Magna Atoms to reflect adding ANTHROPIC, OpenAI and SpaceX to the original seven.
-
----
-
-### 2026-06-15 18:36:35  #國際
-
-【中國—瑞士經貿聯委會鐘錶合作工作組第六次會議在上海召開】中國—瑞士經貿聯委會鐘錶合作工作組第六次會議6月10日在上海市召開。瑞方代表團由瑞士聯邦經濟總局、瑞士鐘錶工業聯合會、瑞士駐華大使館、瑞士駐上海總領事館的代表組成，中方代表團由工業和資訊化部、商務部、中國鐘錶協會、廣東省鐘錶行業協會、深圳市鐘錶行業協會、中國商業企業管理協會鐘錶商業分會和國內鐘錶骨幹企業的代表組成。中瑞雙方在本次會議上分別就中瑞自貿協定升級談判中鐘錶領域經濟技術合作相關內容、《關於在中瑞經貿聯委會框架下建立鐘錶合作工作組的諒解備忘錄》升級有關事項、聯合開展鐘錶領域從業人員培訓、藉助展會平臺促進雙方交流合作、強化智慧財產權保護、個性化改裝手錶的維修服務等議題進行了深入交流，達成了系列共識，並確定了下一階段共同推動落實的工作事項。中瑞雙方均同意繼續發揮好鐘錶合作工作組作用，進一步加強中瑞鐘錶行業的交流與合作，推動中瑞兩國鐘錶行業共同邁向新的發展階段。
 
 ---

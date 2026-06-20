@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-20 17:46:35_
-_本檔包含 3586 則快訊，約 652919 字_
+_更新時間：2026-06-20 18:37:45_
+_本檔包含 3574 則快訊，約 652256 字_
+
+---
+
+### 2026-06-15 18:43:58  #公司
+
+【西寧至成都鐵路四川段“四電”工程啟動】6月15日，在四川省阿壩藏族羌族自治州松潘縣包座隧道施工現場，中鐵電氣化局集團有限公司施工人員順利完成首根高鐵接觸網支柱組立施工，標誌著西成鐵路四川段進入“四電”工程施工階段，為全線後續鋪軌、聯調聯試及按期通車奠定堅實基礎。據瞭解，鐵路“四電”工程是通訊、訊號、電力、電力牽引供電四大系統的統稱，是高速鐵路建設的核心關鍵工程，相當於高鐵的“中樞大腦”與“動力之源”，直接保障列車安全、穩定、高效執行。其中，接觸網系統是高鐵動車穩定獲取電能的關鍵設施，其施工質量、安裝精度，直接關係列車執行的安全性與平穩性。中鐵電氣化局西成鐵路專案經理王建軍說，專案面臨高原高寒氣候、有效施工工期短、施工環境複雜等多重挑戰，為確保首根接觸網支柱一次性組立成功，專案部主動對接建設指揮部，多次開展現場踏勘、方案研討與技術交底，持續最佳化施工流程。（新華社）
+
+---
+
+### 2026-06-15 18:43:52  #其他
+
+【聯合國：今年前5個月蘇丹逾千名平民死於無人機襲擊】當地時間6月15日，聯合國人權事務高階專員沃爾克·圖爾克表示，今年前五個月，已有超過1000名蘇丹平民在無人機襲擊中喪生。圖爾克當天在聯合國人權理事會會議上說，隨著蘇丹武裝衝突持續擴大和升級，武裝無人機在戰場上的使用顯著增加，造成大量平民傷亡。他表示，聯合國人權事務高階專員辦公室記錄顯示，2026年1月至5月期間，已有超過1000名平民死於無人機襲擊。2023年4月15日，蘇丹武裝部隊與快速支援部隊在首都喀土穆爆發武裝衝突，戰火隨後蔓延至其他地區。關注全球衝突的“武裝衝突地點與事件資料庫專案”（ACLED）資料顯示，蘇丹持續三年多的武裝衝突造成至少5.9萬人死亡。（央視新聞）
+
+---
+
+### 2026-06-15 18:43:13  #其他
+
+【報告：今年夏令快消品或總體溫和增長】2026第21屆飲品冷飲年會6月15日上海舉行。會上釋出的《2026中國飲品冷飲（夏令快消品）產業趨勢報告》顯示，2026年以來，飲品、冷飲、啤酒等主要夏令快消品進入溫和復甦週期。但行業整體仍處於成本高企、終端競爭加劇、消費更趨理性的大環境中。較多受訪企業高管表示，2026年守住基本盤，實現有質量的增長，把利潤提上去。據調研，58%的企業表示增速會在10%以下；預計增長10%至20%的企業佔比為34%，穩健溫和增長成為2026的發展主線。
+
+---
+
+### 2026-06-15 18:42:50  #Trading Economics #Economy #India #Unemployment Rate #Importance 1
+
+India Unemployment Rate Rises More than Expected — The unemployment rate in India rose to 5.5% in May of 2026 from 5.2% in the previous month, the highest in nearly one year, and ahead of expectations of 5.3%. The deterioration in the labor market was aligned with macroeconomic headwinds in India in recent weeks. The surge in energy prices due to the halt of commercial vessel flows in the Persian Gulf weakened the rupee and dampened the purchasing power for household and businesses. The unemployment rate rose to a one-year high of 5.1% for the rural population, 0.5 percentage points higher than the previous month. Conversely, the urban unemployment rate fell to 6.4% from 6.6% in April, the lowest in over one year. The unemployment rate remained unchanged from the corresponding period of the previous year.
+
+---
+
+### 2026-06-15 18:42:03  #MKT News
+
+State Bank of Pakistan left its policy rate unchanged at 11.5%.
+
+---
+
+### 2026-06-15 18:41:59  #MKT News
+
+Interfax reported Russia said its forces have captured Artema in Ukraine's Donetsk region.
+
+---
+
+### 2026-06-15 18:41:56  #央行 #其他
+
+巴基斯坦央行維持基準利率在11.50%不變；預計利率為11.50%。
+
+---
+
+### 2026-06-15 18:41:51  #國際
+
+【俄外長：歐洲誤判局勢 對俄通牒無效】俄羅斯外長拉夫羅夫15日在與白俄羅斯總統盧卡申科會談後表示，歐洲誤以為俄羅斯正在失敗，因此認為自己可以向俄方發出最後通牒，“歐洲錯了”。他還指出，11日英法德三國駐俄大使會見俄副外長時，沒有提出任何新內容。拉夫羅夫重申，俄方致力於遵守俄美元首在美國阿拉斯加州安克雷奇會晤時達成的共識，希望基於美方建議形成的立場能夠落實。他期待美國總統特使威特科夫和特朗普女婿庫什納近期到訪，說明美方將如何落實上述共識。（央視新聞）
+
+---
+
+### 2026-06-15 18:41:16  #國際
+
+俄羅斯軍方稱已奪取烏克蘭頓涅茨克地區的阿爾喬馬。
+
+---
+
+### 2026-06-15 18:40:47  #MKT News #EURUSD
+
+ECB Governing Council member Pereira said there is no point in speculating on future ECB interest rates.
+
+---
+
+### 2026-06-15 18:40:39  #MKT News #Commodities #Energy #EURUSD #Impact bearish #Brent #Impact bullish #DXY
+
+ECB Governing Council member Pereira said energy operations will take months to return to normal.
+
+---
+
+### 2026-06-15 18:40:32  #公司
+
+【君實生物：持股5%以上股東及一致行動人權益變動觸及1%】君實生物公告稱，6月15日收到持股5%以上股東上海檀英通知，因基金期限與流動性資金安排，上海檀英及其一致行動人LVC Fund II、LVC Renaissance Fund合計持股由8121.7999萬股減至7125.7999萬股，佔總股本比例由7.91%降至6.94%，權益變動觸及1%刻度。變動時間為2025年9月15日至2026年6月15日，變動方式為大宗交易。本次變動不觸及要約收購，也不會導致公司控股權和實控人變化。
+
+---
+
+### 2026-06-15 18:40:19  #央行 #國際
+
+歐洲央行管委佩雷拉：揣測歐洲央行未來利率走勢並無意義。
+
+---
+
+### 2026-06-15 18:39:59  #央行 #國際
+
+歐洲央行管委佩雷拉：能源運營恢復正常需要數月時間。
+
+---
+
+### 2026-06-15 18:38:25  #公司
+
+【陽光照明：擬3000萬元認購嘉興驊珩基金份額】陽光照明公告稱，公司擬作為有限合夥人，以自有資金3000萬元認繳嘉興驊珩股權投資合夥企業（有限合夥）基金份額。該基金總規模1.31億元，專注投向優質產業領域。本次交易不構成關聯交易和重大資產重組，無需提交董事會或股東會審議。不過，基金尚處募集階段，未完成備案，且面臨集中投資等風險。
+
+---
+
+### 2026-06-15 18:38:22  #MKT News
+
+【China NHSA: 2025 per‑admission hospital costs fall for employee, resident schemes】China’s National Healthcare Security Administration said on the 15th that in 2025 the nationwide per‑admission hospital cost under employee medical insurance was 11,152.69 yuan and under resident medical insurance 7,338.49 yuan, down 4.73% and 0.94% respectively from 2024. NHSA said patient out‑of‑pocket burdens eased and credited the decline to medical insurance payment reform away from itemized fee‑for‑service, which it said had fostered overprescribing and excessive testing.
+
+---
+
+### 2026-06-15 18:38:09  #其他
+
+【剛果（金）埃博拉確診病例增至782例】剛果（金）政府6月14日公佈的最新資料顯示，該國本輪埃博拉疫情累計確診病例已達782例，過去24小時新增72例，創下本輪疫情暴發以來單日最高增幅。（央視新聞）
+
+---
+
+### 2026-06-15 18:37:41  #MKT News
+
+【China-Switzerland watch cooperation working group holds sixth meeting in Shanghai】China and Switzerland held the sixth meeting of their China-Switzerland Economic and Trade Joint Committee watch cooperation working group in Shanghai on June 10. The Swiss delegation included the State Secretariat for Economic Affairs, the Federation of the Swiss Watch Industry and representatives from the Swiss embassy and consulate; the Chinese delegation included the Ministry of Industry and Information Technology, MOFCOM, the China Horologe Association, provincial and city watch industry associations and domestic watch firms. Delegates discussed watch-sector economic and technical cooperation within China-Switzerland FTA upgrade negotiations, agreed to upgrade the MOU establishing the working group, and committed to joint workforce training, leveraging trade fairs to boost exchanges, strengthening IP protection and improving maintenance services for customized watches. Both sides agreed follow-up implementation tasks and to continue using the working group to deepen bilateral watch-industry cooperation.
+
+---
+
+### 2026-06-15 18:37:34  #其他
+
+【國家醫保局：去年職工居民醫保次均住院費用均下降】記者今天（15日）從國家醫保局獲悉，2025年，全國職工醫保次均住院費用11152.69元，居民醫保次均住院費用7338.49元，分別較2024年下降4.73%、0.94%，群眾就醫負擔進一步減輕，醫保支付方式改革落地見效。 (央視新聞)
+
+---
+
+### 2026-06-15 18:37:04  #公司
+
+【張小泉：杭州富泉投資間接持股減少 富陽瀚朋接盤28.23%股份】張小泉公告稱，因執行《重整計劃》及《張小泉集團執行方案》，杭州富泉投資持有的張小泉集團99.9981%股權股東權益調整為零，依法讓渡給富陽瀚朋。權益變動前，富泉投資間接持有上市公司28.2326%股份；變動後，不再間接持股。富陽瀚朋將持有張小泉集團100%股權，間接持有上市公司28.2331%股份。本次權益變動不會改變公司無控股股東、無實際控制人的狀態，也不影響日常生產經營。
+
+---
+
+### 2026-06-15 18:36:51  #公司
+
+【SpaceX市值超特斯拉、Meta，“七巨頭”該改名了？】SpaceX以超過2萬億美元的估值強勢登陸資本市場，超越華爾街“七巨頭（Magnificent Seven）”中的特斯拉(TSLA.O)以及Meta Platforms(META.O)，並引發了一個關鍵問題：“七巨頭”這個稱呼如今是否仍然適用？Futurum Equities首席市場策略師沙伊·博洛爾表示：“‘七巨頭’已很難繼續作為市場領導地位的簡潔代稱，因為全球最重要的公司之一將被排除在該標籤之外。”目前在社交平臺上逐漸流行的一個稱謂是“MANGOS”，分別代表Meta、Anthropic、英偉達(NVDA.O)、Alphabet(GOOGL.O)、OpenAI以及SpaceX。不過部分人士將其中的“A”解讀為蘋果(AAPL.O)。BRI Wealth Management執行長丹·博德曼-韋斯頓則提出了另一名稱：“Magna Atoms”，即在“七巨頭”的基礎上加入Anthropic、OpenAI和SpaceX。
+
+---
+
+### 2026-06-15 18:36:40  #MKT News #Market Themes #Magnificent 7 #Star Stocks #NVIDIA #Alphabet #TSLA.O #Impact bearish #META.O #NVDA.O #Impact mixed
+
+【SpaceX valuation tops Tesla and Meta; is 'Magnificent Seven' obsolete?】SpaceX was valued at more than $2 trillion on its market debut, surpassing Tesla and Meta within the group commonly dubbed the Magnificent Seven. Futurum Equities' chief market strategist said the label may no longer serve as an effective shorthand with a major global company excluded. A social-media alternative, MANGOS, is being used to denote Meta, ANTHROPIC, NVIDIA, Alphabet, OpenAI and SpaceX, though some interpret the A as Apple. BRI Wealth Management's CEO proposed renaming to Magna Atoms to reflect adding ANTHROPIC, OpenAI and SpaceX to the original seven.
+
+---
+
+### 2026-06-15 18:36:35  #國際
+
+【中國—瑞士經貿聯委會鐘錶合作工作組第六次會議在上海召開】中國—瑞士經貿聯委會鐘錶合作工作組第六次會議6月10日在上海市召開。瑞方代表團由瑞士聯邦經濟總局、瑞士鐘錶工業聯合會、瑞士駐華大使館、瑞士駐上海總領事館的代表組成，中方代表團由工業和資訊化部、商務部、中國鐘錶協會、廣東省鐘錶行業協會、深圳市鐘錶行業協會、中國商業企業管理協會鐘錶商業分會和國內鐘錶骨幹企業的代表組成。中瑞雙方在本次會議上分別就中瑞自貿協定升級談判中鐘錶領域經濟技術合作相關內容、《關於在中瑞經貿聯委會框架下建立鐘錶合作工作組的諒解備忘錄》升級有關事項、聯合開展鐘錶領域從業人員培訓、藉助展會平臺促進雙方交流合作、強化智慧財產權保護、個性化改裝手錶的維修服務等議題進行了深入交流，達成了系列共識，並確定了下一階段共同推動落實的工作事項。中瑞雙方均同意繼續發揮好鐘錶合作工作組作用，進一步加強中瑞鐘錶行業的交流與合作，推動中瑞兩國鐘錶行業共同邁向新的發展階段。
 
 ---
 
@@ -21474,215 +21612,5 @@ Israeli military warned residents in four areas of southern Lebanon to evacuate.
 ### 2026-06-13 18:38:44  #國際
 
 以色列襲擊黎巴嫩南部提爾區錫迪金鎮。
-
----
-
-### 2026-06-13 18:36:45  #MKT News
-
-According to Iranian media, the funeral for the late Supreme Leader Ali Khamenei will begin in Tehran on July 4, with burial scheduled in Mashhad on July 9.
-
----
-
-### 2026-06-13 18:35:44  #焦點 #國際
-
-伊朗國家媒體：伊朗已故最高領袖阿里·哈梅內伊的葬禮將於7月4日在德黑蘭開始，安葬儀式定於7月9日在馬什哈德舉行。
-
----
-
-### 2026-06-13 18:34:55  #MKT News
-
-Russian Defence Ministry said Russian forces liberated 172 buildings in Konstantinovka in the Donetsk People's Republic and reported Ukrainian losses of 40 personnel.
-
----
-
-### 2026-06-13 18:34:50  #公司 #市場
-
-【下週解禁市值超420億元】據統計，下週（6月15日至18日）將有42股解禁，合計解禁數量為8.81億股，按照最新收盤價計算，合計解禁市值424.6億元。從解禁市值來看，5股解禁市值超17億元，其中燕東微解禁市值最高，下週將有4.21億股上市流通，本次解禁主要為首發原股東限售股份，解禁股東為公司實控人北京電子控股有限責任公司，解禁市值為272.91億元，解禁比例為29.46%。從解禁比例來看，7股解禁比例超10%，其中星源卓鎂、光華股份、豐立智慧的解禁比例居前，分別為66.77%、65.63%、46.61%。
-
----
-
-### 2026-06-13 18:33:41  #MKT News
-
-【Iran announces funeral arrangements for late Supreme Leader Khamenei】Islamic Republic of Iran Broadcasting (IRIB) said on the 13th that authorities announced funeral arrangements for the late Supreme Leader Khamenei.
-
----
-
-### 2026-06-13 18:33:19  #國際
-
-伊朗已故最高領袖哈梅內伊將於7月9日在馬什哈德下葬。
-
----
-
-### 2026-06-13 18:32:37  #國際
-
-【伊朗公佈已故最高領袖哈梅內伊葬禮安排】伊朗伊斯蘭共和國廣播電視臺13日報道說，伊朗官方當天公佈了伊朗已故最高領袖哈梅內伊的葬禮安排。（新華社）
-
----
-
-### 2026-06-13 18:31:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【HEZBOLLAH says it used drones to strike Israeli military vehicles in southern Lebanon】HEZBOLLAH said on the 13th local time it was responsible for two drone strikes on Israeli military vehicles in southern Lebanon. It said at 07:00 it struck an Israeli vehicle on a riverbed in the outskirts of Nabatieh district, and about 30 minutes later struck a second Israeli vehicle on Jabal Sara in the Marjayoun area. HEZBOLLAH said the attacks were in response to Israeli violations of the ceasefire and part of its "legitimate right to resist the occupation and liberate land."
-
----
-
-### 2026-06-13 18:31:36  #國際
-
-【黎真主黨稱在黎南部使用無人機打擊以軍車輛】黎巴嫩真主黨當地時間13日宣佈對黎南部發生的兩起無人機襲擊以色列軍車事件負責。真主黨稱當天7時襲擊了納巴蒂耶區郊區河床上一輛以軍車輛。30分鐘後，襲擊了邁爾季歐雲地區薩拉山上的第二輛以軍軍車。真主黨表示，發動襲擊是為了回應以色列違反停火協議的行為，也是其“抵抗佔領和解放土地的合法權利”的一部分。
-
----
-
-### 2026-06-13 18:31:07  #MKT News #Market Regions #Europe & UK
-
-【FAO: Over 100 million in Europe and Central Asia have faced food shortages】FAO assistant director-general and Europe and Central Asia regional representative Gu Chu said in Dushanbe that more than 100 million people in Europe and Central Asia have experienced moderate or severe food shortages in recent years. Around 90 million hectares in the region are degraded, weakening agricultural capacity and threatening long-term sustainability. FAO says roughly $21.4 billion has been invested in the region’s food and agricultural systems since 2015 but remains insufficient; the organization estimates an additional $650 billion a year globally is needed to transform food and agriculture systems.
-
----
-
-### 2026-06-13 18:30:18  #國際
-
-【聯合國糧農組織：歐洲和中亞逾1億人經歷糧食短缺】聯合國糧食及農業組織助理總幹事、歐洲及中亞區域代表古楚12日在塔吉克首都杜尚別表示，近年來，歐洲和中亞地區超過1億人經歷了糧食短缺問題。古楚在一場由塔吉克主辦的國際會議上說，確保糧食安全仍是一項嚴峻挑戰。近年來，歐洲和中亞超過1億人經歷了中度或重度糧食短缺問題。該地區約9000萬公頃土地受到退化影響，削弱了農業生產能力和生態系統功能，危及地區長期可持續發展。
-
----
-
-### 2026-06-13 18:30:08  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【US investors target Venezuelan oilfields; Lionheart moves to list via Keo Energy merger】US investment groups are racing to acquire underused Venezuelan oilfields after a shift in US-Venezuela policy. Miami-based Lionheart Capital has signed a letter of intent to merge shell company Lionheart Holdings with Keo Energy, which holds Venezuelan oil assets; the deal would create the first Venezuela-focused oil firm listed on Nasdaq and offer US and institutional investors direct exposure. Lionheart aims for a post-deal listing valuation of roughly $1bn; Lionheart Holdings raised $230m in 2024. Sources say talks are at an early stage and may fail. Lionheart Holdings will hold a shareholder vote next week to seek more time to find a target, otherwise it may face liquidation.
-
----
-
-### 2026-06-13 18:28:53  #國際
-
-【兩名駐沖繩美軍士兵涉嫌酒駕被捕】日本沖繩縣警方13日以涉嫌酒後駕駛為由，逮捕了兩名駐沖繩美軍士兵。據日本方面訊息，當地警方13日凌晨在巡邏過程中發現兩起涉嫌酒後駕駛的案件。經呼氣酒精檢測，兩名美軍士兵體內酒精含量均超法定標準，隨後被當場逮捕。但兩人均否認相關指控。當地統計顯示，僅2025年一年，沖繩縣警方查獲的涉及駐日美軍及相關人員的刑事犯罪案件就超100起。（央視）
-
----
-
-### 2026-06-13 18:26:38  #MKT News #Commodities #Energy #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
-
-According to the Financial Times, investors have joined President Trump’s $100 billion Venezuelan oil race. Lionheart Capital plans to list a Venezuelan oil company via a merger with its SPAC Lionheart Holdings, valuing the target at about $1 billion.
-
----
-
-### 2026-06-13 18:25:18  #公司 #國際
-
-市場訊息：美國多元化投資公司獅心資本（Lionheart Capital）計劃透過與其空白支票公司獅心控股（Lionheart Holdings）合併，推動一家委內瑞拉石油企業上市，估值約為10億美元。
-
----
-
-### 2026-06-13 18:21:26  #國際
-
-伊朗四家主要銀行的電子服務自今天上午起中斷，影響了手機銀行、網上銀行、ATM機、銀行卡支付和其他服務。有報道稱可能遭遇了網路攻擊，但官方尚未證實攻擊原因。（法爾斯通訊社）
-
----
-
-### 2026-06-13 18:17:03  #其他
-
-土耳其將股票賣空禁令延長至6月26日。
-
----
-
-### 2026-06-13 18:15:44  #國際
-
-一位特朗普政府官員稱：很難確定伊朗可能獲得釋放的資金價值，因為這取決於伊朗提供了什麼。
-
----
-
-### 2026-06-13 18:13:29  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Ukraine's military said Ukrainian forces attacked oil infrastructure in Russia's Volgograd region.
-
----
-
-### 2026-06-13 18:13:15  #其他
-
-【京東健康與北京友誼醫院達成合作 將共同建設消化系統專科大模型】據“京東健康黑板報”訊息，6月13日，京東健康與首都醫科大學附屬北京友誼醫院（簡稱“北京友誼醫院”）正式達成合作。雙方將共同建設消化系統專科大模型，重點應用於胃腸鏡早癌篩查、疾病診斷等臨床場景，推動AI技術與消化專科診療的深度融合。
-
----
-
-### 2026-06-13 18:10:49  #國際
-
-烏克蘭總參謀部稱，烏克蘭軍方襲擊了俄羅斯伏爾加格勒地區的一處石油基礎設施。
-
----
-
-### 2026-06-13 18:09:34  #公司
-
-【內蒙古首個AI鍊鋼專案在包鋼投用】據內蒙古日報，日前，內蒙古首個AI鍊鋼專案——“包鋼智冶”智慧鍊鋼大模型在包鋼股份1號轉爐成功投用。該專案打破了傳統“經驗鍊鋼”瓶頸，實現了從人工研判向資料演算法自主管控的轉型。
-
----
-
-### 2026-06-13 18:07:19  #MKT News
-
-Gaza Health Ministry said Israeli strikes on the Gaza Strip over the past 48 hours have killed at least two Palestinians and wounded 11.
-
----
-
-### 2026-06-13 18:06:23  #國際
-
-加沙衛生部門稱，過去48小時內，以色列對加沙地帶的襲擊造成至少兩名巴勒斯坦人死亡，11人受傷。
-
----
-
-### 2026-06-13 18:01:32  #MKT News #Market Regions #Greater China
-
-【Former vice president of People's Insurance Company (Group) of China Yu Xiaoping under investigation】Yu Xiaoping, former party committee member and vice president of the People's Insurance Company (Group) of China, is suspected of serious disciplinary and legal violations and is under disciplinary review and a supervisory investigation by the Central Commission for Discipline Inspection and the National Supervisory Commission.
-
----
-
-### 2026-06-13 18:00:31  #公司
-
-【中國人民保險集團股份有限公司原副總裁俞小平接受審查調查】中國人民保險集團股份有限公司原黨委委員、副總裁俞小平涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）
-
----
-
-### 2026-06-13 17:59:56  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Market report: Israel struck Kafr Rumman in southern Lebanon.
-
----
-
-### 2026-06-13 17:58:38  #國際
-
-以色列襲擊黎巴嫩南部城鎮卡夫爾魯曼。
-
----
-
-### 2026-06-13 17:56:15  #其他
-
-【前5月全國鐵路傳送外籍旅客1002.4萬人次、同比增長35.5%。】從中國國家鐵路集團有限公司獲悉，1至5月，中老鐵路傳送跨境旅客16.7萬人次、同比增長35%，廣深港高鐵傳送跨境旅客1453.4萬人次、同比增長14.5%。同時，鐵路部門積極適應國家過境免籤政策帶來的客流增長，為外籍旅客出行提供便利，前5月全國鐵路傳送外籍旅客1002.4萬人次、同比增長35.5%。（中新社）
-
----
-
-### 2026-06-13 17:54:24  #其他
-
-【今年前5月全國鐵路傳送旅客19.69億人次，同比增長5.7%】記者13日從中國國家鐵路集團有限公司獲悉，1至5月，全國鐵路傳送旅客19.69億人次、同比增長5.7%，創歷史同期新高。資料顯示，1至5月，全國鐵路日均開行旅客列車11541列、同比增長5.9%，其中，5月1日傳送旅客2484.4萬人次，創單日旅客傳送量歷史新高。（中新社）
-
----
-
-### 2026-06-13 17:51:50  #MKT News #Commodities #Energy
-
-【Poland PM says fuel price caps to end in summer】Poland's Prime Minister Tusk said on Saturday that, given expectations of an easing in a conflict involving Iran and stabilising prices, Poland will end fuel price caps this summer. In March the government cut fuel VAT from 23% to 8%, reduced excise duty to the EU minimum and imposed daily caps on motor fuel prices; those measures have been extended every two weeks since. This week Warsaw extended the VAT cut and price caps to end-June but did not extend the excise reduction. Tusk said Poland had the cheapest fuel in Europe during the crisis but the measures will be ended this summer.
-
----
-
-### 2026-06-13 17:50:04  #其他
-
-英國房屋建築商Vistry向員工提供自願離職方案。
-
----
-
-### 2026-06-13 17:49:51  #MKT News #Star Stocks #Xiaomi
-
-【Lei Jun: Xiaomi Auto places high priority on testing; testing team tops 800】Xiaomi chairman Lei Jun said on Weibo that Xiaomi Auto places high priority on testing. The company has a testing staff of more than 800, with over 45% holding more than 10 years’ experience. The team has conducted tests in 300+ cities, accumulating more than 35 mln km. Xiaomi Auto runs 126 test labs across Beijing, Nanjing, Shanghai and Wuhan covering over 65,600 sqm, and has rented two full-vehicle proving grounds in Yancheng (Jiangsu) and Guangde (Anhui). A roughly 500-person extreme-environment team, split into summer and winter units, handles tests in Heihe (severe cold), Turpan (high heat), the Kunlun Mountains (high altitude) and Hainan (high humidity).
-
----
-
-### 2026-06-13 17:48:14  #MKT News #Market Regions #Europe & UK
-
-Polish Prime Minister Tusk said Poland will lift fuel price caps at the end of summer.
-
----
-
-### 2026-06-13 17:46:57  #國際
-
-波蘭總理圖斯克稱，隨著美伊和平談判取得進展，波蘭準備停止燃油補貼。這些補貼計劃原定持續到6月底，預計每月耗資16億茲羅提（約合4.36億美元）。
 
 ---
