@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 18:01:12",
+  "updated": "2026-06-20 18:05:19",
   "count": 17585,
   "items": [
+    {
+      "id": "4945767",
+      "time": "2026-06-20 18:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘克里特島西南發生5.8級地震，暫無損失報告。"
+    },
     {
       "id": "4945766",
       "time": "2026-06-20 17:55:58",
@@ -162008,16 +162016,6 @@
         "國際"
       ],
       "text": "加沙衛生部門稱，過去48小時內，以色列對加沙地帶的襲擊造成至少兩名巴勒斯坦人死亡，11人受傷。"
-    },
-    {
-      "id": "mkt:019ec06d-f6fd-7dd8-afe9-e87b2d3fa276",
-      "time": "2026-06-13 18:01:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Former vice president of People's Insurance Company (Group) of China Yu Xiaoping under investigation】Yu Xiaoping, former party committee member and vice president of the People's Insurance Company (Group) of China, is suspected of serious disciplinary and legal violations and is under disciplinary review and a supervisory investigation by the Central Commission for Discipline Inspection and the National Supervisory Commission."
     }
   ]
 }
