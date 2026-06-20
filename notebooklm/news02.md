@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-20 22:02:26_
-_本檔包含 3526 則快訊，約 651254 字_
+_更新時間：2026-06-20 23:46:12_
+_本檔包含 3529 則快訊，約 649962 字_
+
+---
+
+### 2026-06-18 18:38:13  #觀點 #國際
+
+摩根大通上調日本東證股價指數 2026 年末目標位，由此前 4300 點上調至 4400 點。
+
+---
+
+### 2026-06-18 18:37:52  #公司
+
+【上工申貝：浦東新區國資委擬轉讓6.37%股份給浦東資本】上工申貝公告稱，浦東新區國資委擬將所持公司45,395,358股A股股票（佔總股本6.37%），以非公開協議轉讓方式轉讓給浦東資本，作為對其非貨幣出資。2026年5月15日，浦東資本董事會已作決議；6月17日，雙方簽訂《股份轉讓協議》。本次權益變動尚需浦東新區國資委批覆、上交所合規確認及中登公司上海分公司辦理過戶。變動後，公司仍無控股股東或實際控制人。
+
+---
+
+### 2026-06-18 18:37:34  #其他 #焦點
+
+【金融監督管理總局：加強人工智慧安全開發應用治理】國家金融監督管理總局釋出關於銀行業保險業人工智慧安全開發應用的指導意見。其中提出，加強人工智慧安全開發應用治理。開發應用人工智慧的銀行業保險業金融機構，董（理）事會應指定專門委員會對人工智慧開發應用管理負責，統籌制定發展規劃，推進能力體系建設，制定制度規範。
+
+---
+
+### 2026-06-18 18:37:08  #其他
+
+歐元/美元一週期權觸及4月8日以來最悲觀水平。
+
+---
+
+### 2026-06-18 18:36:16  #Trading Economics #Economy #Botswana #Interest Rate #Importance 1
+
+Bank of Botswana Keeps Bank Rate at 5.5% in June — The Bank of Botswana kept its Bank Rate at 5.5% on June 18, 2026, after a 200 basis point increase in the prior meeting, leaving borrowing costs at their highest since September 2017. Policymakers have opted for a wait-and-see stance as they assess the effects of earlier monetary tightening on inflation trends, especially in light of the recent US-Iran agreement to end their conflict and reopen the Strait of Hormuz. The latest CPI data revealed that Botswana’s inflation rate surged to 10.7% in May, marking the highest level since December 2022, driven primarily by a sharp rise in energy prices, while the core inflation rate reached 5.9%, the highest since July 2023.
+
+---
+
+### 2026-06-18 18:36:11  #其他
+
+香港天文臺釋出黑色暴雨警告。
+
+---
+
+### 2026-06-18 18:36:04  #公司 #市場
+
+【愛迪特：股票連續三日漲幅偏離值累計超30% 不存在應披露未披露資訊】愛迪特公告稱，公司股票在2026年6月16日、6月17日、6月18日連續三個交易日收盤價格漲幅偏離值累計超過30%，屬於異常波動。經自查並向控股股東及實控人核實，不存在應披露而未披露的重大資訊。公司近期經營正常，主營未變，內外部環境無重大變化，控股股東及實控人在異常波動期間無買賣公司股票情形。提醒投資者理性投資，注意風險。
+
+---
+
+### 2026-06-18 18:35:50  #其他
+
+市場訊息：阿聯酋將禁止 15 歲以下兒童使用社交媒體平臺。
+
+---
+
+### 2026-06-18 18:35:29  #公司 #市場
+
+【東證資管：旗下部分基金自6月18日起調整停牌股估值方法】東證資管公告稱，自2026年6月18日（含）起，採用“指數收益法”對旗下部分基金持有的停牌股票銀河微電（股票程式碼：688689.SH）予以估值。待該股票復牌且交易體現活躍市場交易特徵後，將恢復用當日收盤價格估值，屆時不再另行公告。
+
+---
+
+### 2026-06-18 18:34:36  #公司
+
+【國家網際網路資訊辦公室釋出《促進分散式數字身份互通互認應用規定（徵求意見稿）》】國家網際網路資訊辦公室公告，為促進分散式數字身份創新發展和互通互認應用，建立健全分散式數字身份公共服務體系，支撐國家區塊鏈網路基礎共性服務能力建設，根據有關法律法規，我辦會同有關部門起草了《促進分散式數字身份互通互認應用規定（徵求意見稿）》，現向社會公開徵求意見。
+
+---
+
+### 2026-06-18 18:34:33  #其他
+
+施蒂費爾將美光科技目標股價從550美元上調至1500美元。
+
+---
+
+### 2026-06-18 18:33:59  #國際
+
+《喀山宣言》在俄羅斯-東盟峰會上獲得透過。聯合宣告：東盟國家達成共識，擴大能源轉型領域合作。東盟國家達成共識，增加在可再生能源、天然氣和液化天然氣領域的合作。
+
+---
+
+### 2026-06-18 18:33:37  #MKT News #Commodities #Energy
+
+ASEAN countries agreed in a joint statement to deepen cooperation on renewable energy, natural gas and LNG.
+
+---
+
+### 2026-06-18 18:33:36  #MKT News #Market Regions #Greater China
+
+【China opens consultation on draft rules to promote distributed digital identity interoperability and mutual recognition】The Cyberspace Administration of China published a draft for public comment setting rules to promote interoperability and mutual recognition of distributed digital identities. It encourages industries, subject to credential interoperability and mutual recognition, to develop industry-specific verifiable credential issuance standards. Issuing institutions will be responsible for credential issuance, updating, application and deactivation, while identity chains will provide technical support for credential interoperability. Users may apply for, hold, use and deactivate distributed digital identities and may choose to present verifiable credentials or use verifiable claims for selective information disclosure, with identity chains providing technical support.
+
+---
+
+### 2026-06-18 18:33:28  #其他
+
+立陶宛執政黨社會民主黨與兩個小黨簽署新聯合協議，籌組下屆政府。
+
+---
+
+### 2026-06-18 18:33:22  #國際
+
+立陶宛執政的社會民主黨：聯合政府將"尋求美國在該國長期且不間斷的"軍事存在。
+
+---
+
+### 2026-06-18 18:33:14  #其他
+
+東盟國家同意擴大能源轉型領域合作。
+
+---
+
+### 2026-06-18 18:33:06  #MKT News #Market Regions #Europe & UK
+
+【Israel foreign minister severs contacts with EU high representative Kallas over 'apartheid' remark】Israel's foreign minister Gideon Sa'ar said he will cut all contact with EU high representative for foreign affairs and security policy Kallas, accusing her of showing "blatant injustice" after she likened Israel to South African apartheid. Sa'ar said Kallas made no denial, clarification or response and he will sever ties "until she retracts this slander against the world's only Jewish state." The move comes as Israel-EU relations remain highly strained amid the Gaza war and related fighting in Lebanon; Sa'ar said most EU leaders oppose a US-Israel war on Iran this year. He added the war has pushed energy prices higher and damaged the global economy.
+
+---
+
+### 2026-06-18 18:33:02  #MKT News #Commodities #Energy
+
+Joint statement: ASEAN countries agreed to expand cooperation on the energy transition.
+
+---
+
+### 2026-06-18 18:32:55  #國際
+
+【資訊無障礙與文化權利研討會在聯合國教科文組織舉行】17日，由聯合國教科文組織全民資訊計劃、中國人權發展基金會和中國傳媒大學共同舉辦的第三屆無障礙資訊傳播與文化權利保障研討會在巴黎聯合國教科文組織總部舉行。聯合國官員對中方支援全民資訊計劃，持續加強資訊無障礙建設表示感謝。(新華社)
+
+---
+
+### 2026-06-18 18:32:47  #MKT News
+
+Kazan Declaration was adopted at the Russia-ASEAN summit.
+
+---
+
+### 2026-06-18 18:32:30  #公司
+
+【必和必拓：詹森鉀肥礦二期擴建成本跳漲至69億美元 預計2031年底投產】必和必拓將對其龐大的詹森(Jansen)鉀肥專案進行23億美元的資產減值準備，此前該公司宣佈了該加拿大擴建專案一系列最新出現的成本超支和工期延誤情況。經過評估後，該公司週四表示，第二階段擴建專案的成本目前將達到69億美元，高於此前預測的49億美元。該專案將於2031年底開始投產。
+
+---
+
+### 2026-06-18 18:31:47  #國際
+
+以色列未來12個月通脹預測調查顯示，通脹率將上升1.8%。
+
+---
+
+### 2026-06-18 18:31:38  #MKT News #Market Themes #Chip Wars
+
+【Moore Threads starts pre-sale of home AI product MTT AICUBE; 50 TOPS compute】Moore Threads said on June 18 it has opened pre-sales for its first home-focused consumer product, MTT AICUBE, positioned as a household AI hub. The device uses Moore Threads’ self‑developed intelligent SoC Yangtze, delivers heterogeneous AI compute of 50 TOPS and can run local large models, marking the company’s compute business entry into the home consumer market.
+
+---
+
+### 2026-06-18 18:31:37  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【First commercial real-estate REITs list on Shanghai Stock Exchange】June 18, 2026 — Shanghai Stock Exchange listed the first batch of commercial real-estate REITs, comprising four offerings managed by Huitianfu, CSC Financial, Guotai Haitong and China International Capital Co (CICC-Vipshop). The quartet raised about 20.3 billion yuan in aggregate. Underlying assets are mature retail and office properties located in core districts of Beijing, Shanghai, Zhengzhou, Xi’an and Harbin; sponsors include local state-owned leaders and top private operators. The exchange has accepted 21 REIT projects so far and several additional inaugural projects are expected to be issued and listed in due course.
+
+---
+
+### 2026-06-18 18:31:19  #觀點
+
+【首批商業不動產REITs在上交所上市】2026年6月18日，首批商業不動產REITs上市儀式在上海證券交易所成功舉行。本次上市的4只產品分別為匯添富上海地產商業REIT、中信建投首農商業REIT、國泰海通砂之船商業REIT、中金唯品會商業REIT，募集資金規模合計約203億元。產品底層資產涵蓋商業零售、商業辦公樓等成熟商業業態，分佈於北京、上海、鄭州、西安、哈爾濱等城市核心區域，參與主體匯聚地方國有龍頭企業與行業頭部民營企業，具備良好的市場代表性與示範效應。截至目前，全市場已受理專案共21只，近期還有多隻首批專案將依規發行上市。（上交所釋出）
+
+---
+
+### 2026-06-18 18:31:12  #公司
+
+【南網科技：股東擬詢價轉讓1129.4萬股】南網科技(688248.SH)公告稱，持股5%以上股東南網能創股權投資基金擬透過詢價轉讓方式轉讓1129.4萬股，佔總股本2%，轉讓原因為自身資金需求。本次詢價轉讓不透過集中競價或大宗交易，受讓方在受讓後6個月內不得轉讓。
+
+---
+
+### 2026-06-18 18:31:03  #國際
+
+【資訊無障礙與文化權利研討會在聯合國教科文組織舉行】17日，由聯合國教科文組織全民資訊計劃、中國人權發展基金會和中國傳媒大學共同舉辦的第三屆無障礙資訊傳播與文化權利保障研討會在巴黎聯合國教科文組織總部舉行。聯合國官員對中方支援全民資訊計劃，持續加強資訊無障礙建設表示感謝。(新華社)
+
+---
+
+### 2026-06-18 18:30:54  #公司
+
+【摩爾執行緒：首款家庭消費產品開啟預售 異構AI算力達50 TOPS】記者從公司獲悉，6月18日，摩爾執行緒首款面向家庭場景的消費級產品——MTT AICUBE正式開啟預售。該產品定位為家庭AI中樞，搭載摩爾執行緒自研智慧SoC“長江”，異構AI算力達50 TOPS，可執行本地大模型，這也標誌著摩爾執行緒算力業務正式落地家庭消費場景。（人民財訊）
+
+---
+
+### 2026-06-18 18:30:42  #其他
+
+赫格塞思： 英國在國防上的支出越多，北約就會越強大。
+
+---
+
+### 2026-06-18 18:30:07  #國際
+
+美國國防部長赫格塞思宣佈對駐歐洲美軍進行審查，並威脅削減北約軍費。
+
+---
+
+### 2026-06-18 18:30:05  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.33% Higher — The SENSEX Index rose 254 points or 0.33 percent on Thursday to close at 77410 points. Leading the gains are NTPC (1.93%), HDFC Bank (1.74%) and Tata Motors (1.12%). Top losers were Infosys (-2.57%), Tech Mahindra (-1.01%) and Maruti Suzuki (-0.92%).
+
+---
+
+### 2026-06-18 18:29:50  #MKT News
+
+U.S. Defense Secretary Hegseth announced a review of U.S. forces stationed in Europe and threatened cuts to NATO funding.
+
+---
+
+### 2026-06-18 18:29:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Three Saudi-flagged tankers transit Strait of Hormuz】Ship-tracking data from an international maritime intelligence platform showed three Saudi-flagged tankers carrying a combined 6 mln barrels of crude oil transited the Strait of Hormuz on the 18th.
+
+---
+
+### 2026-06-18 18:29:37  #公司
+
+【電科數字：因資訊披露違法違規 公司及董秘遭罰300萬元】電科數字公告稱，公司及相關人員收到上海證監局下發的《行政處罰決定書》。經查明，公司在上證e互動平臺的相關資訊披露不準確、不完整，具有誤導性，時任董事會秘書侯志平未能勤勉盡責稽核資訊。上海證監局決定對電科數字給予警告，並處以200萬元罰款；對侯志平給予警告，並處以100萬元罰款。公司本次違法未觸及其他風險警示及重大違法強制退市情形，目前經營活動正常。
 
 ---
 
@@ -21139,206 +21349,5 @@ Amazon founder Jeff Bezos said if space travel becomes sufficiently reliable and
 ### 2026-06-17 20:26:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
 
 【Fang Xinghai urges Hong Kong regulators to attract mainland quant firms】At the Lujiazui Forum plenary on June 17, Fang Xinghai, former CSRC vice‑chair and vice‑president of the Chinese Finance Society, said a number of mainland quantitative investment firms have matured and are keen to expand operations in Hong Kong. He urged Hong Kong financial authorities to actively recruit these firms and said coordinated arrangements among Hong Kong, Shanghai and Shenzhen would help draw more international capital into both Hong Kong and the mainland.
-
----
-
-### 2026-06-17 20:26:15  #其他
-
-【方星海：建議香港金融管理部門吸引內地量化機構在香港展業】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。中國證券監督管理委員會原副主席、中國金融學會副會長方星海表示，內地有一批成長得很好、管理能力很強的量化投資機構，許多機構非常願意在香港更多地開展業務。這些機構值得香港金融管理部門著力去吸引。香港、上海、深圳可以聯合運作，這對吸引更多國際資金投資香港、投資內地都會起到很好的作用。
-
----
-
-### 2026-06-17 20:25:30  #公司 #觀點 #國際
-
-【摩根士丹利高浩灃：中國AI生態蘊含數萬億美元增量機遇】6月17日，摩根士丹利亞洲執行長兼股票部全球聯席主管高浩灃（GokulLaroia）在陸家嘴論壇上表示，全球投資者對中國市場的興趣正變得越來越濃厚。中國是除美國外，唯一擁有獨立且全面AI生態系統的市場，且該生態正在不斷演進。從半導體本地化，到資料中心和雲服務提供商，到大語言模型，再到應用——包括數字化應用和物理應用，即人形機器人領域——都在發展。高浩灃透露，在中國與許多公司交流時發現，有數百家公司參與這一AI生態系統的創新和建設，每一家都有潛力創造巨大價值。他估算，整個生態系統有潛力創造三萬億至四萬億美元的增量市值。（e公司）
-
----
-
-### 2026-06-17 20:25:28  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index #CNH
-
-【MORGAN STANLEY's Gokul Laroia says China AI ecosystem could add $30–40 trillion】June 17, Lujiazui Forum — MORGAN STANLEY Asia CEO and global co-head of equities Gokul Laroia said global investor interest in China is strengthening. He called China, after the US, the only market with an independent, end-to-end AI ecosystem, evolving from semiconductor localization to data centers and cloud providers, large language models and downstream applications including digital services and humanoid robots. He said hundreds of companies are already participating and estimated the ecosystem could generate an incremental $30–40 trillion in market value.
-
----
-
-### 2026-06-17 20:25:17  #公司
-
-【*ST天山：公司股票將於6月22日起撤銷退市風險警示及其他風險警示】*ST天山公告，公司股票將於2026年6月18日停牌一天，並於6月22日復牌。自6月22日起，公司股票將撤銷退市風險警示及其他風險警示，股票簡稱由“*ST天山”變更為“天山生物”，股票程式碼“300313”保持不變，日漲跌幅限制仍為20%。
-
----
-
-### 2026-06-17 20:24:50  #公司
-
-【遼寧省與華潤集團舉行工作會商並簽署戰略合作框架協議】遼寧日報訊息，6月17日，遼寧省與華潤（集團）有限公司在瀋陽舉行工作會商並簽署戰略合作框架協議。根據戰略合作框架協議，雙方將推動資源共享、產業互融，開展深層次戰略合作，建立銜接落實等工作機制，專案化、清單化推進合作事項，實現更高水平互利共贏。
-
----
-
-### 2026-06-17 20:24:16  #公司
-
-【愛麗家居：職工代表董事兼副總經理離任 選舉宋毅為新董事】愛麗家居公告稱，職工代表董事兼副總經理丁盛因個人原因，於6月16日辭去相關職務，辭職後不再擔任公司及控股子公司任何職務。丁盛直接持有公司股票297,500.00股，間接持股476,610.00股。6月17日，公司召開職工代表大會，選舉宋毅為第三屆董事會職工代表董事，任期至第三屆董事會任期屆滿。宋毅直接持股198,800股，間接持股1,000股。
-
----
-
-### 2026-06-17 20:24:03  #公司
-
-斯泰蘭蒂斯(STLA.N)CEO：2026年頭5個月，義大利工廠產量增長了16%。義大利卡西諾（Cassino）工廠的未來規劃將與瑪莎拉蒂的計劃掛鉤。計劃在五年內向義大利的研發與創新領域投資50億歐元。
-
----
-
-### 2026-06-17 20:23:15  #公司 #市場 #國際
-
-【分析：比特幣回落，進一步回升前景不明】Trade Nation的David Morrison在一份報告中表示，在美國和伊朗達成臨時和平協議後，比特幣從週一觸及的近兩週高點回落，目前走低。不過，比特幣已從6月5日觸及的59,125美元的20個月低點回升。“自本月早些時候觸及低點以來，買盤興趣已緩慢回升，“他說。“但現在判斷比特幣能否在此漲幅基礎上進一步上行還為時過早。“他表示，比特幣目前在65,000美元至70,000美元之間遇到阻力帶。倫敦證券交易所集團資料顯示，比特幣下跌1.5%，至64,767美元，週一曾最高升至67,241美元。
-
----
-
-### 2026-06-17 20:22:19  #國際
-
-【哈馬斯高官：決不向美以移交武器】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）高階官員穆薩·阿布·馬爾祖克17日重申，哈馬斯不會向美國和以色列交出武器，只願意交給巴勒斯坦民族權力機構或巴方其他組織。馬爾祖克接受俄新社採訪時說，哈馬斯手中武器永遠不會交給美以及其“附庸”，只會交給巴勒斯坦方面。他認為，解除武裝本質上是政治問題，必須要有解決巴勒斯坦問題的明確政治路徑，而美國總統特朗普提出的加沙地帶解決方案對此欠缺考慮。（新華社）
-
----
-
-### 2026-06-17 20:21:49  #MKT News
-
-i24News reported Lebanese President Aoun said he has received assurances and will maintain Lebanon's independence in negotiations. He said Lebanon supports a ceasefire and welcomes assistance from any country, including Iran.
-
----
-
-### 2026-06-17 20:21:47  #國際
-
-黎巴嫩總統：“黎巴嫩政府主導談判，擁有自主決策權。任何一方都無法取代我們，所有和解方案都必須經由黎巴嫩達成，不能以損害黎巴嫩利益為代價。我們已收到多方保證，同時堅持黎巴嫩在談判中保持獨立自主立場。我們無疑支援停火，也歡迎包括伊朗在內的所有國家向我方提供援助。”
-
----
-
-### 2026-06-17 20:21:06  #MKT News
-
-President Aoun said Lebanon will lead the negotiations and retain sovereign decision-making; no one can replace its role, and any solution must be reached by Lebanon without sacrificing the country's interests.
-
----
-
-### 2026-06-17 20:20:03  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #S&P500 #US10Y
-
-U.S. May retail sales (MoM) due in 10 minutes.
-
----
-
-### 2026-06-17 20:19:50  #公司 #焦點 #國際
-
-【特朗普再次否認向伊朗提供3000億美元】正在法國出席七國集團峰會的美國總統特朗普今天（6月17日）再次否認美國將向伊朗提供3000億美元的資金。他說，這是個假訊息，美國不會去投資，別人可以自己決定要不要投。他還表示，美國與伊朗的諒解備忘錄文字已經確定，但如果伊朗的表現沒讓他滿意，美國將對伊朗重新採取軍事行動。伊朗媒體此前披露的伊美諒解備忘錄14項條款中涉及具體金額的一項為：美國及其盟友有必要提出對伊朗的重建計劃，金額至少3000億美元。（CCTV國際時訊）
-
----
-
-### 2026-06-17 20:18:13  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7
-
-Amazon founder Jeff Bezos said the Moon is a crucial first step toward exploring the solar system and building a Mars settlement.
-
----
-
-### 2026-06-17 20:17:06  #公司
-
-【波音上海新機庫在臨港保稅區啟用】6月17日，上海波音航空改裝維修工程有限公司（簡稱“上海波音”）宣佈其新機庫啟用。新機庫位於上海臨港特殊綜合保稅區，機庫寬度200米，採用無內柱設計，可同時容納4架寬體機和2架窄體機。
-
----
-
-### 2026-06-17 20:15:32  #央行 #公司 #市場
-
-【荷蘭國際：瑞典克朗走低，因瑞典央行加息暗示未能說服市場】荷蘭國際集團的Francesco Pesole在一份報告中表示，瑞典克朗走弱，因為瑞典央行關於今年晚些時候加息機率增加的宣告未能說服市場。他表示，該央行週四將利率維持在1.75%的決定及其言論，與其新的通脹預測相矛盾。“通脹處於低位，預計到2027年都將保持在目標水平以下，因此我們堅持瑞典央行今年不會加息的預測。“歐元兌瑞典克朗上漲0.2%，至10.8039瑞典克朗，在上述決定公佈後曾短暫下跌。荷蘭國際集團仍預計，在能源價格走低以及瑞典相對於歐元區更強勁的增長前景的支撐下，下半年歐元兌瑞典克朗將達到10.70。
-
----
-
-### 2026-06-17 20:15:20  #MKT News #Hang Seng Index #Impact bullish
-
-【Paul Chan: 212 Shanghai firms listed in Hong Kong — HKD4.3 tln, ~10% of market cap】Hong Kong Financial Secretary Paul Chan said as of May 212 Shanghai-headquartered companies were listed in Hong Kong with combined market capitalization above HKD4.3 tln, about 10% of Hong Kong’s total market cap. Several Shanghai science-and-technology firms have listed in Hong Kong this year, attracting strong domestic and overseas capital demand.
-
----
-
-### 2026-06-17 20:14:27  #市場 #央行 #國際
-
-【美股盤前要聞速遞】
-①美股三大股指期貨漲跌不一，道指期貨跌0.02%，標普500指數期貨漲0.05%，納指期貨漲0.41%。
-②德國DAX指數漲跌0.15%，英國富時100指數跌0.05%，法國CAC40指數漲0.09%，歐洲斯托克50指數漲0.35%。
-③WTI原油漲0.83%，報76.68美元/桶。布倫特原油漲0.80%，報79.59美元/桶。
-④美聯儲6月會議料按兵不動，為新主席沃什任內首次決策。
-⑤美伊本週五簽署協議，特朗普稱海峽永久免費開放，美伊協議檔案數日內公佈。
-⑥IEA預警：2027年油市將滑向“顯著過剩”。
-⑦英特爾盤前漲超3%，18A-P製程進入風險生產階段。
-⑧臺積電盤前漲近2%，蘋果A22 Pro或採用其1.4nm製程。
-⑨Coherent盤前一度漲超4%，德州工廠擴建動工，將擴大磷化銦產線。
-
----
-
-### 2026-06-17 20:13:51  #公司 #市場
-
-【中天精裝：股票交易異常波動 目前經營情況正常】中天精裝公告稱，公司股票交易價格在2026年6月15日至17日連續3個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司前期披露資訊無需更正補充，目前經營正常，內外部環境未變。公司參股科睿斯半導體，2025年度、2026年一季度確認的投資收益為負。控股股東、實控人無應披露未披露重大事項，期間也未買賣公司股票。2025年營收3.52億元，淨虧損1.66億元；2026年一季度營收0.45億元，淨虧損0.09億元。
-
----
-
-### 2026-06-17 20:13:44  #其他
-
-【中國工商銀行董事長廖林會見新加坡金融管理局行長謝啇真】6月16日，中國工商銀行董事長廖林會見新加坡金融管理局行長謝啇真，雙方就助力中新經貿往來合作、推動工商銀行在新加坡高質量發展等話題進行深入交流。中國工商銀行新加坡分行是工商銀行在境外設立的第一家營業性分支機構，持有新加坡金融管理局頒發的特許全面銀行牌照，在新擔任中資人民幣清算行，同時也是工商銀行在東盟市場規模最大的境外機構。工商銀行將依託全球經營網路，持續發揮新加坡人民幣清算行、BRBR等平臺作用，積極服務中資企業赴新投資、新加坡企業來華展業，進一步深化與新加坡同業的交流合作，為兩國經貿金融往來貢獻更大力量。
-
----
-
-### 2026-06-17 20:13:41  #其他
-
-【陳茂波：今年前五個月，上海在港上市企業總市值超4.3萬億港元】香港特別行政區政府財政司司長陳茂波在上海出席陸家嘴論壇致辭時透露，截至今年5月，上海在港上市企業已達212家，總市值超4.3萬億港元，約佔香港整體市值的10%。今年以來，多家上海科創企業赴港上市，獲得海內外資本的積極追捧。（介面新聞）
-
----
-
-### 2026-06-17 20:13:40  #Trading Economics #Economy #Brazil #Leading Economic Index #Importance 1
-
-Brazil IBC-Br Rebounds In April — Brazil’s IBC-Br economic activity index rose 0.5% month-over-month in April 2026, rebounding from a 0.7% decline in the previous month and slightly below forecasts of 0.6%. Industrial activity increased 0.4% after a 0.2% drop in March, while services rose 0.3% following a 0.8% decline. The taxes index advanced 0.3% after falling 0.2% in the previous month. Meanwhile, the agriculture and livestock sector was flat after a 0.2% contraction in March. Excluding agriculture and livestock, the IBC-Br rose 0.4%.
-
----
-
-### 2026-06-17 20:13:16  #公司
-
-STELLANTIS執行長：我們將繼續在義大利進行重大投資。
-
----
-
-### 2026-06-17 20:11:15  #MKT News #Market Regions #Europe & UK
-
-【Nordea: Riksbank unlikely to hike this year】Nordea chief analyst Torbjorn Isaksson says the Riksbank has signalled roughly a 50% chance of a 25bp hike in H2, but current low inflation and a stable krona point to no move. The bank left the policy rate at 1.75% on Wednesday and reiterated it stands ready to act if necessary. Nordea said Middle East risks remain but recent events and lower oil prices have reduced inflationary pressure. Nordea maintains a forecast that the policy rate will stay at 1.75% for the remainder of 2026.
-
----
-
-### 2026-06-17 20:10:41  #焦點 #國際
-
-【伊俄外長通電話討論美伊諒解備忘錄】伊朗外交部長阿拉格齊與俄羅斯外交部長拉夫羅夫通電話，雙方就美伊諒解備忘錄、地區局勢及雙邊關係等議題進行了討論。阿拉格齊在通話中介紹了該諒解備忘錄相關細節，強調美國有責任切實落實備忘錄各項條款，同時必須完全停止以色列對黎巴嫩的襲擊。拉夫羅夫對備忘錄文字最終定稿表示歡迎，並重申俄方對條款實施的全力支援。兩國外長一致認為，國際社會和聯合國安理會應對該諒解備忘錄予以支援，並強調應繼續加強地區國家間的外交合作，以鞏固和平與穩定。雙方還就雙邊關係中的若干問題交換了意見，同意繼續跟進並解決相關事項。（新華社）
-
----
-
-### 2026-06-17 20:10:33  #MKT News #Market Themes #Chip Wars #AI Revolution #688256.SS #Impact bullish
-
-【ByteDance in talks to buy at least 50,000 domestic AI chips as internet firms race to build compute moats】ByteDance is in talks with Tianshu Zhixin to buy at least 50,000 AI chips, sources say, primarily for inference workloads. The chips discussed are Tianshu Zhixin’s ZhiKai cloud inference GPUs; its Tiangai series would be used for training. If completed, Tianshu Zhixin would become ByteDance’s third GPU supplier after Huawei and Cambricon. ByteDance and Tianshu Zhixin had no immediate comment. The deal and broader moves by Chinese internet giants to expand in‑house data centers signal a structural shift: AI compute demand is bifurcating between training and inference, firms are accelerating self‑controlled compute strategies, and large‑scale domestic compute substitution and separate training/inference hardware deployment are entering execution.
-
----
-
-### 2026-06-17 20:10:25  #其他
-
-【位元組跳動加量採購國產晶片，網際網路大廠競速搭建算力護城河】位元組跳動資料中心建設進展再添新訊息，行業人士稱位元組跳動正與天數智芯討論採購至少5萬顆AI晶片，主要用於推理工作。據瞭解，本次洽談供貨晶片主要用於大模型推理負載，對應天數智芯智鎧系列雲端推理GPU，訓練場景使用天垓系列。若交易達成，天數智芯將成為華為和寒武紀之後，位元組跳動的第三家GPU供應商。截至發稿，位元組跳動與天數智芯方面暫未發表回應。以位元組跳動為代表的網際網路大廠加碼自建資料中心，並非短期應急補充算力缺口，而是折射產業深層變革：AI算力需求迎來結構性切換、企業算力自主可控戰略持續升級，訓推硬體分線佈局與國產算力規模化替代同步進入落地週期。（一財）
-
----
-
-### 2026-06-17 20:10:03  #公司 #國際
-
-【瑞豐新材回應被列入歐盟制裁名單】瑞豐新材6月17日釋出公告稱，公司近日關注到，歐盟理事會於當地時間2026年6月15日透過最新一輪對俄羅斯制裁方案。根據歐盟官方公佈的檔案，公司被列入歐盟制裁名單，此次制裁聲稱“公司是中國國內最大的潤滑油新增劑生產經銷商之一，公司供應用於俄羅斯軍用機械潤滑油的化學新增劑。因此，公司屬於為俄羅斯軍工綜合體提供支援的實體”。
-
----
-
-### 2026-06-17 20:09:49  #公司 #國際
-
-斯泰蘭蒂斯CEO：根據我們至2030年的業務計劃，歐洲將獲得總額600億歐元投資中的約40%。
-
----
-
-### 2026-06-17 20:09:38  #公司 #市場
-
-【風華高科：股價異常波動 多項業務存不確定性】風華高科公告稱，公司股票於2026年6月15 - 17日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動情形。截至6月17日，其滾動市盈率遠超行業平均，自5月以來股價累計漲幅達195.18%，存回撥風險。“高階電阻技改擴產”等專案尚處建設階段，本年度預計對業績無重大影響。此外，媒體提及的“暫停接單”“透過英偉達認證”等資訊均不屬實。新興市場營收佔比不超15%，且面臨原材料成本上行壓力。
-
----
-
-### 2026-06-17 20:09:30  #公司
-
-【方星海：建議編制涵蓋滬深港三地公司的指數】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。中國證券監督管理委員會原副主席、中國金融學會副會長方星海表示，新形勢下，要繼續發揮好香港和上海互相促進的作用，建議指數編制公司編制涵蓋滬深港三地公司的指數，包括行業指數等，便於國外機構覆蓋中國上市公司。
 
 ---
