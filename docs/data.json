@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-20 11:44:43",
-  "count": 17589,
+  "updated": "2026-06-20 11:48:50",
+  "count": 17590,
   "items": [
+    {
+      "id": "4945655",
+      "time": "2026-06-20 11:47:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武大領導班子調整】據武漢大學新聞網訊息，近日，學校召開會議，宣佈中央組織部、中央紀委國家監委關於學校領導班子調整的有關決定。經研究，王晗同志任武漢大學黨委副書記、紀委書記、國家監委駐武漢大學監察專員。校黨委書記朱孔軍表示，這次領導班子調整是上級部門通盤考慮、審慎研究決定的，學校黨委完全擁護、堅決服從。（中新網）"
+    },
+    {
+      "id": "4945654",
+      "time": "2026-06-20 11:45:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多明尼加一度假酒店突發大火，致1死多傷，近1700名遊客被疏散】據英國路透社、美國哥倫比亞廣播公司（CBS）等媒體報道，加勒比島國多明尼加一家度假酒店當地時間19日發生大規模火災，造成1人死亡、多人受傷，近1700名遊客被疏散。CBS援引官方訊息稱，當日上午11時左右，該國拉阿爾塔格拉西亞省巴亞伊貝鎮的一家四星級度假酒店發生火災。巴亞伊貝是深受國際遊客歡迎的熱門旅遊目的地。（環球網）"
+    },
+    {
+      "id": "mkt:019ee321-835a-7dd8-b09c-0a1a82517f18",
+      "time": "2026-06-20 11:44:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australia confirms first mainland detection of H5N1 highly pathogenic avian influenza】The Australian government confirmed on the 20th that H5N1 highly pathogenic avian influenza (HPAI) was detected in a migratory bird in Western Australia, the first confirmed detection of H5-type HPAI on the Australian mainland."
+    },
     {
       "id": "mkt:019ee320-6a89-7dd8-b09c-054cce6987ba",
       "time": "2026-06-20 11:43:32",
@@ -161992,22 +162016,6 @@
         "公司"
       ],
       "text": "【法國調查顯示公眾對人工智慧態度分化明顯】法國一項新公佈的調查結果顯示，65%的法國人使用人工智慧工具，但法國公眾對人工智慧的態度分化明顯。這項名為《法國人與人工智慧》的調查由埃拉貝民意調查公司12日釋出，樣本為1503名法國本土18歲及以上居民。調查結果顯示，法國公眾對人工智慧的態度分化明顯，54%的受訪者認為人工智慧首先是威脅，45%則認為首先是機會。此外，在各個群體使用人工智慧的比例方面，存在明顯的代際、階層和地域差異。18歲至34歲人群中為87%，而50歲以上人群中只有54%；管理人員中為86%，而工人中只有56%；大城市居民中為71%，而農村居民中只有57%。調查顯示，大多數受訪者認為，使用人工智慧將成為未來社會的核心能力，應當被引入學校教育。（新華社）"
-    },
-    {
-      "id": "mkt:019ebf16-a94b-7dd8-afe8-374365fe983e",
-      "time": "2026-06-13 11:46:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai Shipping Exchange: coastal (bulk) composite freight index steady this week】On June 13 the Shanghai Shipping Exchange said its weekly China coastal (bulk) transport report showed southern rainfall boosted hydropower output, displacing thermal generation and slowing northbound cargo movements, leaving ship-to-cargo balance broadly even and the freight market steady. On June 12 the China coastal (bulk) composite freight index stood at 1,297.02 points, down 0.8% from the prior week."
-    },
-    {
-      "id": "4933643",
-      "time": "2026-06-13 11:46:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上海航交所：本週沿海（散貨）綜合運價指數持穩執行】6月13日，上海航運交易所釋出的中國沿海（散貨）運輸市場周度報告顯示，本週，南方降水天氣帶動水電出力提升，進一步擠佔火電需求，下游北上拉運節奏放緩，運輸市場船貨較為平衡，綜合指數持穩執行。6月12日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1297.02點，較上期下跌0.8%。"
     }
   ]
 }
