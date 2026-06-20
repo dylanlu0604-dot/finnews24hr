@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-21 05:23:22",
-  "count": 17543,
+  "updated": "2026-06-21 05:27:23",
+  "count": 17545,
   "items": [
+    {
+      "id": "mkt:019ee6ed-40f2-7dd8-b0a2-35485da964d3",
+      "time": "2026-06-21 05:26:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Refinitiv: UK government sources said Prime Minister Starmer is focused on carrying out his duties."
+    },
+    {
+      "id": "mkt:019ee6ec-d056-7dd8-b0a2-2a6a00b300dd",
+      "time": "2026-06-21 05:25:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says carried out precision airstrike on Hamas member in Gaza】Israel Defense Forces said on the 20th it carried out a precision airstrike in central Gaza that killed Ahmed Samir Mohamed Washa, a member of Hamas’s armed wing whom the IDF said also worked as an Al Jazeera cameraman. The IDF said two other Hamas militants were killed and alleged Washa acted as a sniper for Hamas’s military wing and had planned attacks on Israeli forces, posing a direct threat. The IDF said Washa’s brother, Mohammed Samir Mohamed Washa, a key member of Hamas’s rocket and weapons-production unit who also used an Al Jazeera journalist cover, was killed by Israeli strikes in April."
+    },
     {
       "id": "mkt:019ee6e7-439e-7dd8-b0a2-209b60e6b4aa",
       "time": "2026-06-21 05:19:36",
