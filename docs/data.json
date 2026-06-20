@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-20 21:02:46",
-  "count": 17539,
+  "updated": "2026-06-20 21:06:58",
+  "count": 17537,
   "items": [
+    {
+      "id": "mkt:019ee51f-db45-7dd8-b09f-262305a858cd",
+      "time": "2026-06-20 21:02:10",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【UK media: Iran may charge insurance for ships transiting Strait of Hormuz】UK media reported on the 19th that Iran’s Persian Gulf Strait Administration has issued a document requiring all vessels to carry insurance approved by the agency to transit the Strait of Hormuz. The document, circulated among shipping managers and reported by the FT, says “all vessels must hold a valid insurance policy approved by the Persian Gulf Strait Administration”; the cover is currently “free” within the period set out in the US‑Iran memorandum of understanding, but the administration “reserves the right to charge premiums in future.”"
+    },
     {
       "id": "4945824",
       "time": "2026-06-20 20:58:42",
@@ -161561,30 +161572,6 @@
         "國際"
       ],
       "text": "【伊朗外交部：伊美諒解備忘錄暫不涉及核問題】據伊朗媒體13日報道，伊朗外交部發言人巴加埃表示，正在推進的伊美諒解備忘錄聚焦於結束戰事，現階段暫不討論核問題。（新華社）"
-    },
-    {
-      "id": "4933867",
-      "time": "2026-06-13 21:05:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【原價59元被炒至467元，LABUBU世界盃隱藏款杯子溢價近7倍】美加墨世界盃已開幕三日，泡泡瑪特旗下IP LABUBU 也因開幕式的亮相再度掀起熱潮。 此次泡泡瑪特推出的LABUBU世界盃系列產品涵蓋搪膠毛絨公仔、掛繩、迷你掛燈、開瓶器冰箱貼、玻璃杯、足球迷你包等多個品類。 記者發現，在官方渠道中，售價僅為59元的玻璃杯原本是門檻最低的入門級產品，然而在二手交易平臺上，其隱藏款價格已被炒至467元，較原價溢價高達近7倍。 有資深玩家向記者表示：“隱藏款出貨率低，加上世界盃熱點，啤酒杯的實用屬性和LABUBU本身的高人氣，這個溢價並不意外。”（藍鯨新聞）"
-    },
-    {
-      "id": "mkt:019ec114-a4ed-7dd8-afeb-2e13dad06f61",
-      "time": "2026-06-13 21:03:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Technical outage at several Iranian banks; repairs underway】Iranian media reported on the 13th that services at multiple banks, including Bank Melli Iran, Export Bank of Iran and Bank Tejarat, experienced technical faults. TASNIM NEWS said customers reported disruptions from earlier in the day to mobile and online banking, ATMs, POS terminals and some card services. Fars News cited unconfirmed reports of a possible cyberattack. Affected banks said IT teams are investigating and have begun repairs; the secretary of the State-owned Banks Coordination Council said necessary remediation measures are under way."
-    },
-    {
-      "id": "4933866",
-      "time": "2026-06-13 21:02:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗多家銀行出現技術故障 正開展修復工作】據伊朗媒體13日報道，伊朗部分銀行服務13日出現技術故障，受影響銀行包括伊朗國民銀行、伊朗出口銀行、伊朗商業銀行等。據伊朗塔斯尼姆通訊社報道，自13日早些時候起，部分客戶反映上述銀行的部分服務和銀行系統執行異常，包括手機銀行、網上銀行、自動取款機、刷卡機以及部分銀行卡服務。伊朗法爾斯通訊社說，有訊息稱可能發生了網路攻擊，但尚未得到官方確認。相關銀行表示，技術部門正在對故障原因進行調查，並已啟動修復工作。伊朗國有銀行協調委員會秘書蓋塔西13日說，已採取必要修復措施。（新華社）"
     }
   ]
 }
