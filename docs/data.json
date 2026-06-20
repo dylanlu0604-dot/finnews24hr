@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-21 03:40:00",
-  "count": 17532,
+  "updated": "2026-06-21 03:44:03",
+  "count": 17533,
   "items": [
+    {
+      "id": "4945979",
+      "time": "2026-06-21 03:41:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦總理已啟程前往瑞士】據巴基斯坦媒體21日報道，巴基斯坦總理夏巴茲已啟程前往瑞士。（新華社）"
+    },
+    {
+      "id": "mkt:019ee68c-e2ae-7dd8-b0a1-b514adda2f6e",
+      "time": "2026-06-21 03:40:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan prime minister Shehbaz Sharif departs for Switzerland】Pakistan's prime minister Shehbaz Sharif has departed for Switzerland, Pakistani media reported on the 21st."
+    },
     {
       "id": "4945978",
       "time": "2026-06-21 03:39:06",
@@ -161539,14 +161555,6 @@
         "MKT News"
       ],
       "text": "Israeli airstrike on Khan Younis in Gaza killed two."
-    },
-    {
-      "id": "4934023",
-      "time": "2026-06-14 03:43:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列襲擊加沙地帶汗尤尼斯，造成兩人死亡。"
     }
   ]
 }
