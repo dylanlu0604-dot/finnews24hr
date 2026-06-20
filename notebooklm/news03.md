@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 06:11:55_
-_本檔包含 3124 則快訊，約 652841 字_
+_更新時間：2026-06-21 06:39:18_
+_本檔包含 3120 則快訊，約 652899 字_
+
+---
+
+### 2026-06-17 21:05:11  #MKT News #Important
+
+The Federal Reserve said the FOMC will reconvene as scheduled at 9:00 a.m. on Wednesday.
+
+---
+
+### 2026-06-17 21:05:07  #公司
+
+七國集團領導人：承諾在國際能源署及其資料環境的支援下建立聯合合作機制，以防範價格不穩定，助力預判供應危機。
+
+---
+
+### 2026-06-17 21:05:02  #公司 #市場
+
+【港交所集團行政總裁陳翊庭：持續最佳化拓展互聯互通機制 為境外投資者提供更豐富的投資選擇】香港交易所集團行政總裁陳翊庭6月17日在2026陸家嘴論壇上表示，在地緣政治不確定性持續上升的背景下，全球投資者必須思考如何進行分散投資。她認為，最值得討論的是如何抓住這個機會，打造一個以中國為核心的高效互聯互通亞洲資本市場生態圈。陳翊庭說，期待與上交所持續最佳化拓展互聯互通機制，為境外投資者提供更豐富的投資選擇。據悉，港交所正更積極構建股票、衍生品、固定收益、貨幣產品、大宗商品等多元化的資產生態圈。陳翊庭認為，人民幣國際化是分散風險的剛需，固定收益和大宗商品是推動人民幣國際化的抓手。她透露，未來會積極落實香港固定收益和貨幣市場發展的路線圖，從一級市場、二級市場兩方面著手。“期待人民幣國債期貨在香港儘早落地，為境外投資者提供更多管理人民幣利率風險的工具。”
 
 ---
 
@@ -18839,47 +18857,5 @@ Renault and Thales signed a cooperation agreement to produce drones as early as 
 ### 2026-06-16 22:30:44  #MKT News
 
 【Chinese researchers develop large-area all‑perovskite tandem PV module; JET-certified PCE a world record 26.2%】Nanjing University said Professor Tan Hairen’s team, together with the RenShuo Photonics industrialization research team and Professor Wang Yuanyuan’s chemistry group at Nanjing University, developed a large-area all‑perovskite tandem photovoltaic module that achieved a Japan Electrical Safety and Environment Technology Laboratory (JET)‑certified power conversion efficiency of 26.2%, a world record.
-
----
-
-### 2026-06-16 22:30:39  #MKT News
-
-G7 leaders called for a strong, coordinated response to the Ebola outbreak.
-
----
-
-### 2026-06-16 22:30:28  #其他
-
-市場訊息：雷諾與泰雷茲合作製造無人機 以支援法國國防工業。
-
----
-
-### 2026-06-16 22:29:23  #其他
-
-【馬斯克個人財富飆升至1.4萬億美元】據《福布斯》最新發布的全球富豪榜，特斯拉與SpaceX掌門人埃隆·馬斯克的個人財富一度飆升至驚人的1.4萬億美元，重新整理歷史紀錄。
-
----
-
-### 2026-06-16 22:28:52  #其他
-
-智利銅業機構Cochilco預計將於9月釋出關於Codelco產量審計的初步報告。
-
----
-
-### 2026-06-16 22:28:30  #公司
-
-中國恒大新能源汽車集團：若停牌時間超過截至2026年9月30日屆滿的18個月期限，港交所可能會將其除牌。
-
----
-
-### 2026-06-16 22:28:28  #公司
-
-中國恒大新能源汽車集團：港交所發出第三份復牌指引，要求集團重新符合上市規則要求。
-
----
-
-### 2026-06-16 22:27:52  #國際
-
-【美媒稱美伊備忘錄細節即將公佈】據美國阿克西奧斯新聞網站6月15日報道，美伊諒解備忘錄細節將在未來24到48小時內公佈。報道還說，雙方將於本週晚些時候啟動技術性討論，解凍資金和放鬆制裁與履約掛鉤。美方計劃在下一階段談判期間保持當前美軍在該地區的軍事力量。 （CCTV國際時訊）
 
 ---
