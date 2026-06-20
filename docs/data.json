@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 08:26:35",
-  "count": 17645,
+  "updated": "2026-06-20 08:30:31",
+  "count": 17642,
   "items": [
+    {
+      "id": "mkt:019ee26e-efd0-7dd8-b09b-78e9e6920223",
+      "time": "2026-06-20 08:29:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reports Pakistan's interior minister will travel to Tehran to meet Iranian officials."
+    },
     {
       "id": "4945540",
       "time": "2026-06-20 08:25:55",
@@ -162449,44 +162457,6 @@
         "國際"
       ],
       "text": "【韓國股民“瘋狂”：券商一季度爆賺4萬億韓元！銀行出手限制借錢炒股】據韓聯社報道，今年第一季度，韓國證券公司實現淨利潤超4萬億韓元（約合178.36億元人民幣），創下季度最高業績。在韓國證券公司吸金的同時，韓國股民開始“借錢炒股”。近日，隨著韓國KOSPI（韓國綜指）劇烈調整，該國主要商業銀行的透支賬戶餘額增超6000億韓元（約合26.7億元人民幣），為防止“借錢炒股”現象激增，韓國銀行正在收緊信用貸款。"
-    },
-    {
-      "id": "mkt:019ebe63-1722-7dd8-afe7-620e69909ba8",
-      "time": "2026-06-13 08:30:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Refinitiv cited a source saying the U.S. MILITARY shot down multiple Iranian one-way attack drones heading toward the Strait of Hormuz; the source said the drones posed a threat to commercial shipping."
-    },
-    {
-      "id": "4933519",
-      "time": "2026-06-13 08:29:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，伊朗無人機對商貿航運構成威脅。"
-    },
-    {
-      "id": "4933518",
-      "time": "2026-06-13 08:29:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國小麥收穫進度過八成】農業農村部最新小麥機收進度顯示，麥收地區大部天氣晴熱，局地有短時陣雨，各麥收省份組織避開降雨時段抓緊收穫成熟小麥。目前，全國小麥收穫進度已過八成。據農業農村部最新小麥機收進度，截至6月12日17時，全國已收穫夏糧小麥2.78億畝，收穫進度82.01%。（央視新聞）"
-    },
-    {
-      "id": "4933517",
-      "time": "2026-06-13 08:28:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "一名知情人士向透露，美軍擊落了多架飛向霍爾木茲海峽的伊朗無人機。"
     }
   ]
 }
