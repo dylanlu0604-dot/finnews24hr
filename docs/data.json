@@ -1,7 +1,199 @@
 {
-  "updated": "2026-06-21 00:16:48",
-  "count": 17526,
+  "updated": "2026-06-21 00:50:34",
+  "count": 17528,
   "items": [
+    {
+      "id": "4945932",
+      "time": "2026-06-21 00:49:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普對經濟形勢的擔憂削弱美國在伊朗談判中的籌碼】美國總統特朗普坦言，擔憂全球經濟崩盤是他簽署美伊臨時和平諒解備忘錄的重要動因。這番表態暴露了美方即將與德黑蘭開啟下一輪談判時存在的核心短板。特朗普於週三簽署的這份諒解備忘錄，重新打通霍爾木茲海峽航道，同時批准豁免針對伊朗原油出口的制裁措施。政策效果立竿見影：國際油價進一步走低，美國股市上漲。特朗普本週在法國出席新聞釋出會時，專門提及了這兩項市場變化。“我不願目睹一場經濟災難，”特朗普週四在法國埃維昂舉行的記者會上表態，“如果戰事持續升級，經濟災難完全有可能上演。”"
+    },
+    {
+      "id": "mkt:019ee5ef-79ae-7dd8-b0a0-c0c116829a3f",
+      "time": "2026-06-21 00:48:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Analysis: Trump says economic risk of Iran war weakens U.S. negotiating leverage】Trump said the prospect of global economic collapse was a key reason he signed a temporary peace agreement with Iran, exposing a central U.S. weakness ahead of the next negotiation round. Because Iran knows Trump is reluctant to restart military action—which would trigger fresh economic turmoil—the pressure on Iran to conclude talks quickly is reduced. U.S. domestic pressure may further intensify: a Maryland poll found 56% of Americans believe the war’s negative effects on U.S. interests outweigh the positive. Former State Department official Chris Kennedy said the memorandum of understanding’s 14 clauses leave Iran in an advantageous position on nuclear issues. The agreement also allows the original 60‑day negotiation period to be “extended,” implying talks could stretch for months. Former Treasury official Miad Maleki said the outcome is more favorable to Iran: Iran will not abandon its nuclear program for sanctions waivers it has already won, and while the U.S. could still escalate militarily, it has forfeited key economic leverage when it most needed it."
+    },
+    {
+      "id": "mkt:019ee5ee-7f58-7dd8-b0a0-bece90ab3045",
+      "time": "2026-06-21 00:47:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "ZELENSKIY confirmed Ukrainian forces carried out a drone strike on refinery facilities in Russia's Tyumen region."
+    },
+    {
+      "id": "4945931",
+      "time": "2026-06-21 00:46:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基證實，俄羅斯秋明州的煉油設施遭無人機襲擊。"
+    },
+    {
+      "id": "4945930",
+      "time": "2026-06-21 00:44:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍在霍爾木茲海峽附近無線電通告：因以色列在黎巴嫩採取軍事行動，且美國違背相關承諾，本海峽禁止一切船隻通航。所有船舶務必遠離海峽水域，以保障自身航行安全。"
+    },
+    {
+      "id": "mkt:019ee5eb-9cf5-7dd8-b0a0-b39226785fde",
+      "time": "2026-06-21 00:44:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada will hold a USMCA review meeting with the United States and Mexico on July 1."
+    },
+    {
+      "id": "mkt:019ee5eb-00be-7dd8-b0a0-af80e9241f04",
+      "time": "2026-06-21 00:44:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency reported President Pezeshkian met Pakistan's interior minister."
+    },
+    {
+      "id": "4945929",
+      "time": "2026-06-21 00:43:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大將於7月1日與美國和墨西哥舉行會晤，開展《美墨加協定》複核。"
+    },
+    {
+      "id": "4945928",
+      "time": "2026-06-21 00:43:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統將會見巴基斯坦內政部長。"
+    },
+    {
+      "id": "mkt:019ee5e3-4290-7dd8-b0a0-a71b69b53bf7",
+      "time": "2026-06-21 00:35:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said maritime traffic through the Strait of Hormuz remains open; the U.S. military is monitoring the situation to ensure it stays that way."
+    },
+    {
+      "id": "4945927",
+      "time": "2026-06-21 00:35:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部發言人表示，海峽航運仍在正常通行，美軍正對局勢進行監控以保障通航持續。"
+    },
+    {
+      "id": "mkt:019ee5e1-9f8b-7dd8-b0a0-98eb98de63b1",
+      "time": "2026-06-21 00:33:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM spokesperson said Iran does not control the Strait of Hormuz."
+    },
+    {
+      "id": "4945926",
+      "time": "2026-06-21 00:33:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部發言人表示：伊朗並不控制霍爾木茲海峽。"
+    },
+    {
+      "id": "4945925",
+      "time": "2026-06-21 00:32:25",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【多渡口停航停渡 廣西海事局將內河防汛應急響應提升為Ⅲ級】6月20日19時30分，廣西水文中心升級釋出洪水黃色預警，預計未來24小時，柳江將出現編號洪水，柳江柳州市城區河段將出現超警戒水位的洪水，廣西海事局於20時30分將內河防汛應急響應提升為Ⅲ級。截至20日20時30分，廣西內河轄區68個渡口、107艘渡船停航停渡管控；柳州水上公交、夜遊航線停航；桂林灕江旅遊排筏全線停航。未來三天廣西仍維持多降雨天氣。氣象部門預計，21—22日，廣西北部部分地區有中雨、局地大雨或暴雨並伴有短時雷暴大風等強對流天氣，民眾出行請注意防範。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ee5db-cf7b-7dd8-b0a0-959b767dd52f",
+      "time": "2026-06-21 00:27:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【India: three Indian tankers transit Strait of Hormuz】Indian shipping minister Sarbananda Sonowal said on Saturday three Indian‑flagged tankers — Desh Vaibhav, Desh Vibhor and Sanmar Herald — have safely transited the Strait of Hormuz and are en route to India. The vessels are carrying more than 860,000 tonnes of oil and have 94 Indian crew aboard, he said on social media."
+    },
+    {
+      "id": "4945924",
+      "time": "2026-06-21 00:26:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "衛星影像顯示莫斯科煉油廠出現多處撞擊痕跡與火災損毀：一套聯合煉油裝置的工藝管廊遭到2至3次打擊，儲油罐區周邊也受損嚴重。分析報告同時確認，廠區內6座燃料儲罐出現損毀；另有部分無人機命中防護電纜引發火情，這類火災在衛星圖上無法識別。"
+    },
+    {
+      "id": "4945923",
+      "time": "2026-06-21 00:24:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉在民調中保持對右翼參議員博爾索納羅的領先優勢。"
+    },
+    {
+      "id": "4945922",
+      "time": "2026-06-21 00:21:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度航運部長：三艘印度籍油輪已順利透過霍爾木茲海峽】印度港口、航運與水道部長薩爾巴南達·索諾瓦爾於週六表示，三艘懸掛印度國旗的油輪已安全駛過霍爾木茲海峽，目前正向印度本土航行；三船合計運載原油超86萬噸，船上共有94名印度籍船員。索諾瓦爾在社交平臺發文稱，“Desh Vaibhav”號、“Desh Vibhor”號與“Sanmar Herald”號均已完成海峽通行。"
+    },
+    {
+      "id": "4945921",
+      "time": "2026-06-21 00:20:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度部長表示，三艘懸掛印度國旗的油輪已安全透過霍爾木茲海峽。"
+    },
+    {
+      "id": "4945920",
+      "time": "2026-06-21 00:19:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊談判在即 霍爾木茲海峽又起波瀾】北京時間6月20日晚，美伊談判波折再起。霍爾木茲海峽在談判前一天突然關閉，引發涉事多方的連鎖反應，也給談判製造了新壓力。當天，伊朗軍方稱，由於美國和以色列方面的原因，伊方決定關閉霍爾木茲海峽。但美軍稱，霍爾木茲海峽當天的通行“安全無阻”。幾乎與此同時，伊朗談判代表啟程前往瑞士，可能包括伊朗伊斯蘭議會議長卡利巴夫、伊朗外長阿拉格齊等人。美國副總統萬斯也表示將前往瑞士與伊朗談判。此前已確認的訊息是，美國總統特使威特科夫和美國總統特朗普的女婿庫什納都將參加談判。巴基斯坦方面則確認，伊美技術層面談判將於21日在瑞士舉行。（新華社）"
+    },
+    {
+      "id": "mkt:019ee5d3-dc72-7dd8-b0a0-89dddd5a6296",
+      "time": "2026-06-21 00:18:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC measured a magnitude 3.2 earthquake at 00:10 on June 21 in Haixi prefecture, Qinghai (37.81°N, 95.58°E); focal depth 10 km."
+    },
+    {
+      "id": "4945919",
+      "time": "2026-06-21 00:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月21日00時10分在青海海西州直轄區（北緯37.81度，東經95.58度）發生3.2級地震，震源深度10千米。"
+    },
     {
       "id": "4945918",
       "time": "2026-06-21 00:15:36",
@@ -161314,189 +161506,6 @@
         "MKT News"
       ],
       "text": "US President Trump said US-Iran relations are markedly different and better than under prior administrations."
-    },
-    {
-      "id": "4933977",
-      "time": "2026-06-14 00:49:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：伊核協議將於明日簽署】特朗普在社交平臺發文稱：“奧巴馬時期與伊朗達成的《聯合全面行動計劃》，實則是讓伊朗輕鬆順利研發核武器的捷徑。按照那份協議，伊朗六年前就能擁有核武器，並且早就會付諸使用。我和伊朗達成的協議則截然相反，它會徹底阻斷伊朗獲取核武器的可能。”他說，事實上，伊朗如今不再謀求核武器，也永遠無法透過自研、採購或其他任何途徑得到核武。這份協議定於明日簽署，協議生效後，霍爾木茲海峽將即刻全面開放。本屆政府與伊朗的關係，相較此前數屆政府有了極大改善。奧巴馬政府曾向伊朗輸送數千億美元資金，其中還包括17億美元現金，而本次協議不會產生任何資金往來。特朗普表示：“待局勢完全平穩後，我們會出動先進的B-2轟炸機及優秀飛行員，深入伊朗境內，清理深埋在堅固花崗岩山體下的核相關物料。無論這些物料位於伊朗還是美國，我們都會對其進行稀釋並徹底銷燬。我們期待在未來長期與伊朗及整個中東地區開展合作。希望此次相關程序能夠推進得迅速、順利。倘若事與願違，我們也留有最終應對手段，但願永遠無需動用。”"
-    },
-    {
-      "id": "mkt:019ec1e2-cc80-7dd8-afec-f8f1cde0e339",
-      "time": "2026-06-14 00:48:46",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. President Trump on Iran said he hopes the process will be completed quickly, simply and smoothly; if not, we have an ultimate contingency plan."
-    },
-    {
-      "id": "mkt:019ec1e2-a664-7dd8-afec-f23c859f26ac",
-      "time": "2026-06-14 00:48:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Trump on Iran: At the right time, when everything is calm, we will go in and get the 'nuclear dust'."
-    },
-    {
-      "id": "mkt:019ec1e1-e075-7dd8-afec-eccbb56294ac",
-      "time": "2026-06-14 00:47:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said an agreement on Iran is scheduled to be signed tomorrow; once signed, the Strait of Hormuz will be immediately open to all."
-    },
-    {
-      "id": "4933976",
-      "time": "2026-06-14 00:47:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：希望這一程序能迅速、輕鬆、順利地完成；如若不然，我們有最終替代方案。"
-    },
-    {
-      "id": "4933975",
-      "time": "2026-06-14 00:47:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：待時機成熟、局勢平復後，我們將進駐伊朗清理核廢料。"
-    },
-    {
-      "id": "4933974",
-      "time": "2026-06-14 00:46:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：協議簽署後，霍爾木茲海峽立即對所有船隻開放。"
-    },
-    {
-      "id": "4933973",
-      "time": "2026-06-14 00:46:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：伊核協議將於明日簽署。"
-    },
-    {
-      "id": "mkt:019ec1de-19dd-7dd8-afec-e009b9ddb441",
-      "time": "2026-06-14 00:43:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Costa said he had just met with Apple CEO Tim Cook for a productive discussion on children's online safety, artificial intelligence and innovation."
-    },
-    {
-      "id": "4933972",
-      "time": "2026-06-14 00:41:50",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "歐洲理事會主席科斯塔：剛剛與蘋果執行長蒂姆·庫克就網路兒童安全、人工智慧及創新議題進行了愉快的交談。歐盟已出臺完善法規，保障未成年人在數字平臺享有高標準的安全與隱私保護，但我們仍需付出更多努力。歐盟各國領導人與歐盟委員會正研究進一步最佳化網路環境、保護未成年人的舉措，包括設定社交媒體使用的法定數字成年年齡。下週將在埃維昂舉辦的七國集團峰會，也將推動全球協同制定數字領域未成年人保護方案。"
-    },
-    {
-      "id": "4933971",
-      "time": "2026-06-14 00:40:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：一架MH-60“海鷹”直升機從德爾伯特·D·布萊克號驅逐艦（DDG-119）飛行甲板起飛。該艦當前在阿拉伯海航行，執行針對伊朗的封鎖任務。截至6月13日，中央司令部部隊已驅離141艘商船，並迫使9艘商船停航，確保相關禁令得到執行。"
-    },
-    {
-      "id": "4933970",
-      "time": "2026-06-14 00:40:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東陽穀一化工企業石蠟料場起火致3人受傷】記者從山東省陽穀縣應急管理局獲悉，6月13日17時38分，山東陽穀華泰化工股份有限公司石蠟料場起火，造成3人受傷，正在全力救治，無生命危險。事故救援工作和原因調查正在進行。（新華社）"
-    },
-    {
-      "id": "4933967",
-      "time": "2026-06-14 00:30:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：已使用導彈襲擊黎巴嫩南部傑迪代特·邁斯·傑巴勒區域內的以色列車隊集結地。"
-    },
-    {
-      "id": "4933966",
-      "time": "2026-06-14 00:29:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：我方在阿普爾地區上空使用空對空導彈攔截一架以色列赫爾墨斯450無人機，迫使其撤離。"
-    },
-    {
-      "id": "4933965",
-      "time": "2026-06-14 00:29:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：我方使用導彈襲擊了黎巴嫩南部傑迪代特邁斯傑巴勒地區的以色列敵方車隊集結點。"
-    },
-    {
-      "id": "mkt:019ec1d0-eb46-7dd8-afec-de1bc352ff23",
-      "time": "2026-06-14 00:29:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "HEZBOLLAH said it struck an Israeli military vehicle staging area in Jdaydeh Mais al-Jabal in southern Lebanon with missiles."
-    },
-    {
-      "id": "4933964",
-      "time": "2026-06-14 00:29:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部發言人週六表示，巴基斯坦將於週日以視訊會議形式承辦美伊和平協議簽署儀式。"
-    },
-    {
-      "id": "4933963",
-      "time": "2026-06-14 00:18:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜CEO賈西及其他科技企業負責人已與特朗普政府方面就AI大模型進行通話。"
-    },
-    {
-      "id": "4933962",
-      "time": "2026-06-14 00:17:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦與沙烏地阿拉伯外交部長對美伊談判進入最終階段表示歡迎。"
-    },
-    {
-      "id": "mkt:019ec1c6-238b-7dd8-afec-d37c51e3f7da",
-      "time": "2026-06-14 00:17:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Saudi outlet Alhadath, citing sources, said Iran's intervention has hindered prospects for a ceasefire between Israel and Lebanon."
     }
   ]
 }
