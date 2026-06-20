@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 01:42:23_
-_本檔包含 3113 則快訊，約 650975 字_
+_更新時間：2026-06-21 02:43:47_
+_本檔包含 3110 則快訊，約 651545 字_
+
+---
+
+### 2026-06-17 20:43:24  #公司 #國際
+
+【特朗普稱美國不會投資伊朗】當地時間6月17日，美國總統特朗普在七國集團（G7）峰會期間接受記者採訪，談及尚未公佈的美伊協議進展時，特朗普表示，目前與伊朗達成的諒解備忘錄尚未最終完成。他同時警告稱，如果對協議執行情況不滿意，或者伊朗方面“行為不當”，美國將恢復對伊朗的軍事打擊。特朗普說，“如果我不喜歡，如果他們表現不好，我們將重新開始投放炸彈。”（央視新聞）
+
+---
+
+### 2026-06-17 20:43:02  #其他
+
+【水利部：我國將迎來新一輪強降雨過程】記者從水利部瞭解到，明天起我國將迎來新一輪強降雨過程。受其影響，珠江流域西江干流及支流柳江、桂江、鬱江，長江中下游幹流及洞庭湖水系沅江澧水、鄱陽湖水系昌江樂安河、漢江中下游及鄂東四水，淮河上中游幹流及支流史灌河、淠河，太湖及錢塘江等河流將出現明顯漲水過程，暴雨區內部分中小河流可能發生超警以上洪水。（央視新聞）
+
+---
+
+### 2026-06-17 20:42:41  #國際
+
+以色列媒體：在美軍撤離以色列本-古裡安機場後，1號航站樓將於2026年6月28日開放國內航班服務，並於2026年7月1日開放國際航班服務。
+
+---
+
+### 2026-06-17 20:42:37  #國際
+
+埃及出口委員會：1月至4月化肥出口額達11億美元。
+
+---
+
+### 2026-06-17 20:42:05  #MKT News #Market Regions #Greater China
+
+【Muxi 10,000-GPU cluster to be built in Shanghai Lingang】Multiple sources say Shanghai Lingang will host a Muxi 10,000-GPU cluster. The project remains in progress; the final configuration — Xiyun C550 or the newer Xiyun C600 — has not been decided.
+
+---
+
+### 2026-06-17 20:42:04  #其他
+
+【聯合國報告：全球漁業和水產養殖產量創歷史新高】聯合國糧食及農業組織16日釋出報告說，全球漁業和水產養殖產量2024年創歷史新高，但該行業仍面臨可持續發展等挑戰。 這份名為《2026年世界漁業和水產養殖狀況》的報告估算，2024年全球漁業和水產養殖產量達到創紀錄的2.35億噸，其中水生動物產量為1.95億噸。 報告預測，全球水生動物的產量、消費量及貿易量將保持增長態勢，到2034年全球水生動物總產量將增至2.14億噸。 報告說，水生動物在人類膳食結構中的地位日益突出，全球約31億人攝入的動物蛋白至少五分之一來自水生動物，相關產業支撐著超過6億人的生計。 報告同時指出，該行業發展成果分配並不均衡，如2023年亞洲人均水生動物食品供給量達到26.3千克，而非洲僅為9.1千克。氣候變化、環境退化、經濟衝擊和地緣政治變化等因素也正對行業可持續發展構成挑戰。 聯合國糧農組織總幹事屈冬玉在報告前言中指出，健康的地球比以往任何時候都更需要健康的海洋和內陸水域，各方必須共同努力扭轉可持續性下降趨勢，確保漁業和水產養殖行業長期發展，造福子孫後代。(新華社)
+
+---
+
+### 2026-06-17 20:42:04  #MKT News
+
+Egyptian Export Council: fertilizer export value January–April totaled $1.1 bln.
+
+---
+
+### 2026-06-17 20:42:01  #公司
+
+【新築股份：重組申請獲深交所受理，擬收購四川蜀道清潔能源集團60%股權】新築股份公告，公司擬向四川蜀道軌道交通集團出售四川發展磁浮科技100%股權及相關債權和資產，向四川路橋建設集團出售成都市新築交通科技100%股權及相關資產和負債；同時擬向蜀道投資集團發行股份及支付現金購買四川蜀道清潔能源集團60%股權並募集配套資金。2026年6月17日，公司收到深交所通知，本次交易申請檔案經核對齊備，已獲正式受理。本次交易尚需經深交所稽核透過並經證監會註冊後方可實施，最終結果存在不確定性。
+
+---
+
+### 2026-06-17 20:41:27  #國際
+
+Telegram向印度法院表示，印度政府對該應用的封鎖“嚴重失當”，此舉導致這個擁有超1.5億使用者的平臺被“全面停運”。
+
+---
+
+### 2026-06-17 20:41:24  #MKT News
+
+Israeli media reported that, following the withdrawal of U.S. forces from Ben Gurion Airport, Terminal 1 will reopen for domestic flights on 28 June 2026 and for international flights on 1 July 2026.
+
+---
+
+### 2026-06-17 20:40:34  #央行 #市場
+
+【世界黃金協會：黃金成全球最大官方儲備資產 未來12個月內#全球央行將繼續增加黃金儲備】世界黃金協會16日釋出2026年全球央行黃金儲備調研報告，89%的受訪央行預計，未來12個月內全球央行將繼續增加黃金儲備。同時，計劃增持黃金央行的佔比創新高。報告提到，黃金近期已超越美債成為全球最大的官方儲備資產，同時各國央行的儲備配置規劃體現出對黃金的高度青睞。此外，83%的受訪央行認為，五年後黃金在各國總儲備中的佔比將進一步提升，這一比例也較去年的76%明顯提高。報告認為，綜合各項調研資料後可以得出結論，黃金在各央行儲備資產組合中的戰略地位持續提升。（央視財經）
+
+---
+
+### 2026-06-17 20:40:24  #Trading Economics #Economy #Canada #House Price Index MoM #Importance 1
+
+Canada New Housing Prices Down 0.3% — New housing prices in Canada fell 0.3% month-on-month in May 2026, after a 0.4% decrease in April and below expectations of a 0.1% decline. House-only prices fell 0.4%, easing from a 0.6% decline in the previous month, while land-only prices fell 0.3%, accelerating from a 0.1% decline. On an annual basis, new housing prices fell 2.4% in May, up from a 2.3% decline in the prior month.
+
+---
+
+### 2026-06-17 20:40:15  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #Impact bearish
+
+【U.S. May retail sales beat estimates; tax refunds and stock gains support spending】U.S. May retail sales rose 0.9% MoM vs. 0.5% expected, the Commerce Department’s Census Bureau said, a print that may lose momentum as the boost from large tax refunds fades. Part of May’s gain reflected higher gasoline receipts after prices earlier spiked to a four-year high amid the Iran war; gasoline has since retreated and the national average this week fell below $4/gal for the first time since April. Core retail sales—excluding autos, gasoline, building materials and restaurants—rose 0.7% in May (April +0.5%), the series that most closely maps to GDP consumer spending. Tax refunds and a stronger stock market have jointly supported outlays, but the increase has been partly financed by lower savings: the household saving rate fell to a four-year low in April. Tax season has ended and much refund funding has been spent. PNC Financial economists say internal data show households are depleting refund balances faster than in prior years, with higher gasoline spending the main driver.
+
+---
+
+### 2026-06-17 20:40:06  #其他
+
+標普表示，油價高企帶來的成本壓力或將持續至明年夏季。
+
+---
+
+### 2026-06-17 20:38:30  #公司
+
+【僑銀股份：實控人及其一致行動人擬合計減持不超3%股份】僑銀股份(002973)6月17日公告，公司控股股東、實控人之一郭倍華計劃以集中競價及大宗交易方式，減持公司股份不超過817.33萬股（不超過公司目前總股本的2%）；實控人及控股股東之一致行動人安義瓏欣企業管理合夥企業（有限合夥）計劃以集中競價及大宗交易方式減持公司股份不超過408.67萬股（不超過公司目前總股本的1%）。
 
 ---
 
@@ -18707,113 +18797,5 @@ HKEX filings show Shenzhen Kubo Energy Co. has submitted a listing application.
 ### 2026-06-16 21:56:18  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
 
 Ibovespa Falls on Political and Inflation Concerns — The Ibovespa fell about 0.5% to hover near the 169,500 mark on Tuesday as investors digested fresh election polls and rising inflation expectations. According to a BTG/Nexus survey released on Monday, President Lula holds a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation rose for the 14th consecutive week, prompting markets to reassess the duration of the BCB’s easing cycle. Most sectors traded lower. Financial stocks were pressured by concerns over higher borrowing costs, with Bradesco and Itaúsa losing around 0.5%. Petrobras weighed on the index, falling nearly 2% on optimism surrounding a preliminary US-Iran peace agreement that could reopen the Strait of Hormuz. In contrast, Sabesp gained more than 1.5% after announcing that Claudio Kawa Hermolin had assumed leadership of the newly created Customer Experience Division.
-
----
-
-### 2026-06-16 21:56:16  #焦點 #A股
-
-【6月16日增減持彙總】據不完全統計，6月16日盤後，盛泰集團、新里程披露增持情況，播恩集團、福達合金、和遠氣體、百合花4家A股上市公司披露擬減持情況。
-
----
-
-### 2026-06-16 21:55:16  #Trading Economics #Markets #Commodity #Importance 0
-
-Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures traded slightly above $2.60 per pound, the highest since late May, amid concerns about weather conditions in Brazil's producing regions and the progress of the 2025/26 harvest. Local farmers said that several days of rain hindered harvesting and drying of the beans, especially in areas where operations are more advanced. A cold front remains active across southeastern Brazil’s coffee belt, with rain in parts of São Paulo, Minas Gerais, Rio de Janeiro, and Espírito Santo. Although rainfall is expected to ease in some areas over the week, renewed instability is expected thereafter.
-
----
-
-### 2026-06-16 21:54:44  #市場
-
-芝加哥期權交易所股價下跌 3.9%。
-
----
-
-### 2026-06-16 21:54:08  #市場
-
-【美股雲端計算服務商延續漲勢】美股雲端計算服務商延續漲勢，CoreWeave大漲近10%，Nebius漲近4%，Hut 8、IREN漲約2%。
-
----
-
-### 2026-06-16 21:53:43  #觀點
-
-市場訊息：高盛高管魯姆勒將留任高階顧問一職。
-
----
-
-### 2026-06-16 21:52:53  #Trading Economics #Economy #Hungary #Government Bond 10Y #Importance 0
-
-Hungary 10Y Bond Yield Hits 4-year Low — Hungary 10 Year Government Bond Yield decreased to 5.14%, the lowest since February 2022. Over the past 4 weeks, Hungary 10Y Bond Yield lost 51.69 basis points, and in the last 12 months, it decreased 189.69 basis points.
-
----
-
-### 2026-06-16 21:51:47  #其他
-
-【水利部啟動水利抗震救災排程指揮機制】從水利部瞭解到，針對6月16日下午青海省海西州直轄區發生的6.3級地震，水利部啟動水利抗震救災排程指揮機制。根據全國“水利一張圖”，排查震區河流以及水庫、水電站、農村供水工程、水文測站分佈情況，並及時通報青海省水利廳，督促地方水利部門立即摸排水利工程震損情況。經初步排查，暫未收到水利工程震損情況報告。（央視新聞）
-
----
-
-### 2026-06-16 21:51:30  #MKT News #ROKU.O #Impact bullish
-
-Semafor reports Netflix (NFLX.O) lost to Fox in the bid to acquire Roku.
-
----
-
-### 2026-06-16 21:51:04  #其他
-
-NETFLIX在收購ROKU的爭奪中不敵FOX。
-
----
-
-### 2026-06-16 21:50:21  #市場
-
-【機構：受美伊協議帶來的寬慰情緒提振，阿聯酋和沙特股市上漲】隨著美伊協議宣告發布後本地市場重新開市，阿聯酋股市上漲。XTB MENA的Milad Azar表示，緊張局勢的緩解可能會透過更強勁的外資流入、信心的改善以及更具支援性的盈利環境，對海灣阿拉伯國家合作委員會市場提供支撐。迪拜金融市場綜合指數上漲1.7%，阿布扎比基準指數上漲1.6%。這兩個阿聯酋市場週一曾因公共假日休市。沙烏地阿拉伯Tadawul All Share Index上漲0.5%。
-
----
-
-### 2026-06-16 21:50:04  #市場 #焦點 #國際
-
-瑞士外交部表示，美伊諒解備忘錄的簽署計劃目前定於6月19日星期五，在瑞士中部的比爾根斯托克舉行。
-
----
-
-### 2026-06-16 21:49:47  #其他
-
-Telegram創始人：禁令未能阻止任何事，洩密內容只是轉移到了其他應用。
-
----
-
-### 2026-06-16 21:49:21  #市場
-
-SpaceX股價漲幅進一步擴大，最新上漲12%。
-
----
-
-### 2026-06-16 21:49:10  #國際
-
-TELEGRAM創始人：印度臨時封禁TELEGRAM ，殃及印度超 1.5 億普通使用者。
-
----
-
-### 2026-06-16 21:48:16  #國際
-
-【德國汽車工業協會稱必須立即透過歐美關稅協議】德國汽車工業協會會長希爾德加德·穆勒表示，歐洲議會終於批准了美國關稅協議，這是一件好事，但現在必須刻不容緩地正式透過該協議。穆勒說：“有一點很明確：各方都必須遵守去年夏天達成的協議。”她補充說，這包括一旦歐盟履行了其承諾，特朗普就要撤回他目前的關稅威脅。
-
----
-
-### 2026-06-16 21:48:10  #MKT News
-
-【German auto association urges immediate ratification of EU-US tariff deal】German Association of the Automotive Industry (VDA) president Hildegard Müller said the European Parliament has finally approved the EU-US tariff deal and it must now be formally ratified without delay. She said all parties must honor the agreement reached last summer and that, once the EU fulfills its commitments, President Trump will withdraw his current tariff threat.
-
----
-
-### 2026-06-16 21:47:32  #國際
-
-烏克蘭州長稱，俄羅斯無人機襲擊造成尼科波爾市三人死亡。
-
----
-
-### 2026-06-16 21:47:07  #MKT News #SPCX.O #Impact bullish
-
-【SpaceX market cap surpasses Amazon to become world's fifth-largest company】SpaceX (SPCX.O) shares rose more than 10% on Tuesday, pushing the company's market value above Amazon (AMZN.O) to become the world's fifth-largest firm; if gains hold through the close, market cap would be roughly $2.8 trillion. Swissquote senior market analyst Ipek Ozkardeskaya called the valuation "completely nonsensical," saying recent buying looks speculative. Options on SPCX began trading Tuesday with standard monthly expiries and strikes from $25 to $380. SpotGamma founder Brent Kochuba warned that heavy call demand could force market makers to buy SPCX stock amid thin liquidity, said index-related buying may increase next week, and that additional free float is unlikely to reach the market for another 1–2 months.
 
 ---

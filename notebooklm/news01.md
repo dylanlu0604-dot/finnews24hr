@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 01:42:23_
-_本檔包含 3875 則快訊，約 651079 字_
+_更新時間：2026-06-21 02:43:47_
+_本檔包含 3887 則快訊，約 651257 字_
+
+---
+
+### 2026-06-21 02:42:46  #MKT News
+
+【Shooting in Chicago injures at least 12; two in critical condition】Chicago police said on the 20th that a late-night shooting on the 19th left at least 12 people wounded after two people fired from an SUV into a crowd. Victims were taken to hospital; two men are in critical condition. Police said they are investigating the incident.
+
+---
+
+### 2026-06-21 02:41:14  #國際
+
+英國首相斯塔默：會聲援巴勒斯坦，且不會對伊朗開戰。
+
+---
+
+### 2026-06-21 02:38:42  #國際
+
+伊朗革命衛隊海軍官員：我方參與談判是為捍衛自身合法權益，絕不會作出任何妥協退讓。
+
+---
+
+### 2026-06-21 02:38:34  #MKT News
+
+An Islamic Revolutionary Guard Corps naval political affairs official said the real guarantee of any agreement is our strength.
+
+---
+
+### 2026-06-21 02:38:33  #國際
+
+以色列軍方發言人：我方所有行動完全基於作戰層面考量，真主黨相關基礎設施規模極其龐大。
+
+---
+
+### 2026-06-21 02:37:42  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) navy political affairs officer said the force is defending its rights through negotiations rather than making concessions.
+
+---
+
+### 2026-06-21 02:37:27  #國際
+
+【美國芝加哥發生槍擊事件 至少12人受傷】據當地警方20日釋出的訊息，美國芝加哥市19日晚發生一起槍擊事件，造成至少12人受傷。 芝加哥警方當天在記者會上說，事件發生在19日深夜，有兩人從一輛SUV轎車上向人群開槍，至少12人中彈，傷者隨即被送往醫院救治，其中兩名男子情況危急。目前警方正在對案件展開調查。 6月19日是美國的六月節，這一天被視為美國奴隸制終結之日。據芝加哥警方通報，自19日晚間以來，該市至少有21人遭槍擊，4人死亡。
+
+---
+
+### 2026-06-21 02:36:44  #其他
+
+【第三屆資訊無障礙研討會在法國巴黎召開】近日，第三屆“資訊無障礙與文化權利保障研討會”在巴黎聯合國教科文組織總部召開。會議由聯合國教科文組織全民資訊計劃、中國人權發展基金會和中國傳媒大學共同主辦，多國專家圍繞視障群體文化權利保障等議題研討。與會嘉賓認為，無障礙文化是人類文明進步的重要標識。各方應深化國際協作，依託數智技術彌合數字鴻溝，推動無障礙文化產品惠及全球殘障群體，共建包容共享的文明未來。（央視新聞）
+
+---
+
+### 2026-06-21 02:35:05  #國際
+
+【以媒：以軍已在黎巴嫩停火 但未撤出黎南】以色列媒體20日報道說，以總理和國防部長指示以軍在黎巴嫩停火，但以軍未撤出在黎巴嫩南部控制的地區。以總理內塔尼亞胡重申“只要有必要”以軍會一直駐留黎南部。以色列《國土報》20日援引一名以安全部門訊息人士的話報道，以方在黎南的“政策保持不變”，以軍將繼續回應黎巴嫩真主黨任何“違反停火協議的行為”。過去兩天，以軍共打擊300多個黎真主黨目標，打死約100名真主黨武裝人員。這名訊息人士透露，內塔尼亞胡重申“只要有必要”以軍會一直駐留黎南。他說，內塔尼亞胡已指示以軍對黎真主黨的任何襲擊“都予以強力回應”，並採取行動消除針對以軍的威脅。這名訊息人士還說，以軍將繼續在黎南控制區“自由行動”，以清除黎真主黨軍事基礎設施。（新華社）
+
+---
+
+### 2026-06-21 02:35:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Israeli media: IDF ordered ceasefire in Lebanon but remains in south】Israeli media reported on June 20 that the prime minister and defence minister instructed the IDF to implement a ceasefire in Lebanon, but forces have not withdrawn from areas they control in south Lebanon. Prime Minister Netanyahu reiterated the IDF will remain in south Lebanon “as long as necessary” and has ordered forces to respond forcefully to any HEZBOLLAH attacks and to remove threats to troops, Haaretz cited a security source. The source said policy in the south is unchanged: over the past two days the IDF struck more than 300 HEZBOLLAH targets and killed about 100 HEZBOLLAH fighters, and will continue to operate freely in its south Lebanon controlled areas to clear HEZBOLLAH military infrastructure.
+
+---
+
+### 2026-06-21 02:33:46  #MKT News
+
+【US media: IAEA director to participate in technical talks on Iran nuclear programme】US broadcaster CBS reports IAEA Director Rafael Grossi is in Switzerland and is expected to take part in technical talks on Iran’s nuclear programme. A 14-point memorandum of understanding assigns the IAEA responsibility for inspections and to supervise downblending of Iran’s highly enriched uranium (HEU).
+
+---
+
+### 2026-06-21 02:31:10  #其他
+
+一項新研究顯示，一款人工智慧模型正幫助部分常年病因不明的患者得到確診。
+
+---
+
+### 2026-06-21 02:30:13  #其他
+
+蘇格蘭反恐警方正在調查愛丁堡發生的襲擊事件，該事件已造成五人受傷。
+
+---
+
+### 2026-06-21 02:25:06  #MKT News
+
+【Al Jazeera reporter killed in Israeli strike on Bureij refugee camp】Al Jazeera said its reporter Ahmed Wisha was killed when an Israeli airstrike struck a residential building in the Bureij refugee camp in central Gaza. Palestinian civil defense said at least 10 people were killed in Israeli strikes across Gaza that day. Al Jazeera said Wisha’s brother, Muhammad Wisha, was killed on April 8 by Israeli shelling while driving.
+
+---
+
+### 2026-06-21 02:22:53  #國際
+
+以色列廣播管理局：真主黨在卡夫爾提卜尼特附近發射火箭彈與無人機，造成一名以軍士兵身亡，包括一名軍官在內的另外12人受傷。
+
+---
+
+### 2026-06-21 02:18:29  #其他
+
+希臘已調派消防員、固定翼飛機與直升機，應對埃維亞島的火情。
+
+---
+
+### 2026-06-21 02:16:55  #MKT News
+
+Egyptian Foreign Minister Badr Abdel Ati met with Saudi and Turkish foreign ministers and the US president’s senior adviser for Arab and African affairs to discuss regional developments.
+
+---
+
+### 2026-06-21 02:07:31  #其他 #焦點
+
+聯合國核監督機構總幹事格羅西將前往瑞士出席美伊談判。
+
+---
+
+### 2026-06-21 02:07:22  #MKT News #Important
+
+【Sources: Residence of Iraq's parliamentary speaker struck by drone】Iraqi security sources said on the 20th local time the residence of Iraq’s parliament speaker al-Halbousi was struck by an unidentified drone.
+
+---
+
+### 2026-06-21 02:06:50  #其他
+
+【訊息人士：伊拉克國民議會議長住所遭無人機襲擊】當地時間20日，伊拉克安全部門訊息人士稱，伊拉克國民議會議長海巴特·哈勒布西的住所遭不明無人機襲擊。（央視新聞）
+
+---
+
+### 2026-06-21 02:02:53  #MKT News
+
+The extremist group Islamic State has claimed responsibility for an attack in northeast Aleppo, Syria.
+
+---
+
+### 2026-06-21 02:02:25  #國際
+
+極端組織“伊斯蘭國”宣稱對敘利亞阿勒頗東北部的襲擊事件負責。
+
+---
+
+### 2026-06-21 02:01:31  #其他
+
+西班牙首相佩德羅・桑切斯的妻子貝戈尼亞・戈麥斯將接受庭審，被控四項重罪：權錢交易（影響力兜售）、商業腐敗、侵吞公共資金、侵佔財物。
+
+---
+
+### 2026-06-21 02:00:27  #國際
+
+半島電視臺一名攝像師在以色列對加沙地帶中部發動的空襲中身亡。
+
+---
+
+### 2026-06-21 01:56:31  #國際
+
+以色列軍方宣佈一名士兵在黎巴嫩南部戰鬥中陣亡。
+
+---
+
+### 2026-06-21 01:52:09  #其他
+
+西班牙：法院禁止首相佩德羅・桑切斯之妻貝戈尼亞・戈麥斯出境。
+
+---
+
+### 2026-06-21 01:51:09  #MKT News
+
+【Sources: Pakistan PM Shehbaz and army chief Munir to travel to Switzerland】Pakistani sources said on the 20th that Prime Minister Shehbaz and Army Chief Munir will travel to Switzerland on the 21st.
+
+---
+
+### 2026-06-21 01:48:42  #國際
+
+X平臺標記了國家安全部長本·格維爾的一條帖文。真主黨造成四名以色列士兵身亡後，該帖文呼籲讓黎巴嫩“化為火海”；該平臺表示這條內容違反平臺規則，但出於公共利益考量仍予以保留、未下架。
+
+---
+
+### 2026-06-21 01:45:03  #MKT News
+
+【IAEA: Zaporizhzhia nuclear plant reconnected to grid】The International Atomic Energy Agency (IAEA) said on the 20th the Zaporizhzhia nuclear plant was reconnected to the grid at 17:50 local time, ending a 4.5-hour loss of off-site power.
+
+---
+
+### 2026-06-21 01:44:48  #其他
+
+【國際原子能機構：扎波羅熱核電站重新連線電網】國際原子能機構20日表示，扎波羅熱核電站於當地時間當日17時50分重新連線到電網，結束了持續4.5小時的場外電力喪失狀態。（央視新聞）
 
 ---
 
@@ -23268,113 +23448,5 @@ Text of US-Iran memorandum of understanding reiterates a commitment not to acqui
 ### 2026-06-18 18:54:22  #公司 #市場
 
 【兆易創新：股票連續3日漲幅偏離值超20% 提示交易風險】兆易創新公告稱，公司股票於2026年6月16日至18日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬於異常波動。經自查，公司生產經營正常，不存在應披露未披露重大事項。控股股東、實控人朱一明及其一致行動人持股比例此前已由7.90%減至7.00%，本次波動期間相關人員無買賣公司股票行為。公司提醒投資者注意交易和行業週期波動風險。
-
----
-
-### 2026-06-18 18:54:11  #國際
-
-【工信部部長李樂成會見加拿大工業部長梅拉妮·喬利】6月18日下午，工業和資訊化部部長李樂成在北京會見加拿大工業部長梅拉妮·喬利，雙方就深化中加產業合作進行交流。李樂成表示，在兩國領導人戰略引領下，中加關係重新起航。工業和資訊化部願同加方加強政策經驗交流，充分發揮各自產業優勢，鼓勵和支援兩國企業加強對接，拓展務實合作，為中加新型戰略伙伴關係發展注入新動力。喬利表示，加方願同中方相向而行，共同為兩國產業互利共贏合作創造有利條件，助力雙邊關係發展。（工信部）
-
----
-
-### 2026-06-18 18:53:39  #MKT News
-
-Text of U.S.-Iran memorandum says Iran and Oman will discuss future management of services in the Strait of Hormuz.
-
----
-
-### 2026-06-18 18:53:24  #宏觀
-
-【我國出臺17項舉措加快發展“人工智慧+消費”】商務部等8部門關於加快“人工智慧+消費”發展的實施意見18日對外發布。實施意見以推動人工智慧與消費深度融合為主線，以擴大智慧商品消費、賦能服務消費、創新消費場景為重點，以人工智慧新產品新服務新場景示範應用為路徑，提出5方面17條舉措。在商品消費領域，實施意見提出增加人工智慧產品新供給，推動消費電子產品和家居家電產品更新換代，培育智慧穿戴消費市場，打造“人、車、家”全場景聯動的智慧產品生態；促進人工智慧機器人消費，面向“一老一小”等重點人群，加快養老機器人、陪伴機器人、人工智慧生活助手等新型人工智慧產品應用示範；建設人工智慧商品首發平臺，支援人工智慧商品首發首展。在服務消費領域，實施意見圍繞居家、養老、文旅、住宿餐飲、教育五大場景，提出多項務實舉措。包括研究將智慧家居及服務應用納入“好房子”建設指南；指導養老服務機構運用人工智慧技術，配備智慧護理機器人、康復機器人等產品；推動人工智慧賦能旅遊，與行程規劃、票務辦理、導遊導覽、酒店預訂等全鏈條深度融合；在機關、學校、醫院等推廣“智慧食堂”等。在商業創新領域，聚焦零售、電商和物流三個關鍵環節，實施意見提出加快發展智慧零售，實施零售業創新提升工程；推動電子商務與人工智慧深度融合，賦能運營、客服、設計、營銷、直播等全場景全流程；利用人工智慧技術完善縣鄉村三級智慧物流配送體系，推廣自助提貨櫃、智慧快件箱（信包箱）等物流終端，提高偏遠地區物流配送覆蓋面等。在推廣和環境保障方面，實施意見提出建設“人工智慧+消費”集聚區，建設一批人工智慧體驗中心；鼓勵以商業綜合體、步行街、景區、博物館、養老機構等公共場景為重點，開展人工智慧產品租賃、共享、試用等新模式創新；鼓勵地方在消費品以舊換新政策框架內，自主制定實施補貼政策，重點支援“人工智慧+”行動明確的新一代智慧終端等消費等。（新華社）
-
----
-
-### 2026-06-18 18:53:20  #MKT News #Important #Market Regions #Greater China
-
-【After fundraising reports, DeepSeek launches image-recognition mode but fails to identify founder Liang Wenfeng】On June 18 DeepSeek rolled out a web-based image-recognition mode; its mobile app remains in internal testing. The feature is at an early stage: repeated tests with photos of founder Liang Wenfeng produced multiple wrong IDs and the model ultimately said, I’m really not sure. I don’t recommend guessing names, because guessing wrong is worse than saying I don’t know. In other user trials the model misidentified Liang as Moonshot AI founder Yang Zhilin and as a younger Ma Huateng. The launch follows reports DeepSeek has secured more than CNY50 billion in its initial funding round. Reported deal terms include a founder stipulation that investors must not poach DeepSeek staff or encourage them to spin out; DeepSeek insiders said that description is broadly accurate.
-
----
-
-### 2026-06-18 18:52:57  #國際
-
-印度政府告知法院：我們未封禁其他任何應用程式。
-
----
-
-### 2026-06-18 18:52:51  #國際
-
-歐洲計劃為千兆工廠專案縮減資料中心招標規模。
-
----
-
-### 2026-06-18 18:52:44  #國際
-
-印度政府告知法院：若我們下令永久封禁電報（Telegram），或可被認定為不成比例的限制措施。
-
----
-
-### 2026-06-18 18:52:36  #MKT News #Market Regions #Europe & UK
-
-Europe plans to tender smaller-scale data centres for its super factory project.
-
----
-
-### 2026-06-18 18:52:34  #其他
-
-【高峰期日均收穫超1600萬畝 全國“三夏”小麥大規模機收基本結束】記者從農業農村部瞭解到，今年“三夏”小麥大規模機收從5月28日啟動，截至今天，全國夏糧小麥收穫進度已過96%，除新疆、甘肅等西北地區麥收還將繼續推進外，西南、黃淮海等重點麥區收穫均已收官，今年“三夏”小麥大規模機收基本結束。今年“三夏”搶收進度快。小麥大規模機收從5月28日啟動，自南向北快速推進，歷時22天基本完成大規模麥收任務，較去年快2天，在5月31日到6月13日搶收高峰期，全國日均收穫超1600萬畝，麥收大省河南連續3天日收超1000萬畝、1周左右順利完成集中搶收任務。“三夏”期間，國產聯合收割機加快迭代升級，國產輪式機型喂入量已達每秒12公斤、履帶式機型達到每秒9公斤，北斗定位作業監測成為標配。多地小麥機收平均損失率均控制在1%以內的較好水平，河南、安徽等省組織機收比武現場實測損失率控制在0.5%左右，為夏糧豐收到手和全年糧食穩產保供提供了有力保障。今年麥收地區大部降雨多於常年，湖北5月中旬連續遭遇強降雨，小麥適收視窗縮短至3天左右，農業農村部緊急調集1.3萬臺聯合收割機跨區支援搶收。6月1日全面入汛後，針對黃淮海地區陣雨和強對流天氣頻發形勢，及時釋出預警預報，動員區域農機社會化服務中心、區域農業應急救災中心和應急作業服務隊等力量全力搶收，實現“雨口奪糧”。（央視新聞）
-
----
-
-### 2026-06-18 18:52:21  #MKT News #Important #WTI #Impact bearish #Brent
-
-U.S.-Iran memorandum of understanding text: Iran will arrange safe passage for vessels and waive fees for 60 days.
-
----
-
-### 2026-06-18 18:51:55  #國際
-
-伊朗將安排船舶安全通行，60 天內免收通行費用。
-
----
-
-### 2026-06-18 18:51:40  #公司
-
-【湯臣倍健：擬5000萬元投資原粒半導體】湯臣倍健6月18日公告，公司擬以自有資金5000萬元投資原粒(北京)半導體技術有限公司，投資完成後將持有其0.97%股權。因公司董事長梁允超配偶欒曉華間接持有標的公司股權，本次投資構成關聯交易。標的公司處於早期階段，主營業務與公司無直接關聯，存在技術研發不及預期、行業競爭激烈等風險。本次投資屬於財務性投資，旨在佈局前沿科技領域。
-
----
-
-### 2026-06-18 18:51:25  #其他
-
-【國家資料局召開系列座談會研究上半年數字經濟形勢】近日，國家資料局組織召開系列座談會，會同有關部門、地方、行業協會、科研院所、投融資機構和企業共同研判上半年數字經濟發展形勢，分析面臨的機遇與挑戰，研究做好下一步工作。大家一致認為，上半年，詞元（Token）計價、效用付費等業態初顯，數字消費快速發展，數字貿易保持增勢，數字經濟領域投資活躍，充分彰顯了我國數字經濟的強大韌性和潛力，為國民經濟平穩發展注入新動能。下一步，國家資料局將會同有關方面，持續完善資料要素市場化配置改革“531”工作體系，拓展資料要素價值化路徑，加快構建以資料為關鍵要素的數字經濟，緊扣“十五五”規劃部署，緊密跟蹤監測數字經濟發展情況，靠前謀劃政策儲備，促進實體經濟與數字經濟深度融合，不斷推動我國數字經濟做強做優做大。
-
----
-
-### 2026-06-18 18:51:07  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-US-Iran memorandum text: the US will fully end its maritime blockade within 30 days.
-
----
-
-### 2026-06-18 18:50:57  #公司 #市場
-
-埃森哲股價盤前下跌10.3%，此前該公司下調年度收入預期，同時將以41.8億美元收購多家網路安全企業。
-
----
-
-### 2026-06-18 18:50:56  #MKT News
-
-【Li Lecheng meets Canadian Industry Minister Melanie Joly】On June 18 in Beijing, Minister of Industry and Information Technology Li Lecheng met Canadian Industry Minister Melanie Joly to discuss deepening China-Canada industrial cooperation. Li said the ministry will step up policy exchanges, leverage each country’s industrial strengths and encourage and support firm-to-firm linkages to expand practical cooperation. Joly said Canada is willing to work with China to create favourable conditions for mutually beneficial industrial cooperation and to advance bilateral ties.
-
----
-
-### 2026-06-18 18:50:45  #國際
-
-諒解備忘錄：美國將在 30 日內全面解除海上封鎖。
-
----
-
-### 2026-06-18 18:50:31  #MKT News
-
-【China Middle East envoy Zhai Jun phones Norwegian Foreign Ministry State Secretary Kravik】On June 18, 2026, China’s Middle East special envoy Zhai Jun held a scheduled phone call with Norwegian Foreign Ministry State Secretary Kravik; they exchanged views on the current situation in the Middle East.
 
 ---

@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 01:42:23_
-_本檔包含 3522 則快訊，約 650966 字_
+_更新時間：2026-06-21 02:43:47_
+_本檔包含 3524 則快訊，約 651253 字_
+
+---
+
+### 2026-06-16 21:56:16  #焦點 #A股
+
+【6月16日增減持彙總】據不完全統計，6月16日盤後，盛泰集團、新里程披露增持情況，播恩集團、福達合金、和遠氣體、百合花4家A股上市公司披露擬減持情況。
+
+---
+
+### 2026-06-16 21:55:16  #Trading Economics #Markets #Commodity #Importance 0
+
+Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures traded slightly above $2.60 per pound, the highest since late May, amid concerns about weather conditions in Brazil's producing regions and the progress of the 2025/26 harvest. Local farmers said that several days of rain hindered harvesting and drying of the beans, especially in areas where operations are more advanced. A cold front remains active across southeastern Brazil’s coffee belt, with rain in parts of São Paulo, Minas Gerais, Rio de Janeiro, and Espírito Santo. Although rainfall is expected to ease in some areas over the week, renewed instability is expected thereafter.
+
+---
+
+### 2026-06-16 21:54:44  #市場
+
+芝加哥期權交易所股價下跌 3.9%。
+
+---
+
+### 2026-06-16 21:54:08  #市場
+
+【美股雲端計算服務商延續漲勢】美股雲端計算服務商延續漲勢，CoreWeave大漲近10%，Nebius漲近4%，Hut 8、IREN漲約2%。
+
+---
+
+### 2026-06-16 21:53:43  #觀點
+
+市場訊息：高盛高管魯姆勒將留任高階顧問一職。
+
+---
+
+### 2026-06-16 21:52:53  #Trading Economics #Economy #Hungary #Government Bond 10Y #Importance 0
+
+Hungary 10Y Bond Yield Hits 4-year Low — Hungary 10 Year Government Bond Yield decreased to 5.14%, the lowest since February 2022. Over the past 4 weeks, Hungary 10Y Bond Yield lost 51.69 basis points, and in the last 12 months, it decreased 189.69 basis points.
+
+---
+
+### 2026-06-16 21:51:47  #其他
+
+【水利部啟動水利抗震救災排程指揮機制】從水利部瞭解到，針對6月16日下午青海省海西州直轄區發生的6.3級地震，水利部啟動水利抗震救災排程指揮機制。根據全國“水利一張圖”，排查震區河流以及水庫、水電站、農村供水工程、水文測站分佈情況，並及時通報青海省水利廳，督促地方水利部門立即摸排水利工程震損情況。經初步排查，暫未收到水利工程震損情況報告。（央視新聞）
+
+---
+
+### 2026-06-16 21:51:30  #MKT News #ROKU.O #Impact bullish
+
+Semafor reports Netflix (NFLX.O) lost to Fox in the bid to acquire Roku.
+
+---
+
+### 2026-06-16 21:51:04  #其他
+
+NETFLIX在收購ROKU的爭奪中不敵FOX。
+
+---
+
+### 2026-06-16 21:50:21  #市場
+
+【機構：受美伊協議帶來的寬慰情緒提振，阿聯酋和沙特股市上漲】隨著美伊協議宣告發布後本地市場重新開市，阿聯酋股市上漲。XTB MENA的Milad Azar表示，緊張局勢的緩解可能會透過更強勁的外資流入、信心的改善以及更具支援性的盈利環境，對海灣阿拉伯國家合作委員會市場提供支撐。迪拜金融市場綜合指數上漲1.7%，阿布扎比基準指數上漲1.6%。這兩個阿聯酋市場週一曾因公共假日休市。沙烏地阿拉伯Tadawul All Share Index上漲0.5%。
+
+---
+
+### 2026-06-16 21:50:04  #市場 #焦點 #國際
+
+瑞士外交部表示，美伊諒解備忘錄的簽署計劃目前定於6月19日星期五，在瑞士中部的比爾根斯托克舉行。
+
+---
+
+### 2026-06-16 21:49:47  #其他
+
+Telegram創始人：禁令未能阻止任何事，洩密內容只是轉移到了其他應用。
+
+---
+
+### 2026-06-16 21:49:21  #市場
+
+SpaceX股價漲幅進一步擴大，最新上漲12%。
+
+---
+
+### 2026-06-16 21:49:10  #國際
+
+TELEGRAM創始人：印度臨時封禁TELEGRAM ，殃及印度超 1.5 億普通使用者。
+
+---
+
+### 2026-06-16 21:48:16  #國際
+
+【德國汽車工業協會稱必須立即透過歐美關稅協議】德國汽車工業協會會長希爾德加德·穆勒表示，歐洲議會終於批准了美國關稅協議，這是一件好事，但現在必須刻不容緩地正式透過該協議。穆勒說：“有一點很明確：各方都必須遵守去年夏天達成的協議。”她補充說，這包括一旦歐盟履行了其承諾，特朗普就要撤回他目前的關稅威脅。
+
+---
+
+### 2026-06-16 21:48:10  #MKT News
+
+【German auto association urges immediate ratification of EU-US tariff deal】German Association of the Automotive Industry (VDA) president Hildegard Müller said the European Parliament has finally approved the EU-US tariff deal and it must now be formally ratified without delay. She said all parties must honor the agreement reached last summer and that, once the EU fulfills its commitments, President Trump will withdraw his current tariff threat.
+
+---
+
+### 2026-06-16 21:47:32  #國際
+
+烏克蘭州長稱，俄羅斯無人機襲擊造成尼科波爾市三人死亡。
+
+---
+
+### 2026-06-16 21:47:07  #MKT News #SPCX.O #Impact bullish
+
+【SpaceX market cap surpasses Amazon to become world's fifth-largest company】SpaceX (SPCX.O) shares rose more than 10% on Tuesday, pushing the company's market value above Amazon (AMZN.O) to become the world's fifth-largest firm; if gains hold through the close, market cap would be roughly $2.8 trillion. Swissquote senior market analyst Ipek Ozkardeskaya called the valuation "completely nonsensical," saying recent buying looks speculative. Options on SPCX began trading Tuesday with standard monthly expiries and strikes from $25 to $380. SpotGamma founder Brent Kochuba warned that heavy call demand could force market makers to buy SPCX stock amid thin liquidity, said index-related buying may increase next week, and that additional free float is unlikely to reach the market for another 1–2 months.
 
 ---
 
@@ -21148,101 +21256,5 @@ Iranian Foreign Ministry spokesman Baghaei said the US will pledge to allow Iran
 ### 2026-06-15 20:05:09  #MKT News
 
 【SAMR director Luo Wen meets Mongolian deputy prime minister Nomtoibayar】On June 12, SAMR director Luo Wen met visiting Mongolian Deputy Prime Minister Nomtoibayar to discuss cooperation on metrology, standardization and conformity assessment. Both sides agreed to advance legal metrology cooperation, coordinate standards for key traded goods, phase in mutual recognition of conformity assessment, and run proficiency testing and personnel training to facilitate bilateral trade. They signed a metrology cooperation action plan; relevant SAMR department officials attended.
-
----
-
-### 2026-06-15 20:05:01  #公司
-
-【儒意電影：擬以8000萬元-1.5億元回購公司股份】儒意電影公告，擬以8000萬元-1.5億元回購公司股份，回購價格不超過13.8元/股。
-
----
-
-### 2026-06-15 20:04:30  #其他
-
-【羅文會見蒙古國副總理諾木泰巴亞爾】6月12日，國家市場監督管理總局局長羅文會見來訪的蒙古國副總理諾木泰巴亞爾。雙方就計量、標準化和合格評定領域合作進行交流，一致同意推進法制計量合作，加強重點貿易商品標準協調，分階段建立健全合格評定互認機制，組織檢驗檢測能力驗證計劃及人員培訓等，以促進雙邊貿易便利化，為兩國經貿關係發展作出更多貢獻。會後，雙方簽署計量合作行動計劃。總局相關司局負責同志參加會見。（國家市場監督管理局）
-
----
-
-### 2026-06-15 20:03:52  #國際
-
-以色列航空（EL AL）宣佈已與星鏈（Starlink）簽署協議。
-
----
-
-### 2026-06-15 20:03:29  #國際
-
-印度阿達尼企業（Adani Enterprises）與捷普（Jabil）合作，將建設人工智慧資料中心。
-
----
-
-### 2026-06-15 20:03:22  #其他
-
-市場訊息：德國經濟部長計劃於 6 月下旬前往哈薩克進行訪問。
-
----
-
-### 2026-06-15 20:03:13  #MKT News
-
-【Cui Dongshu: OEM and dealer EV inventories face retail shortfall】CPCA secretary-general Cui Dongshu wrote that national passenger-vehicle inventory at end‑May 2026 was 3.48 mln units, down 60k MoM and up 30k YoY; manufacturer inventories make up 30.3%, a relatively high share. CPCA optimism for May was 27%; early‑June post‑May satisfaction was 26%, with high oil prices cited as the main adverse factor. The team's optimism for June dropped to 31%, a recent historical low. Inventory at pure new‑energy vehicle manufacturers rose to 790k units in May, up 40k MoM, 10k above the Nov‑2025 peak but down 80k YoY from 870k in May‑2025. OEM and dealer channel inventories for NEVs are facing retail demand below expectations, leaving elevated industry inventory pressure.
-
----
-
-### 2026-06-15 20:03:12  #MKT News
-
-Russian Foreign Intelligence Service director Naryshkin said Russian and US intelligence services are maintaining contact on Ukraine.
-
----
-
-### 2026-06-15 20:03:11  #市場
-
-波羅的海乾散貨指數下跌0.33%，至2720點。
-
----
-
-### 2026-06-15 20:02:59  #其他
-
-【山西轉型綜改示範區管委會原副主任尤天拴接受審查調查】中央紀委國家監委網站6月15日通報，據山西省紀委監委訊息：山西轉型綜改示範區黨工委原副書記、管委會原副主任尤天拴涉嫌嚴重違紀違法，目前正接受山西省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-06-15 20:02:42  #國際
-
-俄羅斯：俄美情報部門正就烏克蘭問題保持接觸。
-
----
-
-### 2026-06-15 20:02:40  #MKT News
-
-Baltic Dry Index fell 0.33% to 2,720.
-
----
-
-### 2026-06-15 20:02:24  #MKT News #Market Themes #AI Revolution #ADANIENT.NS #Impact bullish #JBL.O
-
-India's Adani Enterprises is partnering with Jabil to build an artificial intelligence data center.
-
----
-
-### 2026-06-15 20:01:28  #資料
-
-加拿大至6月12日全國經濟信心指數 50.2，前值50.9。
-
----
-
-### 2026-06-15 20:01:27  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Russian Foreign Minister Lavrov said he expects a US-Iran peace memorandum and hopes it will be signed this week.
-
----
-
-### 2026-06-15 20:01:22  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D rose 3.29% to 938.3 yuan/gram and silver T+D rose 6.41% to 16,870 yuan/kg in initial evening trading on Monday, June 15.
-
----
-
-### 2026-06-15 20:01:16  #MKT News #Market Regions #Europe & UK
-
-【ECB widens private-credit probe to more than 20 banks】The European Central Bank has roughly doubled the number of banks covered by a review of private-credit links, requesting detailed information on private‑credit exposures from more than 20 lenders this year, sources said. Previous rounds covered about 12 banks. Insiders said banks with material ties to private credit will be required to report related details annually. Scrutiny has risen after several funds imposed redemption restrictions in recent months. Although private credit is much smaller in the eurozone than in the US, regulators are concerned banks may lack systems to identify and aggregate these exposures. "Compared with other assets on banks' balance sheets, these exposures remain relatively limited overall, but are growing very fast. The key issue is not only the size of the exposures, but whether banks have the ability to effectively aggregate and identify these risks," said Sharon Donnery, a member of the ECB's supervisory board.
 
 ---

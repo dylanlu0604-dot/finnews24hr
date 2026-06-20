@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 01:42:23_
-_本檔包含 3512 則快訊，約 650627 字_
+_更新時間：2026-06-21 02:43:47_
+_本檔包含 3515 則快訊，約 651352 字_
+
+---
+
+### 2026-06-18 18:54:11  #國際
+
+【工信部部長李樂成會見加拿大工業部長梅拉妮·喬利】6月18日下午，工業和資訊化部部長李樂成在北京會見加拿大工業部長梅拉妮·喬利，雙方就深化中加產業合作進行交流。李樂成表示，在兩國領導人戰略引領下，中加關係重新起航。工業和資訊化部願同加方加強政策經驗交流，充分發揮各自產業優勢，鼓勵和支援兩國企業加強對接，拓展務實合作，為中加新型戰略伙伴關係發展注入新動力。喬利表示，加方願同中方相向而行，共同為兩國產業互利共贏合作創造有利條件，助力雙邊關係發展。（工信部）
+
+---
+
+### 2026-06-18 18:53:39  #MKT News
+
+Text of U.S.-Iran memorandum says Iran and Oman will discuss future management of services in the Strait of Hormuz.
+
+---
+
+### 2026-06-18 18:53:24  #宏觀
+
+【我國出臺17項舉措加快發展“人工智慧+消費”】商務部等8部門關於加快“人工智慧+消費”發展的實施意見18日對外發布。實施意見以推動人工智慧與消費深度融合為主線，以擴大智慧商品消費、賦能服務消費、創新消費場景為重點，以人工智慧新產品新服務新場景示範應用為路徑，提出5方面17條舉措。在商品消費領域，實施意見提出增加人工智慧產品新供給，推動消費電子產品和家居家電產品更新換代，培育智慧穿戴消費市場，打造“人、車、家”全場景聯動的智慧產品生態；促進人工智慧機器人消費，面向“一老一小”等重點人群，加快養老機器人、陪伴機器人、人工智慧生活助手等新型人工智慧產品應用示範；建設人工智慧商品首發平臺，支援人工智慧商品首發首展。在服務消費領域，實施意見圍繞居家、養老、文旅、住宿餐飲、教育五大場景，提出多項務實舉措。包括研究將智慧家居及服務應用納入“好房子”建設指南；指導養老服務機構運用人工智慧技術，配備智慧護理機器人、康復機器人等產品；推動人工智慧賦能旅遊，與行程規劃、票務辦理、導遊導覽、酒店預訂等全鏈條深度融合；在機關、學校、醫院等推廣“智慧食堂”等。在商業創新領域，聚焦零售、電商和物流三個關鍵環節，實施意見提出加快發展智慧零售，實施零售業創新提升工程；推動電子商務與人工智慧深度融合，賦能運營、客服、設計、營銷、直播等全場景全流程；利用人工智慧技術完善縣鄉村三級智慧物流配送體系，推廣自助提貨櫃、智慧快件箱（信包箱）等物流終端，提高偏遠地區物流配送覆蓋面等。在推廣和環境保障方面，實施意見提出建設“人工智慧+消費”集聚區，建設一批人工智慧體驗中心；鼓勵以商業綜合體、步行街、景區、博物館、養老機構等公共場景為重點，開展人工智慧產品租賃、共享、試用等新模式創新；鼓勵地方在消費品以舊換新政策框架內，自主制定實施補貼政策，重點支援“人工智慧+”行動明確的新一代智慧終端等消費等。（新華社）
+
+---
+
+### 2026-06-18 18:53:20  #MKT News #Important #Market Regions #Greater China
+
+【After fundraising reports, DeepSeek launches image-recognition mode but fails to identify founder Liang Wenfeng】On June 18 DeepSeek rolled out a web-based image-recognition mode; its mobile app remains in internal testing. The feature is at an early stage: repeated tests with photos of founder Liang Wenfeng produced multiple wrong IDs and the model ultimately said, I’m really not sure. I don’t recommend guessing names, because guessing wrong is worse than saying I don’t know. In other user trials the model misidentified Liang as Moonshot AI founder Yang Zhilin and as a younger Ma Huateng. The launch follows reports DeepSeek has secured more than CNY50 billion in its initial funding round. Reported deal terms include a founder stipulation that investors must not poach DeepSeek staff or encourage them to spin out; DeepSeek insiders said that description is broadly accurate.
+
+---
+
+### 2026-06-18 18:52:57  #國際
+
+印度政府告知法院：我們未封禁其他任何應用程式。
+
+---
+
+### 2026-06-18 18:52:51  #國際
+
+歐洲計劃為千兆工廠專案縮減資料中心招標規模。
+
+---
+
+### 2026-06-18 18:52:44  #國際
+
+印度政府告知法院：若我們下令永久封禁電報（Telegram），或可被認定為不成比例的限制措施。
+
+---
+
+### 2026-06-18 18:52:36  #MKT News #Market Regions #Europe & UK
+
+Europe plans to tender smaller-scale data centres for its super factory project.
+
+---
+
+### 2026-06-18 18:52:34  #其他
+
+【高峰期日均收穫超1600萬畝 全國“三夏”小麥大規模機收基本結束】記者從農業農村部瞭解到，今年“三夏”小麥大規模機收從5月28日啟動，截至今天，全國夏糧小麥收穫進度已過96%，除新疆、甘肅等西北地區麥收還將繼續推進外，西南、黃淮海等重點麥區收穫均已收官，今年“三夏”小麥大規模機收基本結束。今年“三夏”搶收進度快。小麥大規模機收從5月28日啟動，自南向北快速推進，歷時22天基本完成大規模麥收任務，較去年快2天，在5月31日到6月13日搶收高峰期，全國日均收穫超1600萬畝，麥收大省河南連續3天日收超1000萬畝、1周左右順利完成集中搶收任務。“三夏”期間，國產聯合收割機加快迭代升級，國產輪式機型喂入量已達每秒12公斤、履帶式機型達到每秒9公斤，北斗定位作業監測成為標配。多地小麥機收平均損失率均控制在1%以內的較好水平，河南、安徽等省組織機收比武現場實測損失率控制在0.5%左右，為夏糧豐收到手和全年糧食穩產保供提供了有力保障。今年麥收地區大部降雨多於常年，湖北5月中旬連續遭遇強降雨，小麥適收視窗縮短至3天左右，農業農村部緊急調集1.3萬臺聯合收割機跨區支援搶收。6月1日全面入汛後，針對黃淮海地區陣雨和強對流天氣頻發形勢，及時釋出預警預報，動員區域農機社會化服務中心、區域農業應急救災中心和應急作業服務隊等力量全力搶收，實現“雨口奪糧”。（央視新聞）
+
+---
+
+### 2026-06-18 18:52:21  #MKT News #Important #WTI #Impact bearish #Brent
+
+U.S.-Iran memorandum of understanding text: Iran will arrange safe passage for vessels and waive fees for 60 days.
+
+---
+
+### 2026-06-18 18:51:55  #國際
+
+伊朗將安排船舶安全通行，60 天內免收通行費用。
+
+---
+
+### 2026-06-18 18:51:40  #公司
+
+【湯臣倍健：擬5000萬元投資原粒半導體】湯臣倍健6月18日公告，公司擬以自有資金5000萬元投資原粒(北京)半導體技術有限公司，投資完成後將持有其0.97%股權。因公司董事長梁允超配偶欒曉華間接持有標的公司股權，本次投資構成關聯交易。標的公司處於早期階段，主營業務與公司無直接關聯，存在技術研發不及預期、行業競爭激烈等風險。本次投資屬於財務性投資，旨在佈局前沿科技領域。
+
+---
+
+### 2026-06-18 18:51:25  #其他
+
+【國家資料局召開系列座談會研究上半年數字經濟形勢】近日，國家資料局組織召開系列座談會，會同有關部門、地方、行業協會、科研院所、投融資機構和企業共同研判上半年數字經濟發展形勢，分析面臨的機遇與挑戰，研究做好下一步工作。大家一致認為，上半年，詞元（Token）計價、效用付費等業態初顯，數字消費快速發展，數字貿易保持增勢，數字經濟領域投資活躍，充分彰顯了我國數字經濟的強大韌性和潛力，為國民經濟平穩發展注入新動能。下一步，國家資料局將會同有關方面，持續完善資料要素市場化配置改革“531”工作體系，拓展資料要素價值化路徑，加快構建以資料為關鍵要素的數字經濟，緊扣“十五五”規劃部署，緊密跟蹤監測數字經濟發展情況，靠前謀劃政策儲備，促進實體經濟與數字經濟深度融合，不斷推動我國數字經濟做強做優做大。
+
+---
+
+### 2026-06-18 18:51:07  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+US-Iran memorandum text: the US will fully end its maritime blockade within 30 days.
+
+---
+
+### 2026-06-18 18:50:57  #公司 #市場
+
+埃森哲股價盤前下跌10.3%，此前該公司下調年度收入預期，同時將以41.8億美元收購多家網路安全企業。
+
+---
+
+### 2026-06-18 18:50:56  #MKT News
+
+【Li Lecheng meets Canadian Industry Minister Melanie Joly】On June 18 in Beijing, Minister of Industry and Information Technology Li Lecheng met Canadian Industry Minister Melanie Joly to discuss deepening China-Canada industrial cooperation. Li said the ministry will step up policy exchanges, leverage each country’s industrial strengths and encourage and support firm-to-firm linkages to expand practical cooperation. Joly said Canada is willing to work with China to create favourable conditions for mutually beneficial industrial cooperation and to advance bilateral ties.
+
+---
+
+### 2026-06-18 18:50:45  #國際
+
+諒解備忘錄：美國將在 30 日內全面解除海上封鎖。
+
+---
+
+### 2026-06-18 18:50:31  #MKT News
+
+【China Middle East envoy Zhai Jun phones Norwegian Foreign Ministry State Secretary Kravik】On June 18, 2026, China’s Middle East special envoy Zhai Jun held a scheduled phone call with Norwegian Foreign Ministry State Secretary Kravik; they exchanged views on the current situation in the Middle East.
 
 ---
 
@@ -21151,95 +21259,5 @@ Le Parisien reported, citing sources, that G7 members and the US will authorize 
 ### 2026-06-17 20:43:32  #MKT News
 
 【Ministry of Water Resources: China to face new round of heavy rainfall from tomorrow】The Ministry of Water Resources said a new round of heavy rainfall begins tomorrow. Significant river rises are expected across multiple basins: Pearl River basin — West River mainstem and tributaries Liujiang, Guijiang and Yujiang; middle–lower Yangtze mainstem and Dongting Lake system — Yuan and Li rivers; Poyang Lake system — Changjiang and Le'an rivers; mid–lower Han River and four rivers in eastern Hubei; upper–middle Huai River mainstem and tributaries Shiguan and Pi rivers; plus Taihu and the Qiantang River. Some small and medium rivers within the heavy-rain areas may experience floods exceeding warning levels.
-
----
-
-### 2026-06-17 20:43:24  #公司 #國際
-
-【特朗普稱美國不會投資伊朗】當地時間6月17日，美國總統特朗普在七國集團（G7）峰會期間接受記者採訪，談及尚未公佈的美伊協議進展時，特朗普表示，目前與伊朗達成的諒解備忘錄尚未最終完成。他同時警告稱，如果對協議執行情況不滿意，或者伊朗方面“行為不當”，美國將恢復對伊朗的軍事打擊。特朗普說，“如果我不喜歡，如果他們表現不好，我們將重新開始投放炸彈。”（央視新聞）
-
----
-
-### 2026-06-17 20:43:02  #其他
-
-【水利部：我國將迎來新一輪強降雨過程】記者從水利部瞭解到，明天起我國將迎來新一輪強降雨過程。受其影響，珠江流域西江干流及支流柳江、桂江、鬱江，長江中下游幹流及洞庭湖水系沅江澧水、鄱陽湖水系昌江樂安河、漢江中下游及鄂東四水，淮河上中游幹流及支流史灌河、淠河，太湖及錢塘江等河流將出現明顯漲水過程，暴雨區內部分中小河流可能發生超警以上洪水。（央視新聞）
-
----
-
-### 2026-06-17 20:42:41  #國際
-
-以色列媒體：在美軍撤離以色列本-古裡安機場後，1號航站樓將於2026年6月28日開放國內航班服務，並於2026年7月1日開放國際航班服務。
-
----
-
-### 2026-06-17 20:42:37  #國際
-
-埃及出口委員會：1月至4月化肥出口額達11億美元。
-
----
-
-### 2026-06-17 20:42:05  #MKT News #Market Regions #Greater China
-
-【Muxi 10,000-GPU cluster to be built in Shanghai Lingang】Multiple sources say Shanghai Lingang will host a Muxi 10,000-GPU cluster. The project remains in progress; the final configuration — Xiyun C550 or the newer Xiyun C600 — has not been decided.
-
----
-
-### 2026-06-17 20:42:04  #其他
-
-【聯合國報告：全球漁業和水產養殖產量創歷史新高】聯合國糧食及農業組織16日釋出報告說，全球漁業和水產養殖產量2024年創歷史新高，但該行業仍面臨可持續發展等挑戰。 這份名為《2026年世界漁業和水產養殖狀況》的報告估算，2024年全球漁業和水產養殖產量達到創紀錄的2.35億噸，其中水生動物產量為1.95億噸。 報告預測，全球水生動物的產量、消費量及貿易量將保持增長態勢，到2034年全球水生動物總產量將增至2.14億噸。 報告說，水生動物在人類膳食結構中的地位日益突出，全球約31億人攝入的動物蛋白至少五分之一來自水生動物，相關產業支撐著超過6億人的生計。 報告同時指出，該行業發展成果分配並不均衡，如2023年亞洲人均水生動物食品供給量達到26.3千克，而非洲僅為9.1千克。氣候變化、環境退化、經濟衝擊和地緣政治變化等因素也正對行業可持續發展構成挑戰。 聯合國糧農組織總幹事屈冬玉在報告前言中指出，健康的地球比以往任何時候都更需要健康的海洋和內陸水域，各方必須共同努力扭轉可持續性下降趨勢，確保漁業和水產養殖行業長期發展，造福子孫後代。(新華社)
-
----
-
-### 2026-06-17 20:42:04  #MKT News
-
-Egyptian Export Council: fertilizer export value January–April totaled $1.1 bln.
-
----
-
-### 2026-06-17 20:42:01  #公司
-
-【新築股份：重組申請獲深交所受理，擬收購四川蜀道清潔能源集團60%股權】新築股份公告，公司擬向四川蜀道軌道交通集團出售四川發展磁浮科技100%股權及相關債權和資產，向四川路橋建設集團出售成都市新築交通科技100%股權及相關資產和負債；同時擬向蜀道投資集團發行股份及支付現金購買四川蜀道清潔能源集團60%股權並募集配套資金。2026年6月17日，公司收到深交所通知，本次交易申請檔案經核對齊備，已獲正式受理。本次交易尚需經深交所稽核透過並經證監會註冊後方可實施，最終結果存在不確定性。
-
----
-
-### 2026-06-17 20:41:27  #國際
-
-Telegram向印度法院表示，印度政府對該應用的封鎖“嚴重失當”，此舉導致這個擁有超1.5億使用者的平臺被“全面停運”。
-
----
-
-### 2026-06-17 20:41:24  #MKT News
-
-Israeli media reported that, following the withdrawal of U.S. forces from Ben Gurion Airport, Terminal 1 will reopen for domestic flights on 28 June 2026 and for international flights on 1 July 2026.
-
----
-
-### 2026-06-17 20:40:34  #央行 #市場
-
-【世界黃金協會：黃金成全球最大官方儲備資產 未來12個月內#全球央行將繼續增加黃金儲備】世界黃金協會16日釋出2026年全球央行黃金儲備調研報告，89%的受訪央行預計，未來12個月內全球央行將繼續增加黃金儲備。同時，計劃增持黃金央行的佔比創新高。報告提到，黃金近期已超越美債成為全球最大的官方儲備資產，同時各國央行的儲備配置規劃體現出對黃金的高度青睞。此外，83%的受訪央行認為，五年後黃金在各國總儲備中的佔比將進一步提升，這一比例也較去年的76%明顯提高。報告認為，綜合各項調研資料後可以得出結論，黃金在各央行儲備資產組合中的戰略地位持續提升。（央視財經）
-
----
-
-### 2026-06-17 20:40:24  #Trading Economics #Economy #Canada #House Price Index MoM #Importance 1
-
-Canada New Housing Prices Down 0.3% — New housing prices in Canada fell 0.3% month-on-month in May 2026, after a 0.4% decrease in April and below expectations of a 0.1% decline. House-only prices fell 0.4%, easing from a 0.6% decline in the previous month, while land-only prices fell 0.3%, accelerating from a 0.1% decline. On an annual basis, new housing prices fell 2.4% in May, up from a 2.3% decline in the prior month.
-
----
-
-### 2026-06-17 20:40:15  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #Impact bearish
-
-【U.S. May retail sales beat estimates; tax refunds and stock gains support spending】U.S. May retail sales rose 0.9% MoM vs. 0.5% expected, the Commerce Department’s Census Bureau said, a print that may lose momentum as the boost from large tax refunds fades. Part of May’s gain reflected higher gasoline receipts after prices earlier spiked to a four-year high amid the Iran war; gasoline has since retreated and the national average this week fell below $4/gal for the first time since April. Core retail sales—excluding autos, gasoline, building materials and restaurants—rose 0.7% in May (April +0.5%), the series that most closely maps to GDP consumer spending. Tax refunds and a stronger stock market have jointly supported outlays, but the increase has been partly financed by lower savings: the household saving rate fell to a four-year low in April. Tax season has ended and much refund funding has been spent. PNC Financial economists say internal data show households are depleting refund balances faster than in prior years, with higher gasoline spending the main driver.
-
----
-
-### 2026-06-17 20:40:06  #其他
-
-標普表示，油價高企帶來的成本壓力或將持續至明年夏季。
-
----
-
-### 2026-06-17 20:38:30  #公司
-
-【僑銀股份：實控人及其一致行動人擬合計減持不超3%股份】僑銀股份(002973)6月17日公告，公司控股股東、實控人之一郭倍華計劃以集中競價及大宗交易方式，減持公司股份不超過817.33萬股（不超過公司目前總股本的2%）；實控人及控股股東之一致行動人安義瓏欣企業管理合夥企業（有限合夥）計劃以集中競價及大宗交易方式減持公司股份不超過408.67萬股（不超過公司目前總股本的1%）。
 
 ---
