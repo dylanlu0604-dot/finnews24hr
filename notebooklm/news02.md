@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-20 20:49:32_
-_本檔包含 3535 則快訊，約 651371 字_
+_更新時間：2026-06-20 21:49:48_
+_本檔包含 3525 則快訊，約 651049 字_
+
+---
+
+### 2026-06-18 18:26:25  #MKT News #Market Regions #Greater China
+
+【Anhui unveils low-altitude economy plan; targets 5.0 mln annual flight hours by 2028】Anhui provincial government office issued a Low-Altitude+ Application Scenario Expansion Action Plan (2026–2028). Targets include annual low-altitude flight hours of 5.0 mln by 2028, more than 300 low-altitude operations firms, and 100 completed demonstration application sites. The plan aims to build a development model that is safe, commercially sustainable and publicly acceptable.
+
+---
+
+### 2026-06-18 18:26:16  #MKT News
+
+European Commission President Von der Leyen proposed limiting entry of Ukrainian refugees into the EU.
+
+---
+
+### 2026-06-18 18:26:05  #公司
+
+【波長光電：董事長因涉案被取保候審 公司經營暫不受影響】波長光電公告稱，6月18日公司從董事長黃勝弟處獲悉，上海海關緝私局於6月17日決定對其取保候審。黃勝弟為公司實控人之一，未直接持股，與控股股東朱敏系夫妻，目前能正常履職。該涉案事項與公司部分產品偽報貨物材質出口有關，此類業務佔營收比例有限，不影響公司持續經營，暫無法判斷對財務報表具體影響。公司將配合調查並及時披露進展。
+
+---
+
+### 2026-06-18 18:25:55  #公司
+
+【致歐科技：控股股東自願延長部分限售股鎖定期6個月】致歐科技公告稱，公司控股股東宋川基於對公司未來發展前景的信心和對公司價值的高度認可，自願延長部分首發前限售股鎖定期6個月。宋川持有有限售條件股份2.01億股，佔總股本比例50.01%，其中1.98億股限售期從2023年6月21日至2026年12月20日，330.77萬股限售期至2026年6月20日。
+
+---
+
+### 2026-06-18 18:25:48  #其他
+
+土耳其航空將於 7 月 1 日起恢復阿布扎比航線。
+
+---
+
+### 2026-06-18 18:25:25  #市場
+
+【四川：對符合條件的裝置更新貸款按規定安排超長期特別國債資金額外貼息】四川省發展和改革委員會印發《四川省支援綠色低碳發展若干政策措施》。其中提出，支援裝置更新貸款貼息。對符合條件的裝置更新貸款，在中央財政1.5個百分點貼息基礎上，按規定安排超長期特別國債資金額外貼息。對符合條件的“技改貸”“裝置更新貸”貸款，按年利率1.5%給予不超過1年的省級財政貼息，單個企業實施的多個技術改造或裝置更新貸款可歸併後集中申報，單個企業每年獲得省級財政貼息額度最高不超過500萬元。推動銀行主動申領貼息資金，並及時向企業發放，降低企業裝置更新融資成本。
+
+---
+
+### 2026-06-18 18:25:21  #其他
+
+【四川：引導金融機構為轉型融資主體提供多元化金融服務和政策支援】四川省發展和改革委員會印發《四川省支援綠色低碳發展若干政策措施》。其中提出，引導金融機構推出綠色低碳轉型金融產品和服務。聚焦鋼鐵、煤電、建材、陶瓷、紡織、石化、化工、鋁、水上運輸、農業等10個行業，為轉型融資主體提供多元化金融服務和政策支援。鼓勵有條件的市（州）擴大綠色金融財金互動政策覆蓋範圍，對轉型金融活動給予財政貼息支援。將金融機構轉型金融開展情況納入人民銀行綠色金融評估。
+
+---
+
+### 2026-06-18 18:25:01  #MKT News #Market Regions #Greater China
+
+【Sichuan to top up central 1.5pp subsidy with ultra-long special sovereign bond funds for qualifying equipment-upgrade loans】Sichuan Development and Reform Commission issued measures to support green, low‑carbon development, including interest subsidies for equipment-upgrade loans. Qualifying equipment-upgrade loans will receive an additional interest subsidy funded by ultra-long special sovereign bond proceeds on top of the central government's 1.5 percentage-point fiscal subsidy. For eligible technical-transformation and equipment-upgrade loans, Sichuan will provide a provincial subsidy at an annual rate of 1.5% for up to one year; multiple loans by a single enterprise may be consolidated for application and the provincial subsidy is capped at 5 mln yuan per firm per year. Banks are urged to proactively obtain subsidy funds and disburse them promptly to lower firms' financing costs.
+
+---
+
+### 2026-06-18 18:24:59  #宏觀
+
+【安徽出臺低空經濟重要方案：2028年度低空飛行時長達500萬小時】6月17日，安徽省人民政府辦公廳正式印發《安徽省“低空+”應用場景拓展工程行動方案（2026—2028年）》（下稱“方案”），明確全省低空經濟三年工作目標、重點任務與推進舉措。根據方案規劃，到2028年，安徽省年度低空飛行時長達到500萬小時，集聚低空運營類企業超300家，累計建成低空應用示範場景100個，形成安全有保障、商業可持續、群眾易接受的發展模式。此外，方案還提出支援電動垂直起降航空器（eVTOL）企業加強驗證飛行與技術積累，在確保安全的前提下，有序推進載客運營。到2028年，力爭形成1至2條eVTOL商業化載客運營航線；力爭安徽省低空旅遊年參與人次達到3萬。
+
+---
+
+### 2026-06-18 18:24:52  #公司
+
+【大連聖亞：擬與上海潼程簽署附條件生效的股份認購補充協議】大連聖亞公告稱，鑑於2025年度向特定物件發行股票定價基準日、發行價格、發行數量進行了調整，公司擬與上海潼程簽署《補充協議》，就發行方案調整事項對《股份認購協議》部分條款進行調整。上海潼程未持有公司股份，但擁有10.01%股份表決權，為公司關聯人。本次發行的股份發行數量不超3864萬股，認購金額不超9.56億元。本次發行尚需上交所稽核透過及中國證監會同意註冊。
+
+---
+
+### 2026-06-18 18:24:25  #MKT News #Market Regions #Greater China
+
+【Sichuan to guide financial institutions to support green transition financing】Sichuan Provincial Development and Reform Commission issued policy measures to support green, low‑carbon development, directing financial institutions to launch green transition financing products and services. The measures target transition borrowers in 10 sectors — steel, coal power, building materials, ceramics, textiles, petrochemicals, chemicals, aluminium, inland water transport and agriculture — with diversified financial services and policy support. Municipalities are encouraged to widen green finance–fiscal interaction and may provide fiscal interest subsidies for transition finance where conditions allow. The province will include financial institutions’ transition financing activity in PBOC green finance assessments.
+
+---
+
+### 2026-06-18 18:24:15  #公司
+
+【*ST新研：將參加2026年新疆轄區上市公司投資者網上集體接待日活動】*ST新研公告稱，公司將參加由新疆上市公司協會聯合深圳市全景網路有限公司舉辦的“2026年新疆轄區上市公司投資者網上集體接待日活動”。活動採用網路遠端方式，於2026年6月26日15:00 - 17:30舉行。投資者可登入“全景路演”網站、關注微信公眾號“全景財經”或下載全景路演APP參與。屆時公司高管將線上與投資者就公司經營業績等問題進行溝通交流。
+
+---
+
+### 2026-06-18 18:24:02  #公司 #觀點
+
+【高盛：霍爾木茲海峽原油流量或僅能恢復至戰前七成水平】美東時間週四，高盛集團在報告中指出，未來霍爾木茲海峽的原油透過流量可能僅能恢復至戰前約70%的水平，並形成新的平衡狀態。高盛預計，到下個月底，霍爾木茲海峽的航運量將逐步恢復，而海灣產油國的石油產量將在10月恢復正常。但是，這並不意味著霍爾木茲海峽的石油流量能夠完全恢復。
+
+---
+
+### 2026-06-18 18:23:51  #其他
+
+【北京釋出雙預警 山區有發生崩塌等地質災害的風險】北京市水務局與市氣象局6月18日16時30分聯合釋出積水內澇風險藍色預警：預計19日14時至20日2時，朝陽區、豐臺區、大興區存在積水內澇一般風險。請廣大市民關注天氣形勢及雨水情變化，出行儘量避開低窪處，同時做好地下空間防護工作。北京市規劃自然資源委聯合市氣象局釋出地質災害氣象風險預警：6月18日16時30分至6月20日16時30分，北京市山區有發生崩塌、滑坡等地質災害的風險（藍色預警），請注意防範。（央視新聞）
+
+---
+
+### 2026-06-18 18:23:46  #公司
+
+【永福股份：控股股東部分股份解除質押及質押展期】永福股份公告稱，近日，控股股東恆誠投資將360,000股股份解除質押，佔其所持股份比例1.08%，佔公司總股本比例0.19%；將3,320,000股股份辦理質押展期，佔其所持股份比例9.97%，佔公司總股本比例1.77%，展期後質押到期日為2027年6月18日。截至公告披露日，控股股東及其一致行動人合計持股佔總股本42.64%，累計質押股份佔總股本19.71%，不存在被凍結、拍賣等情況，也無平倉風險。
+
+---
+
+### 2026-06-18 18:23:28  #MKT News #Commodities #Energy
+
+【Sichuan to subsidize clean-coal projects; up to 30% of investment, capped at 20 mln yuan】The Sichuan Development and Reform Commission issued green low-carbon support measures that include incentives for clean-coal utilization. Eligible projects cover efficient clean-coal use; coalbed methane (mine gas) large-scale extraction and use; ultra-low-concentration gas (<8%) utilization; waste-heat and pressure recovery; coal-based clean fuels and high-end materials industrialization; large-scale mining-area solid-waste resource recovery with near-zero emissions; and mining-area smart energy management coupled with new energy. Provincial basic-construction budget funds will subsidize qualifying projects up to 30% of total investment, with a maximum subsidy of 20 million yuan per project.
+
+---
+
+### 2026-06-18 18:23:23  #其他
+
+【四川：支援重點行業企業實施節能降碳改造升級，單個專案補助資金最高不超過2000萬元】四川省發展和改革委員會印發《四川省支援綠色低碳發展若干政策措施》。其中提出，實施節能降碳增效改造激勵。支援重點行業企業實施節能降碳改造升級，重點用能單位和園區能源梯級利用、能量系統最佳化等綜合能效提升，園區集中供熱、熱電聯產清潔生產改造，省級預算內基本建設投資對符合條件的專案按照不超過單個專案總投資的15%給予補助，單個專案補助資金最高不超過2000萬元。
+
+---
+
+### 2026-06-18 18:23:16  #其他
+
+亞塞拜然 1 至 5 月石油產量同比下降 3.3%。
+
+---
+
+### 2026-06-18 18:23:06  #MKT News #Market Regions #Greater China
+
+【Sichuan to subsidize energy‑saving, carbon‑reduction retrofits for key industries; max subsidy 20 mln yuan per project】Sichuan Development and Reform Commission issued measures to support green, low‑carbon development, offering incentives for energy‑saving and carbon‑reduction efficiency upgrades. Support targets key industry firms, major energy users and industrial parks for measures including cascade energy use, energy‑system optimization, park centralized heating and cleaner combined heat-and-power (CHP) retrofits. Provincial budgeted basic‑construction funds will subsidize eligible projects up to 15% of total project investment, capped at 20 mln yuan per project.
+
+---
+
+### 2026-06-18 18:22:07  #Trading Economics #Economy #Switzerland #Government Bond 10Y #Importance 1
+
+Swiss 10-Year Yield Falls to Over 3-Month Low — Switzerland’s 10-year yield declined to below 0.31%, its lowest level since early March, as investors reacted to the Swiss National Bank’s decision to keep its policy rate at 0% and reaffirm its readiness to intervene in foreign exchange markets. The decision came even as geopolitical tensions linked to Iran have eased following a recent peace agreement, highlighting the SNB’s continued cautious stance. President Martin Schlegel reiterated that the central bank is prepared to sell Swiss francs if necessary to prevent rapid or excessive appreciation that could undermine price stability. Policymakers continue to point to subdued inflation, which remains within the 0–2% target range, as well as limited upward pressure in the outlook. The SNB held rates steady for a fourth consecutive meeting, signaling no immediate need to tighten policy. Inflation is expected to rise only modestly in the coming years, while growth is forecast at around 1% this year.
+
+---
+
+### 2026-06-18 18:21:45  #公司
+
+【ST豆神：仲裁案被北京立思辰計算機提1.48億元反請求】ST豆神公告稱，公司此前就4家公司未償還的2.08億元款項向北京仲裁委員會申請仲裁。近日，北京立思辰計算機技術有限公司向北京仲裁委提交仲裁反請求申請，請求確認合計1.48億元應收賬款、利息記載及相關協議、決議無效。公司表示，該筆應收賬款本金已全額計提壞賬，預計對本期或期後利潤影響較小，將根據案件進展及時披露並維護公司及股東權益。
+
+---
+
+### 2026-06-18 18:21:39  #公司
+
+【坤彩科技：控股股東擬減持不超3%公司股份】坤彩科技公告稱，控股股東、實控人謝秉昆因個人資金需求，計劃自公告披露之日起15個交易日後的三個月內（即2026年7月13日至10月12日）減持。擬透過集中競價減持不超655.2萬股（佔總股本1%），大宗交易減持不超1310.4萬股（佔總股本2%），合計不超1965.6萬股（佔總股本3%）。減持計劃存在不確定性，不會對公司治理結構、持續經營產生重大影響。
+
+---
+
+### 2026-06-18 18:21:29  #公司
+
+【石藥創新：司庫奇尤單抗注射液上市申請獲得受理】石藥創新公告，控股子公司石藥集團巨石生物製藥有限公司於近日收到國家藥品監督管理局核准簽發的《受理通知書》，司庫奇尤單抗注射液的上市申請獲得受理。
+
+---
+
+### 2026-06-18 18:21:17  #MKT News #Market Regions #Wall Street (US) #JPM.O #C.O
+
+The US Department of Justice is investigating how Iran’s supreme leader Mojtaba built a substantial global investment portfolio that involved Wall Street banks. Investigators have begun probing whether US financial institutions, including JP Morgan and Citigroup, participated in large transfers of funds between companies overseen by Mojtaba.
+
+---
+
+### 2026-06-18 18:20:22  #公司
+
+【聚光科技：控股股東辦理質押回購及部分解除質押業務】聚光科技公告稱，控股股東普渡科技近日辦理股票質押回購業務，分別於6月16日、17日質押1300萬股、900萬股，佔其所持股份比例分別為25.09%、17.37%，用於歸還融資；6月17日部分解除質押2200萬股，佔其所持股份比例42.45%。截至6月17日，控股股東及其一致行動人累計質押股份8420.6萬股，佔總股本18.77%。此外，睿洋科技名下992.36萬股將於7月9 - 10日司法拍賣，若成交過戶，其及一致行動人合計持股比例將由24.13%降至21.92%，不會導致控制權變更。
+
+---
+
+### 2026-06-18 18:20:00  #國際
+
+市場訊息：美國銀行因司法部調查伊朗最高領袖資金流動而面臨審查。
+
+---
+
+### 2026-06-18 18:19:36  #MKT News
+
+Italian 2-year government bond yield rose 6 bps to 2.8221%.
+
+---
+
+### 2026-06-18 18:19:30  #市場
+
+義大利兩年期國債收益率目前上漲6個基點，最新報2.8221%。
 
 ---
 
@@ -21166,233 +21334,5 @@ STELLANTIS執行長：我們將繼續在義大利進行重大投資。
 ### 2026-06-17 20:06:47  #公司
 
 【尹弘在南昌調研服務業發展工作】6月17日，江西省委書記尹弘在南昌調研服務業發展工作。他強調，要深入學習貫徹習近平總書記關於服務業發展的重要指示精神，全面落實全國服務業大會部署要求，深入實施服務業擴能提質行動，加快推動服務業優質高效發展，為奮力譜寫中國式現代化江西篇章提供有力支撐。青葵智造（南昌）科技有限公司是深耕智慧製造與工業軟體領域的生產性服務業企業。尹弘聽取企業發展介紹，瞭解核心技術優勢和科技服務情況。在企業展廳，尹弘觀摩工業模擬場景、雲實驗室等演示，瞭解機器人賦能工業生產和科研創新情況，鼓勵企業加快服務業數智化發展，聚焦人工智慧與工業模擬等前沿技術，推動智慧化軟體和裝置在研發、生產、流通等環節深度應用，持續完善生產全鏈條科技服務供給，促進現代服務業與先進製造業深度融合，更好助力我省產業轉型升級。（江西釋出）
-
----
-
-### 2026-06-17 20:06:35  #國際
-
-【歐洲理事會主席據悉謀求推動俄烏和談】據知情人士透露，歐洲理事會主席安東尼奧·科斯塔已與克里姆林宮取得聯絡，試圖推動俄羅斯總統普京就結束俄烏衝突展開討論。知情人士表示，科斯塔的首席顧問已與一名接近普京的俄羅斯高階官員進行了兩次通話，目的是為未來開展更具實質性的談判鋪平道路。科斯塔上個月表示：“我們需要在適當的時候與俄羅斯展開對話，以處理雙方共同面臨的安全問題。”歐洲三大經濟體德國、法國和英國也分別討論了與烏克蘭總統澤連斯基協調、推動普京參與和平談判的策略。歐洲官員認為，當前俄羅斯軍隊在戰場推進困難、烏克蘭加大對俄羅斯境內打擊力度、戰爭經濟成本不斷上升，為促使普京坐到談判桌前創造了機會。一位歐洲高階官員表示，隨著戰爭進入新階段，歐洲高階官員正努力協調各自立場，併為未來與克里姆林宮溝通增多的時刻做準備。
-
----
-
-### 2026-06-17 20:06:18  #公司
-
-【愛司凱：擬向控股股東定增募資1億元至1.65億元】愛司凱(300521)6月17日公告調整2025年度向特定物件發行A股股票方案，調整後，公司擬向公司控股股東愛數特，發行股票募資不低於1億元且不超過1.65億元，用於補充流動資金。
-
----
-
-### 2026-06-17 20:06:02  #公司
-
-【靳磊會見中國建築集團董事長鄭學選】6月17日，深圳市委書記靳磊會見中國建築集團有限公司黨組書記、董事長鄭學選一行。靳磊感謝中建集團長期以來對深圳發展的大力支援和重要貢獻。他表示，深圳正加快建設中國特色社會主義先行示範區，建立社會主義現代化強國的城市範例，奮力推動“十五五”開好局、起好步。深圳經濟執行保持向好向新向優態勢，中建集團實力雄厚、優勢突出，雙方合作基礎堅實、前景廣闊。希望進一步加強深度對接，深化城市更新、“六張網”建設、新質生產力發展、全球市場開拓等領域務實合作，實現互利共贏。深圳將全方位做好服務保障。（深圳釋出）
-
----
-
-### 2026-06-17 20:05:19  #國際
-
-【中聯部副部長金鑫：以“文明和合”促進“全球善治” 】中共中央對外聯絡部副部長金鑫6月17日在國新辦新聞釋出會上表示，文明交流是凝聚共識、增進互信的橋樑與紐帶，對於構建更加公正合理的全球治理體系至關重要。中方將著力推進全球治理倡議和全球文明倡議協同落地，透過文明對話汲取應對全球挑戰的智慧，以“文明和合”促進“全球善治”。（新華社）
-
----
-
-### 2026-06-17 20:04:59  #其他
-
-【我國將全面建立房屋建築統一程式碼制度】記者17日從住房城鄉建設部瞭解到，到2027年底，我國將實現新建房屋建築統一程式碼賦碼落圖全覆蓋，基本實現房屋建築設計、施工、驗收、交易、運維、更新改造等全生命週期“一碼貫通”，推動房屋建築統一程式碼在城市更新、社群治理、公共服務等領域廣泛應用。住房城鄉建設部、國家資料局近日印發《關於全面建立房屋建築統一程式碼制度的通知》，要求建立實施房屋建築統一程式碼制度，賦予房屋建築唯一的身份標識，推進房屋建築全生命週期數字化管理，不斷提升城市治理智慧化精細化水平。（新華社）
-
----
-
-### 2026-06-17 20:04:49  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-【European Council president Costa reportedly seeks Kremlin contact to push Russia-Ukraine talks】European Council President Antonio Costa has opened contacts with the Kremlin to press President Putin to discuss ending the Russia-Ukraine conflict, people familiar with the matter said. Costa's chief adviser held two calls with a senior Russian official close to Putin to lay groundwork for future substantive talks. Costa said last month that at an appropriate time Europe needs dialogue with Russia to address shared security issues. Germany, France and the UK have separately discussed coordinating with Ukrainian President Zelenskiy to encourage Putin to enter peace negotiations. European officials said Russia's stalled battlefield advances, intensified Ukrainian strikes into Russian territory and rising war-related economic costs may create an opening. A senior EU official said as the conflict enters a new phase, European capitals are aligning positions and preparing for increased communication with the Kremlin.
-
----
-
-### 2026-06-17 20:04:38  #公司
-
-斯特蘭蒂斯執行長：瑪莎拉蒂將成為我們全球戰略的一部分。
-
----
-
-### 2026-06-17 20:04:21  #市場 #央行 #國際
-
-【沃什講話在即，金價幾乎持平】美聯儲主席沃什將於週三晚些時候發表首次公開演講，在此之前，黃金期貨基本持平。盛寶銀行分析師表示：“交易員將密切關注沃什的言論，以獲取有關通脹前景的指引，以及決策者如何在依然高企的價格壓力與經濟增長放緩跡象及勞動力市場逐漸疲軟之間取得平衡的線索。“紐約黃金期貨在後市交易中下跌0.1%，至每盎司4,348.20美元，但本週仍上漲1.5%，這得益於油價大幅下跌以及通脹和加息擔憂的緩解。
-
----
-
-### 2026-06-17 20:03:58  #公司
-
-【智慧+綠色 首艘平陸運河智慧船舶示範船今天試航】今天，在廣西貴港建造的首艘5000噸級平陸運河智慧船舶示範船“北港運河002”試航，標誌著平陸運河智慧船舶正式從建造階段邁向運營應用階段。平陸運河首艘智慧船舶示範船“北港運河002”在鬱江貴港航段試航。試航時間持續約6小時，主要進行主機平穩執行、操舵、航行效能以及航向穩定性等試驗。廣西西江重工有限責任公司生產主管 楊志剛：耗時最長為主機平穩運轉試驗，以檢查主機及直接為主機服務的輔助裝置的安裝質量。所有的試航試驗專案都是為了測試這艘智慧船舶示範船是否達到設計要求。（央視新聞）
-
----
-
-### 2026-06-17 20:03:29  #央行 #國際
-
-【分析師：從顧問人選到通脹指標，沃什或在首次釋出會上亮出美聯儲改革底牌】據美國媒體記者Bryan Mena，雖然沃什無法憑一己之力實現特朗普要求的降息，但他已經明確表示，美聯儲不會再一切照舊。沃什已聘請了兩名保守派政策資深人士擔任美聯儲的臨時顧問。其中一位是保羅·溫弗裡，另一人是丹尼爾·海爾。此外，沃什曾表示美聯儲內部有“大量冗餘人員”，暗示他可能對美聯儲約3000名駐華盛頓員工進行大換血。鮑威爾去年已開始啟動裁員程式，以配合聯邦政府層面的類似行動。沃什還建議美聯儲官員以不同方式看待通脹，即關注另一種通脹衡量指標“截尾均值”。在4月份的確認聽證會上，沃什表示，這些指標捕捉的是“潛在通脹率是多少，而不是因為地緣政治變化或牛肉價格變化而導致的一次性價格變動。”隨著新顧問就位，有關“體制變革”的討論已在進行中，沃什的新聞釋出會勢必將首次清晰釋放訊號，表明沃什打算在重塑美聯儲這條路上走多遠。
-
----
-
-### 2026-06-17 20:02:48  #公司
-
-【焦點科技：部分董高減持計劃期限屆滿 未減持公司股份】焦點科技公告稱，公司於2026年2月13日披露部分董高減持計劃，董事兼董秘遲夢潔、財務總監顧軍、高階副總裁成俊傑，原計劃3月17日至6月16日分別減持不超42,187股（佔比0.0133%）、56,250股（佔比0.0177%）、45,323股（佔比0.0143%）。截至6月18日，減持期限屆滿，三人未減持公司股份，持股比例未變，持股數量增加系公司4月23日實施權益分派，每10股轉增3股所致。
-
----
-
-### 2026-06-17 20:02:36  #央行 #公司 #國際
-
-【分析：投資者或轉變預期，反映英國基準利率下調預期】Jefferies的Modupe Adegbembo在一份報告中表示，如果中東緊張局勢繼續緩解且能源價格保持穩定，市場可能會重新預期英國央行將降息。英國5月通脹資料弱於預期，降低了未來幾個月加息的必要性。倫敦證券交易所集團資料顯示，投資者目前反映了2026年總計26個基點的英國基準利率上調預期，略低於資料釋出前反映的28個基點的加息預期。
-
----
-
-### 2026-06-17 20:01:43  #市場
-
-波羅的海乾散貨指數下跌0.64%，至2653點。
-
----
-
-### 2026-06-17 20:01:43  #MKT News
-
-Baltic Dry Index fell 0.64% to 2,653.
-
----
-
-### 2026-06-17 20:01:20  #其他
-
-【餘依婷200混破亞洲紀錄】2026全國游泳冠軍賽，餘依婷2分06秒82重新整理200米女子個人混合泳亞洲紀錄。（日月譚天）
-
----
-
-### 2026-06-17 20:00:45  #其他
-
-巴西4月份經濟活動同比增長0.92%；預期為增長1.50%。
-
----
-
-### 2026-06-17 20:00:45  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D fell 0.15% in early evening trade on June 17 (Wed) to 939.8 yuan/gram; silver T+D dropped 0.54% to 16,690 yuan/kg.
-
----
-
-### 2026-06-17 20:00:41  #市場 #央行 #國際
-
-【美聯儲新主席沃什首秀前夕 美元小幅走高】週三，在美聯儲新任主席凱文・沃什主持首次貨幣政策決議前夕，美元兌多數主要貨幣小幅走高。隨著投資者適應全新的政策制定與溝通風格，本次議息會議或將引發市場波動。 歐元日內下跌0.16%，報1歐元兌1.1591美元；英鎊下跌0.15%，報1英鎊兌1.340美元。美國總統特朗普表態稱，美伊之間簽署的諒解備忘錄並非最終協議，若美方對協議內容不滿意，或將重啟轟炸行動，避險買盤小幅提振美元走勢。 不過當日市場重頭戲仍待上演——美聯儲議息會議尚未落地，投資者因此不願大舉建倉。 市場普遍預計，沃什首次主持的議息會議將維持現有利率不變。但市場將仔細研讀本次政策宣告、經濟預測資料以及新聞釋出會內容，從中捕捉美聯儲是否會放棄寬鬆政策傾向的訊號，當前官員對通脹風險的態度已愈發偏向鷹派。 荷蘭合作銀行外匯策略主管Jane Foley表示：“本月多家央行相繼召開議息會議，但本次美聯儲會議的關注度遠超所有其他央行。”
-
----
-
-### 2026-06-17 20:00:39  #公司
-
-市場訊息：Anthropic、谷歌及其他科技公司承諾投資9.15億美元以清除空氣中的碳。
-
----
-
-### 2026-06-17 20:00:38  #MKT News
-
-Wall Street Journal reports ANTHROPIC, Google and other tech firms have pledged $915m to fund atmospheric carbon removal.
-
----
-
-### 2026-06-17 20:00:20  #其他
-
-【高溫來襲 巴黎提前開放運河消暑泳區】法國本週將再次迎來高溫天氣，巴黎市政府決定從17日晚起提前開放市內一處運河水域，供民眾游泳消暑。17日，法國部分地區最高氣溫預計達到36至37攝氏度；到21日，一些地區最高氣溫可能升至40攝氏度。（新華社）
-
----
-
-### 2026-06-17 19:59:30  #國際
-
-德國總理默茨表示：特朗普與伊朗領導層達成的協議堪稱一項重大成果。如今我們已經能看到成效，例如油價持續走低。這是積極訊號，原油供應渠道顯然正逐步有序恢復。達成此項協議後，各方需接續開展後續談判，尤其是第二輪會談。
-
----
-
-### 2026-06-17 19:58:37  #國際
-
-【報道稱美伊協議3000億美元基金已獲過半資金承諾】據報道，一位直接瞭解協議內容的訊息人士透露，美伊框架協議中提出設立一個規模3000億美元的私人基金，以推動對伊朗的投資，目前已有超過一半資金獲得承諾。報道稱，該基金將完全來自私營部門。訊息人士稱，新基金是一種私人投資工具，而非重建或戰爭賠償計劃，也不包含任何政府資金或贈款。總部位於美國、海灣阿拉伯國家、亞洲、南美和非洲的企業已同意提供融資承諾。承諾投資領域涵蓋能源、物流、製造業和交通運輸。特朗普週三反駁了任何將該基金描述為美國投資的說法。“我們不會投資，一毛錢都不會出。”他說，並補充稱自己也沒有要求海灣國家投資。萬斯此前表示，如果伊朗遵守協議，就有可能獲得由海灣國家支援的3000億美元重建基金。另一位伊朗高階訊息人士表示，德黑蘭最初曾要求美國賠償4000億美元戰爭損失，但華盛頓表示不會提供這筆賠償。隨後便出現了設立這一基金的構想。該基金將被命名為“重建與發展基金”。
-
----
-
-### 2026-06-17 19:58:19  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Analyst: Adviser hires and inflation metric suggest Wash may unveil Fed reform agenda at first press conference】According to CNN’s Bryan Mena, Wash cannot single-handedly deliver Trump-requested rate cuts but has signaled the Fed will not remain business-as-usual. He has hired two conservative policy veterans as interim advisers — Paul Winfree and Daniel Hale — and said the Fed has a “large number of redundant” Washington staff, implying a potential overhaul of roughly 3,000 employees. Powell began staff reductions last year to align with broader federal cuts. Wash has urged officials to focus more on trimmed-mean inflation measures that capture underlying inflation rather than one-off price moves. With advisers in place, institutional reform discussions are underway; Wash’s upcoming first press conference is likely to be the first clear signal of how far he will seek to reshape the Fed.
-
----
-
-### 2026-06-17 19:58:07  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #DXY #Impact mixed
-
-【Reuters: Over half of $300bln private fund for Iran under US-Iran framework has commitments】Reuters, citing a person directly familiar with the deal, reports the proposed $300bln private Reconstruction and Development Fund tied to the US-Iran framework has secured commitments for more than half its capital. The fund would be entirely private with no government funds or grants; firms from the US, Gulf Arab states, Asia, South America and Africa have pledged financing, targeting energy, logistics, manufacturing and transport. A source said the vehicle is an investment instrument, not a reconstruction or war-reparations program; another Iranian source said Tehran initially sought $400bln in war damages, which Washington rejected. Vance had earlier said Iran could access a $300bln Gulf-backed reconstruction fund if it complied; Trump said “We will not invest, not one cent,” and denied pressing Gulf states to invest.
-
----
-
-### 2026-06-17 19:57:04  #公司 #國際
-
-德國總理默茨表示：七國集團所有成員國都將加大對烏克蘭的軍事與資金援助力度。 我們向俄羅斯傳遞的訊號十分明確：七國集團全體成員將進一步對莫斯科施壓，制裁手段亦會加碼。
-
----
-
-### 2026-06-17 19:56:19  #公司
-
-【復星醫藥子公司復宏漢霖HLX43聯合漢斯狀®用於NSCLC新輔助治療II期臨床試驗獲澳大利亞臨床批准】據復星醫藥訊息，6月16日，復星醫藥子公司復宏漢霖宣佈，公司創新型程式性死亡-配體1（PD-L1）抗體偶聯藥物（ADC）注射用HLX43聯合H藥漢斯狀®（斯魯利單抗注射液）用於非小細胞肺癌（NSCLC）新輔助治療的II期臨床試驗（HLX43-NSCLC203），已獲得相關人類研究倫理委員會批准，並透過澳大利亞藥品管理局（Therapeutic Goods Administration，TGA）的臨床試驗備案。
-
----
-
-### 2026-06-17 19:56:12  #MKT News
-
-Market sources: Israeli Defense Forces are currently conducting attacks in southern Lebanon.
-
----
-
-### 2026-06-17 19:56:01  #其他
-
-伯恩斯坦將達美航空目標價從88美元上調至93美元。
-
----
-
-### 2026-06-17 19:56:00  #MKT News
-
-Market sources: G7 leaders held a working lunch with representatives from developing countries and CEOs of global technology firms.
-
----
-
-### 2026-06-17 19:55:30  #市場
-
-布倫特原油日內漲1%，現報79.77美元/桶。
-
----
-
-### 2026-06-17 19:54:48  #國際
-
-以色列報道：以色列國防軍目前正在黎巴嫩南部發動攻擊。
-
----
-
-### 2026-06-17 19:54:27  #公司 #市場
-
-【世名科技：股票交易異常波動 提醒多項投資風險】世名科技公告稱，公司股票交易價格在2026年6月15 - 17日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司、控股股東和實控人不存在應披露而未披露的重大事項。同時，公司提醒多項風險，如遼濱專案產能利用率未達理想水平，2025年世名新材料淨虧損2008.75萬元；光刻膠專案建設週期長，存在研發量產、客戶匯入不及預期等風險；2024年度定增事項未獲深交所受理及證監會批覆，進展存在不確定性。
-
----
-
-### 2026-06-17 19:54:17  #公司 #市場
-
-【麥格米特：股票交易異常波動 不存在應披露未披露事項】麥格米特公告稱，公司股票於2026年6月15日、16日、17日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查並向控股股東等核實，截至公告披露日，公司日常經營正常，外部環境無重大變化，前期披露資訊無需補充更正，不存在應披露而未披露的重大事項，相關方在異常波動期間未買賣公司股票。公司提醒投資者注意交易風險，以指定媒體資訊為準。
-
----
-
-### 2026-06-17 19:53:37  #其他
-
-【復旦大學：五大未來創新中心正式掛牌 驅動未來產業發展路徑】復旦大學訊息，今天，智慧醫療、超越摩爾、智慧水凝膠三家卓越創新中心以及科學智慧、腦機介面、可控核聚變、量子科技、類腦智慧五大未來創新中心正式掛牌。這標誌著復旦大學探索以基礎研究驅動未來產業發展的路徑，正式邁入系統化、功能化的運作新階段。
-
----
-
-### 2026-06-17 19:52:14  #公司
-
-【晶豐明源：股東晶哲瑞詢價轉讓292.85萬股】晶豐明源公告，股東海南晶哲瑞創業投資合夥企業（有限合夥）透過詢價轉讓方式轉讓292.85萬股，轉讓價格為146.55元/股。此次轉讓後，晶哲瑞及其一致行動人持有公司股份比例由25.08%減少至23.68%，權益變動觸及5%的整數倍。本次轉讓不會導致公司控股股東、實際控制人發生變化。
-
----
-
-### 2026-06-17 19:51:23  #MKT News #Market Regions #Europe & UK
-
-Market sources say senior EU officials have contacted Moscow seeking to establish a secret backchannel with Putin.
-
----
-
-### 2026-06-17 19:51:00  #MKT News
-
-【Switzerland says Pakistan, Qatar to attend U.S.-Iran signing; will mobilize up to 2,000 troops】Switzerland said on Wednesday the United States and Iran will sign a temporary peace agreement and a 14-point memorandum of understanding on Friday at a four-party envoys meeting at the Burgenstock resort. Pakistan and Qatar will send representatives. Switzerland said it would mobilize up to 2,000 troops for security and impose airspace restrictions around the event.
 
 ---
