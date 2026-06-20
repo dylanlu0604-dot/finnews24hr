@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-20 15:34:36",
-  "count": 17606,
+  "updated": "2026-06-20 15:38:40",
+  "count": 17608,
   "items": [
+    {
+      "id": "4945721",
+      "time": "2026-06-20 15:37:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【辛巴威下調汽油和柴油價格】辛巴威能源監管機構表示，該國將把汽油價格下調 5%，從每升 2.08 美元降至每升 1.98 美元。柴油價格將從每升 2.09 美元降至 1.99 美元。"
+    },
+    {
+      "id": "mkt:019ee3f4-3567-7dd8-b09d-899fb4736de6",
+      "time": "2026-06-20 15:34:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New quantum sensor could detect gravitational waves and dark matter】A study in Nature reports a new quantum sensor that can effectively cancel background noise limiting measurement precision, enabling searches for previously undetectable weak signals and potentially informing the formation of supermassive black holes. Imperial College London, which led the research, said detecting the universe’s composition and new gravitational-wave sources requires measurements of extremely weak signals. Atom interferometers use interference of atomic matter waves, but the laser pulses required introduce noise that can swamp those signals and prevent meaningful data."
+    },
     {
       "id": "mkt:019ee3e7-9cd3-7dd8-b09d-83ff688cc0f3",
       "time": "2026-06-20 15:21:07",
