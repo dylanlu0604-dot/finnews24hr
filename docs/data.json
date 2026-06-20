@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-20 21:53:55",
-  "count": 17570,
+  "updated": "2026-06-20 21:58:10",
+  "count": 17575,
   "items": [
+    {
+      "id": "mkt:019ee552-7065-7dd8-b09f-e4a49879f407",
+      "time": "2026-06-20 21:57:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News quoted an Iranian naval source saying the Strait of Hormuz was fully closed a few minutes ago."
+    },
+    {
+      "id": "mkt:019ee551-3d07-7dd8-b09f-dd36cc20f1f2",
+      "time": "2026-06-20 21:56:06",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign ministry says U.S. failed to restrain Israel, violated memorandum】Iran foreign ministry spokesman Baghaei said on the 20th the memorandum's first clause — ending all wars on all fronts, including Lebanon — is a core mutual commitment. He said Iran has met its obligations but the other party failed to compel Israel to cease military actions in Lebanon, a dereliction that constitutes a clear breach; although some steps have been taken on lifting the maritime blockade and reopening the Strait of Hormuz, the memorandum is a single package, and violation of the first clause calls the entire agreement into question unless immediate corrective measures are taken."
+    },
+    {
+      "id": "4945864",
+      "time": "2026-06-20 21:55:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：美國未能約束以色列 違反諒解備忘錄】伊朗外交部發言人巴加埃當地時間20日表示，諒解備忘錄的第一條，即“結束所有戰線的戰爭，包括黎巴嫩”，是雙方互相承諾的核心支柱。在伊朗履行自身承諾的同時，對方本應迫使以色列停止在黎巴嫩的軍事行動，但其在這一問題上的失責構成了對該協議的明確違反。巴加埃稱，儘管在解除海上封鎖和霍爾木茲海峽重新開放方面已採取了一些措施，但該諒解備忘錄本質上是一個“一攬子整體協議”。對第一條的違反意味著整個協議都將受到質疑，如果對方不立即採取必要措施，整個諒解備忘錄將面臨嚴重問題。 (央視新聞)"
+    },
+    {
+      "id": "4945863",
+      "time": "2026-06-20 21:54:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：特朗普向伊朗伸出了手，如果伊朗改變行為，美國與它的關係將會有所不同。"
+    },
+    {
+      "id": "mkt:019ee54e-fc90-7dd8-b09f-d12404254407",
+      "time": "2026-06-20 21:53:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Storage-chip firm Yingren Technology completes IPO counseling; designs high-performance SSD controller chips】CSRC IPO counseling disclosure shows Yingren Technology Co., Ltd. and sponsor Guotai Haitong submitted a Guidance Completion Report to the Shanghai Securities Regulatory Bureau. Yingren filed its counseling record on Dec. 19, 2024; the counseling process lasted about 18 months. The fabless semiconductor designer's core business is the design and supply of high-performance solid-state drive controller chips; it also provides SSD and storage-system solutions for cloud computing, AI, data-center management and intelligent driving applications."
+    },
     {
       "id": "4945862",
       "time": "2026-06-20 21:48:22",
