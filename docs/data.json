@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 11:40:48",
+  "updated": "2026-06-20 11:44:43",
   "count": 17589,
   "items": [
+    {
+      "id": "mkt:019ee320-6a89-7dd8-b09c-054cce6987ba",
+      "time": "2026-06-20 11:43:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Health Ministry said 13 Israeli soldiers were wounded in fighting in Lebanon, bringing total Israeli military casualties there to 932."
+    },
     {
       "id": "mkt:019ee317-eea7-7dd8-b09b-ff2e1a1d933e",
       "time": "2026-06-20 11:34:16",
@@ -162000,14 +162008,6 @@
         "市場"
       ],
       "text": "【上海航交所：本週沿海（散貨）綜合運價指數持穩執行】6月13日，上海航運交易所釋出的中國沿海（散貨）運輸市場周度報告顯示，本週，南方降水天氣帶動水電出力提升，進一步擠佔火電需求，下游北上拉運節奏放緩，運輸市場船貨較為平衡，綜合指數持穩執行。6月12日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1297.02點，較上期下跌0.8%。"
-    },
-    {
-      "id": "4933642",
-      "time": "2026-06-13 11:40:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：扎克伯格承認 Meta 存在失誤，AI 架構調整致使兩成員工崗位變動。"
     }
   ]
 }
