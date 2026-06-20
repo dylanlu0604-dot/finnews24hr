@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 15:05:41_
-_本檔包含 3800 則快訊，約 654189 字_
+_更新時間：2026-06-20 15:59:39_
+_本檔包含 3802 則快訊，約 654848 字_
+
+---
+
+### 2026-06-20 15:57:17  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Lebanon's military said Israel's ongoing attacks on Lebanon aim to hinder efforts to restore national stability.
+
+---
+
+### 2026-06-20 15:56:28  #國際
+
+黎巴嫩軍方宣告稱，以色列持續襲擊黎巴嫩旨在阻撓恢復該國穩定的努力。
+
+---
+
+### 2026-06-20 15:55:09  #MKT News
+
+【Iran foreign minister to meet Pakistan interior minister】Iranian Foreign Ministry spokesman Esmail Baghaei said Pakistan Interior Minister Naqvi will visit Tehran on Saturday and is scheduled to hold talks with Iranian Foreign Minister Araghchi. Baghaei said the visit is part of Pakistan’s diplomatic efforts related to ongoing Iran–US negotiations.
+
+---
+
+### 2026-06-20 15:54:30  #國際
+
+據報道，本週已有數艘滿載石油的伊朗油輪離開港口，越過美國海軍封鎖線，這被認為是伊朗石油出口的早期跡象。
+
+---
+
+### 2026-06-20 15:54:10  #國際
+
+據報道，美伊諒解備忘錄或將允許伊朗恢復原油與燃料出口，從而重啟伊朗主要資金來源，有望每年為伊朗帶來超 600 億美元的收入。
+
+---
+
+### 2026-06-20 15:50:33  #其他
+
+【廣西貴州至長江中下游地區強降雨持續 國家防總辦公室進一步會商部署防範應對工作】6月20日，國家防總辦公室、應急管理部持續組織自然資源部、住房和城鄉建設部、交通運輸部、水利部、中國氣象局等多部門聯合會商，影片排程廣西、貴州、湖南、湖北、安徽等省份，研判近期降雨發展趨勢，研究部署重點地區防汛工作。國家防總辦公室主任、應急管理部副部長兼水利部副部長陳敏主持會商。目前，國家防總維持針對江蘇、浙江、安徽、江西、湖北、湖南、廣東、廣西、重慶、貴州、雲南的防汛四級應急響應。（應急管理部）
+
+---
+
+### 2026-06-20 15:46:13  #MKT News
+
+Iran's interior ministry spokesman said there is no distinction between 'hardliners' and 'moderates' on negotiation issues.
+
+---
+
+### 2026-06-20 15:41:21  #MKT News
+
+Iranian interior ministry spokesman said Iran will hold a large funeral for Supreme Leader Ayatollah Ali Khamenei.
+
+---
+
+### 2026-06-20 15:41:15  #MKT News
+
+Iran's foreign ministry spokesman said the foreign minister will meet Pakistan's interior minister in Tehran, the Iranian Students' News Agency reported.
+
+---
+
+### 2026-06-20 15:40:46  #國際
+
+伊朗外交部發言人表示，外長阿拉格齊將會見正在訪問德黑蘭的巴基斯坦內政部長。
+
+---
+
+### 2026-06-20 15:40:00  #其他
+
+【尼泊爾中央動物園因禽流感疫情暫時關閉】據尼泊爾媒體報道，位於首都加德滿都附近的中央動物園因園內多隻鳥類和其他動物死於H5N1型禽流感，於19日起暫時關閉。
+
+---
+
+### 2026-06-20 15:37:33  #其他
+
+【辛巴威下調汽油和柴油價格】辛巴威能源監管機構表示，該國將把汽油價格下調 5%，從每升 2.08 美元降至每升 1.98 美元。柴油價格將從每升 2.09 美元降至 1.99 美元。
+
+---
+
+### 2026-06-20 15:34:52  #MKT News
+
+【New quantum sensor could detect gravitational waves and dark matter】A study in Nature reports a new quantum sensor that can effectively cancel background noise limiting measurement precision, enabling searches for previously undetectable weak signals and potentially informing the formation of supermassive black holes. Imperial College London, which led the research, said detecting the universe’s composition and new gravitational-wave sources requires measurements of extremely weak signals. Atom interferometers use interference of atomic matter waves, but the laser pulses required introduce noise that can swamp those signals and prevent meaningful data.
+
+---
+
+### 2026-06-20 15:21:07  #MKT News
+
+Russia's Security Council deputy chairman Medvedev said the Strait of Hormuz has become a "Persian nuclear weapon" and will be used like a nuclear weapon in the future.
+
+---
+
+### 2026-06-20 15:20:25  #MKT News #S&P500 #Impact bearish #XAUUSD #Impact bullish #WTI
+
+MEDVEDEV, deputy chairman of Russia's Security Council, said the only remaining restriction in the conflict with Ukraine is not to deliberately target civilians, and that the Hague Convention on the laws and customs of war is no longer needed.
+
+---
+
+### 2026-06-20 15:20:06  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Medvedev, deputy chairman of the Russian Security Council, said there are no rules left when dealing with Kyiv.
+
+---
+
+### 2026-06-20 15:19:08  #其他
+
+【新型量子感測器可探測引力波和暗物質】英國《自然》雜誌日前釋出的一項新研究結果顯示，一種新型量子感測器能有效消除背景噪聲對測量精度的影響，可用於搜尋此前技術難以探測的微弱訊號，有助於解開超大質量黑洞形成之謎。牽頭這項研究的英國帝國理工學院釋出新聞公報表示，瞭解宇宙的組成成分以及發現新的引力波源需要測量極微弱的訊號。原子干涉儀利用原子物質波的干涉進行測量，但測量所需使用的鐳射脈衝本身具有噪聲，可能會淹沒訊號，導致無法獲得有意義的資料。研究人員發現，將兩個相同的原子干涉儀放在不同位置上，使用同一束鐳射進行測量，對比其測量結果，可以讓鐳射噪聲的影響相互抵消。研究人員在實驗室中製造出一臺原型裝置，包含兩個宏觀上處於不同位置的原子干涉儀。實驗發現，除了原子本身的量子隨機性導致的噪聲之外，該裝置不受其他噪聲影響。研究人員向鐳射中額外新增較強的噪聲後，該裝置依然運作良好，能有效去除噪聲。研究人員隨後向裝置施加與宇宙早期引力波和超輕暗物質等可能產生的訊號相似的振盪訊號。測試結果顯示，兩個原子干涉儀聯合執行依然能捕捉到清晰的訊號。
+
+---
+
+### 2026-06-20 15:17:41  #MKT News #Market Regions #Greater China
+
+【Chinese team builds 3D fiber microtweezer on commercial fiber tip; output force >100,000x traditional optical tweezers】Researchers at Anhui University and the University of Science and Technology of China used a femtosecond-laser composite manufacturing process for fiber-integrated devices to fabricate a three-dimensional microtweezer on the tip of a commercial optical fiber, published in Nature. The device delivers output forces more than 100,000 times those of conventional optical tweezers and enables high-precision, low-damage, programmable 3D manipulation of micron-scale targets, precise assembly of complex microstructures, single-cell manipulation and micro-sampling inside ~100-micron confined spaces. Authors cite application relevance for micro-manipulation, microsystems assembly, life-science handling and minimally invasive medical procedures.
+
+---
+
+### 2026-06-20 15:15:36  #其他
+
+【端午假期第二天 北京市屬公園迎客超38萬人次】6月20日，端午假期第二天，從北京市公園管理中心瞭解到，市屬公園及中國園林博物館共接待遊客38.37萬人次，遊客量位居前三的分別是天壇公園、頤和園和北海公園。（北京青年報）
+
+---
+
+### 2026-06-20 15:14:52  #MKT News #Commodities #Industrial Metals #Energy
+
+Netanyahu said Somaliland has abundant natural resources, including prospective rare earths, oil and gas, and an undeveloped mining sector. He said Israel’s leadership in innovation and technology, combined with Somaliland’s undeveloped resource potential and strategic location, make the two natural partners.
+
+---
+
+### 2026-06-20 15:11:44  #其他
+
+【我國在商用光纖端部構建一種三維光纖微鑷 微鑷輸出力是傳統光鑷的十萬倍以上】據安徽大學訊息，該校光電資訊獲取與防護技術全國重點實驗室青年教師潘登與中國科學技術大學團隊合作，提出了面向纖基整合器件的飛秒鐳射復合製造方法，在商用光纖端部構建了一種三維光纖微鑷，實現了微米尺度目標的高精度、低損傷與可程式設計三維操控。研究成果日前發表於國際期刊《自然》。研究團隊構建的三維光纖微鑷輸出力是傳統光鑷的十萬倍以上，能夠實現微米尺度目標的精準操控和複雜微結構的精確裝配，展現出在微操控領域的重要應用價值。同時，該微鑷如同細胞尺度的“微型靈巧手”，能夠實現單細胞等微觀物件的精密操作，並在百微米狹窄空間內完成微尺度取樣，為生命健康和微創醫療等方向提供了新的技術路徑。 (科技日報)
+
+---
+
+### 2026-06-20 15:09:06  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel must resolutely safeguard its security interests while preserving its important ties with the United States.
+
+---
+
+### 2026-06-20 15:08:56  #國際
+
+內塔尼亞胡：以色列將在捍衛自身安全利益的同時，維持與美國的緊密關係。
+
+---
+
+### 2026-06-20 15:08:15  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli prime minister NETANYAHU said more work remains in Gaza and Lebanon.
+
+---
+
+### 2026-06-20 15:07:58  #MKT News
+
+NETANYAHU said Israeli forces repelled ground-invasion threats against Israeli communities in Lebanon and destroyed Hezbollah's missile capabilities.
+
+---
+
+### 2026-06-20 15:07:52  #其他
+
+【貴州省人民檢察院檢察委員會專職委員石瑛接受紀律審查和監察調查】貴州省人民檢察院檢察委員會專職委員石瑛涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。（貴州省紀委監委網站）
+
+---
+
+### 2026-06-20 15:07:29  #MKT News #Important
+
+Prime Minister Netanyahu said Israelis have returned and will remain permanently, calling the territory their land and home.
+
+---
+
+### 2026-06-20 15:06:38  #國際
+
+【浙江嘉興開通至匈牙利布達佩斯國際貨運航線】6月20日，一架滿載服裝、面料等跨境電商包裹的全貨機從浙江嘉興南湖機場起飛，經中轉後飛往匈牙利布達佩斯，標誌著“嘉興—布達佩斯”國際貨運航線正式開通執行。這是繼“嘉興—達卡”航線後，當地開通的第二條國際貨運航線，也是嘉興空港開通的首條歐洲方向航線。 新航線的開通，進一步完善了嘉興航空口岸國際物流佈局，為區域外貿轉型升級、高水平對外開放注入新動能。（中新網）
 
 ---
 
@@ -14,6 +182,12 @@ _本檔包含 3800 則快訊，約 654189 字_
 ### 2026-06-20 15:04:20  #公司
 
 【張朝陽到訪香港車博會極氪展臺 與吉利董事長李書福會面交流】據極氪微博：搜狐創始人張朝陽到訪2026中國香港車博會極氪展臺，與吉利控股集團董事長李書福會面交流。 現場體驗009光輝座艙後，張朝陽對極氪獨立分割槽隔音設計大加讚賞：“後排擁有專屬獨立空間，與前排駕駛區域隔絕”。 張朝陽為極氪8X浩瀚超級電混技術連點三個贊，直稱“Very Impressed!”動力強、能耗低、續航長。饋電上高速，越跑電越多，不是“永動機”，而是透過AI大模型精密計算，為使用者帶來無與倫比的駕乘體驗和高超的能量管理。 雙方圍繞高階新能源、綠色出行發展趨勢展開深度探討。
+
+---
+
+### 2026-06-20 15:01:01  #國際
+
+【巴基斯坦內政部長啟程前往伊朗】伊朗伊斯蘭共和國通訊社今天（6月20日）報道說，巴基斯坦內政部長納克維剛剛啟程前往德黑蘭與伊朗官員會談。據悉，納克維將在訪問期間跟進美伊談判的推進情況。目前這一訊息尚未得到巴方證實。（CCTV國際時訊）
 
 ---
 
@@ -22764,167 +22938,5 @@ U.S. Defense Secretary Hegseth said Iran must not possess nuclear weapons.
 ### 2026-06-18 17:38:00  #MKT News #Star Stocks #Alibaba #Tencent #9988.HK #Impact bearish #0700.HK #0981.HK #Impact bullish
 
 Southbound Stock Connect flows were net sellers of RMB 6.792 billion today. Via Shanghai Stock Connect, Alibaba-W and Tencent were net sold HKD 1.98 billion and HKD 1.10 billion respectively; SMIC posted the largest net buy at HKD 1.557 billion. Via Shenzhen Stock Connect, Alibaba-W and Tencent were net sold HKD 1.886 billion and HKD 871 million respectively; Kingboard Laminates led net buys at HKD 835 million.
-
----
-
-### 2026-06-18 17:37:00  #公司 #國際
-
-【鹿得醫療：行動式製氧機透過美國 FDA510(k) 稽核】鹿得醫療公告，公司於 2026 年 6 月 17 日收到美國食品藥品監督管理局通知，公司行動式製氧機（Portable Oxygen Concentrator，型號：Ares-6A、Ares-4A）正式獲得美國 FDA510(k) 稽核透過，稽核編號為 K252399，法規號為 21 CFR 868.5440，產品分類為 Ⅱ類（Class Ⅱ），產品程式碼為 CAW(Generator, Oxygen, Portable)。
-
----
-
-### 2026-06-18 17:36:37  #公司
-
-【廣譽遠：西黃丸和感冒清熱顆粒兩款產品首次進入集採體系】廣譽遠公告，控股子公司山西廣譽遠國藥有限公司參加了由全國中成藥聯合採購辦公室開展的全國中成藥採購聯盟相關藥品集中帶量採購。根據全國中成藥聯合採購辦公室於2026年6月17日釋出的《關於公佈全國中成藥採購聯盟集中採購中選結果的通知》及《全國中成藥採購聯盟集中帶量採購(ZCYLM-2026-1)中選結果表》，山西廣譽遠生產的西黃丸和感冒清熱顆粒兩款產品首次進入集採體系，且在本次集採中直接中選。
-
----
-
-### 2026-06-18 17:36:33  #國際
-
-【貴州釋出暴雨橙色預警 氣象災害（暴雨）應急響應提升至三級】6月18日15時，貴州省氣象臺將暴雨黃色預警升級為暴雨橙色預警。預計今天夜間到明天，六盤水市東部和南部、銅仁市中南部、黔東南州、黔南州、貴陽市中東部和南部、遵義市東南部、黔西南州、安順市等地將出現暴雨，其中黔東南州西部和北部、黔南州、黔西南州北部和中東部、安順市中南部、貴陽市東南部、六盤水市南部等地可能出現大暴雨。（央視新聞）
-
----
-
-### 2026-06-18 17:35:08  #公司
-
-【廣汽本田公佈輔助駕駛系統專利】天眼查智慧財產權資訊顯示，近日，廣汽本田汽車有限公司、廣汽本田汽車研究開發有限公司申請的 “一種基於V2X的駕駛輔助系統和汽車產品” 專利公佈。摘要顯示，該系統基於V2X的駕駛輔助系統包括V2X通訊模組、車載感測模組和處理模組，V2X通訊模組透過V2X通訊接收外部感測器檢測到的外部感知資訊，車載感測模組對車外環境進行感知，獲得車載感知資訊，處理模組透過融合外部感知資訊與車載感知資訊生成駕駛決策輔助資訊。本發明利用V2X通訊模組能夠接收廣範圍的外部感知資訊的特點，對車載感測模組對車外環境進行感知的過程進行控制，從而調節所要檢測和處理的車載感知資訊的資訊量，能夠實現對外部感知資訊與車載感知資訊的融合處理，在實現支援駕駛決策輔助資訊與降低資訊量需求之間取得平衡。本發明廣泛應用於汽車技術領域。
-
----
-
-### 2026-06-18 17:35:00  #公司
-
-【欣銳科技：控股股東一致行動人部分股份解除質押】欣銳科技公告稱，公司控股股東之一致行動人鑫奇迪將持有的106萬股公司股份解除質押，佔其所持股份比例57.73%，佔公司總股本比例0.63%，解除日期為2026年6月17日。截至公告披露日，控股股東及其一致行動人累計質押股份159萬股，佔其所持股份比例3.77%，佔公司總股本比例0.94%。控股股東及其一致行動人資信、履約良好，質押風險可控，不會致公司實控權變更。
-
----
-
-### 2026-06-18 17:34:52  #其他
-
-【水利部：未來十天我國有兩輪強降雨過程】今天上午（6月18日），水利部舉行專題會商，分析研判端午節假期及未來十天全國雨情水情汛情發展態勢。透過研判，未來十天，我國將出現兩輪強降雨過程，受降雨影響，長江中下游幹流及洞庭湖水系湘江、鄱陽湖水系贛江、淮河上中游幹流及支流等河流將出現漲水過程。水利部部署抓好中小河流洪水防禦。（央視新聞）
-
----
-
-### 2026-06-18 17:34:47  #MKT News #Market Regions #Greater China
-
-【Ministry of Water Resources: Two rounds of heavy rain expected in China over next 10 days】The Ministry of Water Resources said at a special meeting on the morning of June 18 that China is expected to see two rounds of heavy rainfall over the next 10 days. Rainfall will raise water levels on the Yangtze mainstem in the middle and lower reaches, in the Dongting Lake system (Xiang River) and the Poyang Lake system (Gan River), and on the Huaihe River upper and middle reaches and its tributaries. The ministry ordered strengthened flood defenses for small- and medium-sized rivers.
-
----
-
-### 2026-06-18 17:34:29  #市場 #國際
-
-印度NIFTY 50指數<.NSEI>上漲0.27%。
-
----
-
-### 2026-06-18 17:33:58  #公司
-
-【百邦科技：控股股東協議轉讓20.33%股份完成過戶，實控人變更為陳鑄】百邦科技公告，公司此前披露控股股東北京達安世紀投資管理有限公司、北京悅華眾城投資管理中心（有限合夥）與南京德樂科技集團有限公司簽署《股份轉讓協議》，擬轉讓合計2601.34萬股（佔公司總股本20.33%）。本次公告稱，上述協議轉讓已於2026年6月17日完成過戶登記手續，德樂科技成為公司控股股東，實際控制人變更為陳鑄。
-
----
-
-### 2026-06-18 17:33:52  #公司
-
-小米：已簽署協議，最高斥資40億港元回購B類股份。
-
----
-
-### 2026-06-18 17:33:47  #公司
-
-小米：將實施200億港元場內股份回購計劃。
-
----
-
-### 2026-06-18 17:33:45  #MKT News
-
-Kremlin aide says new Ukrainian strike on Russia did not bring the Russian and Ukrainian presidents any closer personally.
-
----
-
-### 2026-06-18 17:33:37  #國際
-
-克里姆林宮助手：烏克蘭對俄羅斯的新攻擊不會拉近俄烏總統之間的個人接觸。
-
----
-
-### 2026-06-18 17:33:12  #國際
-
-市場訊息：特朗普政府內部正在推行一種新的飲食計劃，其核心內容就是大量食用酸菜。
-
----
-
-### 2026-06-18 17:32:56  #MKT News
-
-The Wall Street Journal reports the Trump administration is promoting an internal diet plan centered on heavy sauerkraut consumption.
-
----
-
-### 2026-06-18 17:32:19  #公司
-
-【珠海冠宇：限制性股票歸屬完成，冠宇轉債轉股價格調整並停牌】珠海冠宇公告稱，公司2023年限制性股票激勵計劃首次授予部分第三個歸屬期歸屬登記於6月17日完成，向激勵物件歸屬609.3920萬股，總股本增加。“冠宇轉債”轉股價格將從22.59元/股調整為22.51元/股，調整後價格6月23日起生效。“冠宇轉債”6月22日全天停牌停止轉股，6月23日起恢復轉股。
-
----
-
-### 2026-06-18 17:31:51  #公司
-
-【萊斯資訊：9860萬股限售股6月29日上市流通】萊斯資訊公告稱，本次上市流通的限售股為首次公開發行部分限售股，涉及股東1名，數量9860萬股，佔公司股本總數的60.32%，鎖定期36個月。限售期即將屆滿，將於2026年6月29日（因6月28日為非交易日順延）起上市流通。自限售股形成至公告披露日，公司未發生股本數量變化。股東中電萊斯資訊系統有限公司嚴格履行承諾，不存在未履行影響本次限售股上市流通的情況。
-
----
-
-### 2026-06-18 17:31:14  #觀點 #國際
-
-【高盛：歐洲資料中心接入需求逼近500GW AI投資熱潮凸顯能源關鍵作用】高盛稱，歐洲資料中心建設需求正在快速膨脹，能源將成為AI基礎設施擴張的關鍵環節。該行根據歐洲主要電網運營商收到的資料中心併網申請測算，目前歐洲資料中心專案管線已達約480GW，相當於歐洲當前電力需求的1.5倍。高盛認為，電氣化、AI採用和資料中心建設將共同推動歐洲電力需求進入新一輪增長週期。其“超級電氣化”情景下，2030年前後歐洲電力需求年增速可能達到5%。這將帶來約3.5萬億歐元發電和電網投資需求，並支撐公用事業行業進入代際盈利上行週期。
-
----
-
-### 2026-06-18 17:30:33  #公司
-
-【匯金股份：籌劃現金收購庫珀新能20%股權 交易尚不確定】匯金股份公告稱，公司正籌劃以現金購買庫珀新能源股份有限公司20%股權，同時其股東於春生將委託或讓渡不少於31%表決權，使公司擁有標的公司表決權比例不低於51%，交易完成後庫珀新能將成控股子公司，預計構成重大資產重組。截至公告披露日，盡職調查、審計、評估等工作正推進，各方就交易細節持續磋商，尚未簽署正式協議。本次交易尚處籌劃階段，存在不確定性，公司股票不停牌。
-
----
-
-### 2026-06-18 17:30:28  #公司
-
-【海峽創新：持股5%以上股東及其一致行動人部分股份解除質押】海峽創新公告稱，公司持股5%以上股東吳豔及其一致行動人賦飛科技所持部分股份於2026年6月17日解除質押，合計解除質押股份39080752股，佔公司總股本的5.86%。截至公告披露日，二者累計質押數量為0。本次部分股份解除質押不會導致公司控制權發生變更，也不會對公司治理結構及持續經營產生影響。
-
----
-
-### 2026-06-18 17:30:13  #其他
-
-市場訊息：西門子能源正考量分拆工業透平業務部門。
-
----
-
-### 2026-06-18 17:29:32  #公司
-
-【新柴股份：董事白洪法減持計劃期限屆滿未減持股份】新柴股份公告，公司董事白洪法此前計劃在2026年2月24日披露之日起十五個交易日後的三個月內，透過集中競價方式減持不超過101.81萬股（佔總股本0.4222%）。截至2026年6月17日減持計劃期限屆滿，白洪法在本次減持計劃期間內未減持公司股份，其持股數量仍為407.25萬股，佔總股本1.6889%。
-
----
-
-### 2026-06-18 17:29:31  #公司
-
-【嵐圖汽車公佈車輛事故處理專利】天眼查智慧財產權資訊顯示，近日，嵐圖汽車科技股份有限公司申請的 “車輛事故的處理方法、裝置、裝置及車輛” 專利公佈。摘要顯示，本申請實施例提供一種車輛事故的處理方法、裝置、裝置及車輛。該方法包括：在確定車輛發生事故後，基於所述車輛中的事故關聯狀態資料，確定所述車輛的目標事故等級；所述目標事故等級用於指示所述車輛當前發生事故的嚴重程度；根據事故發生前後預設時間視窗內的車輛狀態資料，獲取所述車輛的證據資料；所述車輛狀態資料包括所述事故關聯狀態資料；根據預建立的候選步驟庫，確定出與所述目標事故等級以及所述證據資料的完整性匹配的目標處理步驟序列；執行所述目標處理步驟序列。該方法用以實現更精準、智慧的車輛事故處理，從而達到提升使用者在事故發生後的安全體驗和使用滿意度的效果方法。
-
----
-
-### 2026-06-18 17:29:03  #觀點 #央行 #國際
-
-【花旗不再預計印度央行本財政年度將加息】花旗的研究分析師在一份報告中寫道，該行不再預計印度央行將在本財政年度加息。花旗此前預計將加息兩次，每次25個基點。如果美伊協議得以維持，印度央行將無需擔心能源衝擊，從而使其有一定空間看淡厄爾尼諾現象帶來的天氣衝擊。花旗認為印度央行的通貨膨脹預測存在40個基點的下行風險，供應端衝擊的第二輪效應現在也可能更加溫和。“如果中東休戰協議破裂，或者厄爾尼諾衝擊破壞了通貨膨脹預期，我們將考慮恢復對印度央行加息的預期，“花旗表示。
-
----
-
-### 2026-06-18 17:27:58  #其他
-
-【分析：德國經濟研究所下調2027年經濟增長預期】德國經濟研究所(Ifo Institute)預計，德國經濟今年和明年均將增長0.8%。此前，這家總部位於慕尼黑的研究機構預計今年經濟將增長0.8%，2027年將增長1.2%。“該預測基於以下假設：衝突將在未來幾周內降級，霍爾木茲海峽將重新開放。預計能源價格隨後將逐漸下降，但到預測期結束時仍將高於戰前水平。“德國經濟研究所表示，預計2026年全球經濟將增長2.2%，2027年將增長2.4%，全球貿易增長率將從3.0%放緩至2.0%。同時，預計2026年德國整體通脹率為2.9%，2027年將回落至2.7%。
-
----
-
-### 2026-06-18 17:27:37  #公司
-
-【影石創新：全資子公司一路高飛擬認繳出資1億元設立基金】影石創新公告，全資子公司一路高飛擬與深圳瑞宏等合夥人共同出資設立深圳峰瑞影佳創業投資中心（有限合夥），一路高飛擬作為有限合夥人認繳出資人民幣1億元，出資比例27.50%。該基金主要對新一代資訊科技領域進行投資，投資期為自基金首次交割日起4年，退出期為投資期屆滿日的次日起至合夥企業存續期滿之日。
-
----
-
-### 2026-06-18 17:27:32  #公司
-
-【影石創新：擬使用超募資金2.06億元投資新建“智慧影像終端升級專案”，同時使用超募資金不超過3.85億元永久補充流動資金】影石創新公告，擬使用超募資金2.06億元投資新建“智慧影像終端升級專案”，同時使用超募資金不超過3.85億元永久補充流動資金，佔超募資金總額12.84億元的比例為29.98%。
 
 ---

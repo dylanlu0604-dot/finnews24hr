@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-20 15:05:41_
-_本檔包含 3223 則快訊，約 653824 字_
+_更新時間：2026-06-20 15:59:39_
+_本檔包含 3225 則快訊，約 654720 字_
+
+---
+
+### 2026-06-17 19:06:46  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+The U.S. Commerce Department will take a non-voting minority stake in SandboxAQ, a firm that previously received backing from NVIDIA (NVDA.O).
+
+---
+
+### 2026-06-17 19:06:41  #國際
+
+【美伊諒解備忘錄將在瑞士一度假村簽署】瑞士外交部表示，美伊諒解備忘錄的簽署儀式將於當地時間6月19日在瑞士比爾根山度假村舉行。據瞭解，美國副總統萬斯和伊朗議會議長卡利巴夫預計將出席簽字儀式。為何此次簽署儀式選在瑞士比爾根山度假村舉行？中國現代國際關係研究院中東研究所副所長秦天分析指出，瑞士比爾根山度假村曾舉辦過很多類似的重要活動，也曾是伊核談判的地點。此外，比爾根山度假村背後有非常強大的卡達資本，這也在一定程度上反映出卡達居間斡旋對彌合美伊分歧起到了非常關鍵的作用。 (CCTV國際時訊)
+
+---
+
+### 2026-06-17 19:06:18  #焦點 #國際
+
+美國總統特朗普17日表示，同伊朗的諒解備忘錄不是最終協議，“如果我不滿意，我們將恢復向伊朗投擲炸彈”。（新華社）
+
+---
+
+### 2026-06-17 19:05:51  #公司
+
+【*ST沐邦：全資孫公司被債權人申請重整及預重整】*ST沐邦公告稱，全資孫公司江西捷銳收到南昌中院送達的《通知書》，債權人上海朗力以其不能清償到期債務且資產不足以清償全部債務為由，向南昌中院申請對其進行重整及預重整。江西捷銳是公司光伏業務重要板塊，若重整成功，將化解其債務風險；若失敗，將面臨破產清算，對公司合併財報造成不利影響。截至公告披露日，江西捷銳尚未收到法院啟動預重整或受理重整申請的文書，該事項存在重大不確定性。
+
+---
+
+### 2026-06-17 19:05:47  #其他
+
+【國家能源局召開核電科普工作座談會暨“綠色核能”核電科普合作平臺成立會議】會議強調，要充分發揮“綠色核能”核電科普合作平臺作用，探索核電科普協同發展新模式，更好地統籌各方力量，構建政企學研媒協同聯動、全社會共同參與的“大科普”工作格局，推動“十五五”核電科普工作再上新臺階。重點做好以下四方面工作：一是深耕內容創作，講好中國核電故事；二是創新傳播方式，開展分層精準科普；三是提高科普設施開放水平，強化科普陣地建設；四是培育好科普人才，夯實核電科普人才支撐。
+
+---
+
+### 2026-06-17 19:05:38  #MKT News #Market Themes #Chip Wars
+
+U.S. Department of Commerce reached a $500 million chip R&D funding agreement with SandboxAQ.
+
+---
+
+### 2026-06-17 19:05:34  #公司 #國際
+
+【特朗普：若不滿意美伊備忘錄，將恢復轟炸行動】美國總統特朗普週三表示，與伊朗達成的諒解備忘錄並非最終協議，如果他對協議內容不滿意，可能恢復轟炸行動。特朗普在法國舉行的七國集團峰會上表示：“這是一份諒解備忘錄。如果我不喜歡它，我們就會重新向他們開火，把炸彈扔到他們頭上。如果我不喜歡，如果他們不老實，我們會立刻重新把炸彈直接扔到他們腦袋正中間。”特朗普還表示，這份與伊朗達成的諒解備忘錄並不包含立即解除對伊制裁的內容，並補充稱他將在稍後談論這一問題。
+
+---
+
+### 2026-06-17 19:05:34  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Trump says could resume strikes if unsatisfied with Iran memorandum】President Trump told the G7 summit in France the memorandum of understanding with Iran is not a final agreement and that he could resume bombing if he finds it unsatisfactory or if Iran "is not honest." He said the memorandum does not include immediate lifting of U.S. sanctions on Iran and that he would address the issue later.
+
+---
+
+### 2026-06-17 19:05:08  #公司
+
+【臻寶科技：首次公開發行股票並在科創板上市，募資17.30億元】臻寶科技公告稱，公司首次公開發行股票並在科創板上市的申請已獲上交所上市稽核委員會審議透過，並獲中國證監會同意註冊。本次發行股票3882.26萬股，發行價格44.56元/股，募集資金總額17.299351億元，淨額16.047708億元。發行人高管與核心員工、保薦人相關子公司參與戰略配售，分別獲配80.03萬股、134.65萬股，限售期分別為36個月、24個月。
+
+---
+
+### 2026-06-17 19:05:01  #公司
+
+【財通福鑫定開混合提示二級市場溢價風險 6月18日全天停牌】財通基金管理有限公司旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金（場內簡稱：財通福鑫定開混合，交易程式碼：501046）二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，本基金將於2026年6月18日全天停牌。本基金目前處於封閉期，暫不辦理申購、贖回業務，但本基金場外持有人可以透過銷售機構辦理本基金的跨系統轉託管（場外轉場內）業務，將基金份額轉至場內，在場內賣出本基金。
+
+---
+
+### 2026-06-17 19:04:57  #公司 #市場
+
+【普冉股份：股票交易異常波動 一季度營收、淨利潤大幅增長】普冉股份公告稱，2026年6月15日至17日，公司股票連續3個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經自查，公司生產經營正常，控股股東、實控人及其一致行動人無應披露未披露重大資訊。2026年一季度，公司實現銷售收入14.47億元，同比上漲256.08%；歸母淨利潤2.51億元，同比上升1259.87%。此外，公司擬購珠海諾亞長天49%股權，尚待稽核註冊，2D NAND市場趨勢或影響公司營收，提醒投資者注意風險。
+
+---
+
+### 2026-06-17 19:04:54  #MKT News
+
+【Caitong Fuxin open hybrid flags secondary-market premium risk; trading suspended June 18, 2026】Caitong Fund Management's Caitong Multi-Strategy Fuxin Periodic Open Flexible Allocation Hybrid Fund (on-exchange name: Caitong Fuxin Open Hybrid; ticker 501046) is trading materially above NAV, showing a large secondary-market premium. The manager warned investors of premium risk and said the fund will be suspended for the full trading day on 18 June 2026. The fund is in a closed period; subscription and redemption remain suspended. Off-exchange holders may transfer shares to on-exchange custody via distributors and sell on the exchange.
+
+---
+
+### 2026-06-17 19:04:46  #公司 #市場
+
+【*ST高科：股價異常波動 提示多項投資風險】*ST高科公告稱，公司股票6月15日至17日連續三個交易日收盤價格跌幅偏離值累計超12%，屬異常波動。2025年度營收0.78億元，淨虧損1.26億元；2026年一季度營收1389.86萬元，淨虧損192.70萬元。公司經營正常，無應披露未披露重大事項，上層股東與長江儲存無實質關係。此外，離任董事蘭濤及其配偶計劃6月9日至9月8日減持不超總股本0.1365%股份。公司提示股價波動、退市、業績虧損等風險。
+
+---
+
+### 2026-06-17 19:04:42  #MKT News #Brent #Impact bullish #WTI
+
+Ukrainian military says it struck a 'shadow fleet' tanker in the Black Sea.
+
+---
+
+### 2026-06-17 19:04:08  #MKT News #Market Regions #Greater China
+
+【Jinan to subsidize manufacturing loan interest up to 70% for brain‑computer interface, embodied intelligence and 6G firms; per‑firm cap CNY1.4m】Jinan issued 2026 measures to support manufacturing, offering tailored guarantee products and setting upper limits on guarantee fees to lower financing costs. Fiscal subsidies will cover 50% of actual interest paid for eligible manufacturers; firms engaged in brain‑computer interfaces, embodied intelligence and 6G receive a 70% subsidy, with a per‑firm subsidy cap raised to 1.4 mln yuan.
+
+---
+
+### 2026-06-17 19:04:06  #其他
+
+【濟南：對腦機介面、具身智慧、6G等製造業企業貸款補貼，最高比例70%】近日，濟南市印發《濟南市財金聯動支援製造業高質量發展若干措施(2026版)》，針對製造業企業生產經營、專案投資、研發創新、供應鏈融資等多元化需求，定製專項擔保產品，財政對符合條件的企業給予實際支付利息50%的補貼，並設定擔保費率上限，切實降低融資成本。其中提出，對開展腦機介面、具身智慧、6G領域業務的製造業企業，補貼比例提高至70%，單戶補貼上限提高至140萬元。
+
+---
+
+### 2026-06-17 19:03:55  #其他
+
+【浙江省消防救援總隊黨委書記李瑞豐接受審查調查】據中央紀委國家監委駐應急管理部紀檢監察組、浙江省紀委監委訊息：浙江省消防救援總隊黨委書記、政治委員李瑞豐涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐應急管理部紀檢監察組紀律審查和浙江省監察委員會監察調查。
+
+---
+
+### 2026-06-17 19:03:24  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Rises for 4th Day — India’s BSE Sensex finished about 0.5% up at 77,156 on Wednesday, extending gains for a fourth consecutive session and marking the longest winning streak in two months. Market sentiment has been supported by easing crude oil prices and improved global sentiment following the US-Iran framework agreement. Meanwhile, some caution persisted, with traders awaiting the US Federal Reserve’s policy outcome later in the day for clues on the policy outlook. Attention was also on the bilateral meeting between President Modi and US President Trump on the sidelines of the G7 Summit, their first in over a year amid strained ties. Among key movers, Trent surged 7.1% to lead gainers, on optimism over its long-term growth prospects despite Citi maintaining a ‘Sell’ rating. Other top gainers included BEL, Eternal, Tata Steel, Infosys, Titan, Bharti Airtel and State Bank of India.
 
 ---
 
@@ -19377,101 +19485,5 @@ Spot natural gas prices at the Waha hub in West Texas turned positive for the fi
 ### 2026-06-16 19:55:20  #MKT News #HOOD.O #Impact mixed
 
 【Robinhood (HOOD.O) to cut about 10% of staff, roughly 300 roles, to stay lean】Robinhood (HOOD.O) will cut about 10% of its workforce, roughly 300 roles, and close a small number of unfilled internal positions, the company said in a regulatory filing on Tuesday. The reduction follows recent layoffs across fintech peers including Block, Crypto.com, Coinbase and PayPal. While some firms have cited AI as a driver for cuts, Robinhood said the move is intended to sustain a high-performance culture, accelerate product development and keep the company disciplined and lean. As of year-end the firm had 2,958 full-time employees, over 2,600 based in North America. Robinhood said it will record about $20m of restructuring charges this quarter, mainly severance and benefit costs, and roughly $8m of related stock-based compensation expense.
-
----
-
-### 2026-06-16 19:55:12  #公司
-
-【冠中生態：擬終止部分募投專案 8756.75萬元補流待審議】冠中生態公告稱，公司擬終止“建水縣歷史遺留礦山生態修復專案勘查設計施工總承包”募投專案，將剩餘8756.75萬元（佔可轉債募集資金淨額22.37%）永久補充流動資金。截至2026年6月11日，該專案已投入13360.32萬元，實現效益7386.11萬元，進度56.94%，募集資金投入進度41.20%。因專案推進慢、剩餘工作面不具備施工條件，為最佳化資源配置，提高資金效率，公司作出此決策。該事項已透過董事會、審計委員會審議，尚需債券持有人會議及股東會審議。
-
----
-
-### 2026-06-16 19:54:50  #國際
-
-【滙豐：霍爾木茲海峽石油運輸不太可能在7月底前恢復正常】滙豐的分析師表示，霍爾木茲海峽的石油運輸預計在7月底之前不會恢復正常，並且預計直到9月底才會恢復到戰前水平。他們表示：“障礙包括清除水雷、恢復保險、清空過剩的海灣石油儲備、重新部署船隻，以及重啟幾個海灣產油國閒置的生產油田和下游基礎設施。”“我們預計沙烏地阿拉伯和阿聯酋將相對較快地恢復到衝突前的水平，而其他產油國可能需要更長的時間——是幾個月而不是幾周。“滙豐表示，而在部分重新開放的情境下，即伊朗透過Persian Gulf Strait Authority保留對該海峽的影響力，石油供應量可能恢復到衝突前水平的60%左右，這將使石油市場一直到2027年都處於短缺狀態。
-
----
-
-### 2026-06-16 19:53:27  #公司 #市場
-
-【富信科技：股票交易嚴重異常波動 提醒投資風險】富信科技公告稱，2026年6月9日至6月16日，公司股票連續十個交易日收盤價格漲幅偏離值累計達100%，屬嚴重異常波動。公司日常經營正常，無應披露未披露重大資訊。目前營收主要來自消費電子領域，通訊業務佔比較低，Micro TEC業務拓展等存在不確定性。此外，近期董事減持符合計劃，公司提醒投資者注意股價波動及投資風險。
-
----
-
-### 2026-06-16 19:53:22  #公司 #市場
-
-【萊伯泰科：股票交易嚴重異常波動 提示多項風險】萊伯泰科公告稱，2026年6月3日至6月16日，公司股票連續10個交易日收盤價格漲幅偏離值累計超100%，屬嚴重異常波動。公司目前經營正常，無應披露未披露重大資訊。2025年營收4.01億元，同比降5.41%，淨利潤4039.65萬元，同比增3.19%；2026年Q1營收8675.40萬元，同比降12.41%，淨利潤661.24萬元，同比降48.21%。公司提示市場傳聞業務不確定性、估值高、換手率高、股價波動大等風險。
-
----
-
-### 2026-06-16 19:53:09  #市場 #國際
-
-【美銀調查顯示半導體被視為最擁擠的交易】美國銀行的全球基金經理調查顯示，大多數投資者認為投資半導體是全球市場中最擁擠的交易。五分之四的基金經理表示，做多全球半導體是最擁擠的交易——創下該調查歷史上的新高。當大量投資者持有相同頭寸時，就會出現擁擠的交易，如果投資者同時尋求拋售，這將增加資產價值大幅回撥的風險。今年迄今為止，一項半導體股票指標的價值已增長逾一倍，並在過去三個交易日中上漲了近15%。
-
----
-
-### 2026-06-16 19:52:24  #市場
-
-SpaceX股價美股盤前漲幅收窄至3.9%，此前一度漲超10%。
-
----
-
-### 2026-06-16 19:51:58  #國際
-
-【歐盟委員會主席馮德萊恩：必須確保霍爾木茲海峽的航行自由得到全面恢復】歐盟委員會主席馮德萊表示 ，在與地區夥伴就中東問題舉行的會議上，我們強調，首先，必須確保霍爾木茲海峽的航行自由得到全面恢復，且不受任何限制。其次，霍爾木茲海峽內發生的事件暴露了我們需要解決的薄弱環節。我們應攜手合作，開發替代供應路線和新的走廊，例如‘印度-中東-歐洲經濟走廊’（IMEC）。透過加強互聯互通，我們可以將這些薄弱環節轉化為機遇。此外，我們還討論了黎巴嫩問題，因為一個穩定與和平的中東，離不開一個穩定與和平的黎巴嫩。
-
----
-
-### 2026-06-16 19:51:32  #MKT News #Market Regions #Europe & UK
-
-Ukrainian President Zelenskiy said Ukraine needs international security guarantees during reconstruction.
-
----
-
-### 2026-06-16 19:50:54  #MKT News
-
-European Commission President Von der Leyen said talks also covered Lebanon, adding a stable, peaceful Middle East requires a stable, peaceful Lebanon.
-
----
-
-### 2026-06-16 19:50:49  #MKT News #WTI #Impact mixed #Brent #XAUUSD
-
-VON DER LEYEN said recent incidents in the Strait of Hormuz exposed supply‑chain vulnerabilities and called for joint development of alternative routes and new corridors, notably the "India‑Middle East‑Europe Economic Corridor" (IMEC). She said strengthening connectivity can turn those vulnerabilities into opportunities.
-
----
-
-### 2026-06-16 19:50:22  #MKT News #WTI #Impact bearish #Brent
-
-VON DER LEYEN said at a meeting with regional partners on the Middle East that, as a priority, freedom of navigation in the Strait of Hormuz must be fully restored and remain unrestricted.
-
----
-
-### 2026-06-16 19:48:46  #公司
-
-【岱勒新材：實際控制人及其一致行動人持股比例降至31.93%】岱勒新材公告稱，2025年10月20日-2026年6月15日，實際控制人段志明及其一致行動人段志勇、誠熙頤合計減持147.17萬股，佔公司總股本比例0.45085%。其中，段志勇2025年10月20-21日減持23.54萬股，佔比0.05944%；2025年10月30日，因股權激勵行權股份上市流通，其股份被動稀釋0.08002%；段志明2026年6月15日減持123.63萬股，佔比0.31139%。本次權益變動後，其合計持股比例由32.38560%降至31.93476%，不會導致公司控制權變更。
-
----
-
-### 2026-06-16 19:48:33  #公司 #觀點
-
-【小紅書最快或下半年赴港上市 去年底私人二級市場估值達500億美元】據報道，訊息人士稱，小紅書已聘請包括高盛集團和中金國際的投行，為其潛在的香港IPO提供服務。目前尚不清楚此次IPO的具體募資規模和估值。但另外兩名訊息人士稱，小紅書在去年年底的私人二級市場交易中估值一度高達500億美元。他們表示，小紅書最快可能於今年下半年上市。相關媒體週一報道了小紅書的上市計劃，並稱公司正準備於6月底前秘密遞交香港上市申請。自2025年以來，小紅書月活使用者數已超過4億。訊息人士稱，小紅書2026年的預期利潤有望達到30億美元。
-
----
-
-### 2026-06-16 19:47:57  #MKT News #Market Regions #Hang Seng Index #Impact mixed
-
-【Xiaohongshu may target Hong Kong IPO in H2; private secondary valuation about $50 billion】Xiaohongshu has hired investment banks including Goldman Sachs and China International Capital Co to advise on a potential Hong Kong IPO, though target proceeds and IPO valuation are unclear. Two people said private secondary trades at the end of last year valued Xiaohongshu at about $50 billion. Bloomberg reported the company is preparing to confidentially file a Hong Kong listing application by end-June. Monthly active users have exceeded 400 million since 2025, and sources said 2026 profit could reach roughly $3 billion.
-
----
-
-### 2026-06-16 19:47:50  #市場 #國際
-
-【資料顯示 散戶投資者是SpaceX這波上漲行情的關鍵推動力】Vanda Research資料顯示，散戶投資者是SpaceX這波上漲行情的關鍵推動力，他們在SpaceX股票上市頭兩天的購買量，就相當於上週他們在美國股市整體的購買量。
-
----
-
-### 2026-06-16 19:47:38  #宏觀 #焦點
-
-【6月16日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平舉行儀式歡迎緬甸總統訪華； 2.習近平同緬甸總統會談； 3.《求是》雜誌發表習近平總書記重要文章《一體推進教育科技人才發展》； 4.以習近平黨建思想為指引 推動黨的事業不斷開創新局面； 5.新華社綜述：不斷開闢百年大黨管黨治黨、興黨強黨新境界——深入學習領會習近平黨建思想； 6.李強會見緬甸總統； 7.趙樂際主持召開十四屆全國人大常委會第六十八次委員長會議 決定十四屆全國人大常委會第二十三次會議6月23日至26日在京舉行； 8.趙樂際會見緬甸總統； 9.王滬寧會見尼泊爾外交部長； 10.韓正出席第七屆跨國公司領導人青島峰會開幕式並致辭； 11.第十九屆中華圖書特殊貢獻獎頒獎儀式在京舉行； 12.5月份我國經濟總體平穩 持續向新向優； 13.國務院新聞辦舉行“新徵程上的奮鬥者”中外記者見面會； 14.中央宣傳部 應急管理部聯合釋出“最美應急管理工作者”； 15.聯播快訊： （1）今年前5個月我國綜保區貨物貿易進出口同比增長27.1%； （2）市場監管總局出臺新規 嚴懲嚴重違法失信行為； （3）教育部“陽光志願”資訊服務系統升級上線； （4）全球單機儲熱容量最大的光熱電站開工建設； （5）西十高鐵全線啟動試執行； （6）華南強降雨持續 東北華北等地多雷陣雨； （7）美稱已籤協議 伊朗稱部分條款開始執行； （8）美軍一架B-52戰略轟炸機墜毀 8人死亡； （9）剛果（金）埃博拉確診病例超800例。
 
 ---
