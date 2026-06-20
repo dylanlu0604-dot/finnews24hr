@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-20 13:46:53",
-  "count": 17592,
+  "updated": "2026-06-20 13:51:12",
+  "count": 17594,
   "items": [
+    {
+      "id": "mkt:019ee394-3443-7dd8-b09c-acea1ef9ff1e",
+      "time": "2026-06-20 13:50:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Zelenskiy gives Lukashenko one-week ultimatum to remove border fire-control systems】RIA on June 19 quoted Ukrainian President Zelenskiy saying Belarus has deployed systems on the Belarus–Ukraine border to coordinate fire and urging President Lukashenko to remove them within a week, warning Ukraine will act itself if they are not. RIA said this followed an incident two days earlier in Russia’s Bryansk region where a Ukrainian military drone struck a coach carrying Belarusian children; Lukashenko called the strike a brazen fascist act and demanded an explanation from Kyiv."
+    },
+    {
+      "id": "mkt:019ee392-2816-7dd8-b09c-a4d8ccfa6e98",
+      "time": "2026-06-20 13:47:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC says forces on high alert】State news agency reported the Islamic Revolutionary Guard Corps (IRGC) said its armed forces are on high alert, prepared to repel any potential enemy incursions or violations of agreements and to defend Iran's national security."
+    },
+    {
+      "id": "4945689",
+      "time": "2026-06-20 13:47:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：已進入高度戰備狀態】據伊朗塔斯尼姆通訊社報道，伊朗革命衛隊表示，武裝部隊已進入高度戒備狀態，準備好抵禦任何潛在敵人的侵犯和違反協議的行為，捍衛國家安全、尊嚴和利益。"
+    },
     {
       "id": "4945688",
       "time": "2026-06-20 13:46:03",
@@ -162033,14 +162068,6 @@
         "MKT News"
       ],
       "text": "【D.C. Circuit upholds order to remove Trump's name from Kennedy Center】The U.S. Court of Appeals for the D.C. Circuit on the 12th dismissed appeals by the U.S. government and the Kennedy Center board, upholding a federal district court order requiring President Trump's name to be removed from the John F. Kennedy Center for the Performing Arts by the end of the day on the 12th Eastern Time."
-    },
-    {
-      "id": "4933688",
-      "time": "2026-06-13 13:48:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【特斯拉亮相重慶車展，展出的機器人居然是“塑膠”?】近日，2026重慶車展正式開幕。車展上，特斯拉攜包括model 3、model y等車型亮相，同時也帶來了特斯拉Optimus人形機器人。據新浪科技實地觀察，該款特斯拉Optimus人形機器人整體未呈現明顯的金屬光澤，摸起來有種類似“硬塑膠”的質感。另外後方也未看到充電介面。周邊還有一些觀眾或將其當成實物圍觀拍照。談及此事，展臺工作人員表示，本次實物並未來到現場，“這款Optimus人形機器人是假的”。公開資訊顯示，該款機器人實物與特斯拉智慧電動車共享全套核心技術，依託同源硬體、訓練叢集與端到端神經網路實現人工智慧技術跨場景落地。（新浪科技）"
     }
   ]
 }
