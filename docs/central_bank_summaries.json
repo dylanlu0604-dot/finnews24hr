@@ -1,6 +1,183 @@
 {
-  "updated": "2026-06-20 07:23:24",
+  "updated": "2026-06-21 07:02:09",
   "items": [
+    {
+      "id": "20260621",
+      "date": "2026-06-21",
+      "range_start": "2026-06-20 07:00:00",
+      "range_end": "2026-06-21 07:00:00",
+      "generated_at": "2026-06-21 07:02:09",
+      "schema_version": 7,
+      "count": 10,
+      "headline": "六大央行今日無政策決議，印度海運安全成焦點",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [
+            "2026年6月20日，印度三艘掛印度旗油輪成功通過霍爾木茲海峽，運送超過86萬公噸原油，這表明印度能源供應航道暢通，降低外部供應中斷風險。",
+            "該消息對印度能源及貨幣政策環境具有正面意義，顯示地緣政治風險暫控，減少能源價格波動壓力。"
+          ],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        }
+      ]
+    },
     {
       "id": "20260620",
       "date": "2026-06-20",
@@ -9631,252 +9808,6 @@
                 {
                   "title": "資料限制",
                   "text": "發言內容較為概括，無具體政策措施。  ￼"
-                }
-              ]
-            }
-          ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "20260531",
-      "date": "2026-05-31",
-      "range_start": "2026-05-30 07:00:00",
-      "range_end": "2026-05-31 07:00:00",
-      "generated_at": "2026-05-31 07:00:39",
-      "schema_version": 7,
-      "count": 18,
-      "headline": "歐洲央行表態積極應對通膨，其餘央行無政策更新",
-      "central_banks": [
-        {
-          "id": "Fed",
-          "name": "美國聯準會 Fed",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "ECB",
-          "name": "歐洲央行 ECB",
-          "status": "官員密集發言",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoE",
-          "name": "英國央行 BoE",
-          "status": "官員密集發言",
-          "officials": [
-            {
-              "official": "曼恩",
-              "venue": "來源未提供具體場合",
-              "analysis": "曼恩於今日發表談話，指出英國通膨已告一段落的大緩和時期結束，暗示貨幣政策可能轉趨謹慎。此觀點有助市場理解英國央行在當前通膨環境下的政策思考，可能影響利率預期及市場定價。其發言強調通膨風險未完全消退，政策路徑仍須靈活應對。分析指出，曼恩的表述透露未來貨幣政策可能不再寬鬆，傾向維持或收緊利率以控制物價。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "原文未明確透露具體場合，故採用來源未提供具體場合。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "曼恩表示，通膨『大緩和』時期已結束，意味通膨率不再快速下降或維持低位。"
-                },
-                {
-                  "title": "利率立場",
-                  "text": "未直接提及利率調整，但形容詞和語境暗示可能維持或加息。"
-                },
-                {
-                  "title": "政策背景",
-                  "text": "英國近期通膨仍高於目標值，央行策略在尋求平衡經濟成長與物價穩定。"
-                },
-                {
-                  "title": "政策含義",
-                  "text": "曼恩觀點暗示若通膨持續，央行將可能採取更鷹派措施。"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "市場或因其說法調整利率預期，短期內利率期貨利率定價可能上行。"
-                },
-                {
-                  "title": "資料限制",
-                  "text": "無其他細節描述，政策方向需結合未來數據判斷。"
-                }
-              ]
-            }
-          ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoJ",
-          "name": "日本央行 BoJ",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBA",
-          "name": "澳洲聯儲 RBA",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoC",
-          "name": "加拿大央行 BoC",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBI",
-          "name": "印度央行 RBI",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BCB",
-          "name": "巴西央行 BCB",
-          "status": "無重大事件",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "SNB",
-          "name": "瑞士央行 SNB",
-          "status": "官員密集發言",
-          "officials": [
-            {
-              "official": "喬丹",
-              "venue": "來源未提供具體場合",
-              "analysis": "喬丹公開發言，雖未提供具體政策細節，但其講話屬於央行官員當天唯一重要發言。內容依原文限制，無法判定立場轉變，但顯示瑞士央行在觀察市場環境仍有警覺性。市場需關注其後續評論與政策動態。整體來看，喬丹作為最高層決策人之一的言論，具有一定指標性價值。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "原文無具體場合資訊，採用來源未提供具體場合。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "當天無明確策略或利率調整報告，僅確認喬丹本人發言。"
-                },
-                {
-                  "title": "利率立場",
-                  "text": "無明確提及利率政策方向，資料中未含鷹鴿暗示。"
-                },
-                {
-                  "title": "政策背景",
-                  "text": "瑞士央行面臨持續通膨壓力及國際金融不確定，維持監控狀態。"
-                },
-                {
-                  "title": "政策含義",
-                  "text": "官員發言強調信息透明及市場警覺性。可能為未來政策調整鋪路。"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "投資人應保留判斷，暫未造成利率曲線明顯波動。"
-                },
-                {
-                  "title": "資料限制",
-                  "text": "缺乏具體政策發布，解讀空間有限。需觀察後續發展。"
                 }
               ]
             }
