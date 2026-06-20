@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20 09:26:07",
-  "count": 17619,
+  "updated": "2026-06-20 09:30:11",
+  "count": 17616,
   "items": [
     {
       "id": "4945587",
@@ -162233,34 +162233,6 @@
         "AI Revolution"
       ],
       "text": "AWS said Anthropic has asked it to revoke user access to Claude Fable 5 and Claude Mythos 5 across all regions. All other Anthropic models are unaffected."
-    },
-    {
-      "id": "4933562",
-      "time": "2026-06-13 09:29:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜雲科技：Anthropic所有其他模型均未受影響。"
-    },
-    {
-      "id": "mkt:019ebe99-2dd2-7dd8-afe7-decc76a0d43c",
-      "time": "2026-06-13 09:29:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Trump says U.S. strike killed 'Aragua Train' leader Ninio Guerrero】On the 12th local time, U.S. President Trump posted on Truth Social that U.S. Southern Command conducted a military strike that killed the 'Aragua Train' group's leader Ninio Guerrero. In February 2025 the Trump administration designated Venezuela's 'Aragua Train' and other criminal groups as global terrorist organizations."
-    },
-    {
-      "id": "4933561",
-      "time": "2026-06-13 09:29:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜雲科技（AWS）：Anthropic已要求我們撤銷所有區域所有使用者對Claude Fable 5和Claude Mythos 5的訪問許可權。"
     }
   ]
 }
