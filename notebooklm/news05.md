@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-21 02:43:47_
-_本檔包含 3494 則快訊，約 650718 字_
+_更新時間：2026-06-21 03:48:03_
+_本檔包含 3492 則快訊，約 651454 字_
+
+---
+
+### 2026-06-15 20:12:41  #公司
+
+【中富通：控股子公司英博達擬出資510萬元設立石礫科技】中富通公告，基於公司發展戰略，子公司英博達計劃與希姆半導體、索瑩嘉業、旭杭產投共同投資設立石礫科技。石礫科技註冊資本1000萬元，英博達持股51%，旭杭產投持股21%，希姆半導體持股15%，索瑩嘉業持股13%。該事項已透過董事會審議，尚需提交股東會審議。
+
+---
+
+### 2026-06-15 20:12:38  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+【Iran foreign ministry: Iran-US ceasefire memorandum details to be released soon】Iran's foreign ministry spokesman said on the 15th that details of an Iran-US ceasefire memorandum will be released soon.
+
+---
+
+### 2026-06-15 20:12:05  #焦點 #國際
+
+據伊朗媒體15日報道，伊朗外交部發言人當天說，伊美停戰諒解備忘錄的細節將很快公佈。（新華社）
+
+---
+
+### 2026-06-15 20:11:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Chip Wars #AI Revolution #Magnificent 7 #Copper #Impact bullish
+
+【HVLP compute copper foil becomes key substrate; vendor says orderbook booked through H2 2027】A domestic copper-foil maker said its HVLP fourth‑generation compute copper foil for AI servers and high‑speed optical modules is booked through H2 2027. Suppliers must move from RTF to HVLP1–2 then HVLP3–4, with each generation needing a 6–12 month validation cycle and 1–3 years for full system‑level certification. Buyers including NVIDIA, AMD, Intel and Huawei Ascend enforce strict generational requirements and certify only a handful of global suppliers.
+
+---
+
+### 2026-06-15 20:11:43  #其他
+
+【HVLP算力銅箔成關鍵基材 某廠商“在手訂單已排至2027年下半年”】國內一家銅箔廠商市場負責人表示，目前該企業旗下專為AI伺服器、高速光模組配套的HVLP4代算力銅箔，在手訂單已排至2027年下半年。銅箔廠商需從RTF起步，逐步升級至HVLP1-2、HVLP3-4代，每代6一12個月驗證週期，全程1一3年系統級認證。英偉達、AMD、Intel等海外廠商及華為昇騰等國產廠商對銅箔代際要求嚴格，僅認證全球少數龍頭。（中證金牛座）
+
+---
+
+### 2026-06-15 20:11:12  #宏觀
+
+巴西財政部長：巴西儲蓄率偏低、匯率波動是影響貨幣政策的若干因素。
+
+---
+
+### 2026-06-15 20:10:54  #國際
+
+伊朗外交部發言人巴加埃表示，美國將承諾允許伊朗獲取其被凍結的資金，但不會向德黑蘭提供任何資金。
+
+---
+
+### 2026-06-15 20:10:28  #國際
+
+【分析：伊美備忘錄敲定成果與風險並存 】對於與美國達成的諒解備忘錄，伊朗各界樂觀與謹慎並存。輿論分析認為，備忘錄的最終走向仍高度取決於未來60天內雙方履約情況，以及地區衝突是否出現新的觸發點。此外，伊朗媒體還特別注意到特朗普在接受《紐約時報》採訪時的表態變化，放棄了此前要求伊朗“零濃縮”的立場，轉而表示“允許伊朗進行低水平濃縮”。這一變化被解讀為美方在伊朗軍事與外交壓力下的讓步。（CCTV國際時訊）
+
+---
+
+### 2026-06-15 20:09:49  #公司
+
+福克斯執行長表示：消費者正越來越傾向於在 Roku 這類他們偏好的平臺上，獲取更簡潔、更統一的使用體驗。
+
+---
+
+### 2026-06-15 20:08:21  #公司
+
+【東百集團：擬182.78萬元轉讓子公司100%股權】東百集團公告稱，公司第十二屆董事會第二次會議審議透過《關於轉讓福建東百紅星商業廣場有限公司100%股權的議案》，為推進業務輕資產轉型，全資子公司擬將東百紅星100%股權以182.78萬元轉讓給福建德呈華業商業管理有限公司，後續將根據交割日審計情況調整。該議案尚需提交公司股東會審議。此外，董事會同意於7月1日召開2026年第一次臨時股東會。
+
+---
+
+### 2026-06-15 20:08:02  #國際
+
+以色列航空宣佈，自2027年起將在旗下飛機安裝星鏈高速網際網路，旅客可免費使用。
+
+---
+
+### 2026-06-15 20:07:20  #公司
+
+據報道，賽富時擬以約 36 億美元收購Fin公司。
+
+---
+
+### 2026-06-15 20:06:35  #公司
+
+福克斯執行長表示，與Roku的交易將擴大本集團在媒體增長最快板塊、聯網電視廣告以及訂閱聚合領域的佈局。
+
+---
+
+### 2026-06-15 20:06:24  #公司
+
+【特銳德：控股股東部分股份質押及解除質押】特銳德公告稱，近日控股股東德銳投資將其持有的公司部分股份辦理了質押及解除質押業務。本次質押2900萬股，佔其所持股份比例8.70%，佔公司總股本比例2.75%，用於置換前期融資；解除質押4000萬股，佔其所持股份比例12.00%，佔公司總股本比例3.79%。截至公告日，德銳投資累計質押1.20億股，佔其所持公司股份總數的36.04%，佔公司總股本的11.38%。目前控股股東總體質押風險可控。
+
+---
+
+### 2026-06-15 20:06:14  #公司
+
+【英聯股份：財務總監黃詠松減持28,800股股份計劃實施完成】英聯股份公告稱，公司財務總監黃詠松曾持有公司股份115,200股，佔剔除回購專用賬戶股份後總股本的0.03%，計劃在2026年4月28日至7月27日期間，透過集中競價方式減持不超28,800股，佔比不超0.01%。截至6月12日，減持計劃已實施完成，減持均價12.98元/股，減持價格區間為11.36 - 15.56元/股。減持後，黃詠松持股86,400股，佔比0.02%。此次減持未違反相關規定，不會對公司治理和經營產生重大影響。
+
+---
+
+### 2026-06-15 20:05:09  #MKT News
+
+【SAMR director Luo Wen meets Mongolian deputy prime minister Nomtoibayar】On June 12, SAMR director Luo Wen met visiting Mongolian Deputy Prime Minister Nomtoibayar to discuss cooperation on metrology, standardization and conformity assessment. Both sides agreed to advance legal metrology cooperation, coordinate standards for key traded goods, phase in mutual recognition of conformity assessment, and run proficiency testing and personnel training to facilitate bilateral trade. They signed a metrology cooperation action plan; relevant SAMR department officials attended.
 
 ---
 
@@ -21034,113 +21130,5 @@ HEZBOLLAH said it used missiles to strike two Israeli military assembly points n
 ### 2026-06-14 03:57:10  #國際
 
 【特朗普向內塔尼亞胡作出承諾 伊美協議將回應多方訴求】外交訊息人士稱，美國總統特朗普向以色列總理內塔尼亞胡保證，與伊朗達成的任何協議都將解決伊朗的核計劃、導彈專案以及真主黨問題。該訊息人士稱，特朗普明確表示，除非解決導致美伊走向戰爭的核心問題，否則不會與伊朗達成任何協議。以色列不會受任何伊美協議的約束，但需與美方協調行動，談判期間尤需如此。若雙方初步共識達成後談判破裂，且伊朗繼續開展軍事活動，那麼德黑蘭政權更迭或將被提上美國決策者的議事日程。
-
----
-
-### 2026-06-14 03:45:50  #MKT News
-
-Israeli airstrike on Khan Younis in Gaza killed two.
-
----
-
-### 2026-06-14 03:43:07  #國際
-
-以色列襲擊加沙地帶汗尤尼斯，造成兩人死亡。
-
----
-
-### 2026-06-14 03:32:53  #MKT News
-
-【Iranian editor says nuclear-deal 'nightmare' has raised legitimate public concern】The agency's editor‑in‑chief Kian Abdolrahahi told a TV program that public concern about negotiations is understandable, driven by two factors: the 'nightmare' of the Iran nuclear deal experience, which altered adversaries' misperception and shaped an image of a weakened Iran, and the fundamental untrustworthiness of the United States. He said popular skepticism should be welcomed rather than dismissed, as it signals Iranians' resolve to resist and hold firm, and that technical concerns and criticism should be accepted.
-
----
-
-### 2026-06-14 03:26:38  #國際
-
-【伊朗四家銀行遭有限網路攻擊 未發生客戶資訊洩露】當地時間13日，伊朗國有銀行協調委員會表示，包括伊朗國民銀行、伊朗出口銀行、伊朗商業銀行等在內的四家銀行當天系統出現中斷。技術團隊在發現異常後立即啟動必要的預防與防護措施，以保護客戶資料及銀行基礎設施安全。經過詳細技術調查，這次中斷被確認源於針對這四家銀行的一次有限網路攻擊。目前，沒有發生任何未經授權的客戶資訊訪問，也沒有出現資料洩露。銀行系統的安全加固與恢復工作正在快速進行。
-
----
-
-### 2026-06-14 03:20:40  #其他
-
-英國醫生工會英國醫學會（BMA）：原定於6月15日（週一）啟動的罷工已取消，工會將就此開展全員公投。
-
----
-
-### 2026-06-14 03:20:18  #MKT News
-
-Iranian media reported protests demanding parliament speaker Ghalibaf and foreign minister Araghchi resign to express opposition to the agreement.
-
----
-
-### 2026-06-14 03:17:19  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Qatar News Agency said casualties from Israeli aggression against Lebanon have risen to 3,756 dead and 11,632 wounded.
-
----
-
-### 2026-06-14 03:16:27  #國際
-
-伊朗媒體：民眾舉行示威，反對阿拉格齊、卡利巴夫，抵制伊美協議。
-
----
-
-### 2026-06-14 03:15:35  #MKT News
-
-Lebanese National News Agency reports illumination flares were observed over the towns of Kafra and Yatar in the Bint Jbeil area.
-
----
-
-### 2026-06-14 03:12:23  #宏觀 #國際
-
-以色列財政部長：唯一的應對方式，但凡有一發炮彈射向我方領土，今晚就將炸燬達希耶區十棟建築。
-
----
-
-### 2026-06-14 02:59:38  #國際
-
-特朗普：擬任命麥克唐納為紐約南區聯邦檢察官。
-
----
-
-### 2026-06-14 02:59:36  #MKT News
-
-President Trump said he will appoint James McDonald as U.S. attorney for the Southern District of New York.
-
----
-
-### 2026-06-14 02:58:16  #國際
-
-【伊朗正加大力度保護鈾原料】美國情報部門訊息稱，伊朗正加大力度保護其接近武器級的鈾原料，具體做法是封堵隧道，並在入口處佈設地雷陷阱。相關人士表示，這批高濃縮鈾儲量約半噸，如今想要接觸到這些物資，難度和風險都大幅增加。
-
----
-
-### 2026-06-14 02:57:35  #國際
-
-美國政府一名高階官員表示，談判有望達成協議，要求伊朗將鈾交由美方銷燬。
-
----
-
-### 2026-06-14 02:56:53  #MKT News
-
-Channel 13, citing a senior Israeli official, said Israel has limited influence over the U.S.-Iran agreement.
-
----
-
-### 2026-06-14 02:55:13  #國際
-
-市場資訊：歐盟警務機構表示，犯罪團伙正透過網路大批次招募、誘導未成年人實施惡性犯罪。
-
----
-
-### 2026-06-14 02:47:08  #國際
-
-美國與伊朗定於明日以線上會議形式簽署諒解備忘錄，巴基斯坦與卡達斡旋方也將參與其中。雙方曾就簽約儀式選址日內瓦還是伊斯蘭堡產生分歧，最終達成的協議將把停火期限延長60天、重新開放霍爾木茲海峽，並啟動核問題相關談判。
-
----
-
-### 2026-06-14 02:44:42  #國際
-
-【以官員：即將敲定的美伊協議將損害以色列的安全利益】以色列多名高階官員表示，即將敲定的美伊協議意味著美方接受了伊朗提出的主要條件，或將損害以色列的安全利益。協議會直接導致霍爾木茲海峽重新開放，並鞏固伊朗現政權。這些官員還警示，導彈專案、扶持代理勢力等核心問題並未得到解決，伊朗實際上是在“賒賬行事”，若其後續不遵守相關約定，美方的制衡籌碼也將隨之削弱。
 
 ---

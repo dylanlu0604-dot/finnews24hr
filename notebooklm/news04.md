@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 02:43:47_
-_本檔包含 3524 則快訊，約 651253 字_
+_更新時間：2026-06-21 03:48:03_
+_本檔包含 3520 則快訊，約 652147 字_
+
+---
+
+### 2026-06-16 22:03:02  #MKT News #Important #SPCX.O #Impact bullish #MSFT.O #Impact bearish
+
+SpaceX (SPCX.O) extended gains to 15%, lifting its market capitalization above Microsoft (MSFT.O) and making it the world's fourth-largest company by market value.
+
+---
+
+### 2026-06-16 22:02:22  #其他
+
+賽富時(CRM.N)：MuleSoft針對Databricks的代理掃描器及基礎資料360零複製功能今日正式全面上市。
+
+---
+
+### 2026-06-16 22:01:55  #公司
+
+盛諾集團：最終發售價定為每股H股18.36港元。
+
+---
+
+### 2026-06-16 22:01:49  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises on US-Iran Deal Optimism — The S&P/TSX Composite Index gained nearly 0.5% to trade above 35,000 on Tuesday amid optimism over a pending US-Iran peace deal. US President Donald Trump said at the G7 summit that negotiations with Iran had entered a second stage. Oil prices slid as markets weighed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, with RBC up more than 0.6%, TD Bank adding 0.5%, and BMO advancing nearly 1%. Higher gold prices boosted mining shares, with Agnico Eagle and WPM rising more than 1.5% and Barrick gaining over 1%. In contrast, lower oil prices weighed on energy stocks, with Canadian Natural shedding 1.5% and Suncor losing nearly 2%. Meanwhile, home sales rose 5.5% in May while home prices edged lower. Investors are awaiting the US Fed's policy decision on Wednesday, with markets widely expecting interest rates to remain unchanged.
+
+---
+
+### 2026-06-16 22:01:38  #公司 #其他 #焦點
+
+SpaceX市值超越微軟，成為全球第四大市值企業。
+
+---
+
+### 2026-06-16 22:01:21  #市場
+
+SPACEX股價繼續上漲至15%。
+
+---
+
+### 2026-06-16 22:00:21  #MKT News #Market Regions #Greater China
+
+【China silk mills at full capacity; orders booked through end-August】Late-May to mid-June is the concentrated spring cocoon purchase season in Jiangsu and Zhejiang. This year white and colored cocoons posted strong production and sales, with pronounced price dispersion across varieties. Downstream demand, supported by domestic fashion trends, has pushed silk fabric mills to full capacity and left order books filled through the end of August. At Hangzhou China Silk City merchants report strong demand for xiangyunsha, jacquard and Song brocade; one garment buyer says monthly procurement exceeds 100,000 metres and inventory levels fall to roughly 10% after a month. Raw silk prices have eased slightly, but capacity-constrained, technically demanding mulberry-silk fabrics such as xiangyunsha retain pricing power and factory-gate prices have held or risen modestly.
+
+---
+
+### 2026-06-16 21:59:18  #其他
+
+【目前絲綢面料企業工廠處於滿負荷生產狀態 訂單已經排到了今年8月底】每年5月下旬至6月中旬，是江浙多地春繭集中開秤收購期，今年白繭、彩色蠶繭產銷兩旺，不同品類價差明顯。今年受到“國潮風”等因素帶動，下游對面料需求增加，目前工廠處於滿負荷生產狀態，訂單已經排到了今年8月底。在絲綢集散地之一的杭州中國絲綢城，許多店鋪裡擺放著香雲紗、提花和宋錦等面料。當地一家服裝企業負責人告訴記者，自己一週會來市場兩到三趟，“我們一般一個月採購10萬米以上，香雲紗為主。現在正旺季，基本上一個月我們就剩下10%左右庫存量。”據這裡的商戶反饋，雖生絲價格有小幅回落，但一些香雲紗等桑蠶絲面料因產能限制、技術要求高，議價空間相對更大。他們目前面料並不愁賣，且出廠價不降反而略漲。 (央視財經)
+
+---
+
+### 2026-06-16 21:58:59  #公司
+
+【雄安新區管委會與拼多多集團簽署《數字服務戰略合作框架協議》】6月16日，拼多多集團執行總裁兼新拼姆總裁朱政一行到雄安新區考察調研。河北省委常委，雄安新區黨工委書記、管委會主任張國華與朱政一行舉行工作座談。座談會後，雄安新區管委會與拼多多集團簽署《數字服務戰略合作框架協議》。
+
+---
+
+### 2026-06-16 21:56:38  #公司
+
+據港交所檔案：深圳庫博能源股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-06-16 21:56:32  #MKT News
+
+HKEX filings show Shenzhen Kubo Energy Co. has submitted a listing application.
+
+---
+
+### 2026-06-16 21:56:18  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls on Political and Inflation Concerns — The Ibovespa fell about 0.5% to hover near the 169,500 mark on Tuesday as investors digested fresh election polls and rising inflation expectations. According to a BTG/Nexus survey released on Monday, President Lula holds a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation rose for the 14th consecutive week, prompting markets to reassess the duration of the BCB’s easing cycle. Most sectors traded lower. Financial stocks were pressured by concerns over higher borrowing costs, with Bradesco and Itaúsa losing around 0.5%. Petrobras weighed on the index, falling nearly 2% on optimism surrounding a preliminary US-Iran peace agreement that could reopen the Strait of Hormuz. In contrast, Sabesp gained more than 1.5% after announcing that Claudio Kawa Hermolin had assumed leadership of the newly created Customer Experience Division.
 
 ---
 
@@ -21160,101 +21232,5 @@ Iranian Foreign Ministry spokesman Baghaei said the US will pledge to allow Iran
 ### 2026-06-15 20:12:45  #MKT News #WTI #Impact bullish #XAUUSD #DXY
 
 【Iran says deep mistrust of US; regional visits planned ahead of Switzerland signing】Iran Foreign Ministry spokesperson BAGHAEI said regional visits are on the diplomatic agenda ahead of a planned signing in Switzerland this week of a US-Iran memorandum of understanding. He said Lebanon is an important element of the MOU, that respect for Lebanon’s sovereignty and territorial integrity is part of the temporary agreement, and Iran will closely monitor developments there. Given recent attacks by Israel on Lebanon, Iran will make decisions according to specific criteria. BAGHAEI cited the 1953 US‑UK‑backed coup against Iran’s elected government as the origin of deep-rooted mistrust of the United States and said Washington has a long way to go to win Iran’s trust.
-
----
-
-### 2026-06-15 20:12:41  #公司
-
-【中富通：控股子公司英博達擬出資510萬元設立石礫科技】中富通公告，基於公司發展戰略，子公司英博達計劃與希姆半導體、索瑩嘉業、旭杭產投共同投資設立石礫科技。石礫科技註冊資本1000萬元，英博達持股51%，旭杭產投持股21%，希姆半導體持股15%，索瑩嘉業持股13%。該事項已透過董事會審議，尚需提交股東會審議。
-
----
-
-### 2026-06-15 20:12:38  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-【Iran foreign ministry: Iran-US ceasefire memorandum details to be released soon】Iran's foreign ministry spokesman said on the 15th that details of an Iran-US ceasefire memorandum will be released soon.
-
----
-
-### 2026-06-15 20:12:05  #焦點 #國際
-
-據伊朗媒體15日報道，伊朗外交部發言人當天說，伊美停戰諒解備忘錄的細節將很快公佈。（新華社）
-
----
-
-### 2026-06-15 20:11:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Chip Wars #AI Revolution #Magnificent 7 #Copper #Impact bullish
-
-【HVLP compute copper foil becomes key substrate; vendor says orderbook booked through H2 2027】A domestic copper-foil maker said its HVLP fourth‑generation compute copper foil for AI servers and high‑speed optical modules is booked through H2 2027. Suppliers must move from RTF to HVLP1–2 then HVLP3–4, with each generation needing a 6–12 month validation cycle and 1–3 years for full system‑level certification. Buyers including NVIDIA, AMD, Intel and Huawei Ascend enforce strict generational requirements and certify only a handful of global suppliers.
-
----
-
-### 2026-06-15 20:11:43  #其他
-
-【HVLP算力銅箔成關鍵基材 某廠商“在手訂單已排至2027年下半年”】國內一家銅箔廠商市場負責人表示，目前該企業旗下專為AI伺服器、高速光模組配套的HVLP4代算力銅箔，在手訂單已排至2027年下半年。銅箔廠商需從RTF起步，逐步升級至HVLP1-2、HVLP3-4代，每代6一12個月驗證週期，全程1一3年系統級認證。英偉達、AMD、Intel等海外廠商及華為昇騰等國產廠商對銅箔代際要求嚴格，僅認證全球少數龍頭。（中證金牛座）
-
----
-
-### 2026-06-15 20:11:12  #宏觀
-
-巴西財政部長：巴西儲蓄率偏低、匯率波動是影響貨幣政策的若干因素。
-
----
-
-### 2026-06-15 20:10:54  #國際
-
-伊朗外交部發言人巴加埃表示，美國將承諾允許伊朗獲取其被凍結的資金，但不會向德黑蘭提供任何資金。
-
----
-
-### 2026-06-15 20:10:28  #國際
-
-【分析：伊美備忘錄敲定成果與風險並存 】對於與美國達成的諒解備忘錄，伊朗各界樂觀與謹慎並存。輿論分析認為，備忘錄的最終走向仍高度取決於未來60天內雙方履約情況，以及地區衝突是否出現新的觸發點。此外，伊朗媒體還特別注意到特朗普在接受《紐約時報》採訪時的表態變化，放棄了此前要求伊朗“零濃縮”的立場，轉而表示“允許伊朗進行低水平濃縮”。這一變化被解讀為美方在伊朗軍事與外交壓力下的讓步。（CCTV國際時訊）
-
----
-
-### 2026-06-15 20:09:49  #公司
-
-福克斯執行長表示：消費者正越來越傾向於在 Roku 這類他們偏好的平臺上，獲取更簡潔、更統一的使用體驗。
-
----
-
-### 2026-06-15 20:08:21  #公司
-
-【東百集團：擬182.78萬元轉讓子公司100%股權】東百集團公告稱，公司第十二屆董事會第二次會議審議透過《關於轉讓福建東百紅星商業廣場有限公司100%股權的議案》，為推進業務輕資產轉型，全資子公司擬將東百紅星100%股權以182.78萬元轉讓給福建德呈華業商業管理有限公司，後續將根據交割日審計情況調整。該議案尚需提交公司股東會審議。此外，董事會同意於7月1日召開2026年第一次臨時股東會。
-
----
-
-### 2026-06-15 20:08:02  #國際
-
-以色列航空宣佈，自2027年起將在旗下飛機安裝星鏈高速網際網路，旅客可免費使用。
-
----
-
-### 2026-06-15 20:07:20  #公司
-
-據報道，賽富時擬以約 36 億美元收購Fin公司。
-
----
-
-### 2026-06-15 20:06:35  #公司
-
-福克斯執行長表示，與Roku的交易將擴大本集團在媒體增長最快板塊、聯網電視廣告以及訂閱聚合領域的佈局。
-
----
-
-### 2026-06-15 20:06:24  #公司
-
-【特銳德：控股股東部分股份質押及解除質押】特銳德公告稱，近日控股股東德銳投資將其持有的公司部分股份辦理了質押及解除質押業務。本次質押2900萬股，佔其所持股份比例8.70%，佔公司總股本比例2.75%，用於置換前期融資；解除質押4000萬股，佔其所持股份比例12.00%，佔公司總股本比例3.79%。截至公告日，德銳投資累計質押1.20億股，佔其所持公司股份總數的36.04%，佔公司總股本的11.38%。目前控股股東總體質押風險可控。
-
----
-
-### 2026-06-15 20:06:14  #公司
-
-【英聯股份：財務總監黃詠松減持28,800股股份計劃實施完成】英聯股份公告稱，公司財務總監黃詠松曾持有公司股份115,200股，佔剔除回購專用賬戶股份後總股本的0.03%，計劃在2026年4月28日至7月27日期間，透過集中競價方式減持不超28,800股，佔比不超0.01%。截至6月12日，減持計劃已實施完成，減持均價12.98元/股，減持價格區間為11.36 - 15.56元/股。減持後，黃詠松持股86,400股，佔比0.02%。此次減持未違反相關規定，不會對公司治理和經營產生重大影響。
-
----
-
-### 2026-06-15 20:05:09  #MKT News
-
-【SAMR director Luo Wen meets Mongolian deputy prime minister Nomtoibayar】On June 12, SAMR director Luo Wen met visiting Mongolian Deputy Prime Minister Nomtoibayar to discuss cooperation on metrology, standardization and conformity assessment. Both sides agreed to advance legal metrology cooperation, coordinate standards for key traded goods, phase in mutual recognition of conformity assessment, and run proficiency testing and personnel training to facilitate bilateral trade. They signed a metrology cooperation action plan; relevant SAMR department officials attended.
 
 ---

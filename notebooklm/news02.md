@@ -1,7 +1,164 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 02:43:47_
-_本檔包含 3515 則快訊，約 651352 字_
+_更新時間：2026-06-21 03:48:03_
+_本檔包含 3524 則快訊，約 652025 字_
+
+---
+
+### 2026-06-18 18:59:56  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Advances for 5th Day — India’s BSE Sensex closed about 0.3% up at 77,410 on Thursday, marking a fifth straight session of gains, supported by lower crude oil prices and sustained buying across key sectors. Investors weighed the US–Iran interim ceasefire agreement signed overnight against a hawkish tone from the US Federal Reserve, which kept rates unchanged but signaled that further hikes rather than cuts could be on the table later this year. Top gainers were IndiGo, Trent, NTPC, BEL, HDFC Bank, SBI, Power Grid, Adani Ports, Tata Steel, Axis Bank and Sun Pharma. Conversely, Infosys, Tech Mahindra, TCS and HCL Tech were among the major losers.
+
+---
+
+### 2026-06-18 18:59:18  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Hang Seng Index
+
+【ICBC president Liu Jun meets HKEX CEO Chen Yiting】June 17 — Industrial and Commercial Bank of China (ICBC) president Liu Jun met Hong Kong Exchanges and Clearing Group CEO Chen Yiting to discuss support for Hong Kong as an international financial centre, RMB internationalisation and Greater Bay Area development. ICBC highlighted an expanded Hong Kong platform — including ICBC Asia, ICBC International and a Hong Kong foreign‑exchange funds trading centre — and said it will continue to provide cross‑border financing and trading, bond issuance and underwriting, wealth management, brokerage and asset‑allocation services, and to facilitate high‑quality mainland issuers listing in Hong Kong to support opening-up and bolster the city’s IFC status.
+
+---
+
+### 2026-06-18 18:59:10  #其他
+
+日產與英國政府就桑德蘭工廠獲得更多政府援助進行談判。
+
+---
+
+### 2026-06-18 18:59:05  #公司
+
+【銀之傑：選舉卓海杭為董事長】銀之傑(300085.SZ)公告稱，公司第七屆董事會第一次會議選舉卓海杭為董事長，聘任陳向軍為名譽董事長。同時，聘任宋盧亮為總經理兼法定代表人，劉奕為董事會秘書，劉奕、吳旭強、伍嘉祺、楊果為副總經理，張春雷為財務總監，蘇士敏為證券事務代表。上述人員任期三年。
+
+---
+
+### 2026-06-18 18:58:50  #MKT News #Important #WTI #Impact bullish #Brent
+
+Iran state television said vessels transiting the Strait of Hormuz must still coordinate with the Islamic Revolutionary Guard Corps Navy.
+
+---
+
+### 2026-06-18 18:58:47  #公司
+
+【中國工商銀行行長劉珺會見香港交易所集團行政總裁陳翊庭】6月17日，中國工商銀行行長劉珺會見香港交易所集團行政總裁陳翊庭，雙方就支援香港國際金融中心建設、推動人民幣國際化、服務粵港澳大灣區建設等話題進行深入交流。中國工商銀行高度重視並積極服務香港國際金融中心建設，持續加強在港經營佈局，在香港設立工銀亞洲、工銀國際、香港外匯資金交易中心等機構，提供包括跨境投融資及交易、債券發行與承銷、財富管理、證券經紀、資產配置等全面金融解決方案。工商銀行將持續發揮自身優勢，積極服務優質企業赴港上市，為擴大高水平對外開放、鞏固提升香港國際金融中心地位作出更大貢獻。(中國工商銀行官微)
+
+---
+
+### 2026-06-18 18:58:27  #國際
+
+伊朗國家電視臺表示，船舶通行霍爾木茲海峽仍需與伊朗革命衛隊海軍協調進行。
+
+---
+
+### 2026-06-18 18:57:27  #公司
+
+【退市國化：累計回購股份3786.35萬股 佔總股本8.63%】退市國化公告稱，公司擬以自有資金回購股份用於維護公司價值及股東權益，回購比例為5%-10%，回購期限至退市整理期結束。截至2026年6月18日，公司累計回購股份37,863,512股，佔總股本的8.63%，支付總金額6977.00萬元，回購價格1.52-2.25元/股。2026年6月18日，公司回購6,382,330股，佔總股本1.46%，支付金額1210.37萬元。公司股票退市整理期還剩1個交易日。
+
+---
+
+### 2026-06-18 18:57:21  #MKT News #WTI #Impact bearish #Brent
+
+Text of U.S.-Iran memorandum of understanding: the U.S. will unfreeze Iranian funds after the memorandum is signed.
+
+---
+
+### 2026-06-18 18:57:06  #國際
+
+諒解備忘錄一經簽署，美國將解凍伊朗被凍結資金並予以放行。
+
+---
+
+### 2026-06-18 18:57:04  #焦點 #國際
+
+【伊朗總統公佈美伊諒解備忘錄全文】
+主要內容如下：
+1、宣佈在包括黎巴嫩在內的所有戰線立即永久終止軍事行動；承諾自此不再針對彼此發動任何戰爭或軍事行動，不對彼此實施武力威脅或使用武力，保障黎巴嫩的領土完整與主權；
+2、伊朗與美國承諾相互尊重對方主權與領土完整，不干涉對方內部事務；
+3、兩國承諾開展談判、磋商以達成正式最終協議，談判最長時限為60天，經雙方協商一致可延期；
+4、美國立即啟動針對伊朗的海上封鎖解除工作，須在30日內全面終止海上封鎖。封鎖解除期間，航運規模將逐步恢復至戰前伊朗的通航水平。美國同時承諾，在正式最終協議簽署後的30日內，從伊朗周邊地區撤出美方駐軍；
+5、伊朗應盡最大努力安排商船在60天內免費安全通行，航線覆蓋波斯灣至阿曼灣雙向。商船通航即刻啟動；伊朗須在30日內清除相關技術、軍事障礙並完成排雷作業；
+6、美國承諾聯合地區合作方，共同敲定一份雙方認可的實施方案，投入不少於3000億美元用於伊朗的戰後重建與經濟發展；
+7、美國承諾終止針對伊朗的所有型別制裁，涵蓋聯合國安理會相關決議、國際原子能機構理事會決議項下制裁，以及美國所有單邊一級、二級制裁，相關制裁將按照正式最終協議約定的時間表分步解除；
+8、伊朗重申絕不研發、獲取核武器。兩國約定，將按照第七條約定的時間節點，在國際原子能機構監督下，採用在伊朗境內現場低濃稀釋的方式，共同商定庫存濃縮鈾的處置方案；
+9、正式最終協議落地前，兩國同意維持現狀：伊朗維持現有核計劃執行狀態；美國不得新增任何對伊制裁，也不得在中東地區增派軍事力量；
+10、本諒解備忘錄簽署之日起直至制裁全面解除前，美國財政部將核發豁免許可，准許伊朗原油、石油製品及衍生品對外出口，同時放開配套銀行業務、保險、物流運輸等全部相關服務；
+11、美國承諾在本諒解備忘錄落地執行後，解凍並放開伊朗所有被凍結、限制使用的官方資金與資產；
+12、兩國約定設立專項執行監督機制，用於監督本諒解備忘錄以及後續正式最終協議的落地履約情況。
+
+---
+
+### 2026-06-18 18:56:44  #其他
+
+斯塔默發言人：伊美協議是重要進展。
+
+---
+
+### 2026-06-18 18:56:42  #MKT News #Brent #WTI
+
+A UK government spokesman said the UK is still discussing the Strait of Hormuz mission with the US.
+
+---
+
+### 2026-06-18 18:56:33  #MKT News
+
+A UK government spokesperson said the Iran agreement is an important step forward.
+
+---
+
+### 2026-06-18 18:56:32  #其他
+
+斯塔默發言人：英國仍在與美方磋商霍爾木茲海峽部署任務相關事宜。
+
+---
+
+### 2026-06-18 18:56:17  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Text of US–Iran memorandum: US will grant waivers for Iranian crude and oil exports.
+
+---
+
+### 2026-06-18 18:56:09  #國際
+
+諒解備忘錄：美國將對伊朗原油及石油出口發放豁免許可。
+
+---
+
+### 2026-06-18 18:55:53  #公司 #市場
+
+【旭光電子：股價短期漲幅大 提示“可控核聚變”等概念炒作風險】旭光電子公告稱，公司股票於6月11日、17日兩次觸及漲幅異常波動，6月11日至18日累計漲幅達54.34%。截至18日收盤，公司市盈率211.28、市淨率18.01，均高於行業水平。部分媒體將其歸為“可控核聚變”“氮化鋁”概念，但2026年初至今，可控核聚變產品未交付無收入，一季度氮化鋁產品營收佔比約5%，對業績影響小。提醒投資者注意交易風險，理性投資。
+
+---
+
+### 2026-06-18 18:55:45  #公司
+
+【首都線上：擬以2.37億元收購中嘉和信剩餘40%股權】首都線上公告，為進一步落實公司發展戰略，快速拓展市場佈局，公司擬以自有資金或自籌資金人民幣2.37億元收購控股子公司北京中嘉和信通訊技術有限公司剩餘40%的股權。本次交易完成後，公司將直接持有標的公司100%股權。本次交易已經公司第六屆董事會第十八次會議、第六屆董事會2026年第五次獨立董事專門會議、2026年戰略委員會第二次會議審議透過，無需提交公司股東會審議。本次交易設定業績承諾，業績承諾人承諾2026年1月1日至2026年12月31日期間，標的公司實現淨利潤不低於人民幣4200萬元。
+
+---
+
+### 2026-06-18 18:55:36  #市場
+
+紐約期銀日內跌4%，現報68.42美元/盎司。
+
+---
+
+### 2026-06-18 18:55:23  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+Text of US-Iran memorandum of understanding reiterates a commitment not to acquire or develop nuclear weapons.
+
+---
+
+### 2026-06-18 18:55:08  #其他
+
+諒解備忘錄：美伊雙方重申不採購、不研發核武器。
+
+---
+
+### 2026-06-18 18:54:26  #國際
+
+美伊諒解備忘錄文字：伊朗與阿曼將商討霍爾木茲海峽服務的未來管理事宜。
+
+---
+
+### 2026-06-18 18:54:22  #公司 #市場
+
+【兆易創新：股票連續3日漲幅偏離值超20% 提示交易風險】兆易創新公告稱，公司股票於2026年6月16日至18日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，屬於異常波動。經自查，公司生產經營正常，不存在應披露未披露重大事項。控股股東、實控人朱一明及其一致行動人持股比例此前已由7.90%減至7.00%，本次波動期間相關人員無買賣公司股票行為。公司提醒投資者注意交易和行業週期波動風險。
 
 ---
 
@@ -21169,95 +21326,5 @@ Sen. Elizabeth Warren said President Trump's actions have impeded the Fed's abil
 ### 2026-06-17 20:49:57  #MKT News #Market Regions #Greater China #CNH
 
 【Shenwan Hongyuan’s Liu Jian: Top-tier investment banks needed to build a top international financial center】June 17, 2026 — Shenwan Hongyuan chairman Liu Jian said expanding cross-border investment between Shanghai and Hong Kong will reinforce both cities’ international financial center status and accelerate China’s development as a financial power. He said building a top-tier international financial center requires top-tier investment banks and called on securities firms, as core capital-market intermediaries, to pursue four roles in parallel: organiser of cross-border integrated financial services, provider of RMB internationalisation products and services, promoter of international pricing for Chinese assets, and connector of the Belt and Road financial ecosystem. He urged securities firms to adopt a more proactive, professional role in Shanghai–Hong Kong coordination.
-
----
-
-### 2026-06-17 20:49:40  #公司
-
-【申萬宏源劉健：一流國際金融中心建設需要一流投資銀行】6月17日，2026陸家嘴論壇在上海開幕。申萬宏源董事長劉健受邀出席並在“滬港金融協同發展賦能高水平金融開放”環節發表主題演講。劉健表示，滬港兩地跨境投資規模的持續擴大，不僅將助力上海與香港鞏固國際金融中心地位，更對加快建設金融強國具有深遠意義。他強調，一流國際金融中心建設需要一流投資銀行，作為資本市場核心中介機構，證券公司應當四重角色並行發力：跨境綜合金融服務的組織者、人民幣國際化的產品服務商、中國資產國際化定價的推動者、“一帶一路”金融生態的連線者，在滬港協同中發揮更主動、更專業的作用。
-
----
-
-### 2026-06-17 20:49:02  #央行 #國際
-
-伊朗央行行長表示，擴大海運規模、依託俄羅斯開展商品供應已提上日程，同時他強調了發展德黑蘭與莫斯科雙邊經貿往來的重要性。
-
----
-
-### 2026-06-17 20:48:15  #MKT News #Commodities #Industrial Metals
-
-【Nichicon raises prices across aluminum electrolytic capacitor range】Japan's Nichicon said it will raise prices across its aluminum electrolytic capacitor lineup, citing order volumes that have exceeded current production capacity and procurement difficulties for core raw materials amid continued Middle East turmoil, which have driven input costs the company cannot fully absorb.
-
----
-
-### 2026-06-17 20:47:22  #公司 #市場
-
-【蓮花控股：股價異常波動 基本面未發生重大變化】蓮花控股公告稱，6月16日、17日公司股票連續兩個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。自6月4日至17日，公司股價累計漲幅達53.51%，但基本面未發生重大變化。截至公告披露日，公司投資標的大額虧損，2025年伺服器租賃業務收入12187.63萬元，佔總收入3.53%，淨利潤虧損2857.86萬元。經自查，公司、控股股東及實控人不存在應披露未披露重大事項，提醒投資者注意風險。
-
----
-
-### 2026-06-17 20:47:10  #其他
-
-【業內人士：AI並不會完全替代實景拍攝 未來行業將形成AI技術賦能與人影實拍融合共生的全新發展模式】6月17日，本屆電影節上，題材豐富的影片備受矚目，而AI技術的落地應用，正推動影視行業迎來巨大的技術變革。與此同時，版權侵權、創意趨同等現實問題也隨之凸顯。業內人士分析，AI並不會完全替代實景拍攝，未來行業將形成AI技術賦能與人影實拍融合共生的全新發展模式。
-
----
-
-### 2026-06-17 20:46:30  #央行 #國際
-
-【儘管中東局勢樂觀，瑞典央行仍保持警惕】SEB的Amanda Sundstrom寫道，儘管圍繞中東和平協議存在一些樂觀情緒，但瑞典央行傳達的主要資訊仍然是不確定性和警惕。SEB表示，該央行稱中東的最新事態發展並未納入其預測或推理中，但行長Thedeen在新聞釋出會上表示，這些事態發展的“本質“已納入決策考量。瑞典央行暗示，與3月份相比，今年加息的可能性更高，但從更長遠來看，利率路徑僅略有上調。Sundstrom說：“我們仍然認為，到2026年底利率保持不變是最有可能的情境，如果能源價格企穩，2026年加息的可能性可能會進一步下降。”
-
----
-
-### 2026-06-17 20:46:20  #公司 #國際
-
-【鋁電容大廠尼吉康全線漲價】日本鋁電容大廠尼吉康（Nichicon）宣佈，全線調漲鋁電解電容價格，主要原因在於部分產品訂單量已超出公司現有生產能力；且受到中東局勢持續動盪影響，鋁電解電容的核心原材料採購難度加大，公司無法完全消化成本漲幅。
-
----
-
-### 2026-06-17 20:45:56  #公司 #國際
-
-市場訊息：訊息人士表示，七國集團成員國和美國將授權烏克蘭生產遠端導彈和防空系統。該協議將允許烏克蘭在西方授權下擴大武器生產，包括遠端導彈等“縱深打擊”能力。美國公司可以將這些許可證授予歐洲和烏克蘭的製造商。
-
----
-
-### 2026-06-17 20:45:49  #MKT News #Commodities #Energy #Market Regions #Europe & UK #Brent #Impact bearish #GBPUSD
-
-【TD Securities: oil retreat could weaken Bank of England rate-hike expectations】Pooja Kumra at TD Securities said a sharp fall in oil could lower investor expectations for Bank of England rate hikes in the coming months. London Stock Exchange Group data show markets currently price a cumulative 26bp of Bank of England tightening in 2026. Brent crude has slid to about $79.5 per barrel from roughly $95 a week ago after a US‑Iran peace deal.
-
----
-
-### 2026-06-17 20:45:26  #其他
-
-【零跑汽車董事長朱江明：當下AI智駕晶片效能已過剩】6月16日晚，零跑汽車全新C系列SUV上市，C10、C11、C16起售價分別為12.58萬、14.38萬、14.58萬元。該系列升級體現在三電、座艙等方面，輔助駕駛功能有突破。朱江明稱曾率先推晶片，但當下AI智駕晶片效能過剩，應迴歸本質。他表示，零跑做到豐田規模前會聚焦核心零部件和整車產品創新。（21財經）
-
----
-
-### 2026-06-17 20:44:45  #MKT News #Important
-
-Le Parisien reported, citing sources, that G7 members and the US will authorize Ukraine to produce long-range missiles and air-defense systems. The agreement would allow Ukraine to expand weapons production under Western authorization, including long-range deep-strike capabilities. US companies would be permitted to issue licenses to European and Ukrainian manufacturers.
-
----
-
-### 2026-06-17 20:44:44  #國際
-
-【伊媒稱3艘伊朗油輪透過霍爾木茲海峽】據多家伊朗媒體17日報道，隨著美國海上封鎖的解除，3艘載有500萬桶原油的伊朗油輪透過了霍爾木茲海峽。（新華社）
-
----
-
-### 2026-06-17 20:44:35  #央行 #公司 #市場
-
-【道明證券：油價進一步下跌或促使投資者減少對英國基準利率上調的押注】道明證券的Pooja Kumra在一份報告中表示，如果油價大幅下跌，這可能會讓投資者降低對英國央行在未來幾個月加息的預期。倫敦證券交易所集團的資料顯示，市場目前反映了2026年英國基準利率總計上調26個基點的預期。布倫特原油價格已下跌，最新報每桶79.5美元，較一週前美伊和平協議達成前的每桶95美元左右有所回落。
-
----
-
-### 2026-06-17 20:43:34  #公司
-
-【九洲集團：擬對兩家全資子公司減資超4000萬元】九洲集團公告稱，公司於2026年6月17日召開董事會，審議透過對全資子公司大慶銳能、大慶匯能減資的議案。大慶銳能擬減資3870萬元，減資後註冊資本為8230萬元；大慶匯能擬減資400萬元，減資後註冊資本為11700萬元。本次減資不構成關聯交易和重大資產重組，無需股東會審議。減資完成後，兩子公司仍為公司100%持股，不影響合併報表範圍和公司財務經營，也不損害股東利益。
-
----
-
-### 2026-06-17 20:43:32  #MKT News
-
-【Ministry of Water Resources: China to face new round of heavy rainfall from tomorrow】The Ministry of Water Resources said a new round of heavy rainfall begins tomorrow. Significant river rises are expected across multiple basins: Pearl River basin — West River mainstem and tributaries Liujiang, Guijiang and Yujiang; middle–lower Yangtze mainstem and Dongting Lake system — Yuan and Li rivers; Poyang Lake system — Changjiang and Le'an rivers; mid–lower Han River and four rivers in eastern Hubei; upper–middle Huai River mainstem and tributaries Shiguan and Pi rivers; plus Taihu and the Qiantang River. Some small and medium rivers within the heavy-rain areas may experience floods exceeding warning levels.
 
 ---

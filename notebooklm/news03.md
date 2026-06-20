@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 02:43:47_
-_本檔包含 3110 則快訊，約 651545 字_
+_更新時間：2026-06-21 03:48:03_
+_本檔包含 3113 則快訊，約 651582 字_
+
+---
+
+### 2026-06-17 20:49:40  #公司
+
+【申萬宏源劉健：一流國際金融中心建設需要一流投資銀行】6月17日，2026陸家嘴論壇在上海開幕。申萬宏源董事長劉健受邀出席並在“滬港金融協同發展賦能高水平金融開放”環節發表主題演講。劉健表示，滬港兩地跨境投資規模的持續擴大，不僅將助力上海與香港鞏固國際金融中心地位，更對加快建設金融強國具有深遠意義。他強調，一流國際金融中心建設需要一流投資銀行，作為資本市場核心中介機構，證券公司應當四重角色並行發力：跨境綜合金融服務的組織者、人民幣國際化的產品服務商、中國資產國際化定價的推動者、“一帶一路”金融生態的連線者，在滬港協同中發揮更主動、更專業的作用。
+
+---
+
+### 2026-06-17 20:49:02  #央行 #國際
+
+伊朗央行行長表示，擴大海運規模、依託俄羅斯開展商品供應已提上日程，同時他強調了發展德黑蘭與莫斯科雙邊經貿往來的重要性。
+
+---
+
+### 2026-06-17 20:48:15  #MKT News #Commodities #Industrial Metals
+
+【Nichicon raises prices across aluminum electrolytic capacitor range】Japan's Nichicon said it will raise prices across its aluminum electrolytic capacitor lineup, citing order volumes that have exceeded current production capacity and procurement difficulties for core raw materials amid continued Middle East turmoil, which have driven input costs the company cannot fully absorb.
+
+---
+
+### 2026-06-17 20:47:22  #公司 #市場
+
+【蓮花控股：股價異常波動 基本面未發生重大變化】蓮花控股公告稱，6月16日、17日公司股票連續兩個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。自6月4日至17日，公司股價累計漲幅達53.51%，但基本面未發生重大變化。截至公告披露日，公司投資標的大額虧損，2025年伺服器租賃業務收入12187.63萬元，佔總收入3.53%，淨利潤虧損2857.86萬元。經自查，公司、控股股東及實控人不存在應披露未披露重大事項，提醒投資者注意風險。
+
+---
+
+### 2026-06-17 20:47:10  #其他
+
+【業內人士：AI並不會完全替代實景拍攝 未來行業將形成AI技術賦能與人影實拍融合共生的全新發展模式】6月17日，本屆電影節上，題材豐富的影片備受矚目，而AI技術的落地應用，正推動影視行業迎來巨大的技術變革。與此同時，版權侵權、創意趨同等現實問題也隨之凸顯。業內人士分析，AI並不會完全替代實景拍攝，未來行業將形成AI技術賦能與人影實拍融合共生的全新發展模式。
+
+---
+
+### 2026-06-17 20:46:30  #央行 #國際
+
+【儘管中東局勢樂觀，瑞典央行仍保持警惕】SEB的Amanda Sundstrom寫道，儘管圍繞中東和平協議存在一些樂觀情緒，但瑞典央行傳達的主要資訊仍然是不確定性和警惕。SEB表示，該央行稱中東的最新事態發展並未納入其預測或推理中，但行長Thedeen在新聞釋出會上表示，這些事態發展的“本質“已納入決策考量。瑞典央行暗示，與3月份相比，今年加息的可能性更高，但從更長遠來看，利率路徑僅略有上調。Sundstrom說：“我們仍然認為，到2026年底利率保持不變是最有可能的情境，如果能源價格企穩，2026年加息的可能性可能會進一步下降。”
+
+---
+
+### 2026-06-17 20:46:20  #公司 #國際
+
+【鋁電容大廠尼吉康全線漲價】日本鋁電容大廠尼吉康（Nichicon）宣佈，全線調漲鋁電解電容價格，主要原因在於部分產品訂單量已超出公司現有生產能力；且受到中東局勢持續動盪影響，鋁電解電容的核心原材料採購難度加大，公司無法完全消化成本漲幅。
+
+---
+
+### 2026-06-17 20:45:56  #公司 #國際
+
+市場訊息：訊息人士表示，七國集團成員國和美國將授權烏克蘭生產遠端導彈和防空系統。該協議將允許烏克蘭在西方授權下擴大武器生產，包括遠端導彈等“縱深打擊”能力。美國公司可以將這些許可證授予歐洲和烏克蘭的製造商。
+
+---
+
+### 2026-06-17 20:45:49  #MKT News #Commodities #Energy #Market Regions #Europe & UK #Brent #Impact bearish #GBPUSD
+
+【TD Securities: oil retreat could weaken Bank of England rate-hike expectations】Pooja Kumra at TD Securities said a sharp fall in oil could lower investor expectations for Bank of England rate hikes in the coming months. London Stock Exchange Group data show markets currently price a cumulative 26bp of Bank of England tightening in 2026. Brent crude has slid to about $79.5 per barrel from roughly $95 a week ago after a US‑Iran peace deal.
+
+---
+
+### 2026-06-17 20:45:26  #其他
+
+【零跑汽車董事長朱江明：當下AI智駕晶片效能已過剩】6月16日晚，零跑汽車全新C系列SUV上市，C10、C11、C16起售價分別為12.58萬、14.38萬、14.58萬元。該系列升級體現在三電、座艙等方面，輔助駕駛功能有突破。朱江明稱曾率先推晶片，但當下AI智駕晶片效能過剩，應迴歸本質。他表示，零跑做到豐田規模前會聚焦核心零部件和整車產品創新。（21財經）
+
+---
+
+### 2026-06-17 20:44:45  #MKT News #Important
+
+Le Parisien reported, citing sources, that G7 members and the US will authorize Ukraine to produce long-range missiles and air-defense systems. The agreement would allow Ukraine to expand weapons production under Western authorization, including long-range deep-strike capabilities. US companies would be permitted to issue licenses to European and Ukrainian manufacturers.
+
+---
+
+### 2026-06-17 20:44:44  #國際
+
+【伊媒稱3艘伊朗油輪透過霍爾木茲海峽】據多家伊朗媒體17日報道，隨著美國海上封鎖的解除，3艘載有500萬桶原油的伊朗油輪透過了霍爾木茲海峽。（新華社）
+
+---
+
+### 2026-06-17 20:44:35  #央行 #公司 #市場
+
+【道明證券：油價進一步下跌或促使投資者減少對英國基準利率上調的押注】道明證券的Pooja Kumra在一份報告中表示，如果油價大幅下跌，這可能會讓投資者降低對英國央行在未來幾個月加息的預期。倫敦證券交易所集團的資料顯示，市場目前反映了2026年英國基準利率總計上調26個基點的預期。布倫特原油價格已下跌，最新報每桶79.5美元，較一週前美伊和平協議達成前的每桶95美元左右有所回落。
+
+---
+
+### 2026-06-17 20:43:34  #公司
+
+【九洲集團：擬對兩家全資子公司減資超4000萬元】九洲集團公告稱，公司於2026年6月17日召開董事會，審議透過對全資子公司大慶銳能、大慶匯能減資的議案。大慶銳能擬減資3870萬元，減資後註冊資本為8230萬元；大慶匯能擬減資400萬元，減資後註冊資本為11700萬元。本次減資不構成關聯交易和重大資產重組，無需股東會審議。減資完成後，兩子公司仍為公司100%持股，不影響合併報表範圍和公司財務經營，也不損害股東利益。
+
+---
+
+### 2026-06-17 20:43:32  #MKT News
+
+【Ministry of Water Resources: China to face new round of heavy rainfall from tomorrow】The Ministry of Water Resources said a new round of heavy rainfall begins tomorrow. Significant river rises are expected across multiple basins: Pearl River basin — West River mainstem and tributaries Liujiang, Guijiang and Yujiang; middle–lower Yangtze mainstem and Dongting Lake system — Yuan and Li rivers; Poyang Lake system — Changjiang and Le'an rivers; mid–lower Han River and four rivers in eastern Hubei; upper–middle Huai River mainstem and tributaries Shiguan and Pi rivers; plus Taihu and the Qiantang River. Some small and medium rivers within the heavy-rain areas may experience floods exceeding warning levels.
 
 ---
 
@@ -18725,77 +18815,5 @@ HSBC Holdings Stock Price Hits 22-year High — HSBC Holdings shares increased t
 ### 2026-06-16 22:03:07  #公司
 
 賽富時公司：面向Databricks的Data 360功能增強計劃於2026年下半年及以後推出。
-
----
-
-### 2026-06-16 22:03:02  #MKT News #Important #SPCX.O #Impact bullish #MSFT.O #Impact bearish
-
-SpaceX (SPCX.O) extended gains to 15%, lifting its market capitalization above Microsoft (MSFT.O) and making it the world's fourth-largest company by market value.
-
----
-
-### 2026-06-16 22:02:22  #其他
-
-賽富時(CRM.N)：MuleSoft針對Databricks的代理掃描器及基礎資料360零複製功能今日正式全面上市。
-
----
-
-### 2026-06-16 22:01:55  #公司
-
-盛諾集團：最終發售價定為每股H股18.36港元。
-
----
-
-### 2026-06-16 22:01:49  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises on US-Iran Deal Optimism — The S&P/TSX Composite Index gained nearly 0.5% to trade above 35,000 on Tuesday amid optimism over a pending US-Iran peace deal. US President Donald Trump said at the G7 summit that negotiations with Iran had entered a second stage. Oil prices slid as markets weighed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, with RBC up more than 0.6%, TD Bank adding 0.5%, and BMO advancing nearly 1%. Higher gold prices boosted mining shares, with Agnico Eagle and WPM rising more than 1.5% and Barrick gaining over 1%. In contrast, lower oil prices weighed on energy stocks, with Canadian Natural shedding 1.5% and Suncor losing nearly 2%. Meanwhile, home sales rose 5.5% in May while home prices edged lower. Investors are awaiting the US Fed's policy decision on Wednesday, with markets widely expecting interest rates to remain unchanged.
-
----
-
-### 2026-06-16 22:01:38  #公司 #其他 #焦點
-
-SpaceX市值超越微軟，成為全球第四大市值企業。
-
----
-
-### 2026-06-16 22:01:21  #市場
-
-SPACEX股價繼續上漲至15%。
-
----
-
-### 2026-06-16 22:00:21  #MKT News #Market Regions #Greater China
-
-【China silk mills at full capacity; orders booked through end-August】Late-May to mid-June is the concentrated spring cocoon purchase season in Jiangsu and Zhejiang. This year white and colored cocoons posted strong production and sales, with pronounced price dispersion across varieties. Downstream demand, supported by domestic fashion trends, has pushed silk fabric mills to full capacity and left order books filled through the end of August. At Hangzhou China Silk City merchants report strong demand for xiangyunsha, jacquard and Song brocade; one garment buyer says monthly procurement exceeds 100,000 metres and inventory levels fall to roughly 10% after a month. Raw silk prices have eased slightly, but capacity-constrained, technically demanding mulberry-silk fabrics such as xiangyunsha retain pricing power and factory-gate prices have held or risen modestly.
-
----
-
-### 2026-06-16 21:59:18  #其他
-
-【目前絲綢面料企業工廠處於滿負荷生產狀態 訂單已經排到了今年8月底】每年5月下旬至6月中旬，是江浙多地春繭集中開秤收購期，今年白繭、彩色蠶繭產銷兩旺，不同品類價差明顯。今年受到“國潮風”等因素帶動，下游對面料需求增加，目前工廠處於滿負荷生產狀態，訂單已經排到了今年8月底。在絲綢集散地之一的杭州中國絲綢城，許多店鋪裡擺放著香雲紗、提花和宋錦等面料。當地一家服裝企業負責人告訴記者，自己一週會來市場兩到三趟，“我們一般一個月採購10萬米以上，香雲紗為主。現在正旺季，基本上一個月我們就剩下10%左右庫存量。”據這裡的商戶反饋，雖生絲價格有小幅回落，但一些香雲紗等桑蠶絲面料因產能限制、技術要求高，議價空間相對更大。他們目前面料並不愁賣，且出廠價不降反而略漲。 (央視財經)
-
----
-
-### 2026-06-16 21:58:59  #公司
-
-【雄安新區管委會與拼多多集團簽署《數字服務戰略合作框架協議》】6月16日，拼多多集團執行總裁兼新拼姆總裁朱政一行到雄安新區考察調研。河北省委常委，雄安新區黨工委書記、管委會主任張國華與朱政一行舉行工作座談。座談會後，雄安新區管委會與拼多多集團簽署《數字服務戰略合作框架協議》。
-
----
-
-### 2026-06-16 21:56:38  #公司
-
-據港交所檔案：深圳庫博能源股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-16 21:56:32  #MKT News
-
-HKEX filings show Shenzhen Kubo Energy Co. has submitted a listing application.
-
----
-
-### 2026-06-16 21:56:18  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls on Political and Inflation Concerns — The Ibovespa fell about 0.5% to hover near the 169,500 mark on Tuesday as investors digested fresh election polls and rising inflation expectations. According to a BTG/Nexus survey released on Monday, President Lula holds a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation rose for the 14th consecutive week, prompting markets to reassess the duration of the BCB’s easing cycle. Most sectors traded lower. Financial stocks were pressured by concerns over higher borrowing costs, with Bradesco and Itaúsa losing around 0.5%. Petrobras weighed on the index, falling nearly 2% on optimism surrounding a preliminary US-Iran peace agreement that could reopen the Strait of Hormuz. In contrast, Sabesp gained more than 1.5% after announcing that Claudio Kawa Hermolin had assumed leadership of the newly created Customer Experience Division.
 
 ---
