@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-20 08:06:48_
-_本檔包含 3460 則快訊，約 655312 字_
+_更新時間：2026-06-20 08:34:31_
+_本檔包含 3461 則快訊，約 655307 字_
+
+---
+
+### 2026-06-16 18:48:31  #MKT News #Market Themes #The Trump Trade #Market Regions #Europe & UK #S&P500 #Impact bullish #EURUSD #DXY #Impact bearish
+
+【European Parliament approves US-EU trade deal; final EU sign-off expected June 26】The European Parliament on Tuesday approved a US-EU trade agreement, clearing the way for implementation pending final approval by EU member states expected June 26. Under the pact the EU would lift tariffs on US industrial goods and some agricultural products; the US agreed to cap tariffs on EU products at 15%. The vote follows renewed US tariff threats from Trump over France’s digital tax—he warned he would raise US auto tariffs if the EU failed to ratify by July 4. Disputes over metal tariffs and technology regulation remain unresolved and could prompt further escalation.
+
+---
+
+### 2026-06-16 18:48:12  #公司
+
+【中航重機：部分董高增持金額達計劃下限 後續將繼續增持】中航重機公告稱，2025年12月16日至2026年6月16日，公司部分董事及高階管理人員已增持公司股票293,600股，增持金額合計484.18萬元，佔公司總股本0.0189%，已達增持計劃下限430萬元的112.60%。本次增持計劃尚未實施完畢，增持主體後續將按計劃擇機增持。該計劃可能因市場變化、資金未到位等因素延遲或無法實施。
+
+---
+
+### 2026-06-16 18:48:03  #MKT News #Important
+
+Japan Meteorological Agency said Ibaraki Prefecture issued an earthquake early warning; buildings in Tokyo were reported shaking.
+
+---
+
+### 2026-06-16 18:47:45  #國際
+
+日本氣象廳通報：茨城縣發生地震。
+
+---
+
+### 2026-06-16 18:47:27  #公司
+
+【返利科技：籌劃控制權變更 股票6月17日起停牌不超2日】返利科技公告稱，公司實際控制人及其一致行動人葛永昌、隗元元等正在籌劃股份協議轉讓事宜，可能導致公司控制權發生變更。鑑於事項存在重大不確定性，經申請，公司股票於2026年6月17日開市起停牌，預計停牌時間不超過2個交易日。停牌期間，公司將按規定履行資訊披露義務，待事項確定後及時申請復牌。
+
+---
+
+### 2026-06-16 18:47:22  #公司 #國際
+
+特朗普針對anthropic公司的打壓舉措引發美國盟友對人工智慧領域的擔憂。
+
+---
+
+### 2026-06-16 18:46:46  #國際
+
+【被拒籤伊朗代表團成員在墨西哥觀看比賽】伊朗隊本屆世界盃之旅頗為坎坷，不僅需要在駐地和賽場來回奔波，一些代表團成員還遭遇美國拒籤，其中還包括伊朗足協主席邁赫迪·塔傑。當地時間15日，被拒籤無法進入美國的伊朗世界盃代表團成員，在墨西哥蒂華納與當地人士共同觀看伊朗國家隊對陣紐西蘭隊的首場比賽。（央視新聞）
+
+---
+
+### 2026-06-16 18:46:21  #公司 #市場
+
+【勝科奈米：股票交易異常波動 提醒投資者注意風險】勝科奈米公告稱，公司股票在2026年6月15日、6月16日連續兩個交易日收盤價格漲幅偏離值累計達30%，屬異常波動情形。經自查，公司生產經營正常，除已披露的2026年度向特定物件發行股票預案、2026年限制性股票激勵計劃相關事項外，無應披露未披露重大事項。2025年公司淨利潤6187.90萬元，同比降23.78%；2026年一季度淨利潤741.34萬元，同比降35.64%。截至6月16日，公司滾動市盈率401.75倍，顯著高於行業平均，提醒投資者注意風險。
+
+---
+
+### 2026-06-16 18:46:07  #焦點 #國際
+
+【特朗普：美伊協議談判第二階段“更容易”】美國總統特朗普16日稱，美國和伊朗協議談判已進入第二階段，“這應該比第一階段更容易”。特朗普表示，美國不會在伊朗投入任何資金。對他而言“唯一重要的事”是伊朗永遠不會擁有核武器，如果伊朗政府企圖獲取核武器，伊朗將“遭受毀滅性打擊”。（新華社）
+
+---
+
+### 2026-06-16 18:46:03  #MKT News
+
+【Hunan to prioritize future industries, strengthen advantaged sectors and upgrade traditional industries】Hunan provincial party secretary Shen Xiaoming chaired a June 16 planning meeting on industrial development and major project construction, directing the province to plan for future industries, solidify advantaged sectors and upgrade traditional industries to expand industrial capacity. He called for long-term strategic patience and a determined effort to tackle difficulties, better situational and trend analysis to support policy decisions, and fuller use of universities and research institutes to drive industrial innovation. The province will push for return of Hunan entrepreneurs, raise the quality and efficiency of government investment funds, and pursue a dual stock-and-flow approach—spatially prioritizing activation of existing assets while strengthening incremental industrial capacity—to lift economic quality and achieve reasonable scale growth.
+
+---
+
+### 2026-06-16 18:45:41  #其他
+
+德國化學工業協會（VCI）表示：該決定將為共同經濟區帶來更高的規劃確定性。
 
 ---
 
@@ -20809,65 +20875,5 @@ Belgium Trade Surplus Widens in May — Belgium’s trade surplus widened to EUR
 ### 2026-06-15 17:18:17  #公司
 
 【深圳盒馬變更負責人】天眼查 App 顯示，近日，深圳盒馬網路科技有限公司發生工商變更，金甌卸任法定代表人、董事，由廖榜鵬接任。深圳盒馬網路科技有限公司成立於2017年6月，註冊資本5000萬美元，經營範圍包括計算機網路專業領域內的技術開發、技術諮詢及技術服務等。股東資訊顯示，該公司由盒馬（香港）有限公司全資持股。
-
----
-
-### 2026-06-15 17:17:57  #MKT News #Market Themes #AI Revolution
-
-【TrendForce projects CPO/NPO market to top $39 billion by 2030】TrendForce says rapid growth in AI training and inference is driving data centers to higher power, density and larger-scale clusters. Rising energy use from data movement is prompting cloud service providers to elevate interconnect technology to the same strategic level as compute. Interconnect architecture has become a key determinant of AI-factory expansion speed, energy efficiency and supply-chain control. TrendForce forecasts the co‑packaged optics (CPO) and near‑packaged optics (NPO) market will jump from roughly $100 million in 2025 to more than $39 billion by 2030.
-
----
-
-### 2026-06-15 17:17:54  #MKT News #Nasdaq100 #Impact bullish
-
-【TrendForce estimates CPO/NPO market to exceed $39 bln by 2030】TrendForce's latest silicon photonics research says rapid expansion in AI training and inference is driving data centers toward higher power, density and larger-scale clusters, boosting energy costs from data movement and prompting cloud service providers to elevate interconnect technology to strategic parity with compute. TrendForce warns interconnect architecture is now a key determinant of AI-factory expansion speed, energy efficiency and supply-chain control, and forecasts co-packaged optics (CPO) and near-package optics (NPO) market value to jump from roughly $100 mln in 2025 to more than $39 bln by 2030.
-
----
-
-### 2026-06-15 17:17:49  #公司
-
-【新諾威：1類治療用生物製品SYS6041獲藥物臨床試驗批准】新諾威公告，其控股子公司石藥集團巨石生物製藥有限公司於近日收到國家藥品監督管理局核准簽發關於SYS6041（葉酸受體ADC）的《藥物臨床試驗批准通知書》，將於近期開展臨床試驗。本次獲批的SYS6041聯合用藥臨床試驗探索研究，將用於治療卵巢癌。
-
----
-
-### 2026-06-15 17:17:38  #公司
-
-【偉明環保：獲中信銀行溫州分行不超1.5億元回購貸款承諾】偉明環保公告稱，公司於2026年6月12日審議透過股份回購方案，擬以1.5億-3億元自有和/或自籌資金回購股份用於轉換可轉債，回購價不超20元/股，期限12個月。近日，公司獲中信銀行溫州分行《貸款承諾函》，承諾貸款額度不超1.5億元，期限不超36個月，專項用於回購股票。具體貸款以合同為準，不代表對回購金額的承諾。
-
----
-
-### 2026-06-15 17:17:28  #其他
-
-坦尚尼亞2026至2027年度貨幣政策立場將收緊。
-
----
-
-### 2026-06-15 17:17:06  #其他
-
-【集邦諮詢：預估2030年CPO/NPO市場規模將破390億美元】根據TrendForce集邦諮詢最新矽光子產業研究，隨著AI訓練與推理需求快速擴張，AI資料中心正朝更高功耗、密度與更大規模叢集演進。資料搬運帶來的大量能源消耗問題，促使雲端服務供應商（CSP）提升互連技術至與運算技術同等的戰略位階。互連架構已成決定AI Factory擴張速度、能源效率與供應鏈掌控能力的關鍵戰略資產，因此，TrendForce集邦諮詢預估CPO（共封裝光學）／NPO（近封裝光學）市場規模將大幅成長，自2025年約1億美元，躍升至2030年的390億美元以上。
-
----
-
-### 2026-06-15 17:15:24  #央行 #其他
-
-羅馬尼亞央行資料顯示：今年1-4月經常賬戶赤字收窄至79.8億歐元，去年同期修正後赤字為91億歐元。
-
----
-
-### 2026-06-15 17:15:13  #公司 #市場
-
-【*ST威領：股票交易異常波動 控制權變更事項終止】*ST威領公告稱，公司股票連續2個交易日（2026年6月12日、6月15日）日收盤價格跌幅累計偏離值達12%，屬異常波動。公司2025年度經審計歸母淨資產為負，股票被實施退市風險警示和其他風險警示，簡稱變更為“*ST威領”。6月12日，控股股東上海領億收到解除《股份轉讓協議》的函，控制權擬變更事項終止。公司生產經營正常，不存在應披露未披露事項，提醒投資者注意風險。
-
----
-
-### 2026-06-15 17:15:06  #公司
-
-【*ST瑞茂：控股股東55444.33萬股股份被輪候凍結】*ST瑞茂公告稱，公司控股股東鄭州瑞茂通持有公司股份554,443,265股，佔總股本51.02%，本次被輪候凍結股份554,443,265股，佔其所持股份100%，佔總股本51.02%。截至公告披露日，鄭州瑞茂通及其一致行動人累計被輪候凍結股份13,690,518,369股，佔其所持股份1988.83%，佔總股本1259.91%。鄭州瑞茂通因逾期問題涉訴或仲裁糾紛正協商。本次輪候凍結暫不影響公司控制權等，但後續處置或影響控制權穩定性。
-
----
-
-### 2026-06-15 17:14:37  #公司
-
-【南方航空：2026年5月旅客週轉量253.45億客公里，同比降4.20%】南方航空公告，2026年5月客運運力投入（ASK）299.28億座公里，同比下降2.85%；旅客週轉量（RPK）253.45億客公里，同比下降4.20%；客座率84.69%，同比下降1.19個百分點。貨運方面，貨郵週轉量8.5億噸公里，同比下降0.03%；貨郵載運率55.44%，同比上升1.31個百分點。2026年累計，客運運力投入1623.28億座公里，同比增長5.08%；旅客週轉量1379.76億客公里，同比增長4.43%；客座率85.00%，同比下降0.53個百分點。此外，5月引進5架飛機，退出2架，期末合計運營969架。
 
 ---

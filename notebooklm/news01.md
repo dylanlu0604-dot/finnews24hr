@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-20 08:06:48_
-_本檔包含 3810 則快訊，約 655327 字_
+_更新時間：2026-06-20 08:34:31_
+_本檔包含 3807 則快訊，約 655218 字_
+
+---
+
+### 2026-06-20 08:32:31  #國際
+
+【今年第7號颱風“米克拉”生成】據中央氣象臺訊息，今年第7號颱風“米克拉”生成！（英文名稱：Mekkhala；名字來源：泰國；名稱意義：雷電天使）。預計，“米克拉”將以每小時15～20公里左右的速度向西偏北方向移動，強度逐漸增強。
+
+---
+
+### 2026-06-20 08:30:05  #國際
+
+市場訊息：巴基斯坦內政部長將前往德黑蘭與伊朗官員會面。
+
+---
+
+### 2026-06-20 08:29:41  #MKT News
+
+Al Arabiya reports Pakistan's interior minister will travel to Tehran to meet Iranian officials.
+
+---
+
+### 2026-06-20 08:25:55  #公司
+
+【銀聯國際與哈薩克國家支付公司達成跨境二維碼互聯互通合作】6月18日，銀聯國際在上海正式宣佈，與哈薩克國家支付公司（NPCK）達成跨境二維碼互聯互通合作，共同推動全球銀聯合作錢包在哈薩克國家統一二維碼受理商戶掃碼支付。銀聯國際執行長王立新、NPCK執行長Zhanar Samayeva簽署合作備忘錄。NPCK是哈薩克中央銀行下屬唯一法定本地交易轉接網路，負責國家統一二維碼支付系統的建設運營工作。此次合作落地後，雲閃付APP及全球銀聯合作錢包使用者前往哈薩克旅行消費時，均可在當地國家統一二維碼網路覆蓋的數百萬家商戶直接掃碼支付。
+
+---
+
+### 2026-06-20 08:23:40  #其他
+
+【交通運輸部等八部門印發《都市圈城際通勤效率提升工程實施方案（2026~2030）》，力爭三年內主要都市圈內具備1小時通勤條件人口的覆蓋率達到73%】交通運輸部、國家發展改革委等八部門聯合印發《都市圈城際通勤效率提升工程實施方案（2026~2030）》，根據該方案，要力爭透過3年時間，主要都市圈內具備1小時通勤條件人口的覆蓋率達到73%，城際綜合通勤廊道交通供給能力穩步提升，其中京津冀、長三角、粵港澳大灣區等區域都市圈通勤交通條件明顯改善。（工人日報）
+
+---
+
+### 2026-06-20 08:22:57  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Houthi official urges US to change aggressive Middle East strategy】Ali Dailami, a political bureau member of Yemen’s Houthi movement, welcomed a US‑Iran first‑phase memorandum of understanding and urged the United States to abandon its aggressive Middle East strategy. He said the Houthis expect the US to respect the MOU and warned they would act if Gaza or Lebanon face another open invasion. Dailami called for a new, region‑led security order in the Red Sea to protect neighboring states’ interests and counter US dominance.
+
+---
+
+### 2026-06-20 08:21:26  #國際
+
+【胡塞武裝高官：美國應徹底改變在中東的侵略性戰略】葉門胡塞武裝政治局成員阿里·達伊拉米在接受總檯採訪時表示，胡塞武裝對美伊簽署第一階段諒解備忘錄表示歡迎，他呼籲美國以此為契機，徹底改變其在中東的侵略性戰略。（央視新聞）
+
+---
+
+### 2026-06-20 08:21:07  #MKT News
+
+ABC News reports Australia has confirmed its first H5 avian influenza case.
+
+---
+
+### 2026-06-20 08:20:44  #MKT News #Commodities #Energy
+
+【Dadu River Jinchuan hydropower plant reaches full-capacity operation】China Energy said on the 20th the final generating unit at the Jinchuan hydropower plant on the Dadu River in Jinchuan County, Aba Prefecture, Sichuan, was synchronized to the grid, marking full-capacity commissioning. The plant has four turbine-generators of 215 MW each for a total installed capacity of 860 MW and is listed as a key national energy construction project.
+
+---
+
+### 2026-06-20 08:19:32  #MKT News #Important
+
+【Report: Iran foreign minister may travel to Switzerland before Saturday; U.S. envoy en route】Axios reported a U.S. official said U.S. special envoy Witkoff is en route to Switzerland and that Kushner is already there. People familiar said Iran foreign minister Araghchi plans to travel to Switzerland on Saturday but the plan could change. Araghchi told several foreign ministers a Lebanon ceasefire is vital to Iran and decisive for U.S.-Iran talks; Iran wants to see a ceasefire implemented before traveling. The source said negotiations therefore may not begin before Monday, though the timetable remains tentative.
+
+---
+
+### 2026-06-20 08:15:14  #其他
+
+【航行警告 北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，6月22日12時至14時，北部灣部分海域進行軍事訓練，禁止船舶駛入。
+
+---
+
+### 2026-06-20 08:13:32  #公司
+
+市場訊息：亞馬遜電影部門放棄拍攝關於OpenAI的電影。
 
 ---
 
@@ -22895,95 +22967,5 @@ Israeli media Maariv reports Israeli officials fear President Trump’s pressure
 ### 2026-06-18 16:46:07  #國際
 
 【滯留波斯灣原油即將大量釋放 亞洲煉廠或被供應“淹沒”】一大波此前被困在霍爾木茲海峽內的原油即將湧入亞洲市場，令這個原本在過去幾周成功彌補供應缺口的地區突然面臨供應過剩的局面。根據Signal Group的資料，目前約有31艘超大型油輪滯留在波斯灣內，這些油輪總計可運輸約6200萬桶原油。一旦海峽重新開放，它們將陸續啟航。不過，實際數量可能還要更多，因為部分船隻可能關閉了衛星定位應答器。在美國與伊朗簽署一項臨時協議、霍爾木茲海峽將恢復通航之後，這波原油最早可能很快就會開始流出。運往印度大約需要一週時間，運往東亞則需要約三週。然而，這批原油抵達的時機並不理想。知情交易員表示，由於近期為了應對中東供應中斷的風險，亞洲煉油廠已經積極採購替代貨源，因此本月和下個月的原油供應其實已經相當充足。與此同時，高油價抑制了成品油需求，煉油廠也因此下調了開工率。
-
----
-
-### 2026-06-18 16:45:36  #其他
-
-【白象食品上海研發中心正式啟用，主攻前沿基礎研究】白象食品上海研發中心近日正式投入使用。該中心建築面積約 2800平方米，主攻前沿基礎研究，與以應用研究為核心的鄭州研發中心優勢互補。據悉，白象上海研發中心不僅可支撐方便速食、面製品、飲品、速凍、調味品、休閒食品等全品類產品的開發需求，還深度承接航天食品、特種食品等的聯合研發工作。
-
----
-
-### 2026-06-18 16:45:09  #公司 #國際
-
-【甘李藥業：甘精胰島素注射液（預填充筆）獲得阿聯酋藥品註冊批件】甘李藥業公告，近日，歐洲全資子公司甘李藥業歐洲有限責任公司收到阿拉伯聯合大公國藥品管理局核准簽發的甘精胰島素注射液（預填充筆）註冊批件（批件號：75391-1572-221797-C1）。藥品名稱為Basalin®，適應症為糖尿病，劑型為注射劑，規格為3ml：100units/ml（預填充）。甘精胰島素為基礎長效胰島素，每天皮下注射一次，降糖作用時間持續24小時。
-
----
-
-### 2026-06-18 16:44:50  #公司 #國際
-
-克里姆林宮外交政策顧問（談及歐盟對美國總統特朗普的影響）：美國總統特朗普是一位強有力的政治家，他堅持自己的觀點。；七國集團的歐盟領導人堅持認為烏克蘭戰爭應繼續。
-
----
-
-### 2026-06-18 16:44:31  #MKT News
-
-Israel's foreign minister said he had no choice but to sever all contact with EU high representative for foreign affairs and security policy kallas until she retracts what he described as her bloody slander of the world's only Jewish state.
-
----
-
-### 2026-06-18 16:44:11  #市場
-
-南非主要股指下跌1.1%，至114,792.70。
-
----
-
-### 2026-06-18 16:43:54  #公司
-
-【宿遷聯盛：擬1000萬元合資設立公司 面臨多項風險】宿遷聯盛公告稱，公司擬與朱蓉輝、匯智光芯共同出資1000萬元設立江蘇光銦半導體有限公司，從事磷化銦襯底的研發和生產銷售。公司出資700萬元，持股70%。該事項已透過董事會審議，尚需股東會透過。此次投資系戰略延伸，短期內不影響業績。不過，合作面臨合作方財務、智慧財產權、技術能力、市場競爭等風險，專案建設也可能延期，甚至整體失敗。
-
----
-
-### 2026-06-18 16:43:11  #公司 #市場 #國際
-
-【500萬億韓元退休年金入市】全球資本市場今年最魔幻的行情，在韓國上演了。18日，韓國綜合股價指數（KOSPI）首次站上9000點新關口，而上次突破8000點僅在一個多月前。據韓聯社報道，預託資產（投資者託管在證券公司賬戶內的全部資產總額）在10萬韓元（約444.7元）以上，且最近6個月內有過一次以上交易的股票交易活躍賬戶，今年初已突破1億個。規模達500萬億韓元的退休年金，也正從銀行和保險公司向證券公司轉移。據韓國統計廳資料，截至2024年11月，韓國總人口約5180.6萬人，這意味著平均每個韓國人擁有約兩個股票賬戶。在提醒投資者警惕市場過熱的同時，多家韓國機構和國際投行均認為KOSPI有望突破萬點。（中新經緯）
-
----
-
-### 2026-06-18 16:43:05  #MKT News
-
-A Kremlin foreign policy adviser, discussing the EU's influence on U.S. President Trump, said he is a strong politician who sticks to his views.
-
----
-
-### 2026-06-18 16:43:03  #公司
-
-【斯瑞新材：投資9.19億元建設“電熱功能材料研發製造基地建設專案”】斯瑞新材公告，公司第四屆董事會第十二次會議審議透過了《關於投資建設“電熱功能材料研發製造基地建設專案”的議案》。專案總投資9.19億元，包括“4000萬件光模組晶片基座及殼體材料專案”擬投資4.79億元，“1290噸高壓開關觸頭及零元件專案”擬投資4.4億元。專案建設期5年，預計2030年12月達到可使用狀態。專案資金來源為公司自籌資金，尚需履行專案用地、備案、環評、能評等行政審批手續。
-
----
-
-### 2026-06-18 16:43:01  #其他
-
-【水利部啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，6月18日至25日，江淮、江南北部西部及湖北等地將持續出現大到暴雨，部分地區將有大暴雨。暴雨區內貴州都柳江、烏江支流野紀河，安徽水陽江，湖北府澴河支流澴水等部分河流可能發生超警以上洪水。水利部針對安徽、江西、湖北、湖南、貴州等5省啟動洪水防禦Ⅳ級應急響應，並派出3個工作組赴貴州、湖北、湖南省一線協助指導暴雨洪水防禦工作。（央視新聞）
-
----
-
-### 2026-06-18 16:42:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-The Kremlin's foreign-policy adviser said EU leaders at the G7 insist the war in Ukraine should continue.
-
----
-
-### 2026-06-18 16:42:45  #MKT News #Macro & Rates
-
-Swiss National Bank chairman says there is currently no need to take action on interest rates.
-
----
-
-### 2026-06-18 16:42:26  #公司
-
-【三環集團：確定H股全球發售及在港上市相關事宜】三環集團公告稱，公司第十一屆董事會第二十次會議於2026年6月18日召開，審議透過《關於確定公司H股全球發售及在香港聯合交易所有限公司主機板上市相關事宜的議案》，同意H股全球發售相關安排等；還透過《關於修改<公司章程(草案)>的議案》及《關於制定H股發行並上市後適用的董事會專門委員會工作細則的議案》。根據2025年第一次臨時股東大會授權，上述議案均無需提交公司股東會審議。
-
----
-
-### 2026-06-18 16:42:13  #公司
-
-【我武生物：貓毛膜劑臨床試驗申請獲受理】我武生物公告，日前，公司獲得國家藥品監督管理局發出的《受理通知書》，由公司提交的“貓毛膜劑”藥物臨床試驗申請已獲得正式受理。貓毛膜劑為治療用生物製品1類，適應症為作為特異性免疫治療方式，用於貓毛皮屑致敏相關的變應性鼻炎（伴或不伴過敏性結膜炎、過敏性哮喘）的成人患者。藥品註冊申請人即為浙江我武生物科技股份有限公司。根據《藥品註冊管理辦法》的規定，藥品審評中心將對已受理的藥物臨床試驗申請進行審評，決定是否同意開展，並透過藥品審評中心網站通知申請人審批結果。
-
----
-
-### 2026-06-18 16:42:02  #公司
-
-【上海銀行董事長顧建忠：重構綠色資金配置尺度 培育“硬綠核”企業】主題為“全球治理框架下的可持續金融創新與合作”的2026陸家嘴論壇全體大會八6月18日舉行。上海銀行股份有限公司董事長顧建忠表示，綠色金融作為可持續金融的重要內容，已從規模擴張的“上半場”，逐步走向質量提升的“下半場”。商業銀行加大了將“技術先進性”和“減排實效性”作為綠色資金配置重要參考尺度的力度，以更好地引導資金向真正有核心技術支撐、有真實轉型需求的企業集聚，從而真正培育出一批擁有自主智慧財產權、掌握自主核心技術、具備全球競爭實力的“硬綠核”企業。
 
 ---

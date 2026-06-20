@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-20 08:06:48_
-_本檔包含 3563 則快訊，約 655262 字_
+_更新時間：2026-06-20 08:34:31_
+_本檔包含 3562 則快訊，約 655205 字_
+
+---
+
+### 2026-06-18 16:45:36  #其他
+
+【白象食品上海研發中心正式啟用，主攻前沿基礎研究】白象食品上海研發中心近日正式投入使用。該中心建築面積約 2800平方米，主攻前沿基礎研究，與以應用研究為核心的鄭州研發中心優勢互補。據悉，白象上海研發中心不僅可支撐方便速食、面製品、飲品、速凍、調味品、休閒食品等全品類產品的開發需求，還深度承接航天食品、特種食品等的聯合研發工作。
+
+---
+
+### 2026-06-18 16:45:09  #公司 #國際
+
+【甘李藥業：甘精胰島素注射液（預填充筆）獲得阿聯酋藥品註冊批件】甘李藥業公告，近日，歐洲全資子公司甘李藥業歐洲有限責任公司收到阿拉伯聯合大公國藥品管理局核准簽發的甘精胰島素注射液（預填充筆）註冊批件（批件號：75391-1572-221797-C1）。藥品名稱為Basalin®，適應症為糖尿病，劑型為注射劑，規格為3ml：100units/ml（預填充）。甘精胰島素為基礎長效胰島素，每天皮下注射一次，降糖作用時間持續24小時。
+
+---
+
+### 2026-06-18 16:44:50  #公司 #國際
+
+克里姆林宮外交政策顧問（談及歐盟對美國總統特朗普的影響）：美國總統特朗普是一位強有力的政治家，他堅持自己的觀點。；七國集團的歐盟領導人堅持認為烏克蘭戰爭應繼續。
+
+---
+
+### 2026-06-18 16:44:31  #MKT News
+
+Israel's foreign minister said he had no choice but to sever all contact with EU high representative for foreign affairs and security policy kallas until she retracts what he described as her bloody slander of the world's only Jewish state.
+
+---
+
+### 2026-06-18 16:44:11  #市場
+
+南非主要股指下跌1.1%，至114,792.70。
+
+---
+
+### 2026-06-18 16:43:54  #公司
+
+【宿遷聯盛：擬1000萬元合資設立公司 面臨多項風險】宿遷聯盛公告稱，公司擬與朱蓉輝、匯智光芯共同出資1000萬元設立江蘇光銦半導體有限公司，從事磷化銦襯底的研發和生產銷售。公司出資700萬元，持股70%。該事項已透過董事會審議，尚需股東會透過。此次投資系戰略延伸，短期內不影響業績。不過，合作面臨合作方財務、智慧財產權、技術能力、市場競爭等風險，專案建設也可能延期，甚至整體失敗。
+
+---
+
+### 2026-06-18 16:43:11  #公司 #市場 #國際
+
+【500萬億韓元退休年金入市】全球資本市場今年最魔幻的行情，在韓國上演了。18日，韓國綜合股價指數（KOSPI）首次站上9000點新關口，而上次突破8000點僅在一個多月前。據韓聯社報道，預託資產（投資者託管在證券公司賬戶內的全部資產總額）在10萬韓元（約444.7元）以上，且最近6個月內有過一次以上交易的股票交易活躍賬戶，今年初已突破1億個。規模達500萬億韓元的退休年金，也正從銀行和保險公司向證券公司轉移。據韓國統計廳資料，截至2024年11月，韓國總人口約5180.6萬人，這意味著平均每個韓國人擁有約兩個股票賬戶。在提醒投資者警惕市場過熱的同時，多家韓國機構和國際投行均認為KOSPI有望突破萬點。（中新經緯）
+
+---
+
+### 2026-06-18 16:43:05  #MKT News
+
+A Kremlin foreign policy adviser, discussing the EU's influence on U.S. President Trump, said he is a strong politician who sticks to his views.
+
+---
+
+### 2026-06-18 16:43:03  #公司
+
+【斯瑞新材：投資9.19億元建設“電熱功能材料研發製造基地建設專案”】斯瑞新材公告，公司第四屆董事會第十二次會議審議透過了《關於投資建設“電熱功能材料研發製造基地建設專案”的議案》。專案總投資9.19億元，包括“4000萬件光模組晶片基座及殼體材料專案”擬投資4.79億元，“1290噸高壓開關觸頭及零元件專案”擬投資4.4億元。專案建設期5年，預計2030年12月達到可使用狀態。專案資金來源為公司自籌資金，尚需履行專案用地、備案、環評、能評等行政審批手續。
+
+---
+
+### 2026-06-18 16:43:01  #其他
+
+【水利部啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，6月18日至25日，江淮、江南北部西部及湖北等地將持續出現大到暴雨，部分地區將有大暴雨。暴雨區內貴州都柳江、烏江支流野紀河，安徽水陽江，湖北府澴河支流澴水等部分河流可能發生超警以上洪水。水利部針對安徽、江西、湖北、湖南、貴州等5省啟動洪水防禦Ⅳ級應急響應，並派出3個工作組赴貴州、湖北、湖南省一線協助指導暴雨洪水防禦工作。（央視新聞）
+
+---
+
+### 2026-06-18 16:42:54  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+The Kremlin's foreign-policy adviser said EU leaders at the G7 insist the war in Ukraine should continue.
+
+---
+
+### 2026-06-18 16:42:45  #MKT News #Macro & Rates
+
+Swiss National Bank chairman says there is currently no need to take action on interest rates.
+
+---
+
+### 2026-06-18 16:42:26  #公司
+
+【三環集團：確定H股全球發售及在港上市相關事宜】三環集團公告稱，公司第十一屆董事會第二十次會議於2026年6月18日召開，審議透過《關於確定公司H股全球發售及在香港聯合交易所有限公司主機板上市相關事宜的議案》，同意H股全球發售相關安排等；還透過《關於修改<公司章程(草案)>的議案》及《關於制定H股發行並上市後適用的董事會專門委員會工作細則的議案》。根據2025年第一次臨時股東大會授權，上述議案均無需提交公司股東會審議。
+
+---
+
+### 2026-06-18 16:42:13  #公司
+
+【我武生物：貓毛膜劑臨床試驗申請獲受理】我武生物公告，日前，公司獲得國家藥品監督管理局發出的《受理通知書》，由公司提交的“貓毛膜劑”藥物臨床試驗申請已獲得正式受理。貓毛膜劑為治療用生物製品1類，適應症為作為特異性免疫治療方式，用於貓毛皮屑致敏相關的變應性鼻炎（伴或不伴過敏性結膜炎、過敏性哮喘）的成人患者。藥品註冊申請人即為浙江我武生物科技股份有限公司。根據《藥品註冊管理辦法》的規定，藥品審評中心將對已受理的藥物臨床試驗申請進行審評，決定是否同意開展，並透過藥品審評中心網站通知申請人審批結果。
+
+---
+
+### 2026-06-18 16:42:02  #公司
+
+【上海銀行董事長顧建忠：重構綠色資金配置尺度 培育“硬綠核”企業】主題為“全球治理框架下的可持續金融創新與合作”的2026陸家嘴論壇全體大會八6月18日舉行。上海銀行股份有限公司董事長顧建忠表示，綠色金融作為可持續金融的重要內容，已從規模擴張的“上半場”，逐步走向質量提升的“下半場”。商業銀行加大了將“技術先進性”和“減排實效性”作為綠色資金配置重要參考尺度的力度，以更好地引導資金向真正有核心技術支撐、有真實轉型需求的企業集聚，從而真正培育出一批擁有自主智慧財產權、掌握自主核心技術、具備全球競爭實力的“硬綠核”企業。
 
 ---
 
@@ -21457,101 +21547,5 @@ Putin has arrived in Kazan and will attend the Russia-ASEAN summit.
 ### 2026-06-17 18:04:58  #MKT News
 
 Israeli military says hostile airborne-object alert activated in northern Israel.
-
----
-
-### 2026-06-17 18:04:28  #其他
-
-【火山引擎Kickart 3.0正式釋出】6月17日，據火山引擎訊息，火山引擎一站式營銷創作平臺Kickart 3.0（原“創作Agent”）正式上線。據介紹，Kickart 3.0全面升級為“對話式影片生成”模式，使用者可以在多輪對話中，靈活調整商品圖、故事板、廣告角色和場景圖等，透過自然語言生成營銷影片。
-
----
-
-### 2026-06-17 18:04:15  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-TotalEnergies CEO said restoring Qatari LNG supply is urgent; otherwise, with winter approaching, gas price falls are unlikely to be as sharp as oil price declines.
-
----
-
-### 2026-06-17 18:04:09  #公司
-
-道達爾能源執行長：目前緊急需要確保卡達液化天然氣供應恢復，否則進入冬季後，天然氣價格降幅將不及油價。
-
----
-
-### 2026-06-17 18:04:06  #國際
-
-以色列國防軍發言人：此前扎裡特地區拉響敵方飛行器入侵警報，經核實，此次屬於誤判。
-
----
-
-### 2026-06-17 18:04:03  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-TotalEnergies' CEO said U.S. LNG output increases are helpful but cannot replace Qatar's supply to Europe this coming winter.
-
----
-
-### 2026-06-17 18:03:51  #公司 #國際
-
-道達爾能源執行長：美國液化天然氣產量提升對此有所助力，但明年冬天無法替代卡達對歐洲的供應。
-
----
-
-### 2026-06-17 18:03:45  #行業
-
-【德勤：今年上半年A股預計70只新股上市 合計募資693億元】6月17日，德勤中國發布《2026年中國內地和香港新股市場中期回顧與展望》報告。報告顯示，2026年上半年A股預計有70只新股上市，合計融資693億元。對比2025年上半年51只新股、573億元融資規模，新股數量同比上升37%，融資金額同比增長約21%。
-
----
-
-### 2026-06-17 18:03:33  #MKT News #CSI300 #Impact mixed #SSE Composite #SZSE Component
-
-【Deloitte China: 70 A-share IPOs expected in 1H2026, raising 69.3 bln yuan】Deloitte China on June 17 said in its 2026 mid-year review that the A-share market is expected to see 70 new listings in 1H2026, raising 69.3 bln yuan. That compares with 51 listings and 57.3 bln yuan in 1H2025 — listings +37% YoY, proceeds up about 21% YoY.
-
----
-
-### 2026-06-17 18:02:31  #國際
-
-【俄媒：烏軍襲擊一輛載有白俄羅斯兒童足球隊的巴士，致1死6傷】綜合塔斯社等媒體17日最新報道，烏克蘭軍隊使用無人機在俄羅斯布良斯克州對一輛巴士發動襲擊，造成1名女性死亡。另有6人受傷，其中包括4名兒童。（環球網）
-
----
-
-### 2026-06-17 18:02:20  #MKT News
-
-【CCB's Zhang Yi: Bank-linked capital gaining weight in China's equity investment market】On June 17 at the 2026 Lujiazui Forum, China Construction Bank president Zhang Yi said China's equity investment market shows three features: last year over 50% of invested companies were hard‑tech; state‑backed capital is rapidly expanding in scale, participant types and capital forms and is strengthening its market position—supporting national industrial policy and supplying long‑term, patient capital; and bank‑affiliated equity investors, aided by policy support, saw a noticeable increase in investment last year. He noted banks' overall equity investment amounts remain small but have become a non‑negligible source of capital.
-
----
-
-### 2026-06-17 18:01:50  #市場 #國際
-
-印度盧比<INR=IN>收盤變動微乎其微，報1美元兌94.5250盧比；前收盤價為94.56。
-
----
-
-### 2026-06-17 18:01:14  #市場 #國際
-
-泰國證交所綜合指數收盤微幅波動，報 1587.07 點。
-
----
-
-### 2026-06-17 18:00:55  #公司
-
-Ouster與AIM智慧機器公司宣佈達成戰略協議，將數字鐳射雷達用於搭載人工智慧的重型土方工程裝置，該合作是在推出自帶原生色彩功能的Rev8產品之後達成的。
-
----
-
-### 2026-06-17 18:00:41  #國際
-
-印度 Nifty 50 指數 (.NSEI) 收漲 0.39%。
-
----
-
-### 2026-06-17 18:00:28  #MKT News #Market Themes #The Trump Trade
-
-【Trump arrives nearly an hour late to G7 leaders' session, jokes 'I'm the boss'】U.S. President Trump arrived nearly an hour late to a morning leaders' session at the G7 summit in Evian-les-Bains. French President Macron had already opened the meeting and U.S. Treasury Secretary Bessent was seated in the chair marked for Trump. On entering, Trump walked to the table and said I am the boss. He then addressed the media, asking do you want to stay and sit in on the meeting? I have no objection, after which French hosts quickly asked journalists to leave the room.
-
----
-
-### 2026-06-17 18:00:23  #宏觀 #國際
-
-【王毅：中國願同各國一道重振聯合國壯大聯合國】中共中央政治局委員、外交部長王毅6月17日在國新辦新聞釋出會上表示，作為第一個在聯合國憲章上簽字的國家，中國責無旁貸，願透過全球治理倡議維護聯合國權威，同各國一道重振聯合國、壯大聯合國。（新華社）
 
 ---

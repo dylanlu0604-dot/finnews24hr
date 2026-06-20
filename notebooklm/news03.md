@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-20 08:06:48_
-_本檔包含 3204 則快訊，約 655185 字_
+_更新時間：2026-06-20 08:34:31_
+_本檔包含 3209 則快訊，約 655190 字_
+
+---
+
+### 2026-06-17 18:04:28  #其他
+
+【火山引擎Kickart 3.0正式釋出】6月17日，據火山引擎訊息，火山引擎一站式營銷創作平臺Kickart 3.0（原“創作Agent”）正式上線。據介紹，Kickart 3.0全面升級為“對話式影片生成”模式，使用者可以在多輪對話中，靈活調整商品圖、故事板、廣告角色和場景圖等，透過自然語言生成營銷影片。
+
+---
+
+### 2026-06-17 18:04:15  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+TotalEnergies CEO said restoring Qatari LNG supply is urgent; otherwise, with winter approaching, gas price falls are unlikely to be as sharp as oil price declines.
+
+---
+
+### 2026-06-17 18:04:09  #公司
+
+道達爾能源執行長：目前緊急需要確保卡達液化天然氣供應恢復，否則進入冬季後，天然氣價格降幅將不及油價。
+
+---
+
+### 2026-06-17 18:04:06  #國際
+
+以色列國防軍發言人：此前扎裡特地區拉響敵方飛行器入侵警報，經核實，此次屬於誤判。
+
+---
+
+### 2026-06-17 18:04:03  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+TotalEnergies' CEO said U.S. LNG output increases are helpful but cannot replace Qatar's supply to Europe this coming winter.
+
+---
+
+### 2026-06-17 18:03:51  #公司 #國際
+
+道達爾能源執行長：美國液化天然氣產量提升對此有所助力，但明年冬天無法替代卡達對歐洲的供應。
+
+---
+
+### 2026-06-17 18:03:45  #行業
+
+【德勤：今年上半年A股預計70只新股上市 合計募資693億元】6月17日，德勤中國發布《2026年中國內地和香港新股市場中期回顧與展望》報告。報告顯示，2026年上半年A股預計有70只新股上市，合計融資693億元。對比2025年上半年51只新股、573億元融資規模，新股數量同比上升37%，融資金額同比增長約21%。
+
+---
+
+### 2026-06-17 18:03:33  #MKT News #CSI300 #Impact mixed #SSE Composite #SZSE Component
+
+【Deloitte China: 70 A-share IPOs expected in 1H2026, raising 69.3 bln yuan】Deloitte China on June 17 said in its 2026 mid-year review that the A-share market is expected to see 70 new listings in 1H2026, raising 69.3 bln yuan. That compares with 51 listings and 57.3 bln yuan in 1H2025 — listings +37% YoY, proceeds up about 21% YoY.
+
+---
+
+### 2026-06-17 18:02:31  #國際
+
+【俄媒：烏軍襲擊一輛載有白俄羅斯兒童足球隊的巴士，致1死6傷】綜合塔斯社等媒體17日最新報道，烏克蘭軍隊使用無人機在俄羅斯布良斯克州對一輛巴士發動襲擊，造成1名女性死亡。另有6人受傷，其中包括4名兒童。（環球網）
+
+---
+
+### 2026-06-17 18:02:20  #MKT News
+
+【CCB's Zhang Yi: Bank-linked capital gaining weight in China's equity investment market】On June 17 at the 2026 Lujiazui Forum, China Construction Bank president Zhang Yi said China's equity investment market shows three features: last year over 50% of invested companies were hard‑tech; state‑backed capital is rapidly expanding in scale, participant types and capital forms and is strengthening its market position—supporting national industrial policy and supplying long‑term, patient capital; and bank‑affiliated equity investors, aided by policy support, saw a noticeable increase in investment last year. He noted banks' overall equity investment amounts remain small but have become a non‑negligible source of capital.
+
+---
+
+### 2026-06-17 18:01:50  #市場 #國際
+
+印度盧比<INR=IN>收盤變動微乎其微，報1美元兌94.5250盧比；前收盤價為94.56。
+
+---
+
+### 2026-06-17 18:01:14  #市場 #國際
+
+泰國證交所綜合指數收盤微幅波動，報 1587.07 點。
+
+---
+
+### 2026-06-17 18:00:55  #公司
+
+Ouster與AIM智慧機器公司宣佈達成戰略協議，將數字鐳射雷達用於搭載人工智慧的重型土方工程裝置，該合作是在推出自帶原生色彩功能的Rev8產品之後達成的。
+
+---
+
+### 2026-06-17 18:00:41  #國際
+
+印度 Nifty 50 指數 (.NSEI) 收漲 0.39%。
+
+---
+
+### 2026-06-17 18:00:28  #MKT News #Market Themes #The Trump Trade
+
+【Trump arrives nearly an hour late to G7 leaders' session, jokes 'I'm the boss'】U.S. President Trump arrived nearly an hour late to a morning leaders' session at the G7 summit in Evian-les-Bains. French President Macron had already opened the meeting and U.S. Treasury Secretary Bessent was seated in the chair marked for Trump. On entering, Trump walked to the table and said I am the boss. He then addressed the media, asking do you want to stay and sit in on the meeting? I have no objection, after which French hosts quickly asked journalists to leave the room.
+
+---
+
+### 2026-06-17 18:00:23  #宏觀 #國際
+
+【王毅：中國願同各國一道重振聯合國壯大聯合國】中共中央政治局委員、外交部長王毅6月17日在國新辦新聞釋出會上表示，作為第一個在聯合國憲章上簽字的國家，中國責無旁貸，願透過全球治理倡議維護聯合國權威，同各國一道重振聯合國、壯大聯合國。（新華社）
 
 ---
 
@@ -19290,71 +19386,5 @@ NHK reported that no tsunami warning was issued in Japan after the earthquake.
 ### 2026-06-16 18:49:04  #MKT News #Important #Star Stocks #Tencent #JD.com
 
 【DeepSeek first-round financing may have closed; founder Liang Wenfeng to contribute ~20 bln yuan】DeepSeek's first-round financing may have been finalized, with founder Liang Wenfeng personally investing about 20 bln yuan as the largest single backer; Tencent about 10 bln yuan; the CATL ecosystem (including CATL and Puquan Capital) about 5 bln yuan; NetEase, JD, Monolith Lisi Capital and IDG about 3 bln yuan each; Zhengxin Valley Investment and Shixiang Technology about 1.5 bln yuan each.
-
----
-
-### 2026-06-16 18:48:31  #MKT News #Market Themes #The Trump Trade #Market Regions #Europe & UK #S&P500 #Impact bullish #EURUSD #DXY #Impact bearish
-
-【European Parliament approves US-EU trade deal; final EU sign-off expected June 26】The European Parliament on Tuesday approved a US-EU trade agreement, clearing the way for implementation pending final approval by EU member states expected June 26. Under the pact the EU would lift tariffs on US industrial goods and some agricultural products; the US agreed to cap tariffs on EU products at 15%. The vote follows renewed US tariff threats from Trump over France’s digital tax—he warned he would raise US auto tariffs if the EU failed to ratify by July 4. Disputes over metal tariffs and technology regulation remain unresolved and could prompt further escalation.
-
----
-
-### 2026-06-16 18:48:12  #公司
-
-【中航重機：部分董高增持金額達計劃下限 後續將繼續增持】中航重機公告稱，2025年12月16日至2026年6月16日，公司部分董事及高階管理人員已增持公司股票293,600股，增持金額合計484.18萬元，佔公司總股本0.0189%，已達增持計劃下限430萬元的112.60%。本次增持計劃尚未實施完畢，增持主體後續將按計劃擇機增持。該計劃可能因市場變化、資金未到位等因素延遲或無法實施。
-
----
-
-### 2026-06-16 18:48:03  #MKT News #Important
-
-Japan Meteorological Agency said Ibaraki Prefecture issued an earthquake early warning; buildings in Tokyo were reported shaking.
-
----
-
-### 2026-06-16 18:47:45  #國際
-
-日本氣象廳通報：茨城縣發生地震。
-
----
-
-### 2026-06-16 18:47:27  #公司
-
-【返利科技：籌劃控制權變更 股票6月17日起停牌不超2日】返利科技公告稱，公司實際控制人及其一致行動人葛永昌、隗元元等正在籌劃股份協議轉讓事宜，可能導致公司控制權發生變更。鑑於事項存在重大不確定性，經申請，公司股票於2026年6月17日開市起停牌，預計停牌時間不超過2個交易日。停牌期間，公司將按規定履行資訊披露義務，待事項確定後及時申請復牌。
-
----
-
-### 2026-06-16 18:47:22  #公司 #國際
-
-特朗普針對anthropic公司的打壓舉措引發美國盟友對人工智慧領域的擔憂。
-
----
-
-### 2026-06-16 18:46:46  #國際
-
-【被拒籤伊朗代表團成員在墨西哥觀看比賽】伊朗隊本屆世界盃之旅頗為坎坷，不僅需要在駐地和賽場來回奔波，一些代表團成員還遭遇美國拒籤，其中還包括伊朗足協主席邁赫迪·塔傑。當地時間15日，被拒籤無法進入美國的伊朗世界盃代表團成員，在墨西哥蒂華納與當地人士共同觀看伊朗國家隊對陣紐西蘭隊的首場比賽。（央視新聞）
-
----
-
-### 2026-06-16 18:46:21  #公司 #市場
-
-【勝科奈米：股票交易異常波動 提醒投資者注意風險】勝科奈米公告稱，公司股票在2026年6月15日、6月16日連續兩個交易日收盤價格漲幅偏離值累計達30%，屬異常波動情形。經自查，公司生產經營正常，除已披露的2026年度向特定物件發行股票預案、2026年限制性股票激勵計劃相關事項外，無應披露未披露重大事項。2025年公司淨利潤6187.90萬元，同比降23.78%；2026年一季度淨利潤741.34萬元，同比降35.64%。截至6月16日，公司滾動市盈率401.75倍，顯著高於行業平均，提醒投資者注意風險。
-
----
-
-### 2026-06-16 18:46:07  #焦點 #國際
-
-【特朗普：美伊協議談判第二階段“更容易”】美國總統特朗普16日稱，美國和伊朗協議談判已進入第二階段，“這應該比第一階段更容易”。特朗普表示，美國不會在伊朗投入任何資金。對他而言“唯一重要的事”是伊朗永遠不會擁有核武器，如果伊朗政府企圖獲取核武器，伊朗將“遭受毀滅性打擊”。（新華社）
-
----
-
-### 2026-06-16 18:46:03  #MKT News
-
-【Hunan to prioritize future industries, strengthen advantaged sectors and upgrade traditional industries】Hunan provincial party secretary Shen Xiaoming chaired a June 16 planning meeting on industrial development and major project construction, directing the province to plan for future industries, solidify advantaged sectors and upgrade traditional industries to expand industrial capacity. He called for long-term strategic patience and a determined effort to tackle difficulties, better situational and trend analysis to support policy decisions, and fuller use of universities and research institutes to drive industrial innovation. The province will push for return of Hunan entrepreneurs, raise the quality and efficiency of government investment funds, and pursue a dual stock-and-flow approach—spatially prioritizing activation of existing assets while strengthening incremental industrial capacity—to lift economic quality and achieve reasonable scale growth.
-
----
-
-### 2026-06-16 18:45:41  #其他
-
-德國化學工業協會（VCI）表示：該決定將為共同經濟區帶來更高的規劃確定性。
 
 ---

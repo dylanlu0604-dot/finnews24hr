@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-20 08:06:48_
-_本檔包含 3606 則快訊，約 655203 字_
+_更新時間：2026-06-20 08:34:31_
+_本檔包含 3604 則快訊，約 655087 字_
+
+---
+
+### 2026-06-15 17:17:57  #MKT News #Market Themes #AI Revolution
+
+【TrendForce projects CPO/NPO market to top $39 billion by 2030】TrendForce says rapid growth in AI training and inference is driving data centers to higher power, density and larger-scale clusters. Rising energy use from data movement is prompting cloud service providers to elevate interconnect technology to the same strategic level as compute. Interconnect architecture has become a key determinant of AI-factory expansion speed, energy efficiency and supply-chain control. TrendForce forecasts the co‑packaged optics (CPO) and near‑packaged optics (NPO) market will jump from roughly $100 million in 2025 to more than $39 billion by 2030.
+
+---
+
+### 2026-06-15 17:17:54  #MKT News #Nasdaq100 #Impact bullish
+
+【TrendForce estimates CPO/NPO market to exceed $39 bln by 2030】TrendForce's latest silicon photonics research says rapid expansion in AI training and inference is driving data centers toward higher power, density and larger-scale clusters, boosting energy costs from data movement and prompting cloud service providers to elevate interconnect technology to strategic parity with compute. TrendForce warns interconnect architecture is now a key determinant of AI-factory expansion speed, energy efficiency and supply-chain control, and forecasts co-packaged optics (CPO) and near-package optics (NPO) market value to jump from roughly $100 mln in 2025 to more than $39 bln by 2030.
+
+---
+
+### 2026-06-15 17:17:49  #公司
+
+【新諾威：1類治療用生物製品SYS6041獲藥物臨床試驗批准】新諾威公告，其控股子公司石藥集團巨石生物製藥有限公司於近日收到國家藥品監督管理局核准簽發關於SYS6041（葉酸受體ADC）的《藥物臨床試驗批准通知書》，將於近期開展臨床試驗。本次獲批的SYS6041聯合用藥臨床試驗探索研究，將用於治療卵巢癌。
+
+---
+
+### 2026-06-15 17:17:38  #公司
+
+【偉明環保：獲中信銀行溫州分行不超1.5億元回購貸款承諾】偉明環保公告稱，公司於2026年6月12日審議透過股份回購方案，擬以1.5億-3億元自有和/或自籌資金回購股份用於轉換可轉債，回購價不超20元/股，期限12個月。近日，公司獲中信銀行溫州分行《貸款承諾函》，承諾貸款額度不超1.5億元，期限不超36個月，專項用於回購股票。具體貸款以合同為準，不代表對回購金額的承諾。
+
+---
+
+### 2026-06-15 17:17:28  #其他
+
+坦尚尼亞2026至2027年度貨幣政策立場將收緊。
+
+---
+
+### 2026-06-15 17:17:06  #其他
+
+【集邦諮詢：預估2030年CPO/NPO市場規模將破390億美元】根據TrendForce集邦諮詢最新矽光子產業研究，隨著AI訓練與推理需求快速擴張，AI資料中心正朝更高功耗、密度與更大規模叢集演進。資料搬運帶來的大量能源消耗問題，促使雲端服務供應商（CSP）提升互連技術至與運算技術同等的戰略位階。互連架構已成決定AI Factory擴張速度、能源效率與供應鏈掌控能力的關鍵戰略資產，因此，TrendForce集邦諮詢預估CPO（共封裝光學）／NPO（近封裝光學）市場規模將大幅成長，自2025年約1億美元，躍升至2030年的390億美元以上。
+
+---
+
+### 2026-06-15 17:15:24  #央行 #其他
+
+羅馬尼亞央行資料顯示：今年1-4月經常賬戶赤字收窄至79.8億歐元，去年同期修正後赤字為91億歐元。
+
+---
+
+### 2026-06-15 17:15:13  #公司 #市場
+
+【*ST威領：股票交易異常波動 控制權變更事項終止】*ST威領公告稱，公司股票連續2個交易日（2026年6月12日、6月15日）日收盤價格跌幅累計偏離值達12%，屬異常波動。公司2025年度經審計歸母淨資產為負，股票被實施退市風險警示和其他風險警示，簡稱變更為“*ST威領”。6月12日，控股股東上海領億收到解除《股份轉讓協議》的函，控制權擬變更事項終止。公司生產經營正常，不存在應披露未披露事項，提醒投資者注意風險。
+
+---
+
+### 2026-06-15 17:15:06  #公司
+
+【*ST瑞茂：控股股東55444.33萬股股份被輪候凍結】*ST瑞茂公告稱，公司控股股東鄭州瑞茂通持有公司股份554,443,265股，佔總股本51.02%，本次被輪候凍結股份554,443,265股，佔其所持股份100%，佔總股本51.02%。截至公告披露日，鄭州瑞茂通及其一致行動人累計被輪候凍結股份13,690,518,369股，佔其所持股份1988.83%，佔總股本1259.91%。鄭州瑞茂通因逾期問題涉訴或仲裁糾紛正協商。本次輪候凍結暫不影響公司控制權等，但後續處置或影響控制權穩定性。
+
+---
+
+### 2026-06-15 17:14:37  #公司
+
+【南方航空：2026年5月旅客週轉量253.45億客公里，同比降4.20%】南方航空公告，2026年5月客運運力投入（ASK）299.28億座公里，同比下降2.85%；旅客週轉量（RPK）253.45億客公里，同比下降4.20%；客座率84.69%，同比下降1.19個百分點。貨運方面，貨郵週轉量8.5億噸公里，同比下降0.03%；貨郵載運率55.44%，同比上升1.31個百分點。2026年累計，客運運力投入1623.28億座公里，同比增長5.08%；旅客週轉量1379.76億客公里，同比增長4.43%；客座率85.00%，同比下降0.53個百分點。此外，5月引進5架飛機，退出2架，期末合計運營969架。
 
 ---
 
@@ -21737,77 +21797,5 @@ ANTHROPIC：關於美國政府指令暫停使用FABLE 5和MYTHOS 5的宣告，�
 ### 2026-06-13 08:35:00  #其他
 
 【一汽大眾為空調噴粉致歉：將免費更換全新原廠空調蒸發器，並提供空調器總成15年質量擔保】針對一汽大眾速騰車主反饋的空調噴粉一事，一汽大眾向車主釋出《致客戶的一封信》，稱將為車主提供免費的空調系統檢測服務，如有問題，將免費更換全新原廠空調蒸發器，並提供空調器總成15年的質量擔保權益保障。（新浪科技）
-
----
-
-### 2026-06-13 08:32:47  #公司 #國際
-
-【韓國股民“瘋狂”：券商一季度爆賺4萬億韓元！銀行出手限制借錢炒股】據韓聯社報道，今年第一季度，韓國證券公司實現淨利潤超4萬億韓元（約合178.36億元人民幣），創下季度最高業績。在韓國證券公司吸金的同時，韓國股民開始“借錢炒股”。近日，隨著韓國KOSPI（韓國綜指）劇烈調整，該國主要商業銀行的透支賬戶餘額增超6000億韓元（約合26.7億元人民幣），為防止“借錢炒股”現象激增，韓國銀行正在收緊信用貸款。
-
----
-
-### 2026-06-13 08:30:25  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Refinitiv cited a source saying the U.S. MILITARY shot down multiple Iranian one-way attack drones heading toward the Strait of Hormuz; the source said the drones posed a threat to commercial shipping.
-
----
-
-### 2026-06-13 08:29:53  #國際
-
-訊息人士稱，伊朗無人機對商貿航運構成威脅。
-
----
-
-### 2026-06-13 08:29:42  #其他
-
-【全國小麥收穫進度過八成】農業農村部最新小麥機收進度顯示，麥收地區大部天氣晴熱，局地有短時陣雨，各麥收省份組織避開降雨時段抓緊收穫成熟小麥。目前，全國小麥收穫進度已過八成。據農業農村部最新小麥機收進度，截至6月12日17時，全國已收穫夏糧小麥2.78億畝，收穫進度82.01%。（央視新聞）
-
----
-
-### 2026-06-13 08:28:07  #焦點 #國際
-
-一名知情人士向透露，美軍擊落了多架飛向霍爾木茲海峽的伊朗無人機。
-
----
-
-### 2026-06-13 08:24:34  #其他
-
-【LABUBU空降世界盃開幕式 聯名周邊溢價超5倍】北京時間6月12日凌晨，2026年美加墨世界盃揭幕戰在墨西哥體育場拉開帷幕。在比賽前進行的開幕式上，泡泡瑪特旗下IPLABUBU作為特邀嘉賓登場，成為首個登上世界盃的中國潮玩IP，隨後“中國隊首發LABUBU馬寧”等話題登上微博熱搜。此前，中國球迷的世界盃的熱情早已被點燃，LABUBU世界盃聯名發售後秒售罄，重新整理了世界盃聯名溢價峰值，市場成交價最高溢價5倍，成為熱度最高的聯名。
-
----
-
-### 2026-06-13 08:18:26  #國際
-
-【韓國將申請加入CPTPP】據日本共同社當地時間6月12日報道，日韓外交訊息人士透露，韓國政府已確定將正式申請加入《全面與進步跨太平洋夥伴關係協定》（CPTPP），正協調於本月下旬召開內閣會議並對外公佈該決定。 在美國退出CPTPP後，一直推動成員國擴容的日本預計將對此表示支援。鑑於當前兩國關係持續回暖，雙方決定將福島第一核電站事故引發的韓國對日水產進口限制這一懸案，與韓國加入事宜做實質上的切割處理。 福島第一核電站事故發生後，韓國一直禁止進口日本青森、巖手、宮城、福島、茨城、栃木、群馬、千葉這八個縣的水產品。日本方面雖未將取消上述進口限制作為韓國入約的前提條件，但計劃另行設立水產品進口問題實務磋商機制，逐步為解除禁令創造條件。 韓國政府相關人士則認為，若水產品進口解禁相關談判陷入僵局，日本最終仍有可能對韓國入約持消極態度。 據悉，李在明政府表態申請加入CPTPP後，還將加緊向韓國國會及韓國水產行業作出相關說明。（觀察者網）
-
----
-
-### 2026-06-13 08:17:59  #MKT News
-
-【Navigation warning: military operations in Bohai Strait and northern Yellow Sea】Dalian Maritime Safety Administration, via the China Maritime Safety Administration website, warned that parts of the Bohai Strait and northern Yellow Sea will be closed for military operations and are prohibited to navigation from June 14 16:00 to June 28 16:00.
-
----
-
-### 2026-06-13 08:16:15  #其他
-
-【渤海海峽黃海北部部分海域執行軍事任務 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，6月14日16時至28日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。
-
----
-
-### 2026-06-13 08:15:53  #MKT News #Market Regions #Greater China
-
-【May China e‑commerce logistics index continued to recover; total business volume up over 20% YoY】China Federation of Logistics & Purchasing said the China e‑commerce logistics index rose to 111.0 in May, up 0.4 points m/m, signalling further improvement in sector sentiment. The total e‑commerce logistics business-volume index was 128.3, up 0.4 points m/m and more than 20% YoY. Rural e‑commerce logistics demand broadly warmed: the rural business-volume index stopped falling and rebounded, with the western region recording the largest gain.
-
----
-
-### 2026-06-13 08:10:40  #市場 #國際
-
-【中東局勢影響外溢 推高印度食品通脹風險】今年，印度農業不僅面臨著高溫少雨的天氣挑戰，由於中東局勢影響全球供應鏈，印度農民還面臨化肥短缺、燃料價格上漲的困境。印度農業生產成本隨之上漲，或將帶來全面的食品通脹。由於國際供應鏈受阻，印度農民急需的尿素等基礎肥料近日出現了嚴重的供應短缺。為了應對危機，部分地區基層政府農業機構採取了配額限制。（央視新聞）
-
----
-
-### 2026-06-13 08:08:03  #MKT News
-
-【Multiple U.S. state attorneys general launch joint probe into OpenAI】The Wall Street Journal reported on June 12 that several U.S. state attorneys general have opened a joint investigation into OpenAI. The company received subpoenas seeking documents on a range of business activities and their impact on users. OpenAI faces multiple lawsuits alleging its chatbot ChatGPT's design caused suicides or harmed users; some complaints allege ChatGPT's design 'prioritizes user engagement over safety.'
 
 ---
