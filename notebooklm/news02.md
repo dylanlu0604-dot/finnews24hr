@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 07:05:50_
-_本檔包含 3550 則快訊，約 652833 字_
+_更新時間：2026-06-21 07:20:59_
+_本檔包含 3548 則快訊，約 652732 字_
+
+---
+
+### 2026-06-18 19:14:59  #公司 #國際
+
+【朝鮮譴責七國集團對朝無端政治攻擊】據朝中社18日報道，朝鮮勞動黨中央委員會部長金與正當日發表談話說，七國集團是破壞世界和平安全和國際核不擴散體系的主謀，沒資格也沒權利談論朝鮮的主權選擇。金與正說，在法國舉行的七國集團峰會上，美國等西方國家對朝鮮進行無端政治攻擊。她說，對七國集團直接違反朝鮮憲法的行為，“表示強烈不滿和遺憾”。（新華社）
+
+---
+
+### 2026-06-18 19:14:55  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
+
+Pound Slides Toward $1.32 as BoE Holds Rates — The British pound fell toward $1.32, reaching its lowest level since April 3, after the Bank of England voted 7-2 to maintain interest rates at 3.75%, in line with expectations. Policymakers adopted a cautious stance, citing uncertainty over the economic impact of the energy shock driven by the Middle East conflict. The BoE reiterated its readiness to act on inflation, with Governor Andrew Bailey emphasizing that pressures from the Iran conflict persist despite the ceasefire and potential deal. The Monetary Policy Committee also revised its peak inflation forecast downward to 3.25% in Q4 2026, from a previous estimate of 3.6%. This decision follows the US Federal Reserve’s move to hold rates steady, though nine of its 19 policymakers now expect at least one hike this year. Meanwhile, investors await the Makerfield by-election results, which could shape Labour’s leadership and economic direction.
 
 ---
 
@@ -21461,29 +21473,5 @@ ECB executive board member Sleijpen said household price expectations are no lon
 ### 2026-06-17 21:06:00  #MKT News
 
 ECB executive board member Sleijpen said second-round effects are the key issue for monetary policy.
-
----
-
-### 2026-06-17 21:05:57  #央行 #美聯儲
-
-美聯儲表示，FOMC會議將於當地時間週三上午9點按計劃復會。
-
----
-
-### 2026-06-17 21:05:49  #MKT News #Commodities #WTI #Impact bearish #Brent
-
-ECB Executive Board member Sleijpen said markets expect oil prices to decline, but significant uncertainty remains.
-
----
-
-### 2026-06-17 21:05:46  #MKT News
-
-Google opened pre-orders for a new family smart speaker, its first audio device built for GEMINI, which will ship on June 25 and is priced at $99.99.
-
----
-
-### 2026-06-17 21:05:41  #MKT News #Market Themes #AI Revolution #Market Regions #Europe & UK #DXY #Impact bullish #EURUSD #Impact bearish
-
-【ECB president warns AI could trigger financial crisis】ECB President Lagarde warned on Wednesday that artificial intelligence could trigger a financial crisis and said the ECB is determined to prevent that outcome. She said even with robust regulation the development of AI cannot be stopped and the ECB’s role is to prepare. The main risk, she said, is not AI itself but the disruption when this disruptive variable enters the real world; as these systems grow more powerful and penetrate the economy they could inflict damage to jobs and savings that rivals past financial crises. The ECB will write to bank CEOs to ensure institutions are prepared for AI attacks, have sufficient operational resilience and understand that addressing these risks will require significant investment. Lagarde added that a global AI governance framework — analogous to Cold War-era nuclear non-proliferation agreements — will ultimately be needed.
 
 ---

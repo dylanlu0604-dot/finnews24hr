@@ -1,7 +1,30 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 07:05:50_
-_本檔包含 3865 則快訊，約 653473 字_
+_更新時間：2026-06-21 07:20:59_
+_本檔包含 3866 則快訊，約 652985 字_
+
+---
+
+### 2026-06-21 07:14:32  #國際
+
+【美洛杉磯一倉儲設施火災持續 當地進入緊急狀態】當地時間20日，美國加利福尼亞州洛杉磯市市長巴斯釋出宣告說，由於此前該市一處大型商業倉儲設施發生的大火目前仍在持續，該市已宣佈進入地方緊急狀態，以確保該市在未來幾天內擁有所需資源，繼續推進撲滅當地大型倉庫火災的工作。當地時間17日，美國西部第一大城市洛杉磯市區一處大型商業倉儲設施突發大火，火焰引燃了屋頂上的太陽能電池板，併產生大量有毒濃煙。由於大火可能涉及危險物品，洛杉磯市消防局已向周邊地區釋出就地避難令。（央視新聞）
+
+---
+
+### 2026-06-21 07:07:36  #其他
+
+【布羅比、加克波先後雙響，荷蘭5-1大勝瑞典】北京時間6月21日，在休斯敦球場進行的2026美加墨世界盃足球賽F組小組賽第二輪中，荷蘭隊5-1戰勝瑞典隊。布羅比上半場獨中兩元，加克波下半場連入兩球，埃蘭加替補登場為瑞典隊打進扳回一球，薩默維爾遠射為荷蘭隊鎖定勝局。
+
+---
+
+### 2026-06-21 07:05:34  #宏觀 #其他
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、轉移登記、申報納稅等多件事打包為一件事 企業購置不動產更省事更省錢（政策解讀·問答）；
+2、物流專業畢業生帶動更多人加入高原寄遞網路 “準時送達，提供更好的服務”（大力促進就業創業）；
+3、中國寶武寶鋼股份人工智慧決策團隊——讓鋼鐵實現個性化、定製化生產（產業裡的年輕人）；
+4、《兒童友好公共設施服務體系建設指南》12月實施 提升城市空間適兒化品質；
+5、甘肅永登縣坪城鄉黨員幹部推動種薯繁育產業發展 “帶著大夥種好地，是咱分內事”（黨旗在基層一線高高飄揚·鄉村全面振興）。
 
 ---
 
@@ -23293,17 +23316,5 @@ UK 10-Year Gilt Yields Climb After BoE Holds Rates — UK 10-year gilt yields ro
 ### 2026-06-18 19:15:04  #公司
 
 【瀾起科技：目前正在積極推進PCIe 7.0 Retimer及PCIe Switch晶片的研發】瀾起科技今日在互動平臺表示，目前，公司PCIe Retimer晶片的出貨以Gen 5產品為主。公司於2025年1月推出PCIe 6.x/CXL 3.x Retimer晶片並向客戶送樣，目前正積極配合客戶測試驗證。此外，公司於今年1月釋出了PCIe 6.x/CXL 3.x的AEC解決方案。目前公司正在積極推進PCIe 7.0 Retimer及PCIe Switch晶片的研發。
-
----
-
-### 2026-06-18 19:14:59  #公司 #國際
-
-【朝鮮譴責七國集團對朝無端政治攻擊】據朝中社18日報道，朝鮮勞動黨中央委員會部長金與正當日發表談話說，七國集團是破壞世界和平安全和國際核不擴散體系的主謀，沒資格也沒權利談論朝鮮的主權選擇。金與正說，在法國舉行的七國集團峰會上，美國等西方國家對朝鮮進行無端政治攻擊。她說，對七國集團直接違反朝鮮憲法的行為，“表示強烈不滿和遺憾”。（新華社）
-
----
-
-### 2026-06-18 19:14:55  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
-
-Pound Slides Toward $1.32 as BoE Holds Rates — The British pound fell toward $1.32, reaching its lowest level since April 3, after the Bank of England voted 7-2 to maintain interest rates at 3.75%, in line with expectations. Policymakers adopted a cautious stance, citing uncertainty over the economic impact of the energy shock driven by the Middle East conflict. The BoE reiterated its readiness to act on inflation, with Governor Andrew Bailey emphasizing that pressures from the Iran conflict persist despite the ceasefire and potential deal. The Monetary Policy Committee also revised its peak inflation forecast downward to 3.25% in Q4 2026, from a previous estimate of 3.6%. This decision follows the US Federal Reserve’s move to hold rates steady, though nine of its 19 policymakers now expect at least one hike this year. Meanwhile, investors await the Makerfield by-election results, which could shape Labour’s leadership and economic direction.
 
 ---

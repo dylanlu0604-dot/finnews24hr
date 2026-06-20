@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 07:05:50_
-_本檔包含 3521 則快訊，約 652842 字_
+_更新時間：2026-06-21 07:20:59_
+_本檔包含 3523 則快訊，約 652744 字_
+
+---
+
+### 2026-06-16 22:32:52  #公司
+
+【中船集團與國開行簽署戰略合作協議】6月16日下午，中國船舶集團有限公司黨組副書記、董事、總經理王國強在總部分別與來訪的中國農業發展銀行黨委副書記、行長張小東，國開行黨委副書記、副董事長、行長譚炯舉行會談，並見證中船集團與國開行簽署戰略合作協議。會談中，王國強與張小東、譚炯圍繞更好服務海洋強國戰略等主題，就進一步深化戰略協同、加強產融結合深入交流並達成共識。
+
+---
+
+### 2026-06-16 22:32:34  #公司
+
+【民爆光電：目前PCB鑽針訂單充沛 正全力推進擴產】民爆光電在互動平臺表示，公司目前PCB鑽針訂單充沛，公司正全力推進擴產來滿足市場需求。
+
+---
+
+### 2026-06-16 22:32:08  #國際
+
+美國將召開G20埃博拉問題外長會議。
+
+---
+
+### 2026-06-16 22:32:04  #其他
+
+英國首相斯塔默的發言人：英國在泰晤士水務問題上已做好應對各種可能性準備。英國政府備選方案包含必要時臨時國有化泰晤士水務。
+
+---
+
+### 2026-06-16 22:31:35  #MKT News
+
+U.S. to convene G20 foreign ministers' meeting on Ebola.
+
+---
+
+### 2026-06-16 22:31:17  #MKT News
+
+A spokesperson for British Prime Minister Starmer said the UK is prepared to respond to all contingencies over the Thames Water situation.
+
+---
+
+### 2026-06-16 22:31:05  #公司
+
+七國集團領導人呼籲對埃博拉疫情采取強有力和協調一致的應對措施。
 
 ---
 
@@ -21199,35 +21241,5 @@ U.S. Vice President Vance said some people in Israel welcome the agreement.
 ### 2026-06-15 20:27:13  #MKT News
 
 U.S. Vice President Vance said the U.S. is engaging with parties within Iran's establishment.
-
----
-
-### 2026-06-15 20:27:05  #央行 #其他
-
-巴西央行官員：我不會改變通脹目標，但經濟團隊與央行之間在許多領域仍有改進空間。
-
----
-
-### 2026-06-15 20:26:59  #MKT News
-
-U.S. Vice President Vance expects representatives from all Iranian delegations to attend Friday's signing ceremony.
-
----
-
-### 2026-06-15 20:26:47  #國際
-
-萬斯：預計週五簽署儀式將有伊朗各方代表全面出席。
-
----
-
-### 2026-06-15 20:26:45  #MKT News
-
-When asked who will represent Iran at the signing ceremony, U.S. Vice President Vance said he expects the Speaker of the House, the foreign minister and others to attend.
-
----
-
-### 2026-06-15 20:26:36  #MKT News
-
-【Iran foreign ministry: 'Lebanon' mentioned three times in Iran-US ceasefire memorandum】Iranian foreign ministry spokesperson Baghaei said the Iran–US ceasefire memorandum mentions Lebanon three times and that ending the war should include Lebanon and respect its sovereignty and territorial integrity.
 
 ---
