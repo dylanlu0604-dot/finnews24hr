@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 08:14:43",
-  "count": 17642,
+  "updated": "2026-06-20 08:18:39",
+  "count": 17639,
   "items": [
+    {
+      "id": "4945534",
+      "time": "2026-06-20 08:15:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，6月22日12時至14時，北部灣部分海域進行軍事訓練，禁止船舶駛入。"
+    },
     {
       "id": "4945533",
       "time": "2026-06-20 08:13:32",
@@ -162424,40 +162432,6 @@
         "其他"
       ],
       "text": "【LABUBU空降世界盃開幕式 聯名周邊溢價超5倍】北京時間6月12日凌晨，2026年美加墨世界盃揭幕戰在墨西哥體育場拉開帷幕。在比賽前進行的開幕式上，泡泡瑪特旗下IPLABUBU作為特邀嘉賓登場，成為首個登上世界盃的中國潮玩IP，隨後“中國隊首發LABUBU馬寧”等話題登上微博熱搜。此前，中國球迷的世界盃的熱情早已被點燃，LABUBU世界盃聯名發售後秒售罄，重新整理了世界盃聯名溢價峰值，市場成交價最高溢價5倍，成為熱度最高的聯名。"
-    },
-    {
-      "id": "4933515",
-      "time": "2026-06-13 08:18:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國將申請加入CPTPP】據日本共同社當地時間6月12日報道，日韓外交訊息人士透露，韓國政府已確定將正式申請加入《全面與進步跨太平洋夥伴關係協定》（CPTPP），正協調於本月下旬召開內閣會議並對外公佈該決定。 在美國退出CPTPP後，一直推動成員國擴容的日本預計將對此表示支援。鑑於當前兩國關係持續回暖，雙方決定將福島第一核電站事故引發的韓國對日水產進口限制這一懸案，與韓國加入事宜做實質上的切割處理。 福島第一核電站事故發生後，韓國一直禁止進口日本青森、巖手、宮城、福島、茨城、栃木、群馬、千葉這八個縣的水產品。日本方面雖未將取消上述進口限制作為韓國入約的前提條件，但計劃另行設立水產品進口問題實務磋商機制，逐步為解除禁令創造條件。 韓國政府相關人士則認為，若水產品進口解禁相關談判陷入僵局，日本最終仍有可能對韓國入約持消極態度。 據悉，李在明政府表態申請加入CPTPP後，還將加緊向韓國國會及韓國水產行業作出相關說明。（觀察者網）"
-    },
-    {
-      "id": "mkt:019ebe57-b556-7dd8-afe7-5b8b86e9ff6b",
-      "time": "2026-06-13 08:17:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: military operations in Bohai Strait and northern Yellow Sea】Dalian Maritime Safety Administration, via the China Maritime Safety Administration website, warned that parts of the Bohai Strait and northern Yellow Sea will be closed for military operations and are prohibited to navigation from June 14 16:00 to June 28 16:00."
-    },
-    {
-      "id": "4933514",
-      "time": "2026-06-13 08:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【渤海海峽黃海北部部分海域執行軍事任務 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，6月14日16時至28日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。"
-    },
-    {
-      "id": "mkt:019ebe55-ca11-7dd8-afe7-52c552f5a8b3",
-      "time": "2026-06-13 08:15:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【May China e‑commerce logistics index continued to recover; total business volume up over 20% YoY】China Federation of Logistics & Purchasing said the China e‑commerce logistics index rose to 111.0 in May, up 0.4 points m/m, signalling further improvement in sector sentiment. The total e‑commerce logistics business-volume index was 128.3, up 0.4 points m/m and more than 20% YoY. Rural e‑commerce logistics demand broadly warmed: the rural business-volume index stopped falling and rebounded, with the western region recording the largest gain."
     }
   ]
 }
