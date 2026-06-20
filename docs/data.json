@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-21 03:15:51",
-  "count": 17527,
+  "updated": "2026-06-21 03:19:55",
+  "count": 17529,
   "items": [
+    {
+      "id": "4945973",
+      "time": "2026-06-21 03:18:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【特朗普：霍爾木茲海峽將不徵收任何通行費】特朗普在社交平臺發文：停火協議生效的60天內，霍爾木茲海峽將不徵收任何通行費；60天期限結束後，同樣不會收取通行費。但若相關協議未能達成，美國將以中東各國守護者的身份提供安保服務，並基於過去、當下及未來產生的成本追償需求，單方面出臺並收取通行費。"
+    },
+    {
+      "id": "mkt:019ee677-bb34-7dd8-b0a1-9c119d3e5eab",
+      "time": "2026-06-21 03:17:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Trump said the Strait of Hormuz will not charge any transit fees during a 60-day ceasefire, and will not charge fees after that period unless the agreement breaks down. If the pact fails, the United States would impose fees for its own purposes as payment for services provided as a \"guardian angel\" to Middle Eastern countries, to cover past, present and future costs."
+    },
+    {
+      "id": "4945972",
+      "time": "2026-06-21 03:16:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽60天寬限期結束後不會徵收通行費，除非通行費由美國徵收並所有。"
+    },
+    {
+      "id": "4945971",
+      "time": "2026-06-21 03:16:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【半島電視臺記者在以軍對加沙地帶空襲中身亡】以軍當天對加沙地帶中部布賴傑難民營的空襲導致兩人死亡，其中包括卡達半島電視臺攝影記者艾哈邁德·瓦沙赫。"
+    },
     {
       "id": "mkt:019ee673-4761-7dd8-b0a1-9002883f0fd4",
       "time": "2026-06-21 03:12:55",
@@ -161479,26 +161517,6 @@
         "MKT News"
       ],
       "text": "Iranian media reported protests demanding parliament speaker Ghalibaf and foreign minister Araghchi resign to express opposition to the agreement."
-    },
-    {
-      "id": "mkt:019ec26a-cc97-7dd8-afed-b8e2e6dd0114",
-      "time": "2026-06-14 03:17:19",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Qatar News Agency said casualties from Israeli aggression against Lebanon have risen to 3,756 dead and 11,632 wounded."
-    },
-    {
-      "id": "4934020",
-      "time": "2026-06-14 03:16:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：民眾舉行示威，反對阿拉格齊、卡利巴夫，抵制伊美協議。"
     }
   ]
 }
