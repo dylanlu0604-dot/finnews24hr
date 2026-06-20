@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-20 18:21:35",
-  "count": 17580,
+  "updated": "2026-06-20 18:25:40",
+  "count": 17581,
   "items": [
+    {
+      "id": "mkt:019ee48f-f5e3-7dd8-b09e-58a0595dca90",
+      "time": "2026-06-20 18:25:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli airstrikes in southern Lebanon's Nebetiyeh, Jezzine kill at least 16】Lebanese Civil Defense said on June 20 that Israeli Defense Forces carried out sustained airstrikes in southern Lebanon’s Nebetiyeh and Jezzine areas, with strikes concentrated in Nebetiyeh and its surroundings. At least 16 people were killed; rescue teams remain searching rubble for survivors."
+    },
+    {
+      "id": "4945771",
+      "time": "2026-06-20 18:23:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍在黎南部地區持續空襲 造成至少16人死亡】黎巴嫩民防部門20日宣佈，當天以色列國防軍在黎巴嫩南部奈拜提耶和傑津地區持續空襲，空襲主要集中在奈拜提耶及其周邊地區，造成至少16人死亡，救援隊仍在廢墟中搜尋倖存者。"
+    },
     {
       "id": "4945770",
       "time": "2026-06-20 18:18:07",
@@ -161965,15 +161981,6 @@
         "Brent"
       ],
       "text": "According to the Financial Times, investors have joined President Trump’s $100 billion Venezuelan oil race. Lionheart Capital plans to list a Venezuelan oil company via a merger with its SPAC Lionheart Holdings, valuing the target at about $1 billion."
-    },
-    {
-      "id": "4933785",
-      "time": "2026-06-13 18:25:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：美國多元化投資公司獅心資本（Lionheart Capital）計劃透過與其空白支票公司獅心控股（Lionheart Holdings）合併，推動一家委內瑞拉石油企業上市，估值約為10億美元。"
     }
   ]
 }
