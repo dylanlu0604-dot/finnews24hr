@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-21 00:12:50",
-  "count": 17529,
+  "updated": "2026-06-21 00:16:48",
+  "count": 17526,
   "items": [
+    {
+      "id": "4945918",
+      "time": "2026-06-21 00:15:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國發布高溫紅色預警，音樂節全面禁止飲酒】法國政府於週六宣佈，週日中午起將啟動高溫紅色預警的各省行政區，6月21日舉辦的年度夏至音樂節期間全面禁止飲酒。法國總理勒科爾尼召開危機工作會議後，總理辦公室釋出宣告稱：“各省省長將頒佈政令，在高溫紅色預警覆蓋區域的公共場所禁止飲酒。”宣告補充道：“所有由國家及下屬機構主辦的活動，均已下達禁止供應酒水的指令。”法國氣象局在週六釋出最新氣象通報，宣佈包括巴黎在內的35個省份週日將觸發高溫紅色預警，並表示：“全國大範圍地區將長期遭遇極端高溫天氣。”"
+    },
     {
       "id": "4945917",
       "time": "2026-06-21 00:06:36",
@@ -161489,46 +161497,6 @@
         "Brent"
       ],
       "text": "Saudi outlet Alhadath, citing sources, said Iran's intervention has hindered prospects for a ceasefire between Israel and Lebanon."
-    },
-    {
-      "id": "mkt:019ec1c5-1357-7dd8-afec-ca48aef66c3c",
-      "time": "2026-06-14 00:16:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet al-Hadath, citing sources, reported the US is pressing Israel to make substantive progress in negotiations with Lebanon."
-    },
-    {
-      "id": "4933961",
-      "time": "2026-06-14 00:14:24",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普出臺限制舉措前，亞馬遜CEO賈西已對安索帕AI模型提出安全擔憂】據兩名瞭解相關溝通情況的人士透露，亞馬遜執行長安迪·賈西本週聯合多位科技行業高管，向特朗普政府高層官員表達了對Anthropic頂尖AI模型存在安全風險的擔憂。知情人士稱，作為安索帕最大投資方與服務商之一，亞馬遜負責人近日與政府官員的溝通，推動特朗普政府於上週五晚間以國家安全為由，對Anthropic的Claude Mythos 5與Fable 5模型出臺全新出口管制措施。該禁令禁止外籍人員使用上述兩款模型。安索帕表示，為遵守新規，公司已關停所有使用者對這兩款模型的訪問許可權。"
-    },
-    {
-      "id": "mkt:019ec1c2-a597-7dd8-afec-c6124eda8240",
-      "time": "2026-06-14 00:13:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7"
-      ],
-      "text": "Tech outlet The Information reported Amazon CEO Andy Jassy expressed concerns about Anthropic’s model before the Trump administration took action against the AI firm."
-    },
-    {
-      "id": "4933960",
-      "time": "2026-06-14 00:13:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場資訊：亞馬遜CEO賈西在特朗普政府採取打壓行動前就對Anthropic模型表示擔憂。"
     }
   ]
 }
