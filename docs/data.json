@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-21 00:54:40",
+  "updated": "2026-06-21 00:58:30",
   "count": 17526,
   "items": [
+    {
+      "id": "4945935",
+      "time": "2026-06-21 00:57:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西聯邦警察局正在調查一起民防預警系統遭入侵事件，此次入侵導致數百萬巴西民眾的手機收到帶有 “厭世” 一詞的推送警報。"
+    },
+    {
+      "id": "4945934",
+      "time": "2026-06-21 00:55:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列對加沙地帶中部佈雷吉難民營發動無人機襲擊，造成多名巴勒斯坦人死傷。"
+    },
+    {
+      "id": "4945933",
+      "time": "2026-06-21 00:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：以色列軍隊在阿里・塔赫爾高地包圍了數十名真主黨武裝人員。"
+    },
+    {
+      "id": "mkt:019ee5f4-f04c-7dd8-b0a0-d3e8387fbb86",
+      "time": "2026-06-21 00:54:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "An Israeli newspaper, citing military sources, reported Israeli forces are surrounding dozens of Hezbollah fighters in the Ali al-Taher area."
+    },
+    {
+      "id": "mkt:019ee5f4-47db-7dd8-b0a0-c96f15c6e841",
+      "time": "2026-06-21 00:54:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【CENTCOM says Iran does not control Strait of Hormuz】Al Jazeera reported CENTCOM said Iran does not control the Strait of Hormuz. A CENTCOM spokesman said US forces are monitoring the situation to ensure continued shipping through the waterway. Earlier the Islamic Revolutionary Guard Corps said it had closed the Strait, citing continued Israeli strikes in southern Lebanon."
+    },
     {
       "id": "4945932",
       "time": "2026-06-21 00:49:42",
@@ -161443,48 +161490,6 @@
         "其他"
       ],
       "text": "唐寧街：英國首相斯塔默重申，英國隨時準備支援任何和平協議的執行。"
-    },
-    {
-      "id": "mkt:019ec1eb-756a-7dd8-afed-194ab9e1fd69",
-      "time": "2026-06-14 00:58:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "10 Downing Street said Prime Minister Starmer supports U.S. President Trump’s efforts to end the conflict with Iran."
-    },
-    {
-      "id": "4933980",
-      "time": "2026-06-14 00:57:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "唐寧街：英國首相斯塔默對特朗普總統為結束與伊朗衝突所做的努力表示支援。"
-    },
-    {
-      "id": "mkt:019ec1eb-1d68-7dd8-afed-157a2f581361",
-      "time": "2026-06-14 00:57:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Downing Street said Prime Minister Starmer spoke by phone with U.S. President Donald Trump this afternoon."
-    },
-    {
-      "id": "4933979",
-      "time": "2026-06-14 00:57:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "唐寧街：英國首相斯塔默今日下午與美國總統特朗普通話。"
-    },
-    {
-      "id": "4933978",
-      "time": "2026-06-14 00:54:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國和伊朗高階官員將在瑞士舉行會晤。"
     }
   ]
 }
