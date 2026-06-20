@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-20 19:57:24",
-  "count": 17547,
+  "updated": "2026-06-20 20:01:30",
+  "count": 17548,
   "items": [
+    {
+      "id": "4945803",
+      "time": "2026-06-20 20:00:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度太陽製藥：將以27億盧比收購InnovCare生命科學公司100%股權。"
+    },
+    {
+      "id": "4945802",
+      "time": "2026-06-20 20:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-130.38億元，半導體、通訊裝置板塊淨流入居前，個股中際旭創、兆易創新淨流入最多。"
+    },
+    {
+      "id": "mkt:019ee4e6-343e-7dd8-b09e-e9316134f386",
+      "time": "2026-06-20 19:59:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA: Repairs to the ZAPORIZHZHIA NUCLEAR PLANT's main 750 kV Dniprovska transmission line are under way during a localized ceasefire brokered by the agency and monitored by its teams on both banks of the Dnipro River."
+    },
+    {
+      "id": "mkt:019ee4e6-0eac-7dd8-b09e-e4a74e1d7ae5",
+      "time": "2026-06-20 19:59:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says Iran has been 'beaten'; calls Democrats 'a bunch of idiots'】U.S. President Trump said Democrats \"always\" claim Iran is stronger than three months ago, but \"they have been beaten\" and \"their navy and air force are gone.\" He also dismissed Democrats as \"a bunch of idiots,\" calling them \"the stupid party.\""
+    },
+    {
+      "id": "4945801",
+      "time": "2026-06-20 19:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構（IAEA）：扎波羅熱核電站主輸電線路——750千伏第聶伯羅線的維修工作正在推進，維修在國際原子能機構斡旋達成的區域性停火協議下開展，駐第聶伯河兩岸的機構團隊也對維修過程進行監督。"
+    },
+    {
+      "id": "mkt:019ee4e5-109d-7dd8-b09e-db6fb3e5022a",
+      "time": "2026-06-20 19:57:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA said its team learned an on-site internal power-line problem had most recently disconnected the Zaporizhzhia nuclear plant's only available external power line."
+    },
+    {
+      "id": "4945800",
+      "time": "2026-06-20 19:56:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：該機構團隊已獲悉，扎波羅熱核電站廠區內部輸電線故障導致該核電站僅剩可用的一條場外輸電線再次斷開連線。"
+    },
     {
       "id": "mkt:019ee4e3-d78d-7dd8-b09e-d5a8f3eed174",
       "time": "2026-06-20 19:56:37",
@@ -161598,61 +161655,6 @@
         "國際"
       ],
       "text": "伊拉克總理扎伊迪將於下月訪問華盛頓，這將是他自5月組建政府以來首次正式訪美。他將討論加強安全和經濟合作、武器國家管控問題以及能源投資等議題。"
-    },
-    {
-      "id": "4933837",
-      "time": "2026-06-13 20:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週大盤主力資金累計淨流入-1900.95億元，小金屬、能源金屬板塊淨流入居前，個股海光資訊、天華新能淨流入最多。"
-    },
-    {
-      "id": "4933836",
-      "time": "2026-06-13 19:59:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗哈塔姆·安比亞中央司令部司令表示，世界將很快見證伊朗的勝利和抵抗侵略者的勝利。"
-    },
-    {
-      "id": "mkt:019ec0d9-3495-7dd8-afea-e6bcde04b305",
-      "time": "2026-06-13 19:58:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Hezbollah said it fired rockets at Israeli soldiers and a concentration of vehicles near the town of Majdal Zoun in southern Lebanon."
-    },
-    {
-      "id": "mkt:019ec0d8-f5ef-7dd8-afea-d9b70c759bf5",
-      "time": "2026-06-13 19:58:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "HEZBOLLAH said it shot down an Israeli Hermes 450 UAV with a missile over Kardali in southern Lebanon."
-    },
-    {
-      "id": "4933835",
-      "time": "2026-06-13 19:57:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國：自以色列攻勢開始以來，黎巴嫩已有135名醫務工作者遇害。"
-    },
-    {
-      "id": "mkt:019ec0d8-942b-7dd8-afea-d0f965c8762d",
-      "time": "2026-06-13 19:57:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UN: Since the start of the Israeli offensive, 135 Lebanese medical workers have been killed."
     }
   ]
 }
