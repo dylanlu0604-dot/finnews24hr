@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 12:38:01",
-  "count": 17593,
+  "updated": "2026-06-20 12:42:00",
+  "count": 17592,
   "items": [
+    {
+      "id": "mkt:019ee352-21ad-7dd8-b09c-46f58a756948",
+      "time": "2026-06-20 12:37:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian Defence Ministry reports 3,909 Ukrainian fixed‑wing drones shot down June 13–19】The Russian Defence Ministry said in its weekly report that between June 13 and 19 Russian forces carried out multiple large-scale strikes on Ukraine's defence-industrial complex, fuel and energy assets, transport and port infrastructure, and Ukrainian airfields. Russian air-defence systems shot down 3,909 Ukrainian fixed-wing unmanned aerial vehicles over the period."
+    },
     {
       "id": "4945670",
       "time": "2026-06-20 12:31:32",
@@ -162020,22 +162028,6 @@
         "其他"
       ],
       "text": "【南極半島出現超過正常水平20多攝氏度異常高溫】阿根廷觀測資料顯示，南極半島6月初已出現15.4攝氏度的異常氣溫，比正常水平高出20多攝氏度，創下歷史同期新高，冰層也出現異常融化。科研人員說，由於過去三週每日最高氣溫都在零攝氏度以上，埃斯佩蘭薩南極科考站所在區域至今沒有積雪，這會對極地生態系統產生不利影響。（央視新聞）"
-    },
-    {
-      "id": "4933661",
-      "time": "2026-06-13 12:39:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "貓眼專業版資料，電影《給阿嬤的情書》上映45天， 總票房破17億。"
-    },
-    {
-      "id": "4933660",
-      "time": "2026-06-13 12:39:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯外交部發言人：美國資助的實驗室存在危險且不受監管的軍事生物活動。"
     }
   ]
 }
