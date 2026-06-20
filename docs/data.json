@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-21 00:58:30",
+  "updated": "2026-06-21 01:02:32",
   "count": 17526,
   "items": [
+    {
+      "id": "mkt:019ee5fa-3732-7dd8-b0a0-e9b20812add2",
+      "time": "2026-06-21 01:00:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Ukrainian President Zelenskiy warned that Russia is preparing an imminent large-scale attack on Ukraine."
+    },
+    {
+      "id": "4945936",
+      "time": "2026-06-21 01:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基警告稱，俄羅斯即將對烏克蘭發動大規模襲擊。"
+    },
+    {
+      "id": "mkt:019ee5f9-54a2-7dd8-b0a0-e059ed435772",
+      "time": "2026-06-21 00:59:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian Revolutionary Guard Corps (IRGC) navy said in a radio broadcast near the Strait of Hormuz that, citing Israeli operations in Lebanon and US violations of commitments, the strait is closed to navigation and all vessels have been ordered to keep away to ensure their safety."
+    },
+    {
+      "id": "mkt:019ee5f7-cfec-7dd8-b0a0-df7ba62f3c81",
+      "time": "2026-06-21 00:58:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's ambassador to the United States, Yehiel Leiter, said on social media that the party violating the ceasefire agreement is Hezbollah."
+    },
     {
       "id": "4945935",
       "time": "2026-06-21 00:57:33",
@@ -161453,43 +161497,6 @@
         "AI Revolution"
       ],
       "text": "【After Amazon CEO briefed US officials, Trump administration restricts foreign use of Anthropic models】According to people familiar, the Trump administration has decided to block foreign access to Anthropic’s most capable AI models after Amazon CEO Andy Jassy told US officials, including Treasury Secretary Bessent, that Amazon researchers were able via a series of prompts to induce Anthropic’s Fable 5 to produce information that could be used in cyberattacks. The White House convened, security researchers corroborated Amazon’s findings, and the government — with presidential approval — will bar foreign governments, companies and individuals from accessing the tool. Anthropic said it will cut all user access to Mythos and Fable to ensure compliance; US officials have long judged Anthropic’s new models difficult to manage from a security standpoint."
-    },
-    {
-      "id": "mkt:019ec1ec-4a29-7dd8-afed-2fc7dcbb0161",
-      "time": "2026-06-14 00:59:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Downing Street said both leaders agreed freedom of navigation must be restored to mitigate global economic impact."
-    },
-    {
-      "id": "4933982",
-      "time": "2026-06-14 00:59:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "唐寧街：兩國領導人一致認為，必須恢復航行自由，以緩解全球經濟所受的影響。"
-    },
-    {
-      "id": "mkt:019ec1ec-0536-7dd8-afed-218f039a156f",
-      "time": "2026-06-14 00:58:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Downing Street: Prime Minister Starmer reiterated the UK is ready at any time to support implementation of any peace agreement."
-    },
-    {
-      "id": "4933981",
-      "time": "2026-06-14 00:58:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "唐寧街：英國首相斯塔默重申，英國隨時準備支援任何和平協議的執行。"
     }
   ]
 }
