@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-20 09:21:56",
-  "count": 17618,
+  "updated": "2026-06-20 09:26:07",
+  "count": 17619,
   "items": [
+    {
+      "id": "4945587",
+      "time": "2026-06-20 09:24:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【錦興電廠1號機組一次併網成功】華電能源訊息，6月18日18時，錦興電廠1號機組順利完成首次併網操作，實現一次併網圓滿成功。機組爐、機、電、熱控各系統執行平穩，各項關鍵執行引數優良可控。下一步，錦興電廠將有序開展後續涉網試驗及168小時滿負荷試執行，同步加快推進2號機組整套啟動各項籌備工作，按照已取得的排汙許可，按量排汙，按需排汙，全力保障機組按期投產發電。"
+    },
+    {
+      "id": "4945586",
+      "time": "2026-06-20 09:24:44",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【英媒：又一名內閣大臣敦促首相斯塔默離任】據英國《金融時報》19日報道，英國交通大臣海迪·亞歷山大當天敦促英國首相斯塔默制定離任時間表。報道援引政府成員的訊息稱，亞歷山大告訴斯塔默，為了國家和工黨的利益，他應該主動辭職，以便有序過渡到新領導人。據報道，英國內政大臣謝巴娜·馬哈茂德此前也曾呼籲斯塔默確定離任日期。（新華社）"
+    },
+    {
+      "id": "4945584",
+      "time": "2026-06-20 09:22:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：以色列使用禁用武器“白磷彈”攻擊黎巴嫩】據伊朗邁赫爾通訊社等媒體報道，黎巴嫩方面稱，以色列軍隊再次向黎巴嫩南部多個地區發動炮擊，以軍正在阿里·塔希爾山丘周圍進行“焦土式戰役”，期間使用了被禁止的白磷彈和集束炸彈。"
+    },
+    {
+      "id": "mkt:019ee29f-26cf-7dd8-b09b-b7f7c91f2e15",
+      "time": "2026-06-20 09:22:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Report: Lebanese sources say Israel used banned white phosphorus, cluster munitions in southern Lebanon】Media reported Lebanese sources said Israeli forces again shelled multiple areas in southern Lebanon, conducting a \"scorched-earth\" campaign around Ali Tahir hill and using banned white phosphorus and cluster munitions."
+    },
     {
       "id": "4945580",
       "time": "2026-06-20 09:16:39",
@@ -162221,31 +162261,6 @@
         "公司"
       ],
       "text": "亞馬遜雲科技（AWS）：Anthropic已要求我們撤銷所有區域所有使用者對Claude Fable 5和Claude Mythos 5的訪問許可權。"
-    },
-    {
-      "id": "4933560",
-      "time": "2026-06-13 09:25:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國禁止外國主體訪問Fable 5和Mythos 5，Anthropic髮長文駁斥】Anthropic釋出宣告稱，美國政府以國家安全權力為由，釋出了一項出口管制指令，要求暫停任何外國主體對人工智慧模型Fable 5 和Mythos 5的所有訪問許可權，無論該人員是否在美國境內，包括屬於外國公民的Anthropic員工。該命令的實際效果是，我們必須立即為所有客戶禁用Fable 5和Mythos 5，以確保合規。所有其他Anthropic模型的訪問將不受影響。我們於今天下午5點21分（美國東部時間）收到了政府的指令。該信函未說明其國家安全關切的具體細節。我們的理解是，政府認為其已獲悉一種繞過或“越獄”Fable 5的方法。迄今為止，政府僅向我們提供了口頭證據，證明存在一種潛在的狹窄、非通用越獄，本質上是透過要求模型讀取特定的程式碼庫並修復任何軟體缺陷。我們正在遵守政府的合法指令，並正在移除所有使用者對 Fable 5 和 Mythos 5 的訪問許可權。但是，我們不同意“某個狹窄的潛在越獄漏洞就應成為召回已部署給數億使用者的商業模型的原因”這一結論。"
-    },
-    {
-      "id": "mkt:019ebe94-5a07-7dd8-afe7-d54d53f0441b",
-      "time": "2026-06-13 09:24:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US bars foreign-person access to Fable 5 and Mythos 5; Anthropic to disable access】The US government issued an export-control order under national security authority requiring immediate suspension of any foreign-person access to Anthropic’s Fable 5 and Mythos 5, regardless of physical location, including foreign Anthropic employees, Anthropic said. The company said it received the order at 5:21pm ET and must disable customer access to Fable 5 and Mythos 5 immediately; access to all other Anthropic models remains unaffected. Anthropic said the government’s letter gave no written details and has only provided oral evidence alleging a potential narrow, non-general jailbreak method — essentially prompting the model to read a specific codebase and fix software defects. Anthropic said it will comply with the legal order but disputes that a narrow potential jailbreak justifies recalling models already deployed to hundreds of millions of users."
-    },
-    {
-      "id": "4933559",
-      "time": "2026-06-13 09:23:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【因未獲簽證 巴勒斯坦足協主席無法入境美國】據美國方面12日訊息，因尚未獲得美國簽證，巴勒斯坦足協主席賈布里勒·拉朱卜無法出席美國境內的2026年世界盃相關活動。（央視新聞）"
     }
   ]
 }
