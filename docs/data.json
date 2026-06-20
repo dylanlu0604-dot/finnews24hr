@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-20 17:54:31",
-  "count": 17588,
+  "updated": "2026-06-20 18:01:12",
+  "count": 17585,
   "items": [
+    {
+      "id": "4945766",
+      "time": "2026-06-20 17:55:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "據德國媒體20日援引當地警方訊息報道，慕尼黑一座橋樑上當天凌晨發生兩列貨運火車相撞事故，導致1人死亡、1人重傷。（新華社）"
+    },
     {
       "id": "mkt:019ee472-1552-7dd8-b09e-49546559f8c0",
       "time": "2026-06-20 17:52:22",
@@ -162010,42 +162018,6 @@
         "Greater China"
       ],
       "text": "【Former vice president of People's Insurance Company (Group) of China Yu Xiaoping under investigation】Yu Xiaoping, former party committee member and vice president of the People's Insurance Company (Group) of China, is suspected of serious disciplinary and legal violations and is under disciplinary review and a supervisory investigation by the Central Commission for Discipline Inspection and the National Supervisory Commission."
-    },
-    {
-      "id": "4933776",
-      "time": "2026-06-13 18:00:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國人民保險集團股份有限公司原副總裁俞小平接受審查調查】中國人民保險集團股份有限公司原黨委委員、副總裁俞小平涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ec06c-7e70-7dd8-afe9-e5da64c13e7b",
-      "time": "2026-06-13 17:59:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Market report: Israel struck Kafr Rumman in southern Lebanon."
-    },
-    {
-      "id": "4933775",
-      "time": "2026-06-13 17:58:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列襲擊黎巴嫩南部城鎮卡夫爾魯曼。"
-    },
-    {
-      "id": "4933774",
-      "time": "2026-06-13 17:56:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【前5月全國鐵路傳送外籍旅客1002.4萬人次、同比增長35.5%。】從中國國家鐵路集團有限公司獲悉，1至5月，中老鐵路傳送跨境旅客16.7萬人次、同比增長35%，廣深港高鐵傳送跨境旅客1453.4萬人次、同比增長14.5%。同時，鐵路部門積極適應國家過境免籤政策帶來的客流增長，為外籍旅客出行提供便利，前5月全國鐵路傳送外籍旅客1002.4萬人次、同比增長35.5%。（中新社）"
     }
   ]
 }
