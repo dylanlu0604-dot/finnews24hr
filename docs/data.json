@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-21 04:31:33",
-  "count": 17530,
+  "updated": "2026-06-21 04:35:32",
+  "count": 17533,
   "items": [
+    {
+      "id": "mkt:019ee6be-4886-7dd8-b0a1-e7a82919e762",
+      "time": "2026-06-21 04:34:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Vice President Vance said he will be in Switzerland for one to two days for talks with Iran and hopes to make progress on nuclear issues and a ceasefire in Lebanon."
+    },
+    {
+      "id": "4945992",
+      "time": "2026-06-21 04:34:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：黎巴嫩境內戰事局勢實際正在好轉。"
+    },
+    {
+      "id": "4945991",
+      "time": "2026-06-21 04:32:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "萬斯：希望能在核問題上取得進展，同時在黎巴嫩停火問題上取得進展。"
+    },
+    {
+      "id": "4945990",
+      "time": "2026-06-21 04:32:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯前往瑞士參與伊朗問題談判：只能在當地停留一兩天。"
+    },
+    {
+      "id": "4945989",
+      "time": "2026-06-21 04:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯稱美伊或將展開為期數日的談判。"
+    },
     {
       "id": "mkt:019ee6b9-9caf-7dd8-b0a1-dfb65b345734",
       "time": "2026-06-21 04:29:44",
@@ -161507,26 +161549,6 @@
         "DXY"
       ],
       "text": "Israel's Home Front Command detected rockets launched from Lebanon toward Metula in northern Galilee."
-    },
-    {
-      "id": "4934033",
-      "time": "2026-06-14 04:35:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列監測到有彈藥從黎巴嫩境內射向以色列北部地區。"
-    },
-    {
-      "id": "mkt:019ec2b0-3185-7dd8-afee-13220e38607e",
-      "time": "2026-06-14 04:33:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israel Defense Forces continue intensive operations in southern Lebanon】On the 13th the Israel Defense Forces (IDF) said they continued intensive operations in southern Lebanon, striking Hezbollah military infrastructure and personnel. The IDF said it discovered a Hezbollah-used underground tunnel in southern Lebanon last week and killed seven fighters there. In the past 24 hours the IDF said it struck more than 70 Hezbollah military targets, including launchers and buildings used to attack Israel, and killed multiple Hezbollah personnel."
     }
   ]
 }
