@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-21 12:56:43",
+  "updated": "2026-06-21 13:00:50",
   "count": 17566,
   "items": [
+    {
+      "id": "4946143",
+      "time": "2026-06-21 12:59:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國人權理事會舉行成立20週年高階別對話會】聯合國人權理事會第62屆會議19日舉行人權理事會成立20週年高階別對話會。中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德出席並闡述中方立場。賈桂德強調，文明具有多樣性，應尊重各國自主選擇的人權發展道路，處理好人權普遍性與文明多樣性的辯證關係。中國高度重視促進和保護人權，堅定不移走中國人權發展道路，願同各國共同促進國際人權事業健康發展，攜手構建人類命運共同體。（新華社）"
+    },
     {
       "id": "mkt:019ee886-d959-7dd8-b0a3-55f372f653b9",
       "time": "2026-06-21 12:53:31",
@@ -161828,16 +161836,6 @@
         "國際"
       ],
       "text": "以色列總統在特朗普80歲之際發帖：感謝特朗普對以色列安全的堅定承諾。"
-    },
-    {
-      "id": "mkt:019ec47e-4936-7dd8-afee-fff77a8330a2",
-      "time": "2026-06-14 12:57:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Construction Sixth Engineering Bureau, Dayu Group sign strategic cooperation framework】China Construction Sixth Engineering Bureau Co., Ltd. and Dayu Irrigation Group signed a strategic cooperation framework to jointly develop and construct projects in water infrastructure, smart water, water‑saving irrigation, ecological protection, rural revitalization, new energy and water–energy integration."
     }
   ]
 }
