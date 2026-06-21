@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-21 14:38:50",
-  "count": 17564,
+  "updated": "2026-06-21 14:42:54",
+  "count": 17569,
   "items": [
+    {
+      "id": "mkt:019ee8ea-1fbb-7dd8-b0a3-c03174628e88",
+      "time": "2026-06-21 14:41:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's central bank governor said foreign exchange reserves rose by USD 4.5 bln during the war."
+    },
+    {
+      "id": "4946181",
+      "time": "2026-06-21 14:40:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "科威特政府資料顯示，5月消費者物價指數環比上漲0.07%。"
+    },
+    {
+      "id": "4946180",
+      "time": "2026-06-21 14:40:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "科威特政府資料顯示，5月消費者物價指數同比上漲2.49%。"
+    },
+    {
+      "id": "mkt:019ee8e7-e00f-7dd8-b0a3-bb48c46905b7",
+      "time": "2026-06-21 14:39:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Ukraine again strikes Russian oil terminal】Russia's regional authorities said Ukrainian drones struck an oil terminal in Krasnodar Krai, sparking a fire. Ukrainian drones also hit a passenger ferry, killing one."
+    },
+    {
+      "id": "4946179",
+      "time": "2026-06-21 14:38:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地官員稱，俄羅斯克拉斯諾達爾地區一處石油碼頭遭烏克蘭無人機襲擊後起火。"
+    },
+    {
+      "id": "4946178",
+      "time": "2026-06-21 14:38:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地政府表示，烏克蘭無人機襲擊俄羅斯克拉斯諾達爾地區一艘客運渡輪，造成一人死亡。"
+    },
+    {
+      "id": "4946177",
+      "time": "2026-06-21 14:38:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄任命的克里米亞州長稱，烏克蘭無人機襲擊克里米亞，造成4人死亡、28人受傷。"
+    },
     {
       "id": "4946176",
       "time": "2026-06-21 14:33:58",
@@ -161797,22 +161858,6 @@
         "Brent"
       ],
       "text": "Saudi state TV reported US and Iranian delegations held an online meeting with mediators from Pakistan and Qatar in attendance. A memorandum of understanding is to be signed in the presence of Vance and Iran’s parliament speaker Ghalibaf, which, if signed, would reopen the Strait of Hormuz and allow vessels to transit without fees."
-    },
-    {
-      "id": "4934263",
-      "time": "2026-06-14 14:41:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月13日北京新房網籤272套、二手房網籤792套】北京市住建委官網資料顯示，6月13日北京新房網籤272套，網籤面積20865.64平方米，其中住宅網籤131套，網籤面積15926.54平方米；二手房網籤209套，網籤面積18876.14平方米，其中住宅網籤193套，網籤面積18287.1平方米。"
-    },
-    {
-      "id": "4934262",
-      "time": "2026-06-14 14:40:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音上線AI反網暴智慧體】針對網路暴力呈現的新形態，抖音推出AI反網暴行動，上線AI反網暴Agent（智慧體），讓網暴識別模型、研判模型與人工協同工作，並最佳化外呼救助機制，覆蓋風險發現、事件研判、主動治理到外呼救助。系統升級後，平臺日均識別出的潛在被網暴風險人群擴大 91.5%，每天有數千名使用者收到預警後主動開啟防網暴功能，因風險等級高而被人工外呼援助的受害者數量增長147%。"
     }
   ]
 }
