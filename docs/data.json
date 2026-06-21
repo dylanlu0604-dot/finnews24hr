@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-21 17:35:03",
+  "updated": "2026-06-21 17:39:04",
   "count": 17623,
   "items": [
+    {
+      "id": "mkt:019ee989-8c65-7dd8-b0a4-dd37f3e3f606",
+      "time": "2026-06-21 17:36:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media said Iran's parliament speaker met in Switzerland with Qatar's prime minister and foreign minister to discuss implementation of provisions of a US-Iran memorandum of understanding."
+    },
+    {
+      "id": "4946350",
+      "time": "2026-06-21 17:35:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦總理謝里夫與美國副總統萬斯會晤，庫什納、維特科夫及巴基斯坦陸軍參謀長亦出席。"
+    },
+    {
+      "id": "4946349",
+      "time": "2026-06-21 17:34:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體報道，伊朗議會議長在瑞士同卡達首相兼外交大臣商討了美伊諒解備忘錄相關條款的落實事宜。"
+    },
     {
       "id": "mkt:019ee987-9c56-7dd8-b0a4-d3acc10258f7",
       "time": "2026-06-21 17:33:59",
@@ -162243,37 +162267,6 @@
         "其他"
       ],
       "text": "【第十二屆上交會落幕 意向成交專案數首次突破600項】6月13日，第十二屆中國（上海）國際技術進出口交易會（簡稱“上交會”）落下帷幕。本屆上交會匯聚來自全球22個國家和地區以及全國24個省區市的創新成果，參展企業首次突破千家，達1006家。其中，高新技術、專精特新及瞪羚企業236家。全球或全國首發專案40個，意向成交專案數首次突破600項。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ec57f-09b0-7dd8-aff0-739235566f0d",
-      "time": "2026-06-14 17:38:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Israeli official said Prime Minister Netanyahu and US President Trump maintain a good relationship and that inevitable disagreements between allies can be overcome."
-    },
-    {
-      "id": "mkt:019ec57c-a7ad-7dd8-aff0-6e77d4ffc2b9",
-      "time": "2026-06-14 17:35:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli officials said they have asked Washington not to restrict Israel's military operations in Lebanon."
-    },
-    {
-      "id": "mkt:019ec57c-7564-7dd8-aff0-654bad0272f7",
-      "time": "2026-06-14 17:35:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "An Israeli official said they hoped talks would yield results and that fighting would not resume."
     }
   ]
 }
