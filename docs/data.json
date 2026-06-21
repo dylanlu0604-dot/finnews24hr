@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-21 14:17:51",
-  "count": 17565,
+  "updated": "2026-06-21 14:26:11",
+  "count": 17561,
   "items": [
+    {
+      "id": "mkt:019ee8d6-59c2-7dd8-b0a3-a845fcec0c55",
+      "time": "2026-06-21 14:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said it killed Hussein Qadla and Muhammad Farah, members of the military wings of Hamas and Palestinian Islamic Jihad."
+    },
+    {
+      "id": "4946171",
+      "time": "2026-06-21 14:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱擊斃了哈馬斯和伊斯蘭聖戰組織軍事分支兩位成員。"
+    },
+    {
+      "id": "mkt:019ee8d4-5d74-7dd8-b0a3-a47ba2fb85b8",
+      "time": "2026-06-21 14:18:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli military to stage scheduled exercise in Jaffa】The Israeli military said it is conducting a scheduled exercise in the Jaffa area, expected to conclude next Tuesday morning. The operation will involve concentrated movements of security forces and vehicles and associated construction activity."
+    },
     {
       "id": "4946170",
       "time": "2026-06-21 14:13:49",
@@ -161765,65 +161789,6 @@
         "BABA.N"
       ],
       "text": "【Alibaba says reports that Zhou Jingren resigned are baseless】June 14 — Alibaba Group responded to inquiries saying reports that Zhou Jingren has resigned are baseless. The company said it has observed coordinated online dissemination of the rumor and urged the public not to spread false information."
-    },
-    {
-      "id": "4934259",
-      "time": "2026-06-14 14:25:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陳茂波：香港五年規劃有助凝聚共識、匯聚力量】香港特區政府財政司司長陳茂波14日發表網誌表示，特區政府將於15日推出香港首個五年規劃公眾諮詢，為期兩個月。這一規劃不僅旨在增強經濟發展動能、推動科技更好應用，更希望實現社會更加普惠包容、市民享有更多優質就業機會和更美好生活。（新華社）"
-    },
-    {
-      "id": "4934258",
-      "time": "2026-06-14 14:24:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列對南黎巴嫩本特賈比爾地區的哈里斯和哈達塔兩鎮進行了兩次空襲。"
-    },
-    {
-      "id": "mkt:019ec4cd-3c88-7dd8-afef-4f18dac9db4d",
-      "time": "2026-06-14 14:24:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera reported Israel carried out two airstrikes on the towns of Harris and Hadatha in the Bint Jbeil area of southern Lebanon."
-    },
-    {
-      "id": "4934257",
-      "time": "2026-06-14 14:23:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里巴巴回應“周靖人離職”：謠言】6月14日，阿里巴巴向記者回應稱，“周靖人離職”純屬謠言。阿里巴巴方面表示：“我們注意到近幾日有人在網路上組織擴散該謠言，也呼籲大家不要傳播不實資訊。”（每日經濟新聞）"
-    },
-    {
-      "id": "4934256",
-      "time": "2026-06-14 14:22:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【駐日美軍士兵涉嫌傷害罪被捕】一名駐日美軍士兵涉嫌傷害罪被捕。據日本沖繩警方訊息，當地時間14日凌晨，警方接到報警稱，沖繩縣那霸市一餐飲店內發生糾紛，有人受傷。警方趕到現場後，以涉嫌傷害罪當場逮捕一名駐日美軍士兵。據瞭解，這名駐日美軍士兵當時處於飲酒後狀態，與餐飲店店員發生爭執後實施暴行，多次毆打店員頭部。該士兵對相關指控予以否認。警方正在對事件進行進一步調查。（央視新聞）"
-    },
-    {
-      "id": "4934255",
-      "time": "2026-06-14 14:21:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【預告】國務院新聞辦公室定於2026年6月16日（星期二）上午10時舉行新聞釋出會，請國家統計局新聞發言人、總經濟師、國民經濟綜合統計司司長付凌暉介紹2026年5月份國民經濟執行情況，並答記者問。"
-    },
-    {
-      "id": "mkt:019ec4c7-87fd-7dd8-afef-44d7cccfea12",
-      "time": "2026-06-14 14:17:51",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UK Ministry of Defence said British forces this morning boarded a sanctioned shadow-fleet tanker in the English Channel. The vessel SMYRTOS will be temporarily moved to an anchorage off England's south coast and monitored for environmental and safety risks."
     }
   ]
 }
