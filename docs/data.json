@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-21 22:52:10",
-  "count": 17607,
+  "updated": "2026-06-21 22:56:22",
+  "count": 17602,
   "items": [
+    {
+      "id": "mkt:019eeaac-4e72-7dd8-b0a7-462647b4d293",
+      "time": "2026-06-21 22:53:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iraq plans to restore oil output to pre-conflict levels】Iraq’s deputy oil minister for upstream affairs said on Sunday the country plans to gradually restore crude production to 4.2–4.3 mln bpd. The proposed increase would return output to levels before the Iran war and the closure of the Strait of Hormuz."
+    },
     {
       "id": "4946533",
       "time": "2026-06-21 22:47:37",
@@ -161996,58 +162009,6 @@
         "國際"
       ],
       "text": "美國防長赫格塞思：特朗普總統讓美國實現了國內能源自給。價格正在回落，這一點有目共睹。"
-    },
-    {
-      "id": "4934571",
-      "time": "2026-06-14 22:55:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "總統顧問稱，烏克蘭總統澤連斯基與美國總統特朗普進行了通話。"
-    },
-    {
-      "id": "mkt:019ec6a0-e201-7dd8-aff3-3f976c900dba",
-      "time": "2026-06-14 22:54:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump says he is \"very close\" to US-Iran deal that would bring peace to Lebanon】On the 14th, US President Trump said he is \"very close\" to reaching a US-Iran agreement that would bring peace to Lebanon and the wider region."
-    },
-    {
-      "id": "4934570",
-      "time": "2026-06-14 22:53:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：“非常接近”達成美伊協議 將給黎巴嫩帶來和平】美國總統特朗普14日稱，“非常接近”達成美伊協議，為包括黎巴嫩在內的整個地區帶來和平。（新華社）"
-    },
-    {
-      "id": "4934569",
-      "time": "2026-06-14 22:53:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【深夜國際油價急速拉昇，加密貨幣跳水】北京時間6月14日晚間，國際原油暗盤短線拉昇翻紅，截至22:23，美油暗盤、布油暗盤均漲超1.3%，此前，布油暗盤一度跌超2%。加密貨幣主要幣種跳水，此前日內漲幅超1.5%的比特幣短線下挫，漲幅收窄至0.2%。以太坊跌超0.8%，XRP跌超1.7%，狗狗幣跌超2%。過去24小時，全市場超7.6萬人爆倉。"
-    },
-    {
-      "id": "4934568",
-      "time": "2026-06-14 22:53:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "科技記者古爾曼：新版 Siri 歷經十五年，終於首次實現了應有的使用效果。依託裝置預裝的優勢，蘋果得以在與 ChatGPT、谷歌 Gemini、Claude 的競爭中站穩腳跟，有望分流這類主流人工智慧基礎場景（例如搜尋）的使用者群體。"
-    },
-    {
-      "id": "mkt:019ec69f-362a-7dd8-aff3-3196ce03545d",
-      "time": "2026-06-14 22:53:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lebanon sends letters to UN over Israeli glyphosate spraying and attack on Lebanese army vehicles】Lebanon’s Foreign Ministry said on June 14 it sent letters on June 10 and 11 to the UN Security Council and the UN Secretary‑General, lodging complaints about Israeli spraying of glyphosate in southern Lebanon and attacks on Lebanese army vehicles, and urging the UN to take measures to stop the actions."
     }
   ]
 }
