@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-22 02:06:29",
-  "count": 17485,
+  "updated": "2026-06-22 02:10:18",
+  "count": 17486,
   "items": [
+    {
+      "id": "4946611",
+      "time": "2026-06-22 02:09:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：06月22日01時58分在新疆伊犁州昭蘇縣（北緯43.36度，東經81.10度）發生4.0級地震，震源深度20千米。"
+    },
+    {
+      "id": "4946610",
+      "time": "2026-06-22 02:09:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普言論令伊美未來的談判走向仍不明朗】伊朗國家電視臺一名記者週日表示，在美國總統特朗普發表相關言論後，伊朗與美國談判的後續走向仍存變數。這名記者稱：“談判能否繼續目前尚不明確。”他還補充道，伊朗首席談判代表針對特朗普威脅言論作出回應後的各方反應，將很大程度決定下一步談判程序。此番表態釋出前，伊朗與美國代表團在瑞士舉行的談判已暫停。此前一名伊朗訊息人士透露，談判只是臨時休會，並未徹底終止。"
+    },
+    {
+      "id": "4946609",
+      "time": "2026-06-22 02:07:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國部長表示，霍爾木茲海峽一旦遭封鎖，責任在於特朗普。"
+    },
+    {
+      "id": "mkt:019eeb5c-c0fb-7dd8-b0a8-9f1e94dd9785",
+      "time": "2026-06-22 02:06:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【German defense minister says Trump responsible for Strait of Hormuz closure】Germany’s defense minister Boris Pistorius said President Trump bears responsibility for the closure of the Strait of Hormuz, adding that “ultimately the plug in this bottleneck was pushed in by Trump, not us, but we have an interest in pulling it back out.” He said Iran had earlier agreed under a preliminary deal signed by Trump and Iranian president Pezeshkian to reopen the waterway and shipping flows had begun to resume, but Iran on Saturday said it had reclosed the route citing Israeli strikes in Lebanon. Pistorius said keeping the Strait open, or ensuring safe passage, is in Europe’s energy-security and economic-recovery interest."
+    },
     {
       "id": "mkt:019eeb5b-2288-7dd8-b0a8-95c40592d01a",
       "time": "2026-06-22 02:04:38",
@@ -161002,30 +161037,6 @@
         "國際"
       ],
       "text": "市場資訊：以色列官員對特朗普週日釋出的一條帖文感到意外，帖文稱以色列不應再對黎巴嫩境內任何地點發動襲擊。"
-    },
-    {
-      "id": "4934719",
-      "time": "2026-06-15 02:09:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列評估認為，儘管特朗普試圖約束德黑蘭方面，伊朗仍將會對以色列發動襲擊。"
-    },
-    {
-      "id": "4934718",
-      "time": "2026-06-15 02:07:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列一名官員： 伊朗擊落美軍直升機時，即便無人傷亡，特朗普仍下令予以強硬反擊。 為何美國可以採取的行動，以色列卻被禁止為之？"
-    },
-    {
-      "id": "mkt:019ec750-7432-7dd8-aff5-ff6f32180d06",
-      "time": "2026-06-15 02:06:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says Israel 'upended plans,' says US and Iran will still sign agreement on 14th】Trump told Axios on the 14th that an Israeli strike on Beirut that morning \"upended plans\" and pushed a US-Iran agreement signing from the US ET morning to later that day. US media report Iran denies it will sign on the 14th; it is unclear whether Trump secured any Iranian assurance the deal would be signed."
     }
   ]
 }
