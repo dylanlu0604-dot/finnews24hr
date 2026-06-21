@@ -1,7 +1,30 @@
 {
-  "updated": "2026-06-21 10:43:44",
+  "updated": "2026-06-21 10:47:51",
   "count": 17548,
   "items": [
+    {
+      "id": "mkt:019ee812-9fef-7dd8-b0a2-d076265567cb",
+      "time": "2026-06-21 10:46:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Super El Niño by 2027 Could Threaten Global Stocks】NOAA's Climate Prediction Center puts the odds of a very strong El Niño by 2027 at about 63%. Saxo Bank commodity strategist Ole Hansen said a 'super El Niño' could raise regional temperatures, drive spikes in electricity demand, cut crop yields and rekindle inflationary pressure, complicating central-bank outlooks and posing downside risk to global equities near record levels. Hansen added the timing is sensitive because markets are still adjusting to inflation effects from the US‑Iran conflict and supply chains remain fragile after months of disruption. Market-sensitive sectors include agriculture, energy, utilities and insurance, with direct implications for inflation, policy guidance, liquidity and sector positioning."
+    },
+    {
+      "id": "4946089",
+      "time": "2026-06-21 10:45:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西柳江發生2026年第1號洪水】記者從廣西壯族自治區水文中心獲悉，受上游來水及降雨影響，廣西柳江柳州水文站6月21日8時05分水位漲至82.50米（警戒水位82.50米），根據《廣西壯族自治區主要江河洪水編號規定》，此次洪水編號為“柳江2026年第1號洪水”。（央視新聞）"
+    },
     {
       "id": "4946088",
       "time": "2026-06-21 10:42:59",
@@ -161656,22 +161679,6 @@
         "Copper"
       ],
       "text": "【China's national railway carried 1.67 bln tonnes of freight in Jan–May】China State Railway Group said the national railway transported 1.67 bln tonnes of freight in January–May, up 1.8% YoY. Average daily loaded cars were 186,300, up 2.8% YoY; on May 2 the network loaded 202,400 cars, a single‑day record."
-    },
-    {
-      "id": "4934125",
-      "time": "2026-06-14 10:46:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "澳大利亞勞工仲裁庭推翻了國際石油開發帝石公司阻止液化天然氣罷工的行動。"
-    },
-    {
-      "id": "4934124",
-      "time": "2026-06-14 10:44:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗專家會議成員：無需為諒解備忘錄感到擔憂】伊朗專家會議成員穆罕默德 - 邁赫迪・米爾巴蓋裡於週六出面安撫反對伊美擬議諒解備忘錄的人士，稱外界無需為此感到擔憂。米爾巴蓋裡補充道：“最高領袖穆傑塔巴・哈梅內伊正密切監督整個程序，給出重要指導意見，把控事態發展。”"
     }
   ]
 }
