@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-21 14:26:11",
-  "count": 17561,
+  "updated": "2026-06-21 14:30:27",
+  "count": 17565,
   "items": [
+    {
+      "id": "4946175",
+      "time": "2026-06-21 14:27:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世界盃塞內加爾隨隊記者遭遇簽證難題】本屆世界盃，伊朗隊的三場小組賽均在美國境內舉行。但美國對駐地位於墨西哥蒂華納市的伊朗隊施加了嚴格的行程限制，僅允許伊朗隊在比賽日前一天入境美國，並要求其在賽後當天離開美國。這一要求給伊朗隊的備戰造成極大不便。不僅是伊朗，央視記者近日在美國探訪正在訓練的塞內加爾隊時發現，美國給隨隊報道的塞內加爾記者簽發的是單次入境簽證，給報道工作也帶來困難。（央視新聞）"
+    },
+    {
+      "id": "4946174",
+      "time": "2026-06-21 14:26:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖哈梅內伊的軍事顧問警示：不要對伊美談判抱有樂觀情緒】伊朗最高領袖哈梅內伊的軍事顧問週日警示，不要對伊美談判抱有樂觀情緒，他稱美國是在無法逼迫伊朗屈服後才轉向談判渠道。他在社交平臺 X 上發文表示：“美國原本打算推行‘以實力求和平’戰略，迫使伊朗投降。如今該策略已然失敗，美方走投無路，才執意要開展談判。”這位前伊朗革命衛隊指揮官補充道：“任何樂觀心態都會被敵人加以利用。”"
+    },
+    {
+      "id": "mkt:019ee8db-a7e5-7dd8-b0a3-b27f854cd650",
+      "time": "2026-06-21 14:26:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran brigadier general warns optimism could be exploited】An Iranian brigadier general told state-affiliated Fars News the US sought to force Iran's submission via a \"peace through strength\" strategy and, having failed, is now desperately pushing for negotiations. He said the enemy has proven untrustworthy and warned: \"We must remain vigilant; any optimism could be exploited.\""
+    },
+    {
+      "id": "4946173",
+      "time": "2026-06-21 14:23:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗政府在社交媒體上釋出談判團隊在飛機上進行討論的圖片。"
+    },
+    {
+      "id": "4946172",
+      "time": "2026-06-21 14:23:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：美伊談判將聚焦核問題和以黎局勢】 據美國媒體20日報道，即將在瑞士舉行的美伊談判將聚焦伊朗核問題、以色列和黎巴嫩局勢。美國阿克西奧斯新聞網站20日援引兩名地區知情人士的話報道稱，美方希望透過首輪談判促成伊方允許聯合國核查人員訪問曾遭美國和以色列轟炸的核設施。作為交換，美方將允許伊方動用部分被凍結資金用於購買人道主義物資。美國哥倫比亞廣播公司同日援引一名參與談判的外交人員的話說，首輪談判議程中已增加了一場關於黎巴嫩真主黨與以色列停火問題的緊急會議。美國副總統萬斯20日啟程前往瑞士出席與伊朗方面的談判。萬斯在出發前對媒體說，他預計在瑞士停留一到兩天，希望談判在伊朗核問題、黎巴嫩戰線停火等方面取得進展。首輪談判旨在“確立實際架構和談判機制”，技術專家層面的工作級別磋商可能在首輪高階別談判結束後繼續在瑞士進行。（新華社）"
+    },
     {
       "id": "mkt:019ee8d6-59c2-7dd8-b0a3-a845fcec0c55",
       "time": "2026-06-21 14:20:22",
@@ -161778,17 +161819,6 @@
         "國際"
       ],
       "text": "市場訊息：卡達談判代表前往伊朗協助敲定協議。"
-    },
-    {
-      "id": "mkt:019ec4d2-723b-7dd8-afef-5329706befe7",
-      "time": "2026-06-14 14:29:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N"
-      ],
-      "text": "【Alibaba says reports that Zhou Jingren resigned are baseless】June 14 — Alibaba Group responded to inquiries saying reports that Zhou Jingren has resigned are baseless. The company said it has observed coordinated online dissemination of the rumor and urged the public not to spread false information."
     }
   ]
 }
