@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-22 05:17:54",
-  "count": 17469,
+  "updated": "2026-06-22 05:51:59",
+  "count": 17463,
   "items": [
+    {
+      "id": "4946692",
+      "time": "2026-06-22 05:50:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "已統計逾80%投票點選票，哥倫比亞大選右翼候選人德拉埃斯普列亞得票率50.3%暫居領先。"
+    },
+    {
+      "id": "4946691",
+      "time": "2026-06-22 05:50:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本讀賣新聞民調：高市內閣支援率69%。"
+    },
+    {
+      "id": "4946690",
+      "time": "2026-06-22 05:45:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "在統計超過60%的選票後，哥倫比亞左翼候選人塞佩達得票率為47.8%，暫居第二位。"
+    },
+    {
+      "id": "4946689",
+      "time": "2026-06-22 05:45:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "已統計超過60%投票站的結果，右翼候選人德拉埃斯普列利亞以50.5%的得票率在哥倫比亞大選中領先。"
+    },
+    {
+      "id": "mkt:019eec25-3d53-7dd8-b0a9-97fe720cceda",
+      "time": "2026-06-22 05:45:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reports Pakistan and Qatar are continuing mediation but have not reached a final outcome."
+    },
+    {
+      "id": "4946688",
+      "time": "2026-06-22 05:45:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引訊息人士訊息：巴基斯坦與卡達兩國調解方所做的努力仍在持續，但尚未取得最終結果。"
+    },
+    {
+      "id": "mkt:019eec25-01a8-7dd8-b0a9-8a6f22da6726",
+      "time": "2026-06-22 05:45:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reported Iran's delegation refused to return to four-way talks after Trump issued threats during negotiations, but exchanged messages via Qatari and Pakistani mediators."
+    },
+    {
+      "id": "4946687",
+      "time": "2026-06-22 05:45:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引知情人士訊息：在特朗普發出威脅後，伊朗代表團拒絕重返四方會談，但雙方已透過卡達和巴基斯坦調停者交換資訊。"
+    },
+    {
+      "id": "4946686",
+      "time": "2026-06-22 05:43:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，道達爾能源計劃在七天內完成得克薩斯州亞瑟港煉油廠的全面重啟。"
+    },
+    {
+      "id": "4946685",
+      "time": "2026-06-22 05:40:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "計票完成一半時，右翼候選人德拉埃斯普列亞以50.5%的得票率在哥倫比亞選舉中暫時領先。"
+    },
+    {
+      "id": "4946684",
+      "time": "2026-06-22 05:37:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家隊門將阿里·貝蘭萬德在世界盃賽事前的採訪中向伊朗球迷承諾，他會像封鎖霍爾木茲海峽一樣守住國家隊球門。"
+    },
+    {
+      "id": "4946683",
+      "time": "2026-06-22 05:36:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞左翼候選人塞佩達暫居第二，得票率47.9%，目前已有三分之一的票箱完成計票。"
+    },
+    {
+      "id": "4946682",
+      "time": "2026-06-22 05:36:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "在已統計三分之一選票的情況下，哥倫比亞右翼候選人德拉埃斯普列亞以50.4%的得票率在選舉中領先。"
+    },
+    {
+      "id": "4946681",
+      "time": "2026-06-22 05:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱英國首相斯塔默即將辭職，唐寧街駁斥該辭職傳聞。"
+    },
+    {
+      "id": "4946680",
+      "time": "2026-06-22 05:25:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 無意指責其他家庭，但對我而言，女兒留在烏克蘭本土求學至關重要。 切身親歷祖國正遭受的苦難，遠比道聽途說來得重要。戰時身處故土，和我們所有孩子一同直面導彈襲擊，這份經歷意義非凡。 與此同時，我並不苛責那些隨父母離開本國的孩子。"
+    },
+    {
+      "id": "mkt:019eec0d-94f2-7dd8-b0a9-820e0e92be27",
+      "time": "2026-06-22 05:19:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Syria says it can play constructive role in Lebanon crisis, denies plans for military intervention】SANA reported Syrian President Ahmed Shala said Syria can play a constructive role in resolving Lebanon’s crisis by supporting Lebanon and helping establish communication channels among Lebanese political factions, including Hezbollah. He said earlier comments about Syria’s possible role were misinterpreted and sparked concerns of potential military intervention. Shala said Syria seeks economic—not military—corridors with Lebanon, citing historical trade links between Damascus and Beirut and between Homs and Tripoli. He added talks with the US have focused on ending the conflict and addressing its consequences for Lebanon and Syria."
+    },
     {
       "id": "4946679",
       "time": "2026-06-22 05:09:44",
@@ -160664,225 +160797,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊相關官員：以色列襲擊貝魯特郊區達希耶之後，伊朗議會議長卡利巴夫叫停了與卡達牽頭的核相關談判。伊朗軍方啟動武器發射系統。特朗普最終臨時讓步，當即全面解除對伊朗的海上封鎖。根據原定協議，該封鎖本應在30天內逐步解除。"
-    },
-    {
-      "id": "mkt:019ec81d-8a19-7dd8-aff7-43b060d0ece6",
-      "time": "2026-06-15 05:50:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Iran's state television said Iran had forced the United States to accept a peace agreement."
-    },
-    {
-      "id": "4934814",
-      "time": "2026-06-15 05:50:33",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲天然氣價格開盤下跌5.5%，此前特朗普稱已達成伊朗核協議。"
-    },
-    {
-      "id": "4934813",
-      "time": "2026-06-15 05:49:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元兌日元跌0.2%至159.82，歐元兌美元漲0.3%報1.1600美元。"
-    },
-    {
-      "id": "4934812",
-      "time": "2026-06-15 05:49:23",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊美協議落地 美股或迎上漲 協議細節仍不明朗】特朗普總統宣佈美伊協議已正式達成，儘管協議細則尚不明確，伊朗也未完全表態認可，但美股股指期貨開盤後大機率走高。典型風險偏好風向標澳元兌美元匯率上漲約0.5%，漲幅超過歐元與日元，也印證了這一市場趨勢。原油期貨料將延續週五的跌勢。不過以色列襲擊黎巴嫩引發市場擔憂，原油交易商態度趨於謹慎。特朗普明確表態霍爾木茲海峽將恢復通航，進一步加劇了油價下行壓力。"
-    },
-    {
-      "id": "mkt:019ec81b-bdae-7dd8-aff7-391bf5359446",
-      "time": "2026-06-15 05:48:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【NYT: Iran cancels planned strike on Israel】The New York Times, citing three Iranian officials, reports Iran had planned a retaliatory strike on Israel over airstrikes in Lebanon but canceled the operation after Trump, via intermediaries, urged Tehran to show restraint."
-    },
-    {
-      "id": "4934811",
-      "time": "2026-06-15 05:48:19",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美元兌G10貨幣普遍走弱，特朗普宣佈與伊朗達成協議】美國總統特朗普宣佈與伊朗達成協議後，美元兌G10集團其他貨幣全線走低。澳元兌美元（AUD/USD）上漲0.4%，報0.7075；紐西蘭元兌美元（NZD/USD）上漲0.3%，報0.5850；美元兌日元（USD/JPY）下跌0.3%，報159.84；歐元兌美元（EUR/USD）上漲0.3%，報1.1597。"
-    },
-    {
-      "id": "4934810",
-      "time": "2026-06-15 05:43:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗方面稱：憑藉軍隊與民眾對邪惡之敵的有力抗爭、堅定立場和英勇抵抗，美國被迫接受結束戰爭。"
-    },
-    {
-      "id": "4934809",
-      "time": "2026-06-15 05:43:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【養殖企業5月份銷售均價環比上漲 行業迎階段性暖意】截至6月14日，A股擁有生豬養殖業務的上市公司陸續釋出了5月份的銷售資料。結合資料情況來看，上述企業5月份銷售均價環比有明顯上漲，這讓持續深陷價格低谷的生豬養殖板塊迎來階段性暖意。"
-    },
-    {
-      "id": "4934808",
-      "time": "2026-06-15 05:40:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破65000美元，日內漲0.86%。"
-    },
-    {
-      "id": "mkt:019ec811-c72a-7dd8-aff7-35c5b03e5370",
-      "time": "2026-06-15 05:37:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS reports Iranian officials will speak in a few minutes regarding reports that an agreement has been reached."
-    },
-    {
-      "id": "4934807",
-      "time": "2026-06-15 05:35:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美元全面下滑，特朗普稱美伊達成和平協議，澳元領漲0.5%。"
-    },
-    {
-      "id": "4934806",
-      "time": "2026-06-15 05:32:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普稱協議已完成，美元兌G10其他貨幣下跌。"
-    },
-    {
-      "id": "4934805",
-      "time": "2026-06-15 05:32:28",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：與伊朗的協議現已達成。向所有人表示祝賀！我特此全面授權霍爾木茲海峽免費通航，並同步授權立即解除美國的海上封鎖。全球的船隻們，啟動引擎吧。讓石油流通起來！"
-    },
-    {
-      "id": "mkt:019ec80c-e494-7dd8-aff7-28afffddbd66",
-      "time": "2026-06-15 05:32:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Trump says Iran deal reached; Strait of Hormuz open, U.S. naval blockade lifted】U.S. President Trump said an agreement with Iran has been reached and that he has fully authorized free passage through the Strait of Hormuz. He authorized the immediate lifting of the U.S. Navy’s blockade on Iran and urged vessels from all countries to sail, saying oil should flow."
-    },
-    {
-      "id": "4934804",
-      "time": "2026-06-15 05:31:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：授權美國海軍立即解除封鎖霍爾木茲海峽。"
-    },
-    {
-      "id": "4934803",
-      "time": "2026-06-15 05:30:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：與伊朗的協議已經達成。"
-    },
-    {
-      "id": "mkt:019ec80b-526f-7dd8-aff7-26491cadd508",
-      "time": "2026-06-15 05:30:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "President Trump said an agreement with Iran is now complete."
-    },
-    {
-      "id": "4934802",
-      "time": "2026-06-15 05:30:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：批准霍爾木茲海峽全面免費通航。"
-    },
-    {
-      "id": "4934801",
-      "time": "2026-06-15 05:29:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱內塔尼亞胡支援這份伊核協議，他表示該協議永久禁止伊朗研發核武器，對以色列有利。"
-    },
-    {
-      "id": "mkt:019ec809-4119-7dd8-aff7-1ddfff8f52db",
-      "time": "2026-06-15 05:28:30",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. dollar index (DXY) fell 0.15% intraday."
-    },
-    {
-      "id": "mkt:019ec803-a5ff-7dd8-aff7-17583f68ee71",
-      "time": "2026-06-15 05:22:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Pakistan's prime minister said mediators will hold a series of meetings this week after a US-Iran agreement; pre-implementation discussions will lay groundwork for technical talks and a formal signing ceremony."
-    },
-    {
-      "id": "4934800",
-      "time": "2026-06-15 05:20:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【巴總理：美國與伊朗已達成和平協議】巴基斯坦總理謝謝里夫表示：“經過多輪密集談判，我們欣然宣佈，美國與伊朗已達成和平協議。雙方宣佈立即、永久停止所有戰線的軍事行動，黎巴嫩境內戰事亦同步終止。協議正式簽署儀式將於6月19日（週五）在瑞士舉行。感謝美國與伊朗伊斯蘭共和國致力於透過外交途徑化解衝突。同時，誠摯感謝參與斡旋的卡達領導層，為這份協議的達成提供了大力支援。也特別感謝沙烏地阿拉伯王國與土耳其共和國富有遠見的領導層，各方為此作出了巨大貢獻。協議現已敲定，斡旋方本週將牽頭開展一系列會談。這些落地前的預備磋商，將為後續技術性談判以及正式簽署儀式築牢基礎。”"
     }
   ]
 }
