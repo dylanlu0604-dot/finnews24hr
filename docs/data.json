@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-22 00:28:30",
-  "count": 17513,
+  "updated": "2026-06-22 00:32:37",
+  "count": 17515,
   "items": [
+    {
+      "id": "mkt:019eeb06-2698-7dd8-b0a7-ffeaab8c352b",
+      "time": "2026-06-22 00:31:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS, citing sources, says Iran's delegation walked out of talks in protest at comments by Trump."
+    },
+    {
+      "id": "4946585",
+      "time": "2026-06-22 00:31:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士：伊朗代表團為抗議特朗普言論已離開談判會場。"
+    },
+    {
+      "id": "mkt:019eeb03-1829-7dd8-b0a7-f74851160acd",
+      "time": "2026-06-22 00:28:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israel says it killed more than 20 Hezbollah fighters in southern Lebanon】On the 21st the IDF said it discovered an underground tunnel with four shafts and hundreds of weapons beneath the southern Lebanese village of Majdal Zoun, about 10 km from the Israel-Lebanon border, and that the 551st Brigade of its 91st Division is conducting operations there. The IDF said it killed more than 20 Hezbollah fighters during the operation, including over 10 members of the elite Radwan unit, and destroyed more than 50 military sites including observation posts and weapons storage facilities."
+    },
     {
       "id": "4946584",
       "time": "2026-06-22 00:27:07",
@@ -161256,20 +161288,6 @@
         "國際"
       ],
       "text": "【中華人民共和國和蒙古國外交部長會談聯合新聞公報】應蒙古國國家大呼拉爾委員、外交部長巴特蒙赫·巴特策策格邀請，中共中央政治局委員、中華人民共和國外交部長王毅於2026年6月13日至15日對蒙古國進行訪問。雙方在友好的氛圍中舉行會談，確認以兩國元首達成的共識為引領，推動中蒙全面戰略伙伴關係不斷向前發展。（新華社）"
-    },
-    {
-      "id": "mkt:019ec6f6-a925-7dd8-aff4-f2754999d9c1",
-      "time": "2026-06-15 00:28:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump told Fox News a deal with Iran will be signed remotely first, with a possible in-person signing in Europe about a week later."
     }
   ]
 }
