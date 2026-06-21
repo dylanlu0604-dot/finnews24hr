@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-21 20:34:28",
-  "count": 17623,
+  "updated": "2026-06-21 20:39:37",
+  "count": 17619,
   "items": [
+    {
+      "id": "4946447",
+      "time": "2026-06-21 20:36:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及與阿聯酋企業簽署合作協議，將投資逾30億美元開發新開羅城市專案。"
+    },
+    {
+      "id": "4946446",
+      "time": "2026-06-21 20:35:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：幾內亞總統下令禁止黃金原礦出口。"
+    },
     {
       "id": "4946445",
       "time": "2026-06-21 20:31:24",
@@ -162187,63 +162203,6 @@
         "其他"
       ],
       "text": "【第三屆長春光博會引資超205億元】第三屆長春國際光電博覽會(簡稱“長春光博會”)14日閉幕。長春市經濟合作局局長趙慶利在閉幕新聞釋出會上介紹，自展會籌備以來，全市共簽約專案69個，總投資額達205.46億元。此次簽約專案覆蓋半導體與高階製造、衛星技術與應用、光電感測與儀器等多個領域。其中，既有仿生機器人研發製造等高階製造專案，也有高解析度高定位精度遙感載荷技術產業化、光學成像探測裝置生產研發基地等衛星應用專案，以及固態鐳射雷達研發生產等光電感測專案。"
-    },
-    {
-      "id": "4934470",
-      "time": "2026-06-14 20:36:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗談判代表就以色列襲擊貝魯特南郊事件在X平臺發文稱：\"若無法履行承諾，談論繼續推進程序便無從談起\"。"
-    },
-    {
-      "id": "mkt:019ec621-ea53-7dd8-aff1-c40298072d33",
-      "time": "2026-06-14 20:36:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said continuing down this path is simply not feasible if there is neither the willingness nor the ability to fulfill commitments."
-    },
-    {
-      "id": "mkt:019ec621-dc48-7dd8-aff1-bf9f67d6f39f",
-      "time": "2026-06-14 20:36:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said giving Israel a \"green light\" will not win any concessions and that the \"good cop, bad cop\" tactic has been played out."
-    },
-    {
-      "id": "4934469",
-      "time": "2026-06-14 20:35:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：以色列在黎巴嫩南部的違規行為再次證明，它要麼沒有履行義務的意願，要麼缺乏履行義務的能力。"
-    },
-    {
-      "id": "mkt:019ec621-6ec6-7dd8-aff1-b1bb63bc6219",
-      "time": "2026-06-14 20:35:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said Israel’s violations in southern Lebanon again indicate it either lacks the will or the capability to meet its obligations."
-    },
-    {
-      "id": "mkt:019ec620-b3a1-7dd8-aff1-ab5064476d2c",
-      "time": "2026-06-14 20:34:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian state media quoted the deputy commander of Iran's Joint Military Command as saying Israel's 'crimes' in Lebanon will not go unpunished."
     }
   ]
 }
