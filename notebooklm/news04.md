@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-22 00:49:16_
-_本檔包含 3441 則快訊，約 651212 字_
+_更新時間：2026-06-22 01:29:23_
+_本檔包含 3429 則快訊，約 650608 字_
+
+---
+
+### 2026-06-17 08:03:02  #公司 #觀點
+
+【摩根大通預計到2030年 AI基礎設施建設總花費將達5.5萬億美元】摩根大通上調對大型科技公司建設人工智慧(AI)基礎設施所需的花費和借款預估。該行策略師一份研報中指出，他們預計到2030年，AI超大規模資料中心運營商將為此投入約5.5萬億美元，較11月時的預測增加4000億美元。自該行11月做出預測以來，與AI和資料中心有關的債券發行規模已超過3000億美元。他們表示，資料中心的債券發行是今年初債券發行量接近歷史最高水平的最大推手。
+
+---
+
+### 2026-06-17 08:02:44  #觀點
+
+【華泰證券：資金面仍具活躍基礎】華泰證券研報稱，上週市場主線仍有所調整，前期抱團的融資資金活躍度有所回落，但華泰證券認為資金面仍有一定活躍的基礎：1.有融資融券負債的投資者數量在本次回撥中持續維持高位，融資擔保比例回落至280%，接近4月初點位，投資者拋壓或相對可控；2.龍虎榜資金近一個月淨流入仍維持在相對高位，投資者尚未完全離場；3.ETF淨流出壓力邊際緩解，上週ETF淨流入首次轉正至100億元，其中寬基ETF是主要增量，淨流入94億元；4.基金倉位上週邊際有所回升，其主要加倉消費、金融方向，對TMT的倉位維持相對穩定。
+
+---
+
+### 2026-06-17 08:02:40  #央行 #國際
+
+【多數券商目前預測美聯儲2026年不會調整政策】多數跨國大型券商目前預計美國聯邦儲備理事會在2026年剩餘時間都將維持利率不變，與年初預期將降息兩次的觀點形成反轉。目前美聯儲官員面臨通脹風險及就業市場展現韌性的局面。 芝商所（CME）的FedWatch工具顯示，交易員預計美聯儲12月加息25個基點的機率約為42%，在美伊和平協議達成後，升息預期有所下調。
+
+---
+
+### 2026-06-17 08:02:18  #MKT News #005930.KS #Impact bearish
+
+Samsung Electronics shares fell 3%.
+
+---
+
+### 2026-06-17 08:01:35  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei index opened down 381.75 points, or 0.55%, at 69,022.75 on Wednesday, June 17.
+
+---
+
+### 2026-06-17 08:01:33  #MKT News
+
+South Korea's KOSPI opened down 106.53 points, or 1.22%, at 8,620.07 on Wednesday, June 17.
+
+---
+
+### 2026-06-17 08:01:05  #公司 #市場
+
+三星電子股價下跌3%。
+
+---
+
+### 2026-06-17 08:00:37  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤下跌1.2%，至8622.13點。
+
+---
+
+### 2026-06-17 08:00:15  #市場
+
+【日韓股市開盤】日經225指數上午開盤報69005.88點，跌幅0.57％。韓國綜合股價指數（KOSPI）開盤下跌1.2％，至8622.13點。
+
+---
+
+### 2026-06-17 07:59:55  #其他
+
+【經濟日報：市場不歡迎虛假“百億補貼”】經濟日報指出，今天的電商市場已經告別了增量擴張，全面進入存量博弈階段。單純依靠概念造勢、低價內卷收割流量，反而會失去市場信任。消費者要的很簡單：有多大肚子吃多少飯。平臺大促能掏多少錢，就說多少錢補貼，而且不能把補貼成本轉嫁給商家。消費者受益，商家賺錢，平臺生態健康，這才是可持續的發展模式。
+
+---
+
+### 2026-06-17 07:58:31  #觀點 #央行
+
+【摩根士丹利：澳大利亞央行下一步利率舉措可能是降息】摩根士丹利經濟學家表示，澳大利亞央行下一步的利率舉措可能是下調利率。在通脹仍是澳大利亞央行首要關注點的背景下，他們預計澳大利亞央行在未來幾個月的言論將保持相對偏緊縮，同時在核心通脹上升和國內需求放緩這些指向不一的訊號中維持利率不變。他們認為，只有當其中一種趨勢發生轉變時，該央行才會採取行動。摩根士丹利的觀點是，通脹最有可能下降，但這只有在房地產市場放緩的範圍擴大，從而影響到勞動力狀況和價格時才會發生。
+
+---
+
+### 2026-06-17 07:58:31  #經濟數據 #日本
+
+日本5月份出口同比增長17.0%，預估為16.5%；日本5月份進口同比增長12.5%，預估為12.8%。
+
+---
+
+### 2026-06-17 07:57:57  #公司
+
+【騰訊控股：根據全球中期票據計劃，完成發行24.5億美元及人民幣150億元票據】騰訊控股在港交所公告，根據全球中期票據計劃，完成發行24.5億美元及人民幣150億元票據。
+
+---
+
+### 2026-06-17 07:56:45  #公司
+
+【一季度智慧眼鏡出貨量暴增超130% 機構預測19只概念股未來3年淨利增速超30%】IDC最新資料顯示，2026年第一季度全球智慧眼鏡市場出貨量356.6萬臺，同比增長130.1%。其中全球音訊和音訊拍攝眼鏡市場出貨量224.8萬臺，同比增長167.4%；AR/VR市場出貨131.8萬臺，同比增長85.9%。據IDC行業預測資料，2026年全球消費級智慧眼鏡出貨量預計突破2368.7萬臺；其中中國市場出貨量將達491.5萬臺，國內出貨規模佔全球兩成以上。伴隨AI大模型搭載、輕量化硬體成熟、消費品以舊換新補貼落地，行業正式告別小眾嚐鮮階段，邁入規模化增長新階段。根據Wind資料，目前智慧眼鏡產業鏈個股有190餘隻，從機構評級家數來看，49股機構評級在5家及以上，兆易創新、億緯鋰能、工業富聯、豪威集團評級家數居前，均超20家。上述49只機構高度關注股，機構預測2026年、2027年、2028年淨利潤增速均超30%的個股有19只。其中，卓勝微、翱捷科技-U、盛科通訊-U、納芯微、芯原股份、寒武紀未來3年淨利潤增速均值居前，均超100%。
+
+---
+
+### 2026-06-17 07:56:10  #經濟數據 #日本
+
+【日本4月核心機械品訂單較上年同期增加15.6%】6月17日訊息，日本4月核心機械品訂單較上年同期增加15.6%，日本4月核心機械品訂單較上月增加8.7%，預期增加0.9%。
+
+---
+
+### 2026-06-17 07:55:27  #MKT News #Market Regions #Europe & UK #USDJPY #Impact bearish
+
+Japan's Finance Ministry said exports to the EU rose 14.5% year-on-year in May.
+
+---
+
+### 2026-06-17 07:53:09  #觀點
+
+【中信建投：當前房地產市場築底訊號明確，供給端延續提質縮量態勢】中信建投研報稱，當前房地產市場築底訊號明確，一線城市率先量價企穩回升，二手房活躍度顯著高於新房，成為全國回暖標杆，但三四線城市仍深陷庫存高企、價格陰跌的困境。供給端延續提質縮量態勢，土地供應與新開工面積持續下滑，未來新房供應收縮將加速供需平衡，保障房建設穩步推進但仍面臨資金、土地等堵點。資金端行業融資規模創歷史同期新低，央國企與民企融資成本差距拉大，居民加槓桿意願持續低迷成為市場修復的主要制約。風險化解取得決定性進展，保交樓任務基本完成，房企債務違約進入重組末期，增量風險基本出清。長期來看，人口總量見頂推動行業從增量擴張轉向存量博弈，市場保障雙軌制新模式加速構建，政策將堅持“一城一策”，一線城市仍有鬆綁空間。
+
+---
+
+### 2026-06-17 07:52:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
+
+Japan's Ministry of Finance said exports to the U.S. in May rose 12.5% YoY.
+
+---
+
+### 2026-06-17 07:52:36  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Steady Ahead of Fed Decision — US stock futures stabilized on Wednesday as investors prepared for the upcoming Federal Reserve policy decision, where it is widely expected to keep interest rates unchanged. On the economic front, markets will monitor retail sales and pending home sales data, while earnings reports from CarMax and Jabil are also due. In regular trading on Tuesday, the Dow gained 0.64%, whereas the S&P 500 and Nasdaq Composite fell 0.57% and 1.15%, respectively. Technology shares came under pressure as investors locked in profits following a strong rally in semiconductor stocks, with Nvidia (-2.4%), Broadcom (-4.4%), Micron (-6.2%), AMD (-7.3%), and Intel (-8.5%) posting notable declines. Meanwhile, SpaceX advanced 4.8%, extending gains since its IPO on Friday, amid reports that the company plans to acquire Cursor in a deal valued at $60 billion.
 
 ---
 
@@ -20599,191 +20713,5 @@ South Korea | Import Price Index (YoY) (May) | actual 24.8% | previous 20.20%
 ### 2026-06-16 04:52:43  #MKT News #WTI #Impact bearish #Brent
 
 【Zimbabwe cuts policy rate 500bps to 30%; first central bank to ease after U.S.-Iran peace agreement】Zimbabwe central bank cut its policy rate on Monday from 35% to 30% (500bps), the first rate cut since April 2024 when the bank reset rates after introducing the new ZiG currency. Headline inflation slowed to 4.4% YoY in May from 4.8% the prior month. The central bank noted that if the U.S.-Iran peace agreement restores oil and fertilizer supplies fully, price pressures could ease further, helping lower energy and food costs.
-
----
-
-### 2026-06-16 04:47:23  #公司 #國際
-
-日本泰拉無人機公司收購兩家烏克蘭無人機製造商，推進全球業務佈局。
-
----
-
-### 2026-06-16 04:45:44  #公司
-
-億滋國際：盧卡·扎拉梅拉將繼續擔任執行副總裁兼營運長。
-
----
-
-### 2026-06-16 04:45:41  #公司
-
-億滋國際任命阿米特·巴納蒂為執行副總裁兼首席財務官，自2026年7月1日起生效。
-
----
-
-### 2026-06-16 04:45:24  #公司
-
-億滋國際任命阿米特·巴納蒂為執行副總裁兼首席財務官。
-
----
-
-### 2026-06-16 04:44:16  #其他
-
-英國泰晤士水務距離國有化又近了一步，英國大臣已正式否決一項100億英鎊的紓困方案。
-
----
-
-### 2026-06-16 04:42:25  #其他
-
-【高通洽談收購Tenstorrent，補強人工智慧晶片研發實力】高通正洽談收購人工智慧晶片設計初創企業Tenstorrent。雙方商討的收購對價區間至少在80億至100億美元，相較於Tenstorrent上一輪估值存在大幅溢價。目前尚不清楚這筆交易價款是否會包含與業績目標掛鉤的浮動支付款項，以往半導體初創企業收購案通常會設定此類條款。雙方談判仍在進行中，交易金額存在變動可能，洽談也有破裂風險。若完成收購，高通將大幅擴充自身人工智慧與資料中心晶片產品線實力。
-
----
-
-### 2026-06-16 04:40:59  #其他
-
-高通與Tenstorrent已就80億至100億美元的潛在交易價格展開討論。
-
----
-
-### 2026-06-16 04:39:23  #國際
-
-伊朗媒體稱，三艘油輪及兩艘裝載伊朗必需物資的船舶“突破”了美國海上封鎖。
-
----
-
-### 2026-06-16 04:37:16  #公司 #國際
-
-【歐盟與摩爾多瓦正式啟動首個入盟談判議題】歐盟理事會15日釋出公告稱，歐盟與摩爾多瓦當天就摩爾多瓦加入歐盟談判程序中的“基本原則”議題正式啟動談判。公告表示，“基本原則”議題涵蓋歐盟法律體系中與法治和基本權利、民主制度運作、公共行政改革以及經濟標準相關的關鍵要素。公告指出，在入盟談判程序中，“基本原則”議題是最先啟動、最後結束的核心議題，其進展將決定整個入盟談判的節奏。談判期間，歐盟將持續評估摩爾多瓦在對接歐盟法律體系以及落實相關標準方面的進展情況。
-
----
-
-### 2026-06-16 04:35:31  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-HEZBOLLAH fired rockets and artillery at Israeli forces in southern Lebanon; clashes are ongoing.
-
----
-
-### 2026-06-16 04:35:01  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.92% Higher — The Dow Jones Index went up by 469 points or 0.92 percent on Monday to close at 51671 points. The rise was led by Boeing (4.66%), Nvidia (3.40%) and Amazon (3.12%). On the downside, the weakerst performers were Chevron (-3.60%), Merck (-3.37%) and Verizon (-2.06%).
-
----
-
-### 2026-06-16 04:34:53  #國際
-
-真主黨表示，其在黎巴嫩南部地區以多輪火箭彈和炮彈打擊了以色列軍隊，目前衝突仍在持續。
-
----
-
-### 2026-06-16 04:32:54  #MKT News #WTI #Impact bearish #Brent
-
-Iranian state television reported three oil tankers and two vessels carrying essential goods have broken through a US maritime blockade.
-
----
-
-### 2026-06-16 04:31:37  #MKT News #Important #WTI #Impact bearish #Brent
-
-Iranian state television reported the US has begun lifting its maritime blockade of Iran.
-
----
-
-### 2026-06-16 04:30:39  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
-
-Amazon Web Services (AWS) launched the GEMMA 4 model on Amazon Bedrock.
-
----
-
-### 2026-06-16 04:30:22  #公司
-
-亞馬遜雲科技（AWS）：在亞馬遜Bedrock平臺推出Gemma 4模型。
-
----
-
-### 2026-06-16 04:29:02  #焦點 #國際
-
-伊朗方面：美國已開始解除海上封鎖。
-
----
-
-### 2026-06-16 04:27:37  #其他
-
-富士康與施耐德電氣達成合作，共同佈局人工智慧資料中心裝置業務。
-
----
-
-### 2026-06-16 04:23:18  #國際
-
-【美加州州長稱特朗普指示司法部對其展開調查】美國加利福尼亞州州長紐森15日指責總統特朗普將他視為“政治敵人”，並“指示司法部”對其展開調查。紐森在社交媒體上稱，特朗普將他和妻子一起列入“打擊名單”。“調查人員敲響了我們家族朋友和前僱員的家門。他們這麼做並不是因為發現了什麼犯罪行為，而是試圖找出一個罪名。”紐森表示，這項調查帶有政治動機，因為他一直公開批評特朗普，同時也在考慮競選下屆美國總統。（新華社）
-
----
-
-### 2026-06-16 04:22:31  #MKT News #Important
-
-【California governor says Trump instructed DOJ to investigate him】California Governor Gavin Newsom said on the 15th that President Trump, viewing him as a "political enemy," instructed the DOJ to open an investigation. Newsom said Trump placed him and his wife on a "hit list" and that investigators have knocked on doors of family friends and former employees; he said this was not prompted by evidence of criminal conduct but by an effort to find charges. He called the probe politically motivated, noting he has publicly criticized Trump and is considering a presidential run.
-
----
-
-### 2026-06-16 04:21:23  #觀點
-
-摩根大通宣佈將於2027年舉辦投資者日。
-
----
-
-### 2026-06-16 04:21:14  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
-
-Market sources: Multiple studios within Microsoft's (MSFT.O) Xbox division, including Compulsion Games and Double Fine, are in active talks to be spun off or divested.
-
----
-
-### 2026-06-16 04:20:36  #MKT News
-
-The Israeli military said no casualties were reported after Hezbollah fired anti-tank missiles and multiple mortar rounds at its troops in southern Lebanon.
-
----
-
-### 2026-06-16 04:20:02  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-ISRAELI MILITARY said it intercepted multiple rockets fired by HEZBOLLAH at forces in southern Lebanon.
-
----
-
-### 2026-06-16 04:19:35  #國際
-
-以色列軍方表示，在真主黨對在黎巴嫩南部開展行動的以軍士兵發射一枚反坦克導彈和多枚迫擊炮彈後，目前尚無人員傷亡報告。
-
----
-
-### 2026-06-16 04:19:07  #焦點 #國際
-
-以色列軍方稱，攔截了多枚真主黨向黎巴嫩南部以軍部隊發射的火箭彈。
-
----
-
-### 2026-06-16 04:18:14  #公司 #國際
-
-美國共和黨參議員克魯茲在信函中對私募股權公司Grain Management計劃從T-Mobile美國收購800兆赫茲無線頻譜一事提出質疑。
-
----
-
-### 2026-06-16 04:17:04  #國際
-
-伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡尼：真主黨在近期戰事中表現十分出色。哈馬斯將會重建。整個抵抗軸心在此次衝突中展現出強大力量。
-
----
-
-### 2026-06-16 04:16:12  #其他 #焦點
-
-加拿大將針對部分個人資訊推出“刪除權”法規。
-
----
-
-### 2026-06-16 04:16:04  #國際
-
-日本衛材將向英國工廠投入6400萬美元，用於注射劑藥品分裝業務。
-
----
-
-### 2026-06-16 04:14:30  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Rally as Oil Slumps on US-Iran Deal — US stocks rallied Monday after the US and Iran reached a preliminary agreement to end the Middle East conflict and reopen the Strait of Hormuz, easing inflation concerns and sending oil prices lower. The S&P 500 rose 1.7%, the Dow Jones gained 469 points to a record high, and the Nasdaq surged 3.1%, its best day since March 31. US crude prices fell 5%, boosting shares of fuel-sensitive companies, with United Airlines climbing 3.9%, Norwegian Cruise Line adding 3.7%, and Carnival Corp rising 3.2%. The drop in oil prices also improved broader market sentiment, supporting gains across growth-oriented sectors, particularly technology stocks. On the corporate front, SpaceX shares soared 15%, extending gains after jumping 19% in their public market debut on Friday. Meanwhile, Fox Corp. tumbled 17% after unveiling plans to acquire Roku in a $22 billion transaction. Investors are now focused on the Federal Reserve’s upcoming policy meeting, where rates are expected to remain unchanged.
 
 ---

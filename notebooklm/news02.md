@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-22 00:49:16_
-_本檔包含 3450 則快訊，約 651267 字_
+_更新時間：2026-06-22 01:29:23_
+_本檔包含 3464 則快訊，約 650551 字_
+
+---
+
+### 2026-06-18 23:37:17  #MKT News
+
+U.S. Vice President Vance said on the Lebanon-related element of the Iran deal he expects both sides to comply with the agreement.
+
+---
+
+### 2026-06-18 23:37:12  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
+
+On Thursday June 18, Germany's DAX 30 closed up 87.01 pts (+0.35%) at 25,018.56; UK's FTSE 100 closed down 118.89 pts (-1.13%) at 10,389.72; France's CAC 40 closed up 37.19 pts (+0.44%) at 8,467.98; Euro Stoxx 50 closed up 21.13 pts (+0.34%) at 6,321.20; Spain's IBEX 35 closed down 32.35 pts (-0.17%) at 19,382.75; Italy's FTSE MIB closed up 122.27 pts (+0.23%) at 52,717.50.
+
+---
+
+### 2026-06-18 23:37:08  #國際
+
+美國副總統萬斯：最終希望看到黎巴嫩政府管控黎巴嫩南部。
+
+---
+
+### 2026-06-18 23:37:04  #國際
+
+美國副總統萬斯：地區國家不會放棄自衛權，以色列也不會放棄自衛權。如果真主黨向以色列發射火箭彈或無人機，伊朗同樣不會放棄本國的自衛權，但我們要求，作為最終協議的條款之一，伊朗不得研發可對全世界形成大範圍威脅的導彈。
+
+---
+
+### 2026-06-18 23:37:01  #MKT News #Important #Market Regions #Europe & UK #WTI #Brent
+
+EU high representative for foreign affairs and security policy kallas said there is no consensus yet on lifting sanctions on Iran.
+
+---
+
+### 2026-06-18 23:36:56  #國際
+
+美國副總統萬斯：必須透過外交手段管控衝突升級。
+
+---
+
+### 2026-06-18 23:36:46  #MKT News #Important
+
+U.S. Vice President Vance said he believed the president was joking when Trump said yesterday he would make him take the blame, and that the president often jokes like that.
+
+---
+
+### 2026-06-18 23:36:23  #國際
+
+美國副總統萬斯就伊朗協議中的黎巴嫩相關條款表態：期望雙方遵守該協議。
+
+---
+
+### 2026-06-18 23:36:19  #國際
+
+歐盟委員會卡拉斯：解除伊朗制裁一事目前尚無定論。
+
+---
+
+### 2026-06-18 23:35:43  #其他
+
+【日元匯率創近2年新低】美元兌日元USD/JPY站上161，為2024年7月以來首次。
+
+---
+
+### 2026-06-18 23:35:40  #國際
+
+【美國啟動駐歐軍事部署評估 或進一步削減對歐洲支援】美國國防部長海格塞斯表示，美國將對其在歐洲的軍事存在啟動為期六個月的評估，眼下歐洲領導人正準備應對美國計劃大幅削減對歐洲的軍事支援。特朗普政府已提出計劃，擬削減國防部在歐洲遭受襲擊時為保衛歐洲而派遣的軍事資源，這引發外界對北約將如何填補相關能力缺口的疑問。其他北約國家防長敦促海格塞斯，至少應與歐洲各國政府協調撤軍安排。“我今天宣佈啟動戰爭部為期六個月的評估，審查美國在歐洲的兵力態勢和基地安排，”海格塞斯週四在布魯塞爾北約總部舉行的防長會議開始前表示。
+
+---
+
+### 2026-06-18 23:35:39  #MKT News #Important #USDJPY #Impact bullish
+
+【Japanese yen hits near two-year low】USD/JPY climbed above 161 for the first time since July 2024.
+
+---
+
+### 2026-06-18 23:35:22  #市場 #央行 #國際
+
+【美元延續漲勢 美聯儲鷹派訊號提振加息押注】美元連續第二天延續漲勢，重新邁向3月下旬的高點，交易員紛紛押注美聯儲最早將於下月底開始加息。這一進展推動彭博美元指數較週三美聯儲舉行會議前走高約1%。美聯儲主席凱文·沃什在會上強調了央行在對抗通脹方面的作用，預測顯示許多政策制定者預計會在年底前提高利率。美國短期國債收益率應聲大幅上漲，全球投資者再次受到鼓舞，將資金轉向美國資產。歐元跌至3月以來的最低水平，加元觸及七個月來最低，日元下滑至2024年7月以來最弱。美聯儲的表態再次提振了美元，此前伊朗戰爭導致油價飆升，美元作為避險貨幣收到提振。
+
+---
+
+### 2026-06-18 23:35:06  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Vice President Vance said Iran would require massive funding to rebuild its nuclear program.
+
+---
+
+### 2026-06-18 23:34:57  #市場 #國際
+
+美國至6月18日4周國債競拍-得標利率 3.58%，前值3.595%。
+美國至6月18日4周國債競拍-得標利率配置百分比 64.65%，前值70.32%。
+美國至6月18日4周國債競拍-投標倍數 2.99，前值3.13。
+
+美國至6月18日8周國債競拍-得標利率配置百分比 31.85%，前值65.5%。
+美國至6月18日8周國債競拍-投標倍數 2.57，前值2.94。
+美國至6月18日8周國債競拍-得標利率 3.64%，前值3.61%。
+
+---
+
+### 2026-06-18 23:34:36  #MKT News #Macro & Rates #Treasury Yields
+
+U.S. 8-week Treasury bill auction to June 18: share of awards at the stop-out yield 31.85%, prior 65.5%.
+
+---
+
+### 2026-06-18 23:34:24  #公司
+
+【SpaceX上市日為嘉信理財歷史上五大最繁忙交易日之一】上週隨著SpaceX首次亮相股市，嘉信理財迎來了其55年歷史上最繁忙的五個交易日之一。“回想過去50年裡我們經歷過的各種市場事件，這次IPO能躋身前五名確實令人難以置信，”嘉信理財執行長Rick Wurster週四在接受採訪時表示，“我認為這源於散戶能夠切身感受到我們經濟中的創新水平。”
+
+---
+
+### 2026-06-18 23:34:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+U.S. 8-week Treasury auction (June 18) stop-out yield 3.64%, up from 3.61% at the prior auction.
+
+---
+
+### 2026-06-18 23:34:16  #MKT News #Economic Calendar
+
+United States | 8-Week Bill Auction High Yield Rate (Jun.18) | actual 3.64% | previous 3.61%
+
+---
+
+### 2026-06-18 23:34:09  #國際
+
+萬斯談伊朗與核武器：伊朗若要重建核計劃必須籌措鉅額資金。
+
+---
+
+### 2026-06-18 23:34:09  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
+
+U.S. 8-week Treasury auction bid-cover ratio 2.57 for the June 18 auction; previous 2.94.
+
+---
+
+### 2026-06-18 23:33:59  #宏觀 #市場 #國際
+
+【美國出臺新規允許大型用電主體更快接入本國效率偏低的輸電網路】美國聯邦監管機構週四出臺新規，允許大型用電主體更快接入本國效率偏低的輸電網路，以此滿足高耗能人工智慧資料中心激增的用電需求。科技企業及資料中心開發商均對電網接入審批提速表示歡迎。但電力企業、各州政府及區域電網運營方擔憂，本屆共和黨政府推出的方案會剝奪其相關流程管理許可權。清潔能源支持者則希望該委員會能推進而非削弱各州推行可再生能源強制使用政策的相關工作。監管機構出臺此項政策之際，社會各界對資料中心的牴觸情緒持續升溫。民眾擔憂電價上漲，同時質疑這類設施能耗、耗水量巨大，不僅汙染各地社群，還加重水資源與電網負荷。
 
 ---
 
@@ -20819,53 +20957,5 @@ Shanghai Gold Exchange gold T+D closed down 0.82% at 933.0 yuan/gram in the even
 ### 2026-06-18 02:30:03  #Trading Economics #Markets #Crypto #Importance 1
 
 Crypto Updates: XRP Depreciates by 1.39% — Top crypto losers are XRP (-1.39%), Ether (-1.37%) and Bitcoin (-0.32%).
-
----
-
-### 2026-06-18 02:30:02  #市場
-
-上期所原油期貨夜盤收漲0.80%，報517.00元人民幣/桶。滬金夜盤收跌0.84%，滬銀收跌1.36%。
-
----
-
-### 2026-06-18 02:29:55  #公司
-
-【七國集團峰會閉幕 連續兩年無聯合公報】為期3天的七國集團峰會17日在法國埃維昂萊班閉幕，沒有釋出七國領導人聯合公報。這是繼2025年加拿大卡納納斯基斯峰會後，七國集團再一次未能達成聯合公報。峰會期間陸續釋出了9份聚焦具體議題的成果檔案，涵蓋領域包括地緣政治、經濟增長、公共衛生等。 (新華社)
-
----
-
-### 2026-06-18 02:29:44  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #XAUUSD
-
-【Goldman Sachs: Fed can barely avoid a hike; inflation is the key variable】Goldman Sachs Asset Management analyst Kay Haigh said today's Fed decision confirms the recent hawkish shift is not solely driven by higher oil. Despite a pullback in oil, half of FOMC participants expect a rate increase as early as this year, reflecting a strong labor market and inflation prints. Goldman’s base case remains that the Fed can narrowly avoid raising rates, but the path is tight and incoming inflation data will carry high weight.
-
----
-
-### 2026-06-18 02:28:32  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #WTI #US10Y #Impact bearish
-
-【Middle East conflict reshapes Fed expectations: nearly half of policymakers shift toward rate-hike outlook; inflation forecasts revised up】Nearly half of Federal Reserve policymakers no longer believe that holding borrowing costs steady would be sufficient to bring inflation back to 2% if oil prices spike after a war involving Iran. The Fed's latest dot plot shows views on the rate path shifting from how long to hold rates before cuts to growing concern about the need for additional hikes; some officials now expect rate increases. Wednesday's projections revised inflation sharply higher since March: median PCE YoY is now seen at 3.6% by year-end (March: 2.7%), median core PCE YoY at 3.3% (March: 2.7%). Median year-end unemployment is 4.3% — matching May's reading and below March's 4.4% — indicating policymakers increasingly see the labor market as not weakening and reducing the case for rate cuts.
-
----
-
-### 2026-06-18 02:26:48  #央行 #美聯儲
-
-利率期貨定價美聯儲到年底將加息30個基點，較美聯儲利率決議前上升約9個基點。
-
----
-
-### 2026-06-18 02:26:18  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-Interest-rate futures price a cumulative 30bp of Fed tightening by year-end, about 9bp higher than immediately before the Fed policy decision.
-
----
-
-### 2026-06-18 02:25:50  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Rallies After Fed — The dollar Index rose above 100 on Wednesday as traders digested the latest FOMC decision. The Federal Reserve left interest rates unchanged, as widely expected, in Kevin Warsh’s first meeting as Fed Chair. However, policymakers’ projections were interpreted as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also sharply revised upward its inflation forecasts. The 2026 PCE inflation projection was raised to 3.6% from 2.7% in the March forecast, while core PCE inflation is now expected to reach 3.3%, up from 2.7% previously. Traders have now fully priced in a quarter-point Fed rate hike by the end of the year. The greenback strengthened broadly, posting its largest gains against the British pound and the euro.
-
----
-
-### 2026-06-18 02:25:24  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Rebounds After Fed — The yield on the 10-year US Treasury note erased losses to hover at the 4.46% mark on Wednesday after the Federal Reserve held interest rates unchanged and projected the possibility of a rate hike this year. The Summary of Economic Projections showed that nearly half of the FOMC projected that at least one rate hike may be warranted this year, aligned with the upward revision to core inflation and lower expectations of unemployment. The pivot followed a batch of data pointing to higher underlying price growth following the war in the Middle East and its impact on energy prices, although labor market gauges remained robust. Notably, new Chairman Kevin Warsh refrained from penciling in his projections, reflecting continuity to his pushback against forward guidance by the Fed. The Chairman had also called for a smaller balance sheet for the central bank, particularly regarding longer term Treasury notes and bonds.
 
 ---

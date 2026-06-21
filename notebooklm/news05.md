@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-22 00:49:16_
-_本檔包含 3551 則快訊，約 650021 字_
+_更新時間：2026-06-22 01:29:23_
+_本檔包含 3553 則快訊，約 650221 字_
+
+---
+
+### 2026-06-16 04:47:23  #公司 #國際
+
+日本泰拉無人機公司收購兩家烏克蘭無人機製造商，推進全球業務佈局。
+
+---
+
+### 2026-06-16 04:45:44  #公司
+
+億滋國際：盧卡·扎拉梅拉將繼續擔任執行副總裁兼營運長。
+
+---
+
+### 2026-06-16 04:45:41  #公司
+
+億滋國際任命阿米特·巴納蒂為執行副總裁兼首席財務官，自2026年7月1日起生效。
+
+---
+
+### 2026-06-16 04:45:24  #公司
+
+億滋國際任命阿米特·巴納蒂為執行副總裁兼首席財務官。
+
+---
+
+### 2026-06-16 04:44:16  #其他
+
+英國泰晤士水務距離國有化又近了一步，英國大臣已正式否決一項100億英鎊的紓困方案。
+
+---
+
+### 2026-06-16 04:42:25  #其他
+
+【高通洽談收購Tenstorrent，補強人工智慧晶片研發實力】高通正洽談收購人工智慧晶片設計初創企業Tenstorrent。雙方商討的收購對價區間至少在80億至100億美元，相較於Tenstorrent上一輪估值存在大幅溢價。目前尚不清楚這筆交易價款是否會包含與業績目標掛鉤的浮動支付款項，以往半導體初創企業收購案通常會設定此類條款。雙方談判仍在進行中，交易金額存在變動可能，洽談也有破裂風險。若完成收購，高通將大幅擴充自身人工智慧與資料中心晶片產品線實力。
+
+---
+
+### 2026-06-16 04:40:59  #其他
+
+高通與Tenstorrent已就80億至100億美元的潛在交易價格展開討論。
+
+---
+
+### 2026-06-16 04:39:23  #國際
+
+伊朗媒體稱，三艘油輪及兩艘裝載伊朗必需物資的船舶“突破”了美國海上封鎖。
+
+---
+
+### 2026-06-16 04:37:16  #公司 #國際
+
+【歐盟與摩爾多瓦正式啟動首個入盟談判議題】歐盟理事會15日釋出公告稱，歐盟與摩爾多瓦當天就摩爾多瓦加入歐盟談判程序中的“基本原則”議題正式啟動談判。公告表示，“基本原則”議題涵蓋歐盟法律體系中與法治和基本權利、民主制度運作、公共行政改革以及經濟標準相關的關鍵要素。公告指出，在入盟談判程序中，“基本原則”議題是最先啟動、最後結束的核心議題，其進展將決定整個入盟談判的節奏。談判期間，歐盟將持續評估摩爾多瓦在對接歐盟法律體系以及落實相關標準方面的進展情況。
+
+---
+
+### 2026-06-16 04:35:31  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+HEZBOLLAH fired rockets and artillery at Israeli forces in southern Lebanon; clashes are ongoing.
+
+---
+
+### 2026-06-16 04:35:01  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.92% Higher — The Dow Jones Index went up by 469 points or 0.92 percent on Monday to close at 51671 points. The rise was led by Boeing (4.66%), Nvidia (3.40%) and Amazon (3.12%). On the downside, the weakerst performers were Chevron (-3.60%), Merck (-3.37%) and Verizon (-2.06%).
+
+---
+
+### 2026-06-16 04:34:53  #國際
+
+真主黨表示，其在黎巴嫩南部地區以多輪火箭彈和炮彈打擊了以色列軍隊，目前衝突仍在持續。
+
+---
+
+### 2026-06-16 04:32:54  #MKT News #WTI #Impact bearish #Brent
+
+Iranian state television reported three oil tankers and two vessels carrying essential goods have broken through a US maritime blockade.
+
+---
+
+### 2026-06-16 04:31:37  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iranian state television reported the US has begun lifting its maritime blockade of Iran.
+
+---
+
+### 2026-06-16 04:30:39  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon Web Services (AWS) launched the GEMMA 4 model on Amazon Bedrock.
+
+---
+
+### 2026-06-16 04:30:22  #公司
+
+亞馬遜雲科技（AWS）：在亞馬遜Bedrock平臺推出Gemma 4模型。
+
+---
+
+### 2026-06-16 04:29:02  #焦點 #國際
+
+伊朗方面：美國已開始解除海上封鎖。
+
+---
+
+### 2026-06-16 04:27:37  #其他
+
+富士康與施耐德電氣達成合作，共同佈局人工智慧資料中心裝置業務。
+
+---
+
+### 2026-06-16 04:23:18  #國際
+
+【美加州州長稱特朗普指示司法部對其展開調查】美國加利福尼亞州州長紐森15日指責總統特朗普將他視為“政治敵人”，並“指示司法部”對其展開調查。紐森在社交媒體上稱，特朗普將他和妻子一起列入“打擊名單”。“調查人員敲響了我們家族朋友和前僱員的家門。他們這麼做並不是因為發現了什麼犯罪行為，而是試圖找出一個罪名。”紐森表示，這項調查帶有政治動機，因為他一直公開批評特朗普，同時也在考慮競選下屆美國總統。（新華社）
+
+---
+
+### 2026-06-16 04:22:31  #MKT News #Important
+
+【California governor says Trump instructed DOJ to investigate him】California Governor Gavin Newsom said on the 15th that President Trump, viewing him as a "political enemy," instructed the DOJ to open an investigation. Newsom said Trump placed him and his wife on a "hit list" and that investigators have knocked on doors of family friends and former employees; he said this was not prompted by evidence of criminal conduct but by an effort to find charges. He called the probe politically motivated, noting he has publicly criticized Trump and is considering a presidential run.
+
+---
+
+### 2026-06-16 04:21:23  #觀點
+
+摩根大通宣佈將於2027年舉辦投資者日。
+
+---
+
+### 2026-06-16 04:21:14  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
+
+Market sources: Multiple studios within Microsoft's (MSFT.O) Xbox division, including Compulsion Games and Double Fine, are in active talks to be spun off or divested.
+
+---
+
+### 2026-06-16 04:20:36  #MKT News
+
+The Israeli military said no casualties were reported after Hezbollah fired anti-tank missiles and multiple mortar rounds at its troops in southern Lebanon.
+
+---
+
+### 2026-06-16 04:20:02  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+ISRAELI MILITARY said it intercepted multiple rockets fired by HEZBOLLAH at forces in southern Lebanon.
+
+---
+
+### 2026-06-16 04:19:35  #國際
+
+以色列軍方表示，在真主黨對在黎巴嫩南部開展行動的以軍士兵發射一枚反坦克導彈和多枚迫擊炮彈後，目前尚無人員傷亡報告。
+
+---
+
+### 2026-06-16 04:19:07  #焦點 #國際
+
+以色列軍方稱，攔截了多枚真主黨向黎巴嫩南部以軍部隊發射的火箭彈。
+
+---
+
+### 2026-06-16 04:18:14  #公司 #國際
+
+美國共和黨參議員克魯茲在信函中對私募股權公司Grain Management計劃從T-Mobile美國收購800兆赫茲無線頻譜一事提出質疑。
+
+---
+
+### 2026-06-16 04:17:04  #國際
+
+伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡尼：真主黨在近期戰事中表現十分出色。哈馬斯將會重建。整個抵抗軸心在此次衝突中展現出強大力量。
+
+---
+
+### 2026-06-16 04:16:12  #其他 #焦點
+
+加拿大將針對部分個人資訊推出“刪除權”法規。
+
+---
+
+### 2026-06-16 04:16:04  #國際
+
+日本衛材將向英國工廠投入6400萬美元，用於注射劑藥品分裝業務。
+
+---
+
+### 2026-06-16 04:14:30  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rally as Oil Slumps on US-Iran Deal — US stocks rallied Monday after the US and Iran reached a preliminary agreement to end the Middle East conflict and reopen the Strait of Hormuz, easing inflation concerns and sending oil prices lower. The S&P 500 rose 1.7%, the Dow Jones gained 469 points to a record high, and the Nasdaq surged 3.1%, its best day since March 31. US crude prices fell 5%, boosting shares of fuel-sensitive companies, with United Airlines climbing 3.9%, Norwegian Cruise Line adding 3.7%, and Carnival Corp rising 3.2%. The drop in oil prices also improved broader market sentiment, supporting gains across growth-oriented sectors, particularly technology stocks. On the corporate front, SpaceX shares soared 15%, extending gains after jumping 19% in their public market debut on Friday. Meanwhile, Fox Corp. tumbled 17% after unveiling plans to acquire Roku in a $22 billion transaction. Investors are now focused on the Federal Reserve’s upcoming policy meeting, where rates are expected to remain unchanged.
 
 ---
 
@@ -21276,179 +21462,5 @@ Channel 12, citing Israeli security officials, reported that when Israel struck 
 ### 2026-06-15 01:30:11  #MKT News
 
 【Zelenskiy says 'very good' call with Trump on war, Crimea and diplomatic opportunities】Ukrainian President Zelenskiy said he had a "very good" call with US President Trump, discussing the war and its roots, diplomatic opportunities and partners' positions. Zelenskiy called Trump's remark "completely correct" that Russia's seizure of Crimea "started it all," and said stronger leadership at the time might have prevented the war. He said Ukrainians' primary aim is peace and described full US societal support for Ukraine's pursuit of dignity and peace as "critical."
-
----
-
-### 2026-06-15 01:29:10  #MKT News
-
-CENTCOM: As of June 14, CENTCOM forces have forced 142 merchant vessels to comply with orders to divert and have disabled nine vessels that did not comply.
-
----
-
-### 2026-06-15 01:28:37  #MKT News
-
-Channel 12 cited an Israeli assessment that Trump will soon announce he will "give" Iran certain concessions in exchange for Iran refraining from responding to Israel’s strike in Beirut.
-
----
-
-### 2026-06-15 01:28:26  #國際
-
-美國中央司令部：美軍米利厄斯號導彈驅逐艦（舷號DDG-69）在相關海域航行、執行對伊朗封鎖任務，艦上一名水兵正在執勤。截至6月14日，中央司令部部隊已引導142艘商船配合改道，並迫使9艘拒不配合的船隻停航。
-
----
-
-### 2026-06-15 01:27:44  #宏觀 #公司 #國際
-
-加拿大總理馬克·卡尼表示，美國出臺出口禁令，禁止境外各方獲取Anthropic公司最新款人工智慧產品，這一舉措凸顯出僅依賴少數幾款主流人工智慧工具所潛藏的風險。
-
----
-
-### 2026-06-15 01:26:14  #國際
-
-美國駐伊拉克特使湯姆·巴拉克明日將在巴格達磋商政治、安全及經濟相關議題，並就各武裝派系不加入政府的相關事宜展開溝通。
-
----
-
-### 2026-06-15 01:25:42  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Israel Defense Forces says rockets and drones launched from Lebanon detected】On the evening of the 14th, the Israel Defense Forces said multiple air-raid sirens sounded across northern Israel after it detected rockets and drones launched from Lebanon. One rocket landed in an Israeli community near the border and several drones fell on the Israeli side.
-
----
-
-### 2026-06-15 01:25:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-An Israeli senior cabinet minister told Channel 12: "For us, Iran is Trump's problem; he has the right to seek a deal, but Lebanon is our problem, and we absolutely cannot accept the equation Iran has proposed, even at the cost of a serious confrontation with the United States."
-
----
-
-### 2026-06-15 01:24:18  #MKT News
-
-Saudi outlet alhadath, citing sources, reports US special envoy to Iraq Tom Barrack will visit Baghdad tomorrow to discuss arms control and government formation.
-
----
-
-### 2026-06-15 01:23:23  #MKT News
-
-Saudi outlet Al Hadath, citing sources, says US special envoy to Iraq Tom Barrack will discuss political, security and economic issues in Baghdad tomorrow.
-
----
-
-### 2026-06-15 01:22:17  #國際
-
-【以軍稱監測到黎巴嫩方向發射的火箭彈及無人機】當地時間14日晚間，以色列國防軍發表宣告稱，不久前，以色列北部多個地區連續拉響防空警報。以軍隨即稱監測到黎巴嫩方向來襲的火箭彈及無人機。宣告表示，有1枚火箭彈落入以色列一處靠近邊境的社群，另外多架無人機也落入以色列一側。（央視新聞）
-
----
-
-### 2026-06-15 01:21:17  #公司 #國際
-
-市場資訊：馬克龍將全力促成特朗普出席七國集團峰會。
-
----
-
-### 2026-06-15 01:20:53  #MKT News
-
-Russian Foreign Minister Sergei Lavrov arrived in Belarus for a working visit.
-
----
-
-### 2026-06-15 01:19:08  #其他
-
-卡達代表團目前正前往伊斯蘭堡。
-
----
-
-### 2026-06-15 01:18:18  #國際
-
-【不滿以色列空襲貝魯特 特朗普指責內塔尼亞胡“缺乏理智”】當地時間14日，美國總統特朗普在接受以色列媒體採訪時表示，對以色列空襲黎巴嫩首都貝魯特表示不滿，並指責以總理內塔尼亞胡此舉“缺乏理智”，透露這一軍事行動直接干擾並延遲了美伊即將簽署的相關協議程序。據悉，特朗普在受訪時公開了他向內塔尼亞胡傳遞的嚴厲警告。特朗普表示，在美方原定與伊朗簽署協議的前一個小時，他接到了相關突發通報。特朗普說：“他們打電話告訴我，‘先生，以色列正在襲擊貝魯特。’我簡直不敢相信這會發生。這太糟糕了。”（央視新聞）
-
----
-
-### 2026-06-15 01:17:45  #其他
-
-市場資訊：有研究預測，到2045年，德國人口將下降至8110萬。
-
----
-
-### 2026-06-15 01:17:20  #國際
-
-真主黨稱其在黎巴嫩對以色列軍隊發動了17次襲擊。
-
----
-
-### 2026-06-15 01:15:49  #MKT News
-
-cenc automatic detection: at 01:13 on June 15 an earthquake of about M4.1 occurred near Heyang County, Weinan, Shaanxi (35.23N, 110.27E). Final parameters are subject to the official rapid report.
-
----
-
-### 2026-06-15 01:15:30  #國際
-
-以色列：兩名以色列士兵在黎巴嫩南部遭真主黨火力襲擊，受中度傷情。
-
----
-
-### 2026-06-15 01:11:43  #其他
-
-真主黨公佈第一視角無人機襲擊畫面，目標為黎巴嫩南部東扎烏塔爾郊外的一處以軍集結點。 無人機鎖定開闊地帶的四名以軍士兵，撞擊後引爆。
-
----
-
-### 2026-06-15 01:07:13  #MKT News
-
-A senior Israeli official told Channel 12 that Trump's statement was "a loud slap", saying "constraints have escalated; there is an expectation that we not strike anywhere in Lebanon," which the official said is inconsistent with the role of a strategic ally.
-
----
-
-### 2026-06-15 00:59:05  #國際
-
-當地時間週日，從佐治亞州北部到緬因州的美國東海岸沿線近8000萬人收到強風暴預警。
-
----
-
-### 2026-06-15 00:57:21  #國際
-
-伊朗最高聯合軍事指揮部："手指已扣在扳機上"，準備向"敵人心臟"開火，在最高領袖穆傑塔巴領導下，軍事能力已變得更加強大，我們正等待"敵人"犯下最微小的錯誤，以便"給他們一個難忘的教訓"。
-
----
-
-### 2026-06-15 00:56:20  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Iranian state media quoted the Supreme Joint Military Command saying it is waiting for any 'smallest mistake' by the 'enemy' so it can 'teach them a lesson they will never forget'.
-
----
-
-### 2026-06-15 00:55:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Iran state media quoted the Supreme Joint Military Command saying Iran's military capability has strengthened under Supreme Leader Mojtaba Khamenei.
-
----
-
-### 2026-06-15 00:53:30  #MKT News
-
-Saudi state television, citing sources, says a Qatari delegation is currently en route to Islamabad.
-
----
-
-### 2026-06-15 00:53:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's Supreme Joint Military Command said it was 'ready to fire at any time, aiming at the enemy's heart'.
-
----
-
-### 2026-06-15 00:51:29  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Israel Defense Forces: Hezbollah rockets, drones strike northern Israel】The Israel Defense Forces said Hezbollah fired a rocket from Lebanon that struck near the Neot Mordechai community close to Kiryat Shmona. Several other rockets landed near Israeli forces in southern Lebanon, and suspected Hezbollah drones struck areas inside Israel near the Lebanese border earlier, the IDF said.
-
----
-
-### 2026-06-15 00:50:06  #國際
-
-以色列國防軍：一枚來自黎巴嫩的射彈落入以色列北部的內奧特·莫迪凱地區，以軍行動區域所在的黎巴嫩南部也出現多處被擊中的情況。此外，還有多架無人機在邊境附近墜落。
-
----
-
-### 2026-06-15 00:49:54  #國際
-
-伊朗國家廣播電視臺：伊朗聯合軍事指揮官阿里·阿卜杜拉希少將將於數分鐘內向民眾發表講話，回顧過去一年的局勢變化，內容涵蓋去年六月為期十二天的戰事，以及近期同美國、以色列之間的衝突。
 
 ---

@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-22 00:49:16_
-_本檔包含 3829 則快訊，約 650994 字_
+_更新時間：2026-06-22 01:29:23_
+_本檔包含 3818 則快訊，約 650484 字_
+
+---
+
+### 2026-06-22 01:25:23  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Copper #Impact bullish
+
+【Columbia researcher: Middle East conflict to accelerate energy transition and supply diversification】Karen Young, researcher at Columbia University’s Center on Global Energy Policy, said a conflict involving Iran is exerting irreversible pressure on the oil sector and has pushed major economies to evaluate energy options outside the Middle East. "Countries are now more focused on energy security and therefore seek to diversify oil supplies and energy resources. In many regions this will mean a shift to renewables, especially in transport and electric vehicles," she said. Young warned the shift will reshape power-generation mixes and reduce the scale of gas sourced from the Middle East as countries rely more on domestic and accessible resources. "The key is not to depend on any single source, especially oil, or any single type of fuel," she added.
+
+---
+
+### 2026-06-22 01:24:32  #國際
+
+以色列向美國承諾，將恪守黎巴嫩南部的黃線邊界相關立場。
+
+---
+
+### 2026-06-22 01:21:54  #MKT News #Commodities #Energy
+
+Sources said a fire broke out at the combined-heat-and-power unit of Marathon's Galveston Bay refinery in Texas; no injuries reported so far.
+
+---
+
+### 2026-06-22 01:21:18  #MKT News #Important
+
+Al Arabiya reported the Iranian delegation left the negotiating table and returned to its residence in Switzerland; talks with the US are continuing via intermediaries.
+
+---
+
+### 2026-06-22 01:21:07  #其他
+
+訊息人士稱，馬拉松石油位於得克薩斯州加爾維斯頓灣的煉油廠聯產裝置發生火災，目前未造成人員傷亡。
+
+---
+
+### 2026-06-22 01:16:49  #國際
+
+【訊息人士：伊朗方面並未離場，伊美之間的談判仍在繼續】伊朗媒體週日報道稱，伊朗代表團與此次談判的調解方之一卡達代表團會面後，已離開談判場地。該報道引發外界猜測，伊美兩國在瑞士舉行的相關磋商已暫停或結束。但美國阿克西奧斯新聞網記者巴拉克·拉維德援引一名參與談判的外交官說法，否認了上述訊息。這名外交官表示：“伊朗方面並未離場，伊美之間的談判仍在繼續。”
+
+---
+
+### 2026-06-22 01:06:01  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+Iranian state media quoted a Foreign Ministry spokesman saying Sunday’s talks centered on ending the war, lifting sanctions and securing the release of Iran’s frozen funds.
+
+---
+
+### 2026-06-22 01:05:26  #MKT News #Important
+
+Axios reported a diplomat participating in the talks said the Iranian delegation had not left and U.S.-Iran negotiations were continuing.
+
+---
+
+### 2026-06-22 01:05:24  #國際
+
+一名參與瑞士談判的外交官稱，伊朗代表團並未離場，美伊談判仍在進行。
+
+---
+
+### 2026-06-22 01:05:18  #其他 #焦點 #國際
+
+伊朗外交部發言人表示，週日會談的重點為結束戰爭、解除制裁以及解凍伊朗被凍結資金。
+
+---
+
+### 2026-06-22 01:04:40  #MKT News #XAUUSD #Impact bullish #WTI
+
+【Ghalibaf rebuffs Trump's latest threat】Ghalibaf, head of Iran’s negotiating delegation in Switzerland and speaker of the Iranian parliament, said on social media on June 21 that Iran does not take US threats seriously, warned Washington to choose its words carefully and said Iran’s armed forces are fully prepared to respond “in another way.” He added that regardless of US bluster, “we will be the ones to act.” Earlier, Trump posted that “Iran must immediately stop its ‘proxies’ in Lebanon. If not, we will strike Iran again, like last week, and only harder.”
 
 ---
 
@@ -22955,143 +23021,5 @@ U.S. Vice President Vance said he ultimately wants the Lebanese government to ma
 ### 2026-06-18 23:37:27  #MKT News
 
 U.S. Vice President Vance said the U.S. will have to address contingencies by diplomatic means.
-
----
-
-### 2026-06-18 23:37:17  #MKT News
-
-U.S. Vice President Vance said on the Lebanon-related element of the Iran deal he expects both sides to comply with the agreement.
-
----
-
-### 2026-06-18 23:37:12  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
-
-On Thursday June 18, Germany's DAX 30 closed up 87.01 pts (+0.35%) at 25,018.56; UK's FTSE 100 closed down 118.89 pts (-1.13%) at 10,389.72; France's CAC 40 closed up 37.19 pts (+0.44%) at 8,467.98; Euro Stoxx 50 closed up 21.13 pts (+0.34%) at 6,321.20; Spain's IBEX 35 closed down 32.35 pts (-0.17%) at 19,382.75; Italy's FTSE MIB closed up 122.27 pts (+0.23%) at 52,717.50.
-
----
-
-### 2026-06-18 23:37:08  #國際
-
-美國副總統萬斯：最終希望看到黎巴嫩政府管控黎巴嫩南部。
-
----
-
-### 2026-06-18 23:37:04  #國際
-
-美國副總統萬斯：地區國家不會放棄自衛權，以色列也不會放棄自衛權。如果真主黨向以色列發射火箭彈或無人機，伊朗同樣不會放棄本國的自衛權，但我們要求，作為最終協議的條款之一，伊朗不得研發可對全世界形成大範圍威脅的導彈。
-
----
-
-### 2026-06-18 23:37:01  #MKT News #Important #Market Regions #Europe & UK #WTI #Brent
-
-EU high representative for foreign affairs and security policy kallas said there is no consensus yet on lifting sanctions on Iran.
-
----
-
-### 2026-06-18 23:36:56  #國際
-
-美國副總統萬斯：必須透過外交手段管控衝突升級。
-
----
-
-### 2026-06-18 23:36:46  #MKT News #Important
-
-U.S. Vice President Vance said he believed the president was joking when Trump said yesterday he would make him take the blame, and that the president often jokes like that.
-
----
-
-### 2026-06-18 23:36:23  #國際
-
-美國副總統萬斯就伊朗協議中的黎巴嫩相關條款表態：期望雙方遵守該協議。
-
----
-
-### 2026-06-18 23:36:19  #國際
-
-歐盟委員會卡拉斯：解除伊朗制裁一事目前尚無定論。
-
----
-
-### 2026-06-18 23:35:43  #其他
-
-【日元匯率創近2年新低】美元兌日元USD/JPY站上161，為2024年7月以來首次。
-
----
-
-### 2026-06-18 23:35:40  #國際
-
-【美國啟動駐歐軍事部署評估 或進一步削減對歐洲支援】美國國防部長海格塞斯表示，美國將對其在歐洲的軍事存在啟動為期六個月的評估，眼下歐洲領導人正準備應對美國計劃大幅削減對歐洲的軍事支援。特朗普政府已提出計劃，擬削減國防部在歐洲遭受襲擊時為保衛歐洲而派遣的軍事資源，這引發外界對北約將如何填補相關能力缺口的疑問。其他北約國家防長敦促海格塞斯，至少應與歐洲各國政府協調撤軍安排。“我今天宣佈啟動戰爭部為期六個月的評估，審查美國在歐洲的兵力態勢和基地安排，”海格塞斯週四在布魯塞爾北約總部舉行的防長會議開始前表示。
-
----
-
-### 2026-06-18 23:35:39  #MKT News #Important #USDJPY #Impact bullish
-
-【Japanese yen hits near two-year low】USD/JPY climbed above 161 for the first time since July 2024.
-
----
-
-### 2026-06-18 23:35:22  #市場 #央行 #國際
-
-【美元延續漲勢 美聯儲鷹派訊號提振加息押注】美元連續第二天延續漲勢，重新邁向3月下旬的高點，交易員紛紛押注美聯儲最早將於下月底開始加息。這一進展推動彭博美元指數較週三美聯儲舉行會議前走高約1%。美聯儲主席凱文·沃什在會上強調了央行在對抗通脹方面的作用，預測顯示許多政策制定者預計會在年底前提高利率。美國短期國債收益率應聲大幅上漲，全球投資者再次受到鼓舞，將資金轉向美國資產。歐元跌至3月以來的最低水平，加元觸及七個月來最低，日元下滑至2024年7月以來最弱。美聯儲的表態再次提振了美元，此前伊朗戰爭導致油價飆升，美元作為避險貨幣收到提振。
-
----
-
-### 2026-06-18 23:35:06  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Vice President Vance said Iran would require massive funding to rebuild its nuclear program.
-
----
-
-### 2026-06-18 23:34:57  #市場 #國際
-
-美國至6月18日4周國債競拍-得標利率 3.58%，前值3.595%。
-美國至6月18日4周國債競拍-得標利率配置百分比 64.65%，前值70.32%。
-美國至6月18日4周國債競拍-投標倍數 2.99，前值3.13。
-
-美國至6月18日8周國債競拍-得標利率配置百分比 31.85%，前值65.5%。
-美國至6月18日8周國債競拍-投標倍數 2.57，前值2.94。
-美國至6月18日8周國債競拍-得標利率 3.64%，前值3.61%。
-
----
-
-### 2026-06-18 23:34:36  #MKT News #Macro & Rates #Treasury Yields
-
-U.S. 8-week Treasury bill auction to June 18: share of awards at the stop-out yield 31.85%, prior 65.5%.
-
----
-
-### 2026-06-18 23:34:24  #公司
-
-【SpaceX上市日為嘉信理財歷史上五大最繁忙交易日之一】上週隨著SpaceX首次亮相股市，嘉信理財迎來了其55年歷史上最繁忙的五個交易日之一。“回想過去50年裡我們經歷過的各種市場事件，這次IPO能躋身前五名確實令人難以置信，”嘉信理財執行長Rick Wurster週四在接受採訪時表示，“我認為這源於散戶能夠切身感受到我們經濟中的創新水平。”
-
----
-
-### 2026-06-18 23:34:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-U.S. 8-week Treasury auction (June 18) stop-out yield 3.64%, up from 3.61% at the prior auction.
-
----
-
-### 2026-06-18 23:34:16  #MKT News #Economic Calendar
-
-United States | 8-Week Bill Auction High Yield Rate (Jun.18) | actual 3.64% | previous 3.61%
-
----
-
-### 2026-06-18 23:34:09  #國際
-
-萬斯談伊朗與核武器：伊朗若要重建核計劃必須籌措鉅額資金。
-
----
-
-### 2026-06-18 23:34:09  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
-
-U.S. 8-week Treasury auction bid-cover ratio 2.57 for the June 18 auction; previous 2.94.
-
----
-
-### 2026-06-18 23:33:59  #宏觀 #市場 #國際
-
-【美國出臺新規允許大型用電主體更快接入本國效率偏低的輸電網路】美國聯邦監管機構週四出臺新規，允許大型用電主體更快接入本國效率偏低的輸電網路，以此滿足高耗能人工智慧資料中心激增的用電需求。科技企業及資料中心開發商均對電網接入審批提速表示歡迎。但電力企業、各州政府及區域電網運營方擔憂，本屆共和黨政府推出的方案會剝奪其相關流程管理許可權。清潔能源支持者則希望該委員會能推進而非削弱各州推行可再生能源強制使用政策的相關工作。監管機構出臺此項政策之際，社會各界對資料中心的牴觸情緒持續升溫。民眾擔憂電價上漲，同時質疑這類設施能耗、耗水量巨大，不僅汙染各地社群，還加重水資源與電網負荷。
 
 ---

@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-22 00:49:16_
-_本檔包含 3249 則快訊，約 650356 字_
+_更新時間：2026-06-22 01:29:23_
+_本檔包含 3238 則快訊，約 650481 字_
+
+---
+
+### 2026-06-18 02:30:02  #市場
+
+上期所原油期貨夜盤收漲0.80%，報517.00元人民幣/桶。滬金夜盤收跌0.84%，滬銀收跌1.36%。
+
+---
+
+### 2026-06-18 02:29:55  #公司
+
+【七國集團峰會閉幕 連續兩年無聯合公報】為期3天的七國集團峰會17日在法國埃維昂萊班閉幕，沒有釋出七國領導人聯合公報。這是繼2025年加拿大卡納納斯基斯峰會後，七國集團再一次未能達成聯合公報。峰會期間陸續釋出了9份聚焦具體議題的成果檔案，涵蓋領域包括地緣政治、經濟增長、公共衛生等。 (新華社)
+
+---
+
+### 2026-06-18 02:29:44  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #XAUUSD
+
+【Goldman Sachs: Fed can barely avoid a hike; inflation is the key variable】Goldman Sachs Asset Management analyst Kay Haigh said today's Fed decision confirms the recent hawkish shift is not solely driven by higher oil. Despite a pullback in oil, half of FOMC participants expect a rate increase as early as this year, reflecting a strong labor market and inflation prints. Goldman’s base case remains that the Fed can narrowly avoid raising rates, but the path is tight and incoming inflation data will carry high weight.
+
+---
+
+### 2026-06-18 02:28:32  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #WTI #US10Y #Impact bearish
+
+【Middle East conflict reshapes Fed expectations: nearly half of policymakers shift toward rate-hike outlook; inflation forecasts revised up】Nearly half of Federal Reserve policymakers no longer believe that holding borrowing costs steady would be sufficient to bring inflation back to 2% if oil prices spike after a war involving Iran. The Fed's latest dot plot shows views on the rate path shifting from how long to hold rates before cuts to growing concern about the need for additional hikes; some officials now expect rate increases. Wednesday's projections revised inflation sharply higher since March: median PCE YoY is now seen at 3.6% by year-end (March: 2.7%), median core PCE YoY at 3.3% (March: 2.7%). Median year-end unemployment is 4.3% — matching May's reading and below March's 4.4% — indicating policymakers increasingly see the labor market as not weakening and reducing the case for rate cuts.
+
+---
+
+### 2026-06-18 02:26:48  #央行 #美聯儲
+
+利率期貨定價美聯儲到年底將加息30個基點，較美聯儲利率決議前上升約9個基點。
+
+---
+
+### 2026-06-18 02:26:18  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+Interest-rate futures price a cumulative 30bp of Fed tightening by year-end, about 9bp higher than immediately before the Fed policy decision.
+
+---
+
+### 2026-06-18 02:25:50  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Rallies After Fed — The dollar Index rose above 100 on Wednesday as traders digested the latest FOMC decision. The Federal Reserve left interest rates unchanged, as widely expected, in Kevin Warsh’s first meeting as Fed Chair. However, policymakers’ projections were interpreted as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also sharply revised upward its inflation forecasts. The 2026 PCE inflation projection was raised to 3.6% from 2.7% in the March forecast, while core PCE inflation is now expected to reach 3.3%, up from 2.7% previously. Traders have now fully priced in a quarter-point Fed rate hike by the end of the year. The greenback strengthened broadly, posting its largest gains against the British pound and the euro.
+
+---
+
+### 2026-06-18 02:25:24  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Rebounds After Fed — The yield on the 10-year US Treasury note erased losses to hover at the 4.46% mark on Wednesday after the Federal Reserve held interest rates unchanged and projected the possibility of a rate hike this year. The Summary of Economic Projections showed that nearly half of the FOMC projected that at least one rate hike may be warranted this year, aligned with the upward revision to core inflation and lower expectations of unemployment. The pivot followed a batch of data pointing to higher underlying price growth following the war in the Middle East and its impact on energy prices, although labor market gauges remained robust. Notably, new Chairman Kevin Warsh refrained from penciling in his projections, reflecting continuity to his pushback against forward guidance by the Fed. The Chairman had also called for a smaller balance sheet for the central bank, particularly regarding longer term Treasury notes and bonds.
 
 ---
 
@@ -19496,119 +19544,5 @@ Japan Trade Gap Narrows Sharply — Japan’s trade deficit dropped significantl
 ### 2026-06-17 08:03:07  #宏觀 #公司
 
 【山東3億北斗工程現“脆皮底座”，官方組成聯合調查組】據山東發改委訊息，針對媒體反映山東高速資訊集團有限公司承建的某新基建專案問題，山東省發展改革委、山東省交通運輸廳、山東省國資委已組成聯合調查組進駐現場核查，並委託第三方專業機構對專案施工質量開展全面檢測。相關調查結果將及時向社會公佈。據大象新聞近日報道，山東濟濰高速沿線，有人用手掰開了一個國家重點工程的底座。混凝土碎成渣，裡頭塞滿石頭，表面只抹了一層薄薄的水泥漿。這個被“手撕”的工程，名叫“北斗高精度重大新基建智慧監測系統”，總投資近3億元，國家發改委批覆，中央預算內資金4500萬元。承建方是山東高速資訊集團——山東高速集團的子公司，而後者是世界500強，資產1.8萬億，運營管理高速公路9240公里。
-
----
-
-### 2026-06-17 08:03:02  #公司 #觀點
-
-【摩根大通預計到2030年 AI基礎設施建設總花費將達5.5萬億美元】摩根大通上調對大型科技公司建設人工智慧(AI)基礎設施所需的花費和借款預估。該行策略師一份研報中指出，他們預計到2030年，AI超大規模資料中心運營商將為此投入約5.5萬億美元，較11月時的預測增加4000億美元。自該行11月做出預測以來，與AI和資料中心有關的債券發行規模已超過3000億美元。他們表示，資料中心的債券發行是今年初債券發行量接近歷史最高水平的最大推手。
-
----
-
-### 2026-06-17 08:02:44  #觀點
-
-【華泰證券：資金面仍具活躍基礎】華泰證券研報稱，上週市場主線仍有所調整，前期抱團的融資資金活躍度有所回落，但華泰證券認為資金面仍有一定活躍的基礎：1.有融資融券負債的投資者數量在本次回撥中持續維持高位，融資擔保比例回落至280%，接近4月初點位，投資者拋壓或相對可控；2.龍虎榜資金近一個月淨流入仍維持在相對高位，投資者尚未完全離場；3.ETF淨流出壓力邊際緩解，上週ETF淨流入首次轉正至100億元，其中寬基ETF是主要增量，淨流入94億元；4.基金倉位上週邊際有所回升，其主要加倉消費、金融方向，對TMT的倉位維持相對穩定。
-
----
-
-### 2026-06-17 08:02:40  #央行 #國際
-
-【多數券商目前預測美聯儲2026年不會調整政策】多數跨國大型券商目前預計美國聯邦儲備理事會在2026年剩餘時間都將維持利率不變，與年初預期將降息兩次的觀點形成反轉。目前美聯儲官員面臨通脹風險及就業市場展現韌性的局面。 芝商所（CME）的FedWatch工具顯示，交易員預計美聯儲12月加息25個基點的機率約為42%，在美伊和平協議達成後，升息預期有所下調。
-
----
-
-### 2026-06-17 08:02:18  #MKT News #005930.KS #Impact bearish
-
-Samsung Electronics shares fell 3%.
-
----
-
-### 2026-06-17 08:01:35  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei index opened down 381.75 points, or 0.55%, at 69,022.75 on Wednesday, June 17.
-
----
-
-### 2026-06-17 08:01:33  #MKT News
-
-South Korea's KOSPI opened down 106.53 points, or 1.22%, at 8,620.07 on Wednesday, June 17.
-
----
-
-### 2026-06-17 08:01:05  #公司 #市場
-
-三星電子股價下跌3%。
-
----
-
-### 2026-06-17 08:00:37  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤下跌1.2%，至8622.13點。
-
----
-
-### 2026-06-17 08:00:15  #市場
-
-【日韓股市開盤】日經225指數上午開盤報69005.88點，跌幅0.57％。韓國綜合股價指數（KOSPI）開盤下跌1.2％，至8622.13點。
-
----
-
-### 2026-06-17 07:59:55  #其他
-
-【經濟日報：市場不歡迎虛假“百億補貼”】經濟日報指出，今天的電商市場已經告別了增量擴張，全面進入存量博弈階段。單純依靠概念造勢、低價內卷收割流量，反而會失去市場信任。消費者要的很簡單：有多大肚子吃多少飯。平臺大促能掏多少錢，就說多少錢補貼，而且不能把補貼成本轉嫁給商家。消費者受益，商家賺錢，平臺生態健康，這才是可持續的發展模式。
-
----
-
-### 2026-06-17 07:58:31  #觀點 #央行
-
-【摩根士丹利：澳大利亞央行下一步利率舉措可能是降息】摩根士丹利經濟學家表示，澳大利亞央行下一步的利率舉措可能是下調利率。在通脹仍是澳大利亞央行首要關注點的背景下，他們預計澳大利亞央行在未來幾個月的言論將保持相對偏緊縮，同時在核心通脹上升和國內需求放緩這些指向不一的訊號中維持利率不變。他們認為，只有當其中一種趨勢發生轉變時，該央行才會採取行動。摩根士丹利的觀點是，通脹最有可能下降，但這只有在房地產市場放緩的範圍擴大，從而影響到勞動力狀況和價格時才會發生。
-
----
-
-### 2026-06-17 07:58:31  #經濟數據 #日本
-
-日本5月份出口同比增長17.0%，預估為16.5%；日本5月份進口同比增長12.5%，預估為12.8%。
-
----
-
-### 2026-06-17 07:57:57  #公司
-
-【騰訊控股：根據全球中期票據計劃，完成發行24.5億美元及人民幣150億元票據】騰訊控股在港交所公告，根據全球中期票據計劃，完成發行24.5億美元及人民幣150億元票據。
-
----
-
-### 2026-06-17 07:56:45  #公司
-
-【一季度智慧眼鏡出貨量暴增超130% 機構預測19只概念股未來3年淨利增速超30%】IDC最新資料顯示，2026年第一季度全球智慧眼鏡市場出貨量356.6萬臺，同比增長130.1%。其中全球音訊和音訊拍攝眼鏡市場出貨量224.8萬臺，同比增長167.4%；AR/VR市場出貨131.8萬臺，同比增長85.9%。據IDC行業預測資料，2026年全球消費級智慧眼鏡出貨量預計突破2368.7萬臺；其中中國市場出貨量將達491.5萬臺，國內出貨規模佔全球兩成以上。伴隨AI大模型搭載、輕量化硬體成熟、消費品以舊換新補貼落地，行業正式告別小眾嚐鮮階段，邁入規模化增長新階段。根據Wind資料，目前智慧眼鏡產業鏈個股有190餘隻，從機構評級家數來看，49股機構評級在5家及以上，兆易創新、億緯鋰能、工業富聯、豪威集團評級家數居前，均超20家。上述49只機構高度關注股，機構預測2026年、2027年、2028年淨利潤增速均超30%的個股有19只。其中，卓勝微、翱捷科技-U、盛科通訊-U、納芯微、芯原股份、寒武紀未來3年淨利潤增速均值居前，均超100%。
-
----
-
-### 2026-06-17 07:56:10  #經濟數據 #日本
-
-【日本4月核心機械品訂單較上年同期增加15.6%】6月17日訊息，日本4月核心機械品訂單較上年同期增加15.6%，日本4月核心機械品訂單較上月增加8.7%，預期增加0.9%。
-
----
-
-### 2026-06-17 07:55:27  #MKT News #Market Regions #Europe & UK #USDJPY #Impact bearish
-
-Japan's Finance Ministry said exports to the EU rose 14.5% year-on-year in May.
-
----
-
-### 2026-06-17 07:53:09  #觀點
-
-【中信建投：當前房地產市場築底訊號明確，供給端延續提質縮量態勢】中信建投研報稱，當前房地產市場築底訊號明確，一線城市率先量價企穩回升，二手房活躍度顯著高於新房，成為全國回暖標杆，但三四線城市仍深陷庫存高企、價格陰跌的困境。供給端延續提質縮量態勢，土地供應與新開工面積持續下滑，未來新房供應收縮將加速供需平衡，保障房建設穩步推進但仍面臨資金、土地等堵點。資金端行業融資規模創歷史同期新低，央國企與民企融資成本差距拉大，居民加槓桿意願持續低迷成為市場修復的主要制約。風險化解取得決定性進展，保交樓任務基本完成，房企債務違約進入重組末期，增量風險基本出清。長期來看，人口總量見頂推動行業從增量擴張轉向存量博弈，市場保障雙軌制新模式加速構建，政策將堅持“一城一策”，一線城市仍有鬆綁空間。
-
----
-
-### 2026-06-17 07:52:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan's Ministry of Finance said exports to the U.S. in May rose 12.5% YoY.
-
----
-
-### 2026-06-17 07:52:36  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Steady Ahead of Fed Decision — US stock futures stabilized on Wednesday as investors prepared for the upcoming Federal Reserve policy decision, where it is widely expected to keep interest rates unchanged. On the economic front, markets will monitor retail sales and pending home sales data, while earnings reports from CarMax and Jabil are also due. In regular trading on Tuesday, the Dow gained 0.64%, whereas the S&P 500 and Nasdaq Composite fell 0.57% and 1.15%, respectively. Technology shares came under pressure as investors locked in profits following a strong rally in semiconductor stocks, with Nvidia (-2.4%), Broadcom (-4.4%), Micron (-6.2%), AMD (-7.3%), and Intel (-8.5%) posting notable declines. Meanwhile, SpaceX advanced 4.8%, extending gains since its IPO on Friday, amid reports that the company plans to acquire Cursor in a deal valued at $60 billion.
 
 ---
