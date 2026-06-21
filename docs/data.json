@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-22 06:27:15",
-  "count": 17393,
+  "updated": "2026-06-22 06:30:59",
+  "count": 17387,
   "items": [
+    {
+      "id": "mkt:019eec4e-0753-7dd8-b0a9-d0179b4b32d2",
+      "time": "2026-06-22 06:29:57",
+      "tags": [
+        "MKT News",
+        "00697.HK"
+      ],
+      "text": "Shoucheng Holdings (00697.HK) said a fund managed by a Shoucheng Capital subsidiary has recently invested in AI services firm Zhizi Xinyuan."
+    },
     {
       "id": "te:markets:560558",
       "time": "2026-06-22 06:19:58",
@@ -160119,63 +160128,6 @@
         "其他"
       ],
       "text": "英國首相斯塔默：我們明確認為，霍爾木茲海峽必須立即恢復免通行費的航行自由。"
-    },
-    {
-      "id": "4934895",
-      "time": "2026-06-15 06:30:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相斯塔默：祝賀特朗普總統，以及來自巴基斯坦、卡達和其他地區的調解方，他們為這一突破性進展作出了貢獻。"
-    },
-    {
-      "id": "4934894",
-      "time": "2026-06-15 06:30:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相斯塔默：我對美國與伊朗今日達成的協議表示熱烈歡迎。"
-    },
-    {
-      "id": "4934893",
-      "time": "2026-06-15 06:30:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，伊朗對以色列襲擊貝魯特南郊作出報復的條件之一，是以色列從黎巴嫩南部撤軍。"
-    },
-    {
-      "id": "mkt:019ec840-79ea-7dd8-aff8-3203c437afd6",
-      "time": "2026-06-15 06:28:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said Iran assured the U.S. it would not carry out retaliatory measures against Israel."
-    },
-    {
-      "id": "4934892",
-      "time": "2026-06-15 06:28:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：這份重要協議將為整個地區帶來和平與安全。多位前任總統都曾試圖與伊朗促成和解，但均以失敗告終。地區各國領導人如今首次遇到一位能助力他們實現真正和平的總統。本週五協議簽署後，霍爾木茲海峽將為清除水雷重新開放，區域乃至全球的石油運輸通道將全線恢復暢通。"
-    },
-    {
-      "id": "mkt:019ec83f-fd1e-7dd8-aff8-2f8f827b5a2d",
-      "time": "2026-06-15 06:28:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's top joint military command said Iranians, under the Supreme Leader's command, have shown the US \"no choice but to accept defeat\"."
-    },
-    {
-      "id": "4934891",
-      "time": "2026-06-15 06:28:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯： 以色列襲擊貝魯特之後，我們掌握大量證據，顯示伊朗準備向以色列發射大批導彈。 經我方與伊朗方面溝通，對方承諾不會對以色列採取報復行動，將會簽署協議、謀求和平。"
     }
   ]
 }
