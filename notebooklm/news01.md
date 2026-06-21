@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 08:06:41_
-_本檔包含 3869 則快訊，約 653785 字_
+_更新時間：2026-06-21 08:58:05_
+_本檔包含 3872 則快訊，約 653560 字_
+
+---
+
+### 2026-06-21 08:40:46  #國際
+
+特朗普：我們與承包商進行了會面，可能將被迫釋放並排幹大量蓄水，以便進行必要的修復工作。
+
+---
+
+### 2026-06-21 08:40:23  #國際
+
+特朗普：更多與倒影池“破壞行為”有關的人員已被逮捕。
+
+---
+
+### 2026-06-21 08:26:52  #公司
+
+【近一週機構調研個股有170多隻】近一週（6月12日至18日）機構調研個股有170多隻，美埃科技獲調研機構數最多。美埃科技有182家機構調研，包括57家基金公司、20家證券公司、12傢俬募、7家保險公司等。容大感光、立昂微、南方泵業、三孚新科等個股均有70家以上機構調研。從市場表現來看，近一週機構調研股平均漲超5%，達瑞電子、歐陸通、冰輪環境等個股均漲超30%。
+
+---
+
+### 2026-06-21 08:20:31  #觀點
+
+【華泰證券：AI伺服器測試電源或迎國產替代機遇】AIDC建設推動供電架構加速升級，測試電源有望迎來發展機遇。該機構認為隨資料中心供電架構由UPS向HVDC、SST持續演進，帶動測試物件由單一PSU向Power Shelf、BBU及整機架系統延伸；同時機櫃功率等級持續提升，有望推動測試電源量價齊升。我們看好國內廠商憑藉大功率技術積累及國產替代機遇，在行業擴容與技術升級背景下實現快速成長。
+
+---
+
+### 2026-06-21 08:18:11  #市場 #國際
+
+【澳大利亞延長燃油消費稅減免政策，緩解居民生活成本壓力】澳大利亞總理週日表示，將把燃油消費稅減免政策再延長一個月。受伊朗戰事影響，澳大利亞國內燃油價格持續高企，民眾負擔加重。澳大利亞總理在一份宣告中稱：“政府將燃油消費稅減免政策再延長一個月，7月汽油、柴油每升將比常規售價便宜16澳分，澳洲民眾加滿一箱油大約能省下11澳元。”他表示：“這項臨時扶持舉措能夠緩解油價上漲帶來的衝擊，減輕澳大利亞民眾的生活開支壓力。”
+
+---
+
+### 2026-06-21 08:14:31  #MKT News
+
+【LFP prices more than double; demand remains strong】Lithium iron phosphate (LFP) prices have jumped this year, with a ~400 kg bag trading above 25,000 yuan versus about 10,000 yuan a year ago. Demand remains robust: finished-goods warehouses are full and more than 90% of output is supplied to leading new-energy vehicle makers, which account for the bulk of order growth. Producers point to strong NEV and energy-storage exports as the main demand driver. Upstream costs are also pushing prices higher: LFP is made from iron phosphate, lithium carbonate and glucose, with iron phosphate representing roughly 30% of raw-material cost; iron phosphate has risen sharply year-to-date, lifting overall LFP production costs.
+
+---
+
+### 2026-06-21 08:12:30  #國際
+
+美國中央司令部：一架美國空軍F-35隱形戰鬥機在中東上空由一架KC-135 Stratotanker加油機進行空中加油。
+
+---
+
+### 2026-06-21 08:10:19  #市場
+
+【磷酸鐵鋰價格翻倍 需求依然旺盛】磷酸鐵、磷酸鐵鋰是新能源和儲能電池的重要原材料，今年以來價格一路走高，市場熱度居高不下。記者瞭解到，一包約400公斤的磷酸鐵鋰，現在的價格超過25000元，一年前的價格僅有10000元。儘管價格已翻倍，但需求依然旺盛。在一家磷酸鐵鋰生產工廠的成品倉庫內，不管是新增的貨架還是地上，貨物都擺得滿滿當當。這家企業生產的磷酸鐵鋰，超過九成是給頭部新能源車企供貨，這是他們今年訂單量增長的最大來源。有企業負責人告訴記者，新能源汽車以及儲能產品的出口旺盛，拉動磷酸鐵鋰需求持續走高，成為本輪產品漲價的重要動因。除了下游需求拉動外，上游原材料價格上漲，也是本輪磷酸鐵鋰價格走高的另一個關鍵因素。據介紹，磷酸鐵鋰主要由磷酸鐵、碳酸鋰、葡萄糖混合生產而成，其中磷酸鐵成本佔原料總成本的三成左右。今年以來，磷酸鐵價格大幅上行，抬升了磷酸鐵鋰的整體生產成本。（央視財經）
+
+---
+
+### 2026-06-21 08:09:59  #市場 #觀點 #國際
+
+【美銅關稅審查報告公佈在即 交易員嚴陣以待“多空抉擇”】全球市場上的銅交易員都在屏息等待將於6月底由美國商務部發布的審查報告，該報告將成為特朗普關稅決定最終拍板的關鍵依據。在靴子落地前夕，交易員們正密切關注相關訊號，以判斷是該平倉銅多頭頭寸，還是該加碼押注美國銅價將繼續上漲。摩根士丹利分析師在本月早些時候釋出的報告中指出，明年1月起實施15%精煉銅關稅的可能性為43%。過去一個月，紐約銅價相對於倫銅的溢價不斷擴大，表明部分投資者正押注這一方向。但無論特朗普的這枚硬幣最終翻向哪一面，鑑於銅在人工智慧(AI)基礎設施中無可替代的剛需地位，大多數分析師和交易員對銅的長期前景目前都相對樂觀。
 
 ---
 
@@ -23298,41 +23352,5 @@ HCL科技在金奈推出人工智慧創新區，提供採用英特爾技術的�
 ### 2026-06-18 19:21:37  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 FTSE 100 Falls by Over 1% — The FTSE 100 dropped more than 1% on Thursday, with sentiment subdued after the Bank of England left interest rates unchanged as expected. The index was dragged lower by weakness in energy and mining stocks as commodity prices continued to fall. Shell and BP lost more than 1.5%, while softer base metal prices pressured miners, with Rio Tinto down 2.3%, Glencore falling 2.4% and Anglo American sliding 3.2%. Tesco also weighed on the index, falling more than 1.5% after first quarter sales growth missed expectations. A number of stocks traded ex-dividend, including Persimmon, Land Securities and 3i Group. The BoE held its base rate at 3.75% at the June meeting, with two members voting for a 25-basis-point increase, matching expectations, and reiterated that it is monitoring geopolitical risks while remaining focused on returning inflation to its 2% target. The Federal Reserve also kept rates unchanged, although nine of its 19 policymakers now anticipate at least one rate hike this year.
-
----
-
-### 2026-06-18 19:20:45  #公司
-
-【*ST京化：完成發行2857.14萬股股份】*ST京化公告，公司已完成募集配套資金的股份發行，發行價格為15.4元/股，新增股份數量為2857.14萬股，均為限售流通股。募集配套資金的新增股份已在中國證券登記結算有限責任公司上海分公司辦理完成登記手續，並取得《證券變更登記證明》。本次發行完成後，公司股份分佈仍滿足《公司法》《證券法》及《股票上市規則》等法律、法規規定的股票上市條件。
-
----
-
-### 2026-06-18 19:20:45  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
-
-GBP/USD slid further, down 0.63% at 1.3213, its weakest since early April.
-
----
-
-### 2026-06-18 19:20:35  #Trading Economics #Economy #Ukraine #Interest Rate #Importance 1
-
-Ukraine Holds Policy Rate at 15% — The National Bank of Ukraine maintained its benchmark policy rate at 15% in its June 2026 meeting, a third consecutive hold since the 50bps rate cut at the start of the year. The central bank noted that the current levels of interest rates ensured a sufficiently tight monetary backdrop for the Ukrainian economy and was high enough to stimulate demand for hryvnia denominated fixed income. Still, the NBU delivered a hawkish outlook by noting it is ready to raise interest rates should it see that higher energy prices from the war in the Middle East are becoming entrenched in core sectors of the price basket. Consumer inflation slowed to 8.2% in May but core inflation rose to 7.9%, both above forecasts from the central bank. The NBU expects inflation to remain steady in the coming months and rise at the end of the year, before dropping in 2027.
-
----
-
-### 2026-06-18 19:20:24  #央行 #市場
-
-英鎊兌美元<GBP=D3>在英國央行維持利率不變後進一步下滑，最新下跌0.63%，報1.3213美元，創4月初以來最低水平。
-
----
-
-### 2026-06-18 19:20:21  #焦點 #國際
-
-【伊朗總統釋出伊美諒解備忘錄完整檔案】當地時間6月18日，伊朗總統佩澤希齊揚在其個人社交媒體釋出已簽署的伊美諒解備忘錄檔案，並寫道：“這是一份歷史性檔案，也是來自強大伊朗發出的資訊：和平將在相互尊重的基礎上實現。”佩澤希齊揚稱，伊朗始終致力於維護世界和平，並堅持在保持尊嚴與獨立的前提下，推動發展與地區合作。（央視新聞）
-
----
-
-### 2026-06-18 19:19:15  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
-
-UK 10-Year Gilt Yields Climb After BoE Holds Rates — UK 10-year gilt yields rose to 4.78%, recovering from two-month lows, as investors assessed the latest monetary policy decisions from the Bank of England and the US Federal Reserve, as well as the potential impact of the Makerfield by-election on Labour’s economic agenda. UK officials voted 7-2 to keep interest rates at 3.75%, highlighting uncertainty over the economic fallout from the Middle East energy shock. The BoE reaffirmed its commitment to addressing inflation, with Governor Andrew Bailey noting that pressures from the Iran conflict remain despite the ceasefire and prospective deal. The Monetary Policy Committee also forecasted a rise in inflation later this year due to higher energy costs but lowered its peak inflation estimate to 3.25% for Q4 2026, down from 3.6%. This follows the Fed’s decision to maintain rates, though nine of its 19 policymakers now anticipate at least one hike this year.
 
 ---

@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 08:06:41_
-_本檔包含 3533 則快訊，約 652708 字_
+_更新時間：2026-06-21 08:58:05_
+_本檔包含 3527 則快訊，約 652365 字_
+
+---
+
+### 2026-06-18 19:20:45  #公司
+
+【*ST京化：完成發行2857.14萬股股份】*ST京化公告，公司已完成募集配套資金的股份發行，發行價格為15.4元/股，新增股份數量為2857.14萬股，均為限售流通股。募集配套資金的新增股份已在中國證券登記結算有限責任公司上海分公司辦理完成登記手續，並取得《證券變更登記證明》。本次發行完成後，公司股份分佈仍滿足《公司法》《證券法》及《股票上市規則》等法律、法規規定的股票上市條件。
+
+---
+
+### 2026-06-18 19:20:45  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+GBP/USD slid further, down 0.63% at 1.3213, its weakest since early April.
+
+---
+
+### 2026-06-18 19:20:35  #Trading Economics #Economy #Ukraine #Interest Rate #Importance 1
+
+Ukraine Holds Policy Rate at 15% — The National Bank of Ukraine maintained its benchmark policy rate at 15% in its June 2026 meeting, a third consecutive hold since the 50bps rate cut at the start of the year. The central bank noted that the current levels of interest rates ensured a sufficiently tight monetary backdrop for the Ukrainian economy and was high enough to stimulate demand for hryvnia denominated fixed income. Still, the NBU delivered a hawkish outlook by noting it is ready to raise interest rates should it see that higher energy prices from the war in the Middle East are becoming entrenched in core sectors of the price basket. Consumer inflation slowed to 8.2% in May but core inflation rose to 7.9%, both above forecasts from the central bank. The NBU expects inflation to remain steady in the coming months and rise at the end of the year, before dropping in 2027.
+
+---
+
+### 2026-06-18 19:20:24  #央行 #市場
+
+英鎊兌美元<GBP=D3>在英國央行維持利率不變後進一步下滑，最新下跌0.63%，報1.3213美元，創4月初以來最低水平。
+
+---
+
+### 2026-06-18 19:20:21  #焦點 #國際
+
+【伊朗總統釋出伊美諒解備忘錄完整檔案】當地時間6月18日，伊朗總統佩澤希齊揚在其個人社交媒體釋出已簽署的伊美諒解備忘錄檔案，並寫道：“這是一份歷史性檔案，也是來自強大伊朗發出的資訊：和平將在相互尊重的基礎上實現。”佩澤希齊揚稱，伊朗始終致力於維護世界和平，並堅持在保持尊嚴與獨立的前提下，推動發展與地區合作。（央視新聞）
+
+---
+
+### 2026-06-18 19:19:15  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK 10-Year Gilt Yields Climb After BoE Holds Rates — UK 10-year gilt yields rose to 4.78%, recovering from two-month lows, as investors assessed the latest monetary policy decisions from the Bank of England and the US Federal Reserve, as well as the potential impact of the Makerfield by-election on Labour’s economic agenda. UK officials voted 7-2 to keep interest rates at 3.75%, highlighting uncertainty over the economic fallout from the Middle East energy shock. The BoE reaffirmed its commitment to addressing inflation, with Governor Andrew Bailey noting that pressures from the Iran conflict remain despite the ceasefire and prospective deal. The Monetary Policy Committee also forecasted a rise in inflation later this year due to higher energy costs but lowered its peak inflation estimate to 3.25% for Q4 2026, down from 3.6%. This follows the Fed’s decision to maintain rates, though nine of its 19 policymakers now anticipate at least one hike this year.
 
 ---
 
@@ -21311,77 +21347,5 @@ European Commission President Ursula von der Leyen urged stronger cooperation wi
 ### 2026-06-17 21:14:15  #公司 #國際
 
 【美貨運“龍”飛船攜科研樣品返回地球】美國太空探索技術公司的貨運“龍”飛船攜帶大量科研物資和裝置返回地球，17日濺落在美加利福尼亞州附近海域。據美國航空航天局介紹，“龍”飛船於美國東部時間16日12時25分許（北京時間17日0時25分許）脫離國際空間站，啟程返回地球。“龍”飛船於美國西部時間17日5時11分許（北京時間17日20時11分許），濺落在加利福尼亞州附近海域。（新華社）
-
----
-
-### 2026-06-17 21:14:01  #國際
-
-【龔正會見緬甸總統敏昂萊 為兩國務實合作作出上海積極貢獻】上海市市長龔正今天（6月17日）會見了緬甸總統敏昂萊一行。龔正代表上海市人民政府，對敏昂萊總統到訪上海表示熱烈歡迎。龔正說，中國和緬甸是山水相連的友好鄰邦，上海十分重視與緬甸的友好往來。近年來雙方開展了務實合作，取得積極成效。我們將認真落實習近平主席和您達成的重要共識，發揮地方合作優勢，為兩國務實合作作出上海的積極貢獻。上海作為中國最大的經濟中心城市，正在積極推進高水平對外開放，加強國際合作交流。希望以高質量共建“一帶一路”為契機，進一步加強與緬甸在經貿投資、人文交流等領域的合作，實現更高水平的互利共贏，為兩地人民謀取更大福祉。熱忱歡迎更多緬甸企業亮相第九屆進博會，投資上海、共享發展機遇。同時，希望雙方進一步深化文化、教育等方面交流合作，促進雙方民眾加強溝通、增進了解，推動中緬情誼源遠流長。敏昂萊說，談到中國就離不開上海，上海是中國經濟最活躍的城市，在工業、貿易、金融、航運等各個領域發展成果顯著，很高興再次訪問上海。緬甸和中國胞波情誼源遠流長，兩國睦鄰友好夥伴關係堅實牢固，合作空間廣闊。期待與中國加強全方位合作，進一步深化經貿投資往來，歡迎更多上海企業來到緬甸投資興業，更好惠及兩國民眾。緬甸外交部部長丁貌瑞、緬甸駐華大使佐溫敏，中國駐緬甸大使馬珈、上海市副市長賀青參加會見。 (上觀新聞)
-
----
-
-### 2026-06-17 21:14:00  #市場 #焦點
-
-PTA連續主力合約日內漲1%，現報5838.00元。
-
----
-
-### 2026-06-17 21:13:34  #央行 #國際
-
-【歐洲央行行長拉加德發出警告 稱AI對金融穩定構成巨大風險】歐洲央行行長拉加德表示，人工智慧可能引發危險的金融危機，該行決心確保這種情況不會發生。“即使有我們穩健的監管，我們也無法阻止人工智慧，”她週三在威尼斯發表演講時說。“不過，我們能做的是做好準備，讓我們的居民能夠從中受益，並免受其所帶來危險的傷害，而這正是我們正在做的事情。”她警告稱，真正的風險並不是人工智慧本身，而是在這樣一個具有顛覆性的新變數出現之後可能引發的動盪。拉加德表示：“在近代史上，有一種力量摧毀的就業崗位、吞噬的儲蓄比科技還要多，這種力量就是金融危機。”“隨著這些系統變得更加強大，它們正在越來越深入地擴充套件到經濟之中。”
-
----
-
-### 2026-06-17 21:13:18  #MKT News
-
-ECB President LAGARDE warned AI poses a huge risk to financial stability.
-
----
-
-### 2026-06-17 21:13:04  #Trading Economics #Markets #Commodity #Importance 0
-
-UK Natural Gas Prices Fall to 2-Month Low — UK natural gas prices fell to around 98 pence a therm, the lowest since April 17, as markets awaited further details on a US-Iran deal that could lead to the reopening of the Strait of Hormuz. The interim accord is set to be signed in Switzerland on June 19, though the memorandum of understanding has not yet been released. President Donald Trump reiterated on Monday that the strategic waterway would be fully accessible by Friday and operate "toll-free." The prospect of restored maritime traffic through the strait has significantly eased concerns about prolonged disruptions to oil and gas flows from the Persian Gulf. However, uncertainty remains over how quickly regional production can recover, particularly after extensive damage to Qatar's Ras Laffan complex, the world's largest LNG export facility. Meanwhile, forecasts of hot weather across Europe next week are expected to boost gas consumption.
-
----
-
-### 2026-06-17 21:12:47  #市場 #央行 #國際
-
-【在沃什領導下的美聯儲首次利率決議公佈前，美債收益率走高】在美聯儲主席凱文·沃什領導下的首次利率決議公佈前，美債收益率小幅走高。預計利率將維持不變。投資者對沃什將如何改變該央行與公眾的溝通及其前瞻性指引感到好奇。在源於伊朗戰爭的通脹壓力下，今年至少加息一次的機率依然很高。和平協議的主要細節仍處於保密狀態。原油期貨小幅走高，但仍低於80美元。5月零售額增速從修正後的0.4%加快至0.9%，高於《華爾街日報》0.5%的平均預期。10年期美債收益率報4.443%，高於昨日的4.427%。兩年期美債收益率從4.046%升至4.068%。
-
----
-
-### 2026-06-17 21:12:19  #國際
-
-GENSPARK.AI：本輪融資獲SOZO VENTURES、韓國未來資產、UPHONEST CAPITAL支援。
-
----
-
-### 2026-06-17 21:11:52  #其他
-
-GENSPARK.AI：宣佈完成1億美元B輪擴充套件融資，投後估值達26億美元。
-
----
-
-### 2026-06-17 21:11:40  #市場 #焦點
-
-焦煤連續主力合約日內跌3%，現報1308.50元。
-
----
-
-### 2026-06-17 21:11:34  #宏觀 #公司 #國際
-
-報道稱：馬克龍敦促七國集團領導人與科技企業執行長尋找變通方案，規避美國針對Claude人工智慧模型出臺的限制措施。
-
----
-
-### 2026-06-17 21:11:04  #MKT News #Market Themes #AI Revolution
-
-Genspark.ai expands Series B to $485m; post-money valuation $2.6bn.
-
----
-
-### 2026-06-17 21:10:37  #公司
-
-【銀行開始下架2年期定存】 記者發現，重慶富民銀行近日釋出關於2年期及以上整存整取及續存系列產品暫停受理新增存入的公告。公告顯示：自6月15日起，該行手機銀行APP、微信小程式等線上渠道的個人整存整取及續存系列產品中2年期及以上存款產品暫停受理新的存入申請。這也意味著，重慶富民銀行線上渠道的中長期存款全部階段性停售。融360數字科技研究院高階分析師艾亞文分析，銀行下架中長期定期存款，主要因優質信貸資產增長乏力，疊加高息攬存模式難以為繼，機構主動壓降高成本、長期限負債。（一財）
 
 ---

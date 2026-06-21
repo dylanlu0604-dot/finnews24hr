@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 08:06:41_
-_本檔包含 3523 則快訊，約 653149 字_
+_更新時間：2026-06-21 08:58:05_
+_本檔包含 3506 則快訊，約 652324 字_
+
+---
+
+### 2026-06-16 22:41:33  #MKT News #Commodities #Energy #CNH #Impact bullish #CSI300 #Copper
+
+【China's green-ship orders lead globally; methanol heavy-truck sales surge 300%】Green fuel was included in China’s 2026 government work report for the first time, marking it as an important direction for developing a green, low-carbon economy. China’s methanol industry chain is accelerating: in Q1 new green-ship orders accounted for 80.2% of the global market, methanol heavy-truck monthly sales rose more than 300% YoY, and over 200 green methanol projects are planned nationwide. Infrastructure rollout is advancing — as of end-2025 China had built more than 900 methanol refuelling stations.
+
+---
+
+### 2026-06-16 22:41:24  #MKT News
+
+RBC CEO McKay said the USMCA is vital to Canada, the United States and Mexico and must not be rescinded.
+
+---
+
+### 2026-06-16 22:41:13  #國際
+
+加拿大皇家銀行：美加墨協定對加拿大、美國、墨西哥至關重要，不應取消。
+
+---
+
+### 2026-06-16 22:40:48  #其他
+
+加拿大皇家銀行：市場正競相捕捉推動科技、資料和能源領域投資的需求。
+
+---
+
+### 2026-06-16 22:40:25  #公司
+
+七國集團領導人呼籲多邊開發銀行推廣使用風險分擔工具。
+
+---
+
+### 2026-06-16 22:40:16  #兩會
+
+【我國綠色船舶訂單領跑全球 甲醇重卡銷量暴漲300%】2026年，“綠色燃料” 首次被寫入政府工作報告，成為我國培育綠色低碳經濟新增長點的重要方向。 [話筒]在吉林洮南，當地依託玉米秸稈資源搭配風電制氫，經化工轉化產出綠色甲醇。這種被稱作“液態陽光”的新型燃料，全生命週期碳排放量較傳統柴油降幅超90%，並獲得國際ISCC綠色認證，產品長期供應法國達飛等海外頭部航運企業，合作訂單已簽約至2031年。當前國內甲醇全產業鏈發展勢頭強勁：今年一季度，我國新增綠色船舶訂單佔全球市場份額達80.2%；甲醇重卡單月銷量同比增長超300%；全國落地規劃的綠色甲醇專案數量超200個。配套基礎設施建設同步提速，截至2025年末，全國已建成甲醇加註站900餘座。現階段甲醇燃料產業仍存在生產成本偏高、加註網路不夠完善等痛點，但政策引導與市場活力正協同發力、加速破局。這場源自農田的能源變革，正推動我國在全球低碳競爭賽道搶佔優勢、贏得主動。（央視財經）
+
+---
+
+### 2026-06-16 22:40:12  #MKT News
+
+RBC CEO McKay said he is confident the US and Canada will reach a final agreement.
+
+---
+
+### 2026-06-16 22:40:01  #MKT News
+
+G7 leaders urged multilateral development banks to promote wider use of risk‑sharing instruments.
+
+---
+
+### 2026-06-16 22:39:49  #國際
+
+【美聯邦調查局挫敗針對白宮格鬥賽的襲擊圖謀】美國福克斯新聞數字網16日報道，美國聯邦調查局聯合其他執法機構挫敗了一起針對14日在白宮南草坪舉行的格鬥賽的襲擊圖謀。報道援引知情官員的話說，截至15日，已有5人被拘捕，調查人員已確定23名涉嫌參與襲擊圖謀的人員。這些人員涉嫌計劃使用裝有爆炸物的無人機襲擊格鬥賽場附近的建築物，以迫使人群大規模疏散，並將人群引向事先部署的狙擊小組。他們還涉嫌策劃第二波衝擊白宮大門的行動。該官員說，聯邦調查局10日首次獲悉此威脅，並與合作伙伴共同努力，拘留了一名嫌疑人。調查人員在檢查嫌疑人的手機後發現，至少有20餘名加密通訊應用軟體“訊號”的使用者涉嫌討論將對白宮南草坪格鬥賽發動襲擊。報道稱，一名嫌疑人告訴調查人員，他們計劃的襲擊目標是“資本主義精英”“億萬富翁”和那些接受猶太人利益遊說團體“美國-以色列公共事務委員會”捐款的政治人物。聯邦調查局局長卡什·帕特爾證實，已有數人被拘留，涉嫌策劃的襲擊圖謀也被及時挫敗。美國總統特朗普和家人14日晚觀看了在白宮南草坪舉行的終極格鬥冠軍賽。該活動是紀念美國獨立250週年慶祝活動的一部分，恰逢特朗普80歲生日。福克斯新聞數字網稱，大約4300人到場觀賽。（新華社）
 
 ---
 
@@ -21084,162 +21138,5 @@ Canada | Wholesale Inventories (MoM) (Apr) | actual 1.1% | previous 0.3%
 ### 2026-06-15 20:33:59  #公司 #國際
 
 【非洲建交國符合要求的腰果已獲准輸華】記者15日從海關總署獲悉，自6月9日起非洲地區建交國生產的腰果已全面實現輸華檢疫准入。據海關總署釋出的《關於進口非洲腰果檢驗檢疫和衛生要求的公告》，允許進口的腰果是指由出口國境內種植的腰果為原料，在出口國境內經去皮、乾燥、挑選等加工工藝製作而成的供人類食用的帶殼或去殼堅果。輸華腰果不得帶有谷斑皮蠹、腎斑皮蠹、四紋豆象和非洲葉跗鋸谷盜等中方關注的檢疫性有害生物。（新華社）
-
----
-
-### 2026-06-15 20:33:37  #MKT News #WTI #Impact bullish #XAUUSD
-
-HEZBOLLAH says it will defend the Lebanese people until Israel withdraws.
-
----
-
-### 2026-06-15 20:32:48  #MKT News
-
-Canada April manufacturing new orders m/m +2.1% (prior +4.7%).
-
----
-
-### 2026-06-15 20:32:40  #其他
-
-【第九屆進博會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦】6月15日，第九屆中國國際進口博覽會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦。商務部副部長鄢東、山東省副省長溫暖、中國工商銀行副行長張偉武出席活動並致辭，英國商業貿易部駐華貿易使節倪樂思出席活動。鄢東表示，中國堅定不移擴大高水平對外開放，透過自主開放、單邊開放，舉辦進博會等重要展會，分享中國發展的紅利。第九屆進博會將於今年11月5日至10日在上海舉辦，將與“出口中國”等品牌活動協同聯動，為各國企業對接中國市場需求、進入中國市場搭建平臺和橋樑，以更大力度擴大進口、推動進出口平衡發展。
-
----
-
-### 2026-06-15 20:32:40  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing New Orders (MoM) (Apr) | actual 2.1% | previous 4.7%
-
----
-
-### 2026-06-15 20:32:32  #MKT News
-
-Canada manufacturing inventories rose 0.5% MoM in April, vs. +1.3% prior.
-
----
-
-### 2026-06-15 20:32:27  #MKT News
-
-【Luo Wen meets Azerbaijan Food Safety Agency head Goshgar Tahmazli】On June 12, SAMR director Luo Wen met visiting Azerbaijan Food Safety Agency head Goshgar Tahmazli. They discussed full-chain food safety oversight, smart supervision, and laboratory and research cooperation, and agreed to establish a joint working group to deepen regulatory exchange and cooperation. Senior SAMR officials attended.
-
----
-
-### 2026-06-15 20:32:26  #其他
-
-【我國夏糧小麥收穫已近九成】記者從農業農村部獲悉，截至6月15日17時，全國已收穫夏糧小麥3.04億畝，收穫進度89.48%。山東近九成，河北過八成，陝西近八成，山西過七成，新疆近三成，甘肅零星收穫。（新華社）
-
----
-
-### 2026-06-15 20:32:25  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing Inventories (MoM) (Apr) | actual 0.5% | previous 1.3%
-
----
-
-### 2026-06-15 20:31:56  #國際
-
-印度5月大豆進口量較4月飆升65%，創下20萬噸的紀錄水平。
-
----
-
-### 2026-06-15 20:31:50  #MKT News
-
-Canada manufacturers' unfilled orders, Apr MoM +1.3% (prior +2.4%).
-
----
-
-### 2026-06-15 20:31:43  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing Unfilled Orders (MoM) (Apr) | actual 1.3% | previous 2.4%
-
----
-
-### 2026-06-15 20:31:43  #其他
-
-【羅文會見亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利】6月12日，國家市場監督管理總局局長羅文會見來訪的亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利。雙方就食品安全全鏈條監管、智慧監管、實驗室與科研合作等議題進行交流，一致同意成立工作組，加強食品安全監管交流合作。總局相關司局負責同志參加會見。
-
----
-
-### 2026-06-15 20:31:39  #MKT News
-
-Canada April manufacturing inventory-to-shipments ratio 1.62% vs 1.69% prior.
-
----
-
-### 2026-06-15 20:31:31  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing Inventory-To-Sales Ratio (Apr) | actual 1.62% | previous 1.69%
-
----
-
-### 2026-06-15 20:31:11  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-US New York Fed manufacturing new-orders index for June 3.5; prior 22.7.
-
----
-
-### 2026-06-15 20:30:59  #MKT News #Economic Calendar #Important
-
-United States | New York Fed New Orders Index (Jun) | actual 3.5 | previous 22.7
-
----
-
-### 2026-06-15 20:30:54  #資料
-
-加拿大4月批發銷售月率 0.6%，預期0.1%，前值1.90%。
-
----
-
-### 2026-06-15 20:30:48  #Trading Economics #Economy #Canada #Housing Starts #Importance 1
-
-Canada Housing Starts Fall 6.1% in May — Housing starts in Canada fell 6.1% from the previous month to a seasonally adjusted annual rate of 261.4 thousand in May 2026, well above market forcasts of 255.1 thousand units. Urban housing starts in centers with populations over 10,000 people fell to 247 thousand. In turn, rural starts were estimated to increase to 14,357 units.
-
----
-
-### 2026-06-15 20:30:46  #MKT News #Macro & Rates #US Economy
-
-US New York Fed Empire State manufacturing prices received index 31.4 in June, down from 31.8 previously.
-
----
-
-### 2026-06-15 20:30:46  #經濟數據 #加拿大
-
-【加拿大4月批發銷售環比增長0.6% 預期0.1%】加拿大4月批發銷售環比增長0.6%，預期0.1%，前值1.90%。
-
----
-
-### 2026-06-15 20:30:45  #央行 #國際
-
-美國6月紐約聯儲製造業指數 5.7，預期14，前值19.6。
-美國6月紐約聯儲製造業就業指數 9.6，前值8.3。
-
----
-
-### 2026-06-15 20:30:36  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Prices Received Index (Jun) | actual 31.4 | previous 31.8
-
----
-
-### 2026-06-15 20:30:32  #經濟數據 #美國
-
-【美國6月紐約聯儲製造業指數5.7 預期14】美國6月紐約聯儲製造業指數5.7，預期14，前值19.6。
-
----
-
-### 2026-06-15 20:30:30  #MKT News #Macro & Rates #US Economy
-
-US New York Fed manufacturing employment index (June) 9.6, up from 8.3 in May.
-
----
-
-### 2026-06-15 20:30:22  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Employment Index (Jun) | actual 9.6 | previous 8.3
-
----
-
-### 2026-06-15 20:30:17  #國際
-
-黎巴嫩真主黨：伊朗協議是以色列完全撤退的前奏。
 
 ---

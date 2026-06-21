@@ -1,7 +1,164 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-21 08:06:41_
-_本檔包含 3507 則快訊，約 653141 字_
+_更新時間：2026-06-21 08:58:05_
+_本檔包含 3510 則快訊，約 652790 字_
+
+---
+
+### 2026-06-15 20:33:37  #MKT News #WTI #Impact bullish #XAUUSD
+
+HEZBOLLAH says it will defend the Lebanese people until Israel withdraws.
+
+---
+
+### 2026-06-15 20:32:48  #MKT News
+
+Canada April manufacturing new orders m/m +2.1% (prior +4.7%).
+
+---
+
+### 2026-06-15 20:32:40  #其他
+
+【第九屆進博會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦】6月15日，第九屆中國國際進口博覽會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦。商務部副部長鄢東、山東省副省長溫暖、中國工商銀行副行長張偉武出席活動並致辭，英國商業貿易部駐華貿易使節倪樂思出席活動。鄢東表示，中國堅定不移擴大高水平對外開放，透過自主開放、單邊開放，舉辦進博會等重要展會，分享中國發展的紅利。第九屆進博會將於今年11月5日至10日在上海舉辦，將與“出口中國”等品牌活動協同聯動，為各國企業對接中國市場需求、進入中國市場搭建平臺和橋樑，以更大力度擴大進口、推動進出口平衡發展。
+
+---
+
+### 2026-06-15 20:32:40  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing New Orders (MoM) (Apr) | actual 2.1% | previous 4.7%
+
+---
+
+### 2026-06-15 20:32:32  #MKT News
+
+Canada manufacturing inventories rose 0.5% MoM in April, vs. +1.3% prior.
+
+---
+
+### 2026-06-15 20:32:27  #MKT News
+
+【Luo Wen meets Azerbaijan Food Safety Agency head Goshgar Tahmazli】On June 12, SAMR director Luo Wen met visiting Azerbaijan Food Safety Agency head Goshgar Tahmazli. They discussed full-chain food safety oversight, smart supervision, and laboratory and research cooperation, and agreed to establish a joint working group to deepen regulatory exchange and cooperation. Senior SAMR officials attended.
+
+---
+
+### 2026-06-15 20:32:26  #其他
+
+【我國夏糧小麥收穫已近九成】記者從農業農村部獲悉，截至6月15日17時，全國已收穫夏糧小麥3.04億畝，收穫進度89.48%。山東近九成，河北過八成，陝西近八成，山西過七成，新疆近三成，甘肅零星收穫。（新華社）
+
+---
+
+### 2026-06-15 20:32:25  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing Inventories (MoM) (Apr) | actual 0.5% | previous 1.3%
+
+---
+
+### 2026-06-15 20:31:56  #國際
+
+印度5月大豆進口量較4月飆升65%，創下20萬噸的紀錄水平。
+
+---
+
+### 2026-06-15 20:31:50  #MKT News
+
+Canada manufacturers' unfilled orders, Apr MoM +1.3% (prior +2.4%).
+
+---
+
+### 2026-06-15 20:31:43  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing Unfilled Orders (MoM) (Apr) | actual 1.3% | previous 2.4%
+
+---
+
+### 2026-06-15 20:31:43  #其他
+
+【羅文會見亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利】6月12日，國家市場監督管理總局局長羅文會見來訪的亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利。雙方就食品安全全鏈條監管、智慧監管、實驗室與科研合作等議題進行交流，一致同意成立工作組，加強食品安全監管交流合作。總局相關司局負責同志參加會見。
+
+---
+
+### 2026-06-15 20:31:39  #MKT News
+
+Canada April manufacturing inventory-to-shipments ratio 1.62% vs 1.69% prior.
+
+---
+
+### 2026-06-15 20:31:31  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing Inventory-To-Sales Ratio (Apr) | actual 1.62% | previous 1.69%
+
+---
+
+### 2026-06-15 20:31:11  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+US New York Fed manufacturing new-orders index for June 3.5; prior 22.7.
+
+---
+
+### 2026-06-15 20:30:59  #MKT News #Economic Calendar #Important
+
+United States | New York Fed New Orders Index (Jun) | actual 3.5 | previous 22.7
+
+---
+
+### 2026-06-15 20:30:54  #資料
+
+加拿大4月批發銷售月率 0.6%，預期0.1%，前值1.90%。
+
+---
+
+### 2026-06-15 20:30:48  #Trading Economics #Economy #Canada #Housing Starts #Importance 1
+
+Canada Housing Starts Fall 6.1% in May — Housing starts in Canada fell 6.1% from the previous month to a seasonally adjusted annual rate of 261.4 thousand in May 2026, well above market forcasts of 255.1 thousand units. Urban housing starts in centers with populations over 10,000 people fell to 247 thousand. In turn, rural starts were estimated to increase to 14,357 units.
+
+---
+
+### 2026-06-15 20:30:46  #MKT News #Macro & Rates #US Economy
+
+US New York Fed Empire State manufacturing prices received index 31.4 in June, down from 31.8 previously.
+
+---
+
+### 2026-06-15 20:30:46  #經濟數據 #加拿大
+
+【加拿大4月批發銷售環比增長0.6% 預期0.1%】加拿大4月批發銷售環比增長0.6%，預期0.1%，前值1.90%。
+
+---
+
+### 2026-06-15 20:30:45  #央行 #國際
+
+美國6月紐約聯儲製造業指數 5.7，預期14，前值19.6。
+美國6月紐約聯儲製造業就業指數 9.6，前值8.3。
+
+---
+
+### 2026-06-15 20:30:36  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Prices Received Index (Jun) | actual 31.4 | previous 31.8
+
+---
+
+### 2026-06-15 20:30:32  #經濟數據 #美國
+
+【美國6月紐約聯儲製造業指數5.7 預期14】美國6月紐約聯儲製造業指數5.7，預期14，前值19.6。
+
+---
+
+### 2026-06-15 20:30:30  #MKT News #Macro & Rates #US Economy
+
+US New York Fed manufacturing employment index (June) 9.6, up from 8.3 in May.
+
+---
+
+### 2026-06-15 20:30:22  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Employment Index (Jun) | actual 9.6 | previous 8.3
+
+---
+
+### 2026-06-15 20:30:17  #國際
+
+黎巴嫩真主黨：伊朗協議是以色列完全撤退的前奏。
 
 ---
 
@@ -21072,145 +21229,5 @@ CENTCOM said U.S. forces have forced 141 vessels to change course and disabled n
 ### 2026-06-14 08:58:24  #國際
 
 【伊朗球員談備戰世界盃：時刻牽掛祖國局勢，簽證問題影響出征】由於美以伊戰事以及美方在簽證等問題上的刁難，伊朗隊本屆世界盃之旅頗為坎坷。伊朗國足隊員近日在墨西哥接受採訪時表示，他們在備戰時仍時刻牽掛祖國局勢，同時對美國在安保和簽證等問題上的所作所為感到不滿。（央視新聞）
-
----
-
-### 2026-06-14 08:55:41  #其他
-
-【航行警告 南海海域進行實彈射擊】汕尾海事局釋出航行警告，6月15日至16日，每天6時至20時，南海部分海域進行實彈射擊，禁止駛入。
-
----
-
-### 2026-06-14 08:51:08  #行業 #公司
-
-【酒價內參6月14日價格釋出：五糧液普五八代國窖1573領漲 總價創六天以來新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月14日整體小幅回彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9906元，較昨日上漲8元，重返9900元關口上方，創六天以來最高。市場在前一日小幅回落後再度修復，終端交投情緒略有回暖，但核心單品的漲跌分化依然顯著。
-
-今日11大白酒單品四漲四跌三平，漲跌數量持平，但上漲品種的漲幅相對更大，帶動總價回升。上漲方面，五糧液普五八代的漲幅居前，上漲7元/瓶，重回810元一線；國窖1573上漲6元/瓶，回補昨日全部跌幅，重新站上880元關口；習酒君品上漲5元/瓶；洋河夢之藍M6+小幅上漲1元/瓶。下跌方面，古井貢古20跌幅居前，下跌6元/瓶；精品茅臺下跌3元/瓶；飛天茅臺與五糧液1618均下跌1元/瓶，後者平近一月最低價格紀錄。青花汾20、青花郎與水晶劍南春價格環比保持不變。
-
----
-
-### 2026-06-14 08:48:17  #國際
-
-【“一天內兩次”，外媒：瑞典稱出動“鷹獅”戰機，在波羅的海上空攔截俄戰機】綜合法新社、烏克蘭《基輔郵報》等媒體報道，瑞典軍方13日發表宣告稱，12日兩次出動“鷹獅”戰機，攔截在瑞典領空附近飛行的俄羅斯戰機。據《基輔郵報》報道，宣告稱，這兩起事件均發生在波羅的海上空，涉及俄羅斯蘇-24與蘇-34戰機。在這兩起事件中，沒有發生瑞典領空被侵犯的情況。截至發稿，暫未看到俄羅斯官方公開對上述說法作出回應。（環球網）
-
----
-
-### 2026-06-14 08:48:05  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran says it must be paid for services in the Strait of Hormuz】Iranian foreign ministry spokesman Baghaei said on the 13th that Tehran’s measures to secure passage through the Strait of Hormuz are both a national security necessity and in the common interest of the international community, and that Iran must receive fees for services provided in the Strait.
-
----
-
-### 2026-06-14 08:44:22  #焦點 #國際
-
-【伊朗外交部：必須獲得在霍爾木茲海峽提供服務的費用】伊朗外交部發言人巴加埃13日說，伊朗為保障霍爾木茲海峽安全通行而採取的措施，既是維護國家安全，也符合國際社會的共同利益。伊朗必須獲得在霍爾木茲海峽提供服務的費用。（新華社）
-
----
-
-### 2026-06-14 08:40:13  #國際
-
-【世界盃期間英格蘭隊裝備遭竊 大部分已被追回】正在參加美加墨世界盃的英格蘭隊日前在美國堪薩斯城遭遇意外，運輸球隊訓練裝備的車輛遭遇盜竊，包括一些球鞋和足球在內的部分球隊裝備被偷走。英國方面訊息稱，截至當地時間13日，英格蘭隊失竊的大部分裝備已被追回。（央視新聞）
-
----
-
-### 2026-06-14 08:38:53  #國際
-
-以色列軍方：剛剛的“關於埃拉特地區有敵機入侵的警報”，經過確認系誤報。
-
----
-
-### 2026-06-14 08:38:14  #MKT News
-
-ISRAELI MILITARY said an alert that just sounded reporting enemy aircraft intrusion over the Eilat area has been confirmed as a false alarm.
-
----
-
-### 2026-06-14 08:37:48  #公司
-
-【中勘北斗數字集團‌與海康威視達成戰略合作】近日，湖南中勘北斗數字科技集團有限公司（簡稱“中勘北斗數字集團‌”）與海康威視正式簽署戰略合作協議。雙方將發揮各自優勢，推動安全生產從傳統“人防”向智慧化、精細化的“技防+智防”模式升級。
-
----
-
-### 2026-06-14 08:36:13  #市場 #國際
-
-【瑞士就人口上限一千萬提案舉行公投】瑞士民眾將於週日參與全民公投，決定是否支援一項人口上限提案。此次公投被拿來與英國脫歐公投相提並論，一旦透過，將對瑞士經濟以及伯爾尼政府與歐盟的關係產生深遠影響。該修憲提案由右翼政黨瑞士人民黨提出，動因源於民眾對移民問題、公共服務承壓及住房緊張的擔憂。提案要求到 2050 年，瑞士總人口不得超過 1000 萬。而官方預測資料顯示，瑞士人口最早在 2040 年代初就將達到這一數值。這項以法律形式限定人口規模的舉措前所未有。與此同時，歐洲右翼陣營正紛紛加大力度收緊移民管控，民眾對生活成本上漲、經濟增長乏力以及治安問題的不滿，也助推了這一趨勢。
-
----
-
-### 2026-06-14 08:35:01  #國際
-
-美國聯邦航空管理局(FAA)接近選擇ASI而非Palantir和Thales，為其人工智慧空中交通管理系統提供支援。
-
----
-
-### 2026-06-14 08:34:29  #國際
-
-美國食品藥品監督管理局：正調查一起涉及3個州、共3例確診或疑似嬰兒肉毒中毒病例的多州暴發疫情。
-
----
-
-### 2026-06-14 08:33:47  #其他
-
-【聯合國專家：國際社會應採取實際行動應對氣候變化】《聯合國氣候變化框架公約》附屬機構第64屆會議——即聯合國六月氣候會議正在德國波恩舉行。聯合國專家表示，當前極端天氣正變得越來越頻繁，國際社會應採取實際行動應對氣候變化。（央視新聞）
-
----
-
-### 2026-06-14 08:33:10  #MKT News
-
-ISRAELI MILITARY: Alerts activated in the Eilat region of southern Israel amid concerns over enemy drone infiltration.
-
----
-
-### 2026-06-14 08:29:38  #其他
-
-【15條特高壓直流通道要來了】從“十五五”規劃《綱要》部署的十大清潔能源基地出發，多條特高壓直流通道正在加緊建設，“十五五”期間，將投產15條這樣的通道。未來五年，配網的投資要佔到電網總投入的六成。城市的老舊線路要升級，縣城的薄弱電網也要補上。到2030年，全國能接住9億千瓦的分散式新能源，支撐超過4000萬臺充電樁。記者從國家能源局瞭解到，到2030年，我國以主幹電網和配電網為重要基礎、智慧微電網為有益補充的新型電網平臺將初步建成，“西電東送”規模將超過4.2億千瓦，支撐新能源發電量佔比達到30%左右。(央視財經)
-
----
-
-### 2026-06-14 08:29:07  #國際
-
-特朗普將於歐洲中部夏令時間6月17日下午3:30（北京時間17日21:30）舉行新聞釋出會。
-
----
-
-### 2026-06-14 08:28:35  #其他
-
-加拿大航空：與國際機械師及航空工人協會就新合同達成初步協議，新協議條款在工會會員批准前仍處於保密狀態，預計批准流程將在未來幾周內完成，覆蓋加拿大境內超過11,000名維修、機場空側、貨運及行政崗位員工。
-
----
-
-### 2026-06-14 08:26:59  #國際
-
-特朗普將於歐洲中部夏令時間6月17日下午2點45分（北京時間17日20:45）會見印度總理。
-
----
-
-### 2026-06-14 08:26:45  #國際
-
-特朗普將於歐洲中部夏令時間6月17日上午11:30（北京時間17日17:30）會見埃及總統。
-
----
-
-### 2026-06-14 08:26:25  #國際
-
-特朗普將於歐洲中部夏令時間6月16日上午11點15分（北京時間16日17:15）會見阿聯酋總統。
-
----
-
-### 2026-06-14 08:25:02  #國際
-
-特朗普將於歐洲中部夏令時間6月16日上午10:30會見卡達埃米爾。
-
----
-
-### 2026-06-14 08:24:49  #國際
-
-特朗普將於歐洲中部夏令時間6月15日下午5:30（北京時間15日23:30）在埃維昂會見法國總統馬克龍。
-
----
-
-### 2026-06-14 08:19:35  #其他
-
-【暴雨黃色預警持續，交通運輸部維持強降雨三級防禦響應】6月14日，交通運輸部影片排程廣東、廣西、福建、江西、雲南、內蒙古、吉林、遼寧省（區）交通運輸主管部門和廣東、廣西海事局，要求保持高度警惕，緊盯強降雨密集地區和連續降雨高風險區域，加強排程，完善工作機制，壓實各方責任，督促“響應、巡查、管控”主動防禦措施落實，堅決防範遏制重特大事故發生。要切實做好連續降雨防範應對工作，落實排查、巡查措施，確保力量預置、主動管控到位。交通運輸部將根據暴雨預警變化，及時調整防禦響應等級。
 
 ---

@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 08:06:41_
-_本檔包含 3120 則快訊，約 652988 字_
+_更新時間：2026-06-21 08:58:05_
+_本檔包含 3123 則快訊，約 653763 字_
+
+---
+
+### 2026-06-17 21:14:01  #國際
+
+【龔正會見緬甸總統敏昂萊 為兩國務實合作作出上海積極貢獻】上海市市長龔正今天（6月17日）會見了緬甸總統敏昂萊一行。龔正代表上海市人民政府，對敏昂萊總統到訪上海表示熱烈歡迎。龔正說，中國和緬甸是山水相連的友好鄰邦，上海十分重視與緬甸的友好往來。近年來雙方開展了務實合作，取得積極成效。我們將認真落實習近平主席和您達成的重要共識，發揮地方合作優勢，為兩國務實合作作出上海的積極貢獻。上海作為中國最大的經濟中心城市，正在積極推進高水平對外開放，加強國際合作交流。希望以高質量共建“一帶一路”為契機，進一步加強與緬甸在經貿投資、人文交流等領域的合作，實現更高水平的互利共贏，為兩地人民謀取更大福祉。熱忱歡迎更多緬甸企業亮相第九屆進博會，投資上海、共享發展機遇。同時，希望雙方進一步深化文化、教育等方面交流合作，促進雙方民眾加強溝通、增進了解，推動中緬情誼源遠流長。敏昂萊說，談到中國就離不開上海，上海是中國經濟最活躍的城市，在工業、貿易、金融、航運等各個領域發展成果顯著，很高興再次訪問上海。緬甸和中國胞波情誼源遠流長，兩國睦鄰友好夥伴關係堅實牢固，合作空間廣闊。期待與中國加強全方位合作，進一步深化經貿投資往來，歡迎更多上海企業來到緬甸投資興業，更好惠及兩國民眾。緬甸外交部部長丁貌瑞、緬甸駐華大使佐溫敏，中國駐緬甸大使馬珈、上海市副市長賀青參加會見。 (上觀新聞)
+
+---
+
+### 2026-06-17 21:14:00  #市場 #焦點
+
+PTA連續主力合約日內漲1%，現報5838.00元。
+
+---
+
+### 2026-06-17 21:13:34  #央行 #國際
+
+【歐洲央行行長拉加德發出警告 稱AI對金融穩定構成巨大風險】歐洲央行行長拉加德表示，人工智慧可能引發危險的金融危機，該行決心確保這種情況不會發生。“即使有我們穩健的監管，我們也無法阻止人工智慧，”她週三在威尼斯發表演講時說。“不過，我們能做的是做好準備，讓我們的居民能夠從中受益，並免受其所帶來危險的傷害，而這正是我們正在做的事情。”她警告稱，真正的風險並不是人工智慧本身，而是在這樣一個具有顛覆性的新變數出現之後可能引發的動盪。拉加德表示：“在近代史上，有一種力量摧毀的就業崗位、吞噬的儲蓄比科技還要多，這種力量就是金融危機。”“隨著這些系統變得更加強大，它們正在越來越深入地擴充套件到經濟之中。”
+
+---
+
+### 2026-06-17 21:13:18  #MKT News
+
+ECB President LAGARDE warned AI poses a huge risk to financial stability.
+
+---
+
+### 2026-06-17 21:13:04  #Trading Economics #Markets #Commodity #Importance 0
+
+UK Natural Gas Prices Fall to 2-Month Low — UK natural gas prices fell to around 98 pence a therm, the lowest since April 17, as markets awaited further details on a US-Iran deal that could lead to the reopening of the Strait of Hormuz. The interim accord is set to be signed in Switzerland on June 19, though the memorandum of understanding has not yet been released. President Donald Trump reiterated on Monday that the strategic waterway would be fully accessible by Friday and operate "toll-free." The prospect of restored maritime traffic through the strait has significantly eased concerns about prolonged disruptions to oil and gas flows from the Persian Gulf. However, uncertainty remains over how quickly regional production can recover, particularly after extensive damage to Qatar's Ras Laffan complex, the world's largest LNG export facility. Meanwhile, forecasts of hot weather across Europe next week are expected to boost gas consumption.
+
+---
+
+### 2026-06-17 21:12:47  #市場 #央行 #國際
+
+【在沃什領導下的美聯儲首次利率決議公佈前，美債收益率走高】在美聯儲主席凱文·沃什領導下的首次利率決議公佈前，美債收益率小幅走高。預計利率將維持不變。投資者對沃什將如何改變該央行與公眾的溝通及其前瞻性指引感到好奇。在源於伊朗戰爭的通脹壓力下，今年至少加息一次的機率依然很高。和平協議的主要細節仍處於保密狀態。原油期貨小幅走高，但仍低於80美元。5月零售額增速從修正後的0.4%加快至0.9%，高於《華爾街日報》0.5%的平均預期。10年期美債收益率報4.443%，高於昨日的4.427%。兩年期美債收益率從4.046%升至4.068%。
+
+---
+
+### 2026-06-17 21:12:19  #國際
+
+GENSPARK.AI：本輪融資獲SOZO VENTURES、韓國未來資產、UPHONEST CAPITAL支援。
+
+---
+
+### 2026-06-17 21:11:52  #其他
+
+GENSPARK.AI：宣佈完成1億美元B輪擴充套件融資，投後估值達26億美元。
+
+---
+
+### 2026-06-17 21:11:40  #市場 #焦點
+
+焦煤連續主力合約日內跌3%，現報1308.50元。
+
+---
+
+### 2026-06-17 21:11:34  #宏觀 #公司 #國際
+
+報道稱：馬克龍敦促七國集團領導人與科技企業執行長尋找變通方案，規避美國針對Claude人工智慧模型出臺的限制措施。
+
+---
+
+### 2026-06-17 21:11:04  #MKT News #Market Themes #AI Revolution
+
+Genspark.ai expands Series B to $485m; post-money valuation $2.6bn.
+
+---
+
+### 2026-06-17 21:10:37  #公司
+
+【銀行開始下架2年期定存】 記者發現，重慶富民銀行近日釋出關於2年期及以上整存整取及續存系列產品暫停受理新增存入的公告。公告顯示：自6月15日起，該行手機銀行APP、微信小程式等線上渠道的個人整存整取及續存系列產品中2年期及以上存款產品暫停受理新的存入申請。這也意味著，重慶富民銀行線上渠道的中長期存款全部階段性停售。融360數字科技研究院高階分析師艾亞文分析，銀行下架中長期定期存款，主要因優質信貸資產增長乏力，疊加高息攬存模式難以為繼，機構主動壓降高成本、長期限負債。（一財）
 
 ---
 
@@ -18803,59 +18875,5 @@ RBC CEO McKay said the bank is increasing risk exposure in the U.S. market as th
 ### 2026-06-16 22:41:50  #Trading Economics #Economy #Sri Lanka #Services PMI #Importance 1
 
 Sri Lanka Services Activity Rebounds in May — Sri Lanka’s Services PMI rose to 56.9 in May 2026 from 46.7 in April, signaling a rebound in services activity. The expansion was driven mainly by the financial, professional, and personal services sub-sectors, while real estate, IT programming, and goods transportation also posted notable growth. New business increased to 58.0 from 48.9, supported primarily by financial and professional services, with additional contributions from wholesale and retail trade, personal services, and goods transportation. Expectations for business activity over the next three months remained positive, although easing slightly to 64.7 from 65.9, supported by anticipated tourist arrivals during the Perahera season and improving economic conditions. Meanwhile, employment (49.4 vs 44.4) and backlogs of work (48.1 vs 48.8) remained below the 50 threshold.
-
----
-
-### 2026-06-16 22:41:33  #MKT News #Commodities #Energy #CNH #Impact bullish #CSI300 #Copper
-
-【China's green-ship orders lead globally; methanol heavy-truck sales surge 300%】Green fuel was included in China’s 2026 government work report for the first time, marking it as an important direction for developing a green, low-carbon economy. China’s methanol industry chain is accelerating: in Q1 new green-ship orders accounted for 80.2% of the global market, methanol heavy-truck monthly sales rose more than 300% YoY, and over 200 green methanol projects are planned nationwide. Infrastructure rollout is advancing — as of end-2025 China had built more than 900 methanol refuelling stations.
-
----
-
-### 2026-06-16 22:41:24  #MKT News
-
-RBC CEO McKay said the USMCA is vital to Canada, the United States and Mexico and must not be rescinded.
-
----
-
-### 2026-06-16 22:41:13  #國際
-
-加拿大皇家銀行：美加墨協定對加拿大、美國、墨西哥至關重要，不應取消。
-
----
-
-### 2026-06-16 22:40:48  #其他
-
-加拿大皇家銀行：市場正競相捕捉推動科技、資料和能源領域投資的需求。
-
----
-
-### 2026-06-16 22:40:25  #公司
-
-七國集團領導人呼籲多邊開發銀行推廣使用風險分擔工具。
-
----
-
-### 2026-06-16 22:40:16  #兩會
-
-【我國綠色船舶訂單領跑全球 甲醇重卡銷量暴漲300%】2026年，“綠色燃料” 首次被寫入政府工作報告，成為我國培育綠色低碳經濟新增長點的重要方向。 [話筒]在吉林洮南，當地依託玉米秸稈資源搭配風電制氫，經化工轉化產出綠色甲醇。這種被稱作“液態陽光”的新型燃料，全生命週期碳排放量較傳統柴油降幅超90%，並獲得國際ISCC綠色認證，產品長期供應法國達飛等海外頭部航運企業，合作訂單已簽約至2031年。當前國內甲醇全產業鏈發展勢頭強勁：今年一季度，我國新增綠色船舶訂單佔全球市場份額達80.2%；甲醇重卡單月銷量同比增長超300%；全國落地規劃的綠色甲醇專案數量超200個。配套基礎設施建設同步提速，截至2025年末，全國已建成甲醇加註站900餘座。現階段甲醇燃料產業仍存在生產成本偏高、加註網路不夠完善等痛點，但政策引導與市場活力正協同發力、加速破局。這場源自農田的能源變革，正推動我國在全球低碳競爭賽道搶佔優勢、贏得主動。（央視財經）
-
----
-
-### 2026-06-16 22:40:12  #MKT News
-
-RBC CEO McKay said he is confident the US and Canada will reach a final agreement.
-
----
-
-### 2026-06-16 22:40:01  #MKT News
-
-G7 leaders urged multilateral development banks to promote wider use of risk‑sharing instruments.
-
----
-
-### 2026-06-16 22:39:49  #國際
-
-【美聯邦調查局挫敗針對白宮格鬥賽的襲擊圖謀】美國福克斯新聞數字網16日報道，美國聯邦調查局聯合其他執法機構挫敗了一起針對14日在白宮南草坪舉行的格鬥賽的襲擊圖謀。報道援引知情官員的話說，截至15日，已有5人被拘捕，調查人員已確定23名涉嫌參與襲擊圖謀的人員。這些人員涉嫌計劃使用裝有爆炸物的無人機襲擊格鬥賽場附近的建築物，以迫使人群大規模疏散，並將人群引向事先部署的狙擊小組。他們還涉嫌策劃第二波衝擊白宮大門的行動。該官員說，聯邦調查局10日首次獲悉此威脅，並與合作伙伴共同努力，拘留了一名嫌疑人。調查人員在檢查嫌疑人的手機後發現，至少有20餘名加密通訊應用軟體“訊號”的使用者涉嫌討論將對白宮南草坪格鬥賽發動襲擊。報道稱，一名嫌疑人告訴調查人員，他們計劃的襲擊目標是“資本主義精英”“億萬富翁”和那些接受猶太人利益遊說團體“美國-以色列公共事務委員會”捐款的政治人物。聯邦調查局局長卡什·帕特爾證實，已有數人被拘留，涉嫌策劃的襲擊圖謀也被及時挫敗。美國總統特朗普和家人14日晚觀看了在白宮南草坪舉行的終極格鬥冠軍賽。該活動是紀念美國獨立250週年慶祝活動的一部分，恰逢特朗普80歲生日。福克斯新聞數字網稱，大約4300人到場觀賽。（新華社）
 
 ---
