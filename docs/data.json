@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-22 04:35:23",
-  "count": 17468,
+  "updated": "2026-06-22 04:39:08",
+  "count": 17461,
   "items": [
+    {
+      "id": "4946654",
+      "time": "2026-06-22 04:37:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "目前有訊息猜測，美伊新一輪談判結束後或將釋出一份初步聯合宣告。"
+    },
+    {
+      "id": "mkt:019eebe4-fe97-7dd8-b0a9-63da49b5b784",
+      "time": "2026-06-22 04:35:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US diplomat says progress in US-Iran talks on keeping Strait of Hormuz open】A US diplomat told Axios that US-Iran talks, which began Sunday morning local time and have continued in various formats with minimal interruption, made progress on keeping the Strait of Hormuz fully open after recent Iranian statements about possible closure. The talks also addressed a Lebanon de‑escalation mechanism and ceasefire implementation. The diplomat said discussions covered all components of the nuclear agreement and were productive on implementing a memorandum of understanding, aligning positions, and planning political and technical follow‑up."
+    },
     {
       "id": "4946653",
       "time": "2026-06-22 04:27:31",
@@ -160795,88 +160815,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡中斷安全內閣會議，與美國總統特朗普通電話；與此同時，以色列國防部長卡茨與美國國防部長赫格塞思進行了溝通。"
-    },
-    {
-      "id": "4934781",
-      "time": "2026-06-15 04:38:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列高階官員稱，特朗普向以色列總理內塔尼亞胡通報了與伊朗簽署協議相關進展的最新情況。"
-    },
-    {
-      "id": "mkt:019ec7db-0b97-7dd8-aff6-f96eec206dc5",
-      "time": "2026-06-15 04:38:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli broadcaster N12 reported Trump told Netanyahu of progress toward an agreement with Iran; a deal could be reached as early as Sunday evening local time."
-    },
-    {
-      "id": "mkt:019ec7da-372a-7dd8-aff6-f29009de7d34",
-      "time": "2026-06-15 04:37:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US President Trump said Iran will never possess nuclear weapons and that the Strait of Hormuz will soon reopen to commercial traffic."
-    },
-    {
-      "id": "4934779",
-      "time": "2026-06-15 04:36:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽不久將恢復正常通航，伊朗永遠不會擁有核武器。"
-    },
-    {
-      "id": "mkt:019ec7d9-b81c-7dd8-aff6-e88c739cd99e",
-      "time": "2026-06-15 04:36:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Advisor to Iran's supreme leader warns of strikes on Israel】Velayati, adviser to Iran's supreme leader, posted on social media late June 14 that \"zero hour has arrived, launchers are in position\" and orders have been given after an \"enemy miscalculation\" in Beirut exhausted Iran's patience. He said HEZBOLLAH is an important part of the resistance front and warned that if fighting and unrest in Lebanon continue, the Strait of Hormuz and Bab el‑Mandeb would be used to \"strangle\" the enemy's economic lifeline."
-    },
-    {
-      "id": "4934778",
-      "time": "2026-06-15 04:36:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖顧問警告將打擊以色列】當地時間6月14日深夜，伊朗最高領袖政治顧問韋拉亞提在社交媒體發文表示，“零時已至，發射裝置正就位待命。敵人在（黎巴嫩首都）貝魯特犯下的誤判已耗盡伊朗的耐心，命令已經下達。黎巴嫩真主黨是抵抗陣線的重要組成部分。若黎巴嫩境內的戰火與動盪不止，霍爾木茲海峽與曼德海峽這兩隻強有力的‘臂膀’將扼住敵人的經濟命脈，直至將其戰略窒息。”"
-    },
-    {
-      "id": "4934777",
-      "time": "2026-06-15 04:35:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡和特朗普舉行了通話。"
-    },
-    {
-      "id": "mkt:019ec7d9-04d1-7dd8-aff6-e7e0ffd543b4",
-      "time": "2026-06-15 04:35:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Israeli Prime Minister Netanyahu held a phone call with U.S. President Trump."
-    },
-    {
-      "id": "4934776",
-      "time": "2026-06-15 04:35:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：政府認為支援在前線保衛國家和人民安全的部隊是其職責所在。我們不能僅指望那些為保衛祖國而獻出生命的戰士們堅定不移地堅守崗位，卻忽視他們需要的支援和需求。"
     }
   ]
 }
