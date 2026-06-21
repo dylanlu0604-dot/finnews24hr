@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-22 01:05:16",
-  "count": 17512,
+  "updated": "2026-06-22 01:09:15",
+  "count": 17515,
   "items": [
+    {
+      "id": "mkt:019eeb25-758b-7dd8-b0a8-394e07d1c714",
+      "time": "2026-06-22 01:06:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state media quoted a Foreign Ministry spokesman saying Sunday’s talks centered on ending the war, lifting sanctions and securing the release of Iran’s frozen funds."
+    },
+    {
+      "id": "mkt:019eeb24-ee77-7dd8-b0a8-32515cee0b81",
+      "time": "2026-06-22 01:05:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Axios reported a diplomat participating in the talks said the Iranian delegation had not left and U.S.-Iran negotiations were continuing."
+    },
+    {
+      "id": "4946593",
+      "time": "2026-06-22 01:05:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名參與瑞士談判的外交官稱，伊朗代表團並未離場，美伊談判仍在進行。"
+    },
+    {
+      "id": "4946592",
+      "time": "2026-06-22 01:05:18",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，週日會談的重點為結束戰爭、解除制裁以及解凍伊朗被凍結資金。"
+    },
     {
       "id": "mkt:019eeb24-3bdb-7dd8-b0a8-2e4efa61bdf4",
       "time": "2026-06-22 01:04:40",
@@ -161261,14 +161300,6 @@
         "其他"
       ],
       "text": "真主黨公佈第一視角無人機襲擊畫面，目標為黎巴嫩南部東扎烏塔爾郊外的一處以軍集結點。 無人機鎖定開闊地帶的四名以軍士兵，撞擊後引爆。"
-    },
-    {
-      "id": "mkt:019ec71a-0ae4-7dd8-aff5-358db4a2d7f4",
-      "time": "2026-06-15 01:07:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior Israeli official told Channel 12 that Trump's statement was \"a loud slap\", saying \"constraints have escalated; there is an expectation that we not strike anywhere in Lebanon,\" which the official said is inconsistent with the role of a strategic ally."
     }
   ]
 }
