@@ -1,7 +1,30 @@
 {
-  "updated": "2026-06-22 02:26:29",
-  "count": 17483,
+  "updated": "2026-06-22 02:30:11",
+  "count": 17480,
   "items": [
+    {
+      "id": "mkt:019eeb6f-51f7-7dd8-b0a8-b94022c0318e",
+      "time": "2026-06-22 02:26:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Israel's Prime Minister NETANYAHU said Israel will maintain a 'security zone' in Lebanon as needed to protect its citizens."
+    },
+    {
+      "id": "mkt:019eeb6f-2494-7dd8-b0a8-b7777a48b071",
+      "time": "2026-06-22 02:26:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "i24News reports Israeli Prime Minister Netanyahu said Israel thwarted an Iranian plan \"aimed at completely annihilating us.\""
+    },
     {
       "id": "4946615",
       "time": "2026-06-22 02:22:17",
@@ -160962,53 +160985,6 @@
         "國際"
       ],
       "text": "以色列Ynet新聞網：總理內塔尼亞胡拒絕了特朗普提出的要求，即在黎巴嫩停火併開始撤軍。"
-    },
-    {
-      "id": "4934728",
-      "time": "2026-06-15 02:28:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面稱，美國總統特朗普在襲擊發生後曾提出以金錢換取伊朗保持克制，但該提議遭到伊朗拒絕，伊朗並表示將“很快”作出回應。"
-    },
-    {
-      "id": "4934727",
-      "time": "2026-06-15 02:28:41",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【Anthropic派員前往華盛頓，企圖化解與白宮的矛盾】據知情人士透露，Anthropic多名資深技術人員已抵達華盛頓，與白宮官員會面，試圖解決糾紛。受此次爭端影響，該公司多款頂級模型已暫停服務。出於安全方面的考量，美國政府對Anthropic旗下兩款主力模型Mythos與Fable實施全面出口管制。如今該公司正迅速行動，試圖緩和與特朗普政府的關係。知情人士表示，自上週五白宮率先接洽以來，Anthropic技術團隊已和美方官員開展多輪線上會談。雙方訊息人士均稱，都希望儘快解決此次爭端。"
-    },
-    {
-      "id": "mkt:019ec763-e1c2-7dd8-aff6-21de5a494f24",
-      "time": "2026-06-15 02:27:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Europe & UK",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Nikkei reported Japan and the UK have agreed to cooperate on offshore wind and next-generation nuclear reactors."
-    },
-    {
-      "id": "4934726",
-      "time": "2026-06-15 02:27:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統稱維護國家團結是優先事項】據伊朗塔斯尼姆通訊社14日報道，伊朗總統佩澤希齊揚在與國內媒體負責人舉行的會議上說，有關戰爭與談判等重大事務的決策權屬於伊朗最高領袖和最高國家安全委員會，各政治派別都應遵循相關決定，維護國家團結是當前優先事項。（新華社）"
-    },
-    {
-      "id": "4934725",
-      "time": "2026-06-15 02:26:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本與英國達成共識，將在海上風電、新一代核反應堆領域開展合作。"
     }
   ]
 }
