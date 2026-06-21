@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-21 22:00:42",
-  "count": 17646,
+  "updated": "2026-06-21 22:04:47",
+  "count": 17647,
   "items": [
+    {
+      "id": "4946512",
+      "time": "2026-06-21 22:03:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方參謀長稱黎巴嫩停火局勢十分脆弱，部隊必須保持高度戰備，隨時應對戰事再起。"
+    },
+    {
+      "id": "4946511",
+      "time": "2026-06-21 22:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我祝願斯塔默一切順利。"
+    },
+    {
+      "id": "4946510",
+      "time": "2026-06-21 22:00:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱：斯塔默在移民、能源政策方面治理嚴重失策。"
+    },
+    {
+      "id": "mkt:019eea7b-3d1f-7dd8-b0a6-f17fdded4d6e",
+      "time": "2026-06-21 22:00:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "TRUMP said Starmer will resign as UK prime minister, accusing him of poor performance on immigration and energy and urging the opening of North Sea oil."
+    },
     {
       "id": "4946509",
       "time": "2026-06-21 21:59:53",
@@ -162393,30 +162427,6 @@
         "其他"
       ],
       "text": "【巴西2架直升機相撞6人死亡】當地時間6月14日上午，巴西里約熱內盧2架直升機空中相撞，造成至少6人死亡。直升機相撞後墜落在當地一處停車場，引發火災，現場多次傳出爆炸聲。消防部門稱，6名死者中，5人來自同一架直升機。事故原因尚在調查中。（CCTV國際時訊）"
-    },
-    {
-      "id": "4934520",
-      "time": "2026-06-14 22:03:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【廣東龍舟賽周邊酒店熱度暴漲210%】廣東的龍舟賽事全國聞名，近年來在社交媒體上也格外亮眼。端午假期臨近，廣州、佛山等龍舟賽區周邊的民宿、酒店預訂，變得尤其火爆。有旅行平臺資料顯示，在即將到來的端午假期，廣東民宿預訂量位居全國第二。5月底到6月中旬，“龍舟賽、疊滘龍舟、廣州國際龍舟邀請賽”等關鍵詞的搜尋量環比上漲約183%；廣州、佛山兩大核心賽段周邊3公里範圍內，酒店搜尋熱度環比上漲約210%，熱度明顯高於非賽事週末。（央視財經）"
-    },
-    {
-      "id": "4934519",
-      "time": "2026-06-14 22:02:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴克萊：若美國和伊朗達成協議 歐洲股市將最為受益】巴克萊認為，如果美國和伊朗達成協議，歐洲及週期性消費類股票將是最大的潛在受益者。巴克萊策略師在報告中評價近期全球市場表現稱，儘管全球股市近期出現回撥，但這一走勢並不令人意外，尤其是人工智慧和半導體領域泡沫跡象日益明顯。但他們認為，市場的回撥是健康的。而如果美國與伊朗達成協議並得到確認，將消除一個重大的宏觀尾部風險，並“推動一項正在萌芽的、已開始對歐洲股市產生利好影響的廣泛交易”。“如果有關美國與伊朗即將達成協議的最新訊息得到證實，並且協議確實得以簽署，這將消除市場的重大尾部風險，併為這一正在形成的廣泛交易提供動力。”策略師們寫道。"
-    },
-    {
-      "id": "mkt:019ec66f-4c25-7dd8-aff2-706629fc77f2",
-      "time": "2026-06-14 22:00:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Orient Securities: Middle East detente opens window for China chemical sector】Orient Securities research note says restraint by the US and Iran has improved expectations for Strait of Hormuz transit, creating a near-term window for the chemical sector. The firm views chemical fundamentals and valuations as close to a trough and recommends prioritizing sub-sectors and stocks with strong Q2 earnings that can support valuations during sector volatility. It flags phosphate chemicals as a recovery opportunity after a 50,000-ton sulfur cargo transited the Strait of Hormuz to a southern Chinese port, a signal likely to improve phosphate producers’ profit outlook. Recommended plays include MDI leader Wanhua Chemical, PVC-related names, leading refining & petrochemical firms, and agrochemical tech/service leaders. Key risks are demand falling short of expectations, policy uncertainty and large oil-price swings."
     }
   ]
 }
