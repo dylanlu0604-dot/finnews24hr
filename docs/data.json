@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-21 20:05:11",
-  "count": 17632,
+  "updated": "2026-06-21 20:09:24",
+  "count": 17633,
   "items": [
+    {
+      "id": "4946434",
+      "time": "2026-06-21 20:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國新能源汽車在厄瓜多表現亮眼】為期兩天的2026基多可持續汽車展20日在厄瓜多首都基多開幕，中國品牌新能源車型受到當地消費者青睞。“新能源汽車具有節省燃油成本、降低維護費用和減少汙染排放等優勢，我打算在本屆車展上購置一輛新車。”參展觀眾、厄瓜多機械師阿德里安·塞古拉表示，中國新能源汽車非常受歡迎，不僅價格有優勢，而且外觀設計時尚、續航表現良好。（新華社）"
+    },
+    {
+      "id": "4946433",
+      "time": "2026-06-21 20:06:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：國產模型加速迭代 算力景氣度持續】中信建投證券認為，國內模型持續迭代，GLM-5.2、Kimi K2.7 Code強化1M上下文、長程Agent、Agentic Coding和真實工程交付能力，推動國產模型從通用問答轉向開發者工具和企業級工作流。Kimi補強國際化運營能力，DeepSeek融資強化頭部模型產業化預期，微信AI灰度測試則顯示AI入口正從獨立App走向超級應用生態，有望提升模型呼叫頻次和推理token消耗。海外方面，Anthropic收入、大客戶數和融資規模繼續上修，企業工作流和Agentic Coding需求仍處擴張通道。算力側，AI雲廠商backlog增長，GPU租賃價格上行，CPU、DRAM/NAND供給約束擴散，算力、儲存和租賃服務景氣度有望延續。"
+    },
+    {
+      "id": "4946432",
+      "time": "2026-06-21 20:05:59",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：鋯-我國奈米氧化鋯迎來快速發展機遇】中信建投證券認為，預計伴隨固態電池產業加速發展、SOFC行業高速增長、電子級生物陶瓷以及核能步入新一輪復甦週期，新興領域用高階氧化鋯需求將穩步增長。氧化釔作為氧化鋯最關鍵的穩定劑，由於稀土供給受限，日本東曹、第一稀元素化學等全球龍頭產量大幅下降，預計中國廠商在全球高階氧化鋯市場的份額將大幅提升。目前作為原材料的氧氯化鋯相較年初價格提高了30%，作為氧氯化鋯下游最大應用領域的氧化鋯價格年初以來漲幅同樣接近30%。作為氧化鋯中附加值較高的部分，目前電子專用高純奈米氧化鋯報價高達50–65.7美元/公斤，釔穩定氧化鋯高階粉體（YSZ）報價區間則高達50–150美元/公斤，價格同樣出現大幅增長。國內高階氧化鋯市場正迎來量價齊升。"
+    },
+    {
+      "id": "mkt:019eea12-a387-7dd8-b0a5-dfae695f6beb",
+      "time": "2026-06-21 20:05:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【First two days of Dragon Boat holiday: footfall at 78 monitored shopping streets up 4.0% YoY; turnover up 3.5%】MOFCOM says China’s consumer market ran smoothly over this year’s Dragon Boat holiday, with essential goods supply adequate and prices stable. In the first two days of the holiday, footfall across 78 MOFCOM‑monitored pedestrian streets and shopping districts rose 4.0% YoY and turnover rose 3.5% YoY. As of June 20, the 2026 old‑for‑new trade‑in campaign has covered 136 mln person‑times and generated over CNY1 trillion in sales; auto trade‑ins accounted for 3.428 mln vehicles and CNY555.24 bln in sales, while appliance/digital/smart device replacements totaled 132.895 mln units and CNY451.63 bln in sales."
+    },
     {
       "id": "4946431",
       "time": "2026-06-21 20:04:22",
@@ -162299,32 +162338,6 @@
         "國際"
       ],
       "text": "【韓國與沙烏地阿拉伯簽署協議 將在能源領域開展合作】韓國產業部週日表示，受近期全球供應鏈波動影響，韓國與沙烏地阿拉伯簽署協議，雙方將在原油、天然氣等能源資源領域開展合作。 韓國產業部長官金正官於週六啟程對沙特展開為期兩天的訪問，期間與沙特能源大臣阿卜杜勒-阿齊茲・本・薩勒曼簽署諒解備忘錄，為雙方關鍵能源資源的長期供應合作搭建框架。 韓國產業部稱，這份合作檔案涵蓋多個領域，包括原油儲備、輸油管道基建建設，以及運用人工智慧與數字技術推動能源產業創新等。"
-    },
-    {
-      "id": "4934454",
-      "time": "2026-06-14 20:08:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【福島核電站乏燃料池冷卻系統故障】日本東京電力公司今天（6月14日）釋出訊息稱，福島第一核電站5號、6號機組的乏燃料池，6月13日下午“冷卻系統發生故障，一度停止執行”。據稱經調查“未發現裝置存在異常情況”，冷卻系統“在停止約一個半小時後恢復執行”。東電方面表示，此次故障期間，乏燃料池水溫及周邊區域的輻射水平“均未出現變化”。 (CCTV國際時訊)"
-    },
-    {
-      "id": "4934453",
-      "time": "2026-06-14 20:07:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列五月貿易逆差收窄至32.99億美元。"
-    },
-    {
-      "id": "4934452",
-      "time": "2026-06-14 20:07:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本公司請求阻止LNG罷工、宣稱將危害澳洲經濟，被澳大利亞法庭駁回】澳大利亞一家勞工法庭週日駁回了日本天然氣公司Inpex的申請，拒絕叫停其Ichthys液化天然氣（LNG）專案約400名油氣工人的罷工行動。澳大利亞公平工作委員會（FWC）駁回了Inpex的說法，即停工將因出口收入損失而損害澳大利亞經濟，並可能引發危險的停電事故。"
     }
   ]
 }
