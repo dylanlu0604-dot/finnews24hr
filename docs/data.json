@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-21 23:05:01",
-  "count": 17592,
+  "updated": "2026-06-21 23:09:08",
+  "count": 17587,
   "items": [
+    {
+      "id": "mkt:019eeab9-b695-7dd8-b0a7-586a7b274477",
+      "time": "2026-06-21 23:08:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【First round of Iran-US talks concluded】Foreign media reported on the 21st that the first round of Iran-US talks concluded."
+    },
+    {
+      "id": "4946538",
+      "time": "2026-06-21 23:07:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "據外媒21日報道，伊美談判第一輪已結束。（新華社）"
+    },
+    {
+      "id": "mkt:019eeab8-f410-7dd8-b0a7-556ee7f72988",
+      "time": "2026-06-21 23:07:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars news agency, citing an informed member of Iran's negotiation team, said the first round of four-party talks in Switzerland has concluded."
+    },
+    {
+      "id": "mkt:019eeab7-91e3-7dd8-b0a7-4f9b1a0b1322",
+      "time": "2026-06-21 23:05:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Refinitiv reported sources close to the negotiating team said the first round of talks in Switzerland concluded."
+    },
+    {
+      "id": "4946537",
+      "time": "2026-06-21 23:05:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產TGV玻璃基板正加速走向量產】當前，TGV玻璃基板賽道正迎來從技術驗證向小批次量產過渡的關鍵節點。記者在採訪中瞭解到，國內多家頭部企業的產線籌備工作已全面鋪開。國內中試產線正加速跑通驗證，頭部企業紛紛加碼佈局、搶佔先機。根據國際市場研究機構預測，到2030年，全球先進封裝市場規模將逼近800億美元。從底層材料的突圍，到跨界工藝的打通，國產TGV玻璃基板正加速走向量產。"
+    },
+    {
+      "id": "4946536",
+      "time": "2026-06-21 23:05:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "熟悉談判內情的訊息人士表示，在瑞士與美國舉行的首輪談判已結束。"
+    },
     {
       "id": "4946535",
       "time": "2026-06-21 22:59:37",
@@ -161828,106 +161879,6 @@
         "WTI"
       ],
       "text": "Israel Defense Forces said preliminary reports indicated alerts were sounded in the Arab Al-Aramshe area for suspected enemy aircraft infiltration."
-    },
-    {
-      "id": "mkt:019ec6ad-c4fc-7dd8-aff3-63aee557d984",
-      "time": "2026-06-14 23:08:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hamas says it submitted unified response to Gaza peace roadmap】Hamas said on the 14th it submitted on the 13th a unified response — coordinated with multiple Palestinian factions and mediators Egypt, Qatar and Turkey after meetings in Cairo last week — to the Gaza peace roadmap proposed by peace committee Gaza representative Nikolay Mladenov. The statement called for full implementation of the first-phase Gaza ceasefire agreement, with emphasis on humanitarian measures and an end to all forms of aggression."
-    },
-    {
-      "id": "4934589",
-      "time": "2026-06-14 23:08:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：阿拉布阿爾阿姆舍地區拉響敵機入侵防空警報，目前相關情況正在核查中。"
-    },
-    {
-      "id": "mkt:019ec6ac-c436-7dd8-aff3-59b73dea04dc",
-      "time": "2026-06-14 23:07:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran sources say Tehran is using Qatar to relay terms to US】On the 14th local time, a source close to Iran’s negotiating team said a Qatari delegation is in Tehran and Iran is using it to convey to the US the terms and specific details it wants included in a potential US-Iran agreement."
-    },
-    {
-      "id": "4934588",
-      "time": "2026-06-14 23:07:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哈馬斯：已提交對加沙和平路線圖的回應】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）14日發表宣告說，其已於13日提交了多派別對“和平委員會”加沙高階代表尼古拉·姆拉德諾夫所提加沙地帶和平路線圖的回應。（新華社）"
-    },
-    {
-      "id": "4934587",
-      "time": "2026-06-14 23:07:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列北部發布無人機入侵警報。"
-    },
-    {
-      "id": "mkt:019ec6ac-30e5-7dd8-aff3-53f5babb5680",
-      "time": "2026-06-14 23:07:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran says it will not sign deal at time Trump announced; Qatari delegation in Tehran, no agreement yet】Hours before Israeli strikes on Lebanon, a source close to Iran’s negotiating team told Iranian media Tehran transmitted the terms it wants via a Qatari delegation but no agreement has been reached. The source said Iran’s baseline is that all Iranian demands must be fully reflected in any US‑Iran accord and Tehran will “absolutely not” sign at the time President Trump announced. Tasnim reported on the 14th that a Qatari delegation arrived in Tehran to discuss diplomatic efforts to end the current conflict; Trump posted on social media on the 13th saying the US and Iran were due to sign an agreement on the 14th."
-    },
-    {
-      "id": "4934586",
-      "time": "2026-06-14 23:07:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗訊息人士稱伊方正透過卡達向美方傳達協議相關資訊】當地時間14日，一名接近伊朗談判團隊的訊息人士表示，卡達談判代表團眼下正在伊朗首都德黑蘭，伊朗正透過該卡達團隊向美國傳達其希望納入伊美協議的條款以及其認為重要的具體細節。該訊息人士強調，目前尚未達成任何最終決定。在談及談判過程中的起伏變化，訊息人士表示，即便談判過程中出現反覆，伊朗的原則始終是最終必須全面考慮其所有關切。即便伊朗的所有觀點都被採納，也絕不會在美國總統特朗普所宣佈的時間簽署任何協議。據悉，該訊息人士的上述表述是在以色列14日對黎巴嫩貝魯特南郊發動襲擊之前作出的。（央視新聞）"
-    },
-    {
-      "id": "4934585",
-      "time": "2026-06-14 23:06:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：從午夜之錘行動到本輪一系列舉措，特朗普總統已重創伊朗核計劃，使其進展大幅倒退。倘若伊朗拒不配合，那就再次直面國防部的行動——我們本不願走到這一步。"
-    },
-    {
-      "id": "mkt:019ec6ab-10ea-7dd8-aff3-4ecbf6478148",
-      "time": "2026-06-14 23:06:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Qatar sets July official selling prices: marine crude at Oman/Dubai average plus $6.00/bbl; land crude at Oman/Dubai average plus $6.50/bbl."
-    },
-    {
-      "id": "4934584",
-      "time": "2026-06-14 23:05:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒：伊朗不會在特朗普宣佈的時間簽署任何協議】據伊朗法爾斯通訊社14日報道，在以色列當天襲擊黎巴嫩數小時前，一名接近伊朗談判團隊的訊息人士表示，伊朗透過卡達代表團傳遞了伊方希望達成的條款及其具體細節。據報道，這名訊息人士稱，目前尚未達成任何協議。即使談判過程中出現反覆，伊朗的基本條件是，所有伊方希望達成的條款都必須在伊美協議中得到充分體現，並且“絕對不會在美國總統特朗普宣佈的時間簽署任何協議”。（新華社）"
-    },
-    {
-      "id": "4934583",
-      "time": "2026-06-14 23:05:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯： 我和特朗普向來都對捲入海外軍事事務持審慎態度。 但歸根結底，這並不意味著絕對不能動用軍事力量。"
     }
   ]
 }
