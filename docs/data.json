@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-21 08:14:35",
-  "count": 17555,
+  "updated": "2026-06-21 08:18:31",
+  "count": 17556,
   "items": [
+    {
+      "id": "mkt:019ee787-6a0a-7dd8-b0a2-6fd2b137a135",
+      "time": "2026-06-21 08:14:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【LFP prices more than double; demand remains strong】Lithium iron phosphate (LFP) prices have jumped this year, with a ~400 kg bag trading above 25,000 yuan versus about 10,000 yuan a year ago. Demand remains robust: finished-goods warehouses are full and more than 90% of output is supplied to leading new-energy vehicle makers, which account for the bulk of order growth. Producers point to strong NEV and energy-storage exports as the main demand driver. Upstream costs are also pushing prices higher: LFP is made from iron phosphate, lithium carbonate and glucose, with iron phosphate representing roughly 30% of raw-material cost; iron phosphate has risen sharply year-to-date, lifting overall LFP production costs."
+    },
     {
       "id": "4946049",
       "time": "2026-06-21 08:12:30",
