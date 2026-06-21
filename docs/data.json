@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-22 02:18:56",
-  "count": 17486,
+  "updated": "2026-06-22 02:22:43",
+  "count": 17484,
   "items": [
+    {
+      "id": "4946615",
+      "time": "2026-06-22 02:22:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：在美國，人們都說特朗普對我言聽計從。在以色列，又有人說我凡事都順著他的意思。兩種說法都不符合事實。我們是兩個獨立且擁有民族自豪感國家的領導人。我始終以以色列的利益為先。"
+    },
+    {
+      "id": "mkt:019eeb68-1a8c-7dd8-b0a8-ac48319f9e8e",
+      "time": "2026-06-22 02:18:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【HEZBOLLAH leader says group will respond to any Israeli aggression】On the evening of the 21st, HEZBOLLAH leader Naim Qassem said in a televised address the group would respond to any Israeli aggression, called Israel an aggressor that must withdraw, and said continued Israeli troop presence on Lebanese territory was \"impossible\" and there is no space in Lebanon for an Israeli \"security zone.\" He added Lebanon has its own national army responsible for safeguarding sovereignty and said HEZBOLLAH cooperates with the Lebanese Armed Forces."
+    },
+    {
+      "id": "4946614",
+      "time": "2026-06-22 02:18:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎真主黨領導人：將對以色列的任何侵犯行為作出回應】當地時間21日晚，黎巴嫩真主黨領導人納伊姆·卡西姆發表電視講話表示，該組織將對以色列的任何侵犯行為作出回應。卡西姆說，以色列是侵略者，必須撤離，以色列軍隊繼續駐紮在黎巴嫩領土上是“不可能的”，而且黎巴嫩境內沒有以色列設立“安全區”的空間。卡西姆還表示，黎巴嫩有自己的國家軍隊，負責維護國家主權，真主黨也與黎巴嫩軍隊合作。（央視新聞）"
+    },
     {
       "id": "mkt:019eeb66-0e4e-7dd8-b0a8-a49dd5423e05",
       "time": "2026-06-22 02:16:34",
@@ -160989,51 +161017,6 @@
         "國際"
       ],
       "text": "【美國密蘇里州發生墜機事故 機上12人遇難】當地時間14日，美國密蘇里州巴特勒發生一起墜機事故。據密蘇里州公路巡警稱，機上12人全部遇難。據密蘇里州公路巡警在社交平臺釋出的訊息，事故發生在巴特勒紀念機場附近。相關工作人員已抵達現場。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ec75e-d739-7dd8-aff6-1df7d1b67a6b",
-      "time": "2026-06-15 02:22:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "【ANTHROPIC sends senior technical staff to Washington to seek resolution with WHITE HOUSE】Axios reports senior technical staff from ANTHROPIC have arrived in Washington to meet WHITE HOUSE officials to resolve a dispute that prompted the company to take its top models offline. The Trump administration last week imposed comprehensive export controls on ANTHROPIC’s most powerful models, Mythos and Fable, citing security concerns. Sources say ANTHROPIC has held online meetings with WHITE HOUSE officials since the government first contacted the company last Friday; both sides are said to be eager to resolve the issue."
-    },
-    {
-      "id": "4934723",
-      "time": "2026-06-15 02:22:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：少數民主黨人反對《外國情報監視法》（FISA），無論比爾·普爾泰是否出任國家情報總監代理職務。這算哪門子交易？另外，如果《外國情報監視法》不附帶完整版的《拯救美國法案》，我就反對它。"
-    },
-    {
-      "id": "mkt:019ec75d-ed9d-7dd8-aff6-1008d18df595",
-      "time": "2026-06-15 02:21:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump: I will oppose the Foreign Intelligence Surveillance Act (FISA) bill if it is not paired with the Save America Act."
-    },
-    {
-      "id": "4934722",
-      "time": "2026-06-15 02:21:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果《外國情報監視法》不附帶《拯救美國法案》，我將反對該法案。"
-    },
-    {
-      "id": "mkt:019ec75c-7481-7dd8-aff6-08fc8ea9bdfa",
-      "time": "2026-06-15 02:19:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports Anthropic flew employees to Washington to defuse a dispute with the White House."
     }
   ]
 }
