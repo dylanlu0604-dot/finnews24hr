@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-21 21:39:48",
-  "count": 17656,
+  "updated": "2026-06-21 21:43:50",
+  "count": 17654,
   "items": [
+    {
+      "id": "4946501",
+      "time": "2026-06-21 21:41:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST海利收監管函後緊急刪改三大核心條款】6月21日晚，*ST海利回覆上交所監管函，針對控股子公司9360萬元收購澤爾頓公司60%股權事項，緊急簽署補充協議。標的公司估值增值率高達352%，但業績承諾卻低於2025年水平。且其海外銷售佔比90%，超七成依賴間接出口，客戶資訊不透明。公司稱業績承諾合理，同時刪改原協議部分條款以保障利益。（每經網）"
+    },
+    {
+      "id": "4946500",
+      "time": "2026-06-21 21:39:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱敘利亞領導人處理真主黨問題會更得心應手。"
+    },
     {
       "id": "4946499",
       "time": "2026-06-21 21:38:53",
@@ -162471,43 +162487,6 @@
         "國際"
       ],
       "text": "【武田製藥170億元反壟斷罰單啟示：付費延遲終結，藥企合規大考來臨】近日，美國波士頓聯邦地區法院的一紙裁決，令日本製藥巨頭武田製藥陷入空前危機。因“付費延遲”（Pay-for-Delay）反壟斷訴訟一審敗訴，武田面臨最高約25億美元（約合人民幣170億元）的天價賠償。依據美國《謝爾曼反托拉斯法》的強制性三倍賠償規則，這筆罰款將對公司財務造成致命衝擊。幾乎同時，武田還因抗抑鬱藥“回扣門”與美國司法部達成和解，支付1367萬美元罰款，疊加裁員4500人及多款重磅產品專利到期的壓力，企業正經歷前所未有的“至暗時刻”。“付費延遲”並非武田獨有，而是全球製藥行業長期存在的爭議性商業安排。原研藥企透過向仿製藥企支付對價，換取其延遲上市，以此維持高藥價、延長獨家銷售期。這種方式表面上是專利和解，實質上排除了市場競爭。這一模式在美國、歐盟和中國均被反壟斷法重點打擊。武田案向所有藥企發出了清晰訊號：靠壟斷“躺贏”的老路已經走不通，合規與創新的新時代已然到來。（第一財經）"
-    },
-    {
-      "id": "4934505",
-      "time": "2026-06-14 21:43:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列外交部：伊朗政權一如既往地滿口謊言。真主黨持續向以色列平民發動襲擊。"
-    },
-    {
-      "id": "4934504",
-      "time": "2026-06-14 21:42:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "4934503",
-      "time": "2026-06-14 21:41:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟執委會發言人：正評估Anthropic決定的實際影響】歐盟執委會週日表示，正在評估一項影響人工智慧公司Anthropic的美國出口管制指令的實際影響，並強調相關措施不應歧視合作伙伴。Anthropic上週五表示，在美國政府以國家安全為由要求其暫停向外國公民開放模型訪問許可權後，將“突然停用”其最先進的人工智慧模型，所有使用者均受影響。“我們正目睹新一代高效能AI模型進入市場。這些模型帶來顯著益處，包括在網路防禦方面，但也引發了亟待解決的嚴重網路安全問題，”歐盟執委會發言人雷尼爾（Thomas Regnier）在一份宣告中表示。“我們認為，在此背景下采取的應急措施不應歧視合作伙伴，”他說。"
-    },
-    {
-      "id": "mkt:019ec65d-4d41-7dd8-aff2-4a9efbce955a",
-      "time": "2026-06-14 21:41:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israel accuses Iran of 'lying', blames Hezbollah for unprovoked fire; vows no tolerance】Israel's foreign ministry said the Iranian regime is 'lying as usual' and blamed its proxy Hezbollah for an unprovoked attack on Israel this morning, saying Hezbollah has repeatedly fired at Israeli civilians. The ministry said Hezbollah continued targeting Israelis even after the ceasefire and that in March Hezbollah likewise launched an unprovoked attack at Iran's behest. Israel warned it will not tolerate fire on its territory."
     }
   ]
 }
