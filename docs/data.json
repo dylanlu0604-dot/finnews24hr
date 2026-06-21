@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-21 13:26:30",
-  "count": 17562,
+  "updated": "2026-06-21 13:38:17",
+  "count": 17560,
   "items": [
+    {
+      "id": "4946153",
+      "time": "2026-06-21 13:31:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【耗資1400萬美元改造完成幾天後，林肯紀念堂倒影池水就變綠，特朗普發帖抨擊“破壞行為”】據美國哥倫比亞廣播公司（CBS）、《新聞週刊》等媒體報道，美國林肯紀念堂倒影池在耗資超過1400萬美元進行的改造工程竣工幾天後，就迎來藻類暴發，池水變綠，美國總統特朗普於當地時間19日、20日接連發帖，將該情況歸咎於“故意破壞”，並稱美國公園警察已逮捕多名破壞倒影池的人。當地時間19日，特朗普在社交媒體上發帖稱，有人“破壞了剛剛鋪設好的內部表層”，並指控身份不明的人使用化學物質和其他方法破壞了新安裝的表層及周圍場地，執法部門正在調查這起破壞事件。（環球網）"
+    },
+    {
+      "id": "4946152",
+      "time": "2026-06-21 13:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：印度謀求在美印貿易協定中獲取競爭優勢】據媒體援引印度一名聯邦部長的訊息稱，在取得相較於其他國家的競爭優勢前，印度不太可能落實擬議中的美印貿易協定。 報道稱，印度工商部長於週六新聞釋出會上表示：“目前懸而未決的核心問題是，我方關稅水平必須低於其他競爭國家。”"
+    },
+    {
+      "id": "4946150",
+      "time": "2026-06-21 13:28:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯導彈襲擊波爾塔瓦，造成11人受傷。"
+    },
+    {
+      "id": "4946148",
+      "time": "2026-06-21 13:25:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比特幣ETF 30天淨流出63.5億美元 創歷史新高】Galaxy Research披露，比特幣ETF在過去30天內淨流出資金達63.5億美元，創下歷史新高，在所有582個30天視窗期內排名第一。"
+    },
     {
       "id": "mkt:019ee89c-7992-7dd8-b0a3-5f5cbce9cd95",
       "time": "2026-06-21 13:17:09",
@@ -161743,60 +161776,6 @@
         "國際"
       ],
       "text": "市場訊息：印尼引進俄製高速船，並根據本國水域環境完成本土化改造。"
-    },
-    {
-      "id": "4934225",
-      "time": "2026-06-14 13:36:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【沙特王國控股公司：持有SpaceX股票公允價值約為68.3億美元】沙特王國控股公司公告，根據截至3月31日的財務報表，目前持有4240萬股SpaceX A類普通股，賬面價值為44.7億美元。按SpaceX上週五每股160.95美元的收盤價計算，王國控股所持股份的公允價值約為68.3億美元（256.0億沙特里亞爾）。公司所持有的SpaceX股票受禁售期約束，禁售期最長為上市之日起180天。"
-    },
-    {
-      "id": "mkt:019ec4a0-efcc-7dd8-afef-21a5395ad6fc",
-      "time": "2026-06-14 13:35:41",
-      "tags": [
-        "MKT News",
-        "4280.SR"
-      ],
-      "text": "Kingdom Holding Co said the fair value of its SpaceX stake was about $6.83 billion (25.60 billion SAR), based on SpaceX's last Friday closing price of $160.95 per share."
-    },
-    {
-      "id": "mkt:019ec4a0-acc8-7dd8-afef-1e6086852987",
-      "time": "2026-06-14 13:35:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kingdom Holding Company said that, based on SpaceX's last Friday close of $160.95 per share, the fair value of its stake is about $6.83 billion (SAR 25.6 billion)."
-    },
-    {
-      "id": "mkt:019ec4a0-67c8-7dd8-afef-1749d35b2488",
-      "time": "2026-06-14 13:35:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to financial statements as of March 31, Kingdom Holding Company (Saudi) holds 42.4 million SpaceX Class A common shares with a book value of $4.47 billion."
-    },
-    {
-      "id": "4934217",
-      "time": "2026-06-14 13:31:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三門核電3號機組汽輪機非核蒸汽衝轉成功】6月13日，三門核電3號機組順利完成汽輪機1500轉/分衝轉試驗，各項關鍵引數均滿足設計標準，標誌著汽輪機非核蒸汽衝轉試驗圓滿成功，為後續反應堆裝料及併網發電奠定堅實基礎。"
-    },
-    {
-      "id": "mkt:019ec49a-f0fa-7dd8-afef-0a30c823a200",
-      "time": "2026-06-14 13:29:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israel Defense Forces said air-raid alarms sounded across multiple northern areas for an enemy aircraft intrusion and confirmed impacts from two suspicious aerial targets inside Israel near the Israel-Lebanon border. No casualties reported."
     }
   ]
 }
