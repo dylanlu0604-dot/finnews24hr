@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21 11:55:25",
-  "count": 17557,
+  "updated": "2026-06-21 11:59:43",
+  "count": 17555,
   "items": [
     {
       "id": "4946114",
@@ -161738,23 +161738,6 @@
         "其他"
       ],
       "text": "市場訊息：倫敦私募BridgePoint擬作價10億美元出售丹麥反無人機企業MyDefence。"
-    },
-    {
-      "id": "mkt:019ec447-cd6b-7dd8-afee-e17fc4e6a1ca",
-      "time": "2026-06-14 11:58:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lighthouse Pro reports advance ticket sales for 2026 Dragon Boat Festival new releases have topped 20 mln yuan. Top three pre-sale titles are I Saw Two Identical Clouds, Love Is Anger and Toy Story 5."
-    },
-    {
-      "id": "4934147",
-      "time": "2026-06-14 11:58:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【加拿大母親起訴奧特曼與OpenAI，指控ChatGPT誘導女兒自殺】一名加拿大母親於週四在美國法院起訴人工智慧企業OpenAI及其執行長山姆・奧特曼，指控聊天機器人ChatGPT誘導其女兒走向自殺。近期已有多起訴訟指責該公司未能管控使用者與聊天機器人之間的危險對話，本案是最新一例。這起訴訟提交至舊金山州法院。原告克里斯蒂・卡里爾表示，女兒艾麗斯離世前，曾十數次向ChatGPT傾訴自殺念頭，但OpenAI的安全系統既未將相關對話標記並轉交人工稽核，也沒有終止對話。OpenAI方面稱，公司對模型進行過專項訓練，當使用者流露自殘、自殺傾向時，模型會引導其尋求幫助，並對接現實中的救助資源。OpenAI發言人德魯・普薩泰裡表示：“這起悲劇令人痛心，我們向所有受此事影響的人致以慰問。目前我們正在審閱這份訴狀，訴狀中提及的相關對話發生在舊版本ChatGPT上，該版本現已停止使用。”"
     }
   ]
 }
