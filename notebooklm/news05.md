@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-21 23:00:40_
-_本檔包含 3600 則快訊，約 652133 字_
+_更新時間：2026-06-21 23:48:13_
+_本檔包含 3579 則快訊，約 650848 字_
+
+---
+
+### 2026-06-16 02:53:40  #國際
+
+【野村：美伊協議強化做空美元的理由】野村表示，美國和伊朗達成臨時協議，以延長停火併重開霍爾木茲海峽，這增強了選擇性做空美元的理由，也增強了聚焦外匯市場相對價值機會的理由。“霍爾木茲海峽即將重新開放，支援我們選擇性做空美元的立場，重點關注由本地因素驅動的相對價值交易，”野村策略師Craig Chan、Dominic Bunning和Wee Choon Teo等人週一在報告中寫道。
+
+---
+
+### 2026-06-16 02:51:02  #MKT News
+
+【Abbas: Palestinian presidential election to follow in 2027】Palestinian President Abbas told Indonesian President Prabowo in a phone call on the 15th that parliamentary elections are scheduled for November and a presidential vote will follow in 2027. Abbas said he will push a comprehensive national reform plan to strengthen the democratic process.
+
+---
+
+### 2026-06-16 02:50:00  #MKT News
+
+According to a Refinitiv/Ipsos poll, Trump’s support rose to 36% as public dissatisfaction with the cost of living eased.
+
+---
+
+### 2026-06-16 02:49:43  #MKT News
+
+Refinitiv/Ipsos poll: 24% of US adults approve of Trump’s handling of the cost of living, up from 22% a week earlier and 20% a month earlier.
+
+---
+
+### 2026-06-16 02:46:45  #國際
+
+路透社與益普索聯合民調顯示，隨著民眾對生活成本的不滿情緒有所緩解，特朗普支援率升至 36%。
+
+---
+
+### 2026-06-16 02:46:33  #國際
+
+路透社與益普索聯合民調顯示：24% 的美國民眾認可特朗普應對生活成本問題的舉措，該比例較一週前的 22%、一個月前的 20% 均有所上升。
+
+---
+
+### 2026-06-16 02:45:44  #其他
+
+訊息人士透露：英偉達此次債券發行規模由 200 億美元上調至 250 億美元。
+
+---
+
+### 2026-06-16 02:44:08  #公司 #國際
+
+洛克希德・馬丁公司拿下美國太空部隊價值 5.14 億美元合同，負責建造第 23、24 顆 GPS IIIF 衛星，提升未來衛星導航星座的抗毀能力。
+
+---
+
+### 2026-06-16 02:40:23  #國際
+
+【內塔尼亞胡稱以軍將繼續駐紮在黎巴嫩南部等地】以色列總理內塔尼亞胡在15日舉行的新聞釋出會上說，以色列國防軍將繼續駐紮在其於黎巴嫩南部、敘利亞和加沙地帶設立的“安全緩衝區”內，直至以色列“國家安全得到保障”。 (新華社)
+
+---
+
+### 2026-06-16 02:39:38  #國際
+
+【阿巴斯：巴勒斯坦將於2027年舉行總統選舉】據巴勒斯坦通訊社15日報道，巴勒斯坦總統阿巴斯當天在與印度尼西亞總統普拉博沃通話時表示，巴勒斯坦議會選舉將於11月舉行，總統選舉將於2027年跟進開展。 報道說，雙方在通話中討論了巴勒斯坦最新局勢。阿巴斯表示，他將推進全面國家改革計劃，加強民主程序。 阿巴斯2025年11月在法國訪問期間曾表示，巴勒斯坦民族權力機構將遵守改革承諾，巴勒斯坦國憲法、選舉法和政黨法的起草已接近尾聲。加沙地帶戰事結束後將組織總統選舉和議會選舉。(新華社)
+
+---
+
+### 2026-06-16 02:33:13  #市場 #國際
+
+【鋁價大跌 伊朗和平協議緩解供應危機衝擊】倫敦期鋁跌至逾兩個月低點，因美國和伊朗達成臨時協議，為恢復途徑霍爾木茲海峽的金屬運輸奠定基礎。倫敦金屬交易所(LME)鋁價下跌4.4%，結算價報每噸3,379.50美元，為3月27日以來最低。美伊達成一項協議，預計該協議將於週五簽署，屆時海峽將重新開放。該計劃的細節仍在磋商中。伊朗戰爭導致供應大幅減少，中東鋁冶煉廠遭到導彈襲擊，這一關鍵水道關閉也阻斷了原材料輸入和金屬外運。生產商採取物流變通方案以維持工廠運轉，但這場戰爭仍令該行業面臨重大供應缺口。
+
+---
+
+### 2026-06-16 02:32:07  #宏觀 #國際
+
+美國國務院批准擬向科威特出售 KC-130J 運輸機後續後勤保障配套服務，交易金額 2.359 億美元。
+
+---
+
+### 2026-06-16 02:31:22  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
+
+【Night session main contracts close】As of the 02:30 night-session close, Shanghai gold main contract rose 1.77% to 943 yuan/gram, Shanghai silver main contract rose 2.49% to 16,854 yuan/kg, and SC crude oil main contract fell 1.96% to 531 yuan/barrel.
+
+---
+
+### 2026-06-16 02:31:21  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 1.03% at 941.0 yuan/gram in the evening session on June 15 (Monday); Shanghai Gold Exchange silver T+D closed up 0.3% at 16,786.0 yuan/kg.
+
+---
+
+### 2026-06-16 02:31:12  #MKT News #Market Regions #Europe & UK
+
+【European retail allocated under 1% in SpaceX record IPO】European retail investors received under 1% of allocations in SpaceX's record IPO, with roughly $600m of stock set aside for retail in the EU, Norway and Switzerland. Orders from that group were about four times the allocation, near $2.5bn, sources said.
+
+---
+
+### 2026-06-16 02:31:09  #市場
+
+WTI 7月原油期貨收跌4.13美元，跌幅4.87%，報80.75美元/桶。NYMEX 7月天然氣期貨收報3.1470美元/百萬英熱單位。NYMEX 7月汽油期貨收報2.9472美元/加侖，NYMEX 7月取暖油期貨收報3.2665美元/加侖。
+
+---
+
+### 2026-06-16 02:30:13  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Surges by 7.62% — Top crypto gainers are XRP (7.62%), Ether (6.01%) and Bitcoin (1.65%).
+
+---
+
+### 2026-06-16 02:30:10  #MKT News
+
+【Iran FM briefs Lebanese leaders on Iran–US MoU, urges end to attacks on Lebanon】Iran’s foreign minister Araghchi phoned Lebanese president Aoun and parliamentary speaker Berri on the 15th to brief them on Lebanon-specific clauses in the Iran–US memorandum of understanding (MoU). He said Iran is committed to ending the war and aggression against Lebanon and urged the United States to ensure the MoU’s terms are properly implemented, including a full end to Israeli attacks on Lebanon. Lebanese officials welcomed the MoU, said Lebanon’s security is integral to regional stability and endorsed the inclusion of a clause calling for an end to the war against Lebanon.
+
+---
+
+### 2026-06-16 02:30:02  #國際
+
+【伊朗外長與黎巴嫩官員通話 通報伊美諒解備忘錄細節】伊朗外交部當地時間15日表示，伊朗外交部長阿拉格齊當天分別與黎巴嫩總統奧恩和黎巴嫩議會議長貝里通電話。阿拉格齊向黎巴嫩官員通報了伊美諒解備忘錄各項條款的細節，特別是與黎巴嫩相關的內容。阿拉格齊指出，伊朗致力於結束針對黎巴嫩的戰爭和侵略，並強調美國有責任確保諒解備忘錄條款得到妥善執行，同時必須徹底結束以色列針對黎巴嫩的一切襲擊。黎巴嫩官員對最近達成的諒解備忘錄條款表示歡迎，並強調，黎巴嫩的穩定與安全是任何實現地區穩定的切實努力中不可分割的一部分。他們同時對在諒解備忘錄文字中納入“結束針對黎巴嫩的戰爭”這一議題表示讚賞。（央視新聞）
+
+---
+
+### 2026-06-16 02:30:02  #市場
+
+上期所原油期貨夜盤收跌1.96%，報531.20元人民幣/桶。滬金夜盤收漲1.77%，滬銀收漲2.49%。
+
+---
+
+### 2026-06-16 02:27:22  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact mixed
+
+【NVIDIA to issue investment-grade bonds for first time in five years; subscription demand hits $85bn】NVIDIA is expected to raise about $25bn through an investment-grade bond offering, with subscription demand said to exceed three times the planned size and reach roughly $85bn, people familiar with the matter said. The sale will be split into seven tranches maturing from two to 30 years. The longest-dated tranche was priced at about 65bps over U.S. Treasury yields, the sources said. Proceeds will be used to refinance existing debt and for other corporate purposes. This would be NVIDIA’s first investment-grade bond issue in five years.
+
+---
+
+### 2026-06-16 02:26:41  #國際
+
+【加駐美大使：對美貿易談判中聚焦於尋求高額的特定行業關稅減免】加拿大駐美大使表示，加拿大在與華盛頓的貿易談判中的首要任務是，尋求減免美國對鋼鐵、鋁和汽車等關鍵工業行業徵收的高額關稅。 曾任養老基金和貝萊德高管的馬克·懷斯曼表示，加拿大人不應過度關注將於7月1日開始的、有關現有美國墨西哥加拿大貿易協議（USMCA）的正式審議程式。懷斯曼對商界聽眾表示，以美國貿易代表賈米森·格里爾為首的特朗普政府高階官員已表示，他們希望保留該協定，但會作出修改。即使7月1日之後沒有達成續簽協議，美墨加協定的條款也將在未來十年內繼續有效，直至2036年。
+
+---
+
+### 2026-06-16 02:25:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rises by 3.36% — Top commodity gainers are Cocoa (3.36%), Coffee (2.26%) and Lumber (1.21%). Biggest losers are Oat (-2.78%) and Rice (-1.90%).
+
+---
+
+### 2026-06-16 02:24:45  #國際
+
+美國加州州長紐森： 特朗普針對我，是因為我有意參選總統。
+
+---
+
+### 2026-06-16 02:24:16  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Prime Minister Netanyahu said on Lebanon he would maintain freedom of action to thwart attacks.
+
+---
+
+### 2026-06-16 02:24:14  #國際
+
+以色列總理內塔尼亞胡： 我方將保留行動自由，以挫敗各類襲擊。
+
+---
+
+### 2026-06-16 02:23:52  #MKT News
+
+【Terror attack in northern Syria kills one security officer, wounds three】Syria’s interim government Interior Ministry said on the 15th that security forces in Raqqa province foiled an Islamic State suicide attack targeting a security command center in Raqqa city. Forces engaged two suicide attackers, killing one; the second detonated after being surrounded, killing one security officer and wounding three.
+
+---
+
+### 2026-06-16 02:23:43  #國際
+
+美國加州州長紐森：司法部尚未發現犯罪行為，特朗普此前下令司法部調查他和他的妻子。
+
+---
+
+### 2026-06-16 02:23:07  #國際
+
+惠譽評級：撒哈拉以南非洲各國主權信用抵禦伊朗地緣衝擊的基礎更為穩固。
+
+---
+
+### 2026-06-16 02:22:40  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israeli Prime Minister Netanyahu said Lebanon wants Israel to withdraw from the security zone, but that will not happen.
+
+---
+
+### 2026-06-16 02:22:06  #MKT News #WTI #Impact bullish #XAUUSD #DXY #Impact mixed
+
+Israeli Prime Minister Netanyahu said that during a war with Iran a total of 14,000 sorties were flown, roughly half by the U.S. and half by Israel.
+
+---
+
+### 2026-06-16 02:21:53  #國際
+
+以色列總理內塔尼亞胡： 只要有必要，我們就會持續駐守 “緩衝地帶”。
+
+---
+
+### 2026-06-16 02:21:53  #MKT News #Brent #Impact bullish #XAUUSD
+
+Israeli Prime Minister Netanyahu said Israel will take all necessary measures to prevent Iran from acquiring nuclear weapons and that the objective remains unchanged.
+
+---
+
+### 2026-06-16 02:21:14  #國際
+
+以色列總理內塔尼亞胡：我們將採取一切必要手段阻止伊朗獲得核武器。
+
+---
+
+### 2026-06-16 02:20:30  #MKT News
+
+California Governor Newsom said President Trump has instructed the U.S. Department of Justice to investigate him.
+
+---
+
+### 2026-06-16 02:20:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Gains by 3.78% — Top commodity gainers are Platinum (3.78%), Silver (3.46%) and Gold (2.43%). Biggest loser is Silicon (-0.87%).
+
+---
+
+### 2026-06-16 02:19:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+India raises windfall tax on diesel exports to 14 rupees per litre and imposes an export tax on aviation turbine fuel (ATF) of 12.5 rupees per litre for the next two weeks.
+
+---
+
+### 2026-06-16 02:19:27  #MKT News
+
+Netanyahu says Israel is an equal partner to US President Trump.
+
+---
+
+### 2026-06-16 02:19:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli Prime Minister NETANYAHU said the Iranian regime came close to acquiring nuclear weapons and that Israel has successfully destroyed Iran's missile and nuclear programs.
+
+---
+
+### 2026-06-16 02:19:17  #MKT News
+
+India said it will keep the petrol export tax unchanged for the next two weeks.
+
+---
+
+### 2026-06-16 02:19:17  #MKT News
+
+Israeli Prime Minister Netanyahu says he will run in the upcoming election and will win.
+
+---
+
+### 2026-06-16 02:18:44  #國際
+
+以色列總理內塔尼亞胡： 特朗普與我是合作伙伴，我們大多時候意見一致，偶爾也會存在分歧。
+
+---
+
+### 2026-06-16 02:18:27  #公司 #國際
+
+印度政府公告：未來兩週，柴油出口暴利稅上調至每升 14 盧比，航空煤油（ATF）出口關稅上調至每升 12.5 盧比。
+
+---
+
+### 2026-06-16 02:17:45  #MKT News
+
+Israeli Prime Minister Netanyahu said he had ultimately achieved the objectives set regarding Iran.
+
+---
+
+### 2026-06-16 02:16:51  #MKT News
+
+Israeli Prime Minister Netanyahu said no one can predict when the Iranian regime will collapse, but other authoritarian regimes have fallen in similar circumstances.
+
+---
+
+### 2026-06-16 02:15:26  #Trading Economics #Economy #Brazil #Business Confidence #Importance 1
+
+Brazil Industrial Confidence Falls Further in June — Brazil’s Industrial Business Confidence Index fell 0.5 point to 46.7 in June 2026 from the previous month, marking its 18th consecutive reading below the 50-point threshold. The Current Conditions Index declined 0.6 point to 42.3, driven mainly by a 0.9-point drop in assessments of companies’ own conditions to 45.4. Meanwhile, the indicator for the broader Brazilian economy slipped 0.1 point to 36.0, signaling a perception of worsening economic conditions. The Expectations Index also weakened, falling 0.4 point to 48.9. While expectations for the Brazilian economy edged up 0.1 point to 41.0, the indicator for companies’ own prospects declined 0.7 point to 52.8.
+
+---
+
+### 2026-06-16 02:15:16  #國際
+
+以色列總理內塔尼亞胡： 我們在加沙採取的行動，也會在北部地區復刻，並且我們已經對真主黨實施了決定性打擊。
+
+---
+
+### 2026-06-16 02:15:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Tumbles by 10.62% — Top commodity losers are Natural Gas UK (-10.62%), Natural Gas EU (-9.07%), Germany Natural Gas THE (-8.81%), Crude Oil WTI (-5.35%) and Brent Crude Oil (-4.90%). Gains are led by Natural gas (0.81%).
+
+---
+
+### 2026-06-16 02:14:15  #國際
+
+以色列總理內塔尼亞胡：無論是否達成協議，伊朗都不會擁有核武器。最重要的是，我們拯救了以色列，免受核武器毀滅的威脅。為了保護我們的國家，我們將在安全區駐留必要長的時間。
+
+---
+
+### 2026-06-16 02:13:36  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+Prime Minister Netanyahu said the situation has improved since Oct. 7, 2023, and that Gaza no longer poses a threat to Israel.
+
+---
+
+### 2026-06-16 02:12:22  #MKT News
+
+Israeli Prime Minister Netanyahu said he and U.S. President Trump sometimes disagree.
+
+---
+
+### 2026-06-16 02:10:17  #MKT News
+
+Israel's prime minister NETANYAHU said Israel will continue to thwart threats in the region.
+
+---
+
+### 2026-06-16 02:09:33  #MKT News #Important #XAUUSD #Impact bullish #DXY #WTI
+
+Israeli Prime Minister NETANYAHU said Israel will remain stationed in the security zone for as long as necessary to protect the country.
+
+---
+
+### 2026-06-16 02:09:03  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Israeli Prime Minister Netanyahu said Israel has established deep security zones around Lebanon, the Gaza Strip and Syria.
+
+---
+
+### 2026-06-16 02:08:51  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Netanyahu said Israel killed Nasrallah and prevented an incursion into the Galilee region.
+
+---
+
+### 2026-06-16 02:08:43  #MKT News
+
+Prime Minister Netanyahu said Israel carried out a Pager operation that eliminated thousands of Hezbollah terrorists.
+
+---
+
+### 2026-06-16 02:07:56  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli Prime Minister Netanyahu said the military operation is not over and Israel must continue to bolster its forces.
+
+---
+
+### 2026-06-16 02:06:25  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel's Prime Minister NETANYAHU said without action by the U.S. and Israel, Iran would possess nuclear weapons.
+
+---
+
+### 2026-06-16 02:06:16  #MKT News
+
+Israel's Prime Minister Netanyahu said Iran will need years to recover.
 
 ---
 
@@ -21256,485 +21610,5 @@ An Israeli strike on a suburb of Beirut killed three people, raising Lebanon's d
 ### 2026-06-14 23:48:24  #國際
 
 【俄羅斯：普京與特朗普通話】俄總統助理烏沙科夫表示，普京與特朗普通話，此次通話氛圍友好、交流坦誠，時長55分鐘。普京向特朗普送上80歲生日祝福，雙方還談及兩國代表後續可能開展的接觸事宜。
-
----
-
-### 2026-06-14 23:48:07  #MKT News #Important
-
-【Russian media: Putin spoke by phone with Trump for 55 minutes】Russian presidential aide Yuri Ushakov said President Vladimir Putin spoke by phone with Donald Trump for 55 minutes; the call was friendly and candid. Putin congratulated Trump on his 80th birthday and they discussed possible contacts between their representatives.
-
----
-
-### 2026-06-14 23:47:06  #其他
-
-約旦國家電視：當地響起防空警報系裝置故障所致。
-
----
-
-### 2026-06-14 23:46:47  #MKT News #Important #Market Themes #The Trump Trade
-
-The Kremlin said President Putin spoke by phone with U.S. President TRUMP today.
-
----
-
-### 2026-06-14 23:46:26  #MKT News
-
-Fars News Agency reported President PEZESHKIAN said he would abide by the system's final decision on negotiations even if his personal views differ.
-
----
-
-### 2026-06-14 23:45:40  #MKT News
-
-【Israeli media: Netanyahu refuses to withdraw from south Lebanon, Syrian territory】Israeli daily Maariv, citing sources, reported that in a recent phone call with US President Trump Netanyahu rejected US requests to withdraw Israeli forces from all of south Lebanon, including five Israeli-controlled positions, and likewise refused to withdraw from Syrian territory occupied after Assad’s removal.
-
----
-
-### 2026-06-14 23:44:50  #國際
-
-【以軍稱黎巴嫩是行動重心 已準備好應對報復】以色列國防軍方面14日表示，以軍正“保持高度警惕和戰備狀態”，黎巴嫩是以軍行動的“主要重心”。以軍正為“未來數小時內”可能出現以色列遭受攻擊的情況做準備。（新華社）
-
----
-
-### 2026-06-14 23:44:30  #國際
-
-由於擔心伊朗發射導彈，以色列今日的小型內閣會議將在加固掩體中召開。
-
----
-
-### 2026-06-14 23:41:47  #國際
-
-伊朗總統：伊朗正處於本國歷史上最為微妙的階段。
-
----
-
-### 2026-06-14 23:41:26  #國際
-
-伊朗總統佩澤：國家最高安全委員會的決議是行動依據，最高領袖批准且認定妥當的事項，全體人員都必須遵照執行。
-
----
-
-### 2026-06-14 23:40:32  #國際
-
-【中國駐菲律賓大使館提醒來菲中國公民提前做好入境準備】近期，有中國公民反映，因入境材料不足或行程資訊不清等，在菲律賓機場被攔截盤查，甚至遭遇遣返。中國駐菲律賓大使館謹提醒來菲中國公民，免籤並不等於可以無條件入境，菲移民官員有權依法對外國公民入境目的進行審查，並決定是否准予入境。外國公民如無法說明真實入境目的，無法提供相關證明材料，或存在異常入出境記錄以及涉嫌非法務工等，均可能被拒絕入境。
-
----
-
-### 2026-06-14 23:39:41  #MKT News
-
-Iran's president said maintaining social unity is the most important priority at this stage.
-
----
-
-### 2026-06-14 23:39:10  #焦點 #國際
-
-伊朗總統佩澤：即便我個人看法有所不同，我也有義務遵從體製作出的最終決定。
-
----
-
-### 2026-06-14 23:38:53  #MKT News
-
-Iran's president said the government must act within the institutional decision-making framework set by the Supreme Leader.
-
----
-
-### 2026-06-14 23:38:47  #國際
-
-伊朗伊斯蘭革命衛隊航空航天部隊司令穆薩維：我們絕不信任敵人，並且謹遵監護體系的指令。
-
----
-
-### 2026-06-14 23:38:06  #MKT News
-
-Iran's president said the country is experiencing one of its most sensitive phases.
-
----
-
-### 2026-06-14 23:37:26  #國際
-
-市場資訊：美方正向伊朗施加巨大壓力，要求其不得針對以色列襲擊貝魯特南郊的行為發射導彈予以反擊。
-
----
-
-### 2026-06-14 23:36:52  #公司 #焦點 #國際
-
-【抗議者在日內瓦的反七國集團遊行中砸碎窗戶並點燃特斯拉汽車】當地時間週日，抗議者在日內瓦縱火焚燒一輛特斯拉汽車，並砸毀了一家銀行的窗戶，以此發洩對即將於法國邊境對面舉行的七國集團峰會的憤怒。6月15日至17日，七國集團峰會將在日內瓦湖畔的埃維昂萊班舉行，屆時法國、英國、加拿大、德國、義大利、日本和美國的領導人以及歐盟代表將齊聚一堂。據當地警方稱，此次遊行總體和平，參與人數多達7000人，警方表示已沒收了部分刀具和煙火裝置。示威者表示，他們前來抗議七國集團，將其視為政治和經濟權力集中的象徵。上週，特斯拉老闆馬斯克成為全球首位萬億富豪，這再次引發了人們對不平等問題的擔憂。“對我來說，這是一場富人的聚會，再次表明富人如何變得更富，而窮人卻被拋在後面，”抗議者皮帕·索吉說道。
-
----
-
-### 2026-06-14 23:35:37  #MKT News #XAUUSD #Impact bearish #DXY #WTI
-
-Israel's Channel 14 reported Washington put heavy pressure on Iran, urging it not to retaliate against Israel.
-
----
-
-### 2026-06-14 23:35:23  #MKT News
-
-Iranian President PEZESHKIAN said apart from God, we should not rely on anyone.
-
----
-
-### 2026-06-14 23:35:06  #MKT News #XAUUSD #Impact bullish #WTI
-
-Israeli Channel 13, citing sources, reports a cabinet subcommittee will meet in an air-raid shelter today amid concerns of missile strikes from Iran.
-
----
-
-### 2026-06-14 23:34:52  #國際
-
-伊朗總統：除真主之外，我們不應依賴任何人。
-
----
-
-### 2026-06-14 23:34:34  #國際
-
-伊朗總統：最近的事態發展表明，沒有哪個國家比我們自己更關心伊朗的利益。
-
----
-
-### 2026-06-14 23:34:34  #MKT News
-
-Fars News reported President Pezeshkian said recent developments show no country cares more about Iran's interests than we do.
-
----
-
-### 2026-06-14 23:33:29  #MKT News
-
-Israel's Channel 14 said Prime Minister Netanyahu will chair a cabinet meeting at a "secret location" today.
-
----
-
-### 2026-06-14 23:33:06  #公司 #國際
-
-日本首相高市早苗：結束在英國的行程，即將動身前往下一站義大利。與英國首相斯塔默圍繞經濟安全保障、前沿技術、防務安全以及地區局勢等當下對日英兩國和國際社會尤為重要的議題交換了意見。此次訪問成果豐碩，也將為七國集團埃維昂峰會的相關討論奠定基礎。明日將在羅馬與義大利首相梅洛尼舉行會談。
-
----
-
-### 2026-06-14 23:32:55  #國際
-
-以色列政治安全內閣將於今晚召開會議。
-
----
-
-### 2026-06-14 23:32:52  #MKT News
-
-Israel's political-security cabinet will meet tonight, Israel Hayom reports.
-
----
-
-### 2026-06-14 23:31:50  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【US defense secretary says US and Iran still expected to sign MOU on June 14】US defense secretary Hegseth said the US and Iran are still expected to sign a memorandum of understanding on June 14 to restart shipping through the Strait of Hormuz and lift the US blockade of Iranian ports. He said both sides would have 60 days after signing to negotiate longer-term peace arrangements and terms for ending Iran's nuclear program. Hegseth said the agreement would be performance-based, with no funds released to Iran before it fulfils its commitments.
-
----
-
-### 2026-06-14 23:31:25  #國際
-
-英國與日本達成一項價值180億英鎊的投資協議。
-
----
-
-### 2026-06-14 23:30:49  #公司 #國際
-
-根據美國國家安全相關規定，Anthropic公司已暫停部分最新版本產品的（國外）訪問許可權。
-
----
-
-### 2026-06-14 23:30:24  #國際
-
-【美防長稱美伊仍有望於14日簽署諒解備忘錄】當地時間6月14日，美國國防部長赫格塞思表示，美國和伊朗仍有望於14日簽署諒解備忘錄，重啟霍爾木茲海峽貨運通行，並解除美國對伊朗港口的封鎖措施。赫格塞思當天表示：“據我所知，一切仍在按計劃推進。這不是會不會發生的問題，而是什麼時候發生的問題。”赫格塞思稱，協議簽署後，美伊雙方將有60天時間就更長期的和平安排以及終止伊朗核計劃展開談判。他還表示，這項協議將採取“以履約為基礎”的模式，即在伊朗履行相關承諾之前，不會向伊朗釋放任何資金。
-
----
-
-### 2026-06-14 23:30:06  #國際
-
-伊朗革命衛隊航空航天部隊司令：全體民眾應當聽從最高領袖的指令，遠離一切破壞團結的言論。
-
----
-
-### 2026-06-14 23:29:45  #MKT News
-
-IRGC Aerospace Force commander said Iranians should heed the Supreme Leader's directives and refrain from rhetoric that threatens national unity.
-
----
-
-### 2026-06-14 23:29:19  #國際
-
-以色列國防軍表示，此前阿拉布阿爾阿姆舍地區因疑似敵方無人機入侵拉響的防空警報為誤報。
-
----
-
-### 2026-06-14 23:29:12  #國際
-
-美國防長赫格塞思：美方有望與伊朗簽署協議，如今的問題不在於是否簽署，而在於何時簽署。
-
----
-
-### 2026-06-14 23:28:05  #國際
-
-美國防長赫格塞思：我們將敲定這份初步諒解備忘錄，以此啟動相關時限。
-
----
-
-### 2026-06-14 23:28:00  #MKT News
-
-Israel Defense Forces said an alarm that had sounded in the Arab Al-Amash area for suspected hostile aircraft intrusion was confirmed to be a false alarm.
-
----
-
-### 2026-06-14 23:27:39  #國際
-
-美國防長赫格塞思：雙方將舉行談判，最終敲定伊朗實現無核化相關事宜。
-
----
-
-### 2026-06-14 23:27:08  #國際
-
-美國防長赫格塞思：美國將參與伊朗轉移核材料的相關工作。
-
----
-
-### 2026-06-14 23:26:48  #國際
-
-美國防長赫格塞思：設定60天期限，美方要求對核材料進行稀釋處理。
-
----
-
-### 2026-06-14 23:26:11  #焦點 #國際
-
-【伊朗總統：戰爭和談判的決定權在伊領導層】據伊朗伊斯蘭共和國通訊社14日報道，伊朗總統佩澤希齊揚表示，戰爭和談判的決定權在於伊朗領導層和伊朗最高國家安全委員會。 佩澤希齊揚在當日的一個會議上說，所有人都必須服從由伊朗最高領袖作出的決定。伊朗政府同時追求民生、國家主權和區域關係發展。憑藉內部團結、積極的外交和經濟改革，伊朗將戰勝挑戰。（新華社）
-
----
-
-### 2026-06-14 23:25:52  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-A U.S. official told Israel's Channel 12 that Israel's strike in Beirut's southern suburbs was clearly an attempt to undermine the agreement.
-
----
-
-### 2026-06-14 23:25:24  #國際
-
-【澤連斯基與特朗普通話】烏克蘭總統通訊助理德米特羅·利特溫稱，總統澤連斯基與美國總統特朗普進行了一次“具有實質意義的”通話。澤連斯基向特朗普致以生日祝賀，雙方還就外交議題交換了意見。
-
----
-
-### 2026-06-14 23:24:00  #MKT News #XAUUSD #Impact bullish #WTI
-
-【Lebanon protests Israeli herbicide spraying, attack on army vehicles to UN】Lebanon's foreign ministry said it sent letters to the UN Security Council and the UN Secretary-General on June 10 and 11 alleging Israeli forces sprayed glyphosate in southern Lebanon and attacked vehicles of the Lebanese Armed Forces, and urged the UN to intervene. The letters cite the Chemical Weapons Convention's prohibition on using herbicides as a method of warfare.
-
----
-
-### 2026-06-14 23:22:54  #國際
-
-【黎巴嫩就以軍噴灑除草劑及襲擊黎軍車致函聯合國】當地時間14日，黎巴嫩外交部發表宣告說，已分別於6月10日和11日致函聯合國安理會及聯合國秘書長，就以色列在黎南部噴灑草甘膦除草劑及襲擊黎政府軍車輛等事件提出申訴，並呼籲聯合國採取措施制止相關行為。（央視新聞）
-
----
-
-### 2026-06-14 23:21:18  #焦點 #國際
-
-伊朗總統：國內各方勢力均須遵從基於革命領袖穆傑塔巴見作出的各項決議。
-
----
-
-### 2026-06-14 23:20:33  #MKT News
-
-Iranian president said the National Security Council's decision has been approved as the standard, and members reached consensus on the necessity of continuing the negotiation path.
-
----
-
-### 2026-06-14 23:20:27  #國際
-
-美國防長赫格塞思：正是特朗普總統施加的軍事壓力與實力威懾，迫使伊朗達成這份協議。協議簽署後，將以實際履約情況作為考核依據。
-
----
-
-### 2026-06-14 23:20:01  #國際
-
-伊朗總統：國家安全委員會已作出定論，明確必須走談判道路，該決議為現行執行準則。
-
----
-
-### 2026-06-14 23:19:44  #國際
-
-美國防長赫格塞思：自由行動計劃從未中斷，已有1.25億桶石油經由霍爾木茲海峽運輸，伊朗對此束手無策。
-
----
-
-### 2026-06-14 23:19:21  #國際
-
-【特朗普批評以色列“干擾”美伊簽署協議】美國總統特朗普14日在社交媒體上發文，批評以色列當天襲擊黎巴嫩首都貝魯特“干擾”了美國同伊朗達成協議，稱以色列的襲擊在“這個特殊日子”“本不該發生”。（新華社）
-
----
-
-### 2026-06-14 23:18:50  #國際
-
-以色列本土前線司令部通報：北部的阿拉布阿爾阿姆舍地區偵測到來自黎巴嫩的無人機入侵，防空警報已拉響。
-
----
-
-### 2026-06-14 23:18:25  #國際
-
-伊朗總統：一些恪盡職守、一心維護國家利益的人卻被扣上叛國的罪名，這實在令人遺憾。
-
----
-
-### 2026-06-14 23:18:04  #焦點 #國際
-
-伊朗最高領袖穆傑塔巴親屬穆罕默德·侯賽因·霍什瓦赫特：在最高領導層的督導下，國家安全委員會聯合軍方、安全部門指揮官及領導層代表，會同總統與外交部長，結合伊朗自身利益，已就這份止戰諒解備忘錄完成審議並形成定論。如今卻有人內塔尼亞胡一道對此表示反對，這究竟意欲何為？
-
----
-
-### 2026-06-14 23:16:17  #國際
-
-澤連斯基與特朗普通電話。
-
----
-
-### 2026-06-14 23:16:03  #MKT News
-
-Iran's president said content aired on state television does not reflect instructions from the Supreme Leader or the Supreme National Security Council.
-
----
-
-### 2026-06-14 23:15:50  #其他
-
-瑞士一項公投提案遭到否決，該提案原本計劃在2050年前將本國人口上限設定為1000萬。 初步計票結果顯示，55%的選民投了反對票，45%表示支援。
-
----
-
-### 2026-06-14 23:15:32  #MKT News
-
-Iran's president said labeling the negotiating team as traitors was regrettable.
-
----
-
-### 2026-06-14 23:13:58  #國際
-
-【美國駐聯合國大使：特朗普及美方談判人員對達成協議充滿信心】美國駐聯合國大使邁克·沃爾茨表示，特朗普總統仍打算簽署與伊朗和平協議的初步框架文字。沃爾茨說：“總統完全有意促成此事。具體細節與時間將由白宮公佈。”他補充道：“伊朗人是極難對付的談判者，加之他們很難從最高領袖那裡得到明確指示，而且談判團隊內部也並非總是步調一致。”沃爾茨稱，特朗普及美方談判人員對達成協議充滿信心。他說：“他們完全有意在今日完成簽署。”
-
----
-
-### 2026-06-14 23:12:23  #MKT News
-
-【Iran's PEZESHKIAN says decisions on war, negotiations rest with leadership and SNSC】Iranian President PEZESHKIAN said decisions on war and negotiations rest with Iran's leadership and the Supreme National Security Council (SNSC) and must follow the Supreme Leader. He said the government will prioritise livelihoods, national sovereignty and regional ties, and will rely on internal unity, active diplomacy and economic reforms to overcome challenges.
-
----
-
-### 2026-06-14 23:12:18  #國際
-
-【伊朗總統：戰爭和談判的決定權在伊領導層】據伊朗伊斯蘭共和國通訊社14日報道，伊朗總統佩澤希齊揚表示，戰爭和談判的決定權在於伊朗領導層和伊朗最高國家安全委員會。佩澤希齊揚在當日的一個會議上說，所有人都必須服從由伊朗最高領袖作出的決定。伊朗政府同時追求民生、國家主權和區域關係發展。憑藉內部團結、積極的外交和經濟改革，伊朗將戰勝挑戰。（新華社）
-
----
-
-### 2026-06-14 23:11:31  #國際
-
-歐盟委員會主席馮德萊恩：與瑞士總統帕梅林進行了富有成效的會談。我們留意到瑞士今日投票的結果，瑞士民眾已作出選擇。歐盟與瑞士聯絡緊密、夥伴關係穩固。雙方將繼續攜手推進合作升級與深化，造福兩地民眾及工商界。
-
----
-
-### 2026-06-14 23:09:45  #其他
-
-【厄瓜多兩車相撞起火 已致10人死亡】當地時間6月14日凌晨，厄瓜多西南部沿海的聖埃倫娜省發生一起嚴重交通事故，兩車相撞後側翻起火，造成至少10人死亡、1人受傷。事故發生後，事發路段一度封閉並出現嚴重交通擁堵，當地消防、急救和交通部門趕赴現場展開救援。目前事故原因尚未公佈，相關部門已啟動調查。
-
----
-
-### 2026-06-14 23:09:24  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israel Defense Forces said preliminary reports indicated alerts were sounded in the Arab Al-Aramshe area for suspected enemy aircraft infiltration.
-
----
-
-### 2026-06-14 23:08:57  #MKT News
-
-【Hamas says it submitted unified response to Gaza peace roadmap】Hamas said on the 14th it submitted on the 13th a unified response — coordinated with multiple Palestinian factions and mediators Egypt, Qatar and Turkey after meetings in Cairo last week — to the Gaza peace roadmap proposed by peace committee Gaza representative Nikolay Mladenov. The statement called for full implementation of the first-phase Gaza ceasefire agreement, with emphasis on humanitarian measures and an end to all forms of aggression.
-
----
-
-### 2026-06-14 23:08:09  #國際
-
-以色列國防軍：阿拉布阿爾阿姆舍地區拉響敵機入侵防空警報，目前相關情況正在核查中。
-
----
-
-### 2026-06-14 23:07:51  #MKT News #WTI #Impact bearish #Brent
-
-【Iran sources say Tehran is using Qatar to relay terms to US】On the 14th local time, a source close to Iran’s negotiating team said a Qatari delegation is in Tehran and Iran is using it to convey to the US the terms and specific details it wants included in a potential US-Iran agreement.
-
----
-
-### 2026-06-14 23:07:48  #國際
-
-【哈馬斯：已提交對加沙和平路線圖的回應】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）14日發表宣告說，其已於13日提交了多派別對“和平委員會”加沙高階代表尼古拉·姆拉德諾夫所提加沙地帶和平路線圖的回應。（新華社）
-
----
-
-### 2026-06-14 23:07:27  #國際
-
-以色列北部發布無人機入侵警報。
-
----
-
-### 2026-06-14 23:07:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Iran says it will not sign deal at time Trump announced; Qatari delegation in Tehran, no agreement yet】Hours before Israeli strikes on Lebanon, a source close to Iran’s negotiating team told Iranian media Tehran transmitted the terms it wants via a Qatari delegation but no agreement has been reached. The source said Iran’s baseline is that all Iranian demands must be fully reflected in any US‑Iran accord and Tehran will “absolutely not” sign at the time President Trump announced. Tasnim reported on the 14th that a Qatari delegation arrived in Tehran to discuss diplomatic efforts to end the current conflict; Trump posted on social media on the 13th saying the US and Iran were due to sign an agreement on the 14th.
-
----
-
-### 2026-06-14 23:07:10  #國際
-
-【伊朗訊息人士稱伊方正透過卡達向美方傳達協議相關資訊】當地時間14日，一名接近伊朗談判團隊的訊息人士表示，卡達談判代表團眼下正在伊朗首都德黑蘭，伊朗正透過該卡達團隊向美國傳達其希望納入伊美協議的條款以及其認為重要的具體細節。該訊息人士強調，目前尚未達成任何最終決定。在談及談判過程中的起伏變化，訊息人士表示，即便談判過程中出現反覆，伊朗的原則始終是最終必須全面考慮其所有關切。即便伊朗的所有觀點都被採納，也絕不會在美國總統特朗普所宣佈的時間簽署任何協議。據悉，該訊息人士的上述表述是在以色列14日對黎巴嫩貝魯特南郊發動襲擊之前作出的。（央視新聞）
-
----
-
-### 2026-06-14 23:06:24  #國際
-
-美國防長赫格塞思：從午夜之錘行動到本輪一系列舉措，特朗普總統已重創伊朗核計劃，使其進展大幅倒退。倘若伊朗拒不配合，那就再次直面國防部的行動——我們本不願走到這一步。
-
----
-
-### 2026-06-14 23:06:00  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Qatar sets July official selling prices: marine crude at Oman/Dubai average plus $6.00/bbl; land crude at Oman/Dubai average plus $6.50/bbl.
-
----
-
-### 2026-06-14 23:05:28  #國際
-
-【伊媒：伊朗不會在特朗普宣佈的時間簽署任何協議】據伊朗法爾斯通訊社14日報道，在以色列當天襲擊黎巴嫩數小時前，一名接近伊朗談判團隊的訊息人士表示，伊朗透過卡達代表團傳遞了伊方希望達成的條款及其具體細節。據報道，這名訊息人士稱，目前尚未達成任何協議。即使談判過程中出現反覆，伊朗的基本條件是，所有伊方希望達成的條款都必須在伊美協議中得到充分體現，並且“絕對不會在美國總統特朗普宣佈的時間簽署任何協議”。（新華社）
-
----
-
-### 2026-06-14 23:05:10  #國際
-
-美國副總統萬斯： 我和特朗普向來都對捲入海外軍事事務持審慎態度。 但歸根結底，這並不意味著絕對不能動用軍事力量。
-
----
-
-### 2026-06-14 23:04:29  #國際
-
-【特朗普稱以軍對黎巴嫩的襲擊“不應該發生”】當地時間6月14日，美國總統特朗普在社交媒體發文稱，以色列當天早些時候對黎巴嫩首都貝魯特發動的襲擊“不應該發生”。特朗普表示，在美國與伊朗“非常接近達成和平協議”之際，相關襲擊可能干擾和平程序。他稱，以色列有權自衛，但此次襲擊所回應的威脅“規模很小且無關緊要”，沒有造成人員傷亡。特朗普表示，美國正接近達成一項將為中東地區帶來和平的協議，其中也包括黎巴嫩問題。他呼籲各方保持克制。（央視新聞）
-
----
-
-### 2026-06-14 23:04:12  #其他
-
-卡達將7月海上原油官方售價設定為較阿曼/迪拜均價每桶升水6.00美元；陸上原油官方售價設定為較阿曼/迪拜均價每桶升水6.50美元。
-
----
-
-### 2026-06-14 23:03:01  #國際
-
-法國與日本公佈了有關經濟安全合作的宣言。
-
----
-
-### 2026-06-14 23:02:22  #焦點 #國際
-
-【特朗普要求以色列停止對黎巴嫩的襲擊】美國總統特朗普表示，以色列應停止攻擊黎巴嫩。特朗普正試圖維護與伊朗的和平協議，之前他曾表示協議將於週日簽署。“以色列不應在黎巴嫩任何地方再發動襲擊，但其他任何一方，包括真主黨，也不應再對以色列發動襲擊，” 特朗普週日在一篇社交媒體帖子中表示，“這可能是一場長久而美好的和平的開端——我們不要搞砸它！”
-
----
-
-### 2026-06-14 23:01:02  #國際
-
-以色列國防軍發言人：不久前，在以色列境內靠近黎巴嫩邊境的地區，發現數枚疑似空中目標墜落。事件未造成人員傷亡，目前正在調查中。
 
 ---

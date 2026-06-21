@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 23:00:40_
-_本檔包含 3442 則快訊，約 652076 字_
+_更新時間：2026-06-21 23:48:13_
+_本檔包含 3430 則快訊，約 650889 字_
+
+---
+
+### 2026-06-18 23:06:06  #國際
+
+【加拿大警方逮捕美國領事館槍擊案嫌犯】當地時間6月18日，加拿大多倫多警方宣佈，涉嫌參與今年3月發生在美國駐多倫多領事館槍擊案的一名19歲嫌犯扎拉·賈比已被逮捕。另一名嫌疑人，18歲的謝爾頓·特雷西-斯圖爾特，此前於6月11日被捕。扎拉·賈比面臨多項指控，包括盜竊機動車、持有犯罪所得財物、在公共場所非法使用受限或違禁槍支以及襲擊受國際保護人員住所，他將於當天晚些時候出庭受審。（央視）
+
+---
+
+### 2026-06-18 23:05:50  #公司
+
+蘋果公司：將繼續與監管機構合作，強化對iOS使用者的保護措施。
+
+---
+
+### 2026-06-18 23:05:04  #其他
+
+四川宜賓警方通報“159瓶茅臺被跨省扣押3年後多瓶失蹤”。
+
+---
+
+### 2026-06-18 23:04:54  #公司
+
+蘋果公司：巴西iOS系統調整內容包括為開發者提供應用分發與支付處理的新選項。
+
+---
+
+### 2026-06-18 23:04:24  #國際
+
+特朗普：我很有可能在內塔尼亞胡的選舉中為其站臺，但我還想了解其他候選人。他行事應當更理性些。
+
+---
+
+### 2026-06-18 23:03:56  #公司
+
+沙特紅海全球執行長約翰·帕加諾表示，該公司將承擔NEOM辛達拉豪華島專案的運營責。
+
+---
+
+### 2026-06-18 23:03:39  #公司 #市場
+
+【霍爾木茲海峽交通量增加之際，油價擴大跌幅】隨著美伊協議簽署後市場將焦點轉向船隻透過霍爾木茲海峽的動向，原油期貨擴大跌幅。Ritterbusch & Associates在一份報告中表示，“圍繞海峽開放的看跌狂熱情緒與供應極低的看漲因素之間的鮮明對比，可能會持續到下週。”該公司補充說，恢復供應水平需要時間，“甚至在8月份或更晚之前都不太可能達到戰前產能的50%-60%”，而補充耗盡的庫存將推動需求大幅增加。西得州中質油下跌3.6%，報每桶74.02美元；布倫特原油下跌3.2%，報每桶77.01美元。
+
+---
+
+### 2026-06-18 23:02:41  #公司
+
+蘋果公司：巴西地區絕大多數開發者的蘋果應用商店佣金降至10%，數字商品佣金為21%。
+
+---
+
+### 2026-06-18 23:02:33  #其他
+
+蘋果將在巴西增設第三方應用商店相關配套選項。
+
+---
+
+### 2026-06-18 23:02:21  #其他
+
+桑切斯表示支援伊美協議。
+
+---
+
+### 2026-06-18 23:02:10  #公司 #市場
+
+亞馬遜股價飆升至盤中高點，上漲1.8%。訊息面上，亞馬遜正洽談向其他公司出售與英偉達晶片競爭的產品。
+
+---
+
+### 2026-06-18 23:01:59  #公司
+
+【國家電投集團與內蒙古自治區政府簽署戰略合作協議】6月18日，國家電投集團黨組書記、董事長劉明勝，總經理、黨組副書記徐樹彪在呼和浩特拜會內蒙古自治區黨委書記、人大常委會主任王偉中，自治區黨委副書記、自治區人民政府主席包鋼，並共同見證雙方簽署戰略合作協議。劉明勝表示，面向未來，國家電投集團將積極對接自治區“十五五”發展規劃，在科技創新、新能源就地消納及配套產業落地、算電協同、智慧礦山建設、綠電鋁迴圈經濟發展等領域持續深化與內蒙古的務實合作，聯合謀劃落地更多科研專案，以紮實舉措服務國家重要能源和戰略資源基地建設。
+
+---
+
+### 2026-06-18 23:01:47  #其他
+
+【剛果（金）本輪埃博拉疫情已致超200人死亡】當地時間18日，據非洲疾控中心公佈的最新資料，剛果（金）本輪埃博拉疫情的死亡病例現已達到202例。
+
+---
+
+### 2026-06-18 23:01:33  #其他
+
+蘋果宣佈調整其在巴西推出的iOS系統。
+
+---
+
+### 2026-06-18 23:00:44  #其他
+
+【香港舉行車博會助力國產車更高效出海】2026年國際汽車及供應鏈博覽會（香港）18日在港開幕，主題為“馭電出海·港通全球”。為期5天的活動將展示全球汽車供應鏈及智慧出行科技等內容，全面呈現前沿產品與行業生態，助力中國汽車產業進一步邁向世界舞臺。香港特區行政長官李家超出席活動並致辭表示，本屆特區政府成立了引進重點企業辦公室，已成功吸引超過120家重點企業落戶香港，包括新能源、智慧駕駛、人工智慧相關企業。特區政府期待與業界同心協力，吸引全球汽車企業選擇香港作為發展基地，共同建設全球汽車產業創新的重要樞紐，為行業可持續發展貢獻香港力量。（新華社）
+
+---
+
+### 2026-06-18 23:00:41  #其他
+
+【全球首次！我國科學家實現單神經元三模態完整解析】想徹底讀懂人類大腦，需要了解神經元的基因表達和形態聯接如何共同塑造神經元多種多樣的功能，並構築大腦的功能神經網路。過去神經元的分子、結構和功能這三類資料只能分開檢測，長期存在技術壁壘。近日，中國科學院腦科學與智慧技術卓越創新中心王凱研究團隊和徐聖進研究團隊聯合攻克這一世界級難題，實現全球首次同一神經元三模態完整解析，相關成果於6月18日在國際學術期刊《細胞》發表。（央視新聞）
+
+---
+
+### 2026-06-18 23:00:18  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Norwegian Krone Depreciates by 0.81% — Top currency losers are Norwegian Krone (-0.81%), Brazilian Real (-0.66%), South Korean Won (-0.43%), British Pound (-0.31%), Japanese Yen (-0.13%) and Euro (-0.12%). Gains are led by Indian Rupee (0.58%), Dollar Index (0.47%) and Australian Dollar (0.31%).
+
+---
+
+### 2026-06-18 22:59:41  #國際
+
+桑切斯談及與俄羅斯對話事宜：願支援一切相關斡旋嘗試。
+
+---
+
+### 2026-06-18 22:58:57  #國際
+
+德國總理默茨：歐洲國家清楚，他們必須在北約框架下承擔更多責任，而我們正在行動。
+
+---
+
+### 2026-06-18 22:58:53  #國際
+
+德國總理默茨：在美國縮減防務投入之際，歐洲必須強化自身防務力量。
+
+---
+
+### 2026-06-18 22:57:39  #其他
+
+德國總理默茨：德國可以協助霍爾木茲海峽的掃雷工作。
+
+---
+
+### 2026-06-18 22:57:07  #其他
+
+小牛電動：預期業績受年度金融資產公允價值損失7400萬港元影響。
+
+---
+
+### 2026-06-18 22:56:49  #其他
+
+小牛電動：預計截至2026年3月止財年淨虧損為9600萬至9900萬港元。
+
+---
+
+### 2026-06-18 22:55:58  #國際
+
+默茨在預算辯論前夕排除歐盟新增債務的可能性。
+
+---
+
+### 2026-06-18 22:55:12  #其他
+
+【《給阿嬤的情書》香港首映火爆 超200場排片多場滿座】電影《給阿嬤的情書》於6月18日正式在香港公映。這部潮汕方言電影在內地斬獲超17億票房，成為年度口碑黑馬。香港有逾百萬潮籍人士，這裡也曾是東南亞僑匯的中轉中心，因此這部電影備受期待。購票網站顯示，目前影片在香港共有超200場排片，多個場次已顯示滿座。（央視新聞）
+
+---
+
+### 2026-06-18 22:54:31  #國際
+
+德國總理默茨：歐洲競爭力是歐盟領導人的優先議題。
+
+---
+
+### 2026-06-18 22:54:27  #其他
+
+克羅埃西亞銀行業協會稱，最高法院就瑞士法郎貸款限制銀行責任。
+
+---
+
+### 2026-06-18 22:54:10  #其他
+
+中煙國際（香港）預計上半年收入下降25%-30%，利潤下降10%-15%。
+
+---
+
+### 2026-06-18 22:52:51  #國際
+
+【俄外交部：日本“再軍事化”路線會加劇地區緊張局勢】俄羅斯外交部發言人扎哈羅娃18日在例行記者會上表示，日本的“再軍事化”路線，違背了該國戰後憲法的和平主義條款，只會加劇地區緊張局勢。扎哈羅娃在回答新華社記者相關提問時表示，日本近期的一系列“再軍事化”行動引發俄羅斯等國家的擔憂。“我們也定期提醒日方注意，這條路線是有害的。”近期，日本除持續加強沖繩等地的軍事部署外，還頻繁透過制定和修訂相關政策檔案，為進一步強化所謂的“防衛力量”鋪路。本月9日，日本自民黨召開總務會，透過了擬提交政府的關於年內修訂“安保三檔案”的建議草案。其中不僅建議進一步增加防衛費，還強調提高預備自衛官充足率，以應對所謂“有事”的情況。相關動向引發輿論廣泛擔憂。（新華社）
+
+---
+
+### 2026-06-18 22:52:44  #國際
+
+印度當前財年淨直接稅收達到5.2萬億盧比，預收稅款1.78萬億盧比。
+
+---
+
+### 2026-06-18 22:51:52  #市場
+
+【費城半導體指數漲幅擴大至6% 續刷記錄新高】費城半導體指數漲幅擴大至6%，續刷記錄新高。英偉達股價上漲2.24%，臺積電股價上漲4.9%，博通股價上漲4.26%，美光科技股價上漲7.79%，超威半導體股價上漲3.58%，阿斯麥股價上漲3.44%，英特爾股價上漲7.14%，ARM股價上漲5.17%。
+
+---
+
+### 2026-06-18 22:51:44  #公司
+
+【高斯貝爾：子公司郴州功田電子主營高頻高速覆銅板產品】高斯貝爾6月18日在互動平臺表示，公司子公司郴州功田電子主營高頻高速覆銅板產品，目前公司覆銅板相關業務均正常開展、運營平穩。
+
+---
+
+### 2026-06-18 22:51:15  #MKT News
+
+According to an HKEX filing, Shiyao Innovation Pharmaceutical Co., Ltd. has submitted a listing application.
+
+---
+
+### 2026-06-18 22:51:14  #公司 #市場
+
+核能公司Deep Fission開盤價為16美元，IPO價格為16美元。
+
+---
+
+### 2026-06-18 22:51:11  #MKT News #Commodities #Energy
+
+Nuclear-energy company Deep Fission opened at $16, matching its $16 IPO price.
+
+---
+
+### 2026-06-18 22:51:10  #公司
+
+據港交所檔案：石藥創新制藥股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-06-18 22:49:06  #國際
+
+特朗普：我和內塔尼亞胡關係不錯，但他需要更理性一些；我願同他會面。
+
+---
+
+### 2026-06-18 22:48:44  #市場
+
+【求是網評論員文章：以更大力度提振消費】求是網發表評論員文章指出，消費是最終需求，對經濟發展具有基礎性作用。今年5月份，社會消費品零售總額同比下降0.6%，1—5月份的累計增速回落至1.4%，引發各界廣泛關注。如何客觀、辯證地看待這一現象，對於把握消費市場變化、建設強大國內市場尤為重要。文章指出，當前和今後一個時期，以更大力度提振消費，必須更好統籌惠民生和促消費的關係，更好統籌供給和需求的關係，更好統籌當前和長遠的關係，緊抓重點、多措並舉推動消費持續擴大。要夯實居民消費基礎，加快制定並實施城鄉居民增收計劃，以更加積極的就業政策擴大就業容量，以更加完善的分配製度提高居民可支配收入，以更加健全的社會保障體系緩解居民消費的後顧之憂。要加快修復居民資產負債表，著力穩定房地產市場，促進資本市場健康穩定發展，防止資產價格下跌對消費信心的負向螺旋，增強廣大城鄉居民的消費預期和底氣。要進一步強化供需適配，在商品端著力提升品質、最佳化結構，在服務端培育壯大文旅、健康、養老、托育等消費新增長點，以高質量供給更好滿足多樣化消費需求。要最佳化消費政策，持續完善促進消費的財稅、金融、產業等政策體系，清理消費領域不合理限制性措施，豐富消費場景，改善消費體驗，更好地讓消費者能消費、敢消費、願消費。
+
+---
+
+### 2026-06-18 22:47:52  #MKT News
+
+India's foreign secretary said a trade pact has created some uncertainty in US-India relations and that it is important to move toward clarity.
+
+---
+
+### 2026-06-18 22:47:42  #國際
+
+印度外交秘書：美印貿易協定已在兩國間造成了一定程度的不確定性，因此我們亟需推進磋商以明確結果。
+
+---
+
+### 2026-06-18 22:47:32  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Israel's ambassador to the United States said he hopes Iran will not be allowed to determine Lebanon's future.
+
+---
+
+### 2026-06-18 22:46:51  #國際
+
+以色列駐美大使：我們希望伊朗不被允許決定黎巴嫩的未來。
+
+---
+
+### 2026-06-18 22:46:40  #國際
+
+黎巴嫩方面訊息：真主黨稱已擊退以色列在南部的推進。
+
+---
+
+### 2026-06-18 22:46:02  #Trading Economics #Markets #Commodity #Importance 1
+
+US Natgas Prices Edge Up — US natural gas prices rose to $3.16 per MMBtu after the latest EIA report showed a slightly smaller-than-expected increase in storage. US energy companies added 73 billion cubic feet of gas to inventories in the week ended June 12, below forecasts for a 75 bcf build. The increase compares with a 97 bcf injection during the same week last year and matches the five-year average for the period. Total stockpiles climbed to 2.759 trillion cubic feet, around 1% below last year’s level but 5.8% above the five-year average. The latest build also slowed from the previous week’s 108 bcf increase. Warmer-than-normal temperatures are expected through July 3, supporting demand from power generators as air conditioning usage rises. Meanwhile, average gas flows to the nine major US LNG export facilities remained steady at 17.1 bcfd in June, unchanged from May due to ongoing maintenance. US Lower 48 production has eased slightly, averaging 109.4 bcfd so far in June compared with 109.7 bcfd in May.
+
+---
+
+### 2026-06-18 22:45:07  #其他
+
+【數名中國公民因參與非法採礦被逮捕，中國駐馬拉維使館釋出提醒】近期，馬拉維有關部門在多地開展打擊非法採礦專項行動，已有數名中國公民因參與非法採礦活動被逮捕。近年來，馬政府加大力度打擊非法採礦和跨境礦產走私行為，並全面禁止原礦出口。參與無證採礦、非法出口礦產等人員將面臨嚴重刑事處罰，繳納高額罰金甚至被判處數年監禁。（中國駐馬使館）
+
+---
+
+### 2026-06-18 22:44:17  #MKT News
+
+India's foreign secretary said leaders must manage inevitable ups and downs in US-India relations.
+
+---
+
+### 2026-06-18 22:43:35  #公司 #國際
+
+【英特爾股價漲幅縮窄至7%】英特爾股價漲幅縮窄至7%，此前一度漲11%。訊息面上，特朗普表示蘋果將與該公司合作進行晶片設計和生產。
+
+---
+
+### 2026-06-18 22:43:17  #國際
+
+【韓國重申尊重臺灣是中國一部分的立場從未變化】韓國外交部東北亞中亞局局長南鎮18日向韓媒記者吹風，強調韓方尊重臺灣是中國一部分的立場從未變化。南鎮表示，1992年《韓中建交聯合公報》規定，大韓民國政府承認中華人民共和國政府為中國的唯一合法政府，並尊重中方只有一箇中國、臺灣是中國一部分的立場。韓國曆屆政府的這一立場從未變化。（新華社）
 
 ---
 
@@ -20466,371 +20754,5 @@ Former Fed Vice Chair Richard Clarida said he was not surprised that Fed Chair K
 ### 2026-06-18 02:06:16  #央行 #美聯儲
 
 【美聯儲將美國2026年GDP增長預期中值從2.4%下調至2.2%】美聯儲將美國2026年至2028年GDP增速預期中值調整為2.2%、2.3%、2.2%，3月預期分別為2.4%、2.3%、2.1%；將2026年至2028年底PCE通脹預期中值調整為3.6%、2.3%、2.0%，3月預期分別為2.7%、2.2%、2.0%。
-
----
-
-### 2026-06-18 02:06:04  #央行 #焦點 #國際
-
-【美聯儲點陣圖：有9位官員預計2026年應採取加息行動】美聯儲點陣圖顯示，19名官員中，只有18人提交了點陣圖預測。在18位官員中，有1位官員認為2026年剩餘時間應累計加息75個基點，有5位官員認為應累計加息50個基點，有3位官員認為應累計加息25個基點，有8位官員認為應維持利率不變，有1位官員認為應累計降息25個基點。
-
----
-
-### 2026-06-18 02:05:48  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-FOMC median unemployment projections: 4.3% for end-2026, 4.3% for end-2027 and 4.2% for end-2028; March medians were 4.4%, 4.3%, 4.2%.
-
----
-
-### 2026-06-18 02:05:47  #市場 #焦點
-
-現貨黃金失守4310美元/盎司，日內跌0.61%。
-
----
-
-### 2026-06-18 02:05:46  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，海天網路跌18.25%，新氧跌9.83%，迅雷跌6.45%，億咖通科技跌4.92%，霧芯科技跌3.81%。
-
----
-
-### 2026-06-18 02:05:46  #市場
-
-現貨白銀日內跌1%，現報69.19美元/盎司。
-
----
-
-### 2026-06-18 02:05:44  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed FOMC projections: median core PCE inflation at 3.3% for end-2026, 2.5% for end-2027 and 2.1% for end-2028, versus March medians of 2.7%, 2.2% and 2.0%.
-
----
-
-### 2026-06-18 02:05:43  #市場
-
-鈀金期貨日內跌2%，現報1342.95美元/盎司。
-
----
-
-### 2026-06-18 02:05:41  #市場
-
-紐約期銀日內跌1%，現報69.78美元/盎司。
-
----
-
-### 2026-06-18 02:05:39  #MKT News #EURUSD #Impact bearish #GBPUSD #USDJPY #Impact bullish
-
-Non-dollar currencies were broadly weaker: EUR/USD slid nearly 50 pips intra-session, GBP/USD fell over 40 pips and USD/JPY jumped more than 20 pips.
-
----
-
-### 2026-06-18 02:05:38  #市場 #焦點
-
-紐約期金失守4330美元/盎司，日內跌0.58%。
-
----
-
-### 2026-06-18 02:05:38  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-【Fed dot plot: nine officials project rate hikes in 2026】The Fed dot plot covered 19 officials; 18 submitted projections. Among those 18, 1 projects a cumulative 75 bps increase in 2026, 5 project 50 bps, 3 project 25 bps, 8 project unchanged rates, and 1 projects a cumulative 25 bps cut.
-
----
-
-### 2026-06-18 02:05:22  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Union Pacific Stock Price Hits 7-week Low — Union Pacific shares decreased to 258.52 USD, the lowest since April 2026. Over the past 4 weeks, Union Pacific lost 5.93%, and in the last 12 months, it increased 16.58%.
-
----
-
-### 2026-06-18 02:05:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-FOMC median PCE inflation projections for end-2026, end-2027 and end-2028 are 3.6%, 2.3% and 2.0%, versus March medians of 2.7%, 2.2% and 2.0%.
-
----
-
-### 2026-06-18 02:05:06  #央行 #國際
-
-美聯儲FOMC經濟預期： 2026 年至 2028 年GDP增速預期中值分別為 2.2%、2.3%、2.2%。（3月預期分別為2.4%、2.3%、2.1%）
- 2026、2027、2028年底和長期聯邦基金利率預期中值分別為3.8%、3.6%、3.4%、3.1%。（3月預期分別為3.4%、3.1%、3.1%、3.1%）
-2026年至2028年底PCE通脹預期中值分別為3.6%、2.3%、2.0%。（3月預期分別為2.7%、2.2%、2.0%）
-
----
-
-### 2026-06-18 02:05:04  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-Federal Reserve FOMC statement reiterated it will maintain ample reserves in the banking system and directed the Open Market Trading Desk to increase securities holdings as appropriate.
-
----
-
-### 2026-06-18 02:04:53  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Markets now fully price a 25bp Fed rate hike before year-end.
-
----
-
-### 2026-06-18 02:04:47  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-FOMC median federal funds rate projections for end-2026, end-2027, end-2028 and the longer run are 3.8%, 3.6%, 3.4% and 3.1%, respectively; March projections were 3.4%, 3.1%, 3.1% and 3.1%.
-
----
-
-### 2026-06-18 02:04:30  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed FOMC median GDP growth projections for 2026–28 are 2.2%, 2.3% and 2.2% respectively (March projections: 2.4%, 2.3%, 2.1%).
-
----
-
-### 2026-06-18 02:04:22  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
-
-Federal Reserve FOMC projections: median 2026 GDP growth forecast lowered to 2.2% from 2.4%.
-
----
-
-### 2026-06-18 02:04:14  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bearish #Dow #Nasdaq100
-
-Following the Fed rate decision, US equity indices slipped in a brief selloff: Dow -0.1%, S&P 500 -0.44%, Nasdaq -0.47%.
-
----
-
-### 2026-06-18 02:04:12  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Markets priced in further Fed tightening after the dot plot release.
-
----
-
-### 2026-06-18 02:04:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-FOMC statement said productivity growth and capital investment have been strong.
-
----
-
-### 2026-06-18 02:04:11  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact mixed #US10Y
-
-FOMC statement: Despite elevated uncertainty from the Middle East conflict, economic activity continues to expand at a solid pace.
-
----
-
-### 2026-06-18 02:04:11  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Federal Reserve officials project the median federal funds rate at 3.8% at end-2026, up from a 3.4% projection in March.
-
----
-
-### 2026-06-18 02:04:09  #MKT News #Macro & Rates
-
-FOMC statement: keeps overnight reverse repurchase rate unchanged at 3.50%.
-
----
-
-### 2026-06-18 02:04:07  #MKT News #WTI #Brent
-
-After the Fed's rate decision, WTI and Brent crude saw limited short-term volatility, trading at $76.40/bbl and $79.20/bbl respectively.
-
----
-
-### 2026-06-18 02:04:05  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve FOMC statement: employment growth has kept pace with labor force growth.
-
----
-
-### 2026-06-18 02:04:05  #MKT News #Important #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bearish #DXY #Impact bullish
-
-After the Federal Reserve's rate decision, spot gold plunged more than $40 intraday and the dollar index (DXY) rallied about 35 points.
-
----
-
-### 2026-06-18 02:04:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #S&P500 #XAUUSD
-
-Federal Reserve FOMC statement: members unanimously agreed on the Committee's rate decision.
-
----
-
-### 2026-06-18 02:04:02  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed dot plot shows 18 of 19 officials submitted projections; one official did not submit.
-
----
-
-### 2026-06-18 02:03:51  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-FOMC statement: nine of 18 participants expect a rate hike in 2026.
-
----
-
-### 2026-06-18 02:03:51  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-FOMC statement: 17 of 19 Fed officials submitted interest-rate projections for 2028.
-
----
-
-### 2026-06-18 02:03:30  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-FOMC statement: the Committee will achieve price stability.
-
----
-
-### 2026-06-18 02:03:16  #央行 #焦點 #國際
-
-美聯儲表示，委員會將實現價格穩定。
-
----
-
-### 2026-06-18 02:03:01  #市場 #央行 #國際
-
-美聯儲宣告發布後，美國 10 年期美債收益率走高，收益率上漲 4.5 個基點，報 4.47%。 美國 2 年期美債收益率上行，收益率上漲 8 個基點，報 4.13%。
-
----
-
-### 2026-06-18 02:02:08  #央行 #國際
-
-美聯儲經濟預期概要（SEP）：預計2026年美國失業率4.3%，3月份預計4.4%。
-
----
-
-### 2026-06-18 02:01:57  #Trading Economics #Economy #United States #Interest Rate #Importance 3
-
-Fed Leaves Rates Steady — The Federal Reserve kept the federal funds rate unchanged at 3.50%-3.75% for a fourth consecutive meeting on June 17th 2026, in line with market expectations.
-
----
-
-### 2026-06-18 02:01:51  #央行 #國際
-
-美聯儲FOMC宣告：委員們一致同意此次的利率決定。19名美聯儲官員中有17人提交了2028年的利率預測。
-
----
-
-### 2026-06-18 02:01:44  #央行 #美聯儲
-
-美聯儲FOMC宣告顯示，18位FOMC參與者中有9位預計2026年加息。
-
----
-
-### 2026-06-18 02:01:32  #央行 #焦點 #國際
-
-美聯儲在宣告中刪除關於進一步調整利率的表述。將隔夜逆回購利率維持在3.5%不變。18位FOMC參與者中有9位預計2026年加息。19名官員中，只有18人提交了點陣圖預測。
-
----
-
-### 2026-06-18 02:01:21  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #US10Y #EURUSD
-
-Fed's FOMC holds the interest rate on reserve balances at 3.65%.
-
----
-
-### 2026-06-18 02:01:09  #央行 #國際
-
-美聯儲：生產率增長與資本投資表現強勁。
-
----
-
-### 2026-06-18 02:00:44  #央行 #國際
-
-美聯儲：委員會重申維持銀行體系充足準備金的政策，並指示公開市場操作部門在適當時機增持證券資產。
-
----
-
-### 2026-06-18 02:00:40  #央行 #國際
-
-美聯儲官員預計，2028 年末聯邦基金利率中值為 3.4%。
-
----
-
-### 2026-06-18 02:00:34  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
-
-The Federal Reserve removed wording in its statement referring to further rate adjustments.
-
----
-
-### 2026-06-18 02:00:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #S&P500 #US10Y
-
-【Fed holds policy rate at 3.50%-3.75% as expected】The Fed left the target range for the federal funds rate at 3.50%-3.75% for a fourth consecutive meeting, in line with market expectations.
-
----
-
-### 2026-06-18 02:00:09  #央行 #焦點 #國際
-
-美聯儲決定維持基準利率在3.50%-3.75%區間不變。
-
----
-
-### 2026-06-18 02:00:09  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #US10Y
-
-US Federal Reserve held the upper bound of the Fed funds target at 3.75% on June 17; in line with expectations and the prior rate of 3.75%.
-
----
-
-### 2026-06-18 02:00:08  #MKT News #Macro & Rates #The Fed (FOMC)
-
-US federal funds target rate (lower bound) 3.50% as of June 17; expected 3.50%, prior 3.50%.
-
----
-
-### 2026-06-18 02:00:08  #MKT News #Macro & Rates
-
-US rate on reserve balances 3.65% as of June 18; expected 3.65%; prior 3.65%.
-
----
-
-### 2026-06-18 02:00:01  #MKT News #Economic Calendar #Important
-
-United States | FED‘s Federal Fund Rate (Upper Bound) (Jun.17) | actual 3.75% | consensus 3.75% | previous 3.75%
-
----
-
-### 2026-06-18 02:00:01  #MKT News #Economic Calendar
-
-United States | Interest on Reserve Balances (Jun.18) | actual 3.65% | consensus 3.65% | previous 3.65%
-
----
-
-### 2026-06-18 02:00:01  #MKT News #Economic Calendar #Important
-
-United States | FED's Federal Fund Rate (Lower Bound) (Jun.17) | actual 3.5% | consensus 3.50% | previous 3.50%
-
----
-
-### 2026-06-18 01:58:52  #MKT News #Macro & Rates #The Fed (FOMC)
-
-JP Morgan's head of global fixed income Michelle said Fed Chair Kevin Warsh should be asked whether DISINFLATION is temporary.
-
----
-
-### 2026-06-18 01:56:51  #市場 #央行 #國際
-
-美聯儲決議宣告發布前，標普500指數大致持平，道指漲0.3%，納指漲0.2%，半導體指數漲3.6%，銀行指數漲1.3%。美元指數漲0.1%，美元兌日元跌0.16%，歐元兌美元跌0.1%，英鎊兌美元跌0.2%。現貨黃金漲1.1%，白銀漲1.8%。美國10年期國債收益率跌1.38個基點，報4.4256%，兩年期美債收益率漲幅收窄至不足0.5個基點。
-
----
-
-### 2026-06-18 01:53:30  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-【Analyst: Wash faces major credibility test at first Fed rate decision】Analyst Marte said this week's Fed meeting is Wash's first major credibility test as Fed chair; investors, policymakers and the public are watching whether he will defend the Fed's political independence. Trump has publicly urged independence on rate-setting but continues to signal a preference for lower borrowing costs. Some investors warn that if Wash fails to send a strong inflation signal he risks losing control of the bond market. April CPI rose 4.2% YoY, the fastest in over three years. Any impression the new chair intends to alter the Fed's 2% inflation target could push yields higher and further restrain the economy, running counter to Trump's objectives. A US–Iran peace deal could ease some fuel-price pressure, but pass-through to consumers would likely be delayed.
-
----
-
-### 2026-06-18 01:52:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Societe Generale head of US research Rajappa said core inflation will become the Fed's real concern.
-
----
-
-### 2026-06-18 01:51:32  #MKT News #WTI #Impact mixed
-
-JP Morgan global fixed income head Michelle said the oil-price shock is to some extent temporary.
-
----
-
-### 2026-06-18 01:50:47  #央行 #焦點 #國際
-
-【美聯儲6月決議宣告和新聞釋出會關注點】
-1、美聯儲是否會維持聯邦基金利率目標區間不變。
-2、美聯儲官員們對利率預測的點陣圖是否會有變化。
-3、美聯儲對美國經濟形勢（通脹和就業等）的看法。
-4、美聯儲主席凱文·沃什將在新聞釋出會上釋放哪些資訊。
-
----
-
-### 2026-06-18 01:50:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-The Federal Reserve's FOMC will release its rate decision and the Summary of Economic Projections in 10 minutes.
 
 ---
