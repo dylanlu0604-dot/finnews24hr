@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-22 04:12:04",
+  "updated": "2026-06-22 04:15:57",
   "count": 17467,
   "items": [
+    {
+      "id": "mkt:019eebd2-8c97-7dd8-b0a9-47c1b3288c93",
+      "time": "2026-06-22 04:15:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Egypt, Pakistan, Saudi Arabia, Turkey foreign ministers meet in Cairo】Foreign ministers of Egypt, Pakistan, Saudi Arabia and Turkey met in Cairo on the 21st and issued a joint statement saying the US‑Iran conflict poses significant risks to regional security, international energy markets, maritime trade routes, global supply chains and international trade. They welcomed the recent US‑Iran memorandum of understanding as a constructive step toward de‑escalation and urged all parties to honor commitments. The ministers said the US and Iran should sustain current momentum, promptly complete next‑stage talks and agree a durable, verifiable and mutually acceptable solution that addresses regional states' concerns."
+    },
+    {
+      "id": "4946647",
+      "time": "2026-06-22 04:12:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及、巴基斯坦、沙特、土耳其外長在開羅舉行會談】埃及外長阿卜杜勒阿提、巴基斯坦副總理兼外交部長達爾、沙烏地阿拉伯外交大臣費薩爾和土耳其外長費丹21日在開羅舉行會談，就包括伊朗問題在內的當前地區局勢交換意見。埃及、巴基斯坦、沙特、土耳其當天釋出聯合宣告稱，美國與伊朗衝突對地區安全與穩定、國際能源市場、海上航線、全球供應鏈和國際貿易構成重大風險。各方對近期美伊簽署諒解備忘錄表示歡迎，認為這對推動局勢緩和、結束地區衝突起建設性作用，並強調有關方應忠實履行承諾。（新華社）"
+    },
     {
       "id": "mkt:019eebcf-0f30-7dd8-b0a9-3f1d87cd2d77",
       "time": "2026-06-22 04:11:16",
@@ -160840,22 +160861,6 @@
         "MKT News"
       ],
       "text": "Iran national football team arrived in Los Angeles ahead of Monday's World Cup match against New Zealand."
-    },
-    {
-      "id": "4934769",
-      "time": "2026-06-15 04:13:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮顧問稱，特朗普告知普京他準備幫助結束烏克蘭衝突。"
-    },
-    {
-      "id": "4934767",
-      "time": "2026-06-15 04:12:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗足球隊抵達洛杉磯，備戰週一與紐西蘭隊的世界盃比賽。"
     }
   ]
 }
