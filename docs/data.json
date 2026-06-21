@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-22 07:34:24",
-  "count": 17355,
+  "updated": "2026-06-22 07:38:17",
+  "count": 17351,
   "items": [
+    {
+      "id": "mkt:019eec8a-c2a1-7dd8-b0aa-2bd13dc39832",
+      "time": "2026-06-22 07:36:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Tanker-tracking firm TankerTrackers says Iran has exported about 36 mln barrels of crude since June 15, 2026, and roughly the same volume remains in offshore floating storage."
+    },
+    {
+      "id": "4946810",
+      "time": "2026-06-22 07:36:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江西生物：擬全球發售3623.45萬股H股，發售價不超13.06港元】6月22日早間，江西生物在港交所公告，公司擬全球發售36,234,500股H股，香港發售股份3,623,500股H股，國際發售股份32,611,000股H股，另有15%的超額配股權；發售價不超每股13.06港元；預期股份將於2026年6月30日開始在香港聯交所買賣。"
+    },
+    {
+      "id": "4946809",
+      "time": "2026-06-22 07:34:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【嘉信理財進軍預測市場業務】嘉信理財(Charles Schwab)正涉足預測市場。知情人士透露，這家券商正與Cboe Global Markets合作，推出“全有或全無”期權合約，讓客戶能對標普500指數的表現進行“是或否”的二元押注。這些合約與Kalshi或Polymarket等平臺提供的合約略有不同，後者掛牌的是期貨合約而非期權。但這些二元期權的本質運作方式是相同的：根據指數收盤價是高於還是低於目標價，它們要麼支付固定的現金結算額，要麼分文不給。知情人士稱，嘉信理財將在未來幾個月向客戶提供這些合約。此外，嘉信理財還在推出一款類似的期權產品，帶有Cboe的一項名為“the plus zone”的功能，允許交易員在預測大方向基本準確的情況下獲得部分付款，即使指數的收盤價與他們的預測並非完全一致。"
+    },
     {
       "id": "4946807",
       "time": "2026-06-22 07:33:32",
@@ -159705,74 +159734,6 @@
         "國際"
       ],
       "text": "【市場分析 ：市場喜迎美伊和平協議，但預計油價將維持於高位】股市和債市在週一亞洲時段雙雙上漲，美元下跌，此前美伊達成和平協議，同意重新開放霍爾木茲海峽，並解除美國對伊朗的封鎖。美國原油期貨下跌逾4%，標普500指數期貨上漲約0.8%，美元普遍走軟。ATFX Global駐悉尼首席市場策略師Nick Twidale稱，市場將持觀望態度，關注海峽究竟可以多快重啟，以及石油供應何時能真正恢復正常。這肯定需要數月而非數週時間。我認為油價短期內不會很快回到70美元。澳新銀行（ANZ）駐悉尼外匯研究主管Mahjabeen Zaman稱，這一利好訊息早有預期，市場此前已呈緩慢上行態勢、持續觀望，部分正面情緒已經消化。從週期性外匯走勢來看，我認為當前水平仍有上行空間。今天或許會因市場情緒高漲而看到（油價）跌破80美元...但隨後市場可能會意識到：等等，這項協議的條款可能並不那麼有利。我們也認為，光是基礎設施受損這個因素，油價將維持在相對略高的水平。"
-    },
-    {
-      "id": "4934973",
-      "time": "2026-06-15 07:37:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：三星集團成立能源業務特別工作組。"
-    },
-    {
-      "id": "4934972",
-      "time": "2026-06-15 07:36:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱最終協議無果將再對伊動武】當地時間6月14日晚，據《紐約時報》報道，美國總統特朗普表示，根據與伊朗達成的協議，霍爾木茲海峽將永久免費開放。特朗普還堅持稱，如果伊朗未能與美國達成最終核協議，他將重啟對德黑蘭的軍事打擊。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ec87d-c948-7dd8-aff8-f9dedf2d5134",
-      "time": "2026-06-15 07:35:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Super central bank week: Warsh debut; BOJ may hike】Monday — Data: Swiss May consumer confidence; euro-area Apr seasonally adjusted trade balance and IP month-on-month; Canada Apr wholesale sales; US June NY Fed manufacturing index, NAHB housing market index, May industrial production month-on-month; China May total electricity consumption YoY (publication tentative). Market impact: CNY600bn six‑month outright reverse repo matures; ECB President Lagarde speaks; G7 summit opens (to Jun 17). Tuesday — Data/events: China May retail sales and industrial production (industrial value added); BOJ and RBA rate decisions (market watching for a BOJ hike); German/euro ZEW; US ADP payrolls, May housing starts and permits, import PPI. China releases NBS monthly housing price report; BOJ and RBA hold post-decision pressers (Deputy governor Uchida and RBA chair Bullock scheduled). Wednesday — Data: US API/EIA oil inventories, May retail sales, pending home sales, Apr business inventories; UK May CPI and RPI; euro-area May final CPI. Events: IEA monthly oil market report; Lujiazui Forum (Jun 17–18). Thursday — Macro/policy: FOMC decision and SEP, Fed chair Warsh’s first post-meeting press conference (market-moving for US rate-path and dot plot); US initial jobless claims, Philly Fed, Conference Board leading indicators; EIA gas inventory. Europe: SNB and BoE rate decisions and minutes; UK unemployment data; euro-area Apr adjusted current account. China: May share of RMB in global SWIFT payments published. Domestic fuel price adjustment window opens. Note: major domestic exchanges suspend night trading. Friday — Data/market structure: US Baker Hughes rig count to Jun 19; Japan May core CPI; Germany May PPI; UK public borrowing and retail sales; Canada Apr retail sales. Market hours: NYSE, HKEX and Taiwan exchanges closed; CME and ICE to close select futures early (Beijing time Jun 20: CME metals/energy/FX/index/Treasury futures end 01:00; ICE Brent ends 01:30); mainland equity and domestic futures markets closed."
-    },
-    {
-      "id": "em:qqyh_mlc:202606153770806548",
-      "time": "2026-06-15 07:35:38",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【華泰證券：預計美聯儲6月會議維持利率不變】華泰證券研報稱，北京時間6月18日（週四）凌晨美聯儲將公佈6月議息會議決定，考慮到美聯儲內部對加息仍有分歧，預計美聯儲6月會議維持利率不變，取消宣告中的寬鬆傾向，但強調未來利率走勢取決於後續資料；同時，預計美聯儲還將下調2026年增長預測、上調2026年通脹與中性利率預測，點陣圖指引將由2026—2027年各降息1次轉為維持利率不變。"
-    },
-    {
-      "id": "4934971",
-      "time": "2026-06-15 07:35:37",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：《推動新能源重卡規模化應用實施方案》利好國內動力電池及綠氫產業鏈】華泰證券研報指出，6月11日，交通運輸部、國家發展改革委等十一部門聯合印發《推動新能源重卡規模化應用實施方案》（以下簡稱《方案》），明確提出到2030年，新能源重卡銷量滲透率達到40%，保有量突破160萬輛，佔比達到約20%。華泰認為，《方案》檔案是國內首次針對重卡這一高能耗、高電池量細分領域提出全國性量化目標，並將充換電等基礎設施建設納入整體規劃，實現多場景、多技術協同推進，利好國內動力電池及綠氫產業鏈。"
-    },
-    {
-      "id": "4934970",
-      "time": "2026-06-15 07:35:35",
-      "tags": [
-        "公司",
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【本週關注多家央行利率決議、中東局勢以及G7峰會】本週 一週，美國、英國、日本、澳洲、瑞士、瑞典和挪威的央行政策決議，以及中東局勢和在法國舉行的七國集團(G7)峰會，將令交易員們保持警惕。外界普遍預期，美聯儲將在週三由主席沃什主持的首場會議上將利率維持在3.50%-3.75%的區間。隨著官員們對通脹風險的立場愈發鷹派，市場將密切關注政策宣告、經濟預測及新聞釋出會，以尋找美聯儲放棄寬鬆傾向的任何訊號。重要經濟資料包括紐約聯儲和費城聯儲製造業指數、5月工業生產、零售銷售及一週初請失業金人數。週五美國市場將因“六月節”休市。預計日本央行將於週二加息25個基點至1%，此前總裁植田和男已就此發出訊號，但由於他因病住院缺席會議，市場將更加關注有關政策前景的任何表態。日本的主要資料包括5月貿易資料和全國消費者物價指數(CPI)。日本央行將公佈4月會議紀要。預計英國央行將於週四將利率維持在3.75%不變，並在2026年全年都維持在這一水平。英國央行的投票結果及貨幣政策報告將備受關注。瑞典央行預計將於週三將利率維持在1.75%，預計瑞士和挪威週四也將分別把利率維持在0%和4.25%不變。"
-    },
-    {
-      "id": "4934969",
-      "time": "2026-06-15 07:34:49",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：供需剪刀差擴大預期下硫磺/硫酸處於相對高價的週期或較長，產硫企業以及硫磺/硫酸的替代產品/工藝有望受益】華泰證券研報指出，據百川盈孚，6月12日國內硫磺/硫酸參考價9823/1838元/噸，較年初漲幅169%/91%，並創下歷史新高，主要由於下游磷肥/磷酸鐵鋰/化纖/鎳冶煉等需求穩步增長，疊加供給端全球煉廠副產量下滑及中東硫磺生產/貿易受阻等因素。華泰認為，短期由於全球煉廠開工或仍受地緣衝突等影響，疊加國內硫磺企業及港口庫存均已處於近五年低位，硫磺/硫酸高價或短期難解；中期而言，由於全球新能源發展對傳統能源（汽油/柴油等）的替代，或導致高硫油需求逐步減少，煉油廠副產硫磺的量或面臨中長期減少壓力，而下游磷肥、新能源等需求仍有望保持增長，供需剪刀差擴大預期下硫磺/硫酸處於相對高價的週期或較長，產硫企業（包括煉油、硫鐵礦、銅冶煉、磷石膏制酸等企業），以及硫磺/硫酸的替代（競爭）產品/工藝（如黃磷熱法磷酸、鐵法磷酸鐵、氯化法/鹽酸法鈦白粉、硝酸磷肥）有望受益。"
     }
   ]
 }
