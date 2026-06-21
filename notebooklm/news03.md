@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 12:04:00_
-_本檔包含 3118 則快訊，約 653268 字_
+_更新時間：2026-06-21 13:50:55_
+_本檔包含 3111 則快訊，約 653323 字_
+
+---
+
+### 2026-06-17 21:42:39  #公司 #觀點
+
+【摩根士丹利高浩灃：中國市場“應流入”的資金遠未到位】在2026陸家嘴論壇上，摩根士丹利亞洲執行長兼股票部全球聯席主管高浩灃（Gokul Laroia）表示，受人工智慧等驅動，全球投資者對中國市場的興趣持續升溫，而當前已流入的資本規模，相較於“應該流入、也實際需要流入”的體量，仍只是很小一部分。
+
+---
+
+### 2026-06-17 21:42:37  #其他
+
+SHARONAI股價飆升21%；宣佈超額認購的16億美元戰略融資，以加速在澳大利亞及亞太地區擴充套件人工智慧工廠。
+
+---
+
+### 2026-06-17 21:41:56  #市場
+
+【興業證券劉鬱：特定情景給予非銀機構支援，意在及時平抑流動性短缺】6月17日，中國人民銀行行長潘功勝在2026陸家嘴論壇上表示，將研究設立特定情景非銀流動性支援宏觀審慎工具。對此，興業證券首席經濟學家劉鬱在接受中國證券報·中證金牛座記者採訪時表示，在特定情景下給予非銀機構的支援，將能夠鼓勵機構在日常經營中嚴格遵守宏觀審慎要求。在劉鬱看來，近年來，隨著非銀產品規模快速擴張，其內部所面臨的流動性風險，也容易透過機構行為，放大為對整個市場的衝擊，典型案例包括2022年末的理財贖回負反饋和2025年三季度債基產品的集中降久期。在這兩段風波中，10年國債收益率的上行幅度均超過20bp。（中證報）
+
+---
+
+### 2026-06-17 21:41:10  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #Hang Seng Index
+
+【SFC chief executive Leung Fung-yee says timetable for government bond futures listing and trading to be published imminently】SFC chief executive Leung Fung-yee said on June 17 at the 2026 Lujiazui Forum the regulator will imminently publish a timetable for the listing and trading of government bond futures in Hong Kong. She said the futures, described as a flagship offshore risk-management tool, should encourage greater overseas investor participation in China’s government bond market once listed.
+
+---
+
+### 2026-06-17 21:40:33  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude breaks above $80/bbl, up 0.98% intraday.
+
+---
+
+### 2026-06-17 21:40:25  #MKT News
+
+Italy's defense minister said Italy will not join the US PURL program to supply weapons to Ukraine.
+
+---
+
+### 2026-06-17 21:40:18  #其他
+
+【中國精算師協會召開換屆工作會議 選舉劉志清為會長】據中國精算師協會（下稱“協會”）官微，近日，協會換屆工作會議順利召開。國家金融監督管理總局財務會計司司長徐春武出席並致辭。會議選舉產生了協會第五屆理事會，選舉協會黨委書記劉志清為會長，利明光、張道明、田美攀、劉渠、張振勇為副會長，張曉蕾為秘書長。
+
+---
+
+### 2026-06-17 21:40:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.11% Higher — The Dow Jones Index is gaining 56 points or 0.11 percent on Wednesday. Leading the gains are Caterpillar (1.95%), JPMorgan (1.21%) and American Express (1.02%). Top losers are Salesforce (-2.39%), IBM (-2.04%) and Microsoft (-1.61%).
+
+---
+
+### 2026-06-17 21:40:00  #央行 #國際
+
+【富達稱沃什在美聯儲決議後對通脹的闡釋可能引發債市波動】富達投資(Fidelity Investments)表示，新任美聯儲主席凱文·沃什若就通脹發表看法，可能會在債券市場引發波動。富達固定收益投資組合經理Julian Potenza稱，在債券投資者消化週三的美聯儲政策宣告和經濟預測摘要後，沃什在決議後的亮相可能成為市場波動的催化劑。他週二接受採訪時表示：“這是一個有趣的局面，因為雖然沒有人真正預計美聯儲會實際採取行動，但可能確實存在一些波動的風險，因為我們不知道沃什會傳達些什麼。市場考驗新主席的現象並不罕見。”市場預計，美聯儲將把政策利率區間維持在3.5%-3.75%，並將宣告調整為中性立場，逆轉自美聯儲2024年開始降息以來一直存在的寬鬆傾向。一些官員因擔心通脹高企，預計將透過季度點陣圖暗示2026年以及可能2027年存在加息的可能性。
+
+---
+
+### 2026-06-17 21:39:46  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Inch Higher Ahead of Fed — US stock indices were mostly higher on Wednesday amid a rebound for chip stocks ahead of the Federal Reserve's likely hold during the session. The S&P 500 was flat and the Dow held at its record of 52,000, while the Nasdaq gained 0.3%. Iran and the US remained on track to sign their agreement by Friday, which will restore the export of energy from all countries in the Persian Gulf and remove sanctions on Iran, softening concerns of energy-drive inflation. The Fed is due to holds rate but should unveil hints on its outlook with a fresh SEP, and Chairman Warsh could unveil timelines on framework changes he previously called for. Nvidia edged higher and SpaceX gained for its fourth session since its IPO with support from the acquisition of Cursor. Marvell and AMD rose more than 2%, while Intel gained 2% as its new chip reached risk production.
+
+---
+
+### 2026-06-17 21:39:45  #國際
+
+義大利國防部長：義大利不會加入美國向烏克蘭提供武器的PURL計劃。
+
+---
+
+### 2026-06-17 21:39:33  #其他
+
+北約秘書長呂特：期待明天在北約總部歡迎各國國防部長，共同商討安卡拉北約峰會的最後籌備工作。
+
+---
+
+### 2026-06-17 21:39:28  #其他
+
+【中國太保董事長傅帆：為中國海外利益保駕護航是滬港保險協同的發力點】6月17日，中國太保董事長傅帆在2026陸家嘴論壇上表示，面對複雜多變的國際形勢，中國保險業亟需提升全球服務能力、完善風險保障和風險分散機制，為中國海外利益保駕護航，而這正是滬港保險協同的發力點。
+
+---
+
+### 2026-06-17 21:39:16  #公司
+
+SAAB公司宣佈對總部位於巴黎的戰場人工智慧公司Comand AI進行1110萬歐元的戰略投資，獲得其10%股權。
+
+---
+
+### 2026-06-17 21:38:57  #MKT News
+
+NATO Secretary-General RUTTE said he expects to welcome defense ministers at NATO headquarters tomorrow to discuss final preparations for the Ankara NATO summit.
+
+---
+
+### 2026-06-17 21:38:50  #其他
+
+洲際交易所訊息：英國現貨碳排放許可成交價 57.23 英鎊 / 噸。
+
+---
+
+### 2026-06-17 21:38:45  #其他
+
+【渣打禤惠儀：隨著滬港聯動不斷深化 中國金融開放的空間將進一步擴大】6月17日，渣打香港兼大中華及北亞區行政總裁禤惠儀在2026陸家嘴論壇上表示，高水平金融開放既需要創新，也需要協同。隨著滬港聯動不斷深化，中國金融開放的空間將進一步擴大，人民幣國際化也將逐步走向更廣泛的全球配置。
+
+---
+
+### 2026-06-17 21:38:37  #公司
+
+【綠地集團與寧德時代商討推進新能源等多領域創新合作】6月17日，記者從綠地集團獲悉，近日，寧德時代質量體系聯席總裁、後市場業務部總裁李偉一行到訪綠地集團，與綠地集團董事長、總裁張玉良進行工作會談，並達成廣泛合作共識。雙方將共同開拓在寧家服務體驗中心、零碳園區場景服務等領域的合作空間，打造集能源生產、儲存、交易、服務於一體的全鏈路創新合作平臺。
+
+---
+
+### 2026-06-17 21:38:29  #公司
+
+【江蘇與中國東航簽署戰略合作協議】6月17日，江蘇省與中國東方航空集團簽署戰略合作協議。省委書記信長星、省長劉小濤會見中國東方航空集團董事長王志清一行。
+
+---
+
+### 2026-06-17 21:38:21  #國際
+
+SAAB投資COMAND AI以強化歐洲防務領域。
+
+---
+
+### 2026-06-17 21:38:07  #其他
+
+中國地震臺網正式測定：06月17日21時33分在青海海西州直轄區（北緯37.82度，東經95.53度）發生3.4級地震，震源深度10千米。
+
+---
+
+### 2026-06-17 21:38:02  #市場
+
+【香港證監會梁鳳儀：將馬上公佈國債期貨掛牌買賣時間表】香港證監會行政總裁梁鳳儀17日在2026陸家嘴論壇上表示，香港證監會將馬上公佈國債期貨掛牌買賣的時間表。“我們相信，這個旗艦級的離岸風險管理工具掛牌後，將有力推動境外投資者更加積極地參與國債市場。”
+
+---
+
+### 2026-06-17 21:37:35  #公司 #市場
+
+【凌瑋科技：股票交易異常波動 提示多項投資風險】凌瑋科技公告稱，公司股票2026年6月15 - 17日收盤價漲幅偏離值累計達39.28%，屬異常波動。經核查，公司、控股股東和實控人不存在應披露未披露重大事項，異常波動期間實控人無買賣公司股票情形。公司提示多項風險，如相關產品未透過下游客戶認證、未獲訂單，研發不確定；市盈率顯著高於行業水平，估值偏高；外部流通盤小，或存非理性炒作風險等。
+
+---
+
+### 2026-06-17 21:37:18  #公司 #市場
+
+芝加哥商品交易所集團盤中股價下跌5.8%，此前執行長宣佈辭職。
+
+---
+
+### 2026-06-17 21:37:18  #MKT News #Market Regions #Wall Street (US) #CME.O #Impact bearish
+
+CME Group shares fell 5.8% after CEO Terry Duffy said he will resign.
+
+---
+
+### 2026-06-17 21:36:27  #公司
+
+【凱倫股份：收到政府補助1973.88萬元 佔最近一期歸母淨利潤96.77%】凱倫股份(300715)6月17日公告，公司近日收到政府補助資金1973.88萬元，上述政府補助與收益相關，補助金額佔公司最近一期經審計歸屬於上市公司股東淨利潤的96.77%。
+
+---
+
+### 2026-06-17 21:36:12  #公司
+
+【紹興銀行嘉興分行因貸款管理不審慎等被罰150萬元】6月17日，國家金融監督管理總局嘉興監管分局公佈的行政處罰資訊顯示，紹興銀行股份有限公司嘉興分行因貸款管理不審慎等被罰款150萬元。
+
+---
+
+### 2026-06-17 21:35:55  #MKT News #Market Regions #Greater China #02601.HK #Impact bullish
+
+【China Pacific Insurance's Fu Fan: Shanghai and Hong Kong to build complementary reinsurance 'offshore hub + onshore center'】Fu Fan, chairman and executive director of China Pacific Insurance (Group) Co., Ltd., said Shanghai and Hong Kong should coordinate to establish a complementary reinsurance model of an offshore hub plus an onshore center. Shanghai will leverage its large domestic direct-insurance market and Lingang institutional innovations to accelerate an onshore reinsurance center; Hong Kong will serve as the offshore hub with a mature reinsurance ecosystem, international-aligned rules and cross-border service experience. He said integrating the two markets is a key step from one-way opening to two-way opening for China’s reinsurance sector, helping build independent risk-pricing capacity and strengthening the risk-resilience of Chinese firms’ global expansion.
+
+---
+
+### 2026-06-17 21:35:31  #公司
+
+SpaceX：將 X 平臺作為官方資訊披露渠道，不再依託傳統新聞通訊社釋出公告
+
+---
+
+### 2026-06-17 21:34:38  #公司
+
+【中國太保傅帆：滬港協同打造再保險“離岸樞紐+在岸中心”互補格局】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。中國太平洋保險（集團）股份有限公司董事長、執行董事傅帆表示，滬港協同築牢跨境風險保障，要打造再保險“離岸樞紐+在岸中心”的互補格局。上海立足境內龐大的直保市場和臨港製度創新，正加快建設在岸再保險中心。香港作為離岸再保險樞紐，再保生態成熟、制度規則與國際接軌、跨境服務經驗豐富。推動兩地再保險融合發展，是我國再保險市場從“單向開放”邁向“雙向開放”的關鍵路徑，有助於形成自主風險定價能力，增強中資企業全球化發展的抗風險能級。
+
+---
+
+### 2026-06-17 21:34:22  #其他
+
+美股盤初，主要行業ETF漲跌不一，半導體ETF漲近3%，全球科技股指數ETF、科技行業ETF漲超1%，醫療業ETF跌近1%。
 
 ---
 
@@ -18617,233 +18803,5 @@ Global Dairy Prices Fall Sharply in Mid-June — The Global Dairy Trade Price In
 ### 2026-06-16 23:26:22  #MKT News #Market Themes #The Trump Trade #LMT.O #Impact bullish #RTX.O
 
 A presidential memorandum shows Trump invoked the Defense Production Act, citing limited production capacity and fragile supply chains.
-
----
-
-### 2026-06-16 23:25:56  #國際
-
-特朗普在總統備忘錄中援引國防生產法時指出（彈藥工業）產能有限、供應鏈脆弱。
-
----
-
-### 2026-06-16 23:25:50  #MKT News #Market Themes #The Trump Trade
-
-A presidential memorandum shows President Trump has invoked the Defense Production Act to address "systemic constraints" in the ammunition industry.
-
----
-
-### 2026-06-16 23:25:27  #Trading Economics #Markets #Commodity #Importance 0
-
-Sugar Futures Hover Around $14 — Sugar futures in the US have been trading around 14 US cents since late May, as supportive fundamentals from ample global supply keep prices subdued despite climate risks. Also, the announcement of a preliminary agreement to end the Middle East conflict and reopen the Strait of Hormuz improved the outlook for agricultural commodities. According to the consulting firm Covrig Analytics, the closure of the Strait of Hormuz restricted approximately 6% of the world's sugar trade. Oil prices also fell sharply, making ethanol less competitive and potentially prompting mills to shift more sugarcane to sugar production. However, concerns over the impact of an emerging El Niño pattern on key producing regions of Brazil and India limited the downside. Meanwhile, consulting firm Czarnikow. now projects a deficit of 100,000 tons in the 2026/27 harvest, reversing its previous estimate of a surplus of 1.4 million tons.
-
----
-
-### 2026-06-16 23:25:04  #MKT News #XAUUSD #Impact bullish #DXY #GBPUSD #Impact bearish
-
-【Russian warship fires warning shot at UK yacht in English Channel】A Russian frigate fired a warning shot at a British-flagged yacht in the English Channel after a close-range encounter, the UK Coastguard said. The vessel, Admiral Grigorovich, part of Russia's Black Sea Fleet, has been operating near UK waters for weeks and was previously observed escorting shadow-fleet tankers and loitering near an offshore wind farm off Suffolk. Two Royal Navy River-class patrol vessels had been tracking the frigate in the Channel prior to the incident. The episode follows Prime Minister Starmer's order to deploy Royal Marines to board the shadow-fleet tanker Smyrtos on Sunday; the tanker is detained off England's south coast and some crew are under investigation for alleged sanctions breaches.
-
----
-
-### 2026-06-16 23:24:58  #國際
-
-特朗普簽署總統備忘錄，動用《國防生產法》應對彈藥工業的“系統性制約”。
-
----
-
-### 2026-06-16 23:23:23  #MKT News #Nasdaq100 #Impact bearish
-
-Nasdaq 100 futures losses widened to 1%.
-
----
-
-### 2026-06-16 23:23:00  #其他 #焦點
-
-納斯達克100指數跌幅擴大至1%。
-
----
-
-### 2026-06-16 23:21:33  #MKT News
-
-A British yacht reported that Russian naval vessels fired warning shots. The yacht reported no casualties or damage.
-
----
-
-### 2026-06-16 23:21:27  #其他
-
-英國國防部就英國遊艇稱遭到俄海軍艦艇鳴槍示警事件表態：涉事英國遊艇未上報人員受傷或船體受損情況。
-
----
-
-### 2026-06-16 23:20:19  #其他
-
-Spotify 表示應用故障已全部修復。
-
----
-
-### 2026-06-16 23:19:59  #MKT News #Important
-
-UK Ministry of Defence said it viewed the incident involving a Russian warship in the English Channel as an isolated event.
-
----
-
-### 2026-06-16 23:19:22  #公司 #觀點 #國際
-
-美國新墨西哥州調查人員就愛潑斯坦案向包括摩根大通與谷歌的二十四家企業傳送調查函件，要求調取相關資料。
-
----
-
-### 2026-06-16 23:16:50  #MKT News #Commodities #Energy
-
-Serbian President Aleksandar Vucic said US Treasury sanctions office OFAC may grant MOL and Gazprom an additional 15 days to complete the NIS refinery transaction.
-
----
-
-### 2026-06-16 23:16:30  #國際
-
-伊朗議長卡利巴夫：以色列必須從黎巴嫩撤軍。
-
----
-
-### 2026-06-16 23:16:14  #國際
-
-日本丸紅株式會社收購美國德克薩斯州天然氣生產商Eagle Ridge Energy II。
-
----
-
-### 2026-06-16 23:15:41  #觀點
-
-富國銀行投資研究所將摩根士丹利資本國際新興市場指數2026年年末目標區間從原先預測的1500-1700點上調至1700-1900點。
-
----
-
-### 2026-06-16 23:15:23  #MKT News
-
-Saudi-backed Riyadh Air approved to operate flights to the United States.
-
----
-
-### 2026-06-16 23:14:59  #MKT News
-
-New Zealand Global Dairy Trade price index to June 9: -2.8% (prior -0.6%).
-
----
-
-### 2026-06-16 23:14:55  #國際
-
-【委內瑞拉再次調整內閣人員】委內瑞拉代總統德爾西·羅德里格斯15日再次調整委內閣，宣佈內爾松·羅德里格斯出任生態部長。除生態部長外，委代總統還任命葆拉·波薩尼為住房部長。1月3日凌晨，美國對委內瑞拉發動大規模軍事打擊，強行控制委總統馬杜羅及其妻子並將他們帶到美國。這一軍事行動造成至少100人死亡。德爾西·羅德里格斯當月5日在委全國代表大會宣誓就任代總統。此後，她多次對委內閣進行調整。
-
----
-
-### 2026-06-16 23:14:50  #MKT News #Economic Calendar #Important
-
-New Zealand | Global Dairy Trade Price Index (MoM) (Jun.9) | actual -2.8% | previous -0.6%
-
----
-
-### 2026-06-16 23:14:39  #其他
-
-巴西全國穀物出口商協會（ANEC）預計，巴西6月豆粕出口量將達到224萬噸，低於此前預估的231萬噸。
-
----
-
-### 2026-06-16 23:14:37  #其他
-
-巴西全國穀物出口商協會（ANEC）預計，巴西6月大豆出口量將達到1531萬噸，高於前次預估的1438萬噸。
-
----
-
-### 2026-06-16 23:14:30  #國際
-
-美國運輸部：沙特支援的利雅得航空獲批運營美國航線。
-
----
-
-### 2026-06-16 23:14:11  #市場
-
-紐西蘭運營的全球乳製品貿易價格指數下跌2.8%，平均售價為每噸3979美元。
-
----
-
-### 2026-06-16 23:14:09  #MKT News #Important
-
-A sailor aboard a Russian frigate fired warning shots at a sailboat in the English Channel.
-
----
-
-### 2026-06-16 23:13:29  #國際
-
-俄羅斯一艘護衛艦水兵在英吉利海峽向一艘航行中的遊艇鳴槍示警。
-
----
-
-### 2026-06-16 23:12:58  #MKT News #S&P500 #Impact bullish
-
-Wells Fargo Investment Research raised its S&P 500 year-end 2026 target range to 7,800–8,000 from 7,400–7,600 and set a 2027 year-end target range of 8,600–8,800.
-
----
-
-### 2026-06-16 23:11:51  #其他
-
-富國銀行投資研究所將全球房地產板塊的評級從“中性”下調至“不利”。
-
----
-
-### 2026-06-16 23:10:44  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-Lebanese state media reported multiple Israeli strikes on southern Lebanon on Tuesday killed four people.
-
----
-
-### 2026-06-16 23:10:37  #其他
-
-【強降雨持續，防範“雨洗禾花”和漬澇風險】中央氣象臺最新預報，主雨帶6月17日前仍在華南地區，18日至25日將北抬。未來數日，東北、華北東部多陣雨或雷陣雨天氣，並伴有雷暴大風或冰雹等強對流天氣。目前仍處夏收夏種大忙時節，近期天氣對夏收夏種和作物生長會帶來哪些影響？如何防範“雨洗禾花”和漬澇風險？中央氣象臺農業氣象室高階工程師李禕君表示，連日來，華南強降水不斷，17日前仍將持續，18日起雨帶北抬，廣西、貴州至江南等地降雨持續時間長。這期間正值南方早稻抽穗揚花關鍵期，持續強降水極易誘發“雨洗禾花”災害。（新華社）
-
----
-
-### 2026-06-16 23:10:31  #MKT News
-
-【Baltic Dry Index extends decline】Baltic Dry Index (BDI) extended its decline as weak Capesize and Panamax rates weighed. BDI fell 50 pts, or 1.8%, to 2,670. Baltic Capesize Index (BCI) dropped 142 pts, or 3.5%, to 3,911; Capesize average daily earnings fell $1,285 to $31,968. Baltic Panamax Index (BPI) lost 25 pts, or 1.1%, to 2,266; Panamax average daily earnings fell $224 to $20,393. Baltic Supramax Index (BSI) rose 21 pts, or 1.3%, to 1,685. Baltic Handysize Index (BHSI) gained 5 pts to 910.
-
----
-
-### 2026-06-16 23:09:42  #國際
-
-黎巴嫩官方媒體表示，週二以色列對黎巴嫩南部發動的多起獨立襲擊造成四人死亡。
-
----
-
-### 2026-06-16 23:09:24  #市場
-
-富國銀行投資研究所將標普500指數2027年年末的目標區間設定為8600點至8800點。
-
----
-
-### 2026-06-16 23:09:16  #其他
-
-Coinbase即將推出代幣化股票交易。
-
----
-
-### 2026-06-16 23:09:09  #市場 #焦點
-
-富國銀行投資研究所將標普500指數2026年年末目標區間從7400-7600點上調至7800-8000點。
-
----
-
-### 2026-06-16 23:08:09  #其他
-
-Spotify表示已知曉其應用程式存在故障。
-
----
-
-### 2026-06-16 23:08:03  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #XAUUSD #Impact mixed #S&P500 #Impact bearish
-
-【U.S. May import prices post largest YoY gain in nearly four years】U.S. import price index rose 1.9% MoM in May, matching April, and climbed 6.7% YoY — the fastest pace in nearly four years, the Bureau of Labor Statistics said Tuesday. Import plastics, made from fossil-fuel byproducts and used as key inputs for many consumer goods, jumped 6.5% in May, one of the largest monthly increases on record. Imported computer equipment, peripherals and semiconductors rose 3.6%, the second-largest monthly gain since 1994. The imported air passenger-fares category, which feeds directly into the Fed’s preferred inflation gauge, also increased sharply. The report and recent data show the Iran war is weighing on the U.S. economy as inflationary pressure spreads beyond an initial oil shock; CPI and PPI have risen noticeably in recent months.
-
----
-
-### 2026-06-16 23:07:15  #市場 #焦點 #國際
-
-【布倫特原油期價跌破80美元】隨著市場持續受美國與伊朗談判進展等訊息影響，國際原油期貨價格16日繼續顯著下跌，倫敦布倫特原油期貨主力合約價格盤中跌破每桶80美元。截至美國東部時間16日上午9時20分，紐約商品交易所7月交貨的輕質原油期貨價格一度降至每桶76.88美元，跌幅達4.79%；8月交貨的倫敦布倫特原油期貨價格一度跌至每桶79.61美元，跌幅為4.28%。
 
 ---

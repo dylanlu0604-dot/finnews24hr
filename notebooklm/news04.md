@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 12:04:00_
-_本檔包含 3528 則快訊，約 653357 字_
+_更新時間：2026-06-21 13:50:55_
+_本檔包含 3525 則快訊，約 653614 字_
+
+---
+
+### 2026-06-16 23:25:56  #國際
+
+特朗普在總統備忘錄中援引國防生產法時指出（彈藥工業）產能有限、供應鏈脆弱。
+
+---
+
+### 2026-06-16 23:25:50  #MKT News #Market Themes #The Trump Trade
+
+A presidential memorandum shows President Trump has invoked the Defense Production Act to address "systemic constraints" in the ammunition industry.
+
+---
+
+### 2026-06-16 23:25:27  #Trading Economics #Markets #Commodity #Importance 0
+
+Sugar Futures Hover Around $14 — Sugar futures in the US have been trading around 14 US cents since late May, as supportive fundamentals from ample global supply keep prices subdued despite climate risks. Also, the announcement of a preliminary agreement to end the Middle East conflict and reopen the Strait of Hormuz improved the outlook for agricultural commodities. According to the consulting firm Covrig Analytics, the closure of the Strait of Hormuz restricted approximately 6% of the world's sugar trade. Oil prices also fell sharply, making ethanol less competitive and potentially prompting mills to shift more sugarcane to sugar production. However, concerns over the impact of an emerging El Niño pattern on key producing regions of Brazil and India limited the downside. Meanwhile, consulting firm Czarnikow. now projects a deficit of 100,000 tons in the 2026/27 harvest, reversing its previous estimate of a surplus of 1.4 million tons.
+
+---
+
+### 2026-06-16 23:25:04  #MKT News #XAUUSD #Impact bullish #DXY #GBPUSD #Impact bearish
+
+【Russian warship fires warning shot at UK yacht in English Channel】A Russian frigate fired a warning shot at a British-flagged yacht in the English Channel after a close-range encounter, the UK Coastguard said. The vessel, Admiral Grigorovich, part of Russia's Black Sea Fleet, has been operating near UK waters for weeks and was previously observed escorting shadow-fleet tankers and loitering near an offshore wind farm off Suffolk. Two Royal Navy River-class patrol vessels had been tracking the frigate in the Channel prior to the incident. The episode follows Prime Minister Starmer's order to deploy Royal Marines to board the shadow-fleet tanker Smyrtos on Sunday; the tanker is detained off England's south coast and some crew are under investigation for alleged sanctions breaches.
+
+---
+
+### 2026-06-16 23:24:58  #國際
+
+特朗普簽署總統備忘錄，動用《國防生產法》應對彈藥工業的“系統性制約”。
+
+---
+
+### 2026-06-16 23:23:23  #MKT News #Nasdaq100 #Impact bearish
+
+Nasdaq 100 futures losses widened to 1%.
+
+---
+
+### 2026-06-16 23:23:00  #其他 #焦點
+
+納斯達克100指數跌幅擴大至1%。
+
+---
+
+### 2026-06-16 23:21:33  #MKT News
+
+A British yacht reported that Russian naval vessels fired warning shots. The yacht reported no casualties or damage.
+
+---
+
+### 2026-06-16 23:21:27  #其他
+
+英國國防部就英國遊艇稱遭到俄海軍艦艇鳴槍示警事件表態：涉事英國遊艇未上報人員受傷或船體受損情況。
+
+---
+
+### 2026-06-16 23:20:19  #其他
+
+Spotify 表示應用故障已全部修復。
+
+---
+
+### 2026-06-16 23:19:59  #MKT News #Important
+
+UK Ministry of Defence said it viewed the incident involving a Russian warship in the English Channel as an isolated event.
+
+---
+
+### 2026-06-16 23:19:22  #公司 #觀點 #國際
+
+美國新墨西哥州調查人員就愛潑斯坦案向包括摩根大通與谷歌的二十四家企業傳送調查函件，要求調取相關資料。
+
+---
+
+### 2026-06-16 23:16:50  #MKT News #Commodities #Energy
+
+Serbian President Aleksandar Vucic said US Treasury sanctions office OFAC may grant MOL and Gazprom an additional 15 days to complete the NIS refinery transaction.
+
+---
+
+### 2026-06-16 23:16:30  #國際
+
+伊朗議長卡利巴夫：以色列必須從黎巴嫩撤軍。
+
+---
+
+### 2026-06-16 23:16:14  #國際
+
+日本丸紅株式會社收購美國德克薩斯州天然氣生產商Eagle Ridge Energy II。
+
+---
+
+### 2026-06-16 23:15:41  #觀點
+
+富國銀行投資研究所將摩根士丹利資本國際新興市場指數2026年年末目標區間從原先預測的1500-1700點上調至1700-1900點。
+
+---
+
+### 2026-06-16 23:15:23  #MKT News
+
+Saudi-backed Riyadh Air approved to operate flights to the United States.
+
+---
+
+### 2026-06-16 23:14:59  #MKT News
+
+New Zealand Global Dairy Trade price index to June 9: -2.8% (prior -0.6%).
+
+---
+
+### 2026-06-16 23:14:55  #國際
+
+【委內瑞拉再次調整內閣人員】委內瑞拉代總統德爾西·羅德里格斯15日再次調整委內閣，宣佈內爾松·羅德里格斯出任生態部長。除生態部長外，委代總統還任命葆拉·波薩尼為住房部長。1月3日凌晨，美國對委內瑞拉發動大規模軍事打擊，強行控制委總統馬杜羅及其妻子並將他們帶到美國。這一軍事行動造成至少100人死亡。德爾西·羅德里格斯當月5日在委全國代表大會宣誓就任代總統。此後，她多次對委內閣進行調整。
+
+---
+
+### 2026-06-16 23:14:50  #MKT News #Economic Calendar #Important
+
+New Zealand | Global Dairy Trade Price Index (MoM) (Jun.9) | actual -2.8% | previous -0.6%
+
+---
+
+### 2026-06-16 23:14:39  #其他
+
+巴西全國穀物出口商協會（ANEC）預計，巴西6月豆粕出口量將達到224萬噸，低於此前預估的231萬噸。
+
+---
+
+### 2026-06-16 23:14:37  #其他
+
+巴西全國穀物出口商協會（ANEC）預計，巴西6月大豆出口量將達到1531萬噸，高於前次預估的1438萬噸。
+
+---
+
+### 2026-06-16 23:14:30  #國際
+
+美國運輸部：沙特支援的利雅得航空獲批運營美國航線。
+
+---
+
+### 2026-06-16 23:14:11  #市場
+
+紐西蘭運營的全球乳製品貿易價格指數下跌2.8%，平均售價為每噸3979美元。
+
+---
+
+### 2026-06-16 23:14:09  #MKT News #Important
+
+A sailor aboard a Russian frigate fired warning shots at a sailboat in the English Channel.
+
+---
+
+### 2026-06-16 23:13:29  #國際
+
+俄羅斯一艘護衛艦水兵在英吉利海峽向一艘航行中的遊艇鳴槍示警。
+
+---
+
+### 2026-06-16 23:12:58  #MKT News #S&P500 #Impact bullish
+
+Wells Fargo Investment Research raised its S&P 500 year-end 2026 target range to 7,800–8,000 from 7,400–7,600 and set a 2027 year-end target range of 8,600–8,800.
+
+---
+
+### 2026-06-16 23:11:51  #其他
+
+富國銀行投資研究所將全球房地產板塊的評級從“中性”下調至“不利”。
+
+---
+
+### 2026-06-16 23:10:44  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+Lebanese state media reported multiple Israeli strikes on southern Lebanon on Tuesday killed four people.
+
+---
+
+### 2026-06-16 23:10:37  #其他
+
+【強降雨持續，防範“雨洗禾花”和漬澇風險】中央氣象臺最新預報，主雨帶6月17日前仍在華南地區，18日至25日將北抬。未來數日，東北、華北東部多陣雨或雷陣雨天氣，並伴有雷暴大風或冰雹等強對流天氣。目前仍處夏收夏種大忙時節，近期天氣對夏收夏種和作物生長會帶來哪些影響？如何防範“雨洗禾花”和漬澇風險？中央氣象臺農業氣象室高階工程師李禕君表示，連日來，華南強降水不斷，17日前仍將持續，18日起雨帶北抬，廣西、貴州至江南等地降雨持續時間長。這期間正值南方早稻抽穗揚花關鍵期，持續強降水極易誘發“雨洗禾花”災害。（新華社）
+
+---
+
+### 2026-06-16 23:10:31  #MKT News
+
+【Baltic Dry Index extends decline】Baltic Dry Index (BDI) extended its decline as weak Capesize and Panamax rates weighed. BDI fell 50 pts, or 1.8%, to 2,670. Baltic Capesize Index (BCI) dropped 142 pts, or 3.5%, to 3,911; Capesize average daily earnings fell $1,285 to $31,968. Baltic Panamax Index (BPI) lost 25 pts, or 1.1%, to 2,266; Panamax average daily earnings fell $224 to $20,393. Baltic Supramax Index (BSI) rose 21 pts, or 1.3%, to 1,685. Baltic Handysize Index (BHSI) gained 5 pts to 910.
+
+---
+
+### 2026-06-16 23:09:42  #國際
+
+黎巴嫩官方媒體表示，週二以色列對黎巴嫩南部發動的多起獨立襲擊造成四人死亡。
+
+---
+
+### 2026-06-16 23:09:24  #市場
+
+富國銀行投資研究所將標普500指數2027年年末的目標區間設定為8600點至8800點。
+
+---
+
+### 2026-06-16 23:09:16  #其他
+
+Coinbase即將推出代幣化股票交易。
+
+---
+
+### 2026-06-16 23:09:09  #市場 #焦點
+
+富國銀行投資研究所將標普500指數2026年年末目標區間從7400-7600點上調至7800-8000點。
+
+---
+
+### 2026-06-16 23:08:09  #其他
+
+Spotify表示已知曉其應用程式存在故障。
+
+---
+
+### 2026-06-16 23:08:03  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #XAUUSD #Impact mixed #S&P500 #Impact bearish
+
+【U.S. May import prices post largest YoY gain in nearly four years】U.S. import price index rose 1.9% MoM in May, matching April, and climbed 6.7% YoY — the fastest pace in nearly four years, the Bureau of Labor Statistics said Tuesday. Import plastics, made from fossil-fuel byproducts and used as key inputs for many consumer goods, jumped 6.5% in May, one of the largest monthly increases on record. Imported computer equipment, peripherals and semiconductors rose 3.6%, the second-largest monthly gain since 1994. The imported air passenger-fares category, which feeds directly into the Fed’s preferred inflation gauge, also increased sharply. The report and recent data show the Iran war is weighing on the U.S. economy as inflationary pressure spreads beyond an initial oil shock; CPI and PPI have risen noticeably in recent months.
+
+---
+
+### 2026-06-16 23:07:15  #市場 #焦點 #國際
+
+【布倫特原油期價跌破80美元】隨著市場持續受美國與伊朗談判進展等訊息影響，國際原油期貨價格16日繼續顯著下跌，倫敦布倫特原油期貨主力合約價格盤中跌破每桶80美元。截至美國東部時間16日上午9時20分，紐約商品交易所7月交貨的輕質原油期貨價格一度降至每桶76.88美元，跌幅達4.79%；8月交貨的倫敦布倫特原油期貨價格一度跌至每桶79.61美元，跌幅為4.28%。
 
 ---
 
@@ -21023,251 +21251,5 @@ POLISH CENTRAL BANK member KOTECKI said it is premature to signal a rate cut now
 ### 2026-06-15 21:11:30  #MKT News #NVO.O #CNH
 
 【Novo Nordisk to add 200 million yuan to Tianjin manufacturing base】June 15 — Novo Nordisk said its global executive team, on a China visit, will invest 200 million yuan to expand assembly capacity for 1.5ml injection pens at its strategic manufacturing base in Tianjin. The project is expected to materially increase production capacity and supply efficiency for related high-quality products. Novo Nordisk has invested over 17 billion yuan in China since 2003.
-
----
-
-### 2026-06-15 21:11:27  #MKT News
-
-Polish central bank member Kotecki said the MPC's inclination to raise rates is lower than a month ago.
-
----
-
-### 2026-06-15 21:11:08  #MKT News #GOOG.O #Impact bullish
-
-India's Andhra Pradesh will set up a joint working group with Google (GOOG.O) to cooperate across multiple key areas, the statement said. The state government is seeking a partnership with Google to advance digital governance and AI-driven public services.
-
----
-
-### 2026-06-15 21:11:03  #其他
-
-【諾和諾德在其天津戰略生產基地追加投資2億元】6月15日訊息，諾和諾德全球高管團隊一行訪華期間，宣佈將在其位於天津的戰略生產基地追加投資2億元人民幣，提升1.5ml暢充®注射筆組裝生產能力。專案建成後，將顯著提升相關高質量產品的產能與供應效率。自2003年至今，諾和諾德在中國累計投資超過170億元人民幣。
-
----
-
-### 2026-06-15 21:10:43  #觀點
-
-【摩根士丹利：AI融資與能源融資正在合流 “電力+算力”時代來臨】摩根士丹利最新發布的研究報告指出，隨著電力成為AI擴張的關鍵瓶頸，AI融資與能源融資之間的邊界正在迅速模糊。電力裝置交付、併網積壓、勞動力和水資源短缺，正在重塑資料中心建設邏輯。大摩指出，掌握穩定算力資源的企業或獲得更強定價權。
-
----
-
-### 2026-06-15 21:10:37  #市場
-
-奈及利亞5月消費者物價同比上漲15.93%；預計+16.2%。
-
----
-
-### 2026-06-15 21:09:35  #其他
-
-【百時美施貴寶：頌狄多®（氘可來昔替尼片）銀屑病關節炎適應症中國獲批】百時美施貴寶中國6月15日宣佈，全球首個酪氨酸激酶2（TYK2）變構抑制劑頌狄多®（氘可來昔替尼片）獲得國家藥品監督管理局批准，適用於對於既往改善病情抗風溼藥（DMARD）應答不佳或不耐受的活動性銀屑病關節炎（PsA）成人患者。本品可單獨使用或與甲氨蝶呤（MTX）聯用。這也使得頌狄多成為目前國內唯一批准可同時用於治療中重度斑塊狀銀屑病及活動性銀屑病關節炎的小分子口服靶向治療藥物。
-
----
-
-### 2026-06-15 21:09:00  #公司
-
-安得拉邦與谷歌將組建聯合工作組，推動關鍵領域合作。
-
----
-
-### 2026-06-15 21:07:41  #焦點 #國際
-
-美國總統特朗普：船隻開始從霍爾木茲海峽出發。其中許多裝載著石油。它們正沿著南部“航道”航行，該航線完全安全、可靠且暢通無阻。其他航行區域同樣可供通行。
-
----
-
-### 2026-06-15 21:07:36  #其他
-
-【國鐵南寧局臨時停運部分列車應對強降雨】記者從國鐵南寧局獲悉，受高空槽、切變線共同影響，廣西近期將出現持續性強降雨、強對流天氣。為保障鐵路運輸秩序和旅客出行安全，國鐵南寧局經防洪會商機制研判，自6月15日0時起，在湘桂線江西村至國境、南憑高鐵、邕北線、欽防線、黎欽線、南防線、欽北線、防東鐵路、防城港企沙線、欽港線、欽州港東線路段啟動防洪Ⅳ級應急響應，對途經上述路段的部分旅客列車採取臨時停運措施，做到防範在前、主動避險。針對本輪持續強降雨、強對流天氣的嚴峻形勢，國鐵南寧局採取調整徑路、降速執行、減開列車等主動避險措施，確保旅客列車安全。6月14日至17日，臨時停運湛江始發K1234/1次、深圳東始發K1232/3次、上海松江始發T81次、南京始發K1191次、昆明始發K1206/7次、三亞始發K458次、北京西始發K157次等跨省直通旅客列車，以及南寧始發K9312/3次、博白始發K9324/1次、靖西始發K9306次等旅客列車。為確保強降雨天氣期間鐵路運輸安全，國鐵南寧局統籌各專業、各單位力量，提前部署、前置防範，全方位織密鐵路防洪安全網。各鐵路車站從嚴排查整治站內水澇、水淹道床等安全隱患；貨運部門加快怕溼貨物搶卸、轉運工作，嚴格規範大風天氣下貨物裝卸作業流程；供電、工程建設等單位同步開展全線隱患排查，加固各類施工機具與物料，嚴防暴雨、大風引發次生安全事故。（新華社）
-
----
-
-### 2026-06-15 21:07:27  #MKT News #Important #WTI #Impact bearish #Brent
-
-President Trump said vessels have begun departing the Strait of Hormuz, many carrying oil, and are transiting a southern "route" he described as completely safe, reliable and unobstructed; other navigation areas are also available.
-
----
-
-### 2026-06-15 21:07:16  #其他
-
-【我國造船訂單排到2030年 鋼材用量大幅攀升】在江蘇南通一家大型船舶製造企業，船塢內多個船舶建造專案正在同步批次進行。“船舶建造訂單已經排到2030年，船型也由傳統的散貨船轉變成現在的大型VLCC（超大型油船）和22000箱集裝箱船。”江蘇某船舶製造企業副總經理衛軍說。企業滿負荷運轉，產能趨於飽和，鋼材用量也隨之大幅攀升。周邊幾家配套鋼廠的訂單同樣排滿，部分高階規格的鋼板已呈現供不應求的態勢。（新華社）
-
----
-
-### 2026-06-15 21:07:08  #國際
-
-特朗普稱：霍爾木茲海峽南側航道完全安全、局勢穩定。
-
----
-
-### 2026-06-15 21:06:52  #國際
-
-特朗普：運載石油的船隻開始駛離霍爾木茲海峽。
-
----
-
-### 2026-06-15 21:06:28  #MKT News
-
-Amazon Web Services deepens strategic partnership with quantum computing firm QuEra to bring fault-tolerant quantum computing to Amazon Braket.
-
----
-
-### 2026-06-15 21:06:22  #央行 #市場
-
-【巴克萊：支撐黃金價格的長期結構性因素依然穩固】英國巴克萊銀行（Barclays）跨資產研究團隊指出，儘管國際金價在衝突升級期間一度出現回落，但支撐黃金資產的長期結構性驅動因素依然穩固。報告分析稱，導致前期金價遭受重創的主要原因在於三項短期利空因素的疊加：一是美元指數（DXY）近期走勢強勁；二是美股等風險資產持續走高對避險資金形成分流，其中標準普爾500指數大幅上漲10%，直接引致黃金市場約10%的計價回撤；三是前期黃金多頭倉位過度擁擠，在市場情緒逆轉時觸發了槓桿資金的加速離場。巴克萊銀行強調，上述打壓金價的宏觀因素均屬“暫時性擾動”，國際金價目前已基本回落至由真實利率隱含的合理區間，接近該行測算的每金衡盎司4150美元的公允價值平衡點。從長期來看，全球持續面臨的結構性通脹壓力、貨幣政策不確定性以及多國央行推進儲備資產多元化的戰略需求並未改變。報告指出，隨著市場短期擾動因素減弱，國際金價有望迎來反彈，現階段是投資者加倉黃金板塊供應鏈核心股票的戰略視窗期。
-
----
-
-### 2026-06-15 21:05:44  #MKT News #Market Regions #Emerging Markets
-
-IMF completes third review of the Republic of Serbia; all reform targets met on schedule.
-
----
-
-### 2026-06-15 21:05:36  #其他
-
-AWS：AWS深化與QuEra的戰略合作，將容錯量子計算引入Amazon Braket。
-
----
-
-### 2026-06-15 21:05:11  #其他
-
-國際貨幣基金組織：所有改革目標均按計劃完成。
-
----
-
-### 2026-06-15 21:05:05  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #US10Y #S&P500
-
-US May industrial production MoM due in 10 minutes.
-
----
-
-### 2026-06-15 21:04:53  #公司
-
-沙特資本市場管理局（CMA）批准利雅得銀行債務融資計劃的公開發行。
-
----
-
-### 2026-06-15 21:04:47  #公司 #央行 #國際
-
-【分析：美聯儲即將作出的決定對加密貨幣至關重要】IG分析師Chris Beauchamp在一份報告中表示，美聯儲週三的政策決定將對加密貨幣至關重要。他表示，臨時的美伊和平協議和較低的油價改變了凱文·沃什作為美聯儲新任主席首次會議的局面。“他現在可以在會議上提出，能源成本上升的衝擊將繼續消退，從而支援他降息的理由。“他表示，即使今年看來仍不太可能降息，這也將為加密貨幣在近期拋售之後提供急需的喘息機會。倫敦證券交易所集團的資料顯示，比特幣升至12天高點66,463美元，此前曾在6月5日觸及20個月低點59,125美元。
-
----
-
-### 2026-06-15 21:04:14  #其他
-
-國際貨幣基金組織完成對塞爾維亞共和國的第三次審查。
-
----
-
-### 2026-06-15 21:04:14  #MKT News
-
-Saudi Arabia's CMA approved Riyad Bank's public issuance under its debt financing program.
-
----
-
-### 2026-06-15 21:01:39  #國際
-
-伊朗外交部發言人巴加埃：國際原子能機構必須改進其行為，以便在伊朗核相關問題上發揮建設性作用。
-
----
-
-### 2026-06-15 21:01:14  #公司
-
-【興發集團：電池級五硫化二磷專案當前已接受多家下游客戶詢價】興發集團今日在互動平臺表示，公司1萬噸/年電池級五硫化二磷專案按計劃將於2026年三季度投產，當前已接受包括多家新能源企業在內的下游客戶詢價。公司已完成10kg級電池級硫化鋰產品的小試研發，目前已進入擴試階段。
-
----
-
-### 2026-06-15 21:00:57  #MKT News #Market Regions #Europe & UK
-
-【EU to provide France €15.1 bln defence loan under European Commission SAFE scheme】The EU and France will sign a €15.1 billion defence loan agreement on Wednesday, according to people familiar with the matter. The loan is part of the European Commission's SAFE loan programme, which aims to mobilize €150 billion to accelerate intra-EU defence spending and joint procurement. The Commission is finalizing agreements with member states; the first disbursement has already gone to Poland, one of the programme's largest beneficiaries.
-
----
-
-### 2026-06-15 21:00:52  #MKT News
-
-Of 23 analysts surveyed by Refinitiv, 18 expect the RUSSIAN CENBANK to cut the key rate by 50 bps to 14% at its June 19 meeting.
-
----
-
-### 2026-06-15 21:00:41  #其他
-
-WIX與微軟365 Copilot達成合作。
-
----
-
-### 2026-06-15 21:00:36  #公司
-
-【中超控股：更新2023年度向特定物件發行股票申請檔案】中超控股公告稱，公司於2025年11月11日收到深交所稽核問詢函，會同中介機構對問詢函問題進行回覆，並更新募集說明書等申請檔案。鑑於2025年三季報和年報披露，公司對申請檔案相關內容進行同步更新。本次向特定物件發行股票尚需深交所稽核透過，並獲中國證監會同意註冊，最終能否透過稽核及時間存在不確定性。
-
----
-
-### 2026-06-15 21:00:34  #市場 #焦點
-
-瀝青連續主力合約日內跌3%，現報4159.00元。
-
----
-
-### 2026-06-15 21:00:28  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #WIX.O
-
-Wix partners with Microsoft 365 Copilot.
-
----
-
-### 2026-06-15 21:00:23  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bullish #WTI #Impact bearish
-
-At the open of China’s night session, most-active domestic futures were mixed. SHFE silver rose more than 4%; SHFE gold and tin gained over 2%. On the downside, fuel oil, methanol, propylene, asphalt, PTA and ethylene glycol fell more than 2%; bottle‑grade PET chips and SC crude were down around 2%.
-
----
-
-### 2026-06-15 21:00:14  #市場 #焦點
-
-白銀連續主力合約日內漲4%，現報17103.00元。
-
----
-
-### 2026-06-15 21:00:07  #市場 #焦點
-
-焦煤連續主力合約日內跌1%，現報1343.00元。
-
----
-
-### 2026-06-15 21:00:05  #MKT News
-
-Iranian foreign ministry spokesman BAGHAEI said the IAEA must improve its conduct to play a constructive role on Iran's nuclear-related issues.
-
----
-
-### 2026-06-15 21:00:04  #市場 #焦點
-
-PTA連續主力合約日內跌2%，現報5906.00元。
-
----
-
-### 2026-06-15 21:00:04  #市場 #焦點
-
-甲醇連續主力合約日內跌3%，現報2751.00元。
-
----
-
-### 2026-06-15 21:00:04  #市場 #焦點
-
-白銀連續主力合約日內漲3%，現報17092.00元。
-
----
-
-### 2026-06-15 21:00:02  #市場
-
-【國內期貨夜盤開盤】白銀連續漲4.01%，甲醇連續跌3.48%，燃料油連續跌2.84%，丙烯連續跌2.82%，PTA連續跌2.74%。
-
----
-
-### 2026-06-15 20:59:56  #公司 #國際
-
-【馬克龍：歐洲多國準備好參與霍爾木茲海峽護航】法國總統馬克龍15日表示，歐洲多國已做好準備參與霍爾木茲海峽護航行動。馬克龍當天在法國埃維昂萊班接受法國電視一臺採訪時說，如果未來幾天的局勢良好，法國和英國軍隊將一同部署到霍爾木茲海峽，法國“戴高樂”號航空母艦兩到三天內即可抵達該區域。義大利、荷蘭等國也已準備好參與行動。馬克龍說，七國集團將在16日就伊朗問題舉行會議，以努力確保美國和伊朗諒解備忘錄的落實。馬克龍當天在社交媒體上發文表示，呼籲各方迅速、全面落實諒解備忘錄，確保霍爾木茲海峽能夠儘快且無條件地重新開放。七國集團峰會於15日至17日在埃維昂萊班舉行。
-
----
-
-### 2026-06-15 20:58:57  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-The EU and France will sign a €15 billion defense loan agreement on Wednesday.
 
 ---

@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 12:04:00_
-_本檔包含 3532 則快訊，約 653196 字_
+_更新時間：2026-06-21 13:50:55_
+_本檔包含 3530 則快訊，約 653401 字_
+
+---
+
+### 2026-06-18 19:56:32  #MKT News #PFE.N #Impact bearish
+
+Pfizer shares fell 1.4% in premarket trading after the company said Chief Financial Officer Dave Denton will resign.
+
+---
+
+### 2026-06-18 19:56:24  #央行 #其他
+
+巴西財長：不能以授予央行自主權為藉口篡改公共會計賬目。
+
+---
+
+### 2026-06-18 19:56:08  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell 2.00% intraday to $66.57/oz.
+
+---
+
+### 2026-06-18 19:55:24  #市場
+
+輝瑞股價盤前下跌1.4%，首席財務官戴夫·丹頓將卸任。
+
+---
+
+### 2026-06-18 19:55:00  #國際
+
+普京：俄羅斯將繼續向東盟國家供應糧食與能源。
+
+---
+
+### 2026-06-18 19:54:41  #公司
+
+【*ST天喻：再次延期至6月26日前回復深交所2025年報問詢函】*ST天喻公告稱，公司於2026年4月27日收到深交所創業板公司管理部下發的年報問詢函，原要求5月21日前回復，因部分問題尚需核實，曾延期至6月18日前回復。截至公告披露日，回覆內容尚需補充完善，經申請，本次問詢函將延期至6月26日前完成回覆並披露。
+
+---
+
+### 2026-06-18 19:54:27  #其他
+
+巴林證券交易所將於6月25日至28日因節日休市。
+
+---
+
+### 2026-06-18 19:54:25  #MKT News
+
+Bahrain Bourse will be closed June 25-28 for a public holiday.
+
+---
+
+### 2026-06-18 19:53:43  #其他
+
+瑞銀將傑富瑞目標股價從59美元上調至67美元。
+
+---
+
+### 2026-06-18 19:53:14  #公司
+
+【秋田微：特定股東及董監高擬減持不超1.48%股份】秋田微公告稱，特定股東金信聯合、春華賦、秋實賦、穀雨賦，及副總經理王亞彬、職工代表董事張鳳等董監高，計劃於2026年7月13日至10月12日，以集中競價或大宗交易方式，減持不超178.03萬股，佔公司總股本比例1.48%。本次減持計劃實施存在不確定性，不會導致公司控制權變更，也不會影響公司治理、股權結構及持續經營。
+
+---
+
+### 2026-06-18 19:52:45  #國際
+
+普京：俄羅斯與東盟國家計劃繼續開展合作。
+
+---
+
+### 2026-06-18 19:52:38  #公司 #市場
+
+【深交所：本週共對149起證券異常交易行為採取自律監管措施】深交所公告，6月15日至6月18日，深交所共對149起證券異常交易行為採取了自律監管措施，涉及盤中拉抬打壓、虛假申報等異常交易情形；共對5起上市公司重大事項進行核查，並上報證監會4起涉嫌違法違規案件線索。
+
+---
+
+### 2026-06-18 19:52:33  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100
+
+【Premier Miton fund says Bank of England may skip further hikes this year】Emma Mogford of Premier Miton Monthly Income Fund said after the Bank of England held rates at 3.75% on Thursday that the Bank may not need to raise rates again this year. She said price rises later in the year from the Iran war could be offset by weaker demand, and wage growth is likely to remain modest given a relatively soft labour market. The rate decision passed 7-2, with two members preferring a 25bp hike.
+
+---
+
+### 2026-06-18 19:52:10  #國際
+
+歐洲北約盟國正加緊彌補美國宣佈削減、部署於歐洲的部分空中及海軍裝備所留下的缺口。
+
+---
+
+### 2026-06-18 19:50:59  #MKT News
+
+【Schroder Investment: Bank of England's rate‑hike threshold remains high】Schroder Investment senior economist George Brown said the Bank of England is buying time by keeping the policy rate unchanged and that the threshold for further hikes remains high. He said a weak labour market and tepid growth should limit second‑round effects from energy price spikes and that a preliminary deal to reopen the Strait of Hormuz should reduce some extreme upside energy risk, but warned the BoE could still be forced to act if inflation expectations continue to rise.
+
+---
+
+### 2026-06-18 19:50:57  #其他
+
+莫斯科市長表示，煉油廠火情已基本得到控制。
+
+---
+
+### 2026-06-18 19:50:52  #MKT News
+
+Moscow mayor says refinery fire is largely under control.
+
+---
+
+### 2026-06-18 19:50:35  #市場
+
+鈀金期貨日內跌6%，現報1281.56美元/盎司。
+
+---
+
+### 2026-06-18 19:49:40  #MKT News #Market Regions #Greater China #SZSE Component #CSI300
+
+Shenzhen Stock Exchange said it took self-regulatory enforcement measures this week against 149 instances of abnormal trading behavior, primarily intraday price manipulation (pumping and suppression) and false orders. It opened probes into five material matters at listed companies and referred four suspected illegal or regulatory-violating cases to the CSRC.
+
+---
+
+### 2026-06-18 19:49:40  #央行 #宏觀 #焦點
+
+【6月18日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平給新華社老黨員張連生回信強調 傳承紅色基因 在新徵程上書寫優異答卷； 2.以習近平黨建思想為指引 奮力譜寫中國式現代化新篇章； 3.中央黨的建設工作領導小組印發《關於學習貫徹習近平黨建思想的通知》； 4.人民日報評論員文章：為發展馬克思主義建黨學說作出重大原創性貢獻——論學習貫徹習近平黨建思想； 5.韓正會見加拿大、丹麥客人； 6.加快下達“兩新”專案資金 持續釋放政策效能； 7.“在高質量發展中保障和改善民生”形勢政策系列報告會首場報告會在北京舉行； 8.【黨旗在基層一線高高飄揚】林丹：一輩子做好居民的服務員； 9.國務院新聞辦舉行“新徵程上的奮鬥者”中外記者見面會； 10.中國戲劇家協會 中國民間文藝家協會 中國書法家協會選舉產生新一屆領導機構； 11.全國鐵路端午假期運輸今天啟動； 12.端午臨近 節日市場供應豐富； 13.總檯推出特別節目 陪您共度端午假期； 14.國內聯播快訊： （1）兩部門緊急預撥1億元中央自然災害救災資金； （2）海南自貿港全島封關半年 政策紅利持續釋放； （3）前5個月西部陸海新通道進出口規模創歷史新高； （4）我國首個重點工業產品碳足跡資料庫上線； （5）廣西大藤峽水利樞紐工程透過竣工驗收； （6）“國聘行動·北京行”高校畢業生就業服務專場活動啟動； （7）2026年度電影票房超165億元； （8）2026中國品牌論壇在雄安舉行； 15.美國總統和伊朗總統遠端簽署諒解備忘錄 正式文字公佈 巴基斯坦總理宣佈美伊諒解備忘錄立即生效； 16.國際聯播快訊： （1）俄稱俄軍在頓涅茨克取得重要進展； （2）巴勒斯坦強烈譴責以色列擴建定居點； （3）七國集團峰會閉幕 再次未發聯合公報； （4）美聯儲今年連續第四次宣佈維持利率不變。
+
+---
+
+### 2026-06-18 19:49:12  #MKT News #Macro & Rates #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
+
+【ING expects Swiss National Bank to keep policy rate at 0% for at least two years】ING strategist Charlotte de Montpellier said the SNB’s decision to hold rates confirms it is in a relatively comfortable position versus most peers. She expects inflation to remain within the SNB’s target range, with deflation fears eased and limited risk of a sharp rebound. The SNB’s readiness to intervene in FX is aimed at countering franc appreciation, not fighting inflation, implying a steady monetary stance and a 0% policy rate for at least the next two years.
+
+---
+
+### 2026-06-18 19:49:08  #央行 #其他
+
+【施羅德投資：英國央行加息門檻依然很高】施羅德投資的George Brown表示，在維持基準利率不變的情況下，英國央行目前是在爭取時間，其加息門檻“依然很高“。這位高階經濟學家說，疲軟的勞動力市場和微弱的經濟增長應該會限制能源價格飆升帶來的第二輪效應。他表示，重新開放霍爾木茲海峽的初步協議也應會降低能源價格面臨的一些更極端的上行風險。然而，英國央行不能掉以輕心。Brown說：“如果通脹預期繼續走高，它可能仍會被迫採取行動。”
+
+---
+
+### 2026-06-18 19:48:50  #公司
+
+【晶豐明源：首次出售40.40萬股已回購股份 成交金額8670.56萬元】晶豐明源公告稱，公司於2026年6月18日透過集中競價交易方式首次出售已回購股份404,031股，佔公司當前總股本的0.20%，成交金額為86,705,623.58元，成交最高價為219.80元/股，最低價為208.65元/股，成交均價為214.60元/股。本次出售符合公司已披露的出售計劃。截至公告披露日，出售已回購股份計劃實施完畢，回購專用證券賬戶當前持股509,549股，持股比例0.25%。
+
+---
+
+### 2026-06-18 19:48:33  #公司
+
+【四川成渝：擬募資31.8億元用於高速擴容及償債】四川成渝公告稱，本次向特定物件發行A股股票，募集資金總額調減至不超過31.8億元。扣除發行費用後，淨額擬用於G5京昆高速公路成都至雅安段擴容工程專案和償還有息債務，金額分別為23億元、8.8億元。專案建成後，將提升通行能力和服務水平，發揮路網效益。本次發行將提升公司核心業務競爭力和發展潛力，最佳化資本結構，降低財務風險。
+
+---
+
+### 2026-06-18 19:48:24  #公司
+
+【四川成渝：擬變更公司名稱為四川成渝高速公路集團股份有限公司】四川成渝公告稱，公司於2026年6月18日召開董事會，審議透過變更公司名稱及修訂《公司章程》的議案，擬將中文名稱變更為“四川成渝高速公路集團股份有限公司”，英文名稱變更為“SICHUAN EXPRESSWAY GROUP COMPANY LIMITED”，A股及H股證券簡稱及證券程式碼不變。變更原因是為適應業務發展和集團化管控需要。本次變更尚需股東會審議，以工商登記機關核准內容為準。
+
+---
+
+### 2026-06-18 19:47:56  #公司 #國際
+
+印度總理莫迪：與Alstom執行長Martin Sion進行了富有成效的會談。Alstom在印度已佈局深厚。該企業看好印度的發展前景，積極推進印度本土製造、面向全球供貨，此舉值得肯定。未來，相關發展機遇還將持續拓寬。印度歡迎全球各國攜手本國青年開展合作。
+
+---
+
+### 2026-06-18 19:47:28  #MKT News #Market Themes #AI Revolution
+
+MODI said India is committed to developing AI solutions that empower people while promoting innovation, trust and international cooperation.
+
+---
+
+### 2026-06-18 19:47:22  #MKT News #ALO.PA #Impact bullish
+
+MODI said he held productive talks with Alstom CEO Martin Sion, that Alstom has a strong presence in India and that future opportunities will improve.
+
+---
+
+### 2026-06-18 19:46:55  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Rebound — Futures tracking US equities rebounded on Thursday to erase yesterday's loss as chip producers extended their rally and markets reconsidered risks of a rate cut by the Federal Reserve. Contracts for the S&P 500 were 1% higher, while those for the Nasdaq 100 gained 2% and the Dow 0.7%. The Federal Reserve held rates unchanged and half of the FOMC projected that at least one rate hike would be appropriate this year. The new Chairman, Kevin Warsh, also followed through on pledges to revamp the Fed's operational framework by launching a set of task forces. Meanwhile, President Trump signed the memorandum of understanding with Iran to soften energy inflation risks. Intel shares surged more than 8% premarket after the US President said the chipmaker struck a deal with Apple. In turn, Micron rose ahead of its earnings next week and Nvidia was 1% higher to trim yesterday's decline.
 
 ---
 
@@ -21191,191 +21365,5 @@ Comcast Stock Price Hits 14-1/2-year Low — Comcast shares decreased to 23.12 U
 ### 2026-06-17 21:43:23  #市場 #觀點 #國際
 
 【摩根士丹利：如果霍爾木茲海峽重新開放，歐洲銀行股料將反彈】摩根士丹利分析師在一份報告中寫道，如果霍爾木茲海峽重新開放，到今年年底，歐洲銀行的股市估值應會升至其盈利的11至12倍。貸款規模的增長將快於目前的預期，同時銀行手續費的增速也快於摩根士丹利分析師的預測。摩根士丹利的分析師表示，歐洲銀行創造的利潤與金融危機前的水平相當，儘管估值尚未跟上。摩根士丹利的分析師指出，投資者青睞增長，因此風險追逐型的市場反彈將給德意志銀行和法國興業銀行等投資銀行帶來最大回報。他們表示，雖然AI可能會加劇銀行業之間的存款競爭，但該技術更廣泛的促增長效益將大於任何利潤率壓縮的影響。一項歐洲銀行指標上漲1.4%。
-
----
-
-### 2026-06-17 21:42:39  #公司 #觀點
-
-【摩根士丹利高浩灃：中國市場“應流入”的資金遠未到位】在2026陸家嘴論壇上，摩根士丹利亞洲執行長兼股票部全球聯席主管高浩灃（Gokul Laroia）表示，受人工智慧等驅動，全球投資者對中國市場的興趣持續升溫，而當前已流入的資本規模，相較於“應該流入、也實際需要流入”的體量，仍只是很小一部分。
-
----
-
-### 2026-06-17 21:42:37  #其他
-
-SHARONAI股價飆升21%；宣佈超額認購的16億美元戰略融資，以加速在澳大利亞及亞太地區擴充套件人工智慧工廠。
-
----
-
-### 2026-06-17 21:41:56  #市場
-
-【興業證券劉鬱：特定情景給予非銀機構支援，意在及時平抑流動性短缺】6月17日，中國人民銀行行長潘功勝在2026陸家嘴論壇上表示，將研究設立特定情景非銀流動性支援宏觀審慎工具。對此，興業證券首席經濟學家劉鬱在接受中國證券報·中證金牛座記者採訪時表示，在特定情景下給予非銀機構的支援，將能夠鼓勵機構在日常經營中嚴格遵守宏觀審慎要求。在劉鬱看來，近年來，隨著非銀產品規模快速擴張，其內部所面臨的流動性風險，也容易透過機構行為，放大為對整個市場的衝擊，典型案例包括2022年末的理財贖回負反饋和2025年三季度債基產品的集中降久期。在這兩段風波中，10年國債收益率的上行幅度均超過20bp。（中證報）
-
----
-
-### 2026-06-17 21:41:10  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #Hang Seng Index
-
-【SFC chief executive Leung Fung-yee says timetable for government bond futures listing and trading to be published imminently】SFC chief executive Leung Fung-yee said on June 17 at the 2026 Lujiazui Forum the regulator will imminently publish a timetable for the listing and trading of government bond futures in Hong Kong. She said the futures, described as a flagship offshore risk-management tool, should encourage greater overseas investor participation in China’s government bond market once listed.
-
----
-
-### 2026-06-17 21:40:33  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude breaks above $80/bbl, up 0.98% intraday.
-
----
-
-### 2026-06-17 21:40:25  #MKT News
-
-Italy's defense minister said Italy will not join the US PURL program to supply weapons to Ukraine.
-
----
-
-### 2026-06-17 21:40:18  #其他
-
-【中國精算師協會召開換屆工作會議 選舉劉志清為會長】據中國精算師協會（下稱“協會”）官微，近日，協會換屆工作會議順利召開。國家金融監督管理總局財務會計司司長徐春武出席並致辭。會議選舉產生了協會第五屆理事會，選舉協會黨委書記劉志清為會長，利明光、張道明、田美攀、劉渠、張振勇為副會長，張曉蕾為秘書長。
-
----
-
-### 2026-06-17 21:40:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.11% Higher — The Dow Jones Index is gaining 56 points or 0.11 percent on Wednesday. Leading the gains are Caterpillar (1.95%), JPMorgan (1.21%) and American Express (1.02%). Top losers are Salesforce (-2.39%), IBM (-2.04%) and Microsoft (-1.61%).
-
----
-
-### 2026-06-17 21:40:00  #央行 #國際
-
-【富達稱沃什在美聯儲決議後對通脹的闡釋可能引發債市波動】富達投資(Fidelity Investments)表示，新任美聯儲主席凱文·沃什若就通脹發表看法，可能會在債券市場引發波動。富達固定收益投資組合經理Julian Potenza稱，在債券投資者消化週三的美聯儲政策宣告和經濟預測摘要後，沃什在決議後的亮相可能成為市場波動的催化劑。他週二接受採訪時表示：“這是一個有趣的局面，因為雖然沒有人真正預計美聯儲會實際採取行動，但可能確實存在一些波動的風險，因為我們不知道沃什會傳達些什麼。市場考驗新主席的現象並不罕見。”市場預計，美聯儲將把政策利率區間維持在3.5%-3.75%，並將宣告調整為中性立場，逆轉自美聯儲2024年開始降息以來一直存在的寬鬆傾向。一些官員因擔心通脹高企，預計將透過季度點陣圖暗示2026年以及可能2027年存在加息的可能性。
-
----
-
-### 2026-06-17 21:39:46  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Inch Higher Ahead of Fed — US stock indices were mostly higher on Wednesday amid a rebound for chip stocks ahead of the Federal Reserve's likely hold during the session. The S&P 500 was flat and the Dow held at its record of 52,000, while the Nasdaq gained 0.3%. Iran and the US remained on track to sign their agreement by Friday, which will restore the export of energy from all countries in the Persian Gulf and remove sanctions on Iran, softening concerns of energy-drive inflation. The Fed is due to holds rate but should unveil hints on its outlook with a fresh SEP, and Chairman Warsh could unveil timelines on framework changes he previously called for. Nvidia edged higher and SpaceX gained for its fourth session since its IPO with support from the acquisition of Cursor. Marvell and AMD rose more than 2%, while Intel gained 2% as its new chip reached risk production.
-
----
-
-### 2026-06-17 21:39:45  #國際
-
-義大利國防部長：義大利不會加入美國向烏克蘭提供武器的PURL計劃。
-
----
-
-### 2026-06-17 21:39:33  #其他
-
-北約秘書長呂特：期待明天在北約總部歡迎各國國防部長，共同商討安卡拉北約峰會的最後籌備工作。
-
----
-
-### 2026-06-17 21:39:28  #其他
-
-【中國太保董事長傅帆：為中國海外利益保駕護航是滬港保險協同的發力點】6月17日，中國太保董事長傅帆在2026陸家嘴論壇上表示，面對複雜多變的國際形勢，中國保險業亟需提升全球服務能力、完善風險保障和風險分散機制，為中國海外利益保駕護航，而這正是滬港保險協同的發力點。
-
----
-
-### 2026-06-17 21:39:16  #公司
-
-SAAB公司宣佈對總部位於巴黎的戰場人工智慧公司Comand AI進行1110萬歐元的戰略投資，獲得其10%股權。
-
----
-
-### 2026-06-17 21:38:57  #MKT News
-
-NATO Secretary-General RUTTE said he expects to welcome defense ministers at NATO headquarters tomorrow to discuss final preparations for the Ankara NATO summit.
-
----
-
-### 2026-06-17 21:38:50  #其他
-
-洲際交易所訊息：英國現貨碳排放許可成交價 57.23 英鎊 / 噸。
-
----
-
-### 2026-06-17 21:38:45  #其他
-
-【渣打禤惠儀：隨著滬港聯動不斷深化 中國金融開放的空間將進一步擴大】6月17日，渣打香港兼大中華及北亞區行政總裁禤惠儀在2026陸家嘴論壇上表示，高水平金融開放既需要創新，也需要協同。隨著滬港聯動不斷深化，中國金融開放的空間將進一步擴大，人民幣國際化也將逐步走向更廣泛的全球配置。
-
----
-
-### 2026-06-17 21:38:37  #公司
-
-【綠地集團與寧德時代商討推進新能源等多領域創新合作】6月17日，記者從綠地集團獲悉，近日，寧德時代質量體系聯席總裁、後市場業務部總裁李偉一行到訪綠地集團，與綠地集團董事長、總裁張玉良進行工作會談，並達成廣泛合作共識。雙方將共同開拓在寧家服務體驗中心、零碳園區場景服務等領域的合作空間，打造集能源生產、儲存、交易、服務於一體的全鏈路創新合作平臺。
-
----
-
-### 2026-06-17 21:38:29  #公司
-
-【江蘇與中國東航簽署戰略合作協議】6月17日，江蘇省與中國東方航空集團簽署戰略合作協議。省委書記信長星、省長劉小濤會見中國東方航空集團董事長王志清一行。
-
----
-
-### 2026-06-17 21:38:21  #國際
-
-SAAB投資COMAND AI以強化歐洲防務領域。
-
----
-
-### 2026-06-17 21:38:07  #其他
-
-中國地震臺網正式測定：06月17日21時33分在青海海西州直轄區（北緯37.82度，東經95.53度）發生3.4級地震，震源深度10千米。
-
----
-
-### 2026-06-17 21:38:02  #市場
-
-【香港證監會梁鳳儀：將馬上公佈國債期貨掛牌買賣時間表】香港證監會行政總裁梁鳳儀17日在2026陸家嘴論壇上表示，香港證監會將馬上公佈國債期貨掛牌買賣的時間表。“我們相信，這個旗艦級的離岸風險管理工具掛牌後，將有力推動境外投資者更加積極地參與國債市場。”
-
----
-
-### 2026-06-17 21:37:35  #公司 #市場
-
-【凌瑋科技：股票交易異常波動 提示多項投資風險】凌瑋科技公告稱，公司股票2026年6月15 - 17日收盤價漲幅偏離值累計達39.28%，屬異常波動。經核查，公司、控股股東和實控人不存在應披露未披露重大事項，異常波動期間實控人無買賣公司股票情形。公司提示多項風險，如相關產品未透過下游客戶認證、未獲訂單，研發不確定；市盈率顯著高於行業水平，估值偏高；外部流通盤小，或存非理性炒作風險等。
-
----
-
-### 2026-06-17 21:37:18  #公司 #市場
-
-芝加哥商品交易所集團盤中股價下跌5.8%，此前執行長宣佈辭職。
-
----
-
-### 2026-06-17 21:37:18  #MKT News #Market Regions #Wall Street (US) #CME.O #Impact bearish
-
-CME Group shares fell 5.8% after CEO Terry Duffy said he will resign.
-
----
-
-### 2026-06-17 21:36:27  #公司
-
-【凱倫股份：收到政府補助1973.88萬元 佔最近一期歸母淨利潤96.77%】凱倫股份(300715)6月17日公告，公司近日收到政府補助資金1973.88萬元，上述政府補助與收益相關，補助金額佔公司最近一期經審計歸屬於上市公司股東淨利潤的96.77%。
-
----
-
-### 2026-06-17 21:36:12  #公司
-
-【紹興銀行嘉興分行因貸款管理不審慎等被罰150萬元】6月17日，國家金融監督管理總局嘉興監管分局公佈的行政處罰資訊顯示，紹興銀行股份有限公司嘉興分行因貸款管理不審慎等被罰款150萬元。
-
----
-
-### 2026-06-17 21:35:55  #MKT News #Market Regions #Greater China #02601.HK #Impact bullish
-
-【China Pacific Insurance's Fu Fan: Shanghai and Hong Kong to build complementary reinsurance 'offshore hub + onshore center'】Fu Fan, chairman and executive director of China Pacific Insurance (Group) Co., Ltd., said Shanghai and Hong Kong should coordinate to establish a complementary reinsurance model of an offshore hub plus an onshore center. Shanghai will leverage its large domestic direct-insurance market and Lingang institutional innovations to accelerate an onshore reinsurance center; Hong Kong will serve as the offshore hub with a mature reinsurance ecosystem, international-aligned rules and cross-border service experience. He said integrating the two markets is a key step from one-way opening to two-way opening for China’s reinsurance sector, helping build independent risk-pricing capacity and strengthening the risk-resilience of Chinese firms’ global expansion.
-
----
-
-### 2026-06-17 21:35:31  #公司
-
-SpaceX：將 X 平臺作為官方資訊披露渠道，不再依託傳統新聞通訊社釋出公告
-
----
-
-### 2026-06-17 21:34:38  #公司
-
-【中國太保傅帆：滬港協同打造再保險“離岸樞紐+在岸中心”互補格局】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。中國太平洋保險（集團）股份有限公司董事長、執行董事傅帆表示，滬港協同築牢跨境風險保障，要打造再保險“離岸樞紐+在岸中心”的互補格局。上海立足境內龐大的直保市場和臨港製度創新，正加快建設在岸再保險中心。香港作為離岸再保險樞紐，再保生態成熟、制度規則與國際接軌、跨境服務經驗豐富。推動兩地再保險融合發展，是我國再保險市場從“單向開放”邁向“雙向開放”的關鍵路徑，有助於形成自主風險定價能力，增強中資企業全球化發展的抗風險能級。
-
----
-
-### 2026-06-17 21:34:22  #其他
-
-美股盤初，主要行業ETF漲跌不一，半導體ETF漲近3%，全球科技股指數ETF、科技行業ETF漲超1%，醫療業ETF跌近1%。
 
 ---
