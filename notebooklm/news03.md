@@ -1,7 +1,387 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-22 07:06:31_
-_本檔包含 3396 則快訊，約 648495 字_
+_更新時間：2026-06-22 07:42:10_
+_本檔包含 3364 則快訊，約 647420 字_
+
+---
+
+### 2026-06-18 05:13:36  #MKT News #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #Apple #AAPL.O #Impact mixed
+
+【Cook says Apple will raise prices to offset surge in memory-chip costs】According to the Wall Street Journal, Apple CEO Cook said the company plans to raise product prices to offset a sharp rise in memory and storage chip costs, calling price increases "unavoidable"; he declined to specify timing, magnitude or which products would be affected. Cook flagged DRAM pressure in particular, saying more capacity is being allocated to AI servers and high‑bandwidth memory, tightening supply for consumer devices as vendors push prices higher. He said Apple is prepared to use its cash balance to secure additional memory supply and support more capacity but ruled out building its own memory or storage fabs.
+
+---
+
+### 2026-06-18 05:10:30  #公司
+
+蘋果CEO庫克拒絕透露漲價的具體時間節點。
+
+---
+
+### 2026-06-18 05:09:11  #市場
+
+蘋果美股盤後漲幅擴大至1%。訊息面上，庫克稱蘋果計劃上調產品價格。
+
+---
+
+### 2026-06-18 05:08:00  #Trading Economics #Markets #Mexico #Currency #Importance 1
+
+MXN Under Pressure From Fed Outlook — The MXN traded near 17.3 per USD in June following the Federal Reserve's latest policy announcement. The move reflected the hawkish tone of the FOMC's updated economic projections. In its first meeting under Chair Kevin Warsh, the Fed left interest rates unchanged, but the dot plot showed that at least nine members expect rate hikes this year. Markets are now increasingly pricing in a 25-basis-point increase before the end of 2026. Given the close link between Fed policy and Banxico, a more hawkish Fed could narrow the interest-rate differential after Mexico's central bank signaled it would pause its easing cycle. This has weighed on the peso by reducing the appeal of carry trades. Meanwhile, recent data showed that Mexico's economy contracted 0.6% quarter-on-quarter in the first quarter while expanding just 0.2% from a year earlier. Inflation also slowed more than expected in the first half of May, although it remained above the central bank's target, with annual CPI easing to 4.1%.
+
+---
+
+### 2026-06-18 05:07:53  #市場
+
+庫克：蘋果計劃上調產品價格，以抵消記憶體和儲存晶片成本上漲的影響。
+
+---
+
+### 2026-06-18 05:07:26  #國際
+
+【美國公佈與伊朗達成的諒解備忘錄正式文字】據美國有線電視新聞網17日報道，一名美國政府高階官員當天向媒體宣讀了美國同伊朗達成的諒解備忘錄正式文字。該檔案包含14項條款，詳細列出了重新開放霍爾木茲海峽及放寬對伊部分金融限制的內容，並闡明瞭在未來技術性會談中解決伊朗核問題的預期目標。這份檔名為《美利堅合眾國與伊朗伊斯蘭共和國之間的伊斯蘭堡諒解備忘錄》。該官員說，這是一項能夠立即開放霍爾木茲海峽並促使伊朗銷燬核材料的協議。同時，它還建立了一種動態調節機制，如果伊朗表現出更多善意，美方將相應地加大經濟和制裁方面的減免力度。根據這份檔案，美國和伊朗立即並永久停止包括黎巴嫩在內的所有戰線的軍事行動，承諾今後互不發動戰爭或軍事行動，最終協議將確認包括黎巴嫩在內的所有戰線戰爭的永久結束；美國與伊朗承諾在最多60天內進行談判並達成最終協議；美國在諒解備忘錄簽署後將立即著手解除對伊朗的海上封鎖，將在30天內完全解除海上封鎖，並承諾在最終協議達成後30天內將其軍隊撤離伊朗周邊區域；美國承諾與區域夥伴合作投入至少3000億美元用於伊朗重建與經濟發展，其實施機制將作為最終協議的一部分在60天內敲定；美國承諾將終止針對伊朗的各類制裁，並在諒解備忘錄實施後開放伊朗被凍結或受限的資金及資產；伊朗將在諒解備忘錄簽署後確保商船在60天期限內免費安全地在波斯灣至阿曼海之間通行，伊朗將在30天內開展排除水雷工作；伊朗重申其不會獲取或研製核武器，雙方同意在國際原子能機構的監督下對伊朗的濃縮鈾進行現場稀釋等。此前，據美政府高階官員15日表示，美伊已透過電子方式簽署諒解備忘錄，雙方將於19日在瑞士舉行正式簽署儀式。不過，美國總統特朗普17日在法國舉行的記者會上說，美伊諒解備忘錄可能在18日或19日簽署。伊朗伊斯蘭共和國通訊社當地時間17日晚也公佈了伊美諒解備忘錄文字全文。（新華社）
+
+---
+
+### 2026-06-18 05:06:39  #其他
+
+庫克：蘋果產品漲價“不可避免” ，從未見過大宗商品價格像過去六個月這般劇烈波動。
+
+---
+
+### 2026-06-18 05:02:59  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) shares rose 0.7% in after-hours U.S. trading.
+
+---
+
+### 2026-06-18 05:02:02  #MKT News
+
+Gulf Times reports a fire on the top floor of the Emirates Financial Tower in Dubai; cause unknown.
+
+---
+
+### 2026-06-18 05:02:01  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact mixed
+
+【Cook says Apple will raise prices】Tim Cook told the Wall Street Journal price increases are unavoidable; Apple (AAPL.O) has not yet raised prices but the situation is "unsustainable", and surging memory and storage costs will force price increases.
+
+---
+
+### 2026-06-18 04:59:14  #其他
+
+迪拜酋長國金融大廈高層發生火災，起火原因不明。
+
+---
+
+### 2026-06-18 04:58:05  #公司 #市場 #國際
+
+【6月18日美股成交額前20：美光科技逆勢收漲2.2%，德銀大幅上調其目標價】週二美股成交額第2名美光科技收漲2.20%，成交475.82億美元。德意志銀行在最新研報中大幅上調了美光科技的目標價，從1000美元上調至1500美元，並維持“買入”評級。若以美光在美東時間週二的收盤價（1020.76美元）為基準，這意味著還有約47%的上漲空間。今年以來，美光股價已累計上漲約260%。推動這一漲勢的主要原因是AI應用快速普及，加劇了儲存器供應短缺。另一美國儲存晶片公司閃迪今年股價更是暴漲了約730%。
+
+---
+
+### 2026-06-18 04:56:21  #公司
+
+明晟公司MSCI新興市場貨幣指數跌超0.4%，創最近一個月最差單日表現。
+
+---
+
+### 2026-06-18 04:54:52  #國際
+
+美國紐約拉瓜迪亞機場將於美國東部時間週三下午5點關閉一條跑道，以處理跑道地面沉降問題。
+
+---
+
+### 2026-06-18 04:54:11  #國際
+
+美國國家颶風中心（NHC）表示，美國東南部部分地區預計將出現危及生命的洪水。
+
+---
+
+### 2026-06-18 04:53:37  #國際
+
+美國國家颶風中心（NHC）表示，美國東南部部分地區將面臨危及生命的洪災，德克薩斯州和路易斯安那州部分海岸仍維持熱帶風暴警告生效狀態。
+
+---
+
+### 2026-06-18 04:53:18  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canadian Yields Rise on Fed Outlook — Canada's 10-year government bond yield rose slightly to around 3.4% after the Federal Reserve struck a more hawkish tone at its latest meeting. As widely expected, the Fed left interest rates unchanged, but its projections were viewed as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also raised its inflation forecasts, prompting investors to scale back expectations for monetary easing and putting upward pressure on North American bond yields. Meanwhile, the BoC kept its key interest rate unchanged at 2.25% at its latest meeting. The central bank said uncertainty remains elevated amid tensions in the Middle East and new US tariff proposals, but reiterated that it stands ready to act if needed and will not allow higher energy prices to trigger persistent inflation. Investors largely expect the BoC to raise borrowing costs by 25 basis points in December.
+
+---
+
+### 2026-06-18 04:52:45  #MKT News
+
+Iranian parliament speaker Ghalibaf said commitments in the memorandum of understanding are conditional on an "action-for-action" principle; if the U.S. fails to meet its commitments, Iran will not be able to meet its own.
+
+---
+
+### 2026-06-18 04:39:26  #國際
+
+伊朗議長卡利巴夫稱沒有禁止美國在伊朗投資。
+
+---
+
+### 2026-06-18 04:38:44  #國際
+
+真主黨領導人稱讚伊朗在與美國達成諒解備忘錄後取得了“重大勝利”。
+
+---
+
+### 2026-06-18 04:38:10  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls on Hawkish Fed Outlook — The Ibovespa fell 0.7% to close at 168,454 on Wednesday as investors assessed monetary policy decisions from the BCB and the Federal Reserve. Markets had largely expected Brazil's central bank to cut the Selic rate by 25 basis points to 14.25%, although a pause remained possible amid a worsening external backdrop, higher oil prices, and deteriorating inflation expectations. As expected, the Fed left interest rates unchanged at 3.50%-3.75% but signaled a more hawkish outlook, reinforcing expectations that borrowing costs could remain elevated for longer and weighing on risk sentiment. Banks traded mixed, with Itaú rising 0.9% while Bradesco slipped 0.6%. Utilities also posted losses, with Axia down 1.4%. Vale fell 2% amid lower iron ore prices, while WEG advanced 2.3% after approving R$438.1 million in interest on equity.
+
+---
+
+### 2026-06-18 04:36:36  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index rises 0.55% to 100.091 on the 17th】The dollar index, which tracks the greenback against six major currencies, rose 0.55% to 100.091 at the New York FX close on the 17th. EUR/USD 1.1539 (prior 1.1610); GBP/USD 1.3338 (prior 1.3429); USD/JPY 160.50 (prior 160.44); USD/CHF 0.7971 (prior 0.7931); USD/CAD 1.4071 (prior 1.3993); USD/SEK 9.4610 (prior 9.3618).
+
+---
+
+### 2026-06-18 04:35:11  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.99% Lower — The Dow Jones Index fell 514 points or 0.99 percent on Wednesday to close at 51486 points. Leading the losses are Salesforce (-4.16%), Microsoft (-3.80%) and Amazon (-3.48%). Top gainers were Caterpillar (1.01%), Goldman Sachs (0.77%) and JPMorgan (0.71%).
+
+---
+
+### 2026-06-18 04:31:45  #市場
+
+【美元指數17日上漲】美元指數17日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.55%，在匯市尾市收於100.091。截至紐約匯市尾市，1歐元兌換1.1539美元，低於前一交易日的1.1610美元；1英鎊兌換1.3338美元，低於前一交易日的1.3429美元。1美元兌換160.50日元，高於前一交易日的160.44日元；1美元兌換0.7971瑞士法郎，高於前一交易日的0.7931瑞士法郎；1美元兌換1.4071加元，高於前一交易日的1.3993加元；1美元兌換9.4610瑞典克朗，高於前一交易日的9.3618瑞典克朗。
+
+---
+
+### 2026-06-18 04:25:50  #國際
+
+伊朗首席談判代表卡利巴夫：衝突期間，我曾在社交平臺發文稱，霍爾木茲海峽再也回不到從前的狀態，時至今日這一點依然成立。但這絕不代表我們有意在霍爾木茲海峽採取違反國際法與海事規則的行動，絕不會。我方所有行動都會在國際法框架內開展。
+
+---
+
+### 2026-06-18 04:25:44  #MKT News
+
+Iran parliament speaker Ghalibaf said under a memorandum of understanding US$300 billion has been allocated for investment in Iran, with part earmarked for reconstruction.
+
+---
+
+### 2026-06-18 04:25:17  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+Canadian Stocks Drop on Fed Outlook — The S&P/TSX Composite Index fell 0.7% to close at 35,125 on Wednesday as investors digested the Fed's latest policy decision. As widely expected, the Federal Reserve left interest rates unchanged. However, its projections were viewed as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also sharply raised its inflation forecasts, pushing Canadian bond yields higher and fueling concerns that borrowing costs could remain elevated. Financial stocks traded mixed, with TD Bank gaining 1.2% while Brookfield fell 1.1%. Energy shares weighed on the index as oil prices hovered near a three-month low amid prospects for the reopening of the Strait of Hormuz and after the International Energy Agency warned of a supply overhang next year. Canadian Natural lost 1.4%, while Suncor shed 2.5%. Mining stocks also traded lower amid falling gold prices, with Barrick down 2.6% and WPM losing 0.8%.
+
+---
+
+### 2026-06-18 04:25:14  #焦點 #國際
+
+伊朗首席談判代表：根據諒解備忘錄，已有3000億美元獲批在伊朗進行投資，其中一部分將用於戰後重建。
+
+---
+
+### 2026-06-18 04:25:02  #國際
+
+伊朗首席談判代表卡利巴夫：起初反對參與同美國的談判，理由是特朗普主導了2020年卡西姆·蘇萊曼尼遇襲身亡事件。儘管個人不願與特朗普打交道，但其他談判人選均遭到否決，出於國家責任，最終接受了談判相關工作。
+
+---
+
+### 2026-06-18 04:22:50  #國際
+
+初步資訊顯示，俄羅斯智慧航空一架從索契飛往阿爾漢格爾斯克的波音737-800客機，在黑海上空發出7700緊急遇險程式碼後從雷達上消失。涉事航班為5N164，機上共計189人。 
+注：7700是航空通用緊急應答機程式碼，代表飛機遭遇緊急狀況。
+
+---
+
+### 2026-06-18 04:21:12  #國際
+
+伊朗首席談判代表：伊朗將理所當然對霍爾木茲海峽的通航服務收費。
+
+---
+
+### 2026-06-18 04:21:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+According to Iranian state media, Iranian parliament speaker Ghalibaf said Iran will naturally charge a service fee for the Strait of Hormuz.
+
+---
+
+### 2026-06-18 04:19:24  #MKT News #WTI #Impact bullish #Brent
+
+Iranian state media reported that Iranian parliament speaker Ghalibaf said the Strait of Hormuz will not return to its pre-war state, but that does not mean it will violate international law or maritime navigation rules.
+
+---
+
+### 2026-06-18 04:18:57  #國際
+
+伊朗首席談判代表卡利巴夫：霍爾木茲海峽不會恢復戰前狀態，但這不意味著我們會違反國際法或破壞海上航行。
+
+---
+
+### 2026-06-18 04:15:07  #國際
+
+伊朗議會議長卡利巴夫：談判帶來的收益，遠超我們透過針對黎巴嫩實施報復打擊所能取得的成效。
+
+---
+
+### 2026-06-18 04:11:07  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Retreat on Hawkish Fed Outlook — US stock closed lower after the Federal Reserve held interest rates unchanged and signaled the possibility of rate hikes this year. The S&P 500 fell 1.2% and the Nasdaq 100 dropped 1%, while the Dow lost 507 points from its record high. The Summary of Economic Projections from the Fed's June meeting showed that half of the FOMC members projected one rate hike or more this year, as underlying inflation gauges pointed to rising prices and employment data remained robust despite economic shocks stemming from the war in Iran. Chairman Warsh refrained from posting a dot in the projections, reflecting his intention to change the Fed's monetary framework. Meanwhile, Iran and the US remained on track to sign their agreement. Magnificent Seven stocks led the losses amid the selloff in Treasuries, with Meta down 4.2%, Microsoft losing 3.6%, Alphabet shedding 2.4%, and Amazon dropping 3.1%. Chipmakers extended their rally, with Micron up 2.2%, Marvell gaining 3.9%, and Intel advancing 3.5%.
+
+---
+
+### 2026-06-18 04:07:33  #國際
+
+日本首相高市早苗將於7月初訪問印度阿薩姆邦，同行人員包括五十多家日本企業及機構的負責人。
+
+---
+
+### 2026-06-18 04:06:50  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
+
+On Wednesday, June 17, the Dow Jones Industrial Average closed down 506.51 points, or 0.97%, at 51,493.16; the S&P 500 closed down 91.22 points, or 1.21%, at 7,420.13; the Nasdaq Composite closed down 354.69 points, or 1.34%, at 26,021.66.
+
+---
+
+### 2026-06-18 04:04:54  #公司
+
+【蘋果籌備第二代iPhone Air，計劃2027年春季推出】蘋果公司正在研發第二代iPhone Air，定於2027年春季釋出，旨在提升這款機型的產品吸引力。新款機型現有原型機新增一枚後置超廣角攝像頭，同時蘋果正著力最佳化裝置續航表現。升級後的iPhone Air將搭載定製版A20 Pro晶片，蘋果認為影像系統與續航是該機型兩大核心升級方向。
+
+---
+
+### 2026-06-18 04:03:44  #公司 #國際
+
+特朗普媒體科技集團：傑夫·伍德伯裡出任總裁兼營運長。
+
+---
+
+### 2026-06-18 04:03:21  #其他
+
+SpaceX：選舉魯洛夫·博塔為獨立普通股董事，於2026年6月16日生效。
+
+---
+
+### 2026-06-18 04:01:27  #市場
+
+SpaceX股價下跌4.9%，為上市以來首次走低。
+
+---
+
+### 2026-06-18 04:01:09  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #S&P500 #Impact bearish #Dow #Nasdaq100
+
+【US close: Fed's hawkish tilt; all three major indexes fall】The Fed's rate-setting stance skewed hawkish, pressuring US equities. The Dow fell 0.97%, the S&P 500 dropped 1.2% and the Nasdaq slid 1.3%. SpaceX (SPCX.O) -5%, NVIDIA (NVDA.O) -1%, Western Digital (WDC.O) +4%. The Nasdaq Golden Dragon China Index fell 1.1%; Li Auto (LI.O) -3%.
+
+---
+
+### 2026-06-18 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.96%，標普500指數跌1.19%，納指跌1.37%。Carvana Co.跌10.39%，回聲星通訊跌7.64%，艾可菲跌7.53%，特許通訊跌6.97%，APP AppLovin跌6.90%。“七姐妹”方面：蘋果跌1.13%，英偉達跌1.32%，特斯拉跌2.05%，谷歌跌2.43%，亞馬遜跌3.46%，微軟跌3.80%，Meta Platforms跌5.31%。
+
+---
+
+### 2026-06-18 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.21%】海天網路跌15.49%，新氧跌10.98%，迅雷跌9.46%，億咖通科技跌6.97%，逸仙電商跌5.56%。
+
+---
+
+### 2026-06-18 03:58:59  #市場 #央行 #國際
+
+【美聯儲立場偏鷹提振加息押注 交易員認為到10月加息機率為100%】短期美國國債收益率跳升，因美聯儲官員暗示他們預計未來數月會加息，促使交易員預計10月底前加息的機率為100%。在週三決策公佈後，對央行短期政策變化尤為敏感的2年期美國國債收益率上漲14個基點，報4.19%。這是凱文·沃什擔任主席後的首次決策。貨幣市場顯示，交易員目前認為到9月加息的機率較高，到10月加息機率為100%。
+
+---
+
+### 2026-06-18 03:58:45  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) is preparing a second-generation iPhone Air for a spring 2027 release. Prototypes include a second rear camera and an upgraded battery.
+
+---
+
+### 2026-06-18 03:58:07  #MKT News #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact mixed #US10Y
+
+【Wosh rejects forward guidance, avoids rate-path commitments as he reshapes Fed communication】At his first press conference as Fed chair, Wosh announced reforms including multiple task forces to broaden data collection and review the Fed’s statistical indicators. He repeatedly refused to provide forward guidance and declined to answer questions on the future path of interest rates. He did not submit a personal rate projection to the dot plot and said he will not comment on any market price moves during the press conference. Core message: reduce policy signaling to markets, avoid pre-committing to a rate path, and focus on institutional, data and communication reforms at the Fed.
+
+---
+
+### 2026-06-18 03:57:29  #其他
+
+蘋果籌備第二代iPhone Air，計劃2027年春季推出。iPhone Air樣機新增後置第二顆攝像頭，電池配置同步升級。
+
+---
+
+### 2026-06-18 03:54:51  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+Markets are fully pricing in two Federal Reserve rate hikes by end‑Q1 2027.
+
+---
+
+### 2026-06-18 03:53:58  #市場
+
+加元兌美元下跌0.9%，報1美元兌1.4122加元，創七個月新低。
+
+---
+
+### 2026-06-18 03:53:36  #央行 #焦點 #國際
+
+交易員已充分預期美聯儲將在2027年第一季度末之前加息兩次。
+
+---
+
+### 2026-06-18 03:53:31  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Hits 7-Month Low — The Canadian dollar weakened to around 1.41 per USD following the Fed's latest policy decision, hovering near a seven-month low. As widely expected, the Federal Reserve left interest rates unchanged. However, its projections were viewed as more hawkish than anticipated, with roughly half of FOMC members expecting at least one rate hike this year. The Fed also sharply raised its inflation forecasts, boosting the appeal of US assets and supporting the US dollar. Meanwhile, the BoC kept its key interest rate unchanged at 2.25% at its latest meeting. The central bank said uncertainty remains elevated amid conflict in the Middle East and US tariff proposals, but reiterated that it stands ready to act if needed and will not allow high energy prices to trigger persistent inflation. Investors largely expect the BoC to raise borrowing costs by 25 basis points in December.
+
+---
+
+### 2026-06-18 03:51:31  #國際
+
+伊朗議會議長卡利巴夫：如果本國民眾沒有走上街頭（表達愛國支援），我們根本無法以如此強硬的姿態與對手談判。
+
+---
+
+### 2026-06-18 03:50:28  #焦點 #國際
+
+伊朗議會議長卡利巴夫：當年伊核協議談判期間我就表態，只有談判本身能成為一種抵抗與鬥爭方式，我才會支援對話磋商。
+
+---
+
+### 2026-06-18 03:49:41  #國際
+
+伊朗議會議長卡利巴夫：（此前的）停火協議生效後，美方仍在波斯灣採取挑釁行動，我方當即予以回擊。最近一例就是美軍直升機相關衝突事件。另有兩艘試圖穿越霍爾木茲海峽的敵方軍艦遭打擊，艦體燃起大火，衛星影像也證實了這一情況。除此之外，所有起飛敵方戰機的他國機場均遭到我方打擊。以上所有行動，都是我們同步開展談判期間發生的。
+
+---
+
+### 2026-06-18 03:47:03  #焦點 #國際
+
+伊朗議會議長卡利巴夫：如果沒有談判，我們就無法實現我們的目標。我們透過談判獲得的成果，是透過軍事行動所尋求實現目標的許多倍——多到兩者甚至無法相提並論。
+
+---
+
+### 2026-06-18 03:46:25  #其他
+
+墨西哥比索跌幅超1%。
+
+---
+
+### 2026-06-18 03:45:54  #央行 #焦點 #國際
+
+【美聯儲主席沃什首次新聞釋出會要點總結】
+1、 溝通框架重塑：拋棄前瞻指引，淡化點陣圖。
+這是本次釋出會最核心的變革訊號，沃什正在實質性推進其“少說話、多思考”的理念。
+正式拋棄前瞻指引：沃什明確表示美聯儲已經放棄了前瞻指引，承認該工具不再適合當前形勢。他無法對未來的具體行動提供任何前瞻指引。
+點陣圖失效：他認為提供點陣圖對執行政策毫無幫助，FOMC並不認為自己受利率預測的約束。他本人在今天也未提供點陣圖預測。
+調整新聞釋出會：他認為新聞釋出會是有用的溝通方式，但未來對其進行某些調整將是有價值的。
+新溝通框架預期：如果年底前披露新版溝通框架，將不足為奇。
+
+2、 通脹目標與應對：堅守2%目標，防範第二輪效應。
+堅守2%目標：2%的通脹目標是美聯儲的長期目標，只要未實現，就沒有理由重新評估該目標。美聯儲承諾將解決長達五年的通脹偏離問題。
+通脹歸因與應對：美聯儲無法對特定價格（如能源等供給衝擊）產生顯著影響，其核心工作是確保不會出現“第二輪價格效應”。
+資料來源缺陷：他指出目前美聯儲依賴的大多數資料來源自過時的調查方式，這也是未來需要改革的地方。
+
+3、 制度改革：成立五大特別工作組。
+為應對當前挑戰，沃什宣佈任命五個貨幣政策領域的特別工作組，並預期它們在年底前完成大部分工作：
+溝通工作組：圍繞經濟預期概要（SEP）的調整提供建議。
+資產負債表工作組：評估合適的儲備職責。
+資料來源工作組：解決資料滯後問題。
+生產力工作組：專門審查人工智慧（AI）對生產力的影響。
+就業工作組：聚焦勞動力市場動態。(注：通脹工作組將專門檢查通脹的驅動因素)
+
+4、獨立性與外部關係。
+捍衛獨立性：沃什強調美聯儲絕不會將決策權轉交給任何外部人。
+與政府溝通：他透露迄今已與美國財長貝森特有過三次共進早餐的經歷。
+內部治理：他透露已與美聯儲監察長會面，後者將在今年夏季圍繞聯儲大樓翻修問題釋出報告。
+市場定價：他強調當市場對未來的實時資料做出反應時，表現是最佳的，市場價格本身可能是最重要的參考資訊。
 
 ---
 
@@ -19966,551 +20346,5 @@ A-shares ChiNext and Shenzhen Composite Index turned positive; Shanghai Composit
 ### 2026-06-17 09:49:34  #MKT News #Important
 
 【Ding Xiangqun says accelerate issuance of Banking Supervision and Insurance law revisions】June 17 — Ding Xiangqun, director of the State Administration for Financial Regulation, said at the 2026 Lujiazui Forum the regulator will accelerate finalizing and issuing revisions to the Banking Supervision Law and the Insurance Law, implement targeted regulatory adjustments and strengthen the legal framework’s practical adaptability.
-
----
-
-### 2026-06-17 09:49:30  #宏觀 #焦點
-
-【丁向群：加快推動銀監法、保險法修訂出臺】6月17日，國家金融監督管理總局局長丁向群在2026陸家嘴論壇上表示，加快推動銀監法、保險法修訂出臺，有針對性地完善監管規制，不斷增強金融法治以及實踐的適應性。（澎湃新聞）
-
----
-
-### 2026-06-17 09:49:18  #其他
-
-【國家金融監管總局局長丁向群：金融監管要恪守監管定位 切實做到長牙帶刺】2026陸家嘴論壇今日上午開幕，國家金融監督管理總局局長、論壇共同輪值主席丁向群致開幕詞時表示，金融監管要恪守監管定位，較真碰硬，嚴監管、強監管，全面強化五大監管，切實做到長牙帶刺。
-
----
-
-### 2026-06-17 09:49:17  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-A-share supercapacitor concept stocks spiked intraday, led by Haixing Co., which hit its third straight limit-up. Aihua Group and Tongfeng Electronics closed at the daily limit; Jianghai Co., Dongyangguang, Longchen Technology and Wanshun New Materials also rose.
-
----
-
-### 2026-06-17 09:48:27  #MKT News #CSI300 #Impact bearish #SSE Composite
-
-China A-share rare-earth permanent-magnet sector weakened intraday; Sanchuan Zhihui fell more than 7%, Chalco International dropped over 6%, while Longci Technology, Zhongke Magnetic, Dongfang Zirconium and Yingluohua also declined.
-
----
-
-### 2026-06-17 09:48:12  #公司 #市場
-
-【超級電容概念異動拉昇 海星股份3連板】早盤超級電容概念異動拉昇，海星股份3連板，艾華集團、銅峰電子漲停，江海股份、東陽光、龍辰科技、萬順新材衝高。
-
----
-
-### 2026-06-17 09:47:46  #公司
-
-【中性原子量子計算企業太一量生完成3億元Pre-A輪融資】近日，中性原子量子計算企業太一量生（上海）量子科技有限公司完成3億元Pre-A輪融資，由高榕創投、IDG資本等領投，跟投方包括華控基金、雲啟資本、達晨財智、博遠資本、上汽金控、恆旭資本、雅瑞資本、啟賦資本、電科基金等機構和產業方。
-
----
-
-### 2026-06-17 09:47:14  #市場 #焦點
-
-南向資金淨買入額達10億港元。
-
----
-
-### 2026-06-17 09:46:52  #其他
-
-【受相關資源端供應緊缺影響 LPDDR5X/4X及渠道DDR5價格全面調漲】伺服器市場對儲存的虹吸效應持續發酵，仍具備供貨配額的消費類客戶正尋求原廠包括次級DRAM在內的各類資源供應，產能有限下未來一段時間記憶體儲廠商獲取上游資源將愈發艱難，本週LP5X/LP4X及渠道DDR5記憶體條全面調漲。自Grace CPU選用LPDDR5X作為記憶體配置之後，英偉達Vera CPU繼續沿用該方案，AMD亦明確跟進，其下一代Verano CPU確認首次引入LPDDR5X。隨著基於LP5X的伺服器CPU解決方案陸續實現量產並進入大規模商用推廣階段，LP5X正加速向伺服器市場進一步滲透。在面對伺服器市場對高頻率LP5X的應用需求呈現顯著增長的情況下，海外原廠也正持續將更多的LP5X產能向伺服器市場進一步傾斜，相應的面向手機、PC等消費類終端的供應快速收緊。 (快閃記憶體市場)
-
----
-
-### 2026-06-17 09:46:09  #市場
-
-【面板概念震盪反彈，萊寶高科、深天馬Ａ雙雙漲停】面板概念震盪反彈，萊寶高科、深天馬Ａ雙雙漲停，京東方Ａ、龍騰光電、超穎電子、瑞聯新材、緯達光電、凱盛科技等跟漲。
-
----
-
-### 2026-06-17 09:45:43  #其他
-
-【ETF排名再洗牌 國泰基金新進ETF管理規模第三】6月程序過半，頭部ETF管理人排位再次出現變化。Wind資料顯示，截至6月16日，易方達基金在管ETF規模保持領先，達6045.73億元，雖然較月初有所回落，但跟第二的華夏基金規模差距已經拉大至35.64億元，後者最新在管ETF規模為6010.1億元。國泰基金則新進為行業第三，最新規模3422.74億元，較月初增長121.46億元；華泰柏瑞基金回落至行業第四，旗下最新ETF規模為3405.59億元，較月初稍有回落。
-
----
-
-### 2026-06-17 09:45:32  #MKT News #Important #Market Themes #Chip Wars #CSI300 #Impact bullish #SZSE Component #SSE Composite
-
-A-share memory-chip sector staged a choppy rally: Nan Ya New Material rose over 11%, Woge Optoelectronics hit the daily up-limit, Chaoying Electronics and Xingsen Technology gained more than 7%, while Shennan Circuits, Yishitong and Shengmei Shanghai also advanced.
-
----
-
-### 2026-06-17 09:45:09  #其他 #焦點
-
-【國家金融監管總局局長丁向群：建議加快制定數字金融、綠色金融等領域的國際標準】2026陸家嘴論壇今日上午開幕，國家金融監督管理總局局長、論壇共同輪值主席丁向群致開幕詞時表示，適應全球經濟格局變化，需要更加包容平等的金融治理機制；維護全球金融執行秩序，需要更加有效適配的規則體系。妥善應對全球性風險挑戰，需要更加務實高效的金融監管協作。丁向群建議，加快制定數字金融、綠色金融等領域的國際標準。
-
----
-
-### 2026-06-17 09:44:47  #公司 #市場
-
-【SENASIC上市首日股價一度翻倍】SENASIC(琻捷電子；06675.HK)上市首日大漲，截至發稿漲98%，報36.52港元，成交近3億港元。該公司是無線感測SoC領域的全球供應商，致力於提供創新的感測晶片。
-
----
-
-### 2026-06-17 09:44:31  #MKT News
-
-Singapore's benchmark index rose as much as 1% to 5,169.40, hitting a record high.
-
----
-
-### 2026-06-17 09:44:24  #其他
-
-【國家禁毒辦：新發現35歲以下青少年吸毒人數同比下降41.6%】今天上午，國家禁毒辦召開新聞釋出會。國家禁毒辦常務副主任、公安部禁毒局局長魏曉軍介紹，2025年，以防範青少年藥物濫用為主題，全國組織禁毒宣傳活動19.7萬場、直接覆蓋4.5億人，突出青少年特別是未成年人群體，聯合中央網信辦、教育部等7部門開展網路集中宣傳教育，深化秋季開學在校學生“五個一”專題教育，舉辦全國青少年禁毒知識競賽，青少年防範藥物濫用的認知能力明顯提升，全年新發現35歲以下青少年吸毒人數同比下降41.6%。2025年共查處吸毒人員13.4萬人次。堅持教育、感化、挽救方針，加強涉毒未成年人干預矯治，全力防範未成年人藥物濫用，推進未成年人涉毒違法犯罪預防治理，呵護未成年人健康成長。推進社群戒毒社群康復標準化建設，落實戒毒治療、康復指導、幫扶救助、就業扶持等措施。截至2025年底，全國戒斷三年以上未發現復吸人員440.3萬人，同比上升2.7%。
-
----
-
-### 2026-06-17 09:44:14  #Trading Economics #Economy #Jordan #Inflation Rate #Importance 1
-
-Jordan Inflation Hits Over 3-Year High — The inflation rate in Jordan accelerated to 2.83% year-on-year in May 2026, the highest since April 2023, from 2.49% in April, driven primarily by higher fuel prices. The country raised fuel prices by 11% in April, the first increase since the Middle East conflict began, and partially adjusted fuel prices in May. Transportation costs were the main contributors to May inflation, accounting for 1.23 percentage points, followed by rental costs (0.68 percentage points) and oils and fats (0.27 percentage points). For the first five months of the year, inflation averaged 1.88%, down from 1.97% in the same period of 2025, with rental costs (0.68 percentage points) and transportation (0.26 percentage points) being the main contributors. On a monthly basis, CPI rose 0.55% in May, easing from a 0.70% increase in April and marking the softest increase in three months.
-
----
-
-### 2026-06-17 09:44:03  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share fiberglass sector rebounded after volatile trading; Shandong Fiberglass and China Jushi hit daily limit-ups and closed, while Sinoma Tech, Changhai Co., International Composite and Honghe Technology also advanced.
-
----
-
-### 2026-06-17 09:44:00  #公司 #市場
-
-【鋰電池板塊短線拉昇，諾德股份漲停】鋰電池板塊短線拉昇，諾德股份漲停, 中一科技漲超10%，嘉元科技、中瑞股份、銅冠銅箔、鵬輝能源、科達利等跟漲。
-
----
-
-### 2026-06-17 09:43:59  #MKT News #Commodities #Energy
-
-Goldman Sachs maintains a bearish view on TTF natural gas for 2028 and 2029, forecasting €19/MWh and €16/MWh respectively, with risks skewed to the downside.
-
----
-
-### 2026-06-17 09:42:50  #觀點
-
-高盛：我們維持對2028/29年TTF天然氣價格的看跌預期，目標價位為19/16歐元/兆瓦時，風險偏向下行。
-
----
-
-### 2026-06-17 09:42:34  #MKT News #Commodities #Energy
-
-Goldman Sachs: risks to its 2026/27 natural gas price forecasts remain skewed to the upside.
-
----
-
-### 2026-06-17 09:42:28  #MKT News #Commodities #Energy
-
-Goldman Sachs says it now expects LNG flows to normalize by end-July, later than its prior end-June forecast.
-
----
-
-### 2026-06-17 09:42:18  #觀點
-
-【雲天暢想完成超10億元E輪融資 中國網際網路投資基金領投】6月17日，全球邊緣智算龍頭雲天暢想（Cloudsky）宣佈完成超10億元人民幣E輪融資，中國網際網路投資基金領投，中金資本等機構聯合投資。雲天暢想長期深耕GPU-centric分散式智算網路的建設，構建覆蓋全球300多個城市的邊緣智算網路，服務使用者超過6億。
-
----
-
-### 2026-06-17 09:42:12  #觀點
-
-高盛：我們對2026/27年天然氣價格的預期仍面臨上行風險。
-
----
-
-### 2026-06-17 09:41:52  #觀點
-
-高盛：我們維持對2027年TTF天然氣平均價格的預測，為30歐元/兆瓦時。
-
----
-
-### 2026-06-17 09:41:46  #MKT News #EURUSD #Impact bullish
-
-Goldman Sachs largely maintains its TTF gas price forecasts at €41/MWh for H2 2026 and €30/MWh for 2027, versus prior forecasts of €42/MWh and €30/MWh.
-
----
-
-### 2026-06-17 09:41:38  #觀點
-
-高盛：我們預計液化天然氣流量將在7月底恢復正常，晚於我們此前預計的6月底。
-
----
-
-### 2026-06-17 09:41:30  #其他
-
-【國家禁毒辦：2025年共破獲毒品犯罪案件2.7萬起】今天上午（6月17日）國家禁毒辦召開新聞釋出會。據國家禁毒辦常務副主任、公安部禁毒局局長魏曉軍介紹，“清源斷流”行動統籌境內境外兩條戰線、網上網下兩個戰場，2025年共破獲毒品犯罪案件2.7萬起，抓獲犯罪嫌疑人4.1萬名，繳獲毒品33.5噸。深化“淨邊”行動，嚴密陸海空郵毒品查緝體系，有力遏制毒品走私入境，繳獲來自“金三角”地區毒品18.7噸。深化“除冰肅毒”，破獲國內製毒案件134起，繳獲毒品5.3噸，規模化製毒活動得到遏制。
-
----
-
-### 2026-06-17 09:40:48  #觀點
-
-高盛：我們維持對2026年下半年/2027年TTF天然氣價格的預測，為41/30歐元/兆瓦時，此前預測為42/30歐元/兆瓦時。
-
----
-
-### 2026-06-17 09:40:45  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bullish
-
-A-share PET copper-foil stocks rallied in early trade. Zhongyi Technology rose over 13%; Nuode, Guanghua Technology and Hangdian each hit the daily limit. Shuangxing New Materials, Tongfeng Electronics and Jiemei Technology also advanced.
-
----
-
-### 2026-06-17 09:40:33  #公司 #市場
-
-【玻璃基板概念再度走強，美迪凱20%漲停】玻璃基板概念再度走強，美迪凱20%漲停，易天股份、帝爾鐳射、長信科技漲超10%。
-
----
-
-### 2026-06-17 09:40:23  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量726億元。
-
----
-
-### 2026-06-17 09:39:34  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-06-17 09:39:32  #Trading Economics #Economy #Australia #Leading Economic Index #Importance 1
-
-Australia Leading Index Subdued in May — The Westpac–Melbourne Institute Leading Economic Index was flat month-over-month in May 2026 after an upwardly revised 0.1% gain in the previous month, underscoring weak momentum. Meanwhile, the six-month annualised growth rate edged to -0.17% from -0.18% in April, signalling below-trend growth likely through late 2026 into early 2027. While no sharp downturn is evident, the drag from higher rates and elevated fuel costs is expected to build gradually. At its June meeting, the Reserve Bank paused to gauge the impact of earlier hikes and the energy shock but warned inflation risks remain skewed upward, leaving scope for further tightening. Consistent with the leading Index, growth appears subdued, though inflation remains the central bank’s primary concern. Westpac expects upcoming CPI to remain uncomfortably high, raising the odds of additional hikes in the coming months.
-
----
-
-### 2026-06-17 09:39:21  #市場 #焦點
-
-乙二醇連續主力合約日內跌3%，現報4235.00元。
-
----
-
-### 2026-06-17 09:39:10  #公司
-
-電力板塊短線跳水，豫能控股、深南電A、廣西能源、贛能股份、華電遼能紛紛下挫。
-
----
-
-### 2026-06-17 09:38:57  #公司
-
-【中國網際網路金融協會網際網路貸款自律工作委員會籌備組釋出“踐行金融為民理念，引領網際網路貸款行業健康發展”首期舉措】6月17日，據中國網際網路金融協會訊息，中國網際網路金融協會網際網路貸款自律工作委員會籌備組制定了“踐行金融為民理念，引領網際網路貸款行業健康發展”系列舉措，度小滿、螞蟻科技、騰訊、京東科技、抖音等籌備組成員單位將做好表率、嚴格執行。倡導廣大從業機構主動對標，以更高標準強化自我約束，攜手履行社會責任，彰顯行業溫度與擔當。現釋出首期7條舉措：一、對新市民、靈活就業人員、“兩司兩員”、小微企業、個體工商戶、農戶、脫貧人口等群體進行力所能及的幫扶，給予更優惠的貸款條件。二、建立紓困機制，對因家庭生活重大變故、臨時性資金週轉困難等陷入困境的客戶，會同合作金融機構視情況給予停催、展期、停息、減息、重組等措施。三、加大紓困投入，全體參與機構每年紓困投入合計不低於15億元。同時，研究由行業相關機構共同出資設立行業紓困基金的必要性和可行性。四、加強幫扶紓困資訊共享和成果披露，共建跨機構協同約束機制和基礎設施，提升對困難群體的識別能力，避免出現“一方接受紓困、一方新增借貸”的行為。五、用好異常資訊共享系統，防範相關黑灰產影響，保障幫扶紓困措施真正惠及廣大金融消費者。六、加強行業幫扶紓困研究，制定行業幫扶紓困人群識別標準、各項措施適用條件和範圍，推動行業幫扶紓困長期可持續發展。七、加大行業幫扶紓困正面宣傳力度，及時總結推廣典型幫扶紓困案例，樹立行業良好形象。
-
----
-
-### 2026-06-17 09:38:44  #公司
-
-【吉峰科技投資成立智航科技發展公司】企查查APP顯示，近日，北京吉峰智航科技發展有限公司成立，經營範圍包含：數字技術服務；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由吉峰科技全資持股。
-
----
-
-### 2026-06-17 09:38:35  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Pause Four-Day Rally — The benchmark KOSPI edged down to around 8,710 on Wednesday, pausing a four-day rally, as weakness in global technology stocks and caution ahead of the Federal Reserve's policy decision weighed on sentiment. Semiconductor shares came under pressure after a selloff in US AI-related stocks, with market heavyweight Samsung Electronics declining and weighing on the broader index. Losses were also seen in Hyundai Motor (-3.9%), Kia Corporation (-2.2%), Hyundai Mobis (-4.1%), and KB Financial Group (-1.7%). Investors also remained wary ahead of the first Federal Open Market Committee meeting under Fed Chair Kevin Warsh, amid concerns that policymakers could signal a more hawkish stance despite expectations that interest rates would remain unchanged. Meanwhile, easing tensions in the Middle East and receding oil-price pressures supported risk appetite and helped limit losses.
-
----
-
-### 2026-06-17 09:38:30  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-share electronic-chemicals sector extended gains in early trading; Hongchang Electronics and Guanghua Technology hit limit-up, while Haixing, Zhongjuxin, Olaide, Honghe Technology and Guoci Materials rose.
-
----
-
-### 2026-06-17 09:38:28  #市場
-
-新加坡海峽時報指數上漲1%至5168.78點。
-
----
-
-### 2026-06-17 09:38:13  #MKT News #Macro & Rates #Treasury Yields #USDJPY #Impact bullish #DXY
-
-Japan 10-year government bond yield fell 3.5 bps to 2.610%.
-
----
-
-### 2026-06-17 09:37:59  #市場 #國際
-
-日本10年期國債收益率下跌3.5個基點，至2.610%。
-
----
-
-### 2026-06-17 09:37:56  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Aussie Holds Firm on RBA Hawkish Outlook — The Australian dollar held above $0.70, sustaining its rebound from a recent two-month low as the Reserve Bank signaled further tightening to restrain inflation. After the central bank left the cash rate unchanged at 4.35% at its June meeting, Governor Michele Bullock said the board remains alert to upside inflation risks, stressing that demand still needs to moderate further. While the RBA opted to pause in order to assess the full impact of three rate hikes earlier this year, she reiterated that further rate increases cannot be ruled out. The hawkish tone reinforced bets for another hike this year, with markets now pricing in around a 30% chance of a rate increase at the August meeting and a roughly 60% probability of one final hike to a peak of 4.6%. The upcoming May CPI report due next week will be pivotal for the outlook. Meanwhile, improving risk sentiment from progress toward a US-Iran peace deal also supported the Aussie, easing concerns over energy-driven inflation pressures.
-
----
-
-### 2026-06-17 09:37:03  #公司
-
-【先河環保成立科技新公司 含多項AI業務】企查查APP顯示，近日，北京智閾科技有限責任公司成立，經營範圍包含：人工智慧雙創服務平臺；人工智慧基礎軟體開發；人工智慧基礎資源與技術平臺；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由先河環保全資持股。
-
----
-
-### 2026-06-17 09:36:58  #公司 #市場
-
-【電子化學品板塊早盤走高，宏昌電子漲停】電子化學品板塊早盤走高，宏昌電子、光華科技漲停，海星股份、中巨芯、奧來德、宏和科技、國瓷材料跟漲。
-
----
-
-### 2026-06-17 09:36:17  #公司
-
-【浙江福紹人工智慧創投合夥企業登記成立】企查查APP顯示，近日，浙江福紹人工智慧創業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由華福資本管理有限公司、紹興柯橋智融科技產業發展有限公司等共同持股。
-
----
-
-### 2026-06-17 09:35:38  #其他
-
-【MLCC概念延續漲勢，宏明電子漲超11%】MLCC概念延續漲勢，宏明電子漲超11%，昀冢科技、信維通訊、國瓷材料、凱盛科技、潔美科技跟漲。
-
----
-
-### 2026-06-17 09:35:33  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-China A-share livestock sector tumbled; Xiangjia fell more than 3%, while Lihua, Luoniushan, Minhe, Xiaoming and Tangrenshen each dropped over 2%.
-
----
-
-### 2026-06-17 09:35:28  #市場 #焦點
-
-燃料油連續主力合約日內跌5%，現報3168.00元。
-
----
-
-### 2026-06-17 09:35:00  #其他
-
-澳大利亞工會：會員已批准與國際石油開發帝石（INPEX）就伊克迪斯天然氣專案的勞資談判達成和解協議。
-
----
-
-### 2026-06-17 09:34:32  #央行 #中國央行
-
-【中國人民銀行：將招標發行2026年第六期中央銀行票據 發行量人民幣400億元】中國人民銀行公告，2026年6月22日（週一）中國人民銀行將透過香港金融管理局債務工具中央結算系統（CMU）債券投標平臺，招標發行2026年第六期中央銀行票據。第六期中央銀行票據期限6個月（182天），為固定利率附息債券，到期還本付息，發行量為人民幣400億元，起息日為2026年6月24日，到期日為2026年12月23日，到期日遇節假日順延。
-
----
-
-### 2026-06-17 09:34:31  #公司 #市場
-
-【面板板塊衝高，深天馬A漲停】面板板塊衝高，深天馬A漲停，長信科技漲超10%，京東方A、凱盛科技、宸展光電、彩虹股份跟漲。
-
----
-
-### 2026-06-17 09:34:29  #市場 #焦點
-
-液化石油氣連續主力合約日內跌5%，現報4810.00元。
-
----
-
-### 2026-06-17 09:33:58  #MKT News #Market Regions #Greater China
-
-【Where to park spare cash? Wealth-management yield snapshot】Tencent's Licaitong (demand + 7-day annualized yield) ranged 0.7080%–1.4570%; WeChat Wallet's Lingqiantong 7-day annualized yield ranged 1.0010%–1.0230%; Alipay's Yu'ebao 7-day annualized yield ranged 1.0010%–1.0260%.
-
----
-
-### 2026-06-17 09:33:48  #MKT News #Market Regions #Greater China
-
-A-share printed circuit board sector surged in early trade; Yibo Technology rose more than 10%, while Baoding Technology, Mankun Technology, Shennan Circuits, Zhongjing Electronics and Ultrasonic Electronics also advanced.
-
----
-
-### 2026-06-17 09:33:38  #其他
-
-【PCB概念延續強勢 華正新材3連板續創歷史新高】PCB概念延續強勢，華正新材3連板續創歷史新高，生益科技、南亞新材、宏和科技、山東玻纖、中材科技、中國巨石跟漲。
-
----
-
-### 2026-06-17 09:33:25  #公司
-
-【沐曦股份曦雲C系列GPU Day 0適配智譜GLM-5.2旗艦模型】6月17日，智譜AI全新旗艦大模型GLM-5.2正式開源釋出。隨後，沐曦股份宣佈曦雲C系列GPU完成該模型Day 0適配。
-
----
-
-### 2026-06-17 09:33:06  #MKT News #Important #Market Regions #Greater China
-
-China A-share glass-substrate concept stocks extended early-session strength; Qibin Group hit a third consecutive daily trading limit, Changxin Technology rose over 10%, and Linuo Yaobao, Medikai, Woge Optoelectronics and Dier Laser were among the top gainers.
-
----
-
-### 2026-06-17 09:33:01  #公司 #市場
-
-【光伏裝置板塊短線拉昇，帝爾鐳射漲超10%】光伏裝置板塊短線拉昇，帝爾鐳射漲超10%，凱盛新能、安彩高科、金博股份、同享科技、邁為股份等跟漲。
-
----
-
-### 2026-06-17 09:31:56  #市場
-
-【印製電路板板塊直線拉昇，一博科技漲超10%】印製電路板板塊直線拉昇，一博科技漲超10%，寶鼎科技、滿坤科技、深南電路、中京電子、超聲電子等跟漲。
-
----
-
-### 2026-06-17 09:31:44  #MKT News #Important
-
-A-share organosilicon sector pulled back in early trade; Jin Sanjiang down more than 10.5%, Heyuan Gas and Sanfu New Materials off over 5%, Xin'an, Dongyue Silicones and Huangma Technology also declined.
-
----
-
-### 2026-06-17 09:31:41  #公司 #市場 #焦點
-
-【玻璃基板概念再度走強 旗濱集團3連板】早盤玻璃基板概念再度走強，旗濱集團3連板，長信科技漲超10%，力諾藥包、美迪凱、沃格光電、帝爾鐳射漲幅靠前。
-
----
-
-### 2026-06-17 09:31:29  #公司
-
-【中國人民銀行：將招標發行2026年第六期中央銀行票據 發行量人民幣400億元】中國人民銀行公告，2026年6月22日（週一）中國人民銀行將透過香港金融管理局債務工具中央結算系統（CMU）債券投標平臺，招標發行2026年第六期中央銀行票據。第六期中央銀行票據期限6個月（182天），為固定利率附息債券，到期還本付息，發行量為人民幣400億元，起息日為2026年6月24日，到期日為2026年12月23日，到期日遇節假日順延。
-
----
-
-### 2026-06-17 09:31:19  #MKT News #Market Regions #Greater China
-
-【China government bond futures open】China government bond futures opened: 2-year (TS) most-active contract unchanged, 5-year (TF) up 0.01%, 10-year (T) up 0.02%, 30-year (TL) up 0.11%.
-
----
-
-### 2026-06-17 09:31:15  #MKT News #CSI300 #Impact bearish
-
-【Index futures morning open】CSI 300 index futures (IF) most-active contract down 0.10%; SSE 50 index futures (IH) down 0.02%; CSI 500 index futures (IC) down 0.11%; CSI 1000 index futures (IM) down 0.18% at the morning open.
-
----
-
-### 2026-06-17 09:31:07  #MKT News #Market Regions #Japan & APAC
-
-Japan 10-year government bond yield fell 3 bps to 2.615%.
-
----
-
-### 2026-06-17 09:30:57  #MKT News #Important #000660.KS #Impact bullish
-
-SK Hynix extends gains, shares hit a fresh record high.
-
----
-
-### 2026-06-17 09:30:34  #市場 #國際
-
-日本10年期國債收益率下跌3.0個基點，至2.615%。
-
----
-
-### 2026-06-17 09:30:29  #市場
-
-中證轉債指數開盤下跌0.02%。本川轉債、歐通轉債、精測轉2、鶴21轉債、電化轉債跌幅居前，分別跌2.80%、2.29%、2.14%、1.87%、1.80%。通合轉債、冠中轉債、聞泰轉債、山玻轉債、三房轉債漲幅居前，分別漲30.00%、6.17%、4.02%、2.90%、2.13%。
-
----
-
-### 2026-06-17 09:30:24  #公司 #市場
-
-【PCB概念港股低開 建滔積層板跌5%】截至發稿，建滔積層板(01888.HK)跌5%報81.5港元，建滔集團(00148.HK)跌近2%，廣合科技(01989.HK)跌近1%。
-
----
-
-### 2026-06-17 09:30:08  #MKT News
-
-Former U.S. Vice President Pence said a U.S.-Iran agreement clearly amounted to appeasement.
-
----
-
-### 2026-06-17 09:30:03  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌0.33%， 滬深300指數期貨連續跌0.26%， 中證500指數期貨連續跌0.29%， 上證50指數期貨連續跌0.03%。
-
----
-
-### 2026-06-17 09:30:03  #市場
-
-【國債期貨開盤】 30年期主力合約漲0.06%， 10年期主力合約漲0.01%， 5年期主力合約漲0.02%， 2年期主力合約漲0.01%。
-
----
-
-### 2026-06-17 09:30:03  #市場 #焦點
-
-科創50日內跌幅達1.66%，成分股中，滬矽產業跌3.38%，天嶽先進跌2.63%，華海清科跌2.57%，拓荊科技跌2.41%。
-
----
-
-### 2026-06-17 09:29:51  #其他
-
-【廣東跨境電商十年規模增長55倍】6月16日，中國（廣州）跨境電商交易會啟動儀式在廣州舉辦，超過50家跨境電商平臺企業、全國近40個產業帶、200多家跨境電商服務商和1000多家供應鏈企業參加；展覽規模、展商、展位分別增長24.6%、8.7%和15.7%；參展電商平臺首次突破50家，增長21.4%。廣東省商務廳副廳長姚林指出，廣東省跨境電商進出口規模從2015年的113億元躍升至2025年的6230億元，10年擴大55倍、年均增長49.3%，在全國佔比超過1/3，規模穩居全國第一。
-
----
-
-### 2026-06-17 09:29:39  #公司 #市場
-
-【簽署35.57億元算力服務合同 高樂股份開盤一字漲停】6月17日，高樂股份開盤一字漲停，訊息面上，高樂股份6月16日公告，公司全資子公司哈爾濱智浩科技有限公司與客戶簽署《服務採購協議》，由公司按照客戶要求提供算力服務，合同總金額為35.57億元（含稅）。
-
----
-
-### 2026-06-17 09:29:15  #公司
-
-【愛旭股份中標京能庫布齊沙漠基地一期專案】據愛旭股份訊息，近日，愛旭股份成功中標庫布齊沙漠基地京能準旗光伏專案（一期），獨家供應全部240MW N型BC光伏元件。
-
----
-
-### 2026-06-17 09:29:07  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 extended gains to 0.5%, trading at 69,752.22 points.
-
----
-
-### 2026-06-17 09:29:04  #公司 #觀點
-
-【高盛下調MiniMax目標價】高盛將MiniMax目標價從從1000港元下調至860港元，因其更激進的降價策略導致基礎文字模型API（應用程式程式設計介面）毛利率預期受損，進而擴大了對公司的淨虧損預測。
-
----
-
-### 2026-06-17 09:28:48  #公司 #市場
-
-【深交所：“通合轉債”盤中臨時停牌】深交所公告，“通合轉債”（123271）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
-
----
-
-### 2026-06-17 09:28:41  #市場
-
-日經225指數上漲0.5%，報69752.22點。
-
----
-
-### 2026-06-17 09:28:24  #市場 #觀點 #原創
-
-【摩根大通將MSCI新興市場指數年底目標位上調27%】摩根大通將新興市場股票的年底目標位上調27%，稱霍爾木茲海峽的重新開放有助於新興市場交易回暖，同時科技板塊仍將是市場主線。該行將MSCI新興市場指數2026年底目標位從1575點上調至2000點，意味著較週二收盤水平約有13%的上漲空間。摩根大通策略師預計，油價走低將利好石油進口國，並預計2026年布倫特原油均價為每桶96美元，2027年將降至每桶75美元。
-
----
-
-### 2026-06-17 09:27:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-At the open on Wednesday June 17, China equity benchmarks fell: Shanghai Composite down 17.6 pts (-0.43%) to 4,074.29; Shenzhen Composite down 105.32 pts (-0.67%) to 15,569.92; CSI 300 index down 24.53 pts (-0.50%) to 4,859.70; ChiNext index down 41.65 pts (-1.01%) to 4,061.30; STAR 50 index down 29.19 pts (-1.66%) to 1,729.23.
-
----
-
-### 2026-06-17 09:27:18  #MKT News #Market Regions #Greater China #600115.SS #Impact bullish #600029.SS #601111.SS
-
-A-share airport and airlines sector active in the opening call auction; Huaxia Airlines opened over 3% higher, with China Eastern, China Southern, Air China, Juneyao Airlines and Spring Airlines also rising.
-
----
-
-### 2026-06-17 09:25:35  #焦點 #A股
-
-三大股指低開，滬指跌0.43％，深成指跌0.67％，創業板跌1.02％。
-
----
-
-### 2026-06-17 09:25:22  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-China A-shares opened lower: Shanghai Composite down 0.43%, Shenzhen Composite Index down 0.67%, ChiNext down 1.01%.
-
----
-
-### 2026-06-17 09:24:58  #其他
-
-【西電電力電子成功斬獲海外資料中心專用固態變壓器訂單】日前，西電電力電子成功斬獲海外資料中心專用固態變壓器訂單，本次專案共簽約4臺13.8kV AC/800V DC固態變壓器，助力海外資料中心打造新型供電體系。此次海外訂單的成功落地，是國產固態變壓器技術走向國際主流市場的關鍵一步。
-
----
-
-### 2026-06-17 09:24:17  #國際
-
-【舍溫·加查利安當選菲律賓參議長】6月17日，菲律賓參議院召開特別會議，選舉舍溫·加查利安擔任參議長。
-
----
-
-### 2026-06-17 09:23:29  #MKT News #Commodities #Energy #1605.T #Impact bullish
-
-Australian unions have reached an agreement with INPEX on the Ichthys LNG facility.
-
----
-
-### 2026-06-17 09:23:26  #公司 #市場
-
-【抖音啟動反詐活動 平臺“長輩模式”新增預警功能】“2026抖音反詐萬里行”活動日前在京啟動。活動現場，抖音相關負責人介紹，針對老年人的高發網路詐騙，平臺升級了“長輩模式”，新增反詐風險預警功能。當60歲及以上老年人開啟該功能，遭遇詐騙高風險時，系統將向其繫結的緊急聯絡人傳送通知，為子女勸阻提供“黃金時間”。同時，平臺進一步升級“驗證助手”，並依託AI大模型與Agent風控體系，系統提升對新型詐騙的識別與阻斷能力。據瞭解，今年以來抖音已協助公安機關成功落地打擊涉詐案件34起，抓獲165人；日均攔截投稿、評論等場景異常請求1500萬次，透過多種渠道向使用者提醒700萬次。（國是直通車）
 
 ---
