@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 21:52:17_
-_本檔包含 3453 則快訊，約 653642 字_
+_更新時間：2026-06-21 23:00:40_
+_本檔包含 3442 則快訊，約 652076 字_
+
+---
+
+### 2026-06-18 22:41:58  #MKT News #Commodities #Energy
+
+U.S. Federal Energy Regulatory Commission (FERC) said grid operators will have 60-90 days to assess data-center power demand.
+
+---
+
+### 2026-06-18 22:41:52  #國際
+
+美國聯邦能源監管委員會：電網企業需在 60 至 90 天內完成資料中心用電相關稽核。
+
+---
+
+### 2026-06-18 22:41:45  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Lockheed Martin Stock Price Hits 5-week Low — Lockheed Martin shares decreased to 509.69 USD, the lowest since May 2026. Over the past 4 weeks, Lockheed Martin lost 2.97%, and in the last 12 months, it increased 8.59%.
+
+---
+
+### 2026-06-18 22:41:34  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+【eToro says BoE rate hike cannot be ruled out】eToro strategist Lale Akoner said the Bank of England may keep rates unchanged for months but a rate hike cannot be ruled out. The BoE left Bank Rate at 3.75% on Thursday, citing a weak economic outlook; Akoner said inflation is expected to remain above target into next year, so the risk of another hike has not fully disappeared.
+
+---
+
+### 2026-06-18 22:41:02  #Trading Economics #Economy #United States #Natural Gas Stocks Change #Importance 1
+
+US Natural Gas Stocks Rise Less than Expected — US energy firms added 73 billion cubic feet of natural gas into storage in the week ended June 12, slightly below market expectations for a 75 bcf build. It compares with an injection of 97 bcf during the same week a year ago and an average increase for that week of 73 bcf over the past five years (2021-2025). Stockpiles increased to 2.759 trillion cubic feet, 1% below the same week a year ago and about 5.8% above the five-year average for the week. In the week ended June 5, energy firms added 108 bcf of gas into storage.
+
+---
+
+### 2026-06-18 22:40:30  #焦點 #國際
+
+美國參議院共和黨領袖圖恩：預計下週國會將聽取行政部門關於伊朗諒解備忘錄的情況通報。
+
+---
+
+### 2026-06-18 22:40:22  #MKT News #Important #WTI #Impact bearish #Brent
+
+Senate Republican leader Thune said the administration is expected to brief Congress next week on a memorandum of understanding with Iran.
+
+---
+
+### 2026-06-18 22:40:08  #公司 #市場 #國際
+
+伊朗停火協議達成後油價跌至兩伊戰爭爆發以來最低，美國能源企業股價下跌。雪佛龍下跌2.2%，埃克森美孚下跌3%，康菲石油下跌2.8%。西方石油公司股價下跌2.8%，APA公司股價下跌3.8%。
+
+---
+
+### 2026-06-18 22:39:27  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Germany's defense minister Pistorius said Putin is locked in a stalemate in the Ukraine conflict.
+
+---
+
+### 2026-06-18 22:38:28  #公司 #市場 #國際
+
+【英特爾股價飆升至紀錄高點 特朗普稱該公司與蘋果商定晶片協議】英特爾股價週四大漲，此前美國總統唐納德·特朗普表示，這家晶片製造商將與蘋果公司合作，在美國本土設計和生產晶片。特朗普在Truth Social發文，談到了英偉達，以及埃隆·馬斯克的Terafab晶片製造雄心，並在其中提到這一合作，但他並未進一步做詳細說明。蘋果此前進行了探索性討論，考慮藉助英特爾和三星電子在美國生產其裝置的主處理器。特朗普發文稱：“我決定幫助英特爾，因為我們需要在美國本土設計並製造我們的晶片。蘋果已經同意與英特爾合作，在美國設計並製造其晶片。”紐約市場開盤後，英特爾股價一度大漲12%，升至135.13美元的紀錄高位。蘋果股價一度上漲1.5%。英特爾不予置評。蘋果未立即回應置評請求。
+
+---
+
+### 2026-06-18 22:37:32  #國際
+
+立陶宛總統：現在不是與俄羅斯總統普京開始談判的時候。
+
+---
+
+### 2026-06-18 22:37:12  #MKT News
+
+Lithuanian president says now is not the time to begin negotiations with Russian President Putin.
+
+---
+
+### 2026-06-18 22:36:24  #國際
+
+德國國防部長：普京在對烏衝突中已然陷入僵局。
+
+---
+
+### 2026-06-18 22:35:47  #市場 #國際
+
+【中東股市收盤播報｜沙特股市本週漲超0.7%，阿美累跌超2.4%】週三（6月18日），沙特證交所全股指數收漲0.06%，報11121.13點，本週累計上漲0.72%，整體高位震盪，主要交投於11100點上方。沙特阿美（ARAMCO.AB）收跌0.30%，報26.52沙特里亞爾，逼近3月5日收盤位25.88里亞爾，本週累跌2.43%，上週日跳空低開以來平滑地持續震盪走低。在沙特上市的Albilad南方東英MSCI香港中國股票ETF收跌1.82%，報10.27沙特里亞爾，逼近6月11日收盤位10.18里亞爾，本週累漲0.88%。
+
+---
+
+### 2026-06-18 22:35:14  #央行 #公司
+
+【荷蘭國際：隨著對第二輪通脹效應的擔憂消退，英國央行料將長期按兵不動】荷蘭國際集團的James Smith在一份報告中表示，英國央行將基準利率維持在3.75%的決定表明，未來將長期按兵不動，下一步舉措可能是降息。他說：“今天的決定沒有改變我們的看法，即下一步舉措可能是在2027年降息。”Smith表示，要讓英國央行五位中立至鴿派的決策者投票支援加息可能需要很大努力，因為他們似乎確信不太可能出現第二輪通脹效應。如果美伊停火協議得以維持，且能源價格保持在目前水平，今年通脹率可能會在3.5%見頂。他說，這低於英國央行研究表明的可能引發持續價格壓力的4%的門檻。
+
+---
+
+### 2026-06-18 22:34:36  #MKT News
+
+Israeli broadcaster Kan News reported U.S. President Trump said of Netanyahu, "We have a good relationship, but he needs to be more rational."
+
+---
+
+### 2026-06-18 22:34:31  #央行 #國際
+
+俄羅斯央行：將6月19日盧布官方匯率定為1美元兌73.3591盧布（前值為72.7479）。
+
+---
+
+### 2026-06-18 22:34:23  #公司
+
+【汽輪科技：連雲港燃機示範專案預計於2026年內完成自主燃機的訂單交貨】汽輪科技近日接受機構調研時表示，公司於2014年組建團隊啟動自主燃機研製。2019年完成數字樣機設計，2020年至2023年先後完成渦輪、燃燒室和壓氣機實驗，以及燃燒室加氫試驗。2024年7月完成樣機整機組裝。2025年先後完成點火試驗和滿負荷試驗。公司於2026年5月完成72+24小時滿負荷連續執行試驗，標誌著公司自主燃機已具備商業化投運條件。後續，公司將繼續推進極限條件測試等試驗。2026年5月下屬子公司杭州汽輪新能源有限公司中標了連雲港自主燃機試驗和應用示範基地一期專案EPC工程。根據當前進展，連雲港燃機示範專案預計於2026年內完成自主燃機的訂單交貨。
+
+---
+
+### 2026-06-18 22:33:50  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
+
+Brazil 10-Year Yield Edges Up After BCB and Fed Meetings — Brazil’s 10-year government bond yield edged up to 14.4% in June after the latest interest rate decisions by Brazil’s central bank and the US Federal Reserve. The Monetary Policy Committee cut the Selic rate by 0.25 percentage points to 14.25% per year but signaled a longer timeline to bring inflation back to target, leaving its next steps open as it evaluates alternative interest rate paths. The Federal Reserve kept rates unchanged, but its projections were viewed as more hawkish than expected, with roughly half of Federal Open Market Committee members anticipating at least one rate hike this year. Upward pressure on yields was partially offset by lower oil prices after the US-Iran agreement aimed at ending the conflict and reopening the Strait of Hormuz. Oil prices fell to their lowest levels since the conflict began, easing energy-driven inflation concerns.
+
+---
+
+### 2026-06-18 22:33:43  #國際
+
+市場訊息：美國最高法院將於6月23日（週二）釋出下一批裁決意見。目前法院仍有約16項裁決待發布，其中包括涉及出生地公民權、移民保護措施、郵寄投票以及聯邦官員罷免權等爭議的案件。
+
+---
+
+### 2026-06-18 22:33:02  #MKT News
+
+U.S. Supreme Court to release next set of opinions on June 23 (Tuesday). About 16 opinions remain pending, including cases on birthright citizenship, immigration protections, mail-in voting and the authority to remove federal officers.
+
+---
+
+### 2026-06-18 22:32:51  #國際
+
+【歐盟計劃重新審視銀行業獎金與市場風險監管規則】根據一份預計將於下月公佈的提案草案，歐盟有望承諾重新審視其銀行業監管規則手冊中一些最具爭議的方面，包括對待未評級企業的方式、市場風險，以及相關的薪酬規定。歐盟計劃草案顯示，歐盟委員會將承諾採取一系列措施，包括：調查“現行薪酬規則的有效性及其對歐盟銀行業的影響”；提議修訂“銀行軟體資產投資的審慎處理方式，以確保該框架在審慎上穩健、與數字和網路風險環境相一致，併為銀行投資創新和數字韌性提供正確的激勵”。作為此次審查的一部分，銀行業提交了長達數千頁的訴求，呼籲進行重大改革。
+
+---
+
+### 2026-06-18 22:32:30  #國際
+
+印度外交秘書：印美貿易協定將是特朗普與莫迪會談的核心議題。
+
+---
+
+### 2026-06-18 22:32:01  #市場 #國際
+
+美國天然氣期貨在能源資訊署公佈庫存增幅符合預期後，延續漲勢，上漲0.4%。
+
+---
+
+### 2026-06-18 22:31:34  #央行 #國際
+
+【沃什希望美聯儲減少釋放訊號 但這可能加劇市場波動】分析師Colby Smith撰文指出，美聯儲主席沃什對未來利率路徑的看法守口如瓶，幾乎沒有提供任何明確指引。沃什的做法為美聯儲下一步行動保留了相當大的靈活性，但這也增加了一個風險：美聯儲主席可能無法牢牢掌控市場對於經濟走勢或央行政策反應的敘事方向，導致市場出現誤解，而誤解隨後又需要被澄清，從而加劇市場波動。巴克萊銀行美國首席經濟學家Marc Giannoni表示：“當你什麼都不說時，實際上就是把更多主動權交給市場。最終，他可能會對市場對於未來的判斷感到沮喪。”沃什的偏好似乎並不被其他同事共享。12家地區聯儲主席以及華盛頓聯邦儲備委員會委員仍會經常公開談論經濟前景以及在特定情況下政策可能如何變化。紐約梅隆投資管理高管Vincent Reinhart表示：“核心問題在於，持不同觀點的人會填補這一真空。”Reinhart預計，最活躍發聲的人將是那些支援加息的人，而這一陣營近幾個月顯著擴大。
+
+---
+
+### 2026-06-18 22:30:53  #國際
+
+【美解除中國玩具無人機進口禁令】美國聯邦通訊委員會（FCC）16日宣佈，將允許符合特定技術規格的中國新型玩具無人機進入美國市場銷售。據路透社報道，FCC在去年12月以“對美國國家安全構成不可接受的風險”為由，禁止所有新型外國無人機及其關鍵零元件進口，包括來自中國大疆創新和道通智慧的產品。然而，美國防部認為，“技術含量低、風險可控的玩具類”產品不構成國家安全威脅。根據該部門的調查結果，這類無人機在飛行距離、續航能力、感測功能、載荷能力、連線性及資料採集儲存等方面，均不具備傳統無人機的“內建功能與特性”。FCC對玩具無人機的認定設有嚴格限制，包括重量不得超過150克，操作必須在視線範圍內且距離不超過100米，無聯機或網路功能，不得配備攝像頭或任何具備監控、資料採集能力的感測器，單次最長飛行時間不得超過10分鐘。凡超出此範疇的機型，仍將受制於原有禁令。（環球網）
+
+---
+
+### 2026-06-18 22:30:38  #市場
+
+【給阿嬤的情書票房預測超19億】據燈塔專業版，由大麥娛樂出品的影片《給阿嬤的情書》AI票房預測上漲至超19億。
+
+---
+
+### 2026-06-18 22:30:24  #MKT News #Important #Commodities #Energy
+
+EIA: U.S. natural gas in storage for week ended June 12 was 2,759 Bcf, up 73 Bcf week-on-week, down 29 Bcf YoY (-1.0%), and 151 Bcf above the five-year average (+5.8%).
+
+---
+
+### 2026-06-18 22:30:10  #國際
+
+美國至6月12日當週EIA天然氣庫存 730億立方英尺，預期750億立方英尺，前值1080億立方英尺。
+
+---
+
+### 2026-06-18 22:30:10  #MKT News #Important #Commodities #Energy
+
+U.S. EIA weekly natural gas storage for week ended June 12: injection of 73 bcf vs 75 bcf expected; prior 108 bcf.
+
+---
+
+### 2026-06-18 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Natural Gas Storage Change (Jun.12) | actual 73000000000B | consensus 75000000000B | previous 108000000000B
+
+---
+
+### 2026-06-18 22:29:57  #MKT News #Important
+
+Israeli outlet i24News reports Pakistan's deputy foreign minister will represent Islamabad at the signing ceremony for a U.S.-Iran memorandum of understanding.
+
+---
+
+### 2026-06-18 22:29:36  #其他
+
+巴基斯坦電視臺報道：巴基斯坦副外長將代表伊斯蘭堡出席簽署儀式。
+
+---
+
+### 2026-06-18 22:29:32  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY
+
+【Kevin Warsh prefers less Fed signaling, but that may raise market volatility】Analyst Colby Smith says Fed Chair Kevin Warsh has been tight-lipped on the future rate path, offering almost no explicit guidance. That preserves the Fed’s policy flexibility but increases the risk that market narratives about the economy or policy reactions will diverge, requiring later clarification and amplifying volatility. Barclays U.S. chief economist Marc Giannoni warns that silence cedes initiative to the market and may leave Warsh frustrated by market judgments. Warsh’s reticence appears not to be shared across colleagues: a dozen regional Fed presidents and board members continue to speak publicly about the outlook and conditional policy moves. Vincent Reinhart at BNY Mellon Investment Management says dissenting voices will fill the vacuum and expects the most vocal will be those favoring rate hikes, a cohort that has expanded in recent months.
+
+---
+
+### 2026-06-18 22:28:57  #國際
+
+巴基斯坦媒體訊息：巴基斯坦外交部副部長將前往瑞士。
+
+---
+
+### 2026-06-18 22:28:28  #MKT News
+
+【After US-Iran Islamabad memorandum, Iran president PEZESHKIAN speaks with Pakistan PM Shehbaz Sharif】Pakistan Prime Minister Shehbaz Sharif and Iran President PEZESHKIAN held their first phone call since the signing of the Islamabad memorandum between the United States and the Islamic Republic of Iran, the two sides said. Sharif congratulated the memorandum, saying it would help restore regional peace, support Iran’s reconstruction and deepen Pakistan-Iran cooperation; he also conveyed greetings to Supreme Leader Mojtaba Khamenei. PEZESHKIAN thanked Sharif and army chief Munir for their mediation role in securing the agreement and said Iran is willing to expand bilateral ties. Both agreed to make reciprocal capital visits soon to advance cooperation on bilateral and regional affairs.
+
+---
+
+### 2026-06-18 22:28:25  #國際
+
+【伊美簽署諒解備忘錄後 伊朗總統與巴基斯坦總理首次通話】當地時間18日下午，巴基斯坦總理夏巴茲·謝里夫與伊朗總統佩澤希齊揚通電話，這是雙方自《美利堅合眾國與伊朗伊斯蘭共和國之間的伊斯蘭堡諒解備忘錄》簽署以來首次進行接觸。夏巴茲對該諒解備忘錄的簽署表示祝賀。他表示，這不僅有助於恢復地區和平，還將為伊朗的國家重建以及進一步加強巴伊兩國在各個共同關心領域的關係發揮重要作用。夏巴茲還向伊朗最高領袖穆傑塔巴·哈梅內伊轉達了誠摯問候。佩澤希齊揚對巴基斯坦總理和陸軍元帥穆尼爾推動調解程序、並在確保調解取得成功過程中發揮極其關鍵的作用表達了感謝。佩澤希齊揚還向巴基斯坦人民致以良好祝願，並表示願在共同關心領域進一步加強和擴大與巴基斯坦的雙邊關係。雙方同意儘早互訪對方首都，以推動兩國在雙邊和地區事務中的合作繼續向前發展。（央視新聞）
+
+---
+
+### 2026-06-18 22:28:21  #公司 #國際
+
+市場訊息：美國佛蒙特州獨立參議員伯尼·桑德斯公佈了一項計劃，提議美國政府持有大型人工智慧公司50%的股權。
+
+---
+
+### 2026-06-18 22:28:08  #MKT News #Important #S&P500 #Impact bearish #Nasdaq100 #DXY #Impact bullish
+
+Axios reported that Vermont independent Senator Bernie Sanders unveiled a plan proposing the U.S. government hold a 50% equity stake in large AI firms.
+
+---
+
+### 2026-06-18 22:27:46  #公司
+
+加拿大聯合汽車工會（UNIFOR）：將於2026年6月22日啟動與福特汽車公司2026年汽車行業集體談判。
+
+---
+
+### 2026-06-18 22:27:07  #公司 #市場 #央行 #國際
+
+【受沃什言論影響，加密貨幣延續跌勢】美聯儲昨日維持利率不變的決定，以及新任美聯儲主席凱文·沃什的言論，繼續在加密貨幣市場產生迴響。Tickmill的Joseph Dahrieh在一份報告中表示：“在美聯儲於最新貨幣政策決定後釋放出更加偏緊縮的訊號之後，比特幣可能仍面臨進一步下跌的風險。”CoinGlass的資料顯示，對沖基金仍在從比特幣ETF中撤資——昨日總淨流出額達到8,220萬美元。倫敦證券交易所集團的資料顯示，比特幣下跌1%，至63,710美元，而以太幣下跌0.9%，XRP下跌2.7%，至1.15美元，solana下跌1.7%，至70.81美元。
 
 ---
 
@@ -20586,317 +20832,5 @@ JP Morgan global fixed income head Michelle said the oil-price shock is to some 
 ### 2026-06-18 01:50:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
 
 The Federal Reserve's FOMC will release its rate decision and the Summary of Economic Projections in 10 minutes.
-
----
-
-### 2026-06-18 01:49:19  #MKT News
-
-Brazilian President Lula said he expects U.S. President Trump will not interfere in Brazil's election.
-
----
-
-### 2026-06-18 01:49:02  #國際
-
-巴西總統盧拉：但我希望特朗普不要干涉巴西大選。
-
----
-
-### 2026-06-18 01:48:48  #國際
-
-巴西總統盧拉：我認為特朗普有權對巴西大選持有個人偏向立場。
-
----
-
-### 2026-06-18 01:48:08  #MKT News
-
-Lula said officials from the foreign and commerce ministries are negotiating with the United States.
-
----
-
-### 2026-06-18 01:48:01  #MKT News #Market Themes #The Trump Trade
-
-Brazilian President Lula said Trump talks too much and listens too little.
-
----
-
-### 2026-06-18 01:47:15  #國際
-
-巴西總統盧拉：倘若特朗普僅透過博索納羅家族來認識巴西，那他根本不瞭解這個國家。
-
----
-
-### 2026-06-18 01:46:50  #國際
-
-【美媒：美官員公佈美伊諒解備忘錄文字】據多家美國媒體17日報道，美國匿名高階官員當天向媒體透露了美國與伊朗達成的諒解備忘錄“正式文字”內容。伊朗方面尚未對外公佈該檔案。（新華社）
-
----
-
-### 2026-06-18 01:45:49  #MKT News #Macro & Rates #The Fed (FOMC)
-
-JP Morgan's global head of fixed income Michelle said she would be surprised by either a hawkish or dovish tilt.
-
----
-
-### 2026-06-18 01:45:35  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-JP Morgan's global head of fixed income, Michelle, said if the Fed abandons its easing bias there would be no objection.
-
----
-
-### 2026-06-18 01:45:34  #國際
-
-巴西總統盧拉：我認為特朗普對巴西瞭解甚少。
-
----
-
-### 2026-06-18 01:45:02  #國際
-
-巴西總統盧拉： 若談判毫無成果，我會主動致電特朗普。
-
----
-
-### 2026-06-18 01:44:38  #國際
-
-巴西總統盧拉：巴西外長與經貿官員正同美方開展談判，特朗普說得太多，聽得太少。
-
----
-
-### 2026-06-18 01:44:23  #MKT News #Market Regions #Emerging Markets
-
-Brazilian President Lula said he would be willing to schedule a new meeting with U.S. President Trump once negotiations conclude.
-
----
-
-### 2026-06-18 01:44:16  #MKT News
-
-Brazilian President Lula said he currently has no reason to speak with US President Trump and that they are in negotiations.
-
----
-
-### 2026-06-18 01:44:16  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
-
-JP Morgan's global fixed-income head Michelle said this is not an environment for interest-rate cuts.
-
----
-
-### 2026-06-18 01:43:53  #MKT News
-
-JP Morgan's global head of fixed income Michelle said Fed chair Kevin Warsh is bound to disappoint Trump.
-
----
-
-### 2026-06-18 01:43:52  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Michelle, JP Morgan's global head of fixed income, said the question for Fed chair Kevin Warsh is what institutional reform means.
-
----
-
-### 2026-06-18 01:43:50  #國際
-
-巴西總統盧拉：若談判結束，我不介意與特朗普再舉行一次會晤。
-
----
-
-### 2026-06-18 01:43:44  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY #WTI #Impact bullish
-
-【Institutions preview Wosh press conference; debut seen as hawk-or-dove pricing risk】Market participants warn Wosh’s first press conference could drive re-pricing: both hawkish and dovish messaging pose meaningful risks to rates, inflation expectations and Fed communication. UBS says Wosh’s policy stance and reaction function remain unclear; either hawkish or dovish remarks could spook markets. ANZ sees strong reform intent and expects the press conference to outline proposals, with fuller detail likely in Wosh’s Jackson Hole keynote in August. BofA expects a dovish tilt — Wosh may argue the Iran shock raises price levels but not underlying inflation and should be largely ignored by the Fed amid reports the conflict is de‑escalating. Capital Economics flags the risk Wosh could sound more hawkish than markets expect, either from a communication slip or because his stance is less dovish now than during his nomination push. Yale cautions that overreliance on soft arguments like AI-driven disinflation at the expense of hard data could repeat the Fed’s ‘transitory’ inflation error. Nordea expects a neutral-to-slightly hawkish tone to shore up credibility; any communication shift would be signaling rather than immediate policy. BNY Mellon notes Wosh’s criticism of forward guidance and says he may use (or curtail) press events to signal a change in Fed communication. MFS judges dovish language is possible given Wosh’s tech-productivity views but considers it unlikely because it would undermine his hawkish credibility.
-
----
-
-### 2026-06-18 01:43:13  #國際
-
-巴西總統盧拉：我目前沒有與特朗普會談的理由，我們正處於談判階段。
-
----
-
-### 2026-06-18 01:43:09  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver rises more than 2% intraday to $71.42/oz.
-
----
-
-### 2026-06-18 01:43:08  #市場
-
-現貨白銀日內漲2%，現報71.49美元/盎司。
-
----
-
-### 2026-06-18 01:42:59  #其他
-
-Meta：自今日起，土耳其使用者可透過官網下載 Threads 應用。
-
----
-
-### 2026-06-18 01:41:32  #MKT News #Brent #Impact bearish #WTI
-
-Iran's foreign ministry spokesman said Iran and Oman will establish a strait-management mechanism and will consult other countries if necessary.
-
----
-
-### 2026-06-18 01:41:08  #焦點 #國際
-
-伊朗外交部發言人表示，伊朗與阿曼將建立針對霍爾木茲海峽的協調機制，必要時會同其他國家交換意見。
-
----
-
-### 2026-06-18 01:40:58  #國際
-
-巴西總統盧拉：我並未要求在G7峰會上與特朗普舉行雙邊會晤。
-
----
-
-### 2026-06-18 01:40:48  #市場 #焦點
-
-紐約期銀突破72美元/盎司，日內漲2.20%。
-
----
-
-### 2026-06-18 01:40:43  #焦點 #國際
-
-伊朗官方媒體訊息：伊朗外交部發言人表示，雙方已就霍爾木茲海峽達成共識，將在一段時期內恢復航道航運正常通行。
-
----
-
-### 2026-06-18 01:40:39  #MKT News #Market Themes #The Trump Trade
-
-Brazilian President Lula said he did not request a bilateral meeting with US President Trump at the G7 summit.
-
----
-
-### 2026-06-18 01:40:33  #市場
-
-紐約期銀日內漲2%，現報71.96美元/盎司。
-
----
-
-### 2026-06-18 01:40:26  #MKT News #WTI #Impact bearish #Brent
-
-Iranian state media quoted a Foreign Ministry spokesman saying an agreement has been reached to restore maritime traffic in the Strait of Hormuz to normal within a certain period.
-
----
-
-### 2026-06-18 01:39:11  #MKT News #Important
-
-【U.S. official says U.S.-Iran 14-point memorandum is nonbinding, text aligns with prior leaks】Refinitiv reported a senior U.S. official on Wednesday read a 14-point memorandum due to be signed in Switzerland on Friday, saying it is not a final, binding agreement and either side may withdraw. The official said the next negotiation phase will focus on sequencing and implementation of measures in the preliminary pact and described the Swiss meeting as critical to whether the memorandum can evolve into a comprehensive agreement. He said the text he read largely matches versions previously leaked to the media.
-
----
-
-### 2026-06-18 01:38:58  #觀點 #央行 #國際
-
-摩根大通全球固定收益主管： 這並非適合降息的經濟環境， 如果美聯儲取消寬鬆傾向，不會出現委員反對意見。
-
----
-
-### 2026-06-18 01:38:30  #國際
-
-據以色列今日報：以色列希望加快與黎巴嫩的談判，儘快達成協議，甚至爭取在美伊全面協議形成之前完成。
-
----
-
-### 2026-06-18 01:38:24  #MKT News
-
-According to Israel Hayom, Israel wants to accelerate talks with Lebanon to reach an agreement as soon as possible and is seeking to complete it even before a comprehensive U.S.-Iran deal is reached.
-
----
-
-### 2026-06-18 01:38:06  #觀點 #國際
-
-摩根大通全球固定收益主管：  對沃什來說，問題是機制更替意味著什麼。 沃什註定會讓特朗普失望。
-
----
-
-### 2026-06-18 01:35:53  #MKT News #WTI #Impact bullish #Brent
-
-Colombia's state oil company said blockades have halted production of more than 800,000 barrels of oil.
-
----
-
-### 2026-06-18 01:35:29  #公司
-
-哥倫比亞國家石油公司表示，封鎖已導致逾80萬桶石油停產。
-
----
-
-### 2026-06-18 01:34:19  #公司
-
-哥倫比亞國家石油公司釋出宣告稱，受承包商企業工人封鎖道路影響，該公司在梅塔省的生產運營已受到波及。
-
----
-
-### 2026-06-18 01:34:02  #市場 #焦點
-
-現貨黃金突破4380美元/盎司，日內漲1.16%。
-
----
-
-### 2026-06-18 01:34:01  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose more than 1.00% intraday, trading at $4,374.60/oz.
-
----
-
-### 2026-06-18 01:33:55  #市場 #焦點
-
-紐約期金突破4400美元/盎司，日內漲1.07%。
-
----
-
-### 2026-06-18 01:33:52  #市場 #焦點
-
-現貨黃金突破4370美元/盎司，日內漲1.05%。
-
----
-
-### 2026-06-18 01:33:45  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Institution previews Fed SEP and dot plot — Wosh’s first dot plot uncertain; inflation likely revised up, rate cuts may be delayed】Major banks and asset managers expect the Fed’s SEP/dot plot to skew hawkish: most forecast upward revisions to inflation and fewer or later rate cuts, with the SEP itself trimmed in detail. UBS sees higher inflation forecasts and a view that most officials do not favor cuts before 2028; the median may still show a single 2028 cut but policy will remain restrictive. Goldman expects Wosh may not submit a personal dot; the median likely shows rates unchanged through 2026 with one cut each in 2027 and 2028, while 2026 GDP and unemployment are tweaked down slightly and inflation is revised materially higher. Barclays expects no 2026 cuts, only one cut in 2027 and a cautious 2028 outlook. Jefferies flags a policy-shift in communications — Wosh’s rejection of forward guidance at his Senate hearing points to a shorter FOMC statement and a leaner SEP. Several houses (BofA, TD Securities, Capital Economics) predict Wosh will not submit a personal forecast to blunt hawkish signals; JPMorgan alone expects he will submit one to avoid appearing in dissent. Other houses (Rabobank, Nordea, BNY Mellon, PIMCO) put the risk on stickier inflation, fewer cuts or even renewed hawkish calls, with some forecasting the dot plot will drop prior in‑year cut scenarios and skew modestly hawkish.
-
----
-
-### 2026-06-18 01:33:41  #市場
-
-紐約期金日內漲1%，現報4398.37美元/盎司。
-
----
-
-### 2026-06-18 01:33:36  #市場 #焦點
-
-紐約期金突破4390美元/盎司，日內漲0.86%。
-
----
-
-### 2026-06-18 01:33:21  #MKT News #DXY #Impact mixed
-
-【Analyst: Fed meeting's core isn't the rate decision; DXY 99.50 seen as key watershed】Analyst Matthew Weller says the core of the first Fed meeting under FOMC chair Kevin Walsh will likely be the SEP, dot plot and press conference rather than the near-term rate decision, and these could materially reshape market expectations for the policy path. Traders and economists broadly expect the Fed to hold the target range at 3.50–3.75%. Walsh's remarks on central-bank independence and communication strategy at the press conference are expected to have lasting market impact. DXY 99.50 is viewed as the key watershed for this week and beyond: if the Fed leaves the door open to a later-year hike and Walsh stresses FOMC independence, the dollar could rebound toward ~100.50 (a one-year high); if the SEP is more cautious and Walsh is ambiguous on independence, the dollar would come under pressure and a break below 99.50 would likely pull the 50-day moving average toward 99.00.
-
----
-
-### 2026-06-18 01:27:12  #國際
-
-馬來西亞總理感謝普京推進能源合作，並感謝俄方承諾在能源危機期間提供援助。
-
----
-
-### 2026-06-18 01:24:05  #MKT News #Macro & Rates #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-【Hedge fund CIO says new Fed chair likely to open dovish, avoid hawkish signals】Oraclum Capital CIO Vuk Vukovic says the market’s immediate focus is political risk rather than inflation or rates. He notes the new Fed chair took office amid accelerating inflation—CPI 4.2%, PPI 6.5%—which constrains the Fed’s room to deliver any previously promised rate cuts. Recent easing in geopolitical tensions, notably a thaw in US‑Iran pressures that has pushed oil prices lower, gives the chair breathing room. Vukovic does not expect hawkish signals at this meeting and judges a dovish opening is the most likely path. If the chair abandons rigid forward guidance, markets will shift to other signal sources—trade, foreign policy and fiscal measures will gain weight. Whether that communication approach succeeds will be the new chair’s first major test.
-
----
-
-### 2026-06-18 01:23:17  #國際
-
-美國高階官員：我們將採取一些措施以建立信任，看看是否能夠達成協議。商定步驟的先後順序將是即將與伊朗舉行會談的重要議題。諒解備忘錄已簽署，但在具有約束力的協議達成之前，任何一方均可退出。與以色列一直保持非常頻繁的聯絡。本週末在瑞士舉行的會議對於觀察與伊朗談判的進展將是至關重要的。
-
----
-
-### 2026-06-18 01:23:07  #MKT News #WTI #Impact mixed #Brent
-
-A U.S. official said the meeting in Switzerland this weekend will be critical for gauging progress in talks with Iran.
-
----
-
-### 2026-06-18 01:23:02  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY #S&P500
-
-【Institutions preview Fed rate path: hold widely expected, forecasts split on timing of cuts vs. hikes】Major institutions broadly expect the Fed to hold at the upcoming FOMC, but forecasts diverge sharply on subsequent direction and timing. No-cut/steady camp: Moody’s, Nomura, JP Morgan, Wells Fargo and BNY Mellon see a hold as baseline and deem near-term cuts unlikely; JP Morgan and others expect policy language to shift from easing-leaning toward neutral. Moody’s warns re-accelerating inflation expectations could prompt hikes. BNY Mellon expects the statement to signal two-way rate risks and to remove prior 2026 cut expectations; it does not expect any moves this year. Cut camp: Goldman expects a hold but will remove easing-leaning forward guidance and projects two 25bp cuts in June and December 2027. UBS expects the Fed to drop a dovish tilt yet still forecasts 25bp cuts in March and June 2027. Citi projects three 25bp cuts in September, October and December. Deutsche Bank expects the Fed to abandon easing language and begin cuts from mid‑next year, totalling 75bps by end‑2027. Hike/insurance-hike camp: Capital Economics and BNP Paribas see a real risk of precautionary hikes (Capital Economics flags two potential “insurance” hikes around December/early next year; BNP Paribas sees the earliest hike in December). Deutsche Bank flags rising upside risk to rates. PGIM expects the Fed to hold now but projects three hikes this year, three cuts in 2027 and one cut in 2028, with a terminal rate around 3.375%. Other notes: Barclays, BofA and ANZ also expect a hold and say the Fed will likely delete easing-leaning language in the statement; BofA expects potential tweaks to employment wording, ANZ expects a renewed 2% inflation commitment. Mitsubishi UFJ says the meeting’s market importance is driven mainly by forward guidance. Asset manager MFS expects a hold with signals of a neutral stance and possible changes to communication tools (less use of the dot plot, fewer/shorter press interactions).
 
 ---
