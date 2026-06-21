@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-22 05:06:12",
+  "updated": "2026-06-22 05:10:05",
   "count": 17473,
   "items": [
+    {
+      "id": "4946678",
+      "time": "2026-06-22 05:06:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【KNDS家族所有者將向德國政府出售40%的股份】知情人士透露，持有坦克製造商KNDS一半股份的家族已同意將40%的股份出售給德國政府。這項交易掃清了該公司在夏季前上市的最後一個障礙。KNDS生產“豹2”和“勒克萊爾”坦克，正準備在法蘭克福和巴黎兩地上市。此舉將使這些家族退出這家法德合資企業。訊息人士稱，這筆交易對KNDS的估值將在150億歐元至180億歐元之間。這意味著德國政府將為其持有的股份支付約60億至70億歐元。"
+    },
     {
       "id": "mkt:019eebfe-f539-7dd8-b0a9-780e1a24de77",
       "time": "2026-06-22 05:03:35",
@@ -160914,16 +160922,6 @@
         "Impact bullish"
       ],
       "text": "【Trump says he will immediately announce US-Iran agreement】In a Wall Street Journal interview, Trump said he plans to immediately issue a statement confirming the US has reached an agreement with Iran and that he or the vice president will sign the pact electronically. He said the deal would include an Iranian commitment not to acquire nuclear weapons and the immediate reopening of the Strait of Hormuz. Trump said the US is not in a rush to remove nuclear material and may delay extraction for a month or two. He described inspections as going to be very strict but gave no operational details. Iran would not receive unfrozen funds under the agreement, though sanctions could be lifted. He called a maritime blockade more effective than strikes. Iran has not confirmed the agreement."
-    },
-    {
-      "id": "4934796",
-      "time": "2026-06-15 05:09:10",
-      "tags": [
-        "央行",
-        "公司",
-        "市場"
-      ],
-      "text": "英國央行行長貝利：減持英國國債，便於必要時再度實施量化寬鬆政策。"
     }
   ]
 }
