@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 08:58:05_
-_本檔包含 3123 則快訊，約 653763 字_
+_更新時間：2026-06-21 10:35:47_
+_本檔包含 3123 則快訊，約 653739 字_
+
+---
+
+### 2026-06-17 21:28:13  #MKT News #Commodities #Energy
+
+U.S. natural gas futures fell 3.0% intraday to $3.141 per MMBtu.
+
+---
+
+### 2026-06-17 21:28:10  #MKT News
+
+Sharon AI to issue $700 mln 4.75% convertible senior notes.
+
+---
+
+### 2026-06-17 21:27:59  #MKT News #Market Themes #Chip Wars
+
+【Dongshan Precision: optical-chip profit levels meet expectations; margins to expand】At an investor meeting on June 17, Dongshan Precision said profit levels from its optical-chip business are in line with expectations and that profitability will expand as capacity continues to ramp and yields improve.
+
+---
+
+### 2026-06-17 21:27:59  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Sharon AI to raise funds to support a compute agreement with NVIDIA.
+
+---
+
+### 2026-06-17 21:27:40  #其他
+
+英國政府：基礎設施管理局將實心牆體保溫工程維修保障額度從2萬英鎊上調至2.5萬英鎊。
+
+---
+
+### 2026-06-17 21:27:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【Analyst: Gold could still rally toward $5,000/oz】Rick Kanda of The Gold Bullion Company said gold could still return to around $5,000/oz this year, while last year's $6,000/oz target now looks out of reach. He said if global central banks keep buying, gold has a good chance of hitting $5,000/oz, but recent macroeconomic shifts have reduced gold's safe-haven appeal versus last year.
+
+---
+
+### 2026-06-17 21:27:13  #其他
+
+【東山精密：目前光晶片業務相關利潤水平符合預期 盈利空間會進一步提升】東山精密6月17日在機構投資者會議表示，目前光晶片業務相關利潤水平符合預期，隨著產能持續爬坡、良率提升，盈利空間會進一步提升。
+
+---
+
+### 2026-06-17 21:26:34  #其他
+
+【應勇：持續推動未成年人檢察制度發展完善】最高人民檢察院檢察長應勇17日在上海出席檢察機關預防和治理未成年人違法犯罪暨未成年人檢察工作40週年座談會時表示，檢察機關在強化未成年人犯罪防治和權益保護工作中肩負重要責任。要深入學習貫徹習近平法治思想和習近平總書記關於未成年人保護重要指示批示精神，增強預防就是保護、懲治也是挽救意識，履行好國家法律監督機關職責，攜手各方以法治力量保障和促進未成年人健康成長。應勇指出，要依法懲治和預防未成年人犯罪，協同加強分級干預矯治，全面維護未成年人權益，結合檢察辦案推進綜合治理，促推“六大保護”形成合力。不斷深化對未成年人檢察工作的規律性認識，全面提升工作質效和水平，持續推動未成年人檢察制度發展完善。（新華社）
+
+---
+
+### 2026-06-17 21:25:46  #市場
+
+巴西財長杜裡甘：如果戰爭導致油價上漲，而政府的收入增加，我會與國家分享利潤，以便家庭不必支付更多。儘管巴西利率高企，我們仍設法使經濟產生了良好成果。
+
+---
+
+### 2026-06-17 21:25:33  #其他
+
+萬斯稱：巴基斯坦要求暫緩公佈美伊諒解備忘錄全文。
+
+---
+
+### 2026-06-17 21:24:23  #MKT News #Commodities #Precious Metals #Market Regions #Greater China #XAUUSD #Impact bullish
+
+【Xu: Three traits to power Shanghai‑Hong Kong financial coordination; push to build international gold trading hub in Hong Kong】At the Lujiazui Forum on June 17, Hong Kong Secretary for Financial Services and the Treasury Xu said Shanghai‑Hong Kong financial cooperation is comprehensive, long‑term and interlinked. He noted Hong Kong lacks commodity markets and said gold will be the strategic entry point, advancing strategic cooperation with the Shanghai Gold Exchange and aiming to establish an international gold trading center in Hong Kong. He said next steps will better leverage Hong Kong’s financial capabilities and Shanghai’s real‑economy strengths through two‑way linkage.
+
+---
+
+### 2026-06-17 21:24:16  #MKT News #WTI #Impact bullish #Brent
+
+Brazil's finance minister Durigan said if war pushes oil prices higher and raises government revenue, he would share the windfall with the nation to prevent households from paying more.
+
+---
+
+### 2026-06-17 21:23:53  #其他
+
+【聯合國報告：全球漁業和水產養殖產量創歷史新高】聯合國糧食及農業組織16日釋出報告說，全球漁業和水產養殖產量2024年創歷史新高，但該行業仍面臨可持續發展等挑戰。這份名為《2026年世界漁業和水產養殖狀況》的報告估算，2024年全球漁業和水產養殖產量達到創紀錄的2.35億噸，其中水生動物產量為1.95億噸。（央視新聞）
+
+---
+
+### 2026-06-17 21:23:41  #MKT News
+
+Ukraine's military denied Russian claims that Ukrainian drones struck a bus carrying children in Russia's Bryansk region.
+
+---
+
+### 2026-06-17 21:23:34  #市場
+
+【許正宇：三大特質賦能滬港金融協同 雙向聯動助力金融強國建設】2026陸家嘴論壇全體大會四“滬港金融協同發展賦能高水平金融開放”6月17日晚間舉行。香港特別行政區政府財經事務及庫務局局長許正宇表示，綜合性、長期性、聯動性是滬港金融協同發展的三大特質。例如，作為國際金融中心，香港只有股票、債券，沒有商品。基於此，香港以黃金品類為核心突破口，推動與上海黃金交易所的戰略合作，力爭在香港建設國際性的黃金交易中心。下一步要更好利用香港的金融性和上海實體經濟的元素來進行聯動。
+
+---
+
+### 2026-06-17 21:23:21  #宏觀 #國際
+
+【王毅看望柬埔寨國王西哈莫尼和太后莫尼列】2026年6月17日，中共中央政治局委員、外交部長王毅受國家主席習近平委派，看望正在北京查體休養的柬埔寨國王西哈莫尼和太后莫尼列。王毅轉達了習近平主席和夫人彭麗媛的親切問候和良好祝願，表示中柬友誼由西哈努克太皇和中國老一輩領導人親手締造。今年是西哈努克太皇首次訪華70週年。70年來，無論國際風雲如何變幻，中柬兩國始終以心相交、以誠相待，樹立了國與國交往的典範。國王陛下繼承太皇友華傳統，同習近平主席建立深厚友誼。在兩國元首戰略引領下，中柬關係邁入新時代全天候命運共同體建設新階段。中方願同柬方弘揚傳統友誼，深化戰略互信，增進務實合作，為兩國人民創造更多福祉，為地區和世界和平作出新的貢獻。西哈莫尼和莫尼列請王毅轉達對習近平主席和夫人彭麗媛的誠摯問候和祝願，感謝中方長期以來為柬王室治療查體提供良好保障和周到安排，為柬經濟社會發展提供真誠幫助。柬方高度珍視柬中傳統友誼。不管國際形勢如何變化，柬埔寨始終是中國最好的朋友。祝願中國國泰民安，人民安居樂業。（外交部）
+
+---
+
+### 2026-06-17 21:22:57  #其他
+
+AWS：ZELIS與AWS攜手合作，推進醫療保健財務體驗現代化。
+
+---
+
+### 2026-06-17 21:22:43  #其他
+
+荷蘭道路運輸局：目前荷蘭有4萬輛特斯拉搭載全自動駕駛（FSD）軟體投入使用。
+
+---
+
+### 2026-06-17 21:22:17  #市場
+
+芝加哥大豆價格上漲0.7%，至每蒲式耳11.5475美元。芝加哥小麥上漲1.4%。巴黎玉米上漲2.5%，至每噸215歐元。
+
+---
+
+### 2026-06-17 21:22:08  #其他
+
+荷蘭道路交通管理局（RDW）：已對使用全自動駕駛（FSD）駕駛輔助軟體的特斯拉車輛加強監管。
+
+---
+
+### 2026-06-17 21:21:46  #MKT News #Commodities #Industrial Metals #600019.SS #Impact bullish
+
+【China resolves technical hurdles for polar-ship high-strength steel; domestic product produced】China Polar Research Center and the China Classification Society (CCS), together with several domestic steelmakers, after more than two years of R&D resolved a series of technical problems for high-strength steel for polar vessels and have produced a domestic polar-ship high-strength steel. Relevant steelmakers have begun certification work; Baoshan Iron & Steel Co., Ltd.'s polar-ship high-strength steel is the first product to receive CCS certification.
+
+---
+
+### 2026-06-17 21:21:42  #其他
+
+荷蘭道路運輸局（RDW）表示，已加強對配備全自動駕駛（FSD）駕駛輔助軟體的特斯拉車輛的監管。
+
+---
+
+### 2026-06-17 21:21:12  #公司
+
+【蘇交科：收到政府補助1900萬元 佔最近一年歸母淨利潤80.8%】蘇交科(300284)6月17日公告，公司近日收到與收益相關的政府補助資金1900萬元，佔公司最近一個會計年度經審計的歸屬於上市公司股東淨利潤的80.8%。
+
+---
+
+### 2026-06-17 21:21:08  #公司
+
+【攻克“怕冷”等難題 國產“極地鋼”出爐】記者17日獲悉，中國極地研究中心、中國船級社攜手我國多家鋼廠經過2年多技術攻關，成功攻克極地船用高強度鋼一系列難題，國產“極地鋼”順利出爐。目前，相關鋼廠已啟動極地船用高強度鋼的認證工作。其中，寶山鋼鐵股份有限公司研發的極地船用高強度鋼，成為首個獲得中國船級社認證的產品。（新華社）
+
+---
+
+### 2026-06-17 21:20:06  #公司
+
+埃尼集團(ENI)與芬坎蒂尼集團(FINCANTIERI)簽署戰略協議，共同推進創新水下監測技術發展。
+
+---
+
+### 2026-06-17 21:19:48  #其他
+
+據SEC檔案顯示，SHARONAI宣佈將推出9億美元私募股權發行。
+
+---
+
+### 2026-06-17 21:19:34  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Dutch vehicle authority RDW said it has found no accidents to date linked to Tesla's autonomous-driving software.
+
+---
+
+### 2026-06-17 21:19:24  #其他
+
+荷蘭道路管理局RDW稱特斯拉自動駕駛軟體迄今“未發生相關事故”。
+
+---
+
+### 2026-06-17 21:18:20  #公司
+
+【匯成股份：擬設立合資公司收購鄭隆芯創 拓展HITS先進封裝工藝平臺】匯成股份(688403)6月17日公告，公司擬出資4億元與百瑞發（公司實控人、董事長鄭瑞俊控制的企業，亦是公司間接股東）、香港匯微（擬作為晶瑞旺團隊持股平臺）共同投資設立合資公司合肥晶瑞旺科技有限公司（簡稱“晶瑞旺”），並且由晶瑞旺以零元對價收購香港匯微所持有的上海鄭隆芯創微電子有限公司（簡稱“鄭隆芯創”）100%股權，晶瑞旺註冊資本7億元，公司持股57.14%。晶瑞旺設立後將作為公司HITS先進封裝工藝研發及量產平臺；鄭隆芯創未來將作為晶瑞旺全資子公司暨HITS先進封裝研發總部，承擔技術工藝研發及業務匯入的重要功能。
+
+---
+
+### 2026-06-17 21:18:15  #其他
+
+【五月上海離境退稅銷售額同比增長超八成，消費券槓桿效應顯現】上海五五購物節對消費的促進作用已顯現。2026年6月16日，上海市商務委透露，第七屆上海五五購物節以“愛購上海、樂享消費”為主題，特色消費場景不斷，補貼和消費券的槓桿效應也得以體現。上海市稅務局資料顯示，5月，上海開具離境退稅申請單同比增長3.6倍；離境退稅銷售額同比增長83.9%。目前，全市備案離境退稅商店2100餘家，全市16區離境退稅商店全覆蓋。（澎湃）
+
+---
+
+### 2026-06-17 21:17:40  #其他
+
+巴西財長杜裡甘：通脹始終是一個關注點，但在巴西總統盧拉任期內的通脹將是歷史上最低的。通脹已得到控制。
+
+---
+
+### 2026-06-17 21:17:07  #MKT News
+
+Brazil's finance minister Durigan said inflation has been brought under control.
+
+---
+
+### 2026-06-17 21:17:07  #MKT News
+
+Brazil's finance minister said inf remains a concern, but said inf during President LULA's term will be the lowest on record.
+
+---
+
+### 2026-06-17 21:16:22  #公司
+
+亞馬遜創始人貝佐斯：人工智慧只會賦能人類，而非取代人類。
+
+---
+
+### 2026-06-17 21:15:30  #MKT News #Market Regions #Greater China
+
+【Shanghai mayor meets Myanmar president; Min urges Shanghai firms to deepen trade and investment ties】Shanghai mayor Gong Zheng met Myanmar President Min Aung Hlaing on June 17. Min said Shanghai is central to China’s economy, noting strong development in industry, trade, finance and shipping, and called for strengthened comprehensive cooperation and deeper economic, trade and investment links. He invited more Shanghai companies to invest in Myanmar to expand bilateral commercial ties and benefit both populations.
+
+---
+
+### 2026-06-17 21:15:10  #市場 #焦點
+
+甲醇連續主力合約日內跌1%，現報2615.00元。
+
+---
+
+### 2026-06-17 21:14:50  #國際
+
+歐盟委員會主席馮德萊恩呼籲與美國在人工智慧領域加強合作。
+
+---
+
+### 2026-06-17 21:14:44  #國際
+
+埃及航空訊息：開羅航空開通亞美尼亞至新阿拉曼航線。
+
+---
+
+### 2026-06-17 21:14:33  #MKT News
+
+【SpaceX cargo Dragon returns to Earth with research samples】SpaceX’s cargo Dragon splashed down off Southern California on June 17, returning scientific samples and flight hardware to NASA. Recovered payloads include bioprinted organs and cartilage, DNA biomimetic materials for cancer-therapy research, and experimental data on cryogenic fuel-storage technologies aimed at informing future missions. Hardware recovered includes an ocular imager for astronaut eye monitoring, an air purifier for trace-contaminant removal, and a waste/hygiene separation pump.
+
+---
+
+### 2026-06-17 21:14:32  #MKT News
+
+European Commission President Ursula von der Leyen urged stronger cooperation with the United States on artificial intelligence.
+
+---
+
+### 2026-06-17 21:14:15  #公司 #國際
+
+【美貨運“龍”飛船攜科研樣品返回地球】美國太空探索技術公司的貨運“龍”飛船攜帶大量科研物資和裝置返回地球，17日濺落在美加利福尼亞州附近海域。據美國航空航天局介紹，“龍”飛船於美國東部時間16日12時25分許（北京時間17日0時25分許）脫離國際空間站，啟程返回地球。“龍”飛船於美國西部時間17日5時11分許（北京時間17日20時11分許），濺落在加利福尼亞州附近海域。（新華社）
 
 ---
 
@@ -18629,251 +18875,5 @@ RBC CEO McKay said AI is creating valuation challenges for software companies.
 ### 2026-06-16 22:56:42  #其他
 
 【海西州市場監督管理局釋出提醒函，規範震區市場經營秩序及價格行為】6月16日，海西州市場監督管理局釋出關於規範震區市場經營秩序及價格行為的提醒函。2026年6月16日17時06分，海西州大柴旦行委（北緯37.80度，東經95.56度）發生6.3級地震。當前全州正在全力開展防震減災工作，為全力保障震區救災物資、生活必需品等重要民生商品和服務市場價格基本穩定，維護廣大消費者合法權益，現對全州各經營者及相關單位提醒如下：一、嚴格遵守價格法律法規。全州各經營者及相關單位應當嚴格遵守《中華人民共和國價格法》《價格違法行為行政處罰規定》《明碼標價和禁止價格欺詐規定》等價格法律、法規及政策，加強價格行為自律，增強社會責任感，自覺維護良好市場價格秩序。二、嚴格落實明碼標價制度。在銷售商品和提供服務時，應當自覺依法明碼標價，標價內容要真實明確、清晰醒目，價格變動要及時調整，不得價外加價、捆綁銷售，不得收取任何未予標明的費用。三、嚴禁下列價格違法行為：（一）相互串通，操縱市場價格，損害其他經營者或者消費者的合法權益；（二）捏造、散佈漲價資訊，擾亂市場價格秩序，推動商品及服務價格過快、過高上漲；（三）利用虛假的或者使人誤解的價格手段，誘騙消費者或者其他經營者與其進行交易；（四）除生產自用外，超出正常的儲存數量或者儲存週期，大量囤積市場供應緊張、價格發生異常波動的商品，推動商品價格過快、過高上漲；（五）提供相同商品或者服務，對具有同等交易條件的其他經營主體實行價格歧視；（六）採取抬高等級或者壓低等級等手段收購、銷售商品或者提供服務，變相提高或者壓低價格；（七）法律、行政法規禁止的其他不正當價格行為。四、加強價格自律，誠信合規經營。全州各經營者及相關單位要切實履行社會責任，遵循公平、合法和誠實信用的原則，合理制定商品價格，不得借地震災害之機牟取不當利益。全州各級市場監管部門將深入一線，持續加大價格巡查檢查頻次和力度，重點加強米、面、油、肉、蛋、菜等生活必需品及方便食品、飲用水、帳篷、藥品等救災物資和民生商品的價格監管。對經提醒仍不整改的經營者及相關單位，將依據相關法律法規從嚴從快查處。廣大群眾和社會各界如發現相關價格違法行為，請及時撥打12345、12315熱線進行投訴舉報。
-
----
-
-### 2026-06-16 22:56:23  #其他
-
-加拿大皇家銀行：隨著加拿大人口老齡化，銀行需要藉助人工智慧工具提升運營效率。人工智慧將促使員工工作重心從後臺部門向前臺部門轉移。
-
----
-
-### 2026-06-16 22:55:55  #國際
-
-美國國家颶風中心預計，潛在的一號熱帶氣旋將帶來強降雨和危險的突發性洪水。
-
----
-
-### 2026-06-16 22:55:50  #MKT News #Star Stocks #NVIDIA #Amazon #Microsoft #Apple #Tesla #Market Themes #Magnificent 7 #SPCX.O #Impact bullish
-
-【SpaceX briefly overtakes Amazon, Microsoft in market value; turnover dwarfs peers】SpaceX (SPCX.O) briefly saw its market value exceed Amazon (AMZN.O) and Microsoft (MSFT.O) on Tuesday and, within days of listing, entered the world’s top five by market cap. Options on SpaceX began trading Tuesday, and the stock’s turnover has topped $34.0 bln so far—several times the combined turnover of NVIDIA, Microsoft, Tesla and Apple—while NVIDIA, Microsoft and other large tech names slipped modestly that day.
-
----
-
-### 2026-06-16 22:55:48  #公司 #市場
-
-【SpaceX市值一度超越微軟 成交額遙遙領先】SpaceX(SPCX.O)市值週二盤中一度超越亞馬遜(AMZN.O)和微軟(MSFT.O)，在上市後短短數日內躋身全球市值前五大公司之列。SpaceX期權也於週二正式開始交易，為投資者提供了押注這隻新上市股票前景的另一種渠道。截至目前，SpaceX股票成交額已超過340億美元，是英偉達、微軟、特斯拉和蘋果成交額總和的數倍。與此同時，英偉達、微軟等其他多隻大型科技股當日小幅下跌。
-
----
-
-### 2026-06-16 22:55:25  #國際
-
-市場訊息：美國參議院共和黨領袖圖恩表示，他尚未收到任何關於伊朗協議的國會通報通知。
-
----
-
-### 2026-06-16 22:55:19  #MKT News
-
-U.S. Senate Republican leader John Thune said he has not received any congressional notification regarding an Iran agreement.
-
----
-
-### 2026-06-16 22:54:56  #其他
-
-【澳門特區經濟財政司司長吳惠嫻：全力落實及推進經財範疇各項施政工作】據澳門特區釋出，新任經濟財政司司長吳惠嫻今（16）日表示，衷心感謝中央政府的任命，以及行政長官的信任和提名。她認為，澳門正處於經濟轉型的發展階段，面對著不少挑戰，她本人和經財團隊，定會在行政長官帶領下，全力落實經財範疇的各項工作，完成各項施政目標。她指出，經財範疇一直嚴格按照施政方針，按部就班落實及推進各項工作，並不會因人員變動而受到影響。經財範疇的工作與廣大市民息息相關，並與其他施政範疇緊密相連，未來將持續與其他司長和部門通力合作，以大局為核心，全面妥善做好各項施政工作。她續指，推動經濟適度多元是特區政府的重要任務，經財團隊將繼續善用各項機制，包括透過設立政府引導基金、持續推動休企擴大非博彩專案的投資等，以具體舉措紮實推進經濟適度多元步伐。對於最佳化各區的營商環境，吳惠嫻表示，特區政府一直想方設法促進社群經濟，包括近期推出的“休遊巴士”專案，成功引流旅客走進本澳不同特色社群。經財部門亦將持續與中小企加強溝通，推出更具針對性的支援措施。
-
----
-
-### 2026-06-16 22:54:55  #其他
-
-加拿大皇家銀行：加拿大皇家銀行絕大多數 AI 算力令牌均源自自有技術體系。
-
----
-
-### 2026-06-16 22:54:44  #國際
-
-市場訊息：美國參議院共和黨領袖圖恩表示，他已向特朗普政府索取有關伊朗諒解備忘錄的文字，並要求聽取相關情況通報，但目前尚未收到任何回應。
-
----
-
-### 2026-06-16 22:54:41  #MKT News
-
-U.S. Senate Republican leader John Thune said he has asked the Trump administration for the text of an Iran memorandum of understanding and requested a briefing, but has received no response to date.
-
----
-
-### 2026-06-16 22:54:08  #MKT News #Important #XAUUSD #Impact bullish #DXY #Brent
-
-Iran's chief negotiator Mohammad Bagher Ghalibaf, in a call with Lebanon's parliament speaker, said Israel must withdraw from the "occupied areas" inside Lebanon and that residents of southern Lebanon must return home. He said the war must end on all fronts, including Lebanon.
-
----
-
-### 2026-06-16 22:54:05  #國際
-
-【委內瑞拉再次調整內閣人員】委內瑞拉代總統德爾西·羅德里格斯15日再次調整委內閣，宣佈內爾松·羅德里格斯出任生態部長。 除生態部長外，委代總統還任命葆拉·波薩尼為住房部長。 1月3日凌晨，美國對委內瑞拉發動大規模軍事打擊，強行控制委總統馬杜羅及其妻子並將他們帶到美國。這一軍事行動造成至少100人死亡。德爾西·羅德里格斯當月5日在委全國代表大會宣誓就任代總統。此後，她多次對委內閣進行調整。(新華社)
-
----
-
-### 2026-06-16 22:53:56  #國際
-
-伊朗議會議長卡利巴夫與黎巴嫩議長貝里通話：必須在包括黎巴嫩在內的所有戰線結束戰爭。
-
----
-
-### 2026-06-16 22:53:31  #焦點 #國際
-
-伊朗首席談判代表卡利巴夫在與黎巴嫩議長通話中表示：以色列必須從黎巴嫩"被佔領地區"撤出，黎巴嫩南部人民必須返回家園。
-
----
-
-### 2026-06-16 22:53:24  #其他
-
-加拿大皇家銀行：加拿大皇家銀行擁有自有算力，無需對外租賃。
-
----
-
-### 2026-06-16 22:52:04  #其他
-
-加拿大皇家銀行：人工智慧培訓加拿大皇家銀行員工的速度快得 “令人難以置信”。
-
----
-
-### 2026-06-16 22:50:50  #公司
-
-【明陽集團與國航遠洋深化戰略合作】據明陽集團訊息，6月15日，國航遠洋運輸（集團）股份有限公司（簡稱“國航遠洋”）董事長、總裁王炎平一行到訪明陽集團，與明陽集團創始人、董事長張傳衛座談交流。雙方圍繞綠色能源產業鏈協同、海上風電物流保障、智慧運維創新等領域深度交流，達成全方位深化戰略合作共識，並簽署戰略合作協議，共同探索“新能源+航運”融合發展新路徑。
-
----
-
-### 2026-06-16 22:50:13  #央行 #歐洲央行
-
-【歐洲央行首席經濟學家：儘管美伊達成協議 通脹仍將持續】歐洲央行首席經濟學家PhilipLane表示，必須為中東衝突已引發但尚未顯現的通脹做好準備。儘管美國和伊朗宣佈達成重新開放霍爾木茲海峽的協議，但油價走勢尚未簡單地恢復到危機前的路徑。“能源價格連續四個月高企，這意味著我們可以預見，未來通脹率將超過3%，”他說道，“這將對今年乃至明年的食品、商品和服務產生間接影響。”Lane表示，原油價格不太可能從目前每桶80至81美元的水平大幅下降，並稱遠期曲線“在未來幾年內基本上相當平緩”。他說：“基於市場定價，我們不會大幅回落至戰前水平。但也不會出現像我們之前設想的不利情境或嚴重情境下那樣高得多的價格。”
-
----
-
-### 2026-06-16 22:50:04  #公司
-
-據港交所檔案：北京雲中融信網路科技股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-06-16 22:50:01  #MKT News #Market Regions #Greater China
-
-According to an HKEX filing, Beijing Yunzhong Rongxin Network Technology Co. filed a listing application with HKEX.
-
----
-
-### 2026-06-16 22:49:23  #MKT News
-
-Lebanese army says it is operating in areas under Israeli aggression, removing unexploded aerial bombs, detecting and disposing of munitions and suspicious items, and clearing rubble to reopen roads.
-
----
-
-### 2026-06-16 22:49:17  #其他
-
-加拿大皇家銀行：人工智慧助力團隊工作，大幅提升處理效率。
-
----
-
-### 2026-06-16 22:48:55  #國際
-
-黎巴嫩軍方：軍隊正在遭以色列襲擊的區域執行任務，拆除未爆炸航空炸彈、排查並處理彈藥與可疑物品，清理廢墟、疏通道路。
-
----
-
-### 2026-06-16 22:46:42  #其他
-
-【海西州6.3級地震後，青海省委書記、省長第一時間前往省應急指揮部】6月16日17時6分，青海省海西蒙古族藏族自治州大柴旦發生6.3級地震。截至6月16日20時，地震造成1人遇難、4人受傷。據初步核查，本次地震周邊50公里內，交通、通訊、供電、供水、供氣等基礎設施執行正常。目前，已啟動省級地震災害II級應急響應，省、州、行委各類專業救援力量已趕赴災區開展應急處置工作，當地社會大局平穩有序。（青海日報）
-
----
-
-### 2026-06-16 22:46:21  #公司 #市場 #觀點 #國際
-
-【歐洲天然氣價格跌幅擴大 花旗稱還有下行空間】在美國與伊朗達成重開霍爾木茲海峽的臨時協議後，市場對中東供應重返全球市場的樂觀情緒升溫，歐洲天然氣價格延續跌勢。在早些時候震盪後，基準期貨下跌，4日累計跌幅擴大至約16%。美國總統特朗普重申，霍爾木茲海峽到週五將恢復全面開放。早些時候，彭博新聞社報道稱，該地區最大生產國卡達計劃在霍爾木茲海峽的安全通行恢復後迅速提高液化天然氣產量。在衝突導致波斯灣出口運輸幾近停頓之前，全球約五分之一的海運天然氣都要經過霍爾木茲海峽這一咽喉要道。關於美伊協議將如何落實，目前仍有許多問題，包括對航運安全的擔憂。歐洲天然氣價格仍比危機前水平高出約30%，不過花旗集團在週二的一份報告中表示，隨著“衝突降級”，價格還有進一步下行的空間。截至阿姆斯特丹當地時間3:53，歐洲天然氣基準——荷蘭近月期貨價格下跌1.6%，報每兆瓦時41.90歐元。花旗將今年下半年的價格預測下調至37歐元。
-
----
-
-### 2026-06-16 22:45:56  #其他
-
-加拿大皇家銀行：拿大缺乏企業規模化發展所需資本，加拿大皇家銀行有意佈局該領域。
-
----
-
-### 2026-06-16 22:45:37  #其他
-
-加拿大皇家銀行：加拿大需採取更多舉措助力本土企業發展壯大。
-
----
-
-### 2026-06-16 22:45:11  #國際
-
-加拿大皇家銀行：正考慮拓展中東及亞洲業務。
-
----
-
-### 2026-06-16 22:44:01  #國際
-
-幣安：持續深耕歐洲市場。
-
----
-
-### 2026-06-16 22:44:00  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #US10Y #Impact bearish
-
-【JP Morgan: AI-related bond issuance likely to remain robust for years】JP Morgan analysts say bond issuance to finance AI and data centers is likely to remain robust over the coming years. Loans currently cover about 85% of project costs on average; JP Morgan estimates AI-related spending will reach $5.5 trillion by 2030, roughly $4.1 trillion of which is expected to be debt-financed. Issuers are expected to tap capital markets in every country to meet growth financing needs. The bank adds that large tech "super-scale cloud service providers" have sufficient profitability that investors should remain comfortable even as issuance expands, and that these firms are borrowing heavily in part to preserve large cash buffers against potential economic deterioration and higher funding costs.
-
----
-
-### 2026-06-16 22:43:56  #其他
-
-加拿大食品檢驗局表示，儘管加拿大境內尚未出現非洲豬瘟，但該疾病仍在全球持續蔓延。
-
----
-
-### 2026-06-16 22:43:49  #國際
-
-幣安：在歐盟加密資產監管法案（MiCA）立法程序中與監管機構開展了建設性合作。
-
----
-
-### 2026-06-16 22:43:39  #央行 #國際
-
-【歐洲央行首席經濟學家：儘管美伊達成協議 通脹仍將持續】歐洲央行首席經濟學家Philip Lane表示，必須為中東衝突已引發但尚未顯現的通脹做好準備。這位來自愛爾蘭的官員週二在路透社的活動中表示，儘管美國和伊朗宣佈達成重新開放霍爾木茲海峽的協議，但油價走勢尚未簡單地恢復到危機前的路徑。“能源價格連續四個月高企，這意味著我們可以預見，未來通脹率將超過3%，”他說道，“這將對今年乃至明年的食品、商品和服務產生間接影響。”歐洲央行上週自2023年以來首次加息，行長克里斯蒂娜·拉加德警告稱，由伊朗戰爭引發的通脹正在擴散，不再侷限於能源領域。拉加德週一重申了這一觀點。投資者和經濟學家仍然預計至少還會再進行一次25基點的加息，使利率達到2.5%，而且價格漲幅將在一段時間內遠高於2%的目標。Lane表示，原油價格不太可能從目前每桶80至81美元的水平大幅下降，並稱遠期曲線“在未來幾年內基本上相當平緩”。他說：“基於市場定價，我們不會大幅回落至戰前水平。但也不會出現像我們之前設想的不利情境或嚴重情境下那樣高得多的價格。”
-
----
-
-### 2026-06-16 22:43:02  #國際
-
-加拿大食品檢驗局：即便加拿大其他地區出現非洲豬瘟，無疫地區仍可繼續向日本出口豬肉。
-
----
-
-### 2026-06-16 22:42:44  #其他
-
-【生態環境損害賠償制度改革工作推進視訊會議召開】生態環境損害賠償制度改革工作推進視訊會議6月16日召開，系統總結生態環境損害賠償工作進展情況，交流工作經驗，推動制度改革走深走實。會議強調，黨的二十屆四中全會指出“加快經濟社會發展全面綠色轉型，建設美麗中國”，要牢固樹立和踐行綠水青山就是金山銀山的理念，以強烈的責任擔當，把“十五五”時期生態環境損害賠償工作推向新高度，以高品質保護支撐高質量發展，為全面推進美麗中國建設、加快推進人與自然和諧共生的現代化作出新的更大貢獻。
-
----
-
-### 2026-06-16 22:42:23  #國際
-
-加拿大食品檢驗局：加拿大與日本達成新分割槽安排，推進非洲豬瘟防控準備工作。
-
----
-
-### 2026-06-16 22:42:13  #MKT News
-
-RBC CEO McKay said Canada seeks to maintain trade with the U.S. while diversifying into other markets.
-
----
-
-### 2026-06-16 22:42:11  #國際
-
-幣安表示將持續服務歐洲使用者。
-
----
-
-### 2026-06-16 22:41:52  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #DXY #EURUSD #Impact bearish
-
-RBC CEO McKay said the bank is increasing risk exposure in the U.S. market as the local economy is strong, while conditions in the Canadian market are weaker.
-
----
-
-### 2026-06-16 22:41:50  #其他
-
-加拿大皇家銀行：加拿大希望維持對美貿易，並拓展其他地區市場。
-
----
-
-### 2026-06-16 22:41:50  #Trading Economics #Economy #Sri Lanka #Services PMI #Importance 1
-
-Sri Lanka Services Activity Rebounds in May — Sri Lanka’s Services PMI rose to 56.9 in May 2026 from 46.7 in April, signaling a rebound in services activity. The expansion was driven mainly by the financial, professional, and personal services sub-sectors, while real estate, IT programming, and goods transportation also posted notable growth. New business increased to 58.0 from 48.9, supported primarily by financial and professional services, with additional contributions from wholesale and retail trade, personal services, and goods transportation. Expectations for business activity over the next three months remained positive, although easing slightly to 64.7 from 65.9, supported by anticipated tourist arrivals during the Perahera season and improving economic conditions. Meanwhile, employment (49.4 vs 44.4) and backlogs of work (48.1 vs 48.8) remained below the 50 threshold.
 
 ---

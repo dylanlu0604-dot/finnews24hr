@@ -1,7 +1,266 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 08:58:05_
-_本檔包含 3872 則快訊，約 653560 字_
+_更新時間：2026-06-21 10:35:47_
+_本檔包含 3878 則快訊，約 653484 字_
+
+---
+
+### 2026-06-21 10:33:38  #公司
+
+【好奇公佈紙尿褲最新檢測結果：未檢出甲醯胺，各項指標合格】6月21日，好奇品牌公告，近期，公司已對全系列的好奇紙尿褲產品進行復核覆檢，目前已獲取的第三方檢測結果均顯示：未檢出甲醯胺，各項指標合格。同時，公司已配合相關部門對好奇產品展開全面獨立抽檢，公司會持續積極跟進結果儘快出示，回應家長們的關切、消除大眾顧慮。
+
+---
+
+### 2026-06-21 10:28:18  #其他
+
+中國地震臺網正式測定：06月21日10時19分在西藏阿里地區日土縣（北緯33.72度，東經81.14度）發生3.6級地震，震源深度10千米。
+
+---
+
+### 2026-06-21 10:25:07  #MKT News
+
+【Qunar: searches for historic towns triple during Dragon Boat Festival holiday】Qunar data on June 21 show Dragon Boat Festival travel demand concentrated in nearby and folk tourism. Bookings for small cities marketed as “20°C cool” rose over 40% YoY, searches for distinctive historic towns tripled, and car-rental orders increased 60%. In the week to June 21, summer flight bookings jumped 65% week-on-week; family travelers accounted for more than 60% of bookings.
+
+---
+
+### 2026-06-21 10:23:47  #其他
+
+【去哪兒旅行：端午假期特色古鎮搜尋量增長3倍】6月21日，去哪兒旅行資料顯示，今年端午期間，周邊遊、民俗遊火熱，特別是一批擁有“20度清涼”的熱門小城預訂量同比增長超40%，特色古鎮搜尋量增長3倍，租車訂單量增六成。截至6月21日，近一週預訂暑期出行機票量環比上週大幅增長65%，家庭遊客佔比超六成。
+
+---
+
+### 2026-06-21 10:18:56  #其他
+
+【京東618酒水銷售同比增長25%】6月19日，京東酒業釋出“京東名酒618巔峰戰報”，統計時間為5月13日00:00至6月18日24:00。戰報顯示，京東酒類銷售同比增長25%，成交破新高。
+
+---
+
+### 2026-06-21 10:12:44  #國際
+
+【烏入盟進入談判階段 歐盟內部分歧顯現】當地時間18日至19日，歐盟夏季峰會在布魯塞爾舉行。峰會期間，烏克蘭總統澤連斯基再次敦促歐盟加快烏克蘭入盟談判程序。不過，隨著烏克蘭入盟議題進入實質推進階段，歐盟成員國在擴員節奏、財政負擔以及制度改革等問題上的分歧也逐漸顯現。（央視新聞）
+
+---
+
+### 2026-06-21 10:11:06  #國際
+
+【歐洲多國持續遭遇高溫天氣】持續的熱浪近日席捲了歐洲多國。20日，德國、法國、義大利等歐洲多國繼續遭遇高溫天氣。20日，熱浪席捲德國大部分地區，德國氣象局再次釋出高溫預警。氣象學家表示，高溫天氣仍將持續，德國西南部地區的氣溫甚至可能達到40攝氏度。受高溫天氣影響，德國勃蘭登堡州的部分道路受損。專家稱，德國今年6月份的極端高溫可能會接近2019年創下的最高紀錄。（央視新聞）
+
+---
+
+### 2026-06-21 10:10:28  #公司
+
+【中國大唐集團有限公司原黨組管理幹部付東接受審查調查】中央紀委國家監委網站6月21日通報，據中央紀委國家監委駐中國大唐紀檢監察組、黑龍江省紀委監委訊息：中國大唐集團有限公司原黨組管理幹部付東涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國大唐紀檢監察組紀律審查和黑龍江省齊齊哈爾市監察委員會監察調查。
+
+---
+
+### 2026-06-21 10:09:42  #其他
+
+中國地震臺網正式測定：06月21日10時04分在青海海西州直轄區（北緯37.89度，東經95.56度）發生3.2級地震，震源深度10千米。
+
+---
+
+### 2026-06-21 10:08:41  #國際
+
+【黎巴嫩民眾：以色列自1948年以來就失去了信譽】黎巴嫩民眾表示，他們已經習慣了以軍前後矛盾的做法。對黎巴嫩民眾來說，以色列早就失去了信譽。自1948年以來，以色列就已經失去了信譽，而不是從現在才開始失去信譽。從1948年開始，他們就總是在騙人，他們嘴上說，停火、停火，然後在暗中做好準備，隨時發動襲擊。他們聲稱已經停火，然後再對你發動襲擊。提爾地區的居民表示，一切仍與往常一樣，以軍的戰機在空中盤旋，襲擊時有發生，根本沒有所謂的停火。（央視）
+
+---
+
+### 2026-06-21 10:07:27  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Lebanese say Israel has long lost credibility】Lebanese residents say they have grown accustomed to contradictory actions by the Israeli military and that Israel has lost credibility since 1948, routinely announcing ceasefires while secretly preparing strikes. Residents in the Tyre area report Israeli warplanes circling and intermittent airstrikes, saying there is no actual ceasefire.
+
+---
+
+### 2026-06-21 10:06:19  #MKT News
+
+【China summer grain sowing nearly 70% complete】The Ministry of Agriculture and Rural Affairs said its latest crop bulletin shows nationwide summer grain sowing is about 70% complete. Major grain-producing regions have widely adopted seed-and-fertilizer simultaneous-sowing technology this year, which the ministry says has effectively improved planting quality.
+
+---
+
+### 2026-06-21 10:05:30  #MKT News
+
+【Los Angeles declares emergency after multi-day warehouse fire】Los Angeles declared a local emergency on June 20 after a large commercial storage facility ignited on June 17. The blaze has persisted for several days and produced heavy acrid smoke across surrounding neighborhoods; Mayor Bass said the declaration is to secure needed resources and protect community safety.
+
+---
+
+### 2026-06-21 10:04:03  #其他
+
+蔚來：ET9地平線特別版全新主題「極境逐光」，全球限量99臺。 整車售價83.8萬元起；採用BaaS電池租用方式購買，售價73萬元起，同時可享使用者權益靈活選擇方案。
+
+---
+
+### 2026-06-21 10:02:28  #其他
+
+【廣西南寧：新能源智慧船舶完成試航】6月20日，中技船舶首批9艘新能源船舶集中試航儀式在廣西南寧港舉行。9艘船舶包含無人駕駛智慧船、商用作業船、民用休閒船，適配執法巡邏、景區觀光等各類場景，助力內河航運綠色轉型。（新華社）
+
+---
+
+### 2026-06-21 09:57:08  #其他
+
+【馬寧出示6張黃牌 庫拉索收穫隊史首個世界盃積分】在剛剛結束的美加墨世界盃E組小組賽中，庫拉索隊0:0戰平厄瓜多隊，收穫隊史首個世界盃積分。主裁判馬寧出示6張黃牌。本場比賽有三名中國裁判同場執法，創造中國足球歷史。馬寧擔任主裁判，周飛擔任助理裁判，傅明擔任影片助理裁判（VAR）。比賽中，主裁判馬寧向厄瓜多、庫拉索兩隊分別出示1張和5張黃牌；全場比賽沒有出現紅牌。馬寧成為時隔24年再度主哨世界盃的中國裁判，他也是唯一一位連續兩屆入選世界盃裁判名單的中國裁判。他曾在2022年卡達世界盃6次擔任第四官員。（新華社）
+
+---
+
+### 2026-06-21 09:56:11  #公司
+
+ANTHROPIC執行長：人工智慧公司需要“數千億美元”收入，否則將面臨生存風險。
+
+---
+
+### 2026-06-21 09:55:35  #MKT News
+
+According to Lighthouse Pro real-time data, Toy Story 5's cumulative box office exceeded CNY100 mln on its third day of release.
+
+---
+
+### 2026-06-21 09:51:53  #國際
+
+【巴外交部：巴基斯坦將繼續支援並推進美伊諒解備忘錄執行】巴基斯坦外交部21日釋出宣告說，巴基斯坦總理夏巴茲·謝里夫及巴基斯坦陸軍參謀長穆尼爾已啟程前往瑞士參加關於落實美伊諒解備忘錄的高階別會談。來自伊朗、卡達和美國的高階代表團也將參與此次會談。巴外交部稱，此次會談標誌著自6月17日簽署美伊諒解備忘錄以來的首次正式接觸。巴基斯坦將繼續支援並推進美伊諒解備忘錄的執行。 (央視新聞)
+
+---
+
+### 2026-06-21 09:49:04  #其他
+
+【玩具總動員5票房破億】據燈塔專業版實時資料，截至6月21日9時47分，影片《玩具總動員5》票房突破1億。
+
+---
+
+### 2026-06-21 09:46:09  #國際
+
+【美軍否認霍爾木茲海峽被關閉】伊朗武裝部隊哈塔姆·安比亞中央司令部當地時間6月20日發表宣告稱，由於美國公然違背承諾，未履行旨在結束戰爭的諒解備忘錄條款，同時以色列持續違反停火協議，不斷襲擊黎巴嫩南部，伊朗決定關閉霍爾木茲海峽。美軍中央司令部發言人當天表示，霍爾木茲海峽交通仍然暢通，美軍正繼續在海峽周邊海域開展行動。（CCTV國際時訊）
+
+---
+
+### 2026-06-21 09:43:34  #其他
+
+【報道：特斯拉加速推進人工智慧與機器人戰略，申請註冊 “Amazing Abundance” 商標】據報道，特斯拉已正式提交 “Amazing Abundance” 商標註冊申請，此舉表明企業將進一步深耕長期發展願景，核心佈局人工智慧、人形機器人、自動駕駛系統，並依託自動化技術實現生產成本大幅下降的未來圖景。
+
+---
+
+### 2026-06-21 09:42:18  #其他
+
+ADP調研：人工智慧非但沒有減少工作量，反而催生更多無薪加班。
+
+---
+
+### 2026-06-21 09:41:22  #國際
+
+巴基斯坦總理預計將會見伊朗、卡達、美國相關方。
+
+---
+
+### 2026-06-21 09:39:45  #國際
+
+市場訊息：伊朗方面表示，此次瑞士對話的結果將明確華盛頓是否真的有意願進入第二階段談判。
+
+---
+
+### 2026-06-21 09:39:18  #MKT News
+
+IRNA: Iran said the outcome of talks in Switzerland will clarify whether Washington truly intends to enter second-stage negotiations.
+
+---
+
+### 2026-06-21 09:38:19  #國際
+
+【伊朗足協宣佈投訴美國後 白宮官員：將繼續評估 目前原定計劃不變】伊朗足協19日釋出宣告，宣佈將就世界盃賽事期間，伊朗隊在美國遭遇的行程安排不公問題，向國際足聯提出正式投訴。據報道，白宮國際足聯工作組執行總監安德魯·朱利亞尼當地時間20日在接受媒體採訪時表示，儘管伊朗隊提出投訴，但美方將繼續評估伊朗隊在世界盃期間的行程安排，目前原定計劃保持不變。 (環球網)
+
+---
+
+### 2026-06-21 09:36:06  #國際
+
+【以色列代表與聯合國官員在會上激烈爭吵】當地時間19日，以色列常駐聯合國代表丹尼·達農和聯合國兒童與武裝衝突問題特別代表瓦妮薩·弗雷澤在會議上爆發激烈爭吵。達農在會上對此前以色列被列入聯合國衝突中性暴力報告的“黑名單”一事表示不滿，並指責聯合國衝突中的性暴力問題秘書長特別代表帕滕是屈服於壓力，弗雷澤以“程式問題”及“不得人身攻擊”為由打斷達農發言。雙方隨即陷入爭吵。（央視新聞）
+
+---
+
+### 2026-06-21 09:35:55  #MKT News
+
+【Israel's UN envoy and UN official clash at meeting】On June 19, Israel's UN ambassador Danny Danon and the UN Special Representative for Children and Armed Conflict, Vanessa Frezer, exchanged a heated argument at a meeting. Danon objected to Israel's inclusion on a UN list of parties credibly linked to conflict-related sexual violence and accused the Secretary-General's special representative on sexual violence in conflict, Patten, of bowing to pressure. Frezer interrupted, citing procedural rules and barring personal attacks, and the exchange escalated.
+
+---
+
+### 2026-06-21 09:34:53  #國際
+
+市場訊息：伊朗議會議長抵達瑞士參與伊巴諒解備忘錄談判。
+
+---
+
+### 2026-06-21 09:30:53  #公司 #市場
+
+【10倍儲存牛股 本週限售股解禁】據統計，本週（6月22日至26日）A股將有49家公司有限售股份解禁，合計解禁數量27.63億股，以最新收盤價計算（下同），總解禁市值達549.08億元。這批解禁股中包含多隻儲存、光通訊等強勢板塊牛股。儲存牛股兆易創新本週解禁市值為4.07億元。6月17日，公司釋出股權激勵行權結果，行權股票數量共計125萬股，本次上市流通數量為64.71萬股，本次行權人員合計37人，以58.09元/股的行權價和最新股價計算，125萬股行權後合計盈利7.14億元，人均盈利達1928萬元。該股自2025年以來，累計漲近5倍，相比2024年低點，已漲超10倍。本週解禁個股集中度較高，有15家公司解禁市值超10億元，合計解禁市值約485.93億元。珠城科技、新恆匯解禁市值均超過50億元。(證券時報)
+
+---
+
+### 2026-06-21 09:29:39  #國際
+
+市場訊息：以色列與真主黨衝突已被納入瑞士和平談判首日議程。
+
+---
+
+### 2026-06-21 09:29:19  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+US broadcaster CBS reports the Israel–Hezbollah conflict has been added to the agenda for the opening day of peace talks in Switzerland.
+
+---
+
+### 2026-06-21 09:25:17  #公司 #國際
+
+【Babycare就紙尿褲事件再發宣告】6月21日凌晨，Babycare就嬰兒紙尿褲事件再發宣告：關注到相關報道後，公司第一時間委託權威第三方檢測機構，對全系列紙尿褲產品加急複檢。為確保嚴謹性，公司在歐盟REACH法規SVHC檢測要求之外，額外增加了SN/T 3587-2016（進出口紡織品醯胺類有機溶劑殘留量的測定）檢測。目前，在售全系列產品依據歐盟REACH法規SVHC要求完成的檢測報告均已出具，結果均為“未檢出”，特此公示。依據SN/T 3587-2016標準，公司已取得23個產品的檢測報告，結果同樣均為“未檢出”。其餘產品的檢測仍在進行中，公司將持續更新檢測進度，出一批公示一批，絕不迴避，也歡迎各界監督。為進一步確認產品安全性，公司還全面排查了紙尿褲生產的原材料和生產裝置端，相關合規檢測報告顯示均為“未檢出”。
+
+---
+
+### 2026-06-21 09:17:29  #MKT News
+
+Pakistan's Foreign Ministry said the prime minister is expected to hold bilateral meetings with attending delegations during the talks.
+
+---
+
+### 2026-06-21 09:17:28  #國際
+
+巴基斯坦外交部：預計總理將在會談間隙與各參會代表團舉行雙邊會晤。
+
+---
+
+### 2026-06-21 09:15:44  #MKT News
+
+Pakistan Foreign Ministry says Pakistan will continue to support implementation of the understanding reached between Iran and the US.
+
+---
+
+### 2026-06-21 09:14:25  #MKT News
+
+Pakistan's foreign ministry said Prime Minister Sharif and Marshal Munir traveled to Bürgenstock, Switzerland, to attend talks on implementing a memorandum of understanding.
+
+---
+
+### 2026-06-21 09:11:56  #國際
+
+【伊朗總統會見巴基斯坦內政部長】當地時間6月20日，伊朗總統佩澤希齊揚在伊朗首都德黑蘭會見了到訪的巴基斯坦內政部長納克維。雙方就伊美之間簽署的諒解備忘錄進行了磋商。同一天，伊朗外長阿拉格齊也與納克維進行了會面。（央視新聞）
+
+---
+
+### 2026-06-21 09:06:36  #市場
+
+【酒價內參6月21日價格釋出：精品茅臺水晶劍南春領漲 總價創三日新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月21日整體低位反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9899元，較昨日大幅上漲24元，結束此前連續五日回落走勢並創下三天以來最高，終端交投情緒有所回暖，但核心單品的漲跌分化依然顯著。
+今日11大白酒單品七漲四跌，贏家佔據明顯優勢。上漲方面，精品茅臺與水晶劍南春漲幅居前，均上漲6元/瓶，其中前者自近一月最低位反彈，平近一月來最大單日漲幅紀錄，後者創下近一月最大日漲幅，自昨日的近一月最低位快速反彈至近一月次高位；國窖1573與青花郎均上漲5元/瓶；古井貢古20上漲4元/瓶，自近一月次低位反彈，結束此前五連陰；洋河夢之藍M6+與青花汾20均上漲3元/瓶，前者收穫三連陽，價格由月內低位快速攀升至近一月最高位，後者同樣實現低位三連漲。下跌方面，五糧液普五八代與五糧液1618均下跌3元/瓶，其中前者已四連陰，價格快速下探並再度失守800元關口，平近一月最低價紀錄，後者連續兩日回落並創下近一月最低價；飛天茅臺與習酒君品均小幅下跌1元/瓶。
+
+---
+
+### 2026-06-21 09:01:50  #公司
+
+【長三角鐵路今迎返程客流最高峰：預計傳送354萬人次，同比增長1.1%】長三角鐵路今迎返程最高峰。6月21日，記者從中國鐵路上海局集團有限公司（以下簡稱“上鐵集團”）獲悉，今日是2026年端午假期最後一天，長三角鐵路迎來返程客流最高峰，今日預計傳送旅客354萬人次，較去年同期增加1.1%。鐵路部門統籌運力、最佳化服務，全力應對集中到達與出發客流，保障旅客出行平穩有序。（澎湃新聞）
+
+---
+
+### 2026-06-21 08:59:25  #市場
+
+富國銀行：極度看好後市，預測標普500指數到2027年底將飆升至8600-8800點。
+
+---
+
+### 2026-06-21 08:59:16  #MKT News #S&P500 #Impact bullish
+
+Wells Fargo says it is extremely bullish and forecasts the S&P 500 will rise to 8,600-8,800 by end-2027.
 
 ---
 
@@ -23130,227 +23389,5 @@ BMW supervisory board chairman said Europe should shift its local-sourcing minds
 ### 2026-06-18 19:33:41  #央行 #公司 #市場
 
 【英國基準利率決定公佈後英鎊擴大跌幅】英國央行以7比2的投票結果決定將利率維持在3.75%不變，並對收緊政策的前景定調謹慎，隨後英鎊擴大跌幅。英國央行行長安德魯.貝利(Andrew Bailey)表示，試圖過快將通脹率拉回2%的目標，可能會導致產出出現不必要的波動。他表示，鑑於實體經濟疲軟，加之能源價格衝擊的規模和持續時間存在不確定性，容忍通脹率暫時高於目標水平似乎是合適的。儘管如此，仍有兩名決策者支援加息。倫敦證券交易所集團的資料顯示，該決定公佈後，英鎊兌美元匯率從之前的1.3223美元跌至1.3208美元的10周低點。歐元兌英鎊匯率從之前的0.8663英鎊升至0.8673英鎊的三週高點。
-
----
-
-### 2026-06-18 19:33:31  #MKT News #Macro & Rates #The Fed (FOMC) #Market Regions #Europe & UK #GBPUSD #Impact mixed
-
-【Economist says Bank of England likely to avoid US/European-style tightening but hawkish pressure persists】Aberdeen deputy chief economist Luke Bartholomew said the Bank of England is likely to avoid the type of tightening the ECB has begun and the Fed signalled it may pursue. He said two members voting for a rate rise indicate some policymakers remain concerned about potential inflationary pressure.
-
----
-
-### 2026-06-18 19:33:05  #其他
-
-埃森哲股價跌幅擴大，觸及當日低點13%。
-
----
-
-### 2026-06-18 19:33:01  #國際
-
-巴西財長：我不認同特朗普針對巴西的言論，我認為這些言論背後隱藏著經濟利益。
-
----
-
-### 2026-06-18 19:32:47  #MKT News #Important #SPCX.O #Impact bullish
-
-Oppenheimer raises PT on SpaceX (SPCX.O) to $250 from $190.
-
----
-
-### 2026-06-18 19:32:29  #其他
-
-奧本海默將SpaceX目標價由 190 美元上調至 250 美元。
-
----
-
-### 2026-06-18 19:32:05  #公司
-
-五角大樓與能源燃料Energy Fuels公司簽署7.25億美元貸款承諾。
-
----
-
-### 2026-06-18 19:31:40  #市場 #國際
-
-印度10年期基準國債收益率收盤報6.8387%；前收盤價為6.8626%。
-
----
-
-### 2026-06-18 19:31:40  #MKT News #Commodities #UUUU.O #Impact bullish
-
-The Pentagon signed a $725 million loan commitment agreement with Energy Fuels.
-
----
-
-### 2026-06-18 19:31:24  #其他
-
-【全國郵政快遞業安全生產和快遞員群體合法權益保障工作電視電話會議召開】6月18日，國家郵政局召開全國郵政快遞業安全生產和快遞員合法權益保障工作電視電話會議，就進一步加強行業安全生產和快遞員群體合法權益保障工作進行再動員再部署。黨組書記、局長趙衝久強調，要強化責任落實，毫不放鬆抓好行業安全生產工作。各企業要認真履行安全生產主體責任和品牌安全保障統一管理責任，深入排查整治事故隱患，確保安全生產。各級郵政管理部門要進一步強化監管責任，切實擔負起“促一方發展、保一方平安”的政治責任，落實強監管要求，堅決防止執法寬鬆軟。要齊抓共管形成合力，充分發揮地方安委會和寄遞渠道安全聯合監管機制作用，強化聯合監管執法，加大媒體曝光和宣傳報道力度。
-
----
-
-### 2026-06-18 19:31:09  #央行 #其他
-
-土耳其央行資料顯示，截至6月12日，土耳其居民持有外匯規模為2220.1億美元，此前一週為2262.6億美元。
-
----
-
-### 2026-06-18 19:31:04  #央行 #其他
-
-土耳其央行資料顯示，截至6月12日，土耳其央行外匯儲備總額為531.2億美元，一週前為542.5億美元。
-
----
-
-### 2026-06-18 19:30:51  #公司
-
-【華凱易佰：股東周新華等擬減持不超3%股份】華凱易佰公告稱，合計持股9.40%的股東周新華及其一致行動人羅曄，計劃2026年7月13日-10月12日以集中競價及/或大宗交易方式減持不超11,682,499股，佔總股本2.97%；持股0.06%的股東何志良，同期擬以集中競價方式減持不超118,005股，佔比0.03%。本次減持系股東自身資金需求，減持計劃存在不確定性，不會導致公司控制權變更。
-
----
-
-### 2026-06-18 19:30:34  #市場 #焦點 #國際
-
-【中美股市明日休市 金銀油交易提前結束】6月19日（明日），“端午節”遇上“六月節”，中美市場雙雙休市。A股、港股、臺股、美股均休市一日。國內期貨交易所全天不交易。芝商所（CME）旗下貴金屬、能源、外匯、股指、美債期貨合約交易提前於北京時間20日01:00結束。洲際交易所（ICE）旗下布倫特原油期貨合約交易提前於北京時間20日01:30結束。敬請各位投資者留意。
-
----
-
-### 2026-06-18 19:30:00  #公司
-
-【璉升科技：持股5%以上股東擬減持不超1%股份】璉升科技公告稱，持股5.69%的股東萬久根因個人資金需求，計劃自2026年7月13日至10月12日（禁止減持期除外），以集中競價方式減持不超372.02萬股，即不超公司總股本的1%。減持股份源於司法拍賣，減持前需辦部分股份解質手續，本次減持計劃存在不確定性。
-
----
-
-### 2026-06-18 19:29:26  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iranian state broadcaster: IRGC navy will continue to control Strait of Hormuz】Iranian state broadcaster on June 18 said the Islamic Revolutionary Guard Corps navy will continue to control the Strait of Hormuz. Eleven vessels were expected to arrive at an Iranian port that night, five of them oil tankers.
-
----
-
-### 2026-06-18 19:28:31  #國際
-
-【國家能源局主要負責人出席第五屆塔什干國際投資論壇】6月16日至17日，國家能源局局長王宏志赴烏茲別克出席第五屆塔什干國際投資論壇。論壇是烏規格最高、規模最大的年度經濟盛會，烏總統米爾濟約耶夫，阿爾巴尼亞、俄羅斯、白俄羅斯、哈薩克、吉爾吉斯斯坦、塔吉克、亞塞拜然等多國領導人出席論壇。論壇期間，烏總統米爾濟約耶夫會見王宏志、駐烏大使於駿和中方企業高階別代表。米爾濟約耶夫總統高度評價兩國能源合作成果，希望共同制定合作路線圖，推動能源合作再上新臺階。王宏志表示將按照兩國元首達成的戰略共識，與烏方共同做好落實工作。（國家能源局）
-
----
-
-### 2026-06-18 19:28:11  #MKT News #Commodities #Energy
-
-【China National Energy Administration director attends 5th Tashkent International Investment Forum】China National Energy Administration Director Wang Hongzhi attended the 5th Tashkent International Investment Forum on June 16-17. Uzbek President Shavkat Mirziyoyev met Wang, China’s ambassador to Uzbekistan Yu Jun and senior Chinese company representatives. Mirziyoyev praised bilateral energy cooperation and called for a joint roadmap to deepen collaboration. Wang said he will, consistent with the strategic consensus reached by the two heads of state, work with Uzbekistan to implement the agreed energy cooperation measures.
-
----
-
-### 2026-06-18 19:28:04  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
-
-【Pound drops to 10-week low after BoE holds rates 7-2 at 3.75%】The Bank of England voted 7-2 to hold Bank Rate at 3.75%, with two members preferring a hike. Governor Bailey said trying to bring inflation back to 2% too quickly could cause unnecessary output volatility and that, given weak real activity and uncertainty over the size and persistence of the energy price shock, tolerating temporary inflation above target appears appropriate. GBP/USD fell to 1.3208, a 10-week low, while EUR/GBP hit a three-week high.
-
----
-
-### 2026-06-18 19:27:35  #公司
-
-【東方時尚：2025年營收降23.47% 主體及債項信用等級均為C】東方時尚公告稱，聯合資信對公司及“東時轉債”進行信用評級，截至2026年6月18日，“東時轉債”餘額0.6240億元，主體及債項信用等級均維持為C。2025年公司營收6.18億元，同比降23.47%，淨虧損7.66億元；2026年1 - 3月營收1.21億元，同比降12.71%，淨虧損0.74億元。審計機構對公司2025年度財報出具帶強調事項段無保留意見報告，公司、實控人及相關責任人遭北京證監局處罰。公司股票面臨退市及實控人變更風險，徵信狀況不佳。
-
----
-
-### 2026-06-18 19:27:11  #公司 #國際
-
-【伊媒：伊革命衛隊海軍將繼續控制霍爾木茲海峽】據伊朗國家廣播公司18日報道，伊朗伊斯蘭革命衛隊海軍將繼續控制霍爾木茲海峽。預計有11艘船隻當晚將抵達伊朗港口，其中5艘為油輪。（新華社）
-
----
-
-### 2026-06-18 19:25:57  #公司
-
-【呂陽出任英大信託董事長】6月18日，北京金融監管局核准呂陽英大國際信託有限責任公司董事長的任職資格。呂陽正式接棒俞華軍擔任英大信託董事長一職。2025年6月，經英大信託股東會審議，同意俞華軍辭去董事長、董事、法定代表人職務，推舉呂陽董事代為履行董事長及法定代表人職責。2026年1月，經董事會審議，同意選舉呂陽擔任董事長。此番是監管核准後的正式履職。（中證報）
-
----
-
-### 2026-06-18 19:25:51  #市場
-
-米蘭上市的Stellantis股票在暫停交易後恢復交易，下跌5.5%。
-
----
-
-### 2026-06-18 19:25:45  #其他
-
-【因美納在華推出移動式生信分析解決方案】6月18日，因美納推出“因美納生信移動寶”，該生信分析解決方案採用移動式部署模式，將DRAGEN™驅動的高效能算力直接送達科研與臨床研究一線。同期，因美納進一步強化其在中國大陸的蛋白質組學生態合作伙伴關係。在大規模群體基因組研究與高時效要求的多中心臨床試驗場景中，傳統生信基礎設施的部署方式正面臨資料本地化合規要求與部署效率的雙重挑戰，並制約著生信分析能力在研究一線的提升。因美納稱，在此背景下，“因美納生信移動寶”使高效能算力能夠“隨科研與臨床需求而動”。
-
----
-
-### 2026-06-18 19:25:16  #MKT News #Important #Macro & Rates #GBPUSD #Impact bearish
-
-【Bank of England decision highlights: fourth straight hold, warns on inflation second‑round risks】Bank of England held Bank Rate at 3.75% for a fourth consecutive meeting; the Monetary Policy Committee voted 7-2 to maintain rates, with Chief Economist Pill and member Green voting for a 25bp hike. The BoE said it stands ready to take necessary action to ensure inflation returns to 2%; Governor Bailey said the bank would respond quickly to stronger signs of second‑round effects. Staff project Q3 CPI just under 3% and Q4 slightly above 3.25%, both below April forecasts; estimated potential GDP growth in Q2 is ~0.2% (April: 0.1%). The bank flagged continued uncertainty from energy shocks and said longer‑lasting higher energy prices increase the risk of significant price‑wage second‑round effects. Market reaction: markets still price roughly 35bp of further hikes this year; sterling dipped, EUR/GBP hit a three‑week high and gilt yields rose.
-
----
-
-### 2026-06-18 19:25:03  #其他
-
-巴西財長：巴西存在財政問題，需要改善。
-
----
-
-### 2026-06-18 19:23:50  #其他
-
-巴西財長：我們與國會的合作非常成功。
-
----
-
-### 2026-06-18 19:23:25  #市場
-
-【豬價呈現窄幅調整 節前豬價上漲熄火】據豬易資料監測資料顯示，2026年6月18日標準體重生豬平均價格為9.52元/公斤，較昨日豬價下跌0.02元/公斤，跌幅0.21%，同比25年同期14.20元/公斤下跌4.68元/公斤，跌幅32.96%。從今日北京、上海消費城市批發市場白條價格走勢來看，北京、上海批發市場白條開磅價格呈現跌漲調整，北京大部分市場開磅價格維持穩定，市場走貨速度表現一般；上海市場價格呈現下跌態勢，部分市場成交價參考12.87-13.58元/公斤，到貨量表現有所增加，市場交易情況表現一般，市場成交均價表現一般偏差。
-
----
-
-### 2026-06-18 19:23:02  #公司
-
-【翔宇醫療：擬向特定物件發行不超過4800萬股A股股票】翔宇醫療公告，擬向特定物件發行不超過4800萬股A股股票，募集資金總額不超過人民幣13.66億元，扣除發行費用後的募集資金淨額擬投入用於康復醫療創新產品研發專案及補充流動資金。
-
----
-
-### 2026-06-18 19:22:50  #公司 #國際
-
-【任鴻斌會見丹麥諾和諾德基金會主席兼諾和諾德公司董事會主席索文森】6月18日，中國貿促會會長任鴻斌在京會見丹麥諾和諾德基金會主席兼諾和諾德公司董事會主席索文森一行。雙方就諾和諾德公司深耕中國市場、加快在華投資佈局、加強生物醫藥領域對華合作、更好參與健康中國建設等議題進行交流。（中國貿促）
-
----
-
-### 2026-06-18 19:22:47  #MKT News #Market Regions #Greater China
-
-【Ren Hongbin meets Novo Nordisk Foundation chairman Sorensen in Beijing】On June 18 in Beijing, China Council for the Promotion of International Trade president Ren Hongbin met with Sorensen, chairman of the Novo Nordisk Foundation and chairman of Novo Nordisk’s board. They discussed Novo Nordisk deepening its China market presence, accelerating in‑China investment, strengthening biopharma cooperation with Chinese partners, and increasing participation in the Healthy China initiative.
-
----
-
-### 2026-06-18 19:22:26  #其他
-
-SPACEX股價跌幅擴大至2%。
-
----
-
-### 2026-06-18 19:22:22  #MKT News
-
-SpaceX shares extended losses, down 2% in pre-market trading.
-
----
-
-### 2026-06-18 19:22:20  #央行 #市場
-
-【英國央行維持利率不變後 英國國債維持跌勢】英國國債維持跌勢，此前英國央行將利率維持在3.75%不變，並表示如果通脹風險上升，將隨時準備採取行動。兩年期英國國債收益率上漲6個基點至4.20%。英鎊下跌0.5%，至1.3219，延續早前跌勢。交易員維持對利率上升的押注；互換合約定價顯示，年底前利率將上調33個基點。
-
----
-
-### 2026-06-18 19:22:08  #MKT News #STLA.MI #Impact bearish
-
-Milan-listed Stellantis shares were suspended after falling 5.71%.
-
----
-
-### 2026-06-18 19:21:55  #市場
-
-米蘭上市的Stellantis股票在下跌5.71%後自動暫停交易。
-
----
-
-### 2026-06-18 19:21:42  #其他
-
-HCL科技在金奈推出人工智慧創新區，提供採用英特爾技術的企業解決方案。
-
----
-
-### 2026-06-18 19:21:37  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls by Over 1% — The FTSE 100 dropped more than 1% on Thursday, with sentiment subdued after the Bank of England left interest rates unchanged as expected. The index was dragged lower by weakness in energy and mining stocks as commodity prices continued to fall. Shell and BP lost more than 1.5%, while softer base metal prices pressured miners, with Rio Tinto down 2.3%, Glencore falling 2.4% and Anglo American sliding 3.2%. Tesco also weighed on the index, falling more than 1.5% after first quarter sales growth missed expectations. A number of stocks traded ex-dividend, including Persimmon, Land Securities and 3i Group. The BoE held its base rate at 3.75% at the June meeting, with two members voting for a 25-basis-point increase, matching expectations, and reiterated that it is monitoring geopolitical risks while remaining focused on returning inflation to its 2% target. The Federal Reserve also kept rates unchanged, although nine of its 19 policymakers now anticipate at least one rate hike this year.
 
 ---
