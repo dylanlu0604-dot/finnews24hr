@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-21 17:22:56",
+  "updated": "2026-06-21 17:26:58",
   "count": 17634,
   "items": [
+    {
+      "id": "4946345",
+      "time": "2026-06-21 17:25:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國正準備測試一架高超音速太空飛機，該飛機有望將倫敦至悉尼的飛行時間縮短至僅三小時。"
+    },
+    {
+      "id": "mkt:019ee97e-158a-7dd8-b0a4-c2844d82cb9b",
+      "time": "2026-06-21 17:23:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to Al Jazeera, Iran's president said $6 bln in frozen funds held by Qatar would be returned as part of a preliminary agreement to end hostilities with the United States."
+    },
+    {
+      "id": "4946344",
+      "time": "2026-06-21 17:22:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中巨芯：股價短期漲幅大 提示多項投資風險】中巨芯公告稱，2026年5月8日至6月18日，公司股價累計漲幅180.63%，顯著高於相關指數，存在短期下跌風險。公司2025年歸母淨利潤虧損1659.62萬元，無市盈率倍數，存在估值較高風險。近期市場傳聞涉及六氟化鎢相關事項，公司目前未籤新的長期或大額訂單，產能600噸且暫無擴產計劃，原材料成本增加影響不確定。公司整體經營規模小，抵禦風險能力有限，業績受多種因素影響或大幅波動，提醒投資者注意風險。"
+    },
     {
       "id": "mkt:019ee97b-8688-7dd8-b0a4-bdb8245012ef",
       "time": "2026-06-21 17:20:47",
@@ -162348,32 +162378,6 @@
         "Impact bullish"
       ],
       "text": "【KRW weakness persists; S. Korean official meets US Treasury to coordinate】The won has traded near 1,500 per dollar. Korea’s FX authority said on the 14th that Moon Ji-seong, director-general for international finance at the Ministry of Economy and Finance, traveled to Washington on the 12th, met senior US Treasury officials and returned the same day. Moon told US counterparts that Korea’s semiconductor-led fundamentals do not justify the recent depreciation and that the move appears somewhat excessive. Both sides agreed to maintain close communication and cooperation to address depreciation pressure on the won."
-    },
-    {
-      "id": "4934368",
-      "time": "2026-06-14 17:26:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電氣：向香港聯交所遞交H股發行上市申請並刊發申請資料】三星電氣公告稱，公司於2026年6月12日向香港聯交所遞交發行境外股份（H股）並在香港聯交所主機板掛牌上市的申請，並同日刊登申請資料。該資料為草擬版本，所載資料可能更新變動。本次發行上市若實施，發行物件為境外及境內合格投資者。申請尚需獲相關機構批准、核准或備案，存在不確定性，公司將及時披露進展。"
-    },
-    {
-      "id": "4934367",
-      "time": "2026-06-14 17:25:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【碳酸鋰期貨重回17萬元關口 基金經理：當前鋰電供需已實現階段性反轉】上週碳酸鋰期貨主力合約收報17.5萬元/噸，周漲幅6.6%，終結了此前近一個月的回撥。5月初鋰價一度重返20萬元關口，隨後經歷一輪快速回撥，6月初下探至15.7萬元附近後再度反彈。從更長週期看，碳酸鋰自2025年6月低點5.8萬元/噸已累計反彈約200%。行業普遍認為，目前碳酸鋰價格已經走出長達兩年的深度下行週期。產業層面，儲能專案需求旺盛，AI算力基建、電力市場化改革與新能源增量共同推升供需緊張狀態。“當前鋰價正處於長短期邏輯的交織博弈中。”一位鋰電產業鏈分析人士稱，短期宏觀面上，加息預期升溫令有色金屬價格普遍承壓，下半年鋰價的核心變數不在礦山產量，而在儲能需求能否持續超預期。平安新能源精選混合基金經理金溪寒稱，鋰電在儲能需求持續兌現的背景下，全年景氣度有望超出預期。當前鋰電供需已實現階段性反轉，從遠期來看，盈利持續性排序為電芯龍頭高於上游碳酸鋰、上游碳酸鋰高於中游材料；不過，在需求端持續兌現的當下，中上游環節的盈利修復彈性反而更大。 (第一財經)"
-    },
-    {
-      "id": "4934366",
-      "time": "2026-06-14 17:25:26",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【英國本週將出臺未成年人社交媒體管控禁令 監管力度超越澳大利亞】英國文化大臣莉薩・南迪週日接受天空新聞採訪時表示，英國本週即將公佈的16歲以下未成年人社交媒體使用禁令並非“萬全之策”，但會在保護青少年安全方面發揮重要作用。 英國首相基爾・斯塔默將正式推出這項管控措施。南迪稱，此前政府開展的民意徵詢結果顯示，絕大多數民眾（其中也包括大量青少年）都支援實施該禁令。她表示，啟動徵詢之初，各方討論的焦點就已是如何更好地保護青少年，而非是否需要出臺相關舉措。 據報道，此次改革將禁止青少年使用部分社交媒體平臺，並限制其每日使用時長，該媒體並未透露訊息來源。 報道稱，新規管控範圍將超越澳大利亞去年年底推出的標誌性監管措施，還會針對聊天機器人等被認定會對未成年人造成危害的技術產品作出約束。澳大利亞現行法律要求谷歌旗下Youtube、Reddit及Meta旗下Instagram等平臺禁止16歲以下使用者使用，違規企業將面臨罰款。"
     }
   ]
 }
