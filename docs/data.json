@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-22 05:59:40",
-  "count": 17448,
+  "updated": "2026-06-22 06:03:52",
+  "count": 17427,
   "items": [
+    {
+      "id": "mkt:019eec35-7591-7dd8-b0a9-b2719e4c8c26",
+      "time": "2026-06-22 06:03:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 10-year Treasury futures fell 12 ticks; 30-year Treasury futures fell 21 ticks."
+    },
+    {
+      "id": "4946711",
+      "time": "2026-06-22 06:02:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債期貨下跌12個最小變動價位，30年期國債期貨下跌21個最小變動價位。"
+    },
+    {
+      "id": "4946710",
+      "time": "2026-06-22 06:02:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本每日新聞民調：日本高市內閣支援率51%。"
+    },
+    {
+      "id": "mkt:019eec34-3347-7dd8-b0a9-ac18269cc550",
+      "time": "2026-06-22 06:01:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Spot gold opened Monday down 0.1%, trading at $4,154/oz."
+    },
+    {
+      "id": "4946709",
+      "time": "2026-06-22 06:01:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨上漲2%。"
+    },
+    {
+      "id": "4946708",
+      "time": "2026-06-22 06:01:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內跌0.12%。"
+    },
+    {
+      "id": "4946707",
+      "time": "2026-06-22 06:01:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.3%，納斯達克指數期貨下跌0.4%。"
+    },
+    {
+      "id": "mkt:019eec33-8ee5-7dd8-b0a9-a47a10ee254a",
+      "time": "2026-06-22 06:01:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened up 1.7% on Monday and is trading at $78.30/bbl."
+    },
+    {
+      "id": "mkt:019eec32-e68a-7dd8-b0a9-9da05d095d65",
+      "time": "2026-06-22 06:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "U.S. equity index futures opened lower on Monday; Nasdaq futures were down 0.5%."
+    },
+    {
+      "id": "4946706",
+      "time": "2026-06-22 06:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報64.06美元/盎司。"
+    },
+    {
+      "id": "4946705",
+      "time": "2026-06-22 06:00:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內漲3%，現報78.14美元/桶。"
+    },
+    {
+      "id": "4946704",
+      "time": "2026-06-22 06:00:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1255.68美元/盎司。"
+    },
+    {
+      "id": "4946703",
+      "time": "2026-06-22 06:00:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內跌2.00%。"
+    },
+    {
+      "id": "4946701",
+      "time": "2026-06-22 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報78.01美元/桶。"
+    },
+    {
+      "id": "4946700",
+      "time": "2026-06-22 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報64.32美元/盎司。"
+    },
+    {
+      "id": "4946699",
+      "time": "2026-06-22 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4157.57美元/盎司。"
+    },
     {
       "id": "4946698",
       "time": "2026-06-22 05:58:24",
@@ -160322,347 +160466,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：如果伊朗遵守協議，中東將更具投資吸引力。"
-    },
-    {
-      "id": "4934854",
-      "time": "2026-06-15 06:03:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4290美元/盎司，日內漲1.81%。"
-    },
-    {
-      "id": "4934853",
-      "time": "2026-06-15 06:03:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4310美元/盎司，日內漲1.70%。"
-    },
-    {
-      "id": "mkt:019ec829-66df-7dd8-aff7-c9341a42b88c",
-      "time": "2026-06-15 06:03:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Kyiv mayor said Ukraine repelled an air raid over Kyiv."
-    },
-    {
-      "id": "4934852",
-      "time": "2026-06-15 06:03:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，調解人仍將參與即將舉行的談判。"
-    },
-    {
-      "id": "4934851",
-      "time": "2026-06-15 06:03:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔市長表示，正抵禦基輔上空的空襲。"
-    },
-    {
-      "id": "mkt:019ec829-0b62-7dd8-aff7-c522fcbb813c",
-      "time": "2026-06-15 06:03:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Iran's deputy foreign minister said the armed forces will always \"keep their muzzles pointed\"."
-    },
-    {
-      "id": "mkt:019ec828-e8ac-7dd8-aff7-badd00965843",
-      "time": "2026-06-15 06:03:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Iran's deputy foreign minister said Iran's military strength and threats helped secure the final text, and that Iran agreed to sign the memorandum of understanding only after its final demands were incorporated."
-    },
-    {
-      "id": "4934850",
-      "time": "2026-06-15 06:02:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長稱武裝部隊將始終\"扣住扳機\"。"
-    },
-    {
-      "id": "4934849",
-      "time": "2026-06-15 06:02:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4280美元/盎司，日內漲1.51%。"
-    },
-    {
-      "id": "4934848",
-      "time": "2026-06-15 06:02:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨下跌4.0%，至每桶83.96美元。"
-    },
-    {
-      "id": "mkt:019ec828-adab-7dd8-aff7-b6aaac1d3c87",
-      "time": "2026-06-15 06:02:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell 5.00% intraday to $80.58/bbl."
-    },
-    {
-      "id": "mkt:019ec828-8213-7dd8-aff7-ad94f0a54da1",
-      "time": "2026-06-15 06:02:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Iran deputy foreign minister: Iran-US MoU text finalized】On June 15, Iran Deputy Foreign Minister Gharibabadi said the Islamabad-drafted text of the Iran-US memorandum of understanding has been finalized and will be formally signed in Switzerland on Friday, June 19."
-    },
-    {
-      "id": "4934847",
-      "time": "2026-06-15 06:02:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4300美元/盎司，日內漲1.46%。"
-    },
-    {
-      "id": "4934846",
-      "time": "2026-06-15 06:01:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：在我們把最終要求納入文字之前，我們並未同意這份諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019ec827-c79e-7dd8-aff7-a3d2d95d292f",
-      "time": "2026-06-15 06:01:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold gapped up over 1%, trading at $4,272.58/oz."
-    },
-    {
-      "id": "mkt:019ec827-6390-7dd8-aff7-9d242df14390",
-      "time": "2026-06-15 06:01:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures opened down 4.5% after a US-Iran agreement was reached."
-    },
-    {
-      "id": "4934845",
-      "time": "2026-06-15 06:01:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨跳漲0.7%，納斯達克指數期貨上揚1.1%，受美伊達成協議訊息提振。"
-    },
-    {
-      "id": "4934844",
-      "time": "2026-06-15 06:01:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌4%，現報83.76美元/桶。"
-    },
-    {
-      "id": "4934843",
-      "time": "2026-06-15 06:01:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4270美元/盎司，日內漲1.41%。"
-    },
-    {
-      "id": "4934842",
-      "time": "2026-06-15 06:01:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌5%，現報80.63美元/桶。"
-    },
-    {
-      "id": "4934841",
-      "time": "2026-06-15 06:01:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守84美元/桶，日內跌3.86%。"
-    },
-    {
-      "id": "4934840",
-      "time": "2026-06-15 06:00:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守81美元/桶，日內跌4.65%。"
-    },
-    {
-      "id": "mkt:019ec826-cc66-7dd8-aff7-94d409170f43",
-      "time": "2026-06-15 06:00:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "Nasdaq futures opened about 1% higher on Monday after reports that the United States and Iran reached an agreement."
-    },
-    {
-      "id": "4934839",
-      "time": "2026-06-15 06:00:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4263.07美元/盎司。"
-    },
-    {
-      "id": "4934838",
-      "time": "2026-06-15 06:00:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗副外長證實已與美國達成協議。"
-    },
-    {
-      "id": "4934837",
-      "time": "2026-06-15 06:00:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報81.46美元/桶。"
-    },
-    {
-      "id": "4934836",
-      "time": "2026-06-15 06:00:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守68美元/盎司，日內漲1.48%。"
-    },
-    {
-      "id": "4934835",
-      "time": "2026-06-15 06:00:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌3%，現報84.62美元/桶。"
-    },
-    {
-      "id": "4934834",
-      "time": "2026-06-15 06:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破83美元/桶，日內跌3.10%。"
-    },
-    {
-      "id": "4934833",
-      "time": "2026-06-15 06:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌3%，現報82.25美元/桶。"
-    },
-    {
-      "id": "4934832",
-      "time": "2026-06-15 06:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲1%，現報4294.12美元/盎司。"
-    },
-    {
-      "id": "4934831",
-      "time": "2026-06-15 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲2%，現報1320.46美元/盎司。"
-    },
-    {
-      "id": "4934830",
-      "time": "2026-06-15 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報69.35美元/盎司。"
-    },
-    {
-      "id": "4934829",
-      "time": "2026-06-15 06:00:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，伊朗的軍事力量和威脅有助於最終敲定協議文字."
-    },
-    {
-      "id": "4934828",
-      "time": "2026-06-15 06:00:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破86美元/桶，日內跌2.65%。"
-    },
-    {
-      "id": "4934827",
-      "time": "2026-06-15 06:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報85.36美元/桶。"
-    },
-    {
-      "id": "mkt:019ec825-e78a-7dd8-aff7-8d6df00856eb",
-      "time": "2026-06-15 05:59:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reports Vice President Vance plans to attend a signing ceremony in Geneva and said President Trump may also attend; logistics are still being coordinated."
     }
   ]
 }
