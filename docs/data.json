@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-21 13:50:55",
+  "updated": "2026-06-21 13:55:10",
   "count": 17562,
   "items": [
+    {
+      "id": "mkt:019ee8be-0f3a-7dd8-b0a3-74849c566c1a",
+      "time": "2026-06-21 13:53:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Amazon founder Jeff Bezos said artificial intelligence could cause worker shortages rather than widespread unemployment."
+    },
     {
       "id": "4946159",
       "time": "2026-06-21 13:47:40",
@@ -161785,19 +161795,6 @@
         "公司"
       ],
       "text": "【富祥股份：目前公司鋰電池電解液新增劑VC產能已提升至10000噸/年】富祥股份近日接受機構調研及現場參觀時表示，公司具備較強的技術遷移和產業拓展能力，依託醫藥領域積累的優勢資源，成功切入新能源鋰電材料賽道。目前，公司鋰電池電解液新增劑VC產能已提升至10000噸/年，FEC產能接近4000噸/年，與天賜材料、新宙邦等頭部客戶保持穩定合作，並已透過比亞迪認證實現供貨。受益於動力電池及儲能電池市場的快速增長，VC及FEC產品市場需求上升、價格回暖，已成為公司業績增長的核心引擎。"
-    },
-    {
-      "id": "mkt:019ec4b1-c032-7dd8-afef-2d35307ffdf1",
-      "time": "2026-06-14 13:54:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "【UK, Japan expected to sign £18 bln clean energy investment deal】Prime Minister Starmer's office said on Saturday the UK and Japan are expected to agree a £18 billion (about $24.1 billion) investment package focused on offshore wind, infrastructure and financial services. The deal would include up to £9 billion of Japanese investment to develop 5.9 GW of floating offshore wind in the UK, ultimately generating enough clean power for about 8 million households and creating new jobs in the sectors named."
     }
   ]
 }
