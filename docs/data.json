@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-22 07:26:35",
-  "count": 17359,
+  "updated": "2026-06-22 07:30:31",
+  "count": 17357,
   "items": [
+    {
+      "id": "4946800",
+      "time": "2026-06-22 07:29:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞左翼候選人塞佩達：今天的預計票結果不具約束力。"
+    },
+    {
+      "id": "4946799",
+      "time": "2026-06-22 07:29:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞左翼候選人塞佩達稱，哥倫比亞總統選舉初步結果並非最終定論。"
+    },
+    {
+      "id": "4946798",
+      "time": "2026-06-22 07:28:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一線崗位人才需求旺盛 券商分支機構遭遇“人才荒”】A股市場交投持續活躍，也帶動券商財富管理人才需求旺盛。證券時報記者注意到，今年以來，多家券商分支機構密集釋出招聘計劃，針對客戶經理、投資顧問、私人財富總監等一線業務崗位的需求集中釋放。不過，在分支機構出現的人才缺口面前，招聘進度仍顯緩慢。部分券商分支機構的招聘公告已“張榜”數月，至今未能覓得合適人選。尤其是在遠離金融中心的非核心城市，“招人難”問題尤為突出。受訪券商表示，已著手探索長效培養機制，比如透過校企合作、明確職業發展通道、推行管培生計劃等，鼓勵相關區域結合自身特點構建適配的人才培養體系，努力破解分支機構尤其是區域網點“招人難、留人難”的窘境。"
+    },
+    {
+      "id": "4946797",
+      "time": "2026-06-22 07:28:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鱘龍科技：擬全球發售1633.29萬股H股，發售價75.50港元】6月22日早間，鱘龍科技在港交所公告，公司擬全球發售16,332,900股H股，香港發售股份1,633,300股H股，國際發售股份14,699,600股H股，另有15%的超額配股權；發售價為每股75.50港元；預期股份將於2026年6月30日開始在香港聯交所買賣。"
+    },
+    {
+      "id": "4946795",
+      "time": "2026-06-22 07:28:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美方官員：美伊談判預計將持續到深夜】一位美國官員告訴隨行記者，談判仍在進行中，預計將持續到深夜。"
+    },
+    {
+      "id": "4946792",
+      "time": "2026-06-22 07:27:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公募REITs上市五週年 86只產品募資達2450億元】5年前的6月21日，首批公募基礎設施領域不動產投資信託基金（REITs）登陸滬深交易所，這一創新品種正式步入國內投資者視野。5年來，市場常態化發行提速，底層資產型別持續擴容，監管制度日臻完善，功能效應穩步釋放。截至目前，全市場已上市86只REITs，募資總額達2450億元。"
+    },
     {
       "id": "4946791",
       "time": "2026-06-22 07:25:31",
@@ -159742,85 +159790,6 @@
         "國際"
       ],
       "text": "【華泰證券：港股情緒觸底後或超跌反彈】華泰證券研報稱，上週港股市場回撥主要反映全球流動性緊張和境外資產波動，多數擾動因素有望回擺，疊加市場情緒處於極端低位，當前仍可博弈超跌反彈。海外事件密集期達到尾聲，美國5月CPI環比增速符合彭博一致預期，核心通脹較為溫和；SpaceX於6月12日已登陸納斯達克，資金虹吸效應緩解；後續關注FOMC會議情況，美股調整本身或可助力年內加息預期降溫。港股自身基本面無實質性變化，但恐慌程度已處於近兩年極值水平，其中衍生品分項已至極致低位或反映沽空壓力充分釋放，極端情緒底部本身構成安全墊，當前仍可博弈超跌反彈下的沽空回補。配置上，短期關注沽空壓力較重、盈利預期邊際企穩的超跌品種（可選零售、傳媒）及高股息防禦（銀行）；AI硬體鏈短期價效比有限，建議依浮盈程度減敞口，待7月美股財報季後波動率回落再行佈局。中期維持均衡配置，兼顧景氣上行的半導體、電新與機械，以及估值低位、盈利預期改善的部分食飲與消費者服務。"
-    },
-    {
-      "id": "4934959",
-      "time": "2026-06-15 07:29:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊確認達成協議 國際油價顯著下跌】由於美國和伊朗確認達成協議及霍爾木茲海峽預計很快重新開放，國際原油期貨14日在開始新一週交易後價格顯著走低。截至美東時間14日下午6時15分，紐約商品交易所7月交貨的輕質原油期貨價格最低降至每桶80.25美元，跌幅達5.45%；8月交貨的倫敦布倫特原油期貨價格一度跌至每桶83.51美元，跌幅為4.37%。巴基斯坦總理夏巴茲當地時間15日在社交媒體發文說，美國與伊朗已達成和平協議。隨後，美國和伊朗方面證實這一訊息。美國總統特朗普14日在社交媒體發文說，美伊協議“現在完成”。隨著美伊協議19日簽署，霍爾木茲海峽將重新開放，以便進行排雷作業。伊朗最高國家安全委員會當地時間15日凌晨發表宣告，正式確認伊美停戰諒解備忘錄達成。自美國和以色列2月底對伊朗發動軍事打擊以來，霍爾木茲海峽航運受阻導致石油市場供應大幅減少，國際油價隨之飆升。（新華社）"
-    },
-    {
-      "id": "4934958",
-      "time": "2026-06-15 07:28:43",
-      "tags": [
-        "央行",
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、張國清在青海調研時強調 高質量推進鹽湖產業基地建設 著力提高防範應對自然災害能力\n2、“十五五”時期將建設改造約七十七萬公里 城市地下管網如何“強筋健骨”（經濟新方位·精準發力建好“六張網”）\n3、兒童旅客購買鐵路旅遊計次票可享折上折（資訊服務檯）\n4、去年長江口航道透過貨運量17.54億噸 產生經濟效益同比增長4.9%\n5、全球治理倡議與中巴經濟走廊建設研討會舉行\n6、京津冀九條措施支援雄安技能人才隊伍建設\n7、從“經濟大合唱”讀懂中國優勢（評論員觀察）\n8、我國首批飛艇駕駛員持證上崗 國產飛艇從“試驗田”走向“商業田”（探一線）\n9、以更大力度推動產業鏈供應鏈國際合作\n10、一季度GDP，歐元區環比下降0.2%、歐盟環比下降0.1%——歐盟經濟內生增長動力不足（國際視點）\n11、歐央行加息凸顯結構性難題（經濟透視）\n12、美的泰國“智慧體工廠”打造“貨暢其流”“人盡其才”的數字樣板——“更多泰國企業共享中國製造轉型升級成果”\n13、宜居宜業，常州“花香蝶自來”（外國人眼中的中國城市）\n14、用好“義烏髮展經驗” 關鍵是因地制宜（每週經濟評論）\n15、三個創新難題，三種科技金融新解法（財經深一度）\n16、鏢局裡的風險管理智慧（跟著歷史學經濟）"
-    },
-    {
-      "id": "4934957",
-      "time": "2026-06-15 07:28:37",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、“現代化最重要的指標還是人民健康”（總書記的人民情懷）\n2、共同創造雄安美好未來——雄安新區紮實推進高質量建設和發展\n3、各地區各部門各單位推動學習教育走深走實——讓群眾看見變化、得到實惠（樹立和踐行正確政績觀）\n4、王滬寧在兩岸融合發展示範區建設專題推進會上強調 推動“十五五”時期兩岸融合發展走深走實\n5、前5月 社會融資規模增量累計17.48萬億元\n6、中央企業基礎研究投入佔比提升至9.4%"
-    },
-    {
-      "id": "4934956",
-      "time": "2026-06-15 07:28:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電影《揭秘日》總票房破2000萬】據貓眼專業版資料，電影《揭秘日》上映4天 ，總票房破2000萬。"
-    },
-    {
-      "id": "te:economy:558818",
-      "time": "2026-06-15 07:28:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Israel",
-        "Balance of Trade",
-        "Importance 0"
-      ],
-      "text": "Israel Trade Gap Widens in May — Israel’s trade balance recorded a deficit of USD 3.69 billion in May 2026, widening from USD 3.35 billion from the corresponding month of the previous year. Exports surged by 38% year-on-year to USD 6.05 billion, reaching the highest since March 2022, led by increases in shipments from the manufacturing, mining, and quarrying sectors excluding diamonds (42.3%) and agriculture, forestry, and fishing (24.2%). Meanwhile, imports rose by 25.9% to USD 9.74 billion, the highest level in four years, driven by higher purchases of fuels (75%), raw materials (23%), and investment goods (19.8%). For the first five months of the year, the country’s trade deficit expanded to USD 19.13 billion compared to USD 15.01 billion a year earlier."
-    },
-    {
-      "id": "4934955",
-      "time": "2026-06-15 07:28:22",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【華泰證券：沃什首秀表態或中性偏鷹 基準情形下聯儲下半年保持利率不變】華泰證券研報稱，北京時間6月18日（週四）凌晨美聯儲將公佈6月議息會議決定，考慮到聯儲內部對加息仍有分歧，預計聯儲6月會議維持利率不變，取消宣告中的寬鬆傾向，但強調未來利率走勢取決於後續資料；同時，預計聯儲還將下調26年增長預測、上調26年通脹與中性利率預測，點陣圖指引將由26-27年各降息1次轉為維持利率不變。此外，本次將是沃什作為聯儲主席的“首秀”，關注沃什對利率前景、縮表、聯儲改革等的表態。預計聯儲將取消決議宣告中的寬鬆傾向（easing bias），點陣圖中2026-27年各降息1次的指引改為維持利率不變，聯儲對未來是否加息將維持開放立場；經濟預測方面，預計聯儲下調增長、上調通脹預期。向前看，我們認為基準情形下聯儲下半年保持利率不變，至明年底可能累計加息2次。"
-    },
-    {
-      "id": "te:markets:558816",
-      "time": "2026-06-15 07:27:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Drops on US-Iran Peace Deal — Brent plunged about 4% to below $84 per barrel on Monday, touching a two-month low after the US and Iran reached a peace agreement aimed at ending the Middle East conflict and reopening the Strait of Hormuz by the end of the week. President Donald Trump announced that oil shipments from the Persian Gulf could soon resume, including the lifting of a US blockade on Iranian ports. The agreement also reportedly includes provisions for dismantling Iran’s nuclear program, along with economic incentives if Tehran meets its commitments. Iranian Deputy Foreign Minister Kazem Gharibabadi confirmed that a deal had been reached and said the text would be released following a signing ceremony in Switzerland. Oil markets have faced significant disruption since the conflict erupted in late February, with the near-closure of the Strait of Hormuz affecting roughly one-fifth of global oil shipments."
-    },
-    {
-      "id": "te:markets:558814",
-      "time": "2026-06-15 07:26:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Drops on US-Iran Peace Deal — Crude oil plunged more than 4% to around $81 per barrel on Monday, touching a two-month low after the US and Iran reached a peace agreement aimed at ending the Middle East conflict and reopening the Strait of Hormuz by the end of the week. President Donald Trump announced that oil shipments from the Persian Gulf could soon resume, including the lifting of a US blockade on Iranian ports. The agreement also reportedly includes provisions for dismantling Iran’s nuclear program, along with economic incentives if Tehran meets its commitments. Iranian Deputy Foreign Minister Kazem Gharibabadi confirmed that a deal had been reached and said the text would be released following a signing ceremony in Switzerland. Oil markets have faced significant disruption since the conflict erupted in late February, with the near-closure of the Strait of Hormuz affecting roughly one-fifth of global oil shipments."
     }
   ]
 }
