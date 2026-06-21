@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-21 19:28:51",
-  "count": 17621,
+  "updated": "2026-06-21 19:32:55",
+  "count": 17618,
   "items": [
+    {
+      "id": "mkt:019ee9f0-d226-7dd8-b0a5-91143e5b6e61",
+      "time": "2026-06-21 19:28:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S., Iran begin talks in Switzerland】Qatar’s foreign ministry said on June 21 that, mediated by Qatar and Pakistan, the U.S. and Iran have begun negotiations in Switzerland. The ministry said it hopes the meetings will produce a comprehensive, permanent agreement resolving all issues covered in the memorandum of understanding."
+    },
+    {
+      "id": "4946413",
+      "time": "2026-06-21 19:28:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國與伊朗在瑞士會談開始】卡達外交部今天（6月21日）宣佈，在卡達和巴基斯坦的調解下，美國和伊朗在瑞士啟動了談判。卡達外交部表示，“希望這些會議能夠促成一項全面且永久的協議，解決諒解備忘錄中涵蓋的所有問題”。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:019ee9ec-bc0c-7dd8-b0a5-88101bcf753a",
       "time": "2026-06-21 19:24:26",
@@ -162190,50 +162206,6 @@
         "DXY"
       ],
       "text": "【Israeli airstrike on Beirut's Dahieh kills one, wounds at least four】An Israeli airstrike on Dahieh, a southern suburb of Beirut, earlier on the 14th killed one and wounded at least four. Prime Minister Netanyahu said on social media that Israel struck Hezbollah targets in Dahieh."
-    },
-    {
-      "id": "4934444",
-      "time": "2026-06-14 19:32:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲黎巴嫩首都貝魯特南郊已致1死4傷】總檯記者當地時間14日獲悉，當天早些時候以軍對黎巴嫩首都貝魯特南郊達希耶地區的空襲，已造成1人死亡，另有至少4人受傷。此外，在以軍空襲貝魯特之後，以總理內塔尼亞胡14日透過社交媒體發文表示，以色列襲擊了位於貝魯特達希耶地區的真主黨目標。（央視新聞）"
-    },
-    {
-      "id": "4934443",
-      "time": "2026-06-14 19:31:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗方面訊息：巴基斯坦外長與土耳其外長進行了通話，雙方討論了美伊和平談判。"
-    },
-    {
-      "id": "mkt:019ec5e6-d60b-7dd8-aff1-48afc81cc978",
-      "time": "2026-06-14 19:31:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim News reported Pakistan's foreign minister held a phone call with Turkey's foreign minister to discuss U.S.-Iran peace talks."
-    },
-    {
-      "id": "4934442",
-      "time": "2026-06-14 19:31:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員稱以色列政權為“瘋狗”，必須加以控制】據以色列方面訊息：伊朗議會國家安全與外交政策委員會發言人雷扎伊表示，如果我們尋求達成協議或共識，其必經之路是要管束猶太復國主義政權。這隻瘋狗必須被控制。"
-    },
-    {
-      "id": "mkt:019ec5e5-7bd3-7dd8-aff1-427ebc050a0d",
-      "time": "2026-06-14 19:30:11",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iranian official calls Israeli regime 'mad dog', says it must be controlled】i24News reported that Rezai, spokesman for the Iranian parliament's National Security and Foreign Policy Commission, said any route to an agreement or consensus requires reining in the Zionist regime. 'This mad dog must be controlled.'"
     }
   ]
 }
