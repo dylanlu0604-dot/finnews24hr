@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-21 23:44:00",
-  "count": 17559,
+  "updated": "2026-06-21 23:48:13",
+  "count": 17554,
   "items": [
+    {
+      "id": "mkt:019eeadb-210b-7dd8-b0a7-9df7f7c319a4",
+      "time": "2026-06-21 23:44:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran delegation begins bilateral talks with Qatar】Iranian media on the 21st reported that after the first round of Iran‑US negotiations concluded, Iran's delegation began bilateral talks with Qatar's delegation."
+    },
+    {
+      "id": "4946561",
+      "time": "2026-06-21 23:44:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗代表團開始與卡達代表團會談】據伊朗媒體21日報道，伊美談判第一輪結束後，伊朗代表團與卡達代表團的雙邊會談開始。（新華社）"
+    },
     {
       "id": "4946560",
       "time": "2026-06-21 23:41:23",
@@ -161584,66 +161600,6 @@
         "國際"
       ],
       "text": "【俄羅斯：普京與特朗普通話】俄總統助理烏沙科夫表示，普京與特朗普通話，此次通話氛圍友好、交流坦誠，時長55分鐘。普京向特朗普送上80歲生日祝福，雙方還談及兩國代表後續可能開展的接觸事宜。"
-    },
-    {
-      "id": "mkt:019ec6d1-9fff-7dd8-aff4-1f59622f08db",
-      "time": "2026-06-14 23:48:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Russian media: Putin spoke by phone with Trump for 55 minutes】Russian presidential aide Yuri Ushakov said President Vladimir Putin spoke by phone with Donald Trump for 55 minutes; the call was friendly and candid. Putin congratulated Trump on his 80th birthday and they discussed possible contacts between their representatives."
-    },
-    {
-      "id": "4934630",
-      "time": "2026-06-14 23:47:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦國家電視：當地響起防空警報系裝置故障所致。"
-    },
-    {
-      "id": "mkt:019ec6d0-675f-7dd8-aff4-110f41e59143",
-      "time": "2026-06-14 23:46:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "The Kremlin said President Putin spoke by phone with U.S. President TRUMP today."
-    },
-    {
-      "id": "mkt:019ec6d0-1864-7dd8-aff4-0bf5c1aad566",
-      "time": "2026-06-14 23:46:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars News Agency reported President PEZESHKIAN said he would abide by the system's final decision on negotiations even if his personal views differ."
-    },
-    {
-      "id": "mkt:019ec6cf-62b7-7dd8-aff4-01513a7d8043",
-      "time": "2026-06-14 23:45:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli media: Netanyahu refuses to withdraw from south Lebanon, Syrian territory】Israeli daily Maariv, citing sources, reported that in a recent phone call with US President Trump Netanyahu rejected US requests to withdraw Israeli forces from all of south Lebanon, including five Israeli-controlled positions, and likewise refused to withdraw from Syrian territory occupied after Assad’s removal."
-    },
-    {
-      "id": "4934629",
-      "time": "2026-06-14 23:44:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱黎巴嫩是行動重心 已準備好應對報復】以色列國防軍方面14日表示，以軍正“保持高度警惕和戰備狀態”，黎巴嫩是以軍行動的“主要重心”。以軍正為“未來數小時內”可能出現以色列遭受攻擊的情況做準備。（新華社）"
-    },
-    {
-      "id": "4934628",
-      "time": "2026-06-14 23:44:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "由於擔心伊朗發射導彈，以色列今日的小型內閣會議將在加固掩體中召開。"
     }
   ]
 }
