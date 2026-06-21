@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-21 19:32:55",
+  "updated": "2026-06-21 19:37:02",
   "count": 17618,
   "items": [
+    {
+      "id": "mkt:019ee9f7-4b9a-7dd8-b0a5-9d137886c3ad",
+      "time": "2026-06-21 19:35:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Pakistan's foreign minister said Iran will not block ships transiting the Strait of Hormuz over the next 60 days and will not charge for passage, Saudi outlet Hadas and Al Arabiya reported."
+    },
     {
       "id": "mkt:019ee9f0-d226-7dd8-b0a5-91143e5b6e61",
       "time": "2026-06-21 19:28:54",
@@ -162194,18 +162206,6 @@
         "國際"
       ],
       "text": "【6月14日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【牢記初心使命 奮進復興征程】賡續紅色血脈 走好新時代長征路； 2.王滬寧出席兩岸融合發展示範區建設專題推進會； 3.【在希望的田野上】各地做好搶收搶種 築牢豐收基礎； 4.前5個月鐵路客貨運量多項指標創新高； 5.各地積極調整最佳化住房公積金政策； 6.建設“清水”北京 享受“親水”生活； 7.【黨旗在基層一線高高飄揚】侯貴：從沙海一棵樹 到綠洲一片林； 8.【美麗中國行】泥巴山上架起“熊貓廊道”； 9.【文化中國行】薪火相傳 秦腔不老； 10.國內聯播快訊： （1）《金融資訊服務資料分類分級指南》印發； （2）我國首次開展蔬菜純電農機實地綜合測評； （3）各地各部門舉行世界獻血者日主題活動； （4）第28屆上海國際電影節開幕； （5）首屆中國AI創業者大會暨《贏在AI+》第二季啟動； 11.美稱14日與伊朗籤協議 伊朗稱簽署時間待定 以媒稱美伊協議危及以色列安全利益； 12.國際聯播快訊： （1）以稱打擊黎首都貝魯特達希耶地區； （2）美軍一架“大黃蜂”戰機墜毀 引發火災。"
-    },
-    {
-      "id": "mkt:019ec5e8-25f7-7dd8-aff1-532ab5aef0ed",
-      "time": "2026-06-14 19:33:06",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israeli airstrike on Beirut's Dahieh kills one, wounds at least four】An Israeli airstrike on Dahieh, a southern suburb of Beirut, earlier on the 14th killed one and wounded at least four. Prime Minister Netanyahu said on social media that Israel struck Hezbollah targets in Dahieh."
     }
   ]
 }
