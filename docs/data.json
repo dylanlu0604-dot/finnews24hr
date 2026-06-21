@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-22 03:00:39",
-  "count": 17476,
+  "updated": "2026-06-22 03:04:30",
+  "count": 17475,
   "items": [
+    {
+      "id": "4946625",
+      "time": "2026-06-22 03:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國統計機構承認關鍵就業資料存在新錯誤。"
+    },
     {
       "id": "mkt:019eeb8c-39cb-7dd8-b0a8-fb3b31b83bb3",
       "time": "2026-06-22 02:58:16",
@@ -160947,22 +160955,6 @@
         "MKT News"
       ],
       "text": "Iran's parliament speaker says the enemy will never be able to take on any resistance front alone."
-    },
-    {
-      "id": "mkt:019ec783-5246-7dd8-aff6-4ddcbd679d77",
-      "time": "2026-06-15 03:02:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DR Congo reports confirmed Ebola cases have risen to 782."
-    },
-    {
-      "id": "4934746",
-      "time": "2026-06-15 03:01:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果表示，埃博拉確診病例數已升至782例。"
     }
   ]
 }
