@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22 01:13:19",
-  "count": 17514,
+  "updated": "2026-06-22 01:17:17",
+  "count": 17512,
   "items": [
     {
       "id": "mkt:019eeb25-758b-7dd8-b0a8-394e07d1c714",
@@ -161276,22 +161276,6 @@
         "國際"
       ],
       "text": "真主黨稱其在黎巴嫩對以色列軍隊發動了17次襲擊。"
-    },
-    {
-      "id": "mkt:019ec721-ecd0-7dd8-aff5-38f90bd28d80",
-      "time": "2026-06-15 01:15:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatic detection: at 01:13 on June 15 an earthquake of about M4.1 occurred near Heyang County, Weinan, Shaanxi (35.23N, 110.27E). Final parameters are subject to the official rapid report."
-    },
-    {
-      "id": "4934688",
-      "time": "2026-06-15 01:15:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列：兩名以色列士兵在黎巴嫩南部遭真主黨火力襲擊，受中度傷情。"
     }
   ]
 }
