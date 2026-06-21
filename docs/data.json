@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-21 17:26:58",
-  "count": 17634,
+  "updated": "2026-06-21 17:31:02",
+  "count": 17629,
   "items": [
+    {
+      "id": "4946347",
+      "time": "2026-06-21 17:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國查爾斯國王將頒佈旨在提升 “透明度” 的稅收法案。"
+    },
+    {
+      "id": "mkt:019ee982-a9be-7dd8-b0a4-ced3d0a9567d",
+      "time": "2026-06-21 17:28:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran president: $6 bln frozen funds held by Qatar to be returned】Iranian President Pezeshkian said about $6 billion in funds frozen in Qatar will be returned as part of a preliminary agreement to cease hostilities with the United States. He described the memorandum of understanding as favorable to Iran and said negotiation outcomes would emerge gradually. Pezeshkian said the U.S. required a written pledge that Iran would not possess nuclear weapons and that Iran has signed such a commitment; he noted former Supreme Leader Khamenei has also said Iran does not seek a nuclear bomb."
+    },
+    {
+      "id": "4946346",
+      "time": "2026-06-21 17:28:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊總統：60億美元凍結資金將返還給伊朗】據半島電視臺報道，伊朗總統佩澤希齊揚公佈美伊協議更多細節。伊朗總統表示，作為與美國結束戰爭的初步協議的一部分，目前由卡達持有的60億美元被凍結資金將被歸還。諒解備忘錄的所有條款都對伊朗有利，這些談判和協商的成果將會逐步顯現。伊朗總統還表示，特朗普“在此前的講話中曾禁止我們做很多事情，而如今他宣佈所有這些都歸於伊朗人民和國家的權利”。佩澤希齊揚還揶揄了以色列總理內塔尼亞胡，稱他將“最先對瑞士談判感到不滿”。他還表示，美國唯一的要求就是伊朗不擁有原子彈。而前伊朗最高領袖哈梅內伊也曾多次說過伊朗不想要原子彈。美國要求伊朗要求伊朗以書面形式承諾不擁有核武器，伊朗簽了。"
+    },
     {
       "id": "4946345",
       "time": "2026-06-21 17:25:07",
@@ -162303,81 +162331,6 @@
         "國際"
       ],
       "text": "【一艘懸掛印度船旗的機動帆船在阿曼近海發生意外】印度駐阿曼大使館宣告：我方獲悉，一艘懸掛印度船旗的機動帆船 Virat 1 在阿曼近海發生意外，船上共有 14 名印度船員。目前使館正聯合阿曼相關部門及事發海域附近船隻，協同開展搜救工作。 經核實，該船出現發動機故障，全體船員隨後安全轉移至救生筏。現階段，阿曼有關部門已統籌周邊船舶，救援行動仍在持續進行中。"
-    },
-    {
-      "id": "4934373",
-      "time": "2026-06-14 17:30:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒：因移民問題，義大利爆發大規模示威活動】據美聯社6月13日報道，義大利首都羅馬13日爆發大規模遊行，數以萬計民眾分別參與反移民與支援移民兩大示威活動。此前，一項主張對移民採取強硬舉措的極右翼民間倡議已獲得足夠多支援，相關提案將移交議會審議。（參考訊息）"
-    },
-    {
-      "id": "4934372",
-      "time": "2026-06-14 17:30:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SK海力士擬將晶片晶圓產能提高到3倍】本週，韓國SK集團會長崔泰源透露，旗下儲存晶片子公司SK海力士，計劃到2034年將晶片晶圓產能提高到目前的三倍，以滿足人工智慧發展帶來的旺盛需求。雖然他對AI需求和相關投資充滿信心，但是他也承認，股市波動可能會持續一段時間。SK海力士的股價近期波動劇烈：當地時間10日，重挫約7.5%，而前一天是暴漲超過15%。另外，SK海力士已經確認，計劃年內發行美國存託憑證（ADR），以此赴美上市。分析認為，公司希望藉著AI的東風，拓寬投資者基礎。（央視財經）"
-    },
-    {
-      "id": "mkt:019ec577-61e4-7dd8-aff0-4a485fb9aa8d",
-      "time": "2026-06-14 17:29:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukrainian President ZELENSKIY said Europe urgently needs legislation to detain tankers, restrict oil shipments and confiscate oil aboard vessels, adding such measures would help bring peace closer."
-    },
-    {
-      "id": "4934371",
-      "time": "2026-06-14 17:29:24",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "澤連斯基： 我向基爾・斯塔默以及全體英國民眾堅守原則的堅定立場表示感謝。眼下歐洲亟需出臺相關法規，不僅要實現油輪扣押、限制石油運輸，還要允許查扣船上所載原油。"
-    },
-    {
-      "id": "mkt:019ec576-b6cb-7dd8-aff0-466d4ece5ef3",
-      "time": "2026-06-14 17:29:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy thanked the UK for seizing a sanctioned ship from Russia's shadow fleet."
-    },
-    {
-      "id": "4934370",
-      "time": "2026-06-14 17:28:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣汽股東大會股民發言：把身家性命都壓在廣汽上，持倉一個多億套了30%多，真的非常傷心】廣汽集團近日舉行2025年度股東大會，一位股民在股東大會上的發言引發關注。網路上流傳的影片顯示，該股民在會上表示，自己把身家性命都壓在廣汽集團一隻股票上面，整個家族，包括自己企業的資金都壓在廣汽，差不多持倉一個多億，套了30%多。“真的非常傷心，說好的廣汽萬億市值大概什麼時候能實現？”她質問道。（新浪科技）"
-    },
-    {
-      "id": "4934369",
-      "time": "2026-06-14 17:28:09",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓元持續疲軟，韓國高官赴美磋商加強密切協作】據報道，在近期韓元兌美元匯率在1美元兌1500韓元高位執行之際，韓美外匯部門高階官員會面，就為應對韓元疲軟而密切溝通達成共識。據韓國外匯當局14日訊息，韓國企劃財政部國際金融課長文智成（音）12日啟程前往美國華盛頓特區，並於當天回國。據悉，文智成訪美期間會見了美國財政部高階官員，就近期外匯市場動向進行了討論。文智成強調，考慮到半導體產業良好狀況等韓國經濟基本面，韓元近期貶值難以得到合理解釋且有些過度。同時，雙方決定繼續密切溝通與協作，以應對韓元貶值壓力。"
-    },
-    {
-      "id": "mkt:019ec575-9725-7dd8-aff0-3ad6e43cd5aa",
-      "time": "2026-06-14 17:27:58",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【KRW weakness persists; S. Korean official meets US Treasury to coordinate】The won has traded near 1,500 per dollar. Korea’s FX authority said on the 14th that Moon Ji-seong, director-general for international finance at the Ministry of Economy and Finance, traveled to Washington on the 12th, met senior US Treasury officials and returned the same day. Moon told US counterparts that Korea’s semiconductor-led fundamentals do not justify the recent depreciation and that the move appears somewhat excessive. Both sides agreed to maintain close communication and cooperation to address depreciation pressure on the won."
     }
   ]
 }
