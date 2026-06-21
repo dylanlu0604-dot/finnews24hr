@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-22 06:58:12",
+  "updated": "2026-06-22 07:02:37",
   "count": 17351,
   "items": [
+    {
+      "id": "4946748",
+      "time": "2026-06-22 07:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新型量子感測裝置能有效抵消鐳射噪聲】據最新一期《自然》雜誌報道，英國帝國理工學院研究團隊構建了一種新型量子感測裝置，首次在實驗中驗證了長基線原子干涉儀的關鍵工作原理。該裝置能夠有效抵消鐳射噪聲，即使單次測量完全被噪聲淹沒，也能恢復出微弱訊號。這一成果解決了尋找暗物質和引力波的重大難題，是邁向未來大型基礎物理量子感測器的重要里程碑。"
+    },
+    {
+      "id": "4946747",
+      "time": "2026-06-22 07:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人體蛋白質“高精地圖”繪製成功】從西湖大學獲悉，該校醫學院郭天南教授團隊聯合多家科研單位，收集了近3000份人體組織樣本，覆蓋58種正常組織、25種癌症型別，對超過1.3萬種蛋白質進行定量分析，成功繪製出迄今解析度最高、覆蓋範圍最廣的人體蛋白質組空間圖譜。相關成果日前在《自然》雜誌刊發。目前，這項研究的所有資料已透過公開資料庫向全球開放。"
+    },
+    {
+      "id": "te:markets:560562",
+      "time": "2026-06-22 06:58:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Extends Gains on Consumer Staples Boost — The NZX 50 climbed 54 points, or 0.4%, to 13,549 in Monday morning trade, extending gains from the prior session, mainly supported by advances in consumer staples, materials, and healthcare stocks. Consumer staples surged 5.6%, boosted by a jump in A2 Milk, which soared 11.1% after the company received highly coveted regulatory approval from China to produce infant formula at Pokeno. The broader index hit its highest level since March 4, extending its second weekly rise as last week's data continued to support sentiment. New Zealand's GDP growth accelerated to 0.8% qoq in Q1, while annual growth held steady at 1.5%. However, a decline in US futures capped the gains, as President Trump's threats to restart the war with Iran, even as Vice President JD Vance met with Iranian officials for the first talks under an interim peace deal, weighed on sentiment. Other early gainers included Gentrack Group (2.1%), AFT Pharmaceuticals (1.9%), F&C Investment Trust (1.7%), and Fisher & Paykel (0.9%)."
+    },
+    {
+      "id": "4946746",
+      "time": "2026-06-22 06:58:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗隊主帥稱，本屆世界盃不敗開局將被載入史冊。"
+    },
+    {
+      "id": "4946745",
+      "time": "2026-06-22 06:58:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：日本擬到2040年在17個戰略領域投資約2.3萬億美元。"
+    },
     {
       "id": "4946744",
       "time": "2026-06-22 06:56:19",
@@ -159720,56 +159764,6 @@
         "國際"
       ],
       "text": "兩名伊朗官員透露，伊朗選擇在當地時間午夜過後敲定伊美協議，以此避開特朗普總統的生日。 官員還表示，兩地7.5小時的時差，也讓伊朗與美國得以對協議敲定的時間作出不同解讀。"
-    },
-    {
-      "id": "te:markets:558809",
-      "time": "2026-06-15 07:02:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Hits Over 2-Month High Amid US-Iran Deal Optimism — The NZX 50 rose 85 points, or 0.6%, to 13,479 in early Monday trading, extending gains from the previous session after news that the US and Iran had reached a peace deal, with the signing set for Friday. The broader index hovered near its highest level since March 6, mainly supported by consumer staples, financials, and consumer discretionary stocks. The latest data also lifted sentiment, with New Zealand card spending rebounding in May. However, gains were capped after New Zealand's private sector activity contracted at the fastest pace in a year, as the services sector shrank for the fourth consecutive month while manufacturing recorded its first contraction in 11 months. Traders also awaited this week's release of New Zealand's Q1 GDP data and the Fed's monetary policy decision. Among the early gainers were A2 Milk (4.5%), Ebos Group (4.2%), AFT Pharmaceuticals (1.6%), Freightways Group (1.1%), Infratil (1.1%), and Turners Automotive Group (1.2%)."
-    },
-    {
-      "id": "4934924",
-      "time": "2026-06-15 07:02:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗最高國家安全委員會正式確認伊美諒解備忘錄達成】據伊朗媒體15日報道，伊朗最高國家安全委員會當天凌晨發表宣告，正式確認伊美停戰諒解備忘錄達成。（新華社）"
-    },
-    {
-      "id": "4934923",
-      "time": "2026-06-15 07:01:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗副外長：核實美方履行承諾後將啟動60天談判】據伊朗塔斯尼姆通訊社15日凌晨報道，伊朗外交部副部長加里巴巴迪表示，伊美諒解備忘錄正式簽署儀式將於19日在瑞士舉行，待伊朗核實美方履行承諾後將啟動為期60天的談判。加里巴巴迪說，伊美雙方代表團負責人將於19日進行會談以確定後續安排。啟動60天談判的前提是美方履行關於結束戰事、解除封鎖和解凍資產的承諾。他說，60天談判將涉及解除美國對伊朗全部制裁、伊朗核問題以及經濟重建與發展問題，並確定監督雙方履行承諾的機制等。（新華社）"
-    },
-    {
-      "id": "mkt:019ec85d-0543-7dd8-aff8-c8fb08f6e981",
-      "time": "2026-06-15 06:59:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Iran's Supreme National Security Council confirms Iran-US ceasefire MOU】Iranian media reported on the 15th that Iran's Supreme National Security Council, in a statement in the early hours, formally confirmed an Iran-US ceasefire memorandum of understanding."
-    },
-    {
-      "id": "4934922",
-      "time": "2026-06-15 06:59:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國、法國、德國準備解除針對伊朗的相關制裁。"
     }
   ]
 }
