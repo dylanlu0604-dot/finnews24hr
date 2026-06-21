@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-21 20:44:00",
-  "count": 17623,
+  "updated": "2026-06-21 20:48:20",
+  "count": 17621,
   "items": [
+    {
+      "id": "mkt:019eea37-236e-7dd8-b0a5-f10f87fd40bf",
+      "time": "2026-06-21 20:45:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US, Iran Begin Talks in Switzerland】US and Iranian delegations have arrived and begun negotiations in Switzerland."
+    },
+    {
+      "id": "4946451",
+      "time": "2026-06-21 20:44:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美伊在瑞士開始談判】新華社記者21日在瑞士比爾根山現場看到，美國和伊朗代表團已抵達會場開始談判。 （新華社）"
+    },
     {
       "id": "4946450",
       "time": "2026-06-21 20:40:04",
@@ -162197,46 +162215,6 @@
         "國際"
       ],
       "text": "以色列國防軍：北部地區拉響敵方軍機入侵警報。"
-    },
-    {
-      "id": "mkt:019ec62b-5b77-7dd8-aff1-d0e953d31aaa",
-      "time": "2026-06-14 20:46:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Al Jazeera said an Israeli airstrike on the southern suburbs of Beirut, Lebanon, raised the death toll to 3 and injured 15."
-    },
-    {
-      "id": "mkt:019ec62a-e0fb-7dd8-aff1-c822a059b066",
-      "time": "2026-06-14 20:45:59",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says Israeli strike on Lebanon makes U.S.-Iran talks 'impossible'】On the 14th, Iranian parliament speaker Ghalibaf posted on social media saying Israel's strike on the southern suburbs of Beirut again shows the U.S. \"either lacks the will or the capacity to fulfill its commitments,\" and that \"continuing to advance the dialogue process has become impossible.\" Xinhua"
-    },
-    {
-      "id": "4934472",
-      "time": "2026-06-14 20:45:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：以色列襲擊黎巴嫩使得伊美對話“變得不可能”】伊朗議會議長卡利巴夫14日在社交媒體發文表示，以色列對黎巴嫩首都貝魯特南郊的襲擊再次表明，美國“要麼沒有履行承諾的意願，要麼沒有履行承諾的能力”，“繼續推進對話程序變得不可能”。（新華社）"
-    },
-    {
-      "id": "4934471",
-      "time": "2026-06-14 20:44:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第三屆長春光博會引資超205億元】第三屆長春國際光電博覽會(簡稱“長春光博會”)14日閉幕。長春市經濟合作局局長趙慶利在閉幕新聞釋出會上介紹，自展會籌備以來，全市共簽約專案69個，總投資額達205.46億元。此次簽約專案覆蓋半導體與高階製造、衛星技術與應用、光電感測與儀器等多個領域。其中，既有仿生機器人研發製造等高階製造專案，也有高解析度高定位精度遙感載荷技術產業化、光學成像探測裝置生產研發基地等衛星應用專案，以及固態鐳射雷達研發生產等光電感測專案。"
     }
   ]
 }
