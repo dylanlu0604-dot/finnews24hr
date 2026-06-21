@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 19:54:05_
-_本檔包含 3841 則快訊，約 654952 字_
+_更新時間：2026-06-21 20:48:20_
+_本檔包含 3833 則快訊，約 654063 字_
+
+---
+
+### 2026-06-21 20:45:42  #MKT News #Important
+
+【US, Iran Begin Talks in Switzerland】US and Iranian delegations have arrived and begun negotiations in Switzerland.
+
+---
+
+### 2026-06-21 20:44:50  #焦點 #國際
+
+【美伊在瑞士開始談判】新華社記者21日在瑞士比爾根山現場看到，美國和伊朗代表團已抵達會場開始談判。 （新華社）
+
+---
+
+### 2026-06-21 20:40:04  #其他 #焦點
+
+美伊談判現場即將召開新聞釋出會。
+
+---
+
+### 2026-06-21 20:40:01  #MKT News #Important
+
+Al-Arabiya reports a press conference is scheduled shortly at the U.S.-Iran talks venue.
+
+---
+
+### 2026-06-21 20:38:07  #國際
+
+加沙急救中心的一名訊息人士表示，以色列政權對加沙地帶南部汗尤尼斯市西部進行了空襲，2人遇難，若干人受傷。
+
+---
+
+### 2026-06-21 20:38:04  #國際
+
+法航將往返以色列的航班取消期限延長至 6 月 30 日。
+
+---
+
+### 2026-06-21 20:36:04  #國際
+
+埃及與阿聯酋企業簽署合作協議，將投資逾30億美元開發新開羅城市專案。
+
+---
+
+### 2026-06-21 20:35:32  #市場
+
+市場訊息：幾內亞總統下令禁止黃金原礦出口。
+
+---
+
+### 2026-06-21 20:31:24  #公司
+
+【眾泰汽車：董事許明哲先生因個人工作調整辭職】眾泰汽車公告，公司董事會於2026年6月20日收到董事許明哲先生的書面辭職報告。許明哲先生因個人工作調整，申請辭去公司第九屆董事會董事等相關職務，辭職後將不在公司擔任任何職務。根據相關規定，許明哲先生的辭職不會導致公司董事會成員低於法定最低人數，不會影響公司董事會的正常執行，亦不會對公司的日常經營產生不利影響，辭職報告自送達董事會之日起生效。
+
+---
+
+### 2026-06-21 20:26:01  #MKT News
+
+【CITIC Securities says China's nano‑zirconia set for rapid growth】CITIC Securities research says demand for high‑end zirconia in China should rise as solid‑state battery supply chains accelerate, SOFCs expand rapidly, electronic‑grade bioceramics grow and nuclear power enters a recovery cycle. Yttria (yttrium oxide), the key stabilizer for zirconia, faces constrained rare‑earth supply after output from Japanese suppliers including Tosoh and First Rare Element Chemical fell sharply, supporting expectations that Chinese producers will gain significant share of the global high‑end zirconia market. Zirconium oxychloride feedstock prices are up about 30% since the start of the year and downstream zirconia prices have risen roughly 30% YTD. Electronic‑grade high‑purity nano‑zirconia is quoted at $50–65.7/kg and yttria‑stabilized zirconia (YSZ) high‑end powders at $50–150/kg. Domestic high‑end zirconia market is seeing simultaneous volume and price increases.
+
+---
+
+### 2026-06-21 20:25:20  #焦點 #國際
+
+巴基斯坦外交部長：伊朗濃縮鈾含量將從60%降至0.7%。
+
+---
+
+### 2026-06-21 20:25:07  #國際
+
+巴基斯坦、美國和伊朗就降低濃縮鈾水平達成一致。
+
+---
+
+### 2026-06-21 20:23:53  #公司
+
+【供應鏈公司：已向蘋果首款摺疊屏iPhone小批次供貨】日前，記者從一家蘋果供應鏈公司獲悉，該公司已於近期開始向首款摺疊屏iPhone小批次供貨。按照公司收到的目標指引，該款產品將於9月釋出。近日，有訊息稱蘋果首款摺疊屏iPhone已從原定的2026年秋季推遲至2027年初上市發售。對此，一位蘋果供應鏈公司人士對記者表示，截至目前，其得到的目標指引是，首款摺疊屏iPhone將於2026年秋季釋出。對於首款摺疊屏iPhone具體釋出時間，截至記者發稿，蘋果方面暫無公開回應。(中國證券報)
+
+---
+
+### 2026-06-21 20:23:12  #國際
+
+美國和伊朗談判調解方卡達外交部21日發表宣告說，已組建專門技術專家組，就美伊最終協議的各項條款進行談判。此外，還成立了後續工作組，負責監督美伊諒解備忘錄的執行並跟進進展情況，直至最終協議達成。（新華社）
+
+---
+
+### 2026-06-21 20:21:41  #央行 #其他
+
+捷克央行副行長：捷克政策制定者不會承諾後續利率調整舉措。
+
+---
+
+### 2026-06-21 20:21:28  #央行 #其他
+
+捷克央行副行長： 捷克此次加息並非緊縮週期開端。
+
+---
+
+### 2026-06-21 20:15:00  #其他
+
+【廣西水利廳將3市洪水防禦應急響應提升為三級】受上游來水及降雨影響，柳江已出現2026年第1次編號洪水。廣西壯族自治區水文中心升級釋出洪水橙色預警，預計龍江河池市金城江城區河段將超警4米左右，柳江柳州市城區河段將超警2米左右，桂江桂林市城區河段將出現接近警戒水位的洪水。結合氣象水文分析預報，經綜合分析研判，廣西壯族自治區水利廳決定自6月21日9時將針對河池、柳州、桂林等3市的洪水防禦四級應急響應提升為三級應急響應。 (央視新聞)
+
+---
+
+### 2026-06-21 20:10:26  #宏觀 #焦點
+
+【6月21日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】山海攜手 書寫東西部協作嶄新篇章； 2.【偉大征程】黨的十一屆三中全會開啟改革開放和社會主義現代化建設新時期； 3.服務消費提質擴容 假日經濟活力迸發； 4.端午假期全社會跨區域人員流動量預計超6.5億人次； 5.【黨旗在基層一線高高飄揚】農加貴：燭照深山40年； 6.長三角地區進出口連續15個月保持增長； 7.第四屆鏈博會明天開幕 布展工作已全面完成； 8.【暖心一瞬】凡人善舉暖人心 生活處處有溫情； 9.國內聯播快訊： （1）2026（丙午）年公祭中華人文始祖伏羲大典在甘肅天水舉行； （2）四部門合力支援海洋經濟發展促進就業創業； （3）我國將全面建立房屋建築統一程式碼制度； （4）2030年我國多式聯運1小時換裝率將超過90%； （5）第二十八屆上海國際電影節閉幕； （6）大型季播節目《城市風華錄》佛山篇今晚播出； （7）長江中下游一帶雨勢再度增強； 10.美國與伊朗今日在瑞士舉行技術層面談判 以媒：以總理稱不會從黎南部撤軍； 11.國際聯播快訊： （1）俄在紅利曼奪取據點 烏實施縱深打擊； （2）美洛杉磯倉儲設施火災煙霧持續擴散； （3）剛果（金）埃博拉死亡病例升至247例； 12.二十四節氣·夏至。
+
+---
+
+### 2026-06-21 20:08:18  #其他
+
+【中國新能源汽車在厄瓜多表現亮眼】為期兩天的2026基多可持續汽車展20日在厄瓜多首都基多開幕，中國品牌新能源車型受到當地消費者青睞。“新能源汽車具有節省燃油成本、降低維護費用和減少汙染排放等優勢，我打算在本屆車展上購置一輛新車。”參展觀眾、厄瓜多機械師阿德里安·塞古拉表示，中國新能源汽車非常受歡迎，不僅價格有優勢，而且外觀設計時尚、續航表現良好。（新華社）
+
+---
+
+### 2026-06-21 20:06:58  #觀點
+
+【中信建投：國產模型加速迭代 算力景氣度持續】中信建投證券認為，國內模型持續迭代，GLM-5.2、Kimi K2.7 Code強化1M上下文、長程Agent、Agentic Coding和真實工程交付能力，推動國產模型從通用問答轉向開發者工具和企業級工作流。Kimi補強國際化運營能力，DeepSeek融資強化頭部模型產業化預期，微信AI灰度測試則顯示AI入口正從獨立App走向超級應用生態，有望提升模型呼叫頻次和推理token消耗。海外方面，Anthropic收入、大客戶數和融資規模繼續上修，企業工作流和Agentic Coding需求仍處擴張通道。算力側，AI雲廠商backlog增長，GPU租賃價格上行，CPU、DRAM/NAND供給約束擴散，算力、儲存和租賃服務景氣度有望延續。
+
+---
+
+### 2026-06-21 20:05:59  #觀點 #國際
+
+【中信建投：鋯-我國奈米氧化鋯迎來快速發展機遇】中信建投證券認為，預計伴隨固態電池產業加速發展、SOFC行業高速增長、電子級生物陶瓷以及核能步入新一輪復甦週期，新興領域用高階氧化鋯需求將穩步增長。氧化釔作為氧化鋯最關鍵的穩定劑，由於稀土供給受限，日本東曹、第一稀元素化學等全球龍頭產量大幅下降，預計中國廠商在全球高階氧化鋯市場的份額將大幅提升。目前作為原材料的氧氯化鋯相較年初價格提高了30%，作為氧氯化鋯下游最大應用領域的氧化鋯價格年初以來漲幅同樣接近30%。作為氧化鋯中附加值較高的部分，目前電子專用高純奈米氧化鋯報價高達50–65.7美元/公斤，釔穩定氧化鋯高階粉體（YSZ）報價區間則高達50–150美元/公斤，價格同樣出現大幅增長。國內高階氧化鋯市場正迎來量價齊升。
+
+---
+
+### 2026-06-21 20:05:50  #MKT News #Market Regions #Greater China #CNH #Impact bullish #Copper #CSI300
+
+【First two days of Dragon Boat holiday: footfall at 78 monitored shopping streets up 4.0% YoY; turnover up 3.5%】MOFCOM says China’s consumer market ran smoothly over this year’s Dragon Boat holiday, with essential goods supply adequate and prices stable. In the first two days of the holiday, footfall across 78 MOFCOM‑monitored pedestrian streets and shopping districts rose 4.0% YoY and turnover rose 3.5% YoY. As of June 20, the 2026 old‑for‑new trade‑in campaign has covered 136 mln person‑times and generated over CNY1 trillion in sales; auto trade‑ins accounted for 3.428 mln vehicles and CNY555.24 bln in sales, while appliance/digital/smart device replacements totaled 132.895 mln units and CNY451.63 bln in sales.
+
+---
+
+### 2026-06-21 20:04:22  #國際
+
+巴基斯坦外交部長：希望美伊談判能夠取得積極進展，後續談判的推進將會面臨更大挑戰。
+
+---
+
+### 2026-06-21 20:04:12  #市場 #觀點
+
+【中信建投：繼續看好AI算力作為本輪牛市中長期核心主線的後續表現】中信建投證券認為，市場短期強勁反彈行情，但反彈完成後A股或將進入震盪期。繼續看好AI算力作為本輪牛市中長期核心主線的後續表現。陸家嘴金融論壇等國內政策紅利有望繼續推動雙創板塊上漲，預計創業板和科創板將繼續保持強勢。而估值高企和交易結構可能成為後續科技主線階段性切換的主要原因。重點關注：AI算力、工業金屬、石化、機械、新能源等，逢低佈局：銀行、非銀、公用事業、煤炭等。
+
+---
+
+### 2026-06-21 20:03:53  #國際
+
+巴基斯坦外交部長：美伊雙方一致認定外交途徑是解決分歧的出路。
+
+---
+
+### 2026-06-21 20:03:38  #國際
+
+巴基斯坦外交部長：各方已達成共識，將降低伊朗核燃料庫存的丰度。
+
+---
+
+### 2026-06-21 20:02:55  #公司
+
+【思泉新材：副總裁兼董事會秘書郭智超因意外交通事故去世】思泉新材6月21日公告，公司副總裁、董事會秘書郭智超女士於2026年6月19日因意外交通事故去世。截至公告披露日，郭智超女士不持有公司股票。暫由公司董事長任澤明先生代為履行董事會秘書職責。
+
+---
+
+### 2026-06-21 20:01:12  #國際
+
+【巴基斯坦外長參與埃及四方會談，稱60天內霍爾木茲海峽不會收費】綜合沙特媒體報道，巴基斯坦外長達爾在參與埃及、土耳其、沙特、巴基斯坦的四方會談時表示，在60天期限內，（伊朗）不會阻止船隻透過霍爾木茲海峽，霍爾木茲海峽不會徵收通行費。無論是“通行費”還是“服務費”，在霍爾木茲海峽都不會收取。巴基斯坦成功在47年來首次將美國和伊朗拉到一起（進行對話）。巴基斯坦與合作伙伴和盟友共同努力，確保了調解工作的成功。美國與伊朗之間的戰爭是毀滅性的，對經濟產生了負面影響。目前有三個技術團隊參與美伊談判。技術委員會正在討論核問題、被凍結資金以及黎巴嫩局勢。此外，達爾還表示已向沙特、埃及和土耳其的外長通報了諒解備忘錄。
+
+---
+
+### 2026-06-21 20:01:03  #MKT News #WTI #Impact bearish #Brent
+
+【Pakistan foreign minister says Iran will not levy Strait of Hormuz transit fees within 60 days】Pakistan Foreign Minister Durrani, at a quadrilateral meeting in Egypt with Egypt, Turkey and Saudi Arabia, said Iran will not block vessels transiting the Strait of Hormuz nor levy transit or service fees during a 60-day window. He said Pakistan had brought the US and Iran into talks for the first time in 47 years and that three technical teams are engaged in US‑Iran negotiations, covering nuclear issues, frozen funds and the situation in Lebanon. Durrani said he has briefed the foreign ministers of Saudi Arabia, Egypt and Turkey on a memorandum of understanding.
+
+---
+
+### 2026-06-21 19:56:42  #其他
+
+【端午假期北京重點商圈客流量突破2600萬人次】記者21日從北京市商務局瞭解到，端午假期，北京地區假日市場活力有效釋放。假日期間（2026年6月19日至21日）重點監測的127家企業實現銷售額61.1億元，同比增長1.6%。北京全市70個重點商圈客流2650.4萬人次。假日期間，北京重點商圈主題活動營造濃郁氛圍。東城區隆福寺“夏季潮集夜市”推出老字號展銷、國潮演藝等特色主題活動。朝陽區朝陽合生匯落地FIFA官方授權商品華北首展及限時快閃主題場景，集中展售潮流周邊吸引球迷客群，假日期間帶動銷售額同比增長45.7%。（新華社）
+
+---
+
+### 2026-06-21 19:53:29  #國際
+
+以色列總統接受採訪時表示：我們本希望與黎巴嫩實現和平，倘若能自駕前往貝魯特，我會由衷感到欣喜。
 
 ---
 
@@ -22931,239 +23117,5 @@ South Africa will maintain its wheat import tariff framework.
 ### 2026-06-18 22:05:51  #MKT News
 
 Putin told Singapore's prime minister that sanctions have constrained bilateral economic cooperation and much of its potential remains unrealized.
-
----
-
-### 2026-06-18 22:05:28  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Russia's deputy prime minister said Russia has used more than 1,500 drones to strike Ukrainian ports since the start of 2026.
-
----
-
-### 2026-06-18 22:05:25  #其他
-
-南非將維持小麥進口關稅政策框架。
-
----
-
-### 2026-06-18 22:05:17  #國際
-
-美國地質調查局：阿拉斯加州阿達克西南偏西210公里處發生5.1級地震。
-
----
-
-### 2026-06-18 22:04:51  #國際
-
-普京對新加坡總理表示：受制裁影響，雙邊合作的經濟潛力尚未得到充分挖掘。
-
----
-
-### 2026-06-18 22:04:30  #國際
-
-俄羅斯副總理表示，自2026年初以來，俄羅斯已用1500多架無人機襲擊了烏克蘭港口。
-
----
-
-### 2026-06-18 22:04:26  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-【Trump: Oil is flowing; Iran will never have nuclear weapons】US President Trump posted on social media saying "oil is flowing" and that Iran will never acquire nuclear weapons, adding the world will be safe. He said the stock market is "red hot", employment is at record highs and prices are falling, improving affordability, and described the US as unusually strong, secure and respected.
-
----
-
-### 2026-06-18 22:04:22  #MKT News #Important
-
-【Iranian media: Iran delegation trip to Switzerland not finalized】Iranian media cited an informed source on June 18 saying arrangements for an Iranian delegation to travel to Switzerland have not been finalised and related assessments and consultations remain incomplete. The source said clarity on whether the delegation will appear in Switzerland tomorrow is expected within hours; if confirmed, details will be released. Also on June 18 the Swiss foreign ministry said the US and Iran plan preliminary talks on implementation of the agreement on June 19 at Bürgenstock with mediators Pakistan, Qatar and other parties.
-
----
-
-### 2026-06-18 22:04:03  #焦點 #國際
-
-【伊媒稱伊朗代表團赴瑞士行程未確定】伊朗塔斯尼姆通訊今天（6月18日）援引一位知情人士的訊息稱，截至目前，關於伊朗代表團前往瑞士的任何事項都尚未最終確定，相關評估與磋商也尚未完成。該知情人士指出，未來數小時內將會明確伊朗代表團明天是否會出現在瑞士。如果答案是肯定的，相關細節也將隨後公佈。瑞士外交部今天（6月18日）表示，美國和伊朗計劃與調解方巴基斯坦、卡達及其他相關國家於19日在瑞士比爾根山舉行會談，就協議的執行進行初步談判。（CCTV國際時訊）
-
----
-
-### 2026-06-18 22:03:41  #公司
-
-【*ST集友：控股股東擬5.15億元轉讓10.11%股份】*ST集友公告稱，6月18日，控股股東徐善水與黃華、畢偉國簽訂股份轉讓協議，擬將5300萬股（佔總股本10.1051%）以9.72元/股、總價5.16億元轉讓，黃華和畢偉國各受讓2650萬股（各佔5.0526%）。本次轉讓尚需取得上交所合規確認及辦理過戶登記，且需股權收購協議生效，完成後控股股東、實控人不變，受讓方股份鎖定期36個月，能否完成存在不確定性。
-
----
-
-### 2026-06-18 22:03:19  #資料
-
-阿根廷6月消費者信心指數升至42.71。
-
----
-
-### 2026-06-18 22:03:10  #央行 #國際
-
-【特朗普企圖解僱美聯儲理事庫克，給庫克造成逾百萬美元的法律與安保費用】週四披露的一份最新道德申報檔案顯示，自從美國總統特朗普2025年8月試圖將莉薩·庫克（Lisa Cook）從美聯儲理事會解僱以來，庫克產生了超過130萬美元的法律和安保費用。該檔案顯示，這些費用已由外部組織向庫克報銷。美國最高法院預計將很快作出裁決，判定特朗普是否有權以其所引用的理由解僱庫克。“打一場最高法院的官司花費不菲，”一位瞭解庫克情況的人士在描述敏感的財務問題時匿名錶示。在特朗普政府對其提出指控後，庫克的住址被公開。
-
----
-
-### 2026-06-18 22:03:03  #MKT News
-
-CENC recorded a M3.1 earthquake at 21:58 on June 18 in Haixi, Qinghai (37.75°N, 95.31°E); focal depth 10 km.
-
----
-
-### 2026-06-18 22:02:56  #Trading Economics #Markets #Commodity #Importance 1
-
-Arabica Coffee Futures Hit 1-Month Peak — Arabica coffee futures rose to nearly $2.78 per pound, the highest since mid-May, as concerns over Brazil’s harvest and crop quality intensified. Persistent rains in key growing regions continue to raise worries among traders about bean quality and delays in new supply reaching the market, with forecasts of further rainfall and uneven harvesting adding to the uncertainty. The market is also closely monitoring the El Niño phenomenon, with attention extending beyond the current harvest to its potential impact on Brazilian production in 2026/27. Industry analysis suggests a stronger event could delay the return of rainfall between September and October, a critical flowering period for coffee crops, potentially affecting next year’s production potential. Meanwhile, ICE-certified arabica stocks fell to 396,171 bags, the lowest level in recent years and well below 859,389 a year earlier, reinforcing expectations of tight near-term supply.
-
----
-
-### 2026-06-18 22:02:39  #其他
-
-中國地震臺網正式測定：06月18日21時58分在青海海西州直轄區（北緯37.75度，東經95.31度）發生3.1級地震，震源深度10千米。
-
----
-
-### 2026-06-18 22:02:34  #國際
-
-據報道，數十架烏克蘭無人機突襲莫斯科，本週第二次襲擊這座俄羅斯首都的煉油廠。基輔方面稱此舉意在展示自身日益增強的作戰能力，迫使俄羅斯接受和平協議。
-
----
-
-### 2026-06-18 22:01:50  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Bristol-Myers Squibb Stock Price Hits 21-week Low — Bristol-Myers Squibb shares decreased to 54.20 USD, the lowest since January 2026. Over the past 4 weeks, Bristol-Myers Squibb lost 5.36%, and in the last 12 months, it increased 15.8%.
-
----
-
-### 2026-06-18 22:01:50  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #DXY #Impact mixed
-
-US Conference Board Lagging Economic Index (May) -0.1% MoM, prior +0.4%.
-
----
-
-### 2026-06-18 22:01:44  #MKT News #Economic Calendar #Important
-
-United States | Conference Board Lagging Indicator (MoM) (May) | actual -0.1% | previous 0.4%
-
----
-
-### 2026-06-18 22:01:40  #國際
-
-特朗普在真相社交平臺發文稱：石油供應恢復流通，伊朗絕不能擁有核武器（世界將因此安全！），股市行情一片向好。
-
----
-
-### 2026-06-18 22:01:40  #MKT News
-
-US Conference Board Coincident Index rose 0.2% MoM in May; prior 0.3%.
-
----
-
-### 2026-06-18 22:01:33  #MKT News #Economic Calendar #Important
-
-United States | Conference Board Coincident Indicator (MoM) (May) | actual 0.2% | previous 0.3%
-
----
-
-### 2026-06-18 22:01:25  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
-
-US Conference Board Leading Economic Index (LEI) for May 99.3, prior 97.4.
-
----
-
-### 2026-06-18 22:01:17  #MKT News #Economic Calendar #Important
-
-United States | Conference Board Leading Indicator (May) | actual 99.3 | previous 97.4
-
----
-
-### 2026-06-18 22:01:06  #市場
-
-【GTA VI將於6月25日開啟預購 Take-Two股價漲超3%】Take-Two將於6月25日開啟《俠盜獵車手VI》（GTA VI）預購，為這款有史以來最受期待的電子遊戲之一正式拉開上市序幕。受該訊息提振，Take-Two開盤後漲超3%。不過該股今年以來累計下跌8.2%。開啟預購表明，這款由Take-Two旗下Rockstar Games工作室製作的開放世界遊戲不會再次延期，將如期於11月19日發售。《GTA VI》預計將成為史上最成功的電子遊戲之一，其上一代《GTA V》累計銷量已超過2.25億份。
-
----
-
-### 2026-06-18 22:01:01  #MKT News #Important
-
-Pakistan's prime minister has cancelled a scheduled visit to Switzerland; authorities gave no official reason.
-
----
-
-### 2026-06-18 22:00:21  #資料 #焦點 #國際
-
-美國5月諮商會領先指標月率 0.1%，預期0.1%，前值由0.10%修正為0.2%。
-
----
-
-### 2026-06-18 22:00:10  #MKT News #Important
-
-US Conference Board leading economic index (LEI) rose 0.1% MoM in May, matching consensus 0.1%; April's reading was revised up to 0.2% from 0.1%.
-
----
-
-### 2026-06-18 22:00:02  #MKT News #Economic Calendar #Important
-
-United States | Conference Board Leading Indicator (MoM) (May) | actual 0.1% | consensus 0.1% | previous 0.10%
-
----
-
-### 2026-06-18 21:59:26  #國際
-
-市場訊息：訊息人士稱，自伊朗與美國簽署諒解備忘錄後，巴方接到通知，現已無需在瑞士舉行線下會晤。
-
----
-
-### 2026-06-18 21:58:38  #資料
-
-【中國貿促會副會長李興乾會見國際保護智慧財產權協會會長洛倫薩·法拉利·霍弗】6月15日，中國貿促會副會長李興乾在北京會見國際保護智慧財產權協會（AIPPI）會長洛倫薩·法拉利·霍弗、總報告人拉爾夫·納克、秘書長郭梅玲一行。雙方就深化合作關係、加強中國工商界與AIPPI的溝通往來、智慧財產權與產業鏈供應鏈的全球合作等議題進行了交流。
-
----
-
-### 2026-06-18 21:57:25  #公司
-
-【*ST集友：擬意向收購慧聚藥業超50%股份】*ST集友公告稱，公司第三屆董事會第三十八次會議審議透過意向收購江蘇慧聚藥業股份有限公司股權並簽署相關協議的議案。公司擬收購黃華等持有的慧聚藥業超50%股份，經初步測算，本次交易構成重大資產重組。若交易順利，公司將取得慧聚藥業控制權，利於拓展新利潤增長點，增強持續經營能力。本議案已獲相關會議審議透過，無需提交股東會審議。
-
----
-
-### 2026-06-18 21:57:14  #國際
-
-市場訊息：伊朗代表團日內瓦之行尚未敲定。
-
----
-
-### 2026-06-18 21:56:53  #公司
-
-據港交所檔案：廣州知易生物科技股份有限公司 - B向港交所提交上市申請書。
-
----
-
-### 2026-06-18 21:56:49  #央行 #國際
-
-據美國紐約聯儲資料，上個交易日（6月17日，美聯儲主席沃什首秀日）擔保隔夜融資利率（SOFR）報3.63%，之前一天報3.63%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。
-
----
-
-### 2026-06-18 21:56:40  #MKT News
-
-An HKEX filing shows Guangzhou Zhiyi Biotechnology Co., Ltd. - B has filed a listing application.
-
----
-
-### 2026-06-18 21:56:27  #其他
-
-【2026端午檔新片預售票房破6000萬】據貓眼專業版資料，2026年端午檔新片預售總票房破6千萬，《我看見兩朵一樣的雲》《玩具總動員5》《愛是憤怒》暫列端午檔新片票房榜前三位。
-
----
-
-### 2026-06-18 21:56:02  #Trading Economics #Markets #Germany #stocks #Importance 1
-
-SAP Stock Price Hits 29-month Low — SAP shares decreased to 134.98 EUR, the lowest since January 2024. Over the past 4 weeks, SAP lost 13.27%, and in the last 12 months, it decreased 45.14%.
-
----
-
-### 2026-06-18 21:55:57  #MKT News
-
-【Bank of England governor urges probe into fake posts showing confrontation with Reform UK leader】Bank of England Governor Andrew Bailey has asked for help identifying the originators of a series of social media posts on X that used doctored images to depict a confrontation between him and Reform UK leader Nigel Farage; the posts have circulated widely in recent weeks. Bailey said the material is unquestionably fabricated and the Bank has raised concerns with Reform UK and X. The posts linked to a fake BBC report falsely claiming Farage confronted Bailey on a BBC programme that never aired, included fabricated quotes accusing Bailey of driving up living costs, and promoted an AI-driven investment platform. Farage denied involvement. Reform UK has long criticised the Bank under Bailey, including its bond-sales programme and proposed stablecoin regulations.
-
----
-
-### 2026-06-18 21:55:41  #市場
-
-【華為乾崑智駕ADS高階功能包優惠將收窄？知情人士：訊息屬實】近日，有訊息稱，自2026年7月1日起，華為乾崑智駕ADS高階功能包優惠或將收窄，疊加車企新車購車補貼權益等後一次性買斷價格或上漲3000元。記者從知情人士處瞭解到，該訊息屬實。一位鴻蒙智行銷售人員告訴記者：“目前來說，華為乾崑智駕ADS高階功能包優惠收窄的可能性很大，因為去年的ADS乾崑智慧駕駛系統3.2萬元價格的截止時間是今年的6月30日。”據官方定價體系，華為乾崑ADS高階功能包（含Max和Ultra）官方標準定價一直是3.6萬元，但官方長期透過限時優惠活動將價格降至3.2萬元，同時合作車企（如問界、阿維塔等）額外提供約2萬元的購車補貼權益等，兩項優惠疊加後，終端使用者到手價多為1.2萬元。根據最新的政策，從7月1日起，華為乾崑ADS Max和Ultra版本高階智駕功能包價格將恢復到3.5萬元，疊加車企購車補貼後，高階智駕功能包價格為1.5萬元，使用者較之前需多付3000元。有分析認為，本輪漲價根源在於全球晶片供需失衡，AI產業擴張推高儲存晶片需求，DRAM、NANDFlash價格大幅攀升，單儲存晶片漲價就讓單車智駕成本增加3000元至7000元。目前，也有一些汽車品牌上調智駕選裝包的價格。（每日經濟新聞）
 
 ---

@@ -1,7 +1,391 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-21 19:54:05_
-_本檔包含 3551 則快訊，約 654596 字_
+_更新時間：2026-06-21 20:48:20_
+_本檔包含 3575 則快訊，約 654023 字_
+
+---
+
+### 2026-06-15 23:47:08  #MKT News
+
+A senior U.S. official said release of frozen assets and sanctions relief will be contingent on concrete, demonstrable performance.
+
+---
+
+### 2026-06-15 23:47:04  #國際
+
+美國高階官員： 解凍被凍結資金、解除制裁均以伊方履約為前提。
+
+---
+
+### 2026-06-15 23:46:55  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+A senior US official said the US and Iran will begin technical talks later this week.
+
+---
+
+### 2026-06-15 23:46:45  #MKT News #Important #WTI #Impact bearish
+
+Senior U.S. official says the memorandum of understanding includes an Iran reconstruction fund potentially worth $300 billion.
+
+---
+
+### 2026-06-15 23:46:44  #國際
+
+美國高階官員：諒解備忘錄包含一項規模或達 3000 億美元的伊朗重建基金相關條款。
+
+---
+
+### 2026-06-15 23:46:34  #市場 #焦點
+
+比特幣升破67000美元，日內漲1.91%。
+
+---
+
+### 2026-06-15 23:46:16  #國際
+
+美國高階官員： 本週晚些時候將啟動技術性磋商。
+
+---
+
+### 2026-06-15 23:46:04  #MKT News #Important #WTI #Impact bearish #Brent
+
+Senior U.S. official says details of a U.S.-Iran memorandum of understanding will be released within 24-48 hours.
+
+---
+
+### 2026-06-15 23:45:59  #國際
+
+美國高階官員： 諒解備忘錄的詳細內容將在 24 至 48 小時內對外公佈。
+
+---
+
+### 2026-06-15 23:45:30  #MKT News
+
+Senior U.S. official says developments over the next few weeks will signal the trajectory of U.S.-Iran relations.
+
+---
+
+### 2026-06-15 23:43:51  #MKT News #Important
+
+【Media say US, Iran sign memorandum of understanding】Reuters reported on the 15th that President Trump and Vice President Pence have signed a U.S.-Iran memorandum of understanding, and the speaker of Iran’s Islamic Consultative Assembly has also signed.
+
+---
+
+### 2026-06-15 23:43:39  #宏觀 #國際
+
+【王毅出席上海合作組織成立25週年招待會】6月15日，中共中央政治局委員、外交部長王毅在北京出席慶祝上海合作組織成立25週年招待會並致辭。 王毅說，上合組織成立掀開當代國際關係嶄新一頁。25年來，成員國團結協作，擔當道義，共謀發展，互學互鑑，培育出互信、互利、平等、協商、尊重多樣文明、謀求共同發展的“上海精神”，探索出毗鄰國家結伴而不結盟，共守安全穩定、共促發展繁榮的新型區域合作模式，建立起以相互尊重、公平正義、合作共贏為核心的新型國際關係。 王毅表示，習近平主席胸懷天下，提出四大全球倡議，倡導構建人類命運共同體，指明時代方向，提供中國方案。上合組織應更好發揮作用，為促進世界和平、發展、合作、共贏作出表率。 王毅強調，上合組織要弘揚“上海精神”、完善全球治理、維護和平安寧、促進可持續發展、增進睦鄰友好合作。今年是中國“十五五”開局之年，中國願同上合組織各成員國共享發展機遇，實現合作共贏。 上合組織秘書長葉爾梅克巴耶夫在致辭中表示，天津峰會透過上合組織未來10年發展戰略，確立了雄心勃勃但現實可行的發展方向。當前，國際社會對上合組織的關注度持續攀升，希望各成員國不斷造福本組織各國人民，促進地區和平與發展事業。 上合組織有關國家駐華使節、國際組織駐華代表等約200人出席招待會。(新華社)
+
+---
+
+### 2026-06-15 23:43:37  #MKT News #Market Regions #Greater China
+
+The Shanghai Stock Exchange issued a regulatory letter to Andeli regarding its acquisition of Yantai Beifang Andeli Juice Co., Ltd.
+
+---
+
+### 2026-06-15 23:41:30  #焦點 #國際
+
+【媒體稱美伊已經簽署了諒解備忘錄】據路透社15日報道，美國總統特朗普、副總統萬斯已簽署了美伊諒解備忘錄，伊朗伊斯蘭議會議長也已簽署。（新華社）
+
+---
+
+### 2026-06-15 23:40:05  #MKT News #WTI #Impact bearish #Brent
+
+Senior U.S. official said the agreement will immediately reopen the Strait of Hormuz and lift the U.S. blockade on Iran.
+
+---
+
+### 2026-06-15 23:39:49  #MKT News #WTI #Impact bullish #Brent
+
+U.S. senior official says reopening the Strait of Hormuz will take time due to sea mines.
+
+---
+
+### 2026-06-15 23:39:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+A senior U.S. official said restoring open navigation in the Strait of Hormuz will take some time.
+
+---
+
+### 2026-06-15 23:39:34  #MKT News #WTI #Impact bearish #Brent
+
+A senior U.S. official expects cargo traffic through the Strait of Hormuz to increase over the next 1-2 weeks.
+
+---
+
+### 2026-06-15 23:39:16  #國際
+
+美國高階官員：霍爾木茲海峽的通航流量現已開始大幅上升。
+
+---
+
+### 2026-06-15 23:39:14  #MKT News
+
+A senior U.S. official said traffic within the strait has begun to increase significantly.
+
+---
+
+### 2026-06-15 23:38:51  #國際
+
+美國高階官員：因水雷隱患，霍爾木茲海峽通航恢復尚需時日。
+
+---
+
+### 2026-06-15 23:38:48  #MKT News #Important #WTI #Impact bearish #Brent
+
+A senior U.S. official said the United States has signed a memorandum of understanding with Iran. The MOU, signed by Trump, Vance and Iran’s parliament speaker, calls for the immediate reopening of the Strait of Hormuz.
+
+---
+
+### 2026-06-15 23:38:14  #焦點 #國際
+
+美國高階官員：該協議規定立即開放霍爾木茲海峽，同時美國解除對伊朗的封鎖。
+
+---
+
+### 2026-06-15 23:37:50  #國際
+
+美國高階官員： 特朗普、萬斯已簽署諒解備忘錄，伊朗議會議長也完成簽署。
+
+---
+
+### 2026-06-15 23:37:20  #焦點 #國際
+
+美國高階官員：美國已與伊朗簽署諒解備忘錄。
+
+---
+
+### 2026-06-15 23:37:03  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
+
+European equities on Monday June 15: Germany's DAX30 closed up 282.44 points (+1.15%) at 24,895.00; UK's FTSE 100 closed down 39.98 points (-0.38%) at 10,431.74; France's CAC 40 closed up 33.14 points (+0.40%) at 8,384.01; STOXX Europe 50 closed up 41.72 points (+0.67%) at 6,229.35; Spain's IBEX 35 closed up 271.38 points (+1.45%) at 19,035.78; Italy's FTSE MIB closed up 342.29 points (+0.66%) at 51,839.50.
+
+---
+
+### 2026-06-15 23:35:37  #MKT News
+
+Iran's foreign minister said the government will seek to secure the greatest possible economic breakthrough from the agreement and will pursue every diplomatic opportunity while not taking any for granted.
+
+---
+
+### 2026-06-15 23:34:42  #Trading Economics #Economy #Peru #Monthly GDP YoY #Importance 1
+
+Peru Economic Activity Hits 5-Month High — Peru's economy expanded 3.73% year-on-year in April 2026, marking the highest level in five months, accelerating from 3.21% in the previous month and well above market expectations of 3.55% growth. Economic activity was supported by broad-based gains across several sectors, particularly manufacturing (2.17%), commerce (7.31%), construction (12.88%), transport (1.44%), public administration and defense (4.08%), services (3.27%), financial services (1.01%), restaurants and hotels (4.48%), communications (1.03%), utilities (4.68%) and fishing (1.68%). In contrast, mining and hydrocarbons contracted 3.24%, while agricultural activity declined 1.64%, partially offsetting the gains recorded in other sectors. For the January–April 2026 period, Peru's economy grew 3.58% compared with the same period a year earlier. Over the twelve months through April 2026, economic activity expanded 3.59%.
+
+---
+
+### 2026-06-15 23:33:59  #MKT News
+
+Iran's foreign minister said Iran will pace negotiations and the implementation of agreements based on distrust, breaches of commitments and past experience.
+
+---
+
+### 2026-06-15 23:33:18  #MKT News
+
+Iran's foreign minister said the first round of talks will be held after Iran and the US sign a memorandum of understanding.
+
+---
+
+### 2026-06-15 23:33:13  #國際
+
+伊朗官方媒體援引伊朗外交部長表態：我們將基於過往互不信任、對方屢次違背承諾的經歷，規劃談判程序與協議落實工作。
+
+---
+
+### 2026-06-15 23:32:54  #國際
+
+伊朗官方媒體援引伊朗外交部長表態：首輪談判將在伊美雙方簽署諒解備忘錄之後舉行。
+
+---
+
+### 2026-06-15 23:32:40  #宏觀 #市場 #國際
+
+美國財政部拍賣三個月期國債，得標利率3.640%，投標倍數2.47。拍賣六個月期國債，得標利率3.680%，投標倍數2.76。
+
+---
+
+### 2026-06-15 23:32:23  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+US 3-month Treasury auction on June 15 — proportion awarded at the stop-out yield 25.15%, previously 6.48%.
+
+---
+
+### 2026-06-15 23:32:22  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+U.S. 3-month Treasury bill auction to June 15 — stop-out yield 3.64%, unchanged from prior 3.64%.
+
+---
+
+### 2026-06-15 23:32:18  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+US 3-month Treasury auction for June 15: bid-cover ratio 2.47, prior 2.79.
+
+---
+
+### 2026-06-15 23:32:18  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. 6-month Treasury auction (as of June 15): percentage of issue allocated at the winning yield 14%, prior 95.45%.
+
+---
+
+### 2026-06-15 23:32:14  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
+
+US 6-month Treasury auction on June 15, stop-out yield 3.68% vs 3.69% prior.
+
+---
+
+### 2026-06-15 23:32:13  #市場
+
+【義大利股市繼續創收盤歷史新高】德國DAX 30指數初步收漲1.07%，報24897.70點。法國股指初步收漲0.49%，義大利股指初步收漲0.63%、銀行指數漲1.38%，英國股指初步收跌0.48%。
+
+---
+
+### 2026-06-15 23:32:12  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #XAUUSD
+
+US 6-month Treasury auction to June 15 — bid-cover ratio 2.76, prior 2.75.
+
+---
+
+### 2026-06-15 23:32:08  #市場 #國際
+
+歐洲STOXX 600指數初步收漲0.17%，報634.31點。歐元區STOXX 50指數初步收漲0.68%，報6229.93點，首次收於6200點關口上方。富時泛歐績優300指數初步收漲0.14%，報2534.89點。
+
+---
+
+### 2026-06-15 23:32:04  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Bid/Cover Ratio (Jun.15) | actual 2.47 | previous 2.79
+
+---
+
+### 2026-06-15 23:32:04  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Accepted at High (Jun.15) | actual 25.15% | previous 6.48%
+
+---
+
+### 2026-06-15 23:32:04  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction High Yield Rate (Jun.15) | actual 3.64% | previous 3.64%
+
+---
+
+### 2026-06-15 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Bid/Cover Ratio (Jun.15) | actual 2.76 | previous 2.75
+
+---
+
+### 2026-06-15 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Accepted at High (Jun.15) | actual 14% | previous 95.45%
+
+---
+
+### 2026-06-15 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction High Yield Rate (Jun.15) | actual 3.68% | previous 3.69%
+
+---
+
+### 2026-06-15 23:32:00  #MKT News #Macro & Rates #The Fed (FOMC) #Commodities #Energy #DXY #Impact bullish #XAUUSD #Impact bearish #WTI #Impact mixed
+
+【Goldman: dollar strengthens as markets eye risks in potential US-Iran deal】Goldman Sachs says the dollar has firmed as oil trade via the Strait of Hormuz edges toward normalisation, but markets will watch for any potential pitfalls before a US-Iran agreement is signed. The pace of tanker-flow recovery will be closely monitored. Goldman notes terms-of-trade pressure persisted long after commodity-price peaks in 2022, and says near-term central bank decisions in the coming days are unlikely to be altered by a still-uncertain US-Iran deal.
+
+---
+
+### 2026-06-15 23:31:45  #MKT News
+
+【China foreign minister Wang Yi meets Nepal foreign minister Hisil】Beijing, June 15 — China foreign minister Wang Yi met Nepal foreign minister Hisil. China praised Nepal’s adherence to the One China principle and its support on Taiwan and Tibet, and said it will continue to prioritise ties with Nepal in its neighbourhood diplomacy. Beijing pledged ongoing support for Nepal’s sovereignty, independence and territorial integrity, backing the new government’s ability to govern with public support and its pursuit of a development path suited to national conditions.
+
+---
+
+### 2026-06-15 23:31:35  #宏觀 #國際
+
+【王毅同尼泊爾外長希西爾會談】2026年6月15日，中共中央政治局委員、外交部長王毅在北京同尼泊爾新任外長希西爾舉行會談。（外交部網站）
+
+---
+
+### 2026-06-15 23:30:54  #市場 #國際
+
+以色列中央統計局：5 月居民消費價格指數同比上漲 1.9%，4 月同比漲幅同為 1.9%。 5 月居民消費價格指數環比下降 0.3%，4 月環比上漲 1.2%。
+
+---
+
+### 2026-06-15 23:30:05  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: Brazil 10Y Bond Yield Falls by 11 bps — Government bonds yields are lower on Monday. Top losers are Brazil 10Y (-11bps), Japan 10Y (-5.98bps), Germany 10Y (-4.68bps) and US 10Y (-2.60bps).
+
+---
+
+### 2026-06-15 23:29:40  #焦點 #國際
+
+伊朗外交部長：談判代表團團長大機率將於週五在瑞士舉行會晤。
+
+---
+
+### 2026-06-15 23:24:35  #其他
+
+幣安資料：在 SpaceX 上市前至納斯達克上市後整個階段，SPCXUSDT 交易對成交額突破 56 億美元，累計交易量超 90 億美元。
+
+---
+
+### 2026-06-15 23:24:11  #市場
+
+幣安：SpaceX 登陸納斯達克後的數日裡，SpaceX 永續期貨成為幣安平臺交易量第二大的交易品種。
+
+---
+
+### 2026-06-15 23:24:03  #市場
+
+幣安佔據 SpaceX 永續期貨超六成市場份額。
+
+---
+
+### 2026-06-15 23:22:17  #其他
+
+匈牙利擬推行總理任期限制，並逐步解散各類公共信託基金。
+
+---
+
+### 2026-06-15 23:20:27  #市場 #觀點 #國際
+
+【華爾街老將給美股狂歡潑冷水 告誡高油價與高利率存在滯後效應】儘管華爾街近期對美國經濟的預期已相當樂觀，但現實經濟表現總體仍好於市場共識，這支撐了風險偏好，並推動股市持續上漲。不過，這一支撐因素可能很快減弱。備受關注的投資界老將Jim Paulsen研發的一項模型顯示，持續數月的高油價以及債券市場波動，可能很快開始拖累經濟增長動能。這可能對自3月底以來市值增加約9萬億美元的標普500指數構成阻力。從其本身來看，花旗經濟意外指數目前處於2023年以來最高水平。該指數衡量實際經濟資料與市場普遍預期之間的差距，表面上釋放出積極訊號。但Paulsen發現，花旗經濟意外指數與一項政策壓力指數存在較強的負相關關係，而後者領先前者三個月的時間。
+
+---
+
+### 2026-06-15 23:18:56  #其他
+
+出口商預估資料顯示：截至 6 月 14 日，象牙海岸 2025/26 年度可可到貨量達 185.4 萬噸，去年同期為 165.9 萬噸。
+
+---
+
+### 2026-06-15 23:15:56  #其他
+
+加密貨幣交易所 Kraken ：Kraken 已上架 Anthropic與 OpenAI的 IPO 前永續權證產品。
+
+---
+
+### 2026-06-15 23:15:17  #其他
+
+捷藍航空：中大西洋及東北部地區預計出現惡劣天氣。
+
+---
+
+### 2026-06-15 23:15:13  #MKT News #NVDA.O #Impact bullish #Nasdaq100
+
+NVIDIA (NVDA.O) shares rose more than 3%.
+
+---
+
+### 2026-06-15 23:12:47  #公司
+
+【橋水基金改革初見成效，但部分股東對估值存疑】在Nir Bar Dea致力於重振橋水基金的三年後，這家對沖基金變得更加精簡，且交出了多年來最好的業績答卷。儘管如此，仍有部分股東在削減對該公司的估值，另有股東正在撤資。據知情人士透露，即便橋水的旗艦宏觀基金在2025年創下了歷史最佳業績紀錄，該基金的七家機構股東中仍有兩家決定以低於購買價的折扣價將股份賣回給橋水。第三家機構德克薩斯州教師退休系統也在尋求出售其持股，此前該系統已於去年將其持有橋水的估值下調了9%。
+
+---
+
+### 2026-06-15 23:09:11  #其他
+
+秘魯政府資料：該國 4 月國內生產總值同比增長 3.73%。
 
 ---
 
@@ -21202,245 +21586,5 @@ Iran's foreign minister Araghchi said regional security cannot be shaped by elim
 ### 2026-06-14 20:49:04  #國際
 
 以色列國防軍：北部地區拉響敵方軍機入侵警報。
-
----
-
-### 2026-06-14 20:46:30  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Al Jazeera said an Israeli airstrike on the southern suburbs of Beirut, Lebanon, raised the death toll to 3 and injured 15.
-
----
-
-### 2026-06-14 20:45:59  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran says Israeli strike on Lebanon makes U.S.-Iran talks 'impossible'】On the 14th, Iranian parliament speaker Ghalibaf posted on social media saying Israel's strike on the southern suburbs of Beirut again shows the U.S. "either lacks the will or the capacity to fulfill its commitments," and that "continuing to advance the dialogue process has become impossible." Xinhua
-
----
-
-### 2026-06-14 20:45:50  #國際
-
-【伊朗：以色列襲擊黎巴嫩使得伊美對話“變得不可能”】伊朗議會議長卡利巴夫14日在社交媒體發文表示，以色列對黎巴嫩首都貝魯特南郊的襲擊再次表明，美國“要麼沒有履行承諾的意願，要麼沒有履行承諾的能力”，“繼續推進對話程序變得不可能”。（新華社）
-
----
-
-### 2026-06-14 20:44:17  #其他
-
-【第三屆長春光博會引資超205億元】第三屆長春國際光電博覽會(簡稱“長春光博會”)14日閉幕。長春市經濟合作局局長趙慶利在閉幕新聞釋出會上介紹，自展會籌備以來，全市共簽約專案69個，總投資額達205.46億元。此次簽約專案覆蓋半導體與高階製造、衛星技術與應用、光電感測與儀器等多個領域。其中，既有仿生機器人研發製造等高階製造專案，也有高解析度高定位精度遙感載荷技術產業化、光學成像探測裝置生產研發基地等衛星應用專案，以及固態鐳射雷達研發生產等光電感測專案。
-
----
-
-### 2026-06-14 20:36:53  #國際
-
-伊朗談判代表就以色列襲擊貝魯特南郊事件在X平臺發文稱："若無法履行承諾，談論繼續推進程序便無從談起"。
-
----
-
-### 2026-06-14 20:36:11  #MKT News
-
-Iranian parliament speaker Ghalibaf said continuing down this path is simply not feasible if there is neither the willingness nor the ability to fulfill commitments.
-
----
-
-### 2026-06-14 20:36:08  #MKT News
-
-Iranian parliament speaker Ghalibaf said giving Israel a "green light" will not win any concessions and that the "good cop, bad cop" tactic has been played out.
-
----
-
-### 2026-06-14 20:35:57  #國際
-
-伊朗議會議長卡利巴夫：以色列在黎巴嫩南部的違規行為再次證明，它要麼沒有履行義務的意願，要麼缺乏履行義務的能力。
-
----
-
-### 2026-06-14 20:35:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian parliament speaker Ghalibaf said Israel’s violations in southern Lebanon again indicate it either lacks the will or the capability to meet its obligations.
-
----
-
-### 2026-06-14 20:34:52  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Iranian state media quoted the deputy commander of Iran's Joint Military Command as saying Israel's 'crimes' in Lebanon will not go unpunished.
-
----
-
-### 2026-06-14 20:34:09  #國際
-
-伊朗聯合武裝部隊司令部副指揮官表示，以色列在黎巴嫩犯下的“罪行”不會不了了之。
-
----
-
-### 2026-06-14 20:32:41  #公司
-
-大眾汽車執行長：大眾汽車計劃在年底前裁員1.9萬人，旨在提高效率和降低成本，以應對行業挑戰。
-
----
-
-### 2026-06-14 20:32:34  #MKT News #VOW3.DE #Impact mixed #DAX
-
-Volkswagen CEO said the company plans to cut 19,000 jobs by year-end to improve efficiency and reduce costs amid industry challenges.
-
----
-
-### 2026-06-14 20:32:12  #國際
-
-【法國前總理說美領導力崩塌】在美國有線電視新聞網（CNN）6月12日釋出的採訪中，法國前總理德維爾潘表示，當前正見證美國與以色列干預海灣地區產生的後續影響。他以 “地緣政治劇烈動盪” 形容當前局勢，稱相關重大事件正引發連鎖反應，美國的領導力正如同 “核心反應堆徹底熔燬” 一般出現崩塌。他同時指出，當前局面已進入無人可完全掌控的狀態：戰爭會催生更多戰爭，單次干預將引發更多幹預。德維爾潘表示，千百年的歷史經驗表明，和平無法透過武力與威脅實現。（CCTV國際時訊）
-
----
-
-### 2026-06-14 20:31:07  #國際
-
-【美媒：貝魯特空襲阻礙美伊協議敲定，外交官稱以色列蓄意破壞】據福克斯新聞報道，一位參與談判的外交官透露，今天在黎巴嫩貝魯特發生的空襲給（美伊）協議的最終敲定帶來了麻煩。該外交官還表示：“這是以色列試圖破壞特朗普總統的協議、並將美國拖回戰爭的明顯企圖。”一位以色列高階官員則駁斥了以色列應對此次交火負責的說法。該官員稱：“過去三天來，真主黨的襲擊一直以以色列平民為目標。”
-
----
-
-### 2026-06-14 20:29:50  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【US media: Beirut airstrike complicates U.S.-Iran deal finalization, diplomat says Israel tried to sabotage】Fox News reports a diplomat involved in the talks said today's airstrike in Beirut has complicated finalizing a U.S.-Iran agreement, adding 'this is Israel trying to sabotage President Trump's deal and drag the U.S. back into war.' An Israeli senior official denied Israel was responsible and said Hezbollah's attacks over the past three days targeted Israeli civilians.
-
----
-
-### 2026-06-14 20:29:26  #其他
-
-市場訊息：貝魯特空襲事件致使伊美協議的敲定工作陷入困境。
-
----
-
-### 2026-06-14 20:27:26  #MKT News
-
-Moscow mayor said Russian air-defence systems shot down a drone headed for Moscow.
-
----
-
-### 2026-06-14 20:27:16  #MKT News #Nasdaq100 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-【China Securities (CSC): SpaceX record Nasdaq IPO reshapes valuation framework; remains bullish on commercial space investments】China Securities says SpaceX listed on Nasdaq at a $1.75 trillion valuation, raising $75 billion and exceeding $2 trillion market cap on debut, making it the world’s seventh-largest tech company and the largest IPO on record. The firm says Starlink, reusable rockets and space-AI businesses have validated a commercial closed loop, accelerating space-economy commercialisation. It flags China-specific timing: multiple Chinese liquid-fuel rockets due for clustered first flights and recovery tests in 2026, which could materially lower launch costs and speed satellite-constellation deployment. Recommended watchlist: rocket suppliers (engines, high‑barrier airframe structures); satellite components (payloads, antennas, laser-comm terminals); ground equipment (civil terminals, direct-to-phone technology); and operations/services firms with scarce license qualifications.
-
----
-
-### 2026-06-14 20:26:15  #國際
-
-市場訊息：俄羅斯防空系統擊落一架飛往莫斯科的無人機。
-
----
-
-### 2026-06-14 20:25:21  #公司 #觀點
-
-【中信建投：SpaceX創紀錄IPO重塑估值體系 繼續看好商業航天投資機會】中信建投指出，SpaceX以1.75萬億美元估值登陸納斯達克，募資750億美元，市值首日突破2萬億美元，成全球第七大科技公司，締造歷史最大IPO。其星鏈、可複用火箭與太空AI三大業務驗證商業閉環，推動太空經濟商業化程序加速。2026年我國多款液體火箭將密集首飛及回收試驗，有望大幅降低發射成本，加速星座建設。建議關注：1）火箭環節：發動機、箭體結構等高壁壘領域；2）衛星環節：載荷、天線及鐳射通訊終端；3）地面裝置：民用終端及手機直連技術；4）運營服務：具備稀缺牌照資質的公司。
-
----
-
-### 2026-06-14 20:21:20  #市場 #觀點
-
-【中信建投：關注基本面確定性更強的細分景氣賽道 等待內外部不確定性落地帶來的預期校準】中信建投指出，本週A股市場低開後整體企穩，顯示出一定的韌性，市場短期有望迎來反彈，但向上空間有限，震盪格局或將延續。主因市場面臨著一定程度的資金面制約，投資者觀望態度濃厚。海外流動性預期反覆，但暴力加息門檻猶存。整體來看，A股面臨的內外部環境趨於複雜，可能對風險偏好形成一定壓制，市場預計呈現“上有頂、下有底”的震盪格局，配置上以短期再平衡為核心，適度控制高波動暴露，關注基本面確定性更強的細分景氣賽道，等待內外部不確定性落地帶來的預期校準。行業重點關注：AI（晶片、半導體、光通訊等）、有色金屬（工業金屬、小金屬）、煤炭、非銀、新能源等。
-
----
-
-### 2026-06-14 20:20:01  #市場
-
-本週兩融餘額增幅最大：貴州燃氣兩融餘額：2.6億元，餘額增幅：81.68%；中化國際兩融餘額：9.7億元，餘額增幅：75.62%
-
----
-
-### 2026-06-14 20:19:43  #國際
-
-市場訊息：以色列軍方在空襲貝魯特前已通知美軍中央司令部。
-
----
-
-### 2026-06-14 20:19:41  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Axios reporter: Israeli and US officials say the Israeli military notified CENTCOM shortly before an airstrike on Beirut, Lebanon.
-
----
-
-### 2026-06-14 20:19:12  #其他
-
-市場訊息：英國城市事務大臣將於週一與各大銀行高管舉行會談。
-
----
-
-### 2026-06-14 20:18:39  #MKT News
-
-【Iran lawmaker says some criticisms of U.S.-Iran memorandum exaggerated】A member of the Iranian parliament's Economic Committee said the current U.S.-Iran memorandum draft contains defects and ambiguities, but calling it worse than the nuclear deal or a capitulation by Iran is inaccurate. He added the circulated text still has many problems and disputes, yet some critics' language is clearly exaggerated and does not reflect the draft's actual content and meaning.
-
----
-
-### 2026-06-14 20:17:53  #國際
-
-【伊朗議員：對伊美諒解備忘錄的部分批評失實】據伊朗學生通訊社14日報道，伊朗議會經濟委員會委員祖胡裡揚表示，當前討論的伊美諒解備忘錄文字確實存在“缺陷和不明確之處”，但將其描述為“比伊核協議更糟糕的協議”或“伊朗投降”並不準確。他說，目前流傳的諒解備忘錄文字仍存在不少問題和爭議，然而部分批評者的措辭明顯誇張，不能準確反映其實際內容和意義。（新華社）
-
----
-
-### 2026-06-14 20:16:50  #其他
-
-【無視國家標準和監管禁令 小哈等多家換電站違規租賃超標電池】總檯《財經調查》接到消費者反映，一些商家為了吸引消費者，謀一己私利。被總檯3·15晚會曝光整頓後，依舊無視國家標準和監管禁令，在市場上繼續非法改裝，並對外租賃銷售所謂“超長續航、動力強勁”的超標鋰電池，為消費者的生命財產安全埋下隱患。（央視財經）
-
----
-
-### 2026-06-14 20:16:08  #國際
-
-【韓國與沙烏地阿拉伯簽署協議 將在能源領域開展合作】韓國產業部週日表示，受近期全球供應鏈波動影響，韓國與沙烏地阿拉伯簽署協議，雙方將在原油、天然氣等能源資源領域開展合作。 韓國產業部長官金正官於週六啟程對沙特展開為期兩天的訪問，期間與沙特能源大臣阿卜杜勒-阿齊茲・本・薩勒曼簽署諒解備忘錄，為雙方關鍵能源資源的長期供應合作搭建框架。 韓國產業部稱，這份合作檔案涵蓋多個領域，包括原油儲備、輸油管道基建建設，以及運用人工智慧與數字技術推動能源產業創新等。
-
----
-
-### 2026-06-14 20:08:27  #公司 #國際
-
-【福島核電站乏燃料池冷卻系統故障】日本東京電力公司今天（6月14日）釋出訊息稱，福島第一核電站5號、6號機組的乏燃料池，6月13日下午“冷卻系統發生故障，一度停止執行”。據稱經調查“未發現裝置存在異常情況”，冷卻系統“在停止約一個半小時後恢復執行”。東電方面表示，此次故障期間，乏燃料池水溫及周邊區域的輻射水平“均未出現變化”。 (CCTV國際時訊)
-
----
-
-### 2026-06-14 20:07:51  #國際
-
-市場訊息：以色列五月貿易逆差收窄至32.99億美元。
-
----
-
-### 2026-06-14 20:07:29  #公司 #國際
-
-【日本公司請求阻止LNG罷工、宣稱將危害澳洲經濟，被澳大利亞法庭駁回】澳大利亞一家勞工法庭週日駁回了日本天然氣公司Inpex的申請，拒絕叫停其Ichthys液化天然氣（LNG）專案約400名油氣工人的罷工行動。澳大利亞公平工作委員會（FWC）駁回了Inpex的說法，即停工將因出口收入損失而損害澳大利亞經濟，並可能引發危險的停電事故。
-
----
-
-### 2026-06-14 20:02:54  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Expert: Israeli strike on Beirut a "strategic probe" into US‑Iran deal】Sami Nader, director of the Levant Institute for Strategic Affairs, called Israel’s strike on Beirut’s southern suburbs a "very strategic probe" into a potential US‑Iran agreement. He said Israel is seeking to decouple a Hezbollah front from US‑Iran negotiations while Iran insists on linking them, and warned the strike could “possibly destroy” the deal. Nader added domestic politics are a driver—the far right accuses Netanyahu of being too weak on Hezbollah and of failing to escalate Lebanon—raising the key market risk of how Iran might retaliate.
-
----
-
-### 2026-06-14 20:02:40  #其他
-
-市場訊息：安聯將牽頭競購滙豐新加坡保險業務。
-
----
-
-### 2026-06-14 20:01:23  #MKT News
-
-【Israeli minister warns US military aircraft occupying large share of civilian airport stands】On the 14th Israeli transport minister Miri Regev sent an emergency letter to Prime Minister Netanyahu warning that prolonged US military use of civilian parking stands could, if unresolved by the 16th, force cancellation of more than 2.4 mln summer and holiday air tickets and severely damage Israel’s aviation and tourism sectors. Regev said about 72 US tanker aircraft are deployed at Ben-Gurion International Airport, occupying over half of civilian stands, and some 26 US aircraft are at Ramon Airport, using nearly 90% of its parking capacity. The Israeli Airports Authority has set the 16th as a final deadline and said it will formally notify airlines to reduce or cancel affected flights if the US aircraft are not moved. The prime minister’s office and affected airlines have not responded.
-
----
-
-### 2026-06-14 20:01:22  #其他
-
-【致8人死亡2人失蹤 遼綏漁35261船重大傾覆事故調查報告公佈】遼寧省應急管理廳公佈遼寧葫蘆島遼綏漁35261船“10·18”重大傾覆事故調查報告：事故造成8人死亡、2人失蹤。（央視新聞）
-
----
-
-### 2026-06-14 20:01:00  #國際
-
-【以官員警告美軍機佔用大量民用機場空間】總檯記者當地時間14日獲悉，以色列交通部長米里·雷格夫已向總理內塔尼亞胡發出緊急信函警告，大量美軍飛機長期佔用以色列民用機場停機位，若各方無法在16日前解決這一問題，將導致該國超過240萬張夏季及假期機票被強制取消，並重創該國航空與旅遊業。（央視新聞）
-
----
-
-### 2026-06-14 19:55:01  #市場 #國際
-
-【大量日本民眾抗議高市早苗政府軍事擴張政策】14日下午，大量日本民眾在東京都內舉行遊行示威活動，抗議高市早苗政府及自民黨近期的一系列軍事擴張政策。活動現場，許多民眾頭戴寫有“反戰和平”字樣的頭盔，高喊“反對修憲”“阻止戰爭”等口號。活動發起方在主題報告中指出，日本政府一方面以“和平國家”自居，另一方面卻不斷強化日美安保體制、推動自衛隊擴大規模和國家軍事化程序，這是一條通往戰爭的道路。抗議者樫村在現場接受記者採訪時說：“當前日本物價持續上漲、稅負不斷加重，社會保障支出也在增加。與此同時，政府還試圖推動限制言論自由和壓制反戰聲音的立法，人們將失去自由表達的空間。”（新華社）
-
----
-
-### 2026-06-14 19:54:24  #MKT News #Market Regions #Japan & APAC
-
-【Mass protest in Tokyo against Sanae Takaichi government military-expansion policies】On the afternoon of the 14th, large numbers of demonstrators marched in Tokyo to protest the Sanae Takaichi government's recent military-expansion measures. Protesters wearing helmets marked anti-war/peace chanted against constitutional revision and to prevent war; organizers accused the government of strengthening the US-Japan security framework, expanding the Self-Defense Forces and accelerating national militarization, calling it a path to war. A protester surnamed Kashimura told reporters that persistent price rises, heavier tax burdens and higher social-security spending, together with proposed laws to curb speech and suppress anti-war voices, threaten freedom of expression.
 
 ---

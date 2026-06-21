@@ -1,7 +1,439 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 19:54:05_
-_本檔包含 3094 則快訊，約 654366 字_
+_更新時間：2026-06-21 20:48:20_
+_本檔包含 3131 則快訊，約 654115 字_
+
+---
+
+### 2026-06-18 00:30:01  #MKT News
+
+Trump: Lebanon peace is only a small piece of the puzzle.
+
+---
+
+### 2026-06-18 00:29:56  #MKT News
+
+Trump says the US must work to address the Lebanon issue.
+
+---
+
+### 2026-06-18 00:29:48  #國際
+
+特朗普：黎巴嫩問題需要加以解決。
+
+---
+
+### 2026-06-18 00:29:36  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. President Trump said he will seek to disarm Hamas.
+
+---
+
+### 2026-06-18 00:29:30  #MKT News
+
+US President Trump said he hopes the peace agreement will mark the start of broader peace in the Middle East.
+
+---
+
+### 2026-06-18 00:29:25  #國際
+
+特朗普：希望這份和平協議能成為中東大範圍和平的開端。
+
+---
+
+### 2026-06-18 00:29:11  #國際
+
+特朗普：試圖解除哈馬斯的武裝。
+
+---
+
+### 2026-06-18 00:28:51  #MKT News #LMT.O #Impact bullish
+
+U.S. President Trump said he is ordering additional F-22 fighters.
+
+---
+
+### 2026-06-18 00:28:31  #MKT News
+
+President Trump said the agreement offers Iran a historic opportunity.
+
+---
+
+### 2026-06-18 00:28:28  #國際
+
+特朗普：將增購一批 F-22 戰機。
+
+---
+
+### 2026-06-18 00:28:25  #MKT News #Important #WTI #Impact bullish #XAUUSD
+
+U.S. President Trump said keeping the Strait of Hormuz open is far less important than preventing Iran from possessing nuclear weapons.
+
+---
+
+### 2026-06-18 00:28:13  #國際
+
+特朗普：相比霍爾木茲海峽，阻止伊朗擁有核武器更為重要。
+
+---
+
+### 2026-06-18 00:27:59  #國際
+
+【知情外交官稱流傳的美伊備忘錄非最終簽署文字】一名瞭解美伊備忘錄細節的地區外交官表示，目前流傳的14點備忘錄文字，並非美伊雙方於上週末簽署的正式文字。該外交官稱，相關媒體報道的內容實際上是一份5月形成的備忘錄草案。美國總統特朗普14日宣佈與伊朗達成停戰諒解備忘錄，正式簽字儀式將於19日在瑞士比爾根山舉行。 (央視新聞)
+
+---
+
+### 2026-06-18 00:27:39  #MKT News
+
+President Trump said the agreement makes clear Iran will not possess nuclear weapons.
+
+---
+
+### 2026-06-18 00:27:38  #國際
+
+特朗普：我們在某些事情上達成了共識，儘管沒有書面記錄。協議明確表明伊朗不會擁有核武器。
+
+---
+
+### 2026-06-18 00:27:26  #MKT News
+
+US President Trump said they had reached a consensus on certain matters, though there was no written record.
+
+---
+
+### 2026-06-18 00:27:24  #國際
+
+特朗普：感謝以色列及內塔尼亞胡為伊朗相關事務付出的努力。 如果伊朗不遵守協議，我們大機率會恢復轟炸，直到他們履約為止。
+
+---
+
+### 2026-06-18 00:27:17  #MKT News #Market Themes #The Trump Trade
+
+President Trump said the breakthrough would not have been possible without U.S. pressure.
+
+---
+
+### 2026-06-18 00:27:11  #MKT News
+
+Trump thanked Israel and Israeli Prime Minister Netanyahu for their efforts on Iran.
+
+---
+
+### 2026-06-18 00:27:00  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+US President TRUMP said if they do not comply with the agreement, we may resume bombing them until they comply.
+
+---
+
+### 2026-06-18 00:26:55  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Rises for 5th Day — The DAX 40 ended marginally higher at 24,932 on Wednesday after a volatile session, its highest in nearly two weeks and marking a fifth straight gain. Market sentiment remained supported by optimism over a US-Iran interim peace deal, despite renewed threats from President Donald Trump toward Iran. Meanwhile, traders turned more cautious ahead of the Fed's policy announcement. While the US central bank is widely expected to hold rates steady, remarks from new Fed Chair Kevin Warsh will be closely scrutinized for clues on the policy outlook. Banks were the standout performers, with Commerzbank and Deutsche Bank surging 4.9% and 2.3%, respectively.
+
+---
+
+### 2026-06-18 00:26:53  #Trading Economics #Economy #Russia #GDP Annual Growth Rate #Importance 1
+
+Russia GDP Contracts for 1st Time in 3 Years — The Russian GDP contracted by 0.2% from the previous year in the first quarter of 2026, aligned with the preliminary estimate to confirm the first annual decline since the first quarter of 2023. Output contracted for manufacturing (-1.5%), professional, scientific, and technical activities (-6.1%), and transportation and storage (-1.8%). The data was aligned with the government's downgrade of the year's expected GDP to 0.4% from an earlier estimate of 1.3%. The downturn occurred despite a sharp rise in the prices of key Russian exports, including oil, natural gas, coal, industrial metals, and grains, following disruptions to Middle Eastern shipping routes caused by the war. Economic activity also weakened even as the Duma ramped up deficit spending in an effort to support an economy still constrained by Western sanctions, which continue to isolate Russian producers and financial institutions from international markets.
+
+---
+
+### 2026-06-18 00:25:43  #MKT News
+
+President Trump thanked Pakistan and Qatar for their assistance in reaching the agreement.
+
+---
+
+### 2026-06-18 00:25:04  #MKT News
+
+U.S. President Trump said he will discuss ballistic missiles and terrorist proxies.
+
+---
+
+### 2026-06-18 00:24:54  #國際
+
+特朗普：將商討彈道導彈、代理人相關議題。
+
+---
+
+### 2026-06-18 00:24:27  #其他
+
+捷藍航空：計劃裁撤紐瓦克機場空乘人員駐地，以及紐瓦克機場與拉瓜迪亞機場兩處技術運營基地。
+
+---
+
+### 2026-06-18 00:24:03  #市場
+
+【風力驟降致德國電價突破400歐元，創一年來新高】隨著風力發電量驟降，迫使市場不得不依賴成本更高的化石燃料發電，德國週四高峰時段的電價飆升至近一年來的最高水平。根據Epex Spot的資料，德國日前電力合約均價為每兆瓦時140歐元，而晚高峰時段的電價已攀升至400歐元以上。彭博社的模型預測顯示，週四晚8點，德國的風力發電量預計將降至1.5吉瓦的低谷。這一時段恰逢晚間用電需求高峰，同時也是太陽能發電逐漸消退的階段。
+
+---
+
+### 2026-06-18 00:23:56  #國際
+
+特朗普：與海灣國家討論非核問題。與海灣國家並行努力。
+
+---
+
+### 2026-06-18 00:23:53  #MKT News #Market Themes #The Trump Trade
+
+Trump says he is working in parallel with Gulf states.
+
+---
+
+### 2026-06-18 00:23:47  #MKT News
+
+President Trump said he discussed non-nuclear issues with Gulf states.
+
+---
+
+### 2026-06-18 00:23:22  #MKT News
+
+U.S. President Trump praised Iranians as smart and skilled negotiators.
+
+---
+
+### 2026-06-18 00:23:11  #市場 #國際
+
+特朗普：股市將繼續上漲。
+
+---
+
+### 2026-06-18 00:23:07  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. President Trump said maritime traffic through the Strait of Hormuz has risen sharply and that energy flows through the strait will resume in the coming days.
+
+---
+
+### 2026-06-18 00:22:58  #國際
+
+特朗普稱讚伊朗人聰慧，是出色的談判對手。
+
+---
+
+### 2026-06-18 00:22:35  #國際
+
+特朗普：霍爾木茲海峽的通航流量已經有所上升，海峽的能源流動將在未來幾天恢復。
+
+---
+
+### 2026-06-18 00:21:45  #國際
+
+特朗普：認為伊朗現任領導層等同於政權更迭。
+
+---
+
+### 2026-06-18 00:21:45  #MKT News #WTI #Impact bullish #Brent #DXY
+
+U.S. President Trump said the U.S. will provide Iran no funding or investment.
+
+---
+
+### 2026-06-18 00:21:25  #國際
+
+特朗普談及伊朗協議表示，在資金、投資方面，美國不會向伊朗做出任何讓步。
+
+---
+
+### 2026-06-18 00:21:14  #MKT News #Important #Market Themes #The Trump Trade
+
+U.S. President Trump said technical talks on the nuclear stockpile will begin immediately.
+
+---
+
+### 2026-06-18 00:21:12  #國際
+
+特朗普：不給伊朗錢。
+
+---
+
+### 2026-06-18 00:20:49  #公司
+
+CrowdStrike與亞馬遜旗下AWS擴大Project Quiltworks。
+
+---
+
+### 2026-06-18 00:20:28  #國際
+
+特朗普：有關核儲備的技術性磋商將即刻啟動。
+
+---
+
+### 2026-06-18 00:19:46  #MKT News #Market Themes #The Trump Trade
+
+Trump: Iran's behavior has been very appropriate.
+
+---
+
+### 2026-06-18 00:19:26  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said he was very saddened by Lebanon.
+
+---
+
+### 2026-06-18 00:19:16  #資料 #市場 #國際
+
+特朗普：我很同情黎巴嫩。
+
+---
+
+### 2026-06-18 00:19:09  #MKT News
+
+U.S. President Trump said Israel could do better in dealing with Hezbollah.
+
+---
+
+### 2026-06-18 00:18:49  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+President Trump said Iran has agreed not to produce or acquire nuclear weapons.
+
+---
+
+### 2026-06-18 00:18:43  #國際
+
+特朗普：以色列在對待真主黨問題上可以做得更好。
+
+---
+
+### 2026-06-18 00:18:42  #MKT News #Important
+
+President Trump has sent a copy of a memorandum of understanding to Israel.
+
+---
+
+### 2026-06-18 00:18:24  #焦點 #國際
+
+特朗普：向以色列傳送了一份伊朗核協議副本。
+
+---
+
+### 2026-06-18 00:18:14  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+Trump said a deal with Iran will be signed tomorrow or the day after; it could be signed on Friday.
+
+---
+
+### 2026-06-18 00:17:32  #國際
+
+特朗普談及伊朗協議：該協議很快將簽署，或許是週五。
+
+---
+
+### 2026-06-18 00:15:39  #MKT News #Commodities #Energy
+
+U.S. Interior Department says Invenergy will voluntarily terminate four offshore wind leases held by its subsidiaries in New York, California and the Gulf of Maine.
+
+---
+
+### 2026-06-18 00:15:16  #其他
+
+內部備忘錄顯示， Meta 新任負責 “職場人工智慧” 轉型業務的產品主管即將離職。
+
+---
+
+### 2026-06-18 00:14:14  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+President Trump said if an Iran deal is not reached within 60 days the U.S. will resume bombing, adding he does not want to bomb Iran again but may have to.
+
+---
+
+### 2026-06-18 00:13:54  #國際
+
+特朗普：我不想再次轟炸伊朗，但可能不得不這麼做。
+
+---
+
+### 2026-06-18 00:13:36  #MKT News
+
+President Trump said he will publish the memorandum of understanding for review.
+
+---
+
+### 2026-06-18 00:13:33  #焦點 #國際
+
+特朗普：若 60 天內無法敲定伊朗協議，將恢復轟炸行動。
+
+---
+
+### 2026-06-18 00:13:14  #國際
+
+特朗普：將釋出與伊朗相關的諒解備忘錄（MoU），從而讓你們可以瞭解情況。
+
+---
+
+### 2026-06-18 00:12:40  #MKT News
+
+U.S. President Trump said his working relationship with Netanyahu is excellent.
+
+---
+
+### 2026-06-18 00:12:16  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.31% Higher — The FTSE MIB Index rose 163 points or 0.31 percent on Wednesday to close at 52595 points. Leading the gains are Banco BPM SPA (2.92%), Saipem (2.87%) and Banca Mediolanum (2.31%). Top losers were Infrastrutture Wire (-3.12%), Stellantis N.V. (-3.08%) and Diasorin (-2.83%).
+
+---
+
+### 2026-06-18 00:11:38  #國際
+
+特朗普：內塔尼亞胡沒必要每次都把樓房夷為平地。
+
+---
+
+### 2026-06-18 00:11:35  #MKT News
+
+U.S. President Trump said Netanyahu does not need to blow up entire buildings every time.
+
+---
+
+### 2026-06-18 00:11:18  #國際
+
+特朗普：我和內塔尼亞胡的合作關係非常棒。
+
+---
+
+### 2026-06-18 00:11:18  #MKT News
+
+U.S. President Trump said he and Netanyahu disagree on Lebanon.
+
+---
+
+### 2026-06-18 00:11:16  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.10% Higher — The DAX Index gained 24 points or 0.10 percent on Wednesday to close at 24935 points. Gains were led by Commerzbank (5.18%), Bayer (4.80%) and HeidelbergCement (4.06%). Biggest losers were BMW (-8.34%), Mercedes-Benz AG (-4.48%) and Volkswagen (-3.68%).
+
+---
+
+### 2026-06-18 00:10:59  #國際
+
+特朗普：內塔尼亞胡有時會有點激動， 我和內塔尼亞胡在黎巴嫩問題上存在分歧。
+
+---
+
+### 2026-06-18 00:10:59  #MKT News
+
+US President Trump said Israeli Prime Minister Netanyahu can sometimes appear a bit excitable.
+
+---
+
+### 2026-06-18 00:10:49  #MKT News #BA.O
+
+Trump said Boeing's 757 is a great airplane.
+
+---
+
+### 2026-06-18 00:10:43  #國際
+
+特朗普：波音 757 是一款很棒的飛機。
+
+---
+
+### 2026-06-18 00:10:16  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.20% Lower — The CAC 40 Index decreased 16 points or 0.20 percent on Wednesday to close at 8431 points. The decline was led by Essilor (-4.32%), Orange (-3.23%) and Stellantis NV (-3.21%). On the upside, the strongest performers were Legrand (4.33%), TP (2.48%) and Schneider Electric (1.97%).
+
+---
+
+### 2026-06-18 00:09:03  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Rise to Fresh Records — European stock indices rose for a fifth session to new records on Wednesday with further support from softer pro-inflationary risks. The Euro STOXX 50 rose by 0.6% to 6,297 and the STOXX Europe 600 rose 0.5% to 639. Sovereign yields fell further as Iran and the US maintained their intent to sign an agreement that restores energy trade from the Middle East this Friday. Energy prices pulled back and scaled down expectations that the ECB would be forced to raise interest rates this year. Banks led the gains for another session amid the improved credit outlook, with Santander, UniCredit, and Deutsche Bank gaining 2.5%. On the other hand, BMW shares fell more than 6% after the carmaker cut its guidance, citing worsening conditions in the Chinese market and the broader impact of the Middle East conflict.
 
 ---
 
@@ -18502,215 +18934,5 @@ Kalshi因向谷歌、LinkedIn披露使用者活動而被起訴。
 ### 2026-06-17 04:48:31  #MKT News #Commodities #Energy
 
 Sources say ExxonMobil will supply LNG to South Africa to help reduce South Africa's dependence on coal.
-
----
-
-### 2026-06-17 04:44:37  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-Amazon (AMZN.O) may be sued by the US Federal Trade Commission for allegedly misleading advertisers and could face multibillion-dollar civil fines, sources said.
-
----
-
-### 2026-06-17 04:38:28  #國際
-
-【巴西最高法院裁定愛德華多·博索納羅因尋求美國干預其父政變案審判罪名成立】巴西最高法院合議庭多數法官投票裁定，愛德華多·博索納羅（Eduardo Bolsonaro）因在其父親（前總統）的政變陰謀案審判期間尋求美國干預，罪名成立。該合議庭的四名法官中，已有三人投票裁定愛德華多·博索納羅罪名成立。合議庭中僅剩最後一名法官尚未進行投票。
-
----
-
-### 2026-06-17 04:38:00  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Brazil Shares Fall Ahead of BCB Decision — The Ibovespa fell 0.4% to close at 169,648 on Tuesday as investors assessed fresh election polls and rising inflation expectations. A BTG/Nexus survey released on Monday showed President Lula holding a nine-point lead over Senator Flávio Bolsonaro in first-round voting intentions. Meanwhile, the median forecast for Brazil’s annual inflation increased for the 14th consecutive week, prompting markets to reassess how long the BCB may keep interest rates elevated. Most sectors ended lower. Financial stocks traded mixed amid concerns that higher borrowing costs could weigh on lending activity, with Bradesco falling 0.7%. Petrobras also pressured the index, declining 1.3% as optimism surrounding a preliminary US-Iran peace agreement raised the prospect of the Strait of Hormuz remaining open.
-
----
-
-### 2026-06-17 04:36:44  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. API crude oil production change for week to June 12: -17,000 b/d, prior +262,000 b/d.
-
----
-
-### 2026-06-17 04:36:33  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (Jun.12) | actual -17000M | previous 262000M
-
----
-
-### 2026-06-17 04:36:30  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US API petroleum product imports for week to June 12: -121,000 b/d, prior -51,000 b/d.
-
----
-
-### 2026-06-17 04:36:23  #其他
-
-KBRA指數顯示，私人信用市場違約率創2023年3月份以來最高。
-
----
-
-### 2026-06-17 04:36:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US API crude oil imports for the week ended June 12: -276,000 bbl; prior -358,000 bbl.
-
----
-
-### 2026-06-17 04:36:21  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Jun.12) | actual -121000M | previous -51000M
-
----
-
-### 2026-06-17 04:36:14  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (Jun.12) | actual -276000M | previous -358000M
-
----
-
-### 2026-06-17 04:36:05  #焦點 #國際
-
-美國至6月12日當週API原油庫存 -833萬桶，預期-451.5萬桶，前值-911.9萬桶。
-
----
-
-### 2026-06-17 04:36:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-API: U.S. heating oil inventories fell 125,000 barrels in the week to June 12, versus a 407,000‑barrel draw the prior week.
-
----
-
-### 2026-06-17 04:35:56  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-US API Cushing crude stocks -1.523 mln barrels in week to June 12; prior -1.125 mln barrels.
-
----
-
-### 2026-06-17 04:35:56  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Jun.12) | actual -125000M | previous -407000M
-
----
-
-### 2026-06-17 04:35:47  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Cushing Crude Oil Stocks Change (Jun.12) | actual -1523000M | previous -1125000M
-
----
-
-### 2026-06-17 04:35:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US API weekly refined-product inventories fell 461,000 barrels in the week to June 12, versus an expected decline of 198,000 barrels; prior was an increase of 1.316 million barrels.
-
----
-
-### 2026-06-17 04:35:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. API gasoline stocks rose 2.479 mln barrels in the week to June 12, versus an expected draw of 1.401 mln and a prior draw of 1.191 mln.
-
----
-
-### 2026-06-17 04:35:35  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Distillate Stocks Change (Jun.12) | actual -461000M | consensus -198000M | previous 1316000M
-
----
-
-### 2026-06-17 04:35:27  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Gasoline Stocks Change (Jun.12) | actual 2479000M | consensus -1401000M | previous -1191000M
-
----
-
-### 2026-06-17 04:35:21  #MKT News #Important
-
-US API weekly crude inventories fell 8.33 mln barrels in the week to June 12 vs market-expected draw of 4.52 mln; prior week draw 9.12 mln.
-
----
-
-### 2026-06-17 04:35:10  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Crude Oil Stocks Change (Jun.12) | actual -8330000M | consensus -4515000M | previous -9119000M
-
----
-
-### 2026-06-17 04:35:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.64% Higher — The Dow Jones Index gained 332 points or 0.64 percent on Tuesday to close at 52003 points. Gains were led by JPMorgan (3.72%), Visa (2.83%) and 3M (2.15%). Biggest losers were Nvidia (-2.17%), Salesforce (-1.74%) and Microsoft (-1.46%).
-
----
-
-### 2026-06-17 04:30:13  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Climbs on US-Iran Peace Prospects — The S&P/TSX Composite Index rose 0.3% to close at 35,390 on Tuesday, supported by optimism over a potential US-Iran peace deal. US President Donald Trump said at the G7 summit that negotiations with Iran had entered a second stage. Oil prices fell as markets assessed the prospect of renewed supplies, easing concerns about energy-driven inflation and reducing fears of a hawkish shift by central banks. Lower bond yields supported financial stocks and the broader market, with RBC rising 1.1%, while TD Bank and BMO both added 0.7%. Higher gold prices lifted mining shares, with Agnico Eagle gaining 2.6%, WPM advancing 3.6%, and Barrick rising 2.3%. In contrast, lower oil prices weighed on energy stocks, with Canadian Natural down 1.7%, Suncor losing 2.4%, and Cenovus falling 3.2%. Meanwhile, home sales rose 5.5% in May, while home prices edged lower. Investors are now awaiting the US Fed's policy decision on Wednesday, with markets widely expecting interest rates to remain unchanged.
-
----
-
-### 2026-06-17 04:29:38  #其他
-
-【譚德塞：近三週未報告新增漢坦病毒感染病例】世衛組織總幹事譚德塞16日在社交媒體上表示，漢坦病毒的感染病例數仍為13例，死亡病例數仍為3例。近三週以來沒有報告新的感染病例，超過一個月沒有報告新的死亡病例，疫情總體情況保持穩定。（央視）
-
----
-
-### 2026-06-17 04:29:31  #MKT News
-
-【TEDROS: No new hantavirus infections reported in nearly three weeks】WHO Director-General Tedros said on the 16th the hantavirus case count remains 13 with 3 deaths. No new infections have been reported in nearly three weeks and no new deaths for over a month; overall situation is stable.
-
----
-
-### 2026-06-17 04:20:08  #MKT News #Important
-
-U.S. API weekly crude inventories for the week to June 12 due in 10 minutes.
-
----
-
-### 2026-06-17 04:15:21  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stock Market Closes Mixed — US equities closed mixed on Tuesday amid a pullback in AI-related stocks. The S&P 500 lost 0.6%, while weakness in technology shares drove the Nasdaq down 1.9%. Investors took profits in semiconductor names after their recent rally, with Nvidia (-2%), Broadcom (-4.2%), Micron (-5.6%), AMD (-6.8%), and Intel (-7.9%) all posting losses. In contrast, SpaceX gained 4.8%, extending its advance since Friday's IPO, after reports that it would acquire Cursor for $60 billion. Meanwhile, the Dow Jones rose 0.6%, supported by optimism surrounding the preliminary US-Iran agreement. Both countries are expected to sign the deal on Friday, with US officials stating that the Strait of Hormuz will reopen. Bond yields continued to ease as lower oil prices softened inflation concerns ahead of the Fed's expected rate hold on Wednesday, although Chairman Warsh is still expected to advocate changes to the monetary framework and a smaller balance sheet. JPMorgan rose 3.7%, while Visa gained 2.8%.
-
----
-
-### 2026-06-17 04:12:53  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International oil prices tumble on 16th close】As of the close on the 16th, NYMEX light sweet crude (July delivery) fell $4.70 to $76.05/bl, down 5.82%; ICE Brent (August delivery) fell $4.21 to $78.96/bl, down 5.06%.
-
----
-
-### 2026-06-17 04:12:23  #市場
-
-【國際油價16日大幅下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌4.70美元，收於每桶76.05美元，跌幅為5.82%；8月交貨的倫敦布倫特原油期貨價格下跌4.21美元，收於每桶78.96美元，跌幅為5.06%。
-
----
-
-### 2026-06-17 04:07:25  #公司 #市場 #國際
-
-SpaceX收漲4.77%，報201.68美元，收盤市值2.65萬億美元，超過亞馬遜、成為全球第五大上市公司。
-
----
-
-### 2026-06-17 04:05:35  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
-
-U.S. stocks on Tuesday, June 16: Dow Jones Industrial Average closed up 331.17 points (+0.64%) at 52,002.20; S&P 500 closed down 42.86 points (-0.57%) at 7,511.43; Nasdaq Composite closed down 307.60 points (-1.15%) at 26,376.34.
-
----
-
-### 2026-06-17 04:03:09  #MKT News #EURUSD #Impact bullish #GBPUSD #XAUUSD
-
-【Dollar index down 0.09% to 99.540 on June 16】The dollar index, measuring the U.S. dollar against six major currencies, fell 0.09% to 99.540 at the New York close on June 16. EUR/USD rose to 1.1610 from 1.1595; GBP/USD 1.3429 from 1.3419; USD/JPY 160.44 from 160.31; USD/CHF 0.7931 from 0.7940; USD/CAD 1.3993 from 1.3987; USD/SEK 9.3618 from 9.3913.
-
----
-
-### 2026-06-17 04:02:10  #MKT News #Important #Market Regions #Wall Street (US) #MRVL.O #Impact bearish #MU.O #XPEV.N
-
-【US close: Dow +0.6%; S&P -0.57%, Nasdaq -1.15%; SpaceX ends up 4.8% after intraday spike】US equities closed mixed Tuesday. Dow Jones Industrial Average rose 0.6% at the close, the S&P 500 fell 0.57% and the Nasdaq Composite declined 1.15%. SpaceX (SPCX.O) jumped roughly 17% intraday before finishing up 4.8%. MARVELL (MRVL.O) slid nearly 10%; Micron Technology (MU.O) dropped about 6%. The Nasdaq Golden Dragon China Index fell 2.5%; Xpeng (XPEV.N) was down more than 4%.
-
----
-
-### 2026-06-17 04:01:48  #市場
-
-【美元指數16日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.09%，在匯市尾市收於99.540。截至紐約匯市尾市，1歐元兌換1.1610美元，高於前一交易日的1.1595美元；1英鎊兌換1.3429美元，高於前一交易日的1.3419美元。1美元兌換160.44日元，高於前一交易日的160.31日元；1美元兌換0.7931瑞士法郎，低於前一交易日的0.7940瑞士法郎；1美元兌換1.3993加元，高於前一交易日的1.3987加元；1美元兌換9.3618瑞典克朗，低於前一交易日的9.3913瑞典克朗
-
----
-
-### 2026-06-17 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指漲0.65%，標普500指數跌0.56%，納指跌1.14%。邁威爾科技跌9.72%，芝加哥期權交易所跌9.48%，Monolithic Power Systems跌9.34%，Take-Two Interactive漲6.36%，Moderna漲6.27%。“七姐妹”方面：Meta Platforms漲1.08%，谷歌漲1.08%，蘋果漲0.93%，亞馬遜漲0.06%，微軟跌1.52%，特斯拉跌1.56%，英偉達跌2.38%。
 
 ---
