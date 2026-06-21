@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-22 06:19:25",
-  "count": 17397,
+  "updated": "2026-06-22 06:23:21",
+  "count": 17394,
   "items": [
+    {
+      "id": "te:markets:560558",
+      "time": "2026-06-22 06:19:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Inches Higher for 4th Session — Brent oil prices opened the week more than 1.5% higher, rising to almost $82 per barrel as the US and Iran began talks in Switzerland, the first to take place under last week's memorandum of understanding. The agreement called for reopening the strait of Hormuz, and ending hostilities, including in Lebanon, where Israel and the Iran-backed Hezbollah have continued exchanging attacks. However, Iran said the US had failed to secure a ceasefire in Lebanon and announced it had again halted traffic through the strait. Tehran also said Sunday's talks would exclude substantive issues such as its nuclear programme."
+    },
+    {
+      "id": "mkt:019eec44-7c11-7dd8-b0a9-cf4c2b4b93ad",
+      "time": "2026-06-22 06:19:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Trump threat clouds US-Iran talks; oil opens higher, WTI up 1.7%】International oil prices opened higher on Monday after Trump warned he would strike Iran if Hezbollah continues to attack Israel, a move that raised doubts over progress in talks between Washington and Tehran. WTI crude rose as much as 1.7%. The warning came days after Trump signed a memorandum last week launching a 60‑day negotiation window; high‑level talks began at the Bürgenstock resort in Switzerland. Iran said it had again closed the Strait of Hormuz, but millions of barrels continued to transit the waterway over the weekend."
+    },
     {
       "id": "4946722",
       "time": "2026-06-22 06:18:39",
@@ -160159,47 +160184,6 @@
         "國際"
       ],
       "text": "伊朗最高聯合軍事指揮部表示，伊朗民眾在最高領袖的領導下已向美國證明，“（美國）除接受戰敗外別無他途”。"
-    },
-    {
-      "id": "mkt:019ec83a-c0b4-7dd8-aff8-24a76f73b21b",
-      "time": "2026-06-15 06:22:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iran deputy foreign minister: 60-day talks with U.S. to cover four issues】Iran's deputy foreign minister said the 60-day talks with the U.S. will address four items: ending all sanctions and UN Security Council resolutions; the nuclear issue; defining a final mechanism for Iran's reconstruction; and establishing an enforcement mechanism to monitor parties' commitments."
-    },
-    {
-      "id": "4934889",
-      "time": "2026-06-15 06:21:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊19日在瑞士籤協議】當地時間6月14日下午，美國副總統萬斯稱，他計劃出席將於本週五在瑞士舉行的美伊協議簽字儀式，美國總統特朗普“有可能”參加。"
-    },
-    {
-      "id": "4934888",
-      "time": "2026-06-15 06:20:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，為期60天的談判將要討論的議題包括解除制裁、伊朗重建機制，以及建立監督各方履約情況的機制。"
-    },
-    {
-      "id": "mkt:019ec838-5823-7dd8-aff8-1e20c2febd48",
-      "time": "2026-06-15 06:19:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said mediators will still participate in upcoming talks."
-    },
-    {
-      "id": "mkt:019ec838-1bb4-7dd8-aff8-11a4d6cba53a",
-      "time": "2026-06-15 06:19:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran deputy foreign minister says the nuclear issue will be discussed during 60-day negotiations."
     }
   ]
 }
