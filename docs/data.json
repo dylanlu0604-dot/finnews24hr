@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-22 07:02:37",
-  "count": 17351,
+  "updated": "2026-06-22 07:06:31",
+  "count": 17353,
   "items": [
+    {
+      "id": "4946752",
+      "time": "2026-06-22 07:04:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國電力公司宣佈第三季度電價保持不變。"
+    },
+    {
+      "id": "4946750",
+      "time": "2026-06-22 07:03:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【注意防範暴雨、強對流天氣，中央氣象臺釋出預警】據中央氣象臺訊息，6月22日8時至23日8時，我國部分地區有大到暴雨，局地有雷暴大風或冰雹等強對流天氣。預計，6月22日8時至23日8時，貴州中部和東部、重慶東南部、湖南中北部、湖北東部、江西北部、安徽南部、江蘇南部、浙江北部、上海以及廣西北部、雲南西部和東北部、四川東北部和東南部、河北西北部、內蒙古東北部、西藏東南部等地部分地區有大到暴雨，其中，貴州中部和東部、湖南西部、江西北部、江蘇南部等地的部分地區有大暴雨（100～230毫米）。"
+    },
+    {
+      "id": "4946749",
+      "time": "2026-06-22 07:02:00",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【今天15點，將舉行重要釋出會】國務院新聞辦公室將於2026年6月22日（星期一）下午3時舉行新聞釋出會，請商務部副部長兼國際貿易談判副代表凌激和國家發展改革委、財政部有關負責人介紹利用外資固穩促優有關政策措施。（央視）"
+    },
+    {
+      "id": "mkt:019eec6b-419f-7dd8-b0a9-eee3759bebeb",
+      "time": "2026-06-22 07:01:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council press briefing 15:00 today on measures to stabilize and optimize foreign investment】The State Council Information Office will hold a press briefing at 15:00 on Monday, June 22, 2026. MOFCOM vice minister and deputy international trade representative Ling Ji, together with officials from the NDRC and the Ministry of Finance, will outline policy measures to leverage foreign investment to stabilize activity and improve investment quality."
+    },
     {
       "id": "4946748",
       "time": "2026-06-22 07:00:58",
@@ -159747,23 +159780,6 @@
         "GOOGL.O"
       ],
       "text": "The Wall Street Journal reported Anthropic met with Trump administration officials this weekend and sent a senior technical team to Washington seeking an agreement to lift U.S. export restrictions on its most capable AI models."
-    },
-    {
-      "id": "4934926",
-      "time": "2026-06-15 07:05:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "美伊協議達成後，霍爾木茲海峽船舶積壓問題或需數週才能清理完畢。"
-    },
-    {
-      "id": "4934925",
-      "time": "2026-06-15 07:05:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "兩名伊朗官員透露，伊朗選擇在當地時間午夜過後敲定伊美協議，以此避開特朗普總統的生日。 官員還表示，兩地7.5小時的時差，也讓伊朗與美國得以對協議敲定的時間作出不同解讀。"
     }
   ]
 }
