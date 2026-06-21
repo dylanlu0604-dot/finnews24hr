@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-22 00:36:49",
-  "count": 17518,
+  "updated": "2026-06-22 00:40:59",
+  "count": 17517,
   "items": [
+    {
+      "id": "mkt:019eeb0c-1b2f-7dd8-b0a8-17367306b985",
+      "time": "2026-06-22 00:38:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media reported a member of Iran's negotiation team said procedures to execute the release of Iran's frozen funds have begun, with a Qatari delegation participating."
+    },
+    {
+      "id": "4946588",
+      "time": "2026-06-22 00:37:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗談判代表團成員對官方媒體表示：伊朗凍結資金解凍的執行流程已在卡達代表團參與下完成。"
+    },
     {
       "id": "mkt:019eeb09-e2ba-7dd8-b0a8-096f9ea34453",
       "time": "2026-06-22 00:35:54",
@@ -161292,30 +161309,6 @@
         "國際"
       ],
       "text": "【特朗普通話中提議以軍撤軍方案 內塔尼亞胡拒絕】在美國總統特朗普與以色列總理內塔尼亞胡最近一次通話中，特朗普提出了以色列官員口中的最壞情況方案：作為與伊朗達成更廣泛諒解的一部分，以色列需從黎巴嫩南部的五個據點及敘利亞赫爾蒙山撤軍。內塔尼亞胡當場斷然拒絕了這一提議。"
-    },
-    {
-      "id": "mkt:019ec700-465d-7dd8-aff5-077c5d003ebe",
-      "time": "2026-06-15 00:39:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Joint communiqué on talks between the foreign ministers of China and Mongolia】Chinese Politburo member and Foreign Minister Wang Yi visited Mongolia June 13-15 at the invitation of State Great Khural member and Foreign Minister Batmunkh Battsetseg. The ministers held talks and agreed, guided by the leaders' consensus, to advance the China-Mongolia comprehensive strategic partnership."
-    },
-    {
-      "id": "4934680",
-      "time": "2026-06-15 00:38:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非內政部長：自拉馬福薩總統宣誓將加大力度整治非法移民後一週內，南非已遣返2745名外籍人員。"
-    },
-    {
-      "id": "mkt:019ec6ff-4259-7dd8-aff4-f9d3aab98655",
-      "time": "2026-06-15 00:37:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reporter says Iranian officials have not yet confirmed they will sign an agreement today."
     }
   ]
 }
