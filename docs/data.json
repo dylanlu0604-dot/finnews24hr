@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-22 00:11:26",
+  "updated": "2026-06-22 00:15:42",
   "count": 17523,
   "items": [
+    {
+      "id": "mkt:019eeaf6-845c-7dd8-b0a7-d86e0e6725ee",
+      "time": "2026-06-22 00:14:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said Iran does not care about US threats, told Washington to watch its words, and said Iran’s armed forces are prepared to respond in other ways; he added that regardless of US statements, Iran will be the one to take real action."
+    },
+    {
+      "id": "4946577",
+      "time": "2026-06-22 00:14:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗抗議特朗普近期發出的威脅 並正在考量應對舉措】伊朗已就特朗普近期發出的威脅向美國正式提出抗議，並正在考量應對舉措。德黑蘭稱，任何形式的威脅行為都違反相關協議第一條條款，該條款規定美方不得實施威脅，因此特朗普此番言論嚴重違背雙方達成的共識。"
+    },
+    {
+      "id": "4946576",
+      "time": "2026-06-22 00:11:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：若以色列不從黎巴嫩撤軍，將終止與美國的談判】伊朗方面表示，除非以色列全面撤出黎巴嫩且各戰線戰事全部平息，否則伊美之間所有談判都將中止。伊朗警告，若以色列繼續採取相關行動，伊朗將採取強硬得多的反擊措施。德黑蘭方面還懷疑美國借談判為以色列爭取喘息時間。"
+    },
+    {
+      "id": "mkt:019eeaf3-24b7-7dd8-b0a7-d7535adcf3ea",
+      "time": "2026-06-22 00:11:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian state TV quoted the head of the National Iranian Oil Company (NIOC) saying more than 25 million barrels of Iranian oil have crossed blockade lines since last Monday."
+    },
+    {
+      "id": "4946575",
+      "time": "2026-06-22 00:10:24",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家石油公司負責人表示，自週一以來，已有超過2500萬桶伊朗石油突破封鎖線運輸。"
+    },
+    {
+      "id": "4946574",
+      "time": "2026-06-22 00:10:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：若以色列不從黎巴嫩撤軍，伊朗將終止與美國的談判。"
+    },
     {
       "id": "4946573",
       "time": "2026-06-22 00:09:02",
@@ -161294,60 +161355,6 @@
         "國際"
       ],
       "text": "伊朗議會國家安全委員會主席：“今天，以色列在貝魯特達希耶犯下的罪行再次證明，美國軟弱無能，毫無信譽可言，甚至連這個都管不了。我們將做出強有力的回應。"
-    },
-    {
-      "id": "4934665",
-      "time": "2026-06-15 00:13:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：內塔尼亞胡缺乏判斷力，我已向他表達了強烈不滿。"
-    },
-    {
-      "id": "mkt:019ec6e9-1c15-7dd8-aff4-b819549e2085",
-      "time": "2026-06-15 00:13:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Trump criticizes Netanyahu after Israeli strike on Beirut delays US-Iran deal signing】President Trump sharply criticized Israeli Prime Minister Netanyahu after an Israeli strike on Beirut hours before a planned US-Iran agreement signing, saying the attack showed \"no judgment\" and left him \"very angry.\" Trump said he was told about the strike roughly one hour before the scheduled signing and that rockets earlier fired by Hezbollah landed in open areas with no injuries, yet Israel struck Beirut. The strike delayed the signing that was due that morning; Trump said he still expected the deal to be signed within hours. He described the agreement as preventing Iran from obtaining nuclear weapons, allowing inspections with 24-hour notice and eliminating Iran's stock of highly enriched uranium."
-    },
-    {
-      "id": "4934664",
-      "time": "2026-06-15 00:13:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "福克斯新聞：特朗普告訴內塔尼亞胡不要在黎巴嫩進行進一步的打擊，警告說這可能會危及美伊協議。"
-    },
-    {
-      "id": "4934663",
-      "time": "2026-06-15 00:12:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普接受阿克西奧斯新聞網採訪：伊朗相關協議仍計劃於週日簽署。"
-    },
-    {
-      "id": "4934662",
-      "time": "2026-06-15 00:11:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統助理：特朗普與普京通話 美伊談判結果將公佈】俄羅斯總統助理烏沙科夫14日說，美國總統特朗普當天在與俄羅斯總統普京的通話中表示，美國和伊朗之間的協議已接近達成，談判結果可能於當天公佈。（新華社）"
-    },
-    {
-      "id": "mkt:019ec6e7-36ec-7dd8-aff4-b62b92461669",
-      "time": "2026-06-15 00:11:41",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "According to Israel's Channel 12, US President Trump said he told Netanyahu on a call, \"What are you doing?\""
     }
   ]
 }
