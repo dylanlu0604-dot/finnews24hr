@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-21 19:24:44",
-  "count": 17623,
+  "updated": "2026-06-21 19:28:51",
+  "count": 17621,
   "items": [
+    {
+      "id": "mkt:019ee9ec-bc0c-7dd8-b0a5-88101bcf753a",
+      "time": "2026-06-21 19:24:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China national flood-control office warns high rain-disaster risk in several provinces over next three days】China’s national flood-control office and Ministry of Emergency Management said heavy rain over the next three days presents high disaster risk in Guizhou, Hubei, Hunan and Anhui, with threats of mountain floods, geological hazards, small- and medium-river flooding and urban waterlogging. On the 21st a multi-agency meeting including the China Meteorological Administration, Ministry of Water Resources, Ministry of Natural Resources, Ministry of Housing and Urban-Rural Development and Ministry of Transport reviewed rainfall trends and ordered stepped-up monitoring, more frequent forecasts and earlier warnings, pre-positioning of resources and moving the response window forward, with timely initiation or adjustment of emergency responses and, as needed, decisive shutdowns and strict control measures."
+    },
     {
       "id": "4946412",
       "time": "2026-06-21 19:23:24",
@@ -162226,30 +162234,6 @@
         "DXY"
       ],
       "text": "【Iranian official calls Israeli regime 'mad dog', says it must be controlled】i24News reported that Rezai, spokesman for the Iranian parliament's National Security and Foreign Policy Commission, said any route to an agreement or consensus requires reining in the Zionist regime. 'This mad dog must be controlled.'"
-    },
-    {
-      "id": "4934441",
-      "time": "2026-06-14 19:28:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉林回應組建本土客運航空公司提案：主管部門原則上不再新批】近日，吉林省交通運輸廳在答覆有關組建吉林航空公司的提案時透露，現階段直接新組建獨立客運航空公司暫不具備審批條件。吉林省交通運輸廳提到，組建本土基地客運航空公司，對於完善吉林省干支航空網路、提升長春龍嘉機場區域樞紐能級、帶動冰雪旅遊與邊境旅遊提質升級、服務新時代吉林全面振興具有重要戰略意義。當前，該省“一主多輔”機場格局基本形成，航空客流穩步恢復，文旅市場持續升溫，航線網路覆蓋面不斷擴大，具備培育地方骨幹航空市場主體的現實基礎。對此，省委省政府高度重視，相關部門已圍繞組建本土航空公司、打造基地航司、提升航線自主可控能力開展多輪專題調研與可行性論證。從國家現行政策層面看，民航主管部門對新設客運航空公司實施嚴格總量調控，從嚴控制新增籌建主體，原則上不再新批客運航空公司，僅支援依規新設貨運航空主體。綜合國家政策導向與吉林省實際，現階段直接新組建獨立客運航空公司暫不具備審批條件。（澎湃）"
-    },
-    {
-      "id": "4934440",
-      "time": "2026-06-14 19:26:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【禮邦醫藥（江蘇）股份有限公司-B透過港交所上市聆訊】禮邦醫藥（江蘇）股份有限公司-B更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
-    },
-    {
-      "id": "4934439",
-      "time": "2026-06-14 19:24:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安克創新科技股份有限公司透過港交所上市聆訊】安克創新科技股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
     }
   ]
 }
