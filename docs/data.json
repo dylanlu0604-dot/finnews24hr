@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-22 01:21:11",
-  "count": 17508,
+  "updated": "2026-06-22 01:25:15",
+  "count": 17507,
   "items": [
+    {
+      "id": "4946596",
+      "time": "2026-06-22 01:24:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列向美國承諾，將恪守黎巴嫩南部的黃線邊界相關立場。"
+    },
+    {
+      "id": "mkt:019eeb34-03a8-7dd8-b0a8-483da2e4cfcc",
+      "time": "2026-06-22 01:21:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources said a fire broke out at the combined-heat-and-power unit of Marathon's Galveston Bay refinery in Texas; no injuries reported so far."
+    },
+    {
+      "id": "mkt:019eeb33-7722-7dd8-b0a8-46edc2b44de5",
+      "time": "2026-06-22 01:21:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Arabiya reported the Iranian delegation left the negotiating table and returned to its residence in Switzerland; talks with the US are continuing via intermediaries."
+    },
+    {
+      "id": "4946595",
+      "time": "2026-06-22 01:21:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，馬拉松石油位於得克薩斯州加爾維斯頓灣的煉油廠聯產裝置發生火災，目前未造成人員傷亡。"
+    },
     {
       "id": "4946594",
       "time": "2026-06-22 01:16:49",
@@ -161199,51 +161234,6 @@
         "DXY"
       ],
       "text": "【Israel Defense Forces says rockets and drones launched from Lebanon detected】On the evening of the 14th, the Israel Defense Forces said multiple air-raid sirens sounded across northern Israel after it detected rockets and drones launched from Lebanon. One rocket landed in an Israeli community near the border and several drones fell on the Israeli side."
-    },
-    {
-      "id": "mkt:019ec72a-5f65-7dd8-aff5-5ab0ffb5cbae",
-      "time": "2026-06-15 01:25:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "An Israeli senior cabinet minister told Channel 12: \"For us, Iran is Trump's problem; he has the right to seek a deal, but Lebanon is our problem, and we absolutely cannot accept the equation Iran has proposed, even at the cost of a serious confrontation with the United States.\""
-    },
-    {
-      "id": "mkt:019ec729-b0d8-7dd8-aff5-50c4766494c6",
-      "time": "2026-06-15 01:24:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet alhadath, citing sources, reports US special envoy to Iraq Tom Barrack will visit Baghdad tomorrow to discuss arms control and government formation."
-    },
-    {
-      "id": "mkt:019ec728-dac8-7dd8-aff5-4bf7b2b02d3a",
-      "time": "2026-06-15 01:23:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Al Hadath, citing sources, says US special envoy to Iraq Tom Barrack will discuss political, security and economic issues in Baghdad tomorrow."
-    },
-    {
-      "id": "4934694",
-      "time": "2026-06-15 01:22:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱監測到黎巴嫩方向發射的火箭彈及無人機】當地時間14日晚間，以色列國防軍發表宣告稱，不久前，以色列北部多個地區連續拉響防空警報。以軍隨即稱監測到黎巴嫩方向來襲的火箭彈及無人機。宣告表示，有1枚火箭彈落入以色列一處靠近邊境的社群，另外多架無人機也落入以色列一側。（央視新聞）"
-    },
-    {
-      "id": "4934693",
-      "time": "2026-06-15 01:21:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場資訊：馬克龍將全力促成特朗普出席七國集團峰會。"
     }
   ]
 }
