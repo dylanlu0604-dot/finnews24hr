@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-22 06:42:40",
-  "count": 17376,
+  "updated": "2026-06-22 06:46:35",
+  "count": 17373,
   "items": [
+    {
+      "id": "4946736",
+      "time": "2026-06-22 06:44:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於週一下午3點30分簽署行政令。"
+    },
     {
       "id": "4946733",
       "time": "2026-06-22 06:40:46",
@@ -159973,44 +159981,6 @@
         "國際"
       ],
       "text": "英、法、德、意E4領導人聯合宣告：伊朗絕不能獲取核武器。"
-    },
-    {
-      "id": "4934906",
-      "time": "2026-06-15 06:46:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英、法、德、意E4領導人聯合宣告：對美國與伊朗達成諒解備忘錄的公告表示熱烈歡迎。"
-    },
-    {
-      "id": "mkt:019ec84f-f079-7dd8-aff8-6d8f83fd81dd",
-      "time": "2026-06-15 06:45:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iranian media published detailed terms of 14-point Iran–US memorandum】Iranian media published detailed terms of a 14-point Iran–US memorandum. Key points: immediate and permanent ceasefire on all fronts, including Lebanon; US pledge not to interfere in Iran’s internal affairs and to respect Iranian sovereignty; full lifting of a maritime blockade and reopening of the Strait of Hormuz within 30 days under arrangements agreed by Iran; US commitment to withdraw forces from around Iran; suspension of sanctions on Iranian oil, petrochemicals and derivatives and restoration of Iran’s full access to its financial resources; US and allies to provide at least $300 billion for Iran’s reconstruction; a final nuclear agreement to be reached within 60 days with full lifting of primary and secondary US sanctions and relevant UN Security Council and IAEA board resolutions; Iran reiterates its NPT commitment not to develop nuclear weapons; during negotiations the US will not deploy additional regional forces or impose new sanctions; during the 60-day final negotiation period $24 billion of Iran’s frozen funds will be released, half of which must be delivered before talks begin; a monitoring mechanism will be established; the final deal will require UN Security Council approval; final negotiations will only start after half of the frozen funds are unfrozen, oil sanctions are suspended and the maritime blockade is lifted; the final accord will be limited to the future of enriched uranium/materials and enrichment processes, sanctions relief and Iran’s economic reconstruction plan; issues relating to Iran’s missile program and support for resistance groups have been removed from the agenda."
-    },
-    {
-      "id": "4934905",
-      "time": "2026-06-15 06:44:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞3年期國債收益率跌5個基點。"
-    },
-    {
-      "id": "4934904",
-      "time": "2026-06-15 06:43:54",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【外資巨頭下半年展望：AI超級週期未結束，重新審視避險資產】2026年即將過半，全球市場波動加劇。展望下半年，摩根士丹利、貝萊德、富達國際、KKR等多家外資機構給出了各自的答案。梳理發現，在地緣局勢、能源安全和貿易格局重塑的大背景下，儘管各家機構關注重點有所不同，但對於下半年市場主線卻形成了高度共識：AI資本開支超級週期遠未結束，科技自主可控、高階製造和能源轉型成為當下的投資主線，而中國資產在這一輪產業變遷中的戰略地位正在持續提升。（中證報）"
     }
   ]
 }
