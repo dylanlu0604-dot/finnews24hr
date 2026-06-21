@@ -1,7 +1,173 @@
 {
-  "updated": "2026-06-21 23:48:13",
-  "count": 17554,
+  "updated": "2026-06-22 00:11:26",
+  "count": 17523,
   "items": [
+    {
+      "id": "4946573",
+      "time": "2026-06-22 00:09:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：伊朗依然我行我素。"
+    },
+    {
+      "id": "4946572",
+      "time": "2026-06-22 00:08:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯稱特朗普要求與伊朗“翻開新篇章”】美國副總統萬斯週日（6月21日）在伊美會談前表示，特朗普已要求與伊朗“翻開新篇章”，以轉變美伊關係。"
+    },
+    {
+      "id": "mkt:019eeaef-b3db-7dd8-b0a7-cb7843c097fa",
+      "time": "2026-06-22 00:07:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Hezbollah opposes Lebanon-US direct talks, says they will harm sovereignty and serve Israel】Al Jazeera reported Hezbollah opposes direct talks between the Lebanese government and the US, saying such negotiations would weaken Lebanon’s sovereignty and serve Israeli interests. The group said the Lebanese delegation in Washington was asked to sign US-proposed terms that “deprive Lebanese sovereignty” and align Lebanon with forces reconciled with Israel, calling the talks based on a “flawed” premise that would produce “surrender” rather than serve Lebanon’s interests. Hezbollah added that government participation hinders efforts to counter enemy plans and resistance on the ground, risks Lebanon’s stability and independence, and amounts to compliance with US and Israeli policy objectives."
+    },
+    {
+      "id": "mkt:019eeaee-2951-7dd8-b0a7-c7dfc5b6421c",
+      "time": "2026-06-22 00:05:37",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israeli chief of staff: military operations in Lebanon continue】The Israel Defense Forces said on the 21st Chief of Staff Zamir, speaking in southern Lebanon at a meeting with commanders, said military operations in Lebanon remain ongoing. Zamir said the IDF is fighting on multiple fronts and continuing strikes against Hezbollah; he added some units suffered \"significant losses\" with multiple soldiers and commanders killed. Israeli media reported on the 20th that the prime minister and defence minister instructed the IDF to call a cease-fire in Lebanon, but the army has not withdrawn from areas it controls in southern Lebanon. Prime Minister Netanyahu reiterated the IDF will remain in south Lebanon \"as long as necessary.\""
+    },
+    {
+      "id": "4946571",
+      "time": "2026-06-22 00:05:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍總參謀長：在黎巴嫩軍事行動仍在繼續】據以色列國防軍21日發表的宣告，以軍總參謀長扎米爾當天在黎巴嫩南部與以軍指揮官會面時稱，以軍在黎巴嫩的軍事行動仍在繼續。扎米爾稱，以軍“正在多線作戰”，持續打擊黎真主黨武裝組織。他還稱，以軍一些部隊遭受“重大損失”，有多名士兵和指揮官死亡。以色列媒體20日報道說，以總理和國防部長指示以軍在黎巴嫩停火，但以軍未撤出其在黎南部控制的地區。以總理內塔尼亞胡重申“只要有必要”，以軍會一直駐留在黎南部。（新華社）"
+    },
+    {
+      "id": "4946570",
+      "time": "2026-06-22 00:01:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：伊朗代表團將不在日內瓦與國際原子能機構總幹事舉行會談。美方原本希望國際原子能機構總幹事格羅西出席瑞士舉行的伊美談判，但伊朗拒絕了這一提議。"
+    },
+    {
+      "id": "4946569",
+      "time": "2026-06-22 00:01:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面稱，特朗普的威脅行為嚴重違反諒解備忘錄。"
+    },
+    {
+      "id": "4946568",
+      "time": "2026-06-21 23:57:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼《玩具總動員5》北美首映票房達1.6億美元。"
+    },
+    {
+      "id": "mkt:019eeae4-d6df-7dd8-b0a7-bf9d1935385d",
+      "time": "2026-06-21 23:55:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Hezbollah leader said the group will respond to any act of aggression."
+    },
+    {
+      "id": "4946567",
+      "time": "2026-06-21 23:55:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "真主黨領袖稱將對任何侵犯行為作出回應。"
+    },
+    {
+      "id": "mkt:019eeae4-a94c-7dd8-b0a7-b601e46b2135",
+      "time": "2026-06-21 23:55:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Hezbollah leader says Israel will not continue to be stationed in Lebanon."
+    },
+    {
+      "id": "4946566",
+      "time": "2026-06-21 23:55:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【以總理稱以軍將根據需要繼續駐留黎巴嫩南部】當地時間21日，以色列總理內塔尼亞胡公開表示，以色列軍隊將根據安全需要在黎巴嫩南部的“安全區”長期駐留，並重申將採取一切手段阻止伊朗獲得核武器。內塔尼亞胡在當天的一場講話中表示，以色列在過去一年中針對伊朗實施了兩次重大軍事行動，旨在“消除來自伊朗的緊迫威脅”。他強調，以色列已經取得了“重大成果”，且絕不會妥協，將繼續捍衛其根本利益。在談及黎巴嫩南部局勢時，內塔尼亞胡強調，以軍將繼續駐留在黎南部的所謂“安全區”，直至消除對以色列北部及全國民眾的“安全威脅”。內塔尼亞胡堅稱，只要其還擔任以色列總理，他在這一問題上的堅定立場就絕不改變。同時，只要其還擔任以色列總理，無論政治局勢如何發展，他都絕不允許伊朗擁有核武器。（央視新聞）"
+    },
+    {
+      "id": "4946565",
+      "time": "2026-06-21 23:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨領導人稱，以色列不會留在黎巴嫩。"
+    },
+    {
+      "id": "mkt:019eeae4-076f-7dd8-b0a7-afe74e85269d",
+      "time": "2026-06-21 23:54:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, a U.S. official said Iranian delegates had agreed to hold an on-site media briefing at the start of a meeting and brought state media to the venue, but left after seeing the number of journalists present and later issued an inaccurate account through state media."
+    },
+    {
+      "id": "4946564",
+      "time": "2026-06-21 23:54:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞洲接力錦標賽 中國隊創造男子4x100米接力賽會紀錄】2026亞洲接力錦標賽北京時間6月21日在紹興上虞結束，由謝震業、施君豪、黃友聞、陳錦豐組成的中國隊以38.08秒的成績奪得冠軍，並創男子4x100米接力賽會紀錄。（央視新聞）"
+    },
+    {
+      "id": "4946563",
+      "time": "2026-06-21 23:52:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美方官員透露，伊朗代表此前已同意會談開場安排媒體採訪環節。該官員稱：“他們甚至攜帶本國官方媒體記者到場報道，相關人員也已提前就位。但在看到現場媒體人數眾多後，伊朗代表直接離場，隨後還透過本國官媒釋出與事實不符的會談情況說明。”"
+    },
+    {
+      "id": "4946562",
+      "time": "2026-06-21 23:48:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體21日報道，伊朗代表團已就美國總統特朗普近期口頭威脅向美方提出抗議，目前正在制定適當回應方案。"
+    },
+    {
+      "id": "mkt:019eeade-c957-7dd8-b0a7-a61b21cbb0ac",
+      "time": "2026-06-21 23:48:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iranian delegation lodges protest over Trump's verbal threats】Iranian media said on the 21st the Iranian delegation has lodged a protest with the US over recent verbal threats by President Trump and is preparing an appropriate response."
+    },
     {
       "id": "mkt:019eeadb-210b-7dd8-b0a7-9df7f7c319a4",
       "time": "2026-06-21 23:44:49",
@@ -161182,424 +161348,6 @@
         "Important"
       ],
       "text": "According to Israel's Channel 12, US President Trump said he told Netanyahu on a call, \"What are you doing?\""
-    },
-    {
-      "id": "4934661",
-      "time": "2026-06-15 00:10:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "福克斯新聞：若協議簽署，特朗普將立即下令解除封鎖。"
-    },
-    {
-      "id": "4934660",
-      "time": "2026-06-15 00:10:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普接受福克斯新聞採訪：將要求伊朗不要對以色列展開反擊。"
-    },
-    {
-      "id": "4934659",
-      "time": "2026-06-15 00:10:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我和內塔尼亞胡通了電話，我質問他“你到底在做什麼”？"
-    },
-    {
-      "id": "4934658",
-      "time": "2026-06-15 00:09:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普接受福克斯新聞採訪：伊朗相關協議或將在一週內舉行現場簽署儀式。"
-    },
-    {
-      "id": "4934657",
-      "time": "2026-06-15 00:09:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：6月14日，美國海軍一架搜救直升機在阿拉伯海北部救助了14名印度船員。"
-    },
-    {
-      "id": "4934656",
-      "time": "2026-06-15 00:08:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普接受福克斯新聞採訪：伊朗相關協議將在數小時內以電子形式簽署。"
-    },
-    {
-      "id": "mkt:019ec6e4-297e-7dd8-aff4-a9eec3dc243f",
-      "time": "2026-06-15 00:08:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Vice President Vance said he will decide after the midterm elections whether to run in the 2028 presidential race."
-    },
-    {
-      "id": "4934655",
-      "time": "2026-06-15 00:08:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普對福克斯新聞表示：伊朗核協議可能在歐洲面對面簽署。"
-    },
-    {
-      "id": "4934654",
-      "time": "2026-06-15 00:05:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普接受福克斯新聞採訪：與伊朗的相關協議大機率將在未來兩至三小時內簽署。"
-    },
-    {
-      "id": "4934653",
-      "time": "2026-06-15 00:04:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：將在中期選舉後決定是否參加2028年總統競選。"
-    },
-    {
-      "id": "4934652",
-      "time": "2026-06-15 00:02:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京與特朗普通話期間，談及了伊朗局勢以及烏克蘭戰事。"
-    },
-    {
-      "id": "mkt:019ec6de-d67c-7dd8-aff4-a5f0ebba2c0b",
-      "time": "2026-06-15 00:02:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "An official involved in the talks told Refinitiv that mediators are optimistic a US-Iran deal is \"about to be reached\" and that negotiations are progressing smoothly."
-    },
-    {
-      "id": "4934651",
-      "time": "2026-06-15 00:01:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "參與談判的官員表示，調解方對美國與伊朗達成協議持樂觀態度，認為“已接近達成”，且談判進展順利。"
-    },
-    {
-      "id": "4934650",
-      "time": "2026-06-14 23:58:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列表示，在以色列空襲黎巴嫩貝魯特之後，伊朗可能在未來幾小時內發動襲擊。"
-    },
-    {
-      "id": "mkt:019ec6db-70f2-7dd8-aff4-9a506c59d2e6",
-      "time": "2026-06-14 23:58:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli finance minister signs West Bank settlement expansion agreement】On the 14th local time, Israeli Finance Minister Smotrich signed a framework agreement committing NIS 2 billion (about $685m) to build 6,000 apartments and related infrastructure in an Israeli settlement in the West Bank. Settlement expansion is a principal obstacle to Israeli-Palestinian peace talks."
-    },
-    {
-      "id": "4934649",
-      "time": "2026-06-14 23:58:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列北部拉響紅色警報。"
-    },
-    {
-      "id": "4934648",
-      "time": "2026-06-14 23:58:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩衛生部通報，自2026年3月2日以來，該國遇難人數已升至3783人。"
-    },
-    {
-      "id": "mkt:019ec6da-d09d-7dd8-aff4-93d2a9f613cd",
-      "time": "2026-06-14 23:58:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Israeli military says it has activated alert systems in multiple northern areas."
-    },
-    {
-      "id": "mkt:019ec6da-2adc-7dd8-aff4-8feddd378f1a",
-      "time": "2026-06-14 23:57:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Kremlin said Putin and Trump reached an agreement, and Steve Witkoff and Jared Kushner will visit Russia again soon."
-    },
-    {
-      "id": "4934647",
-      "time": "2026-06-14 23:57:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【以色列財政部長簽署約旦河西岸猶太人定居點擴建協議】當地時間14日，以色列財政部長斯莫特里赫簽署了一份總額達20億新謝克爾（約合6.85億美元）的框架協議，用於在約旦河西岸的一處以色列猶太人定居點新建6000套公寓並追加相關基礎設施投資。去年12月，以色列內閣批准在約旦河西岸新建19個猶太人定居點的提案，多國發表宣告對此表示譴責。（央視新聞）"
-    },
-    {
-      "id": "4934646",
-      "time": "2026-06-14 23:57:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：所有治理部門在捍衛國家利益、在談判框架內維護國家主權方面持有共同立場。"
-    },
-    {
-      "id": "4934645",
-      "time": "2026-06-14 23:55:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：伊朗與海灣國家之間的諸多分歧與誤解已步入解決軌道。"
-    },
-    {
-      "id": "4934644",
-      "time": "2026-06-14 23:55:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：特朗普在與普京通話時表示，願意對基輔方面及美國的歐洲夥伴施加影響。"
-    },
-    {
-      "id": "4934643",
-      "time": "2026-06-14 23:55:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：國內媒體關於戰爭、談判的報道，未必反映最高國家安全委員會的立場。"
-    },
-    {
-      "id": "mkt:019ec6d8-0c7f-7dd8-aff4-8129e982ead8",
-      "time": "2026-06-14 23:55:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Hezbollah said it struck an Israeli military assembly point in the southern Lebanese town of Taybeh with missiles."
-    },
-    {
-      "id": "mkt:019ec6d7-8c8f-7dd8-aff4-7cd5eaea1e37",
-      "time": "2026-06-14 23:54:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President PEZESHKIAN said he regretted that neighboring countries are affected by military action."
-    },
-    {
-      "id": "4934642",
-      "time": "2026-06-14 23:54:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗總統：會談並不意味著放棄原則，伊朗不會屈服於任何形式的欺凌或非法壓力。"
-    },
-    {
-      "id": "mkt:019ec6d6-a304-7dd8-aff4-73d1a0565154",
-      "time": "2026-06-14 23:53:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President PEZESHKIAN: negotiations do not mean abandoning principles; Iran will not yield to any form of bullying or unlawful pressure."
-    },
-    {
-      "id": "mkt:019ec6d6-7e0c-7dd8-aff4-6f30aef29c6e",
-      "time": "2026-06-14 23:53:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's president said developing relations with neighboring countries is a priority of national foreign policy."
-    },
-    {
-      "id": "mkt:019ec6d6-648b-7dd8-aff4-64be86858f8c",
-      "time": "2026-06-14 23:53:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iranian President Pezeshkian said issues and misunderstandings with Gulf states are being resolved."
-    },
-    {
-      "id": "mkt:019ec6d6-4ab8-7dd8-aff4-5ef24aa0dbcb",
-      "time": "2026-06-14 23:53:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's president Pezeshkian said we have a duty to support forces on the front lines."
-    },
-    {
-      "id": "mkt:019ec6d6-19e3-7dd8-aff4-5556f5843fda",
-      "time": "2026-06-14 23:53:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【IDF says Lebanon primary operational focus, prepared for retaliation】The Israel Defense Forces said on the 14th it is maintaining high alert and readiness, with Lebanon the primary focus of its operations, and is preparing for possible attacks on Israel within the next few hours. IDF Chief of Staff Zamir said at a military meeting the force will continue operations in Lebanon and pursue a proactive offensive, using ground operations and systematic fire to further weaken Hezbollah. Israeli Channel 12, citing security officials, reported Israel has also prepared for the possibility of renewed strikes by Iran."
-    },
-    {
-      "id": "4934641",
-      "time": "2026-06-14 23:52:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：近期的外交努力取得了積極成果。"
-    },
-    {
-      "id": "4934640",
-      "time": "2026-06-14 23:52:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩：與海灣國家的問題和誤解正在得到解決。"
-    },
-    {
-      "id": "4934639",
-      "time": "2026-06-14 23:52:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：對於周邊國家受到軍事行動波及，我深感遺憾。我方行動目標是位於這些國家領土上的美軍基地。"
-    },
-    {
-      "id": "4934638",
-      "time": "2026-06-14 23:51:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：真主黨必須停止向以色列北部發射導彈，伊朗也應敦促其停手。以色列此次的反擊行動十分克制。"
-    },
-    {
-      "id": "4934637",
-      "time": "2026-06-14 23:51:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西兩架直升機相撞 致至少6人死亡】據巴西里約熱內盧消防部門14日通報，里約熱內盧當天發生兩架直升機空中相撞事故，造成至少6人遇難。里約熱內盧消防局發言人說，事故發生在14日上午，兩架直升機在空中相撞後墜毀，機上無人生還。其中一架直升機撞擊地面後發生爆炸，火勢蔓延至現場的車輛，引發更多爆炸。（新華社）"
-    },
-    {
-      "id": "mkt:019ec6d4-6fb4-7dd8-aff4-4ba7969b87bf",
-      "time": "2026-06-14 23:51:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President PEZESHKIAN said he has never considered resigning."
-    },
-    {
-      "id": "4934636",
-      "time": "2026-06-14 23:51:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：我方行動針對的是駐紮在這些國家境內的美軍基地。"
-    },
-    {
-      "id": "mkt:019ec6d4-46b0-7dd8-aff4-423354cbc89f",
-      "time": "2026-06-14 23:51:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian President Pezeshkian said Iran's actions were directed at US bases inside those countries."
-    },
-    {
-      "id": "mkt:019ec6d4-14b0-7dd8-aff4-3df85b10c945",
-      "time": "2026-06-14 23:50:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian said he regretted neighboring countries suffering consequences from the military action."
-    },
-    {
-      "id": "4934635",
-      "time": "2026-06-14 23:50:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國軍方當地時間週日晚間開展行動，扣押了一艘隸屬於俄羅斯幽靈船隊、遭制裁的油輪。"
-    },
-    {
-      "id": "4934634",
-      "time": "2026-06-14 23:49:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗總統：國家必須擺脫這種 “不戰不和” 的僵持困境。"
-    },
-    {
-      "id": "mkt:019ec6d2-edfb-7dd8-aff4-3481ce17d180",
-      "time": "2026-06-14 23:49:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's president says the government is committed to finding a breakthrough in the country's current situation."
-    },
-    {
-      "id": "4934633",
-      "time": "2026-06-14 23:49:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄總統助理烏沙科夫：美國特使威特科夫與庫什納即將前往俄羅斯。"
-    },
-    {
-      "id": "mkt:019ec6d2-96c1-7dd8-aff4-2f88371b9080",
-      "time": "2026-06-14 23:49:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Israeli strike on a suburb of Beirut killed three people, raising Lebanon's death toll to 3,783."
-    },
-    {
-      "id": "4934632",
-      "time": "2026-06-14 23:48:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄總統助理烏沙科夫稱，特朗普對普京的祝賀表示感動，向其致謝，並表示普京是當天首位致電他的外國領導人。"
-    },
-    {
-      "id": "mkt:019ec6d2-5b39-7dd8-aff4-26fde07bc738",
-      "time": "2026-06-14 23:48:55",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Russian media: Trump 'moved' by Putin birthday greeting, says Putin was first foreign leader to call】Russian media quoted Kremlin aide Yuri Ushakov saying President Trump was 'moved' by Putin's birthday congratulations and thanked him; Trump said Putin was the first foreign leader to call him that day."
-    },
-    {
-      "id": "4934631",
-      "time": "2026-06-14 23:48:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯：普京與特朗普通話】俄總統助理烏沙科夫表示，普京與特朗普通話，此次通話氛圍友好、交流坦誠，時長55分鐘。普京向特朗普送上80歲生日祝福，雙方還談及兩國代表後續可能開展的接觸事宜。"
     }
   ]
 }
