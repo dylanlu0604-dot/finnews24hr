@@ -1,7 +1,279 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-22 06:38:47_
-_本檔包含 3388 則快訊，約 649079 字_
+_更新時間：2026-06-22 07:06:31_
+_本檔包含 3396 則快訊，約 648495 字_
+
+---
+
+### 2026-06-18 03:45:33  #MKT News #Macro & Rates #The Fed (FOMC)
+
+According to the Wall Street Journal, Federal Reserve Chair Kevin Warsh's first press conference was slightly shorter than usual.
+
+---
+
+### 2026-06-18 03:39:09  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell below $67/oz, down 4.32% intraday.
+
+---
+
+### 2026-06-18 03:39:08  #市場 #焦點
+
+現貨白銀失守67美元/盎司，日內跌4.29%。
+
+---
+
+### 2026-06-18 03:39:07  #市場 #焦點
+
+現貨黃金失守4220美元/盎司，日內跌2.57%。
+
+---
+
+### 2026-06-18 03:38:29  #市場
+
+鈀金期貨日內跌4%，現報1315.50美元/盎司。
+
+---
+
+### 2026-06-18 03:38:18  #市場
+
+紐約期銀日內跌4%，現報67.69美元/盎司。
+
+---
+
+### 2026-06-18 03:38:06  #市場
+
+歐元兌美元跌逾1%，觸及日內低點1.1483。
+
+---
+
+### 2026-06-18 03:38:03  #市場
+
+現貨白銀日內跌4%，現報67.17美元/盎司。
+
+---
+
+### 2026-06-18 03:36:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Israeli military says it struck Hezbollah rocket launch site】Israeli military said it recently conducted an airstrike that destroyed a Hezbollah rocket launch site it says had been used to fire rockets at Israeli forces in southern Lebanon. The military said Hezbollah fired multiple rockets at its troops earlier; some were intercepted and the remainder fell nearby with no injuries reported.
+
+---
+
+### 2026-06-18 03:36:25  #國際
+
+【以軍稱空襲一處黎真主黨火箭彈陣地】當地時間17日晚間，以色列國防軍表示，不久前其空襲並摧毀了一處真主黨火箭彈發射陣地。以軍稱該陣地早些時候被用來向黎南部的以色列軍隊發射火箭彈。此前，以軍稱真主黨武裝人員向黎南部的以軍部隊發射多枚火箭彈。其中部分被以軍攔截，其餘則落入部隊附近地區，未造成人員傷亡。（央視新聞）
+
+---
+
+### 2026-06-18 03:35:12  #市場 #焦點
+
+【美股三大指數均跌超1%】道指跌1.00%，現報51479.328點；納指跌1.21%，現報26058.257點；標普500指數跌1.23%，現報7419.210點。
+
+---
+
+### 2026-06-18 03:34:28  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish #Dow #S&P500
+
+Nasdaq-100 hit an intraday low; Dow Jones Industrial Average down nearly 1%; S&P 500 down 1.2%.
+
+---
+
+### 2026-06-18 03:33:58  #市場
+
+納斯達克100指數跌至當日低點，下跌0.7%。
+
+---
+
+### 2026-06-18 03:33:28  #市場
+
+達美航空股價放量小幅下跌，最新下跌1%，報每股82.18美元。
+
+---
+
+### 2026-06-18 03:33:23  #MKT News #Important #USDJPY #Impact bullish #DXY #XAUUSD #Impact bearish
+
+USD/JPY climbed to its strongest since July 2024, trading at 160.75.
+
+---
+
+### 2026-06-18 03:32:47  #MKT News #DXY #Impact bullish #US10Y #Hang Seng Index #Impact bearish
+
+Emerging-market stock index erased gains as the Fed turned hawkish.
+
+---
+
+### 2026-06-18 03:32:30  #市場
+
+日元兌美元匯率跌至2024年7月以來的最低水平。
+
+---
+
+### 2026-06-18 03:32:25  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+【Asked if cuts were discussed, Kevin Warsh said 'only one proposal on the table'】Asked whether Fed officials had discussed rate cuts at the meeting through Wednesday, Fed Chair Kevin Warsh said "there was only one proposal on the table" and "no discussion of any other proposals." He said officials debated a single core issue vigorously and ultimately reached agreement. The Federal Reserve left the federal funds target range unchanged at 3.50%-3.75% in a unanimous vote.
+
+---
+
+### 2026-06-18 03:32:14  #焦點 #國際
+
+【伊朗公佈美伊臨時協議完整文字】伊朗公佈美伊臨時協議完整文字，具體內容如下：
+1. 伊朗與美國承諾互不干涉對方內政；
+2. 雙方約定60日內達成最終協議，談判期限可延長；
+3. 伊朗重申絕不研發、獲取核武器；
+4. 美伊雙方同意透過共同認可的機制解決濃縮核材料庫存處置問題；
+5. 所有濃縮核材料的稀釋處理工作均在國際原子能機構監督下開展；
+6. 談判期間伊朗維持現有核計劃規模不變；
+7. 美方承諾談判期間不對伊朗新增制裁，不在該地區增派軍事力量；
+8. 美方承諾在最終協議框架內，按照約定時間表全面解除對伊所有制裁；
+9. 美方立即解除對伊朗海上封鎖，計劃30日內完全撤銷封鎖措施；
+10. 霍爾木茲海峽商業航運即刻恢復，運力迴歸戰前水平；
+11. 伊朗將與阿曼合作，共同負責霍爾木茲海峽後續管理與海事服務事務；
+12. 伊朗保障波斯灣至阿曼灣之間商業船舶安全通行；
+13. 前60天內商業船舶通行免收相關費用；
+14. 航運常態化推進工作同步開展水雷清除及各類航道技術障礙清理作業；
+15. 協議簽署後美方立刻發放豁免許可，允許伊朗出口原油、石化產品、衍生品及配套相關服務；
+16. 根據本諒解備忘錄，美方解凍伊朗被凍結資產並允許伊朗動用該筆資金；
+17. 美伊將在談判期間商定解凍凍結資產的執行機制；
+18. 美國聯合地區合作伙伴推出總額至少3000億美元的伊朗經濟重建計劃；
+19. 上述3000億美元重建計劃的落地細則，將作為60日內最終協議的組成部分敲定；
+20. 本協議有望促成數十年來美伊規模最大的外交與經濟關係重啟。
+
+---
+
+### 2026-06-18 03:31:34  #MKT News #Important #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+U.S. 2-year Treasury yield rose to 4.20%, the highest since February 2025.
+
+---
+
+### 2026-06-18 03:31:19  #市場 #國際
+
+美國兩年期國債收益率升至4.20%，為2025年2月以來最高水平。
+
+---
+
+### 2026-06-18 03:30:52  #MKT News #EURUSD #Impact bearish
+
+EUR/USD is down 1.00% intraday at 1.1492.
+
+---
+
+### 2026-06-18 03:30:32  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold plunged $100 intraday to $4,230.52/oz, down 2.32%.
+
+---
+
+### 2026-06-18 03:30:30  #市場 #焦點
+
+紐約期金失守4240美元/盎司，日內跌2.63%。
+
+---
+
+### 2026-06-18 03:30:18  #央行 #國際
+
+【沃什：希望市場依據真實經濟狀況定價 而非追隨美聯儲解讀】美聯儲主席沃什週三表示，他希望金融市場能夠基於自身對經濟的判斷來定價證券，而不是試圖根據其對央行官員如何解讀資料的預期來進行定價。他表示：“市場越是關注真實經濟的變化，越能夠自行判斷哪些資料更重要、哪些相對不那麼重要，就越能形成自身認為最可能發生的定價。”他補充說，這樣可以避免出現一種情況，即“金融市場只是在不斷反映我們說過的話”。
+
+---
+
+### 2026-06-18 03:30:17  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+【Kevin Warsh urges markets to price on economic fundamentals, not Fed interpretations】Federal Reserve Chair Kevin Warsh said on Wednesday he wants markets to price securities based on their own read of the economy rather than on expectations of how Fed officials will interpret data. "The more markets focus on real economic changes and can judge which data are more or less important, the more they will form pricing they consider most likely," he said, adding this would avoid a situation in which "financial markets are merely echoing what we have said."
+
+---
+
+### 2026-06-18 03:30:03  #市場 #焦點
+
+紐約期銀失守68美元/盎司，日內跌3.60%。
+
+---
+
+### 2026-06-18 03:29:35  #國際
+
+【特朗普稱美伊60天談判期並非硬性截止日期】美國總統特朗普表示，與伊朗協議中提及的60天期限並非硬性截止日期。特朗普在法國對記者表示：“我不認為這是硬性的，只要他們表現良好就行。”
+
+---
+
+### 2026-06-18 03:29:22  #市場 #焦點
+
+現貨黃金失守4230美元/盎司，日內跌2.36%。
+
+---
+
+### 2026-06-18 03:28:53  #MKT News
+
+Iran's Islamic Republic News Agency reports the United States has pledged to grant Iran access to its frozen funds during implementation of a memorandum of understanding. The two sides will agree an asset-unfreezing mechanism during negotiations.
+
+---
+
+### 2026-06-18 03:28:51  #市場 #焦點
+
+紐約期金失守4250美元/盎司，日內跌2.42%。
+
+---
+
+### 2026-06-18 03:28:39  #國際
+
+美國眾議院委員會將於6月24日就精神航空破產後的航空業競爭問題舉行聽證會。
+
+---
+
+### 2026-06-18 03:28:21  #央行 #焦點 #國際
+
+美國利率市場定價顯示，美聯儲在10月會議前加息的機率為72%。
+
+---
+
+### 2026-06-18 03:28:17  #市場 #國際
+
+美國國債價格跌幅進一步擴大；兩年期收益率上漲15個基點，報4.197%。
+
+---
+
+### 2026-06-18 03:28:08  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Kevin Warsh declined to disclose whether he had communicated with Trump】Federal Reserve Chair Kevin Warsh declined to say whether he has communicated with President Trump since formally taking office last month, but confirmed meetings with Treasury Secretary Bessent. Warsh said Bessent posted a social-media photo of their breakfast and noted the long-standing practice of weekly meetings between the Fed chair and the treasury secretary; they have met three times so far. He added Bessent is overseas this week, so a meeting this week would be an exception.
+
+---
+
+### 2026-06-18 03:28:06  #市場 #國際
+
+美國10年期國債收益率上升5個基點，報4.481%。
+
+---
+
+### 2026-06-18 03:27:58  #其他
+
+KBW銀行指數轉負，抹去了高達1.6%的漲幅。
+
+---
+
+### 2026-06-18 03:27:53  #國際
+
+美國發布與多明尼加共和國諒解備忘錄相關宣告。
+
+---
+
+### 2026-06-18 03:27:39  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IRNA reports the U.S. has pledged to issue waivers for Iranian crude, petrochemical and derivative exports and all related services from the memorandum's signing until sanctions are formally lifted.
+
+---
+
+### 2026-06-18 03:27:11  #國際
+
+伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表示：伊朗與美國將在談判期間就一項解凍資產的機制達成一致。
+
+---
+
+### 2026-06-18 03:26:38  #MKT News #CME.O
+
+Wall Street Journal reports CME CEO Terry Duffy will step down and the exchange's CFO will succeed him.
+
+---
+
+### 2026-06-18 03:26:38  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+【Fed launches reform: Chair Wash to set five working groups to reshape policy framework】Federal Reserve Chair Wash announced at his first Washington press conference a reform push creating five special working groups to review the Fed’s policy framework. The groups will cover Fed communications; the Fed balance sheet; use and reliance on existing data sources; productivity and employment in a transition era; and the Fed’s inflation framework. Teams are being formed, expected to start in the coming weeks, deliver initial analytical frameworks in autumn, and aim to complete most or all work by year-end. The communications group is expected to propose “well-considered adjustments,” potentially including changes to the Summary of Economic Projections (SEP) and the officials’ dot plot.
 
 ---
 
@@ -20240,209 +20512,5 @@ Australian unions have reached an agreement with INPEX on the Ichthys LNG facili
 ### 2026-06-17 09:23:26  #公司 #市場
 
 【抖音啟動反詐活動 平臺“長輩模式”新增預警功能】“2026抖音反詐萬里行”活動日前在京啟動。活動現場，抖音相關負責人介紹，針對老年人的高發網路詐騙，平臺升級了“長輩模式”，新增反詐風險預警功能。當60歲及以上老年人開啟該功能，遭遇詐騙高風險時，系統將向其繫結的緊急聯絡人傳送通知，為子女勸阻提供“黃金時間”。同時，平臺進一步升級“驗證助手”，並依託AI大模型與Agent風控體系，系統提升對新型詐騙的識別與阻斷能力。據瞭解，今年以來抖音已協助公安機關成功落地打擊涉詐案件34起，抓獲165人；日均攔截投稿、評論等場景異常請求1500萬次，透過多種渠道向使用者提醒700萬次。（國是直通車）
-
----
-
-### 2026-06-17 09:22:40  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish #Hang Seng Tech Index #Impact bearish #HSCEI
-
-Hang Seng Index (HSI) opened up 1.9 pts (+0.01%) at 24,495.85 on June 17. Hang Seng Tech Index opened down 21.87 pts (-0.47%) at 4,636.78. Hang Seng China Enterprises Index (HSCEI) opened down 5.35 pts (-0.06%) at 8,234.70. Red Chip Index opened down 9.28 pts (-0.22%) at 4,240.87.
-
----
-
-### 2026-06-17 09:22:20  #宏觀 #公司
-
-【山東省發改委通報“某新基建專案問題”：成立聯合調查組進駐現場核查】據“山東發改”微信公眾號，針對媒體反映山東高速資訊集團有限公司承建的某新基建專案問題，山東省發展改革委、山東省住房城鄉建設廳、山東省交通運輸廳、山東省國資委已組成聯合調查組進駐現場核查，並委託第三方專業機構對專案施工質量開展全面檢測。相關調查結果將及時向社會公佈。
-
----
-
-### 2026-06-17 09:22:16  #市場
-
-【航宇科技與Baker Hughes簽署長期SSA戰略供貨協議】據航宇科技訊息，6月16日，航宇科技與全球能源裝備巨頭Baker Hughes舉行高層戰略會談，雙方針對LT16機型及多項核心重點機型，正式簽署長期SSA（(Strategic Supply Agreement)）戰略供貨協議，鎖定未來五年各主力型號增量。航宇科技與Baker Hughes已攜手合作15年，是其燃機高溫合金包含冷端及熱端，靜止及轉動件核心戰略供應商。
-
----
-
-### 2026-06-17 09:22:09  #MKT News #Important
-
-【PBOC nets CNY261.3 bln via 7-day reverse repos today】PBOC conducted CNY420.3 bln of 7-day reverse repurchase operations today; CNY159.0 bln matured, leaving a net injection of CNY261.3 bln.
-
----
-
-### 2026-06-17 09:22:04  #國際
-
-菲律賓參議院選舉SHERWIN GATCHALIAN為新議長。
-
----
-
-### 2026-06-17 09:22:03  #央行 #中國央行
-
-央行今日開展4203億元7天逆回購操作，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-06-17 09:21:34  #央行 #其他
-
-央行今日開展4203億元7天逆回購操作，投標量4203億元，中標量4203億元，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-06-17 09:21:32  #MKT News #CNH
-
-PBOC conducted 420.3 bln yuan of 7-day reverse repos today; bid and allotment both 420.3 bln yuan; operation rate 1.40%, unchanged.
-
----
-
-### 2026-06-17 09:21:27  #焦點
-
-港股恒指高開漲0.01％，國企指數跌0.06％，科指開跌0.47%。
-
----
-
-### 2026-06-17 09:21:21  #MKT News #Important #Star Stocks #Alibaba #09901.HK #Impact bullish #01177.HK #09988.HK
-
-Hong Kong stocks opened mixed; the Hang Seng Index was up 0.01% while the Hang Seng Tech Index fell 0.47%. New Oriental (09901.HK) rose more than 2.6%, and China Biopharm (01177.HK) and Alibaba (09988.HK) gained over 1%.
-
----
-
-### 2026-06-17 09:20:53  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC
-
-Japan 5-year government bond yield fell 3.0 bps to 1.880%.
-
----
-
-### 2026-06-17 09:20:37  #MKT News #Market Regions #Japan & APAC
-
-Japan 2-year bond yield fell 1.5 bps to 1.390%.
-
----
-
-### 2026-06-17 09:20:00  #MKT News #Important #Market Themes #AI Revolution #02513.HK
-
-【Zhipu (02513.HK) open-sources GLM-5.2】Zhipu AI (02513.HK) launched and open-sourced GLM-5.2 under an MIT license with no geographic restrictions. The firm says GLM-5.2 ranked first among globally available models on CodeArena, a front-end evaluation system with over 1 mln users in blind tests. The model features a 1M-token context window for long-range tasks, improved coding ability, and infrastructure optimizations for Day‑0 operation on domestic compute. Zhipu completed Day‑0 inference adaptation on multiple Chinese compute platforms, citing integration with Huawei Ascend, T-Head (Pingtouge), Moore Threads, Cambricon, Kunlunxin, Muxi, Hygon (Haiguang) and Biren, and reports high throughput, low latency and large-concurrency stability on domestic chip clusters. Benchmarks cited place GLM-5.2’s long-range performance between Claude Opus 4.7 and 4.8 and flag it as the highest-ranked open-source model. Zhipu expects Huawei’s Ascend 950 supernode, slated for H2, to become an additional compute base for GLM-5.2.
-
----
-
-### 2026-06-17 09:19:32  #其他
-
-【智譜：今天上線並開源GLM-5.2】智譜(02513.HK)今日發文稱，上線並開源GLM-5.2。在全球百萬使用者參與盲測的前端開發評估系統CodeArena上，GLM-5.2取得全球可用模型第一的表現。今天GLM-5.2專為長程任務能力而生，全新特色包括：Solid1M上下文，穩定支撐長程任務；更強體感，更實用的Coding能力；極致Infra最佳化，Day0執行在國產算力平臺；MIT開源協議，無地域限制，技術平權無國界。1M上下文構成GLM-5.2的長程交付能力，多個長程任務基準表明GLM-5.2的表現介於Claude Opus4.7與4.8之間，是排名最高的開源模型。GLM-5.2的線上推理依託多個國產算力平臺，已在Day 0完成與華為昇騰、平頭哥、摩爾執行緒、寒武紀、崑崙芯、沐曦、海光、壁仞等國產算力平臺的推理適配，在國產晶片叢集上實現高吞吐、低延遲、大併發的穩定執行。預計下半年昇騰950超節點上市後，也將成為GLM-5.2強勁的算力底座。
-
----
-
-### 2026-06-17 09:19:19  #公司
-
-【賽微電子：公司亦莊MEMS量產線目前產能為1.5萬片/月】賽微電子6月17日在互動平臺表示，公司亦莊MEMS量產線目前產能為1.5萬片/月，公司將大力擴大晶圓類別及客戶領域，持續不斷推動促進公司本土FAB的建設運營、業務發展及業績增長，並將繼續適時有序的推動產能從當前的1.5萬片/月向3萬片/月產能的分階段針對性擴充。
-
----
-
-### 2026-06-17 09:19:16  #其他
-
-【美軍稱在東太平洋打擊“販毒船”致1人死亡】美軍南方司令部16日發表宣告說，美軍當天在東太平洋對一艘“販毒船”發動打擊，船上1人死亡。宣告說，根據美軍南方司令部司令弗朗西斯·多諾萬的命令，美軍“南方之矛”聯合特遣部隊對一艘由“被認定的恐怖組織”運營的船隻實施打擊，打死船上1名男性，無美軍人員傷亡。
-
----
-
-### 2026-06-17 09:18:21  #市場 #國際
-
-日本20年期國債收益率下跌5個基點至3.485%。
-
----
-
-### 2026-06-17 09:16:50  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內跌4%，現報3656.00點。
-
----
-
-### 2026-06-17 09:15:43  #MKT News #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures opened the day session up 0.16% at 24,512, trading a 6-point premium to the cash index.
-
----
-
-### 2026-06-17 09:15:35  #市場
-
-【人民幣兌美元中間價報6.8096，較上日調高12點】人民幣兌美元中間價報6.8096，較上日調高12點。
-
----
-
-### 2026-06-17 09:15:26  #市場
-
-人民幣兌美元中間價報6.8096元。
-
----
-
-### 2026-06-17 09:15:20  #市場 #國際
-
-日本東證股價指數(TOPIX)上漲0.5%，報4,011.90點。
-
----
-
-### 2026-06-17 09:15:03  #市場
-
-恒指期貨日盤開盤漲0.11%，報24509.76點，高水15.81點。
-
----
-
-### 2026-06-17 09:14:55  #公司 #國際
-
-【加拿大總理卡尼證實他已看到了美伊協議：加拿大支援執行該協議的努力】加拿大總理馬克·卡尼表示，美伊結束戰爭的諒解備忘錄是一個“遊戲規則改變者”，並稱加拿大支援執行該協議的努力。“我們對達成的協議非常滿意。它為確保伊朗不擁有核武器奠定了基礎，並且可能隨著時間的推移促進該地區經濟的重新融合，以及在黎巴嫩實現和解的進展，”卡尼說。卡尼證實他已經看到了該協議，該協議尚未由美國正式釋出，並表示他“絕對”支援它，補充說在法國舉行的七國集團峰會上“每個人都是如此”。
-
----
-
-### 2026-06-17 09:13:49  #市場 #焦點
-
-甲醇連續主力合約日內跌2%，現報2657.00元。
-
----
-
-### 2026-06-17 09:13:36  #MKT News #WTI #Impact bearish #Brent
-
-Canadian Prime Minister Carney said Trump informed him of a US-Iran memorandum of understanding that Canada supports and that the MoU paves the way to resolving the crisis in Lebanon.
-
----
-
-### 2026-06-17 09:12:51  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Near Lowest in 3 Months — US gasoline prices held below $2.90 per gallon, the lowest since early March, as the US-Iran deal is expected to reopen the Strait of Hormuz and support a return of energy exports from the Middle East. The interim pact, due to be signed on Friday, states that Tehran would receive broad financial incentives, including the immediate right to sell its oil. Still, markets are assessing the durability of the agreement and the timeline for shipping through the Strait to normalize, as many operators may wait several weeks before resuming tanker transits. Producers have also warned that a full recovery could take months, citing technical and geological constraints as well as infrastructure damage. Meanwhile, industry data showed that gasoline inventories rose by 2.48 million barrels in mid-June, reversing the previous week's 1.19 million-barrel decline.
-
----
-
-### 2026-06-17 09:12:48  #MKT News
-
-【Harbin Jiuzhou Group, Xinfengguang Sign Strategic Cooperation Agreement】Harbin Jiuzhou Group Co., Ltd. and Xinfengguang Electronic Technology Co., Ltd. signed a strategic cooperation agreement in Harbin to collaborate on power‑electronics equipment, power‑quality remediation and integrated energy services, leveraging complementary core capabilities for coordinated development.
-
----
-
-### 2026-06-17 09:11:39  #公司
-
-【萊伯泰科耗材連續五年中標廣電計量集中採購專案】據萊伯泰科訊息，近日，廣電計量2026-2028年度試劑耗材集中採購專案中標結果公告：萊伯泰科成功中標專案第三包組。本次中標是萊伯泰科連續五年成功入選該專案。
-
----
-
-### 2026-06-17 09:11:05  #公司
-
-【九洲集團與新風光簽署戰略合作協議】6月15日，哈爾濱九洲集團股份有限公司（簡稱“九洲集團”）與新風光電子科技股份有限公司（簡稱“新風光”）戰略合作簽約儀式在哈爾濱舉行。本次合作聚焦電力電子裝備、電能質量治理、綜合能源服務領域，依託各自核心優勢互補共進、協同發展。
-
----
-
-### 2026-06-17 09:10:56  #其他
-
-中央氣象臺6月17日06時繼續釋出暴雨橙色預警，交通運輸部維持強降雨二級防禦響應。
-
----
-
-### 2026-06-17 09:09:17  #公司
-
-【山東成立聯合調查組】據山東省發展和改革委員會網站：針對媒體反映山東高速資訊集團有限公司承建的某新基建專案問題，山東省發展改革委、山東省住房城鄉建設廳、山東省交通運輸廳、山東省國資委已組成聯合調查組進駐現場核查，並委託第三方專業機構對專案施工質量開展全面檢測。相關調查結果將及時向社會公佈。（新華社）
-
----
-
-### 2026-06-17 09:09:05  #其他
-
-【北斗衛星簡訊服務上線 無需下載App 簡訊入口即可直接傳送】期受極端災害影響，處於無地面網路通訊訊號的緊急情況下，市民可利用北斗衛星導航系統實現應急聯絡。北斗衛星簡訊應急通訊服務已上線。只要手機具備北斗衛星簡訊功能，即可傳送附帶精準位置座標的衛星簡訊，及時傳遞災情資訊、報平安或請求救援。 “無需下載任何App，簡訊入口就能直接傳送。”相關技術人員介紹，北斗衛星簡訊服務依託我國自主建設的北斗衛星導航系統，專門解決無地面訊號覆蓋下的簡訊收發難題，適用於防汛防災、戶外自駕、野外執勤值守、無人區探險穿越等場景。這項服務不使用不收費，一旦傳送則按條計費，接收免費，市民在手機設定中開啟北斗衛星簡訊功能即可直接使用。目前，三大運營商均已支援該項服務。同時，北斗衛星簡訊接收方的終端無特別要求，不具備北斗衛星簡訊傳送功能的手機也可正常接收。（北京日報）
-
----
-
-### 2026-06-17 09:08:58  #公司 #市場
-
-【南鋼與力拓開展首個皮爾巴拉鐵礦鹼性球團工業試驗】據力拓集團訊息，南京鋼鐵股份有限公司（簡稱“南鋼”）與力拓成功開展采用皮爾巴拉混合粉礦（Pilbara Blend Fines）生產鹼性球團的工業試驗，實現力拓皮爾巴拉鐵礦石在該領域的突破。透過在南鋼基地開展此次試驗，皮爾巴拉混合粉礦在高配比條件下實現了高質量鹼性球團的工業規模生產。相較普通球團，鹼性球團在高爐中適應性更強，從而有助於提升鍊鐵效率、降低燃料消耗及碳排放。
 
 ---

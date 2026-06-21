@@ -1,7 +1,126 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-22 06:38:47_
-_本檔包含 3796 則快訊，約 649371 字_
+_更新時間：2026-06-22 07:06:31_
+_本檔包含 3777 則快訊，約 648515 字_
+
+---
+
+### 2026-06-22 07:04:32  #公司 #國際
+
+韓國電力公司宣佈第三季度電價保持不變。
+
+---
+
+### 2026-06-22 07:03:17  #其他
+
+【注意防範暴雨、強對流天氣，中央氣象臺釋出預警】據中央氣象臺訊息，6月22日8時至23日8時，我國部分地區有大到暴雨，局地有雷暴大風或冰雹等強對流天氣。預計，6月22日8時至23日8時，貴州中部和東部、重慶東南部、湖南中北部、湖北東部、江西北部、安徽南部、江蘇南部、浙江北部、上海以及廣西北部、雲南西部和東北部、四川東北部和東南部、河北西北部、內蒙古東北部、西藏東南部等地部分地區有大到暴雨，其中，貴州中部和東部、湖南西部、江西北部、江蘇南部等地的部分地區有大暴雨（100～230毫米）。
+
+---
+
+### 2026-06-22 07:02:00  #宏觀
+
+【今天15點，將舉行重要釋出會】國務院新聞辦公室將於2026年6月22日（星期一）下午3時舉行新聞釋出會，請商務部副部長兼國際貿易談判副代表凌激和國家發展改革委、財政部有關負責人介紹利用外資固穩促優有關政策措施。（央視）
+
+---
+
+### 2026-06-22 07:01:52  #MKT News
+
+【State Council press briefing 15:00 today on measures to stabilize and optimize foreign investment】The State Council Information Office will hold a press briefing at 15:00 on Monday, June 22, 2026. MOFCOM vice minister and deputy international trade representative Ling Ji, together with officials from the NDRC and the Ministry of Finance, will outline policy measures to leverage foreign investment to stabilize activity and improve investment quality.
+
+---
+
+### 2026-06-22 07:00:58  #其他
+
+【新型量子感測裝置能有效抵消鐳射噪聲】據最新一期《自然》雜誌報道，英國帝國理工學院研究團隊構建了一種新型量子感測裝置，首次在實驗中驗證了長基線原子干涉儀的關鍵工作原理。該裝置能夠有效抵消鐳射噪聲，即使單次測量完全被噪聲淹沒，也能恢復出微弱訊號。這一成果解決了尋找暗物質和引力波的重大難題，是邁向未來大型基礎物理量子感測器的重要里程碑。
+
+---
+
+### 2026-06-22 07:00:43  #其他
+
+【人體蛋白質“高精地圖”繪製成功】從西湖大學獲悉，該校醫學院郭天南教授團隊聯合多家科研單位，收集了近3000份人體組織樣本，覆蓋58種正常組織、25種癌症型別，對超過1.3萬種蛋白質進行定量分析，成功繪製出迄今解析度最高、覆蓋範圍最廣的人體蛋白質組空間圖譜。相關成果日前在《自然》雜誌刊發。目前，這項研究的所有資料已透過公開資料庫向全球開放。
+
+---
+
+### 2026-06-22 06:58:53  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Extends Gains on Consumer Staples Boost — The NZX 50 climbed 54 points, or 0.4%, to 13,549 in Monday morning trade, extending gains from the prior session, mainly supported by advances in consumer staples, materials, and healthcare stocks. Consumer staples surged 5.6%, boosted by a jump in A2 Milk, which soared 11.1% after the company received highly coveted regulatory approval from China to produce infant formula at Pokeno. The broader index hit its highest level since March 4, extending its second weekly rise as last week's data continued to support sentiment. New Zealand's GDP growth accelerated to 0.8% qoq in Q1, while annual growth held steady at 1.5%. However, a decline in US futures capped the gains, as President Trump's threats to restart the war with Iran, even as Vice President JD Vance met with Iranian officials for the first talks under an interim peace deal, weighed on sentiment. Other early gainers included Gentrack Group (2.1%), AFT Pharmaceuticals (1.9%), F&C Investment Trust (1.7%), and Fisher & Paykel (0.9%).
+
+---
+
+### 2026-06-22 06:58:32  #國際
+
+伊朗隊主帥稱，本屆世界盃不敗開局將被載入史冊。
+
+---
+
+### 2026-06-22 06:58:08  #國際
+
+市場資訊：日本擬到2040年在17個戰略領域投資約2.3萬億美元。
+
+---
+
+### 2026-06-22 06:56:19  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、超一千二百家企業齊聚第四屆鏈博會 連結世界 共創未來
+2、5月中國快遞發展指數為472.9 行業規模持續擴容
+3、前5月國家鐵路傳送貨物16.7億噸 同比增長1.8%
+4、中國品牌汽車在厄瓜多表現亮眼
+5、三部門公佈《網路資料安全風險評估辦法》
+6、消費平穩增長態勢沒有變
+7、四部門印發通知 推動海洋經濟領域就業穩崗擴容提質
+8、市場監管總局出臺通知 加強眼鏡制配場所全鏈條計量監管
+9、存在未公開個人資訊收集使用規則等問題 30款APP被通報
+10、北京交通行業車輛新能源化率達48% 中心城區綠色出行比例達76.5%
+11、上海碳普惠平臺一年碳減排量超33萬噸 已累計開設個人碳賬戶約45萬個。
+
+---
+
+### 2026-06-22 06:56:11  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“必須把我們黨建設好、建設強”（總書記的人民情懷）
+2、各地區各部門各單位深入開展學習教育——把政績刻在群眾心坎上（樹立和踐行正確政績觀）
+3、重慶涪陵因地制宜做強做優特色產業
+4、陝西榆林全面改善生態環境質量 紅色基因永傳承 綠色發展繪新篇（老區新事）
+5、端午假期 全社會跨區域人員流動量預計超6.5億人次
+6、端午假期 全國消費市場執行平穩。
+
+---
+
+### 2026-06-22 06:49:48  #國際
+
+【經濟日報金觀平：攜手共促全球產業鏈供應鏈合作】6月22日，主題為“連結世界、共創未來”的第四屆中國國際供應鏈促進博覽會於北京開幕。來自85個國家、地區和國際組織的676家中外鏈主企業、專精特新企業和行業機構攜手產供鏈上下游合作伙伴參展。外資參展商比例達到36.5%，世界500強及行業龍頭企業參展佔比超過65%。參展熱情空前高漲，一方面凸顯全球產業鏈供應鏈合作的強大需求；另一方面也表明我國作為全球產業鏈供應鏈的重要環節，一直以實際行動為深化全球產業鏈供應鏈合作、構建開放型世界經濟貢獻力量。
+
+---
+
+### 2026-06-22 06:46:59  #MKT News
+
+【Israeli media: Israel considering 'small-scale' pullback from southern Lebanon】Channel 12 reported on the evening of the 21st that Israel is considering a 'small-scale' pullback from southern Lebanon. Israeli political and security leadership held consultations over the past 24 hours and have been communicating with the US at multiple levels. Citing senior officials, the report said Israel has not received any US request to withdraw forces from southern Lebanon, but is studying limited withdrawals from areas beyond the Blue Line currently held by the IDF. The report added US pressure has raised the likelihood of an IDF pullback, while Israel stressed its bottom line is to remain within the Blue Line.
+
+---
+
+### 2026-06-22 06:46:24  #國際
+
+【以媒：以色列正考慮從黎巴嫩南部“小規模撤軍”】以色列第12頻道電視臺網站21日晚報道說，以色列正在考慮從黎巴嫩南部“小規模撤軍”。報道稱，以色列政治高層和安全系統在過去24小時內舉行了一系列磋商，以色列與美國也在“各個層級”進行了溝通。報道援引知情高階官員的話說，以方目前尚未收到任何美方要求以軍撤出黎巴嫩南部的請求，但以方正在研究從一些位於“黃線”以外、目前由以軍控制的區域實施“小規模撤離”。（新華社）
+
+---
+
+### 2026-06-22 06:44:58  #國際
+
+特朗普將於週一下午3點30分簽署行政令。
+
+---
+
+### 2026-06-22 06:40:46  #市場
+
+【私募備案高位分化，兩類權益策略潛力可觀】今年以來，A股市場震盪走強，以AI為代表的科技主線顯現強勁的賺錢效應。這股暖流直接傳導至產品發行端，證券私募行業的新產品備案表現出顯著的高熱態勢。然而，總量的繁榮之下，行業競爭格局正在重塑。當頭部機構憑藉穩健收益大舉跑馬圈地時，不少中小機構的產品募資不盡如人意。股票策略與多資產策略成為今年新產品發行的兩大主力軍，多位業內人士表示，這兩類策略下半年的新產品增長潛力預計較為可觀。（中證報）
+
+---
+
+### 2026-06-22 06:39:48  #公司
+
+【年內2297家上市公司合計分紅派現近7000億元】A股市場正迎來年度分紅的集中落地高峰。資料顯示，截至6月21日，滬深兩市已有2297家上市公司完成2025年度現金分紅，累計派發金額達6972.65億元。 (證券日報)
 
 ---
 
@@ -22678,221 +22797,5 @@ USD/JPY intraday gains widened to 0.50%, trading at 161.44.
 ### 2026-06-19 00:55:29  #宏觀
 
 【共和黨議員提議限制國會議員利用預測市場獲利】一名眾議院共和黨人提出一項法案條款，擬禁止國會議員參與某些預測市場。這是旨在解決外界對議員可能利用內幕資訊牟利之擔憂的最新舉措。該法案由威斯康星州共和黨眾議員布萊恩.斯泰爾(Bryan Steil)於週四提出。法案將限制眾議員及其配偶和受撫養子女對特定政府政策、行動以及政治結果等事件下注。違反該規定的議員將被要求支付2,000美元或交易價值10%的罰款（以金額較高者為準），並交出其下注所得的任何收益。該法案出臺之際，各界正推動設定進一步的限制條件，以監管快速增長的預測市場上潛在的內幕交易行為。
-
----
-
-### 2026-06-19 00:55:03  #MKT News #WTI #Impact bullish #Brent
-
-【Germany dispatches vessels toward Strait of Hormuz for mine‑clearing mission】Germany’s defence minister Pistorius said on the 18th the minesweeper Fulda and supply ship Mosel have transited the Suez Canal to the Red Sea and are headed for the Strait of Hormuz, with Berlin seeking a rapid deployment. He said mine‑clearing in the Strait would require a clear international legal framework and the consent of Iran and Oman.
-
----
-
-### 2026-06-19 00:54:23  #國際
-
-【德國派遣艦艇以備霍爾木茲海峽掃雷任務】德國國防部長皮斯托裡烏斯18日表示，德國已經派遣海軍掃雷艇“富爾達”號和補給艦“摩澤爾”號透過蘇伊士運河，前往紅海。德方希望能夠迅速抵達霍爾木茲海峽投入行動。皮斯托裡烏斯還表示，在霍爾木茲海峽開展掃雷行動需要有明確的國際法框架，並需徵得伊朗和阿曼的同意。（央視新聞）
-
----
-
-### 2026-06-19 00:52:46  #國際
-
-美國地質調查局：菲律賓博邦東南偏東63公里處發生5.3級地震。
-
----
-
-### 2026-06-19 00:52:24  #市場
-
-現貨黃金日內跌1%，現報4214.91美元/盎司。
-
----
-
-### 2026-06-19 00:52:21  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold down more than 1.0% intraday, trading at $4,215.05/oz.
-
----
-
-### 2026-06-19 00:52:03  #MKT News
-
-US Homeland Security Secretary: US agencies intercepted more than 50 drones near World Cup venues.
-
----
-
-### 2026-06-19 00:51:55  #國際
-
-美國國土安全部部長表示，美國機構在世界盃場地附近繳獲了超50架無人機。
-
----
-
-### 2026-06-19 00:51:38  #其他
-
-LME期銅收跌124美元，報13690美元/噸。LME期鋁收跌24美元，報3386美元/噸。LME期鋅收漲50美元，報3638美元/噸。
-
----
-
-### 2026-06-19 00:51:01  #國際
-
-特朗普：去看看股市吧。
-
----
-
-### 2026-06-19 00:50:53  #市場
-
-【數字貨幣市場普跌，Solana目前跌超4%】最近24小時，MarketVectorTM數字資產100小盤指數下跌5.91%，暫報2264.63點，期內主要交投於2350點附近，北京時間23:00以來加速下跌。MarketVectorTM數字資產100中盤指數跌5.84%，報2612.84點，23:57跌至2598.47點。MarketVector數字資產100指數跌4.91%，報12442.42點。目前，Solana跌4.40%，狗狗幣跌3.59%，XRP跌3.35%。比特幣跌2.71%，暫報62620.30美元；以太坊跌3.21%，暫報1684.77美元。
-
----
-
-### 2026-06-19 00:50:32  #MKT News #Important #S&P500 #WTI #Brent
-
-President Trump denied reports that the U.S. paid $300 billion to Iran, calling them fake news. He said the U.S. is experiencing success, low oil prices and victory, cited the stock market as evidence and accused Democrats of spreading propaganda.
-
----
-
-### 2026-06-19 00:50:22  #焦點 #國際
-
-特朗普：美國沒有向伊朗支付3000億美元。
-
----
-
-### 2026-06-19 00:50:06  #MKT News #Important
-
-U.S. oil rig count for the week to June 19 due in 10 minutes.
-
----
-
-### 2026-06-19 00:49:48  #國際
-
-市場訊息：美國最高法院限制政府禁止毒品使用者擁有槍支的能力。
-
----
-
-### 2026-06-19 00:49:23  #MKT News
-
-U.S. Treasury said the Office of Foreign Assets Control will sanction additional individuals in Lebanon, Syria, Iraq and Oman for raising funds for Hezbollah.
-
----
-
-### 2026-06-19 00:49:03  #MKT News
-
-U.S. Treasury sanctioned Lebanese officials and other individuals allied with Hezbollah for obstructing the Lebanese peace process and delaying Hezbollah's disarmament.
-
----
-
-### 2026-06-19 00:48:24  #市場 #國際
-
-【美伊協議為伊朗石油出口鬆綁 或迅速增加全球供應】隨著美伊本週達成旨在結束戰爭並解除美國海上封鎖的協議，伊朗認為這是迅速恢復石油出口的機會。在伊朗獲得及時喘息之機的同時，德黑蘭的增產可能加劇油價下行壓力。兩名伊朗石油官員表示，與其他受戰爭影響的產油國相比，伊朗減產幅度要小得多，從而有望迅速恢復原油生產和出口。伊朗與美國總統唐納德·特朗普週三簽署的諒解備忘錄將立即終止美國實施的海上封鎖。該封鎖是美國針對伊朗關閉霍爾木茲海峽採取的報復措施。伊朗可以迅速為全球市場增加逾1%的原油供應。在和平協議有望達成的預期推動下，油價近幾周已大幅下跌。對伊朗而言，增加石油銷售將為長期受制裁和貨幣貶值衝擊的經濟帶來緩解。根據諒解備忘錄，美國表示在雙方達成最終協議後將解除制裁。
-
----
-
-### 2026-06-19 00:47:19  #市場 #央行 #國際
-
-【德國兩年期國債收益率於沃什首秀次日漲2個基點】週四（6月18日）歐市尾盤，德國10年期國債收益率漲0.2個基點，報2.929%，日內交投於2.945%-2.916%區間，整體大致呈現出W形走勢。兩年期德債收益率漲2.0個基點，報2.607%，美聯儲主席凱文·沃什首秀過後，跳空高開至2.827%，瞬間回撤至2.619%，日內絕大部分時間交投於這一水平附近；30年期德債收益率跌1.3個基點，報3.468%，跳空低開之後主要持穩於這樣的水平。2/10年期德債收益率利差跌1.935個基點，報+32.060個基點，14:27曾跳水至+24.881個基點。
-
----
-
-### 2026-06-19 00:47:14  #市場 #央行 #國際
-
-【英國兩年期國債收益率在央行決議日漲約3個基點】週四（6月18日）歐市尾盤，英國10年期國債收益率漲0.6個基點，報4.757%，美聯儲主席凱文·沃什上任以來首次新聞釋出會過後微幅高開，北京時間19:00英國央行宣佈利率決定、釋放鴿派訊號之後回撤至4.770%下方，短線出現一波V形走勢——19:15重新整理日高至4.782%。兩年期英債收益率漲2.8個基點，報4.185%，英國央行宣佈按兵不動時重新整理日高至4.220%。30年期英債收益率跌1.3個基點，50年期英債收益率跌0.8個基點。2/10年期英債收益率利差跌3.799個基點，報+56.882個基點，15:00跳空低開、英國央行釋出利率決定時候重新整理日低至+55.876個基點。
-
----
-
-### 2026-06-19 00:47:00  #宏觀 #國際
-
-美國財政部：外國資產控制辦公室（OFAC）還將額外針對黎巴嫩、敘利亞、伊拉克和阿曼境內為真主黨籌集資金的人員實施制裁。
-
----
-
-### 2026-06-19 00:46:30  #宏觀 #國際
-
-美國財政部：因親真主黨的黎巴嫩官員及其他相關方阻礙黎巴嫩和平程序、拖延真主黨解除武裝，對其實施制裁。
-
----
-
-### 2026-06-19 00:46:24  #Trading Economics #Markets #commodity #Importance 0
-
-Platinum is down by 5% — Platinum decreased 5% to 1703.2 USD/t.oz
-
----
-
-### 2026-06-19 00:45:12  #國際
-
-英國國防大臣：英國將提供 15 萬架烏克蘭國產無人機，外加 350 餘枚防空導彈與配套雷達；整套援助方案價值 7.52 億英鎊，資金來源於變賣被扣押的俄羅斯資產。
-
----
-
-### 2026-06-19 00:42:17  #國際
-
-【伊朗最高領袖將就伊美備忘錄表態】伊朗媒體當地時間6月18日晚報道，伊朗最高領袖穆傑塔巴·哈梅內伊將於數小時後就旨在結束戰爭的伊美諒解備忘錄釋出重要資訊。（CCTV國際時訊）
-
----
-
-### 2026-06-19 00:42:01  #其他
-
-OpenAI總裁兼聯合創始人Greg Brockman：藉助OpenAI，在376例此前未能確診的疑難病例中，成功得出18項全新診斷結果。
-
----
-
-### 2026-06-19 00:41:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Prime Minister Netanyahu said Israel will not withdraw troops from southern Lebanon until it has ensured its own security.
-
----
-
-### 2026-06-19 00:41:03  #MKT News
-
-Niger government said an attack at Diori Hamani International Airport killed 11 security personnel and two civilians.
-
----
-
-### 2026-06-19 00:40:00  #宏觀 #國際
-
-美國財政部網站訊息：美國對與真主黨有關聯的實體出臺新制裁措施。
-
----
-
-### 2026-06-19 00:39:56  #MKT News #XAUUSD #Impact bullish #DXY
-
-The U.S. Treasury posted new sanctions on HEZBOLLAH on its website.
-
----
-
-### 2026-06-19 00:38:40  #其他
-
-養老金與投資研究諮詢公司建議英偉達股東在年度股東大會（AGM）上投票支援要求披露溫室氣體排放的決議。
-
----
-
-### 2026-06-19 00:37:55  #公司
-
-【機構最新調研路線圖出爐 盛美上海最受關注】Wind資料顯示，機構本週（6月15日至6月18日）共調研了175家上市公司，其中盛美上海最獲關注，參與調研的機構為129家。澳華內鏡、晶升股份、鵬翎股份分別獲57家、36家、32家機構調研。據統計，京東方A獲機構調研4次，雲漢芯城獲調研3次，華銳精密、萊伯泰科等多股獲調研2次。從調研行業來看，機構持續聚焦商品化工、工業機械、電子元件等板塊。
-
----
-
-### 2026-06-19 00:37:16  #其他
-
-訊息人士稱，格雷洛克資本將退出委內瑞拉債權人委員會指導委員會。
-
----
-
-### 2026-06-19 00:37:12  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver down 3.0% intraday at $65.88/oz.
-
----
-
-### 2026-06-19 00:37:05  #公司 #市場
-
-【SpaceX盤中一度下挫10% 散戶資金顯現退卻的跡象】SpaceX股價的走勢證明，即便是史上規模最大的首次公開募股(IPO)，也難以免受大型公司上市後常見的股價波動的衝擊。Founder Funds駐達拉斯的合夥人兼投資組合經理Michael Monaghan表示，在投資者權衡未來收入高增長預期與實現路徑並不清晰之際，股價可能還將持續波動。該機構持有SpaceX股票。Vanda Research資料顯示，在SpaceX上市最初幾天一直是淨買家的散戶投資者，週三有所退卻，大部分時間淨流入接近持平，至收盤時僅錄得230萬美元的小幅淨買入。這種情緒似乎延續到了週四。開盤後的前10分鐘內，散戶淨賣出350萬美元，隨後資金流趨於穩定，並重新轉為淨買入。
-
----
-
-### 2026-06-19 00:36:48  #MKT News
-
-From Friday local time, France expanded heatwave warnings to 53 departments.
-
----
-
-### 2026-06-19 00:36:35  #MKT News
-
-【Foreign Ministry responds after South Korean official reiterates joint communique wording on Taiwan】South Korea's foreign ministry director-general for Northeast Asia and Central Asia, Nam Jin, told reporters on the 18th that the China–South Korea joint communique states “The Government of the Republic of Korea recognizes the Government of the People’s Republic of China as the sole legal government of China and respects China’s position that there is only one China and that Taiwan is part of China,” and that Seoul’s position has not changed. China’s foreign ministry said it positively evaluated the full, public restatement and said it hopes and believes Seoul will adhere to the original intent of establishing diplomatic relations, honor political commitments, implement the One-China principle in practice and safeguard the political basis of China–South Korea relations.
 
 ---

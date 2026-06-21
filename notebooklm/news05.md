@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-22 06:38:47_
-_本檔包含 3391 則快訊，約 648932 字_
+_更新時間：2026-06-22 07:06:31_
+_本檔包含 3383 則快訊，約 647854 字_
+
+---
+
+### 2026-06-16 07:51:50  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Holds Advance as US-Iran Deal Eyed — Gold traded above $4,300 an ounce on Tuesday after rising more than 2% in the previous session, as expectations that a US-Iran peace agreement would reopen the Strait of Hormuz eased fears of an energy-driven inflation shock that had fueled interest rate hike expectations. The interim accord is expected to be signed by both sides in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving investors cautious. Markets also looked ahead to a series of central bank policy decisions this week, with the Federal Reserve set to hold its first meeting under new chair Kevin Warsh and widely expected to leave interest rates unchanged.
+
+---
+
+### 2026-06-16 07:50:46  #公司 #國際
+
+【通用汽車洽談為洛克希德・馬丁供應武器零部件】據知情人士透露，通用汽車正與洛克希德・馬丁展開磋商，計劃為這家防務企業生產武器配套零部件。知情人士稱，按照合作方案，通用汽車將量產通用標準零部件，助力洛克希德・馬丁提升彈藥產能；雙方目前正在商議由通用承接哪些零部件的製造工作。相關人士表示，合作協議尚未敲定，合作框架條款仍存在變動可能。受烏克蘭、伊朗地區衝突影響，導彈及各類核心武器庫存持續消耗、庫存告急。為補足軍備儲備，特朗普政府與美國國防部官員一方面督促軍工企業提速生產，另一方面積極拉攏通用汽車這類非軍工製造企業參與軍備製造。通用汽車執行長瑪麗・博拉已與特朗普政府官員會面，商討車企擴大軍工業務佈局事宜；目前通用旗下防務板塊業務規模尚小，企業有意拓展該領域。
+
+---
+
+### 2026-06-16 07:50:28  #MKT News #LMT.N #Impact bullish #GM.N
+
+According to the Wall Street Journal, GM is in talks with Lockheed to supply weapons components; GM would manufacture common parts that could help Lockheed ramp up ammunition production.
+
+---
+
+### 2026-06-16 07:49:02  #其他
+
+通用汽車將生產通用零部件，助力洛克希德·馬丁提升彈藥產量。
+
+---
+
+### 2026-06-16 07:48:43  #其他
+
+澳新銀行將紐西蘭年度通脹預期下調至4.1%。
+
+---
+
+### 2026-06-16 07:48:28  #其他
+
+通用汽車與洛克希德·馬丁的合作協議尚未最終敲定。
+
+---
+
+### 2026-06-16 07:48:20  #公司
+
+市場訊息：通用汽車正洽談向洛克希德·馬丁公司供應武器零部件。
+
+---
+
+### 2026-06-16 07:47:40  #市場 #央行 #國際
+
+【中東擔憂緩解 日經指數或走高】在美伊達成和平協議之後，隨著對中東衝突的擔憂緩解，日本股市或將走高。新加坡交易所日經指數期貨上漲0.1%，報69520點。在美國總統特朗普表示霍爾木茲海峽將於週五全面開放後，投資者正關注原油價格。將於週二晚些時候公佈的日本央行利率決定也備受關注。週一日經指數上漲5.0%，達到創紀錄的69317.50點。
+
+---
+
+### 2026-06-16 07:46:57  #公司 #國際
+
+【中國生物製藥：TQC2938（ST2單抗）於EAACI 2026公佈II期臨床資料】中國生物製藥在港交所公告，附屬公司正大天晴藥業集團股份有限公司自主研發的國家1類創新藥TQC2938（ST2單抗）於2026年歐洲過敏與臨床免疫學學會 (EAACI 2026) 年會上，以口頭報告形式公佈了針對中重度季節性過敏性鼻炎 (SAR) 患者的II期臨床研究結果。TQC2938是全球首個在SAR領域取得積極臨床資料的ST2單抗，有望為對現有治療應答不佳的SAR患者提供一種全新的治療或預防策略。
+
+---
+
+### 2026-06-16 07:45:58  #市場 #國際
+
+基準10年期日本國債期貨早盤下跌0.09點。
+
+---
+
+### 2026-06-16 07:45:48  #市場 #國際
+
+日本日經指數期貨早盤上漲0.2%。
+
+---
+
+### 2026-06-16 07:45:09  #MKT News
+
+Senate minority leader Schumer said nearly 24 hours after Trump announced a memorandum of understanding with Iran there are still no details. Schumer urged Trump to immediately brief Congress and the American people and to explain the agreement’s terms to bring the war to an end.
+
+---
+
+### 2026-06-16 07:44:26  #觀點
+
+【華泰證券：工信部提升光伏元件效率標準 行業拐點或逐步顯現】華泰證券研報稱，近日，工業和資訊化部科技司釋出《光伏產品分級分類 第1部分：光伏元件（報批稿）》（簡稱《報批稿》），與此前國標徵求意見稿相比，報批稿將元件效率門檻大幅提升。華泰證券預計公示期（6月13日—7月12日）後將推進後續批准、釋出、實施流程，或將率先透過央國企元件集採作用於市場。看好此舉有望加速產能出清，利好BC/HJT/TOPCon3.0等高效電池元件，技術落後或資金緊缺的二三線企業有望逐步出清，華泰證券基於主流產品/冠軍產品效率測算產品出清規模為327.6/153.6GW，比例達33%/15%。考慮到2026年下半年光伏需求側同比壓力有望緩解，市場+行政手段加速供給側出清，看好行業拐點或逐步顯現，電池元件及漿料龍頭有望率先迎來盈利改善。
+
+---
+
+### 2026-06-16 07:43:34  #央行 #國際
+
+日本經濟再生擔當大臣木內表示，將出席今天的日本央行會議，對日本央行今天將加息的市場主流觀點不予置評。強烈希望日本央行在尋求可持續、穩定地實現2%通脹目標的過程中，與政府保持溝通並緊密合作。
+
+---
+
+### 2026-06-16 07:42:23  #MKT News
+
+【Trump tweet may have confused $300m with $300bn】Early on June 16 at the G7 in France, US President Trump tweeted that Iran had agreed never to possess nuclear weapons and called reports the US would pay Iran $300m fake news. It is unclear what Trump meant by the $300m reference. Iranian media on June 15 published a 14-point US‑Iran memorandum that includes a clause calling for a US-and-allies reconstruction plan for Iran of at least $300bn.
+
+---
+
+### 2026-06-16 07:41:54  #MKT News
+
+KIUCHI said he strongly hopes the Bank of Japan and the government maintain close communication and jointly work to ensure the 2% inf target is achieved sustainably and stably.
+
+---
+
+### 2026-06-16 07:41:25  #公司 #國際
+
+【特朗普否認美將給伊朗巨資  或弄混3億和3000億美元】當地時間6月16日凌晨，正在法國出席七國集團峰會的美國總統特朗普在社交平臺發文稱，“伊朗已經同意永遠不會擁有核武器！ 有關‘美國將向伊朗支付3億美元’的報道是假新聞，是民主黨人散佈出來的。”目前尚不清楚特朗普所指的“3億美元”具體是什麼。而伊朗媒體昨天披露的伊美諒解備忘錄14項條款中涉及具體金額的一項為：美國及其盟友有必要提出對伊朗的重建計劃，金額至少3000億美元。
+
+---
+
+### 2026-06-16 07:41:07  #MKT News #USDJPY #Impact bearish #DXY #Nikkei 225
+
+Kiuchi, Japan’s minister for economic and fiscal policy, declined to comment on the market consensus that the Bank of Japan will raise rates today.
+
+---
+
+### 2026-06-16 07:40:53  #國際
+
+【美軍證實B-52轟炸機墜毀致8名機組人員全部遇難】當地時間6月15日，美國加利福尼亞州愛德華茲空軍基地釋出宣告稱，當天美國空軍一架B-52轟炸機在該基地起飛後不久墜毀，機上載有8人。初步跡象顯示，此次事故“無人生還”。美軍愛德華茲空軍基地釋出訊息說，該轟炸機於當地時間15日11時20分左右從該基地起飛，不久後墜毀。初步調查顯示，“這一墜機事故無生還機會”。救援人員已趕赴現場，相關部門正在核實情況。事故原因正在調查中。愛德華茲空軍基地將於當地時間15日16時15分舉行新聞釋出會，通報更多細節。第412測試聯隊表示，事發時，這架B-52轟炸機正在執行“例行測試任務”。據悉，墜機地點位於洛杉磯以北約160公里處。B-52戰略轟炸機綽號“同溫層堡壘”，通常由5名機組人員駕駛，可搭載核武器以及多種精確制導武器，自1955年起服役至今。（央視）
+
+---
+
+### 2026-06-16 07:39:58  #MKT News
+
+Finance Minister Kiuchi will attend today’s Bank of Japan meeting.
+
+---
+
+### 2026-06-16 07:39:57  #資料 #市場 #央行
+
+【澳大利亞聯儲今日公佈利率決議 澳債價格下跌】澳大利亞債券價格在澳大利亞儲備銀行政策決定公佈前下跌。澳大利亞3年期國債收益率上升4個基點至4.47%，10年期國債收益率上升5個基點至4.86%。調查顯示，除一名經濟學家外，其餘受訪經濟學家均預測，悉尼時間下午2點30分（北京時間12:30）澳洲聯儲公佈利率決議，官方現金利率將維持4.35%不變；僅一人預測利率上調至4.6%。澳洲聯儲行長米歇爾・布洛克將於當地時間下午3點30分出席媒體釋出會併發言。
+
+---
+
+### 2026-06-16 07:39:23  #公司
+
+【國際石油公司Blackrod一期專案提前實現首油，產量達峰預期較計劃提前一季度】國際石油公司（IPC）當地時間6月15日宣佈，位於加拿大的Blackrod專案一期已於5月31日實現首油，較計劃提前並在預算內完成。一期專案設計日產量峰值為3萬桶，預計於2027年底達到，較2023年專案批准時的原定指引提前一個季度。Blackrod一期經探明及概算儲量為3.11億桶油當量，Blackrod資產整體還擁有11億桶油當量的或有資源量（最佳估算，未做風險調整）。
+
+---
+
+### 2026-06-16 07:38:57  #公司 #市場 #觀點
+
+【華泰證券：AI正在推動遊戲行業從內容工業向智慧互動工業演進】華泰證券研報稱，AI正在推動遊戲行業從內容工業向智慧互動工業演進，華泰證券認為行業核心受益方向如下：1.AI驅動研發工業化升級，透過全鏈路提效降低研發成本。建議關注具備AI工業化佈局的頭部廠商；2.AI原生玩法創新推動互動體驗與付費模式變革。建議關注在AI玩法上快速驗證的標的；3.AI降低開發門檻後，平臺與全球化發行體系有望受益於供給擴容。建議關注兼具全球化發行能力與AI賦能體系的公司。
+
+---
+
+### 2026-06-16 07:38:55  #觀點
+
+【陳果：在多數人猶豫之際完成再平衡】東方財富研究所副所長、首席策略官陳果認為，A股最近思維過於一致，而情緒並不太穩定。最佳化之道，就是再平衡。趁市場大多數人還在猶豫沒下定決心，正是抓住機遇完成再平衡的絕佳時機。
+
+---
+
+### 2026-06-16 07:38:29  #MKT News
+
+Ebola confirmed cases in the Democratic Republic of Congo rise to 808.
+
+---
+
+### 2026-06-16 07:36:17  #其他
+
+【剛果（金）埃博拉確診病例增至808例】剛果（金）衛生部6月15日通報，該國本輪埃博拉疫情累計確診病例已增至808例，其中192人死亡。過去24小時內，新增26例確診病例和11例死亡病例。目前共有363名患者處於隔離治療狀態，自疫情暴發以來已有48名患者康復。衛生部門表示，疫情防控工作仍集中在受影響的伊圖裡省、北基伍省和南基伍省三個東部省份。此次疫情由本迪布焦型埃博拉病毒引發，於5月15日正式宣佈暴發。
+
+---
+
+### 2026-06-16 07:35:31  #國際
+
+【伊媒：數艘伊朗船隻“穿越海上封鎖線” 】據伊朗法爾斯通訊社16日報道，數艘伊朗油輪及運送物資的船隻當天凌晨時分“順利穿越海上封鎖線”。報道說，一艘伊朗超大型油輪正從公海駛向伊朗港口，一艘載有飼料原料的船隻穿過封鎖線駛向伊朗，另外還有一艘滿載伊朗石油的油輪已穿過阿曼海和封鎖線駛向出口目的地。另據伊朗塔斯尼姆通訊社當天報道，3艘油輪和2艘運載伊朗重要物資的船隻“突破了海上封鎖”。（新華社）
+
+---
+
+### 2026-06-16 07:35:14  #市場 #焦點
+
+紐約期金突破4340美元/盎司，日內跌0.28%。
+
+---
+
+### 2026-06-16 07:35:09  #公司 #國際
+
+【雲頂新耀：與DIMERIX訂立在大中華區、韓國及東南亞開發及商業化DMX -200的協議】6月16日早間，雲頂新耀在港交所公告，公司與Dimerix Limited訂立協議，據此，Dimerix不可撤銷地向本公司授予一項獨家許可，以在大中華區、韓國及若干東南亞國家開發及商業化DMX-200。DMX-200是一種趨化因子受體2(CCR2)的小分子抑制劑，目前正在進行針對局灶節段性腎小球硬化症的關鍵性臨床3期研究ACTION3。DMX-200已獲得美國食品藥品監督管理局(FDA)及歐洲藥品管理局(EMA)的孤兒藥資格認定。根據該獨家許可，本公司的付款義務包括：(i)首付款10百萬美元；及(ii)潛在的開發及監管里程碑付款，最高可達30百萬美元；(iii)潛在的銷售里程碑付款，最高可達300百萬美元；及(iv)基於未來年度淨銷售額的潛在分層特許權使用費，介乎10%至15%之間。
+
+---
+
+### 2026-06-16 07:32:24  #央行 #國際
+
+【日本央行週二料加息至31年來最高水平】日本央行週二將公佈利率決策，市場普遍預計央行將在首次行長缺席的政策會議上加息至1995年以來的最高水平。調查顯示，幾乎所有日本央行觀察人士都預計，在週二結束的會議上，決策者將把基準利率上調0.25個百分點至1%。日本央行表示，行長植田和男因治療肝囊腫感染近日住院，他將以書面形式向政策委員會提交意見，但不會參與投票。
+
+---
+
+### 2026-06-16 07:32:07  #公司 #國際
+
+【理想汽車：根據2020年計劃授出3500萬份購股權及根據2019年計劃授出555.72萬份受限制股份單位】6月16日早間，理想汽車在港交所公告，於2026年6月15日，公司根據2020年計劃向兩名董事（即李鐵及馬東輝）及本公司一名高階管理層（即謝炎）授出合共35,000,000份購股權，代表17,500,000份美國存托股份（相當於35,000,000股A類普通股），佔截至本公告日期本公司已發行股份總數約1.62%（按一股一票基準）。於2026年6月15日，本公司根據2019年計劃向一名董事馬東輝及99名本公司僱員授出合共5,557,200份受限制股份單位，代表相同數量的A類普通股，佔截至本公告日期本公司已發行股份總數約0.26%（按一股一票基準）。
 
 ---
 
@@ -20272,239 +20458,5 @@ Polish armed forces say military aviation operations have begun in Polish airspa
 ### 2026-06-15 07:07:25  #MKT News #Market Themes #AI Revolution #NVDA.O #Impact bullish #MSFT.O #GOOGL.O
 
 The Wall Street Journal reported Anthropic met with Trump administration officials this weekend and sent a senior technical team to Washington seeking an agreement to lift U.S. export restrictions on its most capable AI models.
-
----
-
-### 2026-06-15 07:05:39  #其他
-
-美伊協議達成後，霍爾木茲海峽船舶積壓問題或需數週才能清理完畢。
-
----
-
-### 2026-06-15 07:05:18  #焦點 #國際
-
-兩名伊朗官員透露，伊朗選擇在當地時間午夜過後敲定伊美協議，以此避開特朗普總統的生日。 官員還表示，兩地7.5小時的時差，也讓伊朗與美國得以對協議敲定的時間作出不同解讀。
-
----
-
-### 2026-06-15 07:02:29  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Hits Over 2-Month High Amid US-Iran Deal Optimism — The NZX 50 rose 85 points, or 0.6%, to 13,479 in early Monday trading, extending gains from the previous session after news that the US and Iran had reached a peace deal, with the signing set for Friday. The broader index hovered near its highest level since March 6, mainly supported by consumer staples, financials, and consumer discretionary stocks. The latest data also lifted sentiment, with New Zealand card spending rebounding in May. However, gains were capped after New Zealand's private sector activity contracted at the fastest pace in a year, as the services sector shrank for the fourth consecutive month while manufacturing recorded its first contraction in 11 months. Traders also awaited this week's release of New Zealand's Q1 GDP data and the Fed's monetary policy decision. Among the early gainers were A2 Milk (4.5%), Ebos Group (4.2%), AFT Pharmaceuticals (1.6%), Freightways Group (1.1%), Infratil (1.1%), and Turners Automotive Group (1.2%).
-
----
-
-### 2026-06-15 07:02:04  #焦點 #國際
-
-【伊朗最高國家安全委員會正式確認伊美諒解備忘錄達成】據伊朗媒體15日報道，伊朗最高國家安全委員會當天凌晨發表宣告，正式確認伊美停戰諒解備忘錄達成。（新華社）
-
----
-
-### 2026-06-15 07:01:49  #國際
-
-【伊朗副外長：核實美方履行承諾後將啟動60天談判】據伊朗塔斯尼姆通訊社15日凌晨報道，伊朗外交部副部長加里巴巴迪表示，伊美諒解備忘錄正式簽署儀式將於19日在瑞士舉行，待伊朗核實美方履行承諾後將啟動為期60天的談判。加里巴巴迪說，伊美雙方代表團負責人將於19日進行會談以確定後續安排。啟動60天談判的前提是美方履行關於結束戰事、解除封鎖和解凍資產的承諾。他說，60天談判將涉及解除美國對伊朗全部制裁、伊朗核問題以及經濟重建與發展問題，並確定監督雙方履行承諾的機制等。（新華社）
-
----
-
-### 2026-06-15 06:59:59  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-【Iran's Supreme National Security Council confirms Iran-US ceasefire MOU】Iranian media reported on the 15th that Iran's Supreme National Security Council, in a statement in the early hours, formally confirmed an Iran-US ceasefire memorandum of understanding.
-
----
-
-### 2026-06-15 06:59:29  #國際
-
-英國、法國、德國準備解除針對伊朗的相關制裁。
-
----
-
-### 2026-06-15 06:57:59  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Iran's National Security Council said the maritime blockade against Iran will end immediately and in full.
-
----
-
-### 2026-06-15 06:57:37  #國際
-
-伊朗國家安全委員會表示，針對伊朗的海上封鎖必須立即、全面終止。
-
----
-
-### 2026-06-15 06:57:15  #MKT News
-
-Iran's National Security Council said final-agreement negotiations will begin only after the other party fulfills its commitments under the memorandum of understanding.
-
----
-
-### 2026-06-15 06:57:01  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-Iran's Supreme National Security Council said it will, effective tonight, immediately and permanently cease all combat and military operations, including in Lebanon.
-
----
-
-### 2026-06-15 06:56:58  #國際
-
-伊朗稱最終協議談判將在對方履行諒解備忘錄承諾後啟動。
-
----
-
-### 2026-06-15 06:56:41  #焦點 #國際
-
-伊朗最高國家安全委員會表示，包括黎巴嫩在內的所有戰線的戰爭和軍事行動將從今晚起立即並永久停止。
-
----
-
-### 2026-06-15 06:56:30  #其他
-
-英國外交大臣庫珀：霍爾木茲海峽的無害通航自由必須儘快恢復。
-
----
-
-### 2026-06-15 06:56:30  #MKT News
-
-Iran's National Security Council said it will sign a memorandum of understanding on June 19.
-
----
-
-### 2026-06-15 06:56:17  #焦點 #國際
-
-伊朗國家安全委員會表示，該諒解備忘錄將於6月19日星期五簽署。
-
----
-
-### 2026-06-15 06:56:12  #MKT News
-
-Iran's Supreme National Security Council says it has completed the text of a memorandum of understanding with the United States.
-
----
-
-### 2026-06-15 06:56:00  #焦點 #國際
-
-伊朗國家安全委員會稱，伊朗與美國之間諒解備忘錄的文字已最終敲定。
-
----
-
-### 2026-06-15 06:55:47  #公司 #國際
-
-英國外交大臣庫珀：對美國與伊朗達成協議的公告表示熱烈歡迎。
-
----
-
-### 2026-06-15 06:54:49  #國際
-
-基輔市長稱，基輔洞窟修道院遭空襲後起火。
-
----
-
-### 2026-06-15 06:53:25  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【Iran says gains far exceed commitments】Iran’s deputy foreign minister Gharibabadi said the Islamabad memorandum (an Iran–U.S. understanding) has been finalized and will be signed in Switzerland on June 19. He said two measures take effect immediately from this morning: an immediate, permanent end to hostilities on all fronts, including Lebanon, and the U.S. lifting and terminating its maritime blockade of Iran. Iranian commitments will begin on signing; after a ceasefire, U.S. lifting of the blockade and frozen Iranian assets begin to thaw, both sides will enter a 60‑day negotiation period to finalise an agreement covering nuclear issues, U.S. sanctions relief, reconstruction of Iran’s economic mechanisms and verification arrangements. Gharibabadi warned Iran will respond if the other side defaults and said Iranian forces remain “finger on the trigger.” Iran’s Supreme National Security Council will issue a related statement; Iran said its gains far exceed its commitments.
-
----
-
-### 2026-06-15 06:50:59  #MKT News
-
-UK, France, Germany and Italy leaders issued a joint statement reaffirming full support for Lebanon's stability, sovereignty and territorial integrity and stressing the importance of a strong ceasefire.
-
----
-
-### 2026-06-15 06:50:50  #其他
-
-聯合國負責人對美伊達成協議表示歡迎，稱這是邁向和平的關鍵一步。
-
----
-
-### 2026-06-15 06:49:58  #其他
-
-英、法、德、意E4領導人聯合宣告：重申全力支援黎巴嫩的穩定、主權與領土完整，同時重申達成強有力停火的重要性。
-
----
-
-### 2026-06-15 06:49:38  #MKT News #Market Regions #Europe & UK
-
-Leaders of the UK, France, Germany and Italy said in a joint statement they are prepared to cooperate with the US, Iran and the IAEA.
-
----
-
-### 2026-06-15 06:49:36  #MKT News #WTI #Impact bearish #Brent
-
-UK, France, Germany and Italy leaders said in a joint statement there is an urgent need to reopen the Strait of Hormuz unconditionally and without restrictions.
-
----
-
-### 2026-06-15 06:49:33  #國際
-
-英、法、德、意E4領導人聯合宣告：隨時準備與美國、伊朗及國際原子能機構合作，以實現這一（伊朗核計劃）目標。
-
----
-
-### 2026-06-15 06:49:00  #Trading Economics #Economy #New Zealand #Credit Card Spending #Importance 1
-
-New Zealand Credit Card Spending Rebounds — Seasonally adjusted electronic card transactions in New Zealand grew 1.7% month-over-month in May 2026, recovering from a downwardly revised 1.2% fall in the previous month.
-
----
-
-### 2026-06-15 06:48:26  #MKT News #Market Regions #Europe & UK #WTI #Impact bearish #Brent
-
-Leaders of the UK, France, Germany and Italy said in a joint statement that Iran must never acquire nuclear weapons. They said they are prepared to lift relevant sanctions once Iran implements clear, verifiable measures on its nuclear program.
-
----
-
-### 2026-06-15 06:48:24  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Kyiv mayor says air strikes knocked out power for about 140,000 residents and damaged transmission lines.
-
----
-
-### 2026-06-15 06:48:04  #其他
-
-英、法、德、意E4領導人聯合宣告：霍爾木茲海峽急需重新開放，實現無條件、無限制航行自由至關重要。
-
----
-
-### 2026-06-15 06:47:51  #國際
-
-基輔市長稱，空襲導致14萬居民斷電，電力線路受損。
-
----
-
-### 2026-06-15 06:47:22  #國際
-
-英、法、德、意E4領導人聯合宣告：已做好準備，若伊朗在其核計劃方面採取明確、可核查的措施，我們將解除相關制裁。
-
----
-
-### 2026-06-15 06:47:01  #國際
-
-英、法、德、意E4領導人聯合宣告：伊朗絕不能獲取核武器。
-
----
-
-### 2026-06-15 06:46:20  #公司 #國際
-
-英、法、德、意E4領導人聯合宣告：對美國與伊朗達成諒解備忘錄的公告表示熱烈歡迎。
-
----
-
-### 2026-06-15 06:45:42  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-【Iranian media published detailed terms of 14-point Iran–US memorandum】Iranian media published detailed terms of a 14-point Iran–US memorandum. Key points: immediate and permanent ceasefire on all fronts, including Lebanon; US pledge not to interfere in Iran’s internal affairs and to respect Iranian sovereignty; full lifting of a maritime blockade and reopening of the Strait of Hormuz within 30 days under arrangements agreed by Iran; US commitment to withdraw forces from around Iran; suspension of sanctions on Iranian oil, petrochemicals and derivatives and restoration of Iran’s full access to its financial resources; US and allies to provide at least $300 billion for Iran’s reconstruction; a final nuclear agreement to be reached within 60 days with full lifting of primary and secondary US sanctions and relevant UN Security Council and IAEA board resolutions; Iran reiterates its NPT commitment not to develop nuclear weapons; during negotiations the US will not deploy additional regional forces or impose new sanctions; during the 60-day final negotiation period $24 billion of Iran’s frozen funds will be released, half of which must be delivered before talks begin; a monitoring mechanism will be established; the final deal will require UN Security Council approval; final negotiations will only start after half of the frozen funds are unfrozen, oil sanctions are suspended and the maritime blockade is lifted; the final accord will be limited to the future of enriched uranium/materials and enrichment processes, sanctions relief and Iran’s economic reconstruction plan; issues relating to Iran’s missile program and support for resistance groups have been removed from the agenda.
-
----
-
-### 2026-06-15 06:44:38  #市場
-
-澳大利亞3年期國債收益率跌5個基點。
-
----
-
-### 2026-06-15 06:43:54  #觀點
-
-【外資巨頭下半年展望：AI超級週期未結束，重新審視避險資產】2026年即將過半，全球市場波動加劇。展望下半年，摩根士丹利、貝萊德、富達國際、KKR等多家外資機構給出了各自的答案。梳理發現，在地緣局勢、能源安全和貿易格局重塑的大背景下，儘管各家機構關注重點有所不同，但對於下半年市場主線卻形成了高度共識：AI資本開支超級週期遠未結束，科技自主可控、高階製造和能源轉型成為當下的投資主線，而中國資產在這一輪產業變遷中的戰略地位正在持續提升。（中證報）
-
----
-
-### 2026-06-15 06:40:15  #Trading Economics #Economy #New Zealand #Composite PMI #Importance 0
-
-New Zealand Composite PMI Hits 1-Year Low — The BusinessNZ Performance of Composite Index dropped to 48.4 in May 2026 from a downwardly revised 49.2 in the previous month. It marked the third straight contraction and the steepest pace since May 2025, as the services sector contracted for the fourth consecutive month, while manufacturing registered its first contraction in 11 months.
 
 ---

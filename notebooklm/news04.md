@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-22 06:38:47_
-_本檔包含 3413 則快訊，約 649088 字_
+_更新時間：2026-06-22 07:06:31_
+_本檔包含 3416 則快訊，約 649079 字_
+
+---
+
+### 2026-06-17 09:22:40  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish #Hang Seng Tech Index #Impact bearish #HSCEI
+
+Hang Seng Index (HSI) opened up 1.9 pts (+0.01%) at 24,495.85 on June 17. Hang Seng Tech Index opened down 21.87 pts (-0.47%) at 4,636.78. Hang Seng China Enterprises Index (HSCEI) opened down 5.35 pts (-0.06%) at 8,234.70. Red Chip Index opened down 9.28 pts (-0.22%) at 4,240.87.
+
+---
+
+### 2026-06-17 09:22:20  #宏觀 #公司
+
+【山東省發改委通報“某新基建專案問題”：成立聯合調查組進駐現場核查】據“山東發改”微信公眾號，針對媒體反映山東高速資訊集團有限公司承建的某新基建專案問題，山東省發展改革委、山東省住房城鄉建設廳、山東省交通運輸廳、山東省國資委已組成聯合調查組進駐現場核查，並委託第三方專業機構對專案施工質量開展全面檢測。相關調查結果將及時向社會公佈。
+
+---
+
+### 2026-06-17 09:22:16  #市場
+
+【航宇科技與Baker Hughes簽署長期SSA戰略供貨協議】據航宇科技訊息，6月16日，航宇科技與全球能源裝備巨頭Baker Hughes舉行高層戰略會談，雙方針對LT16機型及多項核心重點機型，正式簽署長期SSA（(Strategic Supply Agreement)）戰略供貨協議，鎖定未來五年各主力型號增量。航宇科技與Baker Hughes已攜手合作15年，是其燃機高溫合金包含冷端及熱端，靜止及轉動件核心戰略供應商。
+
+---
+
+### 2026-06-17 09:22:09  #MKT News #Important
+
+【PBOC nets CNY261.3 bln via 7-day reverse repos today】PBOC conducted CNY420.3 bln of 7-day reverse repurchase operations today; CNY159.0 bln matured, leaving a net injection of CNY261.3 bln.
+
+---
+
+### 2026-06-17 09:22:04  #國際
+
+菲律賓參議院選舉SHERWIN GATCHALIAN為新議長。
+
+---
+
+### 2026-06-17 09:22:03  #央行 #中國央行
+
+央行今日開展4203億元7天逆回購操作，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-06-17 09:21:34  #央行 #其他
+
+央行今日開展4203億元7天逆回購操作，投標量4203億元，中標量4203億元，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-06-17 09:21:32  #MKT News #CNH
+
+PBOC conducted 420.3 bln yuan of 7-day reverse repos today; bid and allotment both 420.3 bln yuan; operation rate 1.40%, unchanged.
+
+---
+
+### 2026-06-17 09:21:27  #焦點
+
+港股恒指高開漲0.01％，國企指數跌0.06％，科指開跌0.47%。
+
+---
+
+### 2026-06-17 09:21:21  #MKT News #Important #Star Stocks #Alibaba #09901.HK #Impact bullish #01177.HK #09988.HK
+
+Hong Kong stocks opened mixed; the Hang Seng Index was up 0.01% while the Hang Seng Tech Index fell 0.47%. New Oriental (09901.HK) rose more than 2.6%, and China Biopharm (01177.HK) and Alibaba (09988.HK) gained over 1%.
+
+---
+
+### 2026-06-17 09:20:53  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC
+
+Japan 5-year government bond yield fell 3.0 bps to 1.880%.
+
+---
+
+### 2026-06-17 09:20:37  #MKT News #Market Regions #Japan & APAC
+
+Japan 2-year bond yield fell 1.5 bps to 1.390%.
+
+---
+
+### 2026-06-17 09:20:00  #MKT News #Important #Market Themes #AI Revolution #02513.HK
+
+【Zhipu (02513.HK) open-sources GLM-5.2】Zhipu AI (02513.HK) launched and open-sourced GLM-5.2 under an MIT license with no geographic restrictions. The firm says GLM-5.2 ranked first among globally available models on CodeArena, a front-end evaluation system with over 1 mln users in blind tests. The model features a 1M-token context window for long-range tasks, improved coding ability, and infrastructure optimizations for Day‑0 operation on domestic compute. Zhipu completed Day‑0 inference adaptation on multiple Chinese compute platforms, citing integration with Huawei Ascend, T-Head (Pingtouge), Moore Threads, Cambricon, Kunlunxin, Muxi, Hygon (Haiguang) and Biren, and reports high throughput, low latency and large-concurrency stability on domestic chip clusters. Benchmarks cited place GLM-5.2’s long-range performance between Claude Opus 4.7 and 4.8 and flag it as the highest-ranked open-source model. Zhipu expects Huawei’s Ascend 950 supernode, slated for H2, to become an additional compute base for GLM-5.2.
+
+---
+
+### 2026-06-17 09:19:32  #其他
+
+【智譜：今天上線並開源GLM-5.2】智譜(02513.HK)今日發文稱，上線並開源GLM-5.2。在全球百萬使用者參與盲測的前端開發評估系統CodeArena上，GLM-5.2取得全球可用模型第一的表現。今天GLM-5.2專為長程任務能力而生，全新特色包括：Solid1M上下文，穩定支撐長程任務；更強體感，更實用的Coding能力；極致Infra最佳化，Day0執行在國產算力平臺；MIT開源協議，無地域限制，技術平權無國界。1M上下文構成GLM-5.2的長程交付能力，多個長程任務基準表明GLM-5.2的表現介於Claude Opus4.7與4.8之間，是排名最高的開源模型。GLM-5.2的線上推理依託多個國產算力平臺，已在Day 0完成與華為昇騰、平頭哥、摩爾執行緒、寒武紀、崑崙芯、沐曦、海光、壁仞等國產算力平臺的推理適配，在國產晶片叢集上實現高吞吐、低延遲、大併發的穩定執行。預計下半年昇騰950超節點上市後，也將成為GLM-5.2強勁的算力底座。
+
+---
+
+### 2026-06-17 09:19:19  #公司
+
+【賽微電子：公司亦莊MEMS量產線目前產能為1.5萬片/月】賽微電子6月17日在互動平臺表示，公司亦莊MEMS量產線目前產能為1.5萬片/月，公司將大力擴大晶圓類別及客戶領域，持續不斷推動促進公司本土FAB的建設運營、業務發展及業績增長，並將繼續適時有序的推動產能從當前的1.5萬片/月向3萬片/月產能的分階段針對性擴充。
+
+---
+
+### 2026-06-17 09:19:16  #其他
+
+【美軍稱在東太平洋打擊“販毒船”致1人死亡】美軍南方司令部16日發表宣告說，美軍當天在東太平洋對一艘“販毒船”發動打擊，船上1人死亡。宣告說，根據美軍南方司令部司令弗朗西斯·多諾萬的命令，美軍“南方之矛”聯合特遣部隊對一艘由“被認定的恐怖組織”運營的船隻實施打擊，打死船上1名男性，無美軍人員傷亡。
+
+---
+
+### 2026-06-17 09:18:21  #市場 #國際
+
+日本20年期國債收益率下跌5個基點至3.485%。
+
+---
+
+### 2026-06-17 09:16:50  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內跌4%，現報3656.00點。
+
+---
+
+### 2026-06-17 09:15:43  #MKT News #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures opened the day session up 0.16% at 24,512, trading a 6-point premium to the cash index.
+
+---
+
+### 2026-06-17 09:15:35  #市場
+
+【人民幣兌美元中間價報6.8096，較上日調高12點】人民幣兌美元中間價報6.8096，較上日調高12點。
+
+---
+
+### 2026-06-17 09:15:26  #市場
+
+人民幣兌美元中間價報6.8096元。
+
+---
+
+### 2026-06-17 09:15:20  #市場 #國際
+
+日本東證股價指數(TOPIX)上漲0.5%，報4,011.90點。
+
+---
+
+### 2026-06-17 09:15:03  #市場
+
+恒指期貨日盤開盤漲0.11%，報24509.76點，高水15.81點。
+
+---
+
+### 2026-06-17 09:14:55  #公司 #國際
+
+【加拿大總理卡尼證實他已看到了美伊協議：加拿大支援執行該協議的努力】加拿大總理馬克·卡尼表示，美伊結束戰爭的諒解備忘錄是一個“遊戲規則改變者”，並稱加拿大支援執行該協議的努力。“我們對達成的協議非常滿意。它為確保伊朗不擁有核武器奠定了基礎，並且可能隨著時間的推移促進該地區經濟的重新融合，以及在黎巴嫩實現和解的進展，”卡尼說。卡尼證實他已經看到了該協議，該協議尚未由美國正式釋出，並表示他“絕對”支援它，補充說在法國舉行的七國集團峰會上“每個人都是如此”。
+
+---
+
+### 2026-06-17 09:13:49  #市場 #焦點
+
+甲醇連續主力合約日內跌2%，現報2657.00元。
+
+---
+
+### 2026-06-17 09:13:36  #MKT News #WTI #Impact bearish #Brent
+
+Canadian Prime Minister Carney said Trump informed him of a US-Iran memorandum of understanding that Canada supports and that the MoU paves the way to resolving the crisis in Lebanon.
+
+---
+
+### 2026-06-17 09:12:51  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Near Lowest in 3 Months — US gasoline prices held below $2.90 per gallon, the lowest since early March, as the US-Iran deal is expected to reopen the Strait of Hormuz and support a return of energy exports from the Middle East. The interim pact, due to be signed on Friday, states that Tehran would receive broad financial incentives, including the immediate right to sell its oil. Still, markets are assessing the durability of the agreement and the timeline for shipping through the Strait to normalize, as many operators may wait several weeks before resuming tanker transits. Producers have also warned that a full recovery could take months, citing technical and geological constraints as well as infrastructure damage. Meanwhile, industry data showed that gasoline inventories rose by 2.48 million barrels in mid-June, reversing the previous week's 1.19 million-barrel decline.
+
+---
+
+### 2026-06-17 09:12:48  #MKT News
+
+【Harbin Jiuzhou Group, Xinfengguang Sign Strategic Cooperation Agreement】Harbin Jiuzhou Group Co., Ltd. and Xinfengguang Electronic Technology Co., Ltd. signed a strategic cooperation agreement in Harbin to collaborate on power‑electronics equipment, power‑quality remediation and integrated energy services, leveraging complementary core capabilities for coordinated development.
+
+---
+
+### 2026-06-17 09:11:39  #公司
+
+【萊伯泰科耗材連續五年中標廣電計量集中採購專案】據萊伯泰科訊息，近日，廣電計量2026-2028年度試劑耗材集中採購專案中標結果公告：萊伯泰科成功中標專案第三包組。本次中標是萊伯泰科連續五年成功入選該專案。
+
+---
+
+### 2026-06-17 09:11:05  #公司
+
+【九洲集團與新風光簽署戰略合作協議】6月15日，哈爾濱九洲集團股份有限公司（簡稱“九洲集團”）與新風光電子科技股份有限公司（簡稱“新風光”）戰略合作簽約儀式在哈爾濱舉行。本次合作聚焦電力電子裝備、電能質量治理、綜合能源服務領域，依託各自核心優勢互補共進、協同發展。
+
+---
+
+### 2026-06-17 09:10:56  #其他
+
+中央氣象臺6月17日06時繼續釋出暴雨橙色預警，交通運輸部維持強降雨二級防禦響應。
+
+---
+
+### 2026-06-17 09:09:17  #公司
+
+【山東成立聯合調查組】據山東省發展和改革委員會網站：針對媒體反映山東高速資訊集團有限公司承建的某新基建專案問題，山東省發展改革委、山東省住房城鄉建設廳、山東省交通運輸廳、山東省國資委已組成聯合調查組進駐現場核查，並委託第三方專業機構對專案施工質量開展全面檢測。相關調查結果將及時向社會公佈。（新華社）
+
+---
+
+### 2026-06-17 09:09:05  #其他
+
+【北斗衛星簡訊服務上線 無需下載App 簡訊入口即可直接傳送】期受極端災害影響，處於無地面網路通訊訊號的緊急情況下，市民可利用北斗衛星導航系統實現應急聯絡。北斗衛星簡訊應急通訊服務已上線。只要手機具備北斗衛星簡訊功能，即可傳送附帶精準位置座標的衛星簡訊，及時傳遞災情資訊、報平安或請求救援。 “無需下載任何App，簡訊入口就能直接傳送。”相關技術人員介紹，北斗衛星簡訊服務依託我國自主建設的北斗衛星導航系統，專門解決無地面訊號覆蓋下的簡訊收發難題，適用於防汛防災、戶外自駕、野外執勤值守、無人區探險穿越等場景。這項服務不使用不收費，一旦傳送則按條計費，接收免費，市民在手機設定中開啟北斗衛星簡訊功能即可直接使用。目前，三大運營商均已支援該項服務。同時，北斗衛星簡訊接收方的終端無特別要求，不具備北斗衛星簡訊傳送功能的手機也可正常接收。（北京日報）
+
+---
+
+### 2026-06-17 09:08:58  #公司 #市場
+
+【南鋼與力拓開展首個皮爾巴拉鐵礦鹼性球團工業試驗】據力拓集團訊息，南京鋼鐵股份有限公司（簡稱“南鋼”）與力拓成功開展采用皮爾巴拉混合粉礦（Pilbara Blend Fines）生產鹼性球團的工業試驗，實現力拓皮爾巴拉鐵礦石在該領域的突破。透過在南鋼基地開展此次試驗，皮爾巴拉混合粉礦在高配比條件下實現了高質量鹼性球團的工業規模生產。相較普通球團，鹼性球團在高爐中適應性更強，從而有助於提升鍊鐵效率、降低燃料消耗及碳排放。
 
 ---
 
@@ -20392,191 +20596,5 @@ South Korea's KOSPI opened June 16 (Tuesday) up 174.77 points (+2.05%) at 8,720.
 ### 2026-06-16 07:52:51  #Trading Economics #Markets #Commodity #Importance 0
 
 Silver Holds Gains as US-Iran Deal Eyed — Silver traded near $70 an ounce on Tuesday after rising almost 3% in the previous session, as expectations that a US-Iran peace agreement would reopen the Strait of Hormuz eased fears of an energy-driven inflation shock that had fueled interest rate hike expectations. The interim accord is expected to be signed by both sides in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving investors cautious. Markets also looked ahead to a series of central bank policy decisions this week, with the Federal Reserve set to hold its first meeting under new chair Kevin Warsh and widely expected to leave interest rates unchanged.
-
----
-
-### 2026-06-16 07:51:50  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Advance as US-Iran Deal Eyed — Gold traded above $4,300 an ounce on Tuesday after rising more than 2% in the previous session, as expectations that a US-Iran peace agreement would reopen the Strait of Hormuz eased fears of an energy-driven inflation shock that had fueled interest rate hike expectations. The interim accord is expected to be signed by both sides in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving investors cautious. Markets also looked ahead to a series of central bank policy decisions this week, with the Federal Reserve set to hold its first meeting under new chair Kevin Warsh and widely expected to leave interest rates unchanged.
-
----
-
-### 2026-06-16 07:50:46  #公司 #國際
-
-【通用汽車洽談為洛克希德・馬丁供應武器零部件】據知情人士透露，通用汽車正與洛克希德・馬丁展開磋商，計劃為這家防務企業生產武器配套零部件。知情人士稱，按照合作方案，通用汽車將量產通用標準零部件，助力洛克希德・馬丁提升彈藥產能；雙方目前正在商議由通用承接哪些零部件的製造工作。相關人士表示，合作協議尚未敲定，合作框架條款仍存在變動可能。受烏克蘭、伊朗地區衝突影響，導彈及各類核心武器庫存持續消耗、庫存告急。為補足軍備儲備，特朗普政府與美國國防部官員一方面督促軍工企業提速生產，另一方面積極拉攏通用汽車這類非軍工製造企業參與軍備製造。通用汽車執行長瑪麗・博拉已與特朗普政府官員會面，商討車企擴大軍工業務佈局事宜；目前通用旗下防務板塊業務規模尚小，企業有意拓展該領域。
-
----
-
-### 2026-06-16 07:50:28  #MKT News #LMT.N #Impact bullish #GM.N
-
-According to the Wall Street Journal, GM is in talks with Lockheed to supply weapons components; GM would manufacture common parts that could help Lockheed ramp up ammunition production.
-
----
-
-### 2026-06-16 07:49:02  #其他
-
-通用汽車將生產通用零部件，助力洛克希德·馬丁提升彈藥產量。
-
----
-
-### 2026-06-16 07:48:43  #其他
-
-澳新銀行將紐西蘭年度通脹預期下調至4.1%。
-
----
-
-### 2026-06-16 07:48:28  #其他
-
-通用汽車與洛克希德·馬丁的合作協議尚未最終敲定。
-
----
-
-### 2026-06-16 07:48:20  #公司
-
-市場訊息：通用汽車正洽談向洛克希德·馬丁公司供應武器零部件。
-
----
-
-### 2026-06-16 07:47:40  #市場 #央行 #國際
-
-【中東擔憂緩解 日經指數或走高】在美伊達成和平協議之後，隨著對中東衝突的擔憂緩解，日本股市或將走高。新加坡交易所日經指數期貨上漲0.1%，報69520點。在美國總統特朗普表示霍爾木茲海峽將於週五全面開放後，投資者正關注原油價格。將於週二晚些時候公佈的日本央行利率決定也備受關注。週一日經指數上漲5.0%，達到創紀錄的69317.50點。
-
----
-
-### 2026-06-16 07:46:57  #公司 #國際
-
-【中國生物製藥：TQC2938（ST2單抗）於EAACI 2026公佈II期臨床資料】中國生物製藥在港交所公告，附屬公司正大天晴藥業集團股份有限公司自主研發的國家1類創新藥TQC2938（ST2單抗）於2026年歐洲過敏與臨床免疫學學會 (EAACI 2026) 年會上，以口頭報告形式公佈了針對中重度季節性過敏性鼻炎 (SAR) 患者的II期臨床研究結果。TQC2938是全球首個在SAR領域取得積極臨床資料的ST2單抗，有望為對現有治療應答不佳的SAR患者提供一種全新的治療或預防策略。
-
----
-
-### 2026-06-16 07:45:58  #市場 #國際
-
-基準10年期日本國債期貨早盤下跌0.09點。
-
----
-
-### 2026-06-16 07:45:48  #市場 #國際
-
-日本日經指數期貨早盤上漲0.2%。
-
----
-
-### 2026-06-16 07:45:09  #MKT News
-
-Senate minority leader Schumer said nearly 24 hours after Trump announced a memorandum of understanding with Iran there are still no details. Schumer urged Trump to immediately brief Congress and the American people and to explain the agreement’s terms to bring the war to an end.
-
----
-
-### 2026-06-16 07:44:26  #觀點
-
-【華泰證券：工信部提升光伏元件效率標準 行業拐點或逐步顯現】華泰證券研報稱，近日，工業和資訊化部科技司釋出《光伏產品分級分類 第1部分：光伏元件（報批稿）》（簡稱《報批稿》），與此前國標徵求意見稿相比，報批稿將元件效率門檻大幅提升。華泰證券預計公示期（6月13日—7月12日）後將推進後續批准、釋出、實施流程，或將率先透過央國企元件集採作用於市場。看好此舉有望加速產能出清，利好BC/HJT/TOPCon3.0等高效電池元件，技術落後或資金緊缺的二三線企業有望逐步出清，華泰證券基於主流產品/冠軍產品效率測算產品出清規模為327.6/153.6GW，比例達33%/15%。考慮到2026年下半年光伏需求側同比壓力有望緩解，市場+行政手段加速供給側出清，看好行業拐點或逐步顯現，電池元件及漿料龍頭有望率先迎來盈利改善。
-
----
-
-### 2026-06-16 07:43:34  #央行 #國際
-
-日本經濟再生擔當大臣木內表示，將出席今天的日本央行會議，對日本央行今天將加息的市場主流觀點不予置評。強烈希望日本央行在尋求可持續、穩定地實現2%通脹目標的過程中，與政府保持溝通並緊密合作。
-
----
-
-### 2026-06-16 07:42:23  #MKT News
-
-【Trump tweet may have confused $300m with $300bn】Early on June 16 at the G7 in France, US President Trump tweeted that Iran had agreed never to possess nuclear weapons and called reports the US would pay Iran $300m fake news. It is unclear what Trump meant by the $300m reference. Iranian media on June 15 published a 14-point US‑Iran memorandum that includes a clause calling for a US-and-allies reconstruction plan for Iran of at least $300bn.
-
----
-
-### 2026-06-16 07:41:54  #MKT News
-
-KIUCHI said he strongly hopes the Bank of Japan and the government maintain close communication and jointly work to ensure the 2% inf target is achieved sustainably and stably.
-
----
-
-### 2026-06-16 07:41:25  #公司 #國際
-
-【特朗普否認美將給伊朗巨資  或弄混3億和3000億美元】當地時間6月16日凌晨，正在法國出席七國集團峰會的美國總統特朗普在社交平臺發文稱，“伊朗已經同意永遠不會擁有核武器！ 有關‘美國將向伊朗支付3億美元’的報道是假新聞，是民主黨人散佈出來的。”目前尚不清楚特朗普所指的“3億美元”具體是什麼。而伊朗媒體昨天披露的伊美諒解備忘錄14項條款中涉及具體金額的一項為：美國及其盟友有必要提出對伊朗的重建計劃，金額至少3000億美元。
-
----
-
-### 2026-06-16 07:41:07  #MKT News #USDJPY #Impact bearish #DXY #Nikkei 225
-
-Kiuchi, Japan’s minister for economic and fiscal policy, declined to comment on the market consensus that the Bank of Japan will raise rates today.
-
----
-
-### 2026-06-16 07:40:53  #國際
-
-【美軍證實B-52轟炸機墜毀致8名機組人員全部遇難】當地時間6月15日，美國加利福尼亞州愛德華茲空軍基地釋出宣告稱，當天美國空軍一架B-52轟炸機在該基地起飛後不久墜毀，機上載有8人。初步跡象顯示，此次事故“無人生還”。美軍愛德華茲空軍基地釋出訊息說，該轟炸機於當地時間15日11時20分左右從該基地起飛，不久後墜毀。初步調查顯示，“這一墜機事故無生還機會”。救援人員已趕赴現場，相關部門正在核實情況。事故原因正在調查中。愛德華茲空軍基地將於當地時間15日16時15分舉行新聞釋出會，通報更多細節。第412測試聯隊表示，事發時，這架B-52轟炸機正在執行“例行測試任務”。據悉，墜機地點位於洛杉磯以北約160公里處。B-52戰略轟炸機綽號“同溫層堡壘”，通常由5名機組人員駕駛，可搭載核武器以及多種精確制導武器，自1955年起服役至今。（央視）
-
----
-
-### 2026-06-16 07:39:58  #MKT News
-
-Finance Minister Kiuchi will attend today’s Bank of Japan meeting.
-
----
-
-### 2026-06-16 07:39:57  #資料 #市場 #央行
-
-【澳大利亞聯儲今日公佈利率決議 澳債價格下跌】澳大利亞債券價格在澳大利亞儲備銀行政策決定公佈前下跌。澳大利亞3年期國債收益率上升4個基點至4.47%，10年期國債收益率上升5個基點至4.86%。調查顯示，除一名經濟學家外，其餘受訪經濟學家均預測，悉尼時間下午2點30分（北京時間12:30）澳洲聯儲公佈利率決議，官方現金利率將維持4.35%不變；僅一人預測利率上調至4.6%。澳洲聯儲行長米歇爾・布洛克將於當地時間下午3點30分出席媒體釋出會併發言。
-
----
-
-### 2026-06-16 07:39:23  #公司
-
-【國際石油公司Blackrod一期專案提前實現首油，產量達峰預期較計劃提前一季度】國際石油公司（IPC）當地時間6月15日宣佈，位於加拿大的Blackrod專案一期已於5月31日實現首油，較計劃提前並在預算內完成。一期專案設計日產量峰值為3萬桶，預計於2027年底達到，較2023年專案批准時的原定指引提前一個季度。Blackrod一期經探明及概算儲量為3.11億桶油當量，Blackrod資產整體還擁有11億桶油當量的或有資源量（最佳估算，未做風險調整）。
-
----
-
-### 2026-06-16 07:38:57  #公司 #市場 #觀點
-
-【華泰證券：AI正在推動遊戲行業從內容工業向智慧互動工業演進】華泰證券研報稱，AI正在推動遊戲行業從內容工業向智慧互動工業演進，華泰證券認為行業核心受益方向如下：1.AI驅動研發工業化升級，透過全鏈路提效降低研發成本。建議關注具備AI工業化佈局的頭部廠商；2.AI原生玩法創新推動互動體驗與付費模式變革。建議關注在AI玩法上快速驗證的標的；3.AI降低開發門檻後，平臺與全球化發行體系有望受益於供給擴容。建議關注兼具全球化發行能力與AI賦能體系的公司。
-
----
-
-### 2026-06-16 07:38:55  #觀點
-
-【陳果：在多數人猶豫之際完成再平衡】東方財富研究所副所長、首席策略官陳果認為，A股最近思維過於一致，而情緒並不太穩定。最佳化之道，就是再平衡。趁市場大多數人還在猶豫沒下定決心，正是抓住機遇完成再平衡的絕佳時機。
-
----
-
-### 2026-06-16 07:38:29  #MKT News
-
-Ebola confirmed cases in the Democratic Republic of Congo rise to 808.
-
----
-
-### 2026-06-16 07:36:17  #其他
-
-【剛果（金）埃博拉確診病例增至808例】剛果（金）衛生部6月15日通報，該國本輪埃博拉疫情累計確診病例已增至808例，其中192人死亡。過去24小時內，新增26例確診病例和11例死亡病例。目前共有363名患者處於隔離治療狀態，自疫情暴發以來已有48名患者康復。衛生部門表示，疫情防控工作仍集中在受影響的伊圖裡省、北基伍省和南基伍省三個東部省份。此次疫情由本迪布焦型埃博拉病毒引發，於5月15日正式宣佈暴發。
-
----
-
-### 2026-06-16 07:35:31  #國際
-
-【伊媒：數艘伊朗船隻“穿越海上封鎖線” 】據伊朗法爾斯通訊社16日報道，數艘伊朗油輪及運送物資的船隻當天凌晨時分“順利穿越海上封鎖線”。報道說，一艘伊朗超大型油輪正從公海駛向伊朗港口，一艘載有飼料原料的船隻穿過封鎖線駛向伊朗，另外還有一艘滿載伊朗石油的油輪已穿過阿曼海和封鎖線駛向出口目的地。另據伊朗塔斯尼姆通訊社當天報道，3艘油輪和2艘運載伊朗重要物資的船隻“突破了海上封鎖”。（新華社）
-
----
-
-### 2026-06-16 07:35:14  #市場 #焦點
-
-紐約期金突破4340美元/盎司，日內跌0.28%。
-
----
-
-### 2026-06-16 07:35:09  #公司 #國際
-
-【雲頂新耀：與DIMERIX訂立在大中華區、韓國及東南亞開發及商業化DMX -200的協議】6月16日早間，雲頂新耀在港交所公告，公司與Dimerix Limited訂立協議，據此，Dimerix不可撤銷地向本公司授予一項獨家許可，以在大中華區、韓國及若干東南亞國家開發及商業化DMX-200。DMX-200是一種趨化因子受體2(CCR2)的小分子抑制劑，目前正在進行針對局灶節段性腎小球硬化症的關鍵性臨床3期研究ACTION3。DMX-200已獲得美國食品藥品監督管理局(FDA)及歐洲藥品管理局(EMA)的孤兒藥資格認定。根據該獨家許可，本公司的付款義務包括：(i)首付款10百萬美元；及(ii)潛在的開發及監管里程碑付款，最高可達30百萬美元；(iii)潛在的銷售里程碑付款，最高可達300百萬美元；及(iv)基於未來年度淨銷售額的潛在分層特許權使用費，介乎10%至15%之間。
-
----
-
-### 2026-06-16 07:32:24  #央行 #國際
-
-【日本央行週二料加息至31年來最高水平】日本央行週二將公佈利率決策，市場普遍預計央行將在首次行長缺席的政策會議上加息至1995年以來的最高水平。調查顯示，幾乎所有日本央行觀察人士都預計，在週二結束的會議上，決策者將把基準利率上調0.25個百分點至1%。日本央行表示，行長植田和男因治療肝囊腫感染近日住院，他將以書面形式向政策委員會提交意見，但不會參與投票。
-
----
-
-### 2026-06-16 07:32:07  #公司 #國際
-
-【理想汽車：根據2020年計劃授出3500萬份購股權及根據2019年計劃授出555.72萬份受限制股份單位】6月16日早間，理想汽車在港交所公告，於2026年6月15日，公司根據2020年計劃向兩名董事（即李鐵及馬東輝）及本公司一名高階管理層（即謝炎）授出合共35,000,000份購股權，代表17,500,000份美國存托股份（相當於35,000,000股A類普通股），佔截至本公告日期本公司已發行股份總數約1.62%（按一股一票基準）。於2026年6月15日，本公司根據2019年計劃向一名董事馬東輝及99名本公司僱員授出合共5,557,200份受限制股份單位，代表相同數量的A類普通股，佔截至本公告日期本公司已發行股份總數約0.26%（按一股一票基準）。
 
 ---
