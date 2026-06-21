@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-21 12:08:03",
-  "count": 17557,
+  "updated": "2026-06-21 12:12:07",
+  "count": 17559,
   "items": [
+    {
+      "id": "mkt:019ee860-652b-7dd8-b0a3-28bada6521c2",
+      "time": "2026-06-21 12:11:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US offers to unfreeze tens of billions of dollars to press Iran to accept UN nuclear inspections in Swiss talks】Market sources: In Switzerland the US will press Iran to allow UN nuclear inspectors back into key nuclear sites, using the unfreezing of tens of billions of dollars of frozen Iranian assets as the primary incentive. The issue is expected to be one of the most critical in the first round of talks."
+    },
+    {
+      "id": "4946123",
+      "time": "2026-06-21 12:11:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，美國副總統萬斯（Vance）已於當地時間凌晨5點59分抵達瑞士。"
+    },
+    {
+      "id": "4946121",
+      "time": "2026-06-21 12:09:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美方計劃在瑞士會談期間敦促伊朗允許聯合國核核查人員重返核心核設施，而解凍伊朗數十億美元凍結資產將作為核心談判籌碼。該議題預計是首輪談判中最關鍵的議題之一。"
+    },
     {
       "id": "4946119",
       "time": "2026-06-21 12:07:16",
@@ -161745,14 +161769,6 @@
         "其他"
       ],
       "text": "【中國裁判傅明首次亮相世界盃】世界盃D組首輪，澳大利亞對陣土耳其。本場比賽，中國裁判傅明擔任VAR輔助裁判，迎來個人執法生涯的世界盃首秀，這也是本屆世界盃中國裁判的執法首秀。本屆世界盃，中國有三名裁判員馬寧、傅明、周飛入圍裁判員名單，分別是以主裁、VAR裁判和助理裁判的身份入圍。（北京日報）"
-    },
-    {
-      "id": "4934159",
-      "time": "2026-06-14 12:10:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中建六局與大禹集團簽署戰略合作協議】6月12日，中國建築第六工程局有限公司（簡稱“中建六局”）與大禹集團舉行了戰略合作框架協議簽署儀式。根據協議，雙方將在水利基礎設施、智慧水務、節水灌溉、生態環保、鄉村振興、新能源及水利融合等領域的專案開發建設開展全面、深度的戰略合作。"
     }
   ]
 }
