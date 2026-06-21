@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-22 06:11:36_
-_本檔包含 3420 則快訊，約 649216 字_
+_更新時間：2026-06-22 06:38:47_
+_本檔包含 3391 則快訊，約 648932 字_
+
+---
+
+### 2026-06-16 07:31:15  #市場
+
+日經指數期貨在新加坡交易所開盤上漲180點，報69600點。
+
+---
+
+### 2026-06-16 07:30:53  #公司
+
+【海南首票 海口企業完成非藥用用途食藥物質進口業務】據海口釋出，日前，在海口海關所屬洋浦海關的高效監管下，40餘噸以食品用途進口的西洋參順利通關入境，成為海南口岸首單依據食藥物質分類監管政策落地的西洋參進口業務。該批貨物的進口企業——海南參和方記健康有限公司，是註冊於海口國家高新區的一家專注於健康產品研發與貿易的企業。
+
+---
+
+### 2026-06-16 07:30:44  #Trading Economics #Economy #Nigeria #Inflation Rate #Importance 0
+
+Nigeria Inflation Hits 6-Month High — The annual inflation rate in Nigeria rose for a third straight month to 15.93% in May 2026, marking the highest since last November, from 15.69% in the previous month. Food inflation, the largest component of the inflation basket, accelerated for the fourth month to 17.8% from 16.6% in April, alongside transport costs, up 17.1% from 16%, partly driven by the continued pass-through of the March fuel price shock linked to the Middle East conflict. Prices also continued to increase for health (18.7% vs 18.9%), restaurants and accommodation services (24% vs 27.9%), and personal care, social protection and miscellaneous goods and services (17.8% vs 18.5%). In contrast, inflation notably softened for information and communication (7.4% vs 8.4%). Meanwhile, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, rose by 16.82% from 15.86% in the month before. On a monthly basis, the CPI went up by 1.75% in May, easing from a 2.13% gain in April.
+
+---
+
+### 2026-06-16 07:30:20  #市場 #國際
+
+【英偉達時隔5年再發債，擬募資超200億美元】英偉達週一向美國證券交易委員會（SEC）提交檔案，披露本輪融資計劃，但並未公佈具體融資規模。據知情人士透露，英偉達計劃發行至少200億美元債券，這也是這家晶片廠商自人工智慧產業熱潮興起以來，首次開展債券融資。英偉達股價週一上漲3.5%，年內累計漲幅約14%。
+
+---
+
+### 2026-06-16 07:30:16  #國際
+
+【人民日報鐘聲：日本啟用軍工複合體，和平底線面臨空前挑戰】日本政府日前公佈的一組資料令人深感不安：受當局強化防衛能力方針影響，2025年度防衛省機械製造訂單額達到將近2.69萬億日元，在過去5年內激增至約3倍，佔到當年度政府公共需求訂單的近一半。其中，地對空導彈、飛機等武器裝備訂單增長尤為顯著。 這一態勢清晰表明，日本軍工複合體已被重新啟用。這是日本右翼勢力有計劃、有步驟突破戰後和平體制、定向扶持軍工產業的必然結果，值得包括日本民眾在內的全世界愛好和平的人民高度警惕。 日本軍工複合體的危險，不只在於製造武器，更在於製造對武器的需求；不只在於服務擴軍，更在於推動擴軍。
+
+---
+
+### 2026-06-16 07:29:24  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Losses as Markets Await US-Iran Deal — Brent traded below $84 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors awaited further details of the reported US-Iran peace agreement that could reopen the Strait of Hormuz. The interim accord is expected to be signed in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving markets cautious and prompting shipping companies to delay sending vessels through the route until greater clarity emerges. Oil markets have been heavily disrupted since the conflict began in late February, with the near-closure of the Strait of Hormuz affecting roughly one-fifth of global crude shipments.
+
+---
+
+### 2026-06-16 07:28:42  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Losses as Markets Await US-Iran Deal — Crude oil traded below $82 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors awaited further details of the reported US-Iran peace agreement that could reopen the Strait of Hormuz. The interim accord is expected to be signed in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving markets cautious and prompting shipping companies to delay sending vessels through the route until greater clarity emerges. Oil markets have been heavily disrupted since the conflict began in late February, with the near-closure of the Strait of Hormuz affecting roughly one-fifth of global crude shipments.
+
+---
+
+### 2026-06-16 07:27:29  #公司 #市場
+
+【光伏需求下半年有望復甦 機構積極評級32股】今年以來，全球多地能源轉型提速，海外光伏裝機需求持續超出市場前期預期。業內人士認為，海外高景氣裝機需求能夠有效對沖國內產業鏈庫存壓力，帶動企業營收修復，產業鏈供需失衡局面有望逐步緩和。市場方面，6月15日光伏指數盤中拉昇，意華股份和福斯特漲停，金博股份、晶盛機電、華盛昌等漲幅居前。今年以來光伏裝置股整體表現平淡。據證券時報·資料寶統計，2026年以來，逾半數光伏裝置股跑輸同期上證指數，僅8股漲幅超50%，包括帝爾鐳射、固德威、拉普拉斯、德業股份等。以6月15日收盤價與年內高點相比，光伏裝置股平均回撤35.04%。8股回撤幅度逾50%，包括澤潤新能、雙良節能、歐普泰等。機構關注度方面，合計有32只光伏裝置股獲得5家及以上機構“積極型”評級（含買入、增持、強烈推薦等）。
+
+---
+
+### 2026-06-16 07:23:45  #其他
+
+【中證報：信用卡權益上線AI大模型套餐 信用卡行業洗牌將加速】近日，招商銀行運通工程師信用卡推出專屬AI權益，創新將Token納入新戶首刷禮。專家認為，這是信用卡行業從生活消費權益向生產力權益跨界的標誌性嘗試。未來，信用卡權益載體會從實物、服務向數字權益、算力額度、模型許可權延伸。 專家預計，未來信用卡權益將告別普惠式大水漫灌，走向分層定製、場景跨界、虛實融合三大方向。權益載體從實物、服務向數字權益、算力額度、模型許可權延伸，積分可與AI Token、數字會員互通流轉。同時，銀行會依託使用者行為資料，用AI動態匹配權益，實現一人一策精準投放。國家金融與發展實驗室副主任曾剛表示，風控、算力對接、權益供應鏈整合能力成為新壁壘，缺乏科技協同與場景資源的中小銀行權益迭代節奏會持續落後，市場份額進一步向頭部銀行集中，行業洗牌加速。
+
+---
+
+### 2026-06-16 07:22:22  #公司 #國際
+
+【福克斯公司宣佈以約220億美元收購Roku，打造流媒體與直播內容融合平臺】福克斯公司與Roku當地時間6月15日宣佈，雙方已簽署最終協議，福克斯將以每股160美元的現金與股票組合方式收購Roku，交易企業價值約為220億美元。交易完成後，福克斯將把旗下體育、新聞及娛樂內容資源和Tubi流媒體平臺，與Roku的聯網電視平臺、Roku頻道、第一方資料及逾1億全球流媒體家庭使用者資源整合，按收視份額計將躋身美國電視行業第三大參與者，覆蓋廣播、有線、本地及流媒體等全主要收視場景。
+
+---
+
+### 2026-06-16 07:21:23  #國際
+
+特朗普在社交媒體發文：伊朗已同意永遠不擁有核武器！另外，美國支付伊朗3億美元的說法是假新聞，由民主黨人散佈出來的！！！
+
+---
+
+### 2026-06-16 07:20:13  #央行 #國際
+
+【根據經驗 日本央行或在東京時間12:30前後宣佈利率決定】若以近期規律為鑑，日本央行可能會在東京時間12:30（北京時間11:30）前後宣佈其政策決定。給予近期會議更高權重的分析顯示，自植田和男2023年4月出任行長以來，日本央行在調整貨幣政策時公佈決議的平均時間為12:32。在植田和男任內，此類會議的結果宣佈時間處於從12:19（12月19日）到13:00（他2023年4月首次會議）的區間。
+
+---
+
+### 2026-06-16 07:19:08  #MKT News
+
+President Trump said Iran has agreed never to possess nuclear weapons. He said reports that the U.S. paid Iran $300 million are fake news circulated by Democrats.
 
 ---
 
@@ -20428,280 +20506,5 @@ Kyiv mayor says air strikes knocked out power for about 140,000 residents and da
 ### 2026-06-15 06:40:15  #Trading Economics #Economy #New Zealand #Composite PMI #Importance 0
 
 New Zealand Composite PMI Hits 1-Year Low — The BusinessNZ Performance of Composite Index dropped to 48.4 in May 2026 from a downwardly revised 49.2 in the previous month. It marked the third straight contraction and the steepest pace since May 2025, as the services sector contracted for the fourth consecutive month, while manufacturing registered its first contraction in 11 months.
-
----
-
-### 2026-06-15 06:38:35  #MKT News
-
-Iran's Mehr News Agency published details of a 14-point memorandum of understanding between Iran and the United States.
-
----
-
-### 2026-06-15 06:38:09  #宏觀 #焦點 #國際
-
-伊美雙方這份共14項條款的諒解備忘錄草案披露最新內容，具體條款如下：
-1. 所有戰線即刻永久停火，黎巴嫩戰線包含在內。
-2. 美國承諾不干涉伊朗內政，尊重伊朗伊斯蘭共和國主權。
-3. 30日內全面解除海上封鎖。
-4. 美國承諾撤出部署在伊朗周邊的駐軍。
-5. 霍爾木茲海峽交由伊朗統籌管理，30日內恢復通航。
-6. 暫停針對伊朗石油、石化產品及相關衍生品的制裁，允許伊朗全額動用自身資金資產。
-7. 美國及其盟友須向伊朗提交總額不低於3000億美元的重建方案。
-8. 開展為期60天的談判，圍繞核問題敲定最終協議，全面解除美國一級、二級制裁，以及聯合國安理會、國際原子能機構理事會相關決議項下的制裁。
-9. 伊朗重申恪守《不擴散核武器條約》，承諾不研發核武器。
-10. 談判期間，美國承諾不在該地區增派兵力，也不再出臺新制裁措施。
-11. 在60天最終談判週期內，解凍伊朗被凍結的240億美元資產，其中半數資金需在談判啟動前撥付給伊朗。
-12. 設立協議執行監督機制。
-13. 最終協議需經聯合國安理會決議予以確認。
-14. 只有在伊朗半數被凍結資產解凍、石油相關制裁暫停、海上封鎖解除後，方能啟動最終談判。最終協議僅涉及濃縮材料與鈾濃縮活動處置、制裁解除、伊朗經濟重建方案三大內容，伊朗導彈計劃以及對抵抗組織的支援相關議題，徹底排除在談判議程之外。
-
----
-
-### 2026-06-15 06:37:36  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【Multiple strong explosions heard in Kyiv; mayor reports drone attack】Early on the 15th, between 01:19 and 01:22 local time, Xinhua reporters in Kyiv heard multiple strong explosions. Kyiv Mayor Klitschko said the city was hit by a drone attack.
-
----
-
-### 2026-06-15 06:37:28  #國際
-
-【烏克蘭首都基輔傳出多次強烈爆炸聲】當地時間15日凌晨1時19分至22分，新華社記者在基輔市聽到多次強烈爆炸聲。基輔市市長克利奇科稱市區遭到無人機襲擊。（新華社）
-
----
-
-### 2026-06-15 06:36:52  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran’s deputy foreign minister said one condition for Iran to refrain from retaliating for Israel’s strike on the southern suburbs of Beirut is an Israeli withdrawal from southern Lebanon.
-
----
-
-### 2026-06-15 06:36:45  #Trading Economics #Economy #New Zealand #Services PMI #Importance 1
-
-New Zealand Services Shrink for 4th Month — New Zealand’s BusinessNZ Performance of Services Index declined to 47.5 in May 2026 from a downwardly revised 48.7 in April, marking the fourth consecutive month of contraction in the services sector as the Iran war weighed on business activity.
-
----
-
-### 2026-06-15 06:36:34  #國際
-
-【伊朗稱所獲成果遠大於承諾】當地時間6月15日凌晨，伊朗外交部副部長加里巴巴迪表示，“伊斯蘭堡諒解備忘錄（伊美諒解備忘錄）”文字已最終敲定，將於本週五（6月19日）在瑞士正式簽署。加里巴巴迪表示，從當地時間今天上午起將立即發生兩件事：第一，在所有戰線永久且立即結束戰爭，包括黎巴嫩戰線；第二，美國解除並終止對伊朗實施的海上封鎖。而伊朗方面的承諾將在本週五正式簽署後開始生效。 加里巴巴迪稱，在停火、美國解除海上封鎖、伊朗遭凍結資產開始解凍後，雙方將進入 60 天談判期，磋商最終協議。若“對方違約”，伊朗將採取相應措施，伊朗武裝部隊“一直緊扣扳機”。 加里巴巴迪說，在60天最終協議談判期間，雙方將談判核問題、美國解除對伊朗制裁、重建伊朗經濟機制以及對各方承諾的核查機制等。加里巴巴迪還證實，有關與美國協議的宣告將很快由伊朗最高國家安全委員會發布。屆時伊朗公眾將能夠看到伊朗的成果與承諾，“我們取得的成果遠大於承諾”。
-
----
-
-### 2026-06-15 06:34:51  #MKT News #Market Regions #Europe & UK
-
-UK Prime Minister Starmer said the UK stands ready to support imminent technical talks on a US-Iran agreement and that the UK's long-standing position is that Iran must never possess nuclear weapons.
-
----
-
-### 2026-06-15 06:34:21  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump: Strait of Hormuz to open after Friday agreement signing】US President Trump said the Strait of Hormuz will open for oil shipments after an agreement is signed on Friday; he added the deal would restore peace and security to the region and allow oil and gas to resume flowing to regional and global markets.
-
----
-
-### 2026-06-15 06:34:20  #MKT News #WTI #Impact bearish #Brent
-
-TASNIM NEWS, citing sources, reported the Strait of Hormuz would reopen after a memorandum of understanding is signed on Friday.
-
----
-
-### 2026-06-15 06:34:19  #國際
-
-烏克蘭地方當局稱，基輔一棟高層公寓樓在空襲後起火。
-
----
-
-### 2026-06-15 06:32:54  #國際
-
-伊朗塔斯尼姆通訊社引述訊息人士說法稱，霍爾木茲海峽將在備忘錄簽署後於週五重新開放。
-
----
-
-### 2026-06-15 06:32:20  #公司 #央行 #國際
-
-【週一重要財經資訊提醒（以下均為北京時間）】 
-① 待定 七國集團（G7）峰會開幕；
-② 待定 國家能源局公佈5月全社會用電量資料；
-③ 15:15 歐洲央行行長拉加德發表講話；
-④ 15:50 歐洲央行執委奇波洛內發表講話；
-⑤ 17:00 歐元區4月工業產出；
-⑥ 20:30 加拿大4月批發銷售；
-⑦ 20:30 美國6月紐約聯儲製造業指數；
-⑧ 21:15 美國5月工業產出；
-⑨ 22:00 美國6月NAHB房產市場指數。
-
----
-
-### 2026-06-15 06:31:36  #國際
-
-英國首相斯塔默：伊朗絕對不得擁有核武器，這是英國長期以來的堅定立場。
-
----
-
-### 2026-06-15 06:31:12  #其他
-
-英國首相斯塔默：我們明確認為，霍爾木茲海峽必須立即恢復免通行費的航行自由。
-
----
-
-### 2026-06-15 06:30:33  #國際
-
-英國首相斯塔默：祝賀特朗普總統，以及來自巴基斯坦、卡達和其他地區的調解方，他們為這一突破性進展作出了貢獻。
-
----
-
-### 2026-06-15 06:30:21  #國際
-
-英國首相斯塔默：我對美國與伊朗今日達成的協議表示熱烈歡迎。
-
----
-
-### 2026-06-15 06:30:12  #國際
-
-伊朗副外長表示，伊朗對以色列襲擊貝魯特南郊作出報復的條件之一，是以色列從黎巴嫩南部撤軍。
-
----
-
-### 2026-06-15 06:28:49  #MKT News
-
-U.S. Vice President Vance said Iran assured the U.S. it would not carry out retaliatory measures against Israel.
-
----
-
-### 2026-06-15 06:28:47  #焦點 #國際
-
-特朗普：這份重要協議將為整個地區帶來和平與安全。多位前任總統都曾試圖與伊朗促成和解，但均以失敗告終。地區各國領導人如今首次遇到一位能助力他們實現真正和平的總統。本週五協議簽署後，霍爾木茲海峽將為清除水雷重新開放，區域乃至全球的石油運輸通道將全線恢復暢通。
-
----
-
-### 2026-06-15 06:28:17  #MKT News
-
-Iran's top joint military command said Iranians, under the Supreme Leader's command, have shown the US "no choice but to accept defeat".
-
----
-
-### 2026-06-15 06:28:13  #國際
-
-美國副總統萬斯： 以色列襲擊貝魯特之後，我們掌握大量證據，顯示伊朗準備向以色列發射大批導彈。 經我方與伊朗方面溝通，對方承諾不會對以色列採取報復行動，將會簽署協議、謀求和平。
-
----
-
-### 2026-06-15 06:24:08  #國際
-
-伊朗最高聯合軍事指揮部表示，伊朗民眾在最高領袖的領導下已向美國證明，“（美國）除接受戰敗外別無他途”。
-
----
-
-### 2026-06-15 06:22:34  #MKT News #Important
-
-【Iran deputy foreign minister: 60-day talks with U.S. to cover four issues】Iran's deputy foreign minister said the 60-day talks with the U.S. will address four items: ending all sanctions and UN Security Council resolutions; the nuclear issue; defining a final mechanism for Iran's reconstruction; and establishing an enforcement mechanism to monitor parties' commitments.
-
----
-
-### 2026-06-15 06:21:03  #國際
-
-【美伊19日在瑞士籤協議】當地時間6月14日下午，美國副總統萬斯稱，他計劃出席將於本週五在瑞士舉行的美伊協議簽字儀式，美國總統特朗普“有可能”參加。
-
----
-
-### 2026-06-15 06:20:32  #國際
-
-伊朗副外長表示，為期60天的談判將要討論的議題包括解除制裁、伊朗重建機制，以及建立監督各方履約情況的機制。
-
----
-
-### 2026-06-15 06:19:56  #MKT News
-
-Iran's deputy foreign minister said mediators will still participate in upcoming talks.
-
----
-
-### 2026-06-15 06:19:40  #MKT News
-
-Iran deputy foreign minister says the nuclear issue will be discussed during 60-day negotiations.
-
----
-
-### 2026-06-15 06:19:23  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver climbed above $70/oz, up 3% on the day.
-
----
-
-### 2026-06-15 06:19:14  #市場
-
-現貨白銀日內漲3%，現報70.04美元/盎司。
-
----
-
-### 2026-06-15 06:19:14  #市場 #焦點
-
-現貨白銀突破70美元/盎司，日內漲3.06%。
-
----
-
-### 2026-06-15 06:19:06  #國際
-
-伊朗副外長表示，核問題將在為期60天的談判中進行討論。
-
----
-
-### 2026-06-15 06:17:21  #MKT News
-
-Qatari prime minister and foreign minister said he expects all parties to participate in upcoming talks in a positive, constructive spirit.
-
----
-
-### 2026-06-15 06:16:50  #國際
-
-基輔市長：首都部分割槽域出現停電情況，相關專家正在排查原因。
-
----
-
-### 2026-06-15 06:16:15  #國際
-
-美國副總統萬斯：我知道這段時間對許多美國民眾而言十分艱難，但我們為大家取得了一項重大成果。
-
----
-
-### 2026-06-15 06:15:36  #MKT News
-
-Qatari prime minister and foreign minister said Doha welcomes the memorandum of understanding between the United States and Iran.
-
----
-
-### 2026-06-15 06:15:27  #國際
-
-卡達首相：對美國與伊朗達成諒解備忘錄表示歡迎。感謝巴基斯坦伊斯蘭共和國各界友人，以及所有為促成此次共識創造條件的地區及國際各方。期待各方秉持積極、建設性態度參與後續談判，鞏固現有成果並推動事態進一步發展。卡達重申，本國將一如既往堅定支援相關努力，支援一切透過對話與和平方式維護地區及全球安全穩定的舉措。
-
----
-
-### 2026-06-15 06:14:32  #公司 #國際
-
-法國總統馬克龍：針對美伊協議，七國集團將商討霍爾木茲海峽長期恢復通航相關事宜。
-
----
-
-### 2026-06-15 06:14:05  #焦點 #國際
-
-以色列總理內塔尼亞胡告知特朗普，以色列不受伊美協議中黎巴嫩相關條款的約束。他表示，以色列國防軍不會從黎巴嫩撤軍，將駐守現有陣地，並繼續針對真主黨開展軍事行動。
-
----
-
-### 2026-06-15 06:13:36  #國際
-
-伊朗革命衛隊旗下的法爾斯通訊社稱，因對方在最後關頭作出讓步（其中包括以色列從黎巴嫩撤軍），伊朗取消了針對以色列的打擊行動。
-
----
-
-### 2026-06-15 06:13:03  #國際
-
-伊朗：將尋求解除所有一級和二級制裁。
-
----
-
-### 2026-06-15 06:12:53  #國際
-
-伊朗副外長：如有必要，相關談判也可延期舉行。
 
 ---

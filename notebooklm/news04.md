@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-22 06:11:36_
-_本檔包含 3408 則快訊，約 649092 字_
+_更新時間：2026-06-22 06:38:47_
+_本檔包含 3413 則快訊，約 649088 字_
+
+---
+
+### 2026-06-17 09:08:40  #其他
+
+【北京人工智慧專案融資路演推介會舉辦】6月11日，北京市委網信辦聯合經開區管委會，在亦莊模數世界大模型生態服務站（模數世界人工智慧新質產業社群）共同舉辦“模力AI大講堂·北京人工智慧專案融資路演推介會”，北京機器人基金、水木創投、亦莊國投、梅花創投、啟迪之星、中能建基金、中交資本、商湯科技、京東方、深創投、黑馬基金、建設銀行、北京銀行、興業證券等70餘家投資機構和企業代表齊聚一堂，共同見證14個人工智慧優質專案的前沿成果。本次路演聚焦人工智慧中小企業“融資難、融資貴”問題，為創業企業和投資機構搭建投融資交流溝通橋樑，幫助企業拓寬融資渠道、降低融資成本。（證券時報）
+
+---
+
+### 2026-06-17 09:05:24  #其他
+
+【自然資源部部署“十五五”新一輪找礦突破戰略行動】6月15日，自然資源部召開新一輪找礦突破戰略行動“十五五”動員部署會。 會議強調，要錨定新一輪找礦突破戰略行動“十五五”目標，抓實抓牢六項重點工作：一是大力加強基礎性地質調查，提交一批找礦靶區和勘查區塊建議；二是大力加強戰略性礦產勘查，促進重要戰略性礦產增儲上產；三是大力加強資源綜合利用，盤活一批難利用資源；四是大力加強優質政策供給，維護礦產資源國家所有者權益和礦業權人合法權益；五是大力加強科技創新，發展找礦領域新質生產力；六是大力加強綠色勘查和綠色礦山建設，最大限度減少勘查開發活動對生態環境的影響。
+
+---
+
+### 2026-06-17 09:04:12  #其他
+
+【我國荒漠化防治成效顯著 基本實現“三北”工程六期任務過半】今天（6月17日）是第32個世界防治荒漠化和乾旱日。記者從國家林草局瞭解到，近年來，我國不斷加大荒漠化防治力度，取得顯著成效。“三北”地區是我國防沙治沙的主戰場，國家林業和草原局最新公佈的資料顯示，“三北”工程六期已安排建設任務4.63億畝、完成3.55億畝，基本實現時間過半、任務過半的階段目標。“十四五”期間，我國持續加強荒漠化綜合防治，深入推進“三北”等重點生態工程建設，累計完成沙化土地治理1.52億畝，石漠化土地治理2932萬畝，全國沙化程度持續減輕，沙區生態狀況持續改善。（央視）
+
+---
+
+### 2026-06-17 09:03:55  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日持平】截至2026年06月16日，全球最大的黃金ETF SPDR Gold Trust持倉量為1012.21噸，較前一個交易日持平。
+
+---
+
+### 2026-06-17 09:03:30  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Holds Near 3-Month Low — US heating oil prices traded around $3.20 per gallon, hovering close to their lowest level since March 11, as the US-Iran deal is expected to reopen the Strait of Hormuz and facilitate a return of Middle Eastern energy exports. Under the interim pact, which is scheduled to be signed later this week, Tehran would receive broad financial incentives, including the immediate right to sell its oil. Still, markets are assessing the durability of the agreement and the timeline for shipping through the Strait to normalize, as many operators may wait several weeks before resuming tanker transits. Producers have also cautioned that a full recovery could take months, citing technical and geological constraints as well as infrastructure damage. Meanwhile, industry data showed that distillate stockpiles, including diesel and heating oil, fell by 461,000 barrels in mid-June after rising by 1.3 million barrels in the previous week.
+
+---
+
+### 2026-06-17 09:03:24  #公司
+
+【全國鐵路將實行新的列車執行圖 新圖車票今起陸續發售】記者今天（17日）從國鐵集團瞭解到，從7月1日零時起，全國鐵路將實行新的列車執行圖，運輸能力和效率進一步提升。調圖後，全國鐵路安排圖定旅客列車12174列，較現圖增加106列。利用即將開通的武漢至西安高鐵西安東至十堰東段，安排開行西安東（西安北）至南陽東、漢口、重慶北等方向動車組列車58列，進一步密切西北地區與華中、華南、西南地區的聯絡，縮短時空距離。
+
+---
+
+### 2026-06-17 09:03:04  #其他
+
+【第32屆圖博會展出22萬種圖書】以“以書為媒 交流對話 合作共贏”為主題，第32屆北京國際圖書博覽會6月17日在北京國家會議中心開幕。本屆書展展覽總面積6萬平方米，吸引82個國家和地區的1700多家展商現場參展；其中，海外展商超1100家，參展國家較去年新增10個。本屆書展集中展出22萬種精品實物圖書，舉辦1000餘場線上線下文化交流活動，透過展覽展示、版權貿易和文化交流活動的提質升級，推動更多出版企業和優秀出版物走向世界。阿聯酋擔任本屆書展主賓國，將攜近30家文化出版機構參展，舉辦20餘場交流活動。（新華社）
+
+---
+
+### 2026-06-17 09:02:50  #宏觀 #國際
+
+據英國金融時報報道，印度信實Jio Infocomm可能在未來幾天內向印度資本市場監管機構提交其預計40億美元IPO的招股說明書草案。
+
+---
+
+### 2026-06-17 09:02:25  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Steadies Ahead of Fed Decision — The dollar index hovered around 99.5 on Wednesday after experiencing heightened volatility earlier in the week, as investors awaited the Federal Reserve’s latest policy decision, where officials are widely expected to leave interest rates unchanged. The meeting will also be the first under new Chair Kevin Warsh, although he is not expected to submit a "dot" to the FOMC’s quarterly projections outlining individual policymakers’ rate expectations. Market participants will also focus on upcoming US retail sales and pending home sales data for further clues on the economic outlook. Earlier this week, the Reserve Bank of Australia kept its benchmark interest rate unchanged at 4.35%, while the Bank of Japan raised its policy rate by 25 basis points to 1%. Meanwhile, investors continued to monitor developments surrounding the US-Iran peace agreement, which is set to be signed on Friday and is expected to reopen the Strait of Hormuz and restore oil flows from the Middle East.
+
+---
+
+### 2026-06-17 09:01:41  #觀點
+
+【中信證券：城投轉型提速 對地方是風險還是機遇】6月17日，中信證券明明團隊一份研報指出，2025年化債工作穩步推進，相關成效持續顯現。城投平臺有息債務增速維持低位，債務結構持續最佳化，同時企業回款狀況改善，平臺經營“造血能力”穩步增強。隨著政策更加強調平臺轉型發展，城投平臺股權投資加速，有望成為平臺後續發展的重要抓手。但化債推進也對城投原有業務形成一定影響，城投平臺存貨規模延續調整態勢，在建工程規模持續下滑。
+
+---
+
+### 2026-06-17 09:01:38  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D rose 0.08% to 942.0 yuan/gram in early trade on Wednesday, June 17. Silver T+D on the Shanghai Gold Exchange rose 0.12% to 16,712.0 yuan/kg in early trade on Wednesday, June 17.
+
+---
+
+### 2026-06-17 09:01:12  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index opened down 565.37 points, or 1.23%, at 45,243.82 points on June 17 (Wednesday).
+
+---
+
+### 2026-06-17 09:00:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index
+
+FTSE China A50 futures opened down 0.2%.
+
+---
+
+### 2026-06-17 09:00:52  #宏觀 #國際
+
+韓國金融市場監管機構呼籲投資者避免進行高風險或過度槓桿投資。將加強監測風險因素，以應對市場波動加劇。
+
+---
+
+### 2026-06-17 09:00:37  #MKT News
+
+South Korea's market regulator will step up monitoring of risk factors to address heightened market volatility.
+
+---
+
+### 2026-06-17 09:00:33  #市場 #焦點
+
+尿素連續主力合約日內漲4%，現報1839.00元。
+
+---
+
+### 2026-06-17 09:00:28  #MKT News #Important
+
+South Korea's market regulator urged investors to avoid high-risk investments and excessive leverage.
+
+---
+
+### 2026-06-17 09:00:23  #MKT News #Important #Commodities #Energy #Cotton #Impact bullish #Soybean No.2 #Palm Oil
+
+At the open, major Chinese futures were mostly lower. LPG and fuel oil slid over 4%; Shanghai crude (SC) and low-sulfur fuel oil (LU) dropped more than 3%; Asia‑Europe container freight fell nearly 3%; benzene was down over 2%; bitumen declined about 2%; methanol fell just over 1%. On the upside, urea and cotton rose nearly 2%; cotton yarn, No.20 rubber, broader rubber contracts, stainless steel (SS) and Soybean No.2 gained more than 1%; palm oil advanced about 1%.
 
 ---
 
@@ -20470,83 +20578,5 @@ Ebola confirmed cases in the Democratic Republic of Congo rise to 808.
 ### 2026-06-16 07:32:07  #公司 #國際
 
 【理想汽車：根據2020年計劃授出3500萬份購股權及根據2019年計劃授出555.72萬份受限制股份單位】6月16日早間，理想汽車在港交所公告，於2026年6月15日，公司根據2020年計劃向兩名董事（即李鐵及馬東輝）及本公司一名高階管理層（即謝炎）授出合共35,000,000份購股權，代表17,500,000份美國存托股份（相當於35,000,000股A類普通股），佔截至本公告日期本公司已發行股份總數約1.62%（按一股一票基準）。於2026年6月15日，本公司根據2019年計劃向一名董事馬東輝及99名本公司僱員授出合共5,557,200份受限制股份單位，代表相同數量的A類普通股，佔截至本公告日期本公司已發行股份總數約0.26%（按一股一票基準）。
-
----
-
-### 2026-06-16 07:31:15  #市場
-
-日經指數期貨在新加坡交易所開盤上漲180點，報69600點。
-
----
-
-### 2026-06-16 07:30:53  #公司
-
-【海南首票 海口企業完成非藥用用途食藥物質進口業務】據海口釋出，日前，在海口海關所屬洋浦海關的高效監管下，40餘噸以食品用途進口的西洋參順利通關入境，成為海南口岸首單依據食藥物質分類監管政策落地的西洋參進口業務。該批貨物的進口企業——海南參和方記健康有限公司，是註冊於海口國家高新區的一家專注於健康產品研發與貿易的企業。
-
----
-
-### 2026-06-16 07:30:44  #Trading Economics #Economy #Nigeria #Inflation Rate #Importance 0
-
-Nigeria Inflation Hits 6-Month High — The annual inflation rate in Nigeria rose for a third straight month to 15.93% in May 2026, marking the highest since last November, from 15.69% in the previous month. Food inflation, the largest component of the inflation basket, accelerated for the fourth month to 17.8% from 16.6% in April, alongside transport costs, up 17.1% from 16%, partly driven by the continued pass-through of the March fuel price shock linked to the Middle East conflict. Prices also continued to increase for health (18.7% vs 18.9%), restaurants and accommodation services (24% vs 27.9%), and personal care, social protection and miscellaneous goods and services (17.8% vs 18.5%). In contrast, inflation notably softened for information and communication (7.4% vs 8.4%). Meanwhile, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, rose by 16.82% from 15.86% in the month before. On a monthly basis, the CPI went up by 1.75% in May, easing from a 2.13% gain in April.
-
----
-
-### 2026-06-16 07:30:20  #市場 #國際
-
-【英偉達時隔5年再發債，擬募資超200億美元】英偉達週一向美國證券交易委員會（SEC）提交檔案，披露本輪融資計劃，但並未公佈具體融資規模。據知情人士透露，英偉達計劃發行至少200億美元債券，這也是這家晶片廠商自人工智慧產業熱潮興起以來，首次開展債券融資。英偉達股價週一上漲3.5%，年內累計漲幅約14%。
-
----
-
-### 2026-06-16 07:30:16  #國際
-
-【人民日報鐘聲：日本啟用軍工複合體，和平底線面臨空前挑戰】日本政府日前公佈的一組資料令人深感不安：受當局強化防衛能力方針影響，2025年度防衛省機械製造訂單額達到將近2.69萬億日元，在過去5年內激增至約3倍，佔到當年度政府公共需求訂單的近一半。其中，地對空導彈、飛機等武器裝備訂單增長尤為顯著。 這一態勢清晰表明，日本軍工複合體已被重新啟用。這是日本右翼勢力有計劃、有步驟突破戰後和平體制、定向扶持軍工產業的必然結果，值得包括日本民眾在內的全世界愛好和平的人民高度警惕。 日本軍工複合體的危險，不只在於製造武器，更在於製造對武器的需求；不只在於服務擴軍，更在於推動擴軍。
-
----
-
-### 2026-06-16 07:29:24  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds Losses as Markets Await US-Iran Deal — Brent traded below $84 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors awaited further details of the reported US-Iran peace agreement that could reopen the Strait of Hormuz. The interim accord is expected to be signed in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving markets cautious and prompting shipping companies to delay sending vessels through the route until greater clarity emerges. Oil markets have been heavily disrupted since the conflict began in late February, with the near-closure of the Strait of Hormuz affecting roughly one-fifth of global crude shipments.
-
----
-
-### 2026-06-16 07:28:42  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Losses as Markets Await US-Iran Deal — Crude oil traded below $82 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors awaited further details of the reported US-Iran peace agreement that could reopen the Strait of Hormuz. The interim accord is expected to be signed in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving markets cautious and prompting shipping companies to delay sending vessels through the route until greater clarity emerges. Oil markets have been heavily disrupted since the conflict began in late February, with the near-closure of the Strait of Hormuz affecting roughly one-fifth of global crude shipments.
-
----
-
-### 2026-06-16 07:27:29  #公司 #市場
-
-【光伏需求下半年有望復甦 機構積極評級32股】今年以來，全球多地能源轉型提速，海外光伏裝機需求持續超出市場前期預期。業內人士認為，海外高景氣裝機需求能夠有效對沖國內產業鏈庫存壓力，帶動企業營收修復，產業鏈供需失衡局面有望逐步緩和。市場方面，6月15日光伏指數盤中拉昇，意華股份和福斯特漲停，金博股份、晶盛機電、華盛昌等漲幅居前。今年以來光伏裝置股整體表現平淡。據證券時報·資料寶統計，2026年以來，逾半數光伏裝置股跑輸同期上證指數，僅8股漲幅超50%，包括帝爾鐳射、固德威、拉普拉斯、德業股份等。以6月15日收盤價與年內高點相比，光伏裝置股平均回撤35.04%。8股回撤幅度逾50%，包括澤潤新能、雙良節能、歐普泰等。機構關注度方面，合計有32只光伏裝置股獲得5家及以上機構“積極型”評級（含買入、增持、強烈推薦等）。
-
----
-
-### 2026-06-16 07:23:45  #其他
-
-【中證報：信用卡權益上線AI大模型套餐 信用卡行業洗牌將加速】近日，招商銀行運通工程師信用卡推出專屬AI權益，創新將Token納入新戶首刷禮。專家認為，這是信用卡行業從生活消費權益向生產力權益跨界的標誌性嘗試。未來，信用卡權益載體會從實物、服務向數字權益、算力額度、模型許可權延伸。 專家預計，未來信用卡權益將告別普惠式大水漫灌，走向分層定製、場景跨界、虛實融合三大方向。權益載體從實物、服務向數字權益、算力額度、模型許可權延伸，積分可與AI Token、數字會員互通流轉。同時，銀行會依託使用者行為資料，用AI動態匹配權益，實現一人一策精準投放。國家金融與發展實驗室副主任曾剛表示，風控、算力對接、權益供應鏈整合能力成為新壁壘，缺乏科技協同與場景資源的中小銀行權益迭代節奏會持續落後，市場份額進一步向頭部銀行集中，行業洗牌加速。
-
----
-
-### 2026-06-16 07:22:22  #公司 #國際
-
-【福克斯公司宣佈以約220億美元收購Roku，打造流媒體與直播內容融合平臺】福克斯公司與Roku當地時間6月15日宣佈，雙方已簽署最終協議，福克斯將以每股160美元的現金與股票組合方式收購Roku，交易企業價值約為220億美元。交易完成後，福克斯將把旗下體育、新聞及娛樂內容資源和Tubi流媒體平臺，與Roku的聯網電視平臺、Roku頻道、第一方資料及逾1億全球流媒體家庭使用者資源整合，按收視份額計將躋身美國電視行業第三大參與者，覆蓋廣播、有線、本地及流媒體等全主要收視場景。
-
----
-
-### 2026-06-16 07:21:23  #國際
-
-特朗普在社交媒體發文：伊朗已同意永遠不擁有核武器！另外，美國支付伊朗3億美元的說法是假新聞，由民主黨人散佈出來的！！！
-
----
-
-### 2026-06-16 07:20:13  #央行 #國際
-
-【根據經驗 日本央行或在東京時間12:30前後宣佈利率決定】若以近期規律為鑑，日本央行可能會在東京時間12:30（北京時間11:30）前後宣佈其政策決定。給予近期會議更高權重的分析顯示，自植田和男2023年4月出任行長以來，日本央行在調整貨幣政策時公佈決議的平均時間為12:32。在植田和男任內，此類會議的結果宣佈時間處於從12:19（12月19日）到13:00（他2023年4月首次會議）的區間。
-
----
-
-### 2026-06-16 07:19:08  #MKT News
-
-President Trump said Iran has agreed never to possess nuclear weapons. He said reports that the U.S. paid Iran $300 million are fake news circulated by Democrats.
 
 ---

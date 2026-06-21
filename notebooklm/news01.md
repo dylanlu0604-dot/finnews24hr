@@ -1,7 +1,84 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-22 06:11:36_
-_本檔包含 3812 則快訊，約 649386 字_
+_更新時間：2026-06-22 06:38:47_
+_本檔包含 3796 則快訊，約 649371 字_
+
+---
+
+### 2026-06-22 06:37:59  #國際
+
+烏克蘭敖德薩州州長：俄羅斯使用導彈發動襲擊，造成1人死亡、3人受傷。
+
+---
+
+### 2026-06-22 06:32:15  #資料 #央行 #國際
+
+【週一重要財經資訊提醒（以下均為北京時間）】 
+① 09:00 中國6月貸款市場報價利率(LPR)；
+② 15:00 國新辦就利用外資固穩促優有關政策措施舉行新聞釋出會；
+③ 17:00 歐洲央行管委科赫爾發表講話；
+④ 20:30 加拿大5月CPI，歐洲央行行長拉加德發表講話；
+⑤ 22:00 歐元區6月消費者信心指數初值。
+
+---
+
+### 2026-06-22 06:30:56  #MKT News
+
+【Trump again lashes New York Times: False reporting on Iran 'treasonous'】US President Trump said the "corrupt, failing New York Times" has published false and fabricated "facts" about an embattled Iran, calling that conduct "treasonous." He said he will add all their "false and ridiculous" reports to his multibillion-dollar lawsuit against the paper and labeled them "criminals."
+
+---
+
+### 2026-06-22 06:29:57  #MKT News #00697.HK
+
+Shoucheng Holdings (00697.HK) said a fund managed by a Shoucheng Capital subsidiary has recently invested in AI services firm Zhizi Xinyuan.
+
+---
+
+### 2026-06-22 06:19:58  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Inches Higher for 4th Session — Brent oil prices opened the week more than 1.5% higher, rising to almost $82 per barrel as the US and Iran began talks in Switzerland, the first to take place under last week's memorandum of understanding. The agreement called for reopening the strait of Hormuz, and ending hostilities, including in Lebanon, where Israel and the Iran-backed Hezbollah have continued exchanging attacks. However, Iran said the US had failed to secure a ceasefire in Lebanon and announced it had again halted traffic through the strait. Tehran also said Sunday's talks would exclude substantive issues such as its nuclear programme.
+
+---
+
+### 2026-06-22 06:19:31  #MKT News #Market Themes #The Trump Trade #Commodities #Energy #WTI #Impact bullish
+
+【Trump threat clouds US-Iran talks; oil opens higher, WTI up 1.7%】International oil prices opened higher on Monday after Trump warned he would strike Iran if Hezbollah continues to attack Israel, a move that raised doubts over progress in talks between Washington and Tehran. WTI crude rose as much as 1.7%. The warning came days after Trump signed a memorandum last week launching a 60‑day negotiation window; high‑level talks began at the Bürgenstock resort in Switzerland. Iran said it had again closed the Strait of Hormuz, but millions of barrels continued to transit the waterway over the weekend.
+
+---
+
+### 2026-06-22 06:18:39  #國際
+
+美國外交官：美伊會談包含落實黎巴嫩南部停火相關內容，還就核協議展開深入磋商。
+
+---
+
+### 2026-06-22 06:17:57  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Starts the Week Higher — Crude oil prices opened the week more than 1.5% higher, rising above $78 per barrel as the US and Iran began talks in Switzerland, the first to take place under last week's memorandum of understanding. The agreement called for reopening the strait of Hormuz, and ending hostilities, including in Lebanon, where Israel and the Iran-backed Hezbollah have continued exchanging attacks. However, Iran said the US had failed to secure a ceasefire in Lebanon and announced it had again halted traffic through the strait. Tehran also said Sunday's talks would exclude substantive issues such as its nuclear programme.
+
+---
+
+### 2026-06-22 06:17:55  #國際
+
+【韓媒：李在明調整幕僚團隊釋放訊號，施政核心將集中在社會民生等方面】據韓國多家媒體21日報道，韓國總統李在明進入執政第二年，對青瓦臺幕僚團隊和國家安保高層進行調整，涉及宣傳溝通、民政事務、社會政策、國防和經濟安保等領域。韓國總統秘書室室長姜勳植表示，此次人事調整旨在提速國政運營，聚焦推進外交安保佈局、制度秩序和改革任務。（環球網）
+
+---
+
+### 2026-06-22 06:13:13  #MKT News
+
+【De la Espriella wins Colombian presidential runoff】Preliminary counts show independent candidate Abelardo de la Espriella, backed by far-right group Defenders of the Homeland, won Colombia's presidential runoff held on the 21st.
+
+---
+
+### 2026-06-22 06:13:06  #其他
+
+【德拉埃斯普列亞贏得哥倫比亞總統選舉】初步計票結果顯示，極右翼政治團體“祖國捍衛者”的獨立候選人阿韋拉多·德拉埃斯普列亞在21日舉行的哥倫比亞總統選舉第二輪投票中獲勝。（新華社）
+
+---
+
+### 2026-06-22 06:12:09  #MKT News
+
+【Sources: U.S.-Iran talks remain paused】Iranian sources said on the 22nd that negotiations between Iran and the United States in Switzerland began on the 21st at about 15:00 local time and ran roughly 1.5 hours before being recessed for 30 minutes for internal consultations. Iran's delegation refused to resume after Trump made threatening remarks. Qatar and Pakistan continue mediating and intermediaries are still relaying messages; mediation is ongoing but no final agreement has been reached. Iran lodged a formal protest over U.S. breaches of commitments, citing a specific violation of Article 1 of the memorandum of understanding (MoU).
 
 ---
 
@@ -22817,173 +22894,5 @@ From Friday local time, France expanded heatwave warnings to 53 departments.
 ### 2026-06-19 00:36:35  #MKT News
 
 【Foreign Ministry responds after South Korean official reiterates joint communique wording on Taiwan】South Korea's foreign ministry director-general for Northeast Asia and Central Asia, Nam Jin, told reporters on the 18th that the China–South Korea joint communique states “The Government of the Republic of Korea recognizes the Government of the People’s Republic of China as the sole legal government of China and respects China’s position that there is only one China and that Taiwan is part of China,” and that Seoul’s position has not changed. China’s foreign ministry said it positively evaluated the full, public restatement and said it hopes and believes Seoul will adhere to the original intent of establishing diplomatic relations, honor political commitments, implement the One-China principle in practice and safeguard the political basis of China–South Korea relations.
-
----
-
-### 2026-06-19 00:36:27  #市場
-
-現貨白銀日內跌3%，現報65.87美元/盎司。
-
----
-
-### 2026-06-19 00:36:16  #市場 #焦點
-
-現貨黃金失守4220美元/盎司，日內跌0.94%。
-
----
-
-### 2026-06-19 00:36:03  #市場 #焦點
-
-紐約期金失守4240美元/盎司，日內跌3.28%。
-
----
-
-### 2026-06-19 00:36:01  #國際
-
-美國教育部：選擇自動還款的貸款借款人可享受降息優惠。
-
----
-
-### 2026-06-19 00:34:23  #國際
-
-美國副總統萬斯： 一旦特朗普察覺到以色列政壇的目標與美國民眾的訴求相悖，他會明確表態，我們將優先維護美國自身利益。
-
----
-
-### 2026-06-19 00:33:31  #國際
-
-【OPEC認為全球石油需求尚看不到峰值 能源安全蓋過氣候考量】OPEC仍認為全球石油需求尚看不到峰值，預計隨著美國、歐洲及其他地區政府在氣候目標之外也優先考慮能源安全和能源可負擔性，需求將出現“強勁增長”。“對能源安全和能源可負擔性的關注上升，已經改變了全球能源政策格局，”OPEC表示，“在許多情況下，這些轉變反映出，此前為降低石油需求而設定的高遠目標和承諾被逆轉、推遲或取消。”OPEC在其年度《世界石油展望》中表示，石油需求預計將從2025年的日均1.051億桶，增至2030年的日均1.133億桶，到2050年達到日均1.241億桶。該組織對石油需求的樂觀看法與國際能源署等其他預測機構形成鮮明對比。總部位於巴黎的國際能源署此前剛剛預測，美國和以色列對伊朗發動的戰爭對全球石油需求的衝擊將遠比此前預期嚴重得多，預計今年全球日均石油消費量將減少110萬桶。
-
----
-
-### 2026-06-19 00:33:08  #國際
-
-美國教育部宣佈降低學生貸款利率。
-
----
-
-### 2026-06-19 00:33:00  #MKT News #SPCX.O #Impact mixed
-
-【SpaceX plans at least $20bln bond issue to refinance $20bln bridge loan】SpaceX (SPCX.O) is planning an investment-grade US dollar bond offering of at least $20 billion to refinance a $20 billion bridge loan maturing September 2027, people familiar with the matter said. Banks may begin investor calls as early as next week, with outreach possibly starting Monday; size and timing remain subject to change. Proceeds would replace the bridge facility that, as of March 31, accounted for the bulk of SpaceX’s $29.1 billion of long-term debt. BofA, Citigroup, JP Morgan, Goldman Sachs and Morgan Stanley jointly provided the bridge and are expected to lead underwriting.
-
----
-
-### 2026-06-19 00:31:47  #其他
-
-XAI：Grok 模型現已上線 Databricks Agent Bricks。
-
----
-
-### 2026-06-19 00:31:38  #公司 #國際
-
-【美國參議員桑德斯將提出法案，賦予民眾AI企業股權】美國參議院桑德斯（Bernie Sanders）正提出一項法案，旨在讓美國公民在人工智慧（AI）公司的運營中擁有發言權。這項名為《美國人工智慧主權財富基金法案》（American AI Sovereign Wealth Fund Act）的提案將設立一項基金，對美國最大的人工智慧公司股票徵收一次性50%的稅。桑德斯表示，該法案將賦予美國民眾阻止對其生活產生負面影響的AI發展的能力，並允許聯邦政府否決損害公眾利益的決策。
-
----
-
-### 2026-06-19 00:31:11  #公司 #市場 #央行 #國際
-
-【分析：美聯儲公佈決定後加密貨幣未平倉合約驟降】CryptoQuant的Amr Taha在一份報告中表示，在幣安交易的兩大主要加密貨幣——比特幣和以太幣的衍生品未平倉合約出現了“大幅槓桿重置”。Taha說，在宣佈利率保持不變後，比特幣未平倉合約下降了18%，以太幣未平倉合約下降了25%。“比特幣和以太幣同時下降，表明幣安衍生品市場的風險偏好普遍降低，”Taha說。“交易員可能選擇在美聯儲釋出公告前後平倉，而不是帶著槓桿去面對可能出現波動的市場反應。”
-
----
-
-### 2026-06-19 00:30:38  #國際
-
-荷蘭首相：美國對俄羅斯施壓對達成和平協議至關重要。
-
----
-
-### 2026-06-19 00:30:25  #國際
-
-美國教育部公佈最新學生貸款違約資料：美國整治行動下，學生貸款違約人數增至916萬。
-
----
-
-### 2026-06-19 00:29:59  #國際
-
-【萬斯回應以色列批評特朗普言論：不該抨擊盟友】美國副總統 JD・萬斯嚴厲斥責以色列國內反對美伊臨時和平協議的人士，他於週四發出警告：“我絕不會去攻擊我國如今在全球僅存的重要盟友。”萬斯在白宮接受記者採訪時稱，當下全世界只有唐納德・特朗普總統真心站在以色列這邊。他同時批評以色列內閣官員，以色列絕大多數防禦武器均由美國出資提供。萬斯表示：“以色列真正的難題根本不是唐納德・J・特朗普。以色列國內但凡有人把美國總統視作本國最大麻煩，都該清醒認清國家當下的現實處境。”
-
----
-
-### 2026-06-19 00:29:16  #MKT News #EURUSD #Impact bearish #DAX
-
-Dutch prime minister says the EU budget proposal currently on the table is not good enough for the Netherlands.
-
----
-
-### 2026-06-19 00:29:02  #MKT News
-
-Iranian state TV said Iran's Supreme Leader will soon deliver a speech on a memorandum of understanding.
-
----
-
-### 2026-06-19 00:28:16  #國際
-
-荷蘭首相：當前提交的歐盟預算提案對荷蘭而言仍不夠完善。
-
----
-
-### 2026-06-19 00:28:05  #焦點 #國際
-
-伊朗最高領袖將就終止與美國的戰爭協議發表最新講話。
-
----
-
-### 2026-06-19 00:27:33  #國際
-
-以色列前總理埃胡德・巴拉克聲稱：內塔尼亞胡很可能會在大選前夕進攻黎巴嫩，並且他正試圖與伊朗、真主黨開啟一場無休止的戰爭。
-
----
-
-### 2026-06-19 00:26:49  #公司 #觀點 #國際
-
-【SpaceX 的合作投行團隊計劃發行至少 200 億美元投資級美元債券】知情人士透露，埃隆・馬斯克旗下 SpaceX 的合作投行團隊，最快將於下週與投資者開展投資者電話會議，商討在公司完成創紀錄 IPO 後推出債券發行計劃。不願公開身份的訊息人士表示，本次債券發行規模預計至少 200 億美元，投資者溝通最早週一啟動；相關方案與時間節點仍有可能變動。這家主營火箭、衛星、AI 業務的綜合企業計劃首次發行投資級美元債券，發債所得將用於置換一筆 200 億美元、2027 年 9 月到期的過橋貸款。SpaceX 提交給美國證券交易委員會的 IPO 申報檔案顯示，截至 3 月 31 日，這筆過橋貸款佔公司 291 億美元長期債務的大頭。訊息人士稱，美國銀行、花旗集團、摩根大通、高盛集團、摩根士丹利聯合提供了這筆過橋貸款，並將牽頭承銷本次債券發行。
-
----
-
-### 2026-06-19 00:26:48  #MKT News #WTI #Impact bearish #DXY #XAUUSD
-
-Dutch prime minister said U.S. pressure on Russia is crucial for a peace agreement.
-
----
-
-### 2026-06-19 00:25:53  #國際
-
-【美國白宮向國會提交美伊諒解備忘錄文字】央視記者當地時間6月18日獲悉，美國白宮向國會提交了美伊諒解備忘錄文字。當地時間17日，一名美國政府高階官員宣讀了美國同伊朗達成的諒解備忘錄正式文字。該檔案包含14項條款，詳細列出了重新開放霍爾木茲海峽及放寬對伊部分金融限制的內容，並闡明瞭在未來技術性會談中解決伊朗核問題的預期目標。伊朗伊斯蘭共和國通訊社當地時間17日晚也公佈了伊美諒解備忘錄文字全文。（央視新聞）
-
----
-
-### 2026-06-19 00:25:45  #MKT News #Important
-
-SpaceX (SPCX.O) investment banking team is preparing at least $20 bln in bond sales.
-
----
-
-### 2026-06-19 00:24:40  #MKT News
-
-Dutch prime minister said Russia has shown no sign of serious willingness to negotiate a fair settlement.
-
----
-
-### 2026-06-19 00:24:34  #國際
-
-荷蘭首相：俄羅斯並未展現出任何願意透過談判達成公平協議的誠意。
-
----
-
-### 2026-06-19 00:24:22  #Trading Economics #Markets #United States #stocks #Importance 1
-
-AT&T Stock Price Hits 16-month Low — AT&T shares decreased to 22.24 USD, the lowest since January 2025. Over the past 4 weeks, AT&T lost 8.88%, and in the last 12 months, it decreased 19.52%.
-
----
-
-### 2026-06-19 00:24:17  #其他
-
-SpaceX投行團隊籌備發行至少200億美元債券。
-
----
-
-### 2026-06-19 00:23:55  #國際
-
-【伊朗將獲准動用60億美元被凍結資金 僅限購買美國產品】據報道，根據美伊之間達成的臨時協議，特朗普政府將允許伊朗動用存放在卡達的60億美元石油收入，用於購買美國的人道主義物資及非受制裁商品。此舉是特朗普政府為確保伊朗信守諒解備忘錄及後續核談判承諾，而丟擲的數十億美元經濟激勵措施的一部分。這筆資金將分階段解凍，具體時間安排在協議規定的60天停火延長期內，並取決於霍爾木茲海峽的重新開放情況以及旨在達成最終解決方案的談判進展。一位知悉該協議的外交官表示，這些資金僅能用於購買美國產品。白宮在被問及此事時未對具體細節置評，但一位美國官員表示，只要伊朗表現出良好行為（例如移交其濃縮鈾），華盛頓將在最終談判期間解凍部分資產。特朗普政府還將給予豁免，允許伊朗在上述60天內出口石油，並解除對伊朗港口的海上封鎖。
 
 ---

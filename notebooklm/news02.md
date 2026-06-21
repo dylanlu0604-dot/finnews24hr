@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-22 06:11:36_
-_本檔包含 3379 則快訊，約 649344 字_
+_更新時間：2026-06-22 06:38:47_
+_本檔包含 3387 則快訊，約 648958 字_
+
+---
+
+### 2026-06-19 00:36:27  #市場
+
+現貨白銀日內跌3%，現報65.87美元/盎司。
+
+---
+
+### 2026-06-19 00:36:16  #市場 #焦點
+
+現貨黃金失守4220美元/盎司，日內跌0.94%。
+
+---
+
+### 2026-06-19 00:36:03  #市場 #焦點
+
+紐約期金失守4240美元/盎司，日內跌3.28%。
+
+---
+
+### 2026-06-19 00:36:01  #國際
+
+美國教育部：選擇自動還款的貸款借款人可享受降息優惠。
+
+---
+
+### 2026-06-19 00:34:23  #國際
+
+美國副總統萬斯： 一旦特朗普察覺到以色列政壇的目標與美國民眾的訴求相悖，他會明確表態，我們將優先維護美國自身利益。
+
+---
+
+### 2026-06-19 00:33:31  #國際
+
+【OPEC認為全球石油需求尚看不到峰值 能源安全蓋過氣候考量】OPEC仍認為全球石油需求尚看不到峰值，預計隨著美國、歐洲及其他地區政府在氣候目標之外也優先考慮能源安全和能源可負擔性，需求將出現“強勁增長”。“對能源安全和能源可負擔性的關注上升，已經改變了全球能源政策格局，”OPEC表示，“在許多情況下，這些轉變反映出，此前為降低石油需求而設定的高遠目標和承諾被逆轉、推遲或取消。”OPEC在其年度《世界石油展望》中表示，石油需求預計將從2025年的日均1.051億桶，增至2030年的日均1.133億桶，到2050年達到日均1.241億桶。該組織對石油需求的樂觀看法與國際能源署等其他預測機構形成鮮明對比。總部位於巴黎的國際能源署此前剛剛預測，美國和以色列對伊朗發動的戰爭對全球石油需求的衝擊將遠比此前預期嚴重得多，預計今年全球日均石油消費量將減少110萬桶。
+
+---
+
+### 2026-06-19 00:33:08  #國際
+
+美國教育部宣佈降低學生貸款利率。
+
+---
+
+### 2026-06-19 00:33:00  #MKT News #SPCX.O #Impact mixed
+
+【SpaceX plans at least $20bln bond issue to refinance $20bln bridge loan】SpaceX (SPCX.O) is planning an investment-grade US dollar bond offering of at least $20 billion to refinance a $20 billion bridge loan maturing September 2027, people familiar with the matter said. Banks may begin investor calls as early as next week, with outreach possibly starting Monday; size and timing remain subject to change. Proceeds would replace the bridge facility that, as of March 31, accounted for the bulk of SpaceX’s $29.1 billion of long-term debt. BofA, Citigroup, JP Morgan, Goldman Sachs and Morgan Stanley jointly provided the bridge and are expected to lead underwriting.
+
+---
+
+### 2026-06-19 00:31:47  #其他
+
+XAI：Grok 模型現已上線 Databricks Agent Bricks。
+
+---
+
+### 2026-06-19 00:31:38  #公司 #國際
+
+【美國參議員桑德斯將提出法案，賦予民眾AI企業股權】美國參議院桑德斯（Bernie Sanders）正提出一項法案，旨在讓美國公民在人工智慧（AI）公司的運營中擁有發言權。這項名為《美國人工智慧主權財富基金法案》（American AI Sovereign Wealth Fund Act）的提案將設立一項基金，對美國最大的人工智慧公司股票徵收一次性50%的稅。桑德斯表示，該法案將賦予美國民眾阻止對其生活產生負面影響的AI發展的能力，並允許聯邦政府否決損害公眾利益的決策。
+
+---
+
+### 2026-06-19 00:31:11  #公司 #市場 #央行 #國際
+
+【分析：美聯儲公佈決定後加密貨幣未平倉合約驟降】CryptoQuant的Amr Taha在一份報告中表示，在幣安交易的兩大主要加密貨幣——比特幣和以太幣的衍生品未平倉合約出現了“大幅槓桿重置”。Taha說，在宣佈利率保持不變後，比特幣未平倉合約下降了18%，以太幣未平倉合約下降了25%。“比特幣和以太幣同時下降，表明幣安衍生品市場的風險偏好普遍降低，”Taha說。“交易員可能選擇在美聯儲釋出公告前後平倉，而不是帶著槓桿去面對可能出現波動的市場反應。”
+
+---
+
+### 2026-06-19 00:30:38  #國際
+
+荷蘭首相：美國對俄羅斯施壓對達成和平協議至關重要。
+
+---
+
+### 2026-06-19 00:30:25  #國際
+
+美國教育部公佈最新學生貸款違約資料：美國整治行動下，學生貸款違約人數增至916萬。
+
+---
+
+### 2026-06-19 00:29:59  #國際
+
+【萬斯回應以色列批評特朗普言論：不該抨擊盟友】美國副總統 JD・萬斯嚴厲斥責以色列國內反對美伊臨時和平協議的人士，他於週四發出警告：“我絕不會去攻擊我國如今在全球僅存的重要盟友。”萬斯在白宮接受記者採訪時稱，當下全世界只有唐納德・特朗普總統真心站在以色列這邊。他同時批評以色列內閣官員，以色列絕大多數防禦武器均由美國出資提供。萬斯表示：“以色列真正的難題根本不是唐納德・J・特朗普。以色列國內但凡有人把美國總統視作本國最大麻煩，都該清醒認清國家當下的現實處境。”
+
+---
+
+### 2026-06-19 00:29:16  #MKT News #EURUSD #Impact bearish #DAX
+
+Dutch prime minister says the EU budget proposal currently on the table is not good enough for the Netherlands.
+
+---
+
+### 2026-06-19 00:29:02  #MKT News
+
+Iranian state TV said Iran's Supreme Leader will soon deliver a speech on a memorandum of understanding.
+
+---
+
+### 2026-06-19 00:28:16  #國際
+
+荷蘭首相：當前提交的歐盟預算提案對荷蘭而言仍不夠完善。
+
+---
+
+### 2026-06-19 00:28:05  #焦點 #國際
+
+伊朗最高領袖將就終止與美國的戰爭協議發表最新講話。
+
+---
+
+### 2026-06-19 00:27:33  #國際
+
+以色列前總理埃胡德・巴拉克聲稱：內塔尼亞胡很可能會在大選前夕進攻黎巴嫩，並且他正試圖與伊朗、真主黨開啟一場無休止的戰爭。
+
+---
+
+### 2026-06-19 00:26:49  #公司 #觀點 #國際
+
+【SpaceX 的合作投行團隊計劃發行至少 200 億美元投資級美元債券】知情人士透露，埃隆・馬斯克旗下 SpaceX 的合作投行團隊，最快將於下週與投資者開展投資者電話會議，商討在公司完成創紀錄 IPO 後推出債券發行計劃。不願公開身份的訊息人士表示，本次債券發行規模預計至少 200 億美元，投資者溝通最早週一啟動；相關方案與時間節點仍有可能變動。這家主營火箭、衛星、AI 業務的綜合企業計劃首次發行投資級美元債券，發債所得將用於置換一筆 200 億美元、2027 年 9 月到期的過橋貸款。SpaceX 提交給美國證券交易委員會的 IPO 申報檔案顯示，截至 3 月 31 日，這筆過橋貸款佔公司 291 億美元長期債務的大頭。訊息人士稱，美國銀行、花旗集團、摩根大通、高盛集團、摩根士丹利聯合提供了這筆過橋貸款，並將牽頭承銷本次債券發行。
+
+---
+
+### 2026-06-19 00:26:48  #MKT News #WTI #Impact bearish #DXY #XAUUSD
+
+Dutch prime minister said U.S. pressure on Russia is crucial for a peace agreement.
+
+---
+
+### 2026-06-19 00:25:53  #國際
+
+【美國白宮向國會提交美伊諒解備忘錄文字】央視記者當地時間6月18日獲悉，美國白宮向國會提交了美伊諒解備忘錄文字。當地時間17日，一名美國政府高階官員宣讀了美國同伊朗達成的諒解備忘錄正式文字。該檔案包含14項條款，詳細列出了重新開放霍爾木茲海峽及放寬對伊部分金融限制的內容，並闡明瞭在未來技術性會談中解決伊朗核問題的預期目標。伊朗伊斯蘭共和國通訊社當地時間17日晚也公佈了伊美諒解備忘錄文字全文。（央視新聞）
+
+---
+
+### 2026-06-19 00:25:45  #MKT News #Important
+
+SpaceX (SPCX.O) investment banking team is preparing at least $20 bln in bond sales.
+
+---
+
+### 2026-06-19 00:24:40  #MKT News
+
+Dutch prime minister said Russia has shown no sign of serious willingness to negotiate a fair settlement.
+
+---
+
+### 2026-06-19 00:24:34  #國際
+
+荷蘭首相：俄羅斯並未展現出任何願意透過談判達成公平協議的誠意。
+
+---
+
+### 2026-06-19 00:24:22  #Trading Economics #Markets #United States #stocks #Importance 1
+
+AT&T Stock Price Hits 16-month Low — AT&T shares decreased to 22.24 USD, the lowest since January 2025. Over the past 4 weeks, AT&T lost 8.88%, and in the last 12 months, it decreased 19.52%.
+
+---
+
+### 2026-06-19 00:24:17  #其他
+
+SpaceX投行團隊籌備發行至少200億美元債券。
+
+---
+
+### 2026-06-19 00:23:55  #國際
+
+【伊朗將獲准動用60億美元被凍結資金 僅限購買美國產品】據報道，根據美伊之間達成的臨時協議，特朗普政府將允許伊朗動用存放在卡達的60億美元石油收入，用於購買美國的人道主義物資及非受制裁商品。此舉是特朗普政府為確保伊朗信守諒解備忘錄及後續核談判承諾，而丟擲的數十億美元經濟激勵措施的一部分。這筆資金將分階段解凍，具體時間安排在協議規定的60天停火延長期內，並取決於霍爾木茲海峽的重新開放情況以及旨在達成最終解決方案的談判進展。一位知悉該協議的外交官表示，這些資金僅能用於購買美國產品。白宮在被問及此事時未對具體細節置評，但一位美國官員表示，只要伊朗表現出良好行為（例如移交其濃縮鈾），華盛頓將在最終談判期間解凍部分資產。特朗普政府還將給予豁免，允許伊朗在上述60天內出口石油，並解除對伊朗港口的海上封鎖。
 
 ---
 
@@ -20327,125 +20495,5 @@ Wall Street Journal reports CME CEO Terry Duffy will step down and the exchange'
 ### 2026-06-18 03:26:38  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
 
 【Fed launches reform: Chair Wash to set five working groups to reshape policy framework】Federal Reserve Chair Wash announced at his first Washington press conference a reform push creating five special working groups to review the Fed’s policy framework. The groups will cover Fed communications; the Fed balance sheet; use and reliance on existing data sources; productivity and employment in a transition era; and the Fed’s inflation framework. Teams are being formed, expected to start in the coming weeks, deliver initial analytical frameworks in autumn, and aim to complete most or all work by year-end. The communications group is expected to propose “well-considered adjustments,” potentially including changes to the Summary of Economic Projections (SEP) and the officials’ dot plot.
-
----
-
-### 2026-06-18 03:26:10  #焦點 #國際
-
-伊朗伊斯蘭共和國通訊社就諒解備忘錄原文表態：美國承諾在諒解備忘錄執行框架內，允許伊朗動用其被凍結的資金。
-
----
-
-### 2026-06-18 03:26:02  #市場
-
-美元指數創3月13日以來最大漲幅。
-
----
-
-### 2026-06-18 03:25:51  #MKT News #Important #WTI #Impact bullish #Brent
-
-According to the Islamic Republic News Agency, free passage through the Strait of Hormuz is limited to a 60-day period.
-
----
-
-### 2026-06-18 03:25:46  #公司 #國際
-
-【特朗普稱美軍將再駐紮海灣一段時間】當地時間6月17日晚，結束七國集團峰會行程的美國總統特朗普抵達巴黎後在機場接受採訪時表示，美軍將在海灣地區“再駐紮一段時間”。對於美國與伊朗簽署諒解備忘錄後要進入60天談判期以達成最終協議，特朗普表示，60天並非達成最終協議的“硬性截止日期”。 特朗普還稱，如果其他國家擁有彈道導彈，那麼不讓伊朗擁有彈道導彈就“有點不公平”。據伊朗當年此前透露的伊美諒解備忘錄內容，後續60天的談判將不涉及伊朗導彈計劃。
-
----
-
-### 2026-06-18 03:25:24  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-Iran's state news agency IRNA says commercial shipping transit will resume immediately and will return to normal operations within 30 days, though demining and removal of technical obstacles remain necessary.
-
----
-
-### 2026-06-18 03:25:03  #央行 #國際
-
-【沃什稱正設立工作組 評估美聯儲通脹框架和資產負債表】美聯儲主席凱文·沃什表示，他正設立多個工作組以研究央行職能，包括溝通、資產負債表、對現有資料來源的使用和依賴、生產率與就業，以及美聯儲的通脹框架。“每個工作組都將服務於一個目標，這是系統內所有人、以及過去幾天與我同桌開會的所有人共同認可的目標，”他在宣誓就任後首次政策會議後的記者會上表示。他說，目標是打造一個“清醒認識自身使命、適應目標並聚焦未來”的美聯儲。沃什表示，央行2%的通脹目標將不在通脹工作組的評估範圍內。
-
----
-
-### 2026-06-18 03:24:47  #MKT News
-
-Iran's Islamic Republic News Agency (IRNA) said the implementation mechanism for the US$300 billion funding plan will be finalized within 60 days as part of the final agreement.
-
----
-
-### 2026-06-18 03:24:23  #國際
-
-伊朗伊斯蘭共和國通訊社就諒解備忘錄內容表示：自簽署完畢起至制裁結束止，美國承諾為伊朗石油出口、石化產品與衍生物出口，以及所有相關服務簽發豁免許可。
-
----
-
-### 2026-06-18 03:24:01  #MKT News
-
-Islamic Republic News Agency (IRNA) reported the U.S. has pledged to work with regional partners to develop a mutually agreed plan for Iran's economic reconstruction and to provide at least $300 billion in funding.
-
----
-
-### 2026-06-18 03:23:44  #Trading Economics #Markets #Commodity #Importance 1
-
-Silver Pulls Back After FOMC — Silver prices eased to below the $70 per ounce threshold on Wednesday after the Federal Reserve held rates unchanged and flagged the possibility of rate hikes this year. Half of the FOMC members projected it may be appropriate to raise interest rates this year they expect core inflation to remain higher and the labor market to remain at its currently strong level. The outlook pressured fixed income assets, increasing the opportunity cost of holding bullion instead of securities that carry coupons. On top of that, Fed Chairman Warsh announced multiple task forces that will investigate the need for changes to the monetary framework of the Federal Reserve, including a lower balance sheet, further pressuring bonds and precious metals. In the meantime, datacenter operators and AI infrastructure companies continued to raise cash to build more compute capacity, raising the demand outlook for industrial silver. The metal was also due to be used in Chinese expenditure for energy storage.
-
----
-
-### 2026-06-18 03:23:41  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Iran's Islamic Republic News Agency said after a memorandum was signed Iran will make every effort to take measures to ensure safe passage of commercial vessels between the Arabian Gulf and the Gulf of Oman.
-
----
-
-### 2026-06-18 03:23:33  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDCHF
-
-USD/CHF rose to 0.8000, up 0.87% intraday; EUR/USD slipped below 1.1500, down 0.93%.
-
----
-
-### 2026-06-18 03:23:22  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell 3.00% intraday to $67.85/oz.
-
----
-
-### 2026-06-18 03:23:13  #市場
-
-現貨白銀日內跌3%，現報67.88美元/盎司。
-
----
-
-### 2026-06-18 03:23:13  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-【KEVIN WARSH: Fed can achieve 2% inf target】Fed chair KEVIN WARSH said at a press conference the Fed can achieve a 2% inf target and that the C.BANK is "clear and consistent" in its commitment. He attributed current high inf to supply shocks. On forward guidance he declined to give specifics but said policy appears to have restrained the housing market. He called press conferences an effective communication tool for households and businesses but did not commit to holding one after every Fed meeting.
-
----
-
-### 2026-06-18 03:23:03  #市場 #焦點
-
-現貨白銀失守68美元/盎司，日內跌2.93%。
-
----
-
-### 2026-06-18 03:23:00  #市場
-
-紐約期銀日內跌3%，現報68.39美元/盎司。
-
----
-
-### 2026-06-18 03:22:54  #MKT News #WTI #Impact bearish #Brent
-
-Iranian state news agency IRNA reported the US will begin immediately lifting its maritime blockade of Iran after signing a memorandum and will fully lift the blockade within 30 days; IRNA said shipping traffic would return to pre-war levels during that period.
-
----
-
-### 2026-06-18 03:22:34  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Warsh: Fed inspector general to publish HQ renovation cost-overrun report this summer】Fed Chair Kevin Warsh said on Wednesday he met with the Fed inspector general, who expects to publish a report this summer on cost overruns in the Federal Reserve’s Washington headquarters renovation. The project drew intense political scrutiny; the Trump administration previously opened a criminal probe into former Fed Chair Powell over the work, which was later dropped. The episode was cited as a factor in Powell’s decision to remain on the Fed’s Board of Governors after his chair term expired in May.
-
----
-
-### 2026-06-18 03:22:01  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Markets have fully priced in the possibility of a Fed rate hike by October.
 
 ---

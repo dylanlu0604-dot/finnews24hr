@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-22 06:11:36_
-_本檔包含 3386 則快訊，約 649669 字_
+_更新時間：2026-06-22 06:38:47_
+_本檔包含 3388 則快訊，約 649079 字_
+
+---
+
+### 2026-06-18 03:26:10  #焦點 #國際
+
+伊朗伊斯蘭共和國通訊社就諒解備忘錄原文表態：美國承諾在諒解備忘錄執行框架內，允許伊朗動用其被凍結的資金。
+
+---
+
+### 2026-06-18 03:26:02  #市場
+
+美元指數創3月13日以來最大漲幅。
+
+---
+
+### 2026-06-18 03:25:51  #MKT News #Important #WTI #Impact bullish #Brent
+
+According to the Islamic Republic News Agency, free passage through the Strait of Hormuz is limited to a 60-day period.
+
+---
+
+### 2026-06-18 03:25:46  #公司 #國際
+
+【特朗普稱美軍將再駐紮海灣一段時間】當地時間6月17日晚，結束七國集團峰會行程的美國總統特朗普抵達巴黎後在機場接受採訪時表示，美軍將在海灣地區“再駐紮一段時間”。對於美國與伊朗簽署諒解備忘錄後要進入60天談判期以達成最終協議，特朗普表示，60天並非達成最終協議的“硬性截止日期”。 特朗普還稱，如果其他國家擁有彈道導彈，那麼不讓伊朗擁有彈道導彈就“有點不公平”。據伊朗當年此前透露的伊美諒解備忘錄內容，後續60天的談判將不涉及伊朗導彈計劃。
+
+---
+
+### 2026-06-18 03:25:24  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+Iran's state news agency IRNA says commercial shipping transit will resume immediately and will return to normal operations within 30 days, though demining and removal of technical obstacles remain necessary.
+
+---
+
+### 2026-06-18 03:25:03  #央行 #國際
+
+【沃什稱正設立工作組 評估美聯儲通脹框架和資產負債表】美聯儲主席凱文·沃什表示，他正設立多個工作組以研究央行職能，包括溝通、資產負債表、對現有資料來源的使用和依賴、生產率與就業，以及美聯儲的通脹框架。“每個工作組都將服務於一個目標，這是系統內所有人、以及過去幾天與我同桌開會的所有人共同認可的目標，”他在宣誓就任後首次政策會議後的記者會上表示。他說，目標是打造一個“清醒認識自身使命、適應目標並聚焦未來”的美聯儲。沃什表示，央行2%的通脹目標將不在通脹工作組的評估範圍內。
+
+---
+
+### 2026-06-18 03:24:47  #MKT News
+
+Iran's Islamic Republic News Agency (IRNA) said the implementation mechanism for the US$300 billion funding plan will be finalized within 60 days as part of the final agreement.
+
+---
+
+### 2026-06-18 03:24:23  #國際
+
+伊朗伊斯蘭共和國通訊社就諒解備忘錄內容表示：自簽署完畢起至制裁結束止，美國承諾為伊朗石油出口、石化產品與衍生物出口，以及所有相關服務簽發豁免許可。
+
+---
+
+### 2026-06-18 03:24:01  #MKT News
+
+Islamic Republic News Agency (IRNA) reported the U.S. has pledged to work with regional partners to develop a mutually agreed plan for Iran's economic reconstruction and to provide at least $300 billion in funding.
+
+---
+
+### 2026-06-18 03:23:44  #Trading Economics #Markets #Commodity #Importance 1
+
+Silver Pulls Back After FOMC — Silver prices eased to below the $70 per ounce threshold on Wednesday after the Federal Reserve held rates unchanged and flagged the possibility of rate hikes this year. Half of the FOMC members projected it may be appropriate to raise interest rates this year they expect core inflation to remain higher and the labor market to remain at its currently strong level. The outlook pressured fixed income assets, increasing the opportunity cost of holding bullion instead of securities that carry coupons. On top of that, Fed Chairman Warsh announced multiple task forces that will investigate the need for changes to the monetary framework of the Federal Reserve, including a lower balance sheet, further pressuring bonds and precious metals. In the meantime, datacenter operators and AI infrastructure companies continued to raise cash to build more compute capacity, raising the demand outlook for industrial silver. The metal was also due to be used in Chinese expenditure for energy storage.
+
+---
+
+### 2026-06-18 03:23:41  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Iran's Islamic Republic News Agency said after a memorandum was signed Iran will make every effort to take measures to ensure safe passage of commercial vessels between the Arabian Gulf and the Gulf of Oman.
+
+---
+
+### 2026-06-18 03:23:33  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDCHF
+
+USD/CHF rose to 0.8000, up 0.87% intraday; EUR/USD slipped below 1.1500, down 0.93%.
+
+---
+
+### 2026-06-18 03:23:22  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell 3.00% intraday to $67.85/oz.
+
+---
+
+### 2026-06-18 03:23:13  #市場
+
+現貨白銀日內跌3%，現報67.88美元/盎司。
+
+---
+
+### 2026-06-18 03:23:13  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+【KEVIN WARSH: Fed can achieve 2% inf target】Fed chair KEVIN WARSH said at a press conference the Fed can achieve a 2% inf target and that the C.BANK is "clear and consistent" in its commitment. He attributed current high inf to supply shocks. On forward guidance he declined to give specifics but said policy appears to have restrained the housing market. He called press conferences an effective communication tool for households and businesses but did not commit to holding one after every Fed meeting.
+
+---
+
+### 2026-06-18 03:23:03  #市場 #焦點
+
+現貨白銀失守68美元/盎司，日內跌2.93%。
+
+---
+
+### 2026-06-18 03:23:00  #市場
+
+紐約期銀日內跌3%，現報68.39美元/盎司。
+
+---
+
+### 2026-06-18 03:22:54  #MKT News #WTI #Impact bearish #Brent
+
+Iranian state news agency IRNA reported the US will begin immediately lifting its maritime blockade of Iran after signing a memorandum and will fully lift the blockade within 30 days; IRNA said shipping traffic would return to pre-war levels during that period.
+
+---
+
+### 2026-06-18 03:22:34  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Warsh: Fed inspector general to publish HQ renovation cost-overrun report this summer】Fed Chair Kevin Warsh said on Wednesday he met with the Fed inspector general, who expects to publish a report this summer on cost overruns in the Federal Reserve’s Washington headquarters renovation. The project drew intense political scrutiny; the Trump administration previously opened a criminal probe into former Fed Chair Powell over the work, which was later dropped. The episode was cited as a factor in Powell’s decision to remain on the Fed’s Board of Governors after his chair term expired in May.
+
+---
+
+### 2026-06-18 03:22:01  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Markets have fully priced in the possibility of a Fed rate hike by October.
 
 ---
 
@@ -20324,113 +20444,5 @@ Gasoline Near Lowest in 3 Months — US gasoline prices held below $2.90 per gal
 ### 2026-06-17 09:08:58  #公司 #市場
 
 【南鋼與力拓開展首個皮爾巴拉鐵礦鹼性球團工業試驗】據力拓集團訊息，南京鋼鐵股份有限公司（簡稱“南鋼”）與力拓成功開展采用皮爾巴拉混合粉礦（Pilbara Blend Fines）生產鹼性球團的工業試驗，實現力拓皮爾巴拉鐵礦石在該領域的突破。透過在南鋼基地開展此次試驗，皮爾巴拉混合粉礦在高配比條件下實現了高質量鹼性球團的工業規模生產。相較普通球團，鹼性球團在高爐中適應性更強，從而有助於提升鍊鐵效率、降低燃料消耗及碳排放。
-
----
-
-### 2026-06-17 09:08:40  #其他
-
-【北京人工智慧專案融資路演推介會舉辦】6月11日，北京市委網信辦聯合經開區管委會，在亦莊模數世界大模型生態服務站（模數世界人工智慧新質產業社群）共同舉辦“模力AI大講堂·北京人工智慧專案融資路演推介會”，北京機器人基金、水木創投、亦莊國投、梅花創投、啟迪之星、中能建基金、中交資本、商湯科技、京東方、深創投、黑馬基金、建設銀行、北京銀行、興業證券等70餘家投資機構和企業代表齊聚一堂，共同見證14個人工智慧優質專案的前沿成果。本次路演聚焦人工智慧中小企業“融資難、融資貴”問題，為創業企業和投資機構搭建投融資交流溝通橋樑，幫助企業拓寬融資渠道、降低融資成本。（證券時報）
-
----
-
-### 2026-06-17 09:05:24  #其他
-
-【自然資源部部署“十五五”新一輪找礦突破戰略行動】6月15日，自然資源部召開新一輪找礦突破戰略行動“十五五”動員部署會。 會議強調，要錨定新一輪找礦突破戰略行動“十五五”目標，抓實抓牢六項重點工作：一是大力加強基礎性地質調查，提交一批找礦靶區和勘查區塊建議；二是大力加強戰略性礦產勘查，促進重要戰略性礦產增儲上產；三是大力加強資源綜合利用，盤活一批難利用資源；四是大力加強優質政策供給，維護礦產資源國家所有者權益和礦業權人合法權益；五是大力加強科技創新，發展找礦領域新質生產力；六是大力加強綠色勘查和綠色礦山建設，最大限度減少勘查開發活動對生態環境的影響。
-
----
-
-### 2026-06-17 09:04:12  #其他
-
-【我國荒漠化防治成效顯著 基本實現“三北”工程六期任務過半】今天（6月17日）是第32個世界防治荒漠化和乾旱日。記者從國家林草局瞭解到，近年來，我國不斷加大荒漠化防治力度，取得顯著成效。“三北”地區是我國防沙治沙的主戰場，國家林業和草原局最新公佈的資料顯示，“三北”工程六期已安排建設任務4.63億畝、完成3.55億畝，基本實現時間過半、任務過半的階段目標。“十四五”期間，我國持續加強荒漠化綜合防治，深入推進“三北”等重點生態工程建設，累計完成沙化土地治理1.52億畝，石漠化土地治理2932萬畝，全國沙化程度持續減輕，沙區生態狀況持續改善。（央視）
-
----
-
-### 2026-06-17 09:03:55  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日持平】截至2026年06月16日，全球最大的黃金ETF SPDR Gold Trust持倉量為1012.21噸，較前一個交易日持平。
-
----
-
-### 2026-06-17 09:03:30  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Holds Near 3-Month Low — US heating oil prices traded around $3.20 per gallon, hovering close to their lowest level since March 11, as the US-Iran deal is expected to reopen the Strait of Hormuz and facilitate a return of Middle Eastern energy exports. Under the interim pact, which is scheduled to be signed later this week, Tehran would receive broad financial incentives, including the immediate right to sell its oil. Still, markets are assessing the durability of the agreement and the timeline for shipping through the Strait to normalize, as many operators may wait several weeks before resuming tanker transits. Producers have also cautioned that a full recovery could take months, citing technical and geological constraints as well as infrastructure damage. Meanwhile, industry data showed that distillate stockpiles, including diesel and heating oil, fell by 461,000 barrels in mid-June after rising by 1.3 million barrels in the previous week.
-
----
-
-### 2026-06-17 09:03:24  #公司
-
-【全國鐵路將實行新的列車執行圖 新圖車票今起陸續發售】記者今天（17日）從國鐵集團瞭解到，從7月1日零時起，全國鐵路將實行新的列車執行圖，運輸能力和效率進一步提升。調圖後，全國鐵路安排圖定旅客列車12174列，較現圖增加106列。利用即將開通的武漢至西安高鐵西安東至十堰東段，安排開行西安東（西安北）至南陽東、漢口、重慶北等方向動車組列車58列，進一步密切西北地區與華中、華南、西南地區的聯絡，縮短時空距離。
-
----
-
-### 2026-06-17 09:03:04  #其他
-
-【第32屆圖博會展出22萬種圖書】以“以書為媒 交流對話 合作共贏”為主題，第32屆北京國際圖書博覽會6月17日在北京國家會議中心開幕。本屆書展展覽總面積6萬平方米，吸引82個國家和地區的1700多家展商現場參展；其中，海外展商超1100家，參展國家較去年新增10個。本屆書展集中展出22萬種精品實物圖書，舉辦1000餘場線上線下文化交流活動，透過展覽展示、版權貿易和文化交流活動的提質升級，推動更多出版企業和優秀出版物走向世界。阿聯酋擔任本屆書展主賓國，將攜近30家文化出版機構參展，舉辦20餘場交流活動。（新華社）
-
----
-
-### 2026-06-17 09:02:50  #宏觀 #國際
-
-據英國金融時報報道，印度信實Jio Infocomm可能在未來幾天內向印度資本市場監管機構提交其預計40億美元IPO的招股說明書草案。
-
----
-
-### 2026-06-17 09:02:25  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Steadies Ahead of Fed Decision — The dollar index hovered around 99.5 on Wednesday after experiencing heightened volatility earlier in the week, as investors awaited the Federal Reserve’s latest policy decision, where officials are widely expected to leave interest rates unchanged. The meeting will also be the first under new Chair Kevin Warsh, although he is not expected to submit a "dot" to the FOMC’s quarterly projections outlining individual policymakers’ rate expectations. Market participants will also focus on upcoming US retail sales and pending home sales data for further clues on the economic outlook. Earlier this week, the Reserve Bank of Australia kept its benchmark interest rate unchanged at 4.35%, while the Bank of Japan raised its policy rate by 25 basis points to 1%. Meanwhile, investors continued to monitor developments surrounding the US-Iran peace agreement, which is set to be signed on Friday and is expected to reopen the Strait of Hormuz and restore oil flows from the Middle East.
-
----
-
-### 2026-06-17 09:01:41  #觀點
-
-【中信證券：城投轉型提速 對地方是風險還是機遇】6月17日，中信證券明明團隊一份研報指出，2025年化債工作穩步推進，相關成效持續顯現。城投平臺有息債務增速維持低位，債務結構持續最佳化，同時企業回款狀況改善，平臺經營“造血能力”穩步增強。隨著政策更加強調平臺轉型發展，城投平臺股權投資加速，有望成為平臺後續發展的重要抓手。但化債推進也對城投原有業務形成一定影響，城投平臺存貨規模延續調整態勢，在建工程規模持續下滑。
-
----
-
-### 2026-06-17 09:01:38  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D rose 0.08% to 942.0 yuan/gram in early trade on Wednesday, June 17. Silver T+D on the Shanghai Gold Exchange rose 0.12% to 16,712.0 yuan/kg in early trade on Wednesday, June 17.
-
----
-
-### 2026-06-17 09:01:12  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened down 565.37 points, or 1.23%, at 45,243.82 points on June 17 (Wednesday).
-
----
-
-### 2026-06-17 09:00:53  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index
-
-FTSE China A50 futures opened down 0.2%.
-
----
-
-### 2026-06-17 09:00:52  #宏觀 #國際
-
-韓國金融市場監管機構呼籲投資者避免進行高風險或過度槓桿投資。將加強監測風險因素，以應對市場波動加劇。
-
----
-
-### 2026-06-17 09:00:37  #MKT News
-
-South Korea's market regulator will step up monitoring of risk factors to address heightened market volatility.
-
----
-
-### 2026-06-17 09:00:33  #市場 #焦點
-
-尿素連續主力合約日內漲4%，現報1839.00元。
-
----
-
-### 2026-06-17 09:00:28  #MKT News #Important
-
-South Korea's market regulator urged investors to avoid high-risk investments and excessive leverage.
-
----
-
-### 2026-06-17 09:00:23  #MKT News #Important #Commodities #Energy #Cotton #Impact bullish #Soybean No.2 #Palm Oil
-
-At the open, major Chinese futures were mostly lower. LPG and fuel oil slid over 4%; Shanghai crude (SC) and low-sulfur fuel oil (LU) dropped more than 3%; Asia‑Europe container freight fell nearly 3%; benzene was down over 2%; bitumen declined about 2%; methanol fell just over 1%. On the upside, urea and cotton rose nearly 2%; cotton yarn, No.20 rubber, broader rubber contracts, stainless steel (SS) and Soybean No.2 gained more than 1%; palm oil advanced about 1%.
 
 ---
