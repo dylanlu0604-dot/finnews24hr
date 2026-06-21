@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-22 01:29:23_
-_本檔包含 3429 則快訊，約 650608 字_
+_更新時間：2026-06-22 02:45:19_
+_本檔包含 3415 則快訊，約 650344 字_
+
+---
+
+### 2026-06-17 08:14:20  #公司 #觀點
+
+【中信證券：AI產業進展處於早期階段，AI帶來的機遇大於挑戰】中信證券研報指出，站在當前時點，我們認為AI產業進展處於早期階段，AI帶來的機遇大於挑戰。產業層面，影片生成模型、世界模型與物理AI等新方向新正規化仍層出不窮，影片理解與生成融合、語言模型與多模態模型融合、模型持續學習等技術創新將會持續引領模型創新趨勢。我們預計模型迭代週期將持續縮短，以Anthropic為代表的模型公司ARR持續提升，並逐步向金融、法律、醫療等更多高價值的企業級場景落地。市場層面，全球科技股估值偏高，持倉偏擁擠是當前最大的挑戰，同時未來半年至一年SpaceX、Anthropic與OpenAI上市也可能給市場流動性帶來衝擊，將成為全球科技股最重磅的事件和觀察視窗。考慮到下半年宏觀流動性邊際或有所收緊，市場演繹將更加依賴業績端的持續兌現和驗證，但只要產業趨勢景氣度不變，若流動性衝擊導致估值回撥，帶來的機遇大於風險。同時國產模型與海外模型差距持續縮小，國產雲廠商相比海外亦有更充分的CAPEX加碼空間，隨著“國模國芯”生態持續完善，國產算力將有更大的彈性。
+
+---
+
+### 2026-06-17 08:13:32  #其他
+
+【青海海西州6.3級地震造成1死8傷 傷者已出院 】記者從大柴旦6.3級地震抗震救災現場指揮部瞭解到，經過兩輪全面人員排查，截至6月16日23時，青海海西州地震已造成1人遇難，8人受傷，受傷人員經包紮處理後已離開醫院。（新華社）
+
+---
+
+### 2026-06-17 08:13:13  #Trading Economics #Economy #Japan #Exports YoY #Importance 2
+
+Japan Export Growth at 3-1/2-Year High — Japan’s exports rose 17.0% year-on-year in May 2026, accelerating from a 14.8% growth in the prior month while marking the strongest growth since November 2022 and exceeding the consensus of 16.2%, supported by robust demand from China, the U.S., ASEAN countries, and the EU.
+
+---
+
+### 2026-06-17 08:12:20  #公司
+
+【湖北省委書記關志鷗會見小米集團董事長雷軍】據湖北日報，6月15日下午，湖北省委書記關志鷗在武漢會見小米集團創始人、董事長兼執行長雷軍一行。關志鷗說，希望小米集團持續佈局湖北、深耕湖北，進一步深化與湖北的多領域合作，對建設武漢區域科技創新中心、最佳化營商環境等多提意見建議。我們將全力做好服務保障，支援小米集團等各類企業在鄂實現更好發展。雷軍表示，小米集團堅定看好企業在鄂發展前景，將進一步加大業務佈局，吸引更多人才和上下游企業集聚湖北，為湖北加快建成中部地區崛起的重要戰略支點作出新的更大貢獻。
+
+---
+
+### 2026-06-17 08:12:12  #MKT News
+
+The U.S. military said it conducted a lethal strike in the eastern Pacific on a drug-smuggling vessel it said was operated by a 'terrorist organization'.
+
+---
+
+### 2026-06-17 08:11:39  #國際
+
+美國南方司令部：6月16日，在南方司令部指揮官弗朗西斯·L·多諾萬將軍的指示下，聯合特遣部隊“南方之矛”對一艘由指定恐怖組織操作的船隻實施了致命動能打擊。情報確認該船隻正沿東太平洋已知毒品販運路線航行，並參與毒品販執行動。此次行動中，一名男性毒梟恐怖分子被擊斃，有兩名男性倖存者。交戰結束後，美國南方司令部立即通知美國海岸警衛隊啟動針對倖存者的搜尋與救援系統。無美軍人員受傷。
+
+---
+
+### 2026-06-17 08:11:31  #央行 #日本央行
+
+【中信證券：預計日本央行在本次加息後將維持政策利率不變於1%】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。
+
+---
+
+### 2026-06-17 08:11:00  #Trading Economics #Economy #Japan #Machinery Orders #Importance 1
+
+Japan Machinery Orders Rebound Sharply — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric power, rose by 8.7% month-on-month to JPY 1,098.5 billion in April 2026, far exceeded market expectations for a 0.9% gain and marked a sharp rebound from the 9.4% decline recorded in March. The recovery was driven by a 5.1% increase in manufacturing orders to JPY 513.5 billion and a 6.7% rise in non-manufacturing orders excluding utilities to JPY 570.1 billion. Among manufacturers, strong gains were recorded in ship building (+160.7%), textile mill products (+61.7%), and non-ferrous metals (+51.3%). In the non-manufacturing sector, real estate (+107.7%), transportation and postal activities (+36.9%), and goods leasing (+32.7%) posted notable increases. On an annual basis, core machinery orders grew by 15.6%, beating market forecasts for a 9.3% gain and accelerating from a 5.9% rise in the preceding period.
+
+---
+
+### 2026-06-17 08:10:38  #國際
+
+美國南方司令部在東太平洋擊沉一艘船隻，造成一人死亡。
+
+---
+
+### 2026-06-17 08:10:28  #市場 #焦點
+
+現貨黃金突破4340美元/盎司，日內漲0.18%。
+
+---
+
+### 2026-06-17 08:10:25  #MKT News
+
+Australia's S&P/ASX 200 opened down 23.80 points, or 0.27%, at 8,893.90 on Wednesday, June 17.
+
+---
+
+### 2026-06-17 08:10:21  #市場 #焦點
+
+紐約期金突破4360美元/盎司，日內漲0.11%。
+
+---
+
+### 2026-06-17 08:10:09  #公司
+
+【領益智造：H股香港公開發售今日開始 預計6月26日掛牌交易】領益智造(002600)6月17日早間公告，公司全球發售H股基礎發行股數為8.12億股，其中，初步安排香港公開發售8118.13萬股（可予重新分配），約佔全球發售總數的10.00%。發行價格最高不超過每股10.18港元。公司H股香港公開發售於2026年6月17日開始，預計於6月23日結束，6月25日前（含當日）公佈發行價格，6月26日在香港聯交所掛牌並開始上市交易。
+
+---
+
+### 2026-06-17 08:09:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
+
+CITIC Securities expects Japan's headline inflation to remain moderate through the year. It says the Bank of Japan lacks urgency to press on with further hikes and may leave the policy rate unchanged at 1% after the current increase.
+
+---
+
+### 2026-06-17 08:09:43  #其他
+
+【我國233部測雨雷達已覆蓋90萬平方公里】據水利部，2022年以來，我國推進測雨雷達建設。截至目前，全國24個省區建成水利測雨雷達233部，覆蓋約90萬平方公里區域。今年入汛以來，全國暴雨洪水多發頻發，水利測雨雷達在山洪災害、中小河流洪水防禦監測預警中發揮了重要的作用，為危險區人員及時轉移避險提供了精準決策支援。據瞭解，傳統洪水預報系統，主要是基於對“落地雨”觀測，也就是對天空降雨量進行觀測分析再進行洪水預報，但中小河流、山洪災害從降雨到形成洪水，預見時間短。時間一般在半個小時到一個小時之間。等到雨量站將監測到的資料輸入模型，再提供防禦決策，這一過程時間較長，留給應對洪水的反應時間非常有限，有時根本來不及反應。而測雨雷達剛好彌補了“雨量站”的這一缺陷。目前，天津已成為全國首個水利測雨雷達全域覆蓋的省級行政區。
+
+---
+
+### 2026-06-17 08:08:02  #其他
+
+【京東即將開源視覺語言實時互動模型】京東團隊即將開源視覺語言實時互動模型JoyAI-VL-Interaction。記者從一份在開源社群和海外AI技術圈受到關注的技術報告獲悉，JoyAI-VL-Interaction把多模態大模型從"一問一答"，推進到"實時流式互動"，適合需要AI持續在場的場景。報告將JoyAI-VL-Interaction與豆包、Gemini 的App內視訊通話助手進行了人工評測，覆蓋監控預警、實時計數、實時翻譯、時間感知、直播解說和引導、長程記憶六類場景。在58個案例中，JoyAI-VL-Interaction對豆包的總體勝率為77.6%，對Gemini的總體勝率為87.9%。其中，在監控預警場景中，對兩個基線均取得100%勝率。
+
+---
+
+### 2026-06-17 08:07:42  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Holds Gains Ahead of US-Iran Deal — Silver traded around $70 per ounce on Wednesday and was up about 3% so far this week, as investors awaited the signing of a US-Iran peace agreement that is expected to restore oil flows through the Persian Gulf, helping ease concerns over inflation and interest rates. The two countries are scheduled to sign an interim deal in Switzerland on Friday, offering Tehran broad economic incentives, including the immediate resumption of its oil exports. Market participants also turned their attention to the Federal Reserve’s upcoming policy decision, where officials are widely expected to leave interest rates unchanged. The meeting will be the first chaired by Kevin Warsh, though he is not expected to submit a "dot" to the FOMC’s quarterly rate projections. Earlier this week, the Reserve Bank of Australia left its benchmark interest rate unchanged at 4.35%, while the Bank of Japan raised its policy rate by 25 basis points to 1%.
+
+---
+
+### 2026-06-17 08:07:27  #公司 #市場 #國際
+
+日本軟銀集團股價下跌5%。
+
+---
+
+### 2026-06-17 08:07:14  #MKT News #9984.T #Impact bearish #Nikkei 225
+
+SoftBank Group shares fell 5%.
+
+---
+
+### 2026-06-17 08:06:27  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Holds Gains Ahead of US-Iran Deal — Gold traded above $4,300 per ounce on Wednesday and was up more than 2% so far this week, as investors awaited the signing of a US-Iran peace agreement that is expected to restore oil flows through the Persian Gulf, helping ease concerns over inflation and interest rates. The two countries are scheduled to sign an interim deal in Switzerland on Friday, offering Tehran broad economic incentives, including the immediate resumption of its oil exports. Market participants also turned their attention to the Federal Reserve’s upcoming policy decision, where officials are widely expected to leave interest rates unchanged. The meeting will be the first chaired by Kevin Warsh, though he is not expected to submit a "dot" to the FOMC’s quarterly rate projections. Earlier this week, the Reserve Bank of Australia left its benchmark interest rate unchanged at 4.35%, while the Bank of Japan raised its policy rate by 25 basis points to 1%.
+
+---
+
+### 2026-06-17 08:05:17  #央行 #中國央行
+
+【華泰證券：資金面仍具活躍基礎】華泰證券研報稱，上週市場主線仍有所調整，前期抱團的融資資金活躍度有所回落，但華泰證券認為資金面仍有一定活躍的基礎。
+
+---
+
+### 2026-06-17 08:04:44  #觀點
+
+【中信建投：算力等高頻高速需求快速增長 電子級PTFE有望大規模應用】中信建投證券研報稱，算力等高頻高速需求快速增長，電子級PTFE有望大規模應用。PTFE材料主要特性包括優異的熱穩定性、耐化學性、介電效能等。PTFE下游軍工+伺服器高速線纜+高速板三大需求均有望高速增長，隨著英偉達新一代伺服器Rubin ultra量產節點臨近，產業內積極討論使用PTFE材料作為正交背板的可能性。中信建投認為隨著算力基建等引領的高頻高速傳輸需求的持續增長，PTFE的下游領域有望被重新定義。
+
+---
+
+### 2026-06-17 08:04:27  #公司 #觀點
+
+【摩根大通： 超大規模資料中心運營商仍保持著“驚人的盈利能力” 】摩根大通報告指出，超大規模資料中心運營商仍保持著“驚人的盈利能力”。這些策略師預計，到2027年，這些公司的現金流將超過9000億美元。目前雖然依靠槓桿融資，但未來當利率不那麼有吸引力時，它們可轉而依靠經營現金流或其他市場。
+
+---
+
+### 2026-06-17 08:03:43  #公司 #國際 #原創
+
+【諾和諾德遭駭客組織竊取大量資料並勒索2500萬美元】一個名為FulcrumSec網路勒索組織聲稱，他們從諾和諾德公司竊取了超過1TB資料，在向該公司索取2500萬美元贖金未果後，正在考慮出售部分資料。FulcrumSec稱，被竊取的資料包括公司原始碼、已上市和未上市藥物的專有資訊、試驗資料、員工、醫生和患者資料、公司處理設施相關資訊以及內部人工智慧模型資訊。在諾和諾德拒絕支付2500萬美元后，該組織正在“探索私下出售”部分與特定藥物和其他內部資訊相關的資料，但不會公開其竊取的數千名員工和醫生的資訊，以及約11500名匿名臨床試驗患者的資訊。
+
+---
+
+### 2026-06-17 08:03:24  #市場
+
+澳大利亞S&P/ASX 200指數早盤下跌0.2%，至8,902.90點。
+
+---
+
+### 2026-06-17 08:03:12  #Trading Economics #Economy #Japan #Balance of Trade #Importance 1
+
+Japan Trade Gap Narrows Sharply — Japan’s trade deficit dropped significantly to JPY 378.7 billion in May 2026 from JPY 662.5 billion in the same month a year earlier, outperforming market expectations of a gap of JPY 564.6 billion, as exports grew faster than imports. Year-on-year, exports rose 17.0% to JPY 9,511.5 billion, accelerating from a 14.8% growth in April while marking the strongest growth since November 2022 and exceeding the consensus of 16.2%, supported by robust demand from China, the U.S., ASEAN countries, and the EU. Meanwhile, imports increased 12.5% to JPY 9,890.2 billion, quickening from April’s 9.8% gain despite falling short of forecasts of 12.8%. It was the fourth consecutive month of import growth and the strongest pace since January 2025, boosted by government’s sizeable stimulus measures introduced in late 2025.
+
+---
+
+### 2026-06-17 08:03:07  #宏觀 #公司
+
+【山東3億北斗工程現“脆皮底座”，官方組成聯合調查組】據山東發改委訊息，針對媒體反映山東高速資訊集團有限公司承建的某新基建專案問題，山東省發展改革委、山東省交通運輸廳、山東省國資委已組成聯合調查組進駐現場核查，並委託第三方專業機構對專案施工質量開展全面檢測。相關調查結果將及時向社會公佈。據大象新聞近日報道，山東濟濰高速沿線，有人用手掰開了一個國家重點工程的底座。混凝土碎成渣，裡頭塞滿石頭，表面只抹了一層薄薄的水泥漿。這個被“手撕”的工程，名叫“北斗高精度重大新基建智慧監測系統”，總投資近3億元，國家發改委批覆，中央預算內資金4500萬元。承建方是山東高速資訊集團——山東高速集團的子公司，而後者是世界500強，資產1.8萬億，運營管理高速公路9240公里。
 
 ---
 
@@ -20467,251 +20629,5 @@ South Korea Export Inflation at 28-Year High — South Korea’s export prices s
 ### 2026-06-16 05:37:04  #Trading Economics #Economy #Uruguay #GDP Annual Growth Rate #Importance 1
 
 Uruguay GDP Growth Accelerates in Q1 — Uruguay’s GDP grew 0.9% year-on-year in the first quarter of 2026, accelerating from a 0.1% increase in the previous quarter. Nine of the twelve major sectors recorded growth. Financial services posted the strongest expansion, rising 3.1%, followed by transport and warehousing and information and communications (2.2%), commerce, restaurants and food services (1.4%), and manufacturing (1.3%). In contrast, agriculture, fishing and mining contracted 3.7%, while construction fell 3.4% and public administration activities declined 0.8%.
-
----
-
-### 2026-06-16 05:35:15  #MKT News #WTI #Impact bullish #Brent
-
-【Three explosions heard south of Iran's Qeshm Island】An agency reported in the early hours of the 16th that three explosions were heard south of Iran's Qeshm Island and nearby areas. Initial reports indicate the blasts may have been intended to divert shipping traffic in the Strait of Hormuz.
-
----
-
-### 2026-06-16 05:35:13  #MKT News
-
-Venezuela signed a cooperation agreement with General Electric's Venezuelan unit, state TV reported.
-
----
-
-### 2026-06-16 05:35:12  #國際
-
-【伊媒：伊朗格什姆島以南等地傳出爆炸聲】伊朗邁赫爾通訊社16日凌晨報道，伊朗格什姆島以南等地傳出三聲爆炸聲。初步報告顯示，爆炸可能是為了疏導霍爾木茲海峽的交通。（新華社）
-
----
-
-### 2026-06-16 05:34:01  #公司
-
-委內瑞拉代總統羅德里格斯會見通用電氣韋諾瓦公司高管。
-
----
-
-### 2026-06-16 05:32:04  #公司
-
-委內瑞拉國家電力公司與通用電氣韋諾瓦簽署合作協議。
-
----
-
-### 2026-06-16 05:31:32  #國際
-
-美國參議員蒂利斯表示，將於下週與代理司法部長布蘭奇會面。
-
----
-
-### 2026-06-16 05:30:58  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-SEC filing shows NVIDIA (NVDA.O) has applied to issue up to $25 billion of notes across seven tranches.
-
----
-
-### 2026-06-16 05:30:39  #MKT News #WTI #Impact bearish #Brent
-
-【US spot petrochemical prices retreat as Iran risk premium fades】US spot petrochemical prices softened last week as the Iran risk premium unwound, reducing export demand; Gulf Coast operational issues limited further downside. Ethylene fell 4.1% and polymer‑grade propylene dropped 9.8%; both remain above pre‑war levels after Middle East shipment disruptions via the Strait of Hormuz tightened global supply and supported earlier US export flows. The price of para‑phenylene di‑n‑butyl ether, more than 70% used in synthetic rubber tires, held at 63.5 cents/lb, making it one of the most price‑resilient petrochemical products this year.
-
----
-
-### 2026-06-16 05:29:55  #其他
-
-英偉達：擬發行最高250億美元的七分制票據。
-
----
-
-### 2026-06-16 05:25:41  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls on Rising Inflation Expectations — The Ibovespa fell 0.4% to close at 170,415 on Monday after the latest Focus survey showed inflation expectations continuing to rise. The median forecast for annual inflation in 2026 increased for the 14th consecutive week, from 5.11% to 5.30%, moving further above the BCB's upper target limit of 4.5%. Meanwhile, the median forecast for the Selic rate at the end of 2026 rose from 13.5% to 13.75%. Concerns over a more hawkish BCB weighed on banks, with Bradesco falling 0.8% and Itaú losing 0.5%. Petrobras also dragged on the index, dropping 5.1% as oil prices fell after the US and Iran announced a preliminary peace agreement that would reopen the Strait of Hormuz. In contrast, Vale climbed 2.5% as iron ore prices rose on supply concerns linked to a potential strike by BHP workers in Australia. Embraer jumped 7.1% after Azorra finalized a deal to acquire 15 aircraft.
-
----
-
-### 2026-06-16 05:25:25  #國際
-
-美國副總統萬斯：與伊朗達成的諒解備忘錄篇幅大約一頁半，是一份非常寬泛的檔案。
-
----
-
-### 2026-06-16 05:21:24  #MKT News
-
-【Vance: U.S.-Iran memorandum roughly one-and-a-half pages】CNN reported U.S. Vice President Vance said the U.S.-Iran memorandum is roughly one-and-a-half pages and is therefore very vague.
-
----
-
-### 2026-06-16 05:18:59  #MKT News #Important #WTI #Impact bullish #Brent
-
-Mehr news agency reported three explosions heard south of Qeshm Island in the Strait of Hormuz; explosions may be related to maritime traffic management.
-
----
-
-### 2026-06-16 05:18:30  #焦點 #國際
-
-伊朗邁赫爾通訊社表示，霍爾木茲海峽地區發生的爆炸事件可能與通航管控有關。
-
----
-
-### 2026-06-16 05:18:26  #焦點 #國際
-
-伊朗邁赫爾通訊社表示，霍爾木茲海峽格什姆島南部傳出三聲爆炸聲響。
-
----
-
-### 2026-06-16 05:17:22  #國際
-
-市場資訊：美國得州瓦哈樞紐的現貨交割價格為每百萬英熱單位35美分，為自2月以來首次轉正，結束了此前連續131天價格低於零的紀錄。
-
----
-
-### 2026-06-16 05:16:36  #MKT News #Commodities #Energy #DVN.O #Impact bullish #PR.O
-
-【West Texas natural gas prices turn positive for first time in four months】Spot delivery at the Waha hub in West Texas was $0.35/MMBtu on Monday, the first positive print since February and ending a 131-day streak of subzero prices. Hot weather, capacity gains after pipeline maintenance and signs of pipeline expansions pushed the rally. The move relieves pressure on regional producers such as Permian Resources and Devon Energy, which had idled high gas-to-oil-ratio wells to avoid further cash burn.
-
----
-
-### 2026-06-16 05:15:17  #市場
-
-富時A50期指連續夜盤收漲0.08%，報15780點。
-
----
-
-### 2026-06-16 05:14:55  #其他 #焦點
-
-馬斯克如今的財富比全球第二富豪高出近一萬億美元。
-
----
-
-### 2026-06-16 05:11:45  #公司
-
-亞馬遜：計劃向密蘇里州投資數十億美元。
-
----
-
-### 2026-06-16 05:11:23  #MKT News
-
-U.S. Vice President Vance said the memorandum of understanding is a very general document.
-
----
-
-### 2026-06-16 05:11:21  #國際
-
-美國副總統萬斯：美伊諒解備忘錄是一份框架性極強的檔案。
-
----
-
-### 2026-06-16 05:10:56  #國際
-
-美國國家公路交通安全管理局最新公佈的資料顯示，特斯拉自動駕駛計程車自今年2月以來未發生任何一起己方全責事故。
-
----
-
-### 2026-06-16 05:10:56  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-【PGIM expects three Fed hikes this year, then policy reversal in 2027】PGIM, in a dissenting view, expects the Fed to raise rates three times this year to curb an overheating US economy, then reverse course with three cuts in 2027 and a further cut in 2028, bringing the policy rate to 3.375% — below current levels and near neutral. The firm, which in April had forecast cuts this year, cites an "unusually strong" US economy, persistently high inflation and five years of missing the Fed's 2% target as the rationale for pre-emptive hikes to shore up credibility and anchor inflation expectations. PGIM adds that framing hikes as preventive against supply-side inflation and recent long-term Treasury volatility would help secure political support.
-
----
-
-### 2026-06-16 05:10:24  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-Canadian Stocks Rise as Oil Prices Retreat — The S&P/TSX Composite Index rose 1% to close at a record 35,276 on Monday after the US and Iran announced a preliminary peace agreement aimed at ending the conflict. US President Donald Trump said the deal would halt hostilities and reopen the Strait of Hormuz. Oil prices fell, easing concerns that an energy-driven inflation spike could trigger a hawkish shift by global central banks. Bond yields also declined, reducing worries over higher borrowing costs. Financial stocks traded higher, with Brookfield gaining 1.2%. Meanwhile, higher gold prices fueled a rally in mining shares, with Agnico Eagle rising 5.6%, WPM advancing 6.8%, and Barrick adding 4.2%. In contrast, energy stocks tumbled on lower oil prices, with Canadian Natural down 2.7% and Suncor losing 3%. Investors are now focused on the Federal Reserve's policy meeting, which concludes on Wednesday, with markets widely expecting interest rates to remain unchanged.
-
----
-
-### 2026-06-16 05:09:24  #焦點 #國際
-
-真主黨：用火箭彈和炮彈襲擊了黎巴嫩南部的以色列軍隊，衝突仍在繼續。
-
----
-
-### 2026-06-16 05:09:06  #公司
-
-SpaceX：不打算透過財經通訊社釋出季度、年度財務業績及其他重大事項公告，將主要透過公司官網投資者關係板塊以及旗下X平臺賬號向公眾釋出重大資訊。
-
----
-
-### 2026-06-16 05:07:21  #MKT News
-
-SpaceX (SPCX.O) said it will not distribute quarterly or annual earnings or other material announcements via Telegram; it will publish material information primarily on its investor-relations webpage and its X account.
-
----
-
-### 2026-06-16 05:06:07  #焦點 #國際
-
-英國金融時報：若伊核協議得到維持，特朗普政府正考慮設立規模3000億美元的基金供伊朗使用。
-
----
-
-### 2026-06-16 05:04:49  #國際
-
-美國海軍最新一艘阿利·伯克級導彈驅逐艦即將命名為“泰德·史蒂文斯”號（DDG-128），已駛離弗吉尼亞州諾福克海軍基地，前往佛羅里達州梅波特海軍基地，開展包含衝擊試驗在內的驗收流程。
-
----
-
-### 2026-06-16 05:02:23  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Multiple Iranian vessels pass US maritime blockade】Iranian sources said on the 16th (local time) that three oil tankers and two ships carrying essential supplies have breached a US maritime blockade. Ship-tracking data show an ultra-large crude carrier is sailing from international waters to an Iranian port after clearing the blockade. A vessel carrying livestock feed has also transited and is en route to Iran. Separately, a fully laden Iranian crude tanker has passed the Gulf of Oman and the blockade line and is heading to its export destination.
-
----
-
-### 2026-06-16 05:02:23  #MKT News
-
-South Korea May export price index YoY posted its largest increase since March 1998; import price index YoY logged its biggest rise since July 2022.
-
----
-
-### 2026-06-16 05:01:35  #公司
-
-歐萊雅加拿大公司：旗下SalonCentric Canada收購Cantin Beauté全部資產。
-
----
-
-### 2026-06-16 05:01:01  #國際
-
-【比利時1-1戰平埃及】美加墨世界盃小組賽G組首輪，比利時1比1戰平埃及，兩隊各收穫一分。
-
----
-
-### 2026-06-16 05:00:08  #MKT News
-
-South Korea May export price index YoY 46.9%; prior reading revised to 41.3% from 40.8%.
-
----
-
-### 2026-06-16 05:00:07  #MKT News
-
-South Korea May import price index YoY 24.8%; prior value revised from 20.20% to 20.5%.
-
----
-
-### 2026-06-16 05:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Export Price Index (YoY) (May) | actual 46.9% | previous 40.80%
-
----
-
-### 2026-06-16 05:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Import Price Index (YoY) (May) | actual 24.8% | previous 20.20%
-
----
-
-### 2026-06-16 04:59:41  #焦點 #國際
-
-【多艘伊朗船隻順利透過美方海上封鎖區】據伊朗方面當地時間16日訊息，3艘油輪和2艘載有伊朗基本物資的船隻已突破美國方面實施的海上封鎖。另有訊息稱，多艘伊朗船隻順利穿過封鎖區。根據船舶航行資料，一艘伊朗超大型原油運輸船正從國際水域駛向伊朗港口，並已透過封鎖區域。一艘運載牲畜飼料的船隻也已穿過封鎖區域，正在駛往伊朗。此外，另一艘滿載原油的伊朗油輪已透過阿曼灣及封鎖線，正駛向其出口目的地。
-
----
-
-### 2026-06-16 04:54:53  #MKT News
-
-【US B-52 strategic bomber crashes in California】The U.S. military confirmed on the 15th that a B-52 strategic bomber crashed in the southern Mojave Desert in California. The aircraft departed Edwards Air Force Base at about 11:20 a.m. local time and crashed shortly thereafter; rescue teams are en route. Local media place the crash site roughly 160 km north of Los Angeles. Casualties are unknown. The B-52, nicknamed the Stratofortress, typically has a five-person crew and can carry nuclear weapons and various precision-guided munitions; it has been in service since 1955.
-
----
-
-### 2026-06-16 04:52:43  #MKT News #WTI #Impact bearish #Brent
-
-【Zimbabwe cuts policy rate 500bps to 30%; first central bank to ease after U.S.-Iran peace agreement】Zimbabwe central bank cut its policy rate on Monday from 35% to 30% (500bps), the first rate cut since April 2024 when the bank reset rates after introducing the new ZiG currency. Headline inflation slowed to 4.4% YoY in May from 4.8% the prior month. The central bank noted that if the U.S.-Iran peace agreement restores oil and fertilizer supplies fully, price pressures could ease further, helping lower energy and food costs.
 
 ---

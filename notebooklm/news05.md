@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-22 01:29:23_
-_本檔包含 3553 則快訊，約 650221 字_
+_更新時間：2026-06-22 02:45:19_
+_本檔包含 3529 則快訊，約 650034 字_
+
+---
+
+### 2026-06-16 05:35:15  #MKT News #WTI #Impact bullish #Brent
+
+【Three explosions heard south of Iran's Qeshm Island】An agency reported in the early hours of the 16th that three explosions were heard south of Iran's Qeshm Island and nearby areas. Initial reports indicate the blasts may have been intended to divert shipping traffic in the Strait of Hormuz.
+
+---
+
+### 2026-06-16 05:35:13  #MKT News
+
+Venezuela signed a cooperation agreement with General Electric's Venezuelan unit, state TV reported.
+
+---
+
+### 2026-06-16 05:35:12  #國際
+
+【伊媒：伊朗格什姆島以南等地傳出爆炸聲】伊朗邁赫爾通訊社16日凌晨報道，伊朗格什姆島以南等地傳出三聲爆炸聲。初步報告顯示，爆炸可能是為了疏導霍爾木茲海峽的交通。（新華社）
+
+---
+
+### 2026-06-16 05:34:01  #公司
+
+委內瑞拉代總統羅德里格斯會見通用電氣韋諾瓦公司高管。
+
+---
+
+### 2026-06-16 05:32:04  #公司
+
+委內瑞拉國家電力公司與通用電氣韋諾瓦簽署合作協議。
+
+---
+
+### 2026-06-16 05:31:32  #國際
+
+美國參議員蒂利斯表示，將於下週與代理司法部長布蘭奇會面。
+
+---
+
+### 2026-06-16 05:30:58  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+SEC filing shows NVIDIA (NVDA.O) has applied to issue up to $25 billion of notes across seven tranches.
+
+---
+
+### 2026-06-16 05:30:39  #MKT News #WTI #Impact bearish #Brent
+
+【US spot petrochemical prices retreat as Iran risk premium fades】US spot petrochemical prices softened last week as the Iran risk premium unwound, reducing export demand; Gulf Coast operational issues limited further downside. Ethylene fell 4.1% and polymer‑grade propylene dropped 9.8%; both remain above pre‑war levels after Middle East shipment disruptions via the Strait of Hormuz tightened global supply and supported earlier US export flows. The price of para‑phenylene di‑n‑butyl ether, more than 70% used in synthetic rubber tires, held at 63.5 cents/lb, making it one of the most price‑resilient petrochemical products this year.
+
+---
+
+### 2026-06-16 05:29:55  #其他
+
+英偉達：擬發行最高250億美元的七分制票據。
+
+---
+
+### 2026-06-16 05:25:41  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls on Rising Inflation Expectations — The Ibovespa fell 0.4% to close at 170,415 on Monday after the latest Focus survey showed inflation expectations continuing to rise. The median forecast for annual inflation in 2026 increased for the 14th consecutive week, from 5.11% to 5.30%, moving further above the BCB's upper target limit of 4.5%. Meanwhile, the median forecast for the Selic rate at the end of 2026 rose from 13.5% to 13.75%. Concerns over a more hawkish BCB weighed on banks, with Bradesco falling 0.8% and Itaú losing 0.5%. Petrobras also dragged on the index, dropping 5.1% as oil prices fell after the US and Iran announced a preliminary peace agreement that would reopen the Strait of Hormuz. In contrast, Vale climbed 2.5% as iron ore prices rose on supply concerns linked to a potential strike by BHP workers in Australia. Embraer jumped 7.1% after Azorra finalized a deal to acquire 15 aircraft.
+
+---
+
+### 2026-06-16 05:25:25  #國際
+
+美國副總統萬斯：與伊朗達成的諒解備忘錄篇幅大約一頁半，是一份非常寬泛的檔案。
+
+---
+
+### 2026-06-16 05:21:24  #MKT News
+
+【Vance: U.S.-Iran memorandum roughly one-and-a-half pages】CNN reported U.S. Vice President Vance said the U.S.-Iran memorandum is roughly one-and-a-half pages and is therefore very vague.
+
+---
+
+### 2026-06-16 05:18:59  #MKT News #Important #WTI #Impact bullish #Brent
+
+Mehr news agency reported three explosions heard south of Qeshm Island in the Strait of Hormuz; explosions may be related to maritime traffic management.
+
+---
+
+### 2026-06-16 05:18:30  #焦點 #國際
+
+伊朗邁赫爾通訊社表示，霍爾木茲海峽地區發生的爆炸事件可能與通航管控有關。
+
+---
+
+### 2026-06-16 05:18:26  #焦點 #國際
+
+伊朗邁赫爾通訊社表示，霍爾木茲海峽格什姆島南部傳出三聲爆炸聲響。
+
+---
+
+### 2026-06-16 05:17:22  #國際
+
+市場資訊：美國得州瓦哈樞紐的現貨交割價格為每百萬英熱單位35美分，為自2月以來首次轉正，結束了此前連續131天價格低於零的紀錄。
+
+---
+
+### 2026-06-16 05:16:36  #MKT News #Commodities #Energy #DVN.O #Impact bullish #PR.O
+
+【West Texas natural gas prices turn positive for first time in four months】Spot delivery at the Waha hub in West Texas was $0.35/MMBtu on Monday, the first positive print since February and ending a 131-day streak of subzero prices. Hot weather, capacity gains after pipeline maintenance and signs of pipeline expansions pushed the rally. The move relieves pressure on regional producers such as Permian Resources and Devon Energy, which had idled high gas-to-oil-ratio wells to avoid further cash burn.
+
+---
+
+### 2026-06-16 05:15:17  #市場
+
+富時A50期指連續夜盤收漲0.08%，報15780點。
+
+---
+
+### 2026-06-16 05:14:55  #其他 #焦點
+
+馬斯克如今的財富比全球第二富豪高出近一萬億美元。
+
+---
+
+### 2026-06-16 05:11:45  #公司
+
+亞馬遜：計劃向密蘇里州投資數十億美元。
+
+---
+
+### 2026-06-16 05:11:23  #MKT News
+
+U.S. Vice President Vance said the memorandum of understanding is a very general document.
+
+---
+
+### 2026-06-16 05:11:21  #國際
+
+美國副總統萬斯：美伊諒解備忘錄是一份框架性極強的檔案。
+
+---
+
+### 2026-06-16 05:10:56  #國際
+
+美國國家公路交通安全管理局最新公佈的資料顯示，特斯拉自動駕駛計程車自今年2月以來未發生任何一起己方全責事故。
+
+---
+
+### 2026-06-16 05:10:56  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【PGIM expects three Fed hikes this year, then policy reversal in 2027】PGIM, in a dissenting view, expects the Fed to raise rates three times this year to curb an overheating US economy, then reverse course with three cuts in 2027 and a further cut in 2028, bringing the policy rate to 3.375% — below current levels and near neutral. The firm, which in April had forecast cuts this year, cites an "unusually strong" US economy, persistently high inflation and five years of missing the Fed's 2% target as the rationale for pre-emptive hikes to shore up credibility and anchor inflation expectations. PGIM adds that framing hikes as preventive against supply-side inflation and recent long-term Treasury volatility would help secure political support.
+
+---
+
+### 2026-06-16 05:10:24  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+Canadian Stocks Rise as Oil Prices Retreat — The S&P/TSX Composite Index rose 1% to close at a record 35,276 on Monday after the US and Iran announced a preliminary peace agreement aimed at ending the conflict. US President Donald Trump said the deal would halt hostilities and reopen the Strait of Hormuz. Oil prices fell, easing concerns that an energy-driven inflation spike could trigger a hawkish shift by global central banks. Bond yields also declined, reducing worries over higher borrowing costs. Financial stocks traded higher, with Brookfield gaining 1.2%. Meanwhile, higher gold prices fueled a rally in mining shares, with Agnico Eagle rising 5.6%, WPM advancing 6.8%, and Barrick adding 4.2%. In contrast, energy stocks tumbled on lower oil prices, with Canadian Natural down 2.7% and Suncor losing 3%. Investors are now focused on the Federal Reserve's policy meeting, which concludes on Wednesday, with markets widely expecting interest rates to remain unchanged.
+
+---
+
+### 2026-06-16 05:09:24  #焦點 #國際
+
+真主黨：用火箭彈和炮彈襲擊了黎巴嫩南部的以色列軍隊，衝突仍在繼續。
+
+---
+
+### 2026-06-16 05:09:06  #公司
+
+SpaceX：不打算透過財經通訊社釋出季度、年度財務業績及其他重大事項公告，將主要透過公司官網投資者關係板塊以及旗下X平臺賬號向公眾釋出重大資訊。
+
+---
+
+### 2026-06-16 05:07:21  #MKT News
+
+SpaceX (SPCX.O) said it will not distribute quarterly or annual earnings or other material announcements via Telegram; it will publish material information primarily on its investor-relations webpage and its X account.
+
+---
+
+### 2026-06-16 05:06:07  #焦點 #國際
+
+英國金融時報：若伊核協議得到維持，特朗普政府正考慮設立規模3000億美元的基金供伊朗使用。
+
+---
+
+### 2026-06-16 05:04:49  #國際
+
+美國海軍最新一艘阿利·伯克級導彈驅逐艦即將命名為“泰德·史蒂文斯”號（DDG-128），已駛離弗吉尼亞州諾福克海軍基地，前往佛羅里達州梅波特海軍基地，開展包含衝擊試驗在內的驗收流程。
+
+---
+
+### 2026-06-16 05:02:23  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【Multiple Iranian vessels pass US maritime blockade】Iranian sources said on the 16th (local time) that three oil tankers and two ships carrying essential supplies have breached a US maritime blockade. Ship-tracking data show an ultra-large crude carrier is sailing from international waters to an Iranian port after clearing the blockade. A vessel carrying livestock feed has also transited and is en route to Iran. Separately, a fully laden Iranian crude tanker has passed the Gulf of Oman and the blockade line and is heading to its export destination.
+
+---
+
+### 2026-06-16 05:02:23  #MKT News
+
+South Korea May export price index YoY posted its largest increase since March 1998; import price index YoY logged its biggest rise since July 2022.
+
+---
+
+### 2026-06-16 05:01:35  #公司
+
+歐萊雅加拿大公司：旗下SalonCentric Canada收購Cantin Beauté全部資產。
+
+---
+
+### 2026-06-16 05:01:01  #國際
+
+【比利時1-1戰平埃及】美加墨世界盃小組賽G組首輪，比利時1比1戰平埃及，兩隊各收穫一分。
+
+---
+
+### 2026-06-16 05:00:08  #MKT News
+
+South Korea May export price index YoY 46.9%; prior reading revised to 41.3% from 40.8%.
+
+---
+
+### 2026-06-16 05:00:07  #MKT News
+
+South Korea May import price index YoY 24.8%; prior value revised from 20.20% to 20.5%.
+
+---
+
+### 2026-06-16 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Export Price Index (YoY) (May) | actual 46.9% | previous 40.80%
+
+---
+
+### 2026-06-16 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Import Price Index (YoY) (May) | actual 24.8% | previous 20.20%
+
+---
+
+### 2026-06-16 04:59:41  #焦點 #國際
+
+【多艘伊朗船隻順利透過美方海上封鎖區】據伊朗方面當地時間16日訊息，3艘油輪和2艘載有伊朗基本物資的船隻已突破美國方面實施的海上封鎖。另有訊息稱，多艘伊朗船隻順利穿過封鎖區。根據船舶航行資料，一艘伊朗超大型原油運輸船正從國際水域駛向伊朗港口，並已透過封鎖區域。一艘運載牲畜飼料的船隻也已穿過封鎖區域，正在駛往伊朗。此外，另一艘滿載原油的伊朗油輪已透過阿曼灣及封鎖線，正駛向其出口目的地。
+
+---
+
+### 2026-06-16 04:54:53  #MKT News
+
+【US B-52 strategic bomber crashes in California】The U.S. military confirmed on the 15th that a B-52 strategic bomber crashed in the southern Mojave Desert in California. The aircraft departed Edwards Air Force Base at about 11:20 a.m. local time and crashed shortly thereafter; rescue teams are en route. Local media place the crash site roughly 160 km north of Los Angeles. Casualties are unknown. The B-52, nicknamed the Stratofortress, typically has a five-person crew and can carry nuclear weapons and various precision-guided munitions; it has been in service since 1955.
+
+---
+
+### 2026-06-16 04:52:43  #MKT News #WTI #Impact bearish #Brent
+
+【Zimbabwe cuts policy rate 500bps to 30%; first central bank to ease after U.S.-Iran peace agreement】Zimbabwe central bank cut its policy rate on Monday from 35% to 30% (500bps), the first rate cut since April 2024 when the bank reset rates after introducing the new ZiG currency. Headline inflation slowed to 4.4% YoY in May from 4.8% the prior month. The central bank noted that if the U.S.-Iran peace agreement restores oil and fertilizer supplies fully, price pressures could ease further, helping lower energy and food costs.
 
 ---
 
@@ -21072,395 +21318,5 @@ TASNIM NEWS reported flights have been canceled until further notice; no officia
 ### 2026-06-15 02:45:56  #國際
 
 俄羅斯總統普京向特朗普致以生日祝福，稱他“才華橫溢，令人矚目”。
-
----
-
-### 2026-06-15 02:45:02  #其他
-
-古巴：頻繁停電，就連聖體餅的製作工作也受到了影響。
-
----
-
-### 2026-06-15 02:42:39  #MKT News
-
-Tasnim News Agency reported Iran has canceled flights to its western region, citing "the current situation".
-
----
-
-### 2026-06-15 02:42:27  #國際
-
-伊朗塔斯尼姆通訊社：航班已取消，復航時間另行通知，目前尚未釋出官方航行通告。
-
----
-
-### 2026-06-15 02:41:49  #國際
-
-伊朗塔斯尼姆通訊社稱該國西部地區航班取消。
-
----
-
-### 2026-06-15 02:39:51  #國際
-
-美國參議員格雷厄姆表示，他希望伊朗相關衝突很快能透過外交途徑解決，但同時警告，任何協議都必須正視真主黨對以色列的襲擊，以及該組織與德黑蘭方面的關聯。
-
----
-
-### 2026-06-15 02:37:09  #國際
-
-伊朗革命衛隊聖城旅指揮官伊斯梅爾・卡阿尼稱真主黨 “即將取得對以色列的重大勝利”，他對該組織的行動予以稱讚，並表示這些行動壯大了黎巴嫩的力量。
-
----
-
-### 2026-06-15 02:36:46  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-An adviser to Iran's Supreme Leader posted on social media after an Israeli strike on Beirut's southern suburbs: "We will give the attackers a lesson they will regret for the rest of their lives."
-
----
-
-### 2026-06-15 02:36:15  #國際
-
-伊朗最高領袖顧問就以色列襲擊貝魯特南郊事件發文稱：我們將讓襲擊者吸取慘痛教訓。
-
----
-
-### 2026-06-15 02:35:59  #國際
-
-聯合國秘書長古特雷斯譴責以色列對貝魯特發動襲擊，稱衝突本已停火，且美伊談判也即將達成協議，襲擊卻在此刻發生。
-
----
-
-### 2026-06-15 02:35:45  #國際
-
-一名以色列安全官員表示，以方今日對貝魯特達希耶區實施打擊時，已預判伊朗會作出回應。
-
----
-
-### 2026-06-15 02:33:47  #國際
-
-美國國防部長赫格塞思：儘管以色列襲擊了黎巴嫩境內真主黨目標，美伊相關協議仍在推進。美方密切關注真主黨向以色列北部發射火箭彈的行為，並要求該組織停止此類行動。
-
----
-
-### 2026-06-15 02:32:04  #國際
-
-以色列Ynet新聞網：總理內塔尼亞胡拒絕了特朗普提出的要求，即在黎巴嫩停火併開始撤軍。
-
----
-
-### 2026-06-15 02:28:59  #國際
-
-伊朗方面稱，美國總統特朗普在襲擊發生後曾提出以金錢換取伊朗保持克制，但該提議遭到伊朗拒絕，伊朗並表示將“很快”作出回應。
-
----
-
-### 2026-06-15 02:28:41  #公司 #市場 #國際
-
-【Anthropic派員前往華盛頓，企圖化解與白宮的矛盾】據知情人士透露，Anthropic多名資深技術人員已抵達華盛頓，與白宮官員會面，試圖解決糾紛。受此次爭端影響，該公司多款頂級模型已暫停服務。出於安全方面的考量，美國政府對Anthropic旗下兩款主力模型Mythos與Fable實施全面出口管制。如今該公司正迅速行動，試圖緩和與特朗普政府的關係。知情人士表示，自上週五白宮率先接洽以來，Anthropic技術團隊已和美方官員開展多輪線上會談。雙方訊息人士均稱，都希望儘快解決此次爭端。
-
----
-
-### 2026-06-15 02:27:52  #MKT News #Market Regions #Japan & APAC #Europe & UK #Commodities #Energy
-
-Nikkei reported Japan and the UK have agreed to cooperate on offshore wind and next-generation nuclear reactors.
-
----
-
-### 2026-06-15 02:27:47  #國際
-
-【伊朗總統稱維護國家團結是優先事項】據伊朗塔斯尼姆通訊社14日報道，伊朗總統佩澤希齊揚在與國內媒體負責人舉行的會議上說，有關戰爭與談判等重大事務的決策權屬於伊朗最高領袖和最高國家安全委員會，各政治派別都應遵循相關決定，維護國家團結是當前優先事項。（新華社）
-
----
-
-### 2026-06-15 02:26:51  #國際
-
-日本與英國達成共識，將在海上風電、新一代核反應堆領域開展合作。
-
----
-
-### 2026-06-15 02:25:09  #國際
-
-【美國密蘇里州發生墜機事故 機上12人遇難】當地時間14日，美國密蘇里州巴特勒發生一起墜機事故。據密蘇里州公路巡警稱，機上12人全部遇難。據密蘇里州公路巡警在社交平臺釋出的訊息，事故發生在巴特勒紀念機場附近。相關工作人員已抵達現場。（央視新聞）
-
----
-
-### 2026-06-15 02:22:21  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact mixed #S&P500
-
-【ANTHROPIC sends senior technical staff to Washington to seek resolution with WHITE HOUSE】Axios reports senior technical staff from ANTHROPIC have arrived in Washington to meet WHITE HOUSE officials to resolve a dispute that prompted the company to take its top models offline. The Trump administration last week imposed comprehensive export controls on ANTHROPIC’s most powerful models, Mythos and Fable, citing security concerns. Sources say ANTHROPIC has held online meetings with WHITE HOUSE officials since the government first contacted the company last Friday; both sides are said to be eager to resolve the issue.
-
----
-
-### 2026-06-15 02:22:09  #國際
-
-特朗普：少數民主黨人反對《外國情報監視法》（FISA），無論比爾·普爾泰是否出任國家情報總監代理職務。這算哪門子交易？另外，如果《外國情報監視法》不附帶完整版的《拯救美國法案》，我就反對它。
-
----
-
-### 2026-06-15 02:21:22  #MKT News
-
-Trump: I will oppose the Foreign Intelligence Surveillance Act (FISA) bill if it is not paired with the Save America Act.
-
----
-
-### 2026-06-15 02:21:06  #國際
-
-特朗普：如果《外國情報監視法》不附帶《拯救美國法案》，我將反對該法案。
-
----
-
-### 2026-06-15 02:19:45  #MKT News
-
-Axios reports Anthropic flew employees to Washington to defuse a dispute with the White House.
-
----
-
-### 2026-06-15 02:18:13  #公司
-
-Anthropic公司派員工赴華盛頓處理白宮（禁令）爭端。
-
----
-
-### 2026-06-15 02:14:14  #MKT News #WTI #Impact bullish #XAUUSD
-
-Israeli media report an assessment that, despite Trump's efforts to restrain Iran's response, Iran will still launch an attack.
-
----
-
-### 2026-06-15 02:11:22  #國際
-
-市場資訊：以色列官員對特朗普週日釋出的一條帖文感到意外，帖文稱以色列不應再對黎巴嫩境內任何地點發動襲擊。
-
----
-
-### 2026-06-15 02:09:56  #國際
-
-以色列評估認為，儘管特朗普試圖約束德黑蘭方面，伊朗仍將會對以色列發動襲擊。
-
----
-
-### 2026-06-15 02:07:48  #國際
-
-以色列一名官員： 伊朗擊落美軍直升機時，即便無人傷亡，特朗普仍下令予以強硬反擊。 為何美國可以採取的行動，以色列卻被禁止為之？
-
----
-
-### 2026-06-15 02:06:39  #MKT News
-
-【Trump says Israel 'upended plans,' says US and Iran will still sign agreement on 14th】Trump told Axios on the 14th that an Israeli strike on Beirut that morning "upended plans" and pushed a US-Iran agreement signing from the US ET morning to later that day. US media report Iran denies it will sign on the 14th; it is unclear whether Trump secured any Iranian assurance the deal would be signed.
-
----
-
-### 2026-06-15 02:06:06  #國際
-
-伊朗伊斯蘭革命衛隊航空航天部隊負責人：呼籲維護國家團結。
-
----
-
-### 2026-06-15 02:04:13  #MKT News
-
-Israel's Channel 12 reported the US is offering economic incentives to Iran in exchange for Iran refraining from retaliating against Israel over an attack in Beirut.
-
----
-
-### 2026-06-15 02:02:37  #公司
-
-海克斯康集團：副執行長馬丁·奧貝里已決定離職。
-
----
-
-### 2026-06-15 02:02:25  #焦點 #國際
-
-【特朗普批以方“打亂計劃” 稱美伊仍將14日籤協議】美國總統特朗普14日稱，儘管以色列當天早上對黎巴嫩首都貝魯特的襲擊“打亂計劃”，美國和伊朗仍將在當天晚些時候簽署協議。特朗普在接受美國阿克西奧斯新聞網站電話採訪時說，協議原定美東時間14日上午簽署，因以色列對貝魯特的襲擊推遲。“本來應該現在籤的，現在改到幾個小時後”。（新華社）
-
----
-
-### 2026-06-15 01:55:49  #其他
-
-國際機械師和航空航天工人協會：洛克希德·馬丁沃斯堡廠區的該協會工會成員投票批准了一份有利的協議。
-
----
-
-### 2026-06-15 01:53:19  #MKT News
-
-Iraq's State Oil Marketing Organization (SOMO) said Iraq has exported 12 mln barrels of crude from its southern ports since early June.
-
----
-
-### 2026-06-15 01:53:07  #其他
-
-伊拉克國家石油營銷組織(SOMO)負責人稱，自6月初以來，伊拉克已從其南部港口出口1200萬桶原油。
-
----
-
-### 2026-06-15 01:50:55  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iraq's state oil sales organization chief said Baghdad has asked Turkey to extend the Kirkuk-Ceyhan pipeline agreement by at least one year to allow more time to negotiate a new deal.
-
----
-
-### 2026-06-15 01:50:23  #MKT News
-
-Missouri Highway Patrol said troopers have arrived to assist Butler Police and the Bates County Sheriff's Office after a plane crashed near Butler Memorial Airport.
-
----
-
-### 2026-06-15 01:50:19  #國際
-
-美國密蘇里州高速公路巡警：目前報告顯示機上所有人員（共12人）均已遇難。
-
----
-
-### 2026-06-15 01:50:14  #其他
-
-伊拉克國家石油營銷組織負責人：伊拉克已要求土耳其將基爾庫克-傑伊漢輸油管道協議至少延長一年，以便為談判新協議留出更多時間。
-
----
-
-### 2026-06-15 01:49:36  #國際
-
-美國密蘇里州高速公路巡警：警員已抵達現場，協助巴特勒警局及貝茨縣警長辦公室處理巴特勒紀念機場附近的墜機事故。
-
----
-
-### 2026-06-15 01:47:57  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's Supreme National Security Council secretary said parties have united to form a chain defending regional security after Israel's strike in Lebanon, adding Lebanon is Iran's soul and violations of Iran's red lines will not be tolerated.
-
----
-
-### 2026-06-15 01:47:01  #國際
-
-土耳其與沙烏地阿拉伯計劃修建一條連通約旦和敘利亞的鐵路通道。
-
----
-
-### 2026-06-15 01:46:30  #MKT News #Brent #Impact bearish #WTI #XAUUSD
-
-【Multiple US-Iran deal drafts emerge; Trump insists on signing Sunday】At least three different drafts of a US-Iran interim agreement have surfaced as Trump presses to sign on Sunday. All drafts envisage reopening the Strait of Hormuz, sanction relief for Iran and restarting nuclear negotiations, but they diverge on key details — chiefly how much frozen Iranian assets would be released and when. A draft seen by Bloomberg proposes the US and regional partners establish a minimum $300bln reconstruction and economic development package and defers nuclear issues to subsequent talks. Reuters, citing an anonymous Iranian official, reported a draft would allow the US to unfreeze $25bln; the Bloomberg copy reviewed did not include that clause. Semi-official Mehr News Agency said final negotiations could only begin after half of frozen funds are released, oil sanctions are suspended and the maritime blockade is lifted.
-
----
-
-### 2026-06-15 01:43:43  #MKT News
-
-U.S. Senate minority leader McConnell was hospitalized Sunday morning.
-
----
-
-### 2026-06-15 01:43:21  #國際
-
-美國參議員米奇·麥康奈爾週日早上入院治療。
-
----
-
-### 2026-06-15 01:43:07  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Iran's Supreme National Security Council secretary said "Islamic fighters" will respond soon to Israel's strike in Lebanon.
-
----
-
-### 2026-06-15 01:42:45  #國際
-
-伊朗高階安全官員：黎巴嫩與我們休慼與共。 我們絕不會容忍觸碰紅線的行為，伊斯蘭勇士即將展開反擊。
-
----
-
-### 2026-06-15 01:40:55  #國際
-
-伊朗最高國家安全委員會秘書就以色列襲擊黎巴嫩事件表示："伊斯蘭戰士"的反擊即將到來。
-
----
-
-### 2026-06-15 01:40:12  #國際
-
-美國密蘇里州巴特勒縣發生飛機墜毀事故，造成至少12人遇難。
-
----
-
-### 2026-06-15 01:39:53  #國際
-
-市場資訊：伊朗方面釋出了與美國擬定臨時協議的多個不同版本，而美國總統特朗普仍堅持其週日簽署協議的時間表。
-
----
-
-### 2026-06-15 01:39:11  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Channel 15 reported Israel will not agree to refrain from responding to Iran, even if that is U.S. President Trump's wish.
-
----
-
-### 2026-06-15 01:38:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israel's Channel 15 reports Israel will not agree to halt strikes in the southern suburbs of Beirut.
-
----
-
-### 2026-06-15 01:37:49  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-According to Israel's Channel 15, Israel has decided it will respond militarily if Iran fires missiles at Israel.
-
----
-
-### 2026-06-15 01:37:00  #國際
-
-近幾周，受美伊談判影響，油價有所回落，美國汽油價格已降至每加侖4美元附近，逼近這一關鍵價位。
-
----
-
-### 2026-06-15 01:36:42  #MKT News
-
-【Japan plans to rename Air Self‑Defense Force as Air and Space Self‑Defense Force】Nikkei reports Tokyo intends to reorganize the Air Self‑Defense Force into an Air and Space Self‑Defense Force within FY2026, formally extending Japan’s security remit to include space. A bill is under review in the Diet; if passed it would be the first Self‑Defense Forces name change since their 1954 founding. The proposal has prompted public concern over military expansion.
-
----
-
-### 2026-06-15 01:36:21  #國際
-
-【日本擬改編航空自衛隊 “安保”範圍擴至宇宙】據《日本經濟新聞》14日報道，日本政府計劃於2026年度內將航空自衛隊改編為“航空宇宙自衛隊”，進一步將日本“安全保障”範圍向外延伸，此舉引發日本輿論對於軍事擴張的強烈擔憂。（新華社）
-
----
-
-### 2026-06-15 01:35:55  #MKT News #S&P500 #Impact bullish #WTI #Impact mixed #DXY #Impact bearish
-
-【UN Secretary-General GUTERRES strongly condemns Israeli airstrikes on Beirut】UN Secretary-General GUTERRES condemned Israeli airstrikes on Beirut, saying they occurred during a ceasefire and as the US and Iran were close to a deal that could pave the way for a peaceful resolution. He warned the conflict is inflicting devastating damage on the global economy, urged all parties to show maximum restraint at this critical moment, and said he strongly hopes ongoing US‑Iran efforts will succeed.
-
----
-
-### 2026-06-15 01:34:42  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-Israel's Channel 13 reports an Israeli assessment that Trump's efforts to prevent Iran from launching strikes will succeed.
-
----
-
-### 2026-06-15 01:33:36  #公司 #國際
-
-分析人士稱，對於法國七國集團峰會，特朗普另有隱密議程。
-
----
-
-### 2026-06-15 01:32:40  #焦點 #國際
-
-伊朗隊離開蒂華納的酒店，前往洛杉磯出戰世界盃首場比賽。
-
----
-
-### 2026-06-15 01:32:16  #國際
-
-市場資訊：俄羅斯或將被迫開展強制徵兵行動，克里姆林宮今年的募兵規模較往年下降兩成。
-
----
-
-### 2026-06-15 01:31:28  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Channel 12, citing Israeli security officials, reported that when Israel struck Beirut today it had anticipated Iran would launch retaliatory attacks.
-
----
-
-### 2026-06-15 01:30:55  #焦點 #國際
-
-以色列方面評估，特朗普很快將宣佈對伊朗做出讓步，以換取以色列不對達希耶空襲事件進行報復。具體細節尚不清楚，但雙方正在秘密進行磋商。
-
----
-
-### 2026-06-15 01:30:11  #MKT News
-
-【Zelenskiy says 'very good' call with Trump on war, Crimea and diplomatic opportunities】Ukrainian President Zelenskiy said he had a "very good" call with US President Trump, discussing the war and its roots, diplomatic opportunities and partners' positions. Zelenskiy called Trump's remark "completely correct" that Russia's seizure of Crimea "started it all," and said stronger leadership at the time might have prevented the war. He said Ukrainians' primary aim is peace and described full US societal support for Ukraine's pursuit of dignity and peace as "critical."
 
 ---

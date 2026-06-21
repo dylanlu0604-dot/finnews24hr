@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-22 01:29:23_
-_本檔包含 3818 則快訊，約 650484 字_
+_更新時間：2026-06-22 02:45:19_
+_本檔包含 3792 則快訊，約 650772 字_
+
+---
+
+### 2026-06-22 02:42:08  #公司
+
+持有坦克製造商KNDS半數股權的家族股東，同意向德國政府出售40%股份。
+
+---
+
+### 2026-06-22 02:38:48  #MKT News
+
+Israel's Prime Minister Netanyahu said that for every one civilian wounded, five terrorists have been eliminated, a 5-to-1 ratio he called unprecedented.
+
+---
+
+### 2026-06-22 02:38:14  #國際
+
+以色列總理內塔尼亞胡：我們在加沙設立了“安全區”，我們在敘利亞設立了“安全區”，我們在黎巴嫩設立了“安全區”，只要有必要，我們就會一直保留下去。
+
+---
+
+### 2026-06-22 02:37:51  #國際
+
+以色列總理內塔尼亞胡：多年來一直有人跟我們說“你們不能打擊伊朗本土。”雖說摩薩德可以開展行動，我們也確實實施過不少，其中很多都是我批准的。但絕不允許派遣本國軍隊進入伊朗境內。如今我們打破了這條限制。我們派遣英勇的飛行員飛越了伊朗上空。
+
+---
+
+### 2026-06-22 02:37:05  #國際
+
+以色列總理內塔尼亞胡：恐怖分子不僅以平民為襲擊目標，還藏身於平民之中。他們此舉犯下雙重戰爭罪行。我們的打擊目標是恐怖分子，但任何此類戰爭都會造成部分平民傷亡。
+
+---
+
+### 2026-06-22 02:36:18  #MKT News
+
+Cuban president says long-time revolutionary leader and Castro ally Ramiro Valdés has died.
+
+---
+
+### 2026-06-22 02:35:55  #國際
+
+巴基斯坦總理稱讚伊朗以不失尊嚴的方式處理危機，肯定伊朗方面的處事姿態。
+
+---
+
+### 2026-06-22 02:35:32  #MKT News
+
+Israeli Prime Minister Netanyahu said claims by some in the US that Trump wholly follows him, and by some in Israel that he wholly defers to Trump, are both untrue. He said leaders are heads of independent states and that he represents Israel's interests.
+
+---
+
+### 2026-06-22 02:34:55  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
+
+Israeli Prime Minister Netanyahu said he was told not to enter Rafah but did; told not to strike Hezbollah but did; and told not to confront Iran but did.
+
+---
+
+### 2026-06-22 02:34:29  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+NETANYAHU said Israel struck bridges and multiple targets. He estimated cumulative damage to the "IRGC economy" at hundreds of billions of dollars — not millions or tens of billions — and said recovery would take a long time.
+
+---
+
+### 2026-06-22 02:33:08  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Netanyahu says Israel has shifted limits on military action against Iran】Prime Minister Netanyahu said Israel has changed its limits on military action against Iran. He said Israelis were long told they could not strike Iranian territory and were limited to Mossad operations — which he has approved many times — but those restrictions have been lifted, and Israel has sent pilots to fly over Iranian airspace.
+
+---
+
+### 2026-06-22 02:32:40  #其他
+
+古巴總統：長期追隨卡斯特羅的革命領袖拉米羅·巴爾德斯逝世。
+
+---
+
+### 2026-06-22 02:32:19  #其他
+
+SpaceX：獵鷹9號火箭於加利福尼亞發射24顆星鏈衛星。
+
+---
+
+### 2026-06-22 02:26:41  #MKT News #XAUUSD #Impact bullish #Brent
+
+Israel's Prime Minister NETANYAHU said Israel will maintain a 'security zone' in Lebanon as needed to protect its citizens.
+
+---
+
+### 2026-06-22 02:26:30  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+i24News reports Israeli Prime Minister Netanyahu said Israel thwarted an Iranian plan "aimed at completely annihilating us."
+
+---
+
+### 2026-06-22 02:22:17  #國際
+
+以色列總理內塔尼亞胡：在美國，人們都說特朗普對我言聽計從。在以色列，又有人說我凡事都順著他的意思。兩種說法都不符合事實。我們是兩個獨立且擁有民族自豪感國家的領導人。我始終以以色列的利益為先。
+
+---
+
+### 2026-06-22 02:18:48  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【HEZBOLLAH leader says group will respond to any Israeli aggression】On the evening of the 21st, HEZBOLLAH leader Naim Qassem said in a televised address the group would respond to any Israeli aggression, called Israel an aggressor that must withdraw, and said continued Israeli troop presence on Lebanese territory was "impossible" and there is no space in Lebanon for an Israeli "security zone." He added Lebanon has its own national army responsible for safeguarding sovereignty and said HEZBOLLAH cooperates with the Lebanese Armed Forces.
+
+---
+
+### 2026-06-22 02:18:17  #國際
+
+【黎真主黨領導人：將對以色列的任何侵犯行為作出回應】當地時間21日晚，黎巴嫩真主黨領導人納伊姆·卡西姆發表電視講話表示，該組織將對以色列的任何侵犯行為作出回應。卡西姆說，以色列是侵略者，必須撤離，以色列軍隊繼續駐紮在黎巴嫩領土上是“不可能的”，而且黎巴嫩境內沒有以色列設立“安全區”的空間。卡西姆還表示，黎巴嫩有自己的國家軍隊，負責維護國家主權，真主黨也與黎巴嫩軍隊合作。（央視新聞）
+
+---
+
+### 2026-06-22 02:16:34  #MKT News
+
+【Lebanese Health Ministry says Israeli strikes have killed 4,106 in Lebanon through June 21】The Lebanese Health Ministry's emergency operations center said on June 21 that sustained Israeli air raids and other attacks in Lebanon between March 2 and June 21 had killed 4,106 people and injured 12,153.
+
+---
+
+### 2026-06-22 02:16:23  #國際
+
+【黎巴嫩衛生部：以色列襲擊已致4106人死亡】據黎巴嫩公共衛生部緊急行動中心21日訊息，3月2日至6月21日期間，以色列在黎巴嫩發動的持續不斷的空襲和襲擊已造成4106人死亡，另有12153人受傷。（央視新聞）
+
+---
+
+### 2026-06-22 02:15:21  #公司
+
+德國KNDS集團家族股東達成股權轉讓協議，為上市鋪路。
+
+---
+
+### 2026-06-22 02:09:12  #其他
+
+中國地震臺網正式測定：06月22日01時58分在新疆伊犁州昭蘇縣（北緯43.36度，東經81.10度）發生4.0級地震，震源深度20千米。
+
+---
+
+### 2026-06-22 02:09:07  #國際
+
+【特朗普言論令伊美未來的談判走向仍不明朗】伊朗國家電視臺一名記者週日表示，在美國總統特朗普發表相關言論後，伊朗與美國談判的後續走向仍存變數。這名記者稱：“談判能否繼續目前尚不明確。”他還補充道，伊朗首席談判代表針對特朗普威脅言論作出回應後的各方反應，將很大程度決定下一步談判程序。此番表態釋出前，伊朗與美國代表團在瑞士舉行的談判已暫停。此前一名伊朗訊息人士透露，談判只是臨時休會，並未徹底終止。
+
+---
+
+### 2026-06-22 02:07:29  #國際
+
+德國部長表示，霍爾木茲海峽一旦遭封鎖，責任在於特朗普。
+
+---
+
+### 2026-06-22 02:06:24  #MKT News #WTI #Impact bullish #Brent
+
+【German defense minister says Trump responsible for Strait of Hormuz closure】Germany’s defense minister Boris Pistorius said President Trump bears responsibility for the closure of the Strait of Hormuz, adding that “ultimately the plug in this bottleneck was pushed in by Trump, not us, but we have an interest in pulling it back out.” He said Iran had earlier agreed under a preliminary deal signed by Trump and Iranian president Pezeshkian to reopen the waterway and shipping flows had begun to resume, but Iran on Saturday said it had reclosed the route citing Israeli strikes in Lebanon. Pistorius said keeping the Strait open, or ensuring safe passage, is in Europe’s energy-security and economic-recovery interest.
+
+---
+
+### 2026-06-22 02:04:38  #MKT News #WTI #Impact bearish #Brent
+
+【Iran negotiator says draft oil sanctions exemption finalized】On the 21st, a member of Iran’s negotiating team said a draft exemption for oil sanctions has been finalized and will be issued soon. Administrative steps to unfreeze Iran’s frozen funds are underway with participation from a Qatari delegation.
+
+---
+
+### 2026-06-22 02:04:05  #國際
+
+【伊朗談判團隊成員稱伊石油制裁豁免草案已敲定】當地時間21日，據伊朗方面訊息，伊朗談判團隊一名成員透露，有關伊朗石油制裁豁免的草案已經最終定稿，並補充說豁免將很快釋出。有關解凍伊朗被凍結資金的行政程式已在卡達代表團的參與下進行。（央視新聞）
+
+---
+
+### 2026-06-22 02:02:30  #MKT News
+
+Pakistan's prime minister thanked Switzerland for its support and constructive engagement after signing a historic Islamabad MoU, saying both sides agreed that successful implementation would aid regional peace and stability and bolster global economic prosperity.
+
+---
+
+### 2026-06-22 02:02:26  #其他
+
+【西班牙4比0沙烏地阿拉伯】美加墨世界盃H組第二輪，西班牙隊VS沙烏地阿拉伯隊。 第11分鐘，亞馬爾門前包抄破門打入個人世界盃首球。此後奧亞薩瓦爾雙響、坦巴克蒂烏龍。最終西班牙隊4-0大勝沙烏地阿拉伯。
+
+---
+
+### 2026-06-22 02:01:30  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Chubb CEO: Strait of Hormuz shipping to resume gradually but remains war-zone environment】Chubb CEO Evan Greenberg said US efforts to reopen shipping lanes through the Strait of Hormuz should gradually increase vessel traffic, but the security situation remains highly unstable and can change day-to-day or hour-to-hour. He identified sea mines as the biggest uncertainty and said only a single narrow channel is currently usable, constraining the number of ships able to transit. The US Navy is working to open wider passages, and Greenberg said shipping activity will rise incrementally as that work progresses.
+
+---
+
+### 2026-06-22 02:00:41  #其他
+
+中國地震臺網自動測定：06月22日01時58分在新疆伊犁州昭蘇縣附近（北緯43.37度，東經81.11度）發生4.0級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-22 02:00:38  #國際
+
+據Al-Mayadeen報道，伊朗代表團表示，除非特朗普為其威脅道歉，且以色列從黎巴嫩撤軍，否則不會重返談判桌。
+
+---
+
+### 2026-06-22 01:59:33  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Lebanese broadcaster Al-Mayadeen reported Iran's delegation will not return to negotiations unless Trump apologizes for his threats and Israel withdraws troops from southern Lebanon.
+
+---
+
+### 2026-06-22 01:49:35  #其他
+
+卡達首相稱此次美伊談判是地區穩定的“轉折點”。
+
+---
+
+### 2026-06-22 01:49:17  #國際
+
+【德國政府擬推動養老金改革 引入市場投資並逐步延遲退休年齡】知情人士透露，德國總理默茨領導的執政聯盟正準備支援一項全面改革德國養老金制度的提案，其中包括引入市場儲蓄機制、收緊提前退休規則，以及逐步提高退休年齡。這些建議由政府任命的委員會起草，將於週二提交。方案建議逐步引入相當於總工資2%的補充養老金繳費，這部分資金將透過一個公共基金工具進行管理，並投資於資本市場。委員會還建議根據預期壽命的增長逐步提高退休年齡。此外，該建議還將取消一項廣受歡迎的提前退休通道，該通道允許繳費滿45年的勞動者提前退休。養老金改革是這屆執政已13個月的聯合政府中最具分歧的議題之一，持續考驗默茨所在保守派與克林拜爾領導的社會民主黨之間長期存在的政策分歧。
+
+---
+
+### 2026-06-22 01:49:16  #MKT News #DAX #Impact mixed #EURUSD
+
+【Germany to push pension reform: 2% of payroll into public market fund, retirement age to rise】A government-appointed committee will submit on Tuesday a draft pension overhaul backed by Chancellor Merz’s coalition that would introduce market-based savings, tighten early-retirement rules and phase up the retirement age in line with rising life expectancy. The proposal calls for phased supplementary contributions equal to 2% of total wages to be managed via a public fund vehicle and invested in capital markets. It would also remove an early-retirement route that allowed workers with 45 years’ contributions to retire early. The reform is one of the most divisive issues in the 13-month-old coalition and may face implementation risks amid Conservative–Social Democrat disagreement.
+
+---
+
+### 2026-06-22 01:46:35  #MKT News
+
+Refinitiv, citing Iranian sources, reports Iran-US talks in Switzerland have been paused but not ended.
+
+---
+
+### 2026-06-22 01:45:42  #焦點 #國際
+
+伊朗訊息人士表示，伊朗與美國在瑞士舉行的談判已暫停，但並未結束。
+
+---
+
+### 2026-06-22 01:45:21  #公司
+
+【前5個月“保險版ABS”登記總規模近900億元】近日，中保保險資產登記交易系統有限公司釋出一隻險資資產支援計劃登記情況。據統計，今年前5個月，險資資產支援計劃登記規模合計為893.7億元，登記產品合計為23只。
+
+---
+
+### 2026-06-22 01:43:32  #MKT News
+
+【Ethiopia's ruling Prosperity Party wins parliamentary election】Ethiopia's National Election Board said in Addis Ababa on June 21 that the ruling Prosperity Party won the parliamentary vote held in early June. The board said the Prosperity Party captured 438 of 486 seats in the House of Peoples' Representatives, the lower chamber of the federal parliament.
+
+---
+
+### 2026-06-22 01:40:37  #其他
+
+SpaceX：24顆星鏈衛星確認成功部署。
+
+---
+
+### 2026-06-22 01:36:05  #其他
+
+伊美談判於瑞士啟幕，調解方卡達與巴基斯坦稱此次磋商是實現地區穩定的“歷史性”契機。談判旨在延續近期緩和局勢的相關舉措，落實臨時協議並推進外交斡旋。
+
+---
+
+### 2026-06-22 01:35:02  #MKT News
+
+Qatari PM welcomed today's Lake Lucerne summit in Switzerland and the ongoing U.S.-Iran talks, thanked Pakistan and other parties for helping secure a consensus, said he looks forward to building on it, and thanked Switzerland for hosting.
+
+---
+
+### 2026-06-22 01:32:26  #其他
+
+哥倫比亞總統大選投票站關閉。
 
 ---
 
@@ -22601,425 +22865,5 @@ Canadian Dollar Hits 14-month Low — The Canadian Dollar touched 1.41 against t
 ### 2026-06-18 23:54:22  #Trading Economics #Markets #France #Stock Market #Importance 0
 
 CAC 40 Rebounds on US-Iran Peace Deal — The CAC 40 rose 0.4% to close at 8,468 on Thursday, rebounding from the previous session after the US and Iran signed an interim peace agreement. The deal aims to end the conflict and reopen the Strait of Hormuz, while negotiations over Tehran’s nuclear program are set to begin later this week. Oil prices fell after the agreement, easing concerns over a new wave of global inflation and prolonged high interest rates. Most luxury stocks moved higher as risk aversion eased, with Hermès up 2% and Kering gaining 4.4%. Industrial stocks also advanced, with Airbus rising 2.6% and Safran adding 2.9%. STMicroelectronics climbed 4.2%, tracking gains in US semiconductor stocks and following its $1.5 billion convertible bond sale announced on Wednesday. In contrast, TotalEnergies fell 2.6% as oil prices declined. Investors also continued to assess the Federal Reserve’s hawkish outlook after it kept rates unchanged while signaling that further tightening may still be needed to contain inflation.
-
----
-
-### 2026-06-18 23:54:00  #國際
-
-美國副總統萬斯解讀這份諒解備忘錄與奧巴馬時期伊核全面協議之間的區別：“奧巴馬的協議向伊朗輸送了超過十億美元美國資金，而本次協議美國一分錢都不會給到伊朗。”
-
----
-
-### 2026-06-18 23:53:10  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Vice President Vance said Iran has committed to allow inspectors to enter and to activate verification mechanisms.
-
----
-
-### 2026-06-18 23:52:45  #國際
-
-美國副總統萬斯：言辭無關緊要，我們只看重核查落實。
-
----
-
-### 2026-06-18 23:52:35  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US Vice President Vance said sanctions remain effective, except for those on oil.
-
----
-
-### 2026-06-18 23:52:20  #國際
-
-萬斯談伊朗：除石油制裁外，其他制裁仍然有效。
-
----
-
-### 2026-06-18 23:51:52  #MKT News #DXY #Impact bullish #XAUUSD #WTI
-
-【Lavrov says Russian military will intensify strikes on Ukrainian combat-support targets】On the 18th, Russian Foreign Minister Lavrov said, according to TASS, that at President Putin’s instruction the Russian military will carry out intensive strikes on targets directly related to Ukrainian combat capability. Lavrov said the action is a response to Ukraine’s drone attack on Moscow and that the military will complete orders issued by Putin.
-
----
-
-### 2026-06-18 23:51:47  #其他
-
-福克斯廣告部門與ToonStar達成合作，為品牌打造數字優先動畫領域的新機遇。
-
----
-
-### 2026-06-18 23:51:34  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Edges Up on US-Iran Peace Deal — The FTSE MIB rose 0.2% to close at 52,688 on Thursday, extending its record rally on optimism surrounding the interim US-Iran peace agreement. The two countries signed a tentative deal extending the ceasefire by 60 days to allow negotiations on a final agreement. The full reopening of the Strait of Hormuz eased shipping restrictions, pushing oil prices lower and reducing concerns over a new wave of global inflation and prolonged high interest rates. Financial stocks traded mixed, with UniCredit up 1.6% and Intesa Sanpaolo gaining 0.9%, while Generali slipped 0.3%, Mediolanum lost 0.7%, and Unipol fell 1.6%. The Fed kept rates unchanged on Wednesday but signaled that further hikes remain possible to curb inflation. Meanwhile, STMicroelectronics jumped 4.2%, tracking gains among semiconductor producers on Wall Street and following its $1.5 billion convertible bond sale announced on Wednesday. Eni fell 3.3% on lower oil quotes.
-
----
-
-### 2026-06-18 23:51:29  #國際
-
-萬斯重申封鎖已經解除，霍爾木茲海峽現已開放；伊朗已作出具體的核承諾。
-
----
-
-### 2026-06-18 23:51:15  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Vice President Vance said he expects oil prices to see "significant relief" beyond the current pullback.
-
----
-
-### 2026-06-18 23:50:58  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Vice President Vance reiterated that the blockade has been lifted and the Strait of Hormuz is now open.
-
----
-
-### 2026-06-18 23:50:54  #市場
-
-萬斯稱，在現有油價下跌基礎上，民眾油價支出將迎來大幅回落。
-
----
-
-### 2026-06-18 23:50:53  #MKT News
-
-U.S. Vice President Vance said Iran has made concrete nuclear commitments.
-
----
-
-### 2026-06-18 23:50:47  #MKT News
-
-U.S. Republican Senator Wicker said the memorandum of understanding undermines the victories won by Operation 'Epic Fury'.
-
----
-
-### 2026-06-18 23:49:51  #MKT News #Market Regions #Europe & UK
-
-Euronext has launched new listing and issuance requirements targeted at small- and mid-cap companies.
-
----
-
-### 2026-06-18 23:49:28  #其他
-
-參議員威克爾：這份諒解備忘錄葬送了此前“史詩狂怒”取得的成果 。
-
----
-
-### 2026-06-18 23:49:24  #其他
-
-泛歐交易所推出面向中小型企業的全新上市方案。
-
----
-
-### 2026-06-18 23:48:46  #MKT News
-
-U.S. Vice President Vance said Gulf Coast partners "like the deal".
-
----
-
-### 2026-06-18 23:48:28  #其他
-
-萬斯表示，墨西哥灣沿岸合作方“十分看好這筆交易”。
-
----
-
-### 2026-06-18 23:48:21  #國際
-
-【萬斯：國際水道不應收取通行費】美國副總統萬斯表示：“我們認為國際水道不應收取通行費，諒解備忘錄中 60 天相關安排正是基於這一原則。”他表示：“這份諒解備忘錄計劃由阿曼、伊朗以及海灣國家聯盟共同制定一套適用於海峽的長效安全機制。我的意思是，我們絕不希望類似危機再度上演。此事核心不在於通行費，而是確保海峽再也不能成為牽制全球經濟的咽喉要道。”
-
----
-
-### 2026-06-18 23:47:21  #國際
-
-Spotify：面向美國符合條件的18週歲及以上Spotify Premium付費訂閱使用者的預約購票功能今日正式上線。
-
----
-
-### 2026-06-18 23:47:16  #MKT News
-
-U.S. Vice President Vance said Israelis must respect a peace process that benefits both the region and Israel.
-
----
-
-### 2026-06-18 23:47:06  #MKT News
-
-Euronext to simplify IPO listing documents.
-
----
-
-### 2026-06-18 23:46:51  #國際
-
-美國副總統萬斯表示，該程序對地區有利，也符合以色列自身利益。
-
----
-
-### 2026-06-18 23:46:44  #其他
-
-泛歐交易所：簡化首次公開募股上市申報檔案。
-
----
-
-### 2026-06-18 23:46:40  #MKT News
-
-U.S. Vice President Vance called attacks on civilians in Beirut unacceptable.
-
----
-
-### 2026-06-18 23:46:16  #國際
-
-萬斯：以色列人必須尊重這一和平程序。
-
----
-
-### 2026-06-18 23:46:12  #其他
-
-萬斯：貝魯特針對平民的襲擊不可接受。
-
----
-
-### 2026-06-18 23:45:45  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，海天網路跌12.89%，金生遊樂跌11.30%，復朗集團跌6.25%，金山雲跌5.19%，世紀互聯跌5.00%。
-
----
-
-### 2026-06-18 23:45:29  #MKT News #Important
-
-U.S. Vice President Vance said Israelis must respect the peace process.
-
----
-
-### 2026-06-18 23:45:15  #MKT News
-
-U.S. Vice President Vance says he communicates with Israel almost daily.
-
----
-
-### 2026-06-18 23:45:12  #國際
-
-萬斯：幾乎每天都和以色列通話。
-
----
-
-### 2026-06-18 23:45:09  #MKT News #DAX
-
-Ukraine's defence minister said Ukraine and Germany will jointly develop a ballistic-missile interceptor.
-
----
-
-### 2026-06-18 23:44:57  #國際
-
-烏克蘭與德國將聯合研發彈道導彈攔截武器。
-
----
-
-### 2026-06-18 23:43:50  #其他
-
-【比特幣跌至6.3萬美元下方 過去24小時內跌4%】行情顯示，比特幣跌至62945.5美元，過去24小時內跌3.87%；行情顯示，以太坊跌至1713.48美元，過去24小時內跌3.05%。
-
----
-
-### 2026-06-18 23:43:09  #其他
-
-萬斯：如果霍爾木茲海峽不開放 那就不會有最終協議。
-
----
-
-### 2026-06-18 23:43:02  #國際
-
-【萬斯：美國摧毀了伊朗規模龐大、價值數百億的核基礎設施】美國副總統萬斯：“你要知道，美國摧毀了伊朗規模龐大、價值數百億的核基礎設施。伊朗若想重啟核計劃，需要鉅額資金。而我們如今牢牢扼住其經濟命脈，只要他們不從根本上改變自身行事方式，我們就不會鬆綁…… 這意味著要建立一套真正有效的核查機制、一套切實可行的執行監督機制，還要銷燬他們現有的濃縮鈾庫存。”
-
----
-
-### 2026-06-18 23:42:27  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Vance: 12.5 mln barrels have transited Strait of Hormuz; 60-day negotiation period begins today】U.S. Vice President Vance told a White House briefing on Thursday that 12.5 mln barrels of oil have transited the Strait of Hormuz since the U.S. and Iran signed a memorandum of understanding ending nearly four months of war. He said the MoU’s 60-day negotiation period formally began on Thursday. Vance added Iran will retain the right to self-defense but the U.S. expects Tehran will not possess missiles capable of broadly threatening the world as part of the agreement.
-
----
-
-### 2026-06-18 23:42:23  #公司
-
-明晟公司MSCI北歐國家指數跌0.7%，創6月9日（跌1.4%）以來最差單日表現，報384.11點。在十個板塊中，北歐醫療保健板塊跌幅最大。Equinor ASA跌3.3%，在一眾北歐個股裡表現最差。
-
----
-
-### 2026-06-18 23:42:18  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. Vice President Vance: No final agreement will be reached if the Strait of Hormuz is not open.
-
----
-
-### 2026-06-18 23:42:07  #MKT News #WTI #Impact bearish #Brent
-
-Vance said he is confident sanctions on Iran can be temporarily lifted without going through Congress.
-
----
-
-### 2026-06-18 23:42:01  #MKT News
-
-U.S. Vice President Vance, on sanctions relief for Iran, said the U.S. will be able to track how Iran sends and receives funds.
-
----
-
-### 2026-06-18 23:41:48  #國際
-
-美國副總統萬斯就伊朗及制裁問題表態：相信我們無需經國會批准即可臨時解除制裁。
-
----
-
-### 2026-06-18 23:41:43  #MKT News
-
-U.S. Vice President Vance said the government plans to hold a formal briefing for Congress and has been informally briefing some members.
-
----
-
-### 2026-06-18 23:41:25  #國際
-
-美國副總統萬斯就伊朗及制裁解除問題表態：我們將能夠監控伊朗資金的進出流轉情況。
-
----
-
-### 2026-06-18 23:41:22  #國際
-
-OpenAI聘請前特朗普政府AI官員迪恩·鮑爾（Dean Ball）。
-
----
-
-### 2026-06-18 23:41:14  #MKT News #Important #Market Regions #Europe & UK
-
-EU foreign policy chief Kallas says the EU "cannot be" mediator between Russia and Ukraine.
-
----
-
-### 2026-06-18 23:40:59  #市場
-
-日元兌美元跌幅擴大，跌破161關口。
-
----
-
-### 2026-06-18 23:40:59  #MKT News
-
-U.S. Vice President Vance said on Iran sanctions he did not regard this as a major concession in the agreement.
-
----
-
-### 2026-06-18 23:40:52  #國際
-
-美國副總統萬斯就伊朗與制裁問題表態：我們不認為這是該協議中的重大讓步。
-
----
-
-### 2026-06-18 23:40:50  #MKT News #WTI #Impact bearish #Brent
-
-Kuwait Oil Company says it is moving to restore pre-war oil production levels.
-
----
-
-### 2026-06-18 23:40:43  #MKT News
-
-U.S. Vice President Vance said on Iran that the U.S. plans to brief Congress soon.
-
----
-
-### 2026-06-18 23:40:25  #MKT News #XAUUSD #Impact bearish #WTI #DXY
-
-U.S. Vice President Vance said Iran's nuclear weapons program has been destroyed and no longer exists; if Iran decided tomorrow to build nuclear weapons, it would have no capability to do so.
-
----
-
-### 2026-06-18 23:40:13  #公司
-
-科威特石油公司表示，其正逐步恢復戰前石油產量水平。
-
----
-
-### 2026-06-18 23:40:09  #國際
-
-美國副總統萬斯就伊朗問題表態：我們確實計劃很快向國會通報情況。
-
----
-
-### 2026-06-18 23:40:05  #國際
-
-歐盟卡拉斯：歐盟無法充當俄烏衝突調解方。
-
----
-
-### 2026-06-18 23:40:05  #MKT News
-
-U.S. Vice President Vance said Washington holds all the leverage.
-
----
-
-### 2026-06-18 23:39:53  #焦點 #國際
-
-【萬斯稱美伊60天談判期已開始】美國副總統萬斯今天（6月18日）在白宮記者會上對媒體表示，由美國總統特朗普和伊朗總統佩澤希齊揚簽署的諒解備忘錄中規定的 60天談判視窗期已正式啟動。（CCTV國際時訊）
-
----
-
-### 2026-06-18 23:39:33  #國際
-
-【萬斯回應特朗普“甩鍋”：總統只是在開玩笑】針對特朗普開玩笑稱若談判失利就將責任推給副總統一事，萬斯作出回應淡化此事：“我認為總統只是在開玩笑，他向來如此”……“如今我看到一些進步派人士對我本人提出批評，質疑美國副總統在應對敵對勢力方面有什麼經驗。”
-
----
-
-### 2026-06-18 23:38:57  #市場 #國際
-
-【歐洲主要股指收盤普漲】德國DAX30指數漲0.35%，英國富時100指數跌1.13%，法國CAC40指數漲0.44%，歐洲斯托克50指數漲0.34%，西班牙IBEX35指數跌0.17%，義大利富時MIB指數漲0.23%。
-
----
-
-### 2026-06-18 23:38:40  #國際
-
-【萬斯批評以色列對美伊協議出現“過度反應”】美國副總統萬斯批評以色列對美伊達成的協議表現出“奇怪的恐慌”和“過度反應”。相關採訪於週四公佈。以色列各政治派別的官員認為，協議未回應他們對伊朗核計劃和彈道導彈計劃的擔憂，同時還將限制以色列針對黎巴嫩真主黨的軍事行動。萬斯表示：“我在以色列體制內感受到一種近乎奇怪的恐慌，他們假定所有設想中對伊朗有利的事都會發生，而且是在伊朗完全不改變任何行為的情況下實現。但協議不是這樣寫的。”萬斯指責以色列對其最重要盟友缺乏信任。萬斯稱：“說我們達成了一項糟糕協議的觀點不符合事實，如果考慮到雙方長期關係，也根本說不通。”萬斯點名了協議的幾位具體批評者——以色列極右翼內閣部長伊塔馬爾·本-格維爾和貝扎萊爾·斯莫特里赫。萬斯表示：“我想對他們的回應是：你們的具體方案是什麼？你們是一個900萬人口的國家。你們不可能靠不斷殺戮來解決自己面臨的每一個國家安全問題。”
-
----
-
-### 2026-06-18 23:38:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. vice president Vance said final negotiations on Iran and the Strait of Hormuz will determine terms in 60 days.
-
----
-
-### 2026-06-18 23:38:35  #MKT News
-
-【Vance says Israel overreacting to US-Iran deal】US Vice President Vance on Thursday accused Israel of “near-strange panic” and overreacting to the US-Iran agreement, saying critics assume every conceivable outcome will favor Iran despite the pact’s text. Israeli politicians across the spectrum say the deal fails to address Iran’s nuclear and ballistic-missile programs and would limit Israeli operations against Hezbollah. Vance said this reflects a lack of trust in the US, singled out far-right ministers Itamar Ben-Gvir and Bezalel Smotrich, and asked what specific alternatives they propose, adding a country of about 9 million cannot resolve every security issue by “continual killing.”
-
----
-
-### 2026-06-18 23:38:30  #MKT News
-
-U.S. Vice President Vance said international waterways should be exempt from transit fees.
-
----
-
-### 2026-06-18 23:38:23  #焦點 #國際
-
-美國副總統萬斯談及伊朗與霍爾木茲海峽問題：最終談判將確定60天之後的相關條款。
-
----
-
-### 2026-06-18 23:38:16  #MKT News #Market Themes #AI Revolution
-
-Politico reports OpenAI has hired Dean Ball, a former AI official in the Trump administration.
-
----
-
-### 2026-06-18 23:38:05  #其他
-
-萬斯：國際水道應該免收通行費。
-
----
-
-### 2026-06-18 23:37:50  #市場 #焦點
-
-比特幣跌破63000美元，日內跌2.39%。
-
----
-
-### 2026-06-18 23:37:39  #MKT News
-
-U.S. Vice President Vance said he ultimately wants the Lebanese government to maintain security in southern Lebanon.
-
----
-
-### 2026-06-18 23:37:27  #MKT News
-
-U.S. Vice President Vance said the U.S. will have to address contingencies by diplomatic means.
 
 ---
