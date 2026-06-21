@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-22 06:11:36",
-  "count": 17405,
+  "updated": "2026-06-22 06:15:30",
+  "count": 17402,
   "items": [
+    {
+      "id": "mkt:019eec3e-b714-7dd8-b0a9-c6dfc2d4b597",
+      "time": "2026-06-22 06:13:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【De la Espriella wins Colombian presidential runoff】Preliminary counts show independent candidate Abelardo de la Espriella, backed by far-right group Defenders of the Homeland, won Colombia's presidential runoff held on the 21st."
+    },
+    {
+      "id": "4946718",
+      "time": "2026-06-22 06:13:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德拉埃斯普列亞贏得哥倫比亞總統選舉】初步計票結果顯示，極右翼政治團體“祖國捍衛者”的獨立候選人阿韋拉多·德拉埃斯普列亞在21日舉行的哥倫比亞總統選舉第二輪投票中獲勝。（新華社）"
+    },
+    {
+      "id": "mkt:019eec3d-be03-7dd8-b0a9-b9c7c0b3cd8a",
+      "time": "2026-06-22 06:12:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: U.S.-Iran talks remain paused】Iranian sources said on the 22nd that negotiations between Iran and the United States in Switzerland began on the 21st at about 15:00 local time and ran roughly 1.5 hours before being recessed for 30 minutes for internal consultations. Iran's delegation refused to resume after Trump made threatening remarks. Qatar and Pakistan continue mediating and intermediaries are still relaying messages; mediation is ongoing but no final agreement has been reached. Iran lodged a formal protest over U.S. breaches of commitments, citing a specific violation of Article 1 of the memorandum of understanding (MoU)."
+    },
     {
       "id": "4946717",
       "time": "2026-06-22 06:10:37",
@@ -160217,56 +160241,6 @@
         "MKT News"
       ],
       "text": "Qatari prime minister and foreign minister said Doha welcomes the memorandum of understanding between the United States and Iran."
-    },
-    {
-      "id": "4934882",
-      "time": "2026-06-15 06:15:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達首相：對美國與伊朗達成諒解備忘錄表示歡迎。感謝巴基斯坦伊斯蘭共和國各界友人，以及所有為促成此次共識創造條件的地區及國際各方。期待各方秉持積極、建設性態度參與後續談判，鞏固現有成果並推動事態進一步發展。卡達重申，本國將一如既往堅定支援相關努力，支援一切透過對話與和平方式維護地區及全球安全穩定的舉措。"
-    },
-    {
-      "id": "4934881",
-      "time": "2026-06-15 06:14:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "法國總統馬克龍：針對美伊協議，七國集團將商討霍爾木茲海峽長期恢復通航相關事宜。"
-    },
-    {
-      "id": "4934880",
-      "time": "2026-06-15 06:14:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡告知特朗普，以色列不受伊美協議中黎巴嫩相關條款的約束。他表示，以色列國防軍不會從黎巴嫩撤軍，將駐守現有陣地，並繼續針對真主黨開展軍事行動。"
-    },
-    {
-      "id": "4934879",
-      "time": "2026-06-15 06:13:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊旗下的法爾斯通訊社稱，因對方在最後關頭作出讓步（其中包括以色列從黎巴嫩撤軍），伊朗取消了針對以色列的打擊行動。"
-    },
-    {
-      "id": "4934878",
-      "time": "2026-06-15 06:13:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：將尋求解除所有一級和二級制裁。"
-    },
-    {
-      "id": "4934877",
-      "time": "2026-06-15 06:12:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：如有必要，相關談判也可延期舉行。"
     }
   ]
 }
