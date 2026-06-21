@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-22 02:45:19_
-_本檔包含 3439 則快訊，約 650092 字_
+_更新時間：2026-06-22 03:19:24_
+_本檔包含 3441 則快訊，約 650377 字_
+
+---
+
+### 2026-06-18 23:58:30  #國際
+
+萬斯：如果伊朗試圖資助恐怖組織，我們走著瞧。
+
+---
+
+### 2026-06-18 23:57:53  #MKT News #Important #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Politico reports the White House has submitted to Congress a "memorandum of understanding" aimed at pausing Iranian hostile actions.
+
+---
+
+### 2026-06-18 23:56:41  #焦點 #國際
+
+白宮已向國會遞交伊朗相關協議檔案。
+
+---
+
+### 2026-06-18 23:56:38  #國際
+
+萬斯：伊朗方面表示要等到週五才會對外公佈協議文字。
+
+---
+
+### 2026-06-18 23:56:25  #MKT News
+
+U.S. Vice President Vance said he does not believe the administration's public messaging has been confused.
+
+---
+
+### 2026-06-18 23:55:53  #其他
+
+萬斯：我們於週日簽署了這份諒解備忘錄。
+
+---
+
+### 2026-06-18 23:55:27  #國際
+
+【萬斯：計劃“很快”向國會正式通報美伊備忘錄】美國副總統萬斯表示，針對這份與伊朗簽署的諒解備忘錄，特朗普政府計劃 “很快” 向國會議員開展正式通報，目前兩黨議員都在紛紛批評該協議。萬斯在白宮新聞釋出廳對記者稱：“我們確實打算很快向國會進行通報。” 他補充道，議員今日有望收到 “這份已簽署檔案的正式文字”。他還表示：“我們會安排相關團隊向國會作通報，當然也會答覆議員們提出的各類疑問。”萬斯稱，過去一週政府已與部分國會議員進行非正式溝通，後續也會持續開展相關交流；而正式通報的具體時間，將根據國會的議事日程儘快敲定。
+
+---
+
+### 2026-06-18 23:55:23  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+U.S. Vice President Vance said Iran has pledged to destroy its stockpile of highly enriched uranium.
+
+---
+
+### 2026-06-18 23:54:37  #Trading Economics #Markets #Canada #currency #Importance 1
+
+Canadian Dollar Hits 14-month Low — The Canadian Dollar touched 1.41 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Canadian Dollar gained 2.88%, and in the last 12 months, it increased 3.22%.
+
+---
+
+### 2026-06-18 23:54:25  #國際
+
+萬斯：倘若兩年後伊朗試圖重啟核計劃，我們可以立刻重新加碼實施經濟制裁。
+
+---
+
+### 2026-06-18 23:54:22  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Rebounds on US-Iran Peace Deal — The CAC 40 rose 0.4% to close at 8,468 on Thursday, rebounding from the previous session after the US and Iran signed an interim peace agreement. The deal aims to end the conflict and reopen the Strait of Hormuz, while negotiations over Tehran’s nuclear program are set to begin later this week. Oil prices fell after the agreement, easing concerns over a new wave of global inflation and prolonged high interest rates. Most luxury stocks moved higher as risk aversion eased, with Hermès up 2% and Kering gaining 4.4%. Industrial stocks also advanced, with Airbus rising 2.6% and Safran adding 2.9%. STMicroelectronics climbed 4.2%, tracking gains in US semiconductor stocks and following its $1.5 billion convertible bond sale announced on Wednesday. In contrast, TotalEnergies fell 2.6% as oil prices declined. Investors also continued to assess the Federal Reserve’s hawkish outlook after it kept rates unchanged while signaling that further tightening may still be needed to contain inflation.
 
 ---
 
@@ -20753,59 +20819,5 @@ The US 2-year/10-year Treasury yield spread is expected to narrow to its tightes
 ### 2026-06-18 02:51:43  #Trading Economics #Markets #Commodity #Importance 1
 
 Gold Pulls Back After Fed — Gold prices pared gains to trade flat at $4,315 per ounce on Wednesday, halting a four session rally after the Federal Reserve held rates unchanged, as expected, and signaled the possibility of a rate hike this year. Half of the FOMC projected that it may be necessary to raise interest rates this year, consistent with the expectations that core inflation will be higher than expected due to impacts of the war in the Middle East. The Fed previously signaled it has leeway to prioritized price stability as the latest labor market data. Precious metal prices fell as shorter term Treasury yields surged, raising the opportunity cost to allocate in bullion instead of interest-bearing securities. Meanwhile, safe-haven demand was lower as both the US and Iran maintained their intention to sign an agreement to suspend hostilities and restore energy trade on Friday. Meanwhile, major central banks in Europe maintained their rates unchanged, although BoJ raised rates as expected.
-
----
-
-### 2026-06-18 02:51:30  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said he is open to new data sources.
-
----
-
-### 2026-06-18 02:51:28  #央行 #國際
-
-美聯儲主席沃什： 對於新型分析技術、私營部門新增資料以及官方統計資料改革，我均持開放態度。
-
----
-
-### 2026-06-18 02:51:20  #MKT News
-
-Federal Reserve chair Kevin Warsh said some incoming economic data may only be echoes of the past.
-
----
-
-### 2026-06-18 02:50:53  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said private firms rely on real-time information.
-
----
-
-### 2026-06-18 02:50:48  #央行 #國際
-
-美聯儲主席沃什：私營企業高度依賴實時資料。
-
----
-
-### 2026-06-18 02:50:46  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Strategist: Fed clearly turned hawkish, signals officials don't expect U.S.-Iran deal to ease price pressures】Corpay chief market strategist Karl Schamotta said the Fed decision was “short but not sweet,” noting a rapid revamp of central-bank communication that removed almost all forward guidance and much background commentary. The committee has clearly shifted hawkish; the median inflation forecast was raised sharply — signaling officials do not expect the U.S.-Iran deal this weekend to materially ease price pressures — and the median path implies at least one rate hike this year, versus prior market expectations for cuts.
-
----
-
-### 2026-06-18 02:50:23  #宏觀 #央行 #國際
-
-美聯儲主席沃什：我們使用的大多數資料都採用過時的調查方法。若美聯儲資料專項工作組出臺完善官方統計資料的相關建議，我會持開放接納態度。
-
----
-
-### 2026-06-18 02:49:50  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said most of the data the Fed uses rely on outdated survey methods.
-
----
-
-### 2026-06-18 02:49:37  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
-
-【Wash's first FOMC statement sharply trimmed; forward guidance tightened】The FOMC released its first policy statement under new chair Wash. The June statement was just 132 words versus 345 in April, a marked reduction. The format changed: the policy decision is presented first, followed only by a brief economic summary. The statement also dropped any disclosure of which officials voted for or against the decision and the reasons for dissent. Overall the wording tightens forward guidance and the shorter text reduces observers' ability to parse subtle phrasing for policy signals.
 
 ---

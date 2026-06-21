@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-22 02:45:19_
-_本檔包含 3529 則快訊，約 650034 字_
+_更新時間：2026-06-22 03:19:24_
+_本檔包含 3520 則快訊，約 650303 字_
+
+---
+
+### 2026-06-16 06:00:42  #市場 #焦點
+
+現貨白銀突破70美元/盎司，日內漲0.07%。
+
+---
+
+### 2026-06-16 06:00:09  #國際
+
+康菲石油料將與敘利亞簽署協議，從而恢復天然氣生產。
+
+---
+
+### 2026-06-16 05:58:21  #其他
+
+中央氣象臺6月16日06時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-06-16 05:58:08  #其他
+
+中央氣象臺6月16日06時繼續釋出強對流天氣黃色預警。
+
+---
+
+### 2026-06-16 05:57:00  #其他
+
+玻利維亞向投資者表示，該國即將與國際貨幣基金組織敲定一項融資計劃，且大機率會先推行浮動匯率制度，以此廢除已實施超過15年的美元釘住匯率機制。
+
+---
+
+### 2026-06-16 05:56:38  #其他
+
+玻利維亞告知投資者：外匯統一政策、國際貨幣基金組織協議即將落地。
+
+---
+
+### 2026-06-16 05:55:04  #國際
+
+伊朗軍方宣告：任何違反諒解備忘錄的行為都將遭到迅速反擊。
+
+---
+
+### 2026-06-16 05:54:48  #Trading Economics #Economy #South Korea #Export Prices YoY #Importance 1
+
+South Korea Export Inflation at 28-Year High — South Korea’s export prices surged 46.9% year-on-year in May of 2026, the largest rise since March 1998 . he increase was mainly driven by manufactured goods, which rose 46.9%, with computers, electronic and optical equipment surging 104%. Prices also rose for coal products and petroleum products (88.6%), basic metal products (31.6%), and chemical products (28.3%). Meanwhile, prices of aagricultural, forestry and marine products increased 32.4%.
+
+---
+
+### 2026-06-16 05:49:19  #MKT News #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish
+
+【Economists: If Iran deal holds, worst of US inflation may be over】Economists say even if an Iran agreement is implemented, normalising shipping through the Strait of Hormuz and gas prices returning to pre‑conflict levels could take time. US inflation accelerated in May to the fastest pace in more than three years, but the rise likely has peaked. Andrew Hollenhorst, Citigroup’s chief US economist, cautioned that short‑term energy and oil market forecasts are difficult but that the broader trajectory appears downward. News of a provisional Iran‑US agreement pushed oil prices lower and lifted equities; Stephen Stanley, chief US economist at Santander US Capital Markets, said markets are treating the deal as done and largely reverting toward pre‑conflict conditions.
+
+---
+
+### 2026-06-16 05:42:06  #國際
+
+【霍爾木茲海峽地區傳出爆炸聲】據伊朗邁赫爾通訊社報道，霍爾木茲海峽地區以及位於該海峽的伊朗最大島嶼格什姆島南部傳出三次爆炸聲：前兩次爆炸聲發生在當地時間6月15日深夜，第三次爆炸聲發生在今天（6月16日）凌晨。據初步報告，爆炸很可能與該海峽的航運交通管理有關。截至目前，伊朗伊斯蘭革命衛隊和當地官方機構，尚未就此次事件的具體細節作出回應。
+
+---
+
+### 2026-06-16 05:40:57  #市場 #國際
+
+【新興市場股票逼近紀錄高點，美伊協議帶動油價下跌】新興市場貨幣、股票和債券週一加入全球風險資產漲勢，此前美國和伊朗達成一項臨時協議，旨在恢復霍爾木茲海峽通行。MSCI新興市場股票指數上漲2.8%，逼近本月早些時候觸及的紀錄高位。隨著布倫特原油跌至3月份以來最低水平，依賴石油進口的國家資產受到的提振最大。菲律賓和印尼貨幣在同類貨幣中領漲；固定收益市場方面，埃及和斯里蘭卡美元債漲幅居前。印度盧比、印尼盾和菲律賓比索反彈；這些貨幣均來自石油進口國，在衝突期間兌美元曾跌至紀錄低點。
+
+---
+
+### 2026-06-16 05:37:04  #Trading Economics #Economy #Uruguay #GDP Annual Growth Rate #Importance 1
+
+Uruguay GDP Growth Accelerates in Q1 — Uruguay’s GDP grew 0.9% year-on-year in the first quarter of 2026, accelerating from a 0.1% increase in the previous quarter. Nine of the twelve major sectors recorded growth. Financial services posted the strongest expansion, rising 3.1%, followed by transport and warehousing and information and communications (2.2%), commerce, restaurants and food services (1.4%), and manufacturing (1.3%). In contrast, agriculture, fishing and mining contracted 3.7%, while construction fell 3.4% and public administration activities declined 0.8%.
 
 ---
 
@@ -21192,131 +21264,5 @@ Israeli news site YNet reported President Trump warned Iran he would hold Tehran
 ### 2026-06-15 03:21:39  #國際
 
 伊朗塔斯尼姆通訊社稱，該國航班執行正常，按計劃進行，未釋出新的航班取消航行通告。
-
----
-
-### 2026-06-15 03:18:06  #國際
-
-美國聯邦航空管理局就密蘇里州墜機事件表示，事發時，該局未提供空中交通管制服務。
-
----
-
-### 2026-06-15 03:16:38  #國際
-
-美國聯邦航空管理局：初步資訊顯示，一架太平洋航空航天P750飛機於當地時間上午11:35從密蘇里州巴特勒紀念機場起飛時墜毀，機上有12人。
-
----
-
-### 2026-06-15 03:15:36  #國際
-
-美國聯邦航空管理局：美國國家運輸安全委員會將主導密蘇里州跳傘飛機墜毀事故的調查工作。
-
----
-
-### 2026-06-15 03:13:55  #MKT News #WTI #Impact mixed #XAUUSD #DXY
-
-【Putin, Trump hold 55-minute call on Iran and Ukraine】Russia presidential aide USHAKOV said Putin and US President Trump held a 55-minute phone call covering bilateral ties and international issues including Iran and the Ukraine crisis. Trump told Putin a US-Iran agreement is near completion after complex talks mediated by Pakistan and Qatar and could be announced the same day. USHAKOV said a US special envoy and Trump’s son‑in‑law Jared Kushner will visit Moscow soon.
-
----
-
-### 2026-06-15 03:12:52  #MKT News #WTI #Impact bearish #Brent
-
-【Iran's PEZESHKIAN says Supreme National Security Council has decided to advance negotiations】Islamic Republic of Iran Broadcasting (IRIB) reported on the evening of the 14th that President PEZESHKIAN said the Supreme National Security Council has clearly decided to advance negotiations.
-
----
-
-### 2026-06-15 03:12:07  #焦點 #國際
-
-【伊朗總統：伊朗最高國家安全委員會已決定推進談判】據伊朗伊斯蘭共和國廣播電視臺14日晚報道，伊朗總統佩澤希齊揚表示，伊朗最高國家安全委員會已明確決定推進談判程序。 (新華社)
-
----
-
-### 2026-06-15 03:11:33  #國際
-
-特朗普出席了白宮舉辦的首場大型體育賽事。
-
----
-
-### 2026-06-15 03:10:21  #其他
-
-厄瓜多總檢察院：一名女檢察官在該國西部遭遇襲擊身亡。
-
----
-
-### 2026-06-15 03:08:25  #MKT News
-
-Iran's parliament speaker said Lebanese fighters' sacrifices and Iran's assertive diplomacy have ensured Lebanon's sovereignty and territorial integrity.
-
----
-
-### 2026-06-15 03:08:17  #MKT News
-
-Iran's parliament speaker says the enemy will never be able to take on any resistance front alone.
-
----
-
-### 2026-06-15 03:02:12  #MKT News
-
-DR Congo reports confirmed Ebola cases have risen to 782.
-
----
-
-### 2026-06-15 03:01:52  #其他
-
-剛果表示，埃博拉確診病例數已升至782例。
-
----
-
-### 2026-06-15 03:00:31  #MKT News
-
-Mehr news agency reports the Iran Civil Aviation Organization said it has not issued any new NOTAMs restricting domestic flights.
-
----
-
-### 2026-06-15 02:59:46  #國際
-
-伊朗議會議長卡利巴夫：敵人休想孤立地撼動抵抗陣線的根基分毫。黎巴嫩英勇鬥士的奮勇抗爭，加之伊朗強有力的外交舉措，必將捍衛黎巴嫩的主權與領土完整，粉碎以色列政權的瘋狂行徑與戰爭圖謀，無論對方如何巧言詭辯都無濟於事。
-
----
-
-### 2026-06-15 02:52:27  #國際
-
-【伊朗西部地區機場航班暫停】據伊朗方面當地時間14日訊息，伊朗西部地區的機場航班已暫停，直至另行通知。據稱，此決定是基於當前情況作出的。伊朗尚未釋出官方航行通告。（央視新聞）
-
----
-
-### 2026-06-15 02:52:12  #國際
-
-伊朗方面傳出未經證實的訊息：賽義德・賈利利已被解除最高領袖駐最高國家安全委員會代表一職，該職位由阿里・巴蓋裡・卡尼接任。若訊息屬實，此次人事變動大機率與賈利利反對伊朗與美國擬簽署的諒解備忘錄有關。
-
----
-
-### 2026-06-15 02:50:05  #國際
-
-據救援人員訊息，以色列發動空襲，加沙地帶已有六人遇難。
-
----
-
-### 2026-06-15 02:47:49  #國際
-
-【聯合國秘書長強烈譴責以色列襲擊黎巴嫩貝魯特】當地時間6月14日，聯合國秘書長古特雷斯就中東局勢發表宣告，強烈譴責以色列當日對黎巴嫩首都貝魯特發動襲擊。宣告中說，此次襲擊發生在停火協議仍然有效的情況下，而且正值美國與伊朗預計將達成協議、為透過和平方式解決這場衝突鋪平道路之際。古特雷斯表示，這場衝突正在對世界經濟造成嚴重破壞性影響。古特雷斯敦促各方在這一關鍵時刻保持最大限度的剋制。（央視新聞）
-
----
-
-### 2026-06-15 02:47:03  #MKT News
-
-TASNIM NEWS reported flights have been canceled until further notice; no official NOTAM has yet been issued.
-
----
-
-### 2026-06-15 02:46:46  #國際
-
-以色列國防軍表示，今日早些時候，真主黨在黎巴嫩南部向以軍部隊發射火箭彈，造成一名士兵中度受傷、另一名士兵受輕傷。
-
----
-
-### 2026-06-15 02:45:56  #國際
-
-俄羅斯總統普京向特朗普致以生日祝福，稱他“才華橫溢，令人矚目”。
 
 ---

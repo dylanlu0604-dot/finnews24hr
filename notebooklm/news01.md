@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-22 02:45:19_
-_本檔包含 3792 則快訊，約 650772 字_
+_更新時間：2026-06-22 03:19:24_
+_本檔包含 3789 則快訊，約 650565 字_
+
+---
+
+### 2026-06-22 03:17:32  #其他
+
+知情人士透露，KNDS計劃於下週週一至週三啟動上市流程。
+
+---
+
+### 2026-06-22 03:15:29  #國際
+
+【伊朗議長稱不會把美國的威脅當回事】伊朗伊斯蘭議會議長卡利巴夫21日在社交媒體上發文稱，伊方根本不會把美國人的威脅當回事。他們最好謹慎發言。21日，美國總統特朗普在社交平臺“真實社交”上發文稱，伊朗必須立即停止其在黎巴嫩的“代理人”行動，否則美國將對伊朗再次進行猛烈打擊。（央視新聞）
+
+---
+
+### 2026-06-22 03:14:49  #國際
+
+以色列國防部長卡茨：以色列無意從貝卡夫要塞撤退，該要塞是黎巴嫩安全區不可分割的一部分，對保護加利利定居點和以色列國防軍部隊至關重要。正如總理內塔尼亞胡和我所澄清的，以色列不會從黎巴嫩的安全區撤退。
+
+---
+
+### 2026-06-22 03:02:04  #其他
+
+英國統計機構承認關鍵就業資料存在新錯誤。
+
+---
+
+### 2026-06-22 02:58:16  #MKT News #Important
+
+【Israel to end nationwide public restrictions, including Lebanon border area】CNN reports Israel will end nationwide public restrictions, including those along the Lebanon border, a move cited as a sign of recent ceasefire progress. Israel’s Home Front Command said the current measures will expire at 0600 local on Monday. The restrictions had limited gatherings and school activities in northern communities since the conflict with Iran began three months ago. By Monday morning there will be no nationwide measures affecting schools, work or public gatherings.
+
+---
+
+### 2026-06-22 02:55:54  #MKT News
+
+【CSIS: Iran war has cost US about $40 billion】CSIS senior fellow Mark Cancian said a preliminary CSIS analysis estimates the Iran war has cost the US Department of Defense about $40 billion, covering munitions use, equipment losses and base damage; the figure excludes routine combat spending already budgeted in the DoD's FY26 budget of more than $1 trillion. The analysis says other agencies, chiefly the Department of Homeland Security and Veterans Affairs, incurred roughly $1 billion in costs. US pump prices rose from a national average below $3/gal to above $4/gal for much of the conflict; Brown University energy-cost tracking estimates the average household would have spent at least $253 less without the war. Inflation outpaced average wage growth in April and May, effectively eroding pay for the first time since 2023.
+
+---
+
+### 2026-06-22 02:53:44  #國際
+
+烏克蘭總統澤連斯基：波蘭總統納夫羅茨基正走著和歐爾班一樣的路，最終只會釀成糟糕的後果；納夫羅茨基企圖透過煽動反烏情緒攫取政治利益。
+
+---
+
+### 2026-06-22 02:45:56  #國際
+
+以色列解除該國北部所有與戰事相關的集會限制。
 
 ---
 
@@ -22799,71 +22847,5 @@ The US and Iran announced an immediate, permanent cessation of military operatio
 ### 2026-06-18 23:58:31  #MKT News
 
 【Zhang Zhu meets Germany's federal agriculture minister Alois Reiner】June 18, Beijing — China's Minister of Agriculture and Rural Affairs Zhang Zhu met Germany's Federal Minister of Agriculture and Food Alois Reiner. Zhang said China is willing to strengthen institutional exchanges and deepen cooperation with Germany on agricultural policy, agri‑technology and farm‑product trade to advance practical cooperation; Reiner said Germany attaches high priority to agricultural ties with China and is willing to deepen dialogue and cooperation on agri‑technology, farm trade and animal‑disease prevention.
-
----
-
-### 2026-06-18 23:58:30  #國際
-
-萬斯：如果伊朗試圖資助恐怖組織，我們走著瞧。
-
----
-
-### 2026-06-18 23:57:53  #MKT News #Important #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-Politico reports the White House has submitted to Congress a "memorandum of understanding" aimed at pausing Iranian hostile actions.
-
----
-
-### 2026-06-18 23:56:41  #焦點 #國際
-
-白宮已向國會遞交伊朗相關協議檔案。
-
----
-
-### 2026-06-18 23:56:38  #國際
-
-萬斯：伊朗方面表示要等到週五才會對外公佈協議文字。
-
----
-
-### 2026-06-18 23:56:25  #MKT News
-
-U.S. Vice President Vance said he does not believe the administration's public messaging has been confused.
-
----
-
-### 2026-06-18 23:55:53  #其他
-
-萬斯：我們於週日簽署了這份諒解備忘錄。
-
----
-
-### 2026-06-18 23:55:27  #國際
-
-【萬斯：計劃“很快”向國會正式通報美伊備忘錄】美國副總統萬斯表示，針對這份與伊朗簽署的諒解備忘錄，特朗普政府計劃 “很快” 向國會議員開展正式通報，目前兩黨議員都在紛紛批評該協議。萬斯在白宮新聞釋出廳對記者稱：“我們確實打算很快向國會進行通報。” 他補充道，議員今日有望收到 “這份已簽署檔案的正式文字”。他還表示：“我們會安排相關團隊向國會作通報，當然也會答覆議員們提出的各類疑問。”萬斯稱，過去一週政府已與部分國會議員進行非正式溝通，後續也會持續開展相關交流；而正式通報的具體時間，將根據國會的議事日程儘快敲定。
-
----
-
-### 2026-06-18 23:55:23  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-U.S. Vice President Vance said Iran has pledged to destroy its stockpile of highly enriched uranium.
-
----
-
-### 2026-06-18 23:54:37  #Trading Economics #Markets #Canada #currency #Importance 1
-
-Canadian Dollar Hits 14-month Low — The Canadian Dollar touched 1.41 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Canadian Dollar gained 2.88%, and in the last 12 months, it increased 3.22%.
-
----
-
-### 2026-06-18 23:54:25  #國際
-
-萬斯：倘若兩年後伊朗試圖重啟核計劃，我們可以立刻重新加碼實施經濟制裁。
-
----
-
-### 2026-06-18 23:54:22  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Rebounds on US-Iran Peace Deal — The CAC 40 rose 0.4% to close at 8,468 on Thursday, rebounding from the previous session after the US and Iran signed an interim peace agreement. The deal aims to end the conflict and reopen the Strait of Hormuz, while negotiations over Tehran’s nuclear program are set to begin later this week. Oil prices fell after the agreement, easing concerns over a new wave of global inflation and prolonged high interest rates. Most luxury stocks moved higher as risk aversion eased, with Hermès up 2% and Kering gaining 4.4%. Industrial stocks also advanced, with Airbus rising 2.6% and Safran adding 2.9%. STMicroelectronics climbed 4.2%, tracking gains in US semiconductor stocks and following its $1.5 billion convertible bond sale announced on Wednesday. In contrast, TotalEnergies fell 2.6% as oil prices declined. Investors also continued to assess the Federal Reserve’s hawkish outlook after it kept rates unchanged while signaling that further tightening may still be needed to contain inflation.
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-22 02:45:19_
-_本檔包含 3415 則快訊，約 650344 字_
+_更新時間：2026-06-22 03:19:24_
+_本檔包含 3412 則快訊，約 650063 字_
+
+---
+
+### 2026-06-17 08:18:11  #經濟數據 #中國
+
+【社論丨加力擴內需是當前穩信心的關鍵】5月份，社會消費品零售總額同比下降0.6%，環比下降0.38%；扣除汽車後，則同比增長1.1%。按經營單位所在地分，城鎮消費品零售額同比下降0.9%，鄉村消費品零售額增長1.5%。商品零售額略有下降，主因是去年同期基數較高，加之去年以舊換新政策疊加企業促銷，部分預支了今年銷量。
+
+---
+
+### 2026-06-17 08:18:07  #宏觀 #央行 #國際
+
+【日本5月出口在中東不利因素影響下仍實現增長】週三公佈的政府資料顯示，受電子零部件、汽車和有色金屬強勁需求的提振，日本5月出口連續第九個月實現增長。出口同比增長17.0%，高於4月份14.8%的增幅，但低於資料提供商FactSet調查的經濟學家預測的17.7%增幅。5月份進口增長12.5%，增速快於4月份的9.8%。儘管霍爾木茲海峽的關閉減少了該地區的石油進口量，但能源成本飆升以及轉向替代採購渠道，可能推高了日本的進口額。週二，日本央行將政策利率上調至1%，為31年來的最高水平。此舉出臺的背景是，決策者日益擔憂石油衝擊和日元疲軟帶來的通脹壓力，而日元疲軟有可能進一步推高進口價格。日本央行副行長內田真一在加息宣告發布後表示，美國和伊朗之間的和平協議是可喜的進展，經濟大幅下滑的風險已經消退。不過，他告誡稱，圍繞供應鏈復甦步伐的不確定性依然存在。
+
+---
+
+### 2026-06-17 08:16:58  #市場 #國際
+
+日本10年期國債收益率下跌1.5個基點至2.630%。
+
+---
+
+### 2026-06-17 08:16:51  #其他
+
+【今年前5個月東北地區外貿進出口超5390億元】據瀋陽海關統計，今年前5個月，東北地區外貿進出口總值達5390.4億元，同比增長8.3%，規模創歷史同期新高。其中，出口規模首次突破2600億元，達到2601.9億元，增長16.6%，快於全國出口4.8個百分點。
+
+---
+
+### 2026-06-17 08:16:16  #觀點 #國際
+
+【中信證券：日銀無加息緊迫感，仍預計其在本次加息後將在年內按兵不動】中信證券研報指出，日銀6月如期加息25bps，宣佈計劃暫停縮減購債規模，決議的措辭立場中性略鷹，延續了可能繼續加息的前瞻指引，植田因病缺席本次會議。我們預計日本表觀通脹率將在年內延續溫和表現，日銀沒有繼續加息的緊迫感、可能在本次加息後將維持政策利率不變於1%。
+
+---
+
+### 2026-06-17 08:15:21  #公司
+
+【聖邦股份：H股香港公開發售今日開始 預計6月26日掛牌交易】聖邦股份(300661)6月17日早間公告，公司全球發售H股基礎發行股數為5400.12萬股。其中，初步安排香港公開發售540.02萬股（可予重新分配），約佔全球發售總數的10.00%。發行價格最高不超過每股85.20港元。公司本次H股香港公開發售於2026年6月17日開始，預計於6月23日結束，6月24日前（含當日）公佈發行價格，6月26日在香港聯交所掛牌並開始上市交易。
+
+---
+
+### 2026-06-17 08:15:11  #Trading Economics #Markets #Japan #stocks #Importance 1
+
+Mizuho Financial Stock Price Hits All-time High — Mizuho Financial shares increased to an all-time high of 7995.00 JPY. Over the past 4 weeks, Mizuho Financial gained 18.88%, and in the last 12 months, it increased 95.44%.
+
+---
+
+### 2026-06-17 08:15:00  #資料 #觀點 #國際
+
+【中信證券：經濟K型分化在加速】中信證券研報指出，5月經濟資料有所分化，呈現“生產強於需求”、“外需強於內需”的格局。從生產側來看，5月工業增加值增速有所回升，主要是出口增速強勁、油價見頂回落帶動工業生產強度改善，內需疲軟使服務業生產指數低位執行。從需求側來看，受補貼資金同比錯位和端午節備貨時間差異影響，5月社零表現欠佳，增速低於預期和前值；5月固投增速整體延續回落，但製造業投資單月增速邊際有所回升。展望未來，隨著美國宣佈解除對霍爾木茲海峽的封鎖，我們提示持續關注海峽恢復通航後油價的走勢以及對國內PPI-CPI剪刀差、工業企業利潤的影響。需求端，我們認為外貿出口仍是今年經濟增長的主要抓手，外需強於內需的格局在年內或將維持。生產端，我們判斷海峽恢復通航有利於緩解高油價對國內工業生產造成的潛在壓力。
+
+---
+
+### 2026-06-17 08:14:40  #MKT News #Star Stocks #Xiaomi #1810.HK #Impact bullish
+
+【Hubei party secretary Guan Zhiou meets Xiaomi chairman Lei Jun】June 15, Wuhan — Hubei party secretary Guan Zhiou met Xiaomi founder-chairman and CEO Lei Jun. Guan urged Xiaomi to expand and deepen its Hubei footprint, contribute to building Wuhan as a regional tech innovation center, and said the province will optimize the business environment and provide full-service support. Lei said Xiaomi is bullish on prospects in Hubei, will increase local business deployment, and seek to attract more talent and upstream and downstream firms to the province.
 
 ---
 
@@ -20557,77 +20611,5 @@ South Korea Import Prices Rise in May — South Korea’s import prices rose 24.
 ### 2026-06-16 06:02:16  #MKT News #SPCX.O
 
 【Musk's net worth jumps about $139bn in one day】Bloomberg data showed Musk's net worth rose $139bn in one day to above $1.11tn after SpaceX (SPCX.O) closed up nearly 20%.
-
----
-
-### 2026-06-16 06:00:42  #市場 #焦點
-
-現貨白銀突破70美元/盎司，日內漲0.07%。
-
----
-
-### 2026-06-16 06:00:09  #國際
-
-康菲石油料將與敘利亞簽署協議，從而恢復天然氣生產。
-
----
-
-### 2026-06-16 05:58:21  #其他
-
-中央氣象臺6月16日06時繼續釋出暴雨橙色預警。
-
----
-
-### 2026-06-16 05:58:08  #其他
-
-中央氣象臺6月16日06時繼續釋出強對流天氣黃色預警。
-
----
-
-### 2026-06-16 05:57:00  #其他
-
-玻利維亞向投資者表示，該國即將與國際貨幣基金組織敲定一項融資計劃，且大機率會先推行浮動匯率制度，以此廢除已實施超過15年的美元釘住匯率機制。
-
----
-
-### 2026-06-16 05:56:38  #其他
-
-玻利維亞告知投資者：外匯統一政策、國際貨幣基金組織協議即將落地。
-
----
-
-### 2026-06-16 05:55:04  #國際
-
-伊朗軍方宣告：任何違反諒解備忘錄的行為都將遭到迅速反擊。
-
----
-
-### 2026-06-16 05:54:48  #Trading Economics #Economy #South Korea #Export Prices YoY #Importance 1
-
-South Korea Export Inflation at 28-Year High — South Korea’s export prices surged 46.9% year-on-year in May of 2026, the largest rise since March 1998 . he increase was mainly driven by manufactured goods, which rose 46.9%, with computers, electronic and optical equipment surging 104%. Prices also rose for coal products and petroleum products (88.6%), basic metal products (31.6%), and chemical products (28.3%). Meanwhile, prices of aagricultural, forestry and marine products increased 32.4%.
-
----
-
-### 2026-06-16 05:49:19  #MKT News #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish
-
-【Economists: If Iran deal holds, worst of US inflation may be over】Economists say even if an Iran agreement is implemented, normalising shipping through the Strait of Hormuz and gas prices returning to pre‑conflict levels could take time. US inflation accelerated in May to the fastest pace in more than three years, but the rise likely has peaked. Andrew Hollenhorst, Citigroup’s chief US economist, cautioned that short‑term energy and oil market forecasts are difficult but that the broader trajectory appears downward. News of a provisional Iran‑US agreement pushed oil prices lower and lifted equities; Stephen Stanley, chief US economist at Santander US Capital Markets, said markets are treating the deal as done and largely reverting toward pre‑conflict conditions.
-
----
-
-### 2026-06-16 05:42:06  #國際
-
-【霍爾木茲海峽地區傳出爆炸聲】據伊朗邁赫爾通訊社報道，霍爾木茲海峽地區以及位於該海峽的伊朗最大島嶼格什姆島南部傳出三次爆炸聲：前兩次爆炸聲發生在當地時間6月15日深夜，第三次爆炸聲發生在今天（6月16日）凌晨。據初步報告，爆炸很可能與該海峽的航運交通管理有關。截至目前，伊朗伊斯蘭革命衛隊和當地官方機構，尚未就此次事件的具體細節作出回應。
-
----
-
-### 2026-06-16 05:40:57  #市場 #國際
-
-【新興市場股票逼近紀錄高點，美伊協議帶動油價下跌】新興市場貨幣、股票和債券週一加入全球風險資產漲勢，此前美國和伊朗達成一項臨時協議，旨在恢復霍爾木茲海峽通行。MSCI新興市場股票指數上漲2.8%，逼近本月早些時候觸及的紀錄高位。隨著布倫特原油跌至3月份以來最低水平，依賴石油進口的國家資產受到的提振最大。菲律賓和印尼貨幣在同類貨幣中領漲；固定收益市場方面，埃及和斯里蘭卡美元債漲幅居前。印度盧比、印尼盾和菲律賓比索反彈；這些貨幣均來自石油進口國，在衝突期間兌美元曾跌至紀錄低點。
-
----
-
-### 2026-06-16 05:37:04  #Trading Economics #Economy #Uruguay #GDP Annual Growth Rate #Importance 1
-
-Uruguay GDP Growth Accelerates in Q1 — Uruguay’s GDP grew 0.9% year-on-year in the first quarter of 2026, accelerating from a 0.1% increase in the previous quarter. Nine of the twelve major sectors recorded growth. Financial services posted the strongest expansion, rising 3.1%, followed by transport and warehousing and information and communications (2.2%), commerce, restaurants and food services (1.4%), and manufacturing (1.3%). In contrast, agriculture, fishing and mining contracted 3.7%, while construction fell 3.4% and public administration activities declined 0.8%.
 
 ---
