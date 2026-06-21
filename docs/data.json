@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-21 22:38:31",
-  "count": 17634,
+  "updated": "2026-06-21 22:42:45",
+  "count": 17629,
   "items": [
+    {
+      "id": "4946530",
+      "time": "2026-06-21 22:39:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：昨日共有 67 艘船舶經由霍爾木茲海峽通行，前一日通行船舶為 55 艘。原油及成品油運輸量基本恢復至衝突爆發前的水平。"
+    },
     {
       "id": "4946529",
       "time": "2026-06-21 22:37:01",
@@ -162249,63 +162257,6 @@
         "國際"
       ],
       "text": "我美國防長赫格塞思：我們將敲定這份初步諒解備忘錄，以此設定最後期限。"
-    },
-    {
-      "id": "mkt:019ec695-256d-7dd8-aff2-e2760480630d",
-      "time": "2026-06-14 22:42:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. Secretary of Defense Hegseth said Iranian nuclear material will be destroyed."
-    },
-    {
-      "id": "mkt:019ec694-be04-7dd8-aff2-dca847d6658b",
-      "time": "2026-06-14 22:41:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of Defense Hegseth: \"Freedom Plan\" has never been suspended."
-    },
-    {
-      "id": "mkt:019ec694-89cc-7dd8-aff2-d2924417a90d",
-      "time": "2026-06-14 22:41:23",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "US defense secretary Hegseth said documents show Iran will never possess, seek, or purchase nuclear weapons."
-    },
-    {
-      "id": "4934550",
-      "time": "2026-06-14 22:40:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首批公募REITs迎來限售份額解禁】6月14日晚間，平安廣州廣河REIT釋出的公告顯示，將於6月22日解除限售份額1.4億份，佔基金總份額20%。這批份額為原始權益人及其同一控制下關聯方戰略配售限售份額，已滿60個月限售期。解禁後，全部基金份額可在二級市場直接流通。此次解除限售份額的持有人為廣州市高速公路有限公司（簡稱“市高公司”）。基於對基金及不動產專案未來發展前景的信心和長期投資價值的認可，支援基金持續、穩定、健康發展，市高公司將繼續持有解除限售的基金份額，暫無賣出計劃。"
-    },
-    {
-      "id": "4934549",
-      "time": "2026-06-14 22:40:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：霍爾木茲海峽的水雷可在 30 天內清除完畢。"
-    },
-    {
-      "id": "4934548",
-      "time": "2026-06-14 22:38:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：自由計劃從未中止。"
     }
   ]
 }
