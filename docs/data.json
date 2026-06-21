@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-22 04:08:08",
-  "count": 17466,
+  "updated": "2026-06-22 04:12:04",
+  "count": 17467,
   "items": [
+    {
+      "id": "mkt:019eebcf-0f30-7dd8-b0a9-3f1d87cd2d77",
+      "time": "2026-06-22 04:11:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iran's Press TV, four-party talks in Switzerland have ended after Iran's delegation walked out."
+    },
+    {
+      "id": "4946646",
+      "time": "2026-06-22 04:10:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗新聞電視臺稱，在瑞士舉行的四方會談結束後，伊朗代表團已離場。"
+    },
+    {
+      "id": "mkt:019eebcc-3d89-7dd8-b0a9-379d3a395c32",
+      "time": "2026-06-22 04:08:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. diplomat participating in talks in Switzerland told Axios he expects negotiations with Iran and mediators from Pakistan and Qatar to continue overnight."
+    },
     {
       "id": "4946645",
       "time": "2026-06-22 04:07:15",
@@ -160831,27 +160856,6 @@
         "國際"
       ],
       "text": "伊朗足球隊抵達洛杉磯，備戰週一與紐西蘭隊的世界盃比賽。"
-    },
-    {
-      "id": "mkt:019ec7c3-42a7-7dd8-aff6-cb63bfa5ae5b",
-      "time": "2026-06-15 04:12:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. small plane crash in Missouri kills 12】The Missouri State Highway Patrol said a small plane crashed in Butler, Missouri, at about 11:35 a.m. local time on June 14, killing all 12 on board. The P750, carrying 11 parachutists and one pilot, had just departed Butler Memorial Airport. The U.S. National Transportation Safety Board will lead the investigation and provide updates."
-    },
-    {
-      "id": "mkt:019ec7c0-1ca8-7dd8-aff6-c10d51a5e222",
-      "time": "2026-06-15 04:08:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "An adviser to Iran's supreme leader warned that if Israel's actions in Lebanon do not stop, the Strait of Hormuz and Bab al-Mandeb will be used to squeeze Israel's economic arteries until strategic suffocation."
     }
   ]
 }
