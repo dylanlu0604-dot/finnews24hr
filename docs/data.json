@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-22 04:15:57",
-  "count": 17467,
+  "updated": "2026-06-22 04:19:49",
+  "count": 17470,
   "items": [
+    {
+      "id": "mkt:019eebd6-2a37-7dd8-b0a9-5f6e30ac4f39",
+      "time": "2026-06-22 04:19:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios: U.S. diplomats say Iran talks are focused on a Lebanon conflict de-escalation mechanism and on implementing a ceasefire agreement."
+    },
+    {
+      "id": "4946649",
+      "time": "2026-06-22 04:18:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國外交官就伊朗談判表態：重點是建立黎巴嫩去衝突機制以及落實停火協議。"
+    },
+    {
+      "id": "4946648",
+      "time": "2026-06-22 04:18:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國外交官談伊朗談判：在維持霍爾木茲海峽暢通方面已取得良好進展。"
+    },
+    {
+      "id": "mkt:019eebd5-9d94-7dd8-b0a9-5569fe723c78",
+      "time": "2026-06-22 04:18:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Axios reported U.S. diplomats said they have made good progress in keeping the Strait of Hormuz open."
+    },
+    {
+      "id": "mkt:019eebd3-0dc9-7dd8-b0a9-4b73b7efccff",
+      "time": "2026-06-22 04:15:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Insiders report an explosion at the Barzan gas plant in Ras Laffan, Qatar; cause cited as \"operational error\"."
+    },
     {
       "id": "mkt:019eebd2-8c97-7dd8-b0a9-47c1b3288c93",
       "time": "2026-06-22 04:15:04",
@@ -160844,23 +160897,6 @@
         "公司"
       ],
       "text": "【日內瓦舉行反七國集團抗議活動 逾千人參加】針對七國集團峰會的大規模抗議活動14日下午在瑞士日內瓦市區舉行，新華社記者現場看到逾千人參加。該活動由“反七國集團聯盟”發起，以“反法西斯主義”“反帝國主義及其針對人民的戰爭”“反資本主義”為號召。據組織方釋出的資訊，“反七國集團聯盟”由約60個協會、工會和左翼團體組成，當天的遊行預計持續到晚上。截至記者發稿，遊行隊伍雖在警察引導下和平行進，但抗議活動仍造成部分車輛損壞和一家銀行的封閉門板被拆毀。日內瓦街區不時警笛大作。（新華社）"
-    },
-    {
-      "id": "4934770",
-      "time": "2026-06-15 04:19:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "受伊朗與黎巴嫩局勢緊張影響，七國集團峰會結束後，內塔尼亞胡尋求與特朗普緊急會晤。"
-    },
-    {
-      "id": "mkt:019ec7c7-38ba-7dd8-aff6-d546a975bdbb",
-      "time": "2026-06-15 04:16:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran national football team arrived in Los Angeles ahead of Monday's World Cup match against New Zealand."
     }
   ]
 }
