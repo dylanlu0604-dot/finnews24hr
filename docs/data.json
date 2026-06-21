@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22 00:49:16",
-  "count": 17520,
+  "updated": "2026-06-22 00:53:19",
+  "count": 17516,
   "items": [
     {
       "id": "mkt:019eeb15-23e6-7dd8-b0a8-269f959f6514",
@@ -161307,46 +161307,6 @@
         "MKT News"
       ],
       "text": "Saudi state television, citing sources, says a Qatari delegation is currently en route to Islamabad."
-    },
-    {
-      "id": "mkt:019ec70d-133a-7dd8-aff5-15ec6586d521",
-      "time": "2026-06-15 00:53:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran's Supreme Joint Military Command said it was 'ready to fire at any time, aiming at the enemy's heart'."
-    },
-    {
-      "id": "mkt:019ec70b-a4df-7dd8-aff5-0b6800629e0e",
-      "time": "2026-06-15 00:51:29",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Israel Defense Forces: Hezbollah rockets, drones strike northern Israel】The Israel Defense Forces said Hezbollah fired a rocket from Lebanon that struck near the Neot Mordechai community close to Kiryat Shmona. Several other rockets landed near Israeli forces in southern Lebanon, and suspected Hezbollah drones struck areas inside Israel near the Lebanese border earlier, the IDF said."
-    },
-    {
-      "id": "4934684",
-      "time": "2026-06-15 00:50:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：一枚來自黎巴嫩的射彈落入以色列北部的內奧特·莫迪凱地區，以軍行動區域所在的黎巴嫩南部也出現多處被擊中的情況。此外，還有多架無人機在邊境附近墜落。"
-    },
-    {
-      "id": "4934683",
-      "time": "2026-06-15 00:49:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家廣播電視臺：伊朗聯合軍事指揮官阿里·阿卜杜拉希少將將於數分鐘內向民眾發表講話，回顧過去一年的局勢變化，內容涵蓋去年六月為期十二天的戰事，以及近期同美國、以色列之間的衝突。"
     }
   ]
 }
