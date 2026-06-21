@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-22 05:55:56",
-  "count": 17455,
+  "updated": "2026-06-22 05:59:40",
+  "count": 17448,
   "items": [
+    {
+      "id": "4946698",
+      "time": "2026-06-22 05:58:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率為61.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為61.5%，累計加息25個基點的機率為38.5%。 美聯儲到9月維持利率不變的機率為24.9%，累計加息25個基點的機率為52.2%，累計加息50個基點的機率為22.9%。"
+    },
+    {
+      "id": "4946697",
+      "time": "2026-06-22 05:58:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲天然氣期貨因霍爾木茲海峽局勢持續緊張而上漲3.4%。"
+    },
+    {
+      "id": "4946696",
+      "time": "2026-06-22 05:57:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫：這就是我們保護我們土地的方式。"
+    },
+    {
+      "id": "4946694",
+      "time": "2026-06-22 05:55:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞左翼候選人塞佩達暫居第二位，得票率為48.3%，目前約90%的選票已完成統計。"
+    },
+    {
+      "id": "4946693",
+      "time": "2026-06-22 05:55:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "已統計約90%選票，哥倫比亞選舉中右翼候選人德拉埃斯普列利亞以50.1%的得票率暫時領先。"
+    },
     {
       "id": "4946692",
       "time": "2026-06-22 05:50:36",
@@ -160621,110 +160663,6 @@
         "MKT News"
       ],
       "text": "Fox News reports Vice President Vance plans to attend a signing ceremony in Geneva and said President Trump may also attend; logistics are still being coordinated."
-    },
-    {
-      "id": "mkt:019ec825-1133-7dd8-aff7-82e1d912ef09",
-      "time": "2026-06-15 05:58:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister says the formal signing of a memorandum of understanding will take place in Switzerland this Friday."
-    },
-    {
-      "id": "mkt:019ec824-d142-7dd8-aff7-7de57581a4fd",
-      "time": "2026-06-15 05:58:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Iran's deputy foreign minister said if Tehran sees the other side violate the agreement, it will take unilateral measures."
-    },
-    {
-      "id": "4934826",
-      "time": "2026-06-15 05:58:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，若發現對方違約，我方將自行採取措施。"
-    },
-    {
-      "id": "4934825",
-      "time": "2026-06-15 05:58:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺6月15日06時繼續釋出暴雨黃色預警。"
-    },
-    {
-      "id": "4934824",
-      "time": "2026-06-15 05:57:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：最終協議的談判將在60天內舉行。"
-    },
-    {
-      "id": "mkt:019ec824-1905-7dd8-aff7-77bedfe58385",
-      "time": "2026-06-15 05:57:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said negotiations on a final agreement will take place within 60 days."
-    },
-    {
-      "id": "4934823",
-      "time": "2026-06-15 05:57:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗副外長：正式簽字儀式將於週五舉行。"
-    },
-    {
-      "id": "mkt:019ec823-a7e9-7dd8-aff7-6f8e35f07978",
-      "time": "2026-06-15 05:57:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said a memorandum of understanding does not imply trust in \"enemies\"."
-    },
-    {
-      "id": "4934822",
-      "time": "2026-06-15 05:57:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長稱，諒解備忘錄並不意味著信任\"敵人\"。"
-    },
-    {
-      "id": "mkt:019ec823-3909-7dd8-aff7-62ee7528b6fe",
-      "time": "2026-06-15 05:56:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said the text of the memorandum of understanding will be released after formal signing."
-    },
-    {
-      "id": "4934821",
-      "time": "2026-06-15 05:56:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長稱諒解備忘錄文字將在正式簽署後公佈。"
-    },
-    {
-      "id": "4934820",
-      "time": "2026-06-15 05:56:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗副外長加里巴巴迪稱，雙方已敲定諒解備忘錄最終文字。"
     }
   ]
 }
