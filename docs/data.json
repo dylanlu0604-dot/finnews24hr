@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-22 00:32:37",
-  "count": 17515,
+  "updated": "2026-06-22 00:36:49",
+  "count": 17518,
   "items": [
+    {
+      "id": "mkt:019eeb09-e2ba-7dd8-b0a8-096f9ea34453",
+      "time": "2026-06-22 00:35:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state media reports a member of Iran's negotiating team said talks on other issues will not proceed unless the war in Lebanon ends."
+    },
+    {
+      "id": "4946587",
+      "time": "2026-06-22 00:34:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗談判團隊成員對伊朗國家媒體表示：如果黎巴嫩戰事不結束，就不會就其他議題進行談判。"
+    },
+    {
+      "id": "mkt:019eeb07-f64f-7dd8-b0a8-0439983d53ce",
+      "time": "2026-06-22 00:33:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France's foreign ministry said the foreign minister will meet Qatar's prime minister in Switzerland on Monday local time."
+    },
+    {
+      "id": "4946586",
+      "time": "2026-06-22 00:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：法國外長將於週一在瑞士會見卡達首相。"
+    },
     {
       "id": "mkt:019eeb06-2698-7dd8-b0a7-ffeaab8c352b",
       "time": "2026-06-22 00:31:49",
@@ -161279,15 +161316,6 @@
         "MKT News"
       ],
       "text": "Axios reporter says Iranian officials have not yet confirmed they will sign an agreement today."
-    },
-    {
-      "id": "4934679",
-      "time": "2026-06-15 00:36:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【中華人民共和國和蒙古國外交部長會談聯合新聞公報】應蒙古國國家大呼拉爾委員、外交部長巴特蒙赫·巴特策策格邀請，中共中央政治局委員、中華人民共和國外交部長王毅於2026年6月13日至15日對蒙古國進行訪問。雙方在友好的氛圍中舉行會談，確認以兩國元首達成的共識為引領，推動中蒙全面戰略伙伴關係不斷向前發展。（新華社）"
     }
   ]
 }
