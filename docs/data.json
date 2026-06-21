@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-22 02:30:11",
-  "count": 17480,
+  "updated": "2026-06-22 02:33:58",
+  "count": 17481,
   "items": [
+    {
+      "id": "mkt:019eeb75-392e-7dd8-b0a8-c4043f69edce",
+      "time": "2026-06-22 02:33:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Netanyahu says Israel has shifted limits on military action against Iran】Prime Minister Netanyahu said Israel has changed its limits on military action against Iran. He said Israelis were long told they could not strike Iranian territory and were limited to Mossad operations — which he has approved many times — but those restrictions have been lifted, and Israel has sent pilots to fly over Iranian airspace."
+    },
+    {
+      "id": "4946617",
+      "time": "2026-06-22 02:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "古巴總統：長期追隨卡斯特羅的革命領袖拉米羅·巴爾德斯逝世。"
+    },
+    {
+      "id": "4946616",
+      "time": "2026-06-22 02:32:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：獵鷹9號火箭於加利福尼亞發射24顆星鏈衛星。"
+    },
     {
       "id": "mkt:019eeb6f-51f7-7dd8-b0a8-b94022c0318e",
       "time": "2026-06-22 02:26:41",
@@ -160969,22 +160997,6 @@
         "國際"
       ],
       "text": "一名以色列安全官員表示，以方今日對貝魯特達希耶區實施打擊時，已預判伊朗會作出回應。"
-    },
-    {
-      "id": "4934730",
-      "time": "2026-06-15 02:33:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：儘管以色列襲擊了黎巴嫩境內真主黨目標，美伊相關協議仍在推進。美方密切關注真主黨向以色列北部發射火箭彈的行為，並要求該組織停止此類行動。"
-    },
-    {
-      "id": "4934729",
-      "time": "2026-06-15 02:32:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列Ynet新聞網：總理內塔尼亞胡拒絕了特朗普提出的要求，即在黎巴嫩停火併開始撤軍。"
     }
   ]
 }
