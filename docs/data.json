@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-22 06:15:30",
-  "count": 17402,
+  "updated": "2026-06-22 06:19:25",
+  "count": 17397,
   "items": [
+    {
+      "id": "4946722",
+      "time": "2026-06-22 06:18:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國外交官：美伊會談包含落實黎巴嫩南部停火相關內容，還就核協議展開深入磋商。"
+    },
+    {
+      "id": "te:markets:560557",
+      "time": "2026-06-22 06:17:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Starts the Week Higher — Crude oil prices opened the week more than 1.5% higher, rising above $78 per barrel as the US and Iran began talks in Switzerland, the first to take place under last week's memorandum of understanding. The agreement called for reopening the strait of Hormuz, and ending hostilities, including in Lebanon, where Israel and the Iran-backed Hezbollah have continued exchanging attacks. However, Iran said the US had failed to secure a ceasefire in Lebanon and announced it had again halted traffic through the strait. Tehran also said Sunday's talks would exclude substantive issues such as its nuclear programme."
+    },
+    {
+      "id": "4946719",
+      "time": "2026-06-22 06:17:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓媒：李在明調整幕僚團隊釋放訊號，施政核心將集中在社會民生等方面】據韓國多家媒體21日報道，韓國總統李在明進入執政第二年，對青瓦臺幕僚團隊和國家安保高層進行調整，涉及宣傳溝通、民政事務、社會政策、國防和經濟安保等領域。韓國總統秘書室室長姜勳植表示，此次人事調整旨在提速國政運營，聚焦推進外交安保佈局、制度秩序和改革任務。（環球網）"
+    },
     {
       "id": "mkt:019eec3e-b714-7dd8-b0a9-c6dfc2d4b597",
       "time": "2026-06-22 06:13:13",
@@ -160173,74 +160200,6 @@
         "MKT News"
       ],
       "text": "Iran deputy foreign minister says the nuclear issue will be discussed during 60-day negotiations."
-    },
-    {
-      "id": "mkt:019ec837-da76-7dd8-aff8-0b609455bd87",
-      "time": "2026-06-15 06:19:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver climbed above $70/oz, up 3% on the day."
-    },
-    {
-      "id": "4934887",
-      "time": "2026-06-15 06:19:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報70.04美元/盎司。"
-    },
-    {
-      "id": "4934886",
-      "time": "2026-06-15 06:19:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破70美元/盎司，日內漲3.06%。"
-    },
-    {
-      "id": "4934885",
-      "time": "2026-06-15 06:19:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，核問題將在為期60天的談判中進行討論。"
-    },
-    {
-      "id": "mkt:019ec835-fd08-7dd8-aff8-077d9853bc5c",
-      "time": "2026-06-15 06:17:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatari prime minister and foreign minister said he expects all parties to participate in upcoming talks in a positive, constructive spirit."
-    },
-    {
-      "id": "4934884",
-      "time": "2026-06-15 06:16:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔市長：首都部分割槽域出現停電情況，相關專家正在排查原因。"
-    },
-    {
-      "id": "4934883",
-      "time": "2026-06-15 06:16:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我知道這段時間對許多美國民眾而言十分艱難，但我們為大家取得了一項重大成果。"
-    },
-    {
-      "id": "mkt:019ec834-620b-7dd8-aff7-fd911cae3d10",
-      "time": "2026-06-15 06:15:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatari prime minister and foreign minister said Doha welcomes the memorandum of understanding between the United States and Iran."
     }
   ]
 }
