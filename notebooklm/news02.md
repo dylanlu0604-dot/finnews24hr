@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-22 04:43:01_
-_本檔包含 3412 則快訊，約 649589 字_
+_更新時間：2026-06-22 05:17:54_
+_本檔包含 3398 則快訊，約 650028 字_
+
+---
+
+### 2026-06-19 00:15:53  #MKT News #Important #DXY #Impact bearish #WTI #XAUUSD
+
+Financial Times reports the Trump administration, under a temporary US-Iran accord, will allow Iran to access $6 bln of oil export proceeds held in Qatar to purchase US humanitarian supplies and other non-sanctioned goods.
+
+---
+
+### 2026-06-19 00:15:33  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+Eurozone Stocks Extend Record High — European stock indices closed mixed on Thursday as support from lower inflationary risks weighed against sector-specific losses. The Euro STOXX 50 gained 0.5% to a new record of 6,331 and the STOXX Europe dropped 0.4% to 637 amid pressure from heavyweight pharmaceutical, miners, and energy producers. US President Trump signed the memorandum of understanding with Iran that suspends the war for 60 days and restores the flows of fuel tankers through the Strait of Hormuz, lowering energy prices and reducing concerns that the ECB would deliver more rate hikes this year. Banks were mostly higher after leading gains this week, with UniCredit and Intesa Sanpaolo adding 0.7%. Meanwhile, industrials rose sharply with Airbus, Safran, and Schneider adding close to 3%. Meanwhile, Infineon jumped 7% to track the recent rally for chip producers worldwide. On the other hand, SAP dropped 4.7% on software weakness, while German auto manufacturers and British pharmaceuticals and miners retreated.
+
+---
+
+### 2026-06-19 00:15:18  #國際
+
+美國副總統萬斯：我認為我們的公共資訊傳遞並沒有混亂。
+
+---
+
+### 2026-06-19 00:15:08  #Trading Economics #Economy #Colombia #Leading Economic Index #Importance 1
+
+Colombia Economic Growth Eases In April — Colombia’s leading economic index rose 3.3% year-on-year in April 2026, easing from a 4% increase in March. Tertiary activities grew 4.6%, slowing from 5.3% in the previous month. Within the sector, the strongest gains came from public administration and services, up 8.1% after 6.6% in March, and utilities supply, which rose 4.7% after 4.0%. Other categories, including professional, scientific, technical, administrative, and support activities (1.2% vs 3.4%) and information and communication (1.5% vs 3.4%), expanded at a slower pace. Secondary activities increased 1.8%, down from 3% in March. Meanwhile, primary activities contracted 2.4% after a 1.7% expansion in the previous month. On a month-over-month basis, economic activity rose 0.34%, following a 0.42% increase in March.
+
+---
+
+### 2026-06-19 00:14:37  #MKT News
+
+U.S. Vice President Vance's press conference at the White House has concluded.
+
+---
+
+### 2026-06-19 00:13:41  #國際
+
+美國副總統萬斯新聞釋出會結束。
+
+---
+
+### 2026-06-19 00:13:31  #國際
+
+萬斯：特朗普是目前唯一一位同情以色列的世界領導人。
+
+---
+
+### 2026-06-19 00:13:24  #MKT News #Market Themes #The Trump Trade
+
+U.S. Vice President Vance said Israelis criticizing the deal Trump reached should perhaps not attack allies.
+
+---
+
+### 2026-06-19 00:12:23  #國際
+
+萬斯談及對特朗普伊朗協議持批評態度的以色列方面：（美國）或不願對盟友動武。
+
+---
+
+### 2026-06-19 00:12:02  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.18% Higher — The FTSE MIB Index went up by 93 points or 0.18 percent on Thursday to close at 52688 points. The rise was led by STMicroelectronics (4.16%), Prysmian (2.48%) and Banco BPM SPA (2.00%). On the downside, the weakerst performers were Saipem (-7.04%), Tenaris (-4.08%) and Eni (-3.16%).
+
+---
+
+### 2026-06-19 00:11:38  #國際
+
+【日本討論修改憲法第九條 專家：此舉企圖加速修憲流程】日本眾議院憲法審查會18日透過了《國民投票法》修正案，其核心內容包括放寬監票人的遴選條件等相關規定，修正案預計將於19日在眾議院全體會議審議透過。日本方面有評論稱表示，該修正案是日本為修改憲法所做的又一項準備工作。值得關注的是，在審查會上，日本政黨代表還圍繞修改和平憲法第九條進行了集中討論，但未形成統一意見。自民黨現已彙總的方案提出，在維持現行第一款放棄戰爭和第二款不保持戰力的基礎上，將所謂“國防”的應有形態寫入憲法，並明確規定由自衛隊承擔。在野黨“中道改革聯合”明確表示要堅持第九條，反駁稱“不需要只為消除自衛隊違憲論調而修憲。”同時，日本兩個右翼政黨——參政黨和維新會則認為自民黨的方案力度不足。日本維新會議員就自民黨方案指出“僅僅追認自衛隊組織的現狀什麼也不會改變”，主張刪除第二款並創設所謂“國防軍”，還宣稱要全面允許行使集體自衛權。參政黨議員提出要從根本上修改第九條，宣稱日本的防衛不應依賴他國，應當自行承擔。此外，日本維新會於17日還提出了對“日本安保三檔案”的修訂意見，其中包括對“無核三原則”中“不運進”核武器的相關內容進行重新審視，其理由則是，該部分內容會阻礙美國艦艇未來攜帶核彈停靠日本港口。（央視新聞）
+
+---
+
+### 2026-06-19 00:11:37  #MKT News
+
+U.S. Vice President Vance said people will come to see this as beneficial to Americans.
+
+---
+
+### 2026-06-19 00:11:11  #市場 #焦點
+
+SPACEX股價下跌10%，兩日累計跌幅達14%。
+
+---
+
+### 2026-06-19 00:11:07  #國際
+
+萬斯：人們終將意識到「這對美國民眾而言是件大好事」。
+
+---
+
+### 2026-06-19 00:11:02  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.37% Higher — The DAX Index rose 92 points or 0.37 percent on Thursday to close at 25027 points. Leading the gains are Infineon (7.14%), Siemens Energy (4.70%) and MTU Aero Engines AG (3.39%). Top losers were SAP (-4.80%), Mercedes-Benz AG (-4.52%) and BMW (-4.02%).
+
+---
+
+### 2026-06-19 00:10:58  #國際
+
+被問及面向伊朗的 3000 億美元基金由誰出資，美國副總統萬斯表示：阿拉伯國家以及域外不少國家都非常有意向，只要伊朗履約守規，各方願意參與出資扶持伊朗。
+
+---
+
+### 2026-06-19 00:10:25  #MKT News
+
+Vice President Vance said the president will not strike an unfavorable agreement.
+
+---
+
+### 2026-06-19 00:10:17  #MKT News
+
+US Vice President Vance said critics should have some confidence in the president.
+
+---
+
+### 2026-06-19 00:10:14  #其他
+
+萬斯稱總統不會簽署不利協議。
+
+---
+
+### 2026-06-19 00:10:06  #國際
+
+萬斯稱，批評者應當“對美國總統多一點信心”。
+
+---
+
+### 2026-06-19 00:10:02  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.46% Higher — The CAC 40 Index gained 39 points or 0.46 percent on Thursday to close at 8470 points. Gains were led by Edenred (17.17%), Kering (4.42%) and Legrand (4.14%). Biggest losers were Capgemini (-8.87%), Carrefour (-6.17%) and ArcelorMittal (-3.39%).
+
+---
+
+### 2026-06-19 00:09:55  #國際
+
+【萬斯稱與伊朗達成的部分 “君子協定” 已有書面記錄】美國副總統 JD・萬斯在接受採訪時作出一番重要表態，證實雙方在談判部分議題上存在 “君子協定”。週四，萬斯於白宮新聞釋出廳向霍姆斯透露，其中一部分君子協定 “形成了書面檔案”。他表示：“無論是這份諒解備忘錄、各類君子協定，還是最終協議，諸位，口頭承諾無足輕重，我們只看重核查落實。”萬斯補充道，這份協議的框架設計核心在於，美國 “不相信空話，只相信實際行動與履約表現”。他表示，伊朗已承諾不再進行鈾濃縮活動，並允許核查人員入境銷燬其高濃縮鈾庫存。若伊朗切實履行上述承諾，“協議中規定了多項對應利好安排”。
 
 ---
 
@@ -20429,221 +20561,5 @@ Trump said Greenland was not discussed at the G7 but should have been.
 ### 2026-06-18 03:17:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
 
 【Kevin Warsh: No Fed participant wants a near-term rate hike】Federal Reserve Chair Kevin Warsh said at a press conference that no one at the Fed favors a near-term rate increase. Asked about a suggestion that current data would support a hike, Warsh said the view "is not endorsed by any of the 19 participants present. We will meet again in six weeks and revisit the matter."
-
----
-
-### 2026-06-18 03:17:02  #國際
-
-伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表示：美國將在簽署後立即開始解除對伊朗的海上封鎖，30天內全面解除封鎖。
-
----
-
-### 2026-06-18 03:16:46  #國際
-
-特朗普：或將恢復對俄羅斯石油的制裁。
-
----
-
-### 2026-06-18 03:16:39  #市場
-
-英鎊兌美元下跌1%，至盤中低點1.3287。
-
----
-
-### 2026-06-18 03:16:32  #MKT News #Market Themes #The Trump Trade
-
-US President Trump said the 60-day deadline is not a strict final deadline if Iran behaves.
-
----
-
-### 2026-06-18 03:16:29  #MKT News #WTI #Impact bullish #Brent
-
-US President Trump said he may reimpose sanctions on Russian oil.
-
----
-
-### 2026-06-18 03:16:25  #國際
-
-伊朗伊斯蘭共和國通訊社關於諒解備忘錄文字：在此期間，船舶交通將恢復到戰前水平。
-
----
-
-### 2026-06-18 03:16:21  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh's press conference has concluded.
-
----
-
-### 2026-06-18 03:16:12  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises Ahead of BCB Decision — The Ibovespa edged up above the 170,000 mark on Wednesday as investors focused on monetary policy decisions from the BCB and the US Federal Reserve. Markets largely expect Brazil's central bank to cut the Selic rate by 25 basis points to 14.25%, although a pause remains possible amid a worsening external backdrop, higher oil prices, and deteriorating inflation expectations. As expected, the Fed left interest rates unchanged at 3.50%-3.75% and signaled a more hawkish outlook, reinforcing expectations that borrowing costs could remain elevated for longer. However, easing concerns over energy-driven inflation and growing expectations of a dovish stance from the BCB supported sentiment. Banks posted gains, with Itaú rising 2% and Bradesco adding 1.2%. WEG advanced nearly 3% after approving R$438.1 million in interest on equity, while Vale fell more than 1% amid lower iron ore prices.
-
----
-
-### 2026-06-18 03:15:54  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
-
-Federal Reserve Chairman Kevin Warsh said he believes employment data has been moving in a positive direction.
-
----
-
-### 2026-06-18 03:15:50  #MKT News #Macro & Rates
-
-Federal Reserve Chair Kevin Warsh said trends are more important than individual data points.
-
----
-
-### 2026-06-18 03:15:38  #國際
-
-特朗普：或將對俄羅斯重新實施制裁。
-
----
-
-### 2026-06-18 03:15:36  #市場 #焦點
-
-現貨黃金失守4260美元/盎司，日內跌1.69%。
-
----
-
-### 2026-06-18 03:15:36  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish
-
-Fed Chair Kevin Warsh said the committee regards the labor market as stable.
-
----
-
-### 2026-06-18 03:15:32  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-IRNA reports the memorandum text stipulates destruction of enriched nuclear material will be carried out with the agreement of both the US and Iran and under IAEA supervision.
-
----
-
-### 2026-06-18 03:15:26  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Muted Following Fed Meeting — The S&P/TSX Composite Index was little changed around the 35,000 mark on Wednesday as investors weighed the Fed's latest policy decision and awaited confirmation of a US-Iran peace agreement. As expected, the Fed kept interest rates unchanged at 3.50%-3.75% and signaled a more hawkish outlook, reinforcing expectations that borrowing costs could remain elevated for longer. However, easing energy-related inflation concerns helped push Canadian bond yields lower, supporting financial stocks. RBC, TD Bank, and BMO gained about 1%, while Scotiabank advanced nearly 2%. In contrast, energy shares came under pressure on expectations of a normalization in Middle East oil supplies, with Suncor and Imperial Oil losing more than 2%.
-
----
-
-### 2026-06-18 03:15:25  #焦點 #國際
-
-伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表態：伊朗將與阿曼合作，共同確定霍爾木茲海峽未來的管理機制與海運服務安排。
-
----
-
-### 2026-06-18 03:15:19  #焦點 #國際
-
-特朗普談伊朗問題：60天並非最終協議的硬性截止期限。
-
----
-
-### 2026-06-18 03:15:13  #其他
-
-伊拉克魯邁拉油田日產量增產30萬桶，達到每日65萬桶，出口作業恢復。
-
----
-
-### 2026-06-18 03:14:48  #國際
-
-特朗普：我不傾向於簽署新的《美墨加協定》，但對此持開放態度。
-
----
-
-### 2026-06-18 03:14:21  #MKT News #Important
-
-President Trump said it would be "a bit unfair" if other countries possess ballistic missiles while Iran has none.
-
----
-
-### 2026-06-18 03:13:46  #MKT News
-
-Fed chair Kevin Warsh said the Fed meeting had been a fairly cordial few days.
-
----
-
-### 2026-06-18 03:13:44  #國際
-
-伊朗伊斯蘭共和國通訊社關於諒解備忘錄文字：美國承諾在最終協議框架內，按照商定時間表取消所有對伊朗制裁。
-
----
-
-### 2026-06-18 03:13:36  #央行 #國際
-
-美聯儲主席沃什：美聯儲委員會認為勞動力市場已趨穩定。
-
----
-
-### 2026-06-18 03:13:14  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said some view current conditions as acceptable, but many have expressed strong interest in substantive reform of the Fed's Summary of Economic Projections.
-
----
-
-### 2026-06-18 03:13:10  #國際
-
-特朗普：若沒有《美墨加協定》，美國表現會更好。
-
----
-
-### 2026-06-18 03:12:57  #國際
-
-特朗普談美墨加協定：我在想我們或許無法達成協議。
-
----
-
-### 2026-06-18 03:12:38  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #EURUSD
-
-GBP/USD fell 1.00% intraday to 1.3292.
-
----
-
-### 2026-06-18 03:12:34  #市場 #焦點
-
-日元兌美元匯率跌至日內低點160.60，為4月30日以來最低水平。
-
----
-
-### 2026-06-18 03:12:30  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said he would not be surprised if a new communication framework or adjustments to the Fed’s Summary of Economic Projections emerge by year-end; until then he expects colleagues to continue submitting their forecasts.
-
----
-
-### 2026-06-18 03:12:14  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Kevin Warsh said the Federal Open Market Committee (FOMC) has committed to provide projections and is expected to honor that commitment.
-
----
-
-### 2026-06-18 03:12:14  #MKT News #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
-
-NZD/USD fell more than 1.00% intraday to 0.5770.
-
----
-
-### 2026-06-18 03:12:06  #央行 #國際
-
-美聯儲主席沃什：將全力實現價格穩定目標。
-
----
-
-### 2026-06-18 03:11:57  #國際
-
-伊朗伊斯蘭共和國通訊社就諒解備忘錄文字發表宣告：濃縮鈾的處置將在雙方達成共識、且國際原子能機構監督下開展。
-
----
-
-### 2026-06-18 03:11:50  #其他
-
-中國地震臺網自動測定：06月18日02時56分在中大西洋海嶺中部附近（南緯0.38度，西經20.07度）發生6.7級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-06-18 03:11:48  #央行 #國際
-
-美聯儲主席沃什：我們的信譽要求我們在所有領域都兌現承諾。
-
----
-
-### 2026-06-18 03:11:45  #Trading Economics #Markets #United States #currency #Importance 1
-
-Dollar Index Hits 11-week High — DXY increased to 100.32, the highest since March 2026. Over the past 4 weeks, Dollar Index gained 1.13%, and in the last 12 months, it increased 1.42%.
 
 ---

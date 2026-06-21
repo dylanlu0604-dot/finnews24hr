@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-22 04:43:01_
-_本檔包含 3351 則快訊，約 649741 字_
+_更新時間：2026-06-22 05:17:54_
+_本檔包含 3375 則快訊，約 650159 字_
+
+---
+
+### 2026-06-18 03:17:02  #國際
+
+伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表示：美國將在簽署後立即開始解除對伊朗的海上封鎖，30天內全面解除封鎖。
+
+---
+
+### 2026-06-18 03:16:46  #國際
+
+特朗普：或將恢復對俄羅斯石油的制裁。
+
+---
+
+### 2026-06-18 03:16:39  #市場
+
+英鎊兌美元下跌1%，至盤中低點1.3287。
+
+---
+
+### 2026-06-18 03:16:32  #MKT News #Market Themes #The Trump Trade
+
+US President Trump said the 60-day deadline is not a strict final deadline if Iran behaves.
+
+---
+
+### 2026-06-18 03:16:29  #MKT News #WTI #Impact bullish #Brent
+
+US President Trump said he may reimpose sanctions on Russian oil.
+
+---
+
+### 2026-06-18 03:16:25  #國際
+
+伊朗伊斯蘭共和國通訊社關於諒解備忘錄文字：在此期間，船舶交通將恢復到戰前水平。
+
+---
+
+### 2026-06-18 03:16:21  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh's press conference has concluded.
+
+---
+
+### 2026-06-18 03:16:12  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rises Ahead of BCB Decision — The Ibovespa edged up above the 170,000 mark on Wednesday as investors focused on monetary policy decisions from the BCB and the US Federal Reserve. Markets largely expect Brazil's central bank to cut the Selic rate by 25 basis points to 14.25%, although a pause remains possible amid a worsening external backdrop, higher oil prices, and deteriorating inflation expectations. As expected, the Fed left interest rates unchanged at 3.50%-3.75% and signaled a more hawkish outlook, reinforcing expectations that borrowing costs could remain elevated for longer. However, easing concerns over energy-driven inflation and growing expectations of a dovish stance from the BCB supported sentiment. Banks posted gains, with Itaú rising 2% and Bradesco adding 1.2%. WEG advanced nearly 3% after approving R$438.1 million in interest on equity, while Vale fell more than 1% amid lower iron ore prices.
+
+---
+
+### 2026-06-18 03:15:54  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
+
+Federal Reserve Chairman Kevin Warsh said he believes employment data has been moving in a positive direction.
+
+---
+
+### 2026-06-18 03:15:50  #MKT News #Macro & Rates
+
+Federal Reserve Chair Kevin Warsh said trends are more important than individual data points.
+
+---
+
+### 2026-06-18 03:15:38  #國際
+
+特朗普：或將對俄羅斯重新實施制裁。
+
+---
+
+### 2026-06-18 03:15:36  #市場 #焦點
+
+現貨黃金失守4260美元/盎司，日內跌1.69%。
+
+---
+
+### 2026-06-18 03:15:36  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish
+
+Fed Chair Kevin Warsh said the committee regards the labor market as stable.
+
+---
+
+### 2026-06-18 03:15:32  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+IRNA reports the memorandum text stipulates destruction of enriched nuclear material will be carried out with the agreement of both the US and Iran and under IAEA supervision.
+
+---
+
+### 2026-06-18 03:15:26  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Muted Following Fed Meeting — The S&P/TSX Composite Index was little changed around the 35,000 mark on Wednesday as investors weighed the Fed's latest policy decision and awaited confirmation of a US-Iran peace agreement. As expected, the Fed kept interest rates unchanged at 3.50%-3.75% and signaled a more hawkish outlook, reinforcing expectations that borrowing costs could remain elevated for longer. However, easing energy-related inflation concerns helped push Canadian bond yields lower, supporting financial stocks. RBC, TD Bank, and BMO gained about 1%, while Scotiabank advanced nearly 2%. In contrast, energy shares came under pressure on expectations of a normalization in Middle East oil supplies, with Suncor and Imperial Oil losing more than 2%.
+
+---
+
+### 2026-06-18 03:15:25  #焦點 #國際
+
+伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表態：伊朗將與阿曼合作，共同確定霍爾木茲海峽未來的管理機制與海運服務安排。
+
+---
+
+### 2026-06-18 03:15:19  #焦點 #國際
+
+特朗普談伊朗問題：60天並非最終協議的硬性截止期限。
+
+---
+
+### 2026-06-18 03:15:13  #其他
+
+伊拉克魯邁拉油田日產量增產30萬桶，達到每日65萬桶，出口作業恢復。
+
+---
+
+### 2026-06-18 03:14:48  #國際
+
+特朗普：我不傾向於簽署新的《美墨加協定》，但對此持開放態度。
+
+---
+
+### 2026-06-18 03:14:21  #MKT News #Important
+
+President Trump said it would be "a bit unfair" if other countries possess ballistic missiles while Iran has none.
+
+---
+
+### 2026-06-18 03:13:46  #MKT News
+
+Fed chair Kevin Warsh said the Fed meeting had been a fairly cordial few days.
+
+---
+
+### 2026-06-18 03:13:44  #國際
+
+伊朗伊斯蘭共和國通訊社關於諒解備忘錄文字：美國承諾在最終協議框架內，按照商定時間表取消所有對伊朗制裁。
+
+---
+
+### 2026-06-18 03:13:36  #央行 #國際
+
+美聯儲主席沃什：美聯儲委員會認為勞動力市場已趨穩定。
+
+---
+
+### 2026-06-18 03:13:14  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said some view current conditions as acceptable, but many have expressed strong interest in substantive reform of the Fed's Summary of Economic Projections.
+
+---
+
+### 2026-06-18 03:13:10  #國際
+
+特朗普：若沒有《美墨加協定》，美國表現會更好。
+
+---
+
+### 2026-06-18 03:12:57  #國際
+
+特朗普談美墨加協定：我在想我們或許無法達成協議。
+
+---
+
+### 2026-06-18 03:12:38  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #EURUSD
+
+GBP/USD fell 1.00% intraday to 1.3292.
+
+---
+
+### 2026-06-18 03:12:34  #市場 #焦點
+
+日元兌美元匯率跌至日內低點160.60，為4月30日以來最低水平。
+
+---
+
+### 2026-06-18 03:12:30  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said he would not be surprised if a new communication framework or adjustments to the Fed’s Summary of Economic Projections emerge by year-end; until then he expects colleagues to continue submitting their forecasts.
+
+---
+
+### 2026-06-18 03:12:14  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Kevin Warsh said the Federal Open Market Committee (FOMC) has committed to provide projections and is expected to honor that commitment.
+
+---
+
+### 2026-06-18 03:12:14  #MKT News #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
+
+NZD/USD fell more than 1.00% intraday to 0.5770.
+
+---
+
+### 2026-06-18 03:12:06  #央行 #國際
+
+美聯儲主席沃什：將全力實現價格穩定目標。
+
+---
+
+### 2026-06-18 03:11:57  #國際
+
+伊朗伊斯蘭共和國通訊社就諒解備忘錄文字發表宣告：濃縮鈾的處置將在雙方達成共識、且國際原子能機構監督下開展。
+
+---
+
+### 2026-06-18 03:11:50  #其他
+
+中國地震臺網自動測定：06月18日02時56分在中大西洋海嶺中部附近（南緯0.38度，西經20.07度）發生6.7級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-06-18 03:11:48  #央行 #國際
+
+美聯儲主席沃什：我們的信譽要求我們在所有領域都兌現承諾。
+
+---
+
+### 2026-06-18 03:11:45  #Trading Economics #Markets #United States #currency #Importance 1
+
+Dollar Index Hits 11-week High — DXY increased to 100.32, the highest since March 2026. Over the past 4 weeks, Dollar Index gained 1.13%, and in the last 12 months, it increased 1.42%.
 
 ---
 
@@ -20150,77 +20366,5 @@ Japanese Shares Rise on Robust Trade Data — The Nikkei 225 Index gained 0.2% t
 ### 2026-06-17 08:49:41  #公司
 
 【中國銀河等在黑龍江成立創投基金】企查查APP顯示，近日，黑龍江省龍江創業投資基金合夥企業（有限合夥）成立，出資額5億元，經營範圍為創業投資。企查查股權穿透顯示，該基金由中國銀河旗下銀河創新資本管理有限公司等共同出資。
-
----
-
-### 2026-06-17 08:49:11  #公司 #國際
-
-【美國華盛頓里根機場7月4日運營將中斷以管制空域】美國華盛頓大都會機場管理局(MWAA)表示，由於首都地區將舉行包括軍機飛越等在內的美國建國250週年活動，羅納德·里根華盛頓國家機場7月4日當天將於美東時間中午起暫時關閉。該機場位於弗吉尼亞州，毗鄰華盛頓特區市中心，7月3日還將因彩排而關閉數小時。此次關閉將導致數百個航班被取消。該機場預計將於7月5日凌晨重新開放。聯合航空表示，公司“已針對此項限制做好了規劃，並據此調整了航班安排，預計不會對乘客造成影響”。
-
----
-
-### 2026-06-17 08:48:29  #其他
-
-【今天華南仍有強降雨 未來幾天北方多地炎熱持續】今天（6月17日），華南一帶仍有強降雨，明天起南方主雨帶將北抬至長江中下游等地，華南多地高溫悶熱天氣逐漸發展。在北方，降雨將逐漸增多增強，東北、華北等地需警惕強對流天氣，同時新疆、內蒙古西部、陝西關中至黃淮等地將維持炎熱天氣。
-
----
-
-### 2026-06-17 08:47:28  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【Margin financing balance at Shanghai and Shenzhen exchanges rises CNY26.364 bln】As of June 16, margin financing at China’s exchanges rose CNY26.364 bln. Shanghai Stock Exchange balance CNY1.473689 tln, up CNY11.921 bln; Shenzhen Stock Exchange balance CNY1.42015 tln, up CNY14.443 bln; combined CNY2.893839 tln, up CNY26.364 bln.
-
----
-
-### 2026-06-17 08:47:24  #其他
-
-【兩市融資餘額增加263.64億元】截至6月16日，上交所融資餘額報14736.89億元，較前一交易日增加119.21億元；深交所融資餘額報14201.5億元，較前一交易日增加144.43億元；兩市合計28938.39億元，較前一交易日增加263.64億元。
-
----
-
-### 2026-06-17 08:47:21  #其他
-
-【1-5月份全國工業企業銷售收入實現較快增長】國家稅務總局發票資料顯示，1—5月份，全國工業企業銷售收入同比增長6.8%，實現較快增長。裝備製造持續發揮“壓艙石”作用。1—5月份，裝備製造業銷售收入同比增長8%，佔製造業比重46.8%，持續發揮“壓艙石”作用。其中，計算機通訊裝置製造、儀器儀表製造、專用裝置製造銷售收入同比分別增長15.6%、10.5%和8.8%，製造業高階化程序持續推進。人工智慧助推工業智慧化發展。1—5月份，機器人、智慧車載裝置製造銷售收入同比分別增長27.7%和46.3%，人工智慧賦能工業智慧化水平持續提升。同時，高階電子製造加快發展，持續夯實智慧製造根基。1-5月份，積體電路、光電子器件、半導體器件製造業銷售收入同比分別增長57.7%、32.6%和24.4%。
-
----
-
-### 2026-06-17 08:46:20  #MKT News #FFIE.O
-
-Jia Yueting said Faraday Future (FF) shipped a cumulative 157 EAI robots from March through May.
-
----
-
-### 2026-06-17 08:46:17  #公司
-
-【廣西南寧供電局與寮國永珍二公司成功簽署合作諒解備忘錄 】近日，在寮國國家電力公司（EDL）、中國南方電網廣西電網有限責任公司、寮國國家輸電網有限責任公司（EDL-T）見證下，中國南方電網廣西南寧供電局與寮國國家電力公司（EDL）永珍二公司正式簽署合作諒解備忘錄，搭建中老基層電力結對交流平臺，開啟兩國電力企業友好互助、互利共贏的合作新篇章。 根據簽署的合作諒解備忘錄，雙方將以提升永珍二公司供電可靠性、最佳化線損管理水平為核心切入點開展深度合作。南寧供電局將充分發揮在電網建設、運維管控、線損治理、不停電作業、人才培養等領域的成熟技術與豐富經驗，為永珍二公司提供系統化、專業化的技術指導和定製化解決方案。  （經參報）
-
----
-
-### 2026-06-17 08:45:00  #MKT News
-
-【US official says wording of US-Iran MOU should not be overread】A US official told CNN the wording of the US-Iran memorandum of understanding should not be overinterpreted and called the document a "political document." "More important than the text itself is the consensus between us... We chose wording that allows Iran to express the views it needs for its domestic politics," the official said.
-
----
-
-### 2026-06-17 08:44:05  #公司 #國際
-
-【德國寶馬下調2026年財測 並將“大幅加強並加快”成本削減措施】德國寶馬汽車週二下調了其2026年財測，因關鍵市場加速下滑，且伊朗戰爭帶來影響。寶馬稱，這場衝突打擊了消費者信心，並推高了能源成本。這番言論表明，本就深受亞洲激烈競爭和本土需求疲軟雙重衝擊的歐洲汽車行業對海外局勢也極為敏感。寶馬錶示，目前預計2026年核心汽車業務部門的利潤率將在1%至3%之間，低於此前預期的4%至6%，預計核心交付量也將略有下降，而此前預期為持平。該公司預計稅前獲利將大幅下滑，按照寶馬的定義，這意味著降幅超過15%。此前預期為溫和下降。寶馬股價週二在法蘭克福市場收低0.64%。寶馬執行長Milan Nedeljković表示，因此公司將“大幅加強並加快”成本削減措施，並補充稱該公司將“調整現有架構和流程，以應對市場形勢的急劇惡化”。寶馬未披露具體細節，僅表示這些措施將導致2026年下半年出現一次性負面影響。
-
----
-
-### 2026-06-17 08:41:16  #市場
-
-【酒價內參6月17日價格釋出：古井貢古20領跌 總價創三天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月17日整體小幅回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9925元，較昨日微幅下跌2元，連續兩日回落並創下三天以來最低。今日總價雖然自6月15日創下的23天以來最高位持續回落，但仍處於進入六月以來相對高位，終端交投情緒環比基本穩定，但核心單品的漲跌分化依然顯著。今日11大白酒單品四漲六跌一平，輸家佔據優勢。上漲方面，青花郎漲幅居前，上漲7元/瓶，重新站上700元關口，創進入六月以來最高價；五糧液普五八代與五糧液1618均上漲5元/瓶，其中後者創近一月最大單日漲幅，自昨日創下的近一月最低點快速升至近一月次高位；水晶劍南春小幅上漲1元/瓶。下跌方面，古井貢古20跌幅居前，下跌5元/瓶；國窖1573、洋河夢之藍M6+與習酒君品均下跌4元/瓶，其中國窖1573連續兩日回落，但仍守住880元關口，洋河夢之藍M6+再度跌落600元大關，習酒君品結束此前三連陽，但仍處於進入六月以來高位；飛天茅臺下跌2元/瓶；青花汾20小幅下跌1元/瓶，價格回落至月內最低位。精品茅臺價格環比保持不變。
-
----
-
-### 2026-06-17 08:40:59  #Trading Economics #Economy #Singapore #Domestic Exports of Non Oil (nodx) (%yoy) #Importance 1
-
-Singapore NODX Growth Highest Since 2023 — Singapore’s non-oil domestic exports (NODX) surged 38.4% year-on-year in May 2026, accelerating sharply from a 24.5% jump in April and exceeding market forecasts of 30.0%. It was the ninth consecutive month of expansion and the fastest growth since December 2023, with electronics continuing to grow strongly (94.8% vs. 66.7% in April), supported by robust AI-related demand.
-
----
-
-### 2026-06-17 08:40:30  #央行 #國際
-
-【機構：投資者可能要為新美聯儲時代做準備 不確定性及波動性或加劇】T. Rowe Price全球固定收益主管Arif Husain在一份報告中寫道，隨著美聯儲考慮縮減資產負債表並減少前瞻性指引，投資者“可能需要為迎接一種不同的管理時代做準備，將會以更大不確定性和波動性更少受限為特徵”。資產價格可能對經濟資料和政策趨勢更為敏感。“因此，那些受益於後全球金融危機時代低波動性的策略，在未來幾年可能會面臨越來越大的挑戰”；“我們認為美聯儲若再次試圖縮減資產負債表，尤其是在該央行於2025年底結束其最新一輪量化緊縮計劃之後，可能會促使市場重新評估長期以來對波動性下降的預期。”他寫道，波動可能首先出現在利率市場，然後蔓延至信貸市場，最終波及股票市場。
 
 ---

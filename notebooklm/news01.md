@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-22 04:43:01_
-_本檔包含 3781 則快訊，約 649742 字_
+_更新時間：2026-06-22 05:17:54_
+_本檔包含 3786 則快訊，約 650142 字_
+
+---
+
+### 2026-06-22 05:09:44  #其他
+
+雷諾阻撓日產董事會人選提名，矛頭直指債權方瑞穗銀行。
+
+---
+
+### 2026-06-22 05:06:55  #公司
+
+【KNDS家族所有者將向德國政府出售40%的股份】知情人士透露，持有坦克製造商KNDS一半股份的家族已同意將40%的股份出售給德國政府。這項交易掃清了該公司在夏季前上市的最後一個障礙。KNDS生產“豹2”和“勒克萊爾”坦克，正準備在法蘭克福和巴黎兩地上市。此舉將使這些家族退出這家法德合資企業。訊息人士稱，這筆交易對KNDS的估值將在150億歐元至180億歐元之間。這意味著德國政府將為其持有的股份支付約60億至70億歐元。
+
+---
+
+### 2026-06-22 05:03:35  #MKT News #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish
+
+【Trump lashes New York Times, says four-month war has devastated Iran】US President Trump said the New York Times was wrong to claim little changed after nearly four months of war, asserting Iran’s military has been largely destroyed — navy and air force gone, missile and drone launch platforms and production nearly eliminated — and that two senior leaders are gone. He added Iran’s inflation is about 250%, its economy has collapsed, soldiers are unpaid, the Strait of Hormuz is open and oil is flowing, while US stocks and employment are at record highs.
+
+---
+
+### 2026-06-22 05:02:27  #國際
+
+【比利時0比0戰平伊朗】北京時間6月22日，2026年美加墨世界盃進行G組第2輪角逐，比利時隊對陣伊朗隊。最終，比利時隊0比0戰平伊朗隊。
+
+---
+
+### 2026-06-22 05:02:11  #國際
+
+伊朗0比0戰平比利時。
+
+---
+
+### 2026-06-22 05:00:26  #市場
+
+紐約期銀日內跌1%，現報65.47美元/盎司。
+
+---
+
+### 2026-06-22 05:00:25  #市場
+
+紐約期金日內跌1%，現報4169.14美元/盎司。
+
+---
+
+### 2026-06-22 05:00:23  #國際
+
+【特朗普：霍爾木茲海峽通航暢通，石油正常外運】特朗普在社交媒體發文稱：“腐敗無能的《紐約時報》登出這樣一則頭條：‘歷經近四個月戰事，局勢有何變化？分析人士稱幾乎毫無改觀。’真的嗎？對方陸軍戰力盡失、海軍不復存在、空軍名存實亡；導彈發射陣地、各類導彈、無人機及其生產線幾乎全部被毀；兩大核心領導層盡數瓦解；通脹飆升至250%，經濟徹底崩盤；士兵領不到軍餉；霍爾木茲海峽暢通無阻，石油源源不斷向外輸送；美國股市與就業崗位均創下歷史新高。這就是實實在在發生的巨大變化，你們這群毫無操守、謊話連篇的懦夫，變化遠不止於此。”
+
+---
+
+### 2026-06-22 04:59:09  #焦點 #國際
+
+特朗普：霍爾木茲海峽通航暢通，石油正常外運。
+
+---
+
+### 2026-06-22 04:58:45  #國際
+
+美國檢察官皮羅表示，蓄意破壞華盛頓倒影池者將被起訴。
+
+---
+
+### 2026-06-22 04:57:41  #公司
+
+【截至6月上旬持有先進製造和科創領域股票市值逾6萬億元 公募基金錨定新質生產力 多維賦能科技創新】中國證監會主席吳清近日在2026陸家嘴論壇上表示，資本市場與新質生產力雙向奔赴、相互成就的態勢加快形成。據悉，公募基金正透過多元化方式服務新質生產力發展。截至2026年6月上旬，公募基金持有先進製造和科創領域的股票市值超過6萬億元，成為社會資本向產業資本轉化的重要力量。與此同時，行業透過支援科創企業上市融資，加速創新技術成果轉化，積極參與公司治理，推動企業技術創新與管理升級。從多家公募基金公司瞭解到，“十五五”時期，公募基金將從戰略佈局、產品創新、投研機制等方面發力，構建適配新質生產力發展的金融服務體系。（上證報）
+
+---
+
+### 2026-06-22 04:57:04  #公司
+
+【產品創新啟用行業新動能 公募基金規模再創新高】公募基金資產管理規模再創新高，距離40萬億元僅有一步之遙。中國證券投資基金業協會資料顯示，截至2026年5月底，我國境內公募基金管理機構共165家，其中基金管理公司150家，取得公募資格的資產管理機構15家。上述機構合計管理公募基金資產淨值39.48萬億元，較4月底增加1227.54億元，再創歷史新高。（上證報）
+
+---
+
+### 2026-06-22 04:56:26  #宏觀
+
+【外資巨頭年中投資展望出爐 A股AI板塊被視為“價值窪地”】近日，貝萊德、富達國際、景順等全球資管巨頭密集舉辦2026年年中投資展望會，研判下半年投資風向。在外資巨頭的投資展望會上，AI毫無懸念地繼續佔據議題核心，被普遍視為當前全球市場最具確定性的結構性投資機會。與此同時，“中國”也成為被頻頻提及的關鍵詞。憑藉估值優勢與商業化落地的巨大潛力，A股AI板塊被共同定位為全球科技競賽中難得的“價值窪地”。（上證報）
+
+---
+
+### 2026-06-22 04:55:56  #行業
+
+【A股科技板塊有望與全球AI科技行情形成共振 機構：資金或持續向高景氣方向縮圈】端午節前四個交易日，A股震盪上行，創業板指與科創50指數雙雙創下歷史新高，科技板塊表現出明顯的相對優勢。與此同時，傳統價值板塊持續回撥，市場風格分化進一步加劇。展望後市，券商策略研報認為，外部擾動因素階段性落地後，市場不確定性顯著下降，行情有望繼續向縱深演繹，結構上或逐步呈現擴散特徵。後續，A股行情結構性分化，資金持續向高景氣方向縮圈的特徵仍將延續。（上證報）
+
+---
+
+### 2026-06-22 04:55:35  #行業
+
+【首批四隻商業不動產REITs上市 助力房企轉型升級】6月18日，我國首批4只商業不動產REITs登陸上交所，標誌著商業不動產REITs試點工作實現良好開局，。我國公募REITs市場正邁入新階段，資本市場服務實體經濟的深度和廣度進一步拓展。首批商業不動產REITs的落地，對於盤活存量資產擴大有效投資、構建房地產行業發展新模式、豐富資本市場資產配置功能、更好服務實體經濟高質量發展具有重要意義。（上證報）
+
+---
+
+### 2026-06-22 04:53:43  #其他
+
+【德邦基金迎新董事長 年內近20家公募“換帥”】2026年以來，公募基金行業高管變更保持高頻。Wind資料顯示，截至6月19日，年內已有74家公募機構完成高管變更，涉及高管變動169人次，其中19家機構更換董事長、21家機構更換總經理。（證券時報）
+
+---
+
+### 2026-06-22 04:53:03  #市場
+
+【美晶片股再度走強 多隻重倉QDII基金收益翻倍】美股晶片股又一次刷屏了，國內重倉科技的QDII基金可能要提前“上漲”了。 當地時間6月18日，美伊達成停戰諒解備忘錄後，市場風險偏好明顯回升。霍爾木茲海峽恢復商業航運的訊息傳出後，美股三大指數集體收漲，其中納斯達克指數上漲1.91%，費城半導體指數大漲6.42%。個股表現更加亮眼。英特爾漲超10%，美光科技漲超8%，臺積電、高通漲超6%；閃迪漲超11%，總市值突破3200億美元，今年以來累計漲幅已經超過800%。 對於國內投資者而言，雖然無法直接買入這些熱門晶片股，但今年以來，一批重倉半導體資產的QDII基金同樣賺得盆滿缽滿。（證券時報）
+
+---
+
+### 2026-06-22 04:52:12  #其他
+
+【玻利維亞空軍一架飛機墜毀 機上6人全部遇難】玻利維亞空軍21日發表宣告說，一架執行民事援助任務的空軍飛機當天在玻中部科恰班巴省山區墜毀，機上6人全部遇難，包括4名軍人和2名平民。（新華社）
+
+---
+
+### 2026-06-22 04:51:31  #其他
+
+【低利率催化疊加銀行渠道發力 FOF上半年新發規模超歷史峰值】2026年以來，曾長期處於公募基金市場邊緣的FOF（基金中基金）迎來爆發式增長。Wind資料顯示，截至6月20日，年內新成立FOF基金已達88只，合計發行規模高達1137.69億元，不僅超越2025年全年水平，還超過了2021年創下的歷史峰值。與此同時，全市場FOF基金平均收益率達5.28%，在權益市場波動的背景下展現出穩健的抗風險能力，FOF正從公募基金的“配角”加速走向舞臺中央。 業績表現方面，易方達優勢回報A以52.20%的收益率位居榜首。此外，易方達旗下多隻FOF產品表現優異，優勢驅動一年持有A/C、優勢領航六個月持有A/C、優勢價值一年持有A/C等產品均進入前十，收益率介於44.74%至48.66%之間。（證券時報）
+
+---
+
+### 2026-06-22 04:51:00  #行業
+
+【多元策略基金業績承壓 傳統分散策略需動態最佳化】近兩年來，隨著A股市場結構性行情極致演繹，基金的多元配置策略越來越難。公募、遊資等機構高度聚焦AI、算力等少數賽道，導致固守分散持倉策略的基金收益持續低迷，多元策略失效一度成為行業話題。 不過，面對市場的變化，也有一批均衡基金透過主動調整倉位，業績表現也十分亮眼。在當前科技行情獨當一面的背景下，基金行業對多元投資的認知也在變化，業內普遍認為，公募投研正在打破賽道和均衡二選一的固有認知，兩種投資框架逐步融合發展。（證券時報）
+
+---
+
+### 2026-06-22 04:50:32  #公司 #市場
+
+【多隻LOF連續漲停 高溢價背後暗藏風險】近期，LOF市場異動頻現，財通基金旗下多隻產品場內份額連續漲停，溢價率飆升至20%以上，引發市場廣泛關注。表面看，這與基金經理金梓才押注AI算力賽道、近一年回報近530%的亮眼業績密切相關；但深入分析，高溢價的背後實則是極小流通盤下的資金博弈——部分產品僅需數十萬元即可拉漲停。基金公司雖已緊急限購、頻頻停牌，但在社交媒體放大效應下，“堵住場外”反而可能加劇投機情緒。 業內人士提醒，此類脫離基本面的高溢價猶如“流沙上的博弈”，一旦情緒退潮，投資者將面臨價格迴歸與溢價破裂的雙重風險。（證券時報）
+
+---
+
+### 2026-06-22 04:50:06  #公司 #市場
+
+【兩大六氟化鎢概念股釋出風險提示】中船特氣(688146)、中巨芯（688549）等六氟化鎢概念股近期持續走強，上市公司多次釋出風險提示。 其中，中船特氣的股票價格於5月11日至6月18日連續29個交易日累計漲幅356.20%（經前復權計算股價漲幅），多次觸發股票交易異常波動和嚴重異常波動的情形。 6月21日晚，中船特氣釋出股票交易風險提示公告稱，近期六氟化鎢產品關注度較高，公司關注到有媒體報道及市場傳聞提及公司六氟化鎢產品產能、產品價格、產品規格、產品訂單等內容。公司鄭重提醒，公司所有資訊均以在上交所網站及指定資訊披露媒體刊登的資訊為準，切勿輕信市場傳聞及網路平臺上未經核實的資訊，勿過度放大單一產品對公司業績的影響。中巨芯6月21日晚同步釋出股票交易風險提示公告，公司關注到近期媒體報道及市場傳聞涉及“六氟化鎢海外斷供”“六氟化鎢價格暴漲”“國產替代核心標的”“國內六氟化鎢頭部企業有望在本輪產業鏈景氣爆發週期中充分受益”等事項。（證券時報）
+
+---
+
+### 2026-06-22 04:49:10  #公司 #市場 #觀點 #國際
+
+【成果亮眼遭遇股價背離 百餘藥企掀起超百億回購】近日，中國生物製藥一紙公告，宣佈擬於12個月內以不超過20億港元在公開市場上回購公司普通股。這是今年以來醫藥上市企業大手筆的回購動作之一。公告還特別強調：董事會認為公司價值目前被嚴重低估，希望透過這一股份購買計劃儘快提振投資者信心，提升股東回報。 中國生物製藥的公告，道出了近期眾多醫藥上市公司的痛處。一方面，國內創新藥、CXO（醫藥研發生產外包）領域的發展捷報頻傳，如國產創新藥閃耀ASCO（美國臨床腫瘤學會）舞臺，多項突破性技術成就大放異彩，創新藥對外授權金額再創新高……但另一方面，資本市場上的表現卻與之背離，AH股醫藥板塊持續下跌，走勢低迷。 在這一背景下，一輪由上市公司層面主導的回購潮開始發力。據東吳證券統計，今年4月初至6月中旬，A股和H股中已有百餘家醫藥上市公司宣佈或實施回購股份。Wind資料顯示，今年以來，AH股醫藥公司已累計回購近130億元。（證券時報）
+
+---
+
+### 2026-06-22 04:48:21  #MKT News
+
+QatarEnergy said the fire has been brought under control following efforts by emergency response teams.
+
+---
+
+### 2026-06-22 04:47:29  #公司
+
+卡達能源公司表示，在應急響應小組被部署控制火勢後，火情已得到控制。
+
+---
+
+### 2026-06-22 04:47:15  #MKT News #Brent #Impact bullish #WTI
+
+QatarEnergy confirmed an operational incident during start-up at Ras Laffan Industrial City that caused an explosion and fire at Barzan gas-supply facilities.
+
+---
+
+### 2026-06-22 04:46:59  #公司
+
+卡達能源公司確認，拉斯拉凡工業城投產作業期間發生執行事故，導致巴爾贊天然氣供應設施發生爆炸火災。
 
 ---
 
@@ -22667,137 +22829,5 @@ Israel's Prime Minister Netanyahu will hold a security cabinet meeting tonight t
 ### 2026-06-19 00:15:55  #國際
 
 美國副總統萬斯談及內塔尼亞胡： 我看到阿克西奧斯新聞的報道稱內塔尼亞胡大為惱火。但這和我與他溝通時感受到的情況並不相符。或許他對外人表達的態度，和對我所說的並不一樣。
-
----
-
-### 2026-06-19 00:15:53  #MKT News #Important #DXY #Impact bearish #WTI #XAUUSD
-
-Financial Times reports the Trump administration, under a temporary US-Iran accord, will allow Iran to access $6 bln of oil export proceeds held in Qatar to purchase US humanitarian supplies and other non-sanctioned goods.
-
----
-
-### 2026-06-19 00:15:33  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-Eurozone Stocks Extend Record High — European stock indices closed mixed on Thursday as support from lower inflationary risks weighed against sector-specific losses. The Euro STOXX 50 gained 0.5% to a new record of 6,331 and the STOXX Europe dropped 0.4% to 637 amid pressure from heavyweight pharmaceutical, miners, and energy producers. US President Trump signed the memorandum of understanding with Iran that suspends the war for 60 days and restores the flows of fuel tankers through the Strait of Hormuz, lowering energy prices and reducing concerns that the ECB would deliver more rate hikes this year. Banks were mostly higher after leading gains this week, with UniCredit and Intesa Sanpaolo adding 0.7%. Meanwhile, industrials rose sharply with Airbus, Safran, and Schneider adding close to 3%. Meanwhile, Infineon jumped 7% to track the recent rally for chip producers worldwide. On the other hand, SAP dropped 4.7% on software weakness, while German auto manufacturers and British pharmaceuticals and miners retreated.
-
----
-
-### 2026-06-19 00:15:18  #國際
-
-美國副總統萬斯：我認為我們的公共資訊傳遞並沒有混亂。
-
----
-
-### 2026-06-19 00:15:08  #Trading Economics #Economy #Colombia #Leading Economic Index #Importance 1
-
-Colombia Economic Growth Eases In April — Colombia’s leading economic index rose 3.3% year-on-year in April 2026, easing from a 4% increase in March. Tertiary activities grew 4.6%, slowing from 5.3% in the previous month. Within the sector, the strongest gains came from public administration and services, up 8.1% after 6.6% in March, and utilities supply, which rose 4.7% after 4.0%. Other categories, including professional, scientific, technical, administrative, and support activities (1.2% vs 3.4%) and information and communication (1.5% vs 3.4%), expanded at a slower pace. Secondary activities increased 1.8%, down from 3% in March. Meanwhile, primary activities contracted 2.4% after a 1.7% expansion in the previous month. On a month-over-month basis, economic activity rose 0.34%, following a 0.42% increase in March.
-
----
-
-### 2026-06-19 00:14:37  #MKT News
-
-U.S. Vice President Vance's press conference at the White House has concluded.
-
----
-
-### 2026-06-19 00:13:41  #國際
-
-美國副總統萬斯新聞釋出會結束。
-
----
-
-### 2026-06-19 00:13:31  #國際
-
-萬斯：特朗普是目前唯一一位同情以色列的世界領導人。
-
----
-
-### 2026-06-19 00:13:24  #MKT News #Market Themes #The Trump Trade
-
-U.S. Vice President Vance said Israelis criticizing the deal Trump reached should perhaps not attack allies.
-
----
-
-### 2026-06-19 00:12:23  #國際
-
-萬斯談及對特朗普伊朗協議持批評態度的以色列方面：（美國）或不願對盟友動武。
-
----
-
-### 2026-06-19 00:12:02  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.18% Higher — The FTSE MIB Index went up by 93 points or 0.18 percent on Thursday to close at 52688 points. The rise was led by STMicroelectronics (4.16%), Prysmian (2.48%) and Banco BPM SPA (2.00%). On the downside, the weakerst performers were Saipem (-7.04%), Tenaris (-4.08%) and Eni (-3.16%).
-
----
-
-### 2026-06-19 00:11:38  #國際
-
-【日本討論修改憲法第九條 專家：此舉企圖加速修憲流程】日本眾議院憲法審查會18日透過了《國民投票法》修正案，其核心內容包括放寬監票人的遴選條件等相關規定，修正案預計將於19日在眾議院全體會議審議透過。日本方面有評論稱表示，該修正案是日本為修改憲法所做的又一項準備工作。值得關注的是，在審查會上，日本政黨代表還圍繞修改和平憲法第九條進行了集中討論，但未形成統一意見。自民黨現已彙總的方案提出，在維持現行第一款放棄戰爭和第二款不保持戰力的基礎上，將所謂“國防”的應有形態寫入憲法，並明確規定由自衛隊承擔。在野黨“中道改革聯合”明確表示要堅持第九條，反駁稱“不需要只為消除自衛隊違憲論調而修憲。”同時，日本兩個右翼政黨——參政黨和維新會則認為自民黨的方案力度不足。日本維新會議員就自民黨方案指出“僅僅追認自衛隊組織的現狀什麼也不會改變”，主張刪除第二款並創設所謂“國防軍”，還宣稱要全面允許行使集體自衛權。參政黨議員提出要從根本上修改第九條，宣稱日本的防衛不應依賴他國，應當自行承擔。此外，日本維新會於17日還提出了對“日本安保三檔案”的修訂意見，其中包括對“無核三原則”中“不運進”核武器的相關內容進行重新審視，其理由則是，該部分內容會阻礙美國艦艇未來攜帶核彈停靠日本港口。（央視新聞）
-
----
-
-### 2026-06-19 00:11:37  #MKT News
-
-U.S. Vice President Vance said people will come to see this as beneficial to Americans.
-
----
-
-### 2026-06-19 00:11:11  #市場 #焦點
-
-SPACEX股價下跌10%，兩日累計跌幅達14%。
-
----
-
-### 2026-06-19 00:11:07  #國際
-
-萬斯：人們終將意識到「這對美國民眾而言是件大好事」。
-
----
-
-### 2026-06-19 00:11:02  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.37% Higher — The DAX Index rose 92 points or 0.37 percent on Thursday to close at 25027 points. Leading the gains are Infineon (7.14%), Siemens Energy (4.70%) and MTU Aero Engines AG (3.39%). Top losers were SAP (-4.80%), Mercedes-Benz AG (-4.52%) and BMW (-4.02%).
-
----
-
-### 2026-06-19 00:10:58  #國際
-
-被問及面向伊朗的 3000 億美元基金由誰出資，美國副總統萬斯表示：阿拉伯國家以及域外不少國家都非常有意向，只要伊朗履約守規，各方願意參與出資扶持伊朗。
-
----
-
-### 2026-06-19 00:10:25  #MKT News
-
-Vice President Vance said the president will not strike an unfavorable agreement.
-
----
-
-### 2026-06-19 00:10:17  #MKT News
-
-US Vice President Vance said critics should have some confidence in the president.
-
----
-
-### 2026-06-19 00:10:14  #其他
-
-萬斯稱總統不會簽署不利協議。
-
----
-
-### 2026-06-19 00:10:06  #國際
-
-萬斯稱，批評者應當“對美國總統多一點信心”。
-
----
-
-### 2026-06-19 00:10:02  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.46% Higher — The CAC 40 Index gained 39 points or 0.46 percent on Thursday to close at 8470 points. Gains were led by Edenred (17.17%), Kering (4.42%) and Legrand (4.14%). Biggest losers were Capgemini (-8.87%), Carrefour (-6.17%) and ArcelorMittal (-3.39%).
-
----
-
-### 2026-06-19 00:09:55  #國際
-
-【萬斯稱與伊朗達成的部分 “君子協定” 已有書面記錄】美國副總統 JD・萬斯在接受採訪時作出一番重要表態，證實雙方在談判部分議題上存在 “君子協定”。週四，萬斯於白宮新聞釋出廳向霍姆斯透露，其中一部分君子協定 “形成了書面檔案”。他表示：“無論是這份諒解備忘錄、各類君子協定，還是最終協議，諸位，口頭承諾無足輕重，我們只看重核查落實。”萬斯補充道，這份協議的框架設計核心在於，美國 “不相信空話，只相信實際行動與履約表現”。他表示，伊朗已承諾不再進行鈾濃縮活動，並允許核查人員入境銷燬其高濃縮鈾庫存。若伊朗切實履行上述承諾，“協議中規定了多項對應利好安排”。
 
 ---

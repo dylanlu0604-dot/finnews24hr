@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-22 04:43:01_
-_本檔包含 3414 則快訊，約 649469 字_
+_更新時間：2026-06-22 05:17:54_
+_本檔包含 3407 則快訊，約 650048 字_
+
+---
+
+### 2026-06-17 08:49:11  #公司 #國際
+
+【美國華盛頓里根機場7月4日運營將中斷以管制空域】美國華盛頓大都會機場管理局(MWAA)表示，由於首都地區將舉行包括軍機飛越等在內的美國建國250週年活動，羅納德·里根華盛頓國家機場7月4日當天將於美東時間中午起暫時關閉。該機場位於弗吉尼亞州，毗鄰華盛頓特區市中心，7月3日還將因彩排而關閉數小時。此次關閉將導致數百個航班被取消。該機場預計將於7月5日凌晨重新開放。聯合航空表示，公司“已針對此項限制做好了規劃，並據此調整了航班安排，預計不會對乘客造成影響”。
+
+---
+
+### 2026-06-17 08:48:29  #其他
+
+【今天華南仍有強降雨 未來幾天北方多地炎熱持續】今天（6月17日），華南一帶仍有強降雨，明天起南方主雨帶將北抬至長江中下游等地，華南多地高溫悶熱天氣逐漸發展。在北方，降雨將逐漸增多增強，東北、華北等地需警惕強對流天氣，同時新疆、內蒙古西部、陝西關中至黃淮等地將維持炎熱天氣。
+
+---
+
+### 2026-06-17 08:47:28  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【Margin financing balance at Shanghai and Shenzhen exchanges rises CNY26.364 bln】As of June 16, margin financing at China’s exchanges rose CNY26.364 bln. Shanghai Stock Exchange balance CNY1.473689 tln, up CNY11.921 bln; Shenzhen Stock Exchange balance CNY1.42015 tln, up CNY14.443 bln; combined CNY2.893839 tln, up CNY26.364 bln.
+
+---
+
+### 2026-06-17 08:47:24  #其他
+
+【兩市融資餘額增加263.64億元】截至6月16日，上交所融資餘額報14736.89億元，較前一交易日增加119.21億元；深交所融資餘額報14201.5億元，較前一交易日增加144.43億元；兩市合計28938.39億元，較前一交易日增加263.64億元。
+
+---
+
+### 2026-06-17 08:47:21  #其他
+
+【1-5月份全國工業企業銷售收入實現較快增長】國家稅務總局發票資料顯示，1—5月份，全國工業企業銷售收入同比增長6.8%，實現較快增長。裝備製造持續發揮“壓艙石”作用。1—5月份，裝備製造業銷售收入同比增長8%，佔製造業比重46.8%，持續發揮“壓艙石”作用。其中，計算機通訊裝置製造、儀器儀表製造、專用裝置製造銷售收入同比分別增長15.6%、10.5%和8.8%，製造業高階化程序持續推進。人工智慧助推工業智慧化發展。1—5月份，機器人、智慧車載裝置製造銷售收入同比分別增長27.7%和46.3%，人工智慧賦能工業智慧化水平持續提升。同時，高階電子製造加快發展，持續夯實智慧製造根基。1-5月份，積體電路、光電子器件、半導體器件製造業銷售收入同比分別增長57.7%、32.6%和24.4%。
+
+---
+
+### 2026-06-17 08:46:20  #MKT News #FFIE.O
+
+Jia Yueting said Faraday Future (FF) shipped a cumulative 157 EAI robots from March through May.
+
+---
+
+### 2026-06-17 08:46:17  #公司
+
+【廣西南寧供電局與寮國永珍二公司成功簽署合作諒解備忘錄 】近日，在寮國國家電力公司（EDL）、中國南方電網廣西電網有限責任公司、寮國國家輸電網有限責任公司（EDL-T）見證下，中國南方電網廣西南寧供電局與寮國國家電力公司（EDL）永珍二公司正式簽署合作諒解備忘錄，搭建中老基層電力結對交流平臺，開啟兩國電力企業友好互助、互利共贏的合作新篇章。 根據簽署的合作諒解備忘錄，雙方將以提升永珍二公司供電可靠性、最佳化線損管理水平為核心切入點開展深度合作。南寧供電局將充分發揮在電網建設、運維管控、線損治理、不停電作業、人才培養等領域的成熟技術與豐富經驗，為永珍二公司提供系統化、專業化的技術指導和定製化解決方案。  （經參報）
+
+---
+
+### 2026-06-17 08:45:00  #MKT News
+
+【US official says wording of US-Iran MOU should not be overread】A US official told CNN the wording of the US-Iran memorandum of understanding should not be overinterpreted and called the document a "political document." "More important than the text itself is the consensus between us... We chose wording that allows Iran to express the views it needs for its domestic politics," the official said.
+
+---
+
+### 2026-06-17 08:44:05  #公司 #國際
+
+【德國寶馬下調2026年財測 並將“大幅加強並加快”成本削減措施】德國寶馬汽車週二下調了其2026年財測，因關鍵市場加速下滑，且伊朗戰爭帶來影響。寶馬稱，這場衝突打擊了消費者信心，並推高了能源成本。這番言論表明，本就深受亞洲激烈競爭和本土需求疲軟雙重衝擊的歐洲汽車行業對海外局勢也極為敏感。寶馬錶示，目前預計2026年核心汽車業務部門的利潤率將在1%至3%之間，低於此前預期的4%至6%，預計核心交付量也將略有下降，而此前預期為持平。該公司預計稅前獲利將大幅下滑，按照寶馬的定義，這意味著降幅超過15%。此前預期為溫和下降。寶馬股價週二在法蘭克福市場收低0.64%。寶馬執行長Milan Nedeljković表示，因此公司將“大幅加強並加快”成本削減措施，並補充稱該公司將“調整現有架構和流程，以應對市場形勢的急劇惡化”。寶馬未披露具體細節，僅表示這些措施將導致2026年下半年出現一次性負面影響。
+
+---
+
+### 2026-06-17 08:41:16  #市場
+
+【酒價內參6月17日價格釋出：古井貢古20領跌 總價創三天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月17日整體小幅回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9925元，較昨日微幅下跌2元，連續兩日回落並創下三天以來最低。今日總價雖然自6月15日創下的23天以來最高位持續回落，但仍處於進入六月以來相對高位，終端交投情緒環比基本穩定，但核心單品的漲跌分化依然顯著。今日11大白酒單品四漲六跌一平，輸家佔據優勢。上漲方面，青花郎漲幅居前，上漲7元/瓶，重新站上700元關口，創進入六月以來最高價；五糧液普五八代與五糧液1618均上漲5元/瓶，其中後者創近一月最大單日漲幅，自昨日創下的近一月最低點快速升至近一月次高位；水晶劍南春小幅上漲1元/瓶。下跌方面，古井貢古20跌幅居前，下跌5元/瓶；國窖1573、洋河夢之藍M6+與習酒君品均下跌4元/瓶，其中國窖1573連續兩日回落，但仍守住880元關口，洋河夢之藍M6+再度跌落600元大關，習酒君品結束此前三連陽，但仍處於進入六月以來高位；飛天茅臺下跌2元/瓶；青花汾20小幅下跌1元/瓶，價格回落至月內最低位。精品茅臺價格環比保持不變。
+
+---
+
+### 2026-06-17 08:40:59  #Trading Economics #Economy #Singapore #Domestic Exports of Non Oil (nodx) (%yoy) #Importance 1
+
+Singapore NODX Growth Highest Since 2023 — Singapore’s non-oil domestic exports (NODX) surged 38.4% year-on-year in May 2026, accelerating sharply from a 24.5% jump in April and exceeding market forecasts of 30.0%. It was the ninth consecutive month of expansion and the fastest growth since December 2023, with electronics continuing to grow strongly (94.8% vs. 66.7% in April), supported by robust AI-related demand.
+
+---
+
+### 2026-06-17 08:40:30  #央行 #國際
+
+【機構：投資者可能要為新美聯儲時代做準備 不確定性及波動性或加劇】T. Rowe Price全球固定收益主管Arif Husain在一份報告中寫道，隨著美聯儲考慮縮減資產負債表並減少前瞻性指引，投資者“可能需要為迎接一種不同的管理時代做準備，將會以更大不確定性和波動性更少受限為特徵”。資產價格可能對經濟資料和政策趨勢更為敏感。“因此，那些受益於後全球金融危機時代低波動性的策略，在未來幾年可能會面臨越來越大的挑戰”；“我們認為美聯儲若再次試圖縮減資產負債表，尤其是在該央行於2025年底結束其最新一輪量化緊縮計劃之後，可能會促使市場重新評估長期以來對波動性下降的預期。”他寫道，波動可能首先出現在利率市場，然後蔓延至信貸市場，最終波及股票市場。
 
 ---
 
@@ -20470,147 +20542,5 @@ President Trump said Iran has agreed never to possess nuclear weapons. He said r
 ### 2026-06-16 07:01:21  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
 
 New Zealand Stocks Track Wall Street Higher — The NZX 50 climbed 26 points, or 0.2%, to 13,385 in Tuesday morning trade, erasing losses from the previous session and tracking a rally on Wall Street overnight, buoyed by easing oil prices after the US and Iran reached a peace deal. Healthcare, consumer staples, utilities, and consumer discretionary stocks mainly supported the index. However, fresh data limited the gains, as New Zealand's food inflation accelerated to 3.2% in May. Traders also awaited the release of a slew of economic data from China later today, while anticipating this week's release of New Zealand's Q1 GDP data and the Fed's monetary policy decision. Delegat Group surged 10.7% after the company revised its full-year earnings forecast upward. Other early gainers were A2 Milk (1.0%), Contact Energy (0.9%), Chorus (0.7%), and Ebos Group (0.3%).
-
----
-
-### 2026-06-16 07:00:24  #國際
-
-美國國防部長赫格塞思否認美軍彈藥儲備庫存存在短缺問題，稱這只是媒體炮製並大肆宣揚的虛假說辭。
-
----
-
-### 2026-06-16 06:59:10  #公司 #市場 #焦點 #國際
-
-【6月16日隔夜要聞一覽】
-1、據伊朗方面當地時間16日訊息，3艘油輪和2艘載有伊朗基本物資的船隻已突破美國方面實施的海上封鎖。
-2、歐盟理事會15日釋出公告稱，歐盟與摩爾多瓦、烏克蘭當天就摩爾多瓦、烏克蘭加入歐盟談判程序中的“基本原則”議題正式啟動談判。
-3、伊朗總統佩澤希齊揚當地時間15日在其個人社交媒體上表示，在經過密集討論後，伊朗伊斯蘭議會絕大多數成員同意了伊美諒解備忘錄文字，以此實際檢驗美國尊重伊朗人民權利的真正決心。
-4、以色列總理內塔尼亞胡舉行自今年3月以來的首場新聞釋出會，就美伊達成諒解備忘錄等問題發表講話。內塔尼亞胡表示：“無論有沒有這份協議，伊朗都絕不會擁有核武器。只要我還是總理，這就絕對不會發生。”
-5、美政府最新資料顯示，美國戰略石油儲備上週進一步減少890萬桶，降至3.403億桶，為1983年7月以來的最低水平。
-6、美國政府一名高階官員15日表示，美國和伊朗已透過電子方式簽署了諒解備忘錄，但雙方仍將於19日舉行正式簽署儀式。
-7、美國總統特朗普表示，霍爾木茲海峽“已經部分開放”，並將於週五（6月19日）全面開放，屆時，美國和伊朗將正式簽署一份諒解備忘錄。
-8、SpaceX週一上漲20%，市值增加4120億美元。SpaceX收報每股192.46美元，較135美元的IPO發行價高出逾42%。此次上漲推動SpaceX市值突破2.5萬億美元，躋身全球市值前六高的上市公司之列。
-9、英偉達週一勢將透過投資級債券發行籌集250億美元，認購需求達到擬發售規模的三倍以上。
-
----
-
-### 2026-06-16 06:57:56  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、中蒙重大合作專案烏蘭巴托中央汙水處理廠正式啟用
-2、非洲建交國符合要求的腰果已獲准輸華
-3、千億元規模企業增至二百六十七家，十五家企業營收超萬億元 強科創擔責任 中國品牌向新向優（中國品牌 中國故事）
-4、全國首張“無目的地海上游”出入境通行證在上海簽發 登輪即度假 出海過週末（經濟聚焦）
-5、多部門印發方案 到2030年多式聯運1小時換裝率超90%
-6、國家能源局印發通知 鼓勵開展中深層地熱能長距離輸熱
-7、5月非銀行部門跨境收支1.5萬億美元 同比增長22%
-8、八部門發文提升都市圈城際通勤效率 打造城際綜合通勤廊道
-9、杭州富陽區上官鄉建起球拍製造全產業鏈——一個鄉，年產1.5億支羽毛球拍（體育大看臺）
-10、中亞國家深挖能源產業增長潛力（國際視點）
-11、外交部——歡迎美伊就第一階段諒解備忘錄內容達成一致
-12、三大聯邦州成立“三獅聯盟”，形成發展合力——德國探索提升都市圈“叢集效應”。
-
----
-
-### 2026-06-16 06:57:30  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、《求是》雜誌發表習近平總書記重要文章 一體推進教育科技人才發展
-2、不斷開闢百年大黨管黨治黨、興黨強黨新境界——深入學習領會習近平黨建思想
-3、李強主持國務院第二十次專題學習
-4、全國黨建工作座談會在京召開 蔡奇出席並講話 李希出席
-5、中央組織部從代中央管理黨費中劃撥4.27億元 用於“七一”前夕開展走訪慰問活動
-6、北京加強基礎研究蹚新路（活力中國調研行）
-7、書寫新時代的“山海情”——東西部協作促進區域協調發展。
-
----
-
-### 2026-06-16 06:54:02  #市場 #焦點 #國際
-
-美國汽油自4月以來首次跌破每加侖4美元。
-
----
-
-### 2026-06-16 06:53:35  #國際
-
-【霍爾木茲海峽爆炸聲或與交通管理有關】據伊朗方面當地時間16日訊息，霍爾木茲海峽和伊朗格什姆島南部傳出三次爆炸聲。前兩次爆炸發生在15日夜間，第三次爆炸發生在16日凌晨。訊息稱，這些爆炸發生在霍爾木茲海峽區域。據初步報告，爆炸很可能與該海峽的航運交通管理有關。截至目前，伊朗伊斯蘭革命衛隊和當地官方機構尚未就此次事件的具體細節作出回應。（央視新聞）
-
----
-
-### 2026-06-16 06:53:18  #Trading Economics #Economy #New Zealand #Food Inflation #Importance 1
-
-New Zealand Food Inflation Accelerates to 3.2% in May — Annual food inflation in New Zealand accelerated to 3.2% in May 2026 from April’s 14-month low of 2.6%, the first acceleration in three months. The increase was mainly driven by meat, poultry, and fish; fruit and vegetables; and grocery food prices. On a monthly basis, food prices rose 1.0% after being flat in April.
-
----
-
-### 2026-06-16 06:52:43  #其他
-
-市場資訊：本田或將下調400萬輛電動摩托產銷目標。
-
----
-
-### 2026-06-16 06:51:55  #國際
-
-【可吞服感測器能持續監測胃腸道溫度】美國麻省理工學院研究團隊開發出一種微型可吞服感測器，可在胃腸道內持續監測核心體溫，並每秒傳送一次資料，為感染預警、麻醉監測和家庭健康管理提供了一種更精準的新工具。相關研究發表於新一期《自然·電子學》雜誌。
-
----
-
-### 2026-06-16 06:51:12  #國際
-
-【高透光高導電有機發光二極體製成】韓國首爾國立大學工程學院科學家研製出一款高效能有機發光二極體，整合了高導電性透明金屬電極，透光率超過93%，有望在先進顯示器等眾多領域大顯身手。相關論文發表於新一期英國皇家化學學會旗下的《材料視野》雜誌，並被選為封面文章。
-
----
-
-### 2026-06-16 06:45:36  #MKT News #DXY #Impact bearish
-
-New Zealand May food price index YoY 3.2% vs 2.6% prior.
-
----
-
-### 2026-06-16 06:45:29  #MKT News #Economic Calendar #Important
-
-New Zealand | Food Price Index (YoY) (May) | actual 3.2% | previous 2.6%
-
----
-
-### 2026-06-16 06:45:16  #市場
-
-紐西蘭統計局資料：紐西蘭5月食品通脹指數較上月上漲1.0%。
-
----
-
-### 2026-06-16 06:45:07  #MKT News
-
-New Zealand May food price index MoM 1.0% (prior 0.0%).
-
----
-
-### 2026-06-16 06:45:05  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Increases by 4.68% — Top crypto gainers are XRP (4.68%), Ether (3.89%) and Bitcoin (0.81%).
-
----
-
-### 2026-06-16 06:45:01  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #DXY
-
-MSNBC: U.S. Vice President Vance said under a memorandum of understanding nuclear inspectors will return to Iran. A core element of the agreement is that the IAEA and the U.S. will assist Iran in destroying its stockpile of highly enriched uranium.
-
----
-
-### 2026-06-16 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Food Price Index (MoM) (May) | actual 1% | previous 0.00%
-
----
-
-### 2026-06-16 06:44:27  #國際
-
-美國副總統萬斯：核核查人員“絕對”會按照結束戰爭的條款重返伊朗。
-
----
-
-### 2026-06-16 06:40:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rises by 3.31% — Top commodity gainers are Cocoa (3.31%), Coffee (2.23%) and Barley (2.01%). Biggest losers are Oat (-2.94%) and Rice (-2.16%).
 
 ---
