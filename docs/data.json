@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-22 02:33:58",
-  "count": 17481,
+  "updated": "2026-06-22 02:37:46",
+  "count": 17482,
   "items": [
+    {
+      "id": "4946619",
+      "time": "2026-06-22 02:37:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：恐怖分子不僅以平民為襲擊目標，還藏身於平民之中。他們此舉犯下雙重戰爭罪行。我們的打擊目標是恐怖分子，但任何此類戰爭都會造成部分平民傷亡。"
+    },
+    {
+      "id": "mkt:019eeb78-1db2-7dd8-b0a8-e26758dd5da9",
+      "time": "2026-06-22 02:36:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cuban president says long-time revolutionary leader and Castro ally Ramiro Valdés has died."
+    },
+    {
+      "id": "4946618",
+      "time": "2026-06-22 02:35:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦總理稱讚伊朗以不失尊嚴的方式處理危機，肯定伊朗方面的處事姿態。"
+    },
+    {
+      "id": "mkt:019eeb77-6a2e-7dd8-b0a8-dd7a80cfc8cb",
+      "time": "2026-06-22 02:35:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said claims by some in the US that Trump wholly follows him, and by some in Israel that he wholly defers to Trump, are both untrue. He said leaders are heads of independent states and that he represents Israel's interests."
+    },
+    {
+      "id": "mkt:019eeb76-dd0b-7dd8-b0a8-d79b1d43ce31",
+      "time": "2026-06-22 02:34:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said he was told not to enter Rafah but did; told not to strike Hezbollah but did; and told not to confront Iran but did."
+    },
+    {
+      "id": "mkt:019eeb76-7481-7dd8-b0a8-ceac9a412bcd",
+      "time": "2026-06-22 02:34:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "NETANYAHU said Israel struck bridges and multiple targets. He estimated cumulative damage to the \"IRGC economy\" at hundreds of billions of dollars — not millions or tens of billions — and said recovery would take a long time."
+    },
     {
       "id": "mkt:019eeb75-392e-7dd8-b0a8-c4043f69edce",
       "time": "2026-06-22 02:33:08",
@@ -160953,50 +161010,6 @@
         "國際"
       ],
       "text": "美國參議員格雷厄姆表示，他希望伊朗相關衝突很快能透過外交途徑解決，但同時警告，任何協議都必須正視真主黨對以色列的襲擊，以及該組織與德黑蘭方面的關聯。"
-    },
-    {
-      "id": "4934734",
-      "time": "2026-06-15 02:37:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊聖城旅指揮官伊斯梅爾・卡阿尼稱真主黨 “即將取得對以色列的重大勝利”，他對該組織的行動予以稱讚，並表示這些行動壯大了黎巴嫩的力量。"
-    },
-    {
-      "id": "mkt:019ec76c-0704-7dd8-aff6-2e4fe37010a0",
-      "time": "2026-06-15 02:36:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "An adviser to Iran's Supreme Leader posted on social media after an Israeli strike on Beirut's southern suburbs: \"We will give the attackers a lesson they will regret for the rest of their lives.\""
-    },
-    {
-      "id": "4934733",
-      "time": "2026-06-15 02:36:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問就以色列襲擊貝魯特南郊事件發文稱：我們將讓襲擊者吸取慘痛教訓。"
-    },
-    {
-      "id": "4934732",
-      "time": "2026-06-15 02:35:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國秘書長古特雷斯譴責以色列對貝魯特發動襲擊，稱衝突本已停火，且美伊談判也即將達成協議，襲擊卻在此刻發生。"
-    },
-    {
-      "id": "4934731",
-      "time": "2026-06-15 02:35:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名以色列安全官員表示，以方今日對貝魯特達希耶區實施打擊時，已預判伊朗會作出回應。"
     }
   ]
 }
