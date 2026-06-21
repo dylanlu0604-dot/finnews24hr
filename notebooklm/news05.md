@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-06-21 07:20:59_
-_本檔包含 3496 則快訊，約 652803 字_
+_更新時間：2026-06-21 08:06:41_
+_本檔包含 3507 則快訊，約 653141 字_
+
+---
+
+### 2026-06-15 20:30:11  #MKT News #DXY #Impact bearish
+
+Canada April manufacturing shipments m/m +4.2% (consensus +4.5%; prior +3.0%).
+
+---
+
+### 2026-06-15 20:30:10  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish
+
+Canada wholesale sales rose 0.6% MoM in April, stronger than the 0.1% consensus; prior month 1.9%.
+
+---
+
+### 2026-06-15 20:30:10  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
+
+US New York Fed manufacturing index for June 5.7, versus 14 expected and 19.6 prior.
+
+---
+
+### 2026-06-15 20:30:02  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+HEZBOLLAH says Iran accord is a prelude to Israel's complete withdrawal.
+
+---
+
+### 2026-06-15 20:30:02  #MKT News #Economic Calendar #Important
+
+Canada | Wholesale Sales (MoM) (Apr) | actual 0.6% | consensus 0.1% | previous 1.90%
+
+---
+
+### 2026-06-15 20:30:02  #MKT News #Economic Calendar #Important
+
+Canada | Manufacturing Sales (MoM) (Apr) | actual 4.2% | consensus 4.50% | previous 3.00%
+
+---
+
+### 2026-06-15 20:30:00  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Manufacturing Index (Jun) | actual 5.7 | consensus 14 | previous 19.6
+
+---
+
+### 2026-06-15 20:29:51  #MKT News
+
+U.S. Vice President Vance said Israel will have a voice.
+
+---
+
+### 2026-06-15 20:29:48  #MKT News
+
+U.S. Vice President Vance said on Iran that Israel will certainly have a place in the new Middle East order.
+
+---
+
+### 2026-06-15 20:29:32  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Iran to charge for shipping services related to Strait of Hormuz】Iranian media reported on the 15th that foreign ministry spokesman Baghaei said Iran will, during 'specific periods', assume responsibility for managing safe passage through the Strait of Hormuz and will charge for related shipping services.
+
+---
+
+### 2026-06-15 20:29:29  #焦點 #國際
+
+【伊朗：將對霍爾木茲海峽相關航運服務收費】據伊朗媒體15日報道，伊朗外交部發言人巴加埃當天表示，伊朗將在“特定時期內”負責霍爾木茲海峽安全通行管理，並將對相關航運服務收取費用。（新華社）
+
+---
+
+### 2026-06-15 20:29:16  #國際
+
+萬斯談及伊朗問題：以色列肯定會在新中東格局中佔有一席之地。
+
+---
+
+### 2026-06-15 20:29:08  #其他
+
+萬斯：希望本週公佈協議文字。
+
+---
+
+### 2026-06-15 20:28:48  #公司 #國際
+
+【七國集團宣告草案呼籲加強協調 應對人工智慧的“潛在風險”】根據媒體看到的一份可能會加以修改的宣告草案，七國集團領導人將“進一步討論人工智慧帶來的新興機遇和潛在風險，尤其是在金融領域”。法國總統馬克龍本週將在法國阿爾卑斯山小鎮Evian主持七國集團領導人會議。鑑於與美國在貿易、氣候等問題上存在分歧，就公報達成共識不再是優先事項。焦點反而一直是讓美國總統唐納德·特朗普能夠出席。這份草案基本上擱置了有爭議的話題，不過確實著重談到了人工智慧，呼籲加強協調。七國集團展開這場討論之際，美國政府已表示，願意動用非常權力，迫使人工智慧開發商按其要求處理潛在安全威脅，但6月份的一項行政令宣佈不會強制要求遵守。
+
+---
+
+### 2026-06-15 20:28:46  #MKT News
+
+U.S. Vice President Vance hopes to release the agreement text this week.
+
+---
+
+### 2026-06-15 20:28:31  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
+
+【Macron rejects repeal of French digital services tax after Trump threatens wine tariffs】French President Emmanuel Macron said France will not repeal its digital services tax, noting it has been adopted by several European countries and is part of French law: "This digital tax is a policy that several European countries have already decided and implemented, and it is part of our law. It is not for the United States to decide European or French law — that's normal. At least as long as I remain in office, that will not change." The comments came at the G7 in Evian after former U.S. President Donald Trump warned he would impose 100% tariffs on French wine if France does not cancel the levy.
+
+---
+
+### 2026-06-15 20:28:28  #MKT News
+
+U.S. Vice President Vance said some people in Israel welcome the agreement.
+
+---
+
+### 2026-06-15 20:28:13  #國際
+
+萬斯：認為以色列內部有部分勢力支援該協議。
+
+---
+
+### 2026-06-15 20:27:44  #公司
+
+【加拿大支付服務商Nuvei以27.5億美元收購Payoneer派安盈】加拿大支付服務商Nuvei與Payoneer派安盈宣佈，雙方已達成最終協議，Nuvei將收購Payoneer派安盈。根據協議條款，Nuvei將以每股7.40美元現金收購Payoneer Global Inc.全部已發行且流通在外的普通股，本次交易的股權價值總額約為27.5億美元。據瞭解，合併後的公司將為企業提供一個統一的平臺，支援在190多個國家和地區接收、持有並管理資金。隨著交易完成，合併後的公司年收入將達到30億美元左右，年處理支付交易總額超過5000億美元，併為240多萬客戶提供服務。
+
+---
+
+### 2026-06-15 20:27:20  #國際
+
+美國副總統萬斯：（關於伊朗）我們將觀察德黑蘭願意在哪些方面做出讓步。美國正與伊朗體制內的各方接觸。
+
+---
+
+### 2026-06-15 20:27:13  #MKT News
+
+U.S. Vice President Vance said the U.S. is engaging with parties within Iran's establishment.
 
 ---
 
@@ -21086,65 +21212,5 @@ ISRAELI MILITARY: Alerts activated in the Eilat region of southern Israel amid c
 ### 2026-06-14 08:19:35  #其他
 
 【暴雨黃色預警持續，交通運輸部維持強降雨三級防禦響應】6月14日，交通運輸部影片排程廣東、廣西、福建、江西、雲南、內蒙古、吉林、遼寧省（區）交通運輸主管部門和廣東、廣西海事局，要求保持高度警惕，緊盯強降雨密集地區和連續降雨高風險區域，加強排程，完善工作機制，壓實各方責任，督促“響應、巡查、管控”主動防禦措施落實，堅決防範遏制重特大事故發生。要切實做好連續降雨防範應對工作，落實排查、巡查措施，確保力量預置、主動管控到位。交通運輸部將根據暴雨預警變化，及時調整防禦響應等級。
-
----
-
-### 2026-06-14 08:06:24  #其他
-
-【巴西戰平摩洛哥】世界盃小組賽C組第1輪，巴西對陣摩洛哥。上半場比賽，摩洛哥率先取得進球，隨後維尼修斯內切爆射得分，巴西1-1追平比分。下半場，雙方均未進球，打成平手。（央視新聞）
-
----
-
-### 2026-06-14 08:05:15  #MKT News #XAUUSD #Impact bullish #WTI
-
-【US military drafted May plan to seize Iran's enriched uranium; Trump declined】US military drew up in May a plan to send ground forces into Iran to seize enriched uranium stocks buried in underground tunnels at nuclear sites including Isfahan and Natanz. The plan stalled and the military began drafting a new removal option. Chairman of the Joint Chiefs of Staff Dan Keane returned urgently to U.S. Central Command on May 19 for a briefing and later reported the plan to President Trump. After warnings the operation could prompt strong Iranian retaliation, prolong conflict and exacerbate global economic disruption, Trump did not approve it. U.S. military assessment rated the operation's acceptable risk as "high" to "very high," indicating substantial U.S. casualties even if the mission succeeded.
-
----
-
-### 2026-06-14 08:02:55  #宏觀 #公司
-
-【劣質迪卡儂貨倉已被查封】近日，記者接到大量消費者買到迪卡儂劣質產品的舉報線索。記者在一些電商平臺以“迪卡儂”為關鍵詞搜尋，發現大量商家在商品標題或頁面中標註“迪小儂”等近似字樣，刻意模仿官方品牌，誤導消費者以為是迪卡儂官方店鋪。這些產品價格普遍比實體店便宜數十元至上百元不等。 記者6月10日就崑山市店鋪進行實地探訪，發現發貨地位於一個名為“威人科技產業園”的園區，崑山柒源體育用品有限公司位於其中一棟的6層。記者到訪時，整層辦公室已被崑山市市場監管局貼上了查封封條，但封條有明顯的撕毀痕跡，大門內裡面已無人辦公。 記者從知情人士處瞭解到，該店鋪因銷售大量劣質產品已被當地監管部門查封。該商家採取多店同步發貨的模式，日發貨量高達上千單。由於貨源質量問題突出，消費者退貨量極大。 有部分消費者告訴記者，迪卡儂事件爆發後，相關店鋪已無法取得聯絡，退貨請求無人受理。記者以消費者的身份致電當地市場監督管理局，工作人員表示，在店鋪被投訴後，市監局第一時間對現場進行了查封，公司相關人員已移交公安。不過這批貨物究竟是否為假貨仍有待進一步檢測。（藍鯨新聞）
-
----
-
-### 2026-06-14 08:02:02  #公司
-
-加拿大航空公司與國際機械師和航空航天工人協會就新合同達成初步協議。
-
----
-
-### 2026-06-14 08:01:44  #MKT News
-
-Congo authorities say confirmed Ebola cases have risen to 710.
-
----
-
-### 2026-06-14 07:55:57  #其他
-
-【今天下午至傍晚北京有分散性雷陣雨 明後天仍多雷陣雨】今天（6月14日）下午至傍晚，北京西部、北部有分散性雷陣雨，明後天仍多雷陣雨天氣，公眾外出需帶好雨具。未來三天，北京最高氣溫將保持在30℃上下，體感微熱，需注意補水降溫。（央視新聞）
-
----
-
-### 2026-06-14 07:52:27  #公司 #國際
-
-【Waymo以2.2億美元收購蘋果旗下亞利桑那州測試場，擴充自動駕駛測試網路】據美國亞利桑那州馬里科帕縣檔案顯示，Waymo已收購位於亞利桑那州威特曼的一處佔地5500英畝的測試場，賣方為與蘋果相關的特拉華空殼公司，交易金額為2.2億美元，已於6月5日完成登記。該場地包含一座佔地115英畝的城市道路測試區、35英畝車輛動態測試區、四英里橢圓形賽道及專為自動駕駛測試設計的高速公路場景。該場地此前為蘋果於2021年以1.25億美元購入，原為菲亞特克萊斯勒測試基地，用於測試蘋果“Titan計劃”原型車。該專案已於2024年初在耗費數十億美元后宣告終止。
-
----
-
-### 2026-06-14 07:31:55  #公司
-
-【蔚來李斌：中國車企正在從單點競爭進入體系競爭】6月13日，在2026中國汽車重慶論壇上，蔚來創始人、董事長、CEO李斌表示，目前整個中國汽車行業的競爭，正式從單點競爭，開始進入到體系競爭階段。他分析，以前透過“一招鮮”，譬如某種動力形式，或是配置上的“冰箱、彩電、大沙發”，亦或是某一款產品的熱銷，就能讓整個企業獲得很好的發展勢能。但此刻，比拼的除了是否具有精準的產品定義能力，還要求各家主機廠在技術儲備，包括在供應鏈、成本控制、質量、製造、銷售服務等方面，加之品牌層面，具備一個完整的體系競爭能力。
-
----
-
-### 2026-06-14 07:30:38  #公司 #國際
-
-【“新海通801”輪在地中海救起41名遇險人員】近日，埃及海上搜救中心向中國海上搜救中心發來感謝信。信中對福建海通發展股份有限公司所屬中國香港籍船舶“新海通801”輪在地中海海域成功救助41名遇險人員的英勇事蹟給予高度評價，並對中國船員展現出的非凡勇氣、專業素養與人道主義精神致以崇高敬意。（中國駐埃及大使館）
-
----
-
-### 2026-06-14 07:24:13  #其他
-
-【卡達補時絕平瑞士，收穫隊史首個世界盃積分】北京時間6月14日，2026年美加墨世界盃小組賽B組首輪在舊金山灣區球場進行，卡達隊對戰瑞士隊。最終，卡達1-1戰平瑞士。上半場卡達隊禁區內犯規，瑞士隊收穫本屆世界盃首個點球，恩博洛一蹴而就，瑞士1-0卡達。下半場補時第4分鐘，卡達隊扈希頭球破門，卡達隊將比分扳成1-1。之後比賽雙方再無建樹，憑藉扈希的絕平頭球，卡達1-1戰平瑞士，拿到隊史世界盃首個積分。
 
 ---

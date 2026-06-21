@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-21 07:20:59_
-_本檔包含 3116 則快訊，約 652903 字_
+_更新時間：2026-06-21 08:06:41_
+_本檔包含 3120 則快訊，約 652988 字_
+
+---
+
+### 2026-06-17 21:09:49  #MKT News
+
+Dubai Media Office said the Dubai Financial Market's total market capitalization surpassed 1 trillion dirhams.
+
+---
+
+### 2026-06-17 21:09:46  #國際
+
+【汽油短缺風險加劇，俄羅斯據悉將透過海運進口汽油】業內訊息人士表示，在煉油廠遭受大規模無人機襲擊後，俄羅斯正試圖應對汽油短缺問題，並計劃於本月透過海運進口燃料。對於全球最大石油和成品油出口國之一的俄羅斯而言，這是一次罕見舉動。俄羅斯預計將在6月透過其西部一座港口接收一船汽油貨物。俄羅斯今年的國內供應受到持續數月烏克蘭無人機襲擊的制約，烏克蘭持續打擊俄羅斯煉油廠、輸油管道和燃料儲存設施。最近遭襲的設施包括塔涅科煉油廠和莫斯科煉油廠，兩家工廠均因此暫停加工業務。訊息人士表示，由於物流問題和價格高企，透過海運進口可能也只是臨時措施，不太可能提供大量供應。
+
+---
+
+### 2026-06-17 21:09:30  #其他
+
+迪拜媒體辦公室：迪拜金融市場總市值突破1萬億迪拉姆。
+
+---
+
+### 2026-06-17 21:09:30  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Gasoline shortage risk rises as Russia plans sea import】Russia, hit by months of Ukrainian drone strikes on refineries, pipelines and storage, plans to receive a cargo of gasoline by sea at a western port in June, industry sources said. The move is rare for one of the world’s largest crude and refined-product exporters. Recent strikes forced the TANECO and Moscow refineries to suspend processing. Sources said sea imports are likely a temporary, limited fix due to logistics constraints and elevated prices.
+
+---
+
+### 2026-06-17 21:09:23  #公司
+
+【紫光國微：實施權益分派期間“國微轉債”將暫停轉股】紫光國微公告稱，公司於2026年5月11日透過《2025年度利潤分配方案》，近日將實施權益分派。“國微轉債”轉股期為2021年12月17日至2027年6月9日，自2026年6月22日起至本次權益分派股權登記日止，可轉債將暫停轉股，股權登記日後的第一個交易日起恢復轉股。暫停轉股期間，可轉債正常交易。
+
+---
+
+### 2026-06-17 21:09:03  #公司
+
+七國集團領導人釋出關於兒童網路安全的宣告。
+
+---
+
+### 2026-06-17 21:08:55  #MKT News
+
+G7 leaders issued a joint statement on child online safety.
+
+---
+
+### 2026-06-17 21:08:40  #公司
+
+【國瓷材料：多層陶瓷基板尚在與客戶聯合研發 未產生批次訂單】國瓷材料(300285)6月17日釋出股票交易異動公告稱，近期資本市場關注的多層陶瓷基板，主要用於AI資料中心。目前公司產品尚在與客戶聯合研發過程中，尚未產生批次訂單，後續專案驗證是否達到要求，能否實現批次生產存在不確定性，未來亦存在技術研發進度不及預期的風險。
+
+---
+
+### 2026-06-17 21:08:23  #MKT News
+
+G7 leaders urged coordinated action to address global imbalances.
+
+---
+
+### 2026-06-17 21:08:17  #市場 #觀點 #國際
+
+美國銀行聘請摩根士丹利的黃金專家擔任歐洲、中東和非洲地區FIG團隊聯席主管。
+
+---
+
+### 2026-06-17 21:08:04  #國際
+
+印度政府告知法院：Telegram曾被多次要求修正其系統。
+
+---
+
+### 2026-06-17 21:07:59  #MKT News
+
+G7 leaders reaffirm existing exchange-rate commitment.
+
+---
+
+### 2026-06-17 21:07:48  #MKT News #Market Themes #Magnificent 7
+
+G7 leaders issued a statement on sustainable growth.
+
+---
+
+### 2026-06-17 21:07:39  #公司
+
+七國集團領導人：我們重申現行七國集團匯率承諾。
+
+---
+
+### 2026-06-17 21:07:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Angola plans to raise crude oil exports to 1.09 mln bpd in August.
+
+---
+
+### 2026-06-17 21:07:17  #央行 #國際
+
+歐洲央行管委斯萊普恩：不確定性依然較高。通脹預期需要密切關注。市場預期石油價格將走低，但不確定性依然存在。家庭價格預期不再那麼牢固。油價尚未達到最初擔憂的水平。
+
+---
+
+### 2026-06-17 21:06:57  #MKT News
+
+ECB executive board member Sleijpen said the ECB must look beyond the short-term impact of shocks.
+
+---
+
+### 2026-06-17 21:06:52  #MKT News #Commodities #Energy #Brent #WTI
+
+ECB Governing Council member Sleijpen said oil prices have not yet reached levels that initially raised concern.
+
+---
+
+### 2026-06-17 21:06:47  #央行 #其他
+
+智利央行預計2027年全年通脹率為3.2%，此前預估為3.0%。
+
+---
+
+### 2026-06-17 21:06:42  #央行 #其他
+
+智利央行表示，全球金融環境持續呈現波動態勢。
+
+---
+
+### 2026-06-17 21:06:21  #其他
+
+G7領導人呼籲採取協調行動應對全球失衡問題。
+
+---
+
+### 2026-06-17 21:06:07  #公司
+
+谷歌：全新谷歌家庭音響，首款為Gemini打造的音訊裝置，現已接受預訂，將於6月25日上市，售價99.99美元。
+
+---
+
+### 2026-06-17 21:06:05  #Trading Economics #Economy #Uzbekistan #Interest Rate #Importance 0
+
+Uzbekistan Keeps Key Rate Unchanged at 14% — The Central Bank of Uzbekistan kept its key policy rate unchanged at 14% at its June 2026 meeting, emphasizing the need to maintain tight monetary conditions. Annual inflation eased to 5.5% in May, largely reflecting the fading impact of the energy tariff increases introduced a year earlier. However, the latest tariff increases and rising transportation and production costs are expected to create short-term price pressures. Inflation is projected to reach around 6.5% by year-end, while longer-term expectations have improved. Economic activity remains strong, supported by robust growth in retail trade, services, tourism, and investment, as well as an acceleration in government spending in recent months. The economy is expected to expand by 7.0%–7.5% in 2026. Looking ahead, policy decisions will remain focused on bringing inflation back to its 5% target, safeguarding macroeconomic stability, and preserving the purchasing power of households.
+
+---
+
+### 2026-06-17 21:06:04  #MKT News
+
+ECB executive board member Sleijpen said household price expectations are no longer as firmly anchored.
+
+---
+
+### 2026-06-17 21:06:00  #MKT News
+
+ECB executive board member Sleijpen said second-round effects are the key issue for monetary policy.
 
 ---
 
@@ -18707,131 +18857,5 @@ G7 leaders urged multilateral development banks to promote wider use of risk‑s
 ### 2026-06-16 22:39:49  #國際
 
 【美聯邦調查局挫敗針對白宮格鬥賽的襲擊圖謀】美國福克斯新聞數字網16日報道，美國聯邦調查局聯合其他執法機構挫敗了一起針對14日在白宮南草坪舉行的格鬥賽的襲擊圖謀。報道援引知情官員的話說，截至15日，已有5人被拘捕，調查人員已確定23名涉嫌參與襲擊圖謀的人員。這些人員涉嫌計劃使用裝有爆炸物的無人機襲擊格鬥賽場附近的建築物，以迫使人群大規模疏散，並將人群引向事先部署的狙擊小組。他們還涉嫌策劃第二波衝擊白宮大門的行動。該官員說，聯邦調查局10日首次獲悉此威脅，並與合作伙伴共同努力，拘留了一名嫌疑人。調查人員在檢查嫌疑人的手機後發現，至少有20餘名加密通訊應用軟體“訊號”的使用者涉嫌討論將對白宮南草坪格鬥賽發動襲擊。報道稱，一名嫌疑人告訴調查人員，他們計劃的襲擊目標是“資本主義精英”“億萬富翁”和那些接受猶太人利益遊說團體“美國-以色列公共事務委員會”捐款的政治人物。聯邦調查局局長卡什·帕特爾證實，已有數人被拘留，涉嫌策劃的襲擊圖謀也被及時挫敗。美國總統特朗普和家人14日晚觀看了在白宮南草坪舉行的終極格鬥冠軍賽。該活動是紀念美國獨立250週年慶祝活動的一部分，恰逢特朗普80歲生日。福克斯新聞數字網稱，大約4300人到場觀賽。（新華社）
-
----
-
-### 2026-06-16 22:39:23  #其他
-
-加拿大皇家銀行：受美墨加協定不確定性影響，加拿大市場需求走弱。
-
----
-
-### 2026-06-16 22:39:14  #其他
-
-加拿大皇家銀行：受資本需求拉動，銀行資產負債表規模快速擴張。
-
----
-
-### 2026-06-16 22:39:04  #MKT News #CNH #Impact bullish #Copper #DXY #Impact bearish
-
-G7 leaders urged increased support for countries with sustainable debt profiles and credible reform agendas that have been crowded out of investment opportunities.
-
----
-
-### 2026-06-16 22:39:00  #公司
-
-七國集團領導人呼籲加大對兩類國家的支援：這些國傢俱備可持續債務水平與有力改革議程，但投資機會卻遭到排擠。
-
----
-
-### 2026-06-16 22:38:48  #國際
-
-加拿大皇家銀行：在美國經濟基本面更強的環境下，市場正加大風險資產配置。
-
----
-
-### 2026-06-16 22:38:36  #MKT News
-
-U.S. health officials said the United States has committed more than $700 million to respond to the Ebola outbreak and urged other parties to contribute resources.
-
----
-
-### 2026-06-16 22:38:24  #國際
-
-美國衛生官員表示，美國已為應對此次埃博拉疫情投入逾7億美元，並呼籲其他國家提供資源支援。
-
----
-
-### 2026-06-16 22:38:24  #MKT News
-
-G7 leaders said they will step up efforts to address global debt vulnerabilities.
-
----
-
-### 2026-06-16 22:38:15  #國際
-
-【歐洲議會批准美歐貿易協議 為最終生效掃清障礙】歐盟與美國的貿易協議在獲得歐洲議會的最終批准後已接近實施，儘管跨大西洋貿易緊張局勢持續存在，歐盟仍在推進該協定。歐洲議會週二以440票贊成、151票反對、50票棄權的結果批准了該協議。此次表決透過距離美國總統唐納德·特朗普再次發出關稅威脅僅過去數日，這位美國領導人最近因法國的數字監管規定而向該國施壓。預計歐盟成員國將在6月26日給予最終批准，這將為這項歷經一年、過程頗為波折的批准程式畫上句號。歐洲議會貿易委員會主席Bernd Lange在X平臺發文稱：“在相當大的壓力下，我們爭取到了重要保障措施，確保歐洲利益不偏離軌道。”貿易協議的透過或許能讓歐洲暫時擺脫特朗普的怒火。特朗普此前威脅稱，如果歐盟未能在7月4日前批准該協議，美國將對歐盟汽車徵收更高關稅。不過，美歐關係遠未達到穩固狀態，雙方在金屬關稅和科技監管方面仍存在未解決分歧，相關爭議隨時可能再次升級。歐盟貿易專員Maros Sefcovic在X平臺發文稱，此次表決“是一個重要里程碑——歐盟兌現了承諾”。
-
----
-
-### 2026-06-16 22:38:02  #公司
-
-七國集團領導人表示，將加大力度應對全球債務脆弱性問題。
-
----
-
-### 2026-06-16 22:37:19  #MKT News #Market Themes #AI Revolution
-
-RBC CEO McKay said artificial intelligence has driven an "insatiable demand" for capital.
-
----
-
-### 2026-06-16 22:36:59  #其他
-
-加拿大皇家銀行：人工智慧催生市場對資本 “永無止境的需求”。
-
----
-
-### 2026-06-16 22:36:55  #MKT News #Market Regions #Greater China #3690.HK #Impact bearish #BABA.N #JD.O
-
-【Shenzhen regulator summons Meituan, Taobao Flash and JD Waimai after June 15 'ghost delivery' food‑safety probe】Shenzhen Market Supervision Bureau summoned heads of local operations for Meituan, Taobao Flash and JD Waimai after a June 15 unified enforcement action uncovered prominent food‑safety issues tied to 'ghost deliveries'. The bureau served a formal Reminder and Urging Letter requiring platforms to fulfil primary food‑safety responsibilities, strictly vet merchant onboarding, conduct on‑site verification of stores and licenses, prohibit unlicensed, shared or forged credentials and cross‑store subcontracted processing, establish routine risk‑screening mechanisms and take measures to prevent a recurrence.
-
----
-
-### 2026-06-16 22:36:23  #其他
-
-馬斯克：想到如果我們能將太陽能量的僅僅百萬分之一用於人工智慧，其所蘊含的智慧將超過全人類總智慧的百萬倍，這不禁讓人感到自身的渺小。
-
----
-
-### 2026-06-16 22:36:12  #公司
-
-【長光華芯：200G EML晶片處於客戶驗證階段】長光華芯在互動平臺表示，公司200G EML晶片尚處於客戶驗證階段，100G EML晶片在持續批次交付。
-
----
-
-### 2026-06-16 22:36:12  #MKT News #Market Themes #AI Revolution
-
-Musk said if just one‑millionth of solar energy were devoted to AI, the resulting intelligence would be one million times greater than all human intelligence, underscoring human smallness.
-
----
-
-### 2026-06-16 22:35:42  #行業 #公司 #其他 #焦點
-
-【深圳市市場監督管理局集中約談美團、淘寶閃購和京東外賣平臺】針對6月15日全市打擊“幽靈外賣”統一執法行動發現的網路餐飲食品安全突出問題，深圳市市場監督管理局依法對美團、淘寶閃購、京東外賣三家網路餐飲平臺駐深運營機構負責人進行約談，現場送達《嚴格落實網路餐飲平臺食品安全主體責任提醒敦促函》。約談強調，平臺必須落實食品安全主體責任，從嚴稽核入網資質，實地核驗門店與證照資訊，嚴禁無證、套證、假證商戶上線，嚴禁跨店委託加工，健全常態化風險排查機制，自覺踐行社會責任，堅決防範“幽靈外賣”亂象反彈，切實築牢網路餐飲食品安全防線，全力守護市民群眾“舌尖上的安全”。
-
----
-
-### 2026-06-16 22:35:39  #其他
-
-加拿大皇家銀行：市場當前呈現風險偏好升溫態勢。
-
----
-
-### 2026-06-16 22:34:35  #市場 #觀點 #國際
-
-【花旗：美股資金流向整體擴容，但納斯達克持倉風險仍存】上週美股各類資產持倉規模普遍擴張，不過花旗警示，納斯達克市場過度集中的多頭敞口仍是核心風險。小盤股迎來大額資金流入，納斯達克的上漲則由空頭回補與新增多頭頭寸推動。歐洲市場情緒轉好，投資者持續買入歐洲斯托克 600 指數、德國 DAX 指數與英國富時指數，但空頭持倉規模依舊偏高。亞洲資金流向分化偏弱，恒生指數資金持續流出，韓國綜合指數再度遭遇空頭打壓。
-
----
-
-### 2026-06-16 22:33:05  #觀點
-
-【摩根大通：與AI相關的債券發行預計未來數年將保持火熱】摩根大通分析師寫道，為AI和資料中心融資的債券發行可能會保持火熱。摩根大通表示，貸款平均佔專案成本的85%，這一高比例可能會推動到2030年底的總AI支出達到5.5萬億美元，其中4.1萬億美元由債務融資。預計發債人將利用各國“每一個資本市場“來支援其增長需求。頂級企業或超大規模雲服務提供商的盈利能力足以在發行量不斷增加的情況下讓投資者保持冷靜。摩根大通懷疑，他們現在大舉借款是為了保留大量現金，以防經濟惡化和借貸成本飆升。
-
----
-
-### 2026-06-16 22:33:02  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7
-
-【Forbes: Elon Musk briefly hits $1.4 trillion net worth】Forbes' latest global billionaires list shows Elon Musk's net worth briefly rose to $1.4 trillion, a record high. SpaceX rallied more than 15% earlier.
 
 ---

@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 07:20:59_
-_本檔包含 3523 則快訊，約 652744 字_
+_更新時間：2026-06-21 08:06:41_
+_本檔包含 3523 則快訊，約 653149 字_
+
+---
+
+### 2026-06-16 22:39:23  #其他
+
+加拿大皇家銀行：受美墨加協定不確定性影響，加拿大市場需求走弱。
+
+---
+
+### 2026-06-16 22:39:14  #其他
+
+加拿大皇家銀行：受資本需求拉動，銀行資產負債表規模快速擴張。
+
+---
+
+### 2026-06-16 22:39:04  #MKT News #CNH #Impact bullish #Copper #DXY #Impact bearish
+
+G7 leaders urged increased support for countries with sustainable debt profiles and credible reform agendas that have been crowded out of investment opportunities.
+
+---
+
+### 2026-06-16 22:39:00  #公司
+
+七國集團領導人呼籲加大對兩類國家的支援：這些國傢俱備可持續債務水平與有力改革議程，但投資機會卻遭到排擠。
+
+---
+
+### 2026-06-16 22:38:48  #國際
+
+加拿大皇家銀行：在美國經濟基本面更強的環境下，市場正加大風險資產配置。
+
+---
+
+### 2026-06-16 22:38:36  #MKT News
+
+U.S. health officials said the United States has committed more than $700 million to respond to the Ebola outbreak and urged other parties to contribute resources.
+
+---
+
+### 2026-06-16 22:38:24  #國際
+
+美國衛生官員表示，美國已為應對此次埃博拉疫情投入逾7億美元，並呼籲其他國家提供資源支援。
+
+---
+
+### 2026-06-16 22:38:24  #MKT News
+
+G7 leaders said they will step up efforts to address global debt vulnerabilities.
+
+---
+
+### 2026-06-16 22:38:15  #國際
+
+【歐洲議會批准美歐貿易協議 為最終生效掃清障礙】歐盟與美國的貿易協議在獲得歐洲議會的最終批准後已接近實施，儘管跨大西洋貿易緊張局勢持續存在，歐盟仍在推進該協定。歐洲議會週二以440票贊成、151票反對、50票棄權的結果批准了該協議。此次表決透過距離美國總統唐納德·特朗普再次發出關稅威脅僅過去數日，這位美國領導人最近因法國的數字監管規定而向該國施壓。預計歐盟成員國將在6月26日給予最終批准，這將為這項歷經一年、過程頗為波折的批准程式畫上句號。歐洲議會貿易委員會主席Bernd Lange在X平臺發文稱：“在相當大的壓力下，我們爭取到了重要保障措施，確保歐洲利益不偏離軌道。”貿易協議的透過或許能讓歐洲暫時擺脫特朗普的怒火。特朗普此前威脅稱，如果歐盟未能在7月4日前批准該協議，美國將對歐盟汽車徵收更高關稅。不過，美歐關係遠未達到穩固狀態，雙方在金屬關稅和科技監管方面仍存在未解決分歧，相關爭議隨時可能再次升級。歐盟貿易專員Maros Sefcovic在X平臺發文稱，此次表決“是一個重要里程碑——歐盟兌現了承諾”。
+
+---
+
+### 2026-06-16 22:38:02  #公司
+
+七國集團領導人表示，將加大力度應對全球債務脆弱性問題。
+
+---
+
+### 2026-06-16 22:37:19  #MKT News #Market Themes #AI Revolution
+
+RBC CEO McKay said artificial intelligence has driven an "insatiable demand" for capital.
+
+---
+
+### 2026-06-16 22:36:59  #其他
+
+加拿大皇家銀行：人工智慧催生市場對資本 “永無止境的需求”。
+
+---
+
+### 2026-06-16 22:36:55  #MKT News #Market Regions #Greater China #3690.HK #Impact bearish #BABA.N #JD.O
+
+【Shenzhen regulator summons Meituan, Taobao Flash and JD Waimai after June 15 'ghost delivery' food‑safety probe】Shenzhen Market Supervision Bureau summoned heads of local operations for Meituan, Taobao Flash and JD Waimai after a June 15 unified enforcement action uncovered prominent food‑safety issues tied to 'ghost deliveries'. The bureau served a formal Reminder and Urging Letter requiring platforms to fulfil primary food‑safety responsibilities, strictly vet merchant onboarding, conduct on‑site verification of stores and licenses, prohibit unlicensed, shared or forged credentials and cross‑store subcontracted processing, establish routine risk‑screening mechanisms and take measures to prevent a recurrence.
+
+---
+
+### 2026-06-16 22:36:23  #其他
+
+馬斯克：想到如果我們能將太陽能量的僅僅百萬分之一用於人工智慧，其所蘊含的智慧將超過全人類總智慧的百萬倍，這不禁讓人感到自身的渺小。
+
+---
+
+### 2026-06-16 22:36:12  #公司
+
+【長光華芯：200G EML晶片處於客戶驗證階段】長光華芯在互動平臺表示，公司200G EML晶片尚處於客戶驗證階段，100G EML晶片在持續批次交付。
+
+---
+
+### 2026-06-16 22:36:12  #MKT News #Market Themes #AI Revolution
+
+Musk said if just one‑millionth of solar energy were devoted to AI, the resulting intelligence would be one million times greater than all human intelligence, underscoring human smallness.
+
+---
+
+### 2026-06-16 22:35:42  #行業 #公司 #其他 #焦點
+
+【深圳市市場監督管理局集中約談美團、淘寶閃購和京東外賣平臺】針對6月15日全市打擊“幽靈外賣”統一執法行動發現的網路餐飲食品安全突出問題，深圳市市場監督管理局依法對美團、淘寶閃購、京東外賣三家網路餐飲平臺駐深運營機構負責人進行約談，現場送達《嚴格落實網路餐飲平臺食品安全主體責任提醒敦促函》。約談強調，平臺必須落實食品安全主體責任，從嚴稽核入網資質，實地核驗門店與證照資訊，嚴禁無證、套證、假證商戶上線，嚴禁跨店委託加工，健全常態化風險排查機制，自覺踐行社會責任，堅決防範“幽靈外賣”亂象反彈，切實築牢網路餐飲食品安全防線，全力守護市民群眾“舌尖上的安全”。
+
+---
+
+### 2026-06-16 22:35:39  #其他
+
+加拿大皇家銀行：市場當前呈現風險偏好升溫態勢。
+
+---
+
+### 2026-06-16 22:34:35  #市場 #觀點 #國際
+
+【花旗：美股資金流向整體擴容，但納斯達克持倉風險仍存】上週美股各類資產持倉規模普遍擴張，不過花旗警示，納斯達克市場過度集中的多頭敞口仍是核心風險。小盤股迎來大額資金流入，納斯達克的上漲則由空頭回補與新增多頭頭寸推動。歐洲市場情緒轉好，投資者持續買入歐洲斯托克 600 指數、德國 DAX 指數與英國富時指數，但空頭持倉規模依舊偏高。亞洲資金流向分化偏弱，恒生指數資金持續流出，韓國綜合指數再度遭遇空頭打壓。
+
+---
+
+### 2026-06-16 22:33:05  #觀點
+
+【摩根大通：與AI相關的債券發行預計未來數年將保持火熱】摩根大通分析師寫道，為AI和資料中心融資的債券發行可能會保持火熱。摩根大通表示，貸款平均佔專案成本的85%，這一高比例可能會推動到2030年底的總AI支出達到5.5萬億美元，其中4.1萬億美元由債務融資。預計發債人將利用各國“每一個資本市場“來支援其增長需求。頂級企業或超大規模雲服務提供商的盈利能力足以在發行量不斷增加的情況下讓投資者保持冷靜。摩根大通懷疑，他們現在大舉借款是為了保留大量現金，以防經濟惡化和借貸成本飆升。
+
+---
+
+### 2026-06-16 22:33:02  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7
+
+【Forbes: Elon Musk briefly hits $1.4 trillion net worth】Forbes' latest global billionaires list shows Elon Musk's net worth briefly rose to $1.4 trillion, a record high. SpaceX rallied more than 15% earlier.
 
 ---
 
@@ -21115,131 +21241,5 @@ United States | New York Fed Employment Index (Jun) | actual 9.6 | previous 8.3
 ### 2026-06-15 20:30:17  #國際
 
 黎巴嫩真主黨：伊朗協議是以色列完全撤退的前奏。
-
----
-
-### 2026-06-15 20:30:11  #MKT News #DXY #Impact bearish
-
-Canada April manufacturing shipments m/m +4.2% (consensus +4.5%; prior +3.0%).
-
----
-
-### 2026-06-15 20:30:10  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish
-
-Canada wholesale sales rose 0.6% MoM in April, stronger than the 0.1% consensus; prior month 1.9%.
-
----
-
-### 2026-06-15 20:30:10  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #US10Y #Impact bullish
-
-US New York Fed manufacturing index for June 5.7, versus 14 expected and 19.6 prior.
-
----
-
-### 2026-06-15 20:30:02  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-HEZBOLLAH says Iran accord is a prelude to Israel's complete withdrawal.
-
----
-
-### 2026-06-15 20:30:02  #MKT News #Economic Calendar #Important
-
-Canada | Wholesale Sales (MoM) (Apr) | actual 0.6% | consensus 0.1% | previous 1.90%
-
----
-
-### 2026-06-15 20:30:02  #MKT News #Economic Calendar #Important
-
-Canada | Manufacturing Sales (MoM) (Apr) | actual 4.2% | consensus 4.50% | previous 3.00%
-
----
-
-### 2026-06-15 20:30:00  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Manufacturing Index (Jun) | actual 5.7 | consensus 14 | previous 19.6
-
----
-
-### 2026-06-15 20:29:51  #MKT News
-
-U.S. Vice President Vance said Israel will have a voice.
-
----
-
-### 2026-06-15 20:29:48  #MKT News
-
-U.S. Vice President Vance said on Iran that Israel will certainly have a place in the new Middle East order.
-
----
-
-### 2026-06-15 20:29:32  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Iran to charge for shipping services related to Strait of Hormuz】Iranian media reported on the 15th that foreign ministry spokesman Baghaei said Iran will, during 'specific periods', assume responsibility for managing safe passage through the Strait of Hormuz and will charge for related shipping services.
-
----
-
-### 2026-06-15 20:29:29  #焦點 #國際
-
-【伊朗：將對霍爾木茲海峽相關航運服務收費】據伊朗媒體15日報道，伊朗外交部發言人巴加埃當天表示，伊朗將在“特定時期內”負責霍爾木茲海峽安全通行管理，並將對相關航運服務收取費用。（新華社）
-
----
-
-### 2026-06-15 20:29:16  #國際
-
-萬斯談及伊朗問題：以色列肯定會在新中東格局中佔有一席之地。
-
----
-
-### 2026-06-15 20:29:08  #其他
-
-萬斯：希望本週公佈協議文字。
-
----
-
-### 2026-06-15 20:28:48  #公司 #國際
-
-【七國集團宣告草案呼籲加強協調 應對人工智慧的“潛在風險”】根據媒體看到的一份可能會加以修改的宣告草案，七國集團領導人將“進一步討論人工智慧帶來的新興機遇和潛在風險，尤其是在金融領域”。法國總統馬克龍本週將在法國阿爾卑斯山小鎮Evian主持七國集團領導人會議。鑑於與美國在貿易、氣候等問題上存在分歧，就公報達成共識不再是優先事項。焦點反而一直是讓美國總統唐納德·特朗普能夠出席。這份草案基本上擱置了有爭議的話題，不過確實著重談到了人工智慧，呼籲加強協調。七國集團展開這場討論之際，美國政府已表示，願意動用非常權力，迫使人工智慧開發商按其要求處理潛在安全威脅，但6月份的一項行政令宣佈不會強制要求遵守。
-
----
-
-### 2026-06-15 20:28:46  #MKT News
-
-U.S. Vice President Vance hopes to release the agreement text this week.
-
----
-
-### 2026-06-15 20:28:31  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
-
-【Macron rejects repeal of French digital services tax after Trump threatens wine tariffs】French President Emmanuel Macron said France will not repeal its digital services tax, noting it has been adopted by several European countries and is part of French law: "This digital tax is a policy that several European countries have already decided and implemented, and it is part of our law. It is not for the United States to decide European or French law — that's normal. At least as long as I remain in office, that will not change." The comments came at the G7 in Evian after former U.S. President Donald Trump warned he would impose 100% tariffs on French wine if France does not cancel the levy.
-
----
-
-### 2026-06-15 20:28:28  #MKT News
-
-U.S. Vice President Vance said some people in Israel welcome the agreement.
-
----
-
-### 2026-06-15 20:28:13  #國際
-
-萬斯：認為以色列內部有部分勢力支援該協議。
-
----
-
-### 2026-06-15 20:27:44  #公司
-
-【加拿大支付服務商Nuvei以27.5億美元收購Payoneer派安盈】加拿大支付服務商Nuvei與Payoneer派安盈宣佈，雙方已達成最終協議，Nuvei將收購Payoneer派安盈。根據協議條款，Nuvei將以每股7.40美元現金收購Payoneer Global Inc.全部已發行且流通在外的普通股，本次交易的股權價值總額約為27.5億美元。據瞭解，合併後的公司將為企業提供一個統一的平臺，支援在190多個國家和地區接收、持有並管理資金。隨著交易完成，合併後的公司年收入將達到30億美元左右，年處理支付交易總額超過5000億美元，併為240多萬客戶提供服務。
-
----
-
-### 2026-06-15 20:27:20  #國際
-
-美國副總統萬斯：（關於伊朗）我們將觀察德黑蘭願意在哪些方面做出讓步。美國正與伊朗體制內的各方接觸。
-
----
-
-### 2026-06-15 20:27:13  #MKT News
-
-U.S. Vice President Vance said the U.S. is engaging with parties within Iran's establishment.
 
 ---

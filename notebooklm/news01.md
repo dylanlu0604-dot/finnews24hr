@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-21 07:20:59_
-_本檔包含 3866 則快訊，約 652985 字_
+_更新時間：2026-06-21 08:06:41_
+_本檔包含 3869 則快訊，約 653785 字_
+
+---
+
+### 2026-06-21 08:04:11  #其他
+
+【中國裁判組亮相2026世界盃】今天，美加墨世界盃E組第二輪，厄瓜多VS庫拉索。中國裁判馬寧、傅明、周飛在本場比賽一同亮相，同場執裁世界盃賽事。（央視新聞）
+
+---
+
+### 2026-06-21 08:03:40  #其他
+
+據英國國家電網資料，英國託內斯1號核反應堆在停運後已恢復併網執行。
+
+---
+
+### 2026-06-21 08:03:30  #MKT News #WTI #Impact mixed #Brent #XAUUSD #Impact bullish
+
+【U.S.-Iran technical talks due today; mixed signals over Strait of Hormuz closure】Following a June 18 memorandum of understanding, technical-level U.S.-Iran talks are scheduled in Switzerland on June 21, Pakistan said on June 20. Iran’s negotiating team has arrived in Switzerland and the U.S. vice president has departed to attend. On June 20 Iran’s military announced it was closing the Strait of Hormuz, citing U.S. failure to restrain Israel and alleged breaches of the MoU; the U.S. military said it had not detected any Iranian actions to close the waterway. President Trump on June 20 issued guidance on charging transit fees for passage through the strait.
+
+---
+
+### 2026-06-21 08:02:46  #MKT News
+
+Two killed and one wounded in a pre-dawn shooting outside a bar in West Haven, Connecticut early on the 20th, local police said.
+
+---
+
+### 2026-06-21 08:02:08  #MKT News
+
+【Cuba's foreign minister says US has no authority to judge Cuba's reforms】Cuba's foreign minister Rodriguez said on the 20th the US, which he described as the executor of collective punishment against the Cuban people, has no political, legal or moral authority to judge reforms Cuba adopts. He said the measures are based on national sovereignty and self-determination to counter the impact of "extreme economic pressure", that US views on how Cuba adapts to new domestic and international realities are "not important", and that Havana will continue to defend its sovereignty and oppose foreign interference.
+
+---
+
+### 2026-06-21 08:00:40  #公司 #央行 #國際
+
+【韓國央行罕見警告：儲存晶片景氣週期或推高通脹壓力】韓國央行罕見警告，儲存晶片景氣週期帶來的鉅額績效獎金，可能從半導體行業擴散至更廣泛領域，進而推高通脹壓力。隨著三星、SK海力士員工獎金巨幅增長，晶片廠周邊奢侈品消費已明顯升溫，新世界、樂天購物、現代百貨等零售股也被股民炒成“儲存概念股”。韓國央行目前預測，該國今年的整體通脹率可能會達到2.7%，遠高於2%的政策目標。因此，韓國央行7月或9月的政策會議，已經成為重要的加息視窗期。
+
+---
+
+### 2026-06-21 07:55:53  #宏觀 #國際
+
+【古巴外長稱美國無權評判古巴改革】古巴外長羅德里格斯20日表示，作為對古巴人民實施集體懲罰的執行者，美國政府沒有政治、法律或道義上的權威來評判古巴採取的改革措施。 羅德里格斯在社交媒體上說，古巴出臺的這些措施基於國家主權和自決權，以應對“極端經濟打壓”帶來的衝擊。對於古巴如何適應新的國內外現實，美國的看法“不重要”。他表示，古巴將繼續捍衛主權，同時堅決反對外國干涉。 羅德里格斯當天在另一篇帖文中指出，美國對古巴實施的全面封鎖，性質堪比“軍事封鎖”，並指責美方公開鼓動顛覆古巴憲法秩序，執意尋求對古巴進行軍事幹預。 古巴全國人民政權代表大會18日召開特別會議，審議並批准經濟和社會改革方案。該方案涵蓋23個領域共176項改革措施。美國國務院一名發言人19日在接受媒體採訪時表示，這些改革措施“幅度有限”。 美國長期對古巴實施經濟、金融封鎖和貿易禁運。今年相繼對委內瑞拉、伊朗發起軍事行動後，美國總統特朗普又對古巴發出威脅，稱“下一個是古巴”，並進一步加大對古巴施壓，實行石油封鎖。為應對美國持續施壓，古巴國家主席迪亞斯-卡內爾12日表示，古巴已確定一系列重點工作，涵蓋經濟社會發展、對外開放、能源轉型等領域。(新華社)
+
+---
+
+### 2026-06-21 07:55:35  #其他
+
+【崔東樹：5月乘用車市場一大特徵為總量承壓、結構性大分化】崔東樹發文分析，2026年5月乘用車市場的特徵：一、總量承壓、結構性大分化，“燃油冷、新能源熱”成最大焦點，國內零售下滑核心原因是“燃油崩塌”導致新能源零售滲透率62.9%（歷史新高），電動化替代速度超預期；二、合資品牌電動化轉型加速，5月主流合資新能源國內零售同比增51%，總體自主新能源增速-10%，別克（新能源佔比45%）等合資品牌轉型新能源初見效果。；三、出口爆發式增長，出口中新能源佔比54%（歷史新高），新能源+自主雙驅動，“出海”成核心增長引擎；四、被動去庫存特徵明顯、渠道庫存下降較快，上市經銷商全面虧損，經銷商生存壓力持續加大；五、自主品牌高階突破凸顯，20-30萬、30-40萬、40萬以上乘用車零售均超50%；六、微型電動車承壓，A級車萎縮，入門級消費亟待支援，經濟型電動車標準期待推出。
+
+---
+
+### 2026-06-21 07:52:22  #其他
+
+【崔東樹：5月車市核心特徵為燃油車內銷崩塌、新能源強勢主導、出口逆勢增長】崔東樹發文稱，5月車市核心特徵為燃油車內銷崩塌、新能源強勢主導、出口逆勢增長。國內車市下滑的核心誘因是燃油車在高油價衝擊下的銷量大幅萎縮，5月燃油車份額37%，但同比減量佔乘用車總減量的82%，拖累大盤走勢。高油價、消費轉型等因素加速“油電替代”過程，本月新能源零售滲透率持續突破60%達到62.9%的歷史高位。合資品牌電動化轉型加速，5月新能源合資車型銷量同比增51%，燃油車同比降41%。出口繼續保持行業核心增長引擎，5月新能源出口佔比54%創新高，但燃油車出口增46%的表現也很強，形成中國出海全面增長的超強世界表現。當前車市存量競爭特徵凸顯，行業內部分化持續加劇。新能源市場告別全域增長，呈現“高階電動車爆發、低端經濟型車型承壓”的兩極分化態勢，縣鄉市場、入門級車型下滑過大。同時“新車效應”短期化，對市場拉動效力大幅減弱。渠道端壓力持續凸顯，行業被動去庫存節奏加快，經銷商普遍虧損、經營風險攀升。整體而言，5月車市回暖僅為結構性修復，電動化迭代與海外出海已成為行業長期增長的核心支撐。
+
+---
+
+### 2026-06-21 07:51:04  #其他
+
+【中國公民免籤前往柬埔寨，這些事項需注意】中國駐柬埔寨大使館6月20日釋出關於中國公民免籤前往柬埔寨的領事提醒： 柬埔寨政府宣佈，自2026年6月15日至10月15日，持中華人民共和國普通護照人員無論自中國境內還是第三國出發，均可免簽入境柬埔寨。免籤期間可多次入境，單次停留不超過14天。入境旅客無需提前辦理簽證，僅需按要求填寫電子入境卡（E-ArrivalCard）即可辦理入境手續。
+
+---
+
+### 2026-06-21 07:43:33  #公司 #市場 #焦點 #國際
+
+【馬斯克拿下7800億元天價薪酬，2028年可兌現】日前，特斯拉向美國證券交易委員會（SEC）提交的檔案顯示，公司CEO埃隆·馬斯克已於6月16日兌現其2018年薪酬方案。馬斯克由此淨獲得約2.86億股特斯拉股票，賬面收益高達1160億美元（約合人民幣7854億元）。檔案顯示，馬斯克以拆分調整後的行權價每股23.34美元，行使3.04億股股票的期權。6月16日當天，特斯拉收盤價為每股404.66美元，價差達每股381.32美元，單筆交易賬面收益約1160億美元。按照實施協議約定，此次行權採取“淨額結算”方式，特斯拉扣留1753.19萬股股票（價值約71億美元）用於抵扣行權成本，相當於馬斯克淨獲得約2.86億股股票。值得注意的是，上述股票為限制性股票，需滿足服務年限要求，馬斯克預計於2028年方能出售這批股票。
+
+---
+
+### 2026-06-21 07:27:21  #公司
+
+【哈薩克加強邊境管控防止石油產品非法外運】哈薩克總理別克捷諾夫20日主持召開會議，研究外部因素影響下該國石油產品市場形勢。別克捷諾夫表示，維護國內石油產品市場穩定具有戰略意義，並下令有關部門加強邊境管控，防止石油產品非法外運。 哈能源部部長阿肯熱諾夫在會上表示，目前哈薩克煉油廠執行正常，汽油、柴油和航空燃油儲備超過100萬噸，可滿足當前國內消費需求。加油站供油、農業生產用油和本國航空公司用油被列為優先保障方向。（中國新聞網）
+
+---
+
+### 2026-06-21 07:23:02  #其他
+
+【“領福利”彈窗竟是境外間諜在蒐集情報！國家安全機關出手】“觀看廣告領取福利”“觀看廣告解鎖免費時長”……這些彈窗廣告在網路場景中十分常見。然而，國家安全機關工作發現，境外間諜情報機關正利用彈窗廣告開展情報蒐集、目標篩選和思想滲透等活動，對我國家安全構成威脅。目前，國家安全機關已依法責令有關網路平臺運營者立即停止為不明境外連結提供廣告推送服務，第一時間阻斷了潛在危害擴散。（央視新聞）
 
 ---
 
@@ -23256,65 +23334,5 @@ Ukraine Holds Policy Rate at 15% — The National Bank of Ukraine maintained its
 ### 2026-06-18 19:19:15  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
 
 UK 10-Year Gilt Yields Climb After BoE Holds Rates — UK 10-year gilt yields rose to 4.78%, recovering from two-month lows, as investors assessed the latest monetary policy decisions from the Bank of England and the US Federal Reserve, as well as the potential impact of the Makerfield by-election on Labour’s economic agenda. UK officials voted 7-2 to keep interest rates at 3.75%, highlighting uncertainty over the economic fallout from the Middle East energy shock. The BoE reaffirmed its commitment to addressing inflation, with Governor Andrew Bailey noting that pressures from the Iran conflict remain despite the ceasefire and prospective deal. The Monetary Policy Committee also forecasted a rise in inflation later this year due to higher energy costs but lowered its peak inflation estimate to 3.25% for Q4 2026, down from 3.6%. This follows the Fed’s decision to maintain rates, though nine of its 19 policymakers now anticipate at least one hike this year.
-
----
-
-### 2026-06-18 19:18:16  #公司
-
-【暢聯股份：控股股東擬變更為浦東資本 實控人未變】暢聯股份(603648)6月18日公告，上海市浦東新區國資委擬將其持有的公司9168.9萬股A股股份（作價4.71億元）透過非公開協議轉讓方式，注入上海浦東資本投資運營有限公司（簡稱“浦東資本”），作為對浦東資本的非貨幣出資。此次協議轉讓後，公司控股股東由浦東新區國資委變更為浦東資本，實控人未發生變化，仍為浦東新區國資委。
-
----
-
-### 2026-06-18 19:17:47  #央行 #資料 #市場 #國際
-
-【英國央行以7比2的投票結果維持利率不變 表示將密切關注中東局勢】英國央行將利率維持在3.75%，稱近期油價下跌“令人鼓舞”，儘管兩名政策制定者因擔心通脹持續，投票支援立即加息25個基點。外部成員Megan Greene加入4月份唯一持反對意見者、首席經濟學家Huw Pill的陣營，投票支援立即將利率上調至4%，理由是儘管美國和伊朗近期達成停火協議，價格前景仍不穩定。貨幣政策委員會維持其指引不變，並將今年第四季度通脹峰值預估下調至3.25%，低於其4月份預計的3.6%。“油價最近幾天有所下跌，這令人鼓舞，”行長安德魯·貝利在決議隨附的書面評論中說。在反映其個人觀點的段落中，他補充稱，“形勢仍然不可預測，能源價格顯然存在在較長時間內維持高位的風險。”會議紀要顯示，貨幣政策委員會一致認為，如果價格逐步走高，“適當的政策反應應當是有力的”；投票支援維持利率不變的七名成員警告稱，存在第二輪效應風險。英國央行正試圖在遏制通脹和支援增長之間取得平衡。通脹率為2.8%，高於該央行2%的目標，而失業率居高不下且GDP疲弱。該委員會強調，“需求和勞動力市場疲軟可能會削弱第二輪效應的強度。”英國央行宣佈決議前數小時公佈的官方資料顯示，自2月份伊朗戰爭爆發以來，已有6.4萬個工作崗位流失，私營部門常規薪資增速降至五年來最弱。貨幣政策委員會會議紀要稱，最新就業資料“與勞動力市場逐步放鬆相一致”。4月份國內生產總值下降0.1%，儘管該央行表示，其認為第一季度基礎增長率為0.2%，第二季度將保持在類似水平。美國和伊朗之間的停火協議緩解了投資者對通脹最悲觀情景的擔憂。油價本週三個月來首次跌破每桶80美元，低於每桶108美元的峰值。不過，由於60天停火協議的永續性存在不確定性，英國央行維持中性指引，即其將“繼續密切關注中東局勢”，並且“委員會已準備好在必要時採取行動，以確保CPI通脹保持在中期內達到2%目標的軌道”。
-
----
-
-### 2026-06-18 19:17:15  #公司
-
-【聖湘生物：持股5%以上股東部分股份被強制執行及擬再被執行】聖湘生物公告稱，股東陳文義名下251.9984萬股（佔總股本0.43%）於2025年12月16日至2026年3月16日被司法強制執行，當前持股3039.7386萬股，佔總股本5.25%。近日，陳文義名下397萬股（佔總股本0.68%）擬再次被司法強制執行，期限不晚於2027年12月30日，執行後其持股將降至2642.7386萬股，佔比4.56%。該事項不影響公司控制權穩定及日常經營。
-
----
-
-### 2026-06-18 19:16:56  #行業
-
-【乘聯分會：預計6月狹義乘用車零售市場規模約為165萬輛，環比增長9.3%】乘聯分會預計，6月車市將延續修復態勢，儘管宏觀消費疲軟，高溫淡季，5月末衝量透支等制約因素仍然存在，但以舊換新政策持續穩步發力，多款重磅新車集中上市，“端午“疊加”618“形成階段性促銷視窗，多重支撐下修復動能與5月基本持平。綜合判斷，6月車市將呈現“月初平穩、月末衝量“走勢。最新調研結果顯示，佔市場總銷量七成左右的頭部廠商，零售目標環比上月增長10%左右，半年度收官節點主動加力衝擊目標意願明確。結合終端表現初步推算，6月狹義乘用車零售市場規模約為165萬輛，環比增長9.3%。其中新能源零售量預計為105萬輛左右，環比增長10.5%，滲透率約63.6%。新能源與傳統燃油車分化持續拉大。
-
----
-
-### 2026-06-18 19:16:27  #國際
-
-【伊朗總統說伊美諒解備忘錄展現“相互尊重”】伊朗總統佩澤希齊揚18日在社交媒體發文說，伊朗和美國簽署的諒解備忘錄展現了“相互尊重”。佩澤希齊揚在帖文中寫道：“這是一份歷史性檔案，也是來自強大伊朗的資訊：和平將在相互尊重的環境中得以實現。”佩澤希齊揚還說，伊朗在維護自身尊嚴與獨立的同時，始終堅定致力於全球和平，並推動地區發展與合作。帖文同時配發了佩澤希齊揚和美國總統特朗普共同簽名的諒解備忘錄英文版文字。（新華社）
-
----
-
-### 2026-06-18 19:16:25  #MKT News
-
-【Pezeshkian says Iran-US memorandum demonstrates mutual respect】Iranian president Pezeshkian posted on social media on the 18th that a memorandum of understanding signed between Iran and the United States demonstrates mutual respect, calling it a historic document and uploading the English text signed by him and U.S. president Trump. Pezeshkian said Iran will defend its dignity and independence while remaining committed to global peace and promoting regional development and cooperation.
-
----
-
-### 2026-06-18 19:15:56  #MKT News
-
-【N. KOREA condemns G7's groundless political attacks】KCNA on June 18 reported Kim Yo Jong said the G7 is the main culprit undermining world peace and the international non-proliferation regime and has no right to comment on N. KOREA's sovereign choices. She said at the G7 summit in France the US and other Western countries launched groundless political attacks and expressed strong dissatisfaction and regret at what she called G7 actions that directly violate N. KOREA's constitution.
-
----
-
-### 2026-06-18 19:15:42  #其他
-
-巴西財長：我信任雅克斯・瓦格納參議員，相信他將有機會就馬斯特銀行相關調查作出必要說明。
-
----
-
-### 2026-06-18 19:15:11  #公司
-
-【棉襯衫製造巨頭溢達回應關閉寧波工廠】介面新聞獲悉，全球最大純棉襯衫製造商之一溢達集團近期關閉旗下寧波工廠（寧波溢達服裝有限公司）。溢達方面向介面新聞表示，該安排屬於公司正常經營管理調整，不影響溢達在中國區的持續運營及客戶服務能力。溢達集團1978年成立於香港，擁有從棉花種植到成衣零售的縱向一體化供應鏈。主要客戶包括Ralph Lauren、Tommy Hilfiger、Hugo Boss、Nike、無印良品等知名品牌。近年來受全球紡織業訂單轉移、成本上升等因素影響，業務開展被認為受到較大受到影響。
-
----
-
-### 2026-06-18 19:15:04  #公司
-
-【瀾起科技：目前正在積極推進PCIe 7.0 Retimer及PCIe Switch晶片的研發】瀾起科技今日在互動平臺表示，目前，公司PCIe Retimer晶片的出貨以Gen 5產品為主。公司於2025年1月推出PCIe 6.x/CXL 3.x Retimer晶片並向客戶送樣，目前正積極配合客戶測試驗證。此外，公司於今年1月釋出了PCIe 6.x/CXL 3.x的AEC解決方案。目前公司正在積極推進PCIe 7.0 Retimer及PCIe Switch晶片的研發。
 
 ---

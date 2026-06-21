@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-21 07:20:59_
-_本檔包含 3548 則快訊，約 652732 字_
+_更新時間：2026-06-21 08:06:41_
+_本檔包含 3533 則快訊，約 652708 字_
+
+---
+
+### 2026-06-18 19:18:16  #公司
+
+【暢聯股份：控股股東擬變更為浦東資本 實控人未變】暢聯股份(603648)6月18日公告，上海市浦東新區國資委擬將其持有的公司9168.9萬股A股股份（作價4.71億元）透過非公開協議轉讓方式，注入上海浦東資本投資運營有限公司（簡稱“浦東資本”），作為對浦東資本的非貨幣出資。此次協議轉讓後，公司控股股東由浦東新區國資委變更為浦東資本，實控人未發生變化，仍為浦東新區國資委。
+
+---
+
+### 2026-06-18 19:17:47  #央行 #資料 #市場 #國際
+
+【英國央行以7比2的投票結果維持利率不變 表示將密切關注中東局勢】英國央行將利率維持在3.75%，稱近期油價下跌“令人鼓舞”，儘管兩名政策制定者因擔心通脹持續，投票支援立即加息25個基點。外部成員Megan Greene加入4月份唯一持反對意見者、首席經濟學家Huw Pill的陣營，投票支援立即將利率上調至4%，理由是儘管美國和伊朗近期達成停火協議，價格前景仍不穩定。貨幣政策委員會維持其指引不變，並將今年第四季度通脹峰值預估下調至3.25%，低於其4月份預計的3.6%。“油價最近幾天有所下跌，這令人鼓舞，”行長安德魯·貝利在決議隨附的書面評論中說。在反映其個人觀點的段落中，他補充稱，“形勢仍然不可預測，能源價格顯然存在在較長時間內維持高位的風險。”會議紀要顯示，貨幣政策委員會一致認為，如果價格逐步走高，“適當的政策反應應當是有力的”；投票支援維持利率不變的七名成員警告稱，存在第二輪效應風險。英國央行正試圖在遏制通脹和支援增長之間取得平衡。通脹率為2.8%，高於該央行2%的目標，而失業率居高不下且GDP疲弱。該委員會強調，“需求和勞動力市場疲軟可能會削弱第二輪效應的強度。”英國央行宣佈決議前數小時公佈的官方資料顯示，自2月份伊朗戰爭爆發以來，已有6.4萬個工作崗位流失，私營部門常規薪資增速降至五年來最弱。貨幣政策委員會會議紀要稱，最新就業資料“與勞動力市場逐步放鬆相一致”。4月份國內生產總值下降0.1%，儘管該央行表示，其認為第一季度基礎增長率為0.2%，第二季度將保持在類似水平。美國和伊朗之間的停火協議緩解了投資者對通脹最悲觀情景的擔憂。油價本週三個月來首次跌破每桶80美元，低於每桶108美元的峰值。不過，由於60天停火協議的永續性存在不確定性，英國央行維持中性指引，即其將“繼續密切關注中東局勢”，並且“委員會已準備好在必要時採取行動，以確保CPI通脹保持在中期內達到2%目標的軌道”。
+
+---
+
+### 2026-06-18 19:17:15  #公司
+
+【聖湘生物：持股5%以上股東部分股份被強制執行及擬再被執行】聖湘生物公告稱，股東陳文義名下251.9984萬股（佔總股本0.43%）於2025年12月16日至2026年3月16日被司法強制執行，當前持股3039.7386萬股，佔總股本5.25%。近日，陳文義名下397萬股（佔總股本0.68%）擬再次被司法強制執行，期限不晚於2027年12月30日，執行後其持股將降至2642.7386萬股，佔比4.56%。該事項不影響公司控制權穩定及日常經營。
+
+---
+
+### 2026-06-18 19:16:56  #行業
+
+【乘聯分會：預計6月狹義乘用車零售市場規模約為165萬輛，環比增長9.3%】乘聯分會預計，6月車市將延續修復態勢，儘管宏觀消費疲軟，高溫淡季，5月末衝量透支等制約因素仍然存在，但以舊換新政策持續穩步發力，多款重磅新車集中上市，“端午“疊加”618“形成階段性促銷視窗，多重支撐下修復動能與5月基本持平。綜合判斷，6月車市將呈現“月初平穩、月末衝量“走勢。最新調研結果顯示，佔市場總銷量七成左右的頭部廠商，零售目標環比上月增長10%左右，半年度收官節點主動加力衝擊目標意願明確。結合終端表現初步推算，6月狹義乘用車零售市場規模約為165萬輛，環比增長9.3%。其中新能源零售量預計為105萬輛左右，環比增長10.5%，滲透率約63.6%。新能源與傳統燃油車分化持續拉大。
+
+---
+
+### 2026-06-18 19:16:27  #國際
+
+【伊朗總統說伊美諒解備忘錄展現“相互尊重”】伊朗總統佩澤希齊揚18日在社交媒體發文說，伊朗和美國簽署的諒解備忘錄展現了“相互尊重”。佩澤希齊揚在帖文中寫道：“這是一份歷史性檔案，也是來自強大伊朗的資訊：和平將在相互尊重的環境中得以實現。”佩澤希齊揚還說，伊朗在維護自身尊嚴與獨立的同時，始終堅定致力於全球和平，並推動地區發展與合作。帖文同時配發了佩澤希齊揚和美國總統特朗普共同簽名的諒解備忘錄英文版文字。（新華社）
+
+---
+
+### 2026-06-18 19:16:25  #MKT News
+
+【Pezeshkian says Iran-US memorandum demonstrates mutual respect】Iranian president Pezeshkian posted on social media on the 18th that a memorandum of understanding signed between Iran and the United States demonstrates mutual respect, calling it a historic document and uploading the English text signed by him and U.S. president Trump. Pezeshkian said Iran will defend its dignity and independence while remaining committed to global peace and promoting regional development and cooperation.
+
+---
+
+### 2026-06-18 19:15:56  #MKT News
+
+【N. KOREA condemns G7's groundless political attacks】KCNA on June 18 reported Kim Yo Jong said the G7 is the main culprit undermining world peace and the international non-proliferation regime and has no right to comment on N. KOREA's sovereign choices. She said at the G7 summit in France the US and other Western countries launched groundless political attacks and expressed strong dissatisfaction and regret at what she called G7 actions that directly violate N. KOREA's constitution.
+
+---
+
+### 2026-06-18 19:15:42  #其他
+
+巴西財長：我信任雅克斯・瓦格納參議員，相信他將有機會就馬斯特銀行相關調查作出必要說明。
+
+---
+
+### 2026-06-18 19:15:11  #公司
+
+【棉襯衫製造巨頭溢達回應關閉寧波工廠】介面新聞獲悉，全球最大純棉襯衫製造商之一溢達集團近期關閉旗下寧波工廠（寧波溢達服裝有限公司）。溢達方面向介面新聞表示，該安排屬於公司正常經營管理調整，不影響溢達在中國區的持續運營及客戶服務能力。溢達集團1978年成立於香港，擁有從棉花種植到成衣零售的縱向一體化供應鏈。主要客戶包括Ralph Lauren、Tommy Hilfiger、Hugo Boss、Nike、無印良品等知名品牌。近年來受全球紡織業訂單轉移、成本上升等因素影響，業務開展被認為受到較大受到影響。
+
+---
+
+### 2026-06-18 19:15:04  #公司
+
+【瀾起科技：目前正在積極推進PCIe 7.0 Retimer及PCIe Switch晶片的研發】瀾起科技今日在互動平臺表示，目前，公司PCIe Retimer晶片的出貨以Gen 5產品為主。公司於2025年1月推出PCIe 6.x/CXL 3.x Retimer晶片並向客戶送樣，目前正積極配合客戶測試驗證。此外，公司於今年1月釋出了PCIe 6.x/CXL 3.x的AEC解決方案。目前公司正在積極推進PCIe 7.0 Retimer及PCIe Switch晶片的研發。
 
 ---
 
@@ -21323,155 +21383,5 @@ Genspark.ai expands Series B to $485m; post-money valuation $2.6bn.
 ### 2026-06-17 21:10:37  #公司
 
 【銀行開始下架2年期定存】 記者發現，重慶富民銀行近日釋出關於2年期及以上整存整取及續存系列產品暫停受理新增存入的公告。公告顯示：自6月15日起，該行手機銀行APP、微信小程式等線上渠道的個人整存整取及續存系列產品中2年期及以上存款產品暫停受理新的存入申請。這也意味著，重慶富民銀行線上渠道的中長期存款全部階段性停售。融360數字科技研究院高階分析師艾亞文分析，銀行下架中長期定期存款，主要因優質信貸資產增長乏力，疊加高息攬存模式難以為繼，機構主動壓降高成本、長期限負債。（一財）
-
----
-
-### 2026-06-17 21:09:49  #MKT News
-
-Dubai Media Office said the Dubai Financial Market's total market capitalization surpassed 1 trillion dirhams.
-
----
-
-### 2026-06-17 21:09:46  #國際
-
-【汽油短缺風險加劇，俄羅斯據悉將透過海運進口汽油】業內訊息人士表示，在煉油廠遭受大規模無人機襲擊後，俄羅斯正試圖應對汽油短缺問題，並計劃於本月透過海運進口燃料。對於全球最大石油和成品油出口國之一的俄羅斯而言，這是一次罕見舉動。俄羅斯預計將在6月透過其西部一座港口接收一船汽油貨物。俄羅斯今年的國內供應受到持續數月烏克蘭無人機襲擊的制約，烏克蘭持續打擊俄羅斯煉油廠、輸油管道和燃料儲存設施。最近遭襲的設施包括塔涅科煉油廠和莫斯科煉油廠，兩家工廠均因此暫停加工業務。訊息人士表示，由於物流問題和價格高企，透過海運進口可能也只是臨時措施，不太可能提供大量供應。
-
----
-
-### 2026-06-17 21:09:30  #其他
-
-迪拜媒體辦公室：迪拜金融市場總市值突破1萬億迪拉姆。
-
----
-
-### 2026-06-17 21:09:30  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Gasoline shortage risk rises as Russia plans sea import】Russia, hit by months of Ukrainian drone strikes on refineries, pipelines and storage, plans to receive a cargo of gasoline by sea at a western port in June, industry sources said. The move is rare for one of the world’s largest crude and refined-product exporters. Recent strikes forced the TANECO and Moscow refineries to suspend processing. Sources said sea imports are likely a temporary, limited fix due to logistics constraints and elevated prices.
-
----
-
-### 2026-06-17 21:09:23  #公司
-
-【紫光國微：實施權益分派期間“國微轉債”將暫停轉股】紫光國微公告稱，公司於2026年5月11日透過《2025年度利潤分配方案》，近日將實施權益分派。“國微轉債”轉股期為2021年12月17日至2027年6月9日，自2026年6月22日起至本次權益分派股權登記日止，可轉債將暫停轉股，股權登記日後的第一個交易日起恢復轉股。暫停轉股期間，可轉債正常交易。
-
----
-
-### 2026-06-17 21:09:03  #公司
-
-七國集團領導人釋出關於兒童網路安全的宣告。
-
----
-
-### 2026-06-17 21:08:55  #MKT News
-
-G7 leaders issued a joint statement on child online safety.
-
----
-
-### 2026-06-17 21:08:40  #公司
-
-【國瓷材料：多層陶瓷基板尚在與客戶聯合研發 未產生批次訂單】國瓷材料(300285)6月17日釋出股票交易異動公告稱，近期資本市場關注的多層陶瓷基板，主要用於AI資料中心。目前公司產品尚在與客戶聯合研發過程中，尚未產生批次訂單，後續專案驗證是否達到要求，能否實現批次生產存在不確定性，未來亦存在技術研發進度不及預期的風險。
-
----
-
-### 2026-06-17 21:08:23  #MKT News
-
-G7 leaders urged coordinated action to address global imbalances.
-
----
-
-### 2026-06-17 21:08:17  #市場 #觀點 #國際
-
-美國銀行聘請摩根士丹利的黃金專家擔任歐洲、中東和非洲地區FIG團隊聯席主管。
-
----
-
-### 2026-06-17 21:08:04  #國際
-
-印度政府告知法院：Telegram曾被多次要求修正其系統。
-
----
-
-### 2026-06-17 21:07:59  #MKT News
-
-G7 leaders reaffirm existing exchange-rate commitment.
-
----
-
-### 2026-06-17 21:07:48  #MKT News #Market Themes #Magnificent 7
-
-G7 leaders issued a statement on sustainable growth.
-
----
-
-### 2026-06-17 21:07:39  #公司
-
-七國集團領導人：我們重申現行七國集團匯率承諾。
-
----
-
-### 2026-06-17 21:07:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Angola plans to raise crude oil exports to 1.09 mln bpd in August.
-
----
-
-### 2026-06-17 21:07:17  #央行 #國際
-
-歐洲央行管委斯萊普恩：不確定性依然較高。通脹預期需要密切關注。市場預期石油價格將走低，但不確定性依然存在。家庭價格預期不再那麼牢固。油價尚未達到最初擔憂的水平。
-
----
-
-### 2026-06-17 21:06:57  #MKT News
-
-ECB executive board member Sleijpen said the ECB must look beyond the short-term impact of shocks.
-
----
-
-### 2026-06-17 21:06:52  #MKT News #Commodities #Energy #Brent #WTI
-
-ECB Governing Council member Sleijpen said oil prices have not yet reached levels that initially raised concern.
-
----
-
-### 2026-06-17 21:06:47  #央行 #其他
-
-智利央行預計2027年全年通脹率為3.2%，此前預估為3.0%。
-
----
-
-### 2026-06-17 21:06:42  #央行 #其他
-
-智利央行表示，全球金融環境持續呈現波動態勢。
-
----
-
-### 2026-06-17 21:06:21  #其他
-
-G7領導人呼籲採取協調行動應對全球失衡問題。
-
----
-
-### 2026-06-17 21:06:07  #公司
-
-谷歌：全新谷歌家庭音響，首款為Gemini打造的音訊裝置，現已接受預訂，將於6月25日上市，售價99.99美元。
-
----
-
-### 2026-06-17 21:06:05  #Trading Economics #Economy #Uzbekistan #Interest Rate #Importance 0
-
-Uzbekistan Keeps Key Rate Unchanged at 14% — The Central Bank of Uzbekistan kept its key policy rate unchanged at 14% at its June 2026 meeting, emphasizing the need to maintain tight monetary conditions. Annual inflation eased to 5.5% in May, largely reflecting the fading impact of the energy tariff increases introduced a year earlier. However, the latest tariff increases and rising transportation and production costs are expected to create short-term price pressures. Inflation is projected to reach around 6.5% by year-end, while longer-term expectations have improved. Economic activity remains strong, supported by robust growth in retail trade, services, tourism, and investment, as well as an acceleration in government spending in recent months. The economy is expected to expand by 7.0%–7.5% in 2026. Looking ahead, policy decisions will remain focused on bringing inflation back to its 5% target, safeguarding macroeconomic stability, and preserving the purchasing power of households.
-
----
-
-### 2026-06-17 21:06:04  #MKT News
-
-ECB executive board member Sleijpen said household price expectations are no longer as firmly anchored.
-
----
-
-### 2026-06-17 21:06:00  #MKT News
-
-ECB executive board member Sleijpen said second-round effects are the key issue for monetary policy.
 
 ---
