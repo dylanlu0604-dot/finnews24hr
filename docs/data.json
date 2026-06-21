@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-21 10:47:51",
-  "count": 17548,
+  "updated": "2026-06-21 10:51:59",
+  "count": 17551,
   "items": [
+    {
+      "id": "mkt:019ee816-12b5-7dd8-b0a2-e03286b0fecd",
+      "time": "2026-06-21 10:50:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Minister of Diaspora Affairs Amichai Chikli said Syria and Turkey pose far more worrying threats to Israel than Iran."
+    },
+    {
+      "id": "4946091",
+      "time": "2026-06-21 10:50:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南瀘溪一民房火災致6死】記者6月21日從湖南省湘西土家族苗族自治州相關部門瞭解到，21日6時21分，瀘溪縣武溪鎮株洲北路一民房1樓發生火災。目前已造成6人遇難。（新華社）"
+    },
+    {
+      "id": "mkt:019ee815-2ad1-7dd8-b0a2-df5559642c60",
+      "time": "2026-06-21 10:49:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's minister of diaspora affairs Amichai Chikli said Israel will \"sooner or later\" go to war with Syria and that an alliance between Syria and Turkey poses a \"strategic challenge\" to Israel."
+    },
+    {
+      "id": "4946090",
+      "time": "2026-06-21 10:48:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【股票投資者正面臨氣候風險】隨著市場對伊朗戰事的擔憂逐步消退，股票投資者正面臨另一重風險：氣候風險。該風險促使投資者重新評估農業、保險等各行各業的持倉佈局。有極高機率，2027年前將出現一次 “超強厄爾尼諾” 現象，這會造成全球部分地區氣溫攀升，電力需求暴漲、農作物減產，並再度推升通脹壓力。這或將加大各國央行調控的難度，給處於歷史高位區間的全球股市帶來下行風險。盛寶銀行大宗商品策略主管表示：“此次厄爾尼諾恰逢全球經濟格外敏感的階段。全球經濟仍在消化伊朗衝突帶來的通脹衝擊，歷經數月擾動後，供應鏈依舊脆弱不堪。”"
+    },
     {
       "id": "mkt:019ee812-9fef-7dd8-b0a2-d076265567cb",
       "time": "2026-06-21 10:46:35",
@@ -161667,18 +161704,6 @@
         "其他"
       ],
       "text": "【電影《四渡》定檔7月1日香港上映】為紀念紅軍長征勝利90週年，重大革命歷史題材史詩電影《四渡》正式定檔2026年7月1日香港上映。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ec407-89d3-7dd8-afee-c3da86e6054d",
-      "time": "2026-06-14 10:48:08",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "【China's national railway carried 1.67 bln tonnes of freight in Jan–May】China State Railway Group said the national railway transported 1.67 bln tonnes of freight in January–May, up 1.8% YoY. Average daily loaded cars were 186,300, up 2.8% YoY; on May 2 the network loaded 202,400 cars, a single‑day record."
     }
   ]
 }
