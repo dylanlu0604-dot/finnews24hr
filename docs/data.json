@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-22 06:46:35",
-  "count": 17373,
+  "updated": "2026-06-22 06:50:27",
+  "count": 17365,
   "items": [
+    {
+      "id": "4946738",
+      "time": "2026-06-22 06:49:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【經濟日報金觀平：攜手共促全球產業鏈供應鏈合作】6月22日，主題為“連結世界、共創未來”的第四屆中國國際供應鏈促進博覽會於北京開幕。來自85個國家、地區和國際組織的676家中外鏈主企業、專精特新企業和行業機構攜手產供鏈上下游合作伙伴參展。外資參展商比例達到36.5%，世界500強及行業龍頭企業參展佔比超過65%。參展熱情空前高漲，一方面凸顯全球產業鏈供應鏈合作的強大需求；另一方面也表明我國作為全球產業鏈供應鏈的重要環節，一直以實際行動為深化全球產業鏈供應鏈合作、構建開放型世界經濟貢獻力量。"
+    },
+    {
+      "id": "mkt:019eec5d-a1a2-7dd8-b0a9-e5768fde575f",
+      "time": "2026-06-22 06:46:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli media: Israel considering 'small-scale' pullback from southern Lebanon】Channel 12 reported on the evening of the 21st that Israel is considering a 'small-scale' pullback from southern Lebanon. Israeli political and security leadership held consultations over the past 24 hours and have been communicating with the US at multiple levels. Citing senior officials, the report said Israel has not received any US request to withdraw forces from southern Lebanon, but is studying limited withdrawals from areas beyond the Blue Line currently held by the IDF. The report added US pressure has raised the likelihood of an IDF pullback, while Israel stressed its bottom line is to remain within the Blue Line."
+    },
+    {
+      "id": "4946737",
+      "time": "2026-06-22 06:46:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以色列正考慮從黎巴嫩南部“小規模撤軍”】以色列第12頻道電視臺網站21日晚報道說，以色列正在考慮從黎巴嫩南部“小規模撤軍”。報道稱，以色列政治高層和安全系統在過去24小時內舉行了一系列磋商，以色列與美國也在“各個層級”進行了溝通。報道援引知情高階官員的話說，以方目前尚未收到任何美方要求以軍撤出黎巴嫩南部的請求，但以方正在研究從一些位於“黃線”以外、目前由以軍控制的區域實施“小規模撤離”。（新華社）"
+    },
     {
       "id": "4946736",
       "time": "2026-06-22 06:44:58",
@@ -159874,113 +159898,6 @@
         "其他"
       ],
       "text": "聯合國負責人對美伊達成協議表示歡迎，稱這是邁向和平的關鍵一步。"
-    },
-    {
-      "id": "4934912",
-      "time": "2026-06-15 06:49:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "英、法、德、意E4領導人聯合宣告：重申全力支援黎巴嫩的穩定、主權與領土完整，同時重申達成強有力停火的重要性。"
-    },
-    {
-      "id": "mkt:019ec853-8c48-7dd8-aff8-8a2bdba29b87",
-      "time": "2026-06-15 06:49:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Leaders of the UK, France, Germany and Italy said in a joint statement they are prepared to cooperate with the US, Iran and the IAEA."
-    },
-    {
-      "id": "mkt:019ec853-80d2-7dd8-aff8-84e413a7e041",
-      "time": "2026-06-15 06:49:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "UK, France, Germany and Italy leaders said in a joint statement there is an urgent need to reopen the Strait of Hormuz unconditionally and without restrictions."
-    },
-    {
-      "id": "4934911",
-      "time": "2026-06-15 06:49:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "英、法、德、意E4領導人聯合宣告：隨時準備與美國、伊朗及國際原子能機構合作，以實現這一（伊朗核計劃）目標。"
-    },
-    {
-      "id": "te:economy:558808",
-      "time": "2026-06-15 06:49:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Credit Card Spending",
-        "Importance 1"
-      ],
-      "text": "New Zealand Credit Card Spending Rebounds — Seasonally adjusted electronic card transactions in New Zealand grew 1.7% month-over-month in May 2026, recovering from a downwardly revised 1.2% fall in the previous month."
-    },
-    {
-      "id": "mkt:019ec852-7003-7dd8-aff8-7d574dd79f74",
-      "time": "2026-06-15 06:48:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Leaders of the UK, France, Germany and Italy said in a joint statement that Iran must never acquire nuclear weapons. They said they are prepared to lift relevant sanctions once Iran implements clear, verifiable measures on its nuclear program."
-    },
-    {
-      "id": "mkt:019ec852-69bb-7dd8-aff8-71365351b9b7",
-      "time": "2026-06-15 06:48:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Kyiv mayor says air strikes knocked out power for about 140,000 residents and damaged transmission lines."
-    },
-    {
-      "id": "4934910",
-      "time": "2026-06-15 06:48:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "英、法、德、意E4領導人聯合宣告：霍爾木茲海峽急需重新開放，實現無條件、無限制航行自由至關重要。"
-    },
-    {
-      "id": "4934909",
-      "time": "2026-06-15 06:47:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔市長稱，空襲導致14萬居民斷電，電力線路受損。"
-    },
-    {
-      "id": "4934908",
-      "time": "2026-06-15 06:47:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "英、法、德、意E4領導人聯合宣告：已做好準備，若伊朗在其核計劃方面採取明確、可核查的措施，我們將解除相關制裁。"
-    },
-    {
-      "id": "4934907",
-      "time": "2026-06-15 06:47:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "英、法、德、意E4領導人聯合宣告：伊朗絕不能獲取核武器。"
     }
   ]
 }
