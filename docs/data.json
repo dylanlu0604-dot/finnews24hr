@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-21 17:31:02",
-  "count": 17629,
+  "updated": "2026-06-21 17:35:03",
+  "count": 17623,
   "items": [
+    {
+      "id": "mkt:019ee987-9c56-7dd8-b0a4-d3acc10258f7",
+      "time": "2026-06-21 17:33:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported SHARIF met with U.S. Vice President VANCE; Kushner, Witkoff and Pakistan army chief also attended."
+    },
+    {
+      "id": "4946348",
+      "time": "2026-06-21 17:33:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞當地訊息人士稱，以色列軍方侵入德拉西郊的亞爾穆克盆地地區，此舉侵犯了敘利亞主權。"
+    },
     {
       "id": "4946347",
       "time": "2026-06-21 17:30:08",
@@ -162258,79 +162274,6 @@
         "WTI"
       ],
       "text": "An Israeli official said they hoped talks would yield results and that fighting would not resume."
-    },
-    {
-      "id": "mkt:019ec57b-dc36-7dd8-aff0-597567ca5862",
-      "time": "2026-06-14 17:34:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Kuwait set its July official selling price for crude exports to Asia at a $5.25/bbl premium to the Oman/Dubai average."
-    },
-    {
-      "id": "4934379",
-      "time": "2026-06-14 17:34:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特將7月銷往亞洲的超輕質原油官方售價設定為較阿曼/迪拜原油均價升水5.25美元/桶。"
-    },
-    {
-      "id": "4934378",
-      "time": "2026-06-14 17:34:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：我方已要求美方不要限制我方在黎巴嫩的軍事行動。"
-    },
-    {
-      "id": "4934377",
-      "time": "2026-06-14 17:34:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：內塔尼亞胡與特朗普關係良好，盟友之間出現分歧在所難免，且分歧能夠得以化解。"
-    },
-    {
-      "id": "mkt:019ec57b-3c92-7dd8-aff0-575b5fad4fca",
-      "time": "2026-06-14 17:34:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli official says the US-Iran agreement is not the endgame."
-    },
-    {
-      "id": "4934376",
-      "time": "2026-06-14 17:33:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特將7月出口至亞洲的官方原油售價設定為較阿曼/迪拜均價升水5.25美元。"
-    },
-    {
-      "id": "4934375",
-      "time": "2026-06-14 17:33:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：我們期待談判取得成果，同時不希望戰火重燃。"
-    },
-    {
-      "id": "4934374",
-      "time": "2026-06-14 17:33:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一艘懸掛印度船旗的機動帆船在阿曼近海發生意外】印度駐阿曼大使館宣告：我方獲悉，一艘懸掛印度船旗的機動帆船 Virat 1 在阿曼近海發生意外，船上共有 14 名印度船員。目前使館正聯合阿曼相關部門及事發海域附近船隻，協同開展搜救工作。 經核實，該船出現發動機故障，全體船員隨後安全轉移至救生筏。現階段，阿曼有關部門已統籌周邊船舶，救援行動仍在持續進行中。"
     }
   ]
 }
