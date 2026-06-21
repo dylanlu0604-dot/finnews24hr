@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-21 23:31:20",
-  "count": 17569,
+  "updated": "2026-06-21 23:35:35",
+  "count": 17563,
   "items": [
+    {
+      "id": "4946555",
+      "time": "2026-06-21 23:34:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：為保護北部民眾，我們將在黎巴嫩南部安全區駐守至必要之時。"
+    },
+    {
+      "id": "mkt:019eead1-2a25-7dd8-b0a7-866bfece229d",
+      "time": "2026-06-21 23:33:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Arabiya, citing sources, says a second round of US-Iran talks in Switzerland is imminent."
+    },
+    {
+      "id": "4946554",
+      "time": "2026-06-21 23:32:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【凝聚APEC工商合作共識 攜手書寫亞太發展新篇章】亞太經合組織（APEC）是亞太地區層級最高、領域最廣、最具影響力的經濟合作機制。作為APEC“中國年”工商領域標誌性活動，以“開放·互通·協同：連結亞太·共創未來”為主題的APEC工商領導人中國論壇21日在京舉辦。圍繞亞太自貿區、互聯互通、數字創新等熱點議題，亞太政商界人士深入交流、凝聚共識，攜手書寫亞太和全球發展新篇章。（新華社）"
+    },
+    {
+      "id": "4946553",
+      "time": "2026-06-21 23:31:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及總統：美伊最終協議應保障所有阿拉伯國家的安全】埃及總統塞西21日表示，美伊最終協議應保障海灣阿拉伯國家合作委員會成員國和所有阿拉伯國家的安全，回應相關國家關切。塞西當天在開羅會見巴基斯坦外長、沙烏地阿拉伯外交大臣和土耳其外長，就地區局勢發展以及支援落實美國與伊朗達成的諒解備忘錄等議題交換意見。（新華社）"
+    },
+    {
+      "id": "4946552",
+      "time": "2026-06-21 23:30:15",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【中國男籃熱身賽戰勝澳大利亞隊】21日，在杭州奧體中心體育館進行的熱身賽中，憑藉王俊傑和崔永熙最後時刻的出色發揮，中國男籃以91:81戰勝澳大利亞隊。"
+    },
     {
       "id": "4946551",
       "time": "2026-06-21 23:29:13",
@@ -161635,102 +161677,6 @@
         "WTI"
       ],
       "text": "Israel's Channel 14 reported Washington put heavy pressure on Iran, urging it not to retaliate against Israel."
-    },
-    {
-      "id": "mkt:019ec6c5-fb06-7dd8-aff3-d9829c53a8d5",
-      "time": "2026-06-14 23:35:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President PEZESHKIAN said apart from God, we should not rely on anyone."
-    },
-    {
-      "id": "mkt:019ec6c5-b56b-7dd8-aff3-d1c7dfe68c95",
-      "time": "2026-06-14 23:35:06",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Israeli Channel 13, citing sources, reports a cabinet subcommittee will meet in an air-raid shelter today amid concerns of missile strikes from Iran."
-    },
-    {
-      "id": "4934620",
-      "time": "2026-06-14 23:34:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：除真主之外，我們不應依賴任何人。"
-    },
-    {
-      "id": "4934619",
-      "time": "2026-06-14 23:34:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：最近的事態發展表明，沒有哪個國家比我們自己更關心伊朗的利益。"
-    },
-    {
-      "id": "mkt:019ec6c5-394f-7dd8-aff3-ce075ddff1d9",
-      "time": "2026-06-14 23:34:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars News reported President Pezeshkian said recent developments show no country cares more about Iran's interests than we do."
-    },
-    {
-      "id": "mkt:019ec6c4-3b53-7dd8-aff3-c782f1ce873a",
-      "time": "2026-06-14 23:33:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Channel 14 said Prime Minister Netanyahu will chair a cabinet meeting at a \"secret location\" today."
-    },
-    {
-      "id": "4934618",
-      "time": "2026-06-14 23:33:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本首相高市早苗：結束在英國的行程，即將動身前往下一站義大利。與英國首相斯塔默圍繞經濟安全保障、前沿技術、防務安全以及地區局勢等當下對日英兩國和國際社會尤為重要的議題交換了意見。此次訪問成果豐碩，也將為七國集團埃維昂峰會的相關討論奠定基礎。明日將在羅馬與義大利首相梅洛尼舉行會談。"
-    },
-    {
-      "id": "4934617",
-      "time": "2026-06-14 23:32:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列政治安全內閣將於今晚召開會議。"
-    },
-    {
-      "id": "mkt:019ec6c3-ab68-7dd8-aff3-beb9c43efe71",
-      "time": "2026-06-14 23:32:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's political-security cabinet will meet tonight, Israel Hayom reports."
-    },
-    {
-      "id": "mkt:019ec6c2-ba33-7dd8-aff3-b6a4536d50cf",
-      "time": "2026-06-14 23:31:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US defense secretary says US and Iran still expected to sign MOU on June 14】US defense secretary Hegseth said the US and Iran are still expected to sign a memorandum of understanding on June 14 to restart shipping through the Strait of Hormuz and lift the US blockade of Iranian ports. He said both sides would have 60 days after signing to negotiate longer-term peace arrangements and terms for ending Iran's nuclear program. Hegseth said the agreement would be performance-based, with no funds released to Iran before it fulfils its commitments."
-    },
-    {
-      "id": "4934616",
-      "time": "2026-06-14 23:31:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國與日本達成一項價值180億英鎊的投資協議。"
     }
   ]
 }
