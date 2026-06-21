@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-22 04:04:13",
-  "count": 17468,
+  "updated": "2026-06-22 04:08:08",
+  "count": 17466,
   "items": [
+    {
+      "id": "4946645",
+      "time": "2026-06-22 04:07:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名參與瑞士談判的美國外交官透露，預計美方與伊朗、巴基斯坦及卡達斡旋方的磋商將持續至深夜。"
+    },
     {
       "id": "4946644",
       "time": "2026-06-22 04:02:42",
@@ -160844,36 +160852,6 @@
         "XAUUSD"
       ],
       "text": "An adviser to Iran's supreme leader warned that if Israel's actions in Lebanon do not stop, the Strait of Hormuz and Bab al-Mandeb will be used to squeeze Israel's economic arteries until strategic suffocation."
-    },
-    {
-      "id": "4934766",
-      "time": "2026-06-15 04:07:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問阿里·阿克巴爾·韋拉亞提：若以色列在黎巴嫩的滋事行徑不停止，霍爾木茲海峽與曼德海峽“將扼住你們的經濟命脈，直至你們陷入戰略窒息”。"
-    },
-    {
-      "id": "4934765",
-      "time": "2026-06-15 04:06:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "今治造船、川崎重工與名村造船將恢復液化天然氣運輸船的生產。相關各方計劃在2035年前後重啟國內液化天然氣運輸船建造工作，合作方計劃每年建造三至五艘船舶，或將引進韓國相關技術，並且日本擬向意向買家提供補貼以推進相關計劃。"
-    },
-    {
-      "id": "mkt:019ec7bd-25cd-7dd8-aff6-beb637e2d0cb",
-      "time": "2026-06-15 04:05:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "Adviser to Iran's Supreme Leader, on response to Israeli strikes in Lebanon: zero hour has arrived; launchers are being prepared."
     }
   ]
 }
