@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-22 07:50:02",
-  "count": 17345,
+  "updated": "2026-06-22 07:53:57",
+  "count": 17347,
   "items": [
+    {
+      "id": "4946837",
+      "time": "2026-06-22 07:53:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥倫比亞總統候選人德拉埃斯普列亞在網路廣播中發言稱，特朗普表達了對他的勝利的支援。"
+    },
+    {
+      "id": "4946835",
+      "time": "2026-06-22 07:52:22",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：VC進入供需錯配期，看好漲價業績彈性】中信建投研報稱，VC在新產能投產不及預期下進入新一輪供需錯配期，本輪漲價週期啟動板塊具備業績彈性：VC屬於危險化學品，工藝及環保要求較高，伴隨著儲能需求高增及供給增量投放不及預期，26Q3供需趨緊。我們判斷旺季來臨下VC價格將進入上漲週期，本週VC價格已實現上漲5000元/噸，我們認為後續VC價格仍會繼續向上，有望上漲至18-20萬區間。看好VC漲價下板塊業績超預期的投資機會。"
+    },
+    {
+      "id": "mkt:019eec99-0876-7dd8-b0aa-50a1ef2621a6",
+      "time": "2026-06-22 07:51:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. two-year Treasury yield rose to 4.2297%, its highest level since February 2025."
+    },
+    {
+      "id": "4946833",
+      "time": "2026-06-22 07:51:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2年期國債收益率升至4.2297%，為2025年2月以來最高。"
+    },
+    {
+      "id": "4946832",
+      "time": "2026-06-22 07:51:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉第未來： FF EAI機器人6月機器人本體出貨預計將超過100臺，首個交付季將超額完成220臺目標，堅持正毛利導向和“先款後貨”銷售與交付紀律，為業務的快速推進提供現金流支撐。"
+    },
+    {
+      "id": "4946831",
+      "time": "2026-06-22 07:49:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【在中東不確定性之際日經指數可能下跌】隨著對中東衝突的不確定性持續，日本股市在近期大幅上漲後可能下跌。新加坡交易所的日經指數期貨下跌0.2%，至71,485點。在美國總統特朗普警告稱美國可能因伊朗支援真主黨而對其進行打擊後，投資者正關注原油價格和中東局勢的發展。日經指數週五上漲0.3%，達到創紀錄的71,250.06點。"
+    },
+    {
+      "id": "te:markets:560566",
+      "time": "2026-06-22 07:49:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Slides as Oil Advances — Gold fell below $4,150 an ounce on Monday, extending its recent decline as higher oil prices kept inflation concerns elevated following renewed tensions during the opening day of US-Iran talks. President Donald Trump threatened fresh military action if Hezbollah continues its attacks on Israel and warned Tehran against shutting the Strait of Hormuz again. At the same time, Iranian media reported that Tehran had suspended negotiations in response to Trump’s remarks, although sources familiar with the discussions said talks were still underway. Gold was also weighed down by expectations of tighter monetary policy after the Federal Reserve left interest rates unchanged last week while adopting a more hawkish tone. Nine of the Fed’s 19 policymakers now anticipate at least one rate increase this year, with investors pricing in a potential hike as soon as September."
+    },
     {
       "id": "4946830",
       "time": "2026-06-22 07:48:08",
@@ -159617,52 +159686,6 @@
         "國際"
       ],
       "text": "【一艘液化天然氣運輸船駛向霍爾木茲海峽，美伊和平協議為這條關鍵航道重啟帶來希望】一艘被困在波斯灣逾三個月的液化天然氣運輸船，目前疑似正駛向霍爾木茲海峽。恰逢美國與伊朗表示已達成協議，將重新開放這條航道。資料顯示，這艘名為 “迪莎” 號的船舶由印度一家國有進口企業長期租賃，當前位於阿聯酋以北海域，即將駛抵阿曼附近。"
-    },
-    {
-      "id": "te:markets:558824",
-      "time": "2026-06-15 07:53:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Jumps on US-Iran Peace Agreement — Silver jumped above $70 an ounce on Monday, advancing for a third consecutive session after the US and Iran reached a peace agreement that would reopen the Strait of Hormuz. Oil prices declined to a two-month low following the announcement, easing concerns over rising inflation and the prospect of interest rate hikes that have weighed on precious metals. The agreement is set to be signed in Switzerland on June 19 and reportedly includes the lifting of blockades, sanctions relief for Iran, and the dismantling of Tehran’s nuclear program. Meanwhile, the US Federal Reserve will hold its first policy meeting this week under new chair Kevin Warsh and is widely expected to keep interest rates unchanged. The Reserve Bank of Australia is also expected to leave policy steady, while the Bank of Japan is likely to raise rates in support of its currency."
-    },
-    {
-      "id": "4934999",
-      "time": "2026-06-15 07:53:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國生物製藥：董事會決議透過總額不超20億港元股份購買計劃】中國生物製藥在港交所公告，公司董事會於6月12日議決透過一項股份購買計劃，據此，公司將視乎市場情況於未來12個月以不超過20億港元總代價在公開市場上根據於股東周年大會上獲授的股份購回授權，並受其條款及細則所規限，回購股份及根據公司於2018年1月5日採納的限制性股份獎勵計劃，指示負責管理股份獎勵計劃的受託人購買股份。2026年初至今，公司亦曾累計購買(包括回購及指示負責管理股份獎勵計劃的受託人購買)6035萬股股份，總代價約3.38億港元。"
-    },
-    {
-      "id": "te:markets:558823",
-      "time": "2026-06-15 07:52:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Climbs on US-Iran Peace Agreement — Gold climbed toward $4,300 an ounce on Monday, advancing for a third consecutive session after the US and Iran reached a peace agreement that would reopen the Strait of Hormuz. Oil prices declined to a two-month low following the announcement, easing concerns over rising inflation and the prospect of interest rate hikes that have weighed on bullion. The agreement is set to be signed in Switzerland on June 19 and reportedly includes the lifting of blockades, sanctions relief for Iran, and the dismantling of Tehran’s nuclear program. Meanwhile, the US Federal Reserve will hold its first policy meeting this week under new chair Kevin Warsh and is widely expected to keep interest rates unchanged. The Reserve Bank of Australia is also expected to leave policy steady, while the Bank of Japan is likely to raise rates in support of its currency."
-    },
-    {
-      "id": "4934998",
-      "time": "2026-06-15 07:52:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：希望就伊朗核問題達成最終協議。"
-    },
-    {
-      "id": "4934997",
-      "time": "2026-06-15 07:51:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【證券日報：多地最佳化政策切實降低居民購房成本】為降低居民購房成本，持續推動房地產市場平穩健康發展，近期，多地推出購房支援政策，涵蓋發放購房補貼、最佳化住房公積金政策等方面。據中指研究院不完全統計，今年以來各地釋出最佳化調整樓市政策超470條，其中住房公積金相關政策超250條。各地出臺的住房公積金相關政策主要涉及提高貸款額度、擴大公積金提取使用範圍、最佳化異地和靈活就業人員繳存等方面。 中指研究院有關負責人預計，後續將有更多城市加快最佳化住房公積金政策，並探索更多方向，更好發揮住房公積金的保障作用，在提高住房公積金使用效能的同時，助力穩定房地產市場。"
     }
   ]
 }
