@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-21 14:13:38",
-  "count": 17564,
+  "updated": "2026-06-21 14:17:51",
+  "count": 17565,
   "items": [
+    {
+      "id": "4946170",
+      "time": "2026-06-21 14:13:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：此次在加沙地帶打擊的哈馬斯小組，曾為該組織轉移超 5 億謝克爾資金。"
+    },
+    {
+      "id": "4946169",
+      "time": "2026-06-21 14:12:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗政府：我們談判代表團已做好準備，即將開啟外交磋商。"
+    },
+    {
+      "id": "mkt:019ee8cf-5e19-7dd8-b0a3-9ca2b8e60cb5",
+      "time": "2026-06-21 14:12:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's government says its negotiating delegation is ready to begin diplomatic consultations soon."
+    },
     {
       "id": "mkt:019ee8cc-69f3-7dd8-b0a3-9174b0c7dac6",
       "time": "2026-06-21 14:09:30",
@@ -161795,22 +161824,6 @@
         "WTI"
       ],
       "text": "UK Ministry of Defence said British forces this morning boarded a sanctioned shadow-fleet tanker in the English Channel. The vessel SMYRTOS will be temporarily moved to an anchorage off England's south coast and monitored for environmental and safety risks."
-    },
-    {
-      "id": "4934254",
-      "time": "2026-06-14 14:17:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國防部：“斯米爾託斯”號將臨時轉移至英格蘭南海岸外的一處錨地停泊，將對該船可能引發的任何環境或安全問題進行監測。"
-    },
-    {
-      "id": "4934253",
-      "time": "2026-06-14 14:16:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國防部：英軍今日上午在英吉利海峽登查一艘受制裁的影子艦隊油輪。"
     }
   ]
 }
