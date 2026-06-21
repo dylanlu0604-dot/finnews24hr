@@ -1,7 +1,385 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-21 17:26:58_
-_本檔包含 3554 則快訊，約 654512 字_
+_更新時間：2026-06-21 18:10:16_
+_本檔包含 3573 則快訊，約 654287 字_
+
+---
+
+### 2026-06-17 02:14:06  #MKT News #Market Regions #Emerging Markets
+
+【Equatorial Guinea government resigns after failing to meet policy goals】On 16 June local time Vice‑President Teodoro Obiang Mangue announced the government has formally resigned, citing failure to meet established policy objectives. No new cabinet list or formation timetable has been released.
+
+---
+
+### 2026-06-17 02:12:41  #MKT News
+
+Iran's foreign minister said negotiations will continue for 60 days after the first phase to reach a final agreement covering nuclear issues and sanctions relief.
+
+---
+
+### 2026-06-17 02:12:14  #焦點 #國際
+
+伊朗外交部長：第一階段談判結束後，各方將繼續展開為期60天的談判，以達成最終協議，協議內容將涵蓋核問題以及解除制裁。
+
+---
+
+### 2026-06-17 02:11:24  #國際
+
+伊朗外交部長表示，美國與伊朗的談判將在雙方簽署諒解備忘錄的當日啟動。
+
+---
+
+### 2026-06-17 02:11:24  #MKT News #Important
+
+Iran's foreign minister said negotiations with the United States will begin on the day the two countries sign a memorandum of understanding.
+
+---
+
+### 2026-06-17 02:08:20  #國際
+
+烏克蘭空軍通報： 一架蘇-24M戰鬥轟炸機墜毀，兩名飛行員全部遇難。
+
+---
+
+### 2026-06-17 02:07:50  #公司
+
+谷歌：今日起向符合條件的Pixel Watch推送Wear OS 7，該版本將為全天日常使用提供可靠平臺。
+
+---
+
+### 2026-06-17 02:07:48  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google begins rolling out Wear OS 7 to eligible Pixel Watch devices today; the update is intended to provide a reliable platform for all‑day everyday use.
+
+---
+
+### 2026-06-17 02:06:29  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google says its US digital health fund has increased to over $50 mln.
+
+---
+
+### 2026-06-17 02:06:05  #MKT News #GOOGL.O
+
+Google will extend Android parental-control features to all devices upgraded to Android 17.
+
+---
+
+### 2026-06-17 02:05:02  #MKT News
+
+【US cargo Dragon undocks from ISS, returns to Earth】SpaceX’s cargo Dragon undocked from the International Space Station on the 16th at 12:25 US Eastern Time (00:25 Beijing, 17th), carrying scientific experiment samples and supplies for return. It is scheduled to splash down off the coast of California at 05:08 US Pacific Time on the 17th (20:08 Beijing).
+
+---
+
+### 2026-06-17 02:05:01  #公司 #國際
+
+谷歌：已將美國數字健康基金規模增至逾5000萬美元。
+
+---
+
+### 2026-06-17 02:04:54  #公司
+
+谷歌：將安卓家長控制功能擴充套件至所有升級至安卓17系統的安卓裝置。
+
+---
+
+### 2026-06-17 02:04:51  #MKT News #EURUSD #Impact mixed
+
+Bank of France expects 2026 inf at 2.5% (previously 1.7%) and sees Q2 GDP flat after a contraction in Q1.
+
+---
+
+### 2026-06-17 02:04:51  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
+
+Bank of France cuts its 2026 GDP growth forecast to 0.5% from 0.9%.
+
+---
+
+### 2026-06-17 02:02:58  #國際
+
+【美貨運“龍”飛船脫離空間站返回地球】SpaceX的貨運“龍”飛船16日脫離國際空間站，攜帶科學實驗樣品和物資返回地球。據美國國家航空航天局介紹，“龍”飛船於美國東部時間16日12時25分（北京時間17日0時25分）脫離國際空間站，啟程返回地球。按計劃，“龍”飛船將於美國西部時間17日5時08分（北京時間同日20時08分）濺落在美加利福尼亞州附近海域。（新華社）
+
+---
+
+### 2026-06-17 02:02:53  #央行 #其他
+
+法國央行預計本國第二季度經濟零增長。
+
+---
+
+### 2026-06-17 02:00:41  #MKT News #EURUSD #Impact bullish
+
+Bank of France raises its 2027 GDP growth forecast to 0.9% from 0.8%; keeps 2028 forecast at 1.2%.
+
+---
+
+### 2026-06-17 02:00:31  #央行 #其他
+
+法國央行將2026年經濟增長預測從此前的0.9%下調至0.5%。
+
+---
+
+### 2026-06-17 02:00:28  #央行 #其他
+
+法國央行預測，2027年經濟增長率為0.9%，此前預測值為0.8%；2028年經濟增長率維持1.2%不變。
+
+---
+
+### 2026-06-17 02:00:21  #央行 #其他
+
+法國央行預計2026年通脹率為2.5%，此前預測值為1.7%。
+
+---
+
+### 2026-06-17 02:00:20  #MKT News #Market Regions #Europe & UK
+
+Brazilian President Lula and European Commission President von der Leyen pledged to seek a solution to address EU concerns.
+
+---
+
+### 2026-06-17 01:59:42  #其他
+
+【赤道幾內亞政府集體辭職】當地時間16日，赤道幾內亞副總統特奧多羅·奧比昂·曼格宣佈，由於未能實現既定施政目標，政府已正式辭職。曼格在宣告中指出，此次辭職旨在為組建新的政府團隊鋪平道路，以提高行政效率並加快國家發展計劃的落實。他強調，政府各部門需要進一步提升工作表現，更有效地回應國家經濟和社會發展需求。目前，赤道幾內亞方面尚未公佈新內閣成員名單及具體組閣時間表。（央視新聞）
+
+---
+
+### 2026-06-17 01:59:20  #國際
+
+巴西總統盧拉與歐盟委員會主席馮德萊恩承諾，將致力於尋求解決方案，化解歐盟的關切。
+
+---
+
+### 2026-06-17 01:58:47  #國際
+
+美國國家颶風中心（NHC）表示，潛在一號熱帶氣旋正導致得克薩斯州和路易斯安那州部分地區出現危險的突發洪水。
+
+---
+
+### 2026-06-17 01:58:32  #國際
+
+巴西總統盧拉與歐盟委員會主席馮德萊恩確定建立雙邊機制，以識別涉及動物產品與鋼鐵領域的相關難題。
+
+---
+
+### 2026-06-17 01:58:17  #MKT News
+
+Brazilian President Lula met with European Commission President Von der Leyen to discuss trade restrictions targeting Brazilian products.
+
+---
+
+### 2026-06-17 01:58:01  #央行 #國際
+
+【伊朗央行行長：諒解備忘錄規定美有義務解凍伊資產】伊朗中央銀行行長阿卜杜勒納賽爾·赫馬提當地時間16日表示，關於伊美諒解備忘錄框架下被凍結資產解凍問題，在相關條款的制定過程中，已充分考慮過去所有經驗與歷史案例，並努力確保協議中設定的機制能夠提供最高程度的保障，以確保這些資金能夠被順利獲取與使用。赫馬提說，諒解備忘錄條款已明確規定美國在解凍資產方面的義務，且這些義務具有清晰性和可執行性，美國方面將被要求履行其承諾。赫馬提還強調，在諒解備忘錄簽署並開始執行後，將進行必要的技術與銀行層面的核查，以驗證資產是否真正解凍並可實際使用。赫馬提表示，這些被解凍的資金屬於伊朗中央銀行資產，這些資金的管理、分配與使用方式，將在央行法定許可權框架內決定。央行將根據國家需求、經濟狀況及外匯優先事項，對資金使用方式作出安排。 (央視新聞)
+
+---
+
+### 2026-06-17 01:57:34  #MKT News
+
+Canada's minister for U.S. trade said after meeting the U.S. trade representative on the sidelines of the G7 that talks are continuing to make progress.
+
+---
+
+### 2026-06-17 01:56:44  #國際
+
+巴西宣告：總統盧拉會見歐盟委員會主席馮德萊恩，就針對巴西產品的貿易限制措施展開討論。
+
+---
+
+### 2026-06-17 01:56:33  #MKT News #Important
+
+【US-Iran framework to include $300 billion private fund to spur investment in Iran】Refinitiv sources say the US-Iran framework includes plans to set up a $300 billion private investment fund to attract capital into Iran. The fund would only become operational after a final agreement is signed, would be privately financed (no government funds), and is separate from talks over Iran’s frozen sovereign assets. Organizers have secured commitments for more than half the fund from companies in the US, Gulf Arab states, Asia, South America and Africa.
+
+---
+
+### 2026-06-17 01:56:19  #市場
+
+阿根廷交易所股指下跌3%。
+
+---
+
+### 2026-06-17 01:55:38  #國際
+
+加拿大負責對美貿易事務部長勒布朗在G7峰會上談及與美國貿易代表辦公室會晤時表示：我們持續取得進展。
+
+---
+
+### 2026-06-17 01:54:02  #國際
+
+【擬設立3000億美元私募基金，用於加大對伊朗投資】訊息人士稱，一份美伊框架協議中包含設立規模3000億美元私人投資基金以扶持伊朗經濟的規劃。該基金僅在正式終版協議簽署後啟動，不包含任何政府出資。來自美國、海灣地區、亞洲、南美及非洲多國企業已承諾認繳過半資金。
+
+---
+
+### 2026-06-17 01:51:39  #國際
+
+一位直接參與協議內容的訊息人士透露，美伊框架協議包含一項規模3000億美元私募基金的設立計劃，以帶動對伊朗的投資。
+
+---
+
+### 2026-06-17 01:51:29  #焦點 #國際
+
+訊息人士稱，規模達3000億美元的伊朗投資基金只有在最終協議簽署後才會投入運作。
+
+---
+
+### 2026-06-17 01:51:22  #國際
+
+訊息人士稱，3000億美元伊朗投資基金中，已有逾一半金額獲得來自美國、海灣阿拉伯國家、亞洲、南美洲及非洲企業的投資承諾。
+
+---
+
+### 2026-06-17 01:49:14  #其他
+
+加拿大對美貿易部長：雙方已商定下週再次溝通。
+
+---
+
+### 2026-06-17 01:48:59  #MKT News
+
+Canada's minister for trade with the U.S. said he held a lengthy, constructive meeting with U.S. Trade Representative Greer; both agreed to re-engage next week.
+
+---
+
+### 2026-06-17 01:48:03  #市場
+
+標普500指數下跌0.3%，納斯達克指數下挫0.7%，跌幅持續擴大。
+
+---
+
+### 2026-06-17 01:47:46  #國際
+
+加拿大負責對美貿易事務部長：與美國貿易代表格里舉行了漫長且富有建設性的會談。
+
+---
+
+### 2026-06-17 01:47:06  #MKT News
+
+Iran's central bank governor said Iran hopes any agreement with the United States will include firm guarantees for the release of frozen funds.
+
+---
+
+### 2026-06-17 01:43:51  #央行 #國際
+
+伊朗央行行長：伊朗要求美伊協議中就資金支取事宜作出完整保障承諾。
+
+---
+
+### 2026-06-17 01:43:17  #市場
+
+標普500指數與納斯達克100指數跌幅擴大，跌至日內低點。
+
+---
+
+### 2026-06-17 01:42:55  #國際
+
+伊朗議會國家安全委員會主席表示，任何侵犯都將遭到“決定性、毀滅性的回擊”。
+
+---
+
+### 2026-06-17 01:42:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Head of Iran's parliamentary National Security Committee said any violations will be met with a decisive, devastating response.
+
+---
+
+### 2026-06-17 01:42:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Head of Iran's parliamentary National Security Committee said Washington must prove its commitment by ending the war against Lebanon and complying with every provision of the memorandum of understanding.
+
+---
+
+### 2026-06-17 01:42:27  #焦點 #國際
+
+伊朗議會國家安全委員會主席表示，華盛頓必須透過結束對黎巴嫩的戰爭、遵守該諒解備忘錄的每一項條款來證明其承諾。
+
+---
+
+### 2026-06-17 01:28:56  #MKT News #Market Regions #Europe & UK
+
+Financial Times reports U.S. Commerce Secretary Lutnick discussed establishing a "trusted partners" program with European diplomats.
+
+---
+
+### 2026-06-17 01:27:35  #國際
+
+美國商務部長霍華德·盧特尼克曾與歐洲外交官討論建立“可信夥伴”計劃。
+
+---
+
+### 2026-06-17 01:26:31  #MKT News #Market Themes #AI Revolution
+
+Financial Times reports that after controversy over an Anthropic model, U.S. and European policymakers are discussing access rules for AI models.
+
+---
+
+### 2026-06-17 01:25:37  #國際
+
+美國和歐洲就人工智慧模型准入問題進行商談，此前Anthropic引發爭議。
+
+---
+
+### 2026-06-17 01:24:48  #國際
+
+【美媒：美伊協議簽署後 伊朗即可出口石油】據美國《華爾街日報》16日報道，在美國與伊朗本週簽署諒解備忘錄後，伊朗即可對外銷售其石油和燃料。報道援引匿名知情人士的話說，針對銀行、運輸和保險等伊朗石油出口相關行業的制裁也將同時獲得豁免。據報道，一艘載有原油的伊朗超級油輪當天離開伊朗恰巴哈爾港，穿過美國先前實施封鎖的區域後駛離阿曼灣。該油輪沒有關閉定位追蹤器。（新華社）
+
+---
+
+### 2026-06-17 01:23:59  #MKT News
+
+The Russian Defence Ministry said Russian warships acted in accordance with international navigation rules and took all measures to prevent accidents.
+
+---
+
+### 2026-06-17 01:23:39  #國際
+
+俄羅斯國防部：俄羅斯軍艦符合國際航行規則開展行動，並已採取一切措施避免這起事故。
+
+---
+
+### 2026-06-17 01:22:41  #MKT News
+
+Russian Defence Ministry said that after warning shots were fired, the yacht immediately changed course and continued to move away from the Russian warship.
+
+---
+
+### 2026-06-17 01:22:30  #國際
+
+俄羅斯國防部：警告性射擊後，該遊艇立即改變航向，繼續駛離俄羅斯軍艦。
+
+---
+
+### 2026-06-17 01:22:21  #MKT News
+
+Russian Defence Ministry said a Russian frigate fired warning shots at a yacht that did not respond to signals.
+
+---
+
+### 2026-06-17 01:21:54  #MKT News #Market Regions #Europe & UK
+
+RUSSIAN DEFENCE MINISTRY said on June 16 that the frigate Grigorovich, in the English Channel, encountered a yacht flying the British flag that approached on a dangerous route; the frigate made repeated attempts to contact the yacht but received no response.
+
+---
+
+### 2026-06-17 01:21:36  #國際
+
+俄羅斯國防部：護衛艦向未回應訊號的遊艇鳴槍示警。
+
+---
+
+### 2026-06-17 01:20:53  #國際
+
+埃及總統塞西周二在法國出席G7峰會期間，敦促以色列放棄控制加沙地帶70%區域的計劃。
+
+---
+
+### 2026-06-17 01:20:43  #國際
+
+俄羅斯國防部：俄羅斯護衛艦多次嘗試與該遊艇取得聯絡，但未獲回應。
+
+---
+
+### 2026-06-17 01:20:02  #國際
+
+俄羅斯國防部：6月16日，俄羅斯護衛艦“格里戈羅維奇海軍上將”號在英吉利海峽發現一艘懸掛英國國旗的遊艇，該遊艇正以危險航向靠近這艘俄軍艦。
 
 ---
 
@@ -21162,269 +21540,5 @@ Ship-tracking company Marine Traffic reports vessel transits through the Strait 
 ### 2026-06-15 22:30:22  #MKT News #Important
 
 【Electronic specialty gas producers report surge in orders】As AI and high-end memory chip demand rises, electronic specialty gases — electronic-grade gases with purity above 99.99% used in semiconductor manufacturing — are in short supply for several core products. Several producers say orders have jumped and production lines are running at high load. Since the start of the year wafer fabs’ transport demand for these often flammable/explosive, zero-inventory chemicals has surged, pushing delivery schedules and logistics to full capacity.
-
----
-
-### 2026-06-15 22:29:34  #央行 #其他
-
-銀行人士表示，土耳其央行上週不包含互換的淨儲備減少5億美元，降至290億美元。
-
----
-
-### 2026-06-15 22:29:32  #其他
-
-銀行業人士表示，土耳其中央銀行上週買入了30億美元外匯。
-
----
-
-### 2026-06-15 22:29:23  #央行 #其他
-
-銀行業人士表示，土耳其央行淨儲備上週減少20億美元，降至450億美元。
-
----
-
-### 2026-06-15 22:29:20  #央行 #其他
-
-據銀行人士透露，土耳其央行上週總儲備減少75億美元，降至1520億美元。
-
----
-
-### 2026-06-15 22:29:12  #宏觀 #公司
-
-【山姆就食品安全問題致歉 成立專項工作組啟動整改】15日，山姆會員商店就近期多發的食品安全問題向公眾及會員致歉，並稱已啟動自查整改。針對一段時期以來發現的山姆線下門店及線上網店多發的食品安全問題，市場監管總局近日依法對沃爾瑪（中國）投資有限公司（即山姆總部）負責人進行了責任約談，山姆相關負責人回應稱，針對約談中監管部門所指出的問題與整改要求，完全認可、深刻反思並誠懇接受。對於相關問題給會員帶來的困擾與不便，深表歉意。山姆相關負責人表示，目前，公司已由管理層牽頭成立專項整改工作組，第一時間啟動全渠道、全鏈路專項自查整改。公司將嚴格遵照相關法規及監管要求，全面最佳化食安管控和商品品控，嚴守食品安全底線、提升會員體驗。將定期向監管部門報送整改進展，主動接受社會各界監督。（新華社）
-
----
-
-### 2026-06-15 22:28:53  #其他
-
-【半導體血液爆單 電子特氣生產企業爆單】隨著人工智慧產業景氣度不斷攀升，AI晶片、高階儲存晶片的需求旺盛。而這些晶片的生產中，離不開一種特殊的耗材——電子特種氣體。電子特種氣體，是純度高於‌99.99%‌的電子級氣體，屬於電子化學品領域的核心材料，也被稱為半導體產業的血液。在下游強勁需求的推動下，電子特氣市場多款核心產品目前供不應求。多家特氣生產企業負責人告訴央視財經記者，在手訂單大幅增加，產線處於高負荷運轉狀態。在上海浦東新區一家特種氣體物流運輸企業，身穿專業防護服的工人，正嚴格按照操作規範，完成上百種電子特氣的卸車、檢驗與入庫作業。企業負責人表示，這些產品的最終去向很多是半導體晶圓廠，由於部分電子特氣屬於易燃易爆高危化學品，客戶通常零庫存。據企業負責人介紹，今年以來半導體晶圓廠商的電子特氣運輸需求爆發式增長，幾乎把企業的配送節奏拉至滿負荷。（央視財經）
-
----
-
-### 2026-06-15 22:27:37  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
-
-Brent crude fell below $82/bbl for the first time since March 10, sliding 4.76% on the day.
-
----
-
-### 2026-06-15 22:27:21  #MKT News #BLK.O #Impact bearish #BX.O
-
-AXIOS reports Democratic Senator Elizabeth Warren has questioned BlackRock and Blackstone.
-
----
-
-### 2026-06-15 22:27:15  #公司 #國際
-
-美國民主黨參議員沃倫質詢貝萊德、黑石集團。 質詢布魯克斯通與 KKR 集團。
-
----
-
-### 2026-06-15 22:26:34  #央行 #國際
-
-印度儲備銀行：印度央行已釋出支付系統運營授權相關主指令。
-
----
-
-### 2026-06-15 22:26:27  #國際
-
-市場訊息：美國民主黨參議員沃倫要求獲取有關資料中心私募股權交易的資訊。
-
----
-
-### 2026-06-15 22:26:22  #MKT News #EQIX.O #DLR.O #CONE.O
-
-Axios reports U.S. Democratic Senator Elizabeth Warren has requested information on private-equity transactions involving data centers.
-
----
-
-### 2026-06-15 22:25:39  #國際
-
-市場訊息：波蘭暫停向烏克蘭移交米格 - 29 戰鬥機，直至雙方達成無人機技術相關協議。波蘭國防部副部長表示，華沙方面希望借鑑烏克蘭在無人機蜂群與攔截型無人機領域的實戰經驗。
-
----
-
-### 2026-06-15 22:25:25  #國際
-
-【黎巴嫩真主黨歡迎美伊達成諒解備忘錄】黎巴嫩真主黨15日發表宣告，對美伊達成諒解備忘錄表示歡迎，稱其有助於包括黎巴嫩在內的各條戰線實現全面停火。真主黨在宣告中說，達成諒解備忘錄是一項“重大成就”，並讚揚伊朗在談判中始終注重維護黎巴嫩權益、推動結束衝突。宣告還表示，真主黨武裝力量將繼續捍衛黎巴嫩主權，不會接受針對黎巴嫩的任何新襲擊。 (新華社)
-
----
-
-### 2026-06-15 22:24:50  #國際
-
-野村控股策略師：霍爾木茲海峽預計將於週五重新開放，因此從現在到那時可能會有一段令人焦慮的等待期。以色列在此期間的舉動也可能成為變數。
-
----
-
-### 2026-06-15 22:24:24  #央行 #市場 #觀點 #國際
-
-【摩根大通：投資者認為，油價下跌將降低發達市場央行採取更激進加息措施的必要性】摩根大通跨資產策略主管Fabio Bassi：投資者認為，油價下跌將降低發達市場央行採取更激進加息措施的必要性。市場參與者已經習慣中東局勢訊息反覆帶來的影響，因此對當前局勢仍保持一定程度的懷疑。預計10年期美國國債收益率將在年底時接近4.70%。如果收益率升破該水平，將為長期投資者提供買入機會。
-
----
-
-### 2026-06-15 22:22:54  #其他
-
-【奈及利亞霍亂疫情持續蔓延】奈及利亞近來的霍亂疫情持續蔓延，該國高原州衛生部門14日報告5例死亡病例，此前博爾諾州已報告85例死亡病例。高原州衛生部門14日報告，該州目前累計確診病例11例，疑似病例53例，死亡病例5例。據博爾諾州衛生部門統計的資料，今年5月1日至6月7日期間，該州報告85例死亡病例，累計確診病例達8457例。（新華社）
-
----
-
-### 2026-06-15 22:22:00  #MKT News
-
-【Underwriters exercise greenshoe, SpaceX IPO proceeds rise to $85.7 billion】Underwriters for SpaceX (SPCX.O) have exercised the IPO greenshoe, lifting total proceeds to $85.7 billion from the $75.0 billion initially raised last Thursday. The greenshoe size exceeds that of nearly all previously recorded technology IPOs. Underwriters typically exercise a greenshoe when the share price rises.
-
----
-
-### 2026-06-15 22:21:32  #其他
-
-SpaceX漲超8%，市值達2.28萬億美元。
-
----
-
-### 2026-06-15 22:21:02  #國際
-
-伊朗外交部發言人：美國未來有可能再次違背自身承諾，我方軍隊時刻保持戒備，一切應對方案均在考量範圍內。
-
----
-
-### 2026-06-15 22:19:15  #焦點 #國際
-
-美國軍方警告稱，受封鎖影響的船舶在接到“明確指令”前不得嘗試通行。
-
----
-
-### 2026-06-15 22:19:13  #焦點 #國際
-
-美國軍事顧問團表示，在定於6月19日完成與伊朗的協議之前，美國對伊朗港口的封鎖將繼續生效。
-
----
-
-### 2026-06-15 22:19:01  #公司 #市場 #觀點 #央行 #國際
-
-【美債全線上揚 伊朗協議促使交易員削減對美聯儲的加息押注】美債上漲，伊朗臨時協議達成的訊息傳出後，投資者降低對美聯儲加息的預期。各期限美債收益率均下降，對貨幣政策變化最為敏感的短期債券收益率領跌。互換市場交易員預計，美聯儲12月前加息25個基點的可能性約為70%，低於上週五的約80%。布倫特原油價格下跌約5%，緩解了市場對通脹的擔憂。美元走低。美債價格上漲，因投資者樂觀預期伊朗衝突的解決將有助於重新開放霍爾木茲海峽並降低油價。這一走勢的影響遠不止於規模31萬億美元的美債市場，鑑於美國債券是全球借貸成本的基準，對從公司債、新興市場資產等諸多市場都有影響。而美元的下跌則與避險需求下降有關。“投資者認為，油價下跌將降低發達市場央行採取更激進加息措施的必要性，”摩根大通跨資產策略主管Fabio Bassi表示。“市場參與者已經習慣中東局勢訊息反覆帶來的影響，因此對當前局勢仍保持一定程度的懷疑。”Bassi預計，10年期美國國債收益率將在年底時接近4.70%。他認為，如果收益率升破該水平，將為長期投資者提供買入機會。
-
----
-
-### 2026-06-15 22:18:38  #Trading Economics #Economy #United States #Nahb Housing Market Index #Importance 2
-
-US Homebuilder Confidence Weakens in June — The NAHB/Wells Fargo Housing Market Index (HMI), which tracks US homebuilder confidence in the market for newly built single-family homes, fell to 35 in June 2026, down from 37 in May and slightly below market expectations of 36. Within the report, current sales conditions declined by two points to 38, while sales expectations for the next six months remained unchanged at 45. Buyer traffic also held steady at a weak level of 25, signaling persistently soft demand. The survey also highlighted continued reliance on pricing strategies. 35% of builders reported cutting prices in June, up from 32% in May. The average price reduction remained at 6%, unchanged month-over-month. In addition, the use of sales incentives ticked up to 62% from 61%, marking the 15th consecutive month that more than 60% of builders have offered incentives to attract buyers.
-
----
-
-### 2026-06-15 22:18:30  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #XAUUSD
-
-【US June homebuilder confidence falls to 35; South drives largest decline】NAHB and Wells Fargo data released Monday showed the housing market index fell 2 points in June to 35, below consensus. The South, the largest U.S. residential-construction region, recorded the biggest drop since Nov. 2023. The index has stayed below 40 for a 14th consecutive month, the longest stretch since 2011–12. By component, the current-sales gauge slipped 2 points to 38 while future-sales expectations and buyer-traffic measures were unchanged. NAHB said rising mortgage rates, higher building-material costs, increased financing costs and permitting/regulatory headwinds are weighing on builders.
-
----
-
-### 2026-06-15 22:18:27  #市場 #國際
-
-【美國6月住宅建築商信心降至低位 南部地區拖累明顯】美國住宅建築商信心在6月進一步下滑，原因是抵押貸款利率和建築材料成本上升，同時美國南部地區信心大幅惡化。美國全國住宅建築商協會（NAHB）與富國銀行週一公佈的資料顯示，衡量整體市場狀況的房產市場指數本月下降2點至35，低於市場預期。作為美國最大的住宅建設區域，南部地區信心創下自2023年11月以來最大跌幅。NAHB表示，6月已是該指數連續第14個月低於40，創下2011年至2012年以來最長持續低迷紀錄。從分項指標來看，當前銷售狀況指數下降2點至38，而未來銷售預期和潛在購房者到訪量指標均持平。住宅建築商協會認為，整體指數下滑部分歸因於建築材料價格上漲、融資成本增加以及阻礙住宅建設的監管因素。
-
----
-
-### 2026-06-15 22:18:22  #MKT News
-
-Lebanese security sources and state media said an Israeli drone struck a car in southern Lebanon, killing the driver.
-
----
-
-### 2026-06-15 22:18:16  #國際
-
-黎巴嫩安全部門訊息人士及官方媒體稱，以色列無人機空襲黎巴嫩南部一輛汽車，司機當場身亡。
-
----
-
-### 2026-06-15 22:18:09  #市場 #國際
-
-【海峽重新開放訊息傳出後加密貨幣大漲】與伊朗達成和平協議的訊息在前市提振了加密貨幣，比特幣上漲3.7%，至66,304美元；以太幣上漲8.2%，至1,807美元；XRP上漲8.6%，至1.23美元；solana上漲8.4%，至73.46美元。這一大漲是對和平協議及其對通貨膨脹可能產生的影響，以及被稱為“賣家疲竭“現象的反應。Bitfinex的分析師在一份報告中說：“美元走強和實際收益率上升令黃金和比特幣雙雙承壓，這強化了這樣一種觀點，即流動性狀況仍是比傳統避險敘事更重要的驅動因素。“他們還表示：“能源價格的持續下跌可能會逆轉這些壓力，併為包括加密貨幣在內的風險資產創造更具支援性的環境。”
-
----
-
-### 2026-06-15 22:17:36  #其他
-
-SpaceX：完成6.3888888億股A類普通股首次公開發行的交割。
-
----
-
-### 2026-06-15 22:17:13  #MKT News
-
-SpaceX has completed an initial public offering of 638,888,888 Class A common shares.
-
----
-
-### 2026-06-15 22:16:07  #市場
-
-匈牙利福林日內漲幅約0.5%，一度短暫跌破1歐元兌350福林關口。
-
----
-
-### 2026-06-15 22:16:00  #公司
-
-【佳禾智慧：公司目前沒有6G產業的佈局】佳禾智慧6月15日在互動平臺稱，公司目前沒有6G產業的佈局。
-
----
-
-### 2026-06-15 22:15:20  #兩會
-
-【韋明當選上海市閔行區政協主席】據“今日閔行”微信公眾號訊息，2026年6月15日下午，中國人民政治協商會議上海市閔行區第七屆委員會第六次會議在中共閔行區委黨校召開。會議透過了區政協七屆六次會議選舉辦法，補選區七屆政協主席候選人名單以及總監票人、監票人名單。經與會委員無記名投票，韋明當選為區七屆政協主席。
-
----
-
-### 2026-06-15 22:14:36  #資料 #國際
-
-【美國6月住宅建築商信心指數降至35 低於預期中值】美國全國住宅建築商協會(NAHB)/富國銀行資料顯示，6月建築商信心指數降至35，前月為37。接受調查的24位經濟學家預測區間為35-39；預估中值為37。單戶型住宅當前銷售指標從40降至38。單戶型住宅預期銷售指標維持在45不變。潛在買家客流指標維持25不變。
-
----
-
-### 2026-06-15 22:14:09  #國際
-
-惠譽評級：通脹與利率帶來的不利因素拖累美國年中信貸展望。
-
----
-
-### 2026-06-15 22:13:53  #MKT News
-
-FITCH says inf and interest-rate headwinds are weighing on the US mid-year credit outlook.
-
----
-
-### 2026-06-15 22:12:09  #公司 #市場
-
-【6月15日增減持彙總】據統計，6月15日盤後，愛迪特、新迅達、吉大正元、英派斯4家A股上市公司披露擬減持情況，當日暫無A股公司披露增持情況。
-
----
-
-### 2026-06-15 22:11:24  #公司
-
-【中國能建：江蘇電建一公司組成的聯合體中標約42.93億元壓縮空氣儲能專案】據中國能建訊息，6月15日，中國能建江蘇電建一公司作為聯合體牽頭單位中標深能錫林郭勒西烏珠穆沁旗電網側壓縮空氣儲能專案地面電站工程EPC總承包專案，中標金額約42.93億元。
-
----
-
-### 2026-06-15 22:10:03  #其他
-
-聯合國安理會投票決定將聯合國阿富汗特派團的授權延長一年。
-
----
-
-### 2026-06-15 22:09:59  #國際
-
-伊朗總統佩澤希基揚表示：相關諒解備忘錄的具體內容將擇機對外公佈。未來兩個月內，各方將針對備忘錄細則展開磋商。伊朗方面派出的談判代表，絕不會偏離最高領袖為我們劃定的價值準則與談判框架。
-
----
-
-### 2026-06-15 22:09:49  #MKT News
-
-The UN Security Council voted to extend the mandate of the UN Assistance Mission in Afghanistan (UNAMA) by one year.
-
----
-
-### 2026-06-15 22:09:43  #國際
-
-【黎巴嫩真主黨發表宣告歡迎美伊臨時協議】黎巴嫩真主黨15日發表書面宣告，對美伊兩國日前宣佈達成停止衝突臨時協議表示歡迎，向伊朗方面表示祝賀，並對伊方在談判中堅持將“黎巴嫩停火”納入協議內容表達了深切謝意，同時警告稱真主黨絕不接受任何侵犯黎巴嫩國家主權的進一步襲擊。 宣告指出，伊方此舉再次用實際行動證明其是“真正的盟友與有力的後盾”。根據此前伊朗及斡旋方巴基斯坦釋出的訊息，美伊雙方計劃於本週五正式簽署諒解備忘錄，屆時將立即終止包括黎巴嫩戰線在內的所有前線軍事行動。
-
----
-
-### 2026-06-15 22:08:56  #MKT News #Market Regions #Europe & UK
-
-CNN reports Trump has arrived in Europe to attend the G7 summit.
 
 ---
