@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-21 15:57:58",
-  "count": 17621,
+  "updated": "2026-06-21 16:01:55",
+  "count": 17618,
   "items": [
+    {
+      "id": "4946267",
+      "time": "2026-06-21 15:59:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劉強東：將來根本不需要快遞員，希望送70萬藍領兄弟去培訓】劉今日舉辦的2026年APEC工商領導人中國論壇上，京東集團創始人、董事局主席劉強東透露，近期，京東內部提出了“涅槃計劃”，希望把京東已有的70萬快遞員等藍領工人，送到學校做技術培訓，以應對AI和技術發展帶來的衝擊。“將來都是機器人送貨了，根本不需要快遞員，一定是機器人送貨，但是我並不需要我們70萬兄弟沒有飯吃、沒有工作。”劉強東表示，京東因此在全國簽了120所學校，把他們送去學校做培訓，以後可以給機器人做維修、做保養。“機制都可能出故障，故障了還得人去修，這樣我們把藍領工作人員白領了，讓他們住在辦公室裡面，不用再風裡來雨裡去，不用這麼辛苦。”劉強東表示，作為企業，如果你有新的技術，要讓我們人類的生活變得更加美好，讓我們工作變得更加有趣，而不是技術來剝奪人類公共的權利。（新浪科技）"
+    },
+    {
+      "id": "4946266",
+      "time": "2026-06-21 15:59:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊在瑞士會談即將開始】瑞士外交部今天（6月21日）表示，由美國副總統萬斯率領的美國代表團、由伊朗議會議長卡利巴夫率領的伊朗代表團，以及調解方巴基斯坦和卡達均已抵達比爾根山。會談預計將於當地時間上午開始。（CCTV國際時訊）"
+    },
+    {
+      "id": "4946265",
+      "time": "2026-06-21 15:58:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方盛虹：1600萬噸/年煉化一體化專案裝置6月底起例行檢修】東方盛虹公告，公司的1600萬噸/年盛虹煉化一體化專案自2022年底打通全流程以來，已連續運營四年。根據石油化工生產裝置執行規律和週期性檢修的特點，公司將按計劃從2026年6月底起對1600萬噸/年盛虹煉化一體化專案裝置進行例行性停產檢修，其他部分配套裝置根據檢修需要陪停，淨檢修期預計45天，具體復產時間以裝置實際開車時間為準。公司將根據檢修進度適時調整，及早恢復生產。"
+    },
     {
       "id": "mkt:019ee92b-d656-7dd8-b0a4-64756cbcf5ad",
       "time": "2026-06-21 15:53:44",
@@ -162228,61 +162252,6 @@
         "Brent"
       ],
       "text": "Ukraine President ZELENSKIY said six Russian airports have imposed air-traffic restrictions and 28 Russian regions have been under air-raid alerts since last night."
-    },
-    {
-      "id": "mkt:019ec526-7460-7dd8-afef-c622e5457c19",
-      "time": "2026-06-14 16:01:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Zelenskiy said Ukrainian forces have achieved objectives in Russia's Tula region, notably the Azot chemical plant, whose operation is critical to explosives production capacity."
-    },
-    {
-      "id": "mkt:019ec526-2ce8-7dd8-afef-bdc350c6a9f6",
-      "time": "2026-06-14 16:01:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukraine's President Zelenskiy said Ukrainian forces struck an oil facility in Russia's Yaroslavl region, more than 700 km from the Ukrainian border, that is vital to Russia's reserves."
-    },
-    {
-      "id": "4934307",
-      "time": "2026-06-14 15:59:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏軍在對俄羅斯境內及烏克蘭暫時被佔領土的重要設施實施遠端制裁方面取得了良好成果。"
-    },
-    {
-      "id": "mkt:019ec524-f3e8-7dd8-afef-b3c5bafa0829",
-      "time": "2026-06-14 15:59:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Zelenskiy said Ukrainian forces have achieved good results from long-range strikes on key facilities inside Russia and in temporarily occupied Ukrainian territory."
-    },
-    {
-      "id": "mkt:019ec524-a713-7dd8-afef-ae18c643624e",
-      "time": "2026-06-14 15:59:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Source: Iran has not yet made final decision on MoU with US】A person close to Iran's negotiating team said on the 14th that Iran has not yet made a final decision on a memorandum of understanding with the United States."
-    },
-    {
-      "id": "4934306",
-      "time": "2026-06-14 15:58:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗尚未就與美國的諒解備忘錄作出最終決定】一名接近伊朗談判團隊的知情人士表示，伊朗尚未就與美國的諒解備忘錄作出最終決定。（新華社）"
     }
   ]
 }
