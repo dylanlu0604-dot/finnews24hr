@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-22 02:56:35",
-  "count": 17477,
+  "updated": "2026-06-22 03:00:39",
+  "count": 17476,
   "items": [
+    {
+      "id": "mkt:019eeb8c-39cb-7dd8-b0a8-fb3b31b83bb3",
+      "time": "2026-06-22 02:58:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Israel to end nationwide public restrictions, including Lebanon border area】CNN reports Israel will end nationwide public restrictions, including those along the Lebanon border, a move cited as a sign of recent ceasefire progress. Israel’s Home Front Command said the current measures will expire at 0600 local on Monday. The restrictions had limited gatherings and school activities in northern communities since the conflict with Iran began three months ago. By Monday morning there will be no nationwide measures affecting schools, work or public gatherings."
+    },
     {
       "id": "mkt:019eeb8a-10df-7dd8-b0a8-f65b668e8833",
       "time": "2026-06-22 02:55:54",
@@ -160954,22 +160963,6 @@
         "其他"
       ],
       "text": "剛果表示，埃博拉確診病例數已升至782例。"
-    },
-    {
-      "id": "mkt:019ec781-c77b-7dd8-aff6-46a1a52082fe",
-      "time": "2026-06-15 03:00:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mehr news agency reports the Iran Civil Aviation Organization said it has not issued any new NOTAMs restricting domestic flights."
-    },
-    {
-      "id": "4934745",
-      "time": "2026-06-15 02:59:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：敵人休想孤立地撼動抵抗陣線的根基分毫。黎巴嫩英勇鬥士的奮勇抗爭，加之伊朗強有力的外交舉措，必將捍衛黎巴嫩的主權與領土完整，粉碎以色列政權的瘋狂行徑與戰爭圖謀，無論對方如何巧言詭辯都無濟於事。"
     }
   ]
 }
