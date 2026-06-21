@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-22 03:19:24_
-_本檔包含 3789 則快訊，約 650565 字_
+_更新時間：2026-06-22 04:43:01_
+_本檔包含 3781 則快訊，約 649742 字_
+
+---
+
+### 2026-06-22 04:40:18  #國際
+
+特朗普：遭嚴重蓄意破壞的倒影池修繕工程將即刻動工。我剛剛前去實地視察，當時我不禁自言自語，也對著身旁隨行人員感嘆，天吶，什麼樣的人能幹出這種事？一群病態、精神失常之徒！我們一定會將其修復。
+
+---
+
+### 2026-06-22 04:37:38  #其他
+
+目前有訊息猜測，美伊新一輪談判結束後或將釋出一份初步聯合宣告。
+
+---
+
+### 2026-06-22 04:35:13  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【US diplomat says progress in US-Iran talks on keeping Strait of Hormuz open】A US diplomat told Axios that US-Iran talks, which began Sunday morning local time and have continued in various formats with minimal interruption, made progress on keeping the Strait of Hormuz fully open after recent Iranian statements about possible closure. The talks also addressed a Lebanon de‑escalation mechanism and ceasefire implementation. The diplomat said discussions covered all components of the nuclear agreement and were productive on implementing a memorandum of understanding, aligning positions, and planning political and technical follow‑up.
+
+---
+
+### 2026-06-22 04:27:31  #國際
+
+伊朗廣播電視臺一名記者表示，目前尚無法確認談判是否已經結束，但種種跡象顯示伊朗代表團或許正準備返回伊朗。
+
+---
+
+### 2026-06-22 04:26:05  #國際
+
+伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡阿尼警告以色列，若繼續推行當下政策，以色列或將重演2000年從黎巴嫩南部撤軍的結局。
+
+---
+
+### 2026-06-22 04:25:20  #國際
+
+以色列一名高階安全官員表示，若再度嘗試將伊朗議題與黎巴嫩議題分割處理，只會惡化以美關係。
+
+---
+
+### 2026-06-22 04:21:49  #國際
+
+【美國外交官：美伊談判富有建設性】一名美國外交官透露，美伊談判於週日上午啟動，此後幾乎不間斷持續推進，磋商議題涵蓋黎巴嫩衝突隔離機制、停火安排、伊朗核計劃以及霍爾木茲海峽通航事宜，美方著重強調海峽必須保持暢通。該外交官表示，雙方圍繞落實諒解備忘錄、推進後續政治與技術層面磋商的討論富有建設性。
+
+---
+
+### 2026-06-22 04:19:01  #MKT News #WTI #Impact bearish #Brent
+
+Axios: U.S. diplomats say Iran talks are focused on a Lebanon conflict de-escalation mechanism and on implementing a ceasefire agreement.
+
+---
+
+### 2026-06-22 04:18:47  #國際
+
+美國外交官就伊朗談判表態：重點是建立黎巴嫩去衝突機制以及落實停火協議。
+
+---
+
+### 2026-06-22 04:18:39  #焦點 #國際
+
+美國外交官談伊朗談判：在維持霍爾木茲海峽暢通方面已取得良好進展。
+
+---
+
+### 2026-06-22 04:18:25  #MKT News #Important #WTI #Impact bearish #Brent
+
+Axios reported U.S. diplomats said they have made good progress in keeping the Strait of Hormuz open.
+
+---
+
+### 2026-06-22 04:15:37  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Insiders report an explosion at the Barzan gas plant in Ras Laffan, Qatar; cause cited as "operational error".
+
+---
+
+### 2026-06-22 04:15:04  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+【Egypt, Pakistan, Saudi Arabia, Turkey foreign ministers meet in Cairo】Foreign ministers of Egypt, Pakistan, Saudi Arabia and Turkey met in Cairo on the 21st and issued a joint statement saying the US‑Iran conflict poses significant risks to regional security, international energy markets, maritime trade routes, global supply chains and international trade. They welcomed the recent US‑Iran memorandum of understanding as a constructive step toward de‑escalation and urged all parties to honor commitments. The ministers said the US and Iran should sustain current momentum, promptly complete next‑stage talks and agree a durable, verifiable and mutually acceptable solution that addresses regional states' concerns.
+
+---
+
+### 2026-06-22 04:12:16  #國際
+
+【埃及、巴基斯坦、沙特、土耳其外長在開羅舉行會談】埃及外長阿卜杜勒阿提、巴基斯坦副總理兼外交部長達爾、沙烏地阿拉伯外交大臣費薩爾和土耳其外長費丹21日在開羅舉行會談，就包括伊朗問題在內的當前地區局勢交換意見。埃及、巴基斯坦、沙特、土耳其當天釋出聯合宣告稱，美國與伊朗衝突對地區安全與穩定、國際能源市場、海上航線、全球供應鏈和國際貿易構成重大風險。各方對近期美伊簽署諒解備忘錄表示歡迎，認為這對推動局勢緩和、結束地區衝突起建設性作用，並強調有關方應忠實履行承諾。（新華社）
+
+---
+
+### 2026-06-22 04:11:16  #MKT News
+
+According to Iran's Press TV, four-party talks in Switzerland have ended after Iran's delegation walked out.
+
+---
+
+### 2026-06-22 04:10:02  #焦點 #國際
+
+伊朗新聞電視臺稱，在瑞士舉行的四方會談結束後，伊朗代表團已離場。
+
+---
+
+### 2026-06-22 04:08:11  #MKT News
+
+A U.S. diplomat participating in talks in Switzerland told Axios he expects negotiations with Iran and mediators from Pakistan and Qatar to continue overnight.
+
+---
+
+### 2026-06-22 04:07:15  #國際
+
+一名參與瑞士談判的美國外交官透露，預計美方與伊朗、巴基斯坦及卡達斡旋方的磋商將持續至深夜。
+
+---
+
+### 2026-06-22 04:02:42  #焦點 #國際
+
+土耳其外交部長警告，以色列存在破壞美伊協議的風險。
+
+---
+
+### 2026-06-22 04:01:54  #MKT News #WTI #Impact bearish #Brent
+
+A U.S. diplomat said the Iranian delegation remains in Switzerland and nuclear talks are continuing; intensive negotiations on all elements of a nuclear agreement are underway, with some sessions focused on clarifying confusion about the Strait of Hormuz to ensure it remains open.
+
+---
+
+### 2026-06-22 04:01:54  #MKT News #Important #Commodities #Energy
+
+Qatar's Ministry of Interior said the Ras Laffan plant explosion was caused by a "technical accident".
+
+---
+
+### 2026-06-22 04:01:20  #其他
+
+卡達內政部表示，拉斯拉凡工業園區一家工廠發生的爆炸由“技術事故”導致。
+
+---
+
+### 2026-06-22 03:55:08  #其他
+
+卡達內政部報告稱，拉斯拉凡一處工廠發生爆炸，目前尚無人員傷亡報告，也未發生洩漏。
+
+---
+
+### 2026-06-22 03:54:06  #MKT News #Important
+
+Qatar's Ministry of Interior said an explosion occurred inside a factory in the Ras Laffan industrial area; no casualties or leaks have been reported so far.
+
+---
+
+### 2026-06-22 03:51:28  #國際
+
+以色列國家安全部長本-格維爾談及特朗普： 美方此番（談判）想法未免有些天真，是典型的美式天真。
+
+---
+
+### 2026-06-22 03:50:47  #國際
+
+以色列國家安全部長本-格維爾： 對待伊朗人，妥協毫無意義，簽署協議也毫無意義。 必須轟炸伊朗，反覆轟炸，持續打擊。 對待真主黨也是同理——持續轟炸，一輪又一輪地打擊。這才是可行之道。 任何人想譴責我都悉聽尊便，全世界的人想說什麼都隨便。我由衷堅信這套主張。
+
+---
+
+### 2026-06-22 03:50:10  #其他
+
+卡達多哈、巴林境內傳來劇烈爆炸聲，當地伴有震感。
+
+---
+
+### 2026-06-22 03:45:46  #MKT News #Important
+
+Refinitiv reported a loud explosion was heard in Doha, Qatar.
+
+---
+
+### 2026-06-22 03:45:21  #其他
+
+目擊者：卡達多哈傳來巨大爆炸聲。
+
+---
+
+### 2026-06-22 03:43:21  #MKT News
+
+President Trump said that after the U.S. spent tens of trillions of dollars defending NATO, Italy and its prime minister never even considered intervening against Iran and its nuclear threat. He said that despite decades of U.S. protection they were not there when tested and when the U.S. and other nations needed them most, calling it very disappointing.
+
+---
+
+### 2026-06-22 03:43:05  #國際
+
+【特朗普：義大利並未承擔保衛美國的職責】特朗普在社交媒體發文稱：“我們已為北約投入數萬億美元，可義大利及其總理，卻壓根不願介入應對伊朗及其嚴峻的核威脅問題。數十年來，一直是我們在保護他們，可一旦到了需要出力的時候，他們卻不肯站出來守護我們乃至世界其他地區。情況很糟糕。”
+
+---
+
+### 2026-06-22 03:42:19  #國際
+
+烏克蘭總統澤連斯基：烏克蘭襲擊了被佔領克里米亞的油庫以及俄羅斯克拉斯諾達爾邊疆區一處石油運輸設施。
+
+---
+
+### 2026-06-22 03:41:04  #國際
+
+特朗普：義大利未站出來支援我們，此舉不妥。
+
+---
+
+### 2026-06-22 03:40:58  #國際
+
+特朗普：伊朗核威脅形勢嚴峻。
+
+---
+
+### 2026-06-22 03:40:33  #其他
+
+市場資訊：英國議員、首相競爭者安迪·伯納姆已向英國首相斯塔默下最後通牒，要求其在週二晚間前給出辭職時間表。其支持者警告，若首相未能照做，或將引發一波內閣大臣集體請辭，後續還會有更多官員離職。
+
+---
+
+### 2026-06-22 03:34:11  #MKT News #Important
+
+Saudi outlet Asharq News reports Lebanese authorities have been informed that Israel plans to withdraw from several positions inside Lebanon ahead of Lebanon‑Israel talks this week.
+
+---
+
+### 2026-06-22 03:30:56  #國際
+
+法國總統馬克龍宣佈將於6月22日（週一）成立一個全新的跨部門危機應對小組。
+
+---
+
+### 2026-06-22 03:30:04  #市場
+
+英鎊兌美元跌幅擴大至0.3%，有訊息稱英國首相斯塔默可能會辭職。
+
+---
+
+### 2026-06-22 03:20:00  #公司
+
+據訊息人士透露，克勞斯-瑪菲·威格曼防務集團（KNDS）估值約在150億至190億歐元之間。
 
 ---
 
@@ -22565,287 +22799,5 @@ The CAC 40 Index Closes 0.46% Higher — The CAC 40 Index gained 39 points or 0.
 ### 2026-06-19 00:09:55  #國際
 
 【萬斯稱與伊朗達成的部分 “君子協定” 已有書面記錄】美國副總統 JD・萬斯在接受採訪時作出一番重要表態，證實雙方在談判部分議題上存在 “君子協定”。週四，萬斯於白宮新聞釋出廳向霍姆斯透露，其中一部分君子協定 “形成了書面檔案”。他表示：“無論是這份諒解備忘錄、各類君子協定，還是最終協議，諸位，口頭承諾無足輕重，我們只看重核查落實。”萬斯補充道，這份協議的框架設計核心在於，美國 “不相信空話，只相信實際行動與履約表現”。他表示，伊朗已承諾不再進行鈾濃縮活動，並允許核查人員入境銷燬其高濃縮鈾庫存。若伊朗切實履行上述承諾，“協議中規定了多項對應利好安排”。
-
----
-
-### 2026-06-19 00:09:03  #國際
-
-萬斯稱該協議要求伊朗“表現得像一個正常國家”。
-
----
-
-### 2026-06-19 00:08:32  #MKT News #Market Regions #Europe & UK
-
-Germany's defense minister said the priority for NATO's crisis response force is to avoid dangerous capability gaps and to draw up a corresponding roadmap.
-
----
-
-### 2026-06-19 00:08:02  #國際
-
-美國疾控中心就埃博拉疫情應對工作釋出宣告：已動用1.07億美元應急資金，用於擴大在剛果民主共和國和烏干達的相關抗疫行動。
-
----
-
-### 2026-06-19 00:07:51  #其他
-
-德國國防部長：北約危機反應部隊的核心問題在於避免危險的能力缺口，關鍵是要制定一份發展路線圖。
-
----
-
-### 2026-06-19 00:07:50  #MKT News #DXY #Impact bearish #XAUUSD
-
-U.S. Vice President Vance said the U.S. will withdraw troops to pre-conflict levels.
-
----
-
-### 2026-06-19 00:07:42  #國際
-
-美國副總統萬斯：我看到一些報道 —— 不清楚訊息來源是什麼 —— 稱卡達已解凍數十億美元伊朗資產。這完全不實。卡達若要解凍這筆資金，必須獲得我方同意，而且相關操作必然會被我們掌握，根本不可能私下完成。
-
----
-
-### 2026-06-19 00:07:01  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 1.12% Lower — The FTSE 100 Index decreased 118 points or 1.12 percent on Thursday to close at 10391 points. The decline was led by London Stock Exchange (-6.35%), Persimmon (-6.08%) and WPP (-5.52%).
-
----
-
-### 2026-06-19 00:06:21  #國際
-
-美國副總統萬斯就伊朗問題表態：我方將把軍隊撤回衝突前水平。
-
----
-
-### 2026-06-19 00:05:56  #公司 #國際
-
-【報道：瑞典或因超速擔憂反對特斯拉FSD技術】一份日期為4月30日的監管信函顯示，瑞典交通管理局建議對特斯拉受監督自動駕駛軟體（FSD）在歐洲範圍內的推廣投反對票，除非該公司禁用其超越法定限速的功能。該信函已傳送給歐盟機動車技術委員會，該委員會定於6月30日再次開會討論此事。特斯拉未回應置評請求；瑞典交通管理局（TRV）發言人表示，自4月份發出該信函以來，其立場並未改變。
-
----
-
-### 2026-06-19 00:05:56  #MKT News
-
-Ukraine defense minister says allies have pledged $1 billion in wartime aid.
-
----
-
-### 2026-06-19 00:04:40  #其他
-
-SPACEX股價跌幅擴大至9%。
-
----
-
-### 2026-06-19 00:04:35  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-U.S. Vice President Vance said Iran's missile-launch capability has been degraded.
-
----
-
-### 2026-06-19 00:04:18  #公司
-
-索尼集團公司：提交儲架發行債務申請，規模未披露。
-
----
-
-### 2026-06-19 00:03:49  #國際
-
-萬斯談伊朗彈道導彈：伊朗的導彈發射能力已遭到削弱。
-
----
-
-### 2026-06-19 00:03:30  #MKT News
-
-U.S. Vice President Vance said he will lead the U.S. team in technical talks.
-
----
-
-### 2026-06-19 00:03:26  #國際
-
-【白宮向國會提交美伊諒解備忘錄文字】據Politico，白宮週四向美國國會提交了美伊諒解備忘錄。此前，兩黨議員一直抱怨未能更早收到該協議。檔案顯示，美國與伊朗就至少暫時結束由特朗普發起、持續近四個月的軍事行動達成了14項共識。國會收到該協議的時間是在特朗普週三晚間於法國簽署檔案之後不久，隨後副總統萬斯在白宮向記者介紹了該協議。週三，一名特朗普政府官員在向國會議員提供檔案之前，先向記者宣讀了諒解備忘錄內容。此舉引發大批共和黨參議員以及部分眾議院共和黨議員強烈不滿。白宮高階官員已與部分共和黨議員舉行小範圍會議和一對一通話，但預計特朗普政府要到下週才會向全體議員通報該協議。
-
----
-
-### 2026-06-19 00:03:25  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-【White House submits U.S.-Iran memorandum of understanding to Congress — Politico】Politico reports the White House on Thursday delivered to Congress the text of a U.S.-Iran memorandum of understanding. The document records a 14-point consensus that would, at least temporarily, end U.S. military operations initiated by Trump and continued for nearly four months. Congress received the text shortly after Trump signed it in France Wednesday night; Vice President Pence later briefed reporters. A Trump administration official read the memorandum to reporters before it was provided to members of Congress, sparking strong objections from many Republican senators and some House Republicans. White House senior officials have held limited briefings and one-on-one calls with some Republicans; a full briefing for all members is expected next week.
-
----
-
-### 2026-06-19 00:03:16  #國際
-
-美國副總統萬斯就技術談判表態：我將率領美國代表團。
-
----
-
-### 2026-06-19 00:03:07  #MKT News
-
-U.S. Vice President Vance said he still plans to launch technical talks this weekend but is reviewing the specific details.
-
----
-
-### 2026-06-19 00:02:57  #國際
-
-萬斯：明天可能去瑞士，取決於伊朗的情況。
-
----
-
-### 2026-06-19 00:02:43  #MKT News
-
-US and Iran will hold talks on releasing frozen Iranian funds.
-
----
-
-### 2026-06-19 00:02:36  #國際
-
-白宮遞交給國會的文字顯示：美國與伊朗最終協議將獲得聯合國安理會決議背書。
-
----
-
-### 2026-06-19 00:02:30  #國際
-
-烏克蘭國防部長： 烏克蘭獲得盟友 10 億美元戰時援助承諾。
-
----
-
-### 2026-06-19 00:02:24  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US to grant waivers for Iranian oil exports.
-
----
-
-### 2026-06-19 00:02:21  #MKT News
-
-U.S. Vice President Vance said regarding a planned signing of an Iran agreement in Geneva that the U.S. plans to attend but the timing is uncertain.
-
----
-
-### 2026-06-19 00:02:17  #國際
-
-白宮遞交給國會的文字顯示：美國與伊朗將就解凍伊朗被凍結資金事宜展開談判。
-
----
-
-### 2026-06-19 00:02:12  #國際
-
-美國副總統萬斯：仍計劃於本週末啟動技術性談判，但目前仍在梳理相關安排。
-
----
-
-### 2026-06-19 00:01:58  #其他
-
-萬斯：計劃去瑞士，但不知道什麼時候去。
-
----
-
-### 2026-06-19 00:01:54  #其他
-
-萬斯：技術研討會可能會在本週末某個時候開始。
-
----
-
-### 2026-06-19 00:01:49  #國際
-
-白宮遞交給國會的文字顯示：伊朗稱將不會獲取或開發核武器。
-
----
-
-### 2026-06-19 00:01:43  #國際
-
-美國副總統萬斯就伊朗協議日內瓦簽署一事表態：我們計劃到場，具體時間尚未確定。
-
----
-
-### 2026-06-19 00:01:40  #MKT News #WTI #Impact bearish #Brent
-
-Iran says it will ensure free and safe passage for commercial vessels through the Strait of Hormuz for 60 days.
-
----
-
-### 2026-06-19 00:01:38  #國際
-
-白宮遞交給國會的文字顯示：美國將解除對伊朗的制裁。
-
----
-
-### 2026-06-19 00:01:21  #國際
-
-【外交部發言人就韓國外交部官員完整公開重申中韓建交聯合公報涉臺表述答記者問】外交部發言人就韓國外交部官員完整公開重申中韓建交聯合公報涉臺表述答記者問。問：韓國外交部東北亞中亞局長南鎮18日向記者表示，韓中建交聯合公報指出“大韓民國政府承認中華人民共和國政府為中國的唯一合法政府，並尊重中方只有一箇中國、臺灣是中國的一部分之立場”，韓方上述立場沒有變化。中方對此有何評論？答：韓國總統李在明今年1月訪華前夕接受中國媒體採訪時就臺灣問題表示，“韓中兩國的基本關係，在建交之初就確立了非常原則的、基本的立場。韓政府始終恪守這一立場，從未偏離。韓方對中國最核心的關切——臺灣問題，將一如既往秉持尊重一箇中國的立場”。此後他來華國事訪問時表示，韓方尊重中國核心利益和重大關切，堅持一箇中國。此次韓國外交部主管局長向媒體完整、公開重申中韓建交公報涉臺表述，即“大韓民國政府承認中華人民共和國政府為中國的唯一合法政府，並尊重中方只有一箇中國、臺灣是中國的一部分之立場”，中方對此積極評價。我們希望並相信韓方會堅守建交初心，恪守政治承諾，以實際行動踐行一箇中國原則，維護中韓關係政治基礎。
-
----
-
-### 2026-06-19 00:01:11  #國際
-
-白宮遞交給國會的文字顯示：伊朗將在60天內保障霍爾木茲海峽過往商船免費安全通行。
-
----
-
-### 2026-06-19 00:00:55  #國際
-
-白宮遞交給國會的文字顯示：美國及地區夥伴擬為伊朗制定規模3000億美元的重建與經濟發展計劃。
-
----
-
-### 2026-06-19 00:00:41  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-The US and Iran announced an immediate, permanent cessation of military operations on all fronts, including Lebanon. The US will fully end its maritime blockade of Iran within 30 days.
-
----
-
-### 2026-06-19 00:00:39  #公司
-
-亞馬遜員工稱，因就資料中心相關事宜出庭作證遭到盤問。
-
----
-
-### 2026-06-19 00:00:29  #國際
-
-房地美資料：美國30年期抵押貸款利率降至6.47%。
-
----
-
-### 2026-06-19 00:00:17  #其他
-
-房地美：截至6月18日，15年期固定抵押貸款平均利率為5.81%。
-
----
-
-### 2026-06-19 00:00:10  #國際
-
-白宮遞交給國會的文字顯示：美國與伊朗承諾在60日內談判達成最終協議，若雙方同意可延長談判期限。
-
----
-
-### 2026-06-18 23:59:41  #其他
-
-萬斯：與古巴政府談論改變他們的方式。
-
----
-
-### 2026-06-18 23:59:32  #國際
-
-烏克蘭國防部長表示，拉姆施泰因會議上已宣佈一項規模10億美元的武器援助包。
-
----
-
-### 2026-06-18 23:59:23  #國際
-
-美國與伊朗宣佈立即永久停止包括黎巴嫩在內所有戰線的軍事行動。
-
----
-
-### 2026-06-18 23:59:17  #國際
-
-【萬斯指責以色列對美國缺乏信任】據美國《紐約時報》6月18日報道，美國副總統萬斯當天在接受採訪時批評以色列對美國、伊朗達成的諒解備忘錄表現出“怪異的恐慌”和“歇斯底里”。報道稱，以色列各政治派別的官員，包括總理內塔尼亞胡的一些盟友，都對美伊諒解備忘錄提出了批評。他們表示，該備忘錄“未能解決以色列對伊朗核計劃和彈道導彈計劃的關切，並將束縛以色列針對黎巴嫩真主黨的軍事行動”。 萬斯在接受採訪時則指責以色列對美國缺乏信任。他說：“我們為這個國家（以色列）和其政府做得非常好。我認為所謂我們達成了糟糕協議（諒解備忘錄）的說法既不符合事實，從雙方長久關係的宏觀角度來看也完全說不通。以色列想當然地認為，所有設想中對伊朗有利的事情都會發生——而且是在伊朗人不改變任何行為的情況下發生。但協議（諒解備忘錄）中並不是這麼寫的。” 針對美伊諒解備忘錄的批評者——以色列極右翼政治人士、國家安全部長本-格維爾和財長斯莫特里赫，萬斯回應道：“我想對他們說的是，你們是一個只有900萬人口的國家，不能指望僅僅透過殺戮來解決你們面臨的每一個國家安全問題。” （CCTV國際時訊）
-
----
-
-### 2026-06-18 23:58:45  #國際
-
-【張柱會見德國聯邦農業、食品和國土部部長阿洛伊斯·賴納】6月18日，農業農村部部長張柱在京會見德國聯邦農業、食品和國土部部長阿洛伊斯·賴納一行。張柱表示，在雙方領導人的戰略引領下，中德農業務實合作穩步向前，農業政策、農業科技和農產品貿易等領域交流合作不斷深化，成果豐碩。中方願與德方一道，秉持開放發展、互利共贏理念，加強機制交流，充分發揮中德農業中心作用，深化農業科技交流，推進農業各領域合作走深走實，不斷取得新成果，為中德全方位戰略伙伴關係發展作出更大貢獻。賴納表示，德方高度重視對華農業合作，願與中方加強對話溝通，深化農業科技、農產品貿易和動物疫病防控等領域交流合作。
-
----
-
-### 2026-06-18 23:58:31  #MKT News
-
-【Zhang Zhu meets Germany's federal agriculture minister Alois Reiner】June 18, Beijing — China's Minister of Agriculture and Rural Affairs Zhang Zhu met Germany's Federal Minister of Agriculture and Food Alois Reiner. Zhang said China is willing to strengthen institutional exchanges and deepen cooperation with Germany on agricultural policy, agri‑technology and farm‑product trade to advance practical cooperation; Reiner said Germany attaches high priority to agricultural ties with China and is willing to deepen dialogue and cooperation on agri‑technology, farm trade and animal‑disease prevention.
 
 ---
