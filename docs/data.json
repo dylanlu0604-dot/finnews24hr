@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-22 02:14:07",
-  "count": 17485,
+  "updated": "2026-06-22 02:18:56",
+  "count": 17486,
   "items": [
+    {
+      "id": "mkt:019eeb66-0e4e-7dd8-b0a8-a49dd5423e05",
+      "time": "2026-06-22 02:16:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanese Health Ministry says Israeli strikes have killed 4,106 in Lebanon through June 21】The Lebanese Health Ministry's emergency operations center said on June 21 that sustained Israeli air raids and other attacks in Lebanon between March 2 and June 21 had killed 4,106 people and injured 12,153."
+    },
+    {
+      "id": "4946613",
+      "time": "2026-06-22 02:16:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩衛生部：以色列襲擊已致4106人死亡】據黎巴嫩公共衛生部緊急行動中心21日訊息，3月2日至6月21日期間，以色列在黎巴嫩發動的持續不斷的空襲和襲擊已造成4106人死亡，另有12153人受傷。（央視新聞）"
+    },
+    {
+      "id": "4946612",
+      "time": "2026-06-22 02:15:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國KNDS集團家族股東達成股權轉讓協議，為上市鋪路。"
+    },
     {
       "id": "4946611",
       "time": "2026-06-22 02:09:12",
@@ -161010,25 +161034,6 @@
         "MKT News"
       ],
       "text": "Axios reports Anthropic flew employees to Washington to defuse a dispute with the White House."
-    },
-    {
-      "id": "4934721",
-      "time": "2026-06-15 02:18:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic公司派員工赴華盛頓處理白宮（禁令）爭端。"
-    },
-    {
-      "id": "mkt:019ec757-65ab-7dd8-aff6-022f3fd1ca0c",
-      "time": "2026-06-15 02:14:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Israeli media report an assessment that, despite Trump's efforts to restrain Iran's response, Iran will still launch an attack."
     }
   ]
 }
