@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-22 05:17:54_
-_本檔包含 3375 則快訊，約 650159 字_
+_更新時間：2026-06-22 06:11:36_
+_本檔包含 3386 則快訊，約 649669 字_
+
+---
+
+### 2026-06-18 03:21:52  #市場 #焦點
+
+標普500指數跌1.01%，現報7435.410點；道指跌0.71%，現報51629.090點；納指跌0.99%，現報26116.418點。
+
+---
+
+### 2026-06-18 03:21:47  #市場 #焦點
+
+納指跌1.00%，現報26112.182點；道指跌0.71%，現報51632.660點；標普500指數跌0.98%，現報7437.950點。
+
+---
+
+### 2026-06-18 03:21:44  #市場 #焦點
+
+納斯達克中國金龍指數跌超1%，海天網路跌17.43%，新氧跌10.40%，迅雷跌7.64%，億咖通科技跌4.92%，霧芯科技跌4.82%。
+
+---
+
+### 2026-06-18 03:21:39  #市場 #國際
+
+美國股市跌幅擴大，標普500指數下跌1.00%。
+
+---
+
+### 2026-06-18 03:21:28  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+According to documents and oilfield officials, as exports resume Iraq will raise production at the Rumaila oilfield by 300,000 b/d to 650,000 b/d.
+
+---
+
+### 2026-06-18 03:21:24  #市場 #焦點
+
+現貨黃金失守4240美元/盎司，日內跌2.11%。
+
+---
+
+### 2026-06-18 03:21:19  #央行 #焦點 #國際
+
+交易員已完全定價美聯儲將於10月加息。
+
+---
+
+### 2026-06-18 03:21:16  #Trading Economics #Markets #Euro Area #Currency #Importance 0
+
+Euro Down to March-Lows — The euro fell to $1.15, its lowest level since late March, as the US dollar strengthened broadly following the Fed’s latest monetary policy decision. While the Fed left interest rates unchanged, as widely expected, policymakers’ projections were viewed as hawkish, with around half of officials anticipating at least one rate hike in 2026. In Europe, the ECB raised interest rates by 25 basis points last week, in line with expectations, as it continues to combat elevated inflation. However, following the preliminary agreement between the US and Iran, money markets have scaled back expectations for further ECB tightening, now pricing in less than 30 basis points of additional rate hikes this year. ECB policymaker Gediminas Šimkus reiterated on Wednesday that upside risks to inflation continue to justify further monetary tightening. He said he expects at least one more rate hike to help keep inflation expectations anchored.
+
+---
+
+### 2026-06-18 03:21:00  #MKT News
+
+State news agency IRNA reports Iran will consult with Oman on future management and maritime services of the Strait of Hormuz.
+
+---
+
+### 2026-06-18 03:20:15  #焦點 #國際
+
+伊朗伊斯蘭共和國通訊社談及諒解備忘錄文字：商用船舶通航將立即啟動，考慮到清除水雷與消除技術障礙的需求，（完整通航機制）將在30日內建成。
+
+---
+
+### 2026-06-18 03:20:15  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+【Kevin Warsh: Trends matter more than single data points; employment continuing to improve】Federal Reserve Chair Kevin Warsh said on Wednesday many Fed colleagues view the US labor market as stable and some see the employment trend improving. He stressed the three- to six-month trend is more important than any single data release and said overall employment data has been moving in a positive direction.
+
+---
+
+### 2026-06-18 03:20:15  #MKT News #WTI #Impact bearish #Brent
+
+Iranian state news agency IRNA reported the US has pledged to lift all sanctions on Iran according to the timetable set out in the final agreement framework.
+
+---
+
+### 2026-06-18 03:20:10  #國際
+
+特朗普談及烏克蘭局勢： 烏克蘭目前打得相當不錯。俄羅斯的軍隊規模要龐大得多。 但烏克蘭表現亮眼，能守住自身陣線。 別忘了，他們手中精良的裝備不少都源自我方援助。
+
+---
+
+### 2026-06-18 03:19:51  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Iran's Islamic Republic News Agency (IRNA) said Iran will maintain the status quo of its nuclear program until a final agreement is reached, and the US will not impose new sanctions on Iran or deploy additional military forces in the region.
+
+---
+
+### 2026-06-18 03:19:48  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Kevin Warsh: Fed still has 'some work to do' on curbing inflation】Federal Reserve Chair Kevin Warsh gave no forward guidance at a press conference but said he has heard FOMC members say the Fed still has "some work to do" to achieve price stability. On artificial intelligence, Warsh said the technology could be the most significant economic change of his adult life, bringing both opportunities and risks. He added that if the Fed "does its job" it can sustain strong growth, price stability and robust employment.
+
+---
+
+### 2026-06-18 03:19:46  #市場
+
+鈀金期貨日內跌3%，現報1329.00美元/盎司。
+
+---
+
+### 2026-06-18 03:19:27  #央行 #國際
+
+【美聯儲主席沃什：就業資料正朝著好的方向發展】美聯儲主席凱文·沃什週三表示，其他央行官員普遍認為美國勞動力市場保持穩定，部分人甚至認為其走勢好於穩定水平；他還補充道，趨勢比具體資料點更為重要。“過去三到六個月的整體走勢比任何單個資料點、任何單次資料釋出都更為重要，我認為就業資料一直朝著積極的方向發展，”沃什表示。
+
+---
+
+### 2026-06-18 03:19:13  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #S&P500 #Impact bullish
+
+Gundlach said the Federal Reserve is unlikely to adjust interest rates before autumn.
+
+---
+
+### 2026-06-18 03:18:36  #市場 #焦點
+
+紐約期金失守4260美元/盎司，日內跌2.18%。
+
+---
+
+### 2026-06-18 03:18:35  #國際
+
+伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表示：該專案的實施機制將作為最終協議的一部分，在60天內敲定。
+
+---
+
+### 2026-06-18 03:18:27  #MKT News #Market Themes #The Trump Trade
+
+Trump said on the US-Mexico-Canada Agreement (USMCA) he thinks an agreement may not be reached.
+
+---
+
+### 2026-06-18 03:18:22  #國際
+
+伊朗國家通訊社就諒解備忘錄文字表示：美國將與地區合作伙伴共同承諾，制定一項雙方商定的伊朗經濟重建計劃，並提供至少3000億美元資金。
+
+---
+
+### 2026-06-18 03:18:08  #央行 #國際
+
+【美聯儲主席沃什就大樓翻新事宜與監察長舉行了會晤，預計今夏將收到報告】美聯儲主席凱文·沃什週三表示，他已與美聯儲監察長會面，後者告知沃什，關於美聯儲華盛頓總部大樓正在進行的翻新專案成本超支問題，預計將於今年夏天釋出一份報告。在特朗普政府就此事對沃什的前任傑羅姆·鮑威爾展開刑事調查後，該專案演變成了一項高度政治化的議題。儘管該調查已被撤銷，但這正是鮑威爾在5月任期屆滿後仍以理事身份留任美聯儲的關鍵原因。
+
+---
+
+### 2026-06-18 03:18:06  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish
+
+Trump said the US-Mexico-Canada Agreement (USMCA) could expire immediately.
+
+---
+
+### 2026-06-18 03:18:03  #市場
+
+現貨黃金日內跌2%，現報4242.32美元/盎司。
+
+---
+
+### 2026-06-18 03:18:02  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+President Trump said the US-Mexico-Canada Agreement (USMCA) will not continue to exist and will be terminated.
+
+---
+
+### 2026-06-18 03:17:53  #其他
+
+伊拉克重啟西古爾納2油田，目前日產約15萬桶原油，以提升南部石油產量。
+
+---
+
+### 2026-06-18 03:17:47  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold plunged 2.00% intraday to $4,244.31/oz.
+
+---
+
+### 2026-06-18 03:17:39  #焦點 #國際
+
+伊朗國家通訊社關於諒解備忘錄文字：簽署後，伊朗將盡其所能採取措施，確保海灣與阿曼灣之間商船的安全通行。
+
+---
+
+### 2026-06-18 03:17:37  #市場 #焦點
+
+現貨黃金失守4250美元/盎司，日內跌1.97%。
+
+---
+
+### 2026-06-18 03:17:31  #市場
+
+紐約期金日內跌2%，現報4266.50美元/盎司。
+
+---
+
+### 2026-06-18 03:17:30  #公司 #國際
+
+特朗普：七國集團峰會上沒談格陵蘭，但我應該談的。
+
+---
+
+### 2026-06-18 03:17:19  #市場 #焦點
+
+紐約期金失守4270美元/盎司，日內跌1.95%。
+
+---
+
+### 2026-06-18 03:17:18  #MKT News
+
+Trump said Greenland was not discussed at the G7 but should have been.
+
+---
+
+### 2026-06-18 03:17:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+【Kevin Warsh: No Fed participant wants a near-term rate hike】Federal Reserve Chair Kevin Warsh said at a press conference that no one at the Fed favors a near-term rate increase. Asked about a suggestion that current data would support a hike, Warsh said the view "is not endorsed by any of the 19 participants present. We will meet again in six weeks and revisit the matter."
 
 ---
 
@@ -20222,149 +20432,5 @@ South Korea's market regulator urged investors to avoid high-risk investments an
 ### 2026-06-17 09:00:23  #MKT News #Important #Commodities #Energy #Cotton #Impact bullish #Soybean No.2 #Palm Oil
 
 At the open, major Chinese futures were mostly lower. LPG and fuel oil slid over 4%; Shanghai crude (SC) and low-sulfur fuel oil (LU) dropped more than 3%; Asia‑Europe container freight fell nearly 3%; benzene was down over 2%; bitumen declined about 2%; methanol fell just over 1%. On the upside, urea and cotton rose nearly 2%; cotton yarn, No.20 rubber, broader rubber contracts, stainless steel (SS) and Soybean No.2 gained more than 1%; palm oil advanced about 1%.
-
----
-
-### 2026-06-17 09:00:16  #市場
-
-臺灣證交所加權股價指數下跌1.1%至45,318.32點。
-
----
-
-### 2026-06-17 09:00:12  #其他
-
-臺灣證交所加權股價指數開低0.3%報45,685.27。
-
----
-
-### 2026-06-17 09:00:06  #市場 #焦點
-
-PTA連續主力合約日內跌1%，現報5790.00元。
-
----
-
-### 2026-06-17 09:00:05  #公司
-
-【英矽智慧：ISM8969Ⅰ期臨床試驗完成首例人體給藥】英矽智慧在港交所公告，公司與深圳衡泰生物科技有限公司共同開發的ISM8969已達成首個臨床里程碑，在Ⅰ期研究中完成首例人體給藥。ISM8969為一種具有潛在同類最佳潛力的口服、小分子NLRP3炎症小體抑制劑，具備穿透血腦屏障能力，擬用於治療慢性神經炎症及中樞神經系統(CNS)疾病，包括帕金森病。
-
----
-
-### 2026-06-17 09:00:03  #市場 #焦點
-
-甲醇連續主力合約日內跌1%，現報2665.00元。
-
----
-
-### 2026-06-17 09:00:03  #市場
-
-【商品期貨開盤】燃料油連續跌4.23%，液化石油氣連續跌4.19%，低硫燃料油連續跌3.46%，上海原油連續跌3.30%，集運指數歐線期貨連續跌3.12%。
-
----
-
-### 2026-06-17 09:00:03  #市場
-
-富時中國A50指數期貨開盤下跌0.16%。
-
----
-
-### 2026-06-17 08:59:27  #公司
-
-【農發行與華潤集團簽訂戰略合作協議】6月16日，中國農業發展銀行（簡稱“農發行”）與華潤股份有限公司（簡稱“華潤集團”）在廣東深圳簽訂戰略合作協議，就雙方進一步深化合作開展會談。根據協議，雙方一致同意建立深度融合、互利共贏的戰略合作關係，雙方將聚焦大消費、綜合能源、大健康、產業金融、科技與新興產業等重點業務領域進一步加大合作力度。
-
----
-
-### 2026-06-17 08:59:01  #國際
-
-據美國媒體16日報道，美國特拉華州威爾明頓市一所醫院當天發生槍擊事件，造成1人死亡、1人受傷。目前，槍手在逃。（新華社）
-
----
-
-### 2026-06-17 08:58:31  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-Japanese Shares Rise on Robust Trade Data — The Nikkei 225 Index gained 0.2% to trade above 69,500 on Wednesday, remaining near record highs as stronger-than-expected trade data improved sentiment toward Japan’s corporate outlook. Official figures showed exports jumped 17% year-on-year in May, the fastest pace of growth since November 2022, supported by solid demand for automobiles and semiconductors. The data followed the Bank of Japan’s decision on Tuesday to raise its policy rate by 25 basis points to 1%, aiming to contain inflationary pressures and support the yen. Investors also awaited the signing of the US-Iran peace agreement on Friday, which is expected to reopen the Strait of Hormuz and help restore oil flows from the Middle East. Among individual stocks, notable advances were recorded by Lasertec (7.1%), Tokyo Electron (1.3%), Advantest (1.9%), Disco Corp (1.7%), and Mitsubishi UFJ (1.2%).
-
----
-
-### 2026-06-17 08:58:08  #其他
-
-【6月16日642股獲融資買入超億元 中際旭創穫買入50.46億元居首】6月16日共有3465只個股獲融資資金買入，有642股買入金額超億元。其中，中際旭創、兆易創新、東山精密融資買入金額排名前三，分別獲買入50.46億元、38.52億元、38.27億元。
-
----
-
-### 2026-06-17 08:57:26  #宏觀 #國際
-
-【劉國中出席非洲應對埃博拉疫情特別影片峰會並致辭】2026年6月16日，中共中央政治局委員、國務院副總理劉國中應邀出席非洲應對埃博拉疫情特別影片峰會並致辭。劉國中表示，習近平主席提出構建人類命運共同體重要理念，倡導構建人類衛生健康共同體，為國際抗疫合作指明瞭方向。中非從來都是命運共同體。中方已向剛果（金）和非洲聯盟提供緊急人道主義援助，向剛果（金）派遣醫療專家組，近千名醫療隊專業人員會同非洲民眾並肩抗疫。中方將在中非合作論壇框架內，落實好中非衛生健康夥伴行動，呼籲國際社會加強團結合作、向非洲提供更多支援。峰會由非盟輪值主席、蒲隆地總統恩達伊施米耶主持，南非、赤道幾內亞、辛巴威等十餘個非洲國家元首和政府首腦，以及世界衛生組織等國際和地區組織、非洲域外夥伴代表等參會。（外交部）
-
----
-
-### 2026-06-17 08:57:09  #公司 #資料
-
-【滙豐銀行與谷歌雲宣佈達成人工智慧合作】滙豐銀行釋出宣告稱，該行與谷歌雲達成一項多年期合作協議，將在滙豐全球各項業務中搭建並落地人工智慧技術能力。雙方計劃在極致個性化理財諮詢、金融犯罪風險管理等領域加快創新步伐。滙豐將聯合谷歌雲與谷歌DeepMind技術團隊開展合作，可呼叫谷歌最新智慧體AI技術，包含Gemini系列模型及雙子座企業智慧體平臺。合作預計在未來兩年落地超200個全新人工智慧應用場景，優先推進高價值專案；滙豐預估此類專案可創造超1億美元效益。此前滙豐已有600餘款應用程式部署執行於谷歌雲，本次合作是在現有合作基礎上的進一步拓展。
-
----
-
-### 2026-06-17 08:56:32  #MKT News
-
-【Liu Guozhong attends Africa Ebola video summit, outlines China aid】June 16, 2026 — Politburo member and Vice Premier Liu Guozhong attended a special video summit on Africa’s Ebola response and said China has provided emergency humanitarian aid to the Democratic Republic of Congo and the African Union, dispatched a medical expert team to the DRC, and that nearly 1,000 Chinese medical personnel are working alongside local teams. He said China will implement health cooperation measures under the Forum on China‑Africa Cooperation framework and called for greater international support for Africa.
-
----
-
-### 2026-06-17 08:55:22  #公司
-
-【康龍化成在杭州成立新藥生產公司】企查查APP顯示，近日，康龍化成（杭州）新藥生產有限公司成立，經營範圍包含：藥品生產；藥品委託生產；藥品進出口；獸藥生產；新化學物質生產；新化學物質進口等。企查查股權穿透顯示，該公司由康龍化成全資持股。
-
----
-
-### 2026-06-17 08:53:02  #MKT News #Important
-
-【2026 Lujiazui Forum opens today; Ding Xiangqun, PBOC Governor Pan, CSRC chair Wu Qing and SAFE head Zhu Hexin to speak】The 2026 Lujiazui Forum opens on the morning of June 17. National Financial Regulatory Administration head Ding Xiangqun will deliver opening remarks; PBOC Governor Pan, CSRC chair Wu Qing and PBOC vice governor and SAFE head Zhu Hexin will give keynote speeches.
-
----
-
-### 2026-06-17 08:52:40  #國際
-
-【伊朗武裝部隊稱以軍仍繼續屠殺黎巴嫩民眾】據伊朗伊斯蘭共和國通訊社16日報道，伊朗武裝部隊哈塔姆安比亞中央總部發表宣告說，在美國總統特朗普宣佈“停戰”後的兩天內，以色列軍隊在黎巴嫩南部違反停火協議84次，仍繼續屠殺黎巴嫩民眾。 哈塔姆安比亞中央總部警告，如果以色列軍隊不停止在黎巴嫩南部的罪惡行徑，必將遭到伊朗武裝力量的嚴厲回擊。 特朗普14日宣佈與伊朗達成停戰諒解備忘錄。斡旋方巴基斯坦總理夏巴茲表示，雙方同意立即永久停止包括黎巴嫩在內所有戰線的軍事行動，正式簽字儀式將於19日在瑞士舉行。（新華社）
-
----
-
-### 2026-06-17 08:51:37  #公司
-
-【萬凱新材等投資成立生物科技公司】企查查APP顯示，近日，凱碧歐（浙江）生物科技有限公司成立，經營範圍包含：工業酶製劑研發；碳纖維再生利用技術研發；新材料技術研發；生物基材料技術研發等。企查查股權穿透顯示，該公司由萬凱新材等共同持股。
-
----
-
-### 2026-06-17 08:51:32  #MKT News #Market Themes #Chip Wars
-
-【SK Hynix removes degree requirement, opens rolling hiring to boost Korean AI chip development】SK Hynix said on the 17th it will eliminate all formal degree requirements and launch rolling recruitment for entry-level technical roles. The company said future hires will be chosen on demonstrated job skills and growth potential rather than academic credentials; previous postings requiring a four‑year bachelor’s degree have been withdrawn. Applicants whose experience, role capabilities and cultural fit meet job criteria may apply regardless of educational background.
-
----
-
-### 2026-06-17 08:51:03  #其他 #焦點
-
-【2026陸家嘴論壇今日將開幕 丁向群、潘功勝、吳清、朱鶴新將發聲】6月17日上午，2026陸家嘴論壇將正式開幕。記者在現場獲悉，國家金融監督管理總局局長、論壇共同輪值主席丁向群將致開幕辭，中國人民銀行行長潘功勝、中國證監會主席吳清以及中國人民銀行副行長、國家外匯管理局局長朱鶴新等金融管理部門負責人等發表主題演講。（證券時報）
-
----
-
-### 2026-06-17 08:50:40  #市場 #國際
-
-20年期日本國債收益率下跌3.5個基點，至3.500%。
-
----
-
-### 2026-06-17 08:50:35  #其他
-
-【科技賦能荒漠化治理 內蒙古首次實現林草地面積由減轉增】今天（17日）是第32個世界防治荒漠化和乾旱日。記者從國家林草局瞭解到，近年來，我國不斷加大荒漠化防治力度，取得顯著成效。我國在三北地區推廣一大批新品種、新裝備、新技術，為助力打贏“三北”工程攻堅戰三大標誌性戰役提供了新動能。內蒙古是我國荒漠化治理主戰場。據2025年度內蒙古自治區林草溼荒調查監測初步成果顯示，全區林草地淨流入206萬畝，歷史上首次實現林草地面積由減轉增。（央視）
-
----
-
-### 2026-06-17 08:49:52  #市場 #央行 #國際
-
-【機構：黃金風險平衡目前向上傾斜】馬來亞銀行分析師在一份研究報告中表示，黃金的風險平衡從目前水平向上傾斜。馬來亞銀行的分析師表示：“目前，布倫特原油較[4月]30日的高點下跌了30%以上，且美聯儲偏緊縮的重新定價已在相當大程度上對金價構成壓力，風險平衡正偏向於更看漲黃金的情境。“馬來亞銀行的分析師表示：“油價持續走低可能會緩解美國國債以及新興市場貨幣的壓力，這反過來可能會帶來黃金更持久的上漲。“他們補充說，根據圖表，阻力位在每盎司4,900美元，然後是每盎司5,020美元。
-
----
-
-### 2026-06-17 08:49:41  #公司
-
-【中國銀河等在黑龍江成立創投基金】企查查APP顯示，近日，黑龍江省龍江創業投資基金合夥企業（有限合夥）成立，出資額5億元，經營範圍為創業投資。企查查股權穿透顯示，該基金由中國銀河旗下銀河創新資本管理有限公司等共同出資。
 
 ---

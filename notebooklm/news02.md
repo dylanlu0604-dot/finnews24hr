@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-22 05:17:54_
-_本檔包含 3398 則快訊，約 650028 字_
+_更新時間：2026-06-22 06:11:36_
+_本檔包含 3379 則快訊，約 649344 字_
+
+---
+
+### 2026-06-19 00:23:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Iran to be allowed to use $6 bln in frozen oil revenues, limited to US purchases】Financial Times reports the Trump administration has agreed under a temporary accord to allow Iran to access $6 bln of oil revenues held in Qatar to purchase US humanitarian and other non-sanctioned goods. The funds will be released in phases during a 60-day ceasefire-extension and are conditional on reopening the Strait of Hormuz and progress toward a final settlement. A diplomat said the money may be spent only on US products. The White House declined detailed comment; a US official said Washington would unfreeze portions of the assets during final negotiations if Iran demonstrates good behavior, citing transfer of enriched uranium as an example. The administration will also issue waivers to permit Iranian oil exports and lift a naval blockade of Iranian ports for the 60-day period.
+
+---
+
+### 2026-06-19 00:22:34  #公司
+
+【Rokos基金考慮從外部蒐集選股思路 效仿部分同行的做法】知情人士稱，由Chris Rokos創立的基金公司正在考慮從外部吸收選股情報，加入Marshall Wace和城堡等一批同行的行列。因討論未公開資訊而不願具名的知情人士表示，Rokos Capital Management正考慮建立一項所謂“阿爾法捕捉”計劃，從賣方資訊提供者那裡獲取有關股票的思路。其中一人稱，相關討論仍處於早期階段，計劃可能有變。總部位於倫敦的Rokos的一位代表不予置評。
+
+---
+
+### 2026-06-19 00:20:57  #Trading Economics #Economy #United States #30 Year Mortgage Rate #Importance 1
+
+US 30-Year Mortgage Rate Eases — The average rate on a 30-year fixed-mortgage fell by 5bps to 6.47% on the third week of June, according to data compiled by Freddie Mac. The result was in line with the pullback for longer maturity Treasury yields as optimistic signals for an agreement between the Iran and US lowered energy prices and reduced the urgency for the Federal Reserve to raise interest rates. “The 30-year fixed-rate mortgage decreased this week averaging 6.47%,” said Sam Khater, Freddie Mac’s Chief Economist. “Incoming data continues to reflect a resilient consumer, with retail sales improving and pending home sales strengthening, suggesting purchase demand is continuing to modestly improve."
+
+---
+
+### 2026-06-19 00:20:14  #公司
+
+【商務部：關於2026年度牛肉保障措施執行提示資訊（五）】牛肉保障措施項下自澳大利亞進口的牛肉於2026年6月18日已達到商務部公告2025年第87號明確的該國家規定數量的100%。根據商務部公告2025年第87號，在澳大利亞牛肉進口數量達到規定數量100%的第3日起（6月20日零點起），自該國進口牛肉將在現行適用關稅稅率基礎上加徵55%關稅。
+
+---
+
+### 2026-06-19 00:19:52  #其他
+
+【生態環境部：強化生態系統監測評估 嚴格開展生態保護監督執法】生態環境部部長黃潤秋18日主持召開部常務會議，審議並原則透過《生態保護“十五五”規劃》和《生態質量評價標準（試行）》。會議指出，生態保護事關國家安全、民生福祉和美麗中國建設，要牢固樹立和踐行綠水青山就是金山銀山的理念，堅持山水林田湖草沙一體化保護和系統治理，不斷提升生態系統多樣性穩定性持續性。要持續完善生態空間格局，統籌推進生態系統保護與修復，全面加強生物多樣性保護，深入推進生態文明示範建設，健全生態保護保障體系。要強化生態系統監測評估，嚴格開展生態保護監督執法，築牢自然生態屏障。
+
+---
+
+### 2026-06-19 00:19:38  #MKT News
+
+IDF spokesman said the Israeli Air Force intercepted several rockets launched at Israeli forces in southern Lebanon. A few rockets fell near troops with no casualties. Per procedure, warning sirens were not activated.
+
+---
+
+### 2026-06-19 00:19:16  #國際
+
+美國得克薩斯州公用事業委員會批准德州電力可靠性委員會（ERCOT）資料中心供電規劃。
+
+---
+
+### 2026-06-19 00:18:09  #國際
+
+以色列國防軍通報：真主黨在黎巴嫩南部向以軍發射火箭彈，部分火箭彈被攔截，其餘落在部隊周邊，未造成人員傷亡。
+
+---
+
+### 2026-06-19 00:18:06  #國際
+
+內塔尼亞胡將於今晚召開以色列安全內閣會議。
+
+---
+
+### 2026-06-19 00:17:45  #公司
+
+【比亞迪計劃推動子品牌自負盈虧】據悉，比亞迪正計劃讓旗下各子品牌自負盈虧，仰望暫不在其中。一位接近此事的人士說，新機制下各品牌主體按需取用研發、生產、採購等集團資源，取用成本獨立結算。（晚點）
+
+---
+
+### 2026-06-19 00:17:19  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Finishes at Over 2-Week High — The DAX closed about 0.4% up at 25,027 on Thursday, the highest since early June and extending gains for the sixth successive session. Optimism surrounding the US-Iran agreement outweighed hawkish signals from new Fed Chair Kevin Warsh. The US formally signed an interim agreement with Iran that paves the way for an end to the Middle East conflict and the reopening of key energy export routes. Oil prices pulled back, reflecting easing inflation concerns. Tech companies, industrials and travel stocks were among the top performers. Infineon Technologies led gains among equities, surging 6.4%. Siemens Energy advanced 4.7% following reports that the company is considering divesting its multi-billion-euro compressor and steam turbine business. On the flip side, automakers and software companies faced pressure.
+
+---
+
+### 2026-06-19 00:17:05  #國際
+
+美國副總統萬斯： 過去三個月，用於防衛以色列的三分之二武器均由美國製造，資金也全部來自美國納稅人的稅款。
+
+---
+
+### 2026-06-19 00:16:41  #國際
+
+美國疾控中心關於埃博拉疫情應對：目前已有23名現場人員協助開展流行病學調查工作，併為剛果（金）衛生部提供支援。
+
+---
+
+### 2026-06-19 00:16:27  #國際
+
+市場訊息：伊朗將獲得60億美元凍結資金的訪問許可權，用於購買美國商品。
+
+---
+
+### 2026-06-19 00:16:19  #MKT News
+
+Israel's Prime Minister Netanyahu will hold a security cabinet meeting tonight to discuss progress on the Iran agreement.
+
+---
+
+### 2026-06-19 00:15:55  #國際
+
+美國副總統萬斯談及內塔尼亞胡： 我看到阿克西奧斯新聞的報道稱內塔尼亞胡大為惱火。但這和我與他溝通時感受到的情況並不相符。或許他對外人表達的態度，和對我所說的並不一樣。
 
 ---
 
@@ -20351,215 +20447,5 @@ Iranian state news agency IRNA reported the US will begin immediately lifting it
 ### 2026-06-18 03:22:01  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
 
 Markets have fully priced in the possibility of a Fed rate hike by October.
-
----
-
-### 2026-06-18 03:21:52  #市場 #焦點
-
-標普500指數跌1.01%，現報7435.410點；道指跌0.71%，現報51629.090點；納指跌0.99%，現報26116.418點。
-
----
-
-### 2026-06-18 03:21:47  #市場 #焦點
-
-納指跌1.00%，現報26112.182點；道指跌0.71%，現報51632.660點；標普500指數跌0.98%，現報7437.950點。
-
----
-
-### 2026-06-18 03:21:44  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，海天網路跌17.43%，新氧跌10.40%，迅雷跌7.64%，億咖通科技跌4.92%，霧芯科技跌4.82%。
-
----
-
-### 2026-06-18 03:21:39  #市場 #國際
-
-美國股市跌幅擴大，標普500指數下跌1.00%。
-
----
-
-### 2026-06-18 03:21:28  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-According to documents and oilfield officials, as exports resume Iraq will raise production at the Rumaila oilfield by 300,000 b/d to 650,000 b/d.
-
----
-
-### 2026-06-18 03:21:24  #市場 #焦點
-
-現貨黃金失守4240美元/盎司，日內跌2.11%。
-
----
-
-### 2026-06-18 03:21:19  #央行 #焦點 #國際
-
-交易員已完全定價美聯儲將於10月加息。
-
----
-
-### 2026-06-18 03:21:16  #Trading Economics #Markets #Euro Area #Currency #Importance 0
-
-Euro Down to March-Lows — The euro fell to $1.15, its lowest level since late March, as the US dollar strengthened broadly following the Fed’s latest monetary policy decision. While the Fed left interest rates unchanged, as widely expected, policymakers’ projections were viewed as hawkish, with around half of officials anticipating at least one rate hike in 2026. In Europe, the ECB raised interest rates by 25 basis points last week, in line with expectations, as it continues to combat elevated inflation. However, following the preliminary agreement between the US and Iran, money markets have scaled back expectations for further ECB tightening, now pricing in less than 30 basis points of additional rate hikes this year. ECB policymaker Gediminas Šimkus reiterated on Wednesday that upside risks to inflation continue to justify further monetary tightening. He said he expects at least one more rate hike to help keep inflation expectations anchored.
-
----
-
-### 2026-06-18 03:21:00  #MKT News
-
-State news agency IRNA reports Iran will consult with Oman on future management and maritime services of the Strait of Hormuz.
-
----
-
-### 2026-06-18 03:20:15  #焦點 #國際
-
-伊朗伊斯蘭共和國通訊社談及諒解備忘錄文字：商用船舶通航將立即啟動，考慮到清除水雷與消除技術障礙的需求，（完整通航機制）將在30日內建成。
-
----
-
-### 2026-06-18 03:20:15  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
-
-【Kevin Warsh: Trends matter more than single data points; employment continuing to improve】Federal Reserve Chair Kevin Warsh said on Wednesday many Fed colleagues view the US labor market as stable and some see the employment trend improving. He stressed the three- to six-month trend is more important than any single data release and said overall employment data has been moving in a positive direction.
-
----
-
-### 2026-06-18 03:20:15  #MKT News #WTI #Impact bearish #Brent
-
-Iranian state news agency IRNA reported the US has pledged to lift all sanctions on Iran according to the timetable set out in the final agreement framework.
-
----
-
-### 2026-06-18 03:20:10  #國際
-
-特朗普談及烏克蘭局勢： 烏克蘭目前打得相當不錯。俄羅斯的軍隊規模要龐大得多。 但烏克蘭表現亮眼，能守住自身陣線。 別忘了，他們手中精良的裝備不少都源自我方援助。
-
----
-
-### 2026-06-18 03:19:51  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-Iran's Islamic Republic News Agency (IRNA) said Iran will maintain the status quo of its nuclear program until a final agreement is reached, and the US will not impose new sanctions on Iran or deploy additional military forces in the region.
-
----
-
-### 2026-06-18 03:19:48  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Kevin Warsh: Fed still has 'some work to do' on curbing inflation】Federal Reserve Chair Kevin Warsh gave no forward guidance at a press conference but said he has heard FOMC members say the Fed still has "some work to do" to achieve price stability. On artificial intelligence, Warsh said the technology could be the most significant economic change of his adult life, bringing both opportunities and risks. He added that if the Fed "does its job" it can sustain strong growth, price stability and robust employment.
-
----
-
-### 2026-06-18 03:19:46  #市場
-
-鈀金期貨日內跌3%，現報1329.00美元/盎司。
-
----
-
-### 2026-06-18 03:19:27  #央行 #國際
-
-【美聯儲主席沃什：就業資料正朝著好的方向發展】美聯儲主席凱文·沃什週三表示，其他央行官員普遍認為美國勞動力市場保持穩定，部分人甚至認為其走勢好於穩定水平；他還補充道，趨勢比具體資料點更為重要。“過去三到六個月的整體走勢比任何單個資料點、任何單次資料釋出都更為重要，我認為就業資料一直朝著積極的方向發展，”沃什表示。
-
----
-
-### 2026-06-18 03:19:13  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #S&P500 #Impact bullish
-
-Gundlach said the Federal Reserve is unlikely to adjust interest rates before autumn.
-
----
-
-### 2026-06-18 03:18:36  #市場 #焦點
-
-紐約期金失守4260美元/盎司，日內跌2.18%。
-
----
-
-### 2026-06-18 03:18:35  #國際
-
-伊朗伊斯蘭共和國通訊社就諒解備忘錄文字表示：該專案的實施機制將作為最終協議的一部分，在60天內敲定。
-
----
-
-### 2026-06-18 03:18:27  #MKT News #Market Themes #The Trump Trade
-
-Trump said on the US-Mexico-Canada Agreement (USMCA) he thinks an agreement may not be reached.
-
----
-
-### 2026-06-18 03:18:22  #國際
-
-伊朗國家通訊社就諒解備忘錄文字表示：美國將與地區合作伙伴共同承諾，制定一項雙方商定的伊朗經濟重建計劃，並提供至少3000億美元資金。
-
----
-
-### 2026-06-18 03:18:08  #央行 #國際
-
-【美聯儲主席沃什就大樓翻新事宜與監察長舉行了會晤，預計今夏將收到報告】美聯儲主席凱文·沃什週三表示，他已與美聯儲監察長會面，後者告知沃什，關於美聯儲華盛頓總部大樓正在進行的翻新專案成本超支問題，預計將於今年夏天釋出一份報告。在特朗普政府就此事對沃什的前任傑羅姆·鮑威爾展開刑事調查後，該專案演變成了一項高度政治化的議題。儘管該調查已被撤銷，但這正是鮑威爾在5月任期屆滿後仍以理事身份留任美聯儲的關鍵原因。
-
----
-
-### 2026-06-18 03:18:06  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish
-
-Trump said the US-Mexico-Canada Agreement (USMCA) could expire immediately.
-
----
-
-### 2026-06-18 03:18:03  #市場
-
-現貨黃金日內跌2%，現報4242.32美元/盎司。
-
----
-
-### 2026-06-18 03:18:02  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-President Trump said the US-Mexico-Canada Agreement (USMCA) will not continue to exist and will be terminated.
-
----
-
-### 2026-06-18 03:17:53  #其他
-
-伊拉克重啟西古爾納2油田，目前日產約15萬桶原油，以提升南部石油產量。
-
----
-
-### 2026-06-18 03:17:47  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold plunged 2.00% intraday to $4,244.31/oz.
-
----
-
-### 2026-06-18 03:17:39  #焦點 #國際
-
-伊朗國家通訊社關於諒解備忘錄文字：簽署後，伊朗將盡其所能採取措施，確保海灣與阿曼灣之間商船的安全通行。
-
----
-
-### 2026-06-18 03:17:37  #市場 #焦點
-
-現貨黃金失守4250美元/盎司，日內跌1.97%。
-
----
-
-### 2026-06-18 03:17:31  #市場
-
-紐約期金日內跌2%，現報4266.50美元/盎司。
-
----
-
-### 2026-06-18 03:17:30  #公司 #國際
-
-特朗普：七國集團峰會上沒談格陵蘭，但我應該談的。
-
----
-
-### 2026-06-18 03:17:19  #市場 #焦點
-
-紐約期金失守4270美元/盎司，日內跌1.95%。
-
----
-
-### 2026-06-18 03:17:18  #MKT News
-
-Trump said Greenland was not discussed at the G7 but should have been.
-
----
-
-### 2026-06-18 03:17:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-【Kevin Warsh: No Fed participant wants a near-term rate hike】Federal Reserve Chair Kevin Warsh said at a press conference that no one at the Fed favors a near-term rate increase. Asked about a suggestion that current data would support a hike, Warsh said the view "is not endorsed by any of the 19 participants present. We will meet again in six weeks and revisit the matter."
 
 ---

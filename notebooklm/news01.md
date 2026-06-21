@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-22 05:17:54_
-_本檔包含 3786 則快訊，約 650142 字_
+_更新時間：2026-06-22 06:11:36_
+_本檔包含 3812 則快訊，約 649386 字_
+
+---
+
+### 2026-06-22 06:10:37  #焦點 #國際
+
+【訊息人士稱美伊談判仍處於暫停狀態】據伊朗方面22日訊息，一位訊息人士稱，伊朗與美國在瑞士進行的談判於當地時間21日15時左右開始，在持續約一個半小時後，因各代表團需要內部磋商而暫停休會30分鐘。但由於特朗普發表了威脅性言論，伊朗代表團拒絕返回繼續談判。儘管如此，卡達方和巴基斯坦方仍在持續進行斡旋，伊朗美國透過中間方傳遞資訊。目前調解努力仍在繼續，但尚未取得最終結果。在談判過程中，伊朗代表團對美方違反承諾的行為、特別是違反諒解備忘錄第一條的內容，提出了明確抗議。伊朗代表團還要求美國加快履行承諾，包括解凍伊朗被凍結資產以及簽發伊朗石油出口的制裁豁免。在核問題方面，伊朗代表團強調，開啟核議題談判的前提是美國必須按照備忘錄第1、4、10和11條履行其承諾。（央視新聞）
+
+---
+
+### 2026-06-22 06:07:13  #市場 #國際
+
+【美伊開啟和平談判 特朗普揚言將打擊伊朗 美股股指期貨下跌】美伊開啟和平談判之際，特朗普威脅，若真主黨持續襲擊以色列，美方將發動軍事打擊，美國各大股指期貨走低。標普500股指期貨下跌0.3%，納斯達克100股指期貨跌0.4%。
+
+---
+
+### 2026-06-22 06:06:05  #市場 #焦點
+
+紐約期銀突破65美元/盎司，日內跌2.28%。
+
+---
+
+### 2026-06-22 06:05:57  #市場
+
+【霍爾木茲海峽緊張局勢持續，油價飆升、標普500股指期貨下挫】週一早盤布倫特原油期貨走強，美股股指期貨走低，美伊於瑞士開啟和平協議談判，美債期貨同步走弱。英鎊兌美元匯率走低，有訊息稱斯塔默將在未來數日公佈辭去英國首相。
+
+---
+
+### 2026-06-22 06:03:07  #市場 #焦點
+
+紐約期金突破4170美元/盎司，日內跌1.78%。
+
+---
+
+### 2026-06-22 06:03:06  #MKT News
+
+U.S. 10-year Treasury futures fell 12 ticks; 30-year Treasury futures fell 21 ticks.
+
+---
+
+### 2026-06-22 06:02:36  #市場 #國際
+
+美國10年期國債期貨下跌12個最小變動價位，30年期國債期貨下跌21個最小變動價位。
+
+---
+
+### 2026-06-22 06:02:02  #國際
+
+日本每日新聞民調：日本高市內閣支援率51%。
+
+---
+
+### 2026-06-22 06:01:44  #MKT News #Commodities #Precious Metals #XAUUSD
+
+Spot gold opened Monday down 0.1%, trading at $4,154/oz.
+
+---
+
+### 2026-06-22 06:01:32  #市場
+
+布倫特原油期貨上漲2%。
+
+---
+
+### 2026-06-22 06:01:14  #市場 #焦點
+
+現貨黃金突破4150美元/盎司，日內跌0.12%。
+
+---
+
+### 2026-06-22 06:01:02  #市場
+
+標普500指數期貨下跌0.3%，納斯達克指數期貨下跌0.4%。
+
+---
+
+### 2026-06-22 06:01:02  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude opened up 1.7% on Monday and is trading at $78.30/bbl.
+
+---
+
+### 2026-06-22 06:00:19  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bearish
+
+U.S. equity index futures opened lower on Monday; Nasdaq futures were down 0.5%.
+
+---
+
+### 2026-06-22 06:00:18  #市場
+
+現貨白銀日內跌1%，現報64.06美元/盎司。
+
+---
+
+### 2026-06-22 06:00:14  #市場 #焦點
+
+WTI原油日內漲3%，現報78.14美元/桶。
+
+---
+
+### 2026-06-22 06:00:12  #市場
+
+鈀金期貨日內跌2%，現報1255.68美元/盎司。
+
+---
+
+### 2026-06-22 06:00:08  #市場 #焦點
+
+紐約期金突破4160美元/盎司，日內跌2.00%。
+
+---
+
+### 2026-06-22 06:00:02  #市場
+
+WTI原油日內漲2%，現報78.01美元/桶。
+
+---
+
+### 2026-06-22 06:00:02  #市場
+
+紐約期銀日內跌3%，現報64.32美元/盎司。
+
+---
+
+### 2026-06-22 06:00:02  #市場
+
+紐約期金日內跌2%，現報4157.57美元/盎司。
+
+---
+
+### 2026-06-22 05:58:24  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為61.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為61.5%，累計加息25個基點的機率為38.5%。 美聯儲到9月維持利率不變的機率為24.9%，累計加息25個基點的機率為52.2%，累計加息50個基點的機率為22.9%。
+
+---
+
+### 2026-06-22 05:58:20  #市場 #國際
+
+歐洲天然氣期貨因霍爾木茲海峽局勢持續緊張而上漲3.4%。
+
+---
+
+### 2026-06-22 05:57:02  #國際
+
+伊朗首席談判代表卡利巴夫：這就是我們保護我們土地的方式。
+
+---
+
+### 2026-06-22 05:55:43  #其他
+
+哥倫比亞左翼候選人塞佩達暫居第二位，得票率為48.3%，目前約90%的選票已完成統計。
+
+---
+
+### 2026-06-22 05:55:34  #其他
+
+已統計約90%選票，哥倫比亞選舉中右翼候選人德拉埃斯普列利亞以50.1%的得票率暫時領先。
+
+---
+
+### 2026-06-22 05:50:36  #其他
+
+已統計逾80%投票點選票，哥倫比亞大選右翼候選人德拉埃斯普列亞得票率50.3%暫居領先。
+
+---
+
+### 2026-06-22 05:50:23  #國際
+
+日本讀賣新聞民調：高市內閣支援率69%。
+
+---
+
+### 2026-06-22 05:45:51  #其他
+
+在統計超過60%的選票後，哥倫比亞左翼候選人塞佩達得票率為47.8%，暫居第二位。
+
+---
+
+### 2026-06-22 05:45:45  #其他
+
+已統計超過60%投票站的結果，右翼候選人德拉埃斯普列利亞以50.5%的得票率在哥倫比亞大選中領先。
+
+---
+
+### 2026-06-22 05:45:23  #MKT News
+
+TASNIM NEWS reports Pakistan and Qatar are continuing mediation but have not reached a final outcome.
+
+---
+
+### 2026-06-22 05:45:10  #國際
+
+伊朗塔斯尼姆通訊社援引訊息人士訊息：巴基斯坦與卡達兩國調解方所做的努力仍在持續，但尚未取得最終結果。
+
+---
+
+### 2026-06-22 05:45:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+TASNIM NEWS reported Iran's delegation refused to return to four-way talks after Trump issued threats during negotiations, but exchanged messages via Qatari and Pakistani mediators.
+
+---
+
+### 2026-06-22 05:45:07  #焦點 #國際
+
+伊朗塔斯尼姆通訊社援引知情人士訊息：在特朗普發出威脅後，伊朗代表團拒絕重返四方會談，但雙方已透過卡達和巴基斯坦調停者交換資訊。
+
+---
+
+### 2026-06-22 05:43:21  #其他
+
+訊息人士稱，道達爾能源計劃在七天內完成得克薩斯州亞瑟港煉油廠的全面重啟。
+
+---
+
+### 2026-06-22 05:40:38  #其他
+
+計票完成一半時，右翼候選人德拉埃斯普列亞以50.5%的得票率在哥倫比亞選舉中暫時領先。
+
+---
+
+### 2026-06-22 05:37:23  #國際
+
+伊朗國家隊門將阿里·貝蘭萬德在世界盃賽事前的採訪中向伊朗球迷承諾，他會像封鎖霍爾木茲海峽一樣守住國家隊球門。
+
+---
+
+### 2026-06-22 05:36:45  #其他
+
+哥倫比亞左翼候選人塞佩達暫居第二，得票率47.9%，目前已有三分之一的票箱完成計票。
+
+---
+
+### 2026-06-22 05:36:42  #其他
+
+在已統計三分之一選票的情況下，哥倫比亞右翼候選人德拉埃斯普列亞以50.4%的得票率在選舉中領先。
+
+---
+
+### 2026-06-22 05:30:07  #國際
+
+特朗普聲稱英國首相斯塔默即將辭職，唐寧街駁斥該辭職傳聞。
+
+---
+
+### 2026-06-22 05:25:26  #國際
+
+烏克蘭總統澤連斯基： 無意指責其他家庭，但對我而言，女兒留在烏克蘭本土求學至關重要。 切身親歷祖國正遭受的苦難，遠比道聽途說來得重要。戰時身處故土，和我們所有孩子一同直面導彈襲擊，這份經歷意義非凡。 與此同時，我並不苛責那些隨父母離開本國的孩子。
+
+---
+
+### 2026-06-22 05:19:33  #MKT News
+
+【Syria says it can play constructive role in Lebanon crisis, denies plans for military intervention】SANA reported Syrian President Ahmed Shala said Syria can play a constructive role in resolving Lebanon’s crisis by supporting Lebanon and helping establish communication channels among Lebanese political factions, including Hezbollah. He said earlier comments about Syria’s possible role were misinterpreted and sparked concerns of potential military intervention. Shala said Syria seeks economic—not military—corridors with Lebanon, citing historical trade links between Damascus and Beirut and between Homs and Tripoli. He added talks with the US have focused on ending the conflict and addressing its consequences for Lebanon and Syria.
 
 ---
 
@@ -22733,101 +22985,5 @@ SpaceX投行團隊籌備發行至少200億美元債券。
 ### 2026-06-19 00:23:55  #國際
 
 【伊朗將獲准動用60億美元被凍結資金 僅限購買美國產品】據報道，根據美伊之間達成的臨時協議，特朗普政府將允許伊朗動用存放在卡達的60億美元石油收入，用於購買美國的人道主義物資及非受制裁商品。此舉是特朗普政府為確保伊朗信守諒解備忘錄及後續核談判承諾，而丟擲的數十億美元經濟激勵措施的一部分。這筆資金將分階段解凍，具體時間安排在協議規定的60天停火延長期內，並取決於霍爾木茲海峽的重新開放情況以及旨在達成最終解決方案的談判進展。一位知悉該協議的外交官表示，這些資金僅能用於購買美國產品。白宮在被問及此事時未對具體細節置評，但一位美國官員表示，只要伊朗表現出良好行為（例如移交其濃縮鈾），華盛頓將在最終談判期間解凍部分資產。特朗普政府還將給予豁免，允許伊朗在上述60天內出口石油，並解除對伊朗港口的海上封鎖。
-
----
-
-### 2026-06-19 00:23:42  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Iran to be allowed to use $6 bln in frozen oil revenues, limited to US purchases】Financial Times reports the Trump administration has agreed under a temporary accord to allow Iran to access $6 bln of oil revenues held in Qatar to purchase US humanitarian and other non-sanctioned goods. The funds will be released in phases during a 60-day ceasefire-extension and are conditional on reopening the Strait of Hormuz and progress toward a final settlement. A diplomat said the money may be spent only on US products. The White House declined detailed comment; a US official said Washington would unfreeze portions of the assets during final negotiations if Iran demonstrates good behavior, citing transfer of enriched uranium as an example. The administration will also issue waivers to permit Iranian oil exports and lift a naval blockade of Iranian ports for the 60-day period.
-
----
-
-### 2026-06-19 00:22:34  #公司
-
-【Rokos基金考慮從外部蒐集選股思路 效仿部分同行的做法】知情人士稱，由Chris Rokos創立的基金公司正在考慮從外部吸收選股情報，加入Marshall Wace和城堡等一批同行的行列。因討論未公開資訊而不願具名的知情人士表示，Rokos Capital Management正考慮建立一項所謂“阿爾法捕捉”計劃，從賣方資訊提供者那裡獲取有關股票的思路。其中一人稱，相關討論仍處於早期階段，計劃可能有變。總部位於倫敦的Rokos的一位代表不予置評。
-
----
-
-### 2026-06-19 00:20:57  #Trading Economics #Economy #United States #30 Year Mortgage Rate #Importance 1
-
-US 30-Year Mortgage Rate Eases — The average rate on a 30-year fixed-mortgage fell by 5bps to 6.47% on the third week of June, according to data compiled by Freddie Mac. The result was in line with the pullback for longer maturity Treasury yields as optimistic signals for an agreement between the Iran and US lowered energy prices and reduced the urgency for the Federal Reserve to raise interest rates. “The 30-year fixed-rate mortgage decreased this week averaging 6.47%,” said Sam Khater, Freddie Mac’s Chief Economist. “Incoming data continues to reflect a resilient consumer, with retail sales improving and pending home sales strengthening, suggesting purchase demand is continuing to modestly improve."
-
----
-
-### 2026-06-19 00:20:14  #公司
-
-【商務部：關於2026年度牛肉保障措施執行提示資訊（五）】牛肉保障措施項下自澳大利亞進口的牛肉於2026年6月18日已達到商務部公告2025年第87號明確的該國家規定數量的100%。根據商務部公告2025年第87號，在澳大利亞牛肉進口數量達到規定數量100%的第3日起（6月20日零點起），自該國進口牛肉將在現行適用關稅稅率基礎上加徵55%關稅。
-
----
-
-### 2026-06-19 00:19:52  #其他
-
-【生態環境部：強化生態系統監測評估 嚴格開展生態保護監督執法】生態環境部部長黃潤秋18日主持召開部常務會議，審議並原則透過《生態保護“十五五”規劃》和《生態質量評價標準（試行）》。會議指出，生態保護事關國家安全、民生福祉和美麗中國建設，要牢固樹立和踐行綠水青山就是金山銀山的理念，堅持山水林田湖草沙一體化保護和系統治理，不斷提升生態系統多樣性穩定性持續性。要持續完善生態空間格局，統籌推進生態系統保護與修復，全面加強生物多樣性保護，深入推進生態文明示範建設，健全生態保護保障體系。要強化生態系統監測評估，嚴格開展生態保護監督執法，築牢自然生態屏障。
-
----
-
-### 2026-06-19 00:19:38  #MKT News
-
-IDF spokesman said the Israeli Air Force intercepted several rockets launched at Israeli forces in southern Lebanon. A few rockets fell near troops with no casualties. Per procedure, warning sirens were not activated.
-
----
-
-### 2026-06-19 00:19:16  #國際
-
-美國得克薩斯州公用事業委員會批准德州電力可靠性委員會（ERCOT）資料中心供電規劃。
-
----
-
-### 2026-06-19 00:18:09  #國際
-
-以色列國防軍通報：真主黨在黎巴嫩南部向以軍發射火箭彈，部分火箭彈被攔截，其餘落在部隊周邊，未造成人員傷亡。
-
----
-
-### 2026-06-19 00:18:06  #國際
-
-內塔尼亞胡將於今晚召開以色列安全內閣會議。
-
----
-
-### 2026-06-19 00:17:45  #公司
-
-【比亞迪計劃推動子品牌自負盈虧】據悉，比亞迪正計劃讓旗下各子品牌自負盈虧，仰望暫不在其中。一位接近此事的人士說，新機制下各品牌主體按需取用研發、生產、採購等集團資源，取用成本獨立結算。（晚點）
-
----
-
-### 2026-06-19 00:17:19  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Finishes at Over 2-Week High — The DAX closed about 0.4% up at 25,027 on Thursday, the highest since early June and extending gains for the sixth successive session. Optimism surrounding the US-Iran agreement outweighed hawkish signals from new Fed Chair Kevin Warsh. The US formally signed an interim agreement with Iran that paves the way for an end to the Middle East conflict and the reopening of key energy export routes. Oil prices pulled back, reflecting easing inflation concerns. Tech companies, industrials and travel stocks were among the top performers. Infineon Technologies led gains among equities, surging 6.4%. Siemens Energy advanced 4.7% following reports that the company is considering divesting its multi-billion-euro compressor and steam turbine business. On the flip side, automakers and software companies faced pressure.
-
----
-
-### 2026-06-19 00:17:05  #國際
-
-美國副總統萬斯： 過去三個月，用於防衛以色列的三分之二武器均由美國製造，資金也全部來自美國納稅人的稅款。
-
----
-
-### 2026-06-19 00:16:41  #國際
-
-美國疾控中心關於埃博拉疫情應對：目前已有23名現場人員協助開展流行病學調查工作，併為剛果（金）衛生部提供支援。
-
----
-
-### 2026-06-19 00:16:27  #國際
-
-市場訊息：伊朗將獲得60億美元凍結資金的訪問許可權，用於購買美國商品。
-
----
-
-### 2026-06-19 00:16:19  #MKT News
-
-Israel's Prime Minister Netanyahu will hold a security cabinet meeting tonight to discuss progress on the Iran agreement.
-
----
-
-### 2026-06-19 00:15:55  #國際
-
-美國副總統萬斯談及內塔尼亞胡： 我看到阿克西奧斯新聞的報道稱內塔尼亞胡大為惱火。但這和我與他溝通時感受到的情況並不相符。或許他對外人表達的態度，和對我所說的並不一樣。
 
 ---
