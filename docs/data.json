@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-22 03:11:56",
-  "count": 17471,
+  "updated": "2026-06-22 03:15:36",
+  "count": 17469,
   "items": [
+    {
+      "id": "4946626",
+      "time": "2026-06-22 03:14:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨：以色列無意從貝卡夫要塞撤退，該要塞是黎巴嫩安全區不可分割的一部分，對保護加利利定居點和以色列國防軍部隊至關重要。正如總理內塔尼亞胡和我所澄清的，以色列不會從黎巴嫩的安全區撤退。"
+    },
     {
       "id": "4946625",
       "time": "2026-06-22 03:02:04",
@@ -160891,38 +160899,6 @@
         "國際"
       ],
       "text": "美國聯邦航空管理局：美國國家運輸安全委員會將主導密蘇里州跳傘飛機墜毀事故的調查工作。"
-    },
-    {
-      "id": "mkt:019ec78e-0ca0-7dd8-aff6-6d6f0d24c8f0",
-      "time": "2026-06-15 03:13:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Putin, Trump hold 55-minute call on Iran and Ukraine】Russia presidential aide USHAKOV said Putin and US President Trump held a 55-minute phone call covering bilateral ties and international issues including Iran and the Ukraine crisis. Trump told Putin a US-Iran agreement is near completion after complex talks mediated by Pakistan and Qatar and could be announced the same day. USHAKOV said a US special envoy and Trump’s son‑in‑law Jared Kushner will visit Moscow soon."
-    },
-    {
-      "id": "mkt:019ec78d-177a-7dd8-aff6-646667c98456",
-      "time": "2026-06-15 03:12:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran's PEZESHKIAN says Supreme National Security Council has decided to advance negotiations】Islamic Republic of Iran Broadcasting (IRIB) reported on the evening of the 14th that President PEZESHKIAN said the Supreme National Security Council has clearly decided to advance negotiations."
-    },
-    {
-      "id": "4934749",
-      "time": "2026-06-15 03:12:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗總統：伊朗最高國家安全委員會已決定推進談判】據伊朗伊斯蘭共和國廣播電視臺14日晚報道，伊朗總統佩澤希齊揚表示，伊朗最高國家安全委員會已明確決定推進談判程序。 (新華社)"
     }
   ]
 }
