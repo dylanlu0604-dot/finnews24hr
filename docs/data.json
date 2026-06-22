@@ -1,7 +1,146 @@
 {
-  "updated": "2026-06-22 09:19:19",
-  "count": 17350,
+  "updated": "2026-06-22 09:23:25",
+  "count": 17344,
   "items": [
+    {
+      "id": "mkt:019eecec-4828-7dd8-b0ac-6e05ae17b94f",
+      "time": "2026-06-22 09:22:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【PBOC 7-day reverse repos net CNY 341.5bn withdrawal today】PBOC conducted CNY 476.5bn of 7-day reverse repos today; CNY 818.0bn of 7-day reverse repos matured, resulting in a net liquidity withdrawal of CNY 341.5bn."
+    },
+    {
+      "id": "4947004",
+      "time": "2026-06-22 09:21:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：石油和石化產品出口禁令解除，封鎖解除，部分凍結資產解凍，伊朗重大重建與發展計劃啟動。"
+    },
+    {
+      "id": "4947003",
+      "time": "2026-06-22 09:21:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠3,415.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019eeceb-3032-7dd8-b0ac-63073e86b17e",
+      "time": "2026-06-22 09:21:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bearish",
+        "HSCEI"
+      ],
+      "text": "Hong Kong stocks opened lower on Monday June 22: Hang Seng Index (HSI) down 113.05 pts (-0.47%) at 23,811.76; Hang Seng Tech Index down 9.28 pts (-0.20%) at 4,595.07; Hang Seng China Enterprises Index (HSCEI) down 40.49 pts (-0.51%) at 7,935.55; Hang Seng Red Chip Index down 22.56 pts (-0.56%) at 3,987.03."
+    },
+    {
+      "id": "4947002",
+      "time": "2026-06-22 09:21:34",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.47％，國企指數跌0.51％，科指開跌0.2%。"
+    },
+    {
+      "id": "mkt:019eeceb-0f72-7dd8-b0ac-5ef84bcbce1f",
+      "time": "2026-06-22 09:21:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00981.HK",
+        "Impact bullish",
+        "09988.HK"
+      ],
+      "text": "Hong Kong stocks opened lower: Hang Seng Index down 0.47%, Hang Seng TECH Index down 0.2%. Semiconductor Manufacturing International Corp (00981.HK) rose about 3%; Alibaba Group Holding Ltd (09988.HK) fell about 2%."
+    },
+    {
+      "id": "mkt:019eecea-e79e-7dd8-b0ac-535df1f79c5a",
+      "time": "2026-06-22 09:21:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar issues joint statement on U.S.-Iran talks】Qatar's Foreign Ministry on the 22nd issued a joint statement on U.S.-Iran talks, saying the negotiations had made \"encouraging progress\" and established a mechanism to hold further technical talks."
+    },
+    {
+      "id": "4947001",
+      "time": "2026-06-22 09:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：巴基斯坦和卡達的不懈調解為結束黎巴嫩戰爭取得重大進展。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606223777184564",
+      "time": "2026-06-22 09:20:53",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展4765億元7天逆回購操作】央行今日開展4765億元7天逆回購操作，投標量4765億元，中標量4765億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019eecea-4859-7dd8-b0ac-4d930b8c2155",
+      "time": "2026-06-22 09:20:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted 476.5 bln yuan of 7-day reverse repos today; bid and allotment both 476.5 bln yuan. Operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "4947000",
+      "time": "2026-06-22 09:20:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展4765億元7天逆回購操作，投標量4765億元，中標量4765億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4946999",
+      "time": "2026-06-22 09:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【卡達與巴基斯坦聯合宣告：美伊首輪高階別會談結束，各方敲定60天路線圖】卡達和巴基斯坦釋出聯合宣告。宣告指出，在美伊諒解備忘錄框架下舉行的首輪高階別會談已在瑞士結束。在諒解備忘錄基礎上，各方同意設立一個高階別委員會，為調解工作提供政治監督。首席談判代表將定期向高階別委員會彙報。高階別委員會已就60天內達成最終協議的時間表達成一致，為立即啟動進一步技術性會談奠定了基礎。此外，各方同意在相關方與黎巴嫩共和國之間設立一個衝突消除協調小組，由調解方提供協助，以確保根據諒解備忘錄終止在黎巴嫩的軍事行動。本週剩餘時間內，技術性會談將在瑞士比爾根山度假村繼續就所有問題進行。"
+    },
+    {
+      "id": "mkt:019eece9-6433-7dd8-b0ac-41768ee843ac",
+      "time": "2026-06-22 09:19:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Qatar, Pakistan joint statement: first round of US-Iran senior talks ends; parties set 60-day roadmap】Qatar and Pakistan issued a joint statement saying the first round of US-Iran senior-level talks under a memorandum of understanding concluded in Switzerland. Parties agreed to form a high-level committee to provide political oversight of the mediation, with chief negotiators reporting regularly; the committee has agreed on a 60-day timeline to reach a final agreement and to allow immediate further technical talks. They also agreed to create a coordination group, with mediators' assistance, between the relevant parties and Lebanon to ensure cessation of military operations under the MoU; technical talks will continue this week at Switzerland's Bürgenstock resort on all outstanding issues."
+    },
+    {
+      "id": "4946998",
+      "time": "2026-06-22 09:18:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守76美元/桶，日內漲0.18%。"
+    },
     {
       "id": "mkt:019eece6-de21-7dd8-b0ac-3b9ef1ac2f6a",
       "time": "2026-06-22 09:16:53",
@@ -506,6 +645,15 @@
         "Impact bullish"
       ],
       "text": "Spot gold extended gains, touching $4,220/oz and rising 1.55% intraday. Spot silver climbed above $67/oz, up 3.40% on the session."
+    },
+    {
+      "id": "em:qqyh_zgyh:202606223777174212",
+      "time": "2026-06-22 09:00:52",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【6月LPR不變：1年期3.0% 5年期以上3.5%】貸款市場報價利率（LPR）報價連續13個月按兵不動。中國人民銀行授權全國銀行間同業拆借中心公佈，2026年6月22日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。"
     },
     {
       "id": "4946962",
@@ -159458,212 +159606,6 @@
         "焦點"
       ],
       "text": "PTA連續主力合約日內跌6%，現報5952.00元。"
-    },
-    {
-      "id": "4935175",
-      "time": "2026-06-15 09:23:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌5%，現報8204.00元。"
-    },
-    {
-      "id": "4935174",
-      "time": "2026-06-15 09:23:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌5%，現報4411.00元。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606153770850034",
-      "time": "2026-06-15 09:22:38",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展4250億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019ec8df-6237-7dd8-affa-9bcef1af7c6d",
-      "time": "2026-06-15 09:22:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC nets CNY 393.5 bln liquidity withdrawal from open-market ops】The PBOC injected CNY 425 bln via 7-day reverse repos. CNY 218.5 bln of 7-day reverse repos and CNY 600 bln of 6-month outright reverse repos matured, producing a net liquidity withdrawal of CNY 393.5 bln from open-market operations."
-    },
-    {
-      "id": "4935173",
-      "time": "2026-06-15 09:22:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丙烯連續主力合約日內跌6%，現報7705.00元。"
-    },
-    {
-      "id": "4935172",
-      "time": "2026-06-15 09:21:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內跌4%，現報8156.00元。"
-    },
-    {
-      "id": "mkt:019ec8de-af5f-7dd8-affa-922e119f6161",
-      "time": "2026-06-15 09:21:37",
-      "tags": [
-        "MKT News",
-        "CNH"
-      ],
-      "text": "The PBOC conducted a CNY 425 billion 7-day reverse repo operation today, receiving CNY 425 billion in bids and allotting CNY 425 billion. The rate was 1.40%, unchanged from the previous operation."
-    },
-    {
-      "id": "4935171",
-      "time": "2026-06-15 09:21:30",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "港股恒指高開漲1.15％，國企指數漲0.95％，科指開漲1.78%，智譜漲近15%。"
-    },
-    {
-      "id": "mkt:019ec8de-7bf0-7dd8-affa-8f36bdfb736f",
-      "time": "2026-06-15 09:21:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "HSI",
-        "Impact bullish"
-      ],
-      "text": "At the open in Hong Kong on Monday June 15, the Hang Seng Index (HSI) rose 283.32 points (1.15%) to 25,001.42; the Hang Seng Tech Index gained 83.63 points (1.78%) to 4,788.83; the Hang Seng China Enterprises Index (HSCEI) added 79.78 points (0.95%) to 8,454.21; the Red Chip Index was up 6.83 points (0.16%) at 4,322.64."
-    },
-    {
-      "id": "4935170",
-      "time": "2026-06-15 09:21:23",
-      "tags": [
-        "公司",
-        "央行"
-      ],
-      "text": "據央行公告，中國央行透過1.40%利率的7天期逆回購操作向市場注入4250億元人民幣，中標利率與此前操作持平。"
-    },
-    {
-      "id": "mkt:019ec8de-61af-7dd8-affa-87ba4ccd4dc6",
-      "time": "2026-06-15 09:21:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution",
-        "02513.HK",
-        "Impact bullish",
-        "00100.HK",
-        "Hang Seng Index"
-      ],
-      "text": "Hong Kong stocks opened higher: Hang Seng Index up 1.15%, Hang Seng Tech Index up 1.78%. Zhipu AI (02513.HK) jumped nearly 15%; MINIMAX-W (00100.HK) rose over 5%; Zijin Mining (02899.HK) and China Molybdenum (03993.HK) gained more than 4%."
-    },
-    {
-      "id": "te:economy:558852",
-      "time": "2026-06-15 09:21:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Bond Yield Hits 4-week Low — Japan 10 Year Government Bond Yield decreased to 2.56%, the lowest since May 2026. Over the past 4 weeks, Japan 10Y Bond Yield lost 17.99 basis points, and in the last 12 months, it increased 111.25 basis points."
-    },
-    {
-      "id": "4935169",
-      "time": "2026-06-15 09:21:00",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "溜溜梅(06658.HK)港股上市首日開盤漲117.99%，報95港元/股，成交2.5億港元。"
-    },
-    {
-      "id": "4935168",
-      "time": "2026-06-15 09:20:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界盃小組賽 象牙海岸1-0戰勝厄瓜多】北京時間6月15日，在2026年美加墨世界盃小組賽E組第一輪對決中，象牙海岸隊1-0戰勝厄瓜多隊。上半場比賽，兩隊均未取得進球。下半場，第90分鐘，象牙海岸隊破門，最終1-0戰勝厄瓜多隊。（央視新聞）"
-    },
-    {
-      "id": "4935167",
-      "time": "2026-06-15 09:20:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純苯連續主力合約日內跌4%，現報7177.00元。"
-    },
-    {
-      "id": "4935166",
-      "time": "2026-06-15 09:20:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內跌6%，現報8264.00元。"
-    },
-    {
-      "id": "4935165",
-      "time": "2026-06-15 09:20:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌7%，現報2811.00元。"
-    },
-    {
-      "id": "4935164",
-      "time": "2026-06-15 09:20:13",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【Pepperstone：美伊協議利好取決於布倫特油價是否跌至每桶80美元】根據Pepperstone，美伊協議帶來的利好現在取決於布倫特原油期貨價格是否會回落至每桶80美元，核心通脹率是否會最終建立起可信的下降趨勢，以及降息是否會重新成為市場討論的話題。“亞洲股市今日普遍開盤走高，鑑於日本、韓國能源進口依賴度高，且通脹的緩解能迅速傳導至其經濟，這些經濟體將直接受益，”該公司策略師Dilin Wu表示。"
-    },
-    {
-      "id": "mkt:019ec8dc-d81a-7dd8-affa-7cbabf3f6e75",
-      "time": "2026-06-15 09:19:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Container shipping index (Europe route) most-active contract fell more than 5.00% intraday to 3,712.0 points."
-    },
-    {
-      "id": "4935163",
-      "time": "2026-06-15 09:19:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三一重能、華能新能源合資成立新能源公司】企查查APP顯示，近日，烏拉特後旗華湘新能源有限公司成立，經營範圍包含：風力發電技術服務；太陽能發電技術服務；發電技術服務等。企查查股權穿透顯示，該公司由華能新能源股份有限公司、三一重能共同持股。"
-    },
-    {
-      "id": "4935162",
-      "time": "2026-06-15 09:19:23",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美債全線上揚 伊朗協議促使交易員減少對美聯儲的加息押注】美債全線上漲，伊朗協議達成的訊息傳出後，投資者降低對美聯儲加息的預期。各期限美債收益率均下降，對貨幣政策變化最為敏感的短期債券收益率領跌。互換市場交易員預計，美聯儲12月前加息25個基點的可能性約為60%，低於上週五的約80%。布倫特原油價格下跌約4%，緩解了市場對通脹的擔憂。美債價格上漲，因投資者樂觀預期伊朗衝突的解決將有助於重新開放霍爾木茲海峽並降低油價。這一走勢的影響遠不止於規模31萬億美元的美債市場，鑑於美國債券是全球借貸成本的基準，對從公司債、新興市場資產等諸多市場都有影響。“部分利率債空頭頭寸將被解除，”Wilson Asset Management對沖基金經理Matthew Haupt表示。“各國央行現在可以不那麼鷹派了，因為它們可以等待並忽略任何短期通脹。”"
     }
   ]
 }
