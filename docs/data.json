@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-22 09:14:10",
-  "count": 17347,
+  "updated": "2026-06-22 09:19:19",
+  "count": 17350,
   "items": [
+    {
+      "id": "mkt:019eece6-de21-7dd8-b0ac-3b9ef1ac2f6a",
+      "time": "2026-06-22 09:16:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.52% at 23,767, trading 158 points below the spot index."
+    },
+    {
+      "id": "4946997",
+      "time": "2026-06-22 09:16:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【酒價內參6月22日價格釋出：青花汾20漲幅領先 總價低位微幅回落】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月22日整體小幅走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9897元，較昨日下跌2元，自昨日創下的三日新高小幅回落。今日總價仍處於9900元關口下方，低位震盪態勢仍在延續，終端交投情緒整體偏謹慎，核心單品的漲跌分化依然顯著。今日11大白酒單品四漲七跌，輸家佔據明顯優勢。上漲方面，青花汾20漲幅居前，上漲6元/瓶，低位四連漲，平進入六月以來最高價紀錄；習酒君品上漲5元/瓶，重新逼近630元關口；五糧液1618與古井貢古20均上漲2元/瓶，其中自昨日創下的近一月最低價小幅反彈，仍處於近一月次低位。下跌方面，精品茅臺與國窖1573跌幅居前，均下跌4元/瓶，其中前者回落至近一月次低位，後者結束此前兩日反彈，但仍守住880元關口；水晶劍南春下跌3元/瓶；飛天茅臺與青花郎均下跌2元/瓶；五糧液普五八代與洋河夢之藍M6+均小幅下跌1元/瓶，其中前者已五連陰，失守800元關口後繼續下探，創今年2月2日以來最低價，後者結束此前連續三日上揚走勢，但價格回落後仍處於近一月次高位。"
+    },
+    {
+      "id": "mkt:019eece6-41fd-7dd8-b0ac-3778339b91b4",
+      "time": "2026-06-22 09:16:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar and Pakistan said technical talks on all issues will continue for the remainder of the week at the Bürgenstock resort in Switzerland."
+    },
+    {
+      "id": "mkt:019eece6-0efc-7dd8-b0ac-2f1443241613",
+      "time": "2026-06-22 09:16:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Qatar and Pakistan said parties have agreed, with mediators' assistance, to establish a conflict de‑escalation coordination group between the relevant parties and Lebanon to ensure the cessation of military operations in Lebanon under the memorandum of understanding."
+    },
+    {
+      "id": "4946996",
+      "time": "2026-06-22 09:15:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與巴基斯坦聯合宣告：本週剩餘時間將在布林根施托克度假村繼續就所有議題進行技術性會談。"
+    },
+    {
+      "id": "4946995",
+      "time": "2026-06-22 09:15:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8150，較上日調低20點】人民幣兌美元中間價報6.8150，較上日調低20點。"
+    },
+    {
+      "id": "4946994",
+      "time": "2026-06-22 09:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8150元。"
+    },
+    {
+      "id": "4946993",
+      "time": "2026-06-22 09:15:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價創歷史新高。"
+    },
+    {
+      "id": "4946992",
+      "time": "2026-06-22 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.06%，報23905.44點，低水19.37點。"
+    },
+    {
+      "id": "4946991",
+      "time": "2026-06-22 09:15:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與巴基斯坦聯合宣告：各方同意建立一個衝突化解小組，由調解方提供便利，在各方與黎巴嫩之間運作，以確保黎巴嫩境內軍事行動的終止得到遵守。"
+    },
+    {
+      "id": "4946990",
+      "time": "2026-06-22 09:14:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同益股份：公司產品暫未應用於MLCC超級電容領域】同益股份6月22日在互動平臺表示，公司產品暫未應用於MLCC超級電容領域。"
+    },
+    {
+      "id": "4946989",
+      "time": "2026-06-22 09:14:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌8%，現報152260.00元。"
+    },
+    {
+      "id": "mkt:019eece4-7fa3-7dd8-b0ac-252e0e8c1e70",
+      "time": "2026-06-22 09:14:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar and Pakistan issued a joint statement saying talks were held in a positive, constructive atmosphere."
+    },
+    {
+      "id": "mkt:019eece4-0168-7dd8-b0ac-1c88870f358a",
+      "time": "2026-06-22 09:13:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Qatar and Pakistan in a joint statement said a high-level committee has agreed a roadmap to reach a final agreement within 60 days."
+    },
+    {
+      "id": "4946988",
+      "time": "2026-06-22 09:13:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國家醫保局公開發布第十六批智慧監管“兩庫”規則和知識點】國家醫保局釋出關於公開發布第十六批智慧監管“兩庫”規則和知識點的公告，國家醫保局組織編寫的《國家醫保基金智慧監管知識庫、規則庫（2025年版）》已於近日出版發行，以幫助定點醫藥機構及其工作人員熟悉掌握醫保基金監管規則，透過智慧化方式主動合規、持續合規，實現監管關口前移。現按計劃將“藥品限適應症”規則有關全身用抗感染藥物對應知識點明細面向社會公開。各省級醫保部門要及時根據最新知識點明細及程式碼對省級醫保資訊平臺智慧監管子系統“兩庫”進行動態更新。定點醫藥機構可以將智慧監管“兩庫”置於本機構智慧提醒等資訊化系統中，也可以對接醫保部門智慧監管系統事前提醒功能模組，對醫保基金使用行為開展自動提醒和自查自糾，將不合規的行為消除在“萌芽”階段，從源頭上減少使用醫保基金違法違規行為發生。"
+    },
     {
       "id": "4946987",
       "time": "2026-06-22 09:13:28",
@@ -972,6 +1100,15 @@
         "市場"
       ],
       "text": "現貨白銀日內漲1%，現報65.48美元/盎司。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606223777169360",
+      "time": "2026-06-22 08:44:51",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【本週決戰PCE！美聯儲最青睞通脹指標將接力引爆市場？】華爾街利率交易員近期正被迫調整頭寸，以應對未來利率可能上升的局面。而本週，他們就將密切關注美聯儲最為青睞的通脹指標——PCE物價指數，以期初步判斷市場新近的鷹派立場是否合理。"
     },
     {
       "id": "mkt:019eecc8-fbc2-7dd8-b0ab-10b2ce8c3629",
@@ -159527,130 +159664,6 @@
         "國際"
       ],
       "text": "【美債全線上揚 伊朗協議促使交易員減少對美聯儲的加息押注】美債全線上漲，伊朗協議達成的訊息傳出後，投資者降低對美聯儲加息的預期。各期限美債收益率均下降，對貨幣政策變化最為敏感的短期債券收益率領跌。互換市場交易員預計，美聯儲12月前加息25個基點的可能性約為60%，低於上週五的約80%。布倫特原油價格下跌約4%，緩解了市場對通脹的擔憂。美債價格上漲，因投資者樂觀預期伊朗衝突的解決將有助於重新開放霍爾木茲海峽並降低油價。這一走勢的影響遠不止於規模31萬億美元的美債市場，鑑於美國債券是全球借貸成本的基準，對從公司債、新興市場資產等諸多市場都有影響。“部分利率債空頭頭寸將被解除，”Wilson Asset Management對沖基金經理Matthew Haupt表示。“各國央行現在可以不那麼鷹派了，因為它們可以等待並忽略任何短期通脹。”"
-    },
-    {
-      "id": "4935161",
-      "time": "2026-06-15 09:19:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱諒解備忘錄是對美勝利】就在巴基斯坦和美國分別宣佈美伊協議已達成後，當地時間今天（6月15日）凌晨，伊朗最高國家安全委員會秘書處釋出關於伊朗與美國結束戰爭協議的緊急宣告表示，根據伊朗最高國家安全委員會的決議，於6月14日晚最終確定了關於結束戰爭談判（伊斯蘭堡談判）的諒解備忘錄文字。該諒解備忘錄將於6月19日正式簽署。 伊朗副外長加里巴巴迪在接受伊朗國家電視臺採訪時表示，美伊間的諒解備忘錄文字已經最終敲定，將於本週五在瑞士正式簽署。他說，伊朗已在諒解備忘錄草案中涵蓋了所有重要立場，公眾將能夠看到伊朗的成果與承諾。他表示，伊朗取得的成果遠大於承諾。伊朗軍方發表宣告說，伊朗人民和武裝部隊證明，敵人別無選擇，只能接受失敗。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:558851",
-      "time": "2026-06-15 09:18:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Dollar Gains in Risk-On Rally — The Australian dollar rose above $0.70, building on the previous week’s modest 0.4% gain to rebound from a recent two-month low, as global risk appetite strengthened after the US and Iran reached an interim peace agreement. The deal reportedly includes sanctions relief for Iran, the lifting of blockades, and the dismantling of Tehran’s nuclear program. This lifted sentiment across financial markets, with Asian equities rallying, the US dollar weakening, and oil prices falling sharply. The development also provided relief for central banks ahead of a busy week of policy meetings. In Australia, markets have fully priced out a June rate increase after a series of soft economic data reinforced signs that the Reserve Bank’s three rate hikes earlier this year are gaining traction. The odds of an August hike has also fallen to around 35% from more than 80% a month ago. The May CPI report, due on June 24, will be closely watched for clues on the persistence of underlying price pressures."
-    },
-    {
-      "id": "4935160",
-      "time": "2026-06-15 09:18:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報3712.00點。"
-    },
-    {
-      "id": "4935159",
-      "time": "2026-06-15 09:18:39",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【華泰期貨：貴金屬價格有望反彈，白銀謹慎偏多】周內市場偏向定價美聯儲在年內轉向緊縮，貴金屬價格或超跌。展望未來，伴隨著美伊之間的談判逐步推進，通脹水平或將出現回落並推動市場對於貨幣政策緊縮預期的逐步降溫，美聯儲的寬鬆通道或將開啟，貴金屬價格有望迎來反彈，維持對黃金謹慎偏多觀點；目前白銀價格反彈強勁，但由於白銀本身波動相對較大，因此操作上雖然仍可繼續逢低買入套保，但對於倉位的控制以及止損的嚴格執行需要更多關注。（華泰期貨）"
-    },
-    {
-      "id": "4935158",
-      "time": "2026-06-15 09:18:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上一交易日ETF兩市融資融券餘額1104.68億元】截至6月12日，ETF兩市融資融券餘額1104.68億元，分型別來看，股票型ETF兩融餘額609.40億元，債券型ETF兩融餘額79.56億元，商品型ETF兩融餘額136.12億元，QDII型ETF兩融餘額279.60億元。其中，兩融餘額最高的非貨幣型ETF分別是黃金ETF（518880）、證券ETF（512880）、黃金ETF（159934），兩融餘額分別為64.27億元、41.64億元、37.77億元。"
-    },
-    {
-      "id": "4935157",
-      "time": "2026-06-15 09:17:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瓶片連續主力合約日內跌5%，現報7260.00元。"
-    },
-    {
-      "id": "mkt:019ec8da-429b-7dd8-affa-733c3875af94",
-      "time": "2026-06-15 09:16:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures opened the day session up 1.1% at 24,976, trading a 265-point premium to the cash market."
-    },
-    {
-      "id": "4935156",
-      "time": "2026-06-15 09:16:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓比索兌美元上漲1%，領漲新興市場亞洲貨幣。"
-    },
-    {
-      "id": "4935155",
-      "time": "2026-06-15 09:16:13",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：受霍爾木茲海峽可能重新開放影響，韓元走強的風險回報似乎“相當高”】三菱日聯銀行的Michael Wan表示，在霍爾木茲海峽持續重新開放的情況下，未來韓元走強的風險回報似乎“相當高”；他指出了美國和伊朗達成的一項臨時協議。這位高階外匯分析師列舉了韓元表現不佳的程度、韓國官方對匯率疲軟的抵制日益增強，以及韓國央行變得更加偏緊縮。Wan在一份研究報告中說：“我們預計美元兌韓元隨著時間的推移將邁向1400關口，並且韓國央行今年將加息兩次。“"
-    },
-    {
-      "id": "4935154",
-      "time": "2026-06-15 09:15:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8088，較上日調高21點】人民幣兌美元中間價報6.8088，較上日調高21點。"
-    },
-    {
-      "id": "4935153",
-      "time": "2026-06-15 09:15:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8088元。"
-    },
-    {
-      "id": "4935152",
-      "time": "2026-06-15 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲1.19%，報24993.87點，高水275.77點。"
-    },
-    {
-      "id": "te:markets:558850",
-      "time": "2026-06-15 09:14:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Rises on US-Iran Agreement — The New Zealand dollar rose to around $0.585, reaching its highest level in over a week as investor sentiment improved following a peace agreement between the US and Iran. Pakistan’s Prime Minister announced the breakthrough, stating that both nations had agreed to the immediate and permanent halt of military operations across all fronts, including in Lebanon. President Donald Trump said that the Strait of Hormuz would reopen on Friday following the signing of the agreement with Iran in Switzerland. Also supporting the kiwi, the Reserve Bank of New Zealand is widely expected to tighten monetary policy in July. Markets are currently assigning an 85% chance to a 25-basis-point rate hike, with expectations for two additional increases that would bring the OCR to 3.0% by the end of the year."
     }
   ]
 }
