@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-23 02:09:41",
+  "updated": "2026-06-23 02:13:47",
   "count": 17273,
   "items": [
+    {
+      "id": "mkt:019ef087-18fd-7dd8-b0c3-aeece0515d4c",
+      "time": "2026-06-23 02:10:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pezeshkian praises Iran national team after resilient World Cup start】At the US-Canada-Mexico World Cup Iran faced restrictions from host US but has remained resilient, sitting second in its group after two matches. On June 22 President Pezeshkian lauded the team’s performance as a “source of pride” for the Iranian people."
+    },
+    {
+      "id": "4948839",
+      "time": "2026-06-23 02:09:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統致敬伊朗國家隊】本屆美加墨世界盃，伊朗國家隊面臨來自東道主之一美國的種種限制，但球隊仍頑強作戰，兩輪戰罷後暫列小組第二。伊朗總統佩澤希齊揚6月22日向伊朗國家隊致意，稱讚球隊在世界盃中的表現是伊朗人民的“自豪之源”。 （CCTV國際時訊）"
+    },
+    {
+      "id": "4948838",
+      "time": "2026-06-23 02:09:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【前美國政府效率部員工募資2.25億美元，成立風投基金Banner VC】據一名基金知情人士及美國證券交易委員會備案檔案顯示，馬斯克政府效率部（DOGE）兩名前工作人員，為其首支風險投資基金Banner VC完成2.25億美元募資。該知情人士透露，Banner另行募資近7500萬美元，聯合領投了軌道基礎設施初創企業脈衝空間（Impulse Space）近期一輪融資。備案檔案顯示，Banner VC由兩名前DOGE職員布魯克斯·摩根、亞當·拉馬達聯合創辦，2025年末啟動首支基金募資。這家總部位於得克薩斯州奧斯汀的投資機構，是大批前DOGE從業者創業浪潮中的一員。政府效率部當初的核心目標是消除聯邦各機構財政浪費。2025年末DOGE解散後，部分員工留任公職，更多人則合夥創辦初創公司或投資機構，彼此之間多有業務往來。"
+    },
     {
       "id": "te:markets:560858",
       "time": "2026-06-23 02:08:58",
@@ -158605,35 +158630,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：無論是否達成協議，伊朗都不會擁有核武器。最重要的是，我們拯救了以色列，免受核武器毀滅的威脅。為了保護我們的國家，我們將在安全區駐留必要長的時間。"
-    },
-    {
-      "id": "mkt:019ecc7d-2e9a-7dd8-b015-6432a6e2807e",
-      "time": "2026-06-16 02:13:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Prime Minister Netanyahu said the situation has improved since Oct. 7, 2023, and that Gaza no longer poses a threat to Israel."
-    },
-    {
-      "id": "mkt:019ecc7c-0f75-7dd8-b015-5ad6b849d88a",
-      "time": "2026-06-16 02:12:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he and U.S. President Trump sometimes disagree."
-    },
-    {
-      "id": "mkt:019ecc7a-2541-7dd8-b015-5039c5542de1",
-      "time": "2026-06-16 02:10:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's prime minister NETANYAHU said Israel will continue to thwart threats in the region."
     }
   ]
 }
