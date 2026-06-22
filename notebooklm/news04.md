@@ -1,7 +1,83 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-06-23 03:21:26_
-_本檔包含 3187 則快訊，約 645003 字_
+_更新時間：2026-06-23 03:50:01_
+_本檔包含 3194 則快訊，約 645599 字_
+
+---
+
+### 2026-06-18 02:00:08  #MKT News #Macro & Rates
+
+US rate on reserve balances 3.65% as of June 18; expected 3.65%; prior 3.65%.
+
+---
+
+### 2026-06-18 02:00:01  #MKT News #Economic Calendar #Important
+
+United States | FED‘s Federal Fund Rate (Upper Bound) (Jun.17) | actual 3.75% | consensus 3.75% | previous 3.75%
+
+---
+
+### 2026-06-18 02:00:01  #MKT News #Economic Calendar
+
+United States | Interest on Reserve Balances (Jun.18) | actual 3.65% | consensus 3.65% | previous 3.65%
+
+---
+
+### 2026-06-18 02:00:01  #MKT News #Economic Calendar #Important
+
+United States | FED's Federal Fund Rate (Lower Bound) (Jun.17) | actual 3.5% | consensus 3.50% | previous 3.50%
+
+---
+
+### 2026-06-18 01:58:52  #MKT News #Macro & Rates #The Fed (FOMC)
+
+JP Morgan's head of global fixed income Michelle said Fed Chair Kevin Warsh should be asked whether DISINFLATION is temporary.
+
+---
+
+### 2026-06-18 01:56:51  #市場 #央行 #國際
+
+美聯儲決議宣告發布前，標普500指數大致持平，道指漲0.3%，納指漲0.2%，半導體指數漲3.6%，銀行指數漲1.3%。美元指數漲0.1%，美元兌日元跌0.16%，歐元兌美元跌0.1%，英鎊兌美元跌0.2%。現貨黃金漲1.1%，白銀漲1.8%。美國10年期國債收益率跌1.38個基點，報4.4256%，兩年期美債收益率漲幅收窄至不足0.5個基點。
+
+---
+
+### 2026-06-18 01:53:30  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+【Analyst: Wash faces major credibility test at first Fed rate decision】Analyst Marte said this week's Fed meeting is Wash's first major credibility test as Fed chair; investors, policymakers and the public are watching whether he will defend the Fed's political independence. Trump has publicly urged independence on rate-setting but continues to signal a preference for lower borrowing costs. Some investors warn that if Wash fails to send a strong inflation signal he risks losing control of the bond market. April CPI rose 4.2% YoY, the fastest in over three years. Any impression the new chair intends to alter the Fed's 2% inflation target could push yields higher and further restrain the economy, running counter to Trump's objectives. A US–Iran peace deal could ease some fuel-price pressure, but pass-through to consumers would likely be delayed.
+
+---
+
+### 2026-06-18 01:52:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
+
+Societe Generale head of US research Rajappa said core inflation will become the Fed's real concern.
+
+---
+
+### 2026-06-18 01:51:32  #MKT News #WTI #Impact mixed
+
+JP Morgan global fixed income head Michelle said the oil-price shock is to some extent temporary.
+
+---
+
+### 2026-06-18 01:50:47  #央行 #焦點 #國際
+
+【美聯儲6月決議宣告和新聞釋出會關注點】
+1、美聯儲是否會維持聯邦基金利率目標區間不變。
+2、美聯儲官員們對利率預測的點陣圖是否會有變化。
+3、美聯儲對美國經濟形勢（通脹和就業等）的看法。
+4、美聯儲主席凱文·沃什將在新聞釋出會上釋放哪些資訊。
+
+---
+
+### 2026-06-18 01:50:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+The Federal Reserve's FOMC will release its rate decision and the Summary of Economic Projections in 10 minutes.
+
+---
+
+### 2026-06-18 01:49:19  #MKT News
+
+Brazilian President Lula said he expects U.S. President Trump will not interfere in Brazil's election.
 
 ---
 
@@ -19195,35 +19271,5 @@ Brent Holds Decline on Supply Optimism — Brent traded near three-month lows be
 ### 2026-06-17 07:37:36  #Trading Economics #Markets #Commodity #Importance 2
 
 Oil Holds Decline on Supply Optimism — Crude oil traded near three-month lows below $77 per barrel on Wednesday after falling for four straight sessions, pressured by expectations of increased supply following the anticipated peace agreement between the US and Iran. The two nations are set to sign an interim deal in Switzerland on Friday, granting Tehran broad economic incentives, including the immediate resumption of its oil exports. Tankers from other countries are also expected to resume transit through the Strait of Hormuz once the agreement takes effect, although shipping firms remain cautious about its long-term stability. Additional supplies from the region are expected to boost refinery inventories worldwide, alongside higher OPEC+ export quotas and increased production from the UAE, which exited the cartel during the conflict. Meanwhile, industry data indicated that US crude inventories fell by 8.3 million barrels last week.
-
----
-
-### 2026-06-17 07:37:25  #公司 #市場 #央行 #國際
-
-【城堡證券認為美聯儲9月開始加息的機率上升】城堡證券表示，隨著通脹變得更加持續而廣泛，美聯儲最早從9月開始啟動一系列加息的機率正在上升。該公司宏觀策略主管Frank Flight在給客戶的一份報告中寫道，儘管在美國和伊朗宣佈達成結束衝突的臨時和平協議後，油價有所回落，但戰爭期間通脹壓力卻日益根深蒂固。他表示，寬鬆的金融環境、持續的供應鏈擾動、勞動力市場重新加速增長以及人工智慧投資激增等因素共同作用，導致價格壓力持續存在。Flight預測，在此背景下，美聯儲主席凱文·沃什在週三他主持的首次政策會議上可能會採取更為鷹派的立場，導致在9月、12月和2027年3月加息的風險不斷攀升。這一預期遠比當前市場定價更為激進，利率互換合約對應的9月加息可能性僅為三分之一左右。
-
----
-
-### 2026-06-17 07:36:36  #公司 #國際
-
-【G7領導人承諾加大努力應對全球債務風險】七國集團(G7)領導人週二承諾加大力度，應對困擾發展中國家的高額債務負擔，其中包括不符合20國集團(G20)在新冠疫情期間推出的債務減免計劃條件的中等收入國家。在肯亞、埃及、印度、巴西和韓國等受邀國參與的會議後，G7發表聯合宣告，重申推進發展合作，並敦促加快改革及更加側重私人投資。各國領導人表示，傳統發展政策雖有成效，但在減少對外部援助依賴方面影響“有限”。他們在法國埃維昂萊班表示，近年來因美國及其他發達經濟體削減而受限的公共資源仍將發揮關鍵作用，但不足以滿足全球需求。宣告稱：“我們將加大努力，應對不斷加劇的全球債務脆弱性，這些脆弱性威脅經濟穩定，並限制提供基本公共服務所需的財政空間。”該宣告得到韓國和肯亞支援。
-
----
-
-### 2026-06-17 07:35:56  #公司
-
-【燃氣輪機走俏上市公司訂單飽滿】受能源結構轉型、AI資料中心建設提速等因素推動，全球燃氣輪機需求持續旺盛，行業景氣度與關注度同步升溫。有受訪專家對記者表示，當前燃機行業增長邏輯清晰、需求根基穩固，高景氣態勢有望延續。旺盛的市場需求不僅為相關上市公司帶來充足訂單，也為企業業績爆發創造了有利條件。
-
----
-
-### 2026-06-17 07:33:53  #MKT News #Brent #Impact bullish #WTI
-
-【G7 to tighten sanctions on Russia's oil and gas sector】G7 said it will increase deliveries of air‑defence systems, associated equipment, interceptors and long‑range strike capabilities to Ukraine and is prepared to consider licensing to expand Ukrainian military production. The group pledged to intensify pressure on the Russian economy and to strengthen sanctions, including measures targeting the oil and gas sector. The statement said now is an appropriate time for further steps, citing an agreement by Trump to support reopening the Strait of Hormuz.
-
----
-
-### 2026-06-17 07:31:30  #其他
-
-【高息大額存單日漸稀缺 存單加價倒賣暗流湧動】據中證報，存款利率持續下行，高息大額存單日漸稀缺，一場圍繞存單轉讓的私下加價交易在社交平臺上悄然升溫。一邊是轉出方試圖繞開官方平臺以加價方式尋求更高回報；另一邊是受讓方願意接受溢價，只為搶到心儀利率的存單。
 
 ---

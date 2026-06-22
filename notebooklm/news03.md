@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-23 03:21:26_
-_本檔包含 3409 則快訊，約 644897 字_
+_更新時間：2026-06-23 03:50:01_
+_本檔包含 3409 則快訊，約 645336 字_
+
+---
+
+### 2026-06-18 22:32:30  #國際
+
+印度外交秘書：印美貿易協定將是特朗普與莫迪會談的核心議題。
+
+---
+
+### 2026-06-18 22:32:01  #市場 #國際
+
+美國天然氣期貨在能源資訊署公佈庫存增幅符合預期後，延續漲勢，上漲0.4%。
+
+---
+
+### 2026-06-18 22:31:34  #央行 #國際
+
+【沃什希望美聯儲減少釋放訊號 但這可能加劇市場波動】分析師Colby Smith撰文指出，美聯儲主席沃什對未來利率路徑的看法守口如瓶，幾乎沒有提供任何明確指引。沃什的做法為美聯儲下一步行動保留了相當大的靈活性，但這也增加了一個風險：美聯儲主席可能無法牢牢掌控市場對於經濟走勢或央行政策反應的敘事方向，導致市場出現誤解，而誤解隨後又需要被澄清，從而加劇市場波動。巴克萊銀行美國首席經濟學家Marc Giannoni表示：“當你什麼都不說時，實際上就是把更多主動權交給市場。最終，他可能會對市場對於未來的判斷感到沮喪。”沃什的偏好似乎並不被其他同事共享。12家地區聯儲主席以及華盛頓聯邦儲備委員會委員仍會經常公開談論經濟前景以及在特定情況下政策可能如何變化。紐約梅隆投資管理高管Vincent Reinhart表示：“核心問題在於，持不同觀點的人會填補這一真空。”Reinhart預計，最活躍發聲的人將是那些支援加息的人，而這一陣營近幾個月顯著擴大。
+
+---
+
+### 2026-06-18 22:30:53  #國際
+
+【美解除中國玩具無人機進口禁令】美國聯邦通訊委員會（FCC）16日宣佈，將允許符合特定技術規格的中國新型玩具無人機進入美國市場銷售。據路透社報道，FCC在去年12月以“對美國國家安全構成不可接受的風險”為由，禁止所有新型外國無人機及其關鍵零元件進口，包括來自中國大疆創新和道通智慧的產品。然而，美國防部認為，“技術含量低、風險可控的玩具類”產品不構成國家安全威脅。根據該部門的調查結果，這類無人機在飛行距離、續航能力、感測功能、載荷能力、連線性及資料採集儲存等方面，均不具備傳統無人機的“內建功能與特性”。FCC對玩具無人機的認定設有嚴格限制，包括重量不得超過150克，操作必須在視線範圍內且距離不超過100米，無聯機或網路功能，不得配備攝像頭或任何具備監控、資料採集能力的感測器，單次最長飛行時間不得超過10分鐘。凡超出此範疇的機型，仍將受制於原有禁令。（環球網）
+
+---
+
+### 2026-06-18 22:30:38  #市場
+
+【給阿嬤的情書票房預測超19億】據燈塔專業版，由大麥娛樂出品的影片《給阿嬤的情書》AI票房預測上漲至超19億。
+
+---
+
+### 2026-06-18 22:30:24  #MKT News #Important #Commodities #Energy
+
+EIA: U.S. natural gas in storage for week ended June 12 was 2,759 Bcf, up 73 Bcf week-on-week, down 29 Bcf YoY (-1.0%), and 151 Bcf above the five-year average (+5.8%).
+
+---
+
+### 2026-06-18 22:30:10  #國際
+
+美國至6月12日當週EIA天然氣庫存 730億立方英尺，預期750億立方英尺，前值1080億立方英尺。
+
+---
+
+### 2026-06-18 22:30:10  #MKT News #Important #Commodities #Energy
+
+U.S. EIA weekly natural gas storage for week ended June 12: injection of 73 bcf vs 75 bcf expected; prior 108 bcf.
+
+---
+
+### 2026-06-18 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Natural Gas Storage Change (Jun.12) | actual 73000000000B | consensus 75000000000B | previous 108000000000B
+
+---
+
+### 2026-06-18 22:29:57  #MKT News #Important
+
+Israeli outlet i24News reports Pakistan's deputy foreign minister will represent Islamabad at the signing ceremony for a U.S.-Iran memorandum of understanding.
+
+---
+
+### 2026-06-18 22:29:36  #其他
+
+巴基斯坦電視臺報道：巴基斯坦副外長將代表伊斯蘭堡出席簽署儀式。
+
+---
+
+### 2026-06-18 22:29:32  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY
+
+【Kevin Warsh prefers less Fed signaling, but that may raise market volatility】Analyst Colby Smith says Fed Chair Kevin Warsh has been tight-lipped on the future rate path, offering almost no explicit guidance. That preserves the Fed’s policy flexibility but increases the risk that market narratives about the economy or policy reactions will diverge, requiring later clarification and amplifying volatility. Barclays U.S. chief economist Marc Giannoni warns that silence cedes initiative to the market and may leave Warsh frustrated by market judgments. Warsh’s reticence appears not to be shared across colleagues: a dozen regional Fed presidents and board members continue to speak publicly about the outlook and conditional policy moves. Vincent Reinhart at BNY Mellon Investment Management says dissenting voices will fill the vacuum and expects the most vocal will be those favoring rate hikes, a cohort that has expanded in recent months.
 
 ---
 
@@ -20558,81 +20630,5 @@ US Federal Reserve held the upper bound of the Fed funds target at 3.75% on June
 ### 2026-06-18 02:00:08  #MKT News #Macro & Rates #The Fed (FOMC)
 
 US federal funds target rate (lower bound) 3.50% as of June 17; expected 3.50%, prior 3.50%.
-
----
-
-### 2026-06-18 02:00:08  #MKT News #Macro & Rates
-
-US rate on reserve balances 3.65% as of June 18; expected 3.65%; prior 3.65%.
-
----
-
-### 2026-06-18 02:00:01  #MKT News #Economic Calendar #Important
-
-United States | FED‘s Federal Fund Rate (Upper Bound) (Jun.17) | actual 3.75% | consensus 3.75% | previous 3.75%
-
----
-
-### 2026-06-18 02:00:01  #MKT News #Economic Calendar
-
-United States | Interest on Reserve Balances (Jun.18) | actual 3.65% | consensus 3.65% | previous 3.65%
-
----
-
-### 2026-06-18 02:00:01  #MKT News #Economic Calendar #Important
-
-United States | FED's Federal Fund Rate (Lower Bound) (Jun.17) | actual 3.5% | consensus 3.50% | previous 3.50%
-
----
-
-### 2026-06-18 01:58:52  #MKT News #Macro & Rates #The Fed (FOMC)
-
-JP Morgan's head of global fixed income Michelle said Fed Chair Kevin Warsh should be asked whether DISINFLATION is temporary.
-
----
-
-### 2026-06-18 01:56:51  #市場 #央行 #國際
-
-美聯儲決議宣告發布前，標普500指數大致持平，道指漲0.3%，納指漲0.2%，半導體指數漲3.6%，銀行指數漲1.3%。美元指數漲0.1%，美元兌日元跌0.16%，歐元兌美元跌0.1%，英鎊兌美元跌0.2%。現貨黃金漲1.1%，白銀漲1.8%。美國10年期國債收益率跌1.38個基點，報4.4256%，兩年期美債收益率漲幅收窄至不足0.5個基點。
-
----
-
-### 2026-06-18 01:53:30  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-【Analyst: Wash faces major credibility test at first Fed rate decision】Analyst Marte said this week's Fed meeting is Wash's first major credibility test as Fed chair; investors, policymakers and the public are watching whether he will defend the Fed's political independence. Trump has publicly urged independence on rate-setting but continues to signal a preference for lower borrowing costs. Some investors warn that if Wash fails to send a strong inflation signal he risks losing control of the bond market. April CPI rose 4.2% YoY, the fastest in over three years. Any impression the new chair intends to alter the Fed's 2% inflation target could push yields higher and further restrain the economy, running counter to Trump's objectives. A US–Iran peace deal could ease some fuel-price pressure, but pass-through to consumers would likely be delayed.
-
----
-
-### 2026-06-18 01:52:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Societe Generale head of US research Rajappa said core inflation will become the Fed's real concern.
-
----
-
-### 2026-06-18 01:51:32  #MKT News #WTI #Impact mixed
-
-JP Morgan global fixed income head Michelle said the oil-price shock is to some extent temporary.
-
----
-
-### 2026-06-18 01:50:47  #央行 #焦點 #國際
-
-【美聯儲6月決議宣告和新聞釋出會關注點】
-1、美聯儲是否會維持聯邦基金利率目標區間不變。
-2、美聯儲官員們對利率預測的點陣圖是否會有變化。
-3、美聯儲對美國經濟形勢（通脹和就業等）的看法。
-4、美聯儲主席凱文·沃什將在新聞釋出會上釋放哪些資訊。
-
----
-
-### 2026-06-18 01:50:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-The Federal Reserve's FOMC will release its rate decision and the Summary of Economic Projections in 10 minutes.
-
----
-
-### 2026-06-18 01:49:19  #MKT News
-
-Brazilian President Lula said he expects U.S. President Trump will not interfere in Brazil's election.
 
 ---

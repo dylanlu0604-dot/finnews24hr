@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-23 03:21:26_
-_本檔包含 3808 則快訊，約 645029 字_
+_更新時間：2026-06-23 03:50:01_
+_本檔包含 3811 則快訊，約 645630 字_
+
+---
+
+### 2026-06-21 21:10:12  #MKT News #Important #WTI #Impact bearish #Brent #DXY
+
+【Vance says US and Iran can work together to promote peace and prosperity】U.S. Vice President Vance, at talks in Switzerland, said negotiations with Iran have made "significant" progress in recent hours and more gains are expected within hours. He said both sides now see "a shared future"; President Trump has urged a "new page" in relations with the Iranian people and has authorized pursuit of diplomatic solutions on a range of issues, though Vance questioned whether this can permanently reshape the Middle East balance. Saudi media reported Vance announced the Strait of Hormuz has been opened and that further steps are expected. Vance said substantial progress has been made toward a Lebanese ceasefire in recent days, while warning such pauses are often "messy"; Trump remains committed to a comprehensive regional ceasefire.
+
+---
+
+### 2026-06-21 21:09:56  #焦點 #國際
+
+特朗普在接受採訪時稱，美國可以充當霍爾木茲海峽的 “守護天使”，並抽取 20% 的石油收益。他表示：“如有必要，我們將掌控該海峽”，還會 “狠狠打擊他們”，同時放出狠話：“倘若雙方無法達成協議，我們就將收取通行費。”
+
+---
+
+### 2026-06-21 21:07:50  #其他
+
+據燈塔專業版資料，截至6月21日21時，《玩具總動員5》端午檔票房1.21億，成為2026年端午檔票房冠軍。
+
+---
+
+### 2026-06-21 21:06:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Trump warns Iran not to close Strait of Hormuz, threatens military action】Fox News reported Trump told Iranian officials in a phone call last night not to close the Strait of Hormuz, warning "if you close it, you will no longer be a country." He said the US could act as the strait's "guardian" and "take" 20% of Iran's oil, suggested the US might seize control of the waterway if necessary, warned he would "blow them to pieces," and said the US could impose transit fees if no agreement is reached.
+
+---
+
+### 2026-06-21 21:05:53  #其他
+
+巴基斯坦總理：希望美伊會談能達成一份 “意義重大的協議檔案”，以此推動 “全球和平、發展與繁榮”。
+
+---
+
+### 2026-06-21 21:05:11  #國際
+
+特朗普總統夜間與伊朗方面通話，警告對方不得封鎖海峽。特朗普稱他對伊朗官員表示：“只要你們封鎖海峽，你們的國家就不復存在。你們根本別想活著回到自己國家。”
+
+---
+
+### 2026-06-21 21:03:36  #MKT News
+
+Qatar's prime minister said he had seen dedication and significant efforts from Fansi, Pakistan's prime minister and Iran's foreign minister.
+
+---
+
+### 2026-06-21 21:03:30  #國際
+
+卡達總理：我們看到了來自範斯、巴基斯坦總理和伊朗外長的奉獻和巨大努力。
+
+---
+
+### 2026-06-21 21:02:49  #MKT News #Important
+
+【US, Iran, Pakistan and Qatar begin four-party talks in Switzerland】Delegations from Iran, the United States, Pakistan and Qatar began four-party talks in Switzerland on June 21.
+
+---
+
+### 2026-06-21 21:01:53  #國際
+
+【美伊巴卡四方會談開始】伊朗法爾斯通訊社今天（6月21日）報道，伊朗、美國、巴基斯坦和卡達代表團的四方會談在瑞士開始。（CCTV國際時訊）
+
+---
+
+### 2026-06-21 21:01:30  #其他
+
+據燈塔專業版資料，截至6月21日21時，2026年端午檔票房3.94億，《玩具總動員5》成為2026端午檔（6.19-6.21）票房冠軍。2026年端午檔票房TOP5影片為《玩具總動員5》《給阿嬤的情書》《抓特務》《火遮眼》《我看見兩朵一樣的雲》。
+
+---
+
+### 2026-06-21 21:01:26  #MKT News
+
+【Colombia holds presidential runoff vote】On June 21 Colombia is holding a presidential runoff between independent Avelardo de la Espriella of the far‑right Homeland Defenders grouping and Ivan Cepeda of the left‑wing Historic Pact coalition to choose the president for 2026–2030. Polls opened at 08:00 and close at 16:00 local time; counting begins immediately after and preliminary results are expected tonight. No candidate won a majority in the May 31 first round; under current rules the candidate with the most votes in the runoff will be elected.
+
+---
+
+### 2026-06-21 21:01:21  #國際
+
+【萬斯稱特朗普致力於區域全面停火】美國副總統萬斯今天（6月21日）表示，美國總統特朗普致力於區域全面停火，希望改善與伊朗人的關係。他還說，過去數小時在相關問題上取得重大進展，希望能夠透過外交手段合作以改變中東。（CCTV國際時訊）
+
+---
+
+### 2026-06-21 21:00:40  #MKT News
+
+U.S. Vice President Vance said more work remains and he looks forward to working together.
+
+---
+
+### 2026-06-21 21:00:37  #MKT News
+
+Vice President Vance said today leaders are attending primarily to establish a framework for technical negotiations and to ensure their teams have full backing and can seek help to overcome any obstacles.
 
 ---
 
@@ -22895,77 +22985,5 @@ U.S. Supreme Court to release next set of opinions on June 23 (Tuesday). About 1
 ### 2026-06-18 22:32:51  #國際
 
 【歐盟計劃重新審視銀行業獎金與市場風險監管規則】根據一份預計將於下月公佈的提案草案，歐盟有望承諾重新審視其銀行業監管規則手冊中一些最具爭議的方面，包括對待未評級企業的方式、市場風險，以及相關的薪酬規定。歐盟計劃草案顯示，歐盟委員會將承諾採取一系列措施，包括：調查“現行薪酬規則的有效性及其對歐盟銀行業的影響”；提議修訂“銀行軟體資產投資的審慎處理方式，以確保該框架在審慎上穩健、與數字和網路風險環境相一致，併為銀行投資創新和數字韌性提供正確的激勵”。作為此次審查的一部分，銀行業提交了長達數千頁的訴求，呼籲進行重大改革。
-
----
-
-### 2026-06-18 22:32:30  #國際
-
-印度外交秘書：印美貿易協定將是特朗普與莫迪會談的核心議題。
-
----
-
-### 2026-06-18 22:32:01  #市場 #國際
-
-美國天然氣期貨在能源資訊署公佈庫存增幅符合預期後，延續漲勢，上漲0.4%。
-
----
-
-### 2026-06-18 22:31:34  #央行 #國際
-
-【沃什希望美聯儲減少釋放訊號 但這可能加劇市場波動】分析師Colby Smith撰文指出，美聯儲主席沃什對未來利率路徑的看法守口如瓶，幾乎沒有提供任何明確指引。沃什的做法為美聯儲下一步行動保留了相當大的靈活性，但這也增加了一個風險：美聯儲主席可能無法牢牢掌控市場對於經濟走勢或央行政策反應的敘事方向，導致市場出現誤解，而誤解隨後又需要被澄清，從而加劇市場波動。巴克萊銀行美國首席經濟學家Marc Giannoni表示：“當你什麼都不說時，實際上就是把更多主動權交給市場。最終，他可能會對市場對於未來的判斷感到沮喪。”沃什的偏好似乎並不被其他同事共享。12家地區聯儲主席以及華盛頓聯邦儲備委員會委員仍會經常公開談論經濟前景以及在特定情況下政策可能如何變化。紐約梅隆投資管理高管Vincent Reinhart表示：“核心問題在於，持不同觀點的人會填補這一真空。”Reinhart預計，最活躍發聲的人將是那些支援加息的人，而這一陣營近幾個月顯著擴大。
-
----
-
-### 2026-06-18 22:30:53  #國際
-
-【美解除中國玩具無人機進口禁令】美國聯邦通訊委員會（FCC）16日宣佈，將允許符合特定技術規格的中國新型玩具無人機進入美國市場銷售。據路透社報道，FCC在去年12月以“對美國國家安全構成不可接受的風險”為由，禁止所有新型外國無人機及其關鍵零元件進口，包括來自中國大疆創新和道通智慧的產品。然而，美國防部認為，“技術含量低、風險可控的玩具類”產品不構成國家安全威脅。根據該部門的調查結果，這類無人機在飛行距離、續航能力、感測功能、載荷能力、連線性及資料採集儲存等方面，均不具備傳統無人機的“內建功能與特性”。FCC對玩具無人機的認定設有嚴格限制，包括重量不得超過150克，操作必須在視線範圍內且距離不超過100米，無聯機或網路功能，不得配備攝像頭或任何具備監控、資料採集能力的感測器，單次最長飛行時間不得超過10分鐘。凡超出此範疇的機型，仍將受制於原有禁令。（環球網）
-
----
-
-### 2026-06-18 22:30:38  #市場
-
-【給阿嬤的情書票房預測超19億】據燈塔專業版，由大麥娛樂出品的影片《給阿嬤的情書》AI票房預測上漲至超19億。
-
----
-
-### 2026-06-18 22:30:24  #MKT News #Important #Commodities #Energy
-
-EIA: U.S. natural gas in storage for week ended June 12 was 2,759 Bcf, up 73 Bcf week-on-week, down 29 Bcf YoY (-1.0%), and 151 Bcf above the five-year average (+5.8%).
-
----
-
-### 2026-06-18 22:30:10  #國際
-
-美國至6月12日當週EIA天然氣庫存 730億立方英尺，預期750億立方英尺，前值1080億立方英尺。
-
----
-
-### 2026-06-18 22:30:10  #MKT News #Important #Commodities #Energy
-
-U.S. EIA weekly natural gas storage for week ended June 12: injection of 73 bcf vs 75 bcf expected; prior 108 bcf.
-
----
-
-### 2026-06-18 22:30:01  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Natural Gas Storage Change (Jun.12) | actual 73000000000B | consensus 75000000000B | previous 108000000000B
-
----
-
-### 2026-06-18 22:29:57  #MKT News #Important
-
-Israeli outlet i24News reports Pakistan's deputy foreign minister will represent Islamabad at the signing ceremony for a U.S.-Iran memorandum of understanding.
-
----
-
-### 2026-06-18 22:29:36  #其他
-
-巴基斯坦電視臺報道：巴基斯坦副外長將代表伊斯蘭堡出席簽署儀式。
-
----
-
-### 2026-06-18 22:29:32  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY
-
-【Kevin Warsh prefers less Fed signaling, but that may raise market volatility】Analyst Colby Smith says Fed Chair Kevin Warsh has been tight-lipped on the future rate path, offering almost no explicit guidance. That preserves the Fed’s policy flexibility but increases the risk that market narratives about the economy or policy reactions will diverge, requiring later clarification and amplifying volatility. Barclays U.S. chief economist Marc Giannoni warns that silence cedes initiative to the market and may leave Warsh frustrated by market judgments. Warsh’s reticence appears not to be shared across colleagues: a dozen regional Fed presidents and board members continue to speak publicly about the outlook and conditional policy moves. Vincent Reinhart at BNY Mellon Investment Management says dissenting voices will fill the vacuum and expects the most vocal will be those favoring rate hikes, a cohort that has expanded in recent months.
 
 ---

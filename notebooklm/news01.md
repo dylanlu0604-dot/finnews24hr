@@ -1,7 +1,124 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-23 03:21:26_
-_本檔包含 3431 則快訊，約 645018 字_
+_更新時間：2026-06-23 03:50:01_
+_本檔包含 3435 則快訊，約 645647 字_
+
+---
+
+### 2026-06-23 03:41:42  #MKT News #Macro & Rates #USDJPY #Impact bullish #EURUSD #GBPUSD #Impact bearish
+
+CFTC weekly positions for the week ended June 16: JPY net short 150,132 contracts; EUR net long 34,353 contracts; GBP net short 71,585 contracts; CHF net short 40,058 contracts.
+
+---
+
+### 2026-06-23 03:40:31  #國際
+
+【歐盟停止出售成員國碳配額，以推動能源轉型】歐盟已停止出售一批提前分配的碳排放配額。此前，歐盟計劃利用其碳排放交易體系（ETS）籌集資金，以幫助實現擺脫俄羅斯天然氣的能源轉型。歐盟委員會在官網的一份宣告中表示，歐盟已於週一達成目標，透過拍賣原本將由各國政府在2027年至2030年間出售的配額，成功籌集了80億歐元。隨著該目標的達成，歐盟碳排放交易體系中成員國常規配額拍賣的日程表已作出相應調整。
+
+---
+
+### 2026-06-23 03:39:33  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+CFTC: for the week to June 16, speculators raised net short positions in CBOT US 2-year Treasury futures by 50,669 contracts to 1,270,507 contracts and increased net short in CBOT US 10-year Treasury futures by 47,275 contracts to 911,082 contracts.
+
+---
+
+### 2026-06-23 03:38:36  #MKT News #Commodities #Energy
+
+CFTC: For the week ended June 16, speculative positions in NYMEX and ICE natural-gas futures flipped to a net long of 1,332 contracts, an increase of 30,288 contracts from the prior week.
+
+---
+
+### 2026-06-23 03:37:51  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact mixed
+
+U.S. Commodity Futures Trading Commission (CFTC): For the week to June 16, equity fund managers raised net long positions in CME S&P 500 futures by 3,319 contracts to 983,431 contracts. Equity fund speculators increased net short positions in CME S&P 500 futures by 64,644 contracts to 501,690 contracts.
+
+---
+
+### 2026-06-23 03:36:18  #MKT News #Commodities #Energy #WTI
+
+CFTC data: For the week to June 16, speculators cut WTI crude net-long positions by 2,441 contracts to 100,978.
+
+---
+
+### 2026-06-23 03:35:52  #MKT News #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bullish #Copper #Impact bearish
+
+CFTC: week to June 16, COMEX gold speculators increased net longs by 9,258 contracts to 112,918; silver net longs rose 2,275 contracts to 12,070; copper net longs fell 52 contracts to 71,076.
+
+---
+
+### 2026-06-23 03:33:37  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）：6月16日當週，投機者所持NYMEX鉑金淨多頭頭寸降低至8,072手合約，創逾14周新低。
+所持NYMEX鈀金淨空頭頭寸降低至4,268手合約。
+
+---
+
+### 2026-06-23 03:32:51  #MKT News
+
+US Coast Guard says it is actively responding to a crash in Sitka, Alaska today involving a Coast Guard MH-60 "Jayhawk" helicopter.
+
+---
+
+### 2026-06-23 03:31:39  #MKT News
+
+A U.S. official told NewsNation that Secretary of State Rubio spoke last Friday with Israeli Prime Minister Netanyahu and Lebanese President Aoun about consolidating a ceasefire and future negotiations. After the calls, U.S. Central Command activated a monitoring mechanism to provide policymakers with real-time battlefield information from Lebanon.
+
+---
+
+### 2026-06-23 03:31:33  #兩會
+
+【恩蘇埃宣誓就任赤道幾內亞總理】當地時間22日，曼努埃爾·奧薩·恩蘇埃·恩蘇阿宣誓就任赤道幾內亞總理。赤道幾內亞副總統曼格16日晚在社交媒體上發文說，恩蘇埃當天向總統提交了所有內閣成員的集體辭呈。經評估確認，上一屆政府既定目標的完成率與預期嚴重不符。赤道幾內亞總統奧比昂19日簽署法令，重新任命曼努埃爾·奧薩·恩蘇埃·恩蘇阿為政府總理，負責行政協調。（央視新聞）
+
+---
+
+### 2026-06-23 03:30:53  #其他
+
+【伊拉克總理將於7月訪問土耳其 討論石油出口問題】據伊拉克總理辦公室發表的一份宣告，伊拉克總理阿里·扎伊迪收到土耳其總統埃爾多安的邀請，將於7月訪問土耳其。阿里·扎伊迪在與埃爾多安通話時討論了雙方共同關心的議題，包括經由Kirkuk-Ceyhan管道進行的石油出口。阿里·扎伊迪還邀請土耳其企業投資伊拉克。雙方還討論了水資源問題。
+
+---
+
+### 2026-06-23 03:30:24  #宏觀 #市場 #觀點
+
+【摩根大通看好英鎊 因政治不確定性消退】英國首相基爾·斯塔默宣佈辭職後，英國政治不確定性開始減弱，摩根大通恢復對英鎊的看漲觀點。摩根大通長期以來一直認為，英鎊兌其他低息貨幣的套利交易具有良好價值，儘管市場共識大體上一直是中性或看空。斯塔默表示將辭去英國首相職務後，英鎊上漲0.1%，至1.3245，抹去早前一度達0.4%的跌幅。市場還對前衛生大臣韋斯·斯特里廷決定支援安迪·伯納姆出任下一任首相，而不是自己角逐黨魁作出積極反應，這進一步緩解了近期政治不確定性。全球外匯策略師James Nelligan週一在報告中表示，辭職“使政治局勢多了些許清晰度”，使工黨能夠團結在”伯納姆周圍，由他領導該黨。伯納姆“已淡化其在財政政策上的表態，這意味著套利、英國韌性、估值和倉位更能夠支撐英鎊，”他還表示。
+
+---
+
+### 2026-06-23 03:29:15  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料：截至 6 月 16 日當週，WTI 原油投機客淨多頭頭寸削減 2441 手，降至 100978 手。
+
+---
+
+### 2026-06-23 03:28:33  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料：截至 6 月 16 日當週，紐約商品交易所（COMEX）銅投機客淨多頭頭寸削減 52 手，降至 71076 手。
+黃金投機者淨多頭頭寸增加 9258 手，至 112918 手。 
+ 白銀投機客淨多頭頭寸增加 2275 手，升至 12070 手。
+
+---
+
+### 2026-06-23 03:27:21  #市場 #國際
+
+【長週末歸來，美債收益率普遍漲超5個基點】週一（6月22日）紐約尾盤，美國10年期基準國債收益率漲5.35個基點，報4.5068%，日內交投於4.4731%-4.5128%區間。兩年期美債收益率漲5.76個基點，報4.2342%，全天處於上漲狀態、窄幅震盪於4.22%附近。20年期美債收益率漲5.19個基點，30年期美債收益率漲4.67個基點。三年期美債收益率漲5.93個基點，五年期美債收益率漲5.51個基點，七年期美債收益率漲5.29個基點。
+
+---
+
+### 2026-06-23 03:24:11  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【Vance says Switzerland talks 'very productive', warns you can't trust words alone】U.S. Vice President Vance described talks in Switzerland as "very productive" and said mechanisms were established to help keep the Strait of Hormuz open now and in the future. He said Iran has for the first time in a long time allowed weapons and nuclear inspectors into the country, but cautioned that only actions matter — inspectors' actual access and permitted activities will determine progress and remain part of ongoing negotiations.
+
+---
+
+### 2026-06-23 03:23:42  #MKT News
+
+US President Trump said he looks forward to working with Colombia's new president.
+
+---
+
+### 2026-06-23 03:23:04  #國際
+
+特朗普：我期待攜手合作，共建哥倫比亞與美利堅合眾國之間牢固的雙邊關係。
 
 ---
 
@@ -20589,95 +20706,5 @@ Al Arabiya reported Iran's negotiating team entered the meeting room after journ
 ### 2026-06-21 21:11:16  #國際
 
 【萬斯說美伊談判“過去幾個小時取得巨大進展”】美國副總統萬斯21日在瑞士比爾根山說，美伊談判“過去幾個小時取得巨大進展”，預計“我們將在相關領域取得更多進展”。萬斯在美伊談判開始時說，過去幾天，“我們在確保黎巴嫩停火方面取得了巨大進展”。現在面臨的問題是，“我們能否翻開新的一頁，我們能否永久改變中東的關係格局”。（新華社）
-
----
-
-### 2026-06-21 21:10:12  #MKT News #Important #WTI #Impact bearish #Brent #DXY
-
-【Vance says US and Iran can work together to promote peace and prosperity】U.S. Vice President Vance, at talks in Switzerland, said negotiations with Iran have made "significant" progress in recent hours and more gains are expected within hours. He said both sides now see "a shared future"; President Trump has urged a "new page" in relations with the Iranian people and has authorized pursuit of diplomatic solutions on a range of issues, though Vance questioned whether this can permanently reshape the Middle East balance. Saudi media reported Vance announced the Strait of Hormuz has been opened and that further steps are expected. Vance said substantial progress has been made toward a Lebanese ceasefire in recent days, while warning such pauses are often "messy"; Trump remains committed to a comprehensive regional ceasefire.
-
----
-
-### 2026-06-21 21:09:56  #焦點 #國際
-
-特朗普在接受採訪時稱，美國可以充當霍爾木茲海峽的 “守護天使”，並抽取 20% 的石油收益。他表示：“如有必要，我們將掌控該海峽”，還會 “狠狠打擊他們”，同時放出狠話：“倘若雙方無法達成協議，我們就將收取通行費。”
-
----
-
-### 2026-06-21 21:07:50  #其他
-
-據燈塔專業版資料，截至6月21日21時，《玩具總動員5》端午檔票房1.21億，成為2026年端午檔票房冠軍。
-
----
-
-### 2026-06-21 21:06:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Trump warns Iran not to close Strait of Hormuz, threatens military action】Fox News reported Trump told Iranian officials in a phone call last night not to close the Strait of Hormuz, warning "if you close it, you will no longer be a country." He said the US could act as the strait's "guardian" and "take" 20% of Iran's oil, suggested the US might seize control of the waterway if necessary, warned he would "blow them to pieces," and said the US could impose transit fees if no agreement is reached.
-
----
-
-### 2026-06-21 21:05:53  #其他
-
-巴基斯坦總理：希望美伊會談能達成一份 “意義重大的協議檔案”，以此推動 “全球和平、發展與繁榮”。
-
----
-
-### 2026-06-21 21:05:11  #國際
-
-特朗普總統夜間與伊朗方面通話，警告對方不得封鎖海峽。特朗普稱他對伊朗官員表示：“只要你們封鎖海峽，你們的國家就不復存在。你們根本別想活著回到自己國家。”
-
----
-
-### 2026-06-21 21:03:36  #MKT News
-
-Qatar's prime minister said he had seen dedication and significant efforts from Fansi, Pakistan's prime minister and Iran's foreign minister.
-
----
-
-### 2026-06-21 21:03:30  #國際
-
-卡達總理：我們看到了來自範斯、巴基斯坦總理和伊朗外長的奉獻和巨大努力。
-
----
-
-### 2026-06-21 21:02:49  #MKT News #Important
-
-【US, Iran, Pakistan and Qatar begin four-party talks in Switzerland】Delegations from Iran, the United States, Pakistan and Qatar began four-party talks in Switzerland on June 21.
-
----
-
-### 2026-06-21 21:01:53  #國際
-
-【美伊巴卡四方會談開始】伊朗法爾斯通訊社今天（6月21日）報道，伊朗、美國、巴基斯坦和卡達代表團的四方會談在瑞士開始。（CCTV國際時訊）
-
----
-
-### 2026-06-21 21:01:30  #其他
-
-據燈塔專業版資料，截至6月21日21時，2026年端午檔票房3.94億，《玩具總動員5》成為2026端午檔（6.19-6.21）票房冠軍。2026年端午檔票房TOP5影片為《玩具總動員5》《給阿嬤的情書》《抓特務》《火遮眼》《我看見兩朵一樣的雲》。
-
----
-
-### 2026-06-21 21:01:26  #MKT News
-
-【Colombia holds presidential runoff vote】On June 21 Colombia is holding a presidential runoff between independent Avelardo de la Espriella of the far‑right Homeland Defenders grouping and Ivan Cepeda of the left‑wing Historic Pact coalition to choose the president for 2026–2030. Polls opened at 08:00 and close at 16:00 local time; counting begins immediately after and preliminary results are expected tonight. No candidate won a majority in the May 31 first round; under current rules the candidate with the most votes in the runoff will be elected.
-
----
-
-### 2026-06-21 21:01:21  #國際
-
-【萬斯稱特朗普致力於區域全面停火】美國副總統萬斯今天（6月21日）表示，美國總統特朗普致力於區域全面停火，希望改善與伊朗人的關係。他還說，過去數小時在相關問題上取得重大進展，希望能夠透過外交手段合作以改變中東。（CCTV國際時訊）
-
----
-
-### 2026-06-21 21:00:40  #MKT News
-
-U.S. Vice President Vance said more work remains and he looks forward to working together.
-
----
-
-### 2026-06-21 21:00:37  #MKT News
-
-Vice President Vance said today leaders are attending primarily to establish a framework for technical negotiations and to ensure their teams have full backing and can seek help to overcome any obstacles.
 
 ---
