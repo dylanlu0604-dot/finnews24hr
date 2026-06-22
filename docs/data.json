@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-22 08:29:04",
-  "count": 17329,
+  "updated": "2026-06-22 08:33:54",
+  "count": 17334,
   "items": [
+    {
+      "id": "mkt:019eecbe-2513-7dd8-b0aa-eb014ffd7d84",
+      "time": "2026-06-22 08:32:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TAKAICHI expects the BANK OF JAPAN to coordinate closely with the government and implement appropriate monetary policy to achieve a 2% inf target."
+    },
+    {
+      "id": "4946901",
+      "time": "2026-06-22 08:32:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：LG高管將訪問英偉達總部，討論物理人工智慧。"
+    },
+    {
+      "id": "mkt:019eecbd-d16c-7dd8-b0aa-e220b4491e69",
+      "time": "2026-06-22 08:32:03",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan Deputy Governor HIMINO expects the accommodative policy environment to persist."
+    },
+    {
+      "id": "mkt:019eecbd-b585-7dd8-b0aa-da366cf0fd0a",
+      "time": "2026-06-22 08:31:56",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Deputy Governor HIMINO said if necessary adjustments to monetary easing are delayed, the risk of price overshoot could emerge."
+    },
+    {
+      "id": "4946900",
+      "time": "2026-06-22 08:31:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFETS：6月18日人民幣匯率指數按周漲0.28至101.77。"
+    },
+    {
+      "id": "4946899",
+      "time": "2026-06-22 08:31:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本首相高市早苗：期望日本央行與政府密切協調，適當實施貨幣政策以實現2%的通脹目標。"
+    },
+    {
+      "id": "mkt:019eecbd-5793-7dd8-b0aa-d3200599c677",
+      "time": "2026-06-22 08:31:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan Deputy Governor HIMINO said the BOJ will closely monitor the impact of policy-rate increases on firms and households."
+    },
+    {
+      "id": "4946898",
+      "time": "2026-06-22 08:31:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：將竭盡全力維持穩定的能源供應。"
+    },
+    {
+      "id": "4946897",
+      "time": "2026-06-22 08:30:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：預計“十五五”新能源裝機規模仍將保持較快增長】中信證券研報稱，展望“十五五”，預計在終端綠電消費約束加強、電力行業降碳程序提速等因素推動下，新能源裝機規模仍將保持較快增長；結合全社會用電量年均複合增速5%以及火電、水電、核電供給增量等預測，中信證券預測“十五五”時期國內新能源年均增量將達到5280億千瓦時，對應年均裝機增量2.9億千瓦，到2030年末新能源電量、裝機佔比將分別達到37%、56%；為確保運營商投資積極性，欠補問題解決、加強新能源電價保障等措施需進一步強化。"
+    },
+    {
+      "id": "4946896",
+      "time": "2026-06-22 08:30:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三： 央行將密切關注上調政策利率可能對企業和家庭產生的影響。"
+    },
+    {
+      "id": "4946895",
+      "time": "2026-06-22 08:29:26",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三： 如果推遲對貨幣寬鬆程度進行必要調整，物價過度上漲的風險可能成為現實。"
+    },
+    {
+      "id": "4946894",
+      "time": "2026-06-22 08:29:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三： 延遲加息或將對經濟造成壓力。"
+    },
+    {
+      "id": "4946893",
+      "time": "2026-06-22 08:28:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三： 近期中東緊張局勢緩和與我們4月展望報告中的預測偏差不大。"
+    },
     {
       "id": "4946892",
       "time": "2026-06-22 08:28:25",
@@ -159420,77 +159537,6 @@
         "美聯儲"
       ],
       "text": "【是鷹還是鴿？沃什“首秀”本週來襲 經濟學家聚焦“三大關鍵點”！】本週，新上任的美聯儲主席凱文·沃什（KevinWarsh）即將主持其任期內的第一次聯邦公開市場委員會（FOMC）會議，等待著他的不僅僅是一個更加“鷹派”的美聯儲，還有來自各方越發“沉重”的加息壓力。"
-    },
-    {
-      "id": "mkt:019ec8b2-0733-7dd8-aff9-d435c73ccc01",
-      "time": "2026-06-15 08:32:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Graham says US, Iran differ on understanding of deal】U.S. Republican Senator Lindsey Graham, an ally of Trump, said he welcomed Iran's agreement to a memorandum of understanding on reopening the Strait of Hormuz but warned Tehran's interpretation appears to differ from that of the U.S. negotiating team. He said he will monitor talks on Iran's nuclear program and other issues, and noted that under U.S. law any nuclear agreement with Iran must be submitted to Congress for review and a vote. He expects to review the final draft and said Vice President Vance and the negotiating team should be involved in submitting the accord to Congress."
-    },
-    {
-      "id": "4935063",
-      "time": "2026-06-15 08:32:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本郵船：希望根據和平協議實現霍爾木茲海峽航行正常化。"
-    },
-    {
-      "id": "mkt:019ec8b1-3b04-7dd8-aff9-cf8780ee8e4c",
-      "time": "2026-06-15 08:31:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "South Korea's KOSPI index climbed to 8,600, up 5.91% intraday."
-    },
-    {
-      "id": "4935062",
-      "time": "2026-06-15 08:31:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國外匯交易中心（CFETS）：6月12日人民幣匯率指數按周漲0.16至101.49。"
-    },
-    {
-      "id": "4935061",
-      "time": "2026-06-15 08:30:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率下跌1.5個基點，至1.395%。"
-    },
-    {
-      "id": "4935060",
-      "time": "2026-06-15 08:30:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【澳大利亞LNG出口商伍德賽德能源稱未與埃克森美孚就潛在收購進行討論】澳大利亞最大的液化天然氣(LNG)出口商伍德賽德能源表示，公司沒有與埃克森美孚就潛在收購進行討論，也不知悉這家美國能源巨頭即將提出任何收購要約。此前，知情人士稱，埃克森美孚正在研究伍德賽德等潛在收購目標，內部對此展開初步討論。"
-    },
-    {
-      "id": "4935059",
-      "time": "2026-06-15 08:29:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馬克龍：法英牽頭的霍爾木茲海峽護航行動隨時啟動】法國總統馬克龍15日在社交媒體上發文，歡迎美國和伊朗達成諒解備忘錄，並表示法國和英國牽頭組建的霍爾木茲海峽多國護航行動隨時啟動。（新華社）"
-    },
-    {
-      "id": "mkt:019ec8af-26ad-7dd8-aff9-c2aa288714eb",
-      "time": "2026-06-15 08:29:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Macron: France, UK-led Strait of Hormuz escort operation ready to start at any time】President Macron welcomed a US-Iran memorandum of understanding and said the France- and UK-led multinational escort operation in the Strait of Hormuz is ready to start at any time."
     }
   ]
 }
