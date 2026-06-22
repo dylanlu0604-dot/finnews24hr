@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-23 01:08:06",
-  "count": 17263,
+  "updated": "2026-06-23 01:12:14",
+  "count": 17262,
   "items": [
+    {
+      "id": "mkt:019ef050-c3ec-7dd8-b0c2-e23f14ca68b9",
+      "time": "2026-06-23 01:11:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Montreal police are responding to a shooting in the Côte-des-Neiges neighborhood adjacent to Jewish institutions, the Jerusalem Post reports."
+    },
+    {
+      "id": "mkt:019ef04f-75f4-7dd8-b0c2-d80252ed223b",
+      "time": "2026-06-23 01:09:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources: Google DeepMind and A24 have announced a research collaboration."
+    },
+    {
+      "id": "4948801",
+      "time": "2026-06-23 01:08:29",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "谷歌DeepMind與A24宣佈達成研究合作關係。"
+    },
+    {
+      "id": "4948800",
+      "time": "2026-06-23 01:07:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：伊美雙方依據新近簽署的諒解備忘錄持續談判期間，伊朗絕不會妥協於對方的過分訴求，也無法容忍本國人民的合法權利受到打壓。"
+    },
     {
       "id": "mkt:019ef04c-f2c7-7dd8-b0c2-d17be9c023b8",
       "time": "2026-06-23 01:07:15",
@@ -158557,54 +158592,6 @@
         "國際"
       ],
       "text": "歐盟委員會主席馮德萊恩： 與加拿大總理卡尼進行了富有成效的會談。 雙方正圍繞數字貿易、關鍵原材料及防務領域開展合作。 同時我們也在深化能源層面的協作。 下一屆加歐峰會將於 10 月 29 日至 30 日在加拿大舉辦，此次峰會將成為雙邊夥伴關係持續向縱深、更廣維度發展的重要里程碑。"
-    },
-    {
-      "id": "mkt:019ecc44-c22e-7dd8-b014-491e9627da75",
-      "time": "2026-06-16 01:11:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Iran set July light crude sales to Asia at a premium of $7.15/bbl to the Oman/Dubai average."
-    },
-    {
-      "id": "4936995",
-      "time": "2026-06-16 01:11:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗將 7 月銷往亞洲的伊朗輕質原油定價為阿曼 / 迪拜原油基準價上浮 7.15 美元每桶。"
-    },
-    {
-      "id": "mkt:019ecc42-02f7-7dd8-b014-472d3956fc43",
-      "time": "2026-06-16 01:08:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. official says substantive technical talks with Iran will begin this week."
-    },
-    {
-      "id": "mkt:019ecc41-d56e-7dd8-b014-3fafd476de21",
-      "time": "2026-06-16 01:08:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. officials say Iran's hardliners oppose the agreement but have offered no viable alternative."
-    },
-    {
-      "id": "mkt:019ecc41-5f01-7dd8-b014-36cd5cb19efb",
-      "time": "2026-06-16 01:08:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A US official said it will soon be clear whether the consensus reached with Iran can be converted into an agreement that would change the regional situation."
     }
   ]
 }
