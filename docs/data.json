@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-23 01:24:35",
-  "count": 17270,
+  "updated": "2026-06-23 01:28:46",
+  "count": 17267,
   "items": [
+    {
+      "id": "mkt:019ef05e-3354-7dd8-b0c3-181d393da394",
+      "time": "2026-06-23 01:26:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【Trump to meet defense contractors on Wednesday as U.S.-Iran talks proceed】President Trump is expected to meet executives from several of the largest U.S. defense contractors on Wednesday, people familiar with the matter said, a meeting that coincides with U.S.-Iran peace talks. The session follows a March 6 White House meeting with executives from Lockheed Martin, RTX, BAE Systems, Boeing, Honeywell Aerospace, L3Harris and Northrop Grumman. The administration has stepped up pressure on contractors to prioritize production and U.S. manufacturing over shareholder payouts. A source said most defense firms have been told to fulfill existing contracts and to ramp up and accelerate production to support the Pentagon."
+    },
+    {
+      "id": "4948811",
+      "time": "2026-06-23 01:25:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌Interactions API正式全面上線。"
+    },
     {
       "id": "4948809",
       "time": "2026-06-23 01:23:58",
@@ -48,6 +70,15 @@
         "The Fed (FOMC)"
       ],
       "text": "The Federal Reserve accepted $3.925 billion from four counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "em:qqyh_mlc:202606233778472216",
+      "time": "2026-06-23 01:17:22",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週一使用規模為39.25億美元（交易對手4家），上個交易日報2.51億美元。"
     },
     {
       "id": "4948806",
@@ -158593,72 +158624,6 @@
         "MKT News"
       ],
       "text": "Canada's ambassador to the United States, Waisman, said discussions with the U.S. were productive, serious, well-informed and mutually respectful."
-    },
-    {
-      "id": "mkt:019ecc53-3033-7dd8-b014-71959076520b",
-      "time": "2026-06-16 01:27:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) attracted $85 bln of investor demand for a large bond offering."
-    },
-    {
-      "id": "4937000",
-      "time": "2026-06-16 01:26:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【敘利亞一條國際海底光纜遭破壞 】據敘利亞國家通訊社15日報道，敘利亞通訊公司表示，連線敘西部拉塔基亞省和埃及亞歷山大港的國際海底光纜當天遭到破壞，導致敘利亞大部分國際頻寬服務中斷，敘各省份網際網路服務出現大範圍嚴重降級。"
-    },
-    {
-      "id": "mkt:019ecc51-9487-7dd8-b014-6b04c9f09b23",
-      "time": "2026-06-16 01:25:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission President Von der Leyen announced the EU-Canada summit will be held Oct. 29-30."
-    },
-    {
-      "id": "te:markets:559106",
-      "time": "2026-06-16 01:25:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Vertex Pharmaceuticals Stock Price Hits 4-week High — Vertex Pharmaceuticals shares increased to 453.19 USD, the highest since May 2026. Over the past 4 weeks, Vertex Pharmaceuticals gained 3.72%, and in the last 12 months, it increased 0.43%."
-    },
-    {
-      "id": "mkt:019ecc51-2adf-7dd8-b014-66326c2895f6",
-      "time": "2026-06-16 01:25:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Europe & UK"
-      ],
-      "text": "【Italy, Japan to accelerate next-generation fighter development】Japan Prime Minister Takaichi said after a Rome meeting with Italian Prime Minister Meloni that Italy and Japan intend to accelerate the Global Combat Air Programme (GCAP) to develop a next-generation fighter. Meloni said Italy is continuing to push strategic projects under GCAP, is co-developing a sixth-generation fighter with the UK, and that the programme has now entered its implementation phase."
-    },
-    {
-      "id": "4936999",
-      "time": "2026-06-16 01:24:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普：普京和澤連斯基願就解決烏克蘭危機“採取行動”】美國總統特朗普15日在法國埃維昂萊班出席七國集團峰會期間表示，他前一日與俄羅斯總統普京、烏克蘭總統澤連斯基分別通話，兩人願意就解決烏克蘭危機“採取行動”。特朗普說，他與俄烏領導人的對話“非常好”，相信就解決烏克蘭危機“我們可以做些什麼”，俄烏領導人“對此保持開放態度”。（新華社）"
     }
   ]
 }
