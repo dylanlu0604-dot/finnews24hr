@@ -1,7 +1,43 @@
 {
-  "updated": "2026-06-23 03:00:31",
-  "count": 17265,
+  "updated": "2026-06-23 03:05:08",
+  "count": 17268,
   "items": [
+    {
+      "id": "4948899",
+      "time": "2026-06-23 03:03:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7773元，較上週四夜盤收盤跌45點。成交量632.89億美元。"
+    },
+    {
+      "id": "mkt:019ef0b5-f5d9-7dd8-b0c4-2cd2a01c3126",
+      "time": "2026-06-23 03:01:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session rose 0.29% to 23,830, trading 61 points above the cash index."
+    },
+    {
+      "id": "4948895",
+      "time": "2026-06-23 03:01:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷一季度失業率7.8%。"
+    },
+    {
+      "id": "4948894",
+      "time": "2026-06-23 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.26%，報23823.00點，高水54.48點。"
+    },
     {
       "id": "4948888",
       "time": "2026-06-23 02:58:11",
@@ -158532,18 +158568,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡請求將明天的作證時間縮短約三個小時，以便參加政府會議，但法院駁回了他的請求。"
-    },
-    {
-      "id": "mkt:019ecca9-37eb-7dd8-b016-1a3e47b5b501",
-      "time": "2026-06-16 03:01:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures night session closed down 0.13% at 24,799, trading 44 points below the cash index."
     }
   ]
 }
