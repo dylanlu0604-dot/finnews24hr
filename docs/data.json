@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-23 02:13:47",
-  "count": 17273,
+  "updated": "2026-06-23 02:17:51",
+  "count": 17270,
   "items": [
+    {
+      "id": "te:markets:560859",
+      "time": "2026-06-23 02:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Drops by 4.67% — Top commodity losers are Crude Oil WTI (-4.67%), Brent Crude Oil (-3.53%) and Heating Oil (-3.04%). Gains are led by Natural gas (2.04%)."
+    },
+    {
+      "id": "mkt:019ef089-a468-7dd8-b0c3-b2e63c599dd9",
+      "time": "2026-06-23 02:13:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【Turkey says cargo ship attacked by drone in Black Sea】Turkey's foreign ministry said on the morning of the 22nd local time a Turkish-owned, Panama-flagged cargo ship was struck by a drone near the Ukrainian port of Chornomorsk in the Black Sea; two Turkish crew were injured."
+    },
+    {
+      "id": "4948841",
+      "time": "2026-06-23 02:13:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其稱一艘貨船在黑海遭無人機襲擊】當地時間22日，據土耳其外交部發布的宣告，當日上午，一艘由土耳其所有、懸掛巴拿馬國旗的貨船在烏克蘭切爾諾莫斯克港附近海域遭到無人機襲擊。襲擊導致船上的兩名土耳其籍船員受傷。土方在宣告中表示，土耳其正密切關注兩名受傷公民的傷情及後續救治情況。宣告還指出，這起襲擊是俄烏衝突升級帶來的後果，已對土耳其在黑海的利益及地區安全構成威脅。土方已向衝突雙方政府表達了對此類襲擊的嚴重關切。（央視新聞）"
+    },
     {
       "id": "mkt:019ef087-18fd-7dd8-b0c3-aeece0515d4c",
       "time": "2026-06-23 02:10:45",
@@ -158575,61 +158606,6 @@
         "國際"
       ],
       "text": "印度政府公告：未來兩週，柴油出口暴利稅上調至每升 14 盧比，航空煤油（ATF）出口關稅上調至每升 12.5 盧比。"
-    },
-    {
-      "id": "mkt:019ecc80-fc3b-7dd8-b015-735ccbe68e88",
-      "time": "2026-06-16 02:17:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he had ultimately achieved the objectives set regarding Iran."
-    },
-    {
-      "id": "mkt:019ecc80-27b9-7dd8-b015-6d1d3da74116",
-      "time": "2026-06-16 02:16:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said no one can predict when the Iranian regime will collapse, but other authoritarian regimes have fallen in similar circumstances."
-    },
-    {
-      "id": "te:economy:559108",
-      "time": "2026-06-16 02:15:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Brazil Industrial Confidence Falls Further in June — Brazil’s Industrial Business Confidence Index fell 0.5 point to 46.7 in June 2026 from the previous month, marking its 18th consecutive reading below the 50-point threshold. The Current Conditions Index declined 0.6 point to 42.3, driven mainly by a 0.9-point drop in assessments of companies’ own conditions to 45.4. Meanwhile, the indicator for the broader Brazilian economy slipped 0.1 point to 36.0, signaling a perception of worsening economic conditions. The Expectations Index also weakened, falling 0.4 point to 48.9. While expectations for the Brazilian economy edged up 0.1 point to 41.0, the indicator for companies’ own prospects declined 0.7 point to 52.8."
-    },
-    {
-      "id": "4937005",
-      "time": "2026-06-16 02:15:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡： 我們在加沙採取的行動，也會在北部地區復刻，並且我們已經對真主黨實施了決定性打擊。"
-    },
-    {
-      "id": "te:markets:559107",
-      "time": "2026-06-16 02:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Tumbles by 10.62% — Top commodity losers are Natural Gas UK (-10.62%), Natural Gas EU (-9.07%), Germany Natural Gas THE (-8.81%), Crude Oil WTI (-5.35%) and Brent Crude Oil (-4.90%). Gains are led by Natural gas (0.81%)."
-    },
-    {
-      "id": "4937004",
-      "time": "2026-06-16 02:14:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：無論是否達成協議，伊朗都不會擁有核武器。最重要的是，我們拯救了以色列，免受核武器毀滅的威脅。為了保護我們的國家，我們將在安全區駐留必要長的時間。"
     }
   ]
 }
