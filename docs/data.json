@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-22 15:37:28",
-  "count": 17236,
+  "updated": "2026-06-22 15:41:35",
+  "count": 17226,
   "items": [
+    {
+      "id": "te:economy:560710",
+      "time": "2026-06-22 15:40:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Employment Change YoY",
+        "Importance 0"
+      ],
+      "text": "Poland Employment Declines as Expected in May — Poland’s corporate employment fell by 0.9% year-on-year in May 2026, bringing total employment to 6.38 million, in line with market expectations and unchanged from the previous month. This marked the 32nd consecutive month of decline in corporate employment. On a monthly basis, employment remained at a 0.1% fall in April. Meanwhile, average monthly gross salaries increased by 5.8% compared to a year earlier, reaching PLN 9,173."
+    },
+    {
+      "id": "mkt:019eee46-4214-7dd8-b0b4-282b38cf86f3",
+      "time": "2026-06-22 15:40:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【A-share turnover rises; 49 stocks exceed CNY10 bln】June 22 — A-share market turnover expanded further; 49 stocks recorded turnover above CNY10 bln, with InnoLight and GigaDevice each exceeding CNY30 bln."
+    },
+    {
+      "id": "mkt:019eee45-f7a7-7dd8-b0b4-24edfc1dac98",
+      "time": "2026-06-22 15:40:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's trade minister said India and the United States are stepping up cooperation on defense, critical minerals and investment."
+    },
+    {
+      "id": "4947614",
+      "time": "2026-06-22 15:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易部長：印度與美國的貿易協定或將包含優惠關稅、原產地規則以及投資條款；與美國正就擴大國防、關鍵礦產及投資領域合作展開認真磋商。"
+    },
+    {
+      "id": "4947613",
+      "time": "2026-06-22 15:38:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界盃賽事拉動墨西哥旅遊業增長】2026美加墨世界盃正在火熱進行。墨西哥旅遊部日前公佈的最新資料顯示，世界盃對墨西哥旅遊及相關產業的拉動效果顯著。墨西哥旅遊部表示，世界盃開幕式當天，位於墨西哥城的官方球迷廣場有超過9萬3000名球迷到場觀看了墨西哥主場2-0戰勝南非的比賽，該場地原計劃接待人數為6萬人以內。墨西哥政府預測，6月份國際旅客入境墨西哥人數將達到1000萬人次，與世界盃相關的活動將創造顯著經濟效益。(CCTV國際時訊)"
+    },
+    {
+      "id": "4947612",
+      "time": "2026-06-22 15:38:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【時代萬恆：陳東泰辭任董事】時代萬恆6月22日公告，公司當天收到陳東泰提交的書面辭職報告。因工作調整，陳東泰申請辭去公司第九屆董事會董事職務，同時辭去董事會提名委員會委員職務。"
+    },
+    {
+      "id": "mkt:019eee43-a4f3-7dd8-b0b4-1d3a32652fa2",
+      "time": "2026-06-22 15:37:50",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "India's trade minister said a trade agreement with the United States could include preferential tariffs, rules of origin and investment provisions."
+    },
+    {
+      "id": "4947608",
+      "time": "2026-06-22 15:36:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海康威視：沒有共封裝光學（CPO）相關業務】有投資者在互動平臺提問“公司有涉及共封裝光學（CPO）業務嗎？”海康威視回應稱，公司沒有相關業務，請投資者理性判斷市場熱點，注意風險，謹慎投資。"
+    },
     {
       "id": "4947607",
       "time": "2026-06-22 15:36:36",
@@ -158383,164 +158456,6 @@
         "公司"
       ],
       "text": "【曝58國內業務總裁離職】6月15日，據訊息，58集團國內業務總裁李子健近日已離職，目前集團內網已無法檢索到其個人相關資訊。 據悉，隨著此次人事變動，58內部組織架構也隨之調整。原本向李子健彙報的安居客CTO邢宏宇、副總裁杜巖，改為直接向創始人姚勁波彙報。 公開資訊顯示，李子健擁有清華大學、斯坦福大學博士學歷。入職58同城前，他先後任職于波士頓諮詢集團（BCG）與滴滴出行，曾擔任滴滴高階戰略總監、平臺乘客運營負責人等職務。"
-    },
-    {
-      "id": "mkt:019eca3a-69ec-7dd8-b003-f2d5056fbce7",
-      "time": "2026-06-15 15:41:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Israel's Channel 12, senior Israeli officials said Israel has not been asked to withdraw from Lebanon. Boundaries on which actions are permitted or prohibited remain unclear."
-    },
-    {
-      "id": "4935890",
-      "time": "2026-06-15 15:40:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟CEO：未來人的核心能力是用AI串聯工具、流程和資訊】微軟CEO納德拉在近日的一檔播客欄目中稱，人類不用再擔心AI搶飯碗，因為真正被淘汰的，從來不是崗位，而是一成不變的工作方式。未來，人類的核心能力，是用AI串聯工具、流程和資訊。"
-    },
-    {
-      "id": "4935889",
-      "time": "2026-06-15 15:40:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三角防務、西測測試持股公司成立衛星資料應用公司】企查查APP顯示，近日，西部衛星資料應用（陝西）有限公司成立，法定代表人為李澤新，註冊資本為1000萬元，經營範圍包含：衛星遙感資料處理；地理遙感資訊服務；衛星技術綜合應用系統整合；衛星通訊服務；衛星導航服務等。企查查股權穿透顯示，該公司由西部航天科技（陝西）有限公司全資持股，後者由三角防務、西測測試等共同持股。"
-    },
-    {
-      "id": "4935888",
-      "time": "2026-06-15 15:40:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【戰爭使能源安全成為焦點 東南亞各國寄希望於新能源汽車】受伊朗戰爭影響，東南亞各國的能源供應驟降。為降低石油需求、提高能源安全，部分國家政府已推出新能源汽車激勵措施。雖然燃料價格上漲可能推動新能源汽車普及，但具體影響將因市場狀況及衝突持續時間而異。若油價持續高企，新能源汽車的總擁有成本優勢將進一步凸顯。然而，此次危機引發的經濟增長放緩及供應鏈中斷，可能會抵消部分積極影響。"
-    },
-    {
-      "id": "mkt:019eca39-786e-7dd8-b003-e8feaad4bb22",
-      "time": "2026-06-15 15:40:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign Ministry rebuts Lowy Institute claim China threatens Australia】June 15 — Chinese Foreign Ministry spokesperson Lin Jian, at a regular briefing, rejected a Lowy Institute report that said China’s hypersonic weapons buildup increases its ability to strike Australia. Lin said he had noted the report and reiterated that China pursues peaceful development; its military expansion is aimed at defending national sovereignty, security and development interests, is not directed at any country, and represents growth in forces that favor peace. He called the report’s “strong-nation-must-dominate” logic a serious strategic misjudgment and urged the institution to stop hyping a so‑called China threat and to view China’s development objectively and rationally."
-    },
-    {
-      "id": "mkt:019eca39-3e27-7dd8-b003-e6040773a535",
-      "time": "2026-06-15 15:40:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US, Iran to hold preparatory talks in Doha】AFP cited a diplomat saying the US and Iran will hold indirect preparatory talks in Doha this week to ready a formal signing of an agreement aimed at ending the war in the Middle East."
-    },
-    {
-      "id": "4935887",
-      "time": "2026-06-15 15:40:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海建工成立新能源公司 含光伏相關業務】企查查APP顯示，近日，上海成映新能源有限公司成立，法定代表人為周道，註冊資本為1050萬元，經營範圍包含：發電技術服務；太陽能發電技術服務；太陽能熱發電裝備銷售；光伏裝置及元器件銷售等。企查查股權穿透顯示，該公司由上海建工旗下上海市機械裝置成套（集團）有限公司及上海建工集團投資有限公司共同持股。"
-    },
-    {
-      "id": "4935886",
-      "time": "2026-06-15 15:39:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【上合組織成立25週年 外交部：成功探索出一條新型區域合作道路】6月15日，外交部發言人林劍主持例行記者會。總檯央視記者提問，今天是上海合作組織成立25週年。中方如何評價上合組織發展成就？中方為組織發展作出哪些突出貢獻？林劍表示，2001年6月15日，上海合作組織成立。經過25年發展，上合組織已成為世界上幅員最廣、人口最多、發展潛力巨大的綜合性區域合作組織。25年來，上合組織成員國始終秉持“上海精神”，堅持團結協作，不斷深化政治、安全、經濟、人文領域合作，打造和鞏固本地區安全屏障、合作橋樑、友好紐帶，成功探索出一條新型區域合作的道路，樹立了新型國際關係典範。新形勢下，中方將同各成員國一道，持續弘揚“上海精神”，加強務實合作，將上合組織打造成為各國共同發展繁榮的可靠依託。（央視新聞）"
-    },
-    {
-      "id": "4935885",
-      "time": "2026-06-15 15:39:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【研究：政府對Anthropic模型的禁令加劇了美國AI政策的混亂】美國商務部已下令Anthropic切斷外國公民對其Fable 5和Mythos 5模型的訪問許可權，這是華盛頓首次將出口管制措施直接針對底層半導體供應鏈以外的已部署的人工智慧(AI)模型。此舉令人費解。它擴大了美國AI管控的範圍，還將管控方式從自願審查升級為直接暫停，但此舉僅針對一家公司，而且政府幾乎未作公開解釋。這項限制也適用於身處美國境內的外國籍研究人員，使他們無法使用自己參與構建的模型，而在這個行業中，2024年美國電腦科學博士學位的61%由持有臨時簽證的人員獲得。"
-    },
-    {
-      "id": "4935884",
-      "time": "2026-06-15 15:39:03",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "英國首相斯塔默：針對16歲和17歲群體已出臺相應措施，因此不會出現斷崖式變化。"
-    },
-    {
-      "id": "te:markets:558982",
-      "time": "2026-06-15 15:38:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Hit Record Highs on US-Iran Deal — European stocks surged over 1% to all-time highs on Monday, with the STOXX 50 reaching 6,260 points and the STOXX 600 climbing to 640 points. The rally followed the US and Iran’s preliminary agreement to end their three-month conflict, which includes lifting the US blockade and reopening the Strait of Hormuz, a key route for 20% of global energy. The deal triggered a sharp drop in oil prices, reducing pressure on central banks to raise interest rates to curb inflation. A memorandum of understanding is set to be signed in Switzerland this Friday, though uncertainty persists as markets await further details and the status of Iran’s nuclear program remains unresolved. Money markets have scaled back expectations for rate hikes, now pricing in just one increase each from the ECB and the BoE by year-end."
-    },
-    {
-      "id": "4935883",
-      "time": "2026-06-15 15:38:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：奉勸有關機構停止渲染所謂“中國威脅”】就澳大利亞某智庫釋出報告炒作所謂“中國威脅”，外交部發言人林劍15日在例行記者會上答問時表示，中國堅持走和平發展道路。中國發展軍力是為了維護國家主權、安全和發展利益，不針對任何國家。中國軍事力量的增長是世界愛好和平力量的增長。“奉勸有關機構停止渲染所謂‘中國威脅’，客觀、公正、理性看待中國發展。”"
-    },
-    {
-      "id": "mkt:019eca37-f401-7dd8-b003-dfff859042fd",
-      "time": "2026-06-15 15:38:44",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【CSC Financial: inaugural year for commercial real-estate REITs — H2 supply-demand improvement an opportunity】CSC Financial research says the launch of commercial real-estate REITs is the biggest expansion variable in the primary market; project pricing dispersion is widening, so investors should prioritize asset quality and operational capability. In the secondary market, sector divergence has increased sharply; ownership-rights property assets face larger supply shocks and valuations are near historic lows. Looking to full-year 2026, market rhythm may shift from prior H1 allocation/H2 profit-taking to H1 wait-and-see and H2 deployment; CSC sees H2 supply-side pressure on REITs easing and incremental funding policies being implemented, supporting stabilization and a selective recovery."
-    },
-    {
-      "id": "4935882",
-      "time": "2026-06-15 15:38:31",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "斯塔默否認這項英國社交媒體禁令出臺倉促的說法。"
-    },
-    {
-      "id": "4935881",
-      "time": "2026-06-15 15:37:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列財長斯莫特里奇：這份伊朗協議對以色列不利，也有損自由世界。"
-    },
-    {
-      "id": "4935880",
-      "time": "2026-06-15 15:37:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大業股份：諸城大業200MW風電專案建成投產】大業股份(603278)6月15日公告，公司全資子公司山東大業新能源有限公司投建的諸城大業200MW風電專案（諸城市1#-4#分散式風電專案）已於6月15日建成投產，完成全部機組併網發電。該專案位於山東省濰坊市諸城市，總裝機容量200MW，共安裝32臺單機容量6.25MW風電機組。"
-    },
-    {
-      "id": "mkt:019eca36-def1-7dd8-b003-d79fef602c76",
-      "time": "2026-06-15 15:37:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "TAKAICHI said Japan must also monitor any agreement on Iran's nuclear program."
-    },
-    {
-      "id": "mkt:019eca36-db3b-7dd8-b003-ccf880b30a24",
-      "time": "2026-06-15 15:37:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's prime minister Takaichi said effective implementation of the agreement is crucial."
     }
   ]
 }
