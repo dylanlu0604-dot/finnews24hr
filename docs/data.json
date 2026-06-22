@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-22 09:10:06",
-  "count": 17344,
+  "updated": "2026-06-22 09:14:10",
+  "count": 17347,
   "items": [
+    {
+      "id": "4946987",
+      "time": "2026-06-22 09:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與巴基斯坦聯合宣告：高階別委員會已就一份路線圖達成一致，目標在60天內達成最終協議。"
+    },
+    {
+      "id": "mkt:019eece3-8f41-7dd8-b0ac-11e72e6e3377",
+      "time": "2026-06-22 09:13:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar and Pakistan said chief negotiators will report regularly to the senior committee."
+    },
+    {
+      "id": "te:markets:560575",
+      "time": "2026-06-22 09:12:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Flat to Start the Week — The Australian dollar held around $0.701, remaining near ten-week lows as renewed Middle East tensions weighed on risk sentiment, while markets grew cautious ahead of key domestic economic releases this week. Investors will likely be focused on the release of CPI and jobs data for May, which will be pivotal for the Reserve Bank's next policy move. After holding the cash rate this month, Governor Michele Bullock emphasized that inflation remains too high and reiterated that further rate hikes cannot be ruled out. Still, markets increasingly suspect that the tightening cycle is over with another hike seen as unlikely unless second-quarter inflation comes in significantly stronger than expected. Traders also await upcoming flash surveys for PMI later today. Meanwhile, uncertainty over US-Iran peace talks drove oil prices higher after President Trump threatened fresh strikes if Hezbollah continues its attacks on Israel, while Tehran announced a renewed closure of the Strait of Hormuz."
+    },
+    {
+      "id": "4946986",
+      "time": "2026-06-22 09:12:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌7%，現報154080.00元。"
+    },
+    {
+      "id": "mkt:019eece2-7d7f-7dd8-b0ac-0abd15c5a0ac",
+      "time": "2026-06-22 09:12:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Qatar and Pakistan joint statement: the U.S. and Iran have made positive progress on establishing further technical negotiation mechanisms. Based on a memorandum of understanding, the parties agreed to establish a senior committee to provide political oversight of the mediation process."
+    },
+    {
+      "id": "4946985",
+      "time": "2026-06-22 09:11:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與巴基斯坦在聯合宣告中表示：基於諒解備忘錄，雙方同意成立一個高階別委員會，為調解程序提供政治監督。"
+    },
+    {
+      "id": "mkt:019eece2-08a0-7dd8-b0ac-02408550b298",
+      "time": "2026-06-22 09:11:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【MOFCOM spokesperson says China will add 10 U.S. entities to export-control list】China will place 10 U.S. military-related entities, including Aveox, Inc., on its export-control list, banning exports of dual-use items to those firms. MOFCOM cited the Export Control Law and the Dual-Use Items Export Control Regulations, said the step is to protect national security and meet non-proliferation obligations, and framed it as a response to the U.S. expansion of its 'China military companies' list. Chinese exporters are prohibited from supplying the named entities."
+    },
+    {
+      "id": "4946984",
+      "time": "2026-06-22 09:11:24",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就將10家美國實體列入出口管制管控名單答記者問】為維護國家安全和利益，履行防擴散等國際義務，針對美國政府增列所謂“中國軍事企業清單”的惡劣做法，根據《中華人民共和國出口管制法》和《中華人民共和國兩用物項出口管制條例》等法律法規有關規定，中方決定將艾維奧克斯公司（Aveox,Inc.）等10家美國涉軍實體列入出口管制管控名單，禁止對其出口兩用物項，任何出口經營者不得違反上述規定。"
+    },
+    {
+      "id": "4946983",
+      "time": "2026-06-22 09:11:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與巴基斯坦聯合宣告：已取得令人鼓舞的進展，包括建立進一步技術會談的機制。"
+    },
+    {
+      "id": "4946982",
+      "time": "2026-06-22 09:10:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：會毫不猶豫地採取必要的通脹措施。"
+    },
+    {
+      "id": "4946981",
+      "time": "2026-06-22 09:10:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：消費稅減免的資金來源不會依賴政府特別債券。"
+    },
+    {
+      "id": "4946980",
+      "time": "2026-06-22 09:10:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至286.00點。"
+    },
+    {
+      "id": "4946979",
+      "time": "2026-06-22 09:10:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與巴基斯坦聯合宣告：會談在積極且富有建設性的氛圍中進行。"
+    },
+    {
+      "id": "4946978",
+      "time": "2026-06-22 09:09:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Jefferies：騰訊微信AI“小微”料於四季度正式釋出 重申公司為首選股】Jefferies稱，騰訊正在小規模測試微信AI功能“小微”，這是公司在A2A(智慧體到智慧體)領域邁出的重要一步，預計將於四季度正式釋出。重申對公司的首選，目標價795港元。分析師Thomas Chong等在報告中指出，“小微”可覆蓋多個場景，包括社交與溝通、資訊獲取和搜尋、生產力工具等。騰訊一直透過AI在為微信小程式供電，並升級開發人員工具包架構；同時微信小程式程式碼可以演變為微信內部AI代理使用的工具。預計未來幾個月微信AI將進一步增強，市場將關注其在推理、記憶和動態人際互動方面的進展。"
+    },
     {
       "id": "mkt:019eecdf-89b6-7dd8-b0ab-f9b4adbaed23",
       "time": "2026-06-22 09:08:53",
@@ -159525,102 +159651,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Dollar Rises on US-Iran Agreement — The New Zealand dollar rose to around $0.585, reaching its highest level in over a week as investor sentiment improved following a peace agreement between the US and Iran. Pakistan’s Prime Minister announced the breakthrough, stating that both nations had agreed to the immediate and permanent halt of military operations across all fronts, including in Lebanon. President Donald Trump said that the Strait of Hormuz would reopen on Friday following the signing of the agreement with Iran in Switzerland. Also supporting the kiwi, the Reserve Bank of New Zealand is widely expected to tighten monetary policy in July. Markets are currently assigning an 85% chance to a 25-basis-point rate hike, with expectations for two additional increases that would bring the OCR to 3.0% by the end of the year."
-    },
-    {
-      "id": "4935151",
-      "time": "2026-06-15 09:13:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【部分化工品主力合約持續下挫】上期所合成橡膠主力合約跌超2%，報13080元/噸。鄭商所對二甲苯主力合約大跌5%，報8352元/噸；丙烯主力合約大跌5%，報7785元/噸；甲醇主力合約大跌6%，報2841元/噸。大商所聚丙烯主力合約跌超4%，報8290元/噸；乙二醇主力合約跌超4%，報4458元/噸。"
-    },
-    {
-      "id": "4935150",
-      "time": "2026-06-15 09:13:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌1%，現報1359.00元。"
-    },
-    {
-      "id": "4935149",
-      "time": "2026-06-15 09:13:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞國家石油化工股價下跌8.8%，至4.87林吉特。"
-    },
-    {
-      "id": "4935147",
-      "time": "2026-06-15 09:13:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌5%，現報6014.00元。"
-    },
-    {
-      "id": "4935146",
-      "time": "2026-06-15 09:12:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌4%，現報4459.00元。"
-    },
-    {
-      "id": "4935145",
-      "time": "2026-06-15 09:12:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內跌5%，現報8352.00元。"
-    },
-    {
-      "id": "4935144",
-      "time": "2026-06-15 09:11:48",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：預計人民幣升值勢頭未來數月或將延續。"
-    },
-    {
-      "id": "4935143",
-      "time": "2026-06-15 09:11:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "錫連續主力合約日內漲4%，現報422690.00元。"
-    },
-    {
-      "id": "4935142",
-      "time": "2026-06-15 09:11:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報3751.50點。"
-    },
-    {
-      "id": "4935141",
-      "time": "2026-06-15 09:10:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧：培育壯大農業領域科技領軍企業】《中共遼寧省委遼寧省人民政府關於錨定農業農村現代化紮實推進鄉村全面振興的實施意見》釋出，其中提出，促進農業新質生產力發展。加強農業關鍵技術攻關，推動科技成果轉化應用，培育壯大農業領域科技領軍企業。深入實施種業振興行動，開展種質創新工程重大專項。加強農業種質資源保護利用，支援種業企業育繁推一體化發展，加快選育和推廣優良品種。"
-    },
-    {
-      "id": "4935140",
-      "time": "2026-06-15 09:10:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬興科技：目前萬興劇廠使用者規模、Token消耗量以及收入均保持良好增長態勢】萬興科技近日接受機構調研時表示，AI漫劇創作工具萬興劇廠是公司近年來重點打造的AI原生應用之一。產品面向AI短劇、漫劇創作場景，能夠幫助使用者實現從劇本生成、角色設計、分鏡創作到影片生成的一站式創作。萬興劇廠採用按量消費模式，使用者根據實際創作需求購買和消耗Token，這也是公司探索AI時代新商業模式的重要實踐。目前該產品使用者規模、Token消耗量以及收入均保持良好增長態勢，驗證了AI內容創作領域旺盛的市場需求和良好的商業化潛力。"
     }
   ]
 }
