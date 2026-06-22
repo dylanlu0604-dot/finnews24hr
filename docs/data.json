@@ -1,7 +1,843 @@
 {
-  "updated": "2026-06-22 08:41:44",
-  "count": 17336,
+  "updated": "2026-06-22 09:06:01",
+  "count": 17347,
   "items": [
+    {
+      "id": "4946973",
+      "time": "2026-06-22 09:05:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在帖文中援引哥倫比亞候選人德拉埃斯普列利亞說法稱：他贏了，贏得很漂亮。"
+    },
+    {
+      "id": "mkt:019eecdb-f209-7dd8-b0ab-e99fe85663f3",
+      "time": "2026-06-22 09:04:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Front-month lithium carbonate futures fell 6.0% intraday, trading at 155,680 yuan/ton."
+    },
+    {
+      "id": "4946972",
+      "time": "2026-06-22 09:04:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數上漲2.1%，創下47,461.13點的歷史新高。"
+    },
+    {
+      "id": "4946971",
+      "time": "2026-06-22 09:04:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌6%，現報155680.00元。"
+    },
+    {
+      "id": "4946970",
+      "time": "2026-06-22 09:04:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達：技術談判將在本週剩餘時間繼續進行。"
+    },
+    {
+      "id": "4946969",
+      "time": "2026-06-22 09:04:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天地源股份有限公司專務、原常務副總裁劉永明接受紀律審查和監察調查】6月22日，據“清廉西安”微信公眾號訊息，天地源股份有限公司專務、原常務副總裁劉永明涉嫌嚴重違紀違法，目前正接受西安市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4946968",
+      "time": "2026-06-22 09:04:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國農業發展銀行四川省分行原黨委委員向陽接受審查調查】中央紀委國家監委網站6月22日通報， 據中央紀委國家監委駐中國農業發展銀行紀檢監察組、安徽省紀委監委訊息：中國農業發展銀行四川省分行原黨委委員、副行長向陽涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國農業發展銀行紀檢監察組紀律審查和安徽省宣城市監察委員會監察調查。"
+    },
+    {
+      "id": "4946967",
+      "time": "2026-06-22 09:03:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達：美伊高階別會談第一階段結束。"
+    },
+    {
+      "id": "mkt:019eecda-19a6-7dd8-b0ab-e7fbc267c010",
+      "time": "2026-06-22 09:02:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Ministry of Interior said an explosion at a factory in Ras Laffan injured at least 54 people and left 18 missing."
+    },
+    {
+      "id": "4946966",
+      "time": "2026-06-22 09:02:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【商務部：決定將10家美國實體列入出口管制管控名單】根據《中華人民共和國出口管制法》和《中華人民共和國兩用物項出口管制條例》等法律法規有關規定，為維護國家安全和利益，履行防擴散等國際義務，決定將艾維奧克斯公司等10家美國實體列入出口管制管控名單（見附件），並採取以下措施：一、禁止出口經營者對上述10家實體出口兩用物項，禁止任何國家和地區的組織和個人將原產於中國的兩用物項轉移或提供給上述實體；正在開展的相關出口活動應當立即停止。二、特殊情況下確需出口的，出口經營者應當向商務部提出申請。本公告自公佈之日起正式實施。"
+    },
+    {
+      "id": "4946965",
+      "time": "2026-06-22 09:02:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌5%，現報157280.00元。"
+    },
+    {
+      "id": "4946964",
+      "time": "2026-06-22 09:01:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌4%，現報300.70元。"
+    },
+    {
+      "id": "mkt:019eecd9-32bc-7dd8-b0ab-dcba53fe6934",
+      "time": "2026-06-22 09:01:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesperson said talks held in Switzerland made good progress toward implementing the other party's commitments."
+    },
+    {
+      "id": "mkt:019eecd9-1612-7dd8-b0ab-d6f51191e341",
+      "time": "2026-06-22 09:01:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "MOFCOM decided to add 10 U.S. entities to its export control list."
+    },
+    {
+      "id": "4946963",
+      "time": "2026-06-22 09:01:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銅冠銅箔：目前公司訂單充足 生產經營正常】銅冠銅箔(301217)在互動平臺表示，目前公司訂單充足，生產經營正常。"
+    },
+    {
+      "id": "mkt:019eecd8-a314-7dd8-b0ab-cf8f084ecb41",
+      "time": "2026-06-22 09:01:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Taiwan's TAIEX opened up 945.37 points, or 2.03%, at 47,410.57 on Monday, June 22."
+    },
+    {
+      "id": "mkt:019eecd8-991f-7dd8-b0ab-c0a6c4edddec",
+      "time": "2026-06-22 09:01:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 2.31% to 917.31 yuan/gram in early trade on Monday, June 22; Silver T+D dropped 3.03% to 16,082.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019eecd8-7020-7dd8-b0ab-b80bbe083f79",
+      "time": "2026-06-22 09:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold extended gains, touching $4,220/oz and rising 1.55% intraday. Spot silver climbed above $67/oz, up 3.40% on the session."
+    },
+    {
+      "id": "4946962",
+      "time": "2026-06-22 09:00:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破67美元/盎司，日內漲3.41%。"
+    },
+    {
+      "id": "mkt:019eecd7-e5fe-7dd8-b0ab-b3f64429b2a6",
+      "time": "2026-06-22 09:00:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.18% higher."
+    },
+    {
+      "id": "4946961",
+      "time": "2026-06-22 09:00:30",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "【一年期、五年期LPR均維持不變】中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變，為連續13個月保持不變。"
+    },
+    {
+      "id": "mkt:019eecd7-d8d4-7dd8-b0ab-ad1dffe3d020",
+      "time": "2026-06-22 09:00:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "China's five-year loan prime rate (LPR) stood at 3.50% on June 22, in line with the forecast and the prior reading of 3.50%."
+    },
+    {
+      "id": "mkt:019eecd7-d726-7dd8-b0ab-a651175c56b3",
+      "time": "2026-06-22 09:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals"
+      ],
+      "text": "At the open, China’s main futures contracts were mixed. Low-sulfur fuel oil (LU) jumped over 3%, lithium carbonate slid over 5% and Shanghai silver futures fell about 4%. Palladium, eggs and platinum were down more than 3%. Container freight to Europe rose over 2%; Shanghai crude (SC) and bottle-grade PET gained just above 1%."
+    },
+    {
+      "id": "mkt:019eecd7-d65e-7dd8-b0ab-9c2a6d7af9e0",
+      "time": "2026-06-22 09:00:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China one-year loan prime rate (LPR) as of June 22: 3.00%; expected 3.00%; prior 3.00%."
+    },
+    {
+      "id": "te:markets:560570",
+      "time": "2026-06-22 09:00:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Scale Fresh Record Highs — The Nikkei 225 Index jumped 1.4% to above 72,200, while the broader Topix Index gained 1% to 4,085 on Monday, with both benchmarks reaching new record highs as Japanese firms tied to the global artificial intelligence infrastructure boom continued to lead the market higher. Domestic equities advanced despite a rise in oil prices after tensions escalated during the first day of talks between the US and Iran. Investors also awaited the latest Japanese PMI data for clues on economic conditions, along with the Bank of Japan’s Summary of Opinions from its June meeting, where policymakers raised interest rates by 25 basis points to 1%. Among notable gainers, Furukawa Electric jumped 8.7%, Murata Manufacturing rose 6.7%, JX Advanced Metals gained 8%, Ibiden advanced 5.1%, and SoftBank Group added 1.1%."
+    },
+    {
+      "id": "4946960",
+      "time": "2026-06-22 09:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報66.97美元/盎司。"
+    },
+    {
+      "id": "mkt:019eecd7-bc32-7dd8-b0ab-97bb87b351c4",
+      "time": "2026-06-22 09:00:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "China | 5-Year Loan Prime Rate (Jun.22) | actual 3.5% | consensus 3.50% | previous 3.50%"
+    },
+    {
+      "id": "mkt:019eecd7-b016-7dd8-b0ab-8a0ce7338fe6",
+      "time": "2026-06-22 09:00:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | 1-Year Loan Prime Rate (Jun.22) | actual 3% | consensus 3.00% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019eecd7-ac92-7dd8-b0ab-83f7eab21d33",
+      "time": "2026-06-22 09:00:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【1yr, 5yr LPR unchanged】The PBOC left the 1-year and 5-year loan prime rates (LPR) at 3.00% and 3.50%, respectively, marking the 13th consecutive month without change."
+    },
+    {
+      "id": "4946959",
+      "time": "2026-06-22 09:00:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【財政部：關於在政府採購活動中對有關美國企業採取相關措施的通知】根據有關法律法規，經批准，現決定在政府採購活動中對46家美國企業採取相關措施。具體通知如下： 一、採購人在政府採購活動中，不得采購46家美國企業（不包括在華美資企業）生產的產品。 二、本通知自印發之日起施行。"
+    },
+    {
+      "id": "4946958",
+      "time": "2026-06-22 09:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4210美元/盎司，日內漲1.34%。"
+    },
+    {
+      "id": "4946957",
+      "time": "2026-06-22 09:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報67.48美元/盎司。"
+    },
+    {
+      "id": "4946956",
+      "time": "2026-06-22 09:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4230美元/盎司，日內跌0.37%。"
+    },
+    {
+      "id": "4946955",
+      "time": "2026-06-22 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】白銀連續跌4.37%，碳酸鋰連續跌4.32%，鉑連續跌3.47%，雞蛋連續跌3.33%，鈀連續跌3.00%。"
+    },
+    {
+      "id": "4946954",
+      "time": "2026-06-22 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破67美元/盎司，日內漲0.29%。"
+    },
+    {
+      "id": "4946953",
+      "time": "2026-06-22 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報15980.00元。"
+    },
+    {
+      "id": "4946952",
+      "time": "2026-06-22 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報158400.00元。"
+    },
+    {
+      "id": "4946951",
+      "time": "2026-06-22 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.05%。"
+    },
+    {
+      "id": "4946950",
+      "time": "2026-06-22 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌1%，現報1279.00元。"
+    },
+    {
+      "id": "4946949",
+      "time": "2026-06-22 09:00:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4220美元/盎司，日內跌0.60%。"
+    },
+    {
+      "id": "mkt:019eecd7-24d3-7dd8-b0ab-79ab720a50cb",
+      "time": "2026-06-22 08:59:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "China's Ministry of Finance said it will take measures against relevant U.S. companies in government procurement activities."
+    },
+    {
+      "id": "mkt:019eecd7-0400-7dd8-b0ab-764f789e2914",
+      "time": "2026-06-22 08:59:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran negotiating delegation concludes work; technical team to continue】State news agency reported on June 22 that Iranian Foreign Ministry spokesman Baghaei said the negotiating delegation has concluded its work, while technical teams will continue. Mediators Qatar and Pakistan will issue a text summarising the talks’ key points, which will be submitted as the agreement document."
+    },
+    {
+      "id": "4946948",
+      "time": "2026-06-22 08:59:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報66.21美元/盎司。"
+    },
+    {
+      "id": "4946947",
+      "time": "2026-06-22 08:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：關於落實對方承諾的瑞士會談取得良好進展。"
+    },
+    {
+      "id": "4946946",
+      "time": "2026-06-22 08:57:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗談判代表團工作已結束】據伊朗塔斯尼姆通訊社今天（6月22日）報道，伊朗外交部發言人巴加埃表示，伊朗談判代表團的工作已結束，但技術團隊將繼續工作。接下來將由調解方——卡達和巴基斯坦——釋出一份文字，其中將包含這次會談的各項總體要點。這將作為這次會談中所達成的協議檔案被提交。"
+    },
+    {
+      "id": "4946945",
+      "time": "2026-06-22 08:57:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蜀道裝備將於6月22日調入深股通可買入標的名單】據港交所資訊顯示，在最新一期深股通股票更改表中，蜀道裝備(300540)將於6月22日調入深股通可買入標的名單。2025年年報顯示，蜀道裝備實現營業收入7.1億元，實現淨利潤6008.11萬元，扣非淨利潤為6068.24萬元。自2023年以來，蜀道裝備已連續三年保持大額盈利，該公司以深冷技術裝備製造為核心業務，並在氣體投資運營、清潔能源投資運營和氫能源業務方面也有深度投資。"
+    },
+    {
+      "id": "4946944",
+      "time": "2026-06-22 08:57:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：伊美技術談判將繼續進行】據伊朗媒體22日報道，伊朗外交部發言人巴加埃表示，伊朗談判代表團的工作已經結束，但伊朗和美國的技術談判將繼續進行。（新華社）"
+    },
+    {
+      "id": "mkt:019eecd4-4355-7dd8-b0ab-6a3eb809bc58",
+      "time": "2026-06-22 08:56:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose more than 1.00% intraday, trading at $4,197.44/oz. Spot silver broke above $66/oz, up 1.83% on the day."
+    },
+    {
+      "id": "4946943",
+      "time": "2026-06-22 08:56:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月18日665股獲融資買入超億元 中際旭創穫買入71.74億元居首】6月18日共有3466只個股獲融資資金買入，有665股買入金額超億元。其中，中際旭創、兆易創新、寒武紀融資買入金額排名前三，分別獲買入71.74億元、63.32億元、53.62億元。"
+    },
+    {
+      "id": "4946942",
+      "time": "2026-06-22 08:55:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4197.25美元/盎司。"
+    },
+    {
+      "id": "4946941",
+      "time": "2026-06-22 08:55:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破66美元/盎司，日內漲1.85%。"
+    },
+    {
+      "id": "4946940",
+      "time": "2026-06-22 08:55:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4190美元/盎司，日內漲0.96%。"
+    },
+    {
+      "id": "mkt:019eecd3-6501-7dd8-b0ab-63295fc03789",
+      "time": "2026-06-22 08:55:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran foreign ministry: Iran-U.S. talks make good progress on unfreezing Iranian assets, oil sales licenses】Iranian media on the 22nd reported foreign ministry spokesman Baghaei said Iran and the U.S. discussed oil sales licenses and the unfreezing of Iranian assets and had made good progress."
+    },
+    {
+      "id": "4946939",
+      "time": "2026-06-22 08:55:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本工業機器人股上漲，發那科股價上漲8.2%，安川電機股價上漲9.2%。"
+    },
+    {
+      "id": "4946938",
+      "time": "2026-06-22 08:55:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4210美元/盎司，日內跌0.84%。"
+    },
+    {
+      "id": "4946937",
+      "time": "2026-06-22 08:55:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報9143.63點。"
+    },
+    {
+      "id": "4946936",
+      "time": "2026-06-22 08:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：伊美談判就解凍伊朗資產等取得良好進展】據伊朗媒體22日報道，伊朗外交部發言人巴加埃說，伊朗和美國討論了石油銷售許可證和解凍伊朗資產等問題，並取得了良好進展。（新華社）"
+    },
+    {
+      "id": "4946935",
+      "time": "2026-06-22 08:54:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價收復早前失地，上漲0.1%。"
+    },
+    {
+      "id": "mkt:019eecd2-1c17-7dd8-b0ab-5a541f7ee8e6",
+      "time": "2026-06-22 08:54:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's Foreign Ministry spokesman said officials have discussed preparatory work to launch negotiations on a final agreement."
+    },
+    {
+      "id": "4946934",
+      "time": "2026-06-22 08:53:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：已就啟動最終協議談判的籌備工作展開討論。"
+    },
+    {
+      "id": "mkt:019eecd1-4128-7dd8-b0ab-50b731e5aa30",
+      "time": "2026-06-22 08:53:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry spokesman said an agreement had been reached on arrangements for a mechanism to ensure the safe passage of vessels through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019eecd0-720a-7dd8-b0ab-4df12fd9a3cc",
+      "time": "2026-06-22 08:52:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry spokesman said the document will be formally submitted as the outcome of the 18-hour negotiations."
+    },
+    {
+      "id": "4946933",
+      "time": "2026-06-22 08:52:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：關於船隻安全透過霍爾木茲海峽的問題，雙方同意建立一項機制。"
+    },
+    {
+      "id": "4946932",
+      "time": "2026-06-22 08:51:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美外交官稱美伊預計將“通宵”談判 】一名參與談判的美國高階外交官22日對隨團美國媒體說，美國與伊朗在瑞士比爾根山的談判仍繼續進行，美國代表團預計將“通宵”工作。該外交官表示，伊朗談判代表仍在現場，美國副總統萬斯等美方談判代表一直在與伊方進行會晤和談判。美伊談判內容包括“澄清伊朗方面關於霍爾木茲海峽的一些令人困惑的資訊，並建立衝突消除機制，以確保海峽保持完全開放”，“我們還討論了黎巴嫩南部的衝突消除機制以及執行停火協議的問題”。該外交官還說，雙方已就核協議的所有要素進行了充分討論，並計劃將當天的工作作為未來持續技術會談的起點。（新華社）"
+    },
+    {
+      "id": "4946931",
+      "time": "2026-06-22 08:51:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲2.0個基點，至1.910%。"
+    },
+    {
+      "id": "mkt:019eeccf-5ae5-7dd8-b0ab-43e8d43b1e54",
+      "time": "2026-06-22 08:51:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesperson said mediators from Qatar and Pakistan will issue a text outlining general points."
+    },
+    {
+      "id": "4946930",
+      "time": "2026-06-22 08:51:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：這份檔案將作為18小時會談期間達成的協議檔案被提交。"
+    },
+    {
+      "id": "4946929",
+      "time": "2026-06-22 08:51:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：卡達和巴基斯坦兩位調停人將釋出一份文字，其中將包含總體要點。"
+    },
+    {
+      "id": "4946928",
+      "time": "2026-06-22 08:50:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：伊朗外交部發言人表示，談判代表團的工作已結束，但技術團隊將繼續工作。"
+    },
+    {
+      "id": "mkt:019eecce-6468-7dd8-b0ab-3ad40d5577c0",
+      "time": "2026-06-22 08:50:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TASNIM NEWS: An Iranian Foreign Ministry spokesperson said the negotiating delegation has completed its work, but a technical team will continue working."
+    },
+    {
+      "id": "mkt:019eecce-5798-7dd8-b0ab-312052aae4e1",
+      "time": "2026-06-22 08:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "China's one-year loan prime rate (LPR) for the June 22 fixing will be published in 10 minutes."
+    },
+    {
+      "id": "mkt:019eeccd-1a43-7dd8-b0ab-2af0a720de77",
+      "time": "2026-06-22 08:48:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose 0.59% to trade above $4,180/oz."
+    },
+    {
+      "id": "4946927",
+      "time": "2026-06-22 08:48:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲0.60%。"
+    },
+    {
+      "id": "4946926",
+      "time": "2026-06-22 08:48:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【銀河證券：風波平息後金價有望重回漲勢】中國銀河證券研報表示，2026年上半年中東衝突油價上行，通脹預期加劇，致使市場對美聯儲由降息預期轉為年內加息，疊加流動性兌現，使金價衝高後承壓。當前市場已充分定價下半年美聯儲一次加息的黃金價格，若下半年中東衝突與霍爾木茲海峽封鎖緩解，油價與通脹下行，市場對美聯儲貨幣政策邊際寬鬆預期的升溫，有望驅動金價重回漲勢。而全球秩序、美國債務信用問題的發酵，“去美元”實質化推進全球信用貨幣體系換錨，推動全球央行、投資機構以及個人家庭加大購金與黃金資產配置這一黃金上漲的長期邏輯延續，將支撐黃金價格的中長期上漲趨勢與A股黃金板塊估值的提升。"
+    },
+    {
+      "id": "4946925",
+      "time": "2026-06-22 08:47:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【LG旗下股票大漲 韓媒稱LG高管將訪問英偉達總部討論實體AI】韓國報紙《亞洲商業日報》報道，LG電子、LG CNS、LG Innotek及其他LG集團旗下子公司的管理人員將於週一訪問英偉達總部，討論實體人工智慧(AI)和機器人領域的合作事宜。本月初LG集團董事長Koo Kwang-mo和英偉達執行長黃仁勳曾在首爾會面。LG電子週一在首爾一度上漲12%；LG CNS上漲14%；LG Corp.上漲7%。"
+    },
+    {
+      "id": "mkt:019eeccb-fcfe-7dd8-b0ab-25730ebf8ed6",
+      "time": "2026-06-22 08:47:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Shanghai and Shenzhen margin financing balances rise CNY12.808 bln】As of June 18, margin financing balance on the Shanghai Stock Exchange was CNY1.495186 trillion, up CNY6.974 billion from the prior trading day; Shenzhen Stock Exchange was CNY1.439473 trillion, up CNY5.834 billion; combined CNY2.934659 trillion, up CNY12.808 billion."
+    },
+    {
+      "id": "4946924",
+      "time": "2026-06-22 08:47:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數延續漲勢，最新上漲1.42%，報72,265.13點。"
+    },
+    {
+      "id": "4946923",
+      "time": "2026-06-22 08:46:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加128.08億元】截至6月18日，上交所融資餘額報14951.86億元，較前一交易日增加69.74億元；深交所融資餘額報14394.73億元，較前一交易日增加58.34億元；兩市合計29346.59億元，較前一交易日增加128.08億元。"
+    },
+    {
+      "id": "4946922",
+      "time": "2026-06-22 08:46:21",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：泡泡瑪特新款Labubu玩偶或難成短期催化劑】花旗集團表示，泡泡瑪特新推出的Labubu毛絨玩具“THE MONSTERS美髮沙龍”系列在社交媒體上的反饋褒貶不一，可能不會成為短期催化劑。分析師Lydia Ling等人在一份報告中指出：“該系列自發布以來受到廣泛關注，但關於設計的線上評價則褒貶參半。”此次新品的一大亮點在於髮型設計，採用了新型絲絨材質與工藝，為使用者提供了更多DIY造型的空間。目前，“MOKOKO絲絨午後”款式最受歡迎，二級市場價格已出現溢價；其次是“海岸風情”和“天生叛逆”，在Qianda平臺趨勢資料中表現靠前；而其餘三款標準款需求相對較低，二級市場價格低於原價。截至6月21日晚，其抖音旗艦店預約人數已超1.7萬，天貓旗艦店超1萬，小紅書平臺超3000人。該系列將於6月25日線上發售，6月26日線下開售。"
+    },
+    {
+      "id": "4946921",
+      "time": "2026-06-22 08:45:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4200美元/盎司，日內跌1.07%。"
+    },
+    {
+      "id": "mkt:019eecc9-b8bd-7dd8-b0ab-1ad59d109a83",
+      "time": "2026-06-22 08:45:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1.00% intraday, trading at $65.47/oz."
+    },
+    {
+      "id": "4946920",
+      "time": "2026-06-22 08:44:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報65.48美元/盎司。"
+    },
+    {
+      "id": "mkt:019eecc8-fbc2-7dd8-b0ab-10b2ce8c3629",
+      "time": "2026-06-22 08:44:15",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【BOJ power reshuffle: Takaichi's appointees could alter rate path】A lone dissent at the Bank of Japan’s latest rate decision signals a narrowing window for policy normalization. The dissent came from new member Asada—Takaichi’s first policy board appointee—who, attending only his second meeting, opposed lifting the benchmark rate to levels not seen since 1995 and signalled clear support for looser policy. Sanae Takaichi plans to appoint another pro-reflation board member this month to replace Junko Nakagawa at the end of her term, and two other firmly hawkish members face expiry in about a year, giving her scope to reshape the nine‑member policy board and shift its overall tilt under Governor Kazuo Ueda."
+    },
+    {
+      "id": "4946919",
+      "time": "2026-06-22 08:44:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全國首單超輕型eVTOL跨境保險落地前海】據深圳特區報，近日，深港兩地保險公司攜手以“深圳承保、香港出單、跨境分回”新模式，幫助前海低空飛行企業英武智慧科技為旗下超輕型電動垂直起降飛行器（eVTOL）在香港購買低空飛行保險，破解了內地低空企業在港“無保不能飛、不敢飛”的難題。這是全國首單超輕型eVTOL跨境保險。此次投保，雙方開創了“深圳承保、香港出單、跨境分回”的新正規化。深圳方面發揮低空保險產品先行先試優勢，承擔風險評估、方案定製、報價承保等工作；香港方面承接保單屬地化合規對接與出單落地工作，全面保障飛行中的各類突發狀況。"
+    },
+    {
+      "id": "4946918",
+      "time": "2026-06-22 08:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信AI助手“小微”小範圍灰度上線 AI應用或迎最佳投資擊球區】微信AI已小範圍灰度上線。部分網友微信主介面左上角已出現小眼睛式樣圖示，該圖示即為AI助手“小微”測試版入口。據騰訊客服介紹，微信小微是微信團隊在小範圍內測的原生AI助手，小微支援透過文字或語音對話操作微信原生功能、調起小程式等，例如幫助好友傳送訊息、查詢朋友圈、預約服務等。"
+    },
+    {
+      "id": "4946917",
+      "time": "2026-06-22 08:43:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信達生物：IBI3003治療二至五線多發性骨髓瘤的中國關鍵III期臨床研究完成首例受試者給藥】6月22日，信達生物製藥集團宣佈，其自主研發的創新型抗GPRC5D/BCMA/CD3三特異性抗體IBI3003，用於治療二至五線多發性骨髓瘤（R/R MM）的中國關鍵III期臨床研究（TriadicMM-1）完成首例受試者給藥。"
+    },
+    {
+      "id": "mkt:019eecc8-6e1a-7dd8-b0ab-0ffeed54e47d",
+      "time": "2026-06-22 08:43:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Galaxy Securities: Gold likely to resume uptrend once tensions ease】Galaxy Securities says 1H26 Middle East conflict pushed oil and inflation expectations higher, flipping market expectations from Fed cuts to a possible in‑year hike and, together with liquidity realization, caused gold to spike then come under pressure. Markets have largely priced a single Fed hike in H2 into gold. If H2 sees easing of the Middle East conflict and any Hormuz blockade, oil and inflation would likely fall and market expectations for marginal Fed easing could re-emerge, supporting a renewed gold rally. Separately, escalating strains in global order and US debt/credit risks are accelerating de‑dollarization and a re‑anchoring of the global credit/currency system, prompting central banks, institutions and households to increase gold allocations; Galaxy says this supports a medium‑to‑long‑term uptrend in bullion and higher valuations for China’s A‑share gold sector."
+    },
+    {
+      "id": "4946916",
+      "time": "2026-06-22 08:43:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破66美元/盎司，日內跌1.15%。"
+    },
+    {
+      "id": "mkt:019eecc7-db3a-7dd8-b0ab-008ceaa6e03e",
+      "time": "2026-06-22 08:43:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China week of June 8-14 hog procurement and dressed pork factory-gate prices】Ministry of Agriculture and Rural Affairs monitoring for June 8-14, 2026: average hog procurement price at designated slaughterhouses 11.11 yuan/kg, down 0.5% week-on-week and 29.1% year-on-year. Average dressed pork factory-gate price 14.69 yuan/kg, down 0.3% week-on-week and 28.7% year-on-year."
+    },
     {
       "id": "4946915",
       "time": "2026-06-22 08:41:06",
@@ -158814,745 +159650,6 @@
         "Brent"
       ],
       "text": "Japanese Prime Minister Sanae Takaichi said she hopes the memorandum will be implemented steadily, that freedom and security of navigation through the Strait of Hormuz will be effectively guaranteed, and that the Iran nuclear issue and other outstanding matters will reach a final agreement as soon as possible."
-    },
-    {
-      "id": "mkt:019ec8d0-60b5-7dd8-affa-429d515a64e7",
-      "time": "2026-06-15 09:05:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Front-month fuel oil futures plunged 8.00% intraday to 3,382 yuan/ton."
-    },
-    {
-      "id": "te:economy:558848",
-      "time": "2026-06-15 09:05:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Hits 1-Month Low — The yield on the 10-year US Treasury note declined to around 4.43% on Monday, reaching its lowest level in a month after the US and Iran reached a peace agreement that would reopen the Strait of Hormuz. The development sent oil prices to a two-month low, easing concerns over inflationary pressures and reducing expectations of tighter monetary policy. The agreement is due to be signed in Switzerland on June 19 and reportedly includes the removal of blockades, sanctions relief for Iran, and the dismantling of Tehran’s nuclear program. Investors are now focused on the US Federal Reserve’s first policy meeting under new chair Kevin Warsh, where policymakers are widely expected to leave interest rates unchanged. Elsewhere, the Reserve Bank of Australia and the Bank of England are also expected to keep policy settings intact this week, while the Bank of Japan is anticipated to raise rates to support the yen."
-    },
-    {
-      "id": "mkt:019ec8d0-149f-7dd8-affa-3cda7b90807c",
-      "time": "2026-06-15 09:05:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Iran's security council reiterated that the US-Iran agreement includes an immediate and permanent end to hostilities in Lebanon."
-    },
-    {
-      "id": "4935132",
-      "time": "2026-06-15 09:05:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌8%，現報3382.00元。"
-    },
-    {
-      "id": "4935131",
-      "time": "2026-06-15 09:05:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內跌5%，現報4248.00元。"
-    },
-    {
-      "id": "4935130",
-      "time": "2026-06-15 09:04:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌7%，現報4128.00元。"
-    },
-    {
-      "id": "mkt:019ec8ce-2fd8-7dd8-affa-30e03ed4a6ef",
-      "time": "2026-06-15 09:03:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. Vice President Vance said Trump may travel to Geneva to attend a signing ceremony."
-    },
-    {
-      "id": "4935129",
-      "time": "2026-06-15 09:03:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中國與印度尼西亞主管部門間第十二次衛星網路協調會談順利舉行】2026年6月8日至12日，工業和資訊化部無線電管理局與印度尼西亞無線電主管部門在印度尼西亞日惹舉行第十二次衛星網路協調會談。雙方在國際電信聯盟《無線電規則》框架下，就高低軌多個衛星系統的100餘項議題開展磋商，涉及衛星通訊、衛星氣象、北斗短報文等多種業務。雙方充分交換意見並達成多項共識，共同簽署了會議紀要。會談的成功舉辦，促進了兩國衛星系統的頻率相容共用，有助於加快我國衛星網路國際協調程序，推動我國航天工程建設。本次會談，中方代表團由工業和資訊化部無線電管理局、國家無線電頻譜管理中心、國家衛星氣象中心、北京跟蹤與通訊技術研究所、中國衛星網路集團有限公司、中國衛通集團股份有限公司、上海垣信衛星科技有限公司，以及香港通訊事務管理局辦公室、亞太通訊衛星有限公司、亞洲衛星有限公司等單位組成。印尼代表團由印度尼西亞通訊和數字事務部衛星頻譜規劃與軌道管理局、印度尼西亞電信公司、印度尼西亞人民銀行、PSN衛星公司、PTSMA公司等單位組成。（工信部）"
-    },
-    {
-      "id": "mkt:019ec8cd-9998-7dd8-affa-2de2db484dd2",
-      "time": "2026-06-15 09:02:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China, Indonesia complete 12th satellite coordination talks; agree frequency compatibility】June 8-12 — China and Indonesia held their 12th satellite network coordination talks in Yogyakarta under the framework of the ITU Radio Regulations. Delegations negotiated more than 100 items across GEO and LEO systems covering satellite communications, meteorological satellites and Beidou short-message services. The sides exchanged views, reached multiple consensuses and signed meeting minutes. China said the talks advance bilateral frequency compatibility and shared use, accelerate China’s international satellite coordination and support domestic aerospace projects. The Chinese delegation included MIIT’s Radio Administration, the National Radio Spectrum Management Center, the National Satellite Meteorological Center and state/commercial satellite operators including China Satellite Network Group and China Satcom; the Indonesian delegation comprised regulators and domestic satellite operators."
-    },
-    {
-      "id": "4935127",
-      "time": "2026-06-15 09:02:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "黃金連續主力合約日內漲4%，現報937.02元。"
-    },
-    {
-      "id": "4935126",
-      "time": "2026-06-15 09:02:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡海峽時報指數上漲1%，至5076.07點。"
-    },
-    {
-      "id": "4935125",
-      "time": "2026-06-15 09:01:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內跌4%，現報4294.00元。"
-    },
-    {
-      "id": "4935124",
-      "time": "2026-06-15 09:01:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "新加坡海峽時報指數開盤上漲0.7%，至5061.05點。馬來西亞吉隆坡綜合指數開盤上漲0.4%，至1690.39點。"
-    },
-    {
-      "id": "4935123",
-      "time": "2026-06-15 09:01:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌5%，現報2871.00元。"
-    },
-    {
-      "id": "mkt:019ec8cc-254a-7dd8-affa-25b4cf6bca94",
-      "time": "2026-06-15 09:01:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D rose 2.49% in early Monday trade (June 15) to 931.0 yuan/gram; silver T+D gained 6.33% to 16,858.0 yuan/kilogram."
-    },
-    {
-      "id": "mkt:019ec8cc-1809-7dd8-affa-1fe44b6d05a4",
-      "time": "2026-06-15 09:01:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Taiwan's TAIEX opened 1,254.51 points higher, or 2.84%, at 45,423.55 on Monday, June 15."
-    },
-    {
-      "id": "4935122",
-      "time": "2026-06-15 09:01:13",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院任命澳門特別行政區政府經濟財政司司長】依照《中華人民共和國澳門特別行政區基本法》的有關規定，根據澳門特別行政區行政長官岑浩輝的提名，國務院2026年6月10日決定：任命吳惠嫻（女）為經濟財政司司長。(新華社)"
-    },
-    {
-      "id": "4935121",
-      "time": "2026-06-15 09:00:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲8%，現報16930.00元。"
-    },
-    {
-      "id": "4935120",
-      "time": "2026-06-15 09:00:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌3%，現報4506.00元。"
-    },
-    {
-      "id": "te:markets:558847",
-      "time": "2026-06-15 09:00:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Hits Multi-Year High — The offshore yuan strengthened to around 6.75 per dollar on Monday, extending gains from the previous week and reaching its highest level since January 2023, as a reported US-Iran peace breakthrough triggered broad-based dollar weakness and boosted regional currencies. The tentative agreement reportedly includes the reopening of the Strait of Hormuz, a cessation of hostilities, and a framework for negotiations over Iran's nuclear program. Iranian Deputy Foreign Minister Kazem Gharibabadi also confirmed the agreement, with officials from both countries expected to meet in Switzerland to formally sign the deal. However, key details remain unresolved, while no official text has yet been released. On the domestic front, investors continued to assess the strength of China's economy following recent signs of uneven growth, particularly industrial production, retail sales, and unemployment figures."
-    },
-    {
-      "id": "mkt:019ec8cb-9fb8-7dd8-affa-10b733cc1e96",
-      "time": "2026-06-15 09:00:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China MSA website: Dalian Maritime Safety Administration issued a navigational warning—parts of the northern Yellow Sea will be closed to navigation for live-fire exercises from June 16 10:00 to June 18 17:00."
-    },
-    {
-      "id": "4935119",
-      "time": "2026-06-15 09:00:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新疆維吾爾自治區巴音郭楞蒙古自治州黨委常委徐凱接受審查調查】中央紀委國家監委網站6月15日通報，據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區巴音郭楞蒙古自治州黨委常委、政法委書記徐凱涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019ec8cb-7fb4-7dd8-affa-0acc00359873",
-      "time": "2026-06-15 09:00:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "At the open, China’s main futures contracts were mixed. SHFE silver jumped more than 7%; SHFE gold and tin rose over 3%; coke gained more than 2%; glass and SHFE zinc were up about 2%; soda ash and rubber rose over 1%. Shanghai crude (SC) plunged more than 7%; fuel oil fell nearly 7%; liquefied petroleum gas (LPG) dropped over 6%; low‑sulfur fuel oil (LU) lost over 5%; bitumen and styrene (EB) fell more than 2%; ethylene glycol (EG) was down nearly 2%; polypropylene declined over 1%."
-    },
-    {
-      "id": "4935118",
-      "time": "2026-06-15 09:00:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內跌3%，現報8241.00元。"
-    },
-    {
-      "id": "4935117",
-      "time": "2026-06-15 09:00:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元上漲0.3%至31.520。"
-    },
-    {
-      "id": "4935116",
-      "time": "2026-06-15 09:00:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瓶片連續主力合約日內跌4%，現報7336.00元。"
-    },
-    {
-      "id": "4935115",
-      "time": "2026-06-15 09:00:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "塑膠連續主力合約日內跌3%，現報7692.00元。"
-    },
-    {
-      "id": "4935114",
-      "time": "2026-06-15 09:00:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲3%至279.91點。"
-    },
-    {
-      "id": "4935113",
-      "time": "2026-06-15 09:00:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲2.7%至45,379.79點。"
-    },
-    {
-      "id": "4935112",
-      "time": "2026-06-15 09:00:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌3%，現報8375.00元。"
-    },
-    {
-      "id": "mkt:019ec8cb-32bc-7dd8-affa-02e7fa6e4895",
-      "time": "2026-06-15 09:00:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "FTSE China A50 futures opened 0.57% higher."
-    },
-    {
-      "id": "4935111",
-      "time": "2026-06-15 09:00:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1.3%至44,746.28點。"
-    },
-    {
-      "id": "4935110",
-      "time": "2026-06-15 09:00:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌4%，現報6078.00元。"
-    },
-    {
-      "id": "4935109",
-      "time": "2026-06-15 09:00:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內跌4%，現報8436.00元。"
-    },
-    {
-      "id": "4935108",
-      "time": "2026-06-15 09:00:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.6%報44,447.87。"
-    },
-    {
-      "id": "4935107",
-      "time": "2026-06-15 09:00:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內跌3%，現報4336.00元。"
-    },
-    {
-      "id": "4935106",
-      "time": "2026-06-15 09:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內跌6%，現報5150.00元。"
-    },
-    {
-      "id": "4935105",
-      "time": "2026-06-15 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌6%，現報4170.00元。"
-    },
-    {
-      "id": "4935104",
-      "time": "2026-06-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌7%，現報528.60元。"
-    },
-    {
-      "id": "4935103",
-      "time": "2026-06-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內跌5%，現報5174.00元。"
-    },
-    {
-      "id": "4935102",
-      "time": "2026-06-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌7%，現報3419.00元。"
-    },
-    {
-      "id": "4935101",
-      "time": "2026-06-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲7%，現報16883.00元。"
-    },
-    {
-      "id": "4935100",
-      "time": "2026-06-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌4%，現報2891.00元。"
-    },
-    {
-      "id": "4935099",
-      "time": "2026-06-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌3%，現報6130.00元。"
-    },
-    {
-      "id": "4935098",
-      "time": "2026-06-15 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.73%。"
-    },
-    {
-      "id": "4935097",
-      "time": "2026-06-15 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "期市早盤開盤，國內期貨主力合約多數上漲。漲幅方面，滬銀漲超7%，鈀、滬金、滬錫漲超3%，焦炭、鉑漲超2%，玻璃、滬鋅、純鹼、橡膠漲超1%。跌幅方面，原油跌超7%，LPG、燃油跌超6%，低硫燃油跌超5%，苯乙烯、瀝青跌超2%，歐線集運、塑膠、聚丙烯、乙二醇跌超1%。"
-    },
-    {
-      "id": "4935096",
-      "time": "2026-06-15 08:59:55",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：投資者對美伊協議應保持謹慎】eToro首席分析師Josh Gilbert在一份報告中表示，投資者應謹慎行事，因為美伊協議要到週五才會簽署，細節很少，而且衝突已經不止一次表明訊息面可能會瞬間發生變化。他說，在協議簽署之前，緊張情緒不會完全平復，這意味著投資者仍應保持謹慎。然而，對全球投資者而言，更廣泛的解讀是具有建設性的，因為油價的持續下跌減輕了央行的一些壓力，尤其是在未來一週將迎來多項重大央行利率決定的背景下。Gilbert補充說，中東問題的解決將消除一個全年都在拖累全球增長預期的重大尾部風險。"
-    },
-    {
-      "id": "te:markets:558845",
-      "time": "2026-06-15 08:59:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Approaches 3-Month Low — US heating oil prices dropped below $3.30 per gallon, approaching their lowest level in more than three months, after reports showed the US and Iran reached a deal that could pave the way for a gradual return of energy exports from the Middle East. President Donald Trump said the deal was “now complete,” adding that the Strait of Hormuz would reopen without transit fees and sanctions-related restrictions on Iran would be lifted once the agreement is signed on June 19. Iranian Deputy Foreign Minister Kazem Gharibabadi confirmed the agreement, though he said the text would remain confidential until the official signing ceremony. While this eases concerns for Gulf producers, the path to restoring flows still has hurdles, including mine clearance and how strictly Iran will regulate maritime passage. Producers cautioned that a complete recovery could take months, citing technical and geological constraints and infrastructure damage."
-    },
-    {
-      "id": "te:markets:558844",
-      "time": "2026-06-15 08:59:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Falls on US-Iran Peace Deal — The dollar index slipped to around 99.5 on Monday, marking its lowest level in more than a week after the US and Iran struck a peace agreement that would restore access through the Strait of Hormuz, curbing demand for the dollar as a safe-haven asset. The announcement also pushed oil prices to a two-month low, helping ease fears of stronger inflation and tighter monetary policy. The agreement is expected to be signed in Switzerland on June 19 and reportedly includes lifting blockades, easing sanctions on Iran, and dismantling Tehran’s nuclear program. Investors are now turning their attention to the US Federal Reserve’s first policy meeting under new chair Kevin Warsh, with markets widely expecting rates to remain unchanged. The Reserve Bank of Australia and the Bank of England are also seen holding policy steady this week, while the Bank of Japan is expected to raise interest rates to bolster its currency."
-    },
-    {
-      "id": "4935095",
-      "time": "2026-06-15 08:59:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參6月15日價格釋出：精品飛天茅臺齊漲 總價創23天以來新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價6月15日整體顯著回升。如果主要單品各取一瓶整體打包售賣，今日總售價為9945元，較昨日大幅上漲39元，連續兩日回升後創下23天以來最高。市場在前期低位震盪後明顯修復，終端交投情緒回暖，今日除洋河夢之藍M6+與水晶劍南春微跌外，其餘品種均上漲或持平，帶動總價進一步向9950元一線逼近。今日11大白酒單品八漲兩跌一平，贏家佔據絕對優勢。上漲方面，古井貢古20漲幅居前，上漲8元/瓶，價格升至進入六月以來次高位；青花郎上漲7元/瓶，重新登上700元關口，創進入六月以來最高；精品茅臺上漲6元/瓶，且成交量明顯放大；國窖1573與習酒君品均上漲5元/瓶，其中前者連續兩日反彈，重返890元關口，後者連續兩日修復，平近半個月最高價格紀錄；五糧液普五八代與青花汾20均上漲4元/瓶；飛天茅臺上漲2元/瓶，終結此前四連陰。下跌方面，洋河夢之藍M6+與水晶劍南春均小幅下跌1元/瓶。五糧液1618價格環比保持不變，仍平近一月最低價紀錄。"
-    },
-    {
-      "id": "4935094",
-      "time": "2026-06-15 08:58:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球基金對韓國股票的買入量創一個月新高】6月12日，韓國股市迎來了全球投資者一個月內最高的淨買入量。根據韓國金融監督管理機構的資料，6月12日，海外資金淨買入5.676億美元債券，為連續第26個交易日買入。根據交易所資料，6月12日海外資金淨買入16.4億美元韓國股票，規模為自2026年5月6日以來的最大。"
-    },
-    {
-      "id": "4935093",
-      "time": "2026-06-15 08:58:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月12日566股獲融資買入超億元 中際旭創穫買入46.49億元居首】6月12日共有3466只個股獲融資資金買入，有566股買入金額超億元。其中，中際旭創、新易盛、兆易創新融資買入金額排名前三，分別獲買入46.49億元、39.27億元、34.47億元。"
-    },
-    {
-      "id": "4935092",
-      "time": "2026-06-15 08:57:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盤古智慧：公司產品可全面適配陸上、海上風電應用場景】盤古智慧(301456)6月15日在互動平臺表示，公司產品可全面適配陸上、海上風電應用場景。針對海上高鹽霧、強腐蝕的嚴苛環境，公司對海上風電配套產品進行高防腐、高可靠性等專項效能升級，打造適配海上風電的專用解決方案。公司產品已覆蓋國內外主流風機廠商，業務佈局穩步落地。"
-    },
-    {
-      "id": "4935091",
-      "time": "2026-06-15 08:55:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "上海瑞威資產管理股份有限公司在香港暫停交易。"
-    },
-    {
-      "id": "4935090",
-      "time": "2026-06-15 08:55:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據報道，印度國家銀行（SBI）、新加坡政府投資公司（GIC）等持有者計劃在印度國家證券交易所（NSE）首次公開募股（IPO）中出售約10%的股份。"
-    },
-    {
-      "id": "4935089",
-      "time": "2026-06-15 08:54:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖南已發放17張資料產權登記證書】據湖南日報，記者近日從湖南省資料局獲悉，截至目前，湖南省已發放17張資料產權登記證書，涵蓋智慧交通、現代農業、生物醫藥、綠色環保等領域，這標誌著湖南在資料基礎制度建設中邁出關鍵一步，資料產權登記工作從制度設計進一步走向實踐落地。"
-    },
-    {
-      "id": "4935088",
-      "time": "2026-06-15 08:54:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度國家證券交易所 (NSE) 本週將提交印度IPO申請檔案。（MINT）"
-    },
-    {
-      "id": "4935087",
-      "time": "2026-06-15 08:52:39",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通：下調MiniMax至中性並下調目標價】 摩根大通稱，相比同行，自M2模型之後MiniMax尚未推出新的國產SOTA(最先進)模型，且從純模型能力角度，MiniMax仍在追趕階段。將公司評級下調至中性，並將其目標價從1100港元降至400港元。分析師Olivia Xu等在報告中指出，MiniMax對M3進行降價，向DeepSeek價格區間靠攏，而智譜今年以來API(應用程式介面)的價格漲了一倍，同時銷量保持增長。隨著行業變現路徑逐漸收斂至API、編碼、智慧體和企業工作流，模型能力領先性變得越來越關鍵，因為定價權將更多取決於能力，而不僅僅是產品覆蓋廣度或使用規模。將公司2026-2027年的營收預測上調34%-74%，但將2028-2030年的預測下調5%-21%。仍維持對智譜的超配評級，因其持續推出SOTA模型，商業價值兌現更加明確。"
-    },
-    {
-      "id": "mkt:019ec8c3-6f81-7dd8-aff9-fcdf9ae2c9a3",
-      "time": "2026-06-15 08:51:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 jumped 5.00% intraday to 69,348.55 points."
-    },
-    {
-      "id": "4935086",
-      "time": "2026-06-15 08:51:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濰柴動力：5月份重卡市場需求仍然強勁，行業銷量保持同比增長態勢】 濰柴動力(000338)在機構調研中表示，5月份重卡市場需求仍然強勁，行業銷量保持同比增長態勢。根據中汽協統計資料，2026年1-5月份重卡行業銷量54.4萬輛，同比增長23%。預計在國內外需求的雙重推動下，全年重卡行業銷量將保持穩定增長。在此背景下，公司精準突破細分市場，穩固行業領先優勢，著力最佳化產品與業務結構，重卡發動機銷量實現同比穩定提升。"
-    },
-    {
-      "id": "4935085",
-      "time": "2026-06-15 08:51:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數上漲5%，至69322.76點，續創新高。"
-    },
-    {
-      "id": "te:markets:558843",
-      "time": "2026-06-15 08:50:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Prices Hit 8-Week Low — US gasoline prices declined to about $2.90 per gallon, the lowest since April 17, following reports that the US and Iran had reached a peace deal that could gradually normalize Middle East energy exports. President Donald Trump said on social media the deal was “now complete,” with the Strait of Hormuz to reopen without transit fees and the Iran blockade lifted once signed on June 19. Iranian Deputy Foreign Minister Kazem Gharibabadi also confirmed an agreement had been reached but said details would remain confidential until the signing ceremony. While the deal has eased supply concerns for Gulf producers and shippers, key hurdles remain before flows through Hormuz can fully resume, including mine clearance and uncertainty over Iran’s plans to tighten control over shipping. Producers also warned that full recovery could take months due to technical and geological challenges and infrastructure damage."
-    },
-    {
-      "id": "te:markets:558842",
-      "time": "2026-06-15 08:49:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Surge to Fresh Record Highs — The Nikkei 225 Index jumped nearly 5% to above 69,000 on Monday, setting new record highs as investors cheered a breakthrough agreement to end the conflict between the US and Iran that would reopen the Strait of Hormuz. Oil prices dropped to a two-month low following the announcement, easing inflation concerns and reducing cost pressures for major energy importers such as Japan. Meanwhile, the Bank of Japan is widely expected to raise interest rates this week to contain inflation and support the yen. Broader market sentiment was also lifted by SpaceX’s strong debut on Friday, reinforcing investor appetite for high-profile growth stories. Technology and AI-related shares led the advance, with Kioxia up 7.5%, Murata Manufacturing gaining 14.3%, SoftBank Group rising 9.4%, Advantest adding 7.1%, and Tokyo Electron climbing 7.5%."
-    },
-    {
-      "id": "4935084",
-      "time": "2026-06-15 08:49:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞 S&P/ASX 200 指數 上漲多達 1.5%，至 8,935.10 點，為 4 月 22 日以來最高。"
-    },
-    {
-      "id": "4935083",
-      "time": "2026-06-15 08:48:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "浦江中國控股有限公司在香港暫停交易。"
-    },
-    {
-      "id": "mkt:019ec8bf-31db-7dd8-aff9-f7fdb28dc0b9",
-      "time": "2026-06-15 08:47:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US 10-year Treasury yield fell 6 bps to 4.4197%, a one-month low."
-    },
-    {
-      "id": "mkt:019ec8bf-28fe-7dd8-aff9-ea5717017d59",
-      "time": "2026-06-15 08:47:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Margin balances across Shanghai and Shenzhen down CNY 402 mln】As of June 12, margin financing balance on the Shanghai Stock Exchange stood at CNY 1,448.896 bln, up CNY 649 mln from the prior trading day; Shenzhen was CNY 1,394.518 bln, down CNY 1,051 mln. Combined margin balance was CNY 2,843.414 bln, down CNY 402 mln versus the previous session."
-    },
-    {
-      "id": "4935082",
-      "time": "2026-06-15 08:46:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額減少4.02億元】截至6月12日，上交所融資餘額報14488.96億元，較前一交易日增加6.49億元；深交所融資餘額報13945.18億元，較前一交易日減少10.51億元；兩市合計28434.14億元，較前一交易日減少4.02億元。"
-    },
-    {
-      "id": "4935081",
-      "time": "2026-06-15 08:46:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期公債收益率下跌6個基點，至4.4197%的一個月低點。"
-    },
-    {
-      "id": "4935080",
-      "time": "2026-06-15 08:46:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯圖拉州州長稱，該州首府圖拉市遭無人機襲擊，造成三人死亡、三人受傷。"
-    },
-    {
-      "id": "4935079",
-      "time": "2026-06-15 08:46:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百洋醫藥與濟南君心腫瘤醫院簽約共建ZAP-X放射外科治療中心】 2026年6月14日，百洋醫藥與濟南君心腫瘤醫院簽署戰略合作協議，雙方將圍繞ZAP-X®火星舟放射外科機器人（簡稱“ZAP-X”）共建精準放射外科治療中心，標誌著ZAP-X在中國的臨床應用邁入區域拓展的規模化新階段。目前在首都醫科大學宣武醫院、北京大學國際醫院的ZAP-X放射外科治療中心已完成初始裝機，即將開展臨床應用或相關研究。"
-    },
-    {
-      "id": "4935078",
-      "time": "2026-06-15 08:46:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美承諾從伊朗周邊撤出軍隊】伊朗邁赫爾通訊社當地時間今天（6月15日）凌晨披露了伊美諒解備忘錄14個條款。其中包括：\n＊要求在所有戰線（包括黎巴嫩）實現立即、永久的停火；\n＊美國承諾不干涉伊朗內政，並尊重伊朗主權；\n＊美國在30天內完全解除海上封鎖；\n＊美國承諾從伊朗周邊地區撤出部隊；\n＊在30天內根據伊朗的安排重新開放霍爾木茲海峽；\n＊美國暫停對伊朗石油和石化產品的銷售制裁；\n＊美國及其盟友必須提交總額至少3000億美元的伊朗重建計劃；\n＊重申伊朗在《不擴散核武器條約》框架下不發展核武器的承諾；\n＊在最終協議談判期間，美國承諾不向地區增派兵力，也不會實施新的制裁；\n＊為達成最終協議進行為期60天的談判，內容基於核問題，並徹底解除美國的一級與二級制裁，以及聯合國安理會和國際原子能機構理事會的相關決議；\n＊在最終談判開始前，必須解凍伊朗被凍結的240億美元資金中的一半——而解凍資金、在豁免對伊朗石油制裁以及解除海上封鎖之前，不會啟動最終協議談判；\n＊建立監督機制以執行該協議；\n＊最終協議將獲得聯合國安理會決議的背書；\n＊伊朗導彈計劃、伊朗對地區抵抗陣線的支援將被排除在最終協議談判之外。（CCTV國際時訊）"
-    },
-    {
-      "id": "4935077",
-      "time": "2026-06-15 08:45:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【朗特智慧：控股子公司朗擎數科專注於液冷算力一體機及算力服務】朗特智慧(300916)6月15日在互動平臺表示，公司控股子公司朗擎數科專注於液冷算力一體機及算力服務，公司的浸沒式液冷一體機系統涉及高速資料傳輸環節，以支撐高效能運算場景的穩定執行。"
-    },
-    {
-      "id": "te:markets:558841",
-      "time": "2026-06-15 08:45:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Shares Extend Rally to 7-Week High on Gulf Peace Accord — Australian equities surged 124 points, or 1.4%, to 8,928 in early Monday trade, building solid gains from the previous session and marking their highest level in over seven weeks. Sentiment was buoyed by a surge in U.S. stock futures after Washington and Tehran reached an interim peace deal, easing inflationary pressures and reducing the likelihood of further rate hikes. Locally, optimism mounted that the Reserve Bank will hold cash rates steady at Tuesday’s policy meeting following three increases earlier this year. However, caution set in ahead of China’s May activity data, with investors awaiting figures on industrial output, retail sales, and unemployment from Australia’s largest trading partner. Nearly all sectors advanced, led by non-energy minerals, industrial services, consumers, and financials. Standouts included BHP Group (3.5%), Evolution Mining (8.3%), Sigma Healthcare (7.6%), and Northern Star Resources (5.7%), while the four big banks rose between 0.9% and 2%."
-    },
-    {
-      "id": "4935076",
-      "time": "2026-06-15 08:44:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本東證指數升至紀錄高位。"
-    },
-    {
-      "id": "4935075",
-      "time": "2026-06-15 08:44:50",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本衛星殘骸清除公司Astroscale Holdings股價下跌21%，此前該公司預計財年淨虧損擴大。"
-    },
-    {
-      "id": "mkt:019ec8bc-e15e-7dd8-aff9-e6d12587b985",
-      "time": "2026-06-15 08:44:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Japan's TOPIX hit a record high."
-    },
-    {
-      "id": "mkt:019ec8ba-de52-7dd8-aff9-dadba52f6232",
-      "time": "2026-06-15 08:42:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Daxiao Robotics completes angel-plus funding round】Daxiao Robotics said it has completed an angel-plus financing round with participation from Geely Capital, Dachen Caizhi, Shenzhen Capital Group, Shanghai Sci-Tech Innovation Fund and Muxi Co. The company has raised several hundred million dollars in total in 1H 2026."
     }
   ]
 }
