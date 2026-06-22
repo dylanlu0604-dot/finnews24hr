@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-22 23:57:43",
-  "count": 17308,
+  "updated": "2026-06-23 00:02:51",
+  "count": 17295,
   "items": [
+    {
+      "id": "4948757",
+      "time": "2026-06-22 23:58:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加利福尼亞州就特朗普政府將州議會車輛排放法規送交可能廢除一事提起訴訟。"
+    },
+    {
+      "id": "mkt:019ef00d-32f1-7dd8-b0c2-036432429c6a",
+      "time": "2026-06-22 23:57:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "IRNA: Iranian negotiating delegation has departed for Muscat, Oman, to discuss a management plan for the Strait of Hormuz."
+    },
     {
       "id": "mkt:019ef00b-cc85-7dd8-b0c1-ff0fa004021b",
       "time": "2026-06-22 23:56:05",
@@ -158893,151 +158912,6 @@
         "國際"
       ],
       "text": "美國高階官員： 美方要求伊朗採取可核查、不可逆轉的相關舉措。"
-    },
-    {
-      "id": "mkt:019ecc05-43e2-7dd8-b013-2e436c198196",
-      "time": "2026-06-16 00:02:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. officials said Washington may take modest measures on sanctions and funding and is willing to release funds in stages."
-    },
-    {
-      "id": "4936933",
-      "time": "2026-06-16 00:02:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：將於 Facebook 上線搜尋、內容創作全新人工智慧功能。"
-    },
-    {
-      "id": "4936932",
-      "time": "2026-06-16 00:02:08",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國高階官員：美國準備解凍凍結資金並放寬制裁，談判初期或將出臺部分小幅善意舉措。"
-    },
-    {
-      "id": "4936931",
-      "time": "2026-06-16 00:01:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：美國可在制裁、資金解凍方面釋放小幅善意舉措。"
-    },
-    {
-      "id": "4936930",
-      "time": "2026-06-16 00:01:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲3.00%，現報26665.742點；道指漲1.39%，現報51912.961點；標普500指數漲1.93%，現報7574.970點。"
-    },
-    {
-      "id": "mkt:019ecc03-d330-7dd8-b013-27e8070cbeb2",
-      "time": "2026-06-16 00:01:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【U.S. judge dismisses Musk's XAI trade-secret suit against OpenAI】A U.S. federal judge on Monday dismissed a lawsuit by Elon Musk’s XAI accusing OpenAI of stealing trade secrets. U.S. District Judge Rita Lin in San Francisco said XAI failed to prove OpenAI induced former XAI engineer Xuechen Li to misappropriate secrets or that a recruitment demonstration disclosed XAI trade secrets, and that allowing the case to proceed would be \"futile.\" Lin had previously dismissed an earlier version of the complaint in February."
-    },
-    {
-      "id": "te:markets:559090",
-      "time": "2026-06-16 00:00:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Rise to Records — European stocks rose to record highs on Monday after the US and Iran agreed to a deal that suspends their war. The Euro STOXX 50 added 0.8% to a peak of 6,236 and the STOXX Europe 600 gained 0.3% to 635. The deal is set to be signed on Friday and reportedly restores the flow of energy exports through the Strait of Hormuz, lowering oil prices and sovereign yields throughout Europe's largest economies. Money markets have scaled back expectations for rate hikes, now pricing in just one increase each from the ECB and the BoE by year-end. The developments lifted banks amid the improved outlook of credit activity, with Santander, Deutsche Bank, and BBVA adding between 4.56% and 3%. Industrials were also supported on improved demand and lower power costs, with Safran jumping 3.5% and Siemens adding 2.2%."
-    },
-    {
-      "id": "te:economy:559089",
-      "time": "2026-06-16 00:00:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Israel",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Israel Inflation Rate Steady at 1.9% in May — The annual inflation rate in Israel stood at 1.9% in May 2026, remaing unchanged from the last two months, bellow market expectations of a 2% increase and staying within the Bank of Israel’s 1%–3% target band for ten consecutive months. Upward price pressures were mainly due to housing (4.0% vs 3.3%) and education, culture and entertainment (1.5% vs 1.4%). Meanwhile, inflation eased in several categories, including food, inclduing vegetables (2.6% vs 2.8%), health (1.6% vs 1.7%) and transport & communications (0.8% vs 0.9%). Deflation deepened for household equipment (-3.6% vs -3.2%), while clothing and footwear prices remained lower (-6.7%). On a monthly basis, consumer prices declined 0.3% in May, reversing a 1.2% rise in the previous month."
-    },
-    {
-      "id": "mkt:019ecc03-1c4c-7dd8-b013-1caa31e6e5b2",
-      "time": "2026-06-16 00:00:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A U.S. senior official said Washington understands Iran's parliament speaker Mohammad Bagher Ghalibaf has been authorized by the Supreme Leader to negotiate and sign agreements."
-    },
-    {
-      "id": "4936929",
-      "time": "2026-06-16 00:00:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員： 美方獲悉，伊朗議會議長卡利巴夫已獲最高領袖授權，負責談判及簽署相關檔案。"
-    },
-    {
-      "id": "te:markets:559088",
-      "time": "2026-06-15 23:59:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Misses Out on Broader Market Rally — The FTSE 100 fell 0.3% on Monday, lagging broader market gains elsewhere, as losses in Shell and BP weighed heavily on the index. Shell dropped 4.4% and BP declined 3.4%, while healthcare and defence stocks also pressured sentiment. AstraZeneca fell 1.7%, GSK lost 1%, BAE Systems declined 4.6%, and Babcock International slipped 1.1%. In contrast, mining stocks benefited from stronger gold and copper prices, with Endeavour and Fresnillo rising nearly 7% each. Antofagasta gained more than 5%, while Anglo American and Rio Tinto advanced over 1%. Bunzl shares edged up 0.6% after activist investor Elliott disclosed a stake of almost 5% in the UK distribution group. Markets remained focused on the interim US-Iran agreement, which triggered a broad cross-asset rally despite continued uncertainty. Investors are also preparing for a busy UK data week featuring inflation, employment and retail sales figures, the Bank of England rate decision, and the Makerfield by-election on Thursday."
-    },
-    {
-      "id": "4936928",
-      "time": "2026-06-15 23:58:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百達翡麗前主席Philippe Stern去世，享年87歲】6月15日，瑞士頂級獨立製表品牌百達翡麗（Patek Philippe）宣佈，對品牌現代定位具決定性影響的前主席Philippe Stern於6月14日安詳離世，享年87歲。Philippe Stern被視為當代鐘錶界最具影響力的商業領袖之一，他成功守護了百達翡麗的家族獨立性，也奠定了其作為瑞士鐘錶業殿堂級品牌的地位。"
-    },
-    {
-      "id": "mkt:019ecc01-a6fe-7dd8-b013-118a31750e16",
-      "time": "2026-06-15 23:58:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. federal judge dismissed a lawsuit by Elon Musk’s AI company xAI alleging competitor OpenAI stole its trade secrets."
-    },
-    {
-      "id": "4936927",
-      "time": "2026-06-15 23:58:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：美國將阿曼逐出調解談判。"
-    },
-    {
-      "id": "4936926",
-      "time": "2026-06-15 23:58:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：阿曼作為調解人行事首鼠兩端。"
     }
   ]
 }
