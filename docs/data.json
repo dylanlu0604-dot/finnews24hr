@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-22 23:13:49",
+  "updated": "2026-06-22 23:18:14",
   "count": 17315,
   "items": [
+    {
+      "id": "4948712",
+      "time": "2026-06-22 23:17:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "熱浪席捲西歐，萊茵河水位持續走低，嚴重阻礙燃油運往西歐部分地區，駁船載貨量被迫降至正常標準的一半以下。"
+    },
+    {
+      "id": "mkt:019eefe5-1986-7dd8-b0c1-3dec48aa09a2",
+      "time": "2026-06-22 23:13:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【SpaceX signs roughly $6.3 billion compute deal with Reflection AI】Documents reviewed by CNBC show SpaceX has signed a compute deal with open-source AI developer Reflection AI, making the firm the latest external company to access Elon Musk’s Colossus compute infrastructure. Under the agreement Reflection gains immediate use of NVIDIA GB300 chips and will pay SpaceX $150m per month from July 1, 2026 through 2029; if fully executed total payments would be about $6.3bln. The contract permits either party to terminate after three months from the effective date with 90 days’ notice."
+    },
+    {
+      "id": "4948711",
+      "time": "2026-06-22 23:13:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【46家A股公司提示風險】6月22日，46家A股公司釋出股票交易異常波動或股票交易風險提示公告，分別是北自科技、博雲新材、中船特氣、旭光電子、源傑科技、裕太微、百潤股份、共達電聲、中紡標、祥龍電業、世名科技、惠豐鑽石、夏農芯創、麥捷科技、晶升股份、派林生物、萬控智造、賽伍技術、溫州宏豐、冰輪環境、武漢天源、ST龍元、ST百利、ST棕櫚、ST海龍、ST西王、ST麥趣、ST圍海、ST達華、ST京機、*ST清越、*ST棒傑、*ST寶馨、*ST瑞茂、*ST東珠、*ST準油、*ST中巖、*ST康佳A、*ST發展、*ST利源、*ST亞士、*ST冀凱、ST嘉應、*ST聯翔、*ST瑞和、*ST聞泰、*ST嶺南。"
+    },
     {
       "id": "4948710",
       "time": "2026-06-22 23:12:29",
@@ -159098,33 +159128,6 @@
         "其他"
       ],
       "text": "出口商預估資料顯示：截至 6 月 14 日，象牙海岸 2025/26 年度可可到貨量達 185.4 萬噸，去年同期為 165.9 萬噸。"
-    },
-    {
-      "id": "4936888",
-      "time": "2026-06-15 23:15:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "加密貨幣交易所 Kraken ：Kraken 已上架 Anthropic與 OpenAI的 IPO 前永續權證產品。"
-    },
-    {
-      "id": "4936887",
-      "time": "2026-06-15 23:15:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "捷藍航空：中大西洋及東北部地區預計出現惡劣天氣。"
-    },
-    {
-      "id": "mkt:019ecbd9-de9c-7dd8-b011-892e6365de9e",
-      "time": "2026-06-15 23:15:13",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA (NVDA.O) shares rose more than 3%."
     }
   ]
 }
