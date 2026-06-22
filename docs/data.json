@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-22 11:49:26",
-  "count": 17316,
+  "updated": "2026-06-22 11:53:28",
+  "count": 17311,
   "items": [
+    {
+      "id": "4947253",
+      "time": "2026-06-22 11:49:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【如祺出行釋出具身智慧資料平臺】6月22日，如祺出行（09680.HK）旗下資料業務板塊正式釋出具身智慧資料平臺，該平臺核心是一套Ego-centric第一人稱操作影片自動化處理流水線，覆蓋資料匯入、AI預處理、動作標註、多級質檢到標準化格式匯出全流程。如祺出行表示，新平臺旨在將具身智慧資料服務標準化、自動化，形成可追溯、可質檢的閉環，降低第一人稱資料從採集到訓練的邊際成本。"
+    },
+    {
+      "id": "4947252",
+      "time": "2026-06-22 11:49:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度BSE SENSEX指數上漲0.54%。印度NIFTY 50指數擴大漲幅，最新上漲0.5%。"
+    },
     {
       "id": "4947250",
       "time": "2026-06-22 11:48:09",
@@ -159209,73 +159226,6 @@
         "國際"
       ],
       "text": "【網路安全界領袖為Anthropic被禁模型辯護】包括Adobe、Zoom和Sophos的首席資訊保安官、安全研究人員及高管在內的知名網路安全領袖，正敦促特朗普政府取消對Anthropic最先進AI模型的限制，認為此舉對網路防禦者造成的傷害比攻擊者更大。領導們認為，限制訪問Anthropic首個公開的Mythos級模型，可能會削弱網路防禦者在應對一波人工智慧驅動的駭客攻擊威脅時的能力。由前Facebook首席安全官亞歷克斯·斯塔莫斯領導的一群專家在信中指出，亞馬遜研究人員所指出的問題也存在於其他主流AI模型中。截至當地時間週日晚，這封信已有超過40人簽署。簽署者包括Luta Security執行長凱蒂·穆蘇里斯、SocialProof Security執行長瑞秋·託巴克、Veracode聯合創始人克里斯·維索帕爾、知名電腦科學家保羅·維克西、Sophos執行長喬·利維以及英偉達安全研究員亞倫·格拉塔菲奧裡。"
-    },
-    {
-      "id": "4935464",
-      "time": "2026-06-15 11:53:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部啟動強降雨二級防禦響應】中央氣象臺6月15日10時釋出暴雨橙色預警，交通運輸部啟動強降雨二級防禦響應。"
-    },
-    {
-      "id": "mkt:019ec969-61f0-7dd8-affd-e6dbe3002da2",
-      "time": "2026-06-15 11:53:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Sam's Club China summoned by SAMR; launches company-led remediation, vows tighter food safety and product controls】June 15 — Sam's Club China said it was summoned for a supervisory meeting by the State Administration for Market Regulation and has acknowledged and accepted the regulator's findings and rectification requirements. The company apologized to members, said management has formed a special remediation taskforce and launched immediate, full-channel and full-chain self-inspection and rectification. Sam's Club China said it will comply with applicable laws and regulatory requirements, comprehensively strengthen food-safety and product-quality controls, uphold the food-safety baseline and improve member experience. It will report remediation progress regularly to regulators and accept external supervision."
-    },
-    {
-      "id": "te:markets:558894",
-      "time": "2026-06-15 11:53:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Aluminum Extends Gains — Aluminum futures in the UK rose to around $3,550 per tonne in early Asian trading, extending their rebound from a one-month low as sentiment improved following a US–Iran agreement. The deal, expected to be formally signed on June 19, has helped ease concerns about global economic growth and supported expectations for stronger metals demand. The metal had recently come under pressure amid persistent tensions between the two nations, which heightened inflation concerns and raised the prospect of higher interest rates. While a potential reopening of the Strait of Hormuz could eventually restore aluminum export flows from the Persian Gulf, direct attacks on major Gulf smelters delayed the full return of supply from the region. EGA’s flagship smelter is expected to take up to a year to return to full capacity, while Bahrain’s ALBA is still operating below normal levels. Tighter restrictions on bauxite exports from Guinea have added to concerns about raw material supply."
-    },
-    {
-      "id": "4935463",
-      "time": "2026-06-15 11:52:32",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【山姆回應被市場監管總局約談：全面最佳化食安管控和商品品控】6月15日，針對被市場監管總局約談，山姆中國方面回應稱，“近日，我們接受了市場監管部門的約談指導。針對約談中監管部門所指出的問題與整改要求，我們完全認可、深刻反思並誠懇接受。對於相關問題給會員帶來的困擾與不便，我們深表歉意。”山姆中國方面指出，“目前，公司已由管理層牽頭成立專項整改工作組，第一時間啟動全渠道、全鏈路專項自查整改。我們將嚴格遵照相關法規及監管要求，全面最佳化食安管控和商品品控，嚴守食品安全底線、提升會員體驗。我們將定期向監管部門報送整改進展，主動接受社會各界監督。再次感謝監管部門的監督指導，感謝會員的信任與支援。”"
-    },
-    {
-      "id": "4935462",
-      "time": "2026-06-15 11:51:52",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【財政部將開展2026年6月份國債做市支援操作】為支援國債做市，提高國債二級市場流動性，健全反映市場供求關係的國債收益率曲線，財政部決定開展國債做市支援操作。(財政部)"
-    },
-    {
-      "id": "4935461",
-      "time": "2026-06-15 11:51:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優必選等在無錫成立具身智慧科技公司】企查查APP顯示，近日，無錫優保具身智慧科技有限公司成立，法定代表人為齊石，註冊資本為5000萬元，經營範圍包含：智慧機器人的研發；智慧機器人銷售；養老服務；遠端健康管理服務；第一類醫療器械銷售等。企查查股權穿透顯示，該公司由江蘇豐數資訊科技有限公司、優必選全資子公司深圳市優必選醫療機器人有限公司共同持股。"
-    },
-    {
-      "id": "mkt:019ec966-4739-7dd8-affd-dd41fe97f57b",
-      "time": "2026-06-15 11:49:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Luxshare Precision plans to list in Hong Kong as early as July, seeking to raise $2–3 bln, people familiar with the matter said."
     }
   ]
 }
