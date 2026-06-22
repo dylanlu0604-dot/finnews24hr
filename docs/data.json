@@ -1,7 +1,140 @@
 {
-  "updated": "2026-06-22 18:07:26",
-  "count": 17160,
+  "updated": "2026-06-22 18:11:29",
+  "count": 17169,
   "items": [
+    {
+      "id": "mkt:019eeecf-7c8f-7dd8-b0b7-78039def1b7f",
+      "time": "2026-06-22 18:10:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iranian foreign ministry says Iran‑U.S. technical talks started in Switzerland】Iranian foreign ministry spokesman Baghaei confirmed that technical talks under an Iran‑U.S. memorandum of understanding framework began in Switzerland on the 22nd, Iranian media reported."
+    },
+    {
+      "id": "4948039",
+      "time": "2026-06-22 18:10:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債全線上漲,10年期國債收益率下跌2個基點至4.82%。"
+    },
+    {
+      "id": "4948038",
+      "time": "2026-06-22 18:10:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【麥捷科技：公司與英偉達的合作僅處於研發小批次試產階段 電感產品漲價僅對單位毛利有限修復】麥捷科技(300319.SZ)公告稱，公司股票於2026年6月17日、18日、22日連續三個交易日收盤價漲幅偏離值累計超過30%，屬於股票交易異常波動。公司澄清，與英偉達的合作僅處於研發小批次試產階段，未形成規模化供貨；電感產品漲價僅對單位毛利有限修復，不提升盈利能力；光模組配套產品收入佔比較小，短期不影響業績；公司無MLCC研發、生產或銷售業務。公司提示，自2026年6月以來股價累計漲幅達118.44%，存在市場情緒過熱及非理性炒作風險，後續可能面臨較大回撥風險。"
+    },
+    {
+      "id": "4948037",
+      "time": "2026-06-22 18:09:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛樂音響：擬以5000萬元出資設立投資基金】飛樂音響公告，公司擬以自有資金出資5000萬元作為有限合夥人與其他投資方共同出資設立“上海儀電儀器儀表產業生態基金（有限合夥）”，出資比例9.80%。基金認繳出資總額5.1億元，存續期限擬按“4+3+1+1”設定，即投資期4年、退出期3年，到期可延長兩次，每次1年。基金採用“雙GP”模式，華鑫寬眾投資有限公司及交銀資本管理有限公司共同擔任GP，其中華鑫寬眾擔任執行事務合夥人。"
+    },
+    {
+      "id": "mkt:019eeece-61ff-7dd8-b0b7-75e5606f3ff1",
+      "time": "2026-06-22 18:09:23",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK government bond futures rose about 20 points after a former cabinet minister publicly backed Andy Burnham to become the next UK prime minister."
+    },
+    {
+      "id": "te:markets:560765",
+      "time": "2026-06-22 18:09:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro Hovers at 3-Month Low — The euro weakened to $1.145, its lowest level since mid-March, despite signs of diplomatic progress between the US and Iran. Negotiators from Tehran and Washington agreed on a roadmap toward a potential final agreement, easing concerns over energy supply disruptions. Investors also monitored developments in UK politics after Prime Minister Keir Starmer announced his resignation on Monday. Oil markets reacted positively to signs of progress in Middle East discussions, even as President Donald Trump warned of possible military action if Hezbollah attacks from Lebanon against Israel continue. The US and Iran have also established a communication channel aimed at preventing incidents and supporting the safe movement of commercial vessels through the Strait of Hormuz. Meanwhile, money markets continue to price in at least one additional European Central Bank rate hike this year, following the ECB’s recent 25 bps increase that lifted the deposit rate to 2.25%, the first rate rise since 2023."
+    },
+    {
+      "id": "mkt:019eeecd-a0a1-7dd8-b0b7-6d4d8fe64195",
+      "time": "2026-06-22 18:08:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A former UK minister urged others to back Burnham for prime minister."
+    },
+    {
+      "id": "4948036",
+      "time": "2026-06-22 18:08:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國金邊期貨上漲約20個最小變動價位，因斯特里廷支援·伯納姆出任首相。"
+    },
+    {
+      "id": "mkt:019eeecd-36f6-7dd8-b0b7-609d09314418",
+      "time": "2026-06-22 18:08:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A former UK minister said Burnham has shown what the Labour Party can be and voiced support for his leadership."
+    },
+    {
+      "id": "4948035",
+      "time": "2026-06-22 18:08:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【分析：英國下任首相須兼顧政治雄心與財政紀律】MHA分析師康納·希克斯在一份報告中表示，若繼任者能帶來政策確定性，英國首相斯塔默辭職後市場的波動有望得到平息。希克斯指出：“下任首相必須在政治雄心與財政紀律之間取得平衡。若能實現這一平衡，投資者可能會歡迎一個更具可預測性、以增長為導向的政策環境。”他表示，目前仍難以預測最有可能接替斯塔默的候選人安迪·伯納姆將帶來怎樣的政策主張。伯納姆此前自詡為財政擴張派，但近期已承諾維持現行財政規則。希克斯稱，投資者將重點關注稅收與支出政策，而企業則期待一個明確的長期投資計劃。"
+    },
+    {
+      "id": "4948034",
+      "time": "2026-06-22 18:07:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國前衛生大臣斯特里廷：我希望所有人都支援伯納姆出任首相。"
+    },
+    {
+      "id": "4948033",
+      "time": "2026-06-22 18:07:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體22日報道，伊朗外交部發言人巴加埃證實，伊美諒解備忘錄框架下的技術性會談已於22日在瑞士啟動。（新華社）"
+    },
+    {
+      "id": "mkt:019eeecc-6205-7dd8-b0b7-5981e2c01edf",
+      "time": "2026-06-22 18:07:12",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【Analysis: UK next prime minister must balance political ambition and fiscal discipline】MHA analyst Connor Hicks says if a successor can deliver policy certainty, market volatility after Prime Minister Starmer’s resignation could ease. Hicks warns the next PM must balance political ambition with fiscal discipline; achieving that balance would likely be welcomed by investors seeking a more predictable, growth‑oriented policy backdrop. He says it is hard to predict the policy stance of leading contender Andy Burnham — who has previously presented as fiscally expansionary but recently pledged to adhere to current fiscal rules. Investors will focus on tax and spending choices; corporates want a clear long-term investment plan."
+    },
+    {
+      "id": "4948032",
+      "time": "2026-06-22 18:07:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國前衛生大臣斯特里廷：伯納姆已展現工黨應有之面貌。"
+    },
+    {
+      "id": "4948031",
+      "time": "2026-06-22 18:06:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國前衛生大臣斯特里廷公開支援伯納姆。"
+    },
     {
       "id": "4948030",
       "time": "2026-06-22 18:06:42",
@@ -738,6 +871,14 @@
         "市場"
       ],
       "text": "【SpaceX美股盤前跌超4%】SpaceX美股盤前跌超4%，現報177.6美元。"
+    },
+    {
+      "id": "4947966",
+      "time": "2026-06-22 17:49:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國新證券總經理曾建勇赴桂掛職 副總陳騰龍代行職責】國新證券釋出公告，公司黨委副書記、總經理、執委會委員曾建勇，赴廣西壯族自治區掛職，副總經理陳騰龍代為履行總經理職責。公開資料顯示，曾建勇在國新證券任職總經理一職已有約3年半，實際主持運營工作已超過5年。作為央企中國國新子公司，國新證券高管赴地方掛職屬常見現象。"
     },
     {
       "id": "4947965",
@@ -157748,62 +157889,6 @@
         "國際"
       ],
       "text": "【物流網加速“織密” 為實體經濟提供堅實支撐】物流作為實體經濟的“筋絡”，連線著生產與消費，更串聯起流動的大市場。我國物流市場規模連續10年全球第一，眼下，我國正在加速建設的這張物流網，將如何為實體經濟提供堅實支撐？一顆馬來西亞榴蓮剛從枝頭掉落，就迅速完成分揀與預冷處理，搭乘當晚的貨機到達中國深圳。第二天一早，榴蓮就可以上架華南地區生鮮市場，全程不到24小時。這趟滿載電子產品、醫療器械等貨物的班列正從武漢香爐山站駛出，開往廈門港，貨物已完成海關查驗，抵達港口就無需二次報關，即可裝船出海。（央視新聞）"
-    },
-    {
-      "id": "4936331",
-      "time": "2026-06-15 18:11:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特外交大臣在與伊朗外長阿拉格齊通電話時表示，沙特對美伊達成的協議表示歡迎。"
-    },
-    {
-      "id": "4936330",
-      "time": "2026-06-15 18:10:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長陽科技：電解質複合膜基膜市場需求尚未放量 收入金額較小】長陽科技在互動平臺表示，公司電解質複合膜基膜（俗稱“骨架膜”）目前可用於固態、準固態及半固態電池上。但該產品市場需求尚未放量，收入金額較小，短期內不會對公司經營業績產生重大影響，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "4936329",
-      "time": "2026-06-15 18:10:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【融捷健康：擬轉讓參股公司2.8156%股權】融捷健康公告，公司擬轉讓所持參股公司安徽影聯雲享醫療科技有限公司2.8156%股權，轉讓價格為人民幣844.69萬元。交易完成後，公司將繼續持有影聯雲享4.0176%股權。該交易已獲董事會審議透過，不構成關聯交易或重大資產重組。"
-    },
-    {
-      "id": "4936328",
-      "time": "2026-06-15 18:09:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中榮股份：擬以4000萬元-8000萬元回購公司股份】中榮股份公告，擬以4000萬元-8000萬元回購公司股份，回購價格不超過26.83元/股。"
-    },
-    {
-      "id": "4936327",
-      "time": "2026-06-15 18:09:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萊斯資訊：股東中國建投減持1.00%股份，減持金額9161.57萬元】萊斯資訊公告稱，股東中國建投因自身資金需求，於2026年4月16日至6月15日透過集中競價方式累計減持公司股份1,634,700股，佔公司總股本的1.00%，減持價格區間為46.95 - 60.09元/股，減持總金額91,615,674.03元。本次減持計劃已實施完畢，減持後中國建投持股比例降至8.62%。"
-    },
-    {
-      "id": "mkt:019ecac0-a5de-7dd8-b008-9564ad6dec23",
-      "time": "2026-06-15 18:08:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RIA quoted the Russian embassy as saying the tanker seized by the UK had no Russian crew aboard."
-    },
-    {
-      "id": "4936326",
-      "time": "2026-06-15 18:07:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【企業持續重組 新加坡裁員人數升至近三年高位】由於企業在更具不確定性的經濟環境下持續進行業務重組，新加坡第一季度裁員人數升至近三年來最高水平。 根據新加坡人力部週一釋出的報告，今年1月至3月期間，裁員人數從前一季度的3,690人增至3,830人。這是自2023年第三季度以來的最高水平，當時共有4,110名員工被裁撤。報告指出，企業重組和業務調整仍然是裁員的主要原因。與此同時，製造業、金融與保險服務業以及專業服務業等多個行業的裁員人數均有所增加。裁員人數上升之際，僱主對經濟前景正變得愈發謹慎。一家行業組織4月進行的調查顯示，超過一半的新加坡企業表示對勞動力成本感到擔憂。新加坡金融管理局此前也警告稱，由於不確定性增加，今年勞動力需求可能趨於疲軟。"
     }
   ]
 }
