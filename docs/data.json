@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-22 23:44:35",
-  "count": 17321,
+  "updated": "2026-06-22 23:49:08",
+  "count": 17315,
   "items": [
+    {
+      "id": "4948748",
+      "time": "2026-06-22 23:47:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "米其林：5月全球原配乘用車輪胎市場規模同比下滑8%。"
+    },
+    {
+      "id": "mkt:019ef001-98b1-7dd8-b0c1-d99378a72dda",
+      "time": "2026-06-22 23:44:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Belgian foreign ministry spokesman said the specific date of a Taliban visit to Brussels will not be disclosed for security reasons."
+    },
+    {
+      "id": "4948747",
+      "time": "2026-06-22 23:44:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "外長發言人：出於安全考慮，塔利班訪問布魯塞爾的日期將不予公佈。"
+    },
+    {
+      "id": "mkt:019ef001-3cdb-7dd8-b0c1-d06ee42efb31",
+      "time": "2026-06-22 23:44:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Belgium issued five visas to a Taliban delegation to enable its attendance at an EU meeting, the Belgian foreign minister's spokesman said."
+    },
+    {
+      "id": "4948746",
+      "time": "2026-06-22 23:44:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "比利時外長發言人表示，比利時已為塔利班代表團出席歐盟會議發放五份簽證。"
+    },
     {
       "id": "te:economy:560844",
       "time": "2026-06-22 23:40:00",
@@ -159057,110 +159101,6 @@
         "國際"
       ],
       "text": "美國高階官員：希望將與伊朗的核談判提上日程。"
-    },
-    {
-      "id": "te:markets:559086",
-      "time": "2026-06-15 23:47:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Aluminum is down by 5% — Aluminum decreased 5% to 3365.9 USD/T"
-    },
-    {
-      "id": "mkt:019ecbf7-16ac-7dd8-b012-c1399e46e9e8",
-      "time": "2026-06-15 23:47:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior U.S. official said release of frozen assets and sanctions relief will be contingent on concrete, demonstrable performance."
-    },
-    {
-      "id": "4936914",
-      "time": "2026-06-15 23:47:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員： 解凍被凍結資金、解除制裁均以伊方履約為前提。"
-    },
-    {
-      "id": "mkt:019ecbf6-e4fe-7dd8-b012-ba45f8e57315",
-      "time": "2026-06-15 23:46:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "A senior US official said the US and Iran will begin technical talks later this week."
-    },
-    {
-      "id": "mkt:019ecbf6-bdd7-7dd8-b012-b115b90199f6",
-      "time": "2026-06-15 23:46:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "Senior U.S. official says the memorandum of understanding includes an Iran reconstruction fund potentially worth $300 billion."
-    },
-    {
-      "id": "4936913",
-      "time": "2026-06-15 23:46:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：諒解備忘錄包含一項規模或達 3000 億美元的伊朗重建基金相關條款。"
-    },
-    {
-      "id": "4936912",
-      "time": "2026-06-15 23:46:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破67000美元，日內漲1.91%。"
-    },
-    {
-      "id": "4936911",
-      "time": "2026-06-15 23:46:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員： 本週晚些時候將啟動技術性磋商。"
-    },
-    {
-      "id": "mkt:019ecbf6-1d24-7dd8-b012-a9d752782e83",
-      "time": "2026-06-15 23:46:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Senior U.S. official says details of a U.S.-Iran memorandum of understanding will be released within 24-48 hours."
-    },
-    {
-      "id": "4936910",
-      "time": "2026-06-15 23:45:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員： 諒解備忘錄的詳細內容將在 24 至 48 小時內對外公佈。"
-    },
-    {
-      "id": "mkt:019ecbf5-97fc-7dd8-b012-a0f45bb5fed9",
-      "time": "2026-06-15 23:45:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Senior U.S. official says developments over the next few weeks will signal the trajectory of U.S.-Iran relations."
     }
   ]
 }
