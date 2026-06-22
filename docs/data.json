@@ -1,7 +1,56 @@
 {
-  "updated": "2026-06-23 00:07:09",
-  "count": 17284,
+  "updated": "2026-06-23 00:11:23",
+  "count": 17262,
   "items": [
+    {
+      "id": "te:markets:560853",
+      "time": "2026-06-23 00:10:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.19% Lower — The CAC 40 Index dropped 16 points or 0.19 percent on Monday to close at 8405 points. Losses were led by Edenred (-5.52%), Hermes International (-5.42%) and TP (-3.12%). Offsetting the fall, top gainers were Carrefour (3.54%), Danone (2.43%) and STMicroelectronics (2.30%)."
+    },
+    {
+      "id": "mkt:019ef018-2a8e-7dd8-b0c2-16a2bf04fd6e",
+      "time": "2026-06-23 00:09:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's energy minister said the license would allow Iran to sell oil at prices closer to prevailing market levels and without constraints from sanctions."
+    },
+    {
+      "id": "te:markets:560852",
+      "time": "2026-06-23 00:08:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close at Records — European stocks closed firmly higher at new records on Monday amid support from lower energy prices. The Euro STOXX 50 added 0.4% to 6,320 and the STOXX Europe 600 jumped by 0.7% to 640, both at their record highs. Iran stated that it made progress in the start of talks with the US over a permanent peace deal shortly after both parties signed their memorandum of understanding, supporting the likelihood that energy prices are due to stay lower and soften pro-inflationary risks. Banks led the gains as sovereign yields in the Eurozone pulled back, aiding the outlook for credit activity with Santander, BBVA, and Nordea rising around 2%. Meanwhile, Infineon jumped 5% to track another strong session for companies in the AI infrastructure space as hyperscalers continue to raise cash for capital expenditures. On the other hand, LVMH and Hermes lost 3.6% and 6%, respectively, amid the muted guidance for Moncler and sector downgrades by major brokers recently."
+    },
+    {
+      "id": "te:markets:560851",
+      "time": "2026-06-23 00:07:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.73% Higher — The FTSE 100 Index went up by 75 points or 0.73 percent on Monday to close at 10439 points. The rise was led by Barclays (3.83%), Lloyds Banking (3.76%) and Whitbread (3.28%). On the downside, the weakerst performers were Babcock International (-6.06%), Burberry (-2.91%) and London Stock Exchange (-2.69%)."
+    },
     {
       "id": "4948761",
       "time": "2026-06-23 00:05:44",
@@ -158563,253 +158612,6 @@
         "DXY"
       ],
       "text": "U.S. President Trump said on the Russia-Ukraine war he is looking to see whether action can be taken and that both leaders appear open to it."
-    },
-    {
-      "id": "4936959",
-      "time": "2026-06-16 00:11:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談：我將嘗試推動相關解決方案，兩國領導人似乎都持開放態度。"
-    },
-    {
-      "id": "mkt:019ecc0d-1440-7dd8-b013-9159d2c36f6e",
-      "time": "2026-06-16 00:11:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he held constructive talks with Ukrainian President Zelenskiy and Russian President Putin on the Russia-Ukraine war."
-    },
-    {
-      "id": "te:markets:559094",
-      "time": "2026-06-16 00:11:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.05% Higher — The DAX Index rose 259 points or 1.05 percent on Monday to close at 24894 points. Leading the gains are Deutsche Bank (4.31%), MTU Aero Engines AG (4.26%) and Fresenius (3.13%)."
-    },
-    {
-      "id": "4936958",
-      "time": "2026-06-16 00:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及俄烏衝突：已與澤連斯基、普京開展富有成效的溝通。"
-    },
-    {
-      "id": "4936957",
-      "time": "2026-06-16 00:10:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望我們能與伊朗保持良好關係。"
-    },
-    {
-      "id": "mkt:019ecc0c-5c94-7dd8-b013-88928bd18e6f",
-      "time": "2026-06-16 00:10:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "A senior US official said the US expects freedom of navigation through the Strait of Hormuz to be included in the final agreement."
-    },
-    {
-      "id": "te:markets:559093",
-      "time": "2026-06-16 00:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.49% Higher — The CAC 40 Index gained 41 points or 0.49 percent on Monday to close at 8392 points. Gains were led by Societe Generale (3.96%), Renault (3.87%) and STMicroelectronics (3.58%). Biggest losers were TotalEnergies SE (-4.60%), Orange (-1.88%) and Kering (-1.79%)."
-    },
-    {
-      "id": "mkt:019ecc0c-1e9a-7dd8-b013-81ae449178a1",
-      "time": "2026-06-16 00:10:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "President Trump said he hopes to build a good relationship with Iran."
-    },
-    {
-      "id": "4936956",
-      "time": "2026-06-16 00:10:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：預計不久後每天將有40-50艘船隻透過霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019ecc0b-ef81-7dd8-b013-78b7d59c13e8",
-      "time": "2026-06-16 00:09:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said on Iran he will implement strong oversight."
-    },
-    {
-      "id": "4936955",
-      "time": "2026-06-16 00:09:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗完全同意不擁有核武器。"
-    },
-    {
-      "id": "mkt:019ecc0b-ae32-7dd8-b013-75662bcc7318",
-      "time": "2026-06-16 00:09:37",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Trump says Iran will not possess nuclear weapons."
-    },
-    {
-      "id": "4936954",
-      "time": "2026-06-16 00:09:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗事宜：將實施強有力的管控措施。"
-    },
-    {
-      "id": "4936953",
-      "time": "2026-06-16 00:09:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：美方預期霍爾木茲海峽免費通航條款也將納入最終協議。"
-    },
-    {
-      "id": "4936952",
-      "time": "2026-06-16 00:09:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：中東將會發生很多美好的事情。"
-    },
-    {
-      "id": "4936951",
-      "time": "2026-06-16 00:09:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗問題：伊朗不會擁有核武器。"
-    },
-    {
-      "id": "mkt:019ecc0b-2016-7dd8-b013-6c7563118f66",
-      "time": "2026-06-16 00:09:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "President Trump said oil prices have fallen sharply while the stock market is rising."
-    },
-    {
-      "id": "4936950",
-      "time": "2026-06-16 00:08:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：與伊朗簽署的諒解備忘錄明確規定，霍爾木茲海峽將免費通航 60 天。"
-    },
-    {
-      "id": "4936949",
-      "time": "2026-06-16 00:08:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：油價正大幅暴跌。"
-    },
-    {
-      "id": "mkt:019ecc0a-c44e-7dd8-b013-65a9aed03f8e",
-      "time": "2026-06-16 00:08:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "President Trump said the Strait of Hormuz was fully reopened on Friday and that all agreements have been signed."
-    },
-    {
-      "id": "4936948",
-      "time": "2026-06-16 00:07:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：協議已全部簽署完畢。"
-    },
-    {
-      "id": "4936947",
-      "time": "2026-06-16 00:07:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽將於週五全面開放。"
-    },
-    {
-      "id": "te:markets:559092",
-      "time": "2026-06-16 00:07:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rises on US-Iran Peace Deal — The FTSE MIB gained 0.7% to close at a record 51,836 on Monday after the US and Iran reached a preliminary agreement to end the conflict. The deal includes the lifting of the US blockade and the reopening of the Strait of Hormuz. The agreement triggered a sharp drop in oil prices, easing inflation concerns and reducing pressure on central banks to tighten monetary policy. Bond yields declined and the BTP-Bund spread narrowed. Financial stocks posted gains, with Intesa Sanpaolo and Generali both rising 1.7%. In the luxury sector, Ferrari added 4% as easing geopolitical tensions improved risk sentiment. STMicroelectronics tracked the rally in US technology stocks, gaining 1%. In contrast, Eni fell 4.7% on lower oil prices, while defense contractor Leonardo shed 2.8% as geopolitical risks receded."
-    },
-    {
-      "id": "4936946",
-      "time": "2026-06-16 00:07:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽已經部分開放。"
-    },
-    {
-      "id": "mkt:019ecc09-9fac-7dd8-b013-5bd6557160c3",
-      "time": "2026-06-16 00:07:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "MACRON said the Iran agreement is a very important step and that the Strait of Hormuz will reopen."
-    },
-    {
-      "id": "4936945",
-      "time": "2026-06-16 00:07:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與馬克龍關係極佳。"
     }
   ]
 }
