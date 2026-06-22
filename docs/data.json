@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-22 12:43:57",
+  "updated": "2026-06-22 12:48:07",
   "count": 17299,
   "items": [
+    {
+      "id": "mkt:019eeda6-4fd1-7dd8-b0b0-343d1630923d",
+      "time": "2026-06-22 12:45:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's navy said a drone strike caused a fire aboard the general cargo ship Victress."
+    },
+    {
+      "id": "4947307",
+      "time": "2026-06-22 12:44:38",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行在香港發行 400 億元人民幣6個月期央票，中標利率 1.34%。"
+    },
+    {
+      "id": "4947306",
+      "time": "2026-06-22 12:44:23",
+      "tags": [
+        "央行",
+        "公司",
+        "市場"
+      ],
+      "text": "【央行購金意願創紀錄 超跌+低PE概念股揭曉】近日，世界黃金協會發布的《2026年全球央行黃金儲備調研》（CBGR）顯示，近九成受訪央行認為，未來12個月內全球央行黃金儲備將繼續增加。這種信心同時也反映在各央行自身的儲備計劃中：45％的受訪儲備管理者表示，預計其所在機構將在未來12個月內增加黃金儲備，這一比例打破了歷史紀錄。2026年年初，黃金概念曾是大熱門題材，多隻股票一度創下歷史新高。但從當前股價表現來看，不少黃金概念股已有明顯降溫。據證券時報·資料寶統計，截至6月18日收盤，最新收盤價與年內高點相比，46只黃金概念股回撤幅度超20%。6股回撤幅度超50%，分別是盛達資源、白銀有色、山東黃金、湖南白銀、曼卡龍、曉程科技。上述回撤幅度超20%的黃金概念股中，截至6月18日收盤，滾動市盈率（PE）低於30倍的有28只，航民股份、菜百股份滾動市盈率低於10倍。從資金角度來看，截至6月18日收盤，滾動市盈率低於30倍且回撤超20%的黃金概念股中，6月以來融資淨買入超1億元的有4只，分別是洛陽鉬業、江西銅業、西部礦業、藏格礦業。"
+    },
+    {
+      "id": "4947305",
+      "time": "2026-06-22 12:44:12",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【南方2倍做多海力士大漲16.77% 規模達1130億港元】南方兩倍做多海力士今日一度大漲18.54%，截至中午收市漲幅為16.77%，最新規模達1130億港元。該基金已連續7個交易日上漲，本月漲幅達36.58%。但南方兩倍做多三星電子今日微跌，截至中午收市跌幅為2.92%，最新規模為344.9億港元。此外，今日盤中，SK海力士股價大漲5.8%，市值短暫超過三星電子，成為韓國市值最高的企業。"
+    },
+    {
+      "id": "4947304",
+      "time": "2026-06-22 12:43:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多人身亡 美國大峽谷國家公園警告極端高溫】美國大峽谷國家公園近日釋出宣告說，近期高溫引發的意外事件大幅增多，遊客需警惕極端高溫。美聯社20日援引這份宣告報道，位於亞利桑那州的峽谷腹地近期高溫中暑事件頻發，已有三名徒步旅行者不幸身亡。6月12日，一名72歲老人徒步時因高溫突發不適，最終身亡。6月16日，兩名分別為67歲、68歲的徒步者疑似死於高溫相關病症，事發步道是幾條徒步路線中難度最高的一條。美國國家氣象局對大峽谷國家公園釋出了極端高溫預警，預警時段為當地時間22日正午至23日。氣象預報顯示，位於大峽谷底部區域的幻影牧場氣溫可能達到或超過43攝氏度。（新華社）"
+    },
+    {
+      "id": "te:markets:560648",
+      "time": "2026-06-22 12:43:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Eases Ahead of MSCI Review — The Indonesian rupiah hovered around IDR 17,830 per U.S. dollar on Monday after briefly firming below IDR 17,700 in the prior session, as the dollar index held near a 13-month high after the Fed kept interest rates unchanged last week but maintained a hawkish policy stance. Locally, traders remained cautious ahead of MSCI's review later this week on whether to downgrade Indonesia to frontier market status. Last week, the index provider lowered Indonesia's Information Flow accessibility rating, citing concerns over transparency, free-float visibility, and price discovery. Still, losses in the rupiah were limited by Bank Indonesia's tightening measures, including a total of 100bps of rate hikes since May and stricter foreign exchange rules, effective July 1, to curb capital outflows. On the fiscal front, tax revenue grew strongly in May amid the government's efforts to improve fiscal discipline, including scaling back funding for the Free Meal Program and suspending it during holidays."
+    },
     {
       "id": "4947303",
       "time": "2026-06-22 12:42:30",
@@ -159058,59 +159114,6 @@
         "其他"
       ],
       "text": "【捷成華視網聚與華為影片簽約影片內容領域全面合作框架協議】6月13日，捷成華視網聚與華為影片在“華為開發者大會2026（HDC.2026）”正式簽約“影片內容領域全面合作框架協議”，這是雙方繼十年內容合作聯合運營之後的再次深度攜手。雙方將圍繞“長期共生、生態協同、價值共享”原則，在內容供給、AI技術融合、鴻蒙生態共建等領域開展為期八年的長期全面合作，捷成華視網聚正式成為華為影片“內容生態核心夥伴”，合作模式實現產業化升級。捷成華視網聚將繼續向華為影片開放電影、電視劇、動漫、綜藝等全品類版權內容，雙方共建高效的版權內容供給與運營機制，透過聯合營銷實現內容與終端雙向賦能。"
-    },
-    {
-      "id": "4935523",
-      "time": "2026-06-15 12:47:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【飛榮達：持有華科冷芯（上海）動力科技有限公司7.7783%股權】飛榮達(300602)6月15日在互動平臺表示，截至目前，公司持有華科冷芯（上海）動力科技有限公司7.7783%股權。公司與華科冷芯針對懸浮泵進行技術整合，可提供液冷系統或散熱模組，從而為客戶提供熱管理解決方案服務。"
-    },
-    {
-      "id": "mkt:019ec99a-b873-7dd8-affe-b2430158f5e6",
-      "time": "2026-06-15 12:47:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Hong Kong opens public consultation on 2026–30 five-year plan, aims to deepen mainland market links and expand cross-border financing】Hong Kong’s government opened a public consultation on its first five-year economic and social plan for 2026–30, proposing measures to boost high-quality development as an international financial centre. Key market measures include deeper integration of equities, bonds, asset-management, wealth-management, insurance and risk-management markets with mainland capital markets; steps to consolidate Hong Kong’s role as the global offshore renminbi centre; building a commodity trading ecosystem; and widening cross-border financing channels to ease state-owned enterprises’ overseas expansion and attract inbound foreign capital. The plan also promotes Financial+ initiatives — including fintech, green finance and trade finance — to deepen sector linkages and support Beijing’s objective of accelerating the construction of a financial powerhouse."
-    },
-    {
-      "id": "4935522",
-      "time": "2026-06-15 12:46:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國藥控股與輝瑞達成戰略合作】近日，國藥控股與輝瑞在國藥控股總部正式確定戰略合作關係。雙方將聚焦大扶康®（Diflucan®）（氟康唑氯化鈉注射液/氟康唑膠囊）市場推廣迭代，以及輝瑞未來新產品服務升級展開深入合作。"
-    },
-    {
-      "id": "4935521",
-      "time": "2026-06-15 12:46:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港首份五年規劃展開公眾諮詢：擬加強與內地資本市場互聯互通，擴大跨境投融資渠道】香港特別行政區政府今日就香港經濟和社會發展第一個五年規劃（2026—2030）展開公眾諮詢。其中提到，推動國際金融中心高質量發展。深化股票、債券、資產管理及財富管理、保險及風險管理市場的聯動發展，鞏固香港作為全球離岸人民幣中心的地位。構建大宗商品交易生態圈，加強與內地資本市場互聯互通，擴大跨境投融資渠道，便利國家企業“走出去”及海外資本“引進來”。鞏固提升香港作為國際金融中心的地位，深度推展“金融+”賦能各業（包括金融科技、綠色金融、貿易融資等），貢獻國家“加快建設金融強國”的戰略目標。"
-    },
-    {
-      "id": "4935520",
-      "time": "2026-06-15 12:45:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東：引導政府投資基金做耐心資本】近日，山東省印發《山東省政府投資基金佈局規劃和投向指導工作辦法（試行）》（以下簡稱《辦法》）。《辦法》強調，政府投資基金要帶頭做耐心資本，著力“投早、投小、投長期、投硬科技”，推動更多初創企業加快成長為科技型企業。政府投資基金投向圍繞山東深入實施“十大工程”，持續塑強“十個新優勢”，聚焦高階裝備、資訊科技服務、新能源、新材料等4個萬億級新興支柱產業和人工智慧、生物醫藥、新能源汽車、航空航天與低空經濟等4個千億級新興潛力產業，統籌考慮本地區財力、產業資源基礎、債務風險等情況，因地制宜選擇投資領域。"
-    },
-    {
-      "id": "mkt:019ec998-9595-7dd8-affe-adaf3fd45f2d",
-      "time": "2026-06-15 12:44:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hengyi Petrochemical said Phase I of its Brunei refinery-petrochemical project produced a small amount of sulfur as a byproduct from the environmental facility; byproduct design capacity is 120,000 tonnes. Phase II work is progressing in an orderly manner."
     }
   ]
 }
