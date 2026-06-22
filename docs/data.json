@@ -1,7 +1,146 @@
 {
-  "updated": "2026-06-22 20:34:30",
-  "count": 17251,
+  "updated": "2026-06-22 20:38:37",
+  "count": 17259,
   "items": [
+    {
+      "id": "mkt:019eef56-42c6-7dd8-b0bd-243cd74050c8",
+      "time": "2026-06-22 20:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX launches first investment-grade bond offering】SpaceX filed to issue its first senior unsecured investment-grade notes, saying the deal could mark the start of a large fundraising wave to finance its AI ambitions after a record $75 bln IPO. The filing says issuance is subject to market conditions; the notes would be unsecured and pari‑passu with all existing and future non‑subordinated debt. Media reports say SpaceX is seeking at least $20 bln; proceeds would repay a temporary bridge loan of roughly that size, which makes up the bulk of the company’s $29.1 bln of long-term debt. Moody's and FITCH last week rated the debt Baa1 and BBB+ respectively—each three notches above junk—while S&P assigned BBB."
+    },
+    {
+      "id": "4948428",
+      "time": "2026-06-22 20:37:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX啟動首次投資級債券發行】SpaceX首次發行投資級債券，預計這將是該公司在創紀錄的750億美元IPO之後，為滿足其人工智慧願景而展開的大規模融資潮的開端。SpaceX申報檔案中表示，已啟動其首次優先無擔保票據的發行，“視市場狀況及其他因素而定”。檔案補充說明，該等票據將為SpaceX的無擔保債務，在償付順序上與所有現有及未來的非次級債務、負債及其他義務享有同等權益。據媒體上週報道，SpaceX尋求透過此次發行籌集至少200億美元資金。募集資金將用於償還一筆規模大致相當的臨時過橋貸款，該貸款佔SpaceX 291億美元長期債務中的絕大部分。SpaceX上週已獲得三大債券評級機構的評級，為更低成本的融資鋪平了道路。穆迪和惠譽分別給予SpaceX債務Baa1和BBB+的評級，均較垃圾級高出三檔。標普則給予BBB評級。"
+    },
+    {
+      "id": "mkt:019eef55-5325-7dd8-b0bd-1c0a93a95dff",
+      "time": "2026-06-22 20:36:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of India net sold $8.944 bln in FX markets in April."
+    },
+    {
+      "id": "4948426",
+      "time": "2026-06-22 20:36:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英特爾任命李錫熙為代工執行副總裁】英特爾公司6月22日宣佈，任命李錫熙（Seok-Hee Lee）為英特爾代工執行副總裁，直接向英特爾執行長陳立武彙報。在這一職位上，李錫熙將領導先進封裝、系統整合、後道技術開發及後道製造。加入英特爾前，李錫熙曾任SK On社長兼執行長，此前還曾任SK海力士社長兼執行長。"
+    },
+    {
+      "id": "4948425",
+      "time": "2026-06-22 20:36:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南足協回應交流賽衝突：暫停涉事人員參加省內一切足球活動】湖南省足球協會6月22日釋出《關於張家界市足球隊與廣東銘途梯隊交流賽有關情況的宣告》，即日起，暫停本次事件中的相關涉事人員參加湖南省內一切足球活動。責成張家界市足球協會立即依法依規調查本次事件，並根據調查結果對相關涉事人員進行嚴肅處理，深刻反思管理責任，全面加強隊伍賽風賽紀教育和日常管理。對於本事件中可能存在的違法違規行為，湖南省足球協會將依法依規嚴肅處理。"
+    },
+    {
+      "id": "mkt:019eef54-8da5-7dd8-b0bd-122e4f2a4fd4",
+      "time": "2026-06-22 20:35:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India said that although a temporary US-Iran peace agreement has eased tensions to some extent, the global economic outlook remains fragile."
+    },
+    {
+      "id": "4948424",
+      "time": "2026-06-22 20:35:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：儘管五月份有所回升，消費者物價指數通脹依然保持穩定。如果西南季風如預期出現，可能會對國內經濟增長和通脹前景造成壓力。儘管美伊臨時和平協議帶來些許喘息，全球經濟格局依然脆弱。"
+    },
+    {
+      "id": "te:markets:560797",
+      "time": "2026-06-22 20:35:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Sterling Rebounds After Starmer's Resignation — The British pound rebounded toward $1.33 after falling to its lowest level since March earlier in the session, as markets reacted to Prime Minister Keir Starmer's resignation, paving the way for a change in the UK's leadership. The resignation follows Greater Manchester Mayor Andy Burnham's by-election victory last week, which enabled his return to Parliament. Burnham subsequently announced his intention to seek the premiership. Prospects for a smooth leadership transition improved after Wes Streeting, previously viewed as a potential challenger, declared his support for Burnham's candidacy. Investors are now focused on the implications for the UK's fiscal outlook, seeking greater clarity on the political transition and Burnham's fiscal policy agenda, with few concrete details available so far. A key concern remains the possibility of increased gilt issuance to finance higher public spending, which could further strain the UK's already fragile public finances and elevated debt burden."
+    },
+    {
+      "id": "mkt:019eef53-a2fd-7dd8-b0bd-09746ad22c92",
+      "time": "2026-06-22 20:34:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India said that if the southwest monsoon unfolds as expected, it could put pressure on domestic growth and the inflation outlook."
+    },
+    {
+      "id": "4948423",
+      "time": "2026-06-22 20:34:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元/英鎊下跌0.3%至0.86393，為6月16日以來最低水平。"
+    },
+    {
+      "id": "4948422",
+      "time": "2026-06-22 20:34:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：上海悅普數智科技股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "4948421",
+      "time": "2026-06-22 20:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英特爾釋出“AI家庭大腦”】在今日開幕的第四屆中國國際供應鏈促進博覽會（鏈博會）上，英特爾釋出AI家庭大腦，該方案基於第三代英特爾® 酷睿™ Ultra及酷睿™ 處理器，整合CPU、GPU、NPU三大引擎，榮耀、Minimax、聯想、小米等出席了釋出會。此外，英特爾還與長安汽車聯合釋出了搭載英特爾AI Box Ultra的AI座艙解決方案。（科創板日報）"
+    },
+    {
+      "id": "mkt:019eef53-5365-7dd8-b0bd-02e791797640",
+      "time": "2026-06-22 20:34:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EUR/GBP fell 0.3% to 0.86393, the lowest since June 16."
+    },
+    {
+      "id": "4948420",
+      "time": "2026-06-22 20:34:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "Upscale AI ：A-1輪融資由Premji Invest領投；NVIDIA、Salesforce Ventures、Seligman Ventures、淡馬錫參投。"
+    },
+    {
+      "id": "mkt:019eef52-023d-7dd8-b0bc-fc2577802e0a",
+      "time": "2026-06-22 20:33:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India said CPI inflation remained stable despite a pickup in May."
+    },
+    {
+      "id": "te:economy:560796",
+      "time": "2026-06-22 20:33:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "Canada Inflation Rises to Over 2-Year High — The headline inflation rate in Canada rose to 3.2% in May of 2026 from 2.8% in the previous month, ahead of market expectations of 3% and the 2.8% rate from the previous month to mark the fastest inflation rate since December 2023. The increase was largely due to a surge in gasoline inflation (33.2% vs 22.8% in April) as the war in the Middle East suspended energy exports from the key region, lifting broader energy costs in Canada by 9% (vs 7.6%)."
+    },
     {
       "id": "mkt:019eef51-ae62-7dd8-b0bc-f67616fa5e71",
       "time": "2026-06-22 20:32:48",
@@ -9,6 +148,14 @@
         "MKT News"
       ],
       "text": "【Shanghai executive meeting reviews 15th Five-Year plan for strategic emerging industries and Digital Shanghai】Mayor Gong Zheng chaired a city executive meeting today, instructing officials to sustain Q1 economic momentum and push to meet H1 growth targets; boost the scale and capability of strategic emerging industries; accelerate high-quality private investment; and advance the Digital Shanghai initiative. Districts and departments were ordered to extend sector gains, close weaknesses, ensure heavyweight industries act as stabilising anchors and help pressured sectors reach inflection points. The city will back key regions to carry greater responsibility, prioritise solving new problems, and coordinate short-term growth stabilisation with medium-to-long-term structural transformation. The meeting approved in principle Shanghai’s 15th Five-Year plan for strategic emerging industries, stressing innovation-led development, strengthening core capabilities in three lead industries and key industrial chains, deepening forward-looking deployments in frontier technologies, and expanding industry clusters in targeted niche tracks. The plan calls for institutional reform to unlock business dynamism—wider scenario opening, stronger factor support—and deeper domestic coordination and external opening to raise industry development quality and efficiency."
+    },
+    {
+      "id": "4948416",
+      "time": "2026-06-22 20:32:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨蛋價高位回落 期現共振大幅走弱】今日現貨延續下跌，據卓創資訊資料監測顯示，截至6月22日14點47分，全國主產區雞蛋均價為4.45元/斤，較昨日價格下滑0.08元/斤。整體來看，前期端午備貨帶動雞蛋現貨大幅衝高，節後需求快速消退，疊加南方梅雨壓制流通採購，現貨價格快速回落，雞蛋期貨同步大跌，期現漲幅基本全部回吐。當前庫存快速累積，生產環節及流通環節庫存大幅上漲，且已高於去年同期，短期供需寬鬆格局初現，現貨蛋價仍存在調整空間，不過隨著7月出梅以及9月中秋備貨啟動，現貨蛋價仍存在一定反彈的需求，近月盤面謹慎追空，後續仍需要關注產區庫存情況及存欄情況。不過值得注意的是，二季度集中補欄的雞苗在四季度末期陸續開產，供應量或呈攀升態勢，遠期供應壓力不容忽視。 (廣發期貨)"
     },
     {
       "id": "mkt:019eef51-9f05-7dd8-b0bc-e88eff6854eb",
@@ -62,6 +209,15 @@
         "The Trump Trade"
       ],
       "text": "Lowy Institute poll: Australians' confidence in US President Trump falls to 21%."
+    },
+    {
+      "id": "em:jjsj_jndsj:202606223778265749",
+      "time": "2026-06-22 20:31:17",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大5月份通脹率同比上漲3.2% 預估值為3.0%】加拿大5月份通脹率同比上漲3.2%，預估值為3.0%。"
     },
     {
       "id": "mkt:019eef50-2c83-7dd8-b0bc-d31e30ce728d",
@@ -158383,99 +158539,6 @@
         "Importance 2"
       ],
       "text": "New York Manufacturing Growth Slows in June — The New York Fed’s Empire State Manufacturing Index fell to 5.7 in June 2026, down from 19.6 in the previous month and well below market expectations of 14, indicating a notable slowdown in regional manufacturing activity, according to firms surveyed in the Empire State Manufacturing Survey. Despite the weaker headline reading, several underlying indicators showed continued expansion. New orders and shipments both rose, while unfilled orders also increased. However, supply chain pressures persisted, with delivery times lengthening and supply availability continuing to deteriorate. Labor market conditions remained firm, with employment expanding for a fifth consecutive month and the average workweek also increasing. Meanwhile, inflationary pressures remained elevated, as both input and selling price increases stayed strong. Looking ahead, firms maintained a broadly optimistic outlook for business conditions over the coming months, despite near-term moderation in activity."
-    },
-    {
-      "id": "4936629",
-      "time": "2026-06-15 20:38:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮盛發展旗下榮萬家設立合資公司 佈局物業場景智慧機器人業務】記者獲悉，榮盛發展旗下港股物業平臺榮萬家與北京可安可智慧科技簽署合作協議，雙方將共同出資設立合資公司，聚焦物業場景智慧機器人業務佈局。根據規劃，相關機器人產品將率先應用於安保巡邏、保潔清掃等物業服務場景。"
-    },
-    {
-      "id": "mkt:019ecb49-bdd5-7dd8-b00d-9462bf71b8f0",
-      "time": "2026-06-15 20:37:47",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "TASNIM NEWS, citing informed sources, said U.S. forces must withdraw from areas near Iran within 30 days of a final agreement being reached."
-    },
-    {
-      "id": "mkt:019ecb49-6e69-7dd8-b00d-8a01b796472c",
-      "time": "2026-06-15 20:37:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran: nuclear talks and sanctions relief to begin within 60 days】Iran's foreign ministry spokesman told Iranian media on the 15th that nuclear talks and sanctions relief will begin within 60 days."
-    },
-    {
-      "id": "4936628",
-      "time": "2026-06-15 20:37:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：最終協議達成後，美軍須在 30 天內撤離伊朗周邊區域。"
-    },
-    {
-      "id": "te:economy:559064",
-      "time": "2026-06-15 20:37:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Wholesale Sales",
-        "Importance 1"
-      ],
-      "text": "Canadian Wholesale Sales Grow for 3rd Month — Wholesale sales in Canada expanded by 0.6% from the previous month to C$89.3 billion in April of 2026, revised higher from the preliminary estimate of a 0.1% growth rate, to reflect the third consecutive increase in the sector. The figure excludes wholesale sales of petroleum, petroleum products, and other hydrocarbons, which surged 7.2% on the period due to the higher prices for fuel as the continuation of the war in the Middle East shut off energy exports from the region. Sales were firmly higher for building materials and supplies (4.3% to C$12.7 billion), miscellaneous goods (1.4% to C$11.5 billion), motor vehicles and parts (0.9% to C$14.7 billion), and personal and household goods (0.5% to C$13.2 billion). In turn, sales fell for food and beverage (-1.4% to C$16.2 billion) and machinery and equipment (-1.2% to $19.3 billion)."
-    },
-    {
-      "id": "4936627",
-      "time": "2026-06-15 20:36:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗：核談判和解除制裁將在60天內開始】據伊朗媒體15日報道，伊朗外交部發言人當天表示，核談判和解除制裁將在60天內開始。（新華社）"
-    },
-    {
-      "id": "mkt:019ecb48-cfed-7dd8-b00d-86ac6b6ffa23",
-      "time": "2026-06-15 20:36:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada wholesale inventories rose 1.1% MoM in April; prior +0.3%."
-    },
-    {
-      "id": "mkt:019ecb48-b193-7dd8-b00d-7f6f7199d556",
-      "time": "2026-06-15 20:36:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Wholesale Inventories (MoM) (Apr) | actual 1.1% | previous 0.3%"
-    },
-    {
-      "id": "4936626",
-      "time": "2026-06-15 20:36:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩當局提醒逃難者：以軍沒撤，彆著急回家】美國和伊朗15日達成關於停戰談判的諒解備忘錄，但以色列對黎巴嫩南部的佔領和襲擊並未終止。黎巴嫩地方當局當天發表宣告，呼籲那些先前為躲避戰火被迫離家的民眾先彆著急回家，因為以軍還未撤出黎南部。據黎巴嫩國家通訊社15日報道，以色列當天上午對黎南部奈拜提耶、賓特朱拜勒、邁爾季歐雲等地區發動襲擊，造成人員受傷。南部地方當局紛紛發出提醒：雖然美伊達成諒解備忘錄，但以色列已表示不會從黎巴嫩南部佔領區撤軍，先前被迫離家的民眾先彆著急回家。（新華社）"
-    },
-    {
-      "id": "4936625",
-      "time": "2026-06-15 20:34:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨：將在以色列撤軍之前捍衛黎巴嫩人民。"
     }
   ]
 }
