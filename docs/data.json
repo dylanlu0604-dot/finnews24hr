@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-23 02:48:11",
-  "count": 17266,
+  "updated": "2026-06-23 02:52:13",
+  "count": 17268,
   "items": [
+    {
+      "id": "mkt:019ef0ab-f718-7dd8-b0c4-258ea942e8d8",
+      "time": "2026-06-23 02:51:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Venezuela's central bank said oil export revenue rose to $5.49 billion in Q1 2026."
+    },
+    {
+      "id": "4948882",
+      "time": "2026-06-23 02:50:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "委內瑞拉央行：2026年第一季度委內瑞拉石油出口收入升至54.9億美元。"
+    },
+    {
+      "id": "mkt:019ef0a9-ae96-7dd8-b0c4-1a47bf742ec4",
+      "time": "2026-06-23 02:48:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $77.90 a barrel, down $2.67, or 3.31%."
+    },
+    {
+      "id": "4948880",
+      "time": "2026-06-23 02:47:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶77.90美元，下跌2.67美元，跌幅3.31%。"
+    },
+    {
+      "id": "4948879",
+      "time": "2026-06-23 02:47:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司：預計到年底將有近1000架配備星鏈系統的飛機。"
+    },
     {
       "id": "4948876",
       "time": "2026-06-23 02:47:21",
@@ -158526,30 +158574,6 @@
         "國際"
       ],
       "text": "【野村：美伊協議強化做空美元的理由】野村表示，美國和伊朗達成臨時協議，以延長停火併重開霍爾木茲海峽，這增強了選擇性做空美元的理由，也增強了聚焦外匯市場相對價值機會的理由。“霍爾木茲海峽即將重新開放，支援我們選擇性做空美元的立場，重點關注由本地因素驅動的相對價值交易，”野村策略師Craig Chan、Dominic Bunning和Wee Choon Teo等人週一在報告中寫道。"
-    },
-    {
-      "id": "mkt:019ecc9f-73a5-7dd8-b016-09f8b5c774bd",
-      "time": "2026-06-16 02:51:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Abbas: Palestinian presidential election to follow in 2027】Palestinian President Abbas told Indonesian President Prabowo in a phone call on the 15th that parliamentary elections are scheduled for November and a presidential vote will follow in 2027. Abbas said he will push a comprehensive national reform plan to strengthen the democratic process."
-    },
-    {
-      "id": "mkt:019ecc9e-82bb-7dd8-b016-00214a915f32",
-      "time": "2026-06-16 02:50:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to a Refinitiv/Ipsos poll, Trump’s support rose to 36% as public dissatisfaction with the cost of living eased."
-    },
-    {
-      "id": "mkt:019ecc9e-3e6e-7dd8-b015-fd08a241652d",
-      "time": "2026-06-16 02:49:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv/Ipsos poll: 24% of US adults approve of Trump’s handling of the cost of living, up from 22% a week earlier and 20% a month earlier."
     }
   ]
 }
