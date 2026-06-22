@@ -1,7 +1,121 @@
 {
-  "updated": "2026-06-22 21:21:55",
-  "count": 17268,
+  "updated": "2026-06-22 21:26:00",
+  "count": 17276,
   "items": [
+    {
+      "id": "mkt:019eef81-d0dd-7dd8-b0be-fe9bb84dc906",
+      "time": "2026-06-22 21:25:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former UK health minister Si Te Li Ting said he did not offer me any job."
+    },
+    {
+      "id": "mkt:019eef81-b3e5-7dd8-b0be-f216f4b904c9",
+      "time": "2026-06-22 21:25:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A former UK health secretary said Burnham did not promise him the Chancellor of the Exchequer role."
+    },
+    {
+      "id": "4948518",
+      "time": "2026-06-22 21:25:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國前衛生部長斯特里廷：伯納姆並未向我（承諾）提供財政大臣一職。"
+    },
+    {
+      "id": "4948517",
+      "time": "2026-06-22 21:24:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達能源部長：該事件不會對出口或本地需求供應造成任何影響。"
+    },
+    {
+      "id": "4948516",
+      "time": "2026-06-22 21:24:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦總理：美伊就達成最終協議路線圖取得一致】巴基斯坦總理夏巴茲22日在社交媒體發文表示，美國與伊朗在瑞士比爾根山舉行的高階別談判已結束，各方在積極氛圍中取得突破進展，就美伊60天內達成最終協議的路線圖取得一致。 夏巴茲表示，各方還同意設立一個高階別委員會，負責監督談判程序，同時啟動技術性會談。夏巴茲對美伊兩國高層的建設性接觸表示讚賞，並對卡達、瑞士等國的支援表示感謝。他表示，巴方將繼續為推動地區和平發揮建設性作用。巴基斯坦副總理兼外長達爾當日在社交媒體發文表示，巴外交部團隊將在本週剩餘時間繼續留駐瑞士，同有關各方就後續技術性會談保持密切溝通。（新華社）"
+    },
+    {
+      "id": "4948515",
+      "time": "2026-06-22 21:24:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【卡達工廠爆炸事件已致13人死亡】當地時間6月22日，卡達能源大臣稱有13人在萊凡角工業城一家工廠爆炸中死亡，另有66人受傷。這次事件是一起意外事故，而非侵略或破壞行為。卡達能源大臣表示，卡達方面已經開始對事故產生的具體原因展開調查，爆炸沒有對周邊環境造成危害，也不會影響卡達的能源出口能力。（央視新聞）"
+    },
+    {
+      "id": "4948514",
+      "time": "2026-06-22 21:21:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明陽集團與粵港澳大灣區國家技術創新中心簽署戰略合作框架協議】6月22日，明陽集團與粵港澳大灣區國家技術創新中心簽署戰略合作框架協議。根據合作協議，雙方將共同探索人工智慧與新能源產業融合發展創新路徑，推動海上風電向智慧化、數字化方向升級。"
+    },
+    {
+      "id": "mkt:019eef7e-908b-7dd8-b0be-ed4c1f7d312f",
+      "time": "2026-06-22 21:21:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's energy minister said assessing damage to the affected plants will take some time."
+    },
+    {
+      "id": "mkt:019eef7e-7f62-7dd8-b0be-e169b8ff418e",
+      "time": "2026-06-22 21:21:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Qatar's energy minister said the country has sufficient natural gas to meet domestic consumption and can cover demand while maintenance is carried out."
+    },
+    {
+      "id": "4948513",
+      "time": "2026-06-22 21:21:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達能源部長：評估受影響工廠的受損情況需要一定時間。"
+    },
+    {
+      "id": "4948512",
+      "time": "2026-06-22 21:21:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達表示將繼續推進未來的液化天然氣出口計劃。"
+    },
+    {
+      "id": "4948511",
+      "time": "2026-06-22 21:21:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達能源部長：我國國內天然氣儲量充足，在完成天然氣設施維修前，可完全覆蓋國內用氣需求。"
+    },
+    {
+      "id": "mkt:019eef7d-f1e5-7dd8-b0be-dabc43772744",
+      "time": "2026-06-22 21:21:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's energy minister said it is currently difficult to determine when operations at the affected plants will resume."
+    },
+    {
+      "id": "4948510",
+      "time": "2026-06-22 21:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達能源部長：目前尚無法確定受影響工廠的復工時間。"
+    },
     {
       "id": "mkt:019eef7c-c0cd-7dd8-b0be-d048fb8230a1",
       "time": "2026-06-22 21:19:50",
@@ -692,12 +806,29 @@
       "text": "Morgan Stanley plans to spend $1.3 billion to acquire an office tower to expand its Dallas operations and expects the building to provide about 4,800 jobs."
     },
     {
+      "id": "4948471",
+      "time": "2026-06-22 21:05:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功將奈米顆粒編織成三維光熱蒸發材料 實現高效太陽能海水淡化】用高分子把奈米顆粒“鎖釦”起來，讓太陽能海水淡化變得既高效又長壽。據中國科學院過程工程研究所訊息，該所與深圳大學聯合團隊提出一種高分子“鎖釦”機制，成功將奈米顆粒編織成三維光熱蒸發材料，使太陽能海水蒸發速率大幅提升，並透過戶外試驗裝置，實現了從海水淡化到農業灌溉的初步探索。相關研究成果發表在國際學術期刊《先進材料》雜誌。實驗資料顯示，這種結構透過多重散射和吸收，太陽光吸收率達90.2%；同時，奈米限域空間會改變水分子間的氫鍵網路，使蒸發同樣水量所需能量降低45.7%。單根蒸發體在測試中實現了每小時每平方米3.81萬克的蒸發速率，是團隊此前研發二維薄膜的8.5倍。在連續30天的海水加速老化中，沒有奈米顆粒脫落，且材料在光照下不產生活性自由基，解決了有機基底降解難題。據悉，研究團隊目前正繼續最佳化冷凝效率和系統成本，推動這一技術在沿海缺水地區、海島及偏遠地區規模化落地，讓陽光海水早日變成惠及百姓的安全淡水。（科技日報）"
+    },
+    {
       "id": "4948470",
       "time": "2026-06-22 21:05:21",
       "tags": [
         "公司"
       ],
       "text": "Meta Platforms(META.O)任命CRED公司的KUNAL SHAH為WhatsApp新任負責人。"
+    },
+    {
+      "id": "4948469",
+      "time": "2026-06-22 21:05:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美軍稱霍爾木茲海峽保持開放】當地時間6月22日，美國軍方表示，霍爾木茲海峽目前仍保持開放通行狀態。美軍中央司令部發言人蒂姆·霍金斯表示：“伊朗並未控制霍爾木茲海峽。通航仍在繼續，美軍正在監控局勢，以確保這一情況持續。”霍金斯稱，美軍在該地區的兵力部署沒有出現明顯減少或重新部署，但指揮官正持續評估局勢變化。伊朗方面此前表示，所有商船在透過該海峽時需與其有關部門協調，但在雙方上週簽署的為期60天諒解備忘錄框架內，不會向船隻收取費用。（央視新聞）"
     },
     {
       "id": "mkt:019eef6f-227b-7dd8-b0bd-e91a48862244",
@@ -870,6 +1001,16 @@
         "國際"
       ],
       "text": "歐洲央行行長拉加德：歐洲央行必須靈活應對伊朗衝擊。歐洲央行在應對當前形勢方面“處於良好位置”。儘管達成和平協議，中東局勢依然脆弱。"
+    },
+    {
+      "id": "4948461",
+      "time": "2026-06-22 21:02:23",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本酸素宣佈上調氦氣價格，漲幅平均超過30%】日本酸素（Nippon Sanso）6月19日宣佈，自2026年7月起上調氦氣相關產品出貨價格，平均漲幅超過30%。此次調價適用於鋼瓶氣、集裝氣、槽車液氦、混合氣體及特種氣體等產品。公司表示，中東地區氦氣生產中斷及全球供應緊張導致氦氣供應環境顯著惡化。儘管近期地區局勢出現改善跡象，但供應鏈恢復至正常水平仍需較長時間。與此同時，日元貶值進一步推高原材料採購成本，日本國內市場供需失衡局面仍在持續。日本酸素稱，公司此前已透過削減成本和提高運營效率等方式消化部分壓力，但原材料成本上漲幅度已超出內部可承受範圍，因此決定實施價格調整。公司同時警告，未來氦氣供應環境仍將維持緊張，不排除根據市場情況調整供應量及交付安排。"
     },
     {
       "id": "mkt:019eef6c-8fcf-7dd8-b0bd-a61d710438b0",
@@ -158613,91 +158754,6 @@
         "Europe & UK"
       ],
       "text": "European Commission President Von der Leyen said the EU and France will sign a €15 billion defence loan under a security plan."
-    },
-    {
-      "id": "4936719",
-      "time": "2026-06-15 21:25:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中國工商銀行積極支援“出口中國”德國專場活動】近日，由中國商務部和德國工商大會共同舉辦，中國工商銀行支援的“出口中國”德國專場活動在柏林成功舉行。本場活動是“共享大市場·出口中國”在歐盟舉辦的首場活動。商務部副部長兼國際貿易談判副代表凌激、德國聯邦經濟與能源部國務秘書斯特芬、中國工商銀行副行長張偉武出席活動並致辭，中德兩國約80名企業代表參加並現場對接洽談。活動期間，中國工商銀行釋出了有關金融支援舉措。本次活動聚焦德國企業開拓中國市場、深化中德經貿合作，並圍繞“共享大市場·出口中國”系列活動和第九屆中國國際進口博覽會開展專題推介。中國工商銀行依託其釋出的支援“出口中國”全面金融解決方案（CFS），深化“全鏈條、全方位、全場景”服務體系，助力包括德國在內的全球客商深耕中國市場、共享發展機遇。提供全鏈條金融服務，打通跨境結算、貿易融資、匯率避險、現金管理全流程，覆蓋企業出口簽約、履約、回款等全週期金融需求；築牢全方位保障體系，充分發揮人民幣清算行、工銀全球付等核心優勢，最佳化跨境清算服務；深化全場景對接賦能，依託中歐企業聯盟、“一帶一路”銀行間合作機制等國際合作平臺，為各國企業共享中國市場機遇提供堅實保障。中國工商銀行法蘭克福分行釋出了專項金融支援舉措，適配德國企業特色需求，助力更多德國優質產品出口中國、暢銷中國。（中國工商銀行）"
-    },
-    {
-      "id": "mkt:019ecb74-ee5c-7dd8-b00f-5618df8155a4",
-      "time": "2026-06-15 21:24:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "European Council President Costa said there is broad consensus to accelerate the EU enlargement process."
-    },
-    {
-      "id": "te:economy:559069",
-      "time": "2026-06-15 21:24:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Manufacturing Production MoM",
-        "Importance 1"
-      ],
-      "text": "US Manufacturing Output Stalls in May — Manufacturing output in the United States was unchanged in May, missing market expectations for a 0.3% rise, following an upwardly revised 0.7% increase in April. Production of durable goods rose 0.8%, with output increasing in almost all categories. Within durables, the indexes for wood products, nonmetallic mineral products, primary metals, and motor vehicles and parts each grew by more than 1%. Production of nondurable goods fell 0.9% in May, with declines across almost all categories. Capacity utilization in manufacturing was unchanged in May at 75.7%, a level 2.5 percentage points below its long-run average (1972–2025)."
-    },
-    {
-      "id": "4936718",
-      "time": "2026-06-15 21:24:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST長園：擬與格力供應鏈開展2億元供應鏈採購業務合作】ST長園公告稱，公司及全資子公司珠海運泰利擬與格力供應鏈簽署《合作框架協議》，開展供應鏈採購業務合作。格力供應鏈擬向珠海運泰利提供不超2億元的可迴圈使用採購業務額度，公司為珠海運泰利履行協議義務提供連帶責任擔保。格力供應鏈與公司具有關聯關係，本次交易構成關聯交易，需提交股東會審議。過去12個月，公司與關聯方還有保理融資、房屋租賃等交易。"
-    },
-    {
-      "id": "mkt:019ecb74-5360-7dd8-b00f-4a00b3555df5",
-      "time": "2026-06-15 21:24:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission President Von der Leyen said Iran must fundamentally change its behavior before the EU can lift any sanctions."
-    },
-    {
-      "id": "mkt:019ecb73-cc68-7dd8-b00f-4520499e42b0",
-      "time": "2026-06-15 21:23:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reported a fighter jet crashed during a training flight; the crew survived."
-    },
-    {
-      "id": "4936717",
-      "time": "2026-06-15 21:23:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "馮德萊恩表示，在任何歐盟制裁解除之前，伊朗必須從根本上改變其行為。"
-    },
-    {
-      "id": "4936715",
-      "time": "2026-06-15 21:22:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部證實一架戰略轟炸機在伊爾庫茨克地區墜毀。"
-    },
-    {
-      "id": "mkt:019ecb72-f0d8-7dd8-b00f-3e66074f7ec6",
-      "time": "2026-06-15 21:22:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reports the Russian Defence Ministry confirmed a strategic bomber crashed in the Irkutsk region."
     }
   ]
 }
