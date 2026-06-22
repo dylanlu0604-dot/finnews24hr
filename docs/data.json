@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-22 23:40:19",
-  "count": 17323,
+  "updated": "2026-06-22 23:44:35",
+  "count": 17321,
   "items": [
+    {
+      "id": "te:economy:560844",
+      "time": "2026-06-22 23:40:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Colombia Trade Deficit Widens In April — Colombia’s trade deficit widened to $2.11 billion in April 2026 from $1.67 billion a year earlier. Imports rose 15.8% year-on-year to $6.71 billion, driven by stronger demand for manufactured goods. Manufacturing imports increased 16.8%, supported by higher purchases of machinery and transport equipment (24.9%) and chemical products (9.6%). Imports of agriculture, food, and beverages rose 19.9%, led by food products and live animals, which increased 28.7%. Fuels and extractive industry imports climbed 5.2%, mainly due to a 45.0% jump in non-ferrous metals. Exports rose 11.7% to $4.6 billion, led by a 46.2% increase in fuels and extractive industry products, supported by a 72.3% surge in petroleum and related shipments. Exports in the other sectors category jumped 78.3% due to stronger sales of non-monetary gold. In contrast, manufactured exports fell 8.3%, weighed by a 24.8% drop in machinery and transport equipment shipments."
+    },
+    {
+      "id": "4948745",
+      "time": "2026-06-22 23:39:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：伊美瑞士談判未涉及核問題】據伊朗媒體22日報道，伊朗外交部發言人巴加埃當天說，伊美在瑞士進行的談判沒有涉及核問題，也未接受任何新承諾。（新華社）"
+    },
     {
       "id": "4948744",
       "time": "2026-06-22 23:38:54",
@@ -159141,43 +159161,6 @@
         "MKT News"
       ],
       "text": "Senior U.S. official says developments over the next few weeks will signal the trajectory of U.S.-Iran relations."
-    },
-    {
-      "id": "mkt:019ecbf4-14c6-7dd8-b012-9ee5136749a3",
-      "time": "2026-06-15 23:43:51",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Media say US, Iran sign memorandum of understanding】Reuters reported on the 15th that President Trump and Vice President Pence have signed a U.S.-Iran memorandum of understanding, and the speaker of Iran’s Islamic Consultative Assembly has also signed."
-    },
-    {
-      "id": "4936909",
-      "time": "2026-06-15 23:43:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅出席上海合作組織成立25週年招待會】6月15日，中共中央政治局委員、外交部長王毅在北京出席慶祝上海合作組織成立25週年招待會並致辭。 王毅說，上合組織成立掀開當代國際關係嶄新一頁。25年來，成員國團結協作，擔當道義，共謀發展，互學互鑑，培育出互信、互利、平等、協商、尊重多樣文明、謀求共同發展的“上海精神”，探索出毗鄰國家結伴而不結盟，共守安全穩定、共促發展繁榮的新型區域合作模式，建立起以相互尊重、公平正義、合作共贏為核心的新型國際關係。 王毅表示，習近平主席胸懷天下，提出四大全球倡議，倡導構建人類命運共同體，指明時代方向，提供中國方案。上合組織應更好發揮作用，為促進世界和平、發展、合作、共贏作出表率。 王毅強調，上合組織要弘揚“上海精神”、完善全球治理、維護和平安寧、促進可持續發展、增進睦鄰友好合作。今年是中國“十五五”開局之年，中國願同上合組織各成員國共享發展機遇，實現合作共贏。 上合組織秘書長葉爾梅克巴耶夫在致辭中表示，天津峰會透過上合組織未來10年發展戰略，確立了雄心勃勃但現實可行的發展方向。當前，國際社會對上合組織的關注度持續攀升，希望各成員國不斷造福本組織各國人民，促進地區和平與發展事業。 上合組織有關國家駐華使節、國際組織駐華代表等約200人出席招待會。(新華社)"
-    },
-    {
-      "id": "mkt:019ecbf3-dd0c-7dd8-b012-950045eff1a8",
-      "time": "2026-06-15 23:43:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "The Shanghai Stock Exchange issued a regulatory letter to Andeli regarding its acquisition of Yantai Beifang Andeli Juice Co., Ltd."
-    },
-    {
-      "id": "4936908",
-      "time": "2026-06-15 23:41:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【媒體稱美伊已經簽署了諒解備忘錄】據路透社15日報道，美國總統特朗普、副總統萬斯已簽署了美伊諒解備忘錄，伊朗伊斯蘭議會議長也已簽署。（新華社）"
     }
   ]
 }
