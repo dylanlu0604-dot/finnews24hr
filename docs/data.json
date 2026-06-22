@@ -1,7 +1,26 @@
 {
-  "updated": "2026-06-23 01:16:19",
+  "updated": "2026-06-23 01:20:28",
   "count": 17267,
   "items": [
+    {
+      "id": "mkt:019ef057-470a-7dd8-b0c3-0cd473aeffbd",
+      "time": "2026-06-23 01:18:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $3.925 billion from four counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "4948806",
+      "time": "2026-06-23 01:16:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（6月22日），美聯儲隔夜逆回購協議（RRP）使用規模為39.25億美元（交易對手4家），上個交易日報2.51億美元。"
+    },
     {
       "id": "mkt:019ef054-93f7-7dd8-b0c3-064b4a59dfa5",
       "time": "2026-06-23 01:15:35",
@@ -158613,24 +158632,6 @@
         "國際"
       ],
       "text": "【受美國金屬流入影響，LME將底特律新增為銅交割點】倫敦金屬交易所（LME）已批准讓美國底特律成為銅的“良好交割點”，從而擴大了該金屬可用於LME合約儲存和交割的地點網路。6月15日，倫敦金屬交易所通知稱，在首家獲准在當地儲存銅的倉儲公司獲批後，底特律將在三個月後正式作為銅交割點投入使用。"
-    },
-    {
-      "id": "mkt:019ecc4b-6978-7dd8-b014-5e568dd319d8",
-      "time": "2026-06-16 01:19:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. officials say they will approach negotiations with Iran with an open mind and acknowledge the talks' complexity."
-    },
-    {
-      "id": "mkt:019ecc49-8ea1-7dd8-b014-54141bdcc671",
-      "time": "2026-06-16 01:17:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $581 mln from eight counterparties in a fixed‑rate reverse repo operation."
     }
   ]
 }
