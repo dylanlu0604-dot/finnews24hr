@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-23 00:19:44",
-  "count": 17246,
+  "updated": "2026-06-23 00:23:55",
+  "count": 17248,
   "items": [
+    {
+      "id": "mkt:019ef024-2849-7dd8-b0c2-2dd39621e316",
+      "time": "2026-06-23 00:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US State Department said it is deeply concerned by reports that the Rapid Support Forces (RSF) and allied forces are massing near al-Obeid in Sudan."
+    },
+    {
+      "id": "4948766",
+      "time": "2026-06-23 00:22:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院表示，美方對有關快速支援部隊（RSF）及其盟軍正在蘇丹歐拜德周邊集結兵力的報道深表關切。"
+    },
+    {
+      "id": "mkt:019ef021-40e7-7dd8-b0c2-242bfe32d77b",
+      "time": "2026-06-23 00:19:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market sources: U.S. Strategic Petroleum Reserve crude stocks fell about 9.1 mln barrels last week to 331.2 mln barrels, the lowest level since 1983."
+    },
     {
       "id": "4948765",
       "time": "2026-06-23 00:18:23",
@@ -158463,14 +158493,6 @@
         "公司"
       ],
       "text": "【西班牙國腳庫庫雷利亞加盟皇馬】皇家馬德里俱樂部15日宣佈，西班牙國腳庫庫雷利亞加盟。皇馬當日發表官方公告稱，俱樂部與英超球隊切爾西就庫庫雷利亞轉會達成協議。庫庫雷利亞與皇馬簽約六個賽季，其合同到期日為2032年6月30日。"
-    },
-    {
-      "id": "4936976",
-      "time": "2026-06-16 00:22:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國2/10年期國債收益率跌超4個基點】週一（6月15日）歐市尾盤，德國10年期國債收益率跌4.2個基點，報2.954%，日內交投於2.980%-2.944%區間，跳空低開之後，持續低位窄幅震盪——交投於2.950%附近，整體呈現出長尾L形走勢。兩年期德債收益率跌4.5個基點，報2.572%，日內交投於2.578%-2.547%區間；30年期德債收益率跌2.3個基點，報3.526%。2/10年期德債收益率利差漲0.539個基點，報+38.097個基點。"
     }
   ]
 }
