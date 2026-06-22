@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-23 03:17:21",
-  "count": 17262,
+  "updated": "2026-06-23 03:21:26",
+  "count": 17264,
   "items": [
+    {
+      "id": "4948907",
+      "time": "2026-06-23 03:20:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日元在美股盤初創將近兩年新低，隨後出現兩波反彈行情】週一（6月22日）紐約尾盤，美元兌日元漲0.14%，報161.53日元，亞太盤初微幅下跌、跌穿161.20日元，隨後持續上揚，北京時間22:03達到161.93日元——逼近2024年7月3日頂部161.95日元、1986年年底頂部164.50日元、1986年年中頂部182.85日元，隨後出現兩波短線跳水行情、22:51重新整理日低至161.08日元。歐元兌日元跌0.28%，報184.56日元；英鎊兌日元漲0.28%，報214.020日元。"
+    },
+    {
+      "id": "4948906",
+      "time": "2026-06-23 03:18:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美方宣佈，美軍中央司令部將負責監管黎巴嫩停火監督機制。"
+    },
+    {
+      "id": "mkt:019ef0c4-6d8c-7dd8-b0c4-4c9723e4fea5",
+      "time": "2026-06-23 03:17:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said CENTCOM will oversee a Lebanon ceasefire mechanism."
+    },
+    {
+      "id": "4948905",
+      "time": "2026-06-23 03:17:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗代理國防部長：武裝部隊處於最高戒備狀態；侵略者若有任何新的挑釁或誤判，都將招致比以往更強有力的回擊。伊朗有能力同時採取談判與對抗策略，並能針對美國在談判期間違背承諾的行為做出回應。在談判期間及整個60天期限內，伊朗將維持並加強其在各區域的軍事態勢。"
+    },
+    {
+      "id": "mkt:019ef0c4-0815-7dd8-b0c4-410f4dd45261",
+      "time": "2026-06-23 03:17:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iran's acting defense minister said Iran will maintain and strengthen its military posture across all theaters during negotiations and throughout the 60-day period."
+    },
+    {
+      "id": "mkt:019ef0c3-c505-7dd8-b0c4-394a56ee3212",
+      "time": "2026-06-23 03:17:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's acting defense minister said Iran is capable of pursuing negotiations and confrontation simultaneously and can respond if the US breaches commitments during talks."
+    },
+    {
+      "id": "4948904",
+      "time": "2026-06-23 03:16:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普背書約翰・詹姆斯競選密歇根州州長。"
+    },
     {
       "id": "mkt:019ef0c3-6d53-7dd8-b0c4-35a8a6ae27b0",
       "time": "2026-06-23 03:16:39",
@@ -158461,56 +158525,6 @@
         "國際"
       ],
       "text": "【美國空軍一架B-52轟炸機起飛後不久墜毀】美國愛德華茲空軍基地釋出訊息稱，當地時間週一，美國空軍一架B-52“同溫層堡壘”戰略轟炸機在加利福尼亞州愛德華茲空軍基地起飛後不久發生墜毀事故。該基地一份宣告中表示：“應急救援隊伍已立刻抵達現場，相關處置工作仍在進行中。”"
-    },
-    {
-      "id": "mkt:019eccb9-5e47-7dd8-b016-49f5cbea708d",
-      "time": "2026-06-16 03:19:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices fall sharply on 15th】NYMEX July light sweet crude futures closed down $4.13 at $80.75 per barrel, a 4.87% decline; ICE August Brent futures closed down $4.16 at $83.17 per barrel, a 4.76% decline."
-    },
-    {
-      "id": "mkt:019eccb9-4a7c-7dd8-b016-43e0555fbc93",
-      "time": "2026-06-16 03:19:15",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index falls 0.12% to 99.631 at New York close on 15th】The dollar index (DXY), measuring the U.S. currency against six major peers, fell 0.12% to 99.631 at the New York close on the 15th. EUR/USD rose to 1.1595 from 1.1575; GBP/USD to 1.3419 from 1.3416. USD/JPY was 160.31 versus 160.24; USD/CHF fell to 0.7940 from 0.7968; USD/CAD rose to 1.3987 from 1.3980; USD/SEK dropped to 9.3913 from 9.4215."
-    },
-    {
-      "id": "4937052",
-      "time": "2026-06-16 03:18:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數15日下跌】美元指數15日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.12%，在匯市尾市收於99.631。截至紐約匯市尾市，1歐元兌換1.1595美元，高於前一交易日的1.1575美元；1英鎊兌換1.3419美元，高於前一交易日的1.3416美元。1美元兌換160.31日元，高於前一交易日的160.24日元；1美元兌換0.7940瑞士法郎，低於前一交易日的0.7968瑞士法郎；1美元兌換1.3987加元，高於前一交易日的1.3980加元；1美元兌換9.3913瑞典克朗，低於前一交易日的9.4215瑞典克朗。"
-    },
-    {
-      "id": "mkt:019eccb8-ae61-7dd8-b016-3cc5f0e3975a",
-      "time": "2026-06-16 03:18:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reports there is currently no information on the crew of the crashed B-52 bomber."
-    },
-    {
-      "id": "4937051",
-      "time": "2026-06-16 03:17:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價15日顯著下跌】國際油價15日顯著下跌。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌4.13美元，收於每桶80.75美元，跌幅為4.87%；8月交貨的倫敦布倫特原油期貨價格下跌4.16美元，收於每桶83.17美元，跌幅為4.76%。"
     }
   ]
 }
