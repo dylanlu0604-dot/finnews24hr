@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-23 03:21:26",
-  "count": 17264,
+  "updated": "2026-06-23 03:25:28",
+  "count": 17266,
   "items": [
+    {
+      "id": "mkt:019ef0ca-500d-7dd8-b0c4-5acd33329ead",
+      "time": "2026-06-23 03:24:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Vance says Switzerland talks 'very productive', warns you can't trust words alone】U.S. Vice President Vance described talks in Switzerland as \"very productive\" and said mechanisms were established to help keep the Strait of Hormuz open now and in the future. He said Iran has for the first time in a long time allowed weapons and nuclear inspectors into the country, but cautioned that only actions matter — inspectors' actual access and permitted activities will determine progress and remain part of ongoing negotiations."
+    },
+    {
+      "id": "mkt:019ef0c9-dfdf-7dd8-b0c4-5692c972d295",
+      "time": "2026-06-23 03:23:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he looks forward to working with Colombia's new president."
+    },
+    {
+      "id": "4948908",
+      "time": "2026-06-23 03:23:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我期待攜手合作，共建哥倫比亞與美利堅合眾國之間牢固的雙邊關係。"
+    },
     {
       "id": "4948907",
       "time": "2026-06-23 03:20:51",
@@ -158517,14 +158545,6 @@
         "國際"
       ],
       "text": "【在美上市新興市場ETF第四周遭撤資 韓國吸金最多】上週，投資者連續第四周從美國上市、投資新興市場股票和債券的交易所交易基金（ETF）撤資，撤資步伐明顯加快；韓國吸金規模居首。彙編資料顯示，截至6月12日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流出總額為16.4億美元，而前一週流出4.668億美元。今年迄今為止，資金流入總額為392億美元。韓國連續第二週資金流入規模最大，為1.063億美元，主要由iShares Inc.旗下iShares MSCI Emerging Markets ex China帶動；流入規模大於前一週的8560萬美元。"
-    },
-    {
-      "id": "4937055",
-      "time": "2026-06-16 03:23:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國空軍一架B-52轟炸機起飛後不久墜毀】美國愛德華茲空軍基地釋出訊息稱，當地時間週一，美國空軍一架B-52“同溫層堡壘”戰略轟炸機在加利福尼亞州愛德華茲空軍基地起飛後不久發生墜毀事故。該基地一份宣告中表示：“應急救援隊伍已立刻抵達現場，相關處置工作仍在進行中。”"
     }
   ]
 }
