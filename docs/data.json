@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-23 05:29:18",
-  "count": 17324,
+  "updated": "2026-06-23 05:33:20",
+  "count": 17322,
   "items": [
+    {
+      "id": "mkt:019ef140-0b89-7dd8-b0c6-56ba4dd163d9",
+      "time": "2026-06-23 05:32:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bloomberg Indices says SpaceX will be added to the large-cap segment of the Bloomberg Global Index at the close of trading on June 24, 2026."
+    },
+    {
+      "id": "4948998",
+      "time": "2026-06-23 05:32:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "Bending Spoons 投資方擬透過 IPO 募資至多 16.2 億美元。"
+    },
+    {
+      "id": "4948997",
+      "time": "2026-06-23 05:29:33",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【百度ADR盤後上漲，花旗對其開啟30天的看漲催化觀察】百度在美國上市的ADR盤後交易上漲1.5%，此前花旗對這家網際網路搜尋引擎巨頭開啟30天的看漲催化觀察。分析師Alicia Yap寫道，百度“晶片和雲業務的內在實力可能成為推動股價上漲的催化因素。”“雖然難以判斷整體市場情緒何時會發生轉變，但我們相信，一旦百度晶片業務分拆時間表及市場興趣變得明朗，仍存在釋放價值的機會。”花旗給予百度“買入”評級。該公司股價今年以來下跌逾14%。"
+    },
     {
       "id": "4948996",
       "time": "2026-06-23 05:26:57",
@@ -159083,54 +159110,6 @@
         "公司"
       ],
       "text": "委內瑞拉代總統羅德里格斯會見通用電氣韋諾瓦公司高管。"
-    },
-    {
-      "id": "4937174",
-      "time": "2026-06-16 05:32:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉國家電力公司與通用電氣韋諾瓦簽署合作協議。"
-    },
-    {
-      "id": "4937173",
-      "time": "2026-06-16 05:31:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員蒂利斯表示，將於下週與代理司法部長布蘭奇會面。"
-    },
-    {
-      "id": "mkt:019ecd31-dfae-7dd8-b017-2c3350145848",
-      "time": "2026-06-16 05:30:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "SEC filing shows NVIDIA (NVDA.O) has applied to issue up to $25 billion of notes across seven tranches."
-    },
-    {
-      "id": "mkt:019ecd31-9634-7dd8-b017-23bbee27ae95",
-      "time": "2026-06-16 05:30:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【US spot petrochemical prices retreat as Iran risk premium fades】US spot petrochemical prices softened last week as the Iran risk premium unwound, reducing export demand; Gulf Coast operational issues limited further downside. Ethylene fell 4.1% and polymer‑grade propylene dropped 9.8%; both remain above pre‑war levels after Middle East shipment disruptions via the Strait of Hormuz tightened global supply and supported earlier US export flows. The price of para‑phenylene di‑n‑butyl ether, more than 70% used in synthetic rubber tires, held at 63.5 cents/lb, making it one of the most price‑resilient petrochemical products this year."
-    },
-    {
-      "id": "4937172",
-      "time": "2026-06-16 05:29:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：擬發行最高250億美元的七分制票據。"
     }
   ]
 }
