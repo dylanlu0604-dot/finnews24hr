@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-22 13:46:03",
-  "count": 17286,
+  "updated": "2026-06-22 13:50:08",
+  "count": 17280,
   "items": [
+    {
+      "id": "mkt:019eede0-85f5-7dd8-b0b1-03d98c6bd921",
+      "time": "2026-06-22 13:49:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Omdia: Q1 2026 Mainland China PC shipments down 2%, tablets down 5% YoY】Omdia reports Q1 2026 Mainland China PC shipments fell 2% YoY to 8.9 mln units; tablet shipments fell 5% YoY to 8.3 mln. By product, notebooks (including mobile workstations) declined 19% YoY to 5.3 mln units, while desktops (including desktop workstations) rose 41% YoY to 3.6 mln."
+    },
+    {
+      "id": "mkt:019eede0-6baa-7dd8-b0b0-f83cd2ae0d4f",
+      "time": "2026-06-22 13:49:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share gold-related stocks extended gains; Zinc Industry, Yuguang Gold & Lead and Gaoneng Environment hit daily limit-ups, while Guiyan Platinum and Zhongse Co. rose over 7%."
+    },
+    {
+      "id": "te:economy:560655",
+      "time": "2026-06-22 13:49:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Estonia Producer Prices Rise to 4-Month High — Estonian producer prices rose by 2.7% year-on-year in May 2026 from 1.8% in the previous month. This marked the highest reading since January, as costs increased at a faster pace in mining and quarrying (6.3% vs 4.3% in April) and manufacturing (3.3% vs 3.0%), particularly for the manufacture of coke and refined petroleum products (52.6% vs 45.8%), beverages (5.4% vs 3.3%), rubber and plastic products (6.6% vs 1.8%), leather and related products (3.9% vs 3.2%), wood and wood products (4.5% vs 4.4%), paper and paper products (4.0% vs 2.9%), basic pharmaceutical products and preparations (8.8% vs 8.0%), and fabricated metal products, except machinery and equipment (2.3% vs 1.8%). Deflation in electricity, gas, steam and air-conditioning supply also eased (-5.8% vs -14.7%). In contrast, inflation slowed in water supply, sewerage, waste management and remediation activities (2.1% vs 4.1%). On a monthly basis, producer prices picked up to 1.1% after a flat reading in April."
+    },
+    {
+      "id": "4947372",
+      "time": "2026-06-22 13:49:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同比增長28.8% 端午假期長三角鐵路傳送旅客1011萬人次】從中國鐵路上海局集團有限公司（簡稱上鐵集團）獲悉，今年端午假期（6月19日至21日）長三角鐵路傳送旅客1011萬人次，日均傳送337萬人次，同比增長28.8%。其中，6月19日端午節當天傳送旅客403.1萬人次，創上鐵集團端午假期單日旅客傳送量新高。"
+    },
+    {
+      "id": "4947371",
+      "time": "2026-06-22 13:48:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時放量3865億元。"
+    },
+    {
+      "id": "4947370",
+      "time": "2026-06-22 13:48:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石概念持續走強 惠豐鑽石30cm漲停創歷史新高】午後培育鑽石概念持續走強，惠豐鑽石30cm漲停，創歷史新高，此前力量鑽石、四方達、黃河旋風、恆盛能源漲停，中兵紅箭、楚江新材、國機精工、英諾鐳射漲幅靠前。"
+    },
+    {
+      "id": "4947369",
+      "time": "2026-06-22 13:46:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將瑞安航空目標價從25.5歐元上調至27.6歐元。"
+    },
+    {
+      "id": "mkt:019eeddc-f69c-7dd8-b0b0-f5eef8ef6d00",
+      "time": "2026-06-22 13:45:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Malaysia's prime minister met Bangladesh's prime minister to discuss deepening cooperation in trade and investment, energy, artificial intelligence and the digital economy, education and human capital development, agriculture, the halal sector and labor management."
+    },
     {
       "id": "mkt:019eedd9-34b7-7dd8-b0b0-ebf4984386dd",
       "time": "2026-06-22 13:41:35",
@@ -158822,145 +158893,6 @@
         "國際"
       ],
       "text": "【歐盟外交與安全政策高階代表卡拉斯：美伊協議有望成為一項突破性進展】歐盟外交與安全政策高階代表卡拉斯：美伊達成協議是好訊息。美國與伊朗宣佈達成協議，雙方決定結束衝突並重新開放霍爾木茲海峽。此舉有望成為一項突破性進展，也為各方就伊朗核問題及其他核心議題開展深度談判創造了必要空間。協議落地後，全球能源危機或將得到緩解。近日我已同伊朗及海灣國家相關官員進行溝通。今日，歐盟各國外長將商討歐盟如何深度參與後續程序。無論是經濟影響力、核領域專業技術，還是與海灣合作伙伴長期建立的友好關係，歐盟已準備就緒，願為推動問題得到長效解決貢獻力量。"
-    },
-    {
-      "id": "4935598",
-      "time": "2026-06-15 13:49:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芯碁微裝股價創歷史新高】芯碁微裝盤中股價創歷史新高，現漲11.98%，報441.45元，總市值為576.10億元。"
-    },
-    {
-      "id": "4935597",
-      "time": "2026-06-15 13:48:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【秩益科技連續完成億元級A輪及A+輪融資】近日，秩益科技連續完成億元級的A輪及A+輪融資。其中，A輪由老股東沂景資本獨家增資；A+輪由毅達資本領投、比丘資本戰略加持。熙橋資本擔任本輪財務顧問。"
-    },
-    {
-      "id": "mkt:019ec9d3-3414-7dd8-afff-ddb5e58b0104",
-      "time": "2026-06-15 13:48:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "kallas said she recently held talks with Iranian and Gulf counterparts. EU foreign ministers will meet today to discuss how the EU should closely engage in the next phase."
-    },
-    {
-      "id": "mkt:019ec9d3-2bb8-7dd8-afff-d499ca2d2469",
-      "time": "2026-06-15 13:48:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "EU high representative for foreign affairs and security policy Kallas said the US-Iran agreement marks a potential breakthrough, creating space for deeper negotiations on Iran's nuclear program and other key issues and, if implemented, should ease the global energy crisis."
-    },
-    {
-      "id": "mkt:019ec9d2-c298-7dd8-afff-c95ce78a2d48",
-      "time": "2026-06-15 13:48:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "ECB President Lagarde said geopolitical tensions are easing."
-    },
-    {
-      "id": "mkt:019ec9d2-6fee-7dd8-afff-c63b151253bc",
-      "time": "2026-06-15 13:47:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "ECB President LAGARDE welcomed the US-Iran agreement, saying it is significant for peace in the Strait of Hormuz."
-    },
-    {
-      "id": "4935596",
-      "time": "2026-06-15 13:47:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國長城資產牽手地方國資運營平臺 落地浙江首隻國有存量資產盤活基金】6月15日，證券時報記者從中國長城資產管理股份有限公司（下稱“中國長城資產”）瞭解到，該公司日前與浙江省國有資本運營有限公司（下稱“浙資運營”）簽署戰略合作協議和浙江國有存量資產盤活基金合作協議。記者瞭解到，本次落地的浙江首隻國有存量資產盤活基金，透過市場化模式盤活國有存量資產，依託REITs發行、物權轉讓、股權轉讓等方式實現退出，回籠資金將重點投向戰略性新興產業和未來產業。根據協議，中國長城資產與浙資運營將重點圍繞國有存量資產盤活、基金設立運營、風險防範化解、產業協同投資等方面開展深度合作。浙資運營是浙江省唯一的省級國資運營平臺，業務涵蓋投資與基金管理、國有股權運作與資產管理、科創服務與智庫支援。"
-    },
-    {
-      "id": "mkt:019ec9d1-e046-7dd8-afff-bae261428bc3",
-      "time": "2026-06-15 13:47:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "China A-share ChiNext Index climbed above 4,000 points intraday, up 4.43%."
-    },
-    {
-      "id": "4935595",
-      "time": "2026-06-15 13:47:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創業板指突破4000點整數關口】創業板指突破4000點整數關口，漲4.43%。CPO、半導體等板塊漲幅居前。"
-    },
-    {
-      "id": "4935594",
-      "time": "2026-06-15 13:46:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德：美伊達成協議是好訊息。"
-    },
-    {
-      "id": "4935593",
-      "time": "2026-06-15 13:46:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【馬斯克表示，SpaceX到2030年可能實現1萬億美元的營收】馬斯克週日表示，他的火箭公司SpaceX SPCX.O 到2030年營收有望達到1萬億美元。此前兩天，該公司剛剛上市，估值超過2萬億美元。“如果2031年的營收未能超過1萬億美元，我反而會感到驚訝，”他在社交媒體平臺X上回復記者兼財經評論員埃爾利希曼（Jon Erlichman） 時寫道。SpaceX於上週五成為美國第六大企業，鞏固了馬斯克作為全球首位萬億富豪的地位。不過，與估值相近的科技巨頭（如博通和亞馬遜）相比，該公司的盈利能力仍相去甚遠。2025年，SpaceX的營收從前一年的140.2億美元躍升至186.7億美元，但公司從盈利7.91億美元轉為淨虧損49.4億美元。"
-    },
-    {
-      "id": "mkt:019ec9d0-ed36-7dd8-afff-b59a6a03593e",
-      "time": "2026-06-15 13:46:13",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "ECB President Lagarde said the Iran agreement is good news."
-    },
-    {
-      "id": "4935592",
-      "time": "2026-06-15 13:46:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數上漲2%至4,872.92點。"
-    },
-    {
-      "id": "4935591",
-      "time": "2026-06-15 13:46:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱赫爾松地區兩座橋樑遭烏襲擊受損】俄羅斯任命的赫爾松地區行政長官薩利多當地時間15日早間通報，烏軍14日夜間至15日凌晨的大規模無人機襲擊導致赫爾松地區兩座連線克里米亞的橋樑受損。根據通報，瓊加爾大橋再次遭襲，導致克里米亞半島北部的佔科伊公路檢查站交通中斷。連線格尼切斯克與阿拉巴特沙嘴的橋樑也遭到打擊，交通中斷。同日，俄羅斯圖拉州州長米利亞耶夫通報稱，15日凌晨圖拉市住宅區遭無人機襲擊。初步資訊顯示，3人遇難，3人受傷，包括1名1歲兒童。米利亞耶夫稱，14日夜間至15日凌晨，16架烏克蘭無人機在圖拉州範圍內被擊落。圖拉州位於首都莫斯科市以南，與莫斯科州接壤。目前烏克蘭方面暫無回應。（央視新聞）"
     }
   ]
 }
