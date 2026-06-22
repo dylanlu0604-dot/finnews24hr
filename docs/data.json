@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-23 02:56:19",
-  "count": 17266,
+  "updated": "2026-06-23 03:00:31",
+  "count": 17265,
   "items": [
+    {
+      "id": "4948888",
+      "time": "2026-06-23 02:58:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普提名的美國疾控中心負責人施瓦茨若獲提名確認，將辭去現有職務並出售所持資產。"
+    },
+    {
+      "id": "4948887",
+      "time": "2026-06-23 02:57:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大蒙特利爾市發生槍擊事件 3人死亡】加拿大魁北克省蒙特利爾市警方22日說，該市一社群當天發生槍擊事件，目前已造成包括警員和嫌疑人在內的3人死亡。（新華社）"
+    },
     {
       "id": "4948885",
       "time": "2026-06-23 02:54:58",
@@ -158528,36 +158544,6 @@
         "Impact bearish"
       ],
       "text": "Hang Seng Index futures night session closed down 0.13% at 24,799, trading 44 points below the cash index."
-    },
-    {
-      "id": "4937034",
-      "time": "2026-06-16 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.14%，報24798.34點，低水44.33點。"
-    },
-    {
-      "id": "4937033",
-      "time": "2026-06-16 02:59:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟與烏克蘭正式啟動首個入盟談判議題】歐盟理事會15日釋出公告稱，歐盟與烏克蘭當天就烏克蘭加入歐盟談判程序中的“基本原則”議題正式啟動談判。公告表示，“基本原則”議題涵蓋歐盟的核心價值觀和基本原則，包括法治和基本權利、民主機構運作、公共行政改革以及經濟標準等領域的歐盟法律法規。公告指出，在烏克蘭入盟談判程序中，“基本原則”議題是最先啟動、最後結束的核心議題，其進展將決定整個入盟談判的節奏。談判期間，歐盟將持續評估烏克蘭在對接歐盟法律體系以及落實相關標準方面的進展情況。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ecca5-c3a2-7dd8-b016-1311ea0bf4ad",
-      "time": "2026-06-16 02:57:55",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Iran president: Iran‑US memorandum an important step to halt war and open talks】On the 15th, President Pezeshkian said on his social media that after intensive discussions a large majority of the Iranian parliament approved the text of an Iran‑U.S. memorandum of understanding, which he called a test of the U.S.’s real resolve to respect the rights of the Iranian people. He said the Supreme Leader’s guidance secured clauses protecting Iran’s national interests. Pezeshkian described the drafted MoU as the product of months of talks and said if its terms are properly implemented it would be a proud national document. He added the MoU is an important step toward stopping the war and beginning negotiations, but cautioned a final agreement has not been reached and Iran remains prepared for all options."
     }
   ]
 }
