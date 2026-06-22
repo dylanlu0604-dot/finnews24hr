@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-22 23:49:08",
-  "count": 17315,
+  "updated": "2026-06-22 23:53:32",
+  "count": 17306,
   "items": [
+    {
+      "id": "te:markets:560848",
+      "time": "2026-06-22 23:52:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises on Monday — The FTSE 100 rose more than 0.5% on Monday, outperforming European peers as banks and miners supported gains while investors continued to assess the implications of UK Prime Minister Keir Starmer’s resignation. The development has increased attention on Andy Burnham’s potential leadership bid and the policy direction he could pursue if chosen. Banking stocks led advances, with HSBC up 1.5% and Lloyds Banking Group, Barclays, NatWest and Standard Chartered rising between 1.7%-3.8%. Mining stocks added to the positive tone, with Rio Tinto up 1.4%, Glencore, Anglo American and Antofagasta rising around 0.3%-1.1%, and Fresnillo climbing 3%. EasyJet gained 2.5% after rejecting multiple Castlelake offers, prompting the investor to take its £4.74 billion bid directly to shareholders. In contrast, Babcock fell 5.9% after reporting a drop in pretax profit."
+    },
+    {
+      "id": "4948751",
+      "time": "2026-06-22 23:52:31",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國暫時解除對伊朗石油制裁】美國財政部長貝森特22日透過社交媒體宣佈，作為美國與伊朗談判框架的一部分，美國財政部已經發布一份為期60天的一般許可，授權允許伊朗石油的生產、交付和銷售。根據美國財政部外國資產控制辦公室當日釋出的公告，此前被美國多個行政令和規定禁止的伊朗原油、石化和石油產品的生產、交付及銷售交易均得到豁免，期限至2026年8月21日。公告顯示，將伊朗原油、石化和石油產品進口到美國也獲得允許。（新華社）"
+    },
+    {
+      "id": "4948750",
+      "time": "2026-06-22 23:51:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫將出訪阿曼。"
+    },
+    {
+      "id": "4948749",
+      "time": "2026-06-22 23:50:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "米其林：5月全球卡車原配輪胎市場同比下滑6%。"
+    },
     {
       "id": "4948748",
       "time": "2026-06-22 23:47:43",
@@ -158977,130 +159015,6 @@
         "MKT News"
       ],
       "text": "CENC officially recorded a magnitude-5.3 earthquake at 23:30 on June 15 in the Philippines (5.60°N, 125.35°E); focal depth 40 km."
-    },
-    {
-      "id": "4936921",
-      "time": "2026-06-15 23:52:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：06月15日23時30分在菲律賓（北緯5.60度，東經125.35度）發生5.3級地震，震源深度40千米。"
-    },
-    {
-      "id": "te:markets:559087",
-      "time": "2026-06-15 23:52:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Gains on US-Iran Deal — The CAC 40 rose 0.4% to close at 8,384 on Monday following reports of a breakthrough in a US-Iran peace deal. The agreement included the reopening of the Strait of Hormuz, an end to hostilities, and a framework for renewed negotiations over Iran’s nuclear program. Oil prices fell, easing concerns that an energy-driven inflation spike could trigger a hawkish shift by global central banks. Bond yields also declined, reducing worries over higher borrowing costs. Financial stocks traded higher, with BNP Paribas gaining 2.3%, AXA rising 2.4%, and Société Générale adding 4%. Industrial stocks also advanced, with Airbus up 2.6% and Safran gaining 3.5%. Luxury shares were mixed, as LVMH rose 0.9% and Hermès added 1%, while L'Oréal fell 0.9% and Kering lost 1.7%. Meanwhile, TotalEnergies dropped 4.5% on lower oil prices."
-    },
-    {
-      "id": "4936920",
-      "time": "2026-06-15 23:52:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：美國希望撤軍，但目前還不是時候。"
-    },
-    {
-      "id": "mkt:019ecbfb-3abd-7dd8-b012-ee74d845432a",
-      "time": "2026-06-15 23:51:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "A senior US official said the Iran agreement includes consideration of reducing military forces after a final agreement is reached."
-    },
-    {
-      "id": "4936919",
-      "time": "2026-06-15 23:51:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員： 雙方約定，若達成最終全面協議，將考慮削減駐軍規模。"
-    },
-    {
-      "id": "mkt:019ecbfb-01ec-7dd8-b012-e3bfcc667a2f",
-      "time": "2026-06-15 23:51:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Senior U.S. official says Washington plans to retain military forces in the Middle East during negotiations."
-    },
-    {
-      "id": "4936918",
-      "time": "2026-06-15 23:50:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國高階官員： 美國計劃在談判期間維持該地區駐軍部署。"
-    },
-    {
-      "id": "mkt:019ecbfa-30b8-7dd8-b012-dc6ef91cb61c",
-      "time": "2026-06-15 23:50:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "European natural gas prices fell as much as 10% to €42.07/MWh."
-    },
-    {
-      "id": "4936917",
-      "time": "2026-06-15 23:50:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲天然氣價格最大跌幅達 10%，跌至每兆瓦時 42.07 歐元。"
-    },
-    {
-      "id": "mkt:019ecbf9-d3a8-7dd8-b012-d1a6ca8cfe12",
-      "time": "2026-06-15 23:50:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior U.S. official said they hope to put nuclear talks with Iran on the agenda."
-    },
-    {
-      "id": "mkt:019ecbf9-c2b6-7dd8-b012-cb6469507d0e",
-      "time": "2026-06-15 23:50:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iranian media: US made concessions to Iran after Israeli strike】Iranian media reported on the 15th that a source said Washington offered fresh concessions to Iran after Israel struck Lebanon on the 14th to advance a ceasefire memorandum. The source said Iran had been preparing a large-scale retaliatory strike on Israel and talks nearly collapsed, but U.S. intervention by President Trump led Washington to propose concessions aimed at preventing an Iranian attack. Iran ultimately judged the agreement to align with its national interest and that of the Lebanese people. The source said the memorandum’s final-stage key amendments were: replacing a planned 30-day phased lifting of a maritime blockade on Iran with an immediate lift, and explicitly extending the ceasefire to all fronts including Lebanon while adding language affirming respect for Lebanese sovereignty and territorial integrity."
-    },
-    {
-      "id": "4936916",
-      "time": "2026-06-15 23:49:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗媒體：以色列發動襲擊後，美方對伊讓步】據伊朗法爾斯通訊社15日報道，一名訊息人士披露伊美敲定停戰諒解備忘錄程序的細節，稱在以色列14日襲擊黎巴嫩後，美方提出新的讓步條件，以推進外交程序。該訊息人士表示，在伊朗最高國家安全委員會於13日批准備忘錄總體框架後，卡達代表團於14日上午抵達德黑蘭，就剩餘爭議問題展開協調。其間，以色列對黎巴嫩首都貝魯特南郊地區發動襲擊，局勢驟然緊張。訊息人士說，伊朗當時已準備對以色列發動新一輪大規模軍事打擊，談判瀕臨破裂。但隨著美國總統特朗普介入，美方為換取伊朗不針對以色列發動打擊提出新的讓步條件。伊方最終認為，該協議符合伊朗國家利益和黎巴嫩人民利益。（新華社）"
-    },
-    {
-      "id": "4936915",
-      "time": "2026-06-15 23:49:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：希望將與伊朗的核談判提上日程。"
     }
   ]
 }
