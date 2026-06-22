@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-22 12:02:18",
-  "count": 17307,
+  "updated": "2026-06-22 12:06:26",
+  "count": 17303,
   "items": [
+    {
+      "id": "mkt:019eed80-def1-7dd8-b0af-a1060da5f970",
+      "time": "2026-06-22 12:05:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "Hang Seng Index",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Hong Kong midday: Hang Seng down 0.98%, Hang Seng Tech down 1.35%】Hong Kong stocks at midday: Hang Seng Index down 0.98%, Hang Seng Tech Index down 1.35%. Half-day turnover on the Hang Seng reached HKD 200.339 bln. Sector winners included storage, semiconductors, optical communications, insurers and coal; laggards were commercial aerospace, gold, beverage chains and autos. Notable movers: Yangtze Optical Fibre and Cable (06869.HK) +27%; Zhipu (02513.HK) +17%; 02676.HK +16%; GigaDevice (03986.HK) +11%; CATL (03750.HK) and China Life (02628.HK) +5%+. Decliners: Lingbao Gold (03330.HK) -10%; Junda (02865.HK) -8%; Longfor Group (00960.HK) -7%; Geely Auto (00175.HK) -6%."
+    },
+    {
+      "id": "mkt:019eed7e-2b5f-7dd8-b0af-9dd6e79570fc",
+      "time": "2026-06-22 12:02:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 20-year government bond yield rose 3.5 bps to 3.600%."
+    },
+    {
+      "id": "4947265",
+      "time": "2026-06-22 12:01:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌0.98%，恒生科技指數跌1.35%】港股午間收盤，恒生指數跌0.98%，恒生科技指數跌1.35%。恒指港股通ETF銀華（159318）跌0.08%，港股通科技ETF鵬華（159751）跌0.35%。板塊方面，容器與包裝、工業集團企業板塊漲幅靠前；汽車、客運航空公司板塊跌幅靠前。個股方面，海清智元漲250.0%，長飛光纖光纜漲27.73%，MINIMAX-W漲20.18%，智譜漲17.38%，溜溜梅漲16.91%；曹操出行跌14.1%，博泰車聯跌13.48%，靈寶黃金跌10.68%，萬國黃金集團跌9.56%，映恩生物-B跌7.89%。"
+    },
+    {
+      "id": "4947264",
+      "time": "2026-06-22 12:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓一所高中22日發生槍擊事件，目前已造成3名學生死亡，5人受傷。"
+    },
     {
       "id": "4947263",
       "time": "2026-06-22 12:00:26",
@@ -159118,72 +159162,6 @@
         "公司"
       ],
       "text": "訊息人士稱，  澳大利亞首富吉娜·萊因哈特的漢考克勘探公司對SPACEX的投資估值超過10億美元。"
-    },
-    {
-      "id": "4935480",
-      "time": "2026-06-15 12:04:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "迅策稱與沐曦股份、天數智芯及壁仞科技分別達成戰略合作。"
-    },
-    {
-      "id": "4935479",
-      "time": "2026-06-15 12:04:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數漲0.45%，恒生科技指數漲0.92%】港股午間收盤，恒生指數漲0.45%，恒生科技指數漲0.92%。恒指港股通ETF銀華（159318）漲0.95%，港股通科技ETF鵬華（159751）漲1.49%。板塊方面，客運航空公司、半導體產品與裝置板塊漲幅靠前；能源裝置與服務、酒店和度假村REIT板塊跌幅靠前。個股方面，智譜漲27.99%，中遠海能漲18.55%，匯聚科技漲17.2%，津上機床中國漲16.49%，建滔積層板漲15.85%；金斯瑞生物科技跌8.83%，中國鋁業跌8.62%，閱文集團跌6.91%，兗煤澳大利亞跌6.76%，明略科技-W跌6.61%。"
-    },
-    {
-      "id": "4935478",
-      "time": "2026-06-15 12:04:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芒果超媒：目前小芒電商正在積極佈局AI毛絨等智慧潮玩產品】芒果超媒6月15日在互動平臺表示，公司密切關注人工智慧與潮玩產品深度融合的市場趨勢，尤其是在情感陪伴、互動體驗等方向的創新潛力。目前，小芒電商正在積極佈局AI毛絨等智慧潮玩產品，相關研發工作正在穩步推進中。未來，公司將結合自身IP優勢和使用者需求，適時推出具有情感互動功能的創新型潮玩產品，為消費者帶來更豐富的情感價值與互動體驗。"
-    },
-    {
-      "id": "4935477",
-      "time": "2026-06-15 12:03:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【飛龍股份：當前液冷領域業務收入佔比較低 對公司經營業績影響有限】飛龍股份(002536)6月15日在互動平臺表示，目前公司液冷伺服器領域相關業務正在積極、如期推進中，在手小批次訂單也在按照客戶要求有序排產交付。當前液冷領域業務收入佔比較低，對公司經營業績影響有限，後續如有達到相關披露標準的訂單，公司會及時披露。"
-    },
-    {
-      "id": "4935476",
-      "time": "2026-06-15 12:03:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【6月15日午間漲停分析】創業板指半日漲3.66%，算力硬體股再度爆發。深桑達A、新金路、盛龍股份均3連板，一圖看懂>>"
-    },
-    {
-      "id": "4935475",
-      "time": "2026-06-15 12:03:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【駐港部隊將舉行軍營開放活動】駐香港部隊今日（15日）釋出公告，為熱烈慶祝香港迴歸祖國暨中國人民解放軍進駐香港二十九週年，進一步增進與香港社會各界的溝通交流，駐香港部隊將舉行2026年度“七一”軍營開放活動，歡迎廣大香港市民前來參觀。（香江礪劍）"
-    },
-    {
-      "id": "4935474",
-      "time": "2026-06-15 12:02:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部與國際貿易中心續簽在共建“一帶一路”倡議下加強合作的諒解備忘錄】6月15日，商務部國際貿易談判代表兼副部長李成鋼與國際貿易中心執行主任科克—漢密爾頓續簽《中華人民共和國商務部與國際貿易中心關於在共建“一帶一路”倡議下加強合作的諒解備忘錄》，並就進一步深化雙方合作交換意見。雙方同意在共建“一帶一路”倡議和全球發展倡議框架下加強合作，充分發揮各自優勢，促進“一帶一路”共建國家經濟貿易發展。合作領域包括：促進區域經濟一體化和南南合作、提升區域貿易便利化、促進貿易與投資、加強農村地區貿易能力建設、支援“出口中國”系列活動、推動包括綠色礦產在內的綠色轉型和可持續發展、數字經濟和綠色發展等。（商務部）"
-    },
-    {
-      "id": "mkt:019ec971-cb88-7dd8-affe-0ac16adaf86f",
-      "time": "2026-06-15 12:02:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【MOFCOM, ITC renew MOU to strengthen cooperation under Belt and Road Initiative】On June 15, MOFCOM international trade negotiator and vice minister Li Chenggang and International Trade Centre (ITC) Executive Director Pamela Coke‑Hamilton renewed a memorandum of understanding to deepen cooperation under the Belt and Road Initiative and the Global Development Initiative. They agreed to cooperate on regional economic integration and South‑South cooperation, trade facilitation, trade and investment promotion, rural trade capacity building, support for the Export China programme, and green and digital transition priorities — including promotion of green minerals and other sustainable-development initiatives."
     }
   ]
 }
