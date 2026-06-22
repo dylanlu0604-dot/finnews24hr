@@ -1,7 +1,179 @@
 {
-  "updated": "2026-06-22 10:05:11",
-  "count": 17335,
+  "updated": "2026-06-22 10:10:05",
+  "count": 17333,
   "items": [
+    {
+      "id": "4947107",
+      "time": "2026-06-22 10:08:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【旻太航空高安全性混動eVTOL原型機年內迎來首飛】據“武漢經開區”訊息，6月18日，記者從湖北旻太航空科技有限公司獲悉，該公司自主研發的4座油電混動eVTOL（電動垂直起降飛行器）全尺寸原型機將於今年國慶前後實現首飛。該機型航程達1000公里，是同級別純電機型的5倍，有望破解低空出行的“里程焦慮”難題。"
+    },
+    {
+      "id": "4947106",
+      "time": "2026-06-22 10:08:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【端午期間港珠澳大橋珠海公路口岸進出境車輛超6萬輛次】端午節期間（6月19日至21日），拱北海關驗放經大橋口岸進出境車輛6.4萬輛次，同比增長7.6%；其中“港車北上”“澳車北上”車輛達4.4萬輛次，同比增長32.9%。今年以來，大橋口岸日均通關車流量達1.9萬輛次；端午期間，日均通關車流量達2.1萬輛次，較平日增長10.5%，其中6月21日達2.3萬輛次。"
+    },
+    {
+      "id": "4947105",
+      "time": "2026-06-22 10:08:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃板塊維持活躍，利通電子漲停】算力租賃板塊維持活躍，利通電子漲停，宏景科技、協創資料漲超10%，東方國信、銅牛資訊跟漲。"
+    },
+    {
+      "id": "4947104",
+      "time": "2026-06-22 10:07:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【波長光電：適配超快鐳射光源的光學產品已得到客戶驗證 有望帶來一定增量】波長光電(301421)6月21日接受機構調研時表示，為應對在AI技術驅動下PCB行業的轉型升級需求，公司持續配合客戶開發新產品，其中適配超快鐳射光源的光學產品已得到客戶驗證，2026年有望帶來一定增量。結合目前在手訂單、發貨情況及下游客戶預期情況來看，如進展順利，公司預計2026年應用於PCB領域的業務佔比將得到進一步提升。"
+    },
+    {
+      "id": "mkt:019eed14-e787-7dd8-b0ad-e1a4f47f0be0",
+      "time": "2026-06-22 10:07:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "02166.HK",
+        "Impact bullish",
+        "02577.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor stocks were mostly higher: 02166.HK rose over 12%, 02577.HK rose over 11%, 03986.HK rose over 8%, 00981.HK rose over 7% and 00763.HK rose over 4%."
+    },
+    {
+      "id": "te:markets:560596",
+      "time": "2026-06-22 10:06:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar at Over 10-Week Low — The New Zealand dollar traded at a more than ten-week low around $0.573, weighed down by a firm US dollar and renewed tensions in the Middle East. The greenback strengthens amid increased bets on a US rate hike following the Federal Reserve’s hawkish signals. Meanwhile, US–Iran talks began on a confusing note on Sunday after Iranian media reported that Tehran had halted discussions over President Donald Trump’s latest threat, though reports indicated that negotiations continued into the early hours of Monday. New Zealand’s GDP data released last week suggested that economic recovery was gaining momentum. However, the figures largely reflected conditions prior to the escalation in Middle East conflict. As a result, forecasts show GDP to barely grow or even contract in Q2. Markets continue to price in a 25-bps hike in July given the RBNZ’s hawkish outlook, though swap pricing imply only two increases this year rather than the three previously expected."
+    },
+    {
+      "id": "te:markets:560595",
+      "time": "2026-06-22 10:06:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Slide to One-Year Low — The Hang Seng Index plunged 460 points, or 1.9%, to 23,468 on Monday, extending its losing streak to a fourth consecutive session and marking its lowest since June 2025, as renewed tensions in the Middle East dampened risk appetite. Investor sentiment deteriorated after U.S. President Donald Trump threatened fresh strikes on Iran, casting doubt on peace negotiations and raising concerns over a potential disruption to shipping through the Strait of Hormuz. The geopolitical uncertainty pushed oil prices sharply higher, reigniting inflation concerns and weighing on global equities. Investors were also cautious amid expectations that U.S. interest rates will remain elevated for longer following the Federal Reserve's hawkish stance, pressuring technology and growth stocks. Losses were broad-based, led by finance, producer manufacturing and consumer shares. Notable laggards included Tencent (-1.4%), Xiaomi (-3.5%), Meituan (-2.0%), Lenovo (-0.8%), and AIA (-1.4%)."
+    },
+    {
+      "id": "mkt:019eed14-4b0c-7dd8-b0ad-df331adeee6a",
+      "time": "2026-06-22 10:06:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact mixed"
+      ],
+      "text": "【TSMC 28nm output down ~25% since start of year】Supply-chain sources say TSMC (TSM.N) has cut 28nm monthly wafer starts at Fab 15A from about 200,000 at the start of the year to roughly 150,000, a reduction of over 25%. The company plans to redeploy 28nm capacity to support middle-layer applications and is gradually exiting low-margin orders."
+    },
+    {
+      "id": "4947103",
+      "time": "2026-06-22 10:06:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電28nm較年初減產25%】據報道，供應鏈人士指出，臺積電(TSM.N)28奈米主要生產基地Fab 15A月投片量從今年初的20萬片，已降至15萬片，相較年初減少逾25%。臺積電規劃更多28奈米產能支援中間層，逐漸退出低毛利訂單。"
+    },
+    {
+      "id": "mkt:019eed13-cec2-7dd8-b0ad-d0d0b9cca655",
+      "time": "2026-06-22 10:05:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "03986.HK",
+        "Impact bullish",
+        "06809.HK",
+        "000660.KS"
+      ],
+      "text": "Hong Kong memory names rallied: China Southern’s 2x leveraged long SK Hynix product jumped over 15%; 03986.HK rose >8%; 06809.HK rose >5%."
+    },
+    {
+      "id": "4947102",
+      "time": "2026-06-22 10:05:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股黃金股集體下跌】港股黃金股集體下跌，靈寶黃金跌超8%，山東黃金、萬國黃金集團跌超6%，赤峰黃金、招金礦業跌超5%。"
+    },
+    {
+      "id": "4947101",
+      "time": "2026-06-22 10:05:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股汽車股多數走低，吉利汽車跌超8%】港股汽車股多數走低，吉利汽車跌超8%，長城汽車、零跑汽車、賽力斯、比亞迪股份紛紛下挫。"
+    },
+    {
+      "id": "4947100",
+      "time": "2026-06-22 10:05:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "4947099",
+      "time": "2026-06-22 10:05:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海市證券同業公會：2025年末上海地區證券行業從業人員70857人】6月22日，上海市證券同業公會釋出2025年度上海證券業人力資源簡況。資料顯示，2025年末上海地區證券行業從業人員70857人，降幅1.49%；其中，證券公司（包含法人公司總部、在滬分公司、營業部、駐滬團隊，以下簡稱為“證券公司”）55522人，降幅5.45%，法人公司總部（含證券系資管公司）19005人，分公司6662人，營業部13147人，駐滬團隊16708人。"
+    },
+    {
+      "id": "4947098",
+      "time": "2026-06-22 10:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026年APEC工商領導人中國論壇在北京舉行】2026年APEC工商領導人中國論壇昨天（21日）在北京舉行。今年是APEC“中國年”，與會嘉賓表示，要堅定維護以世界貿易組織為核心的多邊貿易體制，反對單邊主義和保護主義，持續推進貿易和投資自由化便利化。據介紹，今年在中方倡議和各方廣泛支援下，APEC工商諮詢理事會時隔8年恢復設立互聯互通工作組，並發表了關於支援亞太自貿區和互聯互通兩份宣告。"
+    },
+    {
+      "id": "mkt:019eed12-df83-7dd8-b0ad-ccc59f2ca737",
+      "time": "2026-06-22 10:04:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02589.HK",
+        "Impact bearish",
+        "02150.HK",
+        "02097.HK"
+      ],
+      "text": "Hong Kong-listed tea and beverage shares slid, Hu Shang Ayi (02589.HK) down over 6%, Nayuki (02150.HK) down over 5%, Mixue Group (02097.HK) and Chabaidao (02555.HK) down over 3%, Guming (01364.HK) down over 2%."
+    },
+    {
+      "id": "4947097",
+      "time": "2026-06-22 10:04:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王曉秋卸任上海上汽大眾汽車銷售公司董事長】天眼查App顯示，近日，上海上汽大眾汽車銷售有限公司發生工商變更，王曉秋卸任法定代表人、董事長，由陶海龍接任。該公司成立於2000年7月，註冊資本2998萬美元，經營範圍包括汽車銷售、汽車零配件零售、二手車經紀、小微型客車租賃經營服務等，由上汽集團（600104）、大眾汽車（中國）投資有限公司、上汽大眾汽車有限公司共同持股。"
+    },
     {
       "id": "4947096",
       "time": "2026-06-22 10:04:27",
@@ -159278,191 +159450,6 @@
         "國際"
       ],
       "text": "受伊朗核協議提振，新興亞洲貨幣上漲，菲律賓比索和印尼盾領漲。"
-    },
-    {
-      "id": "mkt:019ec90b-0252-7dd8-affc-2c6b2f40a073",
-      "time": "2026-06-15 10:10:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "01888.HK",
-        "Impact bullish",
-        "00148.HK",
-        "Hang Seng Index"
-      ],
-      "text": "Hong Kong PCB-related stocks continued to rally: 01888.HK rose more than 16.5%, 00148.HK gained over 11%, 01989.HK and 02476.HK climbed over 6% each, and 03200.HK advanced about 5.5%."
-    },
-    {
-      "id": "te:markets:558863",
-      "time": "2026-06-15 10:09:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Shares Rally After US-Iran Accord — The Hang Seng Index climbed 220 points, or 0.9%, to 24,935 on Monday, kicking off the week on a positive note and extending gains from the previous session as investor sentiment improved after the US and Iran reached an interim agreement to reopen the Strait of Hormuz, with a formal signing ceremony expected later this week, easing concerns over disruptions to global energy supplies and reducing geopolitical risks. The deal triggered a sharp decline in oil prices, helping alleviate inflation worries and boosting appetite for risk assets across global markets. Investors also returned to large-cap technology and growth stocks as improving risk sentiment encouraged bargain hunting following recent market weakness. Gains were broad-based, led by finance, technology, and retail trade shares. Notable gainers included included AIA (1.8%), Tencent Holdings (1.0%), Kingboard Laminates (7.2%), Lenovo (5.6%), and Semiconductor Manufacturing International Corporation (2.6%)."
-    },
-    {
-      "id": "4935290",
-      "time": "2026-06-15 10:09:25",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【道富投資：各國央行或將步入利率週期再度上行階段】道富投資管理亞太區經濟學家Krishna Bhimavarapu表示，在經濟增長充滿韌性和通脹走高的支撐下，各國央行可能正在步入利率週期再度上行的同步階段。Bhimavarapu說，日本央行似乎料將把利率上調至1.0%的心理關鍵關口，並補充說，日本央行可能會釋放今年第二次加息的訊號。相比之下，隨著經濟增長和勞動力市場動能雙雙減弱，澳大利亞央行料將按兵不動。然而，尚未解決的通脹問題可能為今年晚些時候至少再加息一次敞開了大門。Bhimavarapu預計，美聯儲可能會以偏緊縮的轉向為本週畫上句號。"
-    },
-    {
-      "id": "4935289",
-      "time": "2026-06-15 10:09:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：美伊協議是持續外交努力的結果；將為中東穩定做出外交努力。"
-    },
-    {
-      "id": "4935288",
-      "time": "2026-06-15 10:08:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【何時收回戰時指揮權？韓國或在年底前“定目標”】韓國國防部長官安圭伯14日說，韓國國防部擬於今年年底前就從美軍手中收回戰時指揮權的“目標年份”向兩國總統提出建議。 安圭伯當天接受韓國媒體採訪時說，雙方將在11月舉行的韓美安保會議上討論相關話題，在此基礎上向兩國領導人提出方案，進而決定收回戰時指揮權的具體年份。當被問及雙方就收回年份是否存在爭議時，安圭伯表示，兩國正試圖透過溝通縮小分歧。 據韓國媒體報道，由於韓國政府上月提出“最早明年收回戰時指揮權”，外界推測韓方可能把“目標年份”定在2027年，但美方官員則提出“最早在2029年第一季度”才具備相關條件。（新華社）"
-    },
-    {
-      "id": "mkt:019ec909-3908-7dd8-affc-21b10c1b96a1",
-      "time": "2026-06-15 10:08:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara said Tokyo has made no decision on dispatching the Self-Defense Forces (SDF) to the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019ec909-0fe1-7dd8-affc-1cbefd2e7a49",
-      "time": "2026-06-15 10:07:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【AAC Technologies' SRG diffractive waveguide lenses enter production; scaled shipments expected from H2 2026】AAC Technologies said its SRG (surface-relief grating) diffractive waveguide lenses for AI glasses have passed performance and reliability tests with multiple global Tier-1 terminal customers and the company has secured volume production supplier status. Several projects are already in volume ramp and delivery. Per customer forecasts, a window for scaled mass shipments opens in H2 2026."
-    },
-    {
-      "id": "4935287",
-      "time": "2026-06-15 10:07:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國總理歡迎美伊取得“外交突破”】德國總理默茨15日在社交媒體上說，歡迎美國與伊朗達成諒解備忘錄，祝賀兩國取得“外交突破”。默茨寫道：“這為重振全球經濟和實現更安全的中東鋪平道路。至關重要的是，要以堅定的決心落實該備忘錄。”（新華社）"
-    },
-    {
-      "id": "mkt:019ec908-c1f6-7dd8-affc-11a5d6ae4947",
-      "time": "2026-06-15 10:07:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "02513.HK",
-        "Impact bullish",
-        "06166.HK",
-        "03986.HK"
-      ],
-      "text": "Hong Kong AI-related recent listings continued to strengthen: Zhipu (02513.HK) jumped nearly 30%, Cambridge Technology (06166.HK) rose over 7%, Guoxia Technology (02655.HK), Haizhi Technology Group (02706.HK) and Xunce (03317.HK) each gained more than 6%, while GigaDevice (03986.HK) climbed over 5.5%."
-    },
-    {
-      "id": "4935286",
-      "time": "2026-06-15 10:07:33",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "港股AI次新股持續走強，智譜(02513.HK)漲近30%，劍橋科技(06166.HK)漲超7%，果下科技(02655.HK)、海致科技集團(02706.HK)、迅策(03317.HK)均漲超6%，兆易創新(03986.HK)漲超5.5%。"
-    },
-    {
-      "id": "4935285",
-      "time": "2026-06-15 10:07:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官：關於向霍爾木茲海峽派遣自衛隊一事尚未作出任何決定。"
-    },
-    {
-      "id": "4935284",
-      "time": "2026-06-15 10:07:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達歡迎美伊達成諒解備忘錄】卡達外交部15日發表宣告說，卡達歡迎美國和伊朗達成諒解備忘錄，解決雙方之間的未決問題，確保霍爾木茲海峽的航行自由，認為這是朝著鞏固可持續和平、促進地區及國際經濟增長邁出的重要一步。宣告說，卡達讚賞美伊致力於透過談判與和平方式解決分歧的決心，對巴基斯坦等地區和國際各方為緩和衝突、拉近各方觀點以達成諒解備忘錄所作努力表示讚賞。（新華社）"
-    },
-    {
-      "id": "4935283",
-      "time": "2026-06-15 10:06:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞聲科技AI眼鏡專用SRG衍射光波導鏡片量產落地】據瑞聲科技訊息，近日，瑞聲科技SRG（表面浮雕光柵）衍射光波導鏡片產品，順利透過全球多個頭部終端客戶效能和可靠性測試，達成量產定點合作，目前部分專案已進入批次爬坡交付階段。按照客戶需求預測，2026年下半年開始將迎來規模化量產出貨視窗期。"
-    },
-    {
-      "id": "4935282",
-      "time": "2026-06-15 10:06:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "4935281",
-      "time": "2026-06-15 10:06:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "錫連續主力合約日內漲5%，現報426640.00元。"
-    },
-    {
-      "id": "4935280",
-      "time": "2026-06-15 10:05:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【印製電路板板塊持續走高，生益科技漲停】印製電路板板塊持續走高，生益科技漲停，寶鼎科技、崇達技術、華正新材此前封板, 四會富仕、南亞新材漲超10%，生益電子、中富電路、廣合科技、則成電子、滬電股份等跟漲。"
-    },
-    {
-      "id": "mkt:019ec907-09a7-7dd8-affc-0ed86343b164",
-      "time": "2026-06-15 10:05:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share esports sector oscillated higher; Youzu Network hit the daily limit, Guanjie Technology rose about 7%, Beiqingsong climbed over 5%, and Leishen Technology, Tianjian Co., Shunwang Technology and Giant Network also advanced."
-    },
-    {
-      "id": "4935279",
-      "time": "2026-06-15 10:05:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股電子競技概念板塊震盪拉昇，遊族網路封板漲停，冠捷科技漲近7%，倍輕鬆漲超5%，雷神科技、天鍵股份、順網科技、巨人網路等跟漲。"
-    },
-    {
-      "id": "4935278",
-      "time": "2026-06-15 10:05:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數上漲3%，至6185.20美元。"
     }
   ]
 }
