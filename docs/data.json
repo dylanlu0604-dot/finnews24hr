@@ -1,7 +1,100 @@
 {
-  "updated": "2026-06-22 14:36:28",
-  "count": 17281,
+  "updated": "2026-06-22 14:40:31",
+  "count": 17285,
   "items": [
+    {
+      "id": "4947477",
+      "time": "2026-06-22 14:39:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列與黎巴嫩本週將舉行會談，商討相關區域移交黎巴嫩軍隊管控事宜。"
+    },
+    {
+      "id": "4947476",
+      "time": "2026-06-22 14:38:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星儲存業務在美遭專利狙擊】三星因其高階儲存產品在美國陷入專利糾紛。Netlist 已向美國國際貿易委員會（ITC）及美國得克薩斯州東區聯邦地區法院（EDTX）提起訴訟，指控這家韓國企業的高頻寬記憶體（HBM）與 DDR5 產品涉嫌專利侵權。 受人工智慧基礎設施需求暴漲帶動，三星儲存業務利潤表現亮眼，但此次全新訴訟或將給該企業帶來經營壓力。Netlist 指控，三星的高頻寬記憶體產品、DDR5 RDIMM 與 MRDIMM 侵犯了美國第 12646537 號、12650937 號專利。"
+    },
+    {
+      "id": "4947475",
+      "time": "2026-06-22 14:37:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國國防部檔案顯示，德國透過德國復興信貸銀行收購克勞斯-瑪菲·韋格曼防務系統公司（KNDS）40%股權的交易，將在該公司首次公開募股前完成。"
+    },
+    {
+      "id": "4947474",
+      "time": "2026-06-22 14:37:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京經開區未來產業股權投資基金登記成立 出資額30.01億】天眼查App顯示，近日，北京經濟技術開發區未來產業股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為北京亦莊國際產業投資管理有限公司，出資額30.01億人民幣，經營範圍為私募股權投資基金管理、創業投資基金管理服務。合夥人資訊顯示，該基金由北京亦莊國際投資發展有限公司、北京亦莊國際產業投資管理有限公司共同出資。"
+    },
+    {
+      "id": "mkt:019eee0c-513f-7dd8-b0b2-84a60a0d7686",
+      "time": "2026-06-22 14:37:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "C52.SI",
+        "Impact bullish"
+      ],
+      "text": "【Pony.ai integrates with ComfortDelGro's Zig app, opens Singapore autonomous ride service to public】Pony.ai has formally integrated its Singapore autonomous ride service with ComfortDelGro's local Zig app and opened reservations to the public. The rollout converts the Punggol-area pilot from invite-only to public service and advances Pony.ai's China-plus-overseas dual-engine growth strategy."
+    },
+    {
+      "id": "4947473",
+      "time": "2026-06-22 14:37:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士收漲5.61%，續創新高。"
+    },
+    {
+      "id": "4947472",
+      "time": "2026-06-22 14:37:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡強硬表態：以軍不會撤出黎巴嫩】以色列總理內塔尼亞胡21日說，以軍將繼續留在黎巴嫩南部的“安全區”，並強調伊朗“永遠不能”擁有核武器。內塔尼亞胡當天在一場公開活動上說，不管美伊談判能否達成協議，只要他還擔任以色列總理，就絕不會允許伊朗擁有核武器。（新華社）"
+    },
+    {
+      "id": "4947471",
+      "time": "2026-06-22 14:36:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小馬智行正式接入康福德高Zig App，新加坡自動駕駛出行服務面向公眾全面開放】6月22日，小馬智行宣佈與康福德高集團（ComfortDelGro）合作運營的新加坡自動駕駛出行服務，已正式接入康福德高旗下本地叫車平臺Zig，面向公眾全面開放預約。這標誌著雙方在榜鵝片區的自動駕駛運營專案，從前期邀請制試點邁向面向公眾的公開服務，“中國+海外”雙引擎戰略再進一步。"
+    },
+    {
+      "id": "4947470",
+      "time": "2026-06-22 14:36:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【每天1萬架波音飛機使用中國部件】6月21日在北京舉辦的2026年APEC工商領導人中國論壇聚焦“開放·互通·協同：連結亞太·共創未來”。APEC工商諮詢理事會美國代表、波音中國總裁陸一鳴表示，全球每天有1萬架波音飛機在飛行，它們都使用中國零部件。這是供應鏈互聯互通的典型例子。（北京日報）"
+    },
+    {
+      "id": "4947469",
+      "time": "2026-06-22 14:36:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "長江材料漲停走出2連板，2天累計漲幅達21.03%。"
+    },
+    {
+      "id": "4947468",
+      "time": "2026-06-22 14:35:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國國防部檔案顯示，德國計劃對KNDS德國分部持有黃金股。"
+    },
     {
       "id": "mkt:019eee0a-c9a5-7dd8-b0b2-7ed30ea28c5f",
       "time": "2026-06-22 14:35:44",
@@ -34,6 +127,14 @@
         "MKT News"
       ],
       "text": "Swiss Foreign Ministry welcomed constructive progress in diplomatic talks between mediators, Iran and the United States."
+    },
+    {
+      "id": "4947466",
+      "time": "2026-06-22 14:35:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券：首予國城礦業“買入”評級，鋰鉬金同輝，景氣共潮生】東方證券研報指出，全球鉬供需偏緊格局延續，核心礦山並表後國城礦業有望充分受益於鉬景氣上行週期。公司圍繞黨壩鋰礦持續推進採選冶一體化佈局，未來隨著選廠、鋰鹽專案分期投產爬坡，鋰業務有望逐步邁向盈利兌現期，成為公司中長期業績增長的重要支撐。未來隨著公司礦權開發建設、資本投入推進落地，金礦業務有望成為繼鉬、鋰之後新的利潤增長點。根據公司所屬行業特徵及業務佈局，考慮到公司仍處在擴證、產能陸續投放的階段，參考2028年可比公司平均11XPE水平，並結合後續產能繼續爬坡或驅動公司增速較快且若完成國城實業剩餘股權的收購將增厚公司業績，給予公司20%的估值溢價，對應13XPE，每股合理估值為46.02元。首次覆蓋給予“買入”評級。"
     },
     {
       "id": "4947465",
@@ -158855,83 +158956,6 @@
         "歐元區"
       ],
       "text": "瑞典統計局資料顯示，瑞典5月失業率9.4%，經季節調整後失業率8.8%，當月總就業人數達529.9萬人。"
-    },
-    {
-      "id": "te:economy:558934",
-      "time": "2026-06-15 14:40:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "India Wholesale Inflation Nears 4-Year High — India’s wholesale prices advanced 9.68% year-on-year in May 2026, accelerating from a marginally revised 8.26% rise in April and surpassing expectations of 9.1%. This marked the fastest growth since September 2022, with manufacturing prices increasing at the fastest pace since August 2022, food prices rising at the fastest pace in 14 months, and fuel prices advancing at the fastest rate since September 2022 due to the impact of the Middle East crisis. Fuel prices surged 30.33%, driven by a sharp rise in mineral oil prices (49.82%) and crude petroleum & natural gas prices (61.51%). Meanwhile, manufacturing inflation accelerated to 7.48% from an upwardly revised 6.68%, led by chemicals and chemical products (13.40% vs. 5.09% in April), basic metals (12.30% vs. 10.59%), textiles (10.22% vs. 7.30%), food products (6.14% vs. 4.53%), and tobacco products (13.59% vs. 13.63%). Food inflation also accelerated to a 14-month high of 4.49%."
-    },
-    {
-      "id": "em:qqyh_ozyh:202606153771458074",
-      "time": "2026-06-15 14:40:04",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "荷蘭國際分析師指出，市場已消化歐央行加息預期，歐元兌美元承壓於1.16下方；若美聯儲不否定年內加息預期，美元將維持強勢。"
-    },
-    {
-      "id": "4935712",
-      "time": "2026-06-15 14:39:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家醫保局公佈4起定點零售藥店騙保典型案例】為進一步深化醫保基金管理突出問題專項整治，2026年，國家醫保局繼續在全國部署開展打擊醫保藥品領域違法違規問題專項行動，不斷淨化醫保基金使用環境。自2026年5月14日起，國家醫療保障局在全國範圍內開展定點零售藥店違法違規使用醫保基金專項飛檢。為強化警示教育，現將專項飛檢中發現的4起典型案例予以公佈。"
-    },
-    {
-      "id": "te:markets:558933",
-      "time": "2026-06-15 14:39:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Pound Rises as US-Iran Deal Lifts Risk Sentiment — The British pound climbed past $1.34, reaching its highest level since early June, as investors shifted toward riskier assets following the US and Iran’s preliminary agreement to end their three-month conflict. A framework deal, including the lifting of the US blockade and the reopening of the Strait of Hormuz, is set to be signed in Switzerland on Friday, though unresolved details remain around Iran’s nuclear program. Meanwhile, Israel’s National Security Minister Itamar Ben-Gvir asserted that the agreement does not bind Israel. On the monetary policy front, the Bank of England’s decision, due on Thursday, is expected to be closely split. Policymakers are balancing inflationary pressures against a weakening jobs market and sluggish economic growth. Traders have adjusted their expectations, now pricing in just one rate hike by the Bank this year."
-    },
-    {
-      "id": "4935711",
-      "time": "2026-06-15 14:38:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 畢馬威至少三個月內不會競標澳大利亞政府專案。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202606153771457692",
-      "time": "2026-06-15 14:38:24",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行行長拉加德稱，在歐洲央行面臨動盪之際，打算繼續留任。"
-    },
-    {
-      "id": "4935710",
-      "time": "2026-06-15 14:36:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，6月16日0時至6月18日24時，渤海部分海域進行實彈射擊活動，禁止駛入。"
-    },
-    {
-      "id": "4935709",
-      "time": "2026-06-15 14:36:37",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【三星人壽躋身太空探索技術公司股東行列，股價大漲】SpaceX上週五登陸美國市場後，三星人壽保險成為其機構股東之一，該股連續第二個交易日走高，盤中最大漲幅達 10%。資料顯示，三星人壽持有太空探索技術公司 719096 股股份，持股比例為 0.01%，位列公司第十四大股東。此前高盛將三星人壽目標價從 24.5 萬韓元上調至 33.5 萬韓元，並維持中性評級。受此影響，該股上週五收盤上漲 5.6%。"
     }
   ]
 }
