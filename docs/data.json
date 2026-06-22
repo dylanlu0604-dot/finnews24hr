@@ -1,7 +1,92 @@
 {
-  "updated": "2026-06-22 08:13:29",
-  "count": 17336,
+  "updated": "2026-06-22 08:17:22",
+  "count": 17335,
   "items": [
+    {
+      "id": "4946878",
+      "time": "2026-06-22 08:16:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美債走低 現貨市場在假日結束後恢復交易】美債全線走低，油價上漲加劇通脹擔憂；現貨市場上週五因假日無交易。2年期國債收益率上升4個基點至4.22%。10年期國債收益率上升5個基點至4.50%。布倫特原油期貨上漲超過1%。"
+    },
+    {
+      "id": "te:markets:560569",
+      "time": "2026-06-22 08:16:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Decline on US-Iran Tensions — US stock futures moved lower on Monday as tensions flared during the first day of talks between the US and Iran, driving oil prices higher. President Donald Trump threatened fresh strikes if Hezbollah continues its attacks on Israel and warned Tehran against closing the Strait of Hormuz again. Meanwhile, Iranian media reported that Tehran had suspended negotiations in response to Trump's remarks, although sources familiar with the discussions said talks were still ongoing. Investors also turned their attention to this week's release of the US PCE price index, the Federal Reserve's preferred measure of inflation. Last week, the Fed left interest rates unchanged but signaled a more hawkish stance, with nearly half of FOMC members now expecting at least one rate increase before year-end. Despite this, US equities posted gains last week, led by the tech-heavy Nasdaq Composite, which rose 2.43%, while the S&P 500 and Dow advanced 0.93% and 0.71%, respectively."
+    },
+    {
+      "id": "4946877",
+      "time": "2026-06-22 08:16:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4190美元/盎司，日內跌1.30%。"
+    },
+    {
+      "id": "4946876",
+      "time": "2026-06-22 08:16:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4180美元/盎司，日內跌1.54%。"
+    },
+    {
+      "id": "4946875",
+      "time": "2026-06-22 08:16:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：服務消費、情緒消費及體育、文旅、寵物、銀髮健康等方向有望成為內需弱修復中的結構性亮點】中信證券研報稱，5月內需讀數進一步走弱，社零同比下降0.6%，為2023年以來首次轉負，核心拖累來自商品消費，尤其是汽車、石油製品和家電三類，合計拖累限額以上商品零售約5.54個百分點；與此同時，鄉村強於城鎮、餐飲強於商品、一線城市與非一線城市差距收斂。短期看，商品消費偏弱並非主要源於補貼資金退坡，2026年以舊換新資金仍有2500億元、僅較去年下降16.7%，首批625億元已提前下達，但補貼撬動效率明顯下降，家電拉動係數回落、汽車由正轉負，反映前期需求釋放、換購週期拉長和收入預期偏弱共同壓制消費意願。財富效應方面，中國居民資產仍以住房和存款為主，科技行情對消費傳導弱於美韓。向後看，促消費政策仍在加碼，2026年消費相關財政資金有望接近6000億元，服務消費、情緒消費及體育、文旅、寵物、銀髮健康等方向有望成為內需弱修復中的結構性亮點。"
+    },
+    {
+      "id": "4946874",
+      "time": "2026-06-22 08:15:31",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：加息很難影響“AI類週期股”的估值】中信證券研報稱，今年以來AI驅動的行情是由龐大的基礎設施投資驅動的“瓶頸交易”，更像是2006~07年由投資和重資產公司推動的牛市，而非網際網路泡沫行情，加息很難影響“AI類週期股”的估值，除非加息真的影響到AI的終端需求、商業化假設和資本開支增速。全球範圍內的加息程序率先影響到的是需求增長相對偏弱的板塊，AI與非AI的K型分化在全球都成立；不過，由於強勢美元敘事同時開始迴歸，以及市場整體呈現存量資金調結構的格局，A股的非AI週期板塊相比海外的對標公司明顯更弱；同樣是K型分化，A股行情的寬度相對海外有所不足。改變非AI板塊的弱勢還需要自身敘事在未來出現一些積極變化，或者資金面發生改變，而非等AI調整。"
+    },
+    {
+      "id": "4946873",
+      "time": "2026-06-22 08:15:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌3%。"
+    },
+    {
+      "id": "mkt:019eecac-f9c6-7dd8-b0aa-b392f8bf9558",
+      "time": "2026-06-22 08:13:39",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "AMAT.O",
+        "LRCX.O"
+      ],
+      "text": "【CITIC Securities expects global wafer fab equipment market to grow 26% in 2026】CITIC Securities forecasts robust semiconductor-equipment demand driven by large downstream customers’ capex guidance and expansion plans. It projects the global wafer fab equipment (WFE) market will expand 26% YoY in 2026 to $147.8bn and 35% YoY in 2027 to $199.5bn, with memory’s share increasing. As capacity is brought online and new product cycles roll out, equipment makers’ pricing power may improve. The report advises monitoring equipment suppliers exposed to memory and capex-led spending."
+    },
+    {
+      "id": "4946872",
+      "time": "2026-06-22 08:13:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國6月份初步資料顯示人工智慧熱潮繼續推動出口強勁增長】韓國6月份初步資料顯示出口繼續保持強勁增長，得益於半導體行業景氣持續。韓國海關週一公佈的資料顯示，本月前20天經工作日差異調整後的出口同比增長49.7%。5月份前20天的同比增幅為52.6%。未經工作日差異調整後的出口同比增長60.4%，進口增長23.2%，貿易順差達到175億美元。最新資料表明，在與人工智慧和資料中心相關的投資熱潮推動下，外需依然強勁。半導體仍是韓國經濟增長的主要驅動力，有助於抵消經濟其他領域的疲弱。晶片出口再次領漲，同比增長188.4%。計算機相關產品出口增長293.3%。韓國央行行長申鉉松表示，半導體產業擴張帶來的好處正透過企業盈利、消費和投資改善，越來越多地傳導至整體經濟。"
+    },
     {
       "id": "mkt:019eecac-460d-7dd8-b0aa-ad5088409acb",
       "time": "2026-06-22 08:12:53",
@@ -159464,104 +159549,6 @@
         "觀點"
       ],
       "text": "【中信證券：SpaceX首日大漲 大航天時代起航】中信證券研報稱，6月12日SpaceX在納斯達克上市，首日大漲約19%，本次IPO募資約750億美元，成為全球有史以來規模最大的IPO，料將有力支撐SpaceX火箭和衛星迭代，並開拓包括太空算力在內的AI廣闊空間。儘管由於商業火箭客觀特點，國內可回收等發射節奏時有波動，但更需看到可回收技術突破後產業能夠實現指數級別增長的潛力，以及太空算力更廣闊的產業空間，聚焦“核心資產”及“通脹環節”。"
-    },
-    {
-      "id": "4935043",
-      "time": "2026-06-15 08:17:20",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中國具身機器人公司仙工智慧香港IPO擬籌資約10.7億港元】根據呈交香港交易所的公告，上海仙工智慧科技在香港發售約1050萬股股份，每股價格為101.60港元。彭博計算顯示，該公司計劃融資10.7億港元。預計6月24日上市交易。中金公司是獨家保薦人。"
-    },
-    {
-      "id": "mkt:019ec8a3-8052-7dd8-aff9-8b04c5fe6d16",
-      "time": "2026-06-15 08:16:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Carry-trade revival lifts yen short bets to nine-year high】Leveraged funds raised net short positions in the yen to over 115,000 contracts in the week to June 9, the largest level since November 2017, the U.S. Commodity Futures Trading Commission (CFTC) showed. The positioning build comes with the yen trading around JPY160 per dollar, keeping traders alert to government intervention risk, and occurs despite the prospect of Bank of Japan rate hikes — indicating carry-trade activity may be reviving."
-    },
-    {
-      "id": "4935042",
-      "time": "2026-06-15 08:16:37",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：未來汽車消費稅改革可能由單一排量導向逐步轉向價格、重量及資源佔用等角度】中信證券研報稱，新能源汽車快速發展正在改變汽車消費稅傳統徵稅基礎。現行汽車消費稅以發動機排量為核心依據，在燃油車時代兼具節能導向與消費結構調節功能。透過梳理我國汽車消費稅制度演變、燃油車稅基變化及新能源汽車背景下的改革趨勢發現，燃油車市場持續向中小排量集中，汽車消費稅稅基逐步集中於3%和5%稅率區間，新能源汽車滲透率提升則導致傳統稅基持續收縮。中信證券認為未來汽車消費稅改革可能由單一排量導向逐步轉向價格、重量及資源佔用等角度，以適應新能源汽車時代新的產業格局。"
-    },
-    {
-      "id": "4935041",
-      "time": "2026-06-15 08:16:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證股價指數（TOPIX）上漲4.3%，報68846.24點。"
-    },
-    {
-      "id": "mkt:019ec8a2-6400-7dd8-aff9-85089d7ef59d",
-      "time": "2026-06-15 08:15:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 climbed to a record high, extending gains to 4%."
-    },
-    {
-      "id": "4935040",
-      "time": "2026-06-15 08:15:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "日本日經指數升至紀錄高位。"
-    },
-    {
-      "id": "4935039",
-      "time": "2026-06-15 08:15:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50期貨上漲1.3%，德國DAX期貨上漲1.4%，富時期貨上漲0.5%。"
-    },
-    {
-      "id": "4935038",
-      "time": "2026-06-15 08:15:28",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：2026年下半年有望迎來房地產市場的長週期底部】中信證券研報稱，2026年下半年有望迎來房地產市場的長週期底部。今年以來一線城市二手房掛牌量下降，完整改善鏈條的多梯級復甦，顯著超越存款利率的租金回報率和企穩的租金表現，品質遠勝二手的新房供給，多方面因素提供了房價回升的基礎。中信證券認為，從上海開始，越來越多的城市將實現房價止跌回升。更重要的是，房企的經營困境料將緩解。融資不再和規模掛鉤，地產開發企業總部對區域的掌控力會顯著提升，聯合開發明顯變少，企業卷品質可以獲得合理的產品溢價。當然，經營性不動產相關營收的提升，也對企業意義重大。"
-    },
-    {
-      "id": "4935037",
-      "time": "2026-06-15 08:15:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲2%至277.21點。"
-    },
-    {
-      "id": "mkt:019ec8a0-8d74-7dd8-aff9-79dce4614de6",
-      "time": "2026-06-15 08:13:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Kyiv struck by Russian drones and missiles hours after Putin-Trump call】Russian drones and missiles struck Ukrainian cities, including Kyiv, early on Monday, hours after Putin and Trump spoke by phone. Kyiv's mayor said apartment blocks in multiple districts caught fire from \"enemy\" strikes and the central Pechersk Lavra monastery was hit; about 140,000 households lost power. Ukraine's second-largest city Kharkiv, the central city Dnipro and locations in Crimea were also struck."
     }
   ]
 }
