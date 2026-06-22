@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-23 02:01:30",
-  "count": 17279,
+  "updated": "2026-06-23 02:05:36",
+  "count": 17278,
   "items": [
+    {
+      "id": "mkt:019ef080-b32f-7dd8-b0c3-88cb06c05975",
+      "time": "2026-06-23 02:03:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian police say a shooting in Montreal killed three people, including the suspect."
+    },
+    {
+      "id": "mkt:019ef080-b0fd-7dd8-b0c3-87753f59b6b8",
+      "time": "2026-06-23 02:03:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Hegseth will confidentially brief a large group of House Republicans on Wednesday at a Republican Study Committee lunch regarding the Trump administration's military funding targets and a separate partisan bill."
+    },
+    {
+      "id": "4948836",
+      "time": "2026-06-23 02:01:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "超微電腦股價盤中漲幅擴大至19%。"
+    },
     {
       "id": "4948835",
       "time": "2026-06-23 01:57:27",
@@ -158659,52 +158684,6 @@
         "Brent"
       ],
       "text": "Israel's prime minister Benjamin Netanyahu said fighting Iran's nuclear program is his life's mission and that Iran will not be allowed to acquire nuclear weapons whether or not a deal is reached. He said Israel has removed a direct threat to its survival."
-    },
-    {
-      "id": "mkt:019ecc75-7ca7-7dd8-b015-05f12735bdff",
-      "time": "2026-06-16 02:05:12",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Prime Minister Netanyahu said Israel has been saved from the threat of nuclear annihilation."
-    },
-    {
-      "id": "mkt:019ecc74-55c4-7dd8-b014-fc8658a1e2f3",
-      "time": "2026-06-16 02:03:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Iran will not possess nuclear weapons whether or not an agreement is reached."
-    },
-    {
-      "id": "mkt:019ecc74-4b99-7dd8-b014-f12d1078d6ec",
-      "time": "2026-06-16 02:03:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "HEZBOLLAH fired rockets and launched drones at Israeli forces attempting to advance in southern Lebanon."
-    },
-    {
-      "id": "mkt:019ecc74-4af5-7dd8-b014-e9a6267033f8",
-      "time": "2026-06-16 02:03:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA (NVDA.O) is expected to raise $25 billion via an investment-grade bond offering."
     }
   ]
 }
