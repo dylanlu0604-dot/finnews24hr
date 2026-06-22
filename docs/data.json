@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-22 21:42:24",
-  "count": 17283,
+  "updated": "2026-06-22 21:46:46",
+  "count": 17277,
   "items": [
+    {
+      "id": "4948571",
+      "time": "2026-06-22 21:45:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報7468.00元。"
+    },
+    {
+      "id": "4948570",
+      "time": "2026-06-22 21:44:44",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美財政部放寬對伊朗能源相關交易限制】當地時間6月22日，美國財政部發布一般許可證，授權至8月21日期間，允許涉及伊朗原產原油、石化產品及石油產品的生產、運輸與銷售。檔案顯示，該一般許可證涵蓋允許進口伊朗原產原油、石化及石油產品進入美國的相關交易。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eef93-4e7d-7dd8-b0bf-b15a89557583",
+      "time": "2026-06-22 21:44:28",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) opened higher and rose, at one point up more than 6% in early trade, extending gains to fresh record highs; market capitalization about 1.36 tln dlr."
+    },
+    {
+      "id": "4948568",
+      "time": "2026-06-22 21:43:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗國足在洛杉磯體育場留下手寫感謝字條】伊朗國家足球隊21日在美加墨世界盃小組賽中戰平比利時隊後，在洛杉磯體育場更衣室留下一張手寫感謝字條，感謝洛杉磯方面款待，並表示伊朗隊“帶著尊嚴離開”。由於美方施加旅行限制，伊朗隊的備戰訓練基地被迫設在墨西哥蒂華納，小組賽前兩場比賽都只能在賽前一天下午從蒂華納趕到洛杉磯，並在比賽結束當天返回蒂華納。此外，伊朗隊多名工作人員和足協官員因美方拒籤無法入境。面對困境，伊朗隊在首場比賽中2:2逼平紐西蘭隊，第二場比賽與比利時隊0:0戰平，仍有晉級淘汰賽的希望。（新華社）"
+    },
+    {
+      "id": "4948567",
+      "time": "2026-06-22 21:42:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德銀：英國領導層更迭不必然引發政策動盪】德意志銀行分析師吉姆·裡德在一份報告中表示，英國領導層的變更並不自動意味著政策的斷檔。他指出，英國擁有成熟的制度架構，能夠在領導人更替後為政策連續性提供支撐。在斯塔默週一早間宣佈辭去首相職務後，英國正等待新任領導人，安迪·伯納姆目前看來最有可能接任。"
+    },
+    {
+      "id": "4948566",
+      "time": "2026-06-22 21:42:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技續刷記錄新高】美光科技股價高開高走漲超6%，報1203.66美元/股，總市值報1.36萬億美元，續刷記錄新高。"
+    },
+    {
+      "id": "mkt:019eef91-22c9-7dd8-b0bf-ae4c3ec48e43",
+      "time": "2026-06-22 21:42:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Deutsche Bank: UK leadership change does not necessarily trigger policy disruption】Deutsche Bank analyst Jim Reid said in a report that a change of UK leadership does not automatically imply policy discontinuity, citing the country's mature institutional framework as supportive of continuity. After Starmer announced his resignation Monday morning, the UK is awaiting a successor; Andy Burnham currently appears most likely to take the post."
+    },
     {
       "id": "4948565",
       "time": "2026-06-22 21:41:34",
@@ -158708,121 +158769,6 @@
         "公司"
       ],
       "text": "【茅臺1935產地標註引質疑，公司回應標註合規】日前，“茅臺1935產自習水縣，但包裝標註的廠址為仁懷市茅臺鎮”引發網友關注，並質疑誤導消費者。6月15日，貴州茅臺醬香酒營銷有限公司在其微信公眾號發文回應稱，包括茅臺1935在內的茅臺醬香系列酒外包裝產地標註為“貴州省遵義市”，符合《食品安全國家標準 預包裝食品標籤通則》（以下簡稱《通則》）規定。(新京報)"
-    },
-    {
-      "id": "4936772",
-      "time": "2026-06-15 21:46:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數短暫觸及歷史新高，最新上漲4.5%。"
-    },
-    {
-      "id": "te:markets:559078",
-      "time": "2026-06-15 21:46:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Baltic Dry Index Falls to Over 6-Week Low — The Baltic Exchange dry bulk freight index decreased 0.3% to 2720 on Monday, the lowest since April 30. The capesize index, which typically transport 150,000-ton cargoes including iron ore and coal, fell 1.3% to 4053. On the other hand, the panamax index, which usually carry 60,000 to 70,000 tons of coal or grain, increased 0.4% to 2291. The supramax index rose 1.3% to 1664."
-    },
-    {
-      "id": "4936771",
-      "time": "2026-06-15 21:45:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！南海海域實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，6月16日至17日，每天8時至18時，南海部分海域進行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "4936770",
-      "time": "2026-06-15 21:45:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "加密貨幣個股上漲，此前比特幣價格觸及近兩週高位。Coinbase Global股價上漲6.4%，Strategy股價上漲7%，Bit Digital股價上漲7.8%。ProShares比特幣策略交易型開放式指數基金上漲4.6%，iShares比特幣信託上漲4.5%。"
-    },
-    {
-      "id": "mkt:019ecb87-ae6a-7dd8-b010-090c75b184a6",
-      "time": "2026-06-15 21:45:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Navigational warning: Zhanjiang issues live-fire restriction in parts of South China Sea June 16–17】According to the China Maritime Safety Administration website, the Zhanjiang Maritime Safety Administration has issued a navigational warning that live-fire exercises will take place in parts of the South China Sea on June 16–17, daily from 08:00 to 18:00; entry into the designated areas is prohibited."
-    },
-    {
-      "id": "4936769",
-      "time": "2026-06-15 21:45:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【凱投宏觀：銷量上升之際加拿大製造業顯現復甦跡象】凱投宏觀的布拉德利·桑德斯表示，4月份加拿大製造業銷量環比增長1.8%，這並不完全歸因於石油行業和價格上漲，這支援了該行業正在初步復甦的觀點。該經濟學家補充道，這一增長也支援了加拿大統計局關於當月GDP反彈0.4%的初步估計。加拿大石油和煤炭產品子行業領漲，銷售額激增23%，創下新高。桑德斯說，製造業其他領域也出現了真正的走強跡象，在追蹤的21個子行業中，有17個子行業的銷售額出現增長。"
-    },
-    {
-      "id": "mkt:019ecb86-a6f2-7dd8-b010-066c98798df5",
-      "time": "2026-06-15 21:44:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iran, US to sign MoU on 19th, President Pezeshkian says】Iran and the United States will sign a memorandum of understanding on the 19th, Iranian President Pezeshkian said, Iranian media reported on the 15th."
-    },
-    {
-      "id": "4936768",
-      "time": "2026-06-15 21:44:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊/美元一個月波動率自1月23日以來首次跌破6%。"
-    },
-    {
-      "id": "4936767",
-      "time": "2026-06-15 21:43:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗總統：伊朗與美國將於19日簽署諒解備忘錄】據伊朗媒體15日報道，伊朗總統佩澤希齊揚表示，伊朗與美國將於19日簽署諒解備忘錄。（新華社）"
-    },
-    {
-      "id": "mkt:019ecb85-cf2d-7dd8-b00f-ff260eb4f23c",
-      "time": "2026-06-15 21:43:24",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "UK Maritime Trade Operations on the 15th forwarded a Combined Maritime Information Centre bulletin saying the US military blockade of Iranian ports remains in effect."
-    },
-    {
-      "id": "4936766",
-      "time": "2026-06-15 21:43:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股雲端計算服務商集體上漲】美股雲端計算服務商集體上漲，Nebius大漲逾9%，CoreWeave漲逾7%，甲骨文、Hut 8、IREN漲逾4%。"
-    },
-    {
-      "id": "4936765",
-      "time": "2026-06-15 21:42:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國海上貿易行動辦公室15日轉發聯合海上資訊中心的一份通報稱，美軍針對伊朗港口的封鎖仍在實施。（新華社）"
-    },
-    {
-      "id": "4936764",
-      "time": "2026-06-15 21:42:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "道瓊斯指數盤中創下歷史新高，最新上漲1.1%。"
     }
   ]
 }
