@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-23 01:57:20",
+  "updated": "2026-06-23 02:01:30",
   "count": 17279,
   "items": [
+    {
+      "id": "4948835",
+      "time": "2026-06-23 01:57:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫表示，僅靠軍事成果遠遠不夠，外交手段對於鞏固既得成果至關重要。"
+    },
     {
       "id": "4948833",
       "time": "2026-06-23 01:53:20",
@@ -158697,19 +158705,6 @@
         "NVDA.O"
       ],
       "text": "NVIDIA (NVDA.O) is expected to raise $25 billion via an investment-grade bond offering."
-    },
-    {
-      "id": "mkt:019ecc70-add0-7dd8-b014-e38159c2995b",
-      "time": "2026-06-16 01:59:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's military spokesman said Iran will bolster defenses while negotiating an agreement with the US and maintain a higher state of combat readiness."
     }
   ]
 }
