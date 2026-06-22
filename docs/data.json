@@ -1,7 +1,180 @@
 {
-  "updated": "2026-06-22 09:31:31",
-  "count": 17335,
+  "updated": "2026-06-22 09:35:38",
+  "count": 17338,
   "items": [
+    {
+      "id": "4947030",
+      "time": "2026-06-22 09:34:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【光伏裝置板塊盤初下挫，賽伍技術跌超7%】光伏裝置板塊盤初下挫，賽伍技術跌超7%，歐晶科技、雙良節能、東方日升、澤潤新能紛紛下挫。"
+    },
+    {
+      "id": "mkt:019eecf6-e5ca-7dd8-b0ac-fc08eb7296d5",
+      "time": "2026-06-22 09:34:24",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share compute-power leasing sector rallied. Tefa Information hit a record high, Tianyu Shuke hit the daily limit, Zhongqingbao rose over 10%, and Xingyun Technology, Rike Chemical, Lianhua Holdings, Zhongfutong and Aikelan also advanced."
+    },
+    {
+      "id": "4947029",
+      "time": "2026-06-22 09:34:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "4947028",
+      "time": "2026-06-22 09:34:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.06%，成分股中，諾思蘭德跌7.42%，並行科技跌4.04%，國航遠洋跌3.34%，聚星科技跌3.06%。"
+    },
+    {
+      "id": "4947027",
+      "time": "2026-06-22 09:33:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃板塊盤初拉昇，特發資訊創新高】算力租賃板塊盤初拉昇，特發資訊創新高，天娛數科漲停，中青寶漲超10%，行雲科技、日科化學、蓮花控股、中富通、艾可藍跟漲。"
+    },
+    {
+      "id": "4947026",
+      "time": "2026-06-22 09:33:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "越南馬山集團將擴建鎢礦，預計新增產能1.15億噸。"
+    },
+    {
+      "id": "mkt:019eecf5-fb5e-7dd8-b0ac-f5ad53609c47",
+      "time": "2026-06-22 09:33:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US, Iran establish mechanism for technical talks】Qatar and Pakistan, acting as mediators, said the first round of a high-level committee meeting under the Islamabad memorandum concluded at Bürgenstock, Switzerland. US and Iranian representatives attended alongside Qatari and Pakistani mediators. The talks were described as positive and constructive and made encouraging progress, including creation of a mechanism to carry out further technical negotiations. Under the memorandum, parties agreed to form a high-level committee to provide political oversight of the mediation; chief negotiators will report regularly to the committee and lead on nuclear issues, sanctions relief, and coordination with a monitoring and dispute-resolution group to ensure implementation. The committee agreed a roadmap targeting a final agreement within 60 days and to immediately begin further technical talks."
+    },
+    {
+      "id": "4947025",
+      "time": "2026-06-22 09:32:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "光纖概念反覆活躍，特發資訊漲停，長芯博創、通鼎互聯、長飛光纖、亨通光電、烽火通訊漲超6%。"
+    },
+    {
+      "id": "4947024",
+      "time": "2026-06-22 09:32:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌4%，現報417.35元。"
+    },
+    {
+      "id": "mkt:019eecf5-2f1b-7dd8-b0ac-ec2b37b5657f",
+      "time": "2026-06-22 09:32:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Zhipu (02513.HK) saw intraday market capitalization exceed HK$1 trillion; shares are up over 1,900% year-to-date and are trading more than 12% higher intraday."
+    },
+    {
+      "id": "4947023",
+      "time": "2026-06-22 09:32:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股大模型概念股智譜盤中總市值突破1萬億港元】港股大模型概念股智譜盤中總市值突破1萬億港元，目前漲8.3%，年內漲超1800%。"
+    },
+    {
+      "id": "mkt:019eecf4-81a1-7dd8-b0ac-e4897197cc49",
+      "time": "2026-06-22 09:31:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Gold rises in Asian trade; outlook tied to geopolitics and monetary policy】Gold rose in Asian morning trade. Exness strategist Inki Cho said gold is likely to remain highly sensitive to geopolitical developments and shifts in market expectations for monetary policy; while the current backdrop is challenging for bullion, central-bank gold purchases should provide structural support and cap mid-to-long-term downside."
+    },
+    {
+      "id": "4947022",
+      "time": "2026-06-22 09:31:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬指翻綠，鹽湖提鋰、減肥藥、白酒板塊跌幅居前。"
+    },
+    {
+      "id": "mkt:019eecf4-582b-7dd8-b0ac-daa564024992",
+      "time": "2026-06-22 09:31:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Composite turned negative, with salt-lake lithium extraction, weight-loss drug and baijiu sectors leading declines."
+    },
+    {
+      "id": "4947021",
+      "time": "2026-06-22 09:31:32",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【碧芭寶貝：懇請市場監管、疾控、質檢部門組建聯合調查組，開展行業全面抽檢】6月22日上午，針對嬰幼兒紙尿褲甲醯胺事件，碧芭寶貝發文稱，公司已完成多系列產品複測，所有樣品甲醯胺指標均符合國家標準。公司提出兩點懇請：懇請市場監管、疾控、質檢部門組建聯合調查組，全面核驗報道中血液甲醯胺與紙尿褲存在關聯的樣本、實驗、論證全部依據；同步核驗紙尿褲檢測標準、取樣、檢測流程，開展行業全面抽檢，還原事件完整真相。懇請市場監管、產品質量檢驗、疾控相關部門儘快完整公開全部檢測與核驗結果。"
+    },
+    {
+      "id": "mkt:019eecf4-1e4f-7dd8-b0ac-d5bce6d17c4f",
+      "time": "2026-06-22 09:31:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open, morning session】China's government bond futures opened in the morning: 2-year (TS) most-active contract down 0.01%; 5-year (TF) down 0.05%; 10-year (T) down 0.09%; 30-year (TL) down 0.30%."
+    },
+    {
+      "id": "mkt:019eecf4-1736-7dd8-b0ac-c951e9a3b90f",
+      "time": "2026-06-22 09:31:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "IH",
+        "Impact bearish",
+        "IC",
+        "Impact bullish",
+        "IM"
+      ],
+      "text": "【China stock index futures open morning session】At the morning open, China's CSI 300 index futures (IF) most-active contract fell 0.07%, SSE 50 index futures (IH) fell 0.32%, CSI 500 index futures (IC) rose 0.24% and CSI 1000 index futures (IM) rose 0.34%."
+    },
+    {
+      "id": "4947020",
+      "time": "2026-06-22 09:31:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報15923.00元。"
+    },
     {
       "id": "mkt:019eecf3-d4d8-7dd8-b0ac-c495fccb4ab3",
       "time": "2026-06-22 09:31:03",
@@ -159351,154 +159524,6 @@
         "Importance 1"
       ],
       "text": "AUS 10Y Yield Hits Over 3-Month Low — Australia’s 10-year government bond yield dropped below 4.8%, hitting over a three-month low after a US–Iran interim peace deal eased global inflation concerns, while markets widely expect the Reserve Bank will hold policy rates this week. A series of softer economic releases, from GDP to housing prices, reinforced signs that the central bank’s three rate hikes earlier this year began to filter through the economy. Market pricing now ruled out a move at the June meeting, while bets for an August rate hike have eased sharply to around 35%, down from more than 80% a month ago. The May CPI report due on June 24, will be pivotal as policymakers look for clearer evidence that price pressures remain strong. Meanwhile, the US and Iran reportedly reached a peace agreement, sending oil prices lower, easing inflation and rate-hike expectations. The deal, set to be signed in Switzerland on June 19, includes sanctions relief for Iran, lifting blockades, and dismantling Tehran’s nuclear program."
-    },
-    {
-      "id": "mkt:019ec8eb-4e51-7dd8-affb-25bb7d148e2f",
-      "time": "2026-06-15 09:35:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "A-share PET copper-foil sector advanced in early trade; Fangbang and Taijin New Energy jumped more than 11%. Dadongnan, Guanghua Technology and Nuode hit daily limit-up; Tongguan Copper Foil and Shuangxing New Materials also rallied."
-    },
-    {
-      "id": "4935208",
-      "time": "2026-06-15 09:34:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股PET銅箔板塊盤初上漲，方邦股份、太金新能均漲超11%，大東南、光華科技、諾德股份均封板漲停，銅冠銅箔、雙星新材等跟漲。"
-    },
-    {
-      "id": "4935207",
-      "time": "2026-06-15 09:33:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌6%，現報4367.00元。"
-    },
-    {
-      "id": "4935206",
-      "time": "2026-06-15 09:33:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4310美元/盎司，日內漲2.23%。"
-    },
-    {
-      "id": "4935205",
-      "time": "2026-06-15 09:33:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌8%，現報2781.00元。"
-    },
-    {
-      "id": "4935204",
-      "time": "2026-06-15 09:32:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "塑膠連續主力合約日內跌4%，現報7613.00元。"
-    },
-    {
-      "id": "mkt:019ec8e9-1974-7dd8-affb-1fdc2971de79",
-      "time": "2026-06-15 09:32:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold touched $4,310/oz, an intraday gain of 2.21%."
-    },
-    {
-      "id": "mkt:019ec8e9-0bd8-7dd8-affb-13cefd2d3441",
-      "time": "2026-06-15 09:32:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "A-share coal mining and processing sector opened sharply lower, with Dayou Energy hitting its daily down limit; Shanxi Coking Coal, Guanghui Energy and Shaanxi Energy also fell."
-    },
-    {
-      "id": "4935203",
-      "time": "2026-06-15 09:32:54",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點"
-      ],
-      "text": "智譜股價飆升48%，此前摩根大通上調該公司目標價。"
-    },
-    {
-      "id": "4935202",
-      "time": "2026-06-15 09:32:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4330美元/盎司，日內漲2.15%。"
-    },
-    {
-      "id": "mkt:019ec8e8-72f4-7dd8-affb-0d1c19b3572a",
-      "time": "2026-06-15 09:32:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share component sector jumped in early trade. Yihao New Materials rose more than 17%; Taijing Technology hit the daily limit. Baoding Technology, Sanhuan Group, Shengyi Technology, Fenghua High-Tech and Huazheng New Materials also advanced."
-    },
-    {
-      "id": "4935201",
-      "time": "2026-06-15 09:32:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【煤炭開採加工板塊短線下挫，大有能源觸及跌停】煤炭開採加工板塊短線下挫，大有能源觸及跌停，山西焦煤、廣匯能源、陝西能源紛紛下挫。"
-    },
-    {
-      "id": "4935200",
-      "time": "2026-06-15 09:32:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【氟化工概念盤初走強，中欣氟材漲停】氟化工概念盤初走強，中欣氟材漲停，三美股份、巨化股份、光華科技、巍華新材、金石資源、永和股份等跟漲。"
-    },
-    {
-      "id": "4935199",
-      "time": "2026-06-15 09:32:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純苯連續主力合約日內跌5%，現報7103.00元。"
-    },
-    {
-      "id": "4935198",
-      "time": "2026-06-15 09:31:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄圖拉州遭烏無人機襲擊致3死3傷】俄羅斯圖拉州州長德米特里·米利亞耶夫當地時間今天（6月15日）凌晨在社交媒體平臺發文稱，圖拉州遭遇無人機襲擊，造成3人死亡、3人受傷。 自2022年俄烏衝突爆發以來，位於莫斯科以南、擁有多家大型工業設施的圖拉州一直是烏克蘭方面打擊的目標。 （CCTV國際時訊）"
     }
   ]
 }
