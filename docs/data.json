@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-23 05:13:13",
-  "count": 17330,
+  "updated": "2026-06-23 05:17:17",
+  "count": 17328,
   "items": [
+    {
+      "id": "4948992",
+      "time": "2026-06-23 05:15:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.01%，報16003點。"
+    },
     {
       "id": "4948991",
       "time": "2026-06-23 05:11:39",
@@ -159161,36 +159169,6 @@
         "國際"
       ],
       "text": "市場資訊：美國得州瓦哈樞紐的現貨交割價格為每百萬英熱單位35美分，為自2月以來首次轉正，結束了此前連續131天價格低於零的紀錄。"
-    },
-    {
-      "id": "mkt:019ecd24-ba96-7dd8-b017-0834c40aaaa7",
-      "time": "2026-06-16 05:16:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DVN.O",
-        "Impact bullish",
-        "PR.O"
-      ],
-      "text": "【West Texas natural gas prices turn positive for first time in four months】Spot delivery at the Waha hub in West Texas was $0.35/MMBtu on Monday, the first positive print since February and ending a 131-day streak of subzero prices. Hot weather, capacity gains after pipeline maintenance and signs of pipeline expansions pushed the rally. The move relieves pressure on regional producers such as Permian Resources and Devon Energy, which had idled high gas-to-oil-ratio wells to avoid further cash burn."
-    },
-    {
-      "id": "4937167",
-      "time": "2026-06-16 05:15:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.08%，報15780點。"
-    },
-    {
-      "id": "4937166",
-      "time": "2026-06-16 05:14:55",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克如今的財富比全球第二富豪高出近一萬億美元。"
     }
   ]
 }
