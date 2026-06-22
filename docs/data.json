@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-22 09:23:25",
-  "count": 17344,
+  "updated": "2026-06-22 09:27:29",
+  "count": 17347,
   "items": [
+    {
+      "id": "4947008",
+      "time": "2026-06-22 09:26:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石，超硬材料方向高開，黃河旋風、博雲新材漲停】培育鑽石，超硬材料方向高開，黃河旋風、博雲新材漲停，四方達、惠豐鑽石漲超15%，力量鑽石漲超10%，沃爾德、中兵紅箭、國機精工、恆盛能源、晶盛機電跟漲。"
+    },
+    {
+      "id": "mkt:019eecee-fcdb-7dd8-b0ac-975c2d75e37f",
+      "time": "2026-06-22 09:25:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI index rose as much as 2.0% intraday."
+    },
+    {
+      "id": "mkt:019eecee-c217-7dd8-b0ac-891c79a09588",
+      "time": "2026-06-22 09:25:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the A-share open, the Shanghai Composite rose 0.08%, the Shenzhen Composite rose 0.41% and ChiNext rose 0.48%. Leading gains were in lab-grown diamonds, memory chips, rare-earth permanent magnets and fiber-optic related stocks."
+    },
+    {
+      "id": "mkt:019eecee-c118-7dd8-b0ac-801e371cbb05",
+      "time": "2026-06-22 09:25:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's foreign minister said oil and petrochemical exports have been exempted, a blockade has been lifted and some frozen assets released, and Iran has launched a major reconstruction and development plan."
+    },
+    {
+      "id": "4947007",
+      "time": "2026-06-22 09:25:24",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指高開，滬指漲0.08％，深成指漲0.41％，創業板漲0.48％。"
+    },
+    {
+      "id": "4947006",
+      "time": "2026-06-22 09:25:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數上漲2.1%，至9,238.21點。"
+    },
+    {
+      "id": "mkt:019eeced-bda6-7dd8-b0ac-79d6dd9706da",
+      "time": "2026-06-22 09:24:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude each fell more than 1% intraday, trading at $76.47/bbl and $79.32/bbl, respectively."
+    },
+    {
+      "id": "mkt:019eecec-c83b-7dd8-b0ac-76424086ac46",
+      "time": "2026-06-22 09:23:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister said Pakistan and Qatar's 'relentless' mediation has brought significant progress toward ending the war in Lebanon."
+    },
+    {
+      "id": "4947005",
+      "time": "2026-06-22 09:22:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報79.23美元/桶。"
+    },
     {
       "id": "mkt:019eecec-4828-7dd8-b0ac-6e05ae17b94f",
       "time": "2026-06-22 09:22:48",
@@ -159544,68 +159638,6 @@
         "XAUUSD"
       ],
       "text": "Japan's foreign minister Motegi welcomed the US-Iran peace agreement, calling it an important step toward resolving the situation."
-    },
-    {
-      "id": "4935179",
-      "time": "2026-06-15 09:26:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF開盤：稀有金屬ETF領漲7.21%，能源化工ETF領跌6.07%】ETF開盤漲跌不一，稀有金屬ETF（159053）領漲7.21%，日經ETF（513520）漲5.06%，日經ETF（159866）漲4.96%，能源化工ETF（159981）領跌6.07%，標普油氣ETF（513350）跌3.44%，標普油氣ETF（159518）跌2.7%。"
-    },
-    {
-      "id": "4935178",
-      "time": "2026-06-15 09:25:25",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指高開，滬指漲0.55％，深成指漲1.27％，創業板漲1.72％。"
-    },
-    {
-      "id": "mkt:019ec8e2-2634-7dd8-affa-a78c4326cb59",
-      "time": "2026-06-15 09:25:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China A-shares opened higher: Shanghai Composite up 0.55%, Shenzhen Composite Index up 1.27%, ChiNext Index up 1.72%."
-    },
-    {
-      "id": "te:markets:558853",
-      "time": "2026-06-15 09:24:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "other",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Bitcoin Rebounds — Bitcoin rose to around $65,000 in mid-June, rebounding from earlier losses that saw it fall to as low as $59,000, supported by improved risk sentiment following reports that the US and Iran reached a peace deal. Both countries said they had agreed to end the nearly four-month conflict and reopen the Strait of Hormuz, with the agreement set to be signed later this week. Still, Bitcoin remained under pressure as spot Bitcoin ETFs continued to record substantial outflows and institutional demand stayed subdued, with some analysts warning that the token could face further downside. The recent selloff in the digital asset began after Strategy Inc., one of the largest corporate Bitcoin holders and widely viewed as a proxy for the cryptocurrency under its digital asset treasury model, sold part of its holdings, a move that heightened investor sensitivity. The decline also coincided with a shift in institutional capital toward AI-related stocks."
-    },
-    {
-      "id": "4935177",
-      "time": "2026-06-15 09:23:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內跌6%，現報4204.00元。"
-    },
-    {
-      "id": "4935176",
-      "time": "2026-06-15 09:23:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌6%，現報5952.00元。"
     }
   ]
 }
