@@ -1,7 +1,197 @@
 {
-  "updated": "2026-06-22 13:50:08",
-  "count": 17280,
+  "updated": "2026-06-22 13:54:17",
+  "count": 17292,
   "items": [
+    {
+      "id": "4947382",
+      "time": "2026-06-22 13:53:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【印度對涉華磺醯胺類促進劑徵收反傾銷稅】6月19日，印度財政部稅收局釋出第11/2026-Customs(ADD)號通報稱，接受印度商工部於2026年3月20日對原產於或進口自中國、歐盟和美國的磺醯胺類促進劑作出的反傾銷終裁建議，決定徵收為期5年的反傾銷稅。"
+    },
+    {
+      "id": "4947381",
+      "time": "2026-06-22 13:53:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國交易所執行長：為提升投資者對股市的信心，明年將在2700家上市企業中對約300家實施退市。"
+    },
+    {
+      "id": "te:markets:560657",
+      "time": "2026-06-22 13:52:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Reverses Early Gains to Close 0.4% Lower — The NZX 50 dropped 50 points, or 0.4%, to close at 13,446 on Monday, reversing its morning strength and erasing gains from the prior session, mainly weighed down by losses in energy, consumer discretionary, and technology stocks. The broader index retreated from its highest level since March 6, reached on Friday, with consumer staples rising 0.8% after jumping more than 5% in the morning session. The moderation came as A2 Milk rose 1.7%, slowing sharply from an over 11% surge in morning trading after the company received highly coveted regulatory approval from China to produce infant formula at Pokeno. However, easing oil prices helped limit the decline, supported by news that progress had been made in US-Iran peace deal talks. Among the biggest decliners were Gentrack Group (-4.9%), Channel Infrastructure (-2.2%), South Port NZ (-1.6%), Contact Energy (-1.4%), Mercury NZ (-1.4%), Henderson Far East Income (-1.1%), Hallenstein Glasson (-1.0%), and Mainfreight (-0.8%)."
+    },
+    {
+      "id": "mkt:019eede2-f19d-7dd8-b0b1-40ddf7f5bc36",
+      "time": "2026-06-22 13:52:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Shanghai Composite rose more than 1% in afternoon trade; Shenzhen Component gained 1.1% and the ChiNext Index added 1.5%. Lab-grown diamonds, fluorochemicals and minor-metals sectors led the advance."
+    },
+    {
+      "id": "mkt:019eede2-cf52-7dd8-b0b1-3ceee98d9e2b",
+      "time": "2026-06-22 13:52:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "【AI chip demand fuels South Korea's strong early‑June export growth】South Korea's exports in the first 20 days of June rose 49.7% YoY on a working‑day adjusted basis, versus a 52.6% gain in May, Korea Customs data showed Monday. Unadjusted exports were up 60.4% YoY, imports rose 23.2% and the trade surplus reached $17.5 bln. Semiconductor exports led gains, up 188.4% YoY; computer‑related shipments surged 293.3%; petroleum product exports also rose on higher energy prices. Data showed external demand remains strong, driven by rapid AI and data‑centre investment. Policymakers are assessing how sustained semiconductor strength will affect growth, tax revenue and asset prices."
+    },
+    {
+      "id": "4947380",
+      "time": "2026-06-22 13:51:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿曼央行公佈：1月廣義貨幣M2供應量同比增長3.76%。"
+    },
+    {
+      "id": "4947379",
+      "time": "2026-06-22 13:51:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國交易所執行長：預計明年將有約300家公司退市。"
+    },
+    {
+      "id": "4947378",
+      "time": "2026-06-22 13:51:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均漲超1%】上證指數漲1.00%，現報4131.471點；深證成指漲1.18%，現報16219.982點；創業板指漲1.55%，現報4318.097點。"
+    },
+    {
+      "id": "4947377",
+      "time": "2026-06-22 13:51:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國交易所CEO：陷入困境的公司應立即退市。"
+    },
+    {
+      "id": "mkt:019eede2-462d-7dd8-b0b1-3430b7cd3de5",
+      "time": "2026-06-22 13:51:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member ESCRIVA said policymakers need to monitor second-round wage effects."
+    },
+    {
+      "id": "4947376",
+      "time": "2026-06-22 13:51:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【米哈遊成立蒼剛科技公司，含AI業務】企查查APP顯示，近日，廣州米哈遊蒼剛科技有限公司成立，經營範圍包含：網路與資訊保安軟體開發；人工智慧應用軟體開發；數字文化創意軟體開發；動漫遊戲開發等。企查查股權穿透顯示，該公司由上海米哈遊網路科技股份有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019eede1-fa19-7dd8-b0b1-2cfcaa6a1e6c",
+      "time": "2026-06-22 13:51:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "JP Morgan says the key catalyst for copper prices in H2 2026 will be policy rather than the supply-demand balance."
+    },
+    {
+      "id": "mkt:019eede1-cd26-7dd8-b0b1-21992c67ff4f",
+      "time": "2026-06-22 13:50:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan says mine-supply tightness and structurally supportive demand leave the medium-term outlook for copper prices positive."
+    },
+    {
+      "id": "mkt:019eede1-a7a9-7dd8-b0b1-1f626bdc5a57",
+      "time": "2026-06-22 13:50:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan maintains a bullish view on copper and expects prices to continue rising over the next several quarters toward $15,000 per tonne."
+    },
+    {
+      "id": "4947375",
+      "time": "2026-06-22 13:50:45",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通：2026年下半年銅價的關鍵驅動因素在於政策層面，而非供需平衡狀況。"
+    },
+    {
+      "id": "4947374",
+      "time": "2026-06-22 13:50:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通：鑑於礦山供應緊張及需求獲得結構性支撐，銅價中期環境依然向好。"
+    },
+    {
+      "id": "4947373",
+      "time": "2026-06-22 13:50:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委ESCRIVA: 我們需要監測第二輪效應對工資的影響。"
+    },
+    {
+      "id": "mkt:019eede1-0ce7-7dd8-b0b1-15d5eded9bdb",
+      "time": "2026-06-22 13:50:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangtze River Delta railways carried 10.11 mln passengers over Dragon Boat holiday; daily avg up 28.8% YoY】China Railway Shanghai Group said Yangtze River Delta railways carried 10.11 million passengers over the Dragon Boat holiday (June 19-21), averaging 3.37 million per day, up 28.8% YoY. On June 19 alone the system carried 4.031 million passengers, a record single-day Dragon Boat holiday volume for China Railway Shanghai Group."
+    },
+    {
+      "id": "mkt:019eede0-f04f-7dd8-b0b1-0dac23ed4801",
+      "time": "2026-06-22 13:50:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-shares lab-grown diamond theme extended gains into the afternoon; Huifeng Diamond hit the daily limit and set a record high. Zhongbing Hongjian, Chujiang New Materials, Guoji Jinggong and Inno Laser rose in sympathy."
+    },
     {
       "id": "mkt:019eede0-85f5-7dd8-b0b1-03d98c6bd921",
       "time": "2026-06-22 13:49:34",
@@ -54,6 +244,15 @@
         "市場"
       ],
       "text": "【培育鑽石概念持續走強 惠豐鑽石30cm漲停創歷史新高】午後培育鑽石概念持續走強，惠豐鑽石30cm漲停，創歷史新高，此前力量鑽石、四方達、黃河旋風、恆盛能源漲停，中兵紅箭、楚江新材、國機精工、英諾鐳射漲幅靠前。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202606223777877524",
+      "time": "2026-06-22 13:47:15",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【今年前5個月深圳累計進出口2.32萬億元 較去年同期增長31.1%】深圳海關6月22日釋出統計資料顯示，今年前5個月，深圳累計進出口2.32萬億元，較去年同期增長31.1%，進出口規模繼續保持內地城市首位。其中，出口1.22萬億元，增長15.9%；進口1.1萬億元，增長53.4%。"
     },
     {
       "id": "4947369",
@@ -158822,77 +159021,6 @@
         "DXY"
       ],
       "text": "EU Commission President VON DER LEYEN said that with the conflict in Lebanon ongoing, peace in the Middle East cannot be achieved."
-    },
-    {
-      "id": "mkt:019ec9d8-4a37-7dd8-afff-fedc5fc5d8c0",
-      "time": "2026-06-15 13:54:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's National Security Minister Itamar Ben-Gvir said Israel loves the United States and thanks President Trump, but added it is not a country that can be manipulated at will by foreign powers."
-    },
-    {
-      "id": "4935603",
-      "time": "2026-06-15 13:53:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "沙特政府資料顯示，該國5月消費者物價指數環比上漲0.2%。"
-    },
-    {
-      "id": "4935601",
-      "time": "2026-06-15 13:53:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：對烏克蘭的軍事工業設施進行了大規模打擊。"
-    },
-    {
-      "id": "mkt:019ec9d7-50d0-7dd8-afff-f164cd244b29",
-      "time": "2026-06-15 13:53:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission President von der Leyen said the agreement opens the door to broader negotiations on Middle East peace and security."
-    },
-    {
-      "id": "mkt:019ec9d7-4078-7dd8-afff-ec9672bd8286",
-      "time": "2026-06-15 13:53:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Russian Defence Ministry said it carried out large-scale strikes on Ukraine's military-industrial facilities."
-    },
-    {
-      "id": "4935600",
-      "time": "2026-06-15 13:52:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馮德萊恩：現在首要任務是各方迅速全面執行美伊協議】歐盟委員會主席馮德萊恩：歡迎美國與伊朗在多方夥伴持續外交努力下達成的協議。 現在首要任務是各方迅速全面執行該協議。 這項協議應允許霍爾木茲海峽立即重新開放。 必須恢復免通航費用的航行自由。 這對地區穩定和全球經濟至關重要。 它為中東和平與安全更廣泛的談判開啟了大門。"
-    },
-    {
-      "id": "mkt:019ec9d6-d082-7dd8-afff-e703a156de7d",
-      "time": "2026-06-15 13:52:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "European Commission President Von der Leyen said any Iran–US agreement should allow the Strait of Hormuz to reopen immediately."
-    },
-    {
-      "id": "4935599",
-      "time": "2026-06-15 13:50:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟外交與安全政策高階代表卡拉斯：美伊協議有望成為一項突破性進展】歐盟外交與安全政策高階代表卡拉斯：美伊達成協議是好訊息。美國與伊朗宣佈達成協議，雙方決定結束衝突並重新開放霍爾木茲海峽。此舉有望成為一項突破性進展，也為各方就伊朗核問題及其他核心議題開展深度談判創造了必要空間。協議落地後，全球能源危機或將得到緩解。近日我已同伊朗及海灣國家相關官員進行溝通。今日，歐盟各國外長將商討歐盟如何深度參與後續程序。無論是經濟影響力、核領域專業技術，還是與海灣合作伙伴長期建立的友好關係，歐盟已準備就緒，願為推動問題得到長效解決貢獻力量。"
     }
   ]
 }
