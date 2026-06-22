@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-23 05:09:13",
+  "updated": "2026-06-23 05:13:13",
   "count": 17330,
   "items": [
+    {
+      "id": "4948991",
+      "time": "2026-06-23 05:11:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "週一（6月22日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7781元，較上週五紐約尾盤漲57點，日內整體交投於6.7863-6.7730元區間。"
+    },
+    {
+      "id": "4948990",
+      "time": "2026-06-23 05:10:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼外交大臣：阿曼與伊朗談判代表共同重申恪守國際法，承諾保障霍爾木茲海峽航道安全、通行免收通行費。"
+    },
+    {
+      "id": "mkt:019ef12b-dac4-7dd8-b0c6-4eb245057dc3",
+      "time": "2026-06-23 05:10:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve's Goolsbee said Fed Chair Warsh's approach to reduce speculation about interest rates and pare back forward guidance is one he largely supports."
+    },
+    {
+      "id": "mkt:019ef12b-60e0-7dd8-b0c6-4615da7782ac",
+      "time": "2026-06-23 05:10:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman's foreign minister said the country reiterated its commitment to international law and to safe, fee-free passage."
+    },
+    {
+      "id": "4948989",
+      "time": "2026-06-23 05:09:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國FAA選用Air Space Intelligence打造AI空管工具】Air Space Intelligence公司贏得美國政府合同，將提供用於管理航班交通的人工智慧技術。該公司為美國聯邦航空局（FAA）開發了兩款AI工具：一款用於規劃飛行軌跡，另一款用於識別擁堵區域併為空中交通管制員提供解決方案。美國政府表示，新系統將減少航班延誤、改善交通流量並增加空域容量，預計整個過渡工作將於2028年底前完成。"
+    },
+    {
+      "id": "mkt:019ef12a-be2e-7dd8-b0c6-3979ee41fe0a",
+      "time": "2026-06-23 05:09:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman’s foreign minister said he hosted Iranian parliamentary speaker Ghalibaf and foreign minister Araghchi in Muscat tonight; they held constructive talks on the recent Iran‑US memorandum of understanding, with particular focus on the Strait of Hormuz."
+    },
+    {
+      "id": "4948988",
+      "time": "2026-06-23 05:09:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：在我看來，需要判斷本輪通脹是否具備持續性。 沃什的思路是減少市場對利率的猜測、弱化前瞻指引；我相當認同這一思路。"
+    },
     {
       "id": "mkt:019ef129-fecb-7dd8-b0c6-377bfbe639be",
       "time": "2026-06-23 05:08:41",
@@ -159125,75 +159191,6 @@
         "焦點"
       ],
       "text": "馬斯克如今的財富比全球第二富豪高出近一萬億美元。"
-    },
-    {
-      "id": "4937165",
-      "time": "2026-06-16 05:11:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：計劃向密蘇里州投資數十億美元。"
-    },
-    {
-      "id": "mkt:019ecd1f-f391-7dd8-b017-04c9f550c09a",
-      "time": "2026-06-16 05:11:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said the memorandum of understanding is a very general document."
-    },
-    {
-      "id": "4937164",
-      "time": "2026-06-16 05:11:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：美伊諒解備忘錄是一份框架性極強的檔案。"
-    },
-    {
-      "id": "4937163",
-      "time": "2026-06-16 05:10:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局最新公佈的資料顯示，特斯拉自動駕駛計程車自今年2月以來未發生任何一起己方全責事故。"
-    },
-    {
-      "id": "mkt:019ecd1f-8b0d-7dd8-b016-fee7d00001fe",
-      "time": "2026-06-16 05:10:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【PGIM expects three Fed hikes this year, then policy reversal in 2027】PGIM, in a dissenting view, expects the Fed to raise rates three times this year to curb an overheating US economy, then reverse course with three cuts in 2027 and a further cut in 2028, bringing the policy rate to 3.375% — below current levels and near neutral. The firm, which in April had forecast cuts this year, cites an \"unusually strong\" US economy, persistently high inflation and five years of missing the Fed's 2% target as the rationale for pre-emptive hikes to shore up credibility and anchor inflation expectations. PGIM adds that framing hikes as preventive against supply-side inflation and recent long-term Treasury volatility would help secure political support."
-    },
-    {
-      "id": "te:markets:559117",
-      "time": "2026-06-16 05:10:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Canadian Stocks Rise as Oil Prices Retreat — The S&P/TSX Composite Index rose 1% to close at a record 35,276 on Monday after the US and Iran announced a preliminary peace agreement aimed at ending the conflict. US President Donald Trump said the deal would halt hostilities and reopen the Strait of Hormuz. Oil prices fell, easing concerns that an energy-driven inflation spike could trigger a hawkish shift by global central banks. Bond yields also declined, reducing worries over higher borrowing costs. Financial stocks traded higher, with Brookfield gaining 1.2%. Meanwhile, higher gold prices fueled a rally in mining shares, with Agnico Eagle rising 5.6%, WPM advancing 6.8%, and Barrick adding 4.2%. In contrast, energy stocks tumbled on lower oil prices, with Canadian Natural down 2.7% and Suncor losing 3%. Investors are now focused on the Federal Reserve's policy meeting, which concludes on Wednesday, with markets widely expecting interest rates to remain unchanged."
-    },
-    {
-      "id": "4937162",
-      "time": "2026-06-16 05:09:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "真主黨：用火箭彈和炮彈襲擊了黎巴嫩南部的以色列軍隊，衝突仍在繼續。"
     }
   ]
 }
