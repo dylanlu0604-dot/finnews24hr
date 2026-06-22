@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-22 22:11:47",
-  "count": 17277,
+  "updated": "2026-06-22 22:15:54",
+  "count": 17282,
   "items": [
+    {
+      "id": "4948617",
+      "time": "2026-06-22 22:15:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：受7月天氣展望提振，美國天然氣期貨上漲】美國天然氣期貨走高，此前週末釋出的7月更炎熱天氣預報增加了預期的製冷需求，同時產量上升限制了漲幅。EBW Analytics的Eli Rubin在一份報告中表示：“間歇性看漲的高溫與看跌的供應增加之間的拉鋸，可能仍是夏季的核心主題。“但在短期內，“不斷升溫的天氣與季節性和技術面相吻合，意味著在交易員於7月最終結算前進行頭寸調整之際，將對阻力位進行測試。“紐約商交所天然氣期貨上漲1.1%，報每百萬英熱單位3.268美元。"
+    },
+    {
+      "id": "4948616",
+      "time": "2026-06-22 22:14:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "銀行界人士稱，土耳其央行上週買入了90億美元外匯。"
+    },
+    {
+      "id": "mkt:019eefad-b3ba-7dd8-b0c0-6248ae22f2f2",
+      "time": "2026-06-22 22:13:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX to hold six fixed-income investor calls on June 22】SpaceX has authorized banks to run six fixed-income investor calls on June 22, ahead of an expected USD-denominated senior unsecured note offering with maturities of 5–30 years. BofA Securities, Citigroup, Goldman Sachs, JP Morgan and Morgan Stanley have been mandated to arrange the calls."
+    },
+    {
+      "id": "4948615",
+      "time": "2026-06-22 22:13:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY短線下挫約15點，報100.97。"
+    },
+    {
+      "id": "mkt:019eefad-7e7b-7dd8-b0c0-5f839386ca4a",
+      "time": "2026-06-22 22:13:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "EURUSD"
+      ],
+      "text": "US dollar index (DXY) briefly fell about 15 points to 100.97."
+    },
+    {
+      "id": "4948614",
+      "time": "2026-06-22 22:12:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "莫德納股價下跌7.4%，此前六個交易日該股累計漲幅已近40%。"
+    },
+    {
+      "id": "4948613",
+      "time": "2026-06-22 22:12:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "法院檔案顯示，Uber董事會因在合規問題上敷衍了事，導致多起性侵與性騷擾訴訟，被股東提起訴訟。"
+    },
+    {
+      "id": "4948612",
+      "time": "2026-06-22 22:12:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元<JPY=>大幅下挫至161.42，最新報161.69，漲幅0.25%。"
+    },
+    {
+      "id": "te:economy:560823",
+      "time": "2026-06-22 22:11:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields in the US Move Higher — The yield on the US 10-year Treasury note rose to 4.5% on Monday, its highest level in about two weeks, while the more policy-sensitive 2-year Treasury yield climbed above 4.2%, reaching its highest level since February 2025. Investors returned from the long weekend focused on the outlook for monetary policy and inflation, despite signs of progress in US-Iran negotiations that contributed to another decline in oil prices. Markets are currently pricing in at least one 25bps Federal Reserve rate hike by year-end, with the probability of such a move as early as September standing at around 50%. Attention now turns to Thursday's PCE report, which includes the Fed's preferred inflation gauge and is expected to provide fresh insight into underlying price pressures and the likely path of interest rates."
+    },
+    {
+      "id": "mkt:019eefac-111a-7dd8-b0c0-5549d585ca43",
+      "time": "2026-06-22 22:11:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "USD/JPY fell about 70 pips intraday to 161.70."
+    },
     {
       "id": "mkt:019eefab-44cf-7dd8-b0c0-4edea9887e10",
       "time": "2026-06-22 22:10:39",
@@ -158735,48 +158829,6 @@
         "公司"
       ],
       "text": "【佳禾智慧：公司目前沒有6G產業的佈局】佳禾智慧6月15日在互動平臺稱，公司目前沒有6G產業的佈局。"
-    },
-    {
-      "id": "4936815",
-      "time": "2026-06-15 22:15:20",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【韋明當選上海市閔行區政協主席】據“今日閔行”微信公眾號訊息，2026年6月15日下午，中國人民政治協商會議上海市閔行區第七屆委員會第六次會議在中共閔行區委黨校召開。會議透過了區政協七屆六次會議選舉辦法，補選區七屆政協主席候選人名單以及總監票人、監票人名單。經與會委員無記名投票，韋明當選為區七屆政協主席。"
-    },
-    {
-      "id": "4936814",
-      "time": "2026-06-15 22:14:36",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【美國6月住宅建築商信心指數降至35 低於預期中值】美國全國住宅建築商協會(NAHB)/富國銀行資料顯示，6月建築商信心指數降至35，前月為37。接受調查的24位經濟學家預測區間為35-39；預估中值為37。單戶型住宅當前銷售指標從40降至38。單戶型住宅預期銷售指標維持在45不變。潛在買家客流指標維持25不變。"
-    },
-    {
-      "id": "4936813",
-      "time": "2026-06-15 22:14:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：通脹與利率帶來的不利因素拖累美國年中信貸展望。"
-    },
-    {
-      "id": "mkt:019ecba1-b64f-7dd8-b010-b6a3dab008c0",
-      "time": "2026-06-15 22:13:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH says inf and interest-rate headwinds are weighing on the US mid-year credit outlook."
-    },
-    {
-      "id": "4936812",
-      "time": "2026-06-15 22:12:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【6月15日增減持彙總】據統計，6月15日盤後，愛迪特、新迅達、吉大正元、英派斯4家A股上市公司披露擬減持情況，當日暫無A股公司披露增持情況。"
     }
   ]
 }
