@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-23 05:33:20",
-  "count": 17322,
+  "updated": "2026-06-23 05:37:23",
+  "count": 17319,
   "items": [
+    {
+      "id": "4949000",
+      "time": "2026-06-23 05:35:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "據傳舒適剃鬚刀母公司已拒絕非邀約收購提案。"
+    },
+    {
+      "id": "4948999",
+      "time": "2026-06-23 05:32:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博股指：SpaceX將於2026年6月24日收盤時被納入彭博全球股指的大盤股板塊。"
+    },
     {
       "id": "mkt:019ef140-0b89-7dd8-b0c6-56ba4dd163d9",
       "time": "2026-06-23 05:32:46",
@@ -159063,53 +159079,6 @@
         "國際"
       ],
       "text": "【新興市場股票逼近紀錄高點，美伊協議帶動油價下跌】新興市場貨幣、股票和債券週一加入全球風險資產漲勢，此前美國和伊朗達成一項臨時協議，旨在恢復霍爾木茲海峽通行。MSCI新興市場股票指數上漲2.8%，逼近本月早些時候觸及的紀錄高位。隨著布倫特原油跌至3月份以來最低水平，依賴石油進口的國家資產受到的提振最大。菲律賓和印尼貨幣在同類貨幣中領漲；固定收益市場方面，埃及和斯里蘭卡美元債漲幅居前。印度盧比、印尼盾和菲律賓比索反彈；這些貨幣均來自石油進口國，在衝突期間兌美元曾跌至紀錄低點。"
-    },
-    {
-      "id": "te:economy:559119",
-      "time": "2026-06-16 05:37:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Uruguay GDP Growth Accelerates in Q1 — Uruguay’s GDP grew 0.9% year-on-year in the first quarter of 2026, accelerating from a 0.1% increase in the previous quarter. Nine of the twelve major sectors recorded growth. Financial services posted the strongest expansion, rising 3.1%, followed by transport and warehousing and information and communications (2.2%), commerce, restaurants and food services (1.4%), and manufacturing (1.3%). In contrast, agriculture, fishing and mining contracted 3.7%, while construction fell 3.4% and public administration activities declined 0.8%."
-    },
-    {
-      "id": "mkt:019ecd35-ce9a-7dd8-b017-3b814661fa92",
-      "time": "2026-06-16 05:35:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Three explosions heard south of Iran's Qeshm Island】An agency reported in the early hours of the 16th that three explosions were heard south of Iran's Qeshm Island and nearby areas. Initial reports indicate the blasts may have been intended to divert shipping traffic in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019ecd35-c405-7dd8-b017-3766ef6b6286",
-      "time": "2026-06-16 05:35:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Venezuela signed a cooperation agreement with General Electric's Venezuelan unit, state TV reported."
-    },
-    {
-      "id": "4937176",
-      "time": "2026-06-16 05:35:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒：伊朗格什姆島以南等地傳出爆炸聲】伊朗邁赫爾通訊社16日凌晨報道，伊朗格什姆島以南等地傳出三聲爆炸聲。初步報告顯示，爆炸可能是為了疏導霍爾木茲海峽的交通。（新華社）"
-    },
-    {
-      "id": "4937175",
-      "time": "2026-06-16 05:34:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯會見通用電氣韋諾瓦公司高管。"
     }
   ]
 }
