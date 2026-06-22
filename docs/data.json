@@ -1,7 +1,209 @@
 {
-  "updated": "2026-06-22 21:30:00",
-  "count": 17285,
+  "updated": "2026-06-22 21:34:06",
+  "count": 17284,
   "items": [
+    {
+      "id": "4948543",
+      "time": "2026-06-22 21:33:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "GETTY IMAGES與OPENAI達成合作後股價飆升逾一倍，至1.43美元。"
+    },
+    {
+      "id": "mkt:019eef88-f4c2-7dd8-b0bf-598253aebba3",
+      "time": "2026-06-22 21:33:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O"
+      ],
+      "text": "Intel (INTC.O) shares rose 3.3% in early trade, after gaining more than 10% in the previous session."
+    },
+    {
+      "id": "mkt:019eef88-989a-7dd8-b0bf-51af7fdd98db",
+      "time": "2026-06-22 21:32:46",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) fell more than 5% in early trade, marking a third straight session of declines."
+    },
+    {
+      "id": "4948542",
+      "time": "2026-06-22 21:32:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "ARCOSA股價上漲7.1%，此前CRH宣佈將以85億美元收購該公司。"
+    },
+    {
+      "id": "4948541",
+      "time": "2026-06-22 21:32:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾股價上漲3.3%，此前上個交易日該股漲幅超10%。"
+    },
+    {
+      "id": "4948540",
+      "time": "2026-06-22 21:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX股價今日再跌5.4%。"
+    },
+    {
+      "id": "4948539",
+      "time": "2026-06-22 21:31:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "APOGEE股價在併購交易後飆升47%，創歷史新高；ABBVIE股價上漲3.3%。"
+    },
+    {
+      "id": "mkt:019eef87-a7c9-7dd8-b0bf-4c324c4c90c9",
+      "time": "2026-06-22 21:31:45",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "U.S. equity benchmarks opened mixed on Monday, June 22: Dow Jones Industrial Average up 153.61 points (+0.30%) at 51,718.31; S&P 500 up 12.22 points (+0.16%) at 7,512.80; Nasdaq Composite down 3.49 points (-0.01%) at 26,514.44."
+    },
+    {
+      "id": "4948538",
+      "time": "2026-06-22 21:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達能源部長22日表示，此前發生在萊凡角工業城一家工廠的爆炸已導致13人死亡、66人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019eef87-6751-7dd8-b0bf-4034ec6b5e10",
+      "time": "2026-06-22 21:31:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "MU.O",
+        "Impact bullish",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. stocks opened with the Dow up 0.27%, the S&P 500 up 0.12% and the Nasdaq down 0.08%. Micron Technology (MU.O) rose 5.28% after saying it struck a strategic agreement with ANTHROPIC to expand next‑generation AI infrastructure. SpaceX (SPCX.O) opened down 5.3% as it prepares its first issuance of senior unsecured notes and said net proceeds will be used to repay outstanding borrowings."
+    },
+    {
+      "id": "4948537",
+      "time": "2026-06-22 21:31:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃克森美孚：埃克森美孚控股公司將成為公開上市母公司。"
+    },
+    {
+      "id": "te:markets:560810",
+      "time": "2026-06-22 21:31:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Rubber Consolidates Near 2-1/2-Year High — Rubber traded around 230 US cents per kilogram, holding near its highest level since late 2023 as markets balanced optimism over a potential US-Iran peace agreement with concerns that an El Niño weather pattern could disrupt production. Weather risks and firm demand from the automotive sector have supported prices, keeping sentiment positive. Demand signals from the auto sector remain mixed but broadly supportive. China’s vehicle sales rose to 2.63 million units in May, driven by passenger cars, while global tire makers continued expanding. Sailun Tire announced a $1.14 billion tire project in Egypt, adding major capacity for passenger, truck, and off-road tires. Michelin remained the world’s most valuable tire brand, while Giti Tire ranked as the fastest-growing. Pirelli also extended its Formula 1 tire supply deal through 2028, reinforcing long-term demand visibility for the rubber industry."
+    },
+    {
+      "id": "4948536",
+      "time": "2026-06-22 21:31:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚：股票將繼續以股票程式碼XOM在紐約證券交易所交易。"
+    },
+    {
+      "id": "te:markets:560809",
+      "time": "2026-06-22 21:31:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alibaba Stock Price Hits 49-week Low — Alibaba shares decreased to 104.96 USD, the lowest since July 2025. Over the past 4 weeks, Alibaba lost 22.51%, and in the last 12 months, it decreased 6.94%."
+    },
+    {
+      "id": "4948535",
+      "time": "2026-06-22 21:31:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證交所S&P/TSX綜合指數.GSPTSE開盤上漲85.37點，漲幅0.24%，報34942.71點。"
+    },
+    {
+      "id": "te:markets:560808",
+      "time": "2026-06-22 21:30:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amphenol Stock Price Hits All-time High — Amphenol shares increased to an all-time high of 167.27 USD. Over the past 4 weeks, Amphenol gained 39.31%, and in the last 12 months, it increased 77%."
+    },
+    {
+      "id": "4948534",
+      "time": "2026-06-22 21:30:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，中比能源跌2.87%，康迪車業跌2.57%，優品車跌2.52%，嗶哩嗶哩跌2.67%，理想汽車跌2.57%。"
+    },
+    {
+      "id": "4948533",
+      "time": "2026-06-22 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.32%，標普500指數漲0.19%，納指跌0.12%。超微電腦漲6.23%，美光漲5.01%，英特爾漲4.91%，CRH水泥跌3.57%，紐曼礦業跌3.26%。“七姐妹”方面：英偉達漲0.57%，蘋果漲0.09%，微軟跌0.80%，特斯拉跌1.09%，Meta Platforms跌1.25%，亞馬遜跌1.64%，谷歌跌3.03%。"
+    },
+    {
+      "id": "4948532",
+      "time": "2026-06-22 21:30:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚：將於2026年7月1日起將註冊地從新澤西州遷至德克薩斯州。"
+    },
+    {
+      "id": "mkt:019eef86-6a6e-7dd8-b0bf-3ae7ed19a44a",
+      "time": "2026-06-22 21:30:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's prime minister said the Israel Defense Forces will remain deployed in the Lebanese security zone for as long as necessary."
+    },
+    {
+      "id": "4948531",
+      "time": "2026-06-22 21:30:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：以國防軍將在黎巴嫩安全區駐守至局勢無需駐軍為止。"
+    },
     {
       "id": "mkt:019eef85-4e4e-7dd8-b0bf-364513d55e08",
       "time": "2026-06-22 21:29:11",
@@ -158641,229 +158843,6 @@
         "市場"
       ],
       "text": "多倫多綜合股指<.GSPTSE>盤中創下歷史新高，突破了6月4日的峰值。"
-    },
-    {
-      "id": "4936741",
-      "time": "2026-06-15 21:33:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼外交大臣表示，伊美協議是外交與理性的及時成果。"
-    },
-    {
-      "id": "4936740",
-      "time": "2026-06-15 21:33:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數高開 上漲4.7%】費城半導體指數高開，上漲4.7%。英偉達股價上漲2.67%，臺積電股價上漲3.76%，博通股價上漲3.37%，美光科技股價上漲9.31%，超威半導體股價上漲6.61%，阿斯麥股價上漲1.47%。"
-    },
-    {
-      "id": "4936739",
-      "time": "2026-06-15 21:33:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "能源穹頂公司：將向電網新增一套容量19兆瓦的二氧化碳基電池系統；谷歌將透過與鹽河專案（SRP）達成的成本分攤協議為該專案提供部分資金。"
-    },
-    {
-      "id": "mkt:019ecb7c-1c3c-7dd8-b00f-93d43b10890b",
-      "time": "2026-06-15 21:32:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "XOM.N",
-        "Impact bearish",
-        "OXY.N",
-        "COP.N"
-      ],
-      "text": "US and Iran reach a memorandum of understanding; US oil and gas stocks fall broadly: Exxon Mobil (XOM.N) down 5.6%, Chevron (CVX.N) down 4.4%, Occidental Petroleum (OXY.N) down 5.4%, ConocoPhillips (COP.N) down 4.9%."
-    },
-    {
-      "id": "4936738",
-      "time": "2026-06-15 21:32:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源企業股價下跌，因美伊達成和平協議後油價下滑。雪佛龍下跌4.4%，埃克森美孚下跌5.2%，康菲石油下跌4.7%。西方石油公司股價下跌5.8%，APA集團股價下跌6.5%。"
-    },
-    {
-      "id": "4936737",
-      "time": "2026-06-15 21:32:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "據俄羅斯媒體15日報道，俄國防部說一架圖-22M3戰略轟炸機飛行訓練期間在俄伊爾庫茨克地區墜毀，機上乘員獲救。（新華社）"
-    },
-    {
-      "id": "4936736",
-      "time": "2026-06-15 21:32:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4360美元/盎司，日內漲3.49%。"
-    },
-    {
-      "id": "4936735",
-      "time": "2026-06-15 21:32:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲5%，現報71.39美元/盎司。"
-    },
-    {
-      "id": "mkt:019ecb7b-6388-7dd8-b00f-8a4d73471d5c",
-      "time": "2026-06-15 21:32:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【U.S. Manufacturing Output Flat in May as Cost Pressures Emerge】U.S. factory output stalled in May after four months of gains, suggesting supply‑chain disruptions tied to the Iran war and surging input costs may be starting to weigh. U.S. data showed factory output essentially unchanged in May while broader industrial production, including utilities and mining, rose 0.1%. Earlier gains had been driven by customer stockpiling, higher defense orders and continued data‑center construction; Monday’s figures imply rising costs could be damping activity. A separate report showed producer prices rose YoY at their fastest pace since 2022. Sector divergence was evident: non‑durables fell—led by petroleum & coal products, plastics & rubber and textiles—while data‑center‑related industries (computers & electronics, electrical equipment, fabricated metals, machinery and primary metals) continued to expand."
-    },
-    {
-      "id": "mkt:019ecb7b-5a92-7dd8-b00f-859a5d6c58e9",
-      "time": "2026-06-15 21:31:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "U.S. stock indices opened higher on Monday, June 15: Dow Jones Industrial Average up 634.80 points, or 1.24%, at 51,837.06; S&P 500 up 104.15 points, or 1.40%, at 7,535.61; Nasdaq Composite up 597.62 points, or 2.31%, at 26,486.47."
-    },
-    {
-      "id": "4936734",
-      "time": "2026-06-15 21:31:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "福克斯公司股價暴跌14%，創歷史最大跌幅。"
-    },
-    {
-      "id": "4936733",
-      "time": "2026-06-15 21:31:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福斯特：市場正在加速匯入公司載板幹膜和阻焊幹膜】福斯特今日在互動平臺表示，福斯特電子材料致力於高階電子材料的國產化，以前伺服器線路板的載板幹膜和阻焊油墨均由海外材料企業供應，近期隨著國內伺服器線路板產能擴張及技術進步，市場擔憂未來海外企業高階電子材料的供應及價格問題，正在加速匯入福斯特的載板幹膜和阻焊幹膜。"
-    },
-    {
-      "id": "mkt:019ecb7a-79b6-7dd8-b00f-7f2150613300",
-      "time": "2026-06-15 21:31:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Supreme Court to hear Trump administration appeal on prolonged detention of certain immigrants facing removal proceedings."
-    },
-    {
-      "id": "4936731",
-      "time": "2026-06-15 21:30:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4380美元/盎司，日內漲3.33%。"
-    },
-    {
-      "id": "4936730",
-      "time": "2026-06-15 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指漲1.15%，標普500指數漲1.32%，納指持平。西部資料漲10.12%，希捷漲9.91%，21世紀福克斯跌13.20%，福克斯-B跌11.08%，費哲跌9.04%。“七姐妹”方面：Meta Platforms漲2.66%，亞馬遜漲2.60%，谷歌漲2.25%，英偉達漲1.96%，特斯拉漲1.48%，微軟漲1.45%，蘋果漲0.73%。"
-    },
-    {
-      "id": "mkt:019ecb7a-3863-7dd8-b00f-72aa65ba7d2d",
-      "time": "2026-06-15 21:30:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bullish",
-        "SPCX.O",
-        "NVDA.O"
-      ],
-      "text": "【U.S. and Iran reach memorandum of understanding; U.S. stocks open higher】U.S. and Iran reached a memorandum of understanding. U.S. stocks opened higher: Dow +1.2%, S&P 500 +1.3%, Nasdaq +2.1%. Newly listed SpaceX (SPCX.O) extended gains, up 6.7%. NVIDIA (NVDA.O) rose 1.7% after saying it plans to raise at least $20 billion via issuance of high-grade bonds. Nasdaq Golden Dragon China Index +0.85%."
-    },
-    {
-      "id": "te:markets:559073",
-      "time": "2026-06-15 21:30:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Exxon Mobil Stock Price Hits 18-week Low — Exxon Mobil shares decreased to 139.41 USD, the lowest since February 2026. Over the past 4 weeks, Exxon Mobil lost 3.01%, and in the last 12 months, it increased 31.12%."
-    },
-    {
-      "id": "te:markets:559072",
-      "time": "2026-06-15 21:30:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Chevron Stock Price Hits 8-week Low — Chevron shares decreased to 179.50 USD, the lowest since April 2026. Over the past 4 weeks, Chevron gained 0.66%, and in the last 12 months, it increased 28.31%."
-    },
-    {
-      "id": "4936729",
-      "time": "2026-06-15 21:30:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%。"
-    },
-    {
-      "id": "4936728",
-      "time": "2026-06-15 21:30:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多股票交易所綜合指數（.GSPTSE）開盤上漲137.26點，漲幅0.39%，報35075.11點。"
-    },
-    {
-      "id": "te:markets:559071",
-      "time": "2026-06-15 21:30:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "ConocoPhillips Stock Price Hits 15-week Low — ConocoPhillips shares decreased to 111.71 USD, the lowest since February 2026. Over the past 4 weeks, ConocoPhillips lost 8.23%, and in the last 12 months, it increased 20.31%."
-    },
-    {
-      "id": "4936727",
-      "time": "2026-06-15 21:30:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SpaceX開盤漲超6%，公司上市首日收漲超19%，市值超越“七巨頭”中的特斯拉及Meta。馬斯克週日表示，SpaceX到2030年的營業收入可能達到1萬億美元。"
     }
   ]
 }
