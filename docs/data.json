@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-22 13:42:00",
-  "count": 17289,
+  "updated": "2026-06-22 13:46:03",
+  "count": 17286,
   "items": [
+    {
+      "id": "mkt:019eedd9-34b7-7dd8-b0b0-ebf4984386dd",
+      "time": "2026-06-22 13:41:35",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Goldman Sachs: Southeast Asian food prices face upside risk over coming months】Goldman Sachs economists say Southeast Asian food prices face upside risk over the next several months. The oil-price shock from the Middle East conflict has already fed into fuel-sensitive CPI components, and rising fertilizer costs will raise agricultural input prices. An El Nifio event, possible by end-2026, could lift global temperatures and trigger further grain-supply shocks, though its impact is imprecisely estimated. Goldman Sachs estimates a 10% rise in local oil prices would lift Southeast Asia food CPI by about 0.3 percentage point after 12 months."
+    },
     {
       "id": "4947368",
       "time": "2026-06-22 13:40:08",
@@ -158950,38 +158961,6 @@
         "國際"
       ],
       "text": "【俄稱赫爾松地區兩座橋樑遭烏襲擊受損】俄羅斯任命的赫爾松地區行政長官薩利多當地時間15日早間通報，烏軍14日夜間至15日凌晨的大規模無人機襲擊導致赫爾松地區兩座連線克里米亞的橋樑受損。根據通報，瓊加爾大橋再次遭襲，導致克里米亞半島北部的佔科伊公路檢查站交通中斷。連線格尼切斯克與阿拉巴特沙嘴的橋樑也遭到打擊，交通中斷。同日，俄羅斯圖拉州州長米利亞耶夫通報稱，15日凌晨圖拉市住宅區遭無人機襲擊。初步資訊顯示，3人遇難，3人受傷，包括1名1歲兒童。米利亞耶夫稱，14日夜間至15日凌晨，16架烏克蘭無人機在圖拉州範圍內被擊落。圖拉州位於首都莫斯科市以南，與莫斯科州接壤。目前烏克蘭方面暫無回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ec9d0-6233-7dd8-afff-a863ea290145",
-      "time": "2026-06-15 13:45:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi media Hadath reported municipalities in southern Lebanon’s East Zottar and West Zottar urged residents to delay returning home."
-    },
-    {
-      "id": "4935590",
-      "time": "2026-06-15 13:45:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞液化天然氣工會計劃將Inpex罷工延長至6月23日之後。"
-    },
-    {
-      "id": "4935589",
-      "time": "2026-06-15 13:44:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價在Tradegate平臺上漲4.8%。"
-    },
-    {
-      "id": "4935588",
-      "time": "2026-06-15 13:44:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊區域性走高，京能電力觸及漲停】電力板塊區域性走高，京能電力觸及漲停，廣西能源、豫能控股、協鑫能科、大唐發電、長源電力跟漲。"
     }
   ]
 }
