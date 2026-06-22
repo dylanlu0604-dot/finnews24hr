@@ -1,7 +1,147 @@
 {
-  "updated": "2026-06-22 14:28:15",
-  "count": 17276,
+  "updated": "2026-06-22 14:32:18",
+  "count": 17274,
   "items": [
+    {
+      "id": "4947456",
+      "time": "2026-06-22 14:31:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月22日：“農產品批發價格200指數”比節前下降0.63個點】據農業農村部監測，6月22日“農產品批發價格200指數”為112.04，比節前（6月18日，下同）下降0.63個點，“菜籃子”產品批發價格指數為111.85，比節前下降0.72個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.53元/公斤，比節前下降0.8%；牛肉66.76元/公斤，比節前上升0.1%；羊肉63.98元/公斤，比節前上升0.2%；雞蛋10.28元/公斤，比節前下降2.1%；白條雞17.22元/公斤，比節前上升1.9%。重點監測的28種蔬菜平均價格為4.26元/公斤，與節前持平；重點監測的6種水果平均價格為7.45元/公斤，比節前上升1.1%。鯽魚20.43元/公斤，比節前上升3.0%；鯉魚14.76元/公斤，比節前上升1.6%；白鰱魚10.59元/公斤，比節前上升2.8%；大帶魚42.03元/公斤，比節前上升3.4%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與節前相比價格升幅前五名的是菠蘿、白蘿蔔、大帶魚、鯽魚和白鰱魚，幅度分別為7.3%、3.6%、3.4%、3.0%和2.8%；價格降幅前五名的是茄子、平菇、黃瓜、西瓜和西葫蘆，幅度分別為5.7%、5.1%、4.6%、3.6%和2.8%。"
+    },
+    {
+      "id": "4947455",
+      "time": "2026-06-22 14:31:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數收盤上漲1.5%，報72353.96點。"
+    },
+    {
+      "id": "mkt:019eee06-61a6-7dd8-b0b2-448929b07b4a",
+      "time": "2026-06-22 14:30:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Lithium carbonate most-active futures pared intraday losses to 3.57%, trading at 159,800 yuan/ton after an earlier drop of nearly 9%."
+    },
+    {
+      "id": "4947454",
+      "time": "2026-06-22 14:30:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統助理：美國無力落實安克雷奇共識】據俄羅斯《觀點報》網站6月21日報道，俄羅斯總統助理烏沙科夫表示，俄美領導人2025年安克雷奇會晤的參與方在落實已達成的共識上表現出不同態度，部分已承諾的義務因某一國的立場未能落實。報道稱，烏沙科夫在回答記者提問時指出，對方尚未準備好履行其承擔的義務。烏沙科夫就此前達成的共識的落實情況發表了評論。他說：“目前，一方仍然堅持在安克雷奇會晤中達成的共識，而另一方，現在看來可以說，沒有足夠能力走完自己那一段路並落實共識了。”（參考訊息）"
+    },
+    {
+      "id": "mkt:019eee05-e5b6-7dd8-b0b2-3b05d56532fd",
+      "time": "2026-06-22 14:30:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【Alibaba releases video-generation model HappyHorse 1.1】June 22 — Alibaba released video-generation model HappyHorse 1.1. Compared with version 1.0, the update delivers systematic improvements in dynamic expressiveness, subject consistency, instruction following, visual fidelity and audio capability. The new version is available on the HappyHorse website and has been integrated into Alibaba Cloud’s Bailian and Qianwen Cloud platforms."
+    },
+    {
+      "id": "4947453",
+      "time": "2026-06-22 14:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里巴巴釋出影片生成模型HappyHorse 1.1】6月22日，阿里巴巴釋出影片生成模型HappyHorse 1.1，較1.0版本，在動態表現力、主體一致性、指令遵循、視覺質感和音訊能力等維度系統性升級。HappyHorse官網、阿里雲百鍊和千問雲均已接入最新版本。"
+    },
+    {
+      "id": "mkt:019eee05-9e9f-7dd8-b0b2-376ae5c94b08",
+      "time": "2026-06-22 14:30:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "2454.TW",
+        "Impact bullish"
+      ],
+      "text": "【Ming‑Chi Kuo: Google developing upgraded TPU v9 'Triggerfish'; MediaTek wins new exclusive order】Tianfeng International analyst Ming‑Chi Kuo says Google is developing an upgraded TPU v9 (codename Triggerfish) based on TPU v9/Humufish and has awarded an exclusive, higher‑priced order to MediaTek. Kuo retains a 4–5 mln unit lifecycle shipment estimate for Humufish and says Google will add 1–2 mln Triggerfish units, with production due end‑2027 and volume ramping in 2028. Triggerfish is priced about 30% above Humufish and is expected to provide incremental revenue for MediaTek in 2028."
+    },
+    {
+      "id": "te:markets:560674",
+      "time": "2026-06-22 14:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.58% Higher — The Nikkei 225 Index went up by 1128 points or 1.58 percent on Monday to close at 72379 points. The rise was led by J Front Retailing (15.56%), Toppan (10.87%) and Toto (10.82%)."
+    },
+    {
+      "id": "4947452",
+      "time": "2026-06-22 14:29:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）報道，哈梅內伊的葬禮和安葬儀式將於7月4日開始。"
+    },
+    {
+      "id": "4947451",
+      "time": "2026-06-22 14:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科創資訊等成立低空科技新公司】企查查APP顯示，近日，墨脫梅科飛創低空科技有限公司成立，經營範圍包含：衛星行動通訊終端銷售；衛星行動通訊終端製造；人工智慧行業應用系統整合服務；網際網路資料服務等。企查查股權穿透顯示，該公司由科創資訊(300730)等共同持股。"
+    },
+    {
+      "id": "4947450",
+      "time": "2026-06-22 14:29:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛奇藝已登記南部檔案雙人圖稿著作權】天眼查App顯示，愛奇藝關聯公司北京愛奇藝科技有限公司成立於2007年3月，法定代表人為耿曉華，註冊資本3030.3萬人民幣，經營範圍包括健康諮詢、預防保健服務、機械裝置租賃等，由耿曉華、央影片融媒體發展有限公司共同持股。智慧財產權資訊顯示，2026年6月，該公司曾登記《南部檔案》張海鹽便服表情包、《南部檔案》張海蝦制服表情包、《南部檔案》雙人Q版圖稿等多個《南部檔案》相關作品著作權，作品類別為美術。"
+    },
+    {
+      "id": "4947448",
+      "time": "2026-06-22 14:28:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股光通訊股長飛光纖光纜午後漲幅持續擴大，截至發稿，股價漲超30%，最高報285港元，創歷史新高。"
+    },
+    {
+      "id": "4947447",
+      "time": "2026-06-22 14:28:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【渣打：市場對美聯儲預期過於鷹派 預計年內將保持按兵不動】 渣打認為，美聯儲可能年內會維持利率不變。市場對美聯儲的預期過於鷹派。我們認為美聯儲將在今年剩餘時間內維持利率不變，並在明年第二季度真正降息。根據渣打發布的下半年市場展望報告，美國經濟表現好於預期；同時，美伊達成的臨時協議或推動整體通脹在二季度見頂。當前形勢對印度等新興市場利率有利。目前我們更傾向於透過股票進行投資，但我認為就印度而言，未來環境會好轉，局勢會趨於穩定。"
+    },
+    {
+      "id": "4947446",
+      "time": "2026-06-22 14:27:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【市場預計美光Q3每股收益同比暴增近1000% 或創增速峰值】週三美股盤後，美國儲存巨頭美光科技將釋出2026財年第三季度（3–5月）財報。FactSet調查的分析師的共識預期是，美光科技截至5月財季的調整後每股收益（EPS）將達到20.57美元，較去年同期增長近1000%。包括晨星分析師William Kerwin在內的多位分析師都預計，美光財報會大幅超出市場預期。目前的預測顯示，本週即將公佈的財報可能標誌著美光科技調整後每股收益增速的峰值。"
+    },
+    {
+      "id": "te:markets:560672",
+      "time": "2026-06-22 14:27:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Subdued — The ASX 50 closed little changed at 8,822 on Monday, as gains in logistics, industrial services, and financials offset losses in electronic tech, consumer stocks, and healthcare. The muted tone followed two sessions of losses, with sentiment fragile even after reports said that U.S. and Iranian officials had agreed on a roadmap to reach a final deal within 60 days. Traders also awaited U.S. inflation data later this week for signals on the Fed’s policy path, while local focus turned to May CPI and labor figures that could shape expectations for the Reserve Bank of Australia’s next move after it held rates steady last week. SGH Ltd. jumped 3.3% after unveiling a buyback of up to AUD 500 million, while two of the big four banks rose between 0.3% and 0.6%. On the downside, Wisetech Global tumbled 16.1% after police opened a probe into its founder over alleged visa misconduct and exploitation claims. Other laggards included Xero (-3.5%), TPG Telecom (-3.2%), and Nextdc Ltd. (-2.8%)."
+    },
     {
       "id": "4947445",
       "time": "2026-06-22 14:26:52",
@@ -158732,152 +158872,6 @@
         "國際"
       ],
       "text": "印度政府資料顯示，印度5月製造業通脹同比上漲7.48%。"
-    },
-    {
-      "id": "4935698",
-      "time": "2026-06-15 14:32:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "豐田汽車：股票出售產生的收益影響已計入財報。"
-    },
-    {
-      "id": "4935697",
-      "time": "2026-06-15 14:32:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列銀行：費爾德曼獲續任，繼續擔任貨幣政策委員會委員。"
-    },
-    {
-      "id": "4935696",
-      "time": "2026-06-15 14:31:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度政府公佈資料顯示，5月印度批發價格食品指數同比上漲4.49%。"
-    },
-    {
-      "id": "4935695",
-      "time": "2026-06-15 14:31:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度5月批發價格指數(WPI)同比漲幅為9.68% (路透調查預估為9.05%)。"
-    },
-    {
-      "id": "te:economy:558931",
-      "time": "2026-06-15 14:31:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Romanian Industrial Output Falls to 3-Month Low — Industrial production in Romania fell 3.1% year-on-year in April 2026, following a downwardly revised 2.1% decline in the previous month. This marked the lowest reading since January, as manufacturing output contracted further (-4.4% vs -3.2% in March), particularly in basic pharmaceutical products and pharmaceutical preparations; other non-metallic mineral products; basic metals; electrical equipment; motor vehicles, trailers, and semi-trailers; furniture; and other manufacturing. At the same time, activity in the mining and quarrying sector declined (-1.0% vs 1.3%), weighed by continued drops in the mining of coal and lignite, the extraction of crude petroleum and natural gas, and other mining and quarrying activities. Growth in electricity, gas, steam, and air conditioning supply also eased (3.4% vs 4.6%). On a monthly basis, industrial output rose 1.5%, the strongest increase since April last year, after an upwardly revised 0.4% gain in March."
-    },
-    {
-      "id": "4935694",
-      "time": "2026-06-15 14:31:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲4.99%，報69317.50點。韓國綜指收漲5.17%，報8543.42點。"
-    },
-    {
-      "id": "4935693",
-      "time": "2026-06-15 14:31:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度5月批發價格指數通脹資料按新序列釋出。"
-    },
-    {
-      "id": "4935692",
-      "time": "2026-06-15 14:30:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威統計局：預計2026年挪威石油投資同比下降1.0%，與3月預估數值持平。"
-    },
-    {
-      "id": "4935691",
-      "time": "2026-06-15 14:30:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長光衛星一箭八星發射成功】 今日，從長光衛星獲悉，公司在東風商業航天創新試驗區，藉助中科宇航力箭一號遙十四運載火箭，成功將“文物01星”“彩雲光學01星”“安鐵03星”“利川紅”衛星、“吉星”高分07C04星等8顆衛星送入預定軌道，發射任務圓滿成功。其中，“文物01星”由長光衛星與國家文物局聯合打造，是一顆高解析度光學遙感衛星；“彩雲光學01星”為長光衛星聯合雲南省地礦局、雲南地礦集團研製。本次任務是“吉林一號”衛星工程的第37次發射。長光衛星對《科創板日報》記者表示，今年還將持續開展衛星發射工作。此前，長光衛星已對外證實正重啟科創板IPO。（科創板日報）"
-    },
-    {
-      "id": "4935690",
-      "time": "2026-06-15 14:30:10",
-      "tags": [
-        "資料"
-      ],
-      "text": "瑞士5月生產者/進口物價指數月率 -0.4%，前值0.80%。\n瑞士5月生產者/進口物價指數年率 -1.8%，前值-2.00%。"
-    },
-    {
-      "id": "te:markets:558930",
-      "time": "2026-06-15 14:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 4.75% Higher — The Nikkei 225 Index went up by 3136 points or 4.75 percent on Monday to close at 69156 points. The rise was led by Taiyo Yuden (23.08%), Sumco (17.68%) and Murata Manufacturing (17.58%)."
-    },
-    {
-      "id": "4935689",
-      "time": "2026-06-15 14:29:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威統計局：預計 2026 年挪威核心居民消費價格指數漲幅為 3.2%，3 月預估為 3.1%。"
-    },
-    {
-      "id": "4935688",
-      "time": "2026-06-15 14:29:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：烏克蘭其他多個城市與聚居區同樣遇襲，基輔州、第聶伯羅彼得羅夫斯克州、頓涅茨克州、扎波羅熱州、蘇梅州、尼古拉耶夫州均受到攻擊。"
-    },
-    {
-      "id": "4935687",
-      "time": "2026-06-15 14:29:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：昨夜，俄方僅針對基輔就發射了 60 餘枚導彈。此次襲擊中，俄方共計向烏克蘭發射 70 枚導彈、出動 611 架無人機。"
-    },
-    {
-      "id": "4935686",
-      "time": "2026-06-15 14:28:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭稱其領空仍有俄無人機】烏克蘭空軍今天（6月15日）通報稱，自當地時間6月14日18:00起，俄軍使用攻擊型無人機、空基和地基導彈對烏克蘭發動大規模聯合打擊。主要方向為基輔，哈爾科夫等地也遭到襲擊。根據初步資料，截至當地時間6月15日8:00，烏克蘭防空部隊擊落/壓制632個空中目標。目前，攻擊仍在繼續，烏克蘭領空仍有數架俄方無人機。烏克蘭空軍發言人伊格納特今天（6月15日）證實，基輔遭遇俄方大規模混合空襲，本次襲擊為俄方彈道導彈投放規模最大一輪攻勢，襲擊動用多型別協同彈藥，攻勢猛烈，基輔多地受損。襲擊已致4人遇難、30人受傷。(CCTV國際時訊)"
-    },
-    {
-      "id": "4935685",
-      "time": "2026-06-15 14:28:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外交部長表示：我們將始終研究如何進一步收緊對俄羅斯的制裁。"
-    },
-    {
-      "id": "4935684",
-      "time": "2026-06-15 14:28:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧波一宅地4.93億元底價成交】6月15日，寧波出讓一宗鎮海新城54畝宅地，規劃建築面積58366.40㎡，容積率1.6，起始價4.93億元，起始樓面價8442元/㎡。最終綠城以底價4.93億元競得該地塊，成交樓面價8442元/㎡。"
     }
   ]
 }
