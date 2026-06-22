@@ -1,7 +1,60 @@
 {
-  "updated": "2026-06-23 00:29:01",
-  "count": 17252,
+  "updated": "2026-06-23 00:35:04",
+  "count": 17255,
   "items": [
+    {
+      "id": "4948772",
+      "time": "2026-06-23 00:31:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "保時捷執行長表示，美國未來仍將是保時捷最重要的市場。"
+    },
+    {
+      "id": "mkt:019ef02b-89b7-7dd8-b0c2-52730120a52c",
+      "time": "2026-06-23 00:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Porsche CEO says the United States will continue to be Porsche's most important market going forward."
+    },
+    {
+      "id": "te:markets:560856",
+      "time": "2026-06-23 00:30:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CIBC Stock Price Hits 4-week High — CIBC shares increased to 161.43 CAD, the highest since May 2026. Over the past 4 weeks, CIBC gained 0.4%, and in the last 12 months, it increased 68.72%."
+    },
+    {
+      "id": "mkt:019ef02b-2401-7dd8-b0c2-49b53b59fcdb",
+      "time": "2026-06-23 00:30:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【Alphabet shares fall after another star AI researcher moves to rival】Alphabet (GOOG.O) shares fell on Monday after DeepMind vice president John Jumper said over the weekend he will leave to join Anthropic, sending the stock down as much as 7.2% intraday — its largest intraday drop since February. The move follows last week’s departure of senior researcher Noam Shazeer to OpenAI, and comes amid broad weakness in large-cap tech names. Jumper, a core member of Google's AI programming team, received the 2024 Nobel Prize in Chemistry for AI-related research."
+    },
+    {
+      "id": "4948771",
+      "time": "2026-06-23 00:27:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽一河段水體異常變紅 當地通報原因並全力處置】6月22日，安徽省馬鞍山市博望區丹陽鎮楊橋河部分河段水體異常變色。當晚，馬鞍山市博望區生態環境分局釋出情況通報稱，經初步查詢，水體變紅的主要原因為轄區內一公司容器破損，滲出產品中含有鐵離子所致。 情況通報稱，經溯源排查發現，丹陽鎮轄區內一包裝材料公司露天堆放的紅色水性色漿（生產原料）因儲存容器法蘭圈破損，沿雨水管網進入楊橋河，致使該河段水體呈紅色。 記者從安徽省生態環境廳瞭解到，河段水體變紅是從22日早晨8點多開始，綿延河道約兩三公里。據瞭解，楊橋河變色河段不處於飲用水源地保護區。 記者瞭解到，博望區委、區政府已迅速安排部署調查處置工作。安徽省生態環境廳也已派出應急組趕到現場指導處置。目前相關人員已關閉下游閘口，開展築壩攔截，物理阻斷汙染擴散路徑，並透過投加活性炭吸附等方式對該河段水體進行處置。目前工作組已安排專業檢測機構對水體取樣，並作進一步檢測核實。（新華社）"
+    },
     {
       "id": "mkt:019ef027-22f7-7dd8-b0c2-4356cf1b6810",
       "time": "2026-06-23 00:25:57",
@@ -158511,30 +158564,6 @@
         "國際"
       ],
       "text": "【特朗普：霍爾木茲海峽恢復通航“不需要太多幫助”】美國總統特朗普15日在法國埃維昂萊班出席七國集團峰會期間表示，霍爾木茲海峽恢復通航“不需要太多（外部）幫助”。特朗普在與法國總統馬克龍會談時作出上述表態。馬克龍當日早些時候表示，歐洲多國已做好準備參與霍爾木茲海峽護航行動。（新華社）"
-    },
-    {
-      "id": "mkt:019ecc20-18b8-7dd8-b013-ddad1f39a9d2",
-      "time": "2026-06-16 00:31:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Trump: US-Iran pact text to be released after Friday signing; oil sharply lower, stocks higher】Speaking with Macron, Trump said the Strait of Hormuz will be fully open on Friday and the US-Iran agreement has been electronically signed. He said the agreement text will be released after Friday and that sanctions will not be lifted until Iran fulfills its obligations. Vice President Vance will sign the agreement; Trump said he may or may not sign. He said he seeks good relations with Iran under robust oversight and reiterated that Iran will not possess nuclear weapons. He added he hopes to resolve the Lebanon issue and noted oil prices are sharply lower while equities are rising."
-    },
-    {
-      "id": "4936979",
-      "time": "2026-06-16 00:31:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：7 月 1 日，谷歌廣告將更新適用於美國地區的博彩及遊戲專項政策條款。"
     }
   ]
 }
