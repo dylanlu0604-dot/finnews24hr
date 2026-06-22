@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-06-23 05:33:20_
-_本檔包含 3443 則快訊，約 647183 字_
+_更新時間：2026-06-23 06:10:07_
+_本檔包含 3435 則快訊，約 647362 字_
+
+---
+
+### 2026-06-23 06:08:41  #宏觀 #國際
+
+【報道：美國財長貝森特與日本財務大臣片山皋月舉行線上會議】NHK援引未具名人士報道，日本財務大臣片山皋月與美國財政部長斯科特·貝森特於日本週一晚間舉行了線上會議。日本最高外匯官員三村淳也參加了會議。
+
+---
+
+### 2026-06-23 06:07:53  #其他
+
+在費城舉辦的法國對陣伊拉克世界盃賽事，下半場開賽因強雷暴天氣推遲。
+
+---
+
+### 2026-06-23 06:07:31  #MKT News
+
+Iranian media reported that Parliament Speaker Ghalibaf, Foreign Minister Araghchi, U.S. Vice President Vance, Qatari Prime Minister Al Thani and Pakistan Prime Minister Sharif will oversee upcoming negotiations.
+
+---
+
+### 2026-06-23 06:02:41  #公司 #國際
+
+【白宮將召集武器製造商開會 在庫存承壓之際推動加大彈藥生產】白宮本週將召集防務承包商開會，推動加大彈藥生產；與伊朗近四個月的戰爭後，庫存正承受壓力。美國總統唐納德·特朗普確認了這次會議。白宮一名官員此前表示，會議將於週三舉行。“我們確實在大力推動武器生產，一些汽車公司如果有多餘產能，正在達成協議來製造導彈，特別是愛國者，”特朗普週一在白宮對記者表示，“我們已經有不少，但希望確保始終擁有大量庫存。”一位知情人士透露，RTX Corp.預計將參加討論。
+
+---
+
+### 2026-06-23 06:02:07  #央行 #國際
+
+【美聯儲7月維持利率不變的機率為63.7%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為63.7%，累計加息25個基點的機率為36.3%。 美聯儲到9月維持利率不變的機率為26.1%，累計加息25個基點的機率為52.5%，累計加息50個基點的機率為21.4%。
+
+---
+
+### 2026-06-23 06:01:00  #市場 #焦點
+
+紐約期銀突破66美元/盎司，日內跌0.70%。
+
+---
+
+### 2026-06-23 06:00:34  #市場 #焦點
+
+現貨白銀突破66美元/盎司，日內跌0.03%。
+
+---
+
+### 2026-06-23 05:54:32  #MKT News
+
+【Iran denies using unfrozen funds to buy US farm goods】US Vice President Vance said on June 22 in Switzerland the US has procedures to ensure any unfrozen Iranian assets would support Iranian civilians, not fund terrorism, and that released funds would be used to purchase US soybeans, corn and wheat under a US–Qatar approval mechanism. TASNIM NEWS quoted a source close to Iran‑US talks denying any agreement contains such a provision, calling Vance’s claim untrue and suggesting it was driven by US domestic politics; the source asked why Iran would spend US$12 bln buying US agricultural products.
+
+---
+
+### 2026-06-23 05:54:16  #國際
+
+【伊朗否認將用解凍資金買美農產品】美國副總統萬斯6月22日在瑞士就伊朗資產解凍問題表示，美方已建立相關流程，確保未來任何解凍資金將用於支援伊朗民眾，而非“資助恐怖主義”。據萬斯稱，被解凍的伊朗資金將用於購買美國大豆、玉米和小麥等農產品，該機制將由美國與卡達方面共同審批。不過據伊朗塔斯尼姆通訊社隨後援引一名接近伊美談判的訊息人士的話報道稱，“伊朗被凍結資金將被用於購買糧食”的說法並不屬實，在任何協議中都沒有這樣的表述。這位訊息人士表示，萬斯之所以提出這類說法，“主要是出於美國國內政治因素的考慮——出於什麼邏輯伊朗會拿120億美元去購買美國農產品呢？”(CCTV國際時訊)
+
+---
+
+### 2026-06-23 05:48:47  #Trading Economics #Economy #South Korea #Consumer Confidence #Importance 1
+
+South Korea Consumer Sentiment Improves in June — South Korea’s Composite Consumer Sentiment Index rose by 0.5 point to 95.5 in June 2026 compared with the previous month. Consumer sentiment regarding current domestic economic conditions increased three points to 86, while expectations for future economic conditions slipped one point to 92. Sentiment on current living standards rose one point to 94, while the outlook for future living standards remained unchanged at 97. Expectations for future household income and spending were also unchanged at 100 and 110, respectively. Meanwhile, the expected inflation rate for the next year stood at 2.8%, while three-year and five-year inflation expectations were 2.7% and 2.6%, respectively.
+
+---
+
+### 2026-06-23 05:42:45  #Trading Economics #Economy #Argentina #Unemployment Rate #Importance 0
+
+Argentina Unemployment Rises in Q1 2026 — Argentina’s unemployment rate rose to 7.8% in the first quarter of 2026, up from 7.5% in the previous quarter. The number of unemployed reached 1.1 million people. By region, unemployment was highest in Greater Buenos Aires at 8.7%, followed by the Pampas region at 8.2%. The jobless rate stood at 8.3% for women and 7.5% for men. Among the unemployed, 28.2% were the main income providers in their households. By education level, 36% had completed secondary education, while 10.8% had tertiary or university studies. Regarding job-search duration, 31.8% had been looking for work for more than a year, while 78.7% had previous work experience. By sector, 16.8% had last worked in construction and 16.6% in commerce. Meanwhile, the employment rate edged down to 44.8% from 45%, while labor force participation remained stable at 48.6%.
+
+---
+
+### 2026-06-23 05:35:11  #公司
+
+據傳舒適剃鬚刀母公司已拒絕非邀約收購提案。
+
+---
+
+### 2026-06-23 05:32:58  #市場
+
+彭博股指：SpaceX將於2026年6月24日收盤時被納入彭博全球股指的大盤股板塊。
 
 ---
 
@@ -20628,131 +20706,5 @@ Axios reported a diplomat participating in the talks said the Iranian delegation
 ### 2026-06-22 00:48:11  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
 
 【Iran delegation leaves Swiss talks in protest at Trump threat】On the 21st, Iran said a source close to its negotiating team reported the delegation had left the negotiating site in protest at President Trump’s threats. Informed sources said Trump’s latest remarks have paused US‑Iran talks in Switzerland and cast doubt on whether negotiations can continue. Earlier, Trump posted on Truth Social that Iran must immediately stop its "proxy" actions in Lebanon or the United States will strike Iran.
-
----
-
-### 2026-06-22 00:47:41  #焦點 #國際
-
-【抗議特朗普威脅言論 伊朗代表團離開談判地點】當地時間21日，伊朗方面釋出訊息稱，一名接近談判團隊的訊息人士透露，伊朗談判代表團因抗議特朗普的威脅言論，已離開談判地點。另據知情人士訊息，美國總統特朗普最新對伊朗發出的威脅言論導致美伊在瑞士的會談暫停，並使談判能否繼續進行蒙上陰影。此前，特朗普在社交平臺“真實社交”上發文稱，伊朗必須立即停止其在黎巴嫩的“代理人”行動，否則美國將對伊朗發動打擊。（央視新聞）
-
----
-
-### 2026-06-22 00:44:28  #國際
-
-【世界拳聯世界盃中國站：中國選手斬獲5金】2026世界拳擊聯合會（世界拳聯）世界盃中國站21日迎來決賽日，中國選手楊柳、王霄萌、包子怡、詹依蓮、吳愉分別獲得女子70公斤級、80公斤級、75公斤級、80公斤以上級和51公斤級冠軍。張家茂不敵美國選手帕特里西奧，獲得男子55公斤級亞軍。（新華社）
-
----
-
-### 2026-06-22 00:40:51  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iranian state media reported a member of Iran's negotiating team said a draft for exemptions from sanctions on Iranian oil has been finalized and formal publication of the exemptions is expected soon.
-
----
-
-### 2026-06-22 00:40:26  #宏觀 #焦點 #國際
-
-伊朗談判代表團成員對伊朗官方媒體表示：伊朗石油制裁豁免相關草案已敲定，豁免令很快就會出臺。
-
----
-
-### 2026-06-22 00:38:19  #MKT News
-
-Iranian state media reported a member of Iran's negotiation team said procedures to execute the release of Iran's frozen funds have begun, with a Qatari delegation participating.
-
----
-
-### 2026-06-22 00:37:41  #焦點 #國際
-
-伊朗談判代表團成員對官方媒體表示：伊朗凍結資金解凍的執行流程已在卡達代表團參與下完成。
-
----
-
-### 2026-06-22 00:35:54  #MKT News #WTI #Impact bullish #Brent
-
-Iranian state media reports a member of Iran's negotiating team said talks on other issues will not proceed unless the war in Lebanon ends.
-
----
-
-### 2026-06-22 00:34:57  #國際
-
-伊朗談判團隊成員對伊朗國家媒體表示：如果黎巴嫩戰事不結束，就不會就其他議題進行談判。
-
----
-
-### 2026-06-22 00:33:47  #MKT News #Market Regions #Europe & UK
-
-France's foreign ministry said the foreign minister will meet Qatar's prime minister in Switzerland on Monday local time.
-
----
-
-### 2026-06-22 00:33:11  #國際
-
-法國外交部：法國外長將於週一在瑞士會見卡達首相。
-
----
-
-### 2026-06-22 00:31:49  #MKT News #WTI #Impact bullish #Brent
-
-TASNIM NEWS, citing sources, says Iran's delegation walked out of talks in protest at comments by Trump.
-
----
-
-### 2026-06-22 00:31:25  #焦點 #國際
-
-訊息人士：伊朗代表團為抗議特朗普言論已離開談判會場。
-
----
-
-### 2026-06-22 00:28:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Israel says it killed more than 20 Hezbollah fighters in southern Lebanon】On the 21st the IDF said it discovered an underground tunnel with four shafts and hundreds of weapons beneath the southern Lebanese village of Majdal Zoun, about 10 km from the Israel-Lebanon border, and that the 551st Brigade of its 91st Division is conducting operations there. The IDF said it killed more than 20 Hezbollah fighters during the operation, including over 10 members of the elite Radwan unit, and destroyed more than 50 military sites including observation posts and weapons storage facilities.
-
----
-
-### 2026-06-22 00:27:07  #國際
-
-伊朗塔斯尼姆通訊社稱，特朗普近期發表的威脅言論致使瑞士談判陷入暫停，也給談判程序帶來極大不確定性。
-
----
-
-### 2026-06-22 00:24:22  #國際
-
-伊朗稱，特朗普發表的威脅言論致使美伊瑞士談判中止。
-
----
-
-### 2026-06-22 00:22:41  #國際
-
-【以軍稱在黎巴嫩南部打死多名黎真主黨武裝人員】當地時間21日，以色列國防軍發表宣告稱，以軍在距離以黎邊境約10公里的黎巴嫩南部村鎮馬吉代勒祖恩地下，發現了一條建有4個地道豎井並藏有數百件武器的地道。據以色列國防軍釋出的宣告，以軍第91師指揮下的第551旅目前正在該地區展開行動。在行動期間，以軍共打死了20多名黎巴嫩真主黨武裝人員，其中包括10多名真主黨精銳武裝拉德萬部隊的成員。此外，以軍還聲稱摧毀了50多個軍事基礎設施站點，包括觀察哨和武器儲存設施。以軍透露，其在現場具體定位了一條長度超過200米、深度超過25米的地道。以方聲稱，該地道內設有4個地道豎井和12個房間，其中包括生活區以及用於儲存簡易爆炸裝置、反坦克導彈和無人機的房間。（央視新聞）
-
----
-
-### 2026-06-22 00:21:58  #國際
-
-【真主黨領導人明確拒絕以色列在黎巴嫩境內設立任何安全區】黎巴嫩真主黨領導人納伊姆·卡西姆明確拒絕以色列在黎巴嫩境內設立任何安全區。此前以色列總理內塔尼亞胡宣稱，以軍會駐守黎巴嫩南部，直至局勢不再需要駐軍為止。卡西姆表示：“以色列軍隊盤踞黎巴嫩領土，這絕無可能。”他補充稱，“以色列是侵略者，必須撤離。”
-
----
-
-### 2026-06-22 00:21:09  #國際
-
-訊息人士：伊朗代表團正在開展內部磋商，目前尚不清楚其是否會重返談判。
-
----
-
-### 2026-06-22 00:19:16  #MKT News
-
-Republican Senator Lindsey Graham said he hopes diplomacy will succeed but warned that if Iran attempts to challenge the United States, the U.S. will utterly destroy Iran.
-
----
-
-### 2026-06-22 00:18:56  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Hezbollah leader says will respond to any ceasefire violations】Hezbollah leader Naim Qassem said Israel will not continue to remain stationed in Lebanon and the group will respond to any Israeli violations of the ceasefire. His remarks came as Israeli officials said the ceasefire, which took effect on Friday, still permits the Israel Defense Forces to act without restriction to remove threats inside Lebanon.
-
----
-
-### 2026-06-22 00:15:30  #國際
-
-伊朗首席談判代表卡利巴夫：他們難道就沒想過，倘若其威脅真能奏效，又怎會落到如今這般絕望的境地？我們根本不把美國的威脅放在眼裡。美方最好謹言慎行，我方武裝力量已準備好採取另一種方式予以回擊。無論美方如何叫囂，付諸行動的終將是我們。
 
 ---

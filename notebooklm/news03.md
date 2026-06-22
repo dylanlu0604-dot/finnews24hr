@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-06-23 05:33:20_
-_本檔包含 3432 則快訊，約 646937 字_
+_更新時間：2026-06-23 06:10:07_
+_本檔包含 3424 則快訊，約 646549 字_
+
+---
+
+### 2026-06-18 23:38:30  #MKT News
+
+U.S. Vice President Vance said international waterways should be exempt from transit fees.
+
+---
+
+### 2026-06-18 23:38:23  #焦點 #國際
+
+美國副總統萬斯談及伊朗與霍爾木茲海峽問題：最終談判將確定60天之後的相關條款。
+
+---
+
+### 2026-06-18 23:38:16  #MKT News #Market Themes #AI Revolution
+
+Politico reports OpenAI has hired Dean Ball, a former AI official in the Trump administration.
+
+---
+
+### 2026-06-18 23:38:05  #其他
+
+萬斯：國際水道應該免收通行費。
+
+---
+
+### 2026-06-18 23:37:50  #市場 #焦點
+
+比特幣跌破63000美元，日內跌2.39%。
+
+---
+
+### 2026-06-18 23:37:39  #MKT News
+
+U.S. Vice President Vance said he ultimately wants the Lebanese government to maintain security in southern Lebanon.
+
+---
+
+### 2026-06-18 23:37:27  #MKT News
+
+U.S. Vice President Vance said the U.S. will have to address contingencies by diplomatic means.
+
+---
+
+### 2026-06-18 23:37:17  #MKT News
+
+U.S. Vice President Vance said on the Lebanon-related element of the Iran deal he expects both sides to comply with the agreement.
+
+---
+
+### 2026-06-18 23:37:12  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
+
+On Thursday June 18, Germany's DAX 30 closed up 87.01 pts (+0.35%) at 25,018.56; UK's FTSE 100 closed down 118.89 pts (-1.13%) at 10,389.72; France's CAC 40 closed up 37.19 pts (+0.44%) at 8,467.98; Euro Stoxx 50 closed up 21.13 pts (+0.34%) at 6,321.20; Spain's IBEX 35 closed down 32.35 pts (-0.17%) at 19,382.75; Italy's FTSE MIB closed up 122.27 pts (+0.23%) at 52,717.50.
+
+---
+
+### 2026-06-18 23:37:08  #國際
+
+美國副總統萬斯：最終希望看到黎巴嫩政府管控黎巴嫩南部。
+
+---
+
+### 2026-06-18 23:37:04  #國際
+
+美國副總統萬斯：地區國家不會放棄自衛權，以色列也不會放棄自衛權。如果真主黨向以色列發射火箭彈或無人機，伊朗同樣不會放棄本國的自衛權，但我們要求，作為最終協議的條款之一，伊朗不得研發可對全世界形成大範圍威脅的導彈。
+
+---
+
+### 2026-06-18 23:37:01  #MKT News #Important #Market Regions #Europe & UK #WTI #Brent
+
+EU high representative for foreign affairs and security policy kallas said there is no consensus yet on lifting sanctions on Iran.
+
+---
+
+### 2026-06-18 23:36:56  #國際
+
+美國副總統萬斯：必須透過外交手段管控衝突升級。
+
+---
+
+### 2026-06-18 23:36:46  #MKT News #Important
+
+U.S. Vice President Vance said he believed the president was joking when Trump said yesterday he would make him take the blame, and that the president often jokes like that.
+
+---
+
+### 2026-06-18 23:36:23  #國際
+
+美國副總統萬斯就伊朗協議中的黎巴嫩相關條款表態：期望雙方遵守該協議。
+
+---
+
+### 2026-06-18 23:36:19  #國際
+
+歐盟委員會卡拉斯：解除伊朗制裁一事目前尚無定論。
+
+---
+
+### 2026-06-18 23:35:43  #其他
+
+【日元匯率創近2年新低】美元兌日元USD/JPY站上161，為2024年7月以來首次。
+
+---
+
+### 2026-06-18 23:35:40  #國際
+
+【美國啟動駐歐軍事部署評估 或進一步削減對歐洲支援】美國國防部長海格塞斯表示，美國將對其在歐洲的軍事存在啟動為期六個月的評估，眼下歐洲領導人正準備應對美國計劃大幅削減對歐洲的軍事支援。特朗普政府已提出計劃，擬削減國防部在歐洲遭受襲擊時為保衛歐洲而派遣的軍事資源，這引發外界對北約將如何填補相關能力缺口的疑問。其他北約國家防長敦促海格塞斯，至少應與歐洲各國政府協調撤軍安排。“我今天宣佈啟動戰爭部為期六個月的評估，審查美國在歐洲的兵力態勢和基地安排，”海格塞斯週四在布魯塞爾北約總部舉行的防長會議開始前表示。
+
+---
+
+### 2026-06-18 23:35:39  #MKT News #Important #USDJPY #Impact bullish
+
+【Japanese yen hits near two-year low】USD/JPY climbed above 161 for the first time since July 2024.
+
+---
+
+### 2026-06-18 23:35:22  #市場 #央行 #國際
+
+【美元延續漲勢 美聯儲鷹派訊號提振加息押注】美元連續第二天延續漲勢，重新邁向3月下旬的高點，交易員紛紛押注美聯儲最早將於下月底開始加息。這一進展推動彭博美元指數較週三美聯儲舉行會議前走高約1%。美聯儲主席凱文·沃什在會上強調了央行在對抗通脹方面的作用，預測顯示許多政策制定者預計會在年底前提高利率。美國短期國債收益率應聲大幅上漲，全球投資者再次受到鼓舞，將資金轉向美國資產。歐元跌至3月以來的最低水平，加元觸及七個月來最低，日元下滑至2024年7月以來最弱。美聯儲的表態再次提振了美元，此前伊朗戰爭導致油價飆升，美元作為避險貨幣收到提振。
+
+---
+
+### 2026-06-18 23:35:06  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Vice President Vance said Iran would require massive funding to rebuild its nuclear program.
+
+---
+
+### 2026-06-18 23:34:57  #市場 #國際
+
+美國至6月18日4周國債競拍-得標利率 3.58%，前值3.595%。
+美國至6月18日4周國債競拍-得標利率配置百分比 64.65%，前值70.32%。
+美國至6月18日4周國債競拍-投標倍數 2.99，前值3.13。
+
+美國至6月18日8周國債競拍-得標利率配置百分比 31.85%，前值65.5%。
+美國至6月18日8周國債競拍-投標倍數 2.57，前值2.94。
+美國至6月18日8周國債競拍-得標利率 3.64%，前值3.61%。
+
+---
+
+### 2026-06-18 23:34:36  #MKT News #Macro & Rates #Treasury Yields
+
+U.S. 8-week Treasury bill auction to June 18: share of awards at the stop-out yield 31.85%, prior 65.5%.
+
+---
+
+### 2026-06-18 23:34:24  #公司
+
+【SpaceX上市日為嘉信理財歷史上五大最繁忙交易日之一】上週隨著SpaceX首次亮相股市，嘉信理財迎來了其55年歷史上最繁忙的五個交易日之一。“回想過去50年裡我們經歷過的各種市場事件，這次IPO能躋身前五名確實令人難以置信，”嘉信理財執行長Rick Wurster週四在接受採訪時表示，“我認為這源於散戶能夠切身感受到我們經濟中的創新水平。”
+
+---
+
+### 2026-06-18 23:34:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+U.S. 8-week Treasury auction (June 18) stop-out yield 3.64%, up from 3.61% at the prior auction.
+
+---
+
+### 2026-06-18 23:34:16  #MKT News #Economic Calendar
+
+United States | 8-Week Bill Auction High Yield Rate (Jun.18) | actual 3.64% | previous 3.61%
+
+---
+
+### 2026-06-18 23:34:09  #國際
+
+萬斯談伊朗與核武器：伊朗若要重建核計劃必須籌措鉅額資金。
+
+---
+
+### 2026-06-18 23:34:09  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
+
+U.S. 8-week Treasury auction bid-cover ratio 2.57 for the June 18 auction; previous 2.94.
+
+---
+
+### 2026-06-18 23:33:59  #宏觀 #市場 #國際
+
+【美國出臺新規允許大型用電主體更快接入本國效率偏低的輸電網路】美國聯邦監管機構週四出臺新規，允許大型用電主體更快接入本國效率偏低的輸電網路，以此滿足高耗能人工智慧資料中心激增的用電需求。科技企業及資料中心開發商均對電網接入審批提速表示歡迎。但電力企業、各州政府及區域電網運營方擔憂，本屆共和黨政府推出的方案會剝奪其相關流程管理許可權。清潔能源支持者則希望該委員會能推進而非削弱各州推行可再生能源強制使用政策的相關工作。監管機構出臺此項政策之際，社會各界對資料中心的牴觸情緒持續升溫。民眾擔憂電價上漲，同時質疑這類設施能耗、耗水量巨大，不僅汙染各地社群，還加重水資源與電網負荷。
 
 ---
 
@@ -20537,227 +20717,5 @@ Fed Chair Kevin Warsh said he expects to achieve partial results before autumn a
 ### 2026-06-18 02:39:08  #MKT News
 
 Federal Reserve chair Kevin Warsh said a working group will begin operations within the next few weeks.
-
----
-
-### 2026-06-18 02:38:53  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said each independent working group will assemble top talent from inside and outside the economics profession.
-
----
-
-### 2026-06-18 02:38:51  #央行 #國際
-
-美聯儲主席沃什：溝通工作組可能重塑點陣圖。資產負債表工作組將審查美聯儲的債券持有情況。生產力與就業工作組將調查人工智慧及其他通用技術的影響範圍。資料工作組將考慮新的資料來源和方法論變更。資產負債表工作組將審查充足準備金制度的好處和風險。
-
----
-
-### 2026-06-18 02:38:50  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said the balance-sheet working group will review the benefits and risks of an ample-reserves regime.
-
----
-
-### 2026-06-18 02:38:24  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said the Fed's data working group will consider new data sources and methodological changes.
-
----
-
-### 2026-06-18 02:38:19  #MKT News
-
-Federal Reserve Chair Kevin Warsh said the Productivity and Employment Task Force will study the scope of the impact of artificial intelligence and other general‑purpose technologies.
-
----
-
-### 2026-06-18 02:38:11  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said a balance-sheet working group will review the Fed's bond holdings.
-
----
-
-### 2026-06-18 02:37:55  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said a communications working group could reshape the Fed's dot plot.
-
----
-
-### 2026-06-18 02:37:41  #央行 #國際
-
-美聯儲主席沃什： 各獨立專項工作組將匯聚經濟學界內外頂尖專業人才。 各專項工作組將獲得美聯儲工作人員支援。 各專項工作組最終將提出後續行動方案。
-
----
-
-### 2026-06-18 02:36:59  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said the working group's remit includes communications and the balance sheet; data sources, productivity and employment; and the inf framework.
-
----
-
-### 2026-06-18 02:36:47  #央行 #焦點 #國際
-
-美聯儲主席沃什：任命五個貨幣政策領域的特別工作組。工作組內容包括溝通和資產負債表，資料來源、生產力和就業，以及通脹框架等。
-
----
-
-### 2026-06-18 02:36:31  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh names working groups covering five areas of monetary policy.
-
----
-
-### 2026-06-18 02:36:15  #央行 #國際
-
-美聯儲主席沃什： 成立專項工作組，負責溝通機制、資產負債表管理及資料來源運用相關事宜。 將對政策溝通、資產負債表、資料來源、生產率與就業，以及美聯儲通脹分析框架展開研究。
-
----
-
-### 2026-06-18 02:35:49  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said forward guidance is not well suited to the current environment.
-
----
-
-### 2026-06-18 02:35:46  #市場 #國際
-
-美國 2 年期國債收益率當日上漲 10 個基點，報 4.15%。
-
----
-
-### 2026-06-18 02:35:40  #央行 #國際
-
-美聯儲主席沃什：我沒有提交自己的預測。
-
----
-
-### 2026-06-18 02:35:37  #MKT News #Important #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-U.S. two-year Treasury yield rose 10 bps on the day to 4.15%.
-
----
-
-### 2026-06-18 02:35:21  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said he encourages others to continue participating.
-
----
-
-### 2026-06-18 02:35:10  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said this is consistent with long-standing views.
-
----
-
-### 2026-06-18 02:35:09  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said the Fed will ask what changes could improve monetary policy.
-
----
-
-### 2026-06-18 02:35:08  #央行 #焦點 #國際
-
-美聯儲主席沃什：我們一致認為，前瞻性指引不適用於當前局勢。
-
----
-
-### 2026-06-18 02:34:56  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said no dot‑plot projections were provided today.
-
----
-
-### 2026-06-18 02:34:53  #央行 #國際
-
-美聯儲主席沃什：今日未釋出經濟預測。
-
----
-
-### 2026-06-18 02:34:45  #MKT News
-
-Fed Chair Kevin Warsh said the statement omitted prior wording and stated only the facts.
-
----
-
-### 2026-06-18 02:34:35  #央行 #國際
-
-美聯儲主席沃什：今日釋出的政策宣告篇幅更短、行文更為簡潔。這份宣告摒棄了舊有措辭，僅陳述事實。
-
----
-
-### 2026-06-18 02:34:32  #MKT News
-
-Fed Chair Kevin Warsh said today's policy statement is shorter and simpler.
-
----
-
-### 2026-06-18 02:34:30  #市場 #焦點
-
-紐約期金失守4290美元/盎司，日內跌1.50%。
-
----
-
-### 2026-06-18 02:34:23  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Economist: Expectations for Wash reforms ease; balance-sheet strategy unchanged for now】Economist David Wilcox flagged one line in the Fed statement — the C.BANK "reaffirmed policy of maintaining ample reserves in the banking system" — saying it was notable because the Fed would not need to single that out otherwise. Markets had widely expected new chair Wash might shift the balance-sheet operating regime from ample to scarce reserves; Wilcox said today's statement indicates they have not done so, at least not immediately.
-
----
-
-### 2026-06-18 02:34:19  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said leadership changes are a timely opportunity to reassess current practices.
-
----
-
-### 2026-06-18 02:33:54  #央行 #國際
-
-美聯儲主席沃什：聯邦公開市場委員會全體委員一致認為，將實現物價穩定。我們重申充足準備金政策。 領導層更迭之際，正是覆盤實操細則、重申核心使命的合適時機。
-
----
-
-### 2026-06-18 02:33:53  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed Chair KEVIN WARSH said recent history should not be seen as a prelude to inf problems.
-
----
-
-### 2026-06-18 02:33:27  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve chair Kevin Warsh said FOMC members unanimously expect to achieve price stability.
-
----
-
-### 2026-06-18 02:33:11  #央行 #焦點 #國際
-
-美聯儲主席沃什：我們承認當前通脹水平遠高於美聯儲 2% 的目標值。經濟活動以穩健的速度擴張。持續高企的價格是一種負擔。
-
----
-
-### 2026-06-18 02:33:06  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve Chair Kevin Warsh said persistently elevated prices are a burden.
-
----
-
-### 2026-06-18 02:32:54  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Federal Reserve Chair Kevin Warsh said inflation remains far above the 2% target.
-
----
-
-### 2026-06-18 02:32:40  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-Fed Chairman Kevin Warsh said economic activity is expanding at a robust pace.
-
----
-
-### 2026-06-18 02:32:37  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said Congress's mandate for price stability and maximum employment guided the meeting.
-
----
-
-### 2026-06-18 02:32:29  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Night session most-active contracts close】At the 02:30 close, SHFE most-active gold contract fell 0.84% to 935 yuan/gram; SHFE most-active silver contract fell 1.36% to 16,589 yuan/kg; SC crude oil most-active contract rose 0.80% to 517 yuan/barrel.
 
 ---

@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-06-23 05:33:20_
-_本檔包含 3807 則快訊，約 647358 字_
+_更新時間：2026-06-23 06:10:07_
+_本檔包含 3799 則快訊，約 647152 字_
+
+---
+
+### 2026-06-22 00:47:41  #焦點 #國際
+
+【抗議特朗普威脅言論 伊朗代表團離開談判地點】當地時間21日，伊朗方面釋出訊息稱，一名接近談判團隊的訊息人士透露，伊朗談判代表團因抗議特朗普的威脅言論，已離開談判地點。另據知情人士訊息，美國總統特朗普最新對伊朗發出的威脅言論導致美伊在瑞士的會談暫停，並使談判能否繼續進行蒙上陰影。此前，特朗普在社交平臺“真實社交”上發文稱，伊朗必須立即停止其在黎巴嫩的“代理人”行動，否則美國將對伊朗發動打擊。（央視新聞）
+
+---
+
+### 2026-06-22 00:44:28  #國際
+
+【世界拳聯世界盃中國站：中國選手斬獲5金】2026世界拳擊聯合會（世界拳聯）世界盃中國站21日迎來決賽日，中國選手楊柳、王霄萌、包子怡、詹依蓮、吳愉分別獲得女子70公斤級、80公斤級、75公斤級、80公斤以上級和51公斤級冠軍。張家茂不敵美國選手帕特里西奧，獲得男子55公斤級亞軍。（新華社）
+
+---
+
+### 2026-06-22 00:40:51  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iranian state media reported a member of Iran's negotiating team said a draft for exemptions from sanctions on Iranian oil has been finalized and formal publication of the exemptions is expected soon.
+
+---
+
+### 2026-06-22 00:40:26  #宏觀 #焦點 #國際
+
+伊朗談判代表團成員對伊朗官方媒體表示：伊朗石油制裁豁免相關草案已敲定，豁免令很快就會出臺。
+
+---
+
+### 2026-06-22 00:38:19  #MKT News
+
+Iranian state media reported a member of Iran's negotiation team said procedures to execute the release of Iran's frozen funds have begun, with a Qatari delegation participating.
+
+---
+
+### 2026-06-22 00:37:41  #焦點 #國際
+
+伊朗談判代表團成員對官方媒體表示：伊朗凍結資金解凍的執行流程已在卡達代表團參與下完成。
+
+---
+
+### 2026-06-22 00:35:54  #MKT News #WTI #Impact bullish #Brent
+
+Iranian state media reports a member of Iran's negotiating team said talks on other issues will not proceed unless the war in Lebanon ends.
+
+---
+
+### 2026-06-22 00:34:57  #國際
+
+伊朗談判團隊成員對伊朗國家媒體表示：如果黎巴嫩戰事不結束，就不會就其他議題進行談判。
+
+---
+
+### 2026-06-22 00:33:47  #MKT News #Market Regions #Europe & UK
+
+France's foreign ministry said the foreign minister will meet Qatar's prime minister in Switzerland on Monday local time.
+
+---
+
+### 2026-06-22 00:33:11  #國際
+
+法國外交部：法國外長將於週一在瑞士會見卡達首相。
+
+---
+
+### 2026-06-22 00:31:49  #MKT News #WTI #Impact bullish #Brent
+
+TASNIM NEWS, citing sources, says Iran's delegation walked out of talks in protest at comments by Trump.
+
+---
+
+### 2026-06-22 00:31:25  #焦點 #國際
+
+訊息人士：伊朗代表團為抗議特朗普言論已離開談判會場。
+
+---
+
+### 2026-06-22 00:28:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Israel says it killed more than 20 Hezbollah fighters in southern Lebanon】On the 21st the IDF said it discovered an underground tunnel with four shafts and hundreds of weapons beneath the southern Lebanese village of Majdal Zoun, about 10 km from the Israel-Lebanon border, and that the 551st Brigade of its 91st Division is conducting operations there. The IDF said it killed more than 20 Hezbollah fighters during the operation, including over 10 members of the elite Radwan unit, and destroyed more than 50 military sites including observation posts and weapons storage facilities.
+
+---
+
+### 2026-06-22 00:27:07  #國際
+
+伊朗塔斯尼姆通訊社稱，特朗普近期發表的威脅言論致使瑞士談判陷入暫停，也給談判程序帶來極大不確定性。
+
+---
+
+### 2026-06-22 00:24:22  #國際
+
+伊朗稱，特朗普發表的威脅言論致使美伊瑞士談判中止。
+
+---
+
+### 2026-06-22 00:22:41  #國際
+
+【以軍稱在黎巴嫩南部打死多名黎真主黨武裝人員】當地時間21日，以色列國防軍發表宣告稱，以軍在距離以黎邊境約10公里的黎巴嫩南部村鎮馬吉代勒祖恩地下，發現了一條建有4個地道豎井並藏有數百件武器的地道。據以色列國防軍釋出的宣告，以軍第91師指揮下的第551旅目前正在該地區展開行動。在行動期間，以軍共打死了20多名黎巴嫩真主黨武裝人員，其中包括10多名真主黨精銳武裝拉德萬部隊的成員。此外，以軍還聲稱摧毀了50多個軍事基礎設施站點，包括觀察哨和武器儲存設施。以軍透露，其在現場具體定位了一條長度超過200米、深度超過25米的地道。以方聲稱，該地道內設有4個地道豎井和12個房間，其中包括生活區以及用於儲存簡易爆炸裝置、反坦克導彈和無人機的房間。（央視新聞）
+
+---
+
+### 2026-06-22 00:21:58  #國際
+
+【真主黨領導人明確拒絕以色列在黎巴嫩境內設立任何安全區】黎巴嫩真主黨領導人納伊姆·卡西姆明確拒絕以色列在黎巴嫩境內設立任何安全區。此前以色列總理內塔尼亞胡宣稱，以軍會駐守黎巴嫩南部，直至局勢不再需要駐軍為止。卡西姆表示：“以色列軍隊盤踞黎巴嫩領土，這絕無可能。”他補充稱，“以色列是侵略者，必須撤離。”
+
+---
+
+### 2026-06-22 00:21:09  #國際
+
+訊息人士：伊朗代表團正在開展內部磋商，目前尚不清楚其是否會重返談判。
+
+---
+
+### 2026-06-22 00:19:16  #MKT News
+
+Republican Senator Lindsey Graham said he hopes diplomacy will succeed but warned that if Iran attempts to challenge the United States, the U.S. will utterly destroy Iran.
+
+---
+
+### 2026-06-22 00:18:56  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Hezbollah leader says will respond to any ceasefire violations】Hezbollah leader Naim Qassem said Israel will not continue to remain stationed in Lebanon and the group will respond to any Israeli violations of the ceasefire. His remarks came as Israeli officials said the ceasefire, which took effect on Friday, still permits the Israel Defense Forces to act without restriction to remove threats inside Lebanon.
+
+---
+
+### 2026-06-22 00:15:30  #國際
+
+伊朗首席談判代表卡利巴夫：他們難道就沒想過，倘若其威脅真能奏效，又怎會落到如今這般絕望的境地？我們根本不把美國的威脅放在眼裡。美方最好謹言慎行，我方武裝力量已準備好採取另一種方式予以回擊。無論美方如何叫囂，付諸行動的終將是我們。
 
 ---
 
@@ -22781,185 +22907,5 @@ U.S. vice president Vance said final negotiations on Iran and the Strait of Horm
 ### 2026-06-18 23:38:35  #MKT News
 
 【Vance says Israel overreacting to US-Iran deal】US Vice President Vance on Thursday accused Israel of “near-strange panic” and overreacting to the US-Iran agreement, saying critics assume every conceivable outcome will favor Iran despite the pact’s text. Israeli politicians across the spectrum say the deal fails to address Iran’s nuclear and ballistic-missile programs and would limit Israeli operations against Hezbollah. Vance said this reflects a lack of trust in the US, singled out far-right ministers Itamar Ben-Gvir and Bezalel Smotrich, and asked what specific alternatives they propose, adding a country of about 9 million cannot resolve every security issue by “continual killing.”
-
----
-
-### 2026-06-18 23:38:30  #MKT News
-
-U.S. Vice President Vance said international waterways should be exempt from transit fees.
-
----
-
-### 2026-06-18 23:38:23  #焦點 #國際
-
-美國副總統萬斯談及伊朗與霍爾木茲海峽問題：最終談判將確定60天之後的相關條款。
-
----
-
-### 2026-06-18 23:38:16  #MKT News #Market Themes #AI Revolution
-
-Politico reports OpenAI has hired Dean Ball, a former AI official in the Trump administration.
-
----
-
-### 2026-06-18 23:38:05  #其他
-
-萬斯：國際水道應該免收通行費。
-
----
-
-### 2026-06-18 23:37:50  #市場 #焦點
-
-比特幣跌破63000美元，日內跌2.39%。
-
----
-
-### 2026-06-18 23:37:39  #MKT News
-
-U.S. Vice President Vance said he ultimately wants the Lebanese government to maintain security in southern Lebanon.
-
----
-
-### 2026-06-18 23:37:27  #MKT News
-
-U.S. Vice President Vance said the U.S. will have to address contingencies by diplomatic means.
-
----
-
-### 2026-06-18 23:37:17  #MKT News
-
-U.S. Vice President Vance said on the Lebanon-related element of the Iran deal he expects both sides to comply with the agreement.
-
----
-
-### 2026-06-18 23:37:12  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
-
-On Thursday June 18, Germany's DAX 30 closed up 87.01 pts (+0.35%) at 25,018.56; UK's FTSE 100 closed down 118.89 pts (-1.13%) at 10,389.72; France's CAC 40 closed up 37.19 pts (+0.44%) at 8,467.98; Euro Stoxx 50 closed up 21.13 pts (+0.34%) at 6,321.20; Spain's IBEX 35 closed down 32.35 pts (-0.17%) at 19,382.75; Italy's FTSE MIB closed up 122.27 pts (+0.23%) at 52,717.50.
-
----
-
-### 2026-06-18 23:37:08  #國際
-
-美國副總統萬斯：最終希望看到黎巴嫩政府管控黎巴嫩南部。
-
----
-
-### 2026-06-18 23:37:04  #國際
-
-美國副總統萬斯：地區國家不會放棄自衛權，以色列也不會放棄自衛權。如果真主黨向以色列發射火箭彈或無人機，伊朗同樣不會放棄本國的自衛權，但我們要求，作為最終協議的條款之一，伊朗不得研發可對全世界形成大範圍威脅的導彈。
-
----
-
-### 2026-06-18 23:37:01  #MKT News #Important #Market Regions #Europe & UK #WTI #Brent
-
-EU high representative for foreign affairs and security policy kallas said there is no consensus yet on lifting sanctions on Iran.
-
----
-
-### 2026-06-18 23:36:56  #國際
-
-美國副總統萬斯：必須透過外交手段管控衝突升級。
-
----
-
-### 2026-06-18 23:36:46  #MKT News #Important
-
-U.S. Vice President Vance said he believed the president was joking when Trump said yesterday he would make him take the blame, and that the president often jokes like that.
-
----
-
-### 2026-06-18 23:36:23  #國際
-
-美國副總統萬斯就伊朗協議中的黎巴嫩相關條款表態：期望雙方遵守該協議。
-
----
-
-### 2026-06-18 23:36:19  #國際
-
-歐盟委員會卡拉斯：解除伊朗制裁一事目前尚無定論。
-
----
-
-### 2026-06-18 23:35:43  #其他
-
-【日元匯率創近2年新低】美元兌日元USD/JPY站上161，為2024年7月以來首次。
-
----
-
-### 2026-06-18 23:35:40  #國際
-
-【美國啟動駐歐軍事部署評估 或進一步削減對歐洲支援】美國國防部長海格塞斯表示，美國將對其在歐洲的軍事存在啟動為期六個月的評估，眼下歐洲領導人正準備應對美國計劃大幅削減對歐洲的軍事支援。特朗普政府已提出計劃，擬削減國防部在歐洲遭受襲擊時為保衛歐洲而派遣的軍事資源，這引發外界對北約將如何填補相關能力缺口的疑問。其他北約國家防長敦促海格塞斯，至少應與歐洲各國政府協調撤軍安排。“我今天宣佈啟動戰爭部為期六個月的評估，審查美國在歐洲的兵力態勢和基地安排，”海格塞斯週四在布魯塞爾北約總部舉行的防長會議開始前表示。
-
----
-
-### 2026-06-18 23:35:39  #MKT News #Important #USDJPY #Impact bullish
-
-【Japanese yen hits near two-year low】USD/JPY climbed above 161 for the first time since July 2024.
-
----
-
-### 2026-06-18 23:35:22  #市場 #央行 #國際
-
-【美元延續漲勢 美聯儲鷹派訊號提振加息押注】美元連續第二天延續漲勢，重新邁向3月下旬的高點，交易員紛紛押注美聯儲最早將於下月底開始加息。這一進展推動彭博美元指數較週三美聯儲舉行會議前走高約1%。美聯儲主席凱文·沃什在會上強調了央行在對抗通脹方面的作用，預測顯示許多政策制定者預計會在年底前提高利率。美國短期國債收益率應聲大幅上漲，全球投資者再次受到鼓舞，將資金轉向美國資產。歐元跌至3月以來的最低水平，加元觸及七個月來最低，日元下滑至2024年7月以來最弱。美聯儲的表態再次提振了美元，此前伊朗戰爭導致油價飆升，美元作為避險貨幣收到提振。
-
----
-
-### 2026-06-18 23:35:06  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Vice President Vance said Iran would require massive funding to rebuild its nuclear program.
-
----
-
-### 2026-06-18 23:34:57  #市場 #國際
-
-美國至6月18日4周國債競拍-得標利率 3.58%，前值3.595%。
-美國至6月18日4周國債競拍-得標利率配置百分比 64.65%，前值70.32%。
-美國至6月18日4周國債競拍-投標倍數 2.99，前值3.13。
-
-美國至6月18日8周國債競拍-得標利率配置百分比 31.85%，前值65.5%。
-美國至6月18日8周國債競拍-投標倍數 2.57，前值2.94。
-美國至6月18日8周國債競拍-得標利率 3.64%，前值3.61%。
-
----
-
-### 2026-06-18 23:34:36  #MKT News #Macro & Rates #Treasury Yields
-
-U.S. 8-week Treasury bill auction to June 18: share of awards at the stop-out yield 31.85%, prior 65.5%.
-
----
-
-### 2026-06-18 23:34:24  #公司
-
-【SpaceX上市日為嘉信理財歷史上五大最繁忙交易日之一】上週隨著SpaceX首次亮相股市，嘉信理財迎來了其55年歷史上最繁忙的五個交易日之一。“回想過去50年裡我們經歷過的各種市場事件，這次IPO能躋身前五名確實令人難以置信，”嘉信理財執行長Rick Wurster週四在接受採訪時表示，“我認為這源於散戶能夠切身感受到我們經濟中的創新水平。”
-
----
-
-### 2026-06-18 23:34:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-U.S. 8-week Treasury auction (June 18) stop-out yield 3.64%, up from 3.61% at the prior auction.
-
----
-
-### 2026-06-18 23:34:16  #MKT News #Economic Calendar
-
-United States | 8-Week Bill Auction High Yield Rate (Jun.18) | actual 3.64% | previous 3.61%
-
----
-
-### 2026-06-18 23:34:09  #國際
-
-萬斯談伊朗與核武器：伊朗若要重建核計劃必須籌措鉅額資金。
-
----
-
-### 2026-06-18 23:34:09  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
-
-U.S. 8-week Treasury auction bid-cover ratio 2.57 for the June 18 auction; previous 2.94.
-
----
-
-### 2026-06-18 23:33:59  #宏觀 #市場 #國際
-
-【美國出臺新規允許大型用電主體更快接入本國效率偏低的輸電網路】美國聯邦監管機構週四出臺新規，允許大型用電主體更快接入本國效率偏低的輸電網路，以此滿足高耗能人工智慧資料中心激增的用電需求。科技企業及資料中心開發商均對電網接入審批提速表示歡迎。但電力企業、各州政府及區域電網運營方擔憂，本屆共和黨政府推出的方案會剝奪其相關流程管理許可權。清潔能源支持者則希望該委員會能推進而非削弱各州推行可再生能源強制使用政策的相關工作。監管機構出臺此項政策之際，社會各界對資料中心的牴觸情緒持續升溫。民眾擔憂電價上漲，同時質疑這類設施能耗、耗水量巨大，不僅汙染各地社群，還加重水資源與電網負荷。
 
 ---
