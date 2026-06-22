@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-23 02:35:56",
-  "count": 17261,
+  "updated": "2026-06-23 02:39:59",
+  "count": 17263,
   "items": [
+    {
+      "id": "mkt:019ef0a1-000f-7dd8-b0c3-feab53c5b7db",
+      "time": "2026-06-23 02:39:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkish, Iranian presidents speak on bilateral cooperation and US‑Iran negotiations】Turkey’s presidential communications office said on the 22nd (local time) President Erdogan spoke by phone with Iranian President Pezeshkian. Erdogan welcomed the recent Iran‑US consensus, said Turkey would do its utmost to support the process toward a peaceful outcome and warned against forces seeking to derail the talks. He called for concrete steps to consolidate regional peace and said Turkey will continue efforts in that direction. Erdogan added Turkey and Iran will take active measures to deepen pragmatic cooperation in trade, finance and energy."
+    },
+    {
+      "id": "4948867",
+      "time": "2026-06-23 02:38:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其總統與伊朗總統通話 聚焦雙邊合作及伊美談判 】據土耳其總統府新聞局當地時間22日釋出的訊息，土耳其總統埃爾多安當天與伊朗總統佩澤希齊揚通電話。在通話中，埃爾多安對近期伊朗與美國之間達成的相關共識表示讚賞與歡迎。他強調，土耳其將竭盡全力提供支援，以確保這一程序最終實現和平。同時，埃爾多安指出，必須保持高度警惕，謹防那些企圖破壞美伊談判的勢力。埃爾多安表示，在新的時期裡，採取切實步驟來鞏固地區和平至關重要，土耳其將繼續為此不懈努力。此外，在雙邊合作方面，埃爾多安明確指出，土耳其與伊朗將繼續採取積極措施，進一步深化和發展兩國在貿易、金融以及能源領域的務實合作。（央視新聞）"
+    },
+    {
+      "id": "te:markets:560863",
+      "time": "2026-06-23 02:38:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Corning Stock Price Hits All-time High — Corning shares increased to an all-time high of 211.87 USD. Over the past 4 weeks, Corning gained 7.81%, and in the last 12 months, it increased 308.3%."
+    },
     {
       "id": "4948864",
       "time": "2026-06-23 02:34:44",
@@ -158491,14 +158519,6 @@
         "國際"
       ],
       "text": "【內塔尼亞胡稱以軍將繼續駐紮在黎巴嫩南部等地】以色列總理內塔尼亞胡在15日舉行的新聞釋出會上說，以色列國防軍將繼續駐紮在其於黎巴嫩南部、敘利亞和加沙地帶設立的“安全緩衝區”內，直至以色列“國家安全得到保障”。 (新華社)"
-    },
-    {
-      "id": "4937021",
-      "time": "2026-06-16 02:39:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿巴斯：巴勒斯坦將於2027年舉行總統選舉】據巴勒斯坦通訊社15日報道，巴勒斯坦總統阿巴斯當天在與印度尼西亞總統普拉博沃通話時表示，巴勒斯坦議會選舉將於11月舉行，總統選舉將於2027年跟進開展。 報道說，雙方在通話中討論了巴勒斯坦最新局勢。阿巴斯表示，他將推進全面國家改革計劃，加強民主程序。 阿巴斯2025年11月在法國訪問期間曾表示，巴勒斯坦民族權力機構將遵守改革承諾，巴勒斯坦國憲法、選舉法和政黨法的起草已接近尾聲。加沙地帶戰事結束後將組織總統選舉和議會選舉。(新華社)"
     }
   ]
 }
