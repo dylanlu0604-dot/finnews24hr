@@ -1,7 +1,50 @@
 {
-  "updated": "2026-06-23 01:41:10",
-  "count": 17277,
+  "updated": "2026-06-23 01:45:14",
+  "count": 17279,
   "items": [
+    {
+      "id": "mkt:019ef06f-58ca-7dd8-b0c3-7063f8162b97",
+      "time": "2026-06-23 01:44:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports Argentina's Lionel Messi has become the World Cup's all-time leading scorer."
+    },
+    {
+      "id": "4948830",
+      "time": "2026-06-23 01:44:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗、土耳其兩國總統通電話，就伊美諒解備忘錄交換意見。"
+    },
+    {
+      "id": "4948829",
+      "time": "2026-06-23 01:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官叫停特朗普政府將改版後的移民資料庫用於選民登記核查。"
+    },
+    {
+      "id": "mkt:019ef06c-7a81-7dd8-b0c3-6c194179c3e0",
+      "time": "2026-06-23 01:41:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge blocked the Trump administration from using the revised immigration database to conduct voter-registration checks."
+    },
+    {
+      "id": "mkt:019ef06b-da91-7dd8-b0c3-6554fdb5a969",
+      "time": "2026-06-23 01:41:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said Iran's funds will not be unfrozen absent progress."
+    },
     {
       "id": "4948826",
       "time": "2026-06-23 01:39:51",
@@ -158681,36 +158724,6 @@
         "MKT News"
       ],
       "text": "Iran's foreign minister discussed the U.S.-Iran agreement in separate phone calls with Lebanese President Aoun and Speaker Berri."
-    },
-    {
-      "id": "4937003",
-      "time": "2026-06-16 01:44:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國石油儲備跌至43年來最低 或削弱應對未來供應擾動的靈活性】隨著特朗普政府著手完成釋放1.72億桶原油的計劃以緩解美伊戰爭引發的燃油價格飆升，美國緊急原油供應已降至1983年以來最低。美國能源部週一釋出的資料顯示，在1970年代初阿拉伯國家石油禁運後建立的戰略石油儲備已降至約3.4億桶，接近紀錄最低水平。美國能源部在3月宣佈計劃從戰略石油儲備釋放石油，以參與美伊戰爭爆發不到兩週後各國協調開展的行動。如果該計劃得以完成，則將成為美國戰略油儲歷史上規模第二大的一次釋放，屆時儲備將降至約2.43億桶，約佔其授權容量的三分之一。庫存的減少將降低美國應對未來供應擾動的靈活性。"
-    },
-    {
-      "id": "mkt:019ecc60-d880-7dd8-b014-b887178b47ee",
-      "time": "2026-06-16 01:42:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【U.S. SPR at lowest since 1983 as administration nears 172 mln-barrel release】With the Trump administration set to complete a 172 mln-barrel release intended to ease fuel price spikes tied to the Iran war, the U.S. Strategic Petroleum Reserve (SPR) has fallen to about 340 mln barrels—the lowest level since 1983, DOE data on Monday showed. If completed, the release would be the second-largest draw on record and leave roughly 243 mln barrels, about one-third of statutory capacity. The drawdown reduces U.S. flexibility to respond to future supply disruptions, the DOE said, and the reserve is being managed to stabilise oil markets and guard against supply shocks."
-    },
-    {
-      "id": "4937002",
-      "time": "2026-06-16 01:41:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：（關於美國與伊朗的潛在協議）即使協議簽署，海灣地區的中期前景仍然具有不確定性。認為伊朗的核計劃及核能力仍將是其與美國和以色列關係中的緊張根源。如果協議使霍爾木茲海峽完全開放，預計全球石油市場將在約一個月內恢復到供應過剩。"
     }
   ]
 }
