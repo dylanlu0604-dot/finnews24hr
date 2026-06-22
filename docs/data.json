@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-22 18:31:45",
-  "count": 17193,
+  "updated": "2026-06-22 18:36:54",
+  "count": 17192,
   "items": [
+    {
+      "id": "mkt:019eeee5-c0fc-7dd8-b0b8-37202b5d3e57",
+      "time": "2026-06-22 18:34:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Baichuan Intelligence unveils next-generation medical-enhanced LLM Baichuan-M4】Baichuan Intelligence and a Tsinghua University research team jointly released the next-generation medical-enhanced large language model Baichuan-M4; the model ranked first on HealthBench overall and on the Hard and Professional leaderboards."
+    },
+    {
+      "id": "mkt:019eeee5-b078-7dd8-b0b8-2c2c18a83cf4",
+      "time": "2026-06-22 18:34:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's first domestically produced C909 business jet CBJ enters commercial service】The first domestically produced C909 business jet, CBJ, entered commercial service on June 22, flying from Shanghai Hongqiao to Beijing Capital International Airport. Shanghai will be the aircraft's main operating base. Jinlu Business Aviation, part of HNA Aviation Group, will operate the type on Asian and domestic mid‑haul routes; the aircraft is marketed for superior high‑altitude airport performance and larger cabin space."
+    },
+    {
+      "id": "4948112",
+      "time": "2026-06-22 18:34:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百川釋出新一代醫療增強大模型M4】6月22日訊息，百川智慧與清華大學研究團隊近日聯合釋出新一代醫療增強大模型 Baichuan-M4。該模型在HealthBench及其 Hard、Professional三個榜單上均位列第一。"
+    },
+    {
+      "id": "4948111",
+      "time": "2026-06-22 18:34:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶首發新型汽車箱整列中歐班列】6月22日，裝載182輛長安汽車的X8013次中歐班列從重慶團結村中心站鳴笛啟程，這是中歐班列首次整列採用新投用的40英尺35噸通用汽車箱，這款新型汽車箱單車載貨能力更強，去程可實現整車一箱直達，返程又能裝運各類適箱貨物，運輸效率顯著提升，將有效助力我國汽車出海。（新華社）"
+    },
+    {
+      "id": "4948110",
+      "time": "2026-06-22 18:33:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首架國產C909公務機CBJ投入商業運營】首架國產C909公務機CBJ於6月22日下午從上海虹橋機場飛往北京首都機場，正式投入商業運營。目前，上海將作為CBJ公務機的主運營基地。據悉，CBJ公務機是中國商飛C909機型系列化發展的重要成果之一，定位為大型噴氣式高階定製化公務機。客艙空間更加寬敞，可靈活實現12座至29座的座位佈局，按需劃分為休息區、會議區、會客區、就餐區等相對獨立的功能區域，充分滿足個性化定製需求。（新華社）"
+    },
+    {
+      "id": "4948108",
+      "time": "2026-06-22 18:32:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波方正：終止籌劃重大資產重組】寧波方正公告，公司原計劃以現金方式購買福建省鵬鑫創展新能源科技有限公司持有的福建駿鵬通訊科技有限公司60%股權，但交易各方未能就核心條款和交易細節達成一致，最終決定終止本次重大資產重組暨關聯交易事項。"
+    },
+    {
+      "id": "mkt:019eeee3-bc24-7dd8-b0b8-2789f246632a",
+      "time": "2026-06-22 18:32:42",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Needham raises Micron Technology (MU.O) PT to $1,550 from $500."
+    },
+    {
+      "id": "4948107",
+      "time": "2026-06-22 18:32:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠東酒店實業：預計2025/2026財年淨虧損約700萬港元，同比大幅收窄】遠東酒店實業公告，本集團截至2026年3月31日止年度（2025/2026財年）的全年業績預計將錄得約700萬港元淨虧損，而截至2025年3月31日止年度錄得約3500萬港元淨虧損，虧損大幅收窄。虧損收窄主要歸因於：租賃收入增加及成本管理改善帶來的毛利上升；投資物業公允價值虧損減少；以及已終止經營業務相關撥備的轉回。"
+    },
+    {
+      "id": "4948106",
+      "time": "2026-06-22 18:32:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【給阿嬤的情書金鑰第二次延期】據燈塔專業版，由大麥娛樂出品的電影《給阿嬤的情書》第二次金鑰延期，將延長放映至7月31日。截至當前，影片累計票房18.59億。"
+    },
+    {
+      "id": "4948105",
+      "time": "2026-06-22 18:32:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【強瑞技術：控股股東強瑞科技減持公司1.93%股份完成】強瑞技術公告，控股股東寧陽縣強瑞科技發展有限公司（強瑞科技）此前計劃在2026年6月10日至2026年9月10日期間以大宗交易方式減持不超過280萬股（佔公司總股本1.9335%）。截至2026年6月22日，強瑞科技透過大宗交易方式合計減持公司股份280萬股，減持比例為1.93%，減持均價分別為137.02元/股、145元/股和150.65元/股。本次減持計劃已實施完成，減持數量未超過已披露的減持計劃上限。減持後，強瑞科技及其一致行動人合計持有公司股份比例由51.88%降至49.95%。"
+    },
+    {
+      "id": "4948104",
+      "time": "2026-06-22 18:32:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【欣旺達：全資子公司擬出資2.4億元參與設立儲能基金】欣旺達公告，公司全資子公司欣能科技擬與開弦資本、悅德能源、巽能科技共同投資設立天津開欣儲能股權投資合夥企業，基金註冊資本5億元，其中欣能科技認繳2.4億元，佔比48%。投資方向主要為獨立儲能專案，並視情況佈局風電、光伏等專案。本次共同投資無需提交董事會、股東會審議，不構成關聯交易及重大資產重組。"
+    },
+    {
+      "id": "mkt:019eeee2-f860-7dd8-b0b8-1bb263d075a4",
+      "time": "2026-06-22 18:31:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "01810.HK",
+        "Impact bullish"
+      ],
+      "text": "Xiaomi Group (01810.HK) repurchased 6.42 mln shares on June 22, spending HKD 152 mln."
+    },
+    {
+      "id": "mkt:019eeee2-d04f-7dd8-b0b8-178aed7c10ee",
+      "time": "2026-06-22 18:31:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran president PEZESHKIAN says Iran made no concessions in talks】On the 22nd, Iranian President PEZESHKIAN said Iran negotiated with dignity and confidence and made no concessions. He said Iran will not tolerate other countries ignoring its rights and will neither concede nor submit. In the ongoing talks, he said Iran’s stance led to adjustments on the Lebanon issue and produced some positive breakthroughs."
+    },
+    {
+      "id": "4948103",
+      "time": "2026-06-22 18:31:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華勤技術：三員工持股平臺擬合計減持不超過0.27%股份】華勤技術公告，股東海南勤沅、海南創堅、海南華效（均為公司員工持股平臺）因自身資金需求，擬於2026年7月14日至2026年10月13日，透過集中競價及大宗交易方式合計減持不超過410.57萬股，不超過公司總股本的0.27%。其中，海南勤沅計劃減持不超過88.23萬股（佔比0.06%），海南創堅計劃減持不超過49.59萬股（佔比0.03%），海南華效計劃減持不超過272.75萬股（佔比0.18%）。減持價格按市場價格確定，若期間發生送股、轉增股本等事項，減持數量將相應調整。"
+    },
+    {
+      "id": "4948102",
+      "time": "2026-06-22 18:31:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米集團-W：6月22日回購642萬股，耗資1.52億港元】小米集團公告，於2026年6月22日回購642萬股B類普通股，回購價格區間為23.6港元/股至23.78港元/股，總耗資1.52億港元。上述回購股份擬登出。此外，公司同日發行53.7萬股新股用於股份獎勵，發行價為2.01港元/股。截至2026年6月22日，公司自2026年4月27日以來累計購回4452萬股，佔回購授權決議透過當日已發行股份（不含庫存股份）數目的0.17%。"
+    },
     {
       "id": "4948100",
       "time": "2026-06-22 18:31:04",
@@ -157954,160 +158084,6 @@
         "公司"
       ],
       "text": "【張小泉：杭州富泉投資間接持股減少 富陽瀚朋接盤28.23%股份】張小泉公告稱，因執行《重整計劃》及《張小泉集團執行方案》，杭州富泉投資持有的張小泉集團99.9981%股權股東權益調整為零，依法讓渡給富陽瀚朋。權益變動前，富泉投資間接持有上市公司28.2326%股份；變動後，不再間接持股。富陽瀚朋將持有張小泉集團100%股權，間接持有上市公司28.2331%股份。本次權益變動不會改變公司無控股股東、無實際控制人的狀態，也不影響日常生產經營。"
-    },
-    {
-      "id": "4936383",
-      "time": "2026-06-15 18:36:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX市值超特斯拉、Meta，“七巨頭”該改名了？】SpaceX以超過2萬億美元的估值強勢登陸資本市場，超越華爾街“七巨頭（Magnificent Seven）”中的特斯拉(TSLA.O)以及Meta Platforms(META.O)，並引發了一個關鍵問題：“七巨頭”這個稱呼如今是否仍然適用？Futurum Equities首席市場策略師沙伊·博洛爾表示：“‘七巨頭’已很難繼續作為市場領導地位的簡潔代稱，因為全球最重要的公司之一將被排除在該標籤之外。”目前在社交平臺上逐漸流行的一個稱謂是“MANGOS”，分別代表Meta、Anthropic、英偉達(NVDA.O)、Alphabet(GOOGL.O)、OpenAI以及SpaceX。不過部分人士將其中的“A”解讀為蘋果(AAPL.O)。BRI Wealth Management執行長丹·博德曼-韋斯頓則提出了另一名稱：“Magna Atoms”，即在“七巨頭”的基礎上加入Anthropic、OpenAI和SpaceX。"
-    },
-    {
-      "id": "mkt:019ecada-d81b-7dd8-b009-11b220d7bbe5",
-      "time": "2026-06-15 18:36:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Alphabet",
-        "TSLA.O",
-        "Impact bearish",
-        "META.O",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "【SpaceX valuation tops Tesla and Meta; is 'Magnificent Seven' obsolete?】SpaceX was valued at more than $2 trillion on its market debut, surpassing Tesla and Meta within the group commonly dubbed the Magnificent Seven. Futurum Equities' chief market strategist said the label may no longer serve as an effective shorthand with a major global company excluded. A social-media alternative, MANGOS, is being used to denote Meta, ANTHROPIC, NVIDIA, Alphabet, OpenAI and SpaceX, though some interpret the A as Apple. BRI Wealth Management's CEO proposed renaming to Magna Atoms to reflect adding ANTHROPIC, OpenAI and SpaceX to the original seven."
-    },
-    {
-      "id": "4936382",
-      "time": "2026-06-15 18:36:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國—瑞士經貿聯委會鐘錶合作工作組第六次會議在上海召開】中國—瑞士經貿聯委會鐘錶合作工作組第六次會議6月10日在上海市召開。瑞方代表團由瑞士聯邦經濟總局、瑞士鐘錶工業聯合會、瑞士駐華大使館、瑞士駐上海總領事館的代表組成，中方代表團由工業和資訊化部、商務部、中國鐘錶協會、廣東省鐘錶行業協會、深圳市鐘錶行業協會、中國商業企業管理協會鐘錶商業分會和國內鐘錶骨幹企業的代表組成。中瑞雙方在本次會議上分別就中瑞自貿協定升級談判中鐘錶領域經濟技術合作相關內容、《關於在中瑞經貿聯委會框架下建立鐘錶合作工作組的諒解備忘錄》升級有關事項、聯合開展鐘錶領域從業人員培訓、藉助展會平臺促進雙方交流合作、強化智慧財產權保護、個性化改裝手錶的維修服務等議題進行了深入交流，達成了系列共識，並確定了下一階段共同推動落實的工作事項。中瑞雙方均同意繼續發揮好鐘錶合作工作組作用，進一步加強中瑞鐘錶行業的交流與合作，推動中瑞兩國鐘錶行業共同邁向新的發展階段。"
-    },
-    {
-      "id": "4936381",
-      "time": "2026-06-15 18:36:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美伊達成協議後首艘能源運輸船透過霍爾木茲海峽】據國際航運資訊平臺“海上交通網站”顯示的船舶追蹤資料，液化天然氣運輸船“迪沙”號15日透過霍爾木茲海峽進入阿曼灣。這是美國和伊朗達成協議後首艘透過霍爾木茲海峽的大型能源運輸船。（新華社）"
-    },
-    {
-      "id": "mkt:019ecada-80ee-7dd8-b009-0e36fa3560ec",
-      "time": "2026-06-15 18:36:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【First major energy carrier transits Strait of Hormuz after U.S.-Iran agreement】MarineTraffic vessel-tracking data show LNG carrier \"Disha\" transited the Strait of Hormuz into the Gulf of Oman on June 15. It is the first large energy transport ship to pass the strait since the U.S. and Iran reached an agreement."
-    },
-    {
-      "id": "mkt:019ecad9-cc96-7dd8-b009-01ad9af2e027",
-      "time": "2026-06-15 18:35:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump will deliver a keynote speech on July 4."
-    },
-    {
-      "id": "4936380",
-      "time": "2026-06-15 18:35:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將於 7 月 4 日發表主旨演講。"
-    },
-    {
-      "id": "te:economy:559050",
-      "time": "2026-06-15 18:35:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Romania Current Account Deficit Narrows in April — Romania’s current account deficit narrowed to EUR 2,684 million in April 2026 from EUR 2,947 million in the corresponding month of the previous year. This marked the largest shortfall in four months, as the goods account deficit decreased to EUR 2,755 million from EUR 2,763 million, while the services account surplus expanded to EUR 1,170 million from EUR 995 million. Additionally, the primary account shortfall shrank to EUR 951 million from EUR 1,040 million. On the other hand, the secondary income deficit widened to EUR 148 million from EUR 140 million. Over the first four months of the year, Romania’s current account deficit narrowed to EUR 7,981 million, compared to a deficit of EUR 9,101 million in the same period a year earlier."
-    },
-    {
-      "id": "4936379",
-      "time": "2026-06-15 18:35:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萊紳通靈：股東歐陸之星鑽石減持347.496萬股 套現2409.49萬元】萊紳通靈公告稱，股東歐陸之星鑽石（上海）有限公司於2026年3月17日至6月12日，透過集中競價和大宗交易合計減持347.496萬股，減持比例1.01%，減持價格區間為5.62 - 8.15元/股，減持總金額2409.49萬元。減持後，該股東持有1368.1232萬股，持股比例降至3.99%。"
-    },
-    {
-      "id": "4936378",
-      "time": "2026-06-15 18:34:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【白雲機場：5月旅客吞吐量同比增長1.96%】白雲機場(600004)6月15日公告，2026年5月公司旅客吞吐量699.84萬人次，同比增長1.96%；貨郵吞吐量20.34萬噸，同比下降1.45%。"
-    },
-    {
-      "id": "mkt:019ecad8-44c8-7dd8-b008-fa7b3b8f0da6",
-      "time": "2026-06-15 18:33:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【MIIT and MARA launch 2026 selection of typical agricultural robotics applications】China’s Ministry of Industry and Information Technology (MIIT) and Ministry of Agriculture and Rural Affairs (MARA) have launched a 2026 selection of typical agricultural robotics application scenarios. The initiative targets three priority areas—crop cultivation, animal husbandry and primary agricultural processing—and focuses on seedling breeding, tillage, sowing/transplanting, field management and harvesting; feeding, breeding, animal-product collection, waste resource recovery and harmless treatment; and primary processing, storage and transport. The ministries will solicit and select advanced, high‑maturity, high‑impact and scalable robotic use cases and strengthen their promotion and deployment."
-    },
-    {
-      "id": "4936377",
-      "time": "2026-06-15 18:33:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【亞馬遜美股盤前漲超2%】亞馬遜美股盤前漲超2%，現報243.38美元。"
-    },
-    {
-      "id": "4936376",
-      "time": "2026-06-15 18:33:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以防長稱不會從黎巴嫩南部等地“安全緩衝區”撤軍】以色列國防部長卡茨15日發表宣告稱，以色列將“無限期”留在其控制的黎巴嫩南部“安全緩衝區”，這一政策“同樣適用於”以色列在敘利亞和加沙地帶建立的“安全緩衝區”。卡茨表示，無論以色列面臨何種壓力，都不會從上述區域撤軍，以方將繼續在這些區域內“清除居民”，並拆除“武裝人員使用的基礎設施和建築”。卡茨稱，以色列總理內塔尼亞胡已將以方立場傳達給美國總統特朗普和其他美國高階官員。卡茨還警告伊朗不要因黎巴嫩局勢而攻擊以色列，稱任何此類舉動都將遭到以色列“強力回應”。（新華社）"
-    },
-    {
-      "id": "4936375",
-      "time": "2026-06-15 18:33:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門聯合開展2026年度農業領域機器人典型應用場景遴選工作】工業和資訊化部、農業農村部聯合開展2026年度農業領域機器人典型應用場景遴選工作。面向種植、養殖、農產品初加工3個重點領域，聚焦育苗繁育、耕整、播栽、田間管理、收穫，飼養、繁育、畜禽產品採集、廢棄物資源化利用與無害化處理，農產品初制加工、儲運等關鍵環節，徵集遴選一批技術先進、成熟度高、成效明顯、應用前景廣闊、可複製推廣的機器人典型應用場景，並加強推廣應用。"
-    },
-    {
-      "id": "4936374",
-      "time": "2026-06-15 18:32:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【億緯鋰能：預計上半年淨利潤同比增長95.00%～110.00%】億緯鋰能公告，預計2026年上半年淨利潤為31.3億元到33.71億元，同比增長95.00%～110.00%。預計扣除非經常性損益後的淨利潤為24.3億元到26.03億元，同比增長110.00%～125.00%。主要原因是公司堅持致力於產品迭代、服務升級與流程最佳化，把握市場增長機遇，驅動公司業務持續增長，營業收入同比增長約60%。"
-    },
-    {
-      "id": "4936373",
-      "time": "2026-06-15 18:32:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【均普智慧聯合博登、上海交大正式釋出全球首個面向真實機器人強化學習（RW-RL）大規模資料集】6月15日，均普智慧釋出訊息稱，公司旗下寧波具身智慧機器人創新中心聯合博登智慧、上海交通大學MINT實驗室，正式開源全球首個面向真實機器人強化學習（RW-RL）的大規模資料集RW-RL-Dataset首批資料。"
     }
   ]
 }
