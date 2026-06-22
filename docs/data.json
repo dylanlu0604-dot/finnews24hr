@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-23 01:53:16",
-  "count": 17282,
+  "updated": "2026-06-23 01:57:20",
+  "count": 17279,
   "items": [
+    {
+      "id": "4948833",
+      "time": "2026-06-23 01:53:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果埃博拉疫情：最新官方統計顯示，確診病例超1000例，死亡254例。"
+    },
     {
       "id": "mkt:019ef075-8f7b-7dd8-b0c3-79bbaaafd895",
       "time": "2026-06-23 01:51:36",
@@ -158702,52 +158710,6 @@
         "XAUUSD"
       ],
       "text": "Iran's military spokesman said Iran will bolster defenses while negotiating an agreement with the US and maintain a higher state of combat readiness."
-    },
-    {
-      "id": "mkt:019ecc6d-d3c0-7dd8-b014-de7f2075ffb1",
-      "time": "2026-06-16 01:56:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "SpaceX (SPCX.O) extended gains, with intraday advance reaching 15%."
-    },
-    {
-      "id": "mkt:019ecc6b-d014-7dd8-b014-d1980e41cc49",
-      "time": "2026-06-16 01:54:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Citigroup raises its 3-month gold price forecast to $4,500/oz and its silver forecast to $70/oz."
-    },
-    {
-      "id": "mkt:019ecc6b-543a-7dd8-b014-caa49084d296",
-      "time": "2026-06-16 01:54:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Citigroup cut its oil price outlook to its prior bearish-scenario level, now forecasting $75/bbl in 3Q26 and $70/bbl in 4Q26."
-    },
-    {
-      "id": "mkt:019ecc6a-f2f5-7dd8-b014-c6de5ed22bc5",
-      "time": "2026-06-16 01:53:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister discussed the U.S.-Iran agreement in separate phone calls with Lebanese President Aoun and Speaker Berri."
     }
   ]
 }
