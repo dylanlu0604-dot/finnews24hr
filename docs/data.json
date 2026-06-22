@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-23 02:52:13",
-  "count": 17268,
+  "updated": "2026-06-23 02:56:19",
+  "count": 17266,
   "items": [
+    {
+      "id": "4948885",
+      "time": "2026-06-23 02:54:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Strategy購入520枚比特幣 連續三週依靠發行普通股融資】Michael Saylor旗下的Strategy公司買入了價值3940萬美元的比特幣。儘管此前曾承諾要轉向透過發行永續優先股為購買比特幣提供資金，但該公司已連續第三週利用發行普通股融資。根據週一提交的監管檔案，這家前身為MicroStrategy的公司在6月15日至6月21日期間買入了520枚比特幣。"
+    },
     {
       "id": "mkt:019ef0ab-f718-7dd8-b0c4-258ea942e8d8",
       "time": "2026-06-23 02:51:02",
@@ -158550,30 +158558,6 @@
         "DXY"
       ],
       "text": "【Iran president: Iran‑US memorandum an important step to halt war and open talks】On the 15th, President Pezeshkian said on his social media that after intensive discussions a large majority of the Iranian parliament approved the text of an Iran‑U.S. memorandum of understanding, which he called a test of the U.S.’s real resolve to respect the rights of the Iranian people. He said the Supreme Leader’s guidance secured clauses protecting Iran’s national interests. Pezeshkian described the drafted MoU as the product of months of talks and said if its terms are properly implemented it would be a proud national document. He added the MoU is an important step toward stopping the war and beginning negotiations, but cautioned a final agreement has not been reached and Iran remains prepared for all options."
-    },
-    {
-      "id": "4937029",
-      "time": "2026-06-16 02:54:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞宣佈與委內瑞拉實現電力互聯。"
-    },
-    {
-      "id": "4937028",
-      "time": "2026-06-16 02:54:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：伊美諒解備忘錄是停止戰爭開啟談判的重要一步】伊朗總統佩澤希齊揚當地時間15日在其個人社交媒體上表示，在經過密集討論後，伊朗伊斯蘭議會絕大多數成員同意了伊美諒解備忘錄文字，以此實際檢驗美國尊重伊朗人民權利的真正決心。佩澤希齊揚表示，伊朗最高領袖的指導在將維護伊朗國家利益的條款納入備忘錄方面發揮了最重要的作用，我們對此表示感謝。佩澤希齊揚稱，這份已起草完成的諒解備忘錄，是數月來持續對話和不懈努力的成果。如果其全部條款都能得到正確落實，它可被視為國家的一份光榮檔案。佩澤希齊揚還表示，諒解備忘錄中達成的內容，是停止戰爭並開啟談判的重要一步，但最終協議尚未形成。伊朗已經為所有可能的選項做好準備。無論是否達成協議，伊朗政府工作的重點都是真誠服務人民。伊朗民族絕不屈服於屈辱。（央視新聞）"
-    },
-    {
-      "id": "4937027",
-      "time": "2026-06-16 02:53:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【野村：美伊協議強化做空美元的理由】野村表示，美國和伊朗達成臨時協議，以延長停火併重開霍爾木茲海峽，這增強了選擇性做空美元的理由，也增強了聚焦外匯市場相對價值機會的理由。“霍爾木茲海峽即將重新開放，支援我們選擇性做空美元的立場，重點關注由本地因素驅動的相對價值交易，”野村策略師Craig Chan、Dominic Bunning和Wee Choon Teo等人週一在報告中寫道。"
     }
   ]
 }
