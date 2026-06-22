@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-22 07:57:51",
-  "count": 17347,
+  "updated": "2026-06-22 08:01:45",
+  "count": 17349,
   "items": [
+    {
+      "id": "mkt:019eeca1-9ded-7dd8-b0aa-71453423a587",
+      "time": "2026-06-22 08:01:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened down 108.82 points, or 1.2%, at 8,943.6 on Monday, June 22."
+    },
+    {
+      "id": "mkt:019eeca1-9cb9-7dd8-b0aa-6b1af76684ec",
+      "time": "2026-06-22 08:01:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Nikkei 225 opened down 36.39 points (-0.05%) at 71,213.67 on Monday, June 22."
+    },
+    {
+      "id": "4946852",
+      "time": "2026-06-22 08:01:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美晶片股再度走強 多隻重倉QDII基金收益翻倍】美股晶片股又一次刷屏了，國內重倉科技的QDII基金可能要提前“上漲”了。當地時間6月18日，美伊達成停戰諒解備忘錄後，市場風險偏好明顯回升。霍爾木茲海峽恢復商業航運的訊息傳出後，美股三大指數集體收漲，其中納斯達克指數上漲1.91%，費城半導體指數大漲6.42%。個股表現更加亮眼。英特爾漲超10%，美光科技漲超8%，臺積電、高通漲超6%。對於國內投資者而言，雖然無法直接買入這些熱門晶片股，但今年以來，一批重倉半導體資產的QDII基金同樣賺得盆滿缽滿。截至目前，華泰柏瑞中韓半導體ETF年內收益率達到118%，位居QDII產品收益榜榜首，其聯接基金多個份額收益率也均超過116%。從持倉來看，華泰柏瑞中韓半導體ETF重點佈局全球半導體產業鏈。此外，年內收益率超過100%的易方達全球成長精選美元現匯A，同樣將倉位重點放在半導體及AI基礎設施相關領域。"
+    },
+    {
+      "id": "4946851",
+      "time": "2026-06-22 08:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋蒂圖片社宣佈與OpenAI建立展示合作關係。"
+    },
+    {
+      "id": "4946850",
+      "time": "2026-06-22 08:00:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.1%，至8954.43點。"
+    },
+    {
+      "id": "4946849",
+      "time": "2026-06-22 08:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報71067.15點，跌幅0.26%。"
+    },
+    {
+      "id": "4946848",
+      "time": "2026-06-22 08:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國6月進口20天同比 23.2%，前值 29.3%。韓國6月出口20天同比 60.4%，前值 64.8%。"
+    },
+    {
+      "id": "4946847",
+      "time": "2026-06-22 07:59:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【年內新成立FOF基金已達88只 上半年新發規模超歷史峰值】2026年以來，曾長期處於公募基金市場邊緣的FOF（基金中基金）迎來爆發式增長。Wind資料顯示，截至6月20日，年內新成立FOF基金已達88只，合計發行規模高達1137.69億元，不僅超越2025年全年水平，還超過了2021年創下的歷史峰值。與此同時，全市場FOF基金平均收益率達5.28%，在權益市場波動的背景下展現出穩健的抗風險能力，FOF正從公募基金的“配角”加速走向舞臺中央。"
+    },
+    {
+      "id": "4946846",
+      "time": "2026-06-22 07:59:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年電影端午檔票房已達3.92億元】截至6月21日21時，2026年電影端午檔票房3.92億，總場次144萬場，重新整理中國影史端午檔總場次紀錄。同時，2026年暑期檔總票房已超11.82億元。今年端午檔3天假期，近20部涵蓋科幻、青春、動畫等多種題材的影片集中上映，創下近十年來同期新高。資料顯示，整個暑期檔將有80多部新片陸續和觀眾見面，覆蓋歷史、喜劇、愛情、國風動畫、硬核科幻等多元題材和型別。（央視）"
+    },
+    {
+      "id": "te:markets:560567",
+      "time": "2026-06-22 07:58:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Falls as Oil Prices Rise — Silver fell toward $64 an ounce on Monday, extending its recent decline as higher oil prices kept inflation concerns elevated following renewed tensions during the opening day of US-Iran talks. President Donald Trump threatened fresh military action if Hezbollah continues its attacks on Israel and warned Tehran against shutting the Strait of Hormuz again. At the same time, Iranian media reported that Tehran had suspended negotiations in response to Trump’s remarks, although sources familiar with the discussions said talks were still underway. Silver was also weighed down by expectations of tighter monetary policy after the Federal Reserve left interest rates unchanged last week while adopting a more hawkish tone. Nine of the Fed’s 19 policymakers now anticipate at least one rate increase this year, with investors pricing in a potential hike as soon as September."
+    },
+    {
+      "id": "4946845",
+      "time": "2026-06-22 07:58:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Lime計劃在首次公開募股中將優步列為基石投資者】據報道，運營電動腳踏車和電動滑板車網路的Lime計劃在首次公開募股（IPO）中，將網約車公司優步（Uber） UBER.N 列為基石投資者。該公司預計將於本週透過路演與IPO投資者展開磋商，以約18億美元的估值籌集約2億美元資金。"
+    },
+    {
+      "id": "mkt:019eec9e-6792-7dd8-b0aa-6283794f4938",
+      "time": "2026-06-22 07:57:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CSC Financial: Overseas rare-earth squeeze forces downstream cuts; Chinese rare-earth chain likely to benefit】CSC Financial research note says Chinese dental zirconia makers have received notices from Japan's Tosoh suspending supply of zirconia powder, signaling raw-material shortages have moved from expectation to reality after overseas rare-earth constraints. YSZ (yttria-stabilized zirconia), a yttria-doped high-performance ceramic, faces steep domestic-foreign price divergence: domestic yttrium oxide quoted about 55,000 yuan/ton, Rotterdam port price $457.50/kg and Baichuan reports a European price of $1,175/kg, with some spreads exceeding 100x. Baichuan data show similar widening for other oxides: dysprosium ~8x, terbium ~5x, gadolinium ~40x, scandium ~6x. Rare earths are essential additives for high-end materials and manufacturing; tightening overseas supply and expanding spreads imply Chinese producers of rare-earth-added high-end materials could gain global market share, supporting upstream, midstream and downstream segments of the domestic rare-earth industry chain."
+    },
+    {
+      "id": "4946844",
+      "time": "2026-06-22 07:57:31",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：奈米氧化鋯迎來快速發展機遇】中信建投研報稱，從高階氧化鋯下游需求結構看，預計未來五年固態電池複合增速將達到76%，未來十年SOFC複合增速將達到26.6%，新興領域將帶來高階氧化鋯需求大幅增長。與此同時，鋯在清潔能源產業具備多元化應用價值，成長空間突出。由於氧化釔作為氧化鋯最關鍵的穩定劑，受制於稀土緊缺，日本東曹、第一稀元素化學等全球龍頭產能大幅下降，我國高階氧化鋯正迎來高速發展機遇。"
+    },
     {
       "id": "4946843",
       "time": "2026-06-22 07:57:19",
@@ -43,6 +155,15 @@
         "國際"
       ],
       "text": "日本央行副行長冰見野良三將出席眾議院預算委員會會議。"
+    },
+    {
+      "id": "em:qqyh_mlc:202606223777154376",
+      "time": "2026-06-22 07:54:54",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國聯邦基金利率期貨延續跌勢，顯示預計美聯儲9月加息機率為76%。"
     },
     {
       "id": "4946838",
@@ -159562,119 +159683,6 @@
         "市場"
       ],
       "text": "MSCI亞太指數上漲1.2%至275.06點。"
-    },
-    {
-      "id": "4935011",
-      "time": "2026-06-15 08:01:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元在岸交易開盤報1美元兌1511.4韓元，前收盤價為1美元兌1518.3韓元。"
-    },
-    {
-      "id": "mkt:019ec895-61ae-7dd8-aff9-47d632bd23dc",
-      "time": "2026-06-15 08:01:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Asian indices open higher; South Korea's KOSPI jumps 5%】South Korea's KOSPI opened June 15 up 425.23 points (+5.23%) at 8,548.85. Japan's Nikkei 225 opened June 15 up 858.13 points (+1.30%) at 66,878.17."
-    },
-    {
-      "id": "4935010",
-      "time": "2026-06-15 08:01:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價漲幅超6%。"
-    },
-    {
-      "id": "4935009",
-      "time": "2026-06-15 08:01:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子股價漲幅超6%。"
-    },
-    {
-      "id": "4935008",
-      "time": "2026-06-15 08:00:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體15日報道，伊朗武裝部隊哈塔姆安比亞中央總部當天凌晨發表宣告說，伊朗人民以及武裝部隊和地區抵抗力量在最高領袖指揮體系領導下，成功使美國及以色列等敵人“承認失敗並接受投降”。（新華社）"
-    },
-    {
-      "id": "4935007",
-      "time": "2026-06-15 08:00:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏當局稱，俄羅斯襲擊烏克蘭哈爾科夫造成5人死亡，至少5人受傷。"
-    },
-    {
-      "id": "te:markets:558830",
-      "time": "2026-06-15 08:00:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Australia Hit 5-week High — ASX200 increased to 8852.00 Index Points, the highest since May 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) gained 3.51%, and in the last 12 months, it increased 2.99%."
-    },
-    {
-      "id": "4935006",
-      "time": "2026-06-15 08:00:38",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲5%，至8526.12點。"
-    },
-    {
-      "id": "4935005",
-      "time": "2026-06-15 08:00:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報66783.22點，漲幅1.16％。韓國綜合股價指數（KOSPI）開盤上漲5％，至8526.12點。"
-    },
-    {
-      "id": "te:markets:558828",
-      "time": "2026-06-15 08:00:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Chinese Yuan Hits 3-year High — The Chinese Yuan touched 6.76 against the USD, the highest since February 2023. Over the past 4 weeks, US Dollar Chinese Yuan lost 0.83%, and in the last 12 months, it decreased 5.91%."
-    },
-    {
-      "id": "mkt:019ec893-73e2-7dd8-aff9-3a42ff595761",
-      "time": "2026-06-15 07:59:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "AUDUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Strategist: oil unlikely to return to $70 soon】ATFX global chief market strategist Nick Twida said the USD may weaken over the next few trading sessions. Risk currencies such as AUD and JPY could see modest gains but large moves are unlikely. Significant uncertainty remains over when the strait will fully reopen and how long oil flows will take to normalize; normalization could take months, not weeks. He does not expect oil to return to $70 soon."
-    },
-    {
-      "id": "4935004",
-      "time": "2026-06-15 07:58:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【達力普控股：獲埃及通用石油公司萬噸油井管訂單】達力普控股在港交所公告，集團近日獲埃及國家石油公司之核心子公司-埃及通用石油公司（GPC）採購油井管訂單。GPC將向集團採購油井管產品，訂單採購量約為1萬噸，較去年同期大增超過43%。GPC為埃及及北非地區重要的石油勘探生產企業之一。"
     }
   ]
 }
