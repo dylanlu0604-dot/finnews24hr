@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-22 10:17:58",
-  "count": 17340,
+  "updated": "2026-06-22 10:23:07",
+  "count": 17336,
   "items": [
+    {
+      "id": "mkt:019eed21-9771-7dd8-b0ae-3e769f8edc5a",
+      "time": "2026-06-22 10:21:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hainan island duty-free sales total 202 mln yuan over Dragon Boat holiday】Haikou Customs said Hainan island duty-free shopping totaled 202 mln yuan from June 19-21, with 34,700 shoppers and 159,000 items sold. Compared with the same period last year, sales rose 8.6%, shopper numbers rose 11.2% and items sold rose 1.9%."
+    },
+    {
+      "id": "mkt:019eed21-3e00-7dd8-b0ae-36a2be60d186",
+      "time": "2026-06-22 10:20:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ant Group board reshuffle: He Xiaopeng among three new independent directors】Ant Group completed a board reshuffle, appointing three new independent directors: Bai Chong'en, dean of Tsinghua University School of Economics and Management; He Xiaopeng, chairman and CEO of XPeng Motors; and Zeng Shunfu, former CEO of Deloitte China. Former HKEX chair Shi Meilun and AI scholar Zhang Hongjiang remain on the board. The board stays at nine members, with independent directors exceeding 50%, a move the group says strengthens governance."
+    },
+    {
+      "id": "4947131",
+      "time": "2026-06-22 10:20:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【端午期間 海南離島免稅購物金額超2億元】今年端午節期間（6月19日至21日），海南離島免稅消費市場持續升溫。據海口海關統計，假期三天海關共監管離島免稅購物金額達2.02億元，購物人數3.47萬人次，購物件數15.9萬件。與去年同期相比，分別實現8.6%、11.2%和1.9%的穩步增長。假期期間，家庭式、親友結伴出行的顧客成為購物主力，高階護膚品、智慧數碼產品等品類備受青睞。"
+    },
+    {
+      "id": "4947130",
+      "time": "2026-06-22 10:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：消費稅將在兩年減稅期結束後恢復徵收。"
+    },
+    {
+      "id": "4947129",
+      "time": "2026-06-22 10:18:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國多地釋出高溫預警 部分地區臨時“禁酒”】法國氣象局通報，首都巴黎和34個省21日釋出最高階別的高溫紅色預警，覆蓋範圍創歷史紀錄。紅色預警區域內21日執行“禁酒令”，限制民眾在公共場所飲酒，以避免民眾出現不適症狀，擠佔醫療資源。本輪紅色預警範圍覆蓋逾三分之一法國本土面積，另有45個省釋出高溫橙色預警。據法新社統計，約5300萬法國人21日將受到高溫天氣影響。氣象部門預計，22日局地氣溫或將升至41攝氏度，法國全國平均氣溫或打破歷史最高紀錄。"
+    },
+    {
+      "id": "mkt:019eed1f-825e-7dd8-b0ae-28474e3c6b51",
+      "time": "2026-06-22 10:18:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's Ministry of Public Security Computer Information System Security Product Quality Supervision and Inspection Center found 40 mobile apps that violated laws and regulations by collecting and using personal information."
+    },
+    {
+      "id": "4947128",
+      "time": "2026-06-22 10:18:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達30億港元。"
+    },
     {
       "id": "4947127",
       "time": "2026-06-22 10:17:01",
@@ -159391,106 +159452,6 @@
         "CSI300"
       ],
       "text": "A-share copper-cable and high-speed connector sector edged higher amid choppy trading; Xinya Electronics touched the daily limit-up, Yihua Co. earlier hit limit-up, Taichen Guang neared limit-up, while Changxin Bochuang, Ruikeda, Kabeiyi and Zhongfu Circuit also rallied."
-    },
-    {
-      "id": "mkt:019ec916-91fc-7dd8-affc-81c9c57893cc",
-      "time": "2026-06-15 10:22:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite",
-        "CSI300"
-      ],
-      "text": "China A-share ChiNext Index rose over 3% intraday, Shenzhen Composite Index +2.3%, Shanghai Composite Index +1.2%; Sci-Tech Innovation Board 50 Index (STAR 50) up over 3.7%. Gains were led by PET copper foil, PCB-related stocks and advanced packaging."
-    },
-    {
-      "id": "4935313",
-      "time": "2026-06-15 10:22:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大國工程再添新進展！拉哇水電站大壩二期面板澆築完成】今天，位於四川省巴塘縣金沙江上游的華電金上拉哇水電站大壩二期面板澆築任務順利完成。該專案是金沙江上游清潔能源基地重點工程之一，也是國家“十五五”規劃重大工程，總裝機容量200萬千瓦，最大壩高242.5米。此次施工節點的完成，標誌著該水電站主體工程進入收尾衝刺階段。（央視新聞）"
-    },
-    {
-      "id": "4935312",
-      "time": "2026-06-15 10:22:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銅纜高速連線板塊走高，新亞電子觸及漲停】銅纜高速連線板塊走高，新亞電子觸及漲停，意華股份此前漲停，太辰光逼近漲停，長芯博創、瑞可達、卡倍乙、中富電路跟漲。"
-    },
-    {
-      "id": "4935311",
-      "time": "2026-06-15 10:21:40",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【液冷伺服器概念震盪反彈 意華股份、淳中科技雙雙漲停】液冷伺服器概念盤中震盪反彈，意華股份、淳中科技漲停，瑞可達漲超10%，大元泵業、精研科技、強瑞技術、英維克等漲幅靠前。訊息面上，華泰證券研報指出，AI算力持續擴容推動800G至1.6T光模組快速上量，1.6T光模組功耗突破45W、熱流密度超100W/cm²，風冷已達物理極限，液冷成為硬性標配。液冷Cage整合冷板後散熱效率提升30%以上，全球光模組液冷市場2026年爆發。"
-    },
-    {
-      "id": "4935310",
-      "time": "2026-06-15 10:21:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東陸豐出現特大暴雨 全市各級各類學校停課】據廣東陸豐市氣象臺訊息，6月13日20時—15日08時，陸豐市出現大暴雨到特大暴雨，全市平均面雨量329毫米。目前，陸豐全市各級各類學校（含校外培訓機構）已統一停課。（央視新聞）"
-    },
-    {
-      "id": "4935309",
-      "time": "2026-06-15 10:20:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲3.01%，現報3945.656點；上證指數漲1.19%，現報4079.426點；深證成指漲2.25%，現報15300.143點。"
-    },
-    {
-      "id": "mkt:019ec914-d168-7dd8-affc-7df067722d27",
-      "time": "2026-06-15 10:20:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Xinyu Mulinsen subsidiary to lift PCB prices 20% from June 12, 2026】Xinyu Mulinsen Electronics Co., Ltd., a wholly owned subsidiary of Mulinsen, said it will raise prices across its entire PCB product line by 20% effective June 12, 2026. The move reflects sharp cost increases and tight supply of copper-clad laminate (CCL) after a recent surge in glass-fiber cloth prices."
-    },
-    {
-      "id": "4935308",
-      "time": "2026-06-15 10:19:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國人民保險集團：堅決擁護黨中央決定】會議指出，中央紀委國家監委對俞小平涉嫌嚴重違紀違法進行紀律審查和監察調查，充分彰顯了以習近平同志為核心的黨中央一以貫之推進全面從嚴治黨、把黨的自我革命進行到底的堅定決心和堅強意志，充分表明了我們黨堅持反腐敗無禁區、全覆蓋、零容忍的一貫立場。系統各級黨組織和廣大黨員幹部要切實把思想和行動統一到黨中央決定精神上來，全力配合中央紀委國家監委對俞小平涉嫌嚴重違紀違法問題的審查調查。"
-    },
-    {
-      "id": "4935307",
-      "time": "2026-06-15 10:19:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【木林森子公司對全線PCB產品價格上調20%】從木林森全資子公司新餘木林森電子有限公司獲悉，近日，受原材料玻璃布影響，近期PCB生產所需的原材料覆銅板價格持續大幅上漲且貨源緊缺，導致PCB核心主材覆銅板成本大幅飆升。公司慎重研究決定於2026年6月12日起，公司對全線PCB產品價格進行上調20%。"
-    },
-    {
-      "id": "4935306",
-      "time": "2026-06-15 10:18:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智平方釋出全球首個類腦式具身智慧系統NeuroVLA】智平方創始人兼CEO郭彥東在2026北京智源大會具身產業CEO論壇上正式推出全球首個類腦式具身智慧系統NeuroVLA，同步宣佈該系統在AlphaBrain Platform開源。NeuroVLA類腦大模型架構由智平方聯合香港科技大學（廣州）打造，該架構仿生人類大腦“皮層-小腦-脊髓”三層體系，皮層負責深度推理規劃，小腦保障動作靈巧穩定，脊髓實現本能極速反應。目前，NeuroVLA已登陸智平方一站式具身智慧開源社群AlphaBrain Platform，面向全行業開放。智平方已建成年產2000臺以上的機器人半自動化產線，今年下半年還將規劃建設2萬至3萬臺產能的新產線，實現大模型端側部署。"
-    },
-    {
-      "id": "4935305",
-      "time": "2026-06-15 10:18:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔： 就Mythos訪問許可權遭暫停一事進行核查，暫不予置評。"
     }
   ]
 }
