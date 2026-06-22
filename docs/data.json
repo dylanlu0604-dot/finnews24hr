@@ -1,7 +1,175 @@
 {
-  "updated": "2026-06-22 23:31:12",
-  "count": 17336,
+  "updated": "2026-06-22 23:36:09",
+  "count": 17328,
   "items": [
+    {
+      "id": "4948739",
+      "time": "2026-06-22 23:34:05",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【SpaceX將首次發行投資級債券，銀行家正進行推介】在完成創紀錄的750億美元美國IPO後，SpaceX啟動對投資級債券的首次發行，預計這將開啟一輪大規模舉債浪潮，為其在AI領域的佈局提供資金。據知情人士透露，曾為SpaceX提供短期過橋融資的幾家銀行——包括美國銀行、花旗集團、高盛、摩根大通和摩根士丹利，週一安排了與投資者的電話會議。該人士表示，預計隨後將進行債券發行，期限在5年至30年之間。"
+    },
+    {
+      "id": "4948738",
+      "time": "2026-06-22 23:33:15",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.66%，斯托克歐洲指數上漲0.51%，歐元區藍籌股指數上漲0.53%。英國富時100指數上漲0.77%，德國DAX指數上漲0.66%，法國CAC 40指數下跌0.12%，西班牙IBEX指數上漲1.18%。"
+    },
+    {
+      "id": "4948737",
+      "time": "2026-06-22 23:32:29",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.695%，投標倍數2.68。拍賣六個月期國債，得標利率3.840%，投標倍數2.51。"
+    },
+    {
+      "id": "mkt:019eeff6-18e5-7dd8-b0c1-bff1664e81e3",
+      "time": "2026-06-22 23:32:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 3-month Treasury bill auction to June 22 — percent awarded at the high (stop-out) yield 87.55%, previous 25.15%."
+    },
+    {
+      "id": "mkt:019eeff6-16e2-7dd8-b0c1-b17dcb30a4c2",
+      "time": "2026-06-22 23:32:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 3-month Treasury auction: stop-out yield 3.695%, previous 3.64%."
+    },
+    {
+      "id": "mkt:019eeff6-1377-7dd8-b0c1-abfd0328e38a",
+      "time": "2026-06-22 23:32:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-month Treasury auction on June 22 — percentage of awards at the stop-out yield 97.87%, previous 14%."
+    },
+    {
+      "id": "mkt:019eeff6-129e-7dd8-b0c1-a11afb490f86",
+      "time": "2026-06-22 23:32:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 3-month Treasury auction on June 22 bid-cover ratio 2.68, prior 2.47."
+    },
+    {
+      "id": "mkt:019eeff6-121c-7dd8-b0c1-9dd6b6e6f406",
+      "time": "2026-06-22 23:32:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. six-month Treasury auction on June 22: stop-out yield 3.84%, prior 3.68%."
+    },
+    {
+      "id": "mkt:019eeff5-fdcd-7dd8-b0c1-94e1ee912cdd",
+      "time": "2026-06-22 23:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "US 6-month Treasury auction on June 22: bid-cover ratio 2.51, previous 2.76."
+    },
+    {
+      "id": "mkt:019eeff5-d155-7dd8-b0c1-8a97f0600689",
+      "time": "2026-06-22 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Jun.22) | actual 2.68 | previous 2.47"
+    },
+    {
+      "id": "mkt:019eeff5-d14d-7dd8-b0c1-80dd9bbde03e",
+      "time": "2026-06-22 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Jun.22) | actual 87.55% | previous 25.15%"
+    },
+    {
+      "id": "mkt:019eeff5-d148-7dd8-b0c1-7b6f207c9186",
+      "time": "2026-06-22 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Jun.22) | actual 3.695% | previous 3.64%"
+    },
+    {
+      "id": "mkt:019eeff5-cc23-7dd8-b0c1-70857a036d61",
+      "time": "2026-06-22 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Jun.22) | actual 2.51 | previous 2.76"
+    },
+    {
+      "id": "mkt:019eeff5-cc22-7dd8-b0c1-6b7eee392851",
+      "time": "2026-06-22 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Jun.22) | actual 97.87% | previous 14%"
+    },
+    {
+      "id": "mkt:019eeff5-cbe4-7dd8-b0c1-6183c469507c",
+      "time": "2026-06-22 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Jun.22) | actual 3.84% | previous 3.68%"
+    },
+    {
+      "id": "4948736",
+      "time": "2026-06-22 23:31:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【卡達工廠爆炸已致13人死亡】卡達能源大臣兼卡達能源公司執行長薩阿德·卡阿比22日表示，該國萊凡角工業城一天然氣工廠21日深夜發生的爆炸已造成13人死亡、66人受傷。卡阿比說，此次事件屬於生產事故，並非蓄意破壞或敵對行為所致。卡達內政部22日發表的宣告說，爆炸由技術故障引發。民防部門在事後迅速趕赴現場處置，目前應急救援行動仍在進行中。有關部門正對事故原因展開調查。（新華社）"
+    },
     {
       "id": "te:markets:560843",
       "time": "2026-06-22 23:30:00",
@@ -159060,257 +159228,6 @@
         "Impact bearish"
       ],
       "text": "European equities on Monday June 15: Germany's DAX30 closed up 282.44 points (+1.15%) at 24,895.00; UK's FTSE 100 closed down 39.98 points (-0.38%) at 10,431.74; France's CAC 40 closed up 33.14 points (+0.40%) at 8,384.01; STOXX Europe 50 closed up 41.72 points (+0.67%) at 6,229.35; Spain's IBEX 35 closed up 271.38 points (+1.45%) at 19,035.78; Italy's FTSE MIB closed up 342.29 points (+0.66%) at 51,839.50."
-    },
-    {
-      "id": "mkt:019ecbec-8d67-7dd8-b012-56ef53f97570",
-      "time": "2026-06-15 23:35:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister said the government will seek to secure the greatest possible economic breakthrough from the agreement and will pursue every diplomatic opportunity while not taking any for granted."
-    },
-    {
-      "id": "te:economy:559085",
-      "time": "2026-06-15 23:34:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Peru",
-        "Monthly GDP YoY",
-        "Importance 1"
-      ],
-      "text": "Peru Economic Activity Hits 5-Month High — Peru's economy expanded 3.73% year-on-year in April 2026, marking the highest level in five months, accelerating from 3.21% in the previous month and well above market expectations of 3.55% growth. Economic activity was supported by broad-based gains across several sectors, particularly manufacturing (2.17%), commerce (7.31%), construction (12.88%), transport (1.44%), public administration and defense (4.08%), services (3.27%), financial services (1.01%), restaurants and hotels (4.48%), communications (1.03%), utilities (4.68%) and fishing (1.68%). In contrast, mining and hydrocarbons contracted 3.24%, while agricultural activity declined 1.64%, partially offsetting the gains recorded in other sectors. For the January–April 2026 period, Peru's economy grew 3.58% compared with the same period a year earlier. Over the twelve months through April 2026, economic activity expanded 3.59%."
-    },
-    {
-      "id": "mkt:019ecbeb-0d0c-7dd8-b012-481adc06ab03",
-      "time": "2026-06-15 23:33:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister said Iran will pace negotiations and the implementation of agreements based on distrust, breaches of commitments and past experience."
-    },
-    {
-      "id": "mkt:019ecbea-6ab8-7dd8-b012-44346461fdc4",
-      "time": "2026-06-15 23:33:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister said the first round of talks will be held after Iran and the US sign a memorandum of understanding."
-    },
-    {
-      "id": "4936902",
-      "time": "2026-06-15 23:33:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方媒體援引伊朗外交部長表態：我們將基於過往互不信任、對方屢次違背承諾的經歷，規劃談判程序與協議落實工作。"
-    },
-    {
-      "id": "4936901",
-      "time": "2026-06-15 23:32:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方媒體援引伊朗外交部長表態：首輪談判將在伊美雙方簽署諒解備忘錄之後舉行。"
-    },
-    {
-      "id": "4936900",
-      "time": "2026-06-15 23:32:40",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣三個月期國債，得標利率3.640%，投標倍數2.47。拍賣六個月期國債，得標利率3.680%，投標倍數2.76。"
-    },
-    {
-      "id": "mkt:019ecbe9-95ab-7dd8-b012-388bb1865480",
-      "time": "2026-06-15 23:32:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US 3-month Treasury auction on June 15 — proportion awarded at the stop-out yield 25.15%, previously 6.48%."
-    },
-    {
-      "id": "mkt:019ecbe9-91f9-7dd8-b012-32ffe3c272db",
-      "time": "2026-06-15 23:32:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "U.S. 3-month Treasury bill auction to June 15 — stop-out yield 3.64%, unchanged from prior 3.64%."
-    },
-    {
-      "id": "mkt:019ecbe9-8455-7dd8-b012-293032b9e396",
-      "time": "2026-06-15 23:32:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US 3-month Treasury auction for June 15: bid-cover ratio 2.47, prior 2.79."
-    },
-    {
-      "id": "mkt:019ecbe9-8325-7dd8-b012-2137a7886a20",
-      "time": "2026-06-15 23:32:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 6-month Treasury auction (as of June 15): percentage of issue allocated at the winning yield 14%, prior 95.45%."
-    },
-    {
-      "id": "mkt:019ecbe9-82c0-7dd8-b012-199b02f90c92",
-      "time": "2026-06-15 23:32:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US 6-month Treasury auction on June 15, stop-out yield 3.68% vs 3.69% prior."
-    },
-    {
-      "id": "4936899",
-      "time": "2026-06-15 23:32:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【義大利股市繼續創收盤歷史新高】德國DAX 30指數初步收漲1.07%，報24897.70點。法國股指初步收漲0.49%，義大利股指初步收漲0.63%、銀行指數漲1.38%，英國股指初步收跌0.48%。"
-    },
-    {
-      "id": "mkt:019ecbe9-6a4a-7dd8-b012-12fbfd585a04",
-      "time": "2026-06-15 23:32:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US 6-month Treasury auction to June 15 — bid-cover ratio 2.76, prior 2.75."
-    },
-    {
-      "id": "4936898",
-      "time": "2026-06-15 23:32:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收漲0.17%，報634.31點。歐元區STOXX 50指數初步收漲0.68%，報6229.93點，首次收於6200點關口上方。富時泛歐績優300指數初步收漲0.14%，報2534.89點。"
-    },
-    {
-      "id": "mkt:019ecbe9-49b5-7dd8-b012-0ae0d1d985a7",
-      "time": "2026-06-15 23:32:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Jun.15) | actual 2.47 | previous 2.79"
-    },
-    {
-      "id": "mkt:019ecbe9-49b4-7dd8-b012-03dc82d202ef",
-      "time": "2026-06-15 23:32:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Accepted at High (Jun.15) | actual 25.15% | previous 6.48%"
-    },
-    {
-      "id": "mkt:019ecbe9-49b3-7dd8-b011-ff0644a84c94",
-      "time": "2026-06-15 23:32:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction High Yield Rate (Jun.15) | actual 3.64% | previous 3.64%"
-    },
-    {
-      "id": "mkt:019ecbe9-48b7-7dd8-b011-f36bc8514253",
-      "time": "2026-06-15 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Jun.15) | actual 2.76 | previous 2.75"
-    },
-    {
-      "id": "mkt:019ecbe9-48b4-7dd8-b011-ec7918aa8ab2",
-      "time": "2026-06-15 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Accepted at High (Jun.15) | actual 14% | previous 95.45%"
-    },
-    {
-      "id": "mkt:019ecbe9-4893-7dd8-b011-e3ace9822dd3",
-      "time": "2026-06-15 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction High Yield Rate (Jun.15) | actual 3.68% | previous 3.69%"
-    },
-    {
-      "id": "mkt:019ecbe9-3dda-7dd8-b011-db8033e827d8",
-      "time": "2026-06-15 23:32:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "【Goldman: dollar strengthens as markets eye risks in potential US-Iran deal】Goldman Sachs says the dollar has firmed as oil trade via the Strait of Hormuz edges toward normalisation, but markets will watch for any potential pitfalls before a US-Iran agreement is signed. The pace of tanker-flow recovery will be closely monitored. Goldman notes terms-of-trade pressure persisted long after commodity-price peaks in 2022, and says near-term central bank decisions in the coming days are unlikely to be altered by a still-uncertain US-Iran deal."
-    },
-    {
-      "id": "mkt:019ecbe9-0292-7dd8-b011-d14722224211",
-      "time": "2026-06-15 23:31:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China foreign minister Wang Yi meets Nepal foreign minister Hisil】Beijing, June 15 — China foreign minister Wang Yi met Nepal foreign minister Hisil. China praised Nepal’s adherence to the One China principle and its support on Taiwan and Tibet, and said it will continue to prioritise ties with Nepal in its neighbourhood diplomacy. Beijing pledged ongoing support for Nepal’s sovereignty, independence and territorial integrity, backing the new government’s ability to govern with public support and its pursuit of a development path suited to national conditions."
-    },
-    {
-      "id": "4936897",
-      "time": "2026-06-15 23:31:35",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同尼泊爾外長希西爾會談】2026年6月15日，中共中央政治局委員、外交部長王毅在北京同尼泊爾新任外長希西爾舉行會談。（外交部網站）"
     }
   ]
 }
