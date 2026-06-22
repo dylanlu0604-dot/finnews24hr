@@ -1,7 +1,262 @@
 {
-  "updated": "2026-06-22 20:29:10",
-  "count": 17264,
+  "updated": "2026-06-22 20:34:30",
+  "count": 17251,
   "items": [
+    {
+      "id": "mkt:019eef51-ae62-7dd8-b0bc-f67616fa5e71",
+      "time": "2026-06-22 20:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai executive meeting reviews 15th Five-Year plan for strategic emerging industries and Digital Shanghai】Mayor Gong Zheng chaired a city executive meeting today, instructing officials to sustain Q1 economic momentum and push to meet H1 growth targets; boost the scale and capability of strategic emerging industries; accelerate high-quality private investment; and advance the Digital Shanghai initiative. Districts and departments were ordered to extend sector gains, close weaknesses, ensure heavyweight industries act as stabilising anchors and help pressured sectors reach inflection points. The city will back key regions to carry greater responsibility, prioritise solving new problems, and coordinate short-term growth stabilisation with medium-to-long-term structural transformation. The meeting approved in principle Shanghai’s 15th Five-Year plan for strategic emerging industries, stressing innovation-led development, strengthening core capabilities in three lead industries and key industrial chains, deepening forward-looking deployments in frontier technologies, and expanding industry clusters in targeted niche tracks. The plan calls for institutional reform to unlock business dynamism—wider scenario opening, stronger factor support—and deeper domestic coordination and external opening to raise industry development quality and efficiency."
+    },
+    {
+      "id": "mkt:019eef51-9f05-7dd8-b0bc-e88eff6854eb",
+      "time": "2026-06-22 20:32:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lowy Institute survey: Australians' trust in the United States to act responsibly on the world stage falls to 31%."
+    },
+    {
+      "id": "mkt:019eef51-699f-7dd8-b0bc-e2e63f4de431",
+      "time": "2026-06-22 20:32:30",
+      "tags": [
+        "MKT News",
+        "USDCAD"
+      ],
+      "text": "USD/CAD little changed in intraday trading; last quoted at 1.4153."
+    },
+    {
+      "id": "4948415",
+      "time": "2026-06-22 20:32:22",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "加拿大CPI資料公佈後，加元兌美元匯率升至盤中高點1.4145。"
+    },
+    {
+      "id": "4948414",
+      "time": "2026-06-22 20:31:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "洛伊研究所調查：澳大利亞人對美國總統特朗普的信心降至21%。"
+    },
+    {
+      "id": "4948413",
+      "time": "2026-06-22 20:31:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：在外國直接投資流入和充足外匯儲備的支援下，印度對外部門保持韌性。"
+    },
+    {
+      "id": "mkt:019eef50-86af-7dd8-b0bc-df063d603ff5",
+      "time": "2026-06-22 20:31:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Lowy Institute poll: Australians' confidence in US President Trump falls to 21%."
+    },
+    {
+      "id": "mkt:019eef50-2c83-7dd8-b0bc-d31e30ce728d",
+      "time": "2026-06-22 20:31:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lowy Institute survey: Australian public trust in the United States falls to a record low."
+    },
+    {
+      "id": "4948412",
+      "time": "2026-06-22 20:31:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "洛伊研究所調查：澳大利亞人對美國的信任降至歷史低點。"
+    },
+    {
+      "id": "4948411",
+      "time": "2026-06-22 20:31:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：前兩個月的高頻指標顯示2026-27財年經濟動能持續。"
+    },
+    {
+      "id": "4948410",
+      "time": "2026-06-22 20:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "人工智慧企業Upscale AI完成A輪擴充套件融資1.9億美元，總融資額達到5億美元。"
+    },
+    {
+      "id": "4948409",
+      "time": "2026-06-22 20:30:20",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大5月CPI月率 1%，預期0.80%，前值0.40%。\n加拿大5月CPI年率 3.2%，預期3.00%，前值2.80%。\n加拿大5月核心CPI月率 0.6%，前值0.2%。\n加拿大5月核心CPI年率 2.2%，前值2.1%。"
+    },
+    {
+      "id": "mkt:019eef4f-55a6-7dd8-b0bc-cc42b59e272c",
+      "time": "2026-06-22 20:30:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Canada core CPI YoY May 2.2% (prev 2.1%)."
+    },
+    {
+      "id": "mkt:019eef4f-52ea-7dd8-b0bc-c07b45226923",
+      "time": "2026-06-22 20:30:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada May CPI m/m 1.0% vs 0.8% expected, prior 0.4%."
+    },
+    {
+      "id": "mkt:019eef4f-4607-7dd8-b0bc-bef0b627d1ad",
+      "time": "2026-06-22 20:30:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada May CPI YoY 3.2% vs 3.0% expected; prior 2.8%."
+    },
+    {
+      "id": "mkt:019eef4f-44e5-7dd8-b0bc-b5c76141e74a",
+      "time": "2026-06-22 20:30:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada May core CPI MoM 0.6%, prior 0.2%."
+    },
+    {
+      "id": "mkt:019eef4f-4412-7dd8-b0bc-ae6a1105ac9a",
+      "time": "2026-06-22 20:30:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Reserve Bank of India says India's crude oil basket prices remain elevated."
+    },
+    {
+      "id": "mkt:019eef4f-22c0-7dd8-b0bc-a32ca5a4d0c2",
+      "time": "2026-06-22 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Core CPI (YoY) (May) | actual 2.2% | previous 2.1%"
+    },
+    {
+      "id": "mkt:019eef4f-2227-7dd8-b0bc-9bd26c451f53",
+      "time": "2026-06-22 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Core CPI (MoM) (May) | actual 0.6% | previous 0.2%"
+    },
+    {
+      "id": "mkt:019eef4f-21e8-7dd8-b0bc-9023313c9eac",
+      "time": "2026-06-22 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | CPI (YoY) (May) | actual 3.2% | consensus 3.00% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019eef4f-21e4-7dd8-b0bc-8e8c247e4492",
+      "time": "2026-06-22 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | CPI (MoM) (May) | actual 1% | consensus 0.80% | previous 0.40%"
+    },
+    {
+      "id": "4948408",
+      "time": "2026-06-22 20:29:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁克生物：公佈回購股份前十大股東及無限售條件股東持股情況】邁克生物公告稱，公司於2026年6月18日董事會審議透過回購股份方案，擬用5000萬元 - 1億元自有資金以集中競價回購股份用於登出並減資。現公佈董事會公告回購決議前一交易日（6月18日）登記在冊的前十名股東和前十名無限售條件股東情況，前者中唐勇持股68062301股，佔比11.26%；後者中郭雷持股28219631股，佔無限售條件流通股份比例5.74%。"
+    },
+    {
+      "id": "mkt:019eef4e-bdc1-7dd8-b0bc-84e73700de21",
+      "time": "2026-06-22 20:29:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Reserve Bank of India said India’s gold reserves were 880.52 tonnes on May 29, unchanged from 880.52 tonnes on May 22."
+    },
+    {
+      "id": "4948407",
+      "time": "2026-06-22 20:29:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度儲備銀行公報顯示：截至5月29日，印度黃金儲備為880.52公噸，5月22日時的儲備同樣為880.52公噸。"
+    },
+    {
+      "id": "4948406",
+      "time": "2026-06-22 20:29:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Revolut計劃2028年前進軍南非市場，當前預約使用者數量接近10萬人。"
+    },
+    {
+      "id": "mkt:019eef4d-f904-7dd8-b0bc-7db6299809c3",
+      "time": "2026-06-22 20:28:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Stoxx Europe 600 hit an intraday high, trading up 0.3%."
+    },
+    {
+      "id": "4948405",
+      "time": "2026-06-22 20:28:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數觸及盤中高點，最新上漲0.3%。"
+    },
     {
       "id": "4948404",
       "time": "2026-06-22 20:28:18",
@@ -158221,393 +158476,6 @@
         "國際"
       ],
       "text": "黎巴嫩真主黨：將在以色列撤軍之前捍衛黎巴嫩人民。"
-    },
-    {
-      "id": "4936624",
-      "time": "2026-06-15 20:34:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "空客<AIR.PA>執行長表示，歐洲監管壁壘的成本“極其可怕”。"
-    },
-    {
-      "id": "4936623",
-      "time": "2026-06-15 20:33:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【非洲建交國符合要求的腰果已獲准輸華】記者15日從海關總署獲悉，自6月9日起非洲地區建交國生產的腰果已全面實現輸華檢疫准入。據海關總署釋出的《關於進口非洲腰果檢驗檢疫和衛生要求的公告》，允許進口的腰果是指由出口國境內種植的腰果為原料，在出口國境內經去皮、乾燥、挑選等加工工藝製作而成的供人類食用的帶殼或去殼堅果。輸華腰果不得帶有谷斑皮蠹、腎斑皮蠹、四紋豆象和非洲葉跗鋸谷盜等中方關注的檢疫性有害生物。（新華社）"
-    },
-    {
-      "id": "mkt:019ecb45-eb37-7dd8-b00d-70cf5899c51a",
-      "time": "2026-06-15 20:33:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "HEZBOLLAH says it will defend the Lebanese people until Israel withdraws."
-    },
-    {
-      "id": "mkt:019ecb45-2b4c-7dd8-b00d-68b7337caee4",
-      "time": "2026-06-15 20:32:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada April manufacturing new orders m/m +2.1% (prior +4.7%)."
-    },
-    {
-      "id": "4936622",
-      "time": "2026-06-15 20:32:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第九屆進博會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦】6月15日，第九屆中國國際進口博覽會招商路演暨“共享大市場·出口中國”山東專場活動在青島舉辦。商務部副部長鄢東、山東省副省長溫暖、中國工商銀行副行長張偉武出席活動並致辭，英國商業貿易部駐華貿易使節倪樂思出席活動。鄢東表示，中國堅定不移擴大高水平對外開放，透過自主開放、單邊開放，舉辦進博會等重要展會，分享中國發展的紅利。第九屆進博會將於今年11月5日至10日在上海舉辦，將與“出口中國”等品牌活動協同聯動，為各國企業對接中國市場需求、進入中國市場搭建平臺和橋樑，以更大力度擴大進口、推動進出口平衡發展。"
-    },
-    {
-      "id": "mkt:019ecb45-0d30-7dd8-b00d-64a109b01714",
-      "time": "2026-06-15 20:32:40",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing New Orders (MoM) (Apr) | actual 2.1% | previous 4.7%"
-    },
-    {
-      "id": "mkt:019ecb44-ef62-7dd8-b00d-5d36503d5179",
-      "time": "2026-06-15 20:32:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada manufacturing inventories rose 0.5% MoM in April, vs. +1.3% prior."
-    },
-    {
-      "id": "mkt:019ecb44-dbbc-7dd8-b00d-578df9ea8a77",
-      "time": "2026-06-15 20:32:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Luo Wen meets Azerbaijan Food Safety Agency head Goshgar Tahmazli】On June 12, SAMR director Luo Wen met visiting Azerbaijan Food Safety Agency head Goshgar Tahmazli. They discussed full-chain food safety oversight, smart supervision, and laboratory and research cooperation, and agreed to establish a joint working group to deepen regulatory exchange and cooperation. Senior SAMR officials attended."
-    },
-    {
-      "id": "4936621",
-      "time": "2026-06-15 20:32:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國夏糧小麥收穫已近九成】記者從農業農村部獲悉，截至6月15日17時，全國已收穫夏糧小麥3.04億畝，收穫進度89.48%。山東近九成，河北過八成，陝西近八成，山西過七成，新疆近三成，甘肅零星收穫。（新華社）"
-    },
-    {
-      "id": "mkt:019ecb44-d06d-7dd8-b00d-4aae0feb6c8b",
-      "time": "2026-06-15 20:32:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Inventories (MoM) (Apr) | actual 0.5% | previous 1.3%"
-    },
-    {
-      "id": "4936620",
-      "time": "2026-06-15 20:31:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度5月大豆進口量較4月飆升65%，創下20萬噸的紀錄水平。"
-    },
-    {
-      "id": "mkt:019ecb44-49f6-7dd8-b00d-44dbaf32709d",
-      "time": "2026-06-15 20:31:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada manufacturers' unfilled orders, Apr MoM +1.3% (prior +2.4%)."
-    },
-    {
-      "id": "mkt:019ecb44-2c5e-7dd8-b00d-3ad5ecbd3492",
-      "time": "2026-06-15 20:31:43",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Unfilled Orders (MoM) (Apr) | actual 1.3% | previous 2.4%"
-    },
-    {
-      "id": "4936619",
-      "time": "2026-06-15 20:31:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【羅文會見亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利】6月12日，國家市場監督管理總局局長羅文會見來訪的亞塞拜然食品安全域性局長戈什加爾·塔赫馬茲利。雙方就食品安全全鏈條監管、智慧監管、實驗室與科研合作等議題進行交流，一致同意成立工作組，加強食品安全監管交流合作。總局相關司局負責同志參加會見。"
-    },
-    {
-      "id": "mkt:019ecb44-1ee1-7dd8-b00d-36f6dbb3326a",
-      "time": "2026-06-15 20:31:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada April manufacturing inventory-to-shipments ratio 1.62% vs 1.69% prior."
-    },
-    {
-      "id": "mkt:019ecb44-0072-7dd8-b00d-2fa2d9132b2a",
-      "time": "2026-06-15 20:31:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Inventory-To-Sales Ratio (Apr) | actual 1.62% | previous 1.69%"
-    },
-    {
-      "id": "mkt:019ecb43-b12a-7dd8-b00d-20e4e0beaab2",
-      "time": "2026-06-15 20:31:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US New York Fed manufacturing new-orders index for June 3.5; prior 22.7."
-    },
-    {
-      "id": "mkt:019ecb43-843b-7dd8-b00d-1a0f2ccc8ba9",
-      "time": "2026-06-15 20:30:59",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed New Orders Index (Jun) | actual 3.5 | previous 22.7"
-    },
-    {
-      "id": "4936618",
-      "time": "2026-06-15 20:30:54",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大4月批發銷售月率 0.6%，預期0.1%，前值1.90%。"
-    },
-    {
-      "id": "te:economy:559062",
-      "time": "2026-06-15 20:30:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Housing Starts",
-        "Importance 1"
-      ],
-      "text": "Canada Housing Starts Fall 6.1% in May — Housing starts in Canada fell 6.1% from the previous month to a seasonally adjusted annual rate of 261.4 thousand in May 2026, well above market forcasts of 255.1 thousand units. Urban housing starts in centers with populations over 10,000 people fell to 247 thousand. In turn, rural starts were estimated to increase to 14,357 units."
-    },
-    {
-      "id": "mkt:019ecb43-4f1b-7dd8-b00d-145c6f75c0b2",
-      "time": "2026-06-15 20:30:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US New York Fed Empire State manufacturing prices received index 31.4 in June, down from 31.8 previously."
-    },
-    {
-      "id": "em:jjsj_jndsj:202606153771786249",
-      "time": "2026-06-15 20:30:46",
-      "tags": [
-        "經濟數據",
-        "加拿大"
-      ],
-      "text": "【加拿大4月批發銷售環比增長0.6% 預期0.1%】加拿大4月批發銷售環比增長0.6%，預期0.1%，前值1.90%。"
-    },
-    {
-      "id": "4936617",
-      "time": "2026-06-15 20:30:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國6月紐約聯儲製造業指數 5.7，預期14，前值19.6。\n美國6月紐約聯儲製造業就業指數 9.6，前值8.3。"
-    },
-    {
-      "id": "mkt:019ecb43-2731-7dd8-b00d-0a41eb58adcc",
-      "time": "2026-06-15 20:30:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Prices Received Index (Jun) | actual 31.4 | previous 31.8"
-    },
-    {
-      "id": "em:jjsj_mgsj:202606153771767886",
-      "time": "2026-06-15 20:30:32",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國6月紐約聯儲製造業指數5.7 預期14】美國6月紐約聯儲製造業指數5.7，預期14，前值19.6。"
-    },
-    {
-      "id": "mkt:019ecb43-102b-7dd8-b00d-057e114a1be2",
-      "time": "2026-06-15 20:30:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US New York Fed manufacturing employment index (June) 9.6, up from 8.3 in May."
-    },
-    {
-      "id": "mkt:019ecb42-f278-7dd8-b00c-ff366c5289b2",
-      "time": "2026-06-15 20:30:22",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Employment Index (Jun) | actual 9.6 | previous 8.3"
-    },
-    {
-      "id": "4936616",
-      "time": "2026-06-15 20:30:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨：伊朗協議是以色列完全撤退的前奏。"
-    },
-    {
-      "id": "mkt:019ecb42-c526-7dd8-b00c-f4a6b66bff23",
-      "time": "2026-06-15 20:30:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada April manufacturing shipments m/m +4.2% (consensus +4.5%; prior +3.0%)."
-    },
-    {
-      "id": "mkt:019ecb42-c3fe-7dd8-b00c-eb51de2952ed",
-      "time": "2026-06-15 20:30:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Canada wholesale sales rose 0.6% MoM in April, stronger than the 0.1% consensus; prior month 1.9%."
-    },
-    {
-      "id": "mkt:019ecb42-c332-7dd8-b00c-e48b2deb270c",
-      "time": "2026-06-15 20:30:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US New York Fed manufacturing index for June 5.7, versus 14 expected and 19.6 prior."
-    },
-    {
-      "id": "mkt:019ecb42-a5ef-7dd8-b00c-dfde66d3d583",
-      "time": "2026-06-15 20:30:02",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "HEZBOLLAH says Iran accord is a prelude to Israel's complete withdrawal."
-    },
-    {
-      "id": "mkt:019ecb42-a553-7dd8-b00c-d1f0399dc17b",
-      "time": "2026-06-15 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Wholesale Sales (MoM) (Apr) | actual 0.6% | consensus 0.1% | previous 1.90%"
-    },
-    {
-      "id": "mkt:019ecb42-a1b8-7dd8-b00c-c8dcea4041f2",
-      "time": "2026-06-15 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Sales (MoM) (Apr) | actual 4.2% | consensus 4.50% | previous 3.00%"
-    },
-    {
-      "id": "mkt:019ecb42-9c18-7dd8-b00c-c57cf10c750f",
-      "time": "2026-06-15 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Manufacturing Index (Jun) | actual 5.7 | consensus 14 | previous 19.6"
-    },
-    {
-      "id": "mkt:019ecb42-7a14-7dd8-b00c-bc1e17b5993b",
-      "time": "2026-06-15 20:29:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said Israel will have a voice."
-    },
-    {
-      "id": "mkt:019ecb42-6e06-7dd8-b00c-b4e8948f2bab",
-      "time": "2026-06-15 20:29:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said on Iran that Israel will certainly have a place in the new Middle East order."
-    },
-    {
-      "id": "mkt:019ecb42-2d61-7dd8-b00c-afba4608fd7b",
-      "time": "2026-06-15 20:29:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran to charge for shipping services related to Strait of Hormuz】Iranian media reported on the 15th that foreign ministry spokesman Baghaei said Iran will, during 'specific periods', assume responsibility for managing safe passage through the Strait of Hormuz and will charge for related shipping services."
-    },
-    {
-      "id": "4936615",
-      "time": "2026-06-15 20:29:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗：將對霍爾木茲海峽相關航運服務收費】據伊朗媒體15日報道，伊朗外交部發言人巴加埃當天表示，伊朗將在“特定時期內”負責霍爾木茲海峽安全通行管理，並將對相關航運服務收取費用。（新華社）"
-    },
-    {
-      "id": "4936614",
-      "time": "2026-06-15 20:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯談及伊朗問題：以色列肯定會在新中東格局中佔有一席之地。"
     }
   ]
 }
