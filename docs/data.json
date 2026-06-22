@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-23 01:12:14",
-  "count": 17262,
+  "updated": "2026-06-23 01:16:19",
+  "count": 17267,
   "items": [
+    {
+      "id": "mkt:019ef054-93f7-7dd8-b0c3-064b4a59dfa5",
+      "time": "2026-06-23 01:15:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Mirror reports the UK Labour Party's top governing body will meet Thursday to set the full timetable and rules for a leadership contest, if one takes place."
+    },
+    {
+      "id": "4948805",
+      "time": "2026-06-23 01:13:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度北方邦一商業樓起火 至少15人死亡】據印度媒體報道，印度北方邦首府勒克瑙一棟商業樓22日下午發生火災，截至目前已造成至少15人身亡、7人受傷。 報道說，事故現場救援工作目前仍在進行，死亡人數可能進一步上升。事故發生的具體原因仍在調查中，有官員認為火災可能由地下室空調系統短路產生的火花引發。 報道還說，北方邦首席部長約吉·阿迪蒂亞納特已要求有關部門繼續全力搜救倖存者並對傷者進行妥善治療。（新華社）"
+    },
+    {
+      "id": "4948804",
+      "time": "2026-06-23 01:13:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表態支援布魯斯·布萊克曼競選紐約州州長。"
+    },
+    {
+      "id": "4948803",
+      "time": "2026-06-23 01:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士聯邦外交部：瑞士對美、伊、巴、卡四國在比爾根施托克開展密集外交磋商並取得建設性進展表示歡迎。 各方依據諒解備忘錄成立高階別委員會，並商定60天內達成最終協議的路線圖，上述積極舉措為下一階段談判搭建框架，也便於各方即刻開展技術性磋商。 瑞士願繼續發揮斡旋作用，助力各方開展對話、緩和局勢，維護地區穩定與和平。"
+    },
+    {
+      "id": "mkt:019ef051-cf07-7dd8-b0c2-fd0473689b76",
+      "time": "2026-06-23 01:12:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland's foreign ministry said it will continue to mediate, supporting dialogue and de-escalation to preserve regional stability and peace."
+    },
+    {
+      "id": "mkt:019ef051-a3bd-7dd8-b0c2-f2162af0d4b0",
+      "time": "2026-06-23 01:12:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland's foreign ministry said it has set up a high-level committee under a memorandum of understanding and agreed a roadmap to reach a final agreement within 60 days, calling the measures positive and saying they provide a framework for the next phase and enable immediate technical talks."
+    },
+    {
+      "id": "mkt:019ef051-848e-7dd8-b0c2-efbfda6fc56c",
+      "time": "2026-06-23 01:12:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland's Foreign Ministry said it welcomed constructive progress from intensive diplomatic talks involving the United States, Iran, Pakistan and Qatar held at Bürgenstock."
+    },
     {
       "id": "mkt:019ef050-c3ec-7dd8-b0c2-e23f14ca68b9",
       "time": "2026-06-23 01:11:25",
@@ -158575,23 +158631,6 @@
         "The Fed (FOMC)"
       ],
       "text": "The Federal Reserve accepted $581 mln from eight counterparties in a fixed‑rate reverse repo operation."
-    },
-    {
-      "id": "4936997",
-      "time": "2026-06-16 01:15:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週一（6月15日），美聯儲隔夜逆回購協議（RRP）使用規模為5.81億美元（交易對手8家），上個交易日報4.54億美元。"
-    },
-    {
-      "id": "4936996",
-      "time": "2026-06-16 01:12:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩： 與加拿大總理卡尼進行了富有成效的會談。 雙方正圍繞數字貿易、關鍵原材料及防務領域開展合作。 同時我們也在深化能源層面的協作。 下一屆加歐峰會將於 10 月 29 日至 30 日在加拿大舉辦，此次峰會將成為雙邊夥伴關係持續向縱深、更廣維度發展的重要里程碑。"
     }
   ]
 }
