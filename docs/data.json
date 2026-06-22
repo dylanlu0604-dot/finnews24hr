@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-23 04:56:57",
-  "count": 17324,
+  "updated": "2026-06-23 05:01:03",
+  "count": 17321,
   "items": [
+    {
+      "id": "mkt:019ef122-314b-7dd8-b0c6-0d79b5134487",
+      "time": "2026-06-23 05:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea June consumer confidence index 106.6, versus 106.1 previously."
+    },
+    {
+      "id": "4948977",
+      "time": "2026-06-23 05:00:09",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國6月消費者信心指數 106.6，前值106.1。"
+    },
+    {
+      "id": "mkt:019ef122-09e0-7dd8-b0c6-05df8f15d3a8",
+      "time": "2026-06-23 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Consumer Confidence Index (Jun) | actual 106.6 | previous 106.1"
+    },
     {
       "id": "4948976",
       "time": "2026-06-23 04:55:23",
@@ -159070,59 +159099,6 @@
         "公司"
       ],
       "text": "歐萊雅加拿大公司：旗下SalonCentric Canada收購Cantin Beauté全部資產。"
-    },
-    {
-      "id": "4937157",
-      "time": "2026-06-16 05:01:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【比利時1-1戰平埃及】美加墨世界盃小組賽G組首輪，比利時1比1戰平埃及，兩隊各收穫一分。"
-    },
-    {
-      "id": "mkt:019ecd15-a7cb-7dd8-b016-d9c3b15a3b40",
-      "time": "2026-06-16 05:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea May export price index YoY 46.9%; prior reading revised to 41.3% from 40.8%."
-    },
-    {
-      "id": "mkt:019ecd15-a39b-7dd8-b016-d10b0f56a132",
-      "time": "2026-06-16 05:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea May import price index YoY 24.8%; prior value revised from 20.20% to 20.5%."
-    },
-    {
-      "id": "mkt:019ecd15-8607-7dd8-b016-c378d8372a10",
-      "time": "2026-06-16 05:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Export Price Index (YoY) (May) | actual 46.9% | previous 40.80%"
-    },
-    {
-      "id": "mkt:019ecd15-8636-7dd8-b016-cb89f985fafd",
-      "time": "2026-06-16 05:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Import Price Index (YoY) (May) | actual 24.8% | previous 20.20%"
-    },
-    {
-      "id": "4937156",
-      "time": "2026-06-16 04:59:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【多艘伊朗船隻順利透過美方海上封鎖區】據伊朗方面當地時間16日訊息，3艘油輪和2艘載有伊朗基本物資的船隻已突破美國方面實施的海上封鎖。另有訊息稱，多艘伊朗船隻順利穿過封鎖區。根據船舶航行資料，一艘伊朗超大型原油運輸船正從國際水域駛向伊朗港口，並已透過封鎖區域。一艘運載牲畜飼料的船隻也已穿過封鎖區域，正在駛往伊朗。此外，另一艘滿載原油的伊朗油輪已透過阿曼灣及封鎖線，正駛向其出口目的地。"
     }
   ]
 }
