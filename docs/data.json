@@ -1,7 +1,139 @@
 {
-  "updated": "2026-06-23 05:05:10",
-  "count": 17320,
+  "updated": "2026-06-23 05:09:13",
+  "count": 17330,
   "items": [
+    {
+      "id": "mkt:019ef129-fecb-7dd8-b0c6-377bfbe639be",
+      "time": "2026-06-23 05:08:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's GOOLSBEE said he needs to assess whether the current inf will be persistent."
+    },
+    {
+      "id": "4948987",
+      "time": "2026-06-23 05:07:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：服務業通脹形勢略顯令人擔憂。"
+    },
+    {
+      "id": "mkt:019ef128-fba5-7dd8-b0c6-2d52515fa581",
+      "time": "2026-06-23 05:07:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's GOOLSBEE said more evidence is needed to show the current bout of inf is temporary; services‑sector inf is mildly concerning."
+    },
+    {
+      "id": "mkt:019ef128-b417-7dd8-b0c6-21dbc58f0eac",
+      "time": "2026-06-23 05:07:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "USDJPY"
+      ],
+      "text": "Fed's Goolsbee said the US has not yet experienced a stagflation shock and the labor market has remained stable."
+    },
+    {
+      "id": "mkt:019ef128-671d-7dd8-b0c6-1ab8f6bfc981",
+      "time": "2026-06-23 05:06:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romania's prime minister-designate failed to win parliamentary approval for the proposed cabinet."
+    },
+    {
+      "id": "4948986",
+      "time": "2026-06-23 05:06:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【羅馬尼亞候任總理提交的內閣名單未獲議會透過】當地時間6月22日晚，羅馬尼亞參眾兩院聯席會議對候任總理阿德里安·韋什泰亞此前向議會提交的內閣成員名單和施政綱領進行投票。議會以189票贊成、23票反對否決了阿德里安·韋什泰亞的內閣成員名單。據悉，根據相關程式，羅馬尼亞總統達恩需再次提名新的總理人選。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ef128-2d2d-7dd8-b0c6-11fc34399d98",
+      "time": "2026-06-23 05:06:42",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "GOOLSBEE said markets remain stable; inf is well above target and the trend is unfavorable."
+    },
+    {
+      "id": "te:markets:560872",
+      "time": "2026-06-23 05:06:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Gains on US-Iran Peace Progress — The Ibovespa rose 1.2% to close at 170,370 on Monday as progress in peace talks between the US and Iran boosted market sentiment. US Vice President JD Vance and Iran’s Foreign Minister took part in negotiations in Switzerland, with mediators from Qatar and Pakistan reporting encouraging progress, including the establishment of a framework for future technical talks. Both sides agreed on a roadmap to reach a final agreement within 60 days. Oil prices declined, pushing bond yields lower and easing concerns over energy-driven inflation. Major banks led gains, with Itaú up 2.7% and Bradesco rising 1.8%. Utilities also advanced, with Axia up 2% and Sabesp gaining 3.5%. Petrobras rose 0.9% despite lower oil prices, supported by the payment of its latest interest on equity installment and the signing of a memorandum of understanding with Pemex. Retailers also contributed to gains, with Azzas surging 10.3% after presenting alternatives for Farm."
+    },
+    {
+      "id": "4948985",
+      "time": "2026-06-23 05:06:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比： 我們尚未遭遇滯脹衝擊，就業市場保持穩定。"
+    },
+    {
+      "id": "4948984",
+      "time": "2026-06-23 05:06:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比： 通脹遠高於目標水平，且走勢趨於惡化。"
+    },
+    {
+      "id": "4948983",
+      "time": "2026-06-23 05:05:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "Apollo私人信用基金將投資者贖回上限設在5%。"
+    },
+    {
+      "id": "4948982",
+      "time": "2026-06-23 05:05:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比： 不後悔投出反對票。"
+    },
+    {
+      "id": "4948981",
+      "time": "2026-06-23 05:05:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：市場當前整體保持穩定。"
+    },
     {
       "id": "4948980",
       "time": "2026-06-23 05:03:09",
@@ -159062,31 +159194,6 @@
         "國際"
       ],
       "text": "真主黨：用火箭彈和炮彈襲擊了黎巴嫩南部的以色列軍隊，衝突仍在繼續。"
-    },
-    {
-      "id": "4937161",
-      "time": "2026-06-16 05:09:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：不打算透過財經通訊社釋出季度、年度財務業績及其他重大事項公告，將主要透過公司官網投資者關係板塊以及旗下X平臺賬號向公眾釋出重大資訊。"
-    },
-    {
-      "id": "mkt:019ecd1c-41e3-7dd8-b016-f346eca25109",
-      "time": "2026-06-16 05:07:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O) said it will not distribute quarterly or annual earnings or other material announcements via Telegram; it will publish material information primarily on its investor-relations webpage and its X account."
-    },
-    {
-      "id": "4937160",
-      "time": "2026-06-16 05:06:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "英國金融時報：若伊核協議得到維持，特朗普政府正考慮設立規模3000億美元的基金供伊朗使用。"
     }
   ]
 }
