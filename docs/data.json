@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-23 06:01:53",
-  "count": 17313,
+  "updated": "2026-06-23 06:05:58",
+  "count": 17312,
   "items": [
+    {
+      "id": "4949005",
+      "time": "2026-06-23 06:02:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【白宮將召集武器製造商開會 在庫存承壓之際推動加大彈藥生產】白宮本週將召集防務承包商開會，推動加大彈藥生產；與伊朗近四個月的戰爭後，庫存正承受壓力。美國總統唐納德·特朗普確認了這次會議。白宮一名官員此前表示，會議將於週三舉行。“我們確實在大力推動武器生產，一些汽車公司如果有多餘產能，正在達成協議來製造導彈，特別是愛國者，”特朗普週一在白宮對記者表示，“我們已經有不少，但希望確保始終擁有大量庫存。”一位知情人士透露，RTX Corp.預計將參加討論。"
+    },
+    {
+      "id": "4949004",
+      "time": "2026-06-23 06:02:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率為63.7%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為63.7%，累計加息25個基點的機率為36.3%。 美聯儲到9月維持利率不變的機率為26.1%，累計加息25個基點的機率為52.5%，累計加息50個基點的機率為21.4%。"
+    },
+    {
+      "id": "4949003",
+      "time": "2026-06-23 06:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破66美元/盎司，日內跌0.70%。"
+    },
     {
       "id": "4949002",
       "time": "2026-06-23 06:00:34",
@@ -158990,44 +159017,6 @@
         "市場"
       ],
       "text": "鈀金期貨日內跌1%，現報1347.50美元/盎司。"
-    },
-    {
-      "id": "te:economy:559121",
-      "time": "2026-06-16 06:05:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Import Prices YoY",
-        "Importance 1"
-      ],
-      "text": "South Korea Import Prices Rise in May — South Korea’s import prices rose 24.8% year-on-year in May 2026, accelerating from a 20.2% increase in April. Price gains were led by raw materials, which climbed 38.9%, driven by a 42.4% increase in mining product prices. Intermediate goods prices rose 26.8%, reflecting sharp increases in coal and petroleum products (73.1%), basic metal products (32.8%), chemical products (26.1%), and computers, electronic and optical equipment (23.2%). Meanwhile, prices of capital goods increased 4.8%, while consumer goods prices rose 6.3%."
-    },
-    {
-      "id": "4937187",
-      "time": "2026-06-16 06:04:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲6月維持利率不變的機率為98.5%】據CME“美聯儲觀察”：美聯儲6月維持利率不變的機率為98.5%，累計降息25個基點的機率為1.5%。美聯儲到7月維持利率不變的機率為91.3%，累計加息25個基點的機率7.4%，累計降息25個基點的機率為1.4%。"
-    },
-    {
-      "id": "4937186",
-      "time": "2026-06-16 06:02:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際足聯維持禁令：世界盃賽事前禁止使用伊朗君主制舊旗幟。"
-    },
-    {
-      "id": "mkt:019ecd4e-8a27-7dd8-b017-4ef046e82e8b",
-      "time": "2026-06-16 06:02:16",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "【Musk's net worth jumps about $139bn in one day】Bloomberg data showed Musk's net worth rose $139bn in one day to above $1.11tn after SpaceX (SPCX.O) closed up nearly 20%."
     }
   ]
 }
