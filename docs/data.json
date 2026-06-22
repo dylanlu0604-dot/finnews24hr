@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-22 19:51:01",
-  "count": 17279,
+  "updated": "2026-06-22 19:55:21",
+  "count": 17275,
   "items": [
+    {
+      "id": "te:markets:560793",
+      "time": "2026-06-22 19:54:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Trade Muted — US stock futures were flat on Monday, holding the rebound from the last week on fresh optimism that peace in the Middle East would re-establish energy supply from the region. Contracts for the S&P 500, Nasdaq 100, and Dow were flat in the session to remain near their all-time highs. Iran stated there was major progress in the recent discussions with the US as both sides agreed to reach a peace deal within two months. Prices for energy commodities fell further on hopes of restored supply, although lingering expectations of a hawkish Fed following last week's meetings prevented support for Treasuries. Chip producers extended their historic rally from this year pre-market, contrasting with the recent lag for AI hyperscalers as their soaring levels of AI infrastructure investment sparked lingering skepticism on whether returns will be able to match outlays. Meanwhile, AbbVie added 1% after agreeing to buy Apogee Therapeutics in a $10.9 billion cash deal."
+    },
+    {
+      "id": "4948331",
+      "time": "2026-06-22 19:54:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一，道指期貨漲0.08%，標普500指數期貨跌0.05%，納指期貨漲0.14%。\n②德國DAX指數跌0.20%，英國富時100指數漲0.42%，法國CAC40指數跌0.50%，歐洲斯托克50指數漲0.14%。\n③WTI原油跌0.80%，報75.24美元/桶。布倫特原油跌1.74%，報78.66美元/桶。\n④伊朗宣佈：經過18小時談判，伊美達成協議檔案。\n⑤卡達、巴基斯坦釋出聯合宣告：美伊首輪高階別會談落幕，取得令人鼓舞的進展。\n⑥英國首相宣佈辭職，英國執政黨工黨的新黨首提名程式將會從7月9日開始。\n⑦SpaceX盤前跌超4%，預計連續第三個交易日下跌。KeyBanc資本市場對該股首次給予中性評級，並指出，儘管長期來看存在諸多高增長路徑，但短期內風險回報比似乎較為平衡。\n⑧英特爾盤前漲超3%，聯電漲6.8%，據報雙方將合作開發3nm晶片。\n⑨Apogee Therapeutics盤前漲53.78%，報138.98美元。據外媒，製藥巨頭艾伯維正接近達成一項協議，擬以約109億美元現金收購Apogee Therapeutics。"
+    },
+    {
+      "id": "4948330",
+      "time": "2026-06-22 19:52:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Getty Images美股盤前一度暴漲近300%】全球視覺內容平臺Getty Images美股盤前一度暴漲近300%，現漲129%。"
+    },
+    {
+      "id": "4948329",
+      "time": "2026-06-22 19:51:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天原股份：向控股股東發行股票募資不超4.79億元】天原股份公告稱，公司擬向控股股東宜賓發展發行股票，募集資金不超過4.79億元，發行股票數量不超96,144,578股。2026年6月22日，公司與宜賓發展簽署《補充協議(二)》，對發行的定價基準日、發行價格、發行數量進行調整。本次發行尚需深交所稽核透過，並取得中國證監會同意註冊的批覆。發行完成後，公司控制權不變，將提升資金實力、盈利能力及償債能力。2026年初至公告日，公司與宜賓發展累計已發生關聯採購162.74萬元、關聯銷售123.83萬元。"
+    },
+    {
+      "id": "4948328",
+      "time": "2026-06-22 19:51:37",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中船特氣：股價累計漲幅388.77%，6月23日起停牌核查】中船特氣公告，公司股票價格自2026年5月11日至2026年6月22日期間多次觸及股票交易異常波動及嚴重異常波動，累計漲幅388.77%（經前復權計算）。為維護投資者利益，公司將就股票交易波動情況進行停牌核查，股票將於2026年6月23日（星期二）開市起停牌，自披露核查公告後復牌。截至2026年6月18日，公司滾動市盈率535.1倍，靜態市盈率557.73倍，顯著高於同行業平均水平。公司提醒投資者注意二級市場交易風險。"
+    },
+    {
+      "id": "mkt:019eef2b-0f52-7dd8-b0bb-218d17322e8f",
+      "time": "2026-06-22 19:50:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar says issues including the Washington-Tehran nuclear file are under review."
+    },
+    {
+      "id": "4948327",
+      "time": "2026-06-22 19:50:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：卡達方面表示，華盛頓與德黑蘭之間的核問題等議題正在審議中。"
+    },
     {
       "id": "4948326",
       "time": "2026-06-22 19:50:09",
@@ -158656,110 +158718,6 @@
         "Impact bullish"
       ],
       "text": "ECB expands its private credit probe to additional banks as concerns mount."
-    },
-    {
-      "id": "4936537",
-      "time": "2026-06-15 19:55:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：著力穩市場、強保障、優服務，努力實現商品住房供需平衡、價格總體穩定】上海市委副書記、市長龔正今天（6月15日）主持召開市政府常務會議，要求按照市委部署，持續推動上海國際貿易中心提質升級；推進鄉村全面振興取得實質性新成效；高質量推進城市更新和住房發展；把“一江一河”沿岸地區打造成世界級濱水區。會議原則同意《上海市城市更新和住房發展“十五五”規劃》並指出，要高質量開展城市更新行動，加快構建房地產發展新模式，著力建設創新、宜居、美麗、韌性、文明、智慧的現代化人民城市。要堅持規劃引領，突出民生優先、提質增效、文脈傳承，以城市更新塑造人民城市新空間。要堅持租購併舉，以住房發展繪就宜居上海新畫卷。著力穩市場、強保障、優服務，努力實現商品住房供需平衡、價格總體穩定，推動保障性租賃住房擴容提質，推動業委會應建盡建，破解小區物業服務難題。"
-    },
-    {
-      "id": "mkt:019ecb22-b5ae-7dd8-b00b-3d01e41e88c1",
-      "time": "2026-06-15 19:55:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai to stabilise market, bolster support and services; seeks market-rate housing supply-demand balance and price stability】Shanghai deputy party secretary and Mayor Gong Zheng chaired a municipal executive meeting on June 15 that in principle approved the city’s 15th Five-Year Plan for urban renewal and housing development. The plan directs high-quality urban renewal and a faster shift to a new real-estate development model, endorses a rent-and-buy approach, and sets targets to balance supply and demand for market-rate housing and keep overall prices stable; it also calls for expanding and upgrading guaranteed rental housing, accelerating construction of homeowners’ committees where required, resolving community property-management issues, and developing waterfront districts along the city’s main waterways."
-    },
-    {
-      "id": "mkt:019ecb22-70bd-7dd8-b00b-35c03ef2f8bd",
-      "time": "2026-06-15 19:54:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry spokesman Baghaei said regional visits are on the agenda ahead of a trip to Switzerland to sign an agreement with the United States."
-    },
-    {
-      "id": "4936536",
-      "time": "2026-06-15 19:54:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃：過去四個小時的事態發展表明，伊朗與美國已敲定一份諒解備忘錄，旨在結束由美國及猶太復國主義政權針對伊朗在包括黎巴嫩在內的所有戰線上發動的戰爭。"
-    },
-    {
-      "id": "4936535",
-      "time": "2026-06-15 19:53:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交官巴加埃表示，在瑞士與美國簽署協議前，地區訪問已列入議程。"
-    },
-    {
-      "id": "mkt:019ecb21-99dc-7dd8-b00b-2afb0726cb1b",
-      "time": "2026-06-15 19:53:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Iranian foreign ministry spokesman BAGHAEI said developments over the past four hours indicate Iran and the United States have finalized a memorandum of understanding to end wars launched by the United States and the Zionist regime against Iran on all fronts, including Lebanon."
-    },
-    {
-      "id": "4936534",
-      "time": "2026-06-15 19:53:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行擴大私募信貸關聯調查範圍 所覆蓋銀行的數量翻番】在私募信貸行業面臨投資者信心下滑之際，歐洲央行已將一項針對銀行與私募信貸關聯的調查所覆蓋的銀行數量擴大一倍。據知情人士透露，歐洲央行今年要求20多家銀行提供更多有關其敞口的細節，高於先前評估的十幾家。知情人士表示，與私募信貸有實質性關聯的銀行將必須每年報告相關細節。由於相關溝通並未公開，知情人士要求匿名。歐洲央行的一位發言人不予置評。儘管歐洲央行的監督行動是在過去兩年類似工作的基礎上推進的，但近幾個月來，隨著一些基金被迫限制贖回，外界對該行業的關注升溫。央行擔心，傳統銀行在識別自身對私募信貸的敞口方面存在缺陷，儘管該業務在歐元區的規模小於美國。"
-    },
-    {
-      "id": "mkt:019ecb20-47a9-7dd8-b00b-265d36acb0e5",
-      "time": "2026-06-15 19:52:30",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran Foreign Ministry spokesman BAGHAEI said respecting Lebanon's sovereignty and territorial integrity is part of a temporary agreement reached with the United States."
-    },
-    {
-      "id": "4936533",
-      "time": "2026-06-15 19:52:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，尊重黎巴嫩的主權與領土完整是伊朗與美國達成的臨時協議的內容之一。"
-    },
-    {
-      "id": "4936532",
-      "time": "2026-06-15 19:51:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【煒岡科技：股東減持計劃實施完成 累計減持2.98%股份】煒岡科技公告稱，公司實際控制人的一致行動人周翔控制的煒仕投資，於2026年3月13日至6月12日期間，透過集中競價和大宗交易方式累計減持公司股份425.58萬股，佔公司總股本比例為2.98%。截至公告披露日，減持計劃已實施完畢，煒仕投資目前持有公司股份5.54萬股，佔公司總股本的0.04%。本次減持不會對公司經營穩定性與治理結構造成不利影響。"
-    },
-    {
-      "id": "mkt:019ecb1f-3d18-7dd8-b00b-1b55cb83ff45",
-      "time": "2026-06-15 19:51:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "JP Morgan: A sharp fall in oil prices could be a powerful catalyst for equities, potentially reigniting the broad rally that was interrupted by the outbreak of conflict with Iran."
     }
   ]
 }
