@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-22 08:17:22",
-  "count": 17335,
+  "updated": "2026-06-22 08:21:17",
+  "count": 17332,
   "items": [
+    {
+      "id": "4946881",
+      "time": "2026-06-22 08:20:38",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會】中信證券研報指出，Anthropic是全球AI演算法與應用開發的領軍者，是組織文化、戰略聚焦、技術創新等驅動非線性增長的代表。公司專注Coding生態與企業對安全性的需求，依靠技術快速迭代Claude模型，持續放大領先優勢，在2B市場實現了對OpenAI的反超，成為全球ARR增長最快AI企業之一。當前公司產品商業化持續提速，2026年5月ARR達470億美元。當前大模型產業處於技術與商業雙重拐點，看好具備SOTA能力溢價的頭部模型廠商及AI基建、AI應用的投資機會。後續重點跟蹤商業化產品形態、模型廠商競爭格局演變及收入利潤增長曲線等。"
+    },
+    {
+      "id": "4946880",
+      "time": "2026-06-22 08:19:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科大訊飛：公司產品及服務價格隨著市場供需等因素進行動態調整】關於公司是否有漲價計劃的問題，科大訊飛(002230)在互動平臺表示，公司產品及服務價格隨著市場供需、成本變化及客戶需求等因素進行動態調整。請投資者理性判斷市場熱點，注意投資風險。"
+    },
+    {
+      "id": "4946879",
+      "time": "2026-06-22 08:18:35",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：頭部半導體裝置公司將繼續受益於強勁的邏輯與儲存需求】中信證券研報稱，根據SEMI資料，2025年全球WFE市場規模同比增長12%至1173億美元；我們預計2026年、2027年全球WFE市場規模將分別同比增長26%/35%至1,478/1,995億美元，其中2027年下游Foundry/邏輯預計佔比52%、儲存預計佔比39%（DRAM和NAND佔比分別提升至24%、15%）。考慮到大客戶積極的資本開支指引以及擴產計劃，我們認為頭部半導體裝置公司將繼續受益於強勁的邏輯與儲存需求。結合下游市場需求、競爭格局、裝置支出強度、公司業績以及估值情況，我們重點推薦先進光刻龍頭，EUV以及DUV出貨量存在上修空間的標的；DRAM領域優勢突出，估值相對較低的標的；刻蝕優勢領先，NAND收入佔比最高的標的；建議關注量檢測需求提升，但利潤率仍可能存在短期逆風因素的標的。"
+    },
     {
       "id": "4946878",
       "time": "2026-06-22 08:16:40",
@@ -159491,64 +159517,6 @@
         "Impact bullish"
       ],
       "text": "Japan 10-year government bond yield fell 6 bps to 2.575%; 20-year yield fell 6 bps to 3.460%."
-    },
-    {
-      "id": "4935046",
-      "time": "2026-06-15 08:21:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌6.0個基點，至2.575%。"
-    },
-    {
-      "id": "te:markets:558837",
-      "time": "2026-06-15 08:21:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Advantest Stock Price Hits 4-week High — Advantest shares increased to 28715.00 JPY, the highest since May 2026. Over the past 4 weeks, Advantest gained 1.5%, and in the last 12 months, it increased 237.66%."
-    },
-    {
-      "id": "mkt:019ec8a7-512f-7dd8-aff9-967e06dedf69",
-      "time": "2026-06-15 08:21:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Media: Israeli strike on Beirut accelerated Trump agreement to lift US maritime blockade on Iran】Amwaj reported that after an Israeli strike on Beirut, President Trump agreed to accelerate lifting the US maritime blockade on Iran. Under the reported US‑Iran accord the blockade would be lifted immediately; 24 hours earlier the plan had been to phase it out over 30 days."
-    },
-    {
-      "id": "4935045",
-      "time": "2026-06-15 08:20:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "軟銀集團股價漲幅擴大至11%。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202606143770734678",
-      "time": "2026-06-15 08:18:05",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【增加DR等利率作為浮動利率存單參考計息基準 央行就大額存單管理辦法徵求意見】日前，中國人民銀行就《大額存單管理辦法》公開徵求意見。對比此前各項規定與最新徵求意見稿，徵求意見稿增加存款類金融機構債券回購利率（DR）或其他中國人民銀行認可的利率作為浮動利率存單的參考計息基準，豐富大額存單定價參考指標。"
-    },
-    {
-      "id": "4935044",
-      "time": "2026-06-15 08:17:29",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：SpaceX首日大漲 大航天時代起航】中信證券研報稱，6月12日SpaceX在納斯達克上市，首日大漲約19%，本次IPO募資約750億美元，成為全球有史以來規模最大的IPO，料將有力支撐SpaceX火箭和衛星迭代，並開拓包括太空算力在內的AI廣闊空間。儘管由於商業火箭客觀特點，國內可回收等發射節奏時有波動，但更需看到可回收技術突破後產業能夠實現指數級別增長的潛力，以及太空算力更廣闊的產業空間，聚焦“核心資產”及“通脹環節”。"
     }
   ]
 }
