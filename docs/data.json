@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-23 06:49:48",
-  "count": 17315,
+  "updated": "2026-06-23 06:53:50",
+  "count": 17311,
   "items": [
+    {
+      "id": "te:markets:560881",
+      "time": "2026-06-23 06:49:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Trade Flat in Morning Session — The NZX 50 was almost flat, trading around 13,453 in Tuesday morning trade after falling in the prior session, as gains in industrials, consumer staples, and real estate stocks were offset by declines in energy, communication services, and healthcare. Traders also anticipated the release of the US final Q1 GDP data and the May PCE Price Index, due this week, for clues on the Fed's monetary policy decision at its upcoming meeting, after it held interest rates steady last week. Investors also continued to monitor developments in US-Iran peace talks amid Israel's attacks across southern Lebanon despite ongoing diplomatic efforts. Turners Automotive Group advanced 1.5%, A2 Milk rose 1.2%, and Ryman Healthcare climbed 0.9%, while Meridian Energy, Summerset Group, and Auckland International Airport fell 0.7%, 0.6%, and 0.5%, respectively."
+    },
     {
       "id": "4949030",
       "time": "2026-06-23 06:48:44",
@@ -158999,50 +159011,6 @@
         "國際"
       ],
       "text": "美國汽油自4月以來首次跌破每加侖4美元。"
-    },
-    {
-      "id": "4937211",
-      "time": "2026-06-16 06:53:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽爆炸聲或與交通管理有關】據伊朗方面當地時間16日訊息，霍爾木茲海峽和伊朗格什姆島南部傳出三次爆炸聲。前兩次爆炸發生在15日夜間，第三次爆炸發生在16日凌晨。訊息稱，這些爆炸發生在霍爾木茲海峽區域。據初步報告，爆炸很可能與該海峽的航運交通管理有關。截至目前，伊朗伊斯蘭革命衛隊和當地官方機構尚未就此次事件的具體細節作出回應。（央視新聞）"
-    },
-    {
-      "id": "te:economy:559127",
-      "time": "2026-06-16 06:53:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Food Inflation",
-        "Importance 1"
-      ],
-      "text": "New Zealand Food Inflation Accelerates to 3.2% in May — Annual food inflation in New Zealand accelerated to 3.2% in May 2026 from April’s 14-month low of 2.6%, the first acceleration in three months. The increase was mainly driven by meat, poultry, and fish; fruit and vegetables; and grocery food prices. On a monthly basis, food prices rose 1.0% after being flat in April."
-    },
-    {
-      "id": "4937210",
-      "time": "2026-06-16 06:52:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：本田或將下調400萬輛電動摩托產銷目標。"
-    },
-    {
-      "id": "4937209",
-      "time": "2026-06-16 06:51:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【可吞服感測器能持續監測胃腸道溫度】美國麻省理工學院研究團隊開發出一種微型可吞服感測器，可在胃腸道內持續監測核心體溫，並每秒傳送一次資料，為感染預警、麻醉監測和家庭健康管理提供了一種更精準的新工具。相關研究發表於新一期《自然·電子學》雜誌。"
-    },
-    {
-      "id": "4937208",
-      "time": "2026-06-16 06:51:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【高透光高導電有機發光二極體製成】韓國首爾國立大學工程學院科學家研製出一款高效能有機發光二極體，整合了高導電性透明金屬電極，透光率超過93%，有望在先進顯示器等眾多領域大顯身手。相關論文發表於新一期英國皇家化學學會旗下的《材料視野》雜誌，並被選為封面文章。"
     }
   ]
 }
