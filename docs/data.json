@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-23 02:05:36",
-  "count": 17278,
+  "updated": "2026-06-23 02:09:41",
+  "count": 17273,
   "items": [
+    {
+      "id": "te:markets:560858",
+      "time": "2026-06-23 02:08:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Corning Stock Price Hits 5-week High — Corning shares increased to 208.64 USD, the highest since May 2026. Over the past 4 weeks, Corning gained 6.31%, and in the last 12 months, it increased 302.59%."
+    },
+    {
+      "id": "mkt:019ef084-9b30-7dd8-b0c3-a68ffd9ff407",
+      "time": "2026-06-23 02:08:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says Ukrainian strike on Voronezh region killed five】Voronezh region governor Alexander Gusev said on social media on the 22nd that Ukrainian forces fired missiles into the region, killing five. He said Russian air-defence systems detected and destroyed several high-speed aerial targets over Voronezh. A production facility at a local enterprise was damaged; facades and windows of 10 residential buildings were damaged and multiple vehicles destroyed."
+    },
+    {
+      "id": "mkt:019ef084-1ec2-7dd8-b0c3-9a5e6174de4d",
+      "time": "2026-06-23 02:07:30",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) shares rose 19%."
+    },
+    {
+      "id": "mkt:019ef083-b456-7dd8-b0c3-954a76a1f29e",
+      "time": "2026-06-23 02:07:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran exported 30 mln barrels of crude in week before U.S. lifted sanctions exemptions】As the U.S. lifted sanctions on related cargoes and permitted more buyers, over 30 mln barrels of Iranian crude flowed to Asia in the past week, including previously blocked cargoes and volumes from Kharg Island, Iran’s largest export terminal in the northern Persian Gulf. The surge — pushing shipments to about 2.0 mln bpd, a recent high for Iran — mainly reflects a clearing of blocked cargoes and may prove temporary; export rates could fall thereafter. In the near term Tehran stands to benefit as expanded exemptions widen the buyer pool and allow it to raise sales with smaller price discounts."
+    },
     {
       "id": "mkt:019ef080-b32f-7dd8-b0c3-88cb06c05975",
       "time": "2026-06-23 02:03:46",
@@ -158587,103 +158634,6 @@
         "MKT News"
       ],
       "text": "Israel's prime minister NETANYAHU said Israel will continue to thwart threats in the region."
-    },
-    {
-      "id": "mkt:019ecc79-77d9-7dd8-b015-4ec9193a031e",
-      "time": "2026-06-16 02:09:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli Prime Minister NETANYAHU said Israel will remain stationed in the security zone for as long as necessary to protect the country."
-    },
-    {
-      "id": "mkt:019ecc79-046b-7dd8-b015-40ca45803d78",
-      "time": "2026-06-16 02:09:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel has established deep security zones around Lebanon, the Gaza Strip and Syria."
-    },
-    {
-      "id": "mkt:019ecc78-d4a1-7dd8-b015-3c17928fd83f",
-      "time": "2026-06-16 02:08:51",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Netanyahu said Israel killed Nasrallah and prevented an incursion into the Galilee region."
-    },
-    {
-      "id": "mkt:019ecc78-b4a2-7dd8-b015-3234a2e7670a",
-      "time": "2026-06-16 02:08:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister Netanyahu said Israel carried out a Pager operation that eliminated thousands of Hezbollah terrorists."
-    },
-    {
-      "id": "mkt:019ecc77-feef-7dd8-b015-2ae93c806a13",
-      "time": "2026-06-16 02:07:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said the military operation is not over and Israel must continue to bolster its forces."
-    },
-    {
-      "id": "mkt:019ecc76-9b55-7dd8-b015-2561d3bde64e",
-      "time": "2026-06-16 02:06:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel's Prime Minister NETANYAHU said without action by the U.S. and Israel, Iran would possess nuclear weapons."
-    },
-    {
-      "id": "mkt:019ecc76-7970-7dd8-b015-1f49378cfd31",
-      "time": "2026-06-16 02:06:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Prime Minister Netanyahu said Iran will need years to recover."
-    },
-    {
-      "id": "mkt:019ecc76-567a-7dd8-b015-14c155d209a2",
-      "time": "2026-06-16 02:06:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Prime Minister NETANYAHU said Israel has inflicted massive damage on Iran's economy, with some estimates as high as US$1 trillion."
-    },
-    {
-      "id": "mkt:019ecc75-e560-7dd8-b015-0e17ca8499d8",
-      "time": "2026-06-16 02:05:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israel's prime minister Benjamin Netanyahu said fighting Iran's nuclear program is his life's mission and that Iran will not be allowed to acquire nuclear weapons whether or not a deal is reached. He said Israel has removed a direct threat to its survival."
     }
   ]
 }
