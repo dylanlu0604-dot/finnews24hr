@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-23 05:17:17",
-  "count": 17328,
+  "updated": "2026-06-23 05:21:22",
+  "count": 17325,
   "items": [
+    {
+      "id": "te:markets:560873",
+      "time": "2026-06-23 05:19:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Colombia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "COLCAP Drops After Tight Election Result — The MSCI COLCAP index fell 4.4% to close at 2,393 on June 22, reversing part of its recent rally after one of the tightest presidential elections in Colombian history. Optimism following the victory of Abelardo de la Espriella faded as investors assessed the narrow margin of victory and the challenges it may pose for implementing market-friendly reforms. The right-wing outsider secured the presidency with a lead of roughly one percentage point over leftist Senator Iván Cepeda, disappointing investors who had hoped for a stronger mandate. De la Espriella has pledged to reduce Colombia’s widening budget deficit while supporting coal mining and oil drilling to strengthen fiscal revenues. Financial and energy stocks led losses, with Cibest down 5.3% and Ecopetrol plunging 8.5%."
+    },
     {
       "id": "4948992",
       "time": "2026-06-23 05:15:44",
@@ -159131,44 +159143,6 @@
         "MKT News"
       ],
       "text": "【Vance: U.S.-Iran memorandum roughly one-and-a-half pages】CNN reported U.S. Vice President Vance said the U.S.-Iran memorandum is roughly one-and-a-half pages and is therefore very vague."
-    },
-    {
-      "id": "mkt:019ecd26-e73a-7dd8-b017-1119e4346d5a",
-      "time": "2026-06-16 05:18:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Mehr news agency reported three explosions heard south of Qeshm Island in the Strait of Hormuz; explosions may be related to maritime traffic management."
-    },
-    {
-      "id": "4937170",
-      "time": "2026-06-16 05:18:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社表示，霍爾木茲海峽地區發生的爆炸事件可能與通航管控有關。"
-    },
-    {
-      "id": "4937169",
-      "time": "2026-06-16 05:18:26",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社表示，霍爾木茲海峽格什姆島南部傳出三聲爆炸聲響。"
-    },
-    {
-      "id": "4937168",
-      "time": "2026-06-16 05:17:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國得州瓦哈樞紐的現貨交割價格為每百萬英熱單位35美分，為自2月以來首次轉正，結束了此前連續131天價格低於零的紀錄。"
     }
   ]
 }
