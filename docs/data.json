@@ -1,7 +1,177 @@
 {
-  "updated": "2026-06-22 09:27:29",
-  "count": 17347,
+  "updated": "2026-06-22 09:31:31",
+  "count": 17335,
   "items": [
+    {
+      "id": "mkt:019eecf3-d4d8-7dd8-b0ac-c495fccb4ab3",
+      "time": "2026-06-22 09:31:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong stocks opened lower in early trade; HSI down 1.4%, Hang Seng Tech down 1.2%."
+    },
+    {
+      "id": "mkt:019eecf3-9db1-7dd8-b0ac-be807201f1b9",
+      "time": "2026-06-22 09:30:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister said the first real test of the latest US-Iran understanding will be the Lebanon \"Conflict Elimination Coordination Group\" recently agreed during Swiss talks."
+    },
+    {
+      "id": "mkt:019eecf3-7b5d-7dd8-b0ac-b15af854b417",
+      "time": "2026-06-22 09:30:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "07709.HK",
+        "Impact bullish"
+      ],
+      "text": "Southern's 2x long on Hynix (07709) rose 16% at the open; turnover HK$360m."
+    },
+    {
+      "id": "4947019",
+      "time": "2026-06-22 09:30:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報23674.119點；恒生科技指數現跌1.028%。"
+    },
+    {
+      "id": "te:markets:560580",
+      "time": "2026-06-22 09:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Hong Kong Hit 50-week Low — HK50 decreased to 23749.00 Index Points, the lowest since July 2025. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) lost 7.09%, and in the last 12 months, it increased 0.4%."
+    },
+    {
+      "id": "4947018",
+      "time": "2026-06-22 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.11%， 10年期主力合約跌0.04%， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4947017",
+      "time": "2026-06-22 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.52%， 滬深300指數期貨連續漲0.17%， 中證500指數期貨連續漲0.27%， 上證50指數期貨連續跌0.08%。"
+    },
+    {
+      "id": "4947016",
+      "time": "2026-06-22 09:29:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊建立開展技術談判機制】作為美國與伊朗談判的斡旋方，卡達與巴基斯坦今天（ 6月22日）釋出關於美伊首輪高階別委員會會議結束的聯合宣告。美伊首輪高階別會談聯合宣告# 聯合宣告稱，根據《伊斯蘭堡諒解備忘錄》（美伊諒解備忘錄）框架舉行的首輪高階別會談已在瑞士比爾根山落幕。伊朗、美國的代表以及斡旋方卡達和巴基斯坦的代表出席了會議。會議在“積極且具有建設性”的氛圍中舉行。會議取得了令人鼓舞的進展，包括建立了進一步開展技術談判的機制。 基於諒解備忘錄，各方同意成立一個高階別委員會，負責為調解工作提供政治監督。首席談判代表將定期向該委員會彙報，並牽頭負責核問題、解除制裁問題以及監測與爭端解決小組的工作，以確保諒解備忘錄的有效執行及其他相關事務。 該高階別委員會已商定了一份路線圖，旨在60天內達成最終協議，併為立即啟動進一步的技術談判奠定了基礎。此外，根據諒解備忘錄第五段所述期限，各方已建立了一條溝通熱線，以避免發生意外事件和誤判，確保商船安全透過霍爾木茲海峽。 此外，各方同意建立一個“衝突降級小組”，由斡旋方協助，在各方與黎巴嫩之間進行協調，以確保按照諒解備忘錄的規定，終止在黎巴嫩的軍事行動。 本週剩餘時間，各方將繼續在比爾根山就所有議題展開技術談判。 斡旋方將繼續竭盡全力，確保談判持續在建設性氛圍中進行，以期達成最終協議。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019eecf2-caf4-7dd8-b0ac-aeaf83003551",
+      "time": "2026-06-22 09:29:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share advanced chip-packaging stocks rose in early trade: Xuguang Electronics hit the daily price limit; Tianma New Materials jumped over 8%; Kaisheng Technology, Sanan Optoelectronics and Zhongjing Electronics gained more than 7%; Youyan New Materials and Changxin Technology rose over 6%."
+    },
+    {
+      "id": "4947015",
+      "time": "2026-06-22 09:29:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守79美元/桶，日內跌1.33%。"
+    },
+    {
+      "id": "4947014",
+      "time": "2026-06-22 09:28:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲2.1%。"
+    },
+    {
+      "id": "4947013",
+      "time": "2026-06-22 09:28:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲6.5%。"
+    },
+    {
+      "id": "mkt:019eecf1-0648-7dd8-b0ac-a7bda8fa9ed7",
+      "time": "2026-06-22 09:27:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "Chinese shares opened higher on Monday, June 22: Shanghai Composite opened up 3.47 points (+0.08%) at 4,093.95; Shenzhen Composite opened up 64.93 points (+0.41%) at 16,095.63; CSI 300 Index opened up 7.75 points (+0.16%) at 4,949.35; ChiNext Index opened up 20.60 points (+0.48%) at 4,272.99; STAR 50 Index opened up 10.96 points (+0.57%) at 1,922.47."
+    },
+    {
+      "id": "4947012",
+      "time": "2026-06-22 09:27:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股PCB概念股走強 建滔集團漲近5%】截至發稿，建滔集團(00148.HK)漲4.66%，建滔積層板(01888.HK)漲1.91%，大族激控(03200.HK)漲1.46%。"
+    },
+    {
+      "id": "mkt:019eecf0-c503-7dd8-b0ac-9939ea2f0d70",
+      "time": "2026-06-22 09:27:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-shares lab-grown diamond sector active at the open; Huanghe Xuanfeng and Boyun New Materials both hit limit-up. Sifangda rose 18%, Huifeng Diamond climbed more than 17%, Zhongbing Hongjian gained nearly 5%."
+    },
+    {
+      "id": "4947011",
+      "time": "2026-06-22 09:27:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國首相斯塔默被曝最早22日就是否辭職釋出宣告】據英國方面訊息，工黨有高層人士預計英國首相斯塔默最早或於當地時間6月22日就是否辭職釋出“宣告”。此前，工黨大曼徹斯特市長安迪·伯納姆透過補選贏得下院議員席位、為競選工黨黨首鋪好路後，英國首相斯塔預設為自己難以繼續留任，已著手製定離任時間表。"
+    },
+    {
+      "id": "4947010",
+      "time": "2026-06-22 09:27:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色·鋯概念繼續大幅高開 長裕集團5天4板】早盤有色·鋯概念繼續大幅高開，長裕集團5天4板，東方鋯業2連板，盛和資源、凱盛科技、國瓷材料等跟漲。"
+    },
+    {
+      "id": "4947009",
+      "time": "2026-06-22 09:27:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2539.00元。"
+    },
     {
       "id": "4947008",
       "time": "2026-06-22 09:26:19",
@@ -159329,315 +159499,6 @@
         "國際"
       ],
       "text": "【俄圖拉州遭烏無人機襲擊致3死3傷】俄羅斯圖拉州州長德米特里·米利亞耶夫當地時間今天（6月15日）凌晨在社交媒體平臺發文稱，圖拉州遭遇無人機襲擊，造成3人死亡、3人受傷。 自2022年俄烏衝突爆發以來，位於莫斯科以南、擁有多家大型工業設施的圖拉州一直是烏克蘭方面打擊的目標。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ec8e7-b250-7dd8-affb-000891882e95",
-      "time": "2026-06-15 09:31:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Index futures open higher】Front-month index futures rose in the morning session: CSI 300 (IF) up 1.24%, SSE 50 (IH) up 1.28%, CSI 500 (IC) up 1.44%, CSI 1000 (IM) up 1.48%."
-    },
-    {
-      "id": "mkt:019ec8e7-9750-7dd8-affa-fb69d3c6c405",
-      "time": "2026-06-15 09:31:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures open】China government bond futures opened in early trade; 2-year (TS) most-active contract flat, 5-year (TF) +0.02%, 10-year (T) +0.02%, 30-year (TL) +0.04%."
-    },
-    {
-      "id": "4935197",
-      "time": "2026-06-15 09:31:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市開盤上漲3.5%，至6115.92點。"
-    },
-    {
-      "id": "mkt:019ec8e7-8262-7dd8-affa-f52b995878f9",
-      "time": "2026-06-15 09:31:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "CSI300",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "China A-share precious metals sector advanced in early trade; Chifeng Gold and Xiaocheng Technology rose more than 7%, Zijin Mining and Xingye Silver‑Tin climbed over 6%, while Hunan Baiyin and Zhongjin Gold also gained."
-    },
-    {
-      "id": "4935196",
-      "time": "2026-06-15 09:31:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "短纖連續主力合約日內跌5%，現報7404.00元。"
-    },
-    {
-      "id": "4935195",
-      "time": "2026-06-15 09:31:06",
-      "tags": [
-        "市場",
-        "觀點",
-        "焦點",
-        "A股"
-      ],
-      "text": "A股貴金屬板塊盤初拉昇，赤峰黃金、曉程科技均漲超7%，紫金礦業、興業銀錫均漲超6%，湖南白銀、中金黃金等跟漲。"
-    },
-    {
-      "id": "mkt:019ec8e7-4b27-7dd8-affa-ef31bea232f9",
-      "time": "2026-06-15 09:31:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Singapore's Deputy Prime Minister said the Singapore Exchange (SGX) will set up an OTC gold clearing system and is exploring physically deliverable gold futures contracts."
-    },
-    {
-      "id": "4935194",
-      "time": "2026-06-15 09:30:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本5年期國債收益率下跌4.5個基點，至1.855%。"
-    },
-    {
-      "id": "4935193",
-      "time": "2026-06-15 09:30:27",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "新加坡副總理：新加坡交易所將建立新加坡本地交收的場外黃金清算體系，目前正探索推出實物交割黃金期貨合約。"
-    },
-    {
-      "id": "4935192",
-      "time": "2026-06-15 09:30:20",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "新加坡副總理：新加坡金融管理局（MAS）將於10月推出央行黃金託管服務。"
-    },
-    {
-      "id": "4935191",
-      "time": "2026-06-15 09:30:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲1.26%， 滬深300指數期貨連續漲1.16%， 中證500指數期貨連續漲1.15%， 上證50指數期貨連續漲1.01%。"
-    },
-    {
-      "id": "4935190",
-      "time": "2026-06-15 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.47%，成分股中，盛美上海漲5.03%，中芯國際漲2.97%，海光資訊漲2.86%，晶合整合漲2.81%。"
-    },
-    {
-      "id": "4935189",
-      "time": "2026-06-15 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.05%， 10年期主力合約漲0.01%， 5年期主力合約漲0.02%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "4935188",
-      "time": "2026-06-15 09:29:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【元件板塊高開，泰晶科技漲停】元件板塊高開，泰晶科技漲停，寶鼎科技、三環集團、生益科技、風華高科、華正新材紛紛高開。"
-    },
-    {
-      "id": "mkt:019ec8e5-d014-7dd8-affa-e46a06aa1e4a",
-      "time": "2026-06-15 09:29:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Foreign Minister Motegi said he will maintain close coordination with the international community."
-    },
-    {
-      "id": "4935187",
-      "time": "2026-06-15 09:29:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【夏農芯創：公司沒有晶片封裝業務】夏農芯創6月15日在互動平臺表示，公司當前主營業務為儲存晶片的代理分銷及自主品牌儲存產品業務。公司的儲存產品主要用於雲端計算儲存（資料中心伺服器）領域，公司沒有晶片封裝業務。"
-    },
-    {
-      "id": "mkt:019ec8e5-8407-7dd8-affa-dfad5acac2ee",
-      "time": "2026-06-15 09:29:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share port and shipping sector jumped in the pre-open auction; China Merchants Nanyou, China Merchants Shipping and COSCO Shipping Energy hit limit-up. Guohang Yuanyang opened over 13% higher, while Ningbo Yuanyang, Ningbo Shipping and Nanjing Port also advanced."
-    },
-    {
-      "id": "4935186",
-      "time": "2026-06-15 09:29:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4718.80點。"
-    },
-    {
-      "id": "4935185",
-      "time": "2026-06-15 09:29:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報8050.00點。"
-    },
-    {
-      "id": "4935184",
-      "time": "2026-06-15 09:29:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲2%，現報8104.00點。"
-    },
-    {
-      "id": "mkt:019ec8e5-49a3-7dd8-affa-d6274109d966",
-      "time": "2026-06-15 09:28:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's foreign minister MOTEGI said Tokyo will spare no effort to secure stability in the Middle East."
-    },
-    {
-      "id": "mkt:019ec8e5-39b4-7dd8-affa-cfc59f324d65",
-      "time": "2026-06-15 09:28:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Japan's foreign minister MOTEGI said he hopes free and secure navigation in the Strait of Hormuz can be ensured."
-    },
-    {
-      "id": "4935183",
-      "time": "2026-06-15 09:28:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港口航運板塊高開，招商輪船一字漲停】港口航運板塊高開，招商南油、招商輪船、中遠海能一字漲停，國航遠洋高開超13%，寧波遠洋、寧波海運、南京港跟漲。"
-    },
-    {
-      "id": "mkt:019ec8e4-bd7a-7dd8-affa-c26402ed3e21",
-      "time": "2026-06-15 09:28:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Analysts: US-Iran ceasefire eases inflation worries, helps gold's early rebound】Gold rose in the Asian session after a temporary US-Iran ceasefire, which could help normalize oil supply and ease energy-driven inflation concerns. Since end-February the metal has fallen more than 20% as higher energy prices and supply-chain disruption lifted expectations for higher interest rates; safe-haven flows into the dollar intensified pressure. ANZ analysts say the conflict has strengthened structural reasons to increase gold allocations, citing geopolitical fragmentation and reduced confidence in bonds as a reliable portfolio diversifier."
-    },
-    {
-      "id": "4935182",
-      "time": "2026-06-15 09:28:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本茂木敏充：希望伊朗核問題能儘快達成最終協議。希望霍爾木茲海峽的自由、安全航行能夠得到保障。將竭盡全力實現中東地區的穩定。"
-    },
-    {
-      "id": "mkt:019ec8e4-7c45-7dd8-affa-be64b8e3defc",
-      "time": "2026-06-15 09:27:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "On Monday June 15, China's Shanghai Composite Index opened higher by 22.07 points (+0.55%) at 4,053.58; Shenzhen Composite Index opened higher by 189.78 points (+1.27%) at 15,153.18; CSI 300 Index opened higher by 51.97 points (+1.09%) at 4,829.29; ChiNext Index opened higher by 65.81 points (+1.72%) at 3,896.17; STAR 50 Index opened higher by 24.45 points (+1.47%) at 1,687.67."
-    },
-    {
-      "id": "4935181",
-      "time": "2026-06-15 09:27:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告 黃海北部實彈射擊】據中國海事局網站訊息，大連海事局釋出航行警告，6月16日10時至18日17時，黃海北部部分海域實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "mkt:019ec8e4-35db-7dd8-affa-b5964c32fcde",
-      "time": "2026-06-15 09:27:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "06658.HK",
-        "Impact bullish"
-      ],
-      "text": "【Liuliumei opens nearly 118% higher in Hong Kong debut】Liuliumei (06658.HK) opened 117.99% higher at HK$95.00 per share on its first trading day; turnover HK$250 million."
-    },
-    {
-      "id": "4935180",
-      "time": "2026-06-15 09:27:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本外務大臣茂木敏充：歡迎美伊和平協議，這是解決局勢的重要一步。"
-    },
-    {
-      "id": "mkt:019ec8e4-0e08-7dd8-affa-aabd65d086ec",
-      "time": "2026-06-15 09:27:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Japan's foreign minister Motegi welcomed the US-Iran peace agreement, calling it an important step toward resolving the situation."
     }
   ]
 }
