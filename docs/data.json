@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-22 13:29:06",
-  "count": 17297,
+  "updated": "2026-06-22 13:33:31",
+  "count": 17294,
   "items": [
+    {
+      "id": "4947358",
+      "time": "2026-06-22 13:32:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "卡達央行：5月信貸總額同比增長1.63%。"
+    },
+    {
+      "id": "mkt:019eedd0-9609-7dd8-b0b0-d57eacb69c29",
+      "time": "2026-06-22 13:32:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli military says it killed two Hamas officers in Gaza】The Israeli Defense Forces (IDF) said on June 22 that it killed two officers of the Palestinian Islamic Resistance Movement (Hamas) on June 20 in the Gaza Strip: Ahmed Zaza, engineering chief of the Sejebalieh camp in Gaza City, and Hussein Safadi, commander of the Sniper Array."
+    },
+    {
+      "id": "4947356",
+      "time": "2026-06-22 13:31:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "4947355",
+      "time": "2026-06-22 13:30:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍22日發表宣告說，20日在加沙地帶打死了兩名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）軍官，分別是加沙城“西傑巴利耶營”工程主管艾哈邁德·扎扎和加沙城“狙擊陣列”指揮官侯賽因·薩法迪。（新華社）"
+    },
+    {
+      "id": "4947354",
+      "time": "2026-06-22 13:30:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "卡達央行公佈資料顯示，該國5月M2貨幣供應量同比增長9.65%。"
+    },
+    {
+      "id": "te:markets:560653",
+      "time": "2026-06-22 13:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Rises by 1.87% — Top crypto gainers are Ether (1.87%), Bitcoin (1.51%) and Binance (1.33%)."
+    },
+    {
+      "id": "4947353",
+      "time": "2026-06-22 13:29:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行將阿克蘇諾貝爾的目標股價從65歐元上調至75歐元。"
+    },
     {
       "id": "4947352",
       "time": "2026-06-22 13:27:43",
@@ -158980,103 +159041,6 @@
         "市場"
       ],
       "text": "迅策香港股價一度飆升14%，創5月22日以來最大盤中漲幅。"
-    },
-    {
-      "id": "te:economy:558909",
-      "time": "2026-06-15 13:33:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Finnish Inflation Hits 26-Month High — The annual inflation rate in Finland climbed by 2.1% year-on-year in May 2026 from 1.5% in the previous month. This marked the sharpest increase since March 2024, driven largely by higher housing and utilities (0.6% vs -0.3% in April) and transport costs (7.1% vs 5.3%) due to rising fuel costs. Costs also increased for health (6.2% vs 3.6%), particularly for refundable prescription medicines, and furnishings, household equipment and routine household maintenance (4.3% vs 3.4%), while it remained steady for education services at 11.5%. Meanwhile, inflation softened for food and non-alcoholic beverages (1.1% vs 1.7%) and information and communication (4.3% vs 5.2%). On a monthly basis, consumer prices rose by 0.5% in May, accelerating from a 0.1% gain in April. Harmonized consumer prices, the ECB’s preferred measure, increased 2.8% year-on-year, following a 2.4% rise in the preceding period."
-    },
-    {
-      "id": "mkt:019ec9c5-34e6-7dd8-afff-879941fe57fc",
-      "time": "2026-06-15 13:33:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-shares: Shenzhen Composite Index jumped over 3% in afternoon trade; ChiNext Index rose 4.17%; Shanghai Composite gained 1.1%. More than 3,500 stocks advanced across the two exchanges."
-    },
-    {
-      "id": "4935575",
-      "time": "2026-06-15 13:33:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際社會歡迎美伊達成協議 呼籲迅速全面落實】綜合新華社駐外記者報道：美國和伊朗14日宣佈達成停戰諒解備忘錄。國際社會對此表示歡迎，認為此舉是朝著和平解決衝突邁出的關鍵一步，同時呼籲各方全面落實該諒解備忘錄，確保儘快重開霍爾木茲海峽。\n\n聯合國秘書長古特雷斯說，這是朝著和平解決衝突邁出的關鍵一步。希望各方能夠鞏固這一勢頭，加倍努力以最終解決衝突。\n\n英國、法國、德國、義大利發表聯合宣告，歡迎美國和伊朗達成諒解備忘錄，表示如伊朗對其核計劃採取明確、可核查的措施，四國願解除相關制裁。四國表示，諒解備忘錄應予以“迅速且全面執行”。四國強調應無條件、不受限制地“緊急重新開放霍爾木茲海峽”。\n\n卡達外交部發表宣告說，這是朝著鞏固可持續和平、促進地區及國際經濟增長邁出的重要一步。\n\n土耳其外長費丹在社交媒體發文說：“這是該地區建立持久和平與穩定道路上的重要里程碑。希望後續談判也能以建設性的方式繼續進行。”\n\n紐西蘭總理拉克森在社交媒體發文說，重新開放霍爾木茲海峽將有助於恢復穩定的貿易路線，保障燃料流通，並保持經濟運轉。紐西蘭外長彼得斯表示，中東地區對全球經濟安全至關重要，對話和外交仍然是“解決長期問題的最有效手段”。（新華社）"
-    },
-    {
-      "id": "4935574",
-      "time": "2026-06-15 13:33:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲3.00%，現報15412.812點；上證指數漲1.10%，現報4075.967點；創業板指漲4.19%，現報3990.756點。"
-    },
-    {
-      "id": "mkt:019ec9c4-3b7d-7dd8-afff-7fa70e15d802",
-      "time": "2026-06-15 13:32:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Lebanese media report enemy strike on village】Lebanese media reported on the 15th that an enemy drone struck a car in Taibnit village in Lebanon, wounding occupants. Taibnit and other localities were also hit by enemy shelling."
-    },
-    {
-      "id": "4935573",
-      "time": "2026-06-15 13:32:16",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "【黎巴嫩媒體稱有村鎮遭敵方襲擊】據黎巴嫩國家通訊社15日報道，一架敵方無人機襲擊了黎巴嫩泰卜尼特村的一輛汽車，有人員受傷。此外，泰卜尼特村等地還遭到敵方炮擊。（新華社）"
-    },
-    {
-      "id": "4935572",
-      "time": "2026-06-15 13:31:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京津冀進出口總值前5個月突破2萬億元】據天津日報，記者從天津海關獲悉，今年前5個月，京津冀地區進出口總值達2.09萬億元，同比增長14.4%，佔同期我國外貿進出口總值的10.1%。其中，出口6308.4億元，增長11.5%；進口1.46萬億元，增長15.8%。5月當月實現進出口4843.4億元，創單月歷史新高。"
-    },
-    {
-      "id": "mkt:019ec9c3-87cd-7dd8-afff-736389844b88",
-      "time": "2026-06-15 13:31:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share lab-grown diamond sector continued to strengthen in the afternoon session; Yingnuo Laser and Jingsheng Electromechanical each rose more than 10%, Sifangda gained over 9%, Huifeng Diamond climbed about 7%, and Liliang Diamond and Guoji Jinggong were up over 5%."
-    },
-    {
-      "id": "4935571",
-      "time": "2026-06-15 13:31:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "施耐德電氣與鴻海科技集團宣佈達成戰略合作，共同加快新一代人工智慧資料中心建設。"
-    },
-    {
-      "id": "4935570",
-      "time": "2026-06-15 13:30:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度汽車製造商協會（SIAM）：印度5月乘用車銷量達到438,854輛。"
     }
   ]
 }
