@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-23 05:45:23",
+  "updated": "2026-06-23 05:49:26",
   "count": 17318,
   "items": [
+    {
+      "id": "te:economy:560876",
+      "time": "2026-06-23 05:48:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Consumer Sentiment Improves in June — South Korea’s Composite Consumer Sentiment Index rose by 0.5 point to 95.5 in June 2026 compared with the previous month. Consumer sentiment regarding current domestic economic conditions increased three points to 86, while expectations for future economic conditions slipped one point to 92. Sentiment on current living standards rose one point to 94, while the outlook for future living standards remained unchanged at 97. Expectations for future household income and spending were also unchanged at 100 and 110, respectively. Meanwhile, the expected inflation rate for the next year stood at 2.8%, while three-year and five-year inflation expectations were 2.7% and 2.6%, respectively."
+    },
     {
       "id": "te:economy:560875",
       "time": "2026-06-23 05:42:45",
@@ -159060,20 +159072,6 @@
         "Importance 1"
       ],
       "text": "South Korea Export Inflation at 28-Year High — South Korea’s export prices surged 46.9% year-on-year in May of 2026, the largest rise since March 1998 . he increase was mainly driven by manufactured goods, which rose 46.9%, with computers, electronic and optical equipment surging 104%. Prices also rose for coal products and petroleum products (88.6%), basic metal products (31.6%), and chemical products (28.3%). Meanwhile, prices of aagricultural, forestry and marine products increased 32.4%."
-    },
-    {
-      "id": "mkt:019ecd42-af8a-7dd8-b017-439c305b3137",
-      "time": "2026-06-16 05:49:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Economists: If Iran deal holds, worst of US inflation may be over】Economists say even if an Iran agreement is implemented, normalising shipping through the Strait of Hormuz and gas prices returning to pre‑conflict levels could take time. US inflation accelerated in May to the fastest pace in more than three years, but the rise likely has peaked. Andrew Hollenhorst, Citigroup’s chief US economist, cautioned that short‑term energy and oil market forecasts are difficult but that the broader trajectory appears downward. News of a provisional Iran‑US agreement pushed oil prices lower and lifted equities; Stephen Stanley, chief US economist at Santander US Capital Markets, said markets are treating the deal as done and largely reverting toward pre‑conflict conditions."
     }
   ]
 }
