@@ -1,7 +1,49 @@
 {
-  "updated": "2026-06-23 03:37:43",
-  "count": 17272,
+  "updated": "2026-06-23 03:41:48",
+  "count": 17271,
   "items": [
+    {
+      "id": "4948916",
+      "time": "2026-06-23 03:40:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟停止出售成員國碳配額，以推動能源轉型】歐盟已停止出售一批提前分配的碳排放配額。此前，歐盟計劃利用其碳排放交易體系（ETS）籌集資金，以幫助實現擺脫俄羅斯天然氣的能源轉型。歐盟委員會在官網的一份宣告中表示，歐盟已於週一達成目標，透過拍賣原本將由各國政府在2027年至2030年間出售的配額，成功籌集了80億歐元。隨著該目標的達成，歐盟碳排放交易體系中成員國常規配額拍賣的日程表已作出相應調整。"
+    },
+    {
+      "id": "mkt:019ef0d8-6332-7dd8-b0c4-95d1ea453f93",
+      "time": "2026-06-23 03:39:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "CFTC: for the week to June 16, speculators raised net short positions in CBOT US 2-year Treasury futures by 50,669 contracts to 1,270,507 contracts and increased net short in CBOT US 10-year Treasury futures by 47,275 contracts to 911,082 contracts."
+    },
+    {
+      "id": "mkt:019ef0d7-836c-7dd8-b0c4-8a7d6fb3c2b7",
+      "time": "2026-06-23 03:38:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: For the week ended June 16, speculative positions in NYMEX and ICE natural-gas futures flipped to a net long of 1,332 contracts, an increase of 30,288 contracts from the prior week."
+    },
+    {
+      "id": "mkt:019ef0d6-d38c-7dd8-b0c4-80c095396ea9",
+      "time": "2026-06-23 03:37:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission (CFTC): For the week to June 16, equity fund managers raised net long positions in CME S&P 500 futures by 3,319 contracts to 983,431 contracts. Equity fund speculators increased net short positions in CME S&P 500 futures by 64,644 contracts to 501,690 contracts."
+    },
     {
       "id": "mkt:019ef0d5-692a-7dd8-b0c4-7ef6179fca6e",
       "time": "2026-06-23 03:36:18",
@@ -158566,48 +158608,6 @@
         "其他"
       ],
       "text": "辛巴威央行將政策利率從35%下調至30%。"
-    },
-    {
-      "id": "4937070",
-      "time": "2026-06-16 03:40:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西淡水河谷公司計劃投資26億美元開展脫碳專案。"
-    },
-    {
-      "id": "4937069",
-      "time": "2026-06-16 03:39:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐洲通訊衛星公司與法國國防部宣佈在NEXUS框架協議項下籤署容量呼叫合同。"
-    },
-    {
-      "id": "4937068",
-      "time": "2026-06-16 03:39:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "城堡證券：利率上升將對風險資產構成挑戰，美聯儲最快可能9月加息。"
-    },
-    {
-      "id": "4937067",
-      "time": "2026-06-16 03:39:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖圖恩：按照特朗普當下的提議，將《儲蓄法案》附加至《外國情報監視法》相關法案中，這件事 “並不現實”。"
-    },
-    {
-      "id": "4937066",
-      "time": "2026-06-16 03:38:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖圖恩：正 “靜待” 美伊諒解備忘錄的具體條款內容，並預計參議員們後續會收到相關情況通報，但目前暫無通報安排的具體資訊。"
     }
   ]
 }
