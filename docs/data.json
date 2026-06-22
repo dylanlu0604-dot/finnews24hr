@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-23 05:01:03",
-  "count": 17321,
+  "updated": "2026-06-23 05:05:10",
+  "count": 17320,
   "items": [
+    {
+      "id": "4948980",
+      "time": "2026-06-23 05:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：據傳高通即將達成收購 AI 晶片初創企業 Modular 的交易。"
+    },
+    {
+      "id": "4948979",
+      "time": "2026-06-23 05:02:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金漲約0.9%，亞太早盤一度突破4220美元】週一（6月22日）紐約尾盤，現貨黃金漲0.87%，報4192.04美元/盎司，日內整體高位震盪、北京時間09:00漲至4220.72美元重新整理日高。COMEX黃金期貨跌0.87%，報4209.10美元/盎司，06:00低開至4151.40美元重新整理日低，08:00也開啟一波顯著的回升行情、逼近4240美元但日內整體沒能出現轉漲。現貨白銀漲0.35%，報65.1285美元/盎司，08:00出現一波顯著的拉昇行情、09:00重新整理日高至67.1472美元。COMEX白銀期貨漲0.21%，報65.700美元/盎司。COMEX銅期貨漲0.94%，報6.4340美元/磅。現貨鉑金漲0.89%，現貨鈀金漲0.52%。"
+    },
+    {
+      "id": "4948978",
+      "time": "2026-06-23 05:00:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：韓國 6 月消費者 12 個月通脹預期中值為 2.8%，5 月同樣為 2.8%。"
+    },
     {
       "id": "mkt:019ef122-314b-7dd8-b0c6-0d79b5134487",
       "time": "2026-06-23 05:00:10",
@@ -159062,43 +159087,6 @@
         "國際"
       ],
       "text": "英國金融時報：若伊核協議得到維持，特朗普政府正考慮設立規模3000億美元的基金供伊朗使用。"
-    },
-    {
-      "id": "4937159",
-      "time": "2026-06-16 05:04:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海軍最新一艘阿利·伯克級導彈驅逐艦即將命名為“泰德·史蒂文斯”號（DDG-128），已駛離弗吉尼亞州諾福克海軍基地，前往佛羅里達州梅波特海軍基地，開展包含衝擊試驗在內的驗收流程。"
-    },
-    {
-      "id": "mkt:019ecd17-b5ec-7dd8-b016-ead4e3476761",
-      "time": "2026-06-16 05:02:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Multiple Iranian vessels pass US maritime blockade】Iranian sources said on the 16th (local time) that three oil tankers and two ships carrying essential supplies have breached a US maritime blockade. Ship-tracking data show an ultra-large crude carrier is sailing from international waters to an Iranian port after clearing the blockade. A vessel carrying livestock feed has also transited and is en route to Iran. Separately, a fully laden Iranian crude tanker has passed the Gulf of Oman and the blockade line and is heading to its export destination."
-    },
-    {
-      "id": "mkt:019ecd17-b3da-7dd8-b016-e04f2b1f03a3",
-      "time": "2026-06-16 05:02:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea May export price index YoY posted its largest increase since March 1998; import price index YoY logged its biggest rise since July 2022."
-    },
-    {
-      "id": "4937158",
-      "time": "2026-06-16 05:01:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "歐萊雅加拿大公司：旗下SalonCentric Canada收購Cantin Beauté全部資產。"
     }
   ]
 }
