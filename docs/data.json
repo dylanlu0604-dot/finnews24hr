@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-23 00:23:55",
-  "count": 17248,
+  "updated": "2026-06-23 00:29:01",
+  "count": 17252,
   "items": [
+    {
+      "id": "mkt:019ef027-22f7-7dd8-b0c2-4356cf1b6810",
+      "time": "2026-06-23 00:25:57",
+      "tags": [
+        "MKT News",
+        "MT.N",
+        "Impact bullish"
+      ],
+      "text": "ArcelorMittal said it has entered a strategic partnership with Amazon Web Services (AWS) to advance industrial automation and low-carbon construction globally."
+    },
+    {
+      "id": "4948770",
+      "time": "2026-06-23 00:25:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "安賽樂米塔爾宣佈與亞馬遜雲科技達成戰略合作，將在全球範圍內推動工業自動化發展與低碳建築轉型。"
+    },
+    {
+      "id": "4948769",
+      "time": "2026-06-23 00:25:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯沃羅涅日遇襲造成五人死亡。"
+    },
+    {
+      "id": "mkt:019ef026-38d9-7dd8-b0c2-3e5f6cb74580",
+      "time": "2026-06-23 00:24:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "New York Times reports that despite statements by Netanyahu and Katz, Israel Defense Forces commanders are severely restricted in Lebanon; soldiers may now fire only when directly threatened."
+    },
+    {
+      "id": "4948768",
+      "time": "2026-06-23 00:24:53",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根士丹利擬打造13億美元新辦公大樓 拓展達拉斯業務】摩根士丹利成為又一家押注德克薩斯州金融中心地位的華爾街巨頭，該行正考慮在達拉斯打造一座耗資13億美元的辦公大樓。根據達拉斯市政府檔案，摩根士丹利計劃將散佈在達拉斯各處、業務不斷增長的多個部門整合進位於麥金尼大道(McKinney Avenue)2401號的一棟70.9萬平方英尺的摩天大樓中。該物業歸Trammell Crow公司所有，距離高盛集團正在當地建設的耗資5億美元的園區不到一英里，目前樓裡有一家海鮮餐廳和一家已停業的健身房，摩根士丹利計劃在2031年前向該物業投資約6.84億美元，而開發商將投入約6.5億美元用於大樓建設。檔案顯示，到2039年底，該大樓可容納多達4800個工作崗位。建造期間，摩根士丹利計劃租用附近一棟大樓內25.5萬平方英尺的辦公空間，租期略超四年。該公司將於2031年遷入新大樓，租期為16年。"
+    },
+    {
+      "id": "4948767",
+      "time": "2026-06-23 00:24:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認土耳其銀行評級為“B-”，展望穩定。"
+    },
+    {
+      "id": "mkt:019ef025-43e9-7dd8-b0c2-360c1e6ae2ba",
+      "time": "2026-06-23 00:23:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. Strategic Petroleum Reserve crude falls to lowest since 1983】DOE data show SPR crude stocks at 331.2 mln barrels, the lowest since June 1983. Inventories dropped 9.05 mln barrels last week, the third-largest weekly draw on record, as part of a previously announced plan to release 172 mln barrels from the reserve."
+    },
     {
       "id": "mkt:019ef024-2849-7dd8-b0c2-2dd39621e316",
       "time": "2026-06-23 00:22:41",
@@ -158468,31 +158535,6 @@
         "國際"
       ],
       "text": "谷歌：7 月 1 日，谷歌廣告將更新適用於美國地區的博彩及遊戲專項政策條款。"
-    },
-    {
-      "id": "mkt:019ecc1c-1b70-7dd8-b013-d7adf13be884",
-      "time": "2026-06-16 00:27:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says US-Iran agreement details to be released after signing on 19th】US President Trump said on the 15th, while attending the G7 summit in Evian-les-Bains, France, that the details of a US-Iran agreement will be made public after the agreement is formally signed on the 19th."
-    },
-    {
-      "id": "4936978",
-      "time": "2026-06-16 00:27:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普：美伊協議內容將在19日簽署後公佈】美國總統特朗普15日在法國埃維昂萊班出席七國集團峰會期間表示，美伊協議內容將在19日正式簽署後對外公佈。（新華社）"
-    },
-    {
-      "id": "4936977",
-      "time": "2026-06-16 00:26:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西班牙國腳庫庫雷利亞加盟皇馬】皇家馬德里俱樂部15日宣佈，西班牙國腳庫庫雷利亞加盟。皇馬當日發表官方公告稱，俱樂部與英超球隊切爾西就庫庫雷利亞轉會達成協議。庫庫雷利亞與皇馬簽約六個賽季，其合同到期日為2032年6月30日。"
     }
   ]
 }
