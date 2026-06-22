@@ -1,7 +1,54 @@
 {
-  "updated": "2026-06-23 06:37:36",
-  "count": 17319,
+  "updated": "2026-06-23 06:41:38",
+  "count": 17320,
   "items": [
+    {
+      "id": "4949028",
+      "time": "2026-06-23 06:40:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力光纖需求共振，高純四氯化矽景氣度上行】受算力基建、通訊網路升級帶動，今年以來，高純四氯化矽市場需求持續回暖。高純四氯化矽下游主要應用於光纖預製棒、合成石英玻璃的生產。據瞭解，受益於全球光纖高景氣，高純四氯化矽同步進入緊缺導致的漲價週期。一位行業知情人士透露，目前市場高純四氯化矽銷售多為長協鎖價銷售模式，去年以來，長協價格已出現大幅上漲。2025年底，光纖用9N級高純四氯化矽長協成交參考價約2.5萬元/噸，今年一季度對應的長協參考價上行至約4.5萬元/噸，階段性價格漲幅約80%。（上證報）"
+    },
+    {
+      "id": "te:markets:560880",
+      "time": "2026-06-23 06:40:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Surges by 7.83% — Top commodity gainers are Cocoa (7.83%), Rice (1.97%) and Rapeseed (1.49%). Biggest losers are Oat (-3.42%) and Sugar (-2.06%)."
+    },
+    {
+      "id": "mkt:019ef17c-a273-7dd8-b0c6-90df7b80e148",
+      "time": "2026-06-23 06:38:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "WTI",
+        "Impact bullish",
+        "Nikkei 225",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Optimism on US-Iran talks lifts risk appetite; Asian stocks set to open higher】Optimism over US-Iran peace talks pushed oil higher and lifted risk appetite, likely producing higher openings for Asian equities that will partly offset weakness on Wall Street after several tech giants fell. Index futures pointed to gains in Sydney, Hong Kong and Tokyo. SpaceX said on Monday it will issue investment-grade bonds in a large financing; the stock plunged about 16% on the announcement. Market expectations of a US-Iran deal, a recovery in AI-related trading and resilient corporate earnings have driven the S&P 500 to rebound nearly 20% from war-induced lows. UBS’s chief investment office said geopolitical developments may remain the main near-term source of volatility, but shifts in investor confidence over the durability of the AI rally could also spark market swings."
+    },
+    {
+      "id": "mkt:019ef17b-ef44-7dd8-b0c6-8f700a3807b7",
+      "time": "2026-06-23 06:38:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran crude re-entry expectations rise; oil steadies】Markets have steadied as investors weigh early progress in Iran peace talks and a U.S. decision to allow some Iranian crude sales. A U.S. 60-day license permits the sale of limited volumes of Iranian oil and petroleum products. Rebecca Babin, managing director and senior energy trader at CIBC Private Wealth Management, said, \"The road to a deal remains long; however, markets may price in a supply glut before it arrives — just as they sometimes anticipate shortages before they materialize — oil prices often overshoot.\""
+    },
     {
       "id": "4949027",
       "time": "2026-06-23 06:35:46",
@@ -159045,37 +159092,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：核核查人員“絕對”會按照結束戰爭的條款重返伊朗。"
-    },
-    {
-      "id": "te:markets:559125",
-      "time": "2026-06-16 06:40:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Rises by 3.31% — Top commodity gainers are Cocoa (3.31%), Coffee (2.23%) and Barley (2.01%). Biggest losers are Oat (-2.94%) and Rice (-2.16%)."
-    },
-    {
-      "id": "mkt:019ecd70-14bb-7dd8-b017-6aac058d90ee",
-      "time": "2026-06-16 06:38:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CIA director tells Trump intelligence suggests Iran unlikely to accept US nuclear demands】Axios reports three sources say CIA Director John Ratcliffe told Trump and other senior officials that, based on collected intelligence, Iran is unlikely to make the nuclear concessions the US is seeking in any final deal. Ratcliffe was not the only skeptic: Secretary of State Rubio and Defense Secretary Hegseth privately raised concerns, while Vice President Pence and envoys Witkoff and Kushner supported the agreement. Ahead of a Sunday announcement, senior officials reviewed intelligence showing discrepancies between Iranian internal discussions and their statements to mediators and the US, leading Ratcliffe and Rubio to conclude Iran probably would not accept the US’s demanded nuclear measures."
-    },
-    {
-      "id": "4937205",
-      "time": "2026-06-16 06:37:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國華盛頓特區多家文物保護與文化遺產機構組成聯合陣營，就特朗普政府計劃在國家公園用地內修建雕像園一事提起訴訟，要求立即停工，直至國會批准該專案方可繼續施工。"
     }
   ]
 }
