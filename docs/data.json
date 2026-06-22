@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-23 01:28:46",
-  "count": 17267,
+  "updated": "2026-06-23 01:32:52",
+  "count": 17265,
   "items": [
+    {
+      "id": "4948814",
+      "time": "2026-06-23 01:31:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大汽車工人聯合工會（UNIFOR）：工會已設定7月10日為與福特汽車公司達成初步協議的最後期限。"
+    },
+    {
+      "id": "mkt:019ef061-d2ce-7dd8-b0c3-23cb8f91cef1",
+      "time": "2026-06-23 01:30:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "【Castle Securities: Kevin Warsh's new Fed policy framework could stabilise US long-term Treasury yields】Castle Securities said Kevin Warsh's commitment to lowering inflation has bolstered Fed credibility, supporting US long-term Treasury yields and compressing the term premium. After last week's Fed meeting, trading in the $31 trillion US Treasury market showed long-end yields were more stable than the more policy-sensitive two-year yield, and Nohshad Shah, head of fixed-income sales, said a highly credible Fed should benefit long-end performance."
+    },
     {
       "id": "mkt:019ef05e-3354-7dd8-b0c3-181d393da394",
       "time": "2026-06-23 01:26:05",
@@ -158585,45 +158605,6 @@
         "其他"
       ],
       "text": "英偉達據悉在大規模債券發行中吸引了850億美元投資者需求。"
-    },
-    {
-      "id": "mkt:019ecc56-c64e-7dd8-b014-9069a3cdccc7",
-      "time": "2026-06-16 01:31:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's ambassador to the United States, Wiseman, said behind-the-scenes work is proceeding in a rational, cooperative, flexible and pragmatic manner."
-    },
-    {
-      "id": "mkt:019ecc56-64a2-7dd8-b014-88c985571dce",
-      "time": "2026-06-16 01:31:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Council President COSTA said a united, resolute G7 is essential to helping end the Russia-Ukraine war and securing a just, lasting peace."
-    },
-    {
-      "id": "mkt:019ecc56-4a5d-7dd8-b014-86de29327139",
-      "time": "2026-06-16 01:31:07",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "European Council President Costa said today the EU has opened formal accession negotiations with Ukraine, calling it a historic step toward Ukraine’s future within the EU."
-    },
-    {
-      "id": "mkt:019ecc56-1c43-7dd8-b014-7e860d95ba8f",
-      "time": "2026-06-16 01:30:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's ambassador to the United States, Waisman, said discussions with the U.S. were productive, serious, well-informed and mutually respectful."
     }
   ]
 }
