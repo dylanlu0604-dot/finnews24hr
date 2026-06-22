@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-22 20:24:58",
-  "count": 17276,
+  "updated": "2026-06-22 20:29:10",
+  "count": 17264,
   "items": [
+    {
+      "id": "4948404",
+      "time": "2026-06-22 20:28:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【分析：英國投資者預計新領導人將做出審慎變革】Insight Investment的April LaRusse在一份報告中表示，英國投資者預計該國新領導人將對政府支出和創收做出審慎的變革。首相基爾·斯塔默週一早些時候辭職。她說，自那以來，英國國債交易一直相當平靜，因為投資者預計政府政策的改變將採取“更務實的做法“。“現在的市場焦點將是誰可能被選中擔任關鍵內閣職位，英國國債市場最感興趣的是財政大臣人選以及下一次預算的潛在時間。”Tradeweb的資料顯示，10年期英國國債收益率下跌2.9個基點，最新報4.811%。"
+    },
+    {
+      "id": "4948402",
+      "time": "2026-06-22 20:27:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行4月在即期外匯市場淨賣出89.4億美元。"
+    },
+    {
+      "id": "4948401",
+      "time": "2026-06-22 20:26:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行預計，蘋果將同步上調Mac和iPad定價，並小幅下調各產品類別的銷量預期。"
+    },
+    {
+      "id": "mkt:019eef4b-03f9-7dd8-b0bc-7039804feae6",
+      "time": "2026-06-22 20:25:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia says Ukrainian drones struck space communications centre in Moscow region】On June 22 local time, a Russian space communications company said Ukrainian drones attacked the Dubna space communications centre in Moscow region. Television, radio and communications operations were unaffected and there were no casualties."
+    },
+    {
+      "id": "4948399",
+      "time": "2026-06-22 20:25:23",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：對沖基金五週來首次淨賣出全球股票】高盛主經紀商業務部門的資料顯示，就在上週，對沖基金五週以來首次成為全球股票的淨賣方，其中北美和歐洲市場的賣出量最大。由Vincent Lin領導的高盛團隊指出，賣空規模與做多買入規模之比為1.3比1。宏觀產品錄得一個月以來的首次淨賣出，而個股則出現淨買入。從行業層面看，全球11個行業板塊中有7個出現淨買入。按美元價值計算，買入最多的是金融、材料和能源板塊，而工業、資訊科技和公用事業板塊則成為淨賣出最多的板塊。"
+    },
+    {
+      "id": "4948398",
+      "time": "2026-06-22 20:24:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄稱烏軍無人機襲擊俄航天通訊中心】當地時間22日，俄羅斯航天通訊公司釋出訊息稱，烏軍無人機襲擊了莫斯科州杜布納航天通訊中心。電視、廣播和通訊執行未受影響，人員無傷亡。烏方對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "4948397",
+      "time": "2026-06-22 20:24:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃斯頓：擬吸收合併全資子公司最佳化管理架構】埃斯頓公告稱，公司於2026年6月22日召開董事會，審議透過吸收合併全資子公司埃斯頓自動控制的議案。埃斯頓自動控制註冊資本2.18億元，公司持有其100%股權。2025年營收1033.24萬元、淨利潤349.07萬元，2026年1-5月營收402.75萬元、淨利潤96.21萬元。本次合併無需支付對價，完成後該子公司法人資格將登出，其權利義務由公司繼承。本次合併不構成重大資產重組，不會對公司產生重大影響。"
+    },
     {
       "id": "mkt:019eef49-ef94-7dd8-b0bc-6a73d6f13b89",
       "time": "2026-06-22 20:24:20",
@@ -158549,171 +158608,6 @@
         "國際"
       ],
       "text": "萬斯談及伊朗問題：以色列肯定會在新中東格局中佔有一席之地。"
-    },
-    {
-      "id": "4936613",
-      "time": "2026-06-15 20:29:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯：希望本週公佈協議文字。"
-    },
-    {
-      "id": "4936612",
-      "time": "2026-06-15 20:28:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【七國集團宣告草案呼籲加強協調 應對人工智慧的“潛在風險”】根據媒體看到的一份可能會加以修改的宣告草案，七國集團領導人將“進一步討論人工智慧帶來的新興機遇和潛在風險，尤其是在金融領域”。法國總統馬克龍本週將在法國阿爾卑斯山小鎮Evian主持七國集團領導人會議。鑑於與美國在貿易、氣候等問題上存在分歧，就公報達成共識不再是優先事項。焦點反而一直是讓美國總統唐納德·特朗普能夠出席。這份草案基本上擱置了有爭議的話題，不過確實著重談到了人工智慧，呼籲加強協調。七國集團展開這場討論之際，美國政府已表示，願意動用非常權力，迫使人工智慧開發商按其要求處理潛在安全威脅，但6月份的一項行政令宣佈不會強制要求遵守。"
-    },
-    {
-      "id": "mkt:019ecb41-7ae9-7dd8-b00c-a1cfe39ab52d",
-      "time": "2026-06-15 20:28:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance hopes to release the agreement text this week."
-    },
-    {
-      "id": "mkt:019ecb41-3fe7-7dd8-b00c-99e91c9912c5",
-      "time": "2026-06-15 20:28:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Macron rejects repeal of French digital services tax after Trump threatens wine tariffs】French President Emmanuel Macron said France will not repeal its digital services tax, noting it has been adopted by several European countries and is part of French law: \"This digital tax is a policy that several European countries have already decided and implemented, and it is part of our law. It is not for the United States to decide European or French law — that's normal. At least as long as I remain in office, that will not change.\" The comments came at the G7 in Evian after former U.S. President Donald Trump warned he would impose 100% tariffs on French wine if France does not cancel the levy."
-    },
-    {
-      "id": "mkt:019ecb41-3428-7dd8-b00c-9132432e3743",
-      "time": "2026-06-15 20:28:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said some people in Israel welcome the agreement."
-    },
-    {
-      "id": "4936611",
-      "time": "2026-06-15 20:28:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：認為以色列內部有部分勢力支援該協議。"
-    },
-    {
-      "id": "4936610",
-      "time": "2026-06-15 20:27:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【加拿大支付服務商Nuvei以27.5億美元收購Payoneer派安盈】加拿大支付服務商Nuvei與Payoneer派安盈宣佈，雙方已達成最終協議，Nuvei將收購Payoneer派安盈。根據協議條款，Nuvei將以每股7.40美元現金收購Payoneer Global Inc.全部已發行且流通在外的普通股，本次交易的股權價值總額約為27.5億美元。據瞭解，合併後的公司將為企業提供一個統一的平臺，支援在190多個國家和地區接收、持有並管理資金。隨著交易完成，合併後的公司年收入將達到30億美元左右，年處理支付交易總額超過5000億美元，併為240多萬客戶提供服務。"
-    },
-    {
-      "id": "4936609",
-      "time": "2026-06-15 20:27:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：（關於伊朗）我們將觀察德黑蘭願意在哪些方面做出讓步。美國正與伊朗體制內的各方接觸。"
-    },
-    {
-      "id": "mkt:019ecb40-0ef0-7dd8-b00c-8ffb7d821a8a",
-      "time": "2026-06-15 20:27:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said the U.S. is engaging with parties within Iran's establishment."
-    },
-    {
-      "id": "4936608",
-      "time": "2026-06-15 20:27:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行官員：我不會改變通脹目標，但經濟團隊與央行之間在許多領域仍有改進空間。"
-    },
-    {
-      "id": "mkt:019ecb3f-d6c9-7dd8-b00c-8171299eed96",
-      "time": "2026-06-15 20:26:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance expects representatives from all Iranian delegations to attend Friday's signing ceremony."
-    },
-    {
-      "id": "4936607",
-      "time": "2026-06-15 20:26:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：預計週五簽署儀式將有伊朗各方代表全面出席。"
-    },
-    {
-      "id": "mkt:019ecb3f-a16f-7dd8-b00c-7b81314b4c5b",
-      "time": "2026-06-15 20:26:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "When asked who will represent Iran at the signing ceremony, U.S. Vice President Vance said he expects the Speaker of the House, the foreign minister and others to attend."
-    },
-    {
-      "id": "mkt:019ecb3f-80bc-7dd8-b00c-713b8c4b0f41",
-      "time": "2026-06-15 20:26:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign ministry: 'Lebanon' mentioned three times in Iran-US ceasefire memorandum】Iranian foreign ministry spokesperson Baghaei said the Iran–US ceasefire memorandum mentions Lebanon three times and that ending the war should include Lebanon and respect its sovereignty and territorial integrity."
-    },
-    {
-      "id": "4936606",
-      "time": "2026-06-15 20:25:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【獨家｜洋河百億大單品系列新動態：第六代海之藍已停產，第七代向全國有序鋪貨】新浪財經《酒業內參》獨家獲悉，洋河旗下百億大單品海之藍系列出現新動態：第六代海之藍已正式停產，目前正處於去庫存階段。而第七代海之藍作為海之藍系列的煥新迭代產品，是洋河今年省外將重點推廣的新品，正在包括河南、山東等全國多個市場有序推進上市。對於上述情況，洋河內部人士表示屬實。（酒業內參）"
-    },
-    {
-      "id": "4936605",
-      "time": "2026-06-15 20:25:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體15日報道，伊朗外交部發言人巴加埃當天說，在伊朗和美國的停戰諒解備忘錄中，“黎巴嫩”一詞被提到三次。“結束戰爭應當包括黎巴嫩，並且要尊重黎巴嫩的主權和領土完整。”（新華社）"
-    },
-    {
-      "id": "4936604",
-      "time": "2026-06-15 20:25:38",
-      "tags": [
-        "宏觀",
-        "國際",
-        "兩會"
-      ],
-      "text": "【李鴻忠會見德國聯盟黨代表團】中共中央政治局委員、全國人大常委會副委員長李鴻忠15日在京會見由德國聯盟黨議會黨團主席施潘率領的代表團。李鴻忠表示，今年2月，習近平主席同來華訪問的默茨總理成功會晤，就深化中德關係達成重要共識。中方願同德方一道，堅持互尊互信、開放合作，密切政黨、立法機構等交往，加強在國際事務中的溝通，共同維護多邊主義和自由貿易，推動中德、中歐關係行穩致遠。施潘表示，德國聯盟黨願同中方加強政黨對話，促進德中務實合作。 (新華社)"
-    },
-    {
-      "id": "4936603",
-      "time": "2026-06-15 20:25:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯被問及誰將代表伊朗出席簽署儀式時表示：我方預計伊朗方面出席的代表為眾議院議長、外交部長及其他人員。"
-    },
-    {
-      "id": "4936602",
-      "time": "2026-06-15 20:24:58",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲，道指期貨漲0.93%，標普500指數期貨漲1.30%，納指期貨漲2.16%。\n②德國DAX指數漲1.43%，英國富時100指數漲0.09%，法國CAC40指數漲1.24%，歐洲斯托克50指數漲1.31%。\n③WTI原油跌5.04%，報80.60美元/桶。布倫特原油跌4.61%，報83.30美元/桶。\n④知情人士稱伊美協議明確霍爾木茲海峽管理權。\n⑤霍爾木茲掃雷或需40至50天，油輪堵在波斯灣，全球庫存告急。\n⑥美國人工智慧公司Anthropic正緊急與特朗普政府展開磋商，希望解除針對其最新AI模型Fable 5和Mythos 5的限制措施。\n⑦繼首日上市收漲超19%後，SpaceX盤前再度漲5.5%，報169.6美元。馬斯克週日表示，SpaceX到2030年的營業收入可能達到1萬億美元。\n⑧美股航空股盤前集體上漲，聯合大陸航空、捷藍航空、Ryanair、阿拉斯加航空漲近5%，美國航空、達美航空漲4%，西南航空漲3.6%。美伊達成協議，國際油價大跌。WTI原油期貨一度跌5%至79.15美元/桶，創4月17日以來新低；布倫特原油期貨一度跌超4%至83.33美元/桶，創3月10日以來新低。\n⑨美光科技盤前大漲8.6%。至少有兩家投行大幅上調其目標價，其中，TD COWEN將美光科技目標價從660美元上調至1500美元；加拿大皇家銀行將美光科技目標價從525美元大幅上調至1200美元。"
     }
   ]
 }
