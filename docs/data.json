@@ -1,7 +1,17 @@
 {
-  "updated": "2026-06-23 07:24:07",
-  "count": 17312,
+  "updated": "2026-06-23 07:30:20",
+  "count": 17309,
   "items": [
+    {
+      "id": "4949057",
+      "time": "2026-06-23 07:25:47",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "【LPR連續13個月保持不變 貸款利率定價基準有望多元化】6月22日，中國人民銀行授權全國銀行間同業拆借中心公佈新一期貸款市場報價利率（LPR），1年期為3.0%，5年期以上為3.5%，連續13個月保持不變。專家表示，6月兩個期限品種的LPR保持不變，符合市場預期。專家分析，一方面是由於主要政策利率保持不變，當月LPR定價基礎沒有變化；另一方面從穩息差角度看，當前報價行缺乏主動下調LPR報價加點的動力。“預計伴隨利率調控框架改革，未來LPR報價形成機制有可能從7天期逆回購利率加點的方式逐步調整。”中信證券首席經濟學家明明表示，2026年第一季度中國貨幣政策執行報告提及單一貸款利率定價基準向多元化基準演化的海外先例，也可能對應未來我國貸款利率定價方式從單純跟隨LPR轉向參考國債利率等更加多元化方式。預計未來相較於直接LPR“降息”，央行或更多基於調控框架最佳化改革的方式，實現實體經濟融資降成本的目標。（中國證券報）"
+    },
     {
       "id": "4949056",
       "time": "2026-06-23 07:23:12",
@@ -158998,45 +159008,6 @@
         "國際"
       ],
       "text": "【英偉達時隔5年再發債，擬募資超200億美元】英偉達週一向美國證券交易委員會（SEC）提交檔案，披露本輪融資計劃，但並未公佈具體融資規模。據知情人士透露，英偉達計劃發行至少200億美元債券，這也是這家晶片廠商自人工智慧產業熱潮興起以來，首次開展債券融資。英偉達股價週一上漲3.5%，年內累計漲幅約14%。"
-    },
-    {
-      "id": "4937246",
-      "time": "2026-06-16 07:30:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報鐘聲：日本啟用軍工複合體，和平底線面臨空前挑戰】日本政府日前公佈的一組資料令人深感不安：受當局強化防衛能力方針影響，2025年度防衛省機械製造訂單額達到將近2.69萬億日元，在過去5年內激增至約3倍，佔到當年度政府公共需求訂單的近一半。其中，地對空導彈、飛機等武器裝備訂單增長尤為顯著。 這一態勢清晰表明，日本軍工複合體已被重新啟用。這是日本右翼勢力有計劃、有步驟突破戰後和平體制、定向扶持軍工產業的必然結果，值得包括日本民眾在內的全世界愛好和平的人民高度警惕。 日本軍工複合體的危險，不只在於製造武器，更在於製造對武器的需求；不只在於服務擴軍，更在於推動擴軍。"
-    },
-    {
-      "id": "te:markets:559135",
-      "time": "2026-06-16 07:29:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Losses as Markets Await US-Iran Deal — Brent traded below $84 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors awaited further details of the reported US-Iran peace agreement that could reopen the Strait of Hormuz. The interim accord is expected to be signed in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving markets cautious and prompting shipping companies to delay sending vessels through the route until greater clarity emerges. Oil markets have been heavily disrupted since the conflict began in late February, with the near-closure of the Strait of Hormuz affecting roughly one-fifth of global crude shipments."
-    },
-    {
-      "id": "te:markets:559134",
-      "time": "2026-06-16 07:28:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Holds Losses as Markets Await US-Iran Deal — Crude oil traded below $82 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors awaited further details of the reported US-Iran peace agreement that could reopen the Strait of Hormuz. The interim accord is expected to be signed in Switzerland on Friday, with President Donald Trump saying the free flow of oil from the Persian Gulf would resume once the deal takes effect. However, neither Washington nor Tehran has released the text of the memorandum of understanding, leaving markets cautious and prompting shipping companies to delay sending vessels through the route until greater clarity emerges. Oil markets have been heavily disrupted since the conflict began in late February, with the near-closure of the Strait of Hormuz affecting roughly one-fifth of global crude shipments."
-    },
-    {
-      "id": "4937245",
-      "time": "2026-06-16 07:27:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光伏需求下半年有望復甦 機構積極評級32股】今年以來，全球多地能源轉型提速，海外光伏裝機需求持續超出市場前期預期。業內人士認為，海外高景氣裝機需求能夠有效對沖國內產業鏈庫存壓力，帶動企業營收修復，產業鏈供需失衡局面有望逐步緩和。市場方面，6月15日光伏指數盤中拉昇，意華股份和福斯特漲停，金博股份、晶盛機電、華盛昌等漲幅居前。今年以來光伏裝置股整體表現平淡。據證券時報·資料寶統計，2026年以來，逾半數光伏裝置股跑輸同期上證指數，僅8股漲幅超50%，包括帝爾鐳射、固德威、拉普拉斯、德業股份等。以6月15日收盤價與年內高點相比，光伏裝置股平均回撤35.04%。8股回撤幅度逾50%，包括澤潤新能、雙良節能、歐普泰等。機構關注度方面，合計有32只光伏裝置股獲得5家及以上機構“積極型”評級（含買入、增持、強烈推薦等）。"
     }
   ]
 }
