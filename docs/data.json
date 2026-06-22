@@ -1,7 +1,86 @@
 {
-  "updated": "2026-06-22 08:33:54",
-  "count": 17334,
+  "updated": "2026-06-22 08:37:50",
+  "count": 17339,
   "items": [
+    {
+      "id": "4946911",
+      "time": "2026-06-22 08:36:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "中國華君集團有限公司在香港暫停交易。"
+    },
+    {
+      "id": "4946910",
+      "time": "2026-06-22 08:36:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐城控股有限公司在香港暫停交易。"
+    },
+    {
+      "id": "4946909",
+      "time": "2026-06-22 08:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本日經指數首次突破72,000點。"
+    },
+    {
+      "id": "4946908",
+      "time": "2026-06-22 08:36:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4170美元/盎司，日內漲0.37%。"
+    },
+    {
+      "id": "mkt:019eecc1-1684-7dd8-b0aa-f7ef76920ac3",
+      "time": "2026-06-22 08:35:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index hit a record high, up 1% intraday."
+    },
+    {
+      "id": "4946907",
+      "time": "2026-06-22 08:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：一直在努力不斷提高工資。"
+    },
+    {
+      "id": "4946906",
+      "time": "2026-06-22 08:35:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本日經指數升至歷史新高，日內漲1%。"
+    },
+    {
+      "id": "4946905",
+      "time": "2026-06-22 08:34:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：泡泡瑪特新推出的Labubu玩具不太可能成為短期催化劑。"
+    },
+    {
+      "id": "4946904",
+      "time": "2026-06-22 08:33:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【LG高管將訪問英偉達總部 討論物理人工智慧】據《亞洲商業日報》報道，LG電子、LG CNS、LG Innotek及其他LG集團下屬企業高管將於週一訪問英偉達總部，討論在物理人工智慧和機器人領域的合作事宜，報道未提及訊息來源。 此次訪問是在本月早些時候LG集團董事長具光謨與英偉達執行長黃仁勳在首爾會晤之後進行的。 週一，LG電子股價在首爾上漲12%；LG CNS上漲12%；LG公司上漲4.7%。"
+    },
     {
       "id": "mkt:019eecbe-2513-7dd8-b0aa-eb014ffd7d84",
       "time": "2026-06-22 08:32:24",
@@ -159502,41 +159581,6 @@
         "Importance 1"
       ],
       "text": "TTF Prices Tumble on US-Iran Peace Deal — European natural gas prices dropped more than 5% to around €44 in early Asian trading, the lowest in five weeks, after the US and Iran reached a deal to end hostilities and reopen the Strait of Hormuz. President Donald Trump said he would authorize the “toll-free reopening” of the vital shipping route and lift the blockade on Iran, with the strait expected to reopen once the agreement is formally signed in Switzerland on Friday. Iranian Deputy Foreign Minister Kazem Gharibabadi confirmed the agreement, although he noted that the full text would only be released after the signing ceremony. The reopening of the strait would restore LNG shipments from the Persian Gulf, helping to alleviate supply concerns that have kept natural gas prices in Europe and Asia elevated since March."
-    },
-    {
-      "id": "4935066",
-      "time": "2026-06-15 08:37:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "萬威國際有限公司在香港暫停交易。"
-    },
-    {
-      "id": "4935065",
-      "time": "2026-06-15 08:37:15",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日元空頭押注增至九年高位 套利交易呈現回升之勢】管存在干預風險以及日本央行可能週二加息，但投機者已將做空日元的押注提高到九年來最高水平，表明日元套利交易正在回升。據美國商品期貨交易委員會資料顯示，截至6月9日當週，槓桿基金增加日元空頭頭寸至超過11.5萬份合約，創下2017年11月以來最高水平。與此同時，日元兌美元匯率徘徊在160日元附近，令交易員對政府幹預保持警惕。"
-    },
-    {
-      "id": "4935064",
-      "time": "2026-06-15 08:36:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【市場分析：美國和伊朗宣佈達成臨時協議 最難的博弈才剛開場】美伊宣佈達成臨時協議，霍爾木茲海峽重開在望，這似乎會讓市場鬆口一氣。自伊朗戰爭爆發已有三個多月，結束戰火、恢復這條全球能源動脈的航運無疑是令人欣喜的進展。但截至現在，許多細節仍未敲定。和平能否持久尚不確定。即便達成協議，海峽的重新開放也將十分脆弱，且需要時間。交易細節仍在陸續公佈。伊朗副外長加里巴巴迪說，協議文字將在簽署後公佈。伊朗曾傳出多份看似協議草案的版本——但均未得到美國方面的確認，美國此前曾表示已公開的協議條款並不準確。協議中的某些內容——包括霍爾木茲海峽的重新開放——似乎要等到協議正式簽署後。關於重開海峽的時間表及其管理等細節仍不明朗。伊朗聲稱海峽將由德黑蘭和阿曼共同管理。該協議將啟動為期60天的談判，供華盛頓和德黑蘭就臨時協議中未涵蓋的問題（包括伊朗核計劃）進行談判。巴基斯坦稱還需要進行進一步的“實施前”討論。這表明一些問題仍未解決，協議各項條款實施的先後順序仍需敲定。目前尚不清楚該協議如何處理過去的分歧所在，包括解除伊朗制裁的順序，以及霍爾木茲海峽開放的具體條件。據報道，該協議確實包含停止以色列在黎巴嫩的軍事行動——未參與談判的以色列曾對此表示反對。即使該協議得以維持，仍有許多障礙亟待克服。臨時協議避開了部分最具爭議的問題，將其推遲至60天的談判過程中解決。雙方之間的互不信任根深蒂固。尤其是以色列仍將伊朗視為威脅。基於這些原因，彭博經濟研究評估認為任何協議持久的可能性都很低。相反，雙方可能利用任何短暫的和平時期為下一輪戰鬥做準備。這與該機構的預測一致，即這將是一場曠日持久的衝突，期間穿插著零星升級和短暫的平和時期。"
-    },
-    {
-      "id": "em:qqyh_mlc:202606153770827963",
-      "time": "2026-06-15 08:36:20",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【是鷹還是鴿？沃什“首秀”本週來襲 經濟學家聚焦“三大關鍵點”！】本週，新上任的美聯儲主席凱文·沃什（KevinWarsh）即將主持其任期內的第一次聯邦公開市場委員會（FOMC）會議，等待著他的不僅僅是一個更加“鷹派”的美聯儲，還有來自各方越發“沉重”的加息壓力。"
     }
   ]
 }
