@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-23 00:11:23",
-  "count": 17262,
+  "updated": "2026-06-23 00:15:28",
+  "count": 17248,
   "items": [
+    {
+      "id": "te:markets:560855",
+      "time": "2026-06-23 00:12:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.10% Lower — The FTSE MIB Index decreased 52 points or 0.10 percent on Monday to close at 52797 points. The decline was led by Leonardo SpA (-4.77%), Avio (-4.68%) and Hera (-4.47%). On the upside, the strongest performers were Nexi (2.30%), STMicroelectronics (1.82%) and Stellantis N.V. (1.63%)."
+    },
+    {
+      "id": "4948763",
+      "time": "2026-06-23 00:11:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列已下令駐黎巴嫩部隊不得主動發起進攻行動，僅允許在自衛或獲得高層批准的情況下使用武力。"
+    },
+    {
+      "id": "te:markets:560854",
+      "time": "2026-06-23 00:11:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.62% Higher — The DAX Index rose 154 points or 0.62 percent on Monday to close at 25140 points. Leading the gains are Infineon (6.09%), Zalando (4.12%) and MTU Aero Engines AG (1.65%). Top losers were Scout24 (-1.86%), SAP (-1.85%) and Deutsche Telekom (-1.80%)."
+    },
+    {
+      "id": "4948762",
+      "time": "2026-06-23 00:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗能源部長：憑藉美國暫停製裁許可，伊朗能夠更貼近真實市價出售石油，且不受制裁相關限制。"
+    },
     {
       "id": "te:markets:560853",
       "time": "2026-06-23 00:10:07",
@@ -158449,169 +158490,6 @@
         "國際"
       ],
       "text": "法國總統馬克龍：法國軍隊已做好馳援霍爾木茲海峽的準備，前提是美方願意接受我方的援助提議。"
-    },
-    {
-      "id": "4936972",
-      "time": "2026-06-16 00:15:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗核協議：不解除制裁。"
-    },
-    {
-      "id": "mkt:019ecc10-5d61-7dd8-b013-bde064347446",
-      "time": "2026-06-16 00:14:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the United States does want to straighten out the situation in Lebanon."
-    },
-    {
-      "id": "4936971",
-      "time": "2026-06-16 00:14:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員結束了關於伊朗核協議的記者簡報。"
-    },
-    {
-      "id": "4936970",
-      "time": "2026-06-16 00:14:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗及盟友相關事宜：我認為我們不太需要大量支援，但尋求盟友協助也不失為一個好主意。"
-    },
-    {
-      "id": "mkt:019ecc10-0721-7dd8-b013-b40672fa7633",
-      "time": "2026-06-16 00:14:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said on Iran and its allies he believes the U.S. does not need much help but that it would not be a bad idea."
-    },
-    {
-      "id": "4936969",
-      "time": "2026-06-16 00:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：想把黎巴嫩問題理順，必須和真主黨進行一次真正的對話。"
-    },
-    {
-      "id": "mkt:019ecc0f-ada5-7dd8-b013-a930d3eb4f07",
-      "time": "2026-06-16 00:13:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "President Trump said he will release the Iran deal text sometime after Friday and will not lift sanctions on Iran until it fulfils its obligations."
-    },
-    {
-      "id": "4936968",
-      "time": "2026-06-16 00:13:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國高階官員：簽署諒解備忘錄後不會對伊朗撥付任何資金。"
-    },
-    {
-      "id": "4936967",
-      "time": "2026-06-16 00:13:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗只有履行其應盡義務，美方才會解除對其制裁。"
-    },
-    {
-      "id": "4936966",
-      "time": "2026-06-16 00:13:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員： 美國及其他任何國家均未向伊朗解凍並釋放任何資產。"
-    },
-    {
-      "id": "mkt:019ecc0e-f5a5-7dd8-b013-a4c9c9a3a575",
-      "time": "2026-06-16 00:13:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Trump said he may or may not participate in the signing of the Iran agreement; Vice President Vance will attend to sign it."
-    },
-    {
-      "id": "4936965",
-      "time": "2026-06-16 00:13:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將於週五之後擇機公佈伊朗協議文字。"
-    },
-    {
-      "id": "4936964",
-      "time": "2026-06-16 00:12:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗相關協議簽署事宜，我可能會參與，也可能不參與。萬斯將前來出席簽署儀式。"
-    },
-    {
-      "id": "4936963",
-      "time": "2026-06-16 00:12:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為伊朗諒解備忘錄文字“很快”就會公佈。"
-    },
-    {
-      "id": "te:markets:559095",
-      "time": "2026-06-16 00:12:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.66% Higher — The FTSE MIB Index went up by 339 points or 0.66 percent on Monday to close at 51836 points. The rise was led by Ferrari NV (4.36%), Stellantis N.V. (3.58%) and Buzzi Unicem (3.46%). On the downside, the weakerst performers were Avio (-5.13%), Eni (-4.69%) and Leonardo SpA (-2.70%)."
-    },
-    {
-      "id": "4936962",
-      "time": "2026-06-16 00:12:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談週五是否出席伊朗簽字儀式：視情況而定。"
-    },
-    {
-      "id": "4936961",
-      "time": "2026-06-16 00:11:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員：美國現在知道所有水雷的位置。"
-    },
-    {
-      "id": "mkt:019ecc0d-5453-7dd8-b013-9c109959b860",
-      "time": "2026-06-16 00:11:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said on the Russia-Ukraine war he is looking to see whether action can be taken and that both leaders appear open to it."
     }
   ]
 }
