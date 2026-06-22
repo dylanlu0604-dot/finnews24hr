@@ -1,7 +1,16 @@
 {
-  "updated": "2026-06-23 01:32:52",
-  "count": 17265,
+  "updated": "2026-06-23 01:37:01",
+  "count": 17264,
   "items": [
+    {
+      "id": "mkt:019ef065-092f-7dd8-b0c3-2f92659cfd17",
+      "time": "2026-06-23 01:33:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran rebuts Vance claim that IAEA inspectors will enter Iran】CNN reported Monday that Iran said it will \"continue to cooperate under existing procedures\" with the UN nuclear watchdog, rejecting US assertions that Tehran had agreed to let IAEA inspectors return. IRNA quoted foreign ministry spokesman BAGHAEI saying Iran's engagement with the IAEA will proceed \"under Iran's obligations under the safeguards agreement\" and \"in line with resolutions passed by parliament and decisions of the Supreme National Security Council.\" Earlier, Vice President Vance told a Swiss press conference that Iran had agreed to IAEA inspector entry."
+    },
     {
       "id": "4948814",
       "time": "2026-06-23 01:31:58",
@@ -158586,25 +158595,6 @@
         "MKT News"
       ],
       "text": "Fitch: On a potential US-Iran agreement, even if signed the medium-term outlook for the Gulf region remains uncertain."
-    },
-    {
-      "id": "mkt:019ecc5b-0e91-7dd8-b014-995a31b4b05d",
-      "time": "2026-06-16 01:36:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Fitch says prospects for a potential U.S.-Iran deal are positive, but uncertainty remains elevated."
-    },
-    {
-      "id": "4937001",
-      "time": "2026-06-16 01:34:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達據悉在大規模債券發行中吸引了850億美元投資者需求。"
     }
   ]
 }
