@@ -1,7 +1,162 @@
 {
-  "updated": "2026-06-22 10:01:06",
-  "count": 17332,
+  "updated": "2026-06-22 10:05:11",
+  "count": 17335,
   "items": [
+    {
+      "id": "4947096",
+      "time": "2026-06-22 10:04:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌3%，現報2513.00元。"
+    },
+    {
+      "id": "mkt:019eed12-2806-7dd8-b0ad-c748e6cf03e3",
+      "time": "2026-06-22 10:04:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Heatwave sweeps multiple European countries】A heatwave struck parts of Europe beginning June 21, triggering high-temperature alerts and record readings. Spain’s national weather service said the first heatwave of the summer began June 21 across the Iberian Peninsula and the Balearic Islands and is expected to persist through June 25; many Spanish locations reached 40–42°C on June 21. Paris and 34 French departments issued highest-level red heat warnings on June 21; red alerts cover more than one-third of metropolitan France, with local temperatures forecast to hit about 41°C on June 22. Italy’s meteorological service reported inland highs of 39°C on June 21."
+    },
+    {
+      "id": "4947095",
+      "time": "2026-06-22 10:03:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華勝天成與DriveNets達成戰略合作】據華勝天成訊息，6月18日，雲原生網路基礎設施公司DriveNets全球CEO兼聯合創始人Ido Susan率團到訪華勝天成。華勝天成董事長兼總裁王維航會見來訪嘉賓，雙方圍繞AI資料中心基礎設施建設、新一代雲原生網路架構創新及全球AI算力協同等議題進行了深入交流，並就進一步拓展全球市場合作路徑達成多項共識，正式建立合作伙伴關係。"
+    },
+    {
+      "id": "mkt:019eed11-c56f-7dd8-b0ad-b8fdebc3d10e",
+      "time": "2026-06-22 10:03:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00884.HK",
+        "Impact bearish",
+        "02772.HK",
+        "03900.HK"
+      ],
+      "text": "Hong Kong-listed mainland property shares fell: CIFI Holdings Group (00884.HK) down over 9%, Zhongliang Holdings (02772.HK) down over 8%, Greentown China (03900.HK) and Longfor Group (00960.HK) down over 5%, CHINA RES LAND (01109.HK) and SUNAC CHINA (01918.HK) down over 4%."
+    },
+    {
+      "id": "4947094",
+      "time": "2026-06-22 10:03:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元早盤小幅走弱，至17800。"
+    },
+    {
+      "id": "4947093",
+      "time": "2026-06-22 10:03:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "今年第7號颱風“米克拉”的中心今天（22日）上午由颱風級加強為強颱風級，上午8點鐘其中心位於臺灣鵝鑾鼻東偏南方向約890公里的西北太平洋洋麵上（北緯17.4度、東經127.9度），中心附近最大風力有15級（48米/秒，強颱風級），中心最低氣壓為945百帕，七級風圈半徑為200-350公里，十級風圈半徑為80-90公里，十二級風圈半徑為40公里。 預計，“米克拉”將以每小時15-20公里的速度向西偏北方向移動，強度逐漸增強，並逐漸向我國臺灣島東南洋麵靠近。受其影響，23日夜間至27日，巴士海峽，臺灣以東洋麵、東海南部海面將有7-9級風，陣風10-11級；部分海域風力有10-11級，陣風12-13級。"
+    },
+    {
+      "id": "4947092",
+      "time": "2026-06-22 10:03:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞航X執行長：預計危機期間削減的運力將在第三季度全面恢復。"
+    },
+    {
+      "id": "mkt:019eed10-5a54-7dd8-b0ad-b379648bf9e2",
+      "time": "2026-06-22 10:02:12",
+      "tags": [
+        "MKT News",
+        "03330.HK",
+        "Impact bearish",
+        "02489.HK",
+        "01787.HK"
+      ],
+      "text": "Hong Kong-listed gold miners fell, with Lingbao Gold (03330.HK) and Jihai Gold (02489.HK) down over 8%; Tongguan Gold (00340.HK), Chifeng Gold (06693.HK) and Shandong Gold (01787.HK) down more than 6%."
+    },
+    {
+      "id": "te:markets:560591",
+      "time": "2026-06-22 10:02:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Split after PBOC Decision — The Shanghai Composite edged down 0.2% to 4,084 on Monday, while the Shenzhen Component gained 0.6% to a more than one-month high of 16,120, leaving benchmarks mixed after the People's Bank of China kept its key lending rates unchanged at record lows for a thirteenth straight month. The one-year loan prime rate (LPR) remained at 3%, while the five-year LPR stayed at 3.5%, reflecting caution as Middle East tensions and mixed economic data cloud the growth outlook. Meanwhile, Hong Kong is discussing with Chinese authorities plans to widen cross-border investment channels and allow mainland investors to participate in local IPOs, following Beijing’s recent crackdown on unauthorized offshore trading and non-compliant retail accounts. Financial stocks lagged, with losses in Industrial and Commercial Bank of China (-0.4%), Agricultural Bank of China (-0.6%), and China Construction Bank (-0.4%). In contrast, NAURA Technology (2.6%) and Luxshare Precision Industry (1.1%) advanced."
+    },
+    {
+      "id": "te:markets:560589",
+      "time": "2026-06-22 10:02:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Prices Decline — US heating oil prices fell toward $3.10 per gallon in June, not far from the three-month low reached on June 18, as markets tracked a fast-changing US–Iran peace talk narrative. Both parties agreed on a 60-day roadmap toward a final deal, with technical talks set to continue through the rest of the week, according to a statement from mediators Qatar and Pakistan in Switzerland. Still, doubts over the viability of the agreement persisted after local media reported that Iran suspended talks following President Donald Trump’s renewed threats of strikes should Hezbollah continue attacking Israel. The evolving developments have left markets assessing how quickly oil shipping through the Strait of Hormuz could return to normal, which has been largely constrained since March. Meanwhile, US distillate inventories, which include diesel and heating oil, increased by 0.951 million barrels in mid-June."
+    },
+    {
+      "id": "te:markets:560588",
+      "time": "2026-06-22 10:02:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Hong Kong Hit 52-week Low — HK50 decreased to 23464.00 Index Points, the lowest since June 2025. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) lost 8.23%, and in the last 12 months, it decreased 0.83%."
+    },
+    {
+      "id": "mkt:019eed0f-a4b2-7dd8-b0ad-ab968283fc51",
+      "time": "2026-06-22 10:01:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【Beijing: 127 monitored firms record 6.11 bln yuan in Dragon Boat holiday sales; +1.6% YoY】Beijing Municipal Bureau of Commerce said 127 monitored enterprises generated 6.11 bln yuan in sales over the Dragon Boat holiday (June 19-21, 2026), up 1.6% YoY. Specialty retailers led gains with sales up 42.6% YoY, while e-commerce sales rose 0.8% YoY."
+    },
+    {
+      "id": "4947091",
+      "time": "2026-06-22 10:01:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指上漲0.8%，報6226.72點。"
+    },
+    {
+      "id": "mkt:019eed0f-8010-7dd8-b0ad-a22df30a89d5",
+      "time": "2026-06-22 10:01:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Jan-May postal deliveries up 4.3% YoY; express up 5.2%】State Post Bureau said on June 22 that in Jan-May total postal delivery volume reached 89.89 billion pieces, up 4.3% YoY; express deliveries totaled 82.87 billion pieces, up 5.2% YoY."
+    },
+    {
+      "id": "4947090",
+      "time": "2026-06-22 10:01:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【麥格理：上調臺積電目標價至3380元新臺幣，維持“跑贏大市”評級】麥格理將臺積電臺股的目標價由2550元新臺幣上調33%至3380元新臺幣，維持“跑贏大市”評級。報告指，臺積電能利用火熱需求，並持續為客戶提供更佳的效能，進而繼續成功定期調漲價格。報告又指，臺積電正有系統地逐步淘汰成熟製程，以優先發展先進製程製造。這一策略轉變不僅最佳化了受限的芯圓廠空間，還可能導致綜合平均售價大幅拉昇。"
+    },
+    {
+      "id": "4947089",
+      "time": "2026-06-22 10:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前5個月我國郵政行業寄遞業務量同比增長4.3%】國家郵政局今天（22日）公佈今年前5個月我國郵政行業執行情況。資料顯示，行業寄遞業務量同比增長4.3%，繼續保持穩步增長態勢。 國家郵政局最新資料顯示，前5個月，郵政行業寄遞業務量累計完成898.9億件，同比增長4.3%；其中，快遞業務量累計完成828.7億件，同比增長5.2%。"
+    },
     {
       "id": "4947088",
       "time": "2026-06-22 10:00:19",
@@ -159308,120 +159463,6 @@
         "國際"
       ],
       "text": "印尼股市基準指數上漲3%，至6185.20美元。"
-    },
-    {
-      "id": "4935277",
-      "time": "2026-06-15 10:04:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南省市場監督管理局原副局長李澍田被查】中央紀委國家監委網站6月15日通報，據河南省紀委監委訊息：河南省市場監督管理局原黨組成員、副局長李澍田涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4935276",
-      "time": "2026-06-15 10:04:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江省佳木斯市政府原副市長姜濤被查】中央紀委國家監委網站6月15日通報，據黑龍江省紀委監委訊息：黑龍江省佳木斯市政府原副市長、市公安局原局長姜濤涉嫌嚴重違紀違法，目前正接受黑龍江省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4935275",
-      "time": "2026-06-15 10:04:02",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【光纖概念震盪走強 杭電股份漲停】光纖概念震盪走強，杭電股份漲停，烽火通訊、通鼎互聯、光電股份、特發資訊、通光線纜跟漲。訊息面上，國盛證券在研報中指出，美國本土光纖產能高度集中於康寧等少數廠商，本輪行情的核心變數之一是海外需求正在成為核心驅動力，中國光纖光纜廠商開始系統性出海。"
-    },
-    {
-      "id": "4935274",
-      "time": "2026-06-15 10:04:00",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【安克創新據悉開始評估投資者對其香港上市的興趣 籌資不超過7億美元】知情人士稱，中國消費電子產品製造商安克創新已開始評估投資者對其香港上市的興趣。知情人士稱，該公司計劃在未來數週透過香港上市籌資不超過7億美元。檔案顯示，中金、高盛和摩根大通為聯席保薦人。安克創新暫未回應置評請求。"
-    },
-    {
-      "id": "mkt:019ec905-6010-7dd8-affc-007bbab4ac96",
-      "time": "2026-06-15 10:03:53",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China A-share Sci-Tech Innovation 50 Index climbed more than 3% intraday; Shengke Communication surged over 10%, while Huahai Qingke and China Resources Microelectronics each rose more than 7%."
-    },
-    {
-      "id": "4935273",
-      "time": "2026-06-15 10:03:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲3%，現報8165.60點。"
-    },
-    {
-      "id": "4935272",
-      "time": "2026-06-15 10:02:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【氮化鎵概念震盪拉昇 士蘭微封漲停】氮化鎵概念盤中震盪拉昇，士蘭微封漲停，三安光電觸及漲停，華潤微、捷捷微電、海特高新、晶方科技等跟漲。訊息面上，2026年6月12日，最高人民法院正式發出臨時禁令複議裁定書，維持蘇州中院針對英飛凌的銷售禁令，意味著從此刻起英飛凌相關氮化鎵產品被禁止在中國境內銷售，英諾賽科取得了專利侵權案的最終勝利。"
-    },
-    {
-      "id": "4935271",
-      "time": "2026-06-15 10:02:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國網綜能集團副總經理趙永彬一行到中國建研院座談交流】據中國建研院訊息，近日，國網綜合能源服務集團有限公司（簡稱“國網綜能集團”）黨委委員、副總經理趙永彬一行到訪中國建研院，實地參觀近零能耗示範建築、BIM科技展廳，並圍繞綠色低碳發展、公共機構節能服務等方面開展座談交流。座談期間，雙方圍繞公共機構能效診斷、零碳園區規劃與建設、綜合能源專業人才培養等方面，結合中國建研院綠色低碳、建築鴻蒙、建研查微等技術成果展開重點研討並達成初步合作意向。"
-    },
-    {
-      "id": "4935270",
-      "time": "2026-06-15 10:02:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【半導體港股漲幅擴大 華虹宏力漲近7%】截至發稿，華虹宏力(01347.HK)漲近7%，中芯國際(00981.HK)漲4%，兆易創新(03986.HK)漲6%。相關市場上，美股費城半導體指數上週五漲1.52%。"
-    },
-    {
-      "id": "4935269",
-      "time": "2026-06-15 10:02:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國氣象局升級調整應急響應為重大氣象災害（暴雨、強對流）三級】6月15日9時，中國氣象局升級調整重大氣象災害（暴雨）四級應急響應為（暴雨、強對流）三級應急響應。"
-    },
-    {
-      "id": "4935268",
-      "time": "2026-06-15 10:01:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達3.06%，成分股中，盛科通訊漲9.80%，華潤微漲7.19%，思特威漲7.17%，華海清科漲7.10%。"
-    },
-    {
-      "id": "4935267",
-      "time": "2026-06-15 10:01:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4320美元/盎司，日內漲2.48%。"
-    },
-    {
-      "id": "4935266",
-      "time": "2026-06-15 10:01:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股指開盤上漲1.8%，至6118.73點。"
     }
   ]
 }
