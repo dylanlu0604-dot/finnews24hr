@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-22 20:38:37",
-  "count": 17259,
+  "updated": "2026-06-22 20:43:11",
+  "count": 17257,
   "items": [
+    {
+      "id": "4948433",
+      "time": "2026-06-22 20:41:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海沿浦：擬2000萬元投資設立控股子公司暨關聯交易】上海沿浦公告稱，公司擬與蒲衛東、上海勰睦合資設立上海沿浦智恆科技有限公司，註冊資本2000萬元。其中，公司出資1100萬元，佔比55%；蒲衛東出資500萬元，佔比25%；上海勰睦出資400萬元，佔比20%。資金用於核心技術研發等。本次交易構成關聯交易，但不構成重大資產重組，且無需提交股東會審議。截至公告披露日，合資協議未簽署，交易存在不確定性。"
+    },
+    {
+      "id": "4948432",
+      "time": "2026-06-22 20:41:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守78美元/桶，日內跌2.56%。"
+    },
+    {
+      "id": "mkt:019eef58-697f-7dd8-b0bd-30a3154d3167",
+      "time": "2026-06-22 20:40:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "British MP Burnham said the idea of calling a general election was premature when asked whether he would do so."
+    },
+    {
+      "id": "4948431",
+      "time": "2026-06-22 20:38:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國議員伯納姆：當被問及他是否會呼籲提前舉行大選時，他表示，現在說這個還為時過早。"
+    },
+    {
+      "id": "4948430",
+      "time": "2026-06-22 20:38:25",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛將美國未來12個月發生衰退的機率預估下調至15%，此前預期為25%。"
+    },
+    {
+      "id": "mkt:019eef56-cc90-7dd8-b0bd-2b60de6599c3",
+      "time": "2026-06-22 20:38:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Goldman Sachs cut its estimate of the probability of a U.S. recession within 12 months to 15% from 25%."
+    },
+    {
+      "id": "4948429",
+      "time": "2026-06-22 20:38:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲2.81%。"
+    },
     {
       "id": "mkt:019eef56-42c6-7dd8-b0bd-243cd74050c8",
       "time": "2026-06-22 20:37:48",
@@ -158453,92 +158519,6 @@
         "國際"
       ],
       "text": "【美副總統：霍爾木茲海峽將“長期開放、免費通行”】美國副總統萬斯15日表示，預計美伊諒解備忘錄將使霍爾木茲海峽“長期開放且不收取通行費”。（新華社）"
-    },
-    {
-      "id": "4936634",
-      "time": "2026-06-15 20:42:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬盛股份：公司覆銅板阻燃劑業務規模尚小 處於發展初期】萬盛股份今日在互動平臺表示，隨著汽車電子、資料中心、通訊及消費電子等領域需求持續擴張，帶動覆銅板行業需求向好，進而利好覆銅板配套阻燃劑產品的市場需求。公司覆銅板阻燃劑業務2024年、2025年營收不足公司當期營業收入的1%。目前該業務規模尚小，處於發展初期，公司將積極把握行業機遇推動業務發展，關於未來業績變化，請您持續關注公司後續公告。"
-    },
-    {
-      "id": "4936633",
-      "time": "2026-06-15 20:42:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "6月15日，全球資金淨買入印度股票20億印度盧比。"
-    },
-    {
-      "id": "mkt:019ecb4c-697a-7dd8-b00d-b7507fb1ce9c",
-      "time": "2026-06-15 20:40:42",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Canada wholesale inventories YoY April 9.4% vs prior 7.3%."
-    },
-    {
-      "id": "mkt:019ecb4c-4ff0-7dd8-b00d-a93d27fd265f",
-      "time": "2026-06-15 20:40:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Wholesale Inventories (YoY) (Apr) | actual 9.4% | previous 7.3%"
-    },
-    {
-      "id": "4936631",
-      "time": "2026-06-15 20:40:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "6月15日，印度國內資金淨買入印度股票319億印度盧比。"
-    },
-    {
-      "id": "mkt:019ecb4c-1c92-7dd8-b00d-a3c582b939e8",
-      "time": "2026-06-15 20:40:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada wholesale sales YoY +6.3% in April vs +3.3% previously."
-    },
-    {
-      "id": "mkt:019ecb4b-fb62-7dd8-b00d-9aa2274621cb",
-      "time": "2026-06-15 20:40:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Wholesale Sales (YoY) (Apr) | actual 6.3% | previous 3.3%"
-    },
-    {
-      "id": "4936630",
-      "time": "2026-06-15 20:40:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中國鋼鐵工業協會副會長李毅仁在歐洲鋼鐵市場大會發表主旨演講：中國鋼鐵以堅定綠色低碳轉型應對全球市場變局】近日，由中國國際貿易促進委員會冶金行業分會（以下簡稱“冶金貿促會”）和Kallanish聯合主辦的2026歐洲鋼鐵市場大會在奧地利維也納舉行。大會聚焦環境監管趨嚴、能源成本高企與貿易規則重構背景下歐洲鋼鐵行業的發展變局，深度研討了歐洲鋼鐵生產運營、下游需求復甦、CBAM（歐盟碳邊境調節機制）實施進展、低碳鍊鋼技術、廢鋼供需及綠色數智轉型等核心議題，吸引了政府部門、行業協會、鋼鐵企業、貿易企業、科研院所、投資機構等200餘名代表參會。中國鋼鐵工業協會副會長、冶金貿促會會長李毅仁及太鋼集團、敬業鋼鐵、中天鋼鐵、鑫匯冶金等國內鋼鐵企業代表應邀參加。李毅仁在題為《Updates and Outlook of China's Iron and Steel Industry》（中國鋼鐵工業發展現狀與未來展望）的主旨演講中指出，中國鋼鐵工業已全面進入減量提質、結構最佳化發展階段，在當前關稅和非關稅貿易壁壘給全球市場帶來衝擊的新形勢下，中國鋼鐵行業正以堅定自身綠色低碳轉型的確定性，積極有效應對全球鋼鐵市場的複雜變局。（中國鋼鐵工業協會）"
-    },
-    {
-      "id": "te:economy:559065",
-      "time": "2026-06-15 20:39:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "NY Empire State Manufacturing Index",
-        "Importance 2"
-      ],
-      "text": "New York Manufacturing Growth Slows in June — The New York Fed’s Empire State Manufacturing Index fell to 5.7 in June 2026, down from 19.6 in the previous month and well below market expectations of 14, indicating a notable slowdown in regional manufacturing activity, according to firms surveyed in the Empire State Manufacturing Survey. Despite the weaker headline reading, several underlying indicators showed continued expansion. New orders and shipments both rose, while unfilled orders also increased. However, supply chain pressures persisted, with delivery times lengthening and supply availability continuing to deteriorate. Labor market conditions remained firm, with employment expanding for a fifth consecutive month and the average workweek also increasing. Meanwhile, inflationary pressures remained elevated, as both input and selling price increases stayed strong. Looking ahead, firms maintained a broadly optimistic outlook for business conditions over the coming months, despite near-term moderation in activity."
     }
   ]
 }
