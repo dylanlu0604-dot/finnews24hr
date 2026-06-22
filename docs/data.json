@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-22 20:12:23",
-  "count": 17281,
+  "updated": "2026-06-22 20:16:31",
+  "count": 17277,
   "items": [
+    {
+      "id": "4948378",
+      "time": "2026-06-22 20:15:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華致酒行：子公司補繳稅款及滯納金合計1.27億元】華致酒行(300755.SZ)公告稱，公司全資子公司華致精品及西藏中糖經自查需補繳稅款及滯納金合計1.27億元，其中稅款7847.28萬元，滯納金4861.74萬元。截至公告日，上述款項已全部繳納完畢，不涉及行政處罰。本次補繳將計入2026年當期損益，不影響公司正常經營。"
+    },
+    {
+      "id": "mkt:019eef41-af88-7dd8-b0bb-efe4ec5ca90a",
+      "time": "2026-06-22 20:15:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "White House National Economic Council director Hassett said lowering the debt-to-GDP ratio is our top priority."
+    },
+    {
+      "id": "4948377",
+      "time": "2026-06-22 20:15:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：在啟動時，佩科斯資料中心園區將配套運營一座天然氣發電設施。"
+    },
+    {
+      "id": "mkt:019eef41-69f5-7dd8-b0bb-e6972b627435",
+      "time": "2026-06-22 20:15:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "U.S. White House National Economic Council Director HASSETT said profit opportunities exist across the artificial intelligence sector."
+    },
+    {
+      "id": "4948376",
+      "time": "2026-06-22 20:14:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：降低債務佔GDP比重是當務之急。"
+    },
+    {
+      "id": "4948375",
+      "time": "2026-06-22 20:14:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：新資料中心園區將支援超6,000個建築崗位。"
+    },
+    {
+      "id": "4948374",
+      "time": "2026-06-22 20:14:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新宏澤：控股股東擬減持不超3%公司股份】新宏澤公告稱，控股股東億澤控股持有公司60.78%股份，計劃自2026年7月15日至10月14日，以集中競價和大宗交易方式減持不超676.19萬股，不超總股本（剔除回購專用賬戶所持股份）的3%，其中集中競價不超225.40萬股，大宗交易不超450.80萬股。減持原因為自身資金需求，本次減持不會導致公司控制權變更，也不會對公司產生重大影響。"
+    },
+    {
+      "id": "mkt:019eef40-cf63-7dd8-b0bb-def6539321a4",
+      "time": "2026-06-22 20:14:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hassett, director of the White House National Economic Council, said AI companies are earning outsized profits."
+    },
+    {
+      "id": "4948373",
+      "time": "2026-06-22 20:14:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "線上影片遊戲平臺Roblox股價盤前跌幅擴大，觸及日內低點，下跌4.4%。"
+    },
+    {
+      "id": "4948372",
+      "time": "2026-06-22 20:14:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：未來5至7年對佩科斯資料中心的投資將達數十億美元。"
+    },
+    {
+      "id": "4948371",
+      "time": "2026-06-22 20:13:57",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX啟動首次高評級美元債發行。"
+    },
+    {
+      "id": "mkt:019eef40-26a1-7dd8-b0bb-d670431ea03f",
+      "time": "2026-06-22 20:13:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) launches first investment-grade USD bond offering."
+    },
+    {
+      "id": "4948370",
+      "time": "2026-06-22 20:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟：我們將在美國得克薩斯州貝可斯市新建一個資料中心園區。"
+    },
+    {
+      "id": "4948369",
+      "time": "2026-06-22 20:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：人工智慧領域處處都有利潤。"
+    },
+    {
+      "id": "4948368",
+      "time": "2026-06-22 20:12:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：人工智慧公司正在印鈔票。"
+    },
+    {
+      "id": "mkt:019eef3f-59e2-7dd8-b0bb-cb0378caa26a",
+      "time": "2026-06-22 20:12:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran central bank governor: 'significant progress' on unfreezing Iranian assets】Iran central bank governor Hemmati said frozen Iranian assets made \"significant progress\" toward release in recent talks and that relevant documents were signed during the round. He described frozen central bank assets as among the most complex issues in the negotiations. Under the arrangements, funds will be phased into use over the coming days subject to agreed conditions and procedures set by the Central Bank of Iran. On oil and petrochemicals, Hemmati said the sanctions-waiver mechanism under the Iran-US memorandum of understanding should already be activated and that the US Treasury’s Office of Foreign Assets Control has been agreed to implement the arrangements."
+    },
     {
       "id": "4948367",
       "time": "2026-06-22 20:11:21",
@@ -158581,194 +158725,6 @@
         "Brent"
       ],
       "text": "BAGHAEI said Tehran will coordinate with Oman and other countries to take measures to ensure safe passage through the Strait of Hormuz; the measures will be targeted at specific times and correspond to US commitments."
-    },
-    {
-      "id": "4936582",
-      "time": "2026-06-15 20:16:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃表示，德黑蘭將協同阿曼及其他國家採取措施，確保霍爾木茲海峽的安全通行，此舉將限定在特定時間內，並與美方自身承諾相對應。"
-    },
-    {
-      "id": "4936581",
-      "time": "2026-06-15 20:16:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【知情人士：騰訊入股阿里通義大模型前首席研究員林俊暘創立的全新人工智慧實驗室】據兩名知情投資人士透露，騰訊控股已入股由阿里巴巴通義大模型前首席研究員林俊暘創立的全新人工智慧實驗室。 知情人士表示，該實驗室首輪融資總規模達數億美元，投後估值約20億美元；其中騰訊出資2000萬美元。此輪融資由高榕資本、紅杉中國兩家本土風投領投，兩家機構各出資1億美元。 訊息人士補充稱，本輪融資剛完成交割，林俊暘團隊已著手籌備下一輪募資。"
-    },
-    {
-      "id": "4936580",
-      "time": "2026-06-15 20:15:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大5月新屋開工 26.14萬戶，預期25.51萬戶，前值由27.93萬戶修正為27.84萬戶。"
-    },
-    {
-      "id": "4936579",
-      "time": "2026-06-15 20:15:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【企業持續重組，新加坡裁員人數升至近三年高位】新加坡人力部6月15日釋出報告顯示，今年1月至3月期間，新加坡裁員人數從前一季度的3690人增至3830人。這是自2023年第三季度以來的最高水平，當時共有4110名員工被裁撤。報告指出，企業重組和業務調整仍然是裁員的主要原因。與此同時，製造業、金融與保險服務業以及專業服務業等多個行業的裁員人數均有所增加。"
-    },
-    {
-      "id": "mkt:019ecb35-3f62-7dd8-b00b-fbc02381a1b5",
-      "time": "2026-06-15 20:15:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said broader work on a 21st round of sanctions against Russia is underway."
-    },
-    {
-      "id": "4936578",
-      "time": "2026-06-15 20:15:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【斬斷“黑飛”黑灰產業鏈 上海警方連破3起涉無人機嚴重違法案件】近日，上海警方深挖無人機領域違法線索，先後偵破3起涉無人機嚴重違法案件，精準打擊無人機“黑飛”使用者、非法破解服務商、破解軟體製售從業者，斬斷覆蓋“研發售賣、非法破解、違規飛行”的黑灰利益鏈條。2026年3月，上海奉賢警方成功抓獲打掉一處無人機破解軟體研發售賣源頭窩點。2026年4月，上海寶山警方根據線索，成功破獲一起提供侵入、非法控制計算機資訊系統程式、工具的刑事案件，抓獲某航空科技服務有限公司法定代表人劉某。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ecb35-065a-7dd8-b00b-f6105fcb1c44",
-      "time": "2026-06-15 20:15:10",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada May housing starts 261,400 units, vs 255,100 expected; April revised to 278,400 from 279,300."
-    },
-    {
-      "id": "mkt:019ecb34-e397-7dd8-b00b-ebb1cb85993a",
-      "time": "2026-06-15 20:15:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Housing Starts (May) | actual 261400K | consensus 255100.00000000003K | previous 279300K"
-    },
-    {
-      "id": "4936577",
-      "time": "2026-06-15 20:14:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "Roku執行長：我們認為，與福克斯合作，能讓Roku在實力雄厚的合作伙伴的支援與資源助力下，發展得更快更明智。"
-    },
-    {
-      "id": "4936576",
-      "time": "2026-06-15 20:14:30",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英偉達計劃透過發行高等級債券籌資至少200億美元。"
-    },
-    {
-      "id": "mkt:019ecb34-6bf8-7dd8-b00b-e491ec4d5a5e",
-      "time": "2026-06-15 20:14:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA plans to raise at least $20 billion by issuing investment-grade bonds."
-    },
-    {
-      "id": "mkt:019ecb34-18cd-7dd8-b00b-d8d177916ff2",
-      "time": "2026-06-15 20:14:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The EU said its new sanctions list adds 34 individuals and 47 entities."
-    },
-    {
-      "id": "4936575",
-      "time": "2026-06-15 20:13:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【粵萬年青：控股股東及一致行動人擬詢價轉讓6%股份】粵萬年青公告稱，控股股東廣東金歐健康科技有限公司及一致行動人廣東僑銀房地產開發有限公司擬詢價轉讓股份，總數為960萬股，佔公司總股本的6%。其中，廣東金歐轉讓640萬股，佔比4%；廣東僑銀轉讓320萬股，佔比2%，轉讓原因為自身資金需求。受讓方為具備相應定價能力和風險承受能力的機構投資者，受讓股份6個月內不得轉讓。本次轉讓價格下限不低於6月15日前20個交易日股票交易均價的70%。轉讓計劃實施存在司法凍結、市場環境變化等風險。"
-    },
-    {
-      "id": "4936574",
-      "time": "2026-06-15 20:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會批准對俄羅斯的新制裁。歐盟對支援俄羅斯軍事行動的7名個人和21個實體實施制裁措施。"
-    },
-    {
-      "id": "mkt:019ecb33-6ff7-7dd8-b00b-d156d8c68353",
-      "time": "2026-06-15 20:13:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "EU Council approves new sanctions on Russia."
-    },
-    {
-      "id": "mkt:019ecb33-141f-7dd8-b00b-c927891e8994",
-      "time": "2026-06-15 20:13:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Foreign Ministry spokesman Baghaei said the US will pledge to allow Iran to access its frozen assets, but will not provide any funds to Tehran."
-    },
-    {
-      "id": "4936573",
-      "time": "2026-06-15 20:12:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中富通：控股子公司英博達擬出資9180萬元設立控股子公司筍殼科技】中富通公告，公司子公司深圳英博達科技有限公司計劃與浙江夢工場孵化器有限公司、福州閩侯旭杭共創產業投資合夥企業共同投資設立杭州筍殼科技有限公司。筍殼科技註冊資本1.8億元，英博達認繳9180萬元，持股51%；夢工場認繳6120萬元，持股34%；旭杭產投認繳2700萬元，持股15%。該投資已由公司董事會審議透過，尚需提交股東會審議。本次投資不構成重大資產重組，不會對公司財務及經營狀況產生不利影響。"
-    },
-    {
-      "id": "mkt:019ecb32-d19c-7dd8-b00b-c26ea070a9d8",
-      "time": "2026-06-15 20:12:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran says deep mistrust of US; regional visits planned ahead of Switzerland signing】Iran Foreign Ministry spokesperson BAGHAEI said regional visits are on the diplomatic agenda ahead of a planned signing in Switzerland this week of a US-Iran memorandum of understanding. He said Lebanon is an important element of the MOU, that respect for Lebanon’s sovereignty and territorial integrity is part of the temporary agreement, and Iran will closely monitor developments there. Given recent attacks by Israel on Lebanon, Iran will make decisions according to specific criteria. BAGHAEI cited the 1953 US‑UK‑backed coup against Iran’s elected government as the origin of deep-rooted mistrust of the United States and said Washington has a long way to go to win Iran’s trust."
-    },
-    {
-      "id": "4936572",
-      "time": "2026-06-15 20:12:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中富通：控股子公司英博達擬出資510萬元設立石礫科技】中富通公告，基於公司發展戰略，子公司英博達計劃與希姆半導體、索瑩嘉業、旭杭產投共同投資設立石礫科技。石礫科技註冊資本1000萬元，英博達持股51%，旭杭產投持股21%，希姆半導體持股15%，索瑩嘉業持股13%。該事項已透過董事會審議，尚需提交股東會審議。"
-    },
-    {
-      "id": "mkt:019ecb32-b597-7dd8-b00b-bd90f14b1bfb",
-      "time": "2026-06-15 20:12:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign ministry: Iran-US ceasefire memorandum details to be released soon】Iran's foreign ministry spokesman said on the 15th that details of an Iran-US ceasefire memorandum will be released soon."
     }
   ]
 }
