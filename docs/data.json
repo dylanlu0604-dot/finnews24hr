@@ -1,7 +1,225 @@
 {
-  "updated": "2026-06-22 18:03:25",
-  "count": 17151,
+  "updated": "2026-06-22 18:07:26",
+  "count": 17160,
   "items": [
+    {
+      "id": "4948030",
+      "time": "2026-06-22 18:06:42",
+      "tags": [
+        "央行",
+        "市場",
+        "焦點"
+      ],
+      "text": "【央行：上海黃金交易所黃金成交5521.8噸，同比增加2.8%】央行釋出5月金融市場執行情況，2026年5月末，上海黃金交易所Au（T+D）合約收於每克984.0元，環比下跌3.0%。2026年5月，上海黃金交易所黃金成交5521.8噸，同比增加2.8%；上海期貨交易所黃金成交1.1萬噸，同比減少54.6%。"
+    },
+    {
+      "id": "mkt:019eeecb-c03f-7dd8-b0b7-53639e223b1f",
+      "time": "2026-06-22 18:06:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【PBOC: Shanghai Gold Exchange gold turnover 5,521.8 tonnes in May, up 2.8% YoY】PBOC May market report: at end‑May 2026 SGE Au(T+D) closed at 984.0 yuan/gram, down 3.0% MoM. In May 2026 SGE gold turnover was 5,521.8 tonnes, up 2.8% YoY; Shanghai Futures Exchange gold turnover was 11,000 tonnes, down 54.6% YoY."
+    },
+    {
+      "id": "4948029",
+      "time": "2026-06-22 18:06:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "費爾沃能源公司（FERVO ENERGY CO）：增強型地熱系統雙子平臺計劃於2029年前建成投用。"
+    },
+    {
+      "id": "mkt:019eeecb-4933-7dd8-b0b7-4bd181ec7b5e",
+      "time": "2026-06-22 18:06:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran central bank begins steps to unfreeze frozen assets】On June 22, Finance Minister Madanizadeh said Iran's central bank has begun necessary steps to unfreeze frozen assets, though specific details and amounts remain unclear. Central Bank Governor Abdolnaser Hemmati said recent talks in Switzerland were compact and difficult but proceeded broadly in line with Iran's delegation objectives, and that significant progress has been made; the funds will be activated progressively in stages under central bank orders over the coming days."
+    },
+    {
+      "id": "4948028",
+      "time": "2026-06-22 18:05:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【伊朗央行開始推動解凍伊朗被凍結資產】當地時間22日，伊朗財經部長馬達尼扎德表示，伊朗央行已開始採取必要措施，推動解凍伊朗被凍結資產，但“具體細節和金額並不清楚”。（央視新聞）"
+    },
+    {
+      "id": "4948027",
+      "time": "2026-06-22 18:05:47",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "據港交所檔案披露，摩根大通公司截至6月16日，對藥明康德H股<2359.HK>的空頭頭寸從4.55%降至3.01%。"
+    },
+    {
+      "id": "4948026",
+      "time": "2026-06-22 18:05:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：5月商業匯票承兌發生額4.4萬億元 貼現發生額3.7萬億元】央行釋出2026年5月金融市場執行情況，2026年5月，商業匯票承兌發生額4.4萬億元，貼現發生額3.7萬億元。2026年5月末，商業匯票承兌餘額22.0萬億元，同比增加9.8%；貼現餘額17.2萬億元，同比增加13.1%。"
+    },
+    {
+      "id": "4948025",
+      "time": "2026-06-22 18:05:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙：加拿大不存在法律層面障礙阻礙其與華納兄弟探索的交易。"
+    },
+    {
+      "id": "4948024",
+      "time": "2026-06-22 18:05:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "費爾沃能源（Fervo Energy）與太平洋西北國家實驗室（PNNL）藉助人工智慧與英偉達加速計算技術，打造全新數字孿生平臺，推動地熱能開發發展。"
+    },
+    {
+      "id": "4948023",
+      "time": "2026-06-22 18:05:03",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "根據港交所披露檔案，摩根大通集團於6月16日減持藥明康德H股<2359.HK>，持股比例從12.10%降至10.46%。"
+    },
+    {
+      "id": "mkt:019eeeca-67fb-7dd8-b0b7-43ede159d9ec",
+      "time": "2026-06-22 18:05:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "【PBOC: End‑May 10-year government bond yield 1.71%】PBOC released May 2026 financial market data. At end‑May the 10‑year government bond yield was 1.71%; the 10‑year minus 1‑year yield spread was 55bps, narrowing 3bps MoM. May net financing: government bonds 1,223.6 bln yuan, down 235.0 bln YoY; corporate bonds 168.0 bln yuan, up 18.4 bln YoY. Bond market custody balance stood at 202.6 tln yuan at end‑May. Spot bond market turnover in May was 36.7 tln yuan, +8.8% YoY; interbank spot turnover rate 18.0%, down 3.9 percentage points MoM. Active 10‑year government bond bid‑ask spread 0.27bps."
+    },
+    {
+      "id": "4948022",
+      "time": "2026-06-22 18:04:55",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【央行：5月末10年期國債收益率為1.71%】央行釋出5月金融市場執行情況，2026年5月，政府債券淨融資12235.5億元，同比減少2349.8億元；企業債券淨融資1680.4億元，同比增加183.9億元。2026年5月末，債券市場託管餘額202.6萬億元。2026年5月，現券市場成交額36.7萬億元，同比增加8.8%；銀行間債券市場現券換手率為18.0%，環比下降3.9個百分點；10年期國債活躍券買賣價差為0.27個基點。2026年5月末，10年期國債收益率為1.71%；10年期與1年期國債收益率利差為55個基點，環比收窄3個基點。"
+    },
+    {
+      "id": "4948021",
+      "time": "2026-06-22 18:04:37",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【海事情報公司：6月15日以來伊朗已出口3600萬桶原油】據海事情報公司“油輪追蹤者”（Tanker Trackers）當地時間6月22日訊息，自6月15日以來，伊朗已出口3600萬桶原油。（央視新聞）"
+    },
+    {
+      "id": "mkt:019eeec9-fd86-7dd8-b0b7-3970630e03f5",
+      "time": "2026-06-22 18:04:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK MP Burnham says he will run for prime minister."
+    },
+    {
+      "id": "mkt:019eeec9-b1c4-7dd8-b0b7-357f3c5e0f7f",
+      "time": "2026-06-22 18:04:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK lawmaker Burnham thanked Starmer for his leadership."
+    },
+    {
+      "id": "4948020",
+      "time": "2026-06-22 18:04:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國議員伯納姆：將確保黨魁換屆平穩有序推進。"
+    },
+    {
+      "id": "4948019",
+      "time": "2026-06-22 18:03:51",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國議員伯納姆：我將參選英國首相。"
+    },
+    {
+      "id": "4948018",
+      "time": "2026-06-22 18:03:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國議員伯納姆主動參選，參與政黨換屆流程。"
+    },
+    {
+      "id": "4948017",
+      "time": "2026-06-22 18:03:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST棕櫚：股票連續3日跌幅偏離值累計超12% 屬異常波動】ST棕櫚公告稱，公司股票連續3個交易日（2026年6月17日、6月18日、6月22日）收盤價格跌幅偏離值累計超過12%，屬於異常波動情形。經核查，公司前期披露資訊無更正、補充，未發現影響股價的未公開重大資訊，主營業務、經營環境無重大變化，控股股東、實控人無應披露未披露重大事項及買賣公司股票情形。公司股票於2026年4月28日起被實施其他風險警示，提醒投資者理性投資、注意風險。"
+    },
+    {
+      "id": "mkt:019eeec8-ca88-7dd8-b0b7-2bdf2d0dcf8a",
+      "time": "2026-06-22 18:03:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC: May DR001 monthly weighted average 1.28%】The PBOC said May monthly weighted average of DR001 (overnight pledged repo of interest-rate bonds among deposit-taking financial institutions) was 1.28%, up 5 bps MoM; DR007 was 1.35%, essentially unchanged; R001 (interbank overnight pledged repo) was 1.32%, up 2 bps MoM. Daily average interbank lending turnover was 417.28 bln yuan, +18.5% YoY; daily average interbank bond repo turnover was 7.4 tln yuan, +8.1% YoY. End‑May outstanding interbank lending balance was 1.0 tln yuan; outstanding interbank bond repo balance was 10.1 tln yuan."
+    },
+    {
+      "id": "4948016",
+      "time": "2026-06-22 18:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國議員伯納姆：感謝斯塔默的領導力。"
+    },
+    {
+      "id": "4948015",
+      "time": "2026-06-22 18:02:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【退市滬科：股票退市整理期剩餘5個交易日 期滿將終止上市】退市滬科公告稱，公司股票於2026年6月8日進入退市整理期，預計最後交易日期為6月29日。截至6月22日收盤已交易10個交易日，剩餘5個交易日，交易期滿將被終止上市。退市整理期屆滿後5個交易日內，上交所將對公司股票予以摘牌。公司提醒投資者及時了結相關業務，司法凍結業務建議提前辦理續凍手續。"
+    },
+    {
+      "id": "4948014",
+      "time": "2026-06-22 18:02:33",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【央行：5月政府債券淨融資12235.5億元 同比減少2349.8億元】央行資料顯示，2026年5月，同業拆借日均成交4172.8億元，同比增加18.5%；銀行間市場債券回購日均成交7.4萬億元，同比增加8.1%。2026年5月末，同業拆借未到期餘額1.0萬億元，銀行間市場債券回購未到期餘額10.1萬億元。2026年5月，銀行業存款類金融機構間利率債隔夜質押式回購（DR001）月加權平均利率為1.28%，環比上升5個基點；DR007月加權平均利率為1.35%，較上月基本持平；銀行間市場隔夜質押式回購（R001）月加權平均利率為1.32%，環比上升2個基點。2026年5月，DR001與央行公開市場7天期逆回購操作利率的利差日均值為-12個基點，R001與DR001的利差日均值為4個基點。2026年5月，政府債券淨融資12235.5億元，同比減少2349.8億元；企業債券淨融資1680.4億元，同比增加183.9億元。2026年5月末，債券市場託管餘額202.6萬億元。"
+    },
+    {
+      "id": "4948013",
+      "time": "2026-06-22 18:02:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "雪佛龍股價上漲1.5%，此前該公司與微軟簽署了電力交易協議。"
+    },
     {
       "id": "4948012",
       "time": "2026-06-22 18:02:13",
@@ -157586,134 +157804,6 @@
         "其他"
       ],
       "text": "【企業持續重組 新加坡裁員人數升至近三年高位】由於企業在更具不確定性的經濟環境下持續進行業務重組，新加坡第一季度裁員人數升至近三年來最高水平。 根據新加坡人力部週一釋出的報告，今年1月至3月期間，裁員人數從前一季度的3,690人增至3,830人。這是自2023年第三季度以來的最高水平，當時共有4,110名員工被裁撤。報告指出，企業重組和業務調整仍然是裁員的主要原因。與此同時，製造業、金融與保險服務業以及專業服務業等多個行業的裁員人數均有所增加。裁員人數上升之際，僱主對經濟前景正變得愈發謹慎。一家行業組織4月進行的調查顯示，超過一半的新加坡企業表示對勞動力成本感到擔憂。新加坡金融管理局此前也警告稱，由於不確定性增加，今年勞動力需求可能趨於疲軟。"
-    },
-    {
-      "id": "4936325",
-      "time": "2026-06-15 18:07:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華海藥業：公司及下屬子公司獲得藥品註冊證書】華海藥業公告，公司及下屬全資子公司製藥科技近日收到國家藥監局核准簽發的甲苯磺酸艾多沙班片、培哚普利氨氯地平片（III）、雷米普利片的藥品註冊證書。甲苯磺酸艾多沙班片用於治療非瓣膜性房顫成人患者，預防卒中和體迴圈栓塞等，2025年預測銷售金額約6.15億元。培哚普利氨氯地平片（III）用於單藥治療不能充分控制高血壓的成人患者，2025年預測銷售金額約6.12億元。雷米普利片用於原發性高血壓等，2025年預測銷售金額約1.31億元。"
-    },
-    {
-      "id": "4936324",
-      "time": "2026-06-15 18:06:55",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【吉大正元：持股9.51%股東擬減持不超3%股份】吉大正元公告稱，持股9.51%（1841.6萬股）的股東上海雲鑫創業投資有限公司，因自身資本規劃需要，計劃於2026年7月8日至10月7日，合計減持不超公司總股本3%（580.86萬股）。其中，大宗交易不超2%（387.24萬股），受讓方6個月內不得減持；集中競價不超1%（193.62萬股）。本次減持不會導致公司控制權變更，對公司經營無不利影響。"
-    },
-    {
-      "id": "4936323",
-      "time": "2026-06-15 18:06:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉大正元：持股9.51%股東擬減持不超3%股份】吉大正元公告稱，持股9.51%（1841.6萬股）的股東上海雲鑫創業投資有限公司，因自身資本規劃需要，計劃於2026年7月8日至10月7日，合計減持不超公司總股本3%（580.86萬股）。其中，大宗交易不超2%（387.24萬股），受讓方6個月內不得減持；集中競價不超1%（193.62萬股）。本次減持不會導致公司控制權變更，對公司經營無不利影響。"
-    },
-    {
-      "id": "4936322",
-      "time": "2026-06-15 18:06:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄新社援引俄羅斯使館訊息：英國扣押的油輪上沒有俄羅斯船員。"
-    },
-    {
-      "id": "4936321",
-      "time": "2026-06-15 18:06:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新光藥業：持股5%以上股東減持1.34%股份】新光藥業公告稱，公司持股5%以上股東嵊州市和豐投資股份有限公司於2026年6月5日至12日，透過大宗交易減持213.7萬股，佔總股本的1.3356%。減持前，和豐投資持股14.9999%；減持後，持股13.6643%，持股比例變動觸及1%整數倍。此次減持符合已披露減持計劃，不會影響公司治理結構和持續經營，也不會導致控制權變更。"
-    },
-    {
-      "id": "4936320",
-      "time": "2026-06-15 18:06:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新致軟體：郭瑋及其一致行動人幹耀迦晟等完成3134.8萬股認購】新致軟體公告，公司2024年度向特定物件發行股票已獲中國證監會同意註冊。本次發行中，公司實際控制人郭瑋先生及其控制的企業幹耀迦晟以現金方式認購3134.8萬股，發行價格為9.57元/股。本次發行後，郭瑋及其一致行動人合計持有公司股份比例將超過30%，但因已獲股東大會批准免於發出要約，故無需履行要約收購義務。本次發行募集資金總額為3億元，扣除發行費用後淨額為2.91億元，將全部用於補充流動資金及償還貸款。"
-    },
-    {
-      "id": "4936319",
-      "time": "2026-06-15 18:06:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興通股份：2025年度現金分紅總額調整為6440萬元】興通股份公告，公司2025年度利潤分配擬向全體股東每10股派發現金紅利2元（含稅）不變，現金分紅總額由6491.66萬元（含稅）調整為6440萬元（含稅）。調整原因為公司回購專用證券賬戶股份數量變動，實際參與利潤分配的股份總數調整為3.22億股。"
-    },
-    {
-      "id": "4936318",
-      "time": "2026-06-15 18:06:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新致軟體：發行3134.8萬股募集3億元】新致軟體公告，向特定物件發行3134.8萬股，發行價格為9.57元/股，募集資金總額為3億元，募集資金淨額為2.91億元。本次發行新增股份為有限售條件流通股，新增股份在其限售期屆滿的次一交易日起在上海證券交易所科創板上市交易。本次發行完成後，公司總股本增至3.13億股，實際控制人仍為郭瑋。"
-    },
-    {
-      "id": "mkt:019ecabe-71c0-7dd8-b008-8bde134142be",
-      "time": "2026-06-15 18:05:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Memo reportedly gives Iran and Oman management authority over Strait of Hormuz; Iran to charge transits after 60-day grace period】A final-draft Iran–US memorandum was reportedly revised to “clearly and unambiguously” state that Iran and Oman exercise management authority over the Strait of Hormuz. The latest text says future management of maritime shipping services in the strait will be decided jointly by Iran and Oman and uses the term maritime shipping services, which the report says effectively recognizes Iran’s right to charge passing vessels. Under the text Iran agreed only to a 60‑day free transit period; after that it plans to collect revenue from commercial ships transiting the strait by providing services including navigation safety, maritime assurance, environmental protection and insurance, with proceeds earmarked for national economic development. The report says Iran coordinated with Oman; it did not explain the 60‑day grace period."
-    },
-    {
-      "id": "4936317",
-      "time": "2026-06-15 18:05:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "強生：向佛羅里達州傑克遜維爾地區投資超 10 億美元。"
-    },
-    {
-      "id": "4936316",
-      "time": "2026-06-15 18:04:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府官員表示，國有零售商每升汽油收入損失3盧比，每升柴油收入損失27盧比。"
-    },
-    {
-      "id": "4936315",
-      "time": "2026-06-15 18:04:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "LEADER'S ADVANTAGE ACQUISITION CORP：擬申請以股票程式碼“LEDRU”在納斯達克上市。"
-    },
-    {
-      "id": "4936314",
-      "time": "2026-06-15 18:04:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊媒稱伊美協議明確霍爾木茲海峽管理權】伊朗法爾斯通訊社15日援引一名知情人士的話報道稱，伊美諒解備忘錄在達成前最後階段進行了修改，“明確且無歧義地”強調了伊朗與阿曼對霍爾木茲海峽行使管理權。報道稱，備忘錄最新文字明確規定，“霍爾木茲海峽海上航運服務的未來管理”將由伊朗和阿曼共同決定。文字中特別使用“海上航運服務”這一表述，意味著美國事實上承認伊朗有權就相關服務向過往船隻收取費用。（新華社）"
-    },
-    {
-      "id": "4936313",
-      "time": "2026-06-15 18:04:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南亞新材：提前終止減持計劃 7名股東合計減持公司股份約356.38萬股】南亞新材(688519.SH)公告稱，公司部分董事、實際控制人及其一致行動人提前終止減持計劃。截至公告日，包秀銀、包愛芳、周巨芬、包垚崇、包思嬌、包航榆、張東等7名股東合計減持公司股份約356.38萬股，佔公司總股本約1.5%。其中，周巨芬因操作失誤超額減持1000股，違反相關規定。為彌補影響，包航榆、包垚崇自願放棄剩餘合計2200股減持，並提前終止本次減持計劃。"
-    },
-    {
-      "id": "4936312",
-      "time": "2026-06-15 18:03:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【裕信：沃什領導下的美聯儲戰略對美元至關重要】裕信The Investment Institute的策略師在一份報告中表示，在新任主席凱文·沃什領導下，美聯儲的戰略將對美元的走向至關重要。他們表示，美聯儲可能會在週三沃什作為主席的首次會議上維持利率不變，並放棄偏向政策寬鬆的立場。他們表示，價格壓力上升將要求美聯儲加息，但這將增加與支援降息的特朗普政府的摩擦。然而他們表示，如果美聯儲對通貨膨脹掉以輕心，這將造成信譽問題並損害美元。DXY美元指數下跌0.2%，至99.513。"
     }
   ]
 }
