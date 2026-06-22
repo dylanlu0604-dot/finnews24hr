@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-23 05:25:25",
+  "updated": "2026-06-23 05:29:18",
   "count": 17324,
   "items": [
+    {
+      "id": "4948996",
+      "time": "2026-06-23 05:26:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 烏克蘭與日本將設立規模達數千萬美元的聯合基金， 相關細節將於週四在波蘭舉辦的烏克蘭重建大會上公佈。"
+    },
+    {
+      "id": "4948994",
+      "time": "2026-06-23 05:25:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭與日本計劃依託日立、東芝設立重建基金。"
+    },
     {
       "id": "te:markets:560873",
       "time": "2026-06-23 05:19:49",
@@ -159115,26 +159131,6 @@
         "其他"
       ],
       "text": "英偉達：擬發行最高250億美元的七分制票據。"
-    },
-    {
-      "id": "te:markets:559118",
-      "time": "2026-06-16 05:25:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls on Rising Inflation Expectations — The Ibovespa fell 0.4% to close at 170,415 on Monday after the latest Focus survey showed inflation expectations continuing to rise. The median forecast for annual inflation in 2026 increased for the 14th consecutive week, from 5.11% to 5.30%, moving further above the BCB's upper target limit of 4.5%. Meanwhile, the median forecast for the Selic rate at the end of 2026 rose from 13.5% to 13.75%. Concerns over a more hawkish BCB weighed on banks, with Bradesco falling 0.8% and Itaú losing 0.5%. Petrobras also dragged on the index, dropping 5.1% as oil prices fell after the US and Iran announced a preliminary peace agreement that would reopen the Strait of Hormuz. In contrast, Vale climbed 2.5% as iron ore prices rose on supply concerns linked to a potential strike by BHP workers in Australia. Embraer jumped 7.1% after Azorra finalized a deal to acquire 15 aircraft."
-    },
-    {
-      "id": "4937171",
-      "time": "2026-06-16 05:25:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：與伊朗達成的諒解備忘錄篇幅大約一頁半，是一份非常寬泛的檔案。"
     }
   ]
 }
