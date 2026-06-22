@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-22 13:20:39",
-  "count": 17296,
+  "updated": "2026-06-22 13:24:47",
+  "count": 17292,
   "items": [
+    {
+      "id": "4947346",
+      "time": "2026-06-22 13:23:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【富時中國A50指數期貨漲1%】富時中國A50指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "4947345",
+      "time": "2026-06-22 13:23:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及外交部：埃及外長與維特科夫磋商美伊談判事宜】埃及外交部發布宣告稱，美國特使史蒂夫・維特科夫向埃及外長巴德爾・阿卜杜勒阿提通報了美伊談判相關情況。雙方舉行了電話會談。阿卜杜勒阿提表示，希望埃及與伊朗達成的諒解備忘錄能成為夯實地區安全的起點，為解決各類其他地區問題創造有利條件。"
+    },
+    {
+      "id": "mkt:019eedc8-d57c-7dd8-b0b0-adac0e79bb7a",
+      "time": "2026-06-22 13:23:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures spiked intraday, currently up more than 1%."
+    },
+    {
+      "id": "mkt:019eedc8-b66d-7dd8-b0b0-a33cead8dbe1",
+      "time": "2026-06-22 13:23:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "06030.HK",
+        "Impact bullish",
+        "03908.HK",
+        "01776.HK"
+      ],
+      "text": "Chinese broker shares extended afternoon gains: CITIC Securities (06030.HK) rose over 8%; China International Capital Co (03908.HK) and GF Securities (01776.HK) gained more than 6%; China Securities (06066.HK) and Guolian Minsheng (01456.HK) were up over 5%."
+    },
+    {
+      "id": "mkt:019eedc8-68fd-7dd8-b0b0-980d88daae20",
+      "time": "2026-06-22 13:23:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "text": "【Bernstein: Commodity DRAM may extend gains into 2027; HBM faces profit catch-up pressure】Bernstein says commodity DRAM prices, which rose roughly 4.5x between 2025 Q3 and 2026 Q2, could continue to climb into 2027. That trend has pushed commodity DRAM ASP per bit to parity with or above HBM. Bernstein estimates higher bit density and better yields mean commodity DRAM could generate about twice the revenue per wafer of HBM this year and enjoy materially higher margins. HBM prices would need to rise roughly threefold to match DRAM on revenue per wafer, but suppliers are unlikely to push HBM that high because excessive HBM pricing could harm the broader AI ecosystem and ultimately curb memory demand."
+    },
+    {
+      "id": "4947343",
+      "time": "2026-06-22 13:20:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省微短劇出海綜合服務平臺正式啟動】近日，浙江省微短劇出海綜合服務平臺啟動儀式暨工作宣貫會在杭州召開。會上正式啟動浙江省微短劇出海綜合服務平臺，著力補齊微短劇出海服務短板、完善產業生態佈局，全面助力浙產視聽精品加速“走出去”。會上釋出了“2026年浙江省微短劇出海首批推薦片單”，《盛夏芬德拉》《馬年限定之新春有約》《有山靈第一季》等11部優秀劇目入選。同時釋出平臺首批“三張清單”——合作單位清單、服務事項清單、年度任務清單，向參與企業作出服務承諾。"
+    },
     {
       "id": "4947342",
       "time": "2026-06-22 13:19:41",
@@ -9,6 +75,14 @@
         "其他"
       ],
       "text": "理想汽車：全新理想L8將於6月23日晚20:00正式釋出，並按照定單鎖定順序進行排產。"
+    },
+    {
+      "id": "4947341",
+      "time": "2026-06-22 13:19:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽社科院林斐談長鑫科技上市：合肥“押中”的不是具體企業，而是產業趨勢】從IPO正式受理到註冊生效僅耗時165天，長鑫科技集團股份有限公司（以下簡稱“長鑫科技”）成為資本市場關注焦點。 日前，證監會同意長鑫科技首次公開發行股票並在科創板上市的註冊申請。這也意味著，有“中國海力士”之稱的DRAM（動態隨機存取儲存器)巨頭登陸資本市場已“箭在弦上”。 據瞭解，長鑫科技在持續攪動半導體行業與資本市場之時，也成為合肥市再度“押中”“賭對”明星企業的最新案例。經穿透股權計算後，合肥國資合計持有長鑫科技的股權比例超過35%。在長鑫科技之前，合肥市已成功“押中”京東方、蔚來等知名企業。 對於外界將合肥市接連成功“押注”明星企業的原因歸結為政府“豪賭”的說法，安徽省社會科學院研究員、安徽省發展戰略研究會副會長林斐日前在接受記者採訪時並不認可：“合肥市成功的原因不是簡單‘押注’，而是基於對國家戰略方向、產業演進規律和技術變革趨勢的戰略研判，‘押中’的也不是具體企業，而是產業發展趨勢。”（中國經營報）"
     },
     {
       "id": "mkt:019eedc4-2f7b-7dd8-b0b0-90c56568f826",
@@ -158956,115 +159030,6 @@
         "MKT News"
       ],
       "text": "Iran National Security Council spokesman Rezayi said internal unity and consensus are Iran's most important asset in confronting challenges. He said Iran is fully prepared to respond to any threat and that the armed forces are working around the clock to strengthen national defense."
-    },
-    {
-      "id": "mkt:019ec9bc-15c0-7dd8-afff-5ef5f4699ce4",
-      "time": "2026-06-15 13:23:27",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share photovoltaic processing-equipment sector climbed; Jingsheng Mechanical & Electrical surged over 10%, while Dier Laser, Gaoce, Jiejia Weichuang, Aotewei and Liancheng CNC also advanced."
-    },
-    {
-      "id": "mkt:019ec9bb-fed4-7dd8-afff-536066820dcf",
-      "time": "2026-06-15 13:23:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Palestinian sources said Israeli forces carried out a drone strike on a group of Palestinian civilians in the central Gaza Strip, killing one and wounding several."
-    },
-    {
-      "id": "mkt:019ec9bb-c884-7dd8-afff-4ccef557260a",
-      "time": "2026-06-15 13:23:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China's 2026 spring recruitment offers over 12.68 mln jobs】China's 2026 spring campus recruitment campaign ended with more than 12.68 million job listings provided by 674,000 employers across about 23,000 online and offline job fairs, attracting 13.524 million graduate job-seekers. Organizers concentrated hiring in AI, the low-altitude economy, green and low-carbon sectors, advanced manufacturing and the digital economy, ran regional special fairs in western China and Xiong'an New Area, and used AI and big data for personalized candidate matching."
-    },
-    {
-      "id": "4935565",
-      "time": "2026-06-15 13:22:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年“春招”共提供超1268萬個崗位】記者從人力資源社會保障部瞭解到，2026年全國城市聯合招聘高校畢業生春季專場活動日前結束，共提供超1268萬個崗位資訊。活動期間，各地聚焦人工智慧、低空經濟、綠色低碳、先進製造、數字經濟等重點領域，加大優質崗位開發力度。舉辦西部地區、雄安新區等區域性專場招聘活動，運用AI、大資料，為畢業生提供個性化、精準化的求職服務。線上線下共舉辦2.3萬場招聘會，67.4萬家用人單位提供崗位資訊1268.1萬個，吸引1352.4萬人次高校畢業生參與求職。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ec9bb-40a5-7dd8-afff-43bef8b5f972",
-      "time": "2026-06-15 13:22:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Trump threatens 100% tariffs on French champagne and wine over 3% digital services tax】According to the New York Post, President Trump warned France could trigger a new trade fight if it does not drop its 3% digital services tax, threatening 100% tariffs on all French champagne and wine if the levy remains. He said he had directly told President Macron to cancel the tax; the U.S. market accounts for roughly one-fifth of French wine sales, over $2bn annually. France’s 3% digital services tax, effective since 2019, targets gross revenues from digital services and applies to companies including Alphabet, Amazon, Meta and Apple, hitting U.S. tech firms because it is levied on revenue rather than profit."
-    },
-    {
-      "id": "4935564",
-      "time": "2026-06-15 13:22:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：泰國或將根據伊朗戰爭發展情況調整GDP預測。"
-    },
-    {
-      "id": "mkt:019ec9ba-acb0-7dd8-afff-3f5ede0335bc",
-      "time": "2026-06-15 13:21:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Refinitiv ship-tracking data show LNG carrier Disha has transited eastward through the Strait of Hormuz after the US and Iran announced a peace agreement. The vessel, carrying cargo from Qatar's Ras Laffan port, is chartered by Indian Oil."
-    },
-    {
-      "id": "4935563",
-      "time": "2026-06-15 13:21:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【芯海科技與華為簽署開源鴻蒙生態戰略合作協議】6月12日，芯海科技(688595)與華為簽署開源鴻蒙生態“鴻圖計劃”戰略合作協議，雙方將圍繞開源鴻蒙晶片模組展開深度協同，加速生態規模化商用。"
-    },
-    {
-      "id": "4935562",
-      "time": "2026-06-15 13:21:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "船舶追蹤資料顯示，載有卡達拉斯拉凡港貨物的液化天然氣船“迪莎號”由印度佩特羅內特公司承租。"
-    },
-    {
-      "id": "4935561",
-      "time": "2026-06-15 13:21:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "船舶追蹤資料顯示：航向為東的“迪莎號”液化天然氣運輸船，在美伊達成和平協議後駛過霍爾木茲海峽。"
-    },
-    {
-      "id": "4935560",
-      "time": "2026-06-15 13:21:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗副外長誓言應對任何陰謀保持戒備】據伊朗塔斯尼姆通訊社報道，伊朗副外長加里巴巴迪表示，該國武裝部隊將保持高度戒備狀態，隨時準備“扣動扳機”以挫敗任何陰謀。"
     }
   ]
 }
